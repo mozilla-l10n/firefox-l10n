@@ -18,8 +18,8 @@ go lekola ga dikaonafatšo ga maitirišo ga &brandShortName;.">
 na ditumelelo tša tshepedišo tšeo di nyakegago bakeng sa go e lokela. Hle ikgokaganye le 
 molaodi wa tshepedišo ya gago, goba o leke gape go tšwa go akhaonto yeo e nago le tumelelo ya go 
 lokela lenaneotirišo la khomphutha khomphutheng ye.">
-<!ENTITY  manualUpdate.space.desc         "A recommended security and stability update is available, but you do
-                                           not have enough space to install it.">
+<!ENTITY  manualUpdate.space.desc         "Mpshafatšo ya tšhireletšego le go tia yeo e eletšwago e a hwetšagala, eupša ga o na 
+sekgoba se lekanego gore o ka e lokela.">
 <!ENTITY  manualUpdateGetMsg.label        "Ka mehla o ka hwetša kgatišo ya morago bjale ya &brandShortName; go:">
 
 <!ENTITY  incompatibleCheck.title         "Go lekola tshwanelano ya setlaleletši">
@@ -65,10 +65,10 @@ le go laolla kgatišo ya morago bjale:">
 <!ENTITY  errorpatching.intro             "Kaonafatšo e hlaolago e be e ka se dirišwe. 
 &brandShortName; e tla leka gape ka go laolla kaonafatšo e feletšego.">
 
-<!ENTITY  genericBackgroundError.label    "&brandShortName; is unable to determine if there is an update available. Please
-                                           make sure that you have the latest version of &brandShortName; from:">
-<!ENTITY  errorCertAttrNoUpdate2.label    "Something is preventing &brandShortName; from updating securely.
-                                           Please make sure that you have the latest version of &brandShortName; from:">
+<!ENTITY  genericBackgroundError.label    "&brandShortName; ga e kgone go lemoga ge eba mpshafatšo e hwetšagala. Hle 
+netefatša gore o na le tokollo ya morago-rago ya &brandShortName; go tšwa go:">
+<!ENTITY  errorCertAttrNoUpdate2.label    "Selo se itšego se thibela &brandShortName; go mpshafatša ka tšhireletšego.
+Hle netefatša gore o na le tokollo ya morago-rago ya &brandShortName; go tšwa go:">
 <!ENTITY  errorCertAttrHasUpdate.label    "Selo se itšego se leka go goketša &brandShortName; go amogela 
 mpshafatšo yeo e sa šireletšegago. Hle ikopanye le moabi wa gago wa neteweke gomme o kgopele thušo.">
 

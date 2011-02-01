@@ -3,25 +3,25 @@
 <!-- These strings are used in the about:home page -->
 
 
-<!ENTITY abouthome.pageTitle "&brandFullName; Start Page">
+<!ENTITY abouthome.pageTitle "&brandFullName; Thoma letlakala">
 <!-- LOCALIZATION NOTE (abouthome.brandStart):
      brandShortName must be in a <span/>
 -->
 
-<!ENTITY abouthome.brandStart "<span>&brandShortName;</span> Start">
+<!ENTITY abouthome.brandStart "<span>&brandShortName;</span> thoma">
 
 <!ENTITY abouthome.searchEngineButton.label "Nyaka">
 
 <!ENTITY abouthome.searchEngineLinks.advanced "Nyako e gatetšego pele">
 <!ENTITY abouthome.searchEngineLinks.preferences "Dikganyogo">
 
-<!ENTITY abouthome.aboutMozilla "About Mozilla">
+<!ENTITY abouthome.aboutMozilla "Ka ga Mozilla">
 <!-- LOCALIZATION NOTE (abouthome.defaultSnippet1.v1):
      text in <a/> will be linked to the Firefox features page on mozilla.com
 -->
 
-<!ENTITY abouthome.defaultSnippet1.v1 "Thanks for choosing Firefox! To get the most out of your browser, learn more about the <a>latest features</a>.">
+<!ENTITY abouthome.defaultSnippet1.v1 "Re lebogela gore o kgethile Firefox. Gore o hwetše tše dintši praosareng ya gago, ithute mo gontši ka <a>dipobego tša morago-rago</a>.">
 <!-- LOCALIZATION NOTE (abouthome.defaultSnippet2.v1):
      text in <a/> will be linked to the featured add-ons on addons.mozilla.org
 -->
-<!ENTITY abouthome.defaultSnippet2.v1 "It's easy to customize your Firefox exactly the way you want it. <a>Choose from thousands of add-ons</a>.">
+<!ENTITY abouthome.defaultSnippet2.v1 "Go bonolo go dira Firefox gore e be ka tsela yeo o ratago ka yona tlwaa. <a>Kgetha go tšwa go ditlaleletši tše dikete</a>.">

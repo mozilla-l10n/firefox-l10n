@@ -92,10 +92,10 @@
 <!ENTITY col.dateadded.label     "Okeditšwe">
 <!ENTITY col.lastmodified.label  "Fetošitšwe la mafelelo">
 
-<!ENTITY search.label                              "Search:">
-<!ENTITY search.accesskey                          "S">
+<!ENTITY search.label                              "Nyaka:">
+<!ENTITY search.accesskey                          "N">
 
-<!ENTITY search.in.label                           "Search in:">
+<!ENTITY search.in.label                           "Nyaka ka go:">
 <!ENTITY search.scopeFolder.label                  "Foltara e kgethilwego">
 <!ENTITY search.scopeFolder.accesskey              "r">
 <!ENTITY search.scopeBookmarks.label               "Dipukutshwayo">
@@ -126,8 +126,8 @@
 <!ENTITY detailsPane.noPreviewAvailable.label "Tebelelo pele">
 <!ENTITY detailsPane.selectAnItemText.description "Kgetha aetheme gore o lebelele le go lokiša dipharologantšho tša yona">
 
-<!ENTITY find.label               "Search:">
-<!ENTITY find.accesskey           "S">
+<!ENTITY find.label               "Nyaka:">
+<!ENTITY find.accesskey           "N">
 <!ENTITY view.label               "Tebelelo">
 <!ENTITY view.accesskey           "l">
 <!ENTITY byDate.label             "Ka letšatšikgwedi">

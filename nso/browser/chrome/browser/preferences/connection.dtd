@@ -36,5 +36,5 @@
 <!ENTITY  noproxy.label                 "Ga go kemedi ya:">
 <!ENTITY  noproxy.accesskey             "G">
 <!ENTITY  noproxyExplain.label          "Mohlala: .mozilla.org, .org.za, 192.168.1.0/24">
-<!ENTITY  shareproxy.label              "Diriša sebara ye ya kemedi go diprotokole ka moka">
+<!ENTITY  shareproxy.label              "Diriša seabi se sa kemedi go diprotokole ka moka">
 <!ENTITY  shareproxy.accesskey          "i">

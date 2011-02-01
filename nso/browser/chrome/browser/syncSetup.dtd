@@ -1,108 +1,108 @@
-<!ENTITY accountSetupTitle.label    "&syncBrand.fullName.label; Setup">
+<!ENTITY accountSetupTitle.label    "Peakanyo ya &syncBrand.fullName.label;">
 <!-- First page of the wizard -->
 
 
-<!ENTITY setup.pickSetupType.description "Welcome, if you've never used &syncBrand.fullName.label; before, you will need to create a new account.">
-<!ENTITY button.createNewAccount.label "Create a New Account">
-<!ENTITY setup.haveAccount.label "I already have a &syncBrand.fullName.label; account.">
+<!ENTITY setup.pickSetupType.description "O a amogelwa, ge e ba o sa ka wa diriša &syncBrand.fullName.label; pele ga mo, go tla nyakega gore o hlame akhaonto e mpsha.">
+<!ENTITY button.createNewAccount.label "Hlama akhaonto e mpsha">
+<!ENTITY setup.haveAccount.label "Ke šetše ke na le akhaonto ya &syncBrand.fullName.label;.">
 <!ENTITY button.connect.label    "Gokaganya">
 
-<!ENTITY setup.choicePage.title.label     "Have you used &syncBrand.fullName.label; before?">
-<!ENTITY setup.choicePage.new.label       "I've never used &syncBrand.shortName.label; before">
-<!ENTITY setup.choicePage.existing.label  "I'm already using &syncBrand.shortName.label; on another computer">
+<!ENTITY setup.choicePage.title.label     "Na o ile wa diriša &syncBrand.fullName.label; pele ga mo?">
+<!ENTITY setup.choicePage.new.label       "Ga ke sešo ka diriša &syncBrand.fullName.label; pele ga mo">
+<!ENTITY setup.choicePage.existing.label  "Ke šetše ke diriša &syncBrand.fullName.label; go khomphutha e nngwe">
 <!-- New Account AND Existing Account -->
 
-<!ENTITY server.label               "Sebara">
-<!ENTITY serverType.main.label      "&syncBrand.fullName.label; Server">
-<!ENTITY serverType.custom2.label   "Use a custom server…">
-<!ENTITY signIn.account2.label      "Account">
+<!ENTITY server.label               "Seabi">
+<!ENTITY serverType.main.label      "Seabi sa &syncBrand.fullName.label;">
+<!ENTITY serverType.custom2.label   "Diriša seabi sa tlwaelo...">
+<!ENTITY signIn.account2.label      "Akhaonto">
 <!ENTITY signIn.account2.accesskey  "A">
-<!ENTITY signIn.password.label      "Password">
-<!ENTITY signIn.password.accesskey  "P">
-<!ENTITY signIn.syncKey.label       "Sync Key">
+<!ENTITY signIn.password.label      "Lentšuphetišo">
+<!ENTITY signIn.password.accesskey  "p">
+<!ENTITY signIn.syncKey.label       "Khii ya nyalantšho">
 <!ENTITY signIn.syncKey.accesskey   "K">
 <!-- New Account Page 1: Basic Account Info -->
 
-<!ENTITY setup.newAccountDetailsPage.title.label "Account Details">
-<!ENTITY setup.confirmPassword.label  "Confirm Password">
-<!ENTITY setup.confirmPassword.accesskey  "m">
-<!ENTITY setup.emailAddress.label     "Email Address">
-<!ENTITY setup.emailAddress.accesskey "E">
+<!ENTITY setup.newAccountDetailsPage.title.label "Dintlha tša akhaonto">
+<!ENTITY setup.confirmPassword.label  "Netefatša lentšuphetišo">
+<!ENTITY setup.confirmPassword.accesskey  "N">
+<!ENTITY setup.emailAddress.label     "Aterese ya imeile">
+<!ENTITY setup.emailAddress.accesskey "e">
 <!-- LOCALIZATION NOTE: tosAgree1, tosLink, tosAgree2, ppLink, tosAgree3 are
      joined with implicit white space, so spaces in the strings aren't necessary -->
-<!ENTITY setup.tosAgree1.label      "I agree to the">
+<!ENTITY setup.tosAgree1.label      "Ke dumela">
 <!ENTITY setup.tosAgree1.accesskey  "a">
 <!ENTITY setup.tosLink.label        "Melawana ya tirelo">
-<!ENTITY setup.tosAgree2.label      "and the">
+<!ENTITY setup.tosAgree2.label      "le">
 <!ENTITY setup.ppLink.label         "Pholisi ya sephiri">
 <!ENTITY setup.tosAgree3.label      "">
 <!ENTITY setup.tosAgree2.accesskey  "">
 <!-- New Account Page 2: Sync Key -->
 
-<!ENTITY setup.newSyncKeyPage.title.label "&brandShortName; Cares About Your Privacy">
-<!ENTITY setup.newSyncKeyPage.description.label "To ensure your total privacy, all of your data is encrypted prior to being uploaded. The Sync Key which is necessary to decrypt your data is not uploaded.">
-<!ENTITY syncKeyEntry.label        "Your Sync Key">
+<!ENTITY setup.newSyncKeyPage.title.label "&brandShortName; e tswenyegile ka bosephiri bja gago">
+<!ENTITY setup.newSyncKeyPage.description.label "Go kgonthišetša bosephiri bja gago ka botlalo, tsebišo ya gago yohle e tla utwa pele ga ge e ka hlahlelwa. Khii ya nyalantšho yeo e hlokegago go utolla tsebišo ya gago ga se ya hlahlelwa.">
+<!ENTITY syncKeyEntry.label        "Khii ya gago ya nyalantšho">
 <!ENTITY syncKeyEntry.accesskey    "K">
-<!ENTITY syncKeyGenerate.label     "Generate">
-<!ENTITY syncKeyBackup.description "Your Sync Key is required to access &syncBrand.fullName.label; on other machines. Please create a backup copy. We cannot help you recover your Sync Key.">
+<!ENTITY syncKeyGenerate.label     "Hlagiša">
+<!ENTITY syncKeyBackup.description "Go nyakega khii ya gago ya nyalantšho gore o tsene go &syncBrand.fullName.label; metšheneng e mengwe. Hle dira kopi ya pekapo. Re ka se go thuše go hwetša khii ya gago ya nyalantšho gape.">
 
 <!ENTITY button.syncKeyBackup.print.label     "Gatiša…">
 <!ENTITY button.syncKeyBackup.print.accesskey "G">
-<!ENTITY button.syncKeyBackup.save.label      "Save…">
-<!ENTITY button.syncKeyBackup.save.accesskey  "S">
+<!ENTITY button.syncKeyBackup.save.label      "Boloka...">
+<!ENTITY button.syncKeyBackup.save.accesskey  "B">
 <!-- New Account Page 3: Captcha -->
 
-<!ENTITY setup.captchaPage2.title.label     "Please Confirm You're Not a Robot">
+<!ENTITY setup.captchaPage2.title.label     "Hle netefatša gore ga o roboto">
 <!-- Existing Account Page 1: Add Device (incl. Add a Device dialog strings) -->
-<!ENTITY addDevice.title.label              "Add a Device">
-<!ENTITY addDevice.showMeHow.label          "Show me how.">
-<!ENTITY addDevice.dontHaveDevice.label     "I don't have the device with me">
-<!ENTITY addDevice.setup.description.label  "To activate, go to &syncBrand.shortName.label; Options on your other device and select &#x0022;Add a Device&#x0022;.">
-<!ENTITY addDevice.setup.enterCode.label    "Then, enter this code:">
-<!ENTITY addDevice.dialog.description.label "To activate your new device, go to &syncBrand.shortName.label; Options on the device and select &#x0022;Connect.&#x0022;">
-<!ENTITY addDevice.dialog.enterCode.label   "Enter the code that the device provides:">
-<!ENTITY addDevice.dialog.tryAgain.label    "Please try again.">
-<!ENTITY addDevice.dialog.successful.label  "The device has been successfully added. The initial synchronization can take several minutes and will finish in the background.">
-<!ENTITY addDevice.dialog.syncKey.label     "To activate your device you will need to enter your Sync Key. Please print or save this key and take it with you.">
-<!ENTITY addDevice.dialog.connected.label   "Device Connected">
+<!ENTITY addDevice.title.label              "Tsenya sedirišwa">
+<!ENTITY addDevice.showMeHow.label          "Mpontšhe gore ke dire bjang.">
+<!ENTITY addDevice.dontHaveDevice.label     "Ga ke a swara sedirišwa">
+<!ENTITY addDevice.setup.description.label  "Go e diragatša, e-ya go dikgetho tša &syncBrand.fullName.label; go sedirišwa sa gago se sengwe gomme o kgethe &#x0022;Add a Device&#x0022;.">
+<!ENTITY addDevice.setup.enterCode.label    "Ke moka, o tsenye khoutu ye:">
+<!ENTITY addDevice.dialog.description.label "Go diragatša sedirišwa sa gago se seswa, e-ya go dikgetho tša &syncBrand.fullName.label; sedirišweng gomme o kgethe &#x0022;Connect.&#x0022;">
+<!ENTITY addDevice.dialog.enterCode.label   "Tsenya khoutu yeo sedirišwa se e neago:">
+<!ENTITY addDevice.dialog.tryAgain.label    "Hle leka gape.">
+<!ENTITY addDevice.dialog.successful.label  "Sedirišwa se tsentšhitšwe ka katlego. Nyalantšho ya pele e ka tšea metsotso e mmalwa gomme e tla fetša bokamoragong.">
+<!ENTITY addDevice.dialog.syncKey.label     "Go diragatša sedirišwa sa gago go tla nyakega gore o tsenye khii ya gago ya nyalantšho. Hle gatiša le go boloka khii ye gomme o sepele le yona.">
+<!ENTITY addDevice.dialog.connected.label   "Sedirišwa se kgokagantšwe">
 <!-- Existing Account Page 2: Manual Login -->
 
-<!ENTITY setup.signInPage.title.label "Sign In">
-<!ENTITY existingSyncKey.description "You can get a copy of your Sync Key by going to &syncBrand.shortName.label; Options on your other device, and selecting  &#x0022;My Sync Key&#x0022; under &#x0022;Manage Account&#x0022;.">
-<!ENTITY verifying.label              "Verifying…">
-<!ENTITY resetPassword.label          "Reset Password">
-<!ENTITY lostSyncKey.label            "I have lost my Sync Key">
+<!ENTITY setup.signInPage.title.label "Tsena">
+<!ENTITY existingSyncKey.description "O ka hwetša kopi ya khii ya gago ya nyalantšho ka go ya go dikgetho tša &syncBrand.fullName.label; go sedirišwa sa gago se sengwe gomme o kgethe  &#x0022;My Sync Key&#x0022; ka tlase ga &#x0022;Manage Account&#x0022;.">
+<!ENTITY verifying.label              "Go netefatša...">
+<!ENTITY resetPassword.label          "Beakanya lentšuphetišo ka leswa">
+<!ENTITY resetSyncKey.label           "I have lost my other device.">
 <!-- Sync Options -->
 
-<!ENTITY setup.optionsPage.title      "Sync Options">
+<!ENTITY setup.optionsPage.title      "Dikgetho tša nyalantšho">
 <!ENTITY syncComputerName.label       "Leina la khomphutha:">
 <!ENTITY syncComputerName.accesskey   "k">
 
 <!ENTITY syncMy.label               "Nyalantšha yaka">
-<!ENTITY engine.bookmarks.label     "Bookmarks">
-<!ENTITY engine.bookmarks.accesskey "m">
-<!ENTITY engine.tabs.label          "Dipukutshwayo, histori, mantšuphetišo, dikganyogo, le dithepo tša gago di tla nyalantšhwa.">
-<!ENTITY engine.tabs.accesskey      "T">
-<!ENTITY engine.history.label       "History">
+<!ENTITY engine.bookmarks.label     "Dipukutshwayo">
+<!ENTITY engine.bookmarks.accesskey "s">
+<!ENTITY engine.tabs.label          "Dithepo">
+<!ENTITY engine.tabs.accesskey      "t">
+<!ENTITY engine.history.label       "Histori">
 <!ENTITY engine.history.accesskey   "r">
-<!ENTITY engine.passwords.label     "Passwords">
-<!ENTITY engine.passwords.accesskey "P">
-<!ENTITY engine.prefs.label         "Preferences">
-<!ENTITY engine.prefs.accesskey     "S">
+<!ENTITY engine.passwords.label     "Mantšuphetišo">
+<!ENTITY engine.passwords.accesskey "p">
+<!ENTITY engine.prefs.label         "Dikganyogo">
+<!ENTITY engine.prefs.accesskey     "D">
 
-<!ENTITY choice2.merge.main.label      "Merge this computer's data with my &syncBrand.shortName.label; data">
-<!ENTITY choice2.merge.recommended.label "Recommended:">
-<!ENTITY choice2.client.main.label     "Replace all data on this computer with my &syncBrand.shortName.label; data">
-<!ENTITY choice2.server.main.label     "Replace all other devices with this computer's data">
+<!ENTITY choice2.merge.main.label      "Kopanya tsebišo ya khomphutha ye le tsebišo ya ka ya &syncBrand.shortName.label;">
+<!ENTITY choice2.merge.recommended.label "Šišintšwe:">
+<!ENTITY choice2.client.main.label     "Tšeela tsebišo yohle legato khomphutheng ye ka tsebišo ya ka ya &syncBrand.shortName.label;">
+<!ENTITY choice2.server.main.label     "Tšeela didirišwa tšohle tše dingwe legato ka tsebišo ya khomphutha ye">
 <!-- Confirm Merge Options -->
 
-<!ENTITY setup.optionsConfirmPage.title "Confirm">
-<!ENTITY confirm.merge.label    "&syncBrand.fullName.label; will now merge all this computer's browser data into your Sync account.">
-<!ENTITY confirm.client2.label         "Warning: The following &brandShortName; data on this computer will be deleted:">
-<!ENTITY confirm.client.moreinfo.label "&brandShortName; will then copy your &syncBrand.fullName.label; data to this computer.">
-<!ENTITY confirm.server2.label         "Warning: The following devices will be overwritten with your local data:">
+<!ENTITY setup.optionsConfirmPage.title "Netefatša">
+<!ENTITY confirm.merge.label    "&syncBrand.shortName.label; bjale e tla kopanya tsebišo yohle ya praosara ya khomphutha le akhaonto ya gago ya nyalantšho.">
+<!ENTITY confirm.client2.label         "Temošo: Tsebišo e latelago ya &brandShortName; yeo e lego khomphutheng ye e tla phumolwa:">
+<!ENTITY confirm.client.moreinfo.label "&brandShortName; ke moka e tla kopišetša tsebišo ya gago ya &syncBrand.shortName.label; khomphutheng ye.">
+<!ENTITY confirm.server2.label         "Temošo: Didirišwa tše latelago di tla tšeelwa legato ke tsebišo ya gago ya mo lapeng:">
 <!-- New & Existing Account: Setup Complete -->
 
-<!ENTITY setup.successPage.title "Setup Complete">
-<!ENTITY changeOptions.label "You can change this preference by selecting Sync Options below.">
-<!ENTITY continueUsing.label "You may now continue using &brandShortName;.">
+<!ENTITY setup.successPage.title "Peakanyo e phethilwe">
+<!ENTITY changeOptions.label "O ka fetoša kganyogo ye ka go kgetha dikgetho tša nyalantšho tšeo di lego ka mo tlase.">
+<!ENTITY continueUsing.label "Bjale o ka tšwela pele go diriša &brandShortName;.">

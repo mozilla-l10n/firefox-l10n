@@ -20,11 +20,8 @@
 <!ENTITY helpSafeMode.label       "Thoma ka leswa o šitišitše ditlaleletši...">
 <!ENTITY helpSafeMode.accesskey   "T">
 
-<!ENTITY helpReleaseNotes.label         "Dikgakollo tša tokollo">
-<!ENTITY helpReleaseNotes.accesskey     "D">
-
 <!ENTITY helpTroubleshootingInfo.label      "Tshedimošo ya go rarolla mathata">
-<!ENTITY helpTroubleshootingInfo.accesskey  "T">
+<!ENTITY helpTroubleshootingInfo.accesskey  "t">
 
 <!ENTITY helpFeedbackPage.label      "Iša dipoelo...">
 <!ENTITY helpFeedbackPage.accesskey  "I">

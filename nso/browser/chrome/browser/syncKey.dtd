@@ -1,14 +1,14 @@
-<!ENTITY syncKey.page.title               "Your &syncBrand.fullName.label; Key">
-<!ENTITY syncKey.page.description         "This key is used to decode the data in your &syncBrand.fullName.label; account. You will need to enter the key each time you configure &syncBrand.fullName.label; on a new computer or device.">
-<!ENTITY syncKey.keepItSecret.heading     "Keep it secret">
-<!ENTITY syncKey.keepItSecret.description "Your &syncBrand.fullName.label; account is encrypted to protect your privacy. Without this key, it would take years for anyone to decode your personal information. You are the only person who holds this key. This means you're the only one who can access your &syncBrand.fullName.label; data.">
-<!ENTITY syncKey.keepItSafe.heading       "Keep it safe">
-<!ENTITY syncKey.keepItSafe1.description  "Do not lose this key.">
-<!ENTITY syncKey.keepItSafe2.description  " We don't keep a copy of your key (that wouldn't be keeping it secret!) so ">
-<!ENTITY syncKey.keepItSafe3.description  "we can't help you recover it">
-<!ENTITY syncKey.keepItSafe4.description  " if it's lost. You'll need to use this key any time you connect a new computer or device to &syncBrand.fullName.label;.">
-<!ENTITY syncKey.findOutMore1.label       "Find out more about &syncBrand.fullName.label; and your privacy at ">
+<!ENTITY syncKey.page.title               "Khii ya &syncBrand.fullName.label; ya gago ">
+<!ENTITY syncKey.page.description         "Khii ye e dirišetšwa go tloša khoutu go tsebišo yeo e lego go akhaonto ya &syncBrand.fullName.label;. Go tla nyakega gore o tsenye khii ye nako le nako ge o beakanya &syncBrand.fullName.label; khomphutheng e mpsha goba sedirišweng.">
+<!ENTITY syncKey.keepItSecret.heading     "E boloke e le sephiri">
+<!ENTITY syncKey.keepItSecret.description "Akhaonto ya gago ya &syncBrand.fullName.label; e utilwe go šireletša bosephiri bja gago. Ka ntle le khii ye, go tla tšea motho mengwaga gore a tloše khoutu go tshedimošo ya gago. Ke wena feela o nago le khii ye. Se se bolela gore ke wena feela o ka tsenago go tsebišo ya gago ya &syncBrand.fullName.label;.">
+<!ENTITY syncKey.keepItSafe.heading       "E šireletše">
+<!ENTITY syncKey.keepItSafe1.description  "O se ke wa lahla khii ye.">
+<!ENTITY syncKey.keepItSafe2.description  "Ga re boloke kopi ya khii ya gago (e tla ba e se go e dira sephiri!) ka gona  ">
+<!ENTITY syncKey.keepItSafe3.description  "re ka se go thuše go e hwetša gape">
+<!ENTITY syncKey.keepItSafe4.description  " ge e ba e lahlegile. Go tla nyakega gore o diriše khii ye nako efe goba efe ge o kgokaganya khomphutha e mpsha goba sedirišwa go &syncBrand.fullName.label;.">
+<!ENTITY syncKey.findOutMore1.label       "Hwetša tše dintši ka &syncBrand.fullName.label; le bosephiri bja gago go ">
 <!ENTITY syncKey.findOutMore2.label       ".">
-<!ENTITY syncKey.footer1.label            "&syncBrand.fullName.label; Terms of Service are available at ">
-<!ENTITY syncKey.footer2.label            ". The Privacy Policy is available at ">
+<!ENTITY syncKey.footer1.label            "&syncBrand.fullName.label; Melawana ya tirelo e hwetšagala go ">
+<!ENTITY syncKey.footer2.label            ". Pholisi ya bosephiri e hwetšagala go ">
 <!ENTITY syncKey.footer3.label            ".">
