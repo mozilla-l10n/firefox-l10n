@@ -21,6 +21,8 @@
 <!ENTITY allowHWAccel.accesskey          "e">
 <!ENTITY checkSpelling.label             "Kebera epandika yange nga wandiika">
 <!ENTITY checkSpelling.accesskey         "w">
+<!ENTITY doNotTrack.label                "Tell web sites I do not want to be tracked">
+<!ENTITY doNotTrack.accesskey            "d">
 
 <!ENTITY systemDefaults.label            "Ebiberewo bya sisitimu">
 <!--XXX-->

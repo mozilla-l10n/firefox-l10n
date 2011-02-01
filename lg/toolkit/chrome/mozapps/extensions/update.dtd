@@ -19,7 +19,8 @@ y'ebigattiddwako bino ebiriwo.">
 
 <!ENTITY  found.wizard.title               "Ebigattiddwako ebikwatagana ebizuuliddwa">
 <!ENTITY  found.top.label                 "Londako ebigattiddwako bye wandyagadde okuteekamu:">
-<!ENTITY  found.disabledXPinstall.label   "Ebituukanyizibbwa bino tebiteekeddwamu kubanga ennyunga y'enzirukanyizo kati eremeseddwa. Osobola okukyusa entegeka eno wammanga.">
+<!ENTITY  found.disabledXPinstall.label   "Ebituusa bino tebisoobola kutekebwamu kubanga ennyunga y'enzirukanyizo kati 
+eremeseddwa. Osobola okukyusa entegeka eno wammanga.">
 <!ENTITY  found.enableXPInstall.label     "Kkiriza enfo za wantimbe zisseemu endagiziso">
 <!ENTITY  found.enableXPInstall.accesskey "K">
 

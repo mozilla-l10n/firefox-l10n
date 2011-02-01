@@ -9,17 +9,17 @@
 #define bookmarks_heading Obulambe
 
 
-#define bookmarks_toolbarfolder Obulambe bw'Akabawo kebikozeso mu Ettereka
+#define bookmarks_toolbarfolder Eterekero lya Akabawo ko'Obulambe
 
 
-#define bookmarks_toolbarfolder_description Ggatta obulmbe ku tterekero lino okubulaba nga bwoleseddwa ku mulabba gw'Obulambe
+#define bookmarks_toolbarfolder_description Yongera obulambe mu tterekero lino okubulaba nga bwoleseddwa ku mulabba gw'Obulambe
 
 
 # LOCALIZATION NOTE (getting_started):
 
 # link title for http://en-US.www.mozilla.com/en-US/firefox/central/
 
-#define getting_started Entandika
+#define getting_started Otandika
 
 
 # LOCALIZATION NOTE (latest_headlines):
@@ -30,7 +30,7 @@
 
 # Changing the redirect is subject to approval of l10n-drivers.
 
-#define latest_headlines Emitwe gya mawulire Egjiriwo kakano
+#define latest_headlines Emitwe gya Mawulire Egjiriwo Kakano
 
 
 # LOCALIZATION NOTE (firefox_heading):

@@ -20,9 +20,6 @@
 <!ENTITY helpSafeMode.label       "Tandika kompyuta buto nga ojjeko Ebyokwongerako…">
 <!ENTITY helpSafeMode.accesskey   "T">
 
-<!ENTITY helpReleaseNotes.label         "Ta Ebiwandiiko">
-<!ENTITY helpReleaseNotes.accesskey     "E">
-
 <!ENTITY helpTroubleshootingInfo.label      "Amawulire ku kugonjoola obuzibu">
 <!ENTITY helpTroubleshootingInfo.accesskey  "A">
 

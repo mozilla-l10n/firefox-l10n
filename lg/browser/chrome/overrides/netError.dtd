@@ -85,8 +85,8 @@ nti &brandShortName; bukkiriziddwa okuyingira ku Omukuttu.</li>
 <!ENTITY proxyResolveFailure.title "Tesobodde kuzuula kompyuta effuga zinayo">
 <!ENTITY proxyResolveFailure.longDesc "<ul> 
 <li>Kebera enkola ye`ntegekka okulaba nti ntuufu.</li> 
-<li>Kebera okukakasa nti kompyuuta yo eyungiddwa ku mpulisiganya ekola.</li> <li>Kompyuuta yo oba empulisiganya bweba nga ekumiddwa abasirikale bapulogulamu oba enkola, ffuba okulaba 
-nti &brandShortName; ekirizibwa okukozesa omukutu.</li> 
+<li>Kebera okukakasa nti kompyuuta yo eyungiddwa ku mukutu ogukola.</li> 
+<li>Kompyuuta yo oba empulisiganya bweba nga ekumiddwa abasirikale bapulogulamu oba enkola, ffuba okulaba nti &brandShortName; ekirizibwa okukozesa omukutu.</li> 
 </ul>">
 
 <!ENTITY redirectLoop.title "Omuko guno tegulagirira bulungi">
@@ -145,9 +145,7 @@ button is included here (instead of netError.xhtml) because it exposes
 functionality specific to firefox. -->
 
 
-<!ENTITY securityOverride.warningContent "
-<p>You should not add an exception if you are using an internet connection that you do not trust completely or if you are not used to seeing a warning for this server.</p>
-
-<button id='getMeOutOfHereButton'>&securityOverride.getMeOutOfHereButton;</button>
-<button id='exceptionDialogButton'>&securityOverride.exceptionButtonLabel;</button>
-">
+<!ENTITY securityOverride.warningContent "<p>Tokiriza bitakeberwa oba oli ku mukutu gwo tesiga oba nga tomanyidde kulaba okuwabulwa ku sava eno.</p> 
+ 
+<button id='getMeOutOfHereButton'>&securityOverride.getMeOutOfHereButton;</button> 
+<button id='exceptionDialogButton'>&securityOverride.exceptionButtonLabel;</button>">

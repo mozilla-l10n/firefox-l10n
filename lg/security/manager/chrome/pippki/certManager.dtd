@@ -105,8 +105,8 @@
 <!ENTITY certmgr.close.accesskey              "G">
 <!ENTITY certmgr.view2.label                  "Legera…">
 <!ENTITY certmgr.view2.accesskey              "L">
-<!ENTITY certmgr.edit3.label                  "Edit Trust…">
-<!ENTITY certmgr.edit3.accesskey              "E">
+<!ENTITY certmgr.edit3.label                  "Kyusa Enesiga…">
+<!ENTITY certmgr.edit3.accesskey              "K">
 <!ENTITY certmgr.editca.label                 "Longosa CA obwesigwa">
 <!ENTITY certmgr.editca.accesskey             "o">
 <!ENTITY certmgr.add.label                    "Ggataa">
@@ -115,8 +115,8 @@
 <!ENTITY certmgr.export.accesskey             "k">
 <!ENTITY certmgr.delete2.label                "Saggula…">
 <!ENTITY certmgr.delete2.accesskey            "S">
-<!ENTITY certmgr.delete_builtin.label         "Delete or Distrust…">
-<!ENTITY certmgr.delete_builtin.accesskey     "D">
+<!ENTITY certmgr.delete_builtin.label         "Sangula oba Jjawo Obwesige…">
+<!ENTITY certmgr.delete_builtin.accesskey     "S">
 <!ENTITY certmgr.backup2.label                "Jjamu copi otteereke…">
 <!ENTITY certmgr.backup2.accesskey            "J">
 <!ENTITY certmgr.backupall2.label             "Jjamu copi otteereke ya zona…">

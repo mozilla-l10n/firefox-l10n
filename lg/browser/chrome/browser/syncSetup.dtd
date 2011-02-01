@@ -57,24 +57,24 @@
 <!ENTITY addDevice.title.label              "Gatako Ekikozesebwa">
 <!ENTITY addDevice.showMeHow.label          "Ndaga nga.">
 <!ENTITY addDevice.dontHaveDevice.label     "Sirina kikozesebwa nange">
-<!ENTITY addDevice.setup.description.label  "To activate, go to &syncBrand.shortName.label; Options on your other device and select &#x0022;Add a Device&#x0022;.">
-<!ENTITY addDevice.setup.enterCode.label    "Then, enter this code:">
-<!ENTITY addDevice.dialog.description.label "To activate your new device, go to &syncBrand.shortName.label; Options on the device and select &#x0022;Connect.&#x0022;">
-<!ENTITY addDevice.dialog.enterCode.label   "Enter the code that the device provides:">
-<!ENTITY addDevice.dialog.tryAgain.label    "Please try again.">
-<!ENTITY addDevice.dialog.successful.label  "The device has been successfully added. The initial synchronization can take several minutes and will finish in the background.">
-<!ENTITY addDevice.dialog.syncKey.label     "To activate your device you will need to enter your Sync Key. Please print or save this key and take it with you.">
-<!ENTITY addDevice.dialog.connected.label   "Device Connected">
+<!ENTITY addDevice.setup.description.label  "Okukitandika, genda kubilondebwako bya &syncBrand.shortName.label;  ku kyumakyo ekilala era olondeko &#x0022;Gatako Ekyuma &#x0022;.">
+<!ENTITY addDevice.setup.enterCode.label    "Oluvanyuma, otekemu kodi eno:">
+<!ENTITY addDevice.dialog.description.label "Okukitandika, genda kubilondebwako bya &syncBrand.shortName.label; ku kyumakyo ekilala era olondeko &#x0022; Yunga &#x0022;.">
+<!ENTITY addDevice.dialog.enterCode.label   "Tekamu kodi ekuwereddwa ekyuma:">
+<!ENTITY addDevice.dialog.tryAgain.label    "Bambi gezako nate.">
+<!ENTITY addDevice.dialog.successful.label  "Ekyuma kigattidwako bulungi. Okutusaganya okusooka kusoobola okutwala edakika nyinji ko era ejakumaliriza mukasirise.">
+<!ENTITY addDevice.dialog.syncKey.label     "Okuteka munkola ekyuma kyo, ojakwetaga Akasumuluzo Akatuusa. Bambi fulumya oba tereka akasumuluzo kano era okatwale nawe.">
+<!ENTITY addDevice.dialog.connected.label   "Ekyuma Kiyungidwa">
 <!-- Existing Account Page 2: Manual Login -->
 
-<!ENTITY setup.signInPage.title.label "Sign In">
-<!ENTITY existingSyncKey.description "You can get a copy of your Sync Key by going to &syncBrand.shortName.label; Options on your other device, and selecting  &#x0022;My Sync Key&#x0022; under &#x0022;Manage Account&#x0022;.">
+<!ENTITY setup.signInPage.title.label "Yingira">
+<!ENTITY existingSyncKey.description "Osoobola okufuna kopi ya'kasumuluzo akatuusa nga ogenze ku bilondebwako bya &syncBrand.shortName.label; ku kyumakyo ekirala no londako  &#x0022;My Sync Key&#x0022; wansiwa &#x0022;Ddukanya Akaunti&#x0022;.">
 <!ENTITY verifying.label              "Ekakasa…">
-<!ENTITY resetPassword.label          "Reset Password">
-<!ENTITY lostSyncKey.label            "I have lost my Sync Key">
+<!ENTITY resetPassword.label          "Funa Akasumuluzo Akapya">
+<!ENTITY resetSyncKey.label           "I have lost my other device.">
 <!-- Sync Options -->
 
-<!ENTITY setup.optionsPage.title      "Sync Options">
+<!ENTITY setup.optionsPage.title      "Ebyokulondako mu Kutuusa">
 <!ENTITY syncComputerName.label       "Elinnya lya Kompuuta:">
 <!ENTITY syncComputerName.accesskey   "E">
 
@@ -90,19 +90,19 @@
 <!ENTITY engine.prefs.label         "Okweroboza">
 <!ENTITY engine.prefs.accesskey     "e">
 
-<!ENTITY choice2.merge.main.label      "Merge this computer's data with my &syncBrand.shortName.label; data">
+<!ENTITY choice2.merge.main.label      "Gatta ebiri mu kompyuta eno ne ebiri mu &syncBrand.shortName.label; yange">
 <!ENTITY choice2.merge.recommended.label "Ekisembebwa:">
-<!ENTITY choice2.client.main.label     "Replace all data on this computer with my &syncBrand.shortName.label; data">
-<!ENTITY choice2.server.main.label     "Replace all other devices with this computer's data">
+<!ENTITY choice2.client.main.label     "Awali data ku kompyuta eno, mujjewo otekewo data ali ku &syncBrand.shortName.label; yange">
+<!ENTITY choice2.server.main.label     "Kyusa ebirala byoona mu byuma ebisigade ne'ebiri ku kompyuta eno">
 <!-- Confirm Merge Options -->
 
-<!ENTITY setup.optionsConfirmPage.title "Confirm">
-<!ENTITY confirm.merge.label    "&syncBrand.fullName.label; will now merge all this computer's browser data into your Sync account.">
-<!ENTITY confirm.client2.label         "Warning: The following &brandShortName; data on this computer will be deleted:">
-<!ENTITY confirm.client.moreinfo.label "&brandShortName; will then copy your &syncBrand.fullName.label; data to this computer.">
-<!ENTITY confirm.server2.label         "Warning: The following devices will be overwritten with your local data:">
+<!ENTITY setup.optionsConfirmPage.title "Kakasa">
+<!ENTITY confirm.merge.label    "&syncBrand.fullName.label; kati ejja kugata data yena ali mu kanonyesa ka kompyuta eno ne'ebiri mu akaunta yo Etuusa.">
+<!ENTITY confirm.client2.label         "Okuwabulwa: Ono data owa &brandShortName; ali mu kompyuta eno ajja kusangulwa:">
+<!ENTITY confirm.client.moreinfo.label "&brandShortName; ejja ku kkopa data ali ku &syncBrand.fullName.label; yo amuteke ku kompyuta eno.">
+<!ENTITY confirm.server2.label         "Okuwabulwa: Ebiri mu byuma bino bijja ku sangulwa wadewo ebiri mu kompyuta:">
 <!-- New & Existing Account: Setup Complete -->
 
-<!ENTITY setup.successPage.title "Setup Complete">
-<!ENTITY changeOptions.label "You can change this preference by selecting Sync Options below.">
-<!ENTITY continueUsing.label "You may now continue using &brandShortName;.">
+<!ENTITY setup.successPage.title "Okutekamu Kuwede">
+<!ENTITY changeOptions.label "Osoobola okukyusa mu byo kweroboza byo singa olonda Ebituusa Ebilondebwako wansi.">
+<!ENTITY continueUsing.label "Oyinza okugenda mumaso nokozesa &brandShortName;.">
