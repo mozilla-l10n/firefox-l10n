@@ -4,8 +4,8 @@
 
 <!ENTITY setup.pickSetupType.description "Benvida, se nunca usou &syncBrand.fullName.label;, precisa crear unha conta.">
 <!ENTITY button.createNewAccount.label "Crear unha nova conta">
-<!ENTITY setup.haveAccount.label "I already have a &syncBrand.fullName.label; account.">
-<!ENTITY button.connect.label    "Connect">
+<!ENTITY setup.haveAccount.label "Xa teño unha conta de &syncBrand.fullName.label;.">
+<!ENTITY button.connect.label    "Conectar">
 
 <!ENTITY setup.choicePage.title.label     "Usou &syncBrand.fullName.label; antes?">
 <!ENTITY setup.choicePage.new.label       "Nunca usei &syncBrand.shortName.label; antes">
@@ -14,13 +14,13 @@
 <!-- New Account AND Existing Account -->
 <!ENTITY server.label               "Servidor">
 <!ENTITY serverType.main.label      "Servidor de &syncBrand.fullName.label;">
-<!ENTITY serverType.custom2.label   "Use a custom server…">
-<!ENTITY signIn.account2.label      "Account">
-<!ENTITY signIn.account2.accesskey  "A">
+<!ENTITY serverType.custom2.label   "Usar un servidor personalizado…">
+<!ENTITY signIn.account2.label      "Conta">
+<!ENTITY signIn.account2.accesskey  "a">
 <!ENTITY signIn.password.label      "Contrasinal">
 <!ENTITY signIn.password.accesskey  "C">
-<!ENTITY signIn.syncKey.label       "Sync Key">
-<!ENTITY signIn.syncKey.accesskey   "K">
+<!ENTITY signIn.syncKey.label       "Chave de Sync">
+<!ENTITY signIn.syncKey.accesskey   "C">
 
 <!-- New Account Page 1: Basic Account Info -->
 <!ENTITY setup.newAccountDetailsPage.title.label "Detalles da conta">
@@ -54,24 +54,24 @@
 <!-- New Account Page 3: Captcha -->
 <!ENTITY setup.captchaPage2.title.label     "Confirme que non é un robot">
 <!-- Existing Account Page 1: Add Device (incl. Add a Device dialog strings) -->
-<!ENTITY addDevice.title.label              "Add a Device">
-<!ENTITY addDevice.showMeHow.label          "Show me how.">
-<!ENTITY addDevice.dontHaveDevice.label     "I don't have the device with me">
-<!ENTITY addDevice.setup.description.label  "To activate, go to &syncBrand.shortName.label; Options on your other device and select &#x0022;Add a Device&#x0022;.">
-<!ENTITY addDevice.setup.enterCode.label    "Then, enter this code:">
-<!ENTITY addDevice.dialog.description.label "To activate your new device, go to &syncBrand.shortName.label; Options on the device and select &#x0022;Connect.&#x0022;">
-<!ENTITY addDevice.dialog.enterCode.label   "Enter the code that the device provides:">
-<!ENTITY addDevice.dialog.tryAgain.label    "Please try again.">
-<!ENTITY addDevice.dialog.successful.label  "The device has been successfully added. The initial synchronization can take several minutes and will finish in the background.">
-<!ENTITY addDevice.dialog.syncKey.label     "To activate your device you will need to enter your Sync Key. Please print or save this key and take it with you.">
-<!ENTITY addDevice.dialog.connected.label   "Device Connected">
+<!ENTITY addDevice.title.label              "Engadir un dispositivo">
+<!ENTITY addDevice.showMeHow.label          "Móstreme como.">
+<!ENTITY addDevice.dontHaveDevice.label     "Non teño o dispositivo comigo">
+<!ENTITY addDevice.setup.description.label  "Para activalo, vaia as Opcións do &syncBrand.shortName.label;noutro dispositivo e seleccione &#x0022;Engadir un dispositivo&#x0022;.">
+<!ENTITY addDevice.setup.enterCode.label    "Logo, introduza este código:">
+<!ENTITY addDevice.dialog.description.label "Para activar o novo dispositivo, vaia as opcións do &syncBrand.shortName.label; no dispositivo e seleccione &#x0022;Conectar.&#x0022;">
+<!ENTITY addDevice.dialog.enterCode.label   "Introduza o código que lle fornece o dispositivo:">
+<!ENTITY addDevice.dialog.tryAgain.label    "Tente de novo.">
+<!ENTITY addDevice.dialog.successful.label  "Engadiuse o dispositivo correctamente. A sincronización inicial pode levarlle varios minutos e rematará en segundo plano.">
+<!ENTITY addDevice.dialog.syncKey.label     "Para activar o seu dispositivo necesitará introducir a súa chave de Sync. Imprima ou garde esta chave e lévea consigo.">
+<!ENTITY addDevice.dialog.connected.label   "Dispositivo conectado">
 
 <!-- Existing Account Page 2: Manual Login -->
-<!ENTITY setup.signInPage.title.label "Sign In">
-<!ENTITY existingSyncKey.description "You can get a copy of your Sync Key by going to &syncBrand.shortName.label; Options on your other device, and selecting  &#x0022;My Sync Key&#x0022; under &#x0022;Manage Account&#x0022;.">
+<!ENTITY setup.signInPage.title.label "Conectarse">
+<!ENTITY existingSyncKey.description "Pode obter unha copia da súa chave de Sync indo ás opcións do &syncBrand.shortName.label; no dispositivo e seleccionando &#x0022;A miña chave de Sync&#x0022; en &#x0022;Xestionar conta&#x0022;.">
 <!ENTITY verifying.label              "Comprobando…">
 <!ENTITY resetPassword.label          "Restabelecer o contrasinal">
-<!ENTITY lostSyncKey.label            "Perdín a miña chave de sincronización">
+<!ENTITY resetSyncKey.label           "I have lost my other device.">
 
 <!-- Sync Options -->
 <!ENTITY setup.optionsPage.title      "Opcións de sincronización">
