@@ -13,14 +13,16 @@
 
 <!ENTITY browsing.label                 "Navigearje">
 
-<!ENTITY useAutoScroll.label         "Automatysk skowe brûke">
-<!ENTITY useAutoScroll.accesskey     "m">
+<!ENTITY useAutoScroll.label         	"Automatysk skowe brûke">
+<!ENTITY useAutoScroll.accesskey     	"m">
 <!ENTITY useSmoothScrolling.label       "Floeiend skowe brûke">
 <!ENTITY useSmoothScrolling.accesskey   "l">
 <!ENTITY allowHWAccel.label              "Brûk hardware-acceleratie as it beskikber is">
 <!ENTITY allowHWAccel.accesskey          "h">
 <!ENTITY checkSpelling.label             "Kontrolearje myn stavering as ik typ">
 <!ENTITY checkSpelling.accesskey         "t">
+<!ENTITY doNotTrack.label                "Fertel websteeën dat ik net folge wurde wol">
+<!ENTITY doNotTrack.accesskey            "F">
 
 <!ENTITY systemDefaults.label            "Systeemstanderts">
 <!ENTITY alwaysCheckDefault.label        "Tiidens it opstarten altyd kontrolearje oft &brandShortName; de standert browser is"><!--XXX-->
