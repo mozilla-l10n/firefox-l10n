@@ -3,81 +3,78 @@
 <!ENTITY  checking.title                  "Ihlola Okufakwe Muva">
 <!ENTITY  updateCheck.label               "Ukufuna izinguquko ezinye &brandShortName;...">
 
-<!ENTITY  pluginupdatesfound.title        "Found Updates for Plugins">
-<!ENTITY  pluginupdatesfound.label        "Newer versions of one or more of your plugins were found.">
-<!ENTITY  pluginupdateslink.label         "See how to upgrade your plugins.">
+<!ENTITY  pluginupdatesfound.title        "Kutholwe ukuvuselelwa kokungeziwe">
+<!ENTITY  pluginupdatesfound.label        "Izinguquko ezintsha zezinto ezizodwa noma eziningi ezingeziwe zakho zitholiwe.">
+<!ENTITY  pluginupdateslink.label         "Bona ukuthi ungathuthukisa kanjani okungeziwe kwakho.">
 
 <!ENTITY  noupdatesfound.title            "Akukho Okufakelwe Muva Okutholakele">
-<!ENTITY  noupdatesautoenabled.intro      "There are no updates available. &brandShortName; will check
-                                           periodically for updates.">
-<!ENTITY  noupdatesautodisabled.intro     "There are no updates available. Please check again later or enable
-                                           &brandShortName;'s automatic update checking.">
+<!ENTITY  noupdatesautoenabled.intro      "Akukho kuvuselelwa akukhona.I-&brandShortName; izohlola 
+ ibanga lokuvuselela.">
+<!ENTITY  noupdatesautodisabled.intro     "Akukho kuvuselelwa okukhona. Sicela uhlole futhi ngesikhathi esizayo noma yenza kusebenze ukuhlola okuzenzakalelayo kokuvuselela kwe-&brandShortName;'.">
 
-<!ENTITY  manualUpdate.title              "Unable to Update">
-<!ENTITY  manualUpdate.desc               "A recommended security and stability update is available, but you do
-                                           not have the system permissions required to install it. Please contact your
-                                           system administrator, or try again from an account that has permission to
-                                           install software on this computer.">
-<!ENTITY  manualUpdate.space.desc         "A recommended security and stability update is available, but you do
-                                           not have enough space to install it.">
-<!ENTITY  manualUpdateGetMsg.label        "You can always get the latest version of &brandShortName; at:">
+<!ENTITY  manualUpdate.title              "Ayikwazi ukuvuselela">
+<!ENTITY  manualUpdate.desc               "Ukuvikeleka okunyusiwe kanye nokuvuselela kokumisa kahle kukhona, kodwa awunayo 
+ imvume yohlelo edingekayo ukuze uyifake. Sicela uxhumane 
+ nomphathi wohlelo, noma zama futhi kusuka kwi-akhawunti enemvume 
+ yokufaka isofthiwe kule khompyutha.">
+<!ENTITY  manualUpdate.space.desc         "Ukuvikeleka okunyusiwe kanye nokuvuselelwa okume kahle kukhona, kodwa 
+awunaso isikhala esanele sokuyifaka.">
+<!ENTITY  manualUpdateGetMsg.label        "Ungathola izinguquko esintsha ze-&brandShortName; kwesinye nesinye isikhathi ku:">
 
-<!ENTITY  incompatibleCheck.title         "Checking Add-on Compatibility">
-<!ENTITY  incompatibleCheck.label         "Looking for newer versions of your add-ons…">
+<!ENTITY  incompatibleCheck.title         "Kuhlola ukufaneleka kokungezwayo">
+<!ENTITY  incompatibleCheck.label         "Kufuna izinguquko ezintsha zokungezwayo kwakho...">
 
 <!ENTITY  clickHere.label                 "Bheka okunye ukwaziswa ngalokhu kulungiswa">
 
-<!ENTITY  evangelism.desc                 "It is strongly recommended that you apply this 
-                                           update for &brandShortName; as soon as possible.">
+<!ENTITY  evangelism.desc                 "Kunconywa kakhulu ukuthi usebenzise lokhu 
+kuvuselela kwe-&brandShortName; ngokukhulu ukushesha.">
 
-<!ENTITY  license.instructions            "If you agree to the terms of this agreement, click I Agree 
-                                           below to continue installing this update.">
+<!ENTITY  license.instructions            "Uma uvuma imigomo yalemvumelwano, chofoza u-ngiyavuma 
+ngezansi ukuqhubeka ukufaka lokhu kuvuselela.">
 
 <!ENTITY  license.titleText               "Isivumelwano Semvume Yohlaka Olusetshenziswayo">
 <!ENTITY  license.introText               "Imigomo Nemibandela yokusebenzisa lolu hlaka olusetshenziswayo.">
 <!ENTITY  license.instructionText         "Sicela ufunde isivumelwano semvume esilandelayo. Sebenzisa umgoqo wokuhambisa ukuze usibone sonke lesi sivumelwano.">
 <!ENTITY  license.accept                  "Ngiyayamukela imigomo yalesi Sivumelwano Semvume">
 <!ENTITY  license.accept.accesskey        "c">
-<!ENTITY  license.decline                 "Angiyamukeli imigomo yalesi Sivumelwano Semvume">
+<!ENTITY  license.decline                 "Angiyamukeli NEZE imigomo yalesi Sivumelwano Semvume">
 <!ENTITY  license.decline.accesskey       "E">
 
-<!ENTITY  incompatibleList.title          "Incompatible Add-ons Found">
+<!ENTITY  incompatibleList.title          "Kutholwe okungezwayo okungafanelani">
 
-<!ENTITY  downloadPage.title              "Downloading &brandShortName;">
+<!ENTITY  downloadPage.title              "Kulayishwa kungeniswa i-&brandShortName;">
 <!ENTITY  downloading.intro               "Ithatha loku kulungiswa iyakufaka…">
 <!ENTITY  connecting.label                "Ixhuma kuseva yokulungiswa…">
-<!ENTITY  verificationFailedText.label    "&brandShortName; was unable to verify the integrity of the 
-                                           incremental update it downloaded, so it is now downloading
-                                           the complete update package.">
+<!ENTITY  verificationFailedText.label    "I-&brandShortName; ayikwazanga ukuqinisekisa ukufaneleka 
+kokuvuselela oku-incremental okulayishwe kwangeniswa, ngakho manje ilayisha ingenisa 
+iphakathe ephelele yokuvuselela.">
 
-<!ENTITY  viewDetails.tooltip             "View details for this update">
+<!ENTITY  viewDetails.tooltip             "Buka imininingwane yaloku kuvuselela">
 
 <!ENTITY  details.link                    "Details">
 
 <!ENTITY  error.title                     "Ukulungiswa Kuhlulekile">
 
-<!ENTITY  error.label                     "There were problems checking for, downloading, or installing this 
-                                           update. &brandShortName; could not be updated because:">
+<!ENTITY  error.label                     "Kube nenkinga uma kuhlolwa, ukulayisha kungeniswa, noma ukufaka lokhu 
+kuvuselela. I-&brandShortName; ayikwazanga ukuvuselelwa ngoba:">
                                            
-<!ENTITY  errorManual.label               "You can update &brandShortName; manually by visiting this link
-                                           and downloading the latest version:">
+<!ENTITY  errorManual.label               "Ungavuselela i-&brandShortName; ngokuzenzela ngokuvakashela lesi sixhumanisi futhi ngokulayisha ungenise unguquko yamanje:">
                                            
-<!ENTITY  errorpatching.intro             "The partial Update could not be applied. 
-                                           &brandShortName; will try again by downloading a complete Update.">
+<!ENTITY  errorpatching.intro             "Inxenye yokuvuselelwa ayikwazanga ukusethsenziswa. I-
+&brandShortName; izozama futhi ngokulayisha ingenise ukuvuselela okuphelele.">
 
-<!ENTITY  genericBackgroundError.label    "&brandShortName; is unable to determine if there is an update available. Please
-                                           make sure that you have the latest version of &brandShortName; from:">
-<!ENTITY  errorCertAttrNoUpdate2.label    "Something is preventing &brandShortName; from updating securely.
-                                           Please make sure that you have the latest version of &brandShortName; from:">
-<!ENTITY  errorCertAttrHasUpdate.label    "Something is trying to trick &brandShortName; into accepting an
-                                           insecure update. Please contact your network provider and seek help.">
+<!ENTITY  genericBackgroundError.label    "I-&brandShortName; ayikwazi ukuthola ukuthi yingabe ukuvuselela kukhona yini. Sicela 
+ ubenesiqiniseko sokuthi unayo inguquko yamanje ye-&brandShortName; kusuka ku:">
+<!ENTITY  errorCertAttrNoUpdate2.label    "Kunento evimbela i-&brandShortName; ukuze ivuselele ngokuvikeleleka. 
+ Sicela ubenesiqiniseko sokuthi unenguqulo yamanje ye-&brandShortName; kusuka ku:">
+<!ENTITY  errorCertAttrHasUpdate.label    "Kunento ezama ukhohlisa i-&brandShortName; ngokuyivumisa ukuvuselela okungavikelelanga. Sicela uxhumane nomnikeli wenethiwekhi bese ufuna usizo.">
 
 <!ENTITY  finishedPage.title              "Ukulungiswa Sekulungele Ukufakelwa">
 <!ENTITY  finishedPage.text               "The update will be installed the next time &brandShortName; starts. You 
                                            can restart &brandShortName; now, or continue working and restart later.">
 
-<!ENTITY  finishedBackgroundPage.text     "A security and stability update for &brandShortName; has been
-                                           downloaded and is ready to be installed.">
+<!ENTITY  finishedBackgroundPage.text     "Ukuvuselela kokuvikeleka kanye nokumisa kahle kwe-&brandShortName; 
+sekulayishwe kwangeniswa futhi sekulungelwe ukufakwa.">
 <!ENTITY  finishedBackground.name         "Ukulungiswa:">
 <!-- LOCALIZATION NOTE (finishedBackground.more): This string describes the button labels defined by restartNowButton and restartLaterButton in updates.properties. -->
 <!ENTITY  finishedBackground.more         "The update will be installed the next time &brandShortName; starts. You

@@ -66,13 +66,13 @@
 <!ENTITY  mediaTab              "Umthombo Wezindaba">
 <!ENTITY  mediaTab.accesskey    "M">
 <!ENTITY  mediaLocation         "Indawo:">
-<!ENTITY  mediaText             "Associated Text:">
+<!ENTITY  mediaText             "Umbhalo ohlobene:">
 <!ENTITY  mediaAltHeader        "Umbhalo Ohlukile">
 <!ENTITY  mediaAddress          "Ikheli">
 <!ENTITY  mediaType             "Uhlobo">
-<!ENTITY  mediaSize             "Size">
+<!ENTITY  mediaSize             "Usayizi">
 <!ENTITY  mediaCount            "Bala">
-<!ENTITY  mediaDimension        "Dimensions:">
+<!ENTITY  mediaDimension        "Ubungako:">
 <!ENTITY  mediaLongdesc         "Incazelo Ende:">
 <!ENTITY  mediaBlockImage.accesskey "B">
 <!ENTITY  mediaSaveAs           "Gcina Ngokuthi…">
@@ -80,49 +80,49 @@
 <!ENTITY  mediaSaveAs2.accesskey "e">
 <!ENTITY  mediaPreview          "Indlela Umthombo Wezindaba Obukeka Ngayo:">
 
-<!ENTITY  feedTab               "Feeds">
+<!ENTITY  feedTab               "Ukuphakelwa">
 <!ENTITY  feedTab.accesskey     "F">
 <!ENTITY  feedSubscribe         "Bhalisela Ukuthunyelelwa">
 <!ENTITY  feedSubscribe.accesskey "u">
 
 <!ENTITY  permTab               "Izimvume">
 <!ENTITY  permTab.accesskey     "P">
-<!ENTITY  permUseDefault        "Use Default">
-<!ENTITY  permAskAlways         "Always ask">
+<!ENTITY  permUseDefault        "Sebenzisa okwakhona">
+<!ENTITY  permAskAlways         "Buza njalo">
 <!ENTITY  permAllow             "Vumela">
 <!ENTITY  permAllowSession      "Vumela Kule Nkathi">
 <!ENTITY  permBlock             "Vimbela">
-<!ENTITY  permissionsFor        "Permissions for:">
-<!ENTITY  permImage             "Load Images">
-<!ENTITY  permPopup             "Open Pop-up Windows">
-<!ENTITY  permCookie            "Set Cookies">
-<!ENTITY  permInstall           "Install Extensions or Themes">
-<!ENTITY  permGeo               "Share Location">
+<!ENTITY  permissionsFor        "Izimvume ze:">
+<!ENTITY  permImage             "Layisha izithombe">
+<!ENTITY  permPopup             "Vula iwindi elingugaxekile">
+<!ENTITY  permCookie            "Bheka amakhukhi">
+<!ENTITY  permInstall           "Faka izandiso nezindikimba">
+<!ENTITY  permGeo               "Abelana ngendawo">
 
-<!ENTITY  permIndexedDB              "Maintain Offline Storage">
-<!ENTITY  permClearStorage           "Clear Storage">
+<!ENTITY  permIndexedDB              "Nakekela ukulondoloza okungaxhunyiwe kwi-intanethi">
+<!ENTITY  permClearStorage           "Sula ukulondoloza">
 <!ENTITY  permClearStorage.accesskey "C">
 
 <!ENTITY  securityTab           "Ukulondeka">
 <!ENTITY  securityTab.accesskey "S">
 <!ENTITY  securityHeader        "Ukwaziswa kokuvikeleka kwaleli khasi">
-<!ENTITY  securityView.certView "View Certificate">
+<!ENTITY  securityView.certView "Bheka isitifiketi">
 <!ENTITY  securityView.accesskey "V">
 <!ENTITY  securityView.unknown   "Akwaziwa">
 
 
-<!ENTITY  securityView.identity.header   "Web Site Identity">
-<!ENTITY  securityView.identity.owner    "Owner:">
-<!ENTITY  securityView.identity.domain   "Web site:">
-<!ENTITY  securityView.identity.verifier "Verified by:">
+<!ENTITY  securityView.identity.header   "Ubunikazi bewebhu sayithi">
+<!ENTITY  securityView.identity.owner    "Umnikazi">
+<!ENTITY  securityView.identity.domain   "Iwebhu sayithi: ">
+<!ENTITY  securityView.identity.verifier "Iqinisekiswe ngu:">
 
-<!ENTITY  securityView.privacy.header                   "Privacy &amp; History">
-<!ENTITY  securityView.privacy.history                  "Have I visited this web site prior to today?">
-<!ENTITY  securityView.privacy.cookies                  "Is this web site storing information (cookies) on my computer?">
-<!ENTITY  securityView.privacy.viewCookies              "View Cookies">
+<!ENTITY  securityView.privacy.header                   "Okwangasese nomlando">
+<!ENTITY  securityView.privacy.history                  "Ingabe ngiyivakashele le webhu sayithi ngaphambi kwanamuhla?">
+<!ENTITY  securityView.privacy.cookies                  "Ingabe le webhu sayithi iyalugcina ulwazi (amakhukhi) kukhompyutha yami?">
+<!ENTITY  securityView.privacy.viewCookies              "Bheka amakhukhi">
 <!ENTITY  securityView.privacy.viewCookies.accessKey    "k">
-<!ENTITY  securityView.privacy.passwords                "Have I saved any passwords for this web site?">
-<!ENTITY  securityView.privacy.viewPasswords            "View Saved Passwords">
+<!ENTITY  securityView.privacy.passwords                "Ingabe kukhona amaphasiwedi engiwagcinile wale sayithi?">
+<!ENTITY  securityView.privacy.viewPasswords            "Bheka amagama okungena agciniwe">
 <!ENTITY  securityView.privacy.viewPasswords.accessKey  "w">
 
-<!ENTITY  securityView.technical.header                 "Technical Details">
+<!ENTITY  securityView.technical.header                 "Imininingwane yemisebenzi esizayo">

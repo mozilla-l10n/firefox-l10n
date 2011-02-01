@@ -3,8 +3,8 @@
 <!ENTITY  popupExceptions.label       "Okuhlukile">
 <!ENTITY  popupExceptions.accesskey   "O">
 
-<!ENTITY  loadImages.label            "Load images automatically">
-<!ENTITY  loadImages.accesskey        "I">
+<!ENTITY  loadImages.label            "Layisha izithombe ngokuzenzakalela">
+<!ENTITY  loadImages.accesskey        "i">
 <!ENTITY  exceptions.label            "Okuhlukile">
 <!ENTITY  exceptions.accesskey        "k">
 
@@ -32,6 +32,6 @@
 
 
 <!ENTITY languages.label              "Izilimi">
-<!ENTITY chooseLanguage.label         "Choose your preferred language for displaying pages">
+<!ENTITY chooseLanguage.label         "Khetha ulimi olithandayo lokuboniswa kwamakhasi">
 <!ENTITY chooseButton.label           "Khetha">
 <!ENTITY chooseButton.accesskey       "o">

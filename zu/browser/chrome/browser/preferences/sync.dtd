@@ -1,7 +1,7 @@
 <!-- The page shown when not logged in... -->
-<!ENTITY setupButton.label          "Set Up &syncBrand.fullName.label;">
-<!ENTITY setupButton.accesskey      "S">
-<!ENTITY weaveDesc.label            "&syncBrand.fullName.label; lets you access your history, bookmarks, passwords and open tabs across all your devices.">
+<!ENTITY setupButton.label          "Misa i-syncBrand.fullName.label;">
+<!ENTITY setupButton.accesskey      "M">
+<!ENTITY weaveDesc.label            "&syncBrand.fullName.label; ikuvumela ukuba ufinyelele kumlando wakho, kuzimpawu zokuphawuliwe, kumagama wokungena futhi kuvuleke namathebhu amasha kuso sonke isisetshenziswa sakho.">
 <!-- The page shown when logged in... -->
 <!-- Login error feedback -->
 
@@ -10,31 +10,31 @@
 <!ENTITY resetPass.label              "Qalisa phansi">
 <!-- Manage Account -->
 
-<!ENTITY manageAccount.label          "Manage Account">
-<!ENTITY manageAccount.accesskey      "A">
-<!ENTITY viewQuota.label              "View Quota">
-<!ENTITY changePassword.label         "Change Password">
-<!ENTITY mySyncKey.label              "My Sync Key">
-<!ENTITY resetSync.label              "Reset Sync">
-<!ENTITY addDevice.label              "Add a Device">
+<!ENTITY manageAccount.label          "Phatha i-akhawunti">
+<!ENTITY manageAccount.accesskey      "i">
+<!ENTITY viewQuota.label              "Bheka i-quota">
+<!ENTITY changePassword.label         "Shintsha igama lokungena">
+<!ENTITY mySyncKey.label              "Isikhiya sami se-sync">
+<!ENTITY resetSync.label              "Misa kabusha i-sync">
+<!ENTITY addDevice.label              "Yengeza isisetshenziswa">
 
-<!ENTITY syncMy.label               "Sync My">
-<!ENTITY engine.bookmarks.label     "Izimpawu Zokubekisa">
-<!ENTITY engine.bookmarks.accesskey "m">
+<!ENTITY syncMy.label               "Sync into yami">
+<!ENTITY engine.bookmarks.label     "Izimpawu zokubekisa">
+<!ENTITY engine.bookmarks.accesskey "z">
 <!ENTITY engine.tabs.label          "Amathebhu">
-<!ENTITY engine.tabs.accesskey      "T">
+<!ENTITY engine.tabs.accesskey      "A">
 <!ENTITY engine.history.label       "Umlando">
-<!ENTITY engine.history.accesskey   "r">
-<!ENTITY engine.passwords.label     "Amagama Okungena">
-<!ENTITY engine.passwords.accesskey "P">
+<!ENTITY engine.history.accesskey   "d">
+<!ENTITY engine.passwords.label     "Amagama wokungena">
+<!ENTITY engine.passwords.accesskey "A">
 <!ENTITY engine.prefs.label         "Okuthandwayo">
-<!ENTITY engine.prefs.accesskey     "S">
+<!ENTITY engine.prefs.accesskey     "o">
 <!-- Device Settings -->
 
-<!ENTITY syncComputerName.label       "Computer Name:">
-<!ENTITY syncComputerName.accesskey   "c">
-<!ENTITY deactivateDevice.label       "Deactivate This Device">
+<!ENTITY syncComputerName.label       "Igama lekhompyutha:">
+<!ENTITY syncComputerName.accesskey   "I">
+<!ENTITY deactivateDevice.label       "Yenza lesi sisetshenziswa singasebenzi">
 <!-- Footer stuff -->
 
-<!ENTITY prefs.tosLink.label        "Terms of Service">
-<!ENTITY prefs.ppLink.label         "Inqubo Yemfihlo">
+<!ENTITY prefs.tosLink.label        "Imigomo yokusebenza">
+<!ENTITY prefs.ppLink.label         "Inqubo yemfihlo">
