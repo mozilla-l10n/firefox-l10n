@@ -9,7 +9,7 @@
 <!ENTITY mainWindow.titlemodifiermenuseparator " - ">
 <!-- LOCALIZATION NOTE (mainWindow.titlePrivateBrowsingSuffix): This will be appended to the window's title
                                                                 inside the private browsing mode -->
-<!ENTITY mainWindow.titlePrivateBrowsingSuffix "(Поверително сърфиране)">
+<!ENTITY mainWindow.titlePrivateBrowsingSuffix "(поверително сърфиране)">
 <!-- Tab context menu -->
 
 <!ENTITY reloadTab.label "Презареждане на подпрозорец">

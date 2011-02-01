@@ -3,7 +3,7 @@
      and regret that we are unable to restore the session for the user -->
 
 <!ENTITY restorepage.errorTitle "Ух, това е неприятно.">
-<!ENTITY restorepage.problemDesc "&brandShortName; не може да възстанови Вашите прозорци и подпрозорци. Обикновено причината е в последното отворената уебстраница.">
+<!ENTITY restorepage.problemDesc "&brandShortName; не може да възстанови вашите прозорци и подпрозорци. Обикновено причината е в последната отворена уебстраница.">
 <!ENTITY restorepage.tryThis "Можете да опитате:">
 <!ENTITY restorepage.restoreSome "Да затворите един или повече подпрозорци, които смятате, че причиняват проблема">
 <!ENTITY restorepage.startNew "Да започнете нова сесия">
