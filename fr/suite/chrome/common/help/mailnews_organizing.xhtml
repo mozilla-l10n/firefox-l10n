@@ -1,0 +1,1450 @@
+<?xml version="1.0" encoding="utf-8"?>
+<!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.1//EN"
+  "http://www.w3.org/TR/xhtml11/DTD/xhtml11.dtd"[
+  <!ENTITY % brandDTD SYSTEM "chrome://branding/locale/brand.dtd" >
+  %brandDTD;
+  <!ENTITY % utilityOverlayDTD SYSTEM "chrome://communicator/locale/utilityOverlay.dtd" >
+  %utilityOverlayDTD;
+  <!ENTITY % tasksOverlayDTD SYSTEM "chrome://communicator/locale/tasksOverlay.dtd" >
+  %tasksOverlayDTD;
+  <!ENTITY % preferencesDTD SYSTEM "chrome://communicator/locale/pref/preferences.dtd" >
+  %preferencesDTD;
+  <!ENTITY % messengerDTD SYSTEM "chrome://messenger/locale/messenger.dtd" >
+  %messengerDTD;
+  <!ENTITY % mailPrefsOverlayDTD SYSTEM "chrome://messenger/locale/mailPrefsOverlay.dtd" >
+  %mailPrefsOverlayDTD;
+  <!ENTITY % AccountManagerDTD SYSTEM "chrome://messenger/locale/AccountManager.dtd" >
+  %AccountManagerDTD;
+  <!ENTITY % AccountWizardDTD SYSTEM "chrome://messenger/locale/AccountWizard.dtd" >
+  %AccountWizardDTD;
+  <!ENTITY % am-mainDTD SYSTEM "chrome://messenger/locale/am-main.dtd" >
+  %am-mainDTD;
+  <!ENTITY % am-addressingDTD SYSTEM "chrome://messenger/locale/am-addressing.dtd" >
+  %am-addressingDTD;
+  <!ENTITY % am-copiesDTD SYSTEM "chrome://messenger/locale/am-copies.dtd" >
+  %am-copiesDTD;
+  <!ENTITY % am-junkDTD SYSTEM "chrome://messenger/locale/am-junk.dtd" >
+  %am-junkDTD;
+  <!ENTITY % am-offlineDTD SYSTEM "chrome://messenger/locale/am-offline.dtd" >
+  %am-offlineDTD;
+  <!ENTITY % am-server-topDTD SYSTEM "chrome://messenger/locale/am-server-top.dtd" >
+  %am-server-topDTD;
+  <!ENTITY % am-server-advancedDTD SYSTEM "chrome://messenger/locale/am-server-advanced.dtd" >
+  %am-server-advancedDTD;
+  <!ENTITY % am-smimeDTD SYSTEM "chrome://messenger/locale/am-smime.dtd" >
+  %am-smimeDTD;
+  <!ENTITY % am-serverwithnoidentitiesDTD SYSTEM "chrome://messenger/locale/am-serverwithnoidentities.dtd" >
+  %am-serverwithnoidentitiesDTD;
+  <!ENTITY % am-advancedDTD SYSTEM "chrome://messenger/locale/am-advanced.dtd" >
+  %am-advancedDTD;
+  <!ENTITY % am-mdnDTD SYSTEM "chrome://messenger/locale/am-mdn.dtd" >
+  %am-mdnDTD;
+  <!ENTITY % folderPropsDTD SYSTEM "chrome://messenger/locale/folderProps.dtd" >
+  %folderPropsDTD;
+  <!ENTITY % pref-addressingDTD SYSTEM "chrome://messenger/locale/addressbook/pref-addressing.dtd" >
+  %pref-addressingDTD;
+  <!ENTITY % pref-tagsDTD SYSTEM "chrome://messenger/locale/pref-tags.dtd" >
+  %pref-tagsDTD;
+  <!ENTITY % pref-formattingDTD SYSTEM "chrome://messenger/locale/messengercompose/pref-formatting.dtd" >
+  %pref-formattingDTD;
+  <!ENTITY % pref-composing_messagesDTD SYSTEM "chrome://messenger/locale/messengercompose/pref-composing_messages.dtd" >
+  %pref-composing_messagesDTD;
+  <!ENTITY % pref-mailnewsDTD SYSTEM "chrome://messenger/locale/pref-mailnews.dtd" >
+  %pref-mailnewsDTD;
+  <!ENTITY % pref-notificationsDTD SYSTEM "chrome://messenger/locale/pref-notifications.dtd" >
+  %pref-notificationsDTD;
+  <!ENTITY % pref-junkDTD SYSTEM "chrome://messenger/locale/pref-junk.dtd" >
+  %pref-junkDTD;
+  <!ENTITY % pref-directoryDTD SYSTEM "chrome://messenger/locale/addressbook/pref-directory.dtd" >
+  %pref-directoryDTD;
+  <!ENTITY % pref-directory-addDTD SYSTEM "chrome://messenger/locale/addressbook/pref-directory-add.dtd" >
+  %pref-directory-addDTD;
+  <!ENTITY % pref-receiptsDTD SYSTEM "chrome://messenger/locale/pref-receipts.dtd" >
+  %pref-receiptsDTD;
+  <!ENTITY % pref-offlineDTD SYSTEM "chrome://messenger/locale/pref-offline.dtd" >
+  %pref-offlineDTD;
+  <!ENTITY % pref-viewing_messagesDTD SYSTEM "chrome://messenger/locale/pref-viewing_messages.dtd" >
+  %pref-viewing_messagesDTD;
+  <!ENTITY % pref-character_encodingDTD SYSTEM "chrome://messenger/locale/pref-character_encoding.dtd" >
+  %pref-character_encodingDTD;
+  <!ENTITY % smtpEditOverlayDTD SYSTEM "chrome://messenger/locale/smtpEditOverlay.dtd" >
+  %smtpEditOverlayDTD;
+  <!ENTITY % msgHdrViewOverlayDTD SYSTEM "chrome://messenger/locale/msgHdrViewOverlay.dtd" >
+  %msgHdrViewOverlayDTD;
+  <!ENTITY % msgViewPickerOverlayDTD SYSTEM "chrome://messenger/locale/msgViewPickerOverlay.dtd" >
+  %msgViewPickerOverlayDTD;
+  <!ENTITY % msgCompSMIMEOverlayDTD SYSTEM "chrome://messenger-smime/locale/msgCompSMIMEOverlay.dtd"
+>
+  %msgCompSMIMEOverlayDTD;
+  <!ENTITY % abNewCardDialogDTD SYSTEM "chrome://messenger/locale/addressbook/abNewCardDialog.dtd" >
+  %abNewCardDialogDTD;
+  <!ENTITY % abCardOverlayDTD SYSTEM "chrome://messenger/locale/addressbook/abCardOverlay.dtd" >
+  %abCardOverlayDTD;
+  <!ENTITY % abCardViewOverlayDTD SYSTEM "chrome://messenger/locale/addressbook/abCardViewOverlay.dtd" >
+  %abCardViewOverlayDTD;
+  <!ENTITY % abMainWindowDTD SYSTEM "chrome://messenger/locale/addressbook/abMainWindow.dtd" >
+  %abMainWindowDTD;
+  <!ENTITY % am-newsblogDTD SYSTEM "chrome://messenger-newsblog/locale/am-newsblog.dtd" >
+  %am-newsblogDTD;
+]>
+
+<html xmlns="http://www.w3.org/1999/xhtml" lang="fr" xml:lang="fr">
+<head>
+  <title>Organiser vos messages</title>
+  <meta http-equiv="Content-Type" content="application/xhtml; charset=utf-8" />
+  <!--<link rel="stylesheet" href="content_style.css" type="text/css" />-->
+  <link rel="stylesheet" type="text/css" href="helpFileLayout.css" />
+  <link rel="stylesheet" type="text/css" href="chrome://communicator/skin/smileys.css"/>
+</head>
+
+<body>
+
+  <h1 id="organizing_your_messages">Organiser vos messages</h1>
+
+  <div class="contentsBox">
+    <p>Dans cette section&#160;:</p>
+
+    <ul>
+      <li><a href="#creating_a_folder">Créer un dossier</a></li>
+
+      <li><a href="#renaming_a_folder">Changer le nom d'un dossier</a></li>
+
+      <li><a href="#moving_or_copying_a_folder">Déplacer ou copier un
+      dossier</a></li>
+
+      <li><a href="#filing_messages_in_folders">Archiver des messages dans des
+      dossiers</a></li>
+
+      <li><a href="#sharing_folders_with_other_users">Partager un dossier avec
+      d'autres utilisateurs (IMAP seulement)</a></li>
+
+      <li><a href="#tagging_messages">Étiqueter des messages</a></li>
+
+      <li><a href="#marking_or_flagging_messages">Marquer ou cocher des
+      messages</a></li>
+
+      <li><a href="#using_message_views">Utiliser les modes d'affichage des
+      messages</a></li>
+
+      <li><a href="#creating_message_filters">Créer des filtres de
+      messages</a></li>
+
+      <li><a href="#searching_through_messages">Rechercher des
+      messages</a></li>
+    </ul>
+  </div>
+
+  <h2 id="creating_a_folder">Créer un dossier</h2>
+
+  <p>Pour créer un dossier de messagerie&#160;:</p>
+
+  <ol>
+    <li>Ouvrez une fenêtre <q>Courrier</q>.</li>
+
+    <li>Ouvrez le menu <q>&fileMenu.label;</q>, choisissez <q>&newMenu.label;</q>, puis
+    <q>&newFolderCmd.label;</q>. La boîte de dialogue <q>Nouveau dossier</q>
+    s'affiche.</li>
+
+    <li>Entrez le nom du dossier.</li>
+
+    <li>Cliquez sur la liste déroulante pour choisir un emplacement et
+    cliquez sur <q>OK</q>. Le nouveau dossier apparaît dans la liste des
+    dossiers de messagerie.</li>
+  </ol>
+
+  <p>[&#160;<a href="#organizing_your_messages">Retour au début de la
+  section</a>&#160;]</p>
+
+  <h2 id="renaming_a_folder">Changer le nom d'un dossier</h2>
+
+  <p>Pour renommer un dossier existant&#160;:</p>
+
+  <ol>
+    <li>Ouvrez une fenêtre <q>Courrier</q>.</li>
+
+    <li>Sélectionnez le dossier à renommer.</li>
+
+    <li>Ouvrez le menu <q>&fileMenu.label;</q> et choisissez <q>Renommer le
+    dossier</q>.</li>
+
+    <li>Entrez le nouveau nom du dossier et cliquez sur <q>OK</q>.</li>
+  </ol>
+
+  <p><strong>Remarque</strong>&#160;: si vous renommez un dossier
+  utilisé pour stocker des <a href="#creating_message_filters">messages
+  filtrés</a>, le filtre sera automatiquement mis à jour afin
+  d'utiliser le dossier renommé.</p>
+
+  <p>[&#160;<a href="#organizing_your_messages">Retour au début de la
+  section</a>&#160;]</p>
+
+  <h2 id="moving_or_copying_a_folder">Déplacer ou copier un dossier</h2>
+
+  <p>Vous pouvez copier un dossier et son contenu dans un autre compte de
+  messagerie ou le déplacer dans le même compte.</p>
+
+  <p>Pour déplacer ou copier un dossier&#160;:</p>
+
+  <ol>
+    <li>Ouvrez une fenêtre <q>Courrier</q>.</li>
+
+    <li>Sélectionnez le dossier à déplacer ou à
+    copier.</li>
+
+    <li>Effectuez l'une des opérations suivantes&#160;:
+
+      <ul>
+        <li>Pour déplacer le dossier dans un autre dossier du même
+        compte, faites-le glisser sur le nom du dossier en question. Le dossier
+        déplacé devient un sous-dossier du dossier cible.</li>
+
+        <li>Pour copier le dossier dans un autre compte, faites-le glisser sur
+        le nom de ce dernier.</li>
+
+        <li>Pour copier le dossier dans un autre dossier d'un autre compte,
+        faites-le glisser sur le nom de ce dossier. Le dossier copié
+        devient un sous-dossier du dossier cible.</li>
+      </ul>
+    </li>
+  </ol>
+
+  <p>[&#160;<a href="#organizing_your_messages">Retour au début de la
+  section</a>&#160;]</p>
+
+  <h2 id="filing_messages_in_folders">Archiver des messages dans des
+  dossiers</h2>
+
+  <p>Vous pouvez déplacer des messages d'un dossier à un autre
+  à l'aide des méthodes suivantes&#160;:</p>
+
+  <ul>
+    <li>Sélectionnez le message, cliquez sur le bouton <q>&fileButton.label;</q> de
+    la barre d'outils et choisissez le dossier de destination dans la liste
+    déroulante.</li>
+
+    <li>Glissez-déplacez des messages vers le dossier
+    désiré.
+
+      <p><strong>Remarque</strong>&#160;: si vous glissez-déplacez un
+      message d'un dossier de serveur de messagerie IMAP ou POP vers un dossier
+      local sur le disque dur, il est placé dans le dossier local et
+      supprimé du dossier du serveur.</p>
+    </li>
+  </ul>
+
+  <p>Pour copier un message d'un dossier dans un autre&#160;:</p>
+
+  <ol>
+    <li>Sélectionnez le message et cliquez dessus avec le bouton droit
+    pour afficher le menu contextuel.</li>
+
+    <li>Sélectionnez <q>Copier vers</q> et sélectionnez le compte
+    et le dossier de destination dans les sous-menus.</li>
+  </ol>
+
+  <p><strong>Astuce</strong>&#160;: d'une autre manière, vous pouvez
+  copier un message entre dossiers en pressant sur la touche MAJ tout en
+  glissant-déplaçant le message de la liste des messages sur un
+  dossier.</p>
+
+  <p>[&#160;<a href="#organizing_your_messages">Retour au début de la
+  section</a>&#160;]</p>
+
+  <h2 id="sharing_folders_with_other_users">Partager un dossier avec d'autres
+  utilisateurs (IMAP seulement)</h2>
+
+  <p>Les utilisateurs avec des comptes courrier IMAP peuvent partager des
+  dossiers avec d'autres utilisateurs du même réseau. Partager des
+  dossiers permet à plusieurs utilisateurs de voir et de travailler sur
+  les mêmes messages, comme dans un groupe. Pour utiliser le partage de
+  dossiers, votre serveur IMAP doit supporter la gestion des listes de
+  contrôle d'accès (ACL, <em>Access Control List</em>). Demandez
+  à votre administrateur système si vous n'êtes pas
+  sûr que les dossiers partagés sont supportés par votre
+  serveur IMAP.</p>
+
+  <p>Pour partager un dossier avec d'autres utilisateurs de votre réseau
+  ou pour voir des informations partagées&#160;:</p>
+
+  <ol>
+    <li>Ouvrez une fenêtre <q>Courrier</q>.</li>
+
+    <li>Dans un compte IMAP, sélectionnez un dossier que vous voulez
+    partager ou un dossier dont vous voulez voir les privilèges de
+    partage.
+
+      <p><strong>Remarque</strong>&#160;: les dossiers dans les dossiers locaux
+      ou dans un compte POP ne peuvent être partagés.</p>
+    </li>
+
+    <li>Ouvrez le menu <q>&editMenu.label;</q> et choisissez
+    <q>&folderPropsFolderCmd.label;</q>.</li>
+
+    <li>Cliquez sur l'onglet <q>Partage</q>.</li>
+
+    <li>Cliquez sur <q>Privilèges</q>. Vous pouvez avoir à saisir
+    vos nom d'utilisateur et mot de passe.
+
+      <p>Le bouton <q>Privilèges</q> n'est disponible que si le serveur
+      IMAP vous permet de modifier les privilèges de partage des
+      dossiers. Si ce bouton n'est pas disponible, vous pouvez voir les
+      privilèges de partage de ce dossier, mais pas les modifier.</p>
+    </li>
+
+    <li>Suivez les instructions sur l'écran pour ajouter des
+    utilisateurs et définir leurs droits d'accès aux dossiers.
+
+      <dl>
+        <dt>Privilèges de lecture&#160;:</dt>
+
+        <dd>Les utilisateurs peuvent lire les messages et copier leur contenu,
+        mais ne peuvent ni les modifier, ni les effacer, ni copier de nouveaux
+        messages dans le dossier. Les utilisateurs peuvent marquer les messages
+        comme lus ou non lus. Voir la section <a href=
+        "#marking_or_flagging_messages">Étiqueter ou marquer des
+        messages</a> pour des détails sur le marquage des messages.</dd>
+
+        <dt>Privilèges de lecture-écriture&#160;:</dt>
+
+        <dd>En plus des privilèges de lecture, les utilisateurs peuvent
+        modifier et supprimer des messages. Les utilisateurs peuvent aussi
+        copier ou déplacer des messages dans le dossier.</dd>
+
+        <dt>Privilèges d'administration&#160;:</dt>
+
+        <dd>En plus des privilèges de lecture-écriture, les
+        utilisateurs peuvent ajouter et supprimer des utilisateurs et changer
+        leurs privilèges sur les dossiers.</dd>
+      </dl>
+    </li>
+
+    <li>Cliquez sur <q>OK</q> pour confirmer vos modifications.</li>
+
+    <li>Cliquez sur <q>OK</q> pour fermer la boîte de dialogue
+    <q>Propriétés du dossier</q>.</li>
+  </ol>
+
+  <p>Dans la liste des dossiers de votre compte de courrier, un dossier
+  partagé se distingue par son icône.</p>
+
+  <p>Pour envoyer un message d'instructions d'accès à votre
+  dossier partagé à partir d'une fenêtre
+  <q>Courrier</q>&#160;:</p>
+
+  <ol>
+    <li>Sélectionnez le dossier partagé.</li>
+
+    <li>Cliquez du bouton droit pour afficher un menu contextuel et choisissez
+    <q>Copier l'adresse du dossier</q>.</li>
+
+    <li>Cliquez sur <q>Rédiger</q> pour afficher une fenêtre de
+    rédaction de message.</li>
+
+    <li>Cliquez dans le corps du message, ouvrez le menu <q>&editMenu.label;</q>
+    et choisissez <q>&pasteCmd.label;</q>.</li>
+
+    <li>Remplissez les destinataires, ajoutez un sujet et tapez le texte du
+    message. Avertissez les destinataires qu'ils peuvent accéder au
+    dossier partagé en cliquant sur le lien collé dans le
+    message.
+
+      <p>Seuls les destinataires sur le même réseau pourront
+      accéder à votre dossier partagé.</p>
+    </li>
+
+    <li>Cliquez sur <q>Envoyer</q>.</li>
+  </ol>
+
+  <h3 id="subscribing_to_a_shared_folder">Accéder à un dossier
+  partagé</h3>
+
+  <p>Accéder à un dossier partagé est comparable à
+  l'abonnement à un groupe. Pour accéder à un dossier
+  partagé&#160;:</p>
+
+  <ol>
+    <li>Ouvrez une fenêtre <q>Courrier</q>&#160;.</li>
+
+    <li>Ouvrez le menu <q>&fileMenu.label;</q> et choisissez <q>&subscribeCmd.label;</q>. La
+    boîte de dialogue <q>Abonnement</q> apparaît.</li>
+
+    <li>Le cas échéant, cliquez sur la liste déroulante
+    <q>Serveur</q> pour choisir le bon compte de courrier IMAP.</li>
+
+    <li>Sélectionnez le dossier auquel vous voulez vous abonner.</li>
+
+    <li>Cliquez sur le bouton <q>S'abonner</q> ou sur la case proche du nom du
+    dossier dans la colonne <q>Abonné</q>. Vous voyez un crochet dans la case
+    près de chacun des dossiers auquel vous vous êtes abonné.
+    Cliquez sur <q>&unsubscribeNewsgroupCmd.label;</q> pour annuler un abonnement.</li>
+
+    <li>Cliquez sur <q>OK</q>. La liste des dossiers auxquels vous êtes
+    abonné s'affiche dans la fenêtre <q>Courrier</q>.</li>
+  </ol>
+
+  <p>[&#160;<a href="#organizing_your_messages">Retour au début de la
+  section</a>&#160;]</p>
+
+  <h2 id="tagging_messages">Étiqueter des messages</h2>
+
+  <p>Vous pouvez étiqueter des messages pour vous aider à les
+  organiser et à leur donner des priorités. Vous pouvez
+  également en créer de nouvelles et leur donner une couleur et
+  un texte d'étiquette standards ou personnaliser ceux-ci pour
+  répondre à vos besoins</p>
+
+  <p>Une application particulièrement intéressante est
+  l'utilisation des filtres de messages pour étiqueter automatiquement
+  les messages entrants. Par exemple, vous pouvez configurer un filtre de
+  message pour qu'il étiquette les messages de votre patron comme
+  <q>Important</q> et pour qu'ils apparaissent en rouge. Voir la section
+  <a href="#creating_message_filters">Créer des filtres de messages</a>
+  pour plus d'informations.</p>
+
+  <h3 id="applying_a_tag">Étiquetage</h3>
+
+  <p>Pour étiqueter un message&#160;:</p>
+
+  <ol>
+    <li>Ouvrez une fenêtre <q>Courrier</q>.</li>
+
+    <li>Sélectionnez le message que vous désirez
+    étiqueter.</li>
+
+    <li>Ouvrez le menu <q>&msgsMenu.label;</q> et choisissez
+    <q>Étiquette</q>.</li>
+
+    <li>Choisissez dans la liste l'étiquetage que vous désirez
+    employer.</li>
+  </ol>
+
+  <p>L'en-tête du message passe dans la couleur d'étiquetage que
+  vous avez choisie. Pour voir le texte de l'étiquette, vous devez
+  afficher la colonne <q>Étiquette</q> dans la fenêtre
+  <q>Courrier</q>.</p>
+
+  <p><strong>Astuce</strong>&#160;: pour étiqueter rapidement des
+  messages, sélectionnez-les et appuyez sur un chiffre de 1 à 9
+  sur votre clavier. Appuyez sur 0 pour enlever l'étiquette.</p>
+
+  <p>Pour faire apparaître la colonne <q>Étiquette</q>&#160;:</p>
+
+  <ul>
+    <li>Ouvrez une fenêtre <q>Courrier</q>.</li>
+
+    <li>Cliquez sur l'icône <q>Afficher/Masquer les colonnes</q>
+    <img src="images/columns.png" alt="sélection des colonnes" /> et
+    sélectionnez <q>Étiquette</q> dans la liste.</li>
+  </ul>
+
+  <p><strong>Remarque</strong>&#160;: les étiquettes s'appliquent
+  indépendamment pour chaque compte. Par exemple, si vous
+  déplacez ou copiez un message étiqueté vers un autre
+  compte de messagerie, l'étiquette n'est pas préservée.
+  De même si vous transférez un message étiqueté
+  vers un autre destinataire. Dans le cas d'un compte de messagerie IMAP, si le
+  serveur supporte les mots-clés définis par l'utilisateur, les
+  étiquettes de messages resteront quand vous vous connecterez à
+  votre compte de messagerie d'un autre endroit.</p>
+
+  <h3 id="customizing_tags">&pref.tags.caption;</h3>
+
+  <p>Vous pouvez personnaliser la couleur, le texte ou l'ordre de vos
+  étiquettes afin de les adapter à vos besoins.</p>
+
+  <p>Pour personnaliser les étiquettes&#160;:</p>
+
+  <ol>
+    <li>Ouvrez une fenêtre <q>Courrier</q>.</li>
+
+    <li>Ouvrez le menu <q><span class="mac">SeaMonkey</span><span
+    class="noMac">&editMenu.label;</span></q>
+    et choisissez <q>&preferencesCmd.label;</q>. La boîte de dialogue
+    <q>&prefWindow.title;</q> s'affiche.</li>
+
+    <li>Sous la catégorie <q>Courrier et Groupes</q>, cliquez sur
+    <q>&pref.tags.title;</q>. Si aucune sous-catégorie n'est visible,
+    double-cliquez sur la catégorie <q>Courrier et Groupes</q> pour
+    développer la liste.</li>
+
+    <li>Cliquez dans le champ texte et modifiez le nom de l'étiquette
+    en le remplaçant par votre propre texte. Le nom de
+    l'étiquette peut contenir jusqu'à 32 caractères.</li>
+
+    <li>Pour changer la couleur de l'étiquette, cliquez sur le bloc de
+    couleur près du texte de l'étiquette et sélectionnez
+    une nouvelle couleur.</li>
+
+    <li>Cliquez les boutons « Monter » et « Descendre » pour réarranger l'ordre
+    des étiquettes. La coloration des messages se fera préférentiellement à
+    partir de l'ordre de la liste&#160;?</li>
+
+    <li>Cliquez sur <q>OK</q>.</li>
+  </ol>
+
+  <p>Vos changements prendront immédiatement effet pour tous les
+  messages étiquetés dans tous vos comptes de messagerie.</p>
+
+  <p><strong>Astuce</strong>&#160;: pour restaurer les paramètres par
+  défaut des étiquettes, procédez comme ci-dessus pour
+  afficher les paramètres d'étiquetage puis cliquez sur
+  <q>Réinitialiser</q>.</p>
+
+  <h3 id="sorting_messages_by_tags">Trier les messages par
+  étiquette</h3>
+
+  <p>Pour trier les messages par étiquette&#160;:</p>
+
+  <ol>
+    <li>Ouvrez une fenêtre <q>Courrier</q>.</li>
+
+    <li>Pour faire apparaître la colonne <q>Étiquette</q> si elle
+    est cachée, cliquez sur l'icône <q>Afficher/Masquer les
+    colonnes</q> <img src="images/columns.png" alt=
+    "Icône d'affichage des colonnes" /> et sélectionnez
+    <q>Étiquette</q> dans la liste.</li>
+
+    <li>Cliquez sur la colonne <q>Étiquette</q> pour trier les messages
+    par couleur d'étiquette. Dans une même couleur, les messages
+    sont ensuite triés par date.</li>
+  </ol>
+
+  <h3 id="removing_tags">Supprimer des étiquettes</h3>
+
+  <p>Pour effacer une étiquette&#160;:</p>
+
+  <ol>
+    <li>Ouvrez une fenêtre <q>Courrier</q>.</li>
+
+    <li>Sélectionnez un ou plusieurs messages
+    étiquetés.</li>
+
+    <li>Ouvrez le menu <q>&msgsMenu.label;</q> et choisissez
+    <q>Étiquette</q>.</li>
+
+    <li>Sélectionnez l'étiquette à supprimer ou <q>Aucune</q>
+    pour les supprimer toutes.</li>
+  </ol>
+
+  <p><strong>Astuce</strong>&#160;: utiliser les raccourcis clavier pour
+  attribuer des étiquettes à vos messages. Pour supprimer une
+  étiquette, le raccourci clavier est <q>0</q>.</p>
+
+  <p>[&#160;<a href="#organizing_your_messages">Retour au début de la
+  section</a>&#160;]</p>
+
+  <h2 id="marking_or_flagging_messages">Marquer ou cocher des messages</h2>
+
+  <p>Il peut être pratique de marquer un message déjà lu
+  comme non lu pour faciliter la relecture ou la rédaction d'une
+  réponse.</p>
+
+  <p>Pour marquer un message comme non lu&#160;:</p>
+
+  <ol>
+    <li>Ouvrez une fenêtre <q>Courrier</q>.</li>
+
+    <li>Sélectionnez un dossier de messagerie ou de groupe pour faire
+    apparaître les messages.</li>
+
+    <li>Cliquez sur la colonne <q>Lu</q> devant chaque message que vous
+    désirez marquer comme non lu. Les messages marqués comme non
+    lus affichent un symbole <img src="images/mail_unread.png" alt=
+    "non lu" /> dans la colonne <q>Lu</q> et le titre du message s'affiche en
+    gras. Les messages marqués comme lus affichent un symbole <img src=
+    "images/mail_read.png" alt="lu" /> dans la colonne <q>Lu</q>. Pour
+    faire apparaître la colonne <q>Lu</q> si elle est cachée,
+    cliquez sur l'icône <q>Afficher/Masquer les colonnes</q> <img src=
+    "images/columns.png" alt="colonnes" /> et sélectionnez <q>Lu</q>
+    dans la liste.</li>
+  </ol>
+
+  <table style="text-align: center" cellpadding="2">
+    <tr>
+      <td><img src="images/mail_read_column.png" alt=
+      "Colonne messages lus" /></td>
+
+      <td><img src="images/mail_flag_column.png" alt=
+      "Colonne messages cochés" /></td>
+    </tr>
+
+    <tr>
+      <td><strong>Colonne <q>Lu</q></strong></td>
+
+      <td><strong>Colonne <q>Coché</q></strong></td>
+    </tr>
+  </table>
+
+  <p>Vous pouvez cocher les messages que vous désirez
+  télécharger plus tard pour une <a href=
+  "mailnews_offline.xhtml#downloading_selected_or_flagged_messages_for_offline_use">utilisation hors
+  ligne</a>.</p>
+
+  <p>Pour cocher des messages&#160;:</p>
+
+  <ol>
+    <li>Ouvrez une fenêtre <q>Courrier</q>.</li>
+
+    <li>Sélectionnez un dossier de messagerie ou de groupe pour faire
+    apparaître ses messages.</li>
+
+    <li>Cliquez sur la colonne <q>Coché</q> de chaque message que vous
+    désirez télécharger. Un drapeau <img src=
+    "images/mail_flag.png" alt="drapeau" /> apparaît lorsque
+    vous cliquez pour indiquer que le message a été coché.
+    Si la colonne <q>Coché</q> n'est pas visible, cliquez sur
+    l'icône <q>Afficher/Masquer les colonnes</q> <img src=
+    "images/columns.png" alt="Icône Afficher/Masquer" /> et
+    sélectionnez <q>Coché</q> dans la liste.</li>
+  </ol>
+
+  <p>[&#160;<a href="#organizing_your_messages">Retour au début de la
+  section</a>&#160;]</p>
+
+  <h2 id="using_message_views">Utiliser les modes d'affichage des messages</h2>
+
+  <p>Vous pouvez appliquer un mode d'affichage prédéfini ou
+  personnalisé pour vous aidez à gérer le courrier en
+  filtrant les messages à ne pas afficher.</p>
+
+  <p>Pour utiliser un mode d'affichage des messages, ouvrez le menu
+  <q>&viewMenu.label;</q> et sélectionnez <q>Messages</q>. Choisissez alors une
+  option du sous-menu.</p>
+
+  <dl>
+    <dt>Tous&#160;:</dt>
+
+    <dd>Choisissez cette option pour afficher tous les messages.</dd>
+
+    <dt>Non lus&#160;:</dt>
+
+    <dd>Choisissez cette option pour n'afficher que les messages non lus.</dd>
+
+    <dt>Nom d'une étiquette&#160;:</dt>
+
+    <dd>Choisissez une <a href="#tagging_messages">étiquette</a> pour
+    n'afficher que les messages qui correspondent.</dd>
+
+    <dt>Affichage personnalisé&#160;:</dt>
+
+    <dd>Choisissez un mode d'affichage personnalisé. Par défaut,
+    vous avez ces 5 modes&#160;: <q>Personnes que je connais</q>, <q>Courriers
+    récents</q>, <q>Derniers 5 jours</q>, <q>Non indésirables</q>
+    et <q>Avec pièces jointes</q>.</dd>
+
+    <dt>&viewCustomizeView.label;</dt>
+
+    <dd>Choisissez cette option pour voir ou modifier les paramètres des
+    affichages personnalisés.</dd>
+  </dl>
+
+  <p><strong>Astuce</strong>&#160;: vous pouvez changer rapidement le mode
+  d'affichage des messages depuis la liste déroulante <q>Voir</q> dans
+  la barre de recherche. Si vous ne voyez pas la barre de recherche&#160;:</p>
+
+  <ol>
+    <li>Ouvrez le menu <q>&viewMenu.label;</q>.</li>
+
+    <li>Sélectionnez <q>&viewToolbarsMenu.label;</q>.</li>
+
+    <li>Choisissez <q>&showSearchToolbarCmd.label;</q>.</li>
+  </ol>
+
+  <table>
+    <tr>
+      <td colspan="2"><img src="images/mail_quicksearch.png" alt="" /></td>
+    </tr>
+    <tr>
+      <td style="width: 80px;"></td>
+      <td><strong>Quick mail search bar</strong></td>
+    </tr>
+  </table>
+
+  <p><img src="images/mail_quicksearch.png" alt=
+  "Barre de recherche du courrier" /></p>
+
+  <h3 id="creating_a_custom_view">Créer un mode d'affichage
+  personnalisé</h3>
+
+  <p>Vous pouvez créer des vues de messages personnalisées pour
+  n'afficher que les messages répondant à certains
+  critères.</p>
+
+  <p>Pour changer ou créer un mode d'affichage personnalisé,
+  suivez ces étapes&#160;:</p>
+
+  <ol>
+    <li>Ouvrez le menu <q>&viewMenu.label;</q>, sélectionnez <q>Messages</q>,
+    puis choisissez <q>Personnaliser…</q></li>
+
+    <li>Pour créer une nouvelle vue, cliquez sur <q>Nouveau</q>. Pour
+    modifier une vue existante, sélectionnez la mode et cliquez sur
+    <q>Édition</q>.</li>
+
+    <li>Saisissez un nom pour ce mode d'affichage.</li>
+
+    <li>Sélectionnez l'option correspondante pour la vue que vous
+    désirez utiliser&#160;: <q>valident <em>toutes</em> les conditions
+    suivantes</q> que vous ajouterez, ou <q>valident au moins <em>une</em> des
+    conditions suivantes</q>.</li>
+
+    <li>Utilisez les listes déroulantes pour choisir le critère
+    de recherche (par exemple, <q>Sujet</q>, <q>Expéditeur</q>,
+    <q>contient</q>, <q>ne contient pas</q>) puis saisissez les mots ou la
+    phrase qui vous voulez chercher.
+
+      <p><strong>Astuce</strong>&#160;: pour chercher des messages contenant un
+      en-tête non listé dans la première liste
+      déroulante (par exemple, si vous recherchez des messages qui
+      incluent un champ <q>Resent-From</q>), choisissez <q>Personnaliser</q> et
+      entrez l'en-tête dans laquelle vous voulez chercher. &brandShortName;
+      Courrier &amp; Groupes ajoutera le nouvel en-tête à la liste
+      déroulante. Ainsi, vous pourrez le choisir pour d'autres
+      règles de messages. Assurez-vous d'avoir correctement saisi le nom
+      du champ, car &brandShortName; Courrier &amp; Groupes ne peut trouver que des
+      correspondances exactes.</p>
+    </li>
+
+    <li>Cliquez sur <q>Plus</q> pour ajouter des critères et sur
+    <q>Moins</q> pour en enlever.</li>
+
+    <li>Cliquez sur <q>OK</q> pour confirmer vos changements.</li>
+
+    <li>Cliquez sur <q>OK</q> dans la boîte de dialogue <q>Personnaliser
+    les vues des messages</q>. Les paramètres de la vue
+    sélectionnée s'appliquent automatiquement.</li>
+  </ol>
+
+  <p>[&#160;<a href="#organizing_your_messages">Retour au début de la
+  section</a>&#160;]</p>
+
+  <h2 id="creating_message_filters">Créer des filtres de messages</h2>
+
+  <p>Les filtres de messages permettent de gérer et d'organiser les
+  messages automatiquement. Vous pouvez créer des filtres
+  utilisés par &brandShortName; Courrier &amp; Groupes pour effectuer
+  automatiquement certaines actions sur les messages entrants en fonction de
+  critères spécifiques. Par exemple, vous pouvez créer un
+  filtre de messages qui déplacera automatiquement les messages entrants
+  dans un dossier ou sous-dossier. Les filtres de messages sont conçus
+  pour un compte particulier.</p>
+
+  <p>Pour créer un filtre de messages&#160;:</p>
+
+  <ol>
+    <li>Ouvrez une fenêtre <q>Courrier</q>.</li>
+
+    <li>Ouvrez le menu <q>&tasksMenu.label;</q> et choisissez <q>&filtersCmd.label;</q>.
+    La boîte de dialogue <q>Filtres de messages</q> s'affiche.</li>
+
+    <li>Si vous avez plusieurs comptes de messagerie, sélectionnez celui
+    sur lequel vous souhaitez appliquer le filtre.</li>
+
+    <li>Cliquez sur <q>Nouveau</q>. La boîte de dialogue <q>Modifier le
+    filtre</q> permet de spécifier les types de messages
+    concernés et l'action à effectuer par le filtre.</li>
+
+    <li>Entrez un nom pour le filtre.</li>
+
+    <li>Sélectionnez l'option de condition qui convient au filtre que
+    vous souhaitez appliquer&#160;: <q>valident <em>TOUTES</em> les conditions
+    suivantes</q> ou <q>valident au moins <em>UNE</em> des conditions
+    suivantes</q>.</li>
+
+    <li>Utilisez les listes déroulantes pour sélectionner les
+    critères de recherche (par exemple, <q>Objet</q>,
+    <q>Expéditeur</q>, <q>Contient</q>, <q>Ne contient pas</q>) et
+    entrez le texte à rechercher.
+
+      <p><strong>Astuce</strong>&#160;: pour chercher des messages contenant un
+      en-tête non listé dans la première liste
+      déroulante (par exemple, si vous recherchez des messages qui
+      incluent un champ <q>Resent-From</q>), choisissez <q>Personnaliser</q> et
+      entrez l'en-tête dans laquelle vous voulez chercher. &brandShortName;
+      Courrier &amp; Groupes ajoutera le nouvel en-tête à la liste
+      déroulante. Ainsi, vous pourrez le choisir pour d'autres
+      règles de messages. Assurez-vous d'avoir correctement saisi le nom
+      du champ, car &brandShortName; Courrier &amp; Groupes ne peut trouver que des
+      correspondances exactes.</p>
+    </li>
+
+    <li>Cliquez sur <q>Plus</q> pour ajouter des critères et sur
+    <q>Moins</q> pour supprimer le dernier critère de la liste.</li>
+
+    <li>Cochez les cases pour sélectionner l'action (ou les actions) que
+    vous souhaitez que le filtre applique aux messages (par exemple
+    <q>Déplacer vers le dossier</q>). Si elles existent, utilisez les
+    listes déroulantes en face de chaque option, afin de préciser
+    l'action à exécuter.
+
+      <p><strong>Astuce</strong>&#160;: pour étiqueter automatiquement
+      les messages entrants, optez pour <q>Étiqueter l'en-tête du
+      message</q> dans la liste déroulante.</p>
+    </li>
+
+    <li>Cliquez sur <q>OK</q> pour confirmer les paramètres.</li>
+
+    <li>Cliquez sur <q>OK</q> dans la boîte de dialogue <q>Filtres de
+    messages</q>. Le filtre commencera à filtrer les messages entrants
+    dès que vous aurez cliqué sur <q>OK</q>.</li>
+  </ol>
+
+  <p>Pour gérer les filtres&#160;:</p>
+
+  <ol>
+    <li>Ouvrez une fenêtre <q>Courrier</q>.</li>
+
+    <li>Ouvrez le menu <q>&tasksMenu.label;</q> et choisissez <q>&filtersCmd.label;</q>.
+    La boîte de dialogue <q>Filtres de messages</q> s'affiche.</li>
+
+    <li>Si vous avez plusieurs comptes de messagerie, sélectionnez celui
+    dont vous désirez gérer les filtres.</li>
+
+    <li>Sélectionnez parmi les options suivantes&#160;:
+
+      <dl>
+        <dt>Activer ou désactiver un filtre&#160;:</dt>
+
+        <dd>Cochez la case à droite du nom du filtre pour activer le
+        filtre et décochez-la pour le désactiver.</dd>
+
+        <dt>Modifier un filtre&#160;:</dt>
+
+        <dd>Sélectionnez le filtre et cliquez sur <q>Édition</q>
+        (ou double-cliquez sur le nom du filtre). La boîte de dialogue
+        <q>Modifier le filtre</q> s'ouvre pour vous permettre d'effectuer vos
+        changements.</dd>
+
+        <dt>Supprimer un filtre&#160;:</dt>
+
+        <dd>Sélectionnez le nom du filtre et cliquez sur
+        <q>Effacer</q>.</dd>
+
+        <dt>Pour modifier l'ordre d'application des filtres&#160;:</dt>
+
+        <dd>
+          Dans la liste, cliquez sur le nom d'un filtre, puis sur <q>Vers le
+          haut</q> ou <q>Vers le bas</q> pour le déplacer dans l'ordre
+          d'application.
+
+          <p><strong>Remarque</strong>&#160;: les filtres sont appliqués
+          à chaque message entrant dans l'ordre de votre choix,
+          jusqu'à ce qu'une action de filtre entraîne la
+          suppression du message ou son déplacement dans un autre
+          dossier.</p>
+        </dd>
+      </dl>
+    </li>
+
+    <li>Cliquez sur <q>OK</q> lorsque vous avez terminé de gérer
+    les filtres. Si vous avez créé un nouveau filtre, il
+    commencera à filtrer les messages entrants dès que vous aurez
+    cliqué sur <q>OK</q>.</li>
+  </ol>
+
+  <p><strong>Remarque</strong>&#160;: si vous supprimez un dossier
+  utilisé pour stocker vos messages filtrés, le filtre ne
+  fonctionnera plus. Les messages entrants correspondant aux critères de
+  filtrage restent alors dans le dossier <q>Courrier entrant</q>. Si vous
+  renommez ou déplacez un dossier utilisé pour stocker des
+  messages filtrés, le filtre sera automatiquement mis à jour
+  pour utiliser le nouveau dossier.</p>
+
+  <p><strong>Astuce</strong>&#160;: les filtres ne s'appliquent pas aux
+  messages existants. Si vous avez des messages que vous souhaitez
+  déplacer vers un autre dossier, vous pouvez <a href=
+  "#searching_through_messages">effectuer une recherche</a> de ces messages
+  puis les <a href="#filing_messages_in_folders">archiver</a> dans le dossier
+  en question.</p>
+
+  <p>[&#160;<a href="#organizing_your_messages">Retour au début de la
+  section</a>&#160;]</p>
+
+  <h3 id="filtering_messages_from_a_specific_sender">Filtrer les messages d'un
+  expéditeur spécifique</h3>
+
+  <p>&brandShortName; vous permet de créer rapidement un filtre pour les messages
+  d'un expéditeur donné. Par exemple, vous pouvez déplacer
+  automatiquement tous les messages envoyés par le professeur de votre
+  enfant dans un dossier nommé <q>École</q>.</p>
+
+  <p>Pour créer un filtre concernant un expéditeur
+  spécifique&#160;:</p>
+
+  <ol>
+    <li>Ouvrez une fenêtre <q>Courrier</q>.</li>
+
+    <li>Choisissez un message de cet expéditeur.</li>
+
+    <li>Ouvrez le menu <q>&msgsMenu.label;</q>, et choisissez <q>&createFilter.label;</q>. La boîte de dialogue <q>Modifier le
+    filtre</q> s'affiche. En utilisant l'adresse de l'expéditeur,
+    &brandShortName; a configuré le nom, le critère de recherche et
+    l'action du filtre (Déplacer vers un dossier).</li>
+
+    <li>Choisissez un dossier de destination dans lequel archiver les messages
+    entrants de l'expéditeur spécifié ou créez un
+    nouveau dossier.</li>
+
+    <li>Cliquez sur <q>OK</q> pour confirmer vos réglages. La
+    boîte de dialogue <a href="#creating_message_filters">Filtres de
+    messages</a> apparaît. Vous pouvez alors créer, supprimer ou
+    modifier vos filtres de messages.</li>
+
+    <li>Cliquez sur <q>OK</q> pour fermer la fenêtre des filtres de
+    messages. Le filtre concernant les messages envoyés par
+    l'expéditeur en question prendra effet dès que vous aurez
+    cliqué sur <q>OK</q>.</li>
+  </ol>
+
+  <p>[&#160;<a href="#organizing_your_messages">Retour au début de la
+  section</a>&#160;]</p>
+
+  <h2 id="searching_through_messages">Rechercher des messages</h2>
+
+  <p>&brandShortName; Courrier &amp; Groupes permet de rechercher rapidement du texte
+  dans un message, de chercher des messages par objet, expéditeur ou
+  d'utiliser une combinaison de critères pour soumettre tous les
+  messages à une recherche approfondie dans un dossier, groupe ou compte
+  de messagerie spécifique.</p>
+
+  <p>Pour rechercher du texte dans un seul message&#160;:</p>
+
+  <ol>
+    <li>Ouvrez une fenêtre <q>Courrier</q>.</li>
+
+    <li>Sélectionnez le message, ouvrez le menu <q>&editMenu.label;</q> et
+    choisissez <q>&findCmd.label;</q>.</li>
+
+    <li>Entrez le texte à rechercher.</li>
+
+    <li>Cliquez sur <q>Rechercher</q> pour trouver la première
+    occurrence.</li>
+
+    <li>Continuez à cliquer sur <q>Rechercher</q> pour trouver d'autres
+    occurrences ou cliquez sur <q>&undoDefaultCmd.label;</q> une fois votre recherche
+    terminée.</li>
+
+    <li>Si vous avez fermé la fenêtre <q>Recherche dans la
+    page</q>, sélectionnez <q>&findAgainCmd.label;</q> dans le menu
+    <q>&editMenu.label;</q> pour continuer à rechercher le texte dans le
+    reste du message.</li>
+  </ol>
+
+  <p>Pour rechercher rapidement des messages par objet ou par
+  expéditeur&#160;:</p>
+
+  <ol>
+    <li>Ouvrez une fenêtre <q>Courrier</q>.</li>
+
+    <li>Dans le champ <q>&searchNameAndEmail.placeholder;</q>, entrez
+    le texte du sujet ou le nom de l'expéditeur que vous désirez
+    trouver. Vous pouvez entrer une partie du sujet ou de l'expéditeur
+    ou entrer le nom exact que vous désirez trouver.
+
+      <p>Dès que vous arrêtez d'écrire, &brandShortName; Courrier
+      &amp; Groupes affiche les messages qui possèdent une occurrence ou
+      un expéditeur contenant le texte recherché que vous
+      êtes en train d'entrer.</p>
+    </li>
+
+    <li>Une fois votre recherche terminée, cliquez sur <q>Effacer</q>
+    pour supprimer le texte de recherche et afficher tous les messages.</li>
+  </ol>
+
+  <h3 id="searching_for_specific_messages">Recherche précise de
+  messages</h3>
+
+  <p>Pour rechercher des messages dans des dossiers de messagerie ou de
+  groupes&#160;:</p>
+
+  <ol>
+    <li>Ouvrez une fenêtre <q>Courrier</q>.</li>
+
+    <li>Ouvrez le menu <q>&tasksMenu.label;</q> et choisissez <q>&searchMailCmd.label;</q>. La boîte de dialogue <q>Rechercher les messages</q>
+    apparaît.</li>
+
+    <li>Dans la liste déroulante <q>Rechercher des messages dans</q>,
+    choisissez le compte, le groupe ou le dossier dans lequel vous souhaitez
+    effectuer une recherche.</li>
+
+    <li>Cochez <q>Rechercher dans les sous-dossiers</q> pour inclure tous les
+    sous-dossiers dans la recherche.</li>
+
+    <li class="rediger">Sélectionnez <q>Rechercher sur le système local</q> pour rechercher uniquement
+    les messages des groupes de discussion ou des comptes IMAP qui ont été enregistrés localement.
+
+      <p><strong>Note</strong>&#160;: La case à cocher sera désactivée s'il n'est pas possible
+      de faire une recherche sur un dossier de messages distant.</p>
+    </li>
+
+    <li>Sélectionnez l'option correspondante pour rechercher des
+    messages soit en respectant toutes les conditions soit d'après au
+    moins une des conditions que vous choisirez.</li>
+
+    <li>Utilisez la liste déroulante pour indiquer les critères
+    de recherche (par exemple <q>Objet</q> et <q>contient</q>) puis entrez le
+    texte ou la phrase que vous recherchez.
+
+      <p><strong>Astuce</strong>&#160;: pour chercher des messages contenant un
+      en-tête non listé dans la première liste
+      déroulante (par exemple, si vous recherchez des messages qui
+      incluent un champ "Resent-From"), choisissez <q>Personnaliser</q> et
+      entrez l'en-tête dans lequel vous voulez chercher. &brandShortName; Courrier
+      &amp; Groupes ajoutera le nouvel en-tête à la liste
+      déroulante. Ainsi, vous pourrez le choisir pour d'autres
+      règles de messages. Assurez-vous d'avoir correctement saisi le nom
+      du champ, car &brandShortName; Courrier &amp; Groupes ne peut trouver que des
+      correspondances exactes.</p>
+    </li>
+
+    <li>Cliquez sur <q>Plus</q> pour ajouter des critères et sur
+    <q>Moins</q> pour enlever le dernier critère de la liste.</li>
+
+    <li>Cliquez sur <q>Rechercher</q> pour commencer la recherche ou sur
+    <q>Effacer</q> pour réinitialiser les critères. Les
+    résultats de la recherche apparaissent dans la zone
+    <q>Résultats</q> de la boîte de dialogue <q>Rechercher les
+    messages</q>.
+
+      <ul>
+        <li>Pour ouvrir un message et le lire, sélectionnez-le et
+        cliquez sur <q>Ouvrir</q> ou double-cliquez dessus.</li>
+
+        <li>Pour trier les messages dans un ordre différent, cliquez sur
+        la colonne à partir de laquelle trier.</li>
+
+        <li>Pour déplacer ou copier un message de la zone
+        <q>Résultats</q> dans un autre dossier, sélectionnez-le
+        et choisissez le dossier de destination dans la liste déroulante
+        <q>Classer</q>. Si ce dossier est dans le même compte, le message
+        y est déplacé. Si le dossier de destination appartient
+        à un autre compte, il y est dupliqué.</li>
+
+        <li>Pour supprimer un message de la zone <q>Résultats</q>,
+        sélectionnez le message puis cliquez sur <q>Effacer</q>.</li>
+
+        <li>Pour ouvrir le dossier dans lequel se trouve un message,
+        sélectionnez-le et cliquez sur <q>Aller au dossier du
+        message</q>.</li>
+      </ul>
+    </li>
+  </ol>
+
+  <p>[&#160;<a href="#organizing_your_messages">Retour au début de la
+  section</a>&#160;]</p>
+
+<h1 id="controlling_junk_mail">Contrôler les courriers
+  indésirables</h1>
+
+  <p class="rediger">&brandShortName; vous permet de filtrer les courriers que vous recevez et, si
+  ceux-ci ne sont pas sollicités (également appelés spam
+  en anglais) ou s'ils sont frauduleux (phishing en anglais), c'est-à-dire
+  qu'ils reproduisent illégalement un site institutionnel afin
+  de récupérer des données vous concernant), de les
+  déplacer vers un dossier que vous aurez choisi
+  puis de les effacer. Ce filtre est basé sur une analyse
+  bayésienne, (une technique d'<q>auto-apprentissage</q>) et peut
+  être utilisé pour jeter à la poubelle le courrier non
+  sollicité. Cette fonction peut remplacer très efficacement le
+  filtrage côté serveur ou être utilisé en concert
+  avec celui-ci.</p>
+
+  <div class="contentsBox">
+    <p>Dans cette section&#160;:</p>
+
+    <ul>
+      <li><a href="#using_junk_mail_controls">Utiliser le gestionnaire des
+      indésirables</a></li>
+
+      <li><a href="#junk_controls_options">Marquer les messages comme
+      indésirables</a></li>
+
+      <li><a href="#junk_controls_and_filters">Gestion des indésirables
+      et filtres des messages</a></li>
+
+      <li><a href="#phishing_detection">Détection des courriers frauduleux</a></li>
+
+      <li><a href="#mail_junk_log">Journal des indésirables</a></li>
+    </ul>
+  </div>
+
+  <h2 id="using_junk_mail_controls">Utiliser le gestionnaire des
+  indésirables</h2>
+
+  <p>Le gestionnaire des indésirables vous permet de paramétrer
+  les diverses actions à effectuer lorsque &brandShortName; rencontre un courrier
+  supposé indésirable. Pour ouvrir le gestionnaire des
+  indésirables, suivez ces étapes&#160;:</p>
+
+  <ol>
+    <li>Ouvrez une fenêtre Courrier &amp; Groupes.</li>
+
+    <li>Ouvrez le menu <q>&tasksMenu.label;</q> et sélectionnez <q>Gestionnaire des
+    indésirables</q>.</li>
+  </ol>
+
+  <p>Les messages supposés indésirables sont marqués par
+  l'icône <img src="chrome://messenger/skin/icons/folder-junk.gif" alt=
+  "Poubelle des messages indésirables" />. Si vous ne voyez pas la
+  colonne <q>Statut indésirable</q>, cliquez sur l'icône <img src=
+  "chrome://global/skin/tree/columnpicker.gif" alt="Voir les colonnes" /> et
+  sélectionnez <q>Statut indésirable</q> pour afficher cette
+  colonne.</p>
+
+  <h3>Paramétrer le gestionnaire des indésirables</h3>
+
+  <p>Le gestionnaire des indésirables vous offre la possibilité
+  de paramétrer les options présentées ci-dessous. Chaque
+  compte étant indépendant, si vous en possédez plusieurs
+  il vous faudra les paramétrer séparément.</p>
+
+  <dl>
+    <dt>Compte&#160;:</dt>
+
+    <dd>
+      Choisissez dans la liste déroulante le compte pour lequel vous
+      désirez paramétrer le gestionnaire des
+      indésirables.
+
+      <p><strong>Remarque</strong>&#160;: tous les comptes utilisent le
+      même fichier <q>training.dat</q> où sont stockées les
+      informations permettant d'identifier les messages comme acceptables ou
+      indésirables.</p>
+    </dd>
+
+    <dt>Journal des indésirables&#160;:</dt>
+
+    <dd>Cliquez sur ce bouton pour ouvrir le journal des indésirables.
+    Le journal des indésirables permet de voir l'historique des
+    opérations de filtrage.</dd>
+
+    <dt>Activer le gestionnaire des indésirables&#160;:</dt>
+
+    <dd>Cochez ou décochez cette case pour activer ou désactiver
+    le gestionnaire des indésirables.</dd>
+
+    <dt>&whitelist.label;</dt>
+
+    <dd>Cochez les carnets d'adresses pour lesquels les courriels en provenances
+    des expéditeurs seront marqués comme acceptables.</dd>
+
+    <dt>&move.label;</dt>
+
+    <dd>
+      Lorsque vous recevez un message indésirable, le gestionnaire peut
+      le déplacer automatiquement vers le dossier de votre choix.
+
+      <dl>
+        <dt>&junkFolderOn.label;</dt>
+
+        <dd>Si vous choisissez cette option, les messages indésirables
+        seront stockés dans le dossier <q>Indésirables</q> du
+        compte sélectionné dans la liste déroulante.</dd>
+
+        <dt>&otherFolder.label;</dt>
+
+        <dd>Choisissez parmi vos dossiers locaux celui où seront
+        stocké les messages indésirables.</dd>
+
+        <dt>&purge1.label; [__] &purge2.label;</dt>
+
+        <dd>Entrez le nombre de jours au bout desquels les messages
+        indésirables seront automatiquement effacés.</dd>
+      </dl>
+    </dd>
+
+  </dl>
+
+  <p>[&#160;<a href="#controlling_junk_mail">Retour au début de la
+  section</a>&#160;]</p>
+
+  <div class="rediger">
+  <h2 id="using_junk_mail_controls">Utiliser le contrôle des messages indésirables</h2>
+
+  <p>La fonctionnalité de contrôle des messages indésirables de &brandShortName;
+  peut évaluer vos messages entrants, et repérer les possibles messages
+  indésirables (ou non sollicités). La fonctionnalité utilise une classification
+  bayésienne. Vous commencez par entrainer &brandShortName; en lui indiquant un
+  ensemble de messages qui sont indésirables, et un ensemble de messages qui ne
+  le sont pas. Ensuite, vous le laissez trier lui-même les nouveaux messages. Si
+  &brandShortName; fait une erreur, vous pouvez la corriger.</p>
+
+  <p>Pour utiliser le contrôle des messages indésirables :</p>
+
+  <ol>
+    <li>Commencez par entraîner &brandShortName; à reconnaître les messages
+    indésirables des autres messages. Il y a trois manières de changer le statut
+    de désirabilité de(s) message(s) sélectionné(s) :
+
+      <ul>
+
+        <li>Ouvrez le menu <q>&msgsMenu.label;</q>, sélectionnez <q>Marquer</q>,
+        et choisissez <q>Comme indésirable</q> ou <q>Comme acceptable</q>.</li>
+
+        <li>Cliquez sur le bouton <q>Indésirable</q> de la barre d'outils.</li>
+
+        <li><img src="images/mail_junk_column.png" style="float:right" alt=""/>
+
+          <p>Cliquez pour modifier la colonne <q>Statut indésirable</q> dans la
+          liste des messages. (Si vous ne le voyez pas, cliquez le bouton le
+          plus à droite (<img src="images/columns.png" alt=""/>) dans la barre
+          d'en-tête de la liste et sélectionnez <q>Statut indésirable</q> depuis
+          la fenêtre surgissante.)</p>
+        </li>
+
+      </ul>
+
+      <p>Quand vous modifier le statut indésirable, une icône de poubelle
+      apparaitra ou non dans la colonne correspondante, pour indiquer le statut
+      indésirable du message sélectionné.</p>
+
+    </li>
+
+    <li>Ouvrez le menu <q>&editMenu.label;</q>, et choisissez
+    <q>&accountManagerCmd.label;</q>. Vous voyez la fenêtre
+    <q>&accountManagerTitle.label;</q>.</li>
+
+    <li>Cliquez sur la catégorie <q>&junkSettings.label;</q>, de
+    votre compte courrier.</li>
+
+    <li>Activez la fonctionnalité, et &brandShortName; classera automatiquement
+    les messages arrivant (voir <a href="#junk_controls_options">les options de
+    contrôle des courriers indésirables</a>. Des détails sur les autres
+    paramètres peuvent être trouvée dans la description du panneau de
+    préférences <a href="mailnews_account_settings.xhtml#junk_settings">Paramètres pour les
+    indésirables</a>).</li>
+
+    <li>Si vous l'avez entraîné sur des messages contenant des virus, pensez à
+    désactiver la liste blanche (beaucoup de virus envoient des messages pour
+    infecter les personnes contenues dans le carnet d'adresses des ordinateurs
+    attaqués).</li>
+
+    <li>Assurez vous de corriger les paramètres des courriers indésirables quand
+    l'application fait une erreur de reconnaissance.</li>
+
+    <li>Pour analyser les messages existants, sélectionnez les messages à
+    analyser, ouvrez le menu Outils, et choisissez
+    <q>&runJunkControls.label;</q>.</li>
+
+  </ol>
+
+  <p><strong>Note</strong>&#160;: &brandShortName; n'effectuera un contrôle des
+  messages indésirables que lorsque la base de donnée d'entraînement a des
+  informations sur les messages non indésirables. Si le contrôle ne fonctionne
+  pas, sélectionnez quelques messages, et marquez les explicitement comme non
+  indésirables.</p>
+
+  <p>[&#160;<a href="#controlling_junk_mail">Revenir en haut de la
+  section</a>&#160;]</p>
+
+</div>
+
+
+  <h2 id="junk_controls_options">Marquer les messages</h2>
+
+  <p>Avant de pouvoir utiliser au mieux de ses capacités le <a href="mailnews_preferences.xhtml#junk_and_suspect_preferences">gestionnaire
+  des indésirables</a>, il vous faudra marquer manuellement les messages que
+  vous considérez comme indésirables afin de lui apprendre
+  à les reconnaître. Pour cela, un échantillon d'une
+  trentaine de messages est nécessaire. Plus vous marquerez de messages
+  comme acceptables et/ou indésirables, plus le gestionnaire des
+  indésirables sera efficace.</p>
+
+  <h3>Marquer un message comme indésirable</h3>
+
+  <p>Pour marquer un message comme indésirable, suivez les étapes
+  suivantes&#160;:</p>
+
+  <ol>
+    <li>Sélectionnez un message que vous voulez marquer comme
+    indésirable.</li>
+
+    <li>Puis exécutez l'une des actions suivantes&#160;:
+
+      <ul>
+        <li>Ouvrez le menu <q>&msgsMenu.label;</q>, sélectionnez <q>Marquer</q>
+        puis choisissez <q>Comme indésirable</q>.</li>
+
+        <li>Cliquez sur le bouton <q>Indésirable</q> de la barre
+        d'outils. Remarquez que ce bouton change de dénomination une
+        fois cliqué pour devenir <q>Acceptable</q>.</li>
+
+        <li>Dans la colonne <q>Statut indésirable</q>, cliquez sur le
+        point <img src="chrome://messenger/skin/icons/dot.gif" alt=
+        "Statut indésirable" /> pour marquer le message. L'icône
+        <img src="chrome://messenger/skin/icons/folder-junk.gif" alt=
+        "Poubelle des messages indésirables" /> apparaît dans
+        cette colonne en face du message marqué comme
+        indésirable</li>
+      </ul>
+    </li>
+
+    <li>Ouvrez le menu <q>&tasksMenu.label;</q> et choisissez <q>Gestionnaire des
+    indésirables…</q>. Activez le gestionnaire des
+    indésirables pour votre compte de messagerie, et &brandShortName; classera
+    automatiquement les messages entrants. Pour plus d'informations, voir la
+    section <a href="#junk_controls_and_filters">Gestionnaire des
+    indésirables</a>.</li>
+
+    <li>De nombreux virus de courriel utilisent les carnets d'adresses des
+    clients de messagerie des personnes infectées. Si vous avez
+    entraîné le gestionnaire des indésirables sur des
+    messages infectés par des vers ou des virus, il est fortement
+    conseillé de désactiver l'option <q>Ne pas marquer les
+    messages comme indésirables si l'expéditeur est dans mon
+    carnet d'adresses</q>.</li>
+
+    <li>Au cas où le gestionnaire des indésirables commettrait
+    une erreur dans la classification d'un courriel, corrigez-la
+    manuellement, soit en utilisant l'icône
+    <q>Indésirable/Acceptable</q>, soit en utilisant le menu
+    <q>&msgsMenu.label;</q>.</li>
+
+    <li>Pour analyser les messages d'un dossier, sélectionnez <q>&runJunkControls.label;</q>.</li>
+
+    <li>Pour effacer directement et simplement les messages indésirables
+    d'un dossier, ouvrez le menu <q>&tasksMenu.label;</q> et sélectionnez
+    <q>&deleteJunk.label;</q>.</li>
+  </ol>
+
+  <p>Les messages supposés indésirables sont marqués par
+  l'icône <img src="chrome://messenger/skin/icons/folder-junk.gif" alt=
+  "Poubelle des messages indésirables" />. Si vous ne voyez pas la
+  colonne <q>Statut indésirable</q>, cliquez sur l'icône <img src=
+  "chrome://global/skin/tree/columnpicker.gif" alt="Voir les colonnes" /> et
+  sélectionnez <q>Statut indésirable</q> pour afficher cette
+  colonne.</p>
+
+  <h3>Marquer un message comme acceptable</h3>
+
+  <p>En plus des actions similaires aux précédentes, vous
+  disposez d'un moyen supplémentaire pour marquer un message comme
+  acceptable. Lorsqu'un message est marqué comme indésirable, une
+  barre d'outils apparaît au dessus de l'en-tête du message avec le
+  texte suivant&#160;: <q>&junkBarMessage.label;</q>. Si vous estimez que ce message n'est pas
+  indésirable, appuyez sur le bouton <q>Acceptable</q>.</p>
+
+  <div class="rediger">
+
+<h2 id="junk_controls_options">Marquer les messages</h2>
+
+<p>Pour configurer finement le contrôle des messages indésirables, utilisez les
+<a href="mailnews_preferences.xhtml#junk_and_suspect_preferences">préférences globales des courriers indésirables et suspects</a> pour les paramètres non dépendants des comptes et les <a href="mailnews_account_settings.xhtml#junk_settings">Paramètres des indésirables</a> du gestionnaires de comptes pour les paramètres spécifiques à un compte courrier.</p>
+
+<p>[<a href="#controlling_junk_mail">Retour au début de la
+  section</a>&#160;]</p>
+
+</div>
+
+
+  <p>[&#160;<a href="#controlling_junk_mail">Retour au début de la
+  section</a>&#160;]</p>
+
+  <h2 id="junk_controls_and_filters">Gestionnaire des indésirables et
+  filtres des messages</h2>
+
+  <p>Le gestionnaire des indésirables s'exécute après les
+  filtres que vous avez créés et ne s'applique que sur les
+  boîtes de réception et leurs sous-dossiers. Vous pouvez utiliser
+  cette particularité à votre avantage. Par exemple, vous pouvez
+  filtrer les messages dont vous êtes sûr en les
+  déplaçant hors de votre boîte de réception pour
+  éviter qu'ils ne soient évalués par le gestionnaire des
+  indésirables (particulièrement utile pour les lettres
+  d'information et les listes de diffusion).</p>
+
+  <p>[&#160;<a href="#controlling_junk_mail">Retour au début de la
+  section</a>&#160;]</p>
+
+<div class="rediger">
+
+<h2 id="junk_controls_and_filters">Filtres et contrôle des indésirables</h2>
+
+<p>Le contrôle des indérisables n'est lancé qu'après les filtres courriers, et ne s'applique qu'au dossier Courrier
+entrant et à ses sous-dossiers. Utilisez le à votre avantage, par exemple, vous pouvez filtrer les courriers dont vous
+êtes sûr qu'ils ne sont pas indésirables dans un dossier spécial, en dehors du dossier Courrier entrant, de telle
+manière que les messages ne seront pas classés comme indésirables (très utile si vous vous inscrivez à des lettres
+d'informations ou que vous êtes sur une liste de diffusion modérée).</p>
+
+<p>[<a href="#controlling_junk_mail">Retour au début de la
+  section</a>]</p>
+
+
+<h2 id="phishing_detection">Détection de l'hameçonnage</h2>
+
+<p>L'hameçonnage (phishing en anglais) est une technique courante d'escroquerie, où quelqu'un créé un faux site, destiné
+à piéger ses destinataires, et à ce qu'ils lui transmettent des informations personnelles comme des numéros de carte de
+crédit, des nom d'utilisateur et mots de passe, ou encore des numéros de sécurité sociale. En détournant les noms de
+grandes banques, de vendeurs en ligne et de sociétés de carte de crédit, les hameçonneurs convainquent souvent les
+destinataires de donner suite à leurs avances.</p>
+
+<p>Dans de nombreux cas, vous recevrez un lien vers une page d'hameçonnage, par un courrier qui se réclame comme émanant
+d'une origine officielle. Il peut arriver que vous tombiez sur ce type de pages en suivant des liens sur internet, ou
+par messagerie instantanée.</p>
+
+<p><strong>Astuce</strong>&#160;: Étant donné qu'une <a href="glossary.xhtml#url">URL</a> forgée
+peut être très ressemblante à une officielle, il est plus sûr d'utiliser un marque-page que vous avez créé, ou de
+taper l'URL dans la barre d'adresse, à la main, au lieu de suivre un lien dans un courrier. Pensez toujours au risque
+d'une URL forgée s'il vous est demandé de vous authentifié ou de fournir des informations personnelles sur un site web.</p>
+
+<p>Le détecteur de tentatives d'hameçonnage de &brandShortName; est activé par défaut. Quand il rencontre un courrier
+qui semble être frauduleux, une barre d'avertissement s'affichera dans la fenêtre du message.</p>
+
+<p>Si vous pensez que ce courrier n'est pas frauduleux, cliquez sur le bouton <q>&removePhishingBarButton.label;</q>
+button, et la barre d'avertissement disparaitra.</p>
+
+<p>Quand un utilisateur clique sur un lien dans un courrier qui semble être une URL d'hameçonnage, &brandShortName;
+affichera une boîte de dialogue à l'utilisateur avant que le site internet ne soit ouvert.</p>
+
+<p>Cette fenêtre apparaitra si l'une des trois conditions suivantes est remplie : le nom de domaine de l'URL est une
+<a href="glossary.xhtml#ip_address">addresse IP</a>, ou le texte du lien est une URL, dont le nom de domaine ne
+correspond pas à celui de l'URL réelle.</p>
+
+<p><strong>Note</strong>&#160;: La détection de l'hameçonnage a une priorité supérieure à celle de la détection des
+courriers indésirables.</p>
+
+<p>Pour plus d'informations techniques sur le sujet, voyez le document
+  <a href="http://www.honeynet.org/papers/phishing/">Know your Enemy :
+  Phishing</a>.</p>
+
+<p>[<a href="#controlling_junk_mail">Retour au début de la section</a>]</p>
+</div>
+
+
+
+  <h2 id="mail_junk_log">Journal des indésirables</h2>
+
+  <p>Le journal des <q>indésirables</q> vous permet de garder une trace
+  des messages identifiés comme indésirables (que ce soit par le
+  gestionnaire des <q>indésirables</q> ou par vous-même).</p>
+
+  <dl>
+    <dt>Activer le journal des indésirables&#160;:</dt>
+
+    <dd>Par défaut, ce journal est désactivé. Cochez cette
+    case si vous désirez garder une trace des courriels marqués
+    comme indésirables.</dd>
+
+    <dt>Nettoyer le journal&#160;:</dt>
+
+    <dd>Cliquez sur ce bouton pour effacer le journal.</dd>
+  </dl>
+
+  <p>[&#160;<a href="#controlling_junk_mail">Retour au début de la
+  section</a>&#160;]</p>  
+  
+  <div id="footer">
+    <!--begin frenchmozilla signature-->
+
+    <p><em>Dernière traduction&#160;: 29 janvier 2006</em></p>
+    <!-- | vérification&#160;: le 13 décembre 2003</em></p>-->
+
+    <p>Ce texte a été traduit et adapté par une
+    équipe internationale de bénévoles francophones.<br />
+    Pour plus d'informations, visitez notre site&#160;: <a href=
+    "http://frenchmozilla.sf.net"
+    hreflang="fr">http://frenchmozilla.sourceforge.net</a>.</p>
+    <!--end frenchmozilla signature-->
+  </div>
+</body>
+</html>

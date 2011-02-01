@@ -3,10 +3,18 @@
   "http://www.w3.org/TR/xhtml11/DTD/xhtml11.dtd"[
   <!ENTITY % brandDTD SYSTEM "chrome://branding/locale/brand.dtd" >
   %brandDTD;
+  <!ENTITY % navigatorDTD SYSTEM "chrome://navigator/locale/navigator.dtd" >
+  %navigatorDTD;
   <!ENTITY % utilityOverlayDTD SYSTEM "chrome://communicator/locale/utilityOverlay.dtd" >
   %utilityOverlayDTD;
   <!ENTITY % contentAreaCommandsDTD SYSTEM "chrome://communicator/locale/contentAreaCommands.dtd" >
   %contentAreaCommandsDTD;
+  <!ENTITY % customizeDTD SYSTEM "chrome://communicator/locale/sidebar/customize.dtd" >
+  %customizeDTD;
+  <!ENTITY % tabbrowserDTD SYSTEM "chrome://navigator/locale/tabbrowser.dtd" >
+  %tabbrowserDTD;
+  <!ENTITY % editBookmarkOverlayDTD SYSTEM "chrome://communicator/locale/bookmarks/editBookmarkOverlay.dtd" >
+  %editBookmarkOverlayDTD;
   <!ENTITY % preferencesDTD SYSTEM "chrome://communicator/locale/pref/preferences.dtd" >
   %preferencesDTD;
   <!ENTITY % pref-tabsDTD SYSTEM "chrome://communicator/locale/pref/pref-tabs.dtd" >
@@ -17,24 +25,14 @@
   %sidebarOverlayDTD;
   <!ENTITY % local-panelsDTD SYSTEM "chrome://communicator/locale/sidebar/local-panels.dtd" >
   %local-panelsDTD;
-  <!ENTITY % customizeDTD SYSTEM "chrome://communicator/locale/sidebar/customize.dtd" >
-  %customizeDTD;
-  <!ENTITY % addBookmarkDTD SYSTEM "chrome://communicator/locale/bookmarks/addBookmark.dtd" >
-  %addBookmarkDTD;
-  <!ENTITY % bookmarksDTD SYSTEM "chrome://communicator/locale/bookmarks/bookmarks.dtd" >
-  %bookmarksDTD;
-  <!ENTITY % bm-propsDTD SYSTEM "chrome://communicator/locale/bookmarks/bm-props.dtd" >
-  %bm-propsDTD;
-  <!ENTITY % navigatorDTD SYSTEM "chrome://navigator/locale/navigator.dtd" >
-  %navigatorDTD;
-  <!ENTITY % tabbrowserDTD SYSTEM "chrome://navigator/locale/tabbrowser.dtd" >
-  %tabbrowserDTD;
-]>
+  <!ENTITY % placesDTD SYSTEM "chrome://communicator/locale/bookmarks/places.dtd" >
+  %placesDTD;
+  ]>
 
 <html xmlns="http://www.w3.org/1999/xhtml" lang="fr" xml:lang="fr">
 <head>
   <title>Personnaliser &brandShortName;</title>
-  <meta http-equiv="Content-Type" content="text/html; charset=utf-8" />
+  <meta http-equiv="Content-Type" content="application/xhtml; charset=utf-8" />
   <!--<link rel="stylesheet" href="content_style.css" type="text/css" />-->
   <link rel="stylesheet" type="text/css" href="helpFileLayout.css" />
 </head>
@@ -42,25 +40,25 @@
 <body>
   <div class="boilerPlate">
     Ce document est uniquement pour votre information. Il
-    peut vous aider &agrave; prendre quelques pr&eacute;cautions pour
-    prot&eacute;ger la confidentialit&eacute; et la s&eacute;curit&eacute; de
+    peut vous aider à prendre quelques précautions pour
+    protéger la confidentialité et la sécurité de
     vos informations personnelles sur Internet. Ce document n'est en aucun cas
-    une documentation exhaustive de toutes les pr&eacute;f&eacute;rences de
-    s&eacute;curit&eacute; en ligne, ni une recommandation officielle sur ce qui
-    constitue une bonne s&eacute;curit&eacute; sur Internet.
+    une documentation exhaustive de toutes les préférences de
+    sécurité en ligne, ni une recommandation officielle sur ce qui
+    constitue une bonne sécurité sur Internet.
   </div>
 
   <h1 id="customizing_mozilla">Personnaliser &brandShortName;</h1>
 
-  <p>Vous pouvez personnaliser &brandShortName; pour mieux l'adapter &agrave; vos
+  <p>Vous pouvez personnaliser &brandShortName; pour mieux l'adapter à vos
   besoins en ce qui concerne l'utilisation de fonctions comme la barre
-  lat&eacute;rale, les marque-pages et la navigation par onglets.</p>
+  latérale, les marque-pages, la navigation par onglets et les modules complémentaires.</p>
 
-  <p>Cette section d&eacute;crit les composants personnalisables du navigateur
+  <p>Cette section décrit les composants personnalisables du navigateur
   de &brandShortName;.</p>
 
   <div class="contentsBox">
-    <p>Dans cette section&nbsp;:</p>
+    <p>Dans cette section&#160;:</p>
 
     <ul>
       <li><a href="#sidebar">&sidebar.panels.label;</a></li>
@@ -68,14 +66,16 @@
       <li><a href="#tabbed_browsing">Navigation par onglets</a></li>
 
       <li><a href="#changing_fonts_colors_and_themes">Changer les polices,
-      couleurs et th&egrave;mes</a></li>
+      couleurs et thèmes</a></li>
 
       <li><a href="#toolbars">Barres d'outils</a></li>
 
       <li><a href="#bookmarks">&bookmarksMenu.label;</a></li>
 
-      <li><a href="#specifying_how_mozilla_starts_up">Sp&eacute;cifier comment
-      d&eacute;marrer &brandShortName;</a></li>
+	  <li><a href="addons_help.xhtml#add-ons">Modules complémentaires</a></li>
+
+      <li><a href="#specifying_how_mozilla_starts_up">Spécifier comment
+      démarrer &brandShortName;</a></li>
 
       <li><a href="cs_nav_prefs_appearance.xhtml">Préférences d'apparence</a></li>
 
@@ -89,60 +89,60 @@
   <h1 id="sidebar">&sidebar.panels.label;</h1>
 
   <div class="contentsBox">
-    <p>Dans cette section&nbsp;:</p>
+    <p>Dans cette section&#160;:</p>
 
     <ul>
       <li><a href="#what_is_sidebar">Qu'est-ce que la barre
-      lat&eacute;rale&nbsp;?</a></li>
+      latérale&#160;?</a></li>
 
       <li><a href="#opening_closing_and_resizing_sidebar">Utiliser la barre
-      lat&eacute;rale</a></li>
+      latérale</a></li>
 
       <li><a href="#viewing_sidebar_tabs">Afficher les panneaux de la barre
-      lat&eacute;rale</a></li>
+      latérale</a></li>
 
       <li><a href="#adding_sidebar_tabs">Ajouter des panneaux dans la barre
-      lat&eacute;rale</a></li>
+      latérale</a></li>
 
       <li><a href="#customizing_individual_sidebar_tabs">Personnaliser les
-      panneaux de la barre lat&eacute;rale</a></li>
+      panneaux de la barre latérale</a></li>
 
-      <li><a href="#reorganizing_sidebar_tabs">R&eacute;organiser les panneaux de la
-      barre lat&eacute;rale</a></li>
+      <li><a href="#reorganizing_sidebar_tabs">Réorganiser les panneaux de la
+      barre latérale</a></li>
 
       <li><a href="#removing_sidebar_tabs">Supprimer des panneaux de la barre
-      lat&eacute;rale</a></li>
+      latérale</a></li>
 
       <!--<li><a href="#sidebar_openclose">Ouvrir, fermer et redimensionner la
-      barre lat&eacute;rale</a></li>-->
+      barre latérale</a></li>-->
     </ul>
   </div>
 
 
-  <h2 id="what_is_sidebar">Qu'est-ce que la barre lat&eacute;rale&nbsp;?</h2>
+  <h2 id="what_is_sidebar">Qu'est-ce que la barre latérale&#160;?</h2>
 
-  <p>La barre lat&eacute;rale est une fen&ecirc;tre adaptable de votre
-  navigateur o&ugrave; vous pouvez ranger des articles que vous employez
-  souvent &ndash; les derni&egrave;res nouvelles de l'actualit&eacute; et la
-  m&eacute;t&eacute;o, votre carnet d'adresses ou une liste d'amis, les cours
-  de la bourse, un calendrier &ndash; et beaucoup d'autres options disponibles.
-  La barre vous pr&eacute;sente ces &eacute;l&eacute;ments dans des panneaux
-  qui sont sans cesse mis &agrave; jour.</p>
+  <p>La barre latérale est une fenêtre adaptable de votre
+  navigateur où vous pouvez ranger des articles que vous employez
+  souvent &#8211; les dernières nouvelles de l'actualité et la
+  météo, votre carnet d'adresses ou une liste d'amis, les cours
+  de la bourse, un calendrier &#8211; et beaucoup d'autres options disponibles.
+  La barre vous présente ces éléments dans des panneaux
+  qui sont sans cesse mis à jour.</p>
 
-  <p>Par d&eacute;faut, &brandShortName; contient d&eacute;j&agrave; quelques
+  <p>Par défaut, &brandShortName; contient déjà quelques
   panneaux, mais vous pouvez personnaliser la barre en ajoutant, en enlevant et
-  en r&eacute;organisant les panneaux.</p>
+  en réorganisant les panneaux.</p>
 
-  <p>[&nbsp;<a href="#sidebar">Retour au d&eacute;but de la
-  section</a>&nbsp;]</p>
+  <p>[&#160;<a href="#sidebar">Retour au début de la
+  section</a>&#160;]</p>
 
 
   <h2 id="opening_closing_and_resizing_sidebar">Utiliser la barre
-  lat&eacute;rale</h2>
+  latérale</h2>
 
-  <p>Pour ouvrir la barre lat&eacute;rale, <span class="noMac">appuyez sur
+  <p>Pour ouvrir la barre latérale, <span class="noMac">appuyez sur
   <kbd>F9</kbd> ou</span> ouvrez le menu <q>&viewMenu.label;</q> du navigateur,
-  s&eacute;lectionnez <q>&viewToolbarsMenu.label;</q>, puis
+  sélectionnez <q>&viewToolbarsMenu.label;</q>, puis
   <q>&sidebar.panels.label;</q> dans le sous-menu.</p>
 
   <!--<p>Once Sidebar is opened, you can use its handle to close, open and resize
@@ -150,15 +150,15 @@
   &brandShortName; window. The pointer changes to a hand when it touches the "handle" for
   Sidebar, as shown in the picture.</p>-->
 
-  <h2 id="viewing_sidebar_tabs">Afficher la barre lat&eacute;rale</h2>
+  <h2 id="viewing_sidebar_tabs">Afficher la barre latérale</h2>
 
-  <p>&Agrave; moins que vous n'ayez <a href=
-  "#opening_closing_and_resizing_sidebar">ferm&eacute;</a> la barre lat&eacute;rale, celle-ci
+  <p>à moins que vous n'ayez <a href=
+  "#opening_closing_and_resizing_sidebar">fermé</a> la barre latérale, celle-ci
   est toujours ouverte sur la gauche de votre navigateur. Pour voir le contenu
-  d'un panneau&nbsp;:</p>
+  d'un panneau&#160;:</p>
 
   <ul>
-    <li>Cliquez sur le titre d'un panneau&nbsp;; par exemple, cliquez sur le
+    <li>Cliquez sur le titre d'un panneau&#160;; par exemple, cliquez sur le
     mot <q>&sidebar.search.label;</q>. Le panneau <q>&sidebar.search.label;</q>
     s'ouvre, lequel vous permet de faire des recherches sur le Web.</li>
   </ul>
@@ -166,116 +166,116 @@
   <table summary="ouvrir la barre" class="gallery" style=
   "width: 700px; text-align: left;">
     <tr>
-      <td colspan="2">Si vous ne voyez pas la barre lat&eacute;rale, c'est
-      qu'elle est peut-&ecirc;tre ferm&eacute;e. Pour l'ouvrir, proc&eacute;dez
-      comme suit&nbsp;:</td>
+      <td colspan="2">Si vous ne voyez pas la barre latérale, c'est
+      qu'elle est peut-être fermée. Pour l'ouvrir, procédez
+      comme suit&#160;:</td>
     </tr>
 
     <tr>
       <td><img src="images/sidebarclosed_small.gif" alt=
-      "Barre lat&eacute;rale ferm&eacute;e" /></td>
+      "Barre latérale fermée" /></td>
 
       <td>
         <ol>
-          <li>D&eacute;placez le pointeur de la souris de haut en bas le long
-          de la bordure gauche de la fen&ecirc;tre de &brandShortName;. Le pointeur se
-          change en une main quand il touche la <q>poign&eacute;e</q> de la
+          <li>Déplacez le pointeur de la souris de haut en bas le long
+          de la bordure gauche de la fenêtre de &brandShortName;. Le pointeur se
+          change en une main quand il touche la <q>poignée</q> de la
           barre, comme le montre l'image.</li>
 
-          <li>Cliquez sur la poign&eacute;e pour ouvrir la barre
-          lat&eacute;rale.
+          <li>Cliquez sur la poignée pour ouvrir la barre
+          latérale.
 
-            <p><strong>Remarque</strong>&nbsp;: Si <q>&sidebar.panels.label;</q>
-            n'est pas s&eacute;lectionn&eacute;e &agrave; partir du sous-menu
+            <p><strong>Remarque</strong>&#160;: Si <q>&sidebar.panels.label;</q>
+            n'est pas sélectionnée à partir du sous-menu
             <q>&viewToolbarsMenu.label;</q> du menu <q>&viewMenu.label;</q>, dans le navigateur,
-            vous ne verrez pas le cadre ou sa poign&eacute;e.</p>
+            vous ne verrez pas le cadre ou sa poignée.</p>
           </li>
         </ol>
       </td>
     </tr>
   </table>
 
-  <p><strong>Astuce</strong>&nbsp;: Pour recharger un panneau de la barre,
+  <p><strong>Astuce</strong>&#160;: Pour recharger un panneau de la barre,
   cliquez avec le bouton droit de la souris sur son titre et choisissez
   <q>&sidebar.reload.label;</q> dans le menu contextuel.</p>
 
-  <p>[&nbsp;<a href="#sidebar">Retour au d&eacute;but de la
-  section</a>&nbsp;]</p>
+  <p>[&#160;<a href="#sidebar">Retour au début de la
+  section</a>&#160;]</p>
 
 
   <h2 id="adding_sidebar_tabs">Ajouter des panneaux dans la barre
-  lat&eacute;rale</h2>
+  latérale</h2>
 
-  <p>Pour ajouter un nouveau panneau&nbsp;:</p>
+  <p>Pour ajouter un nouveau panneau&#160;:</p>
 
   <ol>
     <li>Cliquez sur <q>&sidebar.picker.label;</q> en haut de la barre et
     choisissez <q>&sidebar.customize.label;</q> dans le menu.</li>
 
-    <li>Dans la fen&ecirc;tre de personnalisation, choisissez un panneau dans
+    <li>Dans la fenêtre de personnalisation, choisissez un panneau dans
     la liste de gauche. Vous pouvez ouvrir et fermer des dossiers en cliquant
     sur les triangles.</li>
 
     <li>Cliquez sur <q>&sidebar.customize.add.label;</q>.</li>
 
-    <li>Continuez &agrave; ajouter autant de panneaux que vous le
+    <li>Continuez à ajouter autant de panneaux que vous le
     souhaitez.</li>
 
     <li>Cliquez <q>OK</q> pour terminer.</li>
   </ol>
 
-  <p><strong>Remarque</strong>&nbsp;: Si vous ajoutez plus de huit panneaux
-  &agrave; la barre, &brandShortName; cache une partie des panneaux pour r&eacute;duire
-  l'encombrement. Pour faire d&eacute;filer les panneaux, cliquer sur le bouton
-  repr&eacute;sentant une fl&egrave;che vers le bas situ&eacute;e au pied de la
-  barre jusqu'&agrave; ce que vous voyiez le panneau d&eacute;sir&eacute;.
-  Cliquez sur le bouton repr&eacute;sentant une fl&egrave;che vers le haut pour
-  faire d&eacute;filer les panneaux de nouveau vers la partie
-  sup&eacute;rieure.</p>
+  <p><strong>Remarque</strong>&#160;: Si vous ajoutez plus de huit panneaux
+  à la barre, &brandShortName; en cache une partie pour réduire
+  l'encombrement. Pour faire défiler les panneaux, cliquer sur le bouton
+  représentant une flèche vers le bas située au pied de la
+  barre jusqu'à ce que vous voyiez le panneau désiré.
+  Cliquez sur le bouton représentant une flèche vers le haut pour
+  faire défiler les panneaux de nouveau vers la partie
+  supérieure.</p>
 
-  <p><strong>Astuces</strong>&nbsp;:</p>
+  <p><strong>Astuces</strong>&#160;:</p>
 
   <ul>
-    <li>Pour voir un aper&ccedil;u du panneau avant de l'ajouter, choisissez un
-    panneau dans la liste de la partie gauche de la fen&ecirc;tre de
+    <li>Pour voir un aperçu du panneau avant de l'ajouter, choisissez un
+    panneau dans la liste de la partie gauche de la fenêtre de
     personnalisation de la barre et cliquez sur
-    <q>&sidebar.customize.preview.label;</q>. Apr&egrave;s quelques secondes,
+    <q>&sidebar.customize.preview.label;</q>. Après quelques secondes,
     le panneau s'affiche dans une nouvelle
-    fen&ecirc;tre.</li>
+    fenêtre.</li>
 
     <li>Pour voir une liste plus importante de panneaux disponibles, cliquez
-    sur <q>&sidebar.picker.label;</q> en haut de la barre lat&eacute;rale et
-    choisissez <q>&sidebar.sbDirectory.label;</q>. Une nouvelle fen&ecirc;tre
+    sur <q>&sidebar.picker.label;</q> en haut de la barre latérale et
+    choisissez <q>&sidebar.sbDirectory.label;</q>. Une nouvelle fenêtre
     s'ouvre sur le site <a href="http://dmoz.org"
-    hreflang="en">http://dmoz.org</a>, o&ugrave; vous trouverez d'autres
-    panneaux pour la barre, class&eacute;s par sujet. Attention, la plupart de
+    hreflang="en">http://dmoz.org</a>, où vous trouverez d'autres
+    panneaux pour la barre, classés par sujet. Attention, la plupart de
     ces panneaux sont en anglais.</li>
   </ul>
 
-  <p>Vous pouvez aussi activer ou d&eacute;sactiver les panneaux de la
+  <p>Vous pouvez aussi activer ou désactiver les panneaux de la
   barre.</p>
 
   <ol>
     <li>Cliquez sur <q>&sidebar.picker.label;</q> en haut de la barre
-    lat&eacute;rale. Les panneaux actuellement visibles sont
-    coch&eacute;s.</li>
+    latérale. Les panneaux actuellement visibles sont
+    cochés.</li>
 
     <li>Cochez les panneaux de la barre que vous souhaitez afficher et
-    d&eacute;cochez ceux que vous d&eacute;sirez masquer.</li>
+    décochez ceux que vous désirez masquer.</li>
   </ol>
 
-  <p><strong>Astuce</strong>&nbsp;: Pour rapidement d&eacute;sactiver un
+  <p><strong>Astuce</strong>&#160;: Pour rapidement désactiver un
   panneau de la barre, cliquez avec le bouton droit sur son nom et choisissez
   <q>&sidebar.hide.label;</q>.</p>
 
-  <p>[&nbsp;<a href="#sidebar">Retour au d&eacute;but de la
-  section</a>&nbsp;]</p>
+  <p>[&#160;<a href="#sidebar">Retour au début de la
+  section</a>&#160;]</p>
 
 
   <h2 id="customizing_individual_sidebar_tabs">Personnaliser les panneaux
-  de la barre lat&eacute;rale</h2>
+  de la barre latérale</h2>
 
-  <p><strong>Remarque</strong>&nbsp;: les panneaux ne sont pas tous
+  <p><strong>Remarque</strong>&#160;: les panneaux ne sont pas tous
   personnalisables.</p>
 
   <ol>
@@ -285,28 +285,28 @@
     <li>Choisissez un panneau de la liste de droite.</li>
 
     <li>Cliquez sur le bouton <q>&sidebar.customize.customize.label;</q>, s'il
-    est disponible. Une fen&ecirc;tre appara&icirc;t avec des informations et
+    est disponible. Une fenêtre apparaît avec des informations et
     des options pour personnaliser ce panneau.
 
-      <p>Les instructions varient selon la source du panneau &ndash; en plus de
-      &brandShortName;, les fournisseurs de panneaux peuvent &ecirc;tre
-      n'importe quelle soci&eacute;t&eacute;, organisation ou individu qui se
+      <p>Les instructions varient selon la source du panneau &#8211; en plus de
+      &brandShortName;, les fournisseurs de panneaux peuvent être
+      n'importe quelle société, organisation ou individu qui se
       sert d'Internet.</p>
     </li>
 
-    <li>Apr&egrave;s avoir suivi les instructions du fournisseur du panneau,
-    fermez la fen&ecirc;tre de personnalisation (ou suivez les instructions du
+    <li>Après avoir suivi les instructions du fournisseur du panneau,
+    fermez la fenêtre de personnalisation (ou suivez les instructions du
     fournisseur pour la fermer).</li>
 
     <li>Cliquez <q>OK</q> pour terminer.</li>
   </ol>
 
-  <p>[&nbsp;<a href="#sidebar">Retour au d&eacute;but de la
-  section</a>&nbsp;]</p>
+  <p>[&#160;<a href="#sidebar">Retour au début de la
+  section</a>&#160;]</p>
 
 
-  <h2 id="reorganizing_sidebar_tabs">R&eacute;organiser les panneaux de la
-  barre lat&eacute;rale</h2>
+  <h2 id="reorganizing_sidebar_tabs">Réorganiser les panneaux de la
+  barre latérale</h2>
 
   <ol>
     <li>Cliquez sur <q>&sidebar.picker.label;</q> au sommet de la barre et
@@ -315,19 +315,19 @@
     <li>Choisissez un panneau dans la liste de droite.</li>
 
     <li>Cliquez sur <q>&sidebar.customize.up.label;</q> ou
-    <q>&sidebar.customize.down.label;</q> pour d&eacute;placer le panneau.</li>
+    <q>&sidebar.customize.down.label;</q> pour déplacer le panneau.</li>
 
-    <li>R&eacute;p&eacute;tez les &eacute;tapes 2 et 3, autant de fois que vous
+    <li>Répétez les étapes 2 et 3, autant de fois que vous
     le souhaitez.</li>
 
     <li>Cliquez <q>OK</q> pour terminer.</li>
   </ol>
 
-  <p>[&nbsp;<a href="#sidebar">Retour au d&eacute;but de la
-  section</a>&nbsp;]</p>
+  <p>[&#160;<a href="#sidebar">Retour au début de la
+  section</a>&#160;]</p>
 
   <h2 id="removing_sidebar_tabs">Supprimer des panneaux de la barre
-  lat&eacute;rale</h2>
+  latérale</h2>
 
   <ol>
     <li>Cliquez sur <q>&sidebar.picker.label;</q> au sommet de la barre et
@@ -342,76 +342,76 @@
     <li>Cliquez <q>OK</q> pour terminer.</li>
   </ol>
 
-  <p>[&nbsp;<a href="#sidebar">Retour au d&eacute;but de la
-  section</a>&nbsp;]</p>
+  <p>[&#160;<a href="#sidebar">Retour au début de la
+  section</a>&#160;]</p>
 
   <!--<h2 id="sidebar_openclose">Ouvrir, fermer et redimensionner la barre
-  lat&eacute;rale</h2>
+  latérale</h2>
 
   <table summary="image table" style=
   "width: 700px; text-align: left;">
     <tr>
-      <td colspan="2">Servez-vous de la poign&eacute;e de la barre
-      lat&eacute;rale pour ouvrir, fermer et redimensionner le cadre de la
-      barre&nbsp;:</td>
+      <td colspan="2">Servez-vous de la poignée de la barre
+      latérale pour ouvrir, fermer et redimensionner le cadre de la
+      barre&#160;:</td>
     </tr>
 
     <tr>
       <td><img src="images/sidebarclosed_small.gif" alt=
-      "image de la barre avec une poign&eacute;e" /></td>
+      "image de la barre avec une poignée" /></td>
 
       <td>
-        Si la barre lat&eacute;rale est ferm&eacute;e, vous pouvez toujours
-        voir sa poign&eacute;e. Si la poign&eacute;e est absente, ouvrez le
+        Si la barre latérale est fermée, vous pouvez toujours
+        voir sa poignée. Si la poignée est absente, ouvrez le
         menu <q>Affichage</q>, choisissez <q>Barre d'outils</q> puis
-        s&eacute;lectionnez <q>Barre lat&eacute;rale</q>. D&eacute;placez le
+        sélectionnez <q>Barre latérale</q>. Déplacez le
         pointeur de la souris de haut en bas le long du bord gauche de la
-        fen&ecirc;tre de &brandShortName;. Le pointeur se change en une main quand il
-        touche la <q>poign&eacute;e</q> de la barre, comme le montre l'image.
+        fenêtre de &brandShortName;. Le pointeur se change en une main quand il
+        touche la <q>poignée</q> de la barre, comme le montre l'image.
 
         <ul>
-          <li>Cliquez sur la poign&eacute;e pour ouvrir et fermer la
+          <li>Cliquez sur la poignée pour ouvrir et fermer la
           barre.</li>
 
-          <li>Cliquez et tirez la poign&eacute;e pour redimensionner la
+          <li>Cliquez et tirez la poignée pour redimensionner la
           barre.</li>
         </ul>
       </td>
     </tr>
   </table>
 
-  <p>Pour enlever la barre lat&eacute;rale, y compris la poign&eacute;e, vous
-  pouvez, au choix&nbsp;:</p>
+  <p>Pour enlever la barre latérale, y compris la poignée, vous
+  pouvez, au choix&#160;:</p>
 
   <ul>
-    <li>Cliquer sur la croix dans le coin sup&eacute;rieur droit de la
+    <li>Cliquer sur la croix dans le coin supérieur droit de la
     barre.</li>
 
     <li>Ouvrir le menu <q>Affichage</q>, choisissez <q>Barre d'outils</q> et
-    d&eacute;cochez <q>Barre lat&eacute;rale</q></li>
+    décochez <q>Barre latérale</q></li>
 
-    <li>Si vous pr&eacute;f&eacute;rez utiliser les raccourcis clavier, appuyer
+    <li>Si vous préférez utiliser les raccourcis clavier, appuyer
     sur <kbd>F9</kbd>.</li>
   </ul>
 
-  <p>[&nbsp;<a href="#sidebar">Retour au d&eacute;but de la
-  section</a>&nbsp;]</p>-->
+  <p>[&#160;<a href="#sidebar">Retour au début de la
+  section</a>&#160;]</p>-->
 
   <h1 id="tabbed_browsing">Navigation par onglets</h1>
 
   <div class="contentsBox">
-    <p>Dans cette section&nbsp;:</p>
+    <p>Dans cette section&#160;:</p>
 
     <ul>
       <li><a href="#what_is_tabbed_browsing">Qu'est-ce que la navigation par
-      onglets&nbsp;?</a></li>
+      onglets&#160;?</a></li>
 
-      <li><a href="#setting_up_tabbed_browsing">Param&eacute;trer la navigation
+      <li><a href="#setting_up_tabbed_browsing">Paramétrer la navigation
       par onglets</a></li>
 
       <li><a href="#opening_tabs">Ouvrir des onglets</a></li>
 
-      <li><a href="#moving_tabs">D&eacute;placer des onglets</a></li>
+      <li><a href="#moving_tabs">Déplacer des onglets</a></li>
 
       <li><a href="#bookmarking_tabs">Marquer des onglets</a></li>
 
@@ -420,13 +420,13 @@
   </div>
 
 
-  <h2 id="what_is_tabbed_browsing">Qu'est-ce que la navigation par onglets&nbsp;?</h2>
+  <h2 id="what_is_tabbed_browsing">Qu'est-ce que la navigation par onglets&#160;?</h2>
 
   <p>La navigation par onglets vous permet d'ouvrir plusieurs pages Web dans
-  une seule fen&ecirc;tre. Chaque page Web a son propre onglet dans le haut de
-  la fen&ecirc;tre unique du navigateur. Chaque onglet appara&icirc;t dans la
+  une seule fenêtre. Chaque page Web a son propre onglet dans le haut de
+  la fenêtre unique du navigateur. Chaque onglet apparaît dans la
   barre des onglets. Par exemple, vous pouvez visiter les sites de mozilla.org,
-  frenchmozilla.org et mozdev.org dans une seule fen&ecirc;tre au lieu de
+  frenchmozilla.org et mozdev.org dans une seule fenêtre au lieu de
   trois.</p>
 
   <table summary="image table" class="gallery" style="text-align:center;"
@@ -436,11 +436,11 @@
     <tr>
       <td>Cliquez ici pour ouvrir un nouvel onglet.</td>
 
-      <td>&nbsp;</td>
+      <td>&#160;</td>
     </tr>
 
     <tr>
-      <td colspan="2"><img src="images/tabbed_browsing_bar.gif" alt=
+      <td colspan="2"><img src="images/tabbed_browsing_bar.png" alt=
       "Barre des onglets" /></td>
     </tr>
 
@@ -456,52 +456,52 @@
 
   </table>
 
-  <p>Vous n'avez plus besoin d'ouvrir plusieurs fen&ecirc;tres
-  simultan&eacute;ment quand vous visitez plusieurs pages Web. Vous
-  lib&eacute;rez ainsi de l'espace sur votre bureau. Vous pouvez ouvrir, fermer
-  et actualiser des pages Web facilement &agrave; partir d'un seul endroit sans
-  avoir &agrave; passer d'une fen&ecirc;tre &agrave; l'autre.</p>
+  <p>Vous n'avez plus besoin d'ouvrir plusieurs fenêtres
+  simultanément quand vous visitez plusieurs pages Web. Vous
+  libérez ainsi de l'espace sur votre bureau. Vous pouvez ouvrir, fermer
+  et actualiser des pages Web facilement à partir d'un seul endroit sans
+  avoir à passer d'une fenêtre à l'autre.</p>
 
-  <p>[&nbsp;<a href="#tabbed_browsing">Retour au d&eacute;but de la
-  section</a>&nbsp;]</p>
+  <p>[&#160;<a href="#tabbed_browsing">Retour au début de la
+  section</a>&#160;]</p>
 
 
-  <h2 id="setting_up_tabbed_browsing">Param&eacute;trer la navigation par onglets</h2>
+  <h2 id="setting_up_tabbed_browsing">Paramétrer la navigation par onglets</h2>
 
-  <p>Il y a plusieurs mani&egrave;res de personnaliser la navigation par
-  onglet. Par exemple, vous pouvez changer vos pr&eacute;f&eacute;rences pour
-  ouvrir de nouveaux onglets dans le navigateur &agrave; partir de la barre
-  d'adresse. Vous pouvez param&eacute;trer la navigation par onglets de
-  plusieurs autres fa&ccedil;ons, comme charger un nouvel onglet du navigateur
-  en arri&egrave;re-plan, comme cela la premi&egrave;re page est gard&eacute;e
-  en premier-plan pendant que la seconde page se charge. Pour plus
-  d'informations sur le param&eacute;trage de la navigation par onglets, voir
+  <p>Il y a plusieurs manières de personnaliser la navigation par
+  onglet. Par exemple, vous pouvez changer vos préférences pour
+  ouvrir de nouveaux onglets dans le navigateur à partir de la barre
+  d'adresse. Vous pouvez paramétrer la navigation par onglets de
+  plusieurs autres façons, comme charger un nouvel onglet du navigateur
+  en arrière-plan, comme cela la première page est gardée
+  à l'avant-plan pendant que la seconde page se charge. Pour plus
+  d'informations sur le paramétrage de la navigation par onglets, voir
   la section <a href=
-  "cs_nav_prefs_navigator.xhtml#tabbed_browsing">Pr&eacute;f&eacute;rences du
+  "cs_nav_prefs_navigator.xhtml#tabbed_browsing">Préférences du
   navigateur - &tabHeader.label;</a>.</p>
 
-  <p>[&nbsp;<a href="#tabbed_browsing">Retour au d&eacute;but de la
-  section</a>&nbsp;]</p>
+  <p>[&#160;<a href="#tabbed_browsing">Retour au début de la
+  section</a>&#160;]</p>
 
 
   <h2 id="opening_tabs">Ouvrir des onglets</h2>
 
-  <p>Vous disposez de plusieurs m&eacute;thodes pour ouvrir des
+  <p>Vous disposez de plusieurs méthodes pour ouvrir des
   onglets.</p>
 
   <h3>Ouvrir un nouvel onglet vierge</h3>
 
   <ul>
-    <li>&Agrave; partir du menu <q>&fileMenu.label;</q>&nbsp;: Ouvrez le menu
+    <li>à partir du menu <q>&fileMenu.label;</q>&#160;: Ouvrez le menu
     <q>&fileMenu.label;</q>, choisissez <q>&newMenu.label;</q> puis
     <q>&tabCmd.label;</q>.</li>
 
-    <li>&Agrave; partir de la <q>&tabbarCmd.label;</q>&nbsp;: Si la
-    barre des onglets est visible, cliquez sur l'ic&ocirc;ne <q>Nouvel
+    <li>à partir de la <q>&tabbarCmd.label;</q>&#160;: Si la
+    barre des onglets est visible, cliquez sur l'icône <q>Nouvel
     onglet</q> <img src="chrome://navigator/skin/icons/tab-new.gif" alt=
-    "ic&ocirc;ne nouvel onglet" /> sur la gauche de la barre des onglets.</li>
+    "icône nouvel onglet" /> sur la gauche de la barre des onglets.</li>
 
-    <li>&Agrave; partir d'un <strong>menu contextuel</strong>&nbsp;: Si la
+    <li>à partir d'un <strong>menu contextuel</strong>&#160;: Si la
     barre des onglets est visible, cliquez dessus avec le bouton droit de la
     souris et choisissez <q>&tabCmd.label;</q> dans le menu.</li>
   </ul>
@@ -509,63 +509,63 @@
   <h3>Ouvrir un lien d'une page Web dans un onglet</h3>
 
   <ul>
-    <li>&Agrave; partir d'un <strong>menu contextuel</strong>&nbsp;: <span
+    <li>à partir d'un <strong>menu contextuel</strong>&#160;: <span
     class="noMac">Cliquez avec le bouton droit de la souris sur un lien d'une
     page Web et choisissez <q>&openLinkCmdInTab.label;</q></span><span
     class="mac">Appuyez sur <kbd>Cmd</kbd> et cliquez sur le bouton de la
     souris sur un lien d'une page Web</span>.</li>
 
-    <li>&Agrave; partir de la barre d'adresse&nbsp;: Saisissez l'adresse d'une
+    <li>à partir de la barre d'adresse&#160;: Saisissez l'adresse d'une
     page Web dans la barre d'adresses et appuyez sur
     <kbd class="noMac">Ctrl</kbd><kbd class="mac">Cmd</kbd>+<kbd
-    class="noMac">Entr&eacute;e;</kbd><kbd class="mac">Retour</kbd>.
+    class="noMac">Entrée;</kbd><kbd class="mac">Retour</kbd>.
 
-      <p><strong>Remarque</strong>&nbsp;: Vous devez param&eacute;trer vos
-      pr&eacute;f&eacute;rences de navigation par onglets pour ouvrir un onglet
-      &agrave; partir de la barre d'adresse. Pour plus d'informations, voir la
+      <p><strong>Remarque</strong>&#160;: Vous devez paramétrer vos
+      préférences de navigation par onglets pour ouvrir un onglet
+      à partir de la barre d'adresse. Pour plus d'informations, voir la
       section <a href=
-      "cs_nav_prefs_navigator.xhtml#tabbed_browsing">Pr&eacute;f&eacute;rences
+      "cs_nav_prefs_navigator.xhtml#tabbed_browsing">Préférences
       du navigateur - &tabHeader.label;</a>.</p>
     </li>
   </ul>
 
-  <p><strong>Astuces</strong>&nbsp;:</p>
+  <p><strong>Astuces</strong>&#160;:</p>
 
   <ul>
     <li>Pour ouvrir rapidement un nouvel onglet vierge, appuyez sur
     <kbd class="mac">Cmd</kbd><kbd class="noMac">Ctrl</kbd>+<kbd>T</kbd>.</li>
 
     <li>Pour actualiser un ou tous les onglets, cliquez-droit n'importe
-    o&ugrave; sur la barre des onglets et choisissez respectivement
+    où sur la barre des onglets et choisissez respectivement
     <q>&reloadTab.label;</q> ou <q>&reloadAllTabs.label;</q>.</li>
   </ul>
 
-  <p>[&nbsp;<a href="#tabbed_browsing">Retour au d&eacute;but de la
-  section</a>&nbsp;]</p>
+  <p>[&#160;<a href="#tabbed_browsing">Retour au début de la
+  section</a>&#160;]</p>
 
   <div class="rediger">
-  <h3 id="moving_tabs">D&eacute;placer des onglets</h3>
+  <h3 id="moving_tabs">Déplacer des onglets</h3>
 
   <p>Les onglets s'affichent dans l'ordre dans lequel vous les ouvrez, ce qui
-  peut ne pas correspondre &agrave; l'ordre dans lequel vous aimeriez les
-  organiser. Pour d&eacute;placer un onglet dans la barre des onglets de
-  &brandShortName;, glissez-le simplement &agrave; l'endroit voulu &agrave; l'aide de
-  votre souris en maintenant le bouton gauche enfonc&eacute;. Lors du
-  d&eacute;placement de l'onglet, &brandShortName; affiche une fl&egrave;che
-  indicatrice montrant la place o&ugrave; sera mis l'onglet.</p>
+  peut ne pas correspondre à l'ordre dans lequel vous aimeriez les
+  organiser. Pour déplacer un onglet dans la barre des onglets de
+  &brandShortName;, glissez-le simplement à l'endroit voulu à l'aide de
+  votre souris en maintenant le bouton gauche enfoncé. Lors du
+  déplacement de l'onglet, &brandShortName; affiche une flèche
+  indicatrice montrant la place où sera mis l'onglet.</p>
 
 
   <dl class="gallery">
     <dt><img src="images/moving_tab.png"
-    alt="Indicateur de d&eacute;placement d'un onglet" /></dt>
+    alt="Indicateur de déplacement d'un onglet" /></dt>
 
-    <dd>D&eacute;placement de l'onglet</dd>
+    <dd>Déplacement de l'onglet</dd>
   </dl>
 
 
-  <p>Vous pouvez &eacute;galement utiliser les
+  <p>Vous pouvez également utiliser les
   <a href="shortcuts_navigator.xhtml#tabbed_browsing_shortcuts">Raccourcis
-  clavier</a> pour d&eacute;placer les onglets.
+  clavier</a> pour déplacer les onglets.
 
   <!--Tabs are displayed in the order you open them, which may not always be what
   you want. To move a tab to a different location within a &brandShortName;
@@ -576,81 +576,81 @@
   shortcuts</a> to move tabs within a window if desired.-->
   </p>
 
-  <p><strong>Remarque&nbsp;:</strong> Les raccourcis clavier ne fonctionnent
-  pas lorsque la zone de saisie active est une bo&icirc;te de texte.</p>
+  <p><strong>Remarque&#160;:</strong> Les raccourcis clavier ne fonctionnent
+  pas lorsque la zone de saisie active est une boîte de texte.</p>
 
   </div>
 
-  <p>[&nbsp;<a href="#tabbed_browsing">Retour au d&eacute;but de la
-  section</a>&nbsp;]</p>
+  <p>[&#160;<a href="#tabbed_browsing">Retour au début de la
+  section</a>&#160;]</p>
 
   <div class="spacer" style="clear: both;"></div>
 
   <h2 id="bookmarking_tabs">Marquer des onglets</h2>
 
   <p>Lorsque vous marquez un groupe d'onglets vous obtenez un groupe
-  marqu&eacute; qui se pr&eacute;sente comme un simple marque-page, mais en
+  marqué qui se présente comme un simple marque-page, mais en
   cliquant dessus, vous ouvrirez d'un seul coup les onglets qui y sont
-  r&eacute;pertori&eacute;s. Pour marquer un groupe d'onglets dans la
-  fen&ecirc;tre en cours d'utilisation&nbsp;:</p>
+  répertoriés. Pour marquer un groupe d'onglets dans la
+  fenêtre en cours d'utilisation&#160;:</p>
 
   <ol>
-    <li>Ouvrez autant d'onglets que de pages que vous voulez marquer dans un
-    groupe et saisissez pour chacun des onglets l'adresse de la page.</li>
+    <li>Ouvrez autant d'onglets pour les pages Web que vous voulez marquer dans un
+    groupe.</li>
 
     <li>Ouvrez le menu <q>&bookmarksMenu.label;</q> et choisissez
     <q>&addCurTabsAsCmd.label;</q>. Pour plus d'informations sur la
-    d&eacute;finition du r&eacute;pertoire par d&eacute;faut des marque-pages,
+    définition du répertoire par défaut des marque-pages,
     voir la section <a
     href="customize_help.xhtml#organizing_your_bookmarks">Organiser vos
     marque-pages</a>.</li>
 
-    <li>Saisissez un nom pour ce groupe d'onglets marqu&eacute;.</li>
+    <li>Saisissez un nom pour ce groupe d'onglets marqué.</li>
 
-    <!--<li>Vous pouvez choisir l'une des options suivantes&nbsp;:
+    <!--<li>Vous pouvez choisir l'une des options suivantes&#160;:
 
       <dl>
-        <dt>Destination&nbsp;:</dt>
+        <dt>Destination&#160;:</dt>
 
-        <dd>Choisissez un dossier pour le groupe marqu&eacute;. Si vous ne
-        sp&eacute;cifiez pas de r&eacute;pertoire, le groupe marqu&eacute; sera
-        enregistr&eacute; dans le r&eacute;pertoire par d&eacute;faut des
+        <dd>Choisissez un dossier pour le groupe marqué. Si vous ne
+        spécifiez pas de répertoire, le groupe marqué sera
+        enregistré dans le répertoire par défaut des
         nouveaux marque-pages.</dd>
 
-        <dt>Nouveau dossier&nbsp;:</dt>
+        <dt>Nouveau dossier&#160;:</dt>
 
-        <dd>Cliquez ce bouton pour cr&eacute;er un nouveau r&eacute;pertoire
-        dans lequel placer le groupe marqu&eacute;.</dd>
+        <dd>Cliquez ce bouton pour créer un nouveau répertoire
+        dans lequel placer le groupe marqué.</dd>
       </dl>
     </li>-->
 
     <li>Choisissez le dossier dans lequel placer le <acronym
     title="groupmark">groupe de marque-pages</acronym> ou
-    cliquez sur <q>&newFolder.label;</q> pour d&eacute;finir un dossier
+    cliquez sur <q>&editBookmarkOverlay.newFolderButton.label;</q> pour définir un dossier
     n'existant pas encore.</li>
 
-    <li>Cliquez sur <q>OK</q> pour ajouter le groupe marqu&eacute;.</li>
+    <li>Cliquez sur <q>OK</q> pour ajouter le groupe marqué.</li>
   </ol>
 
-  <p><strong>Astuce</strong>&nbsp;: Pour savoir comment d&eacute;finir un
+  <p><strong>Astuce</strong>&#160;: Pour savoir comment définir un
   groupe d'onglets comme page d'accueil, voir la section <a href=
-  "cs_nav_prefs_navigator.xhtml#navigator">Pr&eacute;f&eacute;rences du
+  "cs_nav_prefs_navigator.xhtml#navigator">Préférences du
   navigateur - &pref.navigator.title;</a>.</p>
 
-  <p>[&nbsp;<a href="#tabbed_browsing">Retour au d&eacute;but de la
-  section</a>&nbsp;]</p>
+  <p>[&#160;<a href="#tabbed_browsing">Retour au début de la
+  section</a>&#160;]</p>
 
 
   <h2 id="closing_tabs">Fermer des onglets</h2>
 
-  <p>Vous disposez de plusieurs m&eacute;thodes pour fermer des onglets.</p>
+  <p>Vous disposez de plusieurs méthodes pour fermer des onglets.</p>
 
-  <p><strong>Fermer un onglet en cours d'utilisation</strong>&nbsp;:</p>
+  <p><strong>Fermer un onglet en cours d'utilisation</strong>&#160;:</p>
 
   <ul>
     <li>Ouvrir le menu <q>&fileMenu.label;</q> et choisissez <q>&closeTab.label;</q>.</li>
 
-    <li>Ou cliquez sur la croix &agrave; la droite de la barre d'onglets.</li>
+    <li>Ou cliquez sur la croix à la droite de la barre d'onglets.</li>
   </ul>
 
   <table summary="image table" class="gallery" style="text-align: center;"
@@ -660,11 +660,11 @@
     <tr>
       <td>Cliquez ici pour ouvrir un nouvel onglet.</td>
 
-      <td>&nbsp;</td>
+      <td>&#160;</td>
     </tr>
 
     <tr>
-      <td colspan="2"><img src="images/tabbed_browsing_bar.gif" alt=
+      <td colspan="2"><img src="images/tabbed_browsing_bar.png" alt=
       "Barre des onglets" /></td>
     </tr>
 
@@ -684,180 +684,180 @@
 
   </table>
 
-  <p><strong>Astuces</strong>&nbsp;:</p>
+  <p><strong>Astuces</strong>&#160;:</p>
 
   <ul>
-    <li>Pour fermer n'importe quel onglet, m&ecirc;me s'il n'est pas actif,
+    <li>Pour fermer n'importe quel onglet, même s'il n'est pas actif,
     cliquez-droit sur l'onglet et choisissez <q>&closeTab.label;</q> dans le
     menu contextuel.</li>
 
     <li>Pour garder seulement un onglet ouvert, et pour fermer tous les autres,
-    cliquez-droit sur l'onglet &agrave; conserver et choisissez
+    cliquez-droit sur l'onglet à conserver et choisissez
     <q>&closeOtherTabs.label;</q>.</li>
   </ul>
 
-  <p>[&nbsp;<a href="#tabbed_browsing">Retour au d&eacute;but de la
-  section</a>&nbsp;]</p>
+  <p>[&#160;<a href="#tabbed_browsing">Retour au début de la
+  section</a>&#160;]</p>
 
   <h1 id="changing_fonts_colors_and_themes">Changer les polices, couleurs et
-  th&egrave;mes</h1>
+  thèmes</h1>
 
   <div class="contentsBox">
-    <p>Dans cette section&nbsp;:</p>
+    <p>Dans cette section&#160;:</p>
 
     <ul>
       <li><a href="#changing_the_default_fonts">Changer les polices par
-      d&eacute;faut</a></li>
+      défaut</a></li>
 
       <li><a href="#changing_the_default_colors">Changer les couleurs par
-      d&eacute;faut</a></li>
+      défaut</a></li>
 
-      <li><a href="#changing_the_theme">Changer de th&egrave;me</a></li>
+      <li><a href="#changing_the_theme">Changer de thème</a></li>
     </ul>
   </div>
 
 
-  <h2 id="changing_the_default_fonts">Changer les polices par d&eacute;faut</h2>
+  <h2 id="changing_the_default_fonts">Changer les polices par défaut</h2>
 
-  <p>Normalement, les pages Web sont affich&eacute;es avec la police par
-  d&eacute;faut de votre navigateur ou avec une police choisie par les auteurs
+  <p>Normalement, les pages Web sont affichées avec la police par
+  défaut de votre navigateur ou avec une police choisie par les auteurs
   des pages Web.</p>
 
-  <p>Pour changer les polices par d&eacute;faut&nbsp;:</p>
+  <p>Pour changer les polices par défaut&#160;:</p>
 
   <ol>
     <li>Ouvrez le menu <q><span class="mac">SeaMonkey</span><span
-    class="noMac">&Eacute;dition</span></q>
-    et choisissez <q>Pr&eacute;f&eacute;rences&hellip;</q>.</li>
+    class="noMac">édition</span></q>
+    et choisissez <q>Préférences…</q>.</li>
 
-    <li>Dans la cat&eacute;gorie <q>Apparence</q>, choisissez <q>Polices de
-    caract&egrave;res</q>. Si aucune sous-cat&eacute;gorie n'est visible,
-    double-cliquez sur <q>Apparence</q> pour d&eacute;velopper la liste.</li>
+    <li>Dans la catégorie <q>Apparence</q>, choisissez <q>Polices de
+    caractères</q>. Si aucune sous-catégorie n'est visible,
+    double-cliquez sur <q>Apparence</q> pour développer la liste.</li>
 
-    <li>Dans la liste d&eacute;roulante <q>Polices pour l'encodage</q>,
-    choisissez un groupe de langue. Par exemple, pour param&eacute;trer des
-    polices par d&eacute;faut pour les langues occidentales (romain),
+    <li>Dans la liste déroulante <q>Polices pour l'encodage</q>,
+    choisissez un groupe de langue. Par exemple, pour paramétrer des
+    polices par défaut pour les langues occidentales (romain),
     choisissez le groupe <q>Occidental</q>.</li>
 
-    <li>Choisissez si le texte proportionnel doit &ecirc;tre serif (comme Times
-    New Roman) ou sans-serif (comme Arial). Sp&eacute;cifiez alors la taille de
+    <li>Choisissez si le texte proportionnel doit être serif (comme Times
+    New Roman) ou sans-serif (comme Arial). Spécifiez alors la taille de
     police que vous voulez pour le texte proportionnel.</li>
 
-    <li>S'il existe des polices appropri&eacute;es pour votre groupe de langue,
+    <li>S'il existe des polices appropriées pour votre groupe de langue,
     choisissez des polices pour <q>Serif</q>, <q>Sans-Serif</q>,
     <q>Cursive</q>, <q>Fantaisie</q> et <q>Largeur fixe</q>. Vous pouvez aussi
-    sp&eacute;cifier la taille de ces polices.</li>
+    spécifier la taille de ces polices.</li>
 
     <li>Choisissez une police et une taille pour la largeur fixe. C'est une
-    police non proportionnelle, dite &agrave; <q>chasse fixe</q>, donnant
-    &agrave; l'affichage un aspect dactylographi&eacute;. Certains types de
-    texte, comme les &eacute;quations et les formules, sont montr&eacute;s avec
+    police non proportionnelle, dite à <q>chasse fixe</q>, donnant
+    à l'affichage un aspect dactylographié. Certains types de
+    texte, comme les équations et les formules, sont montrés avec
     ce type de police.</li>
   </ol>
 
   <p>Beaucoup d'auteurs de pages Web choisissent leurs propres polices et leurs
   tailles. Pour permettre l'affichage de polices autres que celles
-  indiqu&eacute;es dans vos pr&eacute;f&eacute;rences, cochez <q>Autorisez les
-  pages Web &agrave; utiliser d'autres polices</q>.</p>
+  indiquées dans vos préférences, cochez <q>Autorisez les
+  pages Web à utiliser d'autres polices</q>.</p>
 
-  <p>[&nbsp;<a href="#changing_fonts_colors_and_themes">Retour au d&eacute;but
-  de la section</a>&nbsp;]</p>
+  <p>[&#160;<a href="#changing_fonts_colors_and_themes">Retour au début
+  de la section</a>&#160;]</p>
 
 
-  <h2 id="changing_the_default_colors">Changer les couleurs par d&eacute;faut</h2>
+  <h2 id="changing_the_default_colors">Changer les couleurs par défaut</h2>
 
   <p>Normalement, les couleurs de fond et de texte sur les pages Web sont
   celles des auteurs des pages Web ou celles que vous avez mises par
-  d&eacute;faut dans votre navigateur.</p>
+  défaut dans votre navigateur.</p>
 
-  <p>Pour changer les couleurs par d&eacute;faut&nbsp;:</p>
+  <p>Pour changer les couleurs par défaut&#160;:</p>
 
   <ol>
     <li>Ouvrez le menu <q><span class="mac">SeaMonkey</span><span
-    class="noMac">&Eacute;dition</span></q>
-    et choisissez <q>Pr&eacute;f&eacute;rences&hellip;</q>.</li>
+    class="noMac">édition</span></q>
+    et choisissez <q>Préférences…</q>.</li>
 
-    <li>Dans la cat&eacute;gorie <q>Apparence</q>, choisissez <q>Couleurs</q>.
-    Si aucune sous-cat&eacute;gorie n'est visible, double-cliquez sur
-    <q>Apparence</q> pour d&eacute;velopper la liste.</li>
+    <li>Dans la catégorie <q>Apparence</q>, choisissez <q>Couleurs</q>.
+    Si aucune sous-catégorie n'est visible, double-cliquez sur
+    <q>Apparence</q> pour développer la liste.</li>
 
-    <li>Cliquez sur les blocs color&eacute;s pr&egrave;s de <q>Texte</q>,
-    <q>Fond</q>, <q>Liens non-visit&eacute;s</q>, <q>Liens actifs</q> et
-    <q>Liens visit&eacute;s</q>. Choisissez une couleur dans la palette. Vous
-    pouvez aussi sp&eacute;cifier que les liens doivent &ecirc;tre
-    soulign&eacute;s.</li>
+    <li>Cliquez sur les blocs colorés près de <q>Texte</q>,
+    <q>Fond</q>, <q>Liens non-visités</q>, <q>Liens actifs</q> et
+    <q>Liens visités</q>. Choisissez une couleur dans la palette. Vous
+    pouvez aussi spécifier que les liens doivent être
+    soulignés.</li>
   </ol>
 
   <p>La plupart des auteurs de page Web choisissent leurs propres couleurs.
   Vous pouvez ignorer les intentions des auteurs en choisissant <q>Utiliser mes
-  couleurs, en ignorant celles sp&eacute;cifi&eacute;es</q>.</p>
+  couleurs, en ignorant celles spécifiées</q>.</p>
 
-  <p>[&nbsp;<a href="#changing_fonts_colors_and_themes">Retour au d&eacute;but de la
-  section</a>&nbsp;]</p>
+  <p>[&#160;<a href="#changing_fonts_colors_and_themes">Retour au début de la
+  section</a>&#160;]</p>
 
 
-  <h2 id="changing_the_theme">Changer de th&egrave;me</h2>
+  <h2 id="changing_the_theme">Changer de thème</h2>
 
   <p>Vous pouvez changer l'aspect visuel de &brandShortName; en utilisant un thème
-  différent. Vous devez avant tout installer les th&egrave;mes qui vous
+  différent. Vous devez avant tout installer les thèmes qui vous
   plaisent. Vous en trouverez sur la page du <a href="http://themes.mozdev.org"
   hreflang="en">projet Themes</a>.</p>
 
-  <h3>Installer un nouveau th&egrave;me</h3>
+  <h3>Installer un nouveau thème</h3>
 
   <ol>
     <li>Ouvrez le menu <q>Affichage</q>, choisissez <q>Appliquez le
-    th&egrave;me</q> et s&eacute;lectionnez <q>Obtenir de nouveaux
-    th&egrave;mes</q>.</li>
+    thème</q> et sélectionnez <q>Obtenir de nouveaux
+    thèmes</q>.</li>
 
-    <li>Sur les sites de th&egrave;mes qui vous sont propos&eacute;s,
-    choisissez d'installer le ou les th&egrave;mes qui vous plaisent
+    <li>Sur les sites de thèmes qui vous sont proposés,
+    choisissez d'installer le ou les thèmes qui vous plaisent
     directement depuis Internet ou alors de les enregistrer sur votre disque
     dur.</li>
 
-    <li>Pour installer un th&egrave;me enregistr&eacute; localement, suivez ces
-    &eacute;tapes&nbsp;:
+    <li>Pour installer un thème enregistré localement, suivez ces
+    étapes&#160;:
 
       <ul>
         <li>Ouvrez le menu <q>Fichier</q> et choisissez <q>Ouvrir un
         fichier</q>.</li>
 
-        <li>D&eacute;placez-vous jusqu'au r&eacute;pertoire o&ugrave; se trouve
-        le th&egrave;me que vous voulez installer.</li>
+        <li>Déplacez-vous jusqu'au répertoire où se trouve
+        le thème que vous voulez installer.</li>
 
-        <li>Dans la liste d&eacute;roulante <q>Fichiers de type</q>,
-        s&eacute;lectionnez <q>Tous les fichiers (*.*)</q>.</li>
+        <li>Dans la liste déroulante <q>Fichiers de type</q>,
+        sélectionnez <q>Tous les fichiers (*.*)</q>.</li>
 
-        <li>S&eacute;lectionnez le fichier du th&egrave;me,
-        g&eacute;n&eacute;ralement un fichier du type *.xpi, et cliquez sur le
-        bouton <q>Ouvrir</q> pour d&eacute;marrer l'installation du
-        th&egrave;me.</li>
+        <li>Sélectionnez le fichier du thème,
+        généralement un fichier du type *.xpi, et cliquez sur le
+        bouton <q>Ouvrir</q> pour démarrer l'installation du
+        thème.</li>
       </ul>
     </li>
 
-    <li>Une bo&icirc;te de dialogue s'ouvre pour confirmer l'installation. Vous
-    avez la possibilit&eacute;, en cochant la case <q>Utiliser ce
-    th&egrave;me</q>, d'utiliser directement ce th&egrave;me pour les prochains
-    d&eacute;marrages de &brandShortName;, sans &ecirc;tre oblig&eacute; d'utiliser le
+    <li>Une boîte de dialogue s'ouvre pour confirmer l'installation. Vous
+    avez la possibilité, en cochant la case <q>Utiliser ce
+    thème</q>, d'utiliser directement ce thème pour les prochains
+    démarrages de &brandShortName;, sans être obligé d'utiliser le
     gestionnaire de modules complémentaires ou le menu <q>Affichage</q>.
     Confirmez en cliquant sur <q>OK</q>.</li>
 
-    <li>L'installation se lance. &Agrave; la fin du processus, cliquez sur
-    <q>OK</q> pour fermer la fen&ecirc;tre.</li>
+    <li>L'installation se lance. à la fin du processus, cliquez sur
+    <q>OK</q> pour fermer la fenêtre.</li>
   </ol>
 
-  <p><strong>Attention</strong>&nbsp;: Certains fichiers de th&egrave;me ont
-  l'extension <code>.jar</code>. Ces fichiers ne peuvent &ecirc;tre ouvert avec
+  <p><strong>Attention</strong>&#160;: Certains fichiers de thème ont
+  l'extension <code>.jar</code>. Ces fichiers ne peuvent être ouverts avec
   &brandShortName;. Pour les installer, le plus simple est d'utiliser l'extension
   <q>Themer</q> que vous trouverez sur site du <a href=
   "http://themes.mozdev.org" hreflang="en">projet Themes</a>.</p>
 
-  <h3>Changer de th&egrave;me</h3>
+  <h3>Changer de thème</h3>
 
   <p>Le changement de thème se fait à partir du menu <q>Affichage</q> ou depuis
   le gestionnaire de modules complémentaires.</p>
 
-  <p>Depuis le menu <q>Affihage</q>&nbsp;:</p>
+  <p>Depuis le menu <q>Affichage</q>&#160;:</p>
 
   <ol>
     <li>Ouvrez le menu <q>Affichage</q> et sélectionnez <q>Appliquer le
@@ -867,7 +867,7 @@
     prenne effet.</li>
   </ol>
 
-  <p>Depuis le gestionnaire de modules complémentaires&nbsp;:</p>
+  <p>Depuis le gestionnaire de modules complémentaires&#160;:</p>
 
   <ol>
     <li>Ouvrez le menu <q>Outils</q> et sélectionnez <q>Modules complémentaires</q>.</li>
@@ -880,34 +880,34 @@
     prenne effet.</li>
   </ol>
 
-  <p><strong>Remarques</strong>&nbsp;:</p>
+  <p><strong>Remarques</strong>&#160;:</p>
 
   <ul>
-    <li>Vous pouvez choisir d'installer un th&egrave;me de fa&ccedil;on unique
+    <li>Vous pouvez choisir d'installer un thème de façon unique
     (pour le profil en cours d'utilisation) ou globale (pour tous les
     profils).</li>
 
-    <li>Si l'installation &eacute;choue, v&eacute;rifiez si vous avez choisi la
-    version du th&egrave;me concordant avec celle de &brandShortName; et si vous avez
-    bien les droits d'&eacute;criture pour le r&eacute;pertoire
+    <li>Si l'installation échoue, vérifiez si vous avez choisi la
+    version du thème concordant avec celle de &brandShortName; et si vous avez
+    bien les droits d'écriture pour le répertoire
     d'installation.</li>
   </ul>
 
 
-  <p>[&nbsp;<a href="#changing_fonts_colors_and_themes">Retour au d&eacute;but
-  de la section</a>&nbsp;]</p>
+  <p>[&#160;<a href="#changing_fonts_colors_and_themes">Retour au début
+  de la section</a>&#160;]</p>
 
   <h1 id="toolbars">Barres d'outils</h1>
 
   <div class="contentsBox">
-    <p>Dans cette section&nbsp;:</p>
+    <p>Dans cette section&#160;:</p>
 
     <ul>
       <li><a href="#navigation_toolbar">Barre de navigation</a></li>
 
       <li><a href="#personal_toolbar">Barre d'outils personnelle</a></li>
 
-      <li><a href="#status_bar">Barre d'&eacute;tat</a></li>
+      <li><a href="#status_bar">Barre d'état</a></li>
 
       <li><a href="#component_bar">Barre des composants</a></li>
 
@@ -918,8 +918,8 @@
 
   <h2 id="navigation_toolbar">Barre de navigation</h2>
 
-  <p>La barre de navigation, montr&eacute;e ci-dessous, vous aide &agrave; vous
-  d&eacute;placer sur le Web.</p>
+  <p>La barre de navigation, montrée ci-dessous, vous aide à vous
+  déplacer sur le Web.</p>
 
   <table class="gallery">
     <tr>
@@ -928,24 +928,24 @@
     </tr>
 
     <tr>
-      <td><strong>Pr&eacute;c&eacute;dent</strong></td>
+      <td><strong>Précédent</strong></td>
 
       <td><strong>Suivant</strong></td>
 
       <td><strong>Recharger</strong></td>
 
-      <td><strong>Arr&ecirc;ter</strong></td>
+      <td><strong>Arrêter</strong></td>
     </tr>
   </table>
 
-  <p>[&nbsp;<a href="#toolbars">Retour au d&eacute;but de la
-  section</a>&nbsp;]</p>
+  <p>[&#160;<a href="#toolbars">Retour au début de la
+  section</a>&#160;]</p>
 
   <h2 id="personal_toolbar">Barre d'outils personnelle</h2>
 
-  <p>La barre d'outils personnelle est personnalisable. Vous d&eacute;cidez ce
+  <p>La barre d'outils personnelle est personnalisable. Vous décidez de ce
   que vous voulez y mettre. La barre personnelle est fournie avec quelques
-  boutons d&eacute;j&agrave; configur&eacute;s, incluant notamment Mozilla.org
+  boutons déjà configurés, incluant notamment Mozilla.org
   et votre page d'accueil.</p>
 
   <dl class="gallery">
@@ -955,117 +955,102 @@
 
   </dl>
 
-  <p>Vous pouvez facilement ajouter, supprimer et r&eacute;organiser les
-  &eacute;l&eacute;ments de cette barre d'outils. Les boutons <q>Accueil</q> et
-  <q>Marque-pages</q> sont g&eacute;r&eacute;s &agrave; partir de l'onglet
-  <q>Navigateur</q> du panneau des pr&eacute;f&eacute;rences. Certains sont
-  g&eacute;r&eacute;s &agrave; partir du gestionnaire de marque-pages.</p>
-
-  <h3 id="turning_buttons_on_and_off">Ajouter ou enlever des boutons</h3>
-
-  <ol>
-    <li>Ouvrez le menu <q><span class="mac">SeaMonkey</span><span
-    class="noMac">&Eacute;dition</span></q>
-    et choisissez <q>Pr&eacute;f&eacute;rences&hellip;</q>.</li>
-
-    <li>Cliquez sur <q>Navigateur</q>.</li>
-
-    <li>Faites votre choix dans la section <q>Boutons visibles dans les barres
-    d'outils</q>.</li>
-
-    <li>Cliquez sur <q>OK</q>.</li>
-  </ol>
+  <p>Vous pouvez facilement ajouter, supprimer et réorganiser les
+  éléments de cette barre d'outils. Les boutons <q>Accueil</q> et
+  <q>Marque-pages</q> sont gérés à partir de l'onglet
+  <q>Navigateur</q> du panneau des préférences. Certains sont
+  gérés à partir du gestionnaire de marque-pages.</p>
 
   <h3 id="adding_personal_toolbar_bookmarks">Ajouter les marque-pages dans la
   barre d'outils personnelle</h3>
 
   <p>Vous pouvez ajouter des boutons pour vos marque-pages
-  pr&eacute;f&eacute;r&eacute;s ou des dossiers regroupant des marque-pages.
-  Pour cr&eacute;er un nouveau marque-page dans la barre d'outils
-  personnelle&nbsp;:</p>
+  préférés ou des dossiers regroupant des marque-pages.
+  Pour créer un nouveau marque-page dans la barre d'outils
+  personnelle&#160;:</p>
 
   <ol>
     <li>Ouvrez une page du Web que vous voulez marquer.</li>
 
-    <li>Glissez l'ic&ocirc;ne du marque-page <img src=
+    <li>Glissez l'icône du marque-page <img src=
     "chrome://communicator/skin/bookmarks/bookmark-item.png" alt=
-    "ic&ocirc;ne de marque-pages" /> (plac&eacute; &agrave; gauche de l'URL
-    dans la barre d'adresse) &agrave; l'endroit o&ugrave; vous voulez dans la
-    barre d'outils personnelle. Vous pouvez directement glisser l'ic&ocirc;ne
+    "icône de marque-pages" /> (placé à gauche de l'URL
+    dans la barre d'adresse) à l'endroit où vous voulez dans la
+    barre d'outils personnelle. Vous pouvez directement glisser l'icône
     dans la barre d'outils personnelle ou dans un dossier de la barre d'outils
     personnelle. Pour plus d'informations sur l'ajout de dossiers de
-    marque-pages &agrave; votre barre d'outils personnelle, voir la section
+    marque-pages à votre barre d'outils personnelle, voir la section
     <a href="#adding_bookmark_folders_to_the_personal_toolbar">Ajouter des
-    dossiers de marque-pages &agrave; la barre d'outils personnelle</a>.</li>
+    dossiers de marque-pages à la barre d'outils personnelle</a>.</li>
   </ol>
 
-  <p><strong>Remarque</strong>&nbsp;: L'ic&ocirc;ne du marque-page <img src=
+  <p><strong>Remarque</strong>&#160;: L'icône du marque-page <img src=
   "chrome://communicator/skin/bookmarks/bookmark-item.png" alt=
-  "ic&ocirc;ne de marque-pages" /> peut appara&icirc;tre diff&eacute;rent de
-  celui affich&eacute; dans la barre d'adresse si vous avez coch&eacute;
-  <q>Afficher les ic&ocirc;nes Web</q> dans les pr&eacute;f&eacute;rences. Pour
-  plus d'informations sur le changement de vos pr&eacute;f&eacute;rences, voir
+  "icône de marque-pages" /> peut apparaître différent de
+  celui affiché dans la barre d'adresse si vous avez coché
+  <q>Afficher les icônes Web</q> dans les préférences. Pour
+  plus d'informations sur le changement de vos préférences, voir
   la section <a href=
-  "cs_nav_prefs_appearance.xhtml#appearance">Pr&eacute;f&eacute;rences
+  "cs_nav_prefs_appearance.xhtml#appearance">Préférences
   d'apparence - Apparence</a>.</p>
 
-  <p>Chaque &eacute;l&eacute;ment du dossier <q>Barre d'outils personnelle</q>
-  appara&icirc;t comme un bouton dans la barre d'outils. Vous aurez
-  peut-&ecirc;tre besoin d'agrandir la fen&ecirc;tre du navigateur pour tous
+  <p>Chaque élément du dossier <q>Barre d'outils personnelle</q>
+  apparaît comme un bouton dans la barre d'outils. Vous aurez
+  peut-être besoin d'agrandir la fenêtre du navigateur pour tous
   les voir.</p>
 
   <h3 id="adding_bookmark_folders_to_the_personal_toolbar">Ajouter des dossiers
-  de marque-pages &agrave; la barre d'outils personnelle</h3>
+  de marque-pages à la barre d'outils personnelle</h3>
 
-  <p>Vous pouvez ajouter des dossiers de marque-pages &agrave; la barre
+  <p>Vous pouvez ajouter des dossiers de marque-pages à la barre
   d'outils personnelle afin de trier vos marque-pages
-  pr&eacute;f&eacute;r&eacute;s dans des cat&eacute;gories diff&eacute;rentes.
+  préférés dans des catégories différentes.
   Par exemple, vous pouvez avoir un dossier pour vos marque-pages
-  associ&eacute;s &agrave; un passe-temps et un autre pour vos marque-pages
-  associ&eacute;s au travail. Pour ajouter un nouveau marque-page &agrave; la
-  barre d'outils personnelle&nbsp;:</p>
+  associés à un passe-temps et un autre pour vos marque-pages
+  associés au travail. Pour ajouter un nouveau marque-page à la
+  barre d'outils personnelle&#160;:</p>
 
   <ol>
-    <li>Ouvrez le menu <q>Marque-pages</q> et choisissez <q>G&eacute;rer les
-    marque-pages&hellip;</q>.</li>
+    <li>Ouvrez le menu <q>Marque-pages</q> et choisissez <q>Gérer les
+    marque-pages…</q>.</li>
 
-    <li>S&eacute;lectionnez <q>Barre d'outils personnelle</q>.</li>
+    <li>Sélectionnez <q>Barre d'outils personnelle</q>.</li>
 
     <li>Cliquez sur <q>Nouveau dossier</q> dans la barre d'outils.</li>
 
-    <li>Saisissez un nom pour votre nouveau dossier. Par d&eacute;faut, le nom
+    <li>Saisissez un nom pour votre nouveau dossier. Par défaut, le nom
     est <q>Nouveau dossier</q>.</li>
 
     <li>Cliquez sur <q>OK</q> pour valider le nom du dossier.</li>
   </ol>
 
-  <p>Le nouveau dossier appara&icirc;tra &agrave; la fin de la barre d'outils
+  <p>Le nouveau dossier apparaîtra à la fin de la barre d'outils
   personnelle.</p>
 
-  <h3>D&eacute;signer un dossier de marque-pages comme votre dossier de barre
+  <h3>Désigner un dossier de marque-pages comme votre dossier de barre
   d'outils personnelle</h3>
 
   <ol>
-    <li>Ouvrez le menu <q>Marque-pages</q> et choisissez <q>G&eacute;rer les
-    marque-pages&hellip;</q>.</li>
+    <li>Ouvrez le menu <q>Marque-pages</q> et choisissez <q>Gérer les
+    marque-pages…</q>.</li>
 
-    <li>S&eacute;lectionner le dossier de marque-pages contenant les
-    &eacute;l&eacute;ments que vous voulez faire appara&icirc;tre dans la barre
+    <li>Sélectionner le dossier de marque-pages contenant les
+    éléments que vous voulez faire apparaître dans la barre
     d'outils.</li>
 
-    <li>&Agrave; partir du menu <q>Affichage</q> du gestionnaire de
-    marque-pages, choisissez <q>D&eacute;finir comme dossier de la barre
+    <li>à partir du menu <q>Affichage</q> du gestionnaire de
+    marque-pages, choisissez <q>Définir comme dossier de la barre
     d'outils personnelle</q>.</li>
   </ol>
 
   <p>Dans la barre d'outils personnelle, les boutons correspondent maintenant
-  aux marque-pages du dossier que vous avez d&eacute;sign&eacute;.</p>
+  aux marque-pages du dossier que vous avez désigné.</p>
 
   <h3>Enlever des marque-pages de la barre d'outils personnelle</h3>
 
   <ol>
-    <li>Ouvrez le menu <q>Marque-pages</q> et choisissez <q>G&eacute;rer les
-    marque-pages&hellip;</q>.</li>
+    <li>Ouvrez le menu <q>Marque-pages</q> et choisissez <q>Gérer les
+    marque-pages…</q>.</li>
 
     <li>Cliquez sur le dossier de la barre d'outils personnelle.</li>
 
@@ -1073,92 +1058,92 @@
 
     <li>Appuyez sur la touche <q>Suppression</q> de votre clavier.</li>
 
-    <li>Fermez la fen&ecirc;tre de gestion des marque-pages.</li>
+    <li>Fermez la fenêtre de gestion des marque-pages.</li>
   </ol>
 
-  <p><strong>Astuce</strong>&nbsp;: Pour enlever rapidement un marque-page
-  plac&eacute; dans la barre d'outils personnelle (pas dans un dossier),
+  <p><strong>Astuce</strong>&#160;: Pour enlever rapidement un marque-page
+  placé dans la barre d'outils personnelle (pas dans un dossier),
   cliquez avec le bouton droit sur ce marque-page et choisissez <q>Supprimer</q>
   dans le menu contextuel qui s'affiche.</p>
 
-  <h3>R&eacute;arranger la barre d'outils personnelle</h3>
+  <h3>Réarranger la barre d'outils personnelle</h3>
 
   <ol>
-    <li>Ouvrez le menu <q>Marque-pages</q> et choisissez <q>G&eacute;rer les
-    marque-pages&hellip;</q>.</li>
+    <li>Ouvrez le menu <q>Marque-pages</q> et choisissez <q>Gérer les
+    marque-pages…</q>.</li>
 
     <li>Cliquez sur le dossier de la barre d'outils personnelle.</li>
 
-    <li>Choisissez le marque-page ou le dossier et glissez-le &agrave; un
+    <li>Choisissez le marque-page ou le dossier et glissez-le à un
     nouvel emplacement.</li>
 
-    <li>Quand vous avez fini de r&eacute;organiser les articles, fermez le
+    <li>Quand vous avez fini de réorganiser les articles, fermez le
     gestionnaire des marque-pages.</li>
   </ol>
 
-  <p><strong>Remarque</strong>&nbsp;: Les boutons de la barre d'outils
+  <p><strong>Remarque</strong>&#160;: Les boutons de la barre d'outils
   personnelle tels que <q>Marque-pages</q> et <q>Accueil</q> ne peuvent pas
-  &ecirc;tre r&eacute;arrang&eacute;s, mais ils peuvent &ecirc;tre <a href=
-  "#turning_buttons_on_and_off">ajout&eacute;s ou enlev&eacute;s</a>.</p>
+  être réarrangés, mais ils peuvent être <a href=
+  "#turning_buttons_on_and_off">ajoutés ou enlevés</a>.</p>
 
-  <p><strong>Astuce</strong>&nbsp;: Pour r&eacute;arranger rapidement un
-  marque-page plac&eacute; sur la barre d'outils personnelle, ou pour le sortir
+  <p><strong>Astuce</strong>&#160;: Pour réarranger rapidement un
+  marque-page placé sur la barre d'outils personnelle, ou pour le sortir
   d'un dossier, cliquez et glissez-le vers un autre emplacement sur la barre
   d'outils personnelle ou dans un dossier.</p>
 
-  <p>[&nbsp;<a href="#toolbars">Retour au d&eacute;but de la
-  section</a>&nbsp;]</p>
+  <p>[&#160;<a href="#toolbars">Retour au début de la
+  section</a>&#160;]</p>
 
-  <h2 id="status_bar">Barre d'&eacute;tat</h2>
+  <h2 id="status_bar">Barre d'état</h2>
 
-  <p>La barre d'&eacute;tat est situ&eacute;e dans le bas de n'importe quelle
-  fen&ecirc;tre de &brandShortName;. Elle comprend les &eacute;l&eacute;ments
-  suivants&nbsp;:</p>
+  <p>La barre d'état est située dans le bas de n'importe quelle
+  fenêtre de &brandShortName;. Elle comprend les éléments
+  suivants&#160;:</p>
 
   <ul>
-    <li>La barre de composants&nbsp;: Elle vous permet de naviguer entre les
+    <li>La barre de composants&#160;: Elle vous permet de naviguer entre les
     composants (navigateur, messagerie, composeur, carnet d'adresse et
     ChatZilla). Pour plus d'information, voir la section <a href=
     "#component_bar">Barre des composants</a>.</li>
 
-    <li>Des informations sur l'&eacute;tat courant&nbsp;: Elle affiche des
+    <li>Des informations sur l'état courant&#160;: Elle affiche des
     informations telles que l'adresse de la page Web et des informations sur le
     chargement.</li>
 
-    <li>L'ic&ocirc;ne de notification de cookie <img src=
-    "chrome://communicator/skin/permissions/taskbar-cookie.gif" alt=
-    "ic&ocirc;ne d'alerte de cookie" /><!--lien bris&eacute;-->&nbsp;: Elle
-    appara&icirc;t quand un site utilise un cookie qui n&eacute;cessite votre
+    <li>L'icône de notification de cookie <img src=
+    "chrome://communicator/skin/permissions/taskbar-cookie.png" alt=
+    "icône d'alerte de cookie" /><!--lien brisé-->&#160;: Elle
+    apparaît quand un site utilise un cookie qui nécessite votre
     autorisation. Pour plus d'informations, voir la section <a href=
     "using_priv_help.xhtml#cookie_notification">Notification de
     cookies</a>.</li>
 
-    <li>L'ic&ocirc;ne connect&eacute; <img src=
+    <li>L'icône connecté <img src=
     "chrome://communicator/skin/icons/online.png" alt=
-    "ic&ocirc;ne de connexion" /> ou d&eacute;connect&eacute; <img src=
+    "icône de connexion" /> ou déconnecté <img src=
     "chrome://communicator/skin/icons/offline.png" alt=
-    "ic&ocirc;ne de d&eacute;connexion" />&nbsp;: Cliquez sur l'ic&ocirc;ne
-    pour alterner le mode connexion et le mode d&eacute;connexion. En mode
-    d&eacute;connexion, &brandShortName; est pr&eacute;venu des tentatives de connexion
-    &agrave; Internet, par exemple pour charger les images sur des pages Web ou
-    pour relever automatiquement le courrier &eacute;lectronique.</li>
+    "icône de déconnexion" />&#160;: Cliquez sur l'icône
+    pour alterner le mode connexion et le mode déconnexion. En mode
+    déconnexion, &brandShortName; est prévenu des tentatives de connexion
+    à Internet, par exemple pour charger les images sur des pages Web ou
+    pour relever automatiquement le courrier électronique.</li>
 
-    <li>L'ic&ocirc;ne de verrouillage (exemple&nbsp;: <img src=
+    <li>L'icône de verrouillage (exemple&#160;: <img src=
     "chrome://communicator/skin/icons/lock-insecure.png" alt=
-    "ic&ocirc;ne de s&eacute;curit&eacute;" />)&nbsp;: Elle indique
-    l'&eacute;tat du chiffrement d'une page au moment o&ugrave; elle est
-    re&ccedil;ue par votre ordinateur. Pour plus d'informations, voir la
-    section <a href="using_certs_help.xhtml#checking_security_for_a_web_page">V&eacute;rifier
-    la s&eacute;curit&eacute; d'une page Web</a>.</li>
+    "icône de sécurité" />)&#160;: Elle indique
+    l'état du chiffrement d'une page au moment où elle est
+    reçue par votre ordinateur. Pour plus d'informations, voir la
+    section <a href="using_certs_help.xhtml#checking_security_for_a_web_page">Vérifier
+    la sécurité d'une page Web</a>.</li>
   </ul>
 
-  <p>[&nbsp;<a href="#toolbars">Retour au d&eacute;but de la
-  section</a>&nbsp;]</p>
+  <p>[&#160;<a href="#toolbars">Retour au début de la
+  section</a>&#160;]</p>
 
   <h2 id="component_bar">Barre des composants</h2>
 
-  <p>Utilisez la barre des composants en bas &agrave; gauche de n'importe
-  quelle fen&ecirc;tre de &brandShortName; pour naviguer entre les modules (tels que le
+  <p>Utilisez la barre des composants en bas à gauche de n'importe
+  quelle fenêtre de &brandShortName; pour naviguer entre les modules (tels que le
   navigateur, la messagerie, le composeur, le carnet d'adresse ou
   ChatZilla).</p>
 
@@ -1171,53 +1156,53 @@
 
   <div class="spacer" style="clear: both;"></div>
 
-  <p>[&nbsp;<a href="#toolbars">Retour au d&eacute;but de la
-  section</a>&nbsp;]</p>
+  <p>[&#160;<a href="#toolbars">Retour au début de la
+  section</a>&#160;]</p>
 
   <h2 id="hiding_a_toolbar">Masquer une barre d'outils</h2>
 
-  <p>Il y a deux fa&ccedil;ons de masquer les barres d'outils.</p>
+  <p>Il y a deux façons de masquer les barres d'outils.</p>
 
-  <p>R&eacute;duire au minimum une barre d'outils&nbsp;:</p>
+  <p>Réduire au minimum une barre d'outils&#160;:</p>
 
   <ul>
-    <li>Cliquez sur le petit triangle &agrave; gauche de la barre d'outils
-    (appel&eacute;s <q>Grippies</q> en anglais). Pour montrer la barre
-    d'outils, cliquez &agrave; nouveau sur le triangle.
+    <li>Cliquez sur le petit triangle à gauche de la barre d'outils
+    (appelés <q>Grippies</q> en anglais). Pour montrer la barre
+    d'outils, cliquez à nouveau sur le triangle.
 
-      <p><strong>Remarque</strong>&nbsp;: vous ne pouvez pas masquer la barre de
-      composants avec cette m&eacute;thode.</p>
+      <p><strong>Remarque</strong>&#160;: vous ne pouvez pas masquer la barre de
+      composants avec cette méthode.</p>
     </li>
   </ul>
 
-  <p>Masquer compl&egrave;tement une barre d'outils, y compris son
-  triangle&nbsp;:</p>
+  <p>Masquer complètement une barre d'outils, y compris son
+  triangle&#160;:</p>
 
   <ol>
     <li>Ouvrez le menu <q>Affichage</q>.</li>
 
-    <li>Choisissez <q>Barres d'outils</q> et d&eacute;cochez les barres
+    <li>Choisissez <q>Barres d'outils</q> et décochez les barres
     d'outils que vous voulez masquer.</li>
   </ol>
 
-  <p>&Agrave; l'inverse, pour visualiser &agrave; nouveau des barres d'outils,
+  <p>à l'inverse, pour visualiser à nouveau des barres d'outils,
   ouvrez le menu <q>Affichage</q> et cochez les barres d'outils que vous voulez
   afficher.</p>
 
-  <p>[&nbsp;<a href="#toolbars">Retour au d&eacute;but de la
-  section</a>&nbsp;]</p>
+  <p>[&#160;<a href="#toolbars">Retour au début de la
+  section</a>&#160;]</p>
 
   <h1 id="bookmarks">&bookmarksMenu.label;</h1>
 
   <div class="contentsBox">
-    <p>Dans cette section&nbsp;:</p>
+    <p>Dans cette section&#160;:</p>
 
     <ul>
-      <li><a href="#what_are_bookmarks">Que sont les marque-pages&nbsp;?</a></li>
+      <li><a href="#what_are_bookmarks">Que sont les marque-pages&#160;?</a></li>
 
       <li><a href="#using_bookmarks">Utiliser les marque-pages</a></li>
 
-      <li><a href="#creating_new_bookmarks">Cr&eacute;er de nouveaux marque-pages
+      <li><a href="#creating_new_bookmarks">Créer de nouveaux marque-pages
       <!--  and Internet Shortcuts --></a></li>
 
       <li><a href="#organizing_your_bookmarks">Organiser vos marque-pages</a></li>
@@ -1233,28 +1218,28 @@
   </div>
 
 
-  <h2 id="what_are_bookmarks">Que sont les marque-pages&nbsp;?</h2>
+  <h2 id="what_are_bookmarks">Que sont les marque-pages&#160;?</h2>
 
-  <p>Les marque-pages sont des raccourcis pour acc&eacute;der &agrave; vos
-  pages Web pr&eacute;f&eacute;r&eacute;es et r&eacute;guli&egrave;rement
-  visit&eacute;es. Plut&ocirc;t que de saisir de longues URL (adresses
-  Internet), vous pouvez cr&eacute;er des marque-pages qui iront directement
+  <p>Les marque-pages sont des raccourcis pour accéder à vos
+  pages Web préférées et régulièrement
+  visitées. Plutôt que de saisir de longues URL (adresses
+  Internet), vous pouvez créer des marque-pages qui iront directement
   sur les pages que vous voulez voir.</p>
 
-  <p>Vous pouvez acc&eacute;der &agrave; vos marque-pages par le menu
+  <p>Vous pouvez accéder à vos marque-pages par le menu
   <q>Marque-pages</q>, par le panneau <q>Marque-pages</q> dans la barre
-  lat&eacute;rale et par la fen&ecirc;tre du gestionnaire des marque-pages.
-  Vous pouvez g&eacute;rer ce qui y est inscrit en marquant de nouvelles pages
-  Web pr&eacute;f&eacute;r&eacute;es et en organisant votre liste comme vous
+  latérale et par la fenêtre du gestionnaire des marque-pages.
+  Vous pouvez gérer ce qui y est inscrit en marquant de nouvelles pages
+  Web préférées et en organisant votre liste comme vous
   l'entendez.</p>
 
-  <p>[&nbsp;<a href="#bookmarks">Retour au d&eacute;but de la
-  section</a>&nbsp;]</p>
+  <p>[&#160;<a href="#bookmarks">Retour au début de la
+  section</a>&#160;]</p>
 
   <h2 id="using_bookmarks">Utiliser les marque-pages</h2>
 
-  <p>&brandShortName; est livr&eacute; avec des marque-pages d&eacute;j&agrave;
-  disponibles. Pour utiliser un marque-page&nbsp;:</p>
+  <p>&brandShortName; est livré avec des marque-pages déjà
+  disponibles. Pour utiliser un marque-page&#160;:</p>
 
   <ol>
     <li>Ouvrez le menu <q>Marque-pages</q>.</li>
@@ -1263,169 +1248,169 @@
     s'ouvrira dans l'onglet actif.</li>
   </ol>
 
-  <p>[&nbsp;<a href="#bookmarks">Retour au d&eacute;but de la
-  section</a>&nbsp;]</p>
+  <p>[&#160;<a href="#bookmarks">Retour au début de la
+  section</a>&#160;]</p>
 
-  <h2 id="creating_new_bookmarks">Cr&eacute;er de nouveaux marque-pages</h2>
+  <h2 id="creating_new_bookmarks">Créer de nouveaux marque-pages</h2>
 
-  <p>Vous pouvez marquer vos sites Web pr&eacute;f&eacute;r&eacute;s pour
+  <p>Vous pouvez marquer vos sites Web préférés pour
   facilement y revenir.</p>
 
-  <p>Pour marquer la page actuelle, ex&eacute;cutez l'une des op&eacute;rations
-  suivantes&nbsp;:</p>
+  <p>Pour marquer la page actuelle, exécutez l'une des opérations
+  suivantes&#160;:</p>
 
   <ul>
     <li>Ouvrez le menu <q>Marque-pages</q> et choisissez <q>Marquer cette
     page</q>.</li>
 
-    <li>Pour ajouter un marque-page dans un dossier sp&eacute;cifique ou pour
-    fournir un nom ou une URL sp&eacute;cifique pour votre marque-page&nbsp;:
+    <li>Pour ajouter un marque-page dans un dossier spécifique ou pour
+    fournir un nom ou une URL spécifique pour votre marque-page&#160;:
 
       <ol>
         <li>Ouvrez le menu <q>Marque-pages</q> et choisissez <q>Classer cette
-        page&hellip;</q>. Choisissez ensuite l'une de ces options&nbsp;:
+        page…</q>. Choisissez ensuite l'une de ces options&#160;:
 
           <dl>
-            <dt>Nom&nbsp;:</dt>
+            <dt>Nom&#160;:</dt>
 
             <dd>Entrez un nom pour le marque-page si vous en voulez un
-            diff&eacute;rent.</dd>
+            différent.</dd>
 
-            <dt>Adresse&nbsp;:</dt>
+            <dt>Adresse&#160;:</dt>
 
             <dd>Entrez une adresse pour ce marque-page si vous en
-            d&eacute;sirez une diff&eacute;rente.</dd>
+            désirez une différente.</dd>
 
-            <dt>Mots-cl&eacute;&nbsp;:</dt>
+            <dt>Mots-clé&#160;:</dt>
 
-            <dd>Avec &brandShortName;, vous avez la possibilit&eacute; d'associer des
-            mots-cl&eacute; &agrave; vos marque-pages. Ainsi, lorsque vous
+            <dd>Avec &brandShortName;, vous avez la possibilité d'associer des
+            mots-clé à vos marque-pages. Ainsi, lorsque vous
             ferez une recherche dans vos marque-pages en <a
             href="nav_help.xhtml#custom_keywords">utilisant les
-            mots-cl&eacute;</a>, vous obtiendrez tous les marque-pages
-            associ&eacute;s.</dd>
+            mots-clé</a>, vous obtiendrez tous les marque-pages
+            associés.</dd>
 
-            <dt>Destination&nbsp;:</dt>
+            <dt>Destination&#160;:</dt>
 
             <dd>Choisissez un dossier dans lequel rangerez votre
             marque-page.</dd>
 
-            <dt>Nouveau dossier&nbsp;:</dt>
+            <dt>Nouveau dossier&#160;:</dt>
 
-            <dd>Cr&eacute;ez un nouveau dossier dans lequel vous rangerez votre
+            <dd>Créez un nouveau dossier dans lequel vous rangerez votre
             marque-page.</dd>
 
-            <dt>Destination par d&eacute;faut&nbsp;:</dt>
+            <dt>Destination par défaut&#160;:</dt>
 
-            <dd>Si vous ne s&eacute;lectionnez pas de dossier de destination,
-            votre marque-page, ou groupe marqu&eacute;, sera class&eacute; dans
-            le dossier par d&eacute;faut des nouveaux marque-pages.</dd>
+            <dd>Si vous ne sélectionnez pas de dossier de destination,
+            votre marque-page, ou groupe marqué, sera classé dans
+            le dossier par défaut des nouveaux marque-pages.</dd>
           </dl>
         </li>
 
         <li>Cliquez <q>OK</q> pour ajouter le marque-page.</li>
       </ol>
 
-      <p><strong>Astuce</strong>&nbsp;: Si vous avez plusieurs onglets
-      ouverts, vous pouvez s&eacute;lectionner <q>Marquer ce groupe
-      d'onglets&hellip;</q> pour ajouter un seul marque-page qui ouvrira tous les
-      onglets simultan&eacute;ment.</p>
+      <p><strong>Astuce</strong>&#160;: Si vous avez plusieurs onglets
+      ouverts, vous pouvez sélectionner <q>Marquer ce groupe
+      d'onglets…</q> pour ajouter un seul marque-page qui ouvrira tous les
+      onglets simultanément.</p>
     </li>
 
-    <li>Pour ajouter un marque-page &agrave; la barre d'outils personnelle,
-    glissez l'ic&ocirc;ne du marque-page <img src=
+    <li>Pour ajouter un marque-page à la barre d'outils personnelle,
+    glissez l'icône du marque-page <img src=
     "chrome://communicator/skin/bookmarks/bookmark-item.png" alt=
-    "ic&ocirc;ne de marque-pages" /> de la barre d'adresse vers un endroit dans
+    "icône de marque-pages" /> de la barre d'adresse vers un endroit dans
     la barre d'outils personnelle. Vous pouvez glisser un marque-page vers les
-    endroits suivants&nbsp;:
+    endroits suivants&#160;:
 
       <ul>
         <li>Dans un dossier de marque-pages sur le barre d'outils
         personnelle.</li>
 
-        <li>Dans un dossier de marque-pages que vous avez cr&eacute;&eacute;
+        <li>Dans un dossier de marque-pages que vous avez créé
         sur la barre d'outils personnelle.</li>
 
-        <li>Dans la barre d'outils personnelle elle-m&ecirc;me, &agrave; droite
+        <li>Dans la barre d'outils personnelle elle-même, à droite
         de tous les dossiers de marque-pages.</li>
       </ul>
 
-      <p>Pour plus d'informations sur l'ajout de marque-pages &agrave; la barre
+      <p>Pour plus d'informations sur l'ajout de marque-pages à la barre
       d'outils personnelle, voir la section <a href=
       "#adding_personal_toolbar_bookmarks">Ajouter des marque-pages dans la
       barre d'outils personnelle</a>.</p>
     </li>
 
     <li>Pour ajouter un marque-page au panneau <q>Marque-pages</q> dans la
-    barre lat&eacute;rale, ouvrez celle-ci, choisissez le panneau
-    <q>Marque-pages</q> et glissez l'ic&ocirc;ne du marque-page <img src=
+    barre latérale, ouvrez celle-ci, choisissez le panneau
+    <q>Marque-pages</q> et glissez l'icône du marque-page <img src=
     "chrome://communicator/skin/bookmarks/bookmark-item.png" alt=
-    "ic&ocirc;ne de marque-pages" /> de la barre d'adresse vers un endroit dans
+    "icône de marque-pages" /> de la barre d'adresse vers un endroit dans
     la liste des marque-pages, dans le panneau <q>Marque-pages</q>.</li>
   </ul>
 
   <dl class="gallery">
 
-    <dt><img src="images/personalbar.gif" alt=
+    <dt><img src="images/personalbar.png" alt=
       "Barre d'outils personnelle" /></dt>
     <dd>Barre d'outils personnelle</dd>
   </dl>
 
-  <p><strong>Remarques</strong>&nbsp;:</p>
+  <p><strong>Remarques</strong>&#160;:</p>
 
   <ul>
-    <li>L'ic&ocirc;ne du marque-page <img src=
+    <li>L'icône du marque-page <img src=
     "chrome://communicator/skin/bookmarks/bookmark-item.png" alt=
-    "ic&ocirc;ne de marque-pages" /> peut appara&icirc;tre diff&eacute;remment
-    de celle affich&eacute;e dans la barre d'adresse si vous avez coch&eacute;
-    <q>Afficher les ic&ocirc;nes Web</q> dans les pr&eacute;f&eacute;rences.
+    "icône de marque-pages" /> peut apparaître différemment
+    de celle affichée dans la barre d'adresse si vous avez coché
+    <q>Afficher les icônes Web</q> dans les préférences.
     Pour plus d'informations sur le changement de vos
-    pr&eacute;f&eacute;rences, voir la section <a href=
-    "cs_nav_prefs_appearance.xhtml#appearance">Pr&eacute;f&eacute;rences
+    préférences, voir la section <a href=
+    "cs_nav_prefs_appearance.xhtml#appearance">Préférences
     d'apparence - Apparence</a>.</li>
 
-    <li>Apr&egrave;s avoir ajout&eacute; un marque-page, en utilisant n'importe
-    laquelle des m&eacute;thodes &eacute;num&eacute;r&eacute;es ci-dessus, il
-    est possible d'y avoir acc&egrave;s &agrave; partir du panneau
-    <q>Marque-pages</q> de la barre lat&eacute;rale, du gestionnaire de
+    <li>Après avoir ajouté un marque-page, en utilisant n'importe
+    laquelle des méthodes énumérées ci-dessus, il
+    est possible d'y avoir accès à partir du panneau
+    <q>Marque-pages</q> de la barre latérale, du gestionnaire de
     marque-pages et du menu <q>Marque-pages</q>.</li>
   </ul>
 
-  <p>[&nbsp;<a href="#bookmarks">Retour au d&eacute;but de la
-  section</a>&nbsp;]</p>
+  <p>[&#160;<a href="#bookmarks">Retour au début de la
+  section</a>&#160;]</p>
 
   <h2 id="organizing_your_bookmarks">Organiser vos marque-pages</h2>
 
   <p>Pour organiser vos marque-pages, ouvrez le menu <q>Marque-pages</q> et
-  choisissez <q>G&eacute;rer les marque-pages&hellip;</q>. Vous pouvez effectuer les
-  op&eacute;rations suivantes sur les marque-pages&nbsp;:</p>
+  choisissez <q>Gérer les marque-pages…</q>. Vous pouvez effectuer les
+  opérations suivantes sur les marque-pages&#160;:</p>
 
   <dl>
-    <dt>Pour voir les marque-pages &agrave; l'int&eacute;rieur des
-    dossiers&nbsp;:</dt>
+    <dt>Pour voir les marque-pages à l'intérieur des
+    dossiers&#160;:</dt>
 
     <dd>Double-cliquez sur un dossier pour voir son contenu.</dd>
 
-    <dt>Pour d&eacute;placer un marque-page ou un dossier n'importe o&ugrave;
-    dans la liste&nbsp;:</dt>
+    <dt>Pour déplacer un marque-page ou un dossier n'importe où
+    dans la liste&#160;:</dt>
 
-    <dd>Glissez le marque-page ou le dossier que vous voulez d&eacute;placer
+    <dd>Glissez le marque-page ou le dossier que vous voulez déplacer
     vers un nouvel emplacement. Pour mettre un marque-page dans un dossier,
     glissez-le sur le dossier.</dd>
 
-    <dt>Pour cr&eacute;er un nouveau dossier ou un
-    s&eacute;parateur&nbsp;:</dt>
+    <dt>Pour créer un nouveau dossier ou un
+    séparateur&#160;:</dt>
 
-    <dd>Cliquez sur <q>Nouveau dossier</q> ou <q>Nouveau s&eacute;parateur</q>
+    <dd>Cliquez sur <q>Nouveau dossier</q> ou <q>Nouveau séparateur</q>
     dans la barre d'outils du gestionnaire de marque-pages. Le nouveau dossier
-    ou s&eacute;parateur appara&icirc;t en dessous de la s&eacute;lection en
+    ou séparateur apparaît en dessous de la sélection en
     cours.</dd>
 
-    <dt>Pour enlever un marque-page ou un dossier de la liste&nbsp;:</dt>
+    <dt>Pour enlever un marque-page ou un dossier de la liste&#160;:</dt>
 
     <dd>
       <ol>
-        <li>Cliquez pour mettre en &eacute;vidence le marque-page ou le dossier
+        <li>Cliquez pour mettre en évidence le marque-page ou le dossier
         que vous voulez supprimer.</li>
 
         <li>Appuyez sur la touche <kbd>Supprimer</kbd> de votre clavier ou
@@ -1435,117 +1420,116 @@
     </dd>
 
     <dt>Pour classer vos marque-pages dans le gestionnaire de
-    marque-pages&nbsp;:</dt>
+    marque-pages&#160;:</dt>
 
     <dd>
 
 	  <ol>
 		<li>Sélectionnez le dossier à classer</li>
 
-		<li>Ouvrez le menu <q>Éditer</q> et s&eacute;lectionnez comment vous
-    voulez classer la liste (tels que <q>Tri&eacute; par nom</q> ou
-    <q>Tri&eacute; par adresse</q>).</li>
+		<li>Ouvrez le menu <q>Éditer</q> et sélectionnez comment vous
+    voulez classer la liste (tels que <q>Trié par nom</q> ou
+    <q>Trié par adresse</q>).</li>
 	  </ol>
 
 	</dd>
 
   </dl>
 
-  <p><strong>Astuce</strong>&nbsp;: Pour ajouter plus de colonnes, ouvrez le
+  <p><strong>Astuce</strong>&#160;: Pour ajouter plus de colonnes, ouvrez le
   menu <q>Affichage</q>, cliquez sur <q>Montrer les colonnes</q> et choisissez
-  un en-t&ecirc;te de colonne dans la liste.</p>
+  un en-tête de colonne dans la liste.</p>
 
-  <h3>D&eacute;signer un nouveau dossier de marque-pages par d&eacute;faut</h3>
+  <h3>Désigner un nouveau dossier de marque-pages par défaut</h3>
 
-  <p>Quand vous cr&eacute;ez un nouveau marque-pages, &brandShortName; l'ajoute
+  <p>Quand vous créez un nouveau marque-pages, &brandShortName; l'ajoute
   normalement en bas de la liste des marque-pages. Si vous
-  pr&eacute;f&eacute;rez classer vos marque-pages dans un dossier, vous pouvez
-  d&eacute;signer un dossier par d&eacute;faut.</p>
+  préférez classer vos marque-pages dans un dossier, vous pouvez
+  désigner un dossier par défaut.</p>
 
   <ol>
-    <li>Ouvrez le menu <q>Marque-pages</q> et choisissez <q>G&eacute;rer les
-    marque-pages&hellip;</q>.</li>
+    <li>Ouvrez le menu <q>Marque-pages</q> et choisissez <q>Gérer les
+    marque-pages…</q>.</li>
 
-    <li>Dans le gestionnaire de marque-pages, s&eacute;lectionnez le dossier
+    <li>Dans le gestionnaire de marque-pages, sélectionnez le dossier
     qui conservera les nouveaux marque-pages.</li>
 
-    <li>Ouvrez le menu <q>Affichage</q> et choisissez <q>D&eacute;finir comme
-    dossier par d&eacute;faut pour les nouveaux marque-pages</q>.</li>
+    <li>Ouvrez le menu <q>Affichage</q> et choisissez <q>Définir comme
+    dossier par défaut pour les nouveaux marque-pages</q>.</li>
   </ol>
 
-  <p>[&nbsp;<a href="#bookmarks">Retour au d&eacute;but de la
-  section</a>&nbsp;]</p>
+  <p>[&#160;<a href="#bookmarks">Retour au début de la
+  section</a>&#160;]</p>
 
   <h2 id="changing_individual_bookmarks">Modifier vos marque-pages individuellement</h2>
 
   <p>Vous pouvez changer l'information de n'importe quel marque-page
-  individuellement&nbsp;:</p>
+  individuellement&#160;:</p>
 
   <ol>
-    <li>Ouvrez le menu <q>Marque-pages</q> et choisissez <q>G&eacute;rer les
-    marque-pages&hellip;</q>.</li>
+    <li>Ouvrez le menu <q>Marque-pages</q> et choisissez <q>Gérer les
+    marque-pages…</q>.</li>
 
     <li>Dans le gestionnaire de marque-pages, cliquez sur un marque-page.</li>
 
-    <li>Cliquez sur <q>Propri&eacute;t&eacute;s</q>.</li>
+    <li>Cliquez sur <q>Propriétés</q>.</li>
 
-    <li>Dans la fen&ecirc;tre de propri&eacute;t&eacute;s, cliquez sur l'onglet
+    <li>Dans la fenêtre de propriétés, cliquez sur l'onglet
     <q>Info</q>.</li>
   </ol>
 
-  <p>Vous pouvez renommer le marque-page (le nom appara&icirc;t dans votre
+  <p>Vous pouvez renommer le marque-page (le nom apparaît dans votre
   liste de marque-page), ajouter une description ou mettre des
-  <a href="nav_help.xhtml#custom_keywords">mots-cl&eacute;s</a>. Vous pouvez
-  saisir un mot-cl&eacute; dans la barre d'adresse pour aller &agrave; la page
-  marqu&eacute;e.</p>
+  <a href="nav_help.xhtml#custom_keywords">mots-clés</a>. Vous pouvez
+  saisir un mot-clé dans la barre d'adresse pour aller à la page
+  marquée.</p>
 
-  <p>Vous pouvez &eacute;galement configurer le navigateur pour qu'il
-  contr&ocirc;le les changements dans les pages marqu&eacute;es.</p>
+  <p>Vous pouvez également configurer le navigateur pour qu'il
+  contrôle les changements dans les pages marquées.</p>
 
   <ol>
-    <li>Ouvrez le menu <q>Marque-pages</q> et choisissez <q>G&eacute;rer les
-    marque-pages&hellip;</q>.</li>
+    <li>Ouvrez le menu <q>Marque-pages</q> et choisissez <q>Gérer les
+    marque-pages…</q>.</li>
 
     <li>Dans le gestionnaire de marque-pages, cliquez sur un marque-page.</li>
 
-    <li>Cliquez sur <q>Propri&eacute;t&eacute;s</q>.</li>
+    <li>Cliquez sur <q>Propriétés</q>.</li>
 
-    <li>Dans la fen&ecirc;tre <q>Propri&eacute;t&eacute;s</q>, vous pouvez
-    modifier les param&egrave;tres de planification selon vos
-    pr&eacute;f&eacute;rences&nbsp;:
+    <li>Dans la fenêtre <q>Propriétés</q>, vous pouvez
+    modifier les paramètres de planification selon vos
+    préférences&#160;:
 
       <dl>
-        <dt>Quand&nbsp;:</dt>
+        <dt>Quand&#160;:</dt>
 
-        <dd>Utiliser la liste d&eacute;roulante pour d&eacute;finir le
-        fr&eacute;quence &agrave; laquelle &brandShortName; contr&ocirc;lera les
-        changements dans les pages marqu&eacute;es.</dd>
+        <dd>Utiliser la liste déroulante pour définir le
+        fréquence à laquelle &brandShortName; contrôlera les
+        changements dans les pages marquées.</dd>
 
-        <dt>De __ jusqu'&agrave; __ &nbsp;:</dt>
+        <dt>De __ jusqu'à __ &#160;:</dt>
 
-        <dd>Choisissez dans les listes d&eacute;roulantes les heures entre
-        lesquelles &brandShortName; v&eacute;rifiera la mise &agrave; jour de la page
-        marqu&eacute;e.</dd>
+        <dd>Choisissez dans les listes déroulantes les heures entre
+        lesquelles &brandShortName; vérifiera la mise à jour de la page
+        marquée.</dd>
 
-        <dt>Chaque __ minutes&nbsp;:</dt>
+        <dt>Chaque __ minutes&#160;:</dt>
 
         <dd>Choisissez un intervalle de temps (en minutes) entre chaque
-        v&eacute;rification de mise &agrave; jour.</dd>
+        vérification de mise à jour.</dd>
       </dl>
     </li>
 
-    <li>Vous devez alors choisir une m&eacute;thode de notification si vous
-    voulez &ecirc;tre pr&eacute;venus quand des modifications ont lieu sur des
-    pages marqu&eacute;s. Cliquez sur l'onglet <q>Notifier</q> et choisissez
-    une des options de notification&nbsp;:
+    <li>Vous devez alors choisir sous quelle forme recevoir une notification quand des
+	modifications ont lieu sur des pages marquées. Cliquez sur l'onglet <q>Notifier</q> et
+	choisissez une des options de notification&#160;:
 
       <ul>
-        <li><strong>Changer l'ic&ocirc;ne du marque-page</strong>&nbsp;;</li>
+        <li><strong>Changer l'icône du marque-page</strong>&#160;;</li>
 
-        <li><strong>Afficher une alerte</strong>&nbsp;;</li>
+        <li><strong>Afficher une alerte</strong>&#160;;</li>
 
         <li><strong>Ouvrir la page Web dans une nouvelle
-        fen&ecirc;tre</strong>&nbsp;;</li>
+        fenêtre</strong>&#160;;</li>
 
         <li><strong>Jouer un son</strong>.</li>
       </ul>
@@ -1554,26 +1538,26 @@
     <li>Cliquez sur <q>OK</q> pour confirmer les changements.</li>
   </ol>
 
-  <p>[&nbsp;<a href="#bookmarks">Retour au d&eacute;but de la
-  section</a>&nbsp;]</p>
+  <p>[&#160;<a href="#bookmarks">Retour au début de la
+  section</a>&#160;]</p>
 
   <h2 id="searching_your_bookmarks">Rechercher dans vos marque-pages</h2>
 
-  <p>Pour rechercher dans la liste des marque-pages&nbsp;:</p>
+  <p>Pour rechercher dans la liste des marque-pages&#160;:</p>
 
   <ol>
-    <li>Ouvrez le menu <q>Marque-pages</q> et choisissez <q>G&eacute;rer les
-    marque-pages&hellip;</q>.</li>
+    <li>Ouvrez le menu <q>Marque-pages</q> et choisissez <q>Gérer les
+    marque-pages…</q>.</li>
 
     <li>Dans le gestionnaire de marque-pages, ouvrez le menu <q>Outils</q> et
     choisissez <q>Rechercher dans les marque-pages</q>. Vous verrez la
-    bo&icirc;te de dialogue <q>Trouver des marque-pages</q>.</li>
+    boîte de dialogue <q>Trouver des marque-pages</q>.</li>
 
-    <li>Dans les listes d&eacute;roulantes, choisissez les options pour
-    d&eacute;terminer votre recherche, puis cliquez sur <q>Chercher</q>. Les
-    marque-pages compatibles avec vos crit&egrave;res de recherche sont
-    affich&eacute;s. Choisissez &agrave; partir des options de recherche
-    suivantes&nbsp;:
+    <li>Dans les listes déroulantes, choisissez les options pour
+    déterminer votre recherche, puis cliquez sur <q>Chercher</q>. Les
+    marque-pages compatibles avec vos critères de recherche sont
+    affichés. Choisissez à partir des options de recherche
+    suivantes&#160;:
 
       <ul>
         <li>Choisissez <q>contient</q>, <q>commence par</q> ou <q>se finit
@@ -1586,14 +1570,14 @@
         <li>Choisissez <q>n'est pas</q> ou <q>ne contient pas</q> pour exclure
         des pages.</li>
 
-        <li>Cliquez sur le champ &agrave; remplir et saisissez tout ou partie
+        <li>Cliquez sur le champ à remplir et saisissez tout ou partie
         d'un nom ou d'une adresse (adresse Internet) figurant dans les listes
         de marque-pages ou d'historique que vous voulez chercher ou
         exclure.</li>
 
-        <li>S&eacute;lectionnez <q>Enregistrer la requ&ecirc;te dans les
+        <li>Sélectionnez <q>Enregistrer la requête dans les
         marque-pages</q> pour enregistrer cette recherche pour une utilisation
-        ult&eacute;rieure.</li>
+        ultérieure.</li>
       </ul>
     </li>
 
@@ -1601,55 +1585,55 @@
     page.</li>
   </ol>
 
-  <p><strong>Astuce</strong>&nbsp;: Si la liste est difficile &agrave; lire,
-  essayez d'agrandir la fen&ecirc;tre des r&eacute;sultats.</p>
+  <p><strong>Astuce</strong>&#160;: Si la liste est difficile à lire,
+  essayez d'agrandir la fenêtre des résultats.</p>
 
-  <p>[&nbsp;<a href="#bookmarks">Retour au d&eacute;but de la
-  section</a>&nbsp;]</p>
+  <p>[&#160;<a href="#bookmarks">Retour au début de la
+  section</a>&#160;]</p>
 
   <h2 id="exporting_or_importing_a_bookmark_list">Exporter ou importer une liste de
   marque-pages</h2>
 
-  <p>Vos marque-pages sont stock&eacute;s dans un fichier nomm&eacute;
+  <p>Vos marque-pages sont stockés dans un fichier nommé
   <q>bookmarks.html</q>. Vous pouvez exporter une copie de ce fichier et
   l'enregistrer dans un dossier de votre choix. Vous pouvez alors
-  l'&eacute;diter et le traiter comme tout fichier HTML.</p>
+  l'éditer et le traiter comme tout fichier HTML.</p>
 
   <ol>
-    <li>Ouvrez le menu <q>Marque-pages</q> et choisissez <q>G&eacute;rer les
-    marque-pages&hellip;</q>.</li>
+    <li>Ouvrez le menu <q>Marque-pages</q> et choisissez <q>Gérer les
+    marque-pages…</q>.</li>
 
     <li>Dans le gestionnaire de marque-pages, ouvrez le menu <q>Outils</q> et
     choisissez <q>Exporter les marque-pages</q>.</li>
 
-    <li>Dans la bo&icirc;te de dialogue <q>Exporter le fichier des
+    <li>Dans la boîte de dialogue <q>Exporter le fichier des
     marque-pages</q>, choisissez un dossier. Votre fichier
-    <q>bookmarks.html</q> sera copi&eacute; dans le r&eacute;pertoire que vous
-    avez d&eacute;sign&eacute;.</li>
+    <q>bookmarks.html</q> sera copié dans le répertoire que vous
+    avez désigné.</li>
 
     <li>Cliquez sur <q>Enregistrer</q>.</li>
   </ol>
 
-  <p>Vos marque-pages ne sont pas modifi&eacute;s par cette
-  proc&eacute;dure.</p>
+  <p>Vos marque-pages ne sont pas modifiés par cette
+  procédure.</p>
 
   <p>Vous pouvez aussi importer des marque-pages depuis d'autres sources.
   Par exemple, vous pouvez importer des marque-pages provenant de
-  versions pr&eacute;c&eacute;dentes de &brandShortName;, d'autres navigateurs ou
-  &agrave; partir de fichiers que vous ont envoy&eacute;s vos amis.</p>
+  versions précédentes de &brandShortName;, d'autres navigateurs ou
+  à partir de fichiers que vous ont envoyés vos amis.</p>
 
   <p>Avant de commencer, assurez-vous que le fichier de marque-pages que vous
   voulez importer est au format HTML.</p>
 
   <ol>
-    <li>Ouvrez le menu <q>Marque-pages</q> et choisissez <q>G&eacute;rer les
-    marque-pages&hellip;</q>.</li>
+    <li>Ouvrez le menu <q>Marque-pages</q> et choisissez <q>Gérer les
+    marque-pages…</q>.</li>
 
     <li>Dans le gestionnaire de marque-pages, ouvrez le menu <q>Outils</q> et
     choisissez <q>Importer les marque-pages</q>.</li>
 
-    <li>Dans la bo&icirc;te de dialogue <q>Importer des marque-pages</q>,
-    s&eacute;lectionnez si vous voulez importer les marque-pages d'anciennes version de
+    <li>Dans la boîte de dialogue <q>Importer des marque-pages</q>,
+    sélectionnez si vous voulez importer les marque-pages d'anciennes versions de
 	&brandShortName; ou importer un fichier.</li>
 
     <li>Cliquez sur <q>Suivant</q>.</li>
@@ -1660,180 +1644,192 @@
 	sur <q>Ouvrir</q>.</li>
   </ol>
 
-  <p>Les marque-page import&eacute;s sont trait&eacute;s comme un
-  nouveau groupe de marque-pages et ajout&eacute;s &agrave; la fin de votre
-  liste de marque-pages. Si vous avez d&eacute;sign&eacute; un dossier par
-  d&eacute;faut, le fichier import&eacute; est ajout&eacute; &agrave; ce
+  <p>Les marque-pages importés sont traités comme un
+  nouveau groupe de marque-pages et ajoutés à la fin de votre
+  liste de marque-pages. Si vous avez désigné un dossier par
+  défaut, le fichier importé est ajouté à ce
   dossier.</p>
 
-  <p><strong>Remarque</strong>&nbsp;: L'importation cr&eacute;e des
-  marque-pages et des dossiers &agrave; partir d'un fichier. Il ne cr&eacute;e
+  <p><strong>Remarque</strong>&#160;: L'importation crée des
+  marque-pages et des dossiers à partir d'un fichier. Il ne crée
   pas deux fichiers de marque-pages.</p>
 
-  <p>[&nbsp;<a href="#bookmarks">Retour au d&eacute;but de la
-  section</a>&nbsp;]</p>
+  <p>[&#160;<a href="#bookmarks">Retour au début de la
+  section</a>&#160;]</p>
 
-  <h1 id="specifying_how_mozilla_starts_up">Sp&eacute;cifier comment
-  d&eacute;marrer &brandShortName;</h1>
+  <h1 id="specifying_how_mozilla_starts_up">Spécifier comment
+  démarrer &brandShortName;</h1>
 
   <div class="contentsBox">
-    <p>Dans cette section&nbsp;:</p>
+    <p>Dans cette section&#160;:</p>
 
     <ul>
-      <li><a href="#specifying_a_starting_page">Sp&eacute;cifier la page de
-      d&eacute;marrage</a></li>
+      <li><a href="#specifying_a_starting_page">Spécifier la page de
+      démarrage</a></li>
+
+	  <li><a href="#session_restore">Restaurer une session</a></li>
 
       <li><a href="#changing_your_home_page">Changer votre page d'accueil
       personnelle</a></li>
 
-      <li><a href="#specifying_which_components_open_at_launch">Sp&eacute;cifier
-      les composants &agrave; ouvrir au lancement</a></li>
+      <li><a href="#specifying_which_components_open_at_launch">Spécifier
+      les composants à ouvrir au lancement</a></li>
     </ul>
   </div>
 
-  <h2 id="specifying_a_starting_page">Sp&eacute;cifier la page de d&eacute;marrage</h2>
+  <h2 id="specifying_a_starting_page">Spécifier la page de démarrage</h2>
 
-  <p>Vous pouvez sp&eacute;cifier la page qui s'ouvre au lancement du
-  navigateur&nbsp;:</p>
+  <p>Vous pouvez spécifier la page qui s'ouvre au lancement du
+  navigateur&#160;:</p>
 
   <ol>
     <li>Ouvrez le menu <q><span class="mac">SeaMonkey</span><span
-    class="noMac">&Eacute;dition</span></q>
-    et choisissez <q>Pr&eacute;f&eacute;rences&hellip;</q>.</li>
+    class="noMac">édition</span></q>
+    et choisissez <q>Préférences…</q>.</li>
 
-    <li>Dans la liste d&eacute;roulante <q>Afficher pour</q>, choisissez le
-    composant pour lequel vous voulez d&eacute;finir une page de
-    d&eacute;marrage&nbsp;:
+    <li>Dans la liste déroulante <q>Afficher pour</q>, choisissez le composant pour lequel
+	vous voulez définir une page de démarrage.&#160;:
 
       <ul>
-        <li><strong>le d&eacute;marrage du navigateur</strong>&nbsp;;</li>
+        <li><strong>le démarrage du navigateur</strong>&#160;;</li>
 
-        <li><strong>une nouvelle fen&ecirc;tre</strong>&nbsp;;</li>
+        <li><strong>une nouvelle fenêtre</strong>&#160;;</li>
 
         <li><strong>un nouvel onglet</strong>.</li>
       </ul>
     </li>
 
-    <li>Choisissez le type de page &agrave; afficher lors de l'ouverture de ce
-    composant&nbsp;:
+    <li>Choisissez le type de page à afficher lors de l'ouverture de ce
+    composant&#160;:
 
       <dl>
-        <dt>Une page blanche&nbsp;:</dt>
+        <dt>Une page blanche&#160;:</dt>
 
         <dd>Affichera une simple page blanche lors de l'ouverture du
         composant.</dd>
 
-        <dt>Ma page d'accueil&nbsp;:</dt>
+        <dt>Ma page d'accueil&#160;:</dt>
 
         <dd>Affichera la page d'accueil ou le groupe de page que vous avez
-        d&eacute;finis lors de l'ouverture du composant.</dd>
+        définis lors de l'ouverture du composant.</dd>
 
-        <dt>La derni&egrave;re page visit&eacute;e&nbsp;:</dt>
+        <dt>La dernière page visitée&#160;:</dt>
 
-        <dd>Affichera la derni&egrave;re page que vous avez visit&eacute;e lors
+        <dd>Affichera la dernière page que vous avez visitée lors
         de l'ouverture du composant.</dd>
+		
+		<dt>Restaurer la session précédente&#160;:</dt>
+		
+		<dd>Spécifier à &brandShortName; de restaurer la session précédente, avec toutes les
+		fenêtres et tous les onglets ouverts avant de fermer &brandShortName;</dd>
       </dl>
     </li>
 
     <li>Appuyez sur <q>OK</q> pour terminer.</li>
   </ol>
 
-  <p><strong>Remarques</strong>&nbsp;:</p>
+  <p><strong>Remarques</strong>&#160;:</p>
 
   <ul>
     <li>Si vous avez choisi d'afficher votre page d'accueil, saisissez son
     adresse dans le champ <q>Ma page d'accueil</q>.</li>
 
-    <li>Vous pouvez choisir une page de d&eacute;marrage diff&eacute;rente pour
-    chacune des trois options de la liste d&eacute;roulante <q>Afficher
+    <li>Vous pouvez choisir une page de démarrage différente pour
+    chacune des trois options de la liste déroulante <q>Afficher
     pour</q>.</li>
   </ul>
 
-  <p>[&nbsp;<a href="#specifying_how_mozilla_starts_up">Retour au d&eacute;but de la
-  section</a>&nbsp;]</p>
+  <p>[&#160;<a href="#specifying_how_mozilla_starts_up">Retour au début de la
+  section</a>&#160;]</p>
+<div class="rediger">
+<h3 id="session_restore">Restaurer une session</h3>
+
+<p>&brandShortName; enregistre périodiquement votre session de navigation (fenêtres et onglets ouverts, données de formulaires) sur votre disque.Lorsque vous démarrez &brandShortName; avec l'option de restauration de session activée, les fenêtres et les onglets de votre session précédente sont restaurés. Ceci est particulièrement utile si votre session de navigation se termine inopinément (plantage, fermeture accidentelle, etc.). &brandShortName; restaurare automatiquement la session précédente si l'option <q>Restore Previous Session</q> sous <q>Display on Browser Startup</q> est activée. Si vous choisissez de ne pas être alerté lorsque vous fermez une fenêtre du navigateur comportant plusieurs onglets ouverts (voir <a href="#tabbed_browsing">Navigation par onglets</a> dans le panneau des préférences), &brandShortName; ouvrira une page depuis laquelle vous pourrez choisir quelles fenêtres et quels onglets de la session précédente seront restaurés. Ceci se produira également si &brandShortName; plante.</p>
+</div>
+  <p>[&#160;<a href="#specifying_how_mozilla_starts_up">Retour au début de la
+  section</a>&#160;]</p>
 
   <h2 id="changing_your_home_page">Changer votre page d'accueil personnelle</h2>
 
   <p>Votre page d'accueil est celle qui s'ouvre quand vous cliquez sur le
   bouton <q>Accueil</q> dans la barre d'outils personnelle. En fonction du
-  param&eacute;trage de vos pr&eacute;f&eacute;rences, elle peut aussi
-  &ecirc;tre la page qui s'ouvre automatiquement quand vous d&eacute;marrez
+  paramétrage de vos préférences, elle peut aussi
+  être la page qui s'ouvre automatiquement quand vous démarrez
   &brandShortName;.</p>
 
-  <p>Pour sp&eacute;cifier votre page d'accueil&nbsp;:</p>
+  <p>Pour spécifier votre page d'accueil&#160;:</p>
 
   <ol>
     <li>Ouvrez le menu <q><span class="mac">SeaMonkey</span><span
-    class="noMac">&Eacute;dition</span></q>
-    et choisissez <q>Pr&eacute;f&eacute;rences&hellip;</q>.</li>
+    class="noMac">édition</span></q>
+    et choisissez <q>Préférences…</q>.</li>
 
-    <li>Cliquez sur la cat&eacute;gorie <q>Navigateur</q>.</li>
+    <li>Cliquez sur la catégorie <q>Navigateur</q>.</li>
 
     <li>Dans la section <q>Ma page d'accueil</q>, effectuez une des
-    op&eacute;rations suivantes&nbsp;:
+    opérations suivantes&#160;:
 
       <ul>
         <li>Saisissez l'adresse de votre page d'accueil (adresse Internet),
         dans le champ <q>Adresse</q>.</li>
 
         <li>Cliquez sur <q>Utiliser la page actuelle</q> pour que la page
-        actuellement affich&eacute;e dans la fen&ecirc;tre du navigateur
+        actuellement affichée dans la fenêtre du navigateur
         devienne votre page d'accueil.</li>
 
         <li>Cliquez sur <q>Utiliser le groupe actuel</q> pour utiliser les
         onglets actuellement ouverts comme pages d'accueil.</li>
 
-        <li>Cliquez sur <q>Configuration par d&eacute;faut</q> pour tout
-        r&eacute;initialiser.</li>
+        <li>Cliquez sur <q>Configuration par défaut</q> pour tout
+        réinitialiser.</li>
 
-        <li>Cliquez sur <q>Choisir un fichier</q> pour s&eacute;lectionner un
+        <li>Cliquez sur <q>Choisir un fichier</q> pour sélectionner un
         fichier sur le disque dur de votre ordinateur.</li>
       </ul>
     </li>
   </ol>
 
-  <p><strong>Astuce</strong>&nbsp;: Pour s&eacute;lectionner votre page
-  d'accueil personnelle rapidement, glissez l'ic&ocirc;ne du marque-page
+  <p><strong>Astuce</strong>&#160;: Pour sélectionner votre page
+  d'accueil personnelle rapidement, glissez l'icône du marque-page
   <img src="chrome://communicator/skin/bookmarks/bookmark-item.png" alt=
-  "ic&ocirc;ne de marque-page" /> de la barre d'adresse vers le bouton
+  "icône de marque-page" /> de la barre d'adresse vers le bouton
   <q>Accueil</q> de la barre d'outils personnelle.</p>
 
-  <p>[&nbsp;<a href="#specifying_how_mozilla_starts_up">Retour au d&eacute;but
-  de la section</a>&nbsp;]</p>
+  <p>[&#160;<a href="#specifying_how_mozilla_starts_up">Retour au début
+  de la section</a>&#160;]</p>
 
-  <h2 id="specifying_which_components_open_at_launch">Sp&eacute;cifier les
-  composants &agrave; ouvrir au lancement</h2>
+  <h2 id="specifying_which_components_open_at_launch">Spécifier les
+  composants à ouvrir au lancement</h2>
 
   <p>Vous pouvez choisir les composants (tels que le courrier et groupes de
-  discussion, et le composeur) &agrave; lancer au d&eacute;marrage du
-  navigateur de &brandShortName;&nbsp;:</p>
+  discussion, et le composeur) à lancer au démarrage du
+  navigateur de &brandShortName;&#160;:</p>
 
   <ol>
     <li>Ouvrez le menu <q><span class="mac">SeaMonkey</span><span
-    class="noMac">&Eacute;dition</span></q>
-    et choisissez <q>Pr&eacute;f&eacute;rences&hellip;</q>.</li>
+    class="noMac">édition</span></q>
+    et choisissez <q>Préférences…</q>.</li>
 
-    <li>Cliquez sur la cat&eacute;gorie <q>Apparence</q>.</li>
+    <li>Cliquez sur la catégorie <q>Apparence</q>.</li>
 
     <li>Choisissez les composants que vous voulez ouvrir automatiquement chaque
     fois que vous lancez &brandShortName;.</li>
   </ol>
 
-  <p><strong>Remarque</strong>&nbsp;: D'autres choix pourront s'offrir &agrave;
+  <p><strong>Remarque</strong>&#160;: D'autres choix pourront s'offrir à
   vous selon les extensions que vous installerez.</p>
 
-  <p>[&nbsp;<a href="#specifying_how_mozilla_starts_up">Retour au d&eacute;but
-  de la section</a>&nbsp;]</p>
+  <p>[&#160;<a href="#specifying_how_mozilla_starts_up">Retour au début
+  de la section</a>&#160;]</p>
 
   <div id="footer">
-    <p>&copyright.string;</p>
     <!--begin frenchmozilla signature-->
 
-    <p><em>Derni&egrave;re traduction&nbsp;: 14 juillet 2006</em></p>
+    <p><em>Dernière traduction&#160;: 14 juillet 2006</em></p>
 
-    <p>Ce texte a &eacute;t&eacute; traduit et adapt&eacute; par une
-    &eacute;quipe internationale de b&eacute;n&eacute;voles francophones.<br />
-    Pour plus d'informations, visitez notre site&nbsp;: <a href=
+    <p>Ce texte a été traduit et adapté par une
+    équipe internationale de bénévoles francophones.<br />
+    Pour plus d'informations, visitez notre site&#160;: <a href=
     "http://frenchmozilla.sourceforge.net/">http://frenchmozilla.sourceforge.net</a>.</p>
     <!--end frenchmozilla signature-->
   </div>

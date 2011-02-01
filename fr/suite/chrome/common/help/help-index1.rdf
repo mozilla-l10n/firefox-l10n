@@ -36,7 +36,7 @@
       <rdf:li>
         <rdf:Description ID="Filing_messages"
           nc:name="Archiver des messages dans des dossiers"
-          nc:link="mail_help.xhtml#filing_messages_in_folders"/>
+          nc:link="mailnews_organizing.xhtml#filing_messages_in_folders"/>
       </rdf:li>
     </rdf:Seq>
   </nc:subheadings>
@@ -48,12 +48,12 @@
         <rdf:li>
           <rdf:Description ID="return_receipts:general_preferences"
             nc:name="Préférences de Courrier &amp; Groupes - Accusés de réception"
-            nc:link="mail_help.xhtml#return_receipts_preferences"/>
+            nc:link="mailnews_preferences.xhtml#return_receipts_preferences"/>
         </rdf:li>
         <rdf:li>
           <rdf:Description ID="return_receipts:using"
             nc:name="Accusés de réception d'un message"
-            nc:link="mail_help.xhtml#confirming_that_your_message_was_opened"/>
+            nc:link="mailnews_using_mail.xhtml#confirming_that_your_message_was_opened"/>
         </rdf:li>
       </rdf:Seq>
     </nc:subheadings>
@@ -65,12 +65,12 @@
         <rdf:li>
           <rdf:Description ID="email_addresses:address_books_and"
             nc:name="Ajouter des entrées aux carnets d'adresses"
-            nc:link="mail_help.xhtml#adding_entries_to_your_address_books"/>
+            nc:link="mailnews_addressbooks.xhtml#adding_entries_to_your_address_books"/>
         </rdf:li>
         <rdf:li>
           <rdf:Description ID="email_addresses:in_mail_messages"
             nc:name="Choisir le destinataire d'un message"
-            nc:link="mail_help.xhtml#addressing_a_message"/>
+            nc:link="mailnews_using_mail.xhtml#addressing_a_message"/>
         </rdf:li>
       </rdf:Seq>
     </nc:subheadings>
@@ -84,6 +84,11 @@
             nc:name="Ajouter des images à votre page Web"
             nc:link="composer_help.xhtml#inserting_an_image_into_your_page"/>
         </rdf:li>
+		<rdf:li>
+       <rdf:Description ID="adding:blog_account"
+         nc:name="Créer un nouveau compte de blog"
+         nc:link="mail_help.xhtml#setting_up_additional_mail_and_news_accounts"/>
+      </rdf:li>
         <rdf:li>
           <rdf:Description ID="adding:mail_account"
             nc:name="Configurer des comptes de messagerie supplémentaires"
@@ -155,7 +160,7 @@
       <rdf:Seq>
         <rdf:li>
           <rdf:Description ID="Sidebar:description"
-            nc:name="Qu'est-ce que la barre latérale ?"
+            nc:name="Qu'est-ce que la barre latérale ?"
             nc:link="customize_help.xhtml#what_is_sidebar"/>
         </rdf:li>
         <rdf:li>
@@ -213,7 +218,7 @@
       <rdf:li>
         <rdf:Description ID="address_books"
           nc:name="Carnets d'adresses"
-          nc:link="mail_help.xhtml#about_address_books"/>
+          nc:link="mailnews_addressbooks.xhtml#about_address_books"/>
       </rdf:li>
       <rdf:li>
         <rdf:Description ID="smart_cards"
@@ -228,7 +233,7 @@
       <rdf:li>
         <rdf:Description ID="encryption"
           nc:name="Chiffrement"
-          nc:link="mail_sec_help.xhtml#signing_and_encrypting_messages"/>
+          nc:link="mailnews_security.xhtml#signing_and_encrypting_messages"/>
       </rdf:li>
       <rdf:li>
         <rdf:Description ID="JSConsole"
@@ -302,41 +307,92 @@
         <rdf:li>
           <rdf:Description ID="address_books:adding_entries"
             nc:name="Ajouter des entrées aux carnets d'adresses"
-            nc:link="mail_help.xhtml#adding_entries_to_your_address_books"/>
+            nc:link="mailnews_addressbooks.xhtml#adding_entries_to_your_address_books"/>
         </rdf:li>
         <rdf:li>
           <rdf:Description ID="address_books:creating"
             nc:name="Créer un carnet d'adresses"
-            nc:link="mail_help.xhtml#creating_a_new_address_book"/>
+            nc:link="mailnews_addressbooks.xhtml#creating_a_new_address_book"/>
         </rdf:li>
         <rdf:li>
           <rdf:Description ID="address_books:creating_mailing_lists"
             nc:name="Créer une liste de diffusion"
-            nc:link="mail_help.xhtml#creating_a_mailing_list"/>
+            nc:link="mailnews_addressbooks.xhtml#creating_a_mailing_list"/>
         </rdf:li>
         <rdf:li>
           <rdf:Description ID="address_books:exporting"
             nc:name="Exporter des carnets d'adresses"
-            nc:link="mail_help.xhtml#exporting_address_books"/>
+            nc:link="mailnews_addressbooks.xhtml#exporting_address_books"/>
         </rdf:li>
         <rdf:li>
           <rdf:Description ID="address_books:importing"
             nc:name="Importer des carnets d'adresses"
-            nc:link="mail_help.xhtml#importing_address_books"/>
+            nc:link="mailnews_addressbooks.xhtml#importing_address_books"/>
         </rdf:li>
         <rdf:li>
           <rdf:Description ID="address_books:LDAP_directories"
             nc:name="Ajouter et retirer des annuaires LDAP"
-            nc:link="mail_help.xhtml#adding_and_removing_ldap_directories"/>
+            nc:link="mailnews_addressbooks.xhtml#adding_and_removing_ldap_directories"/>
         </rdf:li>
         <rdf:li>
           <rdf:Description ID="address_books:searching"
             nc:name="Recherche d'adresses dans les carnets et les annuaires"
-            nc:link="mail_help.xhtml#searching_address_books_and_directories"/>
+            nc:link="mailnews_addressbooks.xhtml#searching_address_books_and_directories"/>
         </rdf:li>
       </rdf:Seq>
     </nc:subheadings>
   </rdf:Description>
+
+<rdf:Description about="#add-ons">
+   <nc:subheadings>
+     <rdf:Seq>
+	 <rdf:li>
+       <rdf:Description ID="add-ons:about"
+         nc:name="À propos"
+         nc:link="addons_help.xhtml#about_add-ons"/>
+     </rdf:li>
+     <rdf:li>
+       <rdf:Description ID="add-ons:installing"
+         nc:name="Installer"
+         nc:link="addons_help.xhtml#installing_add-ons"/>
+     </rdf:li>
+     <rdf:li>
+       <rdf:Description ID="add-ons:manager"
+         nc:name="Gestionnaire de modules"
+         nc:link="addons_help.xhtml#using_the_add-on_manager"/>
+     </rdf:li></rdf:Seq>
+   </nc:subheadings>
+</rdf:Description>-->
+
+<rdf:Description about="#add-ons:manager">
+   <nc:subheadings>
+     <rdf:Seq><rdf:li>
+       <rdf:Description ID="add-ons:get_add-ons"
+         nc:name="Panneau du catalogue"
+         nc:link="addons_help.xhtml#the_get_add-ons_panel"/>
+     </rdf:li>
+     <rdf:li>
+       <rdf:Description ID="add-ons:extensions_panel"
+         nc:name="Panneau des extensions"
+         nc:link="addons_help.xhtml#the_extensions_panel"/>
+     </rdf:li>
+     <rdf:li>
+       <rdf:Description ID="add-ons:themes_panel"
+         nc:name="Panneau des thèmes"
+         nc:link="addons_help.xhtml#the_themes_panel"/>
+     </rdf:li>
+     <rdf:li>
+       <rdf:Description ID="add-ons:languages_panel"
+         nc:name="Panneau des langues"
+         nc:link="addons_help.xhtml#the_languages_panel"/>
+     </rdf:li>
+     <rdf:li>
+       <rdf:Description ID="add-ons:plugins_panel"
+         nc:name="Panneau des plugins"
+         nc:link="addons_help.xhtml#the_plugins_panel"/>
+      </rdf:li></rdf:Seq>
+    </nc:subheadings>
+ </rdf:Description>
 
   <rdf:Description about="#Certificates">
     <nc:subheadings>
@@ -366,6 +422,11 @@
             nc:name="Sélectionner le client de certificat"
             nc:link="certs_prefs_help.xhtml#client_certificate_selection"/>
         </rdf:li>
+		<rdf:li>
+        <rdf:Description ID="Certificates:server"
+          nc:name="Identité d'un serveur"
+          nc:link="using_certs_help.xhtml#managing_certificates_that_identify_servers"/>
+        </rdf:li>
         <rdf:li>
           <rdf:Description ID="Certificates:using"
             nc:name="Utiliser les certificats"
@@ -379,7 +440,7 @@
         <rdf:li>
           <rdf:Description ID="Certificates:web_site"
             nc:name="Gérer les certificats qui identifient des sites Web"
-            nc:link="using_certs_help.xhtml#managing_certificates_that_identify_websites"/>
+            nc:link="using_certs_help.xhtml#managing_certificates_that_identify_servers"/>
         </rdf:li>
         <rdf:li>
           <rdf:Description ID="Certificates:your_own"
@@ -396,12 +457,12 @@
         <rdf:li>
           <rdf:Description ID="encryption:about"
             nc:name="À propos du chiffrement et de la signature numérique"
-            nc:link="mail_sec_help.xhtml#about_digital_signatures_and_encryption"/>
+            nc:link="mailnews_security.xhtml#about_digital_signatures_and_encryption"/>
         </rdf:li>
         <rdf:li>
           <rdf:Description ID="encryption:of_email_messages"
             nc:name="Signer et chiffrer des messages"
-            nc:link="mail_sec_help.xhtml#signing_and_encrypting_messages"/>
+            nc:link="mailnews_security.xhtml#signing_and_encrypting_messages"/>
         </rdf:li>
         <rdf:li>
           <rdf:Description ID="encryption:of_stored_sensitive_information"
@@ -411,7 +472,7 @@
         <rdf:li>
           <rdf:Description ID="encryption:settings_for_email"
             nc:name="Configurer les réglages de sécurité"
-            nc:link="mail_sec_help.xhtml#configuring_security_settings"/>
+            nc:link="mailnews_security.xhtml#configuring_security_settings"/>
         </rdf:li>
         <rdf:li>
           <rdf:Description ID="encryption:status_of_web_page"
@@ -569,7 +630,7 @@
      </rdf:li>
      <rdf:li>
        <rdf:Description ID="privacy:cookies_and"
-         nc:name="Que sont les cookies et comment fonctionnent-ils ?"
+         nc:name="Que sont les cookies et comment fonctionnent-ils ?"
          nc:link="privacy_help.xhtml#what_are_cookies_and_how_do_they_work"/>
      </rdf:li>
      <rdf:li>
@@ -621,12 +682,12 @@
         </rdf:li>
         <rdf:li>
           <rdf:Description ID="cookies:email_and"
-            nc:name="Comment contrôler les pages Web dans les courriers ?"
+            nc:name="Comment contrôler les pages Web dans les courriers ?"
             nc:link="privacy_help.xhtml#how_can_i_control_web_pages_in_email_messages"/>
         </rdf:li>
         <rdf:li>
           <rdf:Description ID="cookies:foreign"
-            nc:name="Que sont les cookies tierce-partie ?"
+            nc:name="Que sont les cookies tierce-partie ?"
             nc:link="privacy_help.xhtml#what_are_third-party_cookies"/>
         </rdf:li>
         <rdf:li>
@@ -711,27 +772,27 @@
      <rdf:li>
        <rdf:Description ID="Mail_and_Newsgroups:address_autocompletion"
          nc:name="Auto-complétion d'adresses"
-         nc:link="mail_help.xhtml#address_autocompletion"/>
+         nc:link="mailnews_preferences.xhtml#address_autocompletion"/>
      </rdf:li>
      <rdf:li>
        <rdf:Description ID="Mail_and_Newsgroups:addressing_messages"
          nc:name="Choisir le destinataire d'un message"
-         nc:link="mail_help.xhtml#addressing_a_message"/>
+         nc:link="mailnews_using_mail.xhtml#addressing_a_message"/>
      </rdf:li>
      <rdf:li>
        <rdf:Description ID="Mail_and_Newsgroups:addressing_preferences"
          nc:name="Préférences de Courrier &amp; Groupes - Adressage"
-         nc:link="mail_help.xhtml#addressing_preferences"/>
+         nc:link="mailnews_preferences.xhtml#addressing_preferences"/>
      </rdf:li>
      <rdf:li>
        <rdf:Description ID="Mail_and_Newsgroups:Advanced_IMAP_settings"
          nc:name="Paramétrage avancé d'un serveur IMAP"
-         nc:link="mail_help.xhtml#advanced_imap_server_settings"/>
+         nc:link="mailnews_account_settings.xhtml#advanced_imap_server_settings"/>
      </rdf:li>
      <rdf:li>
        <rdf:Description ID="Mail_and_Newsgroups:attaching_files"
          nc:name="Joindre un fichier ou une page Web"
-         nc:link="mail_help.xhtml#attaching_a_file_or_web_page"/>
+         nc:link="mailnews_using_mail.xhtml#attaching_a_file_or_web_page"/>
      </rdf:li>
      <rdf:li>
        <rdf:Description ID="Mail_and_Newsgroups:changing_account_settings"
@@ -741,27 +802,27 @@
      <rdf:li>
        <rdf:Description ID="Mail_and_Newsgroups:Character_Encoding"
          nc:name="Encodage des caractères"
-         nc:link="mail_help.xhtml#character_encoding"/>
+         nc:link="mailnews_preferences.xhtml#character_encoding"/>
      </rdf:li>
      <rdf:li>
        <rdf:Description ID="Mail_and_Newsgroups:Compose_window"
          nc:name="Utiliser la fenêtre de rédaction des messages"
-         nc:link="mail_help.xhtml#using_the_message_composition_window"/>
+         nc:link="mailnews_using_mail.xhtml#using_the_message_composition_window"/>
      </rdf:li>
      <rdf:li>
        <rdf:Description ID="Mail_and_Newsgroups:composing_messages"
          nc:name="Écrire des messages pour le courrier ou les groupes"
-         nc:link="mail_help.xhtml#composing_mail_and_newsgroup_messages"/>
+         nc:link="mailnews_using_mail.xhtml#composing_mail_and_newsgroup_messages"/>
      </rdf:li>
      <rdf:li>
        <rdf:Description ID="Mail_and_Newsgroups:copies_and_folder_settings"
          nc:name="Paramètres des comptes courrier &amp; groupes - Copies et Dossiers"
-         nc:link="mail_help.xhtml#copies_and_folders"/>
+         nc:link="mailnews_account_settings.xhtml#copies_and_folders"/>
      </rdf:li>
      <rdf:li>
        <rdf:Description ID="Mail_and_Newsgroups:copying_folders"
          nc:name="Déplacer ou copier un dossier"
-         nc:link="mail_help.xhtml#moving_or_copying_a_folder"/>
+         nc:link="mailnews_organizing.xhtml#moving_or_copying_a_folder"/>
      </rdf:li>
      <rdf:li>
        <rdf:Description ID="Mail_and_Newsgroups:creating_filters"
@@ -771,142 +832,152 @@
      <rdf:li>
        <rdf:Description ID="Mail_and_Newsgroups:creating_folders"
          nc:name="Créer un dossier"
-         nc:link="mail_help.xhtml#creating_a_folder"/>
+         nc:link="mailnews_organizing.xhtml#creating_a_folder"/>
      </rdf:li>
      <rdf:li>
        <rdf:Description ID="Mail_and_Newsgroups:creating_HTML_mail_messages"
          nc:name="Créer des messages au format HTML"
-         nc:link="mail_help.xhtml#creating_html_mail_messages"/>
+         nc:link="mailnews_using_mail.xhtml#creating_html_mail_messages"/>
      </rdf:li>
      <rdf:li>
-       <rdf:Description ID="Mail_and_Newsgroups:Disk_Space_settings"
-         nc:name="Paramètres des comptes courrier &amp; groupes - Hors connexion et espace disque"
-         nc:link="mail_help.xhtml#offline_and_disk_space"/>
+       <rdf:Description ID="Mail_and_Newsgroups:disk_space_and_storage_settings"
+         nc:name="Paramètres des comptes courrier &amp; groupes - Espace disque et stockage"
+         nc:link="mailnews_account_settings.xhtml#synchronization_and_storage"/>
      </rdf:li>
      <rdf:li>
        <rdf:Description ID="Mail_and_Newsgroups:filing_messages"
          nc:name="Archiver des messages dans des dossiers"
-         nc:link="mail_help.xhtml#filing_messages_in_folders"/>
+         nc:link="mailnews_organizing.xhtml#filing_messages_in_folders"/>
      </rdf:li>
      <rdf:li>
        <rdf:Description ID="Mail_and_Newsgroups:forwarding_messages"
-         nc:name="Faire suivre un message"
-         nc:link="mail_help.xhtml#forwarding_a_message"/>
+         nc:name="Transférer un message"
+         nc:link="mailnews_using_mail.xhtml#forwarding_a_message"/>
      </rdf:li>
      <rdf:li>
        <rdf:Description ID="Mail_and_Newsgroups:general_preferences"
          nc:name="Préférences de Courrier &amp; Groupes"
-         nc:link="mail_help.xhtml#mail_and_newsgroup_preferences"/>
+         nc:link="mailnews_preferences.xhtml#mail_and_newsgroup_preferences"/>
      </rdf:li>
      <rdf:li>
        <rdf:Description ID="Mail_and_Newsgroups:getting_new_messages"
          nc:name="Recevoir de nouveaux messages"
-         nc:link="mail_help.xhtml#getting_new_messages"/>
+         nc:link="mailnews_using_mail.xhtml#getting_new_messages"/>
      </rdf:li>
      <rdf:li>
        <rdf:Description ID="Mail_and_Newsgroups:HTML_mail_recipients"
          nc:name="Spécifier les destinataires de messages au format HTML"
-         nc:link="mail_help.xhtml#specifying_recipients_for_html_messages"/>
+         nc:link="mailnews_using_mail.xhtml#specifying_recipients_for_html_messages"/>
      </rdf:li>
      <rdf:li>
        <rdf:Description ID="Mail_and_Newsgroups:HTML_mail_sending_options"
          nc:name="Choisir les options d'envoi des messages HTML"
-         nc:link="mail_help.xhtml#choosing_html_mail_sending_options"/>
+         nc:link="mailnews_using_mail.xhtml#choosing_html_mail_sending_options"/>
      </rdf:li>
      <rdf:li>
        <rdf:Description ID="Mail_and_Newsgroups:HTML_Message_Source"
          nc:name="Voir le code-source d'un message au format HTML"
-         nc:link="mail_help.xhtml#viewing_the_message_source_for_html_messages"/>
+         nc:link="mailnews_using_mail.xhtml#viewing_the_message_source_for_html_messages"/>
      </rdf:li>
      <rdf:li>
        <rdf:Description ID="Mail_and_Newsgroups:identity_settings"
          nc:name="Paramètres des comptes courrier &amp; groupes - Paramètres du compte"
-         nc:link="mail_help.xhtml#account_settings"/>
+         nc:link="mailnews_account_settings.xhtml#account_settings"/>
      </rdf:li>
      <rdf:li>
        <rdf:Description ID="Mail_and_Newsgroups:mail_window_layout"
-         nc:name="Choisir l'apparence de la fenêtre « Courrier »"
-         nc:link="mail_help.xhtml#choosing_how_you_view_the_mail_window"/>
+         nc:name="Choisir l'apparence de la fenêtre « Courrier »"
+         nc:link="mailnews_using_mail.xhtml#choosing_how_you_view_the_mail_window"/>
      </rdf:li>
      <rdf:li>
        <rdf:Description ID="Mail_and_Newsgroups:message_searching"
          nc:name="Rechercher des messages"
-         nc:link="mail_help.xhtml#searching_through_messages"/>
+         nc:link="mailnews_organizing.xhtml#searching_through_messages"/>
+     </rdf:li>
+	 <rdf:li>
+       <rdf:Description ID="Mail_and_Newsgroups:network_preferences"
+         nc:name="Préférences de Courrier &amp; Groupes - Réseau"
+         nc:link="mailnews_preferences.xhtml#network_and_storage_preferences"/>
+     </rdf:li>
+	 <rdf:li>
+       <rdf:Description ID="Mail_and_Newsgroups:offline_synchronization_settings"
+         nc:name="Paramètres de synchronisation hors connexion"
+         nc:link="mailnews_account_settings.xhtml#synchronization_and_storage"/>
      </rdf:li>
      <rdf:li>
        <rdf:Description ID="Mail_and_Newsgroups:POP_settings"
          nc:name="Paramétrage d'un serveur POP"
-         nc:link="mail_help.xhtml#pop_server_settings"/>
+         nc:link="mailnews_account_settings.xhtml#pop_server_settings"/>
      </rdf:li>
      <rdf:li>
        <rdf:Description ID="Mail_and_Newsgroups:renaming_folders"
          nc:name="Renommer un dossier"
-         nc:link="mail_help.xhtml#renaming_a_folder"/>
+         nc:link="mailnews_organizing.xhtml#renaming_a_folder"/>
      </rdf:li>
      <rdf:li>
        <rdf:Description ID="Mail_and_Newsgroups:replying_to_messages"
          nc:name="Répondre à un message"
-         nc:link="mail_help.xhtml#replying_to_a_message"/>
+         nc:link="mailnews_using_mail.xhtml#replying_to_a_message"/>
      </rdf:li>
      <rdf:li>
        <rdf:Description ID="Mail_and_Newsgroups:saving_and_printing_messages"
          nc:name="Enregistrer et imprimer des messages"
-         nc:link="mail_help.xhtml#saving_and_printing_messages"/>
+         nc:link="mailnews_using_mail.xhtml#saving_and_printing_messages"/>
      </rdf:li>
      <rdf:li>
        <rdf:Description ID="Mail_and_Newsgroups:saving_attachments"
          nc:name="Enregistrer les pièces jointes"
-         nc:link="mail_help.xhtml#saving_attachments"/>
+         nc:link="mailnews_using_mail.xhtml#saving_attachments"/>
      </rdf:li>
      <rdf:li>
        <rdf:Description ID="Mail_and_Newsgroups:saving_messages_drafts"
          nc:name="Enregistrer et éditer le brouillon d'un message"
-         nc:link="mail_help.xhtml#saving_and_editing_a_message_draft"/>
+         nc:link="mailnews_using_mail.xhtml#saving_and_editing_a_message_draft"/>
      </rdf:li>
      <rdf:li>
        <rdf:Description ID="Mail_and_Newsgroups:sending_messages"
          nc:name="Envoyer des messages"
-         nc:link="mail_help.xhtml#sending_messages"/>
+         nc:link="mailnews_using_mail.xhtml#sending_messages"/>
      </rdf:li>
      <rdf:li>
        <rdf:Description ID="Mail_and_Newsgroups:sending_options"
          nc:name="Choisir les options d'envoi d'un message"
-         nc:link="mail_help.xhtml#selecting_message_sending_options"/>
+         nc:link="mailnews_using_mail.xhtml#selecting_message_sending_options"/>
      </rdf:li>
      <rdf:li>
        <rdf:Description ID="Mail_and_Newsgroups:SMTP_settings"
          nc:name="Paramètres des comptes courrier &amp; groupes - Serveur sortant (SMTP)"
-         nc:link="mail_help.xhtml#outgoing_server"/>
+         nc:link="mailnews_account_settings.xhtml#outgoing_server"/>
      </rdf:li>
      <rdf:li>
        <rdf:Description ID="Mail_and_Newsgroups:sorting_and_threading_messages"
          nc:name="Classer et ordonner les messages"
-         nc:link="mail_help.xhtml#sorting_and_threading_messages"/>
+         nc:link="mailnews_using_mail.xhtml#sorting_and_threading_messages"/>
      </rdf:li>
      <rdf:li>
        <rdf:Description ID="Mail_and_Newsgroups:using_address_books"
          nc:name="Utiliser des carnets d'adresses"
-         nc:link="mail_help.xhtml#using_address_books"/>
+         nc:link="mailnews_addressbooks.xhtml#using_address_books"/>
      </rdf:li>
      <rdf:li>
        <rdf:Description ID="Mail_and_Newsgroups:using_attachments"
          nc:name="Utiliser les pièces jointes"
-         nc:link="mail_help.xhtml#using_attachments"/>
+         nc:link="mailnews_using_mail.xhtml#using_attachments"/>
      </rdf:li>
      <rdf:li>
        <rdf:Description ID="Mail_and_Newsgroups:using_HTML_in_messages"
          nc:name="Utiliser le HTML dans vos messages"
-         nc:link="mail_help.xhtml#using_html_in_your_messages"/>
+         nc:link="mailnews_using_mail.xhtml#using_html_in_your_messages"/>
      </rdf:li>
      <rdf:li>
        <rdf:Description ID="Mail_and_Newsgroups:viewing_attachments"
          nc:name="Voir et ouvrir les pièces jointes"
-         nc:link="mail_help.xhtml#viewing_and_opening_attachments"/>
+         nc:link="mailnews_using_mailxhtml#viewing_and_opening_attachments"/>
      </rdf:li>
      <rdf:li>
        <rdf:Description ID="Mail_and_Newsgroups:working_offline"
          nc:name="Travailler hors connexion"
-         nc:link="mail_help.xhtml#working_offline"/>
+         nc:link="mailnews_offline.xhtml#working_offline"/>
         </rdf:li>
       </rdf:Seq>
     </nc:subheadings>
@@ -940,7 +1011,12 @@
       <rdf:li>
         <rdf:Description ID="Tags"
           nc:name="Étiquettes"
-          nc:link="mail_help.xhtml#tagging_messages"/>
+          nc:link="mailnews_organizing.xhtml#tagging_messages"/>
+      </rdf:li>
+	  <rdf:li>
+       <rdf:Description ID="extensions_panel"
+         nc:name="Panneau des extensions"
+         nc:link="addons_help.xhtml#the_extensions_panel"/>
       </rdf:li>
     </rdf:Seq>
   </nc:subheadings>
@@ -952,7 +1028,7 @@
         <rdf:li>
           <rdf:Description ID="Tags:general_preferences"
             nc:name="Préférences de Courrier &amp; Groupes - Étiquettes"
-            nc:link="mail_help.xhtml#tags"/>
+            nc:link="mailnews_preferences.xhtml#tags"/>
         </rdf:li>
       </rdf:Seq>
     </nc:subheadings>
@@ -972,10 +1048,15 @@
           nc:name="Types de fichiers"
           nc:link="nav_help.xhtml#plugins_and_downloads"/>
       </rdf:li>
+	  <rdf:li>
+       <rdf:Description ID="feeds"
+         nc:name="Flux"
+         nc:link="glossary.xhtml#feed"/>
+     </rdf:li>
       <rdf:li>
         <rdf:Description ID="Newsgroups"
           nc:name="Groupes de discussion"
-          nc:link="mail_help.xhtml#getting_started_with_newsgroups"/>
+          nc:link="mailnews_newsgroups.xhtml#getting_started_with_newsgroups"/>
       </rdf:li>
     </rdf:Seq>
   </nc:subheadings>
@@ -999,12 +1080,12 @@
         <rdf:li>
           <rdf:Description ID="Newsgroups:getting_started"
             nc:name="Premiers pas dans les groupes"
-            nc:link="mail_help.xhtml#getting_started_with_newsgroups"/>
+            nc:link="mailnews_newsgroups.xhtml#getting_started_with_newsgroups"/>
         </rdf:li>
         <rdf:li>
           <rdf:Description ID="Newsgroups:server_settings"
             nc:name="Paramétrage d'un serveur de groupes"
-            nc:link="mail_help.xhtml#server_settings"/>
+            nc:link="mailnews_account_settings.xhtml#server_settings"/>
         </rdf:li>
       </rdf:Seq>
     </nc:subheadings>
@@ -1173,7 +1254,7 @@
       <rdf:li>
         <rdf:Description ID="phishing"
           nc:name="Hameçonage"
-          nc:link="mail_help.xhtml#phishing_detection"/>
+          nc:link="mailnews_organizing.xhtml#phishing_detection"/>
       </rdf:li>
       <rdf:li>
         <rdf:Description ID="history"
@@ -1198,12 +1279,12 @@
         <rdf:li>
           <rdf:Description ID="Offline:general_preferences"
             nc:name="Préférences de Courrier &amp; Groupes - Hors connexion et espace disque"
-            nc:link="mail_help.xhtml#offline_and_disk_space_preferences"/>
+            nc:link="mailnews_preferences.xhtml#network_and_storage_preferences"/>
         </rdf:li>
         <rdf:li>
           <rdf:Description ID="Offline:Mail_and_Newsgroups"
             nc:name="Travailler hors connexion"
-            nc:link="mail_help.xhtml#working_offline"/>
+            nc:link="mailnews_offline.xhtml#working_offline"/>
         </rdf:li>
       </rdf:Seq>
     </nc:subheadings>
@@ -1215,7 +1296,7 @@
         <rdf:li>
           <rdf:Description ID="HTML:editing_in_mail_messages"
             nc:name="Éditer ou insérer des éléments HTML dans les messages"
-            nc:link="mail_help.xhtml#editing_or_inserting_html_elements"/>
+            nc:link="mailnews_using_mail.xhtml#editing_or_inserting_html_elements"/>
         </rdf:li>
         <rdf:li>
           <rdf:Description ID="HTML:using_in_Composer"
@@ -1225,7 +1306,7 @@
         <rdf:li>
           <rdf:Description ID="HTML:using_in_mail_messages"
             nc:name="Utiliser le HTML dans vos messages"
-            nc:link="mail_help.xhtml#using_html_in_your_messages"/>
+            nc:link="mailnews_using_mail.xhtml#using_html_in_your_messages"/>
         </rdf:li>
       </rdf:Seq>
     </nc:subheadings>
@@ -1246,7 +1327,7 @@
       <rdf:li>
         <rdf:Description ID="IMAP"
           nc:name="IMAP"
-          nc:link="mail_help.xhtml#about_internet_message_access_protocol"/>
+          nc:link="mailnews_account_settings.xhtml#about_internet_message_access_protocol"/>
       </rdf:li>
       <rdf:li>
         <rdf:Description ID="import"
@@ -1267,11 +1348,6 @@
           nc:name="Installation de logiciels"
           nc:link="cs_nav_prefs_advanced.xhtml#software_installation"/>
       </rdf:li>
-      <rdf:li>
-        <rdf:Description ID="intermediate_server_CA_certificates"
-          nc:name="Site Web certifié par une autorité inconnue"
-          nc:link="cert_dialog_help.xhtml#web_site_certified_by_an_unknown_authority"/>
-      </rdf:li>
     </rdf:Seq>
   </nc:subheadings>
 </rdf:Description>
@@ -1282,7 +1358,7 @@
       <rdf:Seq>
         <rdf:li>
           <rdf:Description ID="images:email_and"
-            nc:name="Comment contrôler les pages Web dans les courriers ?"
+            nc:name="Comment contrôler les pages Web dans les courriers ?"
             nc:link="privacy_help.xhtml#how_can_i_control_web_pages_in_email_messages"/>
         </rdf:li>
         <rdf:li>
@@ -1310,17 +1386,17 @@
         <rdf:li>
           <rdf:Description ID="IMAP:about"
             nc:name="À propos du protocole internet d'accès aux messages (IMAP)"
-            nc:link="mail_help.xhtml#about_internet_message_access_protocol"/>
+            nc:link="mailnews_account_settings.xhtml#about_internet_message_access_protocol"/>
         </rdf:li>
         <rdf:li>
           <rdf:Description ID="IMAP:advanced_mail_settings"
             nc:name="Paramétrage avancé d'un serveur IMAP"
-            nc:link="mail_help.xhtml#advanced_imap_server_settings"/>
+            nc:link="mailnews_account_settings.xhtml#advanced_imap_server_settings"/>
         </rdf:li>
         <rdf:li>
           <rdf:Description ID="IMAP:server_settings"
             nc:name="Paramétrage d'un serveur IMAP"
-            nc:link="mail_help.xhtml#imap_server_settings"/>
+            nc:link="mailnews_account_settings.xhtml#imap_server_settings"/>
         </rdf:li>
       </rdf:Seq>
     </nc:subheadings>
@@ -1332,7 +1408,7 @@
         <rdf:li>
           <rdf:Description ID="import:address_book"
             nc:name="Importer des carnets d'adresses"
-            nc:link="mail_help.xhtml#importing_address_books"/>
+            nc:link="mailnews_addressbooks.xhtml#importing_address_books"/>
         </rdf:li>
         <rdf:li>
           <rdf:Description ID="import:bookmark_list"
@@ -1349,6 +1425,11 @@
             nc:name="Importer des LCR"
             nc:link="using_certs_help.xhtml#importing_crls"/>
         </rdf:li>
+		<rdf:li>
+		  <rdf:Description ID="import:feeds"
+			nc:name="Importer des flux"
+			nc:link="mailnews_blogs_and_feeds.xhtml#exporting_and_importing_feeds"/>
+		</rdf:li>
         <rdf:li>
           <rdf:Description ID="import:mail"
             nc:name="Importer des messages ou des parametres d'autres logiciels"
@@ -1373,7 +1454,7 @@
       <rdf:li>
         <rdf:Description ID="attaching_files_to_messages"
           nc:name="Joindre un fichier ou une page Web"
-          nc:link="mail_help.xhtml#attaching_a_file_or_web_page"/>
+          nc:link="mailnews_using_mail.xhtml#attaching_a_file_or_web_page"/>
       </rdf:li>
     </rdf:Seq>
   </nc:subheadings>
@@ -1409,7 +1490,12 @@
       <rdf:li>
         <rdf:Description ID="LDAP"
           nc:name="LDAP"
-          nc:link="mail_help.xhtml#adding_and_removing_ldap_directories"/>
+          nc:link="mailnews_addressbooks.xhtml#adding_and_removing_ldap_directories"/>
+      </rdf:li>
+	  <rdf:li>
+       <rdf:Description ID="languages_panel"
+         nc:name="Panneau des langues"
+         nc:link="addons_help.xhtml#the_languages_panel"/>
       </rdf:li>
     </rdf:Seq>
   </nc:subheadings>
@@ -1438,17 +1524,17 @@
         <rdf:li>
           <rdf:Description ID="LDAP:adding_to_address_book"
             nc:name="Ajouter et retirer des annuaires LDAP"
-            nc:link="mail_help.xhtml#adding_and_removing_ldap_directories"/>
+            nc:link="mailnews_addressbooks.xhtml#adding_and_removing_ldap_directories"/>
         </rdf:li>
         <rdf:li>
           <rdf:Description ID="LDAP:directory_server_settings"
             nc:name="Configurer un serveur d'annuaire"
-            nc:link="mail_help.xhtml#directory_server_settings"/>
+            nc:link="mailnews_addressbooks.xhtml#directory_server_settings"/>
         </rdf:li>
         <rdf:li>
           <rdf:Description ID="LDAP:global_settings"
             nc:name="Paramètres des comptes courrier &amp; groupes - Adressage"
-            nc:link="mail_help.xhtml#addressing_preferences"/>
+            nc:link="mailnews_preferences.xhtml#addressing_preferences"/>
         </rdf:li>
       </rdf:Seq>
     </nc:subheadings>
@@ -1471,6 +1557,11 @@
         <rdf:Description ID="security_modules"
           nc:name="Modules de sécurité"
           nc:link="using_certs_help.xhtml#about_security_devices_and_modules"/>
+      </rdf:li>
+	  <rdf:li>
+       <rdf:Description ID="add-ons"
+         nc:name="Modules complémentaires"
+         nc:link="addons_help.xhtml#add-ons"/>
       </rdf:li>
       <rdf:li>
         <rdf:Description ID="keywords"
@@ -1495,6 +1586,26 @@
     </rdf:Seq>
   </nc:subheadings>
 </rdf:Description>
+
+  <rdf:Description about="#feeds">
+	<nc:subheadings>
+	  <rdf:Seq><rdf:li>
+		<rdf:Description ID="feeds:subscribing"
+		  nc:name="Sabonner à un flux"
+		  nc:link="mailnews_blogs_and_feeds.xhtml#subscribing_to_blogs_and_news_feeds"/>
+	  </rdf:li>
+	  <rdf:li>
+		<rdf:Description ID="feeds:reading"
+		  nc:name="Lire un flux"
+		  nc:link="mailnews_blogs_and_feeds.xhtml#reading_blogs_and_news_feed_messages"/>
+	  </rdf:li>
+	  <rdf:li>
+		<rdf:Description ID="feeds:exporting_importing"
+		  nc:name="Exporter et importer des flux"
+		  nc:link="mailnews_blogs_and_feeds.xhtml#exporting_and_importing_feeds"/>
+	  </rdf:li></rdf:Seq>
+	</nc:subheadings>
+  </rdf:Description>
 
   <rdf:Description about="#bookmarks">
     <nc:subheadings>
@@ -1536,7 +1647,7 @@
         </rdf:li>
         <rdf:li>
           <rdf:Description ID="bookmarks:what_are_bookmarks"
-            nc:name="Que sont les marque-pages ?"
+            nc:name="Que sont les marque-pages ?"
             nc:link="customize_help.xhtml#what_are_bookmarks"/>
         </rdf:li>
       </rdf:Seq>
@@ -1592,7 +1703,7 @@
         </rdf:li>
         <rdf:li>
           <rdf:Description ID="master_password:forgetting"
-            nc:name="Que faire en cas d'oubli du mot de passe principal ?"
+            nc:name="Que faire en cas d'oubli du mot de passe principal ?"
             nc:link="using_priv_help.xhtml#what_to_do_if_you_forget_your_master_password"/>
         </rdf:li>
         <rdf:li>
@@ -1689,6 +1800,16 @@
          nc:name="Spécifier la page d'accueil"
          nc:link="customize_help.xhtml#specifying_a_starting_page"/>
      </rdf:li>
+	 <rdf:li>
+       <rdf:Description ID="browser:session_restore"
+         nc:name="Restauration de session"
+         nc:link="customize_help.xhtml#session_restore"/>
+     </rdf:li>
+     <rdf:li>
+       <rdf:Description ID="browser:crash_recovery"
+         nc:name="Récupération après un plantage"
+         nc:link="customize_help.xhtml#session_restore"/>
+     </rdf:li>
      <rdf:li>
        <rdf:Description ID="browser:start_up_components"
          nc:name="Spécifier les composants à ouvrir au lancement"
@@ -1733,7 +1854,7 @@
         </rdf:li>
         <rdf:li>
           <rdf:Description ID="Tabbed_Browsing:what_is"
-            nc:name="Qu'est-ce que la navigation par onglets ?"
+            nc:name="Qu'est-ce que la navigation par onglets ?"
             nc:link="customize_help.xhtml#what_is_tabbed_browsing"/>
         </rdf:li>
       </rdf:Seq>
@@ -1755,6 +1876,11 @@
           nc:name="OCSP"
           nc:link="using_certs_help.xhtml#how_validation_works"/>
       </rdf:li>
+	  <rdf:li>
+        <rdf:Description ID="OPML"
+          nc:name="OPML"
+          nc:link="glossary.xhtml#opml"/>
+      </rdf:li>
     </rdf:Seq>
   </nc:subheadings>
 </rdf:Description>
@@ -1771,6 +1897,11 @@
           nc:name="Page d'accueil"
           nc:link="cs_nav_prefs_navigator.xhtml#navigator"/>
       </rdf:li>
+	  <rdf:li>
+        <rdf:Description ID="plugins_panel"
+         nc:name="Panneau des plugins"
+         nc:link="addons_help.xhtml#the_plugins_panel"/>
+      </rdf:li>
       <rdf:li>
         <rdf:Description ID="settings"
           nc:name="Paramètres"/>
@@ -1778,7 +1909,7 @@
       <rdf:li>
         <rdf:Description ID="mail"
           nc:name="Paramètres de sécurité des messages"
-          nc:link="mail_help.xhtml#security"/>
+          nc:link="mailnews_account_settings.xhtml#security"/>
       </rdf:li>
       <rdf:li>
         <rdf:Description ID="Account_Settings"
@@ -1798,7 +1929,7 @@
       <rdf:li>
         <rdf:Description ID="POP"
           nc:name="POP"
-          nc:link="mail_help.xhtml#about_post_office_protocol"/>
+          nc:link="mailnews_account_settings.xhtml#about_post_office_protocol"/>
       </rdf:li>
       <rdf:li>
         <rdf:Description ID="popups"
@@ -1886,7 +2017,7 @@
         <rdf:li>
           <rdf:Description ID="settings:signed_and_encrypted mail"
             nc:name="Paramètres de chiffrement et de signature des messages"
-            nc:link="mail_help.xhtml#security"/>
+            nc:link="mailnews_account_settings.xhtml#security"/>
         </rdf:li>
         <rdf:li>
           <rdf:Description ID="settings:SSL"
@@ -1920,7 +2051,7 @@
         <rdf:li>
           <rdf:Description ID="POP:server_settings"
             nc:name="Paramétrage d'un serveur POP"
-            nc:link="mail_help.xhtml#pop_server_settings"/>
+            nc:link="mailnews_account_settings.xhtml#pop_server_settings"/>
         </rdf:li>
       </rdf:Seq>
     </nc:subheadings>
@@ -2045,11 +2176,6 @@
          nc:link="privsec_help.xhtml"/>
      </rdf:li>
      <rdf:li>
-       <rdf:Description ID="preferences:smart_browsing"
-         nc:name="Préférences du navigateur - Navigation assistée"
-         nc:link="cs_nav_prefs_navigator.xhtml#smart_browsing"/>
-     </rdf:li>
-     <rdf:li>
        <rdf:Description ID="preferences:SSL"
          nc:name="Préférences de sécurité et de confidentialité - SSL"
          nc:link="ssl_help.xhtml#privacy_and_security_preferences_ssl"/>
@@ -2090,11 +2216,6 @@
           <rdf:Description ID="profiles:renaming"
             nc:name="Renommer un profil"
             nc:link="profiles_help.xhtml#deleting_or_renaming_a_profile"/>
-        </rdf:li>
-        <rdf:li>
-          <rdf:Description ID="profiles:roaming"
-            nc:name="Utilisateur mobile"
-            nc:link="profiles_help.xhtml#roaming_profiles"/>
         </rdf:li>
       </rdf:Seq>
     </nc:subheadings>
@@ -2242,14 +2363,9 @@
           nc:name="Sécurité"/>
       </rdf:li>
       <rdf:li>
-        <rdf:Description ID="server_certificate_problems"
-          nc:name="Site Web certifié par une autorité inconnue"
-          nc:link="cert_dialog_help.xhtml#web_site_certified_by_an_unknown_authority"/>
-      </rdf:li>
-      <rdf:li>
         <rdf:Description ID="signing_email_messages"
           nc:name="Signature et chiffrement de messages"
-          nc:link="mail_sec_help.xhtml#signing_and_encrypting_messages"/>
+          nc:link="mailnews_security.xhtml#signing_and_encrypting_messages"/>
       </rdf:li>
       <rdf:li>
         <rdf:Description ID="emoticons"
@@ -2281,7 +2397,7 @@
         <rdf:li>
           <rdf:Description ID="save:messages"
             nc:name="Sauvegarder et imprimer des messages"
-            nc:link="mail_help.xhtml#saving_and_printing_messages"/>
+            nc:link="mailnews_using_mail.xhtml#saving_and_printing_messages"/>
         </rdf:li>
       </rdf:Seq>
     </nc:subheadings>
@@ -2293,7 +2409,7 @@
         <rdf:li>
        <rdf:Description ID="security:checking_before_sending_message"
          nc:name="Sécurité d'un message - Fenêtre de rédaction"
-         nc:link="mail_sec_help.xhtml#message_security_compose_window"/>
+         nc:link="mailnews_security.xhtml#message_security_compose_window"/>
      </rdf:li>
      <rdf:li>
        <rdf:Description ID="security:checking_for_a_web_page"
@@ -2303,7 +2419,7 @@
      <rdf:li>
        <rdf:Description ID="security:checking_for_received_messages"
          nc:name="Lire des messages signés et chiffrés"
-         nc:link="mail_sec_help.xhtml#reading_signed_and_encrypted_messages"/>
+         nc:link="mailnews_security.xhtml#reading_signed_and_encrypted_messages"/>
      </rdf:li>
      <rdf:li>
        <rdf:Description ID="security:preferences"
@@ -2320,12 +2436,12 @@
         <rdf:li>
           <rdf:Description ID="SMTP:choosing_a_different"
             nc:name="Modifier le serveur SMTP par défaut"
-            nc:link="mail_help.xhtml#account_settings"/>
+            nc:link="mailnews_account_settings.xhtml#account_settings"/>
         </rdf:li>
         <rdf:li>
           <rdf:Description ID="SMTP:server_settings"
             nc:name="Paramètres des comptes courrier &amp; groupes - Serveur sortant (SMTP)"
-            nc:link="mail_help.xhtml#outgoing_server"/>
+            nc:link="mailnews_account_settings.xhtml#outgoing_server"/>
         </rdf:li>
       </rdf:Seq>
     </nc:subheadings>
@@ -2356,10 +2472,15 @@
           nc:name="Thèmes"
           nc:link="customize_help.xhtml#changing_the_theme"/>
       </rdf:li>
+	  <rdf:li>
+		<rdf:Description ID="themes_panel"
+         nc:name="Panneau des thèmes"
+         nc:link="addons.xhtml#the_themes_panel"/>
+      </rdf:li>
       <rdf:li>
         <rdf:Description ID="Working_Offline"
           nc:name="Travailler hors connexion"
-          nc:link="mail_help.xhtml#working_offline"/>
+          nc:link="mailnews_offline.xhtml#working_offline"/>
       </rdf:li>
       <rdf:li>
         <rdf:Description ID="navigation"

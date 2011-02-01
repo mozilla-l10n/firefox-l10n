@@ -47,16 +47,6 @@
   </nc:subheadings>
 </rdf:Description>
 
-<!--<rdf:Description about="suite-toc.rdf#advanced_pref_advanced">
-  <nc:subheadings>
-    <rdf:Seq><rdf:li>
-      <rdf:Description ID="advanced_pref_system"
-        nc:name="Système"
-        nc:link="cs_nav_prefs_advanced.xhtml#system"/>
-    </rdf:li></rdf:Seq>
-  </nc:subheadings>
-</rdf:Description> -->
-
 <rdf:Description about="help-index1.rdf#browser">
   <nc:subheadings>
      <rdf:Seq><rdf:li>
@@ -118,16 +108,6 @@
        <rdf:Description ID="preferences:default_browser"
          nc:name="Préférences du navigateur par défaut"
 	 nc:link="cs_nav_prefs_navigator.xhtml#navigator"/>
-     </rdf:li></rdf:Seq>
-   </nc:subheadings>
-</rdf:Description>
-
-<rdf:Description about="help-indexAZ.rdf#s">
-   <nc:subheadings>
-     <rdf:Seq><rdf:li>
-       <rdf:Description ID="System"
-         nc:name="Préférences du système"
-	 nc:link="cs_nav_prefs_advanced.xhtml#system"/>
      </rdf:li></rdf:Seq>
    </nc:subheadings>
 </rdf:Description>

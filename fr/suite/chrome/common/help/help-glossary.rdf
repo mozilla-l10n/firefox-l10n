@@ -57,14 +57,15 @@
         <rdf:li> <rdf:Description nc:name="Déchiffrement" nc:link="glossary.xhtml#decryption"/> </rdf:li>
         <rdf:li> <rdf:Description nc:name="Détection de falsification" nc:link="glossary.xhtml#tamper_detection"/> </rdf:li>
         <rdf:li> <rdf:Description nc:name="Espionnage" nc:link="glossary.xhtml#eavesdropping"/> </rdf:li>
+		<rdf:li> <rdf:Description nc:name="Extension" nc:link="glossary.xhtml#extension"/> </rdf:li>
         <rdf:li> <rdf:Description nc:name="FAI" nc:link="glossary.xhtml#isp"/> </rdf:li>
         <rdf:li> <rdf:Description nc:name="FIPS PUBS 140-1" nc:link="glossary.xhtml#fips_pubs_140-1"/> </rdf:li>
+		<rdf:li> <rdf:Description nc:name="Flux" nc:link="glossary.xhtml#feed"/> </rdf:li>
         <rdf:li> <rdf:Description nc:name="FTP" nc:link="glossary.xhtml#ftp"/> </rdf:li>
         <rdf:li> <rdf:Description nc:name="Gestionnaire de certificats" nc:link="glossary.xhtml#certificate_manager"/> </rdf:li>
         <rdf:li> <rdf:Description nc:name="Gestionnaire de cookies" nc:link="glossary.xhtml#cookie_manager"/> </rdf:li>
         <!--<rdf:li> <rdf:Description nc:name="Gestionnaire de formulaires" nc:link="glossary.xhtml#form_manager"/> </rdf:li>-->
         <rdf:li> <rdf:Description nc:name="Gestionnaire de mots de passe" nc:link="glossary.xhtml#password_manager"/> </rdf:li>
-        <rdf:li> <rdf:Description nc:name="Gopher" nc:link="glossary.xhtml#gopher"/> </rdf:li>
         <rdf:li> <rdf:Description nc:name="Hameçonage" nc:link="glossary.xhtml#phishing"/> </rdf:li>
         <rdf:li> <rdf:Description nc:name="HTTP" nc:link="glossary.xhtml#http"/> </rdf:li>
         <rdf:li> <rdf:Description nc:name="HTTPS" nc:link="glossary.xhtml#https"/> </rdf:li>
@@ -85,6 +86,7 @@
         <rdf:li> <rdf:Description nc:name="LDAP" nc:link="glossary.xhtml#ldap"/> </rdf:li>
         <rdf:li> <rdf:Description nc:name="Liste de certificats révoqués (LCR)" nc:link="glossary.xhtml#crl"/> </rdf:li>
         <rdf:li> <rdf:Description nc:name="Marque-page" nc:link="glossary.xhtml#bookmark"/> </rdf:li>
+		<rdf:li> <rdf:Description nc:name="Module complémentaire" nc:link="glossary.xhtml#add-on"/> </rdf:li>
         <rdf:li> <rdf:Description nc:name="Module de sécurité" nc:link="glossary.xhtml#security_module"/> </rdf:li>
         <rdf:li> <rdf:Description nc:name="Module PKCS #11" nc:link="glossary.xhtml#pkcs_11_module"/> </rdf:li>
         <rdf:li> <rdf:Description nc:name="Mot de passe de sauvegarde de certificat" nc:link="glossary.xhtml#certificate_backup_password"/> </rdf:li>
@@ -96,9 +98,12 @@
         <rdf:li> <rdf:Description nc:name="Objet signé" nc:link="glossary.xhtml#object_signing"/> </rdf:li>
         <rdf:li> <rdf:Description nc:name="OCSP" nc:link="glossary.xhtml#ocsp"/> </rdf:li>
 <!--        <rdf:li> <rdf:Description nc:name="P3P" nc:link="glossary.xhtml#p3p"/> </rdf:li> -->
+		<rdf:li> <rdf:Description nc:name="OPML" nc:link="glossary.xhtml#opml"/> </rdf:li>
+
         <rdf:li> <rdf:Description nc:name="Page d'accueil" nc:link="glossary.xhtml#home_page"/> </rdf:li>
         <rdf:li> <rdf:Description nc:name="Page Web" nc:link="glossary.xhtml#web_page"/> </rdf:li>
         <rdf:li> <rdf:Description nc:name="Paire de clés croisées" nc:link="glossary.xhtml#dual_key_pairs"/> </rdf:li>
+		<rdf:li> <rdf:Description nc:name="paquet de langue" nc:link="glossary.xhtml#language_pack"/> </rdf:li>
         <rdf:li> <rdf:Description nc:name="Périphérique de sécurité" nc:link="glossary.xhtml#security_device"/> </rdf:li>
         <rdf:li> <rdf:Description nc:name="Périphérique de sécurité logiciel" nc:link="glossary.xhtml#software_security_device"/> </rdf:li>
         <rdf:li> <rdf:Description nc:name="PKCS #11" nc:link="glossary.xhtml#pkcs_11"/> </rdf:li>
@@ -106,11 +111,11 @@
         <rdf:li> <rdf:Description nc:name="PKI" nc:link="glossary.xhtml#pki"/> </rdf:li>
         <rdf:li> <rdf:Description nc:name="Plugin" nc:link="glossary.xhtml#plugin"/> </rdf:li>
         <rdf:li> <rdf:Description nc:name="POP" nc:link="glossary.xhtml#pop"/> </rdf:li>
-        <rdf:li> <rdf:Description nc:name="Profile distant" nc:link="glossary.xhtml#roaming_profile"/> </rdf:li>
         <rdf:li> <rdf:Description nc:name="Proxy" nc:link="glossary.xhtml#proxy"/> </rdf:li>
         <rdf:li> <rdf:Description nc:name="Renouvellement de certificat" nc:link="glossary.xhtml#certificate_renewal"/> </rdf:li>
         <rdf:li> <rdf:Description nc:name="Représentation frauduleuse" nc:link="glossary.xhtml#misrepresentation"/> </rdf:li>
         <rdf:li> <rdf:Description nc:name="Répudiation impossible" nc:link="glossary.xhtml#nonrepudiation"/> </rdf:li>
+		<rdf:li> <rdf:Description nc:name="RSS" nc:link="glossary.xhtml#rss"/> </rdf:li>
         <rdf:li> <rdf:Description nc:name="Serveur" nc:link="glossary.xhtml#server"/> </rdf:li>
         <rdf:li> <rdf:Description nc:name="Signature" nc:link="glossary.xhtml#fingerprint"/> </rdf:li>
         <rdf:li> <rdf:Description nc:name="Signature de certificat" nc:link="glossary.xhtml#certificate_fingerprint"/> </rdf:li>
@@ -122,6 +127,7 @@
         <rdf:li> <rdf:Description nc:name="TCP" nc:link="glossary.xhtml#tcp_ip"/> </rdf:li>
         <rdf:li> <rdf:Description nc:name="TCP/IP" nc:link="glossary.xhtml#tcp"/> </rdf:li>
         <rdf:li> <rdf:Description nc:name="TLS" nc:link="glossary.xhtml#tls"/> </rdf:li>
+		<rdf:li> <rdf:Description nc:name="Thème" nc:link="glossary.xhtml#theme"/> </rdf:li>
         <rdf:li> <rdf:Description nc:name="URL" nc:link="glossary.xhtml#url"/> </rdf:li>
         <rdf:li> <rdf:Description nc:name="Usurpation" nc:link="glossary.xhtml#spoofing"/> </rdf:li>
         <rdf:li> <rdf:Description nc:name="Utilitaire" nc:link="glossary.xhtml#helper_application"/> </rdf:li>

@@ -1,0 +1,1672 @@
+<?xml version="1.0" encoding="utf-8"?>
+<!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.1//EN"
+  "http://www.w3.org/TR/xhtml11/DTD/xhtml11.dtd"[
+  <!ENTITY % brandDTD SYSTEM "chrome://branding/locale/brand.dtd" >
+  %brandDTD;
+  <!ENTITY % utilityOverlayDTD SYSTEM "chrome://communicator/locale/utilityOverlay.dtd" >
+  %utilityOverlayDTD;
+  <!ENTITY % tasksOverlayDTD SYSTEM "chrome://communicator/locale/tasksOverlay.dtd" >
+  %tasksOverlayDTD;
+  <!ENTITY % preferencesDTD SYSTEM "chrome://communicator/locale/pref/preferences.dtd" >
+  %preferencesDTD;
+  <!ENTITY % messengerDTD SYSTEM "chrome://messenger/locale/messenger.dtd" >
+  %messengerDTD;
+  <!ENTITY % mailPrefsOverlayDTD SYSTEM "chrome://messenger/locale/mailPrefsOverlay.dtd" >
+  %mailPrefsOverlayDTD;
+  <!ENTITY % AccountManagerDTD SYSTEM "chrome://messenger/locale/AccountManager.dtd" >
+  %AccountManagerDTD;
+  <!ENTITY % AccountWizardDTD SYSTEM "chrome://messenger/locale/AccountWizard.dtd" >
+  %AccountWizardDTD;
+  <!ENTITY % am-mainDTD SYSTEM "chrome://messenger/locale/am-main.dtd" >
+  %am-mainDTD;
+  <!ENTITY % am-addressingDTD SYSTEM "chrome://messenger/locale/am-addressing.dtd" >
+  %am-addressingDTD;
+  <!ENTITY % am-copiesDTD SYSTEM "chrome://messenger/locale/am-copies.dtd" >
+  %am-copiesDTD;
+  <!ENTITY % am-junkDTD SYSTEM "chrome://messenger/locale/am-junk.dtd" >
+  %am-junkDTD;
+  <!ENTITY % am-offlineDTD SYSTEM "chrome://messenger/locale/am-offline.dtd" >
+  %am-offlineDTD;
+  <!ENTITY % am-server-topDTD SYSTEM "chrome://messenger/locale/am-server-top.dtd" >
+  %am-server-topDTD;
+  <!ENTITY % am-server-advancedDTD SYSTEM "chrome://messenger/locale/am-server-advanced.dtd" >
+  %am-server-advancedDTD;
+  <!ENTITY % am-smimeDTD SYSTEM "chrome://messenger/locale/am-smime.dtd" >
+  %am-smimeDTD;
+  <!ENTITY % am-serverwithnoidentitiesDTD SYSTEM "chrome://messenger/locale/am-serverwithnoidentities.dtd" >
+  %am-serverwithnoidentitiesDTD;
+  <!ENTITY % am-advancedDTD SYSTEM "chrome://messenger/locale/am-advanced.dtd" >
+  %am-advancedDTD;
+  <!ENTITY % am-mdnDTD SYSTEM "chrome://messenger/locale/am-mdn.dtd" >
+  %am-mdnDTD;
+  <!ENTITY % folderPropsDTD SYSTEM "chrome://messenger/locale/folderProps.dtd" >
+  %folderPropsDTD;
+  <!ENTITY % pref-addressingDTD SYSTEM "chrome://messenger/locale/addressbook/pref-addressing.dtd" >
+  %pref-addressingDTD;
+  <!ENTITY % pref-tagsDTD SYSTEM "chrome://messenger/locale/pref-tags.dtd" >
+  %pref-tagsDTD;
+  <!ENTITY % pref-formattingDTD SYSTEM "chrome://messenger/locale/messengercompose/pref-formatting.dtd" >
+  %pref-formattingDTD;
+  <!ENTITY % pref-composing_messagesDTD SYSTEM "chrome://messenger/locale/messengercompose/pref-composing_messages.dtd" >
+  %pref-composing_messagesDTD;
+  <!ENTITY % pref-mailnewsDTD SYSTEM "chrome://messenger/locale/pref-mailnews.dtd" >
+  %pref-mailnewsDTD;
+  <!ENTITY % pref-notificationsDTD SYSTEM "chrome://messenger/locale/pref-notifications.dtd" >
+  %pref-notificationsDTD;
+  <!ENTITY % pref-junkDTD SYSTEM "chrome://messenger/locale/pref-junk.dtd" >
+  %pref-junkDTD;
+  <!ENTITY % pref-directoryDTD SYSTEM "chrome://messenger/locale/addressbook/pref-directory.dtd" >
+  %pref-directoryDTD;
+  <!ENTITY % pref-directory-addDTD SYSTEM "chrome://messenger/locale/addressbook/pref-directory-add.dtd" >
+  %pref-directory-addDTD;
+  <!ENTITY % pref-receiptsDTD SYSTEM "chrome://messenger/locale/pref-receipts.dtd" >
+  %pref-receiptsDTD;
+  <!ENTITY % pref-offlineDTD SYSTEM "chrome://messenger/locale/pref-offline.dtd" >
+  %pref-offlineDTD;
+  <!ENTITY % pref-viewing_messagesDTD SYSTEM "chrome://messenger/locale/pref-viewing_messages.dtd" >
+  %pref-viewing_messagesDTD;
+  <!ENTITY % pref-character_encodingDTD SYSTEM "chrome://messenger/locale/pref-character_encoding.dtd" >
+  %pref-character_encodingDTD;
+  <!ENTITY % smtpEditOverlayDTD SYSTEM "chrome://messenger/locale/smtpEditOverlay.dtd" >
+  %smtpEditOverlayDTD;
+  <!ENTITY % msgHdrViewOverlayDTD SYSTEM "chrome://messenger/locale/msgHdrViewOverlay.dtd" >
+  %msgHdrViewOverlayDTD;
+  <!ENTITY % msgViewPickerOverlayDTD SYSTEM "chrome://messenger/locale/msgViewPickerOverlay.dtd" >
+  %msgViewPickerOverlayDTD;
+  <!ENTITY % msgCompSMIMEOverlayDTD SYSTEM "chrome://messenger-smime/locale/msgCompSMIMEOverlay.dtd"
+>
+  %msgCompSMIMEOverlayDTD;
+  <!ENTITY % abNewCardDialogDTD SYSTEM "chrome://messenger/locale/addressbook/abNewCardDialog.dtd" >
+  %abNewCardDialogDTD;
+  <!ENTITY % abCardOverlayDTD SYSTEM "chrome://messenger/locale/addressbook/abCardOverlay.dtd" >
+  %abCardOverlayDTD;
+  <!ENTITY % abCardViewOverlayDTD SYSTEM "chrome://messenger/locale/addressbook/abCardViewOverlay.dtd" >
+  %abCardViewOverlayDTD;
+  <!ENTITY % abMainWindowDTD SYSTEM "chrome://messenger/locale/addressbook/abMainWindow.dtd" >
+  %abMainWindowDTD;
+  <!ENTITY % am-newsblogDTD SYSTEM "chrome://messenger-newsblog/locale/am-newsblog.dtd" >
+  %am-newsblogDTD;
+]>
+
+<html xmlns="http://www.w3.org/1999/xhtml" lang="fr" xml:lang="fr">
+<head>
+  <title>Utiliser &brandShortName; Courrier et Groupes</title>
+  <meta http-equiv="Content-Type" content="application/xhtml; charset=utf-8" />
+  <!--<link rel="stylesheet" href="content_style.css" type="text/css" />-->
+  <link rel="stylesheet" type="text/css" href="helpFileLayout.css" />
+  <link rel="stylesheet" type="text/css" href="chrome://communicator/skin/smileys.css"/>
+</head>
+
+<body>
+
+  <h1 id="reading_messages">Lire les messages</h1>
+
+  <div class="contentsBox">
+    <p>Dans cette section&#160;:</p>
+
+    <ul>
+      <li><a href="#getting_new_messages">Recevoir de nouveaux
+      messages</a></li>
+
+      <li><a href="#choosing_how_you_view_the_mail_window">Choisir l'apparence
+      de la fenêtre Courrier</a></li>
+
+      <li><a href="#sorting_and_threading_messages">Classer et ordonner les
+      messages</a></li>
+
+      <li><a href="#saving_and_printing_messages">Enregistrer et imprimer des
+      messages</a></li>
+
+      <li><a href="#controlling_images_scripts_and_plug-ins">Contrôler
+      les images, scripts et plugins</a></li>
+    </ul>
+  </div>
+
+  <h2 id="getting_new_messages">Recevoir de nouveaux messages</h2>
+
+  <p>Pour un compte IMAP, vous pouvez les collecter automatiquement et les
+  afficher dans le dossier <q>Courrier entrant</q> en lançant &brandShortName;
+  Courrier &amp; Groupes et en sélectionnant le <q>Courrier entrant</q>
+  d'un compte IMAP.</p>
+
+  <p>Pour un compte POP, il vous faut sélectionner le dossier
+  <q>Courrier entrant</q> et cliquer sur <q>Relever</q> pour collecter vos
+  messages. Par défaut, quand vous collectez vos messages depuis votre
+  compte POP, les messages sont téléchargés en entier puis
+  effacés du serveur POP. Vous avez la
+  possibilité de <a href="mailnews_account_settings.xhtml#pop_server_settings">changer les
+  paramètres de votre serveur POP</a> pour ne récupérer
+  que les en-têtes et/ou laisser une copie des messages sur le
+  serveur.</p>
+
+  <p class="rediger">Pour les nouveaux comptes, développez la liste des comptes de groupes lancera
+  automatiquement la relève des nouveaux éléments, de la même manière que la sélection d'un seul
+  groupe de discussion. Lorsque vous lisez un groupe de discussion, vous pouvez forcer la relève des
+  nouveaux éléments en cliquant sur <q>Relever les nouveaux messages</q>.</p>
+
+  <p class="rediger">Pour les comptes Blogs &amp; nouvelles, la première fois que vous développez le
+  compte, &brandShortName; relèvera les nouveaux éléments. Vous pouvez forcer la relève des nouveaux
+  éléments en cliquant sur <q>Relever les nouveaux messages</q>.</p>
+
+<p>Vous pouvez aussi configurer &brandShortName; Courrier &amp; Groupes pour qu'il
+  collecte les nouveaux messages au démarrage et qu'il vérifie
+  à intervalles réguliers s'il n'y a pas de nouveaux
+  messages.</p>
+
+  <dl class="gallery">
+    <dt><img src="images/mail_newmail_alert.png" alt=
+      "icône de courrier et groupes" /></dt>
+
+    <dd>Icône de Courrier &amp; Groupes</dd>
+  </dl>
+
+  <p>Quand de nouveaux messages sont arrivés, l'icône dans la
+  barre d'état affiche une flèche verte.</p>
+
+  <dl class="gallery">
+    <dt><img src="images/task_newmail.png" alt=
+      "icône de notification de nouveaux messages" /></dt>
+
+    <dd>Notification de nouveaux messages</dd>
+  </dl>
+
+  <p>Pour configurer &brandShortName; Courrier &amp; Groupes afin qu'il vérifie
+  automatiquement s'il y a des nouveaux messages, ouvrez la fenêtre
+  <q>Courrier</q>&#160;:</p>
+
+  <ol>
+    <li>Ouvrez le menu <q>&editMenu.label;</q> et choisissez <q>&accountManagerCmd.label;</q>. La fenêtre
+    <q>&accountManagerTitle.label;</q> s'affiche.</li>
+
+    <li>Si vous avez plusieurs comptes, sélectionnez-en un et cliquez
+    sur la catégorie <q>Paramètres serveur</q>
+    correspondante.</li>
+
+    <li>Choisissez maintenant une des deux options suivantes&#160;:
+
+      <dl>
+        <dt>&loginAtStartup.label;&#160;:</dt>
+
+        <dd>Sélectionnez cette case si vous voulez vérifier les
+        nouveau messages de ce compte automatiquement lorsque Courrier &amp;
+        Groupes démarre. Pour les comptes POP, &brandShortName; vérifie la
+        présence de nouveaux messages, mais ne les
+        télécharge pas tant que vous n'avez pas cliqué sur
+        <q>Relever</q> ou choisi <q>&downloadOnBiff.label;</q>.</dd>
+
+        <dt>&biffStart.label; [__] &biffEnd.label;&#160;:</dt>
+
+        <dd>Sélectionnez cette case si vous voulez définir un
+        intervalle de temps entre deux vérifications. Vous pouvez aussi
+        vérifier à tout moment si vous n'avez pas de nouveau
+        message en cliquant sur <q>Relever</q>.</dd>
+      </dl>
+    </li>
+
+    <li>Cliquez sur <q>OK</q>. Vos paramètres s'appliqueront au prochain
+    lancement de &brandShortName; Courrier &amp; Groupes.</li>
+  </ol>
+
+  <p>Pour demander à &brandShortName; Courrier &amp; Groupes de jouer un son ou
+  d'afficher un avertissement lorsque vous recevez un nouveau message, voir la
+  section <a href="mailnews_preferences.xhtml#mail_and_newsgroups">Définition des
+  préférences générales de Courrier &amp;
+  Groupes</a>.</p>
+
+  <p>Vous pouvez de toute façon collecter vos nouveaux messages à
+  tout moment. Pour recevoir les messages du compte courrier ou groupes
+  actuellement sélectionné, vous pouvez&#160;:</p>
+
+  <ul>
+    <li>Cliquer sur <q>Relever</q> dans la barre d'outils.
+
+      <p>ou</p>
+    </li>
+
+    <li>Ouvrir le menu <q>&fileMenu.label;</q> et choisir <q>Relever les nouveaux
+    messages</q>.</li>
+  </ul>
+
+  <p>Pour recevoir les nouveaux messages de tous les comptes, ouvrez la
+  fenêtre <q>Courrier</q>&#160;:</p>
+
+  <ol>
+    <li>Cliquez sur le triangle à côté du bouton
+    <q>Relever</q> dans la barre d'outils.</li>
+
+    <li>Choisissez <q>&getAllNewMsgCmd.label;</q>. &brandShortName; Courrier
+    &amp; Groupes collecte alors les nouveaux messages de tous les comptes de
+    messageries.
+
+      <p>Si vous n'êtes pas déjà connecté à
+      un compte courrier, &brandShortName; Courrier &amp; Groupes vous demandera d'abord
+      de saisir votre nom d'utilisateur et votre mot de passe avant de
+      collecter les messages de ce compte. Si votre nom d'utilisateur et votre
+      mot de passe ont été mémorisés par le
+      gestionnaire de mots de passe, &brandShortName; Courrier &amp; Groupes ne vous
+      demandera pas cette information.</p>
+    </li>
+  </ol>
+
+  <p><strong>Remarque</strong>&#160;: vous pouvez également ouvrir le
+  menu <q>&fileMenu.label;</q> (dans la fenêtre <q>Courrier</q>) et choisir
+  <q>&getNewMsgForCmd.label;</q>.</p>
+
+  <p>Pour recevoir les nouveaux messages d'un compte courrier
+  spécifique, ouvrez la fenêtre <q>Courrier</q>&#160;:</p>
+
+  <ol>
+    <li>Cliquez sur le triangle à côté de <q>Relever</q>
+    dans la barre d'outils.</li>
+
+    <li>Choisissez le compte pour lequel vous voulez collecter les
+    messages.</li>
+  </ol>
+
+  <p><strong>Remarque</strong>&#160;: &brandShortName; Courrier &amp; Groupes vous
+  demande votre mot de passe la première fois que vous collectez vos
+  messages pour un compte donné. Vous pouvez à ce
+  moment-là choisir si &brandShortName; Courrier &amp; Groupes peut
+  mémoriser votre mot de passe dans le gestionnaire de mots de
+  passe.</p>
+
+  <p>Le gestionnaire de mots de passe peut enregistrer tous vos noms
+  d'utilisateur et mots de passe. Pour plus d'informations, voir la section
+  <a href="using_priv_help.xhtml#using_the_password_manager">Utiliser le gestionnaire de
+  mots de passe</a>.</p>
+
+  <p>[&#160;<a href="#reading_messages">Retour au début de la
+  section</a>&#160;]</p>
+
+  <h2 id="choosing_how_you_view_the_mail_window">Choisir l'apparence de la
+  fenêtre <q>Courrier</q></h2>
+
+  <p>Vous pouvez personnaliser l'apparence de la fenêtre
+  <q>Courrier</q>&#160;:</p>
+
+  <ul>
+    <li>Ouvrez le menu <q>&viewMenu.label;</q> puis <q>Barre d'outils</q> et
+    choisissez les barres d'outils à afficher&#160;: <q>&showMessengerToolbarCmd.label;</q> ou barre d'état. Vous pouvez
+    aussi afficher ou masquer le volet d'affichage des messages.</li>
+    <!--<li>Ouvrez le menu <q>&viewMenu.label;</q> et désélectionnez la Barre pour la cacher.</li>-->
+
+    <li>Étendez et réduisez n'importe quel volet pour basculer
+    entre les modes <q>trois panneaux</q> et <q>deux panneaux</q>.<!-- Choisissez
+    une <a href="#windows">vue par défaut</a> dans le panneau des
+    préférences Courrier et Groupes. Si vous changez la vue par
+    défaut, vous devez quitter &brandShortName; Courrier &amp; Groupes puis le
+    redémarrer pour que vos changements prennent effet.--></li>
+  </ul>
+
+  <p>[&#160;<a href="#reading_messages">Retour au début de la
+  section</a>&#160;]</p>
+
+  <h2 id="sorting_and_threading_messages">Classer et ordonner les messages</h2>
+
+  <p>Pour ordonner les messages par catégorie (sujet, expéditeur,
+  date ou priorité), ouvrez la fenêtre <q>Courrier</q>&#160;:</p>
+
+  <ul>
+    <li>Cliquez sur la colonne correspondant au type de tri que vous voulez
+    faire dans la liste des messages. Vous pouvez également ouvrir le
+    menu <q>&viewMenu.label;</q>, choisir <q>&sortMenu.label;</q>, puis sélectionnez
+    la colonne correspondant au type de tri que vous désirez
+    obtenir.</li>
+  </ul>
+
+  <p>Pour réorganiser l'ordre des colonnes, ouvrez la fenêtre
+  <q>Courrier</q>&#160;:</p>
+
+  <ul>
+    <li>Cliquez et déplacez le titre de la colonne à gauche ou
+    à droite pour la déplacer.</li>
+  </ul>
+
+  <p class="rediger">Pour changer les colonnes affichées, rendez-vous dans la fenêtre
+  <q>Courrier</q>&#160;:</p>
+
+  <ul class="rediger">
+    <li>Cliquez sur l'icône <q>Choisir les colonnes à afficher</q> <img src="images/columns.png" alt="" />
+    et sélectionnez la colonne à ajouter ou enlever de la liste.</li>
+  </ul>
+
+  <p>Pour regrouper les messages par sujet, de manière à ce que
+  chaque message soit suivi de ses réponses&#160;:</p>
+
+  <ul>
+    <li>Cliquez sur le bouton à la gauche des colonnes <q>Sujet</q>,
+    <q>Expéditeur</q> et <q>Date</q>. Vous pouvez également
+    ouvrir le menu <q>&viewMenu.label;</q>, choisir <q>&sortMenu.label;</q>, puis
+    sélectionner <q>&sortBySubjectCmd.label;</q>.</li>
+  </ul>
+
+  <table>
+    <caption>
+      Bouton de tri par fil de discussion
+    </caption>
+
+    <tr>
+      <td><img src="images/threadbutton.png" alt=
+      "ordonnancement des messages" /></td>
+    </tr>
+  </table>
+
+  <p><strong>Astuces</strong>&#160;:</p>
+
+  <ul>
+    <li>Pour vous aider à identifier les messages non lus lorsque des
+    messages dans un même fil ont été
+    précédemment lus, &brandShortName; Courrier &amp; Groupes souligne le
+    message ouvrant le fil de discussion.</li>
+
+    <li>Le bouton <q>Discussion</q> ordonne les fils automatiquement
+    d'après l'âge des messages. Si vous désirez utiliser un
+    autre critère de classement, ouvrez le menu <q>&viewMenu.label;</q> et
+    sélectionnez l'option voulue à partir du sous-menu <q>Trier
+    par</q>.</li>
+
+    <li class="rediger">Sélectionnez <q>&preserveThreading.label;</q>
+    dans les <a href="#mail_and_newsgroups">Préférences de courrier et groupes de discussion</a>
+    si vous voulez que &brandShortName; conserve le fil des discussions quand vous cliquez sur les titres de colonnes
+    pour trier vos messages. Le bouton des discussions bascule entre affichage groupé par fil et non
+    groupé dans ce mode. Si <q>&preserveThreading.label;</q> n'est pas
+    sélectionné, &brandShortName; affiche automatiquement les messages non groupés par fil quand vous
+    triez en cliquant sur les titres de colonnes.</li>
+
+  </ul>
+
+  <p>[&#160;<a href="#reading_messages">Retour au début de la
+  section</a>&#160;]</p>
+
+  <h2 id="saving_and_printing_messages">Enregistrer et imprimer des
+  messages</h2>
+
+  <p>Pour enregistrer un message au format texte, HTML ou Outlook
+  Express&#160;:</p>
+
+  <ol>
+    <li>Sélectionnez le message dans la fenêtre
+    <q>Courrier</q>.</li>
+
+    <li>Ouvrez le menu <q>&fileMenu.label;</q>, choisissez <q>&saveAsMenu.label;</q> puis
+    <q>&saveAsFileCmd.label;</q>.</li>
+
+    <li>Choisissez un type de fichier (HTML, texte ou fichier de courrier).
+    Choisissez <q>fichier de courrier</q> si vous souhaitez pouvoir ouvrir le
+    message avec Microsoft Outlook ou Microsoft Outlook Express.</li>
+
+    <li>Modifiez l'extension du nom de fichier pour qu'il se termine en .html,
+    .txt ou .eml, selon le type de fichier qui vous avez choisi à
+    l'étape précédente.</li>
+
+    <li>Choisissez un emplacement, puis cliquez sur <q>Enregistrer</q>.</li>
+  </ol>
+
+  <p>Pour imprimer un message sélectionné&#160;:</p>
+
+  <ul>
+    <li>Cliquez sur <q>Imprimer</q>.</li>
+  </ul>
+
+  <p>[&#160;<a href="#reading_messages">Retour au début de la
+  section</a>&#160;]</p>
+
+  <h2 id="controlling_images_scripts_and_plug-ins">Contrôler les images,
+  scripts et plugins</h2>
+
+  <p class="rediger">Par défaut, les images et autres pièces
+  jointes distantes ne sont pas visibles dans les messages que vous recevez,
+  à l'exception des messages provenant de personnes autorisées
+  présentes dans votre carnet d'adresses personnel. Pour modifier les
+  paramètres d'affichage des pièces jointes, suivez ces
+  étapes&#160;:</p>
+
+  <ol>
+    <li>Ouvrez le menu <q><span class="mac">SeaMonkey</span><span
+    class="noMac">&editMenu.label;</span></q>
+    et choisissez <q>&preferencesCmd.label;</q>.</li>
+
+    <li>Sous la catégorie <q>Confidentialité et
+    Sécurité</q>, cliquez sur <q>Images</q>. Si aucune
+    sous-catégorie n'est visible, double-cliquez sur
+    <q>Confidentialité et Sécurité</q> pour
+    développer la liste.</li>
+
+    <li class="rediger">Dans la section Générale, vous pouvez faire :
+
+      <dl>
+
+        <dt>Bloquer les images et autres contenus depuis les sources distantes</dt>
+		
+        <dd>Décocher cette case pour autoriser tout le contenu distant.</dd>
+
+      </dl>
+
+    </li>
+
+    <li>Cliquez sur <q>OK</q> pour valider vos changements.</li>
+  </ol>
+
+  <p><strong>Note</strong>&#160;: Voir <q>&allowRemoteContent1.label;</q> <a
+href="mailnews_addressbooks.xhtml#creating_a_new_address_book_card">Créer
+  une fiche de carnet d'adresses</a> pour plus de détails sur la manière
+  de définir quels expéditeurs seront autorisés à
+  afficher du contenu distant.</p>
+
+  <p>Par défaut, les plugins ne sont pas activés
+  pour la messagerie. Pour modifier ces paramètres&#160;:</p>
+
+  <ol>
+    <li>Ouvrez le menu <q><span class="mac">&brandShortName;</span><span
+    class="noMac">&editMenu.label;</span></q> et choisissez
+    <q>&preferencesCmd.label;</q>.</li>
+
+    <li>Sous la catégorie <q>Avancées</q>, cliquez sur <q>Scripts
+    et plugins</q>. Si aucune sous-catégories n'est visible,
+    double-cliquez sur <q>Avancées</q> pour développer la
+    liste.</li>
+
+    <li>Sous <q>Activer les plugins pour</q>, cochez <q>le Courrier et
+    les groupes</q> pour désactiver les plugins.</li>
+
+    <li>Cliquez sur <q>OK</q> pour valider vos changements</li>
+  </ol>
+
+  <p>[&#160;<a href="#reading_messages">Retour au début de la
+  section</a>&#160;]</p>
+
+  <h1 id="sending_messages">Envoyer des messages</h1>
+
+  <div class="contentsBox">
+    <p>Dans cette section&#160;:</p>
+
+    <ul>
+      <li><a href="#composing_mail_and_newsgroup_messages">Écrire des
+      messages pour le courrier ou les groupes</a></li>
+
+      <li><a href="#using_the_message_composition_window">Utiliser la
+      fenêtre de rédaction des messages</a></li>
+
+      <li><a href="#addressing_a_message">Choisir le destinataire d'un
+      message</a></li>
+
+      <li><a href="#selecting_message_sending_options">Choisir les options
+      d'envoi d'un message</a></li>
+
+      <li><a href="#replying_to_a_message">Répondre à un
+      message</a></li>
+
+      <li><a href="#forwarding_a_message">Transférer un message</a></li>
+
+      <li><a href="#confirming_that_your_message_was_opened">Accusés de
+      réception d'un message</a></li>
+
+      <li><a href="#saving_and_editing_a_message_draft">Enregistrer et
+      éditer le brouillon d'un message</a></li>
+
+      <li><a href="#creating_and_using_templates">Créer et utiliser des
+      modèles de message</a></li>
+    </ul>
+  </div>
+
+  <h2 id="composing_mail_and_newsgroup_messages">Écrire des messages
+  pour le courrier ou les groupes</h2>
+
+  <p>Voici comment choisir le destinataire, écrire ou répondre
+  à un message ou en envoyer un nouveau&#160;:</p>
+
+  <ul>
+    <li>Dans n'importe quelle fenêtre de &brandShortName;, ouvrez le menu
+    <q>&fileMenu.label;</q> et faites <q>&newMenu.label;</q> puis <q>&newNewMsgCmd.label;</q>. Vous pouvez
+    aussi cliquer directement sur <q>Nouveau</q> dans la barre d'outils de
+    &brandShortName; Courrier &amp; Groupes.</li>
+
+    <li>Quand vous visualisez un message, cliquez sur <q>&replyMsgCmd.label;</q>,
+    <q>&forwardMsgCmd.label;</q> ou <q>&replyToAllMsgCmd.label;</q> dans la barre
+    d'outils <q>Courrier</q>.</li>
+
+    <li>Dans le carnet d'adresses, sélectionnez une adresse puis cliquez
+    sur <q>Rédiger</q>.</li>
+  </ul>
+
+  <p><strong>Astuce</strong>&#160;: dans la boîte de dialogue
+  <q>&accountManagerTitle.label; <a href=
+  "mailnews_account_settings.xhtml#addressing">&addressing.label;</a></q> du menu
+  <q>&editMenu.label;</q>, vous pouvez spécifier quel éditeur
+  (texte ou HTML) sera utilisé pour la rédaction des messages
+  pour ce compte (vous pouvez spécifier un éditeur
+  différent pour chaque compte). Sélectionnez un compte et cochez
+  la case <q>Composer les messages en HTML</q> afin d'utiliser l'éditeur
+  HTML pour rédiger vos messages. Pour plus d'informations, voir la
+  section <a href="mail_help.xhtml#changing_the_settings_for_an_account">Changer les
+  paramètres d'un compte</a>.</p>
+
+  <p class="rediger"><strong>Remarque&#160;:</strong> il n'est pas possible d'écrire des messages
+  pour ensuite les publier sur un blog. Pour cela, vous devrez utiliser le mécanisme de publication
+  du blog en question si vous possèdez les autorisations nécessaires. Dans certains cas, cela peut
+  même demander l'envoi d'un message à une adresse spécifique.</p>
+
+  <p>Écrire des messages au format HTML permet d'utiliser dans vos
+  messages différentes polices, styles de texte (tels que gras ou
+  italique), couleurs de texte, tableaux, listes à puces ou
+  numérotées, et des images. Toutefois, il est possible que
+  certains destinataires ne puissent lire que les messages en texte simple. Si
+  vous souhaitez utiliser un éditeur de texte de temps en temps, vous
+  pouvez presser la touche Maj en cliquant le bouton <q>Nouveau</q> ou
+  <q>&replyMsgCmd.label;</q>.</p>
+
+  <p>[&#160;<a href="#sending_messages">Retour au début de la
+  section</a>&#160;]</p>
+
+  <p><a id="Mail_and_Newsgroups:Compose_windowIDX"></a></p>
+
+  <h2 id="using_the_message_composition_window">Utiliser la fenêtre de
+  rédaction des messages</h2>
+
+  <p>La fenêtre rédaction des messages sert à choisir le
+  destinataire, à écrire et à envoyer des messages de
+  courrier ou de groupes. Commencez d'abord par spécifier si vous voulez
+  écrire vos messages en texte seulement ou en HTML. Allez pour cela
+  dans les <a href="mailnews_account_settings.xhtml#addressing">Paramètres des comptes courrier &amp;
+  groupes - &addressing.label;</a>&#160;:</p>
+
+  <ul>
+    <li>Ouvrez le menu <q>&editMenu.label;</q> de la fenêtre de &brandShortName;
+    Courrier et Groupes.</li>
+
+    <li>Choisissez <q>&accountManagerCmd.label;</q>.</li>
+  </ul>
+
+  <p>Pour voir la fenêtre <q>&compositionGroupTitle.label;</q>, cliquez
+  sur <q>Nouveau</q> dans la barre d'outils de la fenêtre Courrier.</p>
+
+  <p>La fenêtre de rédaction des messages est organisée
+  comme suit&#160;:</p>
+
+  <ul>
+    <li>La barre d'outils</li>
+
+    <li style="list-style-type: none; list-style-position: outside;">Vous
+    pouvez cliquer sur les boutons suivants&#160;:
+
+      <dl>
+        <dt>Envoyer&#160;:</dt>
+
+        <dd>Envoie le message une fois écrit.</dd>
+
+        <dt>Adresse&#160;:</dt>
+
+        <dd>Recherche des destinataires dans votre carnet d'adresses.</dd>
+
+        <dt>Joindre&#160;:</dt>
+
+        <dd>Joint un fichier ou un message. Voir <a href=
+        "#using_attachments">Utiliser les pièces jointes</a> pour plus
+        d'informations.</dd>
+
+        <dt>Correcteur&#160;:</dt>
+
+        <dd>Vérifie l'orthographe du texte du message.</dd>
+
+        <dt>Sécurité&#160;:</dt>
+
+        <dd>Affiche des informations concernant le chiffrement et/ou la
+        signature numérique du message.</dd>
+
+        <dt>Enregistrer&#160;:</dt>
+
+        <dd>Enregistre votre message dans le dossier <q>Brouillons</q>.</dd>
+      </dl>
+    </li>
+
+    <li>La zone d'adressage&#160;: où vous saisissez les adresses
+    électroniques des destinataires.</li>
+
+    <li>Le champ des pièces jointes&#160;: quand vous joignez un fichier
+    à votre message (en cliquant dans ce champ ou sur le bouton
+    <q>Joindre</q>), une liste des pièces jointes à votre
+    document apparaît à droite de la zone d'adressage.</li>
+
+    <li>La zone du message&#160;: où vous saisissez le texte de votre
+    message.</li>
+  </ul>
+
+  <p>Si vous avez choisi d'écrire vos messages en format HTML, une barre
+  d'outils de formatage du texte apparaîtra. Elle est similaire à
+  celle de &brandShortName; Composeur.</p>
+
+  <p>Si vous avez besoin d'aide à propos de l'écriture de
+  messages au format HTML, lisez l'aide de &brandShortName; Composeur concernant
+  <a href="composer_help.xhtml#formatting_your_web_pages">le formatage des pages
+  Web</a>.</p>
+
+  <p>[&#160;<a href="#sending_messages">Retour au début de la
+  section</a>&#160;]</p>
+
+  <h2 id="addressing_a_message">Choisir le destinataire d'un message</h2>
+
+  <p>Pour choisir le(s) destinataire(s) d'un message&#160;:</p>
+
+  <ol>
+    <li>Entrez le nom dans la zone d'adressage.
+
+      <p>Si <a href="mailnews_preferences.xhtml#address_autocompletion">l'auto-complétion
+      d'adresse</a> est activée (elle l'est par défaut),
+      saisissez seulement les premières lettres du nom du destinataire
+      jusqu'à ce que &brandShortName; Courrier &amp; Groupes complète
+      l'adresse (vous pouvez également taper une partie du nom et
+      appuyer tout de suite sur <kbd class="mac">Retour</kbd><kbd
+      class="noMac">Entrée</kbd> afin que &brandShortName;
+      Courrier &amp; Groupes essaie de compléter l'adresse).</p>
+    </li>
+
+    <li>Si plusieurs adresses sont trouvées, sélectionnez-en une
+    et appuyez sur <kbd class="mac">Retour</kbd><kbd class="noMac">Entrée</kbd>.
+
+      <p><strong>Remarque</strong>&#160;: utilisez une virgule pour
+      séparer plusieurs adresses sur la même ligne. N'utilisez
+      jamais de virgule pour séparer le prénom du nom d'un
+      destinataire. Par exemple&#160;:</p>
+
+      <p><tt>dest1@mozilla.org,dest2@mozilla.org</tt></p>
+    </li>
+
+    <li>Si vous voulez <a href=
+    "#changing_the_account_from_which_a_message_is_sent">envoyer un message
+    à partir d'un autre compte</a>, cliquez dans le champ
+    <q>Expéditeur</q> et sélectionnez le compte
+    souhaité.</li>
+
+    <li>Si nécessaire, cliquez sur <q>Pour&#160;:</q> pour choisir un
+    autre destinataire&#160;:
+
+      <dl>
+        <dt>Pour&#160;:</dt>
+
+        <dd>Destinataires principaux de votre message.</dd>
+
+        <dt>CC&#160;:</dt>
+
+        <dd>destinataires secondaires de votre message (copie carbone).</dd>
+
+        <dt>BCC&#160;:</dt>
+
+        <dd>Destinataire secondaires de votre message, qui n'apparaîtront
+        pas aux yeux des autres destinataires, y compris ceux du champ CC
+        (copie carbone invisible).</dd>
+
+        <dt>Répondre à&#160;:</dt>
+
+        <dd>Indique au destinataire de répondre à une adresse
+        différente de celle à partir de laquelle vous
+        écrivez.</dd>
+
+        <dt>Groupe&#160;:</dt>
+
+        <dd>Pour écrire à un groupe de discussion.</dd>
+
+        <dt>Faire suivre à&#160;:</dt>
+
+        <dd>Pour rediriger un message sur un groupe, de telle manière que
+        les réponses à ce message aillent directement sur le groupe
+        de redirection, plutôt que sur le groupe d'origine.</dd>
+      </dl>
+    </li>
+  </ol>
+
+  <p><strong>Astuce</strong>&#160;: vous pouvez rapidement choisir le
+  destinataire d'un message en faisant un clic-droit sur une adresse contenue
+  dans un message que vous êtes en train de lire et en choisissant
+  <q>Rédiger un courrier à</q> dans le menu qui
+  apparaît.</p>
+
+  <h3 id="changing_the_account_from_which_a_message_is_sent">Envoyer un message
+  à partir d'un autre compte</h3>
+
+  <p>Si vous avez plusieurs comptes, le compte affiché dans le champ
+  <q>Expéditeur</q> est celui que vous avez sélectionné
+  quand vous avez créé le nouveau message. &brandShortName; Courrier &amp;
+  Groupes vous permet cependant de changer le compte à partir duquel le
+  message est envoyé quand vous rédigez votre message. Cliquez
+  sur le champ <q>Expéditeur</q> pour voir la liste de vos comptes et
+  sélectionnez celui qui vous convient. Une copie du message sera
+  enregistrée dans le dossier <q>Envoyés</q> correspondant au
+  compte que vous avez choisi.<a id="pinpoint"></a></p>
+
+  <h3>À propos du l'auto-complétion d'adresses</h3>
+
+  <p>L'auto-complétion d'adresses vous permet de choisir facilement le
+  destinataire depuis la fenêtre <q>Rédaction</q> du message sans
+  avoir à chercher des noms ou même à les taper dans leur
+  intégralité. &brandShortName; Courrier &amp; Groupes regarde
+  automatiquement selon vos préférences dans votre carnet
+  d'adresses et/ou dans un annuaire <a href="glossary.xhtml#ldap" class=
+  "glossary">LDAP</a> (s'il y en a un de disponible) et complète pour
+  vous le nom s'il n'y a qu'une seule occurrence. En cas d'occurrences
+  multiples, il vous évite également des erreurs en vous montrant
+  l'ensemble des choix correspondants avec des informations
+  supplémentaires sur vos contacts. L'auto-complétion d'adresses
+  est activée par défaut.</p>
+
+  <p>Si vous ne voulez pas utiliser l'adresse que &brandShortName; Courrier &amp; Groupes
+  vous a suggérée, appuyez simplement sur <kbd>Retour
+  arrière</kbd> (Backspace) ou <kbd>Supprimer</kbd> et entrez l'adresse
+  que vous souhaitez.</p>
+
+  <p>Pour désactiver l'auto-complétion d'adresses&#160;:</p>
+
+  <ol>
+    <li>Ouvrez le menu <q><span class="mac">SeaMonkey</span><span
+    class="noMac">&editMenu.label;</span></q>
+    et choisissez <q>&preferencesCmd.label;</q>.</li>
+
+    <li>Sous la catégorie <q>Courrier et Groupes</q>, cliquez sur
+    <q>&pref.addressing.title;</q>. Si aucune option n'est disponible, double-cliquez sur la
+    catégorie <q>Courrier et Groupes</q> pour étendre la
+    liste.</li>
+
+    <li>Dans la section <q>&addressingTitle.label;</q>,
+    désélectionnez <q>&addressingEnable.label;</q> et <q>&directories.label;</q></li>
+
+    <li>Cliquez sur <q>OK</q> pour valider vos changements.</li>
+  </ol>
+
+  <p>[&#160;<a href="#sending_messages">Retour au début de la
+  section</a>&#160;]</p>
+
+  <h2 id="selecting_message_sending_options">Choisir les options d'envoi d'un
+  message</h2>
+
+  <p>Lors de la rédaction d'un message, vous pouvez choisir des options
+  d'envoi supplémentaires à partir du menu
+  <q>Options</q>&#160;:</p>
+
+  <dl>
+    <dt>Sélectionner des adresses&#160;:</dt>
+
+    <dd>Cette option vous permet de choisir des destinataires à partir
+    de votre carnet d'adresses ou d'un annuaire distant. Pour débuter la
+    recherche d'une adresse dans un carnet d'adresses ou un annuaire, saisissez
+    les premières lettres du prénom ou du nom d'un destinataire.
+    Choisissez une adresse puis cliquez sur <q>Pour</q>, <q>Cc</q> ou
+    <q>Bcc</q>.</dd>
+
+    <dt>Vérifier l'orthographe&#160;:</dt>
+
+    <dd>Vérifie l'orthographe du texte du message avant de l'envoyer.
+    Vous pouvez également cliquer sur le bouton <q>Correcteur</q> de la
+    barre d'outils ou utiliser le raccourci clavier
+    <kbd>Ctrl</kbd>+<kbd>K</kbd>.</dd>
+
+    <dt class="rediger">Vérifier l'orthographe à la saisie</dt>
+
+    <dd class="rediger">Choisissez cette option pour que la vérification orthographique se fasse
+    pendant la rédaction des messages.</dd>
+
+    <dt class="rediger">Citer le message&#160;:</dt>
+
+    <dd class="rediger">Choisissez cette option si vous voulez que la sélection
+    du message soit affichée comme une citation.</dd>
+
+    <dt>Demander un accusé de réception&#160;:</dt>
+
+    <dd>Cette option vous permet de demander un message de confirmation lorsque
+    le destinataire affiche (ouvre) le message. Sachez que le destinataire peut
+    choisir de ne pas vous renvoyer l'accusé de réception. Cette
+    option vous permet d'activer ou de désactiver les accusés de
+    réception pour chaque message. Pour demander automatiquement un
+    accusé de réception pour tous les messages, utilisez les
+    préférences d'accusés de réception. Voir la
+    section <a href="mailnews_preferences.xhtml#return_receipts_preferences">Préférences de
+    Courrier &amp; Groupes - &pref.receipts.title;</a> pour plus
+    d'informations.</dd>
+
+    <dt>Priorité&#160;:</dt>
+
+    <dd>Vous permet d'indiquer si ce message a une priorité minimale,
+    basse, normale, haute ou maximale.</dd>
+
+    <dt class="rediger">Encodage de caractères&#160;:</dt>
+
+    <dd class="rediger">Choisissez l'encodage de caractères à utiliser pour ce message.</dd>
+
+    <dt>Archiver une copie&#160;:</dt>
+
+    <dd>À utiliser si vous voulez sauvegarder une copie du message en
+    plus de celle placée dans le dossier <q>Envoyés</q> de votre
+    compte. Vous pouvez alors choisir le dossier où l'archiver.</dd>
+
+    <dt>Sécurité&#160;:</dt>
+
+    <dd>Ce menu vous permet de choisir les options de sécurité
+    par défaut pour ce message.</dd>
+  </dl>
+
+<div class="rediger">
+<p>Une option supplémentaire pour le formattage des messages est disponible depuis le menu <q>&editMenu.label;</q> : </p>
+
+<ul>
+  <li><strong>Rejustifier</strong>&#160;: Si vous écrivez votre message en texte seulement, vous pouvez
+      utiliser cette commande afin que la longueur des lignes s'ajuste à
+      la largeur de la fenêtre de rédaction. Cette commande coupe
+      les lignes du texte sélectionné au nombre de
+      caractères défini dans les préférences de
+      <a href="mailnews_preferences.xhtml#composition">&composingMessages.label;</a>. Rejustifier le
+      texte est très utile quand vous répondez à un message
+      en le citant et qu'il contient des lignes particulièrement longues.
+
+    <p>Choisissez <q>&accountManagerCmd.label;</q>
+        dans le menu <q>&editMenu.label;</q> pour indiquer que vous souhaitez
+        utiliser l'éditeur de texte simple pour rédiger les
+        messages. Dans la boîte de dialogue <q>&accountManagerTitle.label;</q>, sélectionnez le compte, et
+        décochez la case <q>Composer les messages en HTML</q> afin
+        d'utiliser l'éditeur en texte simple pour tous les messages. Si
+        vous souhaitez seulement utiliser l'éditeur en texte simple
+        occasionnellement, il vous suffit d'enfoncer la touche Majuscule au
+        moment où vous cliquez sur les boutons <q>Nouveau</q> ou
+        <q>Répondre</q>.</p>
+  </li>
+</ul>
+</div>
+
+
+  <p>[&#160;<a href="#sending_messages">Retour au début de la
+  section</a>&#160;]</p>
+
+  <h2 id="replying_to_a_message">Répondre à un message</h2>
+
+  <p>Pour répondre à un courrier électronique&#160;:</p>
+
+  <ul>
+    <li>Sélectionnez le message.</li>
+
+    <li>Cliquez sur <q>&replyMsgCmd.label;</q> pour ne répondre qu'à
+    l'expéditeur.</li>
+
+    <li>Cliquez sur <q>Rép. à tous</q> pour répondre
+    à l'expéditeur et à tous les destinataires du
+    message.</li>
+  </ul>
+
+  <p>Pour inclure le message d'origine à chaque fois que vous
+  répondez à un message&#160; et pour préciser comment le
+  placer dans la réponse&#160;:</p>
+
+  <ol>
+    <li>Ouvrez le menu <q>&editMenu.label;</q> depuis une fenêtre de
+    &brandShortName; Courrier et Groupes et choisissez <q>&accountManagerCmd.label;</q>.</li>
+
+    <li>Si vous possédez plusieurs comptes, cliquez sur celui que vous voulez
+    paramétrer puis choisissez <a href="mailnews_preferences.xhtml#composition">&addressing.label;</a>. Si
+    aucune catégorie n'est visible, double-cliquez sur <q>Courrier et Groupes</q>
+    pour ouvrir la liste.</li>
+
+    <li>Choisissez <q>&autoQuote.label;</q>.</li>
+
+    <li>Précisez à l'aide de la liste déroulante où inclure votre réponse dans
+    le message.</li>
+
+    <li>Si vous désirez <a href="mailnews_account_settings.xhtml#account_settings">apposer une
+    signature</a> à chaque message envoyé avec ce compte et que
+    vous choisissez de répondre au-dessus du message cité, vous
+    pouvez préciser l'emplacement de votre signature&#160;:
+
+      <ul>
+        <li>Sélectionnez <q>&belowText.label;</q> pour afficher votre signature
+        à la fin du message (en dessous de votre réponse et du texte cité).</li>
+
+        <li>Sélectionnez <q>&aboveText.label;</q> pour afficher votre signature
+        entre votre message et le texte cité.</li>
+      </ul>
+
+	  <p><strong>Remarque</strong> : Si vous avez une signature, vous avez la possibilité <a
+	  href="mailnews_account_settings.xhtml#addressing">d'omettre la signature</a> lors de l'envoi d'un message.</p>
+
+    </li>
+
+    <li>Cliquez sur <q>OK</q>.</li>
+  </ol>
+
+  <p>[&#160;<a href="#sending_messages">Retour au début de la
+  section</a>&#160;]</p>
+
+  <h2 id="forwarding_a_message">Transférer un message</h2>
+
+  <p>Quand vous faites suivre un message, vous pouvez choisir comment son
+  contenu apparaîtra dans le nouveau message&#160;:
+  <em>intégré</em> (c'est-à-dire dans le corps du texte, ce qui est le choix par
+  défaut), ou comme pièce jointe.</p>
+
+  <p>Pour transférer un message&#160;:</p>
+
+  <ol>
+    <li>Sélectionnez un message et cliquez sur <q>&forwardMsgCmd.label;</q>.</li>
+
+    <li>Entrez le nom ou l'adresse du destinataire.</li>
+
+    <li>Cliquez sur <q>Envoyer</q>.</li>
+  </ol>
+
+  <p>Pour régler les paramètres par défaut de la fonction
+  <q>&forwardMsgCmd.label;</q>&#160;:</p>
+
+  <ol>
+    <li>Ouvrez le menu <q><span class="mac">SeaMonkey</span><span
+    class="noMac">&editMenu.label;</span></q>
+    et choisissez <q>&preferencesCmd.label;</q>.</li>
+
+    <li>Dans la catégorie <q>Courrier et Groupes</q>, cliquez sur
+    <a href="mailnews_preferences.xhtml#composition">&composingMessages.label;</a>. Si aucune
+    sous-catégorie n'est visible, double-cliquez sur <q>Courrier &amp;
+    Groupes</q> pour développer la liste.</li>
+
+    <li>Pour transférer des messages, choisissez <q>&forwardAsInline.label;</q>
+    (dans le corps du message) ou <q>&forwardAsAttachmentCmd.label;</q>.
+
+	  <p><strong>Remarque</strong> : Si vous avez une signature, sa position dans le message
+transféré intégré dépend des paramètres de réponse respectifs. Vous avez la possibilité <a
+href="mailnews_account_settings.xhtml#addressing">d'omettre la signature</a> lors d'un transfert de message.</p>
+	</li>
+
+    <li>Cliquez sur <q>OK</q>.</li>
+  </ol>
+
+  <p><strong>Astuce</strong> &#160;: Pour passer outre le choix par
+  défaut, sélectionnez un message, ouvrez le menu
+  <q>&msgsMenu.label;</q>, cliquez sur <q>&forwardAsMenu.label;</q>, puis choisissez
+  <q>&forwardAsInline.label;</q> ou <q>&forwardAsAttachmentCmd.label;</q>.</p>
+
+  <p>[&#160;<a href="#sending_messages">Retour au début de la
+  section</a>&#160;]</p>
+
+  <h2 id="confirming_that_your_message_was_opened">Accusés de
+  réception d'un message</h2>
+
+  <p>Vous pouvez utiliser la fonction <q>&pane.title;</q>
+  pour être averti lorsque le destinataire d'un message l'a ouvert. Le
+  destinataire doit utiliser un client de courrier électronique qui
+  supporte la norme <q>Message Disposition Notification</q> (MDN). Sachez
+  cependant que le destinataire peut choisir de ne pas renvoyer d'accusé
+  de réception. Les groupes de discussion ne permettent pas de demander
+  un accusé de réception pour les messages qui y sont
+  envoyés.</p>
+
+  <p>Pour demander des accusés de réception pour tous les
+  messages que vous enverrez, vous pouvez le faire à partir du panneau
+  <q>&pref.receipts.title;</q> des préférences de
+  Courrier et Groupes.</p>
+
+  <p>Pour demander, ou ne pas demander suivant le réglage des
+  préférence que vous avez effectué, un accusé de
+  réception au cas par cas, procédez comme suit&#160;:</p>
+
+  <ul>
+    <li>Depuis la fenêtre de composition d'un message, ouvrez le menu
+    <q>&tasksMenu.label;</q>, et sélectionnez <q>Accusé de
+    réception</q>.</li>
+  </ul>
+
+  <p>Pour systématiquement demander un accusé de réception
+  pour vos messages, suivez les étapes suivantes&#160;:</p>
+
+  <ol>
+    <li>Ouvrez le menu <q><span class="mac">SeaMonkey</span><span
+    class="noMac">&editMenu.label;</span></q> et choisissez
+    <q>&preferencesCmd.label;</q>.</li>
+
+    <li>Dans la catégorie <q>Courrier et Groupes</q>, cliquez sur
+    <a href="mailnews_preferences.xhtml#return_receipts_preferences">&pref.receipts.title;</a>. Si aucune catégorie n'est visible,
+    double-cliquez sur <q>Courrier et Groupes</q> pour ouvrir la liste.</li>
+
+    <li>Sélectionnez <q>&requestReceipt.label;</q>.</li>
+
+    <li>Cliquez sur <q>OK</q>.</li>
+  </ol>
+
+  <p>Pour plus d'informations sur les préférences
+  d'accusés de réception, voir la section <a href=
+  "mailnews_preferences.xhtml#return_receipts_preferences">Préférences de Courriers &amp;
+  Groupes - &pref.receipts.title;</a>.</p>
+
+  <p>[&#160;<a href="#sending_messages">Retour au début de la
+  section</a>&#160;]</p>
+
+  <h2 id="saving_and_editing_a_message_draft">Enregistrer et éditer le
+  brouillon d'un message</h2>
+
+  <p>Pour sauvegarder un message en tant que brouillon afin que vous puissiez
+  le modifier par la suite avant de l'envoyer, suivez ces
+  étapes&#160;:</p>
+
+  <ul>
+    <li>Dans la fenêtre de rédaction, cliquez sur
+    <q>Enregistrer</q> ou ouvrez le menu <q>&fileMenu.label;</q> et choisissez
+    <q>&saveAsMenu.label;</q>, puis <q>Brouillon</q>. Par défaut, le
+    message est sauvegardé dans le dossier <q>Brouillons</q> du compte
+    courant.
+
+      <p><strong>Remarque</strong>&#160;: votre message restera ouvert
+      après que vous l'ayez sauvegardé comme brouillon.</p>
+    </li>
+  </ul>
+
+  <p>Pour éditer ou envoyer un brouillon&#160;:</p>
+
+  <ol>
+    <li>Dans la fenêtre principale de &brandShortName; Courrier &amp; Groupes,
+    cliquez sur le dossier <q>Brouillons</q> du compte choisi.</li>
+
+    <li>Sélectionnez le message que vous voulez éditer.</li>
+
+    <li>Dans le coin en haut à droite du message, cliquez sur le bouton
+    <q>&editMessage.label;</q>. Si ce bouton n'est pas visible, cliquez
+    sur la flèche à gauche de l'en-tête pour le
+    développer.</li>
+
+    <li>Éditez le message comme vous le souhaitez.</li>
+
+    <li>Cliquez sur <q>Envoyer</q> pour l'expédier ou sur
+    <q>Enregistrer</q> si vous souhaitez le sauvegarder et reprendre la
+    rédaction ultérieurement.
+
+      <p><strong>Remarque</strong>&#160;: envoyer le message le supprime du
+      dossier <q>Brouillons</q> et le place dans le dossier
+      <q>Envoyés</q>.</p>
+    </li>
+  </ol>
+
+  <p><strong>Astuce</strong>&#160;: vous pouvez tout aussi simplement
+  double-cliquer sur le message afin de l'éditer. C'est
+  particulièrement utile si le cadre où s'affiche le contenu des
+  messages a été préalablement réduit.</p>
+
+  <p>Pour supprimer des brouillons devenus inutiles&#160;:</p>
+
+  <ol>
+    <li>Dans la fenêtre principale de &brandShortName; Courrier &amp; Groupes,
+    cliquez sur le dossier <q>Brouillons</q> du compte choisi.</li>
+
+    <li>Sélectionnez le ou les brouillons que vous souhaitez
+    supprimer.</li>
+
+    <li>Cliquez sur <q>Supprimer</q> dans la barre d'outils.</li>
+  </ol>
+
+  <p>[&#160;<a href="#sending_messages">Retour au début de la
+  section</a>&#160;]</p>
+
+  <h2 id="creating_and_using_templates">Créer et utiliser des
+  modèles de message</h2>
+
+  <p>Les modèles de messages sont extrêmement utiles pour formater
+  rapidement des messages que vous envoyez régulièrement, comme
+  des rapports hebdomadaires par exemple. Vous pouvez sauvegarder un message en
+  tant que modèle à partir de n'importe quelle fenêtre
+  l'affichant (ceci inclut la fenêtre de rédaction).</p>
+
+  <p>Pour enregistrer un message en tant que modèle&#160;:</p>
+
+  <ol>
+    <li>Dans la fenêtre Courrier, cliquez sur <q>Nouveau</q> pour
+    créer un nouveau message puis définir les police, taille et
+    couleur de texte, couleur de fond par défaut, ainsi que tous les
+    autres paramètres de format de texte que vous voulez utiliser par
+    défaut.</li>
+
+    <li>Vous pouvez aussi ouvrir un message existant qui est déjà
+    formaté comme vous le souhaitez.</li>
+
+    <li>Quand vous affichez le message, ouvrez le menu <q>&fileMenu.label;</q>,
+    choisissez <q>&saveAsMenu.label;</q>, puis <q>&saveAsTemplateCmd.label;</q>. Le nouveau
+    modèle est sauvegardé dans le dossier <q>Modèles</q>
+    du compte courant.</li>
+  </ol>
+
+  <p>Pour rédiger un message à partir d'un modèle&#160;:</p>
+
+  <ol>
+    <li>Dans la fenêtre Courrier, sélectionnez le dossier <q>Modèles</q> du
+    compte à partir duquel vous avez créé un modèle.</li>
+
+    <li>Double-cliquez sur le modèle pour l'ouvrir.</li>
+
+    <li>Éditez le message puis sauvegardez-le (dans le dossier
+    <q>Brouillons</q>) ou envoyez-le.
+
+      <p><strong>Remarque</strong>&#160;: envoyer le message ne supprime pas le
+      modèle du dossier <q>Modèles</q>. Il est
+      préservé pour une utilisation future.</p>
+    </li>
+  </ol>
+
+  <p>Pour supprimer des modèles devenus inutiles&#160;:</p>
+
+  <ol>
+    <li>Dans la fenêtre principale de &brandShortName; Courrier &amp; Groupes,
+    cliquez sur le dossier <q>Modèles</q> du compte choisi.</li>
+
+    <li>Sélectionnez le ou les modèles que vous souhaitez
+    supprimer.</li>
+
+    <li>Cliquez sur <q>Supprimer</q> dans la barre d'outils.</li>
+  </ol>
+
+  <p>[ <a href="#sending_messages">Retour au début de la section</a>
+  ]</p>
+
+  <h1 id="creating_html_mail_messages">Créer des messages au format
+  HTML</h1>
+
+  <div class="contentsBox">
+    <p>Dans cette section&#160;:</p>
+
+    <ul>
+      <li><a href="#using_html_in_your_messages">Utiliser le HTML dans vos
+      messages</a></li>
+
+      <li><a href="#choosing_html_mail_sending_options">Choisir les options
+      d'envoi des messages HTML</a></li>
+
+      <li><a href="#specifying_recipients_for_html_messages">Spécifier
+      les destinataires de messages au format HTML</a></li>
+
+      <li><a href="#viewing_the_message_source_for_html_messages">Voir le code
+      source d'un message au format HTML</a></li>
+
+      <li><a href="#using_the_html_mail_question_dialog_box">Utiliser la
+      boîte de dialogue <q>Courrier en HTML</q></a></li>
+    </ul>
+  </div>
+
+  <h2 id="using_html_in_your_messages">Utiliser le HTML dans vos messages</h2>
+
+  <p>Tout comme une page Web, les messages composés en HTML peuvent
+  contenir du texte formaté (<strong>gras</strong>, <em>italique</em>,
+  etc.), des liens, des images et des tableaux. Cependant, il est possible que
+  certains de vos correspondants ne puissent pas recevoir de messages au format
+  HTML. &brandShortName; Courrier &amp; Groupes vous permet d'écrire vos messages
+  ou vos contributions aux groupes de discussion en HTML ou en texte simple.
+  Vous pouvez aussi choisir si vos correspondants doivent recevoir, par
+  défaut, des messages HTML ou texte simple, et comment &brandShortName; Courrier
+  &amp; Groupes doit traiter les messages lorsqu'il ne sait pas si un
+  correspondant peut recevoir du HTML.</p>
+
+  <p>Si vous voulez rédiger vos messages en HTML par défaut,
+  ouvrez une fenêtre Courrier&#160;:</p>
+
+  <ol>
+    <li>Ouvrez le menu <q>&editMenu.label;</q> et choisissez <q>&accountManagerCmd.label;</q>.</li>
+
+    <li>Sélectionnez le compte de messagerie ou de groupes que vous
+    souhaitez paramétrer.</li>
+
+    <li>Cliquez sur la catégorie <q>&addressing.label;</q> et
+    cochez <q>&useHtml.label;</q>. Si vous voulez
+    rédiger vos messages au format texte simple, laissez cette case
+    décochée. Si vous choisissez le HTML, une barre vous
+    permettant de formater le texte apparaîtra dans la fenêtre de
+    rédaction de vos messages.</li>
+  </ol>
+
+  <h3 id="editing_or_inserting_html_elements">Éditer ou insérer
+  des éléments HTML</h3>
+
+  <p>Si vous connaissez le langage HTML, vous pouvez éditer ou
+  insérer des balises HTML supplémentaires, des attributs de
+  style et du JavaScript dans votre message. Si vous n'êtes pas sûr
+  de savoir comment travailler avec du code HTML, il vaut mieux ne pas le
+  modifier. Pour travailler avec du code HTML, utilisez une de ces
+  méthodes&#160;:</p>
+
+  <ul>
+    <li>Placez le curseur à l'endroit où vous souhaitez
+    insérer du code HTML, puis ouvrez le menu <q>Insérer</q> et
+    cliquez sur <q>HTML</q>. Dans la boîte de dialogue <q>Insérer du
+    code HTML</q>, saisissez des balises HTML et du texte, puis cliquez sur
+    <q>Insérer</q> pour insérer vos modifications.</li>
+
+    <li>Sélectionnez le code HTML que vous voulez éditer, puis
+    ouvrez le menu <q>Insérer</q> et cliquez sur <q>HTML</q>. Dans la
+    boîte de dialogue <q>Insérer du code HTML</q>, saisissez des balises
+    HTML et du texte, puis cliquez sur <q>Insérer</q> pour
+    insérer vos modifications.</li>
+
+    <li>Sélectionnez un élément tel qu'un tableau, une
+    ancre, une image, un lien ou une ligne horizontale. Double-cliquez sur
+    l'élément pour ouvrir la boîte de dialogue des
+    propriétés associées à ce type
+    d'élément. Cliquez sur <q>Édition avancée</q>
+    pour ouvrir l'<q>Éditeur des propriétés
+    avancées</q> que vous pouvez utilisez pour ajouter des attributs
+    HTML et du JavaScript aux objets.</li>
+  </ul>
+
+  <p>Pour plus d'informations sur l'édition de code source HTML, voir la
+  section <a href="composer_help.xhtml#using_the_advanced_property_editor">Utilisation de
+  l'éditeur de propriétés avancées</a>.</p>
+
+  <p>[&#160;<a href="#creating_html_mail_messages">Retour au début de la
+  section</a>&#160;]</p>
+
+  <h2 id="choosing_html_mail_sending_options">Choisir les options d'envoi des
+  messages HTML</h2>
+
+  <p>Vous pouvez déterminer le comportement par défaut de &brandShortName;
+  Courrier &amp; Groupes lorsque vous enverrez un message au format HTML
+  à un destinataire dont on ignore si son logiciel pourra le lire.</p>
+
+  <p>Pour choisir les options d'envoi des messages HTML, ouvrez une
+  fenêtre Courrier.</p>
+
+  <ol>
+    <li>Ouvrez le menu <q><span class="mac">SeaMonkey</span><span
+    class="noMac">&editMenu.label;</span></q>
+    et choisissez <q>&preferencesCmd.label;</q>.</li>
+
+    <li>Dans la catégorie <q>Courrier et Groupes</q>, cliquez sur
+      <a href="mailnews_preferences.xhtml#send_format">Format d'expédition</a>. Si aucune
+      sous-catégorie n'est visible, double-cliquez sur <q>Courrier et
+      Groupes</q> pour développer la liste.
+
+      <p><strong>Remarque</strong>&#160;: cette préférence ne
+      s'applique qu'au courrier électronique, pas aux groupes.</p>
+    </li>
+
+    <li>Sélectionnez l'option que vous voulez et cliquez sur
+    <q>OK</q>.</li>
+  </ol>
+
+  <p>Si vous vous apercevez en cours de rédaction qu'un ou plusieurs
+  destinataires pourraient ne pas être en mesure de recevoir des messages
+  au format HTML, vous pouvez aisément convertir votre message dans un
+  autre format au moment de l'envoi. Voici comment procéder&#160;:</p>
+
+  <ol>
+    <li>Depuis la fenêtre de rédaction, ouvrez le menu
+    <q>Options</q> et choisissez <q>Format</q>.</li>
+
+    <li>Sélectionnez le format dans lequel vous voulez que votre message
+    soit envoyé&#160;:
+
+      <dl>
+        <dt>Détection automatique&#160;:</dt>
+
+        <dd>&brandShortName; Courrier &amp; Groupes choisit de lui-même le format
+        approprié. S'il ne parvient pas à déterminer le
+        bon format, il vous demande de choisir.</dd>
+
+        <dt>Texte seulement&#160;:</dt>
+
+        <dd>Votre texte risque de perdre des mises en forme (comme le gras ou
+        l'italique), mais tous les logiciels de courrier électronique
+        pourront afficher le message.</dd>
+
+        <dt>HTML seulement&#160;:</dt>
+
+        <dd>Certains programmes de messagerie pourraient avoir du mal à
+        afficher votre courrier. Ne choisissez cette option que si vous
+        êtes sûr que les programmes de messagerie des destinataires
+        peuvent afficher du courrier en HTML.</dd>
+
+        <dt>Texte et HTML&#160;:</dt>
+
+        <dd>Ce mode produit des messages plus lourds et qui occupent plus
+        d'espace disque, mais peut être le meilleur choix si vous ne
+        savez pas si les programmes de messagerie des destinataires peuvent
+        afficher du courrier en HTML.</dd>
+      </dl>
+    </li>
+
+    <li>Quand vous avez fini de rédiger votre message, cliquez sur
+    <q>Envoyer</q>.</li>
+  </ol>
+
+  <p>[&#160;<a href="#creating_html_mail_messages">Retour au début de la
+  section</a>&#160;]</p>
+
+  <h2 id="specifying_recipients_for_html_messages">Spécifier les
+  destinataires de messages au format HTML</h2>
+
+  <p>Vous pouvez gagner du temps en indiquant dans votre carnet d'adresses
+  quelles sont les personnes qui préfèrent recevoir des messages
+  électroniques au format HTML ou en texte simple.</p>
+
+  <ol>
+    <li>Ouvrez le menu <q>&windowMenu.label;</q> et choisissez <q>&addressbook.label;</q>.</li>
+
+    <li>Sélectionnez un carnet d'adresses à gauche puis la fiche
+    d'un de vos contacts sur la droite.</li>
+
+    <li>Cliquez sur <q>Modifier</q> pour ouvrir la fiche.</li>
+
+    <li>Dans l'onglet <q>&Contact.tab;</q>, choisissez <q>HTML</q> dans la liste
+    déroulante <q>Préfère recevoir les messages au
+    format</q> si vous savez que votre contact peut lire les messages au format
+    HTML (contenant donc éventuellement des images, des liens, mais
+    aussi des effets de mise en forme comme le gras ou l'italique).
+
+      <p>Si votre contact ne peut lire que des messages en texte simple
+      (c'est-à-dire sans formatage HTML), choisissez <q>Texte simple</q>
+      (sans HTML). Si vous ne savez pas ou que vous n'êtes pas sûr,
+      choisissez <q>Inconnu</q>.</p>
+
+      <p>Si vous faites ce dernier choix, &brandShortName; Courrier &amp; Groupes se
+      basera sur ce que vous avez indiqué comme format
+      d'expédition dans les préférences. Si &brandShortName;
+      Courrier &amp; Groupes n'arrive toujours pas à déterminer le
+      type de format approprié, il vous demandera le format à
+      utiliser quand vous expédierez le message.</p>
+    </li>
+
+    <li>Cliquez sur <q>OK</q>.</li>
+  </ol>
+
+  <p>[&#160;<a href="#creating_html_mail_messages">Retour au début de la
+  section</a>&#160;]</p>
+
+  <h2 id="viewing_the_message_source_for_html_messages">Voir le code source
+  d'un message au format HTML</h2>
+
+  <p>Si vous avez reçu un message au format HTML et que vous souhaitez
+  voir son code source, il suffit&#160;:</p>
+
+  <ol>
+    <li>d'ouvrir le message&#160;;</li>
+
+    <li>d'accéder au menu <q>&viewMenu.label;</q> et de choisir <q>&pageSourceCmd.label;</q>.</li>
+  </ol>
+
+  <p>[&#160;<a href="#creating_html_mail_messages">Retour au début de la
+  section</a>&#160;]</p>
+
+  <h2 id="using_the_html_mail_question_dialog_box">Utiliser la boîte de
+  dialogue <q>Courrier en HTML</q></h2>
+
+  <p>Cette boîte de dialogue apparaît quand vous envoyez un message
+  HTML à quelqu'un qui ne veut (ou ne peut) recevoir des messages qu'en
+  texte simple ou quand &brandShortName; Courrier &amp; Groupes n'arrive pas à
+  déterminer si le destinataire peut lire les messages en HTML. En cas
+  de doute, envoyez un message en texte simple seulement.</p>
+
+  <p>[&#160;<a href="#creating_html_mail_messages">Retour au début de la
+  section</a>&#160;]</p>
+
+  <h1 id="using_attachments">Utiliser les pièces jointes</h1>
+
+  <div class="contentsBox">
+    <p>Dans cette section&#160;:</p>
+
+    <ul>
+      <li><a href="#attaching_a_file_or_web_page">Joindre un fichier ou une
+      page Web</a></li>
+
+      <li><a href="#viewing_and_opening_attachments">Voir et ouvrir les
+      pièces jointes</a></li>
+
+      <li><a href="#saving_attachments">Enregistrer les pièces
+      jointes</a></li>
+    </ul>
+  </div>
+
+  <h2 id="attaching_a_file_or_web_page">Joindre un fichier ou une page Web</h2>
+
+  <p>Pour joindre un fichier à un message avant de
+  l'expédier&#160;:</p>
+
+  <ol>
+    <li>Dans la fenêtre <q>Rédaction du message</q>, cliquez sur
+    <q>Joindre</q> ou ouvrez le menu <q>&fileMenu.label;</q> et choisissez <q>Joindre
+    fichier(s)</q>. La boîte de dialogue <q>Joindre les fichiers</q>
+    s'ouvre.
+
+      <p><strong>Astuce</strong>&#160;: vous pouvez aussi cliquer dans la zone
+      des pièces jointes, située en haut et à droite de la
+      fenêtre de rédaction.</p>
+    </li>
+
+    <li>Entrez le nom du fichier que vous désirez joindre, ou
+    sélectionnez-le à partir de votre disque dur.</li>
+
+    <li>Cliquez sur <q>Ouvrir</q>. Le nom du fichier apparaît dans le
+    champ <q>Pièces jointes</q>.</li>
+  </ol>
+
+  <p><strong>Astuce</strong>&#160;: vous pouvez aussi glisser-déplacer
+  un ou plusieurs fichiers de votre bureau vers le champ <q>Pièces
+  jointes</q> dans la fenêtre Rédaction.</p>
+
+  <p>Pour joindre une page Web à un message sortant&#160;:</p>
+
+  <ol>
+    <li>Dans la fenêtre <q>Rédaction du message</q>, ouvrez le
+    menu <q>&fileMenu.label;</q> et sélectionnez <q>Joindre page Web</q>.</li>
+
+    <li>Dans la boîte de dialogue, entrez l'URL de la page puis cliquez
+    sur <q>OK</q>. La page Web apparaît dans le champ <q>Pièces
+    jointes</q>.</li>
+  </ol>
+
+  <p><strong>Astuce</strong>&#160;: quand vous affichez une page dans le
+  navigateur, vous pouvez envoyer cette page à quelqu'un en ouvrant le
+  menu <q>&fileMenu.label;</q> et en cliquant sur <q>Envoyer la page</q>.</p>
+
+  <p>[&#160;<a href="#using_attachments">Retour au début de la
+  section</a>&#160;]</p>
+
+  <h2 id="viewing_and_opening_attachments">Voir et ouvrir les pièces
+  jointes</h2>
+
+  <p>Si vous recevez un message avec en pièce jointe un fichier que
+  &brandShortName; sait afficher (comme des images ou des fichiers HTML), la
+  pièce jointe s'affichera dans le corps du message. Pour les types de
+  fichiers qu'il ne sait pas lire, &brandShortName; vous laisse le soin de les ouvrir
+  avec un autre programme ou de les enregistrer sur votre disque dur.</p>
+
+  <p>Pour ouvrir une pièce jointe, assurez-vous d'avoir dans votre
+  logithèque un programme qui sache gérer le type de fichier de
+  la pièce jointe. Par exemple, si vous avez une image au format GIF,
+  assurez-vous que vous avez un programme qui sache afficher les images au
+  format GIF.</p>
+
+  <p>Pour ouvrir une pièce jointe&#160;:</p>
+
+  <ol>
+    <li>Double-cliquez sur la pièce jointe que vous souhaitez
+    ouvrir.</li>
+
+    <li>Dans la fenêtre de téléchargement qui s'affiche,
+    choisissez le comportement que &brandShortName; Courrier &amp; Groupes doit avoir
+    avec cette pièce jointe.
+
+      <ul>
+        <li>Si &brandShortName; détecte sur votre ordinateur un logiciel qui sait
+        lire ce type de fichier, vous pouvez ouvrir la pièce jointe avec
+        ce logiciel en choisissant <q>Ouvrir avec un logiciel</q>. Si vous
+        souhaitez utiliser un autre programme pour ouvrir la pièce
+        jointe, sélectionnez <q>Choisir</q>.</li>
+
+        <li>Si &brandShortName; ne détecte pas sur votre ordinateur de logiciel
+        qui sache lire ce type de fichier, vous pouvez enregistrer la
+        pièce jointe. Vous n'ouvrirez pas la pièce jointe, mais
+        au moins vous conserverez une copie sur votre disque dur en attendant
+        d'installer un logiciel qui puisse l'ouvrir.</li>
+
+        <li>Cliquez sur <q>Avancé</q> pour ajouter un nouveau type de
+        fichier à ouvrir avec une application assistante. &brandShortName;
+        utilise cette liste pour déterminer comment tel ou tel type de
+        fichier est ouvert par une application externe depuis
+        l'intérieur de &brandShortName;. Pour plus d'informations, voir <a href=
+        "nav_help.xhtml#plugins_and_downloads">Plugins et
+        téléchargements</a>.</li>
+      </ul>
+    </li>
+
+    <li>Cliquez sur <q>OK</q>.</li>
+  </ol>
+
+  <p><strong>Remarque</strong>&#160;: si vous utilisez un compte courrier
+  utilisant un serveur IMAP, toutes les pièces jointes restent sur le
+  serveur.</p>
+
+  <p>[&#160;<a href="#using_attachments">Retour au début de la
+  section</a>&#160;]</p>
+
+  <h2 id="saving_attachments">Enregistrer les pièces jointes</h2>
+
+  <p>Pour enregistrer une pièce jointe&#160;:</p>
+
+  <ol>
+    <li>Sélectionnez (dans le coin en haut à droite de la zone
+    d'affichage du message) la pièce jointe que vous désirez
+    enregistrer.</li>
+
+    <li>Faites un <span class="noMac">clic-droit</span><span
+    class="mac"><kbd>Commande</kbd>-clic</span> sur la pièce jointe et
+    choisissez <q>Enregistrer sous</q> dans le menu qui vient
+    d'apparaître.</li>
+
+    <li>Choisissez un nom de fichier et un endroit où enregistrer la
+    pièce jointe puis cliquez sur <q>OK</q>. &brandShortName; Courrier &amp;
+    Groupes va télécharger la pièce jointe et l'enregistrer
+    à l'endroit que vous venez de spécifier.</li>
+  </ol>
+
+  <p><strong>Astuce</strong>&#160;: Pour enregistrer toutes les pièces
+  jointes, faites un clic-droit sur la première pièce jointe de
+  la liste et choisissez <q>Tout enregistrer</q>. Vous devez maintenant
+  indiquer où vous souhaitez que toutes ces pièces jointes soient
+  enregistrées.</p>
+
+  <p>[&#160;<a href="#using_attachments">Retour au début de la
+  section</a>&#160;]</p>
+
+  <h1 id="deleting_messages">Supprimer des messages</h1>
+
+  <div class="contentsBox">
+    <p>Dans cette section&#160;:</p>
+
+    <ul>
+      <li><a href="#deleting_pop_imap_messages">Supprimer des messages POP
+      ou IMAP</a></li>
+
+      <li><a href="#moving_messages_to_and_from_the_trash">Déplacer des
+      messages vers et depuis la corbeille</a></li>
+    </ul>
+  </div>
+
+  <h2 id="deleting_pop_imap_messages">Supprimer des messages POP ou
+  IMAP</h2>
+
+  <p>La manière de supprimer les messages dépend du type de votre
+  serveur de messagerie (POP ou IMAP). Si c'est un serveur de messagerie POP,
+  les messages supprimés seront automatiquement déplacés
+  vers la corbeille. Si c'est un serveur IMAP, vous pouvez choisir parmi
+  différentes options.</p>
+
+  <p>Pour supprimer des messages présents dans votre boîte de
+  Courrier entrant ou dans n'importe quel dossier, ouvrez la fenêtre
+  Courrier.</p>
+
+  <ol>
+    <li>Dans la liste des messages, sélectionnez le(s) message(s) que
+    vous souhaitez effacer et cliquez sur <q>Supprimer</q>. Par défaut,
+    &#160;&brandShortName; Courrier &amp; Groupes déplace le(s) message(s)
+    supprimé(s) dans la corbeille.</li>
+
+    <li>Pour supprimer les messages de manière définitive, ouvrez
+    le menu <q>&fileMenu.label;</q> et choisissez <q>&emptyTrashCmd.label;</q>.</li>
+  </ol>
+
+  <p>Pour supprimer des messages sans les ouvrir, dans la fenêtre
+  Courrier&#160;:</p>
+
+  <ol>
+    <li>Ouvrez le menu <q>&viewMenu.label;</q> et sélectionnez <q>Barre
+    d'outils</q>, puis décochez <q>Messages</q>.
+
+      <p>D'une autre manière, cliquez sur la poignée de la zone
+      de message (la zone centrale de la limite inférieure de la liste
+      des messages) pour fermer la zone d'affichage des messages.</p>
+    </li>
+
+    <li>Dans la liste des messages, sélectionnez le(s) message(s) et
+    cliquez sur <q>Supprimer</q>.</li>
+  </ol>
+
+  <p>Pour définir vos préférences de suppression des
+  messages IMAP&#160;:</p>
+
+  <ol>
+    <li>Ouvrez le menu <q>&editMenu.label;</q> et choisissez <q>&accountManagerCmd.label;</q>. La boîte de dialogue des
+    <q>&accountManagerTitle.label;</q> s'affiche.</li>
+
+    <li>Cliquez sur la catégorie <q>Paramètres serveur</q> du
+    compte IMAP que vous souhaitez paramétrer.</li>
+
+    <li>Sélectionnez les <a href="mailnews_account_settings.xhtml#when_i_delete_a_message">options</a>
+    de votre choix définissant la suppression des messages et cliquez
+    sur <q>OK</q>.</li>
+  </ol>
+
+  <p>[&#160;<a href="#deleting_messages">Retour au début de
+  la section</a>&#160;]</p>
+
+  <h2 id="moving_messages_to_and_from_the_trash">Déplacer des messages
+  vers et depuis la corbeille</h2>
+
+  <p>Si vous utilisez un serveur de messagerie POP ou si vous avez
+  réglé votre serveur de messagerie IMAP de façon à
+  ce qu'il utilise la corbeille, faites comme suit pour supprimer des messages
+  de votre boîte de Courrier entrant ou de tout autre dossier&#160;:</p>
+
+  <ol>
+    <li>Dans la liste des messages, sélectionnez celui ou ceux que vous
+    souhaitez supprimer.</li>
+
+    <li>Cliquez sur <q>Supprimer</q>. &brandShortName; Courrier &amp; Groupes
+    déplace les messages vers la corbeille.</li>
+  </ol>
+
+  <p>Pour récupérer des messages depuis la Corbeille&#160;:</p>
+
+  <ol>
+    <li>Cliquez sur la corbeille.</li>
+
+    <li>Sélectionnez les messages que vous souhaitez
+    récupérer et déplacez-les vers un autre dossier.</li>
+  </ol>
+
+  <p>Pour supprimer définitivement des messages&#160;:</p>
+
+  <ul>
+    <li>Ouvrez le menu <q>&fileMenu.label;</q> et choisissez <q>&emptyTrashCmd.label;</q>.</li>
+  </ul>
+
+  <p><strong>Remarque</strong>&#160;: les messages s'effacent lorsque l'on vide
+  la corbeille mais ils ne sont pas pour autant supprimés
+  définitivement de la surface de votre disque dur&#160;!</p>
+
+  <p><strong>Astuce</strong>&#160;: les fonctions <q>&compactFolders.label;</q>
+  (menu <q>&fileMenu.label;</q>) et <q>&folderContextCompact.label;</q> (clic droit
+  appliqué à un dossier en particulier) vont supprimer toute
+  trace de vos messages de la surface de votre disque dur.</p>
+
+  <p>[&#160;<a href="#deleting_messages">Retour au début de
+  la section</a>&#160;]</p>
+
+ 
+  <div id="footer">
+    <!--begin frenchmozilla signature-->
+
+    <p><em>Dernière traduction&#160;: 29 janvier 2006</em></p>
+    <!-- | vérification&#160;: le 13 décembre 2003</em></p>-->
+
+    <p>Ce texte a été traduit et adapté par une
+    équipe internationale de bénévoles francophones.<br />
+    Pour plus d'informations, visitez notre site&#160;: <a href=
+    "http://frenchmozilla.sf.net"
+    hreflang="fr">http://frenchmozilla.sourceforge.net</a>.</p>
+    <!--end frenchmozilla signature-->
+  </div>
+</body>
+</html>

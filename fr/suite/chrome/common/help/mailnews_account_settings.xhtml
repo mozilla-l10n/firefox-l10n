@@ -1,0 +1,1627 @@
+<?xml version="1.0" encoding="utf-8"?>
+<!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.1//EN"
+  "http://www.w3.org/TR/xhtml11/DTD/xhtml11.dtd"[
+  <!ENTITY % brandDTD SYSTEM "chrome://branding/locale/brand.dtd" >
+  %brandDTD;
+  <!ENTITY % utilityOverlayDTD SYSTEM "chrome://communicator/locale/utilityOverlay.dtd" >
+  %utilityOverlayDTD;
+  <!ENTITY % tasksOverlayDTD SYSTEM "chrome://communicator/locale/tasksOverlay.dtd" >
+  %tasksOverlayDTD;
+  <!ENTITY % preferencesDTD SYSTEM "chrome://communicator/locale/pref/preferences.dtd" >
+  %preferencesDTD;
+  <!ENTITY % messengerDTD SYSTEM "chrome://messenger/locale/messenger.dtd" >
+  %messengerDTD;
+  <!ENTITY % mailPrefsOverlayDTD SYSTEM "chrome://messenger/locale/mailPrefsOverlay.dtd" >
+  %mailPrefsOverlayDTD;
+  <!ENTITY % AccountManagerDTD SYSTEM "chrome://messenger/locale/AccountManager.dtd" >
+  %AccountManagerDTD;
+  <!ENTITY % AccountWizardDTD SYSTEM "chrome://messenger/locale/AccountWizard.dtd" >
+  %AccountWizardDTD;
+  <!ENTITY % am-mainDTD SYSTEM "chrome://messenger/locale/am-main.dtd" >
+  %am-mainDTD;
+  <!ENTITY % am-addressingDTD SYSTEM "chrome://messenger/locale/am-addressing.dtd" >
+  %am-addressingDTD;
+  <!ENTITY % am-copiesDTD SYSTEM "chrome://messenger/locale/am-copies.dtd" >
+  %am-copiesDTD;
+  <!ENTITY % am-junkDTD SYSTEM "chrome://messenger/locale/am-junk.dtd" >
+  %am-junkDTD;
+  <!ENTITY % am-offlineDTD SYSTEM "chrome://messenger/locale/am-offline.dtd" >
+  %am-offlineDTD;
+  <!ENTITY % am-server-topDTD SYSTEM "chrome://messenger/locale/am-server-top.dtd" >
+  %am-server-topDTD;
+  <!ENTITY % am-server-advancedDTD SYSTEM "chrome://messenger/locale/am-server-advanced.dtd" >
+  %am-server-advancedDTD;
+  <!ENTITY % am-smimeDTD SYSTEM "chrome://messenger/locale/am-smime.dtd" >
+  %am-smimeDTD;
+  <!ENTITY % am-serverwithnoidentitiesDTD SYSTEM "chrome://messenger/locale/am-serverwithnoidentities.dtd" >
+  %am-serverwithnoidentitiesDTD;
+  <!ENTITY % am-advancedDTD SYSTEM "chrome://messenger/locale/am-advanced.dtd" >
+  %am-advancedDTD;
+  <!ENTITY % am-mdnDTD SYSTEM "chrome://messenger/locale/am-mdn.dtd" >
+  %am-mdnDTD;
+  <!ENTITY % folderPropsDTD SYSTEM "chrome://messenger/locale/folderProps.dtd" >
+  %folderPropsDTD;
+  <!ENTITY % pref-addressingDTD SYSTEM "chrome://messenger/locale/addressbook/pref-addressing.dtd" >
+  %pref-addressingDTD;
+  <!ENTITY % pref-tagsDTD SYSTEM "chrome://messenger/locale/pref-tags.dtd" >
+  %pref-tagsDTD;
+  <!ENTITY % pref-formattingDTD SYSTEM "chrome://messenger/locale/messengercompose/pref-formatting.dtd" >
+  %pref-formattingDTD;
+  <!ENTITY % pref-composing_messagesDTD SYSTEM "chrome://messenger/locale/messengercompose/pref-composing_messages.dtd" >
+  %pref-composing_messagesDTD;
+  <!ENTITY % pref-mailnewsDTD SYSTEM "chrome://messenger/locale/pref-mailnews.dtd" >
+  %pref-mailnewsDTD;
+  <!ENTITY % pref-notificationsDTD SYSTEM "chrome://messenger/locale/pref-notifications.dtd" >
+  %pref-notificationsDTD;
+  <!ENTITY % pref-junkDTD SYSTEM "chrome://messenger/locale/pref-junk.dtd" >
+  %pref-junkDTD;
+  <!ENTITY % pref-directoryDTD SYSTEM "chrome://messenger/locale/addressbook/pref-directory.dtd" >
+  %pref-directoryDTD;
+  <!ENTITY % pref-directory-addDTD SYSTEM "chrome://messenger/locale/addressbook/pref-directory-add.dtd" >
+  %pref-directory-addDTD;
+  <!ENTITY % pref-receiptsDTD SYSTEM "chrome://messenger/locale/pref-receipts.dtd" >
+  %pref-receiptsDTD;
+  <!ENTITY % pref-offlineDTD SYSTEM "chrome://messenger/locale/pref-offline.dtd" >
+  %pref-offlineDTD;
+  <!ENTITY % pref-viewing_messagesDTD SYSTEM "chrome://messenger/locale/pref-viewing_messages.dtd" >
+  %pref-viewing_messagesDTD;
+  <!ENTITY % pref-character_encodingDTD SYSTEM "chrome://messenger/locale/pref-character_encoding.dtd" >
+  %pref-character_encodingDTD;
+  <!ENTITY % smtpEditOverlayDTD SYSTEM "chrome://messenger/locale/smtpEditOverlay.dtd" >
+  %smtpEditOverlayDTD;
+  <!ENTITY % msgHdrViewOverlayDTD SYSTEM "chrome://messenger/locale/msgHdrViewOverlay.dtd" >
+  %msgHdrViewOverlayDTD;
+  <!ENTITY % msgViewPickerOverlayDTD SYSTEM "chrome://messenger/locale/msgViewPickerOverlay.dtd" >
+  %msgViewPickerOverlayDTD;
+  <!ENTITY % msgCompSMIMEOverlayDTD SYSTEM "chrome://messenger-smime/locale/msgCompSMIMEOverlay.dtd"
+>
+  %msgCompSMIMEOverlayDTD;
+  <!ENTITY % abNewCardDialogDTD SYSTEM "chrome://messenger/locale/addressbook/abNewCardDialog.dtd" >
+  %abNewCardDialogDTD;
+  <!ENTITY % abCardOverlayDTD SYSTEM "chrome://messenger/locale/addressbook/abCardOverlay.dtd" >
+  %abCardOverlayDTD;
+  <!ENTITY % abCardViewOverlayDTD SYSTEM "chrome://messenger/locale/addressbook/abCardViewOverlay.dtd" >
+  %abCardViewOverlayDTD;
+  <!ENTITY % abMainWindowDTD SYSTEM "chrome://messenger/locale/addressbook/abMainWindow.dtd" >
+  %abMainWindowDTD;
+]>
+
+<html xmlns="http://www.w3.org/1999/xhtml" lang="fr" xml:lang="fr">
+<head>
+  <title>Paramètres des comptes courrier &amp; groupes</title>
+  <meta http-equiv="Content-Type" content="application/xhtml; charset=utf-8" />
+  <!--<link rel="stylesheet" href="content_style.css" type="text/css" />-->
+  <link rel="stylesheet" type="text/css" href="helpFileLayout.css" />
+  <link rel="stylesheet" type="text/css" href="chrome://communicator/skin/smileys.css"/>
+</head>
+
+<body>
+
+  <h1 id="mail_and_newsgroups_account_settings">Paramètres des comptes
+  courrier &amp; groupes</h1>
+
+  <p>Cette section décrit le paramétrage de la boîte de
+  dialogue <q>&accountManagerTitle.label;</q>.
+  Contrairement à la boîte de dialogue
+  <q>&prefWindow.title;</q>, qui applique les paramètres choisis
+  à tous les comptes, la boîte de dialogue <q>Paramètres
+  des comptes courrier &amp; groupes</q> vous permet de définir les
+  réglages d'un compte précis.</p>
+
+  <p>Si la boîte de dialogue <q>&accountManagerTitle.label;</q> n'est pas affichée, suivez ces
+  étapes&#160;:</p>
+
+  <ol>
+    <li>Ouvrez la fenêtre <q>Courrier</q></li>
+
+    <li>Ouvrez le menu <q>&editMenu.label;</q> et choisissez <q>&accountManagerCmd.label;</q>.</li>
+
+    <li>Sélectionnez le compte dont vous désirez voir ou changer
+    les paramètres.</li>
+  </ol>
+
+  <div class="contentsBox">
+    <p>Dans cette section&#160;:</p>
+
+    <ul>
+      <li><a href="#account_settings">&accountTitle.label;</a></li>
+
+      <li><a href="#server_settings">Paramètres serveur</a></li>
+
+      <li><a href="#copies_and_folders">&copyAndFolderTitle.label;</a></li>
+
+      <li><a href="#addressing">&addressing.label;</a></li>
+
+      <li><a href="#synchronization_and_storage">Synchronisation et espace
+      disque</a></li>
+
+      <li><a href="#junk_settings">Courriers indésirables</a></li>
+
+      <li><a href="#return_receipts">&pane.title;</a></li>
+
+      <li><a href="#security">&securityTitle.label;</a></li>
+
+      <li><a href="#local_folders">Dossiers locaux</a></li>
+
+      <li><a href="#outgoing_server">Serveur sortant (SMTP)</a></li>
+    </ul>
+  </div>
+
+  <h2 id="account_settings">Paramètres des comptes courrier &amp; groupes
+  - &accountTitle.label;</h2>
+
+  <p>Cette section décrit comment voir et changer les paramètres d'un compte,
+  comme le nom d'utilisateur, l'adresse de réponse et la signature.
+  Si la boîte de dialogue <q>&accountManagerTitle.label;</q> n'est pas affichée,
+  ouvrez une fenêtre <q>Courrier</q>&#160;:</p>
+
+  <ol>
+    <li>Ouvrez le menu <q>&editMenu.label;</q> et sélectionnez
+    <q>&accountManagerCmd.label;</q>. La boîte de dialogue
+    <q>&accountManagerTitle.label;</q> s'affiche.</li>
+
+    <li>Sélectionnez le nom du compte pour afficher les
+    paramètres du compte.</li>
+  </ol>
+
+  <dl>
+    <dt>&accountName.label;</dt>
+
+    <dd>Le nom de ce compte. Vous pouvez lui donnez le nom que vous voulez.
+    C'est ce nom qui s'affichera dans la liste des comptes de la fenêtre
+    principale de &brandShortName; Courrier &amp; Groupes.</dd>
+
+    <dt>Pour tous les types de compte, sauf les comptes de flux</dt>
+
+	<dd>
+
+	  <dl>
+
+		<dt>&identityTitle.label;</dt>
+
+		<dd>Contient votre nom, votre adresse électronique, votre adresse de
+		réponse (uniquement si elle est différente de votre adresse
+		électronique) et le nom de votre organisation (optionnel).</dd>
+
+		<dt>Texte de signature</dt>
+
+		<dd>Si vous désirez apposer votre signature sur tous les messages sortants, saisissez votre
+		dans signature cette zone de texte. Cochez la case <q>Utiliser HTML</q> pour pouvoir
+		utiliser des balises HTML, par exemple, &lt;b&gt;bold&lt;/b&gt; (optionnel).</dd>
+
+		<dt>Apposer la signature à partir d'un fichier</dt>
+
+		<dd>Vous permet d'apposer votre signature à partir d'un fichier (texte, HTML, ou image) plutôt
+		que de saisir son contenu. L'utilisation de cette fonction désactive le texte saisi dans la zone
+		de texte de la signature. Cliquez sur <q>&choose.label;</q> pour localiser votre fichier de
+		signature (optionnel).
+
+		  <p>Vous trouverez plus d'options de signatures dans la section <a href="#addressing">Rédaction &amp; Adressage</a>.</p>
+
+		</dd>
+
+		<dt>&attachVCard.label;</dt>
+
+		<dd>Cochez cette case si vous voulez toujours envoyer votre carte de visite
+		(vCard) avec ce compte. Cliquez sur <q>&editVCard.label;</q> pour
+		éditer les informations contenues dans votre vCard (optionnel).</dd>
+	  </dl>
+	</dd>
+	
+	<dt>Pour les comptes de flux</dt>
+	<dd>
+	  <dl class="traduire">
+	  
+		<dt>Check for new articles at startup</dt>
+		
+		<dd>Select this checkbox if you want to check this account automatically for new blogs &amp; news messages whenever you start Mail &amp; Newsgroups.</dd>
+
+		<dt>Check for new articles every [__] minutes</dt>
+		
+		<dd>Select this checkbox if you want to specify the number of minutes between feed checks. You can also check for new blogs &amp; news messages at any time by clicking Get Msgs in the Mail window.</dd>
+		
+		<dt>By default, show the article summary instead of loading the web page</dt>
+		  
+		<dd>Select this checkbox if you want &brandShortName; to display a brief summary of the article (bundled inside the feed) instead of loading the full web page. Showing the article summary is slightly faster than the full web page, but you may miss part of the article content.</dd>
+		
+		<dt>Empty Trash on Exit</dt>
+		
+		<dd>Empties the Trash folder whenever you quit Mail &amp; Newsgroups.</dd>
+		
+		<dt>Manage Subscriptions...</dt>
+		
+		<dd>Shows the Feed Subscriptions dialog, that allows you to add, edit and remove feeds to this blogs &amp; news feeds account.</dd>
+	  </dl>
+	</dd>
+
+  </dl>
+
+  <p>[&#160;<a href="#mail_and_newsgroups_account_settings">Retour au
+  début de la section</a>&#160;]</p>
+
+  <h2 id="server_settings">Paramètres des comptes courrier &amp; groupes
+  - Paramètres serveur</h2>
+
+  <p>&brandShortName; Courrier &amp; Groupes peut travailler avec deux types
+  différents de serveurs de messagerie&#160;: IMAP et POP. Si vous
+  n'êtes pas sûr du type de serveur que votre fournisseur
+  d'accès à Internet supporte, posez-lui la question. Si votre
+  fournisseur d'accès à Internet supporte les deux, les
+  descriptions suivantes vous aideront à choisir l'un ou l'autre.</p>
+
+  <div class="contentsBox">
+    <p>Dans cette section&#160;:</p>
+
+    <ul>
+      <li><a href="#about_internet_message_access_protocol">À propos du
+      <em lang="en" xml:lang="en">Internet Message Access Protocol</em>
+      (IMAP)</a></li>
+
+      <li><a href="#about_post_office_protocol">À propos du <em lang=
+      "en" xml:lang="en">Post Office Protocol</em> (POP)</a></li>
+
+      <li><a href="#imap_server_settings">Paramétrage d'un serveur
+      IMAP</a></li>
+
+      <li><a href="#advanced_imap_server_settings">Paramétrage
+      avancé d'un serveur IMAP</a></li>
+
+      <li><a href="#pop_server_settings">Paramétrage d'un serveur
+      POP</a></li>
+
+      <li><a href="#news_server_settings">Paramétrage d'un serveur de
+      groupes</a></li>
+    </ul>
+  </div>
+
+  <p>[&#160;<a href="#mail_and_newsgroups_account_settings">Retour au
+  début de la section</a>&#160;]</p>
+
+  <h3 id="about_internet_message_access_protocol">À propos du <em lang=
+  "en" xml:lang="en">Internet Message Access Protocol</em> (IMAP)</h3>
+
+  <p><strong>Avantages</strong>&#160;: vos messages et tout changement les
+  concernant restent sur le serveur, préservant l'espace disque de votre
+  ordinateur. Ce serveur, qui donne accès à une boîte aux
+  lettres toujours à jour, permet de relever vos messages depuis des
+  endroits différents (travail, domicile, etc). La durée de la
+  connexion est plus courte car on ne télécharge initialement que
+  les en-têtes des messages.</p>
+
+  <p><strong>Inconvénient</strong>&#160;: IMAP n'est pas supporté
+  par tous les <acronym title=
+  "Fournisseur d'Accès à Internet">FAI</acronym>.</p>
+
+  <p>[&#160;<a href="#mail_and_newsgroups_account_settings">Retour au
+  début de la section</a>&#160;]</p>
+
+  <h3 id="about_post_office_protocol">À propos du <em lang="en"
+  xml:lang="en">Post Office Protocol</em> (POP)</h3>
+
+  <p><strong>Avantages</strong>&#160;: tous vos messages sont
+  téléchargés entièrement sur votre ordinateur d'un
+  seul coup. Vous pouvez cependant préciser au serveur de conserver une
+  copie ou d'effacer les messages uniquement lorsqu'ils le sont aussi
+  localement. POP est actuellement supporté par la plupart des FAI.</p>
+
+  <p><strong>Inconvénients</strong>&#160;: si vous utilisez plusieurs
+  ordinateurs, des messages peuvent se trouver sur l'un ou sur l'autre, mais
+  pas sur les deux. POP ne fonctionne pas aussi bien que IMAP avec une
+  connexion à bas débit. Vous ne pourrez pas non plus
+  accéder à tous les dossiers de messagerie à partir de
+  divers endroits.</p>
+
+  <p class="rediger">Veuillez noter que les serveurs POP plus récents ont des fonctionnalités
+  permettant de relever seulement les en-têtes plutôt que les messages complets, comme le permet
+  IMAP. Utiliser cette fonctionnalité permet à POP d'être presque aussi rapide qu'IMAP.</p>
+
+  <p>[&#160;<a href="#mail_and_newsgroups_account_settings">Retour au
+  début de la section</a>&#160;]</p>
+
+  <h3 id="imap_server_settings">Paramétrage d'un serveur IMAP</h3>
+
+  <p>Si la boîte de dialogue <q>&accountManagerTitle.label;</q> n'est pas affichée, ouvrez une fenêtre
+  <q>Courrier</q>&#160;.</p>
+
+  <ol>
+    <li>Ouvrez le menu <q>&editMenu.label;</q> et sélectionnez
+    <q>&accountManagerCmd.label;</q>. La boîte
+    de dialogue <q>&accountManagerTitle.label;</q>
+    s'affiche.</li>
+
+    <li>Sélectionnez le nom du compte et cliquez sur la catégorie
+    <q>Paramètres serveur</q>. (Si vous avez sélectionné
+    un serveur IMAP lors de la configuration de ce compte, les
+    paramètres de votre serveur IMAP s'affiche).</li>
+  </ol>
+
+  <dl>
+    <dt>&serverType.label;</dt>
+
+    <dd>Le type du serveur (Serveur de courrier IMAP) que vous avez
+    spécifié lors de la création de ce compte. Pour
+    changer le type de serveur associé à ce compte, vous devez
+    supprimer le compte et en recréer un nouveau.</dd>
+
+    <dt>&serverName.label;</dt>
+
+    <dd>Le nom du serveur que vous avez spécifié lors de la
+    création de ce compte. Si vous avez des problèmes de
+    téléchargement des messages provenant de ce compte,
+    vérifiez auprès de votre fournisseur d'accès ou de
+    votre administrateur système que le nom du serveur entré est
+    correct.</dd>
+
+    <dt>&userName.label;</dt>
+
+    <dd>Le nom d'utilisateur que vous avez spécifié lors de la
+    création de ce compte.</dd>
+
+    <dt>&port.label;</dt>
+
+    <dd>Sauf instructions de la part de votre fournisseur d'accès ou de
+    votre administrateur système, ne changez pas ce réglage.</dd>
+
+	<dt>&securitySettings.label;</dt>
+	
+	<dd>
+	  <dl>
+        <dt>&connectionSecurity.label;&#160;:</dt>
+
+        <dd>si votre serveur de messagerie est
+        configuré pour envoyer et recevoir des messages chiffrés, sélectionnez le type de connexion
+		que vous désirez dans la liste déroulante Si vous n'êtes pas sûr, contactez votre
+		fournisseur d'accès ou votre administrateur système.</dd>
+
+        <dt>&authMethod.label;&#160;:</dt>
+
+        <dd>Choisissez cette option si vous voulez utiliser des
+        mécanismes d'authentification sécurisés tels que
+        CRAM-MD5 et APOP. Pour savoir si votre serveur supporte cette fonction,
+        veuillez contacter votre <acronym title=
+        "Fournisseur d'Accès à Internet">FAI</acronym> ou votre
+        administrateur système.</dd>
+	  </dl>
+	</dd>
+	
+    <dt>&serverSettings.label;&#160;</dt>
+
+    <dd>
+      <dl>
+        <dt>&loginAtStartup.label;&#160;:</dt>
+
+        <dd>Sélectionnez cette option si vous désirez que &brandShortName;
+        Courrier &amp; Groupes vérifie automatiquement la présence
+        de nouveaux messages sur le serveur lorsque vous lancez &brandShortName;
+        Courrier &amp; Groupes.</dd>
+
+        <dt>&biffStart.label; [__] &biffEnd.label;&#160;:</dt>
+
+        <dd>Activez ce paramètre pour une vérification
+        automatique de l'arrivée de nouveaux messages. Spécifiez
+        ensuite le nombre de minutes entre deux vérifications. Si vous
+        n'activez pas ce paramètre, vous pourrez toujours cliquer sur
+        <q>Relever</q> dans la fenêtre Courrier.</dd>
+
+        <dt id="when_i_delete_a_message">&deleteMessagePrefix.label;</dt>
+
+        <dd>Choisissez le comportement à adopter lors de la suppression
+        de messages. <q>&modelMoveToTrash.label;</q> est une option
+        recommandée à moins que vous n'ayez reçu des
+        instructions de votre administrateur système ou de votre
+        fournisseur d'accès. Les messages marqués
+        <q>effacés</q> ne sont effacés que lors d'un compactage
+        des dossiers.</dd>
+
+        <dt>&expungeOnExit.label;</dt>
+
+        <dd>Supprime les messages effacés de votre dossier <q>Courrier
+        entrant</q> lorsque vous quittez &brandShortName; Courrier &amp; Groupes.
+        Choisissez cette option si vous avez précédemment
+        opté pour supprimer vos messages en les marquant
+        <q>effacés</q>.</dd>
+
+        <dt>&advancedButton.label;</dt>
+
+        <dd>Cette fenêtre vous permet de choisir un serveur SMTP sortant
+        pour ce compte, différent de celui par défaut. Vous
+        pouvez également atteindre le <a href=
+        "#advanced_imap_server_settings">Paramétrage avancé d'un
+        serveur IMAP</a> par ce bouton.</dd>
+
+        <dt>&emptyTrashOnExit.label;&#160;:</dt>
+
+        <dd>Cette option vous évite de vider vous-même le contenu
+        de la corbeille en automatisant la suppression des messages dès
+        que vous quittez &brandShortName; Courrier &amp; Groupes.</dd>
+      </dl>
+    </dd>
+
+    <dt>&localPath.label;</dt>
+
+    <dd>Permet de situer sur votre disque dur le répertoire où
+    sont stockés les messages de ce compte.</dd>
+  </dl>
+
+  <h3 id="advanced_imap_server_settings">Paramétrage avancé d'un
+  serveur IMAP</h3>
+
+  <p>Les paramètres avancés d'un serveur IMAP sont bien souvent
+  automatiquement réglés par le serveur. Si vous n'êtes pas
+  sûr des réglages de cette boîte de dialogue, contactez
+  votre <acronym title=
+  "Fournisseur d'Accès à Internet">FAI</acronym> ou votre
+  administrateur système.</p>
+
+  <p>Si la boîte de dialogue des paramètres avancés IMAP
+  n'est pas affichée, ouvrez une fenêtre
+  <q>Courrier</q>&#160;.</p>
+
+  <ol>
+    <li>Ouvrez le menu <q>&editMenu.label;</q> et sélectionnez
+    <q>&accountManagerCmd.label;</q>. La boîte
+    de dialogue <q>&accountManagerTitle.label;</q>
+    s'affiche.</li>
+
+    <li>Sélectionnez le nom du compte et cliquez sur la catégorie
+    <q>&serverSettings.label;</q>.</li>
+
+    <li>Si vous avez sélectionné un serveur IMAP, vous pouvez
+    cliquer sur <q>&advancedButton.label;</q> pour paramétrer les
+    réglages additionnels, tels que&#160;:
+
+      <ul>
+        <li>Le dossier sur le serveur IMAP.</li>
+
+        <li>L'affichage des seuls dossiers avec abonnement.</li>
+
+        <li>Le support des sous-dossiers par le serveur.</li>
+
+        <li>Tous les espaces privés et publics (dossiers
+        partagés) pour ce répertoire.</li>
+      </ul>
+    </li>
+  </ol>
+
+  <p>Pour plus d'informations, voir <a href=
+  "mailnews_addressbooks.xhtml#adding_and_removing_ldap_directories">Ajouter et retirer des annuaires
+  LDAP</a>.</p>
+
+  <p>[&#160;<a href="#mail_and_newsgroups_account_settings">Retour au
+  début de la section</a>&#160;]</p>
+
+  <h3 id="pop_server_settings">Paramétrage d'un serveur POP</h3>
+
+  <p>Si la boîte de dialogue Paramètres des serveurs POP n'est pas
+  affichée, ouvrez une fenêtre <q>Courrier</q>.</p>
+
+  <ol>
+    <li>Ouvrez le menu <q>&editMenu.label;</q> et sélectionnez
+    <q>&accountManagerCmd.label;</q>. La boîte
+    de dialogue <q>&accountManagerTitle.label;</q> s'affiche.</li>
+
+    <li>Sélectionnez le nom du compte et cliquez sur la catégorie
+    <q>&serverSettings.label;</q>. Si vous avez sélectionné un
+    serveur POP lors du paramétrage de ce compte, les paramètres
+    de votre serveur POP s'affiche.</li>
+  </ol>
+
+  <dl>
+    <dt>&serverType.label;</dt>
+
+    <dd>Le type du serveur (Serveur de courrier POP) que vous avez
+    spécifié lors de la création de ce compte. Pour changer
+    le type de serveur associé à ce compte, vous devez supprimer
+    le compte et en recréer un.</dd>
+
+    <dt>&serverName.label;</dt>
+
+    <dd>Le nom du serveur que vous avez spécifié lors de la
+    création de ce compte. Si vous avez des problèmes de
+    téléchargement des messages provenant de ce compte,
+    vérifiez auprès de votre fournisseur d'accès ou de
+    votre administrateur système que le nom du serveur entré est
+    correct.</dd>
+
+    <dt>&userName.label;</dt>
+
+    <dd>Le nom d'utilisateur que vous avez spécifié lors de la
+    création de ce compte.</dd>
+
+    <dt>&port.label;</dt>
+
+    <dd>Sauf instructions de la part de votre fournisseur d'accès ou de
+    votre administrateur système, ne changez pas ce réglage.</dd>
+
+    <dt>&serverSettings.label;&#160;:</dt>
+
+    <dd>
+      <dl>
+        <dt>&connectionSecurity.label;</dt>
+
+        <dd>Sélectionnez cette option si votre serveur de messagerie est
+        configuré pour envoyer et recevoir des messages chiffrés.
+        Si vous n'en êtes pas sûr, contactez votre fournisseur
+        d'accès ou votre administrateur système.</dd>
+
+        <dt>&authMethod.label;</dt>
+
+        <dd>Choisissez cette option si vous voulez utiliser des
+        mécanismes d'authentification sécurisés tels que
+        CRAM-MD5 et APOP. Pour savoir si votre serveur supporte cette fonction,
+        veuillez contacter votre <acronym title=
+        "Fournisseur d'Accès à Internet">FAI</acronym> ou votre
+        administrateur système.</dd>
+
+        <dt>&loginAtStartup.label;&#160;:</dt>
+
+        <dd>Sélectionnez cette option si vous désirez que &brandShortName;
+        Courrier &amp; Groupes vérifie automatiquement la présence
+        de nouveaux messages sur le serveur lorsque vous lancez &brandShortName;
+        Courrier &amp; Groupes. Par défaut, &brandShortName; Courrier &amp; Groupes
+        est configuré pour ne pas télécharger les nouveaux
+        messages jusqu'à ce que vous cliquiez sur <q>Relever</q> sur la
+        barre d'outils Courrier.</dd>
+
+        <dt>&biffStart.label; [__] &biffEnd.label;&#160;:</dt>
+
+        <dd>Activez ce paramètre pour une vérification
+        automatique de l'arrivée de nouveaux messages. Spécifiez
+        ensuite le nombre de minutes entre deux vérifications. Si vous
+        n'activez pas ce paramètre, vous pourrez toujours cliquer sur
+        <q>Relever</q> dans la fenêtre <q>Courrier</q>.</dd>
+
+        <dt>&downloadOnBiff.label;</dt>
+
+        <dd>Sélectionnez cette option si vous désirez que &brandShortName;
+        Courrier &amp; Groupes récupère les messages à
+        chaque fois qu'il vérifie le serveur.</dd>
+
+        <dt>&headersOnly.label;</dt>
+
+        <dd>Choisissez ce paramètre si vous ne voulez télécharger
+        que les en-têtes plutôt que les messages complets lorsque vous relevez un nouveau
+        courriel. Cette option nécessite que votre serveur POP gère la commande <q>TOP</q>. Les
+        serveurs POP les plus récents le gèrent mais si vous n'en êtes pas sûr,
+        contactez votre fournisseur d'accès à Internet ou votre administrateur système.</dd>
+
+        <dt>&leaveOnServer.label;&#160;:</dt>
+
+        <dd>
+          Sélectionnez cette option permet de conserver une copie des
+          messages sur le serveur de messagerie en plus de les
+          télécharger sur votre ordinateur.
+
+          <dl>
+            <dt>&deleteByAgeFromServer.label; [__] &daysEnd.label;&#160;:</dt>
+
+            <dd>Sélectionnez cette option pour effacer les messages du
+            serveur automatiquement après le nombre de jours que vous
+            avez entré.</dd>
+
+            <dt>&deleteOnServer2.label; ou les déplace
+            hors du dossier <q>Courrier entrant</q>&#160;:</dt>
+
+            <dd>Sélectionnez cette option pour effacer les messages du
+            serveur dès que vous les effacez ou les déplacez de
+            <q>Courrier entrant</q> vers un autre dossier.</dd>
+          </dl>
+        </dd>
+
+        <dt>&emptyTrashOnExit.label;&#160;:</dt>
+
+        <dd>Sélectionnez cette option pour vider automatiquement le
+        dossier <q>Corbeille</q> quand vous quittez &brandShortName; Courrier &amp;
+        Groupes.</dd>
+
+        <dt>&advancedButton.label;</dt>
+
+        <dd>Cette fenêtre vous permet de choisir un serveur sortant (SMTP)
+        pour ce compte, différent de celui par défaut.</dd>
+      </dl>
+    </dd>
+
+    <dt>&localPath.label;</dt>
+
+    <dd>Permet de situer sur votre disque dur le répertoire où
+    sont stockés les messages de ce compte.</dd>
+  </dl>
+
+  <p>[&#160;<a href="#mail_and_newsgroups_account_settings">Retour au
+  début de la section</a>&#160;]</p>
+
+  <h3 id="news_server_settings">Paramétrage d'un serveur de groupes</h3>
+
+  <p>Cette section décrit comment changer les paramètres d'un
+  serveur de groupes. Si les paramètres des serveurs de groupes ne sont
+  pas affichés, ouvrez une fenêtre <q>Courrier</q>.</p>
+
+  <ol>
+    <li>Ouvrez le menu <q>&editMenu.label;</q> et choisissez <q>&accountManagerCmd.label;</q>. La boîte de dialogue
+    <q>&accountManagerTitle.label;</q> s'affiche.</li>
+
+    <li>Sélectionnez le nom du compte et cliquez sur
+    <q>Paramètres serveur</q>. (Si vous avez choisi un serveur de groupes
+    lors de la configuration de ce compte, les paramètres du serveur de
+    groupes s'affichent.)</li>
+  </ol>
+
+  <dl>
+    <dt>&serverType.label;</dt>
+
+    <dd>Le type de serveur (Serveur de groupe NNTP) que vous avez
+    spécifié lors de la création de ce compte. Pour
+    changer le type de serveur associé à ce compte, vous devez
+    supprimer ce compte et en recréer un.</dd>
+
+    <dt>&serverName.label;</dt>
+
+    <dd>Le nom du serveur que vous avez spécifié lors de la
+    création de ce compte. Si vous avez des problèmes pour
+    récupérer les messages provenant de ce compte,
+    vérifiez auprès de votre fournisseur d'accès Internet
+    ou de votre administrateur système que le nom du serveur
+    entré est correct.</dd>
+
+    <dt>&port.label;</dt>
+
+    <dd>Sauf instructions de la part de votre fournisseur d'accès ou de
+    votre administrateur système, ne changez pas ce réglage.</dd>
+
+    <dt>&serverSettings.label;&#160;:</dt>
+
+    <dd>
+      <dl>
+        <dt>&connectionSecurity.label;&#160;:</dt>
+
+        <dd>Sélectionnez cette option si votre serveur de messagerie est
+        configuré pour envoyer et recevoir des messages chiffrés.
+        Si vous n'êtes pas sûr, contactez votre fournisseur
+        d'accès ou votre administrateur système.</dd>
+
+        <dt>&biffStart.label; [__] &biffEnd.label;&#160;:</dt>
+
+        <dd>Activez ce paramètre pour automatiquement vérifier
+        l'arrivée de nouveaux messages. Spécifiez ensuite le
+        nombre de minutes entre chaque vérifications. Si vous n'activez
+        pas ce paramètre, vous pourrez toujours cliquer sur
+        <q>Relever</q> dans la fenêtre <q>Courrier</q>.</dd>
+
+        <dt>&maxMessagesStart.label; [__] &maxMessagesEnd.label;&#160;:</dt>
+
+        <dd>Préserve l'espace disque et le temps de
+        téléchargement, en limitant le nombre de messages que
+        vous pouvez relever en une seule fois.</dd>
+
+        <dt>&localPath.label;</dt>
+
+        <dd>Permet de situer sur votre disque dur le répertoire
+        où sont stockés les messages de ce compte.</dd>
+
+        <dt>&alwaysAuthenticate.label;&#160;:</dt>
+
+        <dd>Certains serveurs vous permettent d'envoyer des messages sans
+        être connecté avec un nom d'utilisateur valide, mais dans
+        ce cas ils vous cacheront toutes les discussions
+        <em>privées</em>. Choisissez cette option pour forcer &brandShortName;
+        à vous identifier à chaque connexion sur ces serveurs,
+        même si l'identification n'est pas requise (également
+        appelée <q>Authentification forcée</q>).</dd>
+
+        <dt>&advancedButton.label;</dt>
+
+        <dd>Cette fenêtre vous permet de choisir un serveur sortant (SMTP)
+        pour ce compte, différent de celui par défaut.</dd>
+
+        <dt>&newsrcFilePath.label;</dt>
+
+        <dd>Le chemin d'accès vers votre fichier newsrc est
+        affiché pour votre information. Le fichier newsrc stocke les
+        informations concernant les groupes auxquels vous êtes
+        abonné, et les messages que vous avez lus dans chaque
+        groupe.</dd>
+      </dl>
+    </dd>
+
+  </dl>
+
+  <p>[&#160;<a href="#mail_and_newsgroups_account_settings">Retour au
+  début de la section</a>&#160;]</p>
+
+  <h2 id="copies_and_folders">Paramètres des comptes courrier &amp;
+  groupes - Copies et dossiers</h2>
+
+  <p>Cette section décrit le paramétrage pour l'envoi de copies
+  automatiques et le stockage de copies des messages sortants, des brouillons
+  et des modèles de messages.</p>
+
+  <p>Par défaut, &brandShortName; Courrier &amp; Groupes stocke des copies de vos
+  messages sortants dans le dossier <q>Envoyés</q> du compte courant.
+  &brandShortName; Courrier &amp; Groupes stocke également les brouillons dans le
+  dossier <q>Brouillons</q> et les modèles de messages dans le dossier
+  <q>Modèles</q> du compte courant.</p>
+
+  <p>Si les paramètres Copies et Dossiers ne sont pas affichés,
+  ouvrez une fenêtre <q>Courrier</q>&#160;:</p>
+
+  <ol>
+    <li>Ouvrez le menu <q>&editMenu.label;</q> et choisissez <q>&accountManagerCmd.label;</q>. La boîte de dialogue
+    <q>&accountManagerTitle.label;</q> s'affiche.</li>
+
+    <li>Sélectionnez le nom du compte et cliquez sur <q>Copies et
+    Dossiers</q>. La section <q>Copies et Dossiers</q> s'affiche.</li>
+  </ol>
+
+  <dl>
+    <dt>&sendingPrefix.label;</dt>
+
+    <dd>
+      <dl>
+        <dt>&fccMailFolder.label;</dt>
+
+        <dd>Choisir où stocker les copies de vos messages sortants de
+        messagerie et de groupe. Si vous ne voulez pas utiliser le dossier
+        <q>Envoyés</q> du compte courant, cliquez sur <q>Autres</q>,
+        choisissez le compte puis le dossier où stocker vos copies de
+        messages.</dd><!--      <dt>Bcc&#160;:</dt>
+      <dd>Activez ceci si vous désirez toujours vous envoyer une copie carbone invisible.</dd>  -->
+
+        <dt>&bccAddress.label;</dt>
+
+        <dd>Activez cette option si vous désirez toujours envoyer une
+        copie carbone invisible à certaines adresses, puis saisissez les
+        adresses correspondantes. Séparez les adresses avec une virgule
+        <q>,</q>.</dd>
+      </dl>
+    </dd>
+
+    <dt>&specialFoldersTitle.label;</dt>
+
+    <dd>
+      <dl>
+        <dt>&draftsFolderOn.label;</dt>
+
+        <dd>Permet de conserver les brouillons à l'endroit
+        indiqué. Si vous ne voulez pas utiliser le dossier par
+        défaut <q>Brouillons</q> du compte courant, cliquez sur
+        <q>&draftInOtherFolder.label;</q> , choisissez le compte puis le dossier où stocker
+        vos brouillons.</dd>
+
+        <dt>&templatesFolderOn.label;</dt>
+
+        <dd>Permet de conserver vos modèles à l'endroit
+        indiqué. Si vous ne voulez pas utiliser le dossier par
+        défaut <q>Modèles</q> du compte courant, cliquez sur
+        <q>&templateInOtherFolder.label;</q>, choisissez le compte puis le dossier où stocker
+        vos modèles.</dd>
+
+        <dt>&saveMessageDlg.label;</dt>
+
+        <dd>Activez cette option si vous désirez que &brandShortName; Courrier
+        &amp; Groupes affiche une boîte de dialogue de confirmation lors
+        de l'enregistrement d'un brouillon ou d'un modèle. Si elle est
+        activée, une boîte de dialogue apparaîtra lors de
+        l'enregistrement d'un brouillon ou d'un modèle pour vous
+        rappeler où &brandShortName; Courrier &amp; Groupes les enregistre.</dd>
+      </dl>
+    </dd>
+  </dl>
+
+  <p>[&#160;<a href="#mail_and_newsgroups_account_settings">Retour au
+  début de la section</a>&#160;]</p>
+
+  <h2 id="addressing">Paramètres des comptes courrier &amp; groupes -
+  &addressing.label;</h2>
+
+  <p>Utilisez les paramètres de <q>&addressing.label;</q>
+  pour choisir le format des messages que vous envoyez, comment traiter les
+  réponses et comment votre signature doit être incluse.</p>
+
+  <p>Si les paramètres de <q>&addressing.label;</q> ne sont pas affichés,
+  ouvrez une fenêtre <q>Courrier</q>&#160;:</p>
+
+  <ol>
+    <li>Ouvrez le menu <q>&editMenu.label;</q> et choisissez <q>&accountManagerCmd.label;</q>. La
+	boîte de dialogue <q>&accountManagerTitle.label;</q> s'affiche.</li>
+
+    <li>Sélectionnez le nom du compte et cliquez sur la catégorie <q>&addressing.label;</q>. La
+	section <q>&addressing.label;</q> s'affiche.</li>
+  </ol>
+
+  <dl>
+    <dt>&useHtml.label;</dt>
+
+    <dd>
+      Vous pouvez utiliser le format <tt>HTML</tt> par défaut pour
+      écrire vos messages (courriers ou groupes de discussion). Laissez
+      la case décochée pour utiliser le format <tt>texte</tt> par
+      défaut. Les messages en HTML peuvent contenir du texte
+      formaté (couleur, police, etc.), des liens, des images ou encore
+      des tableaux, tout comme une page Web. Cependant, avant d'utiliser ce
+      format, vérifier que les destinataires seront capables de lire les
+      messages en HTML avec leur client de courrier électronique. De
+      nombreux groupes de discussions ou listes de diffusion n'acceptent que les
+      messages au format <tt>texte</tt>.
+
+      <p><strong>Astuce</strong>&#160;: si vous désirez utiliser l'un
+      des formats de façon occasionnelle, vous pouvez maintenir la
+      touche <kbd>Majuscule</kbd> enfoncée lorsque vous cliquerez sur
+      l'un des boutons <q>Écrire</q>, <q>&replyMsgCmd.label;</q> ou
+      <q>&replyToAllMsgCmd.label;</q> pour basculer automatiquement dans
+      le format secondaire qui ne sera utilisé que pour le
+      présent message.</p>
+    </dd>
+
+    <dt>Insérer le message original dans la réponse&#160;:</dt>
+
+    <dd>
+      Sélectionnez cette option si vous désirez inclure le
+      message original dans la réponse.
+
+      <p>Vous pouvez utiliser la liste déroulante <q>Lors de la
+      rédaction</q> pour indiquer à quel endroit de la
+      réponse placer le message original. Vous pouvez choisir de le
+      placer avant ou après votre réponse, sachant qu'il est plus
+      naturel et fortement recommandé de le laisser avant. Vous pouvez
+      également choisir de sélectionner automatiquement le texte
+      cité.</p>
+
+      <dl>
+        <dt>Et ma signature est&#160;:</dt>
+
+        <dd>La liste déroulante vous permet de choisir l'emplacement de
+        votre signature. Cette option n'est active que si vous avez
+        sélectionné d'<a href="#account_settings">apposer votre
+        signature</a> et que la réponse à un message commence
+        <q>avant</q> le texte cité.</dd>
+      </dl>
+    </dd>
+  </dl>
+
+  <dl class="traduire">
+	<dt>Ajouter la signature pour les réponses</dt>
+
+	<dd>If you have created a
+    signature, select this option to include it in your reply to a message.
+    The signature is added according to your settings for quote and signature
+    placement.</dd>
+
+	<dt>Ajouter la signature pour les transferts</dt>
+
+	<dd>If you have created a
+    signature, select this option to include it when you forward a message.
+    The signature is placed according to your reply settings when
+    <a href="mailnews_preferences.xhtml#composition">forwarding inline</a>.</dd>
+  </dl>
+
+  <p>Vous utiliserez les paramètres d'adressage pour passer outre les
+  paramètres globaux du serveur LDAP spécifiés pour tous
+  les <a href="mailnews_preferences.xhtml#addressing_preferences">carnets d'adresses</a> dans la
+  boîte de dialogue <q>&prefWindow.title;</q>. Les
+  paramètres du serveur LDAP affectent la manière d'utiliser
+  <a href="mailnews_preferences.xhtml#address_autocompletion">l'auto-complétion d'adresses</a> et
+  vous pouvez changer ces paramètres pour chaque compte si
+  nécessaire.</p>
+
+  <p>L'auto-complétion d'adresses utilise votre carnet d'adresses pour
+  trouver ce que vous désirez à partir de ce que vous tapez dans
+  le champ des destinataires de la fenêtre du rédaction.</p>
+
+  <p>Si les paramètres d'adressage ne sont pas affichés, ouvrez
+  une fenêtre <q>Courrier</q>&#160;:</p>
+
+  <ol>
+    <li>Ouvrez le menu <q>&editMenu.label;</q> et choisissez <q>&accountManagerCmd.label;</q>. La boîte de dialogue
+    <q>&accountManagerTitle.label;</q> s'affiche.</li>
+
+    <li>Sélectionnez le nom du compte et cliquez sur <q>&addressing.label;</q>.</li>
+  </ol>
+
+  <dl>
+    <dt class="rediger">&autocompleteToMyDomain.label;</dt>
+
+    <dd class="rediger">Sélectionnez ceci si vous voulez que le client de messagerie
+    ajoute automatiquement votre nom de domaine aux adresses que vous saisissez.</dd>
+
+    <dt>&useGlobal.label;</dt>
+
+    <dd>Activée par défaut, cette option peut être
+    désactivée si vous désirez passer outre les
+    préférences globales de serveur LDAP pour ce compte.</dd>
+
+    <dt>&directories.label;</dt>
+
+    <dd>Sélectionnez cette option puis choisissez un autre serveur LDAP
+    dans la liste si vous projetez d'utiliser un serveur d'annuaire LDAP
+    différent pour l'auto-complétion d'adresses de ce compte. Si
+    nécessaire, cliquez sur <q>&editDirectories.label;</q> afin d'éditer
+    individuellement les paramètres des serveur d'annuaire et pour
+    ajouter ou supprimer un serveur d'annuaire. Pour plus d'informations, voir
+    <a href="mailnews_addressbooks.xhtml#adding_and_removing_ldap_directories">Ajouter et retirer
+    d'annuaires LDAP</a>.</dd>
+  </dl>
+
+  <p>[&#160;<a href="#mail_and_newsgroups_account_settings">Retour au
+  début de la section</a>&#160;]</p>
+
+  <h2 id="synchronization_and_storage">Paramètres des comptes courrier &amp;
+  groupes - Synchronisation et espace disque</h2>
+
+  <p>Les paramètres <q>Synchronisation et espace disque</q> vous permettent
+  de préserver de l'espace disque ou de configurer la synchronisation d'un compte en vue
+  d'une utilisation en mode hors connexion (déconnecté d'Internet).
+  Ces paramètres dépendent du type de serveur de messages (IMAP,
+  POP, ou Groupe) associé au compte.</p>
+
+  <div class="contentsBox">
+    <p>Dans cette section&#160;:</p>
+
+    <ul>
+      <li><a href="#synchronization_and_storage_settings_imap">Paramètres
+      Synchronisation et espace disque (IMAP)</a></li>
+
+      <li><a href="#disk_space_settings_pop">Paramètres Espace disque
+      (POP)</a></li>
+
+	  <li><a href="#disk_space_settings_blogs">Paramètres Espace disque (flux de blogs et de
+	  nouvelles)</a></li>
+
+      <li><a href="#synchronization_and_storage_settings_nntp">Paramètres
+      Synchronisation et espace disque (Groupes)</a></li>
+    </ul>
+  </div>
+
+  <p>[&#160;<a href="#mail_and_newsgroups_account_settings">Retour au
+  début de la section</a>&#160;]</p>
+
+  <h3 id="synchronization_and_storage_settings_imap">Paramètres synchronisation et
+  espace disque (IMAP)</h3>
+
+  <p>Si les paramètres Synchronisation et espace disque d'un compte IMAP ne
+  sont pas affichés, ouvrez une fenêtre <q>Courrier</q>&#160;:</p>
+
+  <ol>
+    <li>Ouvrez le menu <q>&editMenu.label;</q> et choisissez <q>&accountManagerCmd.label;</q>. La boîte de dialogue
+    <q>&accountManagerTitle.label;</q> s'affiche.</li>
+
+    <li>Sélectionnez le nom d'un compte IMAP et cliquez sur <q>Synchronisation et espace
+	disque</q>.</li>
+  </ol>
+
+  <dl class="traduire">
+    <dt>&syncGroupTitle.label;</dt>
+
+    <dd>
+      <dl>
+        <dt>&allFoldersOffline.label;</dt>
+
+        <dd>Activez cette option pour que les messages de votre boîte de
+        réception soient disponibles lorsque vous travaillez en mode
+        hors connexion.</dd>
+
+		<dt>Advanced</dt>
+
+		<dd>Click to open a dialog to select the folders that you want to make available for offline use. See <a href="mailnews_offline.xhtml#selecting_items_for_offline_viewing">Selecting Items for Offline Viewing</a> for more information.
+
+		  <p><strong>Note</strong>: While the default setting can be overridden for an individual folder, those per-folder settings are <em>removed</em> whenever the <q>Keep messages for this account</q> box is toggled.</p>
+		</dd>
+      </dl>
+    </dd>
+
+    <dt>&diskspaceGroupTitle.label;</dt>
+
+    <dd>
+      <dl>
+        <dt>&offlineNotDownload.label; [__] &kb.label;</dt>
+
+        <dd>préserve votre espace disque en limitant, en fonction d'une
+        taille maximum du fichier, le téléchargement des messages
+        trop volumineux. Précisez cette taille maximum (en ko).</dd>
+
+		<dt>Politique de rétention</dt>
+	
+		<dd>The <a href="#retention_policy">retention settings</a> can be used to free up space by deleting old messages. Note that these settings apply to <em>both</em> local copies and their originals on the server.</dd>
+		
+	  </dl>
+    </dd>
+  </dl>
+
+  <p>[&#160;<a href="#mail_and_newsgroups_account_settings">Retour au
+  début de la section</a>&#160;]</p>
+
+  <h3 id="disk_space_settings_pop">Paramètres espace disque (POP)</h3>
+
+  <p class="rediger">Les messages des comptes POP sont toujours
+  téléchargés sur votre ordinateur sauf si vous avez
+  activé l'option <q>&headersOnly.label;</q>.
+  Si votre compte a ce paramètre activé, alors ces préférences
+  d'espace disque seront ignorées. Cette section
+  décrit comment vous pouvez préserver votre espace disque avec
+  un compte POP.</p>
+
+  <p>Si les paramètres d'espace disque d'un compte POP ne sont pas
+  affichés, ouvrez une fenêtre <q>Courrier</q>.</p>
+
+  <ol>
+    <li>Ouvrez le menu <q>&editMenu.label;</q> et choisissez <q>&accountManagerCmd.label;</q>. La boîte de dialogue
+    <q>&accountManagerTitle.label;</q> s'affiche.</li>
+
+    <li>Sélectionnez le nom d'un compte POP et cliquez sur <q>Espace
+    disque</q>.</li>
+  </ol>
+
+  <dl>
+    <dt>Les messages plus grands que [__] ko&#160;:</dt>
+
+    <dd>Préserve votre espace disque en limitant, en fonction d'une
+    taille maximum du fichier, le téléchargement des messages
+    trop volumineux. Précisez cette taille maximum (en ko).</dd>
+	
+	<dt>Politique de rétention</dt>
+
+	<dd>The <a href="#retention_policy">retention settings</a> can be used to
+    free up space by deleting old messages. Note that these settings apply
+    to <em>both</em> local copies and their originals on the server.
+
+	  <p><strong>Note</strong>: If your POP account is set up to use a Global
+      Inbox, the retention period settings of the target Inbox apply.</p>
+	</dd>
+  </dl>
+
+  <p>[&#160;<a href="#mail_and_newsgroups_account_settings">Retour au
+  début de la section</a>&#160;]</p>
+<div class="traduire">
+<h3 id="disk_space_settings_blogs">Disk Space Settings (Blogs)</h3>
+
+<p>Messages from blogs &amp; news feeds accounts are only stored in your local
+  machine in their short form, ie. the article summary, regardless of whether
+  your settings are to show the full articles by default. Still, there are
+  options to control how much disk space is used by your blogs &amp; news feeds
+  account. If you are not already viewing the Disk Space preferences for a
+  blogs &amp; news feeds account, follow these steps:</p>
+
+<p>Begin from the Mail window.</p>
+
+<ol>
+  <li>Open the Edit menu, choose Mail &amp; Newsgroups Account Settings. You
+    see the Mail &amp; Newsgroups Account Settings dialog box.</li>
+  <li>Click the Disk Space category for a blogs &amp; news feeds account.</li>
+</ol>
+
+<p>There, you can specify which messages should be deleted to recover disk
+  space:</p>
+
+<ul>
+  <li><strong>Don&apos;t delete any messages</strong>: Select this option to
+    keep all messages forever. Keep in mind that, if you are subscribed to very
+    high-traffic blogs, this will increase the occupied disk space steadily and
+    could eventually fill up your hard disk.</li>
+  <li><strong>Delete all but the most recent [____] messages</strong>: Select this
+    option to keep in each feed only a maximum number of messages. Enter the
+    maximum number of messages (being 1,000 by default).</li>
+  <li><strong>Delete messages more than [__] days old</strong>: Select this
+    option to keep in each feed only messages that are not older than the number
+    of days you enter here (being 30 days by default).</li>
+  <li><strong>Always keep flagged messages</strong>: Check this option to
+    save (not delete) flagged messages, regardless of its age.</li>
+	</ul>
+</div>
+  <p>[&#160;<a href="#mail_and_newsgroups_account_settings">Retour au
+  début de la section</a>&#160;]</p>
+
+  <h3 id="synchronization_and_storage_settings_nntp">Paramètres Synchronisation et
+  espace disque (Groupe)</h3>
+
+  <p>Si les paramètres Synchronisation et espace disque d'un compte groupe ne
+  sont pas affichés, ouvrez une fenêtre <q>Courrier</q>.</p>
+
+  <ol>
+    <li>Ouvrez le menu <q>&editMenu.label;</q> et choisissez <q>&accountManagerCmd.label;</q>. La boîte de dialogue
+    <q>&accountManagerTitle.label;</q> s'affiche.</li>
+
+    <li>Sélectionnez le nom d'un compte groupe et cliquez sur <q>Synchronisation et espace disque</q>.</li>
+  </ol>
+
+  <dl>
+    <dt>Sélectionner les groupes de discussion pour le travail hors
+    ligne…&#160;:</dt>
+
+    <dd>Cliquez sur ce bouton afin de sélectionner les groupes que vous
+    désirez marquer comme disponibles lors d'une utilisation hors connexion.
+    Voir <a href="mailnews_offline.xhtml#selecting_items_for_offline_viewing">Sélection de
+    comptes, de dossiers et de groupes pour un affichage hors connexion</a> pour
+    plus d'informations.</dd>
+  </dl>
+
+  <p>Les paramètres suivants aident à minimiser l'espace disque utilisé et le
+  temps de téléchargement. Spécifiez quels messages vous ne voulez pas
+  télécharger localement&#160;:</p>
+
+  <dl>
+    <dt>&nntpNotDownloadRead.label;</dt>
+
+    <dd>Sélectionnez cette option pour que ne soient téléchargés que les
+	messages que vous n'avez pas encore lus.</dd>
+
+    <dt>&offlineNotDownload.label; [__] &kb.label;</dt>
+
+    <dd>Sélectionnez cette option pour préserver votre espace
+    disque en limitant, en fonction d'une taille maximum de message, le
+    téléchargement des messages trop volumineux. Précisez
+    cette taille maximum (en ko).</dd>
+
+    <dt>&nntpDownloadMsg.label; [__] &daysOld.label;</dt>
+
+    <dd>Sélectionnez cette option pour ne télécharger que
+    les messages qui ont été postés dans la période
+    spécifiée.</dd>
+  </dl>
+
+<p>[&#160;<a href="#mail_and_newsgroups_account_settings">Retour au début de la
+section</a>&#160;]</p>
+
+<h3 id="retention_policy">Common Retention Policy Settings</h3>
+
+  <p>&brandShortName; peut automatiquement effacer des anciens messages
+  pour vous. Vous pouvez configurer ce processus à l'aide des options
+  listées sous <q>&retentionCleanup.label;</q>&#160;:</p>
+
+  <dl>
+    <dt>&retentionKeepAll.label;</dt>
+
+    <dd>Garde tous les messages et n'efface jamais un message
+    automatiquement.</dd>
+
+    <dt>&retentionKeepRecent.label; [__] &message.label;</dt>
+
+    <dd>Entrez le nombre de messages à garder. Avec ce paramètre,
+    seuls les messages plus âgés que ces messages seront
+    effacés.</dd>
+
+    <dt>&retentionKeepMsg.label; [__] &daysOld.label;
+    jours&#160;:</dt>
+
+    <dd>Garde tous les messages qui sont arrivés dans la période
+    spécifiée.</dd>
+  </dl>
+
+  <p>À l'aide de deux derniers paramètres, vous pouvez limiter
+  encore plus les trois options pour effacer automatiquement des messages. Ceci
+  est spécialement utile en combinaison avec l'option de garder tous les
+  messages.</p>
+
+  <dl class="traduire">
+
+	<dt>&retentionApplyToFlagged.label;</dt>
+
+	<dd>Use this option to deny &brandShortName; to delete any messages you have flagged.</dd>
+
+    <dt>&nntpRemoveMsgBody.label; [__] &daysOld.label;</dt>
+
+    <dd>Sélectionnez cette option pour empêcher &brandShortName; d'effacer
+    les messages qui sont plus récents que la période spécifiée.</dd>
+  </dl>
+
+<p class="traduire">This policy can be overridden for an individual folder in the Folder Properties, Retention Policy tab.</p>
+
+<p class="traduire"><strong>Note:</strong> If message synchronization is enabled (for IMAP), or messages are left on the server for POP accounts), the settings apply to <em>both</em> local copies and their originals on the server.</p>
+
+  <p>[&#160;<a href="#mail_and_newsgroups_account_settings">Retour au
+  début de la section</a>&#160;]</p>
+
+<div class="rediger">
+  <h2 id="junk_settings">Paramètres des comptes courrier &amp; groupes
+  - &junkSettings.label;</h2>
+
+  <p>Cette section décrit comment utiliser les paramètres pour les
+  courriers indésirables. Si vous ne voyez pas les Paramètres pour
+  les indésirables, suivez ces étapes&#160;:</p>
+
+  <ol>
+    <li>Ouvrez le menu <q>&editMenu.label;</q>, et choisissez <q>&accountManagerCmd.label;</q>. La boîte de dialogue
+    <q>&accountManagerTitle.label;</q> s'ouvre.</li>
+    <li>Cliquez sur la catégorie <q>&junkSettings.label;</q> de votre compte courrier.</li>
+  </ol>
+
+  <p>Utilisez le panneau des <q>&junkSettings.label;</q>
+  pour définir les paramètres relatifs à votre compte pour
+  le filtre courrier adaptatif. Les paramètres globaux relatifs aux
+  indésirables sont changés sous <a
+  href="junk_and_suspect_preferences">Préférences courrier et groupes -
+  Courriers indésirables et suspects</a>.</p>
+
+  <dl>
+
+    <dt>&level.label;</dt>
+    <dd>Changez cette option pour activer ou désactiver la classification
+    des courriers indésirables.</dd>
+
+    <dt>&whitelist.label;</dt>
+    <dd>Choisissez cette option pour éviter que des personnes que vous
+    connaissez ne soient par inadvertance classés dans les courriers
+    indésirables.</dd>
+
+    <dt>&ispHeaders.label; [un système de filtrage externe, tel SpamAssassin
+    ou Spam Pal]</dt>
+    <dd>Choisissez cette option si vous voulez faire confiance à la
+    classification de programmes de filtrage externes.</dd>
+
+    <dt>&move.label;</dt>
+    <dd>Cochez cette option pour automatiquement déplacer les message
+    marqués comme indésirables dans un dossier spécifique.
+
+      <dl>
+        <dt>&junkFolderOn.label; [compte]</dt>
+        <dd>Sélectionnez ceci pour utiliser le dossier des indésirables par
+        défaut.</dd>
+
+        <dt>&otherFolder.label; [compte]</dt>
+        <dd>Sélectionnez ceci pour choisir votre dossier indésirables
+        personnalisé.</dd>
+
+        <dt>&purge1.label; [__] &purge2.label;</dt>
+
+        <dd>Si vous êtes confiant dans le fait que les vieux messages
+        classés en indésirables sont réellement
+        indésirables, cochez cette option pour les supprimer
+        automatiquement, après une période de grâce.</dd>
+      </dl>
+
+    </dd>
+
+  </dl>
+
+  <p>[&#160;<a href="#mail_and_newsgroups_account_settings">Retour au
+  début de la section</a>&#160;]</p>
+
+</div>
+
+
+  <h2 id="return_receipts">Paramètres des comptes courrier &amp; groupes
+  - &pref.receipts.title;</h2>
+
+  <p>Cette section décrit la manière d'utiliser les
+  paramètres d'accusés de réception pour un compte. Si les
+  paramètres d'accusés de réception ne sont pas
+  affichés, suivez ces étapes&#160;:</p>
+
+  <ol>
+    <li>Ouvrez le menu <q>&editMenu.label;</q> et choisissez <q>&accountManagerCmd.label;</q>. La boîte de dialogue
+    <q>&accountManagerTitle.label;</q> s'affiche.</li>
+
+    <li>Sélectionnez le nom d'un compte de courrier et cliquez sur
+    <q>&pref.receipts.title;</q>.</li>
+  </ol>
+
+  <p>Vous utilisez les paramètres d'accusés de réception
+  pour les messages sortants de ce compte. Vous utilisez aussi les
+  paramètres d'accusés de réception pour décider de
+  la façon de gérer les demandes d'accusés de
+  réception. Ces paramètres supplantent les
+  préférences globales d'accusés de réception
+  spécifiées par <a href=
+  "mailnews_preferences.xhtml#return_receipts_preferences">Préférences Courrier &amp;
+  Groupes - &pref.receipts.title;</a>.</p>
+
+  <dl>
+    <dt>&useGlobalPrefs.label;</dt>
+
+    <dd>Par défaut, ce compte utilisera les préférences
+    d'accusés de réception spécifiées par <a href=
+    "mailnews_preferences.xhtml#return_receipts_preferences">Préférences Courrier &amp;
+    Groupes - &pref.receipts.title;</a>.</dd>
+
+    <dt>&useCustomPrefs.label;</dt>
+
+    <dd>
+      Vous permet de modifier les préférences globales
+      d'accusés de réception pour ce compte.
+
+      <dl>
+        <dt>&requestReceipt.label;</dt>
+
+        <dd>Active la demande automatique d'accusés de réception
+        pour tous les messages sortants de ce compte.</dd>
+
+        <dt>Le laisser dans mon Courrier entrant&#160;:</dt>
+
+        <dd>
+          Les accusés de réception entrants sont envoyés
+          dans le dossier <q>Courrier entrant</q> de ce compte.
+
+          <p><strong>Astuce</strong>&#160;: choisissez cette option si vous
+          voulez utiliser un filtre qui déplace les accusés de
+          réception reçus dans un dossier de votre choix. Pour
+          plus d'informations sur les filtres, voir <a href=
+          "mailnews_organizing.xhtml#creating_message_filters">Création de filtres de
+          messages</a>.</p>
+        </dd>
+
+        <dt>Le déplacer dans mon dossier "Envoyés"&#160;:</dt>
+
+        <dd>Les accusés de réception entrants sont
+        déplacés dans le dossier <q>Envoyés</q> de ce
+        compte.</dd>
+
+        <dt>Ne jamais envoyer d'accusé de réception&#160;:</dt>
+
+        <dd>Choisissez cette option si vous ne voulez pas envoyer
+        d'accusé de réception en réponse aux demandes des
+        expéditeurs des courriers entrants.</dd>
+
+        <dt>Autoriser les accusés de réception pour certains
+        messages&#160;:</dt>
+
+        <dd>Choisissez comment vous souhaitez réagir aux demandes
+        d'accusés de réception que vous recevez.</dd>
+      </dl>
+    </dd>
+  </dl>
+
+  <p>[&#160;<a href="#mail_and_newsgroups_account_settings">Retour au
+  début de la section</a>&#160;]</p>
+
+  <h2 id="security">Paramètres des comptes courrier &amp; groupes -
+  &securityTitle.label;</h2>
+
+  <p>Cette section décrit comment configurer les paramètres d'un
+  compte courrier ou groupe qui contrôlent la sécurité des
+  messages. Avant que vous ne le fassiez, il vous faudra obtenir un ou
+  plusieurs certificats de courrier électronique. Pour les
+  détails, voir <a href="#digital_signing">Signature</a> &amp; <a href=
+  "#email_encryption">Chiffrement</a> des messages.</p>
+
+  <p>Si les paramètres de sécurité d'un compte courrier ne
+  sont pas affichés, ouvrez une fenêtre <q>Courrier</q>&#160;:</p>
+
+  <ol>
+    <li>Ouvrez le menu <q>&editMenu.label;</q> et choisissez <q>&accountManagerCmd.label;</q>.</li>
+
+    <li>Cliquez sur <q>&securityTitle.label;</q> en-dessous du nom d'un compte
+    de messagerie dont vous désirez configurer les paramètres de
+    sécurité.</li>
+  </ol>
+
+  <div class="contentsBox">
+    <p>Dans cette section</p>
+
+    <ul>
+      <li><a href="#about_certificates">À propos des certificats</a></li>
+
+      <li><a href="#digital_signing">Signature numérique</a></li>
+
+      <li><a href="#email_encryption">Chiffrement</a></li>
+    </ul>
+  </div>
+
+  <h3 id="about_certificates">À propos des certificats</h3>
+
+  <p>Le panneau <q>&securityTab.label;</q> est principalement utilisé pour sélectionner deux
+  certificats&#160;:</p>
+
+  <ul>
+    <li>Le certificat personnel que vous voulez utiliser pour signer les
+    messages que vous envoyez.</li>
+
+    <li>Le certificat que vous désirez que vos correspondants utilisent
+    pour chiffrer les messages qu'ils vous envoient.</li>
+  </ul>
+
+  <p>L'utilisation d'un ou de deux certificats dépend de la politique de
+  votre <a href="glossary.xhtml#certificate_authority" class=
+  "glossary">autorité de certification (AC)</a> qui valide votre
+  certificat. Vous pouvez utiliser un seul certificat pour les deux objets ou
+  deux certificats différents. Même si vous n'en avez qu'un, vous
+  devez le spécifiez deux fois, une fois pour la signature
+  numérique et une fois pour le chiffrement.</p>
+
+  <p>Les certificats sélectionnés ici seront inclus dans tous les
+  messages signés que vous enverrez. Ces certificats permettront
+  à vos destinataires de vérifier votre signature
+  numérique et de chiffrer les messages qu'ils vous enverront.</p>
+
+  <h3 id="digital_signing">Signature numérique</h3>
+
+  <p>Vous pouvez utiliser le panneau <q><a href= "#security">Sécurité</a></q>
+  pour spécifier la manière de signer vos messages&#160;:</p>
+
+  <dl>
+    <dt>&signMessage.label;</dt>
+
+    <dd>Cochez cette case si vous souhaitez signer numériquement tous
+    les messages que vous envoyez (un certificat personnel doit être
+    spécifié avant de pouvoir cocher cette case.).</dd>
+
+    <dt>&signingCert.message;</dt>
+
+    <dd>Si le champ est vide ou s'il affiche un mauvais certificat, cliquez sur
+    <q>Sélectionner</q> pour en choisir un autre.</dd>
+  </dl>
+
+  <p>En ne tenant pas compte de la case à cocher <q>&signMessage.label;</q>, vous pouvez changer d'avis avant d'envoyer un message.</p>
+
+  <p>Pour changer le paramètre de signature numérique pour un message que vous
+  écrivez dans la fenêtre de rédaction, cliquez sur la petite flèche sous
+  l'icône <q>&securityTab.label;</q> dans la barre d'outils et sélectionnez ou
+  désélectionnez <q>&menu_securitySign.label;</q>. Pour plus de détails,
+  voir <a href=
+  "mailnews_security.xhtml#signing_and_encrypting_a_new_message">Signer
+  numériquement et chiffrer un nouveau message</a>.</p>
+
+  <h3 id="email_encryption">Chiffrement</h3>
+
+  <p>Vous pouvez utiliser le panneau <q><a href="#security">&securityTab.label;</a></q>
+  pour spécifier comment utiliser habituellement le chiffrement lors de l'envoi
+  de messages&#160;:</p>
+
+  <dl>
+    <dt>&neverEncrypt.label;</dt>
+
+    <dd>Sélectionnez cette option si vous ne voulez jamais utiliser le
+    chiffrement, ou seulement occasionnellement.</dd>
+
+    <dt>&alwaysEncryptMessage.label;</dt>
+
+    <dd>C'est l'option à sélectionner lorsque l'on souhaite
+    utiliser systématiquement le chiffrement. Si vous n'avez pas tous
+    les certificats nécessaires, le message ne sera pas envoyé
+    à moins que vous ne désactiviez le chiffrement pour ce
+    message en particulier.</dd>
+
+    <dt>&encryptionCert.message;</dt>
+
+    <dd>Si le champ est vide ou s'il affiche un mauvais certificat, cliquez sur
+    <q>&encryption.certificate.button;</q> pour en choisir un autre.</dd>
+  </dl>
+
+  <p>En ne tenant pas compte de l'option de chiffrement choisie, vous pouvez
+  changer d'avis avant d'envoyer un message.</p>
+
+  <p>Pour changer le paramètre de signature numérique pour un
+  message que vous écrivez dans la fenêtre de rédaction,
+  cliquez sur la petite flèche sous l'icône
+  <q>&securityTab.label;</q> dans la barre d'outils et sélectionnez
+  ou désélectionnez <q>&menu_securitySign.label;</q>. Pour plus de détails, voir <a href=
+  "mailnews_security.xhtml#signing_and_encrypting_a_new_message">Signer
+  numériquement et chiffrer un nouveau message</a>.</p>
+
+  <p>[&#160;<a href="#mail_and_newsgroups_account_settings">Retour au
+  début de la section</a>&#160;]</p>
+
+  <h2 id="local_folders">Paramètres des comptes courrier &amp; groupes -
+  Dossiers locaux</h2>
+
+  <p>Le compte <q>Dossiers Locaux</q> est le compte où &brandShortName; Courrier
+  &amp; Groupes enregistre les messages que vous envoyez en mode hors connexion. Les
+  messages envoyés ainsi sont sauvegardés dans le dossier
+  <q>Messages en attente</q> dans les <q>Dossiers Locaux</q>. Tous les dossiers
+  que vous créez dans les <q>Dossiers Locaux</q> résident sur
+  votre disque dur. Les <q>Dossiers Locaux</q> sont un bon emplacement pour
+  sauvegarder les messages que vous souhaitez conserver.</p>
+
+  <p>Si les paramètres <q>Dossiers Locaux</q> ne sont pas
+  affichés, ouvrez une fenêtre <q>Courrier</q>.</p>
+
+  <ol>
+    <li>Ouvrez le menu <q>&editMenu.label;</q> et choisissez <q>&accountManagerCmd.label;</q>.</li>
+
+    <li>Sélectionnez la catégorie <q>Dossiers Locaux</q>.</li>
+  </ol>
+
+  <dl>
+    <dt>&accountName.label;</dt>
+
+    <dd>Le nom associé au compte <q>Dossiers Locaux</q>.</dd>
+
+    <dt>&localPath.label;</dt>
+
+    <dd>Le répertoire sur votre disque dur où les e-mails de ce
+    compte sont stockés.</dd>
+  </dl>
+
+  <p>[&#160;<a href="#mail_and_newsgroups_account_settings">Retour au
+  début de la section</a>&#160;]</p>
+
+  <h2 id="outgoing_server">Paramètres des comptes courrier &amp; groupes
+  - Serveur sortant (SMTP)</h2>
+
+  <p>Le serveur sortant envoie vos messages à leurs destinataires.
+  Même si vous avez plusieurs comptes de messagerie ou de groupe, vous
+  n'avez généralement besoin de spécifier qu'un seul
+  serveur sortant (SMTP) pour vous permettre d'envoyer vos messages.</p>
+
+  <p>Si les paramètres du serveur sortant ne sont pas affichés,
+  ouvrez une fenêtre <q>Courrier &amp; Groupes</q>&#160;:</p>
+
+  <ol>
+    <li>Ouvrez le menu <q>&editMenu.label;</q> et choisissez
+    <q>&accountManagerCmd.label;</q>. La boîte de dialogue
+    <q>&accountManagerTitle.label;</q> s'affiche.</li>
+
+    <li>Sélectionnez la catégorie <q>Serveur sortant (SMTP)</q>.
+    Vous pouvez alors ajouter un nouveau serveur sortant ou modifier les
+    paramètres d'un serveur existant suivant les indications ci-dessous. Si vous
+    n'êtes pas sûr des paramètres à utiliser,
+    contactez votre <acronym title=
+    "Fournisseur d'Accès à Internet">FAI</acronym>, ou votre
+    administrateur système.</li>
+  </ol>
+
+  <dl>
+    <dt>&serverDescription.label;</dt>
+
+    <dd>Une courte description libre à propos de la configuration du serveur.
+    Ceci s'affichera dans la liste des serveurs.</dd>
+
+    <dt>&serverName.label;</dt>
+
+    <dd>&brandShortName; Courrier &amp; Groupes utilise le nom de serveur sortant (SMTP)
+    que vous avez entré en répondant aux questions de l'assistant
+    de création d'un compte. Pour changer le nom du serveur sortant
+    (SMTP), saisissez-le dans le champ <q>&serverName.label;</q>.</dd>
+
+    <dt>&serverPort.label;</dt>
+
+    <dd>Si nécessaire, entrez le numéro de port par lequel se
+    connectera le serveur SMTP. Si rien n'est spécifié, le port
+    par défaut est utilisé. Changez-le si le serveur de courrier
+    sortant attend les connexions sur un port non standard.</dd>
+
+    <dt>&userName.label;</dt>
+
+    <dd>Si votre serveur SMTP requiert une authentification pour envoyer un
+    message, sélectionnez cette option afin que &brandShortName; Courrier &amp;
+    Groupes vous demande d'entrer votre nom d'utilisateur et votre mot de passe
+    d'authentification, puis entrez votre nom d'utilisateur. La première
+    fois que vous enverrez un message, vous serez invité à entrer
+    votre mot de passe d'authentification, vous pourrez alors l'enregistrer
+    pour les futures sessions.</dd>
+
+<!--     <dt>&authMethod.label;</dt>
+
+    <dd>Choisissez cette option si vous voulez utiliser un mécanisme sécurisé
+    pour vous connecter (par exemple CRAM-MD5). Si vous n'êtes pas sûr que
+    votre service le supporte, contacter votre fournisseur de courrier ou votre
+    administrateur système.</dd>
+ -->
+    <dt>&authMethod.label;</dt>
+
+    <dd>Il existe deux méthodes pour établir un connexion sécurisée à un serveur
+    sortant. Choisissez celle qui est supportée par votre serveur (si vous
+    choisissez une méthode non supportée par votre serveur, vous recevrez un
+    message d'erreur lors de l'envoi de courrier).
+
+    <p>Si votre serveur sortant SMTP est configuré pour envoyer des
+    messages chiffrés, choisissez parmi les options suivantes (en cas
+    de mauvaise configuration, un message d'erreur s'affichera chaque fois
+    que vous enverrez un message)&#160;:</p>
+
+      <dl>
+
+        <dt>&connectionSecurity.label;&#160;:</dt>
+
+        <dd>Sélectionnez le type de connexion à utiliser (sécurisée ou non) dans la liste
+		déroulante.</dd>
+      </dl>
+    </dd>
+
+  </dl>
+
+  <p>[&#160;<a href="#mail_and_newsgroups_account_settings">Retour au
+  début de la section</a>&#160;]</p>
+
+  <div id="footer">
+    <!--begin frenchmozilla signature-->
+
+    <p><em>Dernière traduction&#160;: 29 janvier 2006</em></p>
+    <!-- | vérification&#160;: le 13 décembre 2003</em></p>-->
+
+    <p>Ce texte a été traduit et adapté par une
+    équipe internationale de bénévoles francophones.<br />
+    Pour plus d'informations, visitez notre site&#160;: <a href=
+    "http://frenchmozilla.sf.net"
+    hreflang="fr">http://frenchmozilla.sourceforge.net</a>.</p>
+    <!--end frenchmozilla signature-->
+  </div>
+</body>
+</html>
