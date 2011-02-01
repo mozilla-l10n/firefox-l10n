@@ -1,0 +1,105 @@
+<!ENTITY accountSetupTitle.label    "&syncBrand.fullName.label;in asennus">
+
+<!-- First page of the wizard -->
+
+<!ENTITY setup.pickSetupType.description "Tervetuloa! Jos et ole käyttänyt &syncBrand.fullName.label; -palvelua aiemmin, sinun tulee luoda oma tili.">
+<!ENTITY button.createNewAccount.label "Luo uusi tili">
+<!ENTITY button.haveAccount.label "Minulla on &syncBrand.fullName.label; -tili">
+
+<!ENTITY setup.choicePage.title.label     "Oletko käyttänyt &syncBrand.fullName.label; -palvelua aiemmin?">
+<!ENTITY setup.choicePage.new.label       "En ole käyttänyt &syncBrand.shortName.label; -palvelua aiemmin">
+<!ENTITY setup.choicePage.existing.label  "&syncBrand.shortName.label; -palvelu on jo minulla käytössä toisella tietokoneella">
+
+<!-- New Account AND Existing Account -->
+<!ENTITY server.label               "Palvelin">
+<!ENTITY serverType.main.label      "&syncBrand.fullName.label; -palvelin">
+<!ENTITY serverType.custom.label    "Käytä omaa palvelinta">
+<!ENTITY signIn.account.label       "Sähköpostiosoite / käyttäjätunnus">
+<!ENTITY signIn.account.accesskey   "ä">
+<!ENTITY signIn.password.label      "Salasana">
+<!ENTITY signIn.password.accesskey  "a">
+<!ENTITY signIn.serverURL.label     "Palvelimen osoite">
+<!ENTITY signIn.serverURL.accesskey "s">
+
+<!-- New Account Page 1: Basic Account Info -->
+<!ENTITY setup.newAccountDetailsPage.title.label "Tilin tiedot">
+<!ENTITY setup.confirmPassword.label             "Vahvista salasana">
+<!ENTITY setup.confirmPassword.accesskey         "V">
+<!ENTITY setup.emailAddress.label                "Sähköpostiosoite">
+<!ENTITY setup.emailAddress.accesskey            "S">
+<!-- LOCALIZATION NOTE: tosAgree1, tosLink, tosAgree2, ppLink, tosAgree3 are
+     joined with implicit white space, so spaces in the strings aren't necessary -->
+<!ENTITY setup.tosAgree1.label      "Hyväksyn palvelun">
+<!ENTITY setup.tosAgree1.accesskey  "a">
+<!ENTITY setup.tosLink.label        "käyttöehdot">
+<!ENTITY setup.tosAgree2.label      "sekä">
+<!ENTITY setup.ppLink.label         "tietosuojakäytännön">
+<!ENTITY setup.tosAgree3.label      "">
+<!ENTITY setup.tosAgree2.accesskey  "s">
+
+<!-- New Account Page 2: Sync Key -->
+<!ENTITY setup.newSyncKeyPage.title.label "&brandShortName; on tosissaan yksityisyydensuojasi suhteen">
+<!ENTITY setup.newSyncKeyPage.description.label "Kokonaisvaltaisen tietosuojan varmistamiseksi kaikki data salataan ennen siirtoa. Salauksen purkamisessa tarvittavaa synkronointiavainta ei siirretä.">
+<!ENTITY syncKeyEntry.label        "Sync-avain">
+<!ENTITY syncKeyEntry.accesskey    "S">
+<!ENTITY syncKeyGenerate.label     "Luo">
+<!ENTITY syncKeyGenerate.accesskey "L">
+<!ENTITY syncKeyStrength.label     "Vahvuus:">
+<!ENTITY syncKeyHelp.label         "Mitä vahvuus tarkoittaa?">
+<!ENTITY syncKeyBackup.description "Tarvitset synkronointiavaintasi kun haluat liittää toisia laitteita &syncBrand.fullName.label; -tiliisi. Otathan siis avaimesta varmuuskopion. Emme voi auttaa sinua palauttamaan hävinnyttä synkronointiavainta.">
+
+<!ENTITY button.syncKeyBackup.print.label     "Tulosta…">
+<!ENTITY button.syncKeyBackup.print.accesskey "o">
+<!ENTITY button.syncKeyBackup.save.label      "Tallenna…">
+<!ENTITY button.syncKeyBackup.save.accesskey  "T">
+
+<!-- New Account Page 3: Captcha -->
+<!ENTITY setup.captchaPage2.title.label     "Todista, että et ole robotti">
+
+<!-- Existing Account Page 1: Login -->
+<!ENTITY setup.existingAccount.title.label "Kirjoita tilin tiedot">
+<!ENTITY resetPassword.label          "Nollaa salasana">
+<!ENTITY connecting.label             "Yhdistetään…">
+
+<!-- Existing Account Page 2: Sync Key -->
+<!ENTITY setup.existingSyncKeyPage.title "Kirjoita synkronointiavaimesi">
+<!ENTITY setup.existingSyncKeyPage.description "Synkronointiavain luotiin sinulle tai kirjoitit oman, kun loit &syncBrand.fullName.label; -tilin. Synkronointiavain ei ole sama kuin salasanasi.">
+<!ENTITY existingSyncKeyHelp.description "Voit tarkistaa synkronointiavaimesi avaamalla toisen tietokoneesi ja valitsemalla Turvallisuus-osiosta Tallennetut salasanat. Jos et löytänyt oikeaa synkronointiavainta em. tavalla, voit nollata sen, mutta silloin kaikki palvelimelle tallennetut tiedot menetetään.">
+<!ENTITY lostSyncKey.label            "Olen kadottanut synkronointiavaimeni">
+<!ENTITY verifying.label              "Varmennetaan…">
+
+<!-- Sync Options -->
+<!ENTITY setup.optionsPage.title      "Synkronointiasetukset">
+<!ENTITY syncComputerName.label       "Tietokoneen nimi:">
+<!ENTITY syncComputerName.accesskey   "T">
+
+<!ENTITY syncMy.label               "Synkronoi">
+<!ENTITY engine.bookmarks.label     "Kirjanmerkit">
+<!ENTITY engine.bookmarks.accesskey "K">
+<!ENTITY engine.tabs.label          "Välilehdet">
+<!ENTITY engine.tabs.accesskey      "V">
+<!ENTITY engine.history.label       "Sivuhistoria">
+<!ENTITY engine.history.accesskey   "S">
+<!ENTITY engine.passwords.label     "Salasanat">
+<!ENTITY engine.passwords.accesskey "a">
+<!ENTITY engine.prefs.label         "Asetukset">
+<!ENTITY engine.prefs.accesskey     "e">
+
+<!ENTITY choice2.merge.main.label      "Yhdistä tämän tietokoneen tiedot &syncBrand.shortName.label; -palvelussa oleviin tietoihin">
+<!ENTITY choice2.merge.recommended.label "(suositeltu)">
+<!ENTITY choice2.client.main.label     "Korvaa kaikki tämän tietokoneen tiedot &syncBrand.shortName.label; -palvelussa olevilla tiedoilla">
+<!ENTITY choice2.server.main.label     "Korvaa kaikkien muiden laitteiden tiedot tämän tietokoneen tiedoilla">
+
+<!-- Confirm Merge Options -->
+<!ENTITY setup.optionsConfirmPage.title "Vahvista">
+<!ENTITY confirm.merge.label    "Nyt &syncBrand.fullName.label; yhdistää kaikki tämän tietokoneen selaintiedot synkronointitilisi tietoihin.">
+<!ENTITY confirm.client.label         "Seuraavat &brandShortName;n tälle tietokoneelle tallentamat tiedot poistetaan:">
+<!ENTITY confirm.client.moreinfo.label "Sen jälkeen &brandShortName; kopioi &syncBrand.fullName.label; -palveluun tallennetut tiedot tälle tietokoneelle.">
+<!ENTITY confirm.client.warning.label "VAROITUS: Kaikki &brandShortName;n tälle tietokoneelle tallentamat tiedot korvataan!">
+<!ENTITY confirm.server.label         "Seuraaville laitteille tallennetut tiedot korvataan tälle tietokoneelle tallennetuilla tiedoilla:">
+<!ENTITY confirm.server.warning.label "VAROITUS: Tälle tietokoneelle tallennetut tiedot korvaavat kaikki &brandShortName;n näille laitteille tallentamat tiedot!">
+
+<!-- New & Existing Account: Setup Complete -->
+<!ENTITY setup.successPage.title "Asennus on valmis">
+<!ENTITY changeOptions.label "Voit muuttaa tätä asetusta alla olevista synkronointiasetuksista.">
+<!ENTITY continueUsing.label "Voit nyt jatkaa &brandShortName;n käyttöä.">

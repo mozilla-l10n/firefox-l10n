@@ -1,0 +1,4 @@
+<!ENTITY quota.dialogTitle.label    "Palvelimen kiintiö">
+<!ENTITY quota.retrievingInfo.label "Noudetaan kiintiötietoja palvelimelta…">
+<!ENTITY quota.typeColumn.label     "Tyyppi">
+<!ENTITY quota.sizeColumn.label     "Koko">
