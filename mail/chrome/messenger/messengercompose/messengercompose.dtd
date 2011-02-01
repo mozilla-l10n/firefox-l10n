@@ -183,7 +183,6 @@
 <!ENTITY followupAddr.label "Ответ в группу новостей:">
 <!ENTITY subject.label "Тема:">
 <!ENTITY subject.accesskey "Т">
-<!ENTITY attachments.label "Вложения:">
 <!ENTITY attachments.accesskey "В">
 <!ENTITY SmileButton.tooltip "Вставить смайлик">
 <!ENTITY smiley1Cmd.label "Улыбка">
