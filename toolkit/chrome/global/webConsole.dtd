@@ -10,7 +10,7 @@
 <!ENTITY networkPanel.responseHeaders             "Hlogwana ya godimo ya karabelo">
 <!ENTITY networkPanel.responseBody                "Mmele wa karabelo">
 <!ENTITY networkPanel.responseBodyCached          "Tsebišo e bolokilwego">
-<!ENTITY networkPanel.responseBodyUnknownType     "Unknown Content Type">
+<!ENTITY networkPanel.responseBodyUnknownType     "Mohuta wa dikagare o sa tsebjwego">
 <!ENTITY networkPanel.responseNoBody              "Ga go na mmele wa karabelo">
 <!ENTITY networkPanel.responseImage               "Seswantšho se amogetšwego">
 <!ENTITY networkPanel.responseImageCached         "Seswantšho se bolokilwego">

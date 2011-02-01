@@ -21,6 +21,8 @@
 <!ENTITY allowHWAccel.accesskey          "h">
 <!ENTITY checkSpelling.label             "Lekola mopeleto wa ka ge ke dutše ke tlanya">
 <!ENTITY checkSpelling.accesskey         "t">
+<!ENTITY doNotTrack.label                "Tell web sites I do not want to be tracked">
+<!ENTITY doNotTrack.accesskey            "d">
 
 <!ENTITY systemDefaults.label            "Ditirelwa tša tshepedišo">
 <!--XXX-->
@@ -93,7 +95,7 @@
 <!ENTITY useTLS1.label                   "Diriša TLS 1.0">
 <!ENTITY useTLS1.accesskey               "1">
 <!ENTITY certificates.label              "Ditifikeiti">
-<!ENTITY certSelection.description       "Ge sebara e kgopela setifikeiti sa ka sa botho:">
+<!ENTITY certSelection.description       "Ge seabi se kgopela setifikeiti sa ka:">
 <!ENTITY certs.auto                      "Kgetha e tee ka maitirišo">
 <!ENTITY certs.auto.accesskey            "t">
 <!ENTITY certs.ask                       "Mpotšiše nako le nako">

@@ -81,8 +81,8 @@
 <!ENTITY cmd.disableAddon.accesskey           "t">
 <!ENTITY cmd.enableTheme.label                "Sehlogo sa go apara">
 <!ENTITY cmd.enableTheme.accesskey            "a">
-<!ENTITY cmd.disableTheme.label               "Emiša sehlogo sa go apara">
-<!ENTITY cmd.disableTheme.accesskey           "W">
+<!ENTITY cmd.disableTheme.label               "Emiša sehlogo sa go lapa">
+<!ENTITY cmd.disableTheme.accesskey           "h">
 <!ENTITY cmd.installAddon.label               "Lokela">
 <!ENTITY cmd.installAddon.accesskey           "o">
 <!ENTITY cmd.uninstallAddon.label             "Tloša">
@@ -103,12 +103,12 @@
 <!-- LOCALIZATION NOTE (discover.title,discover.description,discover.footer):
      Displayed in the center of the Get Add-ons view, see bug 601143 for mockups. -->
 
-<!ENTITY discover.title                       "What are Add-ons?">
-<!ENTITY discover.description2                "Add-ons are applications that let you personalize &brandShortName; with
-  extra functionality or style. Try a time-saving sidebar, a weather notifier, or a themed look to make &brandShortName;
-  your own.">
-<!ENTITY discover.footer                      "When you're connected to the internet, this pane will feature
-  some of the best and most popular add-ons for you to try out.">
+<!ENTITY discover.title                       "Ditlaleletši ke eng?">
+<!ENTITY discover.description2                "Ditlaleletši ke ditirišo tšeo di go dumelelago go dira &brandShortName; ka tsela ya gago; ka go 
+šoma ka mo go oketšegilego goba setaele. Leka para ya go boloka nako, setsebiši sa maemo a boso, goba tebego yeo e nago le sehlogo ya go dira gore &brandShortName; 
+e be ka mo o e nyakago ka gona.">
+<!ENTITY discover.footer                      "Ge o kgokagantšwe go inthanete, lefasetere le le tla bonagatša 
+tše dingwe tša ditlaleletši tše tšwago pele le tše tumilego kudu gore o di leke.">
 <!-- detail view -->
 
 <!ENTITY detail.version.label                 "Kgatišo">

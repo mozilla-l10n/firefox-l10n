@@ -16,13 +16,13 @@
 <!ENTITY changePassword.label         "Fetoša lentšuphetišo">
 <!ENTITY mySyncKey.label              "Fetoša mobolelwana wa sephiri">
 <!ENTITY resetSync.label              "Beakanya nyalantšho ka leswa">
-<!ENTITY addDevice.label              "Add a Device">
+<!ENTITY addDevice.label              "Tsenya sedirišwa">
 
 <!ENTITY syncMy.label               "Nyalantšha yaka">
 <!ENTITY engine.bookmarks.label     "Dipukutshwayo">
 <!ENTITY engine.bookmarks.accesskey "s">
-<!ENTITY engine.tabs.label          "Dipukutshwayo, histori, mantšuphetišo, dikganyogo, le dithepo tša gago di tla nyalantšhwa.">
-<!ENTITY engine.tabs.accesskey      "T">
+<!ENTITY engine.tabs.label          "Dithepo">
+<!ENTITY engine.tabs.accesskey      "t">
 <!ENTITY engine.history.label       "Histori">
 <!ENTITY engine.history.accesskey   "i">
 <!ENTITY engine.passwords.label     "Mantšuphetišo">
@@ -33,7 +33,7 @@
 
 <!ENTITY syncComputerName.label       "Leina la khomphutha:">
 <!ENTITY syncComputerName.accesskey   "k">
-<!ENTITY deactivateDevice.label       "Deactivate This Device">
+<!ENTITY deactivateDevice.label       "Dira gore sedirišwa se seke sa šoma">
 <!-- Footer stuff -->
 
 <!ENTITY prefs.tosLink.label        "Melawana ya tirelo">
