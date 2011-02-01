@@ -19,3 +19,4 @@
 <!ENTITY sync.serverURL             "Tsjinner-URL">
 <!ENTITY sync.setup.connect         "Ferbyn">
 <!ENTITY sync.setup.cancel          "Annulearje">
+<!ENTITY sync.setup.tutorial        "Lit it sjen">
