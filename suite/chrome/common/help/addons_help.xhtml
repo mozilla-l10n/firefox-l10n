@@ -1,0 +1,328 @@
+<?xml version="1.0" encoding="utf-8"?>
+<!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.1//EN"
+  "http://www.w3.org/TR/xhtml11/DTD/xhtml11.dtd"[
+  <!ENTITY % brandDTD SYSTEM "chrome://branding/locale/brand.dtd" >
+  %brandDTD;
+  <!ENTITY % utilityOverlayDTD SYSTEM "chrome://communicator/locale/utilityOverlay.dtd" >
+  %utilityOverlayDTD;
+  <!ENTITY % tasksOverlayDTD SYSTEM "chrome://communicator/locale/tasksOverlay.dtd" >
+  %tasksOverlayDTD;
+  <!ENTITY % preferencesDTD SYSTEM "chrome://communicator/locale/pref/preferences.dtd" >
+  %preferencesDTD;
+]>
+
+<html xmlns="http://www.w3.org/1999/xhtml" lang="fr" xml:lang="fr">
+<head>
+  <title>Les modules complémentaires</title>
+  <meta http-equiv="Content-Type" content="application/xhtml; charset=utf-8" />
+  <!--<link rel="stylesheet" href="content_style.css" type="text/css" />-->
+  <link rel="stylesheet" type="text/css" href="helpFileLayout.css" />
+  <link rel="stylesheet" type="text/css" href="chrome://communicator/skin/smileys.css"/>
+</head>
+
+<body>
+
+<h1 id="add-ons">Les modules complémentaires</h1>
+
+<p>Un des moyens les plus excitant pour personnaliser &brandShortName; est d'utiliser les modules
+complémentaires. Dans cette section, vous apprendrez ce que sont les modules complémentaires,
+comment les installer et comment utiliser le gestionnaire de modules.</p>
+
+<div class="contentsBox">Dans cette section&#160;:
+
+  <ul>
+    <li><a href="#about_add-ons">À propos des modules complémentaires</a></li>
+    <li><a href="#installing_add-ons">Installer des modules complémentaires</a></li>
+    <li><a href="#using_the_add-on_manager">Utiliser le gestionnaire de modules</a></li>
+  </ul>
+</div>
+
+<h2 id="about_add-ons">À propos des modules complémentaires</h2>
+
+<p>Un module complémentaire est un petit programme qui peut être ajouté à &brandShortName; pour
+modifier sont apparence, son comportement ou pour ajouter de nouvelles fonctionnalités. Il peut
+également la langue de l'interface utilisateur. Les modules complémentaires sont classifiés selon 4
+catégories :</p>
+
+<dl>
+  <dt>Extensions</dt>
+  <dd>Ce type de module peut soit changer le comportement de
+    &brandShortName; soit ajouter de nouvelle fonctionnalités. Actuellement, il existe des modules
+	pour afficher les prévisions météo, pour inclure un client <acronym title="File Transfert
+	Protocol">FTP</acronym> ou encore pour bloquer les publicités des pages Web. Certains modules ne
+	sont conçus que pour fonctionner avec des sites Web spécifiques.</dd>
+
+  <dt>Thèmes</dt>
+  <dd>Les thèmes modifie l'apparence et l'esthétisme de &brandShortName;, mais ne modifient pas ses
+  fonctionnalités. &brandShortName; est fourni avec deux thèmes, le thème par défaut et le thème
+  Modern, mais vous pouvez en ajouter beaucoup d'autres et utiliser ceux qui vous plaisent.</dd>
+
+  <dt>Languages</dt>
+  <dd>Bien que vous pouvez téléchargez &brandShortName; dans un grand nombre de langues, vous pouvez
+  également lui en ajouter d'autres sous la forme de paquets de langues. De cette manière,
+  différents utilisateurs peuvent utiliser &brandShortName; dans leur langue sans avoir à installer
+  un programme pour chacun. Ceci est particulièrement utile si vous devez installer &brandShortName;
+  sur un ordinateur partagé par plusieurs utilisateur, par exemple un ordinateur de laboratoire.
+
+    <p><strong>Remarque</strong> : les paquets de langues modifie uniquement la langue de
+	l'interface utilisateur. Les pages Web et les messages électroniques restent dans la langues
+	dans laquelle ils ont été écrit.</p>
+  </dd>
+
+  <dt>Plugins</dt>
+  <dd>Plugins agissent comme des connecteurs entre &brandShortName; et d'autres logiciels. Ils vous
+  permettent de visionner des contenus spéciaux (comme des animations Flash ou des documents PDF)
+  directement depuis une fenêtre de votre navigateur plutôt que d'ouvrir un logiciel externe.</dd>
+</dl>
+
+<p>Les modules complémentaires sont toujours fournis sous la forme de paquets dont l'extension est
+XPI, excepté dans le cas de plugins qui sont généralement des fichiers binaires spécifiques à un
+système d'exploitation.</p>
+
+  <p>[&#160;<a href="#add-ons">Retour au début de la section</a>&#160;]</p>
+
+<h2 id="installing_add-ons">Installer des modules complémentaires</h2>
+
+<p>Il y a plus façons d'installer un module complémentaire :</p>
+
+<ul>
+  <li>En cliquant sur le lien d'un module complémentaire dans une page Web, un bandeau apparait dans
+  &brandShortName; pour vous demander de confirmer ou d'annuler l'installation. Le bouton
+  d'installation est inactif pendant quelques secondes pour vous éviter de le cliquer
+  accidentellement à l'apparition du bandeau.
+
+    <p><strong>Remarque</strong> : comme mesure de sécurité supplémentaire, &brandShortName; ne
+	permet l'installation de modules complémentaires qu'à partir d'une liste de sites autorisés.
+	Cette liste peut être éditée depuis le panneau des préférences avancées <a
+    href="cs_nav_prefs_advanced.xhtml#software_installation">Installation de logiciels</a>.</p>
+  </li>
+  <li>En ouvrant un paquet de module précédemment enregistré sur votre ordinateur, comme pour
+  l'ouverture d'un fichier normal. Sélectionnez <q>Ouvrir un fichier…</q> depuis le menu
+  <q>Fichier</q>, ou appuyez sur la touche <q><span class="mac"><kbd>Cmd</kbd></span><span
+    class="noMac"><kbd>Ctrl</kbd></span><kbd>O</kbd></q>.</li>
+  <li>En utilisant le panneau <q>Catalogue</q> du gestionnaire de modules complémentaires ou en
+  cliquant sur le bouton <q>Installer</q> depuis n'importe quel panneau du gestionnaire de
+  modules.</li>
+</ul>
+
+<p><strong>Remarque</strong> : les plugins proviennent généralement de programmes à installer
+séparément lorsque &brandShortName; est fermé, afin que ce programme externe et le plugin
+correspondant à &brandShortName; s'installent correctement.</p>
+
+  <p>[&#160;<a href="#add-ons">Retour au début de la section</a>&#160;]</p>
+
+<h2 id="using_the_add-on_manager">Utiliser le gestionnaire de modules</h2>
+
+<p>Le gestionnaire de modules complémentaires permet d'installer et ou désinstaller des modules,
+d'activer ou de désactiver un thème et dans certains cas de définir leurs préférences.</p>
+
+<p id="accessing_the_add-on_manager">Pour ouvrir le gestionnaire de modules complémentaires, suivez
+une de ces étapes :</p>
+
+<ul>
+  <li>Ouvrez le menu <q>Outils</q> puis sélectionnez <q>Modules complémentaires</q>.</li>
+  <li>Ouvre le menu <q><span class="mac">&brandShortName;</span><span
+    class="noMac">Édition</span></q> et sélectionnez <q>Préférences</q>. Développez la catégorie
+	<q>Avancé</q> et cliquez sur <q>Installation de logiciels</q>.</li>
+</ul>
+
+<div class="contentsBox">Dans cette section :
+  <ul>
+    <li><a href="#the_get_add-ons_panel">Panneau du catalogue</a></li>
+    <li><a href="#the_extensions_panel">Panneau des extensions</a></li>
+    <li><a href="#the_themes_panel">Panneau des thèmes</a></li>
+    <li><a href="#the_languages_panel">Panneau des langues</a></li>
+    <li><a href="#the_plugins_panel">Panneau des plugins</a></li>
+  </ul>
+</div>
+
+<h3 id="the_get_add-ons_panel">Panneau du catalogue</h3>
+
+<p>La panneau Catalogue du gestionnaire de modules utilise des services Web fournit par le site
+Mozilla Add-ons afin de présenter une liste des modules recommandés ou de permettre d'effectuer une
+recherche parmi les modules disponible sur Mozilla Add-ons. Après avoir <a
+href="#accessing_the_add-on_manager">ouvert le gestionnaire de modules complémentaires</a>, cliquez
+sur <q>Catalogue</q> pour afficher le panneau. Vous pouvez alors effectuer les actions
+suivantes :</p>
+
+<ul>
+  <li>Rechercher un module par un nom, une description ou une étiquette, à partir du champ de
+  recherche. Saisissez un mot ou une phrase et appuyez sur <span
+  class="mac"><kbd>Retour</kbd></span><span class="noMac"><kbd>Entrée</kbd></span>. Vous obtiendrez
+  une liste des modules correspondants. Pour effacer les termes recherchés et la liste des
+  résultats, cliquez sur l'icône à droite du champ de rechercher.
+
+    <p><strong>Remarque</strong> : les modules déjà installés ou inompatibles avec votre version de
+	&brandShortName; ne s'afficheront pas dans la liste des résultats.</p>
+  </li>
+
+  <li>Pour visiter le site Mozilla Add-ons depuis le navigateur, cliquez sur <q>Parcourir tous les
+  modules complémentaires</q>.</li>
+
+  <li>Pour obtenir plus d'informations à propos d'un module recommandé, cliquez sur la ligne
+  correspondante. Celle-ci se développera pour afficher une image et une description du module,
+  ainsi que des indications concernant le type du module (extension, thème, etc.). Vous pouvez
+  également installer le module en cliquant sur le bouton <q>Ajouter à
+  &brandShortName;…</q>.</li>
+
+  <li>Pour afficher la liste complète des modules recommandés pour &brandShortName; depuis le
+  navigateur, allez en bas de la liste et cliquez sur le lien <q>Voir tous les modules
+  complémentaires recommandés</q>.</li>
+</ul>
+
+  <p>[&#160;<a href="#using_the_add-on_manager">Retour au début de
+  la section</a>&#160;]</p>
+
+<h3 id="the_extensions_panel">Panneau des extensions</h3>
+
+<p>Le panneau des extensions du gestionnaire de modules complémentaires liste les extensions
+installées. Après avoir <a href="#accessing_the_add-on_manager">ouvert le  gestionnaire de modules
+complémentaires</a>, cliquez sur le bouton <q>Extensions</q> pour afficher le panneau. Vous pouvez
+alors effectuer les actions suivantes :</p>
+
+<ul>
+  <li>Pour obtenir plus d'informations à propos de n'importe quelle extension installé, cliquez sur
+  l'entrée correspondante dans la liste. L'entrée se développera et affichera une description
+  complète de l'extension.
+
+    <p><strong>Remarque</strong> : les extensions désactivées seront grisées. Les extensions
+	incompatibles seront grisées, car elles sont également désactivées et leur icône comporte un
+	signe « Interdit » superposé (les extensions incompatibles sont celles qui se définissent
+	elles-mêmes comme non compatible avec votre version de  &brandShortName;).</p>
+  </li>
+
+  <li>Pour accéder aux préférences d'une extension (si elle possède un panneau de préférences),
+  cliquez sur l'entrée correspondante à l'extension puis cliquez sur le bouton « Préfénreces ».
+
+    <p><strong>Remarque</strong> : si l´extension ne possède pas de préférences, le bouton est
+	désactivé. Vous ne pouvez pas accéder aux préférences des extensions désactivées ou
+	incompatibles.</p>
+  </li>
+
+  <li>To disable an extension, click the entry corresponding to the desired
+    extension, then click the Disable button. An info bar will appear to remind
+    you that changes will apply once you restart &brandShortName;. The info bar
+    features a Restart &brandShortName; button.</li>
+  <li>To enable an extension, click the entry corresponding to the desired
+    extension, then click the Enable button. An info bar will appear to remind
+    you that changes will apply once you restart &brandShortName;. The info bar
+    features a Restart &brandShortName; button.</li>
+  <li>To uninstall an extension, click the entry corresponding to the
+    desired extension, then click the Uninstall button. An info bar will
+    appear to remind you that changes will apply once you restart
+    &brandShortName;. The info bar features a Restart &brandShortName;
+    button.</li>
+
+  <li>Pour chercher les mises à jours des extensions installées (y compris celles marquées comme
+  incompatibles), cliquez sur le bouton « Rechercher des mises à jour » situé en bas du gestionnaire
+  de modules complémentaires.
+
+    <p>Si des mises à jour sont disponibles, elles s'afficheront dans un nouveau panneau. Dans ce
+	panneau, vous pourrez choisir quelles mises à jour appliquer. Cliquez alors sur le bouton
+	« Installer les mises à jour » pour récupérer les modules mis à jour. Une fois téléchargées, vous
+	devez redémarrer &brandShortName; pour appliquer les mises à jour.</p>
+  </li>
+</ul>
+
+  <p>[&#160;<a href="#using_the_add-on_manager">Retour au début de
+  la section</a>&#160;]</p>
+
+<h3 id="the_themes_panel">Panneau des thèmes</h3>
+
+<p>Le panneau des thèmes du gestionnaire de modules complémentaires liste les thèmes installés.
+Après avoir <a href="#accessing_the_add-on_manager">ouvert le  gestionnaire de modules
+complémentaires</a>, cliquez sur le bouton <q>Thèmes</q> pour afficher le panneau. Vous pouvez alors
+effectuer les actions suivantes :</p>
+
+<ul>
+  <li>To get more information and a preview on any of the installed themes,
+    click an entry in the list. The entry will expand and show the full
+    description of the theme, along with a preview in the right side of the
+    Add-on Manager dialog (you may need to resize the dialog to properly see
+    the preview pane).</li>
+  <li>To use a theme, click the entry corresponding to the desired theme, then
+    click the Use Theme button. An info bar will appear to remind you that
+    changes will apply once you restart &brandShortName;. The info bar features
+    a Restart &brandShortName; button.
+
+    <p><strong>Note</strong>: Contrary to extensions, you only can use one
+    theme at a time.</p>
+  </li>
+  <li>To uninstall a theme, click the entry corresponding to the desired theme,
+    then click the Uninstall button. An info bar will appear to remind
+    you that changes will apply once you restart &brandShortName;. The info bar
+    features a Restart &brandShortName; button.</li>
+</ul>
+
+  <p>[&#160;<a href="#using_the_add-on_manager">Retour au début de
+  la section</a>&#160;]</p>
+
+<h3 id="the_languages_panel">Panneau des langues</h3>
+
+<p>Le panneau des langues du gestionnaire de modules complémentaires liste les paquets de langues
+installés. Ce panneau ne s'affiche que si vous avez installé au moins un paquet de langue.</p>
+
+<p>Après avoir <a href="#accessing_the_add-on_manager">ouvert le  gestionnaire de modules
+complémentaires</a>, cliquez sur le bouton <q>Langues</q> pour afficher le panneau. Vous pouvez
+alors effectuer les actions suivantes :</p>
+
+<ul>
+  <li>To disable a language pack, click the entry corresponding to the desired
+    language pack, then click the Disable button. An info bar will appear to
+    remind you that changes will apply once you restart &brandShortName;. The
+    info bar features a Restart &brandShortName; button.</li>
+  <li>To enable a language pack, click the entry corresponding to the desired
+    language pack, then click the Enable button. An info bar will appear to
+    remind you that changes will apply once you restart &brandShortName;. The
+    info bar features a Restart &brandShortName; button.</li>
+  <li>To uninstall a language pack, click the entry corresponding to the
+    desired language pack, then click the Uninstall button. An info bar will
+    appear to remind you that changes will apply once you restart
+    &brandShortName;. The info bar features a Restart &brandShortName;
+    button.</li>
+</ul>
+
+<p><strong>Remarque</strong> : l'activation d'un paquet de langue dans le panneau des langues ne
+change pas la langue de l'interface de &brandShortName;&apos;. Elle sera disponible à partir du
+panneau <q><a href="cs_nav_prefs_appearance.xhtml#appearance">Apparence</a></q>
+des préférences où vous devrez sélectionner la langue à utiliser.</p>
+
+  <p>[&#160;<a href="#using_the_add-on_manager">Retour au début de la section</a>&#160;]</p>
+
+<h3 id="the_plugins_panel">Panneau des plugins</h3>
+
+<p>Le panneau des plugins liste tous les types de plugins installés et disponibles. Après avoir
+<a href="#accessing_the_add-on_manager">ouvert le  gestionnaire de modules complémentaires</a>,
+cliquez sur le bouton <q>Plugins</q> pour afficher le panneau. Vous pouvez alors effectuer les
+actions suivantes :</p>
+
+<ul>
+  <li>Désactiver un plugin en sélectionnant la ligne correspondante pour en cliquant sur le bouton
+  <q>Désactiver</q>.</li>
+
+  <li>Activer un plugin en sélectionnant la ligne correspondante pour en cliquant sur le bouton
+  <q>Activer</q>.</li>
+</ul>
+
+<p><strong>Remarque</strong> : contrairement aux autres types de modules, l'activation ou la
+désactivation d'un plugin ne nécessite pas le redémarrage de &brandShortName;.</p>
+
+
+  <p>[&#160;<a href="#using_the_add-on_manager">Retour au début de
+  la section</a>&#160;]</p>
+
+  <div id="footer">
+    <!--begin frenchmozilla signature-->
+
+    <p><em>Dernière traduction&#160;: 31 décembre 2009</em></p>
+    <!-- | vérification&#160;: le 13 décembre 2003</em></p>-->
+
+    <p>Ce texte a été traduit et adapté par une
+    équipe internationale de bénévoles francophones.<br />
+    Pour plus d'informations, visitez notre site&#160;: <a href=
+    "http://frenchmozilla.sf.net"
+    hreflang="fr">http://frenchmozilla.sourceforge.net</a>.</p>
+    <!--end frenchmozilla signature-->
+  </div>
+</body>
+</html>

@@ -1,0 +1,754 @@
+<?xml version="1.0" encoding="utf-8"?>
+<!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.1//EN"
+  "http://www.w3.org/TR/xhtml11/DTD/xhtml11.dtd"[
+  <!ENTITY % brandDTD SYSTEM "chrome://branding/locale/brand.dtd" >
+  %brandDTD;
+  <!ENTITY % utilityOverlayDTD SYSTEM "chrome://communicator/locale/utilityOverlay.dtd" >
+  %utilityOverlayDTD;
+  <!ENTITY % tasksOverlayDTD SYSTEM "chrome://communicator/locale/tasksOverlay.dtd" >
+  %tasksOverlayDTD;
+  <!ENTITY % preferencesDTD SYSTEM "chrome://communicator/locale/pref/preferences.dtd" >
+  %preferencesDTD;
+  <!ENTITY % messengerDTD SYSTEM "chrome://messenger/locale/messenger.dtd" >
+  %messengerDTD;
+  <!ENTITY % mailPrefsOverlayDTD SYSTEM "chrome://messenger/locale/mailPrefsOverlay.dtd" >
+  %mailPrefsOverlayDTD;
+  <!ENTITY % AccountManagerDTD SYSTEM "chrome://messenger/locale/AccountManager.dtd" >
+  %AccountManagerDTD;
+  <!ENTITY % AccountWizardDTD SYSTEM "chrome://messenger/locale/AccountWizard.dtd" >
+  %AccountWizardDTD;
+  <!ENTITY % am-mainDTD SYSTEM "chrome://messenger/locale/am-main.dtd" >
+  %am-mainDTD;
+  <!ENTITY % am-addressingDTD SYSTEM "chrome://messenger/locale/am-addressing.dtd" >
+  %am-addressingDTD;
+  <!ENTITY % am-copiesDTD SYSTEM "chrome://messenger/locale/am-copies.dtd" >
+  %am-copiesDTD;
+  <!ENTITY % am-junkDTD SYSTEM "chrome://messenger/locale/am-junk.dtd" >
+  %am-junkDTD;
+  <!ENTITY % am-offlineDTD SYSTEM "chrome://messenger/locale/am-offline.dtd" >
+  %am-offlineDTD;
+  <!ENTITY % am-server-topDTD SYSTEM "chrome://messenger/locale/am-server-top.dtd" >
+  %am-server-topDTD;
+  <!ENTITY % am-server-advancedDTD SYSTEM "chrome://messenger/locale/am-server-advanced.dtd" >
+  %am-server-advancedDTD;
+  <!ENTITY % am-smimeDTD SYSTEM "chrome://messenger/locale/am-smime.dtd" >
+  %am-smimeDTD;
+  <!ENTITY % am-serverwithnoidentitiesDTD SYSTEM "chrome://messenger/locale/am-serverwithnoidentities.dtd" >
+  %am-serverwithnoidentitiesDTD;
+  <!ENTITY % am-advancedDTD SYSTEM "chrome://messenger/locale/am-advanced.dtd" >
+  %am-advancedDTD;
+  <!ENTITY % am-mdnDTD SYSTEM "chrome://messenger/locale/am-mdn.dtd" >
+  %am-mdnDTD;
+  <!ENTITY % folderPropsDTD SYSTEM "chrome://messenger/locale/folderProps.dtd" >
+  %folderPropsDTD;
+  <!ENTITY % pref-addressingDTD SYSTEM "chrome://messenger/locale/addressbook/pref-addressing.dtd" >
+  %pref-addressingDTD;
+  <!ENTITY % pref-tagsDTD SYSTEM "chrome://messenger/locale/pref-tags.dtd" >
+  %pref-tagsDTD;
+  <!ENTITY % pref-formattingDTD SYSTEM "chrome://messenger/locale/messengercompose/pref-formatting.dtd" >
+  %pref-formattingDTD;
+  <!ENTITY % pref-composing_messagesDTD SYSTEM "chrome://messenger/locale/messengercompose/pref-composing_messages.dtd" >
+  %pref-composing_messagesDTD;
+  <!ENTITY % pref-mailnewsDTD SYSTEM "chrome://messenger/locale/pref-mailnews.dtd" >
+  %pref-mailnewsDTD;
+  <!ENTITY % pref-notificationsDTD SYSTEM "chrome://messenger/locale/pref-notifications.dtd" >
+  %pref-notificationsDTD;
+  <!ENTITY % pref-junkDTD SYSTEM "chrome://messenger/locale/pref-junk.dtd" >
+  %pref-junkDTD;
+  <!ENTITY % pref-directoryDTD SYSTEM "chrome://messenger/locale/addressbook/pref-directory.dtd" >
+  %pref-directoryDTD;
+  <!ENTITY % pref-directory-addDTD SYSTEM "chrome://messenger/locale/addressbook/pref-directory-add.dtd" >
+  %pref-directory-addDTD;
+  <!ENTITY % pref-receiptsDTD SYSTEM "chrome://messenger/locale/pref-receipts.dtd" >
+  %pref-receiptsDTD;
+  <!ENTITY % pref-offlineDTD SYSTEM "chrome://messenger/locale/pref-offline.dtd" >
+  %pref-offlineDTD;
+  <!ENTITY % pref-viewing_messagesDTD SYSTEM "chrome://messenger/locale/pref-viewing_messages.dtd" >
+  %pref-viewing_messagesDTD;
+  <!ENTITY % pref-character_encodingDTD SYSTEM "chrome://messenger/locale/pref-character_encoding.dtd" >
+  %pref-character_encodingDTD;
+  <!ENTITY % smtpEditOverlayDTD SYSTEM "chrome://messenger/locale/smtpEditOverlay.dtd" >
+  %smtpEditOverlayDTD;
+  <!ENTITY % msgHdrViewOverlayDTD SYSTEM "chrome://messenger/locale/msgHdrViewOverlay.dtd" >
+  %msgHdrViewOverlayDTD;
+  <!ENTITY % msgViewPickerOverlayDTD SYSTEM "chrome://messenger/locale/msgViewPickerOverlay.dtd" >
+  %msgViewPickerOverlayDTD;
+  <!ENTITY % msgCompSMIMEOverlayDTD SYSTEM "chrome://messenger-smime/locale/msgCompSMIMEOverlay.dtd"
+>
+  %msgCompSMIMEOverlayDTD;
+  <!ENTITY % abNewCardDialogDTD SYSTEM "chrome://messenger/locale/addressbook/abNewCardDialog.dtd" >
+  %abNewCardDialogDTD;
+  <!ENTITY % abCardOverlayDTD SYSTEM "chrome://messenger/locale/addressbook/abCardOverlay.dtd" >
+  %abCardOverlayDTD;
+  <!ENTITY % abCardViewOverlayDTD SYSTEM "chrome://messenger/locale/addressbook/abCardViewOverlay.dtd" >
+  %abCardViewOverlayDTD;
+  <!ENTITY % abMainWindowDTD SYSTEM "chrome://messenger/locale/addressbook/abMainWindow.dtd" >
+  %abMainWindowDTD;
+]>
+
+<html xmlns="http://www.w3.org/1999/xhtml" lang="fr" xml:lang="fr">
+<head>
+  <title>Travailler hors connexion</title>
+  <meta http-equiv="Content-Type" content="application/xhtml; charset=utf-8" />
+  <!--<link rel="stylesheet" href="content_style.css" type="text/css" />-->
+  <link rel="stylesheet" type="text/css" href="helpFileLayout.css" />
+  <link rel="stylesheet" type="text/css" href="chrome://communicator/skin/smileys.css"/>
+</head>
+
+<body>
+
+  <h1 id="working_offline">Travailler hors connexion</h1>
+
+  <div class="contentsBox">
+    <p>Dans cette section&#160;:</p>
+
+    <ul>
+      <li><a href=
+      "#setting_up_mozilla_mail_and_newsgroups_to_work_offline">Configurer
+      &brandShortName; Courrier &amp; Groupes pour travailler hors connexion</a></li>
+
+      <li><a href=
+      "#downloading_all_messages_for_offline_use">Télécharger tous les messages
+	  pour une utilisation hors connexion</a></li>
+
+      <li><a href="#downloading_an_individual_folder_for_offline_use">Mettre
+      à jour un dossier pour une utilisation hors connexion</a></li>
+
+      <li><a href=
+      "#downloading_selected_or_flagged_messages_for_offline_use">Télécharger
+      des messages sélectionnés ou cochés pour une
+      utilisation hors connexion</a></li>
+
+      <li><a href=
+      "#downloading_directory_entries_for_offline_use">Télécharger
+      des entrées d'annuaire pour une utilisation hors connexion</a></li>
+
+      <li><a href="#setting_up_your_accounts_for_working_offline">Configurer
+      des comptes pour travailler hors connexion</a></li>
+
+      <li><a href="#selecting_items_for_offline_viewing">Sélectionner
+      des comptes, dossiers et groupes pour un affichage hors connexion</a></li>
+
+      <li><a href=
+      "#downloading_and_synchronizing_your_messages">Télécharger
+      et synchroniser des messages</a></li>
+
+      <li><a href="#working_offline_and_reconnecting_later">Travail hors connexion
+      et reconnexion ultérieure</a></li>
+    </ul>
+  </div>
+
+  <h2 id="setting_up_mozilla_mail_and_newsgroups_to_work_offline">Configurer
+  &brandShortName; Courrier &amp; Groupes pour travailler hors connexion</h2>
+
+  <p>La fonction hors connexion de &brandShortName; Courrier &amp; Groupes permet de
+  télécharger le courrier et de le consulter hors connexion
+  (déconnecté d'Internet). Si vous utilisez une connexion par
+  modem pour accéder au courrier et souhaitez réduire votre temps
+  de connexion ou si vous devez vous déconnecter momentanément du
+  réseau de votre entreprise, si vous êtes en voyage ou en
+  déplacement, vous pouvez télécharger le courrier pour le
+  consulter hors connexion. La fonction hors connexion de &brandShortName; Courrier &amp; Groupes
+  peut télécharger automatiquement les messages entrants et
+  envoyer tous les messages sortants lors de la prochaine reconnexion.</p>
+
+  <p>Si vous souhaitez travailler occasionnellement hors connexion, &brandShortName;
+  Courrier &amp; Groupes permet d'effectuer aisément les
+  opérations suivantes&#160;:</p>
+
+  <ul>
+    <li>télécharger du courrier entrant pour une utilisation hors
+    connexion&#160;;</li>
+
+    <li>télécharger un dossier pour une utilisation hors
+    connexion&#160;;</li>
+
+    <li>télécharger les seuls messages sélectionnés
+    ou cochés pour une utilisation hors connexion&#160;;</li>
+
+    <li>télécharger les entrées d'annuaire dans votre
+    carnet d'adresses pour une utilisation hors connexion.</li>
+  </ul>
+
+  <p>Si vous travaillez fréquemment hors connexion, &brandShortName; Courrier &amp;
+  Groupes permet également d'effectuer les opérations
+  suivantes&#160;:</p>
+
+  <ul>
+    <li>configurer un ou plusieurs comptes pour une utilisation hors
+    ligne&#160;;</li>
+
+    <li>définir les préférences &networkStorage.label; pour chaque compte&#160;;</li>
+
+    <li>sélectionner les éléments (comptes, dossiers et
+    groupes) à consulter hors connexion.</li>
+  </ul>
+
+  <p>[&#160;<a href="#working_offline">Retour au début de la
+  section</a>&#160;]</p>
+
+  <h2 id="downloading_all_messages_for_offline_use">Télécharger tous les messages
+	  pour une utilisation hors connexion</h2>
+
+  <p>&brandShortName; Courrier &amp; Groupes peut télécharger
+  automatiquement vos messages entrants pour une utilisation hors connexion. Plus
+  tard, lorsque vous vous reconnectez, &brandShortName; Courrier &amp; Groupes
+  synchronise automatiquement les messages du courrier entrant avec le
+  serveur.</p>
+
+  <p>Pour télécharger automatiquement vos messages pour
+  une utilisation hors connexion, ouvrez une fenêtre <q>Courrier</q>.</p>
+
+  <ol>
+    <li>Ouvrez le menu <q>&editMenu.label;</q> et sélectionnez
+    <q>&accountManagerCmd.label;</q>. La
+    boîte de dialogue <q>&accountManagerTitle.label;</q> s'affiche.</li>
+
+    <li>À gauche de la boîte de dialogue, choisissez le compte
+    à utiliser hors connexion et sélectionnez <q>Synchronisation et espace
+    disque</q>.
+
+      <p><strong>Remarque</strong>&#160;: cette catégorie n'est pas
+      disponible pour les comptes POP.</p>
+    </li>
+
+    <li>Cochez la case <q>&allFoldersOffline.label;</q>.</li>
+
+    <li>Cliquez sur <q>OK</q>.</li>
+
+	<li class="rediger">Cliquez sur l'icône en ligne/hors connexion <img src=
+    "chrome://communicator/skin/icons/online.gif" alt="Icône en ligne" /> dans le coin en bas à
+	droite de la fenêtre <q>Courrier</q> pour passer en mode hors connexion. &brandShortName; vous
+	demandera si vous désirer télécharger les messages pour les rendre disponibles hors connexion.
+	Cliquez sur <q>Téléchargez</q> pour terminer la procédure.</li>
+
+  </ol>
+
+  <p class="traduire"><strong>Remarque&#160;:</strong> This setting also applies to any new folders created. While the per-account setting can be overridden for an <a href="#downloading_an_individual_folder_for_offline_use">individual folder</a>, those per-folder settings are <em>removed</em> when the <q>Keep messages</q> box is toggled.</p>
+
+  <p>&brandShortName; Courrier &amp; Groupes télécharge automatiquement
+  tous les messages de la boîte de réception pour pouvoir les lire
+  et y répondre hors connexion. Après la déconnexion, &brandShortName;
+  Courrier &amp; Groupes reste ouvert pour vous permettre de continuer à
+  travailler avec les messages.</p>
+
+  <p>Pour vous reconnecter à Internet et travailler en ligne&#160;:</p>
+
+  <ul>
+    <li>cliquez sur l'icône en ligne/hors connexion <img src=
+    "chrome://communicator/skin/icons/offline.gif" alt=
+    "icône hors connexion" /> dans le coin en bas à droite de la
+    fenêtre <q>Courrier</q> pour passer en mode en ligne.</li>
+  </ul>
+
+  <p>Lorsque vous vous reconnectez, &brandShortName; Courrier &amp; Groupes synchronise
+  automatiquement les messages avec le serveur, en répliquant les
+  modifications apportées hors connexion.</p>
+
+  <p><strong>Astuce</strong>&#160;: lors du travail hors connexion, &brandShortName;
+  Courrier &amp; Groupes enregistre les messages à envoyer dans le
+  sous-dossier <q>Messages en attente</q> des <q>Dossiers locaux</q>. Pour que
+  &brandShortName; Courrier &amp; Groupes envoie automatiquement les messages en attente
+  à la reconnexion, voir la section <a href=
+  "mailnews_preferences.xhtml#network_and_storage_preferences">Préférences de Courrier
+  et Groupes - &networkStorage.label;</a> pour tous vos comptes.</p>
+
+  <p>[&#160;<a href="#working_offline">Retour au début de la
+  section</a>&#160;]</p>
+
+  <h2 id="downloading_an_individual_folder_for_offline_use">Mettre à
+  jour un dossier pour une utilisation hors connexion</h2>
+
+  <p class="regdiger">Les comptes POP ne permettent pas de gérer les
+  dossiers sur les serveurs POP, cette section ne s'applique donc pas à
+  ce type de compte.</p>
+
+  <p>Pour mettre à jour un dossier précis pour une utilisation
+  hors connexion, ouvrez une fenêtre <q>Courrier</q>&#160;:</p>
+
+  <ol>
+    <li>À gauche de la fenêtre <q>Courrier</q>,
+    sélectionnez le dossier concerné pour une utilisation hors
+    ligne.</li>
+
+    <li>Dans le menu <q>&editMenu.label;</q>, choisissez
+    <q>&folderPropsFolderCmd.label;</q>.</li>
+
+    <li>Cliquez sur l'onglet <q>&folderSynchronizationTab.label;</q> de la boîte de dialogue
+    <q>Propriétés</q>.</li>
+
+    <li>Cochez la case <q>Sélectionnez ce dossier pour une utilisation
+    hors connexion</q>.</li>
+
+    <li>Cliquez sur <q>Télécharger maintenant</q> pour
+    télécharger immédiatement les messages du dossier.
+    Vous pouvez également continuer à travailler et passer
+    à l'étape suivante lorsque vous voulez vous
+    déconnecter.</li>
+
+    <li>Cliquez sur l'icône En ligne/Hors connexion <img src=
+    "chrome://communicator/skin/icons/online.gif" alt="icône en ligne" />
+    en bas à droite de la fenêtre <q>Courrier</q> pour passer en
+    mode hors connexion.</li>
+
+    <li>Dans la boîte de dialogue <q>Travailler hors connexion</q>, cliquez
+    sur <q>Télécharger</q>.</li>
+  </ol>
+
+  <p>&brandShortName; Courrier &amp; Groupes télécharge automatiquement
+  tous les messages du dossier sélectionné pour pouvoir les lire
+  et y répondre hors connexion. Après la déconnexion, &brandShortName;
+  Courrier &amp; Groupes reste ouvert pour vous permettre de continuer à
+  travailler avec les messages.</p>
+
+  <p><strong>Remarque</strong>&#160;: les en-têtes de message
+  téléchargés pour la lecture hors connexion affichent une
+  enveloppe ou une icône de groupe de couleur gris foncé.</p>
+
+  <p>Pour vous reconnecter à Internet et travailler en ligne&#160;:</p>
+
+  <ul>
+    <li>Cliquez sur l'icône En ligne/Hors connexion <img src=
+    "chrome://communicator/skin/icons/offline.gif" alt=
+    "icône hors connexion" /> en bas à droite de la fenêtre
+    <q>Courrier</q> pour passer en mode en ligne.</li>
+  </ul>
+
+  <p>&brandShortName; Courrier &amp; Groupes synchronise automatiquement les dossiers
+  hors connexion avec le serveur, en répliquant les changements
+  apportés lors du travail hors connexion.</p>
+
+  <p><strong>Astuce</strong>&#160;: &brandShortName; Courrier &amp; Groupes enregistre
+  les messages envoyés lors du travail hors connexion dans le sous-dossier
+  <q>Messages en attente</q> situés dans les <q>Dossiers locaux</q>.
+  À la reconnexion, sélectionnez <q>&folderContextSendUnsentMessages.label;</q> dans le menu <q>&fileMenu.label;</q> pour envoyer simultanément
+  tous les messages enregistrés. Pour que &brandShortName; Courrier &amp; Groupes
+  envoie automatiquement les messages non envoyés à la
+  reconnexion, voir la section <a href=
+  "mailnews_preferences.xhtml#network_and_storage_preferences">Préférences de Courrier
+  et Groupes - &networkStorage.label;</a>.</p>
+
+  <p>[&#160;<a href="#working_offline">Retour au début de la
+  section</a>&#160;]</p>
+
+  <h2 id="downloading_selected_or_flagged_messages_for_offline_use">
+  Télécharger des messages sélectionnés ou
+  cochés pour une utilisation hors connexion</h2>
+
+  <p class="rediger">Veuillez noter que les messages sont téléchargés par défaut pour les
+  comptes POP. Toutefois, si vous avez activé le paramètre <q>Télécharger uniquement
+  les en-têtes</q> dans le paramétrage du compte POP, alors seuls les en-têtes seront
+  téléchargés et vous devrez utiliser les commandes dans cette section pour télécharger
+  les messages complets.</p>
+
+  <p>Pour télécharger des messages sélectionnés
+  pour une utilisation hors connexion, ouvrez une fenêtre Courrier.</p>
+
+  <ol>
+    <li>Sélectionnez un dossier de messagerie ou de groupe pour afficher
+    ses messages.</li>
+
+    <li>Sélectionnez les messages à télécharger,
+    comme suit&#160;:
+
+      <ul>
+        <li>Pour sélectionner un groupe de messages adjacents, cliquez
+        sur le premier puis cliquez en pressant la touche <kbd>Majuscule</kbd>
+        pour sélectionner le dernier du groupe.</li>
+
+        <li>Pour sélectionner des messages non consécutifs dans
+        la liste, maintenez la touche <kbd class="mac">Commande</kbd><kbd
+        lass="noMac">Ctrl</kbd> enfoncée et cliquez sur
+        chaque message.</li>
+      </ul>
+    </li>
+
+    <li>Ouvrez le menu <q>&fileMenu.label;</q>, sélectionnez
+    <q>&offlineMenu.label;</q> puis <q>&downloadSelectedCmd.label;</q>.
+    &brandShortName; Courrier &amp; Groupes télécharge alors les messages
+    sélectionnés.</li>
+
+    <li>Lorsque le téléchargement est terminé, cliquez sur
+    l'icône En ligne/Hors connexion <img src=
+    "chrome://communicator/skin/icons/online.gif" alt="Icône en ligne" />
+    en bas à droite de la fenêtre <q>Courrier</q> pour passer en
+    mode hors connexion.</li>
+  </ol>
+
+  <p>Pour télécharger des messages cochés en vue d'une
+  utilisation hors connexion, ouvrez une fenêtre Courrier.</p>
+
+  <ol>
+    <li>Sélectionnez un dossier de messagerie ou de groupe pour afficher
+    ses messages.</li>
+
+    <li>Cliquez dans la colonne <q>Coché</q> de chaque message à
+    télécharger. Un drapeau s'affiche où vous avez
+    cliqué pour indiquer que le message a été
+    coché. Si la colonne <q>Coché</q> n'est pas visible, cliquez
+    sur l'icône <q>Afficher/Masquer</q> les colonnes et
+    sélectionnez <img src="images/columns.png" alt="drapeau" />
+    <q>Coché</q> dans la liste.</li>
+
+    <li>Ouvrez le menu <q>&fileMenu.label;</q>, choisissez <q>&offlineMenu.label;</q>,
+    puis <q>&downloadFlaggedCmd.label;</q>. &brandShortName; Courrier &amp;
+    Groupes télécharge les messages cochés.</li>
+
+  </ol>
+
+  <p>Lorsque le téléchargement est terminé, cliquez sur
+  l'icône En ligne/Hors connexion <img src=
+  "chrome://communicator/skin/icons/online.gif" alt="Icône en ligne" />
+  en bas à droite de la fenêtre <q>Courrier</q> pour passer en
+  mode hors connexion.</p>
+
+  <p class="rediger">Veuillez noter que les éléments de menu
+  <q>&downloadSelectedCmd.label;</q> et <q>&downloadFlaggedCmd.label;</q> sont
+  aussi disponibles dans le menu contextuel pour un accès plus rapide.</p>
+
+  <p>Après la déconnexion, &brandShortName; Courrier &amp; Groupes reste
+  ouvert pour vous permettre de continuer à travailler avec les
+  messages.</p>
+
+  <p><strong>Remarque</strong>&#160;: les en-têtes de message
+  téléchargés pour la lecture hors connexion affichent une
+  enveloppe <img src="chrome://messenger/skin/icons/message-mail-new-offl.gif"
+  alt="Icône d'utilisation hors connexion&#160;: message de messagerie" /> ou
+  une icône de groupe <img src=
+  "chrome://messenger/skin/icons/message-news-new-offl.gif" alt=
+  "Icône d'utilisation hors connexion&#160;: nouveau message de groupe" />, de
+  couleur gris foncé.</p>
+
+  <p>Pour vous reconnecter à Internet et travailler en ligne&#160;:</p>
+
+  <ul>
+    <li>Cliquez sur l'icône En ligne/Hors connexion <img src=
+    "chrome://communicator/skin/icons/offline.gif" alt=
+    "Icône en ligne" /> en bas à droite de la fenêtre
+    <q>Courrier</q> pour passer en mode en ligne.</li>
+  </ul>
+
+  <p><strong>Astuce</strong>&#160;: &brandShortName; Courrier &amp; Groupes enregistre
+  les messages envoyés lors du travail hors connexion dans le sous-dossier
+  <q>Messages en attente</q> situés dans les <q>Dossiers locaux</q>.
+  À la reconnexion, sélectionnez <q>&folderContextSendUnsentMessages.label;</q> dans le menu <q>&fileMenu.label;</q> pour envoyer simultanément
+  tous les messages enregistrés. Pour que &brandShortName; Courrier &amp; Groupes
+  envoie automatiquement les messages non envoyés à la
+  reconnexion, voir la section <a href=
+  "mailnews_preferences.xhtml#network_and_storage_preferences">Préférences de Courrier
+  et Groupes - &networkStorage.label;</a>.</p>
+
+  <p>[&#160;<a href="#working_offline">Retour au début de la
+  section</a>&#160;]</p>
+
+  <h2 id="downloading_directory_entries_for_offline_use">
+  Télécharger des entrées d'annuaire pour une utilisation
+  hors connexion</h2>
+
+  <p>Vous pouvez télécharger (répliquer) les
+  entrées d'un serveur d'annuaire sur votre ordinateur pour que ces
+  données soient disponibles hors connexion. Une fois que vous avez
+  téléchargé les entrées de l'annuaire, vous pouvez
+  utiliser la même procédure pour mettre à jour votre copie
+  locale des entrées avec les versions les plus récentes
+  disponibles sur le serveur d'annuaire.</p>
+
+  <p>Pour télécharger ou mettre à jour un carnet
+  d'adresses de type annuaire LDAP pour une utilisation hors connexion&#160;:</p>
+
+  <ol>
+    <li>Assurez-vous d'être connecté.</li>
+
+    <li>Ouvrez le menu <q>&windowMenu.label;</q> et choisissez <q>&addressbook.label;</q>.</li>
+
+    <li>Dans la fenêtre <q>Carnet d'adresses</q>, sélectionnez
+    l'annuaire que vous voulez télécharger
+    (répliquer).</li>
+
+    <li>Cliquez sur <q>Modifier</q> dans la barre d'outils. La boîte de
+    dialogue <q>Propriétés</q> du serveur d'annuaire
+    apparaît.</li>
+
+    <li>Cliquez sur l'onglet <q>&folderSynchronizationTab.label;</q>.</li>
+
+    <li>Cliquez <q>Télécharger maintenant</q> pour commencer
+    à copier les entrées sur votre ordinateur.</li>
+
+    <li>En cas de besoin, saisissez vos nom d'utilisateur et mot de passe
+    réseau, puis cliquez sur <q>OK</q> pour démarrer le
+    téléchargement.
+
+      <p>Selon le nombre d'entrées de l'annuaire, le
+      téléchargement peut prendre du temps. Soyez patient.</p>
+    </li>
+  </ol>
+
+  <p>Après la fin du téléchargement, vous pouvez
+  travailler hors connexion et effectuer des recherches dans l'annuaire ou
+  l'utiliser pour l'auto-complétion d'adresses lors de la
+  rédaction de messages. Après avoir utilisé votre copie
+  locale de l'annuaire pendant un certain temps, vous pouvez avoir besoin de la
+  mettre à jour pour obtenir les dernières entrées du
+  serveur d'annuaire. Pour mettre à jour votre copie,
+  répétez la procédure décrite ci-dessus.</p>
+
+  <p>[&#160;<a href="#working_offline">Retour au début de la
+  section</a>&#160;]</p>
+
+  <h2 id="setting_up_your_accounts_for_working_offline">Configurer des comptes
+  pour travailler hors connexion</h2>
+
+  <p>Pour configurer un ou plusieurs comptes pour travailler hors connexion,
+  utilisez les préférences <q>&networkStorage.label;</q> de
+  la boîte de dialogue <q>&accountManagerTitle.label;</q>. Une fois définies, il n'est plus nécessaire de
+  modifier ces préférences chaque fois que vous travaillez hors
+  ligne. Les préférences <q>&networkStorage.label;</q>
+  disponibles dépendent du type de compte (IMAP, POP ou groupe).</p>
+
+  <p>Pour configurer des comptes pour une utilisation hors connexion, suivez ces
+  étapes&#160;:</p>
+
+  <ol>
+    <li>Pour chaque compte avec lequel vous voulez travailler hors connexion,
+    utilisez la boîte de dialogue <q>&accountManagerTitle.label;</q> pour définir les préférences
+    <q>&networkStorage.label;</q> correspondantes. Vous devez
+    sélectionner les éléments (comptes, dossiers, groupes)
+    à télécharger pour une utilisation hors connexion. Voir la
+    section <a href="#selecting_items_for_offline_viewing">Sélection de
+    comptes, dossiers et groupes pour un affichage hors connexion</a> pour plus
+    d'informations.
+
+      <p>Une fois définies, vous n'aurez plus à modifier ces
+      préférences. Consultez les sections suivantes pour plus
+      d'informations sur la définition des préférences
+      &networkStorage.label; pour des comptes
+	  <a href="mailnews_account_settings.xhtml#synchronization_and_storage_settings_imap">IMAP</a>,
+	  <a href="mailnews_account_settings.xhtml#disk_space_settings_pop">POP</a>,
+	  <a href="mailnews_account_settings.xhtml#disk_space_settings_blogs">Flux</a> et
+	  <a href="mailnews_account_settings.xhtml#synchronization_and_storage_settings_nntp">groupe</a>.</p>
+
+      <p><strong>Astuce</strong>&#160;: pour définir les
+      préférences <q>&networkStorage.label;</q> du compte en
+      cours, dans le menu <q>&fileMenu.label;</q>, choisissez <q>&offlineMenu.label;</q>,
+      puis <q>&settingsOfflineCmd.label;</q>.</p>
+    </li>
+
+    <li>Ouvrez le menu <q>&fileMenu.label;</q>, sélectionnez
+    <q>&offlineMenu.label;</q> puis <q>&synchronizeOfflineCmd.label;</q>.</li>
+
+    <li>Sélectionnez le type de messages (Courrier, Message des groupes
+    ou les deux) à télécharger.
+
+      <p><strong>Important</strong>&#160;: vous devez sélectionner au
+      moins une catégorie (Courrier ou Message des groupes) pour que le
+      téléchargement fonctionne.</p>
+    </li>
+
+    <li>Sélectionnez <q>Se déconnecter à la fin du
+    téléchargement et/ou de la synchronisation</q>.</li>
+
+    <li>cliquez sur <q>OK</q> pour télécharger les
+    éléments sélectionnés et se déconnecter.
+    Voir la section <a href=
+    "#downloading_and_synchronizing_your_messages">Téléchargement
+    et synchronisation des messages</a> pour plus d'informations.</li>
+  </ol>
+
+  <p>Pour les sessions hors connexion suivantes, vous pouvez passer l'étape
+  1.</p>
+
+  <p>[&#160;<a href="#working_offline">Retour au début de la
+  section</a>&#160;]</p>
+
+  <h2 id="selecting_items_for_offline_viewing">Sélectionner des comptes,
+  dossiers et groupes pour un affichage hors connexion</h2>
+
+  <p>Pour pouvoir lire les messages électroniques et de groupes hors
+  ligne, vous devez d'abord les sélectionner en vue d'un
+  téléchargement. Vous pouvez définir un compte complet
+  pour l'utilisation hors connexion. Vous pouvez également
+  sélectionner les dossiers et groupes à utiliser hors connexion.</p>
+
+  <p><strong>Remarque</strong>&#160;: n'oubliez pas que plus vous
+  sélectionnez d'éléments, plus le temps de
+  téléchargement et l'espace disque utilisé
+  s'accroissent.</p>
+
+  <p>Pour sélectionner des comptes, dossiers et groupes pour un affichage
+  hors connexion, ouvrez une fenêtre <q>Courrier</q>&#160;:</p>
+
+  <ol>
+    <li>Dans le menu <q>&editMenu.label;</q>, choisissez <q>&accountManagerCmd.label;</q>. La boîte de dialogue
+    <q>&accountManagerTitle.label;</q> s'affiche.</li>
+
+    <li>Sélectionnez la catégorie <q>&networkStorage.label;</q> du compte à modifier.</li>
+
+    <li>Cliquez sur <q>Sélectionner les dossiers pour le travail hors
+    ligne…</q>. Vous pouvez voir vos comptes IMAP, dossiers de courrier
+    et groupes auxquels vous êtes abonné.
+
+      <p><strong>Remarque</strong>&#160;: seuls les dossiers et groupes auxquels
+      vous êtes déjà <a href=
+      "mailnews_newsgroups.xhtml#subscribing_to_newsgroups">abonné</a> apparaissent.</p>
+    </li>
+
+    <li>Sélectionnez les éléments (dossiers, groupes)
+    à rendre disponibles pour une utilisation hors connexion.</li>
+
+    <li>Cliquez sur <q>OK</q>.</li>
+  </ol>
+
+  <p>Une fois définies, il n'est plus nécessaire de modifier ces
+  préférences chaque fois que vous travaillez hors connexion.
+  Toutefois, pour les modifier, il suffit de le faire avant de vous
+  déconnecter, car le même bouton <q>Sélectionner les
+  dossiers pour le travail hors connexion…</q> est disponible à
+  l'aide de la commande <a href=
+  "#downloading_and_synchronizing_your_messages">Télécharger/synchroniser</a>.</p>
+
+  <p>[&#160;<a href="#working_offline">Retour au début de la
+  section</a>&#160;]</p>
+
+  <h2 id="downloading_and_synchronizing_your_messages">
+  Télécharger et synchroniser des messages</h2>
+
+  <p>Si vous avez déjà sélectionné des dossiers de
+  courrier et groupes pour une utilisation hors connexion, vous êtes
+  prêt à les mettre à jour et à les synchroniser. Si
+  vous ne les avez pas encore sélectionnés, vous pouvez le faire
+  avant de vous déconnecter.</p>
+
+  <p>Si vous n'avez pas encore affiché la boîte de dialogue
+  <q>Télécharger et synchroniser les messages</q>, ouvrez une
+  fenêtre <q>Courrier</q>&#160;:</p>
+
+  <ol>
+    <li>Ouvrez le menu <q>&fileMenu.label;</q>, sélectionnez
+    <q>&offlineMenu.label;</q> puis <q>&synchronizeOfflineCmd.label;</q>.</li>
+
+    <li>Sélectionnez les catégories (Courrier ou Messages des
+    groupes) à télécharger.
+
+      <p><strong>Important</strong>&#160;: vous devez sélectionner au
+      moins une catégorie (Courrier ou Messages des groupes) pour que le
+      téléchargement fonctionne. Si les cases ne sont pas
+      cochées, cela signifie que vous n'avez pas encore
+      sélectionné d'éléments à
+      télécharger. Pour ce faire, utilisez le bouton
+      <q>Sélectionner les dossiers pour le travail hors
+      ligne…</q>.</p>
+    </li>
+
+    <li>Pour envoyer les messages dans votre dossier <q>Messages en attente</q>
+    avant de vous déconnecter, cochez la case <q>&folderContextSendUnsentMessages.label;</q>.</li>
+
+    <li>Pour vous déconnecter immédiatement après la fin
+    du téléchargement par &brandShortName; Courrier &amp; Groupes, cochez
+    la case <q>Se déconnecter à la fin du
+    téléchargement et/ou de la synchronisation</q>.</li>
+
+    <li>Pour définir ou modifier les éléments à
+    télécharger, cliquez sur <q>Sélectionner…</q>.
+    Voir <a href="#selecting_items_for_offline_viewing">Sélection de
+    comptes, dossiers et groupes pour un affichage hors connexion</a> pour plus
+    d'informations. Vous pouvez ignorer cette étape si vous avez
+    déjà sélectionné des éléments
+    à télécharger.</li>
+
+    <li>Cliquez sur <q>OK</q>. &brandShortName; Courrier &amp; Groupes commence à
+    télécharger les éléments
+    sélectionnés.</li>
+  </ol>
+
+  <p>Si vous avez choisi de travailler hors connexion une fois le
+  téléchargement terminé &brandShortName; Courrier &amp; Groupes se
+  déconnecte immédiatement. Dans le cas contraire, lorsque vous
+  êtes prêt à vous déconnecter, cliquez sur
+  l'icône en ligne/hors connexion <img src=
+  "chrome://communicator/skin/icons/online.gif" alt="icône en ligne" />
+  dans le coin en bas à droite de la fenêtre <q>Courrier</q>.</p>
+
+  <p>[&#160;<a href="#working_offline">Retour au début de la
+  section</a>&#160;]</p>
+
+  <h2 id="working_offline_and_reconnecting_later">Travail hors connexion et
+  reconnexion ultérieure</h2>
+
+  <p>Pour travailler hors connexion et vous reconnecter ultérieurement,
+  ouvrez la fenêtre <q>Courrier</q>.</p>
+
+  <p>Lorsque vous êtes prêt à vous
+  déconnecter&#160;:</p>
+
+  <ol>
+    <li>Cliquez sur l'icône en ligne/hors connexion <img src=
+    "chrome://communicator/skin/icons/online.gif" alt="icône en ligne" />
+    dans le coin en bas à droite de la fenêtre <q>Courrier</q>.
+    &brandShortName; Courrier &amp; Groupes vous invite à
+    télécharger les messages avant de vous
+    déconnecter.</li>
+
+    <li>Pour ce faire, cliquez sur <q>Télécharger</q>. Dans le
+    cas contraire, cliquez sur <q>Ne pas télécharger</q>.</li>
+  </ol>
+
+  <p><strong>Remarque</strong>&#160;: les en-têtes de message
+  téléchargés pour la lecture hors connexion affichent une
+  enveloppe <img src="chrome://messenger/skin/icons/message-mail-new-offl.gif"
+  alt="Icône d'utilisation hors connexion&#160;: message de messagerie" /> ou
+  une icône de groupe <img src=
+  "chrome://messenger/skin/icons/message-news-new-offl.gif" alt=
+  "Icône d'utilisation hors connexion&#160;: nouveau message de groupe" />, de
+  couleur gris foncé.</p>
+
+  <p><strong>Astuce</strong>&#160;: pour définir le comportement de téléchargement de
+  &brandShortName; Courrier &amp; Groupes lors de la déconnexion, ouvrez le menu <q><span
+  class="mac">&brandShortName;</span><span class="noMac">&editMenu.label;</span></q>, sélectionnez
+  <q>&preferencesCmd.label;</q> et sélectionnez la catégorie <q>&networkStorage.label;</q>. Vous
+  pouvez configurer &brandShortName; Courrier &amp; Groupes afin qu'il vous invite à télécharger
+  des messages lors de la déconnexion et qu'il télécharge automatiquement les messages ou au
+  contraire, qu'il ne les télécharge pas.</p>
+
+  <p>Pour vous reconnecter et synchroniser les messages&#160;:</p>
+
+  <ol>
+    <li>Cliquez sur l'icône en ligne/hors connexion <img src=
+    "chrome://communicator/skin/icons/offline.gif" alt=
+    "icône hors connexion" /> dans le coin en bas à droite de la
+    fenêtre <q>Courrier</q>.</li>
+
+    <li>Ouvrez le menu <q>&fileMenu.label;</q>, sélectionnez
+    <q>&offlineMenu.label;</q> puis <q>&synchronizeOfflineCmd.label;</q>.</li>
+  </ol>
+
+  <p>&brandShortName; Courrier &amp; Groupes synchronise les messages avec le serveur, en
+  répliquant les changements apportés lors du travail hors
+  ligne.</p>
+
+  <p><strong>Astuce</strong>&#160;: pour définir le comportement de
+  &brandShortName; Courrier &amp; Groupes lors de la connexion, ouvrez le menu
+  <q><span class="mac">SeaMonkey</span><span
+    class="noMac">&editMenu.label;</span></q>, sélectionnez
+  <q>&preferencesCmd.label;</q> et sélectionnez la
+  catégorie <q>&networkStorage.label;</q>. Vous pouvez configurer
+  &brandShortName; Courrier &amp; Groupes pour qu'il vous invite à envoyer les
+  messages en attente, qu'il le fasse automatiquement ou reste inactif.</p>
+
+  <p>[&#160;<a href="#working_offline">Retour au début de la
+  section</a>&#160;]</p>
+
+  <div id="footer">
+    <!--begin frenchmozilla signature-->
+
+    <p><em>Dernière traduction&#160;: 29 janvier 2006</em></p>
+    <!-- | vérification&#160;: le 13 décembre 2003</em></p>-->
+
+    <p>Ce texte a été traduit et adapté par une
+    équipe internationale de bénévoles francophones.<br />
+    Pour plus d'informations, visitez notre site&#160;: <a href=
+    "http://frenchmozilla.sf.net"
+    hreflang="fr">http://frenchmozilla.sourceforge.net</a>.</p>
+    <!--end frenchmozilla signature-->
+  </div>
+</body>
+</html>

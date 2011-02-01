@@ -1,0 +1,943 @@
+<?xml version="1.0" encoding="utf-8"?>
+<!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.1//EN"
+  "http://www.w3.org/TR/xhtml11/DTD/xhtml11.dtd"[
+  <!ENTITY % brandDTD SYSTEM "chrome://branding/locale/brand.dtd" >
+  %brandDTD;
+  <!ENTITY % utilityOverlayDTD SYSTEM "chrome://communicator/locale/utilityOverlay.dtd" >
+  %utilityOverlayDTD;
+  <!ENTITY % tasksOverlayDTD SYSTEM "chrome://communicator/locale/tasksOverlay.dtd" >
+  %tasksOverlayDTD;
+  <!ENTITY % preferencesDTD SYSTEM "chrome://communicator/locale/pref/preferences.dtd" >
+  %preferencesDTD;
+  <!ENTITY % messengerDTD SYSTEM "chrome://messenger/locale/messenger.dtd" >
+  %messengerDTD;
+  <!ENTITY % mailPrefsOverlayDTD SYSTEM "chrome://messenger/locale/mailPrefsOverlay.dtd" >
+  %mailPrefsOverlayDTD;
+  <!ENTITY % AccountManagerDTD SYSTEM "chrome://messenger/locale/AccountManager.dtd" >
+  %AccountManagerDTD;
+  <!ENTITY % AccountWizardDTD SYSTEM "chrome://messenger/locale/AccountWizard.dtd" >
+  %AccountWizardDTD;
+  <!ENTITY % am-mainDTD SYSTEM "chrome://messenger/locale/am-main.dtd" >
+  %am-mainDTD;
+  <!ENTITY % am-addressingDTD SYSTEM "chrome://messenger/locale/am-addressing.dtd" >
+  %am-addressingDTD;
+  <!ENTITY % am-copiesDTD SYSTEM "chrome://messenger/locale/am-copies.dtd" >
+  %am-copiesDTD;
+  <!ENTITY % am-junkDTD SYSTEM "chrome://messenger/locale/am-junk.dtd" >
+  %am-junkDTD;
+  <!ENTITY % am-offlineDTD SYSTEM "chrome://messenger/locale/am-offline.dtd" >
+  %am-offlineDTD;
+  <!ENTITY % am-server-topDTD SYSTEM "chrome://messenger/locale/am-server-top.dtd" >
+  %am-server-topDTD;
+  <!ENTITY % am-server-advancedDTD SYSTEM "chrome://messenger/locale/am-server-advanced.dtd" >
+  %am-server-advancedDTD;
+  <!ENTITY % am-smimeDTD SYSTEM "chrome://messenger/locale/am-smime.dtd" >
+  %am-smimeDTD;
+  <!ENTITY % am-serverwithnoidentitiesDTD SYSTEM "chrome://messenger/locale/am-serverwithnoidentities.dtd" >
+  %am-serverwithnoidentitiesDTD;
+  <!ENTITY % am-advancedDTD SYSTEM "chrome://messenger/locale/am-advanced.dtd" >
+  %am-advancedDTD;
+  <!ENTITY % am-mdnDTD SYSTEM "chrome://messenger/locale/am-mdn.dtd" >
+  %am-mdnDTD;
+  <!ENTITY % folderPropsDTD SYSTEM "chrome://messenger/locale/folderProps.dtd" >
+  %folderPropsDTD;
+  <!ENTITY % pref-addressingDTD SYSTEM "chrome://messenger/locale/addressbook/pref-addressing.dtd" >
+  %pref-addressingDTD;
+  <!ENTITY % pref-tagsDTD SYSTEM "chrome://messenger/locale/pref-tags.dtd" >
+  %pref-tagsDTD;
+  <!ENTITY % pref-formattingDTD SYSTEM "chrome://messenger/locale/messengercompose/pref-formatting.dtd" >
+  %pref-formattingDTD;
+  <!ENTITY % pref-composing_messagesDTD SYSTEM "chrome://messenger/locale/messengercompose/pref-composing_messages.dtd" >
+  %pref-composing_messagesDTD;
+  <!ENTITY % pref-mailnewsDTD SYSTEM "chrome://messenger/locale/pref-mailnews.dtd" >
+  %pref-mailnewsDTD;
+  <!ENTITY % pref-notificationsDTD SYSTEM "chrome://messenger/locale/pref-notifications.dtd" >
+  %pref-notificationsDTD;
+  <!ENTITY % pref-junkDTD SYSTEM "chrome://messenger/locale/pref-junk.dtd" >
+  %pref-junkDTD;
+  <!ENTITY % pref-directoryDTD SYSTEM "chrome://messenger/locale/addressbook/pref-directory.dtd" >
+  %pref-directoryDTD;
+  <!ENTITY % pref-directory-addDTD SYSTEM "chrome://messenger/locale/addressbook/pref-directory-add.dtd" >
+  %pref-directory-addDTD;
+  <!ENTITY % pref-receiptsDTD SYSTEM "chrome://messenger/locale/pref-receipts.dtd" >
+  %pref-receiptsDTD;
+  <!ENTITY % pref-offlineDTD SYSTEM "chrome://messenger/locale/pref-offline.dtd" >
+  %pref-offlineDTD;
+  <!ENTITY % pref-viewing_messagesDTD SYSTEM "chrome://messenger/locale/pref-viewing_messages.dtd" >
+  %pref-viewing_messagesDTD;
+  <!ENTITY % pref-character_encodingDTD SYSTEM "chrome://messenger/locale/pref-character_encoding.dtd" >
+  %pref-character_encodingDTD;
+  <!ENTITY % smtpEditOverlayDTD SYSTEM "chrome://messenger/locale/smtpEditOverlay.dtd" >
+  %smtpEditOverlayDTD;
+  <!ENTITY % msgHdrViewOverlayDTD SYSTEM "chrome://messenger/locale/msgHdrViewOverlay.dtd" >
+  %msgHdrViewOverlayDTD;
+  <!ENTITY % msgViewPickerOverlayDTD SYSTEM "chrome://messenger/locale/msgViewPickerOverlay.dtd" >
+  %msgViewPickerOverlayDTD;
+  <!ENTITY % msgCompSMIMEOverlayDTD SYSTEM "chrome://messenger-smime/locale/msgCompSMIMEOverlay.dtd"
+>
+  %msgCompSMIMEOverlayDTD;
+  <!ENTITY % abNewCardDialogDTD SYSTEM "chrome://messenger/locale/addressbook/abNewCardDialog.dtd" >
+  %abNewCardDialogDTD;
+  <!ENTITY % abCardOverlayDTD SYSTEM "chrome://messenger/locale/addressbook/abCardOverlay.dtd" >
+  %abCardOverlayDTD;
+  <!ENTITY % abCardViewOverlayDTD SYSTEM "chrome://messenger/locale/addressbook/abCardViewOverlay.dtd" >
+  %abCardViewOverlayDTD;
+  <!ENTITY % abMainWindowDTD SYSTEM "chrome://messenger/locale/addressbook/abMainWindow.dtd" >
+  %abMainWindowDTD;
+]>
+
+<html xmlns="http://www.w3.org/1999/xhtml" lang="fr" xml:lang="fr">
+<head>
+  <title>Utiliser des carnets d'adresses</title>
+  <meta http-equiv="Content-Type" content="application/xhtml; charset=utf-8" />
+  <!--<link rel="stylesheet" href="content_style.css" type="text/css" />-->
+  <link rel="stylesheet" type="text/css" href="helpFileLayout.css" />
+  <link rel="stylesheet" type="text/css" href="chrome://communicator/skin/smileys.css"/>
+</head>
+
+<body>
+
+  <h1 id="using_address_books">Utiliser des carnets d'adresses</h1>
+
+  <div class="contentsBox">
+    <p>Dans cette section&#160;:</p>
+
+    <ul>
+      <li><a href="#about_address_books">À propos des carnets
+      d'adresses</a></li>
+
+      <li><a href="#adding_entries_to_your_address_books">Ajouter des
+      entrées aux carnets d'adresses</a></li>
+
+      <li><a href="#creating_a_new_address_book">Créer un carnet
+      d'adresses</a></li>
+
+      <li><a href="#creating_a_new_address_book_card">Créer une fiche de
+      carnet d'adresses</a></li>
+
+      <li><a href="#viewing_or_editing_card_properties">Afficher et modifier
+      les informations d'une fiche</a></li>
+
+      <li><a href="#creating_a_mailing_list">Créer une liste de
+      diffusion</a></li>
+
+      <li><a href="#editing_a_mailing_list">Modifier une liste de
+      diffusion</a></li>
+
+      <li><a href="#searching_address_books_and_directories">Recherche
+      d'adresses dans les carnets et les annuaires</a></li>
+
+      <li><a href="mailnews_addressbooks.xhtml#importing_address_books">Importer des carnets
+      d'adresses</a></li>
+
+      <li><a href="#exporting_address_books">Exporter des carnets
+      d'adresses</a></li>
+
+      <li><a href="#adding_and_removing_ldap_directories">Ajouter et retirer
+      des annuaires LDAP</a></li>
+    </ul>
+  </div>
+
+  <h2 id="about_address_books">À propos des carnets d'adresses</h2>
+
+  <p>Les carnets d'adresses contiennent des informations (coordonnées
+  professionnelles et/ou personnelles, nom, prénom, moyens de contact,
+  etc.) concernant toute personne ou organisme pour lequel vous créerez
+  une fiche. &brandShortName; Courrier &amp; Groupes fournit deux carnets
+  d'adresses&#160;: le carnet <q>Adresses personnelles</q> et le carnet
+  <q>Adresses collectées</q>. Vous pouvez en créer d'autres
+  (amis, famille, collègues, etc.). Vous pouvez aussi importer des
+  carnets d'adresses à partir d'autres logiciels de messagerie
+  électronique ou de versions précédentes de &brandShortName;. Le
+  contenu de ces carnets est enregistré localement sur le disque dur,
+  dans les dossiers de votre profil.</p>
+
+  <p>Le carnet d'adresses peut également contenir des adresses
+  électroniques d'un annuaire LDAP, situé sur un serveur
+  d'annuaire <acronym title=
+  "Lightweight Directory Access Protocol">LDAP</acronym>. Le serveur d'annuaire
+  enregistre les adresses électroniques de personnes non incluses dans
+  vos carnets d'adresses locaux. Le protocole <acronym title=
+  "Lightweight Directory Access Protocol">LDAP</acronym> est une méthode
+  standard pour accéder à des services d'annuaire sur Internet ou
+  sur un intranet, un annuaire d'entreprise par exemple.</p>
+
+  <h3>Adresses personnelles</h3>
+
+  <p>Utilisez le carnet d'adresses personnelles pour ajouter des noms
+  spécifiques de votre choix. Vous pouvez créer des listes de
+  diffusion et modifier des entrées du carnet.</p>
+
+  <h3>Adresses collectées</h3>
+
+  <p>Par défaut, le carnet d'adresses collectées récupère
+  automatiquement les adresses électroniques contenues dans les messages
+  que vous envoyez. Ces adresses sont enregistrées au moment où
+  vous cliquez sur <q>Envoyer</q>.<!-- Le carnet d'adresses collectées peut
+  aussi enregistrer l'adresse de l'expéditeur de chaque message entrant.
+  Pour activer cette fonction, vous devez modifier les <a href=
+  "#addressing_preferences">préférences de collecte d'adresses
+  électroniques.</a>. Vous pouvez aussi choisir dans les
+  préférences les types d'adresses que vous voulez collecter
+  (seulement les adresses dans les courriers électroniques ou aussi
+  celles des messages de groupe).--></p>
+
+  <p>Pour modifier ces paramètres, ouvrez une fenêtre Courrier
+  puis&#160;:</p>
+
+  <ol>
+    <li>Ouvrez le menu <q><span class="mac">SeaMonkey</span><span
+    class="noMac">&editMenu.label;</span></q>
+    et choisissez <q>&preferencesCmd.label;</q>.</li>
+
+    <li>Dans la catégorie <q>Courrier et Groupes</q>, cliquez sur
+    <q>&address.label;</q>. Si aucune sous-catégorie n'est visible,
+    double-cliquez sur <q>Courrier et Groupes</q> pour développer la
+    liste.</li>
+
+    <li>Dans <q>&emailCollectiontitle.label;</q>&#160;:
+
+      <ul>
+        <li><strong>&emailCollectionPicker.label;</strong> Cochez
+        cette case si vous voulez que &brandShortName; Courrier &amp; Groupes enregistre
+        automatiquement les adresses électroniques des messages que vous
+        envoyez dans un de vos carnets d'adresses.</li>
+
+        <li>Dans la liste déroulante, sélectionnez le carnet
+        d'adresses où elles seront stockées.</li>
+      </ul>
+    </li>
+
+    <li>Cliquez sur <q>OK</q>.</li>
+  </ol>
+
+  <h3>Annuaire LDAP (le cas échéant)</h3>
+
+  <p>Un annuaire LDAP (également appelé service de consultation
+  d'adresses) stocke les adresses électroniques des destinataires ne
+  figurant pas dans vos carnets d'adresses locaux. Les annuaires LDAP
+  permettent d'accéder à de grandes bases de données
+  d'adresses électroniques gérées de manière
+  centralisée, particulièrement utiles avec <a href=
+  "#address_autocompletion">l'auto-complétion d'adresses</a>.</p>
+
+  <h3>Ouvrir le carnet d'adresses</h3>
+
+  <p>Pour ouvrir le carnet d'adresses&#160;:</p>
+
+  <ul>
+    <li>Ouvrez le menu <q>&windowMenu.label;</q> et choisissez <q>&addressbook.label;</q> ou cliquez sur l'icône <q>Carnet d'adresses</q> dans
+    la barre d'état.</li>
+  </ul>
+
+  <table>
+    <caption>
+      Icône Carnet d'adresses
+    </caption>
+
+    <tr>
+      <td><img src="images/taskbar-ab.gif" alt="barre de tâches" /></td>
+    </tr>
+  </table>
+
+  <h3>Modifier l'affichage de la fenêtre <q>Carnet d'adresses</q></h3>
+
+  <p>Pour personnaliser l'affichage de la fenêtre <q>Carnet
+  d'adresses</q> et des fiches&#160;:</p>
+
+  <ol>
+    <li>Ouvrez le menu <q>&windowMenu.label;</q> et choisissez <q>&addressbook.label;</q>. La fenêtre <q>Carnet d'adresses</q> s'ouvre.</li>
+
+    <li>Dans la fenêtre <q>Carnet d'adresses</q>, ouvrez le menu
+    <q>&viewMenu.label;</q> et choisissez l'une des options d'affichage
+    suivantes&#160;:
+
+      <ul>
+        <li>Sélectionnez <q>Barre d'outils</q> puis cochez ou
+        décochez les éléments que vous voulez afficher ou
+        masquer.</li>
+
+        <li>Sélectionnez <q>Voir le nom comme</q> et choisissez
+        l'affichage des noms des fiches (<q>Prénom Nom</q>, <q>Nom
+        Prénom</q> ou <q>Nom à afficher</q>).</li>
+
+        <li>Choisissez <q>Trier</q>, puis une option de tri (<q>Nom</q>,
+        <q>Adresse électronique</q>, <q>Société</q>,
+        etc.).</li>
+      </ul>
+    </li>
+  </ol>
+
+  <p>[&#160;<a href="#using_address_books">Retour au début de la
+  section</a>&#160;]</p>
+
+  <h2 id="adding_entries_to_your_address_books">Ajouter des entrées aux
+  carnets d'adresses</h2>
+
+  <p>Vous pouvez ajouter des entrées aux carnets d'adresses de l'une des
+  façons suivantes&#160;:</p>
+
+  <ul>
+    <li>Cliquez sur un nom dans un champ d'expéditeur (<q>De</q>) ou de
+    destinataire (par exemple, <q>Pour</q> ou <q>Cc</q>) dans un message
+    reçu et sélectionnez <q>Ajouter l'adresse au carnet
+    d'adresses</q> dans le menu.</li>
+
+    <li>Dans la fenêtre <q>Carnet d'adresses</q>, cliquez sur <q>Nouvelle
+    fiche</q> pour créer une fiche ou bien ouvrez le menu
+    <q>&fileMenu.label;</q>, choisissez <q>&newMenu.label;</q> et sélectionnez
+    <q>Nouvelle fiche</q>.</li>
+
+    <li>Ouvrez un message pour ajouter automatiquement l'adresse de
+    l'expéditeur à votre carnet d'adresses collectées (si
+    cette option est activée).</li>
+
+    <li>Dans la fenêtre <q>Carnet d'adresses</q>, copiez des
+    entrées dans un autre carnet d'adresses en les sélectionnant
+    puis en faisant un glisser-déposer de ces adresses sur le nom du
+    carnet d'adresses dans lequel vous voulez les copier.</li>
+  </ul>
+
+  <p>[&#160;<a href="#using_address_books">Retour au début de la
+  section</a>&#160;]</p>
+
+  <h2 id="creating_a_new_address_book">Créer un carnet d'adresses</h2>
+
+  <p>&brandShortName; Courrier &amp; Groupes fournit un carnet d'adresses personnelles
+  par défaut, mais vous pouvez en créer d'autres.</p>
+
+  <p>Pour créer un carnet d'adresses&#160;:</p>
+
+  <ol>
+    <li>Cliquez sur l'icône <q>Carnet d'adresses</q> dans la barre
+    d'état ou ouvrez le menu <q>&windowMenu.label;</q> et choisissez
+    <q>&addressbook.label;</q>. La fenêtre <q>Carnet d'adresses</q>
+    s'ouvre.
+
+      <table>
+        <caption>
+          Icône Carnet d'adresses
+        </caption>
+
+        <tr>
+          <td><img src="images/taskbar-ab.gif" alt=
+          "Icône Carnet d'adresses" /></td>
+        </tr>
+      </table>
+    </li>
+
+    <li>Dans la fenêtre <q>Carnet d'adresses</q>, ouvrez le menu
+    <q>&fileMenu.label;</q>, choisissez <q>&newMenu.label;</q> puis <q>Carnet d'adresses</q>. La
+    boîte de dialogue <q>Nouveau carnet d'adresses</q> s'affiche.</li>
+
+    <li>Entrez le nom du nouveau carnet d'adresses et cliquez sur
+    <q>OK</q>.</li>
+  </ol>
+
+  <p>[&#160;<a href="#using_address_books">Retour au début de la
+  section</a>&#160;]</p>
+
+  <h2 id="creating_a_new_address_book_card">Créer une fiche de carnet
+  d'adresses</h2>
+
+  <p>Les fiches de carnets d'adresses peuvent être utilisées pour
+  enregistrer des noms, des adresses postales, des adresses
+  électroniques, des numéros de téléphone et
+  d'autres informations, telle la préférence de format de message
+  (texte simple ou HTML).</p>
+
+  <p>Pour créer une fiche de carnet d'adresses&#160;:</p>
+
+  <ol>
+    <li>Cliquez sur l'icône <q>Carnet d'adresses</q> dans la barre
+    d'état ou ouvrez le menu <q>&windowMenu.label;</q> et choisissez
+    <q>&addressbook.label;</q>.</li>
+
+    <li>Cliquez sur <q>Nouvelle fiche</q>. Si vous avez plusieurs carnets
+    d'adresses, sélectionnez celui auquel vous souhaitez ajouter la
+    fiche.</li>
+
+    <li>Chaque boîte de dialogue <q>Nouvelle fiche</q> comprend trois
+    onglets&#160;:
+
+      <dl>
+        <dt>&contact.heading;&#160;: Entrez les informations suivantes&#160;:</dt>
+
+        <dd>
+          <dl>
+            <dt>Prénom et Nom&#160;:</dt>
+
+            <dd>Prénom et nom de la personne que vous désirez
+            ajouter à votre carnet d'adresses.</dd>
+
+            <dt>&DisplayName.label;</dt>
+
+            <dd>Nom qui apparaîtra dans la champ <q>Pour&#160;:</q> de la
+            fenêtre de rédaction. Par défaut, l'affichage
+            sera <q>Prénom Nom</q>.</dd>
+
+            <dt>&NickName.label;</dt>
+
+            <dd>Pseudonyme ou abréviation.</dd>
+
+            <dt>&PrimaryEmail.label;</dt>
+
+            <dd>Adresse principale à laquelle envoyer les
+            messages&#160;; vous pouvez aussi indiquer une adresse
+            alternative.</dd>
+
+            <dt>&PreferMailFormat.label;</dt>
+
+            <dd>Si vous savez que le destinataire peut lire des messages
+            formatés en HTML (contenant par exemple des liens, des
+            images ou des tableaux), choisissez <q>&HTML.label;</q>. Si le destinataire
+            ne peut lire des messages qu'en texte simple, choisissez <q>&PlainText.label;</q> (sans éléments de code HTML). Si vous ne
+            savez pas ou si vous n'êtes sûr de rien, choisissez
+            <q>&Unknown.label;</q>. Si vous choisissez <q>&Unknown.label;</q>, &brandShortName; Courrier
+            &amp; Groupes détermine le format d'envoi sur la base des
+            paramètres de format d'envoi enregistrés dans les
+            <q>&preferencesCmd.label;</q>. Si &brandShortName; Courrier &amp;
+            Groupes ne peut toujours pas déterminer le format correct, il
+            vous demandera de choisir un format d'envoi lorsque vous enverrez
+            le message.</dd>
+
+            <dt>&allowRemoteContent1.label;</dt>
+            <dd>Autorise cet expéditeur à vous envoyer du contenu
+            distant qui s'affichera dans la fenêtre du message.</dd>
+
+          </dl>
+        </dd>
+
+        <dt>Onglets &Home.tab; et &Work.tab;</dt>
+
+        <dd>
+          Entrez ici les coordonnées privées et professionnelles.
+
+          <p><strong>Astuce</strong>&#160;: si vous entrez une adresse, &brandShortName;
+          affichera un bouton <q>&mapItButton.label;</q> lorsque vous
+          sélectionnerez cette fiche dans la liste. En cliquant sur ce
+          bouton, &brandShortName; vous enverra sur une page Web localisant l'adresse
+          indiquée sur un plan.</p>
+        </dd>
+
+        <dt>Autres informations&#160;:</dt>
+
+        <dd>Saisissez ici n'importe quelle information concernant le
+        contact.</dd>
+      </dl>
+    </li>
+  </ol>
+
+  <p><strong>Astuce</strong>&#160;: pour ajouter rapidement de nouvelles
+  adresses à votre carnet, cliquez avec le bouton droit de la souris sur
+  n'importe quelle adresse dans les messages reçus et
+  sélectionnez <q>Ajouter l'adresse au carnet d'adresses</q> dans le
+  menu contextuel. La boîte de dialogue <q>Nouvelle fiche</q>
+  apparaît alors et vous pouvez compléter les champs libres.</p>
+
+  <h3 id="viewing_or_editing_card_properties">Afficher et modifier les
+  informations d'une fiche</h3>
+
+  <p>Vous pouvez afficher ou modifier les informations contenues dans une fiche
+  de l'une des façons suivantes&#160;:</p>
+
+  <ul>
+    <li>Sélectionnez une fiche dans l'un de vos carnet d'adresses et
+    cliquez sur <q>Modifier</q>.</li>
+
+    <li>Double-cliquez sur une fiche.</li>
+  </ul>
+
+  <p>[&#160;<a href="#using_address_books">Retour au début de la
+  section</a>&#160;]</p>
+
+  <h2 id="creating_a_mailing_list">Créer une liste de diffusion</h2>
+
+  <p>Si vous envoyez régulièrement des messages à un
+  groupe de destinataires défini, vous pouvez leur adresser rapidement
+  un message à l'aide d'une liste de diffusion contenant les personnes
+  de votre choix.</p>
+
+  <p>Pour créer une liste de diffusion et l'ajouter au carnet
+  d'adresses&#160;:</p>
+
+  <ol>
+    <li>Dans la fenêtre <q>Carnet d'adresses</q>, cliquez sur <q>Nouvelle
+    liste</q>.</li>
+
+    <li>Entrez les informations suivantes dans la boîte de dialogue
+    <q>Liste de diffusion</q>&#160;:
+
+      <dl>
+        <dt>&chooseAddressBook.label;</dt>
+
+        <dd>Choisissez dans cette liste déroulante le carnet d'adresse
+        dans lequel enregistrer la liste.</dd>
+
+        <dt>Nom de la liste&#160;:</dt>
+
+        <dd>Lorsque vous entrez le nom de la liste dans le champ
+        <q>Pour&#160;:</q> d'un message, tous ses membres le
+        reçoivent.</dd>
+
+        <dt>Pseudo de la liste&#160;:</dt>
+
+        <dd>Nom alternatif.</dd>
+
+        <dt>&description.heading;</dt>
+
+        <dd>La description s'affiche après le nom de la liste dans la
+        ligne d'adresse de la fenêtre de rédaction.</dd>
+      </dl>
+    </li>
+
+    <li>Saisissez les entrées du carnet d'adresses à ajouter
+    à la liste.</li>
+
+    <li>Cliquez sur <q>OK</q>.</li>
+  </ol>
+
+  <p>La liste apparaît dans la partie gauche de la fenêtre
+  <q>Carnet d'adresses</q>, sous le carnet d'adresses auquel vous l'avez
+  ajoutée. Si vous ne la voyez pas, il vous faut développer
+  l'arborescence du carnet d'adresses en cliquant sur la flèche à
+  gauche du nom du carnet d'adresses.</p>
+
+  <p>[&#160;<a href="#using_address_books">Retour au début de la
+  section</a>&#160;]</p>
+
+  <h2 id="editing_a_mailing_list">Modifier une liste de diffusion</h2>
+
+  <p>Les listes de diffusion sont enregistrées dans le carnet d'adresses
+  où vous les avez créées.</p>
+
+  <p>Pour supprimer un membre d'une liste&#160;:</p>
+
+  <ol>
+    <li>Ouvrez le menu <q>&windowMenu.label;</q> et choisissez <q>&addressbook.label;</q>.</li>
+
+    <li>Cliquez sur le petit triangle à gauche du nom du carnet
+    d'adresses qui contient votre liste de diffusion.</li>
+
+    <li>Sélectionnez la liste de diffusion. Les membres apparaissent
+    alors dans le cadre de droite.</li>
+
+    <li>Sélectionnez l'entrée à effacer.</li>
+
+    <li>Cliquez sur le bouton <q>Supprimer</q>.</li>
+  </ol>
+
+  <p>Pour ajouter des membres à une liste de diffusion&#160;:</p>
+
+  <ol>
+    <li>Ouvrez le menu <q>&windowMenu.label;</q> et choisissez <q>&addressbook.label;</q>.</li>
+
+    <li>Cliquez sur le petit triangle à gauche du nom du carnet
+    d'adresses qui contient votre liste de diffusion.</li>
+
+    <li>Sélectionnez la liste de diffusion puis cliquez sur
+    <q>Modifier</q>.</li>
+
+    <li>Ajoutez ou supprimez des entrées selon vos besoins.</li>
+
+    <li>Cliquez sur <q>OK</q> lorsque la liste est à jour.</li>
+  </ol>
+
+  <p>[&#160;<a href="#using_address_books">Retour au début de la
+  section</a>&#160;]</p>
+
+  <h2 id="searching_address_books_and_directories">Recherche d'adresses dans
+  les carnets et les annuaires</h2>
+
+  <p>&brandShortName; Courrier &amp; Groupes vous permet de rechercher rapidement des
+  personnes dans un carnet d'adresses ou un annuaire par leur nom ou leur
+  adresse électronique. Vous pouvez aussi utiliser une combinaison de
+  critères pour effectuer des recherches plus fines dans un carnet
+  d'adresses ou un annuaire.</p>
+
+  <p>Pour effectuer une recherche rapide par le nom ou l'adresse
+  électronique d'une personne dans un carnet d'adresses ou un annuaire,
+  ouvrez la fenêtre <q>Carnet d'adresses</q> et suivez ces
+  étapes&#160;:</p>
+
+  <ol>
+    <li>Dans la liste des carnets d'adresses, sélectionnez le carnet
+    d'adresses ou l'annuaire dans lequel vous pensez trouver le(s)
+    correspondant(s).</li>
+
+    <li>À droite, dans le champ <q>&searchNameAndEmail.placeholder;</q>,
+    entrez au moins une partie du nom ou de l'adresse que vous recherchez. Plus
+    le terme saisi sera précis et plus la liste sera réduite.
+
+      <p>Dès que vous temporisez dans votre saisie, &brandShortName; Courrier
+      &amp; Groupes propose une sélection de fiches dont le nom et/ou
+      l'adresse comporte le terme saisi.</p>
+    </li>
+
+    <li>Cliquez sur le bouton <q>Effacer</q> qui se trouve à droite de
+    la zone de saisie pour effacer son contenu et rétablir
+    l'intégralité de la liste des adresses du carnet
+    sélectionné.</li>
+  </ol>
+
+  <h3 id="searching_for_specific_entries">Recherche avancée</h3>
+
+  <p>Il est possible de faire des recherches multi-critères dans un
+  carnet d'adresses ou dans un annuaire. Si la boîte de dialogue
+  <q>Recherche avancée</q> dans le carnet d'adresses n'est pas
+  ouverte&#160;:</p>
+
+  <ol>
+    <li>Cliquez sur le bouton <q>&advancedButton.label;</q> à droite de
+    la zone de saisie <q>Le nom ou le message contient</q>.<br />
+    ou<br />
+    Ouvrez le menu <q>&tasksMenu.label;</q> et choisissez <q>Recherche
+    d'adresses</q>.<br />
+    La boîte de dialogue <q>Recherche avancée dans le carnet
+    d'adresses</q> apparaît.</li>
+
+    <li>À côté de <q>Rechercher dans</q>, choisissez le
+    carnet d'adresses ou l'annuaire dans lequel vous désirez effectuer
+    votre recherche.</li>
+
+    <li>Sélectionnez les critères que vous désirez que
+    &brandShortName; Courrier &amp; Groupes utilise pour rechercher des entrées.
+    Déterminez si toutes les conditions ou seulement l'une d'entre elles
+    doivent être remplies lors de la recherche.</li>
+
+    <li>Cliquez sur <q>Plus</q> pour ajouter des critères et sur
+    <q>Moins</q> pour retirer le dernier critère de la liste.</li>
+
+    <li>Cliquez sur <q>Rechercher</q> pour commencer ou cliquez sur
+    <q>Effacer</q> pour réinitialiser les entrées. Les
+    résultats de la recherche apparaissent dans la partie basse de la
+    boîte de dialogue.</li>
+
+    <li>Pour trier les entrées selon un critère différent,
+    cliquez sur l'intitulé du champ (colonne) sur lequel vous voulez
+    baser le tri.</li>
+
+    <li>Pour voir la fiche d'une entrée, sélectionnez
+    l'entrée et cliquez sur <q>Propriétés</q>.</li>
+
+    <li>Pour rédiger un message à un ou plusieurs destinataires
+    sélectionnés, choisissez une ou plusieurs entrées et
+    cliquez sur <q>Rédiger</q>.</li>
+  </ol>
+
+  <p>[&#160;<a href="#using_address_books">Retour au début de la
+  section</a>&#160;]</p>
+
+  <h2 id="importing_address_books">Importer des carnets d'adresses</h2>
+
+  <p>Si vous avez un carnet d'adresses &brandShortName; dans un autre profil utilisateur
+  ou un autre ordinateur, ou si vous avez un carnet d'adresses d'une version
+  précédente de &brandShortName; ou d'un tout autre client de messagerie,
+  vous pouvez en importer les données dans la fenêtre <q>Carnet
+  d'adresses</q>. Gardez à l'esprit que si vous mettez à jour un
+  profil depuis une version précédente de &brandShortName;, vos carnets
+  d'adresses seront automatiquement inclus. Il n'y a donc pas lieu de les
+  importer manuellement.</p>
+
+  <p>Vous pouvez importer des carnets d'adresses à partir de Netscape
+  Communicator, Eudora, Outlook, Outlook Express ainsi que divers formats de
+  fichiers textes (LDIF, textes aux entrées délimitées par
+  des tabulations (.tab), séparés par des virgules (.csv) ou
+  d'autres signes (.txt)). Lorsque vous importez un carnet d'adresses, &brandShortName;
+  Courrier &amp; Groupes crée un nouveau carnet d'adresses avec les
+  fiches importées.</p>
+
+  <p>Vous pouvez aussi <a href="mail_help.xhtml#importing_mail_from_other_programs">importer
+  des messages et des configurations</a> provenant d'autres clients de
+  messagerie.</p>
+
+  <p>Pour importer un carnet d'adresses dans &brandShortName;, ouvrez une fenêtre
+  Courrier ou une fenêtre Carnet d'adresses&#160;, puis suivez ces
+  instructions&#160;:</p>
+
+  <ol>
+    <li>Ouvrez le menu <q>&tasksMenu.label;</q> et choisissez <q>&importCmd.label;</q>.
+    L'assistant d'importation apparaît.</li>
+
+    <li>Suivez les instructions pour importer des carnets d'adresses.
+
+      <!--<p><strong>Astuce sous Windows</strong>&#160;: le fichier des carnets
+      d'adresses de Netscape Communicator 4.x (pab.na2) est stocké dans
+      le répertoire de votre profil d'utilisateur Netscape (par exemple,
+      c:\program files\netscape\users\&lt;nom_du_profil&gt;\, où \users
+      contient les répertoires de profil utilisateur).</p>-->
+    </li>
+  </ol>
+
+  <p>[&#160;<a href="#using_address_books">Retour au début de la
+  section</a>&#160;]</p>
+
+  <h2 id="exporting_address_books">Exporter des carnets d'adresses</h2>
+
+  <p>Vous pouvez exporter un carnet d'adresses &brandShortName; si vous voulez plus tard
+  l'importer dans un autre profil utilisateur, l'enregistrer sur un autre
+  ordinateur ou l'employer avec un autre programme capable d'importer des
+  carnets d'adresses. Vous pouvez exporter un carnet d'adresses dans l'un des
+  formats de fichier suivants&#160;: &brandShortName; (.ldif), textes aux entrées
+  délimités par des tabulations (.tab), séparés par
+  des virgules (.csv) ou d'autres signes (.txt).</p>
+
+  <p>Pour exporter un carnet d'adresses, placez-vous dans une fenêtre de
+  <q>Carnet d'adresses</q>&#160;:</p>
+
+  <ol>
+    <li>Choisissez le carnet d'adresses que vous désirez exporter.</li>
+
+    <li>Ouvrez le menu <q>&tasksMenu.label;</q> et choisissez
+    <q>Exporter…</q>.</li>
+
+    <li>Dans la boîte de dialogue <q>Exporter le carnet d'adresses</q>,
+    choisissez l'emplacement où vous voulez enregistrer le fichier de
+    carnet d'adresses.</li>
+
+    <li>Choisissez le format de ce fichier (LDIF, séparés par
+    virgules, délimités par des tabulations ou d'autres signes).</li>
+
+    <li>Entrez un nom pour le fichier du carnet d'adresses. Assurez-vous
+    d'inclure l'extension de fichier appropriée (.ldif, .csv, .tab ou .txt).</li>
+
+    <li>Cliquez sur <q>Enregistrer</q>.</li>
+  </ol>
+
+  <p>[&#160;<a href="#using_address_books">Retour au début de la
+  section</a>&#160;]</p>
+
+  <h2 id="adding_and_removing_ldap_directories">Ajouter et retirer des
+  annuaires <acronym title=
+  "Lightweight Directory Access Protocol">LDAP</acronym></h2>
+
+  <p>Ajouter un annuaire LDAP à votre carnet d'adresses vous permet de
+  faire des recherches d'adresses électroniques et d'autres informations
+  dans un annuaire distant, situé sur Internet ou sur un intranet. Vous
+  pouvez aussi utiliser l'annuaire avec l'auto-complétion d'adresses de
+  vos messages.</p>
+
+  <p>En général, vous ajoutez ou enlevez des serveurs d'annuaires
+  en suivant les instructions fournies par votre administrateur système.
+  Informez-vous auprès de lui pour connaître la procédure
+  d'ajout d'un nouveau serveur d'annuaires.</p>
+
+  <p>Pour ajouter un nouvel annuaire&#160;:</p>
+
+  <ol>
+    <li>Ouvrez le menu <q>&fileMenu.label;</q>, choisissez <q>&newMenu.label;</q> puis
+    <q>Annuaire LDAP</q>. La boîte de dialogue <q>&newDirectoryTitle.label;</q> apparaît.</li>
+
+    <li>Saisissez les informations suivantes dans la boîte de dialogue
+    <q>&newDirectoryTitle.label;</q>&#160;:
+
+      <dl>
+        <dt>&directoryName.label;</dt>
+
+        <dd>entrez le nom du service d'annuaire (par exemple, Répertoire
+        InfoSpace).</dd>
+
+        <dt>&directoryHostname.label;</dt>
+
+        <dd>Entrez l'adresse du serveur (par exemple, ldap.infospace.com).</dd>
+
+        <dt>&directoryBaseDN.label;</dt>
+
+        <dd>Ce paramètre définit le nom distinct de la base à
+        utiliser. Pour limiter la recherche à un pays
+        spécifique ou à une organisation, entrez par exemple
+        c=JP, qui limite la recherche au Japon, et/ou o=Mozilla Communications
+        Corporation pour vous limiter à cet organisme.</dd>
+
+        <dt>&portNumber.label;</dt>
+
+        <dd>Entrez le numéro de port du serveur LDAP. Par défaut
+        c'est le 389.</dd>
+
+        <dt>&directoryLogin.label;</dt>
+
+        <dd>Le nom distinct utilisé pour s'authentifier (se connecter)
+        au serveur LDAP. S'il est laissé en blanc, la connexion sera
+        anonyme.</dd>
+
+        <dt>&directorySecure.label;</dt>
+
+        <dd>Cochez cette case si le serveur LDAP supporte les connexions
+        sécurisées (chiffrées). Si vous n'êtes pas
+        sûr, contactez l'administrateur système du serveur.</dd>
+      </dl>
+    </li>
+
+    <li>Cliquez sur l'onglet <q>&Advanced.tab;</q> pour configurer le serveur
+    d'annuaire LDAP.</li>
+
+    <li>Entrez les informations suivantes&#160;:
+
+      <dl>
+        <dt>&return.label; [_] &results.label;</dt>
+
+        <dd>Ce choix limite le nombre d'occurrences de l'auto-complétion
+        retournées par le serveur d'annuaires.</dd>
+
+        <dt>&scope.label;</dt>
+
+        <dd>
+          Définit les limites de la recherche. Choisissez&#160;:
+
+          <ul>
+            <li><strong>&scopeOneLevel.label;</strong> pour trouver les entrées
+            correspondantes en recherchant dans le nom distinct de la base et
+            le niveau juste au-dessous.</li>
+
+            <li><strong>&scopeSubtree.label;</strong> pour trouver les entrées
+            correspondantes en recherchant dans le nom distinct de la base et
+            tous les niveaux au-dessous. C'est la recherche la moins
+            restrictive.</li>
+          </ul>
+        </dd>
+
+        <dt>&searchFilter.label;</dt>
+
+        <dd>Filtre à appliquer aux résultats valides qui sont
+        dans l'étendue de la recherche.</dd>
+      </dl>
+    </li>
+
+    <li>Cliquez sur <q>OK</q> pour fermer la boîte de dialogue
+    <q>&newDirectoryTitle.label;</q>.</li>
+  </ol>
+
+  <p>L'annuaire que vous venez d'ajouter apparaît dans la liste des
+  carnets d'adresses dans la fenêtre <q>Carnet d'adresses</q>.</p>
+
+  <p>Pour supprimer un annuaire&#160;:</p>
+
+  <ol>
+    <li>Ouvrez le menu <q><span class="mac">&brandShortName;</span><span
+    class="noMac">&editMenu.label;</span></q>
+    et choisissez <q>&preferencesCmd.label;</q>. La boîte de
+    dialogue <q>&prefWindow.title;</q> s'affiche.</li>
+
+    <li>Sous la catégorie <q>&brandShortName; Courrier &amp; Groupes</q>,
+    choisissez <q>&address.label;</q>. Si aucune sous-catégorie n'est visible,
+    double-cliquez sur <q>&brandShortName; Courrier &amp; Groupes</q> pour
+    développer la liste.</li>
+
+    <li>Dans la partie <q>&addressingTitle.label;s</q> cliquez sur
+    <q>&editDirectories.label;</q>.</li>
+
+    <li>Dans la boîte de dialogue <q>&pref.ldap.window.title;</q>,
+    choisissez l'annuaire que vous voulez supprimer et cliquez sur
+    <q>&deleteDirectory.label;</q>.</li>
+
+    <li>Cliquez deux fois sur <q>OK</q> pour fermer la boîte de dialogue
+    <q>&prefWindow.title;</q>.</li>
+  </ol>
+
+  <p>Pour obtenir des informations sur le téléchargement ou la
+  synchronisation d'un annuaire distant pour rechercher dans ses données
+  ou l'utiliser pour l'auto-complétion d'adresses en mode hors connexion,
+  voir la section <a href=
+  "#downloading_directory_entries_for_offline_use">Télécharger
+  des entrées d'annuaire pour une utilisation hors connexion</a>.</p>
+
+  <h3 id="directory_server_settings">Configurer un serveur d'annuaires</h3>
+
+  <p>Si la boîte de dialogue de configuration des serveurs d'annuaire
+  n'est pas affichée, ouvrez la fenêtre <q>Courrier</q> et
+  effectuez les étapes suivantes&#160;:</p>
+
+  <ol>
+    <li>Ouvrez le menu <q>&windowMenu.label;</q> et choisissez <q>&addressbook.label;</q>.</li>
+
+    <li>Choisissez un annuaire dans la liste des carnets d'adresses.</li>
+
+    <li>Cliquez sur <q>Modifier</q>.</li>
+  </ol>
+
+  <h4>Onglet <q>&General.tab;</q></h4>
+
+  <dl>
+    <dt>&directoryName.label;</dt>
+
+    <dd>Entrez le nom du service d'annuaire (par exemple, Répertoire
+    InfoSpace).</dd>
+
+    <dt>&directoryHostname.label;</dt>
+
+    <dd>Entrez l'adresse du serveur (par exemple, ldap.infospace.com).</dd>
+
+    <dt>&directoryBaseDN.label;</dt>
+
+    <dd>Ce paramètre définit le nom distinct de la base à
+    utiliser. Pour limiter la recherche à un pays
+    spécifique ou à une organisation, entrez par exemple c=JP,
+    qui limite la recherche au Japon, et/ou o=Mozilla Communications
+    Corporation pour vous limiter à cet organisme.</dd>
+
+    <dt>&portNumber.label;</dt>
+
+    <dd>Entrez le numéro de port du serveur LDAP. Par défaut
+    c'est le 389.</dd>
+
+    <dt>&directoryLogin.label;</dt>
+
+    <dd>Le nom distinct utilisé pour s'authentifier (se connecter) au
+    serveur LDAP. S'il est laissé en blanc, la connexion sera
+    anonyme.</dd>
+
+    <dt>&directorySecure.label;</dt>
+
+    <dd>Cochez cette case si le serveur LDAP supporte les connexions
+    sécurisées (chiffrées). Si vous n'êtes pas
+    sûr, contactez l'administrateur système du serveur.</dd>
+  </dl>
+
+  <h4>Onglet <q>&Advanced.tab;</q></h4>
+
+  <dl>
+    <dt>&return.label; [__] &results.label;</dt>
+
+    <dd>Ce choix limite le nombre d'occurrences de l'auto-complétion
+    retournées par le serveur d'annuaires.</dd>
+
+    <dt>&scope.label;</dt>
+
+    <dd>
+      Définit les limites de la recherche. Choisissez&#160;:
+
+      <ul>
+        <li><strong>&scopeOneLevel.label;</strong> pour trouver les entrées
+        correspondantes en recherchant dans le nom distinct de la base et le
+        niveau juste au-dessous.</li>
+
+        <li><strong>&scopeSubtree.label;</strong> pour trouver les entrées
+        correspondantes en recherchant dans le nom distinct de la base et tous
+        les niveaux au-dessous. C'est la recherche la moins restrictive.</li>
+      </ul>
+    </dd>
+
+    <dt>&searchFilter.label;</dt>
+
+    <dd>Filtre à appliquer aux résultats valides qui sont dans
+    l'étendue de la recherche.</dd>
+  </dl>
+
+  <p>[&#160;<a href="#using_address_books">Retour au début de la
+  section</a>&#160;]</p>
+
+  <div id="footer">
+    <!--begin frenchmozilla signature-->
+
+    <p><em>Dernière traduction&#160;: 29 janvier 2006</em></p>
+    <!-- | vérification&#160;: le 13 décembre 2003</em></p>-->
+
+    <p>Ce texte a été traduit et adapté par une
+    équipe internationale de bénévoles francophones.<br />
+    Pour plus d'informations, visitez notre site&#160;: <a href=
+    "http://frenchmozilla.sf.net"
+    hreflang="fr">http://frenchmozilla.sourceforge.net</a>.</p>
+    <!--end frenchmozilla signature-->
+  </div>
+</body>
+</html>
