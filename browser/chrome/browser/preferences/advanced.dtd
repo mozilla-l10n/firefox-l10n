@@ -17,6 +17,8 @@
 <!ENTITY useSmoothScrolling.accesskey    "m">
 <!ENTITY checkSpelling.label             "টাইপ করার সময় বানান পরীক্ষা করা হবে">
 <!ENTITY checkSpelling.accesskey         "t">
+<!ENTITY doNotTrack.label                "ওয়েব-সাইটকে জানানো হবে যে আমাকে অনুসরণ করা বাঞ্ছনীয় নয়">
+<!ENTITY doNotTrack.accesskey            "d">
 
 <!-- ENTITY languages.label                 "ভাষা" -->
 

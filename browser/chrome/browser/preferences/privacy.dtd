@@ -3,7 +3,7 @@
 <!ENTITY  locationBar.label             "অবস্থানসূচক বার">
 
 <!ENTITY  locbar.pre.label              "অবস্থানসূচক বার ব্যবহারের সময় নিম্নলিখিত প্রস্তাবিত তথ্য প্রদর্শন করা হবে:">
-<!ENTITY  locbar.pre.accessKey          "l">
+<!ENTITY  locbar.pre.accessKey          "u">
 <!ENTITY  locbar.post.label             "">
 <!ENTITY  locbar.both.label             "পূর্ববর্তী তথ্য ও বুকমার্ক">
 <!ENTITY  locbar.history.label          "পূর্ববর্তী তথ্য">
@@ -78,10 +78,10 @@
 <!ENTITY  rememberDescription.label      "&brandShortName; দ্বারা ব্রাউজিং, ডাউনলোড, ফর্ম ও অনুসন্ধান সংক্রান্ত পূর্ববর্তী তথ্য মনে রাখা হবে ও পরিদর্শিত ওয়েব-সাইট থেকে প্রাপ্ত কুকি সংরক্ষণ করা হবে।">
 
 <!ENTITY  acceptCookies.label           "সাইট থেকে কুকি গ্রহণ করা হবে">
-<!ENTITY  acceptCookies.accesskey       "c">
+<!ENTITY  acceptCookies.accesskey       "A">
 
 <!ENTITY  acceptThirdParty.label        "স্বতন্ত্র কুকি গ্রহণ করা হবে">
-<!ENTITY  acceptThirdParty.accesskey    "p">
+<!ENTITY  acceptThirdParty.accesskey    "c">
 
 <!ENTITY  keepUntil.label               "সংরক্ষণের সময়কাল:">
 <!ENTITY  keepUntil.accesskey           "K">

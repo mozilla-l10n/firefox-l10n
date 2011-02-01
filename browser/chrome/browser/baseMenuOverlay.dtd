@@ -41,8 +41,8 @@
 <!-- ENTITY openHelpMac2.frontendCommandkey   "?" -->
 <!-- ENTITY openHelpMac2.frontendModifiers    "accel" -->
 
-<!ENTITY helpReleaseNotes.label         "রিলিজ নোটস">
-<!ENTITY helpReleaseNotes.accesskey     "N">
+<!-- ENTITY helpReleaseNotes.label         "রিলিজ নোটস" -->
+<!-- ENTITY helpReleaseNotes.accesskey     "N" -->
 <!-- ENTITY updateCmd.label                "আপডেট পরীক্ষা করা হবে..." -->
 <!-- ENTITY updateCmd.accesskey            "o" -->
 
