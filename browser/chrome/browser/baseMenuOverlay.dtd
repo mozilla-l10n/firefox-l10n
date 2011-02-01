@@ -20,9 +20,6 @@
 <!ENTITY helpSafeMode.label       "Reiniciar cos complementos desactivados…">
 <!ENTITY helpSafeMode.accesskey   "R">
 
-<!ENTITY helpReleaseNotes.label         "Notas de lanzamento">
-<!ENTITY helpReleaseNotes.accesskey     "N">
-
 <!ENTITY helpTroubleshootingInfo.label      "Información para solucionar problemas">
 <!ENTITY helpTroubleshootingInfo.accesskey  "b">
 

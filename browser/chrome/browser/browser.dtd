@@ -237,7 +237,7 @@ can reach it easily. -->
 <!ENTITY selectAllCmd.label         "Seleccionar todo">  
 <!ENTITY selectAllCmd.key         "A">  
 <!ENTITY selectAllCmd.accesskey       "t"> 
-<!ENTITY preferencesCmd2.label       "Options">
+<!ENTITY preferencesCmd2.label       "Opcións">
 <!ENTITY preferencesCmd2.accesskey     "O">
 <!ENTITY preferencesCmdUnix.label       "Preferencias">
 <!ENTITY preferencesCmdUnix.accesskey     "n"> 
