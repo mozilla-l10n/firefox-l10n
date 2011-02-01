@@ -20,9 +20,6 @@
 <!ENTITY helpSafeMode.label       "Restart with Add-ons Disabled…">
 <!ENTITY helpSafeMode.accesskey   "R">
 
-<!ENTITY helpReleaseNotes.label         "Ngyae-mu nkrataa">
-<!ENTITY helpReleaseNotes.accesskey     "k">
-
 <!ENTITY helpTroubleshootingInfo.label      "Hawyi ho infɔmehyɛn">
 <!ENTITY helpTroubleshootingInfo.accesskey  "H">
 

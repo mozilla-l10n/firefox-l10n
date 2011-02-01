@@ -50,11 +50,9 @@ sɛ &brandShortName; wɔ ho kwan sɛ ɔbɛkɔ Wɛb ne so.</li>
      since it could be in either the normal menu (Mac/Linux) or the Firefox button
      menu (Windows).
 -->
-<!ENTITY netOffline.overrideLongDesc "
-<ul>
-  <li>Uncheck the &quot;Work Offline&quot; menu item, then try again.</li>
-</ul>
-">
+<!ENTITY netOffline.overrideLongDesc "<ul> 
+<li>Yi ahyɛnsew firi &quot;Di Dwuma Ɔflaen&quot; wɔ Fael menu no mu,  na san sɔ hwɛ.</li> 
+</ul>">
 
 <!ENTITY contentEncodingError.title "Mu-asɛm Ndanee Mfomso">
 <!ENTITY contentEncodingError.longDesc "<ul> 

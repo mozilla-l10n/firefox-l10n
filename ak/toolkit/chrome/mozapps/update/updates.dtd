@@ -15,8 +15,8 @@ ma &brandShortName; tumi sɛ ɔnhwehwɛ mma wo otomatikmu.">
 
 <!ENTITY  manualUpdate.title              "Entumi anto so">
 <!ENTITY  manualUpdate.desc               "Banbɔ ne Faako gyina ntoso a ɛho hia ɛho kwan da hɔ, nso wo nni systɛm akwannya a yehia de instɔl. Hu wo systɛm hwɛsofoɔ anaa sansɔ hwɛ firi akawn foforo a ɛwɔ akwannya de instɔɔle sɔftwɛɛ no wɔ kɔmputa no so.">
-<!ENTITY  manualUpdate.space.desc         "A recommended security and stability update is available, but you do
-                                           not have enough space to install it.">
+<!ENTITY  manualUpdate.space.desc         "Ntoso a ɛde bambɔ brɛ wo aba, naaso wo nni 
+kwan a wo de bɛinstɔle no.">
 <!ENTITY  manualUpdateGetMsg.label        "Wobetumi anya &brandShortName; vɛɛhyɛn foforo wɔ:">
 
 <!ENTITY  incompatibleCheck.title         "Ɛrehwehwɛ nka-ho biakoyɛ">
@@ -60,10 +60,10 @@ ntoso yi hwehwɛ, atwe anaa instɔl mu. Yentumi anto &brandShortName; so efisɛ:
 <!ENTITY  errorpatching.intro             "Yentumi annyɛ ntoso afaf-afa no ho adwuma. 
 &brandShortName; bɛsan atwe ntoso foforo asɔ ahwɛ.">
 
-<!ENTITY  genericBackgroundError.label    "&brandShortName; is unable to determine if there is an update available. Please
-                                           make sure that you have the latest version of &brandShortName; from:">
-<!ENTITY  errorCertAttrNoUpdate2.label    "Something is preventing &brandShortName; from updating securely.
-                                           Please make sure that you have the latest version of &brandShortName; from:">
+<!ENTITY  genericBackgroundError.label    "&brandShortName; nntumi nnkyerɛ sɛ ntoso bi aba a. Yɛsrɛ wo 
+hwɛ sɛ wo wɔ &brandShortName; ne vɛɛhyɛn a aba foforo koraa firi:">
+<!ENTITY  errorCertAttrNoUpdate2.label    "Biribi resiw &brandShortName; ano kwan sɛ ɔbɛto ne ho so wɔ bambɔ kwan so. 
+Yɛsrɛ wo sɛ hwɛ sɛ wo wɔ &brandShortName; foforo koraa a aba so wɔ:">
 <!ENTITY  errorCertAttrHasUpdate.label    "Biribi pɛ sɛ ɔdaadaa &brandShortName; sɛ ɔngye 
 ntoso a wɔmmbɔɔ ho ban. Yɛsrɛ wo sɛ wo bɛhwehwɛ mboa efiri nea ɔma wo nɛtwɛk ne hɔ.">
 
