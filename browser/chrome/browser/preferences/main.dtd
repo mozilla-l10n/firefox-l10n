@@ -1,37 +1,37 @@
-<!ENTITY startup.label             "Startup">
+<!ENTITY startup.label             "Qala">
 
-<!ENTITY startupPage.label         "When &brandShortName; starts:">
-<!ENTITY startupPage.accesskey     "s">
-<!ENTITY startupHomePage.label     "Show my home page">
-<!ENTITY startupBlankPage.label    "Show a blank page">
-<!ENTITY startupLastSession.label  "Show my windows and tabs from last time">
-<!ENTITY homepage.label            "Home Page:">
-<!ENTITY homepage.accesskey        "P">
+<!ENTITY startupPage.label         "Lapho i-&brandShortName; iqala:">
+<!ENTITY startupPage.accesskey     "i">
+<!ENTITY startupHomePage.label     "Bonisa ikhasi lami eliyisiqalo">
+<!ENTITY startupBlankPage.label    "Bonisa ikhasi elinganalutho">
+<!ENTITY startupLastSession.label  "Bonisa amawindi wami namathebhu wesikhathi esedlule">
+<!ENTITY homepage.label            "Ikhasi eliyisiqalo:">
+<!ENTITY homepage.accesskey        "I">
 <!ENTITY useCurrentPage.label      "Sebenzisa Ikhasi Elikhona Manje">
 <!ENTITY useCurrentPage.accesskey  "I">
 <!ENTITY useMultiple.label         "Sebenzisa Amakhasi Akhona Manje">
-<!ENTITY useBookmark.label         "Use Bookmark">
-<!ENTITY useBookmark.accesskey     "B">
-<!ENTITY restoreDefault.label      "Restore to Default">
-<!ENTITY restoreDefault.accesskey  "R">
+<!ENTITY useBookmark.label         "Sebenzisa ukuphawula">
+<!ENTITY useBookmark.accesskey     "u">
+<!ENTITY restoreDefault.label      "Buyisela okwakhona">
+<!ENTITY restoreDefault.accesskey  "B">
 
 <!ENTITY downloads.label     "Ukwaziswa Okuthathwe Kwafakwa">
 
-<!ENTITY showWhenDownloading.label     "Show the Downloads window when downloading a file">
-<!ENTITY showWhenDownloading.accesskey "D">
-<!ENTITY closeWhenDone.label "Close it when all downloads are finished">
-<!ENTITY closeWhenDone.accesskey "w">
-<!ENTITY saveTo.label "Save files to">
-<!ENTITY saveTo.accesskey "v">
-<!ENTITY chooseFolderWin.label        "Browse…">
-<!ENTITY chooseFolderWin.accesskey    "o">
-<!ENTITY chooseFolderMac.label        "Choose…">
-<!ENTITY chooseFolderMac.accesskey    "e">
-<!ENTITY alwaysAsk.label "Always ask me where to save files">
-<!ENTITY alwaysAsk.accesskey "A">
+<!ENTITY showWhenDownloading.label     "Bonisa iwindi lokulayisha uma kulayishwa ifayela">
+<!ENTITY showWhenDownloading.accesskey "l">
+<!ENTITY closeWhenDone.label "Yivale uma okulayishwayo kuqediwe">
+<!ENTITY closeWhenDone.accesskey "u">
+<!ENTITY saveTo.label "Gcina amafayela ku">
+<!ENTITY saveTo.accesskey "i">
+<!ENTITY chooseFolderWin.label        "Hambisa amehlo...">
+<!ENTITY chooseFolderWin.accesskey    "m">
+<!ENTITY chooseFolderMac.label        "Khetha...">
+<!ENTITY chooseFolderMac.accesskey    "a">
+<!ENTITY alwaysAsk.label "Uhlale ungibuza ukuthi amafayela agcinwe kuphi">
+<!ENTITY alwaysAsk.accesskey "U">
 
-<!ENTITY addonsMgr.label               "Add-ons">
-<!ENTITY manageAddonsDescWin.label     "Change options for your add-ons">
-<!ENTITY manageAddonsDescUnix2.label   "Change preferences for your add-ons">
-<!ENTITY manageAddons.label            "Manage Add-ons…">
-<!ENTITY manageAddons.accesskey        "M">
+<!ENTITY addonsMgr.label               "Okungangezwa">
+<!ENTITY manageAddonsDescWin.label     "Shintsha izinketho zokungangezwa kwakho">
+<!ENTITY manageAddonsDescUnix2.label   "Shintsha okuthandwayo kokungangezwa kwakho">
+<!ENTITY manageAddons.label            "Phatha okungangezwa...">
+<!ENTITY manageAddons.accesskey        "P">

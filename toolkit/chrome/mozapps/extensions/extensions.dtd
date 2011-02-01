@@ -1,71 +1,71 @@
-<!ENTITY addons.windowTitle                   "Add-ons Manager">
-<!ENTITY search.placeholder                   "Search all add-ons">
+<!ENTITY addons.windowTitle                   "Umphathi wokungezwayo">
+<!ENTITY search.placeholder                   "Sesha konke okungezwayo">
 <!ENTITY loading.label                        "Loading…">
-<!ENTITY listEmpty.installed.label            "You don't have any add-ons of this type installed">
+<!ENTITY listEmpty.installed.label            "Awunakho okungezwayo kwalolu hlobo okakiwe">
 <!ENTITY listEmpty.availableUpdates.label     "No updates found">
-<!ENTITY listEmpty.recentUpdates.label        "You haven't recently updated any add-ons">
+<!ENTITY listEmpty.recentUpdates.label        "Okwamanje awuvuselelanga okungezwayo">
 <!ENTITY listEmpty.findUpdates.label          "Ihlola Okufakwe Muva">
-<!ENTITY listEmpty.search.label               "Could not find any matching add-ons">
-<!ENTITY listEmpty.button.label               "Learn more about add-ons">
-<!ENTITY installAddonFromFile.label           "Install Add-on From File…">
-<!ENTITY installAddonFromFile.accesskey       "I">
-<!ENTITY toolsMenu.tooltip                    "Tools for all add-ons">
+<!ENTITY listEmpty.search.label               "Ayikwazanga ukuthola okwengezwayo okufanayo">
+<!ENTITY listEmpty.button.label               "Funda kabanzi ngokungezwayo">
+<!ENTITY installAddonFromFile.label           "Faka okwengezwayo kusuka efayilini…">
+<!ENTITY installAddonFromFile.accesskey       "F">
+<!ENTITY toolsMenu.tooltip                    "Amathuluzi wakho konke okwengezwayo">
 
 <!ENTITY cmd.back.tooltip                     "Hlehla ngekhasi elilodwa">
 <!ENTITY cmd.forward.tooltip                  "Yiya phambili ngekhasi elilodwa">
 <!-- global warnings -->
 
-<!ENTITY warning.safemode.label                    "All add-ons have been disabled by safe mode.">
-<!ENTITY warning.checkcompatibility.label          "Add-on compatibility checking is disabled. You may have incompatible add-ons.">
+<!ENTITY warning.safemode.label                    "Konke okwengezwayo kukhutshaziwe ngesimo sokuvikela.">
+<!ENTITY warning.checkcompatibility.label          "Ukuhlolwa kokusebenzisana kokungezwayo kukhutshaziwe. Ungaba nokungezwayo okungasebenzisani.">
 <!ENTITY warning.checkcompatibility.enable.label   "Enable">
-<!ENTITY warning.checkcompatibility.enable.tooltip "Enable add-on compatibility checking">
-<!ENTITY warning.updatesecurity.label              "Add-on update security checking is disabled. You may be compromised by updates.">
+<!ENTITY warning.checkcompatibility.enable.tooltip "Nika amandla ukuhlola okusebenzisanayo kokungezwayo">
+<!ENTITY warning.updatesecurity.label              "Ukuvikeleka kokuhlola okungeziwe kukhutshaziwe. Unganikwa ukuvuselela.">
 <!ENTITY warning.updatesecurity.enable.label       "Enable">
-<!ENTITY warning.updatesecurity.enable.tooltip     "Enable add-on update security checking">
+<!ENTITY warning.updatesecurity.enable.tooltip     "Nika amandla ukuhlola kokuvikeleka kokuvuselela">
 <!-- categories / views -->
 
 <!ENTITY view.search.label                    "Funa">
-<!ENTITY view.discover.label                  "Get Add-ons">
+<!ENTITY view.discover.label                  "Thola okungezwayo">
 <!ENTITY view.locales.label                   "Izilimi">
 <!ENTITY view.searchengines.label             "Izinjini Zokucinga">
 <!ENTITY view.features.label                  "Izithasiselo">
 <!ENTITY view.appearance2.label               "Ukubukeka">
 <!ENTITY view.plugins.label                   "Xhuma Izintambo Epulagini:">
-<!ENTITY view.recentUpdates.label             "Recent Updates">
-<!ENTITY view.availableUpdates.label          "Available Updates">
+<!ENTITY view.recentUpdates.label             "Ukuvuselela kwamanje">
+<!ENTITY view.availableUpdates.label          "Ukuvuselela okukona">
 <!-- addon updates -->
 
 <!ENTITY updates.checkForUpdates.label        "Ihlola Okufakwe Muva">
 <!ENTITY updates.checkForUpdates.accesskey    "C">
-<!ENTITY updates.viewUpdates.label            "View Recent Updates">
-<!ENTITY updates.viewUpdates.accesskey        "V">
+<!ENTITY updates.viewUpdates.label            "Binisa ukuvuselela kwamanje">
+<!ENTITY updates.viewUpdates.accesskey        "B">
 <!-- LOCALIZATION NOTE (updates.updateAddonsAutomatically.label): This menu item
      is a checkbox that toggles the default global behavior for add-on update
      checking. -->
-<!ENTITY updates.updateAddonsAutomatically.label     "Update Add-ons Automatically">
-<!ENTITY updates.updateAddonsAutomatically.accesskey "A">
+<!ENTITY updates.updateAddonsAutomatically.label     "Vuselela okwengezwayo ngokuzenzakalela">
+<!ENTITY updates.updateAddonsAutomatically.accesskey "o">
 <!-- LOCALIZATION NOTE (updates.resetUpdatesToAutomatic.label, updates.resetUpdatesToManual.label):
      Specific addons can have custom update checking behaviors ("Manually",
      "Automatically", "Use default global behavior"). These menu items reset the
      update checking behavior for all add-ons to the default global behavior
      (which itself is either "Automatically" or "Manually", controlled by the
      updates.updateAddonsAutomatically.label menu item). -->
-<!ENTITY updates.resetUpdatesToAutomatic.label       "Reset All Add-ons to Update Automatically">
-<!ENTITY updates.resetUpdatesToAutomatic.accesskey   "R">
-<!ENTITY updates.resetUpdatesToManual.label          "Reset All Add-ons to Update Manually">
-<!ENTITY updates.resetUpdatesToManual.accesskey      "R">
-<!ENTITY updates.updating.label               "Updating add-ons">
-<!ENTITY updates.installed.label              "Your add-ons have been updated.">
-<!ENTITY updates.downloaded.label             "Your add-on updates have been downloaded.">
-<!ENTITY updates.restart.label                "Restart now to complete installation">
+<!ENTITY updates.resetUpdatesToAutomatic.label       "Hlela kabusha konke okwengezwayo ukuze kuvuselele kuzenzakalele">
+<!ENTITY updates.resetUpdatesToAutomatic.accesskey   "H">
+<!ENTITY updates.resetUpdatesToManual.label          "Hlela kabusha konke okwengezwayo ukuze kuviselelwe nguwe">
+<!ENTITY updates.resetUpdatesToManual.accesskey      "H">
+<!ENTITY updates.updating.label               "Ukuvuselela kokwengezwayo">
+<!ENTITY updates.installed.label              "Okwengeziwe kwakho kuvuselelwe.">
+<!ENTITY updates.downloaded.label             "Ukuvuselelwa kwakho kokwengeziwe kulayishwa kwafakwa.">
+<!ENTITY updates.restart.label                "Qala kabusha manje ukuze uqedele ukufakwa">
 <!ENTITY updates.noneFound.label              "No updates found">
-<!ENTITY updates.manualUpdatesFound.label     "View Available Updates">
+<!ENTITY updates.manualUpdatesFound.label     "Bonisa ukuvuselela okukhona">
 <!ENTITY updates.updateSelected.label         "Ifakela Okufakwe Muva">
-<!ENTITY updates.updateSelected.tooltip       "Install available updates in this list">
+<!ENTITY updates.updateSelected.tooltip       "Faka ukuvuselela okukhona kulolu hlu">
 <!-- addon actions -->
 
-<!ENTITY cmd.showDetails.label                "Show More Information">
-<!ENTITY cmd.showDetails.accesskey            "S">
+<!ENTITY cmd.showDetails.label                "Bonisa ulwazi olubanzi">
+<!ENTITY cmd.showDetails.accesskey            "B">
 <!ENTITY cmd.findUpdates.label                "Thola Ukulungisa Okwenziwe">
 <!ENTITY cmd.findUpdates.accesskey            "T">
 <!ENTITY cmd.preferencesWin.label             "Options">
@@ -79,10 +79,10 @@
 <!ENTITY cmd.enableAddon.accesskey            "Y">
 <!ENTITY cmd.disableAddon.label               "Yenza Kungasebenzi">
 <!ENTITY cmd.disableAddon.accesskey           "Y">
-<!ENTITY cmd.enableTheme.label                "Wear Theme">
-<!ENTITY cmd.enableTheme.accesskey            "W">
-<!ENTITY cmd.disableTheme.label               "Stop Wearing Theme">
-<!ENTITY cmd.disableTheme.accesskey           "W">
+<!ENTITY cmd.enableTheme.label                "Indikimba yokugqoka">
+<!ENTITY cmd.enableTheme.accesskey            "I">
+<!ENTITY cmd.disableTheme.label               "Misa ukugqokwa kwendikimba">
+<!ENTITY cmd.disableTheme.accesskey           "u">
 <!ENTITY cmd.installAddon.label               "Fakela">
 <!ENTITY cmd.installAddon.accesskey           "F">
 <!ENTITY cmd.uninstallAddon.label             "Susa">
@@ -91,48 +91,48 @@
 <!ENTITY cmd.showPreferencesWin.tooltip       "Change this add-on's options">
 <!ENTITY cmd.showPreferencesUnix.label        "Okuthandwayo">
 <!ENTITY cmd.showPreferencesUnix.tooltip      "Change this add-on's preferences">
-<!ENTITY cmd.contribute.label                 "Contribute">
-<!ENTITY cmd.contribute.accesskey             "C">
-<!ENTITY cmd.contribute.tooltip               "Contribute to the development of this add-on">
+<!ENTITY cmd.contribute.label                 "Bamba iqhaza">
+<!ENTITY cmd.contribute.accesskey             "B">
+<!ENTITY cmd.contribute.tooltip               "Bamba iqhaza ekukukhuleni kwalokho okwengezwayo">
 
-<!ENTITY cmd.showReleaseNotes.label           "Show Release Notes">
-<!ENTITY cmd.showReleaseNotes.tooltip         "Show the release notes for this update">
-<!ENTITY cmd.hideReleaseNotes.label           "Hide Release Notes">
-<!ENTITY cmd.hideReleaseNotes.tooltip         "Hide the release notes for this update">
+<!ENTITY cmd.showReleaseNotes.label           "Bonisa izaziswana zokukhipha">
+<!ENTITY cmd.showReleaseNotes.tooltip         "Bonisa izaziswana zokukhipha zalokhu kuvuselelwa">
+<!ENTITY cmd.hideReleaseNotes.label           "Fihla izaziswana zokukhipha">
+<!ENTITY cmd.hideReleaseNotes.tooltip         "Fihla izaziswana zokukhipha zalokhu kuvuselelwa">
 <!-- discovery view -->
 <!-- LOCALIZATION NOTE (discover.title,discover.description,discover.footer):
      Displayed in the center of the Get Add-ons view, see bug 601143 for mockups. -->
 
-<!ENTITY discover.title                       "What are Add-ons?">
-<!ENTITY discover.description2                "Add-ons are applications that let you personalize &brandShortName; with
-  extra functionality or style. Try a time-saving sidebar, a weather notifier, or a themed look to make &brandShortName;
-  your own.">
-<!ENTITY discover.footer                      "When you're connected to the internet, this pane will feature
-  some of the best and most popular add-ons for you to try out.">
+<!ENTITY discover.title                       "Yini okwengezwayo?">
+<!ENTITY discover.description2                "Okwengezwayo mahlelo kisebenza akuvumela ukuba wenza kube ngokwakho i-&brandShortName; 
+ngokwenzeka okungaphezulu noma isitayela. Zana umugqa oseceleni wokonga isikhathi, isazisi ngesimo sezulu, noma ukubuka ngendikimba ukuze wenze i-&brandShortName; 
+kube ngeyakho">
+<!ENTITY discover.footer                      "Uma uxhunyiwe kwi-inthanethi, leli windi lizofaka 
+okwengezwayo okuhle kakhulu futhi nokwaziwayo ukuze ukuzame.">
 <!-- detail view -->
 
 <!ENTITY detail.version.label                 "Inguqulo">
 <!ENTITY detail.lastupdated.label             "Last Updated">
-<!ENTITY detail.creator.label                 "Developer">
+<!ENTITY detail.creator.label                 "Unjiniyela">
 <!ENTITY detail.homepage.label                "Homepage">
 <!ENTITY detail.numberOfDownloads.label       "Ukwaziswa Okuthathwe Kwafakwa">
 
-<!ENTITY detail.contributions.description     "The developer of this add-on asks that you help support its continued development by making a small contribution.">
+<!ENTITY detail.contributions.description     "Unjiniyela walokhu okwengezwayo ucela ukuba usize usekele ukukhula kwakho okuqhubekayo ngokubanmba iqhaza nje kancane.">
 
-<!ENTITY detail.updateType                    "Automatic Updates">
+<!ENTITY detail.updateType                    "Ukuvuselela okuzenzakalelayo">
 <!ENTITY detail.updateDefault.label           "Okwakhona">
-<!ENTITY detail.updateDefault.tooltip         "Automatically install updates only if that's the default">
-<!ENTITY detail.updateAutomatic.label         "Kukhanyile">
-<!ENTITY detail.updateAutomatic.tooltip       "Automatically install updates">
+<!ENTITY detail.updateDefault.tooltip         "Faka ukuvuselela ngokuzenzakalela uma kuphela lokho kungokwakhona">
+<!ENTITY detail.updateAutomatic.label         "Khanya">
+<!ENTITY detail.updateAutomatic.tooltip       "Faka ukuvuselela ngokuzenzakalela">
 <!ENTITY detail.updateManual.label            "Kucishile">
-<!ENTITY detail.updateManual.tooltip          "Don't automatically install updates">
+<!ENTITY detail.updateManual.tooltip          "Ungafaki ukuvuselela ngokuzenzakalela">
 <!ENTITY detail.home                          "Homepage">
-<!ENTITY detail.repository                    "Add-on Profile">
+<!ENTITY detail.repository                    "Iprofayeli yokwengeziwe">
 <!ENTITY detail.size                          "Ubungako">
 
 <!ENTITY detail.checkForUpdates.label         "Ihlola Okufakwe Muva">
 <!ENTITY detail.checkForUpdates.accesskey     "F">
-<!ENTITY detail.checkForUpdates.tooltip       "Check for updates for this add-on">
+<!ENTITY detail.checkForUpdates.tooltip       "Hlola ukuvuselela kwalokhu okwengezwayo">
 <!ENTITY detail.showPreferencesWin.label      "Options">
 <!ENTITY detail.showPreferencesWin.accesskey  "O">
 <!ENTITY detail.showPreferencesWin.tooltip    "Change this add-on's options">
@@ -142,7 +142,7 @@
 <!-- ratings -->
 
 
-<!ENTITY rating2.label                        "Rating">
+<!ENTITY rating2.label                        "Ukala">
 <!-- download/install progress -->
 
 <!ENTITY progress.pause.tooltip               "Yima kancane">
@@ -151,52 +151,52 @@
 
 
 <!ENTITY sort.name.label                      "Igama">
-<!ENTITY sort.name.tooltip                    "Sort by name">
+<!ENTITY sort.name.tooltip                    "Hlunga ngegama">
 <!ENTITY sort.dateUpdated.label               "Last Updated">
-<!ENTITY sort.dateUpdated.tooltip             "Sort by date updated">
-<!ENTITY sort.relevance.label                 "Best match">
-<!ENTITY sort.relevance.tooltip               "Sort by relevance">
-<!ENTITY sort.price.label                     "Price">
-<!ENTITY sort.price.tooltip                   "Sort by price">
+<!ENTITY sort.dateUpdated.tooltip             "Hlunga ngosuku lokuvuselela">
+<!ENTITY sort.relevance.label                 "Ukufana okuhle">
+<!ENTITY sort.relevance.tooltip               "Hlunga ngokuhambisana ">
+<!ENTITY sort.price.label                     "Intengo">
+<!ENTITY sort.price.tooltip                   "Hlunga ngentengo">
 
 <!ENTITY search.filter2.label                 "Funa:">
-<!ENTITY search.filter2.installed.label       "My Add-ons">
-<!ENTITY search.filter2.installed.tooltip     "Show installed add-ons">
-<!ENTITY search.filter2.available.label       "Available Add-ons">
-<!ENTITY search.filter2.available.tooltip     "Show add-ons available to install">
+<!ENTITY search.filter2.installed.label       "Okwengeziwe kwami">
+<!ENTITY search.filter2.installed.tooltip     "Bonisa okwengeziwe okufakiwe">
+<!ENTITY search.filter2.available.label       "Okwengeziwe okutholakalayo">
+<!ENTITY search.filter2.available.tooltip     "Bonisa okwengeziwe okutholakalelwa ukufakwa">
 
 <!ENTITY addon.homepage                       "Homepage">
 <!ENTITY addon.details.label                  "Okwengeziwe">
-<!ENTITY addon.details.tooltip                "Show more details about this add-on">
+<!ENTITY addon.details.tooltip                "Bonisa imininingwane eminingi mayelana nalokho okwengezwayo">
 <!ENTITY addon.unknownDate                    "Akwaziwa">
 <!-- LOCALIZATION NOTE (addon.disabled.postfix): This is used in a normal list
      to signify that an add-on is disabled, in the form
      "<Addon name> <1.0> (disabled)" -->
-<!ENTITY addon.disabled.postfix               "(disabled)">
+<!ENTITY addon.disabled.postfix               "(Kukhutshaziwe)">
 <!-- LOCALIZATION NOTE (addon.update.postfix): This is used in the available
      updates list to signify that an item is an update, in the form
      "<Addon name> <1.1> Update". It is fine to use constructs like brackets if
      necessary -->
 <!ENTITY addon.update.postfix                 "Okufakelwe Muva">
 <!ENTITY addon.undoAction.label               "Undo">
-<!ENTITY addon.undoAction.tooltip             "Undo this action">
+<!ENTITY addon.undoAction.tooltip             "Hlehlisa lesi senzo">
 <!ENTITY addon.undoRemove.label               "Undo">
-<!ENTITY addon.undoRemove.tooltip             "Keep this add-on installed">
-<!ENTITY addon.restartNow.label               "Restart now">
+<!ENTITY addon.undoRemove.tooltip             "Gcina lokhu okwengezwayo kufakiwe">
+<!ENTITY addon.restartNow.label               "Qala kabusha manje">
 <!ENTITY addon.install.label                  "Fakela">
-<!ENTITY addon.install.tooltip                "Install this add-on">
+<!ENTITY addon.install.tooltip                "Faka lokhu okwengezwayo">
 <!ENTITY addon.updateNow.label                "Lungisa Manje">
-<!ENTITY addon.updateNow.tooltip              "Install the update for this add-on">
-<!ENTITY addon.includeUpdate.label            "Include in Update">
-<!ENTITY addon.updateAvailable.label          "An update is available">
+<!ENTITY addon.updateNow.tooltip              "Faka ukuvuselela kwalokhu kwengezwa">
+<!ENTITY addon.includeUpdate.label            "Faka ukuvuselela">
+<!ENTITY addon.updateAvailable.label          "Ukuvuselela kuyatholakala">
 <!ENTITY addon.checkingForUpdates.label       "Ihlola Okufakwe Muva">
 <!ENTITY addon.releaseNotes.label             "Dedela Amanothi">
 <!ENTITY addon.loadingReleaseNotes.label      "Loading…">
-<!ENTITY addon.errorLoadingReleaseNotes.label "Sorry, but there was an error loading the release notes.">
+<!ENTITY addon.errorLoadingReleaseNotes.label "Uxolo, kubenephutha ekulayisheni izaziswana eziphumayo.">
 
-<!ENTITY addon.createdBy.label                "By ">
+<!ENTITY addon.createdBy.label                "Ngo">
 
-<!ENTITY eula.title                           "End-User License Agreement">
+<!ENTITY eula.title                           "Isivumelwano selayisense somsebenzisi wokugcina">
 <!ENTITY eula.width                           "560px">
 <!ENTITY eula.height                          "400px">
-<!ENTITY eula.accept                          "Accept and Install…">
+<!ENTITY eula.accept                          "Amukela bese ufake…">

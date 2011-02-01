@@ -32,8 +32,8 @@
 <!ENTITY numCopies.accesskey "m">
 
 <!ENTITY printframeGroup.label "Izinhlaka Zokuprinta">
-<!ENTITY aslaidoutRadio.label "As laid out on the screen">
-<!ENTITY aslaidoutRadio.accesskey "u">
+<!ENTITY aslaidoutRadio.label "Njengoba zibekwe kwisikrini">
+<!ENTITY aslaidoutRadio.accesskey "e">
 <!ENTITY selectedframeRadio.label  "Uhlaka olukhethiwe">
 <!ENTITY selectedframeRadio.accesskey  "l">
 <!ENTITY eachframesepRadio.label  "Unhlaka ngalunye ngokwehlukana">

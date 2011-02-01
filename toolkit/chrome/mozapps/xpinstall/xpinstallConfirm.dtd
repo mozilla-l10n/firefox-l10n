@@ -1,8 +1,8 @@
 <!-- extracted from institems.xul -->
 
 <!ENTITY dialog.title            "Ukufakelwa Kohlaka Olusetsenziswayo">
-<!ENTITY dialog.style            "width: 45em">
-<!ENTITY warningPrimary.label    "Install add-ons only from authors whom you trust.">
+<!ENTITY dialog.style            "Ububanzi: 47em;">
+<!ENTITY warningPrimary.label    "Faka okwengeziwe kuphela kusuka ebabhalini obethembayo.">
 <!ENTITY warningSecondary.label  "Uhlaka olusetshenziswayo olulimazayo lungayibulala ikhompyutha yakho noma lwenze ungabi namfihlo.">
 
 <!ENTITY from.label "kuvela: ">

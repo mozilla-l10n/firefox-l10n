@@ -32,7 +32,7 @@
      joined with implicit white space, so spaces in the strings aren't necessary -->
 <!ENTITY setup.tosAgree1.label      "I agree to the">
 <!ENTITY setup.tosAgree1.accesskey  "a">
-<!ENTITY setup.tosLink.label        "Terms of Service">
+<!ENTITY setup.tosLink.label        "Imigomo yokusebenza">
 <!ENTITY setup.tosAgree2.label      "and the">
 <!ENTITY setup.ppLink.label         "Inqubo Yemfihlo">
 <!ENTITY setup.tosAgree3.label      "">
@@ -54,7 +54,7 @@
 
 <!ENTITY setup.captchaPage2.title.label     "Please Confirm You're Not a Robot">
 <!-- Existing Account Page 1: Add Device (incl. Add a Device dialog strings) -->
-<!ENTITY addDevice.title.label              "Add a Device">
+<!ENTITY addDevice.title.label              "Yengeza isisetshenziswa">
 <!ENTITY addDevice.showMeHow.label          "Show me how.">
 <!ENTITY addDevice.dontHaveDevice.label     "I don't have the device with me">
 <!ENTITY addDevice.setup.description.label  "To activate, go to &syncBrand.shortName.label; Options on your other device and select &#x0022;Add a Device&#x0022;.">
@@ -75,10 +75,10 @@
 <!-- Sync Options -->
 
 <!ENTITY setup.optionsPage.title      "Ongakhetha Kukho Kokuthumela">
-<!ENTITY syncComputerName.label       "Computer Name:">
-<!ENTITY syncComputerName.accesskey   "c">
+<!ENTITY syncComputerName.label       "Igama lekhompyutha:">
+<!ENTITY syncComputerName.accesskey   "I">
 
-<!ENTITY syncMy.label               "Sync My">
+<!ENTITY syncMy.label               "Sync into yami">
 <!ENTITY engine.bookmarks.label     "Izimpawu Zokubekisa">
 <!ENTITY engine.bookmarks.accesskey "m">
 <!ENTITY engine.tabs.label          "Amathebhu">

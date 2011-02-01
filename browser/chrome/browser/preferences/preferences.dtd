@@ -10,9 +10,9 @@
 <!ENTITY  paneGeneral.title       "Okuvamile">
 <!ENTITY  paneTabs.title          "Amathebhu">
 <!ENTITY  paneContent.title       "Okuqukethwe">
-<!ENTITY  paneApplications.title  "Izindlela Zokukusebenzisa">
+<!ENTITY  paneApplications.title  "Izinhlelo kusebenza">
 <!ENTITY  panePrivacy.title       "Okwangasese">
-<!ENTITY  paneSecurity.title      "Ukulondeka">
+<!ENTITY  paneSecurity.title      "Ukuphepha">
 <!ENTITY  paneAdvanced.title      "Okuthuthukile">
 <!-- LOCALIZATION NOTE (paneSync.title): This should match syncBrand.shortName.label in ../syncBrand.dtd -->
 

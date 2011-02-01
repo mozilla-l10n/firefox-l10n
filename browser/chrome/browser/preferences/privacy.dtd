@@ -1,76 +1,76 @@
 <!ENTITY  history.label                 "Umlando">
 
-<!ENTITY  locationBar.label             "Location Bar">
+<!ENTITY  locationBar.label             "Ibha yendawo">
 
-<!ENTITY  locbar.pre.label              "When using the location bar, suggest:">
+<!ENTITY  locbar.pre.label              "Uma usebenzisa ibha yendawo, hlongoza:">
 <!ENTITY  locbar.pre.accessKey          "u">
 <!ENTITY  locbar.post.label             "">
-<!ENTITY  locbar.both.label             "History and Bookmarks">
+<!ENTITY  locbar.both.label             "Umlando nokuphawulwa kokubekiswa">
 <!ENTITY  locbar.history.label          "Umlando">
 <!ENTITY  locbar.bookmarks.label        "Izimpawu Zokubekisa">
-<!ENTITY  locbar.nothing.label          "Nothing">
+<!ENTITY  locbar.nothing.label          "Okungelutho">
 
 
-<!ENTITY  acceptCookies.label           "Accept cookies from sites">
-<!ENTITY  acceptCookies.accesskey       "A">
+<!ENTITY  acceptCookies.label           "Yamukela amakhukhi kumasayithi">
+<!ENTITY  acceptCookies.accesskey       "Y">
 
-<!ENTITY  acceptThirdParty.label        "Accept third-party cookies">
-<!ENTITY  acceptThirdParty.accesskey    "c">
+<!ENTITY  acceptThirdParty.label        "Yamukela amakhukhi avela eceleni">
+<!ENTITY  acceptThirdParty.accesskey    "a">
 
-<!ENTITY  keepUntil.label               "Keep until:">
-<!ENTITY  keepUntil.accesskey           "K">
+<!ENTITY  keepUntil.label               "Gcina kuze kube:">
+<!ENTITY  keepUntil.accesskey           "G">
 
-<!ENTITY  expire.label                  "they expire">
-<!ENTITY  close.label                   "I close &brandShortName;">
+<!ENTITY  expire.label                  "ziphelelwa yisikhathi">
+<!ENTITY  close.label                   "Ngivala i-&brandShortName;">
 <!ENTITY  askEachTime.label             "ngibuze njalo">
 
-<!ENTITY  cookieExceptions.label        "Exceptions…">
-<!ENTITY  cookieExceptions.accesskey    "E">
+<!ENTITY  cookieExceptions.label        "Okuhlukile...">
+<!ENTITY  cookieExceptions.accesskey    "O">
 
-<!ENTITY  showCookies.label             "Show Cookies…">
-<!ENTITY  showCookies.accesskey         "S">
+<!ENTITY  showCookies.label             "Bonisa amakhukhi...">
+<!ENTITY  showCookies.accesskey         "B">
 
 
-<!ENTITY  historyHeader.pre.label          "&brandShortName; will:">
-<!ENTITY  historyHeader.pre.accesskey      "w">
-<!ENTITY  historyHeader.remember.label     "Remember history">
-<!ENTITY  historyHeader.dontremember.label "Never remember history">
-<!ENTITY  historyHeader.custom.label       "Use custom settings for history">
+<!ENTITY  historyHeader.pre.label          "I-&brandShortName; nesifiso:">
+<!ENTITY  historyHeader.pre.accesskey      "n">
+<!ENTITY  historyHeader.remember.label     "Khumbula umlando">
+<!ENTITY  historyHeader.dontremember.label "Kungalokothwa kukhunjulwe umlando">
+<!ENTITY  historyHeader.custom.label       "Sebenzisa izimiso zokuzenzela uzisebenzisele umlando">
 <!ENTITY  historyHeader.post.label         "">
 
-<!ENTITY  rememberDescription.label      "&brandShortName; will remember your browsing, download, form and search history, and keep cookies from Web sites you visit.">
+<!ENTITY  rememberDescription.label      "I-&brandShortName; izokhumbula ukudlulisa kwakho amehlo, ukulayisha, uhlobo nomlando wokusesha, bese igcina amakhukhi wamawebhusayithi uma uwavakashela.">
 <!-- LOCALIZATION NOTE (rememberActions.pre.label): include a trailing space as needed -->
 <!-- LOCALIZATION NOTE (rememberActions.middle.label): include a starting and trailing space as needed -->
 <!-- LOCALIZATION NOTE (rememberActions.post.label): include a starting space as needed -->
 
-<!ENTITY  rememberActions.pre.label           "You may want to ">
-<!ENTITY  rememberActions.clearHistory.label  "clear your recent history">
-<!ENTITY  rememberActions.middle.label        ", or ">
-<!ENTITY  rememberActions.removeCookies.label "remove individual cookies">
+<!ENTITY  rememberActions.pre.label           "Ungafuna uku">
+<!ENTITY  rememberActions.clearHistory.label  "susa umlando wakho wakamuva">
+<!ENTITY  rememberActions.middle.label        ", noma">
+<!ENTITY  rememberActions.removeCookies.label "susa amakhukhi angawodwa">
 <!ENTITY  rememberActions.post.label          ".">
 
-<!ENTITY  dontrememberDescription.label  "&brandShortName; will use the same settings as private browsing, and will not remember any history as you browse the Web.">
+<!ENTITY  dontrememberDescription.label  "I-&brandShortName; izisebenzisa izimiso ezifana nezokuphequlula okuyimfihlo, futhi angeke ikhumbule umlando njengoba udlulisa amehlo kwi webhu.">
 <!-- LOCALIZATION NOTE (dontrememberActions.pre.label): include a trailing space as needed -->
 <!-- LOCALIZATION NOTE (dontrememberActions.post.label): include a starting space as needed -->
 
-<!ENTITY  dontrememberActions.pre.label          "You may also want to ">
-<!ENTITY  dontrememberActions.clearHistory.label "clear all current history">
+<!ENTITY  dontrememberActions.pre.label          "Ungafuna uku ">
+<!ENTITY  dontrememberActions.clearHistory.label "susa wonke umlando wamanje">
 <!ENTITY  dontrememberActions.post.label         ".">
 
-<!ENTITY  privateBrowsingPermanent.label "Permanent Private Browsing mode">
-<!ENTITY  privateBrowsingPermanent.accesskey "P">
+<!ENTITY  privateBrowsingPermanent.label "Indlela engunaphakade yokuphequlula eyimfihlo">
+<!ENTITY  privateBrowsingPermanent.accesskey "I">
 
-<!ENTITY  rememberHistory.label      "Remember my browsing history">
-<!ENTITY  rememberHistory.accesskey  "b">
+<!ENTITY  rememberHistory.label      "Khumbula umlando wami wokudlulisa amehlo">
+<!ENTITY  rememberHistory.accesskey  "u">
 
-<!ENTITY  rememberDownload.label         "Remember download history">
-<!ENTITY  rememberDownload.accesskey     "d">
+<!ENTITY  rememberDownload.label         "Khumbula umlando wokulayisha">
+<!ENTITY  rememberDownload.accesskey     "w">
 
-<!ENTITY  rememberSearchForm.label       "Remember search and form history">
-<!ENTITY  rememberSearchForm.accesskey   "f">
+<!ENTITY  rememberSearchForm.label       "Khumbula ukusesha nohlobo lomlando">
+<!ENTITY  rememberSearchForm.accesskey   "n">
 
-<!ENTITY  clearOnClose.label             "Clear history when &brandShortName; closes">
-<!ENTITY  clearOnClose.accesskey         "r">
+<!ENTITY  clearOnClose.label             "Susa umlando uma i-&brandShortName; ivala ">
+<!ENTITY  clearOnClose.accesskey         "a">
 
-<!ENTITY  clearOnCloseSettings.label     "Settings…">
-<!ENTITY  clearOnCloseSettings.accesskey "t">
+<!ENTITY  clearOnCloseSettings.label     "Izimiso...">
+<!ENTITY  clearOnCloseSettings.accesskey "i">
