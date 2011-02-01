@@ -21,6 +21,8 @@
 <!ENTITY allowHWAccel.accesskey          "p">
 <!ENTITY checkSpelling.label "Preverjaj črkovanje besed, medtem ko pišem">
 <!ENTITY checkSpelling.accesskey "b">
+<!ENTITY doNotTrack.label                "Spletnim stranem sporoči, naj mi ne sledijo">
+<!ENTITY doNotTrack.accesskey            "d">
 
 <!ENTITY systemDefaults.label "Privzete vrednosti">
 <!--XXX-->
