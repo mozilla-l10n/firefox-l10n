@@ -20,9 +20,6 @@
 <!ENTITY helpSafeMode.label       "Werstart mei tafoegings útskeakele…">
 <!ENTITY helpSafeMode.accesskey   "W">
 
-<!ENTITY helpReleaseNotes.label         "Utjefte-opmerkings">
-<!ENTITY helpReleaseNotes.accesskey     "U">
-
 <!ENTITY helpTroubleshootingInfo.label      "Helpynformaasje">
 <!ENTITY helpTroubleshootingInfo.accesskey  "H">
 
