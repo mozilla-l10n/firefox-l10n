@@ -22,6 +22,9 @@
 <!ENTITY checkSpelling.label             "Revisar mi ortografía mientras escribo">
 <!ENTITY checkSpelling.accesskey         "t">
 
+<!ENTITY doNotTrack.label "Decir a los sitios web que no quiero ser rastreado">
+<!ENTITY doNotTrack.accesskey "d">
+
 <!ENTITY systemDefaults.label            "Parámetros por defecto del sistema">
 <!ENTITY alwaysCheckDefault.label        "Siempre revisar al inicio si &brandShortName; es el navegador predeterminado"><!--XXX-->
 <!ENTITY alwaysCheckDefault.accesskey    "S">

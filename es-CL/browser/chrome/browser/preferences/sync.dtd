@@ -3,10 +3,6 @@
 <!ENTITY setupButton.accesskey "C">
 <!ENTITY weaveDesc.label "&syncBrand.fullName.label; permite acceder al historial, marcadores, contraseñas y pestañas abiertas entre todos sus dispositivos.">
 
-<!-- The page shown when logged in... -->
-<!ENTITY accountGroupboxCaption.label "Cuenta de &syncBrand.fullName.label;">
-<!ENTITY currentAccount.label         "Cuenta actual:">
-
 <!-- Login error feedback -->
 <!ENTITY updatePass.label "Actualizar">
 <!ENTITY resetPass.label "Restablecer">
@@ -18,12 +14,10 @@
 <!ENTITY changePassword.label "Cambiar contraseña">
 <!ENTITY mySyncKey.label              "Mi clave de sincronización">
 <!ENTITY resetSync.label "Restablecer Sync">
-<!ENTITY stopUsingAccount.label       "Dejar de usar esta cuenta">
 <!ENTITY addDevice.label              "Agregar un dispositivo">
 
 
 <!-- Sync Settings -->
-<!ENTITY syncPrefsCaption.label "Sincronización de navegador">
 <!ENTITY syncComputerName.label "Nombre del computador:">
 <!ENTITY syncComputerName.accesskey "N">
 
@@ -38,7 +32,7 @@
 <!ENTITY engine.passwords.accesskey "C">
 <!ENTITY engine.prefs.label         "Preferencias">
 <!ENTITY engine.prefs.accesskey     "s">
-
+<!ENTITY deactivateDevice.label "Desactivar este dispositivo">
 
 <!-- Footer stuff -->
 <!ENTITY prefs.tosLink.label "Términos del servicio">
