@@ -6,7 +6,7 @@
 #define bookmarks_title Kirjanmerkit
 #define bookmarks_heading Kirjanmerkit
 
-#define personal_toolbarfolder Kirjanmerkkipalkin kirjanmerkit
+#define personal_toolbarfolder Kirjanmerkkipalkki
 
 #define seamonkey_and_mozilla SeaMonkey ja Mozilla
 

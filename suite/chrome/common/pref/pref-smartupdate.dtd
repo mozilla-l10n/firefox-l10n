@@ -3,8 +3,8 @@
 <!ENTITY smartTitle.label                     "Asennusoikeudet">
 <!ENTITY enableSU.label                       "Salli sivustojen asentaa laajennuksia ja päivityksiä">
 <!ENTITY enableSU.accesskey                   "S">
-<!ENTITY allowedSites.label                   "Sallitut sivustot">
-<!ENTITY allowedSites.accesskey               "a">
+<!ENTITY viewPermissions.label                "Muokkaa oikeuksia">
+<!ENTITY viewPermissions.accesskey            "M">
 
 <!ENTITY verifyUpdates.caption                "Päivitykset">
 <!ENTITY autoUpdates.label                    "Hae päivityksiä säännöllisin väliajoin:">

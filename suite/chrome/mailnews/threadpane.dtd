@@ -51,7 +51,7 @@
 <!ENTITY totalColumn.label "Yhteensä viestiketjussa">
 <!ENTITY readColumn.label "Luettu">
 <!ENTITY receivedColumn.label "Vastaanotettu">
-<!ENTITY flagColumn.label "Tähti">
+<!ENTITY flagColumn.label "Lippu">
 <!ENTITY locationColumn.label "Osoite">
 <!ENTITY idColumn.label "Saapumisjärjestys">
 
@@ -73,6 +73,6 @@
 <!ENTITY totalColumn.tooltip "Yhteensä viestiketjussa">
 <!ENTITY readColumn.tooltip "Lajittele sen mukaan, onko viesti luettu, painamalla tästä">
 <!ENTITY receivedColumn.tooltip "Lajittele vastaanottopäiväyksen mukaan painamalla tästä">
-<!ENTITY flagColumn.tooltip "Lajittele sen mukaan, onko viesti merkitty tähdellä, painamalla tästä">
+<!ENTITY flagColumn.tooltip "Lajittele sen mukaan, onko viesti merkitty lipulla, painamalla tästä">
 <!ENTITY locationColumn.tooltip "Lajittele sijainnin mukaan painamalla tästä">
 <!ENTITY idColumn.tooltip "Lajittele saapumisjärjestyksen mukaan painamalla tästä">

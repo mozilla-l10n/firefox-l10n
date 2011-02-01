@@ -25,8 +25,8 @@
 <!ENTITY retentionKeepRecent.accesskey "P">
 <!-- LOCALIZATION NOTE: Unhide with .keepUnreadOnly { display: -moz-box; } -->
 <!ENTITY retentionKeepUnreadHidden.label "Poista luetut viestit aina (korvaa ikäasetukset)">
-<!ENTITY retentionApplyToFlagged.label "Älä koskaan poista tähdellä merkittyjä viestejä">
-<!ENTITY retentionApplyToFlagged.accesskey "k">
+<!ENTITY retentionApplyToFlagged.label "Älä koskaan poista lipulla merkittyjä viestejä">
+<!ENTITY retentionApplyToFlagged.accesskey "s">
 <!ENTITY nntpRemoveMsgBody.label "Poista viestirungot viesteistä, jotka ovat yli">
 <!ENTITY nntpRemoveMsgBody.accesskey "o">
 <!ENTITY offlineSelectNntp.label "Valitse yhteydettömässä tilassa käytettävät keskusteluryhmät…">

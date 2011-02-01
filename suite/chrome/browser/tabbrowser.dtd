@@ -13,5 +13,6 @@
 <!ENTITY  bookmarkGroup.accesskey  "v">
 <!ENTITY  closeTabButton.tooltip   "Sulje avoin välilehti">
 <!ENTITY  newTabButton.tooltip   "Avaa uusi välilehti">
+<!ENTITY  listAllTabs.tooltip    "Luetteloi kaikki välilehdet">
 <!ENTITY  undoCloseTab.label    "Kumoa Sulje välilehti">
 <!ENTITY  undoCloseTab.accesskey  "K">

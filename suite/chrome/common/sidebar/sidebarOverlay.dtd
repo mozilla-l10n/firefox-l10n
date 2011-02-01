@@ -63,3 +63,7 @@
 <!ENTITY sidebar.close.tooltip       "Sulje Sivupaneeli">
 <!ENTITY sidebar.open.tooltip        "Avaa Sivupaneeli">
 
+<!ENTITY sidebar.search.label         "Verkkohaku">
+<!ENTITY sidebar.client-bookmarks.label     "Kirjanmerkit">
+<!ENTITY sidebar.client-history.label       "Sivuhistoria">
+<!ENTITY sidebar.client-addressbook.label   "Osoitekirja">

@@ -37,10 +37,10 @@
    -
    - ***** END LICENSE BLOCK ***** -->
 
-<!ENTITY venkmanCmd.label     "JavaScript-virheidenetsijä">
-<!ENTITY venkmanCmd.accesskey "S">
+<!ENTITY venkmanCmd.label     "Javascript-vianetsintä">
+<!ENTITY venkmanCmd.accesskey "a">
 
-<!ENTITY vnkButton.label      "JavaScript-virheidenetsijä">
+<!ENTITY vnkButton.label      "Javascript-vianetsintä">
   
-<!ENTITY vnkMenu.label        "JavaScript-virheidenetsijä">
-<!ENTITY vnkMenu.accesskey    "S">
+<!ENTITY vnkMenu.label        "Javascript-vianetsintä">
+<!ENTITY vnkMenu.accesskey    "a">

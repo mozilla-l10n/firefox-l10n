@@ -39,6 +39,12 @@
 
 <!ENTITY selectAll.key "a">
 
+<!ENTITY select.all.label "Kaikki tietotyypit">
+<!ENTITY select.cookies.label "Vain evästeet">
+<!ENTITY select.permissions.label "Vain oikeudet">
+<!ENTITY select.preferences.label "Vain asetukset">
+<!ENTITY select.passwords.label "Vain salasanat">
+
 <!ENTITY domain.search.placeholder "Etsi">
 <!ENTITY domain.search.key "f">
 
@@ -93,6 +99,10 @@
 <!ENTITY perm.Allow "Salli">
 <!ENTITY perm.AllowSession "Salli istunnon ajaksi">
 <!ENTITY perm.Block "Estä">
+
+<!ENTITY perm.host.placeholder "Kirjoita palvelinnimi">
+<!ENTITY perm.button.add.label "Lisää">
+<!ENTITY perm.button.add.accesskey "L">
 
 <!-- preferences -->
 <!ENTITY prefs.description "Sisältöasetukset ovat &brandShortName;n tapa tallentaa sivustokohtaiset asetukset, esim. sivun suurennus.">

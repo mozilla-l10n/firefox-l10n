@@ -68,8 +68,8 @@
 <!ENTITY retentionKeepRecent.accesskey "P">
 <!-- LOCALIZATION NOTE: Unhide with .keepUnreadOnly { display: -moz-box; } -->
 <!ENTITY retentionKeepUnreadHidden.label "Poista luetut viestit aina (korvaa ikäasetukset)">
-<!ENTITY retentionApplyToFlagged.label "Älä koskaan poista tähdellä merkittyjä viestejä">
-<!ENTITY retentionApplyToFlagged.accesskey "Ä">
+<!ENTITY retentionApplyToFlagged.label "Älä koskaan poista lipulla merkittyjä viestejä">
+<!ENTITY retentionApplyToFlagged.accesskey "s">
 
 <!ENTITY folderSynchronizationTab.label          "Synkronointi">
 <!ENTITY folderCheckForNewMessages2.label        "Tarkasta tämä kansio aina kun tämän tilin uusia viestejä noudetaan">

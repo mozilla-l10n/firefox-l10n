@@ -36,7 +36,7 @@
  ***** END LICENSE BLOCK ***** -->
 
 <!-- Box Headings -->
-<!ENTITY contact.heading             "Yhteystiedot">
+<!ENTITY contact.heading             "Yhteyshenkilö">
 <!ENTITY home.heading                "Kotiosoite">
 <!ENTITY other.heading               "Muut">
 <!ENTITY phone.heading               "Puhelin">

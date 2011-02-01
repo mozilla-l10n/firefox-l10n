@@ -43,7 +43,7 @@
 <!ENTITY viewDefaultCharset.accesskey    "O">
 
 <!ENTITY composingMessages.caption       "Viestien kirjoitus">
-<!ENTITY useMIME.label                   "Käytä &quot;quoted printable&quot; -MIME-koodausta viesteissä, jotka sisältävät 8-bittisiä merkkejä. Viestit lähetetään sellaisenaan, jos tätä ei ole valittu.">
+<!ENTITY useMIME.label                   "Käytä 'quoted printable' -MIME-koodausta viesteissä, jotka sisältävät 8-bittisiä merkkejä. Viestit lähetetään sellaisenaan, jos tätä ei ole valittu.">
 <!ENTITY useMIME.accesskey               "K">
 <!ENTITY sendDefaultCharset.label        "Oletusmerkistökoodaus:">
 <!ENTITY sendDefaultCharset.accesskey    "e">

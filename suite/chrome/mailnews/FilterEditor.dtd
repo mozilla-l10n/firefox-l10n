@@ -83,7 +83,7 @@
 <!ENTITY forwardTo.label "Välitä osoitteeseen">
 <!ENTITY replyWithTemplate.label "Vastaa mallineella">
 <!ENTITY markMessageRead.label "Merkitse luetuksi">
-<!ENTITY markMessageStarred.label "Lisää tähti">
+<!ENTITY markMessageStarred.label "Merkitse lipulla">
 <!ENTITY labelMessage.label "Aseta viestin otsikoksi">
 <!ENTITY setPriority.label "Aseta tärkeysasteeksi">
 <!ENTITY addTag.label "Lisää tunnus">

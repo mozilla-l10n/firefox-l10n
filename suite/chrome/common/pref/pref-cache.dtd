@@ -4,24 +4,23 @@
 <!ENTITY pref.cache.title                "Väliaikaistiedostot">
 <!ENTITY pref.cache.caption              "Väliaikaistiedostojen asetukset">
 <!ENTITY cachePara                       "Väliaikaistiedostot ovat kiintolevyllesi tallennettuja kopioita usein avatuista sivuista. (Sivun päivittäminen avaa aina viimeisimmän version sivusta.)">
-<!ENTITY diskCache.label                 "Koko:">
-<!ENTITY diskCache.accesskey             "K">
-<!ENTITY mbytes                          "Mt">
+<!ENTITY cacheCheck.label                "Anna &brandShortName;n päättää väliaikaistiedostoille annettavasta levytilasta">
+<!ENTITY cacheCheck.accesskey            "A">
+<!ENTITY diskCacheUpTo.label             "Salli väliaikaistiedostojen käyttää enintään">
+<!ENTITY diskCacheUpTo.accesskey         "S">
+<!ENTITY spaceMbytes                     "Mt levytilaa">
 <!ENTITY diskCacheFolder.label           "Väliaikaistiedostojen kansion sijainti:">
 <!ENTITY clearDiskCache.label            "Tyhjennä väliaikaistiedostot">
 <!ENTITY clearDiskCache.accesskey        "T">
 <!ENTITY chooseDiskCacheFolder.label     "Valitse kansio…">
 <!ENTITY chooseDiskCacheFolder.accesskey "V">
 <!ENTITY diskCacheFolderExplanation      "Väliaikaistiedostot tallennetaan antamasi kansion alikansioon &quot;Cache&quot;. Muutos tulee voimaan, kun käynnistät &brandShortName;n uudelleen.">
-<!ENTITY docCache                        "Vertaa väliaikaistiedostoihin tallennettua sivua verkossa olevaan sivuun:">
-<!ENTITY oncePsessionRadio.label         "Kerran istunnon aikana">
-<!ENTITY oncePsessionRadio.accesskey     "e">
-<!ENTITY everyTimeRadio.label            "Joka kerta, kun sivu avataan">
-<!ENTITY everyTimeRadio.accesskey        "o">
-<!ENTITY neverRadio.label                "Ei koskaan">
-<!ENTITY neverRadio.accesskey            "i">
-<!ENTITY autoRadio.label                 "Silloin, kun sivu on vanhentunut">
-<!ENTITY autoRadio.accesskey             "S">
+<!ENTITY docCache.label                  "Vertaa väliaikaistiedostoihin tallennettua sivua verkossa olevaan sivuun:">
+<!ENTITY docCache.accesskey              "V">
+<!ENTITY checkOncePerSession.label       "Kerran istunnon aikana">
+<!ENTITY checkEveryTime.label            "Joka kerta, kun sivu avataan">
+<!ENTITY checkNever.label                "Ei koskaan">
+<!ENTITY checkAutomatically.label        "Silloin, kun sivu on vanhentunut">
 
 <!ENTITY prefetchTitle.label             "Linkkien esinoutaminen">
 <!ENTITY enablePrefetch.label            "Esinouda verkkosivut joutenolon aikana niin, että esinoutamista varten suunnitellut verkkosivut latautuvat nopeammin">

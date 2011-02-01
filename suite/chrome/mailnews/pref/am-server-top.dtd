@@ -65,8 +65,8 @@
 <!ENTITY newsrcFilePath.label "newsrc-tiedosto:">
 <!ENTITY localPath.label "Paikallinen hakemisto:">
 <!ENTITY abbreviate.label "Näytä keskusteluryhmien nimet hakemistoruudussa:">
-<!ENTITY abbreviateOn.label "Täydellisinä (esimerkiksi &quot;netscape.public.mozilla.mail-news&quot;)">
-<!ENTITY abbreviateOff.label "Lyhennettyinä (esimerkiksi &quot;n.p.m.mail-news&quot;)">
+<!ENTITY abbreviateOn.label "Täydellisinä (esimerkiksi 'netscape.public.mozilla.mail-news')">
+<!ENTITY abbreviateOff.label "Lyhennettyinä (esimerkiksi 'n.p.m.mail-news')">
 <!ENTITY advancedButton.label "Lisäasetukset…">
 <!ENTITY serverDefaultCharset.label "Oletusmerkistökoodaus:">
 <!ENTITY advancedButton.accesskey "i">
