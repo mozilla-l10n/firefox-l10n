@@ -24,8 +24,6 @@
 <!ENTITY helpTroubleshootingInfo.label      "Техникалық ақпарат">
 <!ENTITY helpTroubleshootingInfo.accesskey  "а">
 
-<!ENTITY helpReleaseNotes.label         "Шығарылым ескертпесі">
-<!ENTITY helpReleaseNotes.accesskey     "Ш">
 
 <!ENTITY preferencesCmdMac.label        "Баптаулар...">
 <!ENTITY preferencesCmdMac.commandkey   ",">

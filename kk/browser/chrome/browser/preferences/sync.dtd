@@ -4,8 +4,6 @@
 <!ENTITY weaveDesc.label            "&syncBrand.fullName.label; сізге тарих, бетбелгілер, парольдер мен ашық беттерге барлық құрылғыларыңыздан қатынауды мүмкін қылады.">
 
 <!-- The page shown when logged in... -->
-<!ENTITY accountGroupboxCaption.label "&syncBrand.fullName.label; тіркелгісі">
-<!ENTITY currentAccount.label         "Ағымдағы тіркелгі:">
 
 <!-- Login error feedback -->
 <!ENTITY updatePass.label             "Жаңарту">
@@ -18,11 +16,10 @@
 <!ENTITY changePassword.label         "Парольді өзгерту">
 <!ENTITY mySyncKey.label              "Менің синхрондау кілтім">
 <!ENTITY resetSync.label              "Синхрондауды тастау">
-<!ENTITY stopUsingAccount.label       "Бұл тіркелгіні қолдануды аяқтау">
 <!ENTITY addDevice.label              "Құрылғыны қосу">
+<!ENTITY deactivateDevice.label       "Бұл құрылғыны белсенді емес қылу">
 
 <!-- Sync Settings -->
-<!ENTITY syncPrefsCaption.label       "Браузер синхрондауы">
 <!ENTITY syncComputerName.label       "Компьютер аты:">
 <!ENTITY syncComputerName.accesskey   "о">
 

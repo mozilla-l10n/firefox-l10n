@@ -71,7 +71,6 @@
 <!ENTITY existingSyncKey.description "Өзіңіздің Синхрондау кілтінің көшірмесін алу үшін, басқа құрылғыдағы &syncBrand.shortName.label; опцияларына барып, &#x0022;Тіркелгіні басқару&#x0022; ішінен &#x0022;Менің Синхрондау кілтім&#x0022; таңдаңыз.">
 <!ENTITY verifying.label              "Растау…">
 <!ENTITY resetPassword.label          "Парольді тастау">
-<!ENTITY lostSyncKey.label            "Мен өзімнің Синхрондау кілтін жоғалттым">
 
 <!-- Sync Options -->
 <!ENTITY setup.optionsPage.title      "Синхрондау опциялары">
@@ -106,3 +105,5 @@
 <!ENTITY setup.successPage.title "Баптау аяқталды">
 <!ENTITY changeOptions.label "Бұл баптауды төмендегі Синхрондау опциялары көмегімен өзгерте аласыз.">
 <!ENTITY continueUsing.label "Енді &brandShortName; қолдана аласыз.">
+
+<!ENTITY resetSyncKey.label  "Мен өзімнің басқа құрылғымды жоғалтып алдым.">
