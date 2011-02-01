@@ -91,8 +91,9 @@
 <!-- ENTITY setup.existingSyncKeyPage.title "অনুগ্রহ করে নিজের সিংক-কি লিখুন" -->
 <!-- ENTITY setup.existingSyncKeyPage.description "&syncBrand.fullName.label; প্রথমবার ব্যবহারের সময় সিংক-কি প্রস্তুত করা হয়েছে, অথবা আপনি তা স্বয়ং উল্লেখ করেছেন। এটি পাসওয়ার্ডের থেকে ভিন্ন একটি মান।" -->
 <!-- ENTITY existingSyncKeyHelp.description "অন্য কোনো কম্পিউটারের মধ্যে নিরাপত্তা শীর্ষক মেনুর অধীন সংরক্ষিত পাসওয়ার্ড বিকল্পের মধ্যে সিংক-কি সন্ধান করতে পারেন। সঠিক সিংক-কি সনাক্ত করা সম্ভব না হলে, তা পুনরায় নির্ধারণ করা যাবে। কিন্তু এর ফলে, সার্ভারে উপস্থিত সকল তথ্য মুছে যাবে।" -->
-<!ENTITY lostSyncKey.label            "আমার সিংক-কি হারিয়ে গেছে">
+<!-- ENTITY lostSyncKey.label            "আমার সিংক-কি হারিয়ে গেছে" -->
 <!ENTITY verifying.label              "যাচাই করা হচ্ছে…">
+<!ENTITY resetSyncKey.label           "আমার অন্য ডিভাইস হারিয়ে গেছে।">
 
 <!-- Sync Options -->
 <!ENTITY setup.optionsPage.title      "সুসংগতি সংক্রান্ত বিকল্প">

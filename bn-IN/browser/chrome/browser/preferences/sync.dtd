@@ -4,8 +4,8 @@
 <!ENTITY weaveDesc.label            "&syncBrand.fullName.label;-র সাহায্যে সর্বধরনের ডিভাইসের মধ্যে আপনার পূর্ববর্তী তথ্য, বুকমার্ক, পাসওয়ার্ড ও প্রদর্শিত ট্যাবগুলি ব্যবহার করা যাবে।">
 
 <!-- The page shown when logged in... -->
-<!ENTITY accountGroupboxCaption.label "&syncBrand.fullName.label; অ্যাকাউন্ট">
-<!ENTITY currentAccount.label         "বর্তমান অ্যাকাউন্ট:">
+<!-- ENTITY accountGroupboxCaption.label "&syncBrand.fullName.label; অ্যাকাউন্ট" -->
+<!-- ENTITY currentAccount.label         "বর্তমান অ্যাকাউন্ট:" -->
 
 <!-- Login error feedback -->
 <!ENTITY updatePass.label             "আপডেট করুন">
@@ -18,13 +18,14 @@
 <!ENTITY changePassword.label         "পাসওয়ার্ড পরিবর্তন করুন">
 <!ENTITY mySyncKey.label              "আমার সিংক-কি">
 <!ENTITY resetSync.label              "সিংক পুনরায় নির্ধারণ করুন">
-<!ENTITY stopUsingAccount.label       "এই অ্যাকাউন্টের ব্যবহার বন্ধ করুন">
+<!-- ENTITY stopUsingAccount.label       "এই অ্যাকাউন্টের ব্যবহার বন্ধ করুন" -->
 <!ENTITY addDevice.label              "একটি ডিভাইস যোগ করুন">
 
 <!-- Sync Settings -->
-<!ENTITY syncPrefsCaption.label       "ব্রাউজার সুসংগতি">
+<!-- ENTITY syncPrefsCaption.label       "ব্রাউজার সুসংগতি" -->
 <!ENTITY syncComputerName.label       "কম্পিউটারের নাম:">
 <!ENTITY syncComputerName.accesskey   "c">
+<!ENTITY deactivateDevice.label       "এই ডিভাইসটি নিষ্ক্রিয় করা হবে">
 
 <!ENTITY syncMy.label               "সুসংগত করা হবে">
 <!ENTITY engine.bookmarks.label     "বুকমার্ক">
