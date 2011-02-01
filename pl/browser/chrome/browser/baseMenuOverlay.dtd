@@ -20,9 +20,6 @@
 <!ENTITY helpSafeMode.label       "Uruchom ponownie z wyłączonymi dodatkami…">
 <!ENTITY helpSafeMode.accesskey   "U">
 
-<!ENTITY helpReleaseNotes.accesskey     "I">
-<!ENTITY helpReleaseNotes.label         "Informacje o wydaniu">
-
 <!ENTITY helpTroubleshootingInfo.label      "Informacje dla pomocy technicznej">
 <!ENTITY helpTroubleshootingInfo.accesskey  "n">
 
