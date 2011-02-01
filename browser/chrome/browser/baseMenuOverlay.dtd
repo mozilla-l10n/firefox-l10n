@@ -21,8 +21,6 @@
 <!ENTITY helpMac.commandkey "?">
 <!ENTITY helpSafeMode.label "Endurræsa með viðbætur óvirkar…">
 <!ENTITY helpSafeMode.accesskey "r">
-<!ENTITY helpReleaseNotes.label "Útgáfuupplýsingar">
-<!ENTITY helpReleaseNotes.accesskey "g">
 <!ENTITY helpTroubleshootingInfo.label "Upplýsingar fyrir úrræðaleit">
 <!ENTITY helpTroubleshootingInfo.accesskey "U">
 <!ENTITY helpFeedbackPage.label "Senda viðbrögð…">

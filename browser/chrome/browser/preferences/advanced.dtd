@@ -17,6 +17,8 @@
 <!ENTITY allowHWAccel.accesskey "h">
 <!ENTITY checkSpelling.label "Athuga stafsetningu um leið og texti er sleginn inn">
 <!ENTITY checkSpelling.accesskey "t">
+<!ENTITY doNotTrack.label "Láta vefsvæði vita að ég vilji ekki láta fylgjast með mér">
+<!ENTITY doNotTrack.accesskey "m">
 <!ENTITY systemDefaults.label "Sjálfgefnar kerfistillingar">
 <!ENTITY alwaysCheckDefault.label "Athuga alltaf í ræsingu hvort &brandShortName; sé sjálfgefinn vafri">
 <!--XXX-->
