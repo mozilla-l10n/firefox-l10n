@@ -19,6 +19,8 @@
 <!ENTITY useSmoothScrolling.accesskey    "u">
 <!ENTITY checkSpelling.label             "Provjeri pravopis pri pisanju">
 <!ENTITY checkSpelling.accesskey         "p">
+<!ENTITY doNotTrack.label                "Javi web stranicama da ne želim biti praćen(a)">
+<!ENTITY doNotTrack.accesskey            "w">
 <!ENTITY allowHWAccel.label              "Koristi hardversku akceleraciju kad je moguće">
 <!ENTITY allowHWAccel.accesskey          "h">
 
