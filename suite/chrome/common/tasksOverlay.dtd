@@ -31,3 +31,8 @@
 <!ENTITY addonsManagerCmd.commandkey "a">
 <!ENTITY switchProfileCmd.label "Passa al profilo…">
 <!ENTITY switchProfileCmd.accesskey "P">
+<!ENTITY syncBrand.shortName.label "Sync">
+<!ENTITY syncSetup.label "Configura Sync…">
+<!ENTITY syncSetup.accesskey "C">
+<!ENTITY syncSyncNowItem.label "Sincronizza adesso">
+<!ENTITY syncSyncNowItem.accesskey "S">

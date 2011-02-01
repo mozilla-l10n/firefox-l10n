@@ -139,3 +139,4 @@
 <!ENTITY popupIcon.tooltiptext "Sblocca pop-up da questo sito">
 <!ENTITY bidiSwitchPageDirectionItem.label "Cambia direzione pagina">
 <!ENTITY bidiSwitchPageDirectionItem.accesskey "d">
+<!ENTITY syncTabsMenu.label "Schede da altri computer">
