@@ -42,7 +42,7 @@
 
 <!ENTITY            profilename.label      "Ainm na pròifile:">
 
-<!ENTITY            start.label            "Thòisich &brandShortName;">
+<!ENTITY            start.label            "Tòisich &brandShortName;">
 <!ENTITY            exit.label             "Fàg an-seo">
 
 <!ENTITY            availprofiles.label    "Pròifilean ri am faighinn">
