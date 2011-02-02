@@ -14,8 +14,6 @@
 <!ENTITY aboutProduct.accesskey   "O">
 <!ENTITY productHelp.label        "&brandShortName; Hjälp">
 <!ENTITY productHelp.accesskey    "H">
-<!ENTITY helpForIEUsers.label     "För Internet Explorer-användare">
-<!ENTITY helpForIEUsers.accesskey "I">
 <!ENTITY helpMac.commandkey       "?">
 <!ENTITY helpSafeMode.label       "Starta om utan tillägg…">
 <!ENTITY helpSafeMode.accesskey   "S">
