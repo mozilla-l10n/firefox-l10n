@@ -44,6 +44,6 @@
 <!ENTITY homepage.label    "Visite a Página Inicial">
 <!ENTITY copyversion.label "Copiar detalhes da versão">
 
-<!ENTITY section.core.label    "Equipa de Core Development:">
+<!ENTITY section.core.label    "Equipa de desenvolvimento:">
 <!ENTITY section.locale.label  "Localização:">
 <!ENTITY section.contrib.label "Contribuintes:">
