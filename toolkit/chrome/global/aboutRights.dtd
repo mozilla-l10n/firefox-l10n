@@ -41,7 +41,7 @@
 <!ENTITY rights.intro-point4b-unbranded "Retejaj servoj">
 <!ENTITY rights.intro-point4c-unbranded "sekcio.">
 
-<!ENTITY rights2.webservices-header "&brandFullName; TTT-bazitaj Informservoj">
+<!ENTITY rights2.webservices-header "&brandFullName; TTT-bazitaj informservoj">
 
 <!-- Note that this paragraph references a couple of entities from
      preferences/security.dtd, so that we can refer to text the user sees in
