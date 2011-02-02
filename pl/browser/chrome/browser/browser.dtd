@@ -541,7 +541,7 @@ just addresses the organization to follow, e.g. "This site is run by " -->
 <!ENTITY syncBrand.shortName.label  "Sync">
 
 <!ENTITY syncSetup.label              "Skonfiguruj usługę &syncBrand.shortName.label;…">
-<!ENTITY syncSetup.accesskey          "Y">
+<!ENTITY syncSetup.accesskey          "S">
 <!ENTITY syncSyncNowItem.label        "Synchronizuj teraz">
 <!ENTITY syncSyncNowItem.accesskey    "S">
 <!ENTITY syncToolbarButton.label      "Synchronizuj">
