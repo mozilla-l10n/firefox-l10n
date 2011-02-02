@@ -11,8 +11,6 @@
 <!ENTITY aboutProduct.accesskey "I">
 <!ENTITY productHelp.label "Guida di &brandShortName;">
 <!ENTITY productHelp.accesskey "G">
-<!ENTITY helpForIEUsers.label "Per gli utenti di Internet Explorer">
-<!ENTITY helpForIEUsers.accesskey "x">
 <!ENTITY helpMac.commandkey "?">
 <!ENTITY helpSafeMode.label "Riavvia disattivando i componenti aggiuntivi">
 <!ENTITY helpSafeMode.accesskey "d">
