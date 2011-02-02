@@ -35,4 +35,4 @@
 <!ENTITY syncSetup.label "Configura Sync…">
 <!ENTITY syncSetup.accesskey "C">
 <!ENTITY syncSyncNowItem.label "Sincronizza adesso">
-<!ENTITY syncSyncNowItem.accesskey "S">
+<!ENTITY syncSyncNowItem.accesskey "z">
