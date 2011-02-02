@@ -545,3 +545,4 @@ just addresses the organization to follow, e.g. "This site is run by " -->
 <!ENTITY syncToolbarButton.label      "Sincronització">
 
 <!ENTITY addonBarCloseButton.tooltip  "Tanca la barra de complements">
+<!ENTITY toggleAddonBarCmd.key        "/">
