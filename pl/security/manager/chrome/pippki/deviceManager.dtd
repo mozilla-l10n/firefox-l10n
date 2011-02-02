@@ -67,4 +67,4 @@
 <!ENTITY loaddevice.browse 						"Przeglądaj…" >
 <!ENTITY loaddevice.browse.accesskey          	"P">
 
-<!ENTITY loaddevice.title 						"Załaduj urządzenie PKCS#11" >
+<!ENTITY loaddevice.title 						"Wczytaj urządzenie PKCS#11" >
