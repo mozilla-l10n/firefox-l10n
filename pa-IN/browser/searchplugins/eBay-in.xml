@@ -1,4 +1,4 @@
-earchPlugin xmlns="http://www.mozilla.org/2006/browser/search/">
+<SearchPlugin xmlns="http://www.mozilla.org/2006/browser/search/">
 <ShortName>eBay India</ShortName>
 <Description>eBay - Online auctions</Description>
 <InputEncoding>UTF-8</InputEncoding>
