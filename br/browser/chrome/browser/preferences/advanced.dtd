@@ -21,6 +21,8 @@
 <!ENTITY allowHWAccel.accesskey          "h">
 <!ENTITY checkSpelling.label             "Gwiriañ ar reizhskrivañ pa skrivan">
 <!ENTITY checkSpelling.accesskey         "G">
+<!ENTITY doNotTrack.label                "Lavarout d'al lec'hiennoù internet ne fell ket din bezañ heuliet">
+<!ENTITY doNotTrack.accesskey            "L">
 
 <!ENTITY systemDefaults.label            "Arventennoù dre ziouer ar reizhiad">
 <!ENTITY alwaysCheckDefault.label        "Gwiriañ atav evit gwelout hag eñ eo &brandShortName; ar merdeer dre ziouer e-kerz al loc'hañ"><!--XXX-->
