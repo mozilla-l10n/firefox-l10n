@@ -522,4 +522,5 @@ just addresses the organization to follow, e.g. "This site is run by " -->
 <!ENTITY preferencesCmd2.label       "વિકલ્પો">
 <!ENTITY showAllBookmarks2.label "બધી બુકમાર્કોને બતાવો">
 <!ENTITY addonBarCloseButton.tooltip  "એડ-ઓન પટ્ટીને બંધ કરો">
+<!ENTITY toggleAddonBarCmd.key        "/">
 
