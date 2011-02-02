@@ -19,3 +19,4 @@
 <!ENTITY sync.serverURL             "URL an fhrithealaiche">
 <!ENTITY sync.setup.connect         "Ceangail">
 <!ENTITY sync.setup.cancel          "Sguir dheth">
+<!ENTITY sync.setup.tutorial        "Seall dhomh mar a nì mi seo">
