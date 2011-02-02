@@ -14,8 +14,6 @@
 <!ENTITY aboutProduct.accesskey   "A">
 <!ENTITY productHelp.label        "&brandShortName; ਮੱਦਦ">
 <!ENTITY productHelp.accesskey    "H">
-<!ENTITY helpForIEUsers.label     "ਇੰਟਰਨੈੱਟ ਐਕਸਪਲੋਰਰ ਯੂਜ਼ਰਾਂ ਲਈ">
-<!ENTITY helpForIEUsers.accesskey "I">
 <!ENTITY helpMac.commandkey       "?">
 <!ENTITY helpSafeMode.label       "ਐਡ-ਆਨ ਬੰਦ ਕਰਕੇ ਮੁੜ-ਚਾਲੂ ਕਰੋ…">
 <!ENTITY helpSafeMode.accesskey   "R">
