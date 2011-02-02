@@ -209,7 +209,8 @@
 <!ENTITY followupAddr.label "原文參見:"> 
 <!ENTITY subject.label "主旨:">
 <!ENTITY subject.accesskey "S">
-<!ENTITY attachments.label "附件:">
+<!-- LOCALIZATION NOTE attachments.accesskey This access key should correspond
+     to the strings in attachmentCount in composeMsgs.properties -->
 <!ENTITY attachments.accesskey "c">
 
 <!-- Format Toolbar, imported from editorAppShell.xul -->
