@@ -547,3 +547,4 @@ just addresses the organization to follow, e.g. "This site is run by " -->
 <!ENTITY syncToolbarButton.label      "Sinhronizēt">
 
 <!ENTITY addonBarCloseButton.tooltip  "Aizvērt papildinājumu joslu">
+<!ENTITY toggleAddonBarCmd.key        "/">
