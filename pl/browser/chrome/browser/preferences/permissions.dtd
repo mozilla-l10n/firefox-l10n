@@ -9,12 +9,12 @@
 <!ENTITY removeallpermissions.accesskey "w">
 <!ENTITY address.label                "Adres witryny:">
 <!ENTITY address.accesskey            "A">
-<!ENTITY block.label                  "Zablokuj">
-<!ENTITY block.accesskey              "b">
-<!ENTITY session.label                "Zezwól na czas sesji">
+<!ENTITY block.label                  "Blokuj">
+<!ENTITY block.accesskey              "B">
+<!ENTITY session.label                "Zezwalaj na czas sesji">
 <!ENTITY session.accesskey            "s">
-<!ENTITY allow.label                  "Zezwól">
-<!ENTITY allow.accesskey              "z">  
+<!ENTITY allow.label                  "Zezwalaj">
+<!ENTITY allow.accesskey              "Z">  
 <!ENTITY windowClose.key              "w">
 
 <!ENTITY button.close.label           "Zamknij">

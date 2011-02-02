@@ -90,8 +90,8 @@
 <!ENTITY  permTab.accesskey     "U">
 <!ENTITY  permUseDefault        "Użyj domyślnych">
 <!ENTITY  permAskAlways         "Zawsze pytaj">
-<!ENTITY  permAllow             "Zezwól">
-<!ENTITY  permAllowSession      "Zezwól na czas sesji">
+<!ENTITY  permAllow             "Zezwalaj">
+<!ENTITY  permAllowSession      "Zezwalaj na czas sesji">
 <!ENTITY  permBlock             "Blokuj">
 <!ENTITY  permissionsFor        "Uprawnienia dla:">
 <!ENTITY  permImage             "Wczytywanie obrazków">
