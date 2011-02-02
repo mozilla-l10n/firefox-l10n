@@ -14,8 +14,6 @@
 <!ENTITY aboutProduct.accesskey "a">
 <!ENTITY productHelp.label        "Ayuda de &brandShortName;">
 <!ENTITY productHelp.accesskey    "A">
-<!ENTITY helpForIEUsers.label     "Pa usuarios d'Internet Explorer">
-<!ENTITY helpForIEUsers.accesskey "I">
 <!ENTITY helpMac.commandkey       "?">
 <!ENTITY helpSafeMode.label "Reaniciar colos complementos desactivaos…">
 <!ENTITY helpSafeMode.accesskey "R">
