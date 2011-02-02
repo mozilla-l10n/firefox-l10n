@@ -99,6 +99,8 @@ can reach it easily. -->
 <!ENTITY closeWindow.label "Терезені жабу">
 <!ENTITY closeWindow.accesskey "б">
 
+<!ENTITY toggleAddonBarCmd.key "/">
+
 <!ENTITY bookmarksMenu.label "Бетбелгілер">
 <!ENTITY bookmarksMenu.accesskey "Б">
 <!ENTITY bookmarksButton.accesskey  "Б">
