@@ -26,6 +26,7 @@
 <!ENTITY historyHeader.label       "Eachdraidh">
 <!ENTITY desktopHeader.label       "Deasg">
 
+<!ENTITY editBookmarkDialog.title  "Deasaich an comharra-lìn">
 <!ENTITY editBookmarkDone.label    "Dèanta">
 <!ENTITY editBookmarkTags.label    "Cuir tagaichean ris an-seo">
 

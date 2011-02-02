@@ -1,7 +1,7 @@
 <!ENTITY firstrun.title                "Fàilte gu &brandShortName;">
 <!ENTITY firstrun.heading2             "Fàilte gu &brandShortName;">
 <!ENTITY firstrun.sync2.title          "Co-shioncronaich suas">
-<!ENTITY firstrun.sync2.description    "Log a-steach dhan chunntas sioncronachaidh agad gus eachdraidh, faclan-faire, comharraidhean-lìn ┐ tabaichean; a cho-roinneadh eadar an deasg ┐ am fòn-làimhe agad">
+<!ENTITY firstrun.sync2.description    "Log a-steach dhan chunntas sioncronachaidh agad gus eachdraidh, faclan-faire, comharraidhean-lìn ⁊ tabaichean; a cho-roinneadh eadar an deasg ⁊ am fòn-làimhe agad">
 <!ENTITY firstrun.addons2.title        "Gnàthaich">
 <!ENTITY firstrun.addons2.description  "Lorg tuilleadain ùra agus stàlaich iad gus barrachd fheartan a chur ri &brandShortName;">
 <!ENTITY firstrun.home2.title          "Brabhsaich">
