@@ -109,7 +109,7 @@
 <!ENTITY mediaPause.label             "Atura">
 <!ENTITY mediaPause.accesskey         "t">
 <!ENTITY mediaMute.label              "Sense so">
-<!ENTITY mediaMute.accesskey          "n">
+<!ENTITY mediaMute.accesskey          "e">
 <!ENTITY mediaUnmute.label            "Amb so">
 <!ENTITY mediaUnmute.accesskey        "m">
 <!ENTITY mediaShowControls.label      "Mostra els controls multimèdia">
