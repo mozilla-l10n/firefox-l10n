@@ -47,7 +47,7 @@ you can use these alternative items. Otherwise, their values should be empty.  -
 <!ENTITY reloadCmd.label "Reŝargi">
 <!ENTITY reloadCmd.accesskey "R">
 <!ENTITY reloadCmd.commandkey "r">
-<!ENTITY menu_wrapLongLines.title "Faldi Longajn Liniojn"> 
+<!ENTITY menu_wrapLongLines.title "Faldi longajn liniojn"> 
 <!ENTITY menu_wrapLongLines.accesskey "F">
 <!ENTITY menu_highlightSyntax.label "Emfazado de sintakso">
 <!ENTITY menu_highlightSyntax.accesskey "S">

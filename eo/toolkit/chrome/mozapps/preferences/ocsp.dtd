@@ -7,7 +7,7 @@
 <!ENTITY proxyOCSP2.accesskey         "a">
 <!ENTITY serviceURL.label             "Adreso de servo:">
 <!ENTITY serviceURL.accesskey         "A">
-<!ENTITY signingCA.label              "Responda Subskribanto:">
+<!ENTITY signingCA.label              "Responda subskribanto:">
 <!ENTITY signingCA.accesskey          "R">
 <!ENTITY requireOCSP.label            "Kiam ne eblas kontakti OCSP servilon pritrakti la atestilon kiel nevalidan">
 <!ENTITY requireOCSP.accesskey        "K">

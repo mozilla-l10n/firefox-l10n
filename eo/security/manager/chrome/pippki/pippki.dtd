@@ -106,7 +106,7 @@
 <!ENTITY chooseToken.title  "Elekti ĵetonan dialogon">
 <!ENTITY chooseToken.message1 "Bonvolu elekti ĵetonon.">
 
-<!ENTITY escrowWarn.title "Kopio de Ĉifra Ŝlosilo">
+<!ENTITY escrowWarn.title "Kopio de ĉifra ŝlosilo">
 <!ENTITY escrowWarn.message1 "Grava rimarko: Tiu ĉi atestila aŭtoritato petis fari sekurkopion de via ĉifra privata ŝlosilo.">
 <!ENTITY escrowWarn.benefit1 "La avantaĝo estas la jena: se vi perdas la aliron al via ĉifra privata ŝlosilo vi povas mendi kopion al tiu ĉi atestila aŭtoritato.">
 <!ENTITY escrowWarn.message2 "Tamen, via privata ĉifra ŝlosilo estos konservita de la atestila aŭtoritato, kaj povus esti uzata por legi vian ĉifritan retpoŝton aŭ ĉifritajn dokumentojn sen via permeso.">
