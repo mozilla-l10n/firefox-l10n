@@ -500,3 +500,5 @@ Entities below were automatically added by compare-locales,
 <!ENTITY bookmarksCmd.commandkey "b">
 
 <!ENTITY addonBarCloseButton.tooltip  "ඇඩෝන තීරුව වසන්න">
+<!ENTITY toggleAddonBarCmd.key        "/">
+
