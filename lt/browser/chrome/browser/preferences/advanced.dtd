@@ -54,6 +54,8 @@
 <!ENTITY allowHWAccel.accesskey          "a">
 <!ENTITY checkSpelling.label             "Tikrinti rašybą renkant tekstą">
 <!ENTITY checkSpelling.accesskey         "k">
+<!ENTITY doNotTrack.label                "Informuoti svetaines, jog nenorite, kad jos Jus sektų">
+<!ENTITY doNotTrack.accesskey            "o">
 
 <!ENTITY systemDefaults.label            "Numatytoji naršyklė">
 <!ENTITY alwaysCheckDefault.label        "Paleidžiant naršyklę „&brandShortName;“ tikrinti, ar ji yra numatytoji"><!--XXX-->
@@ -126,7 +128,7 @@
 <!ENTITY useTLS1.label                   "TLS 1.0">
 <!ENTITY useTLS1.accesskey               "1">
 <!ENTITY certificates.label              "Liudijimai">
-<!ENTITY certSelection.description       "Svetainei paprašius mano liudijimo:">
+<!ENTITY certSelection.description       "Svetainei paprašius Jūsų liudijimo:">
 <!ENTITY certs.auto                      "parinkti jį automatiškai">
 <!ENTITY certs.auto.accesskey            "a">
 <!ENTITY certs.ask                       "visuomet klausti">
