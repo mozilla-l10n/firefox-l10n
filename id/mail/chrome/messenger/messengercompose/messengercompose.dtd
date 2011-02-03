@@ -209,7 +209,6 @@
 <!ENTITY followupAddr.label "Lanjutkan Kepada:"> 
 <!ENTITY subject.label "Subjek:">
 <!ENTITY subject.accesskey "S">
-<!ENTITY attachments.label "Lampiran:">
 <!ENTITY attachments.accesskey "L">
 
 <!-- Format Toolbar, imported from editorAppShell.xul -->
