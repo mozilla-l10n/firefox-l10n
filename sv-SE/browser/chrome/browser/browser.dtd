@@ -581,4 +581,4 @@ just addresses the organization to follow, e.g. "This site is run by " -->
 <!ENTITY syncToolbarButton.label      "Sync">
 
 <!ENTITY addonBarCloseButton.tooltip  "Stäng Tilläggsfältet">
-<!ENTITY toggleAddonBarCmd.key        "/">
+<!ENTITY toggleAddonBarCmd.key        "Å">
