@@ -240,7 +240,8 @@
 <!ENTITY followupAddr.label "Nukreipti į grupę:"> 
 <!ENTITY subject.label "Tema:">
 <!ENTITY subject.accesskey "e">
-<!ENTITY attachments.label "Priedai:">
+<!-- LOCALIZATION NOTE attachments.accesskey This access key should correspond
+     to the strings in attachmentCount in composeMsgs.properties -->
 <!ENTITY attachments.accesskey "e">
 
 <!-- Format Toolbar, imported from editorAppShell.xul -->
