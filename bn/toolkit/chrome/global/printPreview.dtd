@@ -68,5 +68,5 @@
 
 <!ENTITY homearrow.tooltip "প্রথম পৃষ্ঠা">
 <!ENTITY endarrow.tooltip "শেষ পৃষ্ঠা">
-<!ENTITY nextarrow.tooltip "Next page">
-<!ENTITY previousarrow.tooltip "Previous page">
+<!ENTITY nextarrow.tooltip "পরবর্তী পৃষ্ঠা">
+<!ENTITY previousarrow.tooltip "পূর্ববর্তী পৃষ্ঠা">

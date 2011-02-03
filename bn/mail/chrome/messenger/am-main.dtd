@@ -18,7 +18,7 @@
 <!ENTITY signatureHtml.label "HTML ব্যবহার করুন (যেমন, &lt;b&gt;bold&lt;/b&gt;) (L)">
 <!ENTITY signatureHtml.accesskey "L">
 <!ENTITY signatureFile.label "বিকল্প হিসেবে ফাইল হতে স্বাক্ষর সংযুক্ত করুন (টেক্সট, HTML, বা চিত্র): (T)">
-<!ENTITY signatureFile.accesskey "t">
+<!ENTITY signatureFile.accesskey "T">
 <!ENTITY edit.label "সম্পাদনা…">
 <!ENTITY choose.label "নির্বাচন… (C)">
 <!ENTITY choose.accesskey "C">

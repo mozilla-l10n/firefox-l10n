@@ -41,7 +41,7 @@
 
 <!ENTITY dimensionsBox.label "মাত্রা">
 <!ENTITY heightEditField.label "উচ্চতা (g):">
-<!ENTITY heightEditField.accessKey "G">
+<!ENTITY heightEditField.accessKey "g">
 <!ENTITY widthEditField.label "প্রস্থ (W):">
 <!ENTITY widthEditField.accessKey "W">
 <!ENTITY pixelsPopup.value "পিক্সেল">

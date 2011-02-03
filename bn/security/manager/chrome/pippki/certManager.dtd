@@ -133,8 +133,8 @@
 <!ENTITY certmgr.addException.accesskey "x">
 
 <!ENTITY exceptionMgr.title "নিরাপত্তা ব্যতিক্রম যোগ করুন">
-<!ENTITY exceptionMgr.exceptionButton "নিরাপত্তা ব্যতিক্রম নিশ্চিত করুন">
-<!ENTITY exceptionMgr.exceptionButtonAccess "C">
+<!ENTITY exceptionMgr.exceptionButton.label "Confirm Security Exception">
+<!ENTITY exceptionMgr.exceptionButton.accesskey "C">
 <!ENTITY exceptionMgr.supplementalWarning "আইনসঙ্গত ব্যাংক, বিপনী ও অন্যান্য সার্বজনীন সাইট দ্বারা এই অনুরোধ করা হবে না।">
 <!ENTITY exceptionMgr.certlocation.caption2 "সার্ভার">
 <!ENTITY exceptionMgr.certlocation.url "অবস্থান:">

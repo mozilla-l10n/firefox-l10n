@@ -45,31 +45,31 @@
 <!-- File menu -->
 
 <!ENTITY mapfileMenu.label "ফাইল (F)">
-<!ENTITY mapfileMenu.accesskey "f">
+<!ENTITY mapfileMenu.accesskey "F">
 <!ENTITY clearCmd.label "পরিষ্কার (a)">
 <!ENTITY clearCmd.accesskey "a">
 <!ENTITY closeCmd.label "বন্ধ (C)">
-<!ENTITY closeCmd.accesskey "c">
+<!ENTITY closeCmd.accesskey "C">
 <!-- Edit menu -->
 
 <!ENTITY mapeditMenu.label "সম্পাদনা (E)">
-<!ENTITY mapeditMenu.accesskey "e">
+<!ENTITY mapeditMenu.accesskey "E">
 <!ENTITY cutCmd.label "কাটা (t)">
 <!ENTITY cutCmd.accesskey "t">
 <!ENTITY copyCmd.label "অনুলিপি (C)">
-<!ENTITY copyCmd.accesskey "c">
+<!ENTITY copyCmd.accesskey "C">
 <!ENTITY pasteCmd.label "প্রতিলেপন (P)">
-<!ENTITY pasteCmd.accesskey "p">
+<!ENTITY pasteCmd.accesskey "P">
 <!ENTITY selectallCmd.label "সব নির্বাচন (S)">
-<!ENTITY selectallCmd.accesskey "s">
+<!ENTITY selectallCmd.accesskey "S">
 <!ENTITY propsCmd.label "হটস্পট বৈশিষ্ট্য (H)">
-<!ENTITY propsCmd.accesskey "h">
+<!ENTITY propsCmd.accesskey "H">
 <!-- View menu -->
 
 <!ENTITY mapviewMenu.label "প্রদর্শন (V)">
-<!ENTITY mapviewMenu.accesskey "v">
+<!ENTITY mapviewMenu.accesskey "V">
 <!ENTITY showhideTbarCmd.label "টুলবার লুকানো (T)">
-<!ENTITY showhideTbarCmd.accesskey "t">
+<!ENTITY showhideTbarCmd.accesskey "T">
 <!-- Scaling -->
 <!ENTITY mapviewScale.label "আকার পরিবর্তন (S)">
 <!ENTITY mapviewScale.accesskey "S">

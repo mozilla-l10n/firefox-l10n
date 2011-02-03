@@ -93,7 +93,7 @@
 <!ENTITY pasteNoFormatting.accesskey "o">
 <!ENTITY pasteNoFormatting.key "V">
 <!ENTITY pasteAs.label "এভাবে প্রতিলেপন করুন (A)">
-<!ENTITY pasteAs.accesskey "a">
+<!ENTITY pasteAs.accesskey "A">
 <!ENTITY publishSettings.label "সাইটের সেটিং প্রকাশ করা হচ্ছে... (b)">
 <!ENTITY publishSettings.accesskey "b">
 <!ENTITY pasteAsQuotationCmd.label "উদ্ধৃতি হিসেবে প্রতিলেপন (Q)">
@@ -456,19 +456,19 @@
 
 <!ENTITY NormalModeTab.label "সাধারণ">
 <!ENTITY NormalMode.label "সাধারণ সম্পাদন মোড (N)">
-<!ENTITY NormalMode.accesskey "n">
+<!ENTITY NormalMode.accesskey "N">
 <!ENTITY NormalMode.tooltip "সারণির সীমানা এবং নামসহ নোঙ্গর দেখানো হবে">
 <!ENTITY AllTagsMode.label "HTML ট্যাগ (a)">
-<!ENTITY AllTagsMode.accesskey "A">
+<!ENTITY AllTagsMode.accesskey "a">
 <!ENTITY AllTagsMode.tooltip "সব HTML ট্যাগের আইকন দেখানো হবে">
 
 <!ENTITY HTMLSourceMode.label "HTML সোর্স (H)">
 <!-- Toolbar has an image with "HTML" text, so don't include it in the string -->
 <!ENTITY SourceMode.label "সোর্স">
-<!ENTITY HTMLSourceMode.accesskey "h">
+<!ENTITY HTMLSourceMode.accesskey "H">
 <!ENTITY HTMLSourceMode.tooltip "HTML সোর্স সম্পাদনা করুন">
 <!ENTITY PreviewMode.label "প্রাকদর্শন (P)">
-<!ENTITY PreviewMode.accesskey "p">
+<!ENTITY PreviewMode.accesskey "P">
 <!ENTITY PreviewMode.tooltip "WYSIWYG হিসেবে দেখানো হবে (ব্রাউজারের মত)">
 <!-- LOCALIZATION NOTE: Do NOT translate text for 'SourceTabDirection'
      Use latin "ltr" if you want the <html> image to left of the 
@@ -481,18 +481,18 @@
 <!-- Structure Toolbar Context Menu items -->
 
 <!ENTITY structSelect.label "নির্বাচন করুন (S)">
-<!ENTITY structSelect.accesskey "s">
+<!ENTITY structSelect.accesskey "S">
 <!ENTITY structRemoveTag.label "ট্যাগ মুছে দিন (R)">
-<!ENTITY structRemoveTag.accesskey "r">
+<!ENTITY structRemoveTag.accesskey "R">
 <!ENTITY structChangeTag.label "ট্যাগ পরিবর্তন করুন (C)">
-<!ENTITY structChangeTag.accesskey "c">
+<!ENTITY structChangeTag.accesskey "C">
 <!-- TOC manipulation -->
 
 <!ENTITY insertTOC.label "প্রবেশ (I)">
-<!ENTITY insertTOC.accesskey "i">
+<!ENTITY insertTOC.accesskey "I">
 <!ENTITY updateTOC.label "হালনাগাদ (U)">
-<!ENTITY updateTOC.accesskey "u">
+<!ENTITY updateTOC.accesskey "U">
 <!ENTITY removeTOC.label "মুছে দিন (R)">
-<!ENTITY removeTOC.accesskey "r">
+<!ENTITY removeTOC.accesskey "R">
 <!ENTITY tocMenu.label "সূচীপত্র... (b)">
 <!ENTITY tocMenu.accesskey "b">

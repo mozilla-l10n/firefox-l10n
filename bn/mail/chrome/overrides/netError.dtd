@@ -127,8 +127,8 @@
 <!ENTITY phishingBlocked.longDesc "<p>এই পৃষ্ঠায় ব্যক্তিগত তথ্য প্রবেশ করলে পরিচয় প্রতারণার শিকার হওয়ার সম্ভবনা আছে।</p> 
 <p>এই ধরণের ওয়েব জালিয়াতি ফিসিং নামে পরিচিত, যাতে আপনার বিশ্বস্ত ওয়েব পেজ বা ইমেইল নকল করার  মাধ্যমে আপনাকে প্রতারনা করা হয়।</p>">
 
-<!ENTITY cspFrameAncestorBlocked.title "Blocked by Content Security Policy">
-<!ENTITY cspFrameAncestorBlocked.longDesc "<p>&brandShortName; prevented this page from loading in this way because the page has a content security policy that disallows it.</p>">
+<!ENTITY cspFrameAncestorBlocked.title "বিষয়বস্তু নিরাপত্তা নীতিমালা দ্বারা প্রতিরোধকৃত">
+<!ENTITY cspFrameAncestorBlocked.longDesc "<p>&brandShortName; পৃষ্ঠাটির একটি বিষয়বস্তু নিরাপত্তা নীতিমালা আছে যা অনুমোদন না করায় এই ভাবে লোড প্রতিরোধ করা হচ্ছে </p>">
 
 <!ENTITY securityOverride.linkText "অথবা একটি এক্সেপশন যোগ করতে পারেন...">
 <!ENTITY securityOverride.getMeOutOfHereButton "আমাকে এখান থেকে উদ্ধার করো!">
@@ -139,9 +139,7 @@ button is included here (instead of netError.xhtml) because it exposes
 functionality specific to thunderbird. -->
 
 
-<!ENTITY securityOverride.warningContent "
-<p>You should not add an exception if you are using an internet connection that you do not trust completely or if you are not used to seeing a warning for this server.</p>
-
-<button id='getMeOutOfHereButton'>&securityOverride.getMeOutOfHereButton;</button>
-<button id='exceptionDialogButton'>&securityOverride.exceptionButtonLabel;</button>
-">
+<!ENTITY securityOverride.warningContent "<p>যেই ইন্টারনেট সংযোগ সম্পূর্নরূপে বিস্বস্ত নয় অথবা সার্ভারে সতর্কীকরণ দেখতে অভ্যস্ত নন সেখানে একটি ব্যতিক্রম যুক্ত করা উচিত নয় </p> 
+ 
+<button id='getMeOutOfHereButton'>&securityOverride.getMeOutOfHereButton;</button> 
+<button id='exceptionDialogButton'>&securityOverride.exceptionButtonLabel;</button>">

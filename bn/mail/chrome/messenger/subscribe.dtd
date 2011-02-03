@@ -45,11 +45,11 @@
 <!ENTITY refreshButton.label "রিফ্রেশ (R)">
 <!ENTITY refreshButton.accesskey "R">
 <!ENTITY stopButton.label "থামুন (t)">
-<!ENTITY stopButton.accesskey "T">
+<!ENTITY stopButton.accesskey "t">
 <!ENTITY server.label "অ্যাকাউন্ট (A):">
 <!ENTITY server.accesskey "A">
 <!ENTITY subscribedHeader.label "সাবস্ক্রাইব">
 <!-- commenting out until bug 38906 is fixed 
 <!ENTITY messagesHeader.label         "Messages"> -->
 <!ENTITY namefield.label "আইটেম দেখান, যাতে থাকবে (o):">
-<!ENTITY namefield.accesskey "O">
+<!ENTITY namefield.accesskey "o">

@@ -43,7 +43,7 @@ that require it.  -->
 <!ENTITY itemCookies.label "কুকি (C)">
 <!ENTITY itemCookies.accesskey "C">
 <!ENTITY itemCache.label "ক্যাশ (a)">
-<!ENTITY itemCache.accesskey "A">
+<!ENTITY itemCache.accesskey "a">
 <!ENTITY itemOfflineApps.label "অফলাইন ওয়েবসাইটের তথ্য (O)">
 <!ENTITY itemOfflineApps.accesskey "O">
 <!ENTITY itemDownloadHistory.label "ডাউনলোড ইতিহাস (D)">

@@ -46,7 +46,7 @@
 <!ENTITY tableColumns.label "কলাম (C):">
 <!ENTITY tableColumns.accessKey "C">
 <!ENTITY tableHeight.label "উচ্চতা (g):">
-<!ENTITY tableHeight.accessKey "G">
+<!ENTITY tableHeight.accessKey "g">
 <!ENTITY tableWidth.label "প্রস্থ (W):">
 <!ENTITY tableWidth.accessKey "W">
 <!ENTITY tableBorderSpacing.label "সীমানা এবং ফাঁকা জায়গা">
@@ -61,7 +61,7 @@
 <!ENTITY tableAlignment.label "সারণি সাজানো (T):">
 <!ENTITY tableAlignment.accessKey "T">
 <!ENTITY tableCaption.label "ক্যাপশন (n):">
-<!ENTITY tableCaption.accessKey "N">
+<!ENTITY tableCaption.accessKey "n">
 <!ENTITY tableCaptionAbove.label "সারণির ‌উপরে">
 <!ENTITY tableCaptionBelow.label "সারণির নিচে">
 <!ENTITY tableCaptionLeft.label "সারণির বামে">
@@ -80,7 +80,7 @@
 <!ENTITY applyBeforeChange.label "নির্বাচিত অংশ পরিবর্তন করার পূর্বে বর্তমান পরিবর্তন কার্যকর করা হবে।">
 <!ENTITY cellContentAlignment.label "বিষয়বস্তু সাজানো">
 <!ENTITY cellHorizontal.label "অনুভূমিক (z):">
-<!ENTITY cellHorizontal.accessKey "Z">
+<!ENTITY cellHorizontal.accessKey "z">
 <!ENTITY cellVertical.label "উল্লম্ব (V):">
 <!ENTITY cellVertical.accessKey "V">
 <!ENTITY cellStyle.label "ঘরের শৈলী (C):">

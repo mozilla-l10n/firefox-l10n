@@ -98,7 +98,7 @@
 <!ENTITY PagerNumber.label "পেজার (g):">
 <!ENTITY PagerNumber.accesskey "g">
 <!ENTITY CellularNumber.label "মোবাইল (M):">
-<!ENTITY CellularNumber.accesskey "m">
+<!ENTITY CellularNumber.accesskey "M">
 
 <!ENTITY Home.tab "ব্যক্তিগত">
 <!ENTITY Home.accesskey "P">
@@ -131,7 +131,7 @@
 <!ENTITY Department.label "বিভাগ (m):">
 <!ENTITY Department.accesskey "m">
 <!ENTITY Company.label "প্রতিষ্ঠান (O):">
-<!ENTITY Company.accesskey "o">
+<!ENTITY Company.accesskey "O">
 <!ENTITY WorkAddress.label "ঠিকানা (A):">
 <!ENTITY WorkAddress.accesskey "A">
 <!ENTITY WorkAddress2.label "">
@@ -172,6 +172,6 @@
 <!ENTITY BrowsePhoto.accesskey "r">
 <!ENTITY PhotoURL.label "ওয়েবে (b)">
 <!ENTITY PhotoURL.accesskey "b">
-<!ENTITY PhotoURL.placeholder "Paste or type the web address of a photo">
+<!ENTITY PhotoURL.placeholder "ছবির ওয়েব ঠিকানাটি প্রতিলেপন অথবা টাইপ করুন">
 <!ENTITY UpdatePhoto.label "হালনাগাদ (U)">
-<!ENTITY UpdatePhoto.accesskey "u">
+<!ENTITY UpdatePhoto.accesskey "U">

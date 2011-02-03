@@ -49,10 +49,10 @@
 <!ENTITY title.label "টুলটিপ (T):">
 <!ENTITY title.accessKey "T">
 <!ENTITY title.tooltip "html 'title' বৈশিষ্ট্য যেটি একটি টুলটিপ হিসেবে দেখানো হয়">
-<!ENTITY altText.label "বিকল্প পাঠ্য (A):">
+<!ENTITY altText.label "বিকল্প টেক্সট (A):">
 <!ENTITY altText.accessKey "A">
 <!ENTITY altTextEditField.tooltip "ছবির জায়গায় দেখানোর জন্য পাঠ্য লিখুন">
-<!ENTITY noAltText.label "বিকল্প পাঠ্য ব্যবহার করা হবে না (D)">
+<!ENTITY noAltText.label "বিকল্প টেক্সট ব্যবহার করা হবে না (D)">
 <!ENTITY noAltText.accessKey "D">
 
 <!ENTITY previewBox.label "ছবির প্রাকদর্শন">
@@ -67,7 +67,7 @@
 <!ENTITY customSizeRadio.accessKey "S">
 <!ENTITY customSizeRadio.tooltip "পৃষ্ঠার প্রদর্শন অনুযায়ী ছবির আকার পরিবর্তন করা হবে">
 <!ENTITY heightEditField.label "উচ্চতা (g):">
-<!ENTITY heightEditField.accessKey "G">
+<!ENTITY heightEditField.accessKey "g">
 <!ENTITY widthEditField.label "প্রস্থ (W):">
 <!ENTITY widthEditField.accessKey "W">
 <!ENTITY constrainCheckbox.label "বাধা (C)">
@@ -100,7 +100,7 @@
 <!-- These controls are in the Link Box -->
 
 <!ENTITY showImageLinkBorder.label "সংযুক্ত ছবির চারদিকে সীমানা দেখানো (b)">
-<!ENTITY showImageLinkBorder.accessKey "B">
+<!ENTITY showImageLinkBorder.accessKey "b">
 <!-- These tabs are currently used in the image input dialog -->
 
 <!ENTITY imageInputTab.label "ফরম">

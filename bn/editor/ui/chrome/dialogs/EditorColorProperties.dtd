@@ -42,16 +42,16 @@
 <!ENTITY defaultColorsRadio.accessKey "D">
 <!ENTITY defaultColorsRadio.tooltip "শুধুমাত্র পাঠকের ব্রাউজারের রং-এর সেটিং ব্যবহার করা হবে">
 <!ENTITY customColorsRadio.label "স্বনির্বাচিত রং ব্যবহার (c):">
-<!ENTITY customColorsRadio.accessKey "C">
+<!ENTITY customColorsRadio.accessKey "c">
 <!ENTITY customColorsRadio.tooltip "এই রঙের সেটিং পাঠকের ব্রাউজারের সেটিং উপেক্ষা করে">
 
-<!ENTITY normalText.label "সাধারণ পাঠ্য (N)">
+<!ENTITY normalText.label "সাধারণ টেক্সট (N)">
 <!ENTITY normalText.accessKey "N">
-<!ENTITY linkText.label "লিংক পাঠ্য (L)">
+<!ENTITY linkText.label "লিংক টেক্সট (L)">
 <!ENTITY linkText.accessKey "L">
-<!ENTITY activeLinkText.label "সক্রিয় লিংক পাঠ্য (A)">
+<!ENTITY activeLinkText.label "সক্রিয় লিংক টেক্সট (A)">
 <!ENTITY activeLinkText.accessKey "A">
-<!ENTITY visitedLinkText.label "প্রদর্শিত লিংক পাঠ্য (V)">
+<!ENTITY visitedLinkText.label "প্রদর্শিত লিংক টেক্সট (V)">
 <!ENTITY visitedLinkText.accessKey "V">
 <!ENTITY background.label "পটভূমি (B):">
 <!ENTITY background.accessKey "B">

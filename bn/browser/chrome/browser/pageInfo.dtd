@@ -37,8 +37,8 @@
 # ***** END LICENSE BLOCK *****
 -->
 
-<!ENTITY pageInfoWindow.width "700">
-<!ENTITY pageInfoWindow.height "700">
+<!ENTITY pageInfoWindow.width "৬০০">
+<!ENTITY pageInfoWindow.height "৭০০">
 
 <!ENTITY copy.key "C">
 <!ENTITY copy.label "অনুলিপি (C)">
@@ -99,8 +99,8 @@
 <!ENTITY permInstall "এক্সটেনশন বা থীম ইনস্টলেশন">
 <!ENTITY permGeo "শেয়ার অবস্থান">
 
-<!ENTITY permIndexedDB "Maintain Offline Storage">
-<!ENTITY permClearStorage "Clear Storage">
+<!ENTITY permIndexedDB "অফলাইন সংরক্ষন ব্যবস্থাপনা">
+<!ENTITY permClearStorage "সংরক্ষন অপসারন">
 <!ENTITY permClearStorage.accesskey "C">
 
 <!ENTITY securityTab "নিরাপত্তা (S)">

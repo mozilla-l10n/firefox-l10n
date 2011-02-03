@@ -3,7 +3,7 @@
 <!ENTITY window.macWidth "43em">
 <!ENTITY window.unixWidth "41em">
 
-<!ENTITY language.label "ভাষা (F):">
+<!ENTITY language.label "ফন্ট: (F)">
 <!ENTITY language.accesskey "F">
 
 <!ENTITY size.label "আকার:">
@@ -54,7 +54,7 @@
 <!ENTITY font.langGroup.tibetan "Tibetan">
 <!-- Minimum font size -->
 <!ENTITY minSize.label "ফন্টের সর্বনিম্ন মাপ (O):">
-<!ENTITY minSize.accesskey "o">
+<!ENTITY minSize.accesskey "O">
 <!ENTITY minSize.none "-">
 <!-- default font type -->
 

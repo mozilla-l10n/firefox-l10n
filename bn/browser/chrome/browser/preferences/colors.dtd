@@ -7,16 +7,16 @@
 
 <!ENTITY color "লেখা ও পটভূমি">
 <!ENTITY textColor.label "লেখা (T):">
-<!ENTITY textColor.accesskey "t">
+<!ENTITY textColor.accesskey "T">
 <!ENTITY backgroundColor.label "পটভূমি (B):">
-<!ENTITY backgroundColor.accesskey "b">
+<!ENTITY backgroundColor.accesskey "B">
 <!ENTITY useSystemColors.label "সিস্টেমের রং ব্যবহার করা হবে (S)">
-<!ENTITY useSystemColors.accesskey "s">
+<!ENTITY useSystemColors.accesskey "S">
 
 <!ENTITY underlineLinks.label "লিংক নিম্নরেখাঙ্কিত করা হবে (U)">
-<!ENTITY underlineLinks.accesskey "u">
+<!ENTITY underlineLinks.accesskey "U">
 <!ENTITY links "লিংকের রং">
 <!ENTITY linkColor.label "অপরিদর্শিত লিংক (L):">
-<!ENTITY linkColor.accesskey "l">
+<!ENTITY linkColor.accesskey "L">
 <!ENTITY visitedLinkColor.label "পরিদর্শিত লিংক (V):">
-<!ENTITY visitedLinkColor.accesskey "v">
+<!ENTITY visitedLinkColor.accesskey "V">
