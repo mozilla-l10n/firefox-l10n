@@ -173,3 +173,6 @@
 
 <!ENTITY bidiSwitchPageDirectionItem.label "Changer la direction de la page">
 <!ENTITY bidiSwitchPageDirectionItem.accesskey "g">
+
+<!-- LOCALIZATION NOTE (syncTabsMenu.label): This appears in the history menu -->
+<!ENTITY syncTabsMenu.label "Onglets d'autres ordinateurs">
