@@ -77,6 +77,7 @@
 <!ENTITY forwardCmd.label             "ଆଗକୁ">
 <!ENTITY forwardCmd.accesskey         "F">
 <!ENTITY forwardButton.tooltip        "ଗୋଟିଏ ପୃଷ୍ଠା ଆଗକୁ ଯାଆନ୍ତୁ">
+<!ENTITY toggleAddonBarCmd.key        "/">
 
 <!ENTITY reloadCmd.label              "ପୁନଃସ୍ଥାପନ କରନ୍ତୁ">
 <!ENTITY reloadCmd.accesskey          "R">
