@@ -19,8 +19,6 @@
                        for the help button in the menubar but Gnome does not.   -->
 <!ENTITY helpMenuWin.label        "Көмек"> 
 <!ENTITY helpMenuWin.accesskey    "К">
-<!ENTITY helpForIEUsers.label     "Internet Explorer пайдаланушылары үшін">
-<!ENTITY helpForIEUsers.accesskey "п">
 <!ENTITY helpTroubleshootingInfo.label      "Техникалық ақпарат">
 <!ENTITY helpTroubleshootingInfo.accesskey  "а">
 
