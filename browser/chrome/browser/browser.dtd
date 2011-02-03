@@ -580,3 +580,4 @@ just addresses the organization to follow, e.g. "This site is run by " -->
 <!ENTITY syncToolbarButton.label      "Sinchronizuoti">
 
 <!ENTITY addonBarCloseButton.tooltip  "Užverti priedų juostą">
+<!ENTITY toggleAddonBarCmd.key        "/">
