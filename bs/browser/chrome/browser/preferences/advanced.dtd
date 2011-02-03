@@ -21,6 +21,8 @@
 <!ENTITY allowHWAccel.accesskey          "h">
 <!ENTITY checkSpelling.label             "Provjeravaj pravopis dok kucam">
 <!ENTITY checkSpelling.accesskey         "P">
+<!ENTITY doNotTrack.label                "Reci web stranicama da ne želim da me prate">
+<!ENTITY doNotTrack.accesskey            "d">
 
 <!ENTITY systemDefaults.label            "Izvorne sistemske vrijednosti">
 <!ENTITY alwaysCheckDefault.label        "Uvijek prilikom pokretanja provjeri da li je &brandShortName; glavni browser"><!--XXX-->
