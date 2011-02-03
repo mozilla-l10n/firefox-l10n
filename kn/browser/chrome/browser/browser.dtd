@@ -556,4 +556,4 @@ can reach it easily. -->
 <!ENTITY showAllBookmarks2.label "ಎಲ್ಲಾ ಬುಕ್‌ಮಾರ್ಕುಗಳನ್ನು ತೋರಿಸು">
 
 <!ENTITY addonBarCloseButton.tooltip  "ಆಡ್‌-ಆನ್ ಪಟ್ಟಿಕೆಯನ್ನು ಮುಚ್ಚು">
-
+<!ENTITY toggleAddonBarCmd.key        "/">
