@@ -10,11 +10,7 @@
                        for the help button in the menubar but Gnome does not.   -->
 <!ENTITY helpMenuWin.label        "ସହାୟତା"> 
 <!ENTITY helpMenuWin.accesskey    "H">
-<!ENTITY helpForIEUsers.label     "ଇଣ୍ଟରନେଟ ଏକ୍ସପ୍ଲରର୍ ଚାଳକମାନଙ୍କ ପାଇଁ">
-<!ENTITY helpForIEUsers.accesskey "I">
 <!ENTITY hideThisAppCmdMac.commandkey   "H">
-
-
 <!ENTITY preferencesCmdMac.label        "ପସନ୍ଦ…">
 <!ENTITY preferencesCmdMac.commandkey   ",">
 
