@@ -16,7 +16,7 @@
 <!ENTITY edit.accesskey "t">
 
 <!ENTITY addEngine.label "আরও ইনজিন অনুসন্ধান... (a)">
-<!ENTITY addEngine.accesskey "A">
+<!ENTITY addEngine.accesskey "a">
 
 <!ENTITY enableSuggest.label "অনুসন্ধানে পরামর্শ দেয়া হবে (S)">
 <!ENTITY enableSuggest.accesskey "S">

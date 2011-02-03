@@ -1,18 +1,18 @@
 <!ENTITY autoconfigWizard.title "মেইল অ্যাকাউন্ট ব্যবস্থাপনা">
 <!ENTITY name.label "আপনার নাম (n)">
 <!ENTITY name.accesskey "n">
-<!ENTITY name.placeholder "First Last">
+<!ENTITY name.placeholder "প্রথম শেষ">
 <!ENTITY name.text "আপনার নাম, অন্যরা আপনার যে নামটি দেখবে">
 <!ENTITY email.label "ইমেইল ঠিকানা (l):">
 <!ENTITY email.accesskey "l">
 <!ENTITY email.placeholder "email@example.com">
 <!ENTITY password.label "পাসওয়ার্ড (P):">
 <!ENTITY password.accesskey "P">
-<!ENTITY password.placeholder "Password">
+<!ENTITY password.placeholder "পাসওয়ার্ড">
 <!ENTITY password.text "ঐচ্ছিক, শুধু ব্যবহারকারীর নামের বৈধতা যাচাই এর জন্য ব্যবহার করা হবে">
 
 <!ENTITY accountInformation.label "অ্যাকাউন্ট সংক্রান্ত তথ্য">
-<!ENTITY username2.label "ব্যনহারকারীর নাম:">
+<!ENTITY username2.label "ব্যবহারকারীর নাম:">
 <!ENTITY incoming.label "আগত:">
 <!ENTITY outgoing.label "বহির্গামী:">
 <!ENTITY noEncryption.label "কোনটি না">

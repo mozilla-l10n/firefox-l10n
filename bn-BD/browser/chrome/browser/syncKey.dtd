@@ -1,14 +1,14 @@
-<!ENTITY syncKey.page.title               "Your &syncBrand.fullName.label; Key">
-<!ENTITY syncKey.page.description         "This key is used to decode the data in your &syncBrand.fullName.label; account. You will need to enter the key each time you configure &syncBrand.fullName.label; on a new computer or device.">
-<!ENTITY syncKey.keepItSecret.heading     "Keep it secret">
-<!ENTITY syncKey.keepItSecret.description "Your &syncBrand.fullName.label; account is encrypted to protect your privacy. Without this key, it would take years for anyone to decode your personal information. You are the only person who holds this key. This means you're the only one who can access your &syncBrand.fullName.label; data.">
-<!ENTITY syncKey.keepItSafe.heading       "Keep it safe">
-<!ENTITY syncKey.keepItSafe1.description  "Do not lose this key.">
-<!ENTITY syncKey.keepItSafe2.description  " We don't keep a copy of your key (that wouldn't be keeping it secret!) so ">
-<!ENTITY syncKey.keepItSafe3.description  "we can't help you recover it">
-<!ENTITY syncKey.keepItSafe4.description  " if it's lost. You'll need to use this key any time you connect a new computer or device to &syncBrand.fullName.label;.">
-<!ENTITY syncKey.findOutMore1.label       "Find out more about &syncBrand.fullName.label; and your privacy at ">
-<!ENTITY syncKey.findOutMore2.label       ".">
-<!ENTITY syncKey.footer1.label            "&syncBrand.fullName.label; Terms of Service are available at ">
-<!ENTITY syncKey.footer2.label            ". The Privacy Policy is available at ">
-<!ENTITY syncKey.footer3.label            ".">
+<!ENTITY syncKey.page.title "আপনার &syncBrand.fullName.label; কী">
+<!ENTITY syncKey.page.description "আপনার &syncBrand.fullName.label; অ্যাকাউন্টে ডাটা ডিকোড করার জন্য এ কী ব্যবহৃত হয়। আপনি নতুন কোনো কম্পিউটার বা ডিভাইসে যতবার syncBrand.fullName.label কনফিগার করবেন ততবার এ কী দিতে হবে।">
+<!ENTITY syncKey.keepItSecret.heading "এটা গোপন রাখুন">
+<!ENTITY syncKey.keepItSecret.description "আপনার গোপনীয়তা রক্ষা করার জন্য &syncBrand.fullName.label; এনক্রিপ্টকৃত করা হয়েছে। এ কী ছাড়া আপনার ব্যক্তিগত কোনো তথ্য ডিকোড করতে কারও বছরের পর বছর লেগে যেতে পারে। একমাত্র আপনার কাছেই এ কী টি আছে। তার মানে হচ্ছে আপনিই একমাত্র &syncBrand.fullName.label; ডাটা ব্যবহার করতে পারবেন।">
+<!ENTITY syncKey.keepItSafe.heading "এটা নিরাপদ রাখুন">
+<!ENTITY syncKey.keepItSafe1.description "এই কী হারাবেন না।">
+<!ENTITY syncKey.keepItSafe2.description "আপনার কাছে এ কী (যা এটা গোপন রাখবে না! )এর কোনো অনুলিপি নেই তাই">
+<!ENTITY syncKey.keepItSafe3.description "এটা পুনরূদ্ধার করার ক্ষেত্রে সহায়তা করতে পারিনা">
+<!ENTITY syncKey.keepItSafe4.description "যদি হারায়। আপনি যখনই &syncBrand.fullName.label; কোনো নতুন কম্পিউটার বা ডিভাইসে সংযুক্ত করবেন তখন এ কী প্রয়োজন।">
+<!ENTITY syncKey.findOutMore1.label "&syncBrand.fullName.label; এবং আপনার গোপনীয়তা সম্পর্কে আরও জানতে ">
+<!ENTITY syncKey.findOutMore2.label ".">
+<!ENTITY syncKey.footer1.label "&syncBrand.fullName.label; পরিসেবার শর্তাবলী পাওয়া যায় ">
+<!ENTITY syncKey.footer2.label ".  গোপনীয়তা নীতি পাওয়া যায়">
+<!ENTITY syncKey.footer3.label ".">

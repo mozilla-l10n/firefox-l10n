@@ -29,7 +29,7 @@
 <!ENTITY cmd.findInBookmarks.label "বুকমার্কে অনুসন্ধান… (F)">
 <!ENTITY cmd.findInBookmarks.accesskey "F">
 <!ENTITY cmd.findCurrent.label "বর্তমান সংকলনে অনুসন্ধান… (I)">
-<!ENTITY cmd.findCurrent.accesskey "i">
+<!ENTITY cmd.findCurrent.accesskey "I">
 
 <!ENTITY cmd.exportHTML.label "HTML এক্সপোর্ট… (E)">
 <!ENTITY cmd.exportHTML.accesskey "E">
@@ -55,12 +55,12 @@
 <!ENTITY cmd.open_window.label "নতুন উইন্ডোতে খুলুন (N)">
 <!ENTITY cmd.open_window.accesskey "N">
 <!ENTITY cmd.open_tab.label "নতুন ট্যাবে খুলুন (W)">
-<!ENTITY cmd.open_tab.accesskey "w">
+<!ENTITY cmd.open_tab.accesskey "W">
 <!ENTITY cmd.open_all_in_tabs.label "ট্যাবে সব খুলুন (O)">
 <!ENTITY cmd.open_all_in_tabs.accesskey "O">
 
 <!ENTITY cmd.properties.label "বৈশিষ্ট্যাবলী (I)">
-<!ENTITY cmd.properties.accesskey "i">
+<!ENTITY cmd.properties.accesskey "I">
 
 <!ENTITY cmd.sortby_name.label "নাম অনুসারে সাজান (S)">
 <!ENTITY cmd.sortby_name.accesskey "S">
@@ -69,7 +69,7 @@
 <!ENTITY cmd.new_bookmark.label "নতুন বুকমার্ক… (B)">
 <!ENTITY cmd.new_bookmark.accesskey "B">
 <!ENTITY cmd.new_folder.label "নতুন ফোল্ডার… (O)">
-<!ENTITY cmd.new_folder.accesskey "o">
+<!ENTITY cmd.new_folder.accesskey "O">
 <!ENTITY cmd.context_new_folder.accesskey "F">
 <!ENTITY cmd.new_separator.label "নতুন বিভাজক (S)">
 <!ENTITY cmd.new_separator.accesskey "S">
@@ -94,10 +94,12 @@
 
 <!ENTITY search.label "অনুসন্ধান (S):">
 <!ENTITY search.accesskey "S">
+
+<!ENTITY search.in.label "অনুসন্ধান:">
 <!ENTITY search.scopeFolder.label "নির্বাচিত ফোল্ডার (F)">
-<!ENTITY search.scopeFolder.accesskey "f">
+<!ENTITY search.scopeFolder.accesskey "F">
 <!ENTITY search.scopeBookmarks.label "বুকমার্ক (K)">
-<!ENTITY search.scopeBookmarks.accesskey "k">
+<!ENTITY search.scopeBookmarks.accesskey "K">
 <!ENTITY search.scopeDownloads.label "ডাউনলোড (D)">
 <!ENTITY search.scopeDownloads.accesskey "D">
 <!ENTITY search.scopeHistory.label "ইতিহাস (H)">
@@ -109,7 +111,7 @@
 
 <!ENTITY maintenance.label "ইমপোর্ট ও ব্যাক-আপ (I)">
 <!ENTITY maintenance.accesskey "I">
-<!ENTITY maintenance.tooltip "Import and backup your bookmarks">
+<!ENTITY maintenance.tooltip "আপনার বুকমার্ক ইম্পোর্ট এবং ব্যাকআপ">
 
 <!ENTITY backCmd.label "পূর্ববর্তী">
 <!ENTITY backButton.tooltip "পূর্ববর্তী স্থানে ফিরে যাবে">
@@ -117,9 +119,24 @@
 <!ENTITY forwardCmd.label "পরবর্তী">
 <!ENTITY forwardButton.tooltip "পরবর্তী স্থানে এগিয়ে যাবে">
 
-<!ENTITY detailsPane.more.label "আরও (E)">
+<!ENTITY detailsPane.more.label "আরও (e)">
 <!ENTITY detailsPane.more.accesskey "e">
-<!ENTITY detailsPane.less.label "কম (E)">
+<!ENTITY detailsPane.less.label "কম (e)">
 <!ENTITY detailsPane.less.accesskey "e">
 <!ENTITY detailsPane.noPreviewAvailable.label "প্রাকদর্শন">
-<!ENTITY detailsPane.selectAnItemText.description "একটি আইটেম নির্বাচন করে তার বৈশিষ্ট্য প্রদর্শন ও পরিবর্তন করুন">
+<!ENTITY detailsPane.selectAnItemText.description "একটি আইটেম নির্বাচন করে তার বৈশিষ্ট্য প্রদর্শন ও পরিবর্তন">
+
+<!ENTITY find.label "অনুসন্ধান: (S)">
+<!ENTITY find.accesskey "S">
+<!ENTITY view.label "প্রদর্শন (w)">
+<!ENTITY view.accesskey "w">
+<!ENTITY byDate.label "তারিখ অনুসারে (D)">
+<!ENTITY byDate.accesskey "D">
+<!ENTITY bySite.label "সাইট অনুসারে (S)">
+<!ENTITY bySite.accesskey "S">
+<!ENTITY byMostVisited.label "সর্বাধিক প্রদর্শিত (V)">
+<!ENTITY byMostVisited.accesskey "V">
+<!ENTITY byLastVisited.label "শেষবার প্রদর্শিত (L)">
+<!ENTITY byLastVisited.accesskey "L">
+<!ENTITY byDayAndSite.label "তারিখ ও সাইট অনুসারে (t)">
+<!ENTITY byDayAndSite.accesskey "t">

@@ -63,7 +63,7 @@
 <!ENTITY pref.security.general.rHeader "সাধারণ নিরাপত্তা ব্যবস্থার সেটিং">
 <!ENTITY pref.security.general.header "সাধারণ নিরাপত্তা ব্যবস্থার সেটিং">
 <!ENTITY pref.security.general.level.title "নিরাপত্তার মাত্রা">
-<!ENTITY pref.security.general.paranoid.label "প্যাটানয়েড নিরাপত্তা সেটিং ব্যবহার করুন">
+<!ENTITY pref.security.general.paranoid.label "প্যারানয়েড নিরাপত্তা সেটিং ব্যবহার করুন">
 <!ENTITY pref.security.general.certificates.title "সার্টিফিকেট">
 <!ENTITY pref.security.general.manageCert.label "সার্টিফিকেটের ব্যবস্থাপনা">
 <!-- Downloading a cert -->

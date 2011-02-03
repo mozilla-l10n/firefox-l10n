@@ -6,9 +6,9 @@
 <!ENTITY removepermission.label "সাইট অপসারণ (R)">
 <!ENTITY removepermission.accesskey "R">
 <!ENTITY removeallpermissions.label "সব সাইট অপসারণ (E)">
-<!ENTITY removeallpermissions.accesskey "e">
+<!ENTITY removeallpermissions.accesskey "E">
 <!ENTITY address.label "ওয়েবসাইটের ঠিকানা (D):">
-<!ENTITY address.accesskey "d">
+<!ENTITY address.accesskey "D">
 <!ENTITY block.label "প্রতিরোধ করা হবে (B)">
 <!ENTITY block.accesskey "B">
 <!ENTITY session.label "সেশনের জন্য অনুমোদন করা হবে (S)">

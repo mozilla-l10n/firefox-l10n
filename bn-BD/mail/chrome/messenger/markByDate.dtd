@@ -37,6 +37,6 @@
 
 <!ENTITY messageMarkByDate.label "তারিখ অনুসারে পড়া বার্তাগুলোকে চিহ্নিত করা হবে">
 <!ENTITY markByDateLower.label "বার্তাকে এখান থেকে পড়া হয়েছে হিসেবে চিহ্নিত করা (f):">
-<!ENTITY markByDateLower.accesskey "F">
+<!ENTITY markByDateLower.accesskey "f">
 <!ENTITY markByDateUpper.label "প্রাপক (T):">
 <!ENTITY markByDateUpper.accesskey "T">

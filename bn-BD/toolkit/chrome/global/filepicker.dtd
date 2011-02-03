@@ -13,5 +13,5 @@
 <!ENTITY noPermissionError.label "এই ডিরেক্টরির বিষয়বস্তু দেখার জন্য প্রয়োজনীয় অনুমতি আপনার নেই।">
 
 <!ENTITY folderUp.tooltiptext "এক ধাপ উপরে যান">
-<!ENTITY folderHome.tooltiptext "হোমে যান">
+<!ENTITY folderHome.tooltiptext "প্রধান পাতায় যান">
 <!ENTITY folderNew.tooltiptext "নতুন ডিরেক্টরি তৈরি">

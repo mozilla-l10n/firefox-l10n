@@ -9,7 +9,7 @@
 <!ENTITY editBookmarkOverlay.liveTitlesSeparator.label "লাইভ শিরোনাম">
 <!ENTITY editBookmarkOverlay.folder.label "ফোল্ডার:">
 <!ENTITY editBookmarkOverlay.foldersExpanderDown.tooltip "সব বুকমার্ক ফোল্ডার প্রদর্শন">
-<!ENTITY editBookmarkOverlay.expanderUp.tooltip "আড়াল করুন">
+<!ENTITY editBookmarkOverlay.expanderUp.tooltip "আড়াল">
 <!ENTITY editBookmarkOverlay.tags.label "ট্যাগ: (T)">
 <!ENTITY editBookmarkOverlay.tags.accesskey "T">
 <!ENTITY editBookmarkOverlay.tagsEmptyDesc.label "কমা চিহ্ন দিয়ে ট্যাগ আলাদা করা হবে">
@@ -19,7 +19,7 @@
 <!ENTITY editBookmarkOverlay.keyword.accesskey "K">
 <!ENTITY editBookmarkOverlay.tagsExpanderDown.tooltip "সব ট্যাগ প্রদর্শন">
 <!ENTITY editBookmarkOverlay.loadInSidebar.label "বুকমার্কটি সাইডবারে লোড করা হবে (H)">
-<!ENTITY editBookmarkOverlay.loadInSidebar.accesskey "h">
+<!ENTITY editBookmarkOverlay.loadInSidebar.accesskey "H">
 <!ENTITY editBookmarkOverlay.choose.label "নির্বাচন…">
 <!ENTITY editBookmarkOverlay.newFolderButton.label "নতুন ফোল্ডার (O)">
-<!ENTITY editBookmarkOverlay.newFolderButton.accesskey "o">
+<!ENTITY editBookmarkOverlay.newFolderButton.accesskey "O">

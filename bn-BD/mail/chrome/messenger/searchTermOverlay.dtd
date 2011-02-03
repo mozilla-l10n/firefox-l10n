@@ -1,9 +1,9 @@
-<!ENTITY matchAll.label "নিম্নের সবগুলো মেলানো হবে (a)">
+<!ENTITY matchAll.label "নিম্নের সব মেলানো হবে (a)">
 <!ENTITY matchAll.accesskey "a">
 <!ENTITY matchAny.label "নিম্নের যেকোনো একটি মেলানো হবে (o)">
 <!ENTITY matchAny.accesskey "o">
 <!ENTITY matchAllMsgs.label "সকল বার্তা মেলানো হবে (M)">
-<!ENTITY matchAllMsgs.accesskey "m">
+<!ENTITY matchAllMsgs.accesskey "M">
 <!-- LOCALIZATION NOTE  
   The values below are used to control the widths of the search widgets.
   Change the values only when the localized strings in the popup menus

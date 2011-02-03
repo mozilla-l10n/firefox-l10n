@@ -24,8 +24,8 @@
 <!ENTITY globalInbox.label "গ্লোবাল ইনবক্স (স্থানীয় ফোল্ডার অ্যাকাউন্ট) (G)">
 <!ENTITY globalInbox.accesskey "G">
 <!ENTITY accountDirectory.label "এই সার্ভারের অ্যাকাউন্টের ইনবক্স (s)">
-<!ENTITY accountDirectory.accesskey "S">
+<!ENTITY accountDirectory.accesskey "s">
 <!ENTITY deferToServer.label "ভিন্ন অ্যাকাউন্টের ইনবক্স (d)">
-<!ENTITY deferToServer.accesskey "D">
+<!ENTITY deferToServer.accesskey "d">
 <!ENTITY deferGetNewMail.label "যখন নতুন মেইল পাবেন, এই সার্ভারটি অন্তর্ভুক্ত করা হবে (I)">
 <!ENTITY deferGetNewMail.accesskey "I">

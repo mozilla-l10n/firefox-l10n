@@ -13,6 +13,6 @@
 <!ENTITY button.importOPML.label "ইম্পোর্ট (I)">
 <!ENTITY button.importOPML.accesskey "I">
 <!ENTITY button.exportOPML.label "এক্সপোর্ট (x)">
-<!ENTITY button.exportOPML.accesskey "X">
+<!ENTITY button.exportOPML.accesskey "x">
 
 <!ENTITY cmd.close.commandKey "w">

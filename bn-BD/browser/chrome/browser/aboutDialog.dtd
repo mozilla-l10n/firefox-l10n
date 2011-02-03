@@ -1,50 +1,50 @@
-<!ENTITY aboutDialog.title "&brandFullName; পরিচিতি">
+<!ENTITY aboutDialog.title "&brandFullName; সম্পর্কিত">
 
-<!ENTITY community.start2 "&brandShortName; is designed by ">
+<!ENTITY community.start2 "&brandShortName; নকশা করা হয়েছে">
 <!-- LOCALIZATION NOTE (community.mozillaLink): This is a link title that links to http://www.mozilla.org/. -->
 <!ENTITY community.mozillaLink "&vendorShortName;">
-<!ENTITY community.middle2 ", a ">
+<!ENTITY community.middle2 ", a">
 <!-- LOCALIZATION NOTE (community.creditsLink): This is a link title that links to about:credits. -->
-<!ENTITY community.creditsLink "global community">
-<!ENTITY community.end2 " working together to make the Internet better. We believe that the Internet should be open, public, and accessible to everyone without any restrictions.">
+<!ENTITY community.creditsLink "গ্লোবাল কমিউনিটি">
+<!ENTITY community.end2 "আরও ভালোভাবে ইন্টারনেট ব্যবহার করার জন্য একসাথে কাজ করা। আমরা বিশ্বাস করি যে, কোনো ধরণের বাধা ছাড়াই ইন্টারনেট উন্মুক্ত, পাবলিক এবং সবার ব্যবহারযোগ্য হওয়া উচিত। ">
 
-<!ENTITY contribute.start "Sound interesting? ">
+<!ENTITY contribute.start "শুনতে কি আকর্ষনীয়?">
 <!-- LOCALIZATION NOTE (contribute.getInvolvedLink): This is a link title that links to http://www.mozilla.org/contribute/. -->
-<!ENTITY contribute.getInvolvedLink "Get involved!">
+<!ENTITY contribute.getInvolvedLink "জড়িত হোন!">
 <!ENTITY contribute.end "">
 <!-- LOCALIZATION NOTE (bottomLinks.license): This is a link title that links to about:license. -->
 
-<!ENTITY bottomLinks.license "Licensing Information">
+<!ENTITY bottomLinks.license "লাইসেন্সিং তথ্য">
 <!-- LOCALIZATION NOTE (bottomLinks.rights): This is a link title that links to about:rights. -->
 
-<!ENTITY bottomLinks.rights "End User Rights">
+<!ENTITY bottomLinks.rights "ব্যবহারকারীর অধিকার সমাপ্ত">
 <!-- LOCALIZATION NOTE (bottomLinks.privacy): This is a link title that links to http://www.mozilla.com/legal/privacy/. -->
 
-<!ENTITY bottomLinks.privacy "Privacy Policy">
+<!ENTITY bottomLinks.privacy " গোপনীয়তা নীতি">
 <!-- LOCALIZATION NOTE (update.checkingForUpdates): try to make the localized text short (see bug 596813 for screenshots). -->
 
-<!ENTITY update.checkingForUpdates "Checking for updates…">
+<!ENTITY update.checkingForUpdates "হালনাগাদ পরীক্ষা…">
 <!-- LOCALIZATION NOTE (update.checkingAddonCompat): try to make the localized text short (see bug 596813 for screenshots). -->
-<!ENTITY update.checkingAddonCompat "Checking Add-on compatibility…">
+<!ENTITY update.checkingAddonCompat "অ্যাড-অন এর সুসংগতি পরীক্ষা করা হচ্ছে…">
 <!-- LOCALIZATION NOTE (update.noUpdatesFound): try to make the localized text short (see bug 596813 for screenshots). -->
-<!ENTITY update.noUpdatesFound "&brandShortName; is up to date">
+<!ENTITY update.noUpdatesFound "&brandShortName; হালনাগাদকৃত">
 <!-- LOCALIZATION NOTE (update.adminDisabled): try to make the localized text short (see bug 596813 for screenshots). -->
-<!ENTITY update.adminDisabled "Updates disabled by your system administrator">
+<!ENTITY update.adminDisabled "সিস্টেম প্রশাসক কর্তৃক হালনাগাদ নিস্ক্রিয়">
 <!-- LOCALIZATION NOTE (update.failed.start,update.failed.linkText,update.failed.end):
      update.failed.start, update.failed.linkText, and update.failed.end all go into
      one line with linkText being wrapped in an anchor that links to a site to download
      the latest version of Firefox (e.g. http://www.firefox.com). As this is all in
      one line, try to make the localized text short (see bug 596813 for screenshots). -->
 
-<!ENTITY update.failed.start "Update failed. ">
-<!ENTITY update.failed.linkText "Download the latest version">
+<!ENTITY update.failed.start "হালনাগাদ ব্যর্থ।">
+<!ENTITY update.failed.linkText "সর্বশেষ সংস্করণ ডাউনলোড">
 <!ENTITY update.failed.end "">
 <!-- LOCALIZATION NOTE (update.manual.start,update.manual.end): update.manual.start and update.manual.end
      all go into one line and have an anchor in between with text that is the same as the link to a site
      to download the latest version of Firefox (e.g. http://www.firefox.com). As this is all in one line,
      try to make the localized text short (see bug 596813 for screenshots). -->
 
-<!ENTITY update.manual.start "Updates available at ">
+<!ENTITY update.manual.start "হালনাগাদ পাওয়া যায়">
 <!ENTITY update.manual.end "">
 <!-- LOCALIZATION NOTE (update.downloading.start,update.downloading.end): update.downloading.start and 
      update.downloading.end all go into one line, with the amount downloaded inserted in between. As this
@@ -52,5 +52,5 @@
      the "em dash" (long dash).
      example: Downloading update — 111 KB of 13 MB -->
 
-<!ENTITY update.downloading.start "Downloading update — ">
+<!ENTITY update.downloading.start "হালনাগাদ ডাউনলোড করা হচ্ছে — ">
 <!ENTITY update.downloading.end "">

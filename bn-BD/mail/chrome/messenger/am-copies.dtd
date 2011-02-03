@@ -9,11 +9,11 @@
 <!-- LOCALIZATION NOTE (ccAddress.label): do not translate "Cc" in below line -->
 <!ENTITY ccAddress.label "এই ঠিকানাসমূহে Cc করা হবে: (C)">
 <!ENTITY ccAddress.accesskey "C">
-<!ENTITY ccAddressList.placeholder "Separate addresses with commas">
+<!ENTITY ccAddressList.placeholder "ঠিকানাসমূহ কমার সাহায্যে আলাদা করুন">
 <!-- LOCALIZATION NOTE (bccAddress.label): do not translate "Bcc" in below line -->
 <!ENTITY bccAddress.label "এই ইমেইল ঠিকানায় Bcc করা হবে: (B)">
 <!ENTITY bccAddress.accesskey "B">
-<!ENTITY bccAddressList.placeholder "Separate addresses with commas">
+<!ENTITY bccAddressList.placeholder "ঠিকানাসমূহ কমার সাহায্যে আলাদা করুন">
 <!ENTITY saveMessageDlg.label "বার্তা সংরক্ষণের সময় নিশ্চিতকরণ ডায়ালগ প্রদর্শন (w)">
 <!ENTITY saveMessageDlg.accesskey "w">
 <!-- LOCALIZATION NOTE (sentFolderOn.label): OK to translate this, bug #57440 -->

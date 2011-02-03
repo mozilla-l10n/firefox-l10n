@@ -11,13 +11,13 @@
 <!ENTITY systemIntegration.label "সিস্টেম ইন্টিগ্রেশন">
 <!ENTITY alwaysCheckDefault.label "আরম্ভের সময় সবসময় যাচাই করা হবে &brandShortName; ডিফল্ট মেইল ক্লায়েন্ট কিনা (A)">
 <!ENTITY alwaysCheckDefault.accesskey "A">
-<!ENTITY searchIntegration.label "বার্তা খুঁজতে searchIntegration.engineName; কে অনুমোদন দেয়া হবে (s)">
-<!ENTITY searchIntegration.accesskey "S">
+<!ENTITY searchIntegration.label "বার্তা খুঁজতে &searchIntegration.engineName; কে অনুমোদন দেয়া হবে (s)">
+<!ENTITY searchIntegration.accesskey "s">
 <!ENTITY checkNow.label "এখন পরীক্ষা করা হবে (N)">
 <!ENTITY checkNow.accesskey "N">
 <!ENTITY configEditDesc.label "উচ্চ পর্যায়ের কনফিগারেশন">
 <!ENTITY configEdit.label "কনফিগারেশন সম্পাদক... (g)">
-<!ENTITY configEdit.accesskey "G">
+<!ENTITY configEdit.accesskey "g">
 <!ENTITY returnReceiptsInfo.label "&brandShortName; কিভাবে প্রাপ্তি জ্ঞাপন নিয়ন্ত্রণ করবে তা নির্ধারণ করা হবে">
 <!ENTITY showReturnReceipts.label "প্রাপ্তি জ্ঞাপন... (R)">
 <!ENTITY showReturnReceipts.accesskey "R">
@@ -45,8 +45,8 @@
 <!ENTITY reuseExpRadio0.accesskey "n">
 <!ENTITY reuseExpRadio1.label "বিদ্যমান বার্তা উইন্ডোতো (e)">
 <!ENTITY reuseExpRadio1.accesskey "e">
-<!ENTITY closeMsgWindowOnMoveOrDelete.label "Close message window on move or delete">
-<!ENTITY closeMsgWindowOnDelete.accesskey "C">
+<!ENTITY closeMsgOnMoveOrDelete.label "Close message window/tab on move or delete">
+<!ENTITY closeMsgOnMoveOrDelete.accesskey "C">
 <!-- Update -->
 
 <!ENTITY autoCheck.label "স্বয়ংক্রিয়ভাবে হালনাগাদ পরীক্ষা করা হবে:">

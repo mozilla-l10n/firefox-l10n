@@ -37,13 +37,13 @@
 
 <!ENTITY newDirectoryTitle.label "ডিরেক্টরি সার্ভারের বৈশিষ্ট্য">
 <!ENTITY directoryName.label "নাম (N):">
-<!ENTITY directoryName.accesskey "n">
+<!ENTITY directoryName.accesskey "N">
 <!ENTITY directoryHostname.label "হোস্টনাম (o):">
 <!ENTITY directoryHostname.accesskey "o">
 <!ENTITY directoryBaseDN.label "বেস DN (B):">
-<!ENTITY directoryBaseDN.accesskey "b">
+<!ENTITY directoryBaseDN.accesskey "B">
 <!ENTITY findButton.label "অনুসন্ধান (F)">
-<!ENTITY findButton.accesskey "f">
+<!ENTITY findButton.accesskey "F">
 <!ENTITY directorySecure.label "নিরাপদ সংযোগ (SSL) ব্যবহার করা হবে (U)">
 <!ENTITY directorySecure.accesskey "U">
 <!ENTITY directoryLogin.label "বাইন্ড DN (i):">
@@ -52,7 +52,7 @@
 <!ENTITY Offline.tab "অফলাইন">
 <!ENTITY Advanced.tab "উচ্চ পর্যায়ের">
 <!ENTITY portNumber.label "পোর্ট নম্বর (P):">
-<!ENTITY portNumber.accesskey "p">
+<!ENTITY portNumber.accesskey "P">
 <!ENTITY searchFilter.label "অনুসন্ধান পরিশোধক (f):">
 <!ENTITY searchFilter.accesskey "f">
 <!ENTITY scope.label "ব্যাপ্তি (c):">
