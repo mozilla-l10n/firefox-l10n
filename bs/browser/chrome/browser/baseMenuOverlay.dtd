@@ -14,8 +14,6 @@
 <!ENTITY aboutProduct.accesskey   "a">
 <!ENTITY productHelp.label        "&brandShortName; Pomoć">
 <!ENTITY productHelp.accesskey    "P">
-<!ENTITY helpForIEUsers.label     "Za korisnike Internet Explorera">
-<!ENTITY helpForIEUsers.accesskey "i">
 <!ENTITY helpMac.commandkey       "?">
 <!ENTITY helpSafeMode.label       "Restartuj sa onemogućenim add-onima…">
 <!ENTITY helpSafeMode.accesskey   "R">
