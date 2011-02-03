@@ -17,11 +17,10 @@
 <!ENTITY helpContents.label "मदत">
 <!ENTITY helpContents.accesskey "H">
 <!ENTITY helpContentsMac.label "&brandShortName; मदत">
--->
 
 <!ENTITY helpForIEUsers.label "Internet Explorer वापरकर्त्यांसाठी">
 <!ENTITY helpForIEUsers.accesskey "I">
-<!--
+
 <!ENTITY openHelp.commandkey "VK_F1">
 <!ENTITY openHelpMac.commandkey "VK_HELP">
 
