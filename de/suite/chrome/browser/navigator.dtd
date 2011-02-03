@@ -173,3 +173,6 @@
 
 <!ENTITY bidiSwitchPageDirectionItem.label        "Seitenrichtung umschalten">
 <!ENTITY bidiSwitchPageDirectionItem.accesskey    "u">
+
+<!-- LOCALIZATION NOTE (syncTabsMenu.label): This appears in the Go menu -->
+<!ENTITY syncTabsMenu.label         "Tabs von anderen Computern">

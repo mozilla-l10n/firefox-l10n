@@ -22,6 +22,7 @@
 <!ENTITY ssl.label "SSL">
 <!ENTITY certs.label "Zertifikate">
 <!ENTITY validation.label "Validierung">
+<!ENTITY sync.label "Sync">
 <!ENTITY advance.label "Erweitert">
 <!ENTITY down.label "Herunterladen">
 <!ENTITY cache.label "Cache">

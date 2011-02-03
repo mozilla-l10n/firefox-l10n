@@ -1,0 +1,48 @@
+<!-- The page shown when not logged in... -->
+<!ENTITY setupButton.label          "&syncBrand.fullName.label; einrichten">
+<!ENTITY setupButton.accesskey      "e">
+<!ENTITY weaveDesc.label            "Mit &syncBrand.fullName.label; haben Sie auf all Ihren Geräten Zugriff auf Ihre Surf-Chronik, Passwörter, Tabs und Lesezeichen.">
+
+<!-- The page shown when logged in... -->
+<!ENTITY accountGroupboxCaption.label "&syncBrand.fullName.label;-Account">
+<!ENTITY currentAccount.label         "Aktueller Account:">
+
+<!-- Login error feedback -->
+<!ENTITY updatePass.label             "Aktualisieren">
+<!ENTITY updatePass.accesskey         "A">
+<!ENTITY resetPass.label              "Zurücksetzen">
+<!ENTITY resetPass.accesskey          "Z">
+
+<!-- Manage Account -->
+<!ENTITY manageAccount.label          "Account verwalten">
+<!ENTITY viewQuota.label              "Quota anzeigen">
+<!ENTITY viewQuota.accesskey          "Q">
+<!ENTITY changePassword.label         "Passwort ändern">
+<!ENTITY changePassword.accesskey     "P">
+<!ENTITY mySyncKey.label              "Mein Sync-Schlüssel">
+<!ENTITY mySyncKey.accesskey          "A">
+<!ENTITY resetSync.label              "Sync zurücksetzen">
+<!ENTITY resetSync.accesskey          "k">
+<!ENTITY stopUsingAccount.label       "Diesen Account nicht mehr verwenden">
+<!ENTITY stopUsingAccount.accesskey   "D">
+
+<!-- Sync Settings -->
+<!ENTITY syncPrefsCaption.label       "Browser-Sync">
+<!ENTITY syncComputerName.label       "Computername:">
+<!ENTITY syncComputerName.accesskey   "C">
+
+<!ENTITY syncMy.label               "Synchronisieren:">
+<!ENTITY engine.bookmarks.label     "Lesezeichen">
+<!ENTITY engine.bookmarks.accesskey "L">
+<!ENTITY engine.tabs.label          "Tabs">
+<!ENTITY engine.tabs.accesskey      "T">
+<!ENTITY engine.history.label       "Chronik">
+<!ENTITY engine.history.accesskey   "r">
+<!ENTITY engine.passwords.label     "Passwörter">
+<!ENTITY engine.passwords.accesskey "P">
+<!ENTITY engine.prefs.label         "Einstellungen">
+<!ENTITY engine.prefs.accesskey     "E">
+
+<!-- Footer stuff -->
+<!ENTITY prefs.tosLink.label        "Nutzungsbedingungen">
+<!ENTITY prefs.ppLink.label         "Datenschutzrichtlinie">
