@@ -47,7 +47,7 @@
 <!ENTITY tabmailClose.tooltip "Tab schließen">
 <!ENTITY tabmailNewButton.tooltip "Aktuelles Tab duplizieren">
 <!ENTITY tabmailCloseButton.tooltip "Aktuelles Tab schließen">
-<!ENTITY tabmailAllTabs.tooltip "List all tabs">
+<!ENTITY tabmailAllTabs.tooltip "Alle Tabs auflisten">
 
 <!-- menu items:  the . means that the menu item isn't implemented yet -->
 

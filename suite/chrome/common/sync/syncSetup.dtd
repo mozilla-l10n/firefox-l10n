@@ -1,11 +1,10 @@
-<!ENTITY accountSetupTitle.label    "&syncBrand.fullName.label;-Setup">
+<!ENTITY accountSetupTitle.label    "&syncBrand.fullName.label; einrichten">
 
 <!-- First page of the wizard -->
 
 <!ENTITY setup.pickSetupType.description "Willkommen! Wenn Sie &syncBrand.fullName.label; bisher noch nicht genutzt haben, müssen Sie einen neuen Account anlegen.">
 <!ENTITY button.createNewAccount.label "Neuen Account anlegen">
-<!ENTITY setup.haveAccount.label "Ich habe schon einen &syncBrand.fullName.label;-Account">
-<!ENTITY button.connect.label    "Verbinden">
+<!ENTITY button.haveAccount.label "Ich habe schon einen &syncBrand.fullName.label;-Account">
 
 <!ENTITY setup.choicePage.title.label     "Sind Sie bereits Nutzer von &syncBrand.fullName.label;?">
 <!ENTITY setup.choicePage.new.label       "Ich habe &syncBrand.shortName.label; bisher noch nicht verwendet">
@@ -14,20 +13,20 @@
 <!-- New Account AND Existing Account -->
 <!ENTITY server.label               "Server">
 <!ENTITY serverType.main.label      "&syncBrand.fullName.label;-Server">
-<!ENTITY serverType.custom2.label    "Eigenen Server verwenden…">
-<!ENTITY signIn.account2.label       "Account">
-<!ENTITY signIn.account2.accesskey   "A">
+<!ENTITY serverType.custom.label    "Eigenen Server verwenden">
+<!ENTITY signIn.account.label       "Account">
+<!ENTITY signIn.account.accesskey   "A">
 <!ENTITY signIn.password.label      "Passwort">
 <!ENTITY signIn.password.accesskey  "P">
-<!ENTITY signIn.syncKey.label       "Sync-Schlüssel">
-<!ENTITY signIn.syncKey.accesskey   "y">
+<!ENTITY signIn.serverURL.label     "Server-URL">
+<!ENTITY signIn.serverURL.accesskey "S">
 
 <!-- New Account Page 1: Basic Account Info -->
 <!ENTITY setup.newAccountDetailsPage.title.label "Account-Details">
-<!ENTITY setup.confirmPassword.label  "Passwort bestätigen">
-<!ENTITY setup.confirmPassword.accesskey  "b">
-<!ENTITY setup.emailAddress.label     "E-Mail-Adresse">
-<!ENTITY setup.emailAddress.accesskey "E">
+<!ENTITY setup.confirmPassword.label             "Passwort bestätigen">
+<!ENTITY setup.confirmPassword.accesskey         "b">
+<!ENTITY setup.emailAddress.label                "E-Mail-Adresse">
+<!ENTITY setup.emailAddress.accesskey            "E">
 <!-- LOCALIZATION NOTE: tosAgree1, tosLink, tosAgree2, ppLink, tosAgree3 are
      joined with implicit white space, so spaces in the strings aren't necessary -->
 <!ENTITY setup.tosAgree1.label      "Ich bestätige die">
@@ -36,7 +35,7 @@
 <!ENTITY setup.tosAgree2.label      "und die">
 <!ENTITY setup.ppLink.label         "Datenschutzrichtlinie">
 <!ENTITY setup.tosAgree3.label      "">
-<!ENTITY setup.tosAgree2.accesskey  "">
+<!ENTITY setup.tosAgree2.accesskey  "u">
 
 <!-- New Account Page 2: Sync Key -->
 <!ENTITY setup.newSyncKeyPage.title.label "&brandShortName; nimmt Ihre Privatsphäre ernst">
@@ -44,6 +43,9 @@
 <!ENTITY syncKeyEntry.label        "Ihr Sync-Schlüssel">
 <!ENTITY syncKeyEntry.accesskey    "S">
 <!ENTITY syncKeyGenerate.label     "Generieren">
+<!ENTITY syncKeyGenerate.accesskey "G">
+<!ENTITY syncKeyStrength.label     "Stärke:">
+<!ENTITY syncKeyHelp.label         "Was heißt die Stärke?">
 <!ENTITY syncKeyBackup.description "Sie benötigen den Sync-Schlüssel, um auf anderen Geräten auf &syncBrand.fullName.label; zuzugreifen. Bitte hinterlegen Sie eine Sicherheitskopie des Schlüssels. Wir können Ihnen nicht dabei helfen, den Sync-Schlüssel wieder zu erlangen.">
 
 <!ENTITY button.syncKeyBackup.print.label     "Drucken…">
@@ -53,57 +55,51 @@
 
 <!-- New Account Page 3: Captcha -->
 <!ENTITY setup.captchaPage2.title.label     "Bitte bestätigen Sie, dass Sie kein Roboter sind">
-<!-- Existing Account Page 1: Add Device (incl. Add a Device dialog strings) -->
-<!ENTITY addDevice.title.label              "Gerät hinzufügen">
-<!ENTITY addDevice.showMeHow.label          "Anleitung.">
-<!ENTITY addDevice.dontHaveDevice.label     "Ich habe das Gerät nicht bei mir">
-<!ENTITY addDevice.setup.description.label  "Zum Aktivieren gehen Sie in die &syncBrand.shortName.label;-Einstellungen auf Ihrem anderen Gerät, und wählen Sie &#x0022;Gerät hinzufügen&#x0022;.">
-<!ENTITY addDevice.setup.enterCode.label    "Geben Sie dann folgenden Code ein:">
-<!ENTITY addDevice.dialog.description.label "Um Ihr neues Gerät zu aktivieren, gehen Sie in die &syncBrand.shortName.label;-Einstellungen auf dem Gerät, und wählen Sie &#x0022;Verbinden&#x0022;.">
-<!ENTITY addDevice.dialog.enterCode.label   "Geben Sie den Code ein, den das Gerät anzeigt:">
-<!ENTITY addDevice.dialog.tryAgain.label    "Bitte versuchen Sie es erneut.">
-<!ENTITY addDevice.dialog.successful.label  "Das Gerät wurde erfolgreich hinzugefügt. Die erste Synchronisation kann mehrere Minuten in Anspruch nehmen und wird im Hintergrund abgeschlossen.">
-<!ENTITY addDevice.dialog.syncKey.label     "Um Ihr Gerät zu aktivieren, benötigen Sie den Sync-Schlüssel. Bitte drucken oder sichern Sie diesen Schlüssel und nehmen Sie ihn mit sich.">
-<!ENTITY addDevice.dialog.connected.label   "Gerät verbunden">
 
-<!-- Existing Account Page 2: Manual Login -->
-<!ENTITY setup.signInPage.title.label "Login">
-<!ENTITY existingSyncKey.description "Um eine Kopie Ihres Sync-Schlüssels zu erhalten, gehen Sie in die &syncBrand.shortName.label;-Einstellungen auf Ihrem anderen Gerät, und wählen Sie &#x0022;Mein Sync-Schlüssel&#x0022; unter &#x0022;Account verwalten&#x0022;.">
-
-<!ENTITY verifying.label              "Überprüfen…">
+<!-- Existing Account Page 1: Login -->
+<!ENTITY setup.existingAccount.title.label "Account-Informationen eingeben">
 <!ENTITY resetPassword.label          "Passwort zurücksetzen">
-<!ENTITY resetSyncKey.label           "Ich habe mein anderes Gerät verloren.">
+<!ENTITY connecting.label             "Verbinden…">
+
+<!-- Existing Account Page 2: Sync Key -->
+<!ENTITY setup.existingSyncKeyPage.title "Bitte geben Sie Ihren Sync-Schlüssel ein">
+<!ENTITY setup.existingSyncKeyPage.description "Der Sync-Schlüssel wurde für Sie generiert oder Sie haben Ihren eigenen angegeben, als Sie sich das erste Mal für &syncBrand.fullName.label; angemeldet haben. Er ist nicht das gleiche wie Ihr Passwort.">
+<!ENTITY existingSyncKeyHelp.description "Um eine Kopie Ihres Sync-Schlüssels zu erhalten, gehen Sie in die &syncBrand.shortName.label;-Einstellungen auf Ihrem anderen Gerät, und wählen Sie &#x0022;Mein Sync-Schlüssel&#x0022; unter &#x0022;Account verwalten&#x0022;.">
+<!ENTITY lostSyncKey.label            "Ich habe meinen Sync-Schlüssel verloren">
+<!ENTITY verifying.label              "Überprüfen…">
 
 <!-- Sync Options -->
 <!ENTITY setup.optionsPage.title      "Sync-Einstellungen">
-<!ENTITY syncComputerName.label       "Computer-Name:">
+<!ENTITY syncComputerName.label       "Computername:">
 <!ENTITY syncComputerName.accesskey   "C">
 
 <!ENTITY syncMy.label               "Synchronisieren:">
 <!ENTITY engine.bookmarks.label     "Lesezeichen">
-<!ENTITY engine.bookmarks.accesskey "l">
+<!ENTITY engine.bookmarks.accesskey "L">
 <!ENTITY engine.tabs.label          "Tabs">
 <!ENTITY engine.tabs.accesskey      "T">
 <!ENTITY engine.history.label       "Chronik">
-<!ENTITY engine.history.accesskey   "C">
+<!ENTITY engine.history.accesskey   "h">
 <!ENTITY engine.passwords.label     "Passwörter">
 <!ENTITY engine.passwords.accesskey "P">
 <!ENTITY engine.prefs.label         "Einstellungen">
 <!ENTITY engine.prefs.accesskey     "E">
 
 <!ENTITY choice2.merge.main.label      "Zusammenführen der Daten auf diesem Computer mit den &syncBrand.shortName.label;-Daten">
-<!ENTITY choice2.merge.recommended.label "Empfohlen:">
+<!ENTITY choice2.merge.recommended.label "(empfohlen)">
 <!ENTITY choice2.client.main.label     "Ersetzen aller Daten auf diesem Computer mit den &syncBrand.shortName.label;-Daten">
 <!ENTITY choice2.server.main.label     "Überschreiben aller anderen Geräte mit den lokalen Daten">
 
 <!-- Confirm Merge Options -->
 <!ENTITY setup.optionsConfirmPage.title "Bestätigen">
-<!ENTITY confirm.merge.label          "Sie haben sich entschieden, die Daten dieses Computers mit den Daten Ihrer anderen Computer, die &syncBrand.fullName.label; verwenden, zusammenzuführen.">
-<!ENTITY confirm.client2.label         "Warnung: Folgende &brandShortName;-Daten auf diesem Computer werden gelöscht:">
+<!ENTITY confirm.merge.label    "Sie haben sich entschieden, die Daten dieses Computers mit den Daten Ihrer anderen Computer, die &syncBrand.fullName.label; verwenden, zusammenzuführen.">
+<!ENTITY confirm.client.label         "Alle &brandShortName;-Daten auf diesem Computer werden gelöscht, inklusive den folgenden:">
 <!ENTITY confirm.client.moreinfo.label "&brandShortName; wird dann die &syncBrand.fullName.label;-Daten auf diesen Computer kopieren.">
-<!ENTITY confirm.server2.label         "Warnung: Die folgenden Geräte werden mit den lokalen Daten überschrieben:">
+<!ENTITY confirm.client.warning.label "Warnung: Dies verursacht, dass alle &brandShortName;-Daten auf diesem Computer ersetzt werden!">
+<!ENTITY confirm.server.label         "Die folgenden Geräte werden mit den lokalen Daten überschrieben:">
+<!ENTITY confirm.server.warning.label "Warnung: Alle Daten auf diesen Geräten werden mit den lokalen Daten überschrieben!">
 
 <!-- New & Existing Account: Setup Complete -->
-<!ENTITY setup.successPage.title   "Setup abgeschlossen!">
+<!ENTITY setup.successPage.title "Setup abgeschlossen!">
 <!ENTITY changeOptions.label "Sie können diese Einstellung ändern, indem Sie die Sync-Einstellungen unten auswählen.">
 <!ENTITY continueUsing.label "Sie können &brandShortName; nun verwenden.">
