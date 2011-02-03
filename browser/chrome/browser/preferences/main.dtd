@@ -1,11 +1,11 @@
 <!ENTITY startup.label "আরম্ভ">
 
 <!ENTITY startupPage.label "&brandShortName; আরম্ভের সময় (S):">
-<!ENTITY startupPage.accesskey "s">
+<!ENTITY startupPage.accesskey "S">
 <!ENTITY startupHomePage.label "প্রধান পাতা প্রদর্শন করা হবে">
 <!ENTITY startupBlankPage.label "ফাঁকা পৃষ্ঠা প্রদর্শন করা হবে">
 <!ENTITY startupLastSession.label "সর্বশেষ উইন্ডো ও ট্যাব প্রদর্শন করা হবে">
-<!ENTITY homepage.label "Home Page:">
+<!ENTITY homepage.label "প্রধান পাতা: (P)">
 <!ENTITY homepage.accesskey "P">
 <!ENTITY useCurrentPage.label "বর্তমান পৃষ্ঠা প্রয়োগ করা হবে (C)">
 <!ENTITY useCurrentPage.accesskey "C">
@@ -20,11 +20,11 @@
 <!ENTITY showWhenDownloading.label "ফাইল ডাউনলোডের সময় ডাউনলোড উইন্ডো প্রদর্শন করা হবে (D)">
 <!ENTITY showWhenDownloading.accesskey "D">
 <!ENTITY closeWhenDone.label "সব ডাউনলোড সম্পন্ন হলে উইন্ডোটি বন্ধ করা হবে (W)">
-<!ENTITY closeWhenDone.accesskey "w">
+<!ENTITY closeWhenDone.accesskey "W">
 <!ENTITY saveTo.label "ফাইল সংরক্ষণের স্থান (V)">
-<!ENTITY saveTo.accesskey "v">
+<!ENTITY saveTo.accesskey "V">
 <!ENTITY chooseFolderWin.label "ব্রাউজ... (O)">
-<!ENTITY chooseFolderWin.accesskey "o">
+<!ENTITY chooseFolderWin.accesskey "O">
 <!ENTITY chooseFolderMac.label "নির্বাচন... (e)">
 <!ENTITY chooseFolderMac.accesskey "e">
 <!ENTITY alwaysAsk.label "ফাইল সংরক্ষণের স্থান সবসময় জিজ্ঞেস করা হবে (A)">

@@ -63,7 +63,7 @@
 <!ENTITY retentionDeleteMsg.label "এর থেকে বেশী বার্তাসমূহ মুছে ফেলা হবে, (m)">
 <!ENTITY retentionDeleteMsg.accesskey "m">
 <!ENTITY retentionKeepAll.label "কোনো বার্তা মোছা হবে না (a)">
-<!ENTITY retentionKeepAll.accesskey "A">
+<!ENTITY retentionKeepAll.accesskey "a">
 <!ENTITY retentionKeepRecent.label "সব মুছে ফেলা হবে, তবে শুধুমাত্র খুবই সাম্প্রতিক বার্তাসমূহ (l)">
 <!ENTITY retentionKeepRecent.accesskey "l">
 <!-- LOCALIZATION NOTE: Unhide with .keepUnreadOnly { display: -moz-box; } -->

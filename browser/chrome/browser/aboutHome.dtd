@@ -1,28 +1,27 @@
-<!ENTITY % brandDTD
-    SYSTEM "chrome://branding/locale/brand.dtd">
+<!ENTITY % brandDTD SYSTEM "chrome://branding/locale/brand.dtd">
   %brandDTD;
-
 <!-- These strings are used in the about:home page -->
 
-<!ENTITY abouthome.pageTitle "&brandFullName; Start Page">
 
+<!ENTITY abouthome.pageTitle "&brandFullName; শুরুর পৃষ্ঠা">
 <!-- LOCALIZATION NOTE (abouthome.brandStart):
      brandShortName must be in a <span/>
 -->
-<!ENTITY abouthome.brandStart "<span>&brandShortName;</span> Start">
 
-<!ENTITY abouthome.searchEngineButton.label "Search">
+<!ENTITY abouthome.brandStart "<span>&brandShortName;</span> শুরু">
 
-<!ENTITY abouthome.searchEngineLinks.advanced "Advanced Search">
-<!ENTITY abouthome.searchEngineLinks.preferences "Preferences">
+<!ENTITY abouthome.searchEngineButton.label "অনুসন্ধান">
 
-<!ENTITY abouthome.aboutMozilla "About Mozilla">
+<!ENTITY abouthome.searchEngineLinks.advanced "উচ্চ পর্যায়ের অনুসন্ধান">
+<!ENTITY abouthome.searchEngineLinks.preferences "পছন্দসমূহ">
 
+<!ENTITY abouthome.aboutMozilla "মোজিলা সম্পর্কিত">
 <!-- LOCALIZATION NOTE (abouthome.defaultSnippet1.v1):
      text in <a/> will be linked to the Firefox features page on mozilla.com
 -->
-<!ENTITY abouthome.defaultSnippet1.v1 "Thanks for choosing Firefox! To get the most out of your browser, learn more about the <a>latest features</a>.">
+
+<!ENTITY abouthome.defaultSnippet1.v1 "ফায়ারফক্স নির্বাচন করার জন্য ধন্যবাদ! আপনার ব্রাউজারের সর্বাধিক সুবিধা নেয়ার জন্য <a>সর্বশেষ বৈশিষ্ট্য</a> সম্পর্কে জানুন।">
 <!-- LOCALIZATION NOTE (abouthome.defaultSnippet2.v1):
      text in <a/> will be linked to the featured add-ons on addons.mozilla.org
 -->
-<!ENTITY abouthome.defaultSnippet2.v1 "It's easy to customize your Firefox exactly the way you want it. <a>Choose from thousands of add-ons</a>.">
+<!ENTITY abouthome.defaultSnippet2.v1 "আপনার ইচ্ছামত আপনি ফায়ারফক্স স্বনির্ধারণ করতে পারেন। <a>হাজারটা অ্যাডঅন থেকে নির্বাচন</a>।">

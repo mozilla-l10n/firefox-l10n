@@ -16,4 +16,4 @@
 <!ENTITY paneAdvanced.title "উচ্চপর্যায়ের বৈশিষ্ট্য">
 <!-- LOCALIZATION NOTE (paneSync.title): This should match syncBrand.shortName.label in ../syncBrand.dtd -->
 
-<!ENTITY paneSync.title "Sync">
+<!ENTITY paneSync.title "সিঙ্ক">

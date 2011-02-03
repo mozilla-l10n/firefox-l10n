@@ -2,7 +2,7 @@
 <!-- File Menu -->
 
 <!ENTITY fileMenu.label "ফাইল (F)">
-<!ENTITY fileMenu.accesskey "f">
+<!ENTITY fileMenu.accesskey "F">
 <!ENTITY newMenu.label "নতুন (N)">
 <!ENTITY newMenu.accesskey "N">
 <!ENTITY newContact.label "ঠিকানা বই এবং পরিচিতি… (C)">
@@ -16,13 +16,13 @@
 <!ENTITY newLDAPDirectoryCmd.accesskey "D">
 <!ENTITY newMessageCmd.label "বার্তা (M)">
 <!ENTITY newMessageCmd.key "M">
-<!ENTITY newMessageCmd.accesskey "m">
+<!ENTITY newMessageCmd.accesskey "M">
 <!-- LOCALIZATION NOTE (osxAddressBook) : These entities are only used on Mac -->
 <!ENTITY osxAddressBook.label "Mac OS X ঠিকানা বই ব্যবহার করা হবে (O)">
 <!ENTITY osxAddressBook.accesskey "O">
 <!ENTITY closeCmd.label "বন্ধ (C)">
 <!ENTITY closeCmd.key "W">
-<!ENTITY closeCmd.accesskey "c">
+<!ENTITY closeCmd.accesskey "C">
 <!ENTITY printSetupCmd.label "পৃষ্ঠা সেটআপ... (u)">
 <!ENTITY printSetupCmd.accesskey "u">
 <!ENTITY printPreviewContactCmd.label "পরিচিতি মুদ্রণের প্রাকদর্শন (v)">
@@ -37,24 +37,24 @@
 <!-- Edit Menu -->
 
 <!ENTITY editMenu.label "সম্পাদনা (E)">
-<!ENTITY editMenu.accesskey "e">
+<!ENTITY editMenu.accesskey "E">
 <!ENTITY undoCmd.label "পূর্বাবস্থায় ফিরানো (U)">
 <!ENTITY undoCmd.key "Z">
-<!ENTITY undoCmd.accesskey "u">
+<!ENTITY undoCmd.accesskey "U">
 <!ENTITY redoCmd.label "পুনরায় করা (R)">
 <!ENTITY redoCmd.key "Y">
-<!ENTITY redoCmd.accesskey "r">
+<!ENTITY redoCmd.accesskey "R">
 <!ENTITY cutCmd.label "কাটা (t)">
 <!ENTITY cutCmd.key "X">
 <!ENTITY cutCmd.accesskey "t">
 <!ENTITY copyCmd.label "অনুলিপি (C)">
 <!ENTITY copyCmd.key "C">
-<!ENTITY copyCmd.accesskey "c">
+<!ENTITY copyCmd.accesskey "C">
 <!ENTITY pasteCmd.label "প্রতিলেপন (P)">
 <!ENTITY pasteCmd.key "V">
-<!ENTITY pasteCmd.accesskey "p">
+<!ENTITY pasteCmd.accesskey "P">
 <!ENTITY deleteCmd.label "মুছে ফেলুন (D)">
-<!ENTITY deleteCmd.accesskey "d">
+<!ENTITY deleteCmd.accesskey "D">
 <!ENTITY deleteAbCmd.label "ঠিকানা বই অপসারণ">
 <!ENTITY deleteContactCmd.label "ঠিকানা মুছে ফেলুন">
 <!ENTITY deleteContactsCmd.label "ঠিকানাসমূহ মুছে ফেলুন">
@@ -64,7 +64,7 @@
 <!ENTITY selectAllCmd.label "সব নির্বাচন (A)">
 <!ENTITY selectAllCmd.key "A">
 <!ENTITY searchAddressesCmd.key "f">
-<!ENTITY selectAllCmd.accesskey "a">
+<!ENTITY selectAllCmd.accesskey "A">
 <!ENTITY swapFirstNameLastNameCmd.label "নামের প্রথমাংশ/শেষাংশ অদলবদল করা হবে (w)">
 <!ENTITY swapFirstNameLastNameCmd.accesskey "w">
 <!-- LOCALIZATION NOTE (hideSwapFnLnUI) : DONT_TRANSLATE -->
@@ -76,7 +76,7 @@
 <!-- View Menu -->
 
 <!ENTITY viewMenu.label "প্রদর্শন (V)">
-<!ENTITY viewMenu.accesskey "v">
+<!ENTITY viewMenu.accesskey "V">
 <!ENTITY viewToolbarsMenu.label "টুলবার (T)">
 <!ENTITY viewToolbarsMenu.accesskey "T">
 <!ENTITY showAbToolbarCmd.label "ঠিকানা বইয়ের টুলবার (o)">
@@ -88,13 +88,13 @@
 <!ENTITY showContactPane.label "পরিচিতির সারসংক্ষেপ পেন (C)">
 <!ENTITY showContactPane.accesskey "C">
 <!ENTITY menu_ShowNameAs.label "অন্যভাবে নাম প্রদর্শন (N)">
-<!ENTITY menu_ShowNameAs.accesskey "n">
+<!ENTITY menu_ShowNameAs.accesskey "N">
 <!ENTITY firstLastCmd.label "প্রথমাংশ, শেষাংশ (F)">
-<!ENTITY firstLastCmd.accesskey "f">
+<!ENTITY firstLastCmd.accesskey "F">
 <!ENTITY lastFirstCmd.label "শেষাংশ, প্রথমাংশ (L)">
-<!ENTITY lastFirstCmd.accesskey "l">
+<!ENTITY lastFirstCmd.accesskey "L">
 <!ENTITY displayNameCmd.label "নাম প্রদর্শন (D)">
-<!ENTITY displayNameCmd.accesskey "d">
+<!ENTITY displayNameCmd.accesskey "D">
 <!ENTITY sortMenu.label "যে অনুসারে সাজানো হবে (S)">
 <!ENTITY sortMenu.accesskey "S">
 <!-- Tools Menu -->
@@ -102,7 +102,7 @@
 <!ENTITY tasksMenu.label "টুল (T)">
 <!ENTITY tasksMenu.accesskey "T">
 <!ENTITY messengerCmd.label "মেইল ও নিউজগ্রুপ (M)">
-<!ENTITY messengerCmd.accesskey "m">
+<!ENTITY messengerCmd.accesskey "M">
 <!ENTITY messengerCmd.commandkey "1">
 <!ENTITY searchAddressesCmd.label "ঠিকানা অনুসন্ধান… (S)">
 <!ENTITY searchAddressesCmd.accesskey "S">

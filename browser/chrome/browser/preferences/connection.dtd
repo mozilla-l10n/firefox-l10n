@@ -5,21 +5,21 @@
 
 <!ENTITY proxyTitle.label "ইন্টারনেট সংযোগের জন্য প্রক্সি কনফিগারেশন">
 <!ENTITY noProxyTypeRadio.label "কোন প্রক্সি নয় (Y)">
-<!ENTITY noProxyTypeRadio.accesskey "y">
+<!ENTITY noProxyTypeRadio.accesskey "Y">
 <!ENTITY systemTypeRadio.label "সিস্টেম প্রক্সির সেটিং ব্যবহার করা হবে (U)">
-<!ENTITY systemTypeRadio.accesskey "u">
+<!ENTITY systemTypeRadio.accesskey "U">
 <!ENTITY WPADTypeRadio.label "এই নেটওয়ার্কের প্রক্সি সেটিং স্বয়ংক্রিয়-শনাক্ত করা হবে (W)">
-<!ENTITY WPADTypeRadio.accesskey "w">
+<!ENTITY WPADTypeRadio.accesskey "W">
 <!ENTITY manualTypeRadio.label "স্বনির্ধারিত প্রক্সি কনফিগারেশন (M):">
-<!ENTITY manualTypeRadio.accesskey "m">
+<!ENTITY manualTypeRadio.accesskey "M">
 <!ENTITY autoTypeRadio.label "স্বয়ংক্রিয় প্রক্সি কনফিগার করার URL (A):">
 <!ENTITY autoTypeRadio.accesskey "A">
-<!ENTITY reload.label "রিলোড (E)">
-<!ENTITY reload.accesskey "e">
+<!ENTITY reload.label "পুনরায় লোড (E)">
+<!ENTITY reload.accesskey "E">
 <!ENTITY ftp.label "FTP প্রক্সি:">
 <!ENTITY ftp.accesskey "F">
 <!ENTITY http.label "HTTP প্রক্সি (X):">
-<!ENTITY http.accesskey "x">
+<!ENTITY http.accesskey "X">
 <!ENTITY ssl.label "SSL প্রক্সি:">
 <!ENTITY ssl.accesskey "L">
 <!ENTITY socks.label "SOCKS হোস্ট:">
@@ -34,7 +34,7 @@
 <!ENTITY FTPport.accesskey "r">
 <!ENTITY SOCKSport.accesskey "t">
 <!ENTITY noproxy.label "অনুপস্থিত প্রক্সি (N):">
-<!ENTITY noproxy.accesskey "n">
+<!ENTITY noproxy.accesskey "N">
 <!ENTITY noproxyExplain.label "উদাহরণ: .mozilla.org, .net.nz, 192.168.1.0/24">
 <!ENTITY shareproxy.label "সব প্রোটোকলের জন্য একই প্রক্সি ব্যবহার করা হবে (S)">
-<!ENTITY shareproxy.accesskey "s">
+<!ENTITY shareproxy.accesskey "S">

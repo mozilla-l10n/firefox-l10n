@@ -1,8 +1,8 @@
 <!-- LOCALIZATION NOTE (window.width2, window.height): These values should be
 close to the golden ratio (1.618:1) while making sure it's wide enough for long
 file names and tall enough to hint that there are more downloads in the list -->
-<!ENTITY window.width2 "485">
-<!ENTITY window.height "500">
+<!ENTITY window.width2 "৪৮৫">
+<!ENTITY window.height "৩০০">
 
 <!ENTITY starting.label "শুরু করা হচ্ছে…">
 <!ENTITY scanning.label "ভাইরাস স্ক্যান করা হচ্ছে…">
@@ -11,7 +11,7 @@ file names and tall enough to hint that there are more downloads in the list -->
 
 <!ENTITY cmd.pause.label "বিরতি (P)">
 <!ENTITY cmd.pause.accesskey "P">
-<!ENTITY cmd.resume.label "পুনরায় আরম্ভ (R)">
+<!ENTITY cmd.resume.label "পুনরায় শুরু করা (R)">
 <!ENTITY cmd.resume.accesskey "R">
 <!ENTITY cmd.cancel.label "বাতিল (C)">
 <!ENTITY cmd.cancel.accesskey "C">

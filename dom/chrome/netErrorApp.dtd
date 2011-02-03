@@ -3,7 +3,5 @@
      should go into netError.dtd -->
 
 <!ENTITY securityOverride.linkText "অথবা আপনি একটি ব্যতিক্রম যোগ করতে পারেন…">
-<!ENTITY securityOverride.warningContent "
-<p>You should not add an exception if you are using an internet connection that you do not trust completely or if you are not used to seeing a warning for this server.</p>
-<p>If you still wish to add an exception for this site, you can do so in your advanced encryption settings.</p>
-">
+<!ENTITY securityOverride.warningContent "<p>যে ইন্টারনেট সংযোগটি ব্যবহার করেন তা সম্পূর্ণ বিশ্বাসযোগ্য না হয় অথবা এই সার্ভারের জন্য সতর্কবানী দেখতে অভ্যস্ত না হন তাহলে আপনি একটি ব্যতিক্রম যোগ করতে পারেননা। </p> 
+<p> যদি আপনি এরপরও এই সাইটের জন্য ব্যতিক্রম যোগ করতে চান, উচ্চ পর্যায়ের এনক্রিপশন সেটিং এ এটি করতে পারেন।</p>">

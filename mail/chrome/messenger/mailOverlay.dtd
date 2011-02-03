@@ -1,7 +1,7 @@
 <!ENTITY newMessageCmd2.key "N">
 <!ENTITY newMessageCmd.key "M">
 <!ENTITY newMessageCmd.label "বার্তা (M)">
-<!ENTITY newMessageCmd.accesskey "m">
+<!ENTITY newMessageCmd.accesskey "M">
  
 <!ENTITY newContactCmd.label "ঠিকানা বইয়ের পরিচিতি… (C)">
 <!ENTITY newContactCmd.accesskey "C">

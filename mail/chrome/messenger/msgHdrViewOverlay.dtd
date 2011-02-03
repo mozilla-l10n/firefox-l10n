@@ -105,14 +105,14 @@
 <!ENTITY saveAsAttachmentCmd.accesskey "A">
 <!ENTITY detachAttachmentCmd.label "আলাদা করা…">
 <!ENTITY deleteAttachmentCmd.label "মুছে ফেলা">
-<!ENTITY openAllAttachmentsCmd.label "Open All…">
+<!ENTITY openAllAttachmentsCmd.label "সব খুলুন...(O)">
 <!ENTITY openAllAttachmentsCmd.accesskey "O">
 <!ENTITY saveAllAttachmentsCmd.label "সব সংরক্ষণ... (S)">
 <!ENTITY saveAllAttachmentsCmd.accesskey "S">
 <!ENTITY detachAllAttachmentsCmd.label "সব আলাদা করা... (D)">
 <!ENTITY detachAllAttachmentsCmd.accesskey "D">
 <!ENTITY deleteAllAttachmentsCmd.label "সব মুছে ফেলা... (e)">
-<!ENTITY deleteAllAttachmentsCmd.accesskey "E">
+<!ENTITY deleteAllAttachmentsCmd.accesskey "e">
 
 <!ENTITY copyLinkCmd.label "লিংকের অবস্থান অনুলিপি করা (C)">
 <!ENTITY copyLinkCmd.accesskey "C">

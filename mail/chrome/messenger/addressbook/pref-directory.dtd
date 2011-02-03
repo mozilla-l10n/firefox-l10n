@@ -43,8 +43,8 @@
 <!ENTITY directoriesText.label "একটি LDAP ডিরেক্টরি সার্ভার নির্বাচন করুন (S):">
 <!ENTITY directoriesText.accesskey "S">
 <!ENTITY addDirectory.label "যোগ (A)">
-<!ENTITY addDirectory.accesskey "a">
+<!ENTITY addDirectory.accesskey "A">
 <!ENTITY editDirectory.label "সম্পাদনা (E)">
-<!ENTITY editDirectory.accesskey "e">
+<!ENTITY editDirectory.accesskey "E">
 <!ENTITY deleteDirectory.label "মুছে ফেলুন (D)">
-<!ENTITY deleteDirectory.accesskey "d">
+<!ENTITY deleteDirectory.accesskey "D">

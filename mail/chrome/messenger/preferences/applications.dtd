@@ -7,7 +7,7 @@
 <!ENTITY focusSearch1.key "f">
 <!ENTITY focusSearch2.key "k">
 
-<!ENTITY filter.placeholder "Search">
+<!ENTITY filter.placeholder "অনুসন্ধান">
 
 <!ENTITY saveTo.label "এখানে ফাইল সংরক্ষণ করা হবে (S)">
 <!ENTITY saveTo.accesskey "S">

@@ -52,7 +52,7 @@ you can use these alternative items. Otherwise, their values should be empty.  -
 <!ENTITY menu_highlightSyntax.label "সিনট্যাক্স হাইলাইট করা হবে (H)">
 <!ENTITY menu_highlightSyntax.accesskey "H">
 <!ENTITY menu_textSize.label "লেখার আকার (z)">
-<!ENTITY menu_textSize.accesskey "Z">
+<!ENTITY menu_textSize.accesskey "z">
 <!ENTITY menu_textEnlarge.label "বৃদ্ধি (I)">
 <!ENTITY menu_textEnlarge.accesskey "I">
 <!ENTITY menu_textReduce.label "হ্রাস (D)">

@@ -3,12 +3,12 @@
 <!ENTITY requestReceipt.accesskey "W">
 <!ENTITY receiptArrive.label "যখন প্রাপ্তি পৌছায়:">
 <!ENTITY leaveIt.label "আমার ইনবক্সে রেখে দেয়া হবে (I)">
-<!ENTITY leaveIt.accesskey "i">
+<!ENTITY leaveIt.accesskey "I">
 <!ENTITY moveToSent.label "এটাকে আমার &quot;প্রেরিত&quot; ফোল্ডারে নিয়ে যাওয়া হবে (M)">
-<!ENTITY moveToSent.accesskey "m">
+<!ENTITY moveToSent.accesskey "M">
 <!ENTITY requestMDN.label "আমি যখন প্রাপ্তিজ্ঞাপন জন্য অনুরোধ পাই:">
 <!ENTITY never.label "কখনও প্রাপ্তিজ্ঞাপন পাঠানো হবে না (N)">
-<!ENTITY never.accesskey "n">
+<!ENTITY never.accesskey "N">
 <!ENTITY returnSome.label "কিছু বার্তার জন্য প্রাপ্তিজ্ঞাপন অনুমোদন দেয়া হবে (r)">
 <!ENTITY returnSome.accesskey "r">
 <!ENTITY notInToCc.label "আমাকে যদি বার্তার প্রাপক বা Cc-তে অন্তর্ভুক্ত করা নয় হয় (f):">

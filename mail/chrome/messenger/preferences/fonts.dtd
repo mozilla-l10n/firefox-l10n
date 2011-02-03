@@ -14,11 +14,11 @@
 <!ENTITY proportional.accesskey "P">
 
 <!ENTITY serif.label "সেরিফ (S):">
-<!ENTITY serif.accesskey "s">
+<!ENTITY serif.accesskey "S">
 <!ENTITY sans-serif.label "সান্স-সেরিফ (n):">
 <!ENTITY sans-serif.accesskey "n">
 <!ENTITY monospace.label "মনোস্পেস (M):">
-<!ENTITY monospace.accesskey "m">
+<!ENTITY monospace.accesskey "M">
 
 <!ENTITY font.langGroup.latin1 "পশ্চিমা">
 <!ENTITY font.langGroup.latin2 "মধ্য ইউরোপিয়">

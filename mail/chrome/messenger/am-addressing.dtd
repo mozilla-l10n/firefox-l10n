@@ -10,7 +10,7 @@
 <!ENTITY editDirectories.accesskey "E">
 <!-- LOCALIZATION NOTE (directories.label) : do not translate "LDAP" in below line -->
 <!ENTITY directories.label "ভিন্ন কোনো LDAP সার্ভার ব্যবহার: (D)">
-<!ENTITY directories.accesskey "d">
+<!ENTITY directories.accesskey "D">
 <!ENTITY directoriesNone.label "কোনটি না">
 <!-- am-addressing.xul -->
 

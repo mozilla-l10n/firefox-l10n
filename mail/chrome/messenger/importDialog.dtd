@@ -77,11 +77,3 @@ LOCALIZATION NOTE : Do not translate any of the occurrences of the word
 
 <!ENTITY title.label "শিরোনাম">
 <!ENTITY processing.label "ইমপোর্ট করা হচ্ছে...">
-
-<!ENTITY FieldDiscInputText1.label "প্রতিটি কার্ডের জন্য নেটস্কেপ কমিউনিকেটর 4.x এর একটি মেইল ঠিকানা আছে, যেখানে &brandShortName; এর আছে দুটি (বাসা এবং অফিস)।">
-<!ENTITY FieldDiscInputText2.label "ইমপোর্টকৃত মেইল ঠিকানা যে শ্রেণীতে সংরক্ষণ করতে চান তা নির্বাচন করুন:">
-<!ENTITY FieldDiscWarning.label "এই শ্রেণীটি নির্বাচিত ঠিকানা বইয়ের সব ভুক্তির জন্য ব্যবহৃত হবে:">
-<!ENTITY importHome.label "বাসা (H)">
-<!ENTITY importHome.accesskey "H">
-<!ENTITY importWork.label "অফিস (W)">
-<!ENTITY importWork.accesskey "W">

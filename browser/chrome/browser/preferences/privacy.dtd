@@ -15,7 +15,7 @@
 <!ENTITY acceptCookies.accesskey "C">
 
 <!ENTITY acceptThirdParty.label "তৃতীয়-পক্ষের কুকি গ্রহণ করা হবে (P)">
-<!ENTITY acceptThirdParty.accesskey "p">
+<!ENTITY acceptThirdParty.accesskey "P">
 
 <!ENTITY keepUntil.label "সংরক্ষণের সময়কাল: (K)">
 <!ENTITY keepUntil.accesskey "K">
@@ -47,7 +47,7 @@
 <!ENTITY rememberActions.clearHistory.label "আপনার সাম্প্রতিক ইতিহাস মুছে ফেলতে">
 <!ENTITY rememberActions.middle.label ", বা ">
 <!ENTITY rememberActions.removeCookies.label "কুকিগুলো পৃথকভাবে অপসারণ করতে পারেন">
-<!ENTITY rememberActions.post.label "।">
+<!ENTITY rememberActions.post.label ".">
 
 <!ENTITY dontrememberDescription.label "&brandShortName; একান্ত ব্রাউজিং এর মতোই সেটিং ব্যবহার করবে, এবং আপনার ব্রাউজিং এর কোন তথ্য সংরক্ষণ করবে না।">
 <!-- LOCALIZATION NOTE (dontrememberActions.pre.label): include a trailing space as needed -->
@@ -55,12 +55,12 @@
 
 <!ENTITY dontrememberActions.pre.label "আপনি চাইলে ">
 <!ENTITY dontrememberActions.clearHistory.label "বর্তমান সব ইতিহাস মুছে ফেলা হবে">
-<!ENTITY dontrememberActions.post.label "।">
+<!ENTITY dontrememberActions.post.label ".">
 
-<!ENTITY privateBrowsingPermanent.label "Permanent Private Browsing mode">
+<!ENTITY privateBrowsingPermanent.label "স্থায়ী ব্যক্তিগত ব্রাউজিং মোড (P)">
 <!ENTITY privateBrowsingPermanent.accesskey "P">
 
-<!ENTITY rememberHistory.label "Remember my browsing history">
+<!ENTITY rememberHistory.label "আমার ব্রাউজিং এর ইতিহাস মনে রাখুন (b)">
 <!ENTITY rememberHistory.accesskey "b">
 
 <!ENTITY rememberDownload.label "ডাউনলোড ইতিহাস মনে রাখা হবে (d)">

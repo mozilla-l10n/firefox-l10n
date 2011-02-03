@@ -10,15 +10,15 @@
 
 <!ENTITY privatebrowsingpage.clearRecentHistoryBefore "আপনি চাইলে শুরুতে  ">
 <!ENTITY privatebrowsingpage.clearRecentHistoryInner "আপনার সাম্প্রতিক ইতিহাস মুছে ফেলতে পারেন ">
-<!ENTITY privatebrowsingpage.clearRecentHistoryAfter "।">
+<!ENTITY privatebrowsingpage.clearRecentHistoryAfter ".">
 
 <!ENTITY privatebrowsingpage.startPrivateBrowsing.label "একান্ত ব্রাউজিং শুরু করুন (P)">
 <!ENTITY privatebrowsingpage.startPrivateBrowsing.accesskey "P">
 <!-- LOCALIZATION NOTE (privatebrowsingpage.howToStop2): please leave &basePBMenu.label; intact in the translation -->
 <!-- LOCALIZATION NOTE (privatebrowsingpage.howToStart2): please leave &basePBMenu.label; intact in the translation -->
 
-<!ENTITY privatebrowsingpage.howToStop2 "To stop Private Browsing, select &basePBMenu.label; &gt; &privateBrowsingCmd.stop.label;, or close &brandShortName;.">
-<!ENTITY privatebrowsingpage.howToStart2 "To start Private Browsing, you can also select &basePBMenu.label; &gt; &privateBrowsingCmd.start.label;.">
+<!ENTITY privatebrowsingpage.howToStop2 "একান্ত ব্রাউজিং বন্ধ করতে, &basePBMenu.label; &gt; privateBrowsingCmd.stop.label নির্বাচন;, অথবা&brandShortName; বন্ধ।">
+<!ENTITY privatebrowsingpage.howToStart2 "একান্ত ব্রাউজিং আরম্ভ করতে , basePBMenu.label ও নির্বাচন করতে পারেন; &gt; &privateBrowsingCmd.start.label;।">
 
 <!ENTITY privatebrowsingpage.moreInfo "যদিও এই কম্পিউটারে আপনার ব্রাউজিং ইতিহাসের কোন রেকর্ড থাকবে না,  আপনার ইন্টারনেট সেবা প্রদানকারী বা আপনার কর্মকর্তাগন আপনার পরিদর্শিত পাতাগুলো অবলোকন করতে পারে।">
 <!ENTITY privatebrowsingpage.learnMore "আরও তথ্য জানুন">

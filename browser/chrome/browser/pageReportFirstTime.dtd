@@ -1,7 +1,0 @@
-<!ENTITY startDescriptionText.label "A web site has attempted to open a pop-up window without your permission. &brandShortName; has automatically closed the pop-up window.">
-
-<!ENTITY endDescription.label "ঐ আইকনটি ক্লিক করে আপনি দেখতে পারেন &brandShortName; কোন কোন পপ-আপ রোধ করেছে, এবং সাইটটি সঠিকভাবে দেখার জন্য ঐ পপ-আপগুলো যদি প্রয়োজন হয় তাহলে অনুমতি প্রদান করতে পারেন।">
-
-<!ENTITY caption.label "পপ-আপ রোধ প্রসঙ্গে ">
-
-<!ENTITY done.label "সম্পন্ন">

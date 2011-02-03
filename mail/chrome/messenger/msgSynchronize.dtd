@@ -13,7 +13,7 @@
 <!ENTITY workOffline.label "একবার ডাউনলোড এবং/বা যুগপৎ করণ সম্পন্ন হলে অফলাইনে কাজ করা (W)">
 <!ENTITY workOffline.accesskey "W">
 <!ENTITY selectButton.label "নির্বাচন... (e)">
-<!ENTITY selectButton.accesskey "E">
+<!ENTITY selectButton.accesskey "e">
 <!ENTITY MsgSelectDesc.label "অফলাইনে ব্যবহারের জন্য মেইল ফোল্ডার এবং নিউজগ্রুপ পছন্দ করা হবে।">
 <!ENTITY MsgSelectInd.label "ডাউনলোড">
 <!ENTITY MsgSelectItems.label "ফোল্ডার এবং নিউজগ্রুপ">

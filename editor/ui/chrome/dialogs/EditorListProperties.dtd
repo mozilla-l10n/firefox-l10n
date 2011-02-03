@@ -50,4 +50,4 @@
 <!ENTITY changeEntireListRadio.label "সম্পূর্ণ তালিকা পরিবর্তন (C)">
 <!ENTITY changeEntireListRadio.accessKey "C">
 <!ENTITY changeSelectedRadio.label "শুধুমাত্র নির্বাচিত আইটেম পরিবর্তন (i)">
-<!ENTITY changeSelectedRadio.accessKey "I">
+<!ENTITY changeSelectedRadio.accessKey "i">

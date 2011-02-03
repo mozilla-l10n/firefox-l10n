@@ -52,10 +52,10 @@
 <!ENTITY deleteBookmarks.accesskey "b">
 
 <!ENTITY resetUserPrefs.label "ব্যবহারকারীর পছন্দসমূহ &brandShortName; এর ডিফল্ট মানে পুনঃনির্ধারণ (P)">
-<!ENTITY resetUserPrefs.accesskey "p">
+<!ENTITY resetUserPrefs.accesskey "P">
 
 <!ENTITY restoreSearch.label "ডিফল্ট অনুসন্ধান ইনজিন পুনঃস্থাপন (S)">
-<!ENTITY restoreSearch.accesskey "s">
+<!ENTITY restoreSearch.accesskey "S">
 
 <!ENTITY changeAndRestartButton.label "পরিবর্তন করে আবার চালু করা হবে">
 <!ENTITY continueButton.label "নিরাপদ মোড চালু রাখা হবে">

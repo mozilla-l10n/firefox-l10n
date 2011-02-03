@@ -9,7 +9,7 @@
 -->
 
 <!ENTITY blockAttackSites.label "রিপোর্টকৃত আক্রমনকারী সাইট প্রতিরোধ করা হবে (K)">
-<!ENTITY blockAttackSites.accesskey "k">
+<!ENTITY blockAttackSites.accesskey "K">
 
 <!ENTITY blockWebForgeries.label "রিপোর্টকৃত ওয়েব জালিয়াতি প্রতিরোধ করা হবে (B)">
 <!ENTITY blockWebForgeries.accesskey "B">
@@ -22,7 +22,7 @@
 
 <!ENTITY rememberPasswords.label "ওয়েবসাইটের পাসওয়ার্ড মনে রাখা হবে (R)">
 <!ENTITY rememberPasswords.accesskey "R">
-<!ENTITY passwordExceptions.label "ব্যতিক্রম... (X)">
+<!ENTITY passwordExceptions.label "ব্যতিক্রম... (x)">
 <!ENTITY passwordExceptions.accesskey "x">
 
 <!ENTITY useMasterPassword.label "মাস্টার পাসওয়ার্ড ব্যবহার করা হবে (U)">
