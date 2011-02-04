@@ -3,6 +3,8 @@
 <!ENTITY aboutHome.remoteTabs                   "Tabbladen van uw andere computers">
 <!ENTITY aboutHome.recommendedAddons2           "Add-ons voor &brandShortName;">
 <!ENTITY aboutHome.giveFeedback                 "Feedback geven">
+<!ENTITY aboutHome.getHelp                      "Hulp verkrijgen">
+<!ENTITY aboutHome.footerWidth                  "10em">
 <!ENTITY aboutHome.openAllTabs                  "Alle openen in tabbladen">
 <!ENTITY aboutHome.noTabs                       "Geen tabbladen van de vorige keer">
 <!ENTITY aboutHome.noAddons                     "Geen aanbevolen add-ons">
