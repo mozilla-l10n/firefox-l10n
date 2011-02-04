@@ -3,8 +3,7 @@
 <!-- First page of the wizard -->
 <!ENTITY setup.pickSetupType.description "Us donem la benvinguda, si mai heu fet servir el &syncBrand.fullName.label; abans, caldrà que creeu primer un nou compte.">
 <!ENTITY button.createNewAccount.label "Crea un compte">
-<!ENTITY setup.haveAccount.label "Ja tinc un compte del &syncBrand.fullName.label;">
-<!ENTITY button.connect.label    "Connecta">
+<!ENTITY button.haveAccount.label "Tinc un compte del &syncBrand.fullName.label;">
 
 <!ENTITY setup.choicePage.title.label     "Heu fet servir el &syncBrand.fullName.label; abans?">
 <!ENTITY setup.choicePage.new.label       "Mai abans he fet servir el &syncBrand.shortName.label;">
@@ -13,13 +12,13 @@
 <!-- New Account AND Existing Account -->
 <!ENTITY server.label               "Servidor">
 <!ENTITY serverType.main.label      "Servidor del &syncBrand.fullName.label;">
-<!ENTITY serverType.custom2.label    "Utilitza un servidor personalitzat…">
-<!ENTITY signIn.account2.label       "Compte">
-<!ENTITY signIn.account2.accesskey   "e">
+<!ENTITY serverType.custom.label    "Utilitza un servidor personalitzat…">
+<!ENTITY signIn.account.label       "Adreça electrònica / Nom d'usuari">
+<!ENTITY signIn.account.accesskey   "e">
 <!ENTITY signIn.password.label      "Contrasenya">
 <!ENTITY signIn.password.accesskey  "y">
-<!ENTITY signIn.syncKey.label       "Clau de sincronització">
-<!ENTITY signIn.syncKey.accesskey   "a">
+<!ENTITY signIn.serverURL.label     "URL del servidor">
+<!ENTITY signIn.serverURL.accesskey "S">
 
 <!-- New Account Page 1: Basic Account Info -->
 <!ENTITY setup.newAccountDetailsPage.title.label "Detalls del compte">
@@ -56,13 +55,16 @@
 <!-- New Account Page 3: Captcha -->
 <!ENTITY setup.captchaPage2.title.label     "Confirmeu que no sou cap robot">
 
-<!-- Existing Account Page 2: Manual Login -->
-
-<!ENTITY setup.signInPage.title.label "Inicia una sessió">
-<!ENTITY existingSyncKey.description "Podeu obtenir una còpia de la clau de sincronització anant a les opcions del &syncBrand.shortName.label; del vostre altre dispositiu, seleccioneu «La meva clau de sincronització» a «Gestiona el compte».">
+<!-- Existing Account Page 2: Sync Key -->
+<!ENTITY setup.existingSyncKeyPage.title "Introduïu la clau de sincronització">
+<!ENTITY setup.existingSyncKeyPage.description "Se us ha generat una clau de sincronització, o bé heu introduït una pròpia, quan us vàreu registrar per primera vegada al &syncBrand.fullName.label;. No és el mateix que la contrasenya.">
+<!ENTITY existingSyncKeyHelp.description "Podeu trobar una còpia de la clau sincronització anant al vostre altre ordinador i comprovant les contrasenyes desades a la secció de segureta. Si no podeu recuperar la clau de sincronització correcta, podeu optar per reiniciar-la, però però perdreu totes les dades emmagatzemades al servidor.">
+<!ENTITY lostSyncKey.label            "He perdut la clau de sincronització">
 <!ENTITY verifying.label              "S'està verificant…">
+
+<!ENTITY setup.existingAccount.title.label "Introducció d'informació del compte">
 <!ENTITY resetPassword.label          "Reinicia la contrasenya">
-<!ENTITY resetSyncKey.label           "He perdut el meu altre dispositiu.">
+<!ENTITY connecting.label             "S'està connectant…">
 
 <!-- Sync Options -->
 <!ENTITY setup.optionsPage.title      "Opcions de sincronització">
@@ -89,9 +91,11 @@
 <!-- Confirm Merge Options -->
 <!ENTITY setup.optionsConfirmPage.title "Confirmació">
 <!ENTITY confirm.merge.label          "El &syncBrand.fullName.label; ara fusionarà les dades de navegació d'aquest ordinador en el vostre compte de sincronització.">
-<!ENTITY confirm.client2.label         "Avís: les dades següents del &brandShortName; se suprimiran en aquest ordinador:">
+<!ENTITY confirm.client.label         "Totes les dades següents del &brandShortName; se suprimiran en aquest ordinador, incloent-hi:">
 <!ENTITY confirm.client.moreinfo.label "Aleshores el &brandShortName; copiarà les vostres dades del &syncBrand.fullName.label; a l'ordinador.">
-<!ENTITY confirm.server2.label         "Avís: se sobrescriuran les dades dels dispositius següents amb les vostres dades locals:">
+<!ENTITY confirm.client.warning.label "Avís: totes les dades del &brandShortName; a l'ordinador seran reemplaçades!">
+<!ENTITY confirm.server.label         "Se sobrescriuran les dades dels dispositius següents amb les vostres dades locals:">
+<!ENTITY confirm.server.warning.label "Avís: se reemplaçaran les vostres dades locales del &brandShortName; en aquests dispositius!">
 
 <!-- New & Existing Account: Setup Complete -->
 <!ENTITY setup.successPage.title   "S'ha completat la configuració!">
