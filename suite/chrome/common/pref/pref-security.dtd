@@ -37,6 +37,11 @@
 
 <!--LOCALIZATION NOTE : FILE 'Privacy and Security' prefs settings -->
 <!ENTITY pref.security.title "Soukromí a Zabezpečení">
+
+<!ENTITY tracking.label "Sledování uživatelů">
+<!ENTITY doNotTrack.label "Informovat servery, že nechci být sledován">
+<!ENTITY doNotTrack.accesskey "I">
+
 <!ENTITY privateData.label "Důvěrná data">
 
 <!ENTITY alwaysClear.label "Při ukončení aplikace &brandShortName; vymazat důvěrná data">
@@ -46,6 +51,7 @@
 <!ENTITY askBeforeClear.accesskey "D">
 
 <!ENTITY clearDataSettings.label "Při mazání důvěrných dat z aplikace &brandShortName; vymazat následující:">
+
 <!--LOCALIZATION NOTE (clearDataDialog.label, clearDataSilent.label, clearDataDialog.accesskey):
   The only difference bettween the two labels is that one calls a dialog, the other doesn't.
   The same accesskey is used for both labels.
