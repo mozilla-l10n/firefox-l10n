@@ -1,6 +1,7 @@
 <!ENTITY linksHeader.label "Comportament dels enllaços">
 <!ENTITY newWindow.label "Comportament en obrir enllaços">
 <!ENTITY newWindowDescription.label "Obrir enllaços vol dir obrir-los en una nova finestra en">
+<!ENTITY newWindowRestriction.label "Quan els scripts vulguin obrir una finestra nova:">
 <!ENTITY external.label "Enllaços d'altres aplicacions">
 <!ENTITY externalDescription.label "Obre els enllaços d'altres aplicacions en">
 <!ENTITY openCurrent.label "La pestanya/finestra actual">
@@ -12,3 +13,10 @@
 <!ENTITY openWindow.label "Una nova finestra">
 <!ENTITY newWindowGroupWindow.accesskey "f">
 <!ENTITY externalGroupWindow.accesskey "o">
+
+<!ENTITY divertAll.label "Desvia sempre les finestres en pestanyes">
+<!ENTITY divertAll.accesskey "D">
+<!ENTITY divertNoFeatures.label "No desviïs les finestres pròpies en pestanyes">
+<!ENTITY divertNoFeatures.accesskey "s">
+<!ENTITY dontDivert.label "Obre sempre finestres noves">
+<!ENTITY dontDivert.accesskey "n">
