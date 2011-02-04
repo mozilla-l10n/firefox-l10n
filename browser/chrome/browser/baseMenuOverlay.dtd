@@ -14,8 +14,6 @@
 <!ENTITY aboutProduct.accesskey "O">
 <!ENTITY productHelp.label "Nápověda aplikace &brandShortName;">
 <!ENTITY productHelp.accesskey "N">
-<!ENTITY helpForIEUsers.label "Pro uživatele Internet Exploreru">
-<!ENTITY helpForIEUsers.accesskey "I">
 <!ENTITY helpMac.commandkey "?">
 <!ENTITY helpSafeMode.label "Restartovat se zakázanými doplňky…">
 <!ENTITY helpSafeMode.accesskey "R">
