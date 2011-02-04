@@ -80,11 +80,3 @@ LOCALIZATION NOTE : Do not translate any of the occurances of the word
 <!ENTITY title.label "Títol">
 <!ENTITY processing.label "S'està important…">
 
-<!ENTITY FieldDiscInputText1.label "El Netscape Communicator 4.x té una adreça de correu per a cada targeta, mentre que el &brandShortName; en té dues (Particular i Feina).">
-<!ENTITY FieldDiscInputText2.label "Seleccioneu la categoria on voleu emmagatzemar les adreces de correu importades:">
-<!ENTITY FieldDiscWarning.label "Aquesta categoria s'utilitzarà per a totes les entrades de la llibreta d'adreces seleccionada:">
-<!ENTITY importHome.label        "Particular">
-<!ENTITY importHome.accesskey    "P">
-<!ENTITY importWork.label        "Feina">
-<!ENTITY importWork.accesskey    "F">
-
