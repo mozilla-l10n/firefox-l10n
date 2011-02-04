@@ -41,6 +41,10 @@
 <!--LOCALIZATION NOTE : FILE 'Privacy and Security' prefs settings -->
 <!ENTITY pref.security.title              "Privadesa i seguretat">
 
+<!ENTITY tracking.label                   "Seguiment de l'usuari">
+<!ENTITY doNotTrack.label                 "Fes saber als llocs web que no vull que se'm segueixi">
+<!ENTITY doNotTrack.accesskey             "F">
+
 <!ENTITY privateData.label                "Dades privades">
 
 <!ENTITY alwaysClear.label                "Neteja sempre les meves dades privades quan tanqui el &brandShortName;">
