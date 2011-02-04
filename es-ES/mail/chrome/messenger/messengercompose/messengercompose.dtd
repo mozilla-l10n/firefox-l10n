@@ -183,7 +183,6 @@
 <!ENTITY followupAddr.label "Followup-To:">
 <!ENTITY subject.label "Asunto:">
 <!ENTITY subject.accesskey "S">
-<!ENTITY attachments.label "Adjuntos:">
 <!ENTITY attachments.accesskey "j">
 <!ENTITY SmileButton.tooltip "Insertar un emoticono">
 <!ENTITY smiley1Cmd.label "Sonriendo">
