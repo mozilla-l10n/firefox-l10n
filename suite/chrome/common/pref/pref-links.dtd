@@ -1,8 +1,9 @@
 <!ENTITY linksHeader.label "Comportamiento de los enlaces">
 <!ENTITY newWindow.label "Comportamiento al abrir enlaces">
-<!ENTITY newWindowDescription.label "Abrir enlaces que intentan abrir una ventana nueva en">
+<!ENTITY newWindowDescription.label "Abrir enlaces que intentan abrir una ventana nueva en:">
+<!ENTITY newWindowRestriction.label "Cuando un script quiere abrir una ventana nueva:">
 <!ENTITY external.label "Los enlaces de otras aplicaciones">
-<!ENTITY externalDescription.label "Abrir enlaces pasados desde otras aplicaciones en">
+<!ENTITY externalDescription.label "Abrir enlaces pasados desde otras aplicaciones en:">
 <!ENTITY openCurrent.label "La pestaña/ventana actual">
 <!ENTITY newWindowGroupCurrent.accesskey "L">
 <!ENTITY externalGroupCurrent.accesskey "a">
@@ -12,3 +13,9 @@
 <!ENTITY openWindow.label "Una ventana nueva">
 <!ENTITY newWindowGroupWindow.accesskey "v">
 <!ENTITY externalGroupWindow.accesskey "e">
+<!ENTITY divertAll.label "Convertir siempre ventanas en pestañas">
+<!ENTITY divertAll.accesskey "C">
+<!ENTITY divertNoFeatures.label "No convertir ventanas personalizadas en pestañas">
+<!ENTITY divertNoFeatures.accesskey "d">
+<!ENTITY dontDivert.label "Abrir siempre ventanas nuevas">
+<!ENTITY dontDivert.accesskey "b">

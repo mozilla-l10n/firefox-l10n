@@ -36,6 +36,9 @@
    -
    - ***** END LICENSE BLOCK ***** -->
 <!ENTITY pref.security.title "Privacidad y seguridad">
+<!ENTITY tracking.label "Rastreo de usuarios">
+<!ENTITY doNotTrack.label "Indicar a los sitios web que no quiero ser rastreado">
+<!ENTITY doNotTrack.accesskey "I">
 <!ENTITY privateData.label "Datos privados">
 <!ENTITY alwaysClear.label "Limpiar siempre mis datos privados cuando cierre &brandShortName;">
 <!ENTITY alwaysClear.accesskey "L">
