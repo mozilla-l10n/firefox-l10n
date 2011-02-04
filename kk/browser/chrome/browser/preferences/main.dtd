@@ -18,7 +18,7 @@
 <!ENTITY downloads.label     "Жүктемелер">
 
 <!ENTITY showWhenDownloading.label     "Файлды жүктеу кезінде жүктемелер терезесін көрсету">
-<!ENTITY showWhenDownloading.accesskey "ф">
+<!ENTITY showWhenDownloading.accesskey "Ф">
 <!ENTITY closeWhenDone.label "Барлық жүктемелер аяқталған кезде жабу">
 <!ENTITY closeWhenDone.accesskey "я">
 <!ENTITY saveTo.label "Файлдарды келесі жерге сақтау">
