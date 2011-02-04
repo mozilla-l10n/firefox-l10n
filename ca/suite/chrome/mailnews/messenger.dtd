@@ -126,14 +126,12 @@
 <!ENTITY deleteMsgCmd.accesskey "u">
 <!ENTITY undeleteMsgCmd.label "Recupera el missatge esborrat">
 <!ENTITY undeleteMsgCmd.accesskey "b">
-<!ENTITY cancelNewsMsgCmd.label "Canceŀla el missatge">
-<!ENTITY cancelNewsMsgCmd.accesskey "n">
 <!ENTITY deleteMsgsCmd.label "Suprimeix els missatges seleccionats">
 <!ENTITY deleteMsgsCmd.accesskey "u">
 <!ENTITY undeleteMsgsCmd.label "Recupera els missatges esborrats seleccionats">
 <!ENTITY undeleteMsgsCmd.accesskey "m">
-<!ENTITY cancelNewsMsgsCmd.label "Canceŀla els missatges seleccionats">
-<!ENTITY cancelNewsMsgsCmd.accesskey "C">
+<!ENTITY cancelNewsMsgCmd.label "Canceŀla el missatge">
+<!ENTITY cancelNewsMsgCmd.accesskey "C">
 <!ENTITY deleteFolderCmd.label "Suprimeix la carpeta">
 <!ENTITY deleteFolderCmd.accesskey "x">
 <!ENTITY unsubscribeNewsgroupCmd.label "Canceŀla la subscripció">
