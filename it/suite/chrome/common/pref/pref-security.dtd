@@ -36,6 +36,9 @@
    -
    - ***** END LICENSE BLOCK ***** -->
 <!ENTITY pref.security.title "Privacy e Sicurezza">
+<!ENTITY tracking.label "Tracciamento utente">
+<!ENTITY doNotTrack.label "Attiva l'opzione anti-tracciamento dei dati personali">
+<!ENTITY doNotTrack.accesskey "A">
 <!ENTITY privateData.label "Dati personali">
 <!ENTITY alwaysClear.label "Elimina sempre i dati personali alla chiusura di &brandShortName;">
 <!ENTITY alwaysClear.accesskey "E">
