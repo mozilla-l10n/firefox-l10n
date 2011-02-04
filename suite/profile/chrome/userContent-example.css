@@ -1,36 +1,37 @@
 /*
- * Edit this file and copy it as userContent.css into your
- * profile-directory/chrome/
+ * Muokkaa tätä tiedostoa ja kopioi nimellä userContent.css 
+ * profiilikansiosi chrome-kansioon
  */
 
 /*
- * This file can be used to apply a style to all web pages you view
- * Rules without !important are overruled by author rules if the
- * author sets any.  Rules with !important overrule author rules.
+ * Tätä tiedostoa muokkaamalla on mahdollista muuttaa kaikkien ohjelmalla
+ * avattujen WWW-sivujen ulkonäköä. Säännöt, joissa on !important-lisäys,
+ * korvaavat sivun tekijän antamat samannimiset säännöt. Jos lisäystä ei 
+ * löydy, sivulle asetetut tyylit voivat korvata tässä tiedostossa annetut.
  */
 
 /*
- * example: turn off "blink" element blinking
+ * esimerkki: estetään blink-elementtiä vilkkumasta
  *
  * blink { text-decoration: none ! important; }
  *
  */
 
 /*
- * example: give all tables a 2px border
+ * esimerkki: asetetaan kaikille taulukoille kahden kuvapisteen reunat
  *
  * table { border: 2px solid; }
  */
 
 /*
- * example: turn off "marquee" element
+ * esimerkki: estetään marquee-elementtin sisällön vieriminen
  *
  * marquee { -moz-binding: none; }
  *
  */
 
 /*
- * example: make search fields on www.mozilla.org black-on-white
+ * esimerkki: tehdään kaikista www.mozilla.org-sivustolla olevien hakukenttien teksteistä mustaa valkoisella:
  *
  * @-moz-document url-prefix(http://www.mozilla.org/) {
  *   #q { background: white ! important; color: black ! important; }
@@ -38,6 +39,6 @@
  */
  
 /* 
- * For more examples see http://www.mozilla.org/unix/customizing.html
+ * Lisää esimerkkejä säännöistä (englanniksi) osoitteessa http://www.mozilla.org/unix/customizing.html
  */
 

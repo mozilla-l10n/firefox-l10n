@@ -1,39 +1,39 @@
 /*
- * Edit this file and copy it as userChrome.css into your
- * profile-directory/chrome/
+ * Muokkaa tätä tiedostoa ja kopioi nimellä userChrome.css 
+ * profiilikansiosi chrome-kansioon
  */
 
 /*
- * This file can be used to customize the look of Mozilla's user interface
- * You should consider using !important on rules which you want to
- * override default settings.
+ * Tätä tiedostoa muokkaamalla on mahdollista radikaalisti muuttaa ohjelman
+ * käyttöliittymän ulkonäköä. Jos antamasi säännön on tarkoitus korvata
+ * olemassa oleva sääntö, käytä !important -lisäystä.
  */
 
 /*
- * Do not remove the @namespace line -- it's required for correct functioning
+ * Älä poista seuraavaa @namespace riviä. Ilman sitä tiedosto ei toimi oikein.
  */
-@namespace url("http://www.mozilla.org/keymaster/gatekeeper/there.is.only.xul"); /* set default namespace to XUL */
+@namespace url("http://www.mozilla.org/keymaster/gatekeeper/there.is.only.xul"); /* Asetetaan oletusnimiavaruudeksi XUL */
 
 
 /*
- * Some possible accessibility enhancements:
+ * Seuraavaksi joitain mahdollisia esteettömyysmuokkauksia:
  */
 /*
- * Make all the default font sizes 20 pt:
+ * Aseta käytettyjen kirjasimien oletuskooksi 20 pt:
  *
  * * {
  *   font-size: 20pt !important
  * }
  */
 /*
- * Make menu items in particular 15 pt instead of the default size:
+ * Aseta ainoastaan valikkojen kirjasinkooksi 15 pt oletuskoon sijaan:
  *
  * menupopup > * {
  *   font-size: 15pt !important
  * }
  */
 /*
- * Give the Location (URL) Bar a fixed-width font
+ * Aseta osoitepalkin kirjasin tasaväliseksi:
  *
  * #urlbar {
  *    font-family: monospace !important;
@@ -41,7 +41,7 @@
  */
 
 /*
- * Eliminate the throbber and its annoying movement:
+ * Eliminoi toimintaindikaattori ja sen ärsyttävä animaatio:
  *
  * #throbber-box {
  *   display: none !important;
@@ -49,6 +49,6 @@
  */
 
 /*
- * For more examples see http://www.mozilla.org/unix/customizing.html
+ * Lisää esimerkkejä säännöistä (englanniksi) osoitteessa http://www.mozilla.org/unix/customizing.html
  */
  
