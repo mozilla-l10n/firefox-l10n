@@ -18,11 +18,11 @@
 <!ENTITY downloads.label     "Жүктемелер">
 
 <!ENTITY showWhenDownloading.label     "Файлды жүктеу кезінде жүктемелер терезесін көрсету">
-<!ENTITY showWhenDownloading.accesskey "ж">
+<!ENTITY showWhenDownloading.accesskey "ф">
 <!ENTITY closeWhenDone.label "Барлық жүктемелер аяқталған кезде жабу">
-<!ENTITY closeWhenDone.accesskey "а">
+<!ENTITY closeWhenDone.accesskey "я">
 <!ENTITY saveTo.label "Файлдарды келесі жерге сақтау">
-<!ENTITY saveTo.accesskey "к">
+<!ENTITY saveTo.accesskey "д">
 <!ENTITY chooseFolderWin.label        "Қарап шығу…">
 <!ENTITY chooseFolderWin.accesskey    "ш">
 <!ENTITY chooseFolderMac.label        "Таңдау...">
@@ -34,4 +34,4 @@
 <!ENTITY manageAddonsDescWin.label     "Кеңейтулеріңіздің баптауларын өзгертіңіз">
 <!ENTITY manageAddonsDescUnix2.label   "Кеңейтулеріңіздің баптауларын өзгертіңіз">
 <!ENTITY manageAddons.label            "Кеңейтулеріңізді баптау...">
-<!ENTITY manageAddons.accesskey        "К">
+<!ENTITY manageAddons.accesskey        "е">
