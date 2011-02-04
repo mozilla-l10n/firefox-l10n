@@ -1,5 +1,5 @@
-<!ENTITY privatebrowsingpage.title                 "Бетбелгілер мен тарих қазір қолжетерсіз, өйткені %S кейбір файлдарды басқа бағдарлама қолданып тұр. Кейбір қауіпсіздік бағдарламалар осындай мәселені тұғызуы мүмкін.">
-<!ENTITY privatebrowsingpage.title.normal          "Бетбелгілер мен тарих қазір қолжетерсіз, өйткені %S кейбір файлдарды басқа бағдарлама қолданып тұр. Кейбір қауіпсіздік бағдарламалар осындай мәселені тұғызуы мүмкін.">
+<!ENTITY privatebrowsingpage.title                 "Жекелік шолу">
+<!ENTITY privatebrowsingpage.title.normal          "Жекелік шолуды бастауды қалайсыз ба?">
 
 <!ENTITY privatebrowsingpage.issueDesc                 "&brandShortName; бұл сессия үшін тарих сақтамайды.">
 <!ENTITY privatebrowsingpage.issueDesc.normal          "&brandShortName; қазір жекелік шолу режимінде емес.">
