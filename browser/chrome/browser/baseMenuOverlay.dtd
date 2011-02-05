@@ -14,8 +14,6 @@
 <!ENTITY aboutProduct.accesskey   "о">
 <!ENTITY productHelp.label        "Довідка &brandShortName;">
 <!ENTITY productHelp.accesskey    "Д">
-<!ENTITY helpForIEUsers.label     "Для користувачів Internet Explorer">
-<!ENTITY helpForIEUsers.accesskey "я">
 <!ENTITY helpMac.commandkey       "?">
 <!ENTITY helpSafeMode.label       "Перезапуск з вимкненими додатками…">
 <!ENTITY helpSafeMode.accesskey   "П">
