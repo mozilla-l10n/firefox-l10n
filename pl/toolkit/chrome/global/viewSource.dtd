@@ -41,8 +41,8 @@
 <!ENTITY reloadCmd.label 	"Odśwież" >
 <!ENTITY reloadCmd.accesskey	"O" >
 <!ENTITY reloadCmd.commandkey	"r" >
-<!ENTITY menu_wrapLongLines.title "Zawijaj długie linie" >
-<!ENTITY menu_wrapLongLines.accesskey "W" >
+<!ENTITY menu_wrapLongLines.title "Zawijaj długie wiersze" >
+<!ENTITY menu_wrapLongLines.accesskey "w" >
 <!ENTITY menu_highlightSyntax.label "Podświetlanie składni" >
 <!ENTITY menu_highlightSyntax.accesskey "d" >
 <!ENTITY menu_textSize.label "Rozmiar tekstu">
