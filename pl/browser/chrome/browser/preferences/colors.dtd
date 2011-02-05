@@ -14,7 +14,7 @@
 <!ENTITY  useSystemColors.accesskey       "s">
 
 <!ENTITY  underlineLinks.label            "Podkreślaj odnośniki">
-<!ENTITY  underlineLinks.accesskey        "P">
+<!ENTITY  underlineLinks.accesskey        "d">
 <!ENTITY  links                           "Kolory odnośników">
 <!ENTITY  linkColor.label                 "Nieodwiedzone odnośniki:">
 <!ENTITY  linkColor.accesskey             "N">
