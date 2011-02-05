@@ -554,3 +554,4 @@ The word "toolbar" is appended automatically and should not be contained below! 
 <!ENTITY syncToolbarButton.label      "Sincronizar">
 
 <!ENTITY addonBarCloseButton.tooltip  "Cerrar barra de complementos">
+<!ENTITY toggleAddonBarCmd.key        "/">

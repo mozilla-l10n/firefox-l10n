@@ -209,7 +209,6 @@
 <!ENTITY followupAddr.label "Reenviar a:">
 <!ENTITY subject.label "Asunto:">
 <!ENTITY subject.accesskey "s">
-<!ENTITY attachments.label "Adjuntos:">
 <!ENTITY attachments.accesskey "j">
 
 <!-- Format Toolbar, imported from editorAppShell.xul -->
