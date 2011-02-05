@@ -103,7 +103,7 @@ can reach it easily. -->
 <!ENTITY subscribeToPageMenupopup.label "הירשם לדף זה">
 <!ENTITY subscribeToPageMenuitem.label "הירשם לדף זה...">
 <!ENTITY addCurPagesCmd.label "הוסף סימנייה לכל הלשוניות...">
-<!ENTITY showAllBookmarks2.label "Show All Bookmarks">
+<!ENTITY showAllBookmarks2.label "הצג את כל הסימניות">
 <!ENTITY bookmarkAllCmd.label "הוסף סימנייה לכל הלשוניות...">
 <!ENTITY bookmarksToolbarChevron.tooltip "הצג סימניות נוספות">
 
@@ -282,7 +282,7 @@ can reach it easily. -->
 <!ENTITY appMenuSidebars.label "סרגלי צד">
 <!ENTITY appMenuFind.label "מצא…">
 <!ENTITY appMenuUnsorted.label "סימניות לא ממויינות">
-<!ENTITY appMenuWebDeveloper.label "Web Developer">
+<!ENTITY appMenuWebDeveloper.label "כלי פיתוח">
 <!ENTITY appMenuGettingStarted.label "התחל כאן">
 <!ENTITY appMenuSafeMode.label "אתחל עם תוספות מנוטרלות…">
 <!ENTITY appMenuSafeMode.accesskey "א">
@@ -548,3 +548,6 @@ just addresses the organization to follow, e.g. "This site is run by " -->
 <!ENTITY syncSyncNowItem.label        "סנכרן כעת">
 <!ENTITY syncSyncNowItem.accesskey    "ס">
 <!ENTITY syncToolbarButton.label      "Sync">
+
+<!ENTITY addonBarCloseButton.tooltip  "סגירת שורת התוספות">
+<!ENTITY toggleAddonBarCmd.key        "/">

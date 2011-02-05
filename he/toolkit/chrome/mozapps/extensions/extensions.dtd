@@ -39,8 +39,17 @@
 <!ENTITY updates.checkForUpdates.accesskey    "ב">
 <!ENTITY updates.viewUpdates.label            "הצג עדכונים אחרונים">
 <!ENTITY updates.viewUpdates.accesskey        "ה">
+<!-- LOCALIZATION NOTE (updates.updateAddonsAutomatically.label): This menu item
+     is a checkbox that toggles the default global behavior for add-on update
+     checking. -->
 <!ENTITY updates.updateAddonsAutomatically.label     "עדכון תוספות אוטומטי">
 <!ENTITY updates.updateAddonsAutomatically.accesskey "ע">
+<!-- LOCALIZATION NOTE (updates.resetUpdatesToAutomatic.label, updates.resetUpdatesToManual.label):
+     Specific addons can have custom update checking behaviors ("Manually",
+     "Automatically", "Use default global behavior"). These menu items reset the
+     update checking behavior for all add-ons to the default global behavior
+     (which itself is either "Automatically" or "Manually", controlled by the
+     updates.updateAddonsAutomatically.label menu item). -->
 <!ENTITY updates.resetUpdatesToAutomatic.label       "אפס את כל התוספות לעדכון אוטומטי">
 <!ENTITY updates.resetUpdatesToAutomatic.accesskey   "א">
 <!ENTITY updates.resetUpdatesToManual.label          "אפס את כל התוספות לעדכון ידני">
@@ -95,9 +104,7 @@
 <!-- LOCALIZATION NOTE (discover.title,discover.description,discover.footer):
      Displayed in the center of the Get Add-ons view, see bug 601143 for mockups. -->
 <!ENTITY discover.title                       "מה הן תוספות?">
-<!ENTITY discover.description2                "Add-ons are applications that let you personalize &brandShortName; with
-  extra functionality or style. Try a time-saving sidebar, a weather notifier, or a themed look to make &brandShortName;
-  your own.">
+<!ENTITY discover.description2                "תוספות הן יישומים המאפשרים לך להתאים אישית את &brandShortName; עם סגנון  או פונקציונליות נוספים. נסה סרגל־צד חוסך זמן, מדווח מזג אוויר, או מראה שונה כדי להפוך את &brandShortName;  לשלך.">
 <!ENTITY discover.footer                      "  כאשר החיבור לרשת פעיל, פאנל זה יציג חלק מהתוספות הפופולריות ביותר אותן תוכל לנסות.">
 
 <!-- detail view -->
