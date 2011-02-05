@@ -14,8 +14,6 @@
 <!ENTITY aboutProduct.accesskey   "D">
 <!ENTITY productHelp.label        "Agid da &brandShortName;">
 <!ENTITY productHelp.accesskey    "d">
-<!ENTITY helpForIEUsers.label     "Per utilisaders da l'Internet Explorer">
-<!ENTITY helpForIEUsers.accesskey "P">
 <!ENTITY helpMac.commandkey       "?">
 <!ENTITY helpSafeMode.label       "Reaviar e deactivar supplements…">
 <!ENTITY helpSafeMode.accesskey   "R">
