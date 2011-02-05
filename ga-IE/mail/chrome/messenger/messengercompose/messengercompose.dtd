@@ -209,8 +209,9 @@
 <!ENTITY followupAddr.label "Leanúint-Chuig:">
 <!ENTITY subject.label "Ábhar:">
 <!ENTITY subject.accesskey "b">
-<!ENTITY attachments.label "Iatáin:">
-<!ENTITY attachments.accesskey "t">
+<!-- LOCALIZATION NOTE attachments.accesskey This access key should correspond
+     to the strings in attachmentCount in composeMsgs.properties -->
+<!ENTITY attachments.accesskey "c">
 <!-- Format Toolbar, imported from editorAppShell.xul -->
 
 <!ENTITY SmileButton.tooltip "Ionsáigh miongháire">
