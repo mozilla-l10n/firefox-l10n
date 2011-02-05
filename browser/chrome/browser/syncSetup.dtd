@@ -57,7 +57,7 @@
 <!ENTITY setup.optionsPage.title "Наладжванні Sync">
 <!ENTITY syncComputerName.label "Назва кампутара:">
 <!ENTITY syncComputerName.accesskey "Н">
-<!ENTITY syncMy.label "Sync мяне">
+<!ENTITY syncMy.label "Sync мае">
 <!ENTITY engine.bookmarks.label "Закладкі">
 <!ENTITY engine.bookmarks.accesskey "З">
 <!ENTITY engine.tabs.label "Устаўкі">

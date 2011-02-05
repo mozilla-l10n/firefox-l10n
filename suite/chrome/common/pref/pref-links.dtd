@@ -1,6 +1,7 @@
 <!ENTITY linksHeader.label "Паводзіны спасылак">
 <!ENTITY newWindow.label "Паводзіны пры адкрыцці спасылак">
-<!ENTITY newWindowDescription.label "Адкрыццё спасылак мае на ўвазе адкрыццё ў новым акне">
+<!ENTITY newWindowDescription.label "Адкрыццё спасылак мае на ўвазе адкрыццё новага акна">
+<!ENTITY newWindowRestriction.label "Калі сцэнар хоча адкрыць новае акно:">
 <!ENTITY external.label "Спасылкі з іншых прыстасаванняў">
 <!ENTITY externalDescription.label "Адкрываць спасылкі, якія перадаюцца іншымі прыстасаваннямі">
 <!ENTITY openCurrent.label "У цяперашніх устаўцы/акне">
@@ -12,3 +13,9 @@
 <!ENTITY openWindow.label "У новым акне">
 <!ENTITY newWindowGroupWindow.accesskey "а">
 <!ENTITY externalGroupWindow.accesskey "к">
+<!ENTITY divertAll.label "Заўсёды заварочваць вокны ў устаўкі">
+<!ENTITY divertAll.accesskey "з">
+<!ENTITY divertNoFeatures.label "Не заварочваць такія вокны ў устаўкі">
+<!ENTITY divertNoFeatures.accesskey "н">
+<!ENTITY dontDivert.label "Заўсёды адкрываць новыя вокны">
+<!ENTITY dontDivert.accesskey "н">

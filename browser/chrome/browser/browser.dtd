@@ -416,3 +416,4 @@
 <!ENTITY syncSyncNowItem.accesskey "С">
 <!ENTITY syncToolbarButton.label "Sync">
 <!ENTITY addonBarCloseButton.tooltip "Закрыць паліцу дадаткаў">
+<!ENTITY toggleAddonBarCmd.key "/">

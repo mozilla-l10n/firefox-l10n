@@ -11,8 +11,6 @@
 <!ENTITY aboutProduct.accesskey "П">
 <!ENTITY productHelp.label "Даведка &brandShortName;">
 <!ENTITY productHelp.accesskey "Д">
-<!ENTITY helpForIEUsers.label "Для карыстальнікаў Internet Explorer">
-<!ENTITY helpForIEUsers.accesskey "I">
 <!ENTITY helpMac.commandkey "?">
 <!ENTITY helpSafeMode.label "Перазапусціць з забароненымі дадаткамі…">
 <!ENTITY helpSafeMode.accesskey "з">

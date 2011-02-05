@@ -21,7 +21,7 @@
 <!ENTITY syncPrefsCaption.label "Сінхранізацыя азіральніка">
 <!ENTITY syncComputerName.label "Назва кампутара:">
 <!ENTITY syncComputerName.accesskey "к">
-<!ENTITY syncMy.label "Sync мяне">
+<!ENTITY syncMy.label "Sync мае">
 <!ENTITY engine.bookmarks.label "Закладкі">
 <!ENTITY engine.bookmarks.accesskey "З">
 <!ENTITY engine.tabs.label "Устаўкі">
