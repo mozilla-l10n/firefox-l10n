@@ -13,8 +13,7 @@
 
 <!ENTITY  manualUpdate.title              "לא ניתן לעדכן">
 <!ENTITY  manualUpdate.desc               "עדכון אבטחה ויציבות מומלץ זמין, אבל אין לך את ההרשאות הנדרשות במערכת כדי להתקין אותו. אנא פנה אל מנהל המערכת שלך, או נסה שוב מחשבון שיש לו הרשאות להתקנת תוכנה במחשב זה.">
-<!ENTITY  manualUpdate.space.desc         "A recommended security and stability update is available, but you do
-                                           not have enough space to install it.">
+<!ENTITY  manualUpdate.space.desc         "                                           עדכון אבטחה ויציבות מומלץ זמין כעת, אבל אין לך מספיק מקום כדי להתקין אותו.">
 <!ENTITY  manualUpdateGetMsg.label        "באפשרותך לקבל תמיד את הגרסה החדשה ביותר של &brandShortName; בכתובת:">
 
 <!ENTITY  incompatibleCheck.title         "בודק תאימות תוספות">
@@ -58,10 +57,9 @@
                                            
 <!ENTITY  errorpatching.intro             "אין אפשרות ליישם את העדכון החלקי. &brandShortName; ינסה שוב על־ידי הורדת עדכון שלם.">
 
-<!ENTITY  genericBackgroundError.label    "&brandShortName; is unable to determine if there is an update available. Please
-                                           make sure that you have the latest version of &brandShortName; from:">
-<!ENTITY  errorCertAttrNoUpdate2.label    "Something is preventing &brandShortName; from updating securely.
-                                           Please make sure that you have the latest version of &brandShortName; from:">
+<!ENTITY  genericBackgroundError.label    "&brandShortName; לא הצליח לגלות אם יש עדכון זמין. אנא
+                                           ודא שיש לך את הגרסה העדכנית ביותר של &brandShortName; דרך:">
+<!ENTITY  errorCertAttrNoUpdate2.label    "משהו מונע מ־&brandShortName; לעדכן בצורה מאובטחת.                                           אנא ודא שהורדת את הגרסה העדכנית של &brandShortName; מ־">
 <!ENTITY  errorCertAttrHasUpdate.label    "משהו מנסה להערים על &brandShortName; כדי שיתקבל
                                            עדכון המהווה סיכון בטיחותי. אנא צור קשר עם ספק הרשת שלך בבקשת עזרה.">
 

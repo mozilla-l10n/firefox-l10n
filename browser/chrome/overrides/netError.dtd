@@ -53,9 +53,8 @@
      since it could be in either the normal menu (Mac/Linux) or the Firefox button
      menu (Windows).
 -->
-<!ENTITY netOffline.overrideLongDesc "
-<ul>
-  <li>Uncheck the &quot;Work Offline&quot; menu item, then try again.</li>
+<!ENTITY netOffline.overrideLongDesc "<ul>
+ <li>הסר את הסימון מהאפשרות &quot;עבוד לא־מקוון&quot;, ואז נסה שוב.</li>
 </ul>
 ">
 

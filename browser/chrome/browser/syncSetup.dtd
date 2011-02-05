@@ -4,7 +4,8 @@
 
 <!ENTITY setup.pickSetupType.description "ברוך הבא, אם מעולם לא השתמשת ב־&syncBrand.fullName.label; בעבר, יהיה עליך ליצור חשבון חדש.">
 <!ENTITY button.createNewAccount.label "צור חשבון חדש">
-<!ENTITY button.haveAccount.label "יש לי חשבון ב־&syncBrand.fullName.label;">
+<!ENTITY setup.haveAccount.label "יש לי חשבון &syncBrand.fullName.label;.">
+<!ENTITY button.connect.label    "התחברות">
 
 <!ENTITY setup.choicePage.title.label     "האם השתמשת ב־&syncBrand.fullName.label; בעבר?">
 <!ENTITY setup.choicePage.new.label       "מעולם לא השתמשתי ב־&syncBrand.shortName.label; בעבר">
@@ -13,13 +14,13 @@
 <!-- New Account AND Existing Account -->
 <!ENTITY server.label               "שרת">
 <!ENTITY serverType.main.label      "שרת &syncBrand.fullName.label;">
-<!ENTITY serverType.custom.label    "השתמש בשרת מותאם אישית">
-<!ENTITY signIn.account.label       "כתובת דוא״ל / שם משתמש">
-<!ENTITY signIn.account.accesskey   "כ">
+<!ENTITY serverType.custom2.label   "השתמש בשרת מותאם אישית…">
+<!ENTITY signIn.account2.label      "חשבון">
+<!ENTITY signIn.account2.accesskey  "ח">
 <!ENTITY signIn.password.label      "ססמה">
 <!ENTITY signIn.password.accesskey  "ס">
-<!ENTITY signIn.serverURL.label     "כתובת שרת">
-<!ENTITY signIn.serverURL.accesskey "כ">
+<!ENTITY signIn.syncKey.label       "מפתח סינכרון">
+<!ENTITY signIn.syncKey.accesskey   "מ">
 
 <!-- New Account Page 1: Basic Account Info -->
 <!ENTITY setup.newAccountDetailsPage.title.label "פרטי החשבון">
@@ -52,18 +53,25 @@
 
 <!-- New Account Page 3: Captcha -->
 <!ENTITY setup.captchaPage2.title.label     "נא אשר שאינך רובוט">
+<!-- Existing Account Page 1: Add Device (incl. Add a Device dialog strings) -->
+<!ENTITY addDevice.title.label              "הוסף התקן">
+<!ENTITY addDevice.showMeHow.label          "הראה לי כיצד.">
+<!ENTITY addDevice.dontHaveDevice.label     "אין לי את ההתקן איתי">
+<!ENTITY addDevice.setup.description.label  "To activate, go to &syncBrand.shortName.label; Options on your other device and select &#x0022;Add a Device&#x0022;.">
+<!ENTITY addDevice.setup.enterCode.label    "לאחר מכן, הקלד את הקוד הבא:">
+<!ENTITY addDevice.dialog.description.label "To activate your new device, go to &syncBrand.shortName.label; Options on the device and select &#x0022;Connect.&#x0022;">
+<!ENTITY addDevice.dialog.enterCode.label   "הקלד את הקוד שההתקן מספק:">
+<!ENTITY addDevice.dialog.tryAgain.label    "נא לנסות שנית.">
+<!ENTITY addDevice.dialog.successful.label  "The device has been successfully added. The initial synchronization can take several minutes and will finish in the background.">
+<!ENTITY addDevice.dialog.syncKey.label     "כדי להפעיל את ההתקן שלך יש צורך להקליד את מפתח הסינכרון. נא להדפיס או לשמור את המפתח ולקחת אותו איתך.">
+<!ENTITY addDevice.dialog.connected.label   "ההתקן מחובר">
 
-<!-- Existing Account Page 1: Login -->
-<!ENTITY setup.existingAccount.title.label "הזנת פרטי חשבון">
-<!ENTITY resetPassword.label          "אפס סיסמה">
-<!ENTITY connecting.label             "מתחבר…">
-
-<!-- Existing Account Page 2: Sync Key -->
-<!ENTITY setup.existingSyncKeyPage.title "אנא הזן את מפתח הסנכרון שלך">
-<!ENTITY setup.existingSyncKeyPage.description "מפתח הסנכרון נוצר עבורך, או שהזנת אחד משלך בעת ההרשמה הראשונית ל־&syncBrand.fullName.label;. המפתח שונה מהססמה שלך.">
-<!ENTITY existingSyncKeyHelp.description "באפשרותך למצוא את מפתח הסנכרון שלך באמצעות גישה למחשב הנוסף שלך, ולמצוא בו את הססמא במסך הססמאות השמורות תחת אבטחה. במידה ואינך מצליח עדיין להשיג את מפתח הסנכרון הנכון, תוכל לבחור לאפשר אותו, אבל במידה שתבחר באפשרות זו תאבד את כל המידע שנשמר בשרת.">
-<!ENTITY lostSyncKey.label            "איבדתי את מפתח הסנכרון שלי">
+<!-- Existing Account Page 2: Manual Login -->
+<!ENTITY setup.signInPage.title.label "התחברות">
+<!ENTITY existingSyncKey.description "You can get a copy of your Sync Key by going to &syncBrand.shortName.label; Options on your other device, and selecting  &#x0022;My Sync Key&#x0022; under &#x0022;Manage Account&#x0022;.">
 <!ENTITY verifying.label              "מאמת…">
+<!ENTITY resetPassword.label          "אפס סיסמה">
+<!ENTITY resetSyncKey.label           "איבדתי את ההתקן הנוסף שלי.">
 
 <!-- Sync Options -->
 <!ENTITY setup.optionsPage.title      "אפשרויות סנכרון">
@@ -92,7 +100,7 @@
 <!ENTITY confirm.merge.label    "&syncBrand.fullName.label; יאחד עכשיו את כל מידע הדפדפן של המחשב הזה לתוך חשבון ה־Sync שלך.">
 <!ENTITY confirm.client2.label         "Warning: The following &brandShortName; data on this computer will be deleted:">
 <!ENTITY confirm.client.moreinfo.label "&brandShortName; יעתיק את כל הנתונים של &syncBrand.fullName.label; למחשב זה.">
-<!ENTITY confirm.server2.label         "Warning: The following devices will be overwritten with your local data:">
+<!ENTITY confirm.server2.label         "אזהרה: ההתקנים הבאים ידרסו עם המידע המקומי שלך:">
 
 <!-- New & Existing Account: Setup Complete -->
 <!ENTITY setup.successPage.title "ההתקנה הושלמה">

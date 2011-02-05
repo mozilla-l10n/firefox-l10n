@@ -21,6 +21,8 @@
 <!ENTITY allowHWAccel.accesskey          "ה">
 <!ENTITY checkSpelling.label             "בדוק איות בזמן שאני מקליד">
 <!ENTITY checkSpelling.accesskey         "א">
+<!ENTITY doNotTrack.label                "Tell web sites I do not want to be tracked">
+<!ENTITY doNotTrack.accesskey            "d">
 
 <!ENTITY systemDefaults.label            "ברירות מחדל">
 <!ENTITY alwaysCheckDefault.label        "בדוק בכל הפעלה אם &brandShortName; הוא דפדפן ברירת המחדל"><!--XXX-->
@@ -48,7 +50,7 @@
 -->
 <!ENTITY limitCacheSizeBefore.label      "הגבל את גודל המטמון ל־">
 <!ENTITY limitCacheSizeBefore.accesskey  "ה">
-<!ENTITY limitCacheSizeAfter.label       "MB of space">
+<!ENTITY limitCacheSizeAfter.label       "מ״ב של מקום">
 <!ENTITY clearCacheNow.label             "מחק עכשיו">
 <!ENTITY clearCacheNow.accesskey         "מ">
 <!ENTITY overrideSmartCacheSize.label    "עקוף את ניהול המטמון האוטומטי">

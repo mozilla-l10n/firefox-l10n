@@ -4,8 +4,6 @@
 <!ENTITY weaveDesc.label            "&syncBrand.fullName.label; מאפשר לך לגשת להיסטוריה, לסימניות, לססמאות וללשוניות הפתוחות שלך מכל המכשירים שברשותך.">
 
 <!-- The page shown when logged in... -->
-<!ENTITY accountGroupboxCaption.label "חשבון &syncBrand.fullName.label;">
-<!ENTITY currentAccount.label         "חשבון נוכחי:">
 
 <!-- Login error feedback -->
 <!ENTITY updatePass.label             "עדכון">
@@ -18,12 +16,7 @@
 <!ENTITY changePassword.label         "שינוי ססמה">
 <!ENTITY mySyncKey.label              "מפתח הסנכרון שלי">
 <!ENTITY resetSync.label              "איפוס Sync">
-<!ENTITY stopUsingAccount.label       "הפסק להשתמש בחשבון זה">
-
-<!-- Sync Settings -->
-<!ENTITY syncPrefsCaption.label       "Browser Sync">
-<!ENTITY syncComputerName.label       "שם מחשב:">
-<!ENTITY syncComputerName.accesskey   "ש">
+<!ENTITY addDevice.label              "הוספת התקן">
 
 <!ENTITY syncMy.label               "סנכרן">
 <!ENTITY engine.bookmarks.label     "סימניות">
@@ -37,6 +30,10 @@
 <!ENTITY engine.prefs.label         "העדפות">
 <!ENTITY engine.prefs.accesskey     "ה">
 
+<!-- Device Settings -->
+<!ENTITY syncComputerName.label       "שם מחשב:">
+<!ENTITY syncComputerName.accesskey   "ש">
+<!ENTITY deactivateDevice.label       "Deactivate This Device">
 
 <!-- Footer stuff -->
 <!ENTITY prefs.tosLink.label        "לתנאי השירות">

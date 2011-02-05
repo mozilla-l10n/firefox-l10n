@@ -14,22 +14,15 @@
 <!ENTITY aboutProduct.accesskey   "a">
 <!ENTITY productHelp.label        "עזרה של &brandShortName;">
 <!ENTITY productHelp.accesskey    "ע">
-<!ENTITY helpForIEUsers.label     "למשתמשי Internet Explorer">
-<!ENTITY helpForIEUsers.accesskey "מ">
 <!ENTITY helpMac.commandkey       "?">
 <!ENTITY helpSafeMode.label       "אתחל עם תוספות מנוטרלות…">
 <!ENTITY helpSafeMode.accesskey   "א">
-
-<!ENTITY helpReleaseNotes.label         "הערות שחרור">
-<!ENTITY helpReleaseNotes.accesskey     "ה">
 
 <!ENTITY helpTroubleshootingInfo.label      "מידע לפתרון בעיות">
 <!ENTITY helpTroubleshootingInfo.accesskey  "מ">
 
 <!ENTITY helpFeedbackPage.label      "שלח את המשוב…">
 <!ENTITY helpFeedbackPage.accesskey  "ש">
-
-<!ENTITY updateCmd.label                "בדוק אם ישנם עדכונים…">
 
 <!ENTITY preferencesCmdMac.label        "העדפות…">
 <!ENTITY preferencesCmdMac.commandkey   ",">
