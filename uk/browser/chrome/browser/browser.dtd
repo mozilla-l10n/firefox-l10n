@@ -282,7 +282,7 @@ can reach it easily. -->
 <!ENTITY appMenuSidebars.label "Бічні панелі">
 <!ENTITY appMenuFind.label "Знайти…">
 <!ENTITY appMenuUnsorted.label "Несортовані закладки">
-<!ENTITY appMenuWebDeveloper.label "Web Developer">
+<!ENTITY appMenuWebDeveloper.label "Веб-розробка">
 <!ENTITY appMenuGettingStarted.label "Перші кроки">
 <!ENTITY appMenuSafeMode.label "Перезапуск з вимкненими додатками…">
 <!ENTITY appMenuSafeMode.accesskey "д">
