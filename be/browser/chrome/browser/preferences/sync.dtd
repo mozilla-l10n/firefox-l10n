@@ -10,7 +10,7 @@
 <!ENTITY mySyncKey.label "Мой ключ Sync">
 <!ENTITY resetSync.label "Узнавіць сінхранізацыю">
 <!ENTITY addDevice.label "Дадаць збудову">
-<!ENTITY syncMy.label "Sync мае">
+<!ENTITY syncMy.label "Сінхранізаваць мае">
 <!ENTITY engine.bookmarks.label "Закладкі">
 <!ENTITY engine.bookmarks.accesskey "З">
 <!ENTITY engine.tabs.label "Устаўкі">
