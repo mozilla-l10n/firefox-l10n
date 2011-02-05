@@ -21,6 +21,8 @@
 <!ENTITY allowHWAccel.accesskey          "ع">
 <!ENTITY checkSpelling.label "دقق الإملاء أثناء الكتابة">
 <!ENTITY checkSpelling.accesskey "ك">
+<!ENTITY doNotTrack.label                "أخبِر المواقع أنني لا أريدها أن تتعقبني">
+<!ENTITY doNotTrack.accesskey            "ه">
 
 <!ENTITY systemDefaults.label "مبدئيّات النظام">
 <!--XXX-->

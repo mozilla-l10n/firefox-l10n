@@ -552,3 +552,4 @@ just addresses the organization to follow, e.g. "This site is run by " -->
 <!ENTITY syncToolbarButton.label      "زامِن">
 
 <!ENTITY addonBarCloseButton.tooltip  "أغلِق شريط الإضافات">
+<!ENTITY toggleAddonBarCmd.key        "/">
