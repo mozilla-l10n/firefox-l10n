@@ -1,5 +1,5 @@
 <!ENTITY  blockPopups.label           "Blokiraj skočne prozore">
-<!ENTITY  blockPopups.accesskey       "B">
+<!ENTITY  blockPopups.accesskey       "s">
 <!ENTITY  popupExceptions.label       "Iznimke...">
 <!ENTITY  popupExceptions.accesskey   "E">
 
@@ -20,7 +20,7 @@
 <!ENTITY  fontsAndColors.label        "Fontovi &amp; Boje">
 
 <!ENTITY  defaultFont.label           "Zadani font:">
-<!ENTITY  defaultFont.accesskey       "D">
+<!ENTITY  defaultFont.accesskey       "f">
 <!ENTITY  defaultSize.label           "Veličina:">
 <!ENTITY  defaultSize.accesskey       "V">
 
@@ -28,7 +28,7 @@
 <!ENTITY  advancedFonts.accesskey     "A">
 
 <!ENTITY  colors.label                "Boje...">
-<!ENTITY  colors.accesskey            "o">
+<!ENTITY  colors.accesskey            "B">
 
 
 <!ENTITY languages.label              "Jezici">
