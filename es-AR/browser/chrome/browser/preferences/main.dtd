@@ -34,6 +34,6 @@
 <!ENTITY manageAddonsDescWin.label     "Cambiar opciones de sus complementos">
 <!ENTITY manageAddonsDescUnix2.label "Cambiar preferencias de sus complementos">
 <!ENTITY manageAddons.label         "Administrar complementos…">
-<!ENTITY manageAddons.accesskey     "d">
+<!ENTITY manageAddons.accesskey     "n">
 
 
