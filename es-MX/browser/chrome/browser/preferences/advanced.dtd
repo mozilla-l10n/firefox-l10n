@@ -15,7 +15,7 @@
 <!ENTITY allowHWAccel.accesskey "h">
 <!ENTITY checkSpelling.label "Comprobar la ortografía mientras se escribe">
 <!ENTITY checkSpelling.accesskey "o">
-<!ENTITY doNotTrack.label "Di a que sitios web no deseas realizar un seguimiento">
+<!ENTITY doNotTrack.label "Decir a los sitios Web que no deseo ser rastreado">
 <!ENTITY doNotTrack.accesskey "d">
 <!ENTITY systemDefaults.label "Por defecto">
 <!ENTITY alwaysCheckDefault.label "Comprobar que &brandShortName; sea mi navegador predeterminado al abrirlo">
