@@ -36,6 +36,9 @@
    -
    - ***** END LICENSE BLOCK ***** -->
 <!ENTITY pref.security.title "Приватность и защита">
+<!ENTITY tracking.label "Отслеживание пользователя">
+<!ENTITY doNotTrack.label "Сообщать веб-сайтам, что я не хочу, чтобы за мной следили">
+<!ENTITY doNotTrack.accesskey "б">
 <!ENTITY privateData.label "Личные данные">
 <!ENTITY alwaysClear.label "При закрытии &brandShortName; всегда стирать мои личные данные">
 <!ENTITY alwaysClear.accesskey "з">
