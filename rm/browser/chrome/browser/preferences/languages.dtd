@@ -8,7 +8,7 @@
 <!ENTITY languages.customize.moveDown.label             "Engiu">
 <!ENTITY languages.customize.moveDown.accesskey         "u">
 <!ENTITY languages.customize.deleteButton.label         "Allontanar">
-<!ENTITY languages.customize.deleteButton.accesskey     "A">
+<!ENTITY languages.customize.deleteButton.accesskey     "l">
 <!ENTITY languages.customize.selectLanguage.label       "Tscherna ina lingua per agiuntar…">
 <!ENTITY languages.customize.addButton.label            "Agiuntar">
 <!ENTITY languages.customize.addButton.accesskey        "A">

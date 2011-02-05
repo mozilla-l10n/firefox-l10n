@@ -16,11 +16,11 @@
 <!ENTITY useAutoScroll.label             "Activar la defilada automatica">
 <!ENTITY useAutoScroll.accesskey         "A">
 <!ENTITY useSmoothScrolling.label        "Activar la defilada cuntinuanta">
-<!ENTITY useSmoothScrolling.accesskey    "A">
+<!ENTITY useSmoothScrolling.accesskey    "n">
 <!ENTITY allowHWAccel.label              "Utilisar sche pussaivel l'accelleraziun entras hardware da grafica">
 <!ENTITY allowHWAccel.accesskey          "h">
 <!ENTITY checkSpelling.label             "Controllar l'ortografia durant l'endataziun">
-<!ENTITY checkSpelling.accesskey         "r">
+<!ENTITY checkSpelling.accesskey         "f">
 <!ENTITY doNotTrack.label                "Infurmar websites da na betg suandar mes fastiz">
 <!ENTITY doNotTrack.accesskey            "d">
 
@@ -37,8 +37,8 @@
 <!ENTITY connection.label                "Connexiun">
 
 <!ENTITY connectionDesc.label            "Definir la moda da connexiun da &brandShortName; cun l'internet">
-<!ENTITY connectionSettings.label        "Preferenzas...">
-<!ENTITY connectionSettings.accesskey    "n">
+<!ENTITY connectionSettings.label        "Preferenzas…">
+<!ENTITY connectionSettings.accesskey    "P">
 
 <!ENTITY offlineStorage.label            "Memoria offline">
 
@@ -100,7 +100,7 @@
 <!ENTITY certs.ask                       "Dumandar mintga giada">
 <!ENTITY certs.ask.accesskey             "D">
 <!ENTITY viewCerts.label                 "Mussar ils certificats">
-<!ENTITY viewCerts.accesskey             "M">
+<!ENTITY viewCerts.accesskey             "c">
 <!ENTITY viewCRLs.label                  "Glistas da revocaziun">
 <!ENTITY viewCRLs.accesskey              "r">
 <!ENTITY verify2.label                   "Validaziun">
