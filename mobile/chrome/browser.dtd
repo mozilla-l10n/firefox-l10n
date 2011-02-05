@@ -28,7 +28,7 @@
 
 <!ENTITY editBookmarkDialog.title  "編輯書籤">
 <!ENTITY editBookmarkDone.label    "完成">
-<!ENTITY editBookmarkTags.label    "在此加入書籤">
+<!ENTITY editBookmarkTags.label    "在此新增標籤">
 
 <!ENTITY selectHelper.done         "完成">
 
