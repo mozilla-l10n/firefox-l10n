@@ -173,3 +173,7 @@
 
 <!ENTITY bidiSwitchPageDirectionItem.label        "Paginarichting omkeren">
 <!ENTITY bidiSwitchPageDirectionItem.accesskey    "P">
+
+<!-- LOCALIZATION NOTE (syncTabsMenu.label): This appears in the Go menu -->
+<!ENTITY syncTabsMenu.label         "Tabbladen van andere computers">
+    
