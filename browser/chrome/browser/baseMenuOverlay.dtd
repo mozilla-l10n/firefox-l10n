@@ -11,7 +11,7 @@
 <!ENTITY helpMenuWin.label        "עזרה"> 
 <!ENTITY helpMenuWin.accesskey    "ז">
 <!ENTITY aboutProduct.label       "אודות &brandShortName;">
-<!ENTITY aboutProduct.accesskey   "a">
+<!ENTITY aboutProduct.accesskey   "א">
 <!ENTITY productHelp.label        "עזרה של &brandShortName;">
 <!ENTITY productHelp.accesskey    "ע">
 <!ENTITY helpMac.commandkey       "?">

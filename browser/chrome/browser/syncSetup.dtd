@@ -98,7 +98,7 @@
 <!-- Confirm Merge Options -->
 <!ENTITY setup.optionsConfirmPage.title "אישור">
 <!ENTITY confirm.merge.label    "&syncBrand.fullName.label; יאחד עכשיו את כל מידע הדפדפן של המחשב הזה לתוך חשבון ה־Sync שלך.">
-<!ENTITY confirm.client2.label         "Warning: The following &brandShortName; data on this computer will be deleted:">
+<!ENTITY confirm.client2.label         "זהירות: המידע של &brandShortName; שנמצא על מחשב זה ימחק:">
 <!ENTITY confirm.client.moreinfo.label "&brandShortName; יעתיק את כל הנתונים של &syncBrand.fullName.label; למחשב זה.">
 <!ENTITY confirm.server2.label         "אזהרה: ההתקנים הבאים ידרסו עם המידע המקומי שלך:">
 
