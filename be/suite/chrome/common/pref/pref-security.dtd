@@ -36,6 +36,9 @@
    -
    - ***** END LICENSE BLOCK ***** -->
 <!ENTITY pref.security.title "Адасабленне і бяспека">
+<!ENTITY tracking.label "Сачэнне за карыстальнікам">
+<!ENTITY doNotTrack.label "Паведамляць сеціўным пляцоўкам, што я не жадаю, каб за мною сачылі">
+<!ENTITY doNotTrack.accesskey "П">
 <!ENTITY privateData.label "Прыватныя даныя">
 <!ENTITY alwaysClear.label "Заўсёды ачышчаць мае прыватныя даныя перад закрыццём &brandShortName;">
 <!ENTITY alwaysClear.accesskey "ў">
