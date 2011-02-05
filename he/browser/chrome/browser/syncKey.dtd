@@ -6,7 +6,7 @@
 <!ENTITY syncKey.keepItSafe1.description  "אל תאבד את המפתח הזה.">
 <!ENTITY syncKey.keepItSafe2.description  " אנחנו לא שומרים עותק של המפתח שלך (אם היינו עושים את זה, הוא לא היה סודי!) אז ">
 <!ENTITY syncKey.keepItSafe3.description  "אנחנו לא יכולים לעזור לך לשחזר אותו">
-<!ENTITY syncKey.keepItSafe4.description  " if it's lost. You'll need to use this key any time you connect a new computer or device to &syncBrand.fullName.label;.">
+<!ENTITY syncKey.keepItSafe4.description  " במידה והוא נאבד. יהיה צורך להשתמש במפתח זה בכל פעם בה תחבר מחשב או התקן חדש ל־&syncBrand.fullName.label;.">
 <!ENTITY syncKey.findOutMore1.label       "למד עוד על &syncBrand.fullName.label; ועל הפרטיות שלך בכתובת ">
 <!ENTITY syncKey.findOutMore2.label       ".">
 <!ENTITY syncKey.footer1.label            "תנאי השירות של &syncBrand.fullName.label; זמינים בכתובת ">
