@@ -12,7 +12,7 @@
 <!ENTITY  blockAttackSites.accesskey "B">
 
 <!ENTITY  blockWebForgeries.label      "Blokuj witryny zgłoszone jako próby oszustwa internetowego">
-<!ENTITY  blockWebForgeries.accesskey  "o">
+<!ENTITY  blockWebForgeries.accesskey  "k">
 
 <!ENTITY  addonExceptions.label         "Wyjątki…">
 <!ENTITY  addonExceptions.accesskey     "W">
