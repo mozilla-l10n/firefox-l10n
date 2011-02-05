@@ -209,7 +209,8 @@
 <!ENTITY followupAddr.label "Followup an:">
 <!ENTITY subject.label "Betreff:">
 <!ENTITY subject.accesskey "r">
-<!ENTITY attachments.label "Anhänge:">
+<!-- LOCALIZATION NOTE attachments.accesskey This access key should correspond
+     to the strings in attachmentCount in composeMsgs.properties -->
 <!ENTITY attachments.accesskey "n">
 
 <!-- Format Toolbar, imported from editorAppShell.xul -->
