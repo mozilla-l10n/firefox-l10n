@@ -16,9 +16,9 @@
 <!ENTITY  serif.label                             "Cun serifas:">
 <!ENTITY  serif.accesskey                         "e">
 <!ENTITY  sans-serif.label                        "Senza serifas">
-<!ENTITY  sans-serif.accesskey                    "a">
+<!ENTITY  sans-serif.accesskey                    "f">
 <!ENTITY  monospace.label                         "Largezza fixa:">
-<!ENTITY  monospace.accesskey                     "f">
+<!ENTITY  monospace.accesskey                     "x">
 
 <!ENTITY  font.langGroup.latin1                   "Occidental (dal Vest)">
 <!ENTITY  font.langGroup.latin2                   "Da l'Europa Centrala">

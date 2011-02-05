@@ -11,7 +11,7 @@
 <!ENTITY  enableJavaScript.label      "Activar JavaScript">
 <!ENTITY  enableJavaScript.accesskey  "J">
 <!ENTITY  advancedJS.label            "Extendì…">
-<!ENTITY  advancedJS.accesskey        "E">
+<!ENTITY  advancedJS.accesskey        "x">
 
 <!ENTITY  enableJava.label            "Activar Java">
 <!ENTITY  enableJava.accesskey        "A">
@@ -25,7 +25,7 @@
 <!ENTITY  defaultSize.accesskey       "r">
 
 <!ENTITY  advancedFonts.label         "Extendì…">
-<!ENTITY  advancedFonts.accesskey     "E">
+<!ENTITY  advancedFonts.accesskey     "d">
 
 <!ENTITY  colors.label                "Colurs…">
 <!ENTITY  colors.accesskey            "C">

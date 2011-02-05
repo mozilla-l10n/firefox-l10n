@@ -9,10 +9,10 @@
   "known").
 -->
 <!ENTITY  blockAttackSites.label     "Bloccar ina website, sch'ella è annunziada sco pagina attatganta">
-<!ENTITY  blockAttackSites.accesskey "B">
+<!ENTITY  blockAttackSites.accesskey "t">
 
 <!ENTITY  blockWebForgeries.label     "Bloccar ina website, sch'ella è annunziada sco emprova d'engion">
-<!ENTITY  blockWebForgeries.accesskey "B">
+<!ENTITY  blockWebForgeries.accesskey "e">
 
 <!ENTITY  addonExceptions.label         "Excepziuns…">
 <!ENTITY  addonExceptions.accesskey     "E">
@@ -21,14 +21,14 @@
 <!ENTITY  passwords.label               "Pleds-clav">
 
 <!ENTITY  rememberPasswords.label       "Memorisar ils pleds-clav">
-<!ENTITY  rememberPasswords.accesskey   "p">
+<!ENTITY  rememberPasswords.accesskey   "M">
 <!ENTITY  passwordExceptions.label      "Excepziuns…">
-<!ENTITY  passwordExceptions.accesskey  "u">
+<!ENTITY  passwordExceptions.accesskey  "x">
 
 <!ENTITY  useMasterPassword.label        "Utilisar in pled-clav universal">
-<!ENTITY  useMasterPassword.accesskey    "a">
+<!ENTITY  useMasterPassword.accesskey    "u">
 <!ENTITY  changeMasterPassword.label     "Midar il pled-clav universal…">
-<!ENTITY  changeMasterPassword.accesskey "M">
+<!ENTITY  changeMasterPassword.accesskey "d">
 
 <!ENTITY  savedPasswords.label            "Pleds-clav memorisads…">
 <!ENTITY  savedPasswords.accesskey        "P">

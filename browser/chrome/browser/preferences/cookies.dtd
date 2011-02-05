@@ -22,7 +22,7 @@
 <!ENTITY     focusSearch2.key               "k">
 
 <!ENTITY     filter.label                   "Tschertgar">
-<!ENTITY     filter.accesskey               "s">
+<!ENTITY     filter.accesskey               "T">
 
 <!ENTITY     button.close.label             "Serrar">
 <!ENTITY     button.close.accesskey         "S">
