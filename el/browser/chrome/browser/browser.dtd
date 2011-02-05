@@ -593,4 +593,6 @@ just addresses the organization to follow, e.g. "This site is run by " -->
 <!ENTITY viewTabGroups.accesskey        "μ">
 
 <!ENTITY addonBarCloseButton.tooltip  "Κλείσιμο εργαλειοθήκης προσθέτου">
+<!ENTITY toggleAddonBarCmd.key        "/">
+
 
