@@ -8,7 +8,7 @@
       <rdf:li>
         <rdf:Description ID="return_receipts"
           nc:name="Accusés de réception"
-          nc:link="mail_help.xhtml#return_receipts"/>
+          nc:link="mailnews_getting_started.xhtml#return_receipts"/>
       </rdf:li>
       <rdf:li>
         <rdf:Description ID="FIPS_mode"
@@ -87,17 +87,17 @@
 		<rdf:li>
        <rdf:Description ID="adding:blog_account"
          nc:name="Créer un nouveau compte de blog"
-         nc:link="mail_help.xhtml#setting_up_additional_mail_and_news_accounts"/>
+         nc:link="mailnews_getting_started.xhtml#setting_up_additional_mail_and_news_accounts"/>
       </rdf:li>
         <rdf:li>
           <rdf:Description ID="adding:mail_account"
             nc:name="Configurer des comptes de messagerie supplémentaires"
-            nc:link="mail_help.xhtml#setting_up_additional_mail_and_news_accounts"/>
+            nc:link="mailnews_getting_started.xhtml#setting_up_additional_mail_and_news_accounts"/>
         </rdf:li>
         <rdf:li>
           <rdf:Description ID="adding:newsgroup_account"
             nc:name="Configurer des comptes de groupes supplémentaires"
-            nc:link="mail_help.xhtml#setting_up_additional_mail_and_news_accounts"/>
+            nc:link="mailnews_getting_started.xhtml#setting_up_additional_mail_and_news_accounts"/>
         </rdf:li>
         <rdf:li>
           <rdf:Description ID="adding:table_elements"
@@ -107,12 +107,12 @@
         <rdf:li>
           <rdf:Description ID="adding:address_book_entries"
             nc:name="Ajouter des entrées aux carnets d'adresses"
-            nc:link="mail_help.xhtml#adding_entries_to_your_address_books"/>
+            nc:link="mailnews_getting_started.xhtml#adding_entries_to_your_address_books"/>
         </rdf:li>
         <rdf:li>
           <rdf:Description ID="adding:LDAP_directories"
             nc:name="Ajouter et retirer des annuaires LDAP"
-            nc:link="mail_help.xhtml#adding_and_removing_ldap_directories"/>
+            nc:link="mailnews_getting_started.xhtml#adding_and_removing_ldap_directories"/>
         </rdf:li>
       </rdf:Seq>
     </nc:subheadings>
@@ -273,12 +273,12 @@
       <rdf:li>
         <rdf:Description ID="Mail_and_Newsgroups"
           nc:name="Courrier et groupes"
-          nc:link="mail_help.xhtml"/>
+          nc:link="mailnews_getting_started.xhtml"/>
       </rdf:li>
       <rdf:li>
         <rdf:Description ID="phishing"
           nc:name="Courrier frauduleux"
-          nc:link="mail_help.xhtml#phishing_detection"/>
+          nc:link="mailnews_getting_started.xhtml#phishing_detection"/>
       </rdf:li>
     </rdf:Seq>
   </nc:subheadings>
@@ -762,12 +762,12 @@
       <rdf:li>
        <rdf:Description ID="Mail_and_Newsgroups:Account_Setup_Wizard"
          nc:name="Utiliser l'assistant de configuration du courrier"
-         nc:link="mail_help.xhtml#using_the_mail_account_setup_wizard"/>
+         nc:link="mailnews_getting_started.xhtml#using_the_mail_account_setup_wizard"/>
      </rdf:li>
      <rdf:li>
        <rdf:Description ID="Mail_and_Newsgroups:adding_accounts"
          nc:name="Configurer des comptes de messagerie ou groupes supplémentaires"
-         nc:link="mail_help.xhtml#setting_up_additional_mail_and_news_accounts"/>
+         nc:link="mailnews_getting_started.xhtml#setting_up_additional_mail_and_news_accounts"/>
      </rdf:li>
      <rdf:li>
        <rdf:Description ID="Mail_and_Newsgroups:address_autocompletion"
@@ -797,7 +797,7 @@
      <rdf:li>
        <rdf:Description ID="Mail_and_Newsgroups:changing_account_settings"
          nc:name="Modifier les paramètres d'un compte"
-         nc:link="mail_help.xhtml#changing_the_settings_for_an_account"/>
+         nc:link="mailnews_getting_started.xhtml#changing_the_settings_for_an_account"/>
      </rdf:li>
      <rdf:li>
        <rdf:Description ID="Mail_and_Newsgroups:Character_Encoding"
@@ -827,7 +827,7 @@
      <rdf:li>
        <rdf:Description ID="Mail_and_Newsgroups:creating_filters"
          nc:name="Créer des filtres de messages"
-         nc:link="mail_help.xhtml#creating_message_filters"/>
+         nc:link="mailnews_getting_started.xhtml#creating_message_filters"/>
      </rdf:li>
      <rdf:li>
        <rdf:Description ID="Mail_and_Newsgroups:creating_folders"
@@ -1433,7 +1433,7 @@
         <rdf:li>
           <rdf:Description ID="import:mail"
             nc:name="Importer des messages ou des parametres d'autres logiciels"
-            nc:link="mail_help.xhtml#importing_mail_from_other_programs"/>
+            nc:link="mailnews_getting_started.xhtml#importing_mail_from_other_programs"/>
         </rdf:li>
       </rdf:Seq>
     </nc:subheadings>
@@ -1914,7 +1914,7 @@
       <rdf:li>
         <rdf:Description ID="Account_Settings"
           nc:name="Paramètres des comptes courrier &amp; groupes"
-          nc:link="mail_help.xhtml#changing_the_settings_for_an_account"/>
+          nc:link="mailnews_getting_started.xhtml#changing_the_settings_for_an_account"/>
       </rdf:li>
       <rdf:li>
         <rdf:Description ID="security_devices"
@@ -2370,7 +2370,7 @@
       <rdf:li>
         <rdf:Description ID="emoticons"
           nc:name="Smileys"
-          nc:link="mail_help.xhtml#message_display"/>
+          nc:link="mailnews_getting_started.xhtml#message_display"/>
       </rdf:li>
       <rdf:li>
         <rdf:Description ID="SMTP"
