@@ -33,7 +33,7 @@
 
 <!ENTITY syncComputerName.label "Bilgisayar adı:">
 <!ENTITY syncComputerName.accesskey "B">
-<!ENTITY deactivateDevice.label "Deactivate This Device">
+<!ENTITY deactivateDevice.label "Bu aygıtı devre dışı bırak">
 <!-- Footer stuff -->
 
 <!ENTITY prefs.tosLink.label "Kullanım Koşulları">

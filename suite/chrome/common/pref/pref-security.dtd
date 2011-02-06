@@ -37,6 +37,11 @@
 <!--LOCALIZATION NOTE : FILE 'Privacy and Security' prefs settings -->
 
 <!ENTITY pref.security.title "Kişisel gizlilik ve güvenlik">
+
+<!ENTITY tracking.label "User Tracking">
+<!ENTITY doNotTrack.label "Tell web sites I do not want to be tracked">
+<!ENTITY doNotTrack.accesskey "T">
+
 <!ENTITY privateData.label "Özel Veri">
 
 <!ENTITY alwaysClear.label "&brandShortName; tarayıcısını her kapatışımda özel verilerimi temizle">

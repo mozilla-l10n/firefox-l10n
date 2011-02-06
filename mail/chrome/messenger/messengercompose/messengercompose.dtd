@@ -209,8 +209,9 @@
 <!ENTITY followupAddr.label "Takip adresi:">
 <!ENTITY subject.label "Konu:">
 <!ENTITY subject.accesskey "K">
-<!ENTITY attachments.label "Ekler:">
-<!ENTITY attachments.accesskey "E">
+<!-- LOCALIZATION NOTE attachments.accesskey This access key should correspond
+     to the strings in attachmentCount in composeMsgs.properties -->
+<!ENTITY attachments.accesskey "c">
 <!-- Format Toolbar, imported from editorAppShell.xul -->
 
 <!ENTITY SmileButton.tooltip "Yüz ifadesi ekle">

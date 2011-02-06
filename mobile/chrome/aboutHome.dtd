@@ -3,6 +3,8 @@
 <!ENTITY aboutHome.remoteTabs "Diğer bilgisayarlarınızdaki sekmeler">
 <!ENTITY aboutHome.recommendedAddons2 "&brandShortName; için ekletiler">
 <!ENTITY aboutHome.giveFeedback "Geri bildirim gönder">
+<!ENTITY aboutHome.getHelp "Get Help">
+<!ENTITY aboutHome.footerWidth "10em">
 <!ENTITY aboutHome.openAllTabs "Tümünü sekmelerde aç">
 <!ENTITY aboutHome.noTabs "Son kullanımdan sekme yok">
 <!ENTITY aboutHome.noAddons "Önerilen eklenti yok">

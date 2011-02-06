@@ -173,3 +173,6 @@
 
 <!ENTITY bidiSwitchPageDirectionItem.label "Yazı yönünü değiştir">
 <!ENTITY bidiSwitchPageDirectionItem.accesskey "Y">
+<!-- LOCALIZATION NOTE (syncTabsMenu.label): This appears in the Go menu -->
+
+<!ENTITY syncTabsMenu.label "Tabs From Other Computers">
