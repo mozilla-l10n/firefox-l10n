@@ -1,6 +1,7 @@
 <!ENTITY linksHeader.label "Liens">
 <!ENTITY newWindow.label "Comportement d'ouverture des liens">
 <!ENTITY newWindowDescription.label "Forcer les liens ouvrant une nouvelle fenêtre à s'ouvrir dans :">
+<!ENTITY newWindowRestriction.label "Lorsqu'un script veut ouvrir une nouvelle fenêtre :">
 <!ENTITY external.label "Liens provenant d'autres applications">
 <!ENTITY externalDescription.label "Ouvrir les liens provenant d'autres applications dans :">
 
@@ -15,3 +16,10 @@
 <!ENTITY openWindow.label "Une nouvelle fenêtre">
 <!ENTITY newWindowGroupWindow.accesskey "v">
 <!ENTITY externalGroupWindow.accesskey "f">
+
+<!ENTITY divertAll.label "Toujours forcer l'affichage des fenêtres dans des onglets">
+<!ENTITY divertAll.accesskey "T">
+<!ENTITY divertNoFeatures.label "Ne pas forcer l'affichage des fenêtres dans des onglets">
+<!ENTITY divertNoFeatures.accesskey "p">
+<!ENTITY dontDivert.label "Toujours ouvrir de nouvelles fenêtres">
+<!ENTITY dontDivert.accesskey "o">
