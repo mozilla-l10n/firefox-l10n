@@ -2,3 +2,5 @@
 # locales can ship "extra" files from here, to ship a custom set
 # of files for the help system
 # do not put any blank lines in this file
+fr.jar:
+  locale/fr/communicator/help/addons_help.xhtml                   (%chrome/common/help/addons_help.xhtml)
