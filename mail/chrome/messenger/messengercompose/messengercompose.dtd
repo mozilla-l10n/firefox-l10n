@@ -209,7 +209,6 @@
 <!ENTITY followupAddr.label "Post leanmhainneach gu:"> 
 <!ENTITY subject.label "Cuspair:">
 <!ENTITY subject.accesskey "s">
-<!ENTITY attachments.label "Ceanglachain:">
 <!ENTITY attachments.accesskey "C">
 
 <!-- Format Toolbar, imported from editorAppShell.xul -->
