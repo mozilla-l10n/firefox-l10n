@@ -28,7 +28,7 @@
 <!ENTITY chooseFolderMac.label        "Escolher...">
 <!ENTITY chooseFolderMac.accesskey    "E">
 <!ENTITY alwaysAsk.label "Perguntar sempre onde gravar os ficheiros">
-<!ENTITY alwaysAsk.accesskey "P">
+<!ENTITY alwaysAsk.accesskey "s">
 
 <!ENTITY addonsMgr.label               "Extras">
 <!ENTITY manageAddonsDescWin.label     "Mudar as opções para os seus extras">
