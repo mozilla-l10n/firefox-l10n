@@ -71,7 +71,7 @@
 <!ENTITY existingSyncKey.description "Du kan finde din Sync-nøgle ved at tilgå &syncBrand.shortName.label; Indstillinger på en af dine andre enheder og vælge &#x0022;Min Sync-nøgle&#x0022; under &#x0022;Håndter konto&#x0022;.">
 <!ENTITY verifying.label              "Bekræfter…">
 <!ENTITY resetPassword.label          "Nulstil adgangskode">
-<!ENTITY lostSyncKey.label            "Jeg har mistet min Sync-nøgle">
+<!ENTITY resetSyncKey.label           "Jeg har mistet min anden enhed.">
 
 <!-- Sync Options -->
 <!ENTITY setup.optionsPage.title      "Synkroniseringsindstillinger">

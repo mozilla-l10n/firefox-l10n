@@ -4,8 +4,6 @@
 <!ENTITY weaveDesc.label            "&syncBrand.fullName.label; lader dig få adgang til din historik, bogmærker, adgangskoder og åbne faneblade fra alle dine enheder.">
 
 <!-- The page shown when logged in... -->
-<!ENTITY accountGroupboxCaption.label "&syncBrand.fullName.label; Konto">
-<!ENTITY currentAccount.label         "Nuværende konto:">
 
 <!-- Login error feedback -->
 <!ENTITY updatePass.label             "Opdater">
@@ -18,13 +16,7 @@
 <!ENTITY changePassword.label         "Ændr adgangskode">
 <!ENTITY mySyncKey.label              "Min Sync-nøgle">
 <!ENTITY resetSync.label              "Nulstil Sync">
-<!ENTITY stopUsingAccount.label       "Afslut brug af denne konto">
 <!ENTITY addDevice.label              "Tilføj enhed">
-
-<!-- Sync Settings -->
-<!ENTITY syncPrefsCaption.label       "Synkroniseringsindstillinger">
-<!ENTITY syncComputerName.label       "Computernavn:">
-<!ENTITY syncComputerName.accesskey   "c">
 
 <!ENTITY syncMy.label               "Synkroniser mine">
 <!ENTITY engine.bookmarks.label     "Bogmærker">
@@ -38,6 +30,10 @@
 <!ENTITY engine.prefs.label         "Indstillinger">
 <!ENTITY engine.prefs.accesskey     "I">
 
+<!-- Device Settings -->
+<!ENTITY syncComputerName.label       "Computernavn:">
+<!ENTITY syncComputerName.accesskey   "c">
+<!ENTITY deactivateDevice.label       "Deaktiver denne enhed">
 
 <!-- Footer stuff -->
 <!ENTITY prefs.tosLink.label        "Tjenestevilkår">

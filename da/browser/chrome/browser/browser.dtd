@@ -549,4 +549,5 @@ just addresses the organization to follow, e.g. "This site is run by " -->
 <!ENTITY syncSyncNowItem.accesskey    "S">
 <!ENTITY syncToolbarButton.label      "Sync">
 
-<!ENTITY addonBarCloseButton.tooltip  "Luk tilføjelsesbjælke">
+<!ENTITY addonBarCloseButton.tooltip  "Luk tilføjelseslinje">
+<!ENTITY toggleAddonBarCmd.key        "/">

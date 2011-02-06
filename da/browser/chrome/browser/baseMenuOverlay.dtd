@@ -14,14 +14,9 @@
 <!ENTITY aboutProduct.accesskey   "O">
 <!ENTITY productHelp.label        "Hjælp til &brandShortName;">
 <!ENTITY productHelp.accesskey    "H">
-<!ENTITY helpForIEUsers.label     "Til Internet Explorer-brugere">
-<!ENTITY helpForIEUsers.accesskey "I">
 <!ENTITY helpMac.commandkey       "?">
 <!ENTITY helpSafeMode.label       "Genstart med tilføjelser deaktiveret…">
 <!ENTITY helpSafeMode.accesskey   "G">
-
-<!ENTITY helpReleaseNotes.label         "Udgivelsesnoter">
-<!ENTITY helpReleaseNotes.accesskey     "U">
 
 <!ENTITY helpTroubleshootingInfo.label      "Fejlfindingsinformation…">
 <!ENTITY helpTroubleshootingInfo.accesskey  "F">
