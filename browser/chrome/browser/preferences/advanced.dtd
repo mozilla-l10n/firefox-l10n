@@ -21,6 +21,8 @@
 <!ENTITY allowHWAccel.accesskey          "h">
 <!ENTITY checkSpelling.label             "Kontroller min stavning mens jeg taster">
 <!ENTITY checkSpelling.accesskey         "t">
+<!ENTITY doNotTrack.label                "Fortæl websteder at jeg ikke ønsker at blive sporet">
+<!ENTITY doNotTrack.accesskey            "w">
 
 <!ENTITY systemDefaults.label            "Standardopsætning">
 <!ENTITY alwaysCheckDefault.label        "Undersøg altid om &brandShortName; er standardbrowseren når den startes"><!--XXX-->
