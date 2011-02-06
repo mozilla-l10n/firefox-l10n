@@ -4,7 +4,7 @@
 <!ENTITY content.title                             "Indhold">
 <!ENTITY showImages.title                          "Vis billeder">
 <!ENTITY enableJavaScript.title                    "Aktiver JavaScript">
-<!ENTITY enablePlugins.title                       "Aktiver plug-ins">
+<!ENTITY enablePlugins.title                       "Aktiver plugins">
 <!ENTITY privacy.title                             "Privatliv &amp; sikkerhed">
 <!ENTITY allowCookies.title                        "Tillad cookies">
 <!ENTITY clearPrivateData2.title                   "Ryd private data">

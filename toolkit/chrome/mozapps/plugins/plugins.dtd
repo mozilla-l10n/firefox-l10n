@@ -1,28 +1,28 @@
-<!ENTITY pluginWizard.title                                  "Plug-in Finder Tjenesten">
+<!ENTITY pluginWizard.title                                  "Plugin Finder Tjenesten">
 <!ENTITY pluginWizard.firstPage.title                        "Velkommen til &pluginWizard.title;">
 
-<!ENTITY pluginWizard.checkingForPlugins.description.label   "&brandShortName; undersøger nu for tilgængelige plug-ins…">
+<!ENTITY pluginWizard.checkingForPlugins.description.label   "&brandShortName; undersøger nu for tilgængelige plugins…">
 
-<!ENTITY pluginWizard.availablePluginsPage.title             "Tilgængelige plug-ins">
-<!ENTITY pluginWizard.availablePluginsPage.description.label "Følgende plug-ins er tilgængelige:">
-<!ENTITY pluginWizard.availablePluginsPage.continueMsg.label "Klik Næste for at installere disse plug-ins.">
-<!ENTITY pluginWizard.availablePluginsPage.installerUI       "Nogle plug-ins kan måske kræve yderligere informationer fra dig under installationen.">
+<!ENTITY pluginWizard.availablePluginsPage.title             "Tilgængelige plugins">
+<!ENTITY pluginWizard.availablePluginsPage.description.label "Følgende plugins er tilgængelige:">
+<!ENTITY pluginWizard.availablePluginsPage.continueMsg.label "Klik Næste for at installere disse plugins.">
+<!ENTITY pluginWizard.availablePluginsPage.installerUI       "Nogle plugins kan måske kræve yderligere informationer fra dig under installationen.">
 
-<!ENTITY pluginWizard.licensePage.title                      "Plug-in licenser">
+<!ENTITY pluginWizard.licensePage.title                      "Plugin licens">
 <!ENTITY pluginWizard.licensePage.accept.label               "Jeg accepterer.">
-<!ENTITY pluginWizard.licensePage.deny.label                 "Jeg accepterer IKKE (plug-in vil ikke blive installeret).">
+<!ENTITY pluginWizard.licensePage.deny.label                 "Jeg accepterer IKKE (plugin'et vil ikke blive installeret).">
 
-<!ENTITY pluginWizard.installPluginsPage.title               "Installerer plug-ins">
-<!ENTITY pluginWizard.installPluginsPage.description.label   "&brandShortName; installerer plug-ins…">
+<!ENTITY pluginWizard.installPluginsPage.title               "Installerer plugins">
+<!ENTITY pluginWizard.installPluginsPage.description.label   "&brandShortName; installerer plugins…">
 
-<!ENTITY pluginWizard.finalPage.description.label            "&brandShortName; blev færdig med at installere de manglende plug-ins:">
+<!ENTITY pluginWizard.finalPage.description.label            "&brandShortName; blev færdig med at installere de manglende plugins:">
 
-<!ENTITY pluginWizard.finalPage.moreInfo.label               "Hør mere om plug-ins eller find selv flere plug-ins.">
-<!ENTITY pluginWizard.finalPage.restart.label                "&brandShortName; skal genstartes for at de nye plug-ins kan blive aktiveret.">
+<!ENTITY pluginWizard.finalPage.moreInfo.label               "Hør mere om plugins eller find selv flere plugins.">
+<!ENTITY pluginWizard.finalPage.restart.label                "&brandShortName; skal genstartes for at de nye plugins kan blive aktiveret.">
 
-<!ENTITY missingPlugin.label                                 "Klik her for at hente plug-in.">
-<!ENTITY disabledPlugin.label                                "Plug-in'et for dette indhold er blevet deaktiveret. Klik her for at administrere plug-ins.">
-<!ENTITY blockedPlugin.label                                 "Plug-in'et er blevet blokeret for din sikkerhed.">
+<!ENTITY missingPlugin.label                                 "Klik her for at hente plugin.">
+<!ENTITY disabledPlugin.label                                "Plugin'et for dette indhold er blevet deaktiveret. Klik her for at administrere plugins.">
+<!ENTITY blockedPlugin.label                                 "Plugin'et er blevet blokeret for din sikkerhed.">
 <!-- LOCALIZATION NOTE (reloadPlugin.pre): include a trailing space as needed -->
 <!-- LOCALIZATION NOTE (reloadPlugin.middle): avoid leading/trailing spaces, this text is a link -->
 <!-- LOCALIZATION NOTE (reloadPlugin.post): include a starting space as needed -->
