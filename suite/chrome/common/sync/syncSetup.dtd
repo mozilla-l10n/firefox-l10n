@@ -65,6 +65,8 @@
 <!ENTITY setup.existingSyncKeyPage.title "Veuillez saisir votre clé de synchronisation">
 <!ENTITY setup.existingSyncKeyPage.description "La clé de synchronisation a été générée automatiquement ou vous l'avez saisie lors de votre souscription à &syncBrand.fullName.label;. Ce n'est pas votre mot de passe.">
 <!ENTITY existingSyncKeyHelp.description "Vous pouvez retrouver votre clé de synchronisation sur votre autre ordinateur en consultant les mots de passe enregistrés dans l'onglet « Sécurité ». Si vous ne pouvez pas retrouver la clé de synchronisation correcte, vous pouvez choisir de la réinitialiser, mais vous perdrez toutes les données stockées sur le serveur.">
+<!ENTITY lostSyncKey.label               "J'ai perdu ma clé de synchronisation">
+<!ENTITY verifying.label                 "Vérification…">
 
 <!-- Sync Options -->
 <!ENTITY setup.optionsPage.title      "Options de synchronisation">
