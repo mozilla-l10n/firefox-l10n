@@ -14,14 +14,9 @@
 <!ENTITY aboutProduct.accesskey "h">
 <!ENTITY productHelp.label "&brandShortName; yardımı">
 <!ENTITY productHelp.accesskey "y">
-<!ENTITY helpForIEUsers.label "Internet Explorer kullanıcılarına...">
-<!ENTITY helpForIEUsers.accesskey "I">
 <!ENTITY helpMac.commandkey "?">
 <!ENTITY helpSafeMode.label "Eklentileri devre dışı bırakıp başlat...">
 <!ENTITY helpSafeMode.accesskey "b">
-
-<!ENTITY helpReleaseNotes.label "Sürüm notları">
-<!ENTITY helpReleaseNotes.accesskey "r">
 
 <!ENTITY helpTroubleshootingInfo.label "Sorun giderme bilgileri">
 <!ENTITY helpTroubleshootingInfo.accesskey "S">

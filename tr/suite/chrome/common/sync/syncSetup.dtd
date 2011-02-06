@@ -4,8 +4,7 @@
 
 <!ENTITY setup.pickSetupType.description "Hoş geldiniz, daha önce hiç &syncBrand.fullName.label; kullanmadıysanız yeni bir hesap açmanız gerekecek.">
 <!ENTITY button.createNewAccount.label "Yeni hesap aç">
-<!ENTITY setup.haveAccount.label "Hâlihazırda bir &syncBrand.fullName.label; hesabım var">
-<!ENTITY button.connect.label "Bağlan">
+<!ENTITY button.haveAccount.label "I Have a &syncBrand.fullName.label; Account">
 
 <!ENTITY setup.choicePage.title.label "Daha önce &syncBrand.fullName.label; kullandınız mı?">
 <!ENTITY setup.choicePage.new.label "Daha önce hiç &syncBrand.shortName.label; kullanmadım">
@@ -14,18 +13,18 @@
 
 <!ENTITY server.label "Sunucu">
 <!ENTITY serverType.main.label "&syncBrand.fullName.label; sunucusu">
-<!ENTITY serverType.custom2.label "Özel sunucu kullan...">
-<!ENTITY signIn.account2.label "Hesap">
-<!ENTITY signIn.account2.accesskey "a">
+<!ENTITY serverType.custom.label "Use a custom server">
+<!ENTITY signIn.account.label "E-posta adresi / Kullanıcı adı">
+<!ENTITY signIn.account.accesskey "E">
 <!ENTITY signIn.password.label "Parola">
 <!ENTITY signIn.password.accesskey "P">
-<!ENTITY signIn.syncKey.label "Sync anahtarı">
-<!ENTITY signIn.syncKey.accesskey "h">
+<!ENTITY signIn.serverURL.label "Server URL">
+<!ENTITY signIn.serverURL.accesskey "S">
 <!-- New Account Page 1: Basic Account Info -->
 
 <!ENTITY setup.newAccountDetailsPage.title.label "Hesap ayrıntıları">
-<!ENTITY setup.confirmPassword.label "Parolayı doğrulayın">
-<!ENTITY setup.confirmPassword.accesskey "d">
+<!ENTITY setup.confirmPassword.label "Confirm Password">
+<!ENTITY setup.confirmPassword.accesskey "C">
 <!ENTITY setup.emailAddress.label "E-posta adresi">
 <!ENTITY setup.emailAddress.accesskey "E">
 <!-- LOCALIZATION NOTE: tosAgree1, tosLink, tosAgree2, ppLink, tosAgree3 are
@@ -43,7 +42,10 @@
 <!ENTITY setup.newSyncKeyPage.description.label "Tüm verileriniz sunucuya gönderilmeden önce gizliliğinizi korumak için şifrelenir. Şifreyi çözmek için gereken Sync anahtarı sunucuya gönderilmez.">
 <!ENTITY syncKeyEntry.label "Sync anahtarınız">
 <!ENTITY syncKeyEntry.accesskey "a">
-<!ENTITY syncKeyGenerate.label "Üret">
+<!ENTITY syncKeyGenerate.label "Generate">
+<!ENTITY syncKeyGenerate.accesskey "G">
+<!ENTITY syncKeyStrength.label "Güç:">
+<!ENTITY syncKeyHelp.label "Güç ne anlama geliyor?">
 <!ENTITY syncKeyBackup.description "Sync anahtarınız diğer makinelerde &syncBrand.fullName.label; uygulamasına erişmek için gereklidir. Lütfen yedek kopyasını alın. Sync anahtarınızı kurtarmanıza yardım edemeyiz.">
 
 <!ENTITY button.syncKeyBackup.print.label "Yazdır...">
@@ -53,25 +55,18 @@
 <!-- New Account Page 3: Captcha -->
 
 <!ENTITY setup.captchaPage2.title.label "Lütfen robot olmadığınızı kanıtlayın">
-<!-- Existing Account Page 1: Add Device (incl. Add a Device dialog strings) -->
-<!ENTITY addDevice.title.label "Aygıt ekle">
-<!ENTITY addDevice.showMeHow.label "Nasıl yapılacağını göster.">
-<!ENTITY addDevice.dontHaveDevice.label "Aygıt yanımda değil">
-<!ENTITY addDevice.setup.description.label "Etkinleştirmek için diğer aygıtınızdaki &syncBrand.shortName.label; seçeneklerine gidip &#x0022;Aygıt ekle&#x0022; seçeneğini işaretleyin.">
-<!ENTITY addDevice.setup.enterCode.label "Ardından bu kodu girin:">
-<!ENTITY addDevice.dialog.description.label "Yeni aygıtınızı etkinleştirmek için aygıttaki &syncBrand.shortName.label; seçeneklerine gidip &#x0022;Bağlan&#x0022;'ı seçin.">
-<!ENTITY addDevice.dialog.enterCode.label "Aygıtın verdiği kodu girin:">
-<!ENTITY addDevice.dialog.tryAgain.label "Lütfen tekrar deneyin.">
-<!ENTITY addDevice.dialog.successful.label "Aygıt başarıyla eklendi. Arkaplanda yapılacak ilk eşitleme birkaç dakika sürebilir.">
-<!ENTITY addDevice.dialog.syncKey.label "Aygıtınızı etkinleştirmek için Sync anahtarınızı girmeniz gerek. Lütfen beraberinizde taşımak için bu anahtarı ya yazdırın ya da kaydedin.">
-<!ENTITY addDevice.dialog.connected.label "Aygıt bağlandı">
-<!-- Existing Account Page 2: Manual Login -->
+<!-- Existing Account Page 1: Login -->
 
-<!ENTITY setup.signInPage.title.label "Oturum aç">
-<!ENTITY existingSyncKey.description "Sync anahtarınızın bir kopyasını diğer aygıtınızdaki seçeneklere girip &#x0022;Hesabı yönet&#x0022; bölümündeki &#x0022;Sync anahtarım&#x0022; kısmından edinebilirsiniz.">
-<!ENTITY verifying.label "Doğrulanıyor...">
+<!ENTITY setup.existingAccount.title.label "Hesap bilgilerini girin">
 <!ENTITY resetPassword.label "Parolayı sıfırla">
-<!ENTITY resetSyncKey.label "Diğer aygıtımı kaybettim.">
+<!ENTITY connecting.label "Bağlanıyor...">
+<!-- Existing Account Page 2: Sync Key -->
+
+<!ENTITY setup.existingSyncKeyPage.title "Sync anahtarınızı girin">
+<!ENTITY setup.existingSyncKeyPage.description "&syncBrand.fullName.label; kaydı sırasında sizin için Sync anahtarı üretildi veya kendiniz girdiniz. Bu, parolanızla aynı değildir.">
+<!ENTITY existingSyncKeyHelp.description "Başka bilgisayarınızdaki Güvenlik bölümüne girip kayıtlı parolalara bakarak kayıtlı Sync anahtarınızı bulabilirsiniz. Sync anahtarınızı bulamıyorsanız sıfırlayabilirsiniz, ancak sunucuda kayıtlı tüm verileriniz kaybolacaktır.">
+<!ENTITY lostSyncKey.label "Sync anahtarımı kaybettim">
+<!ENTITY verifying.label "Doğrulanıyor...">
 <!-- Sync Options -->
 
 <!ENTITY setup.optionsPage.title "Sync seçenekleri">
@@ -79,28 +74,30 @@
 <!ENTITY syncComputerName.accesskey "B">
 
 <!ENTITY syncMy.label "Eşitlenecekler:">
-<!ENTITY engine.bookmarks.label "Yer imleri">
-<!ENTITY engine.bookmarks.accesskey "m">
+<!ENTITY engine.bookmarks.label "Bookmarks">
+<!ENTITY engine.bookmarks.accesskey "B">
 <!ENTITY engine.tabs.label "Sekmeler">
 <!ENTITY engine.tabs.accesskey "S">
 <!ENTITY engine.history.label "Geçmiş">
 <!ENTITY engine.history.accesskey "G">
 <!ENTITY engine.passwords.label "Parolalar">
 <!ENTITY engine.passwords.accesskey "P">
-<!ENTITY engine.prefs.label "Tercihler">
-<!ENTITY engine.prefs.accesskey "T">
+<!ENTITY engine.prefs.label "Preferences">
+<!ENTITY engine.prefs.accesskey "e">
 
 <!ENTITY choice2.merge.main.label "Bu bilgisayarın verileriyle &syncBrand.shortName.label; verilerimi birleştir">
-<!ENTITY choice2.merge.recommended.label "Tavsiye edilen:">
+<!ENTITY choice2.merge.recommended.label "(recommended)">
 <!ENTITY choice2.client.main.label "Bu bilgisayardaki tüm verileri &syncBrand.shortName.label; verilerimle değiştir">
 <!ENTITY choice2.server.main.label "Diğer tüm aygıtlardaki verileri bu bilgisayardaki verilerle değiştir">
 <!-- Confirm Merge Options -->
 
 <!ENTITY setup.optionsConfirmPage.title "Onayla">
 <!ENTITY confirm.merge.label "&syncBrand.fullName.label; bu bilgisayardaki tüm tarayıcı verilerini Sync hesabınızla birleştirecek.">
-<!ENTITY confirm.client2.label "Uyarı: Aşağıda görünen bu bilgisayardaki &brandShortName; verileri silinecek:">
+<!ENTITY confirm.client.label "Aşağıdakiler de dahil olmak üzere, bu bilgisayardaki tüm &brandShortName; verileri silinecek:">
 <!ENTITY confirm.client.moreinfo.label "&brandShortName; daha sonra &syncBrand.fullName.label; verilerinizi bu bilgisayara kopyalacak.">
-<!ENTITY confirm.server2.label "Uyarı: Aşağıdaki aygıtlardaki veriler yerel verilerinizle değiştirilecek:">
+<!ENTITY confirm.client.warning.label "UYARI: Bu işlem sonucunda bu bilgisayardaki tüm &brandShortName; verileri değişecek!">
+<!ENTITY confirm.server.label "The following devices will be overwritten with your local data:">
+<!ENTITY confirm.server.warning.label "UYARI: Bu aygıtlardaki tüm &brandShortName; verilerinin yerini yerel verileriniz alacak!">
 <!-- New & Existing Account: Setup Complete -->
 
 <!ENTITY setup.successPage.title "Kurulum tamamlandı">

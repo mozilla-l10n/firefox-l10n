@@ -22,6 +22,7 @@
 <!ENTITY ssl.label "SSL">
 <!ENTITY certs.label "Onay belgeleri">
 <!ENTITY validation.label "Validation">
+<!ENTITY sync.label "Eşitleme">
 <!ENTITY advance.label "Gelişmiş">
 <!ENTITY down.label "İndir">
 <!ENTITY cache.label "Cache">
