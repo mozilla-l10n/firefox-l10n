@@ -228,7 +228,7 @@ can reach it easily. -->
 <!ENTITY copyCmd.label "คัดลอก">
 <!ENTITY copyCmd.key "C">
 <!ENTITY copyCmd.accesskey "ค">
-<!ENTITY pasteCmd.label "แปะ">
+<!ENTITY pasteCmd.label "วาง">
 <!ENTITY pasteCmd.key "V">
 <!ENTITY pasteCmd.accesskey "แ">
 <!ENTITY deleteCmd.label "ลบ">
@@ -457,7 +457,7 @@ you can use these alternative items. Otherwise, their values should be empty.  -
 
 <!ENTITY cutButton.tooltip "ตัด">
 <!ENTITY copyButton.tooltip "คัดลอก">
-<!ENTITY pasteButton.tooltip "แปะ">
+<!ENTITY pasteButton.tooltip "วาง">
 
 <!ENTITY fullScreenButton.tooltip       "แสดงหน้าต่างแบบเต็มหน้าจอ">
 
