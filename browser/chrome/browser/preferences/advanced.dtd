@@ -64,16 +64,16 @@
 <!ENTITY enableAddonsUpdate2.label "Doplňky">
 <!ENTITY enableAddonsUpdate2.accesskey "D">
 <!ENTITY enableSearchUpdate.label "Vyhledávací moduly">
-<!ENTITY enableSearchUpdate.accesskey "V">
+<!ENTITY enableSearchUpdate.accesskey "h">
 <!ENTITY whenUpdatesFound.label "Je-li dostupná aktualizace pro aplikaci &brandShortName;:">
 <!ENTITY askMe.label "Vždy se dotázat na další postup">
 <!ENTITY askMe.accesskey "l">
 <!ENTITY modeAutomatic.label "Automaticky aktualizaci stáhnout a nainstalovat">
 <!ENTITY modeAutomatic.accesskey "t">
 <!ENTITY modeAutoAddonWarn.label "Upozornit, pokud by aktualizace zakázala některé doplňky">
-<!ENTITY modeAutoAddonWarn.accesskey "u">
+<!ENTITY modeAutoAddonWarn.accesskey "U">
 <!ENTITY updateHistory.label "Zobrazit historii aktualizací…">
-<!ENTITY updateHistory.accesskey "h">
+<!ENTITY updateHistory.accesskey "b">
 
 <!ENTITY offlineNotify.label "Upozornit, pokud server chce uložit offline obsah">
 <!ENTITY offlineNotify.accesskey "U">
