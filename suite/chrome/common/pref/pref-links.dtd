@@ -1,8 +1,9 @@
 <!ENTITY linksHeader.label "Gedrag van koppelingen">
 <!ENTITY newWindow.label "Openen van koppelingen">
-<!ENTITY newWindowDescription.label "Koppelingen die in een nieuw venster zouden openen, openen in">
+<!ENTITY newWindowDescription.label "Koppelingen die in een nieuw venster zouden openen, openen in:">
+<!ENTITY newWindowRestriction.label "Wanneer scripts een nieuw venster willen openen:">
 <!ENTITY external.label "Koppelingen van andere toepassingen">
-<!ENTITY externalDescription.label "Koppelingen vanuit andere toepassingen openen in">
+<!ENTITY externalDescription.label "Koppelingen vanuit andere toepassingen openen in:">
 
 <!ENTITY openCurrent.label "Het huidige tabblad/venster">
 <!ENTITY newWindowGroupCurrent.accesskey "u">
@@ -15,3 +16,10 @@
 <!ENTITY openWindow.label "Een nieuw venster">
 <!ENTITY newWindowGroupWindow.accesskey "n">
 <!ENTITY externalGroupWindow.accesskey "v">
+
+<!ENTITY divertAll.label "Altijd vensters omzetten naar tabbladen">
+<!ENTITY divertAll.accesskey "d">
+<!ENTITY divertNoFeatures.label "Aangepaste vensters niet omzetten naar tabbladen">
+<!ENTITY divertNoFeatures.accesskey "s">
+<!ENTITY dontDivert.label "Altijd nieuwe vensters openen">
+<!ENTITY dontDivert.accesskey "n">
