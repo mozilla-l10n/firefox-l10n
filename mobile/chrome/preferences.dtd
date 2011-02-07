@@ -2,6 +2,7 @@
 <!ENTITY about.title                               "عن &brandShortName;">
 <!ENTITY about.button                              "اذهب إلى صفحة">
 <!ENTITY content.title                             "المحتوى">
+<!ENTITY reflowZoom.title                          "أعِد تنسيق النص عند تغيير الحجم">
 <!ENTITY showImages.title                          "أظهِر الصور">
 <!ENTITY enableJavaScript.title                    "فعّل جافاسكربت">
 <!ENTITY enablePlugins.title                       "فعّل الملحقات">
