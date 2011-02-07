@@ -16,8 +16,6 @@
 <!ENTITY aboutProduct.accesskey "U">
 <!ENTITY productHelp.label "&brandShortName; hjálp">
 <!ENTITY productHelp.accesskey "h">
-<!ENTITY helpForIEUsers.label "Fyrir notendur Internet Explorer">
-<!ENTITY helpForIEUsers.accesskey "I">
 <!ENTITY helpMac.commandkey "?">
 <!ENTITY helpSafeMode.label "Endurræsa með viðbætur óvirkar…">
 <!ENTITY helpSafeMode.accesskey "r">
