@@ -19,3 +19,4 @@
 <!ENTITY sync.serverURL             "عنوان الخادوم">
 <!ENTITY sync.setup.connect         "اتصل">
 <!ENTITY sync.setup.cancel          "ألغِ">
+<!ENTITY sync.setup.tutorial        "أرِني كيف أفعل ذلك">

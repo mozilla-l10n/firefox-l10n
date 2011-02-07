@@ -3,6 +3,8 @@
 <!ENTITY aboutHome.remoteTabs                   "ألسنة من الأجهزة الأخرى">
 <!ENTITY aboutHome.recommendedAddons2           "إضافات ل‍ &brandShortName;">
 <!ENTITY aboutHome.giveFeedback                 "أخبرنا يتعليقاتك">
+<!ENTITY aboutHome.getHelp                      "احصل على المساعدة">
+<!ENTITY aboutHome.footerWidth                  "10em">
 <!ENTITY aboutHome.openAllTabs                  "افتح الكل في ألسنة">
 <!ENTITY aboutHome.noTabs                       "لا يوجد ألسنة من المرة السابقة">
 <!ENTITY aboutHome.noAddons                     "لا يوجد إضافات مزكّاة">

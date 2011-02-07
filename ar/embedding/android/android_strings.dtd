@@ -1,0 +1,14 @@
+<!ENTITY  splash_screen_label "يحمّل">
+<!ENTITY  splash_screen_installing "يثبّت المكتبات\u2026">
+<!ENTITY  incompatable_cpu_error "هذا الجهاز لا يملك متطلبات النظام الدنيا ل‍ &brandShortName;.">
+<!ENTITY  no_space_to_start_error "لا يوجد مساحة تكفي لتشغيل &brandShortName;.">
+<!ENTITY  error_loading_file "حصل خطأ عند محاولة تحميل الملفات لتشغيل &brandShortName;">
+
+<!ENTITY  crash_reporter_title "مبلغ انهيارات &brandShortName;">
+<!ENTITY  crash_message "انهار &brandShortName;. ستجد ألسنتك مسرودة في صفحة بداية &brandShortName; عندما تعيد تشغيله.">
+<!ENTITY  crash_help_message "ساعِدنا على حل هذه المشكلة!">
+<!ENTITY  crash_send_report_message "أرسِل بلاغًا بالانهيار إلى موزيلا ">
+<!ENTITY  crash_include_url "ضمّن عنوان الصفحة">
+<!ENTITY  crash_close_label "أغلِق">
+<!ENTITY  crash_restart_label "أعِد تشغيل &brandShortName;">
+<!ENTITY  sending_crash_report "يرسل بلاغ الانهيار\u2026">

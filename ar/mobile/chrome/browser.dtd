@@ -26,6 +26,7 @@
 <!ENTITY historyHeader.label       "التأريخ">
 <!ENTITY desktopHeader.label       "سطح المكتب">
 
+<!ENTITY editBookmarkDialog.title  "حرّر العلامة">
 <!ENTITY editBookmarkTags.label    "أضِف الوسوم هنا">
 <!ENTITY editBookmarkDone.label    "تمّ">
 
