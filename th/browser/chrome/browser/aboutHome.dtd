@@ -13,9 +13,6 @@
 
 <!ENTITY abouthome.searchEngineButton.label "ค้นหา">
 
-<!ENTITY abouthome.searchEngineLinks.advanced "การค้นหาขั้นสูง">
-<!ENTITY abouthome.searchEngineLinks.preferences "ปรับแต่ง">
-
 <!ENTITY abouthome.aboutMozilla "เกี่ยวกับ Mozilla">
 
 <!-- LOCALIZATION NOTE (abouthome.defaultSnippet1.v1):
