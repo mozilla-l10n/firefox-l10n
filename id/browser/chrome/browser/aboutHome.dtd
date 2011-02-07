@@ -13,9 +13,6 @@
 
 <!ENTITY abouthome.searchEngineButton.label "Cari">
 
-<!ENTITY abouthome.searchEngineLinks.advanced "Penelusuran Lanjutan">
-<!ENTITY abouthome.searchEngineLinks.preferences "Pengaturan">
-
 <!ENTITY abouthome.aboutMozilla "Tentang Mozilla">
 
 <!-- LOCALIZATION NOTE (abouthome.defaultSnippet1.v1):
