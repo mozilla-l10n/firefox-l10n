@@ -13,9 +13,6 @@
 
 <!ENTITY abouthome.searchEngineButton.label "Sök">
 
-<!ENTITY abouthome.searchEngineLinks.advanced "Avancerad sökning">
-<!ENTITY abouthome.searchEngineLinks.preferences "Inställningar">
-
 <!ENTITY abouthome.aboutMozilla "Om Mozilla">
 
 <!-- LOCALIZATION NOTE (abouthome.defaultSnippet1.v1):
