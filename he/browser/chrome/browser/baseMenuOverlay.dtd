@@ -21,7 +21,7 @@
 <!ENTITY helpTroubleshootingInfo.label      "מידע לפתרון בעיות">
 <!ENTITY helpTroubleshootingInfo.accesskey  "מ">
 
-<!ENTITY helpFeedbackPage.label      "שלח את המשוב…">
+<!ENTITY helpFeedbackPage.label      "שלח משוב…">
 <!ENTITY helpFeedbackPage.accesskey  "ש">
 
 <!ENTITY preferencesCmdMac.label        "העדפות…">
