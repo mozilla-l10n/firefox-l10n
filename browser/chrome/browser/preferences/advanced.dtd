@@ -21,6 +21,8 @@
 <!ENTITY allowHWAccel.accesskey          "ร">
 <!ENTITY checkSpelling.label "ตรวจสอบตัวสะกดขณะพิมพ์">
 <!ENTITY checkSpelling.accesskey "ส">
+<!ENTITY doNotTrack.label                "บอกเว็บไซต์ต่างๆ ว่าฉันไม่ต้องติดตามฉัน">
+<!ENTITY doNotTrack.accesskey            "บ">
 
 <!ENTITY systemDefaults.label "ค่าปริยายของระบบ">
 <!--XXX-->
