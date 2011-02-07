@@ -2016,13 +2016,7 @@ usługę, np ldap.infospace.com.</li>
   <li>Po pobraniu wiadomości kliknąć na wskaźniku trybu Online/Offline <img src="images/online.png" alt=""/> w prawym dolnym rogu okna Kuriera Poczty (z lewej strony ikony ciasteczka), aby przejść do trybu offline.</li>
 </ol>
 
-<p><strong>Note</strong>: This setting also applies to any new folders
-  created. While the per-account setting can be overridden for an
-  <a href="#downloading_an_individual_folder_for_offline_use">individual
-  folder</a>, those per-folder settings are <em>removed</em> when the
-  <q>Keep messages</q> box is toggled.</p>
-
-
+<p><strong>Uwaga</strong>: To ustawienie zostanie zastosowane również dla każdego nowego folderu. W odróżnieniu od ustawień dla konta, które mogą zostać nadpisane dla <a href="#downloading_an_individual_folder_for_offline_use">osobnych folderów</a>, ustawienia dla folderu są <em>usuwane</em> po przełączeniu pola <q>Przechowuj wiadomości dla tego konta lokalnie na komputerze</q>.</p>
 
 <p>Kurier Poczty &brandShortName; automatycznie pobiera wszystkie wiadomości znajdujące się w folderze Odebrane. Użytkownik może dzięki temu je przeczytać i odpowiedzieć na nie podczas pracy w trybie offline. Po rozłączeniu z siecią Kurier Poczty pozostaje uruchomiony, możliwa jest więc dalsza praca z dostępnymi wiadomościami.</p>
 
@@ -2449,7 +2443,7 @@ usługę, np ldap.infospace.com.</li>
   <li><strong>Wyślij ukrytą kopię do</strong>: Należy wybrać czy zawsze ma być wysyłana ukryta kopia wiadomości (BCC) do innego adresata i wprowadzić jego adres. Jeżeli użytkownik chce wysyłać do siebie taką kopię, musi dodać do tej listy swój adres. Adresy oddziela się przecinkiem (,).</li>
   <li><strong>Szkice wiadomości przechowuj w</strong>: Należy wybrać katalog, w którym mają być przechowywane szkice wiadomości. Jeżeli użytkownik nie chce, aby szkice były przechowywane w katalogu Szkice bieżącego konta, należy wybrać opcję Innym folderze i wybrać konto oraz katalog przechowywania szkiców wiadomości.</li>
   <li><strong>Szablony wiadomości przechowuj w</strong>: Należy wybrać katalog, w którym mają być przechowywane szablony wiadomości. Jeżeli użytkownik nie chce, aby szablony były przechowywane w katalogu Szablony bieżącego konta, należy wybrać opcję Innym folderze i wybrać konto oraz katalog przechowywania szablonów wiadomości.</li>
-  <li><strong>Wyświetl okno dialogowe potwierdzające zapisywanie wiadomości</strong>: Należy wybrać tę opcję, jeżeli użytkownik chce, aby Kurier Poczty wyświetlał okno dialogowe z prośbą o potwierdzenie przy zapisywaniu szkiców wiadomości lub szablonów. Jeżeli opcja jest wybrana, to przy każdym zapisywaniu szkiu lub szablonu wiadomości wyświetlone zostanie okno dialogowe przypominające gdzie Kurier Poczty &brandShortName; zapisuje szkic lub szablon.</li>
+  <li><strong>Wyświetl okno dialogowe potwierdzające zapisywanie wiadomości</strong>: Należy wybrać tę opcję, jeżeli użytkownik chce, aby Kurier Poczty wyświetlał okno dialogowe z prośbą o potwierdzenie przy zapisywaniu szkiców wiadomości lub szablonów. Jeżeli opcja jest wybrana, to przy każdym zapisywaniu szkicu lub szablonu wiadomości wyświetlone zostanie okno dialogowe przypominające gdzie Kurier Poczty &brandShortName; zapisuje szkic lub szablon.</li>
 </ul>
 
 <p>[<a href="#mail_and_newsgroups_account_settings">Na początek rozdziału</a>]</p>
@@ -2506,7 +2500,7 @@ usługę, np ldap.infospace.com.</li>
 
 <h2 id="synchronization_and_storage">Synchronizacja i miejsce na dysku</h2>
 
-<p>Ustawienia synchronizazji i miejsca na dysku pozwalają oszczędzać miejsce zajmowane przez wiadomości na dysku lub skonfigurować konto pocztowe tak, aby było możliwe używanie go w tryie offline po odłączeniu od sieci internet. To jakie ustawienia są dostępne zależy od tego jakiego typu (IMPA, POP, grup dyskusyjnych) konta one dotyczą.</p>
+<p>Ustawienia synchronizazji i miejsca na dysku pozwalają oszczędzać miejsce zajmowane przez wiadomości na dysku lub skonfigurować konto pocztowe tak, aby było możliwe używanie go w trybie offline po odłączeniu od sieci internet. To jakie ustawienia są dostępne zależy od tego jakiego typu (IMAP, POP, grup dyskusyjnych) konta one dotyczą.</p>
   
 <div class="contentsBox">
   <ul>
@@ -2607,41 +2601,24 @@ usługę, np ldap.infospace.com.</li>
 
 <h2 id="junk_settings">Ustawienia niechcianej poczty</h2>
   
-<p>This section describes how to use the account junk settings. If
-  you are not currently viewing the Junk Settings, follow these steps:</p>
+<p>Ten rozdział opisuje jak zmienić ustawienia niechcianej poczty. Jeżeli okno dialogowe ustawień serwera nie jest widoczne, należy w oknie Kuriera Poczty:</p>
 
 <ol>
   <li>Z menu Edycja wybrać Konfiguracja kont. Wyświetlone zostanie okno dialogowe Konfiguracja kont.</li>
-  <li>Click the Junk Settings category for your mail account.</li>
+  <li>Wybrać konto grup dyskusyjnych i dla niego Niechciana poczta.</li>
 </ol>
 
-<p>You use the Junk Settings panel to define your account-specific settings
-  for the adaptive mail filter. Global junk settings are changed under
-  <a href="#global_junk_settings">Preferencje Kuriera Poczty - Niechciana poczta</a>.</p>
+<p>Ustawienia niechcianej poczty pozwalają określić w jaki sposób samouczący się filtr ma postępować z niepożądanymi wiadomościami dla wybranego konta. Ustawienia dotyczące wszystkich kont definiuje się w <a href="#global_junk_settings">Preferencjach Kuriera Poczty &mdash; Niechciana poczta</a>.</p>
   
 <ul>  
-  <li><strong>Enable adaptive junk mail controls for this account</strong>:
-    Toggle this option to activate or deactivate junk mail classification.</li>
-  <li><strong>Do not mark mail as junk if the sender is in [the address
-    book chosen from all your address books available in the drop down
-    box]</strong>:
-    Choose this option to prevent messages from people you know inadvertently
-    classified as junk mail.</li>
-  <li><strong>Trust junk mail headers set by [an external junk filter
-    like Spam Assassin or Spam Pal]</strong>: Choose this option if you want to
-    trust the junk classification of external filter programs.</li>
-  <li><strong>Move new junk messages to</strong>:
-    Check this option to automatically move messages flagged as Junk to a
-    special folder.
+  <li><strong>Włącz filtr niechcianej poczty dla bieżącego konta</strong>: Wybór tej opcji włącza oznaczanie wiadomości jako niechcianych.</li>
+  <li><strong>Nie oznaczaj wiadomości jako niechcianej, jeżeli adres nadawcy znajduje się w [lista książek adresowych do wyboru]</strong>: Wybór tej opcji powoduje, że wiadomości od nadawców, których adresy znajdują się na wybranych listach nie będą oznaczane jako niechciane.</li>
+  <li><strong>Ufaj nagłówkom niechcianej poczty dołączonym przez [zewnętrzny filtr niechcianej poczty Spam Assassin lub Spam Pal do wyboru]</strong>: Wybór tej opcji powoduje, że &brandShortName; będzie ufała oznaczeniu wiadomości jako niechcianej przez wybrany program filtrujący.</li>
+  <li><strong>Przenoś otrzymane wiadomości, które zostały oznaczone jako niechciane, do</strong>: Wybór tej opcji powoduje, że wiadomości oznaczone jako niechciane będą przenoszone do wskazanego folderu.
     <ul>
-      <li><strong><q>Junk</q> folder on [account]</strong>: Select this to use
-        the default Junk folder.</li>
-      <li><strong>Other: [account]</strong>: Select this to choose your own
-        custom-named junk folder.</li>
-      <li><strong>Automatically delete junk messages older than [__] days from
-        this folder</strong>: If you are confident old messages classified as
-        junk are indeed junk mail, check this option to automatically delete
-        old junk messages after a grace period.</li>
+      <li><strong>Folderu <q>Niechciane</q> konta</strong>: Wybór tej opcji powoduje przenoszenie wiadomości do domyślnego folderu <q>Niechciane</q> wybranego konta.</li>
+      <li><strong>Innego folderu [wybrany folder w wybranym folderze]</strong>: Wybór tej opcji powoduje przenoszenie wiadomości do dowolnego wybranego folderu.</li>
+      <li><strong>Niechciane wiadomości usuwaj automatycznie po upływie [__] dni</strong>: Jeżeli użytkownik ma pewność, że wiadomości oznaczone jako jako niechciane napewno takimi są, to wybór tej opcji spowoduje ich automatyczne usuwanie po upływie wpisanej liczby dni.</li>
     </ul>
   </li>
 </ul>
@@ -2650,48 +2627,27 @@ usługę, np ldap.infospace.com.</li>
 
 <h2 id="return_receipts">Potwierdzenia odbioru</h2>
 
-<p>This section describes how to use the Return Receipts account settings. If
-  you are not currently viewing the Return Receipts settings, follow these
-  steps:</p>
+<p>Ten rozdział opisuje w jaki sposób używać potwierdzeń doręczenia wiadomości. Jeżeli okno dialogowe ustawień potwierdzeń doręczenia wiadomości nie jest widoczne, należy w oknie Kuriera Poczty:</p>
 
 <ol>
   <li>Z menu Edycja wybrać Konfiguracja kont. Wyświetlone zostanie okno dialogowe Konfiguracja kont.</li>
-  <li>Click the Return Receipts category for your mail account.</li>
+  <li>Wybrać konto grup dyskusyjnych i dla niego Potwierdzenia.</li>
 </ol>
 
-<p>You use the Return Receipts settings to define return receipt settings for
-  outgoing messages from this mail account. You also use the Return Receipt
-  settings to specify how to manage requests you receive for return receipts.
-  These settings override global return receipt preferences you specified using
-  <a href="#return_receipts_preferences">Preferencje Kuriera Poczty - Potwierdzenia odbioru</a>.</p>
+<p>Poniższe ustawienia potwierdzeń doręczenia wiadomości dotyczą wiadomości wysyłanych za pomocą wybranego konta. Ustawień tych można również użyć do określenia sposobu postępowania z żądaniami potwierdzeń dostarczenia odbieranych przez użytkownika. Te ustawienia zastępują dla tego konta globalne ustawienia zdefiniowane w <a href="#return_receipts_preferences">Preferencjach Kuriera Poczty &mdash; Potwierdzenia odbioru</a>.</p>
 
 <ul>
-  <li><strong>Use my global return receipt preferences for this
-    account</strong>: By default, this account uses the return receipt
-    preferences specified by <a href="#return_receipts_preferences">Preferencje Kuriera Poczty - Potwierdzenia odbioru</a>.</li>
-  <li><strong>Customize return receipts for this account</strong>: Lets you
-    change the return receipt preferences for this account.
+  <li><strong>Użyj globalnych potwierdzeń doręczenia wiadomości dla tego konta</strong>: Wybrane konto domyślnie będzie używało preferencji potwierdzeń dostarczenia wiadomości określonych w <a href="#return_receipts_preferences">Preferencjach Kuriera Poczty &mdash; Potwierdzenia odbioru</a>.</li>
+  <li><strong>Dostosuj ustawienia potwierdzenia doręczenia wiadomości dla tego konta</strong>: Umożliwia zmianę preferencji obsługi żądań potwierdzenia dostarczenia wiadomości dla tego konta.
     <ul>
-      <li><strong>When sending messages, always request a return
-        receipt</strong>: Enables automatic return receipt requests for all
-        outgoing messages from this mail account.</li>
-      <li><strong>Leave it in my Inbox</strong>: Return receipt
-        confirmation messages are delivered to the Inbox for this account.
+      <li><strong>Zawsze żądaj potwierdzeń doręczenia wysyłanych wiadomości</strong>: Włącza automatyczne żądania potwierdzenia dostarczenia wiadomości dla wszystkich wiadomości wysłanych za pomocą tego konta.</li>
+      <li><strong>pozostawiaj w folderze Odebrane</strong>: przychodzące potwierdzenia dostarczenia wiadomości są umieszczane w folderze Odebrane wybranego konta.
 
-        <p><strong>Wskazówka</strong>: Choose this option if you want to use a
-          filter that automatically moves return receipt confirmation
-          messages to a folder you specify. For information on creating and
-          using filters, see <a href="#creating_message_filters">Creating
-          Message Filters</a>.</p>
+        <p><strong>Wskazówka</strong>: Należy wybrać tę opcję jeżeli użytkownik ma zamiar używać filtru, który będzie przenosił przychodzące wiadomości potwierdzeń dostarczenia wiadomości do innego folderu. Więcej informacji o używaniu filtrów wiadomości w rozdziale <a href="#creating_message_filters">Tworzenie filtrów wiadomości</a>.</p>
       </li>
-      <li><strong>Move it to my Sent Mail folder</strong>: Incoming return
-        receipt confirmation messages are moved to the Sent mail folder for
-        this account.</li>
-      <li><strong>Never send a return receipt</strong>: Choose this option if
-        you do not want to send a return receipt in response to requests for
-        return receipts from others.</li>
-      <li><strong>Allow return receipts for some messages</strong>: Choose how
-        you want to respond to requests you receive for return receipts.</li>
+      <li><strong>przenoś do folderu Wysłane</strong>: przychodzące wiadomości potwierdzające dostarczenie wiadomości są przenoszone do folderu wysłane wybranego konta.</li>
+      <li><strong>Nigdy nie wysyłaj potwierdzeń doręczenia wiadomości</strong>: Wybór tej opcji powoduje, że potwierdzenia dostarczenia wiadomości nigdy nie będą wysyłane na żądania w wiadomościach od innych.</li>
+      <li><strong>Wysyłaj potwierdzenia doręczenia wiadomości tylko w poniższych przypadkach</strong>: Należy wybrać jak &brandShortName; ma postępować z żądaniami potwierdzeń dostarczenia wiadomości przychodzących.</li>
     </ul>
   </li>
 </ul>
@@ -2700,18 +2656,13 @@ usługę, np ldap.infospace.com.</li>
 
 <h2 id="security">Zabezpieczenia</h2>
 
-<p>This section describes how to configure the Mail &amp; Newsgroup Account
-  Settings that control mail message security. Before you do so, however, you
-  must obtain one or more mail certificates. For details, see
-  <a href="mail_sec_help.xhtml">Signing &amp; Encrypting Messages</a>.</p>
+<p>Ten rozdział opisuje w jaki sposób skonfigurować ustawienia konta w Kurierze Poczty, które odpowiadają za bezpieczeństwo wiadomości. Przed użyciem tych wiadomości użytkownik musi uzyskać jeden lub więcej certyfikatów do obsługi wiadomości pocztowych. Więcej informacji w rozdziale <a href="mail_sec_help.xhtml">Podpisywanie i szyfrowanie wiadomości</a>.</p>
 
-<p>If you are not already viewing the Security settings for your mail account,
-  begin from the Mail window:</p>
+<p>Jeżeli okno dialogowe ustawień zabezpieczeń wiadomości dla wybranego konta pocztowego nie jest widoczne, należy w oknie Kuriera Poczty:</p>
 
 <ol>
   <li>Z menu Edycja wybrać Konfiguracja kont. Wyświetlone zostanie okno dialogowe Konfiguracja kont.</li>
-  <li>Click Security under the name of the mail account whose security settings
-    you want to configure.</li>
+  <li>Wybrać konto pocztowe i dla niego Zabezpieczenia.</li>
 </ol>
 
 <div class="contentsBox">W tym rozdziale:
@@ -2724,156 +2675,88 @@ usługę, np ldap.infospace.com.</li>
 
 <h3 id="about_certificates">Certyfikaty</h3>
 
-<p>The main purpose of the Security panel in Mail &amp; Newsgroup Account
-  Settings is to select two certificates:</p>
+<p>Głównym zadaniem panelu zabezpieczeń jest umożliwienie użytkownikowi wskazania do używania dwóch certyfikatów:</p>
 
 <ul>
-  <li>The email certificate you want to use for signing mail messages you send
-    to other people.</li>
-  <li>The email certificate you want other people to use when they encrypt
-    messages they send to you.</li>
+  <li>Certyfikatu, który ma być używany do podpisywania wysyłanych wiadomości pocztowych.</li>
+  <li>Certyfikatu, który ma być używany do szyfrowania wiadomości które mają być wysyłane do nas przez innych nadawców.</li>
 </ul>
 
-<p>Depending on the policies of the
-  <a href="glossary.xhtml#certificate_authority">certificate authority (CA)</a>
-  that issues your certificate(s), you can use one certificate for both
-  purposes or two different certificates. Even if you use just one, you must
-  specify it twice, once for digital signing and once for encryption.</p>
+<p>Zależnie od zasad <a href="glossary.xhtml#certificate_authority">organu certyfikacji</a> który opublikował certyfikat(y) możliwe jest użycie jednego certyfikatu do obu powyższych celów lub dwóch odrębnych certyfikatów. Jednak nawet jeżeli używany ma być tylko jeden certyfikat, to i tak musi być wskazany dwa razy. Do podpisywania i szyfrowania osobno.</p>
 
-<p>The certificates you select here are included with every signed message you
-  send. These certificates allow your recipients to verify your digital
-  signature and to encrypt messages that they send to you.</p>
+<p>Wskazane certyfikaty są dołączane do każdej wysłanej wiadomości. Umożliwiają one adresatom sprawdzenie podpisu cyfrowego nadawcy i zaszyfrowanie wysyłanych przez Nich do Użytkownika wiadomości.</p>
 
 <h3 id="digital_signing">Podpis cyfrowy</h3>
 
-<p>You use the Digital Signing area in the <a href="#security">Security
-  panel</a> to specify how you want to sign your email messages:</p>
+<p>Sekcja Podpis cyfrowy w <a href="#security">panelu Zabezpieczenia wiadomości</a> umożliwia określenie w jaki sposób mają być podpisywane wychodzące wiadomości pocztowe:</p>
 
 <ul>
-  <li><strong>Use this certificate to digitally sign messages you
-    send</strong>: If this field is empty or if it displays the wrong
-    certificate, click Select to choose from the certificates you have on
-    file.</li>
-  <li><strong>Digitally sign messages</strong>: Select this checkbox if you
-    want to digitally sign all the messages you send. (A personal certificate
-    must be specified below before you can select this checkbox.)</li>
+  <li><strong>Certyfikat, który będzie używany do cyfrowego podpisywania wysyłanych wiadomości</strong>: Jeżeli to pole jest puste lub wskazuje na błędny certyfikat należy nacisnąć przycisk Wybierz i wybrać odpowiedni plik certyfikatu.</li>
+  <li><strong>Podpisuj cyfrowo wiadomości (domyślnie)</strong>: Zaznaczenie tej opcji powoduje podpisywanie cyfrowo wszystkich wysyłanych wiadomości. Certyfikat osobistego podpisu cyfrowego musi zostać określony wcześniej, by było możliwe wybranie tej opcji.</li>
 </ul>
 
-<p>Regardless of whether the <q>Digitally sign messages</q> checkbox is
-  selected here, you can change your mind before you send an individual
-  message.</p>
+<p>Bez względu na to, czy opcja <strong>Podpisuj cyfrowo wiadomości (domyślnie)</strong> jest wybrana czy nie, przed wysłaniem każdej pojedynczej wiadomości można zdecydować, czy ma ona być podpisana cyfrowo.</p>
 
-<p>To change the digital signature setting for a message you are writing in
-  the Compose window, click the arrow below the Security icon near the top of
-  the window and select or deselect <q>Digital Sign This Message</q>. For
-  details, see
-  <a href="mail_sec_help.xhtml#signing_and_encrypting_a_new_message">Signing
-  &amp; Encrypting a New Message.</a></p>
+<p>Aby zmienić ustawienia podpisu cyfrowego dla tworzonej wiadomości, w oknie komponowania tej wiadomości należy kliknąć na strzałce przy przycisku Zabezpieczenia na pasku narzędzi i odznaczyć opcję <q>Podpisz cyfrowo tę wiadomość</q>. Więcej informacji w rozdziale <a href="mail_sec_help.xhtml#signing_and_encrypting_a_new_message">Podpisywanie i szyfrowanie nowej wiadomości</a>.</p>
 
 <h3 id="encryption">Szyfrowanie</h3>
 
-<p>You use the Encryption area in the <a href="#security">Security panel</a> to
-  specify how you routinely want to use encryption when sending your
-  messages:</p>
+<p>Sekcja Szyfrowanie wiadomości w <a href="#security">panelu Zabezpieczenia wiadomości</a> umożliwia określenie w jaki sposób domyślnie ma być używane szyfrowanie wiadomości wysyłanych przez użytkownika:</p>
 
 <ul>
-  <li><strong>Use this certificate to encrypt &amp; decrypt messages sent to
-    you</strong>: If this field is empty or if it displays the wrong
-    certificate, click Select to choose from the certificates you have on
-    file.</li>
-  <li><strong>Never</strong>: Select this option if you never want to use
-    encryption, or only occasionally.</li>
-  <li><strong>Required</strong>: Select this option if you always want to use
-    encryption. If you don&apos;t have all the necessary certificates, the
-    message won&apos;t be sent unless you explicitly turn off encryption for
-    that message only.</li>
+  <li><strong>Certyfikat, który będzie używany do szyfrowania i deszyfrowania otrzymanych wiadomości</strong>: Jeżeli to pole jest puste lub wskazuje na błędny certyfikat należy nacisnąć przycisk Wybierz i wybrać odpowiedni plik certyfikatu.</li>
+  <li><strong>Nigdy (nie używaj szyfrowania)</strong>: Należy zaznaczyć tę opcję jeżeli użytkownik nie chce szyfrować wiadomości lub będzie to robione okazjonalnie.</li>
+  <li><strong>Wymagaj (nie można wysłać wiadomości jeśli nie wszyscy adresaci mają certyfikat)</strong>: Należy zaznaczyć tę opcję jeżeli wszystkie wiadomości wysyłane mają być szyfrowane. Jeżeli użytkownik nie posiada certyfikatów wszystkich adresatów, to nie będzie możliwe wysłanie tej wiadomości aż do momentu wyłączenia szyfrowania dla tej wiadomości.</li>
 </ul>
 
-<p>Regardless of which encryption option you select, you can change your mind
-  before you send an individual message.</p>
+<p>Bez względu na to która opcja szyfrowania zostanie wybrana, przed wysłaniem pojedynczej wiadomości można zmienić ustawienie jej szyfrowania.</p>
 
-<p>To change the encryption setting for a message you are writing in the
-  Compose window, click the arrow below the Security icon near the top of the
-  window and choose the encryption setting you want. For details, see
-  <a href="mail_sec_help.xhtml#signing_and_encrypting_a_new_message">Signing
-  &amp; Encrypting a New Message.</a></p>
+<p>Aby zmienić ustawienia szyfrowania dla tworzonej wiadomości, w oknie komponowania tej wiadomości należy kliknąć na strzałce przy przycisku Zabezpieczenia na pasku narzędzi poczty i wybrać pożądaną opcję szyfrowania. Więcej informacji w rozdziale <a href="mail_sec_help.xhtml#signing_and_encrypting_a_new_message">Podpisywanie i szyfrowanie nowej wiadomości</a>.</p>
 
 <p>[<a href="#mail_and_newsgroups_account_settings">Na początek rozdziału</a>]</p>
 
-<h2 id="local_folders">Foldery lokalne</h2>
+<h2 id="local_folders">Lokalne foldery</h2>
 
-<p>Local Folders is the account where &brandShortName; Mail &amp; Newsgroups
-  saves any messages that you send while working offline. Messages you send
-  while working offline are saved in the Unsent Messages folder under Local
-  Folders. Any folders you create under the Local Folders account reside on
-  your hard disk, so Local Folders is a good place to save messages that you
-  want to keep.</p>
+<p>Foldery lokalne są kontem, w którym Kurier Poczty &brandShortName; zapisuje wszystkie wiadomości wysłane w trakcie pracy w trybie offline. Wiadomości te zapisywane są w folderze Wychodzące. Zawartość każdego folder utworzony w Lokalnych folderach jest przechowywana na lokalnym dysku komputera użytkownika, więc Lokalne foldery są dobrym miejscem do zapisywania wiadomości, które użytkownik chce zachować.</p>
 
-<p>If you are not already viewing the Local Folders settings, begin from the
-  Mail window:</p>
+<p>Jeżeli ustawienia Lokalnych folderów nie są widoczne, należy w oknie Kuriera Poczty:</p>
 
 <ol>
   <li>Z menu Edycja wybrać Konfiguracja kont. Wyświetlone zostanie okno dialogowe Konfiguracja kont.</li>
-  <li>Select the Local Folders category.</li>
+  <li>Wybrać Lokalne foldery.</li>
 </ol>
 
 <ul>
-  <li><strong>Account Name</strong>: The name associated with the Local Folders
-    account.</li>
-  <li><strong>Local directory</strong>: The location on your hard disk where
-    mail for this account is stored.</li>
+  <li><strong>Nazwa konta</strong>: Nazwa określająca konto Lokalne foldery.</li>
+  <li><strong>Przy wyjściu z programu opróżniaj Kosz</strong>: Zaznaczenie tej opcji powoduje automatyczne opróżnienie kosza tego konta przy kończeniu pracy &brandShortName;.</li>
+  <li><strong>Katalog na lokalnym komputerze</strong>: Miejsce na dysku w którym przechowywana jest zawartość tego konta.</li>
 </ul>
 
 <p>[<a href="#mail_and_newsgroups_account_settings">Na początek rozdziału</a>]</p>
 
 <h2 id="outgoing_server">Serwer poczty wychodzącej (SMTP)</h2>
 
-<p>The outgoing server will transport your outgoing mail to the intended
-  recipients.</p>
+<p>Serwer poczty wychodzącej przesyła wiadomości wychodzące do odpowiednich adresatów.</p>
 
-<p>If you are not already viewing the Outgoing Server (SMTP) settings, begin
-  from the Mail window:</p>
+<p>Jeżeli ustawienia serwera poczty wychodzącej (SMTP) nie są jeszcze widoczne, należy w oknie Kuriera Poczty:</p>
 
 <ol>
-  <li>Click on any Mail window.</li>
-  <li>From the Edit menu, choose Mail &amp; Newsgroup Account Settings.</li>
-  <li>Select Outgoing Server (SMTP) and either edit an existing server or
-      add a new one. If you are not sure which option to choose, check with
-      your ISP or system administrator)<br/>
-      You can choose from these servers via the Outgoing Server dropdown in
-      the <a href="#account_settings">Identity Settings</a>.</li>
+  <li>Otworzyć dowolne okno Kuriera Poczty.</li>
+  <li>Z menu Edycja wybrać Konfiguracja kont.</li>
+  <li>Wybrać Serwer poczty wychodzącej (SMTP) i zmodyfikować ustawienia istniejącego serwera lub dodać nowy. Jeżeli użytkownik nie jest pewien jaką opcję ma wybrać, to należy skontaktować się z administratorem sieci lub dostawcą usług internetowych (ISP).<br/>Można wybierać zdefiniowane tu serwery na rozwijanej liście w <a href="#account_settings">Konfiguracji kont</a>.</li>
 </ol>
 
 <ul>
-  <li><strong>Description</strong>: A short freetext description of that server
-    configuration. This will show up as first part in the server list.</li>
-  <li><strong>Server name</strong>: The SMTP server that will deliver your
-    outgoing mail. To use a different SMTP server, change this field.</li>
-  <li><strong>Port</strong>: The port on which the SMTP server will be
-    connected. By default it holds the standard port for the specified
-    encryption. Change it if the mail server is listening for connections
-    on a non-standard port.</li>
-  <li><strong>Use name and password</strong>: If your SMTP server requires
-    authentication to send mail, select this option and enter your user name.
-    The first time you send mail, you will be prompted for your password. At
-    that time you can instruct &brandShortName; to save your password for
-    future sessions.</li>
-  <li><strong>Use secure authentication</strong>: Choose this setting if you
-    want to use secure mechanisms for logging in like CRAM-MD5. If you are
-    unsure if your service supports this, contact your service provider or
-    system administrator.</li>
-  <li><strong>Use secure connection</strong>: There are two methods for
-    establishing a secure connection to your outgoing server. Pick the one your
-    server supports (if you make a choice for which your server is not configured,
-    you will get an error message when sending mail).
+  <li><strong>Opis</strong>: Krótki tekst opisujący konfigurację serwera. Zostanie wyświetlony jako pierwszy w wierszu na liście serwerów.</li>
+  <li><strong>Nazwa serwera</strong>: Serwer SMTP który będzie dostarczał pocztę wysyłaną przez użytkownika. Aby używać innego serwera, należy zmienić treść wpisaną w tym polu.</li>
+  <li><strong>Port</strong>: Port na którym będzie następowało połączenie do serwera SMTP. Domyślnie wpisywany jest domyślny port dla wybranego typu szyfrowania połączenia. Należy go zmienić jeżeli serwer nasłuchuje połączeń na niestandardowym porcie.</li>
+  <li><strong>Używaj identyfikatora użytkownika oraz hasła</strong>: Jeżeli serwer SMTP wymaga uwierzytelniania do wysyłania poczty, to należy wybrać tę opcję i wpisać nazwę użytkownika na serwerze. Przy pierwszym połączeniu z serwerem &brandShortName; wyświetli prośbę o podanie hasła. Można wtedy również włączyć opcję która spowoduje, że hasło zostanie zapamiętane przez &brandShortName;.</li>
+  <li><strong>Używaj bezpiecznego uwierzytelniania</strong>: Należy wybrać tę opcję, jeżeli użytkownik chce używać bezpiecznych mechanizmów uwierzytelniania na serwerze, takich jak CRAM-MD5. Jeżeli użytkownik nie jest pewien ustawień w tym oknie dialogowym należy skontaktować się z dostawcą usług internetowych lub administratorem sieci.</li>
+  <li><strong>Bezpieczeństwo połączenia</strong>: Są dwie metody ustanawiania szyfrowanego połączenia z serwerem poczty wychodzącej. Należy wybrać odpowienią. Jeżeli serwer jej nie obsługuje, to wyświetlony zostanie komunikat o błędzie w trakcie wysyłania wiadomości.
     <ul>
-      <li><strong>STARTTLS, if available</strong>: &brandShortName; will try to
-        negotiate encryption using the STARTTLS method. If the server doesn&apos;t
-        support it, an unencrypted connection is used.</li>
-      <li><strong>STARTTLS</strong>: Require an encrypted connection, use the STARTTLS
-        method. This mechanism will mostly run on the standard SMTP port 25.</li>
-      <li><strong>SSL/TLS</strong>: Require an encrypted connection, use the
-        SMTP-over-SSL (also known as SMTPS) method. The default port for this is 465.
+      <li><strong>Bez szyfrowania</strong>: &brandShortName; będzie łączyła się z serwerem poczty bez szyfrowania.</li>
+      <li><strong>STARTTLS</strong>: Wymagane jest szyfrowane połączenie z użyciem mechanizmu STARTTLS. Najczęściej wykorzystywany jest standardowy port 25.</li>
+      <li><strong>SSL/TLS</strong>: Wymagane jest szyfrowane połączenie z serwerem, używany jest mechanizm SMTP-over-SSL, zwany również SMTPS. Domyślny port dla takiej usługi to 465.
      </li>
     </ul>
   </li>
@@ -2883,9 +2766,7 @@ usługę, np ldap.infospace.com.</li>
 
 <h1 id="mail_and_newsgroup_preferences">Preferencje Kuriera Poczty</h1>
 
-<p>The sections listed below describe the Mail &amp; Newsgroups preferences
-  that apply to all your mail and newsgroup accounts. To see these
-  preferences:</p>
+<p>Poniższy rozdział opisuje preferencje Kuriera Poczty, które dotyczą wszystkich kont pocztowych i grup dyskusyjnych. Aby wyświetlić te preferencje należy:</p>
 
 <ol>
   <li>Z&nbsp;menu <span class="noMac">Edycja</span> <span class="mac">&brandShortName;</span> wybrać Preferencje.</li>
@@ -2910,9 +2791,7 @@ usługę, np ldap.infospace.com.</li>
 
 <h2 id="mail_and_newsgroups">Preferencje Kuriera Poczty</h2>
 
-<p>This section describes the main Mail &amp; Newsgroups preferences. If you
-  are not already viewing the Mail &amp; Newsgroups main preferences, follow
-  these steps:</p>
+<p>Ten rodział opisuje główne preferencje Kuriera Poczty. Jeżeli nie są jeszcze widoczne, należy wykonać następujące kroki:</p>
 
 <ol>
   <li>Z&nbsp;menu <span class="noMac">Edycja</span> <span class="mac">&brandShortName;</span> wybrać Preferencje.</li>
@@ -2920,43 +2799,19 @@ usługę, np ldap.infospace.com.</li>
 </ol>
 
 <ul>
-  <li><strong>Confirm when moving folders to the Trash</strong>: Choose to
-    allow Mail &amp; Newsgroups to prompt you before deleting folders.</li>
-  <li class="win"><strong>Use &brandShortName; Mail as the default mail
-    application</strong>: Select &brandShortName; Mail &amp; Newsgroups as the
-    default mail application for Windows and from within other applications
-    such as Microsoft Word.
-
-    <p><strong>Uwaga</strong>: Setting &brandShortName; Mail &amp; Newsgroups as
-      the default mail application may disable another mail application. To
-      restore the other mail application as the default, deselect this
-      option.</p>
-  </li>
-  <li><strong>Remember the last selected message</strong>: Choose this option
-    if you want &brandShortName; to select the message you had selected last
-    before leaving a folder when you reenter a folder.</li>
-  <li><strong>Preserve threading when sorting messages</strong>: Select this
-    option if you want &brandShortName; to preserve the threaded message
-    grouping <a href="#sorting_and_threading_messages">when sorting
-    messages</a>. If it is not selected, &brandShortName; automatically
-    displays the messages unthreaded when you sort them by clicking on the
-    column headers.</li>
-  <li><strong>When Mail launches, show the Start Page in the message
-    area</strong>: Select this to enable the Start Page. The Start Page
-    appears in the message area when you first open &brandShortName; Mail &amp;
-    Newsgroups. This page is the default page, but you can enter a different
-    web page or URL of your choice. To disable the Start Page, deselect this
-    option. Click Restore Default to return to the original page provided by
-    &brandShortName;.</li>
+  <li><strong>Wymagaj potwierdzenia przy usuwaniu folderów do kosza</strong>: Należy wybrać tę opcję, jeżeli użytkownik chce każdorazowo potwierdzać usuwanie folderów wiadomości.</li>
+  <li class="win"><strong>Używaj &brandShortName; jako domyślnego programu dla: Poczty, Grup dyskusyjnych, Kanałów informacyjnych</strong>: Naciśnięcie odpowiedniego klawisza powoduje, że Kurier Poczty &brandShortName; będzie domyślną aplikacją do obsługi, odpowiednio poczty, grup dyskusyjnych lub kanałów informacyjnych (RSS, Atom) w systemie Windows i dla innych programów takich jak Microsoft Word.</li>
+  <li><strong>Zapamiętaj ostatnio wybraną wiadomość</strong>: Należy wybrać tę opcję, jeżeli użytkownik chce, aby przy następnym otwarciu danego folderu wyświetlona została wiadomość, która była wyświetlana jako ostatnia przed opuszczeniem tego folderu.</li>
+  <li><strong>Zachowuj wątki podczas sortowania</strong>: Należy wybrać tę opcję, jeżeli użytkownik chce żeby &brandShortName; zachowywała grupowanie wiadomości w wątki <a href="#sorting_and_threading_messages">podczas sortowania wiadomości</a>. Jeżeli ta opcja nie jest zaznaczona, to &brandShortName; będzie wyświetlała wiadomości bez zachowania grupowania po posortowaniu ich przez kliknięcie na nagłówku wybranej kolumny.</li>
+  <li><strong>Sprawdzaj pocztę dopiero po uruchomieniu Kuriera Poczty</strong>: Należy wybrać tę opcję, jeżeli użytkownich chce aby konta pocztowe były sprawdzane na obecność nowych wiadomości dopiero po uruchomieniu Kuriera Poczty, a nie dowolnego innego składnika pakietu &brandShortName;.</li>
+  <li><strong>Po uruchomieniu Kuriera Poczty wyświetl poniższą stronę startową w oknie wiadomości</strong>: Należy zaznaczyć tę opcję, jeżeli użytkownik chce, aby strona startowa była wyświetlana przy pierwszym uruchomieniu Kuriera Poczty. Adres domyślnej strony jest wstawiany automatycznie, ale użytkownik może wstawić adres dowolnej strony. Naciśnięcie przycisku Przywróć domyślną przywróci adres domyślnej strony &brandShortName;.</li>
 </ul>
 
 <p>[<a href="#mail_and_newsgroup_preferences">Na początek rozdziału</a>]</p>
 
 <h2 id="message_display">Wiadomości</h2>
 
-<p>Message Display preferences allow you to choose how messages are
-  displayed (for example, font style and color) in all accounts. If you are not
-  already viewing the Message Display settings, follow these steps:</p>
+<p>Preferencje wyświetlania wiadomości pozwalają wybrać sposób w jaki wiadomości te są wyświetlane (np. kolor, czcionka) dla wszystkich kont. Jeżeli ustawienia te są jeszcze niewidoczne, należy wykonać następujące kroki:</p>
 
 <ol>
   <li>Z&nbsp;menu <span class="noMac">Edycja</span> <span class="mac">&brandShortName;</span> wybrać Preferencje.</li>
@@ -2964,38 +2819,18 @@ usługę, np ldap.infospace.com.</li>
 </ol>
 
 <ul>
-  <li><strong>When opening messages, display them in</strong>: Here you can
-    choose if you want to reuse a message window for the next mail or if you
-    want to open a new one for each.</li>
-  <li><strong>Block images and other content from remote sources</strong>:
-    Select this checkbox if you do not want to display remote images and other
-    content in received messages, except from senders in your address books
-    whom you have allowed. (This checkbox is selected by default.)</li>
-  <li><strong>Wait [__] seconds before marking a message as read</strong>:
-    Choose this option if you do not want a message to be marked as read when
-    you are only taking a brief look at it. Enter the number of seconds you
-    want a message to be displayed before it gets marked as read automatically.
-
-    <p><strong>Wskazówka</strong>: If you do not want Mail &amp; Newsgroups to mark
-      your messages as read automatically at all, you can select this option
-      and enter a very large number of seconds.</p>
-  </li>
-  <li><strong>Plain Text Messages</strong>: Select the font you prefer for
-    viewing plain-text messages: fixed width or variable width. Choosing a font
-    style, size, and color for quoted plain-text messages can help you more
-    easily distinguish quoted text (usually a message that&apos;s been
-    forwarded to you or by you).
+  <li><strong>Otwierając wiadomości wyświetl je w:</strong>: Użytkownik może wybrać gdzie mają być wyświetlane otwierane wiadomości, w istniejacym czy w nowym oknie oraz co ma się dziać z oknem komponowanej wiadomości po jej usunięciu.</li>
+  <li><strong>Blokuj obrazki i inną treść ze zdalnych serwerów</strong>: Należy wybrać tę opcję, jeżeli użytkownik nie chce wyświetlać w treści wiadomości obrazków i innych elementów, które mają zostać pobrane ze zdalnych serwerów, z wyjątkiem nadawców, których adresy znajdują się w książce adresowej użytkownika i opcja pobierania zdalnej treści dla danego adresu jest aktywna. Opcja blokowania jest domyślnie włączona.</li>
+  <li><strong>Pokazuj tylko nazwy kontaktów dla nadawców z mojej książki adresowej</strong>: Należy wybrać tę opcję, jeżeli użytkownik chce, aby w wiadomościach wyświetlane były tylko nazwy użytkowników zdefiniowanych dla tych adresów w książce adresowej użytkownika.</li>
+  <li><strong>Automatycznie oznaczaj wiadomości jako przeczytane</strong>: Użytkownik może wybrać po jakim czasie wiadomości mają być automatycznie oznaczane jako przeczytane: natychmiast lub po określonym w sekundach czasie.</li>
+  <li><strong>Wiadomości tekstowe</strong>: Użytkownik ma możliwość wyboru czcionki jaką mają być wyświetlane wiadomości: o stałej lub zmiennej szerokości.
     <ul>
-      <li><strong>Wrap text to fit window width</strong>: Select this so that
-        incoming messages are word-wrapped to fit the width of your Mail
-        window.</li>
-      <li><strong>Display emoticons as graphics</strong>: Select this so that
-        when you receive messages that contain emoticons (also called smiley
-        faces) Mail &amp; Newsgroups can convert them to graphics, for example:
+      <li><strong>Zawijaj tekst, aby zmieścił się w oknie</strong>: Należy wybrać tę opcję, jeżeli użytkownik chce, aby treści przychodzących wiadomości były zawijane w oknie Kuriera Poczty.</li>
+      <li><strong>Wyświetlaj emotikonki</strong>: Należy wybrać tę opcję, jeżeli użytkownik chce, aby w treści przychodzących wiadomości emotikonki były wyświetlane przez Kuriera Poczty jako obrazki. Przykładowo:
         <table border="1">
           <tr align="center">
-            <td><strong>This</strong>:</td>
-            <td><strong>Converts to</strong>:</td>
+            <td><strong>To</strong>:</td>
+            <td><strong>Konwertuje do</strong>:</td>
           </tr>
           <tr align="center">
             <td>:-)</td>
@@ -3025,15 +2860,14 @@ usługę, np ldap.infospace.com.</li>
       </li>
     </ul>
   </li>
+  <li><strong>Ustawienia cytowanych wiadomości</strong>: Wybór stylu, rozmiaru i koloru czcionki jaką mają być wyświetlane cytowane fragmenty wiadomości (przy odpowiadaniu lub przesyłaniu dalej) pozwala na wygodniejsze postrzeganie takiej treści.</li>
 </ul>
 
 <p>[<a href="#mail_and_newsgroup_preferences">Na początek rozdziału</a>]</p>
 
 <h2 id="notifications">Powiadomienia</h2>
 
-<p>Notification preferences allow you to select different methods for informing
-  you on arrival of a new message. So you don&apos;t have to always look in the
-  folders.</p>
+<p>Preferencje powiadomień pozwalają wybrać sposób powiadamiania o odebraniu nowej wiadomości. Nie będzie więc konieczności sprawdzania zawartości folderów z odebraną pocztą.</p>
 
 <ol>
   <li>Z&nbsp;menu <span class="noMac">Edycja</span> <span class="mac">&brandShortName;</span> wybrać Preferencje.</li>
@@ -3041,65 +2875,37 @@ usługę, np ldap.infospace.com.</li>
 </ol>
 
 <ul>
-  <li class="win"><strong>Show an alert</strong>: Select this if you want 
-    &brandShortName; Mail &amp; Newsgroups to display a sliding alert above 
-    your system tray in the lower right corner of your screen when new 
-    messages arrive. The sliding alert only appears once when new messages
-    arrive, and won&apos;t appear again until you bring the Mail &amp;
-    Newsgroups window to the front.
+  <li><strong>Wyświetl informację</strong>: Należy wybrać tę opcję, aby Kurier Poczty &brandShortName; wyświetlał wysuwające się w dolnym lewym rogu ekranu powiadomienie o odebraniu nowej poczty. Powiadomienie pojawia się tylko jeden raz i nie pojawi się ponownie aż do przywrócenia okna Kuriera Poczty na pierwszy plan.
     <table>
       <tr>
         <td colspan="2"><img src="images/mail_newmail_alert.png" alt=""/></td>
       </tr>
       <tr>
         <td style="width: 20px;"></td>
-        <td><strong>Sliding new mail alert</strong></td>
+        <td><strong>Wysuwające się powiadomienie o nowej poczcie</strong></td>
       </tr>
     </table>
 
-    <p>When the alert appears, clicking the link displayed in the alert will
-      take you to the first folder that has new mail.
-    </p>
+    <p>Po pojawieniu się powiadomienia kliknięcie na odnośniku w nim powoduje wyświetlenie okna Kuriera Poczty z zawartością pierwszego folderu zawierającego nową wiadomość.</p>
 
-    <p>The new message alert will continue to work even after you close the
-      Mail window (as long as another &brandShortName; application is running).
+    <p>Powiadamiacz będzie wyświetlany nawet po zamknięciu okna Kuriera Poczty (tak długo jak będzie działać &brandShortName;).
     </p>
   </li>
 
-  <li class="win"><strong>Show a tray icon</strong>: Select this if you want
-    &brandShortName; Mail &amp; Newsgroups to display an icon in your system
-    tray (which is usually found in the lower right corner of your screen) when
-    new messages arrive. This icon will stay in the system tray until you have
-    visited one of your folders with new mail or checked for new messages
-    manually.
+  <li class="win"><strong>Wyświetl ikonę w pasku systemowym</strong>: Należy wybrać tę opcję, jeżeli użytkownik chce, aby Kurier Poczty &brandShortName; wyświetlał w pasku systemowym (najczęściej w dolnym lewym rogu ekranu) ikonę po odebraniu nowej wiadomości. Ikona będzie wyświetlana dopóki użytkownik nie otworzy jednego z folderów zawierającego nowe wiadomości lub wybierze ręczne sprawdzanie nowych wiadomości.
     <p style="text-indent: 20px"><img src="images/mail_newmail_trayicon.png"
-      alt=""/>&nbsp;&nbsp;<strong>New mail tray icon</strong></p>
-    <p>When the icon appears, double-clicking it will open the &brandShortName;
-      Mail &amp; Newsgroups main window.</p>
+      alt=""/>&nbsp;&nbsp;<strong>Ikona nowej wiadomości w pasku systemowym</strong></p>
+    <p>Po pojawieniu się ikony podwójne kliknięcie na niej otwiera główne okno Kuriera Poczty &brandShortName;.</p>
   </li>
 
-  <li class="mac"><strong>Animate the Dock icon</strong>: Select this if you
-    want Mail &amp; Newsgroups to bounce the &brandShortName; Dock icon when
-    new messages arrive.</li>
-  <li><strong>Play a sound</strong>: Select this if you want &brandShortName; 
-    Mail &amp; Newsgroups to play a sound when new messages arrive. You can
-    choose between the default system sound and a custom sound in WAV format.
-    If you choose the latter, use the Browse button to select the sound file in
-    the file locator. Click on the Preview button to listen to the chosen sound
-    file.
+  <li class="mac"><strong>Animowana ikona w Doku</strong>: Należy wybrać tę opcję, jeżeli użytkownik chce aby Kurier Poczty spowodował podskakiwanie ikony &brandShortName; w doku po odebraniu nowej wiadomości.</li>
+  <li><strong>Odtwórz dźwięk</strong>: Należy wybrać tę opcję jeżeli użytkownik chce, aby Kurier Poczty &brandShortName; odtwarzał dźwięk po odebraniu nowej wiadomości. Możliwy jest wybor pomiędzy domyślnym dźwiękiem systemu operacyjnego i wskazanym przez użytkownika w pliku w formacie WAV. Plik dźwiękowy użytkownika wskazuje się w oknie dialogowym otwieranym po naciśnięciu przycisku Przeglądaj. Naciśnięcie przycisku Odtwórz pozwala odsłuchać wskazany plik.
 
-    <p>Once &brandShortName; Mail has been started, the new messages sound will
-      continue to work even after you close the Mail window (as long as another
-      &brandShortName; application is running).</p>
+    <p>Po uruchomieniu Kuriera Poczty &brandShortName; dźwięk powiadomienia o nowej wiadomości będzie odtwarzany nawet po zamknięciu okna Kuriera Poczty (tak długo jak długo otwarty będzie dowolny program z pakietu &brandShortName;).</p>
 
-    <p class="win">If no &brandShortName; applications are running, Quick
-      Launch must be enabled in order to play a sound when new messages
-      arrive.</p>
+    <p class="win">Jeżeli nie jest uruchomiony żaden program z pakietu &brandShortName;, to aby odtwarzany był dźwięk powiadomienia uruchomiony musi być moduł szybkiego startu.</p>
 
-    <p class="win">If any &brandShortName; application is running, then Quick
-      Launch does not need to be enabled in order to play a sound when new
-      messages arrive. For information on using Quick Launch, see
-      <a href="nav_help.xhtml#using_quick_launch">Using Quick Launch</a>.</p>
+    <p class="win">Jeżeli dowolny z programów pakietu &brandShortName; jest uruchomiony, to moduł szybkiego startu nie musi być uruchomiony, aby odtwarzany był dźwięk powiadomienia po odebraniu nowej wiadomości. Więcej informacji o używaniu modułu szybkiego startu w rozdziale <a href="nav_help.xhtml#using_quick_launch">Using Quick Launch</a>.</p>
   </li>
 </ul>
 
@@ -3107,9 +2913,7 @@ usługę, np ldap.infospace.com.</li>
 
 <h2 id="composition">Komponowanie</h2>
 
-<p>Composition preferences affect how you create messages (for example,
-  forwarding options and address autocompletion) in all accounts. If you are
-  not already viewing the Composition settings, follow these steps:</p>
+<p>Preferencje komponowania mają wpływ na sposób tworzenia wiadomości (na przykład na opcje przesyłania dalej i automatycznego uzupełniania adresu) dla wszystkich kont. Jeżeli preferencje komponowania nie są jeszcze widoczne, należy:</p>
 
 <ol>
   <li>Z&nbsp;menu <span class="noMac">Edycja</span> <span class="mac">&brandShortName;</span> wybrać Preferencje.</li>
@@ -3117,45 +2921,22 @@ usługę, np ldap.infospace.com.</li>
 </ol>
 
 <ul>
-  <li><strong>Forward Messages</strong>: Choose how you want forwarded
-    message text to appear: as an attachment or inline (in the body of your
-    message).</li>
-  <li><strong>Quote attachments viewed inline in replies</strong>: If this
-    option is checked, then attachments (such as images, text, or messages)
-    viewed inline are included in the quote when replying to an email.</li>
-  <li><strong>Automatically save the message every [__] minutes</strong>:
-    Choose this option if you want Mail &amp; Newsgroups to save the message
-    you are currently composing automatically at the given interval. After a
-    computer crash or program failure you can find the latest saved version of
-    the message in your Drafts folder.</li>
-  <li><strong>Confirm when using keyboard shortcut to send message</strong>:
-    Check this option if want to be asked if you&apos;re sure to be ready to
-    send the message when you&apos;re pressing Ctrl+Return in message editor.
-    This may help you avoid accidentally sending the message if you enter the
-    keyboard shortcut by mistake when composing a message.</li>
-  <li><strong>Wrap plain text messages at [__] characters</strong>: Enter a
-    number to set the right margin for text in the message area.</li>
-  <li><strong>Check spelling before sending</strong>: Select this option to
-    have Mail &amp; Newsgroups always check the spelling of your message before
-    you send it.</li>
-  <li><strong>Check spelling as you type</strong>: Select this option to have
-    Mail &amp; Newsgroups always check the spelling of your message as you type
-    it.</li>
-  <li><strong>Language</strong>: Use the drop-down list to select the language
-    you want to use to check the spelling in your messages or to download more
-    dictionaries.</li>
-  <li><strong>Defaults for HTML Messages</strong>: Here you can define what the
-    defaults are for font, size, text and background color if you choose to
-    send mails in HTML format.</li>
+  <li><strong>Przekaż wiadomości</strong>: Należy wybrać sposób przekazywania wiadomości: bezpośrednio w treści wiadomości czy jako załącznik.</li>
+  <li><strong>Podczas komponowania odpowiedzi cytuj załączniki pokazane w treści wiadomości</strong>: Jeżeli ta opcja jest wybrana, to wtedy załączniki do wiadomości (takiej jak obrazki, teksty dokumentów, inne wiadomości) widoczne w treści wiadomości są dołączane do cytowanego tekstu w trakcie komponowania odpowiedzi na taką wiadomość.</li>
+  <li><strong>Automatycznie zapisuj wiadomość co [__] minut</strong>: Jeżeli ta opcja jest wybrana to co określony czas Kurier Poczty będzie zapisywał aktualnie tworzoną wiadomość. Po błędzie programu lub systemu operacyjnego będzie można odnaleźć ostatnią zapisaną wersję wiadomości w katalogu Szkice.</li>
+  <li><strong>Wymagaj potwierdzenia, gdy do wysłania wiadomości użyty został skrót klawiaturowy</strong>: Jeżeli ta opcja jest wybrana, to użytkownik będzie pytany o potwierdzenie wysłania aktualnie komponowanej wiadomości po naciśnięciu klawiszy Ctrl+<span class="mac">Return</span><span class="nomac">Enter</span>. Uniemożliwia to przypadkowe wysłanie wiadomości po naciśnięciu klawiszy skrótu.</li>
+  <li><strong>Zawijaj linie wiadomości zawierające zwykły tekst o długości powyżej [__] znaków</strong>: Należy podać wartość odpowiadającą prawemu marginesowi w obszarze treści wiadomości. Domyślnie są to 72 znaki.</li>
+  <li><strong>Sprawdź pisownię przed wysłaniem</strong>: Jeżeli ta opcja jest wybrana, to Kurier Poczty będzie sprawdzał pisownię w treści wiadomości przed jej wysłaniem.</li>
+  <li><strong>Sprawdzaj pisownię w trakcie tworzenia wiadomości</strong>: Jeżeli ta opcja jest zaznaczona to Kurier Poczty będzie sprawdzał pisownię w wiadomości w trakcie jej tworzenia.</li>
+  <li><strong>Słownik</strong>: Należy wybrać z rozwijanej listy język, dla którego ma być sprawdzana pisownia w trakcie tworzenia wiadomości lub wybrać opcję pobierania dodatkowych słowników.</li>
+  <li><strong>Domyślne ustawienia wiadomości HTML</strong>: W tym miejscu można ustawić domyślną czcionkę, jej rozmiar i kolory treści wiadomości w formacie HTML.</li>
 </ul>
 
 <p>[<a href="#mail_and_newsgroup_preferences">Na początek rozdziału</a>]</p>
 
 <h2 id="send_format">Formatowanie</h2>
 
-<p>Send Format preferences allow you to specify how you want to format your
-  outgoing messages. If you are not already viewing the Send Format settings,
-  follow these steps:</p>
+<p>Preferencje formatu wysyłania umożliwiają określenie sposobu w jaki mają być sformatowane wiadomości wysyłana przez użytkownika. Jeżeli preferencje formatu wysyłania nie są jeszcze widoczne, należy:</p>
 
 <ol>
   <li>Z&nbsp;menu <span class="noMac">Edycja</span> <span class="mac">&brandShortName;</span> wybrać Preferencje.</li>
@@ -3163,60 +2944,29 @@ usługę, np ldap.infospace.com.</li>
 </ol>
 
 <ul>
-  <li><strong>Ask me what to do</strong>: This option requires Mail &amp;
-    Newsgroups to prompt you to choose a format before you send the
-    message.</li>
-  <li><strong>Convert the message to plain text</strong>: This option may
-    cause your message to lose formatting such as bold text.</li>
-  <li><strong>Send the message in HTML anyway</strong>: If you select this
-    option, keep in mind that some mail programs may have trouble displaying
-    the message.</li>
-  <li><strong>Send the message in both plain text and HTML</strong>: This
-    option uses more disk space.
+  <li><strong>Zapytaj jakiego formatu użyć przy wysyłaniu wiadomości</strong>: Jeżeli ta opcja jest wybrana, to Kurier Poczty każdorazowo będzie pytał o format przed wysłaniem wiadomości utworzonej w formacie HTML.</li>
+  <li><strong>Przekształć wiadomość na format tekstowy</strong>: Wybór tej opcji spowoduje, że część formatowania, np. wytłuszczenie tekstu, zostanie utracona.</li>
+  <li><strong>Użyj formatu HTML</strong>: Wybór tej opcji spowoduje, że część programów pocztowych może nie być w stanie wyświetlić ich uzytkownikom treści takiej wiadomości.</li>
+  <li><strong>Prześlij wiadomość w obydwu formatach: HTML oraz tekstowym</strong>: Wybór tej opcji spowoduje zwiększenie rozmiaru wysyłanej wiadomości.
 
-    <p>You can always override these preferences for an individual message by
-      using the Options menu in the Mail Compose window.</p>
+    <p>Użytkownik może zawsze zmienić powyższe ustawienia dla indywidualnej wiadomości przy pomocy opcji Wyślij wiadomość jako w menu Opcje okna komponowania wiadomości.</p>
   </li>
-  <li><strong>HTML and Plain Text Domains</strong>: Use the Add button to add
-    the domain names that you typically send mail to, if you know which domains
-    can display HTML-formatted mail messages, and which domains can only
-    display plain text.</li>
+  <li><strong>Domeny dla formatu HTML i formatu tekstowego</strong>: Należy użyć przycisku Dodaj aby dodać nazwy domen, do których wiadomości mają być wysyłane w określonym formacie.</li>
 </ul>
 
-<p>For example, if you typically send mail to multiple recipients that have the
-  same domain name (for example, your colleagues all have email addresses that
-  end in <q>netscape.net</q>), and you know that this domain name is capable of
-  displaying HTML messages, then you can add the netscape.net domain to the
-  list of HTML Domains so that Mail &amp; Newsgroups will automatically send
-  messages in HTML format to these recipients.</p>
+<p>Przykładowo, jeżeli użytkownik często wysyła wiadomości do wielu użytkowników w jednej domenie, np. <q>mozilla.com</q>, o których wiadomo, że mogą oni odczytywać wiadomości w formacie HTML, to może dodać domenę mozilla.com do listy domen obsługujacych HTML. Do użytkowników tej domeny Kurier Poczty będzie automatycznie wysyłał wiadomości w takim formacie.</p>
 
-<p>Similarly, if you typically send mail to recipients at a domain that you
-  know can only receive Plain Text messages, you can add that domain name to
-  the list of Plain Text domains, so that Mail &amp; Newsgroups automatically
-  sends messages to that domain in plain-text format.</p>
+<p>Podobnie, jeżeli użytkownik często wysyła wiadomości do wielu użytkowników w jednej domenie, o których wiadomo, że mogą odczytywać tylko wiadomości tekstowe, to może dodać taką domenę do listy domen obsługujących tylko format tekstowy. Do użytkowników tej domeny Kurier Poczty będzie automatycznie wysyłał wiadomości tylko w formacie tekstowym.</p>
 
-<p><strong>Uwaga</strong>: If you regularly compose HTML (formatted) mail
-  messages, keep in mind that sometimes not all recipients use mail programs
-  that can display HTML formatting properly. Send Format preferences allow you
-  to specify how you want to format messages that go to recipients who cannot
-  display HTML-formatted mail. You can convert messages to plain text, format
-  them only as HTML, or format them as both HTML and plain text. These
-  preferences apply to all your mail accounts, but only to mail messages and
-  not to newsgroup messages.</p>
+<p><strong>Uwaga</strong>: Jeżeli użytkownik często tworzy wiadomości w formacie HTML, to powinien zdawać sobie sprawę z tego, że nie wszystkie programy pocztowe umożliwiają odczytywanie takich wiadomości w sposób poprawny. Preferencje formatu wysyłania umożliwiają określenie sposobu formatowania wiadomości do odbiorców używających takich programów. Czy mają być wysłane czystym tekste, w formacie HTML czy w obu formatach naraz. Te preferencje dotyczą wszystkich kont pocztowych, ale nie dotyczą kont grup dyskusyjnych.</p>
 
-<p>Whenever you add a person or address card to your address book, you can
-  specify whether that addressee can receive HTML-formatted messages. However,
-  when this information is unknown, you can set Send Format preferences for how
-  Mail &amp; Newsgroups formats these messages.</p>
+<p>Podczas dodawania adresu osoby do książki adresowej użytkownik może określić czy ten adresat może odbierać wiadomości w formacie HTML. Jeżeli jednak ta informacja nie jest znana, to należy odpowiednio ustawić preferencje formatu dla takich wiadomości.</p>
 
 <p>[<a href="#mail_and_newsgroup_preferences">Na początek rozdziału</a>]</p>
 
 <h2 id="addressing_preferences">Adresowanie</h2>
 
-<p>Addressing preferences allow you to control the settings for
-  &brandShortName; Mail &amp; Newsgroups address books (for example, email
-  address collection and address autocompletion). If you are not already
-  viewing the Addressing settings, follow these steps:</p>
+<p>Preferencje adresowania umożliwiają określenie ustawień dla ksiażek adresowych Kuriera poczty &brandShortName; (np. ustawienia gromadzenia adresów i ich automatycznego uzupełniania). Jeżeli preferencje adresowania nie są jeszcze widoczne, należy:</p>
 
 <ol>
   <li>Z&nbsp;menu <span class="noMac">Edycja</span> <span class="mac">&brandShortName;</span> wybrać Preferencje.</li>
@@ -3224,41 +2974,16 @@ usługę, np ldap.infospace.com.</li>
 </ol>
 
 <ul>
-  <li><strong>Email Address Collection</strong>: Select this if you want Mail
-    &amp; Newsgroups to automatically collect recipients&apos; email addresses.
-    Use the drop-down list to choose between having the addresses added to your
-    Collected Addresses or your Personal Address Book.</li>
-  <li id="address_autocompletion"><strong>Address Autocompletion</strong>:
-    Address autocompletion allows you to quickly address mail without having to
-    search for names or type names completely. Select from which location Mail
-    &amp; Newsgroups will search for matching addresses: <q>Local Address
-    Books</q> (Personal Address Book, Collected Addresses, or any other local
-    address book) or <q>Directory Server</q> (an available LDAP directory
-    server) or both. If you want Mail &amp; Newsgroups to highlight addresses
-    that do not autocomplete, then select that option.
+  <li><strong>Automatyczne zachowywanie adresów e-mail</strong>: Należy wybrać tę opcję, jeżeli Kurier Poczty ma automatycznie zbierać adresy e-mail odbiorców wysyłanych wiadomości. Z rozwijalnej listy należy wybrać czy te adresy mają być dodawane do książki Zebrane adresy, czy do Osobistej książki adresowej.</li>
+  <li id="address_autocompletion"><strong>Autouzupełnianie adresu</strong>: Autouzupełnianie adresów umożliwia szybkie zaadresowanie wiadomości bez wyszukiwania w książce adresowej lub wpisywania kompletnego adresu odbiorcy. Należy wybrać gdzie Kurier Poczty ma szukać adresów: <q>W lokalnych książkach adresowych</q> (Osobiska książka adresowa, Zebrane adresy lub dowolnej innej książce na komputerze) lub na <q>serwerze usług katalogowych</q> (należy wybrać zdefiniowany serwer katalogowy LDAP) albo w obu miejscach. Dodatkowo Kurier Poczty może zaznaczać adresy, które nie zostaną automatycznie uzupełnione, co można włączyć przez zaznaczenie opcji o tej nazwie.
 
-    <p><strong>Uwaga</strong>: If while addressing mail, multiple email address
-      matches are found, Mail &amp; Newsgroups displays a list of all possible
-      choices.</p>
+    <p><strong>Uwaga</strong>: Jeżeli podczas adresowania zostanie odnalezionych więcej pasujących adresów, to Kurier Poczty wyświetli listę wszystkich dostępnych do wyboru.</p>
 
-    <p>If you select Directory Server, choose a directory server from the list.
-      A directory server lets you look up addresses that are not stored in one
-      of your local address books. The directory you select will also be
-      searched for matching certificates when you attempt to send an encrypted
-      message to one or more recipients for whom you don&apos;t have
-      certificates on file.</p>
+    <p>Jeżeli użytkownik wybierze <q>Na serwerze usług katalogowych</q>, to należy wybrać z listy zdefiniowany wcześniej serwer. Serwer usług katalogowych pozwala na wyszukanie adresu, który nie jest dostępny w książkach adresowych na lokalnym komputerze. Katalog będzie przeszukiwany również na obecność certyfikatów adresatów, do których użytkownik będzie chciał wysłać zaszyfrowaną wiadomość a nie będzie posiadał tych certyfikatów.</p>
 
-    <p>See <a href="#adding_and_removing_ldap_directories">Adding and Removing
-      LDAP Directories</a> for information on setting LDAP directory server
-      settings.</p>
+    <p>Więcej informacji o ustawieniach serwera uslug katalogowych w rozdziale <a href="#adding_and_removing_ldap_directories">Dodawanie i usuwanie katalogów LDAP</a>.</p>
 
-    <p><strong>Uwaga</strong>: Directory server settings you enter from the
-      Preferences dialog box apply to all your mail accounts. You can override
-      these settings for individual accounts by specifying different LDAP
-      directory servers or server settings using the Addressing settings for an
-      account in the Mail &amp; Newsgroups Account Settings dialog box. To set
-      different addressing options for a specific account, open the Edit menu
-      and choose Mail &amp; Newsgroups Account Settings.</p>
+    <p><strong>Uwaga</strong>: Serwer usług katalogowych wskazany w powyższych preferencjach będzie wykorzystywany dla wszystkich kont pocztowych użytkownika. Można te ustawienia zmienić dla każdego konta indywidualnie określając odpowiednie serwery LDAP lub ustawienia serwerów dla każdego z kont w jego preferencjach Tworzenia i adresowania wiadomości. Aby ustawić inne preferencje adresowania dla danego konta należy wybrać Konfiguracja kont z menu Edycja.</p>
   </li>
 </ul>
 
@@ -3266,8 +2991,7 @@ usługę, np ldap.infospace.com.</li>
 
 <h2 id="global_junk_settings">Niechciana poczta</h2>
 
-<p>This section describes how to use the Junk Mail preferences panel. If
-  you are not currently viewing the Junk Mail panel, follow these steps:</p>
+<p>Ten rodział opisuje w jaki sposób należy używać preferencji Niechcianej i podejrzanej poczty. Jeżeli panel preferencji nie jest jeszcze widoczny, należy wykonać następujące kroki:</p>
 
 <ol>
   <li>Z&nbsp;menu <span class="noMac">Edycja</span> <span class="mac">&brandShortName;</span> wybrać Preferencje.</li>
@@ -3275,35 +2999,27 @@ usługę, np ldap.infospace.com.</li>
 </ol>
 
 <ul>
-  <li><strong>When I manually mark messages as junk</strong>: Choose this to
-    set what you want &brandShortName; to do when you manually mark messages
-    as Junk.
+  <li><strong>W przypadku ręcznego oznaczania wiadomości jako niechcianej:</strong>: Należy wybrać tę opcję, jeżeli użytkownik chce, aby uzdefiniować co &brandShortName; ma robić po ręcznym oznaczenia wiadomości jako niechcianej.
     <ul>
-      <li><strong>Move them to the account's <q>Junk</q> folder</strong>:
-        Choose this to move manually-marked Junk messages to the Junk folder.
-      </li>
-      <li><strong>Delete them</strong>: Choose this to move manually-marked 
-        Junk messages to the trash folder.</li>
+      <li><strong>Przenieś wiadomości do folderu <q>Niechciane</q></strong>: Należy wybrać tę opcję, aby wiadomości ręcznie oznaczone jako niechciane były automatycznie przenoszone do folderu Niechciane.</li>
+      <li><strong>Usuń wiadomości</strong>: Należy wybrać tę opcję, aby wiadomości ręcznie oznaczone jako niechciane były automatycznie przenoszone do Kosza.</li>
     </ul>
   </li>
-  <li><strong>Mark messages determined to be junk as read</strong>: Select this
-    option to mark junk messages as read, so they will not show up as new.</li>
-  <li><strong>Enable junk filter logging</strong>: Select this option to allow
-    logging the history of Junk mail detections. Click the <strong>Show log
-    </strong> button to open a dialog showing this log.</li>
-  <li><strong>Reset training data</strong>: Click this button to clear the
-    training data of the adaptive junk filter. Since this will effectively
-    destroy your personal junk profile, you will be asked for confirmation.
-  </li>
+  <li><strong>Oznacz wiadomości jako przeczytane</strong>: Należy wybrać z poniższych opcji kiedy &brandShortName; ma oznaczać niechciane wiadomości jako przeczytane. Nie będą one wtedy wyświetlane jako nowe.
+    <ul>
+	  <li><strong>Kiedy program &brandShortName; rozpozna wiadomości jako niechciane</strong></li>
+	  <li><strong>W przypadku ręcznego oznaczenia ich jako niechciane</strong></li>
+	</ul>
+  </li>	
+  <li><strong>Włącz dziennik niechcianej poczty</strong>: Należy włączyć tę opcję, aby oznaczanie poczty jako niechcianej było rejestrowane w dzienniku. Naciśnięcie przycisku <strong>Pokaż dziennik</strong> wyświetli okno zawierające wpisy w dzienniku.</li>
+  <li><strong>Resetuj dane treningowe</strong>: Naciśnięcie tego przycisku powoduje wyczyszczenie danych treningowych adaptacyjnego filtru niechcianej poczyt. Ze względu na całkowite zniszczenie osobistego profilu niechcianej poczty wyświetlona zostanie prośba o potwierdzenie wykonania tej czynności.</li>
 </ul>
 
 <p>[<a href="#mail_and_newsgroup_preferences">Na początek rozdziału</a>]</p>
 
 <h2 id="tags">Etykiety</h2>
 
-<p>This section describes how to use the Tags preferences panel. You use the
-  Tags preferences to define the tag text, colors and order for message tags.
-  If you are not currently viewing the panel, follow these steps:</p>
+<p>Ten rodział opisuje w jaki sposób należy używać preferencji Etykiet. Używa się ich do definiowania tektu etykiet, ich kolorów i kolejności ich ważności. Jeżeli panel preferencji nie jest jeszcze widoczny, należy wykonać następujące kroki:</p>
 
 <ol>
   <li>Z&nbsp;menu <span class="noMac">Edycja</span> <span class="mac">&brandShortName;</span> wybrać Preferencje.</li>
@@ -3311,129 +3027,73 @@ usługę, np ldap.infospace.com.</li>
 </ol>
 
 <ul>
-  <li><strong>Customize Tags</strong>: Specifies the tag text and the color
-    for each tag. You can edit or replace the default tag text with your
-    own text (up to 32 characters). To change the tag color, click the color
-    chip next to that tag and select a new color. Use the Move Up and Move Down
-    buttons to order your tags by descending importance. Messages with
-    multiple tags will be colored according to their most important tag.</li>
-  <li><strong>Restore Defaults</strong>: Removes all customized tags and
-    restores just the default tags&apos; text and colors.</li>
+  <li><strong>Dostosuj etykiety</strong>: Można określić tekst opisu i kolor etykiet, którymi można oznaczyć wiadomości pocztowe. Domyślny tekst można zmienić wpisując własny, o maksymalnej długości 32 znaków. Zmienić kolor etykiety można poprzez naciśnięcie przycisku z danym kolorem i wybór odpowiedniego koloru z wyświetlonego zestawu. Można również zmienić ważność etykiet w porządku malejącym za pomocą przycisków Zwiększ ważność i Zmniejsz ważność, co spowoduje ich przesuwanie na liście. Wiadomości z większą ilością etykiet będą kolorowane na liście wiadomości kolorem etykiety o największej ważności.</li>
+  <li><strong>Przywróć domyślne</strong>: Powoduje usunięcie zdefiniowanych przez użytkownika etykiet, ich opisów i kolorów oraz przywrócenie tych standardowo zdefiniowanych w programie.</li>
 </ul>
 
 <p>[<a href="#mail_and_newsgroup_preferences">Na początek rozdziału</a>]</p>
 
 <h2 id="return_receipts_preferences">Potwierdzenia odbioru</h2>
 
-<p>This section describes how to use the Return Receipts preferences panel. If
-  you are not currently viewing the Return Receipts panel, follow these
-  steps:</p>
+<p>Ten rodział opisuje w jaki sposób należy używać preferencji Potwierdzenia dostarczenia wiadomości. Jeżeli panel preferencji nie jest jeszcze widoczny, należy wykonać następujące kroki:</p>
 
 <ol>
   <li>Z&nbsp;menu <span class="noMac">Edycja</span> <span class="mac">&brandShortName;</span> wybrać Preferencje.</li>
   <li>W&nbsp;kategorii Kurier Poczty wybrać Potwierdzenia. (Jeśli podkategorie nie są widoczne, to aby rozwinąć listę, należy podwójnie kliknąć na Kurier Poczty.)</li>
 </ol>
 
-<p>You use the Return Receipts preferences to define return receipt settings
-  for outgoing messages from all your mail accounts. You also use the Return
-  Receipt preferences to specify how to manage requests you receive for return
-  receipts.</p>
+<p>Preferencje potwierdzenia dostarczenia wiadomości umożliwiają zdefiniowanie ustawień obsługi potwierdzeń dostarczenia wiadomości, zarówno w stosunku do wiadomości wysyłanych jaki i żądań w wiadomościch odbieranych.</p>
 
 <ul>
-  <li><strong>When sending messages, always request a return receipt</strong>:
-    Enables automatic return receipt requests for all outgoing messages in all
-    your mail accounts.</li>
-  <li><strong>Leave it in my Inbox</strong>: Return receipt confirmation
-    messages are delivered to your Inbox.
+  <li><strong>Podczas wysyłania wiadomości, zawsze żądaj potwierdzenia dostarczenia</strong>: Zaznaczenie tej opcji powoduje automatyczne dołączanie do każdej wysyłanej wiadomości żądania potwierdzenia dostarczenia wiadomości dla wszystkich kont pocztowych.</li>
+  <li><strong>Pozostaw w folderze Odebrane</strong>: Otrzymane potwierdzenia dostarczenia wiadomości są umieszczane w folderze Odebrane danego konta.
 
-    <p><strong>Wskazówka</strong>: Choose this option if you want to use a filter
-      that automatically moves return receipt confirmation messages to a folder
-      you specify. For information on creating and using filters, see
-      <a href="#creating_message_filters">Creating Message Filters</a>.</p>
+    <p><strong>Wskazówka</strong>: Należy wybrać tę opcję, jeżeli użytkownik będzie używał filtru, który będzie przenosił takie wiadomości do wskazanego folderu. Więcej informacji w rozdziale <a href="#creating_message_filters">Tworzenie filtrów wiadomości</a>.</p>
   </li>
-  <li><strong>Move it to my Sent Mail folder</strong>: Incoming return receipt
-    confirmation messages are moved to your Sent mail folder.</li>
-  <li><strong>Never send a return receipt</strong>: Choose this option if you
-    do not want to send a return receipt in response to requests for return
-    receipts from others.</li>
-  <li><strong>Allow return receipts for some messages</strong>: Choose how you
-    want to respond to requests you receive for return receipts.</li>
+  <li><strong>Przenieś do folderu Wysłane</strong>: Należy wybrać tę opcję, aby przychodzące potwierdzenia dostarczenia wiadomości były przenoszone automatycznie do folderu wysłane danego konta.</li>
+  <li><strong>Nigdy nie wysyłaj potwierdzenia dostarczenia wiadomości</strong>: Należy wybrać tę opcję jeżeli użytkownik nie chce, aby potwierdzenia dostarczenia wiadomości były wysyłane do nadawców wiadomości.</li>
+  <li><strong>Wysyłaj potwierdzenia dostarczenia wiadomości tylko w poniższych przypadkach</strong>: Należy wybrać jak postępować w przypadku odebrania wiadomości z żądaniem wysłania potwierdzenia dostarczenia wiadomości od określonych adresatów.</li>
 </ul>
 
-<p>To override these global preferences for individual accounts, see
-  <a href="#return_receipts">Mail &amp; Newsgroups Account Settings - Return
-  Receipts</a>.</p>
+<p>Informacje o tym, jak zmienić te ustawienia dla poszczególnych kont zawarte są w rozdziale <a href="#return_receipts">Potwierdzenia odbioru</a>.</p>
 
 <p>[<a href="#mail_and_newsgroup_preferences">Na początek rozdziału</a>]</p>
 
 <h2 id="character_encoding">Kodowanie znaków</h2>
 
-<p>Character encoding preferences allow you to choose how messages are encoded
-  when being displayed or created in all accounts. If you are not already
-  viewing the Character Encoding settings, follow these steps:</p>
+<p>Preferencje kodowania znaków umożliwiają wybór domyślnego kodowania znaków w czaie wyświetlania i komponowania wiadomości dla wszystkich kont. Jeżeli panel preferencji nie jest jeszcze widoczny, należy wykonać następujące kroki:</p>
 
 <ol>
-  <li>Z&nbsp;menu <span class="noMac">Edycja</span> <span class="mac">&brandShortName;</span> wybrać Preferencje. You see the
-    Preferences dialog box.</li>
+  <li>Z&nbsp;menu <span class="noMac">Edycja</span> <span class="mac">&brandShortName;</span> wybrać Preferencje.</li>
   <li>W&nbsp;kategorii Kurier Poczty wybrać Kodowanie znaków. (Jeśli podkategorie nie są widoczne, to aby rozwinąć listę, należy podwójnie kliknąć na Kurier Poczty.)</li>
 </ol>
 
 <ul>
-  <li><strong>Default Character Encoding</strong>: Click this drop-down list to
-    select the character encoding you want Mail &amp; Newsgroups to use as the
-    default for incoming mail and newsgroup messages. This is recommended if
-    it&apos;s likely you might receive messages in which the character encoding
-    (MIME charset) is not indicated, such as when reading messages in
-    international newsgroups.</li>
-  <li><strong>Always use this default character encoding when messages are
-    displayed</strong>: Select this to apply the default character encoding to
-    all messages.
-
-    <p><strong>Wskazówka</strong>: You can later view or change the character
-      encoding for a specific folder. In the Mail window, select a folder from
-      the list of Mail folders. Open the View menu, and choose Character
-      Encoding.</p>
-  </li>
-  <li><strong>For messages that contain 8-bit characters, use &apos;quoted
-    printable&apos; MIME encoding</strong>: Choose to have Mail &amp;
-    Newsgroups use <q>quoted printable</q> MIME encoding when sending regular
-    messages that use an 8-bit character encoding (for example, Latin
-    ISO-8859-3).</li>
-  <li><strong>Default Character Encoding</strong>: Select the character
-    encoding you want Mail &amp; Newsgroups to use as the default for outgoing
-    mail and newsgroup messages. Note that this character encoding is
-    <strong>not</strong> used when replying to a message. Instead, the
-    character encoding of the message being replied to is used by default.
-    Choose <strong>Always use this default character encoding in
-    replies</strong> to use the default character encoding for outgoing
-    messages even when replying.</li>
+  <li><strong>Domyślne kodowanie znaków</strong>: Należy wybrać domyślne kodowanie znaków dla wszystkich odbieranych wiadomości wyświetlanych w Kurierze Poczty. To ustawienie jest pomocne, jeżeli odbierane są wiadomości bez ustawionego sposobu kodowania znaków (zestaw znaków MIME), np. dla wiadomości z międzynarodowych grup dyskusyjnych.</li>
+  <li><strong>Dla wiadomości, które zawierają 8-bitowe znaki, użyj kodowania MIME <q>quoted printable</q>. Pozostaw bez zaznaczenia, aby wysłać wiadomość taką jaka jest.</li>
+  <li><strong>Domyślne kodowanie znaków</strong>: Należy wybrać domyślne kodowanie znaków dla wszystkich wysyłanych wiadomości. To kodowanie <strong>nie</strong> jest używane w czasie odpowiadania na wiadomości.</li>
+  <li>Używaj domyślnego zestawu znaków w odpowiedziach zawsze, kiedy to jest możliwe. (Gdy odznaczone, tylko nowe wiadomości będą używać ten zestaw znaków.)</strong>: Jeżeli ta opcja nie jest wybrana, to w czasie odpowiadania na wiadomość będzie używane kodowanie znaków użyte w wiadomości, na którą się odpowiada. Jeżeli ta opcja zostanie wybrana, to każda komponowana wiadomość będzie z użyciem domyślnego kodowania znaków.</li>
 </ul>
 
 <p>[<a href="#mail_and_newsgroup_preferences">Na początek rozdziału</a>]</p>
 
 <h2 id="offline_and_disk_space_preferences">Tryb offline i miejsce na dysku</h2>
 
-<p>This section describes how to use the Offline &amp; Disk Space preferences
-  panel. If you are not currently viewing the panel, follow these steps:</p>
+<p>Ten rodział opisuje w jaki sposób należy używać preferencji Sieci i miejsca na dysku. Jeżeli panel preferencji nie jest jeszcze widoczny, należy wykonać następujące kroki:</p>
 
 <ol>
   <li>Z&nbsp;menu <span class="noMac">Edycja</span> <span class="mac">&brandShortName;</span> wybrać Preferencje.</li>
   <li>W&nbsp;kategorii Kurier Poczty wybrać Tryb offline i miejsce na dysku. (Jeśli podkategorie nie są widoczne, to aby rozwinąć listę, należy podwójnie kliknąć na Kurier Poczty.)</li>
 </ol>
 
-<p>The Offline &amp; Disk Space preferences allow you to set preferences for
-  working offline, going online, and disk space.</p>
+<p>Preferencje Sieci i miejsca na dysku umożliwiają skonfigurowanie zachowania Kuriera Poczty &brandShortName; przy braku i nawiązaniu połączenia z siecią oraz konserwacji miejsca zajmowanego przez wiadomości na dysku komputera.</p>
 
 <ul>
-  <li><strong>Offline</strong>: Select how you want Mail &amp; Newsgroups to
-    handle messages when going online or offline.</li>
-  <li><strong>Disk Space</strong>: Select this to conserve disk space by 
-    automatically compacting message folders when it will save the amount 
-    of disk space you enter.</li>
+  <li><strong>Tryb offline</strong>: Należy wybrać jak Kurier Poczty ma się zachowywać przy uruchamianiu oraz po nawiązaniu połączenia z siecią i przechodzenia w tryb offline.</li>
+  <li><strong>Miejsce na dysku</strong>: Należy wybrać opcję <q>Automatycznie porządkuj foldery, gdy zaoszczędzi to więcej niż [__] kB</q>, aby foldery wiadomości były porządkowane po operacjach usuwania i przenoszenia wiadomości, które powodują <q>dziury</q> w treści plików przechowujących wiadomości na dysku komputera.</li>
 </ul>
 
-<p>See <a href="#working_offline">Working Offline</a> for information on
-  working offline.</p>
+<p>Więcej informacji o pracy w trybie offline w rozdziale <a href="#working_offline">Praca w trybie offline</a>.</p>
 
 <p>[<a href="#mail_and_newsgroup_preferences">Na początek rozdziału</a>]</p>
 
