@@ -19,4 +19,4 @@
 <!ENTITY sync.serverURL "Sunucu adresi">
 <!ENTITY sync.setup.connect "Bağlan">
 <!ENTITY sync.setup.cancel "İptal">
-<!ENTITY sync.setup.tutorial "Show me how">
+<!ENTITY sync.setup.tutorial "Nasıl yapılacağını göster">

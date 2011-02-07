@@ -1,9 +1,9 @@
-<!ENTITY aboutHome.header "<span>&brandShortName; </span><span id='header-suffix'>Start</span>">
+<!ENTITY aboutHome.header "<span>&brandShortName; </span><span id='header-suffix'>Başlat</span>">
 <!ENTITY aboutHome.recentTabs "Son oturumunuzdaki sekmeler">
 <!ENTITY aboutHome.remoteTabs "Diğer bilgisayarlarınızdaki sekmeler">
 <!ENTITY aboutHome.recommendedAddons2 "&brandShortName; için ekletiler">
 <!ENTITY aboutHome.giveFeedback "Geri bildirim gönder">
-<!ENTITY aboutHome.getHelp "Get Help">
+<!ENTITY aboutHome.getHelp "Yardıma ulaş">
 <!ENTITY aboutHome.footerWidth "10em">
 <!ENTITY aboutHome.openAllTabs "Tümünü sekmelerde aç">
 <!ENTITY aboutHome.noTabs "Son kullanımdan sekme yok">
