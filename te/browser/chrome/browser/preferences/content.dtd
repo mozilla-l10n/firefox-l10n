@@ -22,10 +22,10 @@
 <!ENTITY  defaultFont.label                       "అప్రమేయ ఫాంటు:">
 <!ENTITY  defaultFont.accesskey                   "D">
 <!ENTITY  defaultSize.label                       "పరిమాణం:">
-<!ENTITY  defaultSize.accesskey                   "i">
+<!ENTITY  defaultSize.accesskey                   "S">
 
 <!ENTITY  advancedFonts.label         "అధునాతన...">
-<!ENTITY  advancedFonts.accesskey     "d">
+<!ENTITY  advancedFonts.accesskey     "A">
 
 <!ENTITY  colors.label                "రంగులు...">
 <!ENTITY  colors.accesskey            "C">
