@@ -23,20 +23,20 @@
 <!ENTITY bottomLinks.privacy        "นโยบายความเป็นส่วนตัว">
 
 <!-- LOCALIZATION NOTE (update.checkingForUpdates): try to make the localized text short (see bug 596813 for screenshots). -->
-<!ENTITY update.checkingForUpdates  "ตรวจสอบการปรับปรุง…">
+<!ENTITY update.checkingForUpdates  "ตรวจสอบการปรับรุ่น…">
 <!-- LOCALIZATION NOTE (update.checkingAddonCompat): try to make the localized text short (see bug 596813 for screenshots). -->
 <!ENTITY update.checkingAddonCompat "ตรวจสอบส่วนเสริม…">
 <!-- LOCALIZATION NOTE (update.noUpdatesFound): try to make the localized text short (see bug 596813 for screenshots). -->
 <!ENTITY update.noUpdatesFound      "&brandShortName; เป็นรุ่นล่าสุดแล้ว">
 <!-- LOCALIZATION NOTE (update.adminDisabled): try to make the localized text short (see bug 596813 for screenshots). -->
-<!ENTITY update.adminDisabled       "การปรับปรุงถูกปิดไว้โดยผู้ดูแลระบบของคุณ">
+<!ENTITY update.adminDisabled       "การปรับรุ่นถูกปิดไว้โดยผู้ดูแลระบบของคุณ">
 
 <!-- LOCALIZATION NOTE (update.failed.start,update.failed.linkText,update.failed.end):
      update.failed.start, update.failed.linkText, and update.failed.end all go into
      one line with linkText being wrapped in an anchor that links to a site to download
      the latest version of Firefox (e.g. http://www.firefox.com). As this is all in
      one line, try to make the localized text short (see bug 596813 for screenshots). -->
-<!ENTITY update.failed.start        "การปรับปรุงล้มเหลว ">
+<!ENTITY update.failed.start        "การปรับรุ่นล้มเหลว ">
 <!ENTITY update.failed.linkText     "ดาวน์โหลดรุ่นล่าสุด">
 <!ENTITY update.failed.end          "">
 
@@ -44,7 +44,7 @@
      all go into one line and have an anchor in between with text that is the same as the link to a site
      to download the latest version of Firefox (e.g. http://www.firefox.com). As this is all in one line,
      try to make the localized text short (see bug 596813 for screenshots). -->
-<!ENTITY update.manual.start        "พบการปรับปรุงที่ ">
+<!ENTITY update.manual.start        "พบการปรับรุ่นที่ ">
 <!ENTITY update.manual.end          "">
 
 <!-- LOCALIZATION NOTE (update.downloading.start,update.downloading.end): update.downloading.start and 
@@ -52,5 +52,5 @@
      is all in one line, try to make the localized text short (see bug 596813 for screenshots). The — is
      the "em dash" (long dash).
      example: Downloading update — 111 KB of 13 MB -->
-<!ENTITY update.downloading.start   "กำลังดาวน์โหลดการปรับปรุง — ">
+<!ENTITY update.downloading.start   "กำลังดาวน์โหลดการปรับรุ่น — ">
 <!ENTITY update.downloading.end     "">
