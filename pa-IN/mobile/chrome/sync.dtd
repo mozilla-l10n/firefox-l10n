@@ -19,3 +19,5 @@
 <!ENTITY sync.serverURL             "ਸਰਵਰ URL">
 <!ENTITY sync.setup.connect         "ਕੁਨੈਕਟ ਕਰੋ">
 <!ENTITY sync.setup.cancel          "ਰੱਦ ਕਰੋ">
+<!ENTITY sync.setup.tutorial        "ਮੈਨੂੰ ਵੇਖਾਓ ਕਿਵੇਂ">
+

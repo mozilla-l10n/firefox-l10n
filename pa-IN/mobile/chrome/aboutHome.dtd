@@ -3,6 +3,8 @@
 <!ENTITY aboutHome.remoteTabs                   "ਤੁਹਾਡੇ ਹੋਰ ਕੰਪਿਊਟਰਾਂ ਤੋਂ ਟੈਬਾਂ">
 <!ENTITY aboutHome.recommendedAddons2           "ਤੁਹਾਡੇ &brandShortName; ਲਈ ਐਡ-ਆਨ">
 <!ENTITY aboutHome.giveFeedback                 "ਸੁਝਾਅ ਦਿਓ">
+<!ENTITY aboutHome.getHelp                      "ਮੱਦਦ ਲਵੋ">
+<!ENTITY aboutHome.footerWidth                  "10em">
 <!ENTITY aboutHome.openAllTabs                  "ਸਭ ਟੈਬਾਂ 'ਚ ਖੋਲ੍ਹੋ">
 <!ENTITY aboutHome.noTabs                       "ਪਹਿਲਾਂ ਖੋਲ੍ਹੀ ਗਈ ਕੋਈ ਟੈਬ ਨਹੀਂ ਹੈ">
 <!ENTITY aboutHome.noAddons                     "ਕੋਈ ਸਿਫਾਰਸ਼ੀ ਐਡ-ਆਨ ਨਹੀਂ ਹੈ">
