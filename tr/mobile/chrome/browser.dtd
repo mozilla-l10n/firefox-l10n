@@ -26,7 +26,7 @@
 <!ENTITY historyHeader.label "Geçmiş">
 <!ENTITY desktopHeader.label "Masaüstü">
 
-<!ENTITY editBookmarkDialog.title "Edit Bookmark">
+<!ENTITY editBookmarkDialog.title "Yer imini düzenle">
 <!ENTITY editBookmarkDone.label "Tamamlandı">
 <!ENTITY editBookmarkTags.label "Buraya etiket ekle">
 
