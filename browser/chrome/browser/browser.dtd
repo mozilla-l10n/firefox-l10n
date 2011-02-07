@@ -553,3 +553,4 @@ just addresses the organization to follow, e.g. "This site is run by " -->
 <!ENTITY syncToolbarButton.label      "ผสาน">
 
 <!ENTITY addonBarCloseButton.tooltip  "ปิดแถบส่วนเสริม">
+<!ENTITY toggleAddonBarCmd.key        "/">
