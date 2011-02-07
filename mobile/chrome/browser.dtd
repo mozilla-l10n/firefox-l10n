@@ -26,6 +26,7 @@
 <!ENTITY historyHeader.label       "ਅਤੀਤ">
 <!ENTITY desktopHeader.label       "ਡੈਸਕਟਾਪ">
 
+<!ENTITY editBookmarkDialog.title  "ਬੁੱਕਮਾਰਕ ਸੋਧ">
 <!ENTITY editBookmarkDone.label    "ਮੁਕੰਮਲ">
 <!ENTITY editBookmarkTags.label    "ਟੈਗ ਇੱਥੇ ਸ਼ਾਮਲ">
 
