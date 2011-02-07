@@ -18,8 +18,8 @@
 <!ENTITY externalGroupWindow.accesskey "v">
 
 <!ENTITY divertAll.label "Altijd vensters omzetten naar tabbladen">
-<!ENTITY divertAll.accesskey "d">
+<!ENTITY divertAll.accesskey "o">
 <!ENTITY divertNoFeatures.label "Aangepaste vensters niet omzetten naar tabbladen">
-<!ENTITY divertNoFeatures.accesskey "s">
+<!ENTITY divertNoFeatures.accesskey "z">
 <!ENTITY dontDivert.label "Altijd nieuwe vensters openen">
-<!ENTITY dontDivert.accesskey "n">
+<!ENTITY dontDivert.accesskey "w">
