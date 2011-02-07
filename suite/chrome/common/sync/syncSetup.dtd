@@ -13,13 +13,13 @@
 <!-- New Account AND Existing Account -->
 <!ENTITY server.label               "Server">
 <!ENTITY serverType.main.label      "&syncBrand.fullName.label;-server">
-<!ENTITY serverType.custom2.label   "Een eigen server gebruiken…">
-<!ENTITY signIn.account2.label      "Account">
-<!ENTITY signIn.account2.accesskey  "A">
+<!ENTITY serverType.custom.label    "Een eigen server gebruiken">
+<!ENTITY signIn.account.label       "E-mailadres / Gebruikersnaam">
+<!ENTITY signIn.account.accesskey   "E">
 <!ENTITY signIn.password.label      "Wachtwoord">
 <!ENTITY signIn.password.accesskey  "W">
-<!ENTITY signIn.syncKey.label       "Sync-sleutel">
-<!ENTITY signIn.syncKey.accesskey   "S">
+<!ENTITY signIn.serverURL.label     "Server-URL">
+<!ENTITY signIn.serverURL.accesskey "S"> 
 
 <!-- New Account Page 1: Basic Account Info -->
 <!ENTITY setup.newAccountDetailsPage.title.label "Accountdetails">
@@ -86,18 +86,16 @@
 <!ENTITY engine.prefs.accesskey     "V">
 
 <!ENTITY choice2.merge.main.label      "De gegevens van deze computer met uw &syncBrand.shortName.label;-gegevens laten samengaan">
-<!ENTITY choice2.merge.recommended.label "Aanbevolen:">
+<!ENTITY choice2.merge.recommended.label "(aanbevolen)">
 <!ENTITY choice2.client.main.label     "Alle gegevens op deze computer vervangen door uw &syncBrand.shortName.label;-gegevens">
 <!ENTITY choice2.server.main.label     "Alle gegevens op andere apparaten vervangen door gegevens van deze computer">
 
 <!-- Confirm Merge Options -->
 <!ENTITY setup.optionsConfirmPage.title "Bevestigen">
 <!ENTITY confirm.merge.label    "&syncBrand.fullName.label; zal deze computergegevens laten samengaan met de gegevens in uw Sync-account.">
-<!ENTITY confirm.client.label         "Alle &brandShortName;-gegevens op deze computer zullen worden verwijderd, inclusief het volgende:">
+<!ENTITY confirm.client2.label         "Waarschuwing: de volgende &brandShortName;-gegevens op deze computer zullen worden verwijderd:">
 <!ENTITY confirm.client.moreinfo.label "&brandShortName; zal vervolgens uw &syncBrand.fullName.label;-gegevens naar deze computer kopiëren.">
-<!ENTITY confirm.client.warning.label "Waarschuwing: dit zal ertoe leiden dat alle &brandShortName;-gegevens op deze computer worden vervangen!">
-<!ENTITY confirm.server.label         "De volgende apparaten zullen worden overschreven door uw lokale gegevens:">
-<!ENTITY confirm.server.warning.label "Waarschuwing: uw lokale gegevens zullen alle &brandShortName;-gegevens op deze apparaten vervangen!">
+<!ENTITY confirm.server2.label         "Waarschuwing: gegevens van de volgende apparaten zullen worden overschreven door uw lokale gegevens:">
 
 <!-- New & Existing Account: Setup Complete -->
 <!ENTITY setup.successPage.title "Set-up voltooid">
