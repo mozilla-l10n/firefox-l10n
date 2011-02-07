@@ -541,3 +541,5 @@ can reach it easily. -->
 <!ENTITY zoomOutButton.tooltip          "జూమ్ తగ్గించు">
 
 <!ENTITY addonBarCloseButton.tooltip  "ఏడ్-ఆన్ బార్ మూయి">
+
+<!ENTITY toggleAddonBarCmd.key        "/">
