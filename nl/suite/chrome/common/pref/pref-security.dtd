@@ -38,7 +38,7 @@
 <!--LOCALIZATION NOTE : FILE 'Privacy and Security' prefs settings -->
 <!ENTITY pref.security.title              "Privacy &amp; beveiliging">
 
-<!ENTITY tracking.label                   "User Tracking">
+<!ENTITY tracking.label                   "Gebruikersanalyse">
 <!ENTITY doNotTrack.label                 "Vertel websites dat ik niet gevolgd wil worden">
 <!ENTITY doNotTrack.accesskey             "V">
 
