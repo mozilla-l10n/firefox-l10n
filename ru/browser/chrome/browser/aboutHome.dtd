@@ -3,8 +3,6 @@
 <!ENTITY abouthome.pageTitle "Начальная страница &brandFullName;">
 <!ENTITY abouthome.brandStart "Запуск <span>&brandShortName;</span>">
 <!ENTITY abouthome.searchEngineButton.label "Поиск">
-<!ENTITY abouthome.searchEngineLinks.advanced "Расширенный поиск">
-<!ENTITY abouthome.searchEngineLinks.preferences "Настройки">
 <!ENTITY abouthome.aboutMozilla "О Mozilla">
 <!ENTITY abouthome.defaultSnippet1.v1 "Спасибо, что выбрали Firefox! Чтобы использовать ваш браузер по максимуму, узнайте больше о его <a>новейших возможностях</a>.">
 <!ENTITY abouthome.defaultSnippet2.v1 "Вы можете легко настроить Firefox по своему вкусу. <a>Выбирайте из тысяч дополнений</a>.">
