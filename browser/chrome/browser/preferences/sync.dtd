@@ -4,8 +4,6 @@
 <!ENTITY weaveDesc.label            "&syncBrand.fullName.label; ให้คุณเข้าถึงประวัติ ที่คั่นหน้าเว็บ รหัสผ่าน และแท็บที่เปิดไว้ผ่านอุปกรณ์ของคุณทั้งหมด">
 
 <!-- The page shown when logged in... -->
-<!ENTITY accountGroupboxCaption.label "&syncBrand.fullName.label; บัญชีผู้ใช้">
-<!ENTITY currentAccount.label         "บัญชีผู้ใช้ปัจจุบัน:">
 
 <!-- Login error feedback -->
 <!ENTITY updatePass.label             "ปรับข้อมูล">
@@ -18,13 +16,7 @@
 <!ENTITY changePassword.label         "เปลี่ยนรหัสผ่าน">
 <!ENTITY mySyncKey.label              "กุญแจ Sync ของฉัน">
 <!ENTITY resetSync.label              "ล้าง Sync">
-<!ENTITY stopUsingAccount.label       "หยุดการใช้งานบัญชีผู้ใช้นี้">
 <!ENTITY addDevice.label              "เพิ่มอุปกรณ์">
-
-<!-- Sync Settings -->
-<!ENTITY syncPrefsCaption.label       "เบราว์เซอร์ Sync">
-<!ENTITY syncComputerName.label       "ชื่อคอมพิวเตอร์:">
-<!ENTITY syncComputerName.accesskey   "ค">
 
 <!ENTITY syncMy.label               "ผสานข้อมูล">
 <!ENTITY engine.bookmarks.label     "ที่คั่นหน้าเว็บ">
@@ -37,6 +29,11 @@
 <!ENTITY engine.passwords.accesskey "ร">
 <!ENTITY engine.prefs.label         "ค่าปรับแต่ง">
 <!ENTITY engine.prefs.accesskey     "ต">
+
+<!-- Device Settings -->
+<!ENTITY syncComputerName.label       "ชื่อคอมพิวเตอร์:">
+<!ENTITY syncComputerName.accesskey   "ค">
+<!ENTITY deactivateDevice.label       "เลิกใช้งานอุปกรณ์นี้">
 
 <!-- Footer stuff -->
 <!ENTITY prefs.tosLink.label        "ข้อกำหนดการให้บริการ">
