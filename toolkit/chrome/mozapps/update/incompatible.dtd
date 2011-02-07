@@ -1,8 +1,0 @@
-<!ENTITY closebutton.label "סגור">
-<!ENTITY incompatible.intro "הפריטים הבאים אינם תואמים עם עדכון זה ל־&brandShortName; וינוטרלו
-                            כאשר הוא יותקן:">
-<!ENTITY incompatible.suffix "עדכוני &brandShortName; כוללים שיפורי אבטחה חשובים. עבור ההגנה שלך, מומלץ ביותר שתעדכן את &brandShortName; אפילו אם כמה מההרחבות וערכות הנושא שלך לא יהיו תואמות.
-">
-<!ENTITY incompatible.title "פריטים לא מתאימים">
-<!ENTITY incompatible.update "&brandShortName; יבדוק מדי פעם לעדכונים עבורם במקרה 
-                                     שגרסה תואמת תהיה זמינה.">

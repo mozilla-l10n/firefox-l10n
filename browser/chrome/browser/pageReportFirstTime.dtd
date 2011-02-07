@@ -1,7 +1,0 @@
-<!ENTITY startDescriptionText.label        "אתר כלשהו ניסה לפתוח חלון קופץ בלי לקבל את רשותך. &brandShortName; סגר את החלון הקופץ באופן אוטומטי.">
-
-<!ENTITY endDescription.label              "אתה יכול ללחוץ על צלמית זו כדי לראות אלו אתרים &brandShortName; חסם ולאפשר את פתיחת החלונות הקופצים אם הם נדרשים לאתר כדי לעבוד בצורה תקינה.">
-
-<!ENTITY caption.label                     "אודות חסימת חלונות קופצים">
-
-<!ENTITY done.label "סיום">
