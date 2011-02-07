@@ -69,10 +69,9 @@
 <!-- Existing Account Page 1: Login -->
 <!ENTITY setup.signInPage.title.label "ลงชื่อเข้าใช้">
 <!ENTITY resetPassword.label          "ล้างรหัสผ่าน">
-<!ENTITY connecting.label             "กำลังเชื่อมต่อ…">
+<!ENTITY resetSyncKey.label           "ฉันทำอุปกรณ์อื่นหาย">
 
 <!-- Existing Account Page 2: Sync Key -->
-<!ENTITY lostSyncKey.label            "ฉันทำกุญแจ Sync หาย">
 <!ENTITY existingSyncKey.description  "คุณสามารถหาสำเนากุญแจ Sync ของคุณได้โดยไปที่ตัวเลือก &syncBrand.shortName.label; บนอุปกรณ์อื่นของคุณ แล้วเลือก &#x0022;กุญแจ Sync ของฉัน&#x0022; ในส่วน &#x0022;จัดการบัญชีผู้ใช้&#x0022;.">
 <!ENTITY verifying.label              "กำลังตรวจสอบ…">
 
