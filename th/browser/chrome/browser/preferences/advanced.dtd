@@ -49,12 +49,12 @@
 
   &limitCacheSizeBefore.label [textbox for cache size in MB] &limitCacheSizeAfter.label;
 -->
-<!ENTITY limitCacheSizeBefore.label      "จำกัดแคลไว้ที่">
+<!ENTITY limitCacheSizeBefore.label      "จำกัดแคชไว้ที่">
 <!ENTITY limitCacheSizeBefore.accesskey  "จ">
 <!ENTITY limitCacheSizeAfter.label       "MB">
 <!ENTITY clearCacheNow.label "ล้างเดี๋ยวนี้">
 <!ENTITY clearCacheNow.accesskey "ล">
-<!ENTITY overrideSmartCacheSize.label    "ใช้แทนการจัดการแคลอัตโนมัติ">
+<!ENTITY overrideSmartCacheSize.label    "ใช้แทนการจัดการแคชอัตโนมัติ">
 <!ENTITY overrideSmartCacheSize.accesskey "ท">
 
 <!ENTITY updateTab.label "ปรับปรุง">
