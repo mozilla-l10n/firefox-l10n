@@ -13,9 +13,6 @@
 
 <!ENTITY abouthome.searchEngineButton.label "Traži">
 
-<!ENTITY abouthome.searchEngineLinks.advanced "Napredna pretraga">
-<!ENTITY abouthome.searchEngineLinks.preferences "Postavke">
-
 <!ENTITY abouthome.aboutMozilla "O Mozilli">
 
 <!-- LOCALIZATION NOTE (abouthome.defaultSnippet1.v1):
