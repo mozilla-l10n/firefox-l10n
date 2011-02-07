@@ -13,9 +13,6 @@
 
 <!ENTITY abouthome.searchEngineButton.label "Serĉi">
 
-<!ENTITY abouthome.searchEngineLinks.advanced "Sperta serĉado">
-<!ENTITY abouthome.searchEngineLinks.preferences "Preferoj">
-
 <!ENTITY abouthome.aboutMozilla "Pri Mozilla">
 
 <!-- LOCALIZATION NOTE (abouthome.defaultSnippet1.v1):
