@@ -97,32 +97,25 @@
 <div class="contentsBox">W&nbsp;tym rozdziale:
   <ul>
     <li><a href="#managing_certificates_that_identify_you">Zarządzanie własnymi certyfikatami</a></li>
-    <li><a href="#managing_certificates_that_identify_others">Zarządzanie certyfikatami osób trzecich</a></li>
-    <li><a href="#managing_certificates_that_identify_websites">Zarządzanie certyfikatami serwerów WWW</a></li>
+    <li><a href="#managing_certificates_that_identify_people">Zarządzanie certyfikatami innych osób</a></li>
+    <li><a href="#managing_certificates_that_identify_servers">Zarządzanie certyfikatami serwerów</a></li>
+    <li><a href="#managing_certificates_that_identify_websites">Zarządzanie certyfikatami witryn</a></li>
     <li><a href="#managing_certificates_that_identify_certificate_authorities">Zarządzanie certyfikatami organów certyfikacji</a></li>
+    <li><a href="#managing_certificates_that_identify_others">Zarządzanie innymi certyfikatami</a></li>
   </ul>
 </div>
 
 <h2 id="managing_certificates_that_identify_you">Zarządzanie własnymi certyfikatami</h2>
 
-<p>Na górze okna dialogowego Menedżera certyfikatów można zauważyć kilka kart. Pierwsza z&nbsp;nich (widoczna domyślnie po otwarciu Menedżera) jest nazwana Twoje certyfikaty i&nbsp;po jej wybraniu w&nbsp;oknie dialogowym poniżej pokazywane są certyfikaty, które udostępnia przeglądarka w&nbsp;celu identyfikacji bieżącego użytkownika. Certyfikaty te są umieszczone poniżej nazw organizacji, które je wydały.</p>
+<p>Na górze okna dialogowego Menedżera certyfikatów można zauważyć kilka kart. Pierwsza z&nbsp;nich (widoczna domyślnie po otwarciu Menedżera) jest nazwana Twoje certyfikaty i&nbsp;po jej wybraniu w&nbsp;oknie dialogowym poniżej pokazywane są certyfikaty, które udostępnia przeglądarka lub klient poczty w&nbsp;celu identyfikacji bieżącego użytkownika. Certyfikaty te są umieszczone poniżej nazw organizacji, które je wydały.</p>
 
-<p>Aby wykonać jedną z&nbsp;niżej podanych czynności związanych z&nbsp;jednym lub wieloma certyfikatami, należy zaznaczyć dany certyfikat (lub przy pomocy jednoczesnego kliknięcia <span class="noMac">lewym</span> klawiszem myszy i&nbsp;przytrzymania klawisza <kbd class="mac">Cmd</kbd><kbd class="noMac">Ctrl</kbd> zaznaczyć ich większą ilość), a&nbsp;następnie nacisnąć przycisk Wyświetl, Kopia zapasowa lub Usuń. Naciśnięcie każdego z&nbsp;nich wywołuje kolejne okno dialogowe, pozwalające na dokończenie wybranej czynności. Więcej informacji o&nbsp;używaniu danego okna dialogowego jest dostępne po naciśnięciu przycisku Pomoc.</p>
+<p>Aby wykonać jedną z&nbsp;czynności związanych z&nbsp;jednym lub wieloma certyfikatami, należy zaznaczyć dany certyfikat (lub przy pomocy jednoczesnego kliknięcia <span class="noMac">lewym</span> klawiszem myszy i&nbsp;przytrzymania klawisza <kbd class="mac">Cmd</kbd><kbd class="noMac">Ctrl</kbd> zaznaczyć ich większą ilość), a&nbsp;następnie nacisnąć jeden z przycisków dostępnych na dole okna Menedżera certyfikatów. Naciśnięcie każdego z&nbsp;nich wywołuje kolejne okno dialogowe, pozwalające na dokończenie wybranej czynności. Więcej informacji o&nbsp;używaniu danego okna dialogowego jest dostępne po naciśnięciu przycisku Pomoc.</p>
 
-<p>Poniższe przyciski nie wymagają zaznaczania żadnego certyfikatu. Przy ich pomocy można wykonać następujące czynności:</p>
-
-<ul>
-  <li><strong>Importuj</strong>: Rozpoczęcie procesu importowania jednego lub więcej certyfikatów z&nbsp;pliku kopii zapasowej, lub w&nbsp;celu przeniesienia certyfikatów pomiędzy komputerami.</li>
-  <li><strong>Wykonaj kopię zapasową</strong>: Rozpoczęcie procesu zachowywania wszystkich własnych certyfikatów przechowywanych w&nbsp;<a href="glossary.xhtml#software_security_device">programowym urządzeniu zabezpieczającym</a>.</li>
-</ul>
-
-<p><strong>Ważne</strong>: Nie można wykonywać kopii zapasowej certyfikatów przechowywanych na kartach inteligentnych. Pomimo zaznaczenia certyfikatów i&nbsp;naciśnięcia przycisku Kopia zapasowa lub Wykonaj kopię zapasową wynikowy plik kopii nie będzie zawierał certyfikatów przechowywanych na kartach inteligentnych lub innych zewnętrznych urządzeniach zabezpieczających. Wykonywanie kopii zapasowej jest możliwe tylko w&nbsp;przypadku certyfikatów przechowywanych we wbudowanym urządzeniu zabezpieczającym.</p>
-
-<p>Więcej informacji o&nbsp;powyższych czynnościach w&nbsp;rozdziale <a href="certs_help.xhtml#your_certificates">Twoje certyfikaty</a>.</p>
+<p>Więcej informacji o&nbsp;przeglądaniu i zarządzaniu certyfikatami w&nbsp;rozdziale <a href="certs_help.xhtml#your_certificates">Twoje certyfikaty</a>.</p>
 
 <p>[<a href="#managing_certificates">Na początek rozdziału</a>]</p>
 
-<h2 id="managing_certificates_that_identify_others">Zarządzanie certyfikatami osób trzecich</h2>
+<h2 id="managing_certificates_that_identify_people">Zarządzanie certyfikatami innych osób</h2>
 
 <p>Przy tworzeniu wiadomości poczty elektronicznej autor ma możliwość dołączenia do niej swojego podpisu cyfrowego. <a href="glossary.xhtml#digital_signature">Podpis cyfrowy</a> umożliwia odbiorcom wiadomości weryfikację oryginalności jej pochodzenia (czy faktycznie pochodzi od nadawcy widniejącego w&nbsp;polu Od: i&nbsp;czy nie została zafałszowana po drodze od nadawcy do odbiorcy).</p>
 
@@ -130,28 +123,25 @@
 
 <p>Jednym z&nbsp;najprostszych sposobów uzyskania części publicznej certyfikatu osoby trzeciej jest otrzymanie od niej wiadomości podpisanej cyfrowo. Menedżer certyfikatów automatycznie zachowuje certyfikaty osób trzecich otrzymane w&nbsp;ten sposób.</p>
 
-<p>Aby zobaczyć posiadane certyfikaty identyfikujące osoby trzecie, należy otworzyć kartę Inne osoby w&nbsp;oknie Menedżera certyfikatów. Użytkownik może wysyłać zaszyfrowane wiadomości poczty elektronicznej do każdej osoby, której ważny certyfikat posiada. Certyfikaty są umieszczone poniżej nazw organizacji, które je wydały.</p>
+<p>Aby zobaczyć posiadane certyfikaty identyfikujące inne osoby, należy otworzyć kartę Inne osoby w&nbsp;oknie Menedżera certyfikatów. Użytkownik może wysyłać zaszyfrowane wiadomości poczty elektronicznej do każdej osoby, której ważny certyfikat posiada. Certyfikaty są umieszczone poniżej nazw organizacji, które je wydały.</p>
 
-<p>Aby wykonać jedną z&nbsp;niżej podanych czynności związanych z&nbsp;jednym lub wieloma certyfikatami, należy zaznaczyć dany certyfikat (lub przy pomocy jednoczesnego kliknięcia <span class="noMac">lewym</span> klawiszem myszy i&nbsp;przytrzymania klawisza <kbd class="mac">Cmd</kbd><kbd class="noMac">Ctrl</kbd> zaznaczyć ich większą ilość), a&nbsp;następnie nacisnąć przycisk Wyświetl lub Usuń. Naciśnięcie każdego z&nbsp;nich wywołuje kolejne okno dialogowe pozwalające na dokończenie wybranej czynności. Więcej informacji o&nbsp;używaniu danego okna jest dostępnych po naciśnięciu przycisku Pomoc.</p>
+<p>Aby wykonać jedną z&nbsp; czynności związanych z&nbsp;jednym lub wieloma certyfikatami, należy zaznaczyć dany certyfikat (lub przy pomocy jednoczesnego kliknięcia <span class="noMac">lewym</span> klawiszem myszy i&nbsp;przytrzymania klawisza <kbd class="mac">Cmd</kbd><kbd class="noMac">Ctrl</kbd> zaznaczyć ich większą ilość), a&nbsp;następnie nacisnąć jeden z przycisków dostępnych na dole okna Menedżera certyfikatów. Naciśnięcie każdego z&nbsp;nich wywołuje kolejne okno dialogowe pozwalające na dokończenie wybranej czynności. Więcej informacji o&nbsp;używaniu danego okna jest dostępnych po naciśnięciu przycisku Pomoc.</p>
 
-<p>Więcej informacji o&nbsp;powyższych czynnościach w&nbsp;rozdziale <a href="certs_help.xhtml#other_peoples_certificates">Inne osoby</a>.</p>
+<p>Więcej informacji o&nbsp;przeglądaniu i zarządzaniu tymi certyfikatami w&nbsp;rozdziale <a href="certs_help.xhtml#people">Inne osoby</a>.</p>
 
 <p>[<a href="#managing_certificates">Na początek rozdziału</a>]</p>
 
-<h2 id="managing_certificates_that_identify_websites">Zarządzanie certyfikatami serwerów WWW</h2>
+<h2 id="managing_certificates_that_identify_servers">Zarządzanie certyfikatami serwerów</h2>
 
-<p>Niektóre serwery WWW&nbsp;używają certyfikatów w&nbsp;celach potwierdzania własnej tożsamości. Takie potwierdzenie jest wymagane przed rozpoczęciem szyfrowania informacji przesyłanych ze strony WWW&nbsp;do komputera (lub w&nbsp;odwrotną stronę) i&nbsp;uniemożliwia tym samym odczyt danych w&nbsp;trakcie ich przesyłania.</p>
+<p>Niektóre witryny i&nbsp;serwery pocztowe używają certyfikatów w&nbsp;celach potwierdzania własnej tożsamości. Takie potwierdzenie jest wymagane przed rozpoczęciem szyfrowania informacji przesyłanych z&nbsp;serwera do komputera (lub w&nbsp;odwrotną stronę) i&nbsp;uniemożliwia tym samym odczyt danych w&nbsp;trakcie ich przesyłania.</p>
 
-<p>Jeżeli adres URL strony WWW&nbsp;zaczyna się od <tt>https://</tt>, posiada ona certyfikat. Jeżeli użytkownik odwiedzi taką stronę, a&nbsp;jej certyfikat został wydany przez organ certyfikacji, którego Menedżer certyfikatów nie posiada w&nbsp;swojej bazie, lub organ nie jest zaufany, przeglądarka wyświetli zapytanie o&nbsp;chęć zaakceptowania certyfikatu strony. Po akceptacji certyfikatu Menedżer certyfikatów doda go do swojej bazy certyfikatów serwerów WWW.</p>
+<p>Jeżeli adres URL witryny zaczyna się od <tt>https://</tt>, posiada ona certyfikat. Jeżeli użytkownik odwiedzi taką stronę, a&nbsp;jej certyfikat został wydany przez organ certyfikacji, którego Menedżer certyfikatów nie posiada w&nbsp;swojej bazie, lub organ nie jest zaufany, przeglądarka wyświetli zapytanie o&nbsp;chęć zaakceptowania certyfikatu strony. Po akceptacji certyfikatu Menedżer certyfikatów doda go do swojej bazy certyfikatów witryn.</p>
 
-<p>Aby zobaczyć wszystkie posiadane certyfikaty serwerów WWW, należy otworzyć kartę Serwery WWW&nbsp;w&nbsp;oknie Menedżera certyfikatów.</p>
+<p>Aby zobaczyć wszystkie posiadane certyfikaty witryn, należy otworzyć kartę Serwery w&nbsp;oknie Menedżera certyfikatów.</p>
 
-<p>Aby wykonać jedną z&nbsp;niżej podanych czynności związanych z&nbsp;jednym lub wieloma certyfikatami, należy zaznaczyć dany certyfikat (lub przy pomocy jednoczesnego kliknięcia <span class="noMac">lewym</span> klawiszem myszy i&nbsp;przytrzymania klawisza <kbd>Shift</kbd> zaznaczyć ich większą ilość), a&nbsp;następnie nacisnąć przycisk Wyświetl, Edytuj lub Usuń. Naciśnięcie każdego z&nbsp;nich wywołuje kolejne okno dialogowe pozwalające na dokończenie wybranej czynności</p>
+<p>Aby wykonać jedną z&nbsp; czynności związanych z&nbsp;jednym lub wieloma certyfikatami, należy zaznaczyć dany certyfikat (lub przy pomocy jednoczesnego kliknięcia <span class="noMac">lewym</span> klawiszem myszy i&nbsp;przytrzymania klawisza <kbd class="mac">Cmd</kbd><kbd class="noMac">Ctrl</kbd> zaznaczyć ich większą ilość), a&nbsp;następnie nacisnąć jeden z przycisków dostępnych na dole okna Menedżera certyfikatów. Naciśnięcie każdego z&nbsp;nich wywołuje kolejne okno dialogowe pozwalające na dokończenie wybranej czynności. Więcej informacji o&nbsp;używaniu danego okna jest dostępnych po naciśnięciu przycisku Pomoc.</p>
 
-<p>Przycisk Edytuj pozwala na określenie, czy przeglądarka będzie w&nbsp;przyszłości traktować certyfikat serwera jako zaufany.</p>
-
-<p>Więcej informacji o&nbsp;powyższych czynnościach w&nbsp;rozdziale <a href="certs_help.xhtml#web_site_certificates">Serwery WWW</a>.
-</p>
+<p>Więcej informacji o&nbsp;przeglądaniu i zarządzaniu tymi certyfikatami w&nbsp;rozdziale <a href="certs_help.xhtml#servers">Serwery</a>.</p>
 
 <p>[<a href="#managing_certificates">Na początek rozdziału</a>]</p>
 
@@ -163,11 +153,17 @@
 
 <p>Aby zobaczyć wszystkie posiadane certyfikaty organów certyfikacji, należy wyświetlić zawartość karty Organy certyfikacji w&nbsp;oknie Menedżera certyfikatów.</p>
 
-<p>Aby wykonać jedną z&nbsp;niżej podanych czynności związanych z&nbsp;jednym lub wieloma certyfikatami, należy zaznaczyć dany certyfikat (lub przy pomocy jednoczesnego kliknięcia <span class="noMac">lewym</span> klawiszem myszy i&nbsp;przytrzymania klawisza <kbd class="mac">Cmd</kbd><kbd class="noMac">Ctrl</kbd> zaznaczyć ich większą ilość), a&nbsp;następnie nacisnąć przycisk Wyświetl, Edytuj lub Usuń. Naciśnięcie każdego z&nbsp;nich wywołuje kolejne okno dialogowe pozwalające na dokończenie wybranej czynności. Więcej informacji o&nbsp;używaniu danego okna jest dostępnych po naciśnięciu przycisku Pomoc.</p>
+<p>Aby wykonać jedną z&nbsp; czynności związanych z&nbsp;jednym lub wieloma certyfikatami, należy zaznaczyć dany certyfikat (lub przy pomocy jednoczesnego kliknięcia <span class="noMac">lewym</span> klawiszem myszy i&nbsp;przytrzymania klawisza <kbd class="mac">Cmd</kbd><kbd class="noMac">Ctrl</kbd> zaznaczyć ich większą ilość), a&nbsp;następnie nacisnąć jeden z przycisków dostępnych na dole okna Menedżera certyfikatów. Naciśnięcie każdego z&nbsp;nich wywołuje kolejne okno dialogowe pozwalające na dokończenie wybranej czynności. Więcej informacji o&nbsp;używaniu danego okna jest dostępnych po naciśnięciu przycisku Pomoc.</p>
 
-<p>Przycisk Edytuj zezwala na podgląd i&nbsp;kontrolę ustawień zaufania dla każdego z&nbsp;certyfikatów. Ustawienia zaufania certyfikatów organu umożliwiają określenie, jakie rodzaje certyfikatów wydawanych przez dany organ będą traktowane przez przeglądarkę jako godne zaufania.</p>
+<p>Więcej informacji o&nbsp;przeglądaniu i zarządzaniu tymi certyfikatami w&nbsp;rozdziale <a href="certs_help.xhtml#authorities">Organy certyfikacji</a>.</p>
 
-<p>Więcej informacji w&nbsp;rozdziale <a href="certs_help.xhtml#authorities">Organy certyfikacji</a>.</p>
+<p>[<a href="#managing_certificates">Na początek rozdziału</a>]</p>
+
+<h2 id="managing_certificates_that_identify_others">Zarządzanie innymi certyfikatami</h2>
+
+<p>Aby zobaczyć wszystkie certyfikaty które nie pasują do żadnej z pozostałych kategorii, należy wyświetlić zawartość karty Inne w&nbsp;oknie Menedżera certyfikatów.</p>
+
+<p>Więcej informacji o&nbsp;przeglądaniu i zarządzaniu tymi certyfikatami w&nbsp;rozdziale <a href="certs_help.xhtml#others">Inne</a>.</p>
 
 <p>[<a href="#managing_certificates">Na początek rozdziału</a>]</p>
 

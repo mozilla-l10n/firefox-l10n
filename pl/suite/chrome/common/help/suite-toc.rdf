@@ -122,14 +122,6 @@ nc:link="nav_help.xhtml#plugins_and_downloads"/> </rdf:li>
     </nc:subheadings>
   </rdf:Description>
 
-  <rdf:Description about="#nav-proxies">
-    <nc:subheadings>
-      <rdf:Seq>
-        <rdf:li> <rdf:Description ID="nav-prox" nc:name="Konfiguracja serwerów proxy" nc:link="nav_help.xhtml#setting_proxy_values"/> </rdf:li>
-      </rdf:Seq>
-    </nc:subheadings>
-  </rdf:Description>
-
   <rdf:Description about="#nav-page-info">
     <nc:subheadings>
       <rdf:Seq>
@@ -917,7 +909,6 @@ nc:link="nav_help.xhtml#plugins_and_downloads"/> </rdf:li>
 <rdf:Description about="#using-priv-help-encrypt">
     <nc:subheadings>
       <rdf:Seq>
-        <rdf:li><rdf:Description ID="using-priv-help-encrypt-on" nc:name="Włączanie i wyłączanie szyfrowania poufnych danych" nc:link="using_priv_help.xhtml#turning_encryption_on_and_off"/> </rdf:li>
         <rdf:li><rdf:Description ID="using-priv-help-encrypt-master" nc:name="Ustawianie głównego hasła" nc:link="using_priv_help.xhtml#setting_a_master_password"/> </rdf:li>
         <rdf:li><rdf:Description ID="using-priv-help-encrypt-change" nc:name="Zmiana głównego hasła" nc:link="using_priv_help.xhtml#changing_your_master_password"/> </rdf:li>
         <rdf:li><rdf:Description ID="using-priv-help-encrypt-logout" nc:name="Wylogowywanie z głównego hasła" nc:link="using_priv_help.xhtml#logging_out_of_your_master_password"/> </rdf:li>

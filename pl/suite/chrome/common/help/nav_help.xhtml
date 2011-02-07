@@ -294,7 +294,7 @@
 
 <p>Uwaga: Podczas wyszukiwania przy pomocy Paska adresu możliwe jest skorzystanie z&nbsp;<a href="#using_internet_keywords">Internetowych słów kluczowych</a>.</p>
 
-<p><strong>Uwaga</strong>: W&nbsp;sekcji <q>Nieznane adresy</q> <a href="cs_nav_prefs_navigator.xhtml#location_bar">preferencji paska adresu</a> można włączyć opcję, która powoduje automatyczne wyszukiwanie, jeśli wpisany tekst nie jest adresem w&nbsp;sieci internet. Wprowadzenie tekstu w&nbsp;pasku adresu i&nbsp;naciśnięcie klawisza <kbd class="noMac">Enter</kbd><kbd class="mac">Return</kbd> uruchomi wyszukiwanie. Szerszy opis techniczny w&nbsp;dokumencie <a href="http://www.mozilla.org/docs/end-user/internet-keywords.html">Internet Keywords</a>, z&nbsp;angielskiego: internetowe słowa kluczowe.</p>
+<p><strong>Uwaga</strong>: W&nbsp;sekcji <q>Nieznane adresy</q> <a href="cs_nav_prefs_navigator.xhtml#location_bar">preferencji paska adresu</a> można włączyć opcję, która powoduje automatyczne wyszukiwanie, jeśli wpisany tekst nie jest adresem w&nbsp;sieci internet. Wprowadzenie tekstu w&nbsp;pasku adresu i&nbsp;naciśnięcie klawisza <kbd class="noMac">Enter</kbd><kbd class="mac">Return</kbd> uruchomi wyszukiwanie.</p>
 
 <h3 id="searching_from_sidebar">Wyszukiwanie w&nbsp;panelu bocznym</h3>
 
@@ -404,10 +404,10 @@
     <ul>
       <li><strong>Uwzględniaj wielkość liter</strong>: tekst wyszukiwany będzie z&nbsp;uwzględnieniem dużych i&nbsp;małych liter (dokładnie tak, jak został wpisany).</li>
       <li><strong>W&nbsp;całym dokumencie</strong>: tekst wyszukiwany będzie od miejsca bieżącego położenia kursora do końca strony, a&nbsp;następnie od początku strony do kursora. Normalnie tekst wyszukiwany jest wyłącznie od miejsca bieżącego położenia kursora do końca strony.</li>
-      <li><strong>Szukaj wstecz</strong>: tekst będzie wyszukiwany od miejsca bieżącego położenia kursora do początku strony.</li>
+      <li><strong>Kierunek</strong>: Wybierając W górę, tekst będzie wyszukiwany od miejsca bieżącego położenia kursora do początku strony. Domyślne wyszukiwanie jest W dół.</li>
     </ul>
   </li>
-  <li>Nacisnąć przycisk Znajdź, aby rozpocząć wyszukiwanie.</li>
+  <li>Nacisnąć przycisk Znajdź następny, aby rozpocząć wyszukiwanie.</li>
 </ol>
 
 <p>Aby poszukać tego samego tekstu ponownie, należy:</p>
@@ -466,17 +466,9 @@
 
 <ol>
   <li>Z&nbsp;menu Przejdź wybrać Historia. Wyświetlone zostanie okno Historia z&nbsp;listą odwiedzonych stron.</li>
-  <li>W&nbsp;oknie Historia z&nbsp;menu Narzędzia wybrać Szukaj w&nbsp;Historii. Wyświetlone zostanie okno dialogowe Znajdź w&nbsp;historii.</li>
-  <li>Sprecyzować opcje wyszukiwania za pomocą list rozwijalnych. Dostępne są następujące opcje:
-    <ul>
-      <li>Wybrać <q>tytuł</q> lub <q>adres</q> w&nbsp;zależności od tego w&nbsp;czym ma być przeprowadzone wyszukiwanie.</li>
-      <li>Wybrać <q>zawiera</q>, <q>zaczyna się od</q> lub <q>kończy się na</q> jeżeli znany jest tylko fragment szukanego słowa lub frazy.</li>
-      <li>Wybrać <q>jest</q> jeżeli znane jest całe szukane słowo lub fraza.</li>
-      <li>Wybrać <q>nie jest</q> lub <q>nie zawiera</q>, aby wykluczyć strony zawierające podane słowo lub frazę.</li>
-      <li>Wprowadzić adres strony (lub jego część), do wyszukania w&nbsp;Zakładkach lub Historii, lub wykluczenia z&nbsp;wyników wyszukiwania.</li>
-    </ul>
-  </li>
-  <li>Nacisnąć przycisk Znajdź. Lista odwiedzonych stron spełniających wprowadzone kryteria wyszukiwania zostanie wyświetlona w&nbsp;oknie dialogowym Wyniki Wyszukiwania.</li>
+  <li>Powyżej tej listy znajduje się pole tekstowe zatytułowane <q>Szukaj w historii</q>.</li>
+  <li>Należy nacisnąć to pole tekstowe i następnie wprowadzić (część) poszukiwanego adresu URL bądź tytułu strony.</li>
+  <li>Lista jest filtrowana podczas wprowadzania.</li>
 </ol>
 
 <p>Aby otworzyć jedną ze znalezionych stron, należy:</p>
@@ -489,7 +481,6 @@
 
 <ul>
   <li>Aby szybko otworzyć okno Historia z&nbsp;listą odwiedzonych stron, należy nacisnąć klawisze <kbd class="mac">Cmd</kbd><kbd class="noMac">Ctrl</kbd>+<kbd>H</kbd>.</li>
-  <li>Jeżeli lista jest trudna do odczytania, można rozszerzyć okno wyników wyszukiwania.</li>
 </ul>
 
 <p>[<a href="#searching_the_web">Na początek rozdziału</a>]</p>
@@ -707,7 +698,7 @@
 <p>Aby zmienić sposób kodowania wyświetlanej strony, należy w&nbsp;przeglądarce:</p>
 
 <ol>
-  <li>Z&nbsp;menu Widok wybrać Kodowanie znaków, a&nbsp;następnie Więcej.</li>
+  <li>Z&nbsp;menu Widok wybrać Zestaw znaków, a&nbsp;następnie Więcej.</li>
   <li>Wybrać region z&nbsp;głównego podmenu dostępnych sposobów kodowania znaków.</li>
   <li>Wybrać kodowanie konkretnego języka danego regionu. Powtórzyć kroki 1-3, w&nbsp;przypadku gdy konieczna jest dalsza zmiana kodowania.</li>
 </ol>
@@ -716,22 +707,24 @@
 
 <p>Wybrana strona kodowa zostanie dodana do podręcznego menu stron kodowych, skąd będzie można ją wybrać, bez konieczności otwierania podmenu regionalnego. W&nbsp;przypadku, gdy w&nbsp;podręcznym menu znajduje się więcej niż jedna metoda kodowania znaków, aktywne kodowanie będzie oznaczone ikoną kropki.</p>
 
+<p>Jeżeli oglądana witryna zawiera błędne znaki we wszystkich domyślnych zestawach znaków, jest możliwe, że wymaga ona specjalnych czcionek. Tego typu witryny powinny zawierać instrukcje jak pobrać i/lib używać czcionek wymaganych do prawidłowego przeglądania witryny. Jeżeli wymagane czcionki są obecnie zainstalowane w systemie, należy wybrać Użytkownika z podmenu Więcej. Program &brandShortName; będzie wtedy korzystał z czcionek zdefiniowanych w <a href="cs_nav_prefs_appearance.xhtml#fonts">Preferencjach czcionek</a> Czcionki dla: Użytkownika).</p>
+
 <p>&brandShortName; posiada wbudowany mechanizm automatycznego rozpoznawania i&nbsp;zmieniania strony kodowej dokumentu, tak aby poszczególne dokumenty były wyświetlane poprawnie. Aby włączyć ten mechanizm, należy w&nbsp;przegladarce:</p>
 
 <ol>
-  <li>Z&nbsp;menu Widok wybrać Kodowanie znaków, a&nbsp;następnie Wybór automatyczny.</li>
+  <li>Z&nbsp;menu Widok wybrać Zestaw znaków, a&nbsp;następnie Wybór automatyczny.</li>
   <li>Wybrać jeden z&nbsp;dostępnych języków lub wyłączyć automatyczną detekcję zaznaczając (Wyłączony).</li>
 </ol>
 
 <p>Aby zmienić listę aktywnych stron kodowych, należy wykonać następujące czynności:</p>
 
 <ol>
-  <li>Z&nbsp;menu Widok wybrać Kodowanie znaków, a&nbsp;następnie Dostosuj. Wyświetlone zostanie okno dialogowe Ustawienia kodowania znaków.</li>
+  <li>Z&nbsp;menu Widok wybrać Zestaw znaków, a&nbsp;następnie Dostosuj listę... . Wyświetlone zostanie okno dialogowe Ustawienia kodowania znaków.</li>
   <li>Wykonać jedną z&nbsp;poniższych czynności:
     <ul>
       <li>Aby dodać wybraną stronę kodową do listy używanych zestawów znaków (aktywnych stron kodowych), należy wybrać zestaw znaków z&nbsp;listy po lewej stronie, a&nbsp;następnie nacisnąć przycisk Dodaj.</li>
       <li>Aby usunąć wybraną stronę kodową z&nbsp;listy używanych zestawów znaków (aktywnych stron kodowych), należy wybrać zestaw znaków z&nbsp;listy po prawej stronie, a&nbsp;następnie nacisnąć przycisk Usuń.</li>
-      <li>Aby zmienić kolejność, w&nbsp;której przeglądarka będzie próbowała dopasować kolejne zestawy znaków (strony kodowe) do wyświetlanego dokumentu, należy wybrać zestaw znaków z&nbsp;listy po prawej stronie, a&nbsp;następnie użyć odpowiednich przycisków (Przenieś w&nbsp;górę, Przenieś w&nbsp;dół), znajdujących się po prawej stronie okna.</li>
+      <li>Aby zmienić kolejność, w&nbsp;której przeglądarka będzie próbowała dopasować kolejne zestawy znaków (strony kodowe) do wyświetlanego dokumentu, należy wybrać zestaw znaków z&nbsp;listy po prawej stronie, a&nbsp;następnie użyć przycisków W&nbsp;górę i W&nbsp;dół, znajdujących się po prawej stronie okna.</li>
     </ul>
   </li>
 </ol>
@@ -802,6 +795,10 @@
 
 <ul>
   <li>Z&nbsp;menu Pomoc wybrać O&nbsp;wtyczkach.</li>
+  <li>Z&nbsp;menu Narzędzia wybrać Dodatki o następnie sekcję Wtyczki.
+    
+    <p><strong>Porada</strong>: Aby dowiedzieć się więcej o menedżerze dodatków i jego funkcjach należy udać się do sekcji <a href="customize_help.xhtml#using_the_add-on_manager">Używanie menedżera dodatków</a>.</p>
+  </li>
   <li>W&nbsp;pasku adresu wprowadzić <kbd>about:plugins</kbd> i&nbsp;nacisnąć <kbd>Enter</kbd>.</li>
 </ul>
 
@@ -1012,52 +1009,11 @@
 
 <h1 id="proxies">Serwery proxy</h1>
 
-<div class="contentsBox">W&nbsp;tym rozdziale:
-  <ul>
-    <li><a href="#setting_proxy_values">Konfiguracja serwerów proxy</a></li>
-  </ul>
-</div>
-
-<p>Ten rozdział opisuje konfigurację serwerów proxy.</p>
-
-<h2 id="setting_proxy_values">Konfiguracja serwerów proxy</h2>
-
 <p>Wiele przedsiębiorstw i&nbsp;instytucji blokuje dostęp do lokalnych komputerów z&nbsp;sieci Internet za pomocą specjalnych rozwiązań sprzętowo-programowych. Zabezpiecza to przed wydostawaniem się poufnych informacji na zewnątrz oraz sprzyja utrzymaniu wysokiego poziomu bezpieczeństwa sieci. Taki sposób ochrony danych nazywany jest firewallem, czyli zaporą ogniową.</p>
 
 <p>W&nbsp;przypadku, gdy sieć lokalna chroniona jest za pomocą zapory ogniowej, przeglądarka zamiast bezpośrednio łączyć się z&nbsp;Internetem korzysta ze specjalnego serwera proxy, który pośredniczy w&nbsp;przekazywaniu pakietów do i&nbsp;z&nbsp;sieci Internet.</p>
 
-<p>Przed rozpoczęciem konfiguracji połączenia z&nbsp;Internetem za pomocą serwera proxy, należy:</p>
-
-<ul>
-  <li>W&nbsp;przypadku automatycznej konfiguracji serwera proxy zapytać administratora o&nbsp;adres pliku automatycznej konfiguracji proxy.</li>
-  <li>W&nbsp;przypadku ręcznej konfiguracji serwera proxy zapytać administratora o&nbsp;nazwy i&nbsp;numery portów serwerów pełniących rolę proxy dla poszczególnych rodzajów usług sieciowych.</li>
-</ul>
-
-<p>Aby &brandShortName; korzystała z&nbsp;serwera proxy, należy:</p>
-
-<ol>
-  <li>Z&nbsp;menu <span class="noMac">Edycja</span> <span class="mac">&brandShortName;</span> wybrać Preferencje</li>
-  <li>W&nbsp;kategorii Zaawansowane wybrać Serwery proxy. (Jeśli podkategorie nie są widoczne, to aby rozwinąć listę, należy podwójnie kliknąć na Zaawansowane.)</li>
-  <li>Wybrać jedno z&nbsp;ustawień:
-    <ul>
-      <li><strong>Bezpośrednie połączenie z&nbsp;Internetem</strong>: Opcja powinna być używana w&nbsp;przypadku braku serwera proxy lub jeżeli użytkownik nie chce i&nbsp;nie musi używać serwera proxy.</li>
-      <li><strong>Automatycznie wykryj ustawienia proxy dla tej sieci</strong>: Należy wybrać tę opcję, jeżeli użytkownik chce aby &brandShortName; automatycznie wykryła i&nbsp;skonfigurowała parametry serwera proxy z&nbsp;użyciem <a href="glossary.xhtml#wpad">protokołu WPAD</a>.</li>
-      <li><strong>Automatyczna konfiguracja proxy (ścieżka do pliku .PAC)</strong>: Jeżeli na serwerze dostępny jest skrypt automatycznie konfigurujący połączenia proxy, należy zaznaczyć tę opcję, a&nbsp;następnie podać adres serwera oraz ścieżkę dostępu do pliku PAC (skryptu automatycznej konfiguracji połączeń proxy).</li>
-      <li><strong>Własna konfiguracja proxy</strong>: Należy zaznaczyć tę opcję w&nbsp;przypadku ręcznej konfiguracji serwerów proxy lub niepowodzenia automatycznego ustawienia konfiguracji serwera proxy, a&nbsp;następnie wprowadzić odpowiednio:
-        <ul>
-          <li><strong>Serwer proxy</strong>: Wprowadzić nazwę lub adres IP serwera proxy.</li>
-          <li><strong>Port</strong>: Wprowadzić numer portu serwera udostępniającego usługę.
-            Nacisnąć przycisk <q>Zaawansowane</q>, aby ustawić <a href="cs_nav_prefs_advanced.xhtml#advanced_proxy_preferences">Zaawansowane ustawienia proxy</a></li>
-          <li><strong>Nie używaj proxy dla</strong>: W&nbsp;przypadku ręcznej konfiguracji proxy, w&nbsp;tym polu można wprowadzić oddzieloną przecinkami listę domen i/lub adresów IP, przy połączeniu z&nbsp;którymi nie będzie używany serwer proxy, lecz zostanie nawiązane połączenie bezpośrednie. Na przykład, jeżeli wprowadzono <kbd>com.pl, mozillapl.org, 192.168.1.0/24</kbd>, przy nawiązywaniu połączeń z&nbsp;domenami com.pl oraz mozillapl.org i&nbsp;adresami IP z&nbsp;zakresu od 192.168.1.0 do 192.168.1.255 przeglądarka nie będzie używała serwera proxy.</li>
-        </ul>
-      </li>
-    </ul>
-  </li>
-</ol>
-
-<p>Nazwa domeny to część jej adresu internetowego (URL), która zawiera nazwę organizacji, firmy, albo szkoły — na przykład: netscape.com, agh.edu.pl, warszawa.pl itp. Możliwe jest również wprowadzanie wyłącznie nazw lokalnych hostów, bez konieczności wprowadzania nazwy domeny. Nazwy poszczególnych domen należy oddzielać przecinkami. Nie jest możliwe używanie metaznaków (*) zastępujących dowolny ciąg znaków.</p>
-
-<p>Więcej informacji dotyczących panelu preferencji Serwery proxy w&nbsp;rozdziale <a href="cs_nav_prefs_advanced.xhtml#proxies">Zaawansowane ustawienia proxy</a>.</p>
+<p>Informacje dotyczące panelu preferencji Serwery proxy można znaleźć w&nbsp;rozdziale <a href="cs_nav_prefs_advanced.xhtml#proxies">Zaawansowane ustawienia proxy</a>.</p>
 
 <p>[<a href="#proxies">Na początek rozdziału</a>]</p>
 
