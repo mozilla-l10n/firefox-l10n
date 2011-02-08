@@ -12,3 +12,5 @@
 <!ENTITY  crash_close_label "ਬੰਦ ਕਰੋ">
 <!ENTITY  crash_restart_label "&brandShortName; ਮੁੜ-ਚਾਲੂ ਕਰੋ">
 <!ENTITY  sending_crash_report "ਕਰੈਸ਼ ਰਿਪੋਰਟ ਭੇਜੀ ਜਾ ਰਹੀ ਹੈ\u2026">
+<!ENTITY  exit_label "ਬੰਦ ਕਰੋ">
+
