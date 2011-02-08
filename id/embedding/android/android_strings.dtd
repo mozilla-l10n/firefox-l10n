@@ -12,3 +12,4 @@
 <!ENTITY  crash_close_label "Tutup">
 <!ENTITY  crash_restart_label "Mulai ulang &brandShortName;">
 <!ENTITY  sending_crash_report "Mengirim laporan kerusakan\u2026">
+<!ENTITY  exit_label "Keluar">
