@@ -11,9 +11,6 @@
 
 <!ENTITY abouthome.searchEngineButton.label "Sykje">
 
-<!ENTITY abouthome.searchEngineLinks.advanced "Avansearre sykje">
-<!ENTITY abouthome.searchEngineLinks.preferences "Foarkarren">
-
 <!ENTITY abouthome.aboutMozilla "Oer Mozilla">
 
 <!-- LOCALIZATION NOTE (abouthome.defaultSnippet1.v1):
