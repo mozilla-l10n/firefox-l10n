@@ -68,11 +68,9 @@
 <!ENTITY choice2.server.main.label "Sostituisci i dati di tutti gli altri dispositivi con i dati del computer in uso">
 <!ENTITY setup.optionsConfirmPage.title "Conferma">
 <!ENTITY confirm.merge.label "Si è deciso di unire i dati di questo computer con i dati degli altri dispositivi connessi a &syncBrand.fullName.label;.">
-<!ENTITY confirm.client.label "Attenzione, i seguenti dati di &brandShortName; presenti su questo computer verranno eliminati:">
+<!ENTITY confirm.client2.label "Attenzione, i seguenti dati di &brandShortName; presenti su questo computer verranno eliminati:">
 <!ENTITY confirm.client.moreinfo.label "&brandShortName; copierà i propri dati da &syncBrand.fullName.label; su questo computer.">
-<!ENTITY confirm.client.warning.label "Attenzione, tutti i dati presenti sul computer in uso verranno sostituiti!">
-<!ENTITY confirm.server.label "Attenzione, i dati presenti sui seguenti dispositivi verranno sostituiti dai dati presenti in locale:">
-<!ENTITY confirm.server.warning.label "Attenzione, i dati presenti sul computer in uso sostituiranno tutti i dati di &brandShortName; su questi dispositivi!">
+<!ENTITY confirm.server2.label "Attenzione, i dati presenti sui seguenti dispositivi verranno sostituiti dai dati presenti in locale:">
 <!ENTITY setup.successPage.title "Configurazione completata">
 <!ENTITY changeOptions.label "È possibile modificare questa preferenza selezionando Opzioni di sincronizzazione.">
 <!ENTITY continueUsing.label "Adesso è possibile tornare a utilizzare &brandShortName;.">
