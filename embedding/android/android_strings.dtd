@@ -12,3 +12,4 @@
 <!ENTITY crash_close_label "Zavřít">
 <!ENTITY crash_restart_label "Restartovat &brandShortName;">
 <!ENTITY sending_crash_report "Odesílání hlášení o pádu\u2026">
+<!ENTITY exit_label "Ukončit">

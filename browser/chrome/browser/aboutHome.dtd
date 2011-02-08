@@ -11,9 +11,6 @@
 
 <!ENTITY abouthome.searchEngineButton.label "Hledat">
 
-<!ENTITY abouthome.searchEngineLinks.advanced "Rozšířené hledání">
-<!ENTITY abouthome.searchEngineLinks.preferences "Předvolby">
-
 <!ENTITY abouthome.aboutMozilla "O Mozille">
 
 <!-- LOCALIZATION NOTE (abouthome.defaultSnippet1.v1):
