@@ -12,3 +12,4 @@
 <!ENTITY  crash_close_label "Chiudi">
 <!ENTITY  crash_restart_label "Riavvia &brandShortName;">
 <!ENTITY  sending_crash_report "Invio segnalazione\u2026">
+<!ENTITY  exit_label "Esci">
