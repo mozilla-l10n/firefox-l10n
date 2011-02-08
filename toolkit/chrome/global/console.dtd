@@ -39,7 +39,7 @@
 
 <!ENTITY errFile.label   "Көзі:">
 <!ENTITY errLine.label   "Жол:">
-<!ENTITY errColumn.label "Бағана:">
+<!ENTITY errColumn.label "Баған:">
 
 <!ENTITY all.label          "Барлығы">
 <!ENTITY all.accesskey      "Б">

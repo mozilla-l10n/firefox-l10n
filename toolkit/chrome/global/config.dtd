@@ -55,7 +55,7 @@
 
 <!-- Tooltips -->
 <!ENTITY prefColumnHeader.tooltip "Сұрыптау үшін басыңыз"> 
-<!ENTITY columnChooser.tooltip "Көрсетілетін бағаналарды таңдау үшін басыңыз"> 
+<!ENTITY columnChooser.tooltip "Көрсетілетін бағандарды таңдау үшін басыңыз"> 
 
 <!-- Context Menu -->
 <!ENTITY copyPref.key "C">

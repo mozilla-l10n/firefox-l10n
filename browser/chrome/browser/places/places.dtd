@@ -16,7 +16,7 @@
 <!ENTITY views.label                    "Түрі">
 <!ENTITY views.accesskey                "р">
 <!ENTITY views.tooltip                  "Көрінісіңізді ауыстыру">
-<!ENTITY view.columns.label             "Бағаналарды көрсету">
+<!ENTITY view.columns.label             "Бағандарды көрсету">
 <!ENTITY view.columns.accesskey         "к">
 <!ENTITY view.sort.label                "Сұрыптау">
 <!ENTITY view.sort.accesskey            "С">
