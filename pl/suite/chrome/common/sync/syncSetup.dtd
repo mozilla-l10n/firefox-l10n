@@ -93,11 +93,9 @@
 <!-- Confirm Merge Options -->
 <!ENTITY setup.optionsConfirmPage.title "Potwierdzenie">
 <!ENTITY confirm.merge.label "&syncBrand.fullName.label; dołączy wszystkie dane przeglądarki z tego urządzenia do danych na twoim koncie Sync.">
-<!ENTITY confirm.client.label "Wszystkie dane programu &brandShortName; na tym urządzeniu zostaną usunięte, włącznie z:">
+<!ENTITY confirm.client2.label "Uwaga: z tego urządzenia zostaną usunięte następujące dane programu &brandShortName;:">
 <!ENTITY confirm.client.moreinfo.label "&brandShortName; skopiuje twoje dane z konta &syncBrand.fullName.label; na to urządzenie.">
-<!ENTITY confirm.client.warning.label "Uwaga: Wszystkie dane programu &brandShortName; na tym urządzeniu zostaną zastąpione!">
-<!ENTITY confirm.server.label "Uwaga: dane na następujących urządzeniach zostaną zastąpione danymi lokalnymi:">
-<!ENTITY confirm.server.warning.label "Uwaga: dane programu &brandShortName; na tych urządzeniach zostaną zastąpione danymi lokalnymi!">
+<!ENTITY confirm.server2.label "Uwaga: dane na następujących urządzeniach zostaną zastąpione danymi lokalnymi:">
 
 <!-- New & Existing Account: Setup Complete -->
 <!ENTITY setup.successPage.title "Konfiguracja zakończona">
