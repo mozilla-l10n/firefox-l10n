@@ -12,9 +12,6 @@
 
 <!ENTITY abouthome.searchEngineButton.label "অনুসন্ধান">
 
-<!ENTITY abouthome.searchEngineLinks.advanced "উচ্চ পর্যায়ের অনুসন্ধান">
-<!ENTITY abouthome.searchEngineLinks.preferences "পছন্দসমূহ">
-
 <!ENTITY abouthome.aboutMozilla "মোজিলা সম্পর্কিত">
 <!-- LOCALIZATION NOTE (abouthome.defaultSnippet1.v1):
      text in <a/> will be linked to the Firefox features page on mozilla.com
