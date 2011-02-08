@@ -13,9 +13,6 @@
 
 <!ENTITY abouthome.searchEngineButton.label "חיפוש">
 
-<!ENTITY abouthome.searchEngineLinks.advanced "חיפוש מתקדם">
-<!ENTITY abouthome.searchEngineLinks.preferences "העדפות">
-
 <!ENTITY abouthome.aboutMozilla "אודות Mozilla">
 
 <!-- LOCALIZATION NOTE (abouthome.defaultSnippet1.v1):

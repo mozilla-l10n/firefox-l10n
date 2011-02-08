@@ -33,7 +33,7 @@
 <!-- Device Settings -->
 <!ENTITY syncComputerName.label       "שם מחשב:">
 <!ENTITY syncComputerName.accesskey   "ש">
-<!ENTITY deactivateDevice.label       "Deactivate This Device">
+<!ENTITY deactivateDevice.label       "בטל את פעולת התקן זה">
 
 <!-- Footer stuff -->
 <!ENTITY prefs.tosLink.label        "לתנאי השירות">
