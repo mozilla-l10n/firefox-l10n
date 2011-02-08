@@ -8,7 +8,7 @@
 <!ENTITY homepage.label            "דף בית:">
 <!ENTITY homepage.accesskey        "ד">
 <!ENTITY useCurrentPage.label      "השתמש בדף הנוכחי">
-<!ENTITY useCurrentPage.accesskey  "ד">
+<!ENTITY useCurrentPage.accesskey  "נ">
 <!ENTITY useMultiple.label         "השתמש בדפים הנוכחיים">
 <!ENTITY useBookmark.label         "השתמש בסימנייה">
 <!ENTITY useBookmark.accesskey     "ס">
