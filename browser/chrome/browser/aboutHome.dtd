@@ -11,9 +11,6 @@
 
 <!ENTITY abouthome.searchEngineButton.label "ਖੋਜ">
 
-<!ENTITY abouthome.searchEngineLinks.advanced "ਤਕਨੀਕੀ ਖੋਜ">
-<!ENTITY abouthome.searchEngineLinks.preferences "ਮੇਰੀ ਪਸੰਦ">
-
 <!ENTITY abouthome.aboutMozilla "ਮੋਜ਼ੀਲਾ ਬਾਰੇ">
 
 <!-- LOCALIZATION NOTE (abouthome.defaultSnippet1.v1):
