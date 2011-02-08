@@ -12,3 +12,5 @@
 <!ENTITY  crash_close_label "Sluiten">
 <!ENTITY  crash_restart_label "&brandShortName; herstarten">
 <!ENTITY  sending_crash_report "Crashrapport verzenden\u2026">
+<!ENTITY  exit_label "Afsluiten">
+
