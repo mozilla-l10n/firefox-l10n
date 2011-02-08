@@ -11,12 +11,12 @@
 <!ENTITY  backgroundColor.label           "Pozadina:">
 <!ENTITY  backgroundColor.accesskey       "z">
 <!ENTITY  useSystemColors.label           "Koristi boje sustava">
-<!ENTITY  useSystemColors.accesskey       "s">
+<!ENTITY  useSystemColors.accesskey       "b">
 
 <!ENTITY  underlineLinks.label            "Podcrtaj poveznice">
-<!ENTITY  underlineLinks.accesskey        "o">
+<!ENTITY  underlineLinks.accesskey        "d">
 <!ENTITY  links                           "Boje poveznica">
 <!ENTITY  linkColor.label                 "Neposjećene poveznice:">
-<!ENTITY  linkColor.accesskey             "p">
+<!ENTITY  linkColor.accesskey             "e">
 <!ENTITY  visitedLinkColor.label          "Posjećene poveznice:">
 <!ENTITY  visitedLinkColor.accesskey      "s">

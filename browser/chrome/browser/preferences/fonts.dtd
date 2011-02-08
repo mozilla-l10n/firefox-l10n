@@ -11,7 +11,7 @@
 <!ENTITY  sizeMonospace.accesskey                 "e">
 
 <!ENTITY  proportional.label                      "Proporcionalno:">
-<!ENTITY  proportional.accesskey                  "P">
+<!ENTITY  proportional.accesskey                  "r">
 
 <!ENTITY  serif.label                             "Serif:">
 <!ENTITY  serif.accesskey                         "S">
@@ -54,7 +54,7 @@
 <!ENTITY  font.langGroup.tibetan                  "Tibetski">
 <!-- Minimum font size -->
 <!ENTITY minSize.label                            "Minimalna veličina fonta:">
-<!ENTITY minSize.accesskey                        "o">
+<!ENTITY minSize.accesskey                        "i">
 <!ENTITY minSize.none                             "Ništa">
 
 <!-- default font type -->
