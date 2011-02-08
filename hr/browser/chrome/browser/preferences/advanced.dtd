@@ -18,7 +18,7 @@
 <!ENTITY useSmoothScrolling.label        "Koristi uglađeno klizanje">
 <!ENTITY useSmoothScrolling.accesskey    "u">
 <!ENTITY checkSpelling.label             "Provjeri pravopis pri pisanju">
-<!ENTITY checkSpelling.accesskey         "p">
+<!ENTITY checkSpelling.accesskey         "v">
 <!ENTITY doNotTrack.label                "Javi web stranicama da ne želim biti praćen(a)">
 <!ENTITY doNotTrack.accesskey            "w">
 <!ENTITY allowHWAccel.label              "Koristi hardversku akceleraciju kad je moguće">
@@ -50,7 +50,7 @@
 <!ENTITY limitCacheSizeBefore.accesskey  "p">
 <!ENTITY limitCacheSizeAfter.label       "MB prostora">
 <!ENTITY clearCacheNow.label             "Očisti sada">
-<!ENTITY clearCacheNow.accesskey         "O">
+<!ENTITY clearCacheNow.accesskey         "i">
 <!ENTITY overrideSmartCacheSize.label    "Premosti automatsko upravljanje priručnom memorijom">
 <!ENTITY overrideSmartCacheSize.accesskey "a">
 
@@ -86,7 +86,7 @@
 <!ENTITY modeAutoAddonWarn.label         "Upozori me ako će nadogradnja isključiti neki od mojih dodataka">
 <!ENTITY modeAutoAddonWarn.accesskey     "U">
 <!ENTITY updateHistory.label             "Prikaži povijest nadogradnji">
-<!ENTITY updateHistory.accesskey         "p">
+<!ENTITY updateHistory.accesskey         "n">
 
 <!ENTITY offlineNotify.label             "Obavijesti me kad web stranica zatraži spremanje podataka za izvanmrežno korištenje">
 <!ENTITY offlineNotify.accesskey         "T">
@@ -113,7 +113,7 @@
 <!ENTITY certs.ask                       "Upitaj me svaki put">
 <!ENTITY certs.ask.accesskey             "i">
 <!ENTITY viewCerts.label                 "Pogledaj certifikate">
-<!ENTITY viewCerts.accesskey             "P">
+<!ENTITY viewCerts.accesskey             "c">
 <!ENTITY viewCRLs.label                  "Liste opoziva">
 <!ENTITY viewCRLs.accesskey              "L">
 <!ENTITY verify2.label                   "Ovjera">

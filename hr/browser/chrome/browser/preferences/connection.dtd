@@ -9,7 +9,7 @@
 <!ENTITY  systemTypeRadio.label         "Koristi sistemske postavke za proxy">
 <!ENTITY  systemTypeRadio.accesskey     "s">
 <!ENTITY  WPADTypeRadio.label           "Automatski pronađi postavke za ovu mrežu">
-<!ENTITY  WPADTypeRadio.accesskey       "a">
+<!ENTITY  WPADTypeRadio.accesskey       "y">
 <!ENTITY  manualTypeRadio.label         "Ručno podešavanje proxyja:">
 <!ENTITY  manualTypeRadio.accesskey     "x">
 <!ENTITY  autoTypeRadio.label           "URL za automatsko podešavanje proxyja:">

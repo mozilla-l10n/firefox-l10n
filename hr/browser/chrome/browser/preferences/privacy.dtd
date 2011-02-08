@@ -14,7 +14,7 @@
 <!ENTITY  acceptCookies.accesskey       "c">
 
 <!ENTITY  acceptThirdParty.label        "Prihvati kolačiće trećih strana">
-<!ENTITY  acceptThirdParty.accesskey    "p">
+<!ENTITY  acceptThirdParty.accesskey    "s">
 
 <!ENTITY  keepUntil.label               "Zadrži do:">
 <!ENTITY  keepUntil.accesskey           "d">
@@ -24,7 +24,7 @@
 <!ENTITY  askEachTime.label             "pitaj me svaki put">
 
 <!ENTITY  cookieExceptions.label        "Iznimke...">
-<!ENTITY  cookieExceptions.accesskey    "E">
+<!ENTITY  cookieExceptions.accesskey    "m">
 
 <!ENTITY  showCookies.label             "Prikaži kolačiće...">
 <!ENTITY  showCookies.accesskey         "k">
