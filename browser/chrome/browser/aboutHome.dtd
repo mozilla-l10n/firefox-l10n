@@ -13,9 +13,6 @@
 
 <!ENTITY abouthome.searchEngineButton.label "Іздеу">
 
-<!ENTITY abouthome.searchEngineLinks.advanced "Кеңейтілген іздеу">
-<!ENTITY abouthome.searchEngineLinks.preferences "Баптаулар">
-
 <!ENTITY abouthome.aboutMozilla "Mozilla туралы">
 
 <!-- LOCALIZATION NOTE (abouthome.defaultSnippet1.v1):
