@@ -35,7 +35,12 @@
 
 <dt id="server_authentication">autoryzacja serwera</dt><dd>Proces identyfikowania <a href="#server">serwera</a> <a href="#client">klientowi</a> z&nbsp;użyciem <a href="#server_ssl_certificate">certyfikatu SSL serwera</a>. Zobacz również <a href="#client_authentication">autoryzacja klienta</a> i&nbsp;<a href="#ssl">SSL (Secure Sockets Layer)</a>.</dd>
 
-<dt id="ca">CA</dt><dd>Zobacz <a href="#certificate_authority">organ certyfikacji.</a></dd>
+<dt id="secure_connection">bezpieczne połączenie</dt><dd>Połączenie pomiędzy klientem a serwerem, które używa szyfrowania (zazwyczaj
+ <a href="#ssl">SSL</a>) w celu uniemożliwienia przechwycenia komunikacji przez osoby trzecie. Najczęściej to serwer udostępnia certyfikat w celu umożliwienia jego zidentyfikowania.</dd>
+
+<dt id="secure_authentication">bezpieczne uwierzytelnienie</dt><dd>Sposób <a href="#authentication">autoryzacji</a>, który używa <a href="#secure_connection">bezpiecznego połaczenia</a>, przez co komunikacja pomiędzy klientem a serwerem jest zaszyfrowana.</dd>
+
+<dt id="ca">CA</dt><dd>Patrz: <a href="#certificate_authority">organ certyfikacji.</a></dd>
 
 <dt id="certificate">certyfikat</dt><dd>Cyfrowy odpowiednik dowodu tożsamości. Certyfikat określa nazwę osoby, firmy lub innej jednostki i&nbsp;poświadcza, że dołączony klucz publiczny należy do tej jednostki. W&nbsp;trakcie cyfrowego podpisywania wiadomości lub innych danych tworzony jest podpis cyfrowy za pomocą klucza prywatnego odpowiadającego kluczowi publicznemu w&nbsp;certyfikacie użytkownika. Certyfikat jest wydawany i&nbsp;podpisywany cyfrowo przez <a href="#certificate_authority">organ certyfikacji (CA)</a>. Ważność certyfikatu może być zweryfikowana przez sprawdzenie <a href="#digital_signature">podpisu cyfrowego</a> organu certyfikacji. Jest również nazywany dowodem cyfrowym (ang. digital ID), cyfrowym paszportem, certyfikatem klucza publicznego, certyfikatem X.509 lub certyfikatem bezpieczeństwa. Zobacz również <a href="#public-key_cryptography">kryptografia z&nbsp;użyciem kluczy publicznych</a>.</dd>
 
@@ -51,15 +56,17 @@
 
 <dt id="encryption_certificate">certyfikat szyfrowania</dt><dd><a href="#certificate">Certifikat</a>, którego klucz publiczny jest używany tylko do szyfrowania. Certyfikaty szyfrowania nie są używane do podpisywania działań. Zobacz również <a href="#dual_key_pairs">podwójne pary kluczy</a>, <a href="#signing_certificate">certyfikat podpisujący</a>.</dd>
 
-<dt id="security_certificate">certyfikat zabezpieczeń</dt><dd>Zobacz <a href="#certificate">certyfikat</a>.</dd>
+<dt id="security_certificate">certyfikat zabezpieczeń</dt><dd>Patrz: <a href="#certificate">certyfikat</a>.</dd>
 
 <dt id="cookie">ciasteczko</dt><dd>Niewielka porcja informacji zapisana na komputerze użytkownika przez niektóre <a href="#web_site">witryny internetowe</a>. Podczas wizyty na takiej witrynie, pyta ona przeglądarkę o&nbsp;pozwolenia na zapisanie jednego lub więcej ciasteczek na dysku komputera użytkownika. Przy kolejnych odwiedzinach witryny, przeglądarka odsyła witrynie należące do niej ciasteczko. Ciasteczka pomagają witrynom przechowywać informacje o&nbsp;użytkowniku, takie jak zawartość koszyka w&nbsp;sklepie internetowym. Użytkownik może ustawić preferencje kontroli używania ciasteczek i&nbsp;ilości informacji, jakie użytkownik pozwoli w&nbsp;nich przechowywać. Zobacz również <a href="#foreign_cookie">obce ciasteczko</a>.</dd>
 
-<dt id="third-party_cookie">ciasteczko z&nbsp;innego serwera</dt><dd>Zobacz <a href="#foreign_cookie">obce ciasteczko</a>.</dd>
+<dt id="third-party_cookie">ciasteczko z&nbsp;innego serwera</dt><dd>Patrz: <a href="#foreign_cookie">obce ciasteczko</a>.</dd>
 
 <dt id="crl">CRL (lista certyfikatów unieważnionych, ang. certificate revocation list)</dt><dd>Lista certyfikatów unieważnionych generowana i&nbsp;podpisywana przez <a href="#certificate_authority">organ certyfikacji (CA)</a>. Użytkownik może pobrać z&nbsp;sieci ostatnią wersję tej listy dla przeglądarki lub serwera, a&nbsp;następnie przeprowadzić kontrolę certyfikatów, aby sprawdzić ich aktualność przed zezwoleniem na używanie do autoryzacji.</dd>
 
-<dt id="digital_id">cyfrowy dowód tożsamości</dt><dd>Zobacz <a href="#certificate">certyfikat</a>.</dd>
+<dt id="digital_id">cyfrowy dowód tożsamości</dt><dd>Patrz: <a href="#certificate">certyfikat</a>.</dd>
+
+<dt id="add-on">dodatek</dt><dd>Kawałek programu, który może zostać dodany do programu &brandShortName; w celu zmiany wyglądu, zachowania bądź w celu dodania nowych funkcji. Dodatek może również zmienić język interfejsu użytkownika. Patrz również: <a href="#extension">rozszerzenie</a>, <a href="#language_pack">paczka językowa</a>, <a href="#plugin">wtyczka</a>, <a href="#theme">motyw</a>.</dd>
 
 <dt id="implicit_consent">domniemana zgoda</dt><dd>Znana również jako ciche przyzwolenie (bez pytania zainteresowanego, ang. <q>opt-out</q>). Używana do opisania ustawień prywatności, które mogą umożliwić witrynom internetowym gromadzenie informacji o&nbsp;użytkowniku (przykładowo poprzez <a href="#cookie">ciasteczka</a> i&nbsp;formularze na stronach internetowych), za wyjątkiem sytuacji, kiedy użytkownik odmówi zgody przez wybór opcji na dostępnej w&nbsp;tym celu odpowiedniej stronie tej witryny. Żądanie zgody może nie być artykułowane, jeżeli informacje są aktualnie gromadzone.</dd>
 
@@ -131,6 +138,8 @@
 
 <dt id="security_module">moduł zabezpieczający</dt><dd>Zobacz <a href="#pkcs_11_module">moduł PKCS #11</a>.</dd>
 
+<dt id="theme">theme</dt><dd>Typ <a href="#add-on">dodatku</a>, który zmienia wygląd programu &brandShortName;.</dd>
+
 <dt id="subject_name">nazwa przedmiotu certyfikatu</dt><dd><a href="#distinguished_name">Nazwa unikalna (DN)</a>, która jednoznacznie opisuje <a href="#subject">przedmiot</a> <a href="#certificate">certyfikatu</a>.</dd>
 
 <dt id="distinguished_name">nazwa unikalna (DN)</dt><dd>Nazwa w&nbsp;specjalnej, unikalnej postaci, jednoznacznie identyfikującej przedmiot <a href="#certificate">certyfikatu</a>.</dd>
@@ -152,6 +161,8 @@
 <dt id="personal_toolbar">osobisty pasek narzędzi</dt><dd>Dostosowywalny pasek narzędzi domyślne widoczny tuż poniżej paska adresu w&nbsp;przeglądarce. Zawiera standardowe przyciski Strona domowa, Zakładki i&nbsp;inne, które użytkownik może dodać lub usunąć. Użytkownik może również dodać przyciski do ulubionych zakładek lub folderów zawierających grupy zakładek.</dd>
 
 <dt id="phishing">oszustwo (ang. phishing)</dt><dd>Oszukiwanie to polega na tworzeniu stron WWW udających strony banków, firm handlowych i&nbsp;operatorów kart kredytowych oraz próbach uzyskania za ich pośrednictwem poufnych danych użytkownika.</dd>
+
+<dt id="language_pack">paczka językowa</dt><dd>Typ <a href="#add-on">dodatku</a>, który dodaje nowy język interfejsu użytkownika do programu &brandShortName;.</dd>
 
 <dt id="cache">pamięć podręczna</dt><dd>Zbiór kopii stron WWW&nbsp;zapisanych na dysku komputera lub w&nbsp;jego pamięci operacyjnej (RAM). Przeglądarka gromadzi te kopie w&nbsp;trakcie przeglądania stron WWW. Po kliknięciu na linku lub po wprowadzeniu <a href="#url">URL-a</a>, w&nbsp;celu pobrania określonej strony WWW, której pamięć podręczna zawiera kopię, przeglądarka porównuje zapisaną kopię z&nbsp;oryginałem w&nbsp;sieci. Jeżeli nie było zmian, to przeglądarka używa kopii z&nbsp;pamięci podręcznej zamiast ponownie pobierać oryginał, oszczędzając czas przetwarzania i&nbsp;pobierania.</dd>
 
@@ -189,9 +200,9 @@
 
 <dt id="subject">przedmiot</dt><dd>Jednostka (taka jak osoba, organizacja lub router) identyfikowana przez <a href="#certificate">certyfikat</a>. W&nbsp;szczególności opis certyfikatu zawiera <a href="#subject_name">nazwę przedmiotu certyfikatu</a> i&nbsp;inne dane charakterystyczne.</dd>
 
-<dt id="roaming_profile">przenośny profil</dt><dd>Profil użytkownika (lub jego część) przechowywana na zdalnym <a href="#server">serwerze</a> i&nbsp;używana do wykorzystywania tych samych ustawień i&nbsp;danych na wielu komputerach.</dd>
-
 <dt id="frame">ramka</dt><dd>Ramki są <a href="#web_page">stronami WWW</a> zawartymi wewnątrz otaczającej je <q>metastrony</q>.</dd>
+
+<dt id="extension">rozszerzenie</dt><dd>Typ <a href="#add-on">dodatku</a>, który zmienia zachowanie programu &brandShortName; i/lub dodaje nowe funkcje.</dd>
 
 <dt id="decryption">rozszyfrowywanie</dt><dd>Proces odtajniania danych poddanych wcześniej szyfrowaniu. Zobacz również <a href="#encryption">szyfrowanie</a>.</dd>
 
@@ -202,6 +213,8 @@
 <dt id="socks">SOCKS</dt><dd>Protokół, którego może używać serwer <a href="#proxy">proxy</a> do akceptowania połączeń użytkowników w&nbsp;sieci wewnętrznej i&nbsp;następnie do przesyłania ich poprzez sieć <a href="#internet">Internet</a>.</dd>
 
 <dt id="ssl">SSL (Secure Sockets Layer)</dt><dd>Protokół umożliwiający wzajemną autoryzację pomiędzy <a href="#client">klientem</a> i&nbsp;<a href="#server">serwerem</a> dla potrzeb zestawienia autoryzowanego i&nbsp;szyfrowanego połączenia. SSL działa powyżej <a href="#tcp_ip">TCP/IP</a> i&nbsp;poniżej <a href="#http">HTTP</a>, <a href="#ldap">LDAP</a>, <a href="#imap">IMAP</a>, NNTP i&nbsp;innych protokołów sieciowych wysokiego poziomu. Nowy standard, rozwijany przez stowarzyszenie Internet Engineering Task Force (IETF), nazwany Transport Layer Security (TLS), jest oparty na SSL. Zobacz również <a href="#authentication">autoryzacja</a> i&nbsp;<a href="#encryption">szyfrowanie</a>.</dd>
+
+<dt id="starttls">STARTTLS</dt><dd>Rozszerzenie do grupy standardowych protokołów TCP (jak SMTP, POP czy IMAP) które umożliwia klientowi przekazanie serwerowi wiadomości, aby ten używał szyfrowania <a href="#tls">TLS</a> na tym samym porcie TCP na którym odbywa się również komunikacja nieszyfrowana.</dd>
 
 <dt id="home_page">strona domowa</dt><dd>Strona ustawiona do wyświetlania przez przeglądarkę w&nbsp;trakcie jej uruchamiania lub po kliknięciu na przycisku Strona domowa. Również używana jako odwołanie do strony głównej danej witryny internetowej, z&nbsp;której można przeglądać pozostałe części witryny.</dd>
 
@@ -217,7 +230,7 @@
 
 <dt id="tcp_ip">TCP/IP (Transmission Control Protocol/Internet Protocol)</dt><dd>Protokół kontroli transmisji / Protokół internetowy. Protokół pochodzący z&nbsp;systemów Unix, używany do łączenia komputerów zarządzanych przez różne systemy operacyjne. TCP/IP jest podstawowym protokołem internetowym i&nbsp;stał się globalnym standardem.</dd>
 
-<dt id="tls">TLS</dt><dd>Zobacz <a href="#ssl">SSL (Secure Sockets Layer)</a>.</dd>
+<dt id="tls">TLS</dt><dd>TLS (Transport Layer Security) jest nowym standardem organizacji IETFbazującym na SSL (Secure Sockets Layer). Patrz również: <a href="#ssl">SSL</a> oraz <a href="#encryption">szyfrowanie</a>.</dd>
 
 <dt id="token">token</dt><dd>Zobacz <a href="#security_device">urządzenie zabezpieczające</a>.</dd>
 

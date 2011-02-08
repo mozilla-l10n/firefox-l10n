@@ -17,9 +17,11 @@
         <rdf:li> <rdf:Description ID="j" nc:name="J"/> </rdf:li>
         <rdf:li> <rdf:Description ID="k" nc:name="K"/> </rdf:li>
         <rdf:li> <rdf:Description ID="l" nc:name="L"/> </rdf:li>
+        <rdf:li> <rdf:Description ID="ł" nc:name="Ł"/> </rdf:li>
         <rdf:li> <rdf:Description ID="m" nc:name="M"/> </rdf:li>
         <rdf:li> <rdf:Description ID="n" nc:name="N"/> </rdf:li>
         <rdf:li> <rdf:Description ID="o" nc:name="O"/> </rdf:li>
+        <rdf:li> <rdf:Description ID="ó" nc:name="Ó"/> </rdf:li>
         <rdf:li> <rdf:Description ID="p" nc:name="P"/> </rdf:li>
         <rdf:li> <rdf:Description ID="q" nc:name="Q"/> </rdf:li>
         <rdf:li> <rdf:Description ID="r" nc:name="R"/> </rdf:li>
