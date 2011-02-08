@@ -12,3 +12,4 @@
 <!ENTITY  crash_close_label "Fechar">
 <!ENTITY  crash_restart_label "Reiniciar o &brandShortName;">
 <!ENTITY  sending_crash_report "A enviar relatório de erro \u2026">
+<!ENTITY  exit_label "Sair">
