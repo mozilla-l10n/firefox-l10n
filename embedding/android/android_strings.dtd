@@ -12,3 +12,4 @@
 <!ENTITY  crash_close_label "Stäng">
 <!ENTITY  crash_restart_label "Starta om &brandShortName;">
 <!ENTITY  sending_crash_report "Skickar kraschrapport\u2026">
+<!ENTITY  exit_label "Avsluta">
