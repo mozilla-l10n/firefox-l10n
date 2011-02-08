@@ -12,3 +12,4 @@
 <!ENTITY  crash_close_label "Fermer">
 <!ENTITY  crash_restart_label "Redémarrer &brandShortName;">
 <!ENTITY  sending_crash_report "Envoi du rapport de plantage\u2026">
+<!ENTITY  exit_label "Quitter">
