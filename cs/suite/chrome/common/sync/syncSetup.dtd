@@ -94,12 +94,9 @@
 <!-- Confirm Merge Options -->
 <!ENTITY setup.optionsConfirmPage.title "Potvrdit">
 <!ENTITY confirm.merge.label "Zvolili jste sloučení dat na tomto počítači s daty na ostatních zařízeních, kde běží &syncBrand.fullName.label;.">
-<!ENTITY confirm.client.label "Všechna data aplikace &brandShortName; na tomto počítači budou smazána, a to včetně následujících:">
+<!ENTITY confirm.client2.label "Upozornění: Následující data aplikace &brandShortName; na tomto počítači budou smazána:">
 <!ENTITY confirm.client.moreinfo.label "&brandShortName; poté nakopíruje data &syncBrand.fullName.label; na tento počítač.">
-<!ENTITY confirm.client.warning.label "Upozornění: Tímto krokem nahradíte všechna data aplikace &brandShortName; na tomto počítači!">
-<!ENTITY confirm.server.label "Na následujících zařízeních dojde k přepsání dat těmi lokálními">
-<!ENTITY confirm.server.warning.label "Upozornění: Vaše lokální data nahradí všechna data aplikace &brandShortName; na těchto zařízeních!">
-
+<!ENTITY confirm.server2.label "Upozornění: Data na následujících zařízení budou přepsána lokálními daty:">
 
 <!-- New & Existing Account: Setup Complete -->
 <!ENTITY setup.successPage.title "Nastavení dokončeno!">
