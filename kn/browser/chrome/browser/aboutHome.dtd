@@ -13,9 +13,6 @@
 
 <!ENTITY abouthome.searchEngineButton.label "ಹುಡುಕು">
 
-<!ENTITY abouthome.searchEngineLinks.advanced "ಸುಧಾರಿತ ಹುಡುಕಾಟ">
-<!ENTITY abouthome.searchEngineLinks.preferences "ಆದ್ಯತೆಗಳು">
-
 <!ENTITY abouthome.aboutMozilla "ಮೋಝಿಲ್ಲಾದ ಬಗ್ಗೆ">
 
 <!-- LOCALIZATION NOTE (abouthome.defaultSnippet1.v1):

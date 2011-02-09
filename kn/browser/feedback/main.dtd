@@ -27,5 +27,8 @@
 <!-- Firefox 4 beta version UI -->
 <!ENTITY testpilot.enable.label                        "ಬಳಕೆದಾರ ಅಧ್ಯಯನಗಳನ್ನು ಚಾಲನೆ ಮಾಡು">
 <!ENTITY testpilot.feedbackbutton.label                "ಅಭಿಪ್ರಾಯ">
-<!ENTITY testpilot.happy.label        "ಫೈರ್ಫಾಕ್ಸ್‍ ನನಗೆ ಸಂತಸವನ್ನು ತಂದಿದೆ ಏಕೆಂದರೆ…">
-<!ENTITY testpilot.sad.label          "ಫೈರ್ಫಾಕ್ಸ್‍ ನನಗೆ ಬೇಸರವನ್ನು ತಂದಿದೆ ಏಕೆಂದರೆ…">
+<!ENTITY testpilot.happy.label        "ಫೈರ್ಫಾಕ್ಸ್‍ ನನಗೆ ಸಂತಸ ತಂದಿದೆ ಏಕೆಂದರೆ…">
+<!ENTITY testpilot.sad.label          "ಫೈರ್ಫಾಕ್ಸ್‍ ನನಗೆ ಬೇಸರ ತಂದಿದೆ ಏಕೆಂದರೆ…">
+<!ENTITY testpilot.broken.label      "ಈ ಜಾಲತಾಣವು ಕೆಲಸ ಮಾಡುತ್ತಿಲ್ಲ ಎಂದು ವರದಿ ಮಾಡಿ…">
+<!ENTITY testpilot.idea.label        "ನಮಗೆ ಒಂದು ಸಲಹೆಯನ್ನು ಕೊಡಿ…">
+
