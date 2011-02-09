@@ -520,3 +520,4 @@ just addresses the organization to follow, e.g. "This site is run by " -->
 <!ENTITY syncSyncNowItem.accesskey "ه">
 <!ENTITY syncToolbarButton.label "هم‌گام‌سازی">
 <!ENTITY addonBarCloseButton.tooltip "بستن نوار افزودنی‌ها">
+<!ENTITY toggleAddonBarCmd.key "/">
