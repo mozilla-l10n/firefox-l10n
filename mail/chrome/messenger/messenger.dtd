@@ -450,7 +450,7 @@ you can use these alternative items. Otherwise, their values should be empty.
 <!ENTITY addons.label "Modules complémentaires">
 <!ENTITY addons.accesskey "c">
 <!ENTITY activitymanager.label "Activités">
-<!ENTITY activitymanager.accesskey "a">
+<!ENTITY activitymanager.accesskey "v">
 <!ENTITY savedFiles.label "Fichiers enregistrés">
 <!ENTITY savedFiles.accesskey "F">
 <!ENTITY savedFiles.key "j">
