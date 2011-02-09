@@ -82,6 +82,9 @@
 <!ENTITY viewCerts.accesskey "s">
 <!ENTITY checkSpelling.label "맞춤법 검사 기능 사용">
 <!ENTITY checkSpelling.accesskey "t">
+<!ENTITY doNotTrack.label                "확인 안 할 웹 사이트 목록">
+<!ENTITY doNotTrack.accesskey            "d">
+
 
 <!ENTITY systemDefaults.label            "기본 브라우저 설정">
 <!ENTITY alwaysCheckDefault.label        "시작할 때마다 &brandShortName;가 기본 브라우저인지 확인">

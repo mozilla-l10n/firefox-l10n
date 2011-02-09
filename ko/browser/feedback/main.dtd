@@ -28,5 +28,8 @@
 <!-- Firefox 4 beta version UI -->
 <!ENTITY testpilot.enable.label                        "과제 수행 시작">
 <!ENTITY testpilot.feedbackbutton.label                "의견 보내기">
-<!ENTITY testpilot.happy.label        "사용 중 Firefox 장점 보내기…">
-<!ENTITY testpilot.sad.label          "사용 중 Firefox 단점 보내기…">
+<!ENTITY testpilot.happy.label        "Firefox 장점 보내기…">
+<!ENTITY testpilot.sad.label          "Firefox 단점 보내기…">
+<!ENTITY testpilot.broken.label      "웹 사이트 문제점 보고…">
+<!ENTITY testpilot.idea.label        "개선 아이디어 보내기…">
+
