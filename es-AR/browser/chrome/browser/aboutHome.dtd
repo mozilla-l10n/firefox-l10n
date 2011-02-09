@@ -11,9 +11,6 @@
 
 <!ENTITY abouthome.searchEngineButton.label "Buscar">
 
-<!ENTITY abouthome.searchEngineLinks.advanced "Búsqueda avanzada">
-<!ENTITY abouthome.searchEngineLinks.preferences "Preferencias">
-
 <!ENTITY abouthome.aboutMozilla "Acerca de Mozilla">
 
 <!-- LOCALIZATION NOTE (abouthome.defaultSnippet1.v1):

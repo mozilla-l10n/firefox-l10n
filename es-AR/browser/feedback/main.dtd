@@ -28,5 +28,8 @@
 <!-- Firefox 4 beta version UI -->
 <!ENTITY testpilot.enable.label                        "Activar estudios de usuario">
 <!ENTITY testpilot.feedbackbutton.label                "Opinión">
-<!ENTITY testpilot.happy.label        "Firefox me hizo feliz porque...">
-<!ENTITY testpilot.sad.label          "Firefox me puso triste porque...">
+<!ENTITY testpilot.happy.label        "Firefox me hizo feliz porque…">
+<!ENTITY testpilot.sad.label          "Firefox me puso triste porque…">
+<!ENTITY testpilot.broken.label      "Informar este sitio como roto…">
+<!ENTITY testpilot.idea.label        "Darnos una sugerencia…">
+
