@@ -29,3 +29,6 @@
 <!ENTITY testpilot.feedbackbutton.label                "પ્રત્યુત્તર">
 <!ENTITY testpilot.happy.label        "Firefox મને ખુશ કરે છે કારણ કે…">
 <!ENTITY testpilot.sad.label          "Firefox મને દુ:ખી કરે છે કારણ કે…">
+<!ENTITY testpilot.broken.label      "આ વેબસાઇટ ભાંગેલી છે એવો અહેવાલ આપો…">
+<!ENTITY testpilot.idea.label        "અમને સૂચન આપો…">
+
