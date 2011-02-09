@@ -37,6 +37,11 @@
 
 <!--LOCALIZATION NOTE : FILE 'Privacy and Security' prefs settings -->
 <!ENTITY pref.security.title              "Privacidad y seguridad">
+
+<!ENTITY tracking.label                   "Rastreo de usuarios">
+<!ENTITY doNotTrack.label                 "Decirle a los sitios web que no quiero ser rastreado">
+<!ENTITY doNotTrack.accesskey             "t">
+
 <!ENTITY privateData.label                "Datos privados">
 
 <!ENTITY alwaysClear.label                "Siempre borrar mis datos privados cuando cierre &brandShortName;">
