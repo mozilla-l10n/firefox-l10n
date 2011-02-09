@@ -1,7 +1,7 @@
 <!ENTITY  history.label "ઈતિહાસ">
 
 <!ENTITY  locbar.pre.label              "જ્યારે સ્થિતિદર્શક પટ્ટી વાપરી રહ્યા હોય, ત્યારે સૂચન કરો:">
-<!ENTITY  locbar.pre.accessKey          "l">
+<!ENTITY  locbar.pre.accessKey          "u">
 <!ENTITY  locbar.post.label             "">
 <!ENTITY  locbar.both.label             "ઈતિહાસ અને બુકમાર્કો">
 <!ENTITY  locbar.history.label          "ઈતિહાસ">
@@ -9,7 +9,7 @@
 <!ENTITY  locbar.nothing.label          "કંઈ નહિં">
 
 <!ENTITY  acceptCookies.label           "સાઈટોમાંથી કુકીઓ સ્વીકારો">
-<!ENTITY  acceptCookies.accesskey       "c">
+<!ENTITY  acceptCookies.accesskey       "A">
 
 <!ENTITY  keepUntil.label               "ત્યાં સુધી રાખો:">
 <!ENTITY  keepUntil.accesskey           "K">
@@ -26,7 +26,7 @@
 
 
 <!ENTITY  acceptThirdParty.label        "ત્રીજી-વ્યક્તિ કુકીઓ સ્વીકારો">
-<!ENTITY  acceptThirdParty.accesskey    "p">
+<!ENTITY  acceptThirdParty.accesskey    "c">
 
 <!ENTITY  clearOnClose.label             "જ્યારે &brandShortName; બંધ થાય ત્યારે ઇતિહાસ સાફ કરો">
 <!ENTITY  clearOnClose.accesskey         "r">
