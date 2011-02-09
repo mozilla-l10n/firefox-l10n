@@ -17,7 +17,7 @@
 <!ENTITY  showCookies.label             "ಕುಕಿಗಳನ್ನು ತೋರಿಸು...">
 <!ENTITY  showCookies.accesskey         "S">
 <!ENTITY  acceptThirdParty.label        "ಥರ್ಡ್‌  ಪಾರ್ಟಿ ಕುಕಿಗಳನ್ನು ಅಂಗೀಕರಿಸು">
-<!ENTITY  acceptThirdParty.accesskey    "p">
+<!ENTITY  acceptThirdParty.accesskey    "c">
 
 <!ENTITY  clearOnClose.label             "&brandShortName; ಅನ್ನು ಮುಚ್ಚಿದಾಗ ಇತಿಹಾಸವನ್ನು ಅಳಿಸಿಹಾಕು">
 <!ENTITY  clearOnClose.accesskey         "r">
