@@ -309,20 +309,22 @@
 <!ENTITY calendar.server.dialog.name.label          "Kalendername:">
 
 <!-- Calendar Properties -->
-<!ENTITY calendarproperties.color.label             "Farbe:">
-<!ENTITY calendarproperties.webdav.label            "iCalendar (ICS)">
-<!ENTITY calendarproperties.caldav.label            "CalDAV">
-<!ENTITY calendarproperties.wcap.label              "Sun Java System Calendar Server (WCAP)">
-<!ENTITY calendarproperties.format.label            "Format:">
-<!ENTITY calendarproperties.location.label          "Adresse:">
-<!ENTITY calendarproperties.name.label              "Name:">
-<!ENTITY calendarproperties.readonly.label          "Schreibgeschützt">
-<!ENTITY calendarproperties.firealarms.label        "Erinnerungen anzeigen">
-<!ENTITY calendarproperties.cache.label             "Cache (EXPERIMENTELL, benötigt Neustart)">
-<!ENTITY calendarproperties.enabled.label           "Diesen Kalender aktivieren">
-<!ENTITY calendarproperties.forceDisabled.label     "Der Provider für diesen Kalender konnte nicht gefunden werden. Ursache hierfür ist häufig, dass Sie bestimmte Add-ons deaktiviert oder deinstalliert haben.">
-<!ENTITY calendarproperties.unsubscribe.label       "Abbestellen">
-<!ENTITY calendarproperties.unsubscribe.accesskey   "A">
+<!ENTITY calendarproperties.color.label                    "Farbe:">
+<!ENTITY calendarproperties.webdav.label                   "iCalendar (ICS)">
+<!ENTITY calendarproperties.caldav.label                   "CalDAV">
+<!ENTITY calendarproperties.wcap.label                     "Sun Java System Calendar Server (WCAP)">
+<!ENTITY calendarproperties.format.label                   "Format:">
+<!ENTITY calendarproperties.location.label                 "Adresse:">
+<!ENTITY calendarproperties.refreshInterval.label          "Kalender aktualisieren:">
+<!ENTITY calendarproperties.refreshInterval.manual.label   "Manuell">
+<!ENTITY calendarproperties.name.label                     "Name:">
+<!ENTITY calendarproperties.readonly.label                 "Schreibgeschützt">
+<!ENTITY calendarproperties.firealarms.label               "Erinnerungen anzeigen">
+<!ENTITY calendarproperties.cache.label                    "Cache (EXPERIMENTELL, benötigt Neustart)">
+<!ENTITY calendarproperties.enabled.label                  "Diesen Kalender aktivieren">
+<!ENTITY calendarproperties.forceDisabled.label            "Der Provider für diesen Kalender konnte nicht gefunden werden. Ursache hierfür ist häufig, dass Sie bestimmte Add-ons deaktiviert oder deinstalliert haben.">
+<!ENTITY calendarproperties.unsubscribe.label              "Abbestellen">
+<!ENTITY calendarproperties.unsubscribe.accesskey          "A">
 
 <!-- Calendar Publish Dialog -->
 <!ENTITY calendar.publish.dialog.title       "Kalender veröffentlichen">
