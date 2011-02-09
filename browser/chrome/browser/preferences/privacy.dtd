@@ -14,7 +14,7 @@
 <!ENTITY  acceptCookies.accesskey       "c">
 
 <!ENTITY  acceptThirdParty.label        "Aceptar cookies de terceros">
-<!ENTITY  acceptThirdParty.accesskey    "p">
+<!ENTITY  acceptThirdParty.accesskey    "A">
 
 <!ENTITY  keepUntil.label               "Conservar hasta:">
 <!ENTITY  keepUntil.accesskey           "n">

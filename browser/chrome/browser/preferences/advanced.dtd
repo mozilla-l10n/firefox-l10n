@@ -30,7 +30,7 @@
 <!ENTITY checkNow.label                  "Verificar ahora">
 <!ENTITY checkNow.accesskey              "V">
 <!ENTITY submitCrashes.label             "Enviar informe de fallos">
-<!ENTITY submitCrashes.accesskey         "s">
+<!ENTITY submitCrashes.accesskey         "E">
 
 <!ENTITY networkTab.label                "Red">
 
