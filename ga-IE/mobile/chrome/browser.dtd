@@ -1,4 +1,4 @@
-<!ENTITY urlbar.emptytext "Cuir Cuardach nó Seoladh isteach">
+<!ENTITY urlbar.emptytext "Cuir Ábhar Cuardaigh nó Seoladh isteach">
 
 <!ENTITY back.label "Siar">
 <!ENTITY forward.label "Ar Aghaidh">
@@ -110,6 +110,6 @@
 <!ENTITY pageactions.findInPage "Aimsigh sa Leathanach">
 <!ENTITY pageactions.search.addNew "Inneall Cuardaigh Nua">
 
-<!ENTITY selectHelper.emptytext "Liosta Scagairí">
+<!ENTITY selectHelper.emptytext "Scag an Liosta">
 
 <!ENTITY appMenu.siteOptions "Roghanna an tSuímh">
