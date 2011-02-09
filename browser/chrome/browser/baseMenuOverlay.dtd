@@ -14,8 +14,6 @@
 <!ENTITY aboutProduct.accesskey "د">
 <!ENTITY productHelp.label        "راهنمای &brandShortName;">
 <!ENTITY productHelp.accesskey    "ر">
-<!ENTITY helpForIEUsers.label     "اینترنت اکسپلورر مایکروسافت">
-<!ENTITY helpForIEUsers.accesskey "ک">
 <!ENTITY helpMac.commandkey       "?">
 <!ENTITY helpSafeMode.label "راه‌اندازی مجدد به همراه غیرفعال کردن افزودنی‌ها…">
 <!ENTITY helpSafeMode.accesskey "م">
