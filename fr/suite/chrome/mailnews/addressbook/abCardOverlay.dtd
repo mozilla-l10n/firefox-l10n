@@ -85,7 +85,7 @@
 <!ENTITY allowRemoteContent1.tooltip     "Dans les messages HTML, il est possible
 d'intégrer des contenus depuis des sources distantes. L'ouverture d'un tel message ouvrira
 une connexion vers cette source externe. Ceci peut permettre le traçage de la lecture
-du message. En décochant cette case, vous autoriserez de tels contenus externes
+du message. En cochant cette case, vous autoriserez de tels contenus externes
 dans les messages HTML de ce contact.">
 
 <!ENTITY WorkPhone.label "Travail :"> 
