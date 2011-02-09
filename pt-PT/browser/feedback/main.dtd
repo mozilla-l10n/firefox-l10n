@@ -29,3 +29,5 @@
 <!ENTITY testpilot.feedbackbutton.label                "Feedback">
 <!ENTITY testpilot.happy.label        "O Firefox fez-me ficar contente porque...">
 <!ENTITY testpilot.sad.label          "O Firefox fez-me ficar triste porque...">
+<!ENTITY testpilot.broken.label      "Reportar erros neste sítio web...">
+<!ENTITY testpilot.idea.label        "Sugerir...">
