@@ -29,3 +29,5 @@
 <!ENTITY testpilot.feedbackbutton.label                "Feedback">
 <!ENTITY testpilot.happy.label        "Firefox feliĉigis min ĉar...">
 <!ENTITY testpilot.sad.label          "Firefox malfeliĉigis min ĉar...">
+<!ENTITY testpilot.broken.label      "Raporti tiun ĉi retejon kiel nefunkcianta…">
+<!ENTITY testpilot.idea.label        "Sugesti ion al ni…">
