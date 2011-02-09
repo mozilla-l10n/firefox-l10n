@@ -28,5 +28,7 @@
 <!-- Firefox 4 beta version UI -->
 <!ENTITY testpilot.enable.label                        "Aktifkan Studi Pengguna">
 <!ENTITY testpilot.feedbackbutton.label                "Saran">
-<!ENTITY testpilot.happy.label        "Firefox Membuatku Gembira Karena...">
-<!ENTITY testpilot.sad.label          "Firefox Membuatku Sedih Karena...">
+<!ENTITY testpilot.happy.label        "Firefox Membuatku Gembira Karena…">
+<!ENTITY testpilot.sad.label          "Firefox Membuatku Sedih Karena…">
+<!ENTITY testpilot.broken.label       "Laporkan situs ini tidak berfungsi…">
+<!ENTITY testpilot.idea.label         "Kirim gagasan Anda…">
