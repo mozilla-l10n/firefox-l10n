@@ -322,6 +322,8 @@
 <!ENTITY calendarproperties.wcap.label "Sun Java System Calendar Server (WCAP)">
 <!ENTITY calendarproperties.format.label "Formáid:">
 <!ENTITY calendarproperties.location.label "Suíomh:">
+<!ENTITY calendarproperties.refreshInterval.label "Athnuaigh an Féilire:">
+<!ENTITY calendarproperties.refreshInterval.manual.label "De Láimh">
 <!ENTITY calendarproperties.name.label "Teideal:">
 <!ENTITY calendarproperties.readonly.label "Inléite Amháin">
 <!ENTITY calendarproperties.firealarms.label "Taispeáin Aláraim">

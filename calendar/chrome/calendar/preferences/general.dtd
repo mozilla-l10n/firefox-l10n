@@ -49,6 +49,3 @@
 <!ENTITY pref.defaultlength.accesskey "e">
 <!ENTITY pref.defaultsnoozelength.label "Achar codlata réamhshocraithe:">
 <!ENTITY pref.defaultsnoozelength.accesskey "s">
-<!ENTITY pref.refreshbox.label "Nuashonraigh Socruithe">
-<!ENTITY pref.autorefresh.label "Athnuaigh féilirí gach">
-<!ENTITY pref.autorefresh.accesskey "A">
