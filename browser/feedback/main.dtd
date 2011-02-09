@@ -29,3 +29,5 @@
 <!ENTITY testpilot.feedbackbutton.label                "Opinión">
 <!ENTITY testpilot.happy.label        "Gústame Firefox porque…">
 <!ENTITY testpilot.sad.label          "Non me gusta Firefox porque…">
+<!ENTITY testpilot.broken.label      "Informe de un sitio web que non traballa…">
+<!ENTITY testpilot.idea.label        "Envía unha suxestión…">
