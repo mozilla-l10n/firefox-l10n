@@ -7,9 +7,9 @@
 <!ENTITY  noProxyTypeRadio.label        "Sin proxy">
 <!ENTITY  noProxyTypeRadio.accesskey    "y">
 <!ENTITY  systemTypeRadio.label         "Usar configuración de proxy del sistema">
-<!ENTITY  systemTypeRadio.accesskey     "y">
+<!ENTITY  systemTypeRadio.accesskey     "U">
 <!ENTITY  WPADTypeRadio.label           "Autodetectar la configuración de proxy para esta red">
-<!ENTITY  WPADTypeRadio.accesskey       "y">
+<!ENTITY  WPADTypeRadio.accesskey       "r">
 <!ENTITY  manualTypeRadio.label         "Configuración manual de proxy:">
 <!ENTITY  manualTypeRadio.accesskey     "m">
 <!ENTITY  autoTypeRadio.label           "URL de configuración automática de proxy:">
