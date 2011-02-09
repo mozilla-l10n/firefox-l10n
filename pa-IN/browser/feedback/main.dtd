@@ -31,3 +31,5 @@
 <!ENTITY testpilot.feedbackbutton.label                "ਸੁਝਾਅ">
 <!ENTITY testpilot.happy.label        "ਫਾਇਰਫਾਕਸ ਨੇ ਮੈਨੂੰ ਖੁਸ਼ ਕੀਤਾ ਹੈ, ਕਿਉਂਕਿ…">
 <!ENTITY testpilot.sad.label          "ਫਾਇਰਫਾਕਸ ਨੇ ਮੈਨੂੰ ਦੁਖੀ ਕੀਤਾ ਹੈ, ਕਿਉਂਕਿ…">
+<!ENTITY testpilot.broken.label      "ਇਹ ਵੈੱਬਸਾਈਟ ਦੇ ਖ਼ਰਾਬ ਹੋਣ ਬਾਰੇ ਜਾਣਕਾਰੀ ਦਿਓ…">
+<!ENTITY testpilot.idea.label        "ਸਾਨੂੰ ਸੁਝਾਅ ਦਿਓ…">
