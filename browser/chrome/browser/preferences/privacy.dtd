@@ -6,7 +6,7 @@
 -->
 <!ENTITY  history.label "ಇತಿಹಾಸ">
 <!ENTITY  acceptCookies.label           "ಈ ತಾಣದಿಂದ ಕುಕಿಗಳನ್ನು ಅನುಮತಿಸು">
-<!ENTITY  acceptCookies.accesskey       "c">
+<!ENTITY  acceptCookies.accesskey       "A">
 <!ENTITY  keepUntil.label               "ಇಲ್ಲಿಯವರೆಗೆ ಇರಿಸಿಕೋ:">
 <!ENTITY  keepUntil.accesskey           "K">
 <!ENTITY  expire.label                  "ಇದರ ಅವಧಿ ಅಂತ್ಯಗೊಳ್ಳುತ್ತದೆ">
