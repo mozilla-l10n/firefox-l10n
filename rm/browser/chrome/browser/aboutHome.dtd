@@ -13,9 +13,6 @@
 
 <!ENTITY abouthome.searchEngineButton.label "Tschertgar">
 
-<!ENTITY abouthome.searchEngineLinks.advanced "Tschertga avanzada">
-<!ENTITY abouthome.searchEngineLinks.preferences "Preferenzas">
-
 <!ENTITY abouthome.aboutMozilla "Davart Mozilla">
 
 <!-- LOCALIZATION NOTE (abouthome.defaultSnippet1.v1):
