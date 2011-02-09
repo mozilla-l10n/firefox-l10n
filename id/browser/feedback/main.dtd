@@ -17,7 +17,7 @@
 <!ENTITY testpilot.studiesWindow.finishedStudies.label  "Studi yang Selesai">
 <!ENTITY testpilot.studiesWindow.studyFindings.label    "Hasil Studi">
 <!ENTITY testpilot.studiesWindow.settings.label         "Pengaturan">
-<!ENTITY testpilot.studiesWindow.stillLoadingMessage    "Memuat, mohon tunggu...">
+<!ENTITY testpilot.studiesWindow.stillLoadingMessage    "Memuat, mohon tunggu…">
 
 <!-- raw data dialog -->
 <!ENTITY testpilot.rawDataWindow.title                  "Test Pilot: Data Mentah">
