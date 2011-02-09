@@ -93,7 +93,7 @@
 <!ENTITY proxyConnectFailure.title "Proxy server odbija veze">
 <!ENTITY proxyConnectFailure.longDesc "
 <ul>
-  <li>Provjerite postavke proxyja da biste bili sigurni da su ispravne.</li>
+  <li>Provjerite da li su postavke proxyja ispravne.</li>
   <li>Kontaktirajte vašeg mrežnog administratora kako biste provjerili da li proxy server
    radi.</li>
 </ul>
@@ -102,7 +102,7 @@
 <!ENTITY proxyResolveFailure.title "Ne mogu da pronađem proxy server">
 <!ENTITY proxyResolveFailure.longDesc "
 <ul>
-  <li>Provjerite postavke proxyja kako biste bili sigurni da su ispravne.</li>
+  <li>Provjerite da li su postavke proxyja ispravne.</li>
   <li>Provjerite da li radi mrežna konekcija vašeg računara.</li>
   <li>Ako su vaš računar ili mreža zaštićeni firewallom ili proxyjem, provjerite da li
    &brandShortName; ima dozvoljen pristup Webu.</li>
