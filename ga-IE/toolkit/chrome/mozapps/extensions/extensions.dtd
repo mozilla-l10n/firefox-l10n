@@ -24,7 +24,7 @@
 <!ENTITY warning.updatesecurity.enable.tooltip "Cumasaigh seiceáil slándála nuashonrú na mbreiseán">
 <!-- categories / views -->
 
-<!ENTITY view.search.label "Cuardach">
+<!ENTITY view.search.label "Cuardaigh">
 <!ENTITY view.discover.label "Faigh Breiseáin">
 <!ENTITY view.locales.label "Teangacha">
 <!ENTITY view.searchengines.label "Innill Chuardaigh">

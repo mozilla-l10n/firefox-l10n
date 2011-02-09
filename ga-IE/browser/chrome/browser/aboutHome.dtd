@@ -10,10 +10,7 @@
 
 <!ENTITY abouthome.brandStart "Tosach <span>&brandShortName;</span>">
 
-<!ENTITY abouthome.searchEngineButton.label "Cuardach">
-
-<!ENTITY abouthome.searchEngineLinks.advanced "Cuardach Casta">
-<!ENTITY abouthome.searchEngineLinks.preferences "Sainroghanna">
+<!ENTITY abouthome.searchEngineButton.label "Cuardaigh">
 
 <!ENTITY abouthome.aboutMozilla "Maidir le Mozilla">
 <!-- LOCALIZATION NOTE (abouthome.defaultSnippet1.v1):

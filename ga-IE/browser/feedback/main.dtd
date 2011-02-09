@@ -29,3 +29,5 @@
 <!ENTITY testpilot.feedbackbutton.label "Aiseolas">
 <!ENTITY testpilot.happy.label "Chuir Firefox aoibhneas orm de bharr…">
 <!ENTITY testpilot.sad.label "Chuir Firefox brón orm de bharr…">
+<!ENTITY testpilot.broken.label "Report this website as broken…">
+<!ENTITY testpilot.idea.label "Give us a suggestion…">

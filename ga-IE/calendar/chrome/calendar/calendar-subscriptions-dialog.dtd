@@ -38,7 +38,7 @@
 
 <!ENTITY calendar.subscriptions.dialog.title "Liostáil le Féilirí">
 <!ENTITY calendar.subscriptions.dialog.search.label.value "Taispeáin féilirí ina bhfuil:">
-<!ENTITY calendar.subscriptions.dialog.search.button.label "Cuardach">
+<!ENTITY calendar.subscriptions.dialog.search.button.label "Cuardaigh">
 <!ENTITY calendar.subscriptions.dialog.select.label.value "Roghnaigh na féilirí lena liostálfar:">
 <!ENTITY calendar.subscriptions.dialog.subscribe.button.label "Liostáil">
 <!ENTITY calendar.subscriptions.dialog.unsubscribe.button.label "Díliostáil">
