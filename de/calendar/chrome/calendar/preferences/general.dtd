@@ -49,6 +49,3 @@
 <!ENTITY pref.defaultlength.accesskey "T">
 <!ENTITY pref.defaultsnoozelength.label "Standard-Zeit bis Erinnerung:">
 <!ENTITY pref.defaultsnoozelength.accesskey "E">
-<!ENTITY pref.refreshbox.label "Aktualisierungseinstellungen">
-<!ENTITY pref.autorefresh.label "Aktualisierung der Kalender alle">
-<!ENTITY pref.autorefresh.accesskey "A">
