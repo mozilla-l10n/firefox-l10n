@@ -30,3 +30,5 @@
 <!ENTITY testpilot.happy.label        "Firefox мені қуандырған себебі...">
 <!ENTITY testpilot.sad.label          "Firefox мені өкіндірген себебі...">
 <!ENTITY testpilot.allYourStudies.label             "Барлық пайдаланушы сынақтарыңыз…">
+<!ENTITY testpilot.broken.label      "Бұл веб сайт сынық деп хабарлау…">
+<!ENTITY testpilot.idea.label        "Бізге ұсынысыңызды жіберіңіз…">
