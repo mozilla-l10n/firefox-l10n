@@ -13,9 +13,6 @@
 
 <!ENTITY abouthome.searchEngineButton.label "શોધો">
 
-<!ENTITY abouthome.searchEngineLinks.advanced "ઉન્નત શોધ">
-<!ENTITY abouthome.searchEngineLinks.preferences "પસંદગીઓ">
-
 <!ENTITY abouthome.aboutMozilla "Mozilla વિશે">
 
 <!-- LOCALIZATION NOTE (abouthome.defaultSnippet1.v1):
