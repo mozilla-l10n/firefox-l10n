@@ -35,11 +35,11 @@
    -
    - ***** END LICENSE BLOCK ***** -->
 
-<!ENTITY startpage.title "Bienvenue dans &brandShortName; Courrier &#x0026; Groupes">
+<!ENTITY startpage.title "Bienvenue dans &brandShortName; Courrier et Groupes">
 <!--# LOCALIZATION NOTE (headline.label): the URL for <a id="vendorURL"> is fetched from brand.properties -->
 <!ENTITY headline.label
-'Bienvenue dans <a id="vendorURL" href="">&brandShortName;</a> Courrier &#x0026; Groupes&#x00A0;!'>
-<!ENTITY description.label "&brandShortName; Courrier &#x0026; Groupes est un client de messagerie puissant et ouvert, offrant une détection avancée du courrier indésirable et plusieurs autres fonctions utiles.">
+'Bienvenue dans <a id="vendorURL" href="">&brandShortName;</a> Courrier et Groupes&#x00A0;!'>
+<!ENTITY description.label "&brandShortName; Courrier et Groupes est un client de messagerie puissant et ouvert, offrant une détection avancée du courrier indésirable et plusieurs autres fonctions utiles.">
 <!ENTITY features.title "Fonctions">
 <!ENTITY feat_multiacc.label "Support de comptes multiples">
 <!ENTITY feat_junk.label "Détection des messages indésirables">
