@@ -12,3 +12,4 @@
 <!ENTITY  crash_close_label "關閉">
 <!ENTITY  crash_restart_label "重開 &brandShortName;">
 <!ENTITY  sending_crash_report "正在傳送錯誤報告\u2026">
+<!ENTITY  exit_label "結束">
