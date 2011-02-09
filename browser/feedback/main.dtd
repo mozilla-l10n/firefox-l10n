@@ -29,3 +29,6 @@
 <!ENTITY testpilot.feedbackbutton.label                "Feedback">
 <!ENTITY testpilot.happy.label        "Firefox me razveselio zbog…">
 <!ENTITY testpilot.sad.label          "Firefox me rastužio zbog…">
+
+<!ENTITY testpilot.broken.label      "Prijavi ovu web stranicu kao neispravnu…">
+<!ENTITY testpilot.idea.label        "Pošaljite nam prijedlog…">
