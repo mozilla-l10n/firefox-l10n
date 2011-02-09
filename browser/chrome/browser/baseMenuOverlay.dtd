@@ -11,10 +11,8 @@
 <!ENTITY aboutProduct.accesskey "A">
 <!ENTITY productHelp.label		"&brandShortName; 도움말">
 <!ENTITY productHelp.accesskey		"H">
-<!ENTITY helpForIEUsers.label "Internet Explorer 사용자">
-<!ENTITY helpForIEUsers.accesskey "I">
 <!ENTITY helpMac.commandkey		"?">
-<!ENTITY helpSafeMode.label       "부가 기능 정지 후 다시 시작…">
+<!ENTITY helpSafeMode.label       "안전 모드로 시작…">
 <!ENTITY helpSafeMode.accesskey   "R">
 
 <!ENTITY helpTroubleshootingInfo.label	"문제 해결 정보…">
