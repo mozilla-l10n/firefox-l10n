@@ -317,6 +317,8 @@
 <!ENTITY calendarproperties.wcap.label                     "Sun Java System Calendar Server (WCAP)">
 <!ENTITY calendarproperties.format.label                   "Format:">
 <!ENTITY calendarproperties.location.label                 "Tempat:">
+<!ENTITY calendarproperties.refreshInterval.label          "Segarkan Kalender:">
+<!ENTITY calendarproperties.refreshInterval.manual.label   "Manual">
 <!ENTITY calendarproperties.name.label                     "Nama:">
 <!ENTITY calendarproperties.readonly.label                 "Baca Saja">
 <!ENTITY calendarproperties.firealarms.label               "Tampilkan Alarm">

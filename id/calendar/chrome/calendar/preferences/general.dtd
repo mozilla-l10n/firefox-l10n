@@ -49,6 +49,3 @@
 <!ENTITY pref.defaultlength.accesskey "a">
 <!ENTITY pref.defaultsnoozelength.label "Lama Alarm Getar Default:" >
 <!ENTITY pref.defaultsnoozelength.accesskey "G">
-<!ENTITY pref.refreshbox.label "Pengaturan Pemuatan Ulang" >
-<!ENTITY pref.autorefresh.label "Muat ulang kalender setiap" >
-<!ENTITY pref.autorefresh.accesskey "M" >
