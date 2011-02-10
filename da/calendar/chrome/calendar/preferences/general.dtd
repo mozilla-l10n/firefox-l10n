@@ -49,6 +49,3 @@
 <!ENTITY pref.defaultlength.accesskey "B">
 <!ENTITY pref.defaultsnoozelength.label "Forvalgt udsættelseslængde:">
 <!ENTITY pref.defaultsnoozelength.accesskey "S">
-<!ENTITY pref.refreshbox.label "Genindlæsningsindstillinger" >
-<!ENTITY pref.autorefresh.label "Genindlæs kalendere hver" >
-<!ENTITY pref.autorefresh.accesskey "G" >

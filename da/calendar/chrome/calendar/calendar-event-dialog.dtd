@@ -46,7 +46,7 @@
 
 <!ENTITY event.dialog.keepDurationButton.tooltip  "Behold varighed, når du ændrer slutdato">
 
-<!ENTITY event.dialog.keepDurationButton.accesskey "K">
+<!ENTITY event.dialog.keepDurationButton.accesskey "V">
 
 <!ENTITY newevent.from.label "Fra">
 <!ENTITY newevent.to.label "Til">
