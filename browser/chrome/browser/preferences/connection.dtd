@@ -3,16 +3,16 @@
 <!ENTITY  window.width                  "37em">
 <!ENTITY  window.macWidth               "39em">
 
-<!ENTITY proxyTitle.label "ઈન્ટરનેટ વાપરવા માટે પ્રોક્સીઓ રુપરેખાંકિત કરો">
+<!ENTITY proxyTitle.label "ઈન્ટરનેટ વાપરવા માટે પ્રોક્સીઓ રૂપરેખાંકિત કરો">
 <!ENTITY  noProxyTypeRadio.label        "કોઈ પ્રોક્સી નથી">
 <!ENTITY  noProxyTypeRadio.accesskey    "y">
 <!ENTITY systemTypeRadio.label         "સિસ્ટમ પ્રોક્સી સુયોજનો વાપરો">
 <!ENTITY systemTypeRadio.accesskey     "u">
 <!ENTITY WPADTypeRadio.label "એ નેટવર્ક માટે પ્રોક્સી સુયોજનો આપમેળે શોધો">
 <!ENTITY WPADTypeRadio.accesskey "w">
-<!ENTITY manualTypeRadio.label "જાતે પ્રોક્સીનું રુપરેખાંકન">
+<!ENTITY manualTypeRadio.label "જાતે પ્રોક્સીનું રૂપરેખાંકન">
 <!ENTITY manualTypeRadio.accesskey "m">
-<!ENTITY autoTypeRadio.label "આપોઆપ પ્રોક્સી રુપરેખાંકન URL:">
+<!ENTITY autoTypeRadio.label "આપોઆપ પ્રોક્સી રૂપરેખાંકન URL:">
 <!ENTITY autoTypeRadio.accesskey "A">
 <!ENTITY reload.label "ફરી લાવો">
 <!ENTITY reload.accesskey "e">
