@@ -13,8 +13,8 @@
 
 <!ENTITY abouthome.searchEngineButton.label "অনুসন্ধান">
 
-<!ENTITY abouthome.searchEngineLinks.advanced "উন্নত অনুসন্ধান">
-<!ENTITY abouthome.searchEngineLinks.preferences "পছন্দ">
+<!-- ENTITY abouthome.searchEngineLinks.advanced "উন্নত অনুসন্ধান" -->
+<!-- ENTITY abouthome.searchEngineLinks.preferences "পছন্দ" -->
 
 <!ENTITY abouthome.aboutMozilla "Mozilla পরিচিতি">
 

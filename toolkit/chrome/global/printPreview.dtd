@@ -46,7 +46,7 @@
 <!ENTITY scale.accesskey      "S">
 <!-- ENTITY percent.label        "&#037;" -->
 <!ENTITY portrait.label       "প্রতিকৃতি">
-<!ENTITY portrait.accesskey   "t">
+<!ENTITY portrait.accesskey   "o">
 <!ENTITY landscape.label      "ভূদৃশ্য">
 <!ENTITY landscape.accesskey  "L">
 <!ENTITY close.label          "বন্ধ করুন">

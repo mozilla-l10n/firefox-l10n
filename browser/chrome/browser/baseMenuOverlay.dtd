@@ -26,8 +26,8 @@
 <!ENTITY helpFeedbackPage.label      "মতামত জানান…">
 <!ENTITY helpFeedbackPage.accesskey  "S">
 
-<!ENTITY helpForIEUsers.label     "Internet Explorer ব্যবহারকারীদের জন্য">
-<!ENTITY helpForIEUsers.accesskey "I">
+<!-- ENTITY helpForIEUsers.label     "Internet Explorer ব্যবহারকারীদের জন্য" -->
+<!-- ENTITY helpForIEUsers.accesskey "I" -->
 <!ENTITY helpMac.commandkey       "?">
 <!ENTITY helpSafeMode.label       "অতিরিক্ত সামগ্রী নিষ্ক্রিয় করে পুনরারম্ভ করুন…">
 <!ENTITY helpSafeMode.accesskey   "R">

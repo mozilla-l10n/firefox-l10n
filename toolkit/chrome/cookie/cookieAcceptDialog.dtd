@@ -14,12 +14,11 @@
 <!ENTITY     button.deny.label              "প্রত্যাখ্যান করুন">
 <!ENTITY     button.deny.accesskey          "D">
 
-<!ENTITY     button.allow.label             "প্রবেশাধিকার">
-<!ENTITY     button.allow.accesskey         "A">
-<!ENTITY     button.session.label           "নির্দিষ্ট সেশনের প্রবেশাধিকার">
-<!ENTITY     button.session.accesskey       "S">
-<!ENTITY     button.deny.label              "প্রত্যাখ্যান">
-<!ENTITY     button.deny.accesskey          "D">
+<!-- ENTITY     button.allow.label             "প্রবেশাধিকার" -->
+<!-- ENTITY     button.session.label           "নির্দিষ্ট সেশনের প্রবেশাধিকার" -->
+<!-- ENTITY     button.session.accesskey       "S" -->
+<!-- ENTITY     button.deny.label              "প্রত্যাখ্যান" -->
+<!-- ENTITY     button.deny.accesskey          "D" -->
 
 <!ENTITY     dialog.title                   "কুকি স্থাপন কর্মের নিশ্চায়ন">
 <!ENTITY     dialog.remember.label          "এই সাইট থেকে উৎপন্ন সমস্ত কুকির জন্য আমার নির্ধারিত পছন্দ প্রয়োগ করা হবে">

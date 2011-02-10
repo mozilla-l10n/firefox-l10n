@@ -15,7 +15,7 @@
 <!ENTITY  manualTypeRadio.label         "ব্যবহারকারী দ্বারা প্রক্সি কনফিগারেশন">
 <!ENTITY  manualTypeRadio.accesskey     "m">
 <!ENTITY  autoTypeRadio.label           "স্বয়ংক্রিয়ভাবে প্রক্সি কনফিগার করার URL:">
-<!ENTITY  autoTypeRadio.accesskey       "a">
+<!ENTITY  autoTypeRadio.accesskey       "A">
 <!-- ENTITY  configAutoconfigText.label    "কনফিগারেশনের অবস্থান (URL):" -->
 <!-- ENTITY  configAutoconfigText.accesskey "u" -->
 <!ENTITY  reload.label                  "পুনরায় লোড">
@@ -25,9 +25,9 @@
 <!-- ENTITY  gopher.label                  "Gopher প্রক্সি:" -->
 <!-- ENTITY  gopher.accesskey              "G" -->
 <!ENTITY  http.label                    "HTTP প্রক্সি:">
-<!ENTITY  http.accesskey                "y">
+<!ENTITY  http.accesskey                "x">
 <!ENTITY  ssl.label                     "SSL প্রক্সি:">
-<!ENTITY  ssl.accesskey                 "S">
+<!ENTITY  ssl.accesskey                 "L">
 <!ENTITY  socks.label                   "SOCKS হোস্ট:">
 <!ENTITY  socks.accesskey               "C">
 <!ENTITY  socks4.label                  "SOCKS v4">
@@ -45,4 +45,4 @@
 <!ENTITY  noproxy.accesskey             "n">
 <!ENTITY  noproxyExplain.label          "উদাহরণ: .mozilla.org, .net.nz, 192.168.1.0/24">
 <!ENTITY  shareproxy.label              "সর্বধরনের প্রোটোকলের জন্য একই প্রক্সি ব্যবহার করা হবে">
-<!ENTITY  shareproxy.accesskey          "x">
+<!ENTITY  shareproxy.accesskey          "s">
