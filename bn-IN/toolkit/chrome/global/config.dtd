@@ -45,7 +45,7 @@
 
 
 <!ENTITY filterPrefs.label "ফিল্টার:">
-<!ENTITY filterPrefs.accesskey "I">
+<!ENTITY filterPrefs.accesskey "F">
 <!ENTITY focusFilter.key "f">
 <!-- ENTITY showAll.label "সমস্ত প্রদর্শন করা হবে" -->
 <!-- ENTITY showAll.accesskey "W" -->
@@ -65,7 +65,7 @@
 <!ENTITY copyPref.label "কপি করুন">
 <!ENTITY copyPref.accesskey "C">
 <!ENTITY copyName.label "নাম কপি করুন">
-<!ENTITY copyName.accesskey "C">
+<!ENTITY copyName.accesskey "N">
 <!ENTITY copyValue.label "মান কপি করুন">
 <!ENTITY copyValue.accesskey "V">
 <!ENTITY modify.label "পরিবর্তন করুন">
@@ -75,7 +75,7 @@
 <!ENTITY reset.label "মান পুনর্নির্ধারণ করুন">
 <!ENTITY reset.accesskey "R">
 <!ENTITY new.label "নতুন">
-<!ENTITY new.accesskey "N">
+<!ENTITY new.accesskey "w">
 <!ENTITY string.label "স্ট্রিং">
 <!ENTITY string.accesskey "S">
 <!ENTITY integer.label "পূর্ণসংখ্যা">

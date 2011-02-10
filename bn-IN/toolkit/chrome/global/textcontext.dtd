@@ -11,7 +11,7 @@
 <!ENTITY deleteCmd.label "মুছে ফেলুন">
 <!ENTITY deleteCmd.accesskey "d">
 <!ENTITY spellAddToDictionary.label "অভিধানে যোগ করুন">
-<!ENTITY spellAddToDictionary.accesskey "t">
+<!ENTITY spellAddToDictionary.accesskey "o">
 <!-- ENTITY spellEnable.label "এই ক্ষেত্রে উপস্থিত তথ্যের বানান পরীক্ষা করুন" -->
 <!-- ENTITY spellEnable.accesskey "S" -->
 <!ENTITY spellNoSuggestions.label "(প্রস্তাবিত বানান অনুপস্থিত)">

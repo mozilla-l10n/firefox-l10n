@@ -659,3 +659,4 @@ can reach it easily. -->
 <!ENTITY syncToolbarButton.label      "সুসংগতি">
 
 <!ENTITY addonBarCloseButton.tooltip  "অতিরিক্ত সামগ্রীর বার বন্ধ করুন">
+<!ENTITY toggleAddonBarCmd.key        "/">

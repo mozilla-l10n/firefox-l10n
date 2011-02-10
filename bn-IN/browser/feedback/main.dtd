@@ -29,3 +29,5 @@
 <!ENTITY testpilot.feedbackbutton.label                "ফলাফল">
 <!ENTITY testpilot.happy.label        "Firefox-র ব্যবহার আনন্দদায়ক হয়েছে কারণ…">
 <!ENTITY testpilot.sad.label          "Firefox-র ব্যবহার কষ্টকর হয়েছে কারণ…">
+<!ENTITY testpilot.broken.label      "ত্রুটিপূর্ণ ওয়েব-সাইট রূপে এটিকে চিহ্নিত করুন…">
+<!ENTITY testpilot.idea.label        "কোনো প্রস্তাব থাকলে আমাদের জানান…">

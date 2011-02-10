@@ -115,7 +115,7 @@
 <!-- ENTITY  mediaTitle            "শিরোনাম:" -->
 <!ENTITY  mediaLongdesc         "বিস্তারিত বিবরণ:">
 <!ENTITY  mediaSaveAs           "নতুন রূপে সংরক্ষণ...">
-<!ENTITY  mediaSaveAs.accesskey "S">
+<!ENTITY  mediaSaveAs.accesskey "A">
 <!ENTITY  mediaPreview          "মিডিয়ার পূর্বপ্রদর্শন:">
 <!ENTITY  mediaBlockImage.accesskey "B">
 <!ENTITY  mediaDimension        "দিকমাত্রা:">
