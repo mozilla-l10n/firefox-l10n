@@ -31,10 +31,10 @@
 <!ENTITY  showCookies.accesskey         "S">
 
 
-<!ENTITY  historyHeader.pre.label          "&brandShortName; रखेगा:">
+<!ENTITY  historyHeader.pre.label          "&brandShortName; इतिहास वरीयताएँ:">
 <!ENTITY  historyHeader.pre.accesskey      "w">
-<!ENTITY  historyHeader.remember.label     "इतिहास को याद">
-<!ENTITY  historyHeader.dontremember.label "कभी इतिहास याद नहीं रखेगा">
+<!ENTITY  historyHeader.remember.label     "इतिहास याद रखें">
+<!ENTITY  historyHeader.dontremember.label "इतिहास कभी याद नहीं रखें">
 <!ENTITY  historyHeader.custom.label       "इतिहास के लिए मनपसंद सेटिंग्स का उपयोग करें">
 <!ENTITY  historyHeader.post.label         "">
 
@@ -43,13 +43,13 @@
 <!-- LOCALIZATION NOTE (rememberActions.pre.label): include a trailing space as needed -->
 <!-- LOCALIZATION NOTE (rememberActions.middle.label): include a starting and trailing space as needed -->
 <!-- LOCALIZATION NOTE (rememberActions.post.label): include a starting space as needed -->
-<!ENTITY  rememberActions.pre.label           "आप चाह सकते हैं ">
-<!ENTITY  rememberActions.clearHistory.label  "अपना हालिया इतिहास साफ करना">
+<!ENTITY  rememberActions.pre.label           "आप">
+<!ENTITY  rememberActions.clearHistory.label  "अपने हालिया इतिहास साफ कर">
 <!ENTITY  rememberActions.middle.label        ", या ">
-<!ENTITY  rememberActions.removeCookies.label "अपने व्यक्तिगत कुकीज़ को हटाना">
-<!ENTITY  rememberActions.post.label          ".">
+<!ENTITY  rememberActions.removeCookies.label "अपने व्यक्तिगत कुकीज़ हटा">
+<!ENTITY  rememberActions.post.label          " सकते हैं.">
 
-<!ENTITY  dontrememberDescription.label  "&brandShortName; will use the same settings as private browsing, and will not remember any history as you browse the Web.">
+<!ENTITY  dontrememberDescription.label  "&brandShortName; बतौर निजी ब्राउज़िंग की तरह समान सेटिंग का उपयोग करेगा, और कोई इतिहास याद नहीं रखेगा जब आप वेब ब्राउज़ करते हैं.">
 
 <!-- LOCALIZATION NOTE (dontrememberActions.pre.label): include a trailing space as needed -->
 <!-- LOCALIZATION NOTE (dontrememberActions.post.label): include a starting space as needed -->
