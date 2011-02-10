@@ -4,8 +4,6 @@
 <!ENTITY weaveDesc.label            "A &syncBrand.fullName.label; lehetővé teszi az előzmények, könyvjelzők, jelszavak és megnyitott lapok elérését minden eszközön.">
 
 <!-- The page shown when logged in... -->
-<!ENTITY accountGroupboxCaption.label "&syncBrand.fullName.label;-fiók">
-<!ENTITY currentAccount.label         "Jelenlegi fiók:">
 
 <!-- Login error feedback -->
 <!ENTITY updatePass.label             "Frissítés">
@@ -18,13 +16,7 @@
 <!ENTITY changePassword.label         "Jelszócsere">
 <!ENTITY mySyncKey.label              "Saját Sync-kulcs">
 <!ENTITY resetSync.label              "Sync alaphelyzetbe">
-<!ENTITY stopUsingAccount.label       "Fiók használatának abbahagyása">
 <!ENTITY addDevice.label              "Eszköz hozzáadása">
-
-<!-- Sync Settings -->
-<!ENTITY syncPrefsCaption.label       "Böngésző szinkronizálása">
-<!ENTITY syncComputerName.label       "Számítógép neve:">
-<!ENTITY syncComputerName.accesskey   "S">
 
 <!ENTITY syncMy.label               "Szinkronizálandó">
 <!ENTITY engine.bookmarks.label     "Könyvjelzők">
@@ -38,6 +30,10 @@
 <!ENTITY engine.prefs.label         "Beállítások">
 <!ENTITY engine.prefs.accesskey     "B">
 
+<!-- Device Settings -->
+<!ENTITY syncComputerName.label       "Számítógép neve:">
+<!ENTITY syncComputerName.accesskey   "S">
+<!ENTITY deactivateDevice.label       "Eszköz deaktiválása">
 
 <!-- Footer stuff -->
 <!ENTITY prefs.tosLink.label        "A szolgáltatás feltételei">

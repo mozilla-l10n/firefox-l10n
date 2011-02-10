@@ -19,3 +19,4 @@
 <!ENTITY sync.serverURL             "Kiszolgáló URL-je">
 <!ENTITY sync.setup.connect         "Kapcsolódás">
 <!ENTITY sync.setup.cancel          "Mégse">
+<!ENTITY sync.setup.tutorial        "Hogy kell?">

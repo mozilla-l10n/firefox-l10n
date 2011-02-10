@@ -49,6 +49,3 @@
 <!ENTITY pref.defaultlength.accesskey "e">
 <!ENTITY pref.defaultsnoozelength.label "Alapértelmezett szundihossz:" >
 <!ENTITY pref.defaultsnoozelength.accesskey "s">
-<!ENTITY pref.refreshbox.label "Beállítások frissítése" >
-<!ENTITY pref.autorefresh.label "Naptárak frissítése" >
-<!ENTITY pref.autorefresh.accesskey "N">

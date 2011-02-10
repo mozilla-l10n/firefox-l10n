@@ -26,6 +26,7 @@
 <!ENTITY historyHeader.label       "Előzmények">
 <!ENTITY desktopHeader.label       "Asztal">
 
+<!ENTITY editBookmarkDialog.title  "Könyvjelző szerkesztése">
 <!ENTITY editBookmarkDone.label    "Kész">
 <!ENTITY editBookmarkTags.label    "Címke hozzáadása">
 

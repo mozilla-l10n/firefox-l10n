@@ -77,11 +77,3 @@ LOCALIZATION NOTE : Do not translate any of the occurrences of the word
 
 <!ENTITY title.label              "Cím">
 <!ENTITY processing.label         "Importálás...">
-
-<!ENTITY FieldDiscInputText1.label  "A Netscape Communicator 4.x egy levélcímet kezel egy névjegyen, &brandShortName; pedig kettőt (otthoni és munkahelyi).">
-<!ENTITY FieldDiscInputText2.label  "Válassza ki, hogy melyik mezőbe kerüljön az importált levélcím:">
-<!ENTITY FieldDiscWarning.label  "Ez a beállítás az összes névjegyre érvényes lesz: ">
-<!ENTITY importHome.label        "Otthon">
-<!ENTITY importHome.accesskey    "O">
-<!ENTITY importWork.label        "Munkahely">
-<!ENTITY importWork.accesskey    "M">
