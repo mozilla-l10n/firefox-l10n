@@ -44,6 +44,3 @@
 <!ENTITY pref.defaultlength.accesskey "D">
 <!ENTITY pref.defaultsnoozelength.label "Duración predeterminada de retardo:">
 <!ENTITY pref.defaultsnoozelength.accesskey "u">
-<!ENTITY pref.refreshbox.label "Configuración de actualizaciones">
-<!ENTITY pref.autorefresh.label "Actualizar los calendarios cada">
-<!ENTITY pref.autorefresh.accesskey "A">
