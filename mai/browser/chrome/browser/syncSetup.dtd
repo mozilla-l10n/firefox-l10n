@@ -62,6 +62,7 @@
 
 <!-- Existing Account Page 2: Sync Key -->
 
+<!ENTITY resetSyncKey.label           "हम अपन आन युक्तिकेँ गुम कए देलए.">
 
 <!ENTITY verifying.label              "जाँचि रहल अछि…">
 
