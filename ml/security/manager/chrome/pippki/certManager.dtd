@@ -95,7 +95,7 @@
 <!ENTITY certmgr.override_lifetime "ജീവിത കാലാവധി">
 <!ENTITY certmgr.tokenname "സുരക്ഷ ഉപകരണങ്ങള്‍ ">
 <!-- ENTITY certmgr.purpose "ഉദ്ദേശങ്ങള്‍ " -->
-<!ENTITY certmgr.issued "പ്രസിദ്ധീകരിച്ചതു് എന്നു്>
+<!ENTITY certmgr.issued "പ്രസിദ്ധീകരിച്ചതു് എന്നു്">
 <!ENTITY certmgr.expires "കാലാവധി കഴിയുന്നത്‌ ">
 <!ENTITY certmgr.email "ഇമെയില്‍ വിലാസം ">
 <!ENTITY certmgr.serial "സീരിയല്‍ നമ്പര്‍">

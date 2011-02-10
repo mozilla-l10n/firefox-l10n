@@ -524,4 +524,5 @@
 <!ENTITY preferencesCmd2.label       "ഐച്ഛികങ്ങള്‍">
 <!ENTITY showAllBookmarks2.label "എല്ലാ അടയാളക്കുറിപ്പുകളും കാണിയ്ക്കുക">
 <!ENTITY addonBarCloseButton.tooltip  "ആഡ്-ഓണ്‍ ബാര്‍ അടയ്ക്കുക">
+<!ENTITY toggleAddonBarCmd.key        "/">
 

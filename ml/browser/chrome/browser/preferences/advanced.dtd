@@ -106,3 +106,6 @@
 
 <!ENTITY overrideSmartCacheSize.label    "ഓട്ടോമാറ്റിക് കാഷ് മാനേജ്മെന്റ് മാറ്റി സ്ഥാപിയ്ക്കുക">
 <!ENTITY overrideSmartCacheSize.accesskey "O">
+
+<!ENTITY doNotTrack.label                "നിരീക്ഷിയ്ക്കേണ്ടതില്ലെന്നു് വെബ് സൈറ്റുകള്‍ക്കു് നിര്‍ദ്ദേശം നല്‍കുക">
+<!ENTITY doNotTrack.accesskey            "d">
