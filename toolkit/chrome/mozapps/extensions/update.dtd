@@ -43,6 +43,6 @@
 <!ENTITY  installerrors.intro.label       "&brandShortName; hat Probleme während des Updates festgestellt. Daher konnten nicht alle Add-ons aktualisiert werden.">
 
 <!-- general strings used by several of the finish pages -->
-<!ENTITY  clickFinish.label               "Klicken Sie auf Fertig stellen, um &brandShortName; zu starten.">
-<!ENTITY  clickFinish.labelMac            "Klicken Sie auf Fertig stellen, um &brandShortName; zu starten.">
+<!ENTITY  clickFinish.label               "Klicken Sie auf Fertigstellen, um &brandShortName; zu starten.">
+<!ENTITY  clickFinish.labelMac            "Klicken Sie auf Fertigstellen, um &brandShortName; zu starten.">
 <!ENTITY  enableChecking.label            "&brandShortName; erlauben, auf Updates zu überprüfen.">
