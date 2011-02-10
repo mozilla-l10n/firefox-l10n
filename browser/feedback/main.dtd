@@ -29,3 +29,6 @@
 <!ENTITY testpilot.feedbackbutton.label                "التعليق">
 <!ENTITY testpilot.happy.label        "فَيَرفُكس أسعدني والسبب…">
 <!ENTITY testpilot.sad.label          "فَيَرفٌكس أحزنني والسبب…">
+<!ENTITY testpilot.broken.label      "بلّغ عن هذا الموقع أنه لا يعمل بشكل سليم…">
+<!ENTITY testpilot.idea.label        "قدِّم لنا اقتراحًا…">
+

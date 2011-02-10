@@ -13,9 +13,6 @@
 
 <!ENTITY abouthome.searchEngineButton.label "ابحث">
 
-<!ENTITY abouthome.searchEngineLinks.advanced "بحث متقدم">
-<!ENTITY abouthome.searchEngineLinks.preferences "تفضيلات">
-
 <!ENTITY abouthome.aboutMozilla "عن موزيلا">
 
 <!-- LOCALIZATION NOTE (abouthome.defaultSnippet1.v1):
