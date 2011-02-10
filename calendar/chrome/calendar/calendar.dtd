@@ -301,6 +301,12 @@
 <!ENTITY calendar.alarm.snooze.2hours.label "2 timer">
 <!ENTITY calendar.alarm.snooze.1day.label "1 dag">
 
+<!-- LOCALIZATION NOTE (calendar.alarm.snooze.cancel)
+     This string is not seen in the UI, it is read by screen readers when the
+     user focuses the "Cancel" button in the "Snooze for..." popup of the alarm
+     dialog. -->
+<!ENTITY calendar.alarm.snooze.cancel               "Fortryd udsættelse">
+
 <!-- Calendar Server Dialog -->
 <!ENTITY calendar.server.dialog.title.edit "Rediger kalender">
 <!ENTITY calendar.server.dialog.name.label "Kalendernavn:">
@@ -312,6 +318,8 @@
 <!ENTITY calendarproperties.wcap.label "Sun Java System Calendar Server (WCAP)">
 <!ENTITY calendarproperties.format.label "Format:">
 <!ENTITY calendarproperties.location.label "Placering:">
+<!ENTITY calendarproperties.refreshInterval.label          "Opdater kalender:">
+<!ENTITY calendarproperties.refreshInterval.manual.label   "Manuelt">
 <!ENTITY calendarproperties.name.label "Navn:">
 <!ENTITY calendarproperties.readonly.label "Skrivebeskyttet">
 <!ENTITY calendarproperties.firealarms.label "Vis alarmer">

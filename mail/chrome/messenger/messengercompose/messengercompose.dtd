@@ -210,7 +210,6 @@
 <!ENTITY followupAddr.label "Opfølgning til (Followup-To):">
 <!ENTITY subject.label "Emne:">
 <!ENTITY subject.accesskey "E">
-<!ENTITY attachments.label "Vedhæftede filer:">
 <!ENTITY attachments.accesskey "æ">
 
 <!-- Format Toolbar, imported from editorAppShell.xul -->
