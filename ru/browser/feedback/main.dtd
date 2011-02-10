@@ -21,3 +21,5 @@
 <!ENTITY testpilot.feedbackbutton.label "Обратная связь">
 <!ENTITY testpilot.happy.label "Firefox порадовал меня, так как…">
 <!ENTITY testpilot.sad.label "Firefox огорчил меня, так как…">
+<!ENTITY testpilot.broken.label "Сообщить что этот веб-сайт сломан…">
+<!ENTITY testpilot.idea.label "Отправить нам предложение…">

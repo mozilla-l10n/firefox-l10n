@@ -9,7 +9,7 @@
 <!ENTITY closeOtherTabs.label "Закрыть другие вкладки">
 <!ENTITY closeOtherTabs.accesskey "д">
 <!ENTITY pinAppTab.label "Закрепить вкладку">
-<!ENTITY pinAppTab.accesskey "е">
+<!ENTITY pinAppTab.accesskey "к">
 <!ENTITY unpinAppTab.label "Открепить вкладку">
 <!ENTITY unpinAppTab.accesskey "п">
 <!ENTITY moveToGroup.label "Переместить в группу">
@@ -22,10 +22,10 @@
 <!ENTITY undoCloseTab.label "Восстановить закрытую вкладку">
 <!ENTITY undoCloseTab.accesskey "с">
 <!ENTITY closeTab.label "Закрыть вкладку">
-<!ENTITY closeTab.accesskey "к">
+<!ENTITY closeTab.accesskey "р">
 <!ENTITY listAllTabs.label "Список всех вкладок">
 <!ENTITY tabCmd.label "Новая вкладка">
-<!ENTITY tabCmd.accesskey "в">
+<!ENTITY tabCmd.accesskey "о">
 <!ENTITY tabCmd.commandkey "t">
 <!ENTITY openLocationCmd.label "Открыть адрес…">
 <!ENTITY openLocationCmd.accesskey "а">
@@ -241,29 +241,29 @@
 <!ENTITY openLinkCmd.label "Открыть в новом окне">
 <!ENTITY openLinkCmd.accesskey "н">
 <!ENTITY openLinkCmdInCurrent.label "Открыть ссылку">
-<!ENTITY openLinkCmdInCurrent.accesskey "т">
+<!ENTITY openLinkCmdInCurrent.accesskey "к">
 <!ENTITY openFrameCmdInTab.label "Открыть фрейм в новой вкладке">
-<!ENTITY openFrameCmdInTab.accesskey "н">
+<!ENTITY openFrameCmdInTab.accesskey "в">
 <!ENTITY openFrameCmd.label "Открыть фрейм в новом окне">
-<!ENTITY openFrameCmd.accesskey "О">
+<!ENTITY openFrameCmd.accesskey "н">
 <!ENTITY showOnlyThisFrameCmd.label "Показать только этот фрейм">
 <!ENTITY showOnlyThisFrameCmd.accesskey "П">
 <!ENTITY reloadCmd.commandkey "r">
 <!ENTITY reloadFrameCmd.label "Обновить фрейм">
-<!ENTITY reloadFrameCmd.accesskey "ф">
+<!ENTITY reloadFrameCmd.accesskey "и">
 <!ENTITY viewPartialSourceForSelectionCmd.label "Исходный код выделенного фрагмента">
 <!ENTITY viewPartialSourceForMathMLCmd.label "Исходный код MathML">
-<!ENTITY viewPartialSourceCmd.accesskey "и">
+<!ENTITY viewPartialSourceCmd.accesskey "д">
 <!ENTITY viewPageSourceCmd.label "Исходный код страницы">
-<!ENTITY viewPageSourceCmd.accesskey "х">
+<!ENTITY viewPageSourceCmd.accesskey "о">
 <!ENTITY viewFrameSourceCmd.label "Исходный код фрейма">
-<!ENTITY viewFrameSourceCmd.accesskey "р">
+<!ENTITY viewFrameSourceCmd.accesskey "о">
 <!ENTITY viewPageInfoCmd.label "Информация о странице">
-<!ENTITY viewPageInfoCmd.accesskey "ф">
+<!ENTITY viewPageInfoCmd.accesskey "ц">
 <!ENTITY viewFrameInfoCmd.label "Информация о фрейме">
 <!ENTITY viewFrameInfoCmd.accesskey "ц">
 <!ENTITY reloadImageCmd.label "Перезагрузить изображение">
-<!ENTITY reloadImageCmd.accesskey "р">
+<!ENTITY reloadImageCmd.accesskey "и">
 <!ENTITY viewImageCmd.label "Открыть изображение">
 <!ENTITY viewImageCmd.accesskey "т">
 <!ENTITY viewImageInfoCmd.label "Информация об изображении">
@@ -271,9 +271,9 @@
 <!ENTITY viewVideoCmd.label "Открыть видео">
 <!ENTITY viewVideoCmd.accesskey "т">
 <!ENTITY viewBGImageCmd.label "Открыть фоновое изображение">
-<!ENTITY viewBGImageCmd.accesskey "р">
+<!ENTITY viewBGImageCmd.accesskey "ы">
 <!ENTITY setDesktopBackgroundCmd.label "Сделать фоновым рисунком рабочего стола…">
-<!ENTITY setDesktopBackgroundCmd.accesskey "д">
+<!ENTITY setDesktopBackgroundCmd.accesskey "е">
 <!ENTITY bookmarkPageCmd2.label "Добавить страницу в закладки">
 <!ENTITY bookmarkPageCmd2.accesskey "б">
 <!ENTITY bookmarkThisLinkCmd.label "Добавить ссылку в закладки">
@@ -281,13 +281,13 @@
 <!ENTITY bookmarkThisFrameCmd.label "Добавить фрейм в закладки">
 <!ENTITY bookmarkThisFrameCmd.accesskey "б">
 <!ENTITY sendPageCmd.label "Отправить ссылку…">
-<!ENTITY sendPageCmd.accesskey "с">
+<!ENTITY sendPageCmd.accesskey "п">
 <!ENTITY savePageCmd.label "Сохранить как…">
 <!ENTITY savePageCmd.accesskey "х">
 <!ENTITY savePageCmd.accesskey2 "р">
 <!ENTITY savePageCmd.commandkey "s">
 <!ENTITY saveFrameCmd.label "Сохранить фрейм как…">
-<!ENTITY saveFrameCmd.accesskey "С">
+<!ENTITY saveFrameCmd.accesskey "н">
 <!ENTITY printFrameCmd.label "Печать фрейма…">
 <!ENTITY printFrameCmd.accesskey "ч">
 <!ENTITY saveLinkCmd.label "Сохранить объект как…">
@@ -295,21 +295,21 @@
 <!ENTITY sendLinkCmd.label "Отправить ссылку…">
 <!ENTITY sendLinkCmd.accesskey "т">
 <!ENTITY saveImageCmd.label "Сохранить изображение как…">
-<!ENTITY saveImageCmd.accesskey "х">
+<!ENTITY saveImageCmd.accesskey "з">
 <!ENTITY saveVideoCmd.label "Сохранить видео как…">
-<!ENTITY saveVideoCmd.accesskey "х">
+<!ENTITY saveVideoCmd.accesskey "з">
 <!ENTITY saveAudioCmd.label "Сохранить аудио как…">
 <!ENTITY saveAudioCmd.accesskey "х">
 <!ENTITY sendImageCmd.label "Отправить изображение…">
-<!ENTITY sendImageCmd.accesskey "з">
+<!ENTITY sendImageCmd.accesskey "а">
 <!ENTITY sendVideoCmd.label "Отправить видео…">
-<!ENTITY sendVideoCmd.accesskey "п">
+<!ENTITY sendVideoCmd.accesskey "а">
 <!ENTITY sendAudioCmd.label "Отправить аудио…">
-<!ENTITY sendAudioCmd.accesskey "п">
+<!ENTITY sendAudioCmd.accesskey "а">
 <!ENTITY copyLinkCmd.label "Копировать ссылку">
 <!ENTITY copyLinkCmd.accesskey "ы">
 <!ENTITY copyImageCmd.label "Копировать ссылку на изображение">
-<!ENTITY copyImageCmd.accesskey "и">
+<!ENTITY copyImageCmd.accesskey "п">
 <!ENTITY copyImageContentsCmd.label "Копировать изображение">
 <!ENTITY copyImageContentsCmd.accesskey "и">
 <!ENTITY copyVideoURLCmd.label "Копировать ссылку на видео">
