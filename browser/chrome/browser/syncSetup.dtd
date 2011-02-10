@@ -4,7 +4,7 @@
 
 <!ENTITY setup.pickSetupType.description "Hoş geldiniz, daha önce hiç &syncBrand.fullName.label; kullanmadıysanız yeni bir hesap açmanız gerekecek.">
 <!ENTITY button.createNewAccount.label "Yeni hesap aç">
-<!ENTITY setup.haveAccount.label "Hâlihazırda bir &syncBrand.fullName.label; hesabım var">
+<!ENTITY setup.haveAccount.label "Hâlihazırda bir &syncBrand.fullName.label; hesabım var.">
 <!ENTITY button.connect.label "Bağlan">
 
 <!ENTITY setup.choicePage.title.label "Daha önce &syncBrand.fullName.label; kullandınız mı?">
@@ -104,5 +104,5 @@
 <!-- New & Existing Account: Setup Complete -->
 
 <!ENTITY setup.successPage.title "Kurulum tamamlandı">
-<!ENTITY changeOptions.label "Bu tercihi aşağıdaki Sync seçeneklerine girerek değiştirebilirsiniz">
+<!ENTITY changeOptions.label "Bu tercihi aşağıdaki Sync seçeneklerine girerek değiştirebilirsiniz.">
 <!ENTITY continueUsing.label "Şimdi &brandShortName; uygulamasını kullanmaya devam edebilirsiniz.">
