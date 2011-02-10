@@ -295,11 +295,11 @@
 <!ENTITY sendLinkCmd.label "Отправить ссылку…">
 <!ENTITY sendLinkCmd.accesskey "т">
 <!ENTITY saveImageCmd.label "Сохранить изображение как…">
-<!ENTITY saveImageCmd.accesskey "з">
+<!ENTITY saveImageCmd.accesskey "о">
 <!ENTITY saveVideoCmd.label "Сохранить видео как…">
-<!ENTITY saveVideoCmd.accesskey "з">
+<!ENTITY saveVideoCmd.accesskey "о">
 <!ENTITY saveAudioCmd.label "Сохранить аудио как…">
-<!ENTITY saveAudioCmd.accesskey "х">
+<!ENTITY saveAudioCmd.accesskey "о">
 <!ENTITY sendImageCmd.label "Отправить изображение…">
 <!ENTITY sendImageCmd.accesskey "а">
 <!ENTITY sendVideoCmd.label "Отправить видео…">
