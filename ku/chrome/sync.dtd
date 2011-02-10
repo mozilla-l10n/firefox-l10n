@@ -1,0 +1,22 @@
+<!ENTITY sync.title                 "Sync">
+<!ENTITY sync.notconnected          "Nehat girêdan">
+<!ENTITY sync.connect               "Girêbide">
+<!ENTITY sync.connected             "Hate girêdan">
+<!ENTITY sync.details               "Kitekit">
+<!ENTITY sync.synchronize           "Syncê çalak bike">
+<!ENTITY sync.deviceName            "Ev cîhaz">
+<!ENTITY sync.disconnect            "Girêdanê qut bike">
+<!ENTITY sync.syncNow               "Niha Senkronîze Bike">
+
+<!ENTITY sync.setup.title           "Bi Syncê re girêdanê çêke">
+<!ENTITY sync.setup.jpake           "Li ser kompîtereke bi Firefox Sync-girdanê, here vebijêrkên Syncê û cîhazekê&#x0022; &#x0022;Têxê">
+<!ENTITY sync.fallback              "Ez ne nêzîkî kompîtera xwe me…">
+<!ENTITY sync.setup.manual          "Agahiyên hesabê xwe yê Syncê binivîse">
+<!ENTITY sync.account               "Navê hesabî">
+<!ENTITY sync.password              "Şîfre">
+<!ENTITY sync.syncKey               "Kilîla Syncê">
+<!ENTITY sync.customServer          "Pêşkêşkara takekesî bi kar bîne">
+<!ENTITY sync.serverURL             "URL'a pêşkêşkarê">
+<!ENTITY sync.setup.connect         "Girêbide">
+<!ENTITY sync.setup.cancel          "Betal">
+<!ENTITY sync.setup.tutorial        "Nîşan bide ka çawan">

@@ -1,0 +1,115 @@
+<!ENTITY urlbar.emptytext      "Lêgerîn an jî navnîşanê binivîse">
+
+<!ENTITY back.label            "Paşve">
+<!ENTITY forward.label         "Pêşve">
+<!ENTITY reload.label          "Dîsbarkirin">
+<!ENTITY stop.label            "Bisekinîne">
+<!ENTITY go.label              "Herê">
+<!ENTITY star.label            "Stêrk">
+
+<!ENTITY newtab.label          "Hilpekîna nû">
+<!ENTITY closetab.label        "Hilpekînê bigire">
+
+<!ENTITY cut.label             "Jê bike">
+<!ENTITY copy.label            "Ji ber bigire">
+<!ENTITY copyAll.label         "Gişî kopî bike">
+<!ENTITY copylink.label        "Ciyê girêdanê ji ber bigire">
+<!ENTITY paste.label           "Pê ve bike">
+<!ENTITY delete.label          "Jê bibe">
+<!ENTITY selectAll.label       "Gişî hilbijêre">
+<!ENTITY noSuggestions.label   "(Pêşniyar tune ne)">
+<!ENTITY addToDictionary.label "Têxe pelrêçê">
+<!ENTITY inputMethod.label     "Rêbaza ketanê hilbijêre">
+
+<!ENTITY allPagesHeader.label      "Hemû rûpelên heyî">
+<!ENTITY bookmarksHeader.label     "Bijare">
+<!ENTITY historyHeader.label       "Dîrok">
+<!ENTITY desktopHeader.label       "Sermase">
+
+<!ENTITY editBookmarkDialog.title  "Bijareyê serast bike">
+<!ENTITY editBookmarkDone.label    "Qediya">
+<!ENTITY editBookmarkTags.label    "Etîketan bixe vê derê">
+
+<!ENTITY selectHelper.done         "Qediya">
+
+<!ENTITY addonsHeader.label        "Add-on">
+<!ENTITY addonsLocal.label         "Add-onên te">
+<!ENTITY addonsUpdate.label        "Rojane bike">
+<!ENTITY addonsRepo.label          "Add-onan bistîne">
+<!ENTITY addonsRecommended.label   "Pêșniyarbûyî">
+<!ENTITY addonsSearch.label        "Bigere">
+<!ENTITY addonsSearch2.emptytext   "Kataloga lêgerînê">
+<!ENTITY addonsSearch.recommended  "Pêşniyarbûyî">
+
+<!ENTITY addonOptions.label        "Vebijêrk">
+<!ENTITY addonEnable.label         "Çalak bike">
+<!ENTITY addonDisable.label        "Neçalak bike">
+<!ENTITY addonInstall2.label       "Têxe &brandShortName;ê">
+<!ENTITY addonUninstall.label      "Rake">
+<!ENTITY addonCancel.label         "Betal">
+<!ENTITY addonShowPage.label       "Here rûpelê">
+
+<!ENTITY downloadsHeader.label     "Yên Daxistî">
+
+<!ENTITY downloadShowPage.label    "Here rûpelê">
+<!ENTITY downloadShow2.label       "Bibîne">
+<!ENTITY downloadOpen2.label       "Veke">
+<!ENTITY downloadCancel.label      "Betal">
+<!ENTITY downloadPause.label       "Rawestîne">
+<!ENTITY downloadResume.label      "Bidomîne">
+<!ENTITY downloadRetry.label       "Dubare">
+<!ENTITY downloadRemove.label      "Rake">
+<!ENTITY downloadDelete.label      "Jê bibe">
+<!ENTITY downloadFailed.label      "Têk çû">
+
+<!ENTITY noResults.label           "Encam tune ne">
+<!ENTITY allBookmarks.label        "Hemû bijareyan bibîne">
+
+<!ENTITY bookmarkPopup.label       "Rûpel li bijareyan hat zêdekirin">
+<!ENTITY bookmarkRemove.label      "Rake">
+<!ENTITY bookmarkEdit.label        "Serast bike">
+
+<!ENTITY identity.unverifiedsite2 "Di vê malperê de agahiyên nasnameyê nîn in.">
+<!ENTITY identity.connectedTo2 "Bi vê ve hate girêdan">
+<!-- Localization note (identity.runBy2)
+ The layout of the identity dialog prevents combining this into a single string with
+ substitution variables.  If it is difficult to translate the sense of the string
+ with that structure, consider a translation which ignores the preceding domain and
+ just addresses the organization to follow, e.g. "This site is run by " -->
+<!ENTITY identity.runBy2 "ji hêla vê ve bide xebitandin">
+
+<!ENTITY consoleHeader.label       "Konsola çewtiyan">
+<!ENTITY consoleAll.label          "Hemû">
+<!ENTITY consoleErrors.label       "Çewtî">
+<!ENTITY consoleWarnings.label     "Hişyarî">
+<!ENTITY consoleMessages.label     "Peyam">
+<!ENTITY consoleCodeEval.label     "Kod:">
+<!ENTITY consoleClear.label        "Paqij bike">
+<!ENTITY consoleEvaluate.label     "…">
+<!ENTITY consoleErrFile.label      "Pelê çavkanî:">
+<!ENTITY consoleErrLine.label      "Rêzik:">
+<!ENTITY consoleErrColumn.label    "Sitûn:">
+
+<!ENTITY contextOpenInNewTab.label    "Girêdanê di hilpekîneke nû de veke">
+<!ENTITY contextSaveLink.label        "Lînkê tomar bike">
+<!ENTITY contextSaveImage.label       "Wêneyî tomar bike">
+<!ENTITY contextShareLink.label       "Girêdanê tomar bike">
+<!ENTITY contextShareImage.label      "Wêneyî parve bike">
+<!ENTITY contextSaveVideo.label       "Vîdeoyê tomar bike">
+<!ENTITY contextShareVideo.label      "Vîdeoyê tomar bike">
+<!ENTITY contextPlayMedia.label       "Lêdan">
+<!ENTITY contextPauseMedia.label      "Rawestîne">
+<!ENTITY contextFullScreen.label      "Dîmender tijî">
+<!ENTITY contextEditBookmark.label    "Serast bike">
+<!ENTITY contextRemoveBookmark.label  "Rake">
+
+<!ENTITY pageactions.saveas.pdf      "Wekî PDF tomar bike">
+<!ENTITY pageactions.share.page      "Rûpelê tomar bike">
+<!ENTITY pageactions.password.forget "Şîfreyê ji bîr bike">
+<!ENTITY pageactions.reset           "Vebijêrkên malperê paqij bike">
+<!ENTITY pageactions.findInPage      "Di rûpelê de bibîne">
+<!ENTITY pageactions.search.addNew   "Motora lêgerînê têxê">
+
+<!ENTITY selectHelper.emptytext      "Lîsteya fîltreyê">
+
+<!ENTITY appMenu.siteOptions         "Vebijêrkên malperê">
