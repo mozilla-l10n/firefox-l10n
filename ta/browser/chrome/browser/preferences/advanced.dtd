@@ -97,6 +97,8 @@
 
 <!ENTITY allowHWAccel.label              "கிடைக்கும்போது வன்பொருள் முடுக்கத்தை பயன்படுத்தவும்">
 <!ENTITY allowHWAccel.accesskey          "h">
+<!ENTITY doNotTrack.label                "என்னை தேடுவதை விரும்பவில்லை என இணையதளங்களுக்குச் சொல்லவும்">
+<!ENTITY doNotTrack.accesskey            "d">
 
 <!ENTITY enableAddonsUpdate2.label       "கூடுதல் இணைப்புகள்">
 <!ENTITY enableAddonsUpdate2.accesskey   "n">
