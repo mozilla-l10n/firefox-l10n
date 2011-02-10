@@ -29,3 +29,5 @@
 <!ENTITY testpilot.feedbackbutton.label                "Feedback">
 <!ENTITY testpilot.happy.label        "Firefox heeft me blij gemaakt omdat…">
 <!ENTITY testpilot.sad.label          "Firefox heeft me teleurgesteld omdat…">
+<!ENTITY testpilot.broken.label      "Deze website als defect rapporteren…">
+<!ENTITY testpilot.idea.label        "Geef ons een suggestie…">
