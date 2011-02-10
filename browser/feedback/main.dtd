@@ -29,3 +29,6 @@
 <!ENTITY testpilot.feedbackbutton.label                "प्रतिसाद">
 <!ENTITY testpilot.happy.label        "फायरफॉक्सने मला खुश केले कारण…">
 <!ENTITY testpilot.sad.label          "फायरफॉक्सने मला दुःखी केले कारण…">
+
+<!ENTITY testpilot.broken.label      "या संकेतस्थळाला खंडीत असे रिपोर्ट करा…">
+<!ENTITY testpilot.idea.label        "सूचना द्या…">
