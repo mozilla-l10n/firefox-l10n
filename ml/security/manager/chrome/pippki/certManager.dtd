@@ -44,8 +44,8 @@
 <!ENTITY certmgr.tab.ca "അതോരിറ്റികള്‍">
 <!ENTITY certmgr.tab.orphan2 "വേറെ">
 
-<!ENTITY certmgr.ca.builtins "Built-in CAs">
-<!ENTITY certmgr.ca.mycas "CAs നിങ്ങള്‍ കയ്കാര്യം ചെയ്യുന്നതു്‌ ">
+<!ENTITY certmgr.ca.builtins "ബിള്‍ട്ടിന്‍ സര്‍ട്ടിഫിക്കേറ്റുകള്‍">
+<!ENTITY certmgr.ca.mycas "നിങ്ങള്‍ കൈകാര്യം ചെയ്യുന്ന സര്‍ട്ടിഫിക്കേറ്റുകള്‍‌ ">
 <!ENTITY certmgr.mine "നിങ്ങള്‍ക്കു്‌ ഈ സംഘടനകളില്‍ നിന്നു്‌ നിങ്ങളെ തിരിച്ചറിയുന്നതായ സര്‍ട്ടിഫിക്കറ്റുകള്‍ ഉണ്ട്:">
 <!ENTITY certmgr.others "നിങ്ങള്‍ക്ക് ഫയലില്‍ ഈ ആളുകളെ തിരിച്ചറിയുന്നതായ സര്‍ട്ടിഫിക്കറ്റുകളുണ്ട്:">
 <!ENTITY certmgr.websites2 "നിങ്ങള്‍ക്ക് ഫയലില്‍ സര്‍ട്ടിഫിക്കറ്റുകള്‍ ഉണ്ട്, ഈ സര്‍വറുകള്‍ തിരിച്ചറിയാന്‍ :">
@@ -67,8 +67,8 @@
 <!ENTITY certmgr.certdetail.o "സ്ഥാപനം">
 <!ENTITY certmgr.certdetail.ou "Organisational Unit (OU)">
 <!ENTITY certmgr.certdetail.serialnumber "സീരിയല്‍ നമ്പര്‍">
-<!ENTITY certmgr.certdetail.sha1fingerprint "SHA1 Fingerprint">
-<!ENTITY certmgr.certdetail.md5fingerprint "MD5 Fingerprint">
+<!ENTITY certmgr.certdetail.sha1fingerprint "SHA1 ഫിംഗര്‍പ്രിന്റ്">
+<!ENTITY certmgr.certdetail.md5fingerprint "MD5 ഫിംഗര്‍പ്രിന്റ്">
 <!ENTITY certmgr.editcert.title "സുരക്ഷ സര്‍ട്ടിഫിക്കറ്റുകളുടെ സജ്ജീകരണങ്ങള്‍ ചിട്ടപെടുത്തുക">
 <!ENTITY certmgr.editcacert.title "CA സര്‍ട്ടിഫിക്കറ്റുകളുടെ വിശ്വസ്ഥത സജ്ജീകരണങ്ങള്‍ ചിട്ടപെടുത്തുക">
 <!ENTITY certmgr.editsslcert.title "വെബ്-സൈറ്റ് സര്‍ട്ടിഫിക്കറ്റുകളുടെ വിശ്വസ്ഥത സജ്ജീകരണങ്ങള്‍ ചിട്ടപെടുത്തുക">
@@ -95,7 +95,7 @@
 <!ENTITY certmgr.override_lifetime "ജീവിത കാലാവധി">
 <!ENTITY certmgr.tokenname "സുരക്ഷ ഉപകരണങ്ങള്‍ ">
 <!-- ENTITY certmgr.purpose "ഉദ്ദേശങ്ങള്‍ " -->
-<!ENTITY certmgr.issued "Issued On">
+<!ENTITY certmgr.issued "പ്രസിദ്ധീകരിച്ചതു് എന്നു്>
 <!ENTITY certmgr.expires "കാലാവധി കഴിയുന്നത്‌ ">
 <!ENTITY certmgr.email "ഇമെയില്‍ വിലാസം ">
 <!ENTITY certmgr.serial "സീരിയല്‍ നമ്പര്‍">
@@ -105,7 +105,7 @@
 <!ENTITY certmgr.view2.accesskey "V">
 <!-- ENTITY certmgr.edit2.label "ചിട്ടപ്പെടുത്തുക…" -->
 <!-- ENTITY certmgr.edit2.accesskey "E" -->
-<!ENTITY certmgr.editca.label "Edit CA Trust">
+<!ENTITY certmgr.editca.label "സിഎ ട്രസ്റ്റ് ചിട്ടപ്പെടുത്തുക">
 <!ENTITY certmgr.editca.accesskey "d">
 <!ENTITY certmgr.add.label "ചേര്‍ക്കുക ">
 <!ENTITY certmgr.add.accesskey "A">
@@ -119,11 +119,11 @@
 <!ENTITY certmgr.backupall2.accesskey "k">
 <!ENTITY certmgr.restore2.label "വേറൊരു രൂപത്തില്‍ നിന്നും ഫയല്‍ തുറക്കുക……">
 <!ENTITY certmgr.restore2.accesskey "m">
-<!ENTITY certmgr.details.label "Certificate Fields">
+<!ENTITY certmgr.details.label "സര്‍ട്ടിഫിക്കേറ്റ് ഫീള്‍ഡുകള്‍">
 <!ENTITY certmgr.details.accesskey "F">
 <!ENTITY certmgr.fields.label "ഫീല്‍ഡ്‌ വാല്യൂ">
 <!ENTITY certmgr.fields.accesskey "V">
-<!ENTITY certmgr.hierarchy.label "Certificate Hierarchy">
+<!ENTITY certmgr.hierarchy.label "സര്‍ട്ടിഫിക്കേറ്റ് നിലവാരം">
 <!ENTITY certmgr.hierarchy.accesskey "C"><!ENTITY certmgr.addException.label           "വിവേചനം  ചേര്‍ക്കുക…">
 <!ENTITY certmgr.addException.accesskey       "x">
 
