@@ -13,8 +13,8 @@
 
 <!ENTITY abouthome.searchEngineButton.label "തെരയുക">
 
-<!ENTITY abouthome.searchEngineLinks.advanced "മെച്ചപ്പെട്ട തെരച്ചില്‍">
-<!ENTITY abouthome.searchEngineLinks.preferences "മുന്‍ഗണനകള്‍">
+<!-- ENTITY abouthome.searchEngineLinks.advanced "മെച്ചപ്പെട്ട തെരച്ചില്‍" -->
+<!-- ENTITY abouthome.searchEngineLinks.preferences "മുന്‍ഗണനകള്‍" -->
 
 <!ENTITY abouthome.aboutMozilla "മോസില്ല സംബന്ധിച്ചുള്ള വിവരങ്ങള്‍">
 
