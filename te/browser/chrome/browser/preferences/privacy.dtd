@@ -38,7 +38,7 @@
 <!ENTITY  locationBar.label             "స్థానపు పట్టీ  ">
 
 <!ENTITY  locbar.pre.label              "స్థానపు పట్టీ వాడునప్పుడు,  చెప్పు:">
-<!ENTITY  locbar.pre.accessKey          "l">
+<!ENTITY  locbar.pre.accessKey          "u">
 <!ENTITY  locbar.post.label             "">
 <!ENTITY  locbar.both.label             "చరిత్ర మరియు ఇష్టాంశాలు">
 <!ENTITY  locbar.history.label          "చరిత్ర">
@@ -58,7 +58,7 @@
 
 
 <!ENTITY  historyHeader.pre.label          "&brandShortName;">
-<!ENTITY  historyHeader.pre.accesskey      "F">
+<!ENTITY  historyHeader.pre.accesskey      "w">
 <!ENTITY  historyHeader.remember.label     "చరిత్రని గుర్తు పెట్టుకుంటుంది">
 <!ENTITY  historyHeader.dontremember.label " ఎప్పుడు  చరిత్రని గుర్తు పెట్టుకోదు">
 <!ENTITY  historyHeader.custom.label       "చరిత్రకు వ్యక్తిగత అమరికలు వాడు">
@@ -66,7 +66,7 @@
 <!ENTITY  rememberDescription.label      "&brandShortName; మీ వీక్షణ, దిగుమతి, ఫారమ్ మరియు శోధన చరిత్ర గుర్తుంచుకుంటుంది మరియు, మీరు దర్శించిన వెబ్ సైటులయొక్క కుకీలను దాచుతుంది.">
 
 <!ENTITY  clearOnClose.label             "&brandShortName; మూయునపుడు చరిత్రని చెరిపివేయి">
-<!ENTITY  clearOnClose.accesskey         "w">
+<!ENTITY  clearOnClose.accesskey         "r">
 
 <!ENTITY  clearOnCloseSettings.label     "అమరికలు…">
 <!ENTITY  clearOnCloseSettings.accesskey "t">
@@ -74,7 +74,7 @@
 
 
 <!ENTITY  acceptCookies.label           "కుకీలను సైటుల నుండి ఆమోదించు">
-<!ENTITY  acceptCookies.accesskey       "c">
+<!ENTITY  acceptCookies.accesskey       "A">
 
 <!ENTITY  keepUntil.label               "దీనివరకు వుంచు:">
 <!ENTITY  keepUntil.accesskey           "K">
@@ -92,4 +92,7 @@
 
 
 <!ENTITY  acceptThirdParty.label        "మూడో-వ్యక్తి కుకీలను ఆమోదించుము">
-<!ENTITY  acceptThirdParty.accesskey    "p">
+
+<!ENTITY  acceptThirdParty.accesskey    "c">
+
+

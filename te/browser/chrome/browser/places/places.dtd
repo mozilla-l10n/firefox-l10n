@@ -80,13 +80,13 @@
 <!ENTITY search.label                              "శోధించు:">
 <!ENTITY search.accesskey                          "S">
 <!ENTITY search.scopeFolder.label                  "ఎంపికచేసిన సంచయం">
-<!ENTITY search.scopeFolder.accesskey              "F">
+<!ENTITY search.scopeFolder.accesskey              "r">
 <!ENTITY search.scopeBookmarks.label               "ఇష్టాంశములు">
 <!ENTITY search.scopeBookmarks.accesskey           "k">
 <!ENTITY search.scopeDownloads.label               "డౌన్‌లోడ్స్ ‌">
 <!ENTITY search.scopeDownloads.accesskey           "D">
 <!ENTITY search.scopeHistory.label                 "చరిత్ర">
-<!ENTITY search.scopeHistory.accesskey             "A">
+<!ENTITY search.scopeHistory.accesskey             "H">
 <!ENTITY saveSearch.label                          "భద్రపరచు">
 <!ENTITY saveSearch.accesskey                      "S">
 <!ENTITY cmd.find.key  "f">
