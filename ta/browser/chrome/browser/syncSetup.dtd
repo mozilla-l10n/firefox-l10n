@@ -13,7 +13,7 @@
 <!ENTITY server.label               "சேவையகம்">
 <!ENTITY serverType.main.label      "&syncBrand.fullName.label; சேவையகம்">
 <!ENTITY signIn.account2.label       "மின்னஞ்சல் முகவரி / பயனர் பெயர்">
-<!ENTITY signIn.account2.accesskey   "E">
+<!ENTITY signIn.account2.accesskey   "A">
 <!ENTITY signIn.password.label      "கடவுச்சொல்">
 <!ENTITY signIn.password.accesskey  "P">
 
@@ -26,7 +26,7 @@
 <!-- LOCALIZATION NOTE: tosAgree1, tosLink, tosAgree2, ppLink, tosAgree3 are
      joined with implicit white space, so spaces in the strings aren't necessary -->
 <!ENTITY setup.tosAgree1.label      "சேவையின் விதிமுறை">
-<!ENTITY setup.tosAgree1.accesskey  "மற்றும்">
+<!ENTITY setup.tosAgree1.accesskey  "a">
 <!ENTITY setup.tosLink.label        "தனிமை கொள்கை">
 <!ENTITY setup.tosAgree2.label      "நான்">
 <!ENTITY setup.ppLink.label         "ஏற்கிறேன்">
