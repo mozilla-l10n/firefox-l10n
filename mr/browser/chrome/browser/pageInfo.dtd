@@ -29,7 +29,7 @@
 <!ENTITY mediaCount "मोजमाप">
 <!ENTITY mediaLongdesc "विस्तारीत  वर्णन:">
 <!ENTITY mediaSaveAs "पान सुरक्षित करा(S)...">
-<!ENTITY mediaSaveAs.accesskey "S">
+<!ENTITY mediaSaveAs.accesskey "A">
 <!ENTITY mediaPreview "माध्यमाचे पूर्वदर्शन:">
 
 <!--today-->

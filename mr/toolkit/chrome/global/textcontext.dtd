@@ -11,7 +11,7 @@
 <!ENTITY deleteCmd.label "काढुन टाका">
 <!ENTITY deleteCmd.accesskey "d">
 <!ENTITY spellAddToDictionary.label "शब्दकोशात समाविष्ट करा">
-<!ENTITY spellAddToDictionary.accesskey "t">
+<!ENTITY spellAddToDictionary.accesskey "o">
 
 <!ENTITY spellNoSuggestions.label "(शब्दलेखन विचारार्थ मांडले नाही)">
 <!ENTITY spellDictionaries.label "भाषा">
