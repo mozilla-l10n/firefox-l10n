@@ -13,9 +13,6 @@
 
 <!ENTITY abouthome.searchEngineButton.label "Lorg">
 
-<!ENTITY abouthome.searchEngineLinks.advanced "Lorg adhartach">
-<!ENTITY abouthome.searchEngineLinks.preferences "Roghainnean">
-
 <!ENTITY abouthome.aboutMozilla "Mu Mozilla">
 
 <!-- LOCALIZATION NOTE (abouthome.defaultSnippet1.v1):

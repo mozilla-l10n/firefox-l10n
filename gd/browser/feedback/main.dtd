@@ -29,3 +29,5 @@
 <!ENTITY testpilot.feedbackbutton.label                "Beachdan">
 <!ENTITY testpilot.happy.label        "Chuir Firefox sunndach mi a chionn 's...">
 <!ENTITY testpilot.sad.label          "Chuir Firefox dubhach mi a chionn 's...">
+<!ENTITY testpilot.broken.label      "Dèan aithris gu bheil an làrach-lìn seo briste…">
+<!ENTITY testpilot.idea.label        "A bheil moladh agad dhuinn?">
