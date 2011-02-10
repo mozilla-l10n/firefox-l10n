@@ -70,7 +70,7 @@ LOCALIZATION NOTE : Do not translate any of the occurrences of the word
 
 <!ENTITY back.label               "&lt; Zurück">
 <!ENTITY forward.label            "Weiter &gt;">
-<!ENTITY finish.label             "Fertig stellen">
+<!ENTITY finish.label             "Fertigstellen">
 <!ENTITY cancel.label             "Abbrechen">
 
 <!ENTITY select.label             "oder wählen was importiert werden soll:">
