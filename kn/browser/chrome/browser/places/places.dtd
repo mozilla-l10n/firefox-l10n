@@ -90,11 +90,11 @@
 <!ENTITY search.label                              "ಹುಡುಕು:">
 <!ENTITY search.accesskey                          "S">
 <!ENTITY search.scopeFolder.label                  "ಆರಿಸಲಾದ ಕಡತಕೋಶ">
-<!ENTITY search.scopeFolder.accesskey              "F">
+<!ENTITY search.scopeFolder.accesskey              "r">
 <!ENTITY search.scopeDownloads.label               "ಡೌನ್‌ಲೋಡ್‌ಗಳು">
 <!ENTITY search.scopeDownloads.accesskey           "D">
 <!ENTITY search.scopeHistory.label                 "ಇತಿಹಾಸ">
-<!ENTITY search.scopeHistory.accesskey             "A">
+<!ENTITY search.scopeHistory.accesskey             "H">
 <!ENTITY saveSearch.label                          "ಉಳಿಸು">
 <!ENTITY saveSearch.accesskey                      "S">
 

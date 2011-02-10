@@ -66,7 +66,7 @@
 <!ENTITY  mediaCount            "ಎಣಿಕೆ(ಕೌಂಟ್)">
 <!ENTITY  mediaLongdesc         "ವಿಸ್ತೃತ ವಿವರಣೆ:">
 <!ENTITY  mediaSaveAs           "ಹೀಗೆ ಉಳಿಸು...">
-<!ENTITY  mediaSaveAs.accesskey "S">
+<!ENTITY  mediaSaveAs.accesskey "A">
 <!ENTITY  mediaPreview          "ಮಾಧ್ಯಮ ಪೂರ್ವಾವಲೋಕನ:">
 
 <!ENTITY  feedTab               "ಫೀಡ್‌ಗಳು">
