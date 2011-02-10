@@ -13,8 +13,10 @@
 
 <!ENTITY abouthome.searchEngineButton.label "शोधा">
 
+<!--
 <!ENTITY abouthome.searchEngineLinks.advanced "प्रगत शोध">
 <!ENTITY abouthome.searchEngineLinks.preferences "पसंती">
+-->
 
 <!ENTITY abouthome.aboutMozilla "Mozilla विषयी">
 
