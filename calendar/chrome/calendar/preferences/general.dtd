@@ -49,6 +49,3 @@
 <!ENTITY pref.defaultlength.accesskey "E">
 <!ENTITY pref.defaultsnoozelength.label "預設稍後提醒長度:" >
 <!ENTITY pref.defaultsnoozelength.accesskey "S">
-<!ENTITY pref.refreshbox.label "重新整理設定" >
-<!ENTITY pref.autorefresh.label "重新整理行事曆間隔:" >
-<!ENTITY pref.autorefresh.accesskey "R" >

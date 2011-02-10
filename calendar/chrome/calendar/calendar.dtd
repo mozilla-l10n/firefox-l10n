@@ -321,6 +321,8 @@
 <!ENTITY calendarproperties.wcap.label                     "Sun Java System Calendar Server (WCAP)">
 <!ENTITY calendarproperties.format.label                   "格式:">
 <!ENTITY calendarproperties.location.label                 "地點:">
+<!ENTITY calendarproperties.refreshInterval.label          "重新載入日曆:">
+<!ENTITY calendarproperties.refreshInterval.manual.label   "手動">
 <!ENTITY calendarproperties.name.label                     "名稱:">
 <!ENTITY calendarproperties.readonly.label                 "唯讀">
 <!ENTITY calendarproperties.firealarms.label               "顯示鬧鈴">

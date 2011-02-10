@@ -18,8 +18,8 @@
 <!-- LOCALIZATION NOTE (abouthome.defaultSnippet1.v1):
      text in <a/> will be linked to the Firefox features page on mozilla.com
 -->
-<!ENTITY abouthome.defaultSnippet1.v1 "感謝您選擇使用 Firefox！用最快的速度了解您的瀏覽器，看看 <a>最新功能</a>。">
+<!ENTITY abouthome.defaultSnippet1.v1 "感謝您選擇使用 Firefox！<br />用最快的速度了解您的瀏覽器，看看 <a>最新功能</a>。">
 <!-- LOCALIZATION NOTE (abouthome.defaultSnippet2.v1):
      text in <a/> will be linked to the featured add-ons on addons.mozilla.org
 -->
-<!ENTITY abouthome.defaultSnippet2.v1 "您可以很簡單地把 Firefox 設定成你想要的樣子。<a>看看數以千計的附加元件</a>。">
+<!ENTITY abouthome.defaultSnippet2.v1 "您可以很簡單地把 Firefox 設定成你想要的樣子。<br /><a>看看數以千計的附加元件</a>。">
