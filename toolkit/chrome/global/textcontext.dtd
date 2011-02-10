@@ -11,7 +11,7 @@
 <!ENTITY deleteCmd.label "తొలగించు">
 <!ENTITY deleteCmd.accesskey "d">
 <!ENTITY spellAddToDictionary.label "పదకోశమునకు  కలుపు">
-<!ENTITY spellAddToDictionary.accesskey "t">
+<!ENTITY spellAddToDictionary.accesskey "o">
 <!ENTITY spellNoSuggestions.label "(ఏ  స్పెల్లింగ్  సలహాలు  లేవు)">
 <!ENTITY spellDictionaries.label "భాషలు">
 <!ENTITY spellDictionaries.accesskey "l">

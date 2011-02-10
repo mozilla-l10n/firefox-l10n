@@ -37,7 +37,7 @@
 <!ENTITY window.title "config:గురించి">
 
 <!ENTITY filterPrefs.label "ఫిల్టర్:">
-<!ENTITY filterPrefs.accesskey "I">
+<!ENTITY filterPrefs.accesskey "F">
 <!ENTITY focusFilter.key "f">
 
 
@@ -53,7 +53,7 @@
 
 <!-- Context Menu -->
 <!ENTITY copyName.label "నామమును నకలుతీయుము">
-<!ENTITY copyName.accesskey "C">
+<!ENTITY copyName.accesskey "N">
 <!ENTITY copyValue.label "విలవను  నకలుతీయుము">
 <!ENTITY copyValue.accesskey "V">
 <!ENTITY modify.label "సవరించు">
@@ -63,7 +63,7 @@
 <!ENTITY reset.label "తిరిగివుంచు">
 <!ENTITY reset.accesskey "R">
 <!ENTITY new.label "కొత్త">
-<!ENTITY new.accesskey "N">
+<!ENTITY new.accesskey "w">
 <!ENTITY string.label "స్ట్రింగ్">
 <!ENTITY string.accesskey "S">
 <!ENTITY integer.label "ఇంటీజర్">

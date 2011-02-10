@@ -73,7 +73,7 @@
 <!ENTITY  mediaCount            "లెక్క">
 <!ENTITY  mediaLongdesc         "పొడవైన వివరణ:">
 <!ENTITY  mediaSaveAs           "ఇలా దాచు...">
-<!ENTITY  mediaSaveAs.accesskey "S">
+<!ENTITY  mediaSaveAs.accesskey "A">
 <!ENTITY  mediaPreview          "మాధ్యమం ఉపదర్శనం:">
 <!ENTITY  securityView.identity.header   "వెబ్‌ సైటు  గుర్తింపు">
 <!ENTITY  securityView.identity.domain   "వెబ్ సైటు: ">

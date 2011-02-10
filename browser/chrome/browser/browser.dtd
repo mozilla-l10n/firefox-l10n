@@ -175,9 +175,9 @@
 
 <!-- LOCALIZATION NOTE : These two strings can share an access key beause they never appear together on the menu -->
 <!ENTITY privateBrowsingCmd.start.label         "గోప్య  వీక్షణం ప్రారంభించు">
-<!ENTITY privateBrowsingCmd.start.accesskey     "B">
+<!ENTITY privateBrowsingCmd.start.accesskey     "P">
 <!ENTITY privateBrowsingCmd.stop.label          " గోప్య  వీక్షణం ఆపు">
-<!ENTITY privateBrowsingCmd.stop.accesskey      "B">
+<!ENTITY privateBrowsingCmd.stop.accesskey      "P">
 <!ENTITY privateBrowsingCmd.commandkey          "P">
 
 <!ENTITY viewMenu.label         "దర్శించు"> 
@@ -239,7 +239,7 @@
 <!ENTITY openFrameCmdInTab.label      "ఫ్రేమ్ ని కొత్త  టాబ్ నందు తెరువుము">
 <!ENTITY openFrameCmdInTab.accesskey  "T">
 <!ENTITY showOnlyThisFrameCmd.label     "ఈ ఫ్రేమ్ ను మాత్రమే చూపుము">
-<!ENTITY showOnlyThisFrameCmd.accesskey "w">
+<!ENTITY showOnlyThisFrameCmd.accesskey "S">
 
 <!-- Media (video/audio) controls -->
 <!ENTITY mediaPlay.label             "ఆడు">
@@ -269,7 +269,7 @@
 <!ENTITY viewPageInfoCmd.label        "పేజీ సమాచారాన్ని దర్శించు">
 <!ENTITY viewPageInfoCmd.accesskey    "I">
 <!ENTITY viewFrameInfoCmd.label       "ఫ్రేమ్   సమాచారాన్ని దర్శించు">
-<!ENTITY viewFrameInfoCmd.accesskey   "i">
+<!ENTITY viewFrameInfoCmd.accesskey   "I">
 <!ENTITY reloadImageCmd.label         "చిత్రాన్ని మరల ఎక్కించు">
 <!ENTITY reloadImageCmd.accesskey     "R">
 <!ENTITY viewImageCmd.label           "చిత్రాన్ని దర్శించు">
@@ -306,7 +306,7 @@
 <!ENTITY sendAudioCmd.label           "ధ్వనిని పంపు …">
 <!ENTITY sendAudioCmd.accesskey       "n">
 <!ENTITY copyLinkCmd.label            "లింకు స్థానాన్ని నకలుతీయుము">
-<!ENTITY copyLinkCmd.accesskey        "C">
+<!ENTITY copyLinkCmd.accesskey        "a">
 <!ENTITY copyImageCmd.label           "చిత్ర స్థానాన్ని నకలు తీయుము">
 <!ENTITY copyImageCmd.accesskey       "o">
 <!ENTITY copyImageContentsCmd.label   "చిత్రాన్ని నకలు తీయుము">
@@ -362,7 +362,7 @@
 <!ENTITY dontShowMessage.accesskey "D">
 
 <!ENTITY bidiSwitchPageDirectionItem.label        "పేజీ దిశను మార్చు">
-<!ENTITY bidiSwitchPageDirectionItem.accesskey    "g">
+<!ENTITY bidiSwitchPageDirectionItem.accesskey    "D">
 <!ENTITY bidiSwitchTextDirectionItem.label        "పాఠ్యము దిశను మార్చు">
 <!ENTITY bidiSwitchTextDirectionItem.accesskey    "w">
 <!ENTITY bidiSwitchTextDirectionItem.commandkey   "X">
@@ -442,7 +442,7 @@
 <!ENTITY allTabs.filter.emptyText "టాబ్లలో శోధన">
 <!ENTITY viewImageInfoCmd.accesskey   "f">
 <!ENTITY viewImageInfoCmd.label       "చిత్రము సమాచారాన్ని దర్శించుము">
-<!ENTITY addonBarCmd.accesskey "B">
+<!ENTITY addonBarCmd.accesskey "A">
 <!ENTITY addonBarCmd.label "యాడ్-ఆన్ పట్టీ">
 <!ENTITY addons.commandkey            "A">
 <!ENTITY appMenuFind.label "కనుగొను…">
