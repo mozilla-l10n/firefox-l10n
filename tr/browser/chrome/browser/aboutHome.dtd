@@ -12,9 +12,6 @@
 
 <!ENTITY abouthome.searchEngineButton.label "Arama">
 
-<!ENTITY abouthome.searchEngineLinks.advanced "Gelişmiş arama">
-<!ENTITY abouthome.searchEngineLinks.preferences "Tercihler">
-
 <!ENTITY abouthome.aboutMozilla "Mozilla hakkında">
 <!-- LOCALIZATION NOTE (abouthome.defaultSnippet1.v1):
      text in <a/> will be linked to the Firefox features page on mozilla.com

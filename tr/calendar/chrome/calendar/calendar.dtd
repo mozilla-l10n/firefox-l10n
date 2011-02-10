@@ -322,6 +322,8 @@
 <!ENTITY calendarproperties.wcap.label "Sun Java System Calendar Server (WCAP)">
 <!ENTITY calendarproperties.format.label "Biçem:">
 <!ENTITY calendarproperties.location.label "Konum:">
+<!ENTITY calendarproperties.refreshInterval.label "Refresh Calendar:">
+<!ENTITY calendarproperties.refreshInterval.manual.label "Manually">
 <!ENTITY calendarproperties.name.label "Adı:">
 <!ENTITY calendarproperties.readonly.label "Salt okunur">
 <!ENTITY calendarproperties.firealarms.label "Uyarıları göster">

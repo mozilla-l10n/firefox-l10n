@@ -49,6 +49,3 @@
 <!ENTITY pref.defaultlength.accesskey "a">
 <!ENTITY pref.defaultsnoozelength.label "Varsayılan uyuma süresi:">
 <!ENTITY pref.defaultsnoozelength.accesskey "y">
-<!ENTITY pref.refreshbox.label "Tekrarlama Ayarları">
-<!ENTITY pref.autorefresh.label "Takvim tekrarlama süresi:">
-<!ENTITY pref.autorefresh.accesskey "r">

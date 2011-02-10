@@ -12,3 +12,4 @@
 <!ENTITY crash_close_label "Kapat">
 <!ENTITY crash_restart_label "&brandShortName; baştan başlasın">
 <!ENTITY sending_crash_report "Çökme raporu gönderiliyor\u2026">
+<!ENTITY exit_label "Çık">

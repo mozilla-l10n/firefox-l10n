@@ -29,3 +29,5 @@
 <!ENTITY testpilot.feedbackbutton.label "Geri bildirim">
 <!ENTITY testpilot.happy.label "Firefox beni sevindirdi, çünkü...">
 <!ENTITY testpilot.sad.label "Firefox beni üzdü, çünkü...">
+<!ENTITY testpilot.broken.label "Report this website as broken…">
+<!ENTITY testpilot.idea.label "Give us a suggestion…">

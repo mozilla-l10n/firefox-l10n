@@ -44,19 +44,19 @@ can reach it easily. -->
 
 <!ENTITY tabCmd.label "Yeni sekme">
 <!ENTITY tabCmd.accesskey "s">
-<!ENTITY tabCmd.commandkey "T">
+<!ENTITY tabCmd.commandkey "t">
 <!ENTITY openLocationCmd.label "Konumu aç…">
 <!ENTITY openLocationCmd.accesskey "K">
 <!ENTITY openFileCmd.label "Dosya aç…">
 <!ENTITY openFileCmd.accesskey "a">
-<!ENTITY openFileCmd.commandkey "O">
+<!ENTITY openFileCmd.commandkey "o">
 <!ENTITY printSetupCmd.label "Sayfa düzeni…">
 <!ENTITY printSetupCmd.accesskey "y">
 <!ENTITY printPreviewCmd.label "Yazdırma önizleme">
 <!ENTITY printPreviewCmd.accesskey "z">
 <!ENTITY printCmd.label "Yazdır...">
 <!ENTITY printCmd.accesskey "Y">
-<!ENTITY printCmd.commandkey "P">
+<!ENTITY printCmd.commandkey "p">
 <!ENTITY import.label "İçe aktar…">
 <!ENTITY import.accesskey "a">
 
@@ -75,7 +75,7 @@ can reach it easily. -->
 
 <!ENTITY pageSourceCmd.label "Sayfa kaynağı">
 <!ENTITY pageSourceCmd.accesskey "a">
-<!ENTITY pageSourceCmd.commandkey "U">
+<!ENTITY pageSourceCmd.commandkey "u">
 <!ENTITY pageInfoCmd.label "Sayfa bilgileri">
 <!ENTITY pageInfoCmd.accesskey "S">
 <!ENTITY pageInfoCmd.commandkey "i">
@@ -161,7 +161,7 @@ can reach it easily. -->
 <!ENTITY historyButton.label "Geçmiş">
 <!ENTITY historyButton.tooltip "Yakında bakılan sayfaları göster">
 <!ENTITY historySidebarCmd.accesskey "G">
-<!ENTITY historySidebarCmd.commandKey "H">
+<!ENTITY historySidebarCmd.commandKey "h">
 
 <!ENTITY toolsMenu.label "Araçlar">
 <!ENTITY toolsMenu.accesskey "l">
@@ -174,7 +174,7 @@ can reach it easily. -->
 <!ENTITY downloads.tooltip "Devam eden indirme işlemlerinin durumunu göster">
 <!ENTITY downloads.accesskey "d">
 <!ENTITY downloads.commandkey "j">
-<!ENTITY downloadsUnix.commandkey "Y">
+<!ENTITY downloadsUnix.commandkey "y">
 <!ENTITY addons.label "Eklentiler">
 <!ENTITY addons.accesskey "E">
 <!ENTITY addons.commandkey "A">
@@ -217,22 +217,22 @@ can reach it easily. -->
 <!ENTITY editMenu.label "Düzen">
 <!ENTITY editMenu.accesskey "z">
 <!ENTITY undoCmd.label "Geri al">
-<!ENTITY undoCmd.key "z">
+<!ENTITY undoCmd.key "Z">
 <!ENTITY undoCmd.accesskey "r">
 <!ENTITY redoCmd.label "Yinele">
 <!ENTITY redoCmd.key "Y">
 <!ENTITY redoCmd.accesskey "Y">
 <!ENTITY cutCmd.label "Kes">
-<!ENTITY cutCmd.key "x">
+<!ENTITY cutCmd.key "X">
 <!ENTITY cutCmd.accesskey "K">
 <!ENTITY copyCmd.label "Kopyala">
 <!ENTITY copyCmd.key "C">
 <!ENTITY copyCmd.accesskey "K">
 <!ENTITY pasteCmd.label "Yapıştır">
-<!ENTITY pasteCmd.key "v">
+<!ENTITY pasteCmd.key "V">
 <!ENTITY pasteCmd.accesskey "Y">
 <!ENTITY deleteCmd.label "Sil">
-<!ENTITY deleteCmd.key "d">
+<!ENTITY deleteCmd.key "D">
 <!ENTITY deleteCmd.accesskey "S">
 <!ENTITY selectAllCmd.label "Tümünü seç">
 <!ENTITY selectAllCmd.key "A">
@@ -311,8 +311,8 @@ can reach it easily. -->
 
  -->
 
-<!ENTITY searchFocus.commandkey "K">
-<!ENTITY searchFocusUnix.commandkey "J">
+<!ENTITY searchFocus.commandkey "k">
+<!ENTITY searchFocusUnix.commandkey "j">
 
 <!ENTITY tabView.commandkey "e">
 
@@ -328,14 +328,14 @@ can reach it easily. -->
 <!ENTITY openFrameCmd.accesskey "e">
 <!ENTITY showOnlyThisFrameCmd.label "Sadece bu çerçeveyi göster">
 <!ENTITY showOnlyThisFrameCmd.accesskey "c">
-<!ENTITY reloadCmd.commandkey "R">
+<!ENTITY reloadCmd.commandkey "r">
 <!ENTITY reloadFrameCmd.label "Çerçeveyi tazele">
 <!ENTITY reloadFrameCmd.accesskey "e">
 <!ENTITY viewPartialSourceForSelectionCmd.label "Seçimin kaynak kodunu göster">
 <!ENTITY viewPartialSourceForMathMLCmd.label "MathML kaynağını göster">
 <!-- LOCALIZATION NOTE (viewPartialSourceCmd.accesskey): This accesskey is used for both 
          viewPartialSourceForSelectionCmd.label and viewPartialSourceForMathMLCmd.label -->
-<!ENTITY viewPartialSourceCmd.accesskey "A">
+<!ENTITY viewPartialSourceCmd.accesskey "a">
 <!ENTITY viewPageSourceCmd.label "Sayfa kaynağını göster">
 <!ENTITY viewPageSourceCmd.accesskey "a">
 <!ENTITY viewFrameSourceCmd.label "Çerçeve kaynağını göster">
@@ -368,7 +368,7 @@ can reach it easily. -->
 <!ENTITY savePageCmd.accesskey "S">
 <!-- alternate for content area context menu -->
 <!ENTITY savePageCmd.accesskey2 "F">
-<!ENTITY savePageCmd.commandkey "S">
+<!ENTITY savePageCmd.commandkey "s">
 <!ENTITY saveFrameCmd.label "Çerçeveyi farklı kaydet…">
 <!ENTITY saveFrameCmd.accesskey "e">
 <!ENTITY printFrameCmd.label "Çerçeveyi yazdır…">
@@ -473,7 +473,7 @@ you can use these alternative items. Otherwise, their values should be empty.  -
 <!ENTITY quitApplicationCmdMac.key "Q">
 
 <!ENTITY closeCmd.label "Kapat">
-<!ENTITY closeCmd.key "w">
+<!ENTITY closeCmd.key "W">
 <!ENTITY closeCmd.accesskey "K">
 
 <!ENTITY pageStyleMenu.label "Sayfa stili">
@@ -485,27 +485,27 @@ you can use these alternative items. Otherwise, their values should be empty.  -
 
 <!ENTITY pageReportIcon.tooltip "Bu sitenin açılır pencere engelleme ayarlarını değiştir">
 
-<!ENTITY allowPopups.accesskey "P">
+<!ENTITY allowPopups.accesskey "p">
 <!-- On Windows we use the term "Options" to describe settings, but
      on Linux and Mac OS X we use "Preferences" - carry that distinction
      over into this string, which is used in the "popup blocked" info bar . -->
 <!ENTITY editPopupSettingsUnix.label "İstenmeyen pencere tercihlerini düzenle…">
 <!ENTITY editPopupSettings.label "İstenmeyen pencere seçeneklerini düzenle…">
 <!ENTITY editPopupSettings.accesskey "e">
-<!ENTITY dontShowMessage.accesskey "d">
+<!ENTITY dontShowMessage.accesskey "D">
 
 <!ENTITY bidiSwitchPageDirectionItem.label "Sayfanın yönünü değiştir">
 <!ENTITY bidiSwitchPageDirectionItem.accesskey "d">
 <!ENTITY bidiSwitchTextDirectionItem.label "Metnin yönünü değiştir">
 <!ENTITY bidiSwitchTextDirectionItem.accesskey "M">
-<!ENTITY bidiSwitchTextDirectionItem.commandkey "x">
+<!ENTITY bidiSwitchTextDirectionItem.commandkey "X">
 
 <!ENTITY findOnCmd.label "Bu sayfada bul…">
 <!ENTITY findOnCmd.accesskey "s">
 <!ENTITY findOnCmd.commandkey "f">
 <!ENTITY findAgainCmd.label "Sonrakini bul">
 <!ENTITY findAgainCmd.accesskey "a">
-<!ENTITY findAgainCmd.commandkey "G">
+<!ENTITY findAgainCmd.commandkey "g">
 <!ENTITY findAgainCmd.commandkey2 "VK_F3">
 
 <!ENTITY spellAddDictionaries.label "Sözlük ekle…">
