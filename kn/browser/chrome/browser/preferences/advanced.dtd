@@ -74,7 +74,7 @@
 <!ENTITY viewSecurityDevices.label       "ಸುರಕ್ಷತಾ ಸಾಧನಗಳು">
 <!ENTITY viewSecurityDevices.accesskey   "y">
 
-<!ENTITY systemDefaults.label            "ಗಣಕದ ಡಿಫಾಲ್ಟ್‍ಗಳು">
+<!ENTITY systemDefaults.label            "ಗಣಕದ ಡೀಫಾಲ್ಟ್‍ಗಳು">
 <!ENTITY alwaysCheckDefault.label        "ಆರಂಭಗೊಳ್ಳುವಾಗ  &brandShortName; ವು ಡೀಫಾಲ್ಟ್‍ ವೀಕ್ಷಕವಾಗಿದೆಯೆ  ಎಂದು ಯಾವಾಗಲೂ ಪರೀಕ್ಷಿಸು"><!--XXX-->
 <!ENTITY alwaysCheckDefault.accesskey    "w">
 <!ENTITY checkNow.label                  "ಈಗ ಪರೀಕ್ಷಿಸು">
@@ -84,7 +84,7 @@
 <!ENTITY certSelection.description       "ಒಂದು ಪರಿಚಾರಕವು ನನ್ನ ಖಾಸಗಿ ಪ್ರಮಾಣಪತ್ರವನ್ನು ಅಪೇಕ್ಷಿಸಿದಾಗ:">
 <!ENTITY clearCacheNow.label             "ಈಗಲೆ ತೆರವುಗೊಳಿಸು">
 <!ENTITY clearCacheNow.accesskey         "C">
-<!ENTITY offlineNotify.label             "ಒಂದು ಜಾಲತಾಣವು ಮಾಹಿತಯನ್ನು ಆಫ್‌ಲೈನ್‌ ಬಳಕೆಗಾಗಿ ಶೇಖರಿಸಿಡಲು ಕೇಳಿದಾಗ ನನಗೆ ತಿಳಿಸು">
+<!ENTITY offlineNotify.label             "ಒಂದು ಜಾಲತಾಣವು ಮಾಹಿತಿಯನ್ನು ಆಫ್‌ಲೈನ್‌ ಬಳಕೆಗಾಗಿ ಶೇಖರಿಸಿಡಲು ಕೇಳಿದಾಗ ನನಗೆ ತಿಳಿಸು">
 <!ENTITY offlineNotify.accesskey         "T">
 <!ENTITY offlineNotifyExceptions.label   "ವಿನಾಯಿತಿಗಳು…">
 <!ENTITY offlineNotifyExceptions.accesskey "x">
@@ -121,6 +121,6 @@
 <!ENTITY allowHWAccel.accesskey          "h">
 <!ENTITY enableAddonsUpdate2.label       "ಆಡ್-ಆನ್‌ಗಳು">
 
-<!ENTITY doNotTrack.label                "ನನ್ನ ಜಾಡನ್ನು ಇರಿಸಬೇಡಿ ಎಂದು ಜಾಲ ತಾಣಗಳಿಗೆ ತಿಳಿಸಿ">
+<!ENTITY doNotTrack.label                "ನನ್ನ ಜಾಡನ್ನು ಇರಿಸಬೇಡಿ ಎಂದು ಜಾಲ ತಾಣಗಳಿಗೆ ತಿಳಿಸು">
 <!ENTITY doNotTrack.accesskey            "d">
 

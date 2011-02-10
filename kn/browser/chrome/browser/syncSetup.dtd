@@ -103,7 +103,7 @@
 <!ENTITY addDevice.dialog.connected.label   "ಸಾಧನವನ್ನು ಜೋಡಿಸಲಾಗಿದೆ">
 <!ENTITY addDevice.dialog.description.label "ನಿಮ್ಮ ಹೊಸ ಸಾಧನವನ್ನು ಸಕ್ರಿಯಗೊಳಿಸಲು, ಸಾಧನದಲ್ಲಿರುವ &syncBrand.shortName.label; ಆಯ್ಕೆಗೆ ತೆರಳಿ ಹಾಗು &#x0022;ಸಂಪರ್ಕಸಾಧಿಸು.&#x0022; ಅನ್ನು ಆರಿಸಿ">
 <!ENTITY addDevice.dialog.enterCode.label   "ಸಾಧನವು ಒದಗಿಸುವ ಸಂಕೇತವನ್ನು ನಮೂದಿಸಿ:">
-<!ENTITY addDevice.dialog.successful.label  "ಸಾಧನವನ್ನು ಯಶಸ್ವಿಯಾಗಿ ಸೇರಿಸಲಾಗಿದೆ. ಆರಂಭಿಕ ಮೇಳೈಸುವಿಕೆಗೆ ಹಲವು ನಿಮಿಷಗಳು ತಗುಲುತ್ತದೆ ಹಾಗು ಇದು ಹಿನ್ನಲೆಯಲ್ಲಿ ಪೂರ್ಣಗೊಳ್ಳುತ್ತದೆ.">
+<!ENTITY addDevice.dialog.successful.label  "ಸಾಧನವನ್ನು ಯಶಸ್ವಿಯಾಗಿ ಸೇರಿಸಲಾಗಿದೆ. ಆರಂಭಿಕ ಸಿಂಕ್ ಮಾಡುವಿಕೆಗೆ ಹಲವು ನಿಮಿಷಗಳು ತಗುಲುತ್ತದೆ ಹಾಗು ಇದು ಹಿನ್ನಲೆಯಲ್ಲಿ ಪೂರ್ಣಗೊಳ್ಳುತ್ತದೆ.">
 <!ENTITY addDevice.dialog.syncKey.label     "ನಿಮ್ಮ ಸಾಧನವನ್ನು ಸಕ್ರಿಯಗೊಳಿಸಲು ನಿಮ್ಮ ಸಿಂಕ್ ಕೀಲಿಯನ್ನು ನಮೂದಿಸಬೇಕಾಗುತ್ತದೆ. ದಯವಿಟ್ಟು ಈ ಕೀಲಿಯನ್ನು ಕಾಗದದಲ್ಲಿ ಮುದ್ರಿಸಿಡಿ ಅಥವ ಶೇಖರಿಸಿಟ್ಟುಕೊಳ್ಳಿ ಹಾಗು ನಿಮ್ಮೊಂದಿಗೆ ಇರಿಸಿಕೊಳ್ಳಿ.">
 <!ENTITY addDevice.dialog.tryAgain.label    "ದಯವಿಟ್ಟು ಇನ್ನೊಮ್ಮೆ ಪ್ರಯತ್ನಿಸಿ.">
 <!ENTITY addDevice.dontHaveDevice.label     "ನನ್ನಲ್ಲಿ ಈಗ ಸಾಧನವು ಇಲ್ಲ">
