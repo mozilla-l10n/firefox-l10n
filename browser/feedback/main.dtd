@@ -29,3 +29,6 @@
 <!ENTITY testpilot.feedbackbutton.label                "അഭിപ്രായം">
 <!ENTITY testpilot.happy.label        "ഫയര്‍ഫോക്സ് എന്നെ തൃപ്തിപ്പെടുത്തി. കാരണം…">
 <!ENTITY testpilot.sad.label          "ഫയര്‍ഫോക്സ് എന്നെ നിരാശപ്പെടുത്തി. കാരണം…">
+
+<!ENTITY testpilot.broken.label      "ഈ വെബ്സൈറ്റിനു് തകരാറുള്ളതായി രേഖപ്പെടുത്തുക…">
+<!ENTITY testpilot.idea.label        "ഒരു നിര്‍ദ്ദേശം നല്‍കൂ…">
