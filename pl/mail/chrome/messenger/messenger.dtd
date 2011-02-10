@@ -79,14 +79,10 @@
 <!ENTITY deleteMsgCmd.accesskey            "U">
 <!ENTITY undeleteMsgCmd.label              "Przywróć wiadomość">
 <!ENTITY undeleteMsgCmd.accesskey          "d">
-<!ENTITY cancelNewsMsgCmd.label            "Wycofaj wiadomość">
-<!ENTITY cancelNewsMsgCmd.accesskey        "m">
 <!ENTITY deleteMsgsCmd.label               "Usuń wybrane wiadomości">
 <!ENTITY deleteMsgsCmd.accesskey           "w">
 <!ENTITY undeleteMsgsCmd.label             "Przywróć zaznaczone wiadomości">
 <!ENTITY undeleteMsgsCmd.accesskey         "d">
-<!ENTITY cancelNewsMsgsCmd.label           "Wycofaj zaznaczone wiadomości">
-<!ENTITY cancelNewsMsgsCmd.accesskey       "n">
 <!ENTITY deleteFolderCmd.label             "Usuń folder">
 <!ENTITY deleteFolderCmd.accesskey         "U">
 <!ENTITY unsubscribeNewsgroupCmd.label     "Zrezygnuj z subskrypcji">
@@ -331,6 +327,8 @@
 <!ENTITY archiveMsgCmd.label            "Archiwizuj">
 <!ENTITY archiveMsgCmd.accesskey        "A">
 <!ENTITY archiveMsgCmd.key              "a">
+<!ENTITY cancelNewsMsgCmd.label         "Wycofaj wiadomość">
+<!ENTITY cancelNewsMsgCmd.accesskey     "m">
 <!ENTITY replyMsgCmd.label              "Odpowiedz">
 <!ENTITY replyMsgCmd.accesskey          "O">
 <!ENTITY replyMsgCmd.key                "r">
