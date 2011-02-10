@@ -97,7 +97,7 @@
 <!ENTITY search.allBookmarks.accesskey             "A">
 -->
 <!ENTITY search.scopeFolder.label                  "निवडलेली संचयीका">
-<!ENTITY search.scopeFolder.accesskey              "F">
+<!ENTITY search.scopeFolder.accesskey              "r">
 <!--
 <!ENTITY search.scopeAll.label                     "सर्व ओळखचिन्ह">
 <!ENTITY search.scopeAll.accesskey                 "A">
@@ -109,7 +109,7 @@
 <!ENTITY search.scopeDownloads.label               "डाऊनलोड">
 <!ENTITY search.scopeDownloads.accesskey           "D">
 <!ENTITY search.scopeHistory.label                 "इतिहास">
-<!ENTITY search.scopeHistory.accesskey             "A">
+<!ENTITY search.scopeHistory.accesskey             "H">
 <!ENTITY saveSearch.label                          "संचयन">
 <!ENTITY saveSearch.accesskey                      "S">
 

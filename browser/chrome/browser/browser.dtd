@@ -197,7 +197,7 @@
 <!ENTITY openFrameCmdInTab.label "चौकट नव्या टॅबमध्ये उघडा">
 <!ENTITY openFrameCmdInTab.accesskey "T">
 <!ENTITY showOnlyThisFrameCmd.label "फक्त ही चौकट दाखवा">
-<!ENTITY showOnlyThisFrameCmd.accesskey "w">
+<!ENTITY showOnlyThisFrameCmd.accesskey "S">
 <!ENTITY reloadCmd.commandkey "r">
 <!ENTITY reloadFrameCmd.label "फ्रेम परत दाखल करा">
 <!ENTITY reloadFrameCmd.accesskey "R">
@@ -211,7 +211,7 @@
 <!ENTITY viewPageInfoCmd.label "पानाविषयी माहिती पहा">
 <!ENTITY viewPageInfoCmd.accesskey "I">
 <!ENTITY viewFrameInfoCmd.label "चौकटविषयी माहिती पहा">
-<!ENTITY viewFrameInfoCmd.accesskey "i">
+<!ENTITY viewFrameInfoCmd.accesskey "I">
 <!ENTITY viewImageCmd.label "चित्र पहा">
 <!ENTITY viewImageCmd.accesskey "I">
 <!ENTITY viewBGImageCmd.label "पार्श्वभूमीतील चित्र पहा">
@@ -235,7 +235,7 @@
 <!ENTITY sendImageCmd.label "चित्र पाठवा...">
 <!ENTITY sendImageCmd.accesskey "n">
 <!ENTITY copyLinkCmd.label "लिंक स्थळाची प्रत बनवा">
-<!ENTITY copyLinkCmd.accesskey "C">
+<!ENTITY copyLinkCmd.accesskey "a">
 <!ENTITY copyImageCmd.label "चित्र स्थळाची प्रत बनवा">
 <!ENTITY copyImageCmd.accesskey "o">
 <!ENTITY copyImageContentsCmd.label "चित्राची प्रत बनवा">
@@ -290,7 +290,7 @@
 <!ENTITY dontShowMessage.accesskey "D">
 
 <!ENTITY bidiSwitchPageDirectionItem.label "पानाची दिशा बदला">
-<!ENTITY bidiSwitchPageDirectionItem.accesskey "g">
+<!ENTITY bidiSwitchPageDirectionItem.accesskey "D">
 <!ENTITY bidiSwitchTextDirectionItem.label "मजकुराची दिशा बदला">
 <!ENTITY bidiSwitchTextDirectionItem.accesskey "w">
 <!ENTITY bidiSwitchTextDirectionItem.commandkey "X">
@@ -427,9 +427,9 @@
 
 <!-- LOCALIZATION NOTE : These two strings can share an access key beause they never appear together on the menu -->
 <!ENTITY privateBrowsingCmd.start.label         "व्यक्तिगत संचारन सुरू करा">
-<!ENTITY privateBrowsingCmd.start.accesskey     "B">
+<!ENTITY privateBrowsingCmd.start.accesskey     "P">
 <!ENTITY privateBrowsingCmd.stop.label          "व्यक्तिगत संचारन बंद करा">
-<!ENTITY privateBrowsingCmd.stop.accesskey      "B">
+<!ENTITY privateBrowsingCmd.stop.accesskey      "P">
 <!ENTITY privateBrowsingCmd.commandkey          "P">
 
 <!ENTITY mainWindow.titlePrivateBrowsingSuffix "(व्यक्तिगत संचारन)">
@@ -474,7 +474,7 @@
 <!ENTITY menubarCmd.label "मेन्यू पट्टी">
 <!ENTITY menubarCmd.accesskey "M">
 <!ENTITY addonBarCmd.label "ॲड-ऑन पट्टी">
-<!ENTITY addonBarCmd.accesskey "B">
+<!ENTITY addonBarCmd.accesskey "A">
 <!ENTITY fullScreenCmd.macCommandKey "f">
 <!ENTITY showAllTabsCmd.label "सर्व टॅब्स् दाखवा">
 <!ENTITY showAllTabsCmd.accesskey "A">

@@ -35,7 +35,7 @@
    - ***** END LICENSE BLOCK ***** -->
 
 <!ENTITY filterPrefs.label "चाळण:">
-<!ENTITY filterPrefs.accesskey "I">
+<!ENTITY filterPrefs.accesskey "F">
 
 <!-- Columns -->
 <!ENTITY prefColumn.label "प्राधान्याता नाव">
@@ -49,7 +49,7 @@
 
 <!-- Context Menu -->
 <!ENTITY copyName.label "नावाचे प्रत बनवा">
-<!ENTITY copyName.accesskey "C">
+<!ENTITY copyName.accesskey "N">
 <!ENTITY copyValue.label "मुल्यचे प्रत बनवा">
 <!ENTITY copyValue.accesskey "V">
 <!ENTITY modify.label "संपादन">
@@ -59,7 +59,7 @@
 <!ENTITY reset.label "पुनःस्थापन">
 <!ENTITY reset.accesskey "R">
 <!ENTITY new.label "नविन">
-<!ENTITY new.accesskey "N">
+<!ENTITY new.accesskey "w">
 <!ENTITY string.label "अक्षरमाळ">
 <!ENTITY string.accesskey "S">
 <!ENTITY integer.label "इंटीजर">

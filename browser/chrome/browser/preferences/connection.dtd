@@ -7,7 +7,7 @@
 <!ENTITY manualTypeRadio.label "प्रतिनिधींची हाताने मांडणी">
 <!ENTITY manualTypeRadio.accesskey "m">
 <!ENTITY autoTypeRadio.label "प्रतिनिधींची आपोआप मांडणी साठी URL:">
-<!ENTITY autoTypeRadio.accesskey "a">
+<!ENTITY autoTypeRadio.accesskey "A">
 <!ENTITY reload.label "पुनर्दाखल">
 <!ENTITY reload.accesskey "e">
 <!ENTITY ftp.label "एफ् टी पी (FTP) प्रतिनिधी:">
@@ -15,15 +15,15 @@
 <!-- <!ENTITY gopher.label "गोफर प्रतिनिधी:">
 <!ENTITY gopher.accesskey "G"> -->
 <!ENTITY http.label "एच् टी टी पी(HTTP) प्रतिनिधी:">
-<!ENTITY http.accesskey "y">
+<!ENTITY http.accesskey "x">
 <!ENTITY ssl.label "एस् एस् एल्(SSL) प्रतिनिधी:">
-<!ENTITY ssl.accesskey "S">
+<!ENTITY ssl.accesskey "L">
 <!ENTITY socks.label "सॉक्स(SOCKS) यजमान:">
 <!ENTITY socks.accesskey "C">
 <!ENTITY socks4.label "सॉक्स(SOCKS) v4">
-<!ENTITY socks4.accesskey "C">
+<!ENTITY socks4.accesskey "K">
 <!ENTITY socks5.label "सॉक्स(SOCKS) v5">
-<!ENTITY socks5.accesskey "C">
+<!ENTITY socks5.accesskey "v">
 <!ENTITY port.label "तळ, पोर्ट(Port):">
 <!ENTITY HTTPport.accesskey "P">
 <!ENTITY SSLport.accesskey "o">
@@ -35,7 +35,7 @@
 <!ENTITY noproxy.accesskey "n">
 <!ENTITY noproxyExplain.label "उदाहरणार्थ: .mozilla.org, .net.nz, 192.168.1.0/24">
 <!ENTITY shareproxy.label "हा प्रतिनिधी सेवक सर्व संगणकीय शिष्टाचारां साठी वापरा">
-<!ENTITY shareproxy.accesskey "x">
+<!ENTITY shareproxy.accesskey "s">
 
 <!ENTITY  noProxyTypeRadio.label        "प्रॉक्सी नाही">
 <!ENTITY  noProxyTypeRadio.accesskey    "y">
