@@ -13,9 +13,6 @@
 
 <!ENTITY abouthome.searchEngineButton.label      "Otsi">
 
-<!ENTITY abouthome.searchEngineLinks.advanced    "Täpsem otsing">
-<!ENTITY abouthome.searchEngineLinks.preferences "Eelistused">
-
 <!ENTITY abouthome.aboutMozilla                  "Mozillast">
 
 <!-- LOCALIZATION NOTE (abouthome.defaultSnippet1.v1):

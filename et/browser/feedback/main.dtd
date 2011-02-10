@@ -1,5 +1,4 @@
 <!ENTITY testpilot.brand.label                          "Test Pilot">
-<!-- browser window: menu and status bar -->
 <!ENTITY testpilot.settings.label                       "Sätted">
 <!ENTITY testpilot.settings.dataSubmission.label        "Andmete sisestamine">
 <!ENTITY testpilot.settings.notifications.label         "Hoiatused">
@@ -30,3 +29,5 @@
 <!ENTITY testpilot.feedbackbutton.label                 "Tagasiside">
 <!ENTITY testpilot.happy.label                          "Firefox tegi mind õnnelikuks, sest…">
 <!ENTITY testpilot.sad.label                            "Firefox tegi mind kurvaks, sest…">
+<!ENTITY testpilot.broken.label                         "Raporteeri see leht katkisena…">
+<!ENTITY testpilot.idea.label                           "Anna meile nõu…">
