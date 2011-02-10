@@ -16,11 +16,11 @@
 <!ENTITY restoreDefault.label      "મૂળભૂતમાં પુનઃસંગ્રહો">
 <!ENTITY restoreDefault.accesskey  "R">
 
-<!ENTITY downloads.label     "ડાઉનલોડો">
+<!ENTITY downloads.label     "ડાઉનલોડ">
 
-<!ENTITY showWhenDownloading.label     "જ્યારે ફાઈલ ડાઉનલોડ કરી રહ્યા હોય ત્યારે ડાઉનલોડો બતાવો">
+<!ENTITY showWhenDownloading.label     "જ્યારે ફાઈલ ડાઉનલોડ કરી રહ્યા હોય ત્યારે ડાઉનલોડ બતાવો">
 <!ENTITY showWhenDownloading.accesskey "D">
-<!ENTITY closeWhenDone.label "જ્યારે બધા ડાઉનલોડો સમાપ્ત થાય ત્યારે તેને બંધ કરો">
+<!ENTITY closeWhenDone.label "જ્યારે બધા ડાઉનલોડ સમાપ્ત થાય ત્યારે તેને બંધ કરો">
 <!ENTITY closeWhenDone.accesskey "w">
 <!ENTITY saveTo.label "ફાઈલોને આમાં સંગ્રહો">
 <!ENTITY saveTo.accesskey "v">
