@@ -7,7 +7,7 @@
 <!ENTITY  paneApplications.title  "કાર્યક્રમો">
 <!ENTITY  paneContent.title       "સમાવિષ્ટ">
 <!ENTITY  paneSecurity.title      "સુરક્ષા">
-<!ENTITY  paneTabs.title          "ટેબો">
+<!ENTITY  paneTabs.title          "ટૅબ">
 <!ENTITY  paneGeneral.title       "સામાન્ય">
 <!ENTITY  paneSync.title          "સુમેળ">
 <!ENTITY  prefWinMinSize.styleGNOME     "પહોળાઇ: 45.5em; ન્યૂત્તમ-ઊંચાઇ: 40.5em;">
