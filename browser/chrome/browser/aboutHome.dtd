@@ -13,9 +13,6 @@
 
 <!ENTITY abouthome.searchEngineButton.label "Keresés">
 
-<!ENTITY abouthome.searchEngineLinks.advanced "Speciális keresés">
-<!ENTITY abouthome.searchEngineLinks.preferences "Beállítások">
-
 <!ENTITY abouthome.aboutMozilla "A Mozilláról">
 
 <!-- LOCALIZATION NOTE (abouthome.defaultSnippet1.v1):

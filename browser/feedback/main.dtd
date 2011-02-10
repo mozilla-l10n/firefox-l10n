@@ -30,3 +30,5 @@
 <!ENTITY testpilot.feedbackbutton.label                "Visszajelzés">
 <!ENTITY testpilot.happy.label        "Elégedett vagyok a Firefoxszal, mert...">
 <!ENTITY testpilot.sad.label          "Nem vagyok elégedett a Firefoxszal, mert...">
+<!ENTITY testpilot.broken.label      "A webhely bejelentése hibásként...">
+<!ENTITY testpilot.idea.label        "Javaslat küldése...">

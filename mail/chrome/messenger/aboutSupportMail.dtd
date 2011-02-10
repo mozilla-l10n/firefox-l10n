@@ -1,0 +1,14 @@
+<!ENTITY aboutSupport.appBasicsAppBuildID "Alkalmazás Build ID-ja">
+
+<!ENTITY aboutSupport.accountsTitle "Levelező- és hírcsoportfiókok">
+<!ENTITY aboutSupport.showPrivateData.mainText "Fióknevek is">
+<!ENTITY aboutSupport.showPrivateData.explanationText "(ez azonosíthatóvá teheti Önt)">
+<!ENTITY aboutSupport.accountsID "Azonosító">
+<!ENTITY aboutSupport.accountsName "Név">
+<!ENTITY aboutSupport.accountsIncomingServer "Bejövő üzeneteket kezelő kiszolgáló">
+<!ENTITY aboutSupport.accountsOutgoingServers "Kimenő üzeneteket kezelő kiszolgálók">
+<!ENTITY aboutSupport.accountsConnSecurity "Kapcsolat biztonsága">
+<!ENTITY aboutSupport.accountsAuthMethod "Hitelesítési módszer">
+<!ENTITY aboutSupport.accountsDefault "Alapbeállítás?">
+
+<!ENTITY aboutSupport.sendViaEmail.label "Küldés e-mailben">

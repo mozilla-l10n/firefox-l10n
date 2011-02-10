@@ -5,6 +5,8 @@
                        for the help button in the menubar but Gnome does not.   -->
 <!ENTITY helpMenuWin.label "Súgó">
 <!ENTITY helpMenuWin.accesskey "S">
+<!ENTITY helpTroubleshootingInfo.label     "Hibakeresési információ">
+<!ENTITY helpTroubleshootingInfo.accesskey "H">
 <!ENTITY releaseCmd.label "Verzióinformáció">
 <!ENTITY releaseCmd.accesskey "V">
 <!ENTITY whatsNewCmd.label "Újdonságok">

@@ -209,7 +209,8 @@
 <!ENTITY followupAddr.label "Hírcsop. vál.:"> 
 <!ENTITY subject.label "Tárgy:">
 <!ENTITY subject.accesskey "T">
-<!ENTITY attachments.label "Mellékletek:">
+<!-- LOCALIZATION NOTE attachments.accesskey This access key should correspond
+     to the strings in attachmentCount in composeMsgs.properties -->
 <!ENTITY attachments.accesskey "M">
 
 <!-- Format Toolbar, imported from editorAppShell.xul -->

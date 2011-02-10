@@ -71,7 +71,7 @@
 <!ENTITY existingSyncKey.description "A Sync-kulcs másolata megtalálható a másik eszközön a &syncBrand.shortName.label; Beállítások menüt választva, a „Fiók kezelése” alatt a „Saját Sync-kulcs” lehetőséget választva.">
 <!ENTITY verifying.label              "Ellenőrzés...">
 <!ENTITY resetPassword.label          "Jelszó törlése">
-<!ENTITY lostSyncKey.label            "Elvesztettem a Sync-kulcsomat">
+<!ENTITY resetSyncKey.label           "Elvesztettem a másik eszközt.">
 
 <!-- Sync Options -->
 <!ENTITY setup.optionsPage.title      "Szinkronizálási beállítások">

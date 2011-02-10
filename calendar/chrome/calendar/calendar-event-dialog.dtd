@@ -45,7 +45,8 @@
 
 <!ENTITY event.title.label                  "Elem szerkesztése" >
 
-<!ENTITY event.dialog.keepDurationButton.tooltip  "">
+<!ENTITY event.dialog.keepDurationButton.tooltip   "Időtartam megtartása, ha a végdátum módosul">
+<!ENTITY event.dialog.keepDurationButton.accesskey "I">
 
 <!ENTITY newevent.from.label                "Kezdete" >
 <!ENTITY newevent.to.label                  "Vége" >
