@@ -1,5 +1,4 @@
 <!ENTITY testpilot.brand.label "Zkušební letec">
-<!-- browser window: menu and status bar -->
 <!ENTITY testpilot.settings.label "Nastavení">
 <!ENTITY testpilot.settings.dataSubmission.label "Odeslání dat">
 <!ENTITY testpilot.settings.notifications.label "Upozornění">
@@ -30,3 +29,5 @@
 <!ENTITY testpilot.feedbackbutton.label "Zpětná vazba">
 <!ENTITY testpilot.happy.label "Firefox se mi líbí, protože…">
 <!ENTITY testpilot.sad.label "Firefox mě zklamal, protože…">
+<!ENTITY testpilot.broken.label "Nahlásit stránku jako rozbitou…">
+<!ENTITY testpilot.idea.label "Pošlete nám svůj nápad…">
