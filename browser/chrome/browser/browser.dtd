@@ -549,3 +549,4 @@ just addresses the organization to follow, e.g. "This site is run by " -->
 <!ENTITY preferencesCmd2.label       "விருப்பங்கள்">
 <!ENTITY preferencesCmd2.accesskey     "O">
 <!ENTITY showAllBookmarks2.label "அனைத்து புத்தகக்குறிகளையும் காட்டு">
+<!ENTITY toggleAddonBarCmd.key        "/">

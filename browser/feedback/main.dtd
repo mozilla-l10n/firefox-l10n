@@ -29,3 +29,5 @@
 <!ENTITY testpilot.feedbackbutton.label                "பினனூட்டம்">
 <!ENTITY testpilot.happy.label        "Firefox என்னை மகிழ்ச்சியூட்டும் ஏனெனில்…">
 <!ENTITY testpilot.sad.label          "Firefox என்னை சோகமாக்கும் ஏனெனில்…">
+<!ENTITY testpilot.broken.label      "இந்த இணையதளம் முறிந்ததாக அறிக்கையிடவும்…">
+<!ENTITY testpilot.idea.label        "ஒரு யோசனை கூறவும்…">

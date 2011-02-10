@@ -69,7 +69,7 @@
 <!ENTITY signIn.syncKey.accesskey   "K">
 
 <!-- Existing Account Page 2: Sync Key -->
-<!ENTITY lostSyncKey.label            "நான் எனது ஒத்திசைவு விசையை தொலைத்துவிட்டேன்">
+<!ENTITY resetSyncKey.label           "நான் எனது மற்ற சாதனத்தைத் தொலைத்துவிட்டேன்.">
 <!ENTITY verifying.label              "சரிபார்க்கிறது…">
 
 <!-- Sync Options -->

@@ -12,14 +12,9 @@
 <!ENTITY helpMenuWin.accesskey    "H">
 <!ENTITY productHelp.label        "&brandShortName; உதவி">
 <!ENTITY productHelp.accesskey    "H">
-<!ENTITY helpForIEUsers.label     "Internet Explorer பயனர்களுக்கு">
-<!ENTITY helpForIEUsers.accesskey "I">
 <!-- LOCALIZATION NOTE openHelpMac.commandkey and openHelpMac.modifiers
                        are all the necessary keys to hit OS X's open-help 
                        keyboard (visible) shortcut (that's Cmd+? for most locales) -->
-
-<!ENTITY helpReleaseNotes.label         "வெளியீட்டு அறிக்கை">
-<!ENTITY helpReleaseNotes.accesskey     "N">
 
 <!ENTITY preferencesCmdMac.label        "முன்னுரிமைகள்…">
 <!ENTITY preferencesCmdMac.commandkey   ",">
