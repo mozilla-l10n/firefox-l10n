@@ -26,7 +26,7 @@
 <!ENTITY import.label "आयात  करू …">
 <!ENTITY import.accesskey "I">
 
-<!ENTITY goOfflineCmd.label "आफ़लाइन काम  करू ">
+<!ENTITY goOfflineCmd.label "आफलाइन काज करू ">
 <!ENTITY goOfflineCmd.accesskey "w">
 
 <!ENTITY navbarCmd.label "संचरण अओजारपट्टी">
@@ -45,7 +45,7 @@
 
 
 <!ENTITY bookmarksWinCmd.commandkey "i">
-<!ENTITY clearRecentHistory.label               "हाल क इतिहास साफ़  करू …">
+<!ENTITY clearRecentHistory.label               "हाल क इतिहास साफ  करू …">
 <!ENTITY clearRecentHistory.accesskey           "H">
 
 <!ENTITY  closeOtherTabs.label               " आन  टैब बन्न  करू ">
@@ -670,7 +670,7 @@ just addresses the organization to follow, e.g. "This site is run by " -->
 
 
 <!ENTITY bookmarksWinCmd.commandkey "i">
-<!ENTITY clearRecentHistory.label               "हाल क इतिहास साफ़ करू…">
+<!ENTITY clearRecentHistory.label               "हाल क इतिहास साफ करू…">
 <!ENTITY clearRecentHistory.accesskey           "H">
 
 <!ENTITY  closeOtherTabs.label               "आन टैब बंद करू">
@@ -685,7 +685,7 @@ just addresses the organization to follow, e.g. "This site is run by " -->
 <!ENTITY fullScreenButton.tooltip       "पूर्ण स्क्रीन मे विंडो देखाउ">
 
 <!ENTITY fullScreenCmd.macCommandKey "f">
-<!ENTITY historyRestoreLastSession.label "पिछला सत्र पुनर्बहाल करू">
+<!ENTITY historyRestoreLastSession.label "पछिला सत्र फेर बहाल करू">
 
 
 <!ENTITY inspectMenu.label            "जाँचू">
@@ -826,18 +826,18 @@ just addresses the organization to follow, e.g. "This site is run by " -->
 <!ENTITY bookmarkAllCmd.label "सभटा टैब पुस्तकचिह्नित करू…">
 
 <!ENTITY copyAudioURLCmd.accesskey    "o">
-<!ENTITY copyAudioURLCmd.label        "ऑडियो स्थान क नकल लिअ' ">
+<!ENTITY copyAudioURLCmd.label        "आडियो स्थान क नकल लिअ' ">
 <!ENTITY copyVideoURLCmd.accesskey    "o">
 <!ENTITY copyVideoURLCmd.label        "वीडियो स्थान क नकल लिअ' ">
 
 <!ENTITY saveVideoCmd.label           "एहिना वीडियो सहेजू…">
 <!ENTITY saveVideoCmd.accesskey       "v">
-<!ENTITY saveAudioCmd.label           "एहिना ऑडियो सहेजू…">
+<!ENTITY saveAudioCmd.label           "एहिना आडियो सहेजू…">
 <!ENTITY saveAudioCmd.accesskey       "v">
 
 <!ENTITY sendVideoCmd.label           "वीडियो पठाउ…">
 <!ENTITY sendVideoCmd.accesskey       "n">
-<!ENTITY sendAudioCmd.label           "ऑडियो पठाउ…">
+<!ENTITY sendAudioCmd.label           "आडियो पठाउ…">
 <!ENTITY sendAudioCmd.accesskey       "n">
 
 

@@ -1,6 +1,6 @@
 <!ENTITY editMenu.label "संपादन (E)">
 <!ENTITY editMenu.accesskey "E">
-<!ENTITY undoCmd.label "पहले जहिना (U)">
+<!ENTITY undoCmd.label "पहिने जहिना (U)">
 <!ENTITY undoCmd.key "Z">
 <!ENTITY undoCmd.accesskey "U">
 <!ENTITY redoCmd.label "फेर करू (R)">
@@ -9,7 +9,7 @@
 <!ENTITY cutCmd.label "काटू (t)">
 <!ENTITY cutCmd.key "X">
 <!ENTITY cutCmd.accesskey "t">
-<!ENTITY copyCmd.label "नक़ल करू (C)">
+<!ENTITY copyCmd.label "नकल करू (C)">
 <!ENTITY copyCmd.key "C">
 <!ENTITY copyCmd.accesskey "C">
 <!ENTITY pasteCmd.label "साटू (P)">
@@ -27,5 +27,5 @@
 <!ENTITY findAgainCmd.key "G">
 <!ENTITY findAgainCmd.key2 "VK_F3">
 <!ENTITY findAgainCmd.accesskey "g">
-<!ENTITY findPreviousCmd.label "पिछला ताकू (v)">
+<!ENTITY findPreviousCmd.label "पछिला ताकू (v)">
 <!ENTITY findPreviousCmd.accesskey "v">

@@ -43,3 +43,5 @@
 <!ENTITY prefs.ppLink.label         "गोपनीयता नीति">
 
 <!ENTITY addDevice.label              "युक्ति जोड़ू">
+
+<!ENTITY deactivateDevice.label       "ई युक्तिकेँ निष्क्रिय करू">
