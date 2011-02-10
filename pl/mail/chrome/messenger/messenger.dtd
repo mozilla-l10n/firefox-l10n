@@ -316,6 +316,10 @@
 <!ENTITY goBackCmd.commandKey           "[">
 <!ENTITY prevStarredMsgCmd.label        "Wiadomość oznaczona gwiazdką">
 <!ENTITY prevStarredMsgCmd.accesskey    "O">
+<!ENTITY folderMenu.label               "Folder">
+<!ENTITY folderMenu.accesskey           "F">
+<!ENTITY thisFolder.label               "Ten folder">
+<!ENTITY thisFolder.accesskey           "F">
 <!ENTITY startPageCmd.label             "Strona startowa">
 <!ENTITY startPageCmd.accesskey         "S">
 
