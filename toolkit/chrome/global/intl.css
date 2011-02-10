@@ -43,7 +43,7 @@ parsererror {
 
 /* set LTR for url and file paths and align them to the right - Bug 289934  */
 
-#link-url-text, #source, #path, #url, #feedurl, #downloadFolder, #urltext, #statusbar-display {
+#link-url-text, #source, #path, #url, #feedurl, #downloadFolder, #urltext {
   direction: ltr !important;
   text-align: right !important;
 }
