@@ -59,9 +59,9 @@
 
 <!ENTITY protocols.label                 "ಪ್ರೋಟೊಕಾಲ್‍ಗಳು">
 <!ENTITY useSSL3.label                   "SSL ೩.೦ ಅನ್ನು ಬಳಸು">
-<!ENTITY useSSL3.accesskey               "೩">
+<!ENTITY useSSL3.accesskey               "3">
 <!ENTITY useTLS1.label                   "TLS ೧.೦ ಅನ್ನು ಬಳಸು">
-<!ENTITY useTLS1.accesskey               "೧">
+<!ENTITY useTLS1.accesskey               "1">
 <!ENTITY certificates.label              "ಪ್ರಮಾಣಪತ್ರಗಳು">
 <!ENTITY certs.auto                      "ಸ್ವಯಂಚಾಲಿತವಾಗಿ ಒಂದನ್ನು ಆರಿಸು">
 <!ENTITY certs.auto.accesskey            "l">

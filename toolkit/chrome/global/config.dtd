@@ -37,7 +37,7 @@
 <!ENTITY window.title "config ನ ಬಗ್ಗೆ">
 
 <!ENTITY filterPrefs.label "ಫಿಲ್ಟರ್:">
-<!ENTITY filterPrefs.accesskey "I">
+<!ENTITY filterPrefs.accesskey "F">
 
 <!-- Columns -->
 <!ENTITY prefColumn.label "ಆದ್ಯತೆಯ ಹೆಸರು">
@@ -51,7 +51,7 @@
 
 <!-- Context Menu -->
 <!ENTITY copyName.label "ಹೆಸರನ್ನು ಕಾಪಿ ಮಾಡು">
-<!ENTITY copyName.accesskey "C">
+<!ENTITY copyName.accesskey "N">
 <!ENTITY copyValue.label "ಮೌಲ್ಯವನ್ನು ಕಾಪಿ ಮಾಡು">
 <!ENTITY copyValue.accesskey "V">
 <!ENTITY modify.label "ಮಾರ್ಪಡಿಸು">
@@ -61,7 +61,7 @@
 <!ENTITY reset.label "ಮತ್ತೊಮ್ಮೆ ಹೊಂದಿಸು">
 <!ENTITY reset.accesskey "R">
 <!ENTITY new.label "ಹೊಸ">
-<!ENTITY new.accesskey "N">
+<!ENTITY new.accesskey "w">
 <!ENTITY string.label "ಪದಸಮುಚ್ಚಯ">
 <!ENTITY string.accesskey "S">
 <!ENTITY integer.label "ಪೂರ್ಣಾಂಕ">

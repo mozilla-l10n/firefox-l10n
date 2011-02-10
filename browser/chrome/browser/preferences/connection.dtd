@@ -9,15 +9,15 @@
 <!ENTITY  manualTypeRadio.label         "ಹಸ್ತಮುಖೇನ ಪ್ರಾಕ್ಸಿ ಸಂರಚನೆ:">
 <!ENTITY  manualTypeRadio.accesskey     "m">
 <!ENTITY  autoTypeRadio.label           "ಸ್ವಯಂಚಾಲಿತ ಪ್ರಾಕ್ಸಿ ಸಂರಚನಾ URL:">
-<!ENTITY  autoTypeRadio.accesskey       "a">
+<!ENTITY  autoTypeRadio.accesskey       "A">
 <!ENTITY  reload.label                  "ಮತ್ತೊಮ್ಮೆ ಲೋಡ್ ಮಾಡು">
 <!ENTITY  reload.accesskey              "e">
 <!ENTITY  ftp.label                     "FTP ಪ್ರಾಕ್ಸಿ:">
 <!ENTITY  ftp.accesskey                 "F">
 <!ENTITY  http.label                    "HTTP ಪ್ರಾಕ್ಸಿ:">
-<!ENTITY  http.accesskey                "y">
+<!ENTITY  http.accesskey                "x">
 <!ENTITY  ssl.label                     "SSL ಪ್ರಾಕ್ಸಿ:">
-<!ENTITY  ssl.accesskey                 "S">
+<!ENTITY  ssl.accesskey                 "L">
 <!ENTITY  socks.label                   "SOCKS ಅತಿಥೇಯ:">
 <!ENTITY  socks.accesskey               "C">
 <!ENTITY  socks4.label                  "SOCKS v4">
@@ -34,7 +34,7 @@
 <!ENTITY  noproxy.accesskey             "n">
 <!ENTITY  noproxyExplain.label          "ಉದಾಹರಣೆ: .mozilla.org, .net.nz, 192.168.1.0/24">
 <!ENTITY  shareproxy.label              "ಎಲ್ಲಾ ಪ್ರೋಟೊಕಾಲ್‍ಗಳಿಗೆ  ಈ ಪ್ರಾಕ್ಸಿ ಪರಿಚಾರಕವನ್ನು ಬಳಸು">
-<!ENTITY  shareproxy.accesskey          "x">
+<!ENTITY  shareproxy.accesskey          "s">
 
 <!ENTITY  noProxyTypeRadio.label        "ಯಾವುದೆ ಪ್ರಾಕ್ಸಿ ಇಲ್ಲ">
 <!ENTITY  noProxyTypeRadio.accesskey    "y">
