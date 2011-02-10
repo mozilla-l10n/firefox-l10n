@@ -154,9 +154,9 @@
 
 <!-- LOCALIZATION NOTE : These two strings can share an access key beause they never appear together on the menu -->
 <!ENTITY privateBrowsingCmd.start.label         "தனிப்பட்ட உலாவுதலை துவக்கு">
-<!ENTITY privateBrowsingCmd.start.accesskey     "B">
+<!ENTITY privateBrowsingCmd.start.accesskey     "P">
 <!ENTITY privateBrowsingCmd.stop.label          "தனிப்பட்ட உலாவுதலை நிறுத்து">
-<!ENTITY privateBrowsingCmd.stop.accesskey      "B">
+<!ENTITY privateBrowsingCmd.stop.accesskey      "P">
 <!ENTITY privateBrowsingCmd.commandkey          "P">
 
 <!ENTITY viewMenu.label         "பார்வை"> 
@@ -368,7 +368,7 @@ you can use these alternative items. Otherwise, their values should be empty.  -
 <!ENTITY dontShowMessage.accesskey "D">
 
 <!ENTITY bidiSwitchPageDirectionItem.label        "பக்கத் திசையை மாற்று">
-<!ENTITY bidiSwitchPageDirectionItem.accesskey    "g">
+<!ENTITY bidiSwitchPageDirectionItem.accesskey    "D">
 <!ENTITY bidiSwitchTextDirectionItem.label        "உரைத் திசையை மாற்று">
 <!ENTITY bidiSwitchTextDirectionItem.accesskey    "w">
 <!ENTITY bidiSwitchTextDirectionItem.commandkey   "X">
@@ -414,7 +414,7 @@ just addresses the organization to follow, e.g. "This site is run by " -->
 <!ENTITY newTabButton.tooltip           "ஒரு புதிய தத்தலை திற">
 
 <!ENTITY addonBarCmd.label "கூடுதல் இணைப்பு பட்டை">
-<!ENTITY addonBarCmd.accesskey "B">
+<!ENTITY addonBarCmd.accesskey "A">
 
 <!ENTITY addons.commandkey            "A">
 

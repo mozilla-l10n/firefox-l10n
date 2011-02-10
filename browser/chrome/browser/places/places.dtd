@@ -93,11 +93,11 @@
 <!ENTITY search.label                              "தேடு:">
 <!ENTITY search.accesskey                          "S">
 <!ENTITY search.scopeFolder.label                  "தேர்ந்தெடுக்கப்பட்ட அடைவு">
-<!ENTITY search.scopeFolder.accesskey              "F">
+<!ENTITY search.scopeFolder.accesskey              "r">
 <!ENTITY search.scopeDownloads.label               "பதிவிறக்கங்கள்">
 <!ENTITY search.scopeDownloads.accesskey           "D">
 <!ENTITY search.scopeHistory.label                 "வரலாறு">
-<!ENTITY search.scopeHistory.accesskey             "A">
+<!ENTITY search.scopeHistory.accesskey             "H">
 <!ENTITY saveSearch.label                          "சேமி">
 <!ENTITY saveSearch.accesskey                      "S">
 <!ENTITY search.in.label                           "இதில் தேடு:">
