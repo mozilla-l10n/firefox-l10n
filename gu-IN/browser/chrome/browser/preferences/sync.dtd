@@ -1,7 +1,7 @@
 <!-- The page shown when not logged in... -->
-<!ENTITY setupButton.label          "&syncBrand.fullName.label; ને સુયોજિત કરો">
+<!ENTITY setupButton.label          "&syncBrand.fullName.label; સુયોજિત કરો">
 <!ENTITY setupButton.accesskey      "S">
-<!ENTITY weaveDesc.label            "&syncBrand.fullName.label; ચાલો તમે બધા તમારા ઉપકરણોની તરફ તમારા ઇતિહાસ, બુકમાર્કો, પાસવર્ડો અને ઑપન ટૅબને વાપરો.">
+<!ENTITY weaveDesc.label            "&syncBrand.fullName.label; તમને તમારા બધા ઉપકરણોમાં તમારા ઇતિહાસ, બુકમાર્કો, પાસવર્ડો અને ખુલ્લા ટૅબમાં પ્રવેશ કરવા દે છે.">
 
 <!-- The page shown when logged in... -->
 

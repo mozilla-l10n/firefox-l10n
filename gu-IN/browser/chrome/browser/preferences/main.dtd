@@ -4,7 +4,7 @@
 <!ENTITY startupPage.accesskey     "s">
 <!ENTITY startupHomePage.label     "મારુ ઘર પાનું બતાવો">
 <!ENTITY startupBlankPage.label    "કોરુ પાનું બતાવો">
-<!ENTITY startupLastSession.label  "છેલ્લા સમયની મારી વિન્ડો અને ટેબો બતાવો">
+<!ENTITY startupLastSession.label  "છેલ્લા સમયની મારી વિન્ડો અને ટૅબ બતાવો">
 <!ENTITY homepage.accesskey        "P">
 <!ENTITY homepage.label            "ઘર પાનું:">
 
