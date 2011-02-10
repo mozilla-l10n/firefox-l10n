@@ -12,3 +12,4 @@
 <!ENTITY  crash_close_label         "Sulge">
 <!ENTITY  crash_restart_label       "Taaskäivita &brandShortName;">
 <!ENTITY  sending_crash_report      "Saada vearaport\u2026">
+<!ENTITY  exit_label                "Välju">

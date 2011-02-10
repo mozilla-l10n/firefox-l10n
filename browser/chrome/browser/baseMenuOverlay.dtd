@@ -14,8 +14,6 @@
 <!ENTITY aboutProduct.accesskey             "e">
 <!ENTITY productHelp.label                  "&brandShortName;i käsiraamat">
 <!ENTITY productHelp.accesskey              "k">
-<!ENTITY helpForIEUsers.label               "Internet Exploreri kasutajatele">
-<!ENTITY helpForIEUsers.accesskey           "I">
 
 <!ENTITY helpMac.commandkey                 "?">
 <!ENTITY helpSafeMode.label                 "Taaskäivita koos lisade keelamisega…">
