@@ -12,3 +12,4 @@
 <!ENTITY  crash_close_label "Tanca">
 <!ENTITY  crash_restart_label "Reinicia el &brandShortName;">
 <!ENTITY  sending_crash_report "S\'està enviant un informe de fallada\u2026">
+<!ENTITY  exit_label "Surt">
