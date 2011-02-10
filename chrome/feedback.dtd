@@ -1,0 +1,14 @@
+<!ENTITY feedbackHeader2.label          "Amûra agahdarkirinê">
+
+<!ENTITY feedback.communicate.title     "Bi me re bikeve nava têkiliyê!">
+<!ENTITY feedback.feedback.title        "Ramanên xwe bişîne">
+<!ENTITY feedback.feedback.good         "Xweş">
+<!ENTITY feedback.feedback.bad          "Xirab">
+
+<!ENTITY feedback.information.title     "Zêdetir agahî">
+<!ENTITY feedback.about.title           "Derbarê vê betayê de">
+<!ENTITY feedback.about.button          "Here rûpelê">
+
+<!ENTITY feedback.tools.title           "Amûr">
+<!ENTITY feedback.forceCompat.title     "Hêzê bide hevgirtina add-onan">
+<!ENTITY feedback.errorConsole.title    "Konsola Çewtiyan çalak bike">

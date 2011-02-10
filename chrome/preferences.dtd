@@ -1,0 +1,21 @@
+<!ENTITY prefsHeader.label                         "Vebijêrk">
+<!ENTITY about.title                               "Derbarê &brandShortName;ê de">
+<!ENTITY about.button                              "Here rûpelê">
+<!ENTITY content.title                             "Naverok">
+<!ENTITY reflowZoom.title                          "Di nêzîkirinê de nivîsê veformat bike">
+<!ENTITY showImages.title                          "Wêneyan nîşan bide">
+<!ENTITY enableJavaScript.title                    "JavaScriptê çalak bike">
+<!ENTITY enablePlugins.title                       "Pêvekan çalak bike">
+<!ENTITY privacy.title                             "Nepenî &amp; ewlekarî">
+<!ENTITY allowCookies.title                        "Destûrê bide çerezan">
+<!ENTITY clearPrivateData2.title                   "Daneyên takekes paqij bike">
+<!ENTITY clearPrivateData.button                   "Paqij bike">
+<!ENTITY rememberPasswords.title                   "Şîfreyan bi bîr bîne">
+<!ENTITY language.title                            "Ziman">
+<!ENTITY language.auto                             "Têderxistina-xweber">
+<!ENTITY defaultBrowser.title                      "Geroka Derbasdar">
+<!ENTITY defaultBrowser.description                "&brandShortName;ê bike geroka xwe ya standard">
+<!ENTITY homepage.title                            "Rûpela destpêkê">
+<!ENTITY homepage.none                             "Rûpela vala">
+<!ENTITY homepage.default                          "&brandShortName; destpêk">
+<!ENTITY homepage.currentpage                      "Rûpela derbasdar bi kar bîne">

@@ -1,0 +1,10 @@
+<!ENTITY aboutHome.header                       "<span>&brandShortName; </span><span id='header-suffix'>Destpêk</span>">
+<!ENTITY aboutHome.recentTabs                   "Hilpekînên te yên dawî">
+<!ENTITY aboutHome.remoteTabs                   "Hilpekînên ji kopîterên din">
+<!ENTITY aboutHome.recommendedAddons2           "Add-onên ji bo &brandShortName;a te">
+<!ENTITY aboutHome.giveFeedback                 "Ramanên xwe bişîne">
+<!ENTITY aboutHome.getHelp                      "Alîkariyê bistîne">
+<!ENTITY aboutHome.footerWidth                  "10em">
+<!ENTITY aboutHome.openAllTabs                  "Tevî di hilpekînan de veke">
+<!ENTITY aboutHome.noTabs                       "Ji dema dawî hilpekîn tun ene">
+<!ENTITY aboutHome.noAddons                     "Tu add-oeneke bê pêşniyarkirin tune ye">
