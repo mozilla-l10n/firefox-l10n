@@ -321,6 +321,8 @@
 <!ENTITY calendarproperties.wcap.label                     "Sun Java System Calendar Server (WCAP)">
 <!ENTITY calendarproperties.format.label                   "Formaat:">
 <!ENTITY calendarproperties.location.label                 "Locatie:">
+<!ENTITY calendarproperties.refreshInterval.label          "Agenda verversen:">
+<!ENTITY calendarproperties.refreshInterval.manual.label   "Handmatig">
 <!ENTITY calendarproperties.name.label                     "Naam:">
 <!ENTITY calendarproperties.readonly.label                 "Alleen-lezen">
 <!ENTITY calendarproperties.firealarms.label               "Alarmen tonen">
