@@ -1,0 +1,14 @@
+<!ENTITY aboutSupport.appBasicsAppBuildID "Programmets Build ID">
+
+<!ENTITY aboutSupport.accountsTitle "Konti for mail og nyhedsgrupper">
+<!ENTITY aboutSupport.showPrivateData.mainText "Medtag kontonavne">
+<!ENTITY aboutSupport.showPrivateData.explanationText "(kan muliggøre identifikation)">
+<!ENTITY aboutSupport.accountsID "ID">
+<!ENTITY aboutSupport.accountsName "Navn">
+<!ENTITY aboutSupport.accountsIncomingServer "Indgående server">
+<!ENTITY aboutSupport.accountsOutgoingServers "Udgående servere">
+<!ENTITY aboutSupport.accountsConnSecurity "Forbindelsessikkerhed">
+<!ENTITY aboutSupport.accountsAuthMethod "Godkendelsesmetode">
+<!ENTITY aboutSupport.accountsDefault "Som standard?">
+
+<!ENTITY aboutSupport.sendViaEmail.label "Send som mail">
