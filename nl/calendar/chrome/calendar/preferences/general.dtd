@@ -49,6 +49,3 @@
 <!ENTITY pref.defaultlength.accesskey "u">
 <!ENTITY pref.defaultsnoozelength.label "Standaard sluimerduur:" >
 <!ENTITY pref.defaultsnoozelength.accesskey "s">
-<!ENTITY pref.refreshbox.label "Verversingsinstellingen" >
-<!ENTITY pref.autorefresh.label "Agenda’s verversen om de" >
-<!ENTITY pref.autorefresh.accesskey "r" >
