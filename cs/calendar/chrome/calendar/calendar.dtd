@@ -321,6 +321,8 @@
 <!ENTITY calendarproperties.wcap.label "Sun Java System Calendar Server (WCAP)">
 <!ENTITY calendarproperties.format.label "Formát:">
 <!ENTITY calendarproperties.location.label "Adresa:">
+<!ENTITY calendarproperties.refreshInterval.label "Aktualizovat kalendář:">
+<!ENTITY calendarproperties.refreshInterval.manual.label "Ručně">
 <!ENTITY calendarproperties.name.label "Název:">
 <!ENTITY calendarproperties.readonly.label "Pouze ke čtení">
 <!ENTITY calendarproperties.firealarms.label "Zobrazit upozornění">
