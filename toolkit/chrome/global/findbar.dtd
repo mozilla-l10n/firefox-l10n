@@ -2,7 +2,7 @@
 <!-- LOCALIZATION NOTE : FILE use the Find Bar. --> 
 
 <!-- entities split out from browser.dtd -->
-<!ENTITY next.label "आगे">
+<!ENTITY next.label "अगला">
 <!ENTITY next.accesskey "N">
 <!ENTITY next.tooltip "वाक्यांश की अगली उपस्थिति ढूँढ़ें">
 <!ENTITY previous.label "पिछला">

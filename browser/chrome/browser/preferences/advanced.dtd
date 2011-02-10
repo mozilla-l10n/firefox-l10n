@@ -45,7 +45,7 @@
 <!ENTITY clearCacheNow.label             "अब साफ करें">
 <!ENTITY clearCacheNow.accesskey         "C">
 
-<!ENTITY updateTab.label                 "अद्यतन करें">
+<!ENTITY updateTab.label                 "अद्यतन">
 
 <!ENTITY autoCheck.label                 "यहाँ अद्यतन के लिए स्वतः जाँचें:">
 <!ENTITY enableAppUpdate.label           "&brandShortName;">

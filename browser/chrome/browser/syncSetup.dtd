@@ -22,18 +22,18 @@
 
 
 <!-- New Account Page 1: Basic Account Info -->
-<!ENTITY setup.newAccountDetailsPage.title.label "Account Details">
+<!ENTITY setup.newAccountDetailsPage.title.label "खाता विवरण">
 <!ENTITY setup.confirmPassword.label  "कूटशब्द की पुष्टि करें">
 <!ENTITY setup.confirmPassword.accesskey  "m">
 <!ENTITY setup.emailAddress.label     "ईमेल पता">
 <!ENTITY setup.emailAddress.accesskey "E">
 <!-- LOCALIZATION NOTE: tosAgree1, tosLink, tosAgree2, ppLink, tosAgree3 are
      joined with implicit white space, so spaces in the strings aren't necessary -->
-<!ENTITY setup.tosAgree1.label      "मैं सहमत हूँ">
+<!ENTITY setup.tosAgree1.label      "मैं इनसे सहमत हूँ—">
 <!ENTITY setup.tosAgree1.accesskey  "a">
-<!ENTITY setup.tosLink.label        "सेवा शर्तोंTerms of Service">
+<!ENTITY setup.tosLink.label        "सेवा शर्त">
 <!ENTITY setup.tosAgree2.label      "और">
-<!ENTITY setup.ppLink.label         "गोपनीयता नीति से">
+<!ENTITY setup.ppLink.label         "गोपनीयता नीति">
 <!ENTITY setup.tosAgree3.label      "">
 <!ENTITY setup.tosAgree2.accesskey  "">
 
@@ -113,18 +113,18 @@
 <!ENTITY addDevice.dialog.tryAgain.label    "Please try again.">
 <!ENTITY addDevice.dialog.successful.label  "The device has been successfully added. The initial synchronization can take several minutes and will finish in the background.">
 <!ENTITY addDevice.dialog.syncKey.label     "To activate your device you will need to enter your Sync Key. Please print or save this key and take it with you.">
-<!ENTITY addDevice.dialog.connected.label   "Device Connected">
+<!ENTITY addDevice.dialog.connected.label   "युक्तियाँ कनेक्टेड">
 
-<!ENTITY button.connect.label    "Connect">
+<!ENTITY button.connect.label    "कनेक्ट करें">
 <!ENTITY existingSyncKey.description "You can get a copy of your Sync Key by going to &syncBrand.shortName.label; Options on your other device, and selecting  &#x0022;My Sync Key&#x0022; under &#x0022;Manage Account&#x0022;.">
 
-<!ENTITY serverType.custom2.label   "Use a custom server…">
-<!ENTITY setup.haveAccount.label "I already have a &syncBrand.fullName.label; account.">
-<!ENTITY setup.signInPage.title.label "Sign In">
+<!ENTITY serverType.custom2.label   "मनपसंद सर्वर का उपयोग करें…">
+<!ENTITY setup.haveAccount.label "मेरे पास पहले से &syncBrand.fullName.label; खाता है.">
+<!ENTITY setup.signInPage.title.label "साइन इन">
 <!ENTITY signIn.account2.accesskey  "A">
-<!ENTITY signIn.account2.label      "Account">
-<!ENTITY signIn.syncKey.label       "Sync Key">
+<!ENTITY signIn.account2.label      "खाता">
+<!ENTITY signIn.syncKey.label       "सिंक">
 <!ENTITY signIn.syncKey.accesskey   "K">
 
-<!ENTITY resetSyncKey.label           "I have lost my other device.">
+<!ENTITY resetSyncKey.label           "मेरी अन्य युक्तियाँ गुम हो गई हैं.">
 

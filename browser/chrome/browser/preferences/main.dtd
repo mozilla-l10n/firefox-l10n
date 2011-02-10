@@ -30,8 +30,8 @@
 <!ENTITY alwaysAsk.accesskey "A">
 
 <!ENTITY addonsMgr.label               "सहयुक्तियाँ">
-<!ENTITY manageAddonsDescWin.label     "अपने सहयुक्तियाँ के लिए विकल्प बदलें">
-<!ENTITY manageAddonsDescUnix2.label   "अपने सहयुक्तियाँ के लिए वरीयता बदलें">
+<!ENTITY manageAddonsDescWin.label     "अपनी सहयुक्तियों के लिए विकल्प बदलें">
+<!ENTITY manageAddonsDescUnix2.label   "अपनी सहयुक्तियों के लिए विकल्प बदलें">
 <!ENTITY manageAddons.label            "सहयुक्तियाँ प्रबंधित करें…">
 <!ENTITY manageAddons.accesskey        "M">
 
