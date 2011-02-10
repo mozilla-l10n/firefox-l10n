@@ -21,3 +21,5 @@
 <!ENTITY testpilot.feedbackbutton.label "نظرات">
 <!ENTITY testpilot.happy.label "فایرفاکس به این دلیل من را خوش‌حال کرد…">
 <!ENTITY testpilot.sad.label "فابرفاکس به این دلیل من را ناراحت کرد…">
+<!ENTITY testpilot.broken.label "گزارش این وب‌گاه به دلیل کار نکردن صحیح…">
+<!ENTITY testpilot.idea.label "به ما پیشنهادی بدهید…">
