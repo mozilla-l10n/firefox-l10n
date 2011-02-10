@@ -11,3 +11,4 @@
 <!ENTITY crash_close_label "Закрыть">
 <!ENTITY crash_restart_label "Перезапустить &brandShortName;">
 <!ENTITY sending_crash_report "Отправка сообщения о падении\u2026">
+<!ENTITY exit_label "Выход">
