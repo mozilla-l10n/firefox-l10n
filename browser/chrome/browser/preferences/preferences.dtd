@@ -17,5 +17,5 @@
 <!ENTITY  paneApplications.title  "ಅನ್ವಯಗಳು">
 
 <!-- LOCALIZATION NOTE (paneSync.title): This should match syncBrand.shortName.label in ../syncBrand.dtd -->
-<!ENTITY  paneSync.title          "ಮೇಳೈಸು">
+<!ENTITY  paneSync.title          "ಸಿಂಕ್">
 

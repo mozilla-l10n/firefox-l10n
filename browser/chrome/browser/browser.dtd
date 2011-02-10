@@ -499,16 +499,16 @@ can reach it easily. -->
 <!ENTITY showAllTabsCmd.label "ಎಲ್ಲಾ ಹಾಳೆಗಳನ್ನು ತೋರಿಸು">
 <!ENTITY showAllTabsCmd.accesskey "A">
 
-<!ENTITY syncBrand.shortName.label    "ಮೇಳೈಸು">
+<!ENTITY syncBrand.shortName.label    "ಸಿಂಕ್‌">
 <!ENTITY syncSetup.label              "&syncBrand.shortName.label; ಅನ್ನು ಸಿದ್ಧಗೊಳಿಸಿ…">
 <!ENTITY syncSetup.accesskey          "Y">
 
-<!ENTITY syncSyncNowItem.label        "ಈಗಲೆ ಮೇಳೈಸು">
+<!ENTITY syncSyncNowItem.label        "ಈಗಲೆ ಸಿಂಕ್ ಮಾಡು">
 <!ENTITY syncSyncNowItem.accesskey    "S">
 
 <!-- LOCALIZATION NOTE (syncTabsMenu.label): This appears in the history menu -->
 <!ENTITY syncTabsMenu.label     "ಇತರೆ ಗಣಕಗಳಿಂದ ಹಾಳೆಗಳು">
-<!ENTITY syncToolbarButton.label      "ಮೇಳೈಸು">
+<!ENTITY syncToolbarButton.label      "ಸಿಂಕ್‌ ಮಾಡು">
 
 <!ENTITY tabGroupsButton.label        "ಹಾಳೆ ಗುಂಪುಗಳು">
 <!ENTITY tabGroupsButton.tooltip      "ನಿಮ್ಮ ಹಾಳೆಗಳನ್ನು ಗುಂಪುಗೂಡಿಸಿ">
