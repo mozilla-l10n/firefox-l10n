@@ -30,3 +30,5 @@
 <!ENTITY testpilot.feedbackbutton.label                "Atgriezeniskā saite">
 <!ENTITY testpilot.happy.label        "Firefox padarīja mani laimīgu jo...">
 <!ENTITY testpilot.sad.label          "Firefox padarīja mani bēdīgu jo...">
+<!ENTITY testpilot.broken.label      "Ziņot, ka šī mājas lapa ir bojāta…">
+<!ENTITY testpilot.idea.label        "Dot ieteikumu…">

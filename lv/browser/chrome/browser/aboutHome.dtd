@@ -11,9 +11,6 @@
 
 <!ENTITY abouthome.searchEngineButton.label "Meklēt">
 
-<!ENTITY abouthome.searchEngineLinks.advanced "Izvērstā meklēšana">
-<!ENTITY abouthome.searchEngineLinks.preferences "Iestatījumi">
-
 <!ENTITY abouthome.aboutMozilla "Par Mozilla">
 
 <!-- LOCALIZATION NOTE (abouthome.defaultSnippet1.v1):
