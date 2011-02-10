@@ -2,6 +2,8 @@
 <!ENTITY helpMenu.accesskey      "c">
 <!ENTITY helpMenuWin.label       "Pomoc">
 <!ENTITY helpMenuWin.accesskey   "c">
+<!ENTITY helpTroubleshootingInfo.label     "Informacje dla pomocy technicznej">
+<!ENTITY helpTroubleshootingInfo.accesskey "n">
 <!ENTITY releaseCmd.label        "Informacje o wersji programu">
 <!ENTITY releaseCmd.accesskey    "I">
 <!ENTITY whatsNewCmd.label       "Najważniejsze zmiany w tej wersji">
