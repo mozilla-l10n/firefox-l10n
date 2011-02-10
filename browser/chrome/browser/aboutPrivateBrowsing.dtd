@@ -17,7 +17,7 @@
 
 <!-- LOCALIZATION NOTE (privatebrowsingpage.howToStop2): please leave &basePBMenu.label; intact in the translation -->
 <!-- LOCALIZATION NOTE (privatebrowsingpage.howToStart2): please leave &basePBMenu.label; intact in the translation -->
-<!ENTITY privatebrowsingpage.howToStop2                "ಖಾಸಗಿ ಜಾಲವೀಕ್ಷಣೆಯನ್ನು ನಿಲ್ಲಿಸಲು, select &basePBMenu.label; &gt; &privateBrowsingCmd.stop.label; ಅನ್ನು ಆಯ್ಕೆ ಮಾಡಿ, ಅಥವ &brandShortName; ಅನ್ನು ಮುಚ್ಚಿ.">
+<!ENTITY privatebrowsingpage.howToStop2                "ಖಾಸಗಿ ಜಾಲವೀಕ್ಷಣೆಯನ್ನು ನಿಲ್ಲಿಸಲು, &basePBMenu.label; &gt; &privateBrowsingCmd.stop.label; ಅನ್ನು ಆಯ್ಕೆ ಮಾಡಿ, ಅಥವ &brandShortName; ಅನ್ನು ಮುಚ್ಚಿ.">
 <!ENTITY privatebrowsingpage.howToStart2               "ಖಾಸಗಿ ಜಾಲವೀಕ್ಷಣೆಯನ್ನು ಆರಂಭಿಸಲು, ನೀವು &basePBMenu.label; &gt; &privateBrowsingCmd.start.label; ಅನ್ನೂ ಸಹ ಆಯ್ಕೆ ಮಾಡಬಹುದು.">
 
 <!ENTITY privatebrowsingpage.moreInfo                  "ಈ ಗಣಕವು ನಿಮ್ಮ ಜಾಲ ವೀಕ್ಷಣೆಯ ದಾಖಲೆಯನ್ನು ಹೊಂದಿರದೆ ಇದ್ದರೂ ಸಹ, ನಿಮಗೆ ಅಂತರಜಾಲವನ್ನು ಒದಗಿಸಿದವರು ಅಥವ ನಿಮ್ಮ ಉದ್ಯೋಗದಾತರು ನೀವು ಭೇಟಿ ನೀಡುವ ಪುಟವನ್ನು ಗಮನಿಸುವ ಸಾಧ್ಯತೆ ಇರುತ್ತದೆ.">
