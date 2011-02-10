@@ -47,7 +47,7 @@ that require it.  -->
 <!ENTITY itemFormSearchHistory.accesskey   "F">
 <!ENTITY itemFormSearchHistory.label       "നാള്‍വഴി തെരയുക">
 <!ENTITY itemHistoryAndDownloads.accesskey "B">
-<!ENTITY itemHistoryAndDownloads.label     "ബ്രൗസിങ്ങും ഹിസ്റ്ററി ഡൗണ്‍ലോഡ് ചെയ്യലും">
+<!ENTITY itemHistoryAndDownloads.label     "ബ്രൗസിങ്ങും ഡൗണ്‍ലോഡ് നാള്‍വഴിയും">
 <!ENTITY itemSitePreferences.accesskey     "S">
 <!ENTITY itemSitePreferences.label         "സൈറ്റ് മുന്‍ഗണനകള്‍">
 <!--ENTITY itemFormSearchEntries.label  "Form &amp; Search Entries"-->

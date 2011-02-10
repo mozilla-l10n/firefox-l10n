@@ -34,7 +34,7 @@
 <!-- LOCALIZATION NOTE (update.checkingAddonCompat): try to make the localized text short (see bug 596813 for screenshots). -->
 <!ENTITY update.checkingAddonCompat "ആഡ്-ഓണ്‍ പൊരുത്തം പരിശോധന…">
 <!-- LOCALIZATION NOTE (update.noUpdatesFound): try to make the localized text short (see bug 596813 for screenshots). -->
-<!ENTITY update.noUpdatesFound      "&brandShortName; -നു് മാറ്റം ആവശ്യമില്ല">
+<!ENTITY update.noUpdatesFound      "&brandShortName; ഏറ്റവും പുതിയതാണു്">
 <!-- LOCALIZATION NOTE (update.adminDisabled): try to make the localized text short (see bug 596813 for screenshots). -->
 <!ENTITY update.adminDisabled       "സിസ്റ്റം അഡ്മിനിസ്ട്രേറ്റര്‍ പരിഷ്കരണങ്ങള്‍ അനുവദിയ്ക്കുന്നില്ല">
 
