@@ -309,7 +309,7 @@
      user focuses the "Cancel" button in the "Snooze for..." popup of the alarm
      dialog. -->
 
-<!ENTITY calendar.alarm.snooze.cancel "Cancel Snooze">
+<!ENTITY calendar.alarm.snooze.cancel "Cealaigh an Néal Codlata">
 <!-- Calendar Server Dialog -->
 
 <!ENTITY calendar.server.dialog.title.edit "Cuir Féilire in Eagar">
