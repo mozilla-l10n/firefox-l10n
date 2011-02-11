@@ -29,3 +29,5 @@
 <!ENTITY testpilot.feedbackbutton.label                "Iritzia">
 <!ENTITY testpilot.happy.label        "Firefoxek zoriontsu egin nau zeren eta…">
 <!ENTITY testpilot.sad.label          "Firefoxek goibeldu egin nau zeren eta…">
+<!ENTITY testpilot.broken.label      "Webgune hau ez dabil…">
+<!ENTITY testpilot.idea.label        "Egin proposamena…">
