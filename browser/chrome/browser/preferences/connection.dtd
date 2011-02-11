@@ -1,4 +1,4 @@
-
+﻿
 <!ENTITY connectionsDialog.title "தொடர்பு அமைவுகள்">
 <!ENTITY window.width  "37em">
 <!ENTITY window.macWidth "39em">
@@ -32,7 +32,7 @@
 <!ENTITY FTPport.accesskey "r">
 <!-- No accesskey for gopher (':' doesn't go well) - mpt's going to redesign the window -->
 <!ENTITY SOCKSport.accesskey "t">
-<!ENTITY noproxy.label "No Proxy:">
+<!ENTITY noproxy.label "Proxy இல்லை:">
 <!ENTITY noproxy.accesskey "">
 <!ENTITY noproxyExplain.label "உதாரணம்: .mozilla.org, .net.nz, 192.168.1.0/24">
 <!ENTITY shareproxy.label "இந்த Proxy சேவையகத்தை அனைத்து நெறிமுறைகளுக்கும் பயன்படுத்துக">
@@ -40,7 +40,7 @@
 
 <!-- from version 3.05b -->
 
-<!ENTITY  noProxyTypeRadio.label        "No proxy">
+<!ENTITY  noProxyTypeRadio.label        "proxy இல்லை">
 <!ENTITY  noProxyTypeRadio.accesskey    "y">
 <!ENTITY  systemTypeRadio.label         "system proxy அமைவுகளை பயன்படுத்துக">
 <!ENTITY  systemTypeRadio.accesskey     "u">

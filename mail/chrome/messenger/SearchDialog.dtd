@@ -3,7 +3,7 @@
 <!ENTITY searchHeading.accesskey "h">
 <!ENTITY searchSubfolders.label "உபகோப்புறைகளிலும் தேடுக">
 <!ENTITY searchSubfolders.accesskey "e">
-<!ENTITY searchOnServer.label        "Run search on server">
+<!ENTITY searchOnServer.label        "சேவையகத்தில் தேடலை இயக்குக">
 <!ENTITY searchOnServer.accesskey    "u">
 <!ENTITY resetButton.label "சுத்தம் செய்">
 <!ENTITY resetButton.accesskey "C">
@@ -33,7 +33,7 @@
 <!ENTITY abSearchDialogTitle.label "உயர்நிலை முகவரிப்புத்தக தேடல்">
 <!-- Thread Pane -->
 
-<!ENTITY threadColumn.label "Thread">
+<!ENTITY threadColumn.label "புரிஉரு">
 <!ENTITY fromColumn.label "From">
 <!ENTITY recipientColumn.label "பெறுநர்">
 <!ENTITY subjectColumn.label "பாடம்">
@@ -47,7 +47,7 @@
 <!ENTITY unreadColumn.label "படிக்கப்படாதது">
 <!ENTITY totalColumn.label "மொத்தம்">
 <!ENTITY readColumn.label "படிக்கப்பட்டது">
-<!ENTITY receivedColumn.label "Received">
+<!ENTITY receivedColumn.label "பெறப்பட்டுள்ளது">
 <!ENTITY starredColumn.label "விண்மீன்குறியிடப்பட்ட">
 <!ENTITY locationColumn.label "இடம்">
 <!ENTITY idColumn.label "கிடைத்த வரிசை">

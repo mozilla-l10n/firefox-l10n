@@ -1,4 +1,4 @@
-<!ENTITY fontsDialog.title "எழுத்துருக்கள்">
+﻿<!ENTITY fontsDialog.title "எழுத்துருக்கள்">
 <!ENTITY window.width  "39em">
 <!ENTITY window.macWidth "43em">
 <!ENTITY window.unixWidth "41em">
@@ -77,4 +77,4 @@ Entities below were automatically added by compare-locales,
  based on en-US entities.
 -->
 
-<!ENTITY font.langGroup.tibetan "Tibetan">
+<!ENTITY font.langGroup.tibetan "திபேத்தன்">

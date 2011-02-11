@@ -112,7 +112,7 @@
 
 <!ENTITY detail.updateType                    "தன்னிச்சையான இற்றைப்படுத்தல்கள்">
 <!ENTITY detail.updateDefault.label           "பொதுஇருப்பு">
-<!ENTITY detail.updateDefault.tooltip         "Automatically install updates only if that's the default">
+<!ENTITY detail.updateDefault.tooltip         "அவை பொதுஇருப்பாக இருந்தால் மட்டும் தானாகவே இற்றைப்படுத்தல்களை நிறுவுக" >
 <!ENTITY detail.updateAutomatic.label         "On">
 <!ENTITY detail.updateAutomatic.tooltip       "தன்னிச்சையான இற்றைப்படுத்தல்களை நிறுவுதல்">
 <!ENTITY detail.updateManual.label            "Off">
@@ -159,7 +159,7 @@
 <!ENTITY addon.homepage                       "முகப்புபக்கம்">
 <!ENTITY addon.details.label                  "மேலும்">
 <!ENTITY addon.details.tooltip                "இந்த  செருகல் பற்றி மேலும் விபரங்களை காட்டுக.">
-<!ENTITY addon.unknownDate                    "Unknown">
+<!ENTITY addon.unknownDate                    "அறியபடாதது">
 <!-- LOCALIZATION NOTE (addon.disabled.postfix): This is used in a normal list
      to signify that an add-on is disabled, in the form
      "<Addon name> <1.0> (disabled)" -->

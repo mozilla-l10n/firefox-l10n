@@ -66,13 +66,13 @@
 <!ENTITY lightning.menupopup.open.calendar.accesskey  "C">
 
 <!-- View Menu -->
-<!ENTITY lightning.menu.view.calendar.label            "Calendar">
+<!ENTITY lightning.menu.view.calendar.label            "நாட்காட்டி">
 <!ENTITY lightning.menu.view.calendar.accesskey        "n">
-<!ENTITY lightning.menu.view.tasks.label               "Tasks">
+<!ENTITY lightning.menu.view.tasks.label               "பணிகள்">
 <!ENTITY lightning.menu.view.tasks.accesskey           "k">
 
 <!-- Events and Tasks menu -->
-<!ENTITY lightning.menu.eventtask.label                "Events and Tasks">
+<!ENTITY lightning.menu.eventtask.label                "நிகழ்ச்சிகள் மற்றும் பணிகள்">
 <!ENTITY lightning.menu.eventtask.accesskey            "n">
 
 <!-- Mode Toolbar -->

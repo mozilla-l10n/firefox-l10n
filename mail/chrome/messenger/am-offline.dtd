@@ -18,11 +18,11 @@
 <!ENTITY retentionKeepMsg.accesskey "m">
 <!ENTITY retentionKeepAll.label "எந்த செய்திகளையும் நீக்கவேண்டாம்">
 <!ENTITY retentionKeepAll.accesskey "A">
-<!ENTITY retentionKeepRecent.label "Delete all but the most recent">
+<!ENTITY retentionKeepRecent.label "மிகவும் சமீபத்தியதை மட்டும் அழிக்குக.">
 <!ENTITY retentionKeepRecent.accesskey "b">
 <!-- LOCALIZATION NOTE: Unhide with .keepUnreadOnly { display: -moz-box; } -->
-<!ENTITY retentionKeepUnreadHidden.label "Always delete read messages (overrides age settings)">
-<!ENTITY retentionApplyToFlagged.label "Always keep starred messages">
+<!ENTITY retentionKeepUnreadHidden.label "எப்பவும் வாசிக்கப்பட்ட செய்திகளை அழிக்க (overrides age settings)">
+<!ENTITY retentionApplyToFlagged.label "எப்பவும் starred செய்திகளை வைத்திருக்க">
 <!ENTITY retentionApplyToFlagged.accesskey "e">
 <!ENTITY nntpRemoveMsgBody.label "Remove bodies from messages more than">
 <!ENTITY nntpRemoveMsgBody.accesskey "o">
@@ -41,9 +41,9 @@
 -->
 <!ENTITY useAutosyncBefore.label         "">
 <!ENTITY useAutosyncMiddle.label         "">
-<!ENTITY allInterval.label               "All">
+<!ENTITY allInterval.label               "அனைத்து">
 <!ENTITY dayInterval.label               "Days of">
 <!ENTITY weekInterval.label              "Weeks of">
 <!ENTITY monthInterval.label             "Months of">
 <!ENTITY yearInterval.label              "Years of">
-<!ENTITY useAutosyncAfter.label          "email will be stored on disk">
+<!ENTITY useAutosyncAfter.label          "disk இல் மின்னஞ்சல்கள் சேமிக்கப்பட்டிருக்கும்">

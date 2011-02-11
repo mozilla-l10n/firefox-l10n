@@ -1,19 +1,19 @@
-<!ENTITY  typeColumn.label            "Content Type">
+<!ENTITY  typeColumn.label            "உள்ளடக்க வகை">
 <!ENTITY  typeColumn.accesskey        "T">
 
-<!ENTITY  actionColumn2.label         "Action">
+<!ENTITY  actionColumn2.label         "செயல்">
 <!ENTITY  actionColumn2.accesskey     "A">
 
 <!ENTITY  focusSearch1.key            "f">
 <!ENTITY  focusSearch2.key            "k">
 
-<!ENTITY  filter.emptytext            "Search">
+<!ENTITY  filter.emptytext            "தேடல்">
 
-<!ENTITY saveTo.label                 "Save files to">
+<!ENTITY saveTo.label                 "இற்கு கோப்புகளை சேமிக்க">
 <!ENTITY saveTo.accesskey             "S">
-<!ENTITY alwaysAsk.label              "Always ask me where to save files">
+<!ENTITY alwaysAsk.label              "கோப்புகளை சேமிக்கும் ஒவ்வொறு தடவையும் என்னை கேட்க">
 <!ENTITY alwaysAsk.accesskey          "A">
-<!ENTITY chooseFolderWin.label        "Browse…">
+<!ENTITY chooseFolderWin.label        "உலாவுக…">
 <!ENTITY chooseFolderWin.accesskey    "B">
-<!ENTITY chooseFolderMac.label        "Choose…">
+<!ENTITY chooseFolderMac.label        "தெரிவுசெய்க…">
 <!ENTITY chooseFolderMac.accesskey    "C">

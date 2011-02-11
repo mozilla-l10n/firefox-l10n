@@ -14,13 +14,13 @@
 <!ENTITY highPriorityCmd.label "அதிகம்">
 <!ENTITY highestPriorityCmd.label "மிக அதிகம்">
 
-<!ENTITY contextDesc.label "Apply filter when:">
+<!ENTITY contextDesc.label "இதன் போது வடிகட்டியினை பிரயோகிக்க:">
 <!ENTITY contextDesc.accesskey "w">
 <!ENTITY contextIncoming.label "அஞ்சலை சரிபார்க்க">
-<!ENTITY contextManual.label "Manually Run">
-<!ENTITY contextBoth.label "Checking Mail or Manually Run">
-<!ENTITY contextPostPlugin.label "Checking Mail (after classification)">
-<!ENTITY contextPostPluginBoth.label "Checking Mail (after classification) or Manually Run">
+<!ENTITY contextManual.label "Manually இயக்குக">
+<!ENTITY contextBoth.label "அஞ்சலை சரிபார்க்க அல்லது Manually இயக்குக">
+<!ENTITY contextPostPlugin.label "அஞ்சல் சரிபார்க்கப்படுகிறது (after classification)">
+<!ENTITY contextPostPluginBoth.label "அஞ்சலை சரிபார்க்க (after classification) அல்லது Manually இயக்குக">
 <!ENTITY filterActionDesc.label "இந்தச் செயல்களை செய்க:">
 <!ENTITY filterActionDesc.accesskey "P">
 

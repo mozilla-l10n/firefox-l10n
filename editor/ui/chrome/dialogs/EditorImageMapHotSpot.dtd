@@ -52,7 +52,7 @@
 <!ENTITY commonFieldset.label	"பொதுவான இலக்குகள்:">
 <!ENTITY none.value				"(எதுவுமில்லை)">
 <!ENTITY same.value				"அதே சட்டம்">
-<!ENTITY whole.value			"Whole Page">
+<!ENTITY whole.value			"முழு பக்கம்">
 <!ENTITY new.value				"புதிய சாரளம்">
 <!ENTITY parent.value			"பெற்றோர் Parent Frame">
 

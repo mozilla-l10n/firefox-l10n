@@ -1,4 +1,4 @@
-<!ENTITY % brandDTD SYSTEM "chrome://branding/locale/brand.dtd">
+﻿<!ENTITY % brandDTD SYSTEM "chrome://branding/locale/brand.dtd">
 %brandDTD;
 
 <!ENTITY loadError.label "பக்கத்தை அணுக முடியவில்லை">
@@ -109,7 +109,7 @@ Entities below were automatically added by compare-locales,
 
 <!ENTITY netOffline.overrideLongDesc "
 <ul>
-  <li>Uncheck the &quot;Work Offline&quot; menu item, then try again.</li>
+  <li>&quot;Work Offline&quot; பட்டி உருப்படியின் தெரிவை நீக்குக, பின்னர் மீண்டும் முயற்சி செய்க.</li>
 </ul>
 ">
 <!ENTITY securityOverride.warningContent "
@@ -118,5 +118,5 @@ Entities below were automatically added by compare-locales,
 <button id='getMeOutOfHereButton'>&securityOverride.getMeOutOfHereButton;</button>
 <button id='exceptionDialogButton'>&securityOverride.exceptionButtonLabel;</button>
 ">
-<!ENTITY cspFrameAncestorBlocked.longDesc "<p>&brandShortName; prevented this page from loading in this way because the page has a content security policy that disallows it.</p>">
-<!ENTITY cspFrameAncestorBlocked.title "Blocked by Content Security Policy">
+<!ENTITY cspFrameAncestorBlocked.longDesc "<p>&brandShortName; ஆனது இப்பக்கத்தை இந்த வழியில் ஏற்றுவதிலிருந்து தடுத்தது, ஏனெனில் இப்பக்கமானது ஒரு உள்ளடக்கப் பாதுகாப்புக் கொள்கையை வைத்திருப்பதனால் இதை அனுமதிக்காது.</p>">
+<!ENTITY cspFrameAncestorBlocked.title "உள்ளடக்க பாதுகாப்புக் கொள்கையால் தடுக்கப்பட்டது">

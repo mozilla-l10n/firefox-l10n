@@ -50,6 +50,6 @@
 <!ENTITY server.accesskey "A">
 <!ENTITY subscribedHeader.label " அங்கத்தினராகுக">
 <!-- commenting out until bug 38906 is fixed 
-<!ENTITY messagesHeader.label         "Messages"> -->
+<!ENTITY messagesHeader.label         "செய்திகள்"> -->
 <!ENTITY namefield.label "இது உள்ள உருப்படிகளை காட்டுக:">
 <!ENTITY namefield.accesskey "O">

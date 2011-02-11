@@ -1,4 +1,4 @@
-
+﻿
 
 <!--
 Entities below were automatically added by compare-locales,
@@ -6,7 +6,6 @@ Entities below were automatically added by compare-locales,
 -->
 
 <!ENTITY setup.tosLink.label "சேவை விதிமுறை">
-<!ENTITY syncKeyStrength.label "வலிமை:">
 <!ENTITY continueUsing.label "&brandShortName; இதைப் பாவித்து நீங்கள் தொடரலாம்.">
 <!ENTITY syncKeyGenerate.label "உண்டாக்கு">
 <!ENTITY serverType.main.label "&syncBrand.fullName.label; சேவையகம்">
@@ -15,13 +14,10 @@ Entities below were automatically added by compare-locales,
 <!ENTITY syncMy.label "Sync My">
 <!ENTITY button.syncKeyBackup.print.label "அச்சிடுக...">
 <!ENTITY engine.bookmarks.accesskey "m">
-<!ENTITY setup.captchaPage2.title.label "Please Confirm You're Not a Robot">
-<!ENTITY setup.existingAccount.title.label "கணக்குத் தகவல்களை நுழைக்குக">
+<!ENTITY setup.captchaPage2.title.label "தயவு செய்து நீங்கள் ஒரு Robot இல்லை என்பதை உறுதிப்படுத்துக">
 <!ENTITY confirm.merge.label "&syncBrand.fullName.label; ஆனது இந்தக் கணினியினுடைய அனைத்து உலாவித் தரவையும் உங்களுடைய ஒத்திசைவுக் கணக்கிற்கு இப்பொழுதே ஒன்றிணைத்து விடும்.">
-<!ENTITY signIn.serverURL.label "சேவையக URL">
 <!ENTITY setup.tosAgree3.label "">
 <!ENTITY signIn.password.accesskey "P">
-<!ENTITY confirm.server.warning.label "எச்சரிக்கை: உங்களுடைய உள்ளக தரவானது இந்த சாதனங்களிலுள்ள அனைத்து &brandShortName; தரவையும் மாற்றிவிடும்!">
 <!ENTITY engine.bookmarks.label "புத்தகக் குறிப்புகள்">
 <!ENTITY button.syncKeyBackup.save.accesskey "S">
 <!ENTITY setup.confirmPassword.accesskey "m">
@@ -30,7 +26,6 @@ Entities below were automatically added by compare-locales,
 <!ENTITY engine.history.accesskey "r">
 <!ENTITY setup.tosAgree1.accesskey "a">
 <!ENTITY engine.history.label "வரலாறு">
-<!ENTITY existingSyncKeyHelp.description "You can find your saved Sync Key by going to your other computer and checking the Saved Passwords under Security. If you still cannot get the correct Sync Key, you can choose to reset it, but you will lose any data stored on the server.">
 <!ENTITY setup.emailAddress.accesskey "E">
 <!ENTITY choice2.client.main.label "என்னுடைய &syncBrand.shortName.label; தரவுடன் இந்த கணினியிலுள்ள அனைத்துத் தரவுகளையும் மாற்றிடுக">
 <!ENTITY button.syncKeyBackup.save.label "சேமி...">
@@ -40,34 +35,23 @@ Entities below were automatically added by compare-locales,
 <!ENTITY setup.newSyncKeyPage.title.label "&brandShortName; உங்களுடைய பிரத்தியேகத்தைப் பற்றி கவனமெடுக்க">
 <!ENTITY syncKeyEntry.accesskey "K">
 <!ENTITY button.syncKeyBackup.print.accesskey "P">
-<!ENTITY signIn.account.accesskey "E">
-<!ENTITY serverType.custom.label "ஒரு தனிப்பயன் சேவையகத்தை பயன்படுத்துக">
 <!ENTITY engine.tabs.accesskey "T">
-<!ENTITY connecting.label "இணைக்கப்படுகிறது...">
 <!ENTITY setup.tosAgree2.accesskey "">
 <!ENTITY setup.optionsConfirmPage.title "உறுதிப்படுத்துக">
 <!ENTITY setup.emailAddress.label "மின்னஞ்சல் முகவரி">
-<!ENTITY signIn.account.label "மின்னஞ்சல் முகவரி / பயனாளர் பெயர்">
 <!ENTITY choice2.merge.recommended.label "பரிந்துரைக்கப்பட்டது:">
 <!ENTITY syncComputerName.accesskey "c">
 <!ENTITY engine.passwords.label "கடவுச்சொற்கள்">
-<!ENTITY confirm.server.label "The following devices will be overwritten with your local data:">
 <!ENTITY button.createNewAccount.label "ஒரு புதிய கணக்கை உருவாக்குக">
 <!ENTITY setup.optionsPage.title "ஒத்திசைவுத் தெரிவுகள்">
-<!ENTITY signIn.serverURL.accesskey "L">
 <!ENTITY choice2.merge.main.label "இந்த கணினியினுடைய தரவை என்னுடைய &syncBrand.shortName.label; தரவுடன் ஒன்றிணைக்க">
 <!ENTITY setup.confirmPassword.label "கடவுச்சொல்லை உறுதிப்படுத்துக">
 <!ENTITY signIn.password.label "கடவுச்சொல்">
-<!ENTITY setup.existingSyncKeyPage.description "The Sync Key was generated for you, or you entered your own, when you first signed up for &syncBrand.fullName.label;. It is not the same as your password.">
 <!ENTITY confirm.client.moreinfo.label "&brandShortName; ஆனது உங்களுடைய &syncBrand.fullName.label; தரவை இந்த கணினிக்கு நகலெடுக்கும்.">
-<!ENTITY setup.tosAgree1.label "I agree to the">
-<!ENTITY setup.existingSyncKeyPage.title "தயவு செய்து உங்களுடைய ஒத்திசைவு விசையை நுழைக்க">
+<!ENTITY setup.tosAgree1.label "நான் உடன்படுகின்றேன், இதற்கு:">
 <!ENTITY setup.successPage.title "நிறுவுகை முடிவடைந்தது">
-<!ENTITY lostSyncKey.label "நான் என்னுடைய ஒத்திசைவு விசையைத் தொலைத்துவிட்டேன்">
 <!ENTITY setup.newAccountDetailsPage.title.label "கணக்கு விபரங்கள்">
 <!ENTITY resetPassword.label "கடவுச்சொல்லை மீளமைக்க">
-<!ENTITY syncKeyHelp.label "வலிமை என்பதன் கருத்து என்ன?">
-<!ENTITY confirm.client.label "இந்த கணினியிலுள்ள அனைத்து &brandShortName; தரவுகளும் நீக்கப்பட்டிருக்கும், பின்வருபவை உள்ளடங்கலாக:">
 <!ENTITY accountSetupTitle.label "&syncBrand.fullName.label; நிறுவுகை">
 <!ENTITY changeOptions.label "கீழுள்ள ஒத்திசைவுத் தெரிவுகளை தெரிவு செய்வதன் மூலம் இந்த முன்னுரிமைகளை மாற்ற முடியும்.">
 <!ENTITY syncComputerName.label "கணினியின் பெயர்:">
@@ -78,10 +62,8 @@ Entities below were automatically added by compare-locales,
 <!ENTITY engine.tabs.label "தத்தல்கள்">
 <!ENTITY setup.choicePage.existing.label "நான் ஏற்கனவே &syncBrand.shortName.label; ஐ இன்னொரு கணினியில் பாவித்துக்கொண்டிருக்கின்றேன்">
 <!ENTITY choice2.server.main.label "மற்றய அனைத்து சாதனங்களையும் இந்தக் கணினியினுடைய தரவுடன் மாற்றிடுக">
-<!ENTITY button.haveAccount.label "நான் ஒரு &syncBrand.fullName.label; கணக்கை வைத்திருக்கிறேன்">
 <!ENTITY syncKeyEntry.label "உங்களுடைய ஒத்திசைவு விசை">
 <!ENTITY verifying.label "சரிபார்க்கப்படுகிறது...">
-<!ENTITY confirm.client.warning.label "எச்சரிக்கை: இந்த கணினியிலுள்ள அனைத்து &brandShortName; தரவையும் மாற்றிவிடும்!">
 
 
 <!--
@@ -89,26 +71,26 @@ Entities below were automatically added by compare-locales,
  based on en-US entities.
 -->
 
-<!ENTITY addDevice.dialog.syncKey.label "To activate your device you will need to enter your Sync Key. Please print or save this key and take it with you.">
-<!ENTITY setup.signInPage.title.label "Sign In">
-<!ENTITY addDevice.dialog.enterCode.label "Enter the code that the device provides:">
+<!ENTITY addDevice.dialog.syncKey.label "உங்கள் சாதனத்தை செயற்படுத்துவதற்கு உங்களுக்கு உங்கள் ஒத்திசைவு விசை தேவை. தயவு செய்து இந்த விசையை உங்களுடன் எடுத்துக்கொள்வதற்கு அச்சிடுக அல்லது சேமிக்க.">
+<!ENTITY setup.signInPage.title.label "உள் நுழைக">
+<!ENTITY addDevice.dialog.enterCode.label "சாதனம் வழங்கிய குறியை உள்ளிடுக:">
 <!ENTITY signIn.account2.accesskey "A">
-<!ENTITY addDevice.dialog.tryAgain.label "Please try again.">
-<!ENTITY addDevice.dialog.connected.label "Device Connected">
-<!ENTITY signIn.account2.label "Account">
-<!ENTITY setup.haveAccount.label "I already have a &syncBrand.fullName.label; account.">
-<!ENTITY addDevice.title.label "Add a Device">
+<!ENTITY addDevice.dialog.tryAgain.label "தயவு செய்து மீண்டும் முயற்சி செய்க.">
+<!ENTITY addDevice.dialog.connected.label "சாதனம் இணைக்கப்பட்டது">
+<!ENTITY signIn.account2.label "கணக்கு">
+<!ENTITY setup.haveAccount.label "நான் ஏற்கனவே ஒரு &syncBrand.fullName.label; கணக்கை வைத்திருக்கின்றேன்.">
+<!ENTITY addDevice.title.label "ஒரு சாதனத்தைச் சேர்க்க">
 <!ENTITY signIn.syncKey.accesskey "K">
-<!ENTITY addDevice.dialog.successful.label "The device has been successfully added. The initial synchronization can take several minutes and will finish in the background.">
-<!ENTITY addDevice.showMeHow.label "Show me how.">
-<!ENTITY existingSyncKey.description "You can get a copy of your Sync Key by going to &syncBrand.shortName.label; Options on your other device, and selecting  &#x0022;My Sync Key&#x0022; under &#x0022;Manage Account&#x0022;.">
-<!ENTITY addDevice.setup.description.label "To activate, go to &syncBrand.shortName.label; Options on your other device and select &#x0022;Add a Device&#x0022;.">
-<!ENTITY button.connect.label "Connect">
-<!ENTITY signIn.syncKey.label "Sync Key">
-<!ENTITY confirm.client2.label "Warning: The following &brandShortName; data on this computer will be deleted:">
-<!ENTITY resetSyncKey.label "I have lost my other device.">
-<!ENTITY addDevice.setup.enterCode.label "Then, enter this code:">
-<!ENTITY addDevice.dontHaveDevice.label "I don't have the device with me">
-<!ENTITY serverType.custom2.label "Use a custom server…">
-<!ENTITY addDevice.dialog.description.label "To activate your new device, go to &syncBrand.shortName.label; Options on the device and select &#x0022;Connect.&#x0022;">
-<!ENTITY confirm.server2.label "Warning: The following devices will be overwritten with your local data:">
+<!ENTITY addDevice.dialog.successful.label "சாதனம் வெற்றிகரமாக சேர்க்கப்பட்டது. ஆரம்ப ஒத்திசைவு சில நிமிடங்களை எடுக்கலாம் மற்றும் பின்னணியில் முடிக்கும்.">
+<!ENTITY addDevice.showMeHow.label "எப்படி என்று எனக்கு காட்டுக.">
+<!ENTITY existingSyncKey.description "உங்கள் மற்றய சாதனத்தின் &syncBrand.shortName.label; தெரிவுகளிற்கு செல்வதன் மூலம் நீங்கள் உங்கள் ஒத்திசைவு விசையின் ஒரு நகலைப் பெற முடியும், மற்றும் &#x0022;My Sync Key&#x0022; &#x0022;Manage Account&#x0022; கீழ் &#x0022;My Sync Key&#x0022; ஐ தெரிவு செய்தல்.">
+<!ENTITY addDevice.setup.description.label "செயற்படுத்துவதற்கு, உங்கள் மற்றய சாதனத்தின் &syncBrand.shortName.label; தெரிவுகளிற்கு செல்க மற்றும் &#x0022;Add a Device&#x0022; ஐ தெரிவு செய்க.">
+<!ENTITY button.connect.label "இணைக்க">
+<!ENTITY signIn.syncKey.label "ஒத்திசைவு விசை">
+<!ENTITY confirm.client2.label "எச்சரிக்கை: இந்தக் கணினியுலுள்ள பின்வரும் &brandShortName; தரவு நீக்கப்பட்டிருக்கும்:">
+<!ENTITY resetSyncKey.label "நான் எனது மற்றய சாதனத்தை தொலைத்துவிட்டேன்.">
+<!ENTITY addDevice.setup.enterCode.label "பின்பு, இந்த குறியை உள்ளிடுக:">
+<!ENTITY addDevice.dontHaveDevice.label "நான் அந்தச் சாதனத்தை என்னுடன் வைத்திருக்கவில்லை">
+<!ENTITY serverType.custom2.label "ஒரு தனிப்பயன் சேவையகத்தை பயன்படுத்துக…">
+<!ENTITY addDevice.dialog.description.label "உங்கள் புதிய சாதனத்தை செயற்படுத்துவதற்கு, சாதனத்தின் &syncBrand.shortName.label; தெரிவுகளிற்கு செல்க மற்றும் &#x0022;Connect.&#x0022; ஐ தெரிவு செய்க">
+<!ENTITY confirm.server2.label "எச்சரிக்கை: பின்வரும் சாதனங்கள் உங்கள் உள்ளக தரவுடன் மேல் எழுதப்பட்டிருக்கும்:">

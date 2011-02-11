@@ -81,7 +81,7 @@
 <!ENTITY removeImageMapButton.label "நீக்கு">
 <!ENTITY removeImageMapButton.accessKey "">
 <!ENTITY editImageMapButton.label "செவ்வையாக்கவும்...">
-<!ENTITY editImageMapButton.tooltip "Create clickable hotspots for this image">
+<!ENTITY editImageMapButton.tooltip "இந்த படத்திற்காக clickable hotspots இனை உருவாக்குக">
 <!-- These are the options for image alignment -->
 
 <!ENTITY alignment.label "உரையை படிமத்துடன் இசைவு செய்க">

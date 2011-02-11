@@ -9,9 +9,9 @@
 <!ENTITY closeTabCmd.accesskey "e">
 <!ENTITY newVirtualFolderCmd.label "சேமிக்கப்பட்ட தேடல்…">
 <!ENTITY newVirtualFolderCmd.accesskey "S">
-<!ENTITY newOtherAccountsCmd.label "Other Accounts…">
+<!ENTITY newOtherAccountsCmd.label "ஏனைய கணக்குகள்…">
 <!ENTITY newOtherAccountsCmd.accesskey "O">
-<!ENTITY newEmailAccountCmd.label "Mail Account…">
+<!ENTITY newEmailAccountCmd.label "மின்னஞ்சல் கணக்கு…">
 <!ENTITY newEmailAccountCmd.accesskey "A">
 <!ENTITY openMessageFileCmd.label "சேமிக்கப்பட்ட செய்தியை திறக்க…">
 <!ENTITY openMessageFileCmd.accesskey "O">
@@ -227,11 +227,11 @@
 
 <!ENTITY bodyMenuFeed.label "Feed Message Body As">
 <!ENTITY bodyMenuFeed.accesskey "B">
-<!ENTITY viewFeedWebPage.label "Web Page">
+<!ENTITY viewFeedWebPage.label "இணைய பக்கம்">
 <!ENTITY viewFeedWebPage.accesskey "W">
-<!ENTITY viewFeedSummary.label "Summary">
+<!ENTITY viewFeedSummary.label "சுருக்கம்">
 <!ENTITY viewFeedSummary.accesskey "m">
-<!ENTITY viewFeedSummaryFeedPropsPref.label "Default Format">
+<!ENTITY viewFeedSummaryFeedPropsPref.label "பொதுஇருப்பு Format">
 <!ENTITY viewFeedSummaryFeedPropsPref.accesskey "D">
 
 <!ENTITY viewAttachmentsInlineCmd.label "உள்ளமை உடனிணைப்புகள் காட்சி">
@@ -336,7 +336,7 @@ you can use these alternative items. Otherwise, their values should be empty.  -
 <!ENTITY replyToAllMsgCmd.label "எல்லோருக்கும் பதிலிடுக">
 <!ENTITY replyToAllMsgCmd.accesskey  "p">
 <!ENTITY replyToAllMsgCmd.key  "r">
-<!ENTITY replyToListMsgCmd.label "Reply to List">
+<!ENTITY replyToListMsgCmd.label "பட்டியலுக்கு பதிலிடுக">
 <!ENTITY replyToListMsgCmd.accesskey  "L">
 <!ENTITY replyToListMsgCmd.key  "l">
 <!ENTITY forwardMsgCmd.label "முன்னோக்கு">
@@ -367,7 +367,7 @@ you can use these alternative items. Otherwise, their values should be empty.  -
 <!ENTITY killThreadMenu.label "இழையை புற்க்கணிக்க">
 <!ENTITY killThreadMenu.accesskey "I">
 <!ENTITY killThreadMenu.key "k">
-<!ENTITY killSubthreadMenu.label "உபஇழையை புற்க்கணிக்க">
+<!ENTITY killSubthreadMenu.label "உபஇழையை புறக்கணிக்க">
 <!ENTITY killSubthreadMenu.accesskey "S">
 <!ENTITY killSubthreadMenu.key "k">
 <!ENTITY watchThreadMenu.label "இழையை உற்றுநோக்குக">
@@ -417,13 +417,13 @@ you can use these alternative items. Otherwise, their values should be empty.  -
 <!ENTITY openMessageWindowCmd.label "செய்தியை திறக்க">
 <!ENTITY openMessageWindowCmd.accesskey "O">
 <!ENTITY openMessageWindowCmd.key "o">
-<!ENTITY openFeedMessage.label "Open Feed Message">
+<!ENTITY openFeedMessage.label "பின்னூட்டு செய்தியை திறக்க">
 <!ENTITY openFeedMessage.accesskey "O">
-<!ENTITY openFeedWebPageInWindow.label "Web Page in New Window">
+<!ENTITY openFeedWebPageInWindow.label "புதிய சாளரத்தில் இணையப்பக்கம்">
 <!ENTITY openFeedWebPageInWindow.accesskey "W">
-<!ENTITY openFeedSummaryInWindow.label "Summary in New Window">
+<!ENTITY openFeedSummaryInWindow.label "புதிய சாளரத்தில் சுருக்கம்">
 <!ENTITY openFeedSummaryInWindow.accesskey "S">
-<!ENTITY openFeedWebPageInMP.label "Toggle Web Page and Summary in Message Pane">
+<!ENTITY openFeedWebPageInMP.label "Message Pane இல் Toggle இணையப்பக்கம் மற்றும் சுருக்கம்">
 <!ENTITY openFeedWebPageInMP.accesskey "T">
 
 <!-- Windows Menu -->
@@ -461,7 +461,7 @@ you can use these alternative items. Otherwise, their values should be empty.  -
 <!ENTITY newMsgButton.label "எழுதுக">
 <!ENTITY replyButton.label "பதிலிடுக">
 <!ENTITY replyAllButton.label "எல்லோர்க்கும் பதிலிடுக">
-<!ENTITY replyListButton.label "Reply to List">
+<!ENTITY replyListButton.label "பட்டியலுக்கு பதிலிடுக">
 <!ENTITY forwardButton.label "முன்னோக்குக">
 <!ENTITY fileButton.label "கோப்பு">
 <!ENTITY nextButton.label "அடுத்தது">
@@ -493,8 +493,8 @@ you can use these alternative items. Otherwise, their values should be empty.  -
 <!ENTITY newMsgButton.tooltip "புதிய செய்தியொன்றை உருவாக்குக">
 <!ENTITY replyButton.tooltip "செய்திக்கு பதிலிடுக">
 <!ENTITY replyAllButton.tooltip "அனுப்புனருக்கும் எல்லாப் பெறுநர்களுக்கும் பதிலிடுக">
-<!ENTITY replyListButton.tooltip "Reply to mailing list">
-<!ENTITY forwardButton.tooltip "தெரிவுசெய்யப்பட்ட செய்தியை முன்னோக்குக​ே">
+<!ENTITY replyListButton.tooltip "mailing பட்டியலுக்கு பதிலிடுக">
+<!ENTITY forwardButton.tooltip "தெரிவுசெய்யப்பட்ட செய்தியை முன்னோக்குக​">
 <!ENTITY fileButton.tooltip "கோப்பைத் தெரிவு செய்வதற்கான செய்தி">
 <!ENTITY nextButton.tooltip "வாசிக்கப்படாத அடுத்த செய்திக்கு நகர்க">
 <!ENTITY previousButton.tooltip "வாசிக்கப்படாத முந்தைய செய்திக்கு நகர்க">
@@ -638,7 +638,7 @@ you can use these alternative items. Otherwise, their values should be empty.  -
 <!ENTITY contextReplyNewsgroup.accesskey "y">
 <!ENTITY contextReplyAll.label "அனைவருக்கும் பதிலிடுக">
 <!ENTITY contextReplyAll.accesskey "A">
-<!ENTITY contextReplyList.label "Reply to List">
+<!ENTITY contextReplyList.label "பட்டியலுக்கு பதிலிடுக">
 <!ENTITY contextReplyList.accesskey "L">
 <!ENTITY contextForward.label "முன்னோக்குக">
 <!ENTITY contextForward.accesskey "F">
@@ -648,7 +648,7 @@ you can use these alternative items. Otherwise, their values should be empty.  -
 <!ENTITY contextMoveMsgMenu.accesskey "M">
 <!ENTITY contextMoveCopyMsgRecentMenu.label "மிக அண்மய">
 <!ENTITY contextMoveCopyMsgRecentMenu.accesskey "R">
-<!ENTITY contextCopyMsgMenu.label "Copy To">
+<!ENTITY contextCopyMsgMenu.label "இற்கு நகலெடுக்க:">
 <!ENTITY contextCopyMsgMenu.accesskey "C">
 <!ENTITY contextSaveAs.label "என சேமிக்க…">
 <!ENTITY contextSaveAs.accesskey "S">
@@ -658,7 +658,7 @@ you can use these alternative items. Otherwise, their values should be empty.  -
 <!ENTITY contextPrintPreview.accesskey "v">
 
 <!-- Gloda Search Bar -->
-<!ENTITY glodaSearchBar.emptyText "Search messages…">
+<!ENTITY glodaSearchBar.emptyText "செய்திகளை தேடுக…">
 
 <!-- Junk Bar -->
 <!ENTITY junkBarMessage1.label "கூள அஞ்சல்">
@@ -667,7 +667,7 @@ you can use these alternative items. Otherwise, their values should be empty.  -
 
 <!-- Remote Content Bar -->
 <!ENTITY remoteContentMessage2.label "To protect your privacy, &brandShortName; has blocked remote content in this message.">
-<!ENTITY loadRemoteContentButton3.label "Show Remote Content">
+<!ENTITY loadRemoteContentButton3.label "Remote உள்ளடக்கத்தை காட்டுக">
 
 <!-- Phishing Bar -->
 <!ENTITY phishingBarMessage2.label "இந்தச் செய்தி சூழ்ச்சியானதாக இருக்கலாம்.">

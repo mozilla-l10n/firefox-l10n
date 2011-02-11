@@ -27,7 +27,7 @@
 <!ENTITY markAsReadDelay.accesskey     "e">
 <!ENTITY secondsLabel.label            "செக்கன்கள்">
 <!ENTITY openMsgIn.label               "இல் தகவல்களைத் திறக்க:">
-<!ENTITY openMsgInNewTab.label         "A new tab">
+<!ENTITY openMsgInNewTab.label         "ஒரு புதிய தத்தல்">
 <!ENTITY openMsgInNewTab.accesskey     "t">
 <!ENTITY reuseExpRadio0.label "ஒரு புதிய அஞ்சல் சாளரத்தில்">
 <!ENTITY reuseExpRadio0.accesskey "i">
@@ -94,10 +94,10 @@
 <!ENTITY clearCacheNow.accesskey         "C">
 
 <!-- Certificates -->
-<!ENTITY certSelection.description       "When a server requests my personal certificate:">
-<!ENTITY certs.auto                      "Select one automatically">
+<!ENTITY certSelection.description       "எனது தனிப்பட்ட சான்றிதழை சேவையகம் வேண்டும் போது:">
+<!ENTITY certs.auto                      "ஒன்றை தனாகவே தெரிவுசெய்க">
 <!ENTITY certs.auto.accesskey            "m">
-<!ENTITY certs.ask                       "Ask me every time">
+<!ENTITY certs.ask                       "ஒவ்வொறு தடவையும் என்னை கேட்க">
 <!ENTITY certs.ask.accesskey             "A">
 
 <!ENTITY viewCertificates.label "சான்றிதழ்களை காண்க">

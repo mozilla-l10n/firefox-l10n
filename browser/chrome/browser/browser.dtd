@@ -1,4 +1,4 @@
-<!-- LOCALIZATION NOTE : FILE This file contains the browser main menu items -->
+﻿<!-- LOCALIZATION NOTE : FILE This file contains the browser main menu items -->
 <!-- LOCALIZATION NOTE : FILE Do not translate commandkeys --> 
 
 <!-- LOCALIZATION NOTE (mainWindow.title): DONT_TRANSLATE -->
@@ -152,8 +152,6 @@
 <!ENTITY selectAllCmd.label         "அனைத்தையும் தெரிவு செய்க">  
 <!ENTITY selectAllCmd.key         "A">  
 <!ENTITY selectAllCmd.accesskey       "A"> 
-<!ENTITY preferencesCmd.label       "தெரிவுகள்">
-<!ENTITY preferencesCmd.accesskey     "O"> 
 <!ENTITY preferencesCmdUnix.label       "தெரிவுகள்">
 <!ENTITY preferencesCmdUnix.accesskey     "n"> 
 
@@ -417,7 +415,7 @@ Entities below were automatically added by compare-locales,
 
 <!ENTITY appMenuCustomize.label "தனிப்பயனாக்குக">
 <!ENTITY bookmarksGtkCmd.commandkey "o">
-<!ENTITY inspectStylePanelTitle.label "Style">
+<!ENTITY inspectStylePanelTitle.label "நடை">
 <!ENTITY fullScreenButton.tooltip "முழு தி​ரையில் சாளரத்தை காட்சிப் படுத்தவும்">
 <!ENTITY addonBarCmd.label "உட்செருகல் பட்டை">
 <!ENTITY fullScreenCmd.macCommandKey "f">
@@ -508,12 +506,11 @@ Entities below were automatically added by compare-locales,
 <!ENTITY videoFullScreen.accesskey "F">
 <!ENTITY tabsToolbar.label "உலாவி தத்தல்கள்">
 <!ENTITY feedButton.tooltip "இந்தப் பக்கத்திற்கு அங்கத்தினராகுக...">
-<!ENTITY inspectStyleButton.label "Style">
+<!ENTITY inspectStyleButton.label "நடை">
 <!ENTITY showAllTabsCmd.label "அனைத்துத் தத்தல்களையும் காட்டுக">
 <!ENTITY unpinAppTab.label "Unpin தத்தல்">
 <!ENTITY reloadAllTabs.label "அனைத்துத் தத்தல்களையும் மீள ஏற்றுக">
 <!ENTITY closeTab.accesskey "c">
-<!ENTITY showAllBookmarks.label "அனைத்துப் புத்தகக்குறிகளையும் காட்டுக...">
 <!ENTITY inspectMenu.label "பரிசோதிக்க">
 <!ENTITY inspectObjectButton.accesskey "O">
 <!ENTITY clearRecentHistory.label "அண்மைய வரலாறை சுத்தப்படுத்துக...">
@@ -527,6 +524,6 @@ Entities below were automatically added by compare-locales,
 -->
 
 <!ENTITY preferencesCmd2.accesskey "O">
-<!ENTITY showAllBookmarks2.label "Show All Bookmarks">
-<!ENTITY addonBarCloseButton.tooltip "Close Add-on Bar">
-<!ENTITY preferencesCmd2.label "Options">
+<!ENTITY showAllBookmarks2.label "எல்லாப் புத்தகக்குறிகளையும் காட்டுக">
+<!ENTITY addonBarCloseButton.tooltip "செருகல் பட்டையை மூடுக">
+<!ENTITY preferencesCmd2.label "தெரிவுகள்">

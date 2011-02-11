@@ -1,4 +1,4 @@
-
+﻿
 
 <!--
 Entities below were automatically added by compare-locales,
@@ -9,15 +9,12 @@ Entities below were automatically added by compare-locales,
 <!ENTITY engine.bookmarks.accesskey "m">
 <!ENTITY updatePass.label "இற்​றைப்படுத்துக">
 <!ENTITY engine.bookmarks.label "புத்தகக்குறிப்புகள்">
-<!ENTITY currentAccount.label "நடைமுறைக் கணக்கு:">
 <!ENTITY setupButton.accesskey "S">
 <!ENTITY engine.history.accesskey "r">
 <!ENTITY engine.history.label "வரலாறு">
 <!ENTITY resetSync.label "ஒத்திசைவை மீளமைக்க">
 <!ENTITY prefs.tosLink.label "சேவையினுடைய விதிமுறைகள்">
-<!ENTITY stopUsingAccount.label "இந்தக் கணக்கைப் பாவித்து நிறுத்துக">
 <!ENTITY engine.tabs.accesskey "T">
-<!ENTITY syncPrefsCaption.label "உலாவி ஒத்திசைவு">
 <!ENTITY resetPass.label "மீளமைக்க">
 <!ENTITY manageAccount.label "கணக்கை முகாமைத்துவம் செய்க">
 <!ENTITY syncComputerName.accesskey "c">
@@ -28,7 +25,6 @@ Entities below were automatically added by compare-locales,
 <!ENTITY engine.passwords.label "கடவுச்சொற்கள்">
 <!ENTITY engine.prefs.label "முன்னுரிமைகள்">
 <!ENTITY weaveDesc.label "&syncBrand.fullName.label; lets you access your history, bookmarks, passwords and open tabs across all your devices.">
-<!ENTITY accountGroupboxCaption.label "&syncBrand.fullName.label; கணக்கு">
 <!ENTITY engine.prefs.accesskey "S">
 <!ENTITY engine.tabs.label "தத்தல்கள்">
 <!ENTITY changePassword.label "கடவுச்சொல்லை மாற்றுக">
@@ -42,5 +38,5 @@ Entities below were automatically added by compare-locales,
  based on en-US entities.
 -->
 
-<!ENTITY addDevice.label "Add a Device">
-<!ENTITY deactivateDevice.label "Deactivate This Device">
+<!ENTITY addDevice.label "ஒரு சாதனத்தைச் சேர்க்க">
+<!ENTITY deactivateDevice.label "இந்தச் சாதனத்தின் செயற்பாட்டை நிறுத்துக">

@@ -40,7 +40,7 @@
 <!--LOCALIZATION NOTE (download.label):
     consider the download.label and headers.label as a single sentence
 	 with the number of headers to be downloaded inserted between them:
-	 EXAMPLE: "Download" <some number> "headers"
+	 EXAMPLE: "Download" <some number> "தலையொட்டுக்கள்"
 	 Either label could be set to null ("") if required grammatically.
 -->
 

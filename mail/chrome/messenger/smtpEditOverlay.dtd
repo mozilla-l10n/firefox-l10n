@@ -15,7 +15,7 @@
 <!ENTITY connectionSecurity.label "இணைப்புப் பாதுகாப்பு:">
 <!ENTITY connectionSecurity.accesskey "n">
 <!ENTITY connectionSecurityType-0.label "ஒன்றுமில்லை">
-<!ENTITY connectionSecurityType-1.label "STARTTLS, if available">
+<!ENTITY connectionSecurityType-1.label "STARTTLS, கிடைக்கக்கூடியதாக இருந்தால்">
 <!ENTITY connectionSecurityType-2.label "STARTTLS">
 <!ENTITY connectionSecurityType-3.label "SSL/TLS">
 <!ENTITY smtpEditTitle.label "SMTP சேவையகம்">

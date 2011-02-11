@@ -13,9 +13,9 @@ Entities below were automatically added by compare-locales,
 <!ENTITY networkPanel.requestMethod "Request Method">
 <!ENTITY networkPanel.statusCode "Status Code">
 <!ENTITY networkPanel.responseBody "Response Body">
-<!ENTITY networkPanel.responseBodyUnknownType "Unknown Content Type">
+<!ENTITY networkPanel.responseBodyUnknownType "அறியப்படாத உள்ளடக்க வகை">
 <!ENTITY networkPanel.requestCookie "Cookie இனை அனுப்புக.">
 <!ENTITY networkPanel.requestFormData "Form தரவினை அனுப்புக.">
 <!ENTITY networkPanel.responseImage "பெறப்பட்ட Image">
-<!ENTITY networkPanel.responseBodyCached "Cached Data">
+<!ENTITY networkPanel.responseBodyCached "Cached தரவு">
 <!ENTITY networkPanel.responseNoBody "No Response Body">

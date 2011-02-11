@@ -1,18 +1,18 @@
-<!ENTITY autoconfigWizard.title          "Mail Account Setup">
-<!ENTITY name.label                      "Your name:">
+<!ENTITY autoconfigWizard.title          "அஞ்சல் கணக்கு Setup">
+<!ENTITY name.label                      "உங்களுடைய பெயர்:">
 <!ENTITY name.accesskey                  "n">
-<!ENTITY name.emptytext                  "First Last">
-<!ENTITY name.text                       "Your name, as shown to others">
-<!ENTITY email.label                     "Email address:">
+<!ENTITY name.emptytext                  "முதல் இறுதி ">
+<!ENTITY name.text                       "உங்களுடைய பெயர், as shown to others">
+<!ENTITY email.label                     "மின்னஞ்சல் முகவரி:">
 <!ENTITY email.accesskey                 "l">
 <!ENTITY email.emptytext                 "email@example.com">
-<!ENTITY password.label                  "Password:">
+<!ENTITY password.label                  "கடவுச்சொல்:">
 <!ENTITY password.accesskey              "P">
-<!ENTITY password.emptytext              "Password">
+<!ENTITY password.emptytext              "கடவுச்சொல்">
 <!ENTITY password.text                   "Optional, will only be used to validate the username">
 
-<!ENTITY accountInformation.label        "Account Information">
-<!ENTITY username2.label                 "Username:">
+<!ENTITY accountInformation.label        "கணக்கு தகவல்கள்">
+<!ENTITY username2.label                 "பயனாளர் பெயர்:">
 <!ENTITY incoming.label                  "Incoming:">
 <!ENTITY outgoing.label                  "Outgoing:">
 <!ENTITY noEncryption.label              "None">
@@ -26,13 +26,13 @@
 
 <!ENTITY manualSetup.label               "Manual Setup…">
 <!ENTITY manualSetup.accesskey           "S">
-<!ENTITY cancel.label                    "Cancel">
+<!ENTITY cancel.label                    "ரத்துச்செய்க">
 <!ENTITY cancel.accesskey                "a">
-<!ENTITY continue.label                  "Continue">
+<!ENTITY continue.label                  "தொடர்க">
 <!ENTITY continue.accesskey              "C">
 <!ENTITY startOver.label                 "Start over">
 <!ENTITY startOver.accesskey             "o">
-<!ENTITY stop.label                      "Stop">
+<!ENTITY stop.label                      "நிறுத்துக">
 <!ENTITY stop.accesskey                  "S">
 <!-- LOCALIZATION NOTE (retest.label): This is the text that is
      displayed on the button which will re-guess the account configuration,
@@ -42,13 +42,13 @@
 <!ENTITY edit.label                      "Edit">
 <!ENTITY edit.accesskey                  "E">
 
-<!ENTITY rememberPassword.label          "Remember password">
+<!ENTITY rememberPassword.label          "கடவுச்சொல்லினை ஞாபகப்படுத்துக">
 <!ENTITY rememberPassword.accesskey      "m">
 
-<!ENTITY warning.label                   "Warning!">
-<!ENTITY incomingSettings.label          "Incoming settings:">
-<!ENTITY outgoingSettings.label          "Outgoing settings:">
-<!ENTITY technicaldetails.label          "Technical Details">
+<!ENTITY warning.label                   "எச்சரிக்கை!">
+<!ENTITY incomingSettings.label          "Incoming அமைப்புக்கள்:">
+<!ENTITY outgoingSettings.label          "Outgoing அமைப்புக்கள்:">
+<!ENTITY technicaldetails.label          "தொழில்நுட்ப விபரங்கள்">
 <!-- LOCALIZATION NOTE (confirmWarning.label): If there is a security
      warning on the outgoing server, then the user will need to check a
      checkbox beside this text before continuing. -->
@@ -57,20 +57,20 @@
 <!-- LOCALIZATION NOTE (createAccount.label): If there is a security warning
      on the incoming or outgoing servers, then the page that pops up will
      have this text in a button to continue by creating the account. -->
-<!ENTITY createAccount.label             "Create Account">
+<!ENTITY createAccount.label             "கணக்கினை உருவாக்குக">
 <!ENTITY createAccount.accesskey         "C">
 <!-- LOCALIZATION NOTE (changeSettings.label): If there is a security warning on
      the incoming or outgoing servers, then the page that pops up will have
      this text in a button to take you back to the previous page to change
      the settings and try again. -->
-<!ENTITY changeSettings.label            "Change Settings">
+<!ENTITY changeSettings.label            "அமைப்புகளை மாற்றுக">
 <!ENTITY changeSettings.accesskey        "S">
 
 <!ENTITY contactYourProvider.description "&brandShortName; can allow you to get to your mail using the provided configurations. However, you should contact your administrator or email provider regarding these improper connections. See the Thunderbird FAQ for more information.">
 
-<!ENTITY insecureServer.tooltip.title    "Warning! This is an insecure server.">
-<!ENTITY insecureServer.tooltip.details  "Click circle for more details.">
+<!ENTITY insecureServer.tooltip.title    "எச்சரிக்கை! This is an insecure server.">
+<!ENTITY insecureServer.tooltip.details  "மேலதிக விபரங்களுக்காக circle மீது சொடுக்குக.">
 
 <!ENTITY insecureCleartext.description   "Email is sent in clear-text, so your email could be read by other people on the internet. &brandShortName; will let you get to your mail, but you should really get your email provider to configure the server with a secure connection.">
 <!ENTITY insecureSelfSigned.description  "The server uses a certificate that we can't trust, so we can't be sure that someone isn't intercepting the traffic between &brandShortName; and your server. &brandShortName; will let you get to your mail, but you should really get your email provider to configure the server with a trusted certificate.">
-<!ENTITY secureServer.description        "Congratulations! This is a secure server.">
+<!ENTITY secureServer.description        "வாழ்த்துக்கள்! This is a secure server.">

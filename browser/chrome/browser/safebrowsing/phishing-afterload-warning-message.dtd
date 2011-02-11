@@ -1,4 +1,4 @@
-<!ENTITY safeb.palm.warning.title "சந்தேகத்துக்கு உரிய வலைய மோசடி">
+﻿<!ENTITY safeb.palm.warning.title "சந்தேகத்துக்கு உரிய வலைய மோசடி">
 
 <!ENTITY safeb.palm.message.p1 "பயனாளர்களின் பிரத்தியேகத் தகவல்கள் அல்லது நிதி தகவல்களை தந்திரமாகப் பகிர்வதற்கு வடிவமைக்கப்பட்ட இணைய மோசடிப்பக்கமாக இந்தப் பக்கம் அறிக்கைப்படுத்தப்பட்டுள்ளது.இந்தப் பக்கத்தில் நுழைக்கும் எந்தவொரு பிரத்தியேகத் தகவலும் அடையாளத்திருட்டுக்கோ அல்லது ஏனைய மோசடிக்கோ வழிவகுக்கும். &#160;">
 <!ENTITY safeb.palm.message.p1.linkText "மேலும் #187-யை படிக்கவும்;">
@@ -27,6 +27,6 @@ Entities below were automatically added by compare-locales,
 <!ENTITY safeb.blocked.phishingPage.longDesc "<p>Web forgeries are designed to trick you into revealing personal or financial information by imitating sources you may trust.</p><p>Entering any information on this web page may result in identity theft or other fraud.</p>">
 <!ENTITY safeb.blocked.phishingPage.title "Reported Web Forgery!">
 <!ENTITY safeb.blocked.malwarePage.longDesc "<p>Attack pages try to install programs that steal private information, use your computer to attack others, or damage your system.</p><p>Some attack pages intentionally distribute harmful software, but many are compromised without the knowledge or permission of their owners.</p>">
-<!ENTITY safeb.palm.reportPage.label "Why was this page blocked?">
+<!ENTITY safeb.palm.reportPage.label "ஏன் இந்தப் பக்கம் தடுக்கப்பட்டிருந்தது?">
 <!ENTITY safeb.blocked.phishingPage.shortDesc "This web page at <span id='phishing_sitename'/> has been reported as a web forgery and has been blocked based on your security preferences.">
 <!ENTITY safeb.blocked.malwarePage.title "Reported Attack Page!">

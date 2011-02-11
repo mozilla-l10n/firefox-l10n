@@ -40,7 +40,7 @@
 <!ENTITY fontsAndColors.label    "Fonts">
 <!ENTITY defaultFont.label       "Default font:">
 <!ENTITY defaultFont.accesskey   "D">
-<!ENTITY defaultSize.label       "Size:">
+<!ENTITY defaultSize.label       "அளவு:">
 <!ENTITY defaultSize.accesskey   "S">
 <!ENTITY fontOptions.accesskey   "A">
-<!ENTITY fontOptions.label       "Advanced…">
+<!ENTITY fontOptions.label       "மேம்பட்ட…">
