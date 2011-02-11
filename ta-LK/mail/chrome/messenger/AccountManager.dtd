@@ -2,11 +2,11 @@
 
 <!ENTITY accountManagerTitle.label "கணக்கு அமைவுகள்">
 
-<!ENTITY accountActionsButton.label "Account Actions">
+<!ENTITY accountActionsButton.label "கணக்கு பணிகள்">
 <!ENTITY accountActionsButton.accesskey "A">
-<!ENTITY addMailAccountButton.label "Add Mail Account…">
+<!ENTITY addMailAccountButton.label "அஞ்சல் கணக்கை சேர்க்க…">
 <!ENTITY addMailAccountButton.accesskey "A">
-<!ENTITY addOtherAccountButton.label "Add Other Account…">
+<!ENTITY addOtherAccountButton.label "மற்றைய கணக்கை சேர்க்க…">
 <!ENTITY addOtherAccountButton.accesskey "O">
 <!ENTITY setDefaultButton.label "கொடாநிலையாக அமை">
 <!ENTITY setDefaultButton.accesskey "F">

@@ -16,8 +16,7 @@
 
 <!ENTITY  clickHere.label                 "இந்த இற்​றைப்படுத்துதல் பற்றிய மேலதிக தகவல்களை நோக்குக">
 
-<!ENTITY  evangelism.desc                 "It is strongly recommended that you apply this 
-                                           update for &brandShortName; as soon as possible.">
+<!ENTITY  evangelism.desc                 "&brandShortName; இற்கான இவ் இற்றைப்படுத்தலை வெகு சீக்கிரமாக பிரயோகிக்குமாறு கடுமையாக பரிந்துரைக்கிறோம்.">
 
 <!ENTITY  license.instructions            "நீங்கள் இந்த உடன்படிக்கையில் உள்ள நிபந்தனைகளுக்கு உடன்பட்டால், இந்த இற்​றைப்படுத்துதல் நிறுவதலைத் தொடர்வதற்கு கீழேயுள்ள நான் உடன்படுகின்றேன் என்பதை சொடுக்குக.">
 
@@ -73,10 +72,10 @@ Entities below were automatically added by compare-locales,
 <!ENTITY error.title "Update Failed">
 <!ENTITY genericBackgroundError.label "&brandShortName; இனால் ஒரு இற்றைப்படுத்தல் காணப்படுகின்றது என்பதை தீர்மானிக்க இயலாமல் உள்ளது.நீங்கள் வைத்திருப்பது &brandShortName; இன் பிந்தைய பதிப்புதான் என்பதை இங்கே உறுதிப்படுத்திக்கொள்க:">
 <!ENTITY pluginupdateslink.label "எப்படி உட்செருகல்களை மேம்படுத்துவது பற்றி பார்க்க.."> 
-<!ENTITY pluginupdatesfound.title "Found Updates for Plugins">
+<!ENTITY pluginupdatesfound.title "உட்செருகல்களுக்கான இற்றைப்படுத்தல்களை கண்டுபிடிக்க">
 <!ENTITY errorCertAttrNoUpdate2.label "பாதுகாப்பான இற்றைப்படுத்தலிருந்து சில வேளைகளில் &brandShortName; தடுக்கப்படலாம்.எனவே உங்களிடம் இருப்பது &brandShortName; இன் பிந்திய பதிப்புத்தான் என்பதை உறுதிப்படுத்திக்கொள்க இங்கிருந்து:">
 <!ENTITY downloadPage.title " &brandShortName; பதிவிறக்கப்படுகிறது;">
 <!ENTITY errorCertAttrHasUpdate.label "Something is trying to trick &brandShortName; into accepting an
-                                           insecure update. Please contact your network provider and seek help.">
+                                           insecure update. தயவுசெய்து இணைய வழங்குனரை தொடர்புகொள்க மற்றும் உதவியினை பார்க்க.">
 <!ENTITY manualUpdate.space.desc "பரிந்துரைக்கப்பட்ட பாதுகாப்பு,நிலையானதன்மை இற்றைப்படுத்தல் ஒன்று காணப்படுகிறது.ஆனால் அதை நிறுவுவதற்கு போதுமான இடவசதி உங்களிடம் இல்லை."> 
 <!ENTITY pluginupdatesfound.label "உங்களுடைய ஒன்று அல்லது அதற்கு மேற்பட்ட உட்செருகலிற்குரிய புதிய பதிப்புக்கள் கண்டுபிடிக்கப்பட்டுள்ளன.">

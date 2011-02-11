@@ -1,5 +1,5 @@
 <!ENTITY securityTitle.label "பாதுகாப்பு">
-<!ENTITY securityTab.label "Security">
+<!ENTITY securityTab.label "பாதுகாப்பு">
 <!ENTITY securityHeading.label "கையெழுத்திட்ட அல்லது குறிமுறையாக்கப்பட்ட அஞ்சல்களை அனுப்ப மற்றும் பெற, digital signing சான்றிதழும் குறிமுறையாக்க சான்றிதழும் குறிப்பிடவேண்டும்">
 <!ENTITY encryptionGroupTitle.label "குறிமுறையாக்கம்">
 <!ENTITY encryptionChoiceLabel.label "அஞ்சல்களை அனுப்பும்போது பயன்படுத்தும் கொடாநிலை குறிமுறையாக்க அமைப்பு:">

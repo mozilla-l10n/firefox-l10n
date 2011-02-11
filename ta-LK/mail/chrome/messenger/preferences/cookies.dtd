@@ -1,28 +1,28 @@
 <!ENTITY window.width                      "36em">
 
-<!ENTITY cookiesonsystem.label             "The following cookies are stored on your computer:">
-<!ENTITY cookiename.label                  "Cookie Name">
-<!ENTITY cookiedomain.label                "Site">
-<!ENTITY button.removecookie.label         "Remove Cookie">
+<!ENTITY cookiesonsystem.label             "பின்வரும் cookies உங்களுடைய கணினியில் சேமிக்கப்பட்டுள்ளன:">
+<!ENTITY cookiename.label                  "Cookie பெயர்">
+<!ENTITY cookiedomain.label                "தளம்">
+<!ENTITY button.removecookie.label         "Cookie இனை நீக்குக">
 <!ENTITY button.removecookie.accesskey     "R">
-<!ENTITY button.removeallcookies.label     "Remove All Cookies">
+<!ENTITY button.removeallcookies.label     "அனைத்து Cookies களையும் நீக்குக ">
 <!ENTITY button.removeallcookies.accesskey "A">
 
-<!ENTITY props.name.label                  "Name:">
-<!ENTITY props.value.label                 "Content:">
+<!ENTITY props.name.label                  "பெயர்:">
+<!ENTITY props.value.label                 "உள்ளடக்கம்:">
 <!ENTITY props.domain.label                "Host:">
 <!ENTITY props.path.label                  "Path:">
-<!ENTITY props.secure.label                "Send For:">
-<!ENTITY props.expires.label               "Expires:">
+<!ENTITY props.secure.label                "இற்காக அனுப்புக:">
+<!ENTITY props.expires.label               "காலாவதி:">
 
 <!ENTITY window.title                      "Cookies">
 <!ENTITY windowClose.key                   "w">
 <!ENTITY focusSearch1.key                  "f">
 <!ENTITY focusSearch2.key                  "k">
 
-<!ENTITY filter.label                      "Search:">
+<!ENTITY filter.label                      "தேடல்:">
 <!ENTITY filter.accesskey                  "S">
 
-<!ENTITY button.close.label                "Close">
+<!ENTITY button.close.label                "மூடுக">
 <!ENTITY button.close.accesskey            "C">
 

@@ -72,18 +72,18 @@
 <!ENTITY featureConfigurator.autoSync.some.explanation "Customize your synchronization needs per account and folder.">
 
 <!-- LOCALIZATION NOTE (featureConfigurator.diskSpace.currentSize): The label for the current amount of disk space your accounts are consuming. -->
-<!ENTITY featureConfigurator.diskSpace.currentSize "Your current total email usage:">
+<!ENTITY featureConfigurator.diskSpace.currentSize "உங்களுடைய தற்போதைய மொத்த மின்னஞ்சல் பாவனை:">
 
 <!-- LOCALIZATION NOTE (featureConfigurator.diskSpace.freeSpace): The label for the current amount of free space available on your hard disk. -->
 <!ENTITY featureConfigurator.diskSpace.freeSpace "Free Space:">
 
 <!-- LOCALIZATION NOTE (featureConfigurator.diskSpace.requireSpace): The label for the required amount of free space to synchronize all of your IMAP accounts. -->
-<!ENTITY featureConfigurator.diskSpace.requireSpace "Required:">
+<!ENTITY featureConfigurator.diskSpace.requireSpace "வேண்டப்படுகிறது:">
 
 <!-- LOCALIZATION NOTE (featureConfigurator.diskSpace.warning): The label shown when your estimated available hard disk space if you chose autosync would be less than 50MB or if we estimate turning on autosync would use more than 50% of your free space. -->
 <!ENTITY featureConfigurator.diskSpace.warning "You're running low on space!">
 
 
-<!ENTITY featureConfigurator.previousButton "Previous">
-<!ENTITY featureConfigurator.nextButton "Next">
-<!ENTITY featureConfigurator.closeButton "Close">
+<!ENTITY featureConfigurator.previousButton "முன்னையது">
+<!ENTITY featureConfigurator.nextButton "அடுத்து">
+<!ENTITY featureConfigurator.closeButton "மூடுக">
