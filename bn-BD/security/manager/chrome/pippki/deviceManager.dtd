@@ -63,7 +63,7 @@
 <!ENTITY loaddevice.modname.default "নতুন PKCS#11 মডিউল">
 <!ENTITY loaddevice.filename "মডিউল ফাইলের নাম:">
 <!ENTITY loaddevice.filename.accesskey "f">
-<!ENTITY loaddevice.browse "ব্রাউজ করুন...(B)">
+<!ENTITY loaddevice.browse "ব্রাউজ করুন...">
 <!ENTITY loaddevice.browse.accesskey "B">
 
 <!ENTITY loaddevice.title "PKCS#11 ডিভাইস লোড করুন">

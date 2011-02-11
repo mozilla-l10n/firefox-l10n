@@ -7,7 +7,7 @@
 <!ENTITY listEmpty.findUpdates.label "হালনাগাদের জন্য পরীক্ষা">
 <!ENTITY listEmpty.search.label "কোনো অন্তরমিলযুক্ত অ্যাড-অন খুঁজে পাওয়া যায়নি">
 <!ENTITY listEmpty.button.label "অ্যাড-অন সম্পর্কে আরও শিখুন">
-<!ENTITY installAddonFromFile.label "ফাইল থেকে অ্যাড-অন Install… (I)">
+<!ENTITY installAddonFromFile.label "ফাইল থেকে অ্যাড-অন ইনস্টল… (I)">
 <!ENTITY installAddonFromFile.accesskey "I">
 <!ENTITY toolsMenu.tooltip "সব অ্যাড-অন এর জন্য টুল">
 
@@ -105,7 +105,7 @@
 
 <!ENTITY discover.title "অ্যাড-অন কি?">
 <!ENTITY discover.description2 "অ্যাড-অন হল এমন অ্যাপ্লিকেশন যা কি না 
-অতিরিক্ত কার্যকরণ বা শৈলীসহ  brandShortName এর সাথে আপনাকে পরিচিত করে। সময়- সংরক্ষনীয় সাইডবার, আবহাওয়া ঘোষক, বা &brandShortName; কে 
+অতিরিক্ত কার্যকরণ বা শৈলীসহ  &brandShortName; এর সাথে আপনাকে পরিচিত করে। সময়- সংরক্ষনীয় সাইডবার, আবহাওয়া ঘোষক, বা &brandShortName; কে 
 নিজের মত করে দেখার জন্য থীম চেহারা ব্যবহার।">
 <!ENTITY discover.footer "আপনি যখন ইন্টারনেট এর সাথে সংযুক্ত থাকবেন তখন আপনার ব্যবহারের জন্য এ প্যানে 
 কিছু সর্বোৎকৃষ্ট ও সবচেয়ে জনপ্রিয় অ্যাড-অন প্রদর্শিত হবে।">
@@ -197,6 +197,6 @@
 <!ENTITY addon.createdBy.label "দ্বারা">
 
 <!ENTITY eula.title "শেষ-ব্যবহারকারীর লাইসেন্স চুক্তি">
-<!ENTITY eula.width "৫৬০px">
-<!ENTITY eula.height "৪০০px">
+<!ENTITY eula.width "560px">
+<!ENTITY eula.height "400px">
 <!ENTITY eula.accept "অনুমোদন এবং ইনস্টল…">

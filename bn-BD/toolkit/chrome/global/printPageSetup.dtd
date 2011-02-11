@@ -54,7 +54,7 @@
 <!ENTITY hfURL "URL">
 <!ENTITY hfDateAndTime "তারিখ/সময়">
 <!ENTITY hfPage "পৃষ্ঠা #">
-<!ENTITY hfPageAndTotal "পৃষ্ঠা #, সর্বমোট পৃষ্ঠা #">
+<!ENTITY hfPageAndTotal "পৃষ্ঠা # সর্বমোট পৃষ্ঠা #">
 <!ENTITY hfBlank "--ফাঁকা--">
 <!ENTITY hfCustom "স্বনির্ধারিত…">
 

@@ -8,7 +8,7 @@
 <!ENTITY restorepage.restoreSome "ঐ সমস্ত ট্যাব যেগুলো এই সমস্যার জন্য দায়ী হতে পারে সেগুলো বন্ধ করে দেয়া।">
 <!ENTITY restorepage.startNew "একটি নতুন ব্রাউজিং সেশন শুরু করা">
 
-<!ENTITY restorepage.tryagainButton "পুনরুদ্ধার (R)">
+<!ENTITY restorepage.tryagainButton "পুনরুদ্ধার">
 <!ENTITY restorepage.restore.access "R">
 <!ENTITY restorepage.cancelButton "নতুন সেশন শুরু (S)">
 <!ENTITY restorepage.cancel.access "S">
