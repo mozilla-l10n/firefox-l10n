@@ -321,6 +321,8 @@
 <!ENTITY calendarproperties.wcap.label     			"Sun Java System Calendar Server (WCAP)">
 <!ENTITY calendarproperties.format.label   			"Formaat:">
 <!ENTITY calendarproperties.location.label 			"Lokaasje:">
+<!ENTITY calendarproperties.refreshInterval.label          "Ferfarskje aginda:">
+<!ENTITY calendarproperties.refreshInterval.manual.label   "Hânmjittich">
 <!ENTITY calendarproperties.name.label     			"Namme:">
 <!ENTITY calendarproperties.readonly.label 			"Allinnich-lêze">
 <!ENTITY calendarproperties.firealarms.label 		"Alarmen toane">
