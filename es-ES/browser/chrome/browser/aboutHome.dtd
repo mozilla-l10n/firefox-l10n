@@ -3,8 +3,6 @@
 <!ENTITY abouthome.pageTitle "Página de inicio de &brandFullName;">
 <!ENTITY abouthome.brandStart "Inicio de <span>&brandShortName;</span>">
 <!ENTITY abouthome.searchEngineButton.label "Buscar">
-<!ENTITY abouthome.searchEngineLinks.advanced "Búsqueda avanzada">
-<!ENTITY abouthome.searchEngineLinks.preferences "Preferencias">
 <!ENTITY abouthome.aboutMozilla "Acerca de Mozilla">
 <!ENTITY abouthome.defaultSnippet1.v1 "¡Gracias por elegir Firefox! Para conseguir lo máximo de su navegador, conozca más sobre las <a>últimas características</a>.">
 <!ENTITY abouthome.defaultSnippet2.v1 "Es simple personalizar Firefox exactamente de la forma que quiera. <a>Elija entre miles de complementos</a>.">
