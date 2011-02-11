@@ -114,7 +114,7 @@ Nayê Zanîn">
 
 <!ENTITY  securityView.identity.header   "Nasnameya Malperê">
 <!ENTITY  securityView.identity.owner    "Xwedî:">
-<!ENTITY  securityView.identity.domain   "Sîteya webê:">
+<!ENTITY  securityView.identity.domain   "Malper:">
 <!ENTITY  securityView.identity.verifier "Piştrastkirin:">
 
 <!ENTITY  securityView.privacy.header                   "Dîroka takekesî a &amp; ">
