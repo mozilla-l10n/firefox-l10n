@@ -206,8 +206,7 @@
 <!ENTITY followupAddr.label    "Kontynuacja na:">
 <!ENTITY subject.label         "Temat:">
 <!ENTITY subject.accesskey     "T">
-<!ENTITY attachments.label     "Załączniki:">
-<!ENTITY attachments.accesskey "a">
+<!ENTITY attachments.accesskey "a"><!-- for attachmentCount in composeMsgs.properties -->
 
 <!-- Format Toolbar, imported from editorAppShell.xul -->
 <!ENTITY SmileButton.tooltip "Wstaw emotikonkę">
