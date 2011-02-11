@@ -49,6 +49,3 @@
 <!ENTITY pref.defaultlength.accesskey "b">
 <!ENTITY pref.defaultsnoozelength.label "Standert slommerdjoer:" >
 <!ENTITY pref.defaultsnoozelength.accesskey "s">
-<!ENTITY pref.refreshbox.label "Ferfarskingsynstellings" >
-<!ENTITY pref.autorefresh.label "Aginda’s ferfarskje om de" >
-<!ENTITY pref.autorefresh.accesskey "r" >
