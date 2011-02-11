@@ -14,14 +14,9 @@
 <!ENTITY aboutProduct.accesskey   "a">
 <!ENTITY productHelp.label        "Alîkariya &brandShortName; 'ê">
 <!ENTITY productHelp.accesskey    "A">
-<!ENTITY helpForIEUsers.label     "Ji bo bikarhênerên Internet Explorerê...">
-<!ENTITY helpForIEUsers.accesskey "i">
 <!ENTITY helpMac.commandkey       "?">
 <!ENTITY helpSafeMode.label       "Dîsdestpêkirina bi Add-onan hate neçalakirin…">
 <!ENTITY helpSafeMode.accesskey   "r">
-
-<!ENTITY helpReleaseNotes.label         "Têbiniyên Guhertoyê">
-<!ENTITY helpReleaseNotes.accesskey     "r">
 
 <!ENTITY helpTroubleshootingInfo.label      "Agahiyên tamîrkirinê">
 <!ENTITY helpTroubleshootingInfo.accesskey  "t">
