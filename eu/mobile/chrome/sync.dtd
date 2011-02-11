@@ -19,3 +19,4 @@
 <!ENTITY sync.serverURL             "Zerbitzariaren URLa">
 <!ENTITY sync.setup.connect         "Konektatu">
 <!ENTITY sync.setup.cancel          "Utzi">
+<!ENTITY sync.setup.tutorial        "Erakutsi nola">

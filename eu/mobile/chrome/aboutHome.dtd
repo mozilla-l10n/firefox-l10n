@@ -3,6 +3,8 @@
 <!ENTITY aboutHome.remoteTabs                   "Beste ordenagailuetako fitxak">
 <!ENTITY aboutHome.recommendedAddons2           "&brandShortName;(e)rako gehigarriak">
 <!ENTITY aboutHome.giveFeedback                 "Emaiguzu zure iritzia">
+<!ENTITY aboutHome.getHelp                      "Jaso laguntza">
+<!ENTITY aboutHome.footerWidth                  "10em">
 <!ENTITY aboutHome.openAllTabs                  "Ireki guztiak fitxetan">
 <!ENTITY aboutHome.noTabs                       "Azken aldiko fitxarik ez">
 <!ENTITY aboutHome.noAddons                     "Gomendatutako gehigarririk ez">
