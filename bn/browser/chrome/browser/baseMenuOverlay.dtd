@@ -32,7 +32,7 @@
 <!ENTITY hideThisAppCmdMac.label "&brandShortName; আড়াল করা হবে (H)">
 <!ENTITY hideThisAppCmdMac.commandkey "H">
 
-<!ENTITY hideOtherAppsCmdMac.label "অন্যান্য উইন্ডো আড়াল করা হবে (H)">
+<!ENTITY hideOtherAppsCmdMac.label "অন্যান্য উইন্ডো আড়াল করা হবে">
 <!ENTITY hideOtherAppsCmdMac.commandkey "H">
 
-<!ENTITY showAllAppsCmdMac.label "সব প্রদর্শন করা হবে">
+<!ENTITY showAllAppsCmdMac.label "সব প্রদর্শন">

@@ -11,11 +11,11 @@
 <!ENTITY locbar.nothing.label "কিছুই না">
 
 
-<!ENTITY acceptCookies.label "যে সাইট থেকে কুকি গ্রহণ করা হবে (C)">
-<!ENTITY acceptCookies.accesskey "C">
+<!ENTITY acceptCookies.label "যে সাইট থেকে কুকি গ্রহণ করা হবে (A)">
+<!ENTITY acceptCookies.accesskey "A">
 
-<!ENTITY acceptThirdParty.label "তৃতীয়-পক্ষের কুকি গ্রহণ করা হবে (P)">
-<!ENTITY acceptThirdParty.accesskey "P">
+<!ENTITY acceptThirdParty.label "তৃতীয়-পক্ষের কুকি গ্রহণ করা হবে (c)">
+<!ENTITY acceptThirdParty.accesskey "c">
 
 <!ENTITY keepUntil.label "সংরক্ষণের সময়কাল: (K)">
 <!ENTITY keepUntil.accesskey "K">
@@ -72,5 +72,5 @@
 <!ENTITY clearOnClose.label "&brandShortName; বন্ধ করার সময় ইতিহাস মুছে ফেলা হবে (r)">
 <!ENTITY clearOnClose.accesskey "r">
 
-<!ENTITY clearOnCloseSettings.label "সেটিংস… (t)">
+<!ENTITY clearOnCloseSettings.label "সেটিং… (t)">
 <!ENTITY clearOnCloseSettings.accesskey "t">

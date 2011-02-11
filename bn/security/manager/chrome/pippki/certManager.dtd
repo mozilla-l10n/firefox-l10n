@@ -105,7 +105,7 @@
 <!ENTITY certmgr.close.accesskey "C">
 <!ENTITY certmgr.view2.label "প্রদর্শন…(V)">
 <!ENTITY certmgr.view2.accesskey "V">
-<!ENTITY certmgr.edit3.label "Edit Trust…">
+<!ENTITY certmgr.edit3.label "বিশ্বস্ততা সম্পাদন (E)…">
 <!ENTITY certmgr.edit3.accesskey "E">
 <!ENTITY certmgr.editca.label "CA বিশ্বস্ততা সম্পাদনা (d)">
 <!ENTITY certmgr.editca.accesskey "d">
@@ -115,7 +115,7 @@
 <!ENTITY certmgr.export.accesskey "x">
 <!ENTITY certmgr.delete2.label "মুছে ফেলা… (D)">
 <!ENTITY certmgr.delete2.accesskey "D">
-<!ENTITY certmgr.delete_builtin.label "Delete or Distrust…">
+<!ENTITY certmgr.delete_builtin.label "অপসারন অথবা অবিশ্বস্ত (D)…">
 <!ENTITY certmgr.delete_builtin.accesskey "D">
 <!ENTITY certmgr.backup2.label "ব্যাকআপ… (B)">
 <!ENTITY certmgr.backup2.accesskey "B">
@@ -133,7 +133,7 @@
 <!ENTITY certmgr.addException.accesskey "x">
 
 <!ENTITY exceptionMgr.title "নিরাপত্তা ব্যতিক্রম যোগ করুন">
-<!ENTITY exceptionMgr.exceptionButton.label "Confirm Security Exception">
+<!ENTITY exceptionMgr.exceptionButton.label "নিরাপত্তা ব্যতিক্রম অনুমোদন (C)">
 <!ENTITY exceptionMgr.exceptionButton.accesskey "C">
 <!ENTITY exceptionMgr.supplementalWarning "আইনসঙ্গত ব্যাংক, বিপনী ও অন্যান্য সার্বজনীন সাইট দ্বারা এই অনুরোধ করা হবে না।">
 <!ENTITY exceptionMgr.certlocation.caption2 "সার্ভার">

@@ -8,8 +8,8 @@
   "known").
 -->
 
-<!ENTITY blockAttackSites.label "রিপোর্টকৃত আক্রমনকারী সাইট প্রতিরোধ করা হবে (K)">
-<!ENTITY blockAttackSites.accesskey "K">
+<!ENTITY blockAttackSites.label "রিপোর্টকৃত আক্রমনকারী সাইট প্রতিরোধ করা হবে (k)">
+<!ENTITY blockAttackSites.accesskey "k">
 
 <!ENTITY blockWebForgeries.label "রিপোর্টকৃত ওয়েব জালিয়াতি প্রতিরোধ করা হবে (B)">
 <!ENTITY blockWebForgeries.accesskey "B">

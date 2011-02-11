@@ -35,9 +35,9 @@
 <!-- LOCALIZATION NOTE (markAsReadDelay.label): This will concatenate to
      "After displaying for [___] seconds",
      using (markAsReadDelay.label) and a number (secondsLabel.label). -->
-<!ENTITY markAsReadDelay.label "প্রদর্শন করার (d)">
+<!ENTITY markAsReadDelay.label "প্রদর্শন করার পর (d)">
 <!ENTITY markAsReadDelay.accesskey "d">
-<!ENTITY secondsLabel.label "সেকেন্ড পর">
+<!ENTITY secondsLabel.label "সেকেন্ড">
 <!ENTITY openMsgIn.label "বার্তা খোলা হবে:">
 <!ENTITY openMsgInNewTab.label "নতুন ট্যাব (t)">
 <!ENTITY openMsgInNewTab.accesskey "t">
@@ -77,7 +77,7 @@
 <!ENTITY Diskspace "ডিস্কের জায়গা">
 <!ENTITY offlineCompact.label "বেশি জায়গা ব্যবহার করলে ফোল্ডার সঙ্কুচিত করা হবে (v)">
 <!ENTITY offlineCompact.accesskey "v">
-<!ENTITY kb.label "কি.বা.">
+<!ENTITY kb.label "কিলোবাইট">
 <!-- LOCALIZATION NOTE:
   The entities useCacheBefore.label and useCacheAfter.label appear on a single
   line in preferences as follows:
@@ -87,13 +87,13 @@
 
 <!ENTITY useCacheBefore.label "সর্বোচ্চ ব্যবহার করা হবে (U)">
 <!ENTITY useCacheBefore.accesskey "U">
-<!ENTITY useCacheAfter.label "মেগাবাইট পর্যন্ত জায়গা- ক্যাশের জন্য">
-<!ENTITY clearCacheNow.label "এখন পরিষ্কার করা হবে (C)">
+<!ENTITY useCacheAfter.label "ক্যাশের জন্য মেগাবাইট পর্যন্ত জায়গা">
+<!ENTITY clearCacheNow.label "এখন পরিষ্কার (C)">
 <!ENTITY clearCacheNow.accesskey "C">
 <!-- Certificates -->
 
 <!ENTITY certSelection.description "যখন সার্ভার আমার ব্যক্তিগত সার্টিফিকেট চায়:">
-<!ENTITY certs.auto "স্বয়ংক্রিয় ভাবে নির্বাচন করা হবে">
+<!ENTITY certs.auto "স্বয়ংক্রিয় ভাবে নির্বাচন">
 <!ENTITY certs.auto.accesskey "m">
 <!ENTITY certs.ask "প্রতিবার জিজ্ঞেস করা হবে">
 <!ENTITY certs.ask.accesskey "A">

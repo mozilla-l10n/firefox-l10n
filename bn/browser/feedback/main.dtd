@@ -29,3 +29,5 @@
 <!ENTITY testpilot.feedbackbutton.label "মন্তব্য">
 <!ENTITY testpilot.happy.label "ফায়ারফক্স ব্যবহার করে আমি আনন্দিত কারন...">
 <!ENTITY testpilot.sad.label "ফায়ারফক্স ব্যবহার করে আমার ভালো লাগেনি কারন...">
+<!ENTITY testpilot.broken.label "এই ওয়েবসাইটটি ঠিক মত কাজ করছে না, সেটি জানান…">
+<!ENTITY testpilot.idea.label "আপনার পরামর্শ দিন…">
