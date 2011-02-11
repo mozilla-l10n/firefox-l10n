@@ -397,11 +397,14 @@
 <!ENTITY markAsReadCmd.label            "Jako przeczytaną">
 <!ENTITY markAsReadCmd.accesskey        "a">
 <!ENTITY markAsReadCmd.key              "m">
+<!ENTITY markAsUnreadCmd.label          "Jako nieprzeczytaną">
+<!ENTITY markAsUnreadCmd.accesskey      "e">
+<!ENTITY markAsUnreadCmd.key            "m">
 <!ENTITY markThreadAsReadCmd.label      "Wątek jako przeczytany">
 <!ENTITY markThreadAsReadCmd.accesskey  "W">
 <!ENTITY markThreadAsReadCmd.key        "r">
 <!ENTITY markReadByDateCmd.label        "Jako przeczytane, według daty…">
-<!ENTITY markReadByDateCmd.accesskey    "D">
+<!ENTITY markReadByDateCmd.accesskey    "d">
 <!ENTITY markReadByDateCmd.key          "c">
 <!ENTITY markAllReadCmd.label           "Wszystkie jako przeczytane">
 <!ENTITY markAllReadCmd.accesskey       "W">
