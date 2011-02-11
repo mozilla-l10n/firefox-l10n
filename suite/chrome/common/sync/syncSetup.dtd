@@ -4,8 +4,7 @@
 
 <!ENTITY setup.pickSetupType.description "Vitajte, ak ste predtým nikdy nepoužili službu &syncBrand.fullName.label;, musíte si vytvoriť nový účet.">
 <!ENTITY button.createNewAccount.label "Vytvoriť nový účet">
-<!ENTITY setup.haveAccount.label "Už mám učet služby &syncBrand.fullName.label;">
-<!ENTITY button.connect.label    "Pripojiť">
+<!ENTITY button.haveAccount.label "Mám učet služby &syncBrand.fullName.label;">
 
 <!ENTITY setup.choicePage.title.label     "Používali ste službu &syncBrand.fullName.label; už v minulosti?">
 <!ENTITY setup.choicePage.new.label       "Nikdy predtým som službu &syncBrand.shortName.label; nepoužil">
@@ -14,13 +13,13 @@
 <!-- New Account AND Existing Account -->
 <!ENTITY server.label               "Server">
 <!ENTITY serverType.main.label      "Server služby &syncBrand.fullName.label;">
-<!ENTITY serverType.custom2.label   "Použiť vlastný server…">
-<!ENTITY signIn.account2.label      "Účet">
-<!ENTITY signIn.account2.accesskey  "e">
+<!ENTITY serverType.custom.label    "Použiť vlastný server">
+<!ENTITY signIn.account.label       "E-mailová adresa / používateľské meno">
+<!ENTITY signIn.account.accesskey   "E">
 <!ENTITY signIn.password.label      "Heslo">
 <!ENTITY signIn.password.accesskey  "H">
-<!ENTITY signIn.syncKey.label       "Synchronizačný kľúč">
-<!ENTITY signIn.syncKey.accesskey   "k">
+<!ENTITY signIn.serverURL.label     "Adresa servera">
+<!ENTITY signIn.serverURL.accesskey "A">
 
 <!-- New Account Page 1: Basic Account Info -->
 <!ENTITY setup.newAccountDetailsPage.title.label "Podrobnosti o účte">
@@ -44,6 +43,9 @@
 <!ENTITY syncKeyEntry.label        "Váš Synchronizačný kľúč">
 <!ENTITY syncKeyEntry.accesskey    "k">
 <!ENTITY syncKeyGenerate.label     "Vygenerovať">
+<!ENTITY syncKeyGenerate.accesskey "V">
+<!ENTITY syncKeyStrength.label     "Sila kľúča:">
+<!ENTITY syncKeyHelp.label         "Čo je sila kľúča?">
 <!ENTITY syncKeyBackup.description "Na prístup k službe &syncBrand.fullName.label; z iných zariadení je potrebný Synchronizačný kľúč. Preto si vytvorte jeho kópiu. Váš Synchronizačný kľúč nie je možné po strate obnoviť.">
 
 <!ENTITY button.syncKeyBackup.print.label     "Vytlačiť…">
@@ -53,26 +55,18 @@
 
 <!-- New Account Page 3: Captcha -->
 <!ENTITY setup.captchaPage2.title.label     "Potvrdenie, že nie ste robot">
-<!-- Existing Account Page 1: Add Device (incl. Add a Device dialog strings) -->
-<!ENTITY addDevice.title.label              "Pridať zariadenie">
-<!ENTITY addDevice.showMeHow.label          "Ako na to.">
-<!ENTITY addDevice.dontHaveDevice.label     "Zariadenie nemám pri sebe">
-<!ENTITY addDevice.setup.description.label  "Ak ho chcete aktivovať, prejdite na nastavení služby &syncBrand.shortName.label; na vašom ďalšom zaraidení a zvoľte položku &#x0022;Pridať zariadenie&#x0022;.">
-<!ENTITY addDevice.setup.enterCode.label    "Potom zadajte tento kód:">
-<!ENTITY addDevice.dialog.description.label "Ak chcete aktivovať nové zariadenie, prejdite do nastavení služby &syncBrand.shortName.label; a zvoľte položku &#x0022;Pripojiť.&#x0022;">
-<!ENTITY addDevice.dialog.enterCode.label   "Zadajte kód, ktorý poskytlo zariadenie:">
-<!ENTITY addDevice.dialog.tryAgain.label    "Skúste to znova.">
-<!ENTITY addDevice.dialog.successful.label  "Zariadenie bolo úspešne pridané. Úvodná synchronizácia môže trvať niekoľko minút a prebehne na pozadí.">
-<!ENTITY addDevice.dialog.syncKey.label     "Na aktiváciu zariadenia budete potrebovať Synchronizačný kľúč. Vytlačte alebo uložte si tento kľúč a zoberte si ho so sebou.">
-<!ENTITY addDevice.dialog.connected.label   "Zariadenie pripojené">
 
-<!-- Existing Account Page 2: Manual Login -->
-<!ENTITY setup.signInPage.title.label "Prihlásenie">
-<!ENTITY existingSyncKey.description "Kópiu svojho Synchronizačného kľúča môžete získať v nastaveniach služby &syncBrand.shortName.label; vo vašom inom zariadení zvolením položky  &#x0022;Môj Synchronizačný kľúč&#x0022; v sekcii &#x0022;Správa účtu&#x0022;.">
-<!ENTITY verifying.label              "Overuje sa…">
+<!-- Existing Account Page 1: Login -->
+<!ENTITY setup.existingAccount.title.label "Zadajte informácie o účte">
 <!ENTITY resetPassword.label          "Nové heslo">
+<!ENTITY connecting.label             "Pripája sa…">
 
-<!ENTITY resetSyncKey.label           "Stratil som moje ďalšie zariadenie.">
+<!-- Existing Account Page 2: Sync Key -->
+<!ENTITY setup.existingSyncKeyPage.title "Zadajte váš Synchronizačný kľúč">
+<!ENTITY setup.existingSyncKeyPage.description "Synchronizačný kľúč bol pre Vás vygenerovaný, alebo ste zadali vlastný, pri prvom prihlásení k službe &syncBrand.fullName.label;. Nie je totožný s Vašim heslom.">
+<!ENTITY existingSyncKeyHelp.description "Uložený Snchronizačný kľúč môžete nájsť na niektorom z vašich ďalších počítačov, kde v nastaveniach prehliadača zvolíte panel Bezpečnosť a položku Uložené heslá. Ak kľúč nenájdete, môžete požiadať o nový, pričom ale stratíte všetky údaje uložené na serveri.">
+<!ENTITY lostSyncKey.label            "Stratený Synchronizačný kľúč">
+<!ENTITY verifying.label              "Overuje sa…">
 
 <!-- Sync Options -->
 <!ENTITY setup.optionsPage.title      "Možnosti synchronizácie">
@@ -92,7 +86,7 @@
 <!ENTITY engine.prefs.accesskey     "N">
 
 <!ENTITY choice2.merge.main.label      "Spojiť údaje v tomto počítači s údajmi na účte &syncBrand.shortName.label;">
-<!ENTITY choice2.merge.recommended.label "Odporúčané:">
+<!ENTITY choice2.merge.recommended.label "(odporúčané)">
 <!ENTITY choice2.client.main.label     "Nahradiť všetky údaje v tomto počítači údajmi z účtu &syncBrand.shortName.label;">
 <!ENTITY choice2.server.main.label     "Nahradiť údaje vo všetkých zariadeniach tými v tomto počítači">
 

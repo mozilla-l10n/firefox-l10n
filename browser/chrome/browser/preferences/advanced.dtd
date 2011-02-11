@@ -21,8 +21,8 @@
 <!ENTITY allowHWAccel.accesskey          "h">
 <!ENTITY checkSpelling.label             "Kontrolovať pravopis počas písania">
 <!ENTITY checkSpelling.accesskey         "K">
-<!ENTITY doNotTrack.label                "Nepovoliť stránkam sledovanie mojej aktivity">
-<!ENTITY doNotTrack.accesskey            "N">
+<!ENTITY doNotTrack.label                "Požiadať webové stránky o nesledovanie mojej aktivity">
+<!ENTITY doNotTrack.accesskey            "n">
 
 <!ENTITY systemDefaults.label            "Nastavenie systému">
 <!ENTITY alwaysCheckDefault.label        "Pri štarte kontrolovať, či je &brandShortName; predvoleným prehliadačom">

@@ -30,3 +30,5 @@
 <!ENTITY testpilot.feedbackbutton.label                "Váš názor">
 <!ENTITY testpilot.happy.label        "Nový Firefox sa mi páči, lebo…">
 <!ENTITY testpilot.sad.label          "Nový Firefox sa mi nepáči, lebo…">
+<!ENTITY testpilot.broken.label      "Nahlásiť túto stránku ako nefunkčnú…">
+<!ENTITY testpilot.idea.label        "Navrhnite vylepšenie…">

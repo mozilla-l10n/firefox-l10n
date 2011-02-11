@@ -1,8 +1,9 @@
 <!ENTITY linksHeader.label "Správanie sa odkazov">
 <!ENTITY newWindow.label "Správanie pri otváraní odkazov">
-<!ENTITY newWindowDescription.label "Otvárať odkazy, ktoré sa majú otvoriť v okne">
+<!ENTITY newWindowDescription.label "Otvárať odkazy, ktoré sa majú otvoriť v okne:">
+<!ENTITY newWindowRestriction.label "Keď skript chce otvoriť nové okno:">
 <!ENTITY external.label "Odkazy z iných aplikácií">
-<!ENTITY externalDescription.label "Odkazy z iných aplikácií otvárať">
+<!ENTITY externalDescription.label "Odkazy z iných aplikácií otvárať:">
 <!ENTITY openCurrent.label "V aktuálnej karte/okne">
 <!ENTITY newWindowGroupCurrent.accesskey "V">
 <!ENTITY externalGroupCurrent.accesskey "a">
@@ -12,3 +13,10 @@
 <!ENTITY openWindow.label "V novom okne">
 <!ENTITY newWindowGroupWindow.accesskey "o">
 <!ENTITY externalGroupWindow.accesskey "n">
+
+<!ENTITY divertAll.label "Vždy zmeniť okná na karty">
+<!ENTITY divertAll.accesskey "e">
+<!ENTITY divertNoFeatures.label "Nemeniť okná na karty">
+<!ENTITY divertNoFeatures.accesskey "m">
+<!ENTITY dontDivert.label "Vždy otvoriť nové okná">
+<!ENTITY dontDivert.accesskey "d">
