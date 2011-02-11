@@ -97,7 +97,7 @@
 <!ENTITY selectFlaggedCmd.label            "Oznaczone gwiazdką">
 <!ENTITY selectFlaggedCmd.accesskey        "O">
 <!ENTITY menuFavoriteFolder.label          "Ulubiony folder">
-<!ENTITY menuFavoriteFolder.accesskey      "U">
+<!ENTITY menuFavoriteFolder.accesskey      "f">
 <!ENTITY folderPropsCmd.label              "Właściwości…">
 <!ENTITY folderPropsFolderCmd.label        "Właściwości folderu…">
 <!ENTITY folderPropsNewsgroupCmd.label     "Właściwości grupy dyskusyjnej…">
