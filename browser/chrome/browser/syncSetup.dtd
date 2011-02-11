@@ -57,7 +57,7 @@
 <!ENTITY addDevice.title.label              "Engadir un dispositivo">
 <!ENTITY addDevice.showMeHow.label          "Móstreme como.">
 <!ENTITY addDevice.dontHaveDevice.label     "Non teño o dispositivo comigo">
-<!ENTITY addDevice.setup.description.label  "Para activalo, vaia as Opcións do &syncBrand.shortName.label;noutro dispositivo e seleccione &#x0022;Engadir un dispositivo&#x0022;.">
+<!ENTITY addDevice.setup.description.label  "Para activalo, vaia as Opcións do &syncBrand.shortName.label; noutro dispositivo e seleccione &#x0022;Engadir un dispositivo&#x0022;.">
 <!ENTITY addDevice.setup.enterCode.label    "Logo, introduza este código:">
 <!ENTITY addDevice.dialog.description.label "Para activar o novo dispositivo, vaia as opcións do &syncBrand.shortName.label; no dispositivo e seleccione &#x0022;Conectar.&#x0022;">
 <!ENTITY addDevice.dialog.enterCode.label   "Introduza o código que lle fornece o dispositivo:">
