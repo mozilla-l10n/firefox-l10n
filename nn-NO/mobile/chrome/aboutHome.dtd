@@ -3,6 +3,8 @@
 <!ENTITY aboutHome.remoteTabs                   "Faner frå ei anna datamaskin">
 <!ENTITY aboutHome.recommendedAddons2           "Utvidingar for &brandShortName;">
 <!ENTITY aboutHome.giveFeedback                 "Gje tilbakemelding">
+<!ENTITY aboutHome.getHelp                      "Få hjelp">
+<!ENTITY aboutHome.footerWidth                  "10em">
 <!ENTITY aboutHome.openAllTabs                  "Opne alle i faner">
 <!ENTITY aboutHome.noTabs                       "Ingen faner frå førre gong">
 <!ENTITY aboutHome.noAddons                     "Ingen tilrådde utvidingar">

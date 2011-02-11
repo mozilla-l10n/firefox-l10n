@@ -151,6 +151,12 @@
 <!ENTITY calendar.task.filter.completed.accesskey   "u">
 <!ENTITY calendar.task.filter.open.label            "Uferdige oppgåver">
 <!ENTITY calendar.task.filter.open.accesskey        "U">
+
+<!-- LOCALIZATION NOTE(calendar.task.filter.current.label)
+     "Current Tasks" will show all tasks, except those with a start date set
+     that is after today and after the selected date. If a task repeats, a
+     separate entry will be shown for each of the occurrences that happen on or
+     before today (or the selected date, whichever is later). -->
 <!ENTITY calendar.task.filter.current.label         "Noverande oppgåver">
 <!ENTITY calendar.task.filter.current.accesskey     "N">
 <!ENTITY calendar.task.filter.repeating.label       "Gjentakande oppgåver">
@@ -298,6 +304,12 @@
 <!ENTITY calendar.alarm.snooze.2hours.label         "2 timar" >
 <!ENTITY calendar.alarm.snooze.1day.label           "1 dag" >
 
+<!-- LOCALIZATION NOTE (calendar.alarm.snooze.cancel)
+     This string is not seen in the UI, it is read by screen readers when the
+     user focuses the "Cancel" button in the "Snooze for..." popup of the alarm
+     dialog. -->
+<!ENTITY calendar.alarm.snooze.cancel               "Avbryt slumring">
+
 <!-- Calendar Server Dialog -->
 <!ENTITY calendar.server.dialog.title.edit          "Endre kalenderen">
 <!ENTITY calendar.server.dialog.name.label          "Kalendernamn:">
@@ -309,6 +321,8 @@
 <!ENTITY calendarproperties.wcap.label                     "Sun Java System Calendar Server (WCAP)">
 <!ENTITY calendarproperties.format.label                   "Format:">
 <!ENTITY calendarproperties.location.label                 "Adresse:">
+<!ENTITY calendarproperties.refreshInterval.label          "Oppdater kalenderen:">
+<!ENTITY calendarproperties.refreshInterval.manual.label   "Manuelt">
 <!ENTITY calendarproperties.name.label                     "Namn:">
 <!ENTITY calendarproperties.readonly.label                 "Skriveverna">
 <!ENTITY calendarproperties.firealarms.label               "Vis alarmar">
