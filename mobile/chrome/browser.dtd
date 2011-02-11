@@ -26,6 +26,7 @@
 <!ENTITY historyHeader.label       "Historikk">
 <!ENTITY desktopHeader.label       "Skrivebord">
 
+<!ENTITY editBookmarkDialog.title  "Endre bokmerke">
 <!ENTITY editBookmarkDone.label    "Fullført">
 <!ENTITY editBookmarkTags.label    "Legg til merkelappar her">
 

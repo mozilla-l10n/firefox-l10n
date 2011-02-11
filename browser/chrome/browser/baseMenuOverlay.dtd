@@ -14,14 +14,9 @@
 <!ENTITY aboutProduct.accesskey   "O">
 <!ENTITY productHelp.label        "Innhald">
 <!ENTITY productHelp.accesskey    "I">
-<!ENTITY helpForIEUsers.label     "For brukarar av Internet Explorer">
-<!ENTITY helpForIEUsers.accesskey "F">
 <!ENTITY helpMac.commandkey       "?">
 <!ENTITY helpSafeMode.label       "Start på nytt utan utvidingar …">
 <!ENTITY helpSafeMode.accesskey   "S">
-
-<!ENTITY helpReleaseNotes.label         "Versjonsnotat">
-<!ENTITY helpReleaseNotes.accesskey     "V">
 
 <!ENTITY helpTroubleshootingInfo.label      "Feilsøkingsinfo">
 <!ENTITY helpTroubleshootingInfo.accesskey  "e">
