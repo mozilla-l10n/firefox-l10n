@@ -3,7 +3,7 @@
 <!ENTITY requestReceipt.accesskey "Z">
 <!ENTITY receiptArrive.label     "Otrzymane potwierdzenia doręczenia wiadomości:">
 <!ENTITY leaveIt.label           "pozostawiaj w folderze Odebrane">
-<!ENTITY leaveIt.accesskey       "O">
+<!ENTITY leaveIt.accesskey       "f">
 <!ENTITY moveToSent.label        "przenoś do folderu Wysłane">
 <!ENTITY moveToSent.accesskey    "W">
 <!ENTITY requestMDN.label        "Po otrzymaniu żądania potwierdzenia doręczenia wiadomości:">
