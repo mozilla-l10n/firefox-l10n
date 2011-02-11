@@ -126,7 +126,7 @@
 <!ENTITY newIM.tooltip                                  "Lähetä pikaviesti"> 
 <!ENTITY deleteItemButton.tooltip                       "Poista valittu merkintä">
 <!ENTITY throbber.tooltip                               "Siirry &vendorShortName;n kotisivulle">
-<!ENTITY advancedButton.tooltip                         "Edistynyt osoitehaku">
+<!ENTITY advancedButton.tooltip                         "Osoitehaun lisäasetukset">
 
 <!-- Status Bar -->  
 <!ENTITY statusText.label                               "">

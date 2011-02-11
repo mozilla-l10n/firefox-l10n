@@ -11,7 +11,7 @@
 <!ENTITY reorderUpButton.accesskey "y">
 <!ENTITY reorderDownButton.label "Siirrä alas">
 <!ENTITY reorderDownButton.accesskey "a">
-<!ENTITY filterHeader.label "Käytössä olevat suodattimet suoritetaan alla näkyvässä järjestyksessa.">
+<!ENTITY filterHeader.label "Käytössä olevat suodattimet suoritetaan alla olevassa järjestyksessä.">
 <!ENTITY filtersForPrefix.label "Suodattimet kohteelle:">
 <!ENTITY filtersForPrefix.accesskey "S">
 <!ENTITY viewLogButton.label "Suodatinloki">

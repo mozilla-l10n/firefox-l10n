@@ -4,7 +4,7 @@
 
 <!ENTITY setup.pickSetupType.description "Tervetuloa! Jos et ole käyttänyt &syncBrand.fullName.label; -palvelua aiemmin, sinun tulee luoda oma tili.">
 <!ENTITY button.createNewAccount.label "Luo uusi tili">
-<!ENTITY button.haveAccount.label "Minulla on &syncBrand.fullName.label; -tili">
+<!ENTITY button.haveAccount.label "Minulla on jo &syncBrand.fullName.label; -tili">
 
 <!ENTITY setup.choicePage.title.label     "Oletko käyttänyt &syncBrand.fullName.label; -palvelua aiemmin?">
 <!ENTITY setup.choicePage.new.label       "En ole käyttänyt &syncBrand.shortName.label; -palvelua aiemmin">
@@ -39,8 +39,8 @@
 
 <!-- New Account Page 2: Sync Key -->
 <!ENTITY setup.newSyncKeyPage.title.label "&brandShortName; on tosissaan yksityisyydensuojasi suhteen">
-<!ENTITY setup.newSyncKeyPage.description.label "Kokonaisvaltaisen tietosuojan varmistamiseksi kaikki data salataan ennen siirtoa. Salauksen purkamisessa tarvittavaa synkronointiavainta ei siirretä.">
-<!ENTITY syncKeyEntry.label        "Sync-avain">
+<!ENTITY setup.newSyncKeyPage.description.label "Täydellisen yksityisyydensuojan varmistamiseksi kaikki tieto salataan ennen lähettämistä. Salauksen purkamisessa tarvittavaa synkronointiavainta ei lähetetä.">
+<!ENTITY syncKeyEntry.label        "Synkronointiavain">
 <!ENTITY syncKeyEntry.accesskey    "S">
 <!ENTITY syncKeyGenerate.label     "Luo">
 <!ENTITY syncKeyGenerate.accesskey "L">
@@ -93,11 +93,9 @@
 <!-- Confirm Merge Options -->
 <!ENTITY setup.optionsConfirmPage.title "Vahvista">
 <!ENTITY confirm.merge.label    "Nyt &syncBrand.fullName.label; yhdistää kaikki tämän tietokoneen selaintiedot synkronointitilisi tietoihin.">
-<!ENTITY confirm.client.label         "Seuraavat &brandShortName;n tälle tietokoneelle tallentamat tiedot poistetaan:">
+<!ENTITY confirm.client2.label         "Varoitus: seuraavat tällä koneella olevat &brandShortName;n tiedot poistetaan:">
 <!ENTITY confirm.client.moreinfo.label "Sen jälkeen &brandShortName; kopioi &syncBrand.fullName.label; -palveluun tallennetut tiedot tälle tietokoneelle.">
-<!ENTITY confirm.client.warning.label "VAROITUS: Kaikki &brandShortName;n tälle tietokoneelle tallentamat tiedot korvataan!">
-<!ENTITY confirm.server.label         "Seuraaville laitteille tallennetut tiedot korvataan tälle tietokoneelle tallennetuilla tiedoilla:">
-<!ENTITY confirm.server.warning.label "VAROITUS: Tälle tietokoneelle tallennetut tiedot korvaavat kaikki &brandShortName;n näille laitteille tallentamat tiedot!">
+<!ENTITY confirm.server2.label         "Varoitus: seuraavien laitteiden tiedot korvataan tämän laitteen tiedoilla:">
 
 <!-- New & Existing Account: Setup Complete -->
 <!ENTITY setup.successPage.title "Asennus on valmis">

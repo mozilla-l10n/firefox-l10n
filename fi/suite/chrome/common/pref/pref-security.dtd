@@ -37,6 +37,11 @@
 
 <!--LOCALIZATION NOTE : FILE 'Privacy and Security' prefs settings -->
 <!ENTITY pref.security.title              "Tietoturva">
+
+<!ENTITY tracking.label                   "Käyttäjän toimien jäljitys">
+<!ENTITY doNotTrack.label                 "Pyydä sivustoja olemaan jäljittämättä minua">
+<!ENTITY doNotTrack.accesskey             "P">
+
 <!ENTITY privateData.label                "Yksityistiedot">
 
 <!ENTITY alwaysClear.label                "Tyhjennä valitut yksityistiedot aina kun &brandShortName; suljetaan">
