@@ -12,9 +12,6 @@
 
 <!ENTITY abouthome.searchEngineButton.label "Bilaketa">
 
-<!ENTITY abouthome.searchEngineLinks.advanced "Bilaketa aurreratua">
-<!ENTITY abouthome.searchEngineLinks.preferences "Hobespenak">
-
 <!ENTITY abouthome.aboutMozilla "Mozillari buruz">
 <!-- LOCALIZATION NOTE (abouthome.defaultSnippet1.v1):
      text in <a/> will be linked to the Firefox features page on mozilla.com
