@@ -321,6 +321,8 @@
 <!ENTITY calendarproperties.wcap.label     "Servidor de Calendário sistema Sun Java (WCAP)">
 <!ENTITY calendarproperties.format.label   "Formato:">
 <!ENTITY calendarproperties.location.label "Localização:">
+<!ENTITY calendarproperties.refreshInterval.label          "Actualizar Calendário:">
+<!ENTITY calendarproperties.refreshInterval.manual.label   "Manualmente">
 <!ENTITY calendarproperties.name.label     "Nome:">
 <!ENTITY calendarproperties.readonly.label "Apenas de leitura">
 <!ENTITY calendarproperties.firealarms.label "Mostrar Alarmes">
