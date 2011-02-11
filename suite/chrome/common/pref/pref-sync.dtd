@@ -17,8 +17,8 @@
 <!ENTITY manageAccount.label          "Muokkaa tiliä">
 <!ENTITY viewQuota.label              "Näytä kiintiö">
 <!ENTITY viewQuota.accesskey          "N">
-<!ENTITY changePassword.label         "Vaihda salasana">
-<!ENTITY changePassword.accesskey     "V">
+<!ENTITY changePassword.label         "Muuta salasana">
+<!ENTITY changePassword.accesskey     "M">
 <!ENTITY mySyncKey.label              "Synkronointiavain">
 <!ENTITY mySyncKey.accesskey          "S">
 <!ENTITY resetSync.label              "Nollaa Sync">

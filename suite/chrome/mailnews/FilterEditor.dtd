@@ -68,11 +68,11 @@
 
 <!ENTITY contextDesc.label "Suodata viestit, kun:">
 <!ENTITY contextDesc.accesskey "u">
-<!ENTITY contextIncoming.label "Posteja haetaan">
+<!ENTITY contextIncoming.label "Viestejä noudetaan">
 <!ENTITY contextManual.label "Suodattimet suoritetaan">
-<!ENTITY contextBoth.label "Suodattimet suoritetaan tai posteja haetaan">
-<!ENTITY contextPostPlugin.label "Posteja haetaan (luokittelun jälkeen)">
-<!ENTITY contextPostPluginBoth.label "Posteja haetaan (luokittelun jälkeen) tai suodattimet suoritetaan">
+<!ENTITY contextBoth.label "Viestejä noudetaan tai suodattimet suoritetaan">
+<!ENTITY contextPostPlugin.label "Viestejä noudetaan (luokittelun jälkeen)">
+<!ENTITY contextPostPluginBoth.label "Viestejä noudetaan (luokittelun jälkeen) tai suodattimet suoritetaan">
 
 <!ENTITY filterActionDesc.label "Suorita nämä toiminnot:">
 <!ENTITY filterActionDesc.accesskey "o">
