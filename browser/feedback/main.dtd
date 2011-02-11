@@ -21,3 +21,5 @@
 <!ENTITY testpilot.feedbackbutton.label "Opinión">
 <!ENTITY testpilot.happy.label "Firefox me gusta porque…">
 <!ENTITY testpilot.sad.label "Firefox no me gusta porque…">
+<!ENTITY testpilot.broken.label "Informar este sitio web como roto…">
+<!ENTITY testpilot.idea.label "Denos una idea…">
