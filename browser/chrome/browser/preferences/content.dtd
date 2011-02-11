@@ -17,7 +17,7 @@
 <!ENTITY enableJava.accesskey "n">
 
 
-<!ENTITY fontsAndColors.label "ফন্ট ও রং">
+<!ENTITY fontsAndColors.label "ফন্ট ও রং (a)">
 
 <!ENTITY defaultFont.label "ডিফল্ট ফন্ট (D):">
 <!ENTITY defaultFont.accesskey "D">
@@ -33,5 +33,5 @@
 
 <!ENTITY languages.label "ভাষা">
 <!ENTITY chooseLanguage.label "পৃষ্ঠা প্রদর্শনের পছন্দসই ভাষা নির্বাচন">
-<!ENTITY chooseButton.label "নির্বাচন… (O)">
-<!ENTITY chooseButton.accesskey "O">
+<!ENTITY chooseButton.label "নির্বাচন… (o)">
+<!ENTITY chooseButton.accesskey "o">

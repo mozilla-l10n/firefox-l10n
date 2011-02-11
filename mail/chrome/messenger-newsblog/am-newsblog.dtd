@@ -7,7 +7,7 @@
 <!ENTITY loginAtStartup.label "আরম্ভ করার সময় নতুন নিবন্ধ পরীক্ষা করা হবে (C)">
 <!ENTITY loginAtStartup.accesskey "C">
 
-<!ENTITY useQuickMode.label "পূর্বনির্ধারিত ভাবে, ওয়েবপেজ লোড করার পরিবর্তে নিবন্ধের সারসংক্ষেপ দেখানো হবে">
+<!ENTITY useQuickMode.label "পূর্বনির্ধারিত ভাবে, ওয়েবপেজ লোড করার পরিবর্তে নিবন্ধের সারসংক্ষেপ দেখানো হবে (B)">
 <!ENTITY useQuickMode.accesskey "B">
 
 <!ENTITY manageSubscriptions.label "সাবস্ক্রিপশন ব্যবস্থাপনা... (M)">

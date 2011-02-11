@@ -84,7 +84,7 @@
 <!ENTITY siteUrl.label "ঠিকানা প্রকাশ (উদাহরণস্বরূপ: 'ftp://ftp.myisp.com/myusername') (a):">
 <!ENTITY siteUrl.accesskey "a">
 <!ENTITY siteUrl.tooltip "আপনার ইন্টারনেট সেবাদাতা বা ওয়েব হোস্টিং সেবা দ্বারা প্রদত্ত FTP:// বা HTTP:// ঠিকানা">
-<!ENTITY browseUrl.label "আপনার হোমপেজের HTTP ঠিকানা (উদাহরণস্বরূপ: 'http://www.myisp.com/myusername') (T):">
+<!ENTITY browseUrl.label "আপনার হোমপেজের HTTP ঠিকানা (উদাহরণস্বরূপ: 'http://www.myisp.com/myusername'): (T)">
 <!ENTITY browseUrl.accesskey "T">
 <!ENTITY browseUrl.tooltip "আপনার হোম ডিরেক্টরির HTTP:// ঠিকানা (ফাইলের নাম অন্তর্ভূক্ত করা হবে না)">
 <!ENTITY username.label "ব্যবহারকারী নাম (U):">

@@ -21,7 +21,7 @@
 <!ENTITY allowHWAccel.accesskey "h">
 <!ENTITY checkSpelling.label "টাইপ করার সময় বানান পরীক্ষা করা হবে (T)">
 <!ENTITY checkSpelling.accesskey "T">
-<!ENTITY doNotTrack.label "Tell web sites I do not want to be tracked">
+<!ENTITY doNotTrack.label "ওয়েবসাইটকে বলে দেয়া হবে যে আমিচিহ্নিত হতে চাই না">
 <!ENTITY doNotTrack.accesskey "d">
 
 <!ENTITY systemDefaults.label "সিস্টেমের ডিফল্ট মান">
@@ -92,7 +92,7 @@
 <!ENTITY protocols.label "প্রোটোকল">
 <!ENTITY useSSL3.label "SSL 3.0 ব্যবহার করা হবে">
 <!ENTITY useSSL3.accesskey "3">
-<!ENTITY useTLS1.label "TLS 1.0 ব্যবহার করা হবে">
+<!ENTITY useTLS1.label "TLS 1.0 ব্যবহার">
 <!ENTITY useTLS1.accesskey "1">
 <!ENTITY certificates.label "সার্টিফিকেট">
 <!ENTITY certSelection.description "কোনো সার্ভার আপনার ব্যক্তিগত সার্টিফিকেট অনুরোধ করলে:">

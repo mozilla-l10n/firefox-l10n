@@ -63,7 +63,7 @@
 <!ENTITY scopeSubtree.accesskey "S">
 <!ENTITY return.label "সর্বোচ্চ গ্রহণ করা হবে (r)">
 <!ENTITY return.accesskey "r">
-<!ENTITY results.label "টি ফলাফল">
+<!ENTITY results.label "ফলাফল">
 <!ENTITY offlineText.label "আপনি এই ডিরেক্টরির একটি স্থানীয় কপি ডাউনলোড করতে পারেন, যাতে অফলাইন থাকা অবস্থায়ও এটি ব্যবহার করতে পারেন।">
 <!ENTITY saslMechanism.label "লগইন প্রক্রিয়া (m):">
 <!ENTITY saslMechanism.accesskey "m">

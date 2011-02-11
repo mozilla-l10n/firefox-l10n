@@ -3,13 +3,13 @@
 <!ENTITY titleSeparator.label " - ">
 <!-- File Menu -->
 
-<!ENTITY newFolderCmd.label "ফোল্ডার... (F)">
+<!ENTITY newFolderCmd.label "ফোল্ডার… (F)">
 <!ENTITY newFolderCmd.accesskey "F">
 <!ENTITY closeTabCmd.label "ট্যাব বন্ধ (e)">
 <!ENTITY closeTabCmd.accesskey "e">
 <!ENTITY closeOtherTabsCmd.label "অন্যান্য ট্যাব বন্ধ (l)">
 <!ENTITY closeOtherTabsCmd.accesskey "l">
-<!ENTITY newVirtualFolderCmd.label "সংরক্ষিত অনুসন্ধান... (S)">
+<!ENTITY newVirtualFolderCmd.label "সংরক্ষিত অনুসন্ধান… (S)">
 <!ENTITY newVirtualFolderCmd.accesskey "S">
 <!ENTITY newOtherAccountsCmd.label "অন্যান্য অ্যাকাউন্ট… (O)">
 <!ENTITY newOtherAccountsCmd.accesskey "O">
@@ -52,7 +52,7 @@
 <!ENTITY offlineMenu.accesskey "l">
 <!ENTITY offlineGoOfflineCmd.label "অফলাইনে কাজ করা (W)">
 <!ENTITY offlineGoOfflineCmd.accesskey "W">
-<!ENTITY synchronizeOfflineCmd.label "এখন ডাউনলোড/অভিন্নকরণ করা … (S)">
+<!ENTITY synchronizeOfflineCmd.label "এখন ডাউনলোড/অভিন্নকরণ করা… (S)">
 <!ENTITY synchronizeOfflineCmd.accesskey "S">
 <!ENTITY settingsOfflineCmd.label "অফলাইন সেটিং… (e)">
 <!ENTITY settingsOfflineCmd.accesskey "e">
@@ -112,7 +112,7 @@
 
 <!ENTITY showMessengerToolbarCmd.label "মেইল টুলবার (o)">
 <!ENTITY showMessengerToolbarCmd.accesskey "o">
-<!ENTITY customizeToolbar.label "স্বনির্বাচন... (C)">
+<!ENTITY customizeToolbar.label "স্বনির্বাচন… (C)">
 <!ENTITY customizeToolbar.accesskey "C">
 
 <!ENTITY messagePaneLayoutStyle.label "বহির্বিন্যাস (L)">
@@ -567,15 +567,15 @@ you can use these alternative items. Otherwise, their values should be empty.  -
 <!ENTITY folderContextMarkNewsgroupRead.accesskey "k">
 <!ENTITY folderContextMarkMailFolderRead.label "ফোল্ডার পঠিত হিসেবে চিহ্নিত করা হবে (k)">
 <!ENTITY folderContextMarkMailFolderRead.accesskey "k">
-<!ENTITY folderContextSubscribe.label "সাবস্ক্রাইব... (b)">
+<!ENTITY folderContextSubscribe.label "সাবস্ক্রাইব… (b)">
 <!ENTITY folderContextSubscribe.accesskey "b">
-<!ENTITY folderContextSearchMessages.label "অনুসন্ধান... (S)">
+<!ENTITY folderContextSearchMessages.label "অনুসন্ধান… (S)">
 <!ENTITY folderContextSearchMessages.accesskey "S">
-<!ENTITY folderContextProperties.label "বৈশিষ্ট্য... (P)">
+<!ENTITY folderContextProperties.label "বৈশিষ্ট্য… (P)">
 <!ENTITY folderContextProperties.accesskey "P">
 <!ENTITY folderContextFavoriteFolder.label "প্রিয় ফোল্ডার (a)">
 <!ENTITY folderContextFavoriteFolder.accesskey "a">
-<!ENTITY folderContextSettings.label "সেটিং... (e)">
+<!ENTITY folderContextSettings.label "সেটিং… (e)">
 <!ENTITY folderContextSettings.accesskey "e">
 <!-- Search Bar -->
 
@@ -644,7 +644,7 @@ you can use these alternative items. Otherwise, their values should be empty.  -
 <!ENTITY contextOpenNewTab.accesskey "T">
 <!ENTITY contextOpenConversation.label "কথোপকথনে বার্তা খোলা হবে (n)">
 <!ENTITY contextOpenConversation.accesskey "n">
-<!ENTITY contextEditAsNew.label "নতুন হিসেবে সম্পাদনা... (E)">
+<!ENTITY contextEditAsNew.label "নতুন হিসেবে সম্পাদনা… (E)">
 <!ENTITY contextEditAsNew.accesskey "E">
 <!ENTITY contextArchive.label "আর্কাইভ (h)">
 <!ENTITY contextArchive.accesskey "h">
@@ -666,9 +666,9 @@ you can use these alternative items. Otherwise, their values should be empty.  -
 <!ENTITY contextMoveCopyMsgRecentMenu.accesskey "R">
 <!ENTITY contextCopyMsgMenu.label "এখানে অনুলিপি করা হবে (C)">
 <!ENTITY contextCopyMsgMenu.accesskey "C">
-<!ENTITY contextSaveAs.label "নতুন ভাবে সংরক্ষণ... (S)">
+<!ENTITY contextSaveAs.label "নতুন ভাবে সংরক্ষণ… (S)">
 <!ENTITY contextSaveAs.accesskey "S">
-<!ENTITY contextPrint.label "মুদ্রণ... (P)">
+<!ENTITY contextPrint.label "মুদ্রণ… (P)">
 <!ENTITY contextPrint.accesskey "P">
 <!ENTITY contextPrintPreview.label "মুদ্রণের প্রাকদর্শন (v)">
 <!ENTITY contextPrintPreview.accesskey "v">
@@ -779,11 +779,11 @@ you can use these alternative items. Otherwise, their values should be empty.  -
 <!ENTITY searchAllMessages.keyLabel2.mac "&lt;&#x2318;K&gt;">
 <!-- Message Header Context Menu -->
 
-<!ENTITY AddToAddressBook.label "ঠিকানা বইয়ে যোগ... (B)">
+<!ENTITY AddToAddressBook.label "ঠিকানা বইয়ে যোগ… (B)">
 <!ENTITY AddToAddressBook.accesskey "B">
 <!ENTITY AddDirectlyToAddressBook.label "ঠিকানা বইয়ে যোগ (B)">
 <!ENTITY AddDirectlyToAddressBook.accesskey "B">
-<!ENTITY EditContact.label "পরিচিতি সম্পাদনা... (E)">
+<!ENTITY EditContact.label "পরিচিতি সম্পাদনা… (E)">
 <!ENTITY EditContact.accesskey "E">
 <!ENTITY ViewContact.label "পরিচিতি প্রদর্শন (V)">
 <!ENTITY ViewContact.accesskey "V">
@@ -797,15 +797,15 @@ you can use these alternative items. Otherwise, their values should be empty.  -
 <!ENTITY CopyNewsgroupName.accesskey "C">
 <!ENTITY CopyNewsgroupURL.label "নিউজগ্রুপ URL অনুলিপি করা হবে (U)">
 <!ENTITY CopyNewsgroupURL.accesskey "U">
-<!ENTITY CreateFilterFrom.label "এখান থেকে তৈরি এবং পরিশোধন... (F)">
+<!ENTITY CreateFilterFrom.label "এখান থেকে তৈরি এবং পরিশোধন… (F)">
 <!ENTITY CreateFilterFrom.accesskey "F">
 <!ENTITY reportPhishingURL.label "ইমেইল জালিয়াতি রিপোর্ট করা হবে (o)">
 <!ENTITY reportPhishingURL.accesskey "o">
 <!-- Content Pane Context Menu -->
 
-<!ENTITY saveLinkAsCmd.label "লিংকে এভাবে সংরক্ষণ করা হবে... (k)">
+<!ENTITY saveLinkAsCmd.label "লিংকে এভাবে সংরক্ষণ করা হবে… (k)">
 <!ENTITY saveLinkAsCmd.accesskey "k">
-<!ENTITY saveImageAsCmd.label "ছবি এভাবে সংরক্ষণ করা হবে... (v)">
+<!ENTITY saveImageAsCmd.label "ছবি এভাবে সংরক্ষণ করা হবে… (v)">
 <!ENTITY saveImageAsCmd.accesskey "v">
 <!ENTITY cutCmd.label "কাটা (u)">
 <!ENTITY cutCmd.accesskey "u">
@@ -840,7 +840,7 @@ you can use these alternative items. Otherwise, their values should be empty.  -
 <!ENTITY zoomWindow.label "বড় করে প্রদর্শন">
 <!-- Mac OS X Application Menu (Cocoa widgets) -->
 
-<!ENTITY preferencesCmdMac.label "পছন্দসমূহ...">
+<!ENTITY preferencesCmdMac.label "পছন্দসমূহ…">
 <!ENTITY preferencesCmdMac.commandkey ",">
 <!ENTITY preferencesCmdMac.modifiers "accel">
 <!ENTITY servicesMenuMac.label "সেবা">

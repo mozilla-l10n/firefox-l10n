@@ -20,9 +20,9 @@
 <!ENTITY ssl.accesskey "S">
 <!ENTITY socks.label "SOCKS হোস্ট (C):">
 <!ENTITY socks.accesskey "C">
-<!ENTITY socks4.label "SOCKS v4 (K)">
+<!ENTITY socks4.label "SOCKS v4">
 <!ENTITY socks4.accesskey "K">
-<!ENTITY socks5.label "SOCKS v5 (v)">
+<!ENTITY socks5.label "SOCKS v5">
 <!ENTITY socks5.accesskey "v">
 <!ENTITY HTTPport.label "পোর্ট (P):">
 <!ENTITY HTTPport.accesskey "P">

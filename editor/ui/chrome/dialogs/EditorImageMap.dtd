@@ -77,7 +77,7 @@
 <!ENTITY apercentCmd.accesskey "1">
 <!ENTITY bpercentCmd.label "২০০ (2)">
 <!ENTITY bpercentCmd.accesskey "2">
-<!ENTITY cpercentCmd.label "৪০০ (4)">
+<!ENTITY cpercentCmd.label "400">
 <!ENTITY cpercentCmd.accesskey "4">
 
 <!ENTITY zoominCmd.label "বড় আকারে প্রদর্শন">

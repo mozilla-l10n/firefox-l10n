@@ -18,8 +18,8 @@
 ডাউনলোড করার প্রয়োজনীয় অনুমতি আপনার নেই। অনুগ্রহ 
 করে আপনার সিস্টেম প্রশাসকের সাথে যোগাযোগ করুন অথবা এই কম্পিউটারে 
 সফটওয়্যার ইনস্টলের অনুমতি রয়েছে এমন একটি অ্যাকাউন্ট থেকে পুনরায় চেষ্টা করুন।">
-<!ENTITY manualUpdate.space.desc "A recommended security and stability update is available, but you do 
-not have enough space to install it.">
+<!ENTITY manualUpdate.space.desc "নিরাপত্তা ও স্থায়ীত্ব সংক্রান্ত একটি হালনাগাদ বিদ্যমান, কিন্তু এটি 
+ডাউনলোড করার প্রয়োজনীয় জায়গা আপনার নেই।">
 <!ENTITY manualUpdateGetMsg.label "আপনি সর্বদা &brandShortName; এর সর্বশেষ সংস্করণ পাবেন এখানে:">
 
 <!ENTITY incompatibleCheck.title "অ্যাড-অনের উপযুক্ততা পরীক্ষা করা হচ্ছে">
@@ -43,7 +43,7 @@ not have enough space to install it.">
 
 <!ENTITY incompatibleList.title "অসঙ্গতিপূর্ণ অ্যাড-অন পাওয়া গেছে">
 
-<!ENTITY downloadPage.title "Downloading &brandShortName;">
+<!ENTITY downloadPage.title "&brandShortName; ডাউনলোড করা হচ্ছে">
 <!ENTITY downloading.intro "হালনাগাদ ডাউনলোড করা হচ্ছে…">
 <!ENTITY connecting.label "হালনাগাদ সার্ভারের সাথে সংযুক্ত করা হচ্ছে…">
 <!ENTITY verificationFailedText.label "&brandShortName; ডাউনলোড করা ছোট হালনাগাদটির 
@@ -54,7 +54,7 @@ not have enough space to install it.">
 
 <!ENTITY details.link "বিস্তারিত">
 
-<!ENTITY error.title "Update Failed">
+<!ENTITY error.title "হালনাগাদ ব্যর্থ">
 
 <!ENTITY error.label "এই হালনাগাদ অনুসন্ধান, ডাউনলোড অথবা ইনস্টল করতে সমস্যা 
 হয়েছে। উল্লিখিত কারণে &brandShortName; হালনাগাদ করা যায়নি:">

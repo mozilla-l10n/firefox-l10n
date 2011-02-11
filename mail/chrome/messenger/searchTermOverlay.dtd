@@ -10,7 +10,7 @@
   are truncated in the widgets.
  -->
 
-<!ENTITY searchTermListAttributesFlexValue "৫">
-<!ENTITY searchTermListOperatorsFlexValue "৫">
-<!ENTITY searchTermListValueFlexValue "৫">
-<!ENTITY searchTermListButtonsFlexValue "২">
+<!ENTITY searchTermListAttributesFlexValue "5">
+<!ENTITY searchTermListOperatorsFlexValue "5">
+<!ENTITY searchTermListValueFlexValue "5">
+<!ENTITY searchTermListButtonsFlexValue "2">

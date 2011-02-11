@@ -59,7 +59,7 @@
 <!ENTITY deleteContactCmd.label "ঠিকানা মুছে ফেলুন">
 <!ENTITY deleteContactsCmd.label "ঠিকানাসমূহ মুছে ফেলুন">
 <!ENTITY deleteListCmd.label "তালিকা মুছে ফেলুন">
-<!ENTITY deleteListsCmd.label "তালিকাসমূহ মুছে ফেলুন">
+<!ENTITY deleteListsCmd.label "তালিকা মুছে ফেলুন">
 <!ENTITY deleteItemsCmd.label "আইটেম মুছে ফেলুন">
 <!ENTITY selectAllCmd.label "সব নির্বাচন (A)">
 <!ENTITY selectAllCmd.key "A">

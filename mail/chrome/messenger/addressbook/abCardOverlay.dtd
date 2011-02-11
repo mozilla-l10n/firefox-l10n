@@ -64,7 +64,7 @@
 <!ENTITY PhoneticField2.label "ফনেটিক:">
 <!ENTITY DisplayName.label "প্রদর্শন (D):">
 <!ENTITY DisplayName.accesskey "D">
-<!ENTITY preferDisplayName.label "Always prefer display name over message header">
+<!ENTITY preferDisplayName.label "বার্তার শীর্ষচরণে নাম প্রদর্শন সর্বদা পছন্দ করা হয়">
 <!ENTITY preferDisplayName.accesskey "y">
 <!ENTITY NickName.label "ডাকনাম (N):">
 <!ENTITY NickName.accesskey "N">
@@ -75,13 +75,13 @@
 <!ENTITY SecondEmail.accesskey "i">
 <!ENTITY PreferMailFormat.label "পছন্দসই বার্তার বিন্যাস (v):">
 <!ENTITY PreferMailFormat.accesskey "v">
-<!ENTITY PlainText.label "সরল লেখা">
+<!ENTITY PlainText.label "সাধারন টেক্সট">
 <!ENTITY HTML.label "HTML">
 <!ENTITY Unknown.label "অজানা">
 <!ENTITY ScreenName.label "পর্দার নাম (S):">
 <!ENTITY ScreenName.accesskey "S">
 
-<!ENTITY allowRemoteContent1.label "দূরবর্তী বিষয়বস্তু অনুমোদন করা হবে। (r)">
+<!ENTITY allowRemoteContent1.label "দূরবর্তী বিষয়বস্তু অনুমোদন করা হবে (r)।">
 <!ENTITY allowRemoteContent1.accesskey "r">
 <!ENTITY allowRemoteContent1.tooltip "HTML বার্তায়, দূরবর্তী উৎস হতে বিষয়বস্তু 
 সংযুক্ত করা সম্ভব। এই ধরনের বার্তা খোলা হলে, 
@@ -91,14 +91,14 @@
 
 <!ENTITY WorkPhone.label "অফিস (k):">
 <!ENTITY WorkPhone.accesskey "k">
-<!ENTITY HomePhone.label "বাসা (o):">
-<!ENTITY HomePhone.accesskey "o">
+<!ENTITY HomePhone.label "বাসা (m):">
+<!ENTITY HomePhone.accesskey "m">
 <!ENTITY FaxNumber.label "ফ্যাক্স (x):">
 <!ENTITY FaxNumber.accesskey "x">
 <!ENTITY PagerNumber.label "পেজার (g):">
 <!ENTITY PagerNumber.accesskey "g">
-<!ENTITY CellularNumber.label "মোবাইল (M):">
-<!ENTITY CellularNumber.accesskey "M">
+<!ENTITY CellularNumber.label "মোবাইল (b):">
+<!ENTITY CellularNumber.accesskey "b">
 
 <!ENTITY Home.tab "ব্যক্তিগত">
 <!ENTITY Home.accesskey "P">
@@ -119,14 +119,14 @@
 <!ENTITY Birthday.label "জন্মদিন (B):">
 <!ENTITY Birthday.accesskey "B">
 <!ENTITY In.label "">
-<!ENTITY Year.placeholder "Year">
+<!ENTITY Year.placeholder "বছর">
 <!ENTITY Or.value "বা">
-<!ENTITY Age.placeholder "Age">
+<!ENTITY Age.placeholder "বয়স">
 <!ENTITY YearsOld.label "">
 
 <!ENTITY Work.tab "অফিস">
 <!ENTITY Work.accesskey "W">
-<!ENTITY JobTitle.label "পদবি (i):">
+<!ENTITY JobTitle.label "শিরোনাম (i):">
 <!ENTITY JobTitle.accesskey "i">
 <!ENTITY Department.label "বিভাগ (m):">
 <!ENTITY Department.accesskey "m">
@@ -153,7 +153,7 @@
 <!ENTITY Custom1.accesskey "1">
 <!ENTITY Custom2.label "স্বনির্বাচন ২ (2):">
 <!ENTITY Custom2.accesskey "2">
-<!ENTITY Custom3.label "স্বনির্বাচন ৩ (3):">
+<!ENTITY Custom3.label "স্বনির্বাচন ৩ (3)">
 <!ENTITY Custom3.accesskey "3">
 <!ENTITY Custom4.label "স্বনির্বাচন ৪ (4):">
 <!ENTITY Custom4.accesskey "4">
@@ -172,6 +172,6 @@
 <!ENTITY BrowsePhoto.accesskey "r">
 <!ENTITY PhotoURL.label "ওয়েবে (b)">
 <!ENTITY PhotoURL.accesskey "b">
-<!ENTITY PhotoURL.placeholder "ছবির ওয়েব ঠিকানাটি প্রতিলেপন অথবা টাইপ করুন">
+<!ENTITY PhotoURL.placeholder "ছবির ওয়েব ঠিকানাটি প্রতিলেপন অথবা টাইপ">
 <!ENTITY UpdatePhoto.label "হালনাগাদ (U)">
 <!ENTITY UpdatePhoto.accesskey "U">

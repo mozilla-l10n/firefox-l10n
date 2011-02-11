@@ -141,7 +141,7 @@
 <!ENTITY priorityMenu.label "অগ্রাধিকার (P)">
 <!ENTITY priorityMenu.accesskey "P">
 <!ENTITY priorityButton.label "অগ্রাধিকার:">
-<!ENTITY lowestPriorityCmd.label "সর্বচেয়ে কম (L)">
+<!ENTITY lowestPriorityCmd.label "সবচেয়ে কম (L)">
 <!ENTITY lowestPriorityCmd.accesskey "L">
 <!ENTITY lowPriorityCmd.label "কম (o)">
 <!ENTITY lowPriorityCmd.accesskey "o">
@@ -153,14 +153,14 @@
 <!ENTITY highestPriorityCmd.accesskey "H">
 <!ENTITY fileCarbonCopyCmd.label "এখানে একটি কপি পাঠান (d)">
 <!ENTITY fileCarbonCopyCmd.accesskey "d">
-<!ENTITY fileHereMenu.label "এখানে ফাইল করুন">
+<!ENTITY fileHereMenu.label "ফাইল এখানে ">
 <!-- Tools Menu -->
 
 <!ENTITY tasksMenu.label "টুল (T)">
 <!ENTITY tasksMenu.accesskey "T">
 <!ENTITY messengerCmd.label "মেইল ও নিউজগ্রুপ (M)">
 <!ENTITY messengerCmd.accesskey "M">
-<!ENTITY messengerCmd.commandkey "১">
+<!ENTITY messengerCmd.commandkey "1">
 <!ENTITY addressBookCmd.label "ঠিকানা বই (A)">
 <!ENTITY addressBookCmd.accesskey "A">
 <!ENTITY addressBookCmd.key "B">
@@ -176,7 +176,7 @@
 <!ENTITY minimizeWindow.key "m">
 <!ENTITY minimizeWindow.label "নূন্যতম বিস্তার">
 <!ENTITY bringAllToFront.label "সব সামনে আনা হবে">
-<!ENTITY zoomWindow.label "জুম">
+<!ENTITY zoomWindow.label "বড় আকারে প্রদর্শন">
 <!ENTITY windowMenu.label "উইন্ডো">
 <!-- Mail Toolbar -->
 

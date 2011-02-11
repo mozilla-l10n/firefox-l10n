@@ -4,9 +4,9 @@
 <!ENTITY safeb.palm.message.p1.linkText "আরও তথ্য &#187;">
 <!ENTITY safeb.palm.p1.linkStatusText "আরও তথ্য &#133;">
 
-<!ENTITY safeb.palm.message.p2.start "এই ধরনের আক্রমণ ফিশিং নামে পরিচিত, এতে নকল ওয়েব পেজ ও ইমেইলের সাহায্যে ব্যবহারকারীদের ধোকা দেয়া হয়। এই ধরনের ফিশিং আক্রমণ ">
+<!ENTITY safeb.palm.message.p2.start "এই ধরনের আক্রমণ ফিশিং নামে পরিচিত, এতে নকল ওয়েব পেজ ও ইমেইলের সাহায্যে ব্যবহারকারীদের ধোকা দেয়া হয়। আপনি আরও তথ্য পেতে পারেন">
 <!ENTITY safeb.palm.message.p2.linkText "থেকে &brandShortName; কিভাবে আপনাকে">
-<!ENTITY safeb.palm.message.p2.end "সুরক্ষা দেয় সে সম্পর্কে আরও জানুন।">
+<!ENTITY safeb.palm.message.p2.end "ফিসিং আক্রমন থেকে">
 
 <!ENTITY safeb.palm.accept.label "আমাকে এখান থেকে উদ্ধার করো!">
 <!ENTITY safeb.palm.accept.statustext "প্রধান পাতায় যাও">

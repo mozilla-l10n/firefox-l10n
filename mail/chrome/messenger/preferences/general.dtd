@@ -3,7 +3,7 @@
 <!ENTITY enableStartPage.accesskey "W">
 <!ENTITY location.label "অবস্থান:">
 <!ENTITY location1.accesskey "o">
-<!ENTITY useDefault.label "ডিফল্ট অবস্থান (R)">
+<!ENTITY useDefault.label "ডিফল্ট পুনরায় সংরক্ষন (R)">
 <!ENTITY useDefault.accesskey "R">
 
 <!ENTITY bounceSystemDockIcon.label "ডক আইকন অ্যানিমেশন করা হবে (i)">
