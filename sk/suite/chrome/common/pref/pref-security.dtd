@@ -37,6 +37,11 @@
 
 <!--LOCALIZATION NOTE : FILE 'Privacy and Security' prefs settings -->
 <!ENTITY pref.security.title              "Súkromie a bezpečnosť">
+
+<!ENTITY tracking.label                   "Sledovanie používateľov">
+<!ENTITY doNotTrack.label                 "Požiadať webové stránky o nesledovanie mojej aktivity">
+<!ENTITY doNotTrack.accesskey             "n">
+
 <!ENTITY privateData.label                "Súkromné údaje">
 
 <!ENTITY alwaysClear.label                "Pri ukončení programu &brandShortName; vždy odstrániť súkromné údaje">

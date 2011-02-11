@@ -49,7 +49,3 @@
 <!ENTITY pref.defaultlength.accesskey "P">
 <!ENTITY pref.defaultsnoozelength.label "Predvolený čas oneskoreného upozornenia po udalosti:" >
 <!ENTITY pref.defaultsnoozelength.accesskey "e">
-<!ENTITY pref.refreshbox.label "Obnovenie kalendárov" >
-<!ENTITY pref.autorefresh.label "Obnoviť kalendáre každých" >
-<!ENTITY pref.autorefresh.accesskey "O" >
-

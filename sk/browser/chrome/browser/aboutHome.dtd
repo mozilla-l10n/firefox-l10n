@@ -13,9 +13,6 @@
 
 <!ENTITY abouthome.searchEngineButton.label "Hľadať">
 
-<!ENTITY abouthome.searchEngineLinks.advanced "Rozšírené vyhľadávanie">
-<!ENTITY abouthome.searchEngineLinks.preferences "Nastavenia">
-
 <!ENTITY abouthome.aboutMozilla "O Mozille">
 
 <!-- LOCALIZATION NOTE (abouthome.defaultSnippet1.v1):

@@ -209,7 +209,6 @@
 <!ENTITY followupAddr.label "Pokračovať na:">
 <!ENTITY subject.label "Predmet:">
 <!ENTITY subject.accesskey "d">
-<!ENTITY attachments.label "Prílohy:">
 <!ENTITY attachments.accesskey "h">
 
 <!-- Format Toolbar, imported from editorAppShell.xul -->

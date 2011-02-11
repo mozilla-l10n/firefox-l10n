@@ -79,6 +79,8 @@
 <!ENTITY calendar.unifinder.tree.completeddate.label    "Dokončené">
 <!ENTITY calendar.unifinder.tree.categories.label       "Kategória">
 <!ENTITY calendar.unifinder.tree.location.label         "Miesto konania">
+<!ENTITY calendarproperties.refreshInterval.label          "Obnoviť kalendár:">
+<!ENTITY calendarproperties.refreshInterval.manual.label   "Manuálne">
 <!ENTITY calendar.unifinder.tree.status.label           "Stav">
 <!ENTITY calendar.unifinder.tree.calendarname.label     "Názov kalendára">
 <!ENTITY calendar.unifinder.tree.duration.label         "Termín o">
@@ -303,6 +305,12 @@
 <!ENTITY calendar.alarm.snooze.1hour.label            "1 hodinu" >
 <!ENTITY calendar.alarm.snooze.2hours.label           "2 hodiny" >
 <!ENTITY calendar.alarm.snooze.1day.label             "1 deň" >
+
+<!-- LOCALIZATION NOTE (calendar.alarm.snooze.cancel)
+     This string is not seen in the UI, it is read by screen readers when the
+     user focuses the "Cancel" button in the "Snooze for..." popup of the alarm
+     dialog. -->
+<!ENTITY calendar.alarm.snooze.cancel               "Zrušiť odloženie">
 
 <!-- Calendar Server Dialog -->
 <!ENTITY calendar.server.dialog.title.edit             "Upraviť kalendár">
