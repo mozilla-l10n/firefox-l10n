@@ -49,6 +49,3 @@
 <!ENTITY pref.defaultlength.accesskey "D">
 <!ENTITY pref.defaultsnoozelength.label "Duração Pré-definida do Snooze:" >
 <!ENTITY pref.defaultsnoozelength.accesskey "S">
-<!ENTITY pref.refreshbox.label "Actualizar Definições" >
-<!ENTITY pref.autorefresh.label "Actualizar calendários a cada" >
-<!ENTITY pref.autorefresh.accesskey "A" >
