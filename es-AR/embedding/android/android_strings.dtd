@@ -13,4 +13,8 @@
 <!ENTITY  crash_restart_label "Reiniciar &brandShortName;">
 <!ENTITY  sending_crash_report "Enviando informe de fallos\u2026">
 <!ENTITY  exit_label "Salir">
+<!ENTITY  incompatable_device "&brandShortName; no soporta este dispositivo y podés experimentar
+problemas.">
+<!ENTITY  continue_label "Continuar">
+
 
