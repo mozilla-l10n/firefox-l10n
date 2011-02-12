@@ -48,9 +48,6 @@
 <!ENTITY pref.defaultlength.accesskey "e">
 <!ENTITY pref.defaultsnoozelength.label "Durada per defecte dels silencis:" >
 <!ENTITY pref.defaultsnoozelength.accesskey "s">
-<!ENTITY pref.refreshbox.label "Paràmetres d'actualització" >
-<!ENTITY pref.autorefresh.label "Actualitza els calendaris cada" >
-<!ENTITY pref.autorefresh.accesskey "z" >
 
 
 
