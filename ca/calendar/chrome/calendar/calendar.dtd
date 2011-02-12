@@ -309,6 +309,12 @@
 <!ENTITY calendar.alarm.snooze.2hours.label         "2 hores" >
 <!ENTITY calendar.alarm.snooze.1day.label           "1 dia" >
 
+<!-- LOCALIZATION NOTE (calendar.alarm.snooze.cancel)
+     This string is not seen in the UI, it is read by screen readers when the
+     user focuses the "Cancel" button in the "Snooze for..." popup of the alarm
+     dialog. -->
+<!ENTITY calendar.alarm.snooze.cancel               "Canceŀla l'avís">
+
 <!-- Calendar Server Dialog -->
 <!ENTITY calendar.server.dialog.title.edit          "Edita el calendari">
 <!ENTITY calendar.server.dialog.name.label          "Nom del calendari:">

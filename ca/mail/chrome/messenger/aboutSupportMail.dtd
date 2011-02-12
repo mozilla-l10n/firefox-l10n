@@ -1,0 +1,14 @@
+<!ENTITY aboutSupport.appBasicsAppBuildID "ID de compilació de l'aplicació">
+
+<!ENTITY aboutSupport.accountsTitle "Comptes de correu i de notícies">
+<!ENTITY aboutSupport.showPrivateData.mainText "Inclou els noms dels comptes">
+<!ENTITY aboutSupport.showPrivateData.explanationText "(possiblement és informació d'identificació)">
+<!ENTITY aboutSupport.accountsID "ID">
+<!ENTITY aboutSupport.accountsName "Nom">
+<!ENTITY aboutSupport.accountsIncomingServer "Servidor de recepció">
+<!ENTITY aboutSupport.accountsOutgoingServers "Servidors d'enviament">
+<!ENTITY aboutSupport.accountsConnSecurity "Seguretat de la connexió">
+<!ENTITY aboutSupport.accountsAuthMethod "Mètode d'autenticació">
+<!ENTITY aboutSupport.accountsDefault "Per defecte?">
+
+<!ENTITY aboutSupport.sendViaEmail.label "Envia per correu electrònic">
