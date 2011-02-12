@@ -30,6 +30,7 @@
 <!ENTITY smart.label "Установка ПО">
 <!ENTITY download.label "Загрузки">
 <!ENTITY keynav.label "Клавиатура">
+<!ENTITY findAsYouType.label "Поиск по мере набора">
 <!ENTITY search.label "Поиск в Интернете">
 <!ENTITY policies.label "Политика защиты">
 <!ENTITY mousewheel.label "Колесико мыши">
