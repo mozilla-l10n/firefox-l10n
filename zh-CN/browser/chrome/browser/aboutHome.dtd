@@ -13,9 +13,6 @@
 
 <!ENTITY abouthome.searchEngineButton.label "搜索">
 
-<!ENTITY abouthome.searchEngineLinks.advanced "高级搜索">
-<!ENTITY abouthome.searchEngineLinks.preferences "首选项">
-
 <!ENTITY abouthome.aboutMozilla "关于 Mozilla">
 
 <!-- LOCALIZATION NOTE (abouthome.defaultSnippet1.v1):
