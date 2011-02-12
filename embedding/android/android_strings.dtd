@@ -12,3 +12,6 @@
 <!ENTITY  crash_close_label "关闭">
 <!ENTITY  crash_restart_label "重启 &brandShortName;">
 <!ENTITY  sending_crash_report "发送崩溃报告\u2026">
+<!ENTITY  exit_label "退出">
+<!ENTITY  incompatable_device "&brandShortName; 不支持该设备，因此您可能会遇到问题。">
+<!ENTITY  continue_label "继续">
