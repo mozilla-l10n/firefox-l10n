@@ -1,23 +1,8 @@
 <!ENTITY pref.keyNav.title "Клавиатура">
 <!ENTITY tabNavigationBehavior.label "Навигация с помощью клавиши Tab">
 <!ENTITY tabNavigationLinks.label "Ссылкам">
-<!ENTITY tabNavigationLinks.accesskey "С">
+<!ENTITY tabNavigationLinks.accesskey "с">
 <!ENTITY tabNavigationForms.label "Кнопкам, переключателям, флажкам и спискам">
-<!ENTITY tabNavigationForms.accesskey "К">
+<!ENTITY tabNavigationForms.accesskey "н">
 <!ENTITY tabNavigationTextboxes.label "Примечание: вы всегда можете попасть с помощью клавиши Tab в поля ввода текста и области прокрутки">
 <!ENTITY tabNavigationDesc.label "При нажатой клавише Tab или комбинации Shift+Tab перемещаться по:">
-<!ENTITY findAsYouTypeBehavior.label "Поиск по мере набора">
-<!ENTITY findAsYouTypeTip.label "Совет: чтобы самостоятельно включить быстрый поиск по мере набора, нажмите / (поиск текста) или ' (поиск в ссылках), а затем — искомый текст.">
-<!ENTITY findAsYouTypeTimeout.label "Очищать текущие результаты поиска после нескольких секунд бездействия">
-<!ENTITY findAsYouTypeTimeout.accesskey "О">
-<!ENTITY findAsYouTypeSound.label "Подать звуковой сигнал, если набранный текст не найден">
-<!ENTITY findAsYouTypeSound.accesskey "П">
-<!ENTITY findAsYouTypeEnableAuto.label "Использовать автоматически для поиска:">
-<!ENTITY findAsYouTypeEnableAuto.accesskey "с">
-<!ENTITY findAsYouTypeAutoText.label "Любого текста на странице">
-<!ENTITY findAsYouTypeAutoText.accesskey "Л">
-<!ENTITY findAsYouTypeAutoLinks.label "Только ссылок">
-<!ENTITY findAsYouTypeAutoLinks.accesskey "Т">
-<!ENTITY findAsYouTypeFindbarEnable.label "Отображать панель поиска при поиске по мере набора">
-<!ENTITY findAsYouTypeFindbarEnable.accesskey "б">
-<!ENTITY findAsYouTypeFindbarEnableTip.label "Примечание: Поиск по мере набора без отображения панели поиска не позволяет вводить символы не на латинице.">
