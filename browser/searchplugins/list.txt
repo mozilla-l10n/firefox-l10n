@@ -1,6 +1,5 @@
-amazondotcom
-creativecommons
 google
-mercadolibre-mx
-wikipedia-es
 yahoo-mx
+bing
+wikipedia-es
+mercadolibre-mx
