@@ -13,3 +13,6 @@
 <!ENTITY  crash_restart_label "Reiniciar o &brandShortName;">
 <!ENTITY  sending_crash_report "A enviar relatório de erro \u2026">
 <!ENTITY  exit_label "Sair">
+<!ENTITY  incompatable_device "O &brandShortName; não suporta este dispositivo e pode ter
+problemas.">
+<!ENTITY  continue_label "Continuar">
