@@ -29,3 +29,5 @@
 <!ENTITY testpilot.feedbackbutton.label                "反馈">
 <!ENTITY testpilot.happy.label        "Firefox 令我高兴，因为...">
 <!ENTITY testpilot.sad.label          "Firefox 让我伤心，因为...">
+<!ENTITY testpilot.broken.label      "报告该网站无法正常浏览…">
+<!ENTITY testpilot.idea.label        "提交建议…">
