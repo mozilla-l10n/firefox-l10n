@@ -6,19 +6,3 @@
 <!ENTITY tabNavigationForms.accesskey "B">
 <!ENTITY tabNavigationTextboxes.label "Nota: caixas de texto e regiões deslocáveis fazem sempre parte da ordem dos separadores.">
 <!ENTITY tabNavigationDesc.label "Quando Tab ou Shift+Tab é carregado, mover entre:">
-<!ENTITY findAsYouTypeBehavior.label "Procurar ao escrever">
-<!ENTITY findAsYouTypeTip.label "Dica: Para iniciar manualmente Procurar ao escrever, escreva / para procurar texto ou ' para procurar ligações, seguido do texto que deseja encontrar.">
-<!ENTITY findAsYouTypeTimeout.label "Limpar a procura actual após alguns segundos de inactividade">
-<!ENTITY findAsYouTypeTimeout.accesskey "c">
-<!ENTITY findAsYouTypeSound.label "Tocar um som quando o texto escrito não for encontrado">
-<!ENTITY findAsYouTypeSound.accesskey "T">
-<!ENTITY findAsYouTypeEnableAuto.label "Procurar automaticamente ao escrever numa página web:">
-<!ENTITY findAsYouTypeEnableAuto.accesskey "P">
-<!ENTITY findAsYouTypeAutoText.label "Qualquer texto na página">
-<!ENTITY findAsYouTypeAutoText.accesskey "a">
-<!ENTITY findAsYouTypeAutoLinks.label "Apenas ligações">
-<!ENTITY findAsYouTypeAutoLinks.accesskey "ç">
-
-<!ENTITY findAsYouTypeFindbarEnable.label "Mostrar  barra de procura durante a procura ao escrever">
-<!ENTITY findAsYouTypeFindbarEnable.accesskey "M">
-<!ENTITY findAsYouTypeFindbarEnableTip.label "Nota: Procurar ao escrever sem mostrar a barra de procura não permite entradas de texto internacionais.">
