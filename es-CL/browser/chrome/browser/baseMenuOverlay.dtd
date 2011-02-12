@@ -15,8 +15,6 @@
 <!ENTITY productHelp.label        "Ayuda de &brandShortName;">
 <!ENTITY productHelp.accesskey    "y">
 
-<!ENTITY helpForIEUsers.label     "Para usuarios de Internet Explorer">
-<!ENTITY helpForIEUsers.accesskey "i">
 <!ENTITY helpMac.commandkey       "?">
 <!ENTITY helpSafeMode.label       "Reiniciar con los complementos deshabilitados…">
 <!ENTITY helpSafeMode.accesskey   "R">
@@ -37,10 +35,10 @@
 
 <!ENTITY servicesMenuMac.label          "Servicios">
 
-<!ENTITY hideThisAppCmdMac.label        "Esconder &brandShortName;">
+<!ENTITY hideThisAppCmdMac.label        "Ocultar &brandShortName;">
 <!ENTITY hideThisAppCmdMac.commandkey   "H">
 
-<!ENTITY hideOtherAppsCmdMac.label      "Esconder otros">
+<!ENTITY hideOtherAppsCmdMac.label      "Ocultar otros">
 <!ENTITY hideOtherAppsCmdMac.commandkey "H">
 
 <!ENTITY showAllAppsCmdMac.label        "Mostrar todo">

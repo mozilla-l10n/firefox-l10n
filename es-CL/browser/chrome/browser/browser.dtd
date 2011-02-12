@@ -550,7 +550,7 @@ just addresses the organization to follow, e.g. "This site is run by " -->
 <!ENTITY tabsToolbar.label "Pestañas del navegador">
 
 <!-- LOCALIZATION NOTE (syncTabsMenu.label): This appears in the history menu -->
-<!ENTITY syncTabsMenu.label     "Pestañas de otros computadores">
+<!ENTITY syncTabsMenu.label     "Pestañas de otros dispositivos">
 
 <!ENTITY syncBrand.shortName.label  "Sync">
 
@@ -561,3 +561,4 @@ just addresses the organization to follow, e.g. "This site is run by " -->
 <!ENTITY syncToolbarButton.label      "Sincronizar">
 
 <!ENTITY addonBarCloseButton.tooltip  "Cerrar barra de complementos">
+<!ENTITY toggleAddonBarCmd.key "/">
