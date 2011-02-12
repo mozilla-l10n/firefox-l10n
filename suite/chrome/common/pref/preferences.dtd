@@ -31,6 +31,7 @@
 <!ENTITY smart.label "Instalação de Software">
 <!ENTITY download.label "Transferências">
 <!ENTITY keynav.label "Navegação pelo teclado">
+<!ENTITY findAsYouType.label "Procurar ao escrever">
 <!ENTITY search.label "Pesquisa na Internet">
 <!ENTITY policies.label "Políticas de segurança">
 <!ENTITY mousewheel.label "Roda do rato">
