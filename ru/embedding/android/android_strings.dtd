@@ -11,6 +11,6 @@
 <!ENTITY crash_close_label "Закрыть">
 <!ENTITY crash_restart_label "Перезапустить &brandShortName;">
 <!ENTITY sending_crash_report "Отправка сообщения о падении\u2026">
-<!ENTITY exit_label "Выход">
+<!ENTITY exit_label "Выйти">
 <!ENTITY incompatable_device "&brandShortName; не поддерживает это устройство и у вас могут возникнуть проблемы.">
 <!ENTITY continue_label "Продолжить">
