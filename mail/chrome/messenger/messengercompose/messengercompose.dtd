@@ -209,7 +209,6 @@
 <!ENTITY followupAddr.label "Seguiment-A:">
 <!ENTITY subject.label "Assumpte:">
 <!ENTITY subject.accesskey "s">
-<!ENTITY attachments.label "Adjuncions:">
 <!ENTITY attachments.accesskey "j">
 
 <!-- Format Toolbar, imported from editorAppShell.xul -->

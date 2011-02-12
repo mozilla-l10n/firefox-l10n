@@ -43,6 +43,9 @@
 
 <!ENTITY event.title.label       "Edita l'element" >
 
+<!ENTITY event.dialog.keepDurationButton.tooltip   "Conservla la durada quan es canviï la data de finalització">
+<!ENTITY event.dialog.keepDurationButton.accesskey "d">
+
 <!ENTITY newevent.from.label         "Des de" >
 <!ENTITY newevent.to.label           "fins a" >
 <!ENTITY newevent.attendees.notify.label "Invita als assistents">

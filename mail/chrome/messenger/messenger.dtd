@@ -81,8 +81,6 @@
 <!ENTITY deleteMsgsCmd.accesskey "u">
 <!ENTITY undeleteMsgsCmd.label "Recupera els missatges esborrats seleccionats">
 <!ENTITY undeleteMsgsCmd.accesskey "m">
-<!ENTITY cancelNewsMsgsCmd.label "Canceŀla els missatges seleccionats">
-<!ENTITY cancelNewsMsgsCmd.accesskey "C">
 <!ENTITY deleteFolderCmd.label "Suprimeix la carpeta">
 <!ENTITY deleteFolderCmd.accesskey "x">
 <!ENTITY unsubscribeNewsgroupCmd.label "Canceŀla la subscripció">
@@ -317,6 +315,10 @@ you can use these alternative items. Otherwise, their values should be empty.  -
 <!ENTITY goBackCmd.commandKey "[">
 <!ENTITY prevStarredMsgCmd.label "Missatge destacat">
 <!ENTITY prevStarredMsgCmd.accesskey "s">
+<!ENTITY folderMenu.label "Carpeta">
+<!ENTITY folderMenu.accesskey "C">
+<!ENTITY thisFolder.label "Aquesta carpeta">
+<!ENTITY thisFolder.accesskey "A">
 <!ENTITY startPageCmd.label "Pàgina d'inici de la Missatgeria">
 <!ENTITY startPageCmd.accesskey "s">
 <!ENTITY msgMenu.label "Missatge">
@@ -396,6 +398,9 @@ you can use these alternative items. Otherwise, their values should be empty.  -
 <!ENTITY markAsReadCmd.label "Com a llegit">
 <!ENTITY markAsReadCmd.accesskey "C">
 <!ENTITY markAsReadCmd.key "m">
+<!ENTITY markAsUnreadCmd.label "Com a no llegit">
+<!ENTITY markAsUnreadCmd.accesskey "n">
+<!ENTITY markAsUnreadCmd.key "m">
 <!ENTITY markThreadAsReadCmd.label "Conversa com a llegida">
 <!ENTITY markThreadAsReadCmd.accesskey "m">
 <!ENTITY markThreadAsReadCmd.key "r">
