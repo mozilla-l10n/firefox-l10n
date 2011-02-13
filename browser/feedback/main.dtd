@@ -32,4 +32,6 @@
 <!ENTITY testpilot.feedbackbutton.label                "Σχόλια">
 <!ENTITY testpilot.happy.label        "Ο Firefox με ευχαριστεί γιατί…">
 <!ENTITY testpilot.sad.label          "Ο Firefox με δυσαρεστεί γιατί…">
+<!ENTITY testpilot.broken.label      "Αναφορά αυτής της ιστοσελίδας ως προβληματική…">
+<!ENTITY testpilot.idea.label        "Στείλτε μας μια ιδέα ή πρόταση…">
 
