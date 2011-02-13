@@ -13,3 +13,5 @@
 <!ENTITY  crash_restart_label "Reinicia el &brandShortName;">
 <!ENTITY  sending_crash_report "S\'està enviant un informe de fallada\u2026">
 <!ENTITY  exit_label "Surt">
+<!ENTITY  incompatable_device "El &brandShortName; no té garanties de funcionament amb aquest dispositiu, i hi podríeu experimentar problemes.">
+<!ENTITY  continue_label "Continua">
