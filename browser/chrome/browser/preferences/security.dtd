@@ -48,7 +48,7 @@
   "known").
 -->
 <!ENTITY  blockAttackSites.label     "Կանխել տեղեկացված վնասակար կայքերի մուտքը">
-<!ENTITY  blockAttackSites.accesskey "Կ">
+<!ENTITY  blockAttackSites.accesskey "k">
 
 <!ENTITY  blockWebForgeries.label     "Կանխել զկուցված կեղծ կայքերի մուտքը">
 <!ENTITY  blockWebForgeries.accesskey "Կ">

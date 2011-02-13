@@ -53,7 +53,7 @@
 <!ENTITY  useSystemColors.accesskey       "s">
 
 <!ENTITY  underlineLinks.label            "Հղաւմներն ընդգծել">
-<!ENTITY  underlineLinks.accesskey        "U">
+<!ENTITY  underlineLinks.accesskey        "y">
 <!ENTITY  links                           "Հղման Գույները">
 <!ENTITY  linkColor.label                 "Չայցելված հղումներ.">
 <!ENTITY  linkColor.accesskey             "U">
