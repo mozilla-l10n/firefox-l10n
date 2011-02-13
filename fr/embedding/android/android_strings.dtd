@@ -13,3 +13,6 @@
 <!ENTITY  crash_restart_label "Redémarrer &brandShortName;">
 <!ENTITY  sending_crash_report "Envoi du rapport de plantage\u2026">
 <!ENTITY  exit_label "Quitter">
+<!ENTITY  incompatable_device "&brandShortName; ne gère pas cet appareil et vous pourriez rencontrer des
+problèmes.">
+<!ENTITY  continue_label "Continuer">
