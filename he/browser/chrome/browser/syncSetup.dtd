@@ -57,18 +57,18 @@
 <!ENTITY addDevice.title.label              "הוסף התקן">
 <!ENTITY addDevice.showMeHow.label          "הראה לי כיצד.">
 <!ENTITY addDevice.dontHaveDevice.label     "אין לי את ההתקן איתי">
-<!ENTITY addDevice.setup.description.label  "To activate, go to &syncBrand.shortName.label; Options on your other device and select &#x0022;Add a Device&#x0022;.">
+<!ENTITY addDevice.setup.description.label  "להפעלה, עבור אל האפשרויות של &syncBrand.shortName.label; בהתקן האחר ובחר &#x0022;הוספת התקן&#x0022;.">
 <!ENTITY addDevice.setup.enterCode.label    "לאחר מכן, הקלד את הקוד הבא:">
-<!ENTITY addDevice.dialog.description.label "To activate your new device, go to &syncBrand.shortName.label; Options on the device and select &#x0022;Connect.&#x0022;">
+<!ENTITY addDevice.dialog.description.label "להפעלת ההתקן החדש שלך, עבור למסך האפשרויות של &syncBrand.shortName.label; בהתקן ובחר &#x0022;התחברות&#x0022;.">
 <!ENTITY addDevice.dialog.enterCode.label   "הקלד את הקוד שההתקן מספק:">
 <!ENTITY addDevice.dialog.tryAgain.label    "נא לנסות שנית.">
-<!ENTITY addDevice.dialog.successful.label  "The device has been successfully added. The initial synchronization can take several minutes and will finish in the background.">
+<!ENTITY addDevice.dialog.successful.label  "ההתקן התווסף בהצלחה. השלמת הסנכרון הראשוני יכולה לקחת מספר דקות ותסתיים ברקע.">
 <!ENTITY addDevice.dialog.syncKey.label     "כדי להפעיל את ההתקן שלך יש צורך להקליד את מפתח הסינכרון. נא להדפיס או לשמור את המפתח ולקחת אותו איתך.">
 <!ENTITY addDevice.dialog.connected.label   "ההתקן מחובר">
 
 <!-- Existing Account Page 2: Manual Login -->
 <!ENTITY setup.signInPage.title.label "התחברות">
-<!ENTITY existingSyncKey.description "You can get a copy of your Sync Key by going to &syncBrand.shortName.label; Options on your other device, and selecting  &#x0022;My Sync Key&#x0022; under &#x0022;Manage Account&#x0022;.">
+<!ENTITY existingSyncKey.description "ניתן לקבל עותק של מפתח הסנכרון במסך האפשרויות של &syncBrand.shortName.label; בהתקן, ובחירה באפשרות &#x0022;מפתח הסנכרון שלי&#x0022; תחת &#x0022;ניהול חשבון&#x0022;.">
 <!ENTITY verifying.label              "מאמת…">
 <!ENTITY resetPassword.label          "אפס סיסמה">
 <!ENTITY resetSyncKey.label           "איבדתי את ההתקן הנוסף שלי.">
