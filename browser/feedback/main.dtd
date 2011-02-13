@@ -29,3 +29,5 @@
 <!ENTITY testpilot.feedbackbutton.label                "משוב">
 <!ENTITY testpilot.happy.label        "Firefox משמח אותי בגלל…">
 <!ENTITY testpilot.sad.label          "Firefox מעציב אותי בגלל…">
+<!ENTITY testpilot.broken.label      "דווח על אתר זה כשבור…">
+<!ENTITY testpilot.idea.label        "תנו לנו הצעות…">
