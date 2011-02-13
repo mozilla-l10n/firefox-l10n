@@ -13,3 +13,5 @@
 <!ENTITY  crash_restart_label "Riavvia &brandShortName;">
 <!ENTITY  sending_crash_report "Invio segnalazione\u2026">
 <!ENTITY  exit_label "Esci">
+<!ENTITY  incompatable_device "Questo dispositivo non è supportato da &brandShortName; e potrebbero verificarsi delle anomalie.">
+<!ENTITY  continue_label "Continua">
