@@ -8,3 +8,7 @@
 <!ENTITY aboutHome.openAllTabs                  "Alle openen in tabbladen">
 <!ENTITY aboutHome.noTabs                       "Geen tabbladen van de vorige keer">
 <!ENTITY aboutHome.noAddons                     "Geen aanbevolen add-ons">
+
+<!-- LOCALIZATION NOTE: 'Firefox Spark' is the official name of the promotion and should not be translated -->
+<!ENTITY aboutHome.promoSpark                   "Firefox Spark spelen">
+
