@@ -9,7 +9,9 @@
 
 <!-- Login error feedback -->
 <!ENTITY updatePass.label "Actualizar">
+<!ENTITY updatePass.accesskey         "u">
 <!ENTITY resetPass.label "Restablecer">
+<!ENTITY resetPass.accesskey          "s">
 
 <!-- Manage Account -->
 <!ENTITY manageAccount.label "Administrar cuenta">

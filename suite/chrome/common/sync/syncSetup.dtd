@@ -4,7 +4,7 @@
 
 <!ENTITY setup.pickSetupType.description "Bienvenido, si nunca usó &syncBrand.fullName.label; antes, necesitará crear una nueva cuenta.">
 <!ENTITY button.createNewAccount.label "Crear una nueva cuenta">
-<!ENTITY setup.haveAccount.label "Ya tengo una cuenta de &syncBrand.fullName.label;">
+<!ENTITY button.haveAccount.label "Ya tengo una cuenta de &syncBrand.fullName.label;">
 
 <!ENTITY setup.choicePage.title.label "¿Ha usado &syncBrand.fullName.label; antes?">
 <!ENTITY setup.choicePage.new.label "Nunca usé &syncBrand.shortName.label; antes">
