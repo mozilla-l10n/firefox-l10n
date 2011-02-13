@@ -1,5 +1,4 @@
 <!ENTITY testpilot.brand.label                      "Test Pilot">
-<!-- browser window: menu and status bar -->
 <!ENTITY testpilot.settings.label                   "Nastavitve">
 <!ENTITY testpilot.settings.dataSubmission.label    "Poslani podatki">
 <!ENTITY testpilot.settings.notifications.label     "Obvestila">
@@ -30,3 +29,5 @@
 <!ENTITY testpilot.feedbackbutton.label                "Sporoči">
 <!ENTITY testpilot.happy.label        "Firefox me je osrečil, ker …">
 <!ENTITY testpilot.sad.label          "Firefox me je razočaral, ker …">
+<!ENTITY testpilot.broken.label      "Ta stran ne deluje pravilno …">
+<!ENTITY testpilot.idea.label        "Predlogi …">
