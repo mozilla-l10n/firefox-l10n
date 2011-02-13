@@ -31,6 +31,7 @@
 <!ENTITY smart.label "Software-installatie">
 <!ENTITY download.label "Downloads">
 <!ENTITY keynav.label "Toetsenbordnavigatie">
+<!ENTITY findAsYouType.label "Zoeken terwijl u typt">
 <!ENTITY search.label "Zoeken op het internet">
 <!ENTITY policies.label "Beveiligingsbeleid">
 <!ENTITY mousewheel.label "Muiswiel">
