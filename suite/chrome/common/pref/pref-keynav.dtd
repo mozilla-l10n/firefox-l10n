@@ -6,18 +6,3 @@
 <!ENTITY tabNavigationForms.accesskey "B">
 <!ENTITY tabNavigationTextboxes.label "Nota: cajas de texto y regiones desplaz. siempre se incluyen en la tabul.">
 <!ENTITY tabNavigationDesc.label "Cuando se pulsa Tab o Mays + Tab, moverse entre:">
-<!ENTITY findAsYouTypeBehavior.label "Buscar según escribe">
-<!ENTITY findAsYouTypeTip.label "Consejo: para iniciar manualmente la característica de búsqueda según se escribe, escriba / para buscar texto o ' para buscar enlaces, seguido por el texto que quiere encontrar.">
-<!ENTITY findAsYouTypeTimeout.label "Reiniciar la búsqueda actual tras unos pocos segundos de inactividad.">
-<!ENTITY findAsYouTypeTimeout.accesskey "C">
-<!ENTITY findAsYouTypeSound.label "Reproducir un sonido cuando el texto escrito no se encuentre">
-<!ENTITY findAsYouTypeSound.accesskey "P">
-<!ENTITY findAsYouTypeEnableAuto.label "Buscar automáticamente cuando escriba dentro de una página web:">
-<!ENTITY findAsYouTypeEnableAuto.accesskey "B">
-<!ENTITY findAsYouTypeAutoText.label "Cualquier texto en la página">
-<!ENTITY findAsYouTypeAutoText.accesskey "A">
-<!ENTITY findAsYouTypeAutoLinks.label "Sólo enlaces">
-<!ENTITY findAsYouTypeAutoLinks.accesskey "o">
-<!ENTITY findAsYouTypeFindbarEnable.label "Mostrar la barra de búsquedas al usar Encontrar según se escribe">
-<!ENTITY findAsYouTypeFindbarEnable.accesskey "M">
-<!ENTITY findAsYouTypeFindbarEnableTip.label "Nota: encontrar según se escribe sin mostrar la barra de busquedas no permite la introducción de texto internacional.">
