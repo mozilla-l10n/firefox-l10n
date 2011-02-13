@@ -52,9 +52,6 @@
 
 <!ENTITY abouthome.searchEngineButton.label "Որոնում">
 
-<!ENTITY abouthome.searchEngineLinks.advanced "Ընդլայնված Որոնում">
-<!ENTITY abouthome.searchEngineLinks.preferences "Նախըտրանքներ">
-
 <!ENTITY abouthome.aboutMozilla "Մոզիլլայի մասին">
 
 <!-- LOCALIZATION NOTE (abouthome.defaultSnippet1.v1):

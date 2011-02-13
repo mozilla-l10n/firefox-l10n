@@ -72,7 +72,7 @@
 <!-- Device Settings -->
 <!ENTITY syncComputerName.label       "Համակարգչի անունը՝">
 <!ENTITY syncComputerName.accesskey   "Հ">
-<!ENTITY deactivateDevice.label       "Deactivate This Device">
+<!ENTITY deactivateDevice.label       "Ապաակտիվացնել այս սարքը">
 
 <!-- Footer stuff -->
 <!ENTITY prefs.tosLink.label        "Ծառայության պայմաններին">

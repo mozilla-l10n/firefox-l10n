@@ -43,7 +43,7 @@
 
 <!ENTITY setup.pickSetupType.description "Եթե դուք նախկինում չեք օգտագործել &syncBrand.fullName.label; ապա դուք պետք է ստեղծեք նոր հաշիվ:">
 <!ENTITY button.createNewAccount.label "Ստեղծել նոր հաշիվ">
-<!ENTITY setup.haveAccount.label "I already have a &syncBrand.fullName.label; account.">
+<!ENTITY setup.haveAccount.label "Ես արդեն ունեմ &syncBrand.fullName.label; հաշիվ:">
 <!ENTITY button.connect.label    "Միանալ">
 
 <!ENTITY setup.choicePage.title.label     "Դուք նախկինում օգտագործե՞լ եք &syncBrand.fullName.label;">
@@ -98,19 +98,19 @@
 <!ENTITY addDevice.dontHaveDevice.label     "Սարքը ինձ հետ չի">
 <!ENTITY addDevice.setup.description.label  "To activate, go to &syncBrand.shortName.label; Options on your other device and select &#x0022;Add a Device&#x0022;.">
 <!ENTITY addDevice.setup.enterCode.label    "Այնուհետև մուտքագրեք հետևյալ ծածկագիրը">
-<!ENTITY addDevice.dialog.description.label "To activate your new device, go to &syncBrand.shortName.label; Options on the device and select &#x0022;Connect.&#x0022;">
-<!ENTITY addDevice.dialog.enterCode.label   "Enter the code that the device provides:">
-<!ENTITY addDevice.dialog.tryAgain.label    "Please try again.">
-<!ENTITY addDevice.dialog.successful.label  "The device has been successfully added. The initial synchronization can take several minutes and will finish in the background.">
-<!ENTITY addDevice.dialog.syncKey.label     "To activate your device you will need to enter your Sync Key. Please print or save this key and take it with you.">
-<!ENTITY addDevice.dialog.connected.label   "Device Connected">
+<!ENTITY addDevice.dialog.description.label "Ձեր նոր սարքը ակտիվացնելու համար գնացեք &syncBrand.shortName.label; Ընտրանքներ` ձեր սարքում և ընտրեք &#x0022;ը, միացեք &#x0022;ին">
+<!ENTITY addDevice.dialog.enterCode.label   "Մուտքագրեք գաղտնաբառը, որը սարքը տրամադրում է">
+<!ENTITY addDevice.dialog.tryAgain.label    "Խնդրում ենք, կրկին փորձեք:">
+<!ENTITY addDevice.dialog.successful.label  "Սարքը բարեհաջող ավելացվել է:Սկզբնական համաժամանակացումը մի քանի րոպե կպահանջի և կավարտվի ետին հատվածում:">
+<!ENTITY addDevice.dialog.syncKey.label     "Այս սարքը ակտիվացնելու համար դուք պետք է մուտքագրեք ձեր Sync բանալին:Խնդրում ենք,տպեք կամ պահպանեք այս բանալին և այն վերցրեք ձեր հետ:">
+<!ENTITY addDevice.dialog.connected.label   "Սարքը միացված է">
 
 <!-- Existing Account Page 2: Manual Login -->
 <!ENTITY setup.signInPage.title.label "Մտնել">
-<!ENTITY existingSyncKey.description "You can get a copy of your Sync Key by going to &syncBrand.shortName.label; Options on your other device, and selecting  &#x0022;My Sync Key&#x0022; under &#x0022;Manage Account&#x0022;.">
+<!ENTITY existingSyncKey.description "Դուք կարող եք ձեռք բերել Sync բանալու կրկնօրինակը գնալով &syncBrand.shortName.label;Ընտրանքներ` ձեր մյուս սարքում,և ընտրելով &#x0022;ը, Իմ Sync բանալի;&#x0022;ի ներքո;Կարգավորել Հաշիվ&#x0022;ը ">
 <!ENTITY verifying.label              "Ստուգում…">
 <!ENTITY resetPassword.label          "Վերանշել գաղտնաբառը">
-<!ENTITY resetSyncKey.label           "I have lost my other device.">
+<!ENTITY resetSyncKey.label           "Ես կորցրել եմ իմ մյուս սարքը:">
 
 <!-- Sync Options -->
 <!ENTITY setup.optionsPage.title      "Sync պարամետրեր">
@@ -137,9 +137,9 @@
 <!-- Confirm Merge Options -->
 <!ENTITY setup.optionsConfirmPage.title "Հաստատել">
 <!ENTITY confirm.merge.label    "&syncBrand.fullName.label; will now merge all this computer's browser data into your Sync account.">
-<!ENTITY confirm.client2.label         "Warning: The following &brandShortName; data on this computer will be deleted:">
+<!ENTITY confirm.client2.label         "Զգուշացում` հետևյալ &brandShortName;-ի տվյալները այս համակարգչում կջնջվեն:">
 <!ENTITY confirm.client.moreinfo.label "Հետո &brandShortName;-ը կկրկնակի ձեր &syncBrand.fullName.label; տվյալները այս համակարգչում:">
-<!ENTITY confirm.server2.label         "Warning: The following devices will be overwritten with your local data:">
+<!ENTITY confirm.server2.label         "Զգուշացում` հետևյալ սարքերը կվերագրանցվեն ձեր տեղային տվյալների միջոցով:">
 
 <!-- New & Existing Account: Setup Complete -->
 <!ENTITY setup.successPage.title "Տեղադրումը ավարտված է">

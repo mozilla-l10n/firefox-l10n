@@ -48,7 +48,7 @@
 <!ENTITY  exceptions.accesskey        "x">
 
 <!ENTITY  enableJavaScript.label      "JavaScript­ը միացնել">
-<!ENTITY  enableJavaScript.accesskey  "S">
+<!ENTITY  enableJavaScript.accesskey  "J">
 <!ENTITY  advancedJS.label            "Խորացված…">
 <!ENTITY  advancedJS.accesskey        "v">
 
