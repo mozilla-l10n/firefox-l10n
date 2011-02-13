@@ -1,5 +1,5 @@
 amazon-en-GB
-creativecommons
+bing
 eBay-en-GB
 eudict
 google
