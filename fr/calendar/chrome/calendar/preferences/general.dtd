@@ -49,6 +49,3 @@
 <!ENTITY pref.defaultlength.accesskey "D">
 <!ENTITY pref.defaultsnoozelength.label "Durée par défaut du report d'alarme :" >
 <!ENTITY pref.defaultsnoozelength.accesskey "u">
-<!ENTITY pref.refreshbox.label "Paramètres d'actualisation" >
-<!ENTITY pref.autorefresh.label "Fréquence d'actualisation des agendas :" >
-<!ENTITY pref.autorefresh.accesskey "a" >

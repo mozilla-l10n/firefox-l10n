@@ -307,20 +307,22 @@
 <!ENTITY calendar.server.dialog.name.label "Nom de l'agenda :">
 
 <!-- Calendar Properties -->
-<!ENTITY calendarproperties.color.label "Couleur :">
-<!ENTITY calendarproperties.webdav.label "iCalendar (ICS)">
-<!ENTITY calendarproperties.caldav.label "CalDAV">
-<!ENTITY calendarproperties.wcap.label "Serveur d'agendas Sun Java System (WCAP)">
-<!ENTITY calendarproperties.format.label "Format :">
-<!ENTITY calendarproperties.location.label "Emplacement :">
-<!ENTITY calendarproperties.name.label "Nom :">
-<!ENTITY calendarproperties.readonly.label "En lecture seule">
-<!ENTITY calendarproperties.firealarms.label "Afficher les alarmes">
-<!ENTITY calendarproperties.cache.label "Cache (EXPÉRIMENTAL, nécessite un redémarrage)">
-<!ENTITY calendarproperties.enabled.label "Activer cet agenda">
-<!ENTITY calendarproperties.forceDisabled.label "Le fournisseur de cet agenda n'a pas été trouvé. Ceci arrive souvent lors de la désactivation ou de la désinstallation de certains modules complémentaires.">
-<!ENTITY calendarproperties.unsubscribe.label "Se désabonner">
-<!ENTITY calendarproperties.unsubscribe.accesskey "S">
+<!ENTITY calendarproperties.color.label                    "Couleur :">
+<!ENTITY calendarproperties.webdav.label                   "iCalendar (ICS)">
+<!ENTITY calendarproperties.caldav.label                   "CalDAV">
+<!ENTITY calendarproperties.wcap.label                     "Serveur d'agendas Sun Java System (WCAP)">
+<!ENTITY calendarproperties.format.label                   "Format :">
+<!ENTITY calendarproperties.location.label                 "Emplacement :">
+<!ENTITY calendarproperties.refreshInterval.label          "Actualiser l'agenda :">
+<!ENTITY calendarproperties.refreshInterval.manual.label   "Manuellement">
+<!ENTITY calendarproperties.name.label                     "Nom :">
+<!ENTITY calendarproperties.readonly.label                 "En lecture seule">
+<!ENTITY calendarproperties.firealarms.label               "Afficher les alarmes">
+<!ENTITY calendarproperties.cache.label                    "Cache (EXPÉRIMENTAL, nécessite un redémarrage)">
+<!ENTITY calendarproperties.enabled.label                  "Activer cet agenda">
+<!ENTITY calendarproperties.forceDisabled.label            "Le fournisseur de cet agenda n'a pas été trouvé. Ceci arrive souvent lors de la désactivation ou de la désinstallation de certains modules complémentaires.">
+<!ENTITY calendarproperties.unsubscribe.label              "Se désabonner">
+<!ENTITY calendarproperties.unsubscribe.accesskey          "S">
 
 <!-- Calendar Publish Dialog -->
 <!ENTITY calendar.publish.dialog.title              "Publier l'agenda">
