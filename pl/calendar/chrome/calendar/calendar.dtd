@@ -322,6 +322,8 @@ dialog. -->
 <!ENTITY calendarproperties.wcap.label             "Sun Java System Calendar Server (WCAP)">
 <!ENTITY calendarproperties.format.label           "Format:">
 <!ENTITY calendarproperties.location.label         "Położenie:">
+<!ENTITY calendarproperties.refreshInterval.label          "Odświeżaj kalendarz:">
+<!ENTITY calendarproperties.refreshInterval.manual.label   "ręcznie">
 <!ENTITY calendarproperties.name.label             "Nazwa:">
 <!ENTITY calendarproperties.readonly.label         "Tylko do odczytu">
 <!ENTITY calendarproperties.firealarms.label       "Wyświetlaj powiadomienia">

@@ -19,7 +19,8 @@
    - the Initial Developer. All Rights Reserved.
    -
    - Contributor(s):
-   -	Marek Stępień <marcoos@aviary.pl> (Polish localization)
+   -   Marek Stępień <marcoos@aviary.pl> (Polish localization)
+   -   Hubert Gajewski <hubert@hubertgajewski.com>, Aviary.pl (Polish localization)
    -
    - Alternatively, the contents of this file may be used under the terms of
    - either the GNU General Public License Version 2 or later (the "GPL"), or
@@ -44,6 +45,3 @@
 <!ENTITY pref.defaultlength.accesskey "D">
 <!ENTITY pref.defaultsnoozelength.label   "Domyślna długość odstępu między przypomnieniami:" >
 <!ENTITY pref.defaultsnoozelength.accesskey "o">
-<!ENTITY pref.refreshbox.label "Ustawienia odświeżania" >
-<!ENTITY pref.autorefresh.label "Odśwież kalendarze co" >
-<!ENTITY pref.autorefresh.accesskey "w" >
