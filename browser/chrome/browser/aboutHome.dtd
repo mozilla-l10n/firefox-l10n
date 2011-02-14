@@ -6,11 +6,6 @@
 
 <!ENTITY abouthome.pageTitle "&brandFullName; 開始頁">
 
-<!-- LOCALIZATION NOTE (abouthome.brandStart):
-     brandShortName must be in a <span/>
--->
-<!ENTITY abouthome.brandStart "<span>&brandShortName;</span> Start">
-
 <!ENTITY abouthome.searchEngineButton.label "搜尋">
 
 <!ENTITY abouthome.aboutMozilla "關於 Mozilla">
