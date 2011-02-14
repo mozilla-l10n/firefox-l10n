@@ -14,11 +14,9 @@
 <!ENTITY aboutProduct.accesskey   "A">
 <!ENTITY productHelp.label        "&brandShortName;-hulp">
 <!ENTITY productHelp.accesskey    "h">
-<!ENTITY helpForIEUsers.label     "Vir Internet Explorer-gebruikers">
-<!ENTITY helpForIEUsers.accesskey "I">
 <!ENTITY helpMac.commandkey       "?">
-<!ENTITY helpSafeMode.label       "Restart with Add-ons Disabled…">
-<!ENTITY helpSafeMode.accesskey   "R">
+<!ENTITY helpSafeMode.label       "Herbegin met byvoegings gedeaktiveer…">
+<!ENTITY helpSafeMode.accesskey   "H">
 
 <!ENTITY helpTroubleshootingInfo.label      "Inligting vir probleemoplossing">
 <!ENTITY helpTroubleshootingInfo.accesskey  "p">

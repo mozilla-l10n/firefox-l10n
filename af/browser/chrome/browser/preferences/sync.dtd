@@ -12,13 +12,13 @@
 
 <!ENTITY manageAccount.label          "Bestuur rekening">
 <!ENTITY manageAccount.accesskey      "r">
-<!ENTITY viewQuota.label              "View Quota">
+<!ENTITY viewQuota.label              "Bekyk kwota">
 <!ENTITY changePassword.label         "Verander wagwoord">
-<!ENTITY mySyncKey.label              "My Sync Key">
+<!ENTITY mySyncKey.label              "My Sync-sleutel">
 <!ENTITY resetSync.label              "Laai Sync terug">
-<!ENTITY addDevice.label              "Add a Device">
+<!ENTITY addDevice.label              "Voeg toestel by">
 
-<!ENTITY syncMy.label               "Sync My">
+<!ENTITY syncMy.label               "Sync my">
 <!ENTITY engine.bookmarks.label     "Boekmerke">
 <!ENTITY engine.bookmarks.accesskey "m">
 <!ENTITY engine.tabs.label          "Oortjies">
@@ -33,7 +33,7 @@
 
 <!ENTITY syncComputerName.label       "Rekenaarnaam:">
 <!ENTITY syncComputerName.accesskey   "R">
-<!ENTITY deactivateDevice.label       "Deactivate This Device">
+<!ENTITY deactivateDevice.label       "Deaktiveer hierdie toestel">
 <!-- Footer stuff -->
 
 <!ENTITY prefs.tosLink.label        "Diensbepalings">

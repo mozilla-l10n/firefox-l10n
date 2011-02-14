@@ -1,4 +1,4 @@
-<!ENTITY quota.dialogTitle.label    "Server Quota">
-<!ENTITY quota.retrievingInfo.label "Retrieving quota information…">
+<!ENTITY quota.dialogTitle.label    "Bedienerkwota">
+<!ENTITY quota.retrievingInfo.label "Haal tans kwota-inligting op…">
 <!ENTITY quota.typeColumn.label     "Soort">
 <!ENTITY quota.sizeColumn.label     "Grootte">

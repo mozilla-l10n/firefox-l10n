@@ -13,5 +13,5 @@
 <!ENTITY switchToNewTabs.label        "Wanneer ek 'n skakel in 'n nuwe oortjie open, skakel dadelik daarheen oor">
 <!ENTITY switchToNewTabs.accesskey    "s">
 
-<!ENTITY showTabsInTaskbar.label          "Show tab previews in the Windows taskbar">
+<!ENTITY showTabsInTaskbar.label          "Wys oortjievoorskoue in die Windows-taakbalk">
 <!ENTITY showTabsInTaskbar.accesskey      "k">

@@ -18,8 +18,8 @@ kontroleer vir bywerkings.">
 u het onvoldoende toestemming om dit te installeer. Kontak u 
 stelseladministrateur of probeer weer met 'n rekening wat wel toestemming 
 het om sagteware op hierdie rekenaar te installeer.">
-<!ENTITY  manualUpdate.space.desc         "A recommended security and stability update is available, but you do
-                                           not have enough space to install it.">
+<!ENTITY  manualUpdate.space.desc         "'n Aanbevole bywerking vir beveiliging en stabiliteit is beskikbaar, maar 
+jy het nie genoeg ruimte om dit te installeer nie.">
 <!ENTITY  manualUpdateGetMsg.label        "U kan altyd die jongste weergawe van &brandShortName; kry by:">
 
 <!ENTITY  incompatibleCheck.title         "Kontroleer of byvoegings versoenbaar is">
@@ -65,8 +65,8 @@ besoek en die jongste weergawe af te laai:">
 <!ENTITY  errorpatching.intro             "Die gedeeltelike bywerking kon nie toegepas word nie. 
 &brandShortName; sal weer probeer deur 'n volledige bywerking af te laai.">
 
-<!ENTITY  genericBackgroundError.label    "&brandShortName; is unable to determine if there is an update available. Please
-                                           make sure that you have the latest version of &brandShortName; from:">
+<!ENTITY  genericBackgroundError.label    "&brandShortName; kan nie bepaal of daar 'n bywerking is nie. Kontroleer 
+of jy die jongste weergawe van &brandShortName; het by:">
 <!ENTITY  errorCertAttrNoUpdate2.label    "Iets verhoed &brandShortName; om beveilig by te werk. 
 Kontroleer of jy die jongste weergawe van &brandShortName; het by:">
 <!ENTITY  errorCertAttrHasUpdate.label    "Iets probeer &brandShortName; om die bos lei om 'n onbeveiligde 
