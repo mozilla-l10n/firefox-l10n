@@ -37,8 +37,8 @@
 # ***** END LICENSE BLOCK *****
 -->
 
-<!ENTITY pageInfoWindow.width "৬০০">
-<!ENTITY pageInfoWindow.height "৭০০">
+<!ENTITY pageInfoWindow.width "600">
+<!ENTITY pageInfoWindow.height "700">
 
 <!ENTITY copy.key "C">
 <!ENTITY copy.label "অনুলিপি (C)">
