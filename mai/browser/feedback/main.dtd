@@ -21,6 +21,9 @@
 <!-- raw data dialog -->
 <!ENTITY testpilot.rawDataWindow.title                  "टेस्ट पाइलट: काँच आँकड़ा">
 
+<!ENTITY testpilot.broken.label      "ई वेबसाइटकेँ खंडित रूपेँ रिपोट करू…">
+<!ENTITY testpilot.idea.label        "हमलोकनिसभकेँ कोनो सलाह दिअ'…">
+
 <!-- notification -->
 <!ENTITY testpilot.notification.close.tooltip            "बन्न  करू ">
 

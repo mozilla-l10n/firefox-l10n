@@ -874,6 +874,8 @@ just addresses the organization to follow, e.g. "This site is run by " -->
 <!ENTITY printButton.label            "छापू">
 <!ENTITY printButton.tooltip          "ई पृष्ठ छापू">
 
+<!ENTITY toggleAddonBarCmd.key        "/">
+
 <!ENTITY locationItem.title           "स्थान">
 <!ENTITY searchItem.title             "खोज">
 <!ENTITY throbberItem.title           "क्रियाकलाप संकेतक">

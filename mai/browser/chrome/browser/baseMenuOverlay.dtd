@@ -14,14 +14,11 @@
 <!ENTITY aboutProduct.accesskey   "A">
 <!ENTITY productHelp.label        "&brandShortName;  मदति ">
 <!ENTITY productHelp.accesskey    "H">
-<!ENTITY helpForIEUsers.label     "Internet Explorer प्रयोक्ताक लेल">
-<!ENTITY helpForIEUsers.accesskey "I">
+
+
 <!ENTITY helpMac.commandkey       "?">
 <!ENTITY helpSafeMode.label       "सहयुक्तिक सँग फेर आरंभ  कएनाइ  निष्क्रिय…">
 <!ENTITY helpSafeMode.accesskey   "R">
-
-<!ENTITY helpReleaseNotes.label         "रिलीज नोट्स">
-<!ENTITY helpReleaseNotes.accesskey     "N">
 
 <!ENTITY helpTroubleshootingInfo.label      "विघ्ननिवारण सूचना">
 <!ENTITY helpTroubleshootingInfo.accesskey  "T">

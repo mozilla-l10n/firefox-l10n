@@ -13,9 +13,6 @@
 
 <!ENTITY abouthome.searchEngineButton.label "खोजू">
 
-<!ENTITY abouthome.searchEngineLinks.advanced "उन्नत खोज">
-<!ENTITY abouthome.searchEngineLinks.preferences "वरीयता">
-
 <!ENTITY abouthome.aboutMozilla "मोजिल्लाक परिचय">
 
 <!-- LOCALIZATION NOTE (abouthome.defaultSnippet1.v1):
