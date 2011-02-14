@@ -99,8 +99,8 @@
 <!ENTITY  permInstall           "Installeer uitbreidings of temas">
 <!ENTITY  permGeo               "Deel ligging">
 
-<!ENTITY  permIndexedDB              "Maintain Offline Storage">
-<!ENTITY  permClearStorage           "Clear Storage">
+<!ENTITY  permIndexedDB              "Onderhou vanlyn berging">
+<!ENTITY  permClearStorage           "Maak stoorruimte skoon">
 <!ENTITY  permClearStorage.accesskey "C">
 
 <!ENTITY  securityTab           "Sekuriteit">

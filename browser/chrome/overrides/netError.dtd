@@ -134,8 +134,8 @@ instaanbediener beskerm word, maak seker dat &brandShortName; toegelaat word om 
 <!ENTITY phishingBlocked.longDesc "<p>As u enige persoonlike inligting op hierdie bladsy intik, kan dit lei tot identiteitdiefstal of ander bedrog.</p> 
 <p>Hierdie soort kwaadwillige na-apery word gebruik in slap rieme genaamd uitvissing, waarin bedrieglike webwerwe en e-posse gebruik word om bronne na te aap wat u vertrou.</p>">
 
-<!ENTITY cspFrameAncestorBlocked.title "Blocked by Content Security Policy">
-<!ENTITY cspFrameAncestorBlocked.longDesc "<p>&brandShortName; prevented this page from loading in this way because the page has a content security policy that disallows it.</p>">
+<!ENTITY cspFrameAncestorBlocked.title "Geblokkeer deur inhoudbeveiligingsbeleid">
+<!ENTITY cspFrameAncestorBlocked.longDesc "<p>&brandShortName; het voorkom dat hierdie bladsy op hierdie manier laai want die bladsy het 'n inhoudbeveiligingsbeleid wat dit keer.</p>">
 
 <!ENTITY securityOverride.linkText "Of u kan 'n uitsondering byvoeg…">
 <!ENTITY securityOverride.getMeOutOfHereButton "Eina! Laat ek weg wees!">
@@ -146,9 +146,7 @@ button is included here (instead of netError.xhtml) because it exposes
 functionality specific to firefox. -->
 
 
-<!ENTITY securityOverride.warningContent "
-<p>You should not add an exception if you are using an internet connection that you do not trust completely or if you are not used to seeing a warning for this server.</p>
-
-<button id='getMeOutOfHereButton'>&securityOverride.getMeOutOfHereButton;</button>
-<button id='exceptionDialogButton'>&securityOverride.exceptionButtonLabel;</button>
-">
+<!ENTITY securityOverride.warningContent "<p>Jy moenie 'n uitsondering byvoeg as jy 'n internetverbinding gebruik wat jy nie volledig vertrou nie, of as jy nie gewoonlik 'n waarskuwing vir hierdie bediener sien nie.</p> 
+ 
+<button id='getMeOutOfHereButton'>&securityOverride.getMeOutOfHereButton;</button> 
+<button id='exceptionDialogButton'>&securityOverride.exceptionButtonLabel;</button>">

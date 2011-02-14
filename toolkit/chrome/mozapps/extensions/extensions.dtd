@@ -7,7 +7,7 @@
 <!ENTITY listEmpty.findUpdates.label          "Kontroleer vir bywerkings">
 <!ENTITY listEmpty.search.label               "Kon nie enige bypassende byvoegings vind nie">
 <!ENTITY listEmpty.button.label               "Kom meer te wete oor byvoegings">
-<!ENTITY installAddonFromFile.label           "Install Add-on From File…">
+<!ENTITY installAddonFromFile.label           "Installeer byvoeging uit lêer…">
 <!ENTITY installAddonFromFile.accesskey       "I">
 <!ENTITY toolsMenu.tooltip                    "Nutsgoed vir alle byvoegings">
 
@@ -18,10 +18,10 @@
 <!ENTITY warning.safemode.label                    "Alle byvoegings is deur veilige modus gedeaktiveer.">
 <!ENTITY warning.checkcompatibility.label          "Kontrolering of byvoegings versoenbaar is, is gedeaktiveer. U het moontlik onversoenbare byvoegings.">
 <!ENTITY warning.checkcompatibility.enable.label   "Aktiveer">
-<!ENTITY warning.checkcompatibility.enable.tooltip "Enable add-on compatibility checking">
+<!ENTITY warning.checkcompatibility.enable.tooltip "Aktiveer byvoeging-versoenbaarheidkontrole">
 <!ENTITY warning.updatesecurity.label              "Kontrolering vir bywerkings vir byvoegings is gedeaktiveer. U kan dalk deur bywerkings gekompromitteer word.">
 <!ENTITY warning.updatesecurity.enable.label       "Aktiveer">
-<!ENTITY warning.updatesecurity.enable.tooltip     "Enable add-on update security checking">
+<!ENTITY warning.updatesecurity.enable.tooltip     "Aktiveer byvoegingsbywerking-beveiliging-kontrole">
 <!-- categories / views -->
 
 <!ENTITY view.search.label                    "Soek">
@@ -42,18 +42,18 @@
 <!-- LOCALIZATION NOTE (updates.updateAddonsAutomatically.label): This menu item
      is a checkbox that toggles the default global behavior for add-on update
      checking. -->
-<!ENTITY updates.updateAddonsAutomatically.label     "Update Add-ons Automatically">
-<!ENTITY updates.updateAddonsAutomatically.accesskey "A">
+<!ENTITY updates.updateAddonsAutomatically.label     "Werk byvoegings outomaties by">
+<!ENTITY updates.updateAddonsAutomatically.accesskey "b">
 <!-- LOCALIZATION NOTE (updates.resetUpdatesToAutomatic.label, updates.resetUpdatesToManual.label):
      Specific addons can have custom update checking behaviors ("Manually",
      "Automatically", "Use default global behavior"). These menu items reset the
      update checking behavior for all add-ons to the default global behavior
      (which itself is either "Automatically" or "Manually", controlled by the
      updates.updateAddonsAutomatically.label menu item). -->
-<!ENTITY updates.resetUpdatesToAutomatic.label       "Reset All Add-ons to Update Automatically">
-<!ENTITY updates.resetUpdatesToAutomatic.accesskey   "R">
-<!ENTITY updates.resetUpdatesToManual.label          "Reset All Add-ons to Update Manually">
-<!ENTITY updates.resetUpdatesToManual.accesskey      "R">
+<!ENTITY updates.resetUpdatesToAutomatic.label       "Laai alle byvoegings terug om outomaties by te werk">
+<!ENTITY updates.resetUpdatesToAutomatic.accesskey   "L">
+<!ENTITY updates.resetUpdatesToManual.label          "Laai alle byvoegings terug om handmatig by te werk">
+<!ENTITY updates.resetUpdatesToManual.accesskey      "L">
 <!ENTITY updates.updating.label               "Byvoegings bywerk">
 <!ENTITY updates.installed.label              "Jou byvoegings is bygewerk.">
 <!ENTITY updates.downloaded.label             "Jou byvoeging-bywerkings is afgelaai.">
@@ -61,7 +61,7 @@
 <!ENTITY updates.noneFound.label              "Bywerkings vir byvoegings gevind">
 <!ENTITY updates.manualUpdatesFound.label     "Bekyk beskikbare bywerkings">
 <!ENTITY updates.updateSelected.label         "Installeer bywerkings">
-<!ENTITY updates.updateSelected.tooltip       "Install available updates in this list">
+<!ENTITY updates.updateSelected.tooltip       "Installeer beskikbare bywerkings in hierdie lys">
 <!-- addon actions -->
 
 <!ENTITY cmd.showDetails.label                "Wys meer inligting">
@@ -79,10 +79,10 @@
 <!ENTITY cmd.enableAddon.accesskey            "A">
 <!ENTITY cmd.disableAddon.label               "Deaktiveer">
 <!ENTITY cmd.disableAddon.accesskey           "a">
-<!ENTITY cmd.enableTheme.label                "Wear Theme">
-<!ENTITY cmd.enableTheme.accesskey            "W">
-<!ENTITY cmd.disableTheme.label               "Stop Wearing Theme">
-<!ENTITY cmd.disableTheme.accesskey           "W">
+<!ENTITY cmd.enableTheme.label                "Trek tema aan">
+<!ENTITY cmd.enableTheme.accesskey            "T">
+<!ENTITY cmd.disableTheme.label               "Trek tema uit">
+<!ENTITY cmd.disableTheme.accesskey           "e">
 <!ENTITY cmd.installAddon.label               "Installeer">
 <!ENTITY cmd.installAddon.accesskey           "I">
 <!ENTITY cmd.uninstallAddon.label             "Verwyder">
@@ -103,12 +103,12 @@
 <!-- LOCALIZATION NOTE (discover.title,discover.description,discover.footer):
      Displayed in the center of the Get Add-ons view, see bug 601143 for mockups. -->
 
-<!ENTITY discover.title                       "What are Add-ons?">
-<!ENTITY discover.description2                "Add-ons are applications that let you personalize &brandShortName; with
-  extra functionality or style. Try a time-saving sidebar, a weather notifier, or a themed look to make &brandShortName;
-  your own.">
-<!ENTITY discover.footer                      "When you're connected to the internet, this pane will feature
-  some of the best and most popular add-ons for you to try out.">
+<!ENTITY discover.title                       "Wat is byvoegings?">
+<!ENTITY discover.description2                "Byvoegings is toepassings waarmee jy &brandShortName; kan pasmaak met 
+ekstra funksionaliteit of styl. Daar is byvoorbeeld 'n kantbalk wat jou tyd spaar, 'n weerberig, of 'n tema wat &brandShortName; 
+meer laat lyk soos jy daarvan hou.">
+<!ENTITY discover.footer                      "Wanneer jy aan die internet gekoppel is, sal hierdie paneel van die 
+beste en gewildste byvoegings bevat wat jy kan probeer.">
 <!-- detail view -->
 
 <!ENTITY detail.version.label                 "Weergawe">
@@ -121,7 +121,7 @@
 
 <!ENTITY detail.updateType                    "Outobywerkings">
 <!ENTITY detail.updateDefault.label           "Verstek">
-<!ENTITY detail.updateDefault.tooltip         "Automatically install updates only if that's the default">
+<!ENTITY detail.updateDefault.tooltip         "Installeer bywerkings outomaties net as dit die verstek is">
 <!ENTITY detail.updateAutomatic.label         "Aan">
 <!ENTITY detail.updateAutomatic.tooltip       "Installeer bywerkings outomaties">
 <!ENTITY detail.updateManual.label            "Af">
@@ -156,8 +156,8 @@
 <!ENTITY sort.dateUpdated.tooltip             "Rangskik volgens datum bygewerk">
 <!ENTITY sort.relevance.label                 "Beste passende">
 <!ENTITY sort.relevance.tooltip               "Rangskik volgens relevansie">
-<!ENTITY sort.price.label                     "Price">
-<!ENTITY sort.price.tooltip                   "Sort by price">
+<!ENTITY sort.price.label                     "Prys">
+<!ENTITY sort.price.tooltip                   "Rangskik volgens prys">
 
 <!ENTITY search.filter2.label                 "Soektog:">
 <!ENTITY search.filter2.installed.label       "My byvoegings">
@@ -188,7 +188,7 @@
 <!ENTITY addon.updateNow.label                "Opdateer nou">
 <!ENTITY addon.updateNow.tooltip              "Installeer die bywerking vir hierdie byvoeging">
 <!ENTITY addon.includeUpdate.label            "Sluit by bywerking in">
-<!ENTITY addon.updateAvailable.label          "An update is available">
+<!ENTITY addon.updateAvailable.label          "'n Bywerking is beskikbaar">
 <!ENTITY addon.checkingForUpdates.label       "Kontroleer vir bywerkings…">
 <!ENTITY addon.releaseNotes.label             "Vrystellingaantekeninge:">
 <!ENTITY addon.loadingReleaseNotes.label      "Laai tans…">

@@ -17,7 +17,7 @@
 <!ENTITY useAutoScroll.accesskey         "a">
 <!ENTITY useSmoothScrolling.label        "Gebruik gladde rol">
 <!ENTITY useSmoothScrolling.accesskey    "a">
-<!ENTITY allowHWAccel.label              "Use hardware acceleration when available">
+<!ENTITY allowHWAccel.label              "Gebruik hardewareversnelling wanneer beskikbaar">
 <!ENTITY allowHWAccel.accesskey          "h">
 <!ENTITY checkSpelling.label             "Kontroleer my spelling terwyl ek tik">
 <!ENTITY checkSpelling.accesskey         "i">
@@ -49,12 +49,12 @@
   &limitCacheSizeBefore.label [textbox for cache size in MB] &limitCacheSizeAfter.label;
 -->
 
-<!ENTITY limitCacheSizeBefore.label      "Limit cache to">
-<!ENTITY limitCacheSizeBefore.accesskey  "L">
+<!ENTITY limitCacheSizeBefore.label      "Beperk kas tot">
+<!ENTITY limitCacheSizeBefore.accesskey  "B">
 <!ENTITY limitCacheSizeAfter.label       "MB of space">
 <!ENTITY clearCacheNow.label             "Maak nou skoon">
 <!ENTITY clearCacheNow.accesskey         "M">
-<!ENTITY overrideSmartCacheSize.label    "Override automatic cache management">
+<!ENTITY overrideSmartCacheSize.label    "Oorheers outomatiese kasbestuur">
 <!ENTITY overrideSmartCacheSize.accesskey "O">
 
 <!ENTITY updateTab.label                 "Bywerk">

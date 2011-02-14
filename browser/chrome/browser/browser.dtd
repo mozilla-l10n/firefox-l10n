@@ -24,15 +24,15 @@ left edge of the tabstrip. Really we just want the string to express the idea
 that this is a lightweight and reversible action that keeps your tab where you
 can reach it easily. -->
 
-<!ENTITY  pinAppTab.label                    "Pin as App Tab">
-<!ENTITY  pinAppTab.accesskey                "P">
-<!ENTITY  unpinAppTab.label                  "Unpin Tab">
-<!ENTITY  unpinAppTab.accesskey              "b">
+<!ENTITY  pinAppTab.label                    "Steek vas as toepassing-oortjie">
+<!ENTITY  pinAppTab.accesskey                "S">
+<!ENTITY  unpinAppTab.label                  "Trek oortjie los">
+<!ENTITY  unpinAppTab.accesskey              "t">
 <!ENTITY  moveToGroup.label                  "Skuif na groep">
 <!ENTITY  moveToGroup.accesskey              "S">
 <!ENTITY  moveToNewGroup.label               "Nuwe groep">
-<!ENTITY  moveToNewWindow.label              "Move to New Window">
-<!ENTITY  moveToNewWindow.accesskey          "W">
+<!ENTITY  moveToNewWindow.label              "Skuif na nuwe venster">
+<!ENTITY  moveToNewWindow.accesskey          "v">
 <!ENTITY  bookmarkAllTabs.label              "Boekmerk alle oortjies…">
 <!ENTITY  bookmarkAllTabs.accesskey          "o">
 <!ENTITY  undoCloseTab.label                 "Ontdoen oortjie sluit">
@@ -70,8 +70,8 @@ can reach it easily. -->
 <!ENTITY personalbarCmd.label "Boekmerknutsbalk">
 <!ENTITY personalbarCmd.accesskey "B">
 <!ENTITY bookmarksToolbarItem.label "Boekmerknutsbalk-items">
-<!ENTITY addonBarCmd.label "Add-on Bar">
-<!ENTITY addonBarCmd.accesskey "A">
+<!ENTITY addonBarCmd.label "Byvoeging-balk">
+<!ENTITY addonBarCmd.accesskey "B">
 
 <!ENTITY pageSourceCmd.label "Bladsybron">
 <!ENTITY pageSourceCmd.accesskey "r">
@@ -103,7 +103,7 @@ can reach it easily. -->
 <!ENTITY subscribeToPageMenupopup.label "Teken in op hierdie bladsy">
 <!ENTITY subscribeToPageMenuitem.label "Teken in op hierdie bladsy…">
 <!ENTITY addCurPagesCmd.label "Boekmerk alle oortjies…">
-<!ENTITY showAllBookmarks2.label "Show All Bookmarks">
+<!ENTITY showAllBookmarks2.label "Wys alle boekmerke">
 <!ENTITY bookmarkAllCmd.label "Boekmerk alle oortjies…">
 <!ENTITY bookmarksToolbarChevron.tooltip "Wys meer boekmerke">
 
@@ -131,8 +131,8 @@ can reach it easily. -->
 <!ENTITY bookmarksItem.title          "Boekmerke">
 <!-- Toolbar items --> 
 
-<!ENTITY appMenuButton.label          "Menu">
-<!ENTITY appMenuButton.tooltip        "Open &brandShortName; menu">
+<!ENTITY appMenuButton.label          "Kieslys">
+<!ENTITY appMenuButton.tooltip        "Open &brandShortName;-kieslys">
 <!ENTITY homeButton.label             "Tuis">
 
 <!ENTITY tabGroupsButton.label        "Oortjie-groepe">
@@ -282,10 +282,10 @@ can reach it easily. -->
 <!ENTITY appMenuSidebars.label "Kantstawe">
 <!ENTITY appMenuFind.label "Vind…">
 <!ENTITY appMenuUnsorted.label "Ongeliasseerde boekmerke">
-<!ENTITY appMenuWebDeveloper.label "Web Developer">
+<!ENTITY appMenuWebDeveloper.label "Webontwikkelaar">
 <!ENTITY appMenuGettingStarted.label "Hoe om te begin">
-<!ENTITY appMenuSafeMode.label "Restart with Add-ons Disabled…">
-<!ENTITY appMenuSafeMode.accesskey "R">
+<!ENTITY appMenuSafeMode.label "Herbegin met byvoegings gedeaktiveer…">
+<!ENTITY appMenuSafeMode.accesskey "H">
 
 <!ENTITY openCmd.commandkey           "l">
 <!ENTITY urlbar.placeholder           "Gaan na 'n webwerf">
@@ -461,7 +461,7 @@ you can use these alternative items. Otherwise, their values should be empty.  -
 
 <!ENTITY zoomOutButton.tooltip          "Zoem uit">
 <!ENTITY zoomInButton.tooltip           "Zoem in">
-<!ENTITY zoomControls.label             "Zoom Controls">
+<!ENTITY zoomControls.label             "Zoemkontroles">
 
 <!ENTITY quitApplicationCmdWin.label       "Afsluit">
 <!ENTITY quitApplicationCmdWin.accesskey   "s">
@@ -550,4 +550,5 @@ just addresses the organization to follow, e.g. "This site is run by " -->
 <!ENTITY syncSyncNowItem.accesskey    "S">
 <!ENTITY syncToolbarButton.label      "Sync">
 
-<!ENTITY addonBarCloseButton.tooltip  "Close Add-on Bar">
+<!ENTITY addonBarCloseButton.tooltip  "Maak byvoeging-staaf toe">
+<!ENTITY toggleAddonBarCmd.key        "/">

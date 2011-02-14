@@ -2,7 +2,7 @@
 <!-- First page of the wizard -->
 
 
-<!ENTITY setup.pickSetupType.description "Welcome, if you've never used &syncBrand.fullName.label; before, you will need to create a new account.">
+<!ENTITY setup.pickSetupType.description "Welkom! As jy nog nooit &syncBrand.fullName.label; gebruik het nie, moet jy 'n nuwe rekening opstel.">
 <!ENTITY button.createNewAccount.label "Skep 'n nuwe rekening">
 <!ENTITY setup.haveAccount.label "Ek het reeds 'n &syncBrand.fullName.label;-rekening.">
 <!ENTITY button.connect.label    "Koppel">
@@ -19,8 +19,8 @@
 <!ENTITY signIn.account2.accesskey  "R">
 <!ENTITY signIn.password.label      "Wagwoord">
 <!ENTITY signIn.password.accesskey  "W">
-<!ENTITY signIn.syncKey.label       "Sync Key">
-<!ENTITY signIn.syncKey.accesskey   "K">
+<!ENTITY signIn.syncKey.label       "Sync-sleutel">
+<!ENTITY signIn.syncKey.accesskey   "s">
 <!-- New Account Page 1: Basic Account Info -->
 
 <!ENTITY setup.newAccountDetailsPage.title.label "Rekeningdetails">
@@ -39,12 +39,12 @@
 <!ENTITY setup.tosAgree2.accesskey  "">
 <!-- New Account Page 2: Sync Key -->
 
-<!ENTITY setup.newSyncKeyPage.title.label "&brandShortName; Cares About Your Privacy">
-<!ENTITY setup.newSyncKeyPage.description.label "To ensure your total privacy, all of your data is encrypted prior to being uploaded. The Sync Key which is necessary to decrypt your data is not uploaded.">
-<!ENTITY syncKeyEntry.label        "Your Sync Key">
-<!ENTITY syncKeyEntry.accesskey    "K">
+<!ENTITY setup.newSyncKeyPage.title.label "&brandShortName; is besorg oor jou privaatheid">
+<!ENTITY setup.newSyncKeyPage.description.label "Om algehele privaatheid te verseker word al jou data geënkripteer voor dit opgelaai word. Die Sync-sleutel wat nodig is om jou data mee te dekripteer, word nie opgelaai nie.">
+<!ENTITY syncKeyEntry.label        "Jou Sync-sleutel">
+<!ENTITY syncKeyEntry.accesskey    "s">
 <!ENTITY syncKeyGenerate.label     "Genereer">
-<!ENTITY syncKeyBackup.description "Your Sync Key is required to access &syncBrand.fullName.label; on other machines. Please create a backup copy. We cannot help you recover your Sync Key.">
+<!ENTITY syncKeyBackup.description "Jou Sync-sleutel is nodig om &syncBrand.fullName.label; op ander rekenaars te bekyk. Maak asseblief 'n dekkopie. Ons kan jou nie help om jou Sync-sleutel te herwin nie.">
 
 <!ENTITY button.syncKeyBackup.print.label     "Druk…">
 <!ENTITY button.syncKeyBackup.print.accesskey "D">
@@ -54,21 +54,21 @@
 
 <!ENTITY setup.captchaPage2.title.label     "Bevestig dat jy nie 'n robot is nie">
 <!-- Existing Account Page 1: Add Device (incl. Add a Device dialog strings) -->
-<!ENTITY addDevice.title.label              "Add a Device">
-<!ENTITY addDevice.showMeHow.label          "Show me how.">
-<!ENTITY addDevice.dontHaveDevice.label     "I don't have the device with me">
-<!ENTITY addDevice.setup.description.label  "To activate, go to &syncBrand.shortName.label; Options on your other device and select &#x0022;Add a Device&#x0022;.">
-<!ENTITY addDevice.setup.enterCode.label    "Then, enter this code:">
-<!ENTITY addDevice.dialog.description.label "To activate your new device, go to &syncBrand.shortName.label; Options on the device and select &#x0022;Connect.&#x0022;">
-<!ENTITY addDevice.dialog.enterCode.label   "Enter the code that the device provides:">
-<!ENTITY addDevice.dialog.tryAgain.label    "Please try again.">
-<!ENTITY addDevice.dialog.successful.label  "The device has been successfully added. The initial synchronization can take several minutes and will finish in the background.">
-<!ENTITY addDevice.dialog.syncKey.label     "To activate your device you will need to enter your Sync Key. Please print or save this key and take it with you.">
-<!ENTITY addDevice.dialog.connected.label   "Device Connected">
+<!ENTITY addDevice.title.label              "Voeg toestel by">
+<!ENTITY addDevice.showMeHow.label          "Wys my hoe.">
+<!ENTITY addDevice.dontHaveDevice.label     "Ek het nie 'n toestel by my nie">
+<!ENTITY addDevice.setup.description.label  "Om te aktiveer, gaan na &syncBrand.shortName.label; se Opsies op jou ander toestel en kies &#x0022;Voeg 'n toestel by&#x0022;.">
+<!ENTITY addDevice.setup.enterCode.label    "Tik dan hierdie kode in:">
+<!ENTITY addDevice.dialog.description.label "Om jou nuwe toestel te aktiveer, gaan na &syncBrand.shortName.label; se Opsies op die toestel en kies &#x0022;Koppel&#x0022;.">
+<!ENTITY addDevice.dialog.enterCode.label   "Tik die kode wat die toestel gee:">
+<!ENTITY addDevice.dialog.tryAgain.label    "Probeer gerus weer.">
+<!ENTITY addDevice.dialog.successful.label  "Die toestel is suksesvol bygevoeg. Die aanvanklike sinkronisering kan lank duur en sal in die agtergrond klaarmaak.">
+<!ENTITY addDevice.dialog.syncKey.label     "Om jou toestel te aktiveer moet jy jou Sync-sleutel intik. Druk of stoor hierdie sleutel en neem dit saam.">
+<!ENTITY addDevice.dialog.connected.label   "Toestel gekoppel">
 <!-- Existing Account Page 2: Manual Login -->
 
-<!ENTITY setup.signInPage.title.label "Sign In">
-<!ENTITY existingSyncKey.description "You can get a copy of your Sync Key by going to &syncBrand.shortName.label; Options on your other device, and selecting  &#x0022;My Sync Key&#x0022; under &#x0022;Manage Account&#x0022;.">
+<!ENTITY setup.signInPage.title.label "Meld aan">
+<!ENTITY existingSyncKey.description "Om 'n afskrif van jou Sync-sleutel te kry, gaan na &syncBrand.shortName.label; se Opsies op jou ander toestel, en kies &#x0022;My Sync-sleutel&#x0022; in &#x0022;Bestuur rekening&#x0022;.">
 <!ENTITY verifying.label              "Verifieer tans..">
 <!ENTITY resetPassword.label          "Stel wagwoord terug">
 <!ENTITY resetSyncKey.label           "I have lost my other device.">
@@ -78,7 +78,7 @@
 <!ENTITY syncComputerName.label       "Rekenaarnaam:">
 <!ENTITY syncComputerName.accesskey   "R">
 
-<!ENTITY syncMy.label               "Sync My">
+<!ENTITY syncMy.label               "Sync my">
 <!ENTITY engine.bookmarks.label     "Boekmerke">
 <!ENTITY engine.bookmarks.accesskey "m">
 <!ENTITY engine.tabs.label          "Oortjies">
@@ -93,16 +93,16 @@
 <!ENTITY choice2.merge.main.label      "Voeg hierdie rekenaar se data saam met my &syncBrand.shortName.label;-data">
 <!ENTITY choice2.merge.recommended.label "Aanbevole:">
 <!ENTITY choice2.client.main.label     "Vervang alle data op hierdie rekenaar met my &syncBrand.shortName.label;-data">
-<!ENTITY choice2.server.main.label     "Replace all other devices with this computer's data">
+<!ENTITY choice2.server.main.label     "Vervang alle ander toestelle met hierdie rekenaar se data">
 <!-- Confirm Merge Options -->
 
 <!ENTITY setup.optionsConfirmPage.title "Bevestig">
-<!ENTITY confirm.merge.label    "&syncBrand.fullName.label; will now merge all this computer's browser data into your Sync account.">
-<!ENTITY confirm.client2.label         "Warning: The following &brandShortName; data on this computer will be deleted:">
+<!ENTITY confirm.merge.label    "&syncBrand.fullName.label; sal nou al hierdie rekenaar se blaaier se data met jou Sync-rekening saamvoeg.">
+<!ENTITY confirm.client2.label         "Let wel: Die volgende &brandShortName;-data op hierdie rekenaar sal geskrap word:">
 <!ENTITY confirm.client.moreinfo.label "&brandShortName; sal dan jou &syncBrand.fullName.label;-data na hierdie rekenaar kopieer.">
 <!ENTITY confirm.server2.label         "Let wel: Die volgende toestelle sal met jou plaaslike data oorheengeskryf word:">
 <!-- New & Existing Account: Setup Complete -->
 
 <!ENTITY setup.successPage.title "Opstelling afgehandel">
-<!ENTITY changeOptions.label "You can change this preference by selecting Sync Options below.">
-<!ENTITY continueUsing.label "You may now continue using &brandShortName;.">
+<!ENTITY changeOptions.label "Jy kan daardie voorkeur verander deur Sync-opsies hier onder te kies.">
+<!ENTITY continueUsing.label "Jy kan nou voortgaan om &brandShortName; te gebruik.">
