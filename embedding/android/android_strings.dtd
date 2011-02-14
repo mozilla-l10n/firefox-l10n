@@ -11,3 +11,7 @@
 <!ENTITY crash_close_label "Loka">
 <!ENTITY crash_restart_label "Endurræsa &brandShortName;">
 <!ENTITY sending_crash_report "Sendi hrunskýrslu\u2026">
+<!ENTITY exit_label "Hætta">
+<!ENTITY incompatable_device "&brandShortName; styður ekki þetta tæki og þar með gætir þú lent í
+vandræðum.">
+<!ENTITY continue_label "Halda áfram">

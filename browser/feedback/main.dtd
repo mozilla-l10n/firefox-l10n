@@ -25,3 +25,5 @@
 <!ENTITY testpilot.feedbackbutton.label "Skoðun">
 <!ENTITY testpilot.happy.label "Ég er ánægður með Firefox vegna þess að…">
 <!ENTITY testpilot.sad.label "Ég er óánægður með Firefox vegna þess að…">
+<!ENTITY testpilot.broken.label "Tilkynna að þetta vefsvæði sé bilað…">
+<!ENTITY testpilot.idea.label "Sendu okkur uppástungu…">
