@@ -4,6 +4,9 @@
 
 <!ENTITY accessibility.label             "पहुँच">
 
+<!ENTITY doNotTrack.label                "ओ वेबसाइट बताउ जकरामे हम ट्रैक होएबाक लेल नहि चाहैत छी">
+<!ENTITY doNotTrack.accesskey            "d">
+
 <!ENTITY useCursorNavigation.label       "पृष्ठक अंदर संचरणक लेल हरदम कर्सरक प्रयोग करू ">
 <!ENTITY useCursorNavigation.accesskey   "c">
 <!ENTITY searchStartTyping.label         "टाइप करबाक दौरान शुरू करैत पाठक लेल खोजू">
