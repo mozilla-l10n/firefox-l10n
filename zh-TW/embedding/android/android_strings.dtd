@@ -13,3 +13,5 @@
 <!ENTITY  crash_restart_label "重開 &brandShortName;">
 <!ENTITY  sending_crash_report "正在傳送錯誤報告\u2026">
 <!ENTITY  exit_label "結束">
+<!ENTITY  incompatable_device "&brandShortName; 不支援此裝置，您可能會遇到問題。">
+<!ENTITY  continue_label "繼續">

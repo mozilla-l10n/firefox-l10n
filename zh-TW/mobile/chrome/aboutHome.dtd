@@ -8,3 +8,6 @@
 <!ENTITY aboutHome.openAllTabs                  "全部用分頁開啟">
 <!ENTITY aboutHome.noTabs                       "沒有上一次開啟的分頁">
 <!ENTITY aboutHome.noAddons                     "沒有推薦的附加元件">
+
+<!-- LOCALIZATION NOTE: 'Firefox Spark' is the official name of the promotion and should not be translated -->
+<!ENTITY aboutHome.promoSpark                   "玩玩 Firefox Spark">
