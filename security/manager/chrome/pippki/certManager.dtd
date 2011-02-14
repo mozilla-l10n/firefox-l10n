@@ -105,8 +105,8 @@
 <!ENTITY certmgr.close.accesskey              "S">
 <!ENTITY certmgr.view2.label                  "Bekyk…">
 <!ENTITY certmgr.view2.accesskey              "B">
-<!ENTITY certmgr.edit3.label                  "Edit Trust…">
-<!ENTITY certmgr.edit3.accesskey              "E">
+<!ENTITY certmgr.edit3.label                  "Redigeer vertroue…">
+<!ENTITY certmgr.edit3.accesskey              "R">
 <!ENTITY certmgr.editca.label                 "Redigeer SO-vertroue">
 <!ENTITY certmgr.editca.accesskey             "e">
 <!ENTITY certmgr.add.label                    "Voeg by">
@@ -115,8 +115,8 @@
 <!ENTITY certmgr.export.accesskey             "i">
 <!ENTITY certmgr.delete2.label                "Skrap…">
 <!ENTITY certmgr.delete2.accesskey            "S">
-<!ENTITY certmgr.delete_builtin.label         "Delete or Distrust…">
-<!ENTITY certmgr.delete_builtin.accesskey     "D">
+<!ENTITY certmgr.delete_builtin.label         "Skrap of wantrou…">
+<!ENTITY certmgr.delete_builtin.accesskey     "S">
 <!ENTITY certmgr.backup2.label                "Rugsteun…">
 <!ENTITY certmgr.backup2.accesskey            "R">
 <!ENTITY certmgr.backupall2.label             "Rugsteun alles…">
