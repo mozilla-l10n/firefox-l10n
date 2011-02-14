@@ -10,8 +10,6 @@
 -->
 <!ENTITY abouthome.brandStart "<span>&brandShortName;</span>">
 <!ENTITY abouthome.searchEngineButton.label "Leita">
-<!ENTITY abouthome.searchEngineLinks.advanced "Ítarleg leit">
-<!ENTITY abouthome.searchEngineLinks.preferences "Valkostir">
 <!ENTITY abouthome.aboutMozilla "Um Mozilla">
 <!-- LOCALIZATION NOTE (abouthome.defaultSnippet1.v1):
      text in <a/> will be linked to the Firefox features page on mozilla.com
