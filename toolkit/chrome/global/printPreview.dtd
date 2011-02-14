@@ -45,7 +45,7 @@
 <!ENTITY scale.accesskey      "S">
 
 <!ENTITY portrait.label "व्यक्तिचित्र">
-<!ENTITY portrait.accesskey "t">
+<!ENTITY portrait.accesskey "o">
 <!ENTITY landscape.label "भूदृश्य">
 <!ENTITY landscape.accesskey "L">
 <!ENTITY close.label "बंद करें">
