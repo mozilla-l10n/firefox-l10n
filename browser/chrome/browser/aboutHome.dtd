@@ -6,11 +6,6 @@
 
 <!ENTITY abouthome.pageTitle "Eka paĝo de &brandFullName;">
 
-<!-- LOCALIZATION NOTE (abouthome.brandStart):
-     brandShortName must be in a <span/>
--->
-<!ENTITY abouthome.brandStart "Eko de <span>&brandShortName;</span>">
-
 <!ENTITY abouthome.searchEngineButton.label "Serĉi">
 
 <!ENTITY abouthome.aboutMozilla "Pri Mozilla">
@@ -22,4 +17,4 @@
 <!-- LOCALIZATION NOTE (abouthome.defaultSnippet2.v1):
      text in <a/> will be linked to the featured add-ons on addons.mozilla.org
 -->
-<!ENTITY abouthome.defaultSnippet2.v1 "Agordi vian Firefox ekzakte kiel vi ĝin volas estas tre facila. <a>Elektu inter miloj de aldonaĵoj</a>.">
+<!ENTITY abouthome.defaultSnippet2.v1 "Agordi vian Firefox ekzakte kiel vi ĝin volas estas tre facile. <a>Elektu inter miloj de aldonaĵoj</a>.">
