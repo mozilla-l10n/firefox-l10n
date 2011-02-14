@@ -13,9 +13,6 @@
 
 <!ENTITY abouthome.searchEngineButton.label "Klask">
 
-<!ENTITY abouthome.searchEngineLinks.advanced "Klask kempleshoc'h">
-<!ENTITY abouthome.searchEngineLinks.preferences "Gwellvezioù">
-
 <!ENTITY abouthome.aboutMozilla "A-zivout Mozilla">
 
 <!-- LOCALIZATION NOTE (abouthome.defaultSnippet1.v1):
