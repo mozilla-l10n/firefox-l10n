@@ -10,6 +10,9 @@
 <!ENTITY testpilot.allYourStudies.label             "आपके सभी उपयोक्ता अध्ययन…">
 <!ENTITY testpilot.about.label                      "टेस्ट पाइलट का परिचय">
 
+<!ENTITY testpilot.broken.label      "इस वेबसाइट को बतौर खंडित रिपोर्ट करें…">
+<!ENTITY testpilot.idea.label        "हमें कोई सलाह दें…">
+
 <!-- all studies window -->
 <!ENTITY testpilot.studiesWindow.title                  "आपका टेस्ट पाइलट अध्ययन">
 <!ENTITY testpilot.studiesWindow.currentStudies.label   "मौजूदा अध्ययन">

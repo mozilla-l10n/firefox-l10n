@@ -26,6 +26,8 @@
 <!ENTITY import.label "आयात करें…">
 <!ENTITY import.accesskey "I">
 
+<!ENTITY toggleAddonBarCmd.key        "/">
+
 <!ENTITY goOfflineCmd.label "ऑफ़लाइन काम करें">
 <!ENTITY goOfflineCmd.accesskey "w">
 
