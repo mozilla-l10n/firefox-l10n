@@ -21,8 +21,8 @@
 <!ENTITY allowHWAccel.accesskey          "h">
 <!ENTITY checkSpelling.label             "Kontroleer my spelling terwyl ek tik">
 <!ENTITY checkSpelling.accesskey         "i">
-<!ENTITY doNotTrack.label                "Tell web sites I do not want to be tracked">
-<!ENTITY doNotTrack.accesskey            "d">
+<!ENTITY doNotTrack.label                "Vertel webwerwe dat ek nie gemonitor wil word nie">
+<!ENTITY doNotTrack.accesskey            "n">
 
 <!ENTITY systemDefaults.label            "Stelselverstek">
 <!--XXX-->
@@ -51,7 +51,7 @@
 
 <!ENTITY limitCacheSizeBefore.label      "Beperk kas tot">
 <!ENTITY limitCacheSizeBefore.accesskey  "B">
-<!ENTITY limitCacheSizeAfter.label       "MB of space">
+<!ENTITY limitCacheSizeAfter.label       "MB spasie">
 <!ENTITY clearCacheNow.label             "Maak nou skoon">
 <!ENTITY clearCacheNow.accesskey         "M">
 <!ENTITY overrideSmartCacheSize.label    "Oorheers outomatiese kasbestuur">

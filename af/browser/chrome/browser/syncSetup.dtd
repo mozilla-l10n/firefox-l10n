@@ -71,7 +71,7 @@
 <!ENTITY existingSyncKey.description "Om 'n afskrif van jou Sync-sleutel te kry, gaan na &syncBrand.shortName.label; se Opsies op jou ander toestel, en kies &#x0022;My Sync-sleutel&#x0022; in &#x0022;Bestuur rekening&#x0022;.">
 <!ENTITY verifying.label              "Verifieer tans..">
 <!ENTITY resetPassword.label          "Stel wagwoord terug">
-<!ENTITY resetSyncKey.label           "I have lost my other device.">
+<!ENTITY resetSyncKey.label           "Ek het my ander toestel verloor.">
 <!-- Sync Options -->
 
 <!ENTITY setup.optionsPage.title      "Sync-opsies">
