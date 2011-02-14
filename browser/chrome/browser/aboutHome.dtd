@@ -7,8 +7,6 @@
 <!ENTITY abouthome.pageTitle "Αρχική σελίδα &brandFullName;">
 
 
-<!-- LOCALIZATION NOTE (brandStart): brandShortName must be in a <span/> -->
-<!ENTITY abouthome.brandStart "<span>&brandShortName;</span> Start">
 
 
 <!ENTITY abouthome.searchEngineButton.label "Αναζήτηση">
