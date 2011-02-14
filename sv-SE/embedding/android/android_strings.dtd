@@ -13,3 +13,5 @@
 <!ENTITY  crash_restart_label "Starta om &brandShortName;">
 <!ENTITY  sending_crash_report "Skickar kraschrapport\u2026">
 <!ENTITY  exit_label "Avsluta">
+<!ENTITY  incompatable_device "&brandShortName; stöder inte den här enheten och du kan stöta på problem.">
+<!ENTITY  continue_label "Fortsätt">
