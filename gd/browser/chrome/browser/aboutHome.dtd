@@ -9,7 +9,6 @@
 <!-- LOCALIZATION NOTE (abouthome.brandStart):
      brandShortName must be in a <span/>
 -->
-<!ENTITY abouthome.brandStart "<span>&brandShortName;</span> Tòiseachadh">
 
 <!ENTITY abouthome.searchEngineButton.label "Lorg">
 
