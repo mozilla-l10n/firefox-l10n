@@ -9,7 +9,7 @@
 <!-- LOCALIZATION NOTE (abouthome.brandStart):
      brandShortName must be in a <span/>
 -->
-<!ENTITY abouthome.brandStart "<span>&brandShortName;</span> ആരംഭിയ്ക്കുക">
+<!-- ENTITY abouthome.brandStart "<span>&brandShortName;</span> ആരംഭിയ്ക്കുക" -->
 
 <!ENTITY abouthome.searchEngineButton.label "തെരയുക">
 
