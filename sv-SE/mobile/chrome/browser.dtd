@@ -110,6 +110,4 @@
 <!ENTITY pageactions.findInPage      "Sök i sidan">
 <!ENTITY pageactions.search.addNew   "Lägg till sökmotor">
 
-<!ENTITY selectHelper.emptytext      "Filtrera lista">
-
 <!ENTITY appMenu.siteOptions         "Platsalternativ">
