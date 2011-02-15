@@ -6,11 +6,6 @@
 
 <!ENTITY abouthome.pageTitle "Pennbajenn &brandFullName;">
 
-<!-- LOCALIZATION NOTE (abouthome.brandStart):
-     brandShortName must be in a <span/>
--->
-<!ENTITY abouthome.brandStart "Kregiñ gant <span>&brandShortName;</span>">
-
 <!ENTITY abouthome.searchEngineButton.label "Klask">
 
 <!ENTITY abouthome.aboutMozilla "A-zivout Mozilla">
