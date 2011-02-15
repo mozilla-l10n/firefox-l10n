@@ -1,4 +1,4 @@
-<!ENTITY accountSetupTitle.label    "&syncBrand.fullName.label; oppsett">
+<!ENTITY accountSetupTitle.label    "Innstillingar for &syncBrand.fullName.label;">
 
 <!-- First page of the wizard -->
 
@@ -13,7 +13,7 @@
 
 <!-- New Account AND Existing Account -->
 <!ENTITY server.label               "Tenar">
-<!ENTITY serverType.main.label      "&syncBrand.fullName.label;-tenaren">
+<!ENTITY serverType.main.label      "&syncBrand.fullName.label;">
 <!ENTITY serverType.custom2.label   "Bruk ein annan tenar …">
 <!ENTITY signIn.account2.label      "Konto">
 <!ENTITY signIn.account2.accesskey  "K">
