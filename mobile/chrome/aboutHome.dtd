@@ -8,3 +8,6 @@
 <!ENTITY aboutHome.openAllTabs          "Iepenje alles yn ljepblêden">
 <!ENTITY aboutHome.noTabs               "Gjin ljepblêden fan de lêste kear">
 <!ENTITY aboutHome.noAddons             "Gjin oanrikkemandearre tafoegings">
+
+<!-- LOCALIZATION NOTE: 'Firefox Spark' is the official name of the promotion and should not be translated -->
+<!ENTITY aboutHome.promoSpark                   "Spylje Firefox Spark">
