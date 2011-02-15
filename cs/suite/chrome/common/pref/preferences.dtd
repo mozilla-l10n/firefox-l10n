@@ -31,6 +31,7 @@
 <!ENTITY smart.label "Instalace software">
 <!ENTITY download.label "Stahování">
 <!ENTITY keynav.label "Navigace klávesnicí">
+<!ENTITY findAsYouType.label "Najít přímo při psaní">
 <!ENTITY search.label "Hledání na webu">
 <!ENTITY policies.label "Zabezpečení">
 <!ENTITY mousewheel.label "Kolečko myši">

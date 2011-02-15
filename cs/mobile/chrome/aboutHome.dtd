@@ -8,3 +8,6 @@
 <!ENTITY aboutHome.openAllTabs "Otevřít vše v panelech">
 <!ENTITY aboutHome.noTabs "Žádné panely z minula">
 <!ENTITY aboutHome.noAddons "Žádné doporučené doplňky">
+
+<!-- LOCALIZATION NOTE: 'Firefox Spark' is the official name of the promotion and should not be translated -->
+<!ENTITY aboutHome.promoSpark "Hrát Firefox Spark">

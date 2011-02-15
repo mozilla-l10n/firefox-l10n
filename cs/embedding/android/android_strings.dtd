@@ -13,3 +13,6 @@
 <!ENTITY crash_restart_label "Restartovat &brandShortName;">
 <!ENTITY sending_crash_report "Odesílání hlášení o pádu\u2026">
 <!ENTITY exit_label "Ukončit">
+<!ENTITY incompatable_device "Toto zařízení není aplikací &brandShortName; podporováno a můžete očekávat problémy.">
+
+<!ENTITY continue_label "Pokračovat">

@@ -110,6 +110,4 @@
 <!ENTITY pageactions.findInPage "Hledat ve stránce">
 <!ENTITY pageactions.search.addNew "Přidat vyhledávací modul">
 
-<!ENTITY selectHelper.emptytext "Filtrovat seznam">
-
 <!ENTITY appMenu.siteOptions "Možnosti serveru">

@@ -6,19 +6,3 @@
 <!ENTITY tabNavigationForms.accesskey "T">
 <!ENTITY tabNavigationTextboxes.label "Pozn.: Vstupní textová políčka jsou vždy součástí přepínání.">
 <!ENTITY tabNavigationDesc.label "Pokud je stisknut Tab nebo Shift+Tab, přepnout mezi:">
-<!ENTITY findAsYouTypeBehavior.label "Najít přímo při psaní">
-<!ENTITY findAsYouTypeTip.label "Tip: pokud chcete ručně spustit funkci Najít psaný text, napište / pro hledání textu nebo ' pro hledání odkazů a následně napište hledaný text.">
-<!ENTITY findAsYouTypeTimeout.label "Vyčistit aktuální hledání po několika sekundách nečinnosti">
-<!ENTITY findAsYouTypeTimeout.accesskey "V">
-<!ENTITY findAsYouTypeSound.label "Přehrát zvuk, pokud není nalezen daný text">
-<!ENTITY findAsYouTypeSound.accesskey "P">
-<!ENTITY findAsYouTypeEnableAuto.label "Najít automaticky při psaní na webové stránce:">
-<!ENTITY findAsYouTypeEnableAuto.accesskey "a">
-<!ENTITY findAsYouTypeAutoText.label "Libovolný text na stránce">
-<!ENTITY findAsYouTypeAutoText.accesskey "L">
-<!ENTITY findAsYouTypeAutoLinks.label "Pouze odkazy">
-<!ENTITY findAsYouTypeAutoLinks.accesskey "o">
-
-<!ENTITY findAsYouTypeFindbarEnable.label "Zobrazit panel hledání při vyhledávání psaním">
-<!ENTITY findAsYouTypeFindbarEnable.accesskey "Z">
-<!ENTITY findAsYouTypeFindbarEnableTip.label "Pozn.: Vyhledávání psaním bez zobrazení panelu hledání neumožňuje vložení mezinárodního textu.">
