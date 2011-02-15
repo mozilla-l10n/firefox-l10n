@@ -1,5 +1,4 @@
 <!ENTITY testpilot.brand.label                      "Testpilot">
-<!-- browser window: menu and status bar -->
 <!ENTITY testpilot.settings.label                   "Innstillinger">
 <!ENTITY testpilot.settings.dataSubmission.label    "Dataoverføring">
 <!ENTITY testpilot.settings.notifications.label     "Varsling">
@@ -30,3 +29,5 @@
 <!ENTITY testpilot.feedbackbutton.label                "Tilbakemelding">
 <!ENTITY testpilot.happy.label        "Firefox gjorde meg glad fordi …">
 <!ENTITY testpilot.sad.label          "Firefox gjorde meg trist fordi …">
+<!ENTITY testpilot.broken.label      "Rapporter dette nettstedet som ødelagt …">
+<!ENTITY testpilot.idea.label        "Gi oss et forslag …">

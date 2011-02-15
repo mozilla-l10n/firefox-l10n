@@ -26,6 +26,7 @@
 <!ENTITY historyHeader.label       "Historikk">
 <!ENTITY desktopHeader.label       "Skrivebord">
 
+<!ENTITY editBookmarkDialog.title  "Rediger bokmerke">
 <!ENTITY editBookmarkDone.label    "Ferdig">
 <!ENTITY editBookmarkTags.label    "Legg til merkelapper">
 
@@ -108,7 +109,5 @@
 <!ENTITY pageactions.reset           "Fjern innstillinger for nettsted">
 <!ENTITY pageactions.findInPage      "Finn på siden">
 <!ENTITY pageactions.search.addNew   "Legg til søkemotor">
-
-<!ENTITY selectHelper.emptytext      "Filtrer liste">
 
 <!ENTITY appMenu.siteOptions         "Nettstedsvalg">

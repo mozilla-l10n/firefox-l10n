@@ -45,7 +45,8 @@
 
 <!ENTITY event.title.label                  "Rediger hendelse" >
 
-<!ENTITY event.dialog.keepDurationButton.tooltip  "">
+<!ENTITY event.dialog.keepDurationButton.tooltip   "Behold varigheten ved endring av sluttdato">
+<!ENTITY event.dialog.keepDurationButton.accesskey "B">
 
 <!ENTITY newevent.from.label                "Fra" >
 <!ENTITY newevent.to.label                  "Til" >

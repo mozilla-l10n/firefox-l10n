@@ -3,6 +3,11 @@
 <!ENTITY aboutHome.remoteTabs                   "Faner fra en annen datamaskin">
 <!ENTITY aboutHome.recommendedAddons2           "Utvidelser til &brandShortName;">
 <!ENTITY aboutHome.giveFeedback                 "Gi tilbakemelding">
+<!ENTITY aboutHome.getHelp                      "Få hjelp">
+<!ENTITY aboutHome.footerWidth                  "10em">
 <!ENTITY aboutHome.openAllTabs                  "Åpne alle i faner">
 <!ENTITY aboutHome.noTabs                       "Ingen faner fra forrige gang">
 <!ENTITY aboutHome.noAddons                     "Ingen anbefalte utvidelser">
+
+<!-- LOCALIZATION NOTE: 'Firefox Spark' is the official name of the promotion and should not be translated -->
+<!ENTITY aboutHome.promoSpark                   "Spill Firefox Spark">

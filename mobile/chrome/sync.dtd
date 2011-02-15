@@ -19,3 +19,4 @@
 <!ENTITY sync.serverURL             "Tjener-URL">
 <!ENTITY sync.setup.connect         "Koble til">
 <!ENTITY sync.setup.cancel          "Avbryt">
+<!ENTITY sync.setup.tutorial        "Vis meg hvordan">
