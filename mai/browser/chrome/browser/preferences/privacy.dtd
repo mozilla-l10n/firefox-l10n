@@ -64,9 +64,9 @@
 <!-- LOCALIZATION NOTE (rememberActions.middle.label): include a starting and trailing space as needed -->
 <!-- LOCALIZATION NOTE (rememberActions.post.label): include a starting space as needed -->
 <!ENTITY  rememberActions.pre.label           "अहाँ चाह सकैत छी ">
-<!ENTITY  rememberActions.clearHistory.label  " अपन हालक इतिहास साफ  करू ">
-<!ENTITY  rememberActions.middle.label        ", or ">
-<!ENTITY  rememberActions.removeCookies.label "व्यक्तिगत कुकीज हटाउ">
+<!ENTITY  rememberActions.clearHistory.label  " अपन हालक इतिहास साफ कएनाइ ">
+<!ENTITY  rememberActions.middle.label        ", अथवा ">
+<!ENTITY  rememberActions.removeCookies.label "व्यक्तिगत कुकीज हटैनाइ">
 <!ENTITY  rememberActions.post.label          ".">
 
 <!ENTITY  dontrememberDescription.label  "&brandShortName; निज ब्राउजिंगक तरह सेटिंग प्रयोग करताह आओर अहाँक वेब ब्राउज़ करबाक दौरान कोनो इतिहास याद नहि रखताह.">
@@ -100,10 +100,10 @@
 <!ENTITY  locbar.bookmarks.label        "पुस्तकचिह्न">
 <!ENTITY  locbar.nothing.label          "किछु नहि">
 
-<!ENTITY  privateBrowsingPermanent.label "स्थायी निज ब्राउज़िंग विधि">
+<!ENTITY  privateBrowsingPermanent.label "स्थायी निज ब्राउजिंग विधि">
 <!ENTITY  privateBrowsingPermanent.accesskey "P">
 
-<!ENTITY  rememberHistory.label      "हमर ब्राउज़िंग इतिहास याद राखू">
+<!ENTITY  rememberHistory.label      "हमर ब्राउजिंग इतिहास याद राखू">
 <!ENTITY  rememberHistory.accesskey  "b">
 
 
