@@ -3,21 +3,21 @@
      whether the quick filter bar is visible.
      -->
 <!ENTITY quickFilterBar.toggleBarVisibility.menu.label
-         "Quick Filter Bar">
+         "Bàr-criathraidh luath">
 
 <!-- LOCALIZATION NOTE (quickFilterBar.toggleBarVisibility.menu.accesskey):
      The access key for the "View... Toolbars..." menu item label that controls
      whether the quick filter bar is visible.
      -->
 <!ENTITY quickFilterBar.toggleBarVisibility.menu.accesskey
-         "Q">
+         "B">
 
 <!-- LOCALIZATION NOTE (quickFilterBar.toggleBarVisibility.button.tooltip):
      The tooltip to display when hovering over the button on the tab bar that
      toggles the visibility of the quick filter bar.
      -->
 <!ENTITY quickFilterBar.toggleBarVisibility.button.tooltip
-         "Toggle the quick filter bar">
+         "Toglaich am bàr-criathraidh luath">
 
 <!-- LOCALIZATION NOTE (quickFilterBar.sticky.tooltip):
      The tooltip to display when the user hovers over the sticky button
@@ -27,42 +27,42 @@
      filters are propagated between folder changes and when opening new tabs.)
      -->
 <!ENTITY quickFilterBar.sticky.tooltip
-         "Keep filters applied when switching folders">
+         "Cum na criathragan beò nuair a leumar eadar pasgain">
 
 <!-- LOCALIZATION NOTE (quickFilterBar.barLabel.label):
      The text to display on the quick filter bar, labeling it.  This should
      ideally be as short as possible.
      -->
 <!ENTITY quickFilterBar.barLabel.label
-         "Quick Filter:">
+         "Criathradh luath:">
 
 <!-- LOCALIZATION NOTE (quickFilterBar.unread.label):
      The label for the filter button that causes us to filter results to only
      include unread messages.
      -->
 <!ENTITY quickFilterBar.unread.label
-         "Unread">
+         "Gun leughadh">
 
 <!-- LOCALIZATION NOTE (quickFilterBar.unread.tooltip):
      The tooltip for the filter button that causes us to filter results to only
      include unread messages.
      -->
 <!ENTITY quickFilterBar.unread.tooltip
-         "Show only unread messages">
+         "Na seall ach teachdaireachdan gun leughadh">
 
 <!-- LOCALIZATION NOTE (quickFilterBar.starred.label):
      The label for the filter button that causes us to filter results to only
      include messages that have been starred/flagged.
      -->
 <!ENTITY quickFilterBar.starred.label
-         "Starred">
+         "Le rionnag ris">
 
 <!-- LOCALIZATION NOTE (quickFilterBar.starred.tooltip):
      The tooltip for the filter button that causes us to filter results to only
      include messages that have been starred/flagged.
      -->
 <!ENTITY quickFilterBar.starred.tooltip
-         "Show only starred messages">
+         "Na seall ach teachdaireachdan le rionnag riutha">
 
 <!-- LOCALIZATION NOTE (quickFilterBar.inaddrbook.label):
      The label for the filter button that causes us to filter results to only
@@ -70,7 +70,7 @@
      books.
      -->
 <!ENTITY quickFilterBar.inaddrbook.label
-         "Contact">
+         "Caraid">
 
 <!-- LOCALIZATION NOTE (quickFilterBar.inaddrbook.tooltip):
      The tooltip for the filter button that causes us to filter results to only
@@ -78,35 +78,35 @@
      books.
      -->
 <!ENTITY quickFilterBar.inaddrbook.tooltip
-         "Show only messages from people in your address book">
+         "Na seall ach teachdaireachdan o dhaoine ann an leabhar nan seòladh agad">
 
 <!-- LOCALIZATION NOTE (quickFilterBar.tags.label):
      The label for the filter button that causes us to filter results to only
      include messages with at least one tag on them.
      -->
 <!ENTITY quickFilterBar.tags.label
-         "Tags">
+         "Tagaichean">
 
 <!-- LOCALIZATION NOTE (quickFilterBar.tags.tooltip):
      The tooltip for the filter button that causes us to filter results to only
      include messages with at least one tag on them.
      -->
 <!ENTITY quickFilterBar.tags.tooltip
-         "Show only messages with tags on them">
+         "Na seall ach teachdaireachdan le tagaichean orra">
 
 <!-- LOCALIZATION NOTE (quickFilterBar.attachment.label):
      The label for the filter button that causes us to filter results to only
      include messages with attachments.
      -->
 <!ENTITY quickFilterBar.attachment.label
-         "Attachment">
+         "Ceanglachan">
 
 <!-- LOCALIZATION NOTE (quickFilterBar.attachment.tooltip):
      The tooltip for the filter button that causes us to filter results to only
      include messages with attachments.
      -->
 <!ENTITY quickFilterBar.attachment.tooltip
-         "Show only messages with attachments">
+         "Na seall ach teachdaireachdan le ceanglachain">
 
 <!-- LOCALIZATION NOTE (quickFilterBar.resultsLabel.some.formatString):
      This is used to populate the results box; it either displays the
@@ -118,14 +118,14 @@
      https://developer.mozilla.org/En/Localization_and_Plurals
      -->
 <!ENTITY quickFilterBar.resultsLabel.some.formatString
-         "#1 message;#1 messages">
+         "#1 teachdaireachd;#1 theachdaireachd;#1 teachdaireachdan;#1 teachdaireachd">
 
 <!-- LOCALIZATION NOTE (quickFilterBar.resultsLabel.none):
      The contents of the results box when there is a filter active but there
      are no messages matching the filter.
      -->
 <!ENTITY quickFilterBar.resultsLabel.none
-         "No results">
+         "Gun toradh">
 
 <!-- LOCALIZATION NOTE (quickFilterBar.resultsLabel.minWidth):
      The minimum width, in pixels, of the results label.  Please size this
@@ -137,7 +137,7 @@
      "no results" is longer than the "#### messages" case, then size for that.
      -->
 <!ENTITY quickFilterBar.resultsLabel.minWidth
-         "100">
+         "120">
 
 <!-- LOCALIZATION NOTE (quickFilterBar.textbox.emptyText.base):
      This is the base of the empty text for the text search box.  We replace
@@ -148,7 +148,7 @@
      box faster.
      -->
 <!ENTITY quickFilterBar.textbox.emptyText.base
-         "Filter these messages... #1">
+         "Criathair na teachdaireachdan a leanas... #1">
 
 <!-- LOCALIZATION NOTE (quickFilterBar.textbox.emptyText.keyLabel.nonmac):
      The description of the key-binding to get into the box on windows and
@@ -174,7 +174,7 @@
      extra whitespace.
      -->
 <!ENTITY quickFilterBar.textbox.idealWidth
-         "320">
+         "340">
 
 <!-- LOCALIZATION NOTE (quickFilterBar.textbox.minWidth):
      The minimum width of the quick filter textbox in pixels.  This is the size
@@ -182,7 +182,7 @@
      with labels will have their labels collapsed.
      -->
 <!ENTITY quickFilterBar.textbox.minWidth
-         "280">
+         "300">
 
 <!-- LOCALIZATION NOTE (quickFilterBar.textFilter.explanation.label):
      This label explains what the sender/recipients/subject/body buttons do.
@@ -193,46 +193,46 @@
      arrow scroll box.)
      -->
 <!ENTITY quickFilterBar.textFilter.explanation.label
-         "Filter messages by:">
+         "Criathair na teachdaireachdan a-rèir:">
 
 <!-- LOCALIZATION NOTE (quickFilterBar.textFilter.sender.label):
      The button label that toggles whether the text filter searches the message
      sender for the string.
      -->
 <!ENTITY quickFilterBar.textFilter.sender.label
-         "Sender">
+         "Seòladair">
 
 <!-- LOCALIZATION NOTE (quickFilterBar.textFilter.recipients.label):
      The button label that toggles whether the text filter searches the message
      recipients (to, cc) for the string.
      -->
 <!ENTITY quickFilterBar.textFilter.recipients.label
-         "Recipients">
+         "Faightearan">
 
 <!-- LOCALIZATION NOTE (quickFilterBar.textFilter.subject.label):
      The button label that toggles whether the text filter searches the message
      subject for the string.
      -->
 <!ENTITY quickFilterBar.textFilter.subject.label
-         "Subject">
+         "Cuspair">
 
 <!-- LOCALIZATION NOTE (quickFilterBar.textFilter.body.label):
      The button label that toggles whether the text filter searches the message
      body for the string.
      -->
 <!ENTITY quickFilterBar.textFilter.body.label
-         "Body">
+         "Bodhaig">
 
 <!-- LOCALIZATION NOTE (quickFilterBar.glodaUpsell.continueSearch):
      The first line of the panel popup that tells the user we found no matches
      but we can convert to a global search for them.
      -->
 <!ENTITY quickFilterBar.glodaUpsell.continueSearch
-         "Continue this search across all folders">
+         "Lean ris an rannsachadh seo air feadh gach pasgain">
 
 <!-- LOCALIZATION NOTE (quickFilterBar.glodaUpsell.pressEnterAndCurrent):
      The second line of the panel popup that tells the user we found no matches.
      This line will have #1 replaced with what the user has typed so far.
      -->
 <!ENTITY quickFilterBar.glodaUpsell.pressEnterAndCurrent
-         "Press 'Enter' again to continue your search for: #1">
+         "Put 'Enter' a-rithist gus leantainn ort leis an rannsachadh agad airson: #1">

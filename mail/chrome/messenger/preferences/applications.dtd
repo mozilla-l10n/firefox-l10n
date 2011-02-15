@@ -7,7 +7,7 @@
 <!ENTITY  focusSearch1.key            "f">
 <!ENTITY  focusSearch2.key            "k">
 
-<!ENTITY  filter.placeholder          "Search">
+<!ENTITY  filter.placeholder          "Lorg">
 
 <!ENTITY saveTo.label                 "Sàbhail faidhlichean ann an">
 <!ENTITY saveTo.accesskey             "S">

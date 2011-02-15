@@ -46,5 +46,5 @@
 <!ENTITY folderRestriction2.label   "Leig leis na leanas a bhith 'nad phasgan ùr:">
 <!ENTITY foldersOnly.label          "Pasgain a-mhàin">
 <!ENTITY messagesOnly.label         "Teachdaireachdan a-mhàin">
-<!ENTITY accept.label               "Create Folder">
+<!ENTITY accept.label               "Cruthaich am pasgan">
 <!ENTITY accept.accesskey           "r">

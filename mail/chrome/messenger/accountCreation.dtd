@@ -1,14 +1,14 @@
 <!ENTITY autoconfigWizard.title          "Suidheachadh cunntas puist">
 <!ENTITY name.label                      "D' ainm:">
 <!ENTITY name.accesskey                  "n">
-<!ENTITY name.placeholder                "First Last">
+<!ENTITY name.placeholder                "Ainm Sloinneadh">
 <!ENTITY name.text                       "D' ainm, mar a chì daoine eile e">
 <!ENTITY email.label                     "Seòladh a' phuist-dhealain:">
 <!ENTITY email.accesskey                 "l">
-<!ENTITY email.placeholder               "email@example.com">
+<!ENTITY email.placeholder               "postdealain@ballsampaill.com">
 <!ENTITY password.label                  "Facal-faire:">
 <!ENTITY password.accesskey              "F">
-<!ENTITY password.placeholder            "Password">
+<!ENTITY password.placeholder            "Facal-faire">
 <!ENTITY password.text                   "Roghainneil, cha dèid a chleachdadh ach a chum dearbhadh an ainm-chleachdaiche">
 
 <!ENTITY accountInformation.label        "Fiosrachadh a' chunntais">
@@ -22,9 +22,9 @@
 <!ENTITY imap.label                      "IMAP">
 <!ENTITY pop.label                       "POP">
 <!ENTITY smtp.label                      "SMTP">
-<!ENTITY imap.description                "IMAP - Access folders and messages from multiple computers">
-<!ENTITY pop.description                 "POP - Download all messages onto this computer, folders are local only">
-<!ENTITY recommended-appendix.label      "(recommended)">
+<!ENTITY imap.description                "IMAP - Dèan inntrigeadh do phasgain is do theachdaireachdan o iomadh coimpiutair">
+<!ENTITY pop.description                 "POP - Luchdaich a-nuas a h-uile teachdaireachd dhan choimpiutair seo 's bidh pasgain ionadail a-mhàin agad">
+<!ENTITY recommended-appendix.label      "(mholar seo)">
 
 <!ENTITY manualSetup.label               "Suidheachadh a làimh…">
 <!ENTITY manualSetup.accesskey           "S">

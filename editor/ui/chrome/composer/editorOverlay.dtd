@@ -259,10 +259,10 @@
 <!ENTITY formatRemoveNamedAnchors.accesskey "r">
 <!ENTITY formatRemoveNamedAnchors.key "A">
 
-<!ENTITY paragraphMenu.label "Earrann">
-<!ENTITY paragraphMenu.accesskey "E">
-<!ENTITY paragraphParagraphCmd.label "Earrann">  
-<!ENTITY paragraphParagraphCmd.accesskey "E">
+<!ENTITY paragraphMenu.label "Paragraf">
+<!ENTITY paragraphMenu.accesskey "P">
+<!ENTITY paragraphParagraphCmd.label "Paragraf">  
+<!ENTITY paragraphParagraphCmd.accesskey "P">
 <!ENTITY heading1Cmd.label "Ceann-sgrìobhadh 1">
 <!ENTITY heading1Cmd.accesskey "1">
 <!ENTITY heading2Cmd.label "Ceann-sgrìobhadh 2">
@@ -296,7 +296,7 @@
 <!ENTITY listPropsCmd.label "Roghainnean na liosta…">
 <!ENTITY listPropsCmd.accesskey "l">
 
-<!ENTITY ParagraphSelect.tooltip "Tagh fòrmat earrainn">
+<!ENTITY ParagraphSelect.tooltip "Tagh fòrmat paragraf">
 <!-- Shared in Paragraph, and Toolbar menulist -->
 <!ENTITY bodyTextCmd.label "Teacsa na bodhaige">
 <!ENTITY bodyTextCmd.accesskey "T">

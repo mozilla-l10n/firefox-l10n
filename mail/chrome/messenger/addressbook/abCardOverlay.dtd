@@ -64,8 +64,8 @@
 <!ENTITY PhoneticField2.label           "Fòn-eòlach:">
 <!ENTITY DisplayName.label              "Ainm-seallaidh:">
 <!ENTITY DisplayName.accesskey          "d">
-<!ENTITY preferDisplayName.label        "Always prefer display name over message header">
-<!ENTITY preferDisplayName.accesskey    "y">
+<!ENTITY preferDisplayName.label        "'S fhearr leam an t-ainm-taisbeanaidh seach bann-cinn na teachdaireachd an-còmhnaidh">
+<!ENTITY preferDisplayName.accesskey    "'">
 <!ENTITY NickName.label                 "Far-ainm:">
 <!ENTITY NickName.accesskey             "n">
 
@@ -115,9 +115,9 @@
 <!ENTITY Birthday.label                 "Co-là breith:">
 <!ENTITY Birthday.accesskey             "b">
 <!ENTITY In.label                       "">
-<!ENTITY Year.placeholder               "Year">
+<!ENTITY Year.placeholder               "Bliadhna">
 <!ENTITY Or.value                       "no">
-<!ENTITY Age.placeholder                "Age">
+<!ENTITY Age.placeholder                "Aois">
 <!ENTITY YearsOld.label                 "">
 
 <!ENTITY Work.tab                       "Obair">
@@ -168,6 +168,6 @@
 <!ENTITY BrowsePhoto.accesskey          "r">
 <!ENTITY PhotoURL.label                 "Air an lìon">
 <!ENTITY PhotoURL.accesskey             "A">
-<!ENTITY PhotoURL.placeholder           "Paste or type the web address of a photo">
+<!ENTITY PhotoURL.placeholder           "Cuir a-steach seòladh-lìn de dh'fhotograf">
 <!ENTITY UpdatePhoto.label              "Ùraich">
 <!ENTITY UpdatePhoto.accesskey          "Ù">
