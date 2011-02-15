@@ -4,16 +4,8 @@
 
 
 <!ENTITY abouthome.pageTitle "Начална страница на &brandFullName;">
-<!-- LOCALIZATION NOTE (abouthome.brandStart):
-     brandShortName must be in a <span/>
--->
-
-<!ENTITY abouthome.brandStart "Начална страница на <span>&brandShortName;</span>">
 
 <!ENTITY abouthome.searchEngineButton.label "Търсене">
-
-<!ENTITY abouthome.searchEngineLinks.advanced "Разширено търсене">
-<!ENTITY abouthome.searchEngineLinks.preferences "Настройки">
 
 <!ENTITY abouthome.aboutMozilla "Относно Mozilla">
 <!-- LOCALIZATION NOTE (abouthome.defaultSnippet1.v1):

@@ -29,3 +29,5 @@
 <!ENTITY testpilot.feedbackbutton.label                "Обратна връзка">
 <!ENTITY testpilot.happy.label        "Firefox ме прави щастлив(а), защото…">
 <!ENTITY testpilot.sad.label          "Firefox ме прави нещастен(-на), защото…">
+<!ENTITY testpilot.broken.label      "Докладване на този уебсайт като развален…">
+<!ENTITY testpilot.idea.label        "Напишете ни предложение…">
