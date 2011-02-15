@@ -291,7 +291,7 @@ can reach it easily. -->
 <!ENTITY openCmd.commandkey "l">
 <!ENTITY urlbar.placeholder           "Obiščite spletno stran">
 <!ENTITY urlbar.accesskey             "d">
-<!ENTITY urlbar.switchToTab.label     "Zamenjaj na zavihek:">
+<!ENTITY urlbar.switchToTab.label     "Preklopi na zavihek:">
 
 <!-- 
   Comment duplicated from browser-sets.inc:
