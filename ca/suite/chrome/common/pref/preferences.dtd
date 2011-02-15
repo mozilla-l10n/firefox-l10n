@@ -31,6 +31,7 @@
 <!ENTITY smart.label "Instaŀlació de programari">
 <!ENTITY download.label "Baixades">
 <!ENTITY keynav.label "Navegació amb teclat">
+<!ENTITY findAsYouType.label "Cerca a mesura que s'escriu">
 <!ENTITY search.label "Cerca a Internet">
 <!ENTITY policies.label "Polítiques de seguretat">
 <!ENTITY mousewheel.label "Rodeta del ratolí">
