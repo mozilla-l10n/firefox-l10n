@@ -28,3 +28,5 @@ Entities below were automatically added by compare-locales,
 <!ENTITY testpilot.studiesWindow.stillLoadingMessage "පූරණය වේ, රැඳී සිටින්න…">
 <!ENTITY testpilot.studiesWindow.settings.label "සැකසුම්">
 <!ENTITY testpilot.enable.label "පරිශීලක අධ්‍යයනයන් සක්‍රීය කරන්න">
+<!ENTITY testpilot.broken.label      "Report this website as broken…">
+<!ENTITY testpilot.idea.label        "Give us a suggestion…">
