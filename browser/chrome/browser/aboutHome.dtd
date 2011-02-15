@@ -6,11 +6,6 @@
 
 <!ENTITY abouthome.pageTitle "&brandFullName;: domača stran">
 
-<!-- LOCALIZATION NOTE (abouthome.brandStart):
-     brandShortName must be in a <span/>
--->
-<!ENTITY abouthome.brandStart "<span>&brandShortName;:</span> domača stran">
-
 <!ENTITY abouthome.searchEngineButton.label "Iskanje">
 
 <!ENTITY abouthome.aboutMozilla "O Mozilli">
