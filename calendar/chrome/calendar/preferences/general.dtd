@@ -44,6 +44,3 @@
 <!ENTITY pref.defaultlength.accesskey "D">
 <!ENTITY pref.defaultsnoozelength.label "Durata predefinita snooze:">
 <!ENTITY pref.defaultsnoozelength.accesskey "u">
-<!ENTITY pref.refreshbox.label "Impostazioni ricarica">
-<!ENTITY pref.autorefresh.label "Ricarica calendari ogni">
-<!ENTITY pref.autorefresh.accesskey "R">
