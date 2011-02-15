@@ -6,15 +6,7 @@
 
 <!ENTITY abouthome.pageTitle "&brandFullName; startside">
 
-<!-- LOCALIZATION NOTE (abouthome.brandStart):
-     brandShortName must be in a <span/>
--->
-<!ENTITY abouthome.brandStart "<span>&brandShortName;</span> Start">
-
 <!ENTITY abouthome.searchEngineButton.label "Søk">
-
-<!ENTITY abouthome.searchEngineLinks.advanced "Avansert søk">
-<!ENTITY abouthome.searchEngineLinks.preferences "Innstillinger">
 
 <!ENTITY abouthome.aboutMozilla "Om Mozilla">
 

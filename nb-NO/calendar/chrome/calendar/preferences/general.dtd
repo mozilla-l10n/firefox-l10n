@@ -49,6 +49,3 @@
 <!ENTITY pref.defaultlength.accesskey "S">
 <!ENTITY pref.defaultsnoozelength.label "Standard lengde på pause:" >
 <!ENTITY pref.defaultsnoozelength.accesskey "a">
-<!ENTITY pref.refreshbox.label "Oppdatering" >
-<!ENTITY pref.autorefresh.label "Oppdater kalendere hver" >
-<!ENTITY pref.autorefresh.accesskey "O" >
