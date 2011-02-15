@@ -113,7 +113,5 @@
 <!ENTITY pageactions.findInPage      "Cerca a la pàgina">
 <!ENTITY pageactions.search.addNew   "Afegeix el motor de cerca">
 
-<!ENTITY selectHelper.emptytext      "Llista de filtratge">
-
 <!ENTITY appMenu.siteOptions         "Opcions del lloc">
 
