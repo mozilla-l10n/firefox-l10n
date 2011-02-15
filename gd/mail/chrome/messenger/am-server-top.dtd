@@ -24,7 +24,7 @@
 <!ENTITY connectionSecurityType-1.label "STARTTLS, ma bhios e ri fhaighinn">
 <!ENTITY connectionSecurityType-2.label "STARTTLS">
 <!ENTITY connectionSecurityType-3.label "SSL/TLS">
-<!ENTITY authMethod.label "Authentication method:">
+<!ENTITY authMethod.label "An dòigh dearbhachaidh:">
 <!ENTITY authMethod.accesskey "i">
 <!ENTITY leaveOnServer.label "Fàg na teachdaireachdan air an fhrithealaiche">
 <!ENTITY leaveOnServer.accesskey "g">

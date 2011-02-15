@@ -82,7 +82,7 @@
 <!ENTITY hdrViewToolbarAlwaysReplySender.accesskey "r">
 
 <!ENTITY otherActionsButton.label "gnìomhan eile">
-<!ENTITY otherActionsOpenConversation.label "open in conversation">
+<!ENTITY otherActionsOpenConversation.label "fosgail ann an còmhradh">
 <!ENTITY otherActionsOpenConversation.accesskey "c">
 <!ENTITY otherActionsOpenInNewWindow.label "fosgail ann an uinneag ùr">
 <!ENTITY otherActionsOpenInNewWindow.accesskey "f">
@@ -105,8 +105,8 @@
 <!ENTITY saveAsAttachmentCmd.accesskey    "a">
 <!ENTITY detachAttachmentCmd.label    "Dealaich…">
 <!ENTITY deleteAttachmentCmd.label    "Sguab às">
-<!ENTITY openAllAttachmentsCmd.label    "Open All…">
-<!ENTITY openAllAttachmentsCmd.accesskey    "O">
+<!ENTITY openAllAttachmentsCmd.label    "Fosgail a h-uile…">
+<!ENTITY openAllAttachmentsCmd.accesskey    "o">
 <!ENTITY saveAllAttachmentsCmd.label    "Sàbhail a h-uile…">
 <!ENTITY saveAllAttachmentsCmd.accesskey    "S">
 <!ENTITY detachAllAttachmentsCmd.label    "Dealaich a h-uile…">

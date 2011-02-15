@@ -81,7 +81,7 @@
 <!ENTITY cellContentAlignment.label       "Co-thaobhachadh na susbainte">
 <!ENTITY cellHorizontal.label             "Còmhnard:">
 <!ENTITY cellHorizontal.accessKey         "Z">
-<!ENTITY cellVertical.label               "Dìreach:">
+<!ENTITY cellVertical.label               "Inghearach:">
 <!ENTITY cellVertical.accessKey           "V">
 <!ENTITY cellStyle.label                  "Stoidhle na cealla:">
 <!ENTITY cellStyle.accessKey              "C">

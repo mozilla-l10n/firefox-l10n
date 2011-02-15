@@ -49,7 +49,7 @@
 <!ENTITY protocolNotFound.title "Cha deach an seòladh a thuigsinn">
 <!ENTITY protocolNotFound.longDesc "<ul> <li>Dh'fhaodadh gum bi agad bathar-bog a bharrachd a stàladh mus fosgail thu an seòladh seo.</li></ul>">
 
-<!ENTITY proxyConnectFailure.title "Tha am frithealaiche progsaidh a' diùltadh ceanglaichean">
+<!ENTITY proxyConnectFailure.title "Tha am frithealaiche progsaidh a' diùltadh cheanglaichean">
 <!ENTITY proxyConnectFailure.longDesc "<ul> <li>Dèan cinnteach gu bheil na roghainnean progsaidh ceart.</li> <li>Cuir fios gu rianaire an lìonra agad gus dèanamh cinnteach gu bheil am progsaidh ag obair.</li></ul>">
 
 <!ENTITY proxyResolveFailure.title "Cha ghabh am frithealaiche progsaidh a lorg">
@@ -83,8 +83,8 @@
 <!ENTITY phishingBlocked.longDesc "<p>Dh&apos;fhaodadh goid do dhearbh-aithne no foill eile èirigh dhut ma bheir thu seachad fiosrachadh pearsanta sam bith air an duilleag seo</p><p>Thèid an seòrsa seo de dh'fhallsaidheachd-lìn a chleachdadh ann an cam-ghnothach air a bheil &quot;fiasgach&quot; far a bheil duilleagan-lìn is puist-dhealain a&apos; gabhail orra gu bheil iad nan tùsan earbsach.</p>
  ">
 
-<!ENTITY cspFrameAncestorBlocked.title "Blocked by Content Security Policy">
-<!ENTITY cspFrameAncestorBlocked.longDesc "<p>&brandShortName; prevented this page from loading in this way because the page has a content security policy that disallows it.</p>">
+<!ENTITY cspFrameAncestorBlocked.title "'Ga chasgadh le poileasaidh tèarainteachd susbainte">
+<!ENTITY cspFrameAncestorBlocked.longDesc "<p>Chuir &brandShortName; casg air luchdadh na duilleige seo air an dòigh seo a chionn 's gu bheil poileasaidh tèarainteachd susbainte ann nach eil 'ga cheadachadh.</p>">
 
 <!ENTITY securityOverride.linkText "No 's urrainn dhut eisgeachd a chur ris…">
 <!ENTITY securityOverride.getMeOutOfHereButton "A-mach às an àite seo leam!">
@@ -95,9 +95,8 @@ contents of the <button> tags. It uses strings already defined above. The
 button is included here (instead of netError.xhtml) because it exposes
 functionality specific to thunderbird. -->
 
-<!ENTITY securityOverride.warningContent "
-<p>You should not add an exception if you are using an internet connection that you do not trust completely or if you are not used to seeing a warning for this server.</p>
+<!ENTITY securityOverride.warningContent "<p>Cha bu chòir dhut eisgeachd a chur ris ma tha thu a' cleachdadh ceangal dhan eadar-lìon anns nach eil earbsa agad buileach no mur eil dùil agad ri rabhadh mun fhrithealaiche seo.</p>
 
 <button id='getMeOutOfHereButton'>&securityOverride.getMeOutOfHereButton;</button>
 <button id='exceptionDialogButton'>&securityOverride.exceptionButtonLabel;</button>
-">
+ ">
