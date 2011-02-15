@@ -5,8 +5,8 @@
 <!ENTITY community.mozillaLink      "&vendorShortName;">
 <!ENTITY community.middle2          ", एकटा ">
 <!-- LOCALIZATION NOTE (community.creditsLink): This is a link title that links to about:credits. -->
-<!ENTITY community.creditsLink      "वैश्विक समुदाय क द्वारा">
-<!ENTITY community.end2             " जे इंटरनेट केँ लगातार बेहतर बनाबै क लेल एकेसँग काज करैत अछि. हमारा भरोस अछि जे इंटरनेट केँ हर ककरो लेल बिनु कोनो प्रतिबंधक मुक्त, सार्वजनिक आओर पहुँच योग्य होनाइ चाही.">
+<!ENTITY community.creditsLink      "वैश्विक समुदायक द्वारा">
+<!ENTITY community.end2             " जे इंटरनेट केँ लगातार बेहतर बनाबै क लेल एकेसँग काज करैत अछि. हमार भरोस अछि जे इंटरनेट केँ सभ लोकनिक लेल बिनु कोनो प्रतिबंधक मुक्त, सार्वजनिक आओर पहुँच योग्य होनाइ चाही.">
 
 <!ENTITY contribute.start           "सच्चे नीक गप्प? ">
 <!-- LOCALIZATION NOTE (contribute.getInvolvedLink): This is a link title that links to http://www.mozilla.org/contribute/. -->
@@ -23,7 +23,7 @@
 <!ENTITY bottomLinks.privacy        "गोपनीयता नीति">
 
 <!-- LOCALIZATION NOTE (update.checkingForUpdates): try to make the localized text short (see bug 596813 for screenshots). -->
-<!ENTITY update.checkingForUpdates  "अद्यतन क लेल जाँचि रहल अछि…">
+<!ENTITY update.checkingForUpdates  "अद्यतनक लेल जाँचि रहल अछि…">
 <!-- LOCALIZATION NOTE (update.checkingAddonCompat): try to make the localized text short (see bug 596813 for screenshots). -->
 <!ENTITY update.checkingAddonCompat "सहयुक्ति सुसंगतता जाँचि रहल अछि…">
 <!-- LOCALIZATION NOTE (update.noUpdatesFound): try to make the localized text short (see bug 596813 for screenshots). -->
