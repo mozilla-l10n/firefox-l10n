@@ -6,7 +6,7 @@
 <!ENTITY     button.removecookies.label     "Slett infokapslar">
 <!ENTITY     button.removecookie.label      "Slett infokapsel">
 <!ENTITY     button.removecookie.accesskey  "e">
-<!ENTITY     button.removeallcookies.label  "Slett alle infokapslar">
+<!ENTITY     button.removeallcookies.label  "Slett alle infokapslane">
 <!ENTITY     button.removeallcookies.accesskey "a">
 
 <!ENTITY     props.name.label               "Namn:">

@@ -64,15 +64,15 @@
 <!ENTITY pageTitle.label              "Sidetittel:">
 <!ENTITY pageTitle.accesskey          "t">
 <!ENTITY pageTitle.tooltip            "Gje sida ein tittel for å identifisere ho i vindauget og i bokmerkeoversynet">
-<!ENTITY pageTitleExample.label       "til dømes: «Mi nettside»">
+<!ENTITY pageTitleExample.label       "t.d.: «Mi nettside»">
 <!ENTITY filename.label               "Filnamn:">
 <!ENTITY filename.accesskey           "F">
-<!ENTITY filename.tooltip             "Gje denne fila eit namn, inkludert «.html» for nettsider">
-<!ENTITY filenameExample.label        "til dømes: «miside.html»">
+<!ENTITY filename.tooltip             "Gje denne fila eit namn, inkludert «.html» for ei nettside">
+<!ENTITY filenameExample.label        "t.d.: «miside.html»">
 <!ENTITY setDefaultButton.label       "Vel som standard">
-<!ENTITY setDefaultButton.accesskey   "D">
+<!ENTITY setDefaultButton.accesskey   "e">
 <!ENTITY removeButton.label           "Fjern område">
-<!ENTITY removeButton.accesskey       "R">
+<!ENTITY removeButton.accesskey       "F">
 
 <!-- Settings Tab Panel -->
 <!ENTITY publishSites.label           "Publiseringsstader">
@@ -80,11 +80,11 @@
 <!ENTITY loginInfo.label              "Innloggingsinformasjon">
 <!ENTITY siteName.label               "Områdenamn:">
 <!ENTITY siteName.accesskey           "O">
-<!ENTITY siteName.tooltip             "Eit kallenamn som identifiserer dette publiseringsområdet (til dømes: «Mitt område»)">
-<!ENTITY siteUrl.label                "Publiseringsadresse (til dømes: «ftp://ftp.myisp.com/myusername»):">
+<!ENTITY siteName.tooltip             "Eit kallenamn som identifiserer dette publiseringsområdet (t.d.: «Mitt område»)">
+<!ENTITY siteUrl.label                "Publiseringsadresse (t.d.: «ftp://ftp.myisp.com/myusername»):">
 <!ENTITY siteUrl.accesskey            "P">
 <!ENTITY siteUrl.tooltip              "FTP://- eller HTTP://-adressa til ISP-en eller nettverten din">
-<!ENTITY browseUrl.label              "HTTP-adressa til heimesida (til dømes: «http://www.myisp.com/myusername»):">
+<!ENTITY browseUrl.label              "HTTP-adressa til heimesida (t.d.: «http://www.myisp.com/myusername»):">
 <!ENTITY browseUrl.accesskey          "T">
 <!ENTITY browseUrl.tooltip            " HTTP://-adressa til heimekatalogen din (ikkje inkluder filnamn)">
 <!ENTITY username.label               "Brukarnamn:">
@@ -95,4 +95,4 @@
 <!ENTITY password.tooltip             "Passordet som høyrer til brukarnamnet ditt">
 <!ENTITY savePassword.label           "Lagre passord">
 <!ENTITY savePassword.accesskey       "L">
-<!ENTITY savePassword.tooltip         "Merk av her for sikker lagring av passordet i passordhandsamaren">
+<!ENTITY savePassword.tooltip         "Merk av her for trygg lagring av passordet i Passordhandsaming">
