@@ -9,9 +9,6 @@ Entities below were automatically added by compare-locales,
 
 <!ENTITY abouthome.searchEngineButton.label "සොයන්න">
 <!ENTITY abouthome.aboutMozilla "Mozilla පිළිබඳ">
-<!ENTITY abouthome.brandStart "<span>&brandShortName;</span> අරඹන්න">
 <!ENTITY abouthome.defaultSnippet2.v1 "ෆයර්ෆොක්ස් ඔබට අවශ්‍ය ආකාරයටම රිසිකරණය කළ හැකිය. <a> ඇඩෝන දහස් ගණනක් අතරෙන් තෝරාගන්න</a>.">
-<!ENTITY abouthome.searchEngineLinks.advanced "වැඩිමනත් සෙවුම්">
 <!ENTITY abouthome.defaultSnippet1.v1 "ෆයර්ෆොක්ස් තෝරාගැනීම පිළිබඳව ස්තුතියි! ඉන් උපරිමය ලබා ගැනීමට, <a>නවතම විශේෂාංග</a> පිළිබඳව දැනුවත්වන්න.">
 <!ENTITY abouthome.pageTitle "&brandFullName; ආරම්භක පිටුව">
-<!ENTITY abouthome.searchEngineLinks.preferences "මනාපයන්">
