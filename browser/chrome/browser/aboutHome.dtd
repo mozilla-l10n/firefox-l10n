@@ -1,7 +1,6 @@
 <!ENTITY % brandDTD SYSTEM "chrome://branding/locale/brand.dtd">
 %brandDTD;
 <!ENTITY abouthome.pageTitle "Página de inicio de &brandFullName;">
-<!ENTITY abouthome.brandStart "Inicio de <span>&brandShortName;</span>">
 <!ENTITY abouthome.searchEngineButton.label "Buscar">
 <!ENTITY abouthome.aboutMozilla "Acerca de Mozilla">
 <!ENTITY abouthome.defaultSnippet1.v1 "¡Gracias por elegir Firefox! Para conseguir lo máximo de su navegador, conozca más sobre las <a>últimas características</a>.">
