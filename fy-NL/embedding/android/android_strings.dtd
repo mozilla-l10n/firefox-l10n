@@ -13,3 +13,6 @@
 <!ENTITY  crash_restart_label "Werstart &brandShortName;">
 <!ENTITY  sending_crash_report "Ferstjoert ûngelokrapport\u2026">
 <!ENTITY  exit_label "Slute">
+<!ENTITY  incompatable_device "&brandShortName; stipet dit model net dus jo kinne problemen
+ûnderfine.">
+<!ENTITY  continue_label "Fierder">
