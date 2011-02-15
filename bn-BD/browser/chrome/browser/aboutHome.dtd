@@ -8,8 +8,6 @@
      brandShortName must be in a <span/>
 -->
 
-<!ENTITY abouthome.brandStart "<span>&brandShortName;</span> শুরু">
-
 <!ENTITY abouthome.searchEngineButton.label "অনুসন্ধান">
 
 <!ENTITY abouthome.aboutMozilla "মোজিলা সম্পর্কিত">
