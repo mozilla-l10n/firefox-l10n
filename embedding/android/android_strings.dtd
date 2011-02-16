@@ -13,3 +13,5 @@
 <!ENTITY  crash_restart_label "Mulai ulang &brandShortName;">
 <!ENTITY  sending_crash_report "Mengirim laporan kerusakan\u2026">
 <!ENTITY  exit_label "Keluar">
+<!ENTITY  incompatable_device "&brandShortName; tidak mendukung perangkat ini dan Anda mungkin menjumpai masalah.">
+<!ENTITY  continue_label "Lanjutkan">
