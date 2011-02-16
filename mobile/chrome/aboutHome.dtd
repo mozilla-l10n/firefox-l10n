@@ -8,3 +8,6 @@
 <!ENTITY aboutHome.openAllTabs                  "ਸਭ ਟੈਬਾਂ 'ਚ ਖੋਲ੍ਹੋ">
 <!ENTITY aboutHome.noTabs                       "ਪਹਿਲਾਂ ਖੋਲ੍ਹੀ ਗਈ ਕੋਈ ਟੈਬ ਨਹੀਂ ਹੈ">
 <!ENTITY aboutHome.noAddons                     "ਕੋਈ ਸਿਫਾਰਸ਼ੀ ਐਡ-ਆਨ ਨਹੀਂ ਹੈ">
+
+<!-- LOCALIZATION NOTE: 'Firefox Spark' is the official name of the promotion and should not be translated -->
+<!ENTITY aboutHome.promoSpark                   "Play Firefox Spark">

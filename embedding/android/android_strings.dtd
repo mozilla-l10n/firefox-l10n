@@ -13,4 +13,7 @@
 <!ENTITY  crash_restart_label "&brandShortName; ਮੁੜ-ਚਾਲੂ ਕਰੋ">
 <!ENTITY  sending_crash_report "ਕਰੈਸ਼ ਰਿਪੋਰਟ ਭੇਜੀ ਜਾ ਰਹੀ ਹੈ\u2026">
 <!ENTITY  exit_label "ਬੰਦ ਕਰੋ">
+<!ENTITY  incompatable_device "&brandShortName; does not support this device and you may experience
+problems.">
+<!ENTITY  continue_label "Continue">
 
