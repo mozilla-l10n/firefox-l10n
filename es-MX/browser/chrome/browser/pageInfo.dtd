@@ -22,7 +22,7 @@
 <!ENTITY generalMetaContent "Contenido">
 <!ENTITY generalSecurityDetails "Detalles">
 <!ENTITY generalSecurityDetails.accesskey "D">
-<!ENTITY mediaTab "Media">
+<!ENTITY mediaTab "Multimedia">
 <!ENTITY mediaTab.accesskey "M">
 <!ENTITY mediaLocation "Dirección:">
 <!ENTITY mediaText "Texto asociado:">
