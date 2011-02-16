@@ -8,7 +8,7 @@
 <!ENTITY reloadAllTabs.accesskey "t">
 <!ENTITY closeOtherTabs.label "Cerrar las otras pestañas">
 <!ENTITY closeOtherTabs.accesskey "o">
-<!ENTITY pinAppTab.label "Pin como App Tab">
+<!ENTITY pinAppTab.label "Fijar pestaña">
 <!ENTITY pinAppTab.accesskey "P">
 <!ENTITY unpinAppTab.label "Desanclar pestaña">
 <!ENTITY unpinAppTab.accesskey "D">
@@ -23,10 +23,10 @@
 <!ENTITY undoCloseTab.accesskey "D">
 <!ENTITY closeTab.label "Cerrar pestaña">
 <!ENTITY closeTab.accesskey "C">
-<!ENTITY listAllTabs.label "Listar todas las pestañas">
+<!ENTITY listAllTabs.label "Mostrar todas las pestañas">
 <!ENTITY tabCmd.label "Pestaña nueva">
 <!ENTITY tabCmd.accesskey "n">
-<!ENTITY tabCmd.commandkey "n">
+<!ENTITY tabCmd.commandkey "t">
 <!ENTITY openLocationCmd.label "Abrir ubicación…">
 <!ENTITY openLocationCmd.accesskey "u">
 <!ENTITY openFileCmd.label "Abrir archivo…">
@@ -75,7 +75,7 @@
 <!ENTITY bookmarksMenu.label "Marcadores">
 <!ENTITY bookmarksMenu.accesskey "M">
 <!ENTITY bookmarkThisPageCmd.label "Agregar esta página a marcadores">
-<!ENTITY bookmarkThisPageCmd.commandkey "A">
+<!ENTITY bookmarkThisPageCmd.commandkey "d">
 <!ENTITY subscribeToPageMenupopup.label "Suscribirse a esta página">
 <!ENTITY subscribeToPageMenuitem.label "Suscribirse a esta página…">
 <!ENTITY addCurPagesCmd.label "Agregar las pestañas abiertas…">
@@ -119,7 +119,7 @@
 <!ENTITY bookmarksMenuButton.unsorted.label "Marcadores sin clasificar">
 <!ENTITY viewBookmarksSidebar.label "Mostrar en la barrar lateral">
 <!ENTITY viewBookmarksToolbar.label "Ver la barra de marcadores">
-<!ENTITY bookmarksGtkCmd.commandkey "b">
+<!ENTITY bookmarksGtkCmd.commandkey "o">
 <!ENTITY bookmarksWinCmd.commandkey "i">
 <!ENTITY historyButton.label "Historial">
 <!ENTITY historyButton.tooltip "Mostrar las páginas vistas recientemente">
@@ -163,7 +163,7 @@
 <!ENTITY fileMenu.label "Archivo">
 <!ENTITY fileMenu.accesskey "A">
 <!ENTITY newNavigatorCmd.label "Ventana nueva">
-<!ENTITY newNavigatorCmd.key "V">
+<!ENTITY newNavigatorCmd.key "N">
 <!ENTITY newNavigatorCmd.accesskey "v">
 <!ENTITY editMenu.label "Editar">
 <!ENTITY editMenu.accesskey "E">
@@ -183,7 +183,7 @@
 <!ENTITY pasteCmd.key "V">
 <!ENTITY pasteCmd.accesskey "P">
 <!ENTITY deleteCmd.label "Eliminar">
-<!ENTITY deleteCmd.key "l">
+<!ENTITY deleteCmd.key "D">
 <!ENTITY deleteCmd.accesskey "l">
 <!ENTITY selectAllCmd.label "Seleccionar todo">
 <!ENTITY selectAllCmd.key "A">
@@ -218,7 +218,7 @@
 <!ENTITY historyRestoreLastSession.label "Restaurar sesión anterior">
 <!ENTITY historyHomeCmd.label "Inicio">
 <!ENTITY showAllHistoryCmd2.label "Mostrar todo">
-<!ENTITY showAllHistoryCmd.commandkey "t">
+<!ENTITY showAllHistoryCmd.commandkey "H">
 <!ENTITY appMenuEdit.label "Editar">
 <!ENTITY appMenuCustomize.label "Personalizar">
 <!ENTITY appMenuToolbarLayout.label "Capas de la barra de herramientas…">
@@ -229,7 +229,7 @@
 <!ENTITY appMenuGettingStarted.label "Primeros pasos">
 <!ENTITY appMenuSafeMode.label "Reiniciar con complementos deshabilitados...">
 <!ENTITY appMenuSafeMode.accesskey "R">
-<!ENTITY openCmd.commandkey "y">
+<!ENTITY openCmd.commandkey "l">
 <!ENTITY urlbar.placeholder "Ir a un sitio web">
 <!ENTITY urlbar.accesskey "d">
 <!ENTITY urlbar.switchToTab.label "Cambiar a la pestaña:">
@@ -394,7 +394,7 @@
 <!ENTITY findOnCmd.commandkey "f">
 <!ENTITY findAgainCmd.label "Repetir la búsqueda">
 <!ENTITY findAgainCmd.accesskey "q">
-<!ENTITY findAgainCmd.commandkey "q">
+<!ENTITY findAgainCmd.commandkey "g">
 <!ENTITY findAgainCmd.commandkey2 "VK_F3">
 <!ENTITY spellAddDictionaries.label "Añadir diccionarios…">
 <!ENTITY spellAddDictionaries.accesskey "A">
