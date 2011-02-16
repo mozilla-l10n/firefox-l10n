@@ -6,10 +6,8 @@
 
 <!ENTITY abouthome.pageTitle "&brandFullName; શરૂઆત પાનું">
 
-<!-- LOCALIZATION NOTE (abouthome.brandStart):
-     brandShortName must be in a <span/>
--->
-<!ENTITY abouthome.brandStart "<span>&brandShortName;</span> શરૂ કરો">
+
+
 
 <!ENTITY abouthome.searchEngineButton.label "શોધો">
 
