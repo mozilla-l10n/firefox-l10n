@@ -302,6 +302,12 @@
 <!ENTITY calendar.alarm.snooze.2hours.label         "2 valandoms" >
 <!ENTITY calendar.alarm.snooze.1day.label           "1 dienai" >
 
+<!-- LOCALIZATION NOTE (calendar.alarm.snooze.cancel)
+     This string is not seen in the UI, it is read by screen readers when the
+     user focuses the "Cancel" button in the "Snooze for..." popup of the alarm
+     dialog. -->
+<!ENTITY calendar.alarm.snooze.cancel               "Atsisakyti atidėjimo">
+
 <!-- Calendar Server Dialog -->
 <!ENTITY calendar.server.dialog.title.edit          "Kalendoriaus aprašo taisymas">
 <!ENTITY calendar.server.dialog.name.label          "Kalendoriaus pavadinimas:">
@@ -313,6 +319,8 @@
 <!ENTITY calendarproperties.wcap.label              "Sun Java System Calendar Server (WCAP)">
 <!ENTITY calendarproperties.format.label            "Tipas:">
 <!ENTITY calendarproperties.location.label          "Vieta:">
+<!ENTITY calendarproperties.refreshInterval.label        "Atšviežinimo intervalas:">
+<!ENTITY calendarproperties.refreshInterval.manual.label "Tik pagal komandą">
 <!ENTITY calendarproperties.name.label              "Pavadinimas:">
 <!ENTITY calendarproperties.readonly.label          "Skirtas tik skaitymui">
 <!ENTITY calendarproperties.cache.label             "Kešuojamas (EKSPERIMENTINĖ GALIMYBĖ, reikės perleisti programą)">
