@@ -36,13 +36,7 @@
 
 <!ENTITY abouthome.pageTitle "„&brandFullName;“ pradžios tinklalapis">
 
-<!-- LOCALIZATION NOTE (brandStart): brandShortName must be in a <span/> -->
-<!ENTITY abouthome.brandStart "<span>„&brandShortName;“</span> pradžia">
-
 <!ENTITY abouthome.searchEngineButton.label "Ieškoti">
-
-<!ENTITY abouthome.searchEngineLinks.advanced "Patikslintoji paieška">
-<!ENTITY abouthome.searchEngineLinks.preferences "Nuostatos">
 
 <!ENTITY abouthome.aboutMozilla "Apie „Mozillą“">
 
