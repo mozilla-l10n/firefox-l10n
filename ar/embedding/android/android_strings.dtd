@@ -13,3 +13,5 @@
 <!ENTITY  crash_restart_label "أعِد تشغيل &brandShortName;">
 <!ENTITY  sending_crash_report "يرسل بلاغ الانهيار\u2026">
 <!ENTITY  exit_label "اخرج">
+<!ENTITY  incompatable_device "لا يدعم &brandShortName; هذا الجهاز وقد تواجه مشاكل في استخدامه.">
+<!ENTITY  continue_label "استمر">

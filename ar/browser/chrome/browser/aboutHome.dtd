@@ -6,11 +6,6 @@
 
 <!ENTITY abouthome.pageTitle "‫صفحة بداية &brandFullName;">
 
-<!-- LOCALIZATION NOTE (abouthome.brandStart):
-     brandShortName must be in a <span/>
--->
-<!ENTITY abouthome.brandStart "بداية <span>&brandShortName;</span>">
-
 <!ENTITY abouthome.searchEngineButton.label "ابحث">
 
 <!ENTITY abouthome.aboutMozilla "عن موزيلا">

@@ -8,3 +8,6 @@
 <!ENTITY aboutHome.openAllTabs                  "افتح الكل في ألسنة">
 <!ENTITY aboutHome.noTabs                       "لا يوجد ألسنة من المرة السابقة">
 <!ENTITY aboutHome.noAddons                     "لا يوجد إضافات مزكّاة">
+
+<!-- LOCALIZATION NOTE: 'Firefox Spark' is the official name of the promotion and should not be translated -->
+<!ENTITY aboutHome.promoSpark                   "شغّل Firefox Spark">
