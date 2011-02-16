@@ -45,6 +45,3 @@
 <!ENTITY pref.defaultlength.accesskey "t">
 <!ENTITY pref.defaultsnoozelength.label "Numatytoji priminimo atidėjimo trukmė:" >
 <!ENTITY pref.defaultsnoozelength.accesskey "a">
-<!ENTITY pref.refreshbox.label "Atšviežinimas" >
-<!ENTITY pref.autorefresh.label "Atšviežinti kalendorius kas" >
-<!ENTITY pref.autorefresh.accesskey "š" >
