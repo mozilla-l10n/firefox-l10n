@@ -105,6 +105,4 @@
 <!ENTITY pageactions.findInPage      "Temukan di Laman">
 <!ENTITY pageactions.search.addNew   "Tambah Mesin Pencari">
 
-<!ENTITY selectHelper.emptytext      "Filter Daftar">
-
 <!ENTITY appMenu.siteOptions         "Opsi Situs">

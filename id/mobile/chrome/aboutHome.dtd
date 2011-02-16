@@ -8,3 +8,6 @@
 <!ENTITY aboutHome.openAllTabs                  "Buka semua di tab">
 <!ENTITY aboutHome.noTabs                       "Tidak ada tab terakhir">
 <!ENTITY aboutHome.noAddons                     "Tidak ada pengaya direkomendasikan">
+
+<!-- LOCALIZATION NOTE: 'Firefox Spark' is the official name of the promotion and should not be translated -->
+<!ENTITY aboutHome.promoSpark                   "Mainkan Firefox Spark">
