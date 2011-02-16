@@ -1,6 +1,6 @@
 <!ENTITY  splash_screen_label "Lädt">
 <!ENTITY  splash_screen_installing "Libraries werden installiert\u2026">
-<!ENTITY  incompatable_cpu_error "Dieses Gerät erfüllt nicht nicht die minimalen Systemvoraussetzungen für &brandShortName;.">
+<!ENTITY  incompatable_cpu_error "Dieses Gerät erfüllt nicht die minimalen Systemvoraussetzungen für &brandShortName;.">
 <!ENTITY  no_space_to_start_error "Es ist nicht genügend Platz verfügbar, um &brandShortName; zu starten.">
 <!ENTITY  error_loading_file "Beim Versuch, Dateien zu laden, die &brandShortName; benötigt, ist ein Fehler aufgetreten">
 <!ENTITY  crash_reporter_title "&brandShortName;-Absturz-Melder">
