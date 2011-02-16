@@ -26,6 +26,7 @@
 <!ENTITY historyHeader.label       "Chronik">
 <!ENTITY desktopHeader.label       "Desktop">
 
+<!ENTITY editBookmarkDialog.title  "Lesezeichen bearbeiten">
 <!ENTITY editBookmarkDone.label    "Fertig">
 <!ENTITY editBookmarkTags.label    "Schlagwörter hier eintragen">
 
