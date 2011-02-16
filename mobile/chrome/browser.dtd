@@ -110,6 +110,4 @@
 <!ENTITY pageactions.findInPage      "ابحث في الصفحة">
 <!ENTITY pageactions.search.addNew   "أضِف محرك بحث">
 
-<!ENTITY selectHelper.emptytext      "لائحة الترشيح">
-
 <!ENTITY appMenu.siteOptions         "خيارات الموقع">
