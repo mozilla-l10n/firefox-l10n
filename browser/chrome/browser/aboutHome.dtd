@@ -8,8 +8,9 @@
 
 <!-- LOCALIZATION NOTE (abouthome.brandStart):
      brandShortName must be in a <span/>
--->
+
 <!ENTITY abouthome.brandStart "<span>&brandShortName;</span> सुरवात">
+-->
 
 <!ENTITY abouthome.searchEngineButton.label "शोधा">
 
