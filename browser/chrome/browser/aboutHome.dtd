@@ -6,9 +6,6 @@
 
 <!ENTITY abouthome.pageTitle "&brandFullName; ਸ਼ੁਰੂਆਤੀ ਸਫ਼ਾ">
 
-<!-- LOCALIZATION NOTE (brandStart): brandShortName must be in a <span/> -->
-<!ENTITY abouthome.brandStart "<span>&brandShortName;</span> ਸ਼ੁਰੂਆਤ">
-
 <!ENTITY abouthome.searchEngineButton.label "ਖੋਜ">
 
 <!ENTITY abouthome.aboutMozilla "ਮੋਜ਼ੀਲਾ ਬਾਰੇ">
