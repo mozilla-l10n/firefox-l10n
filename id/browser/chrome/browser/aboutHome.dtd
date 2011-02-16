@@ -9,8 +9,6 @@
 <!-- LOCALIZATION NOTE (abouthome.brandStart):
      brandShortName must be in a <span/>
 -->
-<!ENTITY abouthome.brandStart "Beranda <span>&brandShortName;</span>">
-
 <!ENTITY abouthome.searchEngineButton.label "Cari">
 
 <!ENTITY abouthome.aboutMozilla "Tentang Mozilla">
