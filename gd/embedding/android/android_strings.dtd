@@ -1,0 +1,17 @@
+<!ENTITY  splash_screen_label "'ga luchdadh">
+<!ENTITY  splash_screen_installing "a' stàladh nan leabhar-lanni\u2026">
+<!ENTITY  incompatable_cpu_error "Chan eil an siostam seo a' coileanadh na dh'fheumar airson &brandShortName; air a' char as lugha.">
+<!ENTITY  no_space_to_start_error "Chan eil àite gu leòr ann airson leigeil le &brandShortName; tòiseachadh.">
+<!ENTITY  error_loading_file "Thachair mearachd fhad 's a dh'fheuchar na faidhlichean a luchdadh a dh'fheumas &brandShortName;">
+
+<!ENTITY  crash_reporter_title "Aithrisiche nan tuislidhean aig &brandShortName;">
+<!ENTITY  crash_message "Thuislich &brandShortName;. Bu chòir dhut na tabaichean agad fhaicinn air duilleag-thòiseachaidh &brandShortName; nuair a thòisicheas tu e a-rithist.">
+<!ENTITY  crash_help_message "Nach cuidich thu leinn le càradh an duilgheadais seo?">
+<!ENTITY  crash_send_report_message "Cuir aithisg tuislidh gu Mozilla">
+<!ENTITY  crash_include_url "Gabh a-steach seòladh na duilleige">
+<!ENTITY  crash_close_label "Dùin">
+<!ENTITY  crash_restart_label "Ath-thòisich &brandShortName;">
+<!ENTITY  sending_crash_report "A' cur aithisg an tuislidh\u2026">
+<!ENTITY  exit_label "Fàg an-seo">
+<!ENTITY  incompatable_device "Chan eil &brandShortName; a' cur taic ris an inneal seo agus faodaidh gum bi duilgheadasan agad.">
+<!ENTITY  continue_label "Lean air adhart">
