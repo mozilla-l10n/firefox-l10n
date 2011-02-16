@@ -6,11 +6,6 @@
 
 <!ENTITY abouthome.pageTitle "Strona startowa programu &brandFullName;">
 
-<!-- LOCALIZATION NOTE (abouthome.brandStart):
-     brandShortName must be in a <span/>
--->
-<!ENTITY abouthome.brandStart "<span>&brandShortName;</span> Start">
-
 <!ENTITY abouthome.searchEngineButton.label "Szukaj">
 
 <!ENTITY abouthome.aboutMozilla "O Mozilli">
