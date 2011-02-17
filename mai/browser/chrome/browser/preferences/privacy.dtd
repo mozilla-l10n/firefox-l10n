@@ -11,12 +11,12 @@
 
 
 <!ENTITY  acceptThirdParty.label        "तृतीय पक्षीय कुकी स्वीकार  करू ">
-<!ENTITY  acceptThirdParty.accesskey    "p">
+<!ENTITY  acceptThirdParty.accesskey    "c">
 
 
 
 <!ENTITY  clearOnClose.label             "इतिहास साफ करू जखन &brandShortName; बन्न होइछ">
-<!ENTITY  clearOnClose.accesskey         "w">
+<!ENTITY  clearOnClose.accesskey         "r">
 
 <!ENTITY  clearOnCloseSettings.label     "सेटिंग…">
 <!ENTITY  clearOnCloseSettings.accesskey "t">
@@ -29,7 +29,7 @@
 
 
 <!ENTITY  historyHeader.pre.label          "&brandShortName; करताह:">
-<!ENTITY  historyHeader.pre.accesskey      "F">
+<!ENTITY  historyHeader.pre.accesskey      "w">
 <!ENTITY  historyHeader.remember.label     "इतिहास याद राखू">
 <!ENTITY  historyHeader.dontremember.label "इतिहास  कहियो  याद नहि राखू">
 <!ENTITY  historyHeader.custom.label       "Use custom settings for history">
@@ -76,7 +76,7 @@
 
 
 <!ENTITY  acceptCookies.label           "साइट सँ कुकीज स्वीकारू">
-<!ENTITY  acceptCookies.accesskey       "c">
+<!ENTITY  acceptCookies.accesskey       "A">
 
 <!ENTITY  keepUntil.label               "जारी राखू जखनतक:">
 <!ENTITY  keepUntil.accesskey           "K">
@@ -93,7 +93,7 @@
 
 
 <!ENTITY  locbar.pre.label              "जखन स्थान पट्टीक प्रयोग कएल जाए रहल अछि, सलाह दिअ':">
-<!ENTITY  locbar.pre.accessKey          "l">
+<!ENTITY  locbar.pre.accessKey          "u">
 <!ENTITY  locbar.post.label             "">
 <!ENTITY  locbar.both.label             "इतिहास आ पुस्तकचिह्न">
 <!ENTITY  locbar.history.label          "इतिहास">
