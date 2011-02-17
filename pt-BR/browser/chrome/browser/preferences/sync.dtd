@@ -1,11 +1,9 @@
 <!-- The page shown when not logged in... -->
-<!ENTITY setupButton.label          "Configurar o &syncBrand.fullName.label;">
+<!ENTITY setupButton.label          "Configurar &syncBrand.fullName.label;">
 <!ENTITY setupButton.accesskey      "C">
 <!ENTITY weaveDesc.label            "O &syncBrand.fullName.label; permite que você acesse seu histórico, favoritos, senhas e abas abertas em qualquer computador ou dispositivo móvel.">
 
 <!-- The page shown when logged in... -->
-<!ENTITY accountGroupboxCaption.label "Conta do &syncBrand.fullName.label;">
-<!ENTITY currentAccount.label         "Conta atual:">
 
 <!-- Login error feedback -->
 <!ENTITY updatePass.label             "Atualizar">
@@ -18,12 +16,7 @@
 <!ENTITY changePassword.label         "Modificar senha">
 <!ENTITY mySyncKey.label              "Modificar chave do Sync">
 <!ENTITY resetSync.label              "Reconfigurar Sync">
-<!ENTITY stopUsingAccount.label       "Sair desta conta">
-
-<!-- Sync Settings -->
-<!ENTITY syncPrefsCaption.label       "Sincronizar navegador">
-<!ENTITY syncComputerName.label       "Nome do computador:">
-<!ENTITY syncComputerName.accesskey   "N">
+<!ENTITY addDevice.label              "Adicionar um dispositivo">
 
 <!ENTITY syncMy.label               "Sincronizar:">
 <!ENTITY engine.bookmarks.label     "Favoritos">
@@ -37,6 +30,10 @@
 <!ENTITY engine.prefs.label         "Preferências">
 <!ENTITY engine.prefs.accesskey     "P">
 
+<!-- Device Settings -->
+<!ENTITY syncComputerName.label       "Nome do computador:">
+<!ENTITY syncComputerName.accesskey   "N">
+<!ENTITY deactivateDevice.label       "Desativar este dispositivo">
 
 <!-- Footer stuff -->
 <!ENTITY prefs.tosLink.label        "Termos de serviço">

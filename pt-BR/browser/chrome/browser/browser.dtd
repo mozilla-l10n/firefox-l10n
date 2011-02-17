@@ -460,7 +460,7 @@ you can use these alternative items. Otherwise, their values should be empty.  -
 
 <!ENTITY zoomOutButton.tooltip          "Diminuir zoom">
 <!ENTITY zoomInButton.tooltip           "Aumentar zoom">
-<!ENTITY zoomControls.label             "Controles do zoom">
+<!ENTITY zoomControls.label             "Controle do zoom">
 
 <!ENTITY quitApplicationCmdWin.label       "Sair"> 
 <!ENTITY quitApplicationCmdWin.accesskey   "S">
@@ -543,8 +543,11 @@ just addresses the organization to follow, e.g. "This site is run by " -->
 
 <!ENTITY syncBrand.shortName.label    "Sync">
 
-<!ENTITY syncSetup.label              "Configurar o &syncBrand.shortName.label;…">
+<!ENTITY syncSetup.label              "Configurar &syncBrand.shortName.label;…">
 <!ENTITY syncSetup.accesskey          "n">
 <!ENTITY syncSyncNowItem.label        "Sincronizar agora">
 <!ENTITY syncSyncNowItem.accesskey    "n">
 <!ENTITY syncToolbarButton.label      "Sincronizar">
+
+<!ENTITY addonBarCloseButton.tooltip  "Ocultar a barra de extensões">
+<!ENTITY toggleAddonBarCmd.key        "/">

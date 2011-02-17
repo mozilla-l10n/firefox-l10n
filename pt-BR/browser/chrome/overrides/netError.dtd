@@ -15,7 +15,7 @@
 <!ENTITY dnsNotFound.title "Servidor não encontrado">
 <!ENTITY dnsNotFound.longDesc "
 <ul>
-  <li>Verifique se há algum erro de digitação no endereço. Como
+  <li>Verifique se há erro de digitação no endereço. Como
     <strong>ww</strong>.exemplo.com.br em vez de
     <strong>www</strong>.exemplo.com.br</li>
   <li>Se você não consegue abrir nenhuma página, verifique a conexão de rede do seu computador.</li>
