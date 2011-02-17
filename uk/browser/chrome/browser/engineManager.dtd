@@ -16,10 +16,10 @@
 <!ENTITY  edit.accesskey            "р">
 
 <!ENTITY  addEngine.label           "Встановити інші засоби пошуку…">
-<!ENTITY  addEngine.accesskey       "т">
+<!ENTITY  addEngine.accesskey       "і">
 
 <!ENTITY  enableSuggest.label       "Показувати пошукові припущення">
 <!ENTITY  enableSuggest.accesskey   "П">
 
-<!ENTITY  restoreDefaults.label     "Відновити типові значення">
+<!ENTITY  restoreDefaults.label     "Відновити типові">
 <!ENTITY  restoreDefaults.accesskey "т">
