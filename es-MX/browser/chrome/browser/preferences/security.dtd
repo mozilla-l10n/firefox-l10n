@@ -1,8 +1,8 @@
-<!ENTITY warnAddonInstall.label "Avisarme si algún sitio web desea instalar complementos">
+<!ENTITY warnAddonInstall.label "Advertir cuando algún sitio web intente instalar complementos">
 <!ENTITY warnAddonInstall.accesskey "A">
-<!ENTITY blockAttackSites.label "Bloquear sitios web reportados como peligrosos">
+<!ENTITY blockAttackSites.label "Bloquear sitios web reportados como atacantes">
 <!ENTITY blockAttackSites.accesskey "p">
-<!ENTITY blockWebForgeries.label "Bloquear sitios web reportados como falsos">
+<!ENTITY blockWebForgeries.label "Bloquear sitios web reportados como fraudulentos">
 <!ENTITY blockWebForgeries.accesskey "f">
 <!ENTITY addonExceptions.label "Excepciones…">
 <!ENTITY addonExceptions.accesskey "E">

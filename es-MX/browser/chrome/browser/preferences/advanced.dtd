@@ -1,10 +1,10 @@
 <!ENTITY generalTab.label "General">
 <!ENTITY accessibility.label "Accesibilidad">
-<!ENTITY useCursorNavigation.label "Usar las teclas de navegación para navegar dentro de las páginas">
+<!ENTITY useCursorNavigation.label "Usar siempre las teclas del cursor para navegar dentro de las páginas">
 <!ENTITY useCursorNavigation.accesskey "n">
 <!ENTITY searchStartTyping.label "Buscar texto mientras se escribe">
 <!ENTITY searchStartTyping.accesskey "B">
-<!ENTITY blockAutoRefresh.label "Avisarme si los sitios web intenten redireccionar o recargar la página">
+<!ENTITY blockAutoRefresh.label "Advertir cuando una página web intente redireccionar o recargar la página">
 <!ENTITY blockAutoRefresh.accesskey "A">
 <!ENTITY browsing.label "Navegación">
 <!ENTITY useAutoScroll.label "Usar desplazamiento automático">

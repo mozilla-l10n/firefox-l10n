@@ -10,7 +10,7 @@
 <!ENTITY mySyncKey.label "Mi clave de Sync">
 <!ENTITY resetSync.label "Restablecer Sync">
 <!ENTITY addDevice.label "Añadir un dispositivo">
-<!ENTITY syncMy.label "Sync Mi">
+<!ENTITY syncMy.label "Sincronizar">
 <!ENTITY engine.bookmarks.label "Marcadores">
 <!ENTITY engine.bookmarks.accesskey "m">
 <!ENTITY engine.tabs.label "Pestañas">

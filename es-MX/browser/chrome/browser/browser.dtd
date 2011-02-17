@@ -19,7 +19,7 @@
 <!ENTITY moveToNewWindow.accesskey "V">
 <!ENTITY bookmarkAllTabs.label "Agregar todas a marcadores">
 <!ENTITY bookmarkAllTabs.accesskey "t">
-<!ENTITY undoCloseTab.label "Deshacer cerrar pestaña">
+<!ENTITY undoCloseTab.label "Deshacer el cierre de la última pestaña">
 <!ENTITY undoCloseTab.accesskey "D">
 <!ENTITY closeTab.label "Cerrar pestaña">
 <!ENTITY closeTab.accesskey "C">
@@ -194,7 +194,7 @@
 <!ENTITY preferencesCmdUnix.accesskey "f">
 <!ENTITY clearRecentHistory.label "Borrar el historial reciente…">
 <!ENTITY clearRecentHistory.accesskey "h">
-<!ENTITY privateBrowsingCmd.start.label "Iniciar la Navegación Privada">
+<!ENTITY privateBrowsingCmd.start.label "Iniciar la navegación privada">
 <!ENTITY privateBrowsingCmd.start.accesskey "p">
 <!ENTITY privateBrowsingCmd.stop.label "Detener la Navegación Privada">
 <!ENTITY privateBrowsingCmd.stop.accesskey "D">
