@@ -10,4 +10,5 @@
 <!ENTITY aboutHome.noAddons                     "Inga rekommenderade tillägg">
 
 <!-- LOCALIZATION NOTE: 'Firefox Spark' is the official name of the promotion and should not be translated -->
-<!ENTITY aboutHome.promoSpark                   "Spela Firefox Spark">
+<!ENTITY aboutHome.promoLabel                   "Firefox Spark">
+<!ENTITY aboutHome.promoButton                  "Spela">
