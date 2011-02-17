@@ -43,6 +43,6 @@
 <!ENTITY installerrors.wizard.title "Problemas instalando actualizaciones">
 <!ENTITY installerrors.intro.label "&brandShortName; ha encontrado problemas al actualizar
                                            algunos de sus complementos.">
-<!ENTITY clickFinish.label "Da clic en Terminar para continuar iniciando &brandShortName;.">
+<!ENTITY clickFinish.label "Da clic en Finalizar para continuar iniciando &brandShortName;.">
 <!ENTITY clickFinish.labelMac "Da clic en Terminado para continuar iniciando &brandShortName;.">
 <!ENTITY enableChecking.label "Permitir a &brandShortName; buscar actualizaciones.">

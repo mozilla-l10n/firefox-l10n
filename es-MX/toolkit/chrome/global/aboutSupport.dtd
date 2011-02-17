@@ -9,9 +9,9 @@
 <!ENTITY aboutSupport.appBasicsTitle "Application Basics">
 <!ENTITY aboutSupport.appBasicsName "Nombre">
 <!ENTITY aboutSupport.appBasicsVersion "Versión">
-<!ENTITY aboutSupport.appBasicsProfileDir "Perfil del directorio">
+<!ENTITY aboutSupport.appBasicsProfileDir "Directorio de perfil">
 <!ENTITY aboutSupport.appBasicsEnabledPlugins "Plugins activados">
-<!ENTITY aboutSupport.appBasicsBuildConfig "Generar configuración">
+<!ENTITY aboutSupport.appBasicsBuildConfig "Configuración de compilación">
 <!ENTITY aboutSupport.appBasicsUserAgent "Agente de usuario">
 <!ENTITY aboutSupport.show.label "Abrir la carpeta que lo contiene">
 <!ENTITY aboutSupport.showMac.label "Mostrar en Finder">
