@@ -81,14 +81,14 @@
 <!ENTITY protocolNotFound.title "Naslova ni bilo moč razumeti">
 <!ENTITY protocolNotFound.longDesc "
 <ul>
-  <li>You might need to install other software to open this address.</li>
+  <li>Lahko da boste morali namestiti kak drug program, da pridete lahko na ta naslov</li>
 </ul>
 ">
 
 <!ENTITY proxyConnectFailure.title "Strežnik proxy zavrača povezave">
 <!ENTITY proxyConnectFailure.longDesc "
 <ul>
-  <li>Check the proxy settings to make sure that they are correct.</li>
+  <li>Preverite proxy nastavitve, da so brez napake.</li>
   <li>Obrnite se na administratorja mreže, da zveste ali proxy strežnik
     dela.</li>
 </ul>
@@ -97,8 +97,8 @@
 <!ENTITY proxyResolveFailure.title "Strežnika proxy ni mogoče najti">
 <!ENTITY proxyResolveFailure.longDesc "
 <ul>
-  <li>Check the proxy settings to make sure that they are correct.</li>
-  <li>Preverite, ali je vaš računalnik aktivno povezan z mrežo..</li>
+  <li>Preverite proxy nastavitve, da so brez napake.</li>
+  <li>Preverite, ali je vaš računalnik aktivno povezan z mrežo.</li>
   <li>Če se vaš računalnik nahaja za požarno steno ali pa če uporablja proxy, se prepričajte,
     da ima &brandShortName; pravico uporabljati mrežo.</li>
 </ul>
@@ -107,24 +107,23 @@
 <!ENTITY redirectLoop.title "Stran se ne preusmerja pravilno">
 <!ENTITY redirectLoop.longDesc "
 <ul>
-  <li>This problem can sometimes be caused by disabling or refusing to accept
-    cookies.</li>
+  <li>Ta problem se lahko včasih nastane zaradi neveljavnosti ali zavračanja
+     piškotkov.</li>
 </ul>
 ">
 
 <!ENTITY unknownSocketType.title "Nepričakovan odgovor strežnika">
 <!ENTITY unknownSocketType.longDesc "
 <ul>
-  <li>Check to make sure your system has the Personal Security Manager
-    installed.</li>
-  <li>This might be due to a non-standard configuration on the server.</li>
+  <li>Preverite, ali je na vašem sistemu Skrbnik za Osebno Zaščito nameščen.</li>
+  <li>To je lahko posledica ne-standardne konfiguracije na strežniku.</li>
 </ul>
 ">
 
 <!ENTITY nssFailure2.title "Varna povezava ni uspela">
 <!ENTITY nssFailure2.longDesc "
 <ul>
-  <li>The page you are trying to view can not be shown because the authenticity of the received data could not be verified.</li>
+  <li>Strani, ki jo želite, ni mogoče prikazati, ker oristnoisti podatkov v njej ni bilo mogoče preveriti.</li>
   <li>Obrnite se na lastnike spletišča s tem problemom.</li>
 </ul>
 ">
@@ -132,35 +131,35 @@
 <!ENTITY nssBadCert.title "Varna povezava ni uspela">
 <!ENTITY nssBadCert.longDesc2 "
 <ul>
-  <li>This could be a problem with the server's configuration, or it could be
-someone trying to impersonate the server.</li>
-  <li>If you have connected to this server successfully in the past, the error may
-be temporary, and you can try again later.</li>
+  <li>To je lahko težava s konfiguracijo strežnika, ali pa se
+nekdo poskuša predstaviti kot strežnik.</li>
+  <li>Če ste se s tem strežnikom uspešno povezovali v preteklosti, gre lahko da začasno napako, tako da lahko ponovno poskusite kasneje.</li>
 </ul>
 ">
 
 <!ENTITY sharedLongDesc "
 <ul>
-  <li>The site could be temporarily unavailable or too busy. Try again in a few
-    moments.</li>
+  <li>Spletna stran je trenutno nedosegljiva ali pa zasedena. Poizkusite malo kasneje.</li>
   <li>Če ni mogoče naložiti ničesar, preverite povezavo svojega računalnika
     z mrežo.</li>
   <li>Če se vaš računalnik nahaja za požarno steno ali pa če uporablja proxy, se prepričajte,
-    da ima &brandShortName; pravico uporabljati mrežo.</li>
+  da ima &brandShortName; pravico uporabljati mrežo.</li>
 </ul>
 ">
 
 <!ENTITY malwareBlocked.title "Morebitna napadalna stran!">
 <!ENTITY malwareBlocked.longDesc "
-<p>Attack sites try to install programs that steal private information, use your computer to attack others, or damage your system.</p>
-<p>Website owners who believe their site has been reported as an attack site in error may <a href='http://www.stopbadware.org/home/reviewinfo'>request a review</a>.</p>
+<p>Napadalne strani poskušajo namestiti programe, s katerimi kradejo osebne podatke, lahko da zlorabljajo vaš računalnik za napade na druge in lahko tudi vaš sistem poškodujejo.</p>
+<p>Lastniki spletnih strani ki menijo, da se je njih spletišče po krivem razglasilo za napadlno stran, lahko na naslovu <a href='http://www.stopbadware.org/home/reviewinfo'> zahtevajo ponovno obravnavo</a>.</p>
 ">
 
 <!ENTITY phishingBlocked.title "Morebitna spletna prevara!">
 <!ENTITY phishingBlocked.longDesc "
-<p>Entering any personal information on this page may result in identity theft or other fraud.</p>
-<p>These types of web forgeries are used in scams known as phishing attacks, in which fraudulent web pages and emails are used to imitate sources you may trust.</p>
+<p>Navedba kakršnih koli osebnih podatkov na tej strani lahko povzroči krajo identitete ali drugih goljufij.</p>
+<p>Te vrste spletnih ponaredb se uporablja za prevare, ki so znane kot phishing napadi, pri katerih se goljufive spletne strani in e-pošto prikazuje kot zaupanja vredne.</p>
 ">
+<!ENTITY cspFrameAncestorBlocked.title "Blokirano zaradi pravil za varnost vsebin">
+<!ENTITY cspFrameAncestorBlocked.longDesc "<p>&brandShortName; je preprečil, da bi se to stran na ta način naložilo, kajti zanjo veljajo pravila o varnosti vsebin, ki tega ne dovoljujejo.</p>">
 
 <!ENTITY securityOverride.linkText "Lahko pa dodate izjemo…">
 <!ENTITY securityOverride.getMeOutOfHereButton "Spravi me proč od tod!">
@@ -171,9 +170,9 @@ contents of the <xul:button> tags.  The only language content is the label= fiel
 which uses strings already defined above. The button is included here (instead of
 netError.xhtml) because it exposes functionality specific to thunderbird. -->
 
-<!ENTITY securityOverride.warningText "
-<p>You should not add an exception if you are using an internet connection that you do not trust completely or if you are not used to seeing a warning for this server.</p>
+<!ENTITY securityOverride.warningContent "
+<p>Izjem ne dodajajte, če uporabljate internetne povezave, ki jim ne zaupate povsem, ali če za ta strežnik ne pričakujete opozoril.</p>
 
-<xul:button xmlns:xul='http://www.mozilla.org/keymaster/gatekeeper/there.is.only.xul' id='getMeOutOfHereButton' label='&securityOverride.getMeOutOfHereButton;'/>
-<xul:button xmlns:xul='http://www.mozilla.org/keymaster/gatekeeper/there.is.only.xul' id='exceptionDialogButton' label='&securityOverride.exceptionButtonLabel;'/>
+<button id='getMeOutOfHereButton'>&securityOverride.getMeOutOfHereButton;</button>
+<button id='exceptionDialogButton'>&securityOverride.exceptionButtonLabel;</button>
 ">

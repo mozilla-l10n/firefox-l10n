@@ -35,7 +35,7 @@
 
  ***** END LICENSE BLOCK ***** -->
 
-<!ENTITY toField2.label "za ">
+<!ENTITY toField2.label "to ">
 <!ENTITY fromField2.label "od ">
 <!ENTITY senderField2.label "pošiljatelj ">
 <!ENTITY organizationField2.label "organizacija ">
@@ -43,7 +43,7 @@
 
 <!ENTITY subjectField2.label "zadeva ">
 <!--# LOCALIZATION NOTE (ccField2.label): DONT_TRANSLATE -->
-<!ENTITY ccField2.label "cc">
+<!ENTITY ccField2.label "cc ">
 <!ENTITY bccField2.label "bcc">
 <!ENTITY newsgroupsField2.label "novičarske skupine ">
 <!ENTITY followupToField2.label "nadaljnje delo-za ">
@@ -56,7 +56,7 @@
 <!ENTITY originalWebsite2.label "spletna stran ">
 
 <!ENTITY editMessageDescription.label "To je osnutek sporočila">
-<!ENTITY editMessageButton.label "Urejaj…">
+<!ENTITY editMessageButton.label "Urejaj …">
 <!ENTITY hdrArchiveButton.label "arhiviraj">
 <!ENTITY hdrArchiveButton.tooltip "arhiviraj to sporočilo">
 <!ENTITY hdrReplyButton.label "odgovori">
@@ -69,8 +69,8 @@
 <!ENTITY hdrForwardButton.tooltip "posreduj to sporočilo">
 <!ENTITY hdrJunkButton.label "neželeno">
 <!ENTITY hdrJunkButton.tooltip "označi to sporočilo kot neželeno">
-<!ENTITY hdrTrashButton.label "izbriši">
-<!ENTITY hdrTrashButton.tooltip "izbriši to sporočilo">
+<!ENTITY hdrTrashButton.label "Izbriši">
+<!ENTITY hdrTrashButton.tooltip "Izbriši to sporočilo">
 
 <!ENTITY hdrViewToolbarShowFull.label "Pokaži ikone in besedilo">
 <!ENTITY hdrViewToolbarShowFull.accesskey "a">
@@ -92,25 +92,27 @@
 <!ENTITY markAsReadMenuItem.accesskey "p">
 <!ENTITY markAsUnreadMenuItem.label "označi kot neprebrano">
 <!ENTITY markAsUnreadMenuItem.accesskey "n">
-<!ENTITY saveAsMenuItem.label "shrani kot…">
+<!ENTITY saveAsMenuItem.label "shrani kot …">
 <!ENTITY saveAsMenuItem.accesskey "s">
 <!ENTITY viewSourceMenuItem.label "pokaži izvor">
 <!ENTITY viewSourceMenuItem.accesskey "i">
-<!ENTITY otherActionsPrint.label "natisni…">
+<!ENTITY otherActionsPrint.label "natisni …">
 <!ENTITY otherActionsPrint.accesskey "T">
 
 <!ENTITY openAttachmentCmd.label    "Odpri">
 <!ENTITY openAttachmentCmd.accesskey    "O">
-<!ENTITY saveAsAttachmentCmd.label    "Shrani kot…">
-<!ENTITY saveAsAttachmentCmd.accesskey    "N">
-<!ENTITY detachAttachmentCmd.label    "Odpni…">
-<!ENTITY deleteAttachmentCmd.label    "Zbriši">
-<!ENTITY saveAllAttachmentsCmd.label    "Shrani vse…">
-<!ENTITY saveAllAttachmentsCmd.accesskey    "b">
-<!ENTITY detachAllAttachmentsCmd.label    "Odpni vse…">
+<!ENTITY saveAsAttachmentCmd.label    "Shrani kot …">
+<!ENTITY saveAsAttachmentCmd.accesskey    "K">
+<!ENTITY detachAttachmentCmd.label    "Odpni …">
+<!ENTITY deleteAttachmentCmd.label    "Izbriši">
+<!ENTITY openAllAttachmentsCmd.label    "Odpri vse …">
+<!ENTITY openAllAttachmentsCmd.accesskey    "O">
+<!ENTITY saveAllAttachmentsCmd.label    "Shrani vse …">
+<!ENTITY saveAllAttachmentsCmd.accesskey    "h">
+<!ENTITY detachAllAttachmentsCmd.label    "Odpni vse …">
 <!ENTITY detachAllAttachmentsCmd.accesskey    "D">
-<!ENTITY deleteAllAttachmentsCmd.label    "Zbriši vse…">
-<!ENTITY deleteAllAttachmentsCmd.accesskey    "e">
+<!ENTITY deleteAllAttachmentsCmd.label    "Izbriši vse …">
+<!ENTITY deleteAllAttachmentsCmd.accesskey    "š">
 
 <!ENTITY copyLinkCmd.label        "Kopiraj mesto povezave">
 <!ENTITY copyLinkCmd.accesskey    "K">

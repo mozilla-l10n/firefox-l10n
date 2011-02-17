@@ -1,5 +1,5 @@
 <!ENTITY editContactPanelDeleteContact.label "Izbriši">
-<!ENTITY editContactPanelDeleteContact.accesskey "s">
+<!ENTITY editContactPanelDeleteContact.accesskey "b">
 
 <!ENTITY editContactName.label "Ime:">
 <!ENTITY editContactName.accesskey "I">
@@ -7,8 +7,11 @@
 <!ENTITY editContactEmail.label "E-pošta:">
 <!ENTITY editContactEmail.accesskey "e">
 
+<!ENTITY editContactAddressBook.label "Adresar:">
+<!ENTITY editContactAddressBook.accesskey "A">
+
 <!ENTITY editContactPanelCancel.label "Prekliči">
 <!ENTITY editContactPanelCancel.accesskey "P">
 
 <!ENTITY editContactPanelDone.label "Končano">
-<!ENTITY editContactPanelDone.accesskey "K">
+<!ENTITY editContactPanelDone.accesskey "X">

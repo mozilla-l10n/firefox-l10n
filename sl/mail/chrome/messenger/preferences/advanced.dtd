@@ -6,7 +6,7 @@
 
 <!-- General Settings -->
 
-<!ENTITY enableGlodaSearch.label       "Omogoči globalno iskanje in indeksiranje">
+<!ENTITY enableGlodaSearch.label       "Enable Global Search and Indexer">
 <!ENTITY enableGlodaSearch.accesskey   "e">
 <!ENTITY systemIntegration.label       "Sistemska integracija">
 <!ENTITY alwaysCheckDefault.label      "Ob zagonu vedno preveri, ali je &brandShortName; privzeti odjemalec elektronske pošte">
@@ -16,14 +16,14 @@
 <!ENTITY checkNow.label                "Preveri zdaj">
 <!ENTITY checkNow.accesskey            "I">
 <!ENTITY configEditDesc.label          "Napredna nastavitev">
-<!ENTITY configEdit.label              "Urejevalnik nastavitev…">
+<!ENTITY configEdit.label              "Urejevalnik nastavitev …">
 <!ENTITY configEdit.accesskey          "U">
 <!ENTITY returnReceiptsInfo.label      "Določi kako &brandShortName; obravnava povratnice">
-<!ENTITY showReturnReceipts.label      "Povratnice…">
+<!ENTITY showReturnReceipts.label      "Povratnice …">
 <!ENTITY showReturnReceipts.accesskey  "P">
 
 <!-- Display and Reading Settings -->
-<!ENTITY reading.caption               "Berem">
+<!ENTITY reading.caption               "Reading">
 <!ENTITY display.caption               "Prikaz">
 <!ENTITY showCondensedAddresses.label  "Za osebe v mojem adresarju prikaži le ime za prikaz">
 <!ENTITY showCondensedAddresses.accesskey "i">
@@ -35,7 +35,7 @@
 <!-- LOCALIZATION NOTE (markAsReadDelay.label): This will concatenate to
      "After displaying for [___] seconds",
      using (markAsReadDelay.label) and a number (secondsLabel.label). -->
-<!ENTITY markAsReadDelay.label         "Potem ko se kaže">
+<!ENTITY markAsReadDelay.label         "After displaying for">
 <!ENTITY markAsReadDelay.accesskey     "p">
 <!ENTITY secondsLabel.label            "sekund">
 <!ENTITY openMsgIn.label               "Odpri sporočila v:">
@@ -45,11 +45,11 @@
 <!ENTITY reuseExpRadio0.accesskey      "o">
 <!ENTITY reuseExpRadio1.label          "obstoječem oknu za sporočila">
 <!ENTITY reuseExpRadio1.accesskey      "s">
-<!ENTITY closeMsgWindowOnDelete.label  "Ko sporočilo zbrišeš, zapri njegovo okno">
-<!ENTITY closeMsgWindowOnDelete.accesskey "b">
+<!ENTITY closeMsgOnMoveOrDelete.label  "Zapri okno/zavihek s sporočilom ob premikanju ali brisanju">
+<!ENTITY closeMsgOnMoveOrDelete.accesskey "z">
 
 <!-- Update -->
-<!ENTITY autoCheck.label                "Samodejno preverjaj, če obstajajo posodobitve za:">
+<!ENTITY autoCheck.label                "Automatically check for updates to:">
 <!ENTITY enableAppUpdate.label          "&brandShortName;">
 <!ENTITY enableAppUpdate.accesskey      "d">
 <!ENTITY enableAddonsUpdate.label       "Nameščene razširitve in teme">
@@ -65,7 +65,7 @@
 <!ENTITY showUpdates.accesskey          "b">
 
 <!-- Networking and Disk Space -->
-<!ENTITY showSettings.label            "Nastavitve…">
+<!ENTITY showSettings.label            "Settings…">
 <!ENTITY showSettings.accesskey        "b">
 <!ENTITY proxiesConfigure.label        "Določite, kako naj se &brandShortName; poveže na internet.">
 <!ENTITY connectionsInfo.caption       "Povezava">
@@ -75,7 +75,7 @@
 <!ENTITY showOffline.accesskey         "O">
 
 <!ENTITY Diskspace "Prostor na disku">
-<!ENTITY offlineCompact.label "Strni mape, kadar to prihrani več kot">
+<!ENTITY offlineCompact.label "Strni mape,  kadar bo to prihranilo več kot">
 <!ENTITY offlineCompact.accesskey "a">
 <!ENTITY kb.label "kB">
 
@@ -85,14 +85,14 @@
 
   &useCacheBefore.label  [ textbox for cache size in MB ]   &useCacheAfter.label;
 -->
-<!ENTITY useCacheBefore.label            "Uporabi največ">
+<!ENTITY useCacheBefore.label            "Use up to">
 <!ENTITY useCacheBefore.accesskey        "U">
 <!ENTITY useCacheAfter.label             "MB prostora za predpomnjenje.">
 <!ENTITY clearCacheNow.label             "Počisti zdaj">
 <!ENTITY clearCacheNow.accesskey         "z">
 
 <!-- Certificates -->
-<!ENTITY certSelection.description       "Ko strežnik zahteva moje osebno potrdilo:">
+<!ENTITY certSelection.description       "When a server requests my personal certificate:">
 <!ENTITY certs.auto                      "Ga izberi samodejno">
 <!ENTITY certs.auto.accesskey            "s">
 <!ENTITY certs.ask                       "Me vsakokrat vprašaj">
