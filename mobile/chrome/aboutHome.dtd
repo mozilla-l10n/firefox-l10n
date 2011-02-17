@@ -10,5 +10,6 @@
 <!ENTITY aboutHome.noAddons                     "Geen aanbevolen add-ons">
 
 <!-- LOCALIZATION NOTE: 'Firefox Spark' is the official name of the promotion and should not be translated -->
-<!ENTITY aboutHome.promoSpark                   "Firefox Spark spelen">
+<!ENTITY aboutHome.promoLabel                   "Firefox Spark">
+<!ENTITY aboutHome.promoButton                  "Afspelen">
 
