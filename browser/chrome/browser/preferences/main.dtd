@@ -4,7 +4,7 @@
 <!ENTITY startupHomePage.label "Mostrar mi página de inicio">
 <!ENTITY startupBlankPage.label "Mostrar una página vacía">
 <!ENTITY startupLastSession.label "Mostrar ventanas y pestañas abiertas en última sesión">
-<!ENTITY homepage.label "Página de Inicio:">
+<!ENTITY homepage.label "Página de inicio:">
 <!ENTITY homepage.accesskey "P">
 <!ENTITY useCurrentPage.label "Usar página actual">
 <!ENTITY useCurrentPage.accesskey "a">

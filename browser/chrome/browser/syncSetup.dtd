@@ -20,20 +20,20 @@
 <!ENTITY setup.confirmPassword.accesskey "m">
 <!ENTITY setup.emailAddress.label "Dirección de correo electrónico">
 <!ENTITY setup.emailAddress.accesskey "E">
-<!ENTITY setup.tosAgree1.label "Estoy de acuerdo con">
+<!ENTITY setup.tosAgree1.label "Acepto los">
 <!ENTITY setup.tosAgree1.accesskey "a">
 <!ENTITY setup.tosLink.label "Términos de Servicio">
-<!ENTITY setup.tosAgree2.label "y el">
+<!ENTITY setup.tosAgree2.label "y la">
 <!ENTITY setup.ppLink.label "Política de privacidad">
 <!ENTITY setup.tosAgree3.label "">
 <!ENTITY setup.tosAgree2.accesskey "">
 <!ENTITY setup.newSyncKeyPage.title.label "&brandShortName; se preocupa por tu privacidad">
-<!ENTITY setup.newSyncKeyPage.description.label "Para asegurar tu privacidad total, todos tus datos han sido encriptados antes de ser subidos. La clave de Sync que es necesaria para descifrar datos no se sube.">
+<!ENTITY setup.newSyncKeyPage.description.label "Para asegurar una privacidad total, todos los datos son cifrados antes de ser enviados. La clave de Sync, que es necesaria para descifrar sus datos, no es enviada.">
 <!ENTITY syncKeyEntry.label "Tu clave de Sync">
 <!ENTITY syncKeyEntry.accesskey "S">
 <!ENTITY syncKeyGenerate.label "Generar">
-<!ENTITY syncKeyBackup.description "Tu clave de Sync requiere acceso a &syncBrand.fullName.label; en otras maquinas. Por favor crea una copia de seguridad. No podemos ayudarte a recuperar tu clave de Sync.">
-<!ENTITY button.syncKeyBackup.print.label "Imprimir...">
+<!ENTITY syncKeyBackup.description "Tu clave de Sync es necesaria para acceder a &syncBrand.fullName.label; en otras maquinas. Por favor crea una copia de seguridad. No podemos ayudarte a recuperar tu clave de Sync.">
+<!ENTITY button.syncKeyBackup.print.label "Imprimir…">
 <!ENTITY button.syncKeyBackup.print.accesskey "P">
 <!ENTITY button.syncKeyBackup.save.label "Guardar…">
 <!ENTITY button.syncKeyBackup.save.accesskey "G">
@@ -79,4 +79,4 @@
 <!ENTITY confirm.server2.label "Aviso: Los siguientes dispositivos se sobrescribirán con los datos locales:">
 <!ENTITY setup.successPage.title "Instalación completa">
 <!ENTITY changeOptions.label "Tu puedes cambiar esta preferencia seleccionando Opciones en Sync.">
-<!ENTITY continueUsing.label "Ahora puedes ser usando &brandShortName;.">
+<!ENTITY continueUsing.label "Ahora puedes continuar usando &brandShortName;.">

@@ -17,6 +17,6 @@ está intentando suplantarlo y no deberías continuar.">
 puedes indicarle a &brandShortName; confiar en la identificación de este sitio web.
 <b>Incluso si confías en este sitio web, este error podría significar
 que alguien está interfiriendo tu conexión.</b>">
-<!ENTITY certerror.expert.contentPara2 "No agregues una excepción a menos que sepas que hay una buena razón para este sitio no utiliza la identificación de confianza.">
+<!ENTITY certerror.expert.contentPara2 "No agregues una excepción a menos que sepas que hay una buena razón para que este sitio no utilice la identificación de confianza.">
 <!ENTITY certerror.addException.label "Añadir excepción…">
 <!ENTITY certerror.technical.heading "Detalles técnicos">
