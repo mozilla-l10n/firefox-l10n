@@ -14,22 +14,15 @@
 <!ENTITY aboutProduct.accesskey   "S">
 <!ENTITY productHelp.label        "Ajuda do &brandShortName;">
 <!ENTITY productHelp.accesskey    "u">
-<!ENTITY helpForIEUsers.label     "Para usuários do Internet Explorer">
-<!ENTITY helpForIEUsers.accesskey "P">
 <!ENTITY helpMac.commandkey       "?">
 <!ENTITY helpSafeMode.label       "Reiniciar com extensões desativadas…">
 <!ENTITY helpSafeMode.accesskey   "R">
-
-<!ENTITY helpReleaseNotes.label         "Notas da versão">
-<!ENTITY helpReleaseNotes.accesskey     "N">
 
 <!ENTITY helpTroubleshootingInfo.label      "Dados para suporte">
 <!ENTITY helpTroubleshootingInfo.accesskey  "a">
 
 <!ENTITY helpFeedbackPage.label      "Enviar minha opinião…">
 <!ENTITY helpFeedbackPage.accesskey  "E">
-
-<!ENTITY updateCmd.label                "Verificar atualizações…">
 
 <!ENTITY preferencesCmdMac.label        "Preferências…">
 <!ENTITY preferencesCmdMac.commandkey   ",">

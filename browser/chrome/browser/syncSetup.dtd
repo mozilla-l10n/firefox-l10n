@@ -4,7 +4,8 @@
 
 <!ENTITY setup.pickSetupType.description "Nunca usou o &syncBrand.fullName.label;? Então você precisará criar uma conta.">
 <!ENTITY button.createNewAccount.label "Criar uma conta">
-<!ENTITY button.haveAccount.label "Eu tenho uma conta do &syncBrand.fullName.label;">
+<!ENTITY setup.haveAccount.label "Já tenho uma conta do &syncBrand.fullName.label;.">
+<!ENTITY button.connect.label    "Conectar">
 
 <!ENTITY setup.choicePage.title.label     "Você já usa o &syncBrand.fullName.label;?">
 <!ENTITY setup.choicePage.new.label       "Nunca usei o &syncBrand.shortName.label;">
@@ -13,13 +14,13 @@
 <!-- New Account AND Existing Account -->
 <!ENTITY server.label               "Servidor:">
 <!ENTITY serverType.main.label      "Servidor do &syncBrand.fullName.label;">
-<!ENTITY serverType.custom.label    "Usar um outro servidor">
-<!ENTITY signIn.account.label       "Email / Nome de usuário:">
-<!ENTITY signIn.account.accesskey   "E">
+<!ENTITY serverType.custom2.label   "Usar um outro servidor…">
+<!ENTITY signIn.account2.label      "Conta:">
+<!ENTITY signIn.account2.accesskey  "C">
 <!ENTITY signIn.password.label      "Senha:">
 <!ENTITY signIn.password.accesskey  "S">
-<!ENTITY signIn.serverURL.label     "Endereço do servidor:">
-<!ENTITY signIn.serverURL.accesskey "d">
+<!ENTITY signIn.syncKey.label       "Chave do Sync:">
+<!ENTITY signIn.syncKey.accesskey   "h">
 
 <!-- New Account Page 1: Basic Account Info -->
 <!ENTITY setup.newAccountDetailsPage.title.label "Detalhes da conta">
@@ -41,9 +42,9 @@
 <!ENTITY setup.newSyncKeyPage.title.label "O &brandShortName; se importa com a sua privacidade.">
 <!ENTITY setup.newSyncKeyPage.description.label "Para assegurar a sua total privacidade, todos os seus dados serão criptografados antes de serem enviados. A chave do Sync, necessária para descriptografar os dados, não será enviada.">
 <!ENTITY syncKeyEntry.label        "Sua chave do Sync:">
-<!ENTITY syncKeyEntry.accesskey    "c">
+<!ENTITY syncKeyEntry.accesskey    "u">
 <!ENTITY syncKeyGenerate.label     "Gerar">
-<!ENTITY syncKeyBackup.description "Sua chave do Sync é necessária para acessar o &syncBrand.fullName.label; em outros dispositivos. Por favor, faça um backup. Nós não poderemos auxiliá-lo caso perca a chave do Sync.">
+<!ENTITY syncKeyBackup.description "Sua chave do Sync é necessária para acessar o &syncBrand.fullName.label; em outros dispositivos. Por favor, faça um backup. Nós não poderemos auxiliá-lo caso a perca.">
 
 <!ENTITY button.syncKeyBackup.print.label     "Imprimir…">
 <!ENTITY button.syncKeyBackup.print.accesskey "I">
@@ -52,18 +53,25 @@
 
 <!-- New Account Page 3: Captcha -->
 <!ENTITY setup.captchaPage2.title.label     "Por favor, confirme que você não é um robô">
+<!-- Existing Account Page 1: Add Device (incl. Add a Device dialog strings) -->
+<!ENTITY addDevice.title.label              "Adicionar um dispositivo">
+<!ENTITY addDevice.showMeHow.label          "Mostrar como">
+<!ENTITY addDevice.dontHaveDevice.label     "O dispositivo não está comigo">
+<!ENTITY addDevice.setup.description.label  "Para ativar, entre em Opções do &syncBrand.shortName.label; no seu outro aparelho e selecione “Adicionar um dispositivo”.">
+<!ENTITY addDevice.setup.enterCode.label    "Então, forneça este código:">
+<!ENTITY addDevice.dialog.description.label "Para ativar seu novo dispositivo, entre em Opções do &syncBrand.shortName.label; no seu aparelho e selecione “Conectar”.">
+<!ENTITY addDevice.dialog.enterCode.label   "Forneça o código dado pelo dispositivo:">
+<!ENTITY addDevice.dialog.tryAgain.label    "Por favor, tente de novo.">
+<!ENTITY addDevice.dialog.successful.label  "O dispositivo foi adicionado com êxito. A sincronização inicial pode levar vários minutos e será concluída em segundo plano.">
+<!ENTITY addDevice.dialog.syncKey.label     "Para ativar seu dispositivo você precisará fornecer sua chave do Sync. Por favor, imprima ou salve esta chave e leve-a com você.">
+<!ENTITY addDevice.dialog.connected.label   "Dispositivo conectado">
 
-<!-- Existing Account Page 1: Login -->
-<!ENTITY setup.existingAccount.title.label "Informações da conta">
-<!ENTITY resetPassword.label          "Redefinir senha">
-<!ENTITY connecting.label             "Conectando…">
-
-<!-- Existing Account Page 2: Sync Key -->
-<!ENTITY setup.existingSyncKeyPage.title "Forneça sua chave do Sync">
-<!ENTITY setup.existingSyncKeyPage.description "A chave do Sync foi gerada para você ou fornecida por você quando a conta do &syncBrand.fullName.label; foi criada. É diferente da sua senha.">
-<!ENTITY existingSyncKeyHelp.description "Você pode encontrar a sua chave do Sync em outro computador verificando as “Senhas memorizadas” no painel “Segurança”. Caso não consiga a chave do Sync correta, você poderá redefiní-la. Entretanto, perderá todos os dados armazenados no servidor.">
-<!ENTITY lostSyncKey.label            "Eu perdi minha chave do Sync">
+<!-- Existing Account Page 2: Manual Login -->
+<!ENTITY setup.signInPage.title.label "Conectar">
+<!ENTITY existingSyncKey.description "Você pode conseguir uma cópia da sua chave do Sync em Opções do &syncBrand.shortName.label; no seu outro aparelho e então selecionando “Modificar chave do Sync” em “Gerenciar conta”.">
 <!ENTITY verifying.label              "Verificando…">
+<!ENTITY resetPassword.label          "Redefinir senha">
+<!ENTITY resetSyncKey.label           "Perdi meu outro dispositivo.">
 
 <!-- Sync Options -->
 <!ENTITY setup.optionsPage.title      "Opções do Sync">
@@ -91,7 +99,7 @@
 <!ENTITY setup.optionsConfirmPage.title "Confirmação">
 <!ENTITY confirm.merge.label    "O &syncBrand.fullName.label; irá mesclar os dados da sua conta do Sync com os deste computador.">
 <!ENTITY confirm.client2.label         "Alerta: estes dados do &brandShortName; neste computador serão excluídos:">
-<!ENTITY confirm.client.moreinfo.label "O &brandShortName; então copiará para este computador todos os dados do &syncBrand.fullName.label;.">
+<!ENTITY confirm.client.moreinfo.label "Então o &brandShortName; copiará para este computador os dados do &syncBrand.fullName.label;.">
 <!ENTITY confirm.server2.label         "Alerta: estes dispositivos terão seus dados substituídos pelos dados locais:">
 
 <!-- New & Existing Account: Setup Complete -->
