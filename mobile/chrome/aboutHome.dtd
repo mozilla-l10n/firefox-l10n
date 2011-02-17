@@ -10,4 +10,5 @@
 <!ENTITY aboutHome.noAddons                     "沒有推薦的附加元件">
 
 <!-- LOCALIZATION NOTE: 'Firefox Spark' is the official name of the promotion and should not be translated -->
-<!ENTITY aboutHome.promoSpark                   "玩玩 Firefox Spark">
+<!ENTITY aboutHome.promoLabel                   "Firefox Spark">
+<!ENTITY aboutHome.promoButton                  "玩玩">
