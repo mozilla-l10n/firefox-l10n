@@ -3,7 +3,7 @@
 <!-- These strings are used in the about:home page -->
 
 
-<!ENTITY abouthome.pageTitle "I&brandShortName; iKhasi Lokuqala">
+<!ENTITY abouthome.pageTitle "&brandFullName; Start Page">
 
 <!ENTITY abouthome.searchEngineButton.label "Funa">
 
@@ -12,8 +12,8 @@
      text in <a/> will be linked to the Firefox features page on mozilla.com
 -->
 
-<!ENTITY abouthome.defaultSnippet1.v1 "Siyabonga ukuba ukhethe i-Firefox! Ukuthola okuningi kuvela kwisiphecululi, funda ngaphezulu mayelana ne-a>izici zamanje</a>.">
+<!ENTITY abouthome.defaultSnippet1.v1 "Siyabonga ukuba ukhethe i-Firefox! Ukuthola okuningi kuvela kwisiphecululi, funda ngaphezulu mayelana ne-<a>izici zamanje</a>.">
 <!-- LOCALIZATION NOTE (abouthome.defaultSnippet2.v1):
      text in <a/> will be linked to the featured add-ons on addons.mozilla.org
 -->
-<!ENTITY abouthome.defaultSnippet2.v1 "Kulula ukwenza i-Firefox ngokwezifiso zakho ngendlela oyifunayo.<a>Khetha kulokho okwengeziwe okuyizinkulungwane<a>.">
+<!ENTITY abouthome.defaultSnippet2.v1 "Kulula ukwenza i-Firefox ngokwezifiso zakho ngendlela oyifunayo. <a>Khetha kulokho okwengeziwe okuyizinkulungwane</a>.">
