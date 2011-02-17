@@ -542,7 +542,7 @@ just addresses the organization to follow, e.g. "This site is run by " -->
 
 <!ENTITY syncTabsMenu.label     "Omaki abavela kwamanye amakhompyutha">
 
-<!ENTITY syncBrand.shortName.label    "i-Sync">
+<!ENTITY syncBrand.shortName.label    "Sync">
 
 <!ENTITY syncSetup.label              "Misa i-&syncBrand.shortName.label;...">
 <!ENTITY syncSetup.accesskey          "Y">
