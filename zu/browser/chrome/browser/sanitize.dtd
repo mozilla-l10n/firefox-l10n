@@ -58,5 +58,5 @@ that require it.  -->
 
 <!ENTITY sanitizeEverythingUndoWarning     "Lesi senzo asikwazi ukususwa uma kwenziwe.">
 
-<!ENTITY dialog.width                 "28em">
+<!ENTITY dialog.width                 "32em">
 <!ENTITY column.width                 "14em">
