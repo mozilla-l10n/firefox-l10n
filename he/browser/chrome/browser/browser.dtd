@@ -284,8 +284,8 @@ can reach it easily. -->
 <!ENTITY appMenuUnsorted.label "סימניות לא ממויינות">
 <!ENTITY appMenuWebDeveloper.label "כלי פיתוח">
 <!ENTITY appMenuGettingStarted.label "התחל כאן">
-<!ENTITY appMenuSafeMode.label "אתחל עם תוספות מנוטרלות…">
-<!ENTITY appMenuSafeMode.accesskey "א">
+<!ENTITY appMenuSafeMode.label "הפעלה מחדש עם תוספות מנוטרלות…">
+<!ENTITY appMenuSafeMode.accesskey "מ">
 
 <!ENTITY openCmd.commandkey           "l">
 <!ENTITY urlbar.placeholder           "עבור לאתר">
