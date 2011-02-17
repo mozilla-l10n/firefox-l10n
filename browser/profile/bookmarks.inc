@@ -12,7 +12,7 @@
 #define bookmarks_toolbarfolder Ifolda Yebha Yamathuluzi Okokuphawula
 
 
-#define bookmarks_toolbarfolder_description Add bookmarks to this folder to see them displayed on the Bookmarks Toolbar
+#define bookmarks_toolbarfolder_description Yengeza uphawu lokubekisa kule folda ukuze ulubone likhonjiwe kwi-bar yamathuluzi lophawu lokubekisa
 
 
 # LOCALIZATION NOTE (getting_started):
@@ -30,7 +30,7 @@
 
 # Changing the redirect is subject to approval of l10n-drivers.
 
-#define latest_headlines Latest Headlines
+#define latest_headlines Izihloko zezinaba zakamuva
 
 
 # LOCALIZATION NOTE (firefox_heading):
@@ -44,28 +44,28 @@
 
 # link title for http://en-US.www.mozilla.com/en-US/firefox/help/
 
-#define firefox_help Help and Tutorials
+#define firefox_help Usizo kanye nokufundisa
 
 
 # LOCALIZATION NOTE (firefox_customize):
 
 # link title for http://en-US.www.mozilla.com/en-US/firefox/customize/
 
-#define firefox_customize Customize Firefox
+#define firefox_customize yenza i-Firefox ngokwezifiso
 
 
 # LOCALIZATION NOTE (firefox_community):
 
 # link title for http://en-US.www.mozilla.com/en-US/firefox/community/
 
-#define firefox_community Get Involved
+#define firefox_community Zibandakanye
 
 
 # LOCALIZATION NOTE (firefox_about):
 
 # link title for http://en-US.www.mozilla.com/en-US/about/
 
-#define firefox_about About Us
+#define firefox_about Mayelana nathi
 
 
 #unfilter emptyLines

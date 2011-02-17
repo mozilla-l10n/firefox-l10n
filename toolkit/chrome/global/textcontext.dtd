@@ -12,9 +12,9 @@
 <!ENTITY deleteCmd.accesskey "C">
 
 <!ENTITY spellAddToDictionary.label "Yengeza kusichazamazwi">
-<!ENTITY spellAddToDictionary.accesskey " ">
+<!ENTITY spellAddToDictionary.accesskey "k">
 <!ENTITY spellCheckEnable.label "Hlola isipelingi">
 <!ENTITY spellCheckEnable.accesskey "i">
 <!ENTITY spellNoSuggestions.label "(Azikho izipelingi eziphakamisiwe)">
-<!ENTITY spellDictionaries.label "Nezilimi">
-<!ENTITY spellDictionaries.accesskey "l">
+<!ENTITY spellDictionaries.label "Izilimi">
+<!ENTITY spellDictionaries.accesskey "I">

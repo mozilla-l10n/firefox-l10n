@@ -7,15 +7,15 @@
 <!ENTITY startupLastSession.label  "Bonisa amawindi wami namathebhu wesikhathi esedlule">
 <!ENTITY homepage.label            "Ikhasi eliyisiqalo:">
 <!ENTITY homepage.accesskey        "I">
-<!ENTITY useCurrentPage.label      "Sebenzisa Ikhasi Elikhona Manje">
-<!ENTITY useCurrentPage.accesskey  "I">
-<!ENTITY useMultiple.label         "Sebenzisa Amakhasi Akhona Manje">
+<!ENTITY useCurrentPage.label      "Sebenzisa ikhasi lamanje">
+<!ENTITY useCurrentPage.accesskey  "l">
+<!ENTITY useMultiple.label         "Sebenzisa amakhasi wamanje">
 <!ENTITY useBookmark.label         "Sebenzisa ukuphawula">
 <!ENTITY useBookmark.accesskey     "u">
-<!ENTITY restoreDefault.label      "Buyisela okwakhona">
+<!ENTITY restoreDefault.label      "Buyisela kokwakhona">
 <!ENTITY restoreDefault.accesskey  "B">
 
-<!ENTITY downloads.label     "Ukwaziswa Okuthathwe Kwafakwa">
+<!ENTITY downloads.label     "Okulayishiwe kwangeniswa">
 
 <!ENTITY showWhenDownloading.label     "Bonisa iwindi lokulayisha uma kulayishwa ifayela">
 <!ENTITY showWhenDownloading.accesskey "l">
@@ -27,8 +27,8 @@
 <!ENTITY chooseFolderWin.accesskey    "m">
 <!ENTITY chooseFolderMac.label        "Khetha...">
 <!ENTITY chooseFolderMac.accesskey    "a">
-<!ENTITY alwaysAsk.label "Uhlale ungibuza ukuthi amafayela agcinwe kuphi">
-<!ENTITY alwaysAsk.accesskey "U">
+<!ENTITY alwaysAsk.label "Ngihlale ngibuzwa ukuthi amafayela agcinwe kuphi">
+<!ENTITY alwaysAsk.accesskey "N">
 
 <!ENTITY addonsMgr.label               "Okungangezwa">
 <!ENTITY manageAddonsDescWin.label     "Shintsha izinketho zokungangezwa kwakho">

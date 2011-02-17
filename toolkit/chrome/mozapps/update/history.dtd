@@ -1,12 +1,12 @@
 
-<!ENTITY  history.title             "Iwindi Elithuthukisiwe">
+<!ENTITY  history.title             "Vuselela umlando">
 <!ENTITY  history.intro             "Ukuthuthukisa okulandelayo kufakiwe:">
 <!ENTITY  closebutton.label         "Vala">
                                      
-<!ENTITY  noupdates.label           "Akukho ukuthuthukisa okwenziwe">
+<!ENTITY  noupdates.label           "Akukho ukuvuselelwa okwenziwe">
 
-<!ENTITY  name.header               "Igama Elithuthukisiwe">
-<!ENTITY  date.header               "Faka Usuku">
+<!ENTITY  name.header               "Vuselela igama">
+<!ENTITY  date.header               "Faka usuku">
 <!ENTITY  type.header               "Uhlobo">
 <!ENTITY  state.header              "Izwe">
 

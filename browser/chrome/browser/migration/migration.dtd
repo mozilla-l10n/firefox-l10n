@@ -13,28 +13,28 @@
 <!ENTITY importFromNothing.accesskey    "U">
 <!ENTITY importFromSeamonkey.label      "INetscape 6, 7 noma iMozilla 1.x">
 <!ENTITY importFromSeamonkey.accesskey  "N">
-<!ENTITY importFromNetscape4.label      "INetscape 4.x">
+<!ENTITY importFromNetscape4.label      "I-Netscape 4.x">
 <!ENTITY importFromNetscape4.accesskey  "4">
 <!ENTITY importFromOpera.label          "I-Opera">
 <!ENTITY importFromOpera.accesskey      "O">
-<!ENTITY importFromCamino.label         "ICamino">
+<!ENTITY importFromCamino.label         "I-Camino">
 <!ENTITY importFromCamino.accesskey     "C">
-<!ENTITY importFromSafari.label         "ISafari">
+<!ENTITY importFromSafari.label         "I-Safari">
 <!ENTITY importFromSafari.accesskey     "S">
 <!ENTITY importFromOmniWeb.label        "I-OmniWeb">
 <!ENTITY importFromOmniWeb.accesskey    "W">
 <!ENTITY importFromICab.label           "I-iCab">
 <!ENTITY importFromICab.accesskey       "i">
-<!ENTITY importFromKonqueror.label      "IKonqueror">
+<!ENTITY importFromKonqueror.label      "I-Konqueror">
 <!ENTITY importFromKonqueror.accesskey  "K">
 <!ENTITY importFromEpiphany.label       "I-Epiphany">
 <!ENTITY importFromEpiphany.accesskey   "E">
-<!ENTITY importFromGaleon.label         "IGaleon">
+<!ENTITY importFromGaleon.label         "I-Galeon">
 <!ENTITY importFromGaleon.accesskey     "G">
-<!ENTITY importFromHTMLFile.label       "From an HTML File">
-<!ENTITY importFromHTMLFile.accesskey   "F">
+<!ENTITY importFromHTMLFile.label       "Kusuka efayeleni le-HTML">
+<!ENTITY importFromHTMLFile.accesskey   "K">
 
-<!ENTITY noMigrationSources.label       "No programs that contain bookmarks, history or password data could be found.">
+<!ENTITY noMigrationSources.label       "Azikho izinhlelo eziqukethi izimpawu, umlando noma idatha yephasiedi ezingatholakala.">
 
 <!ENTITY importSource.title             "Yamukela Ukuhlelwa Nokwaziswa Kuvela">
 <!ENTITY importItems.title              "Izinto zokwamukelwa">

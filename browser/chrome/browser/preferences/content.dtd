@@ -1,31 +1,31 @@
-<!ENTITY  blockPopups.label           "Vimbela Amafasitela Aqhamuka Esikhaleni">
+<!ENTITY  blockPopups.label           "Vimbela amawindi azivelelayo">
 <!ENTITY  blockPopups.accesskey       "V">
-<!ENTITY  popupExceptions.label       "Okuhlukile">
+<!ENTITY  popupExceptions.label       "Okuhlukile...">
 <!ENTITY  popupExceptions.accesskey   "O">
 
 <!ENTITY  loadImages.label            "Layisha izithombe ngokuzenzakalela">
 <!ENTITY  loadImages.accesskey        "i">
-<!ENTITY  exceptions.label            "Okuhlukile">
+<!ENTITY  exceptions.label            "Okuhlukile...">
 <!ENTITY  exceptions.accesskey        "k">
 
-<!ENTITY  enableJavaScript.label      "Yenza Kusebenze iJavaScript">
-<!ENTITY  enableJavaScript.accesskey  "S">
+<!ENTITY  enableJavaScript.label      "Yenza kusebenze umbhalo we-Java">
+<!ENTITY  enableJavaScript.accesskey  "J">
 <!ENTITY  advancedJS.label            "Okuthuthukile…">
 <!ENTITY  advancedJS.accesskey        "u">
 
-<!ENTITY  enableJava.label            "Yenza Isebenze iJava">
-<!ENTITY  enableJava.accesskey        "J">
+<!ENTITY  enableJava.label            "Yenza iJava isebenze">
+<!ENTITY  enableJava.accesskey        "e">
 
 
-<!ENTITY  fontsAndColors.label        "Izinhlobo Zemibhalo &amp; Imibala">
+<!ENTITY  fontsAndColors.label        "Imibhalo nemibala">
 
-<!ENTITY  defaultFont.label           "Ifonti Yakhona:">
-<!ENTITY  defaultFont.accesskey       "Y">
+<!ENTITY  defaultFont.label           "Umbhalo wakhona:">
+<!ENTITY  defaultFont.accesskey       "w">
 <!ENTITY  defaultSize.label           "Usayizi:">
 <!ENTITY  defaultSize.accesskey       "U">
 
 <!ENTITY  advancedFonts.label         "Okuthuthukile…">
-<!ENTITY  advancedFonts.accesskey     "u">
+<!ENTITY  advancedFonts.accesskey     "O">
 
 <!ENTITY  colors.label                "Imibala…">
 <!ENTITY  colors.accesskey            "I">
@@ -33,5 +33,5 @@
 
 <!ENTITY languages.label              "Izilimi">
 <!ENTITY chooseLanguage.label         "Khetha ulimi olithandayo lokuboniswa kwamakhasi">
-<!ENTITY chooseButton.label           "Khetha">
-<!ENTITY chooseButton.accesskey       "o">
+<!ENTITY chooseButton.label           "Khetha...">
+<!ENTITY chooseButton.accesskey       "e">

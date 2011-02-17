@@ -40,9 +40,9 @@
 
 <!ENTITY allowScripts.label             "Vumela umbhalo ku-:">
 
-<!ENTITY moveResizeWindows.label        "Yisa kwenye indawo noma uwenze abe usayizi omusha amafasitela akhona">
+<!ENTITY moveResizeWindows.label        "Yisa kwenye indawo noma wenze kube usayizi omusha wamawindi akhona">
 <!ENTITY moveResizeWindows.accesskey    "Y">
-<!ENTITY raiseLowerWindows.label        "Khuphula noma wehlise amafasitela">
+<!ENTITY raiseLowerWindows.label        "Khuphula noma wehlise amawindi">
 <!ENTITY raiseLowerWindows.accesskey    "K">
-<!ENTITY disableContextMenus.label      "Yenza lungasebenzi noma ufake okunye esikhundleni sohlu lokuqukethwe">
+<!ENTITY disableContextMenus.label      "Yenza kungasebenzi noma ufake okunye esikhundleni sohlu lokuqukethwe">
 <!ENTITY disableContextMenus.accesskey  "Y">

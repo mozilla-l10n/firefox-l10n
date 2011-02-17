@@ -1,5 +1,5 @@
-<!ENTITY  button-back-mac.label        "Go Back">
-<!ENTITY  button-back-mac.accesskey    "B">
+<!ENTITY  button-back-mac.label        "Iya emuva">
+<!ENTITY  button-back-mac.accesskey    "e">
 <!ENTITY  button-next-mac.label        "Qhubeka">
 <!ENTITY  button-next-mac.accesskey    "Q">
 <!ENTITY  button-finish-mac.label      "Kwenziwe">
@@ -12,9 +12,9 @@
 <!ENTITY  button-finish-unix.label     "Isiqedile">
 <!ENTITY  button-cancel-unix.label     "Khansela">
 
-<!ENTITY  button-back-win.label        "&lt; Back">
+<!ENTITY  button-back-win.label        "&lt; Emuva">
 <!ENTITY  button-back-win.accesskey    "B">
-<!ENTITY  button-next-win.label        "Next &gt;">
-<!ENTITY  button-next-win.accesskey    "N">
+<!ENTITY  button-next-win.label        "Landelayo &gt;">
+<!ENTITY  button-next-win.accesskey    "L">
 <!ENTITY  button-finish-win.label      "Isiqedile">
 <!ENTITY  button-cancel-win.label      "Khansela">

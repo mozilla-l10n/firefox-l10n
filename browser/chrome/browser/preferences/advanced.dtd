@@ -4,44 +4,44 @@
 
 <!ENTITY accessibility.label             "Ukungena kulo">
 
-<!ENTITY useCursorNavigation.label       "Hla usebenzisa izinkinobho ze-khesa ukuzula kumakhasi">
-<!ENTITY useCursorNavigation.accesskey   "k">
+<!ENTITY useCursorNavigation.label       "Makuhlalwe kusetshenziswa izinkinobho zesikhombisi ekuzuleni kumakhasi">
+<!ENTITY useCursorNavigation.accesskey   "z">
 <!ENTITY searchStartTyping.label         "Sesha imibhalo uma ngiqala ukuthayipha">
-<!ENTITY searchStartTyping.accesskey     "x">
-<!ENTITY blockAutoRefresh.label          "Ngixwayise uma amawebhusayithi azama akuqondisa kabusha noma ukulayisha futhi ikhasi">
+<!ENTITY searchStartTyping.accesskey     "b">
+<!ENTITY blockAutoRefresh.label          "Mangixwayiswe uma amawebhusayithi azama akuqondisa kabusha noma ukulayisha futhi ikhasi">
 <!ENTITY blockAutoRefresh.accesskey      "b">
 
-<!ENTITY browsing.label                  "Ukubheka">
+<!ENTITY browsing.label                  "Ukudlulisa amehlo">
 
 <!ENTITY useAutoScroll.label             "Sebenzisa ukuzula okuzenzakalelayo">
-<!ENTITY useAutoScroll.accesskey         "e">
+<!ENTITY useAutoScroll.accesskey         "o">
 <!ENTITY useSmoothScrolling.label        "Sebenzisa ukwehla wenyuka okushelelayo">
-<!ENTITY useSmoothScrolling.accesskey    "z">
+<!ENTITY useSmoothScrolling.accesskey    "k">
 <!ENTITY allowHWAccel.label              "Sebenzisa ukusheshisa kwehadiwe uma kukhona">
 <!ENTITY allowHWAccel.accesskey          "h">
 <!ENTITY checkSpelling.label             "Hlola ukupeleta kwami uma ngithayipha">
 <!ENTITY checkSpelling.accesskey         "t">
-<!ENTITY doNotTrack.label                "Tell web sites I do not want to be tracked">
-<!ENTITY doNotTrack.accesskey            "d">
+<!ENTITY doNotTrack.label                "Tshela amawebhusayithi ukuthi angifuni ukulandelwa">
+<!ENTITY doNotTrack.accesskey            "a">
 
-<!ENTITY systemDefaults.label            "Okwakhoa kohlelo">
+<!ENTITY systemDefaults.label            "Okwakhona kohlelo">
 <!--XXX-->
-<!ENTITY alwaysCheckDefault.label        "Hlala uhlola ukubona ukuthi i-&brandShortName; isiphecululi esizenzakalelayo kwisiqalo">
-<!ENTITY alwaysCheckDefault.accesskey    "w">
+<!ENTITY alwaysCheckDefault.label        "Makuhlale kuhlola ukubona ukuthi i-&brandShortName; iyisiphequluli esizenzakalelayo ekuqaleni">
+<!ENTITY alwaysCheckDefault.accesskey    "k">
 <!ENTITY checkNow.label                  "Hlola manje">
 <!ENTITY checkNow.accesskey              "m">
-<!ENTITY submitCrashes.label             "Thumela imibiko yokuphuka">
+<!ENTITY submitCrashes.label             "Thumela imibiko yokuhluleka">
 <!ENTITY submitCrashes.accesskey         "T">
 
-<!ENTITY networkTab.label                "Network">
+<!ENTITY networkTab.label                "Inethiwekhi">
 
 <!ENTITY connection.label                "Ukuxhuma">
 
-<!ENTITY connectionDesc.label            "Configure how &brandShortName; connects to the Internet">
-<!ENTITY connectionSettings.label        "Settings…">
-<!ENTITY connectionSettings.accesskey    "e">
+<!ENTITY connectionDesc.label            "Misa indlela yokuthi i-&brandShortName; ixhumeka kanjani ku-inthanethi">
+<!ENTITY connectionSettings.label        "Izinhlelo...">
+<!ENTITY connectionSettings.accesskey    "z">
 
-<!ENTITY offlineStorage.label            "Offline Storage">
+<!ENTITY offlineStorage.label            "Ukulondolozo okungaxhunyiwe">
 <!-- LOCALIZATION NOTE:
   The entities limitCacheSizeBefore.label and limitCacheSizeAfter.label appear on a single
   line in preferences as follows:
@@ -49,62 +49,62 @@
   &limitCacheSizeBefore.label [textbox for cache size in MB] &limitCacheSizeAfter.label;
 -->
 
-<!ENTITY limitCacheSizeBefore.label      "Limit cache to">
+<!ENTITY limitCacheSizeBefore.label      "Linganisa indawo yemfihlo ibe ngu-">
 <!ENTITY limitCacheSizeBefore.accesskey  "L">
-<!ENTITY limitCacheSizeAfter.label       "MB of space">
-<!ENTITY clearCacheNow.label             "Clear Now">
-<!ENTITY clearCacheNow.accesskey         "C">
-<!ENTITY overrideSmartCacheSize.label    "Override automatic cache management">
-<!ENTITY overrideSmartCacheSize.accesskey "O">
+<!ENTITY limitCacheSizeAfter.label       "MB wesikhala">
+<!ENTITY clearCacheNow.label             "Sula manje">
+<!ENTITY clearCacheNow.accesskey         "S">
+<!ENTITY overrideSmartCacheSize.label    "Phikisa ukuphatha kwendawo eyimfihlo ezenzakalelayo">
+<!ENTITY overrideSmartCacheSize.accesskey "P">
 
-<!ENTITY updateTab.label                 "Ukufakela Okwamuva">
+<!ENTITY updateTab.label                 "Vuselela">
 
-<!ENTITY autoCheck.label                 "Vele ubheke okufakwe muva kwi-:">
-<!ENTITY enableAppUpdate.label           "&brandShortName;">
+<!ENTITY autoCheck.label                 "Makuhlolwe ngokuzenzakalela ukuvuselwa lapha:">
+<!ENTITY enableAppUpdate.label           "i-&brandShortName;">
 <!ENTITY enableAppUpdate.accesskey       "F">
-<!ENTITY enableAddonsUpdate2.label       "Add-ons">
-<!ENTITY enableAddonsUpdate2.accesskey   "n">
-<!ENTITY enableSearchUpdate.label        "Izinjini Zokucinga">
+<!ENTITY enableAddonsUpdate2.label       "Okungangezwa">
+<!ENTITY enableAddonsUpdate2.accesskey   "u">
+<!ENTITY enableSearchUpdate.label        "Izinjini zokusesha">
 <!ENTITY enableSearchUpdate.accesskey    "i">
-<!ENTITY whenUpdatesFound.label          "Uma kutholakala ukulungiswa &brandShortName;:">
-<!ENTITY askMe.label                     "Ask me what I want to do">
-<!ENTITY askMe.accesskey                 "k">
-<!ENTITY modeAutomatic.label             "Vele ulayishe futhi ufakele ukulungisa">
-<!ENTITY modeAutomatic.accesskey         "f">
-<!ENTITY modeAutoAddonWarn.label         "Warn me if this will disable any of my add-ons">
-<!ENTITY modeAutoAddonWarn.accesskey     "W">
-<!ENTITY updateHistory.label             "Show Update History">
-<!ENTITY updateHistory.accesskey         "p">
+<!ENTITY whenUpdatesFound.label          "Uma kutholakala ukulungiswa ku-&brandShortName;:">
+<!ENTITY askMe.label                     "Ngibuze ukuthi ngifuna ukwenzani">
+<!ENTITY askMe.accesskey                 "N">
+<!ENTITY modeAutomatic.label             "Makulayishwe ngokuzenzakalela futhi kufakwe ukuvuselelwa">
+<!ENTITY modeAutomatic.accesskey         "M">
+<!ENTITY modeAutoAddonWarn.label         "Mangixwayise uma lokhu kungakhubaza noma yikuphi okwami okungangezwa">
+<!ENTITY modeAutoAddonWarn.accesskey     "M">
+<!ENTITY updateHistory.label             "Bonisa umlando wokuvuselela">
+<!ENTITY updateHistory.accesskey         "w">
 
-<!ENTITY offlineNotify.label             "Tell me when a website asks to store data for offline use">
-<!ENTITY offlineNotify.accesskey         "T">
-<!ENTITY offlineNotifyExceptions.label   "Exceptions…">
-<!ENTITY offlineNotifyExceptions.accesskey "x">
+<!ENTITY offlineNotify.label             "Mangitshelwe uma iwebhusayithi icela ukulondoloza idatha yokusetshenziswa okungaxhunyiwe">
+<!ENTITY offlineNotify.accesskey         "M">
+<!ENTITY offlineNotifyExceptions.label   "Okukhishiwe...">
+<!ENTITY offlineNotifyExceptions.accesskey "k">
 
-<!ENTITY offlineAppsList.label           "The following websites have stored data for offline use:">
+<!ENTITY offlineAppsList.label           "Le webhusayithi elandelayo ilondoloze idatha yokusetshenziswa okungaxhunyiwe:">
 <!ENTITY offlineAppsList.height          "7em">
-<!ENTITY offlineAppsListRemove.label     "Remove…">
-<!ENTITY offlineAppsListRemove.accesskey "R">
-<!ENTITY offlineAppRemove.confirm        "Remove offline data">
+<!ENTITY offlineAppsListRemove.label     "Susa...">
+<!ENTITY offlineAppsListRemove.accesskey "S">
+<!ENTITY offlineAppRemove.confirm        "Susa idatha yokungaxhunyiwe">
 
-<!ENTITY encryptionTab.label             "Ukubhala Ngamakhodi">
+<!ENTITY encryptionTab.label             "Ukubhala ngamakhodi">
 
-<!ENTITY protocols.label                 "Amaphrothokholi">
+<!ENTITY protocols.label                 "Imigaqonqubo">
 <!ENTITY useSSL3.label                   "Sebenzisa i-SSL 3.0">
 <!ENTITY useSSL3.accesskey               "3">
 <!ENTITY useTLS1.label                   "Sebenzisa i-TLS 1.0">
 <!ENTITY useTLS1.accesskey               "1">
 <!ENTITY certificates.label              "Izitifiketi">
-<!ENTITY certSelection.description       "When a server requests my personal certificate:">
+<!ENTITY certSelection.description       "Uma isiphakeli sifuna isitifikhethi sami:">
 <!ENTITY certs.auto                      "Khetha esisodwa ngokuzenzakalelayo">
 <!ENTITY certs.auto.accesskey            "l">
-<!ENTITY certs.ask                       "Ngibuze njalo">
+<!ENTITY certs.ask                       "Mangibuzwe njalo">
 <!ENTITY certs.ask.accesskey             "i">
-<!ENTITY viewCerts.label                 "View Certificates">
-<!ENTITY viewCerts.accesskey             "s">
-<!ENTITY viewCRLs.label                  "Izinhlu Zokuhoxiswa">
-<!ENTITY viewCRLs.accesskey              "I">
-<!ENTITY verify2.label                   "Validation">
-<!ENTITY verify2.accesskey               "V">
-<!ENTITY viewSecurityDevices.label       "Amathuluzi Okulondeka">
-<!ENTITY viewSecurityDevices.accesskey   "u">
+<!ENTITY viewCerts.label                 "Buka izithifiketi">
+<!ENTITY viewCerts.accesskey             "i">
+<!ENTITY viewCRLs.label                  "Uhlu lokuhoxisa">
+<!ENTITY viewCRLs.accesskey              "U">
+<!ENTITY verify2.label                   "Ukuqinisekisa">
+<!ENTITY verify2.accesskey               "U">
+<!ENTITY viewSecurityDevices.label       "Izisetshenziswa zokuphepha">
+<!ENTITY viewSecurityDevices.accesskey   "a">

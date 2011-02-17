@@ -28,7 +28,7 @@
 <!ENTITY  useMasterPassword.label        "Sebenzisa igama lokungena eliphethe">
 <!ENTITY  useMasterPassword.accesskey    "S">
 <!ENTITY  changeMasterPassword.label     "Shintsha igama lokungena eliphethe…">
-<!ENTITY  changeMasterPassword.accesskey "M">
+<!ENTITY  changeMasterPassword.accesskey "e">
 
 <!ENTITY  savedPasswords.label            "Amagama wokungena agciniwe...">
 <!ENTITY  savedPasswords.accesskey        "w">

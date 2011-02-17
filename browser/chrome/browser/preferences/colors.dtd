@@ -5,18 +5,18 @@
 <!ENTITY  allowPagesToUse.label           "Vumela amakhasi akhethe imibala yawo, kunokuba athathe le engiyikhethe ngenhla">
 <!ENTITY  allowPagesToUse.accesskey       "V">
 
-<!ENTITY  color                           "Owokubhaliwe Nongemuva">
+<!ENTITY  color                           "Okubhaliwe nokungemuva">
 <!ENTITY  textColor.label                 "Umbhalo:">
 <!ENTITY  textColor.accesskey             "U">
-<!ENTITY  backgroundColor.label           "Ngemuva:">
-<!ENTITY  backgroundColor.accesskey       "N">
-<!ENTITY  useSystemColors.label           "Sebenzisa imibala ekhona">
+<!ENTITY  backgroundColor.label           "Okungemuva:">
+<!ENTITY  backgroundColor.accesskey       "O">
+<!ENTITY  useSystemColors.label           "Sebenzisa imibala yohlelo">
 <!ENTITY  useSystemColors.accesskey       "e">
 
-<!ENTITY  underlineLinks.label            "Dwebela izixhumo">
+<!ENTITY  underlineLinks.label            "Dwebela izixhumanisi">
 <!ENTITY  underlineLinks.accesskey        "D">
-<!ENTITY  links                           "Imibala Yesixhumo">
-<!ENTITY  linkColor.label                 "Izixhumo Ezingavakashelwa:">
-<!ENTITY  linkColor.accesskey             "E">
-<!ENTITY  visitedLinkColor.label          "Izixhumo Ezivakashelwayo:">
-<!ENTITY  visitedLinkColor.accesskey      "I">
+<!ENTITY  links                           "Imibala yoxhumaniso">
+<!ENTITY  linkColor.label                 "Izixhumanisi ezingavakashelwanga:">
+<!ENTITY  linkColor.accesskey             "I">
+<!ENTITY  visitedLinkColor.label          "Izixhumanisi ezivakashelwe:">
+<!ENTITY  visitedLinkColor.accesskey      "e">

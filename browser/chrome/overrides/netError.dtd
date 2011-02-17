@@ -45,18 +45,13 @@
 </ul>">
 
 <!ENTITY contentEncodingError.title "Iphutha lokubhala ngemfihlo okuqukethwe">
-<!ENTITY contentEncodingError.longDesc "
-<ul>
-  <li>Please contact the website owners to inform them of this problem.</li>
-</ul>
-">
+<!ENTITY contentEncodingError.longDesc "<ul> 
+<li>Sicela uxhumane nabanikazi bewebhusayithi ukuze ubazise ngalenkinga</li> </ul>">
 
 <!ENTITY unsafeContentType.title "Uhlobo lwefayela elingaphephile">
-<!ENTITY unsafeContentType.longDesc "
-<ul>
-  <li>Please contact the website owners to inform them of this problem.</li>
-</ul>
-">
+<!ENTITY unsafeContentType.longDesc "<ul> 
+<li>Sicela uxhumane nabanikazi bewebhusayithi ukuze ubazise ngalenkinga.</li> 
+</ul>">
 
 <!ENTITY netReset.title "Ukuxhumana kuqaliswe phansi">
 <!ENTITY netReset.longDesc "&sharedLongDesc;">
@@ -95,13 +90,13 @@ Okungowakho ofakelwe.</li>
 <li>Lokhu kungase kubangelwe isimo esingafani nezinye esikuseva.</li>
 </ul>">
 
-<!ENTITY nssFailure2.title "Secure Connection Failed">
+<!ENTITY nssFailure2.title "Uxhumo oluvikelekile luhlulekile">
 <!ENTITY nssFailure2.longDesc "<ul> 
 <li>Le khasi ozama ukulibuka alikwazi ukuboniswa ngoba ukuqinisekiswa kwedatha etholiwe ayikwazanga ukuqinisekiswa.</li> 
 <li>Sicela uxhumane nabanikazi bewebhusayithi ukuze ubazise ngale nkinga.Okunye, sebenzisa impoqo etholakala ku-menu yosizo ukuze ubike le sayithi eliphukile.</li> 
 </ul>">
 
-<!ENTITY nssBadCert.title "Secure Connection Failed">
+<!ENTITY nssBadCert.title "Uxhumo oluvikelekile luhlulekile">
 <!ENTITY nssBadCert.longDesc2 "<ul> 
 <li>Lokhu kungaba yinkinga nezimiso zeseva, noma kungaba 
 ukuthi omunye umuntu ozama ukuzenza omunye umuntu kuseva.</li> 
