@@ -44,7 +44,7 @@
 <!ENTITY aboutWarningCheckbox.label "Show this warning next time">
 
 <!ENTITY filterPrefs.label "फ़िल्टर:">
-<!ENTITY filterPrefs.accesskey "I">
+<!ENTITY filterPrefs.accesskey "F">
 
 <!-- Columns -->
 <!ENTITY prefColumn.label "वरीयता नाम">
