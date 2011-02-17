@@ -124,7 +124,8 @@
 <!ENTITY certmgr.fields.label "ഫീല്‍ഡ്‌ വാല്യൂ">
 <!ENTITY certmgr.fields.accesskey "V">
 <!ENTITY certmgr.hierarchy.label "സര്‍ട്ടിഫിക്കേറ്റ് നിലവാരം">
-<!ENTITY certmgr.hierarchy.accesskey "C"><!ENTITY certmgr.addException.label           "വിവേചനം  ചേര്‍ക്കുക…">
+<!ENTITY certmgr.hierarchy.accesskey "C">
+<!ENTITY certmgr.addException.label           "വിവേചനം  ചേര്‍ക്കുക…">
 <!ENTITY certmgr.addException.accesskey       "x">
 
 <!ENTITY exceptionMgr.title                   "സുരക്ഷ വിവേചനം ചേര്‍ക്കുക">

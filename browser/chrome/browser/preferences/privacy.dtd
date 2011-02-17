@@ -3,7 +3,7 @@
 <!ENTITY  locationBar.label             "സ്ഥാന തട്ട്">
 
 <!ENTITY  locbar.pre.label              "ഒരു ലൊക്കേഷന്‍ ബാര്‍ ഉപയോഗിക്കുമ്പോള്‍, നിര്‍ദ്ദേശിക്കേണ്ടവ:">
-<!ENTITY  locbar.pre.accessKey          "l">
+<!ENTITY  locbar.pre.accessKey          "u">
 <!ENTITY  locbar.post.label             "">
 <!ENTITY  locbar.both.label             "നാള്‍വഴിയും അടയാളക്കുറിപ്പുകളും">
 <!ENTITY  locbar.history.label          "നാള്‍വഴി">
@@ -25,7 +25,7 @@
 <!-- ENTITY rememberDownloads.accesskey "d" -->
 <!-- ENTITY cookies.label "കുക്കികള്‍" -->
 <!ENTITY acceptCookies.label "സൈറ്റുകളില്‍ നിന്നും കുക്കികള്‍ അംഗീകരിക്കുക ">
-<!ENTITY acceptCookies.accesskey "c">
+<!ENTITY acceptCookies.accesskey "A">
 <!ENTITY keepUntil.label "എപ്പോള്‍ വരെ വെയ്ക്കേണം ">
 <!ENTITY keepUntil.accesskey "K">
 <!ENTITY expire.label "അവയുടെ കാലാവധി കഴിയും വരെ">
@@ -102,7 +102,7 @@
 <!-- ENTITY clearDataNow.accesskey "N" -->
 
 <!ENTITY  acceptThirdParty.label        "തേര്‍ഡ്-പാര്‍ട്ടി കുക്കി അംഗീകരിക്കുക">
-<!ENTITY  acceptThirdParty.accesskey    "p">
+<!ENTITY  acceptThirdParty.accesskey    "c">
 <!ENTITY  rememberActions.removeCookies.label "ഓരോന്നായി കുക്കികള്‍ നീക്കം ചെയ്യുക">
 
 <!ENTITY  privateBrowsingPermanent.label "സ്ഥിരമായ സ്വകാര്യ ബ്രൌസിങ് മോഡ്">

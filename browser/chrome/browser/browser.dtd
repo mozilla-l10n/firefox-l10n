@@ -187,7 +187,7 @@
 <!ENTITY openFrameCmdInTab.label "ഫ്രെയിം പുതിയ ടാബില്‍ തുറക്കുക">
 <!ENTITY openFrameCmdInTab.accesskey "T">
 <!ENTITY showOnlyThisFrameCmd.label "ഈ ഫ്രെയിം മാത്രം കാണിക്കുക ">
-<!ENTITY showOnlyThisFrameCmd.accesskey "w">
+<!ENTITY showOnlyThisFrameCmd.accesskey "S">
 <!ENTITY reloadCmd.commandkey "r">
 <!ENTITY reloadFrameCmd.label "ഫ്രെയിം വീണ്ടും തുറക്കുക">
 <!ENTITY reloadFrameCmd.accesskey "R">
@@ -231,7 +231,7 @@
 <!ENTITY sendImageCmd.label "ചിത്രം അയയ്ക്കുക">
 <!ENTITY sendImageCmd.accesskey "n">
 <!ENTITY copyLinkCmd.label "കണ്ണിയുടെ വിലാസം പകര്‍ത്തുക">
-<!ENTITY copyLinkCmd.accesskey "C">
+<!ENTITY copyLinkCmd.accesskey "a">
 <!ENTITY copyImageCmd.label "ചിത്രത്തിന്റെ വിലാസം പകര്‍ത്തുക">
 <!ENTITY copyImageCmd.accesskey "o">
 <!ENTITY copyImageContentsCmd.label "ചിത്രം പകര്‍ത്തുക">
@@ -287,7 +287,7 @@
 <!ENTITY editPopupSettings.accesskey "E">
 <!ENTITY dontShowMessage.accesskey "D">
 <!ENTITY bidiSwitchPageDirectionItem.label "താളിന്റെ ദിശ മാറ്റുക">
-<!ENTITY bidiSwitchPageDirectionItem.accesskey "g">
+<!ENTITY bidiSwitchPageDirectionItem.accesskey "D">
 <!ENTITY bidiSwitchTextDirectionItem.label "പദാവലിയുടെ ദിശ മാറ്റുക">
 <!ENTITY bidiSwitchTextDirectionItem.accesskey "w">
 <!ENTITY bidiSwitchTextDirectionItem.commandkey "X">
@@ -425,7 +425,7 @@
 <!ENTITY viewVideoCmd.accesskey       "I">
 
 <!ENTITY addonBarCmd.label "ആഡ്-ഓണ്‍ ബാര്‍">
-<!ENTITY addonBarCmd.accesskey "B">
+<!ENTITY addonBarCmd.accesskey "A">
 <!ENTITY addons.commandkey            "A">
 <!ENTITY appMenuButton.label          "മെനു">
 <!ENTITY appMenuButton.tooltip        "&brandShortName; മെനു തുറക്കുക">
