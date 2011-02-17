@@ -10,7 +10,7 @@
 <!ENTITY renameButton.accesskey "R">
 <!ENTITY deleteButton.label "Eliminar perfil…">
 <!ENTITY deleteButton.accesskey "E">
-<!ENTITY pmDescription.label "&brandShortName; guarda información sobre su configuración, preferencias y otros elementos en su perfil de usuario.">
+<!ENTITY pmDescription.label "&brandShortName; guarda información sobre tu configuración, preferencias y otros elementos en tu perfil de usuario.">
 <!ENTITY offlineState.label "Trabajar sin conexión">
 <!ENTITY offlineState.accesskey "o">
 <!ENTITY autoSelect.label "No preguntar al inicio">

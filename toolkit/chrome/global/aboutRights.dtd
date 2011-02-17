@@ -12,14 +12,14 @@
 <!ENTITY rights2.intro-point3a "Cómo usamos tu información personal y comentarios presentados a &vendorShortName; a través de &brandShortName; se describe en el ">
 <!ENTITY rights2.intro-point3b "&brandShortName; Política de Privacidad">
 <!ENTITY rights.intro-point3c ".">
-<!ENTITY rights.intro-point3-unbranded "Toda política de privacidad aplicables para este producto deben ser enumeradas aquí.">
+<!ENTITY rights.intro-point3-unbranded "Cualquier política de privacidad aplicable a este producto se debe listar aquí.">
 <!ENTITY rights2.intro-point4a "Algunas características de &brandShortName; hacen uso de servicios de información basados en Web, sin embargo no podemos garantizar que al 100&#037; todos son precisos y sin errores, incluyendo información sobre cómo desactivar las funciones que utilizan estos servicios, se encuentra en ">
 <!ENTITY rights.intro-point4b "terminos de servicio">
 <!ENTITY rights.intro-point4c ".">
-<!ENTITY rights.intro-point4a-unbranded "Si este producto incorpora servicios web, los términos de servicio aplicables para los mismos deben estar vinculados a los ">
-<!ENTITY rights.intro-point4b-unbranded "Servicios Web del sitio">
-<!ENTITY rights.intro-point4c-unbranded "sección.">
-<!ENTITY rights2.webservices-header "&brandFullName; Servicios de información basandos en Web">
+<!ENTITY rights.intro-point4a-unbranded "Si este producto incorpora servicios web, cualesquiera términos del servicio aplicables a los servicios deberían enlazarse en los ">
+<!ENTITY rights.intro-point4b-unbranded "Servicios de sitios web">
+<!ENTITY rights.intro-point4c-unbranded " sección.">
+<!ENTITY rights2.webservices-header "Servicios de información de &brandFullName; basados en web">
 <!ENTITY rights2.webservices-a "&brandFullName; utiliza los (&quot;Servicios&quot;) de información basados en WEb para proporcionar algunas de las características previstas para su uso con esta versión binaria de &brandShortName; bajo los términos descritos a continuación. Si no desea usar uno o más servicios o los términos que figuran abajo son inaceptables, es posible desactivar la función o servicio. Las instrucciones sobre cómo desactivar una característica particular o de un servicio se pueden encontrar ">
 <!ENTITY rights2.webservices-b "aquí">
 <!ENTITY rights2.webservices-c ".">

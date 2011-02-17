@@ -1,5 +1,5 @@
 <!ENTITY addons.windowTitle "Administrador de complementos">
-<!ENTITY search.placeholder "Buscar todos los complementos">
+<!ENTITY search.placeholder "Buscar complementos">
 <!ENTITY loading.label "Cargando...">
 <!ENTITY listEmpty.installed.label "Usted no tiene complementos de este tipo instalados">
 <!ENTITY listEmpty.availableUpdates.label "No se encontraron actualizaciones">
@@ -7,7 +7,7 @@
 <!ENTITY listEmpty.findUpdates.label "Buscar actualizaciones">
 <!ENTITY listEmpty.search.label "No se encontró ninguna coincidencia en complementos">
 <!ENTITY listEmpty.button.label "Obtenga más información sobre complementos">
-<!ENTITY installAddonFromFile.label "Instalar complemento desde Archivo...">
+<!ENTITY installAddonFromFile.label "Instalar complemento desde archivo…">
 <!ENTITY installAddonFromFile.accesskey "I">
 <!ENTITY toolsMenu.tooltip "Herramientas para todos los complementos">
 <!ENTITY cmd.back.tooltip "Retroceder una página">
