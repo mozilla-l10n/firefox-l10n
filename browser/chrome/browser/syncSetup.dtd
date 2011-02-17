@@ -8,8 +8,8 @@
 <!ENTITY button.connect.label    "Xhumanisa">
 
 <!ENTITY setup.choicePage.title.label     "Uke wasebenzisa i-&syncBrand.fullName.label; ngaphambilini?">
-<!ENTITY setup.choicePage.new.label       "Akaze ngasebenzisa i-&syncBrand.fullName.label; ngaphambilini">
-<!ENTITY setup.choicePage.existing.label  "Ngise ngisebenzisa i-&syncBrand.fullName.label; kwenye i-khompyutha">
+<!ENTITY setup.choicePage.new.label       "I've never used &syncBrand.shortName.label; before">
+<!ENTITY setup.choicePage.existing.label  "I'm already using &syncBrand.shortName.label; on another computer">
 <!-- New Account AND Existing Account -->
 
 <!ENTITY server.label               "Iseva">
@@ -57,7 +57,7 @@
 <!ENTITY addDevice.title.label              "Yengeza isisetshenziswa">
 <!ENTITY addDevice.showMeHow.label          "Ngikhombe ukuthi ngenze njani.">
 <!ENTITY addDevice.dontHaveDevice.label     "Angisi phathanga isisetshenziswa">
-<!ENTITY addDevice.setup.description.label  "Ukuze wenze kusebenze, iya kwizinketho ze-&syncBrand.fullName.label; kwisisetshenziswa sakho esinye bese ukhetha i-&#x0022;Add a Device&#x0022;.">
+<!ENTITY addDevice.setup.description.label  "To activate, go to &syncBrand.shortName.label; Options on your other device and select &#x0022;Add a Device&#x0022;.">
 <!ENTITY addDevice.setup.enterCode.label    "Bese, ufaka le khodi:">
 <!ENTITY addDevice.dialog.description.label "Ukwenza isisetshenziswa sakho ukuze sisebenze, yiya kwizinketho ze-syncBrand.shortName.label kwisisetshenziswa sakho bese ukhetha i-&#x0022;Connect.&#x0022;">
 <!ENTITY addDevice.dialog.enterCode.label   "Faka ikhodi leyo enikwa isisetshenziswa:">
