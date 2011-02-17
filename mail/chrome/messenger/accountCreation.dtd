@@ -1,14 +1,14 @@
 <!ENTITY autoconfigWizard.title          "Nastavitev poštnega računa">
 <!ENTITY name.label                      "Vaše ime:">
 <!ENTITY name.accesskey                  "V">
-<!ENTITY name.emptytext                  "Ime Priimek">
+<!ENTITY name.placeholder                "Ime Priimek">
 <!ENTITY name.text                       "Vaše ime, s katerim se predstavljate">
 <!ENTITY email.label                     "E-poštni naslov:">
 <!ENTITY email.accesskey                 "e">
-<!ENTITY email.emptytext                 "email@naprimer.com">
+<!ENTITY email.placeholder               "email@naprimer.com">
 <!ENTITY password.label                  "Geslo:">
 <!ENTITY password.accesskey              "G">
-<!ENTITY password.emptytext              "Geslo">
+<!ENTITY password.placeholder            "Geslo">
 <!ENTITY password.text                   "Po želji, rabilo se bo samo za potrditev vašega uporabniškega imena">
 
 <!ENTITY accountInformation.label        "Podatki za račun">
@@ -33,7 +33,7 @@
 <!ENTITY continue.label                  "Nadaljuj">
 <!ENTITY continue.accesskey              "N">
 <!ENTITY startOver.label                 "Začni znova">
-<!ENTITY startOver.accesskey             "B">
+<!ENTITY startOver.accesskey             "Z">
 <!ENTITY stop.label                      "Ustavi">
 <!ENTITY stop.accesskey                  "U">
 <!-- LOCALIZATION NOTE (retest.label): This is the text that is
@@ -54,7 +54,7 @@
 <!-- LOCALIZATION NOTE (confirmWarning.label): If there is a security
      warning on the outgoing server, then the user will need to check a
      checkbox beside this text before continuing. -->
-<!ENTITY confirmWarning.label            "Razumem tveganja.">
+<!ENTITY confirmWarning.label            "Razumem, kaj tvegam.">
 <!ENTITY confirmWarning.accesskey        "R">
 <!-- LOCALIZATION NOTE (createAccount.label): If there is a security warning
      on the incoming or outgoing servers, then the page that pops up will

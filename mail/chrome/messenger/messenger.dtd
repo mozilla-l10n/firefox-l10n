@@ -80,8 +80,6 @@
 <!ENTITY deleteMsgsCmd.accesskey "B">
 <!ENTITY undeleteMsgsCmd.label "Obnovi izbrana sporočila">
 <!ENTITY undeleteMsgsCmd.accesskey "i">
-<!ENTITY cancelNewsMsgsCmd.label "Prekliči izbrana sporočila">
-<!ENTITY cancelNewsMsgsCmd.accesskey "Q">
 <!ENTITY deleteFolderCmd.label "Izbriši mapo">
 <!ENTITY deleteFolderCmd.accesskey "M">
 <!ENTITY unsubscribeNewsgroupCmd.label "Odjavi naročnino">
@@ -578,7 +576,7 @@ you can use these alternative items. Otherwise, their values should be empty.  -
 <!ENTITY SearchNameOrEmail.accesskey "I">
 
 <!-- Gloda Search Bar -->
-<!ENTITY glodaSearchBar.emptyText "Išči po sporočilih …">
+<!ENTITY glodaSearchBar.placeHolder "Išči po sporočilih …">
 
 <!-- Quick Search Menu Bar -->
 <!ENTITY searchSubjectMenu.label "Zadeva">

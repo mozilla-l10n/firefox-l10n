@@ -64,6 +64,8 @@
 <!ENTITY PhoneticField2.label           "Fonetično:">
 <!ENTITY DisplayName.label              "Pokaži:">
 <!ENTITY DisplayName.accesskey          "P">
+<!ENTITY preferDisplayName.label        "Vedno ime za prikaz nad glavo sporočila">
+<!ENTITY preferDisplayName.accesskey    "N">
 <!ENTITY NickName.label                 "Vzdevek:">
 <!ENTITY NickName.accesskey             "k">
 
@@ -113,9 +115,9 @@
 <!ENTITY Birthday.label                 "Rojstni datum:">
 <!ENTITY Birthday.accesskey             "r">
 <!ENTITY In.label                       "">
-<!ENTITY Year.emptytext                 "Leto">
+<!ENTITY Year.placeholder                 "Leto">
 <!ENTITY Or.value                       "ali">
-<!ENTITY Age.emptytext                  "Starost">
+<!ENTITY Age.placeholder                  "Starost">
 <!ENTITY YearsOld.label                 "">
 
 <!ENTITY Work.tab                       "Služba">
@@ -166,6 +168,6 @@
 <!ENTITY BrowsePhoto.accesskey          "b">
 <!ENTITY PhotoURL.label                 "Na mreži">
 <!ENTITY PhotoURL.accesskey             "m">
-<!ENTITY PhotoURL.emptytext             "Prilepite sliko ali vtipkajte njen naslov na mreži">
+<!ENTITY PhotoURL.placeholder             "Prilepite sliko ali vtipkajte njen naslov na mreži">
 <!ENTITY UpdatePhoto.label              "Posodobi">
 <!ENTITY UpdatePhoto.accesskey          "o">
