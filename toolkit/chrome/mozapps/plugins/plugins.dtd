@@ -18,7 +18,7 @@
 <!ENTITY pluginWizard.finalPage.description.label            "&brandShortName; סיים להתקין את התוספים החסרים:">
 
 <!ENTITY pluginWizard.finalPage.moreInfo.label               "מצא עוד אודות תוספים או חפש ידנית תוספים חסרים">
-<!ENTITY pluginWizard.finalPage.restart.label                "יש לאתחל את &brandShortName; כדי שתוספים חדשים יתפקדו.">
+<!ENTITY pluginWizard.finalPage.restart.label                "יש להפעיל מחדש את &brandShortName; כדי שהתוספים החיצוניים יתפקדו.">
   
 <!ENTITY missingPlugin.label                                 "לחץ כאן להורדת התוסף.">
 <!ENTITY disabledPlugin.label                                "התוסף לתוכן זה מנוטרל. לחץ כאן כדי לנהל את התוספים שלך.">

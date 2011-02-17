@@ -57,5 +57,5 @@
 <!ENTITY restoreSearch.label          "שחזר מנועי חיפוש ברירת מחדל">
 <!ENTITY restoreSearch.accesskey      "ח">
 
-<!ENTITY changeAndRestartButton.label "בצע שינויים ואתחל">
+<!ENTITY changeAndRestartButton.label "בצע שינויים והפעל מחדש">
 <!ENTITY continueButton.label         "המשך במצב בטוח">
