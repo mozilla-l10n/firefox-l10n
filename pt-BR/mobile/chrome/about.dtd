@@ -7,7 +7,7 @@
 <!ENTITY aboutPage.credits.label                "Créditos">
 <!ENTITY aboutPage.checkForUpdates.button       "Verificar atualização">
 <!ENTITY aboutPage.checkForUpdates.checking     "Verificando atualização…">
-<!ENTITY aboutPage.checkForUpdates.none         "Nenhuma atualização disponível">
+<!ENTITY aboutPage.checkForUpdates.none         "Nenhuma atualização disponível.">
 <!ENTITY aboutPage.checkForUpdates.found        "Atualização disponível">
 
 
