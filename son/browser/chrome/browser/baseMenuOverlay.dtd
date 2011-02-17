@@ -14,14 +14,12 @@
 <!ENTITY aboutProduct.accesskey   "g">
 <!ENTITY productHelp.label        "&brandShortName; faaba">
 <!ENTITY productHelp.accesskey    "f">
-<!ENTITY helpForIEUsers.label     "Internet Explorer goykey se">
-<!ENTITY helpForIEUsers.accesskey "I">
 <!ENTITY helpMac.commandkey       "?">
 <!ENTITY helpSafeMode.label       "Tunandi taaga kaŋ tontoney kayandi...">
 <!ENTITY helpSafeMode.accesskey   "u">
 
-<!ENTITY helpTroubleshootingInfo.label      "Tarkahattayan alhabar">
-<!ENTITY helpTroubleshootingInfo.accesskey  "T">
+<!ENTITY helpTroubleshootingInfo.label      "Karkahattayan alhabar">
+<!ENTITY helpTroubleshootingInfo.accesskey  "K">
 
 <!ENTITY helpFeedbackPage.label      "Furari sanba...">
 <!ENTITY helpFeedbackPage.accesskey  "s">

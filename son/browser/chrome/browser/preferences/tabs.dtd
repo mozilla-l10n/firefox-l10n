@@ -1,5 +1,5 @@
-<!ENTITY newWindowsAsTabs.label       "Nor loku taaga feeri, manti zanfun taaga">
-<!ENTITY newWindowsAsTabs.accesskey   "N">
+<!ENTITY newWindowsAsTabs.label       "Zanfun taagey feeri nor loku taaga ra de">
+<!ENTITY newWindowsAsTabs.accesskey   "n">
 
 <!ENTITY warnCloseMultipleTabs.label  "Ay yaamar waati kaŋ nor loku booboyaŋ ga daaba">
 <!ENTITY warnCloseMultipleTabs.accesskey  "A">

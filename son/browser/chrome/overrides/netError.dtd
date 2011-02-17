@@ -144,5 +144,6 @@ functionality specific to firefox. -->
 
 
 <!ENTITY securityOverride.warningContent "<p>War ši hima ka hasaraw tonton nda war ga goy nda Interneti ciyari kaŋ ši nda naanay gumo wala war mana doona ka dii yaamaroo woo feršikaa woo se.</p>  
+ 
 <button id='getMeOutOfHereButton'>&securityOverride.getMeOutOfHereButton;</button> 
 <button id='exceptionDialogButton'>&securityOverride.exceptionButtonLabel;</button>">

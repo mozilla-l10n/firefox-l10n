@@ -45,7 +45,7 @@ can reach it easily. -->
 <!ENTITY tabCmd.label "Taaga nor loku">
 <!ENTITY tabCmd.accesskey "n">
 <!ENTITY tabCmd.commandkey "t">
-<!ENTITY openLocationCmd.label "Feeri gorodoo">
+<!ENTITY openLocationCmd.label "Feeri gorodoo…">
 <!ENTITY openLocationCmd.accesskey "g">
 <!ENTITY openFileCmd.label "Tuku feeri...">
 <!ENTITY openFileCmd.accesskey "T">
@@ -417,7 +417,7 @@ can reach it easily. -->
 <!ENTITY mediaShowControls.accesskey "D">
 <!ENTITY mediaHideControls.label     "Dabarey tugu">
 <!ENTITY mediaHideControls.accesskey "D">
-<!ENTITY videoFullScreen.label       "Dijikul">
+<!ENTITY videoFullScreen.label       "Dijoo kul">
 <!ENTITY videoFullScreen.accesskey   "D">
 <!-- LOCALIZATION NOTE :
 fullZoomEnlargeCmd.commandkey3, fullZoomReduceCmd.commandkey2 and
@@ -551,3 +551,4 @@ just addresses the organization to follow, e.g. "This site is run by " -->
 <!ENTITY syncToolbarButton.label      "Sync">
 
 <!ENTITY addonBarCloseButton.tooltip  "Tontoni zuu-žeeri daabu">
+<!ENTITY toggleAddonBarCmd.key        "/">

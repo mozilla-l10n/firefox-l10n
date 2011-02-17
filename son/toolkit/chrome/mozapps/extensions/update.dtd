@@ -21,8 +21,8 @@
 <!ENTITY  found.top.label                 "Tontoney kaŋ war ga boonay k'i sinji suuba:">
 <!ENTITY  found.disabledXPinstall.label   "Tontoney šĩ hin ka sinjandi zama goyjinay sinjiyanoo kayandi 
 sohõ. War ga hin ka kayandiyanoo barmay ganda.">
-<!ENTITY  found.enableXPInstall.label     "Tataaru nungey naŋ i ma goyjinay sinji">
-<!ENTITY  found.enableXPInstall.accesskey "T">
+<!ENTITY  found.enableXPInstall.label     "Naŋ Interneti nungey ma goyjinaa sinji">
+<!ENTITY  found.enableXPInstall.accesskey "a">
 
 <!ENTITY  installing.wizard.title         "Goo ma tontoni cerekanbantey sinji">
 <!ENTITY  installing.top.label            "Taagandirey zumandi nd'i sinji war tontoney se...">

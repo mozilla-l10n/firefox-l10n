@@ -5,8 +5,8 @@
 <!ENTITY paperInput.label "Kaddasu alkadar:">
 <!ENTITY paperInput.accesskey "K">
 
-<!ENTITY plexInput.label "Cerebande-heenandi yaayi:">
-<!ENTITY plexInput.accesskey "y">
+<!ENTITY plexInput.label "Cerebande-heenandi alhaali:">
+<!ENTITY plexInput.accesskey "a">
 
 <!ENTITY resolutionInput.label "Bii sahã/Hennari:">
 <!ENTITY resolutionInput.accesskey "B">

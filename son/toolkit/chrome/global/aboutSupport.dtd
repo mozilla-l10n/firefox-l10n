@@ -16,9 +16,9 @@ ceeci ka fatta šenday ra. Nda war ga zaabiyaŋ ceeci war zaarikul hãayaney se 
 <!ENTITY aboutSupport.appBasicsProfileDir "Fooloɲaa alhal">
 <!ENTITY aboutSupport.appBasicsEnabledPlugins "Sukari tunantey">
 <!ENTITY aboutSupport.appBasicsBuildConfig "Cinari hanseyan">
-<!ENTITY aboutSupport.appBasicsUserAgent "User Agent">
+<!ENTITY aboutSupport.appBasicsUserAgent "Goyteeri">
 
-<!ENTITY aboutSupport.show.label "Foolo feeri kaŋ goo nda">
+<!ENTITY aboutSupport.show.label "Feeriyan foolo kunahere">
 <!-- LOCALIZATION NOTE (aboutSupport.showMac.label): This is the Mac-specific
 variant of aboutSupport.show.label.  This allows us to use the preferred
 "Finder" terminology on Mac. -->

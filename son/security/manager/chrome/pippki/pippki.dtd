@@ -70,9 +70,9 @@
 
 <!ENTITY downloadCert.title "Goo ma tabatiyan-tiira zumandi">
 <!ENTITY downloadCert.message1 "Ir ga hãa kaŋ war ma naanay tabatiyan-tiira hini taagaa.">
-<!ENTITY downloadCert.trustSSL "Naanay tabatiyan-tiira hinoo woo ka tataaru nungey taamansa.">
-<!ENTITY downloadCert.trustEmail "Naanay tabatiyan-tiira hinoo woo ka bataga goykey taamansa.">
-<!ENTITY downloadCert.trustObjSign "Naanay tabatiyan-tiira hinoo woo ka goyjinay cinakey taamansa.">
+<!ENTITY downloadCert.trustSSL "Naanay tabatiyan-tiira hinoo woo ka tataaru nungey tammaasa.">
+<!ENTITY downloadCert.trustEmail "Naanay tabatiyan-tiira hinoo woo ka bataga goykey tammaasa.">
+<!ENTITY downloadCert.trustObjSign "Naanay tabatiyan-tiira hinoo woo ka goyjinay cinakey tammaasa.">
 <!ENTITY downloadCert.message3 "Ka naanay tabatiyan-tiira hinoo woo dalil kul se, war ga hima ka tabatiyan-tiiraa woo nda nga batu laadaa koroši (nd'i ga bara).">
 <!ENTITY downloadCert.viewCert.label "Gunari">
 <!ENTITY downloadCert.viewPolicy.label "Batu laada">

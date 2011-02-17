@@ -6,7 +6,7 @@
 <!ENTITY connectionFailure.title "Ciyaroo kay">
 <!ENTITY connectionFailure.longDesc "<p>Baa kaŋ woo ga hima nungu henno, ceecikaw mana hin ka ciyaroo timmandi.</p><ul><li>A ga hin ka tee kaŋ nungoo ši bara waati foo? Ceeci koyne.</li><li>War ši hin ka nungu tana fooyaŋ ceeci? Ordinateroo ciyari koroši.</li><li>Nuneceta wala tokore ma war ordinateroo wala sankaa jejebu? Kayandiyan laalayaŋ Incorrect ka hin ka war tataaru naarumey nakaši.</li></ul>">
 
-<!ENTITY deniedPortAccess.title "Lotay-mee nakasante saajaw sabbu se">
+<!ENTITY deniedPortAccess.title "Kotay-mee nakasante saajaw sabbu se">
 <!ENTITY deniedPortAccess.longDesc "<p>Aderesu kaŋ wirandi na kotay-mee cebe (sanda <q>mozilla.org:80</q> kotay-mee 80 se mozilla.org ga) kaŋ ga doona ka goy <em>other</em> misey ra, manti tataaru naarumi se. Ceecikaa na hãayanoo naŋ war jejeburoo nda saajaa sabboo se.</p>">
 
 <!ENTITY dnsNotFound.title "Aderesey mana duwandi">

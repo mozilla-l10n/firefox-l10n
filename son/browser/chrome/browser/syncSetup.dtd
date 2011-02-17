@@ -71,7 +71,7 @@
 <!ENTITY existingSyncKey.description "War ga hin ka duu war Sync kufaloo celle nda war koy &syncBrand.shortName.label; Suubarey do war jinay faa ga, nda wa  &#x0022;My Sync Key&#x0022; suuba &#x0022;Manage Account&#x0022; cire.">
 <!ENTITY verifying.label              "Goo ma koroši...">
 <!ENTITY resetPassword.label          "Šennikufaloo yeeti">
-<!ENTITY resetSyncKey.label           "I have lost my other device.">
+<!ENTITY resetSyncKey.label           "Ay jinay faa din dere yane.">
 <!-- Sync Options -->
 
 <!ENTITY setup.optionsPage.title      "Sync suubarey">

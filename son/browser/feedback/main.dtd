@@ -29,3 +29,5 @@
 <!ENTITY testpilot.feedbackbutton.label                "Furari">
 <!ENTITY testpilot.happy.label        "Firefox n'ay binoo kaanandi zama...">
 <!ENTITY testpilot.sad.label          "Firefox n'ay binoo maray zama...">
+<!ENTITY testpilot.broken.label      "Report this website as broken…">
+<!ENTITY testpilot.idea.label        "Give us a suggestion…">

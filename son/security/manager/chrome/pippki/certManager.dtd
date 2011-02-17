@@ -46,7 +46,7 @@
 <!ENTITY certmgr.ca.builtins                  "Kunehere tabatiyan-tiira hiney">
 <!ENTITY certmgr.ca.mycas                     "Tabatiyan-tiira hiney war juwaloo ra">
 
-<!ENTITY certmgr.mine                         "War ga tabatiyan-tiirayaŋ may goykondawey wey kaŋ war taamansa:">
+<!ENTITY certmgr.mine                         "War ga tabatiyan-tiirayaŋ may goykondawey wey kaŋ war tammaasa:">
 <!ENTITY certmgr.others                       "War ga tabatiyan-tiira jisantayaŋ may kaŋ ka borey wey tammaasa:">
 <!ENTITY certmgr.websites2                    "War ga tabatiyan-tiira jisantayaŋ may kaŋ ka feršikey wey tammaasa:">
 <!ENTITY certmgr.cas                          "War ga tabatiyan-tiira jisantayaŋ may kaŋ ka tabatiyan-tiira hiney wey tammaasa:">
@@ -55,7 +55,7 @@
 <!ENTITY certmgr.detail.general_tab.title     "Hankul">
 <!ENTITY certmgr.detail.general_tab.accesskey "H">
 <!ENTITY certmgr.detail.prettyprint_tab.title "Šilbayhayey">
-<!ENTITY certmgr.detail.prettyprint_tab.accesskey "Š">
+<!ENTITY certmgr.detail.prettyprint_tab.accesskey "b">
 
 <!ENTITY certmgr.pending.label                "Goo ma tabatiyan-tiiraa koroši sohõda...">
 <!ENTITY certmgr.subjectinfo.label            "Wallafi woo se">
@@ -74,9 +74,9 @@
 <!ENTITY certmgr.editcacert.title             "Tabatiyan-tiira hini naanay kayandiyaney fasal">
 <!ENTITY certmgr.editsslcert.title            "Tataaru tabatiyan-tiira naanay kayandiyaney fasal">
 <!ENTITY certmgr.editcert.edittrust           "Naanay kayandiyaney fasal:">
-<!ENTITY certmgr.editcert.trustssl            "Tabatiyan-tiiraa woo ka hin ka tataaru nungey taamansa.">
-<!ENTITY certmgr.editcert.trustemail          "Tabatiyan-tiiraa woo ka hin ka bataga goykey taamansa.">
-<!ENTITY certmgr.editcert.trustobjsign        "Tabatiyan-tiiraa woo ka hin ka goyjinay teekey taamansa.">
+<!ENTITY certmgr.editcert.trustssl            "Tabatiyan-tiiraa woo ka hin ka tataaru nungey tammaasa.">
+<!ENTITY certmgr.editcert.trustemail          "Tabatiyan-tiiraa woo ka hin ka bataga goykey tammaasa.">
+<!ENTITY certmgr.editcert.trustobjsign        "Tabatiyan-tiiraa woo ka hin ka goyjinay teekey tammaasa.">
 <!ENTITY certmgr.editsslcert.edittrust        "Tabatiyan-tiiraa naanay kayandiyaney fasal:">
 <!ENTITY certmgr.editsslcert.dotrust          "Naanay tiiraa woo aššiloo.">
 <!ENTITY certmgr.editsslcert.donttrust        "Ma ši naanay tiiraa woo aššiloo.">

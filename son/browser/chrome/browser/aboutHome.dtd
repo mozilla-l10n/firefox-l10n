@@ -4,16 +4,8 @@
 
 
 <!ENTITY abouthome.pageTitle "&brandFullName; šintin moo">
-<!-- LOCALIZATION NOTE (abouthome.brandStart):
-     brandShortName must be in a <span/>
--->
-
-<!ENTITY abouthome.brandStart "<span>&brandShortName;</span> šintin">
 
 <!ENTITY abouthome.searchEngineButton.label "Ceeci">
-
-<!ENTITY abouthome.searchEngineLinks.advanced "Koyjine ceeciyan">
-<!ENTITY abouthome.searchEngineLinks.preferences "Ibaayey">
 
 <!ENTITY abouthome.aboutMozilla "Mozilla ga">
 <!-- LOCALIZATION NOTE (abouthome.defaultSnippet1.v1):
