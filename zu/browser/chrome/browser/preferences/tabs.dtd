@@ -7,11 +7,11 @@
 <!ENTITY warnOpenManyTabs.label       "Ngixwayise uma kuvuleka amathebhu amanengi okungenza i- &brandShortName; ihambe kancane">
 <!ENTITY warnOpenManyTabs.accesskey   "k">
 
-<!ENTITY showTabBar.label             "Hlala njalo ukhombisa ibha yethebhu">
-<!ENTITY showTabBar.accesskey         "h">
+<!ENTITY showTabBar.label             "Makukhonjiswe njalo ibha yethebhu">
+<!ENTITY showTabBar.accesskey         "b">
 
-<!ENTITY switchToNewTabs.label        "Uma ngivula uxhumo olusha kwithebhu entsha, bese ngishintshela kulo ngokushesha">
-<!ENTITY switchToNewTabs.accesskey    "b">
+<!ENTITY switchToNewTabs.label        "Uma ngivula uxhumo olusha kwithebhu entsha, ngishintshela kulo ngokushesha">
+<!ENTITY switchToNewTabs.accesskey    "n">
 
 <!ENTITY showTabsInTaskbar.label          "Bonisa ukubukwa ngaphambili kwamathebhu kubha yemisebenzi ye-Windows">
-<!ENTITY showTabsInTaskbar.accesskey      "y">
+<!ENTITY showTabsInTaskbar.accesskey      "b">

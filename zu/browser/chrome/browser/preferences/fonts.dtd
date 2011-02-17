@@ -1,26 +1,26 @@
-<!ENTITY  fontsDialog.title                       "Izinhlobo Zemibhalo">
+<!ENTITY  fontsDialog.title                       "Izinhlobo zemibhalo">
 <!ENTITY  window.width                            "39em">
 <!ENTITY  window.macWidth                         "43em">
 <!ENTITY  window.unixWidth                        "41em">
 
-<!ENTITY  language.label                          "Izinhlobo zemibhalo ze-:">
+<!ENTITY  language.label                          "Izinhlobo zemibhalo zalokhu:">
 <!ENTITY  language.accesskey                      "I">
 
 <!ENTITY  size.label                              "Usayizi:">
-<!ENTITY  sizeProportional.accesskey              "i">
-<!ENTITY  sizeMonospace.accesskey                 "z">
+<!ENTITY  sizeProportional.accesskey              "z">
+<!ENTITY  sizeMonospace.accesskey                 "e">
 
-<!ENTITY  proportional.label                      "Kuyavumelana Ngobukhulu:">
-<!ENTITY  proportional.accesskey                  "K">
+<!ENTITY  proportional.label                      "Okuvumelanayo:">
+<!ENTITY  proportional.accesskey                  "O">
 
-<!ENTITY  serif.label                             "ISerif:">
+<!ENTITY  serif.label                             "I-Serif:">
 <!ENTITY  serif.accesskey                         "S">
-<!ENTITY  sans-serif.label                        "ISans-serif:">
+<!ENTITY  sans-serif.label                        "I-Sans-serif:">
 <!ENTITY  sans-serif.accesskey                    "n">
-<!ENTITY  monospace.label                         "IMonospace:">
-<!ENTITY  monospace.accesskey                     "I">
+<!ENTITY  monospace.label                         "I-Monospace:">
+<!ENTITY  monospace.accesskey                     "M">
 
-<!ENTITY  font.langGroup.latin1                   "EsaseNtshonalanga">
+<!ENTITY  font.langGroup.latin1                   "Intshonalanga">
 <!ENTITY  font.langGroup.latin2                   "EsaseYurophu Ephakathi">
 <!ENTITY  font.langGroup.japanese                 "IsiJapane">
 <!ENTITY  font.langGroup.trad-chinese             "IsiShayina Sendabuko (saseTaiwan)">
@@ -50,7 +50,7 @@
 <!ENTITY  font.langGroup.oriya                    "Isi-Oriya">
 <!ENTITY  font.langGroup.telugu                   "IsiTelugu">
 <!ENTITY  font.langGroup.kannada                  "IsiKannada">
-<!ENTITY  font.langGroup.sinhala                  "Sinhala">
+<!ENTITY  font.langGroup.sinhala                  "Isi-Sinhala">
 <!ENTITY  font.langGroup.tibetan                  "IsiTibet">
 <!-- Minimum font size -->
 <!ENTITY minSize.label                            "Usayizi wokugcina omncane wombhalo:">

@@ -38,27 +38,27 @@
 
  ***** END LICENSE BLOCK ***** -->
 
-<!ENTITY            windowtitle.label      "&brandShortName; - Khetha Uhlaka Lomsebenzisi">
+<!ENTITY            windowtitle.label      "I-&brandShortName; - Khetha uhlaka lomsebenzisi">
 
-<!ENTITY            profilename.label      "Igama Lohlaka:">
+<!ENTITY            profilename.label      "Igama lohlaka:">
 
-<!ENTITY            start.label            "Qala &brandShortName;">
+<!ENTITY            start.label            "Qala i-&brandShortName;">
 <!ENTITY            exit.label             "Phuma">
 
-<!ENTITY            availprofiles.label    "Izinhlaka Ezikhona">
+<!ENTITY            availprofiles.label    "Izinhlaka ezikhona">
 
-<!ENTITY            newButton.label        "Yakha Uhlaka…">
+<!ENTITY            newButton.label        "Yakha uhlaka…">
 <!ENTITY            newButton.accesskey    "Y">
-<!ENTITY            renameButton.label     "Qamba Kabusha Uhlaka…">
+<!ENTITY            renameButton.label     "Qamba kabusha uhlaka…">
 <!ENTITY            renameButton.accesskey "Q">
-<!ENTITY            deleteButton.label     "Cisha Uhlaka…">
+<!ENTITY            deleteButton.label     "Cisha uhlaka…">
 <!ENTITY            deleteButton.accesskey "C">
 <!-- manager entities -->
 
-<!ENTITY            pmDescription.label    "&brandShortName; igcina ukwaziswa ngezinhlelo zakho, okuthandayo, nezinye izinto zomsebenzisi ohlakeni lwakhostores information about your settings, preferences, and other user items in your user profile.">
+<!ENTITY            pmDescription.label    "I-&brandShortName; igcina ukwaziswa ngezinhlelo zakho, okuthandayo, nezinye izinto zomsebenzisi ohlakeni lwakho.">
 
-<!ENTITY            offlineState.label    "Sebenza ngaphandle kwe-Inthanethi">
+<!ENTITY            offlineState.label    "Sebenza ngaphandle kwe-inthanethi">
 <!ENTITY            offlineState.accesskey "e">
 
-<!ENTITY            autoSelect.label       "Ungabuzi lapho uqala">
+<!ENTITY            autoSelect.label       "Ungabuzi lapho kuqalwa">
 <!ENTITY            autoSelect.accesskey   "a">

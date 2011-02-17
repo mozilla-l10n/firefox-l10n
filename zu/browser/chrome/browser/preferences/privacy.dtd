@@ -7,7 +7,7 @@
 <!ENTITY  locbar.post.label             "">
 <!ENTITY  locbar.both.label             "Umlando nokuphawulwa kokubekiswa">
 <!ENTITY  locbar.history.label          "Umlando">
-<!ENTITY  locbar.bookmarks.label        "Izimpawu Zokubekisa">
+<!ENTITY  locbar.bookmarks.label        "Izimpawu zokubekisa">
 <!ENTITY  locbar.nothing.label          "Okungelutho">
 
 
@@ -43,22 +43,22 @@
 <!-- LOCALIZATION NOTE (rememberActions.middle.label): include a starting and trailing space as needed -->
 <!-- LOCALIZATION NOTE (rememberActions.post.label): include a starting space as needed -->
 
-<!ENTITY  rememberActions.pre.label           "Ungafuna uku">
-<!ENTITY  rememberActions.clearHistory.label  "susa umlando wakho wakamuva">
+<!ENTITY  rememberActions.pre.label           "Ungafuna">
+<!ENTITY  rememberActions.clearHistory.label  "ukususa umlando wakho wakamuva">
 <!ENTITY  rememberActions.middle.label        ", noma">
 <!ENTITY  rememberActions.removeCookies.label "susa amakhukhi angawodwa">
 <!ENTITY  rememberActions.post.label          ".">
 
-<!ENTITY  dontrememberDescription.label  "I-&brandShortName; izisebenzisa izimiso ezifana nezokuphequlula okuyimfihlo, futhi angeke ikhumbule umlando njengoba udlulisa amehlo kwi webhu.">
+<!ENTITY  dontrememberDescription.label  "I-&brandShortName; izisebenzisa izimiso ezifana nezokuphequlula okuyimfihlo, futhi angeke ikhumbule umlando njengoba udlulisa amehlo kwi-webhu.">
 <!-- LOCALIZATION NOTE (dontrememberActions.pre.label): include a trailing space as needed -->
 <!-- LOCALIZATION NOTE (dontrememberActions.post.label): include a starting space as needed -->
 
-<!ENTITY  dontrememberActions.pre.label          "Ungafuna uku ">
-<!ENTITY  dontrememberActions.clearHistory.label "susa wonke umlando wamanje">
+<!ENTITY  dontrememberActions.pre.label          "Ungafuna">
+<!ENTITY  dontrememberActions.clearHistory.label "ukususa wonke umlando wamanje">
 <!ENTITY  dontrememberActions.post.label         ".">
 
-<!ENTITY  privateBrowsingPermanent.label "Indlela engunaphakade yokuphequlula eyimfihlo">
-<!ENTITY  privateBrowsingPermanent.accesskey "I">
+<!ENTITY  privateBrowsingPermanent.label "Indlela engunaphakade yokuphequlula okuyimfihlo">
+<!ENTITY  privateBrowsingPermanent.accesskey "e">
 
 <!ENTITY  rememberHistory.label      "Khumbula umlando wami wokudlulisa amehlo">
 <!ENTITY  rememberHistory.accesskey  "u">
@@ -69,7 +69,7 @@
 <!ENTITY  rememberSearchForm.label       "Khumbula ukusesha nohlobo lomlando">
 <!ENTITY  rememberSearchForm.accesskey   "n">
 
-<!ENTITY  clearOnClose.label             "Susa umlando uma i-&brandShortName; ivala ">
+<!ENTITY  clearOnClose.label             "Susa umlando uma i-&brandShortName; ivala">
 <!ENTITY  clearOnClose.accesskey         "a">
 
 <!ENTITY  clearOnCloseSettings.label     "Izimiso...">

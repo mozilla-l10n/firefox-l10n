@@ -1,26 +1,26 @@
-<!ENTITY accountSetupTitle.label    "&syncBrand.fullName.label; Setup">
+<!ENTITY accountSetupTitle.label    "Ukumiswa kwe-&syncBrand.fullName.label;">
 <!-- First page of the wizard -->
 
 
-<!ENTITY setup.pickSetupType.description "Welcome, if you've never used &syncBrand.fullName.label; before, you will need to create a new account.">
+<!ENTITY setup.pickSetupType.description "Siyakwamukela, uma ungakaze usebenzise i-&syncBrand.fullName.label; ngaphambilini, uzodinga ukudala i-akhawunti entsha.">
 <!ENTITY button.createNewAccount.label "Vula i-akhawunti entsha">
-<!ENTITY setup.haveAccount.label "I already have a &syncBrand.fullName.label; account.">
-<!ENTITY button.connect.label    "Connect">
+<!ENTITY setup.haveAccount.label "Usunayo i-akhawunti ye-&syncBrand.fullName.label;.">
+<!ENTITY button.connect.label    "Xhumanisa">
 
-<!ENTITY setup.choicePage.title.label     "Have you used &syncBrand.fullName.label; before?">
-<!ENTITY setup.choicePage.new.label       "I've never used &syncBrand.shortName.label; before">
-<!ENTITY setup.choicePage.existing.label  "I'm already using &syncBrand.shortName.label; on another computer">
+<!ENTITY setup.choicePage.title.label     "Uke wasebenzisa i-&syncBrand.fullName.label; ngaphambilini?">
+<!ENTITY setup.choicePage.new.label       "Akaze ngasebenzisa i-&syncBrand.fullName.label; ngaphambilini">
+<!ENTITY setup.choicePage.existing.label  "Ngise ngisebenzisa i-&syncBrand.fullName.label; kwenye i-khompyutha">
 <!-- New Account AND Existing Account -->
 
 <!ENTITY server.label               "Iseva">
-<!ENTITY serverType.main.label      "&syncBrand.fullName.label; Server">
-<!ENTITY serverType.custom2.label   "Use a custom server…">
+<!ENTITY serverType.main.label      "Isiphakeli se-&syncBrand.fullName.label;">
+<!ENTITY serverType.custom2.label   "Sebenzisa isiphakeli sezifiso...">
 <!ENTITY signIn.account2.label      "I-akhawunti:">
 <!ENTITY signIn.account2.accesskey  "I">
 <!ENTITY signIn.password.label      "Igama Lokungena">
 <!ENTITY signIn.password.accesskey  "P">
-<!ENTITY signIn.syncKey.label       "Sync Key">
-<!ENTITY signIn.syncKey.accesskey   "K">
+<!ENTITY signIn.syncKey.label       "Ukhiye lokushadisa">
+<!ENTITY signIn.syncKey.accesskey   "k">
 <!-- New Account Page 1: Basic Account Info -->
 
 <!ENTITY setup.newAccountDetailsPage.title.label "Ukuhlelwa kwe-Akhawunti">
@@ -30,21 +30,21 @@
 <!ENTITY setup.emailAddress.accesskey "I">
 <!-- LOCALIZATION NOTE: tosAgree1, tosLink, tosAgree2, ppLink, tosAgree3 are
      joined with implicit white space, so spaces in the strings aren't necessary -->
-<!ENTITY setup.tosAgree1.label      "I agree to the">
-<!ENTITY setup.tosAgree1.accesskey  "a">
+<!ENTITY setup.tosAgree1.label      "Ngivumelana ne">
+<!ENTITY setup.tosAgree1.accesskey  "N">
 <!ENTITY setup.tosLink.label        "Imigomo yokusebenza">
-<!ENTITY setup.tosAgree2.label      "and the">
+<!ENTITY setup.tosAgree2.label      "kanye ne-">
 <!ENTITY setup.ppLink.label         "Inqubo Yemfihlo">
 <!ENTITY setup.tosAgree3.label      "">
 <!ENTITY setup.tosAgree2.accesskey  "">
 <!-- New Account Page 2: Sync Key -->
 
-<!ENTITY setup.newSyncKeyPage.title.label "&brandShortName; Cares About Your Privacy">
-<!ENTITY setup.newSyncKeyPage.description.label "To ensure your total privacy, all of your data is encrypted prior to being uploaded. The Sync Key which is necessary to decrypt your data is not uploaded.">
-<!ENTITY syncKeyEntry.label        "Your Sync Key">
-<!ENTITY syncKeyEntry.accesskey    "K">
+<!ENTITY setup.newSyncKeyPage.title.label "I-&syncBrand.fullName.label; ikhathelela okuyimfihlo kwakho">
+<!ENTITY setup.newSyncKeyPage.description.label "Ukuqinisekisa okuyimfihlo okuphelele, idatha yakho yonke izombalwa ngokwemfihlo ngaphambi kokuba ilayishwe. Isikhiya sokushadisa esidingekayo ukuze kuvulwe idatha yakho asilayishiwanga.">
+<!ENTITY syncKeyEntry.label        "Ikhiya yakho yokushadisa">
+<!ENTITY syncKeyEntry.accesskey    "k">
 <!ENTITY syncKeyGenerate.label     "Okuvamile">
-<!ENTITY syncKeyBackup.description "Your Sync Key is required to access &syncBrand.fullName.label; on other machines. Please create a backup copy. We cannot help you recover your Sync Key.">
+<!ENTITY syncKeyBackup.description "Ikhiya yakho yokushadisa iiyafuneka ukuze ufinyelele kwi-&syncBrand.fullName.label; kweminye imishini. Sicela udale ikhophi elinye. Asikwazi ukukusiza ubuyise isikhiya sakho sokushadisa.">
 
 <!ENTITY button.syncKeyBackup.print.label     "Printa…">
 <!ENTITY button.syncKeyBackup.print.accesskey "P">
@@ -52,26 +52,26 @@
 <!ENTITY button.syncKeyBackup.save.accesskey  "G">
 <!-- New Account Page 3: Captcha -->
 
-<!ENTITY setup.captchaPage2.title.label     "Please Confirm You're Not a Robot">
+<!ENTITY setup.captchaPage2.title.label     "Sicela uqinisekise ukuthi uwusiyo i-robot">
 <!-- Existing Account Page 1: Add Device (incl. Add a Device dialog strings) -->
 <!ENTITY addDevice.title.label              "Yengeza isisetshenziswa">
-<!ENTITY addDevice.showMeHow.label          "Show me how.">
-<!ENTITY addDevice.dontHaveDevice.label     "I don't have the device with me">
-<!ENTITY addDevice.setup.description.label  "To activate, go to &syncBrand.shortName.label; Options on your other device and select &#x0022;Add a Device&#x0022;.">
-<!ENTITY addDevice.setup.enterCode.label    "Then, enter this code:">
-<!ENTITY addDevice.dialog.description.label "To activate your new device, go to &syncBrand.shortName.label; Options on the device and select &#x0022;Connect.&#x0022;">
-<!ENTITY addDevice.dialog.enterCode.label   "Enter the code that the device provides:">
-<!ENTITY addDevice.dialog.tryAgain.label    "Please try again.">
-<!ENTITY addDevice.dialog.successful.label  "The device has been successfully added. The initial synchronization can take several minutes and will finish in the background.">
-<!ENTITY addDevice.dialog.syncKey.label     "To activate your device you will need to enter your Sync Key. Please print or save this key and take it with you.">
-<!ENTITY addDevice.dialog.connected.label   "Device Connected">
+<!ENTITY addDevice.showMeHow.label          "Ngikhombe ukuthi ngenze njani.">
+<!ENTITY addDevice.dontHaveDevice.label     "Angisi phathanga isisetshenziswa">
+<!ENTITY addDevice.setup.description.label  "Ukuze wenze kusebenze, iya kwizinketho ze-&syncBrand.fullName.label; kwisisetshenziswa sakho esinye bese ukhetha i-&#x0022;Add a Device&#x0022;.">
+<!ENTITY addDevice.setup.enterCode.label    "Bese, ufaka le khodi:">
+<!ENTITY addDevice.dialog.description.label "Ukwenza isisetshenziswa sakho ukuze sisebenze, yiya kwizinketho ze-syncBrand.shortName.label kwisisetshenziswa sakho bese ukhetha i-&#x0022;Connect.&#x0022;">
+<!ENTITY addDevice.dialog.enterCode.label   "Faka ikhodi leyo enikwa isisetshenziswa:">
+<!ENTITY addDevice.dialog.tryAgain.label    "Sicela uzame futhi.">
+<!ENTITY addDevice.dialog.successful.label  "Isisetshenziswa sakho singezwe ngempumelelo. Ukufaka kokuqala kungathatha imizuzu embalwa futhi izoqeda endaweni yasemuva.">
+<!ENTITY addDevice.dialog.syncKey.label     "U">
+<!ENTITY addDevice.dialog.connected.label   "Isisetshenziswa sixhunyiwe">
 <!-- Existing Account Page 2: Manual Login -->
 
-<!ENTITY setup.signInPage.title.label "Sign In">
-<!ENTITY existingSyncKey.description "You can get a copy of your Sync Key by going to &syncBrand.shortName.label; Options on your other device, and selecting  &#x0022;My Sync Key&#x0022; under &#x0022;Manage Account&#x0022;.">
-<!ENTITY verifying.label              "Verifying…">
-<!ENTITY resetPassword.label          "Reset Password">
-<!ENTITY resetSyncKey.label           "I have lost my other device.">
+<!ENTITY setup.signInPage.title.label "Ngena ngemvume">
+<!ENTITY existingSyncKey.description "Ungathola ikhophi lekhiya yakho yokushadisa ngokuya kwizinketho ze-&syncBrand.shortName.label; kwisisetshenziswa esinye, futhi ukhethe    &#x0022;My Sync Key&#x0022; under &#x0022;Manage Account&#x0022;.">
+<!ENTITY verifying.label              "Iyaqinisekisa...">
+<!ENTITY resetPassword.label          "Beka kabusha i-password">
+<!ENTITY resetSyncKey.label           "Ngilahlekelwe isisetshenziswa sami esinye.">
 <!-- Sync Options -->
 
 <!ENTITY setup.optionsPage.title      "Ongakhetha Kukho Kokuthumela">
@@ -90,19 +90,19 @@
 <!ENTITY engine.prefs.label         "Okuthandwayo">
 <!ENTITY engine.prefs.accesskey     "S">
 
-<!ENTITY choice2.merge.main.label      "Merge this computer's data with my &syncBrand.shortName.label; data">
+<!ENTITY choice2.merge.main.label      "Hlanganisa idatha yalekhompyutha nedatha ye-&syncBrand.shortName.label; yami">
 <!ENTITY choice2.merge.recommended.label "(okutuswayo)">
-<!ENTITY choice2.client.main.label     "Replace all data on this computer with my &syncBrand.shortName.label; data">
-<!ENTITY choice2.server.main.label     "Replace all other devices with this computer's data">
+<!ENTITY choice2.client.main.label     "Esikhaleni sedatha yonke kulekhompyutha faka idatha yami ye-&syncBrand.shortName.label;">
+<!ENTITY choice2.server.main.label     "Esikhaleni sazonke izisetshenziswa  ezinye faka idatha yalekhompyutha">
 <!-- Confirm Merge Options -->
 
 <!ENTITY setup.optionsConfirmPage.title "Qinisekisa">
-<!ENTITY confirm.merge.label    "&syncBrand.fullName.label; will now merge all this computer's browser data into your Sync account.">
-<!ENTITY confirm.client2.label         "Warning: The following &brandShortName; data on this computer will be deleted:">
-<!ENTITY confirm.client.moreinfo.label "&brandShortName; will then copy your &syncBrand.fullName.label; data to this computer.">
-<!ENTITY confirm.server2.label         "Warning: The following devices will be overwritten with your local data:">
+<!ENTITY confirm.merge.label    "I-&syncBrand.fullName.label; manje izohlangana nayonke idatha yesiphequluli sekhompyutha kwi-akhawunti yakho yokushadisa.">
+<!ENTITY confirm.client2.label         "Qaphela: Idatha elandelayo ye-&brandShortName; kule khompyutha izosuswa:">
+<!ENTITY confirm.client.moreinfo.label "I-&brandShortName; izokopisha idatha yakho ye-&syncBrand.fullName.label; kule khompyutha.">
+<!ENTITY confirm.server2.label         "Qaphela: Lezisetshenziswa sizobhalwa phezulu ngedatha yakho yasekhaya:">
 <!-- New & Existing Account: Setup Complete -->
 
-<!ENTITY setup.successPage.title "Setup Complete">
-<!ENTITY changeOptions.label "You can change this preference by selecting Sync Options below.">
-<!ENTITY continueUsing.label "You may now continue using &brandShortName;.">
+<!ENTITY setup.successPage.title "Ukubekeka kuphelile">
+<!ENTITY changeOptions.label "Ungashintsha lokhu okuthandayo ngokukhetha inketho yokuhlanganisa ngezannsi.">
+<!ENTITY continueUsing.label "Usengachubeka ukusebenzisa i-&brandShortName;.">

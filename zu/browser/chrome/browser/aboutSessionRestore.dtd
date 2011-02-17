@@ -3,13 +3,13 @@
      and regret that we are unable to restore the session for the user -->
 
 <!ENTITY restorepage.errorTitle     "Lokho kuphathisa amahloni.">
-<!ENTITY restorepage.problemDesc    "I-&brandShortName; inenkinga ekutholeni amawindi akho namamaki. Lokhu kunokubangelwa ikhasi lewebhu elivulwe manje.">
+<!ENTITY restorepage.problemDesc    "I-&brandShortName; inenkinga ekutholeni amawindi akho namamaki. Lokhu kwesinye kubangelwa ikhasi lewebhu elivulwe manje.">
 <!ENTITY restorepage.tryThis        "Ungazama:">
 <!ENTITY restorepage.restoreSome    "Ukususa imaki eliledwa noma angaphezulu icabanga ukuthi yiwo abangela inkinga">
 <!ENTITY restorepage.startNew       "Ukuqala isikhathi sokubuka esisha sha">
 
 <!ENTITY restorepage.tryagainButton "Buyisela">
-<!ENTITY restorepage.restore.access "Q">
+<!ENTITY restorepage.restore.access "R">
 <!ENTITY restorepage.cancelButton   "Qala isikhathi esisha">
 <!ENTITY restorepage.cancel.access  "H">
 

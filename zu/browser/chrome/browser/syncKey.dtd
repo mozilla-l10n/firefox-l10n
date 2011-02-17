@@ -1,14 +1,14 @@
-<!ENTITY syncKey.page.title               "Your &syncBrand.fullName.label; Key">
-<!ENTITY syncKey.page.description         "This key is used to decode the data in your &syncBrand.fullName.label; account. You will need to enter the key each time you configure &syncBrand.fullName.label; on a new computer or device.">
-<!ENTITY syncKey.keepItSecret.heading     "Keep it secret">
-<!ENTITY syncKey.keepItSecret.description "Your &syncBrand.fullName.label; account is encrypted to protect your privacy. Without this key, it would take years for anyone to decode your personal information. You are the only person who holds this key. This means you're the only one who can access your &syncBrand.fullName.label; data.">
-<!ENTITY syncKey.keepItSafe.heading       "Keep it safe">
-<!ENTITY syncKey.keepItSafe1.description  "Do not lose this key.">
-<!ENTITY syncKey.keepItSafe2.description  " We don't keep a copy of your key (that wouldn't be keeping it secret!) so ">
-<!ENTITY syncKey.keepItSafe3.description  "we can't help you recover it">
-<!ENTITY syncKey.keepItSafe4.description  " if it's lost. You'll need to use this key any time you connect a new computer or device to &syncBrand.fullName.label;.">
-<!ENTITY syncKey.findOutMore1.label       "Find out more about &syncBrand.fullName.label; and your privacy at ">
+<!ENTITY syncKey.page.title               "Ukhiya wakho we-&syncBrand.fullName.label;">
+<!ENTITY syncKey.page.description         "Lesi sikhiye sisetshenziselwa ukususa ikhodi ledatha kwi-akhawunti yakho ye-&syncBrand.fullName.label;. Uzidinga ukufaka ukhiye ngesinye nesinye iskhathi uma umisa i-&syncBrand.fullName.label; kwikhompyuth entsha noma kwisisetshenziswa.">
+<!ENTITY syncKey.keepItSecret.heading     "Ibambe kwiyimfihlo">
+<!ENTITY syncKey.keepItSecret.description "I-akhawunti yakho ye-&syncBrand.fullName.label; izobhalwa ngemfihlo ukuze kuvikelwe okuyimfihlo kwakho. Ngaphandle kwale khiya, kuzothatha iminyaka ngaphambi kokuba umuntu avule imininingwane yakho. Nguwe kuphela ophethe lesi sikhiye. Lokho kusho ukuthi guwe kuphela ongafinyelela idatha yakho ye-&syncBrand.fullName.label;.">
+<!ENTITY syncKey.keepItSafe.heading       "Iqgine ivikelekile">
+<!ENTITY syncKey.keepItSafe1.description  "Ungalahlekelw yile khiye.">
+<!ENTITY syncKey.keepItSafe2.description  "   Asigcini ikhophi yekhiye yakho (lokho ngeke kukhombe ukuyigcine ivikelekile) ngakho">
+<!ENTITY syncKey.keepItSafe3.description  "ngeke sikwazi ukukusiza ukuyibuyisa">
+<!ENTITY syncKey.keepItSafe4.description  "   uma ilahlekile. Uzodinga ukusebenzisa le khiye ngesinye nesinye isikhathi uxhumana nekhomphyutha esha noma isisetshenziswa ku-&syncBrand.fullName.label;.">
+<!ENTITY syncKey.findOutMore1.label       "Thola okungaphezulu mayelana ne-&syncBrand.fullName.label; kanye nokungasese kwakho ku-">
 <!ENTITY syncKey.findOutMore2.label       ".">
-<!ENTITY syncKey.footer1.label            "&syncBrand.fullName.label; Terms of Service are available at ">
-<!ENTITY syncKey.footer2.label            ". The Privacy Policy is available at ">
+<!ENTITY syncKey.footer1.label            "Imigomo yensizakalo ye-&syncBrand.fullName.label; ikhona ku-">
+<!ENTITY syncKey.footer2.label            ". Ipholisi engasese ikhona ku-">
 <!ENTITY syncKey.footer3.label            ".">

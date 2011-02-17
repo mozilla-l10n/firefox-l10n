@@ -36,7 +36,7 @@
    - ***** END LICENSE BLOCK ***** -->
 
 <!ENTITY  validation.crlmanager.label             "Qondisa ama-CRL">
-<!ENTITY  validation.crlmanager.description       "These Certificate Revocation Lists (CRL) are stored in your certificate database:">
+<!ENTITY  validation.crlmanager.description       "Uhlu lwesitifiketi zokuvakasha futhi phecelezi (CRL) lilondolozwe kwisitifiketi sesizinda sakho sedatha:">
 <!ENTITY  validation.crlname.label                "Igama">
 <!ENTITY  validation.crllastupdate.label          "Ukulungiswa Okugcinile">
 <!ENTITY  validation.crlnextupdate.label          "Ukulungiswa Okulandelayo">

@@ -1,4 +1,4 @@
-<!ENTITY quota.dialogTitle.label    "Server Quota">
-<!ENTITY quota.retrievingInfo.label "Retrieving quota information…">
+<!ENTITY quota.dialogTitle.label    "Ikhota yesiphakeli">
+<!ENTITY quota.retrievingInfo.label "Kubuyiswa imininingwane yekota...">
 <!ENTITY quota.typeColumn.label     "Uhlobo">
 <!ENTITY quota.sizeColumn.label     "Ubungako">

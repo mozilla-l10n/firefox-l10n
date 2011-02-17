@@ -5,16 +5,17 @@
 kokungeziwe kukhona na ukuzenza zisebenzisane nale 
 nguquko.">
 <!ENTITY  offline.toggleOffline.label     "Iya ku-intanethi manje.">
-<!ENTITY  offline.toggleOffline.accesskey "G">
+<!ENTITY  offline.toggleOffline.accesskey "a">
 
 <!ENTITY  mismatch.win.title              "Okungeziwe okungasebenzisani">
 <!ENTITY  mismatch.top.label              "Okwengeziwe okulandelayo akasebenzisani nele nguquko ye 
-&brandShortName; futhi ikhutshaziwe">
-<!ENTITY  mismatch.bottom.label           "I-&brandShortName; ingahlola ukuba zikhona yini izinguqulo ezisebenzisanayo nokwengeziwe okukhona.">
+&brandShortName; futhi ikhutshaziwe:">
+<!ENTITY  mismatch.bottom.label           "I-&brandShortName; ingahlola ukuba zikhona yini izinguqulo 
+ ezisebenzisanayo nokwengeziwe okukhona.">
 
 <!ENTITY  checking.wizard.title           "Ihlola okwengeziwe asebenzisanayo">
 <!ENTITY  checking.top.label              "Ihlola okwengeziwe kungasebenzisani kokuvuselela…">
-<!ENTITY  checking.status                 "This may take a few minutes…">
+<!ENTITY  checking.status                 "Lokhu kungase kuthathe imizuzu embalwa…">
 
 <!ENTITY  found.wizard.title               "Okwengeziwe okusebenzisanayo kutholakele">
 <!ENTITY  found.top.label                 "Khetha okengeziwe ongathanda ukukufaka:">
@@ -48,7 +49,7 @@ Sicelasicela uxhumane nomqondisi wakho wohlelo ukuze uthole usizo.">
 <!ENTITY  versioninfo.wizard.title        "Ukuhlolwa kokungeziwe okusebenzisanayo">
 <!ENTITY  versioninfo.top.label           "Ukuhlolwa kokungeziwe kwakho ukusebenzisa nale 
 nguquko ye-&brandShortName;.">
-<!ENTITY  versioninfo.waiting             "This may take a few minutes…">
+<!ENTITY  versioninfo.waiting             "Lokhu kungase kuthathe imizuzu embalwa…">
 
 <!ENTITY  installerrors.wizard.title      "Inkinga ngukufaka ukuvuselela">
 <!ENTITY  installerrors.intro.label       "I-&brandShortName; uhlangabezane nezinkinga uma uvuselela okunye kwakho 

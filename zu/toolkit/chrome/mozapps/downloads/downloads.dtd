@@ -17,8 +17,8 @@ file names and tall enough to hint that there are more downloads in the list -->
 <!ENTITY cmd.cancel.accesskey             "K">
 <!ENTITY cmd.show.label                   "Vula Equkethe I-iFolda">
 <!ENTITY cmd.show.accesskey               "F">
-<!ENTITY cmd.showMac.label                "Bonisa Kokutholakele">
-<!ENTITY cmd.showMac.accesskey            "F">
+<!ENTITY cmd.showMac.label                "Bonisa kokutholakele">
+<!ENTITY cmd.showMac.accesskey            "k">
 <!ENTITY cmd.open.label                   "Vula">
 <!ENTITY cmd.open.accesskey               "V">
 <!ENTITY cmd.openWith.label               "Vula Nge…">
@@ -28,7 +28,7 @@ file names and tall enough to hint that there are more downloads in the list -->
 <!ENTITY cmd.goToDownloadPage.label       "Iya ekhasini lokulayisha ungenise">
 <!ENTITY cmd.goToDownloadPage.accesskey   "I">
 <!ENTITY cmd.copyDownloadLink.label       "Kopisha isixhumanisi sokulayisha ungenise">
-<!ENTITY cmd.copyDownloadLink.accesskey   "L">
+<!ENTITY cmd.copyDownloadLink.accesskey   "x">
 <!ENTITY cmd.removeFromList.label         "Susa ohlwini">
 <!ENTITY cmd.removeFromList.accesskey     "S">
 
@@ -37,7 +37,7 @@ file names and tall enough to hint that there are more downloads in the list -->
 <!ENTITY cmd.close2Unix.commandKey        "y">
 <!ENTITY cmd.clearList.label              "Sula uhlu">
 <!ENTITY cmd.clearList.tooltip            "Khipha ohlwini osekuqediwe, okukhanseliwe nokungenzekanga">
-<!ENTITY cmd.clearList.accesskey          "C">
+<!ENTITY cmd.clearList.accesskey          "S">
 <!ENTITY cmd.find.commandKey              "f">
 <!ENTITY cmd.search.commandKey            "k">
 

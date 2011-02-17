@@ -51,7 +51,7 @@ iphakathe ephelele yokuvuselela.">
 
 <!ENTITY  viewDetails.tooltip             "Buka imininingwane yaloku kuvuselela">
 
-<!ENTITY  details.link                    "Details">
+<!ENTITY  details.link                    "Imininingwane">
 
 <!ENTITY  error.title                     "Ukulungiswa Kuhlulekile">
 
@@ -70,20 +70,20 @@ kuvuselela. I-&brandShortName; ayikwazanga ukuvuselelwa ngoba:">
 <!ENTITY  errorCertAttrHasUpdate.label    "Kunento ezama ukhohlisa i-&brandShortName; ngokuyivumisa ukuvuselela okungavikelelanga. Sicela uxhumane nomnikeli wenethiwekhi bese ufuna usizo.">
 
 <!ENTITY  finishedPage.title              "Ukulungiswa Sekulungele Ukufakelwa">
-<!ENTITY  finishedPage.text               "The update will be installed the next time &brandShortName; starts. You 
-                                           can restart &brandShortName; now, or continue working and restart later.">
+<!ENTITY  finishedPage.text               "Ukuvuselela kuzofakwa ngesikhathi esizayo uma i-&brandShortName; iqala. 
+Ungaqala kabusha i-&brandShortName; manje, noma qhubeka ukusebenza bese uqala kabusha ngesikhathi esizayo.">
 
 <!ENTITY  finishedBackgroundPage.text     "Ukuvuselela kokuvikeleka kanye nokumisa kahle kwe-&brandShortName; 
 sekulayishwe kwangeniswa futhi sekulungelwe ukufakwa.">
 <!ENTITY  finishedBackground.name         "Ukulungiswa:">
 <!-- LOCALIZATION NOTE (finishedBackground.more): This string describes the button labels defined by restartNowButton and restartLaterButton in updates.properties. -->
-<!ENTITY  finishedBackground.more         "The update will be installed the next time &brandShortName; starts. You
-                                           can restart &brandShortName; now, or continue working and restart later.">
+<!ENTITY  finishedBackground.more         "Ukuvuselela kuzofakwa ngesikhathi esizayo uma i-&brandShortName; iqala. 
+Ungaqala kabusha i-&brandShortName; manje, noma qhubeka ukusebenza bese uqala kabusha ngesikhathi esizayo.">
 
 <!ENTITY  installed.title                 "Ukulungiswa Kufakelwe">
 <!ENTITY  installed.intro                 "Ukulungiswa kufakelwe ngempumelelo.">
 <!ENTITY  whatsnew.label                  "Funda okuningi ngokusha…">
 
-<!ENTITY  update.details.label            "Details">
+<!ENTITY  update.details.label            "Imininingwane">
 <!ENTITY  update.installedOn.label        "Kufakelwe mhlaka:">
 <!ENTITY  update.status.label             "Isimo:">

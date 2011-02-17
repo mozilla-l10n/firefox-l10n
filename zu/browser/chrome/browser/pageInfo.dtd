@@ -112,8 +112,8 @@
 
 
 <!ENTITY  securityView.identity.header   "Ubunikazi bewebhu sayithi">
-<!ENTITY  securityView.identity.owner    "Umnikazi">
-<!ENTITY  securityView.identity.domain   "Iwebhu sayithi: ">
+<!ENTITY  securityView.identity.owner    "Umnikazi:">
+<!ENTITY  securityView.identity.domain   "Iwebhu sayithi:">
 <!ENTITY  securityView.identity.verifier "Iqinisekiswe ngu:">
 
 <!ENTITY  securityView.privacy.header                   "Okwangasese nomlando">

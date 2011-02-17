@@ -1,19 +1,19 @@
-<!ENTITY sanitizePrefs2.title          "Settings for Clearing History">
-<!ENTITY sanitizeDialog2.title         "Clear Recent History">
+<!ENTITY sanitizePrefs2.title          "Izilungiselelo zokusula umlando">
+<!ENTITY sanitizeDialog2.title         "Sula imilando yakamuva">
 
-<!ENTITY sanitizeItems.label          "Susa manje lezinto ezilandelayo:">
-<!ENTITY clearDataSettings2.label     "When I quit &brandShortName;, it should automatically clear all:">
+<!ENTITY sanitizeItems.label          "Sula izinto ezilandelayo manje:">
+<!ENTITY clearDataSettings2.label     "Uma ngiphuma i-&brandShortName;, kumele isule konke ngokuzenzakalela:">
 <!-- XXX rearrange entities to match physical layout when l10n isn't an issue -->
 <!-- LOCALIZATION NOTE (clearTimeDuration.*): "Time range to clear" dropdown.
      See UI mockup at bug 480169 -->
 
-<!ENTITY clearTimeDuration.label          "Time range to clear: ">
-<!ENTITY clearTimeDuration.accesskey      "T">
-<!ENTITY clearTimeDuration.lastHour       "Last Hour">
-<!ENTITY clearTimeDuration.last2Hours     "Last Two Hours">
-<!ENTITY clearTimeDuration.last4Hours     "Last Four Hours">
+<!ENTITY clearTimeDuration.label          "Ububanzi besikhathi obumele busulwe:">
+<!ENTITY clearTimeDuration.accesskey      "s">
+<!ENTITY clearTimeDuration.lastHour       "Ihora eledlule">
+<!ENTITY clearTimeDuration.last2Hours     "Amahora amabili adlule">
+<!ENTITY clearTimeDuration.last4Hours     "Amahora amane adlule">
 <!ENTITY clearTimeDuration.today          "Namuhla">
-<!ENTITY clearTimeDuration.everything     "Everything">
+<!ENTITY clearTimeDuration.everything     "Konke">
 <!-- Localization note (clearTimeDuration.suffix) - trailing entity for languages
 that require it.  -->
 <!ENTITY clearTimeDuration.suffix         "">
@@ -23,40 +23,40 @@ that require it.  -->
      of the "Details" progressive disclosure button.  See UI mockup at bug
      480169 -->
 
-<!ENTITY detailsProgressiveDisclosure.label     "Details">
-<!ENTITY detailsProgressiveDisclosure.accesskey "e">
+<!ENTITY detailsProgressiveDisclosure.label     "Imininingwane">
+<!ENTITY detailsProgressiveDisclosure.accesskey "m">
 
 <!ENTITY historySection.label         "Umlando">
-<!ENTITY dataSection.label            "Data">
+<!ENTITY dataSection.label            "Idatha">
 <!-- LOCALIZATION NOTE (item*): itemHistoryAndDownloads.* and
      itemBrowsingHistory.* will never be used at the same time, so they can
      have the same accesskey. -->
 
-<!ENTITY itemHistoryAndDownloads.label     "Browsing &amp; Download History">
+<!ENTITY itemHistoryAndDownloads.label     "Umlando wokudlulisa amehlo kanye nokulayisha ungenise">
 <!ENTITY itemHistoryAndDownloads.accesskey "B">
 <!ENTITY itemBrowsingHistory.label         "Umlando Wokubheka">
 <!ENTITY itemBrowsingHistory.accesskey     "U">
-<!ENTITY itemFormSearchHistory.label       "Form &amp; Search History">
-<!ENTITY itemFormSearchHistory.accesskey   "F">
+<!ENTITY itemFormSearchHistory.label       "Ukwakha kanye nokusesha komlando">
+<!ENTITY itemFormSearchHistory.accesskey   "U">
 <!ENTITY itemPasswords.label               "Amagama Okungena Agciniwe">
 <!ENTITY itemPasswords.accesskey           "O">
 <!ENTITY itemCookies.label                 "Uhide Lokwaziswa">
 <!ENTITY itemCookies.accesskey             "U">
 <!ENTITY itemCache.label                   "Inqolobane">
 <!ENTITY itemCache.accesskey               "n">
-<!ENTITY itemOfflineApps.label             "Offline Website Data">
-<!ENTITY itemOfflineApps.accesskey         "O">
+<!ENTITY itemOfflineApps.label             "Idatha yewebhusayithi engaphandle kwelayini">
+<!ENTITY itemOfflineApps.accesskey         "d">
 <!ENTITY itemDownloadHistory.label         "Umlando Wokuthatha Ukwaziswa Ukufake">
 <!ENTITY itemDownloadHistory.accesskey     "U">
-<!ENTITY itemActiveLogins.label            "Active Logins">
-<!ENTITY itemActiveLogins.accesskey        "L">
-<!ENTITY itemSitePreferences.label         "Site Preferences">
-<!ENTITY itemSitePreferences.accesskey     "S">
+<!ENTITY itemActiveLogins.label            "Ukungena ngemvume okusebenzayo">
+<!ENTITY itemActiveLogins.accesskey        "n">
+<!ENTITY itemSitePreferences.label         "Okuthandwayo kwisayithi">
+<!ENTITY itemSitePreferences.accesskey     "s">
 <!-- LOCALIZATION NOTE (sanitizeEverythingUndoWarning): Second warning paragraph
      that appears when "Time range to clear" is set to "Everything".  See UI
      mockup at bug 480169 -->
 
-<!ENTITY sanitizeEverythingUndoWarning     "This action cannot be undone.">
+<!ENTITY sanitizeEverythingUndoWarning     "Lesi senzo asikwazi ukususwa uma kwenziwe.">
 
 <!ENTITY dialog.width                 "28em">
 <!ENTITY column.width                 "14em">
