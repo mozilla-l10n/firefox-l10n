@@ -3,6 +3,11 @@
 <!ENTITY aboutHome.remoteTabs                   "Abas de outros computadores">
 <!ENTITY aboutHome.recommendedAddons2           "Complementos para o seu &brandShortName;">
 <!ENTITY aboutHome.giveFeedback                 "Dê a sua opinião">
+<!ENTITY aboutHome.getHelp                      "Ajuda">
+<!ENTITY aboutHome.footerWidth                  "10em">
 <!ENTITY aboutHome.openAllTabs                  "Abrir tudo em abas">
 <!ENTITY aboutHome.noTabs                       "Nenhuma aba aberta anteriormente">
 <!ENTITY aboutHome.noAddons                     "Nenhum complemento recomendado">
+
+<!-- LOCALIZATION NOTE: 'Firefox Spark' is the official name of the promotion and should not be translated -->
+<!ENTITY aboutHome.promoSpark                   "Jogar Firefox Spark">

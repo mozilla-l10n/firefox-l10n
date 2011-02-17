@@ -26,6 +26,7 @@
 <!ENTITY historyHeader.label       "Histórico">
 <!ENTITY desktopHeader.label       "Desktop">
 
+<!ENTITY editBookmarkDialog.title  "Editar favorito">
 <!ENTITY editBookmarkDone.label    "Concluir">
 <!ENTITY editBookmarkTags.label    "Adicione tags aqui">
 
@@ -37,7 +38,7 @@
 <!ENTITY addonsRepo.label          "Adicionar">
 <!ENTITY addonsRecommended.label   "Recomendado">
 <!ENTITY addonsSearch.label        "Pesquisar">
-<!ENTITY addonsSearch2.emptytext   "Pesquisar o catálogo">
+<!ENTITY addonsSearch2.emptytext   "Pesquisar catálogo">
 <!ENTITY addonsSearch.recommended  "Recomendado">
 
 <!ENTITY addonOptions.label        "Opções">
@@ -96,8 +97,8 @@
 <!ENTITY contextShareImage.label      "Compartilhar imagem">
 <!ENTITY contextSaveVideo.label       "Salvar vídeo">
 <!ENTITY contextShareVideo.label      "Compartilhar vídeo">
-<!ENTITY contextPlayMedia.label       "Play">
-<!ENTITY contextPauseMedia.label      "Pause">
+<!ENTITY contextPlayMedia.label       "Executar">
+<!ENTITY contextPauseMedia.label      "Pausa">
 <!ENTITY contextFullScreen.label      "Tela inteira">
 <!ENTITY contextEditBookmark.label    "Editar">
 <!ENTITY contextRemoveBookmark.label  "Excluir">
@@ -105,10 +106,8 @@
 <!ENTITY pageactions.saveas.pdf      "Salvar como PDF">
 <!ENTITY pageactions.share.page      "Compartilhar página">
 <!ENTITY pageactions.password.forget "Excluir senha memorizada">
-<!ENTITY pageactions.reset           "Clear Site Preferences">
+<!ENTITY pageactions.reset           "Limpar preferências do site">
 <!ENTITY pageactions.findInPage      "Localizar na página">
 <!ENTITY pageactions.search.addNew   "Adicionar pesquisa">
 
-<!ENTITY selectHelper.emptytext      "Localizar item">
-
-<!ENTITY appMenu.siteOptions         "Site Options">
+<!ENTITY appMenu.siteOptions         "Opções do site">
