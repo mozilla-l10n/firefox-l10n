@@ -7,13 +7,13 @@
 <!ENTITY startupLastSession.label  "Показувати вікна і вкладки, відкриті минулого разу">
 <!ENTITY homepage.label            "Домашня сторінка:">
 <!ENTITY homepage.accesskey        "Д">
-<!ENTITY useCurrentPage.label      "Використовувати поточну сторінку">
-<!ENTITY useCurrentPage.accesskey  "т">
-<!ENTITY useMultiple.label         "Використовувати поточні сторінки">
-<!ENTITY useBookmark.label         "Використовувати закладку">
+<!ENTITY useCurrentPage.label      "Встановити поточну сторінку">
+<!ENTITY useCurrentPage.accesskey  "п">
+<!ENTITY useMultiple.label         "Встановити поточні сторінки">
+<!ENTITY useBookmark.label         "Вибрати закладку">
 <!ENTITY useBookmark.accesskey     "з">
-<!ENTITY restoreDefault.label      "Відновити типові значення">
-<!ENTITY restoreDefault.accesskey  "В">
+<!ENTITY restoreDefault.label      "Відновити типову">
+<!ENTITY restoreDefault.accesskey  "т">
 
 <!ENTITY downloads.label     "Завантаження">
 
