@@ -68,14 +68,14 @@
 <!ENTITY saveFrameCmd.accesskey "r">
 <!ENTITY saveLinkAsCmd.label "Uložit odkaz jako…">
 <!ENTITY saveLinkCmd.label "Uložit odkaz jako…">
-<!ENTITY saveLinkCmd.accesskey "k">
+<!ENTITY saveLinkCmd.accesskey "U">
 <!ENTITY saveImageAsCmd.label "Uložit obrázek jako…">
 <!ENTITY saveImageCmd.label "Uložit obrázek jako…">
-<!ENTITY saveImageCmd.accesskey "U">
+<!ENTITY saveImageCmd.accesskey "l">
 <!ENTITY saveVideoCmd.label "Uložit video jako…">
-<!ENTITY saveVideoCmd.accesskey "U">
+<!ENTITY saveVideoCmd.accesskey "l">
 <!ENTITY saveAudioCmd.label "Uložit audio jako……">
-<!ENTITY saveAudioCmd.accesskey "U">
+<!ENTITY saveAudioCmd.accesskey "l">
 <!ENTITY copyCmd.label "Kopírovat">
 <!ENTITY copyCmd.accesskey "K">
 <!ENTITY selectAllCmd.label "Vybrat vše">

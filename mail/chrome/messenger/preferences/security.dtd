@@ -31,7 +31,7 @@
 <!-- Passwords -->
 <!ENTITY savedPasswords.intro "Aplikace &brandShortName; si může pamatovat vaše přihlašovací údaje pro jednotlivé účty, takže je nebudete muset znovu zadávat.">
 <!ENTITY useMasterPassword.label "Použít hlavní heslo">
-<!ENTITY useMasterPassword.accesskey "h">
+<!ENTITY useMasterPassword.accesskey "P">
 <!ENTITY masterPassword.intro "Hlavní heslo, je-li nastaveno, chrání všechna vaše ostatní hesla. Jeho vložení je ale vyžadováno jednou během relace.">
 <!ENTITY changeMasterPassword.label "Změnit hlavní heslo…">
 <!ENTITY changeMasterPassword.accesskey "m">
