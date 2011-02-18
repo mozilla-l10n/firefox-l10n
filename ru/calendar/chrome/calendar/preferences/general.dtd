@@ -18,7 +18,7 @@
    - Portions created by the Initial Developer are Copyright (C) 2006
    - the Initial Developer. All Rights Reserved.
    -
-   - Contributor(s): 
+   - Contributor(s):
    -   Cédric Corazza <cedric.corazza@wanadoo.fr>
    -
    - Alternatively, the contents of this file may be used under the terms of
@@ -49,6 +49,3 @@
 <!ENTITY pref.defaultlength.accesskey "П">
 <!ENTITY pref.defaultsnoozelength.label "По умолчанию откладывать оповещение на:" >
 <!ENTITY pref.defaultsnoozelength.accesskey "о">
-<!ENTITY pref.refreshbox.label "Настройки обновления" >
-<!ENTITY pref.autorefresh.label "Обновлять календари каждые" >
-<!ENTITY pref.autorefresh.accesskey "б" >

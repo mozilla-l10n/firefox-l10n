@@ -304,6 +304,12 @@
 <!ENTITY calendar.alarm.snooze.2hours.label         "2 часа" >
 <!ENTITY calendar.alarm.snooze.1day.label           "1 день" >
 
+<!-- LOCALIZATION NOTE (calendar.alarm.snooze.cancel)
+     This string is not seen in the UI, it is read by screen readers when the
+     user focuses the "Cancel" button in the "Snooze for..." popup of the alarm
+     dialog. -->
+<!ENTITY calendar.alarm.snooze.cancel               "Не откладывать">
+
 <!-- Calendar Server Dialog -->
 <!ENTITY calendar.server.dialog.title.edit          "Изменить календарь">
 <!ENTITY calendar.server.dialog.name.label          "Название календаря:">
@@ -315,6 +321,8 @@
 <!ENTITY calendarproperties.wcap.label                     "Сервер календарей Sun Java System (WCAP)">
 <!ENTITY calendarproperties.format.label                   "Формат:">
 <!ENTITY calendarproperties.location.label                 "Адрес:">
+<!ENTITY calendarproperties.refreshInterval.label          "Обновлять календарь:">
+<!ENTITY calendarproperties.refreshInterval.manual.label   "Вручную">
 <!ENTITY calendarproperties.name.label                     "Название:">
 <!ENTITY calendarproperties.readonly.label                 "Только для чтения">
 <!ENTITY calendarproperties.firealarms.label               "Показывать оповещения">
