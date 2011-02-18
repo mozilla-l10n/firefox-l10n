@@ -16,7 +16,7 @@
 <!ENTITY rights.intro-point1b "Mozilla Public License">
 <!ENTITY rights.intro-point1c ". Quai munta che ti pos utilisar, copiar e dar vinavant &brandShortName; ad auters. Ti dastgas era midar il code da funtauna da &brandShortName; ed al adattar a tes basegns. La Mozilla Public License ta dat era il dretg da distribuir tia versiun modifitgada.">
 
-<!ENTITY rights.intro-point2-a "Ta na vegnan betg concedids dretgs u licenzas per las marcas da la Mozilla Foundation u dad in'autra partida; quai cuntegna era senza limitaziuns il num ed il logo da 'Firefox'. Ulteriuras infurmaziuns davart las maracas pon vegnir chattadas ">
+<!ENTITY rights.intro-point2-a "Ta na vegnan betg concedids dretgs u licenzas per las marcas da la Mozilla Foundation u dad in'autra partida; quai cuntegna era senza limitaziuns il num ed il logo da 'Firefox'. Ulteriuras infurmaziuns davart las marcas pon vegnir chattadas ">
 <!ENTITY rights.intro-point2-b "qua">
 <!ENTITY rights.intro-point2-c ".">
 <!-- point 2.5 text for official branded builds -->
@@ -31,7 +31,7 @@
 <!ENTITY rights.intro-point3-unbranded "Tut las directivas areguard la protecziun da datas che concernan quest product duessan esser enumeradas qua.">
 
 <!-- point 4 text for official branded builds -->
-<!ENTITY rights2.intro-point4a "Tschertas funcziuns da &brandShortName; utiliseschan servetschas d'infurmaziun che sa basan sin il web. Nus na pudain betg garantir che quellas èn 100&#37; correctas ni senza sbagls. Ulteriurs detagls, inclusivamain las infurmaziuns sco deactivar las funcziuns che utiliseschan quests servetschs pos ti chattar en las ">
+<!ENTITY rights2.intro-point4a "Tschertas funcziuns da &brandShortName; utiliseschan servetschs d'infurmaziun che sa basan sin il web. Nus na pudain betg garantir che quellas èn 100&#37; correctas ni senza sbagls. Ulteriurs detagls, inclusivamain las infurmaziuns sco deactivar las funcziuns che utiliseschan quests servetschs pos ti chattar en las ">
 <!ENTITY rights.intro-point4b "cundiziuns da servetsch">
 <!ENTITY rights.intro-point4c ".">
 
@@ -40,20 +40,20 @@
 <!ENTITY rights.intro-point4b-unbranded "Servetschs da websites">
 <!ENTITY rights.intro-point4c-unbranded ".">
 
-<!ENTITY rights2.webservices-header "Servetschas d'infurmaziun da &brandFullName; che sa basan sin il web">
+<!ENTITY rights2.webservices-header "Servetschs d'infurmaziun da &brandFullName; che sa basan sin il web">
 
 <!-- Note that this paragraph references a couple of entities from
       preferences/security.dtd, so that we can refer to text the user sees in
       the UI, without this page being forgotten every time those strings are
       updated.  -->
 <!-- intro paragraph for branded builds -->
-<!ENTITY rights2.webservices-a "&brandFullName; utilisescha servetschas d'infurmaziun che sa basan sin il web (&quot;Servetschs&quot;) per ta porscher tschertgas funcziuns che ta stattan a disposiziun en questa versiun binaria da &brandShortName; tenor las cundiziuns descrittas sutvart. Sche ti na vuls betg utilisar in u plirs da quests servetschs ni sche ti na sas betg acceptar las cundiziuns sutvart pos ti deactivar las funcziuns u ils servetschs. Instrucziuns sco deactivar las funcziuns u ils servetschs pos ti chattar ">
+<!ENTITY rights2.webservices-a "&brandFullName; utilisescha servetschs d'infurmaziun che sa basan sin il web (&quot;Servetschs&quot;) per ta porscher tschertgas funcziuns che ta stattan a disposiziun en questa versiun binaria da &brandShortName; tenor las cundiziuns descrittas sutvart. Sche ti na vuls betg utilisar in u plirs da quests servetschs ni sche ti na sas betg acceptar las cundiziuns sutvart pos ti deactivar las funcziuns u ils servetschs. Instrucziuns sco deactivar las funcziuns u ils servetschs pos ti chattar ">
 <!ENTITY rights2.webservices-b "qua">
 <!ENTITY rights2.webservices-c ".">
 
 <!-- safe browsing points for branded builds -->
 <!ENTITY rights.safebrowsing-a "SafeBrowsing: ">
-<!ENTITY rights.safebrowsing-b "Nus recummandain da betg deactivar la funcziun da SafeBrowsing perquai che ti pudessas uschiglio visitar paginas d'internet betg segiras.  Sche ti vuls deactivar cumplettamain la funcziun, suanda ils suandants pass:">
+<!ENTITY rights.safebrowsing-b "Nus recumandain da betg deactivar la funcziun da SafeBrowsing perquai che ti pudessas uschiglio visitar paginas d'internet betg segiras.  Sche ti vuls deactivar cumplettamain la funcziun, suonda ils suandants pass:">
 <!ENTITY rights.safebrowsing-term1 "Avra las preferenzas da l'applicaziun">
 <!ENTITY rights.safebrowsing-term2 "Tscherna la secziun &quot;Segirezza&quot;">
 <!ENTITY rights.safebrowsing-term3 "Deactivescha las opziuns &quot;&blockAttackSites.label;&quot; e &quot;&blockWebForgeries.label;&quot;">
@@ -61,7 +61,7 @@
  
 <!-- location aware browsing points for branded builds -->
 <!ENTITY rights.locationawarebrowsing-a "Navigar referind a tia posiziun (Location Aware Browsing): ">
-<!ENTITY rights.locationawarebrowsing-b "è adina facultativ. Nagina infurmaziun davart tia posiziun vegn tramessa senza tes consentiment. Sche ti vuls deactivar cumplettamain questa funcziun, suanda ils suandants pass:">
+<!ENTITY rights.locationawarebrowsing-b "è adina facultativ. Nagina infurmaziun davart tia posiziun vegn tramessa senza tes consentiment. Sche ti vuls deactivar cumplettamain questa funcziun, suonda ils suandants pass:">
 <!ENTITY rights.locationawarebrowsing-term1a "Scriva en la trav d'adressas ">
 <!ENTITY rights.locationawarebrowsing-term1b "about:config">
 <!ENTITY rights.locationawarebrowsing-term2 "Scriva geo.enabled">
@@ -75,7 +75,7 @@
 <!ENTITY rights.webservices-term1-unbranded "Tut las cundiziuns che concernan ils servetschs utilisads da quest product duessan esser enumeradas qua.">
 
 <!-- points 1-7 text for branded builds -->
-<!ENTITY rights2.webservices-term1 "&vendorShortName; e ses contribuents, concessiunaris e partenaris lavuran per porscher ils servetschs ils pli actuals ed exacts. Nus na pudain dentant betg garantir che questas infurmaziuns èn cumplettas e senza sbagls. Per exempel èsi pussaivel ch'il servetsch da SafeBrowsing n'identifitgescha betg tschertas paginas privlusas u marchescha faussamain paginas segiras sco privlusas. E per ils servetschs che refereschan a tia posiziun vala che tut las posiziuns returnadas da noss furniturs èn stimadas e che ni nus ni nos furniturs pudain garantir che las posiziuns inditgadas èn correctas.">
+<!ENTITY rights2.webservices-term1 "&vendorShortName; e ses contribuents, concessiunaris e partenaris lavuran per porscher ils servetschs ils pli actuals ed exacts. Nus na pudain dentant betg garantir che questas infurmaziuns èn cumplettas e senza sbagls. Per exempel èsi pussaivel ch'il servetsch da SafeBrowsing n'identifitgescha betg tschertas paginas privlusas u marchescha faussamain paginas segiras sco privlusas. E per ils servetschs che refereschan a tia posiziun vala che tut las posiziuns returnadas da noss furniturs èn stimadas e che ni nus ni noss furniturs pudain garantir che las posiziuns inditgadas èn correctas.">
 <!ENTITY rights.webservices-term2 "&vendorShortName; po sistir u midar ils servetschs tenor agen giudizi.">
 <!ENTITY rights2.webservices-term3 "Ti dastgas far diever da quests servetschs cun la versiun correspundenta da &brandShortName;, e &vendorShortName; ta garantescha che ti has tut ils dretgs necessaris per far quai. &vendorShortName; e ses concessiunaris resalvan tut ils auters dretgs. Questas cundiziuns na vulan betg restrenscher dretgs che vegnan concedids da licenzas da code avert (Open-Source) e concernan &brandShortName; resp. versiuns correspundentas che sa basan sin il code da funtauna da &brandShortName;.">
 <!ENTITY rights.webservices-term4 "Quests servetschs vegnan mess a disposiziun &quot;senza garanzia per defects&quot;. &vendorShortName;, ses contribuents, concessiunaris e distributurs refusan tut las garanzias, explicitas u implicitas, per quests servetschs. Ti surpiglias la cumplaina responsabladad per ils servetschs che ti tschernas per tes basegns e per lur qualitad e prestaziun. Tschertas giurisdicziuns na permettan nagina exclusiun u limitaziun da garanzias implicitas, uschia che questa liberaziun da la responsabladad na vala eventualmain betg per tai.">

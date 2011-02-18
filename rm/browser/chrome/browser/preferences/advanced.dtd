@@ -17,7 +17,7 @@
 <!ENTITY useAutoScroll.accesskey         "A">
 <!ENTITY useSmoothScrolling.label        "Activar la defilada cuntinuanta">
 <!ENTITY useSmoothScrolling.accesskey    "n">
-<!ENTITY allowHWAccel.label              "Utilisar sche pussaivel l'accelleraziun entras hardware da grafica">
+<!ENTITY allowHWAccel.label              "Utilisar sche pussaivel l'acceleraziun entras hardware da grafica">
 <!ENTITY allowHWAccel.accesskey          "h">
 <!ENTITY checkSpelling.label             "Controllar l'ortografia durant l'endataziun">
 <!ENTITY checkSpelling.accesskey         "f">

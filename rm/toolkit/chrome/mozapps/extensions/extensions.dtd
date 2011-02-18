@@ -70,9 +70,9 @@
 <!ENTITY cmd.enableAddon.accesskey            "A">
 <!ENTITY cmd.disableAddon.label               "Deactivar">
 <!ENTITY cmd.disableAddon.accesskey           "D">
-<!ENTITY cmd.enableTheme.label                "Montar il theme">
+<!ENTITY cmd.enableTheme.label                "Montar il design">
 <!ENTITY cmd.enableTheme.accesskey            "M">
-<!ENTITY cmd.disableTheme.label               "Demontar il theme">
+<!ENTITY cmd.disableTheme.label               "Demontar il design">
 <!ENTITY cmd.disableTheme.accesskey           "D">
 <!ENTITY cmd.installAddon.label               "Installar">
 <!ENTITY cmd.installAddon.accesskey           "I">
@@ -99,7 +99,7 @@
   funcziunalitads u designs spezials. Emprova ina trav laterala che ta spargna temp, in supplement d'infurmaziuns davart l'aura u
   ina autra cumparsa per che &brandShortName; saja tes navigatur persunal.">
 <!ENTITY discover.footer                      "Sche ti has ina connexiun cun l'internet mussa questa pagina ina survista dals
-  megliers e pli desarads supplements che ti pudessas empruvar.">
+  megliers e pli derasads supplements che ti pudessas empruvar.">
 
 <!-- detail view -->
 <!ENTITY detail.version.label                 "Versiun">
@@ -108,7 +108,7 @@
 <!ENTITY detail.homepage.label                "Website">
 <!ENTITY detail.numberOfDownloads.label       "Telechargiadas">
 
-<!ENTITY detail.contributions.description     "Il svilppader da quest supplement ta dumonda da sustegnair il svilup dal supplement cun in pitschen sustegn finanzial.">
+<!ENTITY detail.contributions.description     "Il sviluppader da quest supplement ta dumonda da sustegnair il svilup dal supplement cun in pitschen sustegn finanzial.">
 
 <!ENTITY detail.updateType                    "Actualisaziuns automaticas">
 <!ENTITY detail.updateDefault.label           "Standard">
