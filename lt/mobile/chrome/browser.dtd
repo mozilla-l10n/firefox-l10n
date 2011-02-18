@@ -142,6 +142,4 @@
 <!ENTITY pageactions.findInPage           "Ieškoti tinklalapyje">
 <!ENTITY pageactions.search.addNew        "Pridėti ieškyklę">
 
-<!ENTITY selectHelper.emptytext           "Filtruoti sąrašą">
-
 <!ENTITY appMenu.siteOptions              "Svetainės nuostatos">

@@ -19,3 +19,4 @@
 <!ENTITY sync.serverURL             "Serverio URL">
 <!ENTITY sync.setup.connect         "Prisijungti">
 <!ENTITY sync.setup.cancel          "Atsisakyti">
+<!ENTITY sync.setup.tutorial        "Kaip tai daroma?">
