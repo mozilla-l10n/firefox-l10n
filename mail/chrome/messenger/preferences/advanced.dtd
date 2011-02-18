@@ -87,7 +87,7 @@
 -->
 <!ENTITY useCacheBefore.label "Použít až">
 <!ENTITY useCacheBefore.accesskey "P">
-<!ENTITY useCacheAfter.label "MB diskové vyrovnávací paměti">
+<!ENTITY useCacheAfter.label "MB diskové mezipaměti">
 <!ENTITY clearCacheNow.label "Vymazat">
 <!ENTITY clearCacheNow.accesskey "m">
 

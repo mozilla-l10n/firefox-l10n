@@ -9,8 +9,8 @@
 
 <!ENTITY networkPanel.responseHeaders "Hlavička odpovědi">
 <!ENTITY networkPanel.responseBody "Tělo odpovědi">
-<!ENTITY networkPanel.responseBodyCached "Data ve vyrovnávací paměti">
+<!ENTITY networkPanel.responseBodyCached "Data v mezipaměti">
 <!ENTITY networkPanel.responseBodyUnknownType "Neznámý typ obsahu">
 <!ENTITY networkPanel.responseNoBody "Odpověď bez těla">
 <!ENTITY networkPanel.responseImage "Přijatý obrázek">
-<!ENTITY networkPanel.responseImageCached "Obrázek ve vyrovnávací paměti">
+<!ENTITY networkPanel.responseImageCached "Obrázek v mezipaměti">

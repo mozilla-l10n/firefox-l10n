@@ -4,7 +4,7 @@
 <!ENTITY privatebrowsingpage.issueDesc "&brandShortName; si nebude pro tuto relaci pamatovat žádnou historii.">
 <!ENTITY privatebrowsingpage.issueDesc.normal "&brandShortName; není v současnosti v režimu anonymního prohlížení.">
 
-<!ENTITY privatebrowsingpage.description "V režimu anonymního prohlížení nebude &brandShortName; zaznamenávat žádnou historii, a to včetně historie stránek, formulářů, historie hledání, cookies a souborů ve vyrovnávací paměti. Nicméně vámi stažené soubory a vytvořené záložky budou zachovány.">
+<!ENTITY privatebrowsingpage.description "V režimu anonymního prohlížení nebude &brandShortName; zaznamenávat žádnou historii, a to včetně historie stránek, formulářů, historie hledání, cookies a souborů v mezipaměti. Nicméně vámi stažené soubory a vytvořené záložky budou zachovány.">
 
 
 <!-- LOCALIZATION NOTE (privatebrowsingpage.clearRecentHistoryBefore): include a trailing space as needed -->

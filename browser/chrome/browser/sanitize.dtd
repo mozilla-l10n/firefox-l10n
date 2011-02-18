@@ -42,8 +42,8 @@ that require it. -->
 <!ENTITY itemPasswords.accesskey "U">
 <!ENTITY itemCookies.label "Cookies">
 <!ENTITY itemCookies.accesskey "C">
-<!ENTITY itemCache.label "Vyrovnávací paměť">
-<!ENTITY itemCache.accesskey "V">
+<!ENTITY itemCache.label "Mezipaměť">
+<!ENTITY itemCache.accesskey "M">
 <!ENTITY itemOfflineApps.label "Offline obsah">
 <!ENTITY itemOfflineApps.accesskey "O">
 <!ENTITY itemDownloadHistory.label "Historie stahování">
