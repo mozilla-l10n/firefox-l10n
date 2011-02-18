@@ -12,3 +12,6 @@
 <!ENTITY  crash_close_label "Užverti">
 <!ENTITY  crash_restart_label "Paleisti „&brandShortName;“ iš naujo">
 <!ENTITY  sending_crash_report "Išsiunčiamas strigties pranešimas…">
+<!ENTITY  exit_label "Baigti darbą">
+<!ENTITY  incompatable_device "Programa „&brandShortName;“ nėra suderinama su šiuo įrenginiu, tad galite susidurti su problemomis.">
+<!ENTITY  continue_label "Tęsti">
