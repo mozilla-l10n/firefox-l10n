@@ -58,8 +58,8 @@
 <!ENTITY addDevice.showMeHow.label          "Mussar sco.">
 <!ENTITY addDevice.dontHaveDevice.label     "Jau n'hai betg qua l'apparat">
 <!ENTITY addDevice.setup.description.label  "Per activar, va a las preferenzas da &syncBrand.shortName.label; da tes auter apparat e tscherna &#x0022;Agiuntar in apparat&#x0022;.">
-<!ENTITY addDevice.setup.enterCode.label    "Lura endatschea quest code:">
-<!ENTITY addDevice.dialog.description.label "Per activar tes nov apparat va en las preferenzas da &syncBrand.shortName.label; sin il appparat che duai vegnir agiuntà e tscherna &#x0022;Connectar&#x0022;.">
+<!ENTITY addDevice.setup.enterCode.label    "Lura endatescha quest code:">
+<!ENTITY addDevice.dialog.description.label "Per activar tes nov apparat va en las preferenzas da &syncBrand.shortName.label; sin il apparat che duai vegnir agiuntà e tscherna &#x0022;Connectar&#x0022;.">
 <!ENTITY addDevice.dialog.enterCode.label   "Endatescha il code che quest apparat ta mussa:">
 <!ENTITY addDevice.dialog.tryAgain.label    "Emprova danovamain.">
 <!ENTITY addDevice.dialog.successful.label  "L'apparat è vegnì agiuntà cun success. La sincronisaziun iniziala po cuzzar intginas minutas è vegn terminada automaticamain - ti pos lavurar vinavant.">
