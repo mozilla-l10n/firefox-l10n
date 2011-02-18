@@ -1,7 +1,5 @@
 amazon-co-uk
-answers
-creativecommons
+bing
 eBay
 google
 wikipedia-da
-yahoo-dk
