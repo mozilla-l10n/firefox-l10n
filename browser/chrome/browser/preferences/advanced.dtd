@@ -18,9 +18,9 @@
 <!ENTITY useSmoothScrolling.label        "Anvend blød scrolling">
 <!ENTITY useSmoothScrolling.accesskey    "b">
 <!ENTITY allowHWAccel.label              "Brug hardwareacceleration hvor muligt">
-<!ENTITY allowHWAccel.accesskey          "h">
+<!ENTITY allowHWAccel.accesskey          "g">
 <!ENTITY checkSpelling.label             "Kontroller min stavning mens jeg taster">
-<!ENTITY checkSpelling.accesskey         "t">
+<!ENTITY checkSpelling.accesskey         "K">
 <!ENTITY doNotTrack.label                "Fortæl websteder at jeg ikke ønsker at blive sporet">
 <!ENTITY doNotTrack.accesskey            "w">
 
@@ -30,7 +30,7 @@
 <!ENTITY checkNow.label                  "Undersøg nu">
 <!ENTITY checkNow.accesskey              "n">
 <!ENTITY submitCrashes.label             "Send fejlrapporter">
-<!ENTITY submitCrashes.accesskey         "S">
+<!ENTITY submitCrashes.accesskey         "f">
 
 <!ENTITY networkTab.label                "Netværk">
 

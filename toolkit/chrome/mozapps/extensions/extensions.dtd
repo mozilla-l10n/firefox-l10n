@@ -187,7 +187,7 @@
 
 <!ENTITY addon.createdBy.label                "af ">
 
-<!ENTITY eula.title                           "Slutbruger licensaftale">
+<!ENTITY eula.title                           "Slutbrugerlicensaftale">
 <!ENTITY eula.width                           "560px">
 <!ENTITY eula.height                          "400px">
 <!ENTITY eula.accept                          "Accepter og installer…">
