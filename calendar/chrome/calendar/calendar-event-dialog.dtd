@@ -44,6 +44,8 @@
 
 <!ENTITY event.title.label                  "Изменить" >
 
+<!ENTITY event.dialog.keepDurationButton.tooltip   "Сохранять продолжительность при изменении даты завершения события">
+<!ENTITY event.dialog.keepDurationButton.accesskey "х">
 
 <!ENTITY newevent.from.label                "С" >
 <!ENTITY newevent.to.label                  "По" >
