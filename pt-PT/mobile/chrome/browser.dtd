@@ -96,7 +96,7 @@
 <!ENTITY contextShareLink.label       "Partilhar ligação">
 <!ENTITY contextShareImage.label      "Partilhar imagem">
 <!ENTITY contextSaveVideo.label       "Guardar vídeo">
-<!ENTITY contextShareVideo.label      "Partilhar vídeo">
+<!ENTITY contextShareVideo.label      "Partilhar vídeo">selectHelper.emptytext
 <!ENTITY contextPlayMedia.label       "Reproduzir">
 <!ENTITY contextPauseMedia.label      "Pausar">
 <!ENTITY contextFullScreen.label      "Ecrã inteiro">
@@ -109,7 +109,5 @@
 <!ENTITY pageactions.reset           "Limpar preferências do sítio">
 <!ENTITY pageactions.findInPage      "Procurar na página">
 <!ENTITY pageactions.search.addNew   "Adicionar motor de pesquisa">
-
-<!ENTITY selectHelper.emptytext      "Lista de filtros">
 
 <!ENTITY appMenu.siteOptions         "Opções do sítio">
