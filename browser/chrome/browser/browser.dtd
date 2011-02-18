@@ -574,7 +574,7 @@ just addresses the organization to follow, e.g. "This site is run by " -->
 <!ENTITY syncBrand.shortName.label    "Sync">
 
 <!ENTITY syncSetup.label              "Konfigūruoti sinchronizavimą…">
-<!ENTITY syncSetup.accesskey          "K">
+<!ENTITY syncSetup.accesskey          "S">
 <!ENTITY syncSyncNowItem.label        "Sinchronizuoti dabar">
 <!ENTITY syncSyncNowItem.accesskey    "S">
 <!ENTITY syncToolbarButton.label      "Sinchronizuoti">

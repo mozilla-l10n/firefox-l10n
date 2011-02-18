@@ -31,7 +31,7 @@
 <!-- The page shown when not logged in... -->
 <!ENTITY setupButton.label            "Konfigūruoti „&syncBrand.fullName.label;“">
 <!ENTITY setupButton.accesskey        "K">
-<!ENTITY weaveDesc.label              "„&syncBrand.fullName.label;“ padeda sinchronizuoti naršymo žurnalą, adresyną, įrašytus slaptažodžius ir atvertas korteles skirtinguose kompiuteriuose.">
+<!ENTITY weaveDesc.label              "„&syncBrand.fullName.label;“ padeda sinchronizuoti naršymo žurnalą, adresyną, įrašytus slaptažodžius ir atvertas korteles skirtinguose įrenginiuose.">
 
 <!-- The page shown when logged in... -->
 
