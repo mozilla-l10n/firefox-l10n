@@ -19,3 +19,4 @@
 <!ENTITY homepage.none "Пустая страница">
 <!ENTITY homepage.default "Запуск &brandShortName;">
 <!ENTITY homepage.currentpage "Исп. текущую страницу">
+<!ENTITY showCharset.title "Показывать выбор кодировки">
