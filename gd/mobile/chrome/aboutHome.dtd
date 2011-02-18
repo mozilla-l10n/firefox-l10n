@@ -10,4 +10,5 @@
 <!ENTITY aboutHome.noAddons                     "Chan eil tuilleadan molta ann">
 
 <!-- LOCALIZATION NOTE: 'Firefox Spark' is the official name of the promotion and should not be translated -->
-<!ENTITY aboutHome.promoSpark                   "Cluich Firefox Spark">
+<!ENTITY aboutHome.promoLabel                   "Firefox Spark">
+<!ENTITY aboutHome.promoButton                  "Cluich">
