@@ -1,5 +1,5 @@
 <!ENTITY doNotDownloadPop3Movemail.label "Per a estalviar espai, no baixis:">
-<!ENTITY doNotDownloadNntp.label "Per a estalviar espai, no baixis res per a treballar-hi fora de línia:">
+<!ENTITY doNotDownloadNntp.label "Per a estalviar espai, no baixis per a treballar-hi fora de línia:">
 <!ENTITY doNotDownloadImap.label "Per a estalviar espai, es poden restringir els missatges que es baixen com a còpia local per a treballar-hi fora de línia segons la seva antiguitat o la seva mida.">
 <!ENTITY allFoldersOffline.label "Conserva els missatges d'aquest compte a l'ordinador">
 <!ENTITY allFoldersOffline.accesskey "o">
@@ -10,10 +10,10 @@
 <!ENTITY kb.label "kB">
 <!ENTITY daysOld.label "dies">
 <!ENTITY message.label "missatges">
-<!ENTITY nntpNotDownloadRead.label "Llegeix els missatges">
-<!ENTITY nntpNotDownloadRead.accesskey "L">
-<!ENTITY nntpDownloadMsg.label "Baixa els cossos dels missatges des de">
-<!ENTITY nntpDownloadMsg.accesskey "o">
+<!ENTITY nntpNotDownloadRead.label "Missatges llegits">
+<!ENTITY nntpNotDownloadRead.accesskey "l">
+<!ENTITY nntpDownloadMsg.label "Missatges de fa més de">
+<!ENTITY nntpDownloadMsg.accesskey "g">
 <!ENTITY retentionCleanupImap.label "Per a recuperar espai de disc, es poden suprimir permanentment els missatges antics, tant les còpies locals com els originals del servidor remot.">
 <!ENTITY retentionCleanupPop.label "Per a recuperar espai de disc, es poden suprimir permanentment els missatges antics, inclosos els originals del servidor remot.">
 <!ENTITY retentionCleanup.label "Per a recuperar espai de disc, es poden suprimir permanentment els missatges antics">
