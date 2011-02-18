@@ -1,4 +1,4 @@
-<!-- ***** BEGIN LICENSE BLOCK *****
+﻿<!-- ***** BEGIN LICENSE BLOCK *****
    - Version: MPL 1.1/GPL 2.0/LGPL 2.1
    -
    - The contents of this file are subject to the Mozilla Public License Version
@@ -55,18 +55,18 @@
 <!ENTITY link.label             "இணைப்பு">
 <!ENTITY anchor.label           "நங்கூரம்">
 
-<!ENTITY formatting.caption     "Show these buttons in the Formatting Toolbar:">
+<!ENTITY formatting.caption     "Formatting கருவிப்பட்டையில் இந்த பொத்தான்களைக் காட்டவும்:">
 
-<!ENTITY smaller.label          "Smaller">
-<!ENTITY larger.label           "Larger">
-<!ENTITY bold.label             "Bold">
-<!ENTITY bullets.label          "Bullets">
-<!ENTITY numbers.label          "Numbers">
-<!ENTITY italic.label           "Italic">
-<!ENTITY outdent.label          "Outdent">
-<!ENTITY indent.label           "Indent">
-<!ENTITY underline.label        "Underline">
+<!ENTITY smaller.label          "சிறிய">
+<!ENTITY larger.label           "பெரிய">
+<!ENTITY bold.label             "தடிப்பு">
+<!ENTITY bullets.label          "குண்டுக்குறியீடுகள்">
+<!ENTITY numbers.label          "எண்கள்">
+<!ENTITY italic.label           "சாய்வு">
+<!ENTITY outdent.label          "வெளித்தள்ளு">
+<!ENTITY indent.label           "உள்தள்ளு">
+<!ENTITY underline.label        "அடிக்கோடிடுக">
 
 <!ENTITY absolutePosition.label "Absolute positioning">
-<!ENTITY decreaseZIndex.label   "Send to back">
-<!ENTITY increaseZIndex.label   "Bring to front">
+<!ENTITY decreaseZIndex.label   "பின் அனுப்புக">
+<!ENTITY increaseZIndex.label   "முன் கொணர்க">

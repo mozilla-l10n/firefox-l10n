@@ -69,7 +69,7 @@ Entities below were automatically added by compare-locales,
  based on en-US entities.
 -->
 
-<!ENTITY error.title "Update Failed">
+<!ENTITY error.title "இற்றைப்படுத்தல் தோல்வியடைந்துள்ளது">
 <!ENTITY genericBackgroundError.label "&brandShortName; இனால் ஒரு இற்றைப்படுத்தல் காணப்படுகின்றது என்பதை தீர்மானிக்க இயலாமல் உள்ளது.நீங்கள் வைத்திருப்பது &brandShortName; இன் பிந்தைய பதிப்புதான் என்பதை இங்கே உறுதிப்படுத்திக்கொள்க:">
 <!ENTITY pluginupdateslink.label "எப்படி உட்செருகல்களை மேம்படுத்துவது பற்றி பார்க்க.."> 
 <!ENTITY pluginupdatesfound.title "உட்செருகல்களுக்கான இற்றைப்படுத்தல்களை கண்டுபிடிக்க">

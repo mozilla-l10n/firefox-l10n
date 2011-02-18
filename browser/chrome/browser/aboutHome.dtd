@@ -4,9 +4,6 @@
 
 <!ENTITY abouthome.searchEngineButton.label "தேடல்"> 
 <!ENTITY abouthome.aboutMozilla "Mozilla ஐ பற்றி"> 
-<!ENTITY abouthome.brandStart "<span>&brandShortName;</span> தொடங்குக"> 
 <!ENTITY abouthome.defaultSnippet2.v1 "நீங்கள் விரும்பிய மிகச் சரியான வழியில் உங்களுடைய Firefox ஐ தனிப்பயனாக்குவது இலகுவானதாகும். <a>ஆயிரக்கணக்கான உட்செருகல்களிலிருந்து தெரிவு செய்க</a>.">
-<!ENTITY abouthome.searchEngineLinks.advanced "உயர்தர தேடல்"> 
 <!ENTITY abouthome.defaultSnippet1.v1 "Firefox ஐ தெரிவு செய்தமைக்கு நன்றி! உங்களுடைய உலாவியில் இல்லாததை பெறுவதற்கு <a>பிந்திய அம்சங்களைப்</a> பற்றி மேலும் அறிந்துகொள்ளுங்கள்.">
 <!ENTITY abouthome.pageTitle "&brandFullName; தொடக்கப் பக்கம்"> 
-<!ENTITY abouthome.searchEngineLinks.preferences "முன்னுரிமைகள்"> 

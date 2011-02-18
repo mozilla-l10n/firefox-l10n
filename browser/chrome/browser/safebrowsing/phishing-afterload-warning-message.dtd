@@ -25,8 +25,8 @@ Entities below were automatically added by compare-locales,
 
 <!ENTITY safeb.blocked.malwarePage.shortDesc "This web page at <span id='malware_sitename'/> has been reported as an attack page and has been blocked based on your security preferences.">
 <!ENTITY safeb.blocked.phishingPage.longDesc "<p>Web forgeries are designed to trick you into revealing personal or financial information by imitating sources you may trust.</p><p>Entering any information on this web page may result in identity theft or other fraud.</p>">
-<!ENTITY safeb.blocked.phishingPage.title "Reported Web Forgery!">
+<!ENTITY safeb.blocked.phishingPage.title "இணைய மோசடி அறிக்கைப்படுத்தப்பட்டுள்ளது!">
 <!ENTITY safeb.blocked.malwarePage.longDesc "<p>Attack pages try to install programs that steal private information, use your computer to attack others, or damage your system.</p><p>Some attack pages intentionally distribute harmful software, but many are compromised without the knowledge or permission of their owners.</p>">
 <!ENTITY safeb.palm.reportPage.label "ஏன் இந்தப் பக்கம் தடுக்கப்பட்டிருந்தது?">
 <!ENTITY safeb.blocked.phishingPage.shortDesc "This web page at <span id='phishing_sitename'/> has been reported as a web forgery and has been blocked based on your security preferences.">
-<!ENTITY safeb.blocked.malwarePage.title "Reported Attack Page!">
+<!ENTITY safeb.blocked.malwarePage.title "தாக்குதல் பக்கம் அறிக்கைப்படுத்தப்பட்டுள்ளது!">

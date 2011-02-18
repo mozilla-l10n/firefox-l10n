@@ -1,4 +1,4 @@
-<!-- ***** BEGIN LICENSE BLOCK *****
+﻿<!-- ***** BEGIN LICENSE BLOCK *****
    - Version: MPL 1.1/GPL 2.0/LGPL 2.1
    -
    - The contents of this file are subject to the Mozilla Public License Version
@@ -40,7 +40,7 @@
 <!ENTITY AdvancedEditButton.tooltip "HTML காரணிகள், பாங்கு காரணிகள், மற்றும் ஜாவாஸ்கிரிப்டை சேர்க்கவும் அல்லது மாற்றவும்.">
 <!ENTITY chooseFileButton.label "கோப்பைத் தெரிவுசெய்க...">
 <!ENTITY chooseFileButton.accessKey "F">
-<!ENTITY chooseFileLinkButton.label "Choose File...">
+<!ENTITY chooseFileLinkButton.label "கோப்பைத் தெரிவு செய்க...">
 <!ENTITY chooseFileLinkButton.accessKey "o">
 <!ENTITY makeUrlRelative.label "URL பக்க அமைவுடன் சம்பந்தப்பட்டது">
 <!ENTITY makeUrlRelative.accessKey "r">

@@ -24,7 +24,7 @@ that require it.  -->
 <!ENTITY itemBrowsingHistory.accesskey     "B">
 <!ENTITY itemBrowsingHistory.label         "உலாவல் வரலாறு">
 <!ENTITY itemCache.accesskey               "A">
-<!ENTITY itemCache.label                   "Cache">
+<!ENTITY itemCache.label                   "இடைமாற்றுநினைவகம்">
 <!ENTITY itemDownloadHistory.accesskey     "D">
 <!ENTITY itemDownloadHistory.label         "பதிவிறக்க வரலாறு">
 <!ENTITY itemFormSearchHistory.accesskey   "F">

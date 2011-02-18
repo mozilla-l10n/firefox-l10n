@@ -1,4 +1,4 @@
-<!-- ***** BEGIN LICENSE BLOCK *****
+﻿<!-- ***** BEGIN LICENSE BLOCK *****
    - Version: MPL 1.1/GPL 2.0/LGPL 2.1
    -
    - The contents of this file are subject to the Mozilla Public License Version
@@ -68,7 +68,7 @@
 <!-- Menubar -->
 <!ENTITY  event.menu.file.label                           "கோப்பு">
 <!ENTITY  event.menu.file.accesskey                       "F">
-<!ENTITY  event.menu.file.new.label                       "பதிய">
+<!ENTITY  event.menu.file.new.label                       "புதிய">
 <!ENTITY  event.menu.file.new.accesskey                   "N">
 <!ENTITY  event.menu.file.new.event.label                 "நிகழ்ச்சி">
 <!ENTITY  event.menu.file.new.event.accesskey             "E">
@@ -80,7 +80,7 @@
 <!ENTITY  event.menu.file.close.accesskey                 "C">
 <!ENTITY  event.menu.file.save.label                      "சேமிக்க">
 <!ENTITY  event.menu.file.save.accesskey                  "S">
-<!ENTITY  event.menu.item.delete.label                    "Delete…">
+<!ENTITY  event.menu.item.delete.label                    "நீக்குக…">
 <!ENTITY  event.menu.item.delete.accesskey                "D">
 <!ENTITY  event.menu.file.page.setup.label                "பக்க அமைப்பு">
 <!ENTITY  event.menu.file.page.setup.accesskey            "u">
@@ -170,7 +170,7 @@
 
 <!-- Toolbar -->
 <!ENTITY  event.toolbar.save.label                        "சேமித்து மூடுக">
-<!ENTITY  event.toolbar.delete.label                      "Delete">
+<!ENTITY  event.toolbar.delete.label                      "நீக்குக">
 <!ENTITY  event.toolbar.attendees.label                   "வருகைதரவேண்டியவர்களை அழைக்க">
 <!ENTITY  event.toolbar.spellcheck.label                  "எழுத்துக்கூட்டு ஆய்வு">
 <!ENTITY  event.toolbar.privacy.label                     "தனிப்பட்ட">

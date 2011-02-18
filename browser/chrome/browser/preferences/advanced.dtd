@@ -19,6 +19,8 @@
 <!ENTITY useSmoothScrolling.accesskey    "m">
 <!ENTITY checkSpelling.label             "நான் தட்டச்சு செய்யும்போதே எழுத்துக்கூட்டலை சரிபார்க்கவும்">
 <!ENTITY checkSpelling.accesskey         "t">
+<!ENTITY doNotTrack.label                "Tell web sites I do not want to be tracked">
+<!ENTITY doNotTrack.accesskey            "d">
 
 <!ENTITY systemDefaults.label            "தொகுதிப் பொது இருப்பு">
 <!ENTITY alwaysCheckDefault.label        "தொடங்கும்போது எப்பொழுதும் &brandShortName; பொது இருப்பு உலாவியாக உள்ளதா என சரிபார்க்க"><!--XXX-->

@@ -1,4 +1,4 @@
-<!ENTITY  pref.editing.title        "புதிய பக்க அமைப்புக்கள்">
+﻿<!ENTITY  pref.editing.title        "புதிய பக்க அமைப்புக்கள்">
 
 <!ENTITY  authorName.label          "நங்கூரம்:">
 <!ENTITY  authorName.accesskey      "u">
@@ -6,7 +6,7 @@
 
 <!ENTITY defaultColors.label        "Reader's default colors (Don't set colors in page)">
 <!ENTITY defaultColors.accesskey    "d">
-<!ENTITY customColors.label         "Use custom colors:">
+<!ENTITY customColors.label         "தனிப்பயன் நிறங்களைப் பயன்படுத்துக:">
 <!ENTITY customColors.accesskey     "c">
 
 <!ENTITY normalText.label           "சாதாரண உரை">

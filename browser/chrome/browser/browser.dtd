@@ -527,3 +527,4 @@ Entities below were automatically added by compare-locales,
 <!ENTITY showAllBookmarks2.label "எல்லாப் புத்தகக்குறிகளையும் காட்டுக">
 <!ENTITY addonBarCloseButton.tooltip "செருகல் பட்டையை மூடுக">
 <!ENTITY preferencesCmd2.label "தெரிவுகள்">
+<!ENTITY toggleAddonBarCmd.key        "/">

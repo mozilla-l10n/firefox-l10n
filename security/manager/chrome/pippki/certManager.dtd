@@ -148,8 +148,8 @@ Entities below were automatically added by compare-locales,
 
 <!ENTITY certmgr.delete_builtin.accesskey "D">
 <!ENTITY certmgr.edit3.accesskey "E">
-<!ENTITY certmgr.edit3.label "Edit Trust…">
-<!ENTITY certmgr.delete_builtin.label "Delete or Distrust…">
+<!ENTITY certmgr.edit3.label "Trust இனை செவ்வையாக்குக…">
+<!ENTITY certmgr.delete_builtin.label "அழிக்குக அல்லது Distrust…">
 
 
 <!--
@@ -157,5 +157,5 @@ Entities below were automatically added by compare-locales,
  based on en-US entities.
 -->
 
-<!ENTITY exceptionMgr.exceptionButton.label "Confirm Security Exception">
+<!ENTITY exceptionMgr.exceptionButton.label "பாதுகாப்பு நீட்சியினை உறுதிப்படுத்துக">
 <!ENTITY exceptionMgr.exceptionButton.accesskey "C">
