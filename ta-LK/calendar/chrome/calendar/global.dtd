@@ -1,4 +1,4 @@
-<!-- ***** BEGIN LICENSE BLOCK *****
+﻿<!-- ***** BEGIN LICENSE BLOCK *****
    - Version: MPL 1.1/GPL 2.0/LGPL 2.1
    -
    - The contents of this file are subject to the Mozilla Public License Version
@@ -40,19 +40,19 @@
 <!-- Day Names -->
 <!-- LOCALIZATION NOTE : Accesskeys for day.1.Ddd to day.7.Ddd are currently
      only used in Preferences > Views > Workweek groupbox -->
-<!ENTITY day.1.Ddd "Sun" >
+<!ENTITY day.1.Ddd "ஞா" >
 <!ENTITY day.1.Ddd.accesskey "S">
-<!ENTITY day.2.Ddd "Mon" >
+<!ENTITY day.2.Ddd "தி" >
 <!ENTITY day.2.Ddd.accesskey "M">
-<!ENTITY day.3.Ddd "Tue" >
+<!ENTITY day.3.Ddd "செ" >
 <!ENTITY day.3.Ddd.accesskey "T">
-<!ENTITY day.4.Ddd "Wed" >
+<!ENTITY day.4.Ddd "பு" >
 <!ENTITY day.4.Ddd.accesskey "W">
-<!ENTITY day.5.Ddd "Thu" >
+<!ENTITY day.5.Ddd "வி" >
 <!ENTITY day.5.Ddd.accesskey "h">
-<!ENTITY day.6.Ddd "Fri" >
+<!ENTITY day.6.Ddd "வெ" >
 <!ENTITY day.6.Ddd.accesskey "F">
-<!ENTITY day.7.Ddd "Sat" >
+<!ENTITY day.7.Ddd "ச" >
 <!ENTITY day.7.Ddd.accesskey "a">
 
 <!ENTITY day.1.name "ஞாயிற்றுக்கிழமை" >

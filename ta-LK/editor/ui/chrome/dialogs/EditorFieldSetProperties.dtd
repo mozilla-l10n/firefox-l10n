@@ -1,4 +1,4 @@
-<!-- ***** BEGIN LICENSE BLOCK *****
+﻿<!-- ***** BEGIN LICENSE BLOCK *****
    - Version: MPL 1.1/GPL 2.0/LGPL 2.1
    -
    - The contents of this file are subject to the Mozilla Public License Version
@@ -34,7 +34,7 @@
    -
    - ***** END LICENSE BLOCK ***** -->
 
-<!ENTITY windowTitle.label "புல அமைப்புச் பண்பியல்புகள்">
+<!ENTITY windowTitle.label "புல அமைப்புப் பண்பியல்புகள்">
 
 <!ENTITY Legend.label "Legend">
 <!ENTITY Legend.accesskey "L">

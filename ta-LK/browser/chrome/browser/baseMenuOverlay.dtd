@@ -10,8 +10,6 @@
                        for the help button in the menubar but Gnome does not.   -->
 <!ENTITY helpMenuWin.label "உதவி">
 <!ENTITY helpMenuWin.accesskey "H">
-<!ENTITY helpForIEUsers.label "Internet Explorer பயனர்களுக்காக">
-<!ENTITY helpForIEUsers.accesskey "I">
 
 
 <!ENTITY preferencesCmdMac.label "விருப்பத்தேர்வுகள்...">

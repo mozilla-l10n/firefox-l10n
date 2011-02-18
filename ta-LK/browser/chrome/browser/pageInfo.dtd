@@ -1,4 +1,4 @@
-<!--
+﻿<!--
 -->
 
 
@@ -75,7 +75,7 @@
 <!ENTITY  permAllow             "அனுமதி">
 <!ENTITY  permAllowSession      "அமர்விற்காக அனுமதிக்க">
 <!ENTITY  permBlock             "தடு">
-<!ENTITY  permissionsFor        "Permissions for:">
+<!ENTITY  permissionsFor        "இதற்கான அனுமதிகள்:">
 <!ENTITY  permImage             "படத்தை ஏற்றுக">
 <!ENTITY  permPopup             "Pop-up சாளரத்தை திறக்க">
 <!ENTITY  permCookie            "Cookies அமைக்க">

@@ -1,4 +1,4 @@
-<!-- ***** BEGIN LICENSE BLOCK *****
+﻿<!-- ***** BEGIN LICENSE BLOCK *****
    - Version: MPL 1.1/GPL 2.0/LGPL 2.1
    -
    - The contents of this file are subject to the Mozilla Public License Version
@@ -34,11 +34,11 @@
    -
    - ***** END LICENSE BLOCK ***** -->
 
-<!ENTITY providerUninstall.title                           "Uninstall a Provider">
-<!ENTITY providerUninstall.accept.label                    "Unsubscribe Selected">
+<!ENTITY providerUninstall.title                           "ஒரு வழங்குனரின் நிறுவலை அகற்றுக">
+<!ENTITY providerUninstall.accept.label                    "தெரிவு செய்யப்பட்டவர்களை அங்கத்துவத்திலிருந்து விலக்குக">
 <!ENTITY providerUninstall.accept.accesskey                "U">
 <!ENTITY providerUninstall.cancel.label                    "Keep Addon">
 <!ENTITY providerUninstall.cancel.accesskey                "K">
-<!ENTITY providerUninstall.preName.label                   "You have requested to uninstall or disable:">
+<!ENTITY providerUninstall.preName.label                   "நீங்கள் நிறுவலை அகற்றுவதற்கு அல்லது இயலாமைப்படுத்துவதற்கு கேட்டுள்ளீர்கள்:">
 <!ENTITY providerUninstall.postName.label                  "This will cause the calendars below to be disabled.">
 <!ENTITY providerUninstall.reinstallNote.label             "Unless you are planning to reinstall this provider, you may choose to unsubscribe from this provider's calendars.">

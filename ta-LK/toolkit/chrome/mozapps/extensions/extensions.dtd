@@ -72,7 +72,7 @@
 <!ENTITY cmd.disableAddon.accesskey           "D">
 <!ENTITY cmd.enableTheme.label                "Wear Theme">
 <!ENTITY cmd.enableTheme.accesskey            "W">
-<!ENTITY cmd.disableTheme.label               "Stop Wearing Theme">
+<!ENTITY cmd.disableTheme.label               "Wearing Theme இனை நிறுத்துக">
 <!ENTITY cmd.disableTheme.accesskey           "W">
 <!ENTITY cmd.installAddon.label               "நிறுவுக.">
 <!ENTITY cmd.installAddon.accesskey           "I">
@@ -142,13 +142,13 @@
 
 <!-- list sorting -->
 <!ENTITY sort.name.label                      "பெயர்">
-<!ENTITY sort.name.tooltip                    "Sort by name">
-<!ENTITY sort.dateUpdated.label               "Last Updated">
-<!ENTITY sort.dateUpdated.tooltip             "Sort by date updated">
-<!ENTITY sort.relevance.label                 "Best match">
-<!ENTITY sort.relevance.tooltip               "Sort by relevance">
+<!ENTITY sort.name.tooltip                    "பெயரின்படி வடிக்க">
+<!ENTITY sort.dateUpdated.label               "இறுதியாக இற்றைப்படுத்தப்பட்டது">
+<!ENTITY sort.dateUpdated.tooltip             "இற்றைப்படுத்தப்பட்ட திகதியின்படி வடிக்க">
+<!ENTITY sort.relevance.label                 "சரியான பொருத்தம்">
+<!ENTITY sort.relevance.tooltip               "relevance படி வடிக்க">
 <!ENTITY sort.price.label                     "விலை">
-<!ENTITY sort.price.tooltip                   "Sort by price">
+<!ENTITY sort.price.tooltip                   "விலையின்படி வடிக்க">
 
 <!ENTITY search.filter2.label                 "தேடல்:">
 <!ENTITY search.filter2.installed.label       "எனது செருகல்">
@@ -172,7 +172,7 @@
 <!ENTITY addon.undoAction.label               "முன் செயல் நீக்கம்">
 <!ENTITY addon.undoAction.tooltip             "இவ் செயலுக்கான முன் செயல் நீக்கம்"> 
 <!ENTITY addon.undoRemove.label               "முன் செயல் நீக்கம்">
-<!ENTITY addon.undoRemove.tooltip             "Keep this add-on installed">
+<!ENTITY addon.undoRemove.tooltip             "இந்த செருகல்களை நிறுவி வைத்திருக்குக">
 <!ENTITY addon.restartNow.label               "இப்பொழுதே மீளத் தொடங்குக">
 <!ENTITY addon.install.label                  "நிறுவுக.">
 <!ENTITY addon.install.tooltip                "இந்த செருகலினை நிறுவுக.">

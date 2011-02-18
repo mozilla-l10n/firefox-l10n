@@ -1,4 +1,4 @@
-<!-- ***** BEGIN LICENSE BLOCK *****
+﻿<!-- ***** BEGIN LICENSE BLOCK *****
    - Version: MPL 1.1/GPL 2.0/LGPL 2.1
    -
    - The contents of this file are subject to the Mozilla Public License Version
@@ -42,7 +42,7 @@
    - ***** END LICENSE BLOCK ***** -->
 
 <!-- Event Menu -->
-<!ENTITY event.new.event                        "பதிய நிகழ்ச்சி…">
+<!ENTITY event.new.event                        "புதிய நிகழ்ச்சி…">
 <!ENTITY event.new.event.key                    "N">
 <!ENTITY event.new.event.accesskey              "N">
 
@@ -50,7 +50,7 @@
 <!ENTITY event.new.todo.key                     "T">
 <!ENTITY event.new.todo.accesskey               "T">
 
-<!ENTITY calendar.new.server.label              "பதிய நாட்காட்டி…">
+<!ENTITY calendar.new.server.label              "புதிய நாட்காட்டி…">
 <!ENTITY calendar.new.server.key                "L">
 <!ENTITY calendar.new.server.accesskey          "l">
 
@@ -62,13 +62,13 @@
 <!ENTITY calendar.import.key                    "I">
 <!ENTITY calendar.import.accesskey              "I">
 
-<!ENTITY calendar.export.label                  "Export…">
+<!ENTITY calendar.export.label                  "ஏற்றுமதி செய்க…">
 <!ENTITY calendar.export.accesskey              "E">
 <!ENTITY calendar.export.selection.label        "தெரிவுகளை ஏற்றுமதி செய்க…">
 <!ENTITY calendar.export.selection.accesskey    "S">
 
-<!ENTITY calendar.deletecalendar.label          "Delete Selected Calendar…">
-<!ENTITY calendar.deletecalendar.accesskey      "D">
+<!ENTITY calendar.deletecalendar.label          "தெரிவு செய்யப்பட்ட நாட்காட்டியை நீக்குக…">
+<!ENTITY calendar.deletecalendar.accesskey      "D"> 
 
 <!ENTITY calendar.publish.label                 "வெளியிடுக…">
 <!ENTITY calendar.publish.accesskey             "b">

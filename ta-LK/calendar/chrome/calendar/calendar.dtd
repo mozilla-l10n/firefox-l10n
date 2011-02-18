@@ -100,12 +100,12 @@
 <!ENTITY calendar.nextmonth.button.tooltip      "அடுத்த மாதம்" >
 <!ENTITY calendar.prevmonth.button.tooltip      "முந்திய மாதம்" >
 
-<!ENTITY calendar.navigation.nextday.tooltip    "One Day Forward" >
-<!ENTITY calendar.navigation.prevday.tooltip    "One Day Back" >
-<!ENTITY calendar.navigation.nextweek.tooltip   "One Week Forward" >
-<!ENTITY calendar.navigation.prevweek.tooltip   "One Week Back" >
-<!ENTITY calendar.navigation.nextmonth.tooltip  "One Month Forward" >
-<!ENTITY calendar.navigation.prevmonth.tooltip  "One Month Back" >
+<!ENTITY calendar.navigation.nextday.tooltip    "ஒரு நாள் முன்னே" >
+<!ENTITY calendar.navigation.prevday.tooltip    "ஒரு நாள் பின்னே" >
+<!ENTITY calendar.navigation.nextweek.tooltip   "ஒரு வாரம் முன்னே" >
+<!ENTITY calendar.navigation.prevweek.tooltip   "ஒரு வாரம் பின்னே" >
+<!ENTITY calendar.navigation.nextmonth.tooltip  "ஒரு மாதம் முன்னே" >
+<!ENTITY calendar.navigation.prevmonth.tooltip  "ஒரு மாதம் பின்னே" >
 
 <!ENTITY calendar.newevent.button.label         "புதிய நிகழ்ச்சி" >
 <!ENTITY calendar.newtask.button.label          "புதிய பணி" >
@@ -305,7 +305,7 @@
 <!ENTITY calendarproperties.cache.label    "இடைநினைவகம் (EXPERIMENTAL, requires restart)">
 <!ENTITY calendarproperties.enabled.label "Switch this calendar on">
 <!ENTITY calendarproperties.forceDisabled.label            "The provider for this calendar could not be found. This often happens if you have disabled or uninstalled certain addons.">
-<!ENTITY calendarproperties.unsubscribe.label              "Unsubscribe">
+<!ENTITY calendarproperties.unsubscribe.label              "அங்கத்துவத்திலிருந்து விலக்குக">
 <!ENTITY calendarproperties.unsubscribe.accesskey          "U">
 
 
