@@ -9,7 +9,6 @@
 <!-- LOCALIZATION NOTE (abouthome.brandStart):
      brandShortName must be in a <span/>
 -->
-<!ENTITY abouthome.brandStart "Iniciar o <span>&brandShortName;</span>">
 
 <!ENTITY abouthome.searchEngineButton.label "Pesquisar">
 
