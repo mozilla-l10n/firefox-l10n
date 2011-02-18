@@ -42,6 +42,6 @@
 <!ENTITY tabs.context.bookmarkSingleTab.label         "Įtraukti kortelę į adresyną…">
 <!ENTITY tabs.context.bookmarkSingleTab.accesskey     "t">
 <!ENTITY tabs.context.bookmarkMultipleTabs.label      "Įtraukti pažymėtas korteles į adresyną…">
-<!ENTITY tabs.context.bookmarkMultipleTabs.accesskey  "ž">
+<!ENTITY tabs.context.bookmarkMultipleTabs.accesskey  "r">
 <!ENTITY tabs.context.refreshList.label               "Atnaujinti sąrašą">
 <!ENTITY tabs.context.refreshList.accesskey           "n">
