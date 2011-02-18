@@ -15,11 +15,11 @@
 <!ENTITY dnsNotFound.title "Servilo ne trovita">
 <!ENTITY dnsNotFound.longDesc "<ul> 
 <li>Kontrolu ĉu estas eraroj en la adreso, kiel 
-<strong>ww</strong>.example.com anstataŭ<strong>www</strong>.example.com</li> 
-<li>Se vi ne sukcesas vi iun ajn paĝon, 
-kontrolu la retan konekton de via komputilo.</li> <li>Se via komputilo aŭ reto estas protektata de retbarilo aŭ 
-retperanto, certiĝu ke 
-&brandShortName; rajtas aliri la TTT.</li> </ul>">
+<strong>ww</strong>.example.com anstataŭ <strong>www</strong>.example.com</li>
+<li>Se vi ne sukcesas vidi iun ajn paĝon,
+kontrolu la retan konekton de via komputilo.</li>
+<li>Se via komputilo aŭ reto estas protektata de retbarilo aŭ retperanto,
+certiĝu ke &brandShortName; rajtas aliri la TTTn.</li> </ul>">
 
 <!ENTITY fileNotFound.title "Dosiero ne trovita">
 <!ENTITY fileNotFound.longDesc "<ul> 
