@@ -94,10 +94,8 @@
 
 <!ENTITY certmgr.certname                     "نام گواهی">
 <!ENTITY certmgr.certserver                   "کارگزار">
-<!ENTITY certmgr.typesofoverrides             "استثناها">
 <!ENTITY certmgr.override_lifetime            "مدت زمان">
 <!ENTITY certmgr.tokenname                    "دستگاه امنیتی">
-<!ENTITY certmgr.purpose                      "مورد استفاده">
 <!ENTITY certmgr.issued                       "تاریخ صدور">
 <!ENTITY certmgr.expires                      "تاریخ انقضا">
 <!ENTITY certmgr.email                        "نشانی پست الکترونیکی">
@@ -107,8 +105,8 @@
 <!ENTITY certmgr.close.accesskey              "س">
 <!ENTITY certmgr.view2.label                  "مشاهده…">
 <!ENTITY certmgr.view2.accesskey              "م">
-<!ENTITY certmgr.edit2.label                  "ویرایش…">
-<!ENTITY certmgr.edit2.accesskey              "و">
+<!ENTITY certmgr.edit3.label "ویرایش اعتماد…">
+<!ENTITY certmgr.edit3.accesskey "و">
 <!ENTITY certmgr.editca.label                 "ویرایش اعتماد به CA">
 <!ENTITY certmgr.editca.accesskey             "ع">
 <!ENTITY certmgr.add.label                    "افزودن">
@@ -117,6 +115,8 @@
 <!ENTITY certmgr.export.accesskey             "ص">
 <!ENTITY certmgr.delete2.label                "حذف…">
 <!ENTITY certmgr.delete2.accesskey            "ح">
+<!ENTITY certmgr.delete_builtin.label "حذف یا عدم اعتماد…">
+<!ENTITY certmgr.delete_builtin.accesskey "ح">
 <!ENTITY certmgr.backup2.label                "پشتیبان‌گیری…">
 <!ENTITY certmgr.backup2.accesskey            "پ">
 <!ENTITY certmgr.backupall2.label             "پشتیبان‌گیری از همه…">
@@ -133,8 +133,8 @@
 <!ENTITY certmgr.addException.accesskey       "ا">
 
 <!ENTITY exceptionMgr.title                   "افزودن استثناء امنیتی">
-<!ENTITY exceptionMgr.exceptionButton         "تأیید استثناء امنیتی">
-<!ENTITY exceptionMgr.exceptionButtonAccess   "ت">
+<!ENTITY exceptionMgr.exceptionButton.label "تأیید استثناء امنیتی">
+<!ENTITY exceptionMgr.exceptionButton.accesskey "ت">
 <!ENTITY exceptionMgr.supplementalWarning     "بانک‌ها و فروشگاه‌های قانونی و بسیاری از پایگاه‌های عمومی این کار را از شما نخواهند خواست.">
 <!ENTITY exceptionMgr.certlocation.caption2   "کارگزار">
 <!ENTITY exceptionMgr.certlocation.url        "مکان:">
