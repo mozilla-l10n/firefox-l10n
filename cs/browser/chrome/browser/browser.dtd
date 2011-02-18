@@ -378,11 +378,11 @@ can reach it easily. -->
 <!ENTITY sendLinkCmd.label "Odeslat odkaz…">
 <!ENTITY sendLinkCmd.accesskey "d">
 <!ENTITY saveImageCmd.label "Uložit obrázek jako…">
-<!ENTITY saveImageCmd.accesskey "U">
+<!ENTITY saveImageCmd.accesskey "l">
 <!ENTITY saveVideoCmd.label "Uložit video jako…">
-<!ENTITY saveVideoCmd.accesskey "U">
+<!ENTITY saveVideoCmd.accesskey "l">
 <!ENTITY saveAudioCmd.label "Uložit audio jako……">
-<!ENTITY saveAudioCmd.accesskey "U">
+<!ENTITY saveAudioCmd.accesskey "l">
 <!ENTITY sendImageCmd.label "Odeslat obrázek…">
 <!ENTITY sendImageCmd.accesskey "e">
 <!ENTITY sendVideoCmd.label "Odeslat video…">

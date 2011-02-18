@@ -54,12 +54,12 @@
 <!-- New Account Page 3: Captcha -->
 <!ENTITY setup.captchaPage2.title.label "Potvrďte prosím, že nejste robot">
 <!-- Existing Account Page 1: Add Device (incl. Add a Device dialog strings) -->
-<!ENTITY addDevice.title.label "Přidat zařízení">
+<!ENTITY addDevice.title.label "Přidání zařízení">
 <!ENTITY addDevice.showMeHow.label "Zobrazit nápovědu.">
 <!ENTITY addDevice.dontHaveDevice.label "Nemám zařízení u sebe">
 <!ENTITY addDevice.setup.description.label "Pro aktivaci přejděte do dialogu možností &syncBrand.shortName.label; na připojeném zařízení a zvolte „Přidat zařízení“.">
 <!ENTITY addDevice.setup.enterCode.label "A tam pak vložte tento kód:">
-<!ENTITY addDevice.dialog.description.label "Pro aktivaci přejděte do dialogu možností &syncBrand.shortName.label; na připojovaném zařízení a zvolte „Připojit“">
+<!ENTITY addDevice.dialog.description.label "Pro aktivaci přejděte do dialogu možností &syncBrand.shortName.label; na připojovaném zařízení a zvolte „Připojit“.">
 <!ENTITY addDevice.dialog.enterCode.label "Zde pak vložte kód, který obdržíte:">
 <!ENTITY addDevice.dialog.tryAgain.label "Prosím zkuste to znovu.">
 <!ENTITY addDevice.dialog.successful.label "Zařízení bylo úspěšně přidáno. Počáteční synchronizace může trvat několik minut a bude probíhat na pozadí.">
