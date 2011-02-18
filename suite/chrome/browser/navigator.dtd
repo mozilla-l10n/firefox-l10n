@@ -205,3 +205,6 @@
 
 <!ENTITY bidiSwitchPageDirectionItem.label        "Pakeisti puslapio kryptį">
 <!ENTITY bidiSwitchPageDirectionItem.accesskey    "P">
+
+<!-- LOCALIZATION NOTE (syncTabsMenu.label): This appears in the Go menu -->
+<!ENTITY syncTabsMenu.label         "Kortelės iš kitų kompiuterių">

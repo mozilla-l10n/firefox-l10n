@@ -54,6 +54,7 @@
 <!ENTITY ssl.label                   "SSL">
 <!ENTITY certs.label                 "Liudijimai">
 <!ENTITY validation.label            "Patikra">
+<!ENTITY sync.label                  "Sinchronizavimas">
 <!ENTITY advance.label               "Kitkas">
 <!ENTITY down.label                  "Atsiuntimas">
 <!ENTITY cache.label                 "Podėlis">
@@ -62,6 +63,7 @@
 <!ENTITY smart.label                 "Programų diegimas">
 <!ENTITY download.label              "Atsiuntimai">
 <!ENTITY keynav.label                "Klaviatūra">
+<!ENTITY findAsYouType.label         "Paieška renkant tekstą">
 <!ENTITY search.label                "Paieška internete">
 <!ENTITY policies.label              "Saugumo taisyklės">
 <!ENTITY mousewheel.label            "Pelės ratukas">

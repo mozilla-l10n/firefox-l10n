@@ -147,3 +147,5 @@
 <!ENTITY showPopupManager.accesskey                 "v">
 <!ENTITY dontShowMessage.label                      "Užblokavus iškylančiuosius langus nerodyti šio pranešimo">
 <!ENTITY dontShowMessage.accesskey                  "n">
+
+<!ENTITY syncToolbarButton.label                    "Sinchronizuoti">
