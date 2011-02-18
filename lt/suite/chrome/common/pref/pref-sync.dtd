@@ -1,0 +1,48 @@
+<!-- The page shown when not logged in... -->
+<!ENTITY setupButton.label          "Konfigūruoti „&syncBrand.fullName.label;“">
+<!ENTITY setupButton.accesskey      "K">
+<!ENTITY weaveDesc.label            "„&syncBrand.fullName.label;“ padeda sinchronizuoti naršymo žurnalą, adresyną, įrašytus slaptažodžius ir atvertas korteles skirtinguose įrenginiuose.">
+
+<!-- The page shown when logged in... -->
+<!ENTITY accountGroupboxCaption.label "„&syncBrand.fullName.label;“ paskyra">
+<!ENTITY currentAccount.label         "Naudojama paskyra:">
+
+<!-- Login error feedback -->
+<!ENTITY updatePass.label             "Atnaujinti">
+<!ENTITY updatePass.accesskey         "n">
+<!ENTITY resetPass.label              "Perkurti">
+<!ENTITY resetPass.accesskey          "P">
+
+<!-- Manage Account -->
+<!ENTITY manageAccount.label          "Paskyros tvarkymas">
+<!ENTITY viewQuota.label              "Kvota">
+<!ENTITY viewQuota.accesskey          "K">
+<!ENTITY changePassword.label         "Keisti slaptažodį">
+<!ENTITY changePassword.accesskey     "e">
+<!ENTITY mySyncKey.label              "Mano sinchronizavimo raktas">
+<!ENTITY mySyncKey.accesskey          "r">
+<!ENTITY resetSync.label              "Šviežiai sinchronizuoti duomenis">
+<!ENTITY resetSync.accesskey          "Š">
+<!ENTITY stopUsingAccount.label       "Nebenaudoti šios paskyros">
+<!ENTITY stopUsingAccount.accesskey   "b">
+
+<!-- Sync Settings -->
+<!ENTITY syncPrefsCaption.label       "Naršyklės duomenų sinchronizavimas">
+<!ENTITY syncComputerName.label       "Kompiuterio vardas:">
+<!ENTITY syncComputerName.accesskey   "v">
+
+<!ENTITY syncMy.label               "Sinchronizuoti:">
+<!ENTITY engine.bookmarks.label     "adresyną">
+<!ENTITY engine.bookmarks.accesskey "a">
+<!ENTITY engine.tabs.label          "korteles">
+<!ENTITY engine.tabs.accesskey      "o">
+<!ENTITY engine.history.label       "žurnalą">
+<!ENTITY engine.history.accesskey   "ž">
+<!ENTITY engine.passwords.label     "slaptažodžius">
+<!ENTITY engine.passwords.accesskey "s">
+<!ENTITY engine.prefs.label         "nuostatas">
+<!ENTITY engine.prefs.accesskey     "n">
+
+<!-- Footer stuff -->
+<!ENTITY prefs.tosLink.label        "Paslaugos teikimo nuostatai">
+<!ENTITY prefs.ppLink.label         "Privatumo nuostatai">

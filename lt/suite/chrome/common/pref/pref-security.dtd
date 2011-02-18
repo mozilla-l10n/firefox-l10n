@@ -40,6 +40,11 @@
 
 <!--LOCALIZATION NOTE : FILE 'Privacy and Security' prefs settings -->
 <!ENTITY pref.security.title              "Privatumas ir saugumas">
+
+<!ENTITY tracking.label                   "Lankytojo sekimas">
+<!ENTITY doNotTrack.label                 "Informuoti svetaines, jog nenorite, kad jos Jus sektų">
+<!ENTITY doNotTrack.accesskey             "n">
+
 <!ENTITY privateData.label                "Privatieji duomenys">
 
 <!ENTITY alwaysClear.label                "Baigiant darbą su „&brandShortName;“ pašalinti įrašytus privačius duomenis">
