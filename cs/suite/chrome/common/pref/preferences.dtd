@@ -25,7 +25,7 @@
 <!ENTITY sync.label "Sync">
 <!ENTITY advance.label "Rozšířené nastavení">
 <!ENTITY down.label "Ukládání">
-<!ENTITY cache.label "Vyrovnávací paměť">
+<!ENTITY cache.label "Mezipaměť">
 <!ENTITY proxies.label "Proxy servery">
 <!ENTITY httpnetworking.label "HTTP spojení">
 <!ENTITY smart.label "Instalace software">

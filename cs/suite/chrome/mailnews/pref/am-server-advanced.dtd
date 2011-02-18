@@ -7,7 +7,7 @@
 <!ENTITY dualUseFolders.accesskey "l">
 <!ENTITY useIdle.label "Použít příkaz IDLE pokud jej server podporuje">
 <!ENTITY useIdle.accesskey "I">
-<!ENTITY maximumConnectionsNumber.label "Maximální počet spojení serveru k vyrovnávací paměti">
+<!ENTITY maximumConnectionsNumber.label "Maximální počet spojení serveru do mezipaměti">
 <!ENTITY maximumConnectionsNumber.accesskey "M">
 <!-- LOCALIZATION NOTE (namespaceDesc.label): DONT_TRANSLATE "IMAP" -->
 <!ENTITY namespaceDesc.label "Tato nastavení specifikují jmenný prostor na vašem IMAP serveru">

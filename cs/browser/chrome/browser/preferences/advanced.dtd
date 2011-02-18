@@ -48,12 +48,12 @@
 
   &limitCacheSizeBefore.label [textbox for cache size in MB] &limitCacheSizeAfter.label;
 -->
-<!ENTITY limitCacheSizeBefore.label "Omezit vyrovnávací paměť na">
+<!ENTITY limitCacheSizeBefore.label "Omezit mezipaměť na">
 <!ENTITY limitCacheSizeBefore.accesskey "O">
 <!ENTITY limitCacheSizeAfter.label "MB místa na disku">
 <!ENTITY clearCacheNow.label "Vymazat">
 <!ENTITY clearCacheNow.accesskey "m">
-<!ENTITY overrideSmartCacheSize.label "Nepoužít automatickou správu vyrovnávací paměti">
+<!ENTITY overrideSmartCacheSize.label "Nepoužít automatickou správu mezipaměti">
 <!ENTITY overrideSmartCacheSize.accesskey "N">
 
 <!ENTITY updateTab.label "Aktualizace">
