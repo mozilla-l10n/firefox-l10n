@@ -151,8 +151,8 @@
 <p>Disse typer webforfalskninger bruges i svindelsager kendt som phishing-angreb, hvor falske websteder og emails bruges til at imitere kilder du normalt stoler på.</p>
 ">
 
-<!ENTITY cspFrameAncestorBlocked.title "Blokeret grundet indholdssikkerhedshedspolitik">
-<!ENTITY cspFrameAncestorBlocked.longDesc "<p>&brandShortName; forhindrede denne side i at blive indlæst på denne måde da den har en indholdssikkerhedspolitik der forbyder dette.</p>">
+<!ENTITY cspFrameAncestorBlocked.title "Blokeret grundet Content Security Policy">
+<!ENTITY cspFrameAncestorBlocked.longDesc "<p>&brandShortName; forhindrede denne side i at blive indlæst på denne måde da den har en Content Security Policy der forbyder dette.</p>">
 
 <!ENTITY securityOverride.linkText "Eller du kan tilføje en undtagelse…">
 <!ENTITY securityOverride.getMeOutOfHereButton "Få mig væk herfra!">

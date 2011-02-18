@@ -103,7 +103,7 @@ can reach it easily. -->
 <!ENTITY subscribeToPageMenupopup.label "Abonner på denne side">
 <!ENTITY subscribeToPageMenuitem.label "Abonner på denne side…">
 <!ENTITY addCurPagesCmd.label "Bogmærk alle faneblade…">
-<!ENTITY showAllBookmarks2.label "Vis alle bogmærker">
+<!ENTITY showAllBookmarks2.label "Organiser bogmærker">
 <!ENTITY bookmarkAllCmd.label "Bogmærk alle faneblade…">
 <!ENTITY bookmarksToolbarChevron.tooltip "Vis flere bogmærker">
 
@@ -272,7 +272,7 @@ can reach it easily. -->
 <!ENTITY historyUndoWindowMenu.label "Nyligt lukkede vinduer">
 <!ENTITY historyRestoreLastSession.label "Genskab forrige session">
 
-<!ENTITY historyHomeCmd.label "Home">
+<!ENTITY historyHomeCmd.label "Hjem">
 <!ENTITY showAllHistoryCmd2.label "Vis historik">
 <!ENTITY showAllHistoryCmd.commandkey "V">
 
@@ -355,7 +355,7 @@ can reach it easily. -->
 <!ENTITY viewBGImageCmd.label         "Vis baggrundsbillede">
 <!ENTITY viewBGImageCmd.accesskey     "V">
 <!ENTITY setDesktopBackgroundCmd.label      "Brug som skrivebordsbaggrund…">
-<!ENTITY setDesktopBackgroundCmd.accesskey  "r">
+<!ENTITY setDesktopBackgroundCmd.accesskey  "B">
 <!ENTITY bookmarkPageCmd2.label       "Bogmærk denne side">
 <!ENTITY bookmarkPageCmd2.accesskey   "B">
 <!ENTITY bookmarkThisLinkCmd.label      "Bogmærk dette link">
@@ -370,37 +370,37 @@ can reach it easily. -->
 <!ENTITY savePageCmd.accesskey2       "m">
 <!ENTITY savePageCmd.commandkey       "s">
 <!ENTITY saveFrameCmd.label           "Gem ramme som…">
-<!ENTITY saveFrameCmd.accesskey       "m">
+<!ENTITY saveFrameCmd.accesskey       "G">
 <!ENTITY printFrameCmd.label          "Udskriv ramme…">
 <!ENTITY printFrameCmd.accesskey      "U">
 <!ENTITY saveLinkCmd.label            "Gem link som…">
-<!ENTITY saveLinkCmd.accesskey        "m">
+<!ENTITY saveLinkCmd.accesskey        "G">
 <!ENTITY sendLinkCmd.label            "Send link…"> 
 <!ENTITY sendLinkCmd.accesskey        "S">
 <!ENTITY saveImageCmd.label           "Gem billede som…">
-<!ENTITY saveImageCmd.accesskey       "m">
+<!ENTITY saveImageCmd.accesskey       "G">
 <!ENTITY saveVideoCmd.label           "Gem video som…">
-<!ENTITY saveVideoCmd.accesskey       "m">
+<!ENTITY saveVideoCmd.accesskey       "G">
 <!ENTITY saveAudioCmd.label           "Gem lyd som…">
-<!ENTITY saveAudioCmd.accesskey       "m">
+<!ENTITY saveAudioCmd.accesskey       "G">
 <!ENTITY sendImageCmd.label           "Send billede…">
 <!ENTITY sendImageCmd.accesskey       "S">
 <!ENTITY sendVideoCmd.label           "Send video…">
 <!ENTITY sendVideoCmd.accesskey       "S">
 <!ENTITY sendAudioCmd.label           "Send lyd…">
 <!ENTITY sendAudioCmd.accesskey       "S">
-<!ENTITY copyLinkCmd.label            "Kopier linkadresse">
+<!ENTITY copyLinkCmd.label            "Kopier webadresse">
 <!ENTITY copyLinkCmd.accesskey        "K">
 <!ENTITY copyImageCmd.label           "Kopier billedadresse">
-<!ENTITY copyImageCmd.accesskey       "a">
+<!ENTITY copyImageCmd.accesskey       "K">
 <!ENTITY copyImageContentsCmd.label   "Kopier billede">
-<!ENTITY copyImageContentsCmd.accesskey  "b">
+<!ENTITY copyImageContentsCmd.accesskey  "o">
 <!ENTITY copyVideoURLCmd.label        "Kopier videoadresse">
-<!ENTITY copyVideoURLCmd.accesskey    "a">
+<!ENTITY copyVideoURLCmd.accesskey    "K">
 <!ENTITY copyAudioURLCmd.label        "Kopier lydadresse">
-<!ENTITY copyAudioURLCmd.accesskey    "a"> 
+<!ENTITY copyAudioURLCmd.accesskey    "K"> 
 <!ENTITY copyEmailCmd.label           "Kopier mailadresse">
-<!ENTITY copyEmailCmd.accesskey       "a">
+<!ENTITY copyEmailCmd.accesskey       "K">
 <!ENTITY thisFrameMenu.label              "Denne ramme">
 <!ENTITY thisFrameMenu.accesskey          "r">
 

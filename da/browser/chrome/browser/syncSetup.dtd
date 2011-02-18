@@ -4,7 +4,7 @@
 
 <!ENTITY setup.pickSetupType.description "Velkommen. Hvis du aldrig har brugt &syncBrand.fullName.label; før så skal du oprette en ny konto.">
 <!ENTITY button.createNewAccount.label "Opret en ny konto">
-<!ENTITY setup.haveAccount.label "Jeg har allerede en &syncBrand.fullName.label; konto">
+<!ENTITY setup.haveAccount.label "Jeg har allerede en &syncBrand.fullName.label;-konto">
 <!ENTITY button.connect.label    "Tilslut">
 
 <!ENTITY setup.choicePage.title.label     "Har du brugt &syncBrand.fullName.label; før?">
@@ -57,13 +57,13 @@
 <!ENTITY addDevice.title.label              "Tilføj enhed">
 <!ENTITY addDevice.showMeHow.label          "Vis mig hvordan.">
 <!ENTITY addDevice.dontHaveDevice.label     "Jeg har ikke enheden med mig">
-<!ENTITY addDevice.setup.description.label  "For at aktivere, gå til &syncBrand.shortName.label; Indstillinger på din anden enhed og vælg &#x0022;Tilføj enhed&#x0022;.">
+<!ENTITY addDevice.setup.description.label  "For at aktivere, gå til Indstillinger for &syncBrand.shortName.label; på din anden enhed og vælg &#x0022;Tilføj enhed&#x0022;.">
 <!ENTITY addDevice.setup.enterCode.label    "og derefter indtaste denne kode:">
-<!ENTITY addDevice.dialog.description.label "For at aktivere din nye enhed, gå til &syncBrand.shortName.label; Indstillinger på enheden og vælg &#x0022;Tilslut.&#x0022;">
+<!ENTITY addDevice.dialog.description.label "For at aktivere din nye enhed, gå til Indstillinger for &syncBrand.shortName.label; på enheden og vælg &#x0022;Tilslut.&#x0022;">
 <!ENTITY addDevice.dialog.enterCode.label   "Indtast koden som enheden leverer:">
 <!ENTITY addDevice.dialog.tryAgain.label    "Prøv venligst igen.">
 <!ENTITY addDevice.dialog.successful.label  "Enheden er blevet tilføjet. Den indledende synkronisering kan tage op til flere minutter og vil færdiggøres i baggrunden.">
-<!ENTITY addDevice.dialog.syncKey.label     "For at aktivere din enhed bliver du nødt til at indtaste din Sync-nøgle. Udskriv eller gem venligst denne nøgle og tag den med dig.">
+<!ENTITY addDevice.dialog.syncKey.label     "For at aktivere din enhed bliver skal du indtaste din Sync-nøgle. Udskriv eller gem venligst denne nøgle og tag den med dig.">
 <!ENTITY addDevice.dialog.connected.label   "Enhed tilsluttet">
 
 <!-- Existing Account Page 2: Manual Login -->
@@ -98,8 +98,8 @@
 <!-- Confirm Merge Options -->
 <!ENTITY setup.optionsConfirmPage.title "Bekræft">
 <!ENTITY confirm.merge.label    "&syncBrand.fullName.label; vil nu sammenflette denne computers browserdata ind i din Sync-konto.">
-<!ENTITY confirm.client2.label         "Advarsel: Følgende &brandShortName; data på denne computer vil blive slettet:">
-<!ENTITY confirm.client.moreinfo.label "&brandShortName; vil derefter kopiere dine &syncBrand.fullName.label; data til denne computer.">
+<!ENTITY confirm.client2.label         "Advarsel: Følgende &brandShortName;-data på denne computer vil blive slettet:">
+<!ENTITY confirm.client.moreinfo.label "&brandShortName; vil derefter kopiere dine &syncBrand.fullName.label;-data til denne computer.">
 <!ENTITY confirm.server2.label         "Advarsel: Følgende enheder vil blive overskrevet med dine lokale data:">
 
 <!-- New & Existing Account: Setup Complete -->
