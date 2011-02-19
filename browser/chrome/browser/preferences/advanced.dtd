@@ -22,7 +22,7 @@
 <!ENTITY checkSpelling.label             "Kontroller staving mens jeg skriver">
 <!ENTITY checkSpelling.accesskey         "K">
 <!ENTITY doNotTrack.label                "Fortell nettsteder at jeg ikke ønsker å spores">
-<!ENTITY doNotTrack.accesskey            "d">
+<!ENTITY doNotTrack.accesskey            "F">
 
 <!ENTITY systemDefaults.label            "Systemforvalg">
 <!ENTITY alwaysCheckDefault.label        "Alltid kontroller om &brandShortName; er standard nettleser ved oppstart"><!--XXX-->
@@ -38,7 +38,7 @@
 
 <!ENTITY connectionDesc.label            "Konfigurer hvordan &brandShortName; kobler til Internett">
 <!ENTITY connectionSettings.label        "Innstillinger …">
-<!ENTITY connectionSettings.accesskey    "n">
+<!ENTITY connectionSettings.accesskey    "I">
 
 <!ENTITY offlineStorage.label            "Frakoblet lager">
 
@@ -76,7 +76,7 @@
 <!ENTITY updateHistory.accesskey         "V">
 
 <!ENTITY offlineNotify.label             "Fortell meg når et nettsted ber om å lagre data for frakoblet bruk">
-<!ENTITY offlineNotify.accesskey         "o">
+<!ENTITY offlineNotify.accesskey         "F">
 <!ENTITY offlineNotifyExceptions.label   "Unntak …">
 <!ENTITY offlineNotifyExceptions.accesskey "U">
 

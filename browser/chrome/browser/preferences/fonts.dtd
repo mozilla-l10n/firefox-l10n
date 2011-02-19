@@ -4,7 +4,7 @@
 <!ENTITY  window.unixWidth                        "41em">
 
 <!ENTITY  language.label                          "Skrifttyper for:">
-<!ENTITY  language.accesskey                      "p">
+<!ENTITY  language.accesskey                      "k">
 
 <!ENTITY  size.label                              "Størrelse:">
 <!ENTITY  sizeProportional.accesskey              "r">
