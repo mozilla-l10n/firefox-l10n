@@ -8,3 +8,7 @@
 <!ENTITY aboutHome.openAllTabs                  "Ava kõik kaartidel">
 <!ENTITY aboutHome.noTabs                       "Kaarte eelmisest korrast pole">
 <!ENTITY aboutHome.noAddons                     "Lisade soovitusi pole">
+
+<!-- LOCALIZATION NOTE: 'Firefox Spark' is the official name of the promotion and should not be translated -->
+<!ENTITY aboutHome.promoLabel                   "Firefox Spark">
+<!ENTITY aboutHome.promoButton                  "Esita">
