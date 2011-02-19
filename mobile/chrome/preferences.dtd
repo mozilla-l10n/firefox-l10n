@@ -19,3 +19,4 @@
 <!ENTITY homepage.none                             "Pàgina en blanc">
 <!ENTITY homepage.default                          "Inici del &brandShortName;">
 <!ENTITY homepage.currentpage                      "Utilitza la pàgina actual">
+<!ENTITY showCharset.title                         "Mostra la codificació de caràcters">

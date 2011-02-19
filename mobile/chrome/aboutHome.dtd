@@ -10,4 +10,5 @@
 <!ENTITY aboutHome.noTabs                       "Cap pestanya des de la darrera vegada">
 <!ENTITY aboutHome.noAddons                     "No hi ha cap complement recomanat">
 <!-- LOCALIZATION NOTE: 'Firefox Spark' is the official name of the promotion and should not be translated -->
-<!ENTITY aboutHome.promoSpark                   "Reprodueix el Firefox Spark">
+<!ENTITY aboutHome.promoLabel                   "Firefox Spark">
+<!ENTITY aboutHome.promoButton                  "Reprodueix">
