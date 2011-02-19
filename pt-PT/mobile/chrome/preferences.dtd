@@ -19,3 +19,4 @@
 <!ENTITY homepage.none                             "Branco">
 <!ENTITY homepage.default                          "Início do &brandShortName;">
 <!ENTITY homepage.currentpage                      "Usar página actual">
+<!ENTITY showCharset.title                         "Mostrar Codificação de Caracteres">
