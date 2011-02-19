@@ -19,3 +19,4 @@
 <!ENTITY homepage.none                             "Duilleag bhàn">
 <!ENTITY homepage.default                          "Toisich &brandShortName;">
 <!ENTITY homepage.currentpage                      "Cleachd an duilleag làithreach">
+<!ENTITY showCharset.title                         "Seall còdachadh charactairean">
