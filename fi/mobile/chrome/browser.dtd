@@ -26,6 +26,7 @@
 <!ENTITY historyHeader.label       "Sivuhistoria">
 <!ENTITY desktopHeader.label       "Työpöytä">
 
+<!ENTITY editBookmarkDialog.title  "Muokkaa kirjanmerkkiä">
 <!ENTITY editBookmarkDone.label    "Valmis">
 <!ENTITY editBookmarkTags.label    "Lisää avainsanoja">
 
@@ -108,7 +109,6 @@
 <!ENTITY pageactions.reset           "Unohda sivun asetukset">
 <!ENTITY pageactions.findInPage      "Etsi sivulta">
 <!ENTITY pageactions.search.addNew   "Lisää hakukone">
-
-<!ENTITY selectHelper.emptytext      "Suodata osumia">
+<!ENTITY pageactions.charEncoding    "Merkistökoodaus">
 
 <!ENTITY appMenu.siteOptions         "Sivuston valinnat">

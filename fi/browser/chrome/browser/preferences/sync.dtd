@@ -1,7 +1,7 @@
 <!-- The page shown when not logged in... -->
-<!ENTITY setupButton.label          "Aseta &syncBrand.fullName.label;in asetukset">
-<!ENTITY setupButton.accesskey      "A">
-<!ENTITY weaveDesc.label            "&syncBrand.fullName.label;in avulla sivuhistoriasi, kirjanmerkkisi, salasanasi ja avoimet välilehtesi ovat saatavilla kaikissa laitteissasi.">
+<!ENTITY setupButton.label          "Määritä &syncBrand.fullName.label; -palvelun asetukset">
+<!ENTITY setupButton.accesskey      "M">
+<!ENTITY weaveDesc.label            "&syncBrand.fullName.label; -palvelun avulla sivuhistoriasi, kirjanmerkkisi, salasanasi ja avoimet välilehtesi ovat saatavilla kaikissa laitteissasi.">
 
 <!-- The page shown when logged in... -->
 

@@ -1,0 +1,14 @@
+<!ENTITY aboutSupport.appBasicsAppBuildID "Ohjelman koostamistunnus">
+
+<!ENTITY aboutSupport.accountsTitle "Sähköposti- ja keskusteluryhmätilit">
+<!ENTITY aboutSupport.showPrivateData.mainText "Sisällytä tilien nimit">
+<!ENTITY aboutSupport.showPrivateData.explanationText "(mahdollisesti henkilön tunnistavia tietoja)">
+<!ENTITY aboutSupport.accountsID "ID">
+<!ENTITY aboutSupport.accountsName "Nimi">
+<!ENTITY aboutSupport.accountsIncomingServer "Saapuvan postin palvelin">
+<!ENTITY aboutSupport.accountsOutgoingServers "Lähtevän postin palvelimet">
+<!ENTITY aboutSupport.accountsConnSecurity "Yhteyden suojaus">
+<!ENTITY aboutSupport.accountsAuthMethod "Todennustapa">
+<!ENTITY aboutSupport.accountsDefault "Oletus?">
+
+<!ENTITY aboutSupport.sendViaEmail.label "Lähetä sähköpostilla">

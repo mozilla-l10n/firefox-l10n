@@ -5,7 +5,7 @@
 <!ENTITY accessibility.label             "Esteettömyystoiminnot">
 
 <!ENTITY useCursorNavigation.label       "Liiku sivuilla nuolinäppäimillä">
-<!ENTITY useCursorNavigation.accesskey   "L">
+<!ENTITY useCursorNavigation.accesskey   "s">
 <!ENTITY searchStartTyping.label         "Ala etsiä tekstistä heti kirjoitettaessa">
 <!ENTITY searchStartTyping.accesskey     "A">
 <!ENTITY blockAutoRefresh.label          "Varoita, kun sivustot yrittävät päivittää sivua tai uudelleenohjata toiselle sivulle">
@@ -16,11 +16,11 @@
 <!ENTITY useAutoScroll.label             "Vieritä sivua automaattisesti">
 <!ENTITY useAutoScroll.accesskey         "V">
 <!ENTITY useSmoothScrolling.label        "Vieritä sivua portaattomasti">
-<!ENTITY useSmoothScrolling.accesskey    "i">
+<!ENTITY useSmoothScrolling.accesskey    "e">
 <!ENTITY allowHWAccel.label              "Käytä laitteistokiihdytystä jos mahdollista">
 <!ENTITY allowHWAccel.accesskey          "K">
 <!ENTITY checkSpelling.label             "Oikolue käyttäjän kirjoitukset">
-<!ENTITY checkSpelling.accesskey         "O">
+<!ENTITY checkSpelling.accesskey         "l">
 <!ENTITY doNotTrack.label                "Ilmoita sivustoille, etten halua niiden seuraavan minua">
 <!ENTITY doNotTrack.accesskey            "I">
 
@@ -30,7 +30,7 @@
 <!ENTITY checkNow.label                  "Tarkista heti">
 <!ENTITY checkNow.accesskey              "T">
 <!ENTITY submitCrashes.label             "Lähetä kaatumisilmoitus">
-<!ENTITY submitCrashes.accesskey         "L">
+<!ENTITY submitCrashes.accesskey         "ä">
 
 <!ENTITY networkTab.label                "Verkko">
 
@@ -54,7 +54,7 @@
 <!ENTITY clearCacheNow.label             "Tyhjennä heti">
 <!ENTITY clearCacheNow.accesskey         "T">
 <!ENTITY overrideSmartCacheSize.label    "Ohita automaattinen väliaikatiedostojen hallinta">
-<!ENTITY overrideSmartCacheSize.accesskey "O">
+<!ENTITY overrideSmartCacheSize.accesskey "h">
 
 <!ENTITY updateTab.label                 "Päivitys">
 

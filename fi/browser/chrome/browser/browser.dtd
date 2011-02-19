@@ -541,12 +541,13 @@ just addresses the organization to follow, e.g. "This site is run by " -->
 <!-- LOCALIZATION NOTE (syncTabsMenu.label): This appears in the history menu -->
 <!ENTITY syncTabsMenu.label     "Välilehdet muissa laitteissa">
 
-<!ENTITY syncBrand.shortName.label    "Sync">
+<!ENTITY syncBrand.shortName.label    "Sync-palvelu">
 
-<!ENTITY syncSetup.label              "Määritä &syncBrand.shortName.label;in asetukset…">
+<!ENTITY syncSetup.label              "Määritä &syncBrand.shortName.label;-palvelun asetukset…">
 <!ENTITY syncSetup.accesskey          "M">
 <!ENTITY syncSyncNowItem.label        "Synkronoi">
 <!ENTITY syncSyncNowItem.accesskey    "S">
 <!ENTITY syncToolbarButton.label      "Synkronoi">
 
 <!ENTITY addonBarCloseButton.tooltip  "Piilota lisäosapalkki">
+<!ENTITY toggleAddonBarCmd.key        "/">

@@ -29,3 +29,5 @@
 <!ENTITY testpilot.feedbackbutton.label                "Palaute">
 <!ENTITY testpilot.happy.label        "Firefox teki minut iloiseksi…">
 <!ENTITY testpilot.sad.label          "Firefox teki minut surulliseksi…">
+<!ENTITY testpilot.broken.label      "Ilmoita rikkinäinen verkkosivusto…">
+<!ENTITY testpilot.idea.label        "Anna parannusehdotus…">
