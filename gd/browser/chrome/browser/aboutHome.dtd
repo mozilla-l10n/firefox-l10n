@@ -6,10 +6,6 @@
 
 <!ENTITY abouthome.pageTitle "An duilleag tòiseachaidh aig &brandFullName;">
 
-<!-- LOCALIZATION NOTE (abouthome.brandStart):
-     brandShortName must be in a <span/>
--->
-
 <!ENTITY abouthome.searchEngineButton.label "Lorg">
 
 <!ENTITY abouthome.aboutMozilla "Mu Mozilla">

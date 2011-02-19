@@ -15,7 +15,7 @@
 <!ENTITY productHelp.label        "Cobhair &brandShortName;">
 <!ENTITY productHelp.accesskey    "h">
 <!ENTITY helpMac.commandkey       "?">
-<!ENTITY helpSafeMode.label       "Ath-thòiseach leis na tuilleadan air an cur à comas…">
+<!ENTITY helpSafeMode.label       "Ath-thòisich leis na tuilleadan air an cur à comas…">
 <!ENTITY helpSafeMode.accesskey   "r">
 
 <!ENTITY helpTroubleshootingInfo.label      "Taic le duilgheadasan">
