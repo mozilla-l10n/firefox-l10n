@@ -109,5 +109,6 @@
 <!ENTITY pageactions.reset           "Websitevoorkeuren wissen">
 <!ENTITY pageactions.findInPage      "Zoeken op pagina">
 <!ENTITY pageactions.search.addNew   "Zoekmachine toevoegen">
+<!ENTITY pageactions.charEncoding    "Tekenset">
 
 <!ENTITY appMenu.siteOptions         "Website-opties">
