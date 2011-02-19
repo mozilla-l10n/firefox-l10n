@@ -19,3 +19,4 @@
 <!ENTITY homepage.none                             "Tyhjä sivu">
 <!ENTITY homepage.default                          "&brandShortName;in aloitus">
 <!ENTITY homepage.currentpage                      "Käytä avointa sivua">
+<!ENTITY showCharset.title                         "Näytä merkistökoodausvalikko">

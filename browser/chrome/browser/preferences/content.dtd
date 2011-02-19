@@ -6,7 +6,7 @@
 <!ENTITY  loadImages.label            "Lataa kuvat automaattisesti">
 <!ENTITY  loadImages.accesskey        "L">
 <!ENTITY  exceptions.label            "Poikkeukset…">
-<!ENTITY  exceptions.accesskey        "o">
+<!ENTITY  exceptions.accesskey        "i">
 
 <!ENTITY  enableJavaScript.label      "Salli JavaScript-komentosarjat">
 <!ENTITY  enableJavaScript.accesskey  "S">
@@ -28,7 +28,7 @@
 <!ENTITY  advancedFonts.accesskey     "a">
 
 <!ENTITY  colors.label                "Värit…">
-<!ENTITY  colors.accesskey            "V">
+<!ENTITY  colors.accesskey            "ä">
 
 
 <!ENTITY languages.label              "Kielet">

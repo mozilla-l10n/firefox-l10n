@@ -6,15 +6,7 @@
 
 <!ENTITY abouthome.pageTitle "&brandFullName;in aloitussivu">
 
-<!-- LOCALIZATION NOTE (abouthome.brandStart):
-     brandShortName must be in a <span/>
--->
-<!ENTITY abouthome.brandStart "<span>&brandShortName;in</span> aloitussivu">
-
 <!ENTITY abouthome.searchEngineButton.label "Etsi">
-
-<!ENTITY abouthome.searchEngineLinks.advanced "Tarkennettu haku">
-<!ENTITY abouthome.searchEngineLinks.preferences "Asetukset">
 
 <!ENTITY abouthome.aboutMozilla "Tietoja Mozillasta">
 

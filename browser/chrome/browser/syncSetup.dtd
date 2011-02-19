@@ -1,4 +1,4 @@
-<!ENTITY accountSetupTitle.label    "&syncBrand.fullName.label;in asennus">
+<!ENTITY accountSetupTitle.label    "&syncBrand.fullName.label; -palvelun asennus">
 
 <!-- First page of the wizard -->
 
@@ -8,8 +8,8 @@
 <!ENTITY button.connect.label    "Yhdistä">
 
 <!ENTITY setup.choicePage.title.label     "Oletko aiemmin käyttänyt &syncBrand.fullName.label; -palvelua?">
-<!ENTITY setup.choicePage.new.label       "En ole aiemmin käyttänyt &syncBrand.shortName.label; -palvelua">
-<!ENTITY setup.choicePage.existing.label  "&syncBrand.shortName.label; -palvelua on jo minulla käytössä toisella laitteella">
+<!ENTITY setup.choicePage.new.label       "En ole aiemmin käyttänyt &syncBrand.shortName.label;-palvelua">
+<!ENTITY setup.choicePage.existing.label  "&syncBrand.shortName.label;-palvelu on jo minulla käytössä toisella laitteella">
 
 <!-- New Account AND Existing Account -->
 <!ENTITY server.label               "Palvelin">
@@ -39,7 +39,7 @@
 <!ENTITY setup.tosAgree2.accesskey  "">
 
 <!-- New Account Page 2: Sync Key -->
-<!ENTITY setup.newSyncKeyPage.title.label "&brandShortName; on tosissaan yksityisyydensuojastasi">
+<!ENTITY setup.newSyncKeyPage.title.label "&brandShortName; ja yksityisyydensuojasi">
 <!ENTITY setup.newSyncKeyPage.description.label "Varmistaaksemme täydellisen yksityisyydensuojan kaikki lähettämästi tieto salataan ennen kuin se lähetetään eteenpäin. Synkronointiavaimesi on välttämätön tietojen purkamiseen eikä sitä lähetetä eteenpäin.">
 <!ENTITY syncKeyEntry.label        "Synkronointiavaimesi">
 <!ENTITY syncKeyEntry.accesskey    "S">
@@ -55,12 +55,12 @@
 <!ENTITY setup.captchaPage2.title.label     "Todista, että et ole robotti">
 <!-- Existing Account Page 1: Add Device (incl. Add a Device dialog strings) -->
 <!ENTITY addDevice.title.label              "Liitä laite">
-<!ENTITY addDevice.showMeHow.label          "Näytä minulle kuinka.">
+<!ENTITY addDevice.showMeHow.label          "Näytä ohje.">
 <!ENTITY addDevice.dontHaveDevice.label     "Laite ei ole mukanani">
-<!ENTITY addDevice.setup.description.label  "Aktivoi laitteen synkronointi avaamalla siinä &syncBrand.shortName.label;in asetukset ja valitse &#x0022;Liitä laite&#x0022;.">
-<!ENTITY addDevice.setup.enterCode.label    "Kirjoita sen jälkeen seuraava koodi:">
-<!ENTITY addDevice.dialog.description.label "Aktivoi uuden laitteesi synkronointi avaamalla siinä &syncBrand.shortName.label;in asetukset ja valitse &#x0022;Yhdistä.&#x0022;">
-<!ENTITY addDevice.dialog.enterCode.label   "Kirjoita laitteen antama koodi:">
+<!ENTITY addDevice.setup.description.label  "Aktivoi tämän laitteen synkronointi avaamalla jo synkronoitavassa laitteessa &syncBrand.shortName.label;-palvelun asetukset ja valitsemalla &#x0022;Liitä laite&#x0022;.">
+<!ENTITY addDevice.setup.enterCode.label    "Kirjoita sen jälkeen seuraava koodi tuolle laitteelle:">
+<!ENTITY addDevice.dialog.description.label "Aktivoi uuden laitteesi synkronointi avaamalla siinä &syncBrand.shortName.label;-palvelun asetusten määritys ja valitsemalla &#x0022;Yhdistä.&#x0022;">
+<!ENTITY addDevice.dialog.enterCode.label   "Kirjoita alle uuden laitteen antama koodi:">
 <!ENTITY addDevice.dialog.tryAgain.label    "Yritä uudestaan.">
 <!ENTITY addDevice.dialog.successful.label  "Laitteen liittäminen onnistui. Ensimmäinen synkronointi voi kestää useita minuutteja ja se suoritetaan taustalla.">
 <!ENTITY addDevice.dialog.syncKey.label     "Kirjoita synkronointiavaimesi aktivoidaksesi laitteen. Kirjoita ylös tai tulosta tämä avain ja ota se mukaasi.">
@@ -68,7 +68,7 @@
 
 <!-- Existing Account Page 2: Manual Login -->
 <!ENTITY setup.signInPage.title.label "Kirjaudu sisään">
-<!ENTITY existingSyncKey.description "Voit tarkistaa synkronointiavaimesi avaamalla &syncBrand.shortName.label;in asetukset toisella laitteellasi ja valitsemalla &#x0022;Hallinnoi tiliä&#x0022; ja &#x0022;Synkronointiavaimeni&#x0022;.">
+<!ENTITY existingSyncKey.description "Voit tarkistaa synkronointiavaimesi avaamalla &syncBrand.shortName.label;-palvelun asetukset toisella laitteellasi ja valitsemalla &#x0022;Hallinnoi tiliä&#x0022; ja &#x0022;Synkronointiavaimeni&#x0022;.">
 <!ENTITY verifying.label              "Todennetaan…">
 <!ENTITY resetPassword.label          "Tyhjennä salasana">
 <!ENTITY resetSyncKey.label           "Toinen synkronoitava laitteeni on kadonnut.">
@@ -90,16 +90,16 @@
 <!ENTITY engine.prefs.label         "Asetukset">
 <!ENTITY engine.prefs.accesskey     "e">
 
-<!ENTITY choice2.merge.main.label      "Yhdistä tämän laitteen tiedot &syncBrand.shortName.label; palvelussa oleviin tietoihin">
+<!ENTITY choice2.merge.main.label      "Yhdistä tämän laitteen tiedot &syncBrand.shortName.label;-palvelussa oleviin tietoihin">
 <!ENTITY choice2.merge.recommended.label "Suositeltu:">
-<!ENTITY choice2.client.main.label     "Korvaa kaikki tämän laitteen tiedot &syncBrand.shortName.label; palvelussa olevilla tiedoilla">
+<!ENTITY choice2.client.main.label     "Korvaa kaikki tämän laitteen tiedot &syncBrand.shortName.label;-palvelussa olevilla tiedoilla">
 <!ENTITY choice2.server.main.label     "Korvaa kaikkien muiden laitteiden tiedot tämän laitteen tiedoilla">
 
 <!-- Confirm Merge Options -->
 <!ENTITY setup.optionsConfirmPage.title "Vahvista">
-<!ENTITY confirm.merge.label    "&syncBrand.fullName.label; palvelussa yhdistetään tämän laitteen tiedot synkronointitilisi muihin tietoihin.">
+<!ENTITY confirm.merge.label    "&syncBrand.fullName.label; -palvelussa yhdistetään tämän laitteen tiedot synkronointitilisi muihin tietoihin.">
 <!ENTITY confirm.client2.label         "Varoitus: Seuraavat &brandShortName;in tallentamat tiedot tällä laitteella poistetaan:">
-<!ENTITY confirm.client.moreinfo.label "&brandShortName; kopioi sen jälkeen &syncBrand.fullName.label; palveluun tallennetut tiedot tälle laitteelle.">
+<!ENTITY confirm.client.moreinfo.label "&brandShortName; kopioi sen jälkeen &syncBrand.fullName.label; -palveluun tallennetut tiedot tälle laitteelle.">
 <!ENTITY confirm.server2.label         "Varoitus: Seuraaville laitteille tallennetut tiedot korvataan tälle laitteelle tallennetuilla tiedoilla:">
 
 <!-- New & Existing Account: Setup Complete -->

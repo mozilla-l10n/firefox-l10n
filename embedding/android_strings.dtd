@@ -12,3 +12,6 @@
 <!ENTITY  crash_close_label "Sulje">
 <!ENTITY  crash_restart_label "Käynnistä &brandShortName; uudestaan">
 <!ENTITY  sending_crash_report "Lähetään ilmoitusta\u2026">
+<!ENTITY  exit_label "Lopeta">
+<!ENTITY  incompatable_device "&brandShortName; ei tue laitettasi ja voit kokea käytössä ongelmia.">
+<!ENTITY  continue_label "Jatka">

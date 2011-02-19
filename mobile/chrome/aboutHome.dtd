@@ -3,6 +3,13 @@
 <!ENTITY aboutHome.remoteTabs                   "Välilehdet muissa laitteissa">
 <!ENTITY aboutHome.recommendedAddons2           "Lisäosia &brandShortName;iin">
 <!ENTITY aboutHome.giveFeedback                 "Anna palautetta">
+<!ENTITY aboutHome.getHelp                      "Lue ohjeita">
+<!ENTITY aboutHome.footerWidth                  "10em">
 <!ENTITY aboutHome.openAllTabs                  "Avaa kaikki välilehtiin">
 <!ENTITY aboutHome.noTabs                       "Ei välilehtiä viime kerralta">
 <!ENTITY aboutHome.noAddons                     "Ei suositeltuja lisäosia">
+
+<!-- LOCALIZATION NOTE: 'Firefox Spark' is the official name of the promotion/constest and should not be translated -->
+<!ENTITY aboutHome.promoLabel                   "Firefox Spark">
+<!-- LOCALIZATION NOTE: 'Play' should be translated in the context of 'playing a game' and not 'playing a video' -->
+<!ENTITY aboutHome.promoButton                  "Pelaa">

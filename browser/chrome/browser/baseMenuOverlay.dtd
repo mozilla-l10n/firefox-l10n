@@ -14,8 +14,6 @@
 <!ENTITY aboutProduct.accesskey   "T">
 <!ENTITY productHelp.label        "&brandShortName;in ohje">
 <!ENTITY productHelp.accesskey    "o">
-<!ENTITY helpForIEUsers.label      "Internet Explorerin käyttäjille">
-<!ENTITY helpForIEUsers.accesskey  "E">
 <!ENTITY helpMac.commandkey       "?">
 <!ENTITY helpSafeMode.label       "Käynnistä uudelleen lisäosat pois päältä…">
 <!ENTITY helpSafeMode.accesskey   "K">

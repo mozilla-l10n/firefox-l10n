@@ -1,4 +1,4 @@
-<!ENTITY sync.title                 "Sync">
+<!ENTITY sync.title                 "Sync-palvelu">
 <!ENTITY sync.notconnected          "Ei yhteyttä">
 <!ENTITY sync.connect               "Yhdistä">
 <!ENTITY sync.connected             "Yhdistetty">
@@ -9,7 +9,7 @@
 <!ENTITY sync.syncNow               "Synkronoi">
 
 <!ENTITY sync.setup.title           "Yhdistä Sync-palveluun">
-<!ENTITY sync.setup.jpake           "Yhdistä laitteesi valitsemalla Sync-palveluun tietokoneelle asennetusta Sync-palveluun liitetystä Firefoxista Sync-asetukset - &#x0022;Liitä laite&#x0022;">
+<!ENTITY sync.setup.jpake           "Yhdistä laitteesi avaamalla tietokoneelle asennetusta Sync-palveluun liitetystä Firefoxista Sync-palvelun asetukset ja &#x0022;Liitä laite&#x0022;">
 <!ENTITY sync.fallback              "En ole tietokoneeni lähellä…">
 <!ENTITY sync.setup.manual          "Kirjoita Sync-tilisi tiedot">
 <!ENTITY sync.account               "Tilin nimi">
@@ -19,3 +19,4 @@
 <!ENTITY sync.serverURL             "Palvelimen URL">
 <!ENTITY sync.setup.connect         "Yhdistä">
 <!ENTITY sync.setup.cancel          "Peruuta">
+<!ENTITY sync.setup.tutorial        "Näytä ohje">
