@@ -6,11 +6,6 @@
 
 <!ENTITY abouthome.pageTitle "Rûpela destpêka &brandFullName;">
 
-<!-- LOCALIZATION NOTE (abouthome.brandStart):
-     brandShortName must be in a <span/>
--->
-<!ENTITY abouthome.brandStart "<span>&brandShortName;</span> Destpêk">
-
 <!ENTITY abouthome.searchEngineButton.label "Lêgerîn">
 
 <!ENTITY abouthome.aboutMozilla "Der barê Mozillayê de">
@@ -22,4 +17,4 @@
 <!-- LOCALIZATION NOTE (abouthome.defaultSnippet2.v1):
      text in <a/> will be linked to the featured add-ons on addons.mozilla.org
 -->
-<!ENTITY abouthome.defaultSnippet2.v1 "Hêsan e ku tu Firefoxê li gorî xwe taybet bikî. <a>Ji nava bi hevaran add-onan hilbijêre</a>.">
+<!ENTITY abouthome.defaultSnippet2.v1 "Bi hêsanî dikarî Firefoxê li gorî dilê xwe taybet bikî. <a>Ji nava bi hezaran add-onan yên bi dilê xwe hilbijêre</a>.">

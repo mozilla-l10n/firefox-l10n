@@ -40,7 +40,7 @@
 
 <!-- New Account Page 2: Sync Key -->
 <!ENTITY setup.newSyncKeyPage.title.label "&brandShortName; li ber nepeniya te dikeve">
-<!ENTITY setup.newSyncKeyPage.description.label "Ji bo garantîkirina hemû nepeniya te, hemû daneyên te ji bo barkirinê hatin şîfrekirin. Kilîka ji bo vekirina şîfreya daneyên te nehat barkirin.">
+<!ENTITY setup.newSyncKeyPage.description.label "Ji bo garantîkirina hemû nepeniya te, hemû daneyên te ji bo barkirinê hatin şîfrekirin. Kilîla ji bo vekirina şîfreya daneyên te nehat barkirin.">
 <!ENTITY syncKeyEntry.label        "Kilîla te ya Syncê">
 <!ENTITY syncKeyEntry.accesskey    "K">
 <!ENTITY syncKeyGenerate.label     "Hilberîne">
@@ -63,7 +63,7 @@
 <!ENTITY addDevice.dialog.enterCode.label   "Koda ku cîhaz dide binivîse:">
 <!ENTITY addDevice.dialog.tryAgain.label    "Tika ye dîsa biceribîne.">
 <!ENTITY addDevice.dialog.successful.label  "Lçzçdekirina cîhazê bi ser ket. Senkronîzekirina pêşî dikare çend xulekan, li paşperdeyê biajo.">
-<!ENTITY addDevice.dialog.syncKey.label     "Ji bo çalakirina cîhazê divê tu Kilîka Syncê binivîsî. Tika ye vê kilîlê çap bike an jî bihîle.">
+<!ENTITY addDevice.dialog.syncKey.label     "Ji bo çalakirina cîhazê divê tu Kilîla Syncê binivîsî. Tika ye vê kilîlê çap bike an jî hilîne.">
 <!ENTITY addDevice.dialog.connected.label   "Cîhaz hat girêdan">
 
 <!-- Existing Account Page 2: Manual Login -->
