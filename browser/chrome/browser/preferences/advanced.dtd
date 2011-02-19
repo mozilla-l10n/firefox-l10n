@@ -29,7 +29,7 @@
 <!ENTITY alwaysCheckDefault.label        "Verifique sempre ao arrancar se o &brandShortName; é o navegador por omissão"><!--XXX-->
 <!ENTITY alwaysCheckDefault.accesskey    "s">
 <!ENTITY checkNow.label                  "Verifique Agora">
-<!ENTITY checkNow.accesskey              "A">
+<!ENTITY checkNow.accesskey              "g">
 <!ENTITY submitCrashes.label             "Enviar relatórios de erro">
 <!ENTITY submitCrashes.accesskey         "v">
 
@@ -103,8 +103,8 @@
 <!ENTITY viewCerts.label                 "Ver certificados">
 <!ENTITY viewCerts.accesskey             "C">
 <!ENTITY viewCRLs.label                  "Listas de revogação">
-<!ENTITY viewCRLs.accesskey              "V">
+<!ENTITY viewCRLs.accesskey              "L">
 <!ENTITY verify2.label                   "Validação">
 <!ENTITY verify2.accesskey               "V">
 <!ENTITY viewSecurityDevices.label       "Dispositivos de Segurança">
-<!ENTITY viewSecurityDevices.accesskey   "g">
+<!ENTITY viewSecurityDevices.accesskey   "D">
