@@ -112,6 +112,7 @@
 <!ENTITY pageactions.reset           "Neteja les preferències del lloc">
 <!ENTITY pageactions.findInPage      "Cerca a la pàgina">
 <!ENTITY pageactions.search.addNew   "Afegeix el motor de cerca">
+<!ENTITY pageactions.charEncoding    "Codificació de caràcters">
 
 <!ENTITY appMenu.siteOptions         "Opcions del lloc">
 
