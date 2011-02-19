@@ -54,7 +54,7 @@
 <!ENTITY protocolNotFound.title "Cha deach an seòladh a thuigsinn">
 <!ENTITY protocolNotFound.longDesc "<ul> <li>Dh'fhaodadh gum bi agad bathar-bog a bharrachd a stàladh mus fosgail thu an seòladh seo.</li></ul>">
 
-<!ENTITY proxyConnectFailure.title "Tha am frithealaiche progsaidh a' diùltadh ceanglaichean">
+<!ENTITY proxyConnectFailure.title "Tha am frithealaiche progsaidh a' diùltadh cheanglaichean">
 <!ENTITY proxyConnectFailure.longDesc "<ul> <li>Dèan cinnteach gu bheil na roghainnean progsaidh ceart.</li> <li>Cuir fios gu rianaire an lìonra agad gus dèanamh cinnteach gu bheil am progsaidh ag obair.</li></ul>">
 
 <!ENTITY proxyResolveFailure.title "Cha ghabh am frithealaiche progsaidh a lorg">

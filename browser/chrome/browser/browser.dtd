@@ -284,7 +284,7 @@ can reach it easily. -->
 <!ENTITY appMenuUnsorted.label "Comharran-lìn gun seòrsachadh">
 <!ENTITY appMenuWebDeveloper.label "Leasaichear-lìn">
 <!ENTITY appMenuGettingStarted.label "Toiseach tòiseachaidh">
-<!ENTITY appMenuSafeMode.label "Ath-thòiseach leis na tuilleadan air an cur à comas…">
+<!ENTITY appMenuSafeMode.label "Ath-thòisich leis na tuilleadan air an cur à comas…">
 <!ENTITY appMenuSafeMode.accesskey "r">
 
 <!ENTITY openCmd.commandkey           "l">
@@ -493,9 +493,9 @@ you can use these alternative items. Otherwise, their values should be empty.  -
 <!ENTITY editPopupSettings.accesskey "e">
 <!ENTITY dontShowMessage.accesskey "D">
 
-<!ENTITY bidiSwitchPageDirectionItem.label        "Atharraich taobhadh na duilleige">
-<!ENTITY bidiSwitchPageDirectionItem.accesskey    "g">
-<!ENTITY bidiSwitchTextDirectionItem.label        "Atharraich taobhadh an teacs">
+<!ENTITY bidiSwitchPageDirectionItem.label        "Atharraich comhair na duilleige">
+<!ENTITY bidiSwitchPageDirectionItem.accesskey    "d">
+<!ENTITY bidiSwitchTextDirectionItem.label        "Atharraich comhair an teacs">
 <!ENTITY bidiSwitchTextDirectionItem.accesskey    "A">
 <!ENTITY bidiSwitchTextDirectionItem.commandkey   "X">
 
