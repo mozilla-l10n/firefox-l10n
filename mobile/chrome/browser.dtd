@@ -109,5 +109,6 @@
 <!ENTITY pageactions.reset           "清除頁面的偏好設定">
 <!ENTITY pageactions.findInPage      "尋找">
 <!ENTITY pageactions.search.addNew   "新增搜尋引擎">
+<!ENTITY pageactions.charEncoding    "語言及字元編碼">
 
 <!ENTITY appMenu.siteOptions         "網站選項">

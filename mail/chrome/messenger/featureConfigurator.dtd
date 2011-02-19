@@ -81,7 +81,7 @@
 <!ENTITY featureConfigurator.diskSpace.requireSpace "需要的:">
 
 <!-- LOCALIZATION NOTE (featureConfigurator.diskSpace.warning): The label shown when your estimated available hard disk space if you chose autosync would be less than 50MB or if we estimate turning on autosync would use more than 50% of your free space. -->
-<!ENTITY featureConfigurator.diskSpace.warning "您的硬碟空間快不夠了！">
+<!ENTITY featureConfigurator.diskSpace.warning "您的磁碟空間快不夠了！">
 
 
 <!ENTITY featureConfigurator.previousButton "上一個">
