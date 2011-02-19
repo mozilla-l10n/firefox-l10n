@@ -109,7 +109,6 @@
 <!ENTITY pageactions.reset         "Kustuta lehe eelistused">
 <!ENTITY pageactions.findInPage    "Otsi lehelt">
 <!ENTITY pageactions.search.addNew "Lisa otsingumootor">
-
-<!ENTITY selectHelper.emptytext    "Filtreeri nimekirja">
+<!ENTITY pageactions.charEncoding  "Kodeering">
 
 <!ENTITY appMenu.siteOptions       "Saidi sätted">

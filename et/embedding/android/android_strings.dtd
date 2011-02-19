@@ -13,3 +13,5 @@
 <!ENTITY  crash_restart_label       "Taaskäivita &brandShortName;">
 <!ENTITY  sending_crash_report      "Saada vearaport\u2026">
 <!ENTITY  exit_label                "Välju">
+<!ENTITY  incompatable_device       "&brandShortName; ei toeta seda seadet ja seetõttu võib esineda probleeme.">
+<!ENTITY  continue_label            "Jätka">

@@ -19,3 +19,4 @@
 <!ENTITY homepage.none                             "Tühi leht">
 <!ENTITY homepage.default                          "&brandShortName; Start">
 <!ENTITY homepage.currentpage                      "Aktiivne leht">
+<!ENTITY showCharset.title                         "Kodeeringu kuvamine">
