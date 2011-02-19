@@ -19,3 +19,4 @@
 <!ENTITY homepage.none                             "空白頁面">
 <!ENTITY homepage.default                          "&brandShortName; 首頁">
 <!ENTITY homepage.currentpage                      "使用目前頁面">
+<!ENTITY showCharset.title                         "顯示字元編碼">
