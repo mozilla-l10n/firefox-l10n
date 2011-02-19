@@ -71,7 +71,7 @@
 <!ENTITY existingSyncKey.description "Pode obter unha copia da súa chave de Sync indo ás opcións do &syncBrand.shortName.label; no dispositivo e seleccionando &#x0022;A miña chave de Sync&#x0022; en &#x0022;Xestionar conta&#x0022;.">
 <!ENTITY verifying.label              "Comprobando…">
 <!ENTITY resetPassword.label          "Restabelecer o contrasinal">
-<!ENTITY resetSyncKey.label           "I have lost my other device.">
+<!ENTITY resetSyncKey.label           "Perdín o outro dispositivo.">
 
 <!-- Sync Options -->
 <!ENTITY setup.optionsPage.title      "Opcións de sincronización">
