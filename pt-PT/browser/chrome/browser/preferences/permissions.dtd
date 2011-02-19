@@ -18,5 +18,5 @@
 <!ENTITY windowClose.key "w">
 
 <!ENTITY button.close.label "Fechar">
-<!ENTITY button.close.accesskey "e">
+<!ENTITY button.close.accesskey "c">
 
