@@ -109,5 +109,6 @@
 <!ENTITY pageactions.reset "Vymazat předvolby serveru">
 <!ENTITY pageactions.findInPage "Hledat ve stránce">
 <!ENTITY pageactions.search.addNew "Přidat vyhledávací modul">
+<!ENTITY pageactions.charEncoding "Znaková sada">
 
 <!ENTITY appMenu.siteOptions "Možnosti serveru">

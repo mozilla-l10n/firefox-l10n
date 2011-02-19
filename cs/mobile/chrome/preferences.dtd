@@ -19,3 +19,4 @@
 <!ENTITY homepage.none "Prázná stránka">
 <!ENTITY homepage.default "&brandShortName; start">
 <!ENTITY homepage.currentpage "Aktuální stránka">
+<!ENTITY showCharset.title "Zobrazit znakovou sadu">
