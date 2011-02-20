@@ -86,7 +86,7 @@ just addresses the organization to follow, e.g. "This site is run by " -->
 <!ENTITY consoleClear.label        "Wyczyść">
 <!ENTITY consoleEvaluate.label     "…">
 <!ENTITY consoleErrFile.label      "Kod źródłowy:">
-<!ENTITY consoleErrLine.label      "Linia:">
+<!ENTITY consoleErrLine.label      "Wiersz:">
 <!ENTITY consoleErrColumn.label    "Kolumna:">
 
 <!ENTITY contextOpenInNewTab.label    "Otwórz odnośnik w nowej karcie">
