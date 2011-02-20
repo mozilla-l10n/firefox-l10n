@@ -19,3 +19,4 @@
 <!ENTITY homepage.none                             "Tom sida">
 <!ENTITY homepage.default                          "&brandShortName; Start">
 <!ENTITY homepage.currentpage                      "Använd aktuell sida">
+<!ENTITY showCharset.title                         "Visa teckenkodning">

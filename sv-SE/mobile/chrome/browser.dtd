@@ -109,5 +109,6 @@
 <!ENTITY pageactions.reset           "Rensa platsinställningar">
 <!ENTITY pageactions.findInPage      "Sök i sidan">
 <!ENTITY pageactions.search.addNew   "Lägg till sökmotor">
+<!ENTITY pageactions.charEncoding    "Teckenkodning">
 
 <!ENTITY appMenu.siteOptions         "Platsalternativ">
