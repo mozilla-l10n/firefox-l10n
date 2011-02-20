@@ -45,11 +45,11 @@
 <!-- View menu items -->
 <!ENTITY viewMenu.label "Näytä">
 <!ENTITY viewMenu.accesskey "N">
-<!ENTITY compositionToolbarCmd.label "Viestin kirjoituspalkki">
+<!ENTITY compositionToolbarCmd.label "Oletus">
 <!ENTITY compositionToolbarCmd.accesskey "V">
-<!ENTITY formattingToolbarCmd.label "Muotoilupalkki">
+<!ENTITY formattingToolbarCmd.label "Muotoilu">
 <!ENTITY formattingToolbarCmd.accesskey "M">
-<!ENTITY editmodeToolbarCmd.label "Muokkaustilan työkalupalkki">
+<!ENTITY editmodeToolbarCmd.label "Muokkaustila">
 <!ENTITY editmodeToolbarCmd.accesskey "M">
 
 <!-- Format menu items -->

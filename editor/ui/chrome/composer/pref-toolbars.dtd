@@ -36,7 +36,7 @@
 
 <!ENTITY pref.toolbars.title  "Työkalupalkit">
 
-<!ENTITY composition.caption  "Näytä nämä painikkeet luontityökalupalkissa:">
+<!ENTITY composition.caption  "Näytä nämä painikkeet oletuspalkissa:">
 
 <!ENTITY new.label  "Uusi">
 <!ENTITY open.label  "Avaa">
@@ -54,7 +54,7 @@
 <!ENTITY link.label  "Linkki">
 <!ENTITY anchor.label  "Ankkuri">
 
-<!ENTITY formatting.caption  "Näytä nämä painikkeet muotoilutyökalupalkissa:">
+<!ENTITY formatting.caption  "Näytä nämä painikkeet muotoilupalkissa:">
 
 <!ENTITY smaller.label  "Pienennä">
 <!ENTITY larger.label  "Suurenna">
