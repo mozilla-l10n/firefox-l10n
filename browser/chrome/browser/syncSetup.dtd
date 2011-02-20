@@ -40,7 +40,7 @@
 
 <!-- New Account Page 2: Sync Key -->
 <!ENTITY setup.newSyncKeyPage.title.label "&brandShortName; ja yksityisyydensuojasi">
-<!ENTITY setup.newSyncKeyPage.description.label "Varmistaaksemme täydellisen yksityisyydensuojan kaikki lähettämästi tieto salataan ennen kuin se lähetetään eteenpäin. Synkronointiavaimesi on välttämätön tietojen purkamiseen eikä sitä lähetetä eteenpäin.">
+<!ENTITY setup.newSyncKeyPage.description.label "Varmistaaksemme täydellisen yksityisyydensuojan, kaikki tiedot salataan ennen kuin ne lähetetään eteenpäin. Synkronointiavaimesi on välttämätön tietojen purkamiseen, mutta sitä ei lähetetä eteenpäin.">
 <!ENTITY syncKeyEntry.label        "Synkronointiavaimesi">
 <!ENTITY syncKeyEntry.accesskey    "S">
 <!ENTITY syncKeyGenerate.label     "Luo">

@@ -543,7 +543,7 @@ just addresses the organization to follow, e.g. "This site is run by " -->
 
 <!ENTITY syncBrand.shortName.label    "Sync-palvelu">
 
-<!ENTITY syncSetup.label              "Määritä &syncBrand.shortName.label;-palvelun asetukset…">
+<!ENTITY syncSetup.label              "Määritä &syncBrand.shortName.label;n asetukset…">
 <!ENTITY syncSetup.accesskey          "M">
 <!ENTITY syncSyncNowItem.label        "Synkronoi">
 <!ENTITY syncSyncNowItem.accesskey    "S">
