@@ -6,15 +6,7 @@
 
 <!ENTITY abouthome.pageTitle "Pagina de start pentru &brandFullName;">
 
-<!-- LOCALIZATION NOTE (abouthome.brandStart):
-     brandShortName must be in a <span/>
--->
-<!ENTITY abouthome.brandStart "<span>&brandShortName;</span> - Pagina de start">
-
 <!ENTITY abouthome.searchEngineButton.label "Căutare">
-
-<!ENTITY abouthome.searchEngineLinks.advanced "Căutare avansată">
-<!ENTITY abouthome.searchEngineLinks.preferences "Preferințe">
 
 <!ENTITY abouthome.aboutMozilla "Despre Mozilla">
 
