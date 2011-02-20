@@ -64,7 +64,7 @@
 <!ENTITY saveAsCmd.label "Tallenna nimellä…">
 <!ENTITY saveAsCmd.accesskey "a">
 
-<!ENTITY publishCmd.label "Julkaiset">
+<!ENTITY publishCmd.label "Julkaise">
 <!ENTITY publishCmd.accesskey "J">
 <!ENTITY publishCmd.key "S">
 <!ENTITY publishAsCmd.label "Julkaise nimellä…">
@@ -225,13 +225,13 @@
 <!ENTITY styleUnderlineCmd.key "U">
 <!ENTITY styleStrikeThruCmd.label "Yliviivattu">
 <!ENTITY styleStrikeThruCmd.accesskey "Y">
-<!ENTITY styleSuperscriptCmd.label "Korotettu">
+<!ENTITY styleSuperscriptCmd.label "Yläindeksi">
 <!ENTITY styleSuperscriptCmd.accesskey "o">
-<!ENTITY styleSubscriptCmd.label "Laskettu">
+<!ENTITY styleSubscriptCmd.label "Alaindeksi">
 <!ENTITY styleSubscriptCmd.accesskey "a">
 <!ENTITY styleNonbreakingCmd.label "Katkeamaton">
 <!ENTITY styleNonbreakingCmd.accesskey "t">
-<!ENTITY styleEm.label "Korostettu">
+<!ENTITY styleEm.label "Korostus">
 <!ENTITY styleEm.accesskey "r">
 <!ENTITY styleStrong.label "Vahvempi korostus">
 <!ENTITY styleStrong.accesskey "V">
@@ -239,7 +239,7 @@
 <!ENTITY styleCite.accesskey "S">
 <!ENTITY styleAbbr.label "Lyhenne">
 <!ENTITY styleAbbr.accesskey "h">
-<!ENTITY styleAcronym.label "Alkukirjainlyhenne">
+<!ENTITY styleAcronym.label "Lyhennesana">
 <!ENTITY styleAcronym.accesskey "u">
 <!ENTITY styleCode.label "Koodi">
 <!ENTITY styleCode.accesskey "d">
@@ -296,7 +296,7 @@
 <!ENTITY listPropsCmd.label "Luettelon ominaisuudet…">
 <!ENTITY listPropsCmd.accesskey "L">
 
-<!ENTITY ParagraphSelect.tooltip "Choose a paragraph format">
+<!ENTITY ParagraphSelect.tooltip "Valitse kappaleen muotoilu">
 <!-- Shared in Paragraph, and Toolbar menulist -->
 <!ENTITY bodyTextCmd.label "Leipäteksti">
 <!ENTITY bodyTextCmd.accesskey "L">
@@ -404,8 +404,8 @@
 <!ENTITY tableProperties.accesskey "T">
 
 <!-- Toolbar-only items -->
-<!ENTITY menuBar.tooltip "Valikko">
-<!ENTITY compositionToolbar.tooltip "Luontityökalurivi">
+<!ENTITY menuBar.tooltip "Valikkopalkki">
+<!ENTITY compositionToolbar.tooltip "Oletuspalkki">
 <!ENTITY formatToolbar.tooltip "Muotoilupalkki">
 <!ENTITY newToolbarCmd.tooltip "Luo uusi Composer-sivu">
 <!ENTITY openToolbarCmd.label "Avaa">
@@ -415,7 +415,7 @@
 <!ENTITY previewToolbarCmd.label "Selaa">
 <!ENTITY previewToolbarCmd.tooltip "Lataa sivu selaimessa">
 <!ENTITY printToolbarCmd.label "Tulosta">
-<!ENTITY printToolbarCmd.tooltip "Tulosta tämä sivu">
+<!ENTITY printToolbarCmd.tooltip "Tulosta sivu">
 <!ENTITY findToolbarCmd.label "Etsi">
 <!ENTITY findToolbarCmd.tooltip "Etsi teksti sivulta">
 <!ENTITY spellToolbarCmd.label "Oikolue">
