@@ -37,6 +37,11 @@
 
 <!--LOCALIZATION NOTE : FILE 'Privacy and Security' prefs settings -->
 <!ENTITY pref.security.title              "Datenschutz &amp; Sicherheit">
+
+<!ENTITY tracking.label                   "Benutzerdaten-Aufzeichnung">
+<!ENTITY doNotTrack.label                 "Websites mitteilen, dass sie meinen Aktionen nicht nachfolgen sollen">
+<!ENTITY doNotTrack.accesskey             "W">
+
 <!ENTITY privateData.label                "Private Daten">
 
 <!ENTITY alwaysClear.label                "Private Daten löschen, wenn &brandShortName; beendet wird">
