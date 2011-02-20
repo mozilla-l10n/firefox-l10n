@@ -1,6 +1,6 @@
 #filter emptyLines
 
-#define MOZ_LANGPACK_CREATOR CZilla.cz
+#define MOZ_LANGPACK_CREATOR Mozilla.cz
 
 # If non-English locales wish to credit multiple contributors, uncomment this
 # variable definition and use the format specified.

@@ -6,7 +6,7 @@
 <!-- The page shown when logged in... -->
 
 <!-- Login error feedback -->
-<!ENTITY updatePass.label "Aktulizovat">
+<!ENTITY updatePass.label "Aktualizovat">
 <!ENTITY resetPass.label "Obnovit">
 
 <!-- Manage Account -->
