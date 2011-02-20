@@ -88,5 +88,5 @@
 <!ENTITY pageactions.reset "Cancella preferenze dei siti">
 <!ENTITY pageactions.findInPage "Cerca nella pagina">
 <!ENTITY pageactions.search.addNew "Aggiungi motore di ricerca">
-<!ENTITY selectHelper.emptytext "Filtra elenco">
+<!ENTITY pageactions.charEncoding "Codifica caratteri">
 <!ENTITY appMenu.siteOptions "Opzioni sito">

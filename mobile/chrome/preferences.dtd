@@ -19,3 +19,4 @@
 <!ENTITY homepage.none "Pagina vuota">
 <!ENTITY homepage.default "&brandShortName; Start">
 <!ENTITY homepage.currentpage "Usa la pagina corrente">
+<!ENTITY showCharset.title "Visualizza codifica caratteri">
