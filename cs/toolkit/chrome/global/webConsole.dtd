@@ -3,7 +3,7 @@
 <!ENTITY networkPanel.statusCode "Stavový kód">
 
 <!ENTITY networkPanel.requestHeaders "Hlavička požadavku">
-<!ENTITY networkPanel.requestCookie "Odeslaná cokies">
+<!ENTITY networkPanel.requestCookie "Odeslaná cookies">
 <!ENTITY networkPanel.requestBody "Tělo požadavku">
 <!ENTITY networkPanel.requestFormData "Odeslaná data formuláře">
 

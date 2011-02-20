@@ -63,7 +63,7 @@
 <!ENTITY addDevice.dialog.enterCode.label "Zde pak vložte kód, který obdržíte:">
 <!ENTITY addDevice.dialog.tryAgain.label "Prosím zkuste to znovu.">
 <!ENTITY addDevice.dialog.successful.label "Zařízení bylo úspěšně přidáno. Počáteční synchronizace může trvat několik minut a bude probíhat na pozadí.">
-<!ENTITY addDevice.dialog.syncKey.label "Pro aktivaci vzdáleného zařízení budete potřebovat klíč. níže uvedený klíč si prosím vytiskněte nebo uložte a vemte si ho sebou.">
+<!ENTITY addDevice.dialog.syncKey.label "Pro aktivaci vzdáleného zařízení budete potřebovat klíč. níže uvedený klíč si prosím vytiskněte nebo uložte a vezměte si ho sebou.">
 <!ENTITY addDevice.dialog.connected.label "Zařízení připojeno">
 
 <!-- Existing Account Page 2: Manual Login -->
@@ -71,7 +71,7 @@
 <!ENTITY existingSyncKey.description "Svůj klíč můžete nalézt v připojeném zařízení v dialogu možností &syncBrand.shortName.label;, pokud klepnete na „Můj klíč“ pod tlačítkem „Správa účtu“.">
 <!ENTITY verifying.label "Ověřování…">
 <!ENTITY resetPassword.label "Vynulovat heslo">
-<!ENTITY resetSyncKey.label "Zratil jsem své další zařízení.">
+<!ENTITY resetSyncKey.label "Ztratil jsem své další zařízení.">
 
 <!-- Sync Options -->
 <!ENTITY setup.optionsPage.title "Možnosti synchronizace">

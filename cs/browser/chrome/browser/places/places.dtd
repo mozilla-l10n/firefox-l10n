@@ -111,7 +111,7 @@
 
 <!ENTITY maintenance.label "Import a záloha">
 <!ENTITY maintenance.accesskey "I">
-<!ENTITY maintenance.tooltip "Import and backup your bookmarks">
+<!ENTITY maintenance.tooltip "Importuje a zálohuje záložky">
 
 <!ENTITY backCmd.label "Zpět">
 <!ENTITY backButton.tooltip "Přejde zpět">
