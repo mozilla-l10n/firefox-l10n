@@ -1,6 +1,7 @@
 <!ENTITY linksHeader.label "Link-Verhalten">
 <!ENTITY newWindow.label "Verhalten beim Öffnen von Links">
 <!ENTITY newWindowDescription.label "Links, die neue Fenster öffnen sollten, öffnen in">
+<!ENTITY newWindowRestriction.label "Wenn durch Skripte neue Fenster geöffnet werden sollen:">
 <!ENTITY external.label "Links aus anderen Anwendungen">
 <!ENTITY externalDescription.label "Links aus anderen Anwendungen öffnen in">
 
@@ -15,3 +16,10 @@
 <!ENTITY openWindow.label "Neuem Fenster">
 <!ENTITY newWindowGroupWindow.accesskey "F">
 <!ENTITY externalGroupWindow.accesskey "e">
+
+<!ENTITY divertAll.label "Fenster immer in Tabs umlenken">
+<!ENTITY divertAll.accesskey "F">
+<!ENTITY divertNoFeatures.label "Benutzerdefinierte Fenster nicht in Tabs umlenken">
+<!ENTITY divertNoFeatures.accesskey "B">
+<!ENTITY dontDivert.label "Immer neue Fenster öffnen">
+<!ENTITY dontDivert.accesskey "m">
