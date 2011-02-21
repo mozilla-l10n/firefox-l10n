@@ -151,6 +151,12 @@
 <!ENTITY calendar.task.filter.completed.accesskey   "C">
 <!ENTITY calendar.task.filter.open.label            "Tareas incompletas">
 <!ENTITY calendar.task.filter.open.accesskey        "m">
+
+<!-- LOCALIZATION NOTE(calendar.task.filter.current.label)
+     "Current Tasks" will show all tasks, except those with a start date set
+     that is after today and after the selected date. If a task repeats, a
+     separate entry will be shown for each of the occurrences that happen on or
+     before today (or the selected date, whichever is later). -->
 <!ENTITY calendar.task.filter.current.label         "Tareas actuales">
 <!ENTITY calendar.task.filter.current.accesskey     "u">
 <!ENTITY calendar.task.filter.repeating.label       "Tareas repetitivas">
@@ -183,32 +189,16 @@
 <!ENTITY calendar.context.newevent.accesskey          "N">
 <!ENTITY calendar.context.newtodo.label               "Nueva tarea…">
 <!ENTITY calendar.context.newtodo.accesskey           "t">
-<!ENTITY calendar.context.modifytask.label            "Editar tarea…">
-<!ENTITY calendar.context.modifytask.accesskey        "E">
-<!ENTITY calendar.context.modifyitem.label            "Editar ítem">
-<!ENTITY calendar.context.modifyitem.accesskey        "E">
 <!ENTITY calendar.context.deletetask.label            "Eliminar tarea">
 <!ENTITY calendar.context.deletetask.accesskey        "l">
-<!ENTITY calendar.context.deleteitem.label            "Eliminar ítem">
-<!ENTITY calendar.context.deleteitem.accesskey        "l">
 <!ENTITY calendar.context.deleteevent.label           "Borrar evento">
 <!ENTITY calendar.context.deleteevent.accesskey       "B">
-<!ENTITY calendar.context.deletethisevent.label       "Este evento">
-<!ENTITY calendar.context.deletethisevent.accesskey   "T">
-<!ENTITY calendar.context.deletecompleteseries.label  "Serie completa">
-<!ENTITY calendar.context.deletecompleteseries.accesskey   "S">
-<!ENTITY calendar.context.deletefutureevents.label     "Todos los eventos futuros">
-<!ENTITY calendar.context.deletefutureevents.accesskey "f">
-<!ENTITY calendar.context.deletefuturetasks.label     "Todas las tareas futuras">
-<!ENTITY calendar.context.deletefuturetasks.accesskey "f">
 <!ENTITY calendar.context.cutevent.label              "Cortar">
 <!ENTITY calendar.context.cutevent.accesskey          "t">
 <!ENTITY calendar.context.copyevent.label             "Copiar">
 <!ENTITY calendar.context.copyevent.accesskey         "C">
 <!ENTITY calendar.context.pasteevent.label            "Pegar">
 <!ENTITY calendar.context.pasteevent.accesskey        "P">
-<!ENTITY calendar.context.selectall.label             "Seleccionar todo">
-<!ENTITY calendar.context.selectall.accesskey         "A">
 <!ENTITY calendar.context.button.label                "Vista de hoy" >
 <!ENTITY calendar.context.button.accesskey            "T" >
 
@@ -242,6 +232,12 @@
 <!ENTITY priority.level.normal.accesskey    "N">
 <!ENTITY priority.level.high                "Alta">
 <!ENTITY priority.level.high.accesskey      "A">
+
+<!-- Task View -->
+<!-- Note that the above *.context.* strings are currently used for the other
+     task action buttons -->
+<!ENTITY calendar.taskview.delete.label     "Borrar">
+<!ENTITY calendar.taskview.delete.accesskey "B">
 
 <!-- Server Context Menu -->
 <!ENTITY calendar.context.newserver.label              "Nuevo calendario…">
