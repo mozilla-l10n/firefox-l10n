@@ -101,22 +101,22 @@
 <!ENTITY continueUsing.label "आप &brandShortName; का उपयोग करना जारी रख सकते हैं.">
 
 <!-- New Account Page 3: Captcha -->
-<!ENTITY setup.captchaPage2.title.label     "Please Confirm You're Not a Robot">
+<!ENTITY setup.captchaPage2.title.label     "कृपया पुष्टि करें कि आप रोबोट नहीं हैं">
 <!-- Existing Account Page 1: Add Device (incl. Add a Device dialog strings) -->
-<!ENTITY addDevice.title.label              "Add a Device">
-<!ENTITY addDevice.showMeHow.label          "Show me how.">
-<!ENTITY addDevice.dontHaveDevice.label     "I don't have the device with me">
-<!ENTITY addDevice.setup.description.label  "To activate, go to &syncBrand.shortName.label; Options on your other device and select &#x0022;Add a Device&#x0022;.">
-<!ENTITY addDevice.setup.enterCode.label    "Then, enter this code:">
-<!ENTITY addDevice.dialog.description.label "To activate your new device, go to &syncBrand.shortName.label; Options on the device and select &#x0022;Connect.&#x0022;">
-<!ENTITY addDevice.dialog.enterCode.label   "Enter the code that the device provides:">
-<!ENTITY addDevice.dialog.tryAgain.label    "Please try again.">
-<!ENTITY addDevice.dialog.successful.label  "The device has been successfully added. The initial synchronization can take several minutes and will finish in the background.">
-<!ENTITY addDevice.dialog.syncKey.label     "To activate your device you will need to enter your Sync Key. Please print or save this key and take it with you.">
+<!ENTITY addDevice.title.label              "कोई युक्ति जोड़ें">
+<!ENTITY addDevice.showMeHow.label          "मुझे दिखाएँ कि कैसे.">
+<!ENTITY addDevice.dontHaveDevice.label     "मेरे पास युक्ति नहीं है">
+<!ENTITY addDevice.setup.description.label  "सक्रिय करने के लिए, &syncBrand.shortName.label; विकल्प पर जाएँ अपने दूसरे युक्तियों के और &#x0022;Add कोई&#x0022;. युक्ति जोड़ें">
+<!ENTITY addDevice.setup.enterCode.label    "फिर इस कोड को डालें:">
+<!ENTITY addDevice.dialog.description.label "अपनी नई युक्ति को सक्रिय करने के लिए,  युक्ति के &syncBrand.shortName.label; विकल्प पर जाएँ और चुनें &#x0022;Connect.&#x0022;">
+<!ENTITY addDevice.dialog.enterCode.label   "उन कोड को प्रदान करें जो युक्ति देता है:">
+<!ENTITY addDevice.dialog.tryAgain.label    "कृपया फिर कोशिश करें.">
+<!ENTITY addDevice.dialog.successful.label  "यह युक्ति सफलतापूर्वक जोड़ी गई है. आरंभिक तुल्यकालन कई मिनट ले सकता है और पृष्ठभूमि में समाप्त हो सकता है.">
+<!ENTITY addDevice.dialog.syncKey.label     "अपनी युक्ति को सक्रिय करने के लिए आपको अपनी सिंक कुंजी दाखिल करनी होगी. कृपया इस कुँजी को छापें या सहेजें और इसे अपने साथ ले जाएँ.">
 <!ENTITY addDevice.dialog.connected.label   "युक्तियाँ कनेक्टेड">
 
 <!ENTITY button.connect.label    "कनेक्ट करें">
-<!ENTITY existingSyncKey.description "You can get a copy of your Sync Key by going to &syncBrand.shortName.label; Options on your other device, and selecting  &#x0022;My Sync Key&#x0022; under &#x0022;Manage Account&#x0022;.">
+<!ENTITY existingSyncKey.description "आप अपनी सिंक कुंजी की नक़ल ले सकते हैं &syncBrand.shortName.label; विकल्प पर अपने दूसरे युक्ति पर जाकर, और &#x0022;My सिंक कुंजी&#x0022; को &#x0022;Manage खाता&#x0022;. में चुनकर">
 
 <!ENTITY serverType.custom2.label   "मनपसंद सर्वर का उपयोग करें…">
 <!ENTITY setup.haveAccount.label "मेरे पास पहले से &syncBrand.fullName.label; खाता है.">

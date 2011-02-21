@@ -31,7 +31,7 @@
 <!ENTITY  maintainStructure.label       "सेल डालने या हटाने के दौरान तालिका लेआउट बनाये रखें">
 <!ENTITY  maintainStructure.tooltip     "तालिका के आयताकार आकार को स्वचालित रूप से संरक्षित रखें सेल के डालने व मिटाने के बाद">
 <!ENTITY  maintainStructure.accesskey   "M">
-<!ENTITY  useCSS.label                  "CSS शैलीा का प्रयोग करें HTML तत्व व गुण के बजाय">
+<!ENTITY  useCSS.label                  "CSS शैली का प्रयोग करें HTML तत्व व गुण के बजाय">
 <!ENTITY  useCSS.accesskey              "U">
 <!ENTITY  crInPCreatesNewP.label        "अनुच्छेद में आना हमेशा एक नया अनुच्छेद बनाता है">
 <!ENTITY  crInPCreatesNewP.accesskey    "R">
