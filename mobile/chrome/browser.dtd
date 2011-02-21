@@ -88,5 +88,5 @@
 <!ENTITY pageactions.reset "Ачысціць перавагі пляцоўкі">
 <!ENTITY pageactions.findInPage "Знайсці на старонцы">
 <!ENTITY pageactions.search.addNew "Дадаць машыну пошуку">
-<!ENTITY selectHelper.emptytext "Спіс сітаў">
+<!ENTITY pageactions.charEncoding "Кадоўка знакаў">
 <!ENTITY appMenu.siteOptions "Наладжванні пляцоўкі">

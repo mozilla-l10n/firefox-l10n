@@ -6,18 +6,3 @@
 <!ENTITY tabNavigationForms.accesskey "К">
 <!ENTITY tabNavigationTextboxes.label "Заўвага: тэкставыя скрынкі і пракручвальныя рэгіёны заўсёды частка парадку рухаў.">
 <!ENTITY tabNavigationDesc.label "Калі націскаюцца Tab ці Shift+Tab, рухацца між:">
-<!ENTITY findAsYouTypeBehavior.label "Знаходзіць тое, што вы набіраеце">
-<!ENTITY findAsYouTypeTip.label "Парада: Каб уручную пачаць Знаходзіць Тое, Што Вы Набіраеце, увядзіце / , каб знайсці тэкст ці ' каб знайсці спасылкі, і, услед, тэкст, які вы хочаце знайсці.">
-<!ENTITY findAsYouTypeTimeout.label "Касаваць пошук пасля некалькіх секунд бяздзейнасці">
-<!ENTITY findAsYouTypeTimeout.accesskey "б">
-<!ENTITY findAsYouTypeSound.label "Граць гук, калі ўведзены тэкст не знойдзены">
-<!ENTITY findAsYouTypeSound.accesskey "г">
-<!ENTITY findAsYouTypeEnableAuto.label "Знаходзіць самастойна ў час уводу пасярод старонкі сеціва:">
-<!ENTITY findAsYouTypeEnableAuto.accesskey "с">
-<!ENTITY findAsYouTypeAutoText.label "Усякі тэкст на старонцы">
-<!ENTITY findAsYouTypeAutoText.accesskey "т">
-<!ENTITY findAsYouTypeAutoLinks.label "Толькі спасылкі">
-<!ENTITY findAsYouTypeAutoLinks.accesskey "ы">
-<!ENTITY findAsYouTypeFindbarEnable.label "Паказваць прыладапаліцу пошуку падчас пошуку таго, што набіраецца">
-<!ENTITY findAsYouTypeFindbarEnable.accesskey "П">
-<!ENTITY findAsYouTypeFindbarEnableTip.label "Заўвага: Пошук таго, што набіраецца, без прыладапаліцы не дазваляе ўводу міжнароднага тэксту.">
