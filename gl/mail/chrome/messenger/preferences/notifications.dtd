@@ -1,0 +1,11 @@
+<!ENTITY notificationsDialog2.title       "Personalizar un novo aviso de correo">
+<!ENTITY window.width                     "30em">
+
+<!ENTITY alertCustomization.intro         "Escolla os campos que quere mostrar na notificación do aviso:">
+<!ENTITY previewText.label                "Texto da previsualización da mensaxe">
+<!ENTITY previewText.accesskey            "T">
+<!ENTITY subject.label                    "Asunto">
+<!ENTITY subject.accesskey                "A">
+<!ENTITY sender.label                     "Remitente">
+<!ENTITY sender.accesskey                 "R">
+

@@ -1,0 +1,59 @@
+<!ENTITY itemJunk.label          "Correo lixo">
+<!ENTITY itemPhishing.label      "Correos fraudulentos">
+<!ENTITY itemPasswords.label     "Contrasinais">
+<!ENTITY itemAntiVirus.label     "Antivirus">
+<!ENTITY itemCookies.label       "Contido web">
+
+<!-- Junk Mail Controls -->
+<!ENTITY junkMail.intro "Defina a configuración predefinida para o correo lixo. As configuracións específicas de cada conta poden configurarse en Configuracións da conta.">
+<!ENTITY manualMark.label "Cando marco mensaxes como lixo:">
+<!ENTITY manualMark.accesskey "c">
+<!ENTITY manualMarkModeMove.label "Movelas para o cartafol &quot;Lixo&quot; da conta">
+<!ENTITY manualMarkModeMove.accesskey "o">
+<!ENTITY manualMarkModeDelete.label "Eliminalas">
+<!ENTITY manualMarkModeDelete.accesskey "E">
+<!ENTITY markAsReadOnSpam.label "Marcar como lidas as mensaxes identificadas como lixo">
+<!ENTITY markAsReadOnSpam.accesskey "l">
+<!ENTITY enableJunkLogging.label "Activar o rexistro do filtro de lixo">
+<!ENTITY enableJunkLogging.accesskey "A">
+<!ENTITY openJunkLog.label "Mostrar o rexistro">
+<!ENTITY openJunkLog.accesskey "M">
+<!ENTITY resetTrainingData.label "Restabelecer os datos de adestramento">
+<!ENTITY resetTrainingData.accesskey "R">
+
+<!-- Phishing Detector -->
+<!ENTITY phishingDetector1.intro  "&brandShortName; pode analizar as mensaxes para buscar correo sospeitoso de ser fraudulento mediante a identificación das técnicas máis frecuentemente utilizadas para o engano.">
+<!ENTITY enablePhishingDetector1.label    "Informarme cando a mensaxe que estou a ler é sospeitosa de ser correo fraudulento">
+<!ENTITY enablePhishingDetector1.accesskey  "I">
+<!ENTITY useDownloadedList.label "Utilizar unha lista descargada de correo sospeitosos de fraude">
+<!ENTITY useDownloadedList.accesskey "U">
+
+<!-- Passwords -->
+<!ENTITY savedPasswords.intro           "&brandShortName; pode memorizar os contrasinais para todas as súas contas.">
+<!ENTITY useMasterPassword.label        "Usar un contrasinal principal">
+<!ENTITY useMasterPassword.accesskey    "U">
+<!ENTITY masterPassword.intro           "Un contrasinal principal protexe todos os seus contrasinais, pero terá que introducilo cada vez que inicie sesión.">
+<!ENTITY changeMasterPassword.label     "Cambiar o contrasinal principal…">
+<!ENTITY changeMasterPassword.accesskey "C">
+<!ENTITY savedPasswords.label           "Contrasinais gardados…">
+<!ENTITY savedPasswords.accesskey       "g">
+
+<!-- Anti Virus -->
+<!ENTITY antiVirus.intro      "&brandShortName; pode facilitar que o software antivirus analice as mensaxes de correo entrantes antes de que se almacenen localmente.">
+<!ENTITY antiVirus.label      "Permitir que os clientes antivirus poñan en corentena mensaxes individuais entrantes.">
+<!ENTITY antiVirus.accesskey  "P">
+
+<!-- Cookies -->
+<!ENTITY cookies.intro                  "&brandShortName; permítelle especificar que blogs, fontes de novas e outros sitios web teñen permitido estabelecer cookies.">
+<!ENTITY acceptCookies.label            "Aceptar cookies dos sitios">
+<!ENTITY acceptCookies.accesskey        "c">
+<!ENTITY keepUntil.label                "Conservar até:">
+<!ENTITY keepUntil.accesskey            "a">
+<!ENTITY expire.label                   "que caduquen">
+<!ENTITY close.label                    "que peche &brandShortName;">
+<!ENTITY askEachTime.label              "preguntarme cada vez">
+<!ENTITY cookieExceptions.label         "Excepcións…">
+<!ENTITY cookieExceptions.accesskey     "E">
+<!ENTITY showCookies.label              "Mostrar cookies…">
+<!ENTITY showCookies.accesskey          "M">
+

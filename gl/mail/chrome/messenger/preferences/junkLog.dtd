@@ -1,0 +1,6 @@
+<!ENTITY junkLog.title "Rexistro de correo lixo">
+<!ENTITY junkLogInfo.label "Rexistro da actividade de control do correo lixo">
+<!ENTITY clearLog.label "Limpar rexistro">
+<!ENTITY clearLog.accesskey "L">
+<!ENTITY closeLog.label "Pechar">
+<!ENTITY closeLog.accesskey "P">

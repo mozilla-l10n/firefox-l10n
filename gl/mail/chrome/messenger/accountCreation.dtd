@@ -1,0 +1,79 @@
+<!ENTITY autoconfigWizard.title          "Configuración da conta de correo">
+<!ENTITY name.label                      "O seu nome:">
+<!ENTITY name.accesskey                  "n">
+<!ENTITY name.placeholder                "Nome Apelido">
+<!ENTITY name.text                       "O seu nome, como se mostrará aos demais">
+<!ENTITY email.label                     "Enderezo de correo-e:">
+<!ENTITY email.accesskey                 "E">
+<!ENTITY email.placeholder               "correoe@exemplo.es">
+<!ENTITY password.label                  "Contrasinal:">
+<!ENTITY password.accesskey              "C">
+<!ENTITY password.placeholder            "Contrasinal">
+<!ENTITY password.text                   "Opcional, só se usará para validar o nome de usuario">
+
+<!ENTITY accountInformation.label        "Información da conta">
+<!ENTITY username2.label                 "Nome de usuario:">
+<!ENTITY incoming.label                  "Recibindo">
+<!ENTITY outgoing.label                  "Enviando">
+<!ENTITY noEncryption.label              "Ningunha">
+<!ENTITY starttls.label                  "STARTTLS">
+<!ENTITY sslTls.label                    "SSL/TLS">
+
+<!ENTITY imap.label                      "IMAP">
+<!ENTITY pop.label                       "POP">
+<!ENTITY smtp.label                      "SMTP">
+<!ENTITY imap.description                "IMAP - Acceso aos cartafoles e ás mensaxes desde múltiples computadores">
+<!ENTITY pop.description                 "POP - Descarga todas as mensaxes neste computador, os cartafoles só están en local">
+<!ENTITY recommended-appendix.label      "(recomendado)">
+
+<!ENTITY manualSetup.label               "Configuración manual…">
+<!ENTITY manualSetup.accesskey           "m">
+<!ENTITY cancel.label                    "Cancelar">
+<!ENTITY cancel.accesskey                "a">
+<!ENTITY continue.label                  "Continuar">
+<!ENTITY continue.accesskey              "C">
+<!ENTITY startOver.label                 "Comezar desde o principio">
+<!ENTITY startOver.accesskey             "o">
+<!ENTITY stop.label                      "Deter">
+<!ENTITY stop.accesskey                  "t">
+<!-- LOCALIZATION NOTE (retest.label): This is the text that is
+     displayed on the button which will re-guess the account configuration,
+     taking into account the settings the user has changed. -->
+<!ENTITY retest.label                    "Volver a probar a configuración">
+<!ENTITY retest.accesskey                "V">
+<!ENTITY edit.label                      "Editar">
+<!ENTITY edit.accesskey                  "E">
+
+<!ENTITY rememberPassword.label          "Recordar contrasinal">
+<!ENTITY rememberPassword.accesskey      "c">
+
+<!ENTITY warning.label                   "Aviso!">
+<!ENTITY incomingSettings.label          "Configuración de entrada:">
+<!ENTITY outgoingSettings.label          "Configuración de saída:">
+<!ENTITY technicaldetails.label          "Detalles técnicos">
+<!-- LOCALIZATION NOTE (confirmWarning.label): If there is a security
+     warning on the outgoing server, then the user will need to check a
+     checkbox beside this text before continuing. -->
+<!ENTITY confirmWarning.label            "Entendo os riscos.">
+<!ENTITY confirmWarning.accesskey        "t">
+<!-- LOCALIZATION NOTE (createAccount.label): If there is a security warning
+     on the incoming or outgoing servers, then the page that pops up will
+     have this text in a button to continue by creating the account. -->
+<!ENTITY createAccount.label             "Crear conta">
+<!ENTITY createAccount.accesskey         "C">
+<!-- LOCALIZATION NOTE (changeSettings.label): If there is a security warning on
+     the incoming or outgoing servers, then the page that pops up will have
+     this text in a button to take you back to the previous page to change
+     the settings and try again. -->
+<!ENTITY changeSettings.label            "Cambiar configuracións">
+<!ENTITY changeSettings.accesskey        "f">
+
+<!ENTITY contactYourProvider.description "&brandShortName; permítelle recibir o seu correo usando a configuración fornecida. No entanto, debería contactar co seu administrador ou fornecedor de correo-e en relación a estas conexións incorrectas. Vexa a FAQ de Thunderbird para máis información.">
+
+<!ENTITY insecureServer.tooltip.title    "Aviso! Este é un servidor inseguro.">
+<!ENTITY insecureServer.tooltip.details  "Prema no círculo para máis detalles.">
+
+<!ENTITY insecureUnencrypted.description "O correo envíase sen cifrar, de maneira que as súas mensaxes poderían ser lidas por atacantes, etc. &brandShortName; permitiralle recibir o seu correo, pero debería conseguir que o seu fornecedor de correo configure o servidor cunha conexión segura.">
+<!ENTITY insecureSelfSigned.description  "O servidor usa un certificado no que non se pode confiar, de maneira que non se pode asegurar
+que ninguén estea a interceptar o tráfico entre &brandShortName; e o seu servidor. &brandShortName; permitiralle recibir o seu correo, pero debería conseguir que o seu fornecedor configure o servidor cun certificado confiábel.">
+<!ENTITY secureServer.description        "Parabéns! Este é un servidor seguro.">

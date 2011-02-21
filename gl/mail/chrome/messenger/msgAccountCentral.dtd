@@ -1,0 +1,20 @@
+<!ENTITY emailSectionHdr.label        "Correo electrónico"> 
+<!ENTITY readMsgsLink.label           "Ler mensaxes"> 
+<!ENTITY composeMsgLink.label         "Escribir unha nova mensaxe"> 
+
+<!ENTITY newsSectionHdr.label         "Grupos de noticias"> 
+<!ENTITY subscribeNewsLink.label      "Xestión de subscricións a grupos de noticias"> 
+
+<!ENTITY accountsSectionHdr.label     "Contas"> 
+<!ENTITY subscribeImapFolders.label   "Xestión de subscricións a cartafoles">
+<!ENTITY settingsLink.label           "Ver configuración desta conta"> 
+<!ENTITY newAcctLink.label            "Crear unha nova conta"> 
+
+<!ENTITY advFeaturesSectionHdr.label  "Funcionalidades avanzadas"> 
+<!ENTITY searchMsgsLink.label         "Buscar mensaxes"> 
+<!ENTITY filtersLink.label            "Xestión de filtros de mensaxes">
+<!ENTITY junkSettings.label           "Configuración de correo lixo">
+<!ENTITY offlineLink.label            "Configuración sen conexión">
+
+<!ENTITY feedsSectionHdr.label        "Fontes">
+<!ENTITY subscribeFeeds.label         "Xestionar subscricións">

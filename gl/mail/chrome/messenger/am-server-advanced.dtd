@@ -1,0 +1,31 @@
+<!ENTITY serverAdvanced.label "Configuración avanzada das contas">
+<!-- LOCALIZATION NOTE (serverDirectory.label): Do not translate "IMAP" -->
+<!ENTITY serverDirectory.label "Directorio do servidor IMAP:">
+<!ENTITY serverDirectory.accesskey "r">
+<!ENTITY usingSubscription.label "Mostrar só os cartafoles subscritos">
+<!ENTITY usingSubscription.accesskey "r">
+<!ENTITY dualUseFolders.label "O servidor admite cartafoles que conteñan subcartafoles e mensaxes">
+<!ENTITY dualUseFolders.accesskey "e">
+<!ENTITY useIdle.label "Utilice a orde IDLE se o servidor a admite">
+<!ENTITY useIdle.accesskey "I">
+<!ENTITY maximumConnectionsNumber.label "Número máximo de conexións do servidor na caché">
+<!ENTITY maximumConnectionsNumber.accesskey "x">
+<!-- LOCALIZATION NOTE (namespaceDesc.label): Do not translate "IMAP" -->
+<!ENTITY namespaceDesc.label "Estas preferencias especifican os espazos de nome no servidor IMAP.">
+<!ENTITY personalNamespace.label "Espazo de nome persoal:">
+<!ENTITY personalNamespace.accesskey "s">
+<!ENTITY publicNamespace.label "Público (compartido):">
+<!ENTITY publicNamespace.accesskey "c">
+<!ENTITY otherUsersNamespace.label "Outros usuarios:">
+<!ENTITY otherUsersNamespace.accesskey "O">
+<!ENTITY overrideNamespaces.label "Permitir que o servidor ignore estes espazos de nome">
+<!ENTITY overrideNamespaces.accesskey "n">
+<!ENTITY pop3Desc.label "Ao descargar correo pop deste servidor, utilizar o seguinte cartafol para o correo novo:" >
+<!ENTITY globalInbox.label "Caixa de entrada global (conta de cartafoles locais)">
+<!ENTITY globalInbox.accesskey "a">
+<!ENTITY accountDirectory.label "Caixa de entrada para esta conta do servidor">
+<!ENTITY accountDirectory.accesskey "s">
+<!ENTITY deferToServer.label "Caixa de entrada para outra conta">
+<!ENTITY deferToServer.accesskey "x">
+<!ENTITY deferGetNewMail.label "Incluír este servidor ao obter o correo novo">
+<!ENTITY deferGetNewMail.accesskey "I">

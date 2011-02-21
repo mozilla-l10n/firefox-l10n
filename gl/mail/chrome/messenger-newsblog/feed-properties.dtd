@@ -1,0 +1,19 @@
+<!-- Feed Properties Dialog -->
+<!ENTITY window.title             "Propiedades da fonte">
+
+<!ENTITY feedFolder.label         "Gardar artigos en: ">
+<!ENTITY feedFolder.accesskey     "G">
+
+<!ENTITY feedLocation.label       "URL da fonte: ">
+<!ENTITY feedLocation.accesskey   "U">
+
+<!ENTITY choosethisfolder.label   "escoller este cartafol">
+
+<!ENTITY quickMode.label          "Mostrar o resumo do artigo en vez de cargar a páxina web">
+<!ENTITY quickMode.accesskey      "M">
+
+<!ENTITY copyLinkCmd.label        "Copiar a localización da ligazón">
+<!ENTITY copyLinkCmd.accesskey    "C">
+
+<!ENTITY pasteLinkCmd.label       "Pegar">
+<!ENTITY pasteLinkCmd.accesskey   "P">

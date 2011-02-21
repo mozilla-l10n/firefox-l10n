@@ -1,0 +1,41 @@
+<!ENTITY window.title "Regras de filtraxe">
+
+<!ENTITY filterName.label "Nome do filtro:">
+<!ENTITY filterName.accesskey "o">
+
+<!ENTITY junk.label "Correo lixo">
+<!ENTITY notJunk.label "Non é correo lixo">
+
+<!ENTITY lowestPriorityCmd.label "A máis baixa">
+<!ENTITY lowPriorityCmd.label "Baixa">
+<!ENTITY normalPriorityCmd.label "Normal">
+<!ENTITY highPriorityCmd.label "Alta">
+<!ENTITY highestPriorityCmd.label "A máis alta">
+
+<!ENTITY contextDesc.label "Aplicar filtro cando:">
+<!ENTITY contextDesc.accesskey "A">
+<!ENTITY contextIncoming.label "se comprobe o correo">
+<!ENTITY contextManual.label "se execute manualmente">
+<!ENTITY contextBoth.label "se comprobe o correo ou se execute manualmente">
+<!ENTITY contextPostPlugin.label "se comprobe o correo (despois de clasificalo)">
+<!ENTITY contextPostPluginBoth.label "se comprobe o correo (despois de clasificalo) ou se execute manualmente">
+<!ENTITY filterActionDesc.label "Realizar estas accións:">
+<!ENTITY filterActionDesc.accesskey "s">
+
+<!-- New Style Filter Rule Actions -->
+<!ENTITY moveMessage.label "Mover mensaxe a">
+<!ENTITY copyMessage.label "Copiar mensaxe en">
+<!ENTITY forwardTo.label "Reencamiñar mensaxe para">
+<!ENTITY replyWithTemplate.label "Responder co modelo">
+<!ENTITY markMessageRead.label "Marcar como lido">
+<!ENTITY markMessageStarred.label "Engadir estrela">
+<!ENTITY setPriority.label "Definir prioridade en">
+<!ENTITY addTag.label "Etiquetar mensaxe">
+<!ENTITY setJunkScore.label "Definir estado de correo lixo en">
+<!ENTITY deleteMessage.label "Eliminar mensaxe">
+<!ENTITY deleteFromPOP.label "Eliminar do servidor POP">
+<!ENTITY fetchFromPOP.label "Descargar do servidor POP">
+<!ENTITY ignoreThread.label "Ignorar fío">
+<!ENTITY ignoreSubthread.label "Ignorar fío secundario">
+<!ENTITY watchThread.label "Mostrar fío">
+<!ENTITY stopExecution.label "Parar a execución do filtro">

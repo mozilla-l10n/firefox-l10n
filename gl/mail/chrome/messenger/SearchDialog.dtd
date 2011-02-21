@@ -1,0 +1,74 @@
+<!-- for SearchDialog.xul -->
+<!ENTITY searchHeading.label         "Buscar mensaxes en:">
+<!ENTITY searchHeading.accesskey     "B">
+<!ENTITY searchSubfolders.label      "Buscar nos subcartafoles">
+<!ENTITY searchSubfolders.accesskey  "s">
+<!ENTITY searchOnServer.label        "Executar busca no servidor">
+<!ENTITY searchOnServer.accesskey    "u">
+<!ENTITY resetButton.label           "Limpar">
+<!ENTITY resetButton.accesskey       "L">
+<!ENTITY openButton.label            "Abrir">
+<!ENTITY openButton.accesskey        "b">
+<!ENTITY deleteButton.label          "Borrar">
+<!ENTITY deleteButton.accesskey      "o">
+<!ENTITY searchDialogTitle.label     "Buscar nas mensaxes">
+<!ENTITY results.label               "Resultados">
+<!ENTITY fileHereMenu.label          "Gardar aquí">
+<!ENTITY fileHereMenu.accesskey      "r">
+<!ENTITY fileButton.label            "Ficheiro">
+<!ENTITY fileButton.accesskey        "F">
+<!ENTITY closeCmd.key                "W"> 
+<!ENTITY openInFolder.label          "Abrir en cartafol">
+<!ENTITY openInFolder.accesskey      "c">
+<!ENTITY saveAsVFButton.label        "Gardar como cartafol de busca">
+<!ENTITY saveAsVFButton.accesskey    "d">
+
+<!-- for ABSearchDialog.xul -->
+<!ENTITY abSearchHeading.label       "Buscar en:">
+<!ENTITY abSearchHeading.accesskey   "e">
+<!ENTITY propertiesButton.label      "Propiedades">
+<!ENTITY propertiesButton.accesskey  "P">
+<!ENTITY composeButton.label         "Escribir">
+<!ENTITY composeButton.accesskey     "E">
+<!ENTITY abSearchDialogTitle.label   "Busca avanzada na axenda de enderezos">
+
+<!-- Thread Pane -->
+<!ENTITY threadColumn.label "Fío">
+<!ENTITY fromColumn.label "De">
+<!ENTITY recipientColumn.label "Destinatario">
+<!ENTITY subjectColumn.label "Asunto">
+<!ENTITY dateColumn.label "Data">
+<!ENTITY priorityColumn.label "Prioridade">
+<!ENTITY tagsColumn.label "Etiquetas">
+<!ENTITY accountColumn.label "Conta">
+<!ENTITY statusColumn.label "Estado">
+<!ENTITY sizeColumn.label "Tamaño">
+<!ENTITY junkStatusColumn.label "Estado do correo lixo">
+<!ENTITY unreadColumn.label "Non lida">
+<!ENTITY totalColumn.label "Total">
+<!ENTITY readColumn.label "Ler">
+<!ENTITY receivedColumn.label "Recibido">
+<!ENTITY starredColumn.label "Con estrela">
+<!ENTITY locationColumn.label "Localización">
+<!ENTITY idColumn.label "Aviso de recepción">
+
+<!-- Thread Pane Tooltips -->
+<!ENTITY columnChooser.tooltip "Prema para seleccionar as columnas a mostrar">
+<!ENTITY threadColumn.tooltip "Prema para mostrar as mensaxes agrupadas por fíos"> 
+<!ENTITY fromColumn.tooltip "Premer para ordenar por De">
+<!ENTITY recipientColumn.tooltip "Prema para ordenar por destinatario">
+<!ENTITY subjectColumn.tooltip "Prema para ordenar por asunto">
+<!ENTITY dateColumn.tooltip "Prema para ordenar por data">
+<!ENTITY priorityColumn.tooltip "Prema para ordenar por prioridade">
+<!ENTITY tagsColumn.tooltip "Prema para ordenar por etiquetas">
+<!ENTITY accountColumn.tooltip "Prema para ordenar por conta">
+<!ENTITY statusColumn.tooltip "Prema para ordenar por estado">
+<!ENTITY sizeColumn.tooltip "Prema para ordenar por tamaño">
+<!ENTITY junkStatusColumn.tooltip "Prema para ordenar por estado de correo lixo">
+<!ENTITY unreadColumn.tooltip "Número de mensaxes non lidas no fío">
+<!ENTITY totalColumn.tooltip "Número total de mensaxes no fío">
+<!ENTITY readColumn.tooltip "Prema para ordenar as mensaxes por lidas">
+<!ENTITY receivedColumn.tooltip "Prema para ordenar por data de recepción">
+<!ENTITY starredColumn.tooltip "Prema para ordenar por estrelas">
+<!ENTITY locationColumn.tooltip "Prema para ordenar por enderezo">
+<!ENTITY idColumn.tooltip "Prema para ordenar por aviso de recepción">
