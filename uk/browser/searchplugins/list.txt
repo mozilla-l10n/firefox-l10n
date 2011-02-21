@@ -1,6 +1,5 @@
 google
 yandex
 meta-ua
-i-ua
-hotline-ua
+metamarket
 wikipedia-uk
