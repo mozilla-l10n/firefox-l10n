@@ -14,7 +14,7 @@
 <!ENTITY manageAccount.accesskey      "К">
 <!ENTITY viewQuota.label              "Подивитись квоту">
 <!ENTITY changePassword.label         "Змінити пароль">
-<!ENTITY mySyncKey.label              "Мій ключ сихронізації">
+<!ENTITY mySyncKey.label              "Мій ключ синхронізації">
 <!ENTITY resetSync.label              "Скинути синхронізацію">
 <!ENTITY addDevice.label              "Додати пристрій">
 

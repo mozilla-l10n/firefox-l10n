@@ -64,7 +64,7 @@
 <!ENTITY  genericBackgroundError.label    "&brandShortName; не може визначити наявність оновлень. 
                                            Упевніться що маєте останню версію &brandShortName; від:">
 <!ENTITY  errorCertAttrNoUpdate2.label    "Щось заважає &brandShortName;’у безпечно оновитись.
-                                           Будь ласка, упевністься що маєте останню версію &brandShortName; від:">
+                                           Будь ласка, упевніться що маєте останню версію &brandShortName; від:">
 <!ENTITY  errorCertAttrHasUpdate.label    "Щось намагається всучити  &brandShortName;’у небезпечне оновлення. 
                                            Будь ласка, зв’яжіться з вашим провайдером та попросіть допомоги.">
 

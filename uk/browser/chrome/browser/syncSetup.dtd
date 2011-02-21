@@ -104,5 +104,5 @@
 
 <!-- New & Existing Account: Setup Complete -->
 <!ENTITY setup.successPage.title "Налаштування завершено">
-<!ENTITY changeOptions.label "Ви можете змінити цей вибір вибравши Варіанти синхронізаціїї нижче.">
+<!ENTITY changeOptions.label "Ви можете змінити цей вибір вибравши Варіанти синхронізації нижче.">
 <!ENTITY continueUsing.label "Ви можете продовжити використання &brandShortName;.">
