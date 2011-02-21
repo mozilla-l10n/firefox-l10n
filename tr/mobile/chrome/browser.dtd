@@ -109,7 +109,6 @@
 <!ENTITY pageactions.reset "Site tercihlerini temizle">
 <!ENTITY pageactions.findInPage "Sayfada bul">
 <!ENTITY pageactions.search.addNew "Arama motoru ekleme">
-
-<!ENTITY selectHelper.emptytext "Listeyi filtrele">
+<!ENTITY pageactions.charEncoding "Character Encoding">
 
 <!ENTITY appMenu.siteOptions "Site özellikleri">
