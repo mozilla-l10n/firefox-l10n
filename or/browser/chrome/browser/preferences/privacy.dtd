@@ -52,7 +52,7 @@
 
 
 <!ENTITY  acceptCookies.label           "ସାଇଟରୁ କୁକିଗୁଡ଼ିକୁ ଗ୍ରହଣକରନ୍ତୁ">
-<!ENTITY  acceptCookies.accesskey       "c">
+<!ENTITY  acceptCookies.accesskey       "A">
 
 <!ENTITY  acceptThirdParty.label        "ତୃତୀୟ-ପକ୍ଷ କୁକିଗୁଡ଼ିକୁ ଗ୍ରହଣକରନ୍ତୁ">
 <!ENTITY  acceptThirdParty.accesskey    "c">
@@ -71,7 +71,7 @@
 <!ENTITY  showCookies.accesskey         "S">
 
 <!ENTITY  locbar.pre.label              "ଅବସ୍ଥିତି ପଟି ବ୍ୟବହାର କରିବା ସମୟରେ, ପ୍ରସ୍ତାବ ଦିଅନ୍ତୁ:">
-<!ENTITY  locbar.pre.accessKey          "l">
+<!ENTITY  locbar.pre.accessKey          "u">
 <!ENTITY  locbar.post.label             "">
 <!ENTITY  locbar.both.label             "ପୁରୁଣା ତଥ୍ୟ ଏବଂ ଚିହ୍ନିତ ସ୍ଥାନଗୁଡ଼ିକ">
 <!ENTITY  locbar.history.label          "ପୁରୁଣା ତଥ୍ୟ">

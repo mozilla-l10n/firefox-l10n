@@ -381,7 +381,7 @@ you can use these alternative items. Otherwise, their values should be empty.  -
 <!ENTITY dontShowMessage.accesskey "D">
 
 <!ENTITY bidiSwitchPageDirectionItem.label        "ପୃଷ୍ଠା ନିର୍ଦ୍ଦେଶ ବଦଳାନ୍ତୁ">
-<!ENTITY bidiSwitchPageDirectionItem.accesskey    "g">
+<!ENTITY bidiSwitchPageDirectionItem.accesskey    "D">
 <!ENTITY bidiSwitchTextDirectionItem.label        "ପାଠ୍ୟ ନିର୍ଦ୍ଦେଶ ବଦଳାନ୍ତୁ">
 <!ENTITY bidiSwitchTextDirectionItem.accesskey    "w">
 <!ENTITY bidiSwitchTextDirectionItem.commandkey   "X">
@@ -430,7 +430,7 @@ just addresses the organization to follow, e.g. "ଏହି ସାଇଟଟି �
 <!ENTITY newTabButton.tooltip           "ଗୋଟିଏ ନୂତନ ଟ୍ୟାବ ଖୋଲନ୍ତୁ">
 
 <!ENTITY addonBarCmd.label "ଏଡ-ଅନ ପଟି">
-<!ENTITY addonBarCmd.accesskey "B">
+<!ENTITY addonBarCmd.accesskey "A">
 
 <!ENTITY addons.commandkey            "A">
 <!ENTITY allTabs.filter.emptyText "ଟ୍ୟାବଗୁଡ଼ିକୁ ସନ୍ଧାନ କରନ୍ତୁ">
