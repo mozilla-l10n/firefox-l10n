@@ -1,0 +1,23 @@
+<!-- extracted from am-advanced.xul -->
+
+<!-- LOCALIZATION NOTE (smtpServer.label): do not translate "SMTP" in below line -->
+<!ENTITY smtpServer.label "Configuracion do servidor de saída (SMTP)">
+
+<!-- LOCALIZATION NOTE (smtpDesc.label): do not translate "SMTP" in below line -->
+<!ENTITY smtpDesc.label "A especificación de máis dun servidor de saída (SMTP) só é recomendábel para usuarios/as avanzados/as. Estabelecer varios servidores SMTP pode producir erros ao enviar as mensaxes.">
+
+<!ENTITY smtpListAdd.label  "Engadir…">
+<!ENTITY smtpListAdd.accesskey  "g">
+<!ENTITY smtpListEdit.label "Editar…">
+<!ENTITY smtpListEdit.accesskey "E">
+<!ENTITY smtpListDelete.label "Eliminar">
+<!ENTITY smtpListDelete.accesskey "l">
+<!ENTITY smtpListSetDefault.label "Estabelecer como predefinido">
+<!ENTITY smtpListSetDefault.accesskey "t">
+
+<!ENTITY serverDescription.label "Descrición: ">
+<!ENTITY serverName.label "Nome do servidor: ">
+<!ENTITY serverPort.label "Porto: ">
+<!ENTITY userName.label   "Nome de usuario: ">
+<!ENTITY connectionSecurity.label "Conexión segura: ">
+<!ENTITY authMethod.label   "Método de autenticación: ">

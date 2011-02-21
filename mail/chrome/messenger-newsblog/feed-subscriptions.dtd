@@ -1,0 +1,18 @@
+<!-- Subscription Dialog -->
+<!ENTITY feedSubscriptions.label "Subscricións a fontes">
+<!ENTITY subscriptionDesc.label "Nota: Se elimina ou modifica o cartafol dunha fonte non se verán afectados os artigos anteriormente descargados.">
+<!ENTITY feedTitle.label "Título:">
+<!ENTITY location.label  "Localización:">
+
+<!ENTITY button.addFeed.label       "Engadir">
+<!ENTITY button.addFeed.accesskey   "n">
+<!ENTITY button.editFeed.label      "Editar">
+<!ENTITY button.editFeed.accesskey  "E">
+<!ENTITY button.removeFeed.label "Eliminar">
+<!ENTITY button.removeFeed.accesskey   "m">
+<!ENTITY button.importOPML.label "Importar">
+<!ENTITY button.importOPML.accesskey   "I">
+<!ENTITY button.exportOPML.label "Exportar">
+<!ENTITY button.exportOPML.accesskey   "x">
+
+<!ENTITY cmd.close.commandKey             "w">

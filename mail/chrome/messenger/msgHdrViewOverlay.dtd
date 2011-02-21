@@ -1,0 +1,122 @@
+<!-- ***** BEGIN LICENSE BLOCK *****
+ Version: MPL 1.1/GPL 2.0/LGPL 2.1
+
+ The contents of this file are subject to the Mozilla Public License Version
+ 1.1 (the "License"); you may not use this file except in compliance with
+ the License. You may obtain a copy of the License at
+ http://www.mozilla.org/MPL/
+
+ Software distributed under the License is distributed on an "AS IS" basis,
+ WITHOUT WARRANTY OF ANY KIND, either express or implied. See the License
+ for the specific language governing rights and limitations under the
+ License.
+
+ The Original Code is Mozilla Communicator client code, released
+ March 31, 1998.
+
+ The Initial Developer of the Original Code is
+ Netscape Communications Corporation.
+ Portions created by the Initial Developer are Copyright (C) 1998-1999
+ the Initial Developer. All Rights Reserved.
+
+ Contributor(s):
+
+ Alternatively, the contents of this file may be used under the terms of
+ either the GNU General Public License Version 2 or later (the "GPL"), or
+ the GNU Lesser General Public License Version 2.1 or later (the "LGPL"),
+ in which case the provisions of the GPL or the LGPL are applicable instead
+ of those above. If you wish to allow use of your version of this file only
+ under the terms of either the GPL or the LGPL, and not to allow others to
+ use your version of this file under the terms of the MPL, indicate your
+ decision by deleting the provisions above and replace them with the notice
+ and other provisions required by the GPL or the LGPL. If you do not delete
+ the provisions above, a recipient may use your version of this file under
+ the terms of any one of the MPL, the GPL or the LGPL.
+
+ ***** END LICENSE BLOCK ***** -->
+
+<!ENTITY toField2.label "Para: ">
+<!ENTITY fromField2.label "De: ">
+<!ENTITY senderField2.label "Remitente: ">
+<!ENTITY organizationField2.label "Organización: ">
+<!ENTITY replyToField2.label "Responder a: ">
+
+<!ENTITY subjectField2.label "Asunto: ">
+<!--# LOCALIZATION NOTE (ccField2.label): DONT_TRANSLATE -->
+<!ENTITY ccField2.label "CC: ">
+<!ENTITY bccField2.label "CCO: ">
+<!ENTITY newsgroupsField2.label "Grupos de noticias: ">
+<!ENTITY followupToField2.label "Seguimento a: ">
+<!ENTITY tagsHdr2.label "Etiquetas: ">
+<!ENTITY dateField2.label "Data: ">
+<!ENTITY userAgentField2.label "user-agent ">
+<!ENTITY referencesField2.label "Referencias: ">
+<!ENTITY messageIdField2.label "ID da mensaxe ">
+<!ENTITY inReplyToField2.label "En resposta a: ">
+<!ENTITY originalWebsite2.label "Sitio web: ">
+
+<!ENTITY editMessageDescription.label "Isto é un borrador">
+<!ENTITY editMessageButton.label "Editar…">
+<!ENTITY hdrArchiveButton.label "arquivar">
+<!ENTITY hdrArchiveButton.tooltip "arquivar esta mensaxe">
+<!ENTITY hdrReplyButton.label "responder">
+<!ENTITY hdrReplyButton.tooltip "responder a esta mensaxe">
+<!ENTITY hdrReplyAllButton.label "responder a todos">
+<!ENTITY hdrReplyAllButton.tooltip "responder ao remitente e a todos os destinatarios">
+<!ENTITY hdrReplyListButton.label "responder á lista">
+<!ENTITY hdrReplyListButton.tooltip "responder á lista de correo">
+<!ENTITY hdrForwardButton.label "reencamiñar">
+<!ENTITY hdrForwardButton.tooltip "reencamiñar esta mensaxe">
+<!ENTITY hdrJunkButton.label "lixo">
+<!ENTITY hdrJunkButton.tooltip "marcar esta mensaxe como lixo">
+<!ENTITY hdrTrashButton.label "eliminar">
+<!ENTITY hdrTrashButton.tooltip "eliminar esta mensaxe">
+
+<!ENTITY hdrViewToolbarShowFull.label "Mostrar iconas e texto">
+<!ENTITY hdrViewToolbarShowFull.accesskey "M">
+<!ENTITY hdrViewToolbarShowIcons.label "Mostrar só as iconas">
+<!ENTITY hdrViewToolbarShowIcons.accesskey "i">
+<!ENTITY hdrViewToolbarShowText.label "Mostrar só o texto">
+<!ENTITY hdrViewToolbarShowText.accesskey "t">
+<!ENTITY hdrViewToolbarAlwaysReplySender.label "Mostrar sempre Responder ao remitente">
+<!ENTITY hdrViewToolbarAlwaysReplySender.accesskey "R">
+
+<!ENTITY otherActionsButton.label "outras accións">
+<!ENTITY otherActionsOpenConversation.label "abrir na conversación">
+<!ENTITY otherActionsOpenConversation.accesskey "c">
+<!ENTITY otherActionsOpenInNewWindow.label "abrir nunha nova xanela">
+<!ENTITY otherActionsOpenInNewWindow.accesskey "x">
+<!ENTITY otherActionsOpenInNewTab.label "abrir nunha nova lapela">
+<!ENTITY otherActionsOpenInNewTab.accesskey "h">
+<!ENTITY markAsReadMenuItem.label "marcar como lido">
+<!ENTITY markAsReadMenuItem.accesskey "l">
+<!ENTITY markAsUnreadMenuItem.label "marcar como non lido">
+<!ENTITY markAsUnreadMenuItem.accesskey "n">
+<!ENTITY saveAsMenuItem.label "gardar como…">
+<!ENTITY saveAsMenuItem.accesskey "g">
+<!ENTITY viewSourceMenuItem.label "ver fonte…">
+<!ENTITY viewSourceMenuItem.accesskey "v">
+<!ENTITY otherActionsPrint.label "imprimir…">
+<!ENTITY otherActionsPrint.accesskey "p">
+
+<!ENTITY openAttachmentCmd.label    "Abrir">
+<!ENTITY openAttachmentCmd.accesskey    "b">
+<!ENTITY saveAsAttachmentCmd.label    "Gardar como…">
+<!ENTITY saveAsAttachmentCmd.accesskey    "c">
+<!ENTITY detachAttachmentCmd.label    "Desanexar…">
+<!ENTITY deleteAttachmentCmd.label    "Borrar">
+<!ENTITY openAllAttachmentsCmd.label    "Abrir todo…">
+<!ENTITY openAllAttachmentsCmd.accesskey    "o">
+<!ENTITY saveAllAttachmentsCmd.label    "Gardar todo…">
+<!ENTITY saveAllAttachmentsCmd.accesskey    "r">
+<!ENTITY detachAllAttachmentsCmd.label    "Desanexar todo…">
+<!ENTITY detachAllAttachmentsCmd.accesskey    "x">
+<!ENTITY deleteAllAttachmentsCmd.label    "Eliminar todo…">
+<!ENTITY deleteAllAttachmentsCmd.accesskey    "l">
+
+<!ENTITY copyLinkCmd.label        "Copiar a localización da ligazón">
+<!ENTITY copyLinkCmd.accesskey    "C">
+
+<!ENTITY CopyMessageId.label "Copiar o ID da mensaxe">
+<!ENTITY OpenMessageForMsgId.label "Abrir mensaxe por ID">
+<!ENTITY OpenBrowserWithMsgId.label "Abrir navegador co ID da mensaxe">

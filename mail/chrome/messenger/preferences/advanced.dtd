@@ -1,0 +1,108 @@
+<!ENTITY itemGeneral.label       "Xeral">
+<!ENTITY itemDisplay.label       "Lectura e visualización">
+<!ENTITY itemUpdate.label        "Actualizar">
+<!ENTITY itemNetworking.label    "Rede e espazo no disco">
+<!ENTITY itemCertificates.label  "Certificados">
+
+<!-- General Settings -->
+
+<!ENTITY enableGlodaSearch.label       "Activar indexador de mensaxes">
+<!ENTITY enableGlodaSearch.accesskey   "i">
+<!ENTITY systemIntegration.label       "Integración co sistema">
+<!ENTITY alwaysCheckDefault.label      "Sempre comprobar se &brandShortName; é o navegador predefinido no inicio">
+<!ENTITY alwaysCheckDefault.accesskey  "a">
+<!ENTITY searchIntegration.label       "Permitir que &searchIntegration.engineName; busque nas mensaxes">
+<!ENTITY searchIntegration.accesskey   "P">
+<!ENTITY checkNow.label                "Comprobar agora">
+<!ENTITY checkNow.accesskey            "C">
+<!ENTITY configEditDesc.label          "Configuración avanzada">
+<!ENTITY configEdit.label              "Editor de configuración…">
+<!ENTITY configEdit.accesskey          "n">
+<!ENTITY returnReceiptsInfo.label      "Determine como debe xestionar &brandShortName; os avisos de recepción.">
+<!ENTITY showReturnReceipts.label      "Avisos de recepción…">
+<!ENTITY showReturnReceipts.accesskey  "r">
+
+<!-- Display and Reading Settings -->
+<!ENTITY reading.caption               "Lectura">
+<!ENTITY display.caption               "Visualización">
+<!ENTITY showCondensedAddresses.label  "Mostrar só o nome das persoas da miña axenda de enderezos">
+<!ENTITY showCondensedAddresses.accesskey "d">
+
+<!ENTITY autoMarkAsRead.label          "Marcar as mensaxes como lidas automaticamente">
+<!ENTITY autoMarkAsRead.accesskey      "a">
+<!ENTITY markAsReadNoDelay.label       "Inmediatamente ao mostralas">
+<!ENTITY markAsReadNoDelay.accesskey   "I">
+<!-- LOCALIZATION NOTE (markAsReadDelay.label): This will concatenate to
+     "After displaying for [___] seconds",
+     using (markAsReadDelay.label) and a number (secondsLabel.label). -->
+<!ENTITY markAsReadDelay.label         "Despois de mostralas durante">
+<!ENTITY markAsReadDelay.accesskey     "D">
+<!ENTITY secondsLabel.label            "segundos">
+<!ENTITY openMsgIn.label               "Abrir mensaxes:">
+<!ENTITY openMsgInNewTab.label         "Nunha nova lapela">
+<!ENTITY openMsgInNewTab.accesskey     "l">
+<!ENTITY reuseExpRadio0.label          "Nunha nova xanela de mensaxe">
+<!ENTITY reuseExpRadio0.accesskey      "x">
+<!ENTITY reuseExpRadio1.label          "Nunha xanela de mensaxe existente">
+<!ENTITY reuseExpRadio1.accesskey      "u">
+<!ENTITY closeMsgOnMoveOrDelete.label  "Pechar xanela/separador da mensaxe ao mover ou borrar">
+<!ENTITY closeMsgOnMoveOrDelete.accesskey "c">
+
+<!-- Update -->
+<!ENTITY autoCheck.label                "Buscar automaticamente actualizacións para:">
+<!ENTITY enableAppUpdate.label          "&brandShortName;">
+<!ENTITY enableAppUpdate.accesskey      "h">
+<!ENTITY enableAddonsUpdate.label       "Complementos instalados">
+<!ENTITY enableAddonsUpdate.accesskey   "i">
+<!ENTITY whenUpdatesFound.label         "Cando se encontren actualizacións para &brandShortName;:">
+<!ENTITY modeAskMe.label                "Preguntarme que quero facer">
+<!ENTITY modeAskMe.accesskey            "P">
+<!ENTITY modeAutomatic.label            "Descargar e instalar automaticamente a actualización">
+<!ENTITY modeAutomatic.accesskey        "u">
+<!ENTITY modeAutoAddonWarn.label        "Avisarme se supón a desactivación dalgún complemento">
+<!ENTITY modeAutoAddonWarn.accesskey    "d">
+<!ENTITY showUpdates.label              "Mostrar o historial de actualizacións">
+<!ENTITY showUpdates.accesskey          "r">
+
+<!-- Networking and Disk Space -->
+<!ENTITY showSettings.label            "Configuración…">
+<!ENTITY showSettings.accesskey        "f">
+<!ENTITY proxiesConfigure.label        "Configurar o modo en que &brandShortName; se conecta á Internet">
+<!ENTITY connectionsInfo.caption       "Conexión">
+<!ENTITY offlineInfo.caption           "Sen conexión">
+<!ENTITY offlineInfo.label             "Configurar opcións sen conexión">
+<!ENTITY showOffline.label             "Sen conexión…">
+<!ENTITY showOffline.accesskey         "S">
+
+<!ENTITY Diskspace "Espazo en disco">
+<!ENTITY offlineCompact.label "Compactar cartafoles ao liberar">
+<!ENTITY offlineCompact.accesskey "C">
+<!ENTITY kb.label "KB">
+
+<!-- LOCALIZATION NOTE:
+  The entities useCacheBefore.label and useCacheAfter.label appear on a single
+  line in preferences as follows:
+
+  &useCacheBefore.label  [ textbox for cache size in MB ]   &useCacheAfter.label;
+-->
+<!ENTITY useCacheBefore.label            "Usar ata">
+<!ENTITY useCacheBefore.accesskey        "U">
+<!ENTITY useCacheAfter.label             "MB de espazo en caché">
+<!ENTITY clearCacheNow.label             "Limpar agora">
+<!ENTITY clearCacheNow.accesskey         "L">
+
+<!-- Certificates -->
+<!ENTITY certSelection.description       "Cando un servidor solicite o meu certificado persoal:">
+<!ENTITY certs.auto                      "Escoller un automaticamente">
+<!ENTITY certs.auto.accesskey            "E">
+<!ENTITY certs.ask                       "Preguntarme cada vez">
+<!ENTITY certs.ask.accesskey             "P">
+
+<!ENTITY viewCertificates.label         "Ver certificados">
+<!ENTITY viewCertificates.accesskey     "t">
+<!ENTITY viewCRLs.label                 "Listas de revogación">
+<!ENTITY viewCRLs.accesskey             "L">
+<!ENTITY validation.label               "Validación">
+<!ENTITY validation.accesskey           "d">
+<!ENTITY viewSecurityDevices.label      "Dispositivos de seguranza">
+<!ENTITY viewSecurityDevices.accesskey  "s">

@@ -1,0 +1,29 @@
+<!ENTITY window.title "Filtros de mensaxes">
+<!ENTITY nameColumn.label "Nome do filtro">
+<!ENTITY activeColumn.label "Activado">
+<!ENTITY newButton.label "Novo…">
+<!ENTITY newButton.accesskey "v">
+<!ENTITY editButton.label "Editar…">
+<!ENTITY editButton.accesskey "E">
+<!ENTITY deleteButton.label "Borrar">
+<!ENTITY deleteButton.accesskey "a">
+<!ENTITY reorderUpButton.label "Subir">
+<!ENTITY reorderUpButton.accesskey "u">
+<!ENTITY reorderDownButton.label "Baixar">
+<!ENTITY reorderDownButton.accesskey "x">
+<!ENTITY filterHeader.label "Os filtro activados actívanse automaticamente na orde mostrada a seguir.">
+<!ENTITY filtersForPrefix.label "Filtros para:">
+<!ENTITY filtersForPrefix.accesskey "F">
+<!ENTITY viewLogButton.label "Rexistro de filtros">
+<!ENTITY viewLogButton.accesskey "t">
+<!ENTITY runFilters.label "Executar agora">
+<!ENTITY runFilters.accesskey "c">
+<!ENTITY stopFilters.label "Deter">
+<!ENTITY stopFilters.accesskey "t">
+<!ENTITY folderPickerPrefix.label "Executar os filtros seleccionados en:">
+<!ENTITY folderPickerPrefix.accesskey "s">
+<!ENTITY choosethis.label "escoller este cartafol">
+<!ENTITY choosethisnewsserver.label "escoller este servidor de noticias">
+<!ENTITY helpButton.label "Axuda">
+<!ENTITY helpButton.accesskey "x">
+<!ENTITY closeCmd.key "W"> 

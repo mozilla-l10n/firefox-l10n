@@ -1,0 +1,16 @@
+<!ENTITY aboutDialog.title      "Sobre o &brandFullName;">
+<!ENTITY aboutButton.label      "&lt; Atrás">
+<!ENTITY aboutButton.accesskey  "A">
+<!ENTITY aboutVersion           "versión">
+<!ENTITY aboutMenu.label        "Sobre">
+<!ENTITY aboutMenu.accesskey    "b">
+<!ENTITY aboutCredits.label     "Créditos">
+<!ENTITY aboutCredits.accesskey "C">
+<!ENTITY aboutRights.label      "Os seus dereitos">
+<!ENTITY aboutRights.accesskey  "d">
+<!ENTITY aboutContributors.label "Colaboradores">
+<!ENTITY aboutContributors.accesskey "C">
+<!ENTITY aboutLicense.label      "Licenza">
+<!ENTITY aboutLicense.accesskey  "L">
+
+<!ENTITY cmdCloseMac.commandKey "w">

@@ -1,0 +1,59 @@
+<!-- these things need to move into utilityOverlay.xul -->
+
+<!-- LOCALIZATION NOTE : FILE This file contains the global menu items -->
+
+<!ENTITY fileMenu.label          "Ficheiro">
+<!ENTITY fileMenu.accesskey        "F">
+<!ENTITY newMenu.label            "Novo">
+<!ENTITY newMenu.accesskey          "o">
+
+<!ENTITY editMenu.label          "Editar">
+<!ENTITY editMenu.accesskey        "E">
+<!ENTITY undoCmd.label            "Desfacer">
+<!ENTITY undoCmd.key            "Z">
+<!ENTITY undoCmd.accesskey          "D">
+<!ENTITY redoCmd.label            "Refacer">
+<!ENTITY redoCmd.key            "Y">
+<!ENTITY redoCmd.accesskey          "r">
+<!ENTITY cutCmd.label            "Cortar">
+<!ENTITY cutCmd.key              "X">
+<!ENTITY cutCmd.accesskey          "t">
+<!ENTITY copyCmd.label            "Copiar">
+<!ENTITY copyCmd.key            "C">
+<!ENTITY copyCmd.accesskey          "o">
+<!ENTITY pasteCmd.label            "Pegar">
+<!ENTITY pasteCmd.key            "V">
+<!ENTITY pasteCmd.accesskey          "P">
+<!ENTITY deleteCmd.label          "Borrar">
+<!ENTITY deleteCmd.accesskey        "o">
+<!ENTITY selectAllCmd.label          "Seleccionar todo">
+<!ENTITY selectAllCmd.key          "A">
+<!ENTITY selectAllCmd.accesskey        "t">
+<!ENTITY preferencesCmd.label        "Opcións…">
+<!ENTITY preferencesCmd.accesskey      "O">
+<!ENTITY preferencesCmdUnix.label       "Preferencias">
+<!ENTITY preferencesCmdUnix.accesskey     "f">
+
+<!ENTITY viewMenu.label          "Ver">
+<!ENTITY viewMenu.accesskey        "V">
+<!ENTITY viewToolbarsMenu.label        "Barras de ferramentas">
+<!ENTITY viewToolbarsMenu.accesskey      "t">
+<!ENTITY showTaskbarCmd.label          "Barra de estado">
+<!ENTITY showTaskbarCmd.accesskey        "d">
+
+<!ENTITY proxy.label                                    "Configuración proxy…">
+<!ENTITY proxy.accesskey                                "x">
+
+<!ENTITY closeCmd.label      "Pechar">
+<!ENTITY closeCmd.key      "W">
+<!ENTITY closeCmd.accesskey    "c">
+
+<!ENTITY quitApplicationCmd.label  "Saír">
+<!ENTITY quitApplicationCmd.key    "Q">
+<!ENTITY quitApplicationCmd.accesskey  "a">
+
+<!ENTITY quitApplicationCmdUnix.label  "Saír">
+<!ENTITY quitApplicationCmdUnix.accesskey  "a">
+
+<!ENTITY quitApplicationCmdMac.label  "Saír de &brandShortName;">
+<!ENTITY quitApplicationCmdMac.accesskey  "a">
