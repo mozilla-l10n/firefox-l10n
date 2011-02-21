@@ -30,6 +30,7 @@
 <!ENTITY smart.label "Усталяванне праграмнага забеспячэння">
 <!ENTITY download.label "Загрузкі">
 <!ENTITY keynav.label "Клавіятурная навігацыя">
+<!ENTITY findAsYouType.label "Знаходзіць тое, што вы набіраеце">
 <!ENTITY search.label "Пошук у Інтэрнэце">
 <!ENTITY policies.label "Палітыкі бяспекі">
 <!ENTITY mousewheel.label "Кола мышы">

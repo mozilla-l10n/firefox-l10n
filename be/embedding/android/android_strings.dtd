@@ -11,3 +11,7 @@
 <!ENTITY crash_close_label "Зачыніць">
 <!ENTITY crash_restart_label "Перазапусціць &brandShortName;">
 <!ENTITY sending_crash_report "Дасыланне справаздачы пра крах\u2026">
+<!ENTITY exit_label "Выйсці">
+<!ENTITY incompatable_device "&brandShortName; не падтрымлівае гэтую збудову і таму вы можаце зазнаць
+праблемы.">
+<!ENTITY continue_label "Працягнуць">

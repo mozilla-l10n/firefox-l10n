@@ -21,3 +21,5 @@
 <!ENTITY testpilot.feedbackbutton.label "Водгук">
 <!ENTITY testpilot.happy.label "Firefox зрабіў мяне шчаслівым праз…">
 <!ENTITY testpilot.sad.label "Firefox зрабіў мяне сумным праз…">
+<!ENTITY testpilot.broken.label "Паведаміць пра няспраўную пляцоўку…">
+<!ENTITY testpilot.idea.label "Прапанаваць нам…">

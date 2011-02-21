@@ -46,7 +46,7 @@
 <!ENTITY feat_filters.label "Сіты лістоў">
 <!ENTITY feat_htmlmsg.label "Падтрымка HTML лістоў">
 <!ENTITY feat_abook.label "Адрасная кніга">
-<!ENTITY feat_labels.label "Меткі і праявы пошты, якія можна наладзіць">
+<!ENTITY feat_labels.label "Уладкавальныя меткі і праявы пошты">
 <!ENTITY feat_integration.label "Шчыльнае ўзаемадзеянне з наборам прыстасаванняў &brandShortName;">
 <!ENTITY dict.title "Слоўнікі">
 <!ENTITY dict_intro.label "Слоўнікі, якія ўжываюцца для праверкі правапісу вашых лістоў.">
