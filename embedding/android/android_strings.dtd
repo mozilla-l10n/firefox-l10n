@@ -13,3 +13,6 @@
 <!ENTITY crash_restart_label "&brandShortName; baştan başlasın">
 <!ENTITY sending_crash_report "Çökme raporu gönderiliyor\u2026">
 <!ENTITY exit_label "Çık">
+<!ENTITY incompatable_device "&brandShortName; does not support this device and you may experience
+problems.">
+<!ENTITY continue_label "Continue">

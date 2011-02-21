@@ -31,6 +31,7 @@
 <!ENTITY smart.label "Yazılım kurulumu">
 <!ENTITY download.label "Downloads">
 <!ENTITY keynav.label "Klavye ile gezinme">
+<!ENTITY findAsYouType.label "Find As You Type">
 <!ENTITY search.label "İnternet araması">
 <!ENTITY policies.label "Güvenlik politikaları">
 <!ENTITY mousewheel.label "Fare tekerleği">
