@@ -4,11 +4,6 @@
 
 
 <!ENTITY abouthome.pageTitle "&brandFullName; hasiera-orria">
-<!-- LOCALIZATION NOTE (abouthome.brandStart):
-     brandShortName must be in a <span/>
--->
-
-<!ENTITY abouthome.brandStart "<span>&brandShortName;</span> hasiera">
 
 <!ENTITY abouthome.searchEngineButton.label "Bilaketa">
 
