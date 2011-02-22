@@ -49,6 +49,3 @@
 <!ENTITY pref.defaultlength.accesskey "N">
 <!ENTITY pref.defaultsnoozelength.label "Zgjatje Parazgjedhje e Dremitjes:" >
 <!ENTITY pref.defaultsnoozelength.accesskey "D">
-<!ENTITY pref.refreshbox.label "Regullime Freskimi" >
-<!ENTITY pref.autorefresh.label "Freskoji kalendarët çdo" >
-<!ENTITY pref.autorefresh.accesskey "F" >

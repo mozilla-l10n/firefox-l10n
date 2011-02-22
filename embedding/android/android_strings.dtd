@@ -5,10 +5,10 @@
 <!ENTITY  error_loading_file "Ndodhi një gabim gjatë kur po provohej të ngarkoheshin kartela të domosdoshme për xhirimin e &brandShortName;">
 
 <!ENTITY  crash_reporter_title "Njoftues Vithisjesh për &brandShortName;">
-<!ENTITY  crash_message "&brandShortName; u vithis. Skedat tuaja do të duhej t'i shihnit te faqja e fillimit të &brandShortName;, kur ta rinisni.">
+<!ENTITY  crash_message "&brandShortName; u vithis. Skedat tuaja do të duhej t\'i shihnit te faqja e fillimit të &brandShortName;, kur ta rinisni.">
 <!ENTITY  crash_help_message "Ju lutem, na ndihmoni ta ndreqim këtë problem!">
 <!ENTITY  crash_send_report_message "Dërgojini Mozilla-s një njoftim vithisjeje">
 <!ENTITY  crash_include_url "Përfshini adresën e faqes">
 <!ENTITY  crash_close_label "Mbylle">
-<!ENTITY  crash_restart_label "Rinis &brandShortName;">
+<!ENTITY  crash_restart_label "Rinise &brandShortName;-un">
 <!ENTITY  sending_crash_report "Po dërgohet njoftimi i vithisjes\u2026">

@@ -182,32 +182,16 @@
 <!ENTITY calendar.context.newevent.accesskey          "N">
 <!ENTITY calendar.context.newtodo.label               "Punë e Re…">
 <!ENTITY calendar.context.newtodo.accesskey           "u">
-<!ENTITY calendar.context.modifytask.label            "Përpunoni Punë…">
-<!ENTITY calendar.context.modifytask.accesskey        "o">
-<!ENTITY calendar.context.modifyitem.label            "Përpunoni Objekt…">
-<!ENTITY calendar.context.modifyitem.accesskey        "J">
 <!ENTITY calendar.context.deletetask.label            "Fshije Punën">
 <!ENTITY calendar.context.deletetask.accesskey        "i">
-<!ENTITY calendar.context.deleteitem.label            "Fshije">
-<!ENTITY calendar.context.deleteitem.accesskey        "F">
 <!ENTITY calendar.context.deleteevent.label           "Fshije Ngjarjen">
 <!ENTITY calendar.context.deleteevent.accesskey       "g">
-<!ENTITY calendar.context.deletethisevent.label       "Këtë Ngjarje">
-<!ENTITY calendar.context.deletethisevent.accesskey   "K">
-<!ENTITY calendar.context.deletecompleteseries.label  "Complete Series">
-<!ENTITY calendar.context.deletecompleteseries.accesskey   "S">
-<!ENTITY calendar.context.deletefutureevents.label     "Tërë Ngjarjet e Ardhshme">
-<!ENTITY calendar.context.deletefutureevents.accesskey "N">
-<!ENTITY calendar.context.deletefuturetasks.label     "Tërë Punët e Ardhshme">
-<!ENTITY calendar.context.deletefuturetasks.accesskey "P">
 <!ENTITY calendar.context.cutevent.label              "Prije">
 <!ENTITY calendar.context.cutevent.accesskey          "P">
 <!ENTITY calendar.context.copyevent.label             "Kopjoje">
 <!ENTITY calendar.context.copyevent.accesskey         "K">
 <!ENTITY calendar.context.pasteevent.label            "Ngjite">
 <!ENTITY calendar.context.pasteevent.accesskey        "N">
-<!ENTITY calendar.context.selectall.label             "Përzgjidhe të tërën">
-<!ENTITY calendar.context.selectall.accesskey         "z">
 <!ENTITY calendar.context.button.label                "Kutia për Sot" >
 <!ENTITY calendar.context.button.accesskey            "K" >
 
@@ -292,6 +276,12 @@
 <!ENTITY calendar.alarm.snooze.2hours.label         "2 Orë" >
 <!ENTITY calendar.alarm.snooze.1day.label           "1 Ditë" >
 
+<!-- LOCALIZATION NOTE (calendar.alarm.snooze.cancel)
+     This string is not seen in the UI, it is read by screen readers when the
+     user focuses the "Cancel" button in the "Snooze for..." popup of the alarm
+     dialog. -->
+<!ENTITY calendar.alarm.snooze.cancel               "Anuloje Ripërsëritjen">
+
 <!-- Calendar Server Dialog -->
 <!ENTITY calendar.server.dialog.title.edit          "Përpunoni Kalendar">
 <!ENTITY calendar.server.dialog.name.label          "Emër Kalendari:">
@@ -357,3 +347,12 @@
 <!ENTITY calendar.task.filter.current.accesskey     "P">
 <!ENTITY calendar.task.filter.repeating.label       "Punë që Përsëriten">
 <!ENTITY calendar.task.filter.repeating.accesskey   "R">
+
+<!-- Task View -->
+<!-- Note that the above *.context.* strings are currently used for the other
+     task action buttons -->
+<!ENTITY calendar.taskview.delete.label     "Fshije">
+<!ENTITY calendar.taskview.delete.accesskey "F">
+
+<!ENTITY calendarproperties.refreshInterval.label          "Rifreskoje Kalendarin:">
+<!ENTITY calendarproperties.refreshInterval.manual.label   "Dorazi">

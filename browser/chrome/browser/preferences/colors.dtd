@@ -14,7 +14,7 @@
 <!ENTITY  useSystemColors.accesskey       "P">
 
 <!ENTITY  underlineLinks.label            "Nënvizo lidhje">
-<!ENTITY  underlineLinks.accesskey        "N">
+<!ENTITY  underlineLinks.accesskey        "o">
 <!ENTITY  links                           "Ngjyra Lidhjeje">
 <!ENTITY  linkColor.label                 "Lidhje të Pavizituara:">
 <!ENTITY  linkColor.accesskey             "a">
