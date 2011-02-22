@@ -1,5 +1,4 @@
 google
-yahoo-br
 sapo
 priberam
 wikipedia-ptpt
