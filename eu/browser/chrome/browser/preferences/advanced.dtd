@@ -29,9 +29,9 @@
 <!ENTITY alwaysCheckDefault.label        "Egiaztatu beti &brandShortName; lehenetsitako nabigatzailea den abiaraztean.">
 <!ENTITY alwaysCheckDefault.accesskey    "E">
 <!ENTITY checkNow.label                  "Egiaztatu orain">
-<!ENTITY checkNow.accesskey              "o">
+<!ENTITY checkNow.accesskey              "n">
 <!ENTITY submitCrashes.label             "Bidali hutsegite-txostenak">
-<!ENTITY submitCrashes.accesskey         "B">
+<!ENTITY submitCrashes.accesskey         "d">
 
 <!ENTITY networkTab.label                "Sarea">
 
@@ -55,7 +55,7 @@
 <!ENTITY clearCacheNow.label             "Garbitu orain">
 <!ENTITY clearCacheNow.accesskey         "G">
 <!ENTITY overrideSmartCacheSize.label    "Gainidatzi automatikoki cache-aren kudeaketa">
-<!ENTITY overrideSmartCacheSize.accesskey "G">
+<!ENTITY overrideSmartCacheSize.accesskey "d">
 
 <!ENTITY updateTab.label                 "Eguneratu">
 
