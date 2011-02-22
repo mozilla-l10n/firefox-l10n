@@ -4,7 +4,7 @@
 <!ENTITY  window.unixWidth                        "48em">
 
 <!ENTITY  language.label                          "Letra-tipoa:">
-<!ENTITY  language.accesskey                      "t">
+<!ENTITY  language.accesskey                      "r">
 
 <!ENTITY  size.label                              "Tamaina:">
 <!ENTITY  sizeProportional.accesskey              "T">
@@ -18,7 +18,7 @@
 <!ENTITY  sans-serif.label                        "Sans-serif:">
 <!ENTITY  sans-serif.accesskey                    "n">
 <!ENTITY  monospace.label                         "Tarte bakarrekoa:">
-<!ENTITY  monospace.accesskey                     "b">
+<!ENTITY  monospace.accesskey                     "k">
 
 <!ENTITY  font.langGroup.latin1                   "Mendebaldekoa">
 <!ENTITY  font.langGroup.latin2                   "Europa erdialdekoa">
@@ -66,4 +66,4 @@
 
 <!ENTITY languages.customize.Charset.grouplabel         "Karaktere-kodeketa">
 <!ENTITY languages.customize.DefaultCharset.label       "Lehenetsitako karaketere-kodeketa:">
-<!ENTITY languages.customize.DefaultCharset.accesskey   "k">
+<!ENTITY languages.customize.DefaultCharset.accesskey   "e">

@@ -3,7 +3,7 @@
 <!ENTITY  locationBar.label             "Helbide-barra">
 
 <!ENTITY  locbar.pre.label              "Helbide-barra erabiltzean, gomendatu:">
-<!ENTITY  locbar.pre.accessKey          "l">
+<!ENTITY  locbar.pre.accessKey          "r">
 <!ENTITY  locbar.post.label             "">
 <!ENTITY  locbar.both.label             "Historia eta laster-markak">
 <!ENTITY  locbar.history.label          "Historia">
@@ -28,7 +28,7 @@
 <!ENTITY  cookieExceptions.accesskey    "S">
 
 <!ENTITY  showCookies.label             "Erakutsi cookie-ak…">
-<!ENTITY  showCookies.accesskey         "r">
+<!ENTITY  showCookies.accesskey         "E">
 
 
 <!ENTITY  historyHeader.pre.label          "&brandShortName;(e)k:">
@@ -58,7 +58,7 @@
 <!ENTITY  dontrememberActions.post.label         " nahi duzu.">
 
 <!ENTITY  privateBrowsingPermanent.label "Nabigatze pribatuko modu iraunkorra">
-<!ENTITY  privateBrowsingPermanent.accesskey "r">
+<!ENTITY  privateBrowsingPermanent.accesskey "b">
 
 <!ENTITY  rememberHistory.label      "Gogoratu nabigatze-historia">
 <!ENTITY  rememberHistory.accesskey  "r">
