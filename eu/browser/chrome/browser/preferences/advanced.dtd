@@ -49,8 +49,8 @@
   &limitCacheSizeBefore.label [textbox for cache size in MB] &limitCacheSizeAfter.label;
 -->
 
-<!ENTITY limitCacheSizeBefore.label      "Limitatu cache-a">
-<!ENTITY limitCacheSizeBefore.accesskey  "L">
+<!ENTITY limitCacheSizeBefore.label      "Mugatu cache-a">
+<!ENTITY limitCacheSizeBefore.accesskey  "M">
 <!ENTITY limitCacheSizeAfter.label       "MBtara">
 <!ENTITY clearCacheNow.label             "Garbitu orain">
 <!ENTITY clearCacheNow.accesskey         "G">
