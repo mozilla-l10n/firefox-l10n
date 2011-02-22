@@ -19,3 +19,4 @@
 <!ENTITY homepage.none                             "Orri hutsa">
 <!ENTITY homepage.default                          "&brandShortName; hasiera">
 <!ENTITY homepage.currentpage                      "Erabili uneko orria">
+<!ENTITY showCharset.title                         "Erakutsi karaktere-kodeketa">
