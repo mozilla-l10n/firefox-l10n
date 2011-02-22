@@ -210,7 +210,6 @@
 <!ENTITY followupAddr.label "Vazhdoje-Te:"> 
 <!ENTITY subject.label "Subjekt:">
 <!ENTITY subject.accesskey "S">
-<!ENTITY attachments.label "Bashkangjitje:">
 <!ENTITY attachments.accesskey "B">
 
 <!-- Format Toolbar, imported from editorAppShell.xul -->
