@@ -73,3 +73,5 @@
 <!ENTITY update.details.label "Детали">
 <!ENTITY update.installedOn.label "Инсталирана на:">
 <!ENTITY update.status.label "Статус:">
+
+<!ENTITY  manualUpdate.space.desc "Достапна е препорачлива безбедносна и стабилносна надградба, но немате доволно место на дискот за да ја инсталирате.">

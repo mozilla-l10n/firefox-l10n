@@ -102,3 +102,30 @@
 <!ENTITY setup.successPage.title "Инсталирањето е завшено">
 <!ENTITY changeOptions.label "Можете да ги смените овие преференции преку опциите за Sync подолу.">
 <!ENTITY continueUsing.label "Можете да продолжите со користењето на &brandShortName;.">
+
+<!ENTITY addDevice.dialog.connected.label   "Уредот е поврзан">
+<!ENTITY addDevice.dialog.description.label "За да го активирате новиот уред одете во Опции во &syncBrand.shortName.label; на уредот и одберете „Поврзи.“">
+<!ENTITY addDevice.dialog.enterCode.label   "Внесете го кодот што ќе го прикаже уредот:">
+<!ENTITY addDevice.dialog.successful.label  "Уредот е успешно додаден. Првичната синхронизација може да потрае неколку минути и ќе се изврши во позадина.">
+<!ENTITY addDevice.dialog.syncKey.label     "За да го активирате Вашиот уред треба да го внесете клучот за Sync. Отпечатете го или снимете го овој клуч и носете го со Вас.">
+<!ENTITY addDevice.dialog.tryAgain.label    "Обиди се повторно.">
+<!ENTITY addDevice.dontHaveDevice.label     "Не го носам уредот со мене">
+<!ENTITY addDevice.setup.description.label  "За да активирате, одете во Опции во &syncBrand.shortName.label; на Вашиот друг уред и одберете „Додај уред“.">
+<!ENTITY addDevice.setup.enterCode.label    "Потоа, внесете го овој код:">
+<!ENTITY addDevice.showMeHow.label          "Покажи ми како.">
+<!-- Existing Account Page 1: Add Device (incl. Add a Device dialog strings) -->
+<!ENTITY addDevice.title.label              "Додај уред">
+<!ENTITY button.connect.label    "Поврзи се">
+<!ENTITY confirm.client2.label         "Предупредување: Следниве податоци од &brandShortName; на овој компјутер ќе бидат избришани:">
+<!ENTITY confirm.server2.label         "Предупредување: Следниве уреди ќе бидат пребришани со Вашите локални податоци:">
+<!ENTITY existingSyncKey.description "За да добиете копија од клучот за Sync одете во Опции во &syncBrand.shortName.label; на другиот Ваш уред и одберете „Мојот клуч за Sync“ во „Уреди ја сметката“.">
+<!ENTITY resetSyncKey.label           "Го изгубив другиот уред.">
+<!ENTITY serverType.custom2.label   "Користи сопствен сервер…">
+<!ENTITY setup.haveAccount.label "Веќе имам &syncBrand.fullName.label; сметка.">
+
+<!-- Existing Account Page 2: Manual Login -->
+<!ENTITY setup.signInPage.title.label "Пријави се">
+<!ENTITY signIn.account2.accesskey  "а">
+<!ENTITY signIn.account2.label      "Сметка">
+<!ENTITY signIn.syncKey.accesskey   "К">
+<!ENTITY signIn.syncKey.label       "Клуч за Sync">
