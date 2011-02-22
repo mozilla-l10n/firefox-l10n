@@ -5,10 +5,6 @@
 <!-- These strings are used in the about:home page -->
 
 <!ENTITY abouthome.pageTitle "&brandFullName; ræsisíða">
-<!-- LOCALIZATION NOTE (abouthome.brandStart):
-     brandShortName must be in a <span/>
--->
-<!ENTITY abouthome.brandStart "<span>&brandShortName;</span>">
 <!ENTITY abouthome.searchEngineButton.label "Leita">
 <!ENTITY abouthome.aboutMozilla "Um Mozilla">
 <!-- LOCALIZATION NOTE (abouthome.defaultSnippet1.v1):
