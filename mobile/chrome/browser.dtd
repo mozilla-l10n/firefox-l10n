@@ -100,6 +100,7 @@
 <!ENTITY pageactions.reset           "Pastro Parapëlqimet për Site-in">
 <!ENTITY pageactions.findInPage      "Gjeni Tek Faqja">
 <!ENTITY pageactions.search.addNew   "Shtoni Motor Kërkimi">
+<!ENTITY pageactions.charEncoding    "Kodim Shkronjash">
 
 <!ENTITY allPagesHeader.label      "Krejt Faqet">
 <!ENTITY appMenu.siteOptions         "Mundësi &quot;Site&quot;-i">
@@ -109,5 +110,4 @@
 <!ENTITY historyHeader.label       "Historik">
 <!ENTITY inputMethod.label     "Përzgjidhni Metodë Futjesh">
 <!ENTITY selectHelper.done         "U bë">
-<!ENTITY selectHelper.emptytext      "Filtroje Listën">
 <!ENTITY urlbar.emptytext      "Jepni Kërkim ose Vendndodhje">

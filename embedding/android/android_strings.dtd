@@ -12,3 +12,6 @@
 <!ENTITY  crash_close_label "Mbylle">
 <!ENTITY  crash_restart_label "Rinise &brandShortName;-un">
 <!ENTITY  sending_crash_report "Po dërgohet njoftimi i vithisjes\u2026">
+<!ENTITY  exit_label "Dil">
+<!ENTITY  incompatable_device "&brandShortName;-u nuk e mbulon këtë pajisje dhe mund të hasni probleme.">
+<!ENTITY  continue_label "Vazhdo">

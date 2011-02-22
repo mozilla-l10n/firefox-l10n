@@ -8,3 +8,8 @@
 <!ENTITY aboutHome.openAllTabs                  "Hapi të tëra në skeda">
 <!ENTITY aboutHome.noTabs                       "Nuk ka skeda nga hera e fundit">
 <!ENTITY aboutHome.noAddons                     "Nuk ka shtesa të këshilluara">
+
+<!-- LOCALIZATION NOTE: 'Firefox Spark' is the official name of the promotion/constest and should not be translated -->
+<!ENTITY aboutHome.promoLabel                   "Firefox Spark">
+<!-- LOCALIZATION NOTE: 'Play' should be translated in the context of 'playing a game' and not 'playing a video' -->
+<!ENTITY aboutHome.promoButton                  "Luani">
