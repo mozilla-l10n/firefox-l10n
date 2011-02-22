@@ -189,32 +189,16 @@
 <!ENTITY calendar.context.newevent.accesskey          "b">
 <!ENTITY calendar.context.newtodo.label               "Nieuwe taak…">
 <!ENTITY calendar.context.newtodo.accesskey           "t">
-<!ENTITY calendar.context.modifytask.label            "Taak bewerken…">
-<!ENTITY calendar.context.modifytask.accesskey        "w">
-<!ENTITY calendar.context.modifyitem.label            "Item bewerken">
-<!ENTITY calendar.context.modifyitem.accesskey        "w">
 <!ENTITY calendar.context.deletetask.label            "Taak verwijderen">
 <!ENTITY calendar.context.deletetask.accesskey        "v">
-<!ENTITY calendar.context.deleteitem.label            "Verwijderen">
-<!ENTITY calendar.context.deleteitem.accesskey        "V">
 <!ENTITY calendar.context.deleteevent.label           "Gebeurtenis verwijderen">
 <!ENTITY calendar.context.deleteevent.accesskey       "v">
-<!ENTITY calendar.context.deletethisevent.label       "Deze gebeurtenis">
-<!ENTITY calendar.context.deletethisevent.accesskey   "D">
-<!ENTITY calendar.context.deletecompleteseries.label  "Volledige reeks">
-<!ENTITY calendar.context.deletecompleteseries.accesskey   "r">
-<!ENTITY calendar.context.deletefutureevents.label     "Alle komende gebeurtenissen">
-<!ENTITY calendar.context.deletefutureevents.accesskey "m">
-<!ENTITY calendar.context.deletefuturetasks.label     "Alle komende taken">
-<!ENTITY calendar.context.deletefuturetasks.accesskey "m">
 <!ENTITY calendar.context.cutevent.label              "Knippen">
 <!ENTITY calendar.context.cutevent.accesskey          "n">
 <!ENTITY calendar.context.copyevent.label             "Kopiëren">
 <!ENTITY calendar.context.copyevent.accesskey         "K">
 <!ENTITY calendar.context.pasteevent.label            "Plakken">
 <!ENTITY calendar.context.pasteevent.accesskey        "P">
-<!ENTITY calendar.context.selectall.label             "Alles selecteren">
-<!ENTITY calendar.context.selectall.accesskey         "A">
 <!ENTITY calendar.context.button.label                "Venster Vandaag" >
 <!ENTITY calendar.context.button.accesskey            "d" >
 
@@ -248,6 +232,12 @@
 <!ENTITY priority.level.normal.accesskey    "N">
 <!ENTITY priority.level.high                "Hoog">
 <!ENTITY priority.level.high.accesskey      "H">
+
+<!-- Task View -->
+<!-- Note that the above *.context.* strings are currently used for the other
+     task action buttons -->
+<!ENTITY calendar.taskview.delete.label     "Verwijderen">
+<!ENTITY calendar.taskview.delete.accesskey "r">
 
 <!-- Server Context Menu -->
 <!ENTITY calendar.context.newserver.label              "Nieuwe agenda…">
