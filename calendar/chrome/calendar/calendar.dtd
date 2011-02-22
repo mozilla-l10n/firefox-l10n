@@ -189,32 +189,16 @@
 <!ENTITY calendar.context.newevent.accesskey "N">
 <!ENTITY calendar.context.newtodo.label "Nový úkol…">
 <!ENTITY calendar.context.newtodo.accesskey "k">
-<!ENTITY calendar.context.modifytask.label "Upravit úkol…">
-<!ENTITY calendar.context.modifytask.accesskey "U">
-<!ENTITY calendar.context.modifyitem.label "Upravit položku">
-<!ENTITY calendar.context.modifyitem.accesskey "p">
 <!ENTITY calendar.context.deletetask.label "Smazat úkol">
 <!ENTITY calendar.context.deletetask.accesskey "S">
-<!ENTITY calendar.context.deleteitem.label "Smazat položku">
-<!ENTITY calendar.context.deleteitem.accesskey "m">
 <!ENTITY calendar.context.deleteevent.label "Smazat událost">
 <!ENTITY calendar.context.deleteevent.accesskey "S">
-<!ENTITY calendar.context.deletethisevent.label "Tuto událost">
-<!ENTITY calendar.context.deletethisevent.accesskey "T">
-<!ENTITY calendar.context.deletecompleteseries.label "Celou řadu">
-<!ENTITY calendar.context.deletecompleteseries.accesskey "C">
-<!ENTITY calendar.context.deletefutureevents.label "Budoucí události">
-<!ENTITY calendar.context.deletefutureevents.accesskey "B">
-<!ENTITY calendar.context.deletefuturetasks.label "Budoucí">
-<!ENTITY calendar.context.deletefuturetasks.accesskey "B">
 <!ENTITY calendar.context.cutevent.label "Vyjmout">
 <!ENTITY calendar.context.cutevent.accesskey "t">
 <!ENTITY calendar.context.copyevent.label "Kopírovat">
 <!ENTITY calendar.context.copyevent.accesskey "V">
 <!ENTITY calendar.context.pasteevent.label "Vložit">
 <!ENTITY calendar.context.pasteevent.accesskey "V">
-<!ENTITY calendar.context.selectall.label "Vybrat vše">
-<!ENTITY calendar.context.selectall.accesskey "V">
 <!ENTITY calendar.context.button.label "Dnešní panel">
 <!ENTITY calendar.context.button.accesskey "D" >
 
@@ -248,6 +232,12 @@
 <!ENTITY priority.level.normal.accesskey "N">
 <!ENTITY priority.level.high "Vysoká">
 <!ENTITY priority.level.high.accesskey "V">
+
+<!-- Task View -->
+<!-- Note that the above *.context.* strings are currently used for the other
+     task action buttons -->
+<!ENTITY calendar.taskview.delete.label "Smazat">
+<!ENTITY calendar.taskview.delete.accesskey "m">
 
 <!-- Server Context Menu -->
 <!ENTITY calendar.context.newserver.label "Nový kalendář">
