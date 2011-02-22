@@ -540,3 +540,4 @@ can reach it easily. -->
 <!ENTITY syncToolbarButton.label      "Njëkohëso">
 
 <!ENTITY addonBarCloseButton.tooltip  "Mbylle Shtyllën e Shtesave">
+<!ENTITY toggleAddonBarCmd.key        "/">
