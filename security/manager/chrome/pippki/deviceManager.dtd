@@ -37,7 +37,7 @@
 
 <!ENTITY devmgr.title                           "युक्ति प्रबंधक">
 
-<!ENTITY devmgr.devlist.label                   "सुरक्षा मौड्यूल आओर युक्तियां">
+<!ENTITY devmgr.devlist.label                   "सुरक्षा मौड्यूल आओर युक्ति">
 <!ENTITY devmgr.details.title                   "विवरण">
 <!ENTITY devmgr.details.title2                  "मान">
 <!ENTITY devmgr.status.label                    "स्थिति">
@@ -49,7 +49,7 @@
 <!ENTITY devmgr.button.login.accesskey          "n">
 <!ENTITY devmgr.button.logout.label             "लाग आउट">
 <!ENTITY devmgr.button.logout.accesskey         "O">
-<!ENTITY devmgr.button.changepw.label           "शब्दकूट बदलू">
+<!ENTITY devmgr.button.changepw.label           "गुड़किल्ली बदलू">
 <!ENTITY devmgr.button.changepw.accesskey       "P">
 <!ENTITY devmgr.button.load.label               "लोड  करू ">
 <!ENTITY devmgr.button.load.accesskey           "L">
@@ -57,7 +57,7 @@
 <!ENTITY devmgr.button.unload.accesskey         "U">
 <!ENTITY devmgr.button.fips.accesskey           "F">
 
-<!ENTITY loaddevice.info                        "मौड्यूल  कलेल  सूचना जकरा अहँ जोड़नाइइ चाहैत  अछि .">
+<!ENTITY loaddevice.info                        "मौड्यूल  कलेल  सूचना जकरा अहँ जोड़नाइ चाहैत  अछि .">
 <!ENTITY loaddevice.modname                     "मौड्यूल नाम:">
 <!ENTITY loaddevice.modname.accesskey           "M">
 <!ENTITY loaddevice.modname.default             "नव PKCS#11 मौड्यूल">

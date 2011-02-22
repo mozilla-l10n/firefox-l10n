@@ -65,7 +65,7 @@
 <!ENTITY certmgr.certdetail.title             "प्रमाणपत्र विवरण">
 <!ENTITY certmgr.certdetail.cn                "सामान्य नाम (CN)">
 <!ENTITY certmgr.certdetail.o                 "संगठन (O)">
-<!ENTITY certmgr.certdetail.ou                "सांगठनिक ईकाई (OU)">
+<!ENTITY certmgr.certdetail.ou                "सांगठनिक एकाइ (OU)">
 <!ENTITY certmgr.certdetail.serialnumber      "क्रम संख्या">
 <!ENTITY certmgr.certdetail.sha1fingerprint   "SHA1 फिंगरप्रिंट">
 <!ENTITY certmgr.certdetail.md5fingerprint    "MD5 फिंगरप्रिंट">
@@ -74,23 +74,23 @@
 <!ENTITY certmgr.editcacert.title             "CA प्रमाणपत्र ट्रस्ट जमावट केँ संपादित  करू ">
 <!ENTITY certmgr.editsslcert.title            "वेबसाइट प्रमाणपत्र ट्रस्ट जमावट संपादित  करू ">
 <!ENTITY certmgr.editcert.edittrust           "ट्रस्ट जमावट संपादित  करू :">
-<!ENTITY certmgr.editcert.trustssl            "ई प्रमाणपत्र वैबसाइट पहचान सकैत  अछि .">
-<!ENTITY certmgr.editcert.trustemail          "ई प्रमाणपत्र मेल प्रयोक्ता केँ पहचान सकैत  अछि .">
-<!ENTITY certmgr.editcert.trustobjsign        "ई प्रमाणपत्र साफ्टवेयर निर्माता केँ पहचान सकैत  अछि .">
-<!ENTITY certmgr.editsslcert.edittrust        "प्रमाणपत्र ट्रस्ट जमावट संपादित  करू :">
+<!ENTITY certmgr.editcert.trustssl            "ई प्रमाणपत्र वैबसाइट पहचान सकैत अछि .">
+<!ENTITY certmgr.editcert.trustemail          "ई प्रमाणपत्र मेल प्रयोक्ता केँ पहचान सकैत अछि .">
+<!ENTITY certmgr.editcert.trustobjsign        "ई प्रमाणपत्र साफ्टवेयर निर्माता केँ पहचान सकैत अछि .">
+<!ENTITY certmgr.editsslcert.edittrust        "प्रमाणपत्र ट्रस्ट जमावट संपादित करू :">
 <!ENTITY certmgr.editsslcert.dotrust          "ई प्रमाणपत्र क प्रमाणिकता जाँचू.">
-<!ENTITY certmgr.editsslcert.donttrust        "ई प्रमाणपत्र क प्रमाणिकता पर भरोसा मत  करू .">
-<!ENTITY certmgr.editemailcert.title          "ईमेल प्रमाणपत्र ट्रस्ट सेटिंग संपादित  करू ">
-<!ENTITY certmgr.editemailcert.edittrust      "प्रमाणपत्र ट्रस्ट जमावट क संपादित  करू :">
-<!ENTITY certmgr.editemailcert.dotrust        "ई प्रमाणपत्र क प्रमाणिकता पर भरोसा  करू .">
-<!ENTITY certmgr.editemailcert.donttrust      "ई प्रमाणपत्र क प्रमाणिकता पर भरोसा मत  करू .">
+<!ENTITY certmgr.editsslcert.donttrust        "ई प्रमाणपत्र क प्रमाणिकता पर भरोस नहि करू .">
+<!ENTITY certmgr.editemailcert.title          "ईमेल प्रमाणपत्र ट्रस्ट सेटिंग संपादित करू ">
+<!ENTITY certmgr.editemailcert.edittrust      "प्रमाणपत्र ट्रस्ट जमावट क संपादित करू :">
+<!ENTITY certmgr.editemailcert.dotrust        "ई प्रमाणपत्र क प्रमाणिकता पर भरोस करू .">
+<!ENTITY certmgr.editemailcert.donttrust      "ई प्रमाणपत्र क प्रमाणिकता पर भरोस नहि करू .">
 
-<!ENTITY certmgr.deletecert.title             "प्रमाणपत्र मेटाययें">
-<!ENTITY certmgr.deletecert.beforename        "अहाँ एहि प्रमाणपत्र केँ मेटायने क लेल आग्रह भेजा  अछि :">
-<!ENTITY certmgr.deletecert.aftername         "की अहँ एहि प्रमाणपत्र केँ मेटायने क लेल निश्चित  अछि ?">
-<!ENTITY certmgr.deleteusercert.title         " अपन  प्रमाणपत्र मेटाउ">
-<!ENTITY certmgr.deleteusercert.beforename    "अहाँ एहि प्रमाणपत्र केँ मेटायने क लेल आग्रह कएल  अछि :">
-<!ENTITY certmgr.deleteusercert.aftername     "ई प्रमाणपत्र क मेटायने पर, अहँ मेल पढ़ने मे असमर्थ होंगे जे एकटारासँ गोपित  अछि .">
+<!ENTITY certmgr.deletecert.title             "प्रमाणपत्र मेटाउ">
+<!ENTITY certmgr.deletecert.beforename        "अहाँ एहि प्रमाणपत्र केँ मेटाबैक लेल आग्रह पठोअने छी:">
+<!ENTITY certmgr.deletecert.aftername         "की अहाँ एहि प्रमाणपत्र केँ मेटाबैक लेल निश्चित छी?">
+<!ENTITY certmgr.deleteusercert.title         "अपन प्रमाणपत्र मेटाउ">
+<!ENTITY certmgr.deleteusercert.beforename    "अहाँ एहि प्रमाणपत्र केँ मेटाबैक लेल आग्रह कएने छी:">
+<!ENTITY certmgr.deleteusercert.aftername     "ई प्रमाणपत्र क मेटाबै पर, अहाँ मेल पढ़बामे असमर्थ भए जाएम जे एकरासँ गोपित  अछि .">
 
 <!ENTITY certmgr.certname                     "प्रमाणपत्र नाम">
 <!ENTITY certmgr.certserver                   "सर्वर">
@@ -99,7 +99,7 @@
 <!ENTITY certmgr.tokenname                    "सुरक्षा युक्ति">
 
 <!ENTITY certmgr.issued                       "एतय निर्गत">
-<!ENTITY certmgr.expires                      "इसपर समाप्त">
+<!ENTITY certmgr.expires                      "एकरा पर समाप्त">
 <!ENTITY certmgr.email                        "ईमेल पता">
 <!ENTITY certmgr.serial                       "क्रम संख्या">
 
@@ -118,7 +118,7 @@
 <!ENTITY certmgr.delete2.accesskey            "D">
 <!ENTITY certmgr.backup2.label                "बैकअप…">
 <!ENTITY certmgr.backup2.accesskey            "B">
-<!ENTITY certmgr.backupall2.label             "सबका बैकअप लिअ…">
+<!ENTITY certmgr.backupall2.label             "सभक बैकअप लिअ…">
 <!ENTITY certmgr.backupall2.accesskey         "k">
 <!ENTITY certmgr.restore2.label               "आयात  करू …">
 <!ENTITY certmgr.restore2.accesskey           "m">
@@ -132,7 +132,7 @@
 <!ENTITY certmgr.addException.accesskey       "x">
 
 <!ENTITY exceptionMgr.title                   "सुरक्षा अपवाद जोड़ू">
-<!ENTITY exceptionMgr.supplementalWarning     "वैध बैंक, भंडार, आओर दोसर सार्वजनिक साइट अहाँकेँ एहन करब क लेल नहि कहेंगे.">
+<!ENTITY exceptionMgr.supplementalWarning     "वैध बैंक, भंडार, आओर दोसर सार्वजनिक साइट अहाँकेँ एहन करबाक लेल नहि कहब.">
 <!ENTITY exceptionMgr.certlocation.caption2   "सर्वर">
 <!ENTITY exceptionMgr.certlocation.url        "स्थान:">
 <!ENTITY exceptionMgr.certlocation.download   "प्रमाणपत्र पाउ">
@@ -140,13 +140,13 @@
 <!ENTITY exceptionMgr.certstatus.caption      "प्रमाणपत्र स्थिति">
 <!ENTITY exceptionMgr.certstatus.viewCert     "दृश्य…">
 <!ENTITY exceptionMgr.certstatus.accesskey    "V">
-<!ENTITY exceptionMgr.permanent.label         "ई अपवाद स्थायी रूप सँ जमा  करू ">
+<!ENTITY exceptionMgr.permanent.label         "ई अपवाद स्थायी रूप सँ जमा करू">
 <!ENTITY exceptionMgr.permanent.accesskey     "P">
 
-<!ENTITY certmgr.delete_builtin.label         "Delete or Distrust…">
+<!ENTITY certmgr.delete_builtin.label         "मेटाउ अथवा भरोस नहि करू…">
 <!ENTITY certmgr.delete_builtin.accesskey     "D">
 
-<!ENTITY certmgr.edit3.label                  "Edit Trust…">
+<!ENTITY certmgr.edit3.label                  "भरोस संपादित करू…">
 <!ENTITY certmgr.edit3.accesskey              "E">
 
 <!ENTITY exceptionMgr.exceptionButton.label   "Confirm Security Exception">

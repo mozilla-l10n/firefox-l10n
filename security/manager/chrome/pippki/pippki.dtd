@@ -47,7 +47,7 @@
 <!-- Values for resetpassword.xul -->
 <!ENTITY resetPasswordButtonLabel "फेर सेट  करू ">
 <!ENTITY resetPassword.title  "मुख्य गुड़किल्ली फेर सेट  करू ">
-<!ENTITY resetPassword.text  "जँ अहाँ मुख्य गुड़किल्ली फेर सेट कएल  अछि , अहाँक सारा जमा वेब आओर इमेल गुड़किल्ली, आंकड़ा, निज प्रमाणपत्र, औऱ निज कुँजी विस्मृत हो जएताह. क अहँ  अपन  मुख्य गुड़किल्ली सेट फेर किये केँ सुनिश्चित  अछि ?">
+<!ENTITY resetPassword.text  "जँ अहाँ मुख्य गुड़किल्ली फेर सेट कएने छी, अहाँक सभटा जमा वेब आओर इमेल गुड़किल्ली, आँकड़ा, निज प्रमाणपत्र, औऱ निज कुँजी विस्मृत हो जएताह. की अहाँ अपन मुख्य गुड़किल्ली सेट फेर कएनाइ केँ सुनिश्चित अछि?">
 
 <!-- Values for getpassword.xul -->
 <!ENTITY getPassword.title  "मुख्य गुड़किल्ली डालू">
@@ -85,8 +85,8 @@
 <!ENTITY downloadCert.viewPolicy.text "CA नीति आओर प्रक्रिया जाँचू">
 
 <!-- Certificate Exists in database -->
-<!ENTITY caCertExists.title "प्रमाणपत्र  मोजुद   अछि ">
-<!ENTITY caCertExists.message "प्रमाणपत्र पहले सँ  मोजुद   अछि .">
+<!ENTITY caCertExists.title "प्रमाणपत्र  मोजुद अछि ">
+<!ENTITY caCertExists.message "प्रमाणपत्र पहिने सँ  मोजुद अछि .">
 
 <!-- Strings for the MismatchDomain dialog  -->
 
@@ -106,40 +106,40 @@
 <!-- Strings for the cert picker dialog -->
 <!ENTITY certPicker.title "प्रमाणपत्र चुनू">
 <!ENTITY certPicker.info  "प्रमाणपत्र:">
-<!ENTITY certPicker.detailsLabel "चयनित प्रमाणपत्र क विवरण:">
+<!ENTITY certPicker.detailsLabel "चयनित प्रमाणपत्रक विवरण:">
 
 <!ENTITY pkcs12.setpassword.title  "प्रमाणपत्र बैकअप गुड़किल्ली चुनू">
-<!ENTITY pkcs12.setpassword.message  "प्रमाणपत्र बैकअप गुड़किल्ली जकरा अहाँ यहां सेट कएल  अछि  बैकअफ फाइल क रक्षा करैत  अछि  जकरा अहँ बनाबै क करीब  अछि .  अहाँकेँ जरूर एहि गुड़किल्ली केँ सेट  कएनाइ  चाही एहि बैकअप क सँग.">
+<!ENTITY pkcs12.setpassword.message  "प्रमाणपत्र बैकअप गुड़किल्ली जकरा अहाँ एतए सेट कएने छी बैकअफ फाइलक रक्षा करैत अछि  जकरा अहाँ बनाबैक करीब अछि .  अहाँकेँ जरूर एहि गुड़किल्ली केँ सेट कएनाइ चाही एहि बैकअपक सँग.">
 <!ENTITY pkcs12.setpassword.label1 "प्रमाणपत्र बैकअप गुड़किल्ली:">
 <!ENTITY pkcs12.setpassword.label2 "प्रमाणपत्र बैकअप गुड़किल्ली (फेर):">
-<!ENTITY pkcs12.setpassword.reminder "Important: जँ अहँ  अपन  प्रमाणपत्र बैकअप गुड़किल्ली भूल गये  अछि , अहँ एहि बैकअप केँ बाद मे फेर नहि ला पायेंगे. कृप्या  एकटारा  सुरक्षित स्थान मे रिकार्ड  करू .">
+<!ENTITY pkcs12.setpassword.reminder "Important: जँ अहाँ अपन प्रमाणपत्र बैकअप गुड़किल्ली भूलि गेलहुँ, अहाँ एहि बैकअप केँ बाद मे फेर नहि लाबि सकब. कृप्या एकरा सुरक्षित स्थान मे रिकार्ड करू.">
 
 <!ENTITY pkcs12.getpassword.title  "गुड़किल्ली प्रविष्टि संवाद">
-<!ENTITY pkcs12.getpassword.message "गुड़किल्ली यहां डालू जे जे एहि प्रमाणपत्र क गोपन  कलेल  प्रयुक्त  हाएत   अछि .">
+<!ENTITY pkcs12.getpassword.message "गुड़किल्ली एतए डालू जे एहि प्रमाणपत्रक गोपनक लेल प्रयुक्त होइछ.">
 
 <!ENTITY chooseToken.title  "टोकेन समाद चुनू">
-<!ENTITY chooseToken.message1 "एकटाटा टोकेन चुनू.">
+<!ENTITY chooseToken.message1 "एकटा टोकेन चुनू.">
 
 <!ENTITY escrowWarn.title "गोपन कुँजी कापी">
-<!ENTITY escrowWarn.message1 "महत्वपूर्ण: ई प्रमाणपत्र आथोरिटी केँ अहाँक गोपन निज कुँजी क बैकअप  कलेल  कहा जएताह.">
-<!ENTITY escrowWarn.benefit1 "लाभ  अछि  जे जँ अहँ अपने गोपन कुँजी मे अभिगम छोड़ते  अछि , अहँ एहि प्रमाणपत्र आथोरिटी सँ एकटाटा कापी क आग्रह कए सकैत  अछि .">
-<!ENTITY escrowWarn.message2 "हालांकि अहाँक गोपन कुँजी केँ सर्टिफिकेट आथोरिटी क द्वारा जमा कएल जएताह, आओर अहाँक गोपित इमेल केँ पढ़ने  कलेल  प्रयुक्त कएल जा सकेगा बिनु अहाँक अनुमति के.">
+<!ENTITY escrowWarn.message1 "महत्वपूर्ण: ई प्रमाणपत्र आथोरिटी केँ अहाँक गोपन निज कुँजी क बैकअपक लेल कहल जएताह.">
+<!ENTITY escrowWarn.benefit1 "लाभ अछि जे जँ अहाँ अपन गोपन कुँजी मे अभिगम छोड़ैत छी, अहाँ एहि प्रमाणपत्र आथोरिटी सँ एकटा कापी क आग्रह कए सकैत अछि .">
+<!ENTITY escrowWarn.message2 "मुदा अहाँक गोपन कुँजी केँ सर्टिफिकेट आथोरिटी क द्वारा जमा कएल जएताह, आओर अहाँक गोपित इमेल केँ पढ़बाक लेल प्रयुक्त कएल जाए सकत बिनु अहाँक अनुमतिक.">
 
 
 <!-- Strings for protectedAuth dialog -->
 <!ENTITY protectedAuth.title "संरक्षित टोकन सत्यापन">
-<!ENTITY protectedAuth.msg "कृपया टोकन मे सत्यापित  करू . सत्यापन विधि अहाँक टोकन क प्रकार पर निर्भर करैत  अछि .">
+<!ENTITY protectedAuth.msg "कृपया टोकन मे सत्यापित करू. सत्यापन विधि अहाँक टोकन क प्रकार पर निर्भर करैत अछि .">
 <!ENTITY protectedAuth.tokenName.label "टोकन:">
 
 
 <!-- Strings for the CreateCertInfo dialog  -->
-<!ENTITY createCertInfo.title "एकटाटा निज कुँजी उत्पन्न कए रहल  अछि ">
-<!ENTITY createCertInfo.msg1 "कुंजी जनन प्रगति मे  अछि , ई किछु समय लेगा....">
-<!ENTITY createCertInfo.msg2 "कृपया प्रतीक्षा  करू ...">
+<!ENTITY createCertInfo.title "एकटा निज कुँजी उत्पन्न कए रहल अछि ">
+<!ENTITY createCertInfo.msg1 "कुंजी जनन प्रगति मे अछि, ई किछु समय लेत....">
+<!ENTITY createCertInfo.msg2 "कृपया प्रतीक्षा करू ...">
 
 <!-- Form Signing confirmation prompt -->
 <!ENTITY formSigning.title "पाठ हस्ताक्षर आग्रह">
-<!ENTITY formSigning.cert "प्रमाणपत्र हस्ताक्षरित कए रहल  अछि ">
-<!ENTITY formSigning.confirmPassword "ई संपुष्ट करब  कलेल  जे अहँ एहि पाठ संदेश केँ हस्ताक्षर करब  कलेल  सहमत छी  अपन  चयनित प्रमाणपत्र क प्रयोग से, मुख्य गुड़किल्ली डालकर कृप्या संपुष्ट  करू :">
+<!ENTITY formSigning.cert "प्रमाणपत्र हस्ताक्षरित कए रहल अछि ">
+<!ENTITY formSigning.confirmPassword "ई संपुष्ट करबाक लेल जे अहाँ एहि पाठ संदेशकेँ हस्ताक्षर करबाक लेल सहमत छी अपन चयनित प्रमाणपत्र क प्रयोगसँ, मुख्य गुड़किल्ली डालकर कृप्या संपुष्ट करू :">
 
-<!ENTITY serverCrlNextupdate.message " मदति  क लेल सिस्टम प्रशासक सँ पूछू">
+<!ENTITY serverCrlNextupdate.message " मदतिक लेल सिस्टम प्रशासक सँ पूछू">
