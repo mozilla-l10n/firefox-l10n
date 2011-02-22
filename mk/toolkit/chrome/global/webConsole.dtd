@@ -13,3 +13,5 @@
 <!ENTITY networkPanel.responseNoBody "Одговорот нема содржина">
 <!ENTITY networkPanel.responseImage "Примена слика">
 <!ENTITY networkPanel.responseImageCached "Складирана слика">
+
+<!ENTITY networkPanel.responseBodyUnknownType     "Непознат тип на содржина">

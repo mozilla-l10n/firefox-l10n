@@ -29,3 +29,6 @@
 <!ENTITY testpilot.feedbackbutton.label "Коментар">
 <!ENTITY testpilot.happy.label "Firefox ме направи среќен затоа што…">
 <!ENTITY testpilot.sad.label "Firefox ме направи тажен затоа што…">
+
+<!ENTITY testpilot.broken.label      "Пријави го ова место како расипано…">
+<!ENTITY testpilot.idea.label        "Предложете…">

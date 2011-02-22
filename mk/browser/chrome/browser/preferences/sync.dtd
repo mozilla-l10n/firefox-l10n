@@ -41,3 +41,6 @@
 
 <!ENTITY prefs.tosLink.label "Услови за употреба">
 <!ENTITY prefs.ppLink.label "Политика за приватност">
+
+<!ENTITY addDevice.label              "Додај уред">
+<!ENTITY deactivateDevice.label       "Исклучи го овој уред">

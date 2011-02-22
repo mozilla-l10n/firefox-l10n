@@ -123,3 +123,21 @@
 <!ENTITY detailsPane.less.accesskey "о">
 <!ENTITY detailsPane.noPreviewAvailable.label "Преглед">
 <!ENTITY detailsPane.selectAnItemText.description "Одберете ставка за преглед и уредете ги нејзините својства">
+
+<!ENTITY byDate.accesskey         "Д">
+<!ENTITY byDate.label             "Датум">
+<!ENTITY byDayAndSite.accesskey   "т">
+<!ENTITY byDayAndSite.label       "Датум и место">
+<!ENTITY byLastVisited.accesskey  "л">
+<!ENTITY byLastVisited.label      "Последна посета">
+<!ENTITY byMostVisited.accesskey  "ј">
+<!ENTITY byMostVisited.label      "Најчеста посета">
+<!ENTITY bySite.accesskey         "с">
+<!ENTITY bySite.label             "Место">
+<!ENTITY find.accesskey           "Б">
+
+<!ENTITY find.label               "Барај:">
+
+<!ENTITY search.in.label                           "Барај во:">
+<!ENTITY view.accesskey           "р">
+<!ENTITY view.label               "Поглед">

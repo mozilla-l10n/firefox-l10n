@@ -145,3 +145,6 @@
 <!ENTITY exceptionMgr.certstatus.accesskey "П">
 <!ENTITY exceptionMgr.permanent.label "Зачувај го овој исклучок">
 <!ENTITY exceptionMgr.permanent.accesskey "З">
+
+<!ENTITY exceptionMgr.exceptionButton.accesskey "П">
+<!ENTITY exceptionMgr.exceptionButton.label   "Потврди го безб. исклучок">
