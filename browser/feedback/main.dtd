@@ -30,3 +30,5 @@
 <!ENTITY testpilot.feedbackbutton.label                "Përshtypje">
 <!ENTITY testpilot.happy.label        "Firefox-i Më Kënaqi Sepse…">
 <!ENTITY testpilot.sad.label          "Firefox-i Nuk Më Kënaqi Ngaqë…">
+<!ENTITY testpilot.broken.label      "Raportojeni këtë &quot;site&quot; web si të dëmtuar…">
+<!ENTITY testpilot.idea.label        "Na jepni një këshillë…">
