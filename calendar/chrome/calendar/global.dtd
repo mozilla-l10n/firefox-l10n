@@ -1,0 +1,92 @@
+<!-- ***** BEGIN LICENSE BLOCK *****
+   - Version: MPL 1.1/GPL 2.0/LGPL 2.1
+   -
+   - The contents of this file are subject to the Mozilla Public License Version
+   - 1.1 (the "License"); you may not use this file except in compliance with
+   - the License. You may obtain a copy of the License at
+   - http://www.mozilla.org/MPL/
+   -
+   - Software distributed under the License is distributed on an "AS IS" basis,
+   - WITHOUT WARRANTY OF ANY KIND, either express or implied. See the License
+   - for the specific language governing rights and limitations under the
+   - License.
+   -
+   - The Original Code is OEone Calendar Code, released October 31st, 2001.
+   -
+   - The Initial Developer of the Original Code is
+   - OEone Corporation.
+   - Portions created by the Initial Developer are Copyright (C) 2001
+   - the Initial Developer. All Rights Reserved.
+   -
+   - Contributor(s): Garth Smedley <garths@oeone.com>
+   -
+   - Alternatively, the contents of this file may be used under the terms of
+   - either the GNU General Public License Version 2 or later (the "GPL"), or
+   - the GNU Lesser General Public License Version 2.1 or later (the "LGPL"),
+   - in which case the provisions of the GPL or the LGPL are applicable instead
+   - of those above. If you wish to allow use of your version of this file only
+   - under the terms of either the GPL or the LGPL, and not to allow others to
+   - use your version of this file under the terms of the MPL, indicate your
+   - decision by deleting the provisions above and replace them with the notice
+   - and other provisions required by the LGPL or the GPL. If you do not delete
+   - the provisions above, a recipient may use your version of this file under
+   - the terms of any one of the MPL, the GPL or the LGPL.
+   -
+   - ***** END LICENSE BLOCK ***** -->
+
+<!ENTITY time.midnight "Meadhan-oidhche" >
+<!ENTITY time.noon "Meadhan-latha" >
+
+<!-- Day Names -->
+<!-- LOCALIZATION NOTE : Accesskeys for day.1.Ddd to day.7.Ddd are currently
+     only used in Preferences > Views > Workweek groupbox -->
+<!ENTITY day.1.Ddd "DiD" >
+<!ENTITY day.1.Ddd.accesskey "D">
+<!ENTITY day.2.Ddd "DiL" >
+<!ENTITY day.2.Ddd.accesskey "D">
+<!ENTITY day.3.Ddd "DiM" >
+<!ENTITY day.3.Ddd.accesskey "D">
+<!ENTITY day.4.Ddd "DiC" >
+<!ENTITY day.4.Ddd.accesskey "D">
+<!ENTITY day.5.Ddd "Diar" >
+<!ENTITY day.5.Ddd.accesskey "D">
+<!ENTITY day.6.Ddd "Dih" >
+<!ENTITY day.6.Ddd.accesskey "D">
+<!ENTITY day.7.Ddd "DiS" >
+<!ENTITY day.7.Ddd.accesskey "D">
+
+<!ENTITY day.1.name "DiDòmhnaich" >
+<!ENTITY day.2.name "DiLuain" >
+<!ENTITY day.3.name "DiMàirt" >
+<!ENTITY day.4.name "DiCiadain" >
+<!ENTITY day.5.name "DiarDaoin" >
+<!ENTITY day.6.name "DihAoine" >
+<!ENTITY day.7.name "DiSathairne" >
+
+<!-- Units -->
+<!ENTITY calendar.global.units.minute   "mionaid">
+<!ENTITY calendar.global.units.minutes  "mionaid(ean)">
+<!ENTITY calendar.global.units.hour     "uair a thìde">
+<!ENTITY calendar.global.units.hours    "uair(ean) a thìde">
+<!ENTITY calendar.global.units.day      "latha">
+<!ENTITY calendar.global.units.days     "là(ithean)">
+
+<!ENTITY month.1.name "Am Faoilleach" >
+<!ENTITY month.2.name "An Gearran" >
+<!ENTITY month.3.name "Am Màrt" >
+<!ENTITY month.4.name "An Giblean" >
+<!ENTITY month.5.name "An Cèitean" >
+<!ENTITY month.6.name "An t-Ògmhios" >
+<!ENTITY month.7.name "An t-Iuchar" >
+<!ENTITY month.8.name "An Lùnastal" >
+<!ENTITY month.9.name "An t-Sultain" >
+<!ENTITY month.10.name "An Dàmhair" >
+<!ENTITY month.11.name "An t-Samhain" >
+<!ENTITY month.12.name "An Dùbhlachd" >
+
+<!ENTITY onemonthbackward.tooltip "Mìos air ais" >
+<!ENTITY onemonthforward.tooltip "Mìos air adhart" >
+<!ENTITY showToday.tooltip "Rach gun latha an-diugh">
+<!ENTITY onedayforward.tooltip "Latha air adhart">
+<!ENTITY onedaybackward.tooltip "Latha air ais">
+<!ENTITY showselectedday.tooltip "Seall tachartasan an latha a thagh thu">
