@@ -184,32 +184,16 @@
 <!ENTITY calendar.context.newevent.accesskey                "T">
 <!ENTITY calendar.context.newtodo.label                     "Neue Aufgabe…">
 <!ENTITY calendar.context.newtodo.accesskey                 "U">
-<!ENTITY calendar.context.modifytask.label                  "Aufgabe bearbeiten…">
-<!ENTITY calendar.context.modifytask.accesskey              "b">
-<!ENTITY calendar.context.modifyitem.label                  "Eintrag bearbeiten…">
-<!ENTITY calendar.context.modifyitem.accesskey              "b">
 <!ENTITY calendar.context.deletetask.label                  "Aufgabe löschen">
 <!ENTITY calendar.context.deletetask.accesskey              "l">
-<!ENTITY calendar.context.deleteitem.label                  "Löschen">
-<!ENTITY calendar.context.deleteitem.accesskey              "L">
 <!ENTITY calendar.context.deleteevent.label                 "Termin löschen">
 <!ENTITY calendar.context.deleteevent.accesskey             "l">
-<!ENTITY calendar.context.deletethisevent.label             "Diesen Termin">
-<!ENTITY calendar.context.deletethisevent.accesskey         "T">
-<!ENTITY calendar.context.deletecompleteseries.label        "Komplette Serie">
-<!ENTITY calendar.context.deletecompleteseries.accesskey    "S">
-<!ENTITY calendar.context.deletefutureevents.label          "Alle zukünftigen Termine">
-<!ENTITY calendar.context.deletefutureevents.accesskey      "z">
-<!ENTITY calendar.context.deletefuturetasks.label           "Alle zukünftigen Aufgaben">
-<!ENTITY calendar.context.deletefuturetasks.accesskey       "z">
 <!ENTITY calendar.context.cutevent.label                    "Ausschneiden">
 <!ENTITY calendar.context.cutevent.accesskey                "A">
 <!ENTITY calendar.context.copyevent.label                   "Kopieren">
 <!ENTITY calendar.context.copyevent.accesskey               "K">
 <!ENTITY calendar.context.pasteevent.label                  "Einfügen">
 <!ENTITY calendar.context.pasteevent.accesskey              "E">
-<!ENTITY calendar.context.selectall.label                   "Alles markieren">
-<!ENTITY calendar.context.selectall.accesskey               "m">
 <!ENTITY calendar.context.button.label                      "Tagesplan">
 <!ENTITY calendar.context.button.accesskey                  "T">
 
