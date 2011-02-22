@@ -1,0 +1,17 @@
+<!ENTITY  splash_screen_label "kargatzen">
+<!ENTITY  splash_screen_installing "liburutegiak instalatzen\u2026">
+<!ENTITY  incompatable_cpu_error "Gailu honek ez ditu sistemaren gutxieneko beharrak betetzen &brandShortName;(r)entzat.">
+<!ENTITY  no_space_to_start_error "Ez dago toki libre nahikorik &brandShortName; hasteko.">
+<!ENTITY  error_loading_file "Errorea gertatu da &brandShortName; exekutatzeko behar diren fitxategiak kargatzean">
+
+<!ENTITY  crash_reporter_title "&brandShortName; hutsegite-berriemailea">
+<!ENTITY  crash_message "&brandShortName;(e)k huts egin du. Berrabiaraztean, &brandShortName;(r)en hasiera-orrian zerrendatuko dira zure fitxak.">
+<!ENTITY  crash_help_message "Lagun gaitzazu arazo hau konpontzen!">
+<!ENTITY  crash_send_report_message "Bidali Mozillari hutsegite-txostena">
+<!ENTITY  crash_include_url "Sartu orriaren helbidea">
+<!ENTITY  crash_close_label "Itxi">
+<!ENTITY  crash_restart_label "Berrabiarazi &brandShortName;">
+<!ENTITY  sending_crash_report "Hutsegite-txostena bidaltzen\u2026">
+<!ENTITY  exit_label "Irten">
+<!ENTITY  incompatable_device "&brandShortName;(e)k ez du gailu hau onartzen eta arazoak eduki ditzakezu.">
+<!ENTITY  continue_label "Jarraitu">

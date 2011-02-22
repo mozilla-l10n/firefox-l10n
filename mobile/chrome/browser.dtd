@@ -109,7 +109,6 @@
 <!ENTITY pageactions.reset           "Garbitu gunearen hobespenak">
 <!ENTITY pageactions.findInPage      "Bilatu orrian">
 <!ENTITY pageactions.search.addNew   "Gehitu bilaketa-motorra">
-
-<!ENTITY selectHelper.emptytext      "Iragazi zerrenda">
+<!ENTITY pageactions.charEncoding    "Karaktere-kodeketa">
 
 <!ENTITY appMenu.siteOptions         "Gunearen aukerak">
