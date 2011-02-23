@@ -213,7 +213,7 @@
 <!ENTITY calendar.context.markcompleted.label     "Cuir comharra gu bheil e crìochnaichte">
 <!ENTITY calendar.context.markcompleted.accesskey "o">
 
-<!ENTITY progress.level.0             "10&percnt; crìochnaichte">
+<!ENTITY progress.level.0             "0&percnt; crìochnaichte">
 <!ENTITY progress.level.0.accesskey   "0">
 <!ENTITY progress.level.25            "25&percnt; crìochnaichte">
 <!ENTITY progress.level.25.accesskey  "2">
@@ -232,6 +232,12 @@
 <!ENTITY priority.level.normal.accesskey    "À">
 <!ENTITY priority.level.high                "Àrd">
 <!ENTITY priority.level.high.accesskey      "À">
+
+<!-- Task View -->
+<!-- Note that the above *.context.* strings are currently used for the other
+     task action buttons -->
+<!ENTITY calendar.taskview.delete.label     "Sguab às">
+<!ENTITY calendar.taskview.delete.accesskey "S">
 
 <!-- Server Context Menu -->
 <!ENTITY calendar.context.newserver.label              "Mìosachan ùr…">
