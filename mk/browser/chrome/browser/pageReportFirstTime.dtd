@@ -1,7 +1,0 @@
-<!ENTITY startDescriptionText.label "A web site has attempted to open a pop-up window without your permission. &brandShortName; has automatically closed the pop-up window.">
-
-<!ENTITY endDescription.label "Кликнете на оваа икона за да видите кои места биле блокирани од &brandShortName; и за да дозволите тие да отвораат скокачки прозорци ако тоа е потребно за нивната работа.">
-
-<!ENTITY caption.label "За блокирањето на скокачки">
-
-<!ENTITY done.label "Заврши">
