@@ -184,7 +184,7 @@
 <!-- ENTITY bookmarksSidebarCmd.commandkey "b" -->
 <!-- ENTITY bookmarksSidebarWinCmd.commandkey "i" -->
 <!ENTITY addonBarCmd.label "অতিরিক্ত সামগ্রীর বার">
-<!ENTITY addonBarCmd.accesskey "B">
+<!ENTITY addonBarCmd.accesskey "A">
 
 <!-- LOCALIZATION NOTE (bookmarksSidebarGtkCmd.commandkey): This command
   -  key should not contain the letters A-F, since these are reserved
@@ -364,7 +364,7 @@
 <!ENTITY openFrameCmdInTab.label      "নতুন ট্যাবের মধ্যে ফ্রেম খোলা হবে">
 <!ENTITY openFrameCmdInTab.accesskey  "T">
 <!ENTITY showOnlyThisFrameCmd.label     "শুধুমাত্র বর্তমান ফ্রেম প্রদর্শন করা হবে">
-<!ENTITY showOnlyThisFrameCmd.accesskey "w">
+<!ENTITY showOnlyThisFrameCmd.accesskey "S">
 <!ENTITY reloadCmd.commandkey         "r">
 <!ENTITY reloadFrameCmd.label         "ফ্রেম পুনরায় লোড করুন">
 <!ENTITY reloadFrameCmd.accesskey     "R">
@@ -432,7 +432,7 @@
 
 
 <!ENTITY copyLinkCmd.label            "লিঙ্কের দ্বারা চিহ্নিত অবস্থান কপি করুন">
-<!ENTITY copyLinkCmd.accesskey        "C">
+<!ENTITY copyLinkCmd.accesskey        "a">
 <!-- ENTITY copyLinkTextCmd.label        "লিঙ্কের জন্য প্রদর্শিত তথ্য কপি করুন" -->
 <!-- ENTITY copyLinkTextCmd.accesskey    "x" -->
 <!ENTITY copyImageCmd.label           "ছবির অবস্থান কপি করুন">
@@ -508,7 +508,7 @@
 <!ENTITY dontShowMessage.accesskey "D">
 
 <!ENTITY bidiSwitchPageDirectionItem.label        "পৃষ্ঠার দিশা পরিবর্তন করুন">
-<!ENTITY bidiSwitchPageDirectionItem.accesskey    "g">
+<!ENTITY bidiSwitchPageDirectionItem.accesskey    "D">
 <!ENTITY bidiSwitchTextDirectionItem.label        "লেখনির দিশা পরিবর্তন করুন">
 <!ENTITY bidiSwitchTextDirectionItem.accesskey    "w">
 <!ENTITY bidiSwitchTextDirectionItem.commandkey   "X">
@@ -585,9 +585,9 @@
 
 <!-- LOCALIZATION NOTE : These two strings can share an access key beause they never appear together on the menu -->
 <!ENTITY privateBrowsingCmd.start.label         "ব্যক্তিগত ব্রাউজিং ব্যবস্থা আরম্ভ করুন">
-<!ENTITY privateBrowsingCmd.start.accesskey     "B">
+<!ENTITY privateBrowsingCmd.start.accesskey     "P">
 <!ENTITY privateBrowsingCmd.stop.label          "ব্যক্তিগত ব্রাউজিং ব্যবস্থা বন্ধ করুন">
-<!ENTITY privateBrowsingCmd.stop.accesskey      "B">
+<!ENTITY privateBrowsingCmd.stop.accesskey      "P">
 <!ENTITY privateBrowsingCmd.commandkey          "P">
 
 <!-- LOCALIZATION NOTE (pinAppTab.label, unpinAppTab.label): "Pin" is being
