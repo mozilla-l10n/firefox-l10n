@@ -103,7 +103,6 @@ can reach it easily. -->
 <!ENTITY subscribeToPageMenupopup.label "Претплати се на оваа страница">
 <!ENTITY subscribeToPageMenuitem.label "Претплати се на оваа страница…">
 <!ENTITY addCurPagesCmd.label "Обележи ги сите јазичиња…">
-<!ENTITY showAllBookmarks.label "Покажи ги сите обележувачи…">
 <!ENTITY bookmarkAllCmd.label "Обележи ги сите јазичиња…">
 <!ENTITY bookmarksToolbarChevron.tooltip "Покажува уште обележувачи">
 
@@ -113,7 +112,6 @@ can reach it easily. -->
 <!ENTITY forwardCmd.label "Напред">
 <!ENTITY forwardCmd.accesskey "а">
 <!ENTITY forwardButton.tooltip "Оди една страница напред">
-<!ENTITY backForwardMenu.tooltip "Скорешни страници">
 <!ENTITY reloadCmd.label "Превчитај">
 <!ENTITY reloadCmd.accesskey "ч">
 <!ENTITY reloadButton.tooltip "Ја освежува вчитаната страница">
@@ -237,8 +235,6 @@ can reach it easily. -->
 <!ENTITY selectAllCmd.label "Избери сè">
 <!ENTITY selectAllCmd.key "A">
 <!ENTITY selectAllCmd.accesskey "е">
-<!ENTITY preferencesCmd.label "Опции…">
-<!ENTITY preferencesCmd.accesskey "О">
 <!ENTITY preferencesCmdUnix.label "Преференции">
 <!ENTITY preferencesCmdUnix.accesskey "ф">
 
@@ -514,10 +510,6 @@ you can use these alternative items. Otherwise, their values should be empty.  -
 <!ENTITY editBookmark.done.label "Во ред">
 <!ENTITY editBookmark.cancel.label "Откажи">
 <!ENTITY editBookmark.removeBookmark.accessKey "р">
-<!ENTITY editBookmark.undo.label "Врати">
-<!ENTITY editBookmark.undo.accessKey "В">
-<!ENTITY editBookmark.edit.label "Уреди…">
-<!ENTITY editBookmark.edit.accessKey "е">
 
 <!ENTITY identity.unverifiedsite2 "Ова мрежно место не доставува информации за идентитетот.">
 <!ENTITY identity.connectedTo "Страницата">
