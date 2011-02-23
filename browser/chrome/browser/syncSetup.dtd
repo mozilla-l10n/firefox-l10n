@@ -4,7 +4,6 @@
 
 <!ENTITY setup.pickSetupType.description "Добредојдовте, ако до сега не сте го користиле &syncBrand.fullName.label;, прво треба да креирате нова сметка.">
 <!ENTITY button.createNewAccount.label "Креирај нова сметка">
-<!ENTITY button.haveAccount.label "Имам сметка на &syncBrand.fullName.label;">
 
 <!ENTITY setup.choicePage.title.label "Дали до сега сте го користеле &syncBrand.fullName.label;?">
 <!ENTITY setup.choicePage.new.label "До сега не сум го користел &syncBrand.shortName.label;.">
@@ -13,13 +12,8 @@
 
 <!ENTITY server.label "Сервер">
 <!ENTITY serverType.main.label "&syncBrand.fullName.label; сервер">
-<!ENTITY serverType.custom.label "Користи сопствен сервер">
-<!ENTITY signIn.account.label "Адреса за е-пошта / Корисничко име">
-<!ENTITY signIn.account.accesskey "е">
 <!ENTITY signIn.password.label "Лозинка">
 <!ENTITY signIn.password.accesskey "Л">
-<!ENTITY signIn.serverURL.label "URL на сервер">
-<!ENTITY signIn.serverURL.accesskey "L">
 <!-- New Account Page 1: Basic Account Info -->
 
 <!ENTITY setup.newAccountDetailsPage.title.label "Детали за сметката">
@@ -43,8 +37,6 @@
 <!ENTITY syncKeyEntry.label "Вашиот клуч Sync">
 <!ENTITY syncKeyEntry.accesskey "к">
 <!ENTITY syncKeyGenerate.label "Генерирај">
-<!ENTITY syncKeyStrength.label "Strength:">
-<!ENTITY syncKeyHelp.label "What does the strength mean?">
 <!ENTITY syncKeyBackup.description "Вашиот клуч за Sync е потребен за да се пристапи до &syncBrand.fullName.label; на другите машини. Ве молиме креирајте резрвна копија. Не можеме да Ви помогнеме да го добиете назад.">
 
 <!ENTITY button.syncKeyBackup.print.label "Печати…">
@@ -56,15 +48,9 @@
 <!ENTITY setup.captchaPage2.title.label "Потврдете дека не сте робот">
 <!-- Existing Account Page 1: Login -->
 
-<!ENTITY setup.existingAccount.title.label "Внесете информации за сметката">
 <!ENTITY resetPassword.label "Рестирај лозинка">
-<!ENTITY connecting.label "Се поврзува…">
 <!-- Existing Account Page 2: Sync Key -->
 
-<!ENTITY setup.existingSyncKeyPage.title "Внесете го Вашиот Sync клуч">
-<!ENTITY setup.existingSyncKeyPage.description "Клучот за Sync бил генериран или Вие сте го внесле, кога прв пат сте се пријавиле во &syncBrand.fullName.label;. Тој не е ист како Вашата лозинка.">
-<!ENTITY existingSyncKeyHelp.description "Можете да го најдете вашиот снимен клуч за Sync со проверка на снимените лозинки во „Безбедност“ на Вашиот друг компјутер. Ако пак не можете да го најдете точниот клуч, може да го ресетирате, но ќе ги изгубите податоците снимени на серверот.">
-<!ENTITY lostSyncKey.label "Го загубив мојот Sync клуч">
 <!ENTITY verifying.label "Проверувам…">
 <!-- Sync Options -->
 
@@ -92,11 +78,7 @@
 
 <!ENTITY setup.optionsConfirmPage.title "Потврди">
 <!ENTITY confirm.merge.label "&syncBrand.fullName.label; сега ќе ги спои сите податоци од овој компјутер со Вашата Sync.">
-<!ENTITY confirm.client.label "Сите &brandShortName; податоци ќе бидат избришани, вклучувајќи ги и следните:">
 <!ENTITY confirm.client.moreinfo.label "&brandShortName; потоа ќе ги копира Вашите податоци од &syncBrand.fullName.label; на овој компјутер.">
-<!ENTITY confirm.client.warning.label "ПРЕДУПРЕДУВАЊе: Ова ќе резултира со заменување на сите податоци на &brandShortName; на овој компјутер!">
-<!ENTITY confirm.server.label "Следниве уреди ќе бидат пребришани со Вашите локални податоци:">
-<!ENTITY confirm.server.warning.label "ПРЕДУПРЕДУВАЊЕ: Вашите локални податоци ќе ги заменета сите податоци на &brandShortName;  на овие уреди.">
 <!-- New & Existing Account: Setup Complete -->
 
 <!ENTITY setup.successPage.title "Инсталирањето е завшено">

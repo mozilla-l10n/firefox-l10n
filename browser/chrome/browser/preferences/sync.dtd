@@ -4,8 +4,6 @@
 <!ENTITY weaveDesc.label "&syncBrand.fullName.label; Ви дозволува да имате пристап до Вашата историја, обележувачи, лозинки и отворени јазичиња на сите Ваши уреди.">
 <!-- The page shown when logged in... -->
 
-<!ENTITY accountGroupboxCaption.label "&syncBrand.fullName.label; сметка">
-<!ENTITY currentAccount.label "Тековна сметка:">
 <!-- Login error feedback -->
 
 <!ENTITY updatePass.label "Надградба">
@@ -18,10 +16,8 @@
 <!ENTITY changePassword.label "Промени лозинка">
 <!ENTITY mySyncKey.label "Мојот клуч за Sync">
 <!ENTITY resetSync.label "Ресетирај го Sync">
-<!ENTITY stopUsingAccount.label "Престани да ја користиш оваа сметка">
 <!-- Sync Settings -->
 
-<!ENTITY syncPrefsCaption.label "Browser Sync">
 <!ENTITY syncComputerName.label "Име на компјутерот:">
 <!ENTITY syncComputerName.accesskey "к">
 
