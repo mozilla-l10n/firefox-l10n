@@ -156,13 +156,13 @@
 <!ENTITY warning.checkcompatibility.enable.label   "સક્રિય">
 <!ENTITY warning.checkcompatibility.enable.tooltip "ઍડ-ઓન સુસંગતતા ચકાસણીને સક્રિય કરો">
 <!ENTITY warning.checkcompatibility.label          "ઍડ-ઓન સુસંગતતા ચકાસણી નિષ્ક્રિય થયેલ છે. તમારી પાસે અસુસંગત ઍડ-ઓન હોઇ શકે છે.">
-<!ENTITY warning.safemode.label                    "બધા ઍડ-ઓન safe mode દ્દારા નિષ્ક્રિય કરી દેવામાં આવ્યા છે.">
+<!ENTITY warning.safemode.label                    "બધા ઍડ-ઓન સલામત સ્થિતિ દ્દારા નિષ્ક્રિય કરી દેવામાં આવ્યા છે.">
 <!ENTITY warning.updatesecurity.enable.label       "સક્રિય">
 <!ENTITY warning.updatesecurity.enable.tooltip     "ઍડ-ઓન સુધારા સુરક્ષા ચકાસણીને સક્રિય કરો">
 <!ENTITY warning.updatesecurity.label              "ઍડ-ઓન સુધારા સુરક્ષા ચકાસણી નિષ્ક્રિય થયેલ છે. તમારે સુધારાઓ વડે સમાધાન કરી શકો છો.">
 <!ENTITY eula.accept                          "સ્વીકારો અને સ્થાપિત કરો…">
 <!ENTITY eula.height                          "400px">
-<!ENTITY eula.title                           "End-User License Agreement">
+<!ENTITY eula.title                           "અંતિમ-વપરાશકર્તા લાઇસન્સ સંમતિ">
 <!ENTITY eula.width                           "560px">
 
 
