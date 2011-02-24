@@ -168,6 +168,8 @@
 <!ENTITY calendar.task-details.category.label        "Kategooria:">
 <!ENTITY calendar.task-details.repeat.label          "Kordumine:">
 <!ENTITY calendar.task-details.attachments.label     "Kaasatud failid:">
+<!ENTITY calendar.task-details.start.label           "Alguskuupäev">
+<!ENTITY calendar.task-details.due.label             "Tähtaeg">
 
 <!ENTITY calendar.task.category.button.tooltip  "Kategoriseeri ülesandeid">
 <!ENTITY calendar.task.complete.button.tooltip  "Märgi valitud ülesanded tehtuks">
@@ -185,34 +187,22 @@
 <!ENTITY calendar.context.newevent.accesskey          "s">
 <!ENTITY calendar.context.newtodo.label               "Uus ülesanne…">
 <!ENTITY calendar.context.newtodo.accesskey           "ü">
-<!ENTITY calendar.context.modifytask.label            "Muuda ülesannet…">
-<!ENTITY calendar.context.modifytask.accesskey        "e">
-<!ENTITY calendar.context.modifyitem.label            "Muuda">
-<!ENTITY calendar.context.modifyitem.accesskey        "M">
 <!ENTITY calendar.context.deletetask.label            "Kustuta ülesanne">
 <!ENTITY calendar.context.deletetask.accesskey        "K">
-<!ENTITY calendar.context.deleteitem.label            "Kustuta">
-<!ENTITY calendar.context.deleteitem.accesskey        "K">
 <!ENTITY calendar.context.deleteevent.label           "Kustuta sündmus">
 <!ENTITY calendar.context.deleteevent.accesskey       "u">
-<!ENTITY calendar.context.deletethisevent.label       "See sündmus">
-<!ENTITY calendar.context.deletethisevent.accesskey   "d">
-<!ENTITY calendar.context.deletecompleteseries.label  "Kogu seeria">
-<!ENTITY calendar.context.deletecompleteseries.accesskey   "i">
-<!ENTITY calendar.context.deletefutureevents.label     "Kõik tulevased sündmused">
-<!ENTITY calendar.context.deletefutureevents.accesskey "t">
-<!ENTITY calendar.context.deletefuturetasks.label     "Kõik tulevased ülesanded">
-<!ENTITY calendar.context.deletefuturetasks.accesskey "n">
 <!ENTITY calendar.context.cutevent.label              "Lõika">
 <!ENTITY calendar.context.cutevent.accesskey          "L">
 <!ENTITY calendar.context.copyevent.label             "Kopeeri">
 <!ENTITY calendar.context.copyevent.accesskey         "o">
 <!ENTITY calendar.context.pasteevent.label            "Aseta">
 <!ENTITY calendar.context.pasteevent.accesskey        "A">
-<!ENTITY calendar.context.selectall.label             "Vali kõik">
-<!ENTITY calendar.context.selectall.accesskey         "V">
 <!ENTITY calendar.context.button.label                "Tänased tegemised" >
 <!ENTITY calendar.context.button.accesskey            "ä" >
+<!ENTITY calendar.context.attendance.menu.label       "Osavõtt" >
+<!ENTITY calendar.context.attendance.menu.accesskey   "O" >
+<!ENTITY calendar.context.attendance.occurrence.label "See kord" >
+<!ENTITY calendar.context.attendance.all.label        "Kõik korrad" >
 
 <!-- Task Context Menu -->
 <!ENTITY calendar.context.progress.label              "Edenemine">
@@ -244,6 +234,12 @@
 <!ENTITY priority.level.normal.accesskey    "t">
 <!ENTITY priority.level.high                "kõrge">
 <!ENTITY priority.level.high.accesskey      "k">
+
+<!-- Task View -->
+<!-- Note that the above *.context.* strings are currently used for the other
+     task action buttons -->
+<!ENTITY calendar.taskview.delete.label     "Kustuta">
+<!ENTITY calendar.taskview.delete.accesskey "K">
 
 <!-- Server Context Menu -->
 <!ENTITY calendar.context.newserver.label              "Uus kalender…">
@@ -300,25 +296,33 @@
 <!ENTITY calendar.alarm.snooze.2hours.label         "2 tundi" >
 <!ENTITY calendar.alarm.snooze.1day.label           "1 päev" >
 
+<!-- LOCALIZATION NOTE (calendar.alarm.snooze.cancel)
+     This string is not seen in the UI, it is read by screen readers when the
+     user focuses the "Cancel" button in the "Snooze for..." popup of the alarm
+     dialog. -->
+<!ENTITY calendar.alarm.snooze.cancel               "Tühista meeldetuletus">
+
 <!-- Calendar Server Dialog -->
 <!ENTITY calendar.server.dialog.title.edit          "Kalendri omadused">
 <!ENTITY calendar.server.dialog.name.label          "Kalendri nimi:">
 
 <!-- Calendar Properties -->
-<!ENTITY calendarproperties.color.label           "Värv:">
-<!ENTITY calendarproperties.webdav.label          "iCalendar (ICS)">
-<!ENTITY calendarproperties.caldav.label          "CalDAV">
-<!ENTITY calendarproperties.wcap.label            "Sun Java System Calendar Server (WCAP)">
-<!ENTITY calendarproperties.format.label          "Vorming:">
-<!ENTITY calendarproperties.location.label        "Asukoht:">
-<!ENTITY calendarproperties.name.label            "Nimi:">
-<!ENTITY calendarproperties.readonly.label        "Kirjutuskaitstud">
-<!ENTITY calendarproperties.firealarms.label      "Näita meeldetuletusi">
-<!ENTITY calendarproperties.cache.label           "Puhver (EKSPERIMENTAALNE, vajab taaskäivitust)">
-<!ENTITY calendarproperties.enabled.label         "Lülita kalender sisse">
-<!ENTITY calendarproperties.forceDisabled.label   "Sellele kalendrile ei leitud teenusepakkujat. Sageli põhjustab seda mõne lisa keelamine või eemaldamine.">
-<!ENTITY calendarproperties.unsubscribe.label     "Lõpeta tellimine">
-<!ENTITY calendarproperties.unsubscribe.accesskey "L">
+<!ENTITY calendarproperties.color.label                   "Värv:">
+<!ENTITY calendarproperties.webdav.label                  "iCalendar (ICS)">
+<!ENTITY calendarproperties.caldav.label                  "CalDAV">
+<!ENTITY calendarproperties.wcap.label                    "Sun Java System Calendar Server (WCAP)">
+<!ENTITY calendarproperties.format.label                  "Vorming:">
+<!ENTITY calendarproperties.location.label                "Asukoht:">
+<!ENTITY calendarproperties.refreshInterval.label         "Kalendrit värskendatakse:">
+<!ENTITY calendarproperties.refreshInterval.manual.label  "käsitsi">
+<!ENTITY calendarproperties.name.label                    "Nimi:">
+<!ENTITY calendarproperties.readonly.label                "Kirjutuskaitstud">
+<!ENTITY calendarproperties.firealarms.label              "Näita meeldetuletusi">
+<!ENTITY calendarproperties.cache.label                   "Puhver (EKSPERIMENTAALNE, vajab taaskäivitust)">
+<!ENTITY calendarproperties.enabled.label                 "Lülita kalender sisse">
+<!ENTITY calendarproperties.forceDisabled.label           "Sellele kalendrile ei leitud teenusepakkujat. Sageli põhjustab seda mõne lisa keelamine või eemaldamine.">
+<!ENTITY calendarproperties.unsubscribe.label             "Lõpeta tellimine">
+<!ENTITY calendarproperties.unsubscribe.accesskey         "L">
 
 <!-- Calendar Publish Dialog -->
 <!ENTITY calendar.publish.dialog.title              "Kalendri avaldamine">

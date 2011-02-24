@@ -49,6 +49,3 @@
 <!ENTITY pref.defaultlength.accesskey "e">
 <!ENTITY pref.defaultsnoozelength.label "Vaikimisi edasi lükkamise kestus:" >
 <!ENTITY pref.defaultsnoozelength.accesskey "t">
-<!ENTITY pref.refreshbox.label "Värskendamise sätted" >
-<!ENTITY pref.autorefresh.label "Värskenda kalendreid pärast iga" >
-<!ENTITY pref.autorefresh.accesskey "V" >

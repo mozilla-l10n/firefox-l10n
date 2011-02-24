@@ -375,7 +375,11 @@
 <!-- Read-Only dialog -->
 <!ENTITY read.only.general.label         "Üldine">
 <!ENTITY read.only.title.label           "Pealkiri:">
-<!ENTITY read.only.repeat.label          "Korda:">
+<!ENTITY read.only.event.start.label     "Alguskuupäev">
+<!ENTITY read.only.task.start.label      "Alguskuupäev:">
+<!ENTITY read.only.event.end.label       "Lõppkuupäev:">
+<!ENTITY read.only.task.due.label        "Tähtaeg:">
+<!ENTITY read.only.repeat.label          "Kordumine:">
 <!ENTITY read.only.location.label        "Asukoht:">
 <!ENTITY read.only.category.label        "Kategooria:">
 <!ENTITY read.only.organizer.label       "Organiseerija:">
