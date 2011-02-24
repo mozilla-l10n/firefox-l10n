@@ -72,7 +72,7 @@
 <!ENTITY Diskspace                "Miejsce na dysku">
 <!ENTITY offlineCompact.label     "Automatycznie porządkuj foldery, gdy zaoszczędzi to więcej niż">
 <!ENTITY offlineCompact.accesskey "A">
-<!ENTITY kb.label                 "KB">
+<!ENTITY mb.label                 "MB">
 
 <!ENTITY useCacheBefore.label     "Używaj maksymalnie">
 <!ENTITY useCacheBefore.accesskey "m">
