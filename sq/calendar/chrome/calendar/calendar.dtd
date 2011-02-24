@@ -165,6 +165,10 @@
 <!ENTITY calendar.task-details.category.label        "kategori">
 <!ENTITY calendar.task-details.repeat.label          "përsërite">
 <!ENTITY calendar.task-details.attachments.label     "bashkangjitje">
+<!ENTITY calendar.task-details.start.label           "datë fillimi">
+<!ENTITY calendar.task-details.due.label             "datë mbarimi">
+
+
 
 <!ENTITY calendar.task.category.button.tooltip  "Kategorizoni punët">
 <!ENTITY calendar.task.complete.button.tooltip  "Shënoji punët e përzgjedhura si të plotësuara">
@@ -194,6 +198,10 @@
 <!ENTITY calendar.context.pasteevent.accesskey        "N">
 <!ENTITY calendar.context.button.label                "Kutia për Sot" >
 <!ENTITY calendar.context.button.accesskey            "K" >
+<!ENTITY calendar.context.attendance.menu.label       "Pjesëmarrje" >
+<!ENTITY calendar.context.attendance.menu.accesskey   "j" >
+<!ENTITY calendar.context.attendance.occurrence.label "Këtë Herë" >
+<!ENTITY calendar.context.attendance.all.label        "Gjithë Herët" >
 
 <!-- Task Context Menu -->
 <!ENTITY calendar.context.progress.label              "Ecuri">

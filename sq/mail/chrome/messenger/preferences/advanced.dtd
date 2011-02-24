@@ -78,7 +78,7 @@
 <!ENTITY Diskspace "Hapësirë Disku">
 <!ENTITY offlineCompact.label "Ngjesh dosje, nëse kështu kursehet vend">
 <!ENTITY offlineCompact.accesskey "N">
-<!ENTITY kb.label "KB">
+<!ENTITY mb.label "MB">
 
 <!-- LOCALIZATION NOTE:
   The entities useCacheBefore.label and useCacheAfter.label appear on a single
