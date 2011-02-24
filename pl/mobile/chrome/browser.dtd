@@ -24,6 +24,7 @@
 <!ENTITY historyHeader.label       "Historia">
 <!ENTITY desktopHeader.label       "Inne">
 
+<!ENTITY editBookmarkDialog.title  "Edycja zakładki">
 <!ENTITY editBookmarkDone.label    "Gotowe">
 <!ENTITY editBookmarkTags.label    "Dodaj etykiety">
 
@@ -108,7 +109,6 @@ just addresses the organization to follow, e.g. "This site is run by " -->
 <!ENTITY pageactions.reset           "Wyczyść preferencje witryny">
 <!ENTITY pageactions.findInPage      "Znajdź na stronie">
 <!ENTITY pageactions.search.addNew   "Dodaj wyszukiwarkę">
-
-<!ENTITY selectHelper.emptytext      "Zawęź listę">
+<!ENTITY pageactions.charEncoding    "Kodowanie znaków">
 
 <!ENTITY appMenu.siteOptions         "Informacje o stronie">
