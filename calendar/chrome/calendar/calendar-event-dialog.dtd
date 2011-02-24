@@ -378,6 +378,10 @@
 <!-- Read-Only dialog -->
 <!ENTITY read.only.general.label         "Të përgjithshme">
 <!ENTITY read.only.title.label           "Titull:">
+<!ENTITY read.only.event.start.label     "Datë Fillimi:">
+<!ENTITY read.only.task.start.label      "Datë Fillimi:">
+<!ENTITY read.only.event.end.label       "Datë Mbarimi:">
+<!ENTITY read.only.task.due.label        "Datë Përfundimi:">
 <!ENTITY read.only.repeat.label          "Përsëritje:">
 <!ENTITY read.only.location.label        "Vend:">
 <!ENTITY read.only.category.label        "Kategori:">
