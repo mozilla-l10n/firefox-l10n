@@ -6,11 +6,6 @@
 
 <!ENTITY abouthome.pageTitle "&brandFullName; іске қосылу парағы">
 
-<!-- LOCALIZATION NOTE (abouthome.brandStart):
-     brandShortName must be in a <span/>
--->
-<!ENTITY abouthome.brandStart "<span>&brandShortName;</span> іске қосылуы">
-
 <!ENTITY abouthome.searchEngineButton.label "Іздеу">
 
 <!ENTITY abouthome.aboutMozilla "Mozilla туралы">
