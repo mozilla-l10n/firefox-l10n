@@ -172,6 +172,8 @@
 <!ENTITY calendar.task-details.category.label        "categoría">
 <!ENTITY calendar.task-details.repeat.label          "repetir">
 <!ENTITY calendar.task-details.attachments.label     "adjuntos">
+<!ENTITY calendar.task-details.start.label           "fecha de inicio">
+<!ENTITY calendar.task-details.due.label             "fecha de fin">
 
 <!ENTITY calendar.task.category.button.tooltip  "Categorizar tareas">
 <!ENTITY calendar.task.complete.button.tooltip  "Marcar tareas seleccionadas como completas">
@@ -201,6 +203,10 @@
 <!ENTITY calendar.context.pasteevent.accesskey        "P">
 <!ENTITY calendar.context.button.label                "Vista de hoy" >
 <!ENTITY calendar.context.button.accesskey            "T" >
+<!ENTITY calendar.context.attendance.menu.label       "Asistencia" >
+<!ENTITY calendar.context.attendance.menu.accesskey   "s" >
+<!ENTITY calendar.context.attendance.occurrence.label "Esta vez" >
+<!ENTITY calendar.context.attendance.all.label        "Todas las veces" >
 
 <!-- Task Context Menu -->
 <!ENTITY calendar.context.progress.label              "Progreso">
