@@ -380,6 +380,10 @@
 
 <!ENTITY read.only.general.label         "Allgemein">
 <!ENTITY read.only.title.label           "Titel:">
+<!ENTITY read.only.event.start.label     "Beginn:">
+<!ENTITY read.only.task.start.label      "Beginn:">
+<!ENTITY read.only.event.end.label       "Ende:">
+<!ENTITY read.only.task.due.label        "Fällig:">
 <!ENTITY read.only.repeat.label          "Wiederholen:">
 <!ENTITY read.only.location.label        "Ort:">
 <!ENTITY read.only.category.label        "Kategorie:">
