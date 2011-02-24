@@ -78,7 +78,7 @@
 <!ENTITY Diskspace                      "Speicherplatz">
 <!ENTITY offlineCompact.label           "Ordner komprimieren, wenn dies mehr Platz spart als">
 <!ENTITY offlineCompact.accesskey       "k">
-<!ENTITY kb.label                       "KB">
+<!ENTITY mb.label                       "MB">
 
 <!-- LOCALIZATION NOTE:
   The entities useCacheBefore.label and useCacheAfter.label appear on a single
