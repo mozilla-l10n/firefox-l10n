@@ -169,6 +169,8 @@
 <!ENTITY calendar.task-details.category.label "Kategori">
 <!ENTITY calendar.task-details.repeat.label "Gentag">
 <!ENTITY calendar.task-details.attachments.label "vedhæftede filer">
+<!ENTITY calendar.task-details.start.label           "startdato">
+<!ENTITY calendar.task-details.due.label             "slutdato">
 
 <!ENTITY calendar.task.category.button.tooltip "Kategoriser opgaver">
 <!ENTITY calendar.task.complete.button.tooltip "Marker valgte opgaver som fuldførte">
@@ -186,34 +188,23 @@
 <!ENTITY calendar.context.newevent.accesskey "N">
 <!ENTITY calendar.context.newtodo.label "Ny opgave…">
 <!ENTITY calendar.context.newtodo.accesskey "y">
-<!ENTITY calendar.context.modifytask.label "Rediger opgave…">
-<!ENTITY calendar.context.modifytask.accesskey "R">
-<!ENTITY calendar.context.modifyitem.label "Rediger begivenhed">
-<!ENTITY calendar.context.modifyitem.accesskey "e">
 <!ENTITY calendar.context.deletetask.label "Slet opgave">
 <!ENTITY calendar.context.deletetask.accesskey "o">
-<!ENTITY calendar.context.deleteitem.label "Slet begivenhed">
-<!ENTITY calendar.context.deleteitem.accesskey "l">
 <!ENTITY calendar.context.deleteevent.label "Slet valgte begivenhed">
 <!ENTITY calendar.context.deleteevent.accesskey "b">
-<!ENTITY calendar.context.deletethisevent.label "Denne begivenhed">
-<!ENTITY calendar.context.deletethisevent.accesskey "D">
-<!ENTITY calendar.context.deletecompleteseries.label "Hele rækken">
-<!ENTITY calendar.context.deletecompleteseries.accesskey "H">
-<!ENTITY calendar.context.deletefutureevents.label "Alle fremtidige begivenheder">
-<!ENTITY calendar.context.deletefutureevents.accesskey "F">
-<!ENTITY calendar.context.deletefuturetasks.label "Alle fremtidige opgaver">
-<!ENTITY calendar.context.deletefuturetasks.accesskey "F">
 <!ENTITY calendar.context.cutevent.label "Klip">
 <!ENTITY calendar.context.cutevent.accesskey "k">
 <!ENTITY calendar.context.copyevent.label "Kopier">
 <!ENTITY calendar.context.copyevent.accesskey "o">
 <!ENTITY calendar.context.pasteevent.label "Indsæt">
 <!ENTITY calendar.context.pasteevent.accesskey "I">
-<!ENTITY calendar.context.selectall.label "Vælg alle">
-<!ENTITY calendar.context.selectall.accesskey "æ">
 <!ENTITY calendar.context.button.label "Dags dato-panel">
 <!ENTITY calendar.context.button.accesskey "D">
+
+<!ENTITY calendar.context.attendance.menu.label       "Deltagelse" >
+<!ENTITY calendar.context.attendance.menu.accesskey   "d" >
+<!ENTITY calendar.context.attendance.occurrence.label "Denne forekomst" >
+<!ENTITY calendar.context.attendance.all.label        "Alle forekomster" >
 
 <!-- Task Context Menu -->
 <!ENTITY calendar.context.progress.label "Fremgang">
@@ -245,6 +236,12 @@
 <!ENTITY priority.level.normal.accesskey "N">
 <!ENTITY priority.level.high "Høj">
 <!ENTITY priority.level.high.accesskey "H">
+
+<!-- Task View -->
+<!-- Note that the above *.context.* strings are currently used for the other
+     task action buttons -->
+<!ENTITY calendar.taskview.delete.label     "Slet">
+<!ENTITY calendar.taskview.delete.accesskey "S">
 
 <!-- Server Context Menu -->
 <!ENTITY calendar.context.newserver.label "Ny kalender">
