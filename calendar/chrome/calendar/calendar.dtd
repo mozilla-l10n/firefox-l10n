@@ -172,6 +172,8 @@
 <!ENTITY calendar.task-details.category.label        "Категория:">
 <!ENTITY calendar.task-details.repeat.label          "Повторение:">
 <!ENTITY calendar.task-details.attachments.label     "Вложения">
+<!ENTITY calendar.task-details.start.label           "Дата начала">
+<!ENTITY calendar.task-details.due.label             "Срок">
 
 <!ENTITY calendar.task.category.button.tooltip  "Указать категорию задачи">
 <!ENTITY calendar.task.complete.button.tooltip  "Отметить выбранные задачи как выполненные">
@@ -201,6 +203,10 @@
 <!ENTITY calendar.context.pasteevent.accesskey        "ь">
 <!ENTITY calendar.context.button.label                "Мероприятия" >
 <!ENTITY calendar.context.button.accesskey            "я" >
+<!ENTITY calendar.context.attendance.menu.label       "Участники" >
+<!ENTITY calendar.context.attendance.menu.accesskey   "ч" >
+<!ENTITY calendar.context.attendance.occurrence.label "Этот повтор" >
+<!ENTITY calendar.context.attendance.all.label        "Все повторы" >
 
 <!-- Task Context Menu -->
 <!ENTITY calendar.context.progress.label              "Завершено">

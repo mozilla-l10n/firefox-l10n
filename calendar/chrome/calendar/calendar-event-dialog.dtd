@@ -27,6 +27,7 @@
    -   Hubert Gajewski <hubert@hubertgajewski.com>, Aviary.pl
    -   Fred Jendrzejewski <fred.jen@web.de>
    -   Simon Vaillancourt <simon.at.orcl@gmail.com>
+   -   Gianfranco Balza <bv1578@gmail.com>
    -
    - Alternatively, the contents of this file may be used under the terms of
    - either the GNU General Public License Version 2 or later (the "GPL"), or
@@ -377,6 +378,10 @@
 <!-- Read-Only dialog -->
 <!ENTITY read.only.general.label         "Основные">
 <!ENTITY read.only.title.label           "Название:">
+<!ENTITY read.only.event.start.label     "Дата начала:">
+<!ENTITY read.only.task.start.label      "Дата начала:">
+<!ENTITY read.only.event.end.label       "Дата окончания:">
+<!ENTITY read.only.task.due.label        "Срок:">
 <!ENTITY read.only.repeat.label          "Повторение:">
 <!ENTITY read.only.location.label        "Место:">
 <!ENTITY read.only.category.label        "Категория:">
