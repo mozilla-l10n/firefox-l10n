@@ -167,6 +167,8 @@
 <!ENTITY calendar.task-details.category.label        "Kategorie">
 <!ENTITY calendar.task-details.repeat.label          "Wiederholung">
 <!ENTITY calendar.task-details.attachments.label     "Anhänge">
+<!ENTITY calendar.task-details.start.label           "Beginn">
+<!ENTITY calendar.task-details.due.label             "Fällig">
 
 <!ENTITY calendar.task.category.button.tooltip  "Aufgaben kategorisieren">
 <!ENTITY calendar.task.complete.button.tooltip  "Ausgewählte Aufgaben als abgeschlossen markieren">
