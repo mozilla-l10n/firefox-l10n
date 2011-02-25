@@ -1,4 +1,5 @@
 google
+bing
 pogodakyu
 eBay-en-GB
 amazon-en-GB
