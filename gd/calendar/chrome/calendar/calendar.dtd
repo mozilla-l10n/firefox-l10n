@@ -172,6 +172,8 @@
 <!ENTITY calendar.task-details.category.label        "roinn">
 <!ENTITY calendar.task-details.repeat.label          "ath-dhèan">
 <!ENTITY calendar.task-details.attachments.label     "ceanglachain">
+<!ENTITY calendar.task-details.start.label           "latha tòiseachaidh">
+<!ENTITY calendar.task-details.due.label             "ceann-ama">
 
 <!ENTITY calendar.task.category.button.tooltip  "Cuir saothraichean ann an roinnean">
 <!ENTITY calendar.task.complete.button.tooltip  "Cuir comharra gu bheil na saothraichean a thagh thu crìochnaichte">
@@ -201,6 +203,10 @@
 <!ENTITY calendar.context.pasteevent.accesskey        "C">
 <!ENTITY calendar.context.button.label                "Leòsan an-diugh" >
 <!ENTITY calendar.context.button.accesskey            "L" >
+<!ENTITY calendar.context.attendance.menu.label       "Làthaireachd" >
+<!ENTITY calendar.context.attendance.menu.accesskey   "d" >
+<!ENTITY calendar.context.attendance.occurrence.label "An tachartas seo" >
+<!ENTITY calendar.context.attendance.all.label        "Gach tachartas" >
 
 <!-- Task Context Menu -->
 <!ENTITY calendar.context.progress.label              "Adhartas">
