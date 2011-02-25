@@ -487,7 +487,7 @@ just addresses the organization to follow, e.g. "This site is run by " -->
 <!ENTITY showAllTabsCmd.label "બધા ટૅબોને બતાવો">
 <!ENTITY syncBrand.shortName.label    "સુમેળ">
 <!ENTITY syncSetup.accesskey          "Y">
-<!ENTITY syncSetup.label              "&syncBrand.shortName.label;… સુયોજિત કરો">
+<!ENTITY syncSetup.label              "&syncBrand.shortName.label; સુયોજિત કરો…">
 <!ENTITY syncSyncNowItem.accesskey    "S">
 <!ENTITY syncSyncNowItem.label        "હવે સુમેળ કરો">
 <!ENTITY syncTabsMenu.label     "બીજા કમ્પ્યૂટરોમાંથી ટૅબો">
@@ -495,7 +495,7 @@ just addresses the organization to follow, e.g. "This site is run by " -->
 <!ENTITY tabGroupsButton.label        "ટૅબ જૂથો">
 <!ENTITY tabGroupsButton.tooltip      "તમારા ટૅબોનું જૂથ બનાવો">
 <!ENTITY tabView.commandkey           "e">
-<!ENTITY tabsToolbar.label "Browser tabs">
+<!ENTITY tabsToolbar.label "બ્રાઉઝર ટૅબ">
 <!ENTITY  undoCloseTab.accesskey             "U">
 <!ENTITY  undoCloseTab.label                 "બંધ કરેલ ટૅબને ફરીથી શરૂ કરો">
 <!ENTITY  unpinAppTab.accesskey              "b">
