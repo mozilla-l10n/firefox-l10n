@@ -378,6 +378,10 @@
 <!-- Read-Only dialog -->
 <!ENTITY read.only.general.label         "Umum">
 <!ENTITY read.only.title.label           "Judul:">
+<!ENTITY read.only.event.start.label     "Tanggal Mulai:">
+<!ENTITY read.only.task.start.label      "Tanggal Mulai:">
+<!ENTITY read.only.event.end.label       "Tanggal Selesai:">
+<!ENTITY read.only.task.due.label        "Tanggal Selesai:">
 <!ENTITY read.only.repeat.label          "Perulangan:">
 <!ENTITY read.only.location.label        "Tempat:">
 <!ENTITY read.only.category.label        "Kategori:">

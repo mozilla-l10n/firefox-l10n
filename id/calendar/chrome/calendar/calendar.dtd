@@ -168,6 +168,8 @@
 <!ENTITY calendar.task-details.category.label        "Kategori:">
 <!ENTITY calendar.task-details.repeat.label          "Diulang:">
 <!ENTITY calendar.task-details.attachments.label     "Lampiran">
+<!ENTITY calendar.task-details.start.label           "tanggal mulai">
+<!ENTITY calendar.task-details.due.label             "tanggal selesai">
 
 <!ENTITY calendar.task.category.button.tooltip  "Masukkan tugas ke kategori">
 <!ENTITY calendar.task.complete.button.tooltip  "Tandar selesai pada tugas terpilih ">
@@ -185,34 +187,22 @@
 <!ENTITY calendar.context.newevent.accesskey          "B">
 <!ENTITY calendar.context.newtodo.label               "Tugas Baru…">
 <!ENTITY calendar.context.newtodo.accesskey           "T">
-<!ENTITY calendar.context.modifytask.label            "Ubah Tugas…">
-<!ENTITY calendar.context.modifytask.accesskey        "U">
-<!ENTITY calendar.context.modifyitem.label            "Ubah Item…">
-<!ENTITY calendar.context.modifyitem.accesskey        "U">
 <!ENTITY calendar.context.deletetask.label            "Hapus Tugas">
 <!ENTITY calendar.context.deletetask.accesskey        "H">
-<!ENTITY calendar.context.deleteitem.label            "Hapus">
-<!ENTITY calendar.context.deleteitem.accesskey        "H">
 <!ENTITY calendar.context.deleteevent.label           "Hapus Acara">
 <!ENTITY calendar.context.deleteevent.accesskey       "H">
-<!ENTITY calendar.context.deletethisevent.label       "Acara Ini">
-<!ENTITY calendar.context.deletethisevent.accesskey   "I">
-<!ENTITY calendar.context.deletecompleteseries.label  "Rangkaian Lengkap">
-<!ENTITY calendar.context.deletecompleteseries.accesskey   "L">
-<!ENTITY calendar.context.deletefutureevents.label     "Semua Acara Selanjutnya">
-<!ENTITY calendar.context.deletefutureevents.accesskey "S">
-<!ENTITY calendar.context.deletefuturetasks.label     "Semua Tugas yang Akan Datang">
-<!ENTITY calendar.context.deletefuturetasks.accesskey "g">
 <!ENTITY calendar.context.cutevent.label              "Potong">
 <!ENTITY calendar.context.cutevent.accesskey          "P">
 <!ENTITY calendar.context.copyevent.label             "Salin">
 <!ENTITY calendar.context.copyevent.accesskey         "S">
 <!ENTITY calendar.context.pasteevent.label            "Tempel">
 <!ENTITY calendar.context.pasteevent.accesskey        "T">
-<!ENTITY calendar.context.selectall.label             "Pilih Semua">
-<!ENTITY calendar.context.selectall.accesskey         "a">
 <!ENTITY calendar.context.button.label                "Panel Hari Ini" >
 <!ENTITY calendar.context.button.accesskey            "H" >
+<!ENTITY calendar.context.attendance.menu.label       "Undangan" >
+<!ENTITY calendar.context.attendance.menu.accesskey   "d" >
+<!ENTITY calendar.context.attendance.occurrence.label "Item Ini" >
+<!ENTITY calendar.context.attendance.all.label        "Semua dalam Rangkaian" >
 
 <!-- Task Context Menu -->
 <!ENTITY calendar.context.progress.label              "Kemajuan">
@@ -244,6 +234,12 @@
 <!ENTITY priority.level.normal.accesskey    "N">
 <!ENTITY priority.level.high                "Tinggi">
 <!ENTITY priority.level.high.accesskey      "T">
+
+<!-- Task View -->
+<!-- Note that the above *.context.* strings are currently used for the other
+     task action buttons -->
+<!ENTITY calendar.taskview.delete.label     "Hapus">
+<!ENTITY calendar.taskview.delete.accesskey "H">
 
 <!-- Server Context Menu -->
 <!ENTITY calendar.context.newserver.label              "Kalender Baru…">
