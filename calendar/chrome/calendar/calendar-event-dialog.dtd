@@ -378,6 +378,10 @@
 <!-- Read-Only dialog -->
 <!ENTITY read.only.general.label         "Coitcheann">
 <!ENTITY read.only.title.label           "Tiotal:">
+<!ENTITY read.only.event.start.label     "Latha tòiseachaidh:">
+<!ENTITY read.only.task.start.label      "Latha tòiseachaidh:">
+<!ENTITY read.only.event.end.label       "Latha crìochnachaidh:">
+<!ENTITY read.only.task.due.label        "Ceann-ama:">
 <!ENTITY read.only.repeat.label          "Dèan a-rithist:">
 <!ENTITY read.only.location.label        "Àite:">
 <!ENTITY read.only.category.label        "Roinn:">
