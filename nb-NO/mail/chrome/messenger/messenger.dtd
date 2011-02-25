@@ -396,6 +396,9 @@ you can use these alternative items. Otherwise, their values should be empty.  -
 <!ENTITY markAsReadCmd.label "Som lest">
 <!ENTITY markAsReadCmd.accesskey "l">
 <!ENTITY markAsReadCmd.key "m">
+<!ENTITY markAsUnreadCmd.label "Som ulest">
+<!ENTITY markAsUnreadCmd.accesskey "S">
+<!ENTITY markAsUnreadCmd.key "m">
 <!ENTITY markThreadAsReadCmd.label "Tråd som lest">
 <!ENTITY markThreadAsReadCmd.accesskey "T">
 <!ENTITY markThreadAsReadCmd.key "r">
