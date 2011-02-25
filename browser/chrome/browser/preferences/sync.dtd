@@ -1,5 +1,5 @@
 <!-- The page shown when not logged in... -->
-<!ENTITY setupButton.label "Set Up &syncBrand.fullName.label;">
+<!ENTITY setupButton.label "&syncBrand.fullName.label; সেটআপ">
 <!ENTITY setupButton.accesskey "S">
 <!ENTITY weaveDesc.label "&syncBrand.fullName.label; আপনার ইতিহাস, বুকমার্ক, পাসওয়ার্ড ব্যবহার করে ডিভাইসে ট্যাব খুলুন।">
 <!-- The page shown when logged in... -->

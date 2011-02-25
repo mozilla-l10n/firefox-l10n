@@ -57,9 +57,9 @@
 <!ENTITY error.title "হালনাগাদ ব্যর্থ">
 
 <!ENTITY error.label "এই হালনাগাদ অনুসন্ধান, ডাউনলোড অথবা ইনস্টল করতে সমস্যা 
-হয়েছে। উল্লিখিত কারণে &brandShortName; হালনাগাদ করা যায়নি:">
+হয়েছে। উল্লেখিত কারণে &brandShortName; হালনাগাদ করা যায়নি:">
                                            
-<!ENTITY errorManual.label "উল্লিখিত লিংক থেকে আপনি নিজেই &brandShortName; এর সর্বশেষ সংস্করণ 
+<!ENTITY errorManual.label "উল্লেখিত লিংক থেকে আপনি নিজেই &brandShortName; এর সর্বশেষ সংস্করণ 
 ডাউনলোড করে ইনস্টল করতে পারেন:">
                                            
 <!ENTITY errorpatching.intro "আংশিক হালনাগাদ প্রয়োগ করা যায়নি। 

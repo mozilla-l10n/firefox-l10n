@@ -10,7 +10,7 @@
                        for the help button in the menubar but Gnome does not.   -->
 <!ENTITY helpMenuWin.label "সহায়তা (H)">
 <!ENTITY helpMenuWin.accesskey "H">
-<!ENTITY aboutProduct.label "About &brandShortName;">
+<!ENTITY aboutProduct.label "&brandShortName; পরিচিতি">
 <!ENTITY aboutProduct.accesskey "A">
 <!ENTITY productHelp.label "&brandShortName; সহায়তা (H)">
 <!ENTITY productHelp.accesskey "H">

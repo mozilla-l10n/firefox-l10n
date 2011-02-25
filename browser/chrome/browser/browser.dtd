@@ -70,7 +70,7 @@ can reach it easily. -->
 <!ENTITY personalbarCmd.label "বুকমার্ক টুলবার (B)">
 <!ENTITY personalbarCmd.accesskey "B">
 <!ENTITY bookmarksToolbarItem.label "বুকমার্ক টুলবারের আইটেম">
-<!ENTITY addonBarCmd.label "Add-on Bar">
+<!ENTITY addonBarCmd.label "অ্যাড-অন বার">
 <!ENTITY addonBarCmd.accesskey "B">
 
 <!ENTITY pageSourceCmd.label "পৃষ্ঠার সোর্স (o)">

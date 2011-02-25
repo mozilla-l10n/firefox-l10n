@@ -3,7 +3,7 @@
 <!ENTITY testpilot.settings.dataSubmission.label "ডাটা জমা">
 <!ENTITY testpilot.settings.notifications.label "ঘোষনা">
 <!ENTITY testpilot.settings.notifyWhen.label "আমাকে ঘোষনা দিন যখন... ">
-<!ENTITY testpilot.settings.readyToSubmit.label "একটি বিশ্লেষণ জমা দেওয়ার জন্য তেরি">
+<!ENTITY testpilot.settings.readyToSubmit.label "একটি বিশ্লেষণ জমা দেওয়ার জন্য তৈরি">
 <!ENTITY testpilot.settings.newStudy.label "এখানে একটি নতুন বিশ্লেষণ আছে">
 <!ENTITY testpilot.settings.hasNewResults.label "একটি বিশ্লেষণের নতুন ফলাফল">
 <!ENTITY testpilot.settings.alwaysSubmitData.label "স্বয়ংক্রিয়ভাবে আমার ডাটা জমা দিন (আমাকে জিজ্ঞাসা করা ব্যতীত)">
