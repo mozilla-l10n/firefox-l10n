@@ -109,5 +109,6 @@
 <!ENTITY pageactions.reset           "Fjern innstillinger for nettsted">
 <!ENTITY pageactions.findInPage      "Finn på siden">
 <!ENTITY pageactions.search.addNew   "Legg til søkemotor">
+<!ENTITY pageactions.charEncoding    "Tegnkoding">
 
 <!ENTITY appMenu.siteOptions         "Nettstedsvalg">
