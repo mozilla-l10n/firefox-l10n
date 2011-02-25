@@ -57,8 +57,8 @@
 <!ENTITY newevent.eventStatus.none.label         "Não especificado" >
 <!ENTITY newevent.eventStatus.none.accesskey     "o" >
 <!ENTITY newevent.todoStatus.none.label           "Não especificado" >
-<!ENTITY newevent.eventStatus.cancelled.label    "Cancelado" >
-<!ENTITY newevent.eventStatus.cancelled.accesskey  "n" >
+<!ENTITY newevent.eventStatus.cancelled.label     "Cancelado" >
+<!ENTITY newevent.eventStatus.cancelled.accesskey "n" >
 <!ENTITY newevent.todoStatus.cancelled.label      "Cancelado" >
 <!ENTITY newevent.status.tentative.label    "Tentativa" >
 <!ENTITY newevent.status.tentative.accesskey  "T" >
@@ -378,6 +378,10 @@
 <!-- Read-Only dialog -->
 <!ENTITY read.only.general.label         "Geral">
 <!ENTITY read.only.title.label           "Título:">
+<!ENTITY read.only.event.start.label     "Data de início:">
+<!ENTITY read.only.task.start.label      "Data de início:">
+<!ENTITY read.only.event.end.label       "Data de fim:">
+<!ENTITY read.only.task.due.label        "Data de fim:">
 <!ENTITY read.only.repeat.label          "Repetir:">
 <!ENTITY read.only.location.label        "Localização:">
 <!ENTITY read.only.category.label        "Categoria:">
