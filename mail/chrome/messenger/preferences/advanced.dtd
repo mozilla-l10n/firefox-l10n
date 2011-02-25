@@ -45,8 +45,8 @@
 <!ENTITY reuseExpRadio0.accesskey      "d">
 <!ENTITY reuseExpRadio1.label          "Et eksisterende meldingsvindu">
 <!ENTITY reuseExpRadio1.accesskey      "e">
-<!ENTITY closeMsgWindowOnMoveOrDelete.label  "Lukk meldingsvindu ved flytting eller sletting">
-<!ENTITY closeMsgWindowOnDelete.accesskey "L">
+<!ENTITY closeMsgOnMoveOrDelete.label  "Lukk meldingsvindu/fane ved flytting eller sletting av melding">
+<!ENTITY closeMsgOnMoveOrDelete.accesskey "L">
 
 <!-- Update -->
 <!ENTITY autoCheck.label                "Automatisk søk etter oppdateringer for:">
@@ -77,7 +77,7 @@
 <!ENTITY Diskspace "Diskplass">
 <!ENTITY offlineCompact.label "Komprimer mapper når det vil spare mer enn">
 <!ENTITY offlineCompact.accesskey "K">
-<!ENTITY kb.label "KB">
+<!ENTITY mb.label "MB">
 
 <!-- LOCALIZATION NOTE:
   The entities useCacheBefore.label and useCacheAfter.label appear on a single
