@@ -75,9 +75,10 @@
 <!ENTITY showOffline.accesskey "O">
 
 <!ENTITY Diskspace "ডিস্কের জায়গা">
-<!ENTITY offlineCompact.label "বেশি জায়গা ব্যবহার করলে ফোল্ডার সঙ্কুচিত করা হবে (v)">
-<!ENTITY offlineCompact.accesskey "v">
-<!ENTITY kb.label "কিলোবাইট">
+<!ENTITY offlineCompact.label "বেশি জায়গা ব্যবহার করলে ফোল্ডার সঙ্কুচিত করা হবে (a)">
+<!ENTITY offlineCompact.accesskey "a">
+<!ENTITY mb.label "মেগাবাইট">
+
 <!-- LOCALIZATION NOTE:
   The entities useCacheBefore.label and useCacheAfter.label appear on a single
   line in preferences as follows:
