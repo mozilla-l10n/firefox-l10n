@@ -77,7 +77,7 @@
 <!ENTITY Diskspace "Àite air an diosg">
 <!ENTITY offlineCompact.label "Dùmhlaich na pasgain nan sàbhaladh seo barrachd air">
 <!ENTITY offlineCompact.accesskey "a">
-<!ENTITY kb.label "KB">
+<!ENTITY mb.label "MB">
 
 <!-- LOCALIZATION NOTE:
   The entities useCacheBefore.label and useCacheAfter.label appear on a single
