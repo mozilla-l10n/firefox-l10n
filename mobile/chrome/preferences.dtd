@@ -19,3 +19,4 @@
 <!ENTITY homepage.none                             "Laman kosong">
 <!ENTITY homepage.default                          "Memulai &brandShortName;">
 <!ENTITY homepage.currentpage                      "Gunakan Laman Sekarang">
+<!ENTITY showCharset.title                         "Tampilkan Pengodean Karakter">

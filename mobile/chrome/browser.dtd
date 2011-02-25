@@ -104,5 +104,6 @@
 <!ENTITY pageactions.reset           "Hapus Pengaturan Situs">
 <!ENTITY pageactions.findInPage      "Temukan di Laman">
 <!ENTITY pageactions.search.addNew   "Tambah Mesin Pencari">
+<!ENTITY pageactions.charEncoding    "Pengodean Karakter">
 
 <!ENTITY appMenu.siteOptions         "Opsi Situs">
