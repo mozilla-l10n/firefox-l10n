@@ -92,16 +92,16 @@
 <!ENTITY calendar.month.button.tooltip          "Mudar para vista do mês" >
 <!ENTITY calendar.multiweek.button.tooltip      "Mudar para vista multi-semanal" >
 
-<!ENTITY calendar.nextday.label       "Dia Seguinte" >
-<!ENTITY calendar.prevday.label        "Dia Anterior" >
+<!ENTITY calendar.nextday.label                 "Dia Seguinte" >
+<!ENTITY calendar.prevday.label                 "Dia Anterior" >
 <!ENTITY calendar.nextday.accesskey             "s" >
 <!ENTITY calendar.prevday.accesskey             "a" >
-<!ENTITY calendar.nextweek.label       "Semana Seguinte" >
-<!ENTITY calendar.prevweek.label       "Semana Anterior" >
+<!ENTITY calendar.nextweek.label                "Semana Seguinte" >
+<!ENTITY calendar.prevweek.label                "Semana Anterior" >
 <!ENTITY calendar.nextweek.accesskey            "s" >
 <!ENTITY calendar.prevweek.accesskey            "a" >
-<!ENTITY calendar.nextmonth.label      "Mês Seguinte" >
-<!ENTITY calendar.prevmonth.label      "Mês Anterior" >
+<!ENTITY calendar.nextmonth.label               "Mês Seguinte" >
+<!ENTITY calendar.prevmonth.label               "Mês Anterior" >
 <!ENTITY calendar.nextmonth.accesskey           "s" >
 <!ENTITY calendar.prevmonth.accesskey           "a" >
 
@@ -172,6 +172,8 @@
 <!ENTITY calendar.task-details.category.label        "Categoria:">
 <!ENTITY calendar.task-details.repeat.label          "Repetir:">
 <!ENTITY calendar.task-details.attachments.label     "anexos">
+<!ENTITY calendar.task-details.start.label           "data de início">
+<!ENTITY calendar.task-details.due.label             "data de fim">
 
 <!ENTITY calendar.task.category.button.tooltip  "Categorizar tarefas">
 <!ENTITY calendar.task.complete.button.tooltip  "Marcar tarefas seleccionadas como efectuadas">
@@ -189,34 +191,22 @@
 <!ENTITY calendar.context.newevent.accesskey          "N">
 <!ENTITY calendar.context.newtodo.label               "Nova Tarefa…">
 <!ENTITY calendar.context.newtodo.accesskey           "a">
-<!ENTITY calendar.context.modifytask.label            "Editar Tarefa…">
-<!ENTITY calendar.context.modifytask.accesskey        "E">
-<!ENTITY calendar.context.modifyitem.label            "Editar Item">
-<!ENTITY calendar.context.modifyitem.accesskey        "E">
 <!ENTITY calendar.context.deletetask.label            "Apagar Tarefa">
 <!ENTITY calendar.context.deletetask.accesskey        "r">
-<!ENTITY calendar.context.deleteitem.label            "Apagar Item">
-<!ENTITY calendar.context.deleteitem.accesskey        "p">
-<!ENTITY calendar.context.deleteevent.label            "Apagar evento">
-<!ENTITY calendar.context.deleteevent.accesskey        "p">
-<!ENTITY calendar.context.deletethisevent.label       "Este evento">
-<!ENTITY calendar.context.deletethisevent.accesskey   "t">
-<!ENTITY calendar.context.deletecompleteseries.label  "Conjunto Completo">
-<!ENTITY calendar.context.deletecompleteseries.accesskey   "j">
-<!ENTITY calendar.context.deletefutureevents.label     "Todos os eventos futuros">
-<!ENTITY calendar.context.deletefutureevents.accesskey "f">
-<!ENTITY calendar.context.deletefuturetasks.label     "Todas as tarefas futuras">
-<!ENTITY calendar.context.deletefuturetasks.accesskey "f">
+<!ENTITY calendar.context.deleteevent.label           "Apagar evento">
+<!ENTITY calendar.context.deleteevent.accesskey       "p">
 <!ENTITY calendar.context.cutevent.label              "Cortar">
 <!ENTITY calendar.context.cutevent.accesskey          "t">
 <!ENTITY calendar.context.copyevent.label             "Copiar">
 <!ENTITY calendar.context.copyevent.accesskey         "C">
 <!ENTITY calendar.context.pasteevent.label            "Colar">
 <!ENTITY calendar.context.pasteevent.accesskey        "o">
-<!ENTITY calendar.context.selectall.label             "Seleccionar tudo">
-<!ENTITY calendar.context.selectall.accesskey         "c">
-<!ENTITY calendar.context.button.label                "Hoje" >
-<!ENTITY calendar.context.button.accesskey            "H" >
+<!ENTITY calendar.context.button.label                "Painel hoje" >
+<!ENTITY calendar.context.button.accesskey            "j" >
+<!ENTITY calendar.context.attendance.menu.label       "Assistência" >
+<!ENTITY calendar.context.attendance.menu.accesskey   "s" >
+<!ENTITY calendar.context.attendance.occurrence.label "Esta ocorrência" >
+<!ENTITY calendar.context.attendance.all.label        "Todas as ocorrências" >
 
 <!-- Task Context Menu -->
 <!ENTITY calendar.context.progress.label              "Progresso">
@@ -248,6 +238,12 @@
 <!ENTITY priority.level.normal.accesskey    "N">
 <!ENTITY priority.level.high                "Alto">
 <!ENTITY priority.level.high.accesskey      "A">
+
+<!-- Task View -->
+<!-- Note that the above *.context.* strings are currently used for the other
+     task action buttons -->
+<!ENTITY calendar.taskview.delete.label     "Eliminar">
+<!ENTITY calendar.taskview.delete.accesskey "l">
 
 <!-- Server Context Menu -->
 <!ENTITY calendar.context.newserver.label              "Novo Calendário…">
