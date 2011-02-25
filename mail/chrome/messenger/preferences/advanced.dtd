@@ -77,7 +77,7 @@
 <!ENTITY Diskspace "Ruang Disk">
 <!ENTITY offlineCompact.label "Padatkan folder jika menghemat lebih dari">
 <!ENTITY offlineCompact.accesskey "P">
-<!ENTITY kb.label "KB">
+<!ENTITY mb.label "MB">
 
 <!-- LOCALIZATION NOTE:
   The entities useCacheBefore.label and useCacheAfter.label appear on a single
