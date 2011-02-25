@@ -4,42 +4,40 @@
 # your locale code, and link to your translated pages as soon as they're 
 # live.
 
-#define bookmarks_title Bookmarks
-#define bookmarks_heading Bookmarks
+#define bookmarks_title બુકમાર્ક
+#define bookmarks_heading બુકમાર્ક
 
-
-
-#define bookmarks_toolbarfolder Bookmarks Toolbar Folder
-#define bookmarks_toolbarfolder_description Add bookmarks to this folder to see them displayed on the Bookmarks Toolbar
+#define bookmarks_toolbarfolder બુકમાર્ક સાધનો ફોલ્ડર
+#define bookmarks_toolbarfolder_description બુકમાર્ક સાધનપટ્ટી પર જોવા માટે આ ફોલ્ડરમાં બુકમાર્ક ઉમેરો
 
 # LOCALIZATION NOTE (getting_started):
-# link title for http://gu-IN.www.mozilla.com/gu-IN/firefox/central/
-#define getting_started Getting Started
+# link title for http://en-US.www.mozilla.com/en-US/firefox/central/
+#define getting_started શરૂ કરો
 
 # LOCALIZATION NOTE (latest_headlines):
 # link title for the live bookmarks sample, a redirect on
-# http://gu-IN.fxfeeds.mozilla.com/gu-IN/firefox/headlines.xml
+# http://en-US.fxfeeds.mozilla.com/en-US/firefox/headlines.xml
 # Changing the redirect is subject to approval of l10n-drivers.
-#define latest_headlines Latest Headlines
+#define latest_headlines તાજેતરના સમાચાર
 
 # LOCALIZATION NOTE (firefox_heading):
 # Firefox links folder name
-#define firefox_heading Mozilla Firefox
+#define firefox_heading મોઝિલ્લા ફાયરફોક્સ
 
 # LOCALIZATION NOTE (firefox_help):
-# link title for http://gu-IN.www.mozilla.com/gu-IN/firefox/help/
-#define firefox_help Help and Tutorials
+# link title for http://en-US.www.mozilla.com/en-US/firefox/help/
+#define firefox_help મદદ અને માર્ગદર્શિકાઓ
 
 # LOCALIZATION NOTE (firefox_customize):
-# link title for http://gu-IN.www.mozilla.com/gu-IN/firefox/customize/
-#define firefox_customize Customize Firefox
+# link title for http://en-US.www.mozilla.com/en-US/firefox/customize/
+#define firefox_customize ફાયરફોક્સ વૈવિધ્યપૂર્ણ બનાવો
 
 # LOCALIZATION NOTE (firefox_community):
-# link title for http://gu-IN.www.mozilla.com/gu-IN/firefox/community/
-#define firefox_community Get Involved
+# link title for http://en-US.www.mozilla.com/en-US/firefox/community/
+#define firefox_community જોડાઇ જાવ
 
 # LOCALIZATION NOTE (firefox_about):
-# link title for http://gu-IN.www.mozilla.com/gu-IN/firefox/about/
-#define firefox_about About Us
+# link title for http://en-US.www.mozilla.com/en-US/about/
+#define firefox_about અમારા વિશે
 
 #unfilter emptyLines
