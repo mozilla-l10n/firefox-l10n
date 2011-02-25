@@ -77,7 +77,7 @@
 <!ENTITY Diskspace "Espace disque">
 <!ENTITY offlineCompact.label "Compacter les dossiers quand cela économise au moins">
 <!ENTITY offlineCompact.accesskey "C">
-<!ENTITY kb.label "Ko">
+<!ENTITY mb.label "Mo">
 
 <!-- LOCALIZATION NOTE:
   The entities useCacheBefore.label and useCacheAfter.label appear on a single
