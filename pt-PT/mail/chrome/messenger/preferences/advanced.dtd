@@ -77,7 +77,7 @@
 <!ENTITY Diskspace "Espaço em Disco">
 <!ENTITY offlineCompact.label "Compactar pastas se se puder libertar pelo menos">
 <!ENTITY offlineCompact.accesskey "c">
-<!ENTITY kb.label "KB">
+<!ENTITY mb.label "MB">
 
 <!-- LOCALIZATION NOTE:
   The entities useCacheBefore.label and useCacheAfter.label appear on a single
