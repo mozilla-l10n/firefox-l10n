@@ -6,11 +6,6 @@
 
 <!ENTITY abouthome.pageTitle "Page de démarrage de &brandFullName;">
 
-<!-- LOCALIZATION NOTE (abouthome.brandStart):
-     brandShortName must be in a <span/>
--->
-<!ENTITY abouthome.brandStart "Démarrage de <span>&brandShortName;</span>">
-
 <!ENTITY abouthome.searchEngineButton.label "Rechercher">
 
 <!ENTITY abouthome.aboutMozilla "À propos de Mozilla">
