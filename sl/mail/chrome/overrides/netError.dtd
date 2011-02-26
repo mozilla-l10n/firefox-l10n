@@ -155,9 +155,10 @@ nekdo poskuša predstaviti kot strežnik.</li>
 
 <!ENTITY phishingBlocked.title "Morebitna spletna prevara!">
 <!ENTITY phishingBlocked.longDesc "
-<p>Navedba kakršnih koli osebnih podatkov na tej strani lahko povzroči krajo identitete ali drugih goljufij.</p>
-<p>Te vrste spletnih ponaredb se uporablja za prevare, ki so znane kot phishing napadi, pri katerih se goljufive spletne strani in e-pošto prikazuje kot zaupanja vredne.</p>
+<p>Vnos osebnih podatkov na tej strani lahko pripelje do kraje identitete ali drugih zlorab.</p>
+<p>Tovrstne spletne prevare se uporabljajo v zlorabah, znanih kot ribarjenje, kjer zlonamerne spletne strani ali elektronska pošta oponašajo vire, ki jim zaupate.</p>
 ">
+
 <!ENTITY cspFrameAncestorBlocked.title "Blokirano zaradi pravil za varnost vsebin">
 <!ENTITY cspFrameAncestorBlocked.longDesc "<p>&brandShortName; je preprečil, da bi se to stran na ta način naložilo, kajti zanjo veljajo pravila o varnosti vsebin, ki tega ne dovoljujejo.</p>">
 

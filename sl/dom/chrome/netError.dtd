@@ -1,7 +1,7 @@
 <!ENTITY loadError.label "Napaka pri nalaganju strani">
 <!ENTITY retry.label "Poskusite ponovno">
-<!-- Specific error messages -->
 
+<!-- Specific error messages -->
 
 <!ENTITY connectionFailure.title "Povezava neuspešna">
 <!ENTITY connectionFailure.longDesc "<p>Brskalnik se ne more povezati na izbrano stran, čeprav je videti, da bi lahko obstajala.</p><ul><li>Morda je stran trenutno nedosegljiva. Poskusite ponovno nekoliko pozneje.</li><li>Če ne morete uporabljati nobene strani, preverite povezavo svojega računalnika do interneta.</li><li>Če uporabljate posrednik ali požarni zid, se prepričajte, da so vaše nastavitve pravilne.</li></ul>">
@@ -25,8 +25,8 @@
 <!ENTITY netInterrupt.longDesc "<p>Brskalnik se je uspešno povezal, vendar je bila povezava prekinjena med prenosom podatkov. Prosim, poskusite znova.</p><ul><li>Če ne morete uporabljati nobene strani, preverite povezavo svojega računalnika do interneta.</li><li>Če težava ne izgine, se posvetujte s svojim skrbnikom sistema ali s ponudnikom internetnih storitev.</li></ul>">
 
 <!ENTITY netOffline.title "Brez povezave">
-<!ENTITY netOffline.longDesc "<p>Brskalnik trenutno deluje v načinu brez povezave in se zato ne more povezati na zahtevano stran.</p><ul><li>Je računalnik povezan v aktivno mrežo?</li><li>Nastavite način brskalnika v delo s povezavo in poskusite ponovno.</li></ul>">
-<!ENTITY netOffline.overrideLongDesc "<p>The browser is operating in its offline mode and cannot connect to the requested item.</p><ul><li>Is the computer connected to an active network?</li><li>Place the browser in online mode and try again.</li></ul>">
+<!ENTITY netOffline.longDesc "<p>Brskalnik trenutno deluje v načinu brez povezave in se zato ne more povezati na zahtevano stran.</p><ul><li>Je računalnik povezan v delujoče omrežje?</li><li>Spremenite način brskalnika v delo s povezavo in poskusite ponovno.</li></ul>">
+<!ENTITY netOffline.overrideLongDesc "<p>Brskalnik trenutno deluje v načinu brez povezave in se zato ne more povezati na zahtevano stran.</p><ul><li>Je računalnik povezan v delujoče omrežje?</li><li>Spremenite način brskalnika v delo s povezavo in poskusite ponovno.</li></ul>">
 
 <!ENTITY contentEncodingError.title "Napaka pri šifriranju vsebine">
 <!ENTITY contentEncodingError.longDesc "<p>Strani, ki si jo želite ogledati, ni mogoče prikazati, ker uporablja neveljavno ali nepodprto obliko kompresije.</p><ul><li>Obrnite se na lastnike spletne strani in jih obvestite o težavi.</li></ul>">
@@ -71,8 +71,8 @@
 <p>Lastniki spletnih strani, za katere je bilo po njihovem mnenju zmotno sporočeno, da so napadalne, lahko <a href='http://www.stopbadware.org/home/reviewinfo' >zahtevajo pregled</a>.</p>">
 
 <!ENTITY phishingBlocked.title "Sum spletne prevare!">
-<!ENTITY phishingBlocked.longDesc '<p>Vnos vaših zasebnih podatkov na to stran se lahko konča s krajo identitete ali drugo zlorabo.</p> 
-<p>Tovrstne spletne prevare se uporabljajo v postopkih, znanih kot "phishing", v katerih zlonamerne spletne strani in elektronska pošta poskušajo oponašati vire, ki jim običajno zaupate.</p>'>
+<!ENTITY phishingBlocked.longDesc '<p>Vnos osebnih podatkov na tej strani lahko pripelje do kraje identitete ali drugih zlorab.</p> 
+<p>Tovrstne spletne prevare se uporabljajo v zlorabah, znanih kot ribarjenje, kjer zlonamerne spletne strani ali elektronska pošta oponašajo vire, ki jim zaupate.</p>'>
 
 <!ENTITY cspFrameAncestorBlocked.title "Zavrnjeno zaradi varnostne politike vsebine">
 <!ENTITY cspFrameAncestorBlocked.longDesc "<p>Brskalnik je preprečil nalaganje strani v taki obliki, ker tako določa varnostna politika vsebine.</p>">

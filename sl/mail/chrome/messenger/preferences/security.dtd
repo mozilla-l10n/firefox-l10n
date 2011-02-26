@@ -23,7 +23,7 @@
 
 <!-- Phishing Detector -->
 <!ENTITY phishingDetector1.intro  "&brandShortName; lahko preveri, ali je sum e-poštne prevare utemeljen tako, da v sporočilu išče pogosto uporabljene metode za zavajanje.">
-<!ENTITY enablePhishingDetector1.label    "Povej mi, če sumiš, da je sporočilo, ki ga berem,  e-poštna prevara">
+<!ENTITY enablePhishingDetector1.label    "Povej mi, če sumiš, da je sporočilo, ki ga berem, e-poštna prevara">
 <!ENTITY enablePhishingDetector1.accesskey  "R">
 <!ENTITY useDownloadedList.label "Uporabi prenesen spisek sumov na e-poštno prevaro">
 <!ENTITY useDownloadedList.accesskey "U">

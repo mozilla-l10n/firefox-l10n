@@ -162,7 +162,7 @@ začasna in lahko poskusite znova pozneje.</li>
 <!ENTITY phishingBlocked.title "Morebitna spletna prevara!">
 <!ENTITY phishingBlocked.longDesc "
 <p>Vnos osebnih podatkov na tej strani lahko pripelje do kraje identitete ali drugih zlorab.</p>
-<p>Tovrstne spletne prevare se uporabljajo v zlorabah, znanih kot lažno predstavljanje, kjer zlonamerne spletne strani ali elektronska pošta oponašajo vire, ki jim zaupate.</p>
+<p>Tovrstne spletne prevare se uporabljajo v zlorabah, znanih kot ribarjenje, kjer zlonamerne spletne strani ali elektronska pošta oponašajo vire, ki jim zaupate.</p>
 ">
 
 <!ENTITY cspFrameAncestorBlocked.title "Zavrnjeno zaradi varnostne politike vsebine">

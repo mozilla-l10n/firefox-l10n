@@ -19,7 +19,7 @@
 <!ENTITY aboutSupport.appBasicsProfileDir "Mapa profila">
 <!ENTITY aboutSupport.appBasicsEnabledPlugins "Vključeni vstavki">
 <!ENTITY aboutSupport.appBasicsBuildConfig "Nastavitve gradnje">
-<!ENTITY aboutSupport.appBasicsUserAgent "User Agent">
+<!ENTITY aboutSupport.appBasicsUserAgent "Uporabniški agent">
 
 <!ENTITY aboutSupport.show.label "Odpri nadrejeno mapo">
 
