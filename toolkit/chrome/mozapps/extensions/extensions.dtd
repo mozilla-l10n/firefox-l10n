@@ -49,8 +49,8 @@
 <!ENTITY updates.installed.label              "Shtesat tuaja u përditësuan.">
 <!ENTITY updates.downloaded.label             "Përditësimet për shtesat tuaja u shkarkuan.">
 <!ENTITY updates.restart.label                "Që të plotësohet instalimi, riniseni tani">
-<!ENTITY updates.noneFound.label              "No updates found">
-<!ENTITY updates.manualUpdatesFound.label     "View Available Updates">
+<!ENTITY updates.noneFound.label              "Nuk u gjetën përditësime">
+<!ENTITY updates.manualUpdatesFound.label     "Shihni Përditësimet e Gatshme">
 <!ENTITY updates.updateSelected.label         "Nuk u gjetën përditësime">
 <!ENTITY updates.updateSelected.tooltip       "Instalo përditësimet e mundshme prej kësaj liste">
 
