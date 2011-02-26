@@ -18,9 +18,9 @@
 <!ENTITY signIn.account2.label       "Cyfrif">
 <!ENTITY signIn.account2.accesskey   "C">
 <!ENTITY signIn.password.label      "Cyfrinair">
-<!ENTITY signIn.password.accesskey  "C">
+<!ENTITY signIn.password.accesskey  "A">
 <!ENTITY signIn.syncKey.label     "Allwedd Cydweddu">
-<!ENTITY signIn.syncKey.accesskey "A">
+<!ENTITY signIn.syncKey.accesskey "D">
 
 <!-- New Account Page 1: Basic Account Info -->
 <!ENTITY setup.newAccountDetailsPage.title.label "Manylion Cyfrif">
@@ -66,7 +66,23 @@
 <!ENTITY addDevice.dialog.syncKey.label     "I alluogi'r ddyfais bydd rhaid teipio eich Allwedd Cydweddu. Argraffwch yr allwedd neu gadw copi i'w chario gyda chi.">
 <!ENTITY addDevice.dialog.connected.label   "Dyfais wedi Cysylltu">
 
-<!-- Existing Account Page 1: Login -->
+<!-- Existing Account Page 1: Add Device (incl. Add a Device dialog strings) -->
+<!ENTITY addDevice.title.label              "Ychwanegu Dyfais">
+<!ENTITY addDevice.showMeHow.label          "Dangos i mi sut.">
+<!ENTITY addDevice.dontHaveDevice.label     "Dydy'r dyfais ddim gen i">
+<!ENTITY addDevice.setup.description.label  "I'w roi ar waith, ewch i Dewisiadau &syncBrand.shortName.label; ar eich dyfais arall a dewis &#x0022;Ychwanegu Dyfais&#x0022;.">
+<!ENTITY addDevice.setup.enterCode.label    "Yna, rhowch y cod:">
+<!ENTITY addDevice.dialog.description.label "I roi eich dyfais newydd ar waith, ewch i Dewisiadau &syncBrand.shortName.label; ar y dyfais a dewis &#x0022;Cysylltu.&#x0022;">
+<!ENTITY addDevice.dialog.enterCode.label   "Rhowch y cod mae'r dyfais wedi'i roi:">
+<!ENTITY addDevice.dialog.tryAgain.label    "Ceisiwch eto.">
+<!ENTITY addDevice.dialog.successful.label  "Wedi llwyddo ychwanegu'r dyfais. Gall y cydweddu gymryd sawl munud, ac bydd yn digwydd yn y cefndir.">
+<!ENTITY addDevice.dialog.syncKey.label     "I roi eich dyfais ar waith bydd angen i chi roi eich Allwedd Cydweddu. Argraffwch yr allwedd neu'i chadw, a'i chario gyda chi.">
+<!ENTITY addDevice.dialog.connected.label   "Dyfais wedi'i Gysylltu">
+
+<!-- Existing Account Page 2: Manual Login -->
+<!ENTITY setup.signInPage.title.label "Mewngofnodi">
+<!ENTITY existingSyncKey.description "Gallwch gael copi o'ch Allwedd Cydweddu drwy fynd i Dewisiadau &syncBrand.shortName.label; ar eich dyfais arall, a dewis &#x0022;Fy Allwedd Cydwedddu&#x0022; o dan &#x0022;Rheoli Cyfrif&#x0022;.">
+<!ENTITY verifying.label              "Dilysu">
 <!ENTITY resetPassword.label          "Ailosod Cyfrinair">
 
 <!-- Existing Account Page 2: Manual Login -->
