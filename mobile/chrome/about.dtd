@@ -5,10 +5,14 @@
 <!ENTITY aboutPage.rights.label                 "Kend dine rettigheder">
 <!ENTITY aboutPage.relNotes.label               "Udgivelsesnoter">
 <!ENTITY aboutPage.credits.label                "Tak til">
+<!ENTITY aboutPage.checkForUpdates.button       "Kontroller for opdateringer">
+<!ENTITY aboutPage.checkForUpdates.checking     "Kontrollerer for opdateringer…">
+<!ENTITY aboutPage.checkForUpdates.none         "Ingen opdateringer tilgængelige">
+<!ENTITY aboutPage.checkForUpdates.found        "Opdatering tilgængelig">
+
 
 <!-- LOCALIZATION NOTE:
      These strings are concatenated in order. Unneeded strings may be left blank.
-  -->
-<!ENTITY aboutPage.copyrightInfo1               "&#169;1998-2009 Bidragydere. Alle rettigheder forbeholdes. (">
+-->
 <!ENTITY aboutPage.licenseLink                  "Licensinformation">
-<!ENTITY aboutPage.copyrightInfo2               ").">
+<!ENTITY aboutPage.licenseLinkSuffix            ".">
