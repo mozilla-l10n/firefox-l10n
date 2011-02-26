@@ -172,6 +172,8 @@
 <!ENTITY calendar.task-details.category.label "kategorie">
 <!ENTITY calendar.task-details.repeat.label "opakování">
 <!ENTITY calendar.task-details.attachments.label "přílohy">
+<!ENTITY calendar.task-details.start.label "začátek">
+<!ENTITY calendar.task-details.due.label "konec">
 
 <!ENTITY calendar.task.category.button.tooltip "Přiřadí úkolu kategorii">
 <!ENTITY calendar.task.complete.button.tooltip "Označí úkol za dokončený">
@@ -201,6 +203,10 @@
 <!ENTITY calendar.context.pasteevent.accesskey "V">
 <!ENTITY calendar.context.button.label "Dnešní panel">
 <!ENTITY calendar.context.button.accesskey "D" >
+<!ENTITY calendar.context.attendance.menu.label "Účast">
+<!ENTITY calendar.context.attendance.menu.accesskey "a">
+<!ENTITY calendar.context.attendance.occurrence.label "tento výskyt">
+<!ENTITY calendar.context.attendance.all.label "Všechny výskyty">
 
 <!-- Task Context Menu -->
 <!ENTITY calendar.context.progress.label "Průběh">
