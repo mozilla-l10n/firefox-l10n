@@ -1,9 +1,12 @@
-<!ENTITY welcome.title                      "Benvido ao &brandShortName;">
-<!ENTITY intro.description                  "Sincronice móbil e computadora empregando o Weave Sync. Personalíceo con complementos. Navegue coa Awesome Bar e moito, moito, moito mais.">
-<!ENTITY weave.title                        "Get Up and Go">
-<!ENTITY weave.description                  "Obteña o Weave Sync para complementar o Firefox. Comparta marcadores, señas gardadas ou separadores entre o móbil e a computadora.">
-<!ENTITY weave.linkLabel                    "Obteña o complemento Weave Sync">
-<!ENTITY getPersonal.title                  "Personalíceo">
-<!ENTITY getPersonal.description            "Faga seu o &brandShortName;. Personalice o primeiro navegador que ofrece complementos para un dispositivo móbil.">
-<!ENTITY getPersonal.linkLabel              "Obteña complementos para o seu móbil">
-
+<!ENTITY firstrun.title                "Benvida ao &brandShortName;">
+<!ENTITY firstrun.heading2             "Benvida ao &brandShortName;">
+<!ENTITY firstrun.sync2.title          "Sincronizar">
+<!ENTITY firstrun.sync2.description    "Conéctese coa súa conta de Sync e comparta o seu historial, os contrasinais, os marcadores e as lapelas entre o seu equipo de escritorio e o móbil">
+<!ENTITY firstrun.addons2.title        "Personalizar">
+<!ENTITY firstrun.addons2.description  "Descubra e instale complementos para engadir novas funcionalidades ao seu &brandShortName;">
+<!ENTITY firstrun.home2.title          "Examinar">
+<!ENTITY firstrun.home2.description    "Ignorar todo isto e ir a súa páxina de inicio personalizada para comezar a navegar pola Web">
+<!ENTITY firstrun.features             "Vexa máis características">
+<!ENTITY firstrun.faq                  "FAQ">
+<!ENTITY firstrun.privacy              "Política de privacidade">
+<!ENTITY firstrun.follow               "Séguenos en:">
