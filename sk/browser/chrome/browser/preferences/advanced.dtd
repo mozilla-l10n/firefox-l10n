@@ -21,7 +21,7 @@
 <!ENTITY allowHWAccel.accesskey          "h">
 <!ENTITY checkSpelling.label             "Kontrolovať pravopis počas písania">
 <!ENTITY checkSpelling.accesskey         "K">
-<!ENTITY doNotTrack.label                "Požiadať webové stránky o nesledovanie mojej aktivity">
+<!ENTITY doNotTrack.label                "Požiadať webové stránky, aby nesledovali moju aktivitu">
 <!ENTITY doNotTrack.accesskey            "n">
 
 <!ENTITY systemDefaults.label            "Nastavenie systému">

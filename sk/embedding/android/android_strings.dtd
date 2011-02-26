@@ -13,3 +13,5 @@
 <!ENTITY  crash_restart_label "Reštartovať &brandShortName;">
 <!ENTITY  sending_crash_report "Odosiela sa správa o zlyhaní\u2026">
 <!ENTITY  exit_label "Koniec">
+<!ENTITY  incompatable_device "&brandShortName; nepodporuje toto zariadenie. Pri používaní sa môžu vyskytnúť problémy.">
+<!ENTITY  continue_label "Pokračovať">

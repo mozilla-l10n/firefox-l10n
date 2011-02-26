@@ -2,9 +2,9 @@
 
 <!-- First page of the wizard -->
 
-<!ENTITY setup.pickSetupType.description "Vitajte, ak ste predtým nikdy nepoužili službu &syncBrand.fullName.label;, musíte si vytvoriť nový účet.">
+<!ENTITY setup.pickSetupType.description "Vitajte. Ak ste predtým nikdy nepoužili službu &syncBrand.fullName.label;, musíte si vytvoriť nový účet.">
 <!ENTITY button.createNewAccount.label "Vytvoriť nový účet">
-<!ENTITY setup.haveAccount.label "Už mám učet služby &syncBrand.fullName.label;">
+<!ENTITY setup.haveAccount.label "Už mám účet služby &syncBrand.fullName.label;">
 <!ENTITY button.connect.label    "Pripojiť">
 
 <!ENTITY setup.choicePage.title.label     "Používali ste službu &syncBrand.fullName.label; už v minulosti?">
@@ -57,7 +57,7 @@
 <!ENTITY addDevice.title.label              "Pridať zariadenie">
 <!ENTITY addDevice.showMeHow.label          "Ako na to.">
 <!ENTITY addDevice.dontHaveDevice.label     "Zariadenie nemám pri sebe">
-<!ENTITY addDevice.setup.description.label  "Ak ho chcete aktivovať, prejdite na nastavení služby &syncBrand.shortName.label; na vašom ďalšom zaraidení a zvoľte položku &#x0022;Pridať zariadenie&#x0022;.">
+<!ENTITY addDevice.setup.description.label  "Ak ho chcete aktivovať, prejdite na nastavení služby &syncBrand.shortName.label; na vašom ďalšom zariadení a zvoľte položku &#x0022;Pridať zariadenie&#x0022;.">
 <!ENTITY addDevice.setup.enterCode.label    "Potom zadajte tento kód:">
 <!ENTITY addDevice.dialog.description.label "Ak chcete aktivovať nové zariadenie, prejdite do nastavení služby &syncBrand.shortName.label; a zvoľte položku &#x0022;Pripojiť.&#x0022;">
 <!ENTITY addDevice.dialog.enterCode.label   "Zadajte kód, ktorý poskytlo zariadenie:">

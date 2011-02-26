@@ -29,7 +29,7 @@
 <!ENTITY resetSync.label              "Nová synchronizácia">
 <!ENTITY resetSync.accesskey          "o">
 <!ENTITY stopUsingAccount.label       "Prestať používať tento účet">
-<!ENTITY stopUsingAccount.accesskey   "r">
+<!ENTITY stopUsingAccount.accesskey   "t">
 
 <!ENTITY syncMy.label               "Synchronizovať">
 <!ENTITY engine.bookmarks.label     "Záložky">

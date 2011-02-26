@@ -26,7 +26,7 @@
 <!ENTITY historyHeader.label       "História">
 <!ENTITY desktopHeader.label       "Počítač">
 
-<!ENTITY editBookmarkDialog.title  "Úprava založky">
+<!ENTITY editBookmarkDialog.title  "Úprava záložky">
 <!ENTITY editBookmarkDone.label    "Hotovo">
 <!ENTITY editBookmarkTags.label    "Pridajte značky">
 
@@ -109,7 +109,6 @@
 <!ENTITY pageactions.reset           "Vymazať nastavenia stránky">
 <!ENTITY pageactions.findInPage      "Hľadať na stránke">
 <!ENTITY pageactions.search.addNew   "Pridať vyhľadávací modul">
-
-<!ENTITY selectHelper.emptytext      "Filtrovať zoznam">
+<!ENTITY pageactions.charEncoding    "Kódovanie">
 
 <!ENTITY appMenu.siteOptions         "Nastavenia stránky">

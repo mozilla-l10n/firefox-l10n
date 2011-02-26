@@ -77,7 +77,7 @@
 <!ENTITY Diskspace                      "Miesto na disku">
 <!ENTITY offlineCompact.label           "Vykonať údržbu priečinkov, ak sa tým ušetrí viac ako">
 <!ENTITY offlineCompact.accesskey       "V">
-<!ENTITY kb.label                       "kB">
+<!ENTITY mb.label                       "MB">
 
 <!-- LOCALIZATION NOTE:
   The entities useCacheBefore.label and useCacheAfter.label appear on a single
