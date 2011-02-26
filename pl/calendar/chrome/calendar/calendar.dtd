@@ -206,7 +206,11 @@
 <!ENTITY calendar.context.pasteevent.accesskey        "k">
 <!ENTITY calendar.context.button.label                "Bieżące">
 <!ENTITY calendar.context.button.accesskey            "B" >
-
+<!ENTITY calendar.context.attendance.menu.label       "Uczestnictwo" >
+<!ENTITY calendar.context.attendance.menu.accesskey   "c" >
+<!ENTITY calendar.context.attendance.occurrence.label "To wystąpienie" >
+<!ENTITY calendar.context.attendance.all.label        "Wszystkie wystąpienia" >
+    
 <!-- Task Context Menu -->
 <!ENTITY calendar.context.progress.label              "Postęp">
 <!ENTITY calendar.context.progress.accesskey          "P">
