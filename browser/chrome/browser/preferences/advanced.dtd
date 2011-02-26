@@ -29,7 +29,7 @@
 <!ENTITY alwaysCheckDefault.accesskey		"w">
 <!ENTITY checkNow.label				"今すぐ確認">
 <!ENTITY checkNow.accesskey			"N">
-<!ENTITY submitCrashes.label			"クラッシュレポートを送信">
+<!ENTITY submitCrashes.label			"クラッシュレポートを送信する">
 <!ENTITY submitCrashes.accesskey		"S">
 
 <!ENTITY networkTab.label			"ネットワーク">
