@@ -19,3 +19,4 @@
 <!ENTITY homepage.none                             "Prázdna stránka">
 <!ENTITY homepage.default                          "Úvodná stránka prehliadača &brandShortName;">
 <!ENTITY homepage.currentpage                      "Použiť aktuálnu stránku">
+<!ENTITY showCharset.title                         "Zobraziť ponuku Kódovanie">

@@ -2,9 +2,9 @@
 
 <!-- First page of the wizard -->
 
-<!ENTITY setup.pickSetupType.description "Vitajte, ak ste predtým nikdy nepoužili službu &syncBrand.fullName.label;, musíte si vytvoriť nový účet.">
+<!ENTITY setup.pickSetupType.description "Vitajte. Ak ste predtým nikdy nepoužili službu &syncBrand.fullName.label;, musíte si vytvoriť nový účet.">
 <!ENTITY button.createNewAccount.label "Vytvoriť nový účet">
-<!ENTITY button.haveAccount.label "Mám učet služby &syncBrand.fullName.label;">
+<!ENTITY button.haveAccount.label "Mám účet služby &syncBrand.fullName.label;">
 
 <!ENTITY setup.choicePage.title.label     "Používali ste službu &syncBrand.fullName.label; už v minulosti?">
 <!ENTITY setup.choicePage.new.label       "Nikdy predtým som službu &syncBrand.shortName.label; nepoužil">
@@ -43,7 +43,7 @@
 <!ENTITY syncKeyEntry.label        "Váš Synchronizačný kľúč">
 <!ENTITY syncKeyEntry.accesskey    "k">
 <!ENTITY syncKeyGenerate.label     "Vygenerovať">
-<!ENTITY syncKeyGenerate.accesskey "V">
+<!ENTITY syncKeyGenerate.accesskey "e">
 <!ENTITY syncKeyStrength.label     "Sila kľúča:">
 <!ENTITY syncKeyHelp.label         "Čo je sila kľúča?">
 <!ENTITY syncKeyBackup.description "Na prístup k službe &syncBrand.fullName.label; z iných zariadení je potrebný Synchronizačný kľúč. Preto si vytvorte jeho kópiu. Váš Synchronizačný kľúč nie je možné po strate obnoviť.">
@@ -64,7 +64,7 @@
 <!-- Existing Account Page 2: Sync Key -->
 <!ENTITY setup.existingSyncKeyPage.title "Zadajte váš Synchronizačný kľúč">
 <!ENTITY setup.existingSyncKeyPage.description "Synchronizačný kľúč bol pre Vás vygenerovaný, alebo ste zadali vlastný, pri prvom prihlásení k službe &syncBrand.fullName.label;. Nie je totožný s Vašim heslom.">
-<!ENTITY existingSyncKeyHelp.description "Uložený Snchronizačný kľúč môžete nájsť na niektorom z vašich ďalších počítačov, kde v nastaveniach prehliadača zvolíte panel Bezpečnosť a položku Uložené heslá. Ak kľúč nenájdete, môžete požiadať o nový, pričom ale stratíte všetky údaje uložené na serveri.">
+<!ENTITY existingSyncKeyHelp.description "Uložený Synchronizačný kľúč môžete nájsť na niektorom z vašich ďalších počítačov, kde v nastaveniach prehliadača zvolíte panel Bezpečnosť a položku Uložené heslá. Ak kľúč nenájdete, môžete požiadať o nový, pričom ale stratíte všetky údaje uložené na serveri.">
 <!ENTITY lostSyncKey.label            "Stratený Synchronizačný kľúč">
 <!ENTITY verifying.label              "Overuje sa…">
 

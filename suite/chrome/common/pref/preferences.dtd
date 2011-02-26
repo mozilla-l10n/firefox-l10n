@@ -33,6 +33,7 @@
 <!ENTITY smart.label "Inštalácia softvéru">
 <!ENTITY download.label "Preberanie súborov">
 <!ENTITY keynav.label "Navigácia klávesnicou">
+<!ENTITY findAsYouType.label "Hľadanie počas písania">
 <!ENTITY search.label "Vyhľadávanie na webe">
 <!ENTITY policies.label "Zásady zabezpečenia">
 <!ENTITY mousewheel.label "Koliesko myši">

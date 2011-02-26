@@ -174,6 +174,8 @@
 <!ENTITY calendar.task-details.category.label        "kategória">
 <!ENTITY calendar.task-details.repeat.label          "opakovať">
 <!ENTITY calendar.task-details.attachments.label     "prílohy">
+<!ENTITY calendar.task-details.start.label           "dátum začatia">
+<!ENTITY calendar.task-details.due.label             "termín splnenia">
 
 <!ENTITY calendar.task.category.button.tooltip  "Pridať úlohu do kategórie">
 <!ENTITY calendar.task.complete.button.tooltip  "Označiť vybrané úlohy ako dokončené">
@@ -191,34 +193,22 @@
 <!ENTITY calendar.context.newevent.accesskey          "N">
 <!ENTITY calendar.context.newtodo.label               "Nová úloha…">
 <!ENTITY calendar.context.newtodo.accesskey           "h">
-<!ENTITY calendar.context.modifytask.label            "Upraviť úlohu…">
-<!ENTITY calendar.context.modifytask.accesskey        "U">
-<!ENTITY calendar.context.modifyitem.label            "Upraviť položku…">
-<!ENTITY calendar.context.modifyitem.accesskey        "U">
 <!ENTITY calendar.context.deletetask.label            "Odstrániť úlohu">
 <!ENTITY calendar.context.deletetask.accesskey        "s">
-<!ENTITY calendar.context.deleteitem.label            "Odstrániť">
-<!ENTITY calendar.context.deleteitem.accesskey        "d">
 <!ENTITY calendar.context.deleteevent.label           "Odstrániť udalosť">
 <!ENTITY calendar.context.deleteevent.accesskey       "r">
-<!ENTITY calendar.context.deletethisevent.label       "Táto udalosť">
-<!ENTITY calendar.context.deletethisevent.accesskey   "T">
-<!ENTITY calendar.context.deletecompleteseries.label  "Kompletná séria">
-<!ENTITY calendar.context.deletecompleteseries.accesskey   "K">
-<!ENTITY calendar.context.deletefutureevents.label     "Všetky budúce udalosti">
-<!ENTITY calendar.context.deletefutureevents.accesskey "e">
-<!ENTITY calendar.context.deletefuturetasks.label     "Všetky budúce úlohy">
-<!ENTITY calendar.context.deletefuturetasks.accesskey "b">
 <!ENTITY calendar.context.cutevent.label              "Vystrihnúť">
 <!ENTITY calendar.context.cutevent.accesskey          "V">
 <!ENTITY calendar.context.copyevent.label             "Kopírovať">
 <!ENTITY calendar.context.copyevent.accesskey         "K">
 <!ENTITY calendar.context.pasteevent.label            "Prilepiť">
 <!ENTITY calendar.context.pasteevent.accesskey        "P">
-<!ENTITY calendar.context.selectall.label             "Vybrať všetko">
-<!ENTITY calendar.context.selectall.accesskey         "a">
 <!ENTITY calendar.context.button.label                "Panel Dnes" >
 <!ENTITY calendar.context.button.accesskey            "D" >
+<!ENTITY calendar.context.attendance.menu.label       "Účasť" >
+<!ENTITY calendar.context.attendance.menu.accesskey   "a" >
+<!ENTITY calendar.context.attendance.occurrence.label "Tento termín" >
+<!ENTITY calendar.context.attendance.all.label        "Všetky ďalšie termíny" >
 
 <!-- Task Context Menu -->
 <!ENTITY calendar.context.progress.label              "Stav">
@@ -250,6 +240,12 @@
 <!ENTITY priority.level.normal.accesskey    "o">
 <!ENTITY priority.level.high                "Vysoká">
 <!ENTITY priority.level.high.accesskey      "V">
+
+<!-- Task View -->
+<!-- Note that the above *.context.* strings are currently used for the other
+     task action buttons -->
+<!ENTITY calendar.taskview.delete.label     "Odstrániť">
+<!ENTITY calendar.taskview.delete.accesskey "d">
 
 <!-- Server Context Menu -->
 <!ENTITY calendar.context.newserver.label             "Nový kalendár…">

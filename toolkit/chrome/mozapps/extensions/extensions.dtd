@@ -121,7 +121,7 @@
 
 <!ENTITY detail.updateType                    "Automatické aktualizácie">
 <!ENTITY detail.updateDefault.label           "Predvolené">
-<!ENTITY detail.updateDefault.tooltip         "Automaticky inštalovať aktualizácie len v prípde, že je to predvolené nastavenie">
+<!ENTITY detail.updateDefault.tooltip         "Automaticky inštalovať aktualizácie len v prípade, že je to predvolené nastavenie">
 <!ENTITY detail.updateAutomatic.label         "Zapnuté">
 <!ENTITY detail.updateAutomatic.tooltip       "Automaticky inštalovať aktualizácie">
 <!ENTITY detail.updateManual.label            "Vypnuté">

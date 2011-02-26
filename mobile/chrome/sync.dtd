@@ -18,5 +18,5 @@
 <!ENTITY sync.customServer          "Použiť vlastný server">
 <!ENTITY sync.serverURL             "Adresa servera">
 <!ENTITY sync.setup.connect         "Pripojiť">
-<!ENTITY sync.setup.cancel          "Zrusiť">
+<!ENTITY sync.setup.cancel          "Zrušiť">
 <!ENTITY sync.setup.tutorial        "Ako na to">
