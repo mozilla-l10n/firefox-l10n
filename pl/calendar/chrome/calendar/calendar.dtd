@@ -192,32 +192,16 @@
 <!ENTITY calendar.context.newevent.accesskey          "w">
 <!ENTITY calendar.context.newtodo.label               "Nowe zadanie">
 <!ENTITY calendar.context.newtodo.accesskey           "z">
-<!ENTITY calendar.context.modifytask.label            "Edytuj zadanie…">
-<!ENTITY calendar.context.modifytask.accesskey        "E">
-<!ENTITY calendar.context.modifyitem.label            "Edytuj element…">
-<!ENTITY calendar.context.modifyitem.accesskey        "E">
 <!ENTITY calendar.context.deletetask.label            "Usuń zadanie">
 <!ENTITY calendar.context.deletetask.accesskey        "U">
-<!ENTITY calendar.context.deleteitem.label            "Usuń">
-<!ENTITY calendar.context.deleteitem.accesskey        "U">
 <!ENTITY calendar.context.deleteevent.label           "Usuń wydarzenie">
 <!ENTITY calendar.context.deleteevent.accesskey       "U">
-<!ENTITY calendar.context.deletethisevent.label       "To wydarzenie">
-<!ENTITY calendar.context.deletethisevent.accesskey   "T">
-<!ENTITY calendar.context.deletecompleteseries.label  "Ukończone serie"><!-- FIXME Complete Series (hubert) -->
-<!ENTITY calendar.context.deletecompleteseries.accesskey   "U">
-<!ENTITY calendar.context.deletefutureevents.label     "Wszystkie przyszłe wydarzenia">
-<!ENTITY calendar.context.deletefutureevents.accesskey "W">
-<!ENTITY calendar.context.deletefuturetasks.label     "Wszystkie przyszłe zadania">
-<!ENTITY calendar.context.deletefuturetasks.accesskey "W">
 <!ENTITY calendar.context.cutevent.label              "Wytnij">
 <!ENTITY calendar.context.cutevent.accesskey          "t">
 <!ENTITY calendar.context.copyevent.label             "Kopiuj">
 <!ENTITY calendar.context.copyevent.accesskey         "o">
 <!ENTITY calendar.context.pasteevent.label            "Wklej">
 <!ENTITY calendar.context.pasteevent.accesskey        "k">
-<!ENTITY calendar.context.selectall.label             "Zaznacz wszystko">
-<!ENTITY calendar.context.selectall.accesskey         "a">
 <!ENTITY calendar.context.button.label                "Bieżące">
 <!ENTITY calendar.context.button.accesskey            "B" >
 
