@@ -172,6 +172,8 @@
 <!ENTITY calendar.task-details.category.label        "categorie">
 <!ENTITY calendar.task-details.repeat.label          "herhalen">
 <!ENTITY calendar.task-details.attachments.label     "bijlagen">
+<!ENTITY calendar.task-details.start.label           "begindatum">
+<!ENTITY calendar.task-details.due.label             "einddatum">
 
 <!ENTITY calendar.task.category.button.tooltip  "Taken categoriseren">
 <!ENTITY calendar.task.complete.button.tooltip  "Geselecteerde taken als voltooid markeren">
@@ -201,6 +203,10 @@
 <!ENTITY calendar.context.pasteevent.accesskey        "P">
 <!ENTITY calendar.context.button.label                "Venster Vandaag" >
 <!ENTITY calendar.context.button.accesskey            "d" >
+<!ENTITY calendar.context.attendance.menu.label       "Aanwezigheid" >
+<!ENTITY calendar.context.attendance.menu.accesskey   "A" >
+<!ENTITY calendar.context.attendance.occurrence.label "Deze gebeurtenis" >
+<!ENTITY calendar.context.attendance.all.label        "Alle gebeurtenissen" >
 
 <!-- Task Context Menu -->
 <!ENTITY calendar.context.progress.label              "Voortgang">
