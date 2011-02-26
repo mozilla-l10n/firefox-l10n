@@ -110,6 +110,4 @@
 <!ENTITY pageactions.findInPage      "Rechercher dans la page">
 <!ENTITY pageactions.search.addNew   "Ajouter un moteur de recherche">
 
-<!ENTITY selectHelper.emptytext      "Filtrer la liste">
-
 <!ENTITY appMenu.siteOptions         "Options du site">
