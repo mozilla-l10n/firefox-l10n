@@ -43,6 +43,6 @@
 <!ENTITY moveResizeWindows.label        "Memindah atau mengubah ukuran jendela yang ada">
 <!ENTITY moveResizeWindows.accesskey    "M">
 <!ENTITY raiseLowerWindows.label        "Menaikkan/turunkan jendela">
-<!ENTITY raiseLowerWindows.accesskey    "n">
+<!ENTITY raiseLowerWindows.accesskey    "t">
 <!ENTITY disableContextMenus.label      "Mematikan atau mengganti menu konteks">
 <!ENTITY disableContextMenus.accesskey  "k">

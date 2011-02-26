@@ -8,7 +8,7 @@
 
 <!ENTITY  size.label                              "Ukuran:">
 <!ENTITY  sizeProportional.accesskey              "u">
-<!ENTITY  sizeMonospace.accesskey                 "n">
+<!ENTITY  sizeMonospace.accesskey                 "k">
 
 <!ENTITY  proportional.label                      "Proporsional:">
 <!ENTITY  proportional.accesskey                  "P">
@@ -54,7 +54,7 @@
 <!ENTITY  font.langGroup.tibetan                  "Tibetan">
 <!-- Minimum font size -->
 <!ENTITY minSize.label                            "Ukuran huruf terkecil:">
-<!ENTITY minSize.accesskey                        "k">
+<!ENTITY minSize.accesskey                        "t">
 <!ENTITY minSize.none                             "Tidak Ada">
 
 <!-- default font type -->
