@@ -18,7 +18,8 @@
    - the Initial Developer. All Rights Reserved.
    -
    - Contributor(s):
-   -        Marek Stępien <marcoos@aviary.pl> (Polish l10n)
+   -   Marek Stępien <marcoos@aviary.pl> (Polish localization)
+   -   Hubert Gajewski <hubert@hubertgajewski.com>, Aviary.pl (Polish localization)
    -
    - Alternatively, the contents of this file may be used under the terms of
    - either the GNU General Public License Version 2 or later (the "GPL"), or
@@ -51,5 +52,5 @@ na serwerze, dzięki czemu można będzie go używać zdalnie lub współdzieli�
 <!ENTITY custompage.shortdescription  "Ustawienia kalendarza" >
 <!ENTITY custompage.longdescription   "Wybierz nazwę dla kalendarza. Możliwe jest także wybranie koloru, którym wyróżniane będą wszystkie zdarzenia tego kalendarza." >
 
-<!ENTITY finishpage.shortdescription  "Kalendarz został utworzony" >
-<!ENTITY finishpage.longdescription   "Kalendarz został pomyślnie utworzony." >
+<!ENTITY finishpage.shortdescription  "Utworzono kalendarz" >
+<!ENTITY finishpage.longdescription   "Kalendarz został utworzony." >
