@@ -93,11 +93,9 @@
 <!-- Confirm Merge Options -->
 <!ENTITY setup.optionsConfirmPage.title "确认">
 <!ENTITY confirm.merge.label    "您已经选择将这台电脑上的数据和其他运行 &syncBrand.fullName.label; 的设备上的数据合并。">
-<!ENTITY confirm.client.label         "这台电脑上的全部 &brandShortName; 数据将会被删除，包括如下：">
+<!ENTITY confirm.client2.label         "警告：这台电脑中以下 &brandShortName; 数据将被删除：">
 <!ENTITY confirm.client.moreinfo.label "&brandShortName; 将会把您的 &syncBrand.fullName.label; 数据复制到这台计算机上。">
-<!ENTITY confirm.client.warning.label "警告：这将导致此电脑上全部 &brandShortName; 数据被替换！">
-<!ENTITY confirm.server.label         "您已经选择用这台电脑上的数据覆盖其他设备。">
-<!ENTITY confirm.server.warning.label "警告：这些设备上全部的 &brandShortName; 数据将会被您的本地数据替换！">
+<!ENTITY confirm.server2.label         "警告：以下设备的数据将被您本地的数据覆盖：">
 
 <!-- New & Existing Account: Setup Complete -->
 <!ENTITY setup.successPage.title "安装完成">

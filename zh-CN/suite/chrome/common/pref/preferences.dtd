@@ -31,6 +31,7 @@
 <!ENTITY smart.label "软件安装">
 <!ENTITY download.label "下载项">
 <!ENTITY keynav.label "键盘导航">
+<!ENTITY findAsYouType.label "输入时同步查找">
 <!ENTITY search.label "互联网搜索">
 <!ENTITY policies.label "安全策略">
 <!ENTITY mousewheel.label "鼠标滚轮">

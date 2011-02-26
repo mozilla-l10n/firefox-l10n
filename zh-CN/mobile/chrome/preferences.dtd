@@ -19,3 +19,4 @@
 <!ENTITY homepage.none                             "Blank">
 <!ENTITY homepage.default                          "&brandShortName; 开始">
 <!ENTITY homepage.currentpage                      "使用当前页">
+<!ENTITY showCharset.title                         "显示字符编码">

@@ -109,7 +109,6 @@
 <!ENTITY pageactions.reset           "清除网站首选设置">
 <!ENTITY pageactions.findInPage      "页内查找">
 <!ENTITY pageactions.search.addNew   "添加搜索引擎">
-
-<!ENTITY selectHelper.emptytext      "过滤器列表">
+<!ENTITY pageactions.charEncoding    "字符编码">
 
 <!ENTITY appMenu.siteOptions         "站点选项">
