@@ -378,6 +378,10 @@
 <!-- Read-Only dialog -->
 <!ENTITY read.only.general.label "Obecný">
 <!ENTITY read.only.title.label "Název:">
+<!ENTITY read.only.event.start.label "Začátek:">
+<!ENTITY read.only.task.start.label "Začátek:">
+<!ENTITY read.only.event.end.label  "Konec:">
+<!ENTITY read.only.task.due.label "Konec:">
 <!ENTITY read.only.repeat.label "Opakování:">
 <!ENTITY read.only.location.label "Místo:">
 <!ENTITY read.only.category.label "Kategorie:">
