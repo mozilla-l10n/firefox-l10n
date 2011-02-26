@@ -226,7 +226,7 @@ can reach it easily. -->
 <!ENTITY cutCmd.key             "X">  
 <!ENTITY cutCmd.accesskey         "t"> 
 <!ENTITY copyCmd.label            "Kopii">  
-<!ENTITY copyCmd.key            "K">  
+<!ENTITY copyCmd.key            "C">
 <!ENTITY copyCmd.accesskey          "K"> 
 <!ENTITY pasteCmd.label           "Alglui">  
 <!ENTITY pasteCmd.key           "V">  
@@ -236,7 +236,7 @@ can reach it easily. -->
 <!ENTITY deleteCmd.accesskey        "F"> 
 <!ENTITY selectAllCmd.label         "Elekti ĉion">  
 <!ENTITY selectAllCmd.key         "A">  
-<!ENTITY selectAllCmd.accesskey       "Ĉ"> 
+<!ENTITY selectAllCmd.accesskey       "ĉ">
 <!ENTITY preferencesCmd2.label       "Opcioj">
 <!ENTITY preferencesCmd2.accesskey     "O">
 <!ENTITY preferencesCmdUnix.label       "Preferoj">
