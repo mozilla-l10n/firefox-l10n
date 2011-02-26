@@ -28,16 +28,16 @@ can reach it easily. -->
 <!ENTITY  pinAppTab.accesskey                "P">
 <!ENTITY  unpinAppTab.label                  "Dadbinio Tab">
 <!ENTITY  unpinAppTab.accesskey              "b">
-<!ENTITY  moveToGroup.label                  "Symud i Grwp">
+<!ENTITY  moveToGroup.label                  "Symud i Grŵp">
 <!ENTITY  moveToGroup.accesskey              "S">
-<!ENTITY  moveToNewGroup.label               "Grwp Newydd">
+<!ENTITY  moveToNewGroup.label               "Grŵp Newydd">
 <!ENTITY  moveToNewWindow.label              "Symud i Ffenestr Newydd">
 <!ENTITY  moveToNewWindow.accesskey          "F">
 <!ENTITY  bookmarkAllTabs.label              "Nod Tudalen i Bob Tab...">
 <!ENTITY  bookmarkAllTabs.accesskey          "T">
 <!ENTITY  undoCloseTab.label                 "Dadwneud Cau'r Tab">
 <!ENTITY  undoCloseTab.accesskey             "u">
-<!ENTITY  closeTab.label                     "Cau Tab">
+<!ENTITY  closeTab.label                     "Cau'r Tab">
 <!ENTITY  closeTab.accesskey                 "C">
 
 <!ENTITY  listAllTabs.label      "Rhestru pob tab">
@@ -237,8 +237,8 @@ can reach it easily. -->
 <!ENTITY selectAllCmd.label         "Dewis Popeth">  
 <!ENTITY selectAllCmd.key         "A">  
 <!ENTITY selectAllCmd.accesskey       "D"> 
-<!ENTITY preferencesCmd2.label       "Options">
-<!ENTITY preferencesCmd2.accesskey     "O">
+<!ENTITY preferencesCmd2.label       "Dewisiadau">
+<!ENTITY preferencesCmd2.accesskey     "D">
 <!ENTITY preferencesCmdUnix.label       "Dewisiadau">
 <!ENTITY preferencesCmdUnix.accesskey     "e"> 
 

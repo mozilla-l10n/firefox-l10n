@@ -19,6 +19,7 @@
 <!ENTITY mySyncKey.label              "Allwedd Cydweddu">
 <!ENTITY resetSync.label              "Ailosod Cydweddu">
 <!ENTITY stopUsingAccount.label       "Peidio Defnyddio'r Cyfriof">
+<!ENTITY addDevice.label              "Ychwanegu Dyfais">
 
 <!-- Sync Settings -->
 <!ENTITY syncPrefsCaption.label       "Cydweddu Porwyr">
