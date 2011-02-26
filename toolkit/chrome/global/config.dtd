@@ -43,12 +43,12 @@
 <!ENTITY aboutWarningButton.label "Vseeno nadaljuj!">
 <!ENTITY aboutWarningCheckbox.label "Naslednjič prikaži to opozorilo">
 
-<!ENTITY filterPrefs.label "Filter:">
+<!ENTITY filterPrefs.label "Iskanje:">
 <!ENTITY filterPrefs.accesskey "I">
 <!ENTITY focusFilter.key "i">
 
 <!-- Columns -->
-<!ENTITY prefColumn.label "Izbrano ime">
+<!ENTITY prefColumn.label "Ime nastavitve">
 <!ENTITY lockColumn.label "Stanje">
 <!ENTITY typeColumn.label "Vrsta">
 <!ENTITY valueColumn.label "Vrednost">
@@ -73,9 +73,9 @@
 <!ENTITY reset.accesskey "N">
 <!ENTITY new.label "Novo">
 <!ENTITY new.accesskey "n">
-<!ENTITY string.label "String">
-<!ENTITY string.accesskey "S">
-<!ENTITY integer.label "Integer">
+<!ENTITY string.label "Niz znakov">
+<!ENTITY string.accesskey "A">
+<!ENTITY integer.label "Celo število">
 <!ENTITY integer.accesskey "I">
-<!ENTITY boolean.label "Boolean">
-<!ENTITY boolean.accesskey "B">
+<!ENTITY boolean.label "Logična vrednost">
+<!ENTITY boolean.accesskey "G">
