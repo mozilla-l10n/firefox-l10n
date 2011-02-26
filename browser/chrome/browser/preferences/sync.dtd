@@ -14,6 +14,7 @@
 <!ENTITY changePassword.label         "Newid Cyfrinair">
 <!ENTITY mySyncKey.label              "Allwedd Cydweddu">
 <!ENTITY resetSync.label              "Ailosod Cydweddu">
+<!ENTITY stopUsingAccount.label       "Peidio Defnyddio'r Cyfrif">
 <!ENTITY addDevice.label              "Ychwanegu Dyfais">
 
 <!-- Sync Settings -->
