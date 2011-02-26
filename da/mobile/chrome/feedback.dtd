@@ -1,0 +1,14 @@
+<!ENTITY feedbackHeader2.label          "Beta feedback">
+
+<!ENTITY feedback.communicate.title     "Hvad synes du?">
+<!ENTITY feedback.feedback.title        "Giv os din mening">
+<!ENTITY feedback.feedback.good         "God">
+<!ENTITY feedback.feedback.bad          "Dårlig">
+
+<!ENTITY feedback.information.title     "Læs mere">
+<!ENTITY feedback.about.title           "Om denne beta">
+<!ENTITY feedback.about.button          "Gå til siden">
+
+<!ENTITY feedback.tools.title           "Indstillinger">
+<!ENTITY feedback.forceCompat.title     "Tving kompatibilitet med tilføjelser">
+<!ENTITY feedback.errorConsole.title    "Aktiver fejlkonsol">

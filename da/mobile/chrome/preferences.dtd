@@ -2,6 +2,7 @@
 <!ENTITY about.title                               "Om &brandShortName;">
 <!ENTITY about.button                              "Gå til side">
 <!ENTITY content.title                             "Indhold">
+<!ENTITY reflowZoom.title                          "Ombryd tekst ved zoom">
 <!ENTITY showImages.title                          "Vis billeder">
 <!ENTITY enableJavaScript.title                    "Aktiver JavaScript">
 <!ENTITY enablePlugins.title                       "Aktiver plugins">
@@ -11,10 +12,11 @@
 <!ENTITY clearPrivateData.button                   "Ryd">
 <!ENTITY rememberPasswords.title                   "Husk adgangskoder">
 <!ENTITY language.title                            "Sprog">
-<!ENTITY language.auto                             "Autodetekter">
+<!ENTITY language.auto                             "Auto">
 <!ENTITY defaultBrowser.title                      "Standardbrowser">
 <!ENTITY defaultBrowser.description                "Gør &brandShortName; til din standardbrowser">
 <!ENTITY homepage.title                            "Startside">
 <!ENTITY homepage.none                             "Blank side">
 <!ENTITY homepage.default                          "&brandShortName; Start">
 <!ENTITY homepage.currentpage                      "Brug nuværende side">
+<!ENTITY showCharset.title                         "Vis tegnkodning">

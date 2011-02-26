@@ -1,0 +1,18 @@
+<!ENTITY  splash_screen_label "indlæser">
+<!ENTITY  splash_screen_installing "installerer biblioteker\u2026">
+<!ENTITY  incompatable_cpu_error "Denne enhed overholder ikke minimumkrav for &brandShortName;.">
+<!ENTITY  no_space_to_start_error "Der er ikke nok fri plads til at kunne starte &brandShortName;.">
+<!ENTITY  error_loading_file "En fejl opstod under indlæsning af filer nødvendige for at kunne køre &brandShortName;">
+
+<!ENTITY  crash_reporter_title "&brandShortName; Fejlraportør">
+<!ENTITY  crash_message "&brandShortName; gik ned. Dine faneblade bør blive vist på &brandShortName; Start-siden når du genstarter.">
+<!ENTITY  crash_help_message "Hjælp os med at rette dette problem!">
+<!ENTITY  crash_send_report_message "Send Mozilla en fejlrapport">
+<!ENTITY  crash_include_url "Inkluder webadresse">
+<!ENTITY  crash_close_label "Luk">
+<!ENTITY  crash_restart_label "Genstart &brandShortName;">
+<!ENTITY  sending_crash_report "Sender fejlrapport\u2026">
+<!ENTITY  exit_label "Afslut">
+<!ENTITY  incompatable_device "&brandShortName; understøtter ikke din enhed og du vil måske opleve 
+problemer.">
+<!ENTITY  continue_label "Fortsæt">
