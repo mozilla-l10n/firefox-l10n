@@ -21,10 +21,10 @@
 <!ENTITY rights.intro-point2-c ".">
 
 <!-- point 2.5 text for official branded builds -->
-<!ENTITY rights.intro-point2.5 "Niektóre funkcje programu &brandShortName;, takie jak zgłaszanie awarii, umożliwiają przesyłanie opinii do twórcy oprogramowania (&vendorShortName;). Przesyłając takie opinie, wyrażasz zgodę na używanie przez twórcę oprogramowania (&vendorShortName;) przesłanych opinii do celów ulepszenia jego produktów, publikowania tych opinii na stronach internetowych i do ich rozpowszechniania.">
+<!ENTITY rights.intro-point2.5 "Niektóre funkcje programu &brandShortName;, takie jak zgłaszanie awarii, umożliwiają przesyłanie opinii do dostawcy oprogramowania (&vendorShortName;). Przesyłając takie opinie, wyrażasz zgodę na używanie przez dostawcę oprogramowania (&vendorShortName;) przesłanych opinii do celów ulepszenia jego produktów, publikowania tych opinii na stronach internetowych i do ich rozpowszechniania.">
 
 <!-- point 3 text for official branded builds -->
-<!ENTITY rights2.intro-point3a "Informacje o tym, jak wykorzystujemy dane osobiste i opinie przesłane do twórcy oprogramowania (&vendorShortName;) przez program &brandShortName; zostały przedstawione w ">
+<!ENTITY rights2.intro-point3a "Informacje o tym, jak wykorzystujemy dane osobiste i opinie przesłane do dostawcy oprogramowania (&vendorShortName;) przez program &brandShortName; zostały przedstawione w ">
 <!ENTITY rights2.intro-point3b "zasadach ochrony prywatności programu &brandShortName;">
 <!ENTITY rights.intro-point3c ".">
 
