@@ -20,3 +20,4 @@
 <!ENTITY homepage.none                             "Page vide">
 <!ENTITY homepage.default                          "Accueil de &brandShortName;">
 <!ENTITY homepage.currentpage                      "Page courante">
+<!ENTITY showCharset.title                         "Afficher l'encodage des caractères">

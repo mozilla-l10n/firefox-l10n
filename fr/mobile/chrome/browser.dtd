@@ -109,5 +109,6 @@
 <!ENTITY pageactions.reset           "Effacer les préférences de site">
 <!ENTITY pageactions.findInPage      "Rechercher dans la page">
 <!ENTITY pageactions.search.addNew   "Ajouter un moteur de recherche">
+<!ENTITY pageactions.charEncoding    "Encodage des caractères">
 
 <!ENTITY appMenu.siteOptions         "Options du site">
