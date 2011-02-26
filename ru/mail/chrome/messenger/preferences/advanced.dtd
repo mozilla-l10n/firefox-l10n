@@ -63,7 +63,7 @@
 <!ENTITY Diskspace "Дисковое пространство">
 <!ENTITY offlineCompact.label "Сжимать папки, если при этом высвободится более">
 <!ENTITY offlineCompact.accesskey "м">
-<!ENTITY kb.label "КБ">
+<!ENTITY mb.label "МБ">
 <!ENTITY useCacheBefore.label "Использовать до">
 <!ENTITY useCacheBefore.accesskey "п">
 <!ENTITY useCacheAfter.label "МБ на диске для кэша">
