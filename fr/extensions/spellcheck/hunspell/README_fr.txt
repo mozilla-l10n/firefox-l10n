@@ -1,7 +1,7 @@
 _______________________________________________________________________________
 
    DICTIONNAIRE ORTHOGRAPHIQUE FRANÇAIS «Classique & Réforme 1990»
-   version 3.8
+   version 3.9.5
    
    Olivier R. - dicollecte<at>free<dot>fr
    Dicollecte: http://www.dicollecte.org/
@@ -19,7 +19,8 @@ _______________________________________________________________________________
    
    Principaux contributeurs:
    - Laurent Dubois, administrateur du dictionnaire;
-   - Sylvain P. et Pierre Poisson, contrôleurs;
+   - Sylvain P., éditeur du dictionnaire;
+   - Pierre Poisson et Pierre-Yves, contrôleurs;
    - Romain Muller et Serge Bibauw, de l’association RENOUVO, grâce à qui
      la nouvelle orthographe et ses anciennes variantes ont pu être établies;
    - Chantal Contant, pour ses recherches sur la réforme de 1990;
