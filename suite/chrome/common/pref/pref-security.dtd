@@ -37,6 +37,11 @@
 
 <!--LOCALIZATION NOTE : FILE 'Privacy and Security' prefs settings -->
 <!ENTITY pref.security.title              "隐私 &amp; 安全">
+
+<!ENTITY tracking.label                   "用户追踪">
+<!ENTITY doNotTrack.label                 "告诉网站我不希望被追踪">
+<!ENTITY doNotTrack.accesskey             "T">
+
 <!ENTITY privateData.label                "隐私数据">
 
 <!ENTITY alwaysClear.label                "退出 &brandShortName; 时自动清除我的隐私数据">
