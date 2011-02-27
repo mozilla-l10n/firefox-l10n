@@ -172,6 +172,8 @@
 <!ENTITY calendar.task-details.category.label "kategori">
 <!ENTITY calendar.task-details.repeat.label "tekrarla">
 <!ENTITY calendar.task-details.attachments.label "attachments">
+<!ENTITY calendar.task-details.start.label "start date">
+<!ENTITY calendar.task-details.due.label "due date">
 
 <!ENTITY calendar.task.category.button.tooltip "Görevleri kategorileştir">
 <!ENTITY calendar.task.complete.button.tooltip "Seçili görevleri tamamlanmış olarak işaretle">
@@ -201,6 +203,10 @@
 <!ENTITY calendar.context.pasteevent.accesskey "p">
 <!ENTITY calendar.context.button.label "Bugün paneli">
 <!ENTITY calendar.context.button.accesskey "B">
+<!ENTITY calendar.context.attendance.menu.label "Attendance">
+<!ENTITY calendar.context.attendance.menu.accesskey "d">
+<!ENTITY calendar.context.attendance.occurrence.label "This Occurrence">
+<!ENTITY calendar.context.attendance.all.label "All Occurrences">
 <!-- Task Context Menu -->
 
 <!ENTITY calendar.context.progress.label "İlerleme">

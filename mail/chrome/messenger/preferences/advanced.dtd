@@ -77,7 +77,7 @@
 <!ENTITY Diskspace "Boş disk alanı">
 <!ENTITY offlineCompact.label "Dizinler ">
 <!ENTITY offlineCompact.accesskey "z">
-<!ENTITY kb.label "KB'dan fazla olursa sıkıştır">
+<!ENTITY mb.label "MB">
 <!-- LOCALIZATION NOTE:
   The entities useCacheBefore.label and useCacheAfter.label appear on a single
   line in preferences as follows:
