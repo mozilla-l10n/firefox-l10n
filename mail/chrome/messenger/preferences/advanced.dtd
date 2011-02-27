@@ -108,7 +108,7 @@
 <!ENTITY Diskspace "Disko atmintis">
 <!ENTITY offlineCompact.label "Suglaudinti aplankus, jei tai padės sutaupyti daugiau kaip">
 <!ENTITY offlineCompact.accesskey "S">
-<!ENTITY kb.label "KB">
+<!ENTITY mb.label "MB">
 
 <!-- LOCALIZATION NOTE:
   The entities useCacheBefore.label and useCacheAfter.label appear on a single
