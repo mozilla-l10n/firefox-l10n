@@ -25,6 +25,7 @@
    -   Philipp Kewisch <mozilla@kewis.ch>
    -   Martin Schroeder <mschroeder@mozilla.x-home.org>
    -   Stefan Lewitas <stefan.lewitas@gmail.com>
+   -   Alexander Lindqvist <alexander@alphaone.se>
    - Alternatively, the contents of this file may be used under the terms of
    - either the GNU General Public License Version 2 or later (the "GPL"), or
    - the GNU Lesser General Public License Version 2.1 or later (the "LGPL"),
@@ -49,8 +50,11 @@
 
 <!-- New menu popup in File menu -->
 <!ENTITY lightning.menupopup.new.event.label    "Händelse…">
+<!ENTITY lightning.menupopup.new.event.accesskey "H">
 <!ENTITY lightning.menupopup.new.task.label     "Uppgift…">
+<!ENTITY lightning.menupopup.new.task.accesskey "U">
 <!ENTITY lightning.menupopup.new.calendar.label "Kalender…">
+<!ENTITY lightning.menupopup.new.calendar.accesskey "K">
 
 <!-- Open menu popup in File menu -->
 <!ENTITY lightning.menupopup.open.label               "Öppna">
@@ -60,13 +64,15 @@
 <!ENTITY lightning.menupopup.open.calendar.label      "Kalenderfil…">
 <!ENTITY lightning.menupopup.open.calendar.accesskey  "K">
 
-<!-- Messenger Sidebar -->
-<!ENTITY lightning.sidebar.invitations.label "Inbjudningar">
-<!ENTITY lightning.sidebar.invitations.accesskey "I">
-<!ENTITY lightning.calendar.label            "Kalender">
-<!ENTITY lightning.calendar.accesskey        "K">
-<!ENTITY lightning.tasks.label               "Uppgifter">
-<!ENTITY lightning.tasks.accesskey           "U">
+<!-- View Menu -->
+<!ENTITY lightning.menu.view.calendar.label            "Kalender">
+<!ENTITY lightning.menu.view.calendar.accesskey        "K">
+<!ENTITY lightning.menu.view.tasks.label               "Uppgifter">
+<!ENTITY lightning.menu.view.tasks.accesskey           "U">
+
+<!-- Events and Tasks menu -->
+<!ENTITY lightning.menu.eventtask.label                "Händelser och uppgifter">
+<!ENTITY lightning.menu.eventtask.accesskey            "H">
 
 <!-- Mode Toolbar -->
 <!ENTITY lightning.toolbar.mail.label         "E-post">
@@ -76,15 +82,9 @@
 <!ENTITY lightning.toolbar.task.label         "Uppgifter">
 <!ENTITY lightning.toolbar.task.accesskey     "U">
 
-<!-- Customize Toolbar Dialog -->
-<!ENTITY customize.toolbar.selector.label    "Verktygsfält:">
-<!ENTITY customize.toolbar.selector.mode     "Typ">
-<!ENTITY customize.toolbar.selector.mail     "E-post">
-<!ENTITY customize.toolbar.selector.calendar "Kalender">
-<!ENTITY customize.toolbar.selector.task     "Uppgifter">
-<!ENTITY customize.toolbar.location.label    "Plats:">
-<!ENTITY customize.toolbar.location.top      "Överst">
-<!ENTITY customize.toolbar.location.bottom   "Nederst">
+<!-- Toolbar write button -->
+<!ENTITY lightning.toolbar.newevent.label     "Händelse">
+<!ENTITY lightning.toolbar.newtask.label      "Uppgift">
 
 <!-- Messenger Toolbar -->
 <!ENTITY lightning.toolbar.day.label     "Dag">
@@ -105,6 +105,8 @@
 <!ENTITY lightning.imipbar.description "Detta meddelande innehåller en inbjudan till en händelse.">
 
 <!-- Lightning specific keybindings -->
+<!ENTITY lightning.keys.event.showCalendar.key "C">
+<!ENTITY lightning.keys.event.showTasks.key "D">
 <!ENTITY lightning.keys.event.new "I">
 <!ENTITY lightning.keys.todo.new "D">
 
@@ -120,3 +122,4 @@
 <!ENTITY todaypane.showNone.accesskey "n">
 <!ENTITY todaypane.showTodayPane.label "Visa Idag">
 <!ENTITY todaypane.showTodayPane.accesskey "I">
+<!ENTITY todaypane.statusButton.label "Idag panelen">

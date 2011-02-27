@@ -1,0 +1,105 @@
+<!-- ***** BEGIN LICENSE BLOCK *****
+   - Version: MPL 1.1/GPL 2.0/LGPL 2.1
+   -
+   - The contents of this file are subject to the Mozilla Public License Version
+   - 1.1 (the "License"); you may not use this file except in compliance with
+   - the License. You may obtain a copy of the License at
+   - http://www.mozilla.org/MPL/
+   -
+   - Software distributed under the License is distributed on an "AS IS" basis,
+   - WITHOUT WARRANTY OF ANY KIND, either express or implied. See the License
+   - for the specific language governing rights and limitations under the
+   - License.
+   -
+   - The Original Code is Sun Microsystems code.
+   -
+   - The Initial Developer of the Original Code is
+   -   Philipp Kewisch <mozilla@kewis.ch>
+   - Portions created by the Initial Developer are Copyright (C) 2008
+   - the Initial Developer. All Rights Reserved.
+   -
+   - Contributor(s):
+   -	Alexander Lindqvist <alexander@alphaone.se>
+   -
+   - Alternatively, the contents of this file may be used under the terms of
+   - either the GNU General Public License Version 2 or later (the "GPL"), or
+   - the GNU Lesser General Public License Version 2.1 or later (the "LGPL"),
+   - in which case the provisions of the GPL or the LGPL are applicable instead
+   - of those above. If you wish to allow use of your version of this file only
+   - under the terms of either the GPL or the LGPL, and not to allow others to
+   - use your version of this file under the terms of the MPL, indicate your
+   - decision by deleting the provisions above and replace them with the notice
+   - and other provisions required by the LGPL or the GPL. If you do not delete
+   - the provisions above, a recipient may use your version of this file under
+   - the terms of any one of the MPL, the GPL or the LGPL.
+   -
+   - ***** END LICENSE BLOCK ***** -->
+
+<!ENTITY sunbird.choosedate.button.tooltip                 "Välj datum att gå till" >
+<!ENTITY sunbird.cut.button.tooltip                        "Klipp ut" >
+<!ENTITY sunbird.copy.button.tooltip                       "Kopiera" >
+<!ENTITY sunbird.paste.button.tooltip                      "Klistra in" >
+<!ENTITY sunbird.print.button.tooltip                      "Skriv ut kalender" >
+<!ENTITY sunbird.delete.button.tooltip                     "Radera vald händelse" >
+<!ENTITY sunbird.remotereload.button.tooltip               "Ladda om alla fjärrkalendrar" >
+<!ENTITY sunbird.import.button.tooltip                     "Importera händelser från en lokal fil" >
+<!ENTITY sunbird.export.button.tooltip                     "Exportera händelser till en lokal fil" >
+<!ENTITY sunbird.subscribe.button.tooltip                  "Prenumerera på en kalender fil på en fjärrserver" >
+<!ENTITY sunbird.publish.button.tooltip                    "Publicera händelser till en fjärrserver" >
+<!ENTITY sunbird.unifinder.button.tooltip                  "Hitta och lista händelser" >
+<!ENTITY sunbird.edit.button.tooltip                       "Redigera vald händelse" >
+
+<!ENTITY sunbird.choosedate.button.label                   "Välj datum" >
+<!ENTITY sunbird.cut.button.label                          "Klipp ut" >
+<!ENTITY sunbird.copy.button.label                         "Kopiera" >
+<!ENTITY sunbird.paste.button.label                        "Klistra in" >
+<!ENTITY sunbird.delete.button.label                       "Radera" >
+<!ENTITY sunbird.remotereload.button.label                 "Ladda om" >
+<!ENTITY sunbird.import.button.label                       "Importera" >
+<!ENTITY sunbird.export.button.label                       "Exportera" >
+<!ENTITY sunbird.subscribe.button.label                    "Prenumerera" >
+<!ENTITY sunbird.publish.button.label                      "Publisera" >
+<!ENTITY sunbird.unifinder.button.label                    "Hitta händelser" >
+<!ENTITY sunbird.edit.button.label                         "Redigera" >
+
+<!ENTITY sunbird.flat.topbar.choosedate                    "Gå till datum" >
+<!ENTITY sunbird.flat.topbar.dayview                       "Dags vy" >
+<!ENTITY sunbird.flat.topbar.weekview                      "Vecko vy" >
+<!ENTITY sunbird.flat.topbar.monthview                     "Månads vy" >
+<!ENTITY sunbird.flat.topbar.multiweekview                 "Flerveckors vy" >
+
+<!ENTITY sunbird.dayview.accesskey                         "D" >
+<!ENTITY sunbird.weekview.accesskey                        "V" >
+<!ENTITY sunbird.monthview.accesskey                       "M" >
+<!ENTITY sunbird.multiweekview.accesskey                   "y" >
+
+
+<!ENTITY sunbird.calendartab.label                         "Datum">
+<!ENTITY sunbird.listofcalendarstab.label                  "Kalendrar">
+
+<!ENTITY sunbird.find.key                                  "F">
+<!ENTITY sunbird.close.key                                 "W">
+
+<!ENTITY sunbird.menu.numberofweeks.label                  "Antal veckor" >
+<!ENTITY sunbird.menu.numberofweeks.accesskey              "A" >
+<!ENTITY sunbird.menu.numberofweeks.1                      "1 vecka" >
+<!ENTITY sunbird.menu.numberofweeks.2                      "2 veckor" >
+<!ENTITY sunbird.menu.numberofweeks.3                      "3 veckor" >
+<!ENTITY sunbird.menu.numberofweeks.4                      "4 veckor" >
+<!ENTITY sunbird.menu.numberofweeks.5                      "5 veckor" >
+<!ENTITY sunbird.menu.numberofweeks.6                      "6 veckor" >
+
+<!-- customizable toolbars -->
+<!ENTITY sunbird.context.customize.label                   "Anpassa…">
+<!ENTITY sunbird.context.customize.accesskey               "A">
+<!ENTITY sunbird.menu.customize.label                      "Anpassa verktygsfält…">
+<!ENTITY sunbird.menu.customize.accesskey                  "f">
+<!ENTITY sunbird.maintoolbar.name                          "Verktygsfält">
+<!ENTITY sunbird.maintoolbar.accesskey                     "V">
+
+<!-- Sunbird Help -->
+<!ENTITY sunbird.help.label                                "Innehåll hjälp">
+<!ENTITY sunbird.help.accesskey                            "I">
+
+<!-- LOCALIZATION NOTE (mainWindow.title): DONT_TRANSLATE -->
+<!ENTITY mainWindow.title                                  "&brandFullName;">

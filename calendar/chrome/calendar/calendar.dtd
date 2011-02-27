@@ -27,7 +27,9 @@
    -                 Simon Paquet <bugzilla@babylonsounds.com>
    -                 Stefan Sitter <ssitter@gmail.com>
    -                 Philipp Kewisch <mozilla@kewis.ch>
-   -                 Stefan Lewitas <stefan.lewitas@gmail.com>
+   - 		     Stefan Lewitas <stefan.lewitas@gmail.com>
+   -                 Alexander Lindqvist <alexander@alphaone.se>
+   -		     Adrian Lindqvist <adrian@alphaone.se>
    - Alternatively, the contents of this file may be used under the terms of
    - either the GNU General Public License Version 2 or later (the "GPL"), or
    - the GNU Lesser General Public License Version 2.1 or later (the "LGPL"),
@@ -43,117 +45,77 @@
    - ***** END LICENSE BLOCK ***** -->
 
 <!-- General -->
-<!ENTITY calendar.file.default.name  "Min kalender" >
 <!ENTITY calendar.calendar.label     "Kalender">
 <!ENTITY calendar.calendar.accesskey "K">
 
-
-<!ENTITY calendar.confirm.deleteallevents  "Är du säker på att du vill ta bort angiven händelse?" >
-<!ENTITY calendar.confirm.deleteevent "Är du säker på att du vill ta bort händelse med titeln: " >
-<!ENTITY calendar.confirm.deleteuntitledevent "Är du säker på att du vill ta bort namnlös händelse?" >
-
-<!ENTITY calendar.flat.topbar.choosedate       "Gå till datum" >
-<!ENTITY calendar.flat.topbar.dayview          "Dag" >
-<!ENTITY calendar.dayview.accesskey            "D" >
-<!ENTITY calendar.flat.topbar.weekview         "Vecka" >
-<!ENTITY calendar.weekview.accesskey           "V" >
-<!ENTITY calendar.flat.topbar.monthview        "Månad" >
-<!ENTITY calendar.monthview.accesskey          "M" >
-<!ENTITY calendar.flat.topbar.multiweekview    "Flera veckor" >
-<!ENTITY calendar.multiweekview.accesskey      "F" >
-<!ENTITY calendar.dayView.key                  "1" >
-<!ENTITY calendar.weekView.key                 "2" >
-<!ENTITY calendar.multiweekView.key            "3" >
-<!ENTITY calendar.monthView.key                "4" >
-
-<!ENTITY calendar.newtask.button.tooltip          "Skapa ny uppgift" >
 <!ENTITY calendar.newevent.button.tooltip         "Skapa ny händelse" >
-<!ENTITY calendar.delete.button.tooltip           "Ta bort vald händelse" >
-<!ENTITY calendar.edit.button.tooltip             "Redigera vald händelse" >
+<!ENTITY calendar.newtask.button.tooltip          "Skapa ny uppgift" >
 
 <!ENTITY calendar.unifinder.todoitems.label       "Uppgifter" >
-<!ENTITY calendar.unifinder.showcompletedtodos.label "Visa avslutade uppgifter">
+<!ENTITY calendar.unifinder.showcompletedtodos.label "Visa slutförda Uppgifter">
 
-<!ENTITY calendar.calendartab.label "Kalender">
-<!ENTITY calendar.listofcalendarstab.label "Kalendrar">
-<!ENTITY calendar.today.button.label       "Idag" >
-<!ENTITY calendar.tomorrow.button.label       "I morgon">
-<!ENTITY calendar.soon.button.label           "Snart">
+<!ENTITY calendar.today.button.label       "Idag">
+<!ENTITY calendar.tomorrow.button.label       "Imorgon">
+<!ENTITY calendar.soon.button.label           "Senare">
 
 <!ENTITY calendar.events.filter.all.label "Alla händelser">
-<!ENTITY calendar.events.filter.today.label "Händelser idag">
-<!ENTITY calendar.events.filter.future.label "Alla kommande händelser">
-<!ENTITY calendar.events.filter.current.label "Händelser denna dag">
-<!ENTITY calendar.events.filter.next7Days.label "Händelser kommande 7 dagar">
-<!ENTITY calendar.events.filter.next14Days.label "Händelser kommande 14 dagar">
-<!ENTITY calendar.events.filter.next31Days.label "Händelser kommande 31 dagar">
-<!ENTITY calendar.events.filter.thisCalendarMonth.label "Händelser denna månad">
+<!ENTITY calendar.events.filter.today.label "Dagens händelser">
+<!ENTITY calendar.events.filter.future.label "Alla framtida händelser">
+<!ENTITY calendar.events.filter.current.label "Förnärvarande valda dagen">
+<!ENTITY calendar.events.filter.next7Days.label "händelser för de nästkommande 7 dagarna">
+<!ENTITY calendar.events.filter.next14Days.label "händelser för de nästkommande 14 dagarna">
+<!ENTITY calendar.events.filter.next31Days.label "händelser för de nästkommande 31 dagarna">
+<!ENTITY calendar.events.filter.thisCalendarMonth.label "händelser denna kalendermånad">
 
-<!ENTITY calendar.unifinder.tree.done.label          "OK">
+<!ENTITY calendar.unifinder.tree.done.label          "Färdig">
 <!ENTITY calendar.unifinder.tree.priority.label      "Prioritet">
 <!ENTITY calendar.unifinder.tree.title.label         "Titel">
-<!ENTITY calendar.unifinder.tree.percentcomplete.label "&#37; färdigt">
+<!ENTITY calendar.unifinder.tree.percentcomplete.label "&#37; Färdigt">
 <!ENTITY calendar.unifinder.tree.startdate.label     "Start">
 <!ENTITY calendar.unifinder.tree.enddate.label       "Slut">
-<!ENTITY calendar.unifinder.tree.duedate.label       "Förfaller">
-<!ENTITY calendar.unifinder.tree.completeddate.label "Färdig">
-<!ENTITY calendar.unifinder.tree.categories.label    "Kategorier">
-<!ENTITY calendar.unifinder.tree.location.label    "Plats">
-<!ENTITY calendar.unifinder.tree.status.label    "Status">
-<!ENTITY calendar.unifinder.tree.calendarname.label    "Kalendernamn">
-<!ENTITY calendar.unifinder.tree.duration.label      "Förfaller om">
-<!ENTITY calendar.unifinder.close.tooltip            "Stäng sökruta och händelselista">
-<!ENTITY calendar.find.key  "F">
+<!ENTITY calendar.unifinder.tree.duedate.label       "Förfallodag">
+<!ENTITY calendar.unifinder.tree.completeddate.label "Slutförd">
+<!ENTITY calendar.unifinder.tree.categories.label    "Kategori">
+<!ENTITY calendar.unifinder.tree.location.label      "Plats">
+<!ENTITY calendar.unifinder.tree.status.label        "Status">
+<!ENTITY calendar.unifinder.tree.calendarname.label  "Kalender namn">
+<!ENTITY calendar.unifinder.tree.duration.label      "Förfaller inom">
+<!ENTITY calendar.unifinder.close.tooltip            "Stäng händelsesökning och händelselista ">
 
-<!ENTITY calendar.today.button.tooltip            "Gå till idag" >
-<!ENTITY calendar.todaypane.button.tooltip        "Visa Idag" >
-<!ENTITY calendar.choosedate.button.tooltip       "Välj datum att gå till" >
-<!ENTITY calendar.unifinder.button.tooltip        "Sök och visa händelser" >
+<!ENTITY calendar.today.button.tooltip          "Gå till idag" >
+<!ENTITY calendar.todaypane.button.tooltip      "Visa idag panelen" >
 
-<!ENTITY calendar.day.button.tooltip          "Byt till dagsöversikt" >
-<!ENTITY calendar.week.button.tooltip         "Byt till veckoöversikt" >
-<!ENTITY calendar.month.button.tooltip        "Byt till månadsöversikt" >
-<!ENTITY calendar.multiweek.button.tooltip        "Byt till flerveckorsöversikt" >
+<!ENTITY calendar.day.button.tooltip            "Växla till dagsvy" >
+<!ENTITY calendar.week.button.tooltip           "Växla till veckovy" >
+<!ENTITY calendar.month.button.tooltip          "Växla till månadsvy" >
+<!ENTITY calendar.multiweek.button.tooltip      "Växla till flerveckorsöversikt" >
 
-<!ENTITY calendar.nextday.button.tooltip        "Nästa dag" >
-<!ENTITY calendar.prevday.button.tooltip        "Föregående dag" >
-<!ENTITY calendar.nextweek.button.tooltip       "Nästa vecka" >
-<!ENTITY calendar.prevweek.button.tooltip       "Föregående vecka" >
-<!ENTITY calendar.nextmonth.button.tooltip      "Nästa månad" >
-<!ENTITY calendar.prevmonth.button.tooltip      "Föregående månad" >
+<!ENTITY calendar.navigation.nextday.tooltip    "En dag frammåt" >
+<!ENTITY calendar.navigation.prevday.tooltip    "En dag bakåt" >
+<!ENTITY calendar.navigation.nextweek.tooltip   "En vecka frammåt" >
+<!ENTITY calendar.navigation.prevweek.tooltip   "En vecka bakåt" >
+<!ENTITY calendar.navigation.nextmonth.tooltip  "En månad frammåt" >
+<!ENTITY calendar.navigation.prevmonth.tooltip  "En månad bakåt" >
+
+<!ENTITY calendar.nextday.label                 "Nästa dag" >
+<!ENTITY calendar.prevday.label                 "Föregående dag" >
+<!ENTITY calendar.nextday.accesskey             "N" >
+<!ENTITY calendar.prevday.accesskey             "F" >
+<!ENTITY calendar.nextweek.label                "Nästa vecka" >
+<!ENTITY calendar.prevweek.label                "Föregående vecka" >
+<!ENTITY calendar.nextweek.accesskey            "ä" >
+<!ENTITY calendar.prevweek.accesskey            "ö" >
+<!ENTITY calendar.nextmonth.label               "Nästa månad" >
+<!ENTITY calendar.prevmonth.label               "Föregående månad" >
+<!ENTITY calendar.nextmonth.accesskey           "s" >
+<!ENTITY calendar.prevmonth.accesskey           "r" >
 
 <!ENTITY calendar.newtask.button.label          "Ny uppgift" >
 <!ENTITY calendar.newevent.button.label         "Ny händelse" >
-<!ENTITY calendar.delete.button.label           "Ta bort" >
-<!ENTITY calendar.edit.button.label             "Redigera" >
 
-<!ENTITY calendar.choosedate.button.label       "Välj datum" >
-
-<!ENTITY calendar.cut.button.tooltip            "Klipp ut" >
-<!ENTITY calendar.copy.button.tooltip           "Kopiera" >
-<!ENTITY calendar.paste.button.tooltip          "Klistra in" >
-<!ENTITY calendar.print.button.tooltip          "Skriv ut kalender" >
-
-<!ENTITY calendar.cut.button.label              "Klipp ut" >
-<!ENTITY calendar.copy.button.label             "Kopiera" >
-<!ENTITY calendar.paste.button.label            "Klistra in" >
 <!ENTITY calendar.print.button.label            "Skriv ut" >
 
-<!ENTITY calendar.import.button.tooltip            "Import: Importera händelser från en lokal fil till en befintlig kalender." >
-<!ENTITY calendar.export.button.tooltip            "Export: Exportera händelser från en kalender till en lokal fil." >
-<!ENTITY calendar.subscribe.button.tooltip         "Prenumeration: Prenumerera på innehållet i en länkad kalender (t.ex. på Internet eller på en server)" >
-<!ENTITY calendar.publish.button.tooltip            "Publicering: Publicera händelser till en länkad kalender (t.ex. på Internet eller på en server)." >
-
 <!ENTITY calendar.export.calendar                "Exportera kalendrar…" >
-
-<!ENTITY calendar.import.button.label              "Importera" >
-<!ENTITY calendar.export.button.label              "Exportera" >
-<!ENTITY calendar.subscribe.button.label           "Prenumerera" >
-<!ENTITY calendar.publish.button.label             "Publicera" >
-<!ENTITY calendar.unifinder.button.label           "Sök händelser" >
-
-<!ENTITY calendar.remotereload.button.label   "Uppdatera" >
-<!ENTITY calendar.remotereload.button.tooltip   "Uppdatera alla externa kalendrar" >
 
 <!ENTITY calendar.day.button.label          "Dag" >
 <!ENTITY calendar.week.button.label         "Vecka" >
@@ -164,24 +126,37 @@
 <!ENTITY calendar.displaytodos.checkbox.label   "Uppgifter" >
 <!ENTITY calendar.displaytodos.checkbox.accesskey "U" >
 <!ENTITY calendar.completedtasks.checkbox.label     "Visa färdiga händelser" >
-<!ENTITY calendar.completedtasks.checkbox.accesskey "i" >
+<!ENTITY calendar.completedtasks.checkbox.accesskey "V" >
 
 <!ENTITY calendar.orientation.label "Rotera vy" >
-<!ENTITY calendar.orientation.accesskey "o" >
-
-<!ENTITY calendar.menu.options.close.key        "W">
+<!ENTITY calendar.orientation.accesskey "R" >
 
 <!ENTITY calendar.search.options.searchfor " innehållande">
 
-<!ENTITY calendar.menu.numberofweeks.label     "Antal veckor" >
-<!ENTITY calendar.menu.numberofweeks.accesskey "N" >
-<!ENTITY calendar.menu.numberofweeks.2      "2 veckor" >
-<!ENTITY calendar.menu.numberofweeks.3      "3 veckor" >
-<!ENTITY calendar.menu.numberofweeks.4      "4 veckor" >
-<!ENTITY calendar.menu.numberofweeks.5      "5 veckor" >
-<!ENTITY calendar.menu.numberofweeks.6      "6 veckor" >
-
 <!ENTITY calendar.list.header.label                 "Kalender">
+
+<!-- LOCALIZATION NOTE(calendar.task.filter.current.label)
+     "Current Tasks" will show all tasks, except those with a start date set
+     that is after today and after the selected date. If a task repeats, a
+     separate entry will be shown for each of the occurrences that happen on or
+     before today (or the selected date, whichever is later). -->
+<!ENTITY calendar.task.filter.current.label         "Nuvarande uppgifter">
+<!ENTITY calendar.task.filter.current.accesskey     "N">
+<!ENTITY calendar.task.filter.repeating.label       "Upprepa uppgifter">
+<!ENTITY calendar.task.filter.repeating.accesskey   "U">
+
+<!ENTITY calendar.task-details.title.label           "rubrik">
+<!ENTITY calendar.task-details.organizer.label       "från">
+<!ENTITY calendar.task-details.priority.label        "prioritet">
+<!ENTITY calendar.task-details.priority.low.label    "Låg">
+<!ENTITY calendar.task-details.priority.normal.label "Normal">
+<!ENTITY calendar.task-details.priority.high.label   "Hög">
+<!ENTITY calendar.task-details.status.label          "status">
+<!ENTITY calendar.task-details.category.label        "kategori">
+<!ENTITY calendar.task-details.repeat.label          "upprepa">
+<!ENTITY calendar.task-details.attachments.label     "bifogade filer">
+<!ENTITY calendar.task-details.start.label           "start datum">
+<!ENTITY calendar.task-details.due.label             "förfallodatum">
 
 <!ENTITY calendar.task.filter.title.label           "Visa">
 <!ENTITY calendar.task.filter.all.label             "Allt">
@@ -189,41 +164,29 @@
 <!ENTITY calendar.task.filter.today.label           "Idag">
 <!ENTITY calendar.task.filter.today.accesskey       "I">
 <!ENTITY calendar.task.filter.next7days.label       "Kommande 7 dagar">
-<!ENTITY calendar.task.filter.next7days.accesskey   "n">
+<!ENTITY calendar.task.filter.next7days.accesskey   "K">
 <!ENTITY calendar.task.filter.notstarted.label      "Ej startade händelser">
-<!ENTITY calendar.task.filter.notstarted.accesskey  "a">
+<!ENTITY calendar.task.filter.notstarted.accesskey  "E">
 <!ENTITY calendar.task.filter.overdue.label         "Förfallna händelser">
-<!ENTITY calendar.task.filter.overdue.accesskey     "ö">
+<!ENTITY calendar.task.filter.overdue.accesskey     "F">
 <!ENTITY calendar.task.filter.completed.label       "Färdiga händelser">
 <!ENTITY calendar.task.filter.completed.accesskey   "ä">
 <!ENTITY calendar.task.filter.open.label            "Ofullständig uppgift">
 <!ENTITY calendar.task.filter.open.accesskey        "ä">
-
-<!ENTITY calendar.task.details.title.label           "Rubrik:">
-<!ENTITY calendar.task.details.organizer.label       "Från:">
-<!ENTITY calendar.task.details.priority2.label        "Prioritet:">
-<!ENTITY calendar.task.details.priority.low.label    "Låg">
-<!ENTITY calendar.task.details.priority.normal.label "Normal">
-<!ENTITY calendar.task.details.priority.high.label   "Hög">
-<!ENTITY calendar.task.details.status.label          "Status:">
-<!ENTITY calendar.task.details.category.label        "Kategori:">
-<!ENTITY calendar.task.details.repeat.label          "Upprepa:">
+<!ENTITY calendar.context.attendance.menu.label     "Närvaro" >
+<!ENTITY calendar.context.attendance.menu.accesskey "N" >
+<!ENTITY calendar.context.attendance.occurrence.label "Denna händelse" >
+<!ENTITY calendar.context.attendance.all.label      "Alla händelser" >
 
 <!ENTITY calendar.task.category.button.tooltip  "Kategorisera händelser">
 <!ENTITY calendar.task.complete.button.tooltip  "Markera valda händelser som slutförda">
 <!ENTITY calendar.task.priority.button.tooltip  "Ändra prioritet">
-<!ENTITY calendar.task.delete.button.tooltip    "Ta bort vald händelse">
 
 <!-- Statusbar -->
 <!ENTITY statusText.label            "Dokument: Klar">
 
-<!-- customizable toolbars -->
-<!ENTITY calendar.context.customize.label             "Anpassa">
-<!ENTITY calendar.context.customize.accesskey         "A">
-<!ENTITY calendar.menu.customize.label                "Anpassa verktygsfält">
-<!ENTITY calendar.menu.customize.accesskey            "v">
-<!ENTITY calendar.maintoolbar.name                    "Standardfältet">
-<!ENTITY calendar.maintoolbar.accesskey               "S">
+<!ENTITY calendar.taskview.delete.label     "Radera">
+<!ENTITY calendar.taskview.delete.accesskey "l">
 
 <!-- Context Menu -->
 <!ENTITY calendar.context.modifyorviewitem.label            "Öppna">
@@ -234,32 +197,16 @@
 <!ENTITY calendar.context.newevent.accesskey          "N">
 <!ENTITY calendar.context.newtodo.label               "Ny uppgift">
 <!ENTITY calendar.context.newtodo.accesskey           "u">
-<!ENTITY calendar.context.modifytask.label            "Redigera uppgift">
-<!ENTITY calendar.context.modifytask.accesskey        "R">
-<!ENTITY calendar.context.modifyitem.label            "Ändra post…">
-<!ENTITY calendar.context.modifyitem.accesskey        "a">
 <!ENTITY calendar.context.deletetask.label            "Ta bort uppgift">
 <!ENTITY calendar.context.deletetask.accesskey        "a">
-<!ENTITY calendar.context.deleteitem.label            "Ta bort">
-<!ENTITY calendar.context.deleteitem.accesskey        "T">
 <!ENTITY calendar.context.deleteevent.label            "Ta bort händelse">
 <!ENTITY calendar.context.deleteevent.accesskey        "ä">
-<!ENTITY calendar.context.deletethisevent.label       "Denna händelse">
-<!ENTITY calendar.context.deletethisevent.accesskey   "D">
-<!ENTITY calendar.context.deletecompleteseries.label  "Hela serien">
-<!ENTITY calendar.context.deletecompleteseries.accesskey   "s">
-<!ENTITY calendar.context.deletefutureevents.label     "Alla framtida händelser">
-<!ENTITY calendar.context.deletefutureevents.accesskey "f">
-<!ENTITY calendar.context.deletefuturetasks.label     "Alla framtida uppgifter">
-<!ENTITY calendar.context.deletefuturetasks.accesskey "u">
 <!ENTITY calendar.context.cutevent.label              "Klipp ut">
 <!ENTITY calendar.context.cutevent.accesskey          "K">
 <!ENTITY calendar.context.copyevent.label             "Kopiera">
 <!ENTITY calendar.context.copyevent.accesskey         "o">
 <!ENTITY calendar.context.pasteevent.label            "Klistra in">
 <!ENTITY calendar.context.pasteevent.accesskey        "l">
-<!ENTITY calendar.context.selectall.label             "Välj allt">
-<!ENTITY calendar.context.selectall.accesskey         "a">
 <!ENTITY calendar.context.button.label                "Idag" >
 <!ENTITY calendar.context.button.accesskey         "I">
 
@@ -308,23 +255,23 @@
 <!ENTITY calendar.context.export.label                 "Exportera kalender…">
 <!ENTITY calendar.context.export.accesskey             "E">
 <!ENTITY calendar.context.properties.label             "Egenskaper">
-<!ENTITY calendar.context.properties.accesskey         "E">
+<!ENTITY calendar.context.properties.accesskey         "g">
 
 <!ENTITY calendar.context.convertmenu.label                "Konvertera till">
-<!ENTITY calendar.context.convertmenu.accesskey.mail           "v">
+<!ENTITY calendar.context.convertmenu.accesskey.mail           "m">
 <!ENTITY calendar.context.convertmenu.accesskey.calendar "v">
 <!ENTITY calendar.context.convertmenu.event.label         "Händelse">
 <!ENTITY calendar.context.convertmenu.event.accesskey     "e">
 <!ENTITY calendar.context.convertmenu.message.label       "Meddelande">
 <!ENTITY calendar.context.convertmenu.message.accesskey   "M">
-<!ENTITY calendar.context.convertmenu.task.label         "Task…">
+<!ENTITY calendar.context.convertmenu.task.label         "Uppgift…">
 <!ENTITY calendar.context.convertmenu.task.accesskey       "s">
 
 <!ENTITY calendar.tasks.view.minimonth.label           "Mini-månad">
 <!ENTITY calendar.tasks.view.minimonth.accesskey       "M">
 
 <!ENTITY calendar.tasks.view.calendarlist.label        "Kalender">
-<!ENTITY calendar.tasks.view.calendarlist.accesskey    "l">
+<!ENTITY calendar.tasks.view.calendarlist.accesskey    "K">
 
 <!ENTITY calendar.tasks.view.filtertasks.label           "Sortera uppgifter">
 <!ENTITY calendar.tasks.view.filtertasks.accesskey       "S">
@@ -349,26 +296,33 @@
 <!ENTITY calendar.alarm.snooze.2hours.label         "2 timmar" >
 <!ENTITY calendar.alarm.snooze.1day.label           "1 dag" >
 
+<!-- LOCALIZATION NOTE (calendar.alarm.snooze.cancel)
+     This string is not seen in the UI, it is read by screen readers when the
+     user focuses the "Cancel" button in the "Snooze for..." popup of the alarm
+     dialog. -->
+<!ENTITY calendar.alarm.snooze.cancel               "Avbryt vila">
+
 <!-- Calendar Server Dialog -->
 <!ENTITY calendar.server.dialog.title.edit          "Redigera kalender">
 <!ENTITY calendar.server.dialog.name.label          "Kalendernamn">
 
 <!-- Calendar Properties -->
-<!ENTITY calendarproperties.color.label    "Färg:">
-<!ENTITY calendarproperties.webdav.label   "iCalendar (ICS)">
-<!ENTITY calendarproperties.caldav.label   "CalDAV">
-<!ENTITY calendarproperties.wcap.label     "Sun Java System Calendar Server (WCAP)">
-<!ENTITY calendarproperties.format.label   "Format:">
-<!ENTITY calendarproperties.location.label "Plats:">
-<!ENTITY calendarproperties.name.label     "Namn:">
-<!ENTITY calendarproperties.readonly.label "Skrivskyddad">
-<!ENTITY calendarproperties.firealarms.label "Visa påminnelse">
-<!ENTITY calendarproperties.cache.label    "Buffert (EXPERIMENTELL, kräver omstart)">
-<!ENTITY calendarproperties.enabled.label "Slå på denna kalender">
-
-<!-- Sunbird Help -->
-<!ENTITY calendar.help.label               "Hjälpinnehåll">
-<!ENTITY calendar.help.accesskey           "H">
+<!ENTITY calendarproperties.color.label    					"Färg:">
+<!ENTITY calendarproperties.webdav.label   					"iCalendar (ICS)">
+<!ENTITY calendarproperties.caldav.label   					"CalDAV">
+<!ENTITY calendarproperties.wcap.label     					"Sun Java System Calendar Server (WCAP)">
+<!ENTITY calendarproperties.format.label   					"Format:">
+<!ENTITY calendarproperties.location.label 					"Plats:">
+<!ENTITY calendarproperties.name.label     					"Namn:">
+<!ENTITY calendarproperties.readonly.label 					"Skrivskyddad">
+<!ENTITY calendarproperties.firealarms.label				"Visa påminnelse">
+<!ENTITY calendarproperties.cache.label   					"Buffert (EXPERIMENTELL, kräver omstart)">
+<!ENTITY calendarproperties.enabled.label 					"Slå på denna kalender">
+<!ENTITY calendarproperties.forceDisabled.label   			"Leverantören för den här kalendern kunde inte hittas. Detta händer ofta om du har inaktiverat eller avinstallerat vissa addons.">
+<!ENTITY calendarproperties.refreshInterval.label   		"Uppdatera kalender:">
+<!ENTITY calendarproperties.refreshInterval.manual.label   	"Manuellt">
+<!ENTITY calendarproperties.unsubscribe.label              	"Avsluta prenumeration">
+<!ENTITY calendarproperties.unsubscribe.accesskey          	"U">
 
 <!-- Calendar Publish Dialog -->
 <!ENTITY calendar.publish.dialog.title              "Publicera kalender">
@@ -386,19 +340,21 @@
 <!ENTITY calendar.print.title.label "Rubrik:">
 <!ENTITY calendar.print.layout.label "Utseende:">
 <!ENTITY calendar.print.range.label "Utskriftsalternativ">
-<!ENTITY calendar.print.currentview.label "Händelser i aktuell vy">
 <!ENTITY calendar.print.selected.label "Valda händelser">
 <!ENTITY calendar.print.custom.label "Mellan datum:">
 <!ENTITY calendar.print.from.label "Från:">
 <!ENTITY calendar.print.to.label "Till:">
 <!ENTITY calendar.print.settingsGroup.label "Utskriftsformat">
+<!ENTITY calendar.print.completedtasks.label "Slutförda aktiviteter">
+<!ENTITY calendar.print.currentView2.label "Aktuell vy">
+<!ENTITY calendar.print.events.label "Evenemang">
+<!ENTITY calendar.print.optionsGroup.label "Alternativ">
+<!ENTITY calendar.print.selectedEventsAndTasks.label "Valda händelser/uppgifter">
+<!ENTITY calendar.print.tasks.label "Uppgifter">
+<!ENTITY calendar.print.taskswithnoduedate.label "Uppgifter utan förfallodatum">
 
 <!-- Error reporting -->
 <!ENTITY calendar.error.detail "Detaljer...">
-<!ENTITY calendar.error.number "Felkod:">
+<!ENTITY calendar.error.code "Felkod:">
 <!ENTITY calendar.error.description "Beskrivning:">
 <!ENTITY calendar.error.title "Ett fel har uppstått">
-
-
-<!-- LOCALIZATION NOTE (mainWindow.title): DONT_TRANSLATE -->
-<!ENTITY mainWindow.title "&brandFullName;">

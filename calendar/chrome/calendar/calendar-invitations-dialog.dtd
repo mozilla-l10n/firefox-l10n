@@ -14,13 +14,12 @@
    - The Original Code is Sun Microsystems code.
    -
    - The Initial Developer of the Original Code is Sun Microsystems.
-   - Portions created by the Initial Developer are Copyright (C) 2008
+   - Portions created by the Initial Developer are Copyright (C) 2006
    - the Initial Developer. All Rights Reserved.
    -
-   - Contributor(s):
-   -   Thomas Benisch <thomas.benisch@sun.com>
-   -   Stefan Lewitas <stefan.lewitas@gmail.com>
-   -   Alexander Lindqvist <alexander@alphaone.se>
+   - Contributor(s): Thomas Benisch <thomas.benisch@sun.com>
+   -		     Alexander Lindqvist <alexander@alphaone.se>
+   -
    - Alternatively, the contents of this file may be used under the terms of
    - either the GNU General Public License Version 2 or later (the "GPL"), or
    - the GNU Lesser General Public License Version 2.1 or later (the "LGPL"),
@@ -36,12 +35,17 @@
    - ***** END LICENSE BLOCK *****
 -->
 
-<!-- Calendar Subscriptions Dialog -->
-<!ENTITY calendar.subscriptions.dialog.title                            "Kalenderprenumeration">
-<!ENTITY calendar.subscriptions.dialog.search.label.value               "Visa kalendrar som innehåller:">
-<!ENTITY calendar.subscriptions.dialog.search.button.label              "Sök">
-<!ENTITY calendar.subscriptions.dialog.select.label.value               "Välj kalendrar att prenumerara på:">
-<!ENTITY calendar.subscriptions.dialog.subscribe.button.label           "Prenumerera">
-<!ENTITY calendar.subscriptions.dialog.unsubscribe.button.label         "Avbryt prenumeration">
-<!ENTITY calendar.subscriptions.dialog.statusmessage.busy.label         "Sök…">
-<!ENTITY calendar.subscriptions.dialog.statusmessage.nomatches.label    "Inget hittades.">
+<!-- Calendar Invitations Dialog -->
+<!ENTITY calendar.invitations.dialog.invitations.text                   "Inbjudningar">
+<!ENTITY calendar.invitations.dialog.statusmessage.updating.text        "Uppdaterar lista med inbjudningar.">
+<!ENTITY calendar.invitations.dialog.statusmessage.noinvitations.text   "Inga obekräftade inbjudningar hittades.">
+
+<!-- Calendar Invitations List -->
+<!ENTITY calendar.invitations.list.accept.button.label                  "Acceptera">
+<!ENTITY calendar.invitations.list.decline.button.label                 "Neka">
+<!ENTITY calendar.invitations.list.recurrentevent.text                  "Återkommande händelse">
+<!ENTITY calendar.invitations.list.alldayevent.text                     "Heldagshändelse">
+<!ENTITY calendar.invitations.list.location.text                        "Plats: ">
+<!ENTITY calendar.invitations.list.organizer.text                       "Organisatör: ">
+<!ENTITY calendar.invitations.list.attendee.text                        "Deltagare: ">
+<!ENTITY calendar.invitations.list.none.text                            "Ingen">

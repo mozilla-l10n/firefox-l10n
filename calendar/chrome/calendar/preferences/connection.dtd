@@ -19,7 +19,7 @@
    - the Initial Developer. All Rights Reserved.
    -
    - Contributor(s):
-   -                 Stefan Lewitas <stefan.lewitas@gmail.com>
+   -                 Alexander Lindqvist <alexander@alphaone.se>
    - Alternatively, the contents of this file may be used under the terms of
    - either the GNU General Public License Version 2 or later (the "GPL"), or
    - the GNU Lesser General Public License Version 2.1 or later (the "LGPL"),
@@ -56,8 +56,6 @@
 <!ENTITY  reload.accesskey              "U">
 <!ENTITY  ftp.label                     "FTP-proxy:">
 <!ENTITY  ftp.accesskey                 "F">
-<!ENTITY  gopher.label                  "Gopher-proxy:">
-<!ENTITY  gopher.accesskey              "G">
 <!ENTITY  http.label                    "HTTP-proxy:">
 <!ENTITY  http.accesskey                "x">
 <!ENTITY  ssl.label                     "SSL-proxy:">
@@ -72,8 +70,6 @@
 <!ENTITY  HTTPport.accesskey            "P">
 <!ENTITY  SSLport.accesskey             "o">
 <!ENTITY  FTPport.accesskey             "r">
-<!-- No accesskey for gopher (':' doesn't go well) - mpt's going to redesign the window -->
-<!ENTITY  gopherPort.accesskey          "">
 <!ENTITY  SOCKSport.accesskey           "t">
 <!ENTITY  noproxy.label                 "Ingen proxy för:">
 <!ENTITY  noproxy.accesskey             "n">
