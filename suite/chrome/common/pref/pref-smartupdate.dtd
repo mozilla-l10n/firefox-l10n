@@ -7,7 +7,7 @@
 <!ENTITY allowedSites.accesskey               "S">
 
 <!ENTITY verifyUpdates.caption                "Oppdateringer">
-<!ENTITY autoUpdates.label                    "Automatisk søk etter oppdateringer for:">
+<!ENTITY autoUpdates.label                    "Automatisk søk etter oppdateringer til:">
 <!ENTITY appUpdates.label                     "&brandShortName;">
 <!ENTITY appUpdates.accesskey                 "S">
 <!ENTITY daily.label                          "daglig">
