@@ -2,7 +2,7 @@
 <!ENTITY about.title "О &brandShortName;">
 <!ENTITY about.button "Перейти на страницу">
 <!ENTITY content.title "Содержимое">
-<!ENTITY reflowZoom.title "Переформатировать текст при масштабировании">
+<!ENTITY reflowZoom.title "Текст по ширине экрана">
 <!ENTITY showImages.title "Показывать изображения">
 <!ENTITY enableJavaScript.title "Использовать JavaScript">
 <!ENTITY enablePlugins.title "Использовать плагины">
@@ -17,6 +17,6 @@
 <!ENTITY defaultBrowser.description "Установить &brandShortName; как ваш браузер по умолчанию">
 <!ENTITY homepage.title "Начальная страница">
 <!ENTITY homepage.none "Пустая страница">
-<!ENTITY homepage.default "Запуск &brandShortName;">
-<!ENTITY homepage.currentpage "Исп. текущую страницу">
+<!ENTITY homepage.default "Старт &brandShortName;">
+<!ENTITY homepage.currentpage "Текущая страница">
 <!ENTITY showCharset.title "Показывать выбор кодировки">
