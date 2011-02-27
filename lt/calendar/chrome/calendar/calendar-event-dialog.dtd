@@ -378,6 +378,10 @@
 <!-- Read-Only dialog -->
 <!ENTITY read.only.general.label         "Įvykis">
 <!ENTITY read.only.title.label           "Pavadinimas:">
+<!ENTITY read.only.event.start.label     "Pradžia:">
+<!ENTITY read.only.task.start.label      "Pradžia:">
+<!ENTITY read.only.event.end.label       "Pabaiga:">
+<!ENTITY read.only.task.due.label        "Terminas:">
 <!ENTITY read.only.repeat.label          "Pasikartojimas:">
 <!ENTITY read.only.location.label        "Vieta:">
 <!ENTITY read.only.category.label        "Tipas:">
