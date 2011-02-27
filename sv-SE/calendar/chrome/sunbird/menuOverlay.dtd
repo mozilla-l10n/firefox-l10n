@@ -48,7 +48,7 @@
 <!ENTITY calendar.open.file.accesskey                      "Ö">
 
 <!ENTITY event.edit.event                                  "Redigera urval…">
-<!ENTITY event.edit.event.key                              "R">
+<!ENTITY event.edit.event.key                              "E">
 <!ENTITY event.edit.event.accesskey                        "R">
 
 <!ENTITY event.delete.event                                "Radera valda händelser">
@@ -97,7 +97,7 @@
 <!ENTITY calendar.copy.accesskey                           "p">
 
 <!ENTITY calendar.paste.label                              "Klistra in">
-<!ENTITY calendar.paste.key                                "K">
+<!ENTITY calendar.paste.key                                "V">
 <!ENTITY calendar.paste.accesskey                          "K">
 
 <!ENTITY calendar.selectall.label                          "Markera allt">
@@ -108,7 +108,7 @@
 <!ENTITY toolbarsMenu.accesskey                            "V">
 
 <!ENTITY showStatusBarCmd.label                            "Statusfält">
-<!ENTITY showStatusBarCmd.accesskey                        "B">
+<!ENTITY showStatusBarCmd.accesskey                        "S">
 
 <!ENTITY showTaskBoxCmd.label                              "Uppgifter">
 <!ENTITY showTaskBoxCmd.accesskey                          "U">
@@ -129,7 +129,7 @@
 <!ENTITY toolsMenu.accesskey                               "V">
 
 <!ENTITY errorConsoleCmd.label                             "Felkonsol">
-<!ENTITY errorConsoleCmd.accesskey                         "C">
+<!ENTITY errorConsoleCmd.accesskey                         "F">
 
 <!ENTITY helpMenu.label                                    "Hjälp">
 <!ENTITY helpMenu.accesskey                                "H">
