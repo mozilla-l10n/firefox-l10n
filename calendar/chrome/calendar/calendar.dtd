@@ -186,7 +186,7 @@
 <!ENTITY statusText.label            "Dokument: Klar">
 
 <!ENTITY calendar.taskview.delete.label     "Radera">
-<!ENTITY calendar.taskview.delete.accesskey "l">
+<!ENTITY calendar.taskview.delete.accesskey "R">
 
 <!-- Context Menu -->
 <!ENTITY calendar.context.modifyorviewitem.label            "Öppna">
@@ -265,7 +265,7 @@
 <!ENTITY calendar.context.convertmenu.message.label       "Meddelande">
 <!ENTITY calendar.context.convertmenu.message.accesskey   "M">
 <!ENTITY calendar.context.convertmenu.task.label         "Uppgift…">
-<!ENTITY calendar.context.convertmenu.task.accesskey       "s">
+<!ENTITY calendar.context.convertmenu.task.accesskey       "t">
 
 <!ENTITY calendar.tasks.view.minimonth.label           "Mini-månad">
 <!ENTITY calendar.tasks.view.minimonth.accesskey       "M">

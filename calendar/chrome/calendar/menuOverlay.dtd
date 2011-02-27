@@ -66,7 +66,7 @@
 <!ENTITY calendar.export.label       		"Exportera…">
 <!ENTITY calendar.export.accesskey              "E">
 <!ENTITY calendar.export.selection.label        "Exportera urval…">
-<!ENTITY calendar.export.selection.accesskey    "S">
+<!ENTITY calendar.export.selection.accesskey    "u">
 
 <!ENTITY calendar.publish.label                 "Publicera…">
 <!ENTITY calendar.publish.accesskey             "P">
