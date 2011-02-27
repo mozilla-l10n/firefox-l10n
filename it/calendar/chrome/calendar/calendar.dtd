@@ -148,6 +148,8 @@
 <!ENTITY calendar.task-details.category.label "categoria">
 <!ENTITY calendar.task-details.repeat.label "ripetizione">
 <!ENTITY calendar.task-details.attachments.label "allegati">
+<!ENTITY calendar.task-details.start.label "data di inizio">
+<!ENTITY calendar.task-details.due.label "data di fine">
 <!ENTITY calendar.task.category.button.tooltip "Assegna una categoria alle attività">
 <!ENTITY calendar.task.complete.button.tooltip "Segna le attività selezionate come completate">
 <!ENTITY calendar.task.priority.button.tooltip "Cambia la priorità">
@@ -160,34 +162,22 @@
 <!ENTITY calendar.context.newevent.accesskey "u">
 <!ENTITY calendar.context.newtodo.label "Nuova attività…">
 <!ENTITY calendar.context.newtodo.accesskey "t">
-<!ENTITY calendar.context.modifytask.label "Modifica attività…">
-<!ENTITY calendar.context.modifytask.accesskey "M">
-<!ENTITY calendar.context.modifyitem.label "Modifica elemento…">
-<!ENTITY calendar.context.modifyitem.accesskey "o">
 <!ENTITY calendar.context.deletetask.label "Elimina attività">
 <!ENTITY calendar.context.deletetask.accesskey "E">
-<!ENTITY calendar.context.deleteitem.label "Elimina">
-<!ENTITY calendar.context.deleteitem.accesskey "n">
 <!ENTITY calendar.context.deleteevent.label "Elimina evento">
 <!ENTITY calendar.context.deleteevent.accesskey "n">
-<!ENTITY calendar.context.deletethisevent.label "Questo evento">
-<!ENTITY calendar.context.deletethisevent.accesskey "Q">
-<!ENTITY calendar.context.deletecompleteseries.label "Serie complete">
-<!ENTITY calendar.context.deletecompleteseries.accesskey "S">
-<!ENTITY calendar.context.deletefutureevents.label "Tutti gli eventi futuri">
-<!ENTITY calendar.context.deletefutureevents.accesskey "T">
-<!ENTITY calendar.context.deletefuturetasks.label "Tutte le attività future">
-<!ENTITY calendar.context.deletefuturetasks.accesskey "e">
 <!ENTITY calendar.context.cutevent.label "Taglia">
 <!ENTITY calendar.context.cutevent.accesskey "T">
 <!ENTITY calendar.context.copyevent.label "Copia">
 <!ENTITY calendar.context.copyevent.accesskey "C">
 <!ENTITY calendar.context.pasteevent.label "Incolla">
 <!ENTITY calendar.context.pasteevent.accesskey "n">
-<!ENTITY calendar.context.selectall.label "Seleziona tutto">
-<!ENTITY calendar.context.selectall.accesskey "S">
 <!ENTITY calendar.context.button.label "Pannello Oggi">
 <!ENTITY calendar.context.button.accesskey "P">
+<!ENTITY calendar.context.attendance.menu.label "Partecipazione">
+<!ENTITY calendar.context.attendance.menu.accesskey "P">
+<!ENTITY calendar.context.attendance.occurrence.label "Questa occorrenza">
+<!ENTITY calendar.context.attendance.all.label "Tutte le occorrenze">
 <!ENTITY calendar.context.progress.label "Progresso">
 <!ENTITY calendar.context.progress.accesskey "r">
 <!ENTITY calendar.context.priority.label "Priorità">
@@ -213,6 +203,8 @@
 <!ENTITY priority.level.normal.accesskey "N">
 <!ENTITY priority.level.high "Alta">
 <!ENTITY priority.level.high.accesskey "A">
+<!ENTITY calendar.taskview.delete.label "Elimina">
+<!ENTITY calendar.taskview.delete.accesskey "E">
 <!ENTITY calendar.context.newserver.label "Nuovo calendario…">
 <!ENTITY calendar.context.newserver.accesskey "N">
 <!ENTITY calendar.context.findcalendar.label "Trova calendario…">
