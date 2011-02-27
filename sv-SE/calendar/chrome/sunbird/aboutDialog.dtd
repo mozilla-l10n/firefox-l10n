@@ -21,7 +21,8 @@
    -
    - Contributor(s): Matthew Willis <mattwillis@gmail.com>
    -                 Ehsan Akhgari <ehsan.akhgari@gmail.com>
-   -                 Stefan Lewitas <stefan.lewitas@gmail.com>
+   -                 Alexander Lindqvist <alexander@alphaone.se>
+   -
    - Alternatively, the contents of this file may be used under the terms of
    - either the GNU General Public License Version 2 or later (the "GPL"), or
    - the GNU Lesser General Public License Version 2.1 or later (the "LGPL"),
@@ -37,26 +38,26 @@
    - ***** END LICENSE BLOCK ***** -->
 
 <!ENTITY aboutDialog.title      "Om &brandFullName;">
-<!ENTITY copyright.label              "Medarbetare">
+<!ENTITY copyright.label        "Medverkande">
 <!ENTITY copyright.accesskey    "M">
-<!ENTITY aboutLink.label              "&lt; Om &brandFullName;">
+<!ENTITY aboutLink.label        "&lt; Om &brandFullName;">
 <!ENTITY aboutLink.accesskey    "O">
 <!ENTITY aboutVersion           "version">
-<!ENTITY copyrightText          "&#169;1998-2008 medarbetarna. Eftertryck
-                                 förbjudet. Mozilla Sunbird, Sunbird och Sunbirds
-                                 logotyper är varumärke tillhörande Mozilla
-                                 Foundation. Eftertryck förbjudet.">
+<!ENTITY copyrightText          "&#169;1998-2010 Bidragande. Alla rättigheter
+                                  reserverade. Mozilla Sunbird, Sunbird, och
+                                  Sunbird logotyper är varumärken av Mozilla
+                                  Foundation. Alla rättigheter reserverade.">
 
-<!ENTITY brandMotto       "it's about time">
-<!ENTITY credit.thanks    "Särskilt tack till">
+<!ENTITY brandMotto       "det är dags">
+<!ENTITY credit.thanks    "Särskilt tackt till">
 
 <!-- localization credits look like this: -->
 <!--
 <!ENTITY credit.translation
-  "<h3>Översättare</h3><ul><li>Namn</li></ul>">
+  "<h3>Translators</h3><ul><li>Name Here</li></ul>">
 -->
-<!ENTITY credit.translation "">
+<!ENTITY credit.translation "<h3>Översättare</h3><ul><li>Alexander Lindqvist</li></ul>">
 
-<!ENTITY credit.powered     "Driven av">
-<!ENTITY license.and        "och">
+<!ENTITY credit.powered     "Powered by">
+<!ENTITY license.and        "and">
 <!ENTITY cmdClose.macKey  "W">

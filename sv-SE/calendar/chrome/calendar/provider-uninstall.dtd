@@ -13,14 +13,14 @@
    -
    - The Original Code is Sun Microsystems code.
    -
-   - The Initial Developer of the Original Code is Sun Microsystems.
+   - The Initial Developer of the Original Code is
+   -   Philipp Kewisch <mozilla@kewis.ch>
    - Portions created by the Initial Developer are Copyright (C) 2008
    - the Initial Developer. All Rights Reserved.
    -
    - Contributor(s):
-   -   Thomas Benisch <thomas.benisch@sun.com>
-   -   Stefan Lewitas <stefan.lewitas@gmail.com>
-   -   Alexander Lindqvist <alexander@alphaone.se>
+   -	Alexander Lindqvist <alexander@alphaone.se>
+   -
    - Alternatively, the contents of this file may be used under the terms of
    - either the GNU General Public License Version 2 or later (the "GPL"), or
    - the GNU Lesser General Public License Version 2.1 or later (the "LGPL"),
@@ -33,15 +33,13 @@
    - the provisions above, a recipient may use your version of this file under
    - the terms of any one of the MPL, the GPL or the LGPL.
    -
-   - ***** END LICENSE BLOCK *****
--->
+   - ***** END LICENSE BLOCK ***** -->
 
-<!-- Calendar Subscriptions Dialog -->
-<!ENTITY calendar.subscriptions.dialog.title                            "Kalenderprenumeration">
-<!ENTITY calendar.subscriptions.dialog.search.label.value               "Visa kalendrar som innehåller:">
-<!ENTITY calendar.subscriptions.dialog.search.button.label              "Sök">
-<!ENTITY calendar.subscriptions.dialog.select.label.value               "Välj kalendrar att prenumerara på:">
-<!ENTITY calendar.subscriptions.dialog.subscribe.button.label           "Prenumerera">
-<!ENTITY calendar.subscriptions.dialog.unsubscribe.button.label         "Avbryt prenumeration">
-<!ENTITY calendar.subscriptions.dialog.statusmessage.busy.label         "Sök…">
-<!ENTITY calendar.subscriptions.dialog.statusmessage.nomatches.label    "Inget hittades.">
+<!ENTITY providerUninstall.title                           "Avinstallera en leverantör">
+<!ENTITY providerUninstall.accept.label                    "Avsluta markerade prenumerationer">
+<!ENTITY providerUninstall.accept.accesskey                "A">
+<!ENTITY providerUninstall.cancel.label                    "Behåll tillägg">
+<!ENTITY providerUninstall.cancel.accesskey                "B">
+<!ENTITY providerUninstall.preName.label                   "Du har begärt att avinstallera eller inaktivera:">
+<!ENTITY providerUninstall.postName.label                  "Detta gör att kalendrarna nedan inaktiveras.">
+<!ENTITY providerUninstall.reinstallNote.label             "Såvida ni inte planerar att installera om denna leverantör, kan du välja att avregistrera dig från denna leverantörs kalendrar.">

@@ -13,12 +13,14 @@
    -
    - The Original Code is Sun Microsystems code.
    -
-   - The Initial Developer of the Original Code is Sun Microsystems.
-   - Portions created by the Initial Developer are Copyright (C) 2006
+   - The Initial Developer of the Original Code is
+   -   Philipp Kewisch <mozilla@kewis.ch>
+   - Portions created by the Initial Developer are Copyright (C) 2008-2009
    - the Initial Developer. All Rights Reserved.
    -
-   - Contributor(s): Thomas Benisch <thomas.benisch@sun.com>
-   -                 Stefan Lewitas <stefan.lewitas@gmail.com>
+   - Contributor(s):
+   -	Alexander Lindqvist <alexander@alphaone.se>
+   -
    - Alternatively, the contents of this file may be used under the terms of
    - either the GNU General Public License Version 2 or later (the "GPL"), or
    - the GNU Lesser General Public License Version 2.1 or later (the "LGPL"),
@@ -31,19 +33,23 @@
    - the provisions above, a recipient may use your version of this file under
    - the terms of any one of the MPL, the GPL or the LGPL.
    -
-   - ***** END LICENSE BLOCK *****
--->
+   - ***** END LICENSE BLOCK ***** -->
 
-<!-- Calendar Invitations Dialog -->
-<!ENTITY calendar.invitations.dialog.invitations.text                   "Inbjudningar">
-<!ENTITY calendar.invitations.dialog.statusmessage.updating.text        "Uppdatera listan med inbjudningar.">
-<!ENTITY calendar.invitations.dialog.statusmessage.noinvitations.text   "Inga obekräftade inbjudningar hittades.">
+<!ENTITY reminderdialog.title                              "Ställ in påminnelser">
+<!ENTITY reminder.add.label                                "Lägg till">
+<!ENTITY reminder.add.accesskey                            "L">
+<!ENTITY reminder.remove.label                             "Radera">
+<!ENTITY reminder.remove.accesskey                         "R">
 
-<!-- Calendar Invitations List -->
-<!ENTITY calendar.invitations.list.accept.button.label                  "Acceptera">
-<!ENTITY calendar.invitations.list.decline.button.label                 "Avböj">
-<!ENTITY calendar.invitations.list.recurrentevent.text                  "Återkommande händelse">
-<!ENTITY calendar.invitations.list.alldayevent.text                     "Heldagshändelse">
-<!ENTITY calendar.invitations.list.location.text                        "Plats: ">
-<!ENTITY calendar.invitations.list.organizer.text                       "Organisatör: ">
-<!ENTITY calendar.invitations.list.none.text                            "Ingen">
+<!ENTITY reminder.reminderDetails.label                    "Påminnelse detaljer">
+<!ENTITY reminder.action.label                             "Välj en påminnelse åtgärd">
+
+<!ENTITY reminder.relation.before.label                    "före" >
+<!ENTITY reminder.relation.after.label                     "efter" >
+
+<!ENTITY reminder.action.alert.label                       "Visa en varning">
+<!ENTITY reminder.action.email.label                       "Skicka epost">
+
+<!ENTITY alarm.units.minutes                               "minuter" >
+<!ENTITY alarm.units.hours                                 "timmar" >
+<!ENTITY alarm.units.days                                  "dagar" >
