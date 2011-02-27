@@ -38,3 +38,11 @@
 <!ENTITY tabNavigationForms.accesskey "m">
 <!ENTITY tabNavigationTextboxes.label "Pastaba. Per teksto langelius visada galima judėti spaudžiant tabuliavimo klavišą.">
 <!ENTITY tabNavigationDesc.label "Spaudžiant klavišą Tab (vieną arba kartu su Lyg2), judėti per:">
+<!ENTITY accessibilityBrowseWithCaret.label "Klaviatūros žymeklis">
+<!ENTITY browseWithCaretDesc.label "Naršant su įjungtu klaviatūros žymekliu, teksto fragmentus galima žymėti klaviatūra.">
+<!ENTITY browseWithCaretUse.label "Įjungti klaviatūros žymeklį">
+<!ENTITY browseWithCaretUse.accesskey "k">
+<!ENTITY browseWithCaretShortCut.label "Leisti klaviatūros žymeklį įjungti ir išjungti F7 klavišu">
+<!ENTITY browseWithCaretShortCut.accesskey "F">
+<!ENTITY browseWithCaretWarn.label "Pranešti prieš įjungiant klaviatūros žymeklį">
+<!ENTITY browseWithCaretWarn.accesskey "P">
