@@ -8,7 +8,7 @@
 <!ENTITY community.creditsLink "küresel bir topluluktur">
 <!ENTITY community.end2 ". Biz, internetin herkes tarafından hiçbir kısıtlama olmadan erişilebilen, açık ve kamusal olması gerektiğine inanıyoruz.">
 
-<!ENTITY contribute.start "İlginç değil mi?">
+<!ENTITY contribute.start "İlginç değil mi? ">
 <!-- LOCALIZATION NOTE (contribute.getInvolvedLink): This is a link title that links to http://www.mozilla.org/contribute/. -->
 <!ENTITY contribute.getInvolvedLink "Hadi siz de katkıda bulunun!">
 <!ENTITY contribute.end "">
