@@ -132,7 +132,7 @@
 
 <!ENTITY detail.checkForUpdates.label         "Søk etter oppdateringer">
 <!ENTITY detail.checkForUpdates.accesskey     "S">
-<!ENTITY detail.checkForUpdates.tooltip       "Søker etter oppdateringer for denne utvidelsen">
+<!ENTITY detail.checkForUpdates.tooltip       "Søker etter oppdateringer til denne utvidelsen">
 <!ENTITY detail.showPreferencesWin.label      "Innstillinger">
 <!ENTITY detail.showPreferencesWin.accesskey  "I">
 <!ENTITY detail.showPreferencesWin.tooltip    "Endre denne utvidelsens innstillinger">

@@ -349,7 +349,7 @@ can reach it easily. -->
 <!ENTITY viewImageCmd.label           "Vis bilde">
 <!ENTITY viewImageCmd.accesskey       "V">
 <!ENTITY viewImageInfoCmd.label       "Vis bildeinfo">
-<!ENTITY viewImageInfoCmd.accesskey   "d">
+<!ENTITY viewImageInfoCmd.accesskey   "b">
 <!ENTITY viewVideoCmd.label           "Vis video">
 <!ENTITY viewVideoCmd.accesskey       "V">
 <!ENTITY viewBGImageCmd.label         "Vis bakgrunnsbilde">

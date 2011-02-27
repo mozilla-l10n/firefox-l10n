@@ -3,7 +3,7 @@
 <!ENTITY  checking.title                  "Søker etter oppdateringer">
 <!ENTITY  updateCheck.label               "Søker etter nyere versjoner av &brandShortName; …">
 
-<!ENTITY  pluginupdatesfound.title        "Oppdateringer for programtillegg">
+<!ENTITY  pluginupdatesfound.title        "Oppdateringer til programtillegg">
 <!ENTITY  pluginupdatesfound.label        "Nyere versjoner av en eller flere av programtilleggene dine ble funnet.">
 <!ENTITY  pluginupdateslink.label         "Se hvordan du kan oppgradere programtilleggene.">
 

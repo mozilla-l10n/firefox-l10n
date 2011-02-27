@@ -65,12 +65,12 @@
 <!ENTITY pref.calendar.advanced.viewPasswords.accesskey "V">
 
 <!-- Update -->
-<!ENTITY pref.calendar.advanced.update.autoCheck.label "Automatisk søk etter oppdateringer for:">
+<!ENTITY pref.calendar.advanced.update.autoCheck.label "Automatisk søk etter oppdateringer til:">
 <!ENTITY pref.calendar.advanced.update.enableAppUpdate.label "&brandShortName;">
 <!ENTITY pref.calendar.advanced.update.enableAppUpdate.accesskey "S">
 <!ENTITY pref.calendar.advanced.update.enableAddonsUpdate.label "Installerte utvidelser">
 <!ENTITY pref.calendar.advanced.update.enableAddonsUpdate.accesskey "I">
-<!ENTITY pref.calendar.advanced.update.whenUpdatesFound.label "Når programoppdateringer for &brandShortName; blir funnet:">
+<!ENTITY pref.calendar.advanced.update.whenUpdatesFound.label "Når programoppdateringer til &brandShortName; blir funnet:">
 <!ENTITY pref.calendar.advanced.update.modeAskMe.label "Spør meg hva jeg vil gjøre">
 <!ENTITY pref.calendar.advanced.update.modeAskMe.accesskey "p">
 <!ENTITY pref.calendar.advanced.update.modeAuto.label "Automatisk last ned og installer oppdateringen">

@@ -31,7 +31,7 @@
 <!ENTITY  noupdates.intro.desc            "&brandShortName; klarte ikke å finne 
                                            oppdateringer.">
 <!ENTITY  noupdates.error.desc            "Problemer oppstod ved forsøk på å finne oppdateringer.">
-<!ENTITY  noupdates.checkEnabled.desc     "&brandShortName; ser jevnlig etter oppdateringer for disse utvidelsene, og
+<!ENTITY  noupdates.checkEnabled.desc     "&brandShortName; ser jevnlig etter oppdateringer til disse utvidelsene, og
                                            informerer deg når de er tilgjengelige.">
 
 <!ENTITY  finished.wizard.title           "Oppdatering fullført">
@@ -46,8 +46,8 @@
                                            fordi programvareinstallasjon er avslått i denne installasjonen av &brandShortName;.
                                            Kontakt systemansvarlig for hjelp.">
 
-<!ENTITY  versioninfo.wizard.title        "Søker etter kompatibilitetsoppdateringer for utvidelser">
-<!ENTITY  versioninfo.top.label           "Søker etter oppdateringer for 
+<!ENTITY  versioninfo.wizard.title        "Søker etter kompatibilitetsoppdateringer til utvidelser">
+<!ENTITY  versioninfo.top.label           "Søker etter oppdateringer til 
                                            denne versjonen av &brandShortName;.">
 <!ENTITY  versioninfo.waiting             "Dette kan ta noen minutter …">
 
