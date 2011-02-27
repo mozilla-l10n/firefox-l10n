@@ -49,3 +49,4 @@
 <!ENTITY homepage.none                                 "Tuščias puslapis">
 <!ENTITY homepage.default                              "„&brandShortName;“ numatytasis">
 <!ENTITY homepage.currentpage                          "Naudoti šiuo metu atvertą tinklalapį">
+<!ENTITY showCharset.title                             "Rodyti naudojamą koduotę">
