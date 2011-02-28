@@ -19,7 +19,7 @@
 
 
 <!ENTITY  acceptCookies.label           "Сайттардан cookies қабылдау">
-<!ENTITY  acceptCookies.accesskey       "а">
+<!ENTITY  acceptCookies.accesskey       "д">
 
 <!ENTITY  acceptThirdParty.label        "Үшінші дәрежелі сайттардан cookies қабылдау">
 <!ENTITY  acceptThirdParty.accesskey    "ш">
