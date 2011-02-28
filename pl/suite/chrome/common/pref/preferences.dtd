@@ -30,6 +30,7 @@
 <!ENTITY smart.label "Instalacja">
 <!ENTITY download.label "Pobieranie plików">
 <!ENTITY keynav.label "Nawigacja">
+<!ENTITY findAsYouType.label "Znajdź wprowadzając">
 <!ENTITY search.label "Wyszukiwanie">
 <!ENTITY policies.label "Zasady zabezpieczeń">
 <!ENTITY mousewheel.label "Przewijanie">
