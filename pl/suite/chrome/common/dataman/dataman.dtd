@@ -42,7 +42,7 @@
 <!ENTITY select.all.label "Wszystkie rodzaje danych">
 <!ENTITY select.cookies.label "Tylko ciasteczka">
 <!ENTITY select.permissions.label "Tylko uprawnienia">
-<!ENTITY select.preferences.label "Tylko uprawnienia">
+<!ENTITY select.preferences.label "Tylko preferencje">
 <!ENTITY select.passwords.label "Tylko hasła">
 
 <!ENTITY domain.search.placeholder "Szukaj domen">
