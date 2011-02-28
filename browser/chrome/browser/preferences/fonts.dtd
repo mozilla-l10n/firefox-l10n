@@ -4,7 +4,7 @@
 <!ENTITY  window.unixWidth                        "41em">
 
 <!ENTITY  language.label                          "Келесі символдар жинақтары үшін қаріптер:">
-<!ENTITY  language.accesskey                      "К">
+<!ENTITY  language.accesskey                      "с">
 
 <!ENTITY  size.label                              "Өлшемі:">
 <!ENTITY  sizeProportional.accesskey              "м">
@@ -67,4 +67,4 @@
 
 <!ENTITY languages.customize.Charset.grouplabel         "Кодталуы">
 <!ENTITY languages.customize.DefaultCharset.label       "Негізгі кодталуы">
-<!ENTITY languages.customize.DefaultCharset.accesskey   "к">
+<!ENTITY languages.customize.DefaultCharset.accesskey   "Н">
