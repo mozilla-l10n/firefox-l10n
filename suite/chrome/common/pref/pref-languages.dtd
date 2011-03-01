@@ -1,32 +1,32 @@
 <!-- LOCALIZATION NOTE : FILE 'Languages' preferences dialog -->
 
-<!ENTITY languages.customize.prefLangDescript           "Web pages are sometimes available in more than one language. Choose languages for displaying web pages, in order of preference.">
-<!ENTITY languages.customize.title                      "Languages">
-<!ENTITY langtitle.label                                "Languages for Web Pages">
-<!ENTITY languages.customize.prefAddLangDescript        "Select the language(s) you would like to add.">
-<!ENTITY languages.customize.addButton.label            "Add…">
-<!ENTITY languages.customize.addButton.accesskey        "A">
-<!ENTITY languages.customize.deleteButton.label         "Remove">
-<!ENTITY languages.customize.deleteButton.accesskey     "R">
-<!ENTITY languages.customize.add.title.label            "Add Languages">
-<!ENTITY languages.customize.available.label            "Languages:">
-<!ENTITY languages.customize.active.label               "Languages in order of preference:">
-<!ENTITY languages.customize.active.accesskey           "L">
-<!ENTITY languages.customize.others.label               "Others:">
-<!ENTITY languages.customize.others.accesskey           "O">
-<!ENTITY languages.customize.Charset.grouplabel         "Default Character Encoding">
-<!ENTITY languages.customize.DefaultCharset.label       "Character Encoding:">
-<!ENTITY languages.customize.DefaultCharset.accesskey   "C">
+<!ENTITY languages.customize.prefLangDescript "Деколи сайти доступні кількома мовами. Вибрати мови для показу сторінок, в порядку пріоритету.">
+<!ENTITY languages.customize.title "Мови">
+<!ENTITY langtitle.label "Мови для сторінок">
+<!ENTITY languages.customize.prefAddLangDescript "Вибрати мову(и), яку ви бажаєте додати.">
+<!ENTITY languages.customize.addButton.label "Додати…">
+<!ENTITY languages.customize.addButton.accesskey "Д">
+<!ENTITY languages.customize.deleteButton.label "Вилучити">
+<!ENTITY languages.customize.deleteButton.accesskey "В">
+<!ENTITY languages.customize.add.title.label "Додати мови">
+<!ENTITY languages.customize.available.label "Мови:">
+<!ENTITY languages.customize.active.label "Мови за пріоритетом:">
+<!ENTITY languages.customize.active.accesskey "М">
+<!ENTITY languages.customize.others.label "Інші:">
+<!ENTITY languages.customize.others.accesskey "І">
+<!ENTITY languages.customize.Charset.grouplabel "Типове кодування символів">
+<!ENTITY languages.customize.DefaultCharset.label "Кодуванння символів:">
+<!ENTITY languages.customize.DefaultCharset.accesskey "К">
 <!-- LOCALIZATION NOTE  Character Encoding Preferences Dialog: Do NOT localize the terms "en-bz, ar-jo"  -->
-<!ENTITY languages.customize.others.examples            "e.g.: en-bz, ar-jo">
-<!ENTITY languages.customize.moveUp.label               "Move Up">
-<!ENTITY languages.customize.moveUp.accesskey           "U">
-<!ENTITY languages.customize.moveDown.label             "Move Down">
-<!ENTITY languages.customize.moveDown.accesskey         "D">
+<!ENTITY languages.customize.others.examples "наприклад: en-bz, ar-jo">
+<!ENTITY languages.customize.moveUp.label "Вгору">
+<!ENTITY languages.customize.moveUp.accesskey "В">
+<!ENTITY languages.customize.moveDown.label "Вниз">
+<!ENTITY languages.customize.moveDown.accesskey "В">
 
-<!ENTITY spelling.label                                 "Spelling">
-<!ENTITY checkSpelling.label                            "When typing check my spelling:">
-<!ENTITY checkSpelling.accesskey                        "W">
-<!ENTITY dontCheckSpelling.label                        "Never">
-<!ENTITY multilineCheckSpelling.label                   "In multiline boxes">
-<!ENTITY alwaysCheckSpelling.label                      "All boxes">
+<!ENTITY spelling.label "Орфографія">
+<!ENTITY checkSpelling.label "У час вводу перевіряти мою орфографію:">
+<!ENTITY checkSpelling.accesskey "У">
+<!ENTITY dontCheckSpelling.label "Ніколи">
+<!ENTITY multilineCheckSpelling.label "У багаторядкових блоках">
+<!ENTITY alwaysCheckSpelling.label "У всіх блоках">

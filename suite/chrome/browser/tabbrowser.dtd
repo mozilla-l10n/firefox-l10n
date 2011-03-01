@@ -1,18 +1,18 @@
-<!ENTITY  untitledTab            "(Untitled)">
-<!ENTITY  newTab.label           "New Tab">
-<!ENTITY  newTab.accesskey       "N">
-<!ENTITY  closeTab.label         "Close Tab">
-<!ENTITY  closeTab.accesskey         "C">
-<!ENTITY  closeOtherTabs.label   "Close Other Tabs">
-<!ENTITY  closeOtherTabs.accesskey         "O">
-<!ENTITY  reloadAllTabs.label    "Reload All Tabs">
-<!ENTITY  reloadAllTabs.accesskey         "A">
-<!ENTITY  reloadTab.label        "Reload Tab">
-<!ENTITY  reloadTab.accesskey         "R">
-<!ENTITY  bookmarkGroup.label    "Bookmark This Group of Tabs">
-<!ENTITY  bookmarkGroup.accesskey  "B">
-<!ENTITY  closeTabButton.tooltip   "Close current tab">
-<!ENTITY  newTabButton.tooltip   "Open a new tab">
-<!ENTITY  listAllTabs.tooltip    "List all tabs">
-<!ENTITY  undoCloseTab.label    "Undo Close Tab">
-<!ENTITY  undoCloseTab.accesskey  "U">
+<!ENTITY untitledTab "(Без назви)">
+<!ENTITY newTab.label "Нова вкладка">
+<!ENTITY newTab.accesskey "Н">
+<!ENTITY closeTab.label "Закрити вкладку">
+<!ENTITY closeTab.accesskey "З">
+<!ENTITY closeOtherTabs.label "Закрити інші вкладки">
+<!ENTITY closeOtherTabs.accesskey "З">
+<!ENTITY reloadAllTabs.label "Оновити всі вкладки">
+<!ENTITY reloadAllTabs.accesskey "О">
+<!ENTITY reloadTab.label "Оновити вкладку">
+<!ENTITY reloadTab.accesskey "О">
+<!ENTITY bookmarkGroup.label "Закласти цю групу вкладок">
+<!ENTITY bookmarkGroup.accesskey "З">
+<!ENTITY closeTabButton.tooltip "Закрити поточну вкладку">
+<!ENTITY newTabButton.tooltip "Відкрити нову вкладку">
+<!ENTITY listAllTabs.tooltip "List all tabs">
+<!ENTITY undoCloseTab.label "Повернути закриту вкладку">
+<!ENTITY undoCloseTab.accesskey "П">

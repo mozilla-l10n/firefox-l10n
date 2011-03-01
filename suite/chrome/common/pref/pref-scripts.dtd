@@ -1,24 +1,22 @@
 <!-- extracted from content/pref-scripts.xul -->
 
-<!--LOCALIZATION NOTE : FILE The 'Scripts & Plugins' preferences dialog -->
-<!ENTITY pref.scripts.title              "Scripts &amp; Plugins">
+<!ENTITY pref.scripts.title "Скриптові &amp; модулі">
 
-<!ENTITY navigator.label                 "Browser">
-<!ENTITY navigator.accesskey             "B">
+<!ENTITY navigator.label "Переглядач">
+<!ENTITY navigator.accesskey "П">
 
-<!--LOCALIZATION NOTE (enableJavaScript.label): 'JavaScript' should never be translated -->
-<!ENTITY enableJavaScript.label          "Enable JavaScript for">
-<!ENTITY allowScripts.label              "Allow scripts to:">
-<!ENTITY allowScripts.accesskey          "s">
-<!ENTITY allowWindowMoveResize.label     "Move or resize existing windows">
-<!ENTITY allowWindowFlip.label           "Raise or lower windows">
-<!ENTITY allowWindowStatusChange.label   "Change status bar text">
-<!ENTITY allowWindowImageSrcChange.label "Change images">
-<!ENTITY allowContextmenuDisable.label   "Disable or replace context menus">
-<!ENTITY allowHideStatusBar.label        "Hide the status bar">
+<!ENTITY enableJavaScript.label "Ввімкнути JavaScript для">
+<!ENTITY allowScripts.label "Дозволити JavaScript скриптам:">
+<!ENTITY allowScripts.accesskey "Д">
+<!ENTITY allowWindowMoveResize.label "Змінювати розмір чи рухати вікна">
+<!ENTITY allowWindowFlip.label "Піднімати або опускати вікна">
+<!ENTITY allowWindowStatusChange.label "Змінювати текст в рядку стану">
+<!ENTITY allowWindowImageSrcChange.label "Змінювати зображення">
+<!ENTITY allowContextmenuDisable.label "Вимикати або замінювати контекстні меню">
+<!ENTITY allowHideStatusBar.label "Приховувати рядок стану">
 
-<!ENTITY enablePlugin.label              "Enable Plugins for">
+<!ENTITY enablePlugin.label "Ввімкнути модулі для">
 
-<!ENTITY whenPluginsRequired.label       "When additional plugins are required">
-<!ENTITY displayNotification.label       "Display a notification bar at the top of the content area">
-<!ENTITY displayNotification.accesskey   "N">
+<!ENTITY whenPluginsRequired.label "Коли додатковий модуль потрібний">
+<!ENTITY displayNotification.label "Показувати панель сповіщення зверху контекстної ділянки">
+<!ENTITY displayNotification.accesskey "П">

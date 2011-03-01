@@ -38,15 +38,15 @@
 
  ***** END LICENSE BLOCK ***** -->
 
-<!ENTITY            windowTitle.label    "Select User Profile">
-<!ENTITY            profileManager.title "&brandShortName; Profile Manager">
+<!ENTITY windowTitle.label "Параметри користувача">
+<!ENTITY profileManager.title "Керування профілями &brandShortName;">
 
-<!ENTITY            manage.label     "Manage Profiles…">
-<!ENTITY            manage.accesskey "M">
-<!ENTITY            select.label     "Use Profile">
+<!ENTITY manage.label "Керувати профілями…">
+<!ENTITY manage.accesskey "К">
+<!ENTITY select.label "Використати профіль">
 
-<!ENTITY            availableProfiles.label "Available Profiles">
+<!ENTITY availableProfiles.label "Доступні профілі">
 
-<!ENTITY            introStart.label         "To access your personal profile, which contains your stored messages, settings and other personalized information, please choose your profile from the list, and click &start.label; to begin your session.">
-<!ENTITY            introSwitch.label        "To switch to another profile, which contains stored messages, settings and other personalized information, please choose that profile from the list, and click &select.label; to begin using that profile.">
-<!ENTITY            profileManagerText.label "&brandShortName; stores information about your settings, preferences, bookmarks, stored messages and other user items in your user profile.">
+<!ENTITY introStart.label "Щоб дозволити ваш особистий профіль, який містить ваші збережені листи, налаштування та іншу уособлену інформацію, будь ласка, виберіть ваш профіль зі списку, та натисніть &start.label;, щоб почати ваш сеанс.">
+<!ENTITY introSwitch.label "Щоб перемкнути профіль, який містить збережені листи, налаштування та іншу уособлену інформацію, будь ласка, виберіть профіль зі списку, та натисніть &start.label;, щоб почати використовувати його.">
+<!ENTITY profileManagerText.label "&brandShortName; зберігає інформацію про ваші налаштування, вподобання, закладки, збережені листи та інше у профілі.">

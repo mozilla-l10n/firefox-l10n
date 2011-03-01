@@ -34,5 +34,5 @@
  the terms of any one of the MPL, the GPL or the LGPL.
 
  ***** END LICENSE BLOCK ***** -->
-<!ENTITY name.label                    "Address Book Name:">
-<!ENTITY name.accesskey                "A">
+<!ENTITY name.label "Назва адресної книги">
+<!ENTITY name.accesskey "Н">

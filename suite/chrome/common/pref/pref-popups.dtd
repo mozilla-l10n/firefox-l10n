@@ -1,33 +1,33 @@
-<!ENTITY pref.popups.title              "Popup Windows">
+<!ENTITY pref.popups.title "Виринаючі вікна">
 
-<!ENTITY pref.popups.caption            "Popup Windows">
+<!ENTITY pref.popups.caption "Виринаючі вікна">
 
-<!ENTITY popupBlock.label               "Block unrequested popup windows">
-<!ENTITY popupBlock.accesskey           "B">
+<!ENTITY popupBlock.label "Заборонити небажані виринаючі вікна">
+<!ENTITY popupBlock.accesskey "З">
 
-<!ENTITY viewPermissions.label          "Manage Permissions">
-<!ENTITY viewPermissions.accesskey      "M">
+<!ENTITY viewPermissions.label "Manage Permissions">
+<!ENTITY viewPermissions.accesskey "M">
 
-<!ENTITY whenBlock.description          "When a popup window has been blocked:">
-<!ENTITY playSound.label                "Play a sound:">
-<!ENTITY playSound.accesskey            "P">
-<!ENTITY systemSound.label              "System beep">
-<!ENTITY systemSound.accesskey          "S">
-<!ENTITY customSound.label              "Custom sound file">
-<!ENTITY customSound.accesskey          "C">
+<!ENTITY whenBlock.description "Коли вирнаюче вікно заблоковане:">
+<!ENTITY playSound.label "Програти звук:">
+<!ENTITY playSound.accesskey "П">
+<!ENTITY systemSound.label "Системний гудок">
+<!ENTITY systemSound.accesskey "С">
+<!ENTITY customSound.label "Спеціальний звуковий файл">
+<!ENTITY customSound.accesskey "С">
 
-<!ENTITY selectSound.label              "Browse…">
-<!ENTITY selectSound.accesskey          "o">
-<!ENTITY previewSound.label             "Preview">
-<!ENTITY previewSound.accesskey         "v">
-<!ENTITY selectSound.title              "Select Popup Block Sound">
-<!ENTITY selectSound.filter             "Sounds">
+<!ENTITY selectSound.label "Вибрати…">
+<!ENTITY selectSound.accesskey "В">
+<!ENTITY previewSound.label "Попереднє прослуховування">
+<!ENTITY previewSound.accesskey "П">
+<!ENTITY selectSound.title "Вибрати звук заборони виринання">
+<!ENTITY selectSound.filter "Звуки">
 
-<!ENTITY displayIcon.label              "Display an icon in the browser status bar">
-<!ENTITY displayIcon.accesskey          "D">
+<!ENTITY displayIcon.label "Показати піктограму в панелі стану переглядача">
+<!ENTITY displayIcon.accesskey "П">
 
-<!ENTITY displayNotification.label      "Display a notification bar at the top of the content area">
-<!ENTITY displayNotification.accesskey  "N">
+<!ENTITY displayNotification.label "Показати панель сповіщення зверху контекстної ділянки">
+<!ENTITY displayNotification.accesskey "П">
 
-<!ENTITY popupNote.description          "Note: Blocking all popups may prevent important features of some websites from working, such as login windows for banks and shopping websites. For details of how to allow specific websites to use popups while blocking all others, click Help. Even if blocked, websites may use other methods to show popups.">
+<!ENTITY popupNote.description "Note: Blocking all popups may prevent important features of some websites from working, such as login windows for banks and shopping websites. For details of how to allow specific websites to use popups while blocking all others, click Help. Even if blocked, websites may use other methods to show popups.">
 

@@ -1,34 +1,29 @@
-<!--LOCALIZATION NOTE : FILE The Location Bar prefs panel -->
-<!ENTITY pref.locationBar.title                "Location Bar">
+<!ENTITY pref.locationBar.title "Панель адрес">
 
-<!ENTITY autoComplete.label                    "Autocomplete">
-<!ENTITY enableAutoComplete.label              "Autocomplete from your browsing history as you type">
-<!ENTITY enableAutoComplete.accesskey          "A">
-<!ENTITY autoCompleteAutoFill.label            "Automatically prefill the best match">
-<!ENTITY autoCompleteAutoFill.accesskey        "u">
-<!ENTITY autoCompleteShowPopup.label           "Show list of matching results">
-<!ENTITY autoCompleteShowPopup.accesskey       "S">
-<!ENTITY autoCompleteMatchOnlyTyped.label      "Match only websites you've typed previously">
-<!ENTITY autoCompleteMatchOnlyTyped.accesskey  "o">
-<!ENTITY autoCompleteMatchOnlyURLs.label       "Only match locations, not website titles">
-<!ENTITY autoCompleteMatchOnlyURLs.accesskey   "n">
-<!--LOCALIZATION NOTE (autoCompleteMatch.label): This is the common leading
-  part of the menulist items listed below, mainly to make the control available
-  via the accesskey
--->
-<!ENTITY autoCompleteMatch.label               "Match">
-<!ENTITY autoCompleteMatch.accesskey           "M">
-<!ENTITY autoCompleteMatchAnywhere             "Anywhere in the location or title">
-<!ENTITY autoCompleteMatchWordsFirst           "Anywhere but preferring word boundaries">
-<!ENTITY autoCompleteMatchWords                "Only on word boundaries">
-<!ENTITY autoCompleteMatchStart                "Only at the beginning of the location or title">
+<!ENTITY autoComplete.label "Автодоповнення">
+<!ENTITY enableAutoComplete.label "Автодоповнення з історії вашого перегляду по мірі набору">
+<!ENTITY enableAutoComplete.accesskey "A">
+<!ENTITY autoCompleteAutoFill.label "Автоматично підставляти найкраще співпадіння">
+<!ENTITY autoCompleteAutoFill.accesskey "u">
+<!ENTITY autoCompleteShowPopup.label "Показати список результатів, що збігаються">
+<!ENTITY autoCompleteShowPopup.accesskey "S">
+<!ENTITY autoCompleteMatchOnlyTyped.label "Лише збіг сайтів, котрі ви ввели раніше">
+<!ENTITY autoCompleteMatchOnlyTyped.accesskey "o">
+<!ENTITY autoCompleteMatchOnlyURLs.label "Лише адреси, не назви сайтів">
+<!ENTITY autoCompleteMatchOnlyURLs.accesskey "Л">
+<!ENTITY autoCompleteMatch.label "Збіг">
+<!ENTITY autoCompleteMatch.accesskey "З">
+<!ENTITY autoCompleteMatchAnywhere "Будь-де в адресі або назві">
+<!ENTITY autoCompleteMatchWordsFirst "Скрізь, але переважно в межах слова">
+<!ENTITY autoCompleteMatchWords "Лише в межах слова">
+<!ENTITY autoCompleteMatchStart "Лише на початку адреси або назви">
 
-<!ENTITY searchEngine.label                    "Internet Search Engine">
-<!ENTITY showSearchEngine.label                "Show default search engine">
-<!ENTITY showSearchEngine.accesskey            "e">
+<!ENTITY searchEngine.label "Рушій пошуковця">
+<!ENTITY showSearchEngine.label "Показати типовий рушій пошуку">
+<!ENTITY showSearchEngine.accesskey "П">
 
-<!ENTITY unknownLocations.label                "Unknown Locations">
-<!ENTITY domainGuessing.label                  "Add &quot;www.&quot; and &quot;.com&quot; to the location if a web page is not found">
-<!ENTITY domainGuessing.accesskey              "d">
-<!ENTITY keywords.label                        "Perform a web search when entered text is not a web location">
-<!ENTITY keywords.accesskey                    "P">
+<!ENTITY unknownLocations.label "Невідома адреса">
+<!ENTITY domainGuessing.label "Додати &quot;www.&quot; та &quot;.com&quot; до адреси, якщо сторінка не знайдена">
+<!ENTITY domainGuessing.accesskey "Д">
+<!ENTITY keywords.label "Здійснити пошук, коли текст — не адреса">
+<!ENTITY keywords.accesskey "З">

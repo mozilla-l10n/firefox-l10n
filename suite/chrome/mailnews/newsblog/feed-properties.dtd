@@ -1,19 +1,19 @@
 <!-- Feed Properties Dialog -->
-<!ENTITY window.title             "Feed Properties">
+<!ENTITY window.title "Властивості підписки на RSS-канал">
 
-<!ENTITY feedFolder.label         "Store Articles in: ">
-<!ENTITY feedFolder.accesskey     "S">
+<!ENTITY feedFolder.label "Зберігати статті в:">
+<!ENTITY feedFolder.accesskey "б">
 
-<!ENTITY feedLocation.label       "Feed URL: ">
-<!ENTITY feedLocation.accesskey   "F">
+<!ENTITY feedLocation.label "Адреса RSS-каналу:">
+<!ENTITY feedLocation.accesskey "А">
 
-<!ENTITY choosethisfolder.label   "choose this folder">
+<!ENTITY choosethisfolder.label "вибрати цю теку">
 
-<!ENTITY quickMode.label          "Show the article summary instead of loading the web page">
-<!ENTITY quickMode.accesskey      "h">
+<!ENTITY quickMode.label "Показувати короткий опис статті замість завантаження веб-сторінки">
+<!ENTITY quickMode.accesskey "к">
 
-<!ENTITY copyLinkCmd.label        "Copy Link Location">
-<!ENTITY copyLinkCmd.accesskey    "C">
+<!ENTITY copyLinkCmd.label "Копіювати посилання">
+<!ENTITY copyLinkCmd.accesskey "и">
 
-<!ENTITY pasteLinkCmd.label       "Paste">
-<!ENTITY pasteLinkCmd.accesskey   "P">
+<!ENTITY pasteLinkCmd.label "Вставити">
+<!ENTITY pasteLinkCmd.accesskey "В">

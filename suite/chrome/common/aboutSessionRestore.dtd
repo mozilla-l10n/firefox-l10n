@@ -1,18 +1,18 @@
-<!ENTITY restorepage.tabtitle       "Restore Session">
-<!ENTITY restorepage.pagetitle      "Would you like to restore your session?">
+<!ENTITY restorepage.tabtitle "Відновити сеанс">
+<!ENTITY restorepage.pagetitle "Ви бажаєте відновити сеанс?">
 <!-- LOCALIZATION NOTE: If "closed unexpectedly" sounds too awkward in the translation,
                         you may translate "crash" instead (even though it's IT-speak) -->
-<!ENTITY restorepage.issueDesc      "Your previous &brandShortName; session closed unexpectedly. We sincerely apologize for the inconvenience. You can restore the tabs and windows from your previous session, or start a new session if they are no longer needed.">
-<!ENTITY restorepage.remedies       "If &brandShortName; closes repeatedly:">
-<!ENTITY restorepage.dueToChrome    "Try disabling any recently added extensions in the Add-ons Manager.">
-<!ENTITY restorepage.dueToContent   "Try restoring your session without any Web pages you suspect might be causing the problem:">
+<!ENTITY restorepage.issueDesc "Попередній сеанс &brandShortName; несподівано закінчився. Ми щиро просимо пробачення за незручності. Ви можете відновити вкладки і вікна з попереднього сеансу або запустити новий сеанс, якщо вони вам більше не потрібні.">
+<!ENTITY restorepage.remedies "Якщо &brandShortName; несподівано закрився повторно:">
+<!ENTITY restorepage.dueToChrome "Спробувати вимкнути нещодавно додані розширення в менеджері додатків.">
+<!ENTITY restorepage.dueToContent "Спробувати відновити сеанс без сторінок, які ви підозрюєте у створенні проблем:">
 
-<!ENTITY restorepage.restoreButton  "Restore Previous Session">
-<!ENTITY restorepage.restore.access "R">
-<!ENTITY restorepage.cancelButton   "Start New Session">
-<!ENTITY restorepage.cancel.access  "S">
+<!ENTITY restorepage.restoreButton "Відновлення попереднього сеасну">
+<!ENTITY restorepage.restore.access "В">
+<!ENTITY restorepage.cancelButton "Почати новий сеанс">
+<!ENTITY restorepage.cancel.access "С">
 
-<!ENTITY restorepage.restoreHeader  "Restore">
-<!ENTITY restorepage.listHeader     "Windows and Tabs">
+<!ENTITY restorepage.restoreHeader "Відновити">
+<!ENTITY restorepage.listHeader "Вікна та вкладки">
 <!-- LOCALIZATION NOTE: &#37;S will be replaced with a number. -->
-<!ENTITY restorepage.windowLabel    "Window &#37;S">
+<!ENTITY restorepage.windowLabel "Вікно &#37;S">

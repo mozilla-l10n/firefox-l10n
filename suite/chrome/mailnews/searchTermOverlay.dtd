@@ -1,8 +1,8 @@
-<!ENTITY matchAll.label     "Match all of the following">
+<!ENTITY matchAll.label "За всіма наступними умовами">
 <!ENTITY matchAll.accesskey "M">
-<!ENTITY matchAny.label     "Match any of the following">
+<!ENTITY matchAny.label "За будь-якою з наступних умов">
 <!ENTITY matchAny.accesskey "a">
-<!ENTITY matchAllMsgs.label     "Match all messages">
+<!ENTITY matchAllMsgs.label "Всі листи">
 <!ENTITY matchAllMsgs.accesskey "t">
 <!-- LOCALIZATION NOTE  
   The values below are used to control the widths of the search widgets.

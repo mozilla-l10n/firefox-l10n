@@ -1,27 +1,27 @@
-<!ENTITY pane.title                   "Return Receipts">
-<!ENTITY useGlobalPrefs.label         "Use my global return receipt preferences for this account">
-<!ENTITY useGlobalPrefs.accesskey     "U">
-<!ENTITY useCustomPrefs.label         "Customize return receipts for this account">
-<!ENTITY useCustomPrefs.accesskey     "C">
-<!ENTITY requestReceipt.label         "When sending messages, always request a return receipt">
-<!ENTITY requestReceipt.accesskey     "W">
-<!ENTITY receiptArrive.label          "When a receipt arrives:">
-<!ENTITY leaveIt.label                "Leave it in my Inbox">
-<!ENTITY leaveIt.accesskey            "I">
+<!ENTITY pane.title "Звіти про прочитання">
+<!ENTITY useGlobalPrefs.label "Використовувати глобальні параметри звітів для цього облікового запису">
+<!ENTITY useGlobalPrefs.accesskey "В">
+<!ENTITY useCustomPrefs.label "Налаштувати звіти про прочитання для цього облікового запису">
+<!ENTITY useCustomPrefs.accesskey "Н">
+<!ENTITY requestReceipt.label "Посилаючи лист, завжди вимагати звіт про прочитання">
+<!ENTITY requestReceipt.accesskey "П">
+<!ENTITY receiptArrive.label "Коли звіт прибуває:">
+<!ENTITY leaveIt.label "Залишати його в теці «Вхідні»">
+<!ENTITY leaveIt.accesskey "З">
 <!-- LOCALIZATION NOTE moveToSent.label Translate: 'Sent' according to Netscape glossary -->
-<!ENTITY moveToSent.label             "Move it to my &quot;Sent&quot; folder">
-<!ENTITY moveToSent.accesskey         "M">
-<!ENTITY requestMDN.label             "When I receive a request for a return receipt:">
-<!ENTITY returnSome.label             "Allow return receipts for some messages">
-<!ENTITY returnSome.accesskey         "e">
-<!ENTITY never.label                  "Never send a return receipt">
-<!ENTITY never.accesskey              "N">
-<!ENTITY notInToCc.label              "If I'm not in the To or Cc of the message:">
-<!ENTITY notInToCc.accesskey          "T">
-<!ENTITY outsideDomain.label          "If the sender is outside my domain:">
-<!ENTITY outsideDomain.accesskey      "s">
-<!ENTITY otherCases.label             "In all other cases:">
-<!ENTITY otherCases.accesskey         "o">
-<!ENTITY askMe.label                  "Ask me">
-<!ENTITY alwaysSend.label             "Always send">
-<!ENTITY neverSend.label              "Never send">
+<!ENTITY moveToSent.label "Перемістити його в теку «Відіслані»">
+<!ENTITY moveToSent.accesskey "е">
+<!ENTITY requestMDN.label "Коли я отримую вимогу звіту про прочитання:">
+<!ENTITY returnSome.label "Дозволити звіти для деяких листів">
+<!ENTITY returnSome.accesskey "Д">
+<!ENTITY never.label "Ніколи не повертати звіт про прочитання">
+<!ENTITY never.accesskey "і">
+<!ENTITY notInToCc.label "Якщо я відсутній у списках «Кому» чи «Копія»:">
+<!ENTITY notInToCc.accesskey "Я">
+<!ENTITY outsideDomain.label "Якщо відправник перебуває поза моїм доменом:">
+<!ENTITY outsideDomain.accesskey "к">
+<!ENTITY otherCases.label "В інших випадках:">
+<!ENTITY otherCases.accesskey "ш">
+<!ENTITY askMe.label "Питати мене">
+<!ENTITY alwaysSend.label "Завжди повертати">
+<!ENTITY neverSend.label "Ніколи не повертати">

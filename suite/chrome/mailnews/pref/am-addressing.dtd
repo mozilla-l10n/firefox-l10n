@@ -1,39 +1,39 @@
 <!-- extracted from am-addressing.xul -->
 
-<!ENTITY addressing.label          "Composition &amp; Addressing">
-<!ENTITY addressingGroupTitle.label "Addressing">
-<!ENTITY autocompleteToMyDomain.label     "Automatically append my domain to addresses">
+<!ENTITY addressing.label "Написання та адресація">
+<!ENTITY addressingGroupTitle.label "Адресація">
+<!ENTITY autocompleteToMyDomain.label "Автоматично додавати мій домен до адрес">
 <!ENTITY autocompleteToMyDomain.accesskey "o">
-<!ENTITY addressingText.label      "When looking up addresses:">
+<!ENTITY addressingText.label "При пошуку адреси:">
 <!-- LOCALIZATION NOTE (override.label) : do not translate "LDAP" in below line -->
-<!ENTITY useGlobal.label           "Use my global LDAP server preferences for this account">
-<!ENTITY useGlobal.accesskey       "U">
-<!ENTITY editDirectories.label     "Edit Directories…">
-<!ENTITY editDirectories.accesskey "E">
+<!ENTITY useGlobal.label "Використовувати глобальні налаштування сервера LDAP для цього облікового запису">
+<!ENTITY useGlobal.accesskey "В">
+<!ENTITY editDirectories.label "Правити каталоги…">
+<!ENTITY editDirectories.accesskey "П">
 <!-- LOCALIZATION NOTE (directories.label) : do not translate "LDAP" in below line -->
-<!ENTITY directories.label         "Use a different LDAP server:">
-<!ENTITY directories.accesskey     "d">
-<!ENTITY directoriesNone.label     "None">
+<!ENTITY directories.label "Використовувати інший сервер LDAP:">
+<!ENTITY directories.accesskey "і">
+<!ENTITY directoriesNone.label "Жодного">
 
 <!-- am-addressing.xul -->
 
-<!ENTITY compositionGroupTitle.label "Composition">
+<!ENTITY compositionGroupTitle.label "Написання">
 <!-- LOCALIZATION NOTE (useHtml.label) : do not translate "html" in below line -->
-<!ENTITY useHtml.label                        "Compose messages in HTML format">
-<!ENTITY useHtml.accesskey                    "C">
-<!ENTITY autoQuote.label                      "Automatically quote the original message when replying">
-<!ENTITY autoQuote.accesskey                  "m">
+<!ENTITY useHtml.label "Писати листи у форматі HTML">
+<!ENTITY useHtml.accesskey "С">
+<!ENTITY autoQuote.label "Автоматично цитувати початкове повідомлення у відповідях">
+<!ENTITY autoQuote.accesskey "ц">
 <!-- LOCALIZATION NOTE (then.label): This will concatenate with the 4 strings that follow. -->
-<!ENTITY then.label                           "Then,">
-<!ENTITY then.accesskey                       "T">
-<!ENTITY aboveQuote.label                     "start my reply above the quote">
-<!ENTITY belowQuote.label                     "start my reply below the quote">
-<!ENTITY selectAndQuote.label                 "select the quote">
-<!ENTITY place.label                          "and place my signature">
-<!ENTITY place.accesskey                      "s">
-<!ENTITY belowText.label                      "below the quote (recommended)">
-<!ENTITY aboveText.label                      "below my reply (above the quote)">
-<!ENTITY includeSigOnReply.label              "Include signature for replies">
-<!ENTITY includeSigOnReply.accesskey          "s">
-<!ENTITY includeSigOnForward.label            "Include signature for forwards">
-<!ENTITY includeSigOnForward.accesskey        "w">
+<!ENTITY then.label "Потім ">
+<!ENTITY then.accesskey "П">
+<!ENTITY aboveQuote.label "починати відповідь над цитатою">
+<!ENTITY belowQuote.label "починати відповідь під цитатою">
+<!ENTITY selectAndQuote.label "виділити цитату">
+<!ENTITY place.label "і поставити мій підпис">
+<!ENTITY place.accesskey "і">
+<!ENTITY belowText.label "під цитатою (рекомендовано)">
+<!ENTITY aboveText.label "під відповіддю (над цитатою)">
+<!ENTITY includeSigOnReply.label "Включати підпис у відповідях">
+<!ENTITY includeSigOnReply.accesskey "в">
+<!ENTITY includeSigOnForward.label "Включати підпис у пересланих">
+<!ENTITY includeSigOnForward.accesskey "п">

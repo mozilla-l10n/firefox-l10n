@@ -1,14 +1,14 @@
-<!ENTITY syncKey.page.title               "Your &syncBrand.fullName.label; Key">
-<!ENTITY syncKey.page.description         "This key is used to decode the data in your &syncBrand.fullName.label; account. You will need to enter the key each time you configure &syncBrand.fullName.label; on a new computer or device.">
-<!ENTITY syncKey.keepItSecret.heading     "Keep it secret">
-<!ENTITY syncKey.keepItSecret.description "Your &syncBrand.fullName.label; account is encrypted to protect your privacy. Without this key, it would take years for anyone to decode your personal information. You are the only person who holds this key. This means you're the only one who can access your &syncBrand.fullName.label; data.">
-<!ENTITY syncKey.keepItSafe.heading       "Keep it safe">
-<!ENTITY syncKey.keepItSafe1.description  "Do not lose this key.">
-<!ENTITY syncKey.keepItSafe2.description  " We don't keep a copy of your key (that wouldn't be keeping it secret!) so ">
-<!ENTITY syncKey.keepItSafe3.description  "we can't help you recover it">
-<!ENTITY syncKey.keepItSafe4.description  " if it's lost. You'll need to use this key any time you connect a new computer or device to &syncBrand.fullName.label;.">
-<!ENTITY syncKey.findOutMore1.label       "Find out more about &syncBrand.fullName.label; and your privacy at ">
-<!ENTITY syncKey.findOutMore2.label       ".">
-<!ENTITY syncKey.footer1.label            "&syncBrand.fullName.label; Terms of Service are available at ">
-<!ENTITY syncKey.footer2.label            ". The Privacy Policy is available at ">
-<!ENTITY syncKey.footer3.label            ".">
+<!ENTITY syncKey.page.title "Ваш ключ &syncBrand.fullName.label;">
+<!ENTITY syncKey.page.description "Ключ використовується для декодування даних у вашому обліковому записі &syncBrand.fullName.label;. Вам потрібно буде вводити ключ кожного разу як конфігуруватимете &syncBrand.fullName.label; на новому комп’ютері чи пристрої.">
+<!ENTITY syncKey.keepItSecret.heading "Зберігайте його в таємниці">
+<!ENTITY syncKey.keepItSecret.description "Ваш обліковий запис &syncBrand.fullName.label; шифровано для захисту вашої приватності. Без цього ключа, будь-кому знадобляться роки щоб розшифрувати вашу персональну інформацію. Ви єдина особа що має ключ. Це означає, що ви лише ви можете отримати доступ до ваших даних &syncBrand.fullName.label;.">
+<!ENTITY syncKey.keepItSafe.heading "Зберігайте його в безпеці">
+<!ENTITY syncKey.keepItSafe1.description "Не загубіть цей ключ.">
+<!ENTITY syncKey.keepItSafe2.description " Ми не маємо копії цього ключа (інакше він не був би таємним!), тож ">
+<!ENTITY syncKey.keepItSafe3.description "ми не зможемо допомогти вам його відновити">
+<!ENTITY syncKey.keepItSafe4.description " якщо він загубиться. Ви потребуватимете цей ключ кожного разу, як підключатимете новий комп’ютер чи пристрій до &syncBrand.fullName.label;.">
+<!ENTITY syncKey.findOutMore1.label "Дізнайтесь більше про &syncBrand.fullName.label; та вашу та вашу приватність на ">
+<!ENTITY syncKey.findOutMore2.label "">
+<!ENTITY syncKey.footer1.label "Умови послуги &syncBrand.fullName.label; доступні на ">
+<!ENTITY syncKey.footer2.label " Політика приватності доступна на ">
+<!ENTITY syncKey.footer3.label "">

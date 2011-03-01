@@ -1,26 +1,26 @@
-<!ENTITY migrationWizard.title           "Import Wizard">
+<!ENTITY migrationWizard.title "Майстер імпорту">
 
-<!ENTITY importAllFrom.label             "Import All Items from:">
-<!ENTITY importBookmarksFrom.label       "Import Bookmarks from:">
+<!ENTITY importAllFrom.label "Імпортувати всі пункти з:">
+<!ENTITY importBookmarksFrom.label "Імпортувати закладки з:">
 
-<!ENTITY importFromSeamonkey.label       "SeaMonkey 1.x, Netscape 6/7 or Mozilla 1.x">
-<!ENTITY importFromSeamonkey.accesskey   "S">
-<!ENTITY importFromThunderbird.label     "Thunderbird">
+<!ENTITY importFromSeamonkey.label "SeaMonkey 1.x, Netscape 6/7 or Mozilla 1.x">
+<!ENTITY importFromSeamonkey.accesskey "S">
+<!ENTITY importFromThunderbird.label "Thunderbird">
 <!ENTITY importFromThunderbird.accesskey "T">
-<!ENTITY importFromFile.label            "File">
-<!ENTITY importFromFile.accesskey        "F">
-<!ENTITY importFromNothing.label         "Don't import anything">
-<!ENTITY importFromNothing.accesskey     "D">
+<!ENTITY importFromFile.label "Файл">
+<!ENTITY importFromFile.accesskey "Ф">
+<!ENTITY importFromNothing.label "Не імпортувати нічого">
+<!ENTITY importFromNothing.accesskey "Н">
 
-<!ENTITY importSource.title              "Import Settings and Data">
-<!ENTITY importItems.title               "Items to Import">
-<!ENTITY importItems.label               "Select which items to import:">
+<!ENTITY importSource.title "Імпорт налаштувань і даних">
+<!ENTITY importItems.title "Об’єкти для імпорту">
+<!ENTITY importItems.label "Виберіть об’єкти для імпорту:">
 
-<!ENTITY selectProfile.title             "Select Profile">
-<!ENTITY selectProfile.label             "The following profiles are available to import from:">
+<!ENTITY selectProfile.title "Вибір профілю">
+<!ENTITY selectProfile.label "Імпорт можна провести з наступних профілів:">
 
-<!ENTITY migrating.title                 "Importing…">
-<!ENTITY migrating.label                 "The following items are currently being imported…">
+<!ENTITY migrating.title "Триває імпорт…">
+<!ENTITY migrating.label "Зараз імпортуються наступні об’єкти…">
 
-<!ENTITY done.title                      "Import Complete">
-<!ENTITY done.label                      "The following items were successfully imported:">
+<!ENTITY done.title "Імпорт успішно завершений">
+<!ENTITY done.label "Наступні об’єкти успішно імпортовані:">

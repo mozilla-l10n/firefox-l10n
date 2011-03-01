@@ -1,23 +1,23 @@
-<!ENTITY sanitizeDialog.title            "Clear Private Data">
-<!ENTITY sanitizeItems.label             "Clear the following items now:">
+<!ENTITY sanitizeDialog.title "Очистити особисті дані">
+<!ENTITY sanitizeItems.label "Стерти наступні дані:">
 
-<!ENTITY itemHistory.label               "Browsing History">
-<!ENTITY itemHistory.accesskey           "B">
-<!ENTITY itemUrlBar.label                "Location Bar History">
-<!ENTITY itemUrlBar.accesskey            "L">
-<!ENTITY itemDownloads.label             "Download History">
-<!ENTITY itemDownloads.accesskey         "D">
-<!ENTITY itemFormSearchHistory.label     "Saved Form and Search History">
-<!ENTITY itemFormSearchHistory.accesskey "F">
-<!ENTITY itemCache.label                 "Cache">
-<!ENTITY itemCache.accesskey             "a">
-<!ENTITY itemCookies.label               "Cookies">
-<!ENTITY itemCookies.accesskey           "C">
-<!ENTITY itemOfflineApps.label           "Offline Website Data">
-<!ENTITY itemOfflineApps.accesskey       "O">
-<!ENTITY itemPasswords.label             "Saved Passwords">
-<!ENTITY itemPasswords.accesskey         "P">
-<!ENTITY itemSessions.label              "Authenticated Sessions">
-<!ENTITY itemSessions.accesskey          "S">
+<!ENTITY itemHistory.label "Історія відвідувань">
+<!ENTITY itemHistory.accesskey "І">
+<!ENTITY itemUrlBar.label "Журнал панелі адрес">
+<!ENTITY itemUrlBar.accesskey "Ж">
+<!ENTITY itemDownloads.label "Список звантажень">
+<!ENTITY itemDownloads.accesskey "С">
+<!ENTITY itemFormSearchHistory.label "Збережені форми та історія пошуку">
+<!ENTITY itemFormSearchHistory.accesskey "Ф">
+<!ENTITY itemCache.label "Кеш">
+<!ENTITY itemCache.accesskey "К">
+<!ENTITY itemCookies.label "Куки">
+<!ENTITY itemCookies.accesskey "у">
+<!ENTITY itemOfflineApps.label "Позамережні дані сайтів">
+<!ENTITY itemOfflineApps.accesskey "а">
+<!ENTITY itemPasswords.label "Збережені паролі">
+<!ENTITY itemPasswords.accesskey "б">
+<!ENTITY itemSessions.label "Сеанси автентифікації">
+<!ENTITY itemSessions.accesskey "С">
 
-<!ENTITY sanitizeButton.label            "Clear Private Data Now">
+<!ENTITY sanitizeButton.label "Очистити особисті дані зараз">
