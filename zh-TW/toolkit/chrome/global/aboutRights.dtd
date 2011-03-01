@@ -41,7 +41,7 @@
 <!ENTITY rights.intro-point4b-unbranded "網站資訊服務">
 <!ENTITY rights.intro-point4c-unbranded "章節。">
 
-<!ENTITY rights2.webservices-header "以網頁為基礎的 &brandFullName; 資訊服務 被找到">
+<!ENTITY rights2.webservices-header "以網頁為基礎的 &brandFullName; 資訊服務">
 
 <!-- Note that this paragraph references a couple of entities from
      preferences/security.dtd, so that we can refer to text the user sees in
@@ -76,7 +76,7 @@
 <!ENTITY rights.webservices-term1-unbranded "適用於本產品的網站資訊服務聲明條款應該要寫在這裡。">
 
 <!-- points 1-7 text for branded builds -->
-<!ENTITY rights2.webservices-term1 "&vendorShortName;與其貢獻者、授權者，及伙伴致力於提供最新最準確的服務。然而，我們無法保證此資訊足夠完善且沒有錯誤。舉例，Safe Browsing 服務可能無法偵測出某些有風險的網站，或是錯誤的把安全的網站辨識為有問題的網站；位置偵測服務當中由我們的服務提供者所回傳的位置資訊僅為預估值，我們與我們的服務提供者皆不保證回傳的位置資訊的準確度。">
+<!ENTITY rights2.webservices-term1 "&vendorShortName; 與其貢獻者、授權者，及伙伴致力於提供最新最準確的服務。然而，我們無法保證此資訊足夠完善且沒有錯誤。舉例，Safe Browsing 服務可能無法偵測出某些有風險的網站，或是錯誤的把安全的網站辨識為有問題的網站；位置偵測服務當中由我們的服務提供者所回傳的位置資訊僅為預估值，我們與我們的服務提供者皆不保證回傳的位置資訊的準確度。">
 <!ENTITY rights.webservices-term2 "&vendorShortName; 保留嗣後自行修改服務內容或是停止相關服務的權利。">
 <!ENTITY rights2.webservices-term3 "&vendorShortName; 授權您，我們也歡迎您使用 &brandShortName; 當中所一併提供的這些服務。&vendorShortName; 及其授權人保留服務當中所有其他的權利。以上這些規定的目的並不是要用來限制任何 &brandShortName; 及其相對應的原始碼版本透過開放原始碼所授之權。">
 <!ENTITY rights.webservices-term4 "這些「資訊服務」的內容依其現狀提供。&vendorShortName; 與其貢獻者、授權人、與散布者，並不提供任何明示或隱含的保證，不擔保的範圍包含且不限於「資訊服務」的可用性及其他任何特定目的的使用。這些「資訊服務」的品質與效能沒有擔保，您須自行擔負使用此「資訊服務」可能產生的任何風險。若您所處的司法管轄區域不容許聲明條款預先排除或限制隱含性的保證，那麼本聲明裡關於隱含性保證的預先排除規定便不適用於您。">
