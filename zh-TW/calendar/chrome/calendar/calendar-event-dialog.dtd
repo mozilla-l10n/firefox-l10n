@@ -378,6 +378,10 @@
 <!-- Read-Only dialog -->
 <!ENTITY read.only.general.label         "一般">
 <!ENTITY read.only.title.label           "標題:">
+<!ENTITY read.only.event.start.label     "開始日:">
+<!ENTITY read.only.task.start.label      "開始日:">
+<!ENTITY read.only.event.end.label       "結束日期:">
+<!ENTITY read.only.task.due.label        "到期日:">
 <!ENTITY read.only.repeat.label          "重複:">
 <!ENTITY read.only.location.label        "位置:">
 <!ENTITY read.only.category.label        "分類:">
