@@ -6,3 +6,11 @@
 <!ENTITY tabNavigationForms.accesskey "B">
 <!ENTITY tabNavigationTextboxes.label "Remarque : les champs de saisie et les listes de sélection font toujours partie de la tabulation.">
 <!ENTITY tabNavigationDesc.label "Quand les touches Tabulation ou Maj+Tabulation sont activées, naviguer entre les :">
+<!ENTITY accessibilityBrowseWithCaret.label "Navigation au curseur">
+<!ENTITY browseWithCaretDesc.label "Permet de naviguer et sélectionner des éléments de pages avec les touches directionnelles en déplaçant un curseur visible.">
+<!ENTITY browseWithCaretUse.label "Utiliser la navigation au curseur">
+<!ENTITY browseWithCaretUse.accesskey "U">
+<!ENTITY browseWithCaretShortCut.label "Utilisez le raccourci F7 pour activer ou désactiver la navigation au curseur">
+<!ENTITY browseWithCaretShortCut.accesskey "F">
+<!ENTITY browseWithCaretWarn.label "Avertir avant d'activer la navigation au curseur">
+<!ENTITY browseWithCaretWarn.accesskey "v">
