@@ -63,7 +63,7 @@
 <!ENTITY Diskspace "Espacio en disco">
 <!ENTITY offlineCompact.label "Compactar carpetas si se ahorra más de">
 <!ENTITY offlineCompact.accesskey "o">
-<!ENTITY kb.label "KB">
+<!ENTITY mb.label "MB">
 <!ENTITY useCacheBefore.label "Usar hasta">
 <!ENTITY useCacheBefore.accesskey "U">
 <!ENTITY useCacheAfter.label "MB de espacio para la caché">
