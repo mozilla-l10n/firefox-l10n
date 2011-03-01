@@ -33,7 +33,7 @@
 <!ENTITY  finished.checkEnabled.desc      "&brandShortName; vil periodisk søge efter opdateringer til disse tilføjelser og informere dig, når sådanne opdateringer findes.">
 
 <!ENTITY  adminDisabled.wizard.title      "Ude af stand til at søge efter opdateringer">
-<!ENTITY  adminDisabled.warning.label     "Det er ikke muligt at lede efter opdateringer til inkompatible tilføjelser fordi softwareinstallation er blevet deaktiveret. Kontakt venligst din system-administrator for assistance.">
+<!ENTITY  adminDisabled.warning.label     "Det er ikke muligt at lede efter opdateringer til inkompatible tilføjelser fordi softwareinstallation er blevet deaktiveret. Kontakt venligst din systemadministrator for assistance.">
 
 <!ENTITY  versioninfo.wizard.title        "Undersøger kompatibilitet på tilføjelser">
 <!ENTITY  versioninfo.top.label           "Undersøger dine tilføjelser for kompatibilitet med denne version af &brandShortName;.">

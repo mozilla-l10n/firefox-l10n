@@ -47,7 +47,7 @@
 
 <!-- intro paragraph for branded builds -->
 <!ENTITY rights.webservices-a "&brandFullName; tilbyder valgfri opdateringstjenester, som f.eks. automatisk opdatering af installerede tilføjelser. Hvis du ikke ønsker at benytte en sådan tjeneste, eller hvis du ikke kan acceptere de nedenfor nævnte betingelser, kan du slå opdateringstjenesterne fra ved at klikke på menupunktet Funktioner, Indstillinger. Vælg ">
-<!ENTITY rights.webservices-b "sektionen Advanceret,">
+<!ENTITY rights.webservices-b "sektionen Avanceret,">
 <!ENTITY rights.webservices-c " klik på fanen ">
 <!ENTITY rights.webservices-d "Opdateringer">
 <!ENTITY rights.webservices-e " og fravælg &quot;Undersøg automatisk om der er opdateringer til&quot;.">

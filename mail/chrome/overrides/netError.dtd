@@ -123,7 +123,7 @@
 <!ENTITY nssBadCert.title "Sikker forbindelse mislykkedes">
 <!ENTITY nssBadCert.longDesc2 "<ul>
 <li>Dette kan være et problem med serverens konfiguration eller det kan betyde at nogen forsøger at give sig ud for at være serveren.</li>
-<li>Hvis du har kunne tilgå serveren tidligere kan dette problem være midlertidligt og du anbefales at prøve igen senere.</li>
+<li>Hvis du har kunnet tilgå serveren tidligere kan dette problem være midlertidligt og du anbefales at prøve igen senere.</li>
 </ul>
 ">
 
