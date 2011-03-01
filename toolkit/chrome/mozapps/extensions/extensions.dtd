@@ -7,7 +7,7 @@
 <!ENTITY listEmpty.findUpdates.label          "Sjå etter oppdateringar">
 <!ENTITY listEmpty.search.label               "Klarte ikkje å finne passande utvidingar">
 <!ENTITY listEmpty.button.label               "Les meir om utvidingar">
-<!ENTITY installAddonFromFile.label           "Installer utvidingar frå fil …">
+<!ENTITY installAddonFromFile.label           "Installer utviding frå fil …">
 <!ENTITY installAddonFromFile.accesskey       "I">
 <!ENTITY toolsMenu.tooltip                    "Verktøy for alle utvidingane">
 
@@ -39,8 +39,17 @@
 <!ENTITY updates.checkForUpdates.accesskey    "S">
 <!ENTITY updates.viewUpdates.label            "Vis nyleg oppdaterte">
 <!ENTITY updates.viewUpdates.accesskey        "V">
+<!-- LOCALIZATION NOTE (updates.updateAddonsAutomatically.label): This menu item
+     is a checkbox that toggles the default global behavior for add-on update
+     checking. -->
 <!ENTITY updates.updateAddonsAutomatically.label     "Oppdater utvidingane automatisk">
 <!ENTITY updates.updateAddonsAutomatically.accesskey "O">
+<!-- LOCALIZATION NOTE (updates.resetUpdatesToAutomatic.label, updates.resetUpdatesToManual.label):
+     Specific addons can have custom update checking behaviors ("Manually",
+     "Automatically", "Use default global behavior"). These menu items reset the
+     update checking behavior for all add-ons to the default global behavior
+     (which itself is either "Automatically" or "Manually", controlled by the
+     updates.updateAddonsAutomatically.label menu item). -->
 <!ENTITY updates.resetUpdatesToAutomatic.label       "Tilbakestill alle utvidingane til å oppdatere automatisk">
 <!ENTITY updates.resetUpdatesToAutomatic.accesskey   "T">
 <!ENTITY updates.resetUpdatesToManual.label          "Tilbakestill alle utvidingane til å oppdatere manuelt">

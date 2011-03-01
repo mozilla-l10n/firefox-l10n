@@ -109,7 +109,6 @@
 <!ENTITY pageactions.reset           "Fjern innstillingane for nettstaden">
 <!ENTITY pageactions.findInPage      "Finn på sida">
 <!ENTITY pageactions.search.addNew   "Legg til søkjemotor">
+<!ENTITY pageactions.charEncoding    "Teiknkoding">
 
-<!ENTITY selectHelper.emptytext      "Filterliste">
-
-<!ENTITY appMenu.siteOptions         "Sideinnstillingar">
+<!ENTITY appMenu.siteOptions         "Nettstadsval">

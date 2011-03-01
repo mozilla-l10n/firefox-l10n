@@ -21,8 +21,8 @@
 <!ENTITY helpTroubleshootingInfo.label      "Feilsøkingsinfo">
 <!ENTITY helpTroubleshootingInfo.accesskey  "e">
 
-<!ENTITY helpFeedbackPage.label      "Send tilbakemelding …">
-<!ENTITY helpFeedbackPage.accesskey  "S">
+<!ENTITY helpFeedbackPage.label      "Gje tilbakemelding …">
+<!ENTITY helpFeedbackPage.accesskey  "G">
 
 <!ENTITY preferencesCmdMac.label        "Innstillingar …">
 <!ENTITY preferencesCmdMac.commandkey   ",">
