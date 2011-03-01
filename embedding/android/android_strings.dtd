@@ -5,11 +5,13 @@
 <!ENTITY  error_loading_file "&brandShortName; 시작하는 중에 오류가 생겼습니다.">
 
 <!ENTITY  crash_reporter_title "&brandShortName; 문제점 보고">
-<!ENTITY  crash_message "&brandShortName;가 예기치 목하게 종료하였습니다. 다시 시작하면 현재 탭 목록이 &brandShortName; 첫화면에 보일 것입니다.">
+<!ENTITY  crash_message "&brandShortName;가 예기치 않게 종료하였습니다. 다시 시작하면 현재 탭 목록이 &brandShortName; 첫화면에 보일 것입니다.">
 <!ENTITY  crash_help_message "문제 해결에 도움주기">
 <!ENTITY  crash_send_report_message "문제 사항을 Mozilla에 보내기">
 <!ENTITY  crash_include_url "주소 포함">
 <!ENTITY  crash_close_label "닫기">
 <!ENTITY  crash_restart_label "&brandShortName; 다시 시작">
-<!ENTITY  sending_crash_report "문제 사랑 보내기\u2026">
+<!ENTITY  sending_crash_report "문제 보내기\u2026">
 <!ENTITY  exit_label "종료">
+<!ENTITY  incompatable_device "&brandShortName;가 현재 기기를 지원하지 않아 이용 시 문제가 생길 수도 있습니다.">
+<!ENTITY  continue_label "계속">
