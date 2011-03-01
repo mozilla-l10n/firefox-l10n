@@ -37,15 +37,15 @@
 
  ***** END LICENSE BLOCK ***** -->
 
-<!ENTITY pref.character.encoding.title   "Character Encoding">
-<!ENTITY messageDisplay.caption          "Message Display">
-<!ENTITY viewDefaultCharset.label        "Default Character Encoding:">
-<!ENTITY viewDefaultCharset.accesskey    "D">
+<!ENTITY pref.character.encoding.title "Кодування">
+<!ENTITY messageDisplay.caption "Лист">
+<!ENTITY viewDefaultCharset.label "Типове кодування:">
+<!ENTITY viewDefaultCharset.accesskey "Т">
 
-<!ENTITY composingMessages.caption       "Composing Messages">
-<!ENTITY useMIME.label                   "For messages that contain 8-bit characters, use 'quoted printable' MIME encoding. Leave unchecked to send the messages as is.">
-<!ENTITY useMIME.accesskey               "F">
-<!ENTITY sendDefaultCharset.label        "Default Character Encoding:">
-<!ENTITY sendDefaultCharset.accesskey    "C">
-<!ENTITY replyInDefaultCharset2.label    "When possible, use this default character encoding in replies. (When unchecked, only new messages use this default.)">
-<!ENTITY replyInDefaultCharset2.accesskey "W">
+<!ENTITY composingMessages.caption "Складання листів">
+<!ENTITY useMIME.label "Для листів, що містять 8-бітні символи, використайте 'quoted printable' MIME кодування. Залиште вимкнутим, щоб відправляти листи такими, якими вони є.">
+<!ENTITY useMIME.accesskey "Д">
+<!ENTITY sendDefaultCharset.label "Типове кодування:">
+<!ENTITY sendDefaultCharset.accesskey "К">
+<!ENTITY replyInDefaultCharset2.label "Якщо можливо, використовуйте це типове кодування в відповідях. (Якщо вимкнуто, лише нові листи використовуватимуть це типово.)">
+<!ENTITY replyInDefaultCharset2.accesskey "Я">

@@ -38,44 +38,44 @@
 
 <!-- Link Toolbar Title -->
 <!ENTITY linkToolbar.label "Website Navigation Bar">
-<!ENTITY linkToolbar.accesskey "a">
+<!ENTITY linkToolbar.accesskey "С">
 
 <!-- Link Toolbar visibility options -->
-<!ENTITY linkToolbarAlways.label "Show Always">
-<!ENTITY linkToolbarAlways.accesskey "S">
-<!ENTITY linkToolbarAsNeeded.label "Show Only As Needed">
-<!ENTITY linkToolbarAsNeeded.accesskey "O">
-<!ENTITY linkToolbarNever.label "Hide Always">
-<!ENTITY linkToolbarNever.accesskey "H">
+<!ENTITY linkToolbarAlways.label "Завжди показувати">
+<!ENTITY linkToolbarAlways.accesskey "П">
+<!ENTITY linkToolbarAsNeeded.label "Показувати лише за вимогою">
+<!ENTITY linkToolbarAsNeeded.accesskey "Л">
+<!ENTITY linkToolbarNever.label "Завжди ховати">
+<!ENTITY linkToolbarNever.accesskey "Х">
 
 <!-- Toolbar buttons, menus, and menuitems -->
-<!ENTITY topButton.label "Top">
-<!ENTITY upButton.label "Up">
-<!ENTITY firstButton.label "First">
-<!ENTITY prevButton.label "Previous">
-<!ENTITY nextButton.label "Next">
-<!ENTITY lastButton.label "Last">
+<!ENTITY topButton.label "Верхівка">
+<!ENTITY upButton.label "Уверх">
+<!ENTITY firstButton.label "Початок">
+<!ENTITY prevButton.label "Назад">
+<!ENTITY nextButton.label "Далі">
+<!ENTITY lastButton.label "Останній">
 
-<!ENTITY documentButton.label "Document">
+<!ENTITY documentButton.label "Документ">
 
-<!ENTITY tocButton.label "Table of Contents">
-<!ENTITY chapterButton.label "Chapters">
-<!ENTITY sectionButton.label "Sections">
-<!ENTITY subSectionButton.label "Subsections">
-<!ENTITY appendixButton.label "Appendices">
-<!ENTITY glossaryButton.label "Glossary">
-<!ENTITY indexButton.label "Index">
+<!ENTITY tocButton.label "Зміст">
+<!ENTITY chapterButton.label "Розділи">
+<!ENTITY sectionButton.label "Параграф">
+<!ENTITY subSectionButton.label "Підпараграф">
+<!ENTITY appendixButton.label "Додаток">
+<!ENTITY glossaryButton.label "Глосарій">
+<!ENTITY indexButton.label "Покажчик">
 
-<!ENTITY moreButton.label "More">
+<!ENTITY moreButton.label "Детальніше">
 
-<!ENTITY helpButton.label "Help">
-<!ENTITY searchButton.label "Search">
+<!ENTITY helpButton.label "Довідка">
+<!ENTITY searchButton.label "Пошук">
 
-<!ENTITY authorButton.label "Author(s)">
-<!ENTITY copyrightButton.label "Copyright">
+<!ENTITY authorButton.label "Автор(и)">
+<!ENTITY copyrightButton.label "Авторське право">
 
-<!ENTITY bookmarkButton.label "Bookmarks">
+<!ENTITY bookmarkButton.label "Закладки">
 
-<!ENTITY alternateButton.label "Other Versions">
+<!ENTITY alternateButton.label "Інші версії">
 
-<!ENTITY feedButton.label "Subscribe">
+<!ENTITY feedButton.label "Підписка">

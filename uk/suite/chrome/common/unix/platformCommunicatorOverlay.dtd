@@ -1,29 +1,29 @@
 <!-- unix -->
 <!-- LOCALIZATION NOTE : FILE Do not translate all the Cmd.key and accesskey --> 
 
-<!ENTITY closeCmd.label                 "Close">  
-<!ENTITY closeCmd.key                   "W">  
-<!ENTITY closeCmd.accesskey             "c">
+<!ENTITY closeCmd.label "Закрити">
+<!ENTITY closeCmd.key "W">
+<!ENTITY closeCmd.accesskey "З">
 
-<!ENTITY quitApplicationCmd.label       "Quit"> 
-<!ENTITY quitApplicationCmd.key         "Q"> 
-<!ENTITY quitApplicationCmd.accesskey   "q">
+<!ENTITY quitApplicationCmd.label "Вийти">
+<!ENTITY quitApplicationCmd.key "Q">
+<!ENTITY quitApplicationCmd.accesskey "В">
 
-<!ENTITY redoCmd.label                  "Redo">  
-<!ENTITY redoCmd.key                    "Y">  
-<!ENTITY redoCmd.accesskey              "r">
+<!ENTITY redoCmd.label "Повторити">
+<!ENTITY redoCmd.key "Y">
+<!ENTITY redoCmd.accesskey "П">
 
-<!ENTITY findTypeTextCmd.key            "/">
-<!ENTITY findTypeLinksCmd.key           "'">
+<!ENTITY findTypeTextCmd.key "/">
+<!ENTITY findTypeLinksCmd.key "'">
 
-<!ENTITY accel.emacs_conflict           "accel,shift">
+<!ENTITY accel.emacs_conflict "accel,shift">
 
 <!-- Help viewer -->
-<!ENTITY openHelpCmd.label              "Help Contents">
-<!ENTITY openHelpCmd.accesskey          "H">
-<!ENTITY openHelpCmd.key                "VK_F1">
+<!ENTITY openHelpCmd.label "Зміст">
+<!ENTITY openHelpCmd.accesskey "З">
+<!ENTITY openHelpCmd.key "VK_F1">
 
 <!-- Key labels, for mousewheel prefs -->
-<!ENTITY ctrlKey.label                  "Ctrl">
-<!ENTITY altKey.label                   "Alt">
-<!ENTITY shiftKey.label                 "Shift">
+<!ENTITY ctrlKey.label "Ctrl">
+<!ENTITY altKey.label "Alt">
+<!ENTITY shiftKey.label "Shift">

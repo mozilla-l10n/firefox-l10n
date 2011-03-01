@@ -38,112 +38,112 @@
 -->
 
 <!-- Note to localizers, don't localize the strings 'width' or 'height' -->
-<!ENTITY  pageInfoWindow.dimensions  "width: 100ch; height: 38em;">
+<!ENTITY pageInfoWindow.dimensions "width: 100ch; height: 38em;">
 
-<!ENTITY  copy.key              "C">
-<!ENTITY  copy.label            "Copy">
-<!ENTITY  copy.accesskey        "C">
-<!ENTITY  selectall.key         "A">
-<!ENTITY  selectall.label       "Select All">
-<!ENTITY  selectall.accesskey   "A">
-<!ENTITY  openHelpMac.key       "?">
-<!ENTITY  closeWindow.key       "w">
+<!ENTITY copy.key "C">
+<!ENTITY copy.label "Копіювати">
+<!ENTITY copy.accesskey "о">
+<!ENTITY selectall.key "A">
+<!ENTITY selectall.label "Виділити все">
+<!ENTITY selectall.accesskey "и">
+<!ENTITY openHelpMac.key "?">
+<!ENTITY closeWindow.key "w">
 
-<!ENTITY  generalTab            "General">
-<!ENTITY  generalTab.accesskey  "G">
-<!ENTITY  generalURL            "Address:">
-<!ENTITY  generalType           "Type:">
-<!ENTITY  generalMode           "Render Mode:">
-<!ENTITY  generalSize           "Size:">
-<!ENTITY  generalReferrer       "Referring URL:">
-<!ENTITY  generalSource         "Cache Source:">
-<!ENTITY  generalModified       "Modified:">
-<!ENTITY  generalEncoding       "Encoding:">
-<!ENTITY  generalMetaName       "Name">
-<!ENTITY  generalMetaContent    "Content">
-<!ENTITY  generalSecurityDetails           "Details">
-<!ENTITY  generalSecurityDetails.accesskey "D">
+<!ENTITY generalTab "Загальне">
+<!ENTITY generalTab.accesskey "З">
+<!ENTITY generalURL "Адреса:">
+<!ENTITY generalType "Тип:">
+<!ENTITY generalMode "Режим відображення:">
+<!ENTITY generalSize "Розмір:">
+<!ENTITY generalReferrer "URL, що посилається:">
+<!ENTITY generalSource "Джерело кешування:">
+<!ENTITY generalModified "Остання зміна:">
+<!ENTITY generalEncoding "Кодування:">
+<!ENTITY generalMetaName "Назва">
+<!ENTITY generalMetaContent "Зміст">
+<!ENTITY generalSecurityDetails "Докладніше">
+<!ENTITY generalSecurityDetails.accesskey "е">
 
-<!ENTITY  formsTab              "Forms">
-<!ENTITY  formsTab.accesskey    "F">
-<!ENTITY  formAction            "Form Action">
-<!ENTITY  formMethod            "Method">
-<!ENTITY  formName              "Name">
-<!ENTITY  formEncoding          "Encoding:">
-<!ENTITY  formTarget            "Target:">
-<!ENTITY  formFields            "Fields:">
-<!ENTITY  formLabel             "Label">
-<!ENTITY  formFName             "Field Name">
-<!ENTITY  formType              "Type">
-<!ENTITY  formCValue            "Current Value">
+<!ENTITY formsTab "Форми">
+<!ENTITY formsTab.accesskey "Ф">
+<!ENTITY formAction "Дія форми">
+<!ENTITY formMethod "Спосіб">
+<!ENTITY formName "Назва">
+<!ENTITY formEncoding "Кодування:">
+<!ENTITY formTarget "Ціль:">
+<!ENTITY formFields "Поля:">
+<!ENTITY formLabel "Мітка">
+<!ENTITY formFName "Назва поля">
+<!ENTITY formType "Тип">
+<!ENTITY formCValue "Поточне значення">
 
-<!ENTITY  linksTab              "Links">
-<!ENTITY  linksTab.accesskey    "L">
-<!ENTITY  linkNo                "No.">
-<!ENTITY  linkName              "Name">
-<!ENTITY  linkAddress           "Address">
-<!ENTITY  linkType              "Type">
-<!ENTITY  linkTarget            "Target">
-<!ENTITY  linkAccessKey         "Access Key">
+<!ENTITY linksTab "Посилання">
+<!ENTITY linksTab.accesskey "П">
+<!ENTITY linkNo "Номер">
+<!ENTITY linkName "Назва">
+<!ENTITY linkAddress "Адреса">
+<!ENTITY linkType "Тип">
+<!ENTITY linkTarget "Ціль">
+<!ENTITY linkAccessKey "Ключ доступу">
 
-<!ENTITY  mediaTab              "Media">
-<!ENTITY  mediaTab.accesskey    "M">
-<!ENTITY  mediaURL              "Address:">
-<!ENTITY  mediaAlt              "Alternate Text:">
-<!ENTITY  mediaAltHeader        "Alternate Text">
-<!ENTITY  mediaAddress          "Address">
-<!ENTITY  mediaType             "Type">
-<!ENTITY  mediaSize             "Size">
-<!ENTITY  mediaCount            "Count">
-<!ENTITY  mediaDimensions       "Specified Dimensions:">
-<!ENTITY  mediaPhysDimensions   "Actual Dimensions:">
-<!ENTITY  mediaTitle            "Title:">
-<!ENTITY  mediaLongdesc         "Long Description:">
-<!ENTITY  mediaBlockImage.accesskey "B">
-<!ENTITY  mediaSaveAs           "Save As…">
-<!ENTITY  mediaSaveAs.accesskey "A">
-<!ENTITY  mediaSaveAs2.accesskey "e">
-<!ENTITY  mediaPreview          "Media Preview:">
+<!ENTITY mediaTab "Мультимедіа">
+<!ENTITY mediaTab.accesskey "М">
+<!ENTITY mediaURL "Адреса:">
+<!ENTITY mediaAlt "Альтернативний текст:">
+<!ENTITY mediaAltHeader "Замінний текст">
+<!ENTITY mediaAddress "Адреса">
+<!ENTITY mediaType "Тип">
+<!ENTITY mediaSize "Розмір">
+<!ENTITY mediaCount "Кількість">
+<!ENTITY mediaDimensions "Вказаний розмір:">
+<!ENTITY mediaPhysDimensions "Справжній розмір:">
+<!ENTITY mediaTitle "Заголовок:">
+<!ENTITY mediaLongdesc "Розширений опис:">
+<!ENTITY mediaBlockImage.accesskey "Р">
+<!ENTITY mediaSaveAs "Зберегти як…">
+<!ENTITY mediaSaveAs.accesskey "З">
+<!ENTITY mediaSaveAs2.accesskey "з">
+<!ENTITY mediaPreview "Попередній перегляд мультимедіа:">
 
-<!ENTITY  feedTab               "Feeds">
-<!ENTITY  feedTab.accesskey     "F">
-<!ENTITY  feedSubscribe         "Subscribe">
-<!ENTITY  feedSubscribe.accesskey "u">
+<!ENTITY feedTab "Стрічки">
+<!ENTITY feedTab.accesskey "С">
+<!ENTITY feedSubscribe "Підписатись">
+<!ENTITY feedSubscribe.accesskey "П">
 
-<!ENTITY  permTab               "Permissions">
-<!ENTITY  permTab.accesskey     "P">
-<!ENTITY  permUseDefault        "Use Default">
-<!ENTITY  permAskAlways         "Always ask">
-<!ENTITY  permAllow             "Allow">
-<!ENTITY  permAllowSession      "Allow for Session">
-<!ENTITY  permBlock             "Block">
-<!ENTITY  permissionsFor        "Permissions for:">
-<!ENTITY  permImage             "Load Images">
-<!ENTITY  permPopup             "Open Popup Windows">
-<!ENTITY  permCookie            "Set Cookies">
-<!ENTITY  permInstall           "Install Extensions or Themes">
-<!ENTITY  permGeo               "Share Location">
+<!ENTITY permTab "Дозволи">
+<!ENTITY permTab.accesskey "Д">
+<!ENTITY permUseDefault "Типово">
+<!ENTITY permAskAlways "Завжди питати">
+<!ENTITY permAllow "Дозволити">
+<!ENTITY permAllowSession "Дозволити на сеанс">
+<!ENTITY permBlock "Заблокувати">
+<!ENTITY permissionsFor "Дозволи для:">
+<!ENTITY permImage "Завантажувати зображення">
+<!ENTITY permPopup "Відкрити виринаючі вікна">
+<!ENTITY permCookie "Встановлювати куки">
+<!ENTITY permInstall "Встановлювати розширення та теми">
+<!ENTITY permGeo "Дізнаватись місцезнаходження">
 
-<!ENTITY  securityTab           "Security">
-<!ENTITY  securityTab.accesskey "S">
-<!ENTITY  securityHeader        "Security information for this page">
-<!ENTITY  securityView.certView "View Certificate">
-<!ENTITY  securityView.accesskey "V">
-<!ENTITY  securityView.unknown   "Unknown">
+<!ENTITY securityTab "Безпека">
+<!ENTITY securityTab.accesskey "з">
+<!ENTITY securityHeader "Інформація щодо безпеки цієї сторінки">
+<!ENTITY securityView.certView "Переглянути сертифікат">
+<!ENTITY securityView.accesskey "ф">
+<!ENTITY securityView.unknown "Невідомий">
 
 
-<!ENTITY  securityView.identity.header   "Website Identity">
-<!ENTITY  securityView.identity.owner    "Owner:">
-<!ENTITY  securityView.identity.domain   "Website:">
-<!ENTITY  securityView.identity.verifier "Verified by:">
+<!ENTITY securityView.identity.header "Website Identity">
+<!ENTITY securityView.identity.owner "Власник: ">
+<!ENTITY securityView.identity.domain "Website:">
+<!ENTITY securityView.identity.verifier "Засвідчено: ">
 
-<!ENTITY  securityView.privacy.header                   "Privacy &amp; History">
-<!ENTITY  securityView.privacy.history                  "Have I visited this website before today?">
-<!ENTITY  securityView.privacy.cookies                  "Is this website storing information (cookies) on my computer?">
-<!ENTITY  securityView.privacy.viewCookies              "View Cookies">
-<!ENTITY  securityView.privacy.viewCookies.accessKey    "k">
-<!ENTITY  securityView.privacy.passwords                "Have I saved any passwords for this website?">
-<!ENTITY  securityView.privacy.viewPasswords            "View Saved Passwords">
-<!ENTITY  securityView.privacy.viewPasswords.accessKey  "w">
+<!ENTITY securityView.privacy.header "Конфіденційність та історія">
+<!ENTITY securityView.privacy.history "Відвідував я цей сайт раніше ніж сьогодні?">
+<!ENTITY securityView.privacy.cookies "Is this website storing information (cookies) on my computer?">
+<!ENTITY securityView.privacy.viewCookies "Переглянути куки">
+<!ENTITY securityView.privacy.viewCookies.accessKey "к">
+<!ENTITY securityView.privacy.passwords "Have I saved any passwords for this website?">
+<!ENTITY securityView.privacy.viewPasswords "Переглянути збережені паролі">
+<!ENTITY securityView.privacy.viewPasswords.accessKey "п">
 
-<!ENTITY  securityView.technical.header                 "Technical Details">
+<!ENTITY securityView.technical.header "Технічні подробиці">

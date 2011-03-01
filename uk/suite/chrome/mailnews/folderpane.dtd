@@ -35,10 +35,10 @@
  the terms of any one of the MPL, the GPL or the LGPL.
 
  ***** END LICENSE BLOCK ***** -->
-<!ENTITY nameColumn.label   "Name"> 
-<!ENTITY unreadColumn.label "Unread"> 
-<!ENTITY totalColumn.label "Total"> 
-<!ENTITY folderSizeColumn.label "Size"> 
+<!ENTITY nameColumn.label "Назва">
+<!ENTITY unreadColumn.label "Не прочитано">
+<!ENTITY totalColumn.label "Всього">
+<!ENTITY folderSizeColumn.label "Розмір">
 <!ENTITY folderLocationToolbarItem.title "Folder Location">
 <!ENTITY mailViewsToolbarItem.title "Mail Views">
 <!ENTITY searchToolbarItem.title "Search">

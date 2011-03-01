@@ -1,26 +1,26 @@
-<!ENTITY newMessageCmd.label             "Message">
-<!ENTITY newMessageCmd.accesskey         "M">
-<!ENTITY newMessageCmd.key               "M">
+<!ENTITY newMessageCmd.label "Лист">
+<!ENTITY newMessageCmd.accesskey "Л">
+<!ENTITY newMessageCmd.key "M">
 
-<!ENTITY newContactCmd.label             "Contact…">
-<!ENTITY newContactCmd.accesskey         "C">
+<!ENTITY newContactCmd.label "Контакт…">
+<!ENTITY newContactCmd.accesskey "К">
 
-<!ENTITY sendPage.label                  "Send Page…">
-<!ENTITY sendPage.accesskey              "S">
+<!ENTITY sendPage.label "Відіслати сторінку…">
+<!ENTITY sendPage.accesskey "В">
 
-<!ENTITY contextSendThisPage.label       "Send This Page…">
-<!ENTITY contextSendThisPage.accesskey   "d">
-<!ENTITY contextSendThisLink.label       "Send This Link…">
-<!ENTITY contextSendThisLink.accesskey   "k">
-<!ENTITY contextSendImage.label          "Send Image…">
-<!ENTITY contextSendImage.accesskey      "n">
-<!ENTITY contextSendVideo.label          "Send Video…">
-<!ENTITY contextSendVideo.accesskey      "n">
-<!ENTITY contextSendAudio.label          "Send Audio…">
-<!ENTITY contextSendAudio.accesskey      "n">
-<!ENTITY contextSendFrame.label          "Send Frame…">
-<!ENTITY contextSendFrame.accesskey      "d">
+<!ENTITY contextSendThisPage.label "Відіслати цю сторінку…">
+<!ENTITY contextSendThisPage.accesskey "с">
+<!ENTITY contextSendThisLink.label "Відіслати це посилання…">
+<!ENTITY contextSendThisLink.accesskey "ц">
+<!ENTITY contextSendImage.label "Відіслати зображення…">
+<!ENTITY contextSendImage.accesskey "з">
+<!ENTITY contextSendVideo.label "Відіслати відео…">
+<!ENTITY contextSendVideo.accesskey "і">
+<!ENTITY contextSendAudio.label "Відіслати аудіо…">
+<!ENTITY contextSendAudio.accesskey "а">
+<!ENTITY contextSendFrame.label "Відіслати рамку…">
+<!ENTITY contextSendFrame.accesskey "р">
 
-<!ENTITY sendLinkCmd.label               "Send Link…"> 
-<!ENTITY sendLinkCmd.accesskey           "d">
+<!ENTITY sendLinkCmd.label "Відіслати посилання…">
+<!ENTITY sendLinkCmd.accesskey "я">
 

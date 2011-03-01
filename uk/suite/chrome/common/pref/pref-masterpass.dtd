@@ -36,23 +36,23 @@
    -
    - ***** END LICENSE BLOCK ***** -->
 
-<!ENTITY  pref.masterpass.title                  "Master Passwords">
-<!ENTITY  managepassword.caption                 "Master Password Timeout">
-<!ENTITY  managepassword.text                    "&brandShortName; will ask for your master password:">
-<!ENTITY  managepassword.askfirsttime            "The first time it is needed">
-<!ENTITY  managepassword.askfirsttime.accesskey  "T">
-<!ENTITY  managepassword.askeverytime            "Every time it is needed">
-<!ENTITY  managepassword.askeverytime.accesskey  "E">
-<!ENTITY  managepassword.asktimeout              "If it has not been used for ">
-<!ENTITY  managepassword.asktimeout.accesskey    "n">
-<!ENTITY  managepassword.timeout.unit            "minutes or longer">
+<!ENTITY pref.masterpass.title "Головний пароль">
+<!ENTITY managepassword.caption "Вичерпання часу головного пароля">
+<!ENTITY managepassword.text "&brandShortName; буде просити вашого головного пароля:">
+<!ENTITY managepassword.askfirsttime "Перший раз, коли це потрібно">
+<!ENTITY managepassword.askfirsttime.accesskey "П">
+<!ENTITY managepassword.askeverytime "Кожного разу, коли це потрібно">
+<!ENTITY managepassword.askeverytime.accesskey "К">
+<!ENTITY managepassword.asktimeout "Якщо це не було використане протягом ">
+<!ENTITY managepassword.asktimeout.accesskey "Я">
+<!ENTITY managepassword.timeout.unit "Хвилини або більше">
 
-<!ENTITY  changepassword.caption                 "Change Master Password">
-<!ENTITY  changepassword.text                    "Your master password protects sensitive information such as web passwords and certificates.">
-<!ENTITY  changepassword.button                  "Change Password…">
-<!ENTITY  changepassword.accesskey               "C">
+<!ENTITY changepassword.caption "Зміни головного пароля">
+<!ENTITY changepassword.text "Ваш головний пароль охороняє таку чутливу інформацію, як паролі та сертифікати.">
+<!ENTITY changepassword.button "Змінити пароль…">
+<!ENTITY changepassword.accesskey "З">
 
-<!ENTITY  resetpassword.caption                  "Reset Master Password">
-<!ENTITY  resetpassword.text                     "If you reset your master password, all of your stored web and e-mail passwords, form data, personal certificates, and private keys will be lost.">
-<!ENTITY  resetpassword.button                   "Reset Password">
-<!ENTITY  resetpassword.accesskey                "R">
+<!ENTITY resetpassword.caption "Скидання головного пароля">
+<!ENTITY resetpassword.text "Якщо ви скинете ваш головний пароль, всі ваші збережені паролі, форма даних, особисті сертифікати та ключі будуть втрачені.">
+<!ENTITY resetpassword.button "Скинути пароль">
+<!ENTITY resetpassword.accesskey "С">

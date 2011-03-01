@@ -1,19 +1,19 @@
-<!ENTITY  pref.history.title                "History">
+<!ENTITY pref.history.title "Журнал">
 
-<!ENTITY  pref.history.caption              "Browsing History">
-<!ENTITY  historyPages.label                "History is a list of previously visited pages.">
-<!ENTITY  enableHistory.label               "Remember visited pages">
-<!ENTITY  enableHistory.accesskey           "R">
-<!ENTITY  clearHistory.label                "Clear History">
-<!ENTITY  clearHistory.accesskey            "s">
+<!ENTITY pref.history.caption "Історія навігації">
+<!ENTITY historyPages.label "Журнал — список сторінок, які ви відвідали раніше.">
+<!ENTITY enableHistory.label "Remember visited pages">
+<!ENTITY enableHistory.accesskey "R">
+<!ENTITY clearHistory.label "Очистити журнал">
+<!ENTITY clearHistory.accesskey "О">
 
-<!ENTITY  locationBarHistory.caption        "Location Bar History">
-<!ENTITY  clearLocationBar.label            "Clear the list of websites stored in the location bar menu.">
-<!ENTITY  clearLocationBarButton.label      "Clear Location Bar">
-<!ENTITY  clearLocationBarButton.accesskey  "L">
-<!ENTITY  formfillHistory.caption           "Form and Search History">
-<!ENTITY  enableFormfill.label              "Enable form and search history">
-<!ENTITY  enableFormfill.accesskey          "n">
-<!ENTITY  formfillExpire.label              "Remember form and search history for up to">
-<!ENTITY  formfillExpire.accesskey          "f">
-<!ENTITY  formfillDays.label                "days">
+<!ENTITY locationBarHistory.caption "Журнал панелі адрес">
+<!ENTITY clearLocationBar.label "Clear the list of websites stored in the location bar menu.">
+<!ENTITY clearLocationBarButton.label "Очистити панель адрес">
+<!ENTITY clearLocationBarButton.accesskey "О">
+<!ENTITY formfillHistory.caption "Історія форм та пошуку">
+<!ENTITY enableFormfill.label "Включити історію форм та пошуку">
+<!ENTITY enableFormfill.accesskey "n">
+<!ENTITY formfillExpire.label "Пам'ятати історію форм та пошуку до">
+<!ENTITY formfillExpire.accesskey "f">
+<!ENTITY formfillDays.label "днів">

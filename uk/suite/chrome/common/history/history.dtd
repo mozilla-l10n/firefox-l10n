@@ -1,53 +1,53 @@
 <!-- history.xul, history-panel.xul, placesOverlay.xul -->
 
-<!ENTITY historyWindowTitle.label       "History">
-<!ENTITY menuBar.tooltip                "Menu Bar">
-<!ENTITY searchBar.tooltip              "Search Bar">
+<!ENTITY historyWindowTitle.label "Журнал">
+<!ENTITY menuBar.tooltip "Меню">
+<!ENTITY searchBar.tooltip "Пошук">
 
-<!ENTITY search.placeholder             "Search History">
-<!ENTITY search.key                     "f">
-<!ENTITY view.label                     "View">
+<!ENTITY search.placeholder "Search History">
+<!ENTITY search.key "f">
+<!ENTITY view.label "Перегляд">
 
-<!ENTITY view.columns.label             "Show Columns">
-<!ENTITY view.columns.accesskey         "C">
-<!ENTITY view.sortBy.label              "Sort by">
-<!ENTITY view.sortBy.accesskey          "S">
-<!ENTITY view.groupBy.label             "Group by">
-<!ENTITY view.groupBy.accesskey         "G">
+<!ENTITY view.columns.label "Показати стовпці">
+<!ENTITY view.columns.accesskey "П">
+<!ENTITY view.sortBy.label "Впорядкувати за">
+<!ENTITY view.sortBy.accesskey "В">
+<!ENTITY view.groupBy.label "Згрупувати за">
+<!ENTITY view.groupBy.accesskey "З">
 
-<!ENTITY view.unsorted.label            "Unsorted">
-<!ENTITY view.unsorted.accesskey        "U">
-<!ENTITY view.sortAscending.label       "A > Z Sort Order">
-<!ENTITY view.sortAscending.accesskey   "A">
-<!ENTITY view.sortDescending.label      "Z > A Sort Order">
-<!ENTITY view.sortDescending.accesskey  "Z">
+<!ENTITY view.unsorted.label "Невпорядковане">
+<!ENTITY view.unsorted.accesskey "Н">
+<!ENTITY view.sortAscending.label "Порядок впорядкування від А до Я">
+<!ENTITY view.sortAscending.accesskey "П">
+<!ENTITY view.sortDescending.label "Порядок впорядкування від Я до А">
+<!ENTITY view.sortDescending.accesskey "П">
 
-<!ENTITY view.groupNone.label           "None">
-<!ENTITY view.groupNone.accesskey       "N">
-<!ENTITY view.groupDay.label            "Day">
-<!ENTITY view.groupDay.accesskey        "D">
-<!ENTITY view.groupSite.label           "Website">
-<!ENTITY view.groupSite.accesskey       "W">
-<!ENTITY view.groupDayAndSite.label     "Day and Website">
-<!ENTITY view.groupDayAndSite.accesskey "a">
+<!ENTITY view.groupNone.label "Немає">
+<!ENTITY view.groupNone.accesskey "Н">
+<!ENTITY view.groupDay.label "День">
+<!ENTITY view.groupDay.accesskey "Д">
+<!ENTITY view.groupSite.label "Website">
+<!ENTITY view.groupSite.accesskey "W">
+<!ENTITY view.groupDayAndSite.label "Day and Website">
+<!ENTITY view.groupDayAndSite.accesskey "Д">
 
-<!ENTITY cmd.open.label                 "Open">
-<!ENTITY cmd.open.accesskey             "O">
-<!ENTITY cmd.open_window.label          "Open Link in New Window">
-<!ENTITY cmd.open_window.accesskey      "W">
-<!ENTITY cmd.open_tab.label             "Open Link in New Tab">
-<!ENTITY cmd.open_tab.accesskey         "T">
+<!ENTITY cmd.open.label "Відкрити">
+<!ENTITY cmd.open.accesskey "В">
+<!ENTITY cmd.open_window.label "Відкрити посилання в новому вікні">
+<!ENTITY cmd.open_window.accesskey "В">
+<!ENTITY cmd.open_tab.label "Відкрити посилання в новій вкладці">
+<!ENTITY cmd.open_tab.accesskey "В">
 
-<!ENTITY bookmarkLinkCmd.label          "Bookmark This Link…">
-<!ENTITY bookmarkLinkCmd.accesskey      "B">
-<!ENTITY bookmarkLinksCmd.label         "Bookmark These Links">
-<!ENTITY bookmarkLinksCmd.accesskey     "B">
+<!ENTITY bookmarkLinkCmd.label "Закласти це посилання…">
+<!ENTITY bookmarkLinkCmd.accesskey "З">
+<!ENTITY bookmarkLinksCmd.label "Закласти ці посилання">
+<!ENTITY bookmarkLinksCmd.accesskey "З">
 
-<!ENTITY col.title.label                "Title">
-<!ENTITY col.title.accesskey            "T">
-<!ENTITY col.url.label                  "Location">
-<!ENTITY col.url.accesskey              "L">
-<!ENTITY col.lastvisit.label            "Last Visited">
-<!ENTITY col.lastvisit.accesskey        "V">
-<!ENTITY col.visitcount.label           "Visit Count">
-<!ENTITY col.visitcount.accesskey       "C">
+<!ENTITY col.title.label "Заголовок">
+<!ENTITY col.title.accesskey "З">
+<!ENTITY col.url.label "Адреса">
+<!ENTITY col.url.accesskey "А">
+<!ENTITY col.lastvisit.label "Відвідування">
+<!ENTITY col.lastvisit.accesskey "В">
+<!ENTITY col.visitcount.label "Кількість відвідувань">
+<!ENTITY col.visitcount.accesskey "К">

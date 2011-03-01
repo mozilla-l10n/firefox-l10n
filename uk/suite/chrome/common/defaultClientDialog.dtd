@@ -1,10 +1,10 @@
-<!ENTITY defaultClient.title  "Default Client">
-<!ENTITY defaultClient.intro  "Use &brandShortName; as the default client for:">
+<!ENTITY defaultClient.title "Типова поштова програма">
+<!ENTITY defaultClient.intro "Використовувати &brandShortName; як стандартний клієнт для:">
 
-<!ENTITY browser.label "Browser">
-<!ENTITY email.label "E-Mail">
-<!ENTITY newsgroups.label "Newsgroups">
-<!ENTITY feeds.label "Feeds">
+<!ENTITY browser.label "Навігації">
+<!ENTITY email.label "Електронної пошти">
+<!ENTITY newsgroups.label "Конференції">
+<!ENTITY feeds.label "Новин">
 
-<!ENTITY checkOnStartup.label "Always perform this check when starting &brandShortName;">
-<!ENTITY checkOnStartup.accesskey "A">
+<!ENTITY checkOnStartup.label "Завжди проводити таку перевірку при запуску &brandShortName;">
+<!ENTITY checkOnStartup.accesskey "З">

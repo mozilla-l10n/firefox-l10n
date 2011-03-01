@@ -2,36 +2,36 @@
 <!-- LOCALIZATION NOTE : FILE Do not translate "accel" or "shift",
                          You may want to translate the Cmd.key and accesskey --> 
 
-<!ENTITY closeCmd.label                 "Close">  
-<!ENTITY closeCmd.key                   "W">  
-<!ENTITY closeCmd.accesskey             "c">
+<!ENTITY closeCmd.label "Закрити">
+<!ENTITY closeCmd.key "W">
+<!ENTITY closeCmd.accesskey "З">
 
-<!ENTITY quitApplicationCmd.label       "Exit"> 
-<!ENTITY quitApplicationCmd.key         "Q"> 
-<!ENTITY quitApplicationCmd.accesskey   "x">
+<!ENTITY quitApplicationCmd.label "Вихід">
+<!ENTITY quitApplicationCmd.key "Q">
+<!ENTITY quitApplicationCmd.accesskey "В">
 
-<!ENTITY redoCmd.label                  "Redo">  
-<!ENTITY redoCmd.key                    "Y">  
-<!ENTITY redoCmd.accesskey              "r">
+<!ENTITY redoCmd.label "Повторити">
+<!ENTITY redoCmd.key "Y">
+<!ENTITY redoCmd.accesskey "П">
 
-<!ENTITY findTypeTextCmd.key            "/">
-<!ENTITY findTypeLinksCmd.key           "'">
+<!ENTITY findTypeTextCmd.key "/">
+<!ENTITY findTypeLinksCmd.key "'">
 
-<!ENTITY accel.emacs_conflict           "accel">
+<!ENTITY accel.emacs_conflict "accel">
 
 <!-- Help viewer -->
-<!ENTITY openHelpCmd.label              "Help Contents">
-<!ENTITY openHelpCmd.accesskey          "H">
-<!ENTITY openHelpCmd.key                "VK_F1">
-<!ENTITY helpForIEUsers.label           "For Internet Explorer Users">
-<!ENTITY helpForIEUsers.accesskey       "I">
+<!ENTITY openHelpCmd.label "Зміст">
+<!ENTITY openHelpCmd.accesskey "З">
+<!ENTITY openHelpCmd.key "VK_F1">
+<!ENTITY helpForIEUsers.label "Для користувачів Internet Explorer">
+<!ENTITY helpForIEUsers.accesskey "Д">
 <!-- LOCALIZATION NOTE some localizations need to change the
                        "Help" menu label on Windows -->
-<!ENTITY helpMenu.label                 "Help"> 
-<!ENTITY helpMenu.accesskey             "H">
+<!ENTITY helpMenu.label "Help">
+<!ENTITY helpMenu.accesskey "H">
 
 <!-- Key labels, for mousewheel prefs -->
-<!ENTITY ctrlKey.label                  "Ctrl">
-<!ENTITY altKey.label                   "Alt">
-<!ENTITY shiftKey.label                 "Shift">
+<!ENTITY ctrlKey.label "Ctrl">
+<!ENTITY altKey.label "Alt">
+<!ENTITY shiftKey.label "Shift">
 

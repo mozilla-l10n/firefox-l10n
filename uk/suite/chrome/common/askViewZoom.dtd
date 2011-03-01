@@ -35,5 +35,5 @@
    -
    - ***** END LICENSE BLOCK ***** -->
 
-<!ENTITY askViewZoom.title "Zoom">
-<!ENTITY selectZoom.label "Select zoom (&#37;):">
+<!ENTITY askViewZoom.title "Масштаб">
+<!ENTITY selectZoom.label "Вибрати масштаб (&#037;):">

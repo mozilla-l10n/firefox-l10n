@@ -35,33 +35,20 @@
    -
    - ***** END LICENSE BLOCK ***** -->
 
-<!ENTITY startpage.title "Welcome to &brandShortName; Mail &amp; Newsgroups">
-<!--# LOCALIZATION NOTE (headline.label): the URL for <a id="vendorURL"> is fetched from brand.properties -->
-<!ENTITY headline.label
-'Welcome to <a id="vendorURL" href="">&brandShortName;</a> Mail &amp; Newsgroups!'>
-<!ENTITY description.label
-"&brandShortName; Mail &amp; Newsgroups is a powerful open-source mail and news
-client, supporting advanced junk mail detection and other useful features.">
-<!ENTITY features.title "Features">
-<!ENTITY feat_multiacc.label "Support for multiple accounts">
-<!ENTITY feat_junk.label "Junk Mail detection">
-<!ENTITY feat_feeds.label "Feed Reader">
-<!ENTITY feat_filters.label "Message Filters">
-<!ENTITY feat_htmlmsg.label "HTML message support">
-<!ENTITY feat_abook.label "Address Book">
+<!ENTITY startpage.title "Ласкаво просимо до &brandShortName; пошти &amp; груп новин!">
+<!ENTITY headline.label 'Ласкаво просимо до <a id="vendorURL" href="">&brandShortName;</a> пошти &amp; груп новин!'>
+<!ENTITY description.label "&brandShortName; пошта &amp; групи новин — потужний клієнт пошти і новин з відкритим кодом, який підртимує додаткові можливості виявлення спаму та інших корисних властивостей.">
+<!ENTITY features.title "Властивості">
+<!ENTITY feat_multiacc.label "Підтримка для багатьох облікових записів">
+<!ENTITY feat_junk.label "Виявлення спаму">
+<!ENTITY feat_feeds.label "Читач вістів">
+<!ENTITY feat_filters.label "Фільтри листів">
+<!ENTITY feat_htmlmsg.label "Підримка листів HTML">
+<!ENTITY feat_abook.label "Адресна книга">
 <!ENTITY feat_labels.label "Customizable Tags and Mail Views">
-<!ENTITY feat_integration.label
-"Tight integration with the &brandShortName; application suite">
-<!ENTITY dict.title "Dictionaries">
-<!ENTITY dict_intro.label "Dictionaries are used to check the spelling of your messages.">
-<!--# LOCALIZATION NOTE (dict_info.label): the URL for <a id="dictURL"> is fetched from brand.properties -->
-<!ENTITY dict_info.label
-'Many additional languages can be installed from the
-<a id="dictURL" href="">dictionaries</a> section on
-<a href="https://addons.mozilla.org/seamonkey/">Mozilla Add-ons</a>.'>
-<!ENTITY info.title "More Information">
-<!--# LOCALIZATION NOTE (info_bugs.label): the URL for <a id="releaseNotesURL"> is fetched from brand.properties -->
-<!ENTITY info_bugs.label
-'<a href="http://www.mozilla.org/mailnews/">We</a> welcome bug reports and feature
-requests, but please read the <a id="releaseNotesURL" href="">release notes</a> and query
-<a href="https://bugzilla.mozilla.org/query.cgi">Bugzilla</a> first.'>
+<!ENTITY feat_integration.label "Тісна інтеграція з комплектом програм &brandShortName;">
+<!ENTITY dict.title "Словники">
+<!ENTITY dict_intro.label "Словники використовуються для перевірки орфографії в листах.">
+<!ENTITY dict_info.label 'Багато додаткових мов можна встановити з <a id="dictURL" href="">dictionaries</a> сайта <a href="https://addons.mozilla.org/seamonkey/">додатків Mozilla</a>.'>
+<!ENTITY info.title "Детальна інформація">
+<!ENTITY info_bugs.label '<a href="http://www.mozilla.org/mailnews/">We</a> Вітають звістки про вади і побажання, але, будь ласка, спочатку прочитайте <a id="releaseNotesURL" href="">примітки до випуску</a> і запити до <a href="https://bugzilla.mozilla.org/query.cgi">Bugzilla</a>.'>

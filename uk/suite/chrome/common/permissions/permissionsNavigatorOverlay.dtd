@@ -1,42 +1,42 @@
 <!-- the following is for the task menu overlay -->
 
-<!ENTITY cookieMessageTitle.label "Cookie Permissions Changed">
-<!ENTITY cookieDisplayCookiesCmd.label "Manage Stored Cookies">
-<!ENTITY cookieDisplayCookiesCmd.accesskey "M">
+<!ENTITY cookieMessageTitle.label "Права доступу на куки змінено">
+<!ENTITY cookieDisplayCookiesCmd.label "Змінити збережені куки">
+<!ENTITY cookieDisplayCookiesCmd.accesskey "В">
 <!ENTITY cookieAllowCookiesCmd.label "Allow Cookies from This Website">
-<!ENTITY cookieAllowCookiesCmd.accesskey "A">
+<!ENTITY cookieAllowCookiesCmd.accesskey "Д">
 <!ENTITY cookieAllowCookiesMsg.label "Cookies from this website will always be allowed.">
 <!ENTITY cookieAllowSessionCookiesCmd.label "Allow Session Cookies from This Website">
-<!ENTITY cookieAllowSessionCookiesCmd.accesskey "S">
+<!ENTITY cookieAllowSessionCookiesCmd.accesskey "Д">
 <!ENTITY cookieAllowSessionCookiesMsg.label "This website will be able to set cookies for the current session only.">
-<!ENTITY cookieCookiesDefaultCmd.label "Use Default Cookie Permissions">
-<!ENTITY cookieCookiesDefaultCmd.accesskey "U">
+<!ENTITY cookieCookiesDefaultCmd.label "Використовувати типові права доступу на куки">
+<!ENTITY cookieCookiesDefaultCmd.accesskey "В">
 <!ENTITY cookieCookiesDefaultMsg.label "Cookies from this website will be accepted or rejected based on default settings.">
 <!ENTITY cookieBlockCookiesCmd.label "Block Cookies from This Website">
-<!ENTITY cookieBlockCookiesCmd.accesskey "B">
+<!ENTITY cookieBlockCookiesCmd.accesskey "З">
 <!ENTITY cookieBlockCookiesMsg.label "Cookies from this website will always be rejected.">
 
-<!ENTITY cookieImageMessageTitle.label "Image Permissions Changed">
-<!ENTITY cookieDisplayImagesCmd.label "Manage Image Permissions">
-<!ENTITY cookieDisplayImagesCmd.accesskey "M">
+<!ENTITY cookieImageMessageTitle.label "Права доступу на зображення змінено">
+<!ENTITY cookieDisplayImagesCmd.label "Змінити права доступу на зображення">
+<!ENTITY cookieDisplayImagesCmd.accesskey "З">
 <!ENTITY cookieAllowImagesCmd.label "Allow Images from This Website">
-<!ENTITY cookieAllowImagesCmd.accesskey "A">
+<!ENTITY cookieAllowImagesCmd.accesskey "Д">
 <!ENTITY cookieAllowImagesMsg.label "Images from this website will always be downloaded.">
-<!ENTITY cookieImagesDefaultCmd.label "Use Default Image Permissions">
-<!ENTITY cookieImagesDefaultCmd.accesskey "U">
+<!ENTITY cookieImagesDefaultCmd.label "Використовувати типові права доступу на зображення">
+<!ENTITY cookieImagesDefaultCmd.accesskey "В">
 <!ENTITY cookieImagesDefaultMsg.label "Images from this website will be downloaded based on default settings.">
 <!ENTITY cookieBlockImagesCmd.label "Block Images from This Website">
-<!ENTITY cookieBlockImagesCmd.accesskey "B">
+<!ENTITY cookieBlockImagesCmd.accesskey "З">
 <!ENTITY cookieBlockImagesMsg.label "Images from this website will never be downloaded.">
 
 <!ENTITY cookieAllowPopupsCmd.label "Allow Popups from This Website">
-<!ENTITY cookieAllowPopupsCmd.accesskey "A">
-<!ENTITY cookieManagePopups.label "Manage Popups">
-<!ENTITY cookieManagePopups.accesskey "M">
+<!ENTITY cookieAllowPopupsCmd.accesskey "Д">
+<!ENTITY cookieManagePopups.label "Налаштувати виринання">
+<!ENTITY cookieManagePopups.accesskey "Н">
 
-<!ENTITY cookieCookieManager.label "Cookie Manager">
-<!ENTITY cookieCookieManager.accesskey "c">
-<!ENTITY cookieImageManager.label "Image Manager">
-<!ENTITY cookieImageManager.accesskey "i">
-<!ENTITY cookiePopupManager.label "Popup Manager">
-<!ENTITY cookiePopupManager.accesskey "o">
+<!ENTITY cookieCookieManager.label "Керування куками">
+<!ENTITY cookieCookieManager.accesskey "К">
+<!ENTITY cookieImageManager.label "Керування зображеннями">
+<!ENTITY cookieImageManager.accesskey "К">
+<!ENTITY cookiePopupManager.label "Керування виринанням">
+<!ENTITY cookiePopupManager.accesskey "К">

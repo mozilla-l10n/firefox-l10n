@@ -34,39 +34,39 @@
    -
    - ***** END LICENSE BLOCK ***** -->
 
-<!ENTITY pref.junk.title "Junk &amp; Suspect Mail">
-<!ENTITY junkSettings.caption "Global Junk Mail Settings">
-<!ENTITY junkMail.intro "Goto Account Settings to configure account specific junk mail settings.">
+<!ENTITY pref.junk.title "Спам">
+<!ENTITY junkSettings.caption "Загальні налаштування спаму">
+<!ENTITY junkMail.intro "Перейти до налаштувань облікового запису, щоб налаштувати вподобання користувача щодо спаму.">
 
 <!-- Junk Mail Controls -->
-<!ENTITY manualMark.label               "When I mark messages as junk:">
-<!ENTITY manualMark.accesskey           "W">
-<!ENTITY manualMarkModeMove.label       "Move them to the account's &quot;Junk&quot; folder">
-<!ENTITY manualMarkModeMove.accesskey   "M">
-<!ENTITY manualMarkModeDelete.label     "Delete them">
-<!ENTITY manualMarkModeDelete.accesskey "D">
+<!ENTITY manualMark.label "Коли я позначаю лист як спам:">
+<!ENTITY manualMark.accesskey "К">
+<!ENTITY manualMarkModeMove.label "Перемістити їх у теку «Спам»">
+<!ENTITY manualMarkModeMove.accesskey "П">
+<!ENTITY manualMarkModeDelete.label "Знищити їх">
+<!ENTITY manualMarkModeDelete.accesskey "З">
 
-<!ENTITY markAsRead.intro               "Mark messages as read:">
-<!ENTITY autoMarkAsRead.label           "When &brandShortName; determines that they are junk">
-<!ENTITY autoMarkAsRead.accesskey       "u">
-<!ENTITY manualMarkAsRead.label         "When I manually mark them as junk">
-<!ENTITY manualMarkAsRead.accesskey     "k">
+<!ENTITY markAsRead.intro "Позначити листи як прочитані:">
+<!ENTITY autoMarkAsRead.label "Коли &brandShortName; визначає їх як спам">
+<!ENTITY autoMarkAsRead.accesskey "К">
+<!ENTITY manualMarkAsRead.label "Коли я вручну позначаю їх як спам">
+<!ENTITY manualMarkAsRead.accesskey "К">
 
-<!ENTITY enableJunkLogging.label        "Enable junk filter logging">
-<!ENTITY enableJunkLogging.accesskey    "E">
-<!ENTITY openJunkLog.label              "Show log">
-<!ENTITY openJunkLog.accesskey          "S">
-<!ENTITY resetTrainingData.label        "Reset training data">
-<!ENTITY resetTrainingData.accesskey    "R">
+<!ENTITY enableJunkLogging.label "Ввімкнути журнал спам-фільтру">
+<!ENTITY enableJunkLogging.accesskey "В">
+<!ENTITY openJunkLog.label "Показати журнал">
+<!ENTITY openJunkLog.accesskey "П">
+<!ENTITY resetTrainingData.label "Перезапустити навчальні дані">
+<!ENTITY resetTrainingData.accesskey "t">
 
-<!ENTITY pref.suspectMail.caption       "Suspect Mail">
+<!ENTITY pref.suspectMail.caption "Suspect Mail">
 
 <!-- Phishing Detector -->
-<!ENTITY pref.phishing.caption            "E-mail Scams">
-<!ENTITY enablePhishingDetector.label     "Tell me if the message I'm reading is a suspected email scam">
-<!ENTITY enablePhishingDetector.accesskey "T">
+<!ENTITY pref.phishing.caption "Анти-фішинг">
+<!ENTITY enablePhishingDetector.label "Повідомляти мене, коли щодо листа, який я читаю, є підозри у шахрайстві">
+<!ENTITY enablePhishingDetector.accesskey "П">
 
 <!-- Anti Virus -->
-<!ENTITY pref.antivirus.caption           "Anti-Virus">
-<!ENTITY antiVirus.label                  "Allow anti-virus clients to scan incoming messages more easily">
-<!ENTITY antiVirus.accesskey              "A">
+<!ENTITY pref.antivirus.caption "Робота з антивірусом">
+<!ENTITY antiVirus.label "Allow anti-virus clients to scan incoming messages more easily">
+<!ENTITY antiVirus.accesskey "A">

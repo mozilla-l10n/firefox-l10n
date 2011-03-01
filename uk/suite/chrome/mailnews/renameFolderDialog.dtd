@@ -1,5 +1,5 @@
-<!ENTITY renameFolderDialog.title          "Rename Folder">
-<!ENTITY rename.label                      "Enter the new name for your folder:">
-<!ENTITY rename.accesskey                  "E">
-<!ENTITY accept.label                      "Rename">
-<!ENTITY accept.accesskey                  "R">
+<!ENTITY renameFolderDialog.title "Перейменування теки">
+<!ENTITY rename.label "Введіть нову назву для теки:">
+<!ENTITY rename.accesskey "В">
+<!ENTITY accept.label "Перейменувати">
+<!ENTITY accept.accesskey "П">

@@ -35,19 +35,19 @@
 
  ***** END LICENSE BLOCK ***** -->
 
-<!ENTITY menuBar.tooltip       "Menu Bar">
-<!ENTITY modeToolbar.tooltip   "Mode Toolbar">
-<!ENTITY entryToolbar.tooltip  "Javascript Entry Toolbar">
-<!ENTITY toolbarsCmd.label     "Show/Hide">
-<!ENTITY toolbarsCmd.accesskey "w">
-<!ENTITY toolbarMode.label     "Mode">
-<!ENTITY toolbarMode.accesskey "M">
-<!ENTITY toolbarEval.label     "JavaScript Entry">
-<!ENTITY toolbarEval.accesskey "J">
+<!ENTITY menuBar.tooltip "Меню">
+<!ENTITY modeToolbar.tooltip "Режим панелі інструментів">
+<!ENTITY entryToolbar.tooltip "Панель інструментів вводу Javascript">
+<!ENTITY toolbarsCmd.label "Показати/Сховати">
+<!ENTITY toolbarsCmd.accesskey "П">
+<!ENTITY toolbarMode.label "Режим">
+<!ENTITY toolbarMode.accesskey "Р">
+<!ENTITY toolbarEval.label "Ввід JavaScript">
+<!ENTITY toolbarEval.accesskey "В">
 
-<!ENTITY all.accesskey         "A">
-<!ENTITY errors.accesskey      "r">
-<!ENTITY warnings.accesskey    "n">
-<!ENTITY messages.accesskey    "M">
-<!ENTITY clear.accesskey       "l">
-<!ENTITY evaluate.accesskey    "u">
+<!ENTITY all.accesskey "A">
+<!ENTITY errors.accesskey "r">
+<!ENTITY warnings.accesskey "n">
+<!ENTITY messages.accesskey "M">
+<!ENTITY clear.accesskey "l">
+<!ENTITY evaluate.accesskey "u">

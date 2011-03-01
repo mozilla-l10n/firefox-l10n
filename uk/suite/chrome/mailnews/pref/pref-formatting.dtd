@@ -36,38 +36,38 @@
 
  ***** END LICENSE BLOCK ***** -->
 
-<!ENTITY pref.formatting.title        "Send Format">
-<!ENTITY sendMaildesc.label           "When sending formatted (HTML) messages and one or more recipients are not listed as being able to receive HTML:">
-<!ENTITY askMe.label                  "Ask me what to do (Mail prompts you to choose a format)">
-<!ENTITY askMe.accesskey              "k">
-<!ENTITY convertPlain.label           "Convert the message to plain text (some formatting may be lost)">
-<!ENTITY convertPlain.accesskey       "C">
-<!ENTITY sendHTML.label               "Send the message as formatted text (HTML) anyway (some mail programs may not be able to display it)">
-<!ENTITY sendHTML.accesskey           "S">
-<!ENTITY sendBoth.label               "Send the message in both plain text and HTML (larger message size)">
-<!ENTITY sendBoth.accesskey           "n">
-<!ENTITY override.label               "You can override these settings for individual messages by using the Options menu while composing a message.">
+<!ENTITY pref.formatting.title "Формат відправки">
+<!ENTITY sendMaildesc.label "Коли відправляється лист, відформатований під HTML, і одному або більше одержувачам, які відмовились від HTML:">
+<!ENTITY askMe.label "Запитати мене, що робити (поштарь підкаже вам, який вибрати формат)">
+<!ENTITY askMe.accesskey "З">
+<!ENTITY convertPlain.label "Перетворити текст листа у звичайний (деяке форматування може бути втраченим)">
+<!ENTITY convertPlain.accesskey "П">
+<!ENTITY sendHTML.label "Однаково, відправити лист як відформатований текст (HTML) (деякі поштові програми можуть не показати листа)">
+<!ENTITY sendHTML.accesskey "О">
+<!ENTITY sendBoth.label "Відправити лист і в форматі звичайного тексту, і в HTML (лист займатиме більший розмір)">
+<!ENTITY sendBoth.accesskey "В">
+<!ENTITY override.label "Ви можете обійти ці налаштування для окремих листів, використовуючи меню «Варіанти», протягом складання листа.">
 
 <!-- Html and Plain Text Domains  -->
-<!ENTITY domain.title                 "HTML and Plain Text Domains">
-<!ENTITY domaindesc.label             "When you send a message to an address with one of the domain names listed below, Mail automatically sends the message in the preferred format (formatted text or plain text).">
-<!ENTITY HTMLdomaintitle.label        "HTML Domains">
-<!ENTITY HTMLdomaintitle.accesskey    "M">
-<!ENTITY PlainTexttitle.label         "Plain Text Domains">
-<!ENTITY PlainTexttitle.accesskey     "P">
-<!ENTITY AddButton.label              "Add…">
-<!ENTITY AddHtmlDomain.accesskey      "A">
-<!ENTITY AddPlainText.accesskey       "d">
-<!ENTITY DeleteButton.label           "Delete">
-<!ENTITY DeleteHtmlDomain.accesskey   "e">
-<!ENTITY DeletePlainText.accesskey    "t">
+<!ENTITY domain.title "Домени звичайного тексту та HTML">
+<!ENTITY domaindesc.label "Коли ви відправляєте лист до адреси доменів, що перечислено нижче, поштарь автоматично відправить лист у форматі, який вибрано (форматований або звичайний текст).">
+<!ENTITY HTMLdomaintitle.label "Домени, що підтримують HTML">
+<!ENTITY HTMLdomaintitle.accesskey "Д">
+<!ENTITY PlainTexttitle.label "Домени, що підтримують тільки текст">
+<!ENTITY PlainTexttitle.accesskey "Д">
+<!ENTITY AddButton.label "Додати…">
+<!ENTITY AddHtmlDomain.accesskey "A">
+<!ENTITY AddPlainText.accesskey "d">
+<!ENTITY DeleteButton.label "Вилучити">
+<!ENTITY DeleteHtmlDomain.accesskey "e">
+<!ENTITY DeletePlainText.accesskey "t">
 
 <!-- Add Domain Name -->
-<!ENTITY add.htmltitle                "Add HTML Domain Name">
-<!ENTITY add.htmldomain               "HTML Domain Name:">
-<!ENTITY add.plaintexttitle           "Add Plain Text Domain Name">
-<!ENTITY add.plaintextdomain          "Plain Text Domain Name:">
+<!ENTITY add.htmltitle "Додати HTML назви домена">
+<!ENTITY add.htmldomain "Назва домена:">
+<!ENTITY add.plaintexttitle "Додати простий текст назви домена">
+<!ENTITY add.plaintextdomain "Назва домена:">
 
-<!ENTITY domainnameError.title        "Domain Name Error">
+<!ENTITY domainnameError.title "Помилка в назві домена">
 <!-- LOCALIZATION NOTE: do not translate @string@ -->
-<!ENTITY invalidEntryError.label      "The domain name @string@ is invalid and will be ignored. Valid domain names must include at least one '.' and characters on either side of it.">
+<!ENTITY invalidEntryError.label "Назва домена @string@ — неправильна і буде нехтувавитись. Правильні назви домена повинні мати щонайменше одину '.' і символи по обидві сторони нього.">

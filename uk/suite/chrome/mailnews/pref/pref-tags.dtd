@@ -36,19 +36,19 @@
    -
    - ***** END LICENSE BLOCK ***** -->
 
-<!ENTITY pref.tags.title            "Tags">
-<!ENTITY pref.tags.caption          "Customize Tags">
-<!ENTITY pref.tags.description      "Tags can be used to categorize and prioritize your messages. Modify the appearance and importance of tags using the settings below. Tags near the top are more important than those further down.">
-<!ENTITY tagColumn.label            "Tag">
-<!ENTITY colorColumn.label          "Color">
-<!ENTITY defaultTagName.label       "Untitled Tag">
-<!ENTITY addTagButton.label         "Add">
-<!ENTITY addTagButton.accesskey     "A">
-<!ENTITY deleteTagButton.label      "Delete">
-<!ENTITY deleteTagButton.accesskey  "D">
-<!ENTITY raiseTagButton.label       "Raise Importance">
-<!ENTITY raiseTagButton.accesskey   "R">
-<!ENTITY lowerTagButton.label       "Lower Importance">
-<!ENTITY lowerTagButton.accesskey   "L">
-<!ENTITY restoreButton.label        "Restore Defaults">
-<!ENTITY restoreButton.accesskey    "s">
+<!ENTITY pref.tags.title "Ключові слова">
+<!ENTITY pref.tags.caption "Налагодити вкладки">
+<!ENTITY pref.tags.description "Вкладки можуть використовуватись для впорядкування за категоріями і важливістю ваших листів. Змініть вигляд і важливість вкладок, використовуючи налаштування нижче. Вкладки, що ближче до верхівки — більш важливі, ніж ті, що внизу.">
+<!ENTITY tagColumn.label "Позначка">
+<!ENTITY colorColumn.label "Колір">
+<!ENTITY defaultTagName.label "Вкладки бе назв">
+<!ENTITY addTagButton.label "Додати">
+<!ENTITY addTagButton.accesskey "Д">
+<!ENTITY deleteTagButton.label "Вилучити">
+<!ENTITY deleteTagButton.accesskey "В">
+<!ENTITY raiseTagButton.label "Вища важливість">
+<!ENTITY raiseTagButton.accesskey "В">
+<!ENTITY lowerTagButton.label "Нижча важливість">
+<!ENTITY lowerTagButton.accesskey "Н">
+<!ENTITY restoreButton.label "Відновити типові значення">
+<!ENTITY restoreButton.accesskey "В">

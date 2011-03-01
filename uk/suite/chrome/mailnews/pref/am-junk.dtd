@@ -1,20 +1,20 @@
-<!ENTITY junkSettings.label "Junk Settings">
-<!ENTITY trainingWarning.label "If enabled, you must first train &brandShortName; to identify junk mail by using the Junk toolbar button to mark messages as junk or not. You need to identify both junk and non junk messages.">
-<!ENTITY level.label "Enable adaptive junk mail controls for this account">
-<!ENTITY level.accesskey "E">
+<!ENTITY junkSettings.label "Налаштування спаму">
+<!ENTITY trainingWarning.label "Спочатку вам слід навчити &brandShortName; визначати небажану пошту, використовуючи кнопку „Спам“, щоб позначити листа спамом. Вам потрібно визначати як небажану, так і звичайну пошту.">
+<!ENTITY level.label "Ввімкнути контроль спаму для цього облікового запису">
+<!ENTITY level.accesskey "В">
 
-<!ENTITY move.label "Move new junk messages to:">
-<!ENTITY move.accesskey "M">
-<!ENTITY junkFolderOn.label "&quot;Junk&quot; folder on:">
-<!ENTITY junkFolderOn.accesskey "J">
-<!ENTITY otherFolder.label "Other:">
-<!ENTITY otherFolder.accesskey "O">
-<!ENTITY purge1.label "Automatically delete junk mail older than">
-<!ENTITY purge1.accesskey "u">
-<!ENTITY purge2.label "days">
+<!ENTITY move.label "Переміщати спам в:">
+<!ENTITY move.accesskey "м">
+<!ENTITY junkFolderOn.label "Теку „Спам“ на:">
+<!ENTITY junkFolderOn.accesskey "с">
+<!ENTITY otherFolder.label "Інше:">
+<!ENTITY otherFolder.accesskey "і">
+<!ENTITY purge1.label "Автоматично вилучати спам, давніший за">
+<!ENTITY purge1.accesskey "д">
+<!ENTITY purge2.label "днів">
 
-<!ENTITY whitelist.label "Do not mark mail as junk if the sender is in: ">
-<!ENTITY whitelist.accesskey "D">
+<!ENTITY whitelist.label "Не позначати пошту спамом, якщо відправник перебуває в: ">
+<!ENTITY whitelist.accesskey "і">
 
-<!ENTITY ispHeaders.label "Trust junk mail headers set by: ">
-<!ENTITY ispHeaders.accesskey "T">
+<!ENTITY ispHeaders.label "Вірити полям заголовків листів, встановлених: ">
+<!ENTITY ispHeaders.accesskey "р">

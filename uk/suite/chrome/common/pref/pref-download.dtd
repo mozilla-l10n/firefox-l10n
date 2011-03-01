@@ -1,36 +1,36 @@
-<!ENTITY pref.download.title            "Downloads">
+<!ENTITY pref.download.title "Звантаження">
 
-<!ENTITY downloadBehavior.label         "When starting a download">
-<!ENTITY focusWhenStarting.label        "Flash the download manager if it is already open, otherwise:">
-<!ENTITY focusWhenStarting.accesskey    "F">
-<!ENTITY openDM.label                   "Open the download manager">
-<!ENTITY openDM.accesskey               "m">
-<!ENTITY openProgressDialog.label       "Open a progress dialog">
-<!ENTITY openProgressDialog.accesskey   "O">
-<!ENTITY doNothing.label                "Don't open anything">
-<!ENTITY doNothing.accesskey            "D">
+<!ENTITY downloadBehavior.label "Коли починається звантаження">
+<!ENTITY focusWhenStarting.label "Flash the download manager if it is already open, otherwise:">
+<!ENTITY focusWhenStarting.accesskey "F">
+<!ENTITY openDM.label "Відкрити менеджера звантажень">
+<!ENTITY openDM.accesskey "В">
+<!ENTITY openProgressDialog.label "Відкрити поступ звантажень">
+<!ENTITY openProgressDialog.accesskey "В">
+<!ENTITY doNothing.label "Не відкривати нічого">
+<!ENTITY doNothing.accesskey "Н">
 
-<!ENTITY downloadLocation.label         "When saving a file">
-<!ENTITY saveTo.label                   "Save files to">
-<!ENTITY saveTo.accesskey               "v">
-<!ENTITY chooseDownloadFolder.label     "Choose Folder…">
-<!ENTITY chooseDownloadFolder.accesskey "C">
-<!ENTITY alwaysAsk.label                "Always ask me where to save files">
-<!ENTITY alwaysAsk.accesskey            "A">
+<!ENTITY downloadLocation.label "Коли зберігається файл">
+<!ENTITY saveTo.label "Шлях для збереження файлів">
+<!ENTITY saveTo.accesskey "Ш">
+<!ENTITY chooseDownloadFolder.label "Вибрати теку…">
+<!ENTITY chooseDownloadFolder.accesskey "В">
+<!ENTITY alwaysAsk.label "Завжди запитувати при збереженні файлів">
+<!ENTITY alwaysAsk.accesskey "З">
 
-<!ENTITY downloadHistory.label          "Download history">
-<!ENTITY removeEntries.label            "Remove download entries">
-<!ENTITY removeEntries.accesskey        "R">
-<!ENTITY whenCompleted.label            "When they have completed">
-<!ENTITY whenQuittingApp.label          "When quitting &brandShortName;">
-<!ENTITY neverRemove.label              "Never">
+<!ENTITY downloadHistory.label "Download history">
+<!ENTITY removeEntries.label "Remove download entries">
+<!ENTITY removeEntries.accesskey "R">
+<!ENTITY whenCompleted.label "When they have completed">
+<!ENTITY whenQuittingApp.label "When quitting &brandShortName;">
+<!ENTITY neverRemove.label "Ніколи">
 
-<!ENTITY finishedBehavior.label         "When a download completes">
-<!ENTITY playSound.label                "Play a sound">
-<!ENTITY playSound.accesskey            "P">
-<!ENTITY showAlert.label                "Show an alert">
-<!ENTITY showAlert.accesskey            "S">
-<!ENTITY browse.label                   "Browse…">
-<!ENTITY browse.accesskey               "B">
-<!ENTITY preview.label                  "Preview">
-<!ENTITY preview.accesskey              "e">
+<!ENTITY finishedBehavior.label "Коли звантаження завершується">
+<!ENTITY playSound.label "Подати звуковий сигнал">
+<!ENTITY playSound.accesskey "П">
+<!ENTITY showAlert.label "Показувати попередження">
+<!ENTITY showAlert.accesskey "П">
+<!ENTITY browse.label "Вибрати…">
+<!ENTITY browse.accesskey "В">
+<!ENTITY preview.label "Попередній перегляд">
+<!ENTITY preview.accesskey "П">

@@ -1,16 +1,16 @@
-<!ENTITY tabHeader.label "Tabbed Browsing">
-<!ENTITY tabDisplay.label "Tab Display">
-<!ENTITY autoHide.label "Hide the tab bar when only one tab is open">
-<!ENTITY autoHide.accesskey "d">
-<!ENTITY background.label "Switch to new tabs opened from links">
-<!ENTITY background.accesskey "S">
+<!ENTITY tabHeader.label "Навігація вкладок">
+<!ENTITY tabDisplay.label "Екран вкладок">
+<!ENTITY autoHide.label "Ховати панель вкладок, коли відкрита лише одна вкладка">
+<!ENTITY autoHide.accesskey "Х">
+<!ENTITY background.label "Перемикатись до нових вкладок, які відкриваються з посилань">
+<!ENTITY background.accesskey "П">
 <!ENTITY warnOnClose.label "Warn me when closing a window with multiple tabs">
 <!ENTITY warnOnClose.accesskey "W">
 <!ENTITY relatedAfterCurrent.label "Open related tabs after current tab">
 <!ENTITY relatedAfterCurrent.accesskey "O">
-<!ENTITY loadGroup.label "When opening a bookmark group">
-<!ENTITY loadGroupAppend.label "Add tabs">
-<!ENTITY loadGroupAppend.accesskey "A">
-<!ENTITY loadGroupReplace.label "Replace existing tabs">
-<!ENTITY loadGroupReplace.accesskey "R">
-<!ENTITY openTabs.label "Open tabs instead of windows for">
+<!ENTITY loadGroup.label "Коли відкривається група закладок">
+<!ENTITY loadGroupAppend.label "Додавати вкладки">
+<!ENTITY loadGroupAppend.accesskey "Д">
+<!ENTITY loadGroupReplace.label "Заступити існуючі вкладки">
+<!ENTITY loadGroupReplace.accesskey "З">
+<!ENTITY openTabs.label "Відкривати вкладки замість вікон для">

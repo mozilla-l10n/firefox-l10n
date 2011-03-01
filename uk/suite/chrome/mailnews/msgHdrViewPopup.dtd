@@ -36,16 +36,16 @@
  ***** END LICENSE BLOCK ***** -->
 
 <!-- Message Header View Popup -->
-<!ENTITY AddToAddressBook.label            "Add To Address Book…">
-<!ENTITY AddToAddressBook.accesskey        "B">
-<!ENTITY SendMailTo.label                  "Compose Mail To…">
-<!ENTITY SendMailTo.accesskey              "s">
-<!ENTITY CopyEmailAddress.label            "Copy Email Address">
-<!ENTITY CopyEmailAddress.accesskey        "C">
-<!ENTITY CreateFilterFrom.label            "Create Filter From…">
-<!ENTITY CreateFilterFrom.accesskey        "F">
-<!ENTITY copyLinkCmd.label                 "Copy Link Location">
-<!ENTITY copyLinkCmd.accesskey             "C">
-<!ENTITY CopyMessageId.label               "Copy Message-ID">
-<!ENTITY OpenMessageForMsgId.label         "Open Message For ID">
-<!ENTITY OpenBrowserWithMsgId.label        "Open Browser With Message-ID">
+<!ENTITY AddToAddressBook.label "Додати до адресної книжки…">
+<!ENTITY AddToAddressBook.accesskey "Д">
+<!ENTITY SendMailTo.label "Скласти листа до…">
+<!ENTITY SendMailTo.accesskey "С">
+<!ENTITY CopyEmailAddress.label "Копіювати адресу електронної пошти">
+<!ENTITY CopyEmailAddress.accesskey "К">
+<!ENTITY CreateFilterFrom.label "Створити фільтр з…">
+<!ENTITY CreateFilterFrom.accesskey "С">
+<!ENTITY copyLinkCmd.label "Копіювати посилання">
+<!ENTITY copyLinkCmd.accesskey "К">
+<!ENTITY CopyMessageId.label "Копіювати ID листа">
+<!ENTITY OpenMessageForMsgId.label "Відкрити ID листа">
+<!ENTITY OpenBrowserWithMsgId.label "Відкрити переглядача з ID листа">
