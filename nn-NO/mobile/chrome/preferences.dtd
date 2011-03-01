@@ -19,3 +19,4 @@
 <!ENTITY homepage.none                             "Tom side">
 <!ENTITY homepage.default                          "&brandShortName; Start">
 <!ENTITY homepage.currentpage                      "Bruk aktiv side">
+<!ENTITY showCharset.title                         "Vis teiknkoding">

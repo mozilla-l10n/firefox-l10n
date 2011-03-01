@@ -103,7 +103,7 @@ can reach it easily. -->
 <!ENTITY subscribeToPageMenupopup.label "Abonnér på denne sida">
 <!ENTITY subscribeToPageMenuitem.label "Abonnér på denne sida …">
 <!ENTITY addCurPagesCmd.label "Bokmerk alle fanene …">
-<!ENTITY showAllBookmarks2.label "Show All Bookmarks">
+<!ENTITY showAllBookmarks2.label "Vis alle bokmerke">
 <!ENTITY bookmarkAllCmd.label "Bokmerk alle fanene …">
 <!ENTITY bookmarksToolbarChevron.tooltip "Vis fleire bokmerke">
 

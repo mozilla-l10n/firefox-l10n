@@ -37,7 +37,7 @@
 
 <!ENTITY devmgr.title                           "Einingshandsaming">
 
-<!ENTITY devmgr.devlist.label                   "Sikerheitsmodular og -einingar">
+<!ENTITY devmgr.devlist.label                   "tryggingsmodular og -einingar">
 <!ENTITY devmgr.details.title                   "Detaljar">
 <!ENTITY devmgr.details.title2                  "Verdi">
 <!ENTITY devmgr.status.label                    "Status">

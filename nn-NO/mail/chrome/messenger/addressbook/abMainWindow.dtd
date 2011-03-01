@@ -176,7 +176,7 @@
 <!ENTITY WorkPhone.accesskey                            "A">
 <!ENTITY sortAscending.label                            "I stigande rekkjefølgje">
 <!ENTITY sortAscending.accesskey                        "s">
-<!ENTITY sortDescending.label                           "I minkande rekkefølgje">
+<!ENTITY sortDescending.label                           "I minkande rekkjefølgje">
 <!ENTITY sortDescending.accesskey                       "i">
 <!ENTITY _PhoneticName.label                            "Fonetisk namn">
 <!ENTITY _PhoneticName.accesskey                        "F">

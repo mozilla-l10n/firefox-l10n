@@ -77,7 +77,7 @@
 <!ENTITY Diskspace "Diskplass">
 <!ENTITY offlineCompact.label "Komprimer mapper når det vil spare meir enn">
 <!ENTITY offlineCompact.accesskey "K">
-<!ENTITY kb.label "KB">
+<!ENTITY mb.label "MB">
 
 <!-- LOCALIZATION NOTE:
   The entities useCacheBefore.label and useCacheAfter.label appear on a single
