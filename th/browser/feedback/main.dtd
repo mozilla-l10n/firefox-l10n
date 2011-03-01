@@ -27,5 +27,8 @@
 <!-- Firefox 4 beta version UI -->
 <!ENTITY testpilot.enable.label                        "เปิดใช้งานการศึกษาผู้ใช้">
 <!ENTITY testpilot.feedbackbutton.label                "ข้อเสนอแนะ">
-<!ENTITY testpilot.happy.label        "Firefox ทำให้ฉันมีความสุขเพราะว่า…">
-<!ENTITY testpilot.sad.label          "Firefox ทำให้ฉันเศร้าเพราะว่า…">
+<!ENTITY testpilot.happy.label        "ฉันชอบใช้ Firefox เพราะว่า…">
+<!ENTITY testpilot.sad.label          "ฉันไม่ชอบใช้ Firefox เพราะว่า…">
+<!ENTITY testpilot.broken.label      "รายงานว่าเว็บนี้พัง…">
+<!ENTITY testpilot.idea.label        "ให้คำแนะนำเรา…">
+
