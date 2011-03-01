@@ -425,7 +425,7 @@ can reach it easily. -->
 <!ENTITY appMenuUnsorted.label "통합 북마크">
 <!ENTITY appMenuWebDeveloper.label "개발자 도구">
 <!ENTITY appMenuGettingStarted.label "시작하기">
-<!ENTITY appMenuSafeMode.label "부가 기능 정지 후 다시 시작…">
+<!ENTITY appMenuSafeMode.label "안전모드로 시작…">
 <!ENTITY appMenuSafeMode.accesskey "R">
 
 <!ENTITY savePageCmd.accesskey2 "P">
