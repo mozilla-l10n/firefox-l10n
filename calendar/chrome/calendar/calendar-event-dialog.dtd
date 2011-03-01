@@ -101,7 +101,7 @@
 <!ENTITY  event.menu.item.close.accesskey                 "D">
 <!ENTITY  event.menu.item.save.label                      "Sàbhail">
 <!ENTITY  event.menu.item.save.accesskey                  "S">
-<!ENTITY  event.menu.item.saveandclose.label              "Sàbhail is dùin">
+<!ENTITY  event.menu.item.saveandclose.label              "Sàbhail is dùin e">
 <!ENTITY  event.menu.item.saveandclose.accesskey          "l">
 <!ENTITY  event.menu.item.delete.label                    "Sguab às…">
 <!ENTITY  event.menu.item.delete.accesskey                "S">
@@ -140,7 +140,7 @@
 <!ENTITY  event.menu.options.accesskey                        "o">
 <!ENTITY  event.menu.options.attachments.label                "Cuir duilleag-lìn ris…">
 <!ENTITY  event.menu.options.attachments.accesskey            "C">
-<!ENTITY  event.menu.options.attendees.label                  "Thoir cuireadh do dh'fhreastalaichean…">
+<!ENTITY  event.menu.options.attendees.label                  "Thoir cuireadh do dhaoine…">
 <!ENTITY  event.menu.options.attendees.accesskey              "i">
 <!ENTITY  event.menu.options.spellcheck.label                 "Ceartaich an litreachadh…">
 <!ENTITY  event.menu.options.spellcheck.accesskey             "h">
@@ -175,7 +175,7 @@
 <!ENTITY  event.menu.options.show.time.free.label             "Saor">
 <!ENTITY  event.menu.options.show.time.free.accesskey         "S">
 
-<!ENTITY event.invite.attendees.label                     "Thoir cuireadh do dh'fhreastalaichean…">
+<!ENTITY event.invite.attendees.label                     "Thoir cuireadh do dhaoine…">
 <!ENTITY event.invite.attendees.accesskey                 "i">
 <!ENTITY event.email.attendees.label                      "Sgrìobh post-dealain dhan a h-uile freastalaiche…">
 <!ENTITY event.email.attendees.accesskey                  "a">
@@ -183,7 +183,7 @@
 <!ENTITY event.email.tentative.attendees.accesskey        "S">
 
 <!-- Toolbar -->
-<!ENTITY  event.toolbar.save.label                        "Sàbhail is dùin">
+<!ENTITY  event.toolbar.save.label                        "Sàbhail is dùin e">
 <!ENTITY  event.toolbar.delete.label                      "Sguab às">
 <!ENTITY  event.toolbar.attendees.label                   "Thoir cuireadh do dh'fhreastalaichean">
 <!ENTITY  event.toolbar.spellcheck.label                  "Ceartachadh an litreachaidh">
@@ -250,7 +250,7 @@
 <!-- Recurrence dialog -->
 <!ENTITY recurrence.title.label                         "Deasaich an tricead">
 
-<!ENTITY event.repeat.does.not.repeat.label             "Cha tachair seo iomadh turas">
+<!ENTITY event.repeat.does.not.repeat.label             "Cha tachair seo ach an aon turas">
 <!ENTITY event.repeat.daily.label                       "Gach latha">
 <!ENTITY event.repeat.weekly.label                      "Gach seachdain">
 <!ENTITY event.repeat.every.weekday.label               "Gach là-obrach dhen t-seachdain">

@@ -121,7 +121,7 @@
 <!ENTITY calendar.day.button.label              "Latha" >
 <!ENTITY calendar.week.button.label             "Seachdain" >
 <!ENTITY calendar.month.button.label            "Mìos" >
-<!ENTITY calendar.multiweek.button.label        "Ioma-sheachdaineil" >
+<!ENTITY calendar.multiweek.button.label        "+ seachdain" >
 <!ENTITY calendar.onlyworkday.checkbox.label    "Làithean-obrach na seachdaine a-mhàin" >
 <!ENTITY calendar.onlyworkday.checkbox.accesskey  "r" >
 <!ENTITY calendar.displaytodos.checkbox.label   "Saothraichean san t-sealladh" >
