@@ -10,7 +10,7 @@
 <!ENTITY resetPass.label              "Zurücksetzen">
 
 <!-- Manage Account -->
-<!ENTITY manageAccount.label          "Account verwalten">
+<!ENTITY manageAccount.label          "Benutzerkonto verwalten">
 <!ENTITY manageAccount.accesskey      "A">
 <!ENTITY viewQuota.label              "Quota anzeigen">
 <!ENTITY changePassword.label         "Passwort ändern">

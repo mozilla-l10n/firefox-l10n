@@ -2,9 +2,9 @@
 
 <!-- First page of the wizard -->
 
-<!ENTITY setup.pickSetupType.description "Willkommen! Wenn Sie &syncBrand.fullName.label; bisher noch nicht genutzt haben, müssen Sie einen neuen Account anlegen.">
-<!ENTITY button.createNewAccount.label "Neuen Account anlegen">
-<!ENTITY setup.haveAccount.label "Ich habe schon einen &syncBrand.fullName.label;-Account">
+<!ENTITY setup.pickSetupType.description "Willkommen! Wenn Sie &syncBrand.fullName.label; bisher noch nicht genutzt haben, müssen Sie ein neues Benutzerkonto anlegen.">
+<!ENTITY button.createNewAccount.label "Neues Benutzerkonto anlegen">
+<!ENTITY setup.haveAccount.label "Ich habe schon ein &syncBrand.fullName.label;-Benutzerkonto">
 <!ENTITY button.connect.label    "Verbinden">
 
 <!ENTITY setup.choicePage.title.label     "Sind Sie bereits Nutzer von &syncBrand.fullName.label;?">
@@ -15,7 +15,7 @@
 <!ENTITY server.label               "Server">
 <!ENTITY serverType.main.label      "&syncBrand.fullName.label;-Server">
 <!ENTITY serverType.custom2.label    "Eigenen Server verwenden…">
-<!ENTITY signIn.account2.label       "Account">
+<!ENTITY signIn.account2.label       "Benutzerkonto">
 <!ENTITY signIn.account2.accesskey   "A">
 <!ENTITY signIn.password.label      "Passwort">
 <!ENTITY signIn.password.accesskey  "P">
@@ -23,7 +23,7 @@
 <!ENTITY signIn.syncKey.accesskey   "y">
 
 <!-- New Account Page 1: Basic Account Info -->
-<!ENTITY setup.newAccountDetailsPage.title.label "Account-Details">
+<!ENTITY setup.newAccountDetailsPage.title.label "Benutzerkonto-Details">
 <!ENTITY setup.confirmPassword.label  "Passwort bestätigen">
 <!ENTITY setup.confirmPassword.accesskey  "b">
 <!ENTITY setup.emailAddress.label     "E-Mail-Adresse">
@@ -68,7 +68,7 @@
 
 <!-- Existing Account Page 2: Manual Login -->
 <!ENTITY setup.signInPage.title.label "Login">
-<!ENTITY existingSyncKey.description "Um eine Kopie Ihres Sync-Schlüssels zu erhalten, gehen Sie in die &syncBrand.shortName.label;-Einstellungen auf Ihrem anderen Gerät, und wählen Sie &#x0022;Mein Sync-Schlüssel&#x0022; unter &#x0022;Account verwalten&#x0022;.">
+<!ENTITY existingSyncKey.description "Um eine Kopie Ihres Sync-Schlüssels zu erhalten, gehen Sie in die &syncBrand.shortName.label;-Einstellungen auf Ihrem anderen Gerät, und wählen Sie &#x0022;Mein Sync-Schlüssel&#x0022; unter &#x0022;Benutzerkonto verwalten&#x0022;.">
 
 <!ENTITY verifying.label              "Überprüfen…">
 <!ENTITY resetPassword.label          "Passwort zurücksetzen">
