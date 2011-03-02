@@ -150,7 +150,7 @@
 
 <!ENTITY maintenance.label      "Ներմուծել և ռեզերվացնել">
 <!ENTITY maintenance.accesskey  "Ն">
-<!ENTITY maintenance.tooltip    "Import and backup your bookmarks">
+<!ENTITY maintenance.tooltip    "Ներմուծեք և պահպանեք ձեր էջանշերը">
 
 <!ENTITY backCmd.label       "Հետ">
 <!ENTITY backButton.tooltip  "Գնալ ետ">
