@@ -52,7 +52,7 @@ can reach it easily. -->
 <!ENTITY openFileCmd.commandkey "o">
 <!ENTITY printSetupCmd.label "Utskriftsformat …">
 <!ENTITY printSetupCmd.accesskey "m">
-<!ENTITY printPreviewCmd.label "Førehandsvis side">
+<!ENTITY printPreviewCmd.label "Førehandsvis sida">
 <!ENTITY printPreviewCmd.accesskey "v">
 <!ENTITY printCmd.label "Skriv ut …">
 <!ENTITY printCmd.accesskey "u">
@@ -364,7 +364,7 @@ can reach it easily. -->
 <!ENTITY bookmarkThisFrameCmd.accesskey  "B">
 <!ENTITY sendPageCmd.label            "Send lenkjeadresse …">
 <!ENTITY sendPageCmd.accesskey        "S">
-<!ENTITY savePageCmd.label            "Lagre side som …">
+<!ENTITY savePageCmd.label            "Lagre sida som …">
 <!ENTITY savePageCmd.accesskey        "a">
 <!-- alternate for content area context menu -->
 <!ENTITY savePageCmd.accesskey2       "r">
