@@ -4,7 +4,7 @@
 <!ENTITY neverAsk.label               "બધા જોડાણો આ ફોલ્ડરમાં સંગ્રહો:">
 <!ENTITY neverAsk.accesskey           "S">
 <!ENTITY desktop.label                "ડેસ્કટોપ">
-<!ENTITY downloads.label              "મારા ડાઉનલોડો">
+<!ENTITY downloads.label              "મારા ડાઉનલોડ">
 <!ENTITY chooseFolderWin.label        "બ્રાઉઝ કરો...">
 <!ENTITY chooseFolderWin.accesskey    "B">
 <!ENTITY chooseFolderMac.label        "પસંદ કરો...">

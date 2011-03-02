@@ -1,10 +1,10 @@
 <!ENTITY newWindowsAsTabs.label       "તેની જગ્યાએ નવી વિન્ડોને નવી ટેબમાં ખોલો">
 <!ENTITY newWindowsAsTabs.accesskey   "t">
 
-<!ENTITY warnCloseMultipleTabs.label      "જ્યારે હું ઘણી ટેબો સાથેની વિન્ડો બંધ કરું ત્યારે મને ચેતવો">
+<!ENTITY warnCloseMultipleTabs.label      "જ્યારે હું ઘણી ટૅબ સાથેની વિન્ડો બંધ કરું ત્યારે મને ચેતવો">
 <!ENTITY warnCloseMultipleTabs.accesskey  "m">
 
-<!ENTITY warnOpenManyTabs.label           "જ્યારે હું ઘણી ટેબો એકસાથે ખોલું ત્યારે મને ચેતવો">
+<!ENTITY warnOpenManyTabs.label           "જ્યારે હું ઘણી ટૅબ એકસાથે ખોલું ત્યારે મને ચેતવો">
 <!ENTITY warnOpenManyTabs.accesskey       "o">
 
 <!ENTITY showTabBar.label             "હંમેશા ટેબ પટ્ટી બતાવો">

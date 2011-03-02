@@ -62,8 +62,8 @@
 <!ENTITY bookmarkThisPageCmd.commandkey "d">
 <!ENTITY subscribeToPageMenupopup.label "આ પાનાંમાં ઉમેદવારી નોંધાવો">
 <!ENTITY subscribeToPageMenuitem.label "આ પાનાંમાં ઉમેદવારી નોંધાવો...">
-<!ENTITY addCurPagesCmd.label "બધી ટેબો બુકમાર્ક કરો...">
-<!ENTITY bookmarkAllCmd.label "બધી ટેબો બુકમાર્ક કરો...">
+<!ENTITY addCurPagesCmd.label "બધી ટૅબ બુકમાર્ક કરો...">
+<!ENTITY bookmarkAllCmd.label "બધી ટૅબ બુકમાર્ક કરો...">
 
 <!ENTITY backCmd.label                "પાછળ">
 <!ENTITY backCmd.accesskey            "B">
@@ -105,8 +105,8 @@
 <!ENTITY keywordfield.accesskey       "K">
 <!ENTITY search.label                 "વેબ શોધ">
 <!ENTITY search.accesskey             "S">
-<!ENTITY downloads.label              "ડાઉનલોડો">
-<!ENTITY downloads.tooltip            "ચાલુ રહેલ ડાઉનલોડોની પ્રગતિ દર્શાવો">
+<!ENTITY downloads.label              "ડાઉનલોડ">
+<!ENTITY downloads.tooltip            "ચાલુ રહેલ ડાઉનલોડની પ્રગતિ દર્શાવો">
 <!ENTITY downloads.accesskey          "D">
 <!ENTITY downloads.commandkey         "j">
 <!ENTITY downloadsUnix.commandkey     "y">
@@ -164,7 +164,7 @@
 <!-- XXX historyMenu entities are used with or without places (bug 336058) -->
 <!ENTITY historyMenu.label "ઈતિહાસ">
 <!ENTITY historyMenu.accesskey "s">
-<!ENTITY historyUndoMenu.label "છેલ્લે બધ થયેલ ટેબો">
+<!ENTITY historyUndoMenu.label "છેલ્લે બધ થયેલ ટૅબ">
 
 <!-- XXX places only -->
 <!ENTITY historyHomeCmd.label "ઘર">
@@ -417,7 +417,7 @@ just addresses the organization to follow, e.g. "This site is run by " -->
 <!ENTITY addonBarCmd.accesskey "A">
 <!ENTITY addonBarCmd.label "ઍડ-ઑન પટ્ટી">
 <!ENTITY addons.commandkey            "A">
-<!ENTITY allTabs.filter.emptyText "ટૅબોને શોધો">
+<!ENTITY allTabs.filter.emptyText "ટૅબને શોધો">
 <!ENTITY appMenuButton.label          "મેનુ">
 <!ENTITY appMenuButton.tooltip        "&brandShortName; મેનુને શોધો">
 <!ENTITY appMenuCustomize.label "વૈવિધ્યપૂર્ણ બનાવો">
@@ -432,7 +432,7 @@ just addresses the organization to follow, e.g. "This site is run by " -->
 <!ENTITY appMenuWebDeveloper.label "વેબ ડેવલપર">
 <!ENTITY backForwardItem.title        "પાછા જાઓ/આગળ ધપાવો">
 <!ENTITY  bookmarkAllTabs.accesskey          "T">
-<!ENTITY  bookmarkAllTabs.label              "બધા ટૅબોને બુકમાર્ક કરો…">
+<!ENTITY  bookmarkAllTabs.label              "બધા ટૅબને બુકમાર્ક કરો…">
 <!ENTITY bookmarksButton.accesskey  "B">
 <!ENTITY bookmarksCmd.commandkey "b">
 <!ENTITY bookmarksGtkCmd.commandkey "o">
@@ -443,7 +443,7 @@ just addresses the organization to follow, e.g. "This site is run by " -->
 <!ENTITY clearRecentHistory.accesskey           "H">
 <!ENTITY clearRecentHistory.label               "તાજેતરનાં ઇતિહાસને સાફ કરો…">
 <!ENTITY  closeOtherTabs.accesskey           "o">
-<!ENTITY  closeOtherTabs.label               "બીજા ટૅબોને બંધ કરો">
+<!ENTITY  closeOtherTabs.label               "બીજા ટૅબને બંધ કરો">
 <!ENTITY  closeTab.accesskey                 "c">
 <!ENTITY  closeTab.label                     "ટૅબને બંધ કરો">
 <!ENTITY feedButton.label             "ઉમેદવારી કરો">
@@ -466,7 +466,7 @@ just addresses the organization to follow, e.g. "This site is run by " -->
 <!ENTITY inspectStyleButton.accesskey "S">
 <!ENTITY inspectStyleButton.label     "શૈલી">
 <!ENTITY inspectStylePanelTitle.label  "શૈલી">
-<!ENTITY  listAllTabs.label      "બધા ટૅબોની યાદી કરો">
+<!ENTITY  listAllTabs.label      "બધા ટૅબની યાદી કરો">
 <!ENTITY menubarCmd.accesskey "M">
 <!ENTITY menubarCmd.label "મેનુ પટ્ટી">
 <!ENTITY  moveToGroup.accesskey              "M">
@@ -479,21 +479,21 @@ just addresses the organization to follow, e.g. "This site is run by " -->
 <!ENTITY  pinAppTab.accesskey                "P">
 <!ENTITY  pinAppTab.label                    "કાર્યક્રમ ટૅબ પ્રમાણે પિન કરો">
 <!ENTITY  reloadAllTabs.accesskey            "A">
-<!ENTITY  reloadAllTabs.label                "બધા ટૅબોને પુન:લોડ કરો">
+<!ENTITY  reloadAllTabs.label                "બધા ટૅબને પુન:લોડ કરો">
 <!ENTITY  reloadTab.accesskey                "R">
 <!ENTITY  reloadTab.label                    "ટૅબને પુન:લોડ કરો">
 
 <!ENTITY showAllTabsCmd.accesskey "A">
-<!ENTITY showAllTabsCmd.label "બધા ટૅબોને બતાવો">
+<!ENTITY showAllTabsCmd.label "બધા ટૅબને બતાવો">
 <!ENTITY syncBrand.shortName.label    "સુમેળ">
 <!ENTITY syncSetup.accesskey          "Y">
 <!ENTITY syncSetup.label              "&syncBrand.shortName.label; સુયોજિત કરો…">
 <!ENTITY syncSyncNowItem.accesskey    "S">
 <!ENTITY syncSyncNowItem.label        "હવે સુમેળ કરો">
-<!ENTITY syncTabsMenu.label     "બીજા કમ્પ્યૂટરોમાંથી ટૅબો">
+<!ENTITY syncTabsMenu.label     "બીજા કમ્પ્યૂટરોમાંથી ટૅબ">
 <!ENTITY syncToolbarButton.label      "સુમેળ">
 <!ENTITY tabGroupsButton.label        "ટૅબ જૂથો">
-<!ENTITY tabGroupsButton.tooltip      "તમારા ટૅબોનું જૂથ બનાવો">
+<!ENTITY tabGroupsButton.tooltip      "તમારા ટૅબનું જૂથ બનાવો">
 <!ENTITY tabView.commandkey           "e">
 <!ENTITY tabsToolbar.label "બ્રાઉઝર ટૅબ">
 <!ENTITY  undoCloseTab.accesskey             "U">
@@ -511,7 +511,7 @@ just addresses the organization to follow, e.g. "This site is run by " -->
 <!ENTITY viewTabGroups.accesskey        "G">
 <!ENTITY viewTabGroups.label            "ટૅબ જૂથો">
 <!ENTITY viewTabsOnTop.accesskey        "T">
-<!ENTITY viewTabsOnTop.label            "ઊંચે ટૅબો">
+<!ENTITY viewTabsOnTop.label            "ઊંચે ટૅબ">
 <!ENTITY webConsoleCmd.accesskey      "W">
 <!ENTITY webConsoleCmd.commandkey     "k">
 <!ENTITY webConsoleCmd.label          "વેબ કન્સોલ">

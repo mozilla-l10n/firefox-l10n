@@ -75,7 +75,7 @@
 <!ENTITY syncMy.label               "મને સુમેળ કરો">
 <!ENTITY engine.bookmarks.label     "બુકમાર્કો">
 <!ENTITY engine.bookmarks.accesskey "m">
-<!ENTITY engine.tabs.label          "ટૅબો">
+<!ENTITY engine.tabs.label          "ટૅબ">
 <!ENTITY engine.tabs.accesskey      "T">
 <!ENTITY engine.history.label       "ઇતિહાસ">
 <!ENTITY engine.history.accesskey   "r">
