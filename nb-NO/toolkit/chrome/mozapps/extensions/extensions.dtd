@@ -31,7 +31,7 @@
 <!ENTITY view.features.label                  "Utvidelser">
 <!ENTITY view.appearance2.label               "Utseende">
 <!ENTITY view.plugins.label                   "Programtillegg">
-<!ENTITY view.recentUpdates.label             "Nylige oppdateringer">
+<!ENTITY view.recentUpdates.label             "Nylig oppdatert">
 <!ENTITY view.availableUpdates.label          "Tilgjengelige oppdateringer">
 
 <!-- addon updates -->
