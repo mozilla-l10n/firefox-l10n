@@ -362,7 +362,7 @@ can reach it easily. -->
 <!ENTITY bookmarkThisLinkCmd.accesskey  "L">
 <!ENTITY bookmarkThisFrameCmd.label      "Bokmerk denne ramma">
 <!ENTITY bookmarkThisFrameCmd.accesskey  "B">
-<!ENTITY sendPageCmd.label            "Send lenkjeadresse …">
+<!ENTITY sendPageCmd.label            "Send lenkjeadressa …">
 <!ENTITY sendPageCmd.accesskey        "S">
 <!ENTITY savePageCmd.label            "Lagre sida som …">
 <!ENTITY savePageCmd.accesskey        "a">
@@ -375,7 +375,7 @@ can reach it easily. -->
 <!ENTITY printFrameCmd.accesskey      "k">
 <!ENTITY saveLinkCmd.label            "Lagre lenkje som …">
 <!ENTITY saveLinkCmd.accesskey        "L">
-<!ENTITY sendLinkCmd.label            "Send lenkjeadresse …"> 
+<!ENTITY sendLinkCmd.label            "Send lenkjeadressa …"> 
 <!ENTITY sendLinkCmd.accesskey        "S">
 <!ENTITY saveImageCmd.label           "Lagre biletet som …">
 <!ENTITY saveImageCmd.accesskey       "b">
@@ -389,7 +389,7 @@ can reach it easily. -->
 <!ENTITY sendVideoCmd.accesskey       "n">
 <!ENTITY sendAudioCmd.label           "Send lyd …">
 <!ENTITY sendAudioCmd.accesskey       "n">
-<!ENTITY copyLinkCmd.label            "Kopier lenkjeadresse">
+<!ENTITY copyLinkCmd.label            "Kopier lenkjeadressa">
 <!ENTITY copyLinkCmd.accesskey        "K">
 <!ENTITY copyImageCmd.label           "Kopier biletadresse">
 <!ENTITY copyImageCmd.accesskey       "o">
