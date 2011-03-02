@@ -7,7 +7,7 @@
 <!ENTITY useCursorNavigation.label       "Hieltyd de pylktoetsen brûke om te navigearjen yn sides">
 <!ENTITY useCursorNavigation.accesskey   "p">
 <!ENTITY searchStartTyping.label         "Nei tekst sykje as ik begjin mei typen">
-<!ENTITY searchStartTyping.accesskey     "t">
+<!ENTITY searchStartTyping.accesskey     "N">
 <!ENTITY blockAutoRefresh.label          "Warskôgje my as in webside probeart om troch te stjoeren of de side op 'e nij laadt">
 <!ENTITY blockAutoRefresh.accesskey      "r">
 
@@ -18,15 +18,15 @@
 <!ENTITY useSmoothScrolling.label       "Floeiend skowe brûke">
 <!ENTITY useSmoothScrolling.accesskey   "l">
 <!ENTITY allowHWAccel.label              "Brûk hardware-acceleratie as it beskikber is">
-<!ENTITY allowHWAccel.accesskey          "h">
+<!ENTITY allowHWAccel.accesskey          "B">
 <!ENTITY checkSpelling.label             "Kontrolearje myn stavering as ik typ">
-<!ENTITY checkSpelling.accesskey         "t">
+<!ENTITY checkSpelling.accesskey         "s">
 <!ENTITY doNotTrack.label                "Fertel websteeën dat ik net folge wurde wol">
 <!ENTITY doNotTrack.accesskey            "F">
 
 <!ENTITY systemDefaults.label            "Systeemstanderts">
-<!ENTITY alwaysCheckDefault.label        "Tiidens it opstarten altyd kontrolearje oft &brandShortName; de standert browser is"><!--XXX-->
-<!ENTITY alwaysCheckDefault.accesskey    "T">
+<!ENTITY alwaysCheckDefault.label        "Wylst it opstarten altyd kontrolearje oft &brandShortName; de standert browser is"><!--XXX-->
+<!ENTITY alwaysCheckDefault.accesskey    "W">
 <!ENTITY checkNow.label                  "No kontrolearje">
 <!ENTITY checkNow.accesskey              "N">
 <!ENTITY submitCrashes.label             "Ungelokrapport yntsjinje">
@@ -38,7 +38,7 @@
 
 <!ENTITY connectionDesc.label            "Bepaal hoe't &brandShortName; ferbining makket mei Ynternet">
 <!ENTITY connectionSettings.label        "Ynstellings...">
-<!ENTITY connectionSettings.accesskey    "e">
+<!ENTITY connectionSettings.accesskey    "Y">
 
 <!ENTITY offlineStorage.label            "Opslach sûnder ferbining">
 
@@ -73,7 +73,7 @@
 <!ENTITY modeAutoAddonWarn.label        "My warskôgje as dit útwreidings of tema’s útskeakelje sil">
 <!ENTITY modeAutoAddonWarn.accesskey    "w">
 <!ENTITY updateHistory.label            "Fernijingsskiednis sjen litte">
-<!ENTITY updateHistory.accesskey        "F">
+<!ENTITY updateHistory.accesskey        "s">
 
 <!ENTITY offlineNotify.label             "My fertelle as in webstee freget om gegevens te bewarjen foar offline gebrûk">
 <!ENTITY offlineNotify.accesskey         "e">
@@ -96,7 +96,7 @@
 <!ENTITY certificates.label             "Sertifikaten">
 <!ENTITY certSelection.description       "As in webstee in sertifikaat fereasket:">
 <!ENTITY certs.auto              "Automatysk ien selektearje">
-<!ENTITY certs.auto.accesskey      "a">
+<!ENTITY certs.auto.accesskey      "A">
 <!ENTITY certs.ask               "My elke kear freegje">
 <!ENTITY certs.ask.accesskey       "e">
 <!ENTITY viewCerts.label         "Sertifikaten besjen">
@@ -106,4 +106,4 @@
 <!ENTITY verify2.label                 "Ferifikaasje">
 <!ENTITY verify2.accesskey             "F">
 <!ENTITY viewSecurityDevices.label      "Feiligheidsapparaten">
-<!ENTITY viewSecurityDevices.accesskey  "a">
+<!ENTITY viewSecurityDevices.accesskey  "h">

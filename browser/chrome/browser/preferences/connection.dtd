@@ -5,9 +5,9 @@
 
 <!ENTITY  proxyTitle.label              "Proxy's foar tagong ta ynternet ynstelle">
 <!ENTITY  noProxyTypeRadio.label         "Gjin proxy">
-<!ENTITY  noProxyTypeRadio.accesskey     "y">
+<!ENTITY  noProxyTypeRadio.accesskey     "G">
 <!ENTITY  systemTypeRadio.label         "Brûk systeem proxy ynstellings">
-<!ENTITY  systemTypeRadio.accesskey     "y">
+<!ENTITY  systemTypeRadio.accesskey     "B">
 <!ENTITY  WPADTypeRadio.label           "Proxy-ynstellings automatysk foar dit netwurk detektearje">
 <!ENTITY  WPADTypeRadio.accesskey       "w">
 <!ENTITY  manualTypeRadio.label         "Hânmjittige proxykonfiguraasje">

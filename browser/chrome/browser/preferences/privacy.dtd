@@ -15,7 +15,7 @@
 <!ENTITY  acceptCookies.accesskey       "C">
 
 <!ENTITY  acceptThirdParty.label        "Akseptearje cookies fan tredden">
-<!ENTITY  acceptThirdParty.accesskey    "p">
+<!ENTITY  acceptThirdParty.accesskey    "A">
 
 <!ENTITY  keepUntil.label               "Bewarje oant:">
 <!ENTITY  keepUntil.accesskey           "B">
