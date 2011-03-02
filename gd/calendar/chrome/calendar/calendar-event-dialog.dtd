@@ -185,7 +185,7 @@
 <!-- Toolbar -->
 <!ENTITY  event.toolbar.save.label                        "Sàbhail is dùin e">
 <!ENTITY  event.toolbar.delete.label                      "Sguab às">
-<!ENTITY  event.toolbar.attendees.label                   "Invite Attendees">
+<!ENTITY  event.toolbar.attendees.label                   "Thoir cuireadh do dhaoine">
 <!ENTITY  event.toolbar.spellcheck.label                  "Ceartachadh an litreachaidh">
 <!ENTITY  event.toolbar.privacy.label                     "Prìobhaideachd">
 <!ENTITY  event.toolbar.attachments.label                 "Cuir ris">
