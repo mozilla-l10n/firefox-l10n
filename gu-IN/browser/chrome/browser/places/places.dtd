@@ -49,7 +49,7 @@
 <!ENTITY cmd.open_window.accesskey       "N">
 <!ENTITY cmd.open_tab.label              "નવી ટેબમાં ખોલો">
 <!ENTITY cmd.open_tab.accesskey          "w">
-<!ENTITY cmd.open_all_in_tabs.label      "બધું ટેબોમાં ખોલો">
+<!ENTITY cmd.open_all_in_tabs.label      "બધું ટૅબમાં ખોલો">
 <!ENTITY cmd.open_all_in_tabs.accesskey  "O">
 
 <!ENTITY cmd.properties.label      "ગુણધર્મો">
@@ -79,7 +79,7 @@
 <!ENTITY cmd.moveBookmarks.accesskey              "M">
 
 <!ENTITY col.name.label          "નામ">
-<!ENTITY col.tags.label          "ટેબો">
+<!ENTITY col.tags.label          "ટૅબ">
 <!ENTITY col.url.label           "સ્થાન">
 <!ENTITY col.lastvisit.label     "મુલાકાત તારીખ">
 <!ENTITY col.visitcount.label    "મુલાકાત ગણતરી">
