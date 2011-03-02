@@ -69,7 +69,7 @@ can reach it easily. -->
 <!ENTITY navbarCmd.accesskey "N">
 <!ENTITY personalbarCmd.label "Bokmerke">
 <!ENTITY personalbarCmd.accesskey "B">
-<!ENTITY bookmarksToolbarItem.label "Element i bokmerkelinje">
+<!ENTITY bookmarksToolbarItem.label "Element i bokmerkelinja">
 <!ENTITY addonBarCmd.label "Utvidingslinje">
 <!ENTITY addonBarCmd.accesskey "U">
 
@@ -103,7 +103,7 @@ can reach it easily. -->
 <!ENTITY subscribeToPageMenupopup.label "Abonnér på denne sida">
 <!ENTITY subscribeToPageMenuitem.label "Abonnér på denne sida …">
 <!ENTITY addCurPagesCmd.label "Bokmerk alle fanene …">
-<!ENTITY showAllBookmarks2.label "Vis alle bokmerke">
+<!ENTITY showAllBookmarks2.label "Vis alle bokmerka">
 <!ENTITY bookmarkAllCmd.label "Bokmerk alle fanene …">
 <!ENTITY bookmarksToolbarChevron.tooltip "Vis fleire bokmerke">
 

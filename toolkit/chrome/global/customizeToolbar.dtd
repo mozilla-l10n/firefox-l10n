@@ -1,4 +1,4 @@
-<!ENTITY dialog.title             "Tilpass verktøylinje">
+<!ENTITY dialog.title             "Tilpass verktøylinja">
 <!ENTITY dialog.style             "width: 635px; height: 400px;">
 <!ENTITY instructions.description "Du kan leggje til eller fjerne knappar ved å dra dei til og frå verktøylinja.">
 <!ENTITY show.label               "Vis:">
