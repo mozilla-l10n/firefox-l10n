@@ -57,7 +57,7 @@
 <!ENTITY warning.safemode.label                    "Անվտանգ ռեժիմը պասիվացրել է բոլոր հավելումները:">
 <!ENTITY warning.checkcompatibility.label          "Հավելումների համատեղելիության ստուգումը պասիվ է: Դուք կարող էք ունենալ անհամատեղելի հավելումներ:">
 <!ENTITY warning.checkcompatibility.enable.label   "Միացնել">
-<!ENTITY warning.checkcompatibility.enable.tooltip "Enable add-on compatibility checking">
+<!ENTITY warning.checkcompatibility.enable.tooltip "Միացնել հավելման համատեղելիության ստուգումը">
 <!ENTITY warning.updatesecurity.label              "Հավելումների թարմացման անվտանգության ստուգումը պասիվացված է: Թարմացումները կարող են վտանգավոր լինել ձեր համար:">
 <!ENTITY warning.updatesecurity.enable.label       "Միացնել">
 <!ENTITY warning.updatesecurity.enable.tooltip     "Enable add-on update security checking">
@@ -89,10 +89,10 @@
      update checking behavior for all add-ons to the default global behavior
      (which itself is either "Automatically" or "Manually", controlled by the
      updates.updateAddonsAutomatically.label menu item). -->
-<!ENTITY updates.resetUpdatesToAutomatic.label       "Reset All Add-ons to Update Automatically">
-<!ENTITY updates.resetUpdatesToAutomatic.accesskey   "R">
-<!ENTITY updates.resetUpdatesToManual.label          "Reset All Add-ons to Update Manually">
-<!ENTITY updates.resetUpdatesToManual.accesskey      "R">
+<!ENTITY updates.resetUpdatesToAutomatic.label       "Վերատեղավորեք բոլոր հավելումները, որպեսզի ավտոմատ թարմացվեն">
+<!ENTITY updates.resetUpdatesToAutomatic.accesskey   "Վ">
+<!ENTITY updates.resetUpdatesToManual.label          "Վերատեղավորել բոլոր հավելումները, որպեսզի դրանք ձեռքով թարմացվեն">
+<!ENTITY updates.resetUpdatesToManual.accesskey      "Վ">
 <!ENTITY updates.updating.label               "Հավելումները թարմացվում են">
 <!ENTITY updates.installed.label              "Ձեր հավելումը թարմացվեց:">
 <!ENTITY updates.downloaded.label             "Ձեր հավելումների թարմացումները բեռնվել են:">

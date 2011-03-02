@@ -55,15 +55,16 @@
 <!ENTITY rights.intro-point1b "Մոզիլլայի Հանրային Արտոնագիր">
 <!ENTITY rights.intro-point1c ": Սա նշանակում է դուք կարող եք օգտագործել, կրկնօրինակել և բաժանել &brandShortName; -ը ուրիշներին: Դուք նաև կարող էք փոփոխել &brandShortName; -ի ծրագրային կոդը ըստ ձեր կարիքների: Մողիլլայի Հանրային Արտոնագիրը նաև հնարավորություն է տալիս ձեզ բաժանել ձեր փոփոխած տարբերակը:">
 
-<!ENTITY rights.intro-point2-a "You are not granted any trademark rights or licenses to the trademarks of the Mozilla Foundation or any party, including without limitation the Firefox name or logo. Additional information on trademarks may be found ">
+<!ENTITY rights.intro-point2-a "Ձեզ շնորհված չէ որևէ ապրանքանշանի իրավունքներ կամ արտոնություններ Մոզիլլա Ֆաունդեյշնի կամ այլ ապրանքանշերի նկատմամբ,ինչպես նաև առանց սահմանափակումների Ֆայրֆոքս անունը կամ լոգոն օգտագործելու համար:
+Հնարավոր է տեղեկանալ ապրանքանշերի վերաբերյալ լրացուցիչ ինֆորմացիային ">
 <!ENTITY rights.intro-point2-b "այստեղ">
 <!ENTITY rights.intro-point2-c ".">
 
 <!-- point 2.5 text for official branded builds -->
-<!ENTITY rights.intro-point2.5 "Some features in &brandShortName;, such as the Crash Reporter, give you the option to provide feedback to &vendorShortName;. By choosing to submit feedback, you give &vendorShortName; permission to use the feedback to improve its products, to publish the feedback on its websites, and to distribute the feedback.">
+<!ENTITY rights.intro-point2.5 "&brandShortName;ի որոշ հատկությունները, ինչպիսինն է Վթարը Իրազեկող հատկությունը, տալիս են ձեզ ընտրություն` &vendorShortName;ի հետադարձ կապը ապահովելու համար:Ձեր ընտրությամբ հաստատելով հետադարձ կապը` դուք թույլ եք տալիս &vendorShortName;ին օգտագործել հետադարձ կապը նրա արդյունքները բարելավելու համար,հետադարձ կապը կայքերում  հրատարակելու համար և այն տեղավորելու համար:">
 
 <!-- point 3 text for official branded builds -->
-<!ENTITY rights2.intro-point3a "How we use your personal information and feedback submitted to &vendorShortName; through &brandShortName; is described in the ">
+<!ENTITY rights2.intro-point3a "Թե ինչպես ենք մենք օգտագործում ձեր անձնական տեղեկատվությունը և հետադարձ կապը`ներկայացված &vendorShortName;-ին &brandShortName;-ի միջոցով,նկարագրված է այստեղ ">
 <!ENTITY rights2.intro-point3b "&brandShortName; Privacy Policy">
 <!ENTITY rights.intro-point3c ".">
 
@@ -104,8 +105,8 @@
 <!ENTITY rights.locationawarebrowsing-b "is always opt-in.  No location information is ever sent without your permission.  If you wish to disable the feature completely, follow these steps:">
 <!ENTITY rights.locationawarebrowsing-term1a "In the URL bar, type ">
 <!ENTITY rights.locationawarebrowsing-term1b "about:config">
-<!ENTITY rights.locationawarebrowsing-term2 "Type geo.enabled">
-<!ENTITY rights.locationawarebrowsing-term3 "Double click on the geo.enabled preference">
+<!ENTITY rights.locationawarebrowsing-term2 "Մուտքագրեք geo.enabled">
+<!ENTITY rights.locationawarebrowsing-term3 "Երկու անգամ սեղմեք geo.enabled նախընտրանքի վրա">
 <!ENTITY rights.locationawarebrowsing-term4 "Location-Aware Browsing is now disabled">
 
 <!-- intro paragraph for unbranded builds -->

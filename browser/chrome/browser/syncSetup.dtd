@@ -54,12 +54,12 @@
 <!ENTITY server.label               "Սպասարկչ">
 <!ENTITY serverType.main.label      "&syncBrand.fullName.label; Սպասարկիչ">
 <!ENTITY serverType.custom2.label   "Use a custom server…">
-<!ENTITY signIn.account2.label      "Account">
-<!ENTITY signIn.account2.accesskey  "A">
+<!ENTITY signIn.account2.label      "Հաշիվ">
+<!ENTITY signIn.account2.accesskey  "Հ">
 <!ENTITY signIn.password.label      "Գաղտնաբառը">
 <!ENTITY signIn.password.accesskey  "Գ">
-<!ENTITY signIn.syncKey.label       "Sync Key">
-<!ENTITY signIn.syncKey.accesskey   "K">
+<!ENTITY signIn.syncKey.label       "Սինք բանալի">
+<!ENTITY signIn.syncKey.accesskey   "Ս">
 
 <!-- New Account Page 1: Basic Account Info -->
 <!ENTITY setup.newAccountDetailsPage.title.label "Հաշվեհամարի Մանրամասներ">
@@ -83,7 +83,7 @@
 <!ENTITY syncKeyEntry.label        "Ձեր Sync բանալին">
 <!ENTITY syncKeyEntry.accesskey    "S">
 <!ENTITY syncKeyGenerate.label     "Առաջացնել">
-<!ENTITY syncKeyBackup.description "Your Sync Key is required to access &syncBrand.fullName.label; on other machines. Please create a backup copy. We cannot help you recover your Sync Key.">
+<!ENTITY syncKeyBackup.description " Պահանջվում է Ձեր Սինք բանալին այլ սարքերում &syncBrand.fullName.label; մուտք գործելու համար:Խնդրում ենք ստեղծեք պահուստային կրկնօրինակ:Մենք չենք կարող օգնել ձեզ վերականգնել ձեր Սինք բանալին:">
 
 <!ENTITY button.syncKeyBackup.print.label     "Տպել…">
 <!ENTITY button.syncKeyBackup.print.accesskey "Տ">
@@ -143,5 +143,5 @@
 
 <!-- New & Existing Account: Setup Complete -->
 <!ENTITY setup.successPage.title "Տեղադրումը ավարտված է">
-<!ENTITY changeOptions.label "You can change this preference by selecting Sync Options below.">
+<!ENTITY changeOptions.label "Դուք կարող եք փոխել այս նախընտրանքը` ընտրելով ստորև բերված Sync Ընտրանքները:">
 <!ENTITY continueUsing.label "Հիմա դուք կարող եք շարունակել օգտվել &brandShortName;-ից:">

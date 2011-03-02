@@ -68,5 +68,5 @@
 <!ENTITY testpilot.feedbackbutton.label                "Հետադարձ կապ">
 <!ENTITY testpilot.happy.label        "Firefox Made Me Happy Because...">
 <!ENTITY testpilot.sad.label          "Firefox Made Me Sad Because...">
-<!ENTITY testpilot.broken.label      "Report this website as broken…">
-<!ENTITY testpilot.idea.label        "Give us a suggestion…">
+<!ENTITY testpilot.broken.label      "Զեկուցեք, որ այս վեբ կայքը ջարդված է...">
+<!ENTITY testpilot.idea.label        "Մեզ որևէ առաջարկություն արեք...">
