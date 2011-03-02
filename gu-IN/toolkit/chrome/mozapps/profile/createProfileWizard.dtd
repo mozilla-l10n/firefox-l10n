@@ -1,5 +1,5 @@
 <!ENTITY newprofile.title "રુપરેખા વિઝાર્ડ બનાવો">
-<!ENTITY window.size "પહોળાઇ: 45em; ઊંચાઇ: 32em;">
+<!ENTITY window.size "width: 45em; height: 32em;">
 <!-- First wizard page -->
 <!ENTITY profileCreationExplanation_1.text "&brandShortName; તમારી ગોઠવણી અને પસંદગીઓને તમારી અંગત રુપરેખામાં સંગ્રહ કરે છે.">
 <!ENTITY profileCreationExplanation_2.text "જો તમે બીજા વપરાશકર્તાઓની સાથે &brandShortName; ની નકલની ભાગીદારી કરો છો તો તમે બીજા વપરાશકર્તાઓની માહિતી રાખવા માટે અલગ રુપરેખા બનાવી શકો છો.  આ કરવા માટે બધા વપરાશકર્તાઓએ પોતાની રુપરેખા બનાવી પડશે.">
