@@ -1,4 +1,5 @@
 google
+azet-sk
 slovnik-sk
 twitter
 wikipedia-sk
