@@ -97,8 +97,8 @@
 <!ENTITY lightning.toolbar.month.accesskey           "M">
 
 <!-- properties dialog, calendar creation wizard -->
-<!ENTITY lightning.calendarproperties.showevents.inagenda.label "Seall na tachartasan san leòsan an-diugh">
-<!ENTITY lightning.calendarproperties.showtasks.label           "Seall na tachartasan san leòsan an-diugh 's ann am modh nan saothair">
+<!ENTITY lightning.calendarproperties.showevents.inagenda.label "Seall na tachartasan ann an leòsan an latha">
+<!ENTITY lightning.calendarproperties.showtasks.label           "Seall na tachartasan ann an leòsan an latha 's ann am modh nan saothair">
 <!ENTITY lightning.calendarproperties.email.label               "Post-dealain:">
 
 <!-- iMIP Bar (meeting support) -->
@@ -120,6 +120,6 @@
 <!ENTITY todaypane.showMiniday.accesskey  "S">
 <!ENTITY todaypane.showNone.label "Na seall gin">
 <!ENTITY todaypane.showNone.accesskey "N">
-<!ENTITY todaypane.showTodayPane.label "Seall leòsan an-diugh">
+<!ENTITY todaypane.showTodayPane.label "Seall leòsan an latha">
 <!ENTITY todaypane.showTodayPane.accesskey "S">
-<!ENTITY todaypane.statusButton.label "Leòsan an-diugh">
+<!ENTITY todaypane.statusButton.label "Leòsan an latha">

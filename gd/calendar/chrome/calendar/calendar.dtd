@@ -85,12 +85,12 @@
 <!ENTITY calendar.unifinder.close.tooltip            "Dùin lorg is liosta nan tachartasan">
 
 <!ENTITY calendar.today.button.tooltip          "Rach gun latha an-diugh" >
-<!ENTITY calendar.todaypane.button.tooltip      "Seall leòsan an-diugh" >
+<!ENTITY calendar.todaypane.button.tooltip      "Seall leòsan an latha" >
 
-<!ENTITY calendar.day.button.tooltip            "Atharraich gun t-sealladh làitheil" >
-<!ENTITY calendar.week.button.tooltip           "Atharraich gun t-sealladh seachaineil" >
-<!ENTITY calendar.month.button.tooltip          "Atharraich gun t-sealladh mhìosail" >
-<!ENTITY calendar.multiweek.button.tooltip      "Atharraich gun t-sealladh ioma-sheachdaineil" >
+<!ENTITY calendar.day.button.tooltip            "Na seall dhomh ach aon latha" >
+<!ENTITY calendar.week.button.tooltip           "Seall dhomh an t-seachdain air fad" >
+<!ENTITY calendar.month.button.tooltip          "Seall dhomh mìos air fad" >
+<!ENTITY calendar.multiweek.button.tooltip      "Seall dhomh iomadh seachdain còmhla" >
 
 <!ENTITY calendar.nextday.label                 "An ath-latha" >
 <!ENTITY calendar.prevday.label                 "An latha roimhe" >
@@ -201,8 +201,8 @@
 <!ENTITY calendar.context.copyevent.accesskey         "c">
 <!ENTITY calendar.context.pasteevent.label            "Cuir ann">
 <!ENTITY calendar.context.pasteevent.accesskey        "C">
-<!ENTITY calendar.context.button.label                "Leòsan an-diugh" >
-<!ENTITY calendar.context.button.accesskey            "L" >
+<!ENTITY calendar.context.button.label                "Leòsan an latha" >
+<!ENTITY calendar.context.button.accesskey            "t" >
 <!ENTITY calendar.context.attendance.menu.label       "Làthaireachd" >
 <!ENTITY calendar.context.attendance.menu.accesskey   "d" >
 <!ENTITY calendar.context.attendance.occurrence.label "An tachartas seo" >
@@ -268,7 +268,7 @@
 <!ENTITY calendar.context.convertmenu.event.accesskey    "T">
 <!ENTITY calendar.context.convertmenu.message.label      "Theachdaireachd…">
 <!ENTITY calendar.context.convertmenu.message.accesskey  "T">
-<!ENTITY calendar.context.convertmenu.task.label         "Saothair…">
+<!ENTITY calendar.context.convertmenu.task.label         "Shaothair…">
 <!ENTITY calendar.context.convertmenu.task.accesskey     "t">
 
 <!ENTITY calendar.tasks.view.minimonth.label           "Meanbh-mhìos">
