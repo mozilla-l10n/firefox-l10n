@@ -1,10 +1,10 @@
-<!ENTITY aboutSupport.pageTitle "Feilsøkingsinformasjon">
+<!ENTITY aboutSupport.pageTitle "Informasjon for feilsøking">
 
 <!-- LOCALIZATION NOTE (aboutSupport.pageSubtitle): don't change the 'supportLink' id. -->
 <!ENTITY aboutSupport.pageSubtitle "
   Denne siden inneholder teknisk informasjon som kan være nyttig når du
-  forsøker å løse et problem. Dersom du ser etter svar til vanlige spørsmål
-  om &brandShortName;, besøk vårt <a id='supportLink'>brukerstøttenettsted</a>.
+  forsøker å løse et problem. Besøk også <a id='supportLink'>brukerstøttenettstedet</a> for
+  å få svar på ofte stilte spørsmål om &brandShortName;.
 ">
 
 <!ENTITY aboutSupport.extensionsTitle "Utvidelser">

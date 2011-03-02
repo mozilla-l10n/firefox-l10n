@@ -136,7 +136,7 @@ can reach it easily. -->
 <!ENTITY homeButton.label             "Startside">
 
 <!ENTITY tabGroupsButton.label        "Fanegrupper">
-<!ENTITY tabGroupsButton.tooltip      "Grupper fanene dine">
+<!ENTITY tabGroupsButton.tooltip      "Grupper faner">
 
 <!ENTITY feedButton.label             "Abonner">
 <!ENTITY feedButton.tooltip           "Abonner på denne siden …">
@@ -282,7 +282,7 @@ can reach it easily. -->
 <!ENTITY appMenuSidebars.label "Sidestolper">
 <!ENTITY appMenuFind.label "Finn …">
 <!ENTITY appMenuUnsorted.label "Usorterte bokmerker">
-<!ENTITY appMenuWebDeveloper.label "Nettsideutvikler">
+<!ENTITY appMenuWebDeveloper.label "Nettsideutvikling">
 <!ENTITY appMenuGettingStarted.label "Kom i gang">
 <!ENTITY appMenuSafeMode.label "Start på nytt uten utvidelser …">
 <!ENTITY appMenuSafeMode.accesskey "S">
