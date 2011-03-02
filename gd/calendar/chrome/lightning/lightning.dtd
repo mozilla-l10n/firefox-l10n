@@ -91,8 +91,8 @@
 <!ENTITY lightning.toolbar.day.accesskey             "L">
 <!ENTITY lightning.toolbar.week.label                "Seachdain">
 <!ENTITY lightning.toolbar.week.accesskey            "S">
-<!ENTITY lightning.toolbar.multiweek.label           "+ seachdain">
-<!ENTITY lightning.toolbar.multiweek.accesskey       "+">
+<!ENTITY lightning.toolbar.multiweek.label           "Iomadh s.">
+<!ENTITY lightning.toolbar.multiweek.accesskey       "I">
 <!ENTITY lightning.toolbar.month.label               "Mìos">
 <!ENTITY lightning.toolbar.month.accesskey           "M">
 
