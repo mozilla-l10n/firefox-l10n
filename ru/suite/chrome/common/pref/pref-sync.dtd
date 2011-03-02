@@ -2,12 +2,13 @@
 <!ENTITY setupButton.accesskey "с">
 <!ENTITY weaveDesc.label "&syncBrand.fullName.label; позволяет вам получить доступ к вашему журналу, закладкам, паролям и открытым вкладкам со всех ваших устройств.">
 <!ENTITY accountGroupboxCaption.label "Учётная запись &syncBrand.fullName.label;">
-<!ENTITY currentAccount.label "Текущая учётная запись:">
+<!ENTITY accountName.label "Имя учётной записи:">
 <!ENTITY updatePass.label "Обновить">
 <!ENTITY updatePass.accesskey "б">
 <!ENTITY resetPass.label "Сбросить">
 <!ENTITY resetPass.accesskey "р">
 <!ENTITY manageAccount.label "Управление учётной записью">
+<!ENTITY manageAccount.accesskey "п">
 <!ENTITY viewQuota.label "Просмотреть квоту">
 <!ENTITY viewQuota.accesskey "м">
 <!ENTITY changePassword.label "Сменить пароль">
@@ -18,10 +19,9 @@
 <!ENTITY resetSync.accesskey "н">
 <!ENTITY stopUsingAccount.label "Перестать использовать эту учётную запись">
 <!ENTITY stopUsingAccount.accesskey "а">
-<!ENTITY syncPrefsCaption.label "Синхронизация браузера">
 <!ENTITY syncComputerName.label "Имя компьютера:">
 <!ENTITY syncComputerName.accesskey "я">
-<!ENTITY syncMy.label "Синхронизировать мои">
+<!ENTITY syncMy2.label "Синхронизировать мои:">
 <!ENTITY engine.bookmarks.label "Закладки">
 <!ENTITY engine.bookmarks.accesskey "к">
 <!ENTITY engine.tabs.label "Вкладки">
