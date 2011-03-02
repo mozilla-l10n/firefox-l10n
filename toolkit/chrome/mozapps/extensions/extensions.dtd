@@ -8,7 +8,7 @@
 <!ENTITY listEmpty.search.label               "Geen overeenkomende add-ons gevonden">
 <!ENTITY listEmpty.button.label               "Meer info over add-ons">
 <!ENTITY installAddonFromFile.label           "Add-on installeren via bestand…">
-<!ENTITY installAddonFromFile.accesskey       "A">
+<!ENTITY installAddonFromFile.accesskey       "s">
 <!ENTITY toolsMenu.tooltip                    "Hulpmiddelen voor alle add-ons">
 
 <!ENTITY cmd.back.tooltip                     "Een pagina terug gaan">
@@ -43,7 +43,7 @@
      is a checkbox that toggles the default global behavior for add-on update
      checking. -->
 <!ENTITY updates.updateAddonsAutomatically.label     "Add-ons automatisch bijwerken">
-<!ENTITY updates.updateAddonsAutomatically.accesskey "A">
+<!ENTITY updates.updateAddonsAutomatically.accesskey "a">
 <!-- LOCALIZATION NOTE (updates.resetUpdatesToAutomatic.label, updates.resetUpdatesToManual.label):
      Specific addons can have custom update checking behaviors ("Manually",
      "Automatically", "Use default global behavior"). These menu items reset the
@@ -51,9 +51,9 @@
      (which itself is either "Automatically" or "Manually", controlled by the
      updates.updateAddonsAutomatically.label menu item). -->
 <!ENTITY updates.resetUpdatesToAutomatic.label       "Alle add-ons terugzetten naar automatisch bijwerken">
-<!ENTITY updates.resetUpdatesToAutomatic.accesskey   "A">
+<!ENTITY updates.resetUpdatesToAutomatic.accesskey   "t">
 <!ENTITY updates.resetUpdatesToManual.label          "Alle add-ons terugzetten naar handmatig bijwerken">
-<!ENTITY updates.resetUpdatesToManual.accesskey      "A">
+<!ENTITY updates.resetUpdatesToManual.accesskey      "t">
 <!ENTITY updates.updating.label               "Add-ons worden bijgewerkt">
 <!ENTITY updates.installed.label              "Uw add-ons zijn bijgewerkt.">
 <!ENTITY updates.downloaded.label             "Uw add-on updates zijn gedownload.">

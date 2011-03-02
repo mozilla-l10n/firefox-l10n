@@ -76,7 +76,7 @@
 <!-- Sync Options -->
 <!ENTITY setup.optionsPage.title      "Sync-opties">
 <!ENTITY syncComputerName.label       "Computernaam:">
-<!ENTITY syncComputerName.accesskey   "c">
+<!ENTITY syncComputerName.accesskey   "C">
 
 <!ENTITY syncMy.label               "Synchroniseren:">
 <!ENTITY engine.bookmarks.label     "Bladwijzers">

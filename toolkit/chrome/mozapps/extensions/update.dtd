@@ -1,11 +1,11 @@
 <!ENTITY  updateWizard.title              "&brandShortName;-update">
 
-<!ENTITY  offline.title                   "&brandShortName; werkt nu offline">
+<!ENTITY  offline.title                   "&brandShortName; werkt offline">
 <!ENTITY  offline.description             "&brandShortName; moet online gaan om te kunnen zien of er updates
-                                           beschikbaar zijn voor uw add-ons om deze compatibel te maken met deze
+                                           beschikbaar zijn voor uw add-ons, om deze compatibel te maken met deze
                                            versie.">
-<!ENTITY  offline.toggleOffline.label     "Ga nu online.">
-<!ENTITY  offline.toggleOffline.accesskey "G">
+<!ENTITY  offline.toggleOffline.label     "Nu online gaan">
+<!ENTITY  offline.toggleOffline.accesskey "N">
 
 <!ENTITY  mismatch.win.title              "Incompatibele add-ons">
 <!ENTITY  mismatch.top.label              "De volgende add-ons zijn niet compatibel met deze versie
