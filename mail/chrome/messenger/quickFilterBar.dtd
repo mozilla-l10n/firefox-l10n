@@ -228,7 +228,7 @@
      but we can convert to a global search for them.
      -->
 <!ENTITY quickFilterBar.glodaUpsell.continueSearch
-         "Pokračovat s tímto hledáním napříč všema složkama">
+         "Pokračovat s tímto hledáním napříč všemi složkami">
 
 <!-- LOCALIZATION NOTE (quickFilterBar.glodaUpsell.pressEnterAndCurrent):
      The second line of the panel popup that tells the user we found no matches.
