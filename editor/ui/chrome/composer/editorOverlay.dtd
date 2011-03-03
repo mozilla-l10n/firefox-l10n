@@ -405,7 +405,6 @@
 
 <!-- Toolbar-only items -->
 <!ENTITY menuBar.tooltip "Barra Menu">
-<!ENTITY compositionToolbar.tooltip "Barra de Ferramentas de Composição">
 <!ENTITY formatToolbar.tooltip "Barra de ferramentas de Formatação">
 <!ENTITY newToolbarCmd.tooltip "Criar nova página de Composição">
 <!ENTITY openToolbarCmd.label "Abrir">
