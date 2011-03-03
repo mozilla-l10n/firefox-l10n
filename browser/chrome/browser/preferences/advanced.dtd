@@ -21,6 +21,9 @@
 <!ENTITY allowHWAccel.accesskey          "D">
 <!ENTITY checkSpelling.label             "Gwirio'r sillafu wrth deipio">
 <!ENTITY checkSpelling.accesskey         "G">
+<!ENTITY doNotTrack.label                "Dweud wrth gwefannau nad ydw i eisiau cael fy olrhain">
+<!ENTITY doNotTrack.accesskey            "d">
+
 
 <!ENTITY systemDefaults.label            "Rhagosodiadau'r System">
 <!ENTITY alwaysCheckDefault.label        "Wrth gychwyn, gwirio i weld ai &brandShortName; yw'r porwr ragosodedig"><!--XXX-->
