@@ -5,7 +5,7 @@
 
 <!-- The page shown when logged in... -->
 <!ENTITY accountGroupboxCaption.label "Compte &syncBrand.fullName.label;">
-<!ENTITY currentAccount.label         "Compte en cours :">
+<!ENTITY accountName.label            "Nom du compte :">
 
 <!-- Login error feedback -->
 <!ENTITY updatePass.label             "Mettre à jour">
@@ -27,11 +27,10 @@
 <!ENTITY stopUsingAccount.accesskey   "e">
 
 <!-- Sync Settings -->
-<!ENTITY syncPrefsCaption.label       "Sync">
 <!ENTITY syncComputerName.label       "Nom de l'ordinateur :">
 <!ENTITY syncComputerName.accesskey   "d">
 
-<!ENTITY syncMy.label               "Synchroniser">
+<!ENTITY syncMy2.label              "Synchroniser :">
 <!ENTITY engine.bookmarks.label     "les marque-pages">
 <!ENTITY engine.bookmarks.accesskey "m">
 <!ENTITY engine.tabs.label          "les onglets">
