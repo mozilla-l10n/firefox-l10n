@@ -405,7 +405,6 @@
 
 <!-- Toolbar-only items -->
 <!ENTITY menuBar.tooltip "Bàr a' chlàir-thaice">
-<!ENTITY compositionToolbar.tooltip "Bàr-inneil sgrìobhaidh">
 <!ENTITY formatToolbar.tooltip "Bàr-inneil fòrmataidh">
 <!ENTITY newToolbarCmd.tooltip "Cruthaich duilleag Sgrìobhadair ùr">
 <!ENTITY openToolbarCmd.label "Fosgail">
@@ -450,7 +449,7 @@
 <!ENTITY alignLeftButton.tooltip "Co-thaobhaich an teacsa a-rèir na h-oire chlì">
 <!ENTITY alignCenterButton.tooltip "Co-thaobhaich an teacsa sa mheadhan">
 <!ENTITY alignRightButton.tooltip "Co-thaobhaich an teacsa a-rèir na h-oire dheis">
-<!ENTITY alignjustifyButton.tooltip "Co-thaobhaich an teacsa a-rèir nan oirean deis is clì">
+<!ENTITY alignJustifyButton.tooltip "Co-thaobhaich an teacsa a-rèir nan oirean deis is clì">
 
 <!-- Display Mode toolbar and View menu items -->
 <!ENTITY NormalModeTab.label "Àbhaisteach">
