@@ -37,6 +37,7 @@
    - ***** END LICENSE BLOCK ***** -->
 <!ENTITY editorWindow.titlemodifier "Компоновщик">
 <!ENTITY editorWindow.titlemodifiermenuseparator " - ">
+<!ENTITY compositionToolbar.tooltip "Панель компоновки">
 <!ENTITY viewMenu.label "Вид">
 <!ENTITY viewMenu.accesskey "и">
 <!ENTITY compositionToolbarCmd.label "Панель компоновки">
