@@ -16,7 +16,7 @@
 <!ENTITY serverType.main.label      "&syncBrand.fullName.label;-Server">
 <!ENTITY serverType.custom2.label    "Eigenen Server verwenden…">
 <!ENTITY signIn.account2.label       "Benutzerkonto">
-<!ENTITY signIn.account2.accesskey   "A">
+<!ENTITY signIn.account2.accesskey   "B">
 <!ENTITY signIn.password.label      "Passwort">
 <!ENTITY signIn.password.accesskey  "P">
 <!ENTITY signIn.syncKey.label       "Sync-Schlüssel">

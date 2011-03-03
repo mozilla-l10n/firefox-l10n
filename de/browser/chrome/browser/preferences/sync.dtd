@@ -11,7 +11,7 @@
 
 <!-- Manage Account -->
 <!ENTITY manageAccount.label          "Benutzerkonto verwalten">
-<!ENTITY manageAccount.accesskey      "A">
+<!ENTITY manageAccount.accesskey      "B">
 <!ENTITY viewQuota.label              "Quota anzeigen">
 <!ENTITY changePassword.label         "Passwort ändern">
 <!ENTITY mySyncKey.label              "Mein Sync-Schlüssel">
