@@ -24,5 +24,5 @@
 <!ENTITY maintainStructure.accesskey "t">
 <!ENTITY useCSS.label "Místo HTML prvků a atributů použít kaskádové styly">
 <!ENTITY useCSS.accesskey "H">
-<!ENTITY crInPCreatesNewP.label "Stisk Enteru v odstavci vytvoří vždy nový odstavec">
+<!ENTITY crInPCreatesNewP.label "Stisk klávesy Enter v odstavci vytvoří nový odstavec">
 <!ENTITY crInPCreatesNewP.accesskey "E">
