@@ -77,7 +77,7 @@
 <!ENTITY Diskspace "Spás Diosca">
 <!ENTITY offlineCompact.label "Dlúthaigh fillteáin má sábhálfar níos mó ná">
 <!ENTITY offlineCompact.accesskey "a">
-<!ENTITY kb.label "kB">
+<!ENTITY mb.label "MB">
 <!-- LOCALIZATION NOTE:
   The entities useCacheBefore.label and useCacheAfter.label appear on a single
   line in preferences as follows:

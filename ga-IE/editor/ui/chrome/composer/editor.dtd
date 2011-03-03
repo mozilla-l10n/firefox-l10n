@@ -40,8 +40,11 @@
 <!ENTITY editorWindow.titlemodifier "Composer">
 <!ENTITY editorWindow.titlemodifiermenuseparator " - ">
 <!-- Menu items:  the . means that the menu item isn't implemented yet -->
-<!-- View menu items -->
+<!-- Toolbar-only items -->
 
+
+<!ENTITY compositionToolbar.tooltip "Barra Cumadóireachta">
+<!-- View menu items -->
 
 <!ENTITY viewMenu.label "Amharc">
 <!ENTITY viewMenu.accesskey "A">
