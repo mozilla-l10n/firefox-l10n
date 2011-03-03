@@ -67,7 +67,7 @@
 <!ENTITY addDevice.dialog.connected.label   "Gerät verbunden">
 
 <!-- Existing Account Page 2: Manual Login -->
-<!ENTITY setup.signInPage.title.label "Login">
+<!ENTITY setup.signInPage.title.label "Anmeldung">
 <!ENTITY existingSyncKey.description "Um eine Kopie Ihres Sync-Schlüssels zu erhalten, gehen Sie in die &syncBrand.shortName.label;-Einstellungen auf Ihrem anderen Gerät, und wählen Sie &#x0022;Mein Sync-Schlüssel&#x0022; unter &#x0022;Benutzerkonto verwalten&#x0022;.">
 
 <!ENTITY verifying.label              "Überprüfen…">
