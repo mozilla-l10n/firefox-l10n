@@ -31,6 +31,7 @@
 <!ENTITY smart.label "Programinstallation">
 <!ENTITY download.label "Hämtning av filer">
 <!ENTITY keynav.label "Tangentnavigering">
+<!ENTITY findAsYouType.label "Sök medan du skriver">
 <!ENTITY search.label "Sökning på Internet">
 <!ENTITY policies.label "Säkerhetsscheman">
 <!ENTITY mousewheel.label "Mushjul">

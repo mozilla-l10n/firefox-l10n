@@ -39,6 +39,11 @@
 
 <!--LOCALIZATION NOTE : FILE 'Privacy and Security' prefs settings -->
 <!ENTITY pref.security.title                      "Integritet och säkerhet">
+
+<!ENTITY tracking.label                   "Spåra användare">
+<!ENTITY doNotTrack.label                 "Meddela webbplatser att jag inte vill bli spårad">
+<!ENTITY doNotTrack.accesskey             "S">
+
 <!ENTITY privateData.label                "Personliga uppgifter">
 
 <!ENTITY alwaysClear.label                "Rensa alltid ut mina personliga uppgifter när &brandShortName; avslutas">
