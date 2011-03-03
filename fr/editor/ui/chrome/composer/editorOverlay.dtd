@@ -405,7 +405,6 @@
 
 <!-- toolbar-only items -->
 <!ENTITY menuBar.tooltip "Barre de menu">
-<!ENTITY compositionToolbar.tooltip "Barre d'outils de composition">
 <!ENTITY formatToolbar.tooltip "Barre d'outils de mise en forme">
 <!ENTITY newToolbarCmd.tooltip "Créer une nouvelle page">
 <!ENTITY openToolbarCmd.label "Ouvrir">
