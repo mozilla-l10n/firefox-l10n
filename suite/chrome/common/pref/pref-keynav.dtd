@@ -6,19 +6,11 @@
 <!ENTITY tabNavigationForms.accesskey "K">
 <!ENTITY tabNavigationTextboxes.label "Observera att textfält alltid utgör en del i tabulatorkedjan.">
 <!ENTITY tabNavigationDesc.label "När tab- eller skift- och tab-tangenterna trycks ned, flytta mellan:">
-<!ENTITY findAsYouTypeBehavior.label "Hitta medan du skriver">
-<!ENTITY findAsYouTypeTip.label "Tips: För att manuellt starta &quot;Hitta medan du skriver&quot; så skriv / för att hitta text eller ' för att hitta länkar, följt av texten som du vill hitta.">
-<!ENTITY findAsYouTypeTimeout.label "Avbryt sökandet efter några sekunders inaktivitet">
-<!ENTITY findAsYouTypeTimeout.accesskey "A">
-<!ENTITY findAsYouTypeSound.label "Ge en ljudsignal om texten inte hittas">
-<!ENTITY findAsYouTypeSound.accesskey "s">
-<!ENTITY findAsYouTypeEnableAuto.label "Hitta automatiskt när du skriver in på en webbsida:">
-<!ENTITY findAsYouTypeEnableAuto.accesskey "w">
-<!ENTITY findAsYouTypeAutoText.label "Vilken som helst text på sidan">
-<!ENTITY findAsYouTypeAutoText.accesskey "V">
-<!ENTITY findAsYouTypeAutoLinks.label "Länkar enbart">
-<!ENTITY findAsYouTypeAutoLinks.accesskey "ä">
-
-<!ENTITY findAsYouTypeFindbarEnable.label "Visa verktygsraden för sökningar när &quot;Hitta medan du skriver&quot; används">
-<!ENTITY findAsYouTypeFindbarEnable.accesskey "S">
-<!ENTITY findAsYouTypeFindbarEnableTip.label "Notera: &quot;Hitta medan du skriver&quot; utan att visa verktygsraden för sökningar klarar inte av internationella bokstäver.">
+<!ENTITY accessibilityBrowseWithCaret.label "Markörbläddring">
+<!ENTITY browseWithCaretDesc.label "Markörbläddring låter dig navigera och markera text på en webbsida genom att flytta en synlig markör med hjälp av piltangenterna.">
+<!ENTITY browseWithCaretUse.label "Använd markörbläddring">
+<!ENTITY browseWithCaretUse.accesskey "A">
+<!ENTITY browseWithCaretShortCut.label "Tryck på knappen F7 för att slå av och på markörbläddring">
+<!ENTITY browseWithCaretShortCut.accesskey "F">
+<!ENTITY browseWithCaretWarn.label "Varna mig innan markörbläddring slås igång">
+<!ENTITY browseWithCaretWarn.accesskey "V">
