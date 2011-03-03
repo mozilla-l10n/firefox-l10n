@@ -4,11 +4,6 @@
 
 
 <!ENTITY abouthome.pageTitle "Leathanach Tosaigh &brandFullName;">
-<!-- LOCALIZATION NOTE (abouthome.brandStart):
-     brandShortName must be in a <span/>
--->
-
-<!ENTITY abouthome.brandStart "Tosach <span>&brandShortName;</span>">
 
 <!ENTITY abouthome.searchEngineButton.label "Cuardaigh">
 
