@@ -25,13 +25,13 @@ was trying to connect. -->
 <!ENTITY certerror.getMeOutOfHere.label "Rychle odsud pryč!">
 
 <!ENTITY certerror.expert.heading "Vím, o co se jedná">
-<!ENTITY certerror.expert.content "Pokud chápete rizika, můžete &brandShortName; požádat o vyjímku a začít identifikaci tohoto serveru důvěřovat. <b>I když tomuto serveru důvěřujete, může tato chyba znamenat, že vám někdo odposlouchává připojení.</b>">
+<!ENTITY certerror.expert.content "Pokud chápete rizika, můžete &brandShortName; požádat o výjimku a začít identifikaci tohoto serveru důvěřovat. <b>I když tomuto serveru důvěřujete, může tato chyba znamenat, že vám někdo odposlouchává připojení.</b>">
 
 
 
-<!ENTITY certerror.expert.contentPara2 "Nepřidávejte vyjímku, pokud si nejste jisti, že tento server má dobrý důvod nepoužívat důvěryhodnou identifikaci.">
+<!ENTITY certerror.expert.contentPara2 "Nepřidávejte výjimku, pokud si nejste jisti, že tento server má dobrý důvod nepoužívat důvěryhodnou identifikaci.">
 
 <!ENTITY certerror.addTemporaryException.label "Přejít na stránku">
-<!ENTITY certerror.addPermanentException.label "Udělit trvale vyjímku…">
+<!ENTITY certerror.addPermanentException.label "Udělit trvale výjimku…">
 
 <!ENTITY certerror.technical.heading "Technické detaily">
