@@ -356,7 +356,6 @@
 <!ENTITY tableProperties.label "Свойства таблицы…">
 <!ENTITY tableProperties.accesskey "в">
 <!ENTITY menuBar.tooltip "Панель меню">
-<!ENTITY compositionToolbar.tooltip "Панель компоновки">
 <!ENTITY formatToolbar.tooltip "Панель форматирования">
 <!ENTITY newToolbarCmd.tooltip "Создать новую страницу Компоновщика">
 <!ENTITY openToolbarCmd.label "Открыть">
@@ -399,7 +398,7 @@
 <!ENTITY alignLeftButton.tooltip "Выравнивание текста по левому краю">
 <!ENTITY alignCenterButton.tooltip "Выравнивание текста по центру">
 <!ENTITY alignRightButton.tooltip "Выравнивание текста по правому краю">
-<!ENTITY alignjustifyButton.tooltip "Выравнивание текста по ширине">
+<!ENTITY alignJustifyButton.tooltip "Выравнивание текста по ширине">
 <!ENTITY NormalModeTab.label "Обычный">
 <!ENTITY NormalMode.label "Обычный режим редактирования">
 <!ENTITY NormalMode.accesskey "О">
