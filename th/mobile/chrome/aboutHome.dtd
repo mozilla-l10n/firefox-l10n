@@ -3,6 +3,13 @@
 <!ENTITY aboutHome.remoteTabs                   "แท็บจากคอมพิวเตอร์อื่นของคุณ">
 <!ENTITY aboutHome.recommendedAddons2           "ส่วนเสริมสำหรับ &brandShortName; ของคุณ">
 <!ENTITY aboutHome.giveFeedback                 "เสนอข้อติชม">
+<!ENTITY aboutHome.getHelp                      "ขอความช่วยเหลือ">
+<!ENTITY aboutHome.footerWidth                  "10em">
 <!ENTITY aboutHome.openAllTabs                  "เปิดทั้งหมดเป็นแท็บ">
 <!ENTITY aboutHome.noTabs                       "ไม่มีแท็บจากคราวที่แล้ว">
 <!ENTITY aboutHome.noAddons                     "ไม่มีส่วนเสริมแนะนำ">
+
+<!-- LOCALIZATION NOTE: 'Firefox Spark' is the official name of the promotion/constest and should not be translated     -->
+<!ENTITY aboutHome.promoLabel                   "Firefox Spark">
+<!-- LOCALIZATION NOTE: 'Play' should be translated in the context of 'playing a game' and not 'playing a video' -->
+<!ENTITY aboutHome.promoButton                  "เล่น">

@@ -26,6 +26,7 @@
 <!ENTITY historyHeader.label       "ประวัติ">
 <!ENTITY desktopHeader.label       "คอมพิวเตอร์">
 
+<!ENTITY editBookmarkDialog.title  "แก้ไขที่คั่นหน้า">
 <!ENTITY editBookmarkDone.label    "เสร็จ">
 <!ENTITY editBookmarkTags.label    "กรอกแท็กที่นี่">
 
@@ -108,7 +109,6 @@
 <!ENTITY pageactions.reset           "ล้างค่าปรับแต่งของเว็บไซต์">
 <!ENTITY pageactions.findInPage      "ค้นหาในหน้านี้">
 <!ENTITY pageactions.search.addNew   "เพิ่มเครื่องมือค้นหา">
-
-<!ENTITY selectHelper.emptytext      "รายการตัวกรอง">
+<!ENTITY pageactions.charEncoding    "การเข้ารหัสอักขระ">
 
 <!ENTITY appMenu.siteOptions         "ตัวเลือกเว็บไซต์">

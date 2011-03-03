@@ -1,12 +1,12 @@
-<!ENTITY firstrun.title                "Welcome to &brandShortName;">
-<!ENTITY firstrun.heading2             "Welcome to &brandShortName;">
-<!ENTITY firstrun.sync2.title          "Sync Up">
-<!ENTITY firstrun.sync2.description    "Login with your Sync account info and share your history, passwords, bookmarks &amp; tabs between your desktop and mobile">
-<!ENTITY firstrun.addons2.title        "Customize">
-<!ENTITY firstrun.addons2.description  "Discover and install add-ons to add new functionality to your &brandShortName;">
-<!ENTITY firstrun.home2.title          "Browse">
-<!ENTITY firstrun.home2.description    "Skip all this and go to your personalized Start page to start browsing the web">
-<!ENTITY firstrun.features             "See More Features">
-<!ENTITY firstrun.faq                  "FAQ">
-<!ENTITY firstrun.privacy              "Privacy Policy">
-<!ENTITY firstrun.follow               "Follow us on:">
+<!ENTITY firstrun.title                "ยินดีต้อนรับสู่ &brandShortName;">
+<!ENTITY firstrun.heading2             "ยินดีต้อนรับสู่ &brandShortName;">
+<!ENTITY firstrun.sync2.title          "เริ่ม Sync">
+<!ENTITY firstrun.sync2.description    "ล็อกอินด้วยบัญชี Sync ของคุณ และแชร์ประวัติการท่องเว็บ, รหัสผ่าน, ที่คั่นหน้าเว็บ และแท็บ ระหว่างอุปกรณ์พกพาและตั้งโต๊ะ">
+<!ENTITY firstrun.addons2.title        "ปรับแต่ง">
+<!ENTITY firstrun.addons2.description  "ค้นหาและติดตั้งส่วนเสริมเพื่อเพิ่มความสามารถให้ &brandShortName; ของคุณ">
+<!ENTITY firstrun.home2.title          "เรียกดู">
+<!ENTITY firstrun.home2.description    "ข้ามส่วนนี้ไปที่หน้าเริ่มต้นของคุณและเริ่มท่องเว็บ">
+<!ENTITY firstrun.features             "ดูความสามารถอื่น">
+<!ENTITY firstrun.faq                  "คำถามที่พบบ่อย">
+<!ENTITY firstrun.privacy              "นโยบายความเป็นส่วนตัว">
+<!ENTITY firstrun.follow               "ติดตามเราได้ที่:">

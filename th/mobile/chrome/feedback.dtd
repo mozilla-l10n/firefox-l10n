@@ -1,14 +1,14 @@
-<!ENTITY feedbackHeader.label           "Beta Tester Tools">
+<!ENTITY feedbackHeader2.label          "เครื่องมือ Feedback">
 
-<!ENTITY feedback.communicate.title     "Communicate to Us!">
-<!ENTITY feedback.feedback.title        "Give feedback">
-<!ENTITY feedback.feedback.good         "Good">
-<!ENTITY feedback.feedback.bad          "Bad">
+<!ENTITY feedback.communicate.title     "สื่อสารกับเรา!">
+<!ENTITY feedback.feedback.title        "ส่งข้อเสนอแนะ">
+<!ENTITY feedback.feedback.good         "ดี">
+<!ENTITY feedback.feedback.bad          "แย่">
 
-<!ENTITY feedback.information.title     "More Information">
-<!ENTITY feedback.about.title           "About this Beta">
-<!ENTITY feedback.about.button          "Go to Page">
+<!ENTITY feedback.information.title     "ข้อมูลเพิ่มเติม">
+<!ENTITY feedback.about.title           "เกี่ยวกับ Beta นี้">
+<!ENTITY feedback.about.button          "เปิดดู">
 
-<!ENTITY feedback.tools.title           "Tools">
-<!ENTITY feedback.forceCompat.title     "Force add-ons compatibility">
-<!ENTITY feedback.errorConsole.title    "Enable the Error Console">
+<!ENTITY feedback.tools.title           "เครื่องมือ">
+<!ENTITY feedback.forceCompat.title     "บังคับความเข้ากันได้ของส่วนเสริม">
+<!ENTITY feedback.errorConsole.title    "เปิดใช้งานคอนโซลข้อผิดพลาด">
