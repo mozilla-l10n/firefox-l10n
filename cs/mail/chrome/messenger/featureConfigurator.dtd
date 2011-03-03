@@ -18,7 +18,7 @@
 <!ENTITY featureConfigurator.toolbar.original "Zachovat původní tlačítka lišty">
 <!ENTITY featureConfigurator.toolbar.original.status.explanation "Spolu s novými tlačítky pošty zachová i vlastní tlačítka.">
 
-<!ENTITY featureConfigurator.toolbarBenefits.para "Tlačítka akcí zpráv jako odpovdět nebo přeposlat byla přesunuta z lišty do záhlaví zprávy, kde mohou být svázána přímo s danou zprávou. Toto uspořádání umožnuje v liště ponechat více místa pro rozšířené vyhledávací pole a tlačítka doplňků.">
+<!ENTITY featureConfigurator.toolbarBenefits.para "Tlačítka akcí zpráv jako odpovědět nebo přeposlat byla přesunuta z lišty do záhlaví zprávy, kde mohou být svázána přímo s danou zprávou. Toto uspořádání umožňuje v liště ponechat více místa pro rozšířené vyhledávací pole a tlačítka doplňků.">
 
 <!-- LOCALIZATION NOTE (featureConfigurator.addOn.installing): The text to display while installing the addon. -->
 <!ENTITY featureConfigurator.addOn.installing "Instalace…">
