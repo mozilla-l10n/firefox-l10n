@@ -31,7 +31,7 @@
 <!ENTITY importFromEpiphany.accesskey   "E">
 <!ENTITY importFromGaleon.label         "Galeon">
 <!ENTITY importFromGaleon.accesskey     "G">
-<!ENTITY importFromHTMLFile.label       "来自 HTML 文件">
+<!ENTITY importFromHTMLFile.label       "从一个 HTML 文件">
 <!ENTITY importFromHTMLFile.accesskey   "F">
 
 <!ENTITY noMigrationSources.label       "未找到包含书签，历史或密码数据的应用程序。">
