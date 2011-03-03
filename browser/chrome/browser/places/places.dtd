@@ -109,7 +109,7 @@
 
 <!ENTITY cmd.find.key  "f">
 
-<!ENTITY maintenance.label      "导入以及备份">
+<!ENTITY maintenance.label      "导入和备份">
 <!ENTITY maintenance.accesskey  "I">
 <!ENTITY maintenance.tooltip    "导入及备份您的书签">
 

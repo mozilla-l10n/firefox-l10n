@@ -262,7 +262,7 @@ can reach it easily. -->
 <!ENTITY viewSidebarMenu.accesskey "e">
 <!ENTITY viewCustomizeToolbar.label       "定制…"> 
 <!ENTITY viewCustomizeToolbar.accesskey     "C">
-<!ENTITY viewTabsOnTop.label            "Tabs on top">
+<!ENTITY viewTabsOnTop.label            "标签页置顶">
 <!ENTITY viewTabsOnTop.accesskey        "T">
 
 <!ENTITY historyMenu.label "历史">
