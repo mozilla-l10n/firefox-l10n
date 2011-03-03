@@ -5,7 +5,7 @@
 
 <!-- The page shown when logged in... -->
 <!ENTITY accountGroupboxCaption.label "Conta &syncBrand.fullName.label;">
-<!ENTITY currentAccount.label         "Conta Actual:">
+<!ENTITY accountName.label            "Nome da conta:">
 
 <!-- Login error feedback -->
 <!ENTITY updatePass.label             "Actualizar">
@@ -15,6 +15,7 @@
 
 <!-- Manage Account -->
 <!ENTITY manageAccount.label          "Gerir Conta">
+<!ENTITY manageAccount.accesskey      "a">
 <!ENTITY viewQuota.label              "Ver Quota">
 <!ENTITY viewQuota.accesskey          "V">
 <!ENTITY changePassword.label         "Mudar Senha">
@@ -27,11 +28,10 @@
 <!ENTITY stopUsingAccount.accesskey   "D">
 
 <!-- Sync Settings -->
-<!ENTITY syncPrefsCaption.label       "Sincronizar Navegador">
 <!ENTITY syncComputerName.label       "Nome do Computador:">
 <!ENTITY syncComputerName.accesskey   "N">
 
-<!ENTITY syncMy.label               "Sincronizar">
+<!ENTITY syncMy2.label               "Sincronizar">
 <!ENTITY engine.bookmarks.label     "Marcadores">
 <!ENTITY engine.bookmarks.accesskey "M">
 <!ENTITY engine.tabs.label          "Separadores">
