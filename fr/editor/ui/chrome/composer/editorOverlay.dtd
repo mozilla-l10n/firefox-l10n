@@ -449,7 +449,7 @@
 <!ENTITY alignLeftButton.tooltip "Aligner le texte sur la marge de gauche">
 <!ENTITY alignCenterButton.tooltip "Centrer le texte">
 <!ENTITY alignRightButton.tooltip "Aligner le texte sur la marge de droite">
-<!ENTITY alignjustifyButton.tooltip "Aligner le texte sur les marges droites et gauches">
+<!ENTITY alignJustifyButton.tooltip "Aligner le texte sur les marges droites et gauches">
 
 <!-- Display Mode Toolbar and View Menu items -->
 <!ENTITY NormalModeTab.label "Normal">
