@@ -1,28 +1,22 @@
-<!ENTITY prefsHeader.label                         "Preferences">
-<!ENTITY about.title                               "About &brandShortName;">
-<!ENTITY about.button                              "Go to Page">
-<!ENTITY content.title                             "Content">
-<!ENTITY showImages.title                          "Show images">
-<!ENTITY enableJavaScript.title                    "Enable JavaScript">
-<!ENTITY enablePlugins.title                       "Enable Plugins">
-<!ENTITY privacy.title                             "Privacy &amp; Security">
-<!ENTITY allowCookies.title                        "Allow cookies">
-<!ENTITY clearPrivateData2.title                   "Clear private data">
-<!ENTITY clearPrivateData.button                   "Clear">
-<!ENTITY rememberPasswords.title                   "Remember passwords">
-<!ENTITY language.title                            "Language">
-<!ENTITY language.auto                             "Auto-detect">
-<!ENTITY defaultBrowser.title                      "Default Browser">
-<!ENTITY defaultBrowser.description                "Make &brandShortName; your default browser">
-<!ENTITY homepage.title                            "Start page">
-<!ENTITY homepage.none                             "Blank Page">
-<!ENTITY homepage.default                          "&brandShortName; Start">
-<!ENTITY homepage.currentpage                      "Use Current Page">
-<!ENTITY sync.title                                "Sync">
-<!ENTITY sync.account2                             "Account Name">
-<!ENTITY sync.password                             "Password">
-<!ENTITY sync.syncKey                              "Sync Key">
-<!ENTITY sync.deviceName                           "Device Name">
-<!ENTITY sync.connect                              "Connect">
-<!ENTITY sync.disconnect                           "Disconnect">
-<!ENTITY sync.syncNow                              "Sync Now">
+<!ENTITY prefsHeader.label                         "ปรับแต่ง">
+<!ENTITY about.title                               "เกี่ยวกับ &brandShortName;">
+<!ENTITY about.button                              "เปิดดู">
+<!ENTITY content.title                             "เนื้อหา">
+<!ENTITY reflowZoom.title                          "ปรับการแสดงผลข้อความเมื่อย่อ-ขยาย">
+<!ENTITY showImages.title                          "แสดงรูป">
+<!ENTITY enableJavaScript.title                    "เปิดการทำงานของ JavaScript">
+<!ENTITY enablePlugins.title                       "เปิดการทำงานของโปรแกรมเสริม">
+<!ENTITY privacy.title                             "ความเป็นส่วนตัว &amp; ความปลอดภัย">
+<!ENTITY allowCookies.title                        "ยอมรับคุกกี้">
+<!ENTITY clearPrivateData2.title                   "ล้างข้อมูลส่วนตัว">
+<!ENTITY clearPrivateData.button                   "ล้าง">
+<!ENTITY rememberPasswords.title                   "จำรหัสผ่าน">
+<!ENTITY language.title                            "ภาษา">
+<!ENTITY language.auto                             "ตรวจสอบอัตโนมัติ">
+<!ENTITY defaultBrowser.title                      "เบราว์เซอร์ปริยาย">
+<!ENTITY defaultBrowser.description                "ทำให้ &brandShortName; เป็นเบราว์เซอร์ปริยายของคุณ">
+<!ENTITY homepage.title                            "หน้าเริ่มต้น">
+<!ENTITY homepage.none                             "หน้าเปล่า">
+<!ENTITY homepage.default                          "เริ่ม &brandShortName;">
+<!ENTITY homepage.currentpage                      "ใช้หน้าปัจจุบัน">
+<!ENTITY showCharset.title                         "แสดงการเข้ารหัสอักขระ">

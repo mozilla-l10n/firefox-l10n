@@ -1,0 +1,22 @@
+<!ENTITY sync.title                 "Sync">
+<!ENTITY sync.notconnected          "ไม่ได้เชื่อมต่อ">
+<!ENTITY sync.connect               "เชื่อมต่อ">
+<!ENTITY sync.connected             "เชื่อมต่ออยู่">
+<!ENTITY sync.details               "รายละเอียด">
+<!ENTITY sync.synchronize           "เปิดใช้งาน Sync">
+<!ENTITY sync.deviceName            "อุปกรณ์นี้">
+<!ENTITY sync.disconnect            "ตัดการเชื่อมต่อ">
+<!ENTITY sync.syncNow               "Sync ทันที">
+
+<!ENTITY sync.setup.title           "เชื่อมต่อกับ Sync">
+<!ENTITY sync.setup.jpake           "บนคอมพิวเตอร์ที่เชื่อมต่อกับ Firefox Sync ไว้แล้ว ไปที่ตัวเลือก Sync แล้วเลือก &#x0022;เพิ่มอุปกรณ์&#x0022;">
+<!ENTITY sync.fallback              "คอมพิวเตอร์ของฉันไม่ได้อยู่ใกล้มือ…">
+<!ENTITY sync.setup.manual          "กรอกรายละเอียดบัญชีผู้ใช้ Sync ของคุณ">
+<!ENTITY sync.account               "ชื่อบัญชี">
+<!ENTITY sync.password              "รหัสผ่าน">
+<!ENTITY sync.syncKey               "กุญแจ Sync">
+<!ENTITY sync.customServer          "ใช้เซิร์ฟเวอร์ที่กำหนดเอง">
+<!ENTITY sync.serverURL             "URL ของเซิร์ฟเวอร์">
+<!ENTITY sync.setup.connect         "เชื่อมต่อ">
+<!ENTITY sync.setup.cancel          "ยกเลิก">
+<!ENTITY sync.setup.tutorial        "บอกฉันว่าทำอย่างไร">

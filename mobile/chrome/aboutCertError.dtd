@@ -20,7 +20,7 @@ was trying to connect. -->
 <!ENTITY certerror.getMeOutOfHere.label "นำฉันออกไปจากที่นี่!">
 
 <!ENTITY certerror.expert.heading "ฉันเข้าใจถึงความเสี่ยง">
-<!ENTITY certerror.expert.content "ถ้าคุณเข้าใจว่าเกิดอะไรขึ้น คุณสามารถสั่งให้ &brandShortName; เชื่อถืออัตลักษณ์ของเว็บไซต์นี้ได้ <b>ถึงแม้ว่าคุณจะเชื่อถือเว็บไซต์นี้ แต่ข้อผิดพลาดนี้อาจเกิดจากบางคนกำลังแอบยุ่งกับการเชื่อมต่อของคุณอยู่</b>
+<!ENTITY certerror.expert.content "ถ้าคุณเข้าใจว่าเกิดอะไรขึ้น คุณสามารถสั่งให้ &brandShortName; เชื่อถืออัตลักษณ์ของเว็บไซต์นี้ได้ <b>ถึงแม้ว่าคุณจะเชื่อถือเว็บไซต์นี้ แต่ข้อผิดพลาดนี้อาจเกิดจากบางคนกำลังแอบยุ่งกับการเชื่อมต่อของคุณอยู่</b>">
 <!ENTITY certerror.expert.contentPara2 "อย่าเพิ่มข้อยกเว้นจนกว่าคุณจะรู้ว่าเว็บไซต์นี้มีเหตุผลอะไร ทำไมจึงไม่ใช้อัตลักษณ์แบบเชื่อถือได้">
 <!ENTITY certerror.addTemporaryException.label "เข้าสู่เว็บไซต์">
 <!ENTITY certerror.addPermanentException.label "เพิ่มข้อยกเว้นอย่างถาวร">

@@ -1,12 +1,12 @@
-<!ENTITY empty.label            "Search">
-<!ENTITY newpref.label          "Add a New Preference">
-<!ENTITY addpref.name           "Name">
-<!ENTITY addpref.value          "Value">
+<!ENTITY empty.label            "ค้นหา">
+<!ENTITY newpref.label          "เพิ่มค่าตั้งใหม่">
+<!ENTITY addpref.name           "ชื่อค่า">
+<!ENTITY addpref.value          "ค่า">
 
-<!ENTITY cancel.label           "Cancel">
-<!ENTITY reset.label            "Reset">
-<!ENTITY done.label             "Done">
+<!ENTITY cancel.label           "ยกเลิก">
+<!ENTITY reset.label            "ตั้งใหม่">
+<!ENTITY done.label             "เสร็จ">
 
-<!ENTITY integer.label          "Integer">
-<!ENTITY string.label           "String">
-<!ENTITY boolean.label          "Boolean">
+<!ENTITY integer.label          "จำนวนเต็ม">
+<!ENTITY string.label           "สตริง">
+<!ENTITY boolean.label          "ค่าตรรกะ">
