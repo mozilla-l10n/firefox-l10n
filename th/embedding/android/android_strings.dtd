@@ -1,0 +1,17 @@
+<!ENTITY  splash_screen_label "กำลังโหลด">
+<!ENTITY  splash_screen_installing "กำลังติดตั้งไลบรารี\u2026">
+<!ENTITY  incompatable_cpu_error "อุปกรณ์นี้ไม่ได้ตามความต้องการขั้นต่ำของระบบสำหรับ &brandShortName;.">
+<!ENTITY  no_space_to_start_error "มีเนื้อที่ไม่พอสำหรับการเริ่มการทำงานของ &brandShortName;">
+<!ENTITY  error_loading_file "เกิดความผิดพลาดในการโหลดแฟ้มที่จำเป็นในการเรียกใช้งาน &brandShortName;">
+
+<!ENTITY  crash_reporter_title "ตัวแจ้งข้อขัดข้อง &brandShortName;">
+<!ENTITY  crash_message "&brandShortName; หยุดการทำงาน แท็บที่คุณเปิดไว้จะแสดงเป็นรายการในหน้าเริ่มต้นของ &brandShortName; เมื่อเริ่มทำงานใหม่อีกครั้ง">
+<!ENTITY  crash_help_message "โปรดช่วยเราแก้ไขปัญหานี้!">
+<!ENTITY  crash_send_report_message "ส่งรายงานข้อขัดข้องให้ Mozilla">
+<!ENTITY  crash_include_url "รวมทั้งที่ตั้งของหน้าเว็บนี้ด้วย">
+<!ENTITY  crash_close_label "ปิด">
+<!ENTITY  crash_restart_label "เริ่มการทำงาน &brandShortName; ใหม่">
+<!ENTITY  sending_crash_report "ส่งรายงานข้อขัดข้อง\u2026">
+<!ENTITY  exit_label "ออก">
+<!ENTITY  incompatable_device "&brandShortName; ไม่รองรับอุปกรณ์นี้ และคุณอาจพบปัญหาในการใช้งาน">
+<!ENTITY  continue_label "ทำต่อ">
