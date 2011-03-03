@@ -172,6 +172,8 @@
 <!ENTITY calendar.task-details.category.label "catagóir">
 <!ENTITY calendar.task-details.repeat.label "athdhéanamh">
 <!ENTITY calendar.task-details.attachments.label "iatáin">
+<!ENTITY calendar.task-details.start.label "start date">
+<!ENTITY calendar.task-details.due.label "due date">
 
 <!ENTITY calendar.task.category.button.tooltip "Catagóirigh tascanna">
 <!ENTITY calendar.task.complete.button.tooltip "Marcáil na tascanna roghnaithe mar chríochnaithe">
@@ -189,34 +191,22 @@
 <!ENTITY calendar.context.newevent.accesskey "N">
 <!ENTITY calendar.context.newtodo.label "Tasc Nua…">
 <!ENTITY calendar.context.newtodo.accesskey "c">
-<!ENTITY calendar.context.modifytask.label "Cuir Tasc in Eagar…">
-<!ENTITY calendar.context.modifytask.accesskey "E">
-<!ENTITY calendar.context.modifyitem.label "Cuir Mír in Eagar…">
-<!ENTITY calendar.context.modifyitem.accesskey "C">
 <!ENTITY calendar.context.deletetask.label "Scrios Tasc">
 <!ENTITY calendar.context.deletetask.accesskey "S">
-<!ENTITY calendar.context.deleteitem.label "Scrios">
-<!ENTITY calendar.context.deleteitem.accesskey "c">
 <!ENTITY calendar.context.deleteevent.label "Scrios Imeacht">
 <!ENTITY calendar.context.deleteevent.accesskey "I">
-<!ENTITY calendar.context.deletethisevent.label "An tImeacht Seo">
-<!ENTITY calendar.context.deletethisevent.accesskey "S">
-<!ENTITY calendar.context.deletecompleteseries.label "Sraith Iomlán">
-<!ENTITY calendar.context.deletecompleteseries.accesskey "S">
-<!ENTITY calendar.context.deletefutureevents.label "Gach imeacht as seo amach">
-<!ENTITY calendar.context.deletefutureevents.accesskey "a">
-<!ENTITY calendar.context.deletefuturetasks.label "Gach tasc as seo amach">
-<!ENTITY calendar.context.deletefuturetasks.accesskey "a">
 <!ENTITY calendar.context.cutevent.label "Gearr">
 <!ENTITY calendar.context.cutevent.accesskey "G">
 <!ENTITY calendar.context.copyevent.label "Cóipeáil">
 <!ENTITY calendar.context.copyevent.accesskey "C">
 <!ENTITY calendar.context.pasteevent.label "Greamaigh">
 <!ENTITY calendar.context.pasteevent.accesskey "r">
-<!ENTITY calendar.context.selectall.label "Roghnaigh Uile">
-<!ENTITY calendar.context.selectall.accesskey "U">
 <!ENTITY calendar.context.button.label "Pána an Lae Inniu">
 <!ENTITY calendar.context.button.accesskey "P">
+<!ENTITY calendar.context.attendance.menu.label "Attendance">
+<!ENTITY calendar.context.attendance.menu.accesskey "d">
+<!ENTITY calendar.context.attendance.occurrence.label "This Occurrence">
+<!ENTITY calendar.context.attendance.all.label "All Occurrences">
 <!-- Task Context Menu -->
 
 <!ENTITY calendar.context.progress.label "Dul Chun Cinn">
@@ -249,6 +239,12 @@
 <!ENTITY priority.level.normal.accesskey "N">
 <!ENTITY priority.level.high "Ard">
 <!ENTITY priority.level.high.accesskey "A">
+<!-- Task View -->
+<!-- Note that the above *.context.* strings are currently used for the other
+     task action buttons -->
+
+<!ENTITY calendar.taskview.delete.label "Scrios">
+<!ENTITY calendar.taskview.delete.accesskey "c">
 <!-- Server Context Menu -->
 
 <!ENTITY calendar.context.newserver.label "Féilire Nua…">

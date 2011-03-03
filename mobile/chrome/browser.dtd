@@ -109,7 +109,6 @@
 <!ENTITY pageactions.reset "Glan Sainroghanna an tSuímh">
 <!ENTITY pageactions.findInPage "Aimsigh sa Leathanach">
 <!ENTITY pageactions.search.addNew "Inneall Cuardaigh Nua">
-
-<!ENTITY selectHelper.emptytext "Scag an Liosta">
+<!ENTITY pageactions.charEncoding "Ionchódú Carachtar">
 
 <!ENTITY appMenu.siteOptions "Roghanna an tSuímh">

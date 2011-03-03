@@ -15,3 +15,6 @@ Cabhraigh linn, le do thoil, chun an fhadhb a réiteach!">
 <!ENTITY crash_restart_label "Atosaigh &brandShortName;">
 <!ENTITY sending_crash_report "Tuairisc ar thuairteáil á seoladh\u2026">
 <!ENTITY exit_label "Scoir">
+<!ENTITY incompatable_device "Ní thacaíonn &brandShortName; leis an ngléas seo agus seans go mbeidh 
+fadhbanna agat.">
+<!ENTITY continue_label "Ar Aghaidh">

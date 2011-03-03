@@ -406,7 +406,6 @@
 <!-- Toolbar-only items -->
 
 <!ENTITY menuBar.tooltip "Barra Roghchláir">
-<!ENTITY compositionToolbar.tooltip "Barra Cumadóireachta">
 <!ENTITY formatToolbar.tooltip "Barra Uirlisí Formáidithe">
 <!ENTITY newToolbarCmd.tooltip "Cruthaigh leathanach nua Cumadóra">
 <!ENTITY openToolbarCmd.label "Oscail">
@@ -451,7 +450,7 @@
 <!ENTITY alignLeftButton.tooltip "Ailínigh téacs ar an imeall clé">
 <!ENTITY alignCenterButton.tooltip "Ailínigh téacs sa lár">
 <!ENTITY alignRightButton.tooltip "Ailínigh téacs ar an imeall deas">
-<!ENTITY alignjustifyButton.tooltip "Ailínigh téacs ar na himill chlé agus dheas">
+<!ENTITY alignJustifyButton.tooltip "Ailínigh téacs ar na himill chlé agus dheas">
 <!-- Display Mode toolbar and View menu items -->
 
 <!ENTITY NormalModeTab.label "Gnách">
