@@ -15,6 +15,7 @@
 
 <!-- Manage Account -->
 <!ENTITY manageAccount.label          "Gestion du compte">
+<!ENTITY manageAccount.accesskey      "G">
 <!ENTITY viewQuota.label              "Afficher le quota">
 <!ENTITY viewQuota.accesskey          "A">
 <!ENTITY changePassword.label         "Modifier le mot de passe">
