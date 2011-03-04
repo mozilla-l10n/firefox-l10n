@@ -5,10 +5,21 @@
 <!-- File Menu -->
 <!ENTITY newFolderCmd.label "Ordner…">
 <!ENTITY newFolderCmd.accesskey "d">
-<!ENTITY closeTabCmd.label "Tab schließen">
-<!ENTITY closeTabCmd.accesskey "s">
-<!ENTITY closeOtherTabsCmd.label "Andere Tabs schließen">
-<!ENTITY closeOtherTabsCmd.accesskey "A">
+<!ENTITY closeTabCmd2.label "Tab schließen">
+<!ENTITY closeTabCmd2.accesskey "c">
+<!ENTITY closeOtherTabsCmd2.label "Andere Tabs schließen">
+<!ENTITY closeOtherTabsCmd2.accesskey "A">
+<!-- LOCALIZATION NOTE (undoCloseTabCmd.label):
+     Menu option to attempt to re-open a recently closed tab.
+     -->
+<!ENTITY undoCloseTabCmd.label "Geschlossenen Tab wiederherstellen">
+<!ENTITY undoCloseTabCmd.accesskey "G">
+<!-- LOCALIZATION NOTE (moveToNewWindow.label):
+     Menu option to cause the current tab to be migrated to a new Thunderbird
+     window.
+     -->
+<!ENTITY moveToNewWindow.label "In neues Fenster verschieben">
+<!ENTITY moveToNewWindow.accesskey "n">
 <!ENTITY newVirtualFolderCmd.label "Virtueller Ordner…">
 <!ENTITY newVirtualFolderCmd.accesskey "V">
 <!ENTITY newOtherAccountsCmd.label "Anderes Konto…">
