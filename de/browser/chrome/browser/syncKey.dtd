@@ -1,7 +1,7 @@
 <!ENTITY syncKey.page.title               "Ihr &syncBrand.fullName.label;-Schlüssel">
 <!ENTITY syncKey.page.description         "Dieser Schlüssel wird verwendet, um die Daten in Ihrem &syncBrand.fullName.label;-Benutzerkonto zu dekodieren. Sie benötigen diesen Schlüssel jedes mal, wenn Sie &syncBrand.fullName.label; auf einem neuen Computer oder Gerät einrichten.">
 <!ENTITY syncKey.keepItSecret.heading     "Halten Sie ihn geheim">
-<!ENTITY syncKey.keepItSecret.description "Ihr &syncBrand.fullName.label;-Account ist verschlüsselt, um Ihre Privatsphäre zu wahren. Ohne diesen Schlüssel würde es Jahre dauern, Ihre persönlichen Daten zu entschlüsseln. Sie sind die einzige Person, die diesen Schlüssel kennt. Das bedeutet, Sie sind die einzige Person, die auf Ihre &syncBrand.fullName.label;-Daten zugreifen kann. ">
+<!ENTITY syncKey.keepItSecret.description "Ihr &syncBrand.fullName.label;-Benutzerkonto ist verschlüsselt, um Ihre Privatsphäre zu wahren. Ohne diesen Schlüssel würde es Jahre dauern, Ihre persönlichen Daten zu entschlüsseln. Sie sind die einzige Person, die diesen Schlüssel kennt. Das bedeutet, Sie sind die einzige Person, die auf Ihre &syncBrand.fullName.label;-Daten zugreifen kann. ">
 <!ENTITY syncKey.keepItSafe.heading       "Bewahren Sie ihn gut auf">
 <!ENTITY syncKey.keepItSafe1.description  "Verlieren Sie diesen Schlüssel nicht.">
 <!ENTITY syncKey.keepItSafe2.description  " Wir bewahren keine Kopie Ihre Schlüssels auf (das wäre nicht sicher). ">
