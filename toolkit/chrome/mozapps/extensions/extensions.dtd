@@ -47,9 +47,9 @@
 <!ENTITY updates.viewUpdates.accesskey "م">
 <!ENTITY updates.updateAddonsAutomatically.label "به‌هنگام‌سازی خودکار همهٔ افزودنی‌ها">
 <!ENTITY updates.updateAddonsAutomatically.accesskey "ب">
-<!ENTITY updates.resetUpdatesToAutomatic.label "به‌هنگام‌سازی خودکار همهٔ افزودنی‌ها">
+<!ENTITY updates.resetUpdatesToAutomatic.label "بازگرداندن همهٔ افزودنی‌ها به به‌هنگام‌سازی خودکار">
 <!ENTITY updates.resetUpdatesToAutomatic.accesskey "خ">
-<!ENTITY updates.resetUpdatesToManual.label "به‌هنگام‌سازی دستی همهٔ افزودنی‌ها">
+<!ENTITY updates.resetUpdatesToManual.label "بازگرداندن همهٔ افزودنی‌ها به به‌هنگام‌سازی دستی">
 <!ENTITY updates.resetUpdatesToManual.accesskey "د">
 <!ENTITY updates.updating.label "در حال به‌هنگام‌سازی افزودنی‌ها">
 <!ENTITY updates.installed.label "افزودنی‌های شما به‌هنگام شدند.">
