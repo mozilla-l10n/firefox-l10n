@@ -8,8 +8,8 @@
   &rememberBefore.label  [ textbox for number of days ]   &rememberAfter.label;
 -->
 
-<!ENTITY  acceptCookies.label           "අඩෙවිවල කුකී පිළිගන්න">
-<!ENTITY  acceptCookies.accesskey       "c">
+<!ENTITY  acceptCookies.label           "අඩවි වෙතින් කුකී පිළිගන්න">
+<!ENTITY  acceptCookies.accesskey       "A">
 
 <!ENTITY  keepUntil.label               "තාබාගත යුත්තේ:">
 <!ENTITY  keepUntil.accesskey           "K">
@@ -26,7 +26,7 @@
 
 
 <!ENTITY  historyHeader.pre.label          "&brandShortName; :">
-<!ENTITY  historyHeader.pre.accesskey      "F">
+<!ENTITY  historyHeader.pre.accesskey      "f">
 <!ENTITY  historyHeader.remember.label     "අතීතය මතක තබාගන්න">
 <!ENTITY  historyHeader.dontremember.label "කිසිවිටෙක අතීතය මතක තබා නොගන්න">
 <!ENTITY  historyHeader.custom.label       "අතීතය සඳහා රිසිකරණ සැකසුම් භාවිතා කරන්න">
@@ -69,7 +69,7 @@
 <!ENTITY  clearOnCloseSettings.accesskey "t">
 
 <!ENTITY  acceptThirdParty.label        "මෙම තෙවන පාර්‍ශවික කුකිය අනුමත කරන්න">
-<!ENTITY  acceptThirdParty.accesskey    "p">
+<!ENTITY  acceptThirdParty.accesskey    "c">
 <!ENTITY  locbar.pre.label              "පිහිටුමෙ තීරුව භාවිත කරන විට, යෝජනා කරන්න:">
 <!ENTITY  locbar.pre.accessKey          "l">
 <!ENTITY  locbar.post.label             "">
