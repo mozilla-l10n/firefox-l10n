@@ -20,18 +20,18 @@
 <!ENTITY  fontsAndColors.label        "قلم‌ها و رنگ‌ها">
 
 <!ENTITY  defaultFont.label           "قلم پیش‌فرض:">
-<!ENTITY  defaultFont.accesskey       "پ">
+<!ENTITY  defaultFont.accesskey       "ض">
 <!ENTITY  defaultSize.label           "اندازه:">
 <!ENTITY  defaultSize.accesskey       "ن">
 
 <!ENTITY  advancedFonts.label         "پیشرفته…">
-<!ENTITY  advancedFonts.accesskey     "پ">
+<!ENTITY  advancedFonts.accesskey     "ش">
 
 <!ENTITY  colors.label                "رنگ‌ها…">
-<!ENTITY  colors.accesskey            "ر">
+<!ENTITY  colors.accesskey            "گ">
 
 
 <!ENTITY languages.label              "زبان‌ها">
 <!ENTITY chooseLanguage.label         "زبان مورد علاقهٔ خود را برای نمایش صفحات انتخاب کنید">
 <!ENTITY chooseButton.label           "انتخاب…">
-<!ENTITY chooseButton.accesskey       "ا">
+<!ENTITY chooseButton.accesskey       "خ">

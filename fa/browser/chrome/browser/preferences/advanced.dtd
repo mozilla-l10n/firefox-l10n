@@ -5,18 +5,18 @@
 <!ENTITY accessibility.label             "دسترسی‌پذیری">
 
 <!ENTITY useCursorNavigation.label       "در مرور صفحات همیشه از مکان‌نما استفاده شود">
-<!ENTITY useCursorNavigation.accesskey   "م">
+<!ENTITY useCursorNavigation.accesskey   "ص">
 <!ENTITY searchStartTyping.label         "هنگامی که شروع به وارد کردن حروف می‌کنم، به دنبال متن جست‌وجو شود">
 <!ENTITY searchStartTyping.accesskey     "ج">
 <!ENTITY blockAutoRefresh.label          "هنگامی که پایگاه‌های وبی تلاش می‌کنند صفحه را بازآوری کنند یا تغییر مسیر دهند، هشدار داده شود">
-<!ENTITY blockAutoRefresh.accesskey      "ه">
+<!ENTITY blockAutoRefresh.accesskey      "ب">
 
 <!ENTITY browsing.label                  "مرور">
 
 <!ENTITY useAutoScroll.label             "استفاده از لغزش خودکار">
 <!ENTITY useAutoScroll.accesskey         "ل">
 <!ENTITY useSmoothScrolling.label        "استفاده از لغزش هموار">
-<!ENTITY useSmoothScrolling.accesskey    "ه">
+<!ENTITY useSmoothScrolling.accesskey    "غ">
 <!ENTITY allowHWAccel.label "استفاده از شتاب‌دهنده‌های سخت‌افزاری در صورت وجود">
 <!ENTITY allowHWAccel.accesskey "ش">
 <!ENTITY checkSpelling.label             "بررسی املا در هنگام وارد کردن متن">
@@ -26,7 +26,7 @@
 
 <!ENTITY systemDefaults.label            "پیش‌فرض‌های سیستم">
 <!ENTITY alwaysCheckDefault.label        "همیشه هنگام شروع بررسی شود که آیا &brandShortName; مرورگر پیش‌فرض است یا خیر"><!--XXX-->
-<!ENTITY alwaysCheckDefault.accesskey    "ه">
+<!ENTITY alwaysCheckDefault.accesskey    "پ">
 <!ENTITY checkNow.label                  "هم‌اکنون بررسی شود">
 <!ENTITY checkNow.accesskey              "ه">
 <!ENTITY submitCrashes.label             "ارسال گزارش‌های فروپاشی">
@@ -76,7 +76,7 @@
 <!ENTITY updateHistory.accesskey         "ت">
 
 <!ENTITY offlineNotify.label             "هنگامی که یک پایگاه وبی تلاش می‌کند اطلاعاتی برای استفادهٔ غیر متصل ذخیره کند، من را مطلع کن">
-<!ENTITY offlineNotify.accesskey         "ه">
+<!ENTITY offlineNotify.accesskey         "ط">
 <!ENTITY offlineNotifyExceptions.label   "استثناها…">
 <!ENTITY offlineNotifyExceptions.accesskey "ا">
 

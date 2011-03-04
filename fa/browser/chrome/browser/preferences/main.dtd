@@ -28,7 +28,7 @@
 <!ENTITY chooseFolderMac.label        "انتخاب…">
 <!ENTITY chooseFolderMac.accesskey    "ا">
 <!ENTITY alwaysAsk.label "محل ذخیرهٔ هر پرونده سؤال شود">
-<!ENTITY alwaysAsk.accesskey "م">
+<!ENTITY alwaysAsk.accesskey "ح">
 
 <!ENTITY addonsMgr.label               "افزودنی‌ها">
 <!ENTITY manageAddonsDescWin.label     "تغییر تنظیمات افزودنی‌ها">
