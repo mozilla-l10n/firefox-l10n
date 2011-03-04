@@ -2,7 +2,7 @@
 <!ENTITY setupButton.accesskey "ت">
 <!ENTITY weaveDesc.label "&syncBrand.fullName.label; به شما امکان دسترسی به تاریخچه، نشانک‌ها، گذرواژه‌ها و زبانه‌های باز در رایانه‌های دیگرتان را می‌دهد.">
 <!ENTITY updatePass.label "به‌هنگام‌سازی">
-<!ENTITY resetPass.label "پاک کردن">
+<!ENTITY resetPass.label "ایجاد مجدد">
 <!ENTITY manageAccount.label "تنظیم حساب کاربری">
 <!ENTITY manageAccount.accesskey "ح">
 <!ENTITY viewQuota.label "مشاهدهٔ فضای مصرفی">
