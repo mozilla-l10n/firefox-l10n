@@ -3,10 +3,14 @@
 <!ENTITY titleSeparator.label  " - ">
 
 <!-- Tab context menu -->
-<!ENTITY closeTabCmd.label           "Zamknij kartę">
-<!ENTITY closeTabCmd.accesskey       "Z">
-<!ENTITY closeOtherTabsCmd.label     "Zamknij inne karty">
-<!ENTITY closeOtherTabsCmd.accesskey "e">
+<!ENTITY closeTabCmd2.label           "Zamknij kartę">
+<!ENTITY closeTabCmd2.accesskey       "Z">
+<!ENTITY closeOtherTabsCmd2.label     "Zamknij inne karty">
+<!ENTITY closeOtherTabsCmd2.accesskey "e">
+<!ENTITY undoCloseTabCmd.label        "Przywróć zamkniętą kartę">
+<!ENTITY undoCloseTabCmd.accesskey    "P">
+<!ENTITY moveToNewWindow.label        "Przenieś do nowego okna">
+<!ENTITY moveToNewWindow.accesskey    "n">
 
 <!-- File Menu -->
 <!ENTITY newNewMsgCmd.label             "Wiadomość">
