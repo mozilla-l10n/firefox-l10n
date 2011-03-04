@@ -384,7 +384,7 @@
 <!ENTITY reloadFrameCmd.label         "फ्रेम फिर लोड करें">
 <!ENTITY reloadFrameCmd.accesskey     "R">
 <!ENTITY viewPartialSourceForSelectionCmd.label "चयन स्रोत देखें">
-<!ENTITY viewPartialSourceForMathMLCmd.label    "MathML स्रोत देखें">
+<!ENTITY viewPartialSourceForMathMLCmd.label    "मैथएमएल स्रोत देखें">
 <!ENTITY viewPartialSourceCmd.accesskey "e">
 <!ENTITY viewPageSourceCmd.label      "पृष्ठ स्रोत देखें">
 <!ENTITY viewPageSourceCmd.accesskey  "V">
@@ -593,11 +593,11 @@ just addresses the organization to follow, e.g. "This site is run by " -->
 <!ENTITY appMenuButton.tooltip        "&brandShortName; मेन्यू खोलें">
 
 
-<!ENTITY appMenuEdit.label "Edit">
+<!ENTITY appMenuEdit.label "संपादन">
 <!ENTITY appMenuCustomize.label "पसंदीदा करें">
 <!ENTITY appMenuToolbarLayout.label "औज़ारपट्टी ख़ाका…">
-<!ENTITY appMenuSidebars.label "Sidebars">
-<!ENTITY appMenuFind.label "Find…">
+<!ENTITY appMenuSidebars.label "बाज़ूपट्टी">
+<!ENTITY appMenuFind.label "ढूँढ़ें…">
 <!ENTITY appMenuUnsorted.label "बिना छाँटा पुस्तचिह्न">
 <!ENTITY appMenuWebDeveloper.label "वेब डेवलेपर">
 <!ENTITY appMenuGettingStarted.label "आरंभन">
