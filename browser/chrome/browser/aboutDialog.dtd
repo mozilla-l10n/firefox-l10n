@@ -1,14 +1,14 @@
 <!ENTITY aboutDialog.title          "Ngokuphathelene ne-&brandFullName;">
 
-<!ENTITY community.start2           "I-&brandShortName; yenzwe ngu">
+<!ENTITY community.start2           "I-&brandShortName; yenzwe ngu  ">
 <!-- LOCALIZATION NOTE (community.mozillaLink): This is a link title that links to http://www.mozilla.org/. -->
 <!ENTITY community.mozillaLink      "i-&vendorShortName;">
-<!ENTITY community.middle2          ", a">
+<!ENTITY community.middle2          ", a ">
 <!-- LOCALIZATION NOTE (community.creditsLink): This is a link title that links to about:credits. -->
 <!ENTITY community.creditsLink      "umphakathi womhlaba">
 <!ENTITY community.end2             "ngokusebenzisana ukwenza i-inthanethi ukuba ibe ngcono. Sikholelwa ukuba i-inthanethi kumele ivuleleke, ibe sesidlangalaleni, futhi ifinyeleleke kuwo wonke umuntu ngaphandle kwemikhawulo.">
 
-<!ENTITY contribute.start           "Kubonakala kuheha?">
+<!ENTITY contribute.start           "Kubonakala kuheha? ">
 <!-- LOCALIZATION NOTE (contribute.getInvolvedLink): This is a link title that links to http://www.mozilla.org/contribute/. -->
 <!ENTITY contribute.getInvolvedLink "Zibandakanye!">
 <!ENTITY contribute.end             "">
@@ -36,7 +36,7 @@
      the latest version of Firefox (e.g. http://www.firefox.com). As this is all in
      one line, try to make the localized text short (see bug 596813 for screenshots). -->
 
-<!ENTITY update.failed.start        "Ukuvuselelwa kuhlulekile.">
+<!ENTITY update.failed.start        "Ukuvuselelwa kuhlulekile. ">
 <!ENTITY update.failed.linkText     "Layisha ubuyekezo lwakamuva">
 <!ENTITY update.failed.end          "">
 <!-- LOCALIZATION NOTE (update.manual.start,update.manual.end): update.manual.start and update.manual.end
@@ -44,7 +44,7 @@
      to download the latest version of Firefox (e.g. http://www.firefox.com). As this is all in one line,
      try to make the localized text short (see bug 596813 for screenshots). -->
 
-<!ENTITY update.manual.start        "Ukuvuselelwa kutholakala e">
+<!ENTITY update.manual.start        "Ukuvuselelwa kutholakala ku- ">
 <!ENTITY update.manual.end          "">
 <!-- LOCALIZATION NOTE (update.downloading.start,update.downloading.end): update.downloading.start and 
      update.downloading.end all go into one line, with the amount downloaded inserted in between. As this
@@ -52,5 +52,5 @@
      the "em dash" (long dash).
      example: Downloading update — 111 KB of 13 MB -->
 
-<!ENTITY update.downloading.start   "Kulayishwa ukuvuselelwa -">
+<!ENTITY update.downloading.start   "Kulayishwa ukuvuselelwa — ">
 <!ENTITY update.downloading.end     "">

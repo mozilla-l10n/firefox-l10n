@@ -7,8 +7,8 @@
 <!ENTITY removepermission.accesskey   "S">
 <!ENTITY removeallpermissions.label   "Susa Zonke Izingosi">
 <!ENTITY removeallpermissions.accesskey "u">
-<!ENTITY address.label                "Ikheli lengosi yewebhu:">
-<!ENTITY address.accesskey            "d">
+<!ENTITY address.label                "Ikheli lengosi yewebhusayithi:">
+<!ENTITY address.accesskey            "k">
 <!ENTITY block.label                  "Vimbela">
 <!ENTITY block.accesskey              "V">
 <!ENTITY session.label                "Vumela Kule Nkathi">

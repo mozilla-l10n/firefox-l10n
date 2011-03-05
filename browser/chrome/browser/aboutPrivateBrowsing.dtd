@@ -4,11 +4,11 @@
 <!ENTITY privatebrowsingpage.issueDesc                 "I-&brandShortName; ngeke ikhumbule umlando walesi sikhathi.">
 <!ENTITY privatebrowsingpage.issueDesc.normal          "I-&brandShortName; okwamanje ayikho esimeni sokudlulisa amehlo okuyimfihlo.">
 
-<!ENTITY privatebrowsingpage.description               "Esikhathini sokudlulisa amehlo ukuyimfuhlo, i-&brandShortName; ngeke igcine umlando wesiphequluli, amakhukhi, nom amafayela wokwesikhashana wei-inthanethi.  Noma kunkjalo, amafayela owalayishayo futhi nokubekwe uphawu lokubekisa okwenzayo kuzogcinwa.">
+<!ENTITY privatebrowsingpage.description               "Esikhathini sokudlulisa amehlo ukuyimfihlo, i-&brandShortName; ngeke igcine umlando wesiphequluli, amakhukhi, nom amafayela wokwesikhashana we-inthanethi. Noma kunjalo, amafayela owalayishayo futhi nokubekwe uphawu lokubekisa okwenzayo kuzogcinwa.">
 <!-- LOCALIZATION NOTE (privatebrowsingpage.clearRecentHistoryBefore): include a trailing space as needed -->
 <!-- LOCALIZATION NOTE (privatebrowsingpage.clearRecentHistoryAfter): include a starting space as needed -->
 
-<!ENTITY privatebrowsingpage.clearRecentHistoryBefore  "Ungafuna ukuqala futhi ngoku ">
+<!ENTITY privatebrowsingpage.clearRecentHistoryBefore  "Ungafuna ukuqala futhi ngoku">
 <!ENTITY privatebrowsingpage.clearRecentHistoryInner   "ukusula umlando wakho wamanje">
 <!ENTITY privatebrowsingpage.clearRecentHistoryAfter   ".">
 

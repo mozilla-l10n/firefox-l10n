@@ -14,15 +14,15 @@
 <!ENTITY  blockWebForgeries.label     "Vimba ukumbumbuluza kwe webhu okubikiwe">
 <!ENTITY  blockWebForgeries.accesskey "V">
 
-<!ENTITY  addonExceptions.label         "Okuhlukile...">
-<!ENTITY  addonExceptions.accesskey     "O">
+<!ENTITY  addonExceptions.label         "Okuhlukile…">
+<!ENTITY  addonExceptions.accesskey     "k">
 
 
-<!ENTITY  passwords.label               "Amagama Okungena">
+<!ENTITY  passwords.label               "Amagama wokungena">
 
-<!ENTITY  rememberPasswords.label       "Khumbula amaphasiwedi wamasayithi">
+<!ENTITY  rememberPasswords.label       "Khumbula amagama wokungena wamasayithi">
 <!ENTITY  rememberPasswords.accesskey   "K">
-<!ENTITY  passwordExceptions.label      "Okuhlukile...">
+<!ENTITY  passwordExceptions.label      "Okuhlukile…">
 <!ENTITY  passwordExceptions.accesskey  "k">
 
 <!ENTITY  useMasterPassword.label        "Sebenzisa igama lokungena eliphethe">
@@ -30,5 +30,5 @@
 <!ENTITY  changeMasterPassword.label     "Shintsha igama lokungena eliphethe…">
 <!ENTITY  changeMasterPassword.accesskey "e">
 
-<!ENTITY  savedPasswords.label            "Amagama wokungena agciniwe...">
+<!ENTITY  savedPasswords.label            "Amagama wokungena agciniwe…">
 <!ENTITY  savedPasswords.accesskey        "w">

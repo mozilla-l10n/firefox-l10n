@@ -1,16 +1,16 @@
-<!ENTITY networkPanel.requestURL                  "Request URL">
-<!ENTITY networkPanel.requestMethod               "Request Method">
-<!ENTITY networkPanel.statusCode                  "Status Code">
+<!ENTITY networkPanel.requestURL                  "Cela i-URL">
+<!ENTITY networkPanel.requestMethod               "Cela indlela">
+<!ENTITY networkPanel.statusCode                  "Ikhodi lesimo">
 
-<!ENTITY networkPanel.requestHeaders              "Request Headers">
-<!ENTITY networkPanel.requestCookie               "Sent Cookie">
-<!ENTITY networkPanel.requestBody                 "Request Body">
-<!ENTITY networkPanel.requestFormData             "Sent Form Data">
+<!ENTITY networkPanel.requestHeaders              "Cela izihloko">
+<!ENTITY networkPanel.requestCookie               "Amakhukhi athunyelwe">
+<!ENTITY networkPanel.requestBody                 "Cela umzimbha">
+<!ENTITY networkPanel.requestFormData             "Idatha yefomu elithunyelwe">
 
-<!ENTITY networkPanel.responseHeaders             "Response Headers">
-<!ENTITY networkPanel.responseBody                "Response Body">
-<!ENTITY networkPanel.responseBodyCached          "Cached Data">
-<!ENTITY networkPanel.responseBodyUnknownType     "Unknown Content Type">
-<!ENTITY networkPanel.responseNoBody              "No Response Body">
-<!ENTITY networkPanel.responseImage               "Received Image">
-<!ENTITY networkPanel.responseImageCached         "Cached Image">
+<!ENTITY networkPanel.responseHeaders             "Izihloko zezimpendulo">
+<!ENTITY networkPanel.responseBody                "Umzimba wezimpendulo">
+<!ENTITY networkPanel.responseBodyCached          "I-datha ye-cache">
+<!ENTITY networkPanel.responseBodyUnknownType     "Uhlobo lokuqukethwe olungaziwa">
+<!ENTITY networkPanel.responseNoBody              "Akukho mzimba wempendulo">
+<!ENTITY networkPanel.responseImage               "Izithombe ezithunyelwe">
+<!ENTITY networkPanel.responseImageCached         "Isithombe se-cache">

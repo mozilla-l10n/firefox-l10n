@@ -24,14 +24,14 @@
 <!ENTITY  close.label                   "Ngivala i-&brandShortName;">
 <!ENTITY  askEachTime.label             "ngibuze njalo">
 
-<!ENTITY  cookieExceptions.label        "Okuhlukile...">
+<!ENTITY  cookieExceptions.label        "Okuhlukile…">
 <!ENTITY  cookieExceptions.accesskey    "O">
 
-<!ENTITY  showCookies.label             "Bonisa amakhukhi...">
+<!ENTITY  showCookies.label             "Bonisa amakhukhi…">
 <!ENTITY  showCookies.accesskey         "B">
 
 
-<!ENTITY  historyHeader.pre.label          "I-&brandShortName; nesifiso:">
+<!ENTITY  historyHeader.pre.label          "i-&brandShortName; nesifiso:">
 <!ENTITY  historyHeader.pre.accesskey      "n">
 <!ENTITY  historyHeader.remember.label     "Khumbula umlando">
 <!ENTITY  historyHeader.dontremember.label "Kungalokothwa kukhunjulwe umlando">
@@ -43,9 +43,9 @@
 <!-- LOCALIZATION NOTE (rememberActions.middle.label): include a starting and trailing space as needed -->
 <!-- LOCALIZATION NOTE (rememberActions.post.label): include a starting space as needed -->
 
-<!ENTITY  rememberActions.pre.label           "Ungafuna">
+<!ENTITY  rememberActions.pre.label           "Ungafuna ">
 <!ENTITY  rememberActions.clearHistory.label  "ukususa umlando wakho wakamuva">
-<!ENTITY  rememberActions.middle.label        ", noma">
+<!ENTITY  rememberActions.middle.label        ", noma ">
 <!ENTITY  rememberActions.removeCookies.label "susa amakhukhi angawodwa">
 <!ENTITY  rememberActions.post.label          ".">
 
@@ -53,7 +53,7 @@
 <!-- LOCALIZATION NOTE (dontrememberActions.pre.label): include a trailing space as needed -->
 <!-- LOCALIZATION NOTE (dontrememberActions.post.label): include a starting space as needed -->
 
-<!ENTITY  dontrememberActions.pre.label          "Ungafuna">
+<!ENTITY  dontrememberActions.pre.label          "Ungafuna ">
 <!ENTITY  dontrememberActions.clearHistory.label "ukususa wonke umlando wamanje">
 <!ENTITY  dontrememberActions.post.label         ".">
 
@@ -72,5 +72,5 @@
 <!ENTITY  clearOnClose.label             "Susa umlando uma i-&brandShortName; ivala">
 <!ENTITY  clearOnClose.accesskey         "a">
 
-<!ENTITY  clearOnCloseSettings.label     "Izimiso...">
-<!ENTITY  clearOnCloseSettings.accesskey "i">
+<!ENTITY  clearOnCloseSettings.label     "Izilungiselelo…">
+<!ENTITY  clearOnCloseSettings.accesskey "z">

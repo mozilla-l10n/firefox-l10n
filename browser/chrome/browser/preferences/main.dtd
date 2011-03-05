@@ -8,7 +8,7 @@
 <!ENTITY homepage.label            "Ikhasi eliyisiqalo:">
 <!ENTITY homepage.accesskey        "I">
 <!ENTITY useCurrentPage.label      "Sebenzisa ikhasi lamanje">
-<!ENTITY useCurrentPage.accesskey  "l">
+<!ENTITY useCurrentPage.accesskey  "m">
 <!ENTITY useMultiple.label         "Sebenzisa amakhasi wamanje">
 <!ENTITY useBookmark.label         "Sebenzisa ukuphawula">
 <!ENTITY useBookmark.accesskey     "u">
@@ -23,9 +23,9 @@
 <!ENTITY closeWhenDone.accesskey "u">
 <!ENTITY saveTo.label "Gcina amafayela ku">
 <!ENTITY saveTo.accesskey "i">
-<!ENTITY chooseFolderWin.label        "Hambisa amehlo...">
+<!ENTITY chooseFolderWin.label        "Hambisa amehlo…">
 <!ENTITY chooseFolderWin.accesskey    "m">
-<!ENTITY chooseFolderMac.label        "Khetha...">
+<!ENTITY chooseFolderMac.label        "Khetha…">
 <!ENTITY chooseFolderMac.accesskey    "a">
 <!ENTITY alwaysAsk.label "Ngihlale ngibuzwa ukuthi amafayela agcinwe kuphi">
 <!ENTITY alwaysAsk.accesskey "N">
@@ -33,5 +33,5 @@
 <!ENTITY addonsMgr.label               "Okungangezwa">
 <!ENTITY manageAddonsDescWin.label     "Shintsha izinketho zokungangezwa kwakho">
 <!ENTITY manageAddonsDescUnix2.label   "Shintsha okuthandwayo kokungangezwa kwakho">
-<!ENTITY manageAddons.label            "Phatha okungangezwa...">
+<!ENTITY manageAddons.label            "Phatha okungangezwa…">
 <!ENTITY manageAddons.accesskey        "P">

@@ -2,10 +2,10 @@
 <!-- LOCALIZATION NOTE: The title is intended to be apologetic and disarming, expressing dismay
      and regret that we are unable to restore the session for the user -->
 
-<!ENTITY restorepage.errorTitle     "Lokho kuphathisa amahloni.">
-<!ENTITY restorepage.problemDesc    "I-&brandShortName; inenkinga ekutholeni amawindi akho namamaki. Lokhu kwesinye kubangelwa ikhasi lewebhu elivulwe manje.">
+<!ENTITY restorepage.errorTitle     "Lokhu kuphathisa amahloni.">
+<!ENTITY restorepage.problemDesc    "I-&brandShortName; inenkinga ekutholeni amawindi akho namamaki. Lokhu kwesinye isikhathi kubangelwa ikhasi lewebhu elivulwe manje.">
 <!ENTITY restorepage.tryThis        "Ungazama:">
-<!ENTITY restorepage.restoreSome    "Ukususa imaki eliledwa noma angaphezulu icabanga ukuthi yiwo abangela inkinga">
+<!ENTITY restorepage.restoreSome    "Ukususa imaki elilodwa noma angaphezulu ocabanga ukuthi yiwo abangela inkinga">
 <!ENTITY restorepage.startNew       "Ukuqala isikhathi sokubuka esisha sha">
 
 <!ENTITY restorepage.tryagainButton "Buyisela">

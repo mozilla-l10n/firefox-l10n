@@ -7,7 +7,7 @@
 <!ENTITY blocklist.moreinfo          "Ukwaziswa Okwengeziwe">
 
 <!ENTITY blocklist.accept.label      "Qala &brandShortName;">
-<!ENTITY blocklist.accept.accesskey  "R">
+<!ENTITY blocklist.accept.accesskey  "a">
 
 <!ENTITY blocklist.blocked.label     "khiyiwe">
 <!ENTITY blocklist.checkbox.label    "Yenza Kungasebenzi">
