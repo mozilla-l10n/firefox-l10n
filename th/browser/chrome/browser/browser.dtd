@@ -31,7 +31,7 @@ can reach it easily. -->
 <!ENTITY  moveToGroup.label                  "ย้ายไปยังกลุ่ม">
 <!ENTITY  moveToGroup.accesskey              "ย">
 <!ENTITY  moveToNewGroup.label               "กลุ่มใหม่">
-<!ENTITY  moveToNewWindow.label              "ย้างไปหน้าต่างใหม่">
+<!ENTITY  moveToNewWindow.label              "ย้ายไปหน้าต่างใหม่">
 <!ENTITY  moveToNewWindow.accesskey          "ป">
 <!ENTITY  bookmarkAllTabs.label              "คั่นหน้าเว็บทุกแท็บ…">
 <!ENTITY  bookmarkAllTabs.accesskey          "บ">
