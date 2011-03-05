@@ -5,10 +5,21 @@
 
 <!ENTITY newFolderCmd.label "Dizin…">
 <!ENTITY newFolderCmd.accesskey "D">
-<!ENTITY closeTabCmd.label "Sekmeyi kapat">
-<!ENTITY closeTabCmd.accesskey "e">
-<!ENTITY closeOtherTabsCmd.label "Diğer sekmeleri kapat">
-<!ENTITY closeOtherTabsCmd.accesskey "D">
+<!ENTITY closeTabCmd2.label "Close Tab">
+<!ENTITY closeTabCmd2.accesskey "C">
+<!ENTITY closeOtherTabsCmd2.label "Close Other Tabs">
+<!ENTITY closeOtherTabsCmd2.accesskey "o">
+<!-- LOCALIZATION NOTE (undoCloseTabCmd.label):
+     Menu option to attempt to re-open a recently closed tab.
+     -->
+<!ENTITY undoCloseTabCmd.label "Kapatılan sekmeyi aç">
+<!ENTITY undoCloseTabCmd.accesskey "K">
+<!-- LOCALIZATION NOTE (moveToNewWindow.label):
+     Menu option to cause the current tab to be migrated to a new Thunderbird
+     window.
+     -->
+<!ENTITY moveToNewWindow.label "Yeni pencereye taşı">
+<!ENTITY moveToNewWindow.accesskey "n">
 <!ENTITY newVirtualFolderCmd.label "Kayıtlı arama sonuçları…">
 <!ENTITY newVirtualFolderCmd.accesskey "s">
 <!ENTITY newOtherAccountsCmd.label "Diğer hesaplar…">

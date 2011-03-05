@@ -5,7 +5,7 @@
 <!-- The page shown when logged in... -->
 
 <!ENTITY accountGroupboxCaption.label "&syncBrand.fullName.label; hesabı">
-<!ENTITY currentAccount.label "Mevcut hesap:">
+<!ENTITY accountName.label "Account Name:">
 <!-- Login error feedback -->
 
 <!ENTITY updatePass.label "Güncelle">
@@ -15,6 +15,7 @@
 <!-- Manage Account -->
 
 <!ENTITY manageAccount.label "Manage Account">
+<!ENTITY manageAccount.accesskey "A">
 <!ENTITY viewQuota.label "View Quota">
 <!ENTITY viewQuota.accesskey "V">
 <!ENTITY changePassword.label "Change Password">
@@ -24,14 +25,13 @@
 <!ENTITY resetSync.label "Reset Sync">
 <!ENTITY resetSync.accesskey "e">
 <!ENTITY stopUsingAccount.label "Stop Using This Account">
-<!ENTITY stopUsingAccount.accesskey "A">
+<!ENTITY stopUsingAccount.accesskey "S">
 <!-- Sync Settings -->
 
-<!ENTITY syncPrefsCaption.label "Tarayıcı eşitleme">
 <!ENTITY syncComputerName.label "Computer Name:">
 <!ENTITY syncComputerName.accesskey "N">
 
-<!ENTITY syncMy.label "Eşitlenecekler:">
+<!ENTITY syncMy2.label "Sync My:">
 <!ENTITY engine.bookmarks.label "Yer İmleri">
 <!ENTITY engine.bookmarks.accesskey "e">
 <!ENTITY engine.tabs.label "Sekmeler">
