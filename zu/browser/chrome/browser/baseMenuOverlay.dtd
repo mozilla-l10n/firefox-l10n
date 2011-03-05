@@ -29,7 +29,7 @@
 
 <!ENTITY servicesMenuMac.label          "Izinsiza">
 
-<!ENTITY hideThisAppCmdMac.label        "Fihla ne-brandShortName;">
+<!ENTITY hideThisAppCmdMac.label        "Fihla &brandShortName;">
 <!ENTITY hideThisAppCmdMac.commandkey   "H">
 
 <!ENTITY hideOtherAppsCmdMac.label      "Fihla abanye">

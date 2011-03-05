@@ -12,7 +12,7 @@
 <!ENTITY  WPADTypeRadio.accesskey       "w">
 <!ENTITY  manualTypeRadio.label         "Ukumiswa kwe-proxy nguwe:">
 <!ENTITY  manualTypeRadio.accesskey     "U">
-<!ENTITY  autoTypeRadio.label           "Isimiso se-URL ye-proxy esizenzakalelayo">
+<!ENTITY  autoTypeRadio.label           "Isimiso se-URL ye-proxy esizenzakalelayo:">
 <!ENTITY  autoTypeRadio.accesskey       "e">
 <!ENTITY  reload.label                  "Layisha kabusha">
 <!ENTITY  reload.accesskey              "a">

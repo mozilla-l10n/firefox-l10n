@@ -33,7 +33,7 @@ that require it.  -->
      have the same accesskey. -->
 
 <!ENTITY itemHistoryAndDownloads.label     "Umlando wokudlulisa amehlo kanye nokulayisha ungenise">
-<!ENTITY itemHistoryAndDownloads.accesskey "B">
+<!ENTITY itemHistoryAndDownloads.accesskey "d">
 <!ENTITY itemBrowsingHistory.label         "Umlando Wokubheka">
 <!ENTITY itemBrowsingHistory.accesskey     "U">
 <!ENTITY itemFormSearchHistory.label       "Ukwakha kanye nokusesha komlando">

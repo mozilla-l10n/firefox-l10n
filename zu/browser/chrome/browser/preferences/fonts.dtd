@@ -21,49 +21,49 @@
 <!ENTITY  monospace.accesskey                     "M">
 
 <!ENTITY  font.langGroup.latin1                   "Intshonalanga">
-<!ENTITY  font.langGroup.latin2                   "EsaseYurophu Ephakathi">
-<!ENTITY  font.langGroup.japanese                 "IsiJapane">
-<!ENTITY  font.langGroup.trad-chinese             "IsiShayina Sendabuko (saseTaiwan)">
-<!ENTITY  font.langGroup.simpl-chinese            "IsiShayina Esenziwe Lula">
-<!ENTITY  font.langGroup.trad-chinese-hk          "IsiShayina Sendabuko (saseHong Kong)">
-<!ENTITY  font.langGroup.korean                   "IsiKhoriya">
-<!ENTITY  font.langGroup.cyrillic                 "IsiCyrillic">
-<!ENTITY  font.langGroup.baltic                   "IsiBalthikhi">
-<!ENTITY  font.langGroup.el                       "IsiGreki">
-<!ENTITY  font.langGroup.turkish                  "IsiThekhi">
-<!ENTITY  font.langGroup.unicode                  "Ezinye Izilimi">
-<!ENTITY  font.langGroup.user-def                 "Oyisebenzisayo Uyachazwa">
-<!ENTITY  font.langGroup.thai                     "IsiThai">
-<!ENTITY  font.langGroup.hebrew                   "IsiHebheru">
-<!ENTITY  font.langGroup.arabic                   "Isi-Arabhu">
-<!ENTITY  font.langGroup.devanagari               "IsiDevanagari">
-<!ENTITY  font.langGroup.tamil                    "IsiTamil">
-<!ENTITY  font.langGroup.armenian                 "Isi-Armenia">
-<!ENTITY  font.langGroup.bengali                  "IsiBengali">
-<!ENTITY  font.langGroup.canadian                 "Uhlu Lwezinhlamvu Ezihlangene ZesiCanada">
-<!ENTITY  font.langGroup.ethiopic                 "IsiTopiya">
-<!ENTITY  font.langGroup.georgian                 "IsiGeorgia">
-<!ENTITY  font.langGroup.gujarati                 "IsiGujarati">
-<!ENTITY  font.langGroup.gurmukhi                 "IsiGurmukhi">
-<!ENTITY  font.langGroup.khmer                    "IsiKhmer">
-<!ENTITY  font.langGroup.malayalam                "IsiMalayalam">
-<!ENTITY  font.langGroup.oriya                    "Isi-Oriya">
-<!ENTITY  font.langGroup.telugu                   "IsiTelugu">
-<!ENTITY  font.langGroup.kannada                  "IsiKannada">
-<!ENTITY  font.langGroup.sinhala                  "Isi-Sinhala">
-<!ENTITY  font.langGroup.tibetan                  "IsiTibet">
+<!ENTITY  font.langGroup.latin2                   "i-Yurophu emaphakathi">
+<!ENTITY  font.langGroup.japanese                 "isiJapane">
+<!ENTITY  font.langGroup.trad-chinese             "isiShayina sendabuko (sase-Taiwan)">
+<!ENTITY  font.langGroup.simpl-chinese            "isiShayina esenziwe lula">
+<!ENTITY  font.langGroup.trad-chinese-hk          "isiShayina sendabuko (sase-Hong Kong)">
+<!ENTITY  font.langGroup.korean                   "isi-Khoriya">
+<!ENTITY  font.langGroup.cyrillic                 "isi-Cyrillic">
+<!ENTITY  font.langGroup.baltic                   "isi-Baltic">
+<!ENTITY  font.langGroup.el                       "isi-Greek">
+<!ENTITY  font.langGroup.turkish                  "isi-Thekhi">
+<!ENTITY  font.langGroup.unicode                  "Ezinye izilimi">
+<!ENTITY  font.langGroup.user-def                 "Umsebenzisi uchaziwe">
+<!ENTITY  font.langGroup.thai                     "isi-Thai">
+<!ENTITY  font.langGroup.hebrew                   "isi-Hebheru">
+<!ENTITY  font.langGroup.arabic                   "isi-Arabhu">
+<!ENTITY  font.langGroup.devanagari               "isi-Devanagari">
+<!ENTITY  font.langGroup.tamil                    "isi-Tamil">
+<!ENTITY  font.langGroup.armenian                 "isi-Armenia">
+<!ENTITY  font.langGroup.bengali                  "isi-Bengali">
+<!ENTITY  font.langGroup.canadian                 "Uhlu lwezinhlamvu ezihlangene zesi-khanada">
+<!ENTITY  font.langGroup.ethiopic                 "isi-Topiya">
+<!ENTITY  font.langGroup.georgian                 "isi-Georgia">
+<!ENTITY  font.langGroup.gujarati                 "isi-Gujarati">
+<!ENTITY  font.langGroup.gurmukhi                 "isi-Gurmukhi">
+<!ENTITY  font.langGroup.khmer                    "isi-Khmer">
+<!ENTITY  font.langGroup.malayalam                "isi-Malayalam">
+<!ENTITY  font.langGroup.oriya                    "isi-Oriya">
+<!ENTITY  font.langGroup.telugu                   "isi-Telugu">
+<!ENTITY  font.langGroup.kannada                  "isi-Kannada">
+<!ENTITY  font.langGroup.sinhala                  "isi-Sinhala">
+<!ENTITY  font.langGroup.tibetan                  "isi-Tibetan">
 <!-- Minimum font size -->
 <!ENTITY minSize.label                            "Usayizi wokugcina omncane wombhalo:">
 <!ENTITY minSize.accesskey                        "o">
 <!ENTITY minSize.none                             "Akukho">
 <!-- default font type -->
 
-<!ENTITY  useDefaultFontSerif.label               "ISerif">
-<!ENTITY  useDefaultFontSansSerif.label           "ISans Serif">
+<!ENTITY  useDefaultFontSerif.label               "i-Serif">
+<!ENTITY  useDefaultFontSansSerif.label           "i-Sans Serif">
 
 <!ENTITY  allowPagesToUse.label                   "Vumela amakhasi ukuba azikhethele uhlobo lombhalo, esikhundleni saloku engikukhethe ngenhla">
 <!ENTITY  allowPagesToUse.accesskey               "V">
 
-<!ENTITY languages.customize.Charset.grouplabel         "Ukubhala Uhlamvu Ngekhodi">
-<!ENTITY languages.customize.DefaultCharset.label       "Ukubhala Uhlamvu Ngekhodi Kwakhona:">
-<!ENTITY languages.customize.DefaultCharset.accesskey   "K">
+<!ENTITY languages.customize.Charset.grouplabel         "Ukubhala inhlamvu ngekhodi">
+<!ENTITY languages.customize.DefaultCharset.label       "Ukubhala inhlamvu ngekhodi kwakhona:">
+<!ENTITY languages.customize.DefaultCharset.accesskey   "n">

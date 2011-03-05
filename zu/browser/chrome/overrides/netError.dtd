@@ -14,11 +14,20 @@
 
 <!ENTITY dnsNotFound.title "Iseva Ayitholakali">
 <!ENTITY dnsNotFound.longDesc "<ul> 
- <li>Hlola ukuthi ikheli alinawo amaphutha okubhala njengokuthi    <strong>ww</strong>.isibonelo.com esikhundleni sokuthi    <strong>www</strong>.isibonelo.com</li>  <li>Uma ungakwazi ukulayisha noma iliphi ikhasi, hlola ukuxhuma kunethiwekhi    kwekhompyutha yakho.</li>  <li>Uma ikhompyutha yakho noma inethiwekhi ivikelwe isivikeli noma i-proxy, qiniseka    ukuthi &brandShortName; ivunyelwe ukungena kuwebhu.</li></ul>">
+<li>Hlola ukuthi ikheli alinawo amaphutha okubhala njengokuthi 
+   <strong>ww</strong>.isibonelo.com esikhundleni sokuthi 
+    <strong>www</strong>.isibonelo.com</li>
+<li>Uma ungakwazi ukulayisha noma iliphi ikhasi, hlola ukuxhuma 
+ kunethiwekhi yekhompyutha yakho.</li> 
+<li>Uma ikhompyutha yakho noma inethiwekhi ivikelwe isivikeli noma i-proxy, qiniseka 
+ukuthi i-&brandShortName; ivunyelwe ukungena kuwebhu.</li>
+</ul>">
 
 <!ENTITY fileNotFound.title "Ifayela alitholakali">
 <!ENTITY fileNotFound.longDesc "<ul> 
-  <li>Hlola igama lefayela ukuthi osonhlamvukazi babhalwe kahle namanye amaphutha okubhala.</li>  <li>Hlola ubone ukuthi ifayela alisuswanga yini layiswa kwenye indawo, noma laqanjwa ngelinye igama noma lacishwa.</li></ul>">
+<li>Hlola igama lefayela ukuthi osonhlamvukazi babhalwe kahle namanye amaphutha okubhala.</li> 
+<li>Hlola ubone ukuthi ifayela aliyiswanga kwenye indawo, laqanjwa futhi noma lasuswa.</li> 
+</ul>">
 
 
 <!ENTITY generic.title "Hayi bo.">
@@ -26,9 +35,10 @@
 
 <!ENTITY malformedURI.title "Leli kheli alisebenzi">
 <!ENTITY malformedURI.longDesc "<ul> 
-  <li>Amakheli ewebhu avame ukubhalwa kanje    <strong>http://www.isibonelo.com/</strong></li> 
- <li>Qiniseka ukuthi usebenzisa isileshi esibheke phambili (isib. 
-   <strong>/</strong>).</li> 
+<li>Amakheli ewebhu avame ukubhalwa kanje 
+<strong>http://www.example.com/</strong></li> 
+<li>Qiniseka ukuthi usebenzisa isileshi esibheke phambili (isib. 
+<strong>/</strong>).</li> 
 </ul>">
 
 <!ENTITY netInterrupt.title "Ukuxhumana kuphazamisekile">
@@ -66,15 +76,17 @@
 
 <!ENTITY proxyConnectFailure.title "Iseva ye-proxy iyenqaba ukuxhuma">
 <!ENTITY proxyConnectFailure.longDesc "<ul> 
- <li>Hlola ukuhlelwa kwe-proxy ukuze uqiniseke ukuthi kuyikho.</li> 
-  <li>Thintana nomphathi wenethiwekhi yakho ukuze uqiniseke ukuthi iseva ye-proxy iyasebenza.</li> 
+<li>Hlola ukuhlelwa kwe-proxy ukuze uqiniseke ukuthi kuyikho.</li> 
+<li>Thintana nomphathi wenethiwekhi yakho ukuze uqiniseke ukuthi iseva ye-proxy 
+ iyasebenza.</li> 
 </ul>">
 
 <!ENTITY proxyResolveFailure.title "Ayikwazi ukuthola iseva ye-proxy">
-<!ENTITY proxyResolveFailure.longDesc "<ul>  
+<!ENTITY proxyResolveFailure.longDesc "<ul> 
 <li>Hlola ukuhlelwa kwe-proxy ukuze uqiniseke ukuthi kuyikho.</li> 
- <li>Hlola ukuze uqiniseka ukuthi ikhompyutha yakho ixhume kunethiwekhi esebenzayo.</li> 
- <li>Uma ikhompyutha yakho noma inethiwekhi ivikelwe isivikeli noma i-proxy, qiniseka ukuthi &brandShortName; livunyelwe ukungena kuWebhu.</li>
+<li>Hlola ukuze uqiniseka ukuthi ikhompyutha yakho ixhume kunethiwekhi esebenzayo.</li> 
+<li>Uma ikhompyutha yakho noma inethiwekhi ivikelwe isivikeli noma 
+ i-proxy, qiniseka ukuthi &brandShortName; livunyelwe ukungena kuwebhu</li>
 </ul>">
 
 <!ENTITY redirectLoop.title "Leli khasi aliqondile kahle kwenye indawo">
@@ -107,7 +119,8 @@ ukuthi omunye umuntu ozama ukuzenza omunye umuntu kuseva.</li>
 <!ENTITY sharedLongDesc "<ul> 
 <li>Kungenzeka ukuthi le ngosi ayitholakali okwesikhashana noma imatasa kakhulu. Phinda uzame ngemva 
 kwesikhashana.</li> 
-<li>Uma ungakwazi ukulayisha amakhasi athile, hlola ukuthi ikhompyutha yakho ixhumekile kunethiwekhi.</li> 
+<li>Uma ungakwazi ukulayisha amakhasi athile, hlola ukuthi ikhompyutha 
+ yakho ixhumekile kunethiwekhi.</li> 
 <li>Uma ikhompyutha yakho noma inethiwekhi ivikelwe isivikeli noma i-proxy, qiniseka ukuthi 
 &brandShortName; ivunyelwe ukungena kuwebhu.</li> 
 </ul>">

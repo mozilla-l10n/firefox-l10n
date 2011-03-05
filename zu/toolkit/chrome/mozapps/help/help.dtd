@@ -47,7 +47,7 @@ you can use these alternative items. Otherwise, their values should be empty.  -
 <!ENTITY zLevel.label                   "Inkombbe Phezulu Njalo">
 <!ENTITY zLevel.accesskey               "N">
 
-<!ENTITY fullZoomReduceBtn.label        "Hlehla Esithombeni">
-<!ENTITY fullZoomReduceBtn.accesskey    "O">
-<!ENTITY fullZoomEnlargeBtn.label       "Sondela Eduze Kwesithombe">
-<!ENTITY fullZoomEnlargeBtn.accesskey   "I">
+<!ENTITY fullZoomReduceBtn.label        "Hlehlisa">
+<!ENTITY fullZoomReduceBtn.accesskey    "h">
+<!ENTITY fullZoomEnlargeBtn.label       "Sondeza">
+<!ENTITY fullZoomEnlargeBtn.accesskey   "d">

@@ -2,8 +2,8 @@
 <!ENTITY places.library.title  "Umtapo">
 <!ENTITY places.library.width  "700">
 <!ENTITY places.library.height "500">
-<!ENTITY organize.label        "Hlela (O)">
-<!ENTITY organize.accesskey    "O">
+<!ENTITY organize.label        "Hlela">
+<!ENTITY organize.accesskey    "H">
 <!ENTITY organize.tooltip      "Hlela izimpawu zakho zokubekisa">
 
 <!ENTITY file.accesskey                 "F">
@@ -16,9 +16,9 @@
 <!ENTITY views.accesskey                "b">
 <!ENTITY views.tooltip                  "Shintsha ukubuka kwakho">
 <!ENTITY view.columns.label             "Bonisa uhlu">
-<!ENTITY view.columns.accesskey         "B">
-<!ENTITY view.sort.label                "Hlunga (S)">
-<!ENTITY view.sort.accesskey            "S">
+<!ENTITY view.columns.accesskey         "n">
+<!ENTITY view.sort.label                "Hlunga">
+<!ENTITY view.sort.accesskey            "l">
 <!ENTITY view.unsorted.label            "Akuhlungiwe">
 <!ENTITY view.unsorted.accesskey        "u">
 <!ENTITY view.sortAscending.label       "Indlela yokuhlunga ye-A > Z">
@@ -29,33 +29,33 @@
 <!ENTITY cmd.findInBookmarks.label      "Thola ezimpawini zokubekisa…">
 <!ENTITY cmd.findInBookmarks.accesskey  "T">
 <!ENTITY cmd.findCurrent.label          "Thola kuqoqo lamanje…">
-<!ENTITY cmd.findCurrent.accesskey      "h">
+<!ENTITY cmd.findCurrent.accesskey      "a">
 
 <!ENTITY cmd.exportHTML.label           "Khipha i-HTML…">
-<!ENTITY cmd.exportHTML.accesskey       "K">
+<!ENTITY cmd.exportHTML.accesskey       "i">
 <!ENTITY cmd.importHTML.label           "Faka i-HTML…">
 <!ENTITY cmd.importHTML.accesskey       "F">
 
-<!ENTITY cmd.backup.label               "Isipele (G)…">
-<!ENTITY cmd.backup.accesskey           "G">
-<!ENTITY cmd.restore2.label             "Buyisela (R)">
-<!ENTITY cmd.restore2.accesskey         "R">
-<!ENTITY cmd.restoreFromFile.label      "Khetha ifayela (C)…">
-<!ENTITY cmd.restoreFromFile.accesskey  ")">
+<!ENTITY cmd.backup.label               "Isipele…">
+<!ENTITY cmd.backup.accesskey           "p">
+<!ENTITY cmd.restore2.label             "Buyisela">
+<!ENTITY cmd.restore2.accesskey         "s">
+<!ENTITY cmd.restoreFromFile.label      "Khetha ifayela…">
+<!ENTITY cmd.restoreFromFile.accesskey  "K">
 
-<!ENTITY cmd.bookmarkLink.label         "Phawula leli khasi (N)…">
-<!ENTITY cmd.bookmarkLink.accesskey     "N">
-<!ENTITY cmd.delete.label               "Susa leli khasi (D)">
-<!ENTITY cmd.delete.accesskey           "D">
-<!ENTITY cmd.deleteDomainData.label     "Khohlwa ngaleli sayithi (R)">
-<!ENTITY cmd.deleteDomainData.accesskey "R">
+<!ENTITY cmd.bookmarkLink.label         "Phawula leli khasi…">
+<!ENTITY cmd.bookmarkLink.accesskey     "w">
+<!ENTITY cmd.delete.label               "Susa leli khasi">
+<!ENTITY cmd.delete.accesskey           "S">
+<!ENTITY cmd.deleteDomainData.label     "Khohlwa ngaleli sayithi">
+<!ENTITY cmd.deleteDomainData.accesskey "n">
 
-<!ENTITY cmd.open.label                  "Vula(L)">
-<!ENTITY cmd.open.accesskey              "L">
+<!ENTITY cmd.open.label                  "Vula">
+<!ENTITY cmd.open.accesskey              "V">
 <!ENTITY cmd.open_window.label           "Vula efasiteleni elisha">
 <!ENTITY cmd.open_window.accesskey       "e">
-<!ENTITY cmd.open_tab.label              "Vula kumaki elisha (W)">
-<!ENTITY cmd.open_tab.accesskey          "W">
+<!ENTITY cmd.open_tab.label              "Vula kumaki elisha">
+<!ENTITY cmd.open_tab.accesskey          "m">
 <!ENTITY cmd.open_all_in_tabs.label      "Vula konke kumamaki">
 <!ENTITY cmd.open_all_in_tabs.accesskey  "m">
 
@@ -70,7 +70,7 @@
 <!ENTITY cmd.new_bookmark.accesskey        "l">
 <!ENTITY cmd.new_folder.label              "Ifolda entsha…">
 <!ENTITY cmd.new_folder.accesskey          "n">
-<!ENTITY cmd.context_new_folder.accesskey  "F">
+<!ENTITY cmd.context_new_folder.accesskey  "f">
 <!ENTITY cmd.new_separator.label           "Isehlukanisi esisha">
 <!ENTITY cmd.new_separator.accesskey       "h">
 

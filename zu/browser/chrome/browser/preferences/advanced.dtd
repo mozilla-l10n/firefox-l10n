@@ -38,7 +38,7 @@
 <!ENTITY connection.label                "Ukuxhuma">
 
 <!ENTITY connectionDesc.label            "Misa indlela yokuthi i-&brandShortName; ixhumeka kanjani ku-inthanethi">
-<!ENTITY connectionSettings.label        "Izinhlelo...">
+<!ENTITY connectionSettings.label        "Izilungiselelo…">
 <!ENTITY connectionSettings.accesskey    "z">
 
 <!ENTITY offlineStorage.label            "Ukulondolozo okungaxhunyiwe">
@@ -78,12 +78,12 @@
 
 <!ENTITY offlineNotify.label             "Mangitshelwe uma iwebhusayithi icela ukulondoloza idatha yokusetshenziswa okungaxhunyiwe">
 <!ENTITY offlineNotify.accesskey         "M">
-<!ENTITY offlineNotifyExceptions.label   "Okukhishiwe...">
+<!ENTITY offlineNotifyExceptions.label   "Okukhishiwe…">
 <!ENTITY offlineNotifyExceptions.accesskey "k">
 
 <!ENTITY offlineAppsList.label           "Le webhusayithi elandelayo ilondoloze idatha yokusetshenziswa okungaxhunyiwe:">
 <!ENTITY offlineAppsList.height          "7em">
-<!ENTITY offlineAppsListRemove.label     "Susa...">
+<!ENTITY offlineAppsListRemove.label     "Susa…">
 <!ENTITY offlineAppsListRemove.accesskey "S">
 <!ENTITY offlineAppRemove.confirm        "Susa idatha yokungaxhunyiwe">
 

@@ -1,14 +1,14 @@
-<!ENTITY editBookmarkOverlay.name.label                      "Igama (N):">
-<!ENTITY editBookmarkOverlay.name.accesskey                  "N">
-<!ENTITY editBookmarkOverlay.location.label                  "Indawo (L):">
-<!ENTITY editBookmarkOverlay.location.accesskey              "L">
-<!ENTITY editBookmarkOverlay.feedLocation.label              "Indawo eyazisayo (F):">
-<!ENTITY editBookmarkOverlay.feedLocation.accesskey          "F">
+<!ENTITY editBookmarkOverlay.name.label                      "Igama:">
+<!ENTITY editBookmarkOverlay.name.accesskey                  "m">
+<!ENTITY editBookmarkOverlay.location.label                  "Indawo:">
+<!ENTITY editBookmarkOverlay.location.accesskey              "n">
+<!ENTITY editBookmarkOverlay.feedLocation.label              "Indawo efunzayo:">
+<!ENTITY editBookmarkOverlay.feedLocation.accesskey          "f">
 <!ENTITY editBookmarkOverlay.siteLocation.label              "Indawo yesayithi:">
 <!ENTITY editBookmarkOverlay.siteLocation.accesskey          "I">
 <!ENTITY editBookmarkOverlay.liveTitlesSeparator.label       "Izihloko ezibukhoma">
-<!ENTITY editBookmarkOverlay.folder.label                    "I-folda:">
-<!ENTITY editBookmarkOverlay.foldersExpanderDown.tooltip     "Bonisa wonke amafolda abekwe uphawu">
+<!ENTITY editBookmarkOverlay.folder.label                    "Ifolda:">
+<!ENTITY editBookmarkOverlay.foldersExpanderDown.tooltip     "Bonisa wonke amafolda wezimpawu zokubekisa">
 <!ENTITY editBookmarkOverlay.expanderUp.tooltip              "Fihla">
 <!ENTITY editBookmarkOverlay.tags.label                      "Amamaki:">
 <!ENTITY editBookmarkOverlay.tags.accesskey                  "m">

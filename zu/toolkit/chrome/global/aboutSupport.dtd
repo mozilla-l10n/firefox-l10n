@@ -1,40 +1,38 @@
-<!ENTITY aboutSupport.pageTitle "Troubleshooting Information">
+<!ENTITY aboutSupport.pageTitle "Imininingwane yokuxazululwa kwezinkinga">
 <!-- LOCALIZATION NOTE (aboutSupport.pageSubtitle): don't change the 'supportLink' id. -->
 
-<!ENTITY aboutSupport.pageSubtitle "
-  This page contains technical information that might be useful when you're
-  trying to solve a problem. If you are looking for answers to common questions
-  about &brandShortName;, check out our <a id='supportLink'>support web site</a>.
-">
+<!ENTITY aboutSupport.pageSubtitle "    Leli khasi liqukethe ulwazi olunzima olungahle lukusize uma
+uzama ukuxazulula inkinga. Uma ufuna izimpendulo zemibuzo ejwayelekile 
+mayelana ne-&brandShortName;,hlola i-<a id='supportLink'>support web site</a>.">
 
 <!ENTITY aboutSupport.extensionsTitle "Izithasiselo">
-<!ENTITY aboutSupport.extensionName "Name">
+<!ENTITY aboutSupport.extensionName "Igama">
 <!ENTITY aboutSupport.extensionEnabled "Kwenziwe kwasebenza">
-<!ENTITY aboutSupport.extensionVersion "Version">
-<!ENTITY aboutSupport.extensionId "ID">
+<!ENTITY aboutSupport.extensionVersion "Inguqulo">
+<!ENTITY aboutSupport.extensionId "Ubunikazi">
 
-<!ENTITY aboutSupport.appBasicsTitle "Application Basics">
-<!ENTITY aboutSupport.appBasicsName "Name">
-<!ENTITY aboutSupport.appBasicsVersion "Version">
-<!ENTITY aboutSupport.appBasicsProfileDir "Profile Directory">
-<!ENTITY aboutSupport.appBasicsEnabledPlugins "Enabled Plugins">
-<!ENTITY aboutSupport.appBasicsBuildConfig "Build Configuration">
-<!ENTITY aboutSupport.appBasicsUserAgent "User Agent">
+<!ENTITY aboutSupport.appBasicsTitle "Okujwayelekile kohlelo lokusebenza">
+<!ENTITY aboutSupport.appBasicsName "Igama">
+<!ENTITY aboutSupport.appBasicsVersion "Inguqulo">
+<!ENTITY aboutSupport.appBasicsProfileDir "Isiqondisi seprofayela">
+<!ENTITY aboutSupport.appBasicsEnabledPlugins "Yenza kusebenze okuxhunyaniswayo">
+<!ENTITY aboutSupport.appBasicsBuildConfig "Ukuhlelwa kokulungisa">
+<!ENTITY aboutSupport.appBasicsUserAgent "Ummeli womsebenzisi">
 
-<!ENTITY aboutSupport.show.label "Open Containing Folder">
+<!ENTITY aboutSupport.show.label "Vula ifolda equkethe">
 <!-- LOCALIZATION NOTE (aboutSupport.showMac.label): This is the Mac-specific
 variant of aboutSupport.show.label.  This allows us to use the preferred
 "Finder" terminology on Mac. -->
 
-<!ENTITY aboutSupport.showMac.label "Show in Finder">
+<!ENTITY aboutSupport.showMac.label "Bonisa kokutholakele">
 
-<!ENTITY aboutSupport.modifiedPrefsTitle "Modified Preferences">
-<!ENTITY aboutSupport.modifiedPrefsName "Name">
+<!ENTITY aboutSupport.modifiedPrefsTitle "Ongakuthanda okulungisiwe">
+<!ENTITY aboutSupport.modifiedPrefsName "Igama">
 <!ENTITY aboutSupport.modifiedPrefsValue "Inani">
 
-<!ENTITY aboutSupport.graphicsTitle "Graphics">
+<!ENTITY aboutSupport.graphicsTitle "Imibukiso">
 
-<!ENTITY aboutSupport.installationHistoryTitle "Installation History">
+<!ENTITY aboutSupport.installationHistoryTitle "Umlando wokufaka">
 <!ENTITY aboutSupport.updateHistoryTitle "Iwindi Elithuthukisiwe">
 
-<!ENTITY aboutSupport.copyToClipboard.label "Copy all to clipboard">
+<!ENTITY aboutSupport.copyToClipboard.label "Kopisha konke ku-clipboard">

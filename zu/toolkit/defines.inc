@@ -1,1 +1,1 @@
-#define MOZ_LANG_TITLE Zulu
+#define MOZ_LANG_TITLE isiZulu

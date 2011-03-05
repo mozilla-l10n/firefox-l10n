@@ -11,6 +11,6 @@
 <!ENTITY findCloseButton.tooltip "Vala iwindi lokuthola">
 <!ENTITY highlight.label "Gqamisa konke">
 <!ENTITY highlight.accesskey "k">
-<!ENTITY highlight.tooltiptext "Gqamisa yonke imishwana okuvela kuyo lomshwana (Ctrl+Ngena)">
+<!ENTITY highlight.tooltiptext "Gqamisa yonke imishwana okuvela kuyo lomshwana">
 <!ENTITY caseSensitiveCheckbox.label "Qondanisa onkamisa">
 <!ENTITY caseSensitiveCheckbox.accesskey "d">

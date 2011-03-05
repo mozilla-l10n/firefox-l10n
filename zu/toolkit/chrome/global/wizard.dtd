@@ -13,7 +13,7 @@
 <!ENTITY  button-cancel-unix.label     "Khansela">
 
 <!ENTITY  button-back-win.label        "&lt; Emuva">
-<!ENTITY  button-back-win.accesskey    "B">
+<!ENTITY  button-back-win.accesskey    "E">
 <!ENTITY  button-next-win.label        "Landelayo &gt;">
 <!ENTITY  button-next-win.accesskey    "L">
 <!ENTITY  button-finish-win.label      "Isiqedile">
