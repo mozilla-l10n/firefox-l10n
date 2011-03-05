@@ -1,6 +1,6 @@
 google
 yahoo
+bing
 amazondotcom
 wikipediaro
-creativecommons
 eBay
