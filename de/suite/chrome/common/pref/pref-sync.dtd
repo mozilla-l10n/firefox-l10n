@@ -5,7 +5,7 @@
 
 <!-- The page shown when logged in... -->
 <!ENTITY accountGroupboxCaption.label "&syncBrand.fullName.label;-Account">
-<!ENTITY currentAccount.label         "Aktueller Account:">
+<!ENTITY accountName.label            "Account-Name:">
 
 <!-- Login error feedback -->
 <!ENTITY updatePass.label             "Aktualisieren">
@@ -15,6 +15,7 @@
 
 <!-- Manage Account -->
 <!ENTITY manageAccount.label          "Account verwalten">
+<!ENTITY manageAccount.accesskey      "A">
 <!ENTITY viewQuota.label              "Quota anzeigen">
 <!ENTITY viewQuota.accesskey          "Q">
 <!ENTITY changePassword.label         "Passwort ändern">
@@ -27,11 +28,10 @@
 <!ENTITY stopUsingAccount.accesskey   "D">
 
 <!-- Sync Settings -->
-<!ENTITY syncPrefsCaption.label       "Browser-Sync">
 <!ENTITY syncComputerName.label       "Computername:">
 <!ENTITY syncComputerName.accesskey   "C">
 
-<!ENTITY syncMy.label               "Synchronisieren:">
+<!ENTITY syncMy2.label              "Synchronisieren:">
 <!ENTITY engine.bookmarks.label     "Lesezeichen">
 <!ENTITY engine.bookmarks.accesskey "L">
 <!ENTITY engine.tabs.label          "Tabs">

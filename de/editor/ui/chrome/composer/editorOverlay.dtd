@@ -405,7 +405,6 @@
 
 <!-- Toolbar-only items -->
 <!ENTITY menuBar.tooltip "Menüleiste">
-<!ENTITY compositionToolbar.tooltip "Bearbeiten-Symbolleiste">
 <!ENTITY formatToolbar.tooltip "Formatierungs-Symbolleiste">
 <!ENTITY newToolbarCmd.tooltip "Neue Composer-Seite erstellen">
 <!ENTITY openToolbarCmd.label "Öffnen">
@@ -450,7 +449,7 @@
 <!ENTITY alignLeftButton.tooltip "Text am linken Rand ausrichten">
 <!ENTITY alignCenterButton.tooltip "Text zentriert ausrichten">
 <!ENTITY alignRightButton.tooltip "Text am rechten Rand ausrichten">
-<!ENTITY alignjustifyButton.tooltip "Text an linkem und rechten Rand ausrichten">
+<!ENTITY alignJustifyButton.tooltip "Text an linkem und rechten Rand ausrichten">
 
 <!-- Display Mode toolbar and View menu items -->
 <!ENTITY NormalModeTab.label "Normal">
