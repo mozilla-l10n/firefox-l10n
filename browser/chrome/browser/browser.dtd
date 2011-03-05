@@ -139,7 +139,7 @@ can reach it easily. -->
 <!ENTITY tabGroupsButton.tooltip      "Hlopha dithepo tša gago">
 
 <!ENTITY feedButton.label             "Ngwadiša">
-<!ENTITY feedButton.tooltip           "Ingwadiše letlakaleng le...">
+<!ENTITY feedButton.tooltip           "Ingwadiše letlakaleng le…">
 
 <!ENTITY bookmarksButton.label          "Dipukutshwayo">
 <!ENTITY bookmarksButton.tooltip        "Bontšha dipukutshwayo tša gago">
@@ -242,7 +242,7 @@ can reach it easily. -->
 <!ENTITY preferencesCmdUnix.label       "Dikganyogo">
 <!ENTITY preferencesCmdUnix.accesskey     "n">
 
-<!ENTITY clearRecentHistory.label               "Tloša histori ya morago bjale...">
+<!ENTITY clearRecentHistory.label               "Tloša histori ya morago bjale…">
 <!ENTITY clearRecentHistory.accesskey           "h">
 <!-- LOCALIZATION NOTE : These two strings can share an access key beause they never appear together on the menu -->
 
@@ -280,11 +280,11 @@ can reach it easily. -->
 <!ENTITY appMenuCustomize.label "Tlwaelanya">
 <!ENTITY appMenuToolbarLayout.label "Tlhamego ya thulupaa">
 <!ENTITY appMenuSidebars.label "Dipara tša ka thoko">
-<!ENTITY appMenuFind.label "Hwetša...">
+<!ENTITY appMenuFind.label "Hwetša…">
 <!ENTITY appMenuUnsorted.label "Dipukutshwayo tše sa latelantšhwago">
 <!ENTITY appMenuWebDeveloper.label "Motšweletši wa wepe">
 <!ENTITY appMenuGettingStarted.label "Kamoo o ka thomago">
-<!ENTITY appMenuSafeMode.label "Thoma ka leswa o šitišitše ditlaleletši...">
+<!ENTITY appMenuSafeMode.label "Thoma ka leswa o šitišitše ditlaleletši…">
 <!ENTITY appMenuSafeMode.accesskey "T">
 
 <!ENTITY openCmd.commandkey           "l">
@@ -544,10 +544,11 @@ just addresses the organization to follow, e.g. "This site is run by " -->
 
 <!ENTITY syncBrand.shortName.label    "Nyalantšha">
 
-<!ENTITY syncSetup.label              "Beakanya &syncBrand.shortName.label;...">
+<!ENTITY syncSetup.label              "Beakanya &syncBrand.shortName.label;…">
 <!ENTITY syncSetup.accesskey          "Y">
 <!ENTITY syncSyncNowItem.label        "Nyalantšha gona bjale">
 <!ENTITY syncSyncNowItem.accesskey    "a">
 <!ENTITY syncToolbarButton.label      "Nyalantšha">
 
 <!ENTITY addonBarCloseButton.tooltip  "Tswalela para ya setlaleletši">
+<!ENTITY toggleAddonBarCmd.key        "/">

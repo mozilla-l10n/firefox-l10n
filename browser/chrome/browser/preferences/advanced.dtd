@@ -21,8 +21,8 @@
 <!ENTITY allowHWAccel.accesskey          "h">
 <!ENTITY checkSpelling.label             "Lekola mopeleto wa ka ge ke dutše ke tlanya">
 <!ENTITY checkSpelling.accesskey         "t">
-<!ENTITY doNotTrack.label                "Tell web sites I do not want to be tracked">
-<!ENTITY doNotTrack.accesskey            "d">
+<!ENTITY doNotTrack.label                "Botša diwepesate gore Ga ke nyake go latelelwa">
+<!ENTITY doNotTrack.accesskey            "k">
 
 <!ENTITY systemDefaults.label            "Ditirelwa tša tshepedišo">
 <!--XXX-->
@@ -37,8 +37,8 @@
 
 <!ENTITY connection.label                "Kgokaganyo">
 
-<!ENTITY connectionDesc.label            "Kopanya kamoo &brandShortName; e kgokaganyago le inthanete.">
-<!ENTITY connectionSettings.label        "Dipeakanyo...">
+<!ENTITY connectionDesc.label            "Kopanya kamoo &brandShortName; e kgokaganyago le inthanete">
+<!ENTITY connectionSettings.label        "Dipeakanyo…">
 <!ENTITY connectionSettings.accesskey    "e">
 
 <!ENTITY offlineStorage.label            "Polokelo yeo e sego inthaneteng">
@@ -78,12 +78,12 @@
 
 <!ENTITY offlineNotify.label             "Mpotše ge wepesaete e kgopela go boloka tsebišo gore e e diriše e se inthaneteng">
 <!ENTITY offlineNotify.accesskey         "M">
-<!ENTITY offlineNotifyExceptions.label   "Maarogi...">
+<!ENTITY offlineNotifyExceptions.label   "Maarogi…">
 <!ENTITY offlineNotifyExceptions.accesskey "a">
 
 <!ENTITY offlineAppsList.label           "Diwepesaete tše latelago di bolokile tsebišo bakeng sa go e diriša e se inthaneteng:">
 <!ENTITY offlineAppsList.height          "7em">
-<!ENTITY offlineAppsListRemove.label     "Tloša...">
+<!ENTITY offlineAppsListRemove.label     "Tloša…">
 <!ENTITY offlineAppsListRemove.accesskey "T">
 <!ENTITY offlineAppRemove.confirm        "Tloša tsebišo yeo e sego inthaneteng">
 

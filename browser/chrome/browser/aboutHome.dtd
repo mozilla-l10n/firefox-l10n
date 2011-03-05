@@ -4,16 +4,8 @@
 
 
 <!ENTITY abouthome.pageTitle "&brandFullName; Thoma letlakala">
-<!-- LOCALIZATION NOTE (abouthome.brandStart):
-     brandShortName must be in a <span/>
--->
-
-<!ENTITY abouthome.brandStart "<span>&brandShortName;</span> thoma">
 
 <!ENTITY abouthome.searchEngineButton.label "Nyaka">
-
-<!ENTITY abouthome.searchEngineLinks.advanced "Nyako e gatetšego pele">
-<!ENTITY abouthome.searchEngineLinks.preferences "Dikganyogo">
 
 <!ENTITY abouthome.aboutMozilla "Ka ga Mozilla">
 <!-- LOCALIZATION NOTE (abouthome.defaultSnippet1.v1):
