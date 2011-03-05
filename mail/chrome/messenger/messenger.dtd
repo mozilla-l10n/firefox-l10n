@@ -3,10 +3,14 @@
 <!ENTITY titleSeparator.label " - ">
 <!ENTITY newFolderCmd.label "Папку…">
 <!ENTITY newFolderCmd.accesskey "П">
-<!ENTITY closeTabCmd.label "Закрыть вкладку">
-<!ENTITY closeTabCmd.accesskey "к">
-<!ENTITY closeOtherTabsCmd.label "Закрыть другие вкладки">
-<!ENTITY closeOtherTabsCmd.accesskey "к">
+<!ENTITY closeTabCmd2.label "Закрыть вкладку">
+<!ENTITY closeTabCmd2.accesskey "а">
+<!ENTITY closeOtherTabsCmd2.label "Закрыть другие вкладки">
+<!ENTITY closeOtherTabsCmd2.accesskey "к">
+<!ENTITY undoCloseTabCmd.label "Восстановить закрытую вкладку">
+<!ENTITY undoCloseTabCmd.accesskey "с">
+<!ENTITY moveToNewWindow.label "Переместить в новое окно">
+<!ENTITY moveToNewWindow.accesskey "м">
 <!ENTITY newVirtualFolderCmd.label "Виртуальную папку…">
 <!ENTITY newVirtualFolderCmd.accesskey "В">
 <!ENTITY newOtherAccountsCmd.label "Другие учётные записи…">
