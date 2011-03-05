@@ -40,8 +40,11 @@
 <!ENTITY editorWindow.titlemodifier "Composer">
 <!ENTITY editorWindow.titlemodifiermenuseparator " -">
 <!-- Menu items:  the . means that the menu item isn't implemented yet -->
-<!-- View menu items -->
+<!-- Toolbar-only items -->
 
+
+<!ENTITY compositionToolbar.tooltip "Composition Toolbar">
+<!-- View menu items -->
 
 <!ENTITY viewMenu.label "Göster ">
 <!ENTITY viewMenu.accesskey "G">

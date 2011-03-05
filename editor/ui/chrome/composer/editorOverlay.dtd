@@ -406,7 +406,6 @@
 <!-- Toolbar-only items -->
 
 <!ENTITY menuBar.tooltip "Menü Çubuğu">
-<!ENTITY compositionToolbar.tooltip "Kompozisyon araç çubuğu">
 <!ENTITY formatToolbar.tooltip "Araç Çubuğu Biçimi">
 <!ENTITY newToolbarCmd.tooltip "Yeni bir Düzenleyici sayfası oluştur">
 <!ENTITY openToolbarCmd.label "Aç">
@@ -451,7 +450,7 @@
 <!ENTITY alignLeftButton.tooltip "Metni sol marj boyunca yerleştir">
 <!ENTITY alignCenterButton.tooltip "Metni ortala">
 <!ENTITY alignRightButton.tooltip "Metni sağ marj boyunca yerleştir">
-<!ENTITY alignjustifyButton.tooltip "Metni sol ve sağ marjlar boyunca yerleştir">
+<!ENTITY alignJustifyButton.tooltip "Metni sol ve sağ marjlar boyunca yerleştir">
 <!-- Display Mode toolbar and View menu items -->
 
 <!ENTITY NormalModeTab.label "Normal">
