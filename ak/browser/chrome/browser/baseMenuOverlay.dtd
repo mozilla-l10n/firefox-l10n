@@ -14,8 +14,6 @@
 <!ENTITY aboutProduct.accesskey   "F">
 <!ENTITY productHelp.label        "&brandShortName; Mboa">
 <!ENTITY productHelp.accesskey    "b">
-<!ENTITY helpForIEUsers.label     "Ma Internet Explorer Adehye">
-<!ENTITY helpForIEUsers.accesskey "I">
 <!ENTITY helpMac.commandkey       "?">
 <!ENTITY helpSafeMode.label       "Restart with Add-ons Disabled…">
 <!ENTITY helpSafeMode.accesskey   "R">

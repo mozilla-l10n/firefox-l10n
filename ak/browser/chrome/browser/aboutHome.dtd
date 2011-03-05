@@ -4,16 +4,8 @@
 
 
 <!ENTITY abouthome.pageTitle "&brandFullName; Start Page">
-<!-- LOCALIZATION NOTE (abouthome.brandStart):
-     brandShortName must be in a <span/>
--->
-
-<!ENTITY abouthome.brandStart "<span>&brandShortName;</span> Start">
 
 <!ENTITY abouthome.searchEngineButton.label "Hwehwɛ">
-
-<!ENTITY abouthome.searchEngineLinks.advanced "Nhwehwɛe Akɔenim">
-<!ENTITY abouthome.searchEngineLinks.preferences "Apɛde">
 
 <!ENTITY abouthome.aboutMozilla "About Mozilla">
 <!-- LOCALIZATION NOTE (abouthome.defaultSnippet1.v1):
