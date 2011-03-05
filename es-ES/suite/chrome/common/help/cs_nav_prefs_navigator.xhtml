@@ -572,20 +572,42 @@ sección</a>]</p>
   configurar cómo se abren los enlaces en &brandShortName;:</p>
 
 <ul>
-  <li><strong>Apertura de enlaces</strong>: si una página web
-    está diseñada para que ciertos enlaces se abran en una
-    nueva ventana por omisión (a través del atributo target
-    o mediante JavaScript incrustado), puede que desee modificar el
-    comportamiento:
+  <li><strong>Apertura de enlaces</strong>: si una página web está diseñada
+    para que ciertos enlaces se abran en una nueva ventana por omisión, puede
+    que desee cambiar esto. Puede definir el comportamiento de manera separada
+    para los enlaces con un atributo target y las ventanas abiertas usando
+    JavaScript:
     <ul>
-      <li><strong>La pestaña/ventana actual</strong>: abrir la
-        página enlazada en la pestaña actual de la ventana
-        activa.</li>
-      <li><strong>Una nueva pestaña en la ventana actual</strong>:
-        abrir la página enlazada en una nueva pestaña en lugar
-        de en una nueva ventana.</li>
-      <li><strong>Una nueva ventana</strong>: abrir la página enlazada
-        en una nueva ventana.</li>
+      <li><strong>Abrir enlaces que intentan abrir una ventana nueva
+        en</strong>:
+        <ul>
+          <li><strong>La pestaña/ventana actual</strong>: abrir la
+            página enlazada en la pestaña actual de la ventana
+            activa.</li>
+          <li><strong>Una nueva pestaña en la ventana actual</strong>:
+            abrir la página enlazada en una nueva pestaña en lugar
+            de en una nueva ventana.</li>
+          <li><strong>Una nueva ventana</strong>: abrir la página enlazada
+            en una nueva ventana (esto no prevalece sobre el diseño de la
+            página web y desactiva las siguientes opciones para páginas
+            abiertas desde scripts).</li>
+        </ul>
+      </li>
+      <li><strong>Cuando los scripts quieran abrir una ventana nueva</strong>:
+        <ul>
+          <li><strong>Convertir siempre ventanas en pestañas</strong>: abrir la
+            página que se va a cargar en una pestaña de acuerdo a las opciones
+            anteriores.</li>
+          <li><strong>No convertir ventanas personalizadas en pestañas</strong>:
+            abrir la página que se va a cargar en una ventana emergente si el
+            script especifica explícitamente características de la nueva
+            ventana (tales como tamaño o posición), si no, abrir la página en
+            una pestaña de acuerdo a las opciones anteriores.</li>
+          <li><strong>Abrir siempre ventanas nuevas</strong>: abrir la página
+            que se va a cargar en una ventana nueva (esto no prevalece sobre el
+            diseño de la página web).</li>
+        </ul>
+      </li>
     </ul>
   </li>      
   <li><strong>Enlaces de otras aplicaciones</strong>: si se llama a

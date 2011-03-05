@@ -800,6 +800,7 @@
       <rdf:Seq>
         <rdf:li><rdf:Description ID="advanced_pref_scripts" nc:name="Preferencias avanzadas - Scripts y  plugins" nc:link="cs_nav_prefs_advanced.xhtml#scripts_and_plugins"/> </rdf:li>
         <rdf:li><rdf:Description ID="advanced_pref_keyboard_nav" nc:name="Preferencias avanzadas - Navegación con  el teclado" nc:link="cs_nav_prefs_advanced.xhtml#keyboard_navigation"/> </rdf:li>
+        <rdf:li><rdf:Description ID="advanced_pref_find_as_you_type" nc:name="Encontrar a medida que escribe" nc:link="cs_nav_prefs_advanced.xhtml#fayt"/> </rdf:li>
         <rdf:li><rdf:Description ID="advanced_pref_cache" nc:name="Preferencias avanzadas - Caché" nc:link="cs_nav_prefs_advanced.xhtml#cache"/> </rdf:li>
         <rdf:li><rdf:Description ID="advanced_pref_proxies" nc:name="Preferencias avanzadas - Proxies" nc:link="cs_nav_prefs_advanced.xhtml#proxies"/> </rdf:li>
         <rdf:li><rdf:Description ID="advanced_http_networking" nc:name="Preferencias avanzadas - Protocolo HTTP" nc:link="cs_nav_prefs_advanced.xhtml#http_networking"/> </rdf:li>

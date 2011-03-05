@@ -2,12 +2,13 @@
 <!ENTITY setupButton.accesskey "o">
 <!ENTITY weaveDesc.label "&syncBrand.fullName.label; le permite acceder a sus marcadores, historial, contraseñas, preferencias y pestañas en varios dispositivos.">
 <!ENTITY accountGroupboxCaption.label "Cuenta de &syncBrand.fullName.label;">
-<!ENTITY currentAccount.label "Cuenta actual:">
+<!ENTITY accountName.label "Nombre de la cuenta:">
 <!ENTITY updatePass.label "Actualizar">
 <!ENTITY updatePass.accesskey "A">
 <!ENTITY resetPass.label "Restablecer">
 <!ENTITY resetPass.accesskey "R">
 <!ENTITY manageAccount.label "Administrar cuenta">
+<!ENTITY manageAccount.accesskey "A">
 <!ENTITY viewQuota.label "Ver cuota">
 <!ENTITY viewQuota.accesskey "V">
 <!ENTITY changePassword.label "Cambiar contraseña">
@@ -18,10 +19,9 @@
 <!ENTITY resetSync.accesskey "S">
 <!ENTITY stopUsingAccount.label "Dejar de usar esta cuenta">
 <!ENTITY stopUsingAccount.accesskey "D">
-<!ENTITY syncPrefsCaption.label "Sincronización del navegador">
 <!ENTITY syncComputerName.label "Nombre del equipo:">
 <!ENTITY syncComputerName.accesskey "N">
-<!ENTITY syncMy.label "Sincronizar">
+<!ENTITY syncMy2.label "Sincronizar mi:">
 <!ENTITY engine.bookmarks.label "Marcadores">
 <!ENTITY engine.bookmarks.accesskey "e">
 <!ENTITY engine.tabs.label "Pestañas">

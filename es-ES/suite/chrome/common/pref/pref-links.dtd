@@ -1,8 +1,8 @@
 <!ENTITY linksHeader.label "Comportamiento de los enlaces">
 <!ENTITY newWindow.label "Comportamiento al abrir enlaces">
 <!ENTITY newWindowDescription.label "Abrir enlaces que intentan abrir una ventana nueva en:">
-<!ENTITY newWindowRestriction.label "Cuando un script quiere abrir una ventana nueva:">
-<!ENTITY external.label "Los enlaces de otras aplicaciones">
+<!ENTITY newWindowRestriction.label "Cuando los scripts quieran abrir una ventana nueva:">
+<!ENTITY external.label "Enlaces de otras aplicaciones">
 <!ENTITY externalDescription.label "Abrir enlaces pasados desde otras aplicaciones en:">
 <!ENTITY openCurrent.label "La pestaña/ventana actual">
 <!ENTITY newWindowGroupCurrent.accesskey "L">
