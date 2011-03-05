@@ -30,7 +30,7 @@ variant of aboutSupport.show.label.  This allows us to use the preferred
 <!ENTITY aboutSupport.modifiedPrefsName "ชื่อ">
 <!ENTITY aboutSupport.modifiedPrefsValue "ค่า">
 
-<!ENTITY aboutSupport.graphicsTitle "กราฟฟิค">
+<!ENTITY aboutSupport.graphicsTitle "กราฟิก">
 
 <!ENTITY aboutSupport.installationHistoryTitle "ประวัติการติดตั้ง">
 <!ENTITY aboutSupport.updateHistoryTitle "ประวัติการปรับรุ่น">
