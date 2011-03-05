@@ -63,12 +63,12 @@
 <!ENTITY addDevice.dialog.enterCode.label   "Indtast koden som enheden leverer:">
 <!ENTITY addDevice.dialog.tryAgain.label    "Prøv venligst igen.">
 <!ENTITY addDevice.dialog.successful.label  "Enheden er blevet tilføjet. Den indledende synkronisering kan tage op til flere minutter og vil færdiggøres i baggrunden.">
-<!ENTITY addDevice.dialog.syncKey.label     "For at aktivere din enhed bliver skal du indtaste din Sync-nøgle. Udskriv eller gem venligst denne nøgle og tag den med dig.">
+<!ENTITY addDevice.dialog.syncKey.label     "For at aktivere din enhed skal du indtaste din Sync-nøgle. Udskriv eller gem venligst denne nøgle og tag den med dig.">
 <!ENTITY addDevice.dialog.connected.label   "Enhed tilsluttet">
 
 <!-- Existing Account Page 2: Manual Login -->
 <!ENTITY setup.signInPage.title.label "Log på">
-<!ENTITY existingSyncKey.description "Du kan finde din Sync-nøgle ved at tilgå &syncBrand.shortName.label; Indstillinger på en af dine andre enheder og vælge &#x0022;Min Sync-nøgle&#x0022; under &#x0022;Håndter konto&#x0022;.">
+<!ENTITY existingSyncKey.description "Du kan finde din Sync-nøgle ved at tilgå Indstillinger for &syncBrand.shortName.label; på en af dine andre enheder og vælge &#x0022;Min Sync-nøgle&#x0022; under &#x0022;Håndter konto&#x0022;.">
 <!ENTITY verifying.label              "Bekræfter…">
 <!ENTITY resetPassword.label          "Nulstil adgangskode">
 <!ENTITY resetSyncKey.label           "Jeg har mistet min anden enhed.">
@@ -104,5 +104,5 @@
 
 <!-- New & Existing Account: Setup Complete -->
 <!ENTITY setup.successPage.title "Opsætning færdig">
-<!ENTITY changeOptions.label "Du kan ændre denne indstilling ved at vælge Sync Indstillinger nedenfor.">
+<!ENTITY changeOptions.label "Du kan ændre denne indstilling ved at vælge Indstillinger for Sync nedenfor.">
 <!ENTITY continueUsing.label "Du kan nu fortsætte med at bruge &brandShortName;.">
