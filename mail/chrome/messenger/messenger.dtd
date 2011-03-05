@@ -5,10 +5,21 @@
 <!-- File Menu -->
 <!ENTITY newFolderCmd.label "Pasgan…">
 <!ENTITY newFolderCmd.accesskey "P">
-<!ENTITY closeTabCmd.label "Dùin an taba">
-<!ENTITY closeTabCmd.accesskey "D">
-<!ENTITY closeOtherTabsCmd.label "Dùin na tabaichean eile">
-<!ENTITY closeOtherTabsCmd.accesskey "l">
+<!ENTITY closeTabCmd2.label "Dùin an taba">
+<!ENTITY closeTabCmd2.accesskey "D">
+<!ENTITY closeOtherTabsCmd2.label "Dùin na tabaichean eile">
+<!ENTITY closeOtherTabsCmd2.accesskey "D">
+<!-- LOCALIZATION NOTE (undoCloseTabCmd.label):
+     Menu option to attempt to re-open a recently closed tab.
+     -->
+<!ENTITY undoCloseTabCmd.label "Neo-dhèan dùnadh an taba">
+<!ENTITY undoCloseTabCmd.accesskey "N">
+<!-- LOCALIZATION NOTE (moveToNewWindow.label):
+     Menu option to cause the current tab to be migrated to a new Thunderbird
+     window.
+     -->
+<!ENTITY moveToNewWindow.label "Gluais gu uinneag ùr">
+<!ENTITY moveToNewWindow.accesskey "G">
 <!ENTITY newVirtualFolderCmd.label "Lorg a chaidh a shàbhaladh…">
 <!ENTITY newVirtualFolderCmd.accesskey "s">
 <!ENTITY newOtherAccountsCmd.label "Cunntasan eile…">
