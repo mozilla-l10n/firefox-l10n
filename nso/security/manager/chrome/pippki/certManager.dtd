@@ -113,13 +113,13 @@
 <!ENTITY certmgr.add.accesskey                "a">
 <!ENTITY certmgr.export.label                 "Export…">
 <!ENTITY certmgr.export.accesskey             "x">
-<!ENTITY certmgr.delete2.label                "Phumola...">
+<!ENTITY certmgr.delete2.label                "Phumola…">
 <!ENTITY certmgr.delete2.accesskey            "P">
 <!ENTITY certmgr.delete_builtin.label         "Delete or Distrust…">
 <!ENTITY certmgr.delete_builtin.accesskey     "D">
-<!ENTITY certmgr.backup2.label                "Pekapo...">
+<!ENTITY certmgr.backup2.label                "Pekapo…">
 <!ENTITY certmgr.backup2.accesskey            "P">
-<!ENTITY certmgr.backupall2.label             "Dira pekapo ya tšohle...">
+<!ENTITY certmgr.backupall2.label             "Dira pekapo ya tšohle…">
 <!ENTITY certmgr.backupall2.accesskey         "k">
 <!ENTITY certmgr.restore2.label               "Amogela">
 <!ENTITY certmgr.restore2.accesskey           "m">

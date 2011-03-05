@@ -25,7 +25,7 @@
 
 <!ENTITY update.checkingForUpdates  "Go lekola dimpshafatšo…">
 <!-- LOCALIZATION NOTE (update.checkingAddonCompat): try to make the localized text short (see bug 596813 for screenshots). -->
-<!ENTITY update.checkingAddonCompat "Go lekola tshepelelano ya setlaleletši...">
+<!ENTITY update.checkingAddonCompat "Go lekola tshepelelano ya setlaleletši…">
 <!-- LOCALIZATION NOTE (update.noUpdatesFound): try to make the localized text short (see bug 596813 for screenshots). -->
 <!ENTITY update.noUpdatesFound      "&brandShortName; e nakong">
 <!-- LOCALIZATION NOTE (update.adminDisabled): try to make the localized text short (see bug 596813 for screenshots). -->
