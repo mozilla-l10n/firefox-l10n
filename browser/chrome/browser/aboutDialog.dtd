@@ -23,9 +23,9 @@
 <!ENTITY bottomLinks.privacy        "Privatlivspolitik">
 
 <!-- LOCALIZATION NOTE (update.checkingForUpdates): try to make the localized text short (see bug 596813 for screenshots). -->
-<!ENTITY update.checkingForUpdates  "Tjekker for opdateringer…">
+<!ENTITY update.checkingForUpdates  "Søger efter opdateringer…">
 <!-- LOCALIZATION NOTE (update.checkingAddonCompat): try to make the localized text short (see bug 596813 for screenshots). -->
-<!ENTITY update.checkingAddonCompat "Tjekker kompatibilitet med tilføjelser…">
+<!ENTITY update.checkingAddonCompat "Kontrollerer kompatibilitet med tilføjelser…">
 <!-- LOCALIZATION NOTE (update.noUpdatesFound): try to make the localized text short (see bug 596813 for screenshots). -->
 <!ENTITY update.noUpdatesFound      "Der er ingen opdateringer til &brandShortName; i øjeblikket">
 <!-- LOCALIZATION NOTE (update.adminDisabled): try to make the localized text short (see bug 596813 for screenshots). -->

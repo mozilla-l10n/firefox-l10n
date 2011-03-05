@@ -10,7 +10,7 @@
 <!ENTITY  paneGeneral.title       "Overordnet">
 <!ENTITY  paneTabs.title          "Faneblade">
 <!ENTITY  paneContent.title       "Indhold">
-<!ENTITY  paneApplications.title  "Applikationer">
+<!ENTITY  paneApplications.title  "Programmer">
 <!ENTITY  panePrivacy.title       "Privatliv">
 <!ENTITY  paneSecurity.title      "Sikkerhed">
 <!ENTITY  paneAdvanced.title      "Avanceret">

@@ -20,6 +20,6 @@
 <!ENTITY openHelpMac2.commandkey   "?">
 <!ENTITY openHelpMac2.modifiers    "accel">
 
-<!ENTITY updateCmd.label "Tjek for opdateringer…">
+<!ENTITY updateCmd.label "Søg efter opdateringer…">
 <!ENTITY aboutMenuCmd.label "Om &brandShortName;">
 <!ENTITY aboutMenuCmd.accesskey "O">

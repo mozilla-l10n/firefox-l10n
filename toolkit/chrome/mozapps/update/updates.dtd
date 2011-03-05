@@ -1,6 +1,6 @@
 <!ENTITY  updateWizard.title              "Softwareopdatering">
 
-<!ENTITY  checking.title                  "Tjekker for opdateringer">
+<!ENTITY  checking.title                  "Søger efter opdateringer">
 <!ENTITY  updateCheck.label               "Søger efter nyere versioner af &brandShortName;…">
 
 <!ENTITY  pluginupdatesfound.title        "Fandt opdateringer til plugins">
@@ -11,7 +11,7 @@
 <!ENTITY  noupdatesautoenabled.intro      "Der er ikke nogle opdateringer tilgængelige. 
                                            &brandShortName; vil periodisk undersøge om der er tilgængelige opdateringer.">
 <!ENTITY  noupdatesautodisabled.intro     "Der er ingen opdateringer tilgængelige. 
-                                           Tjek venligst senere eller aktiver &brandShortName;s automatiske opddateringstjek.">
+                                           Kontroller igen senere eller aktiver automatisk opddatering af &brandShortName;.">
 
 <!ENTITY  manualUpdate.title              "Kunne ikke opdatere">
 <!ENTITY  manualUpdate.desc               "En anbefalet sikkerheds- og stabilitetsopdatering er tilgængelig, 
@@ -22,7 +22,7 @@
                                            men du har ikke nok plads til at installere den.">
 <!ENTITY  manualUpdateGetMsg.label        "Du kan altid finde den seneste version af &brandShortName; hos:">
 
-<!ENTITY  incompatibleCheck.title         "Tjekker kompatibilitet med tilføjelser">
+<!ENTITY  incompatibleCheck.title         "Undersøger kompatibilitet med tilføjelser">
 <!ENTITY  incompatibleCheck.label         "Søger efter nyere versioner af dine tilføjelser…">
 
 <!ENTITY  clickHere.label                 "Se mere information om denne opdatering">
@@ -66,9 +66,9 @@
                                            &brandShortName; vil forsøge igen ved at hente en komplet opdatering.">
 
 <!ENTITY  genericBackgroundError.label    "&brandShortName; kan ikke fastslå om der er en opdatering tilgængelig.
-                                           Tjek venligst at du har den seneste version af &brandShortName; fra:">
+                                           Undersøg om du har den seneste version af &brandShortName; fra:">
 <!ENTITY  errorCertAttrNoUpdate2.label    "Noget forhindrer &brandShortName; i at opdatere på sikker vis.
-                                           Tjek venligst at du har den seneste version af &brandShortName; fra:">
+                                           Undersøg om du har den seneste version af &brandShortName; fra:">
 <!ENTITY  errorCertAttrHasUpdate.label    "Noget forsøger at lokke &brandShortName; til at acceptere en usikker opdatering.
                                            Kontakt venligst din netudbyder og søg assistance.">
 

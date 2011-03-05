@@ -21,5 +21,5 @@
 <!ENTITY migrating.label "De følgende objekter er ved at blive importeret…">
 <!ENTITY selectProfile.title "Vælg profil">
 <!ENTITY selectProfile.label "De følgende profiler er tilgængelige til import fra:">
-<!ENTITY done.title "Importering fuldført">
+<!ENTITY done.title "Import fuldført">
 <!ENTITY done.label "De følgende elementer blev importeret korrekt:">
