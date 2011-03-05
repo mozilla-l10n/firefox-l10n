@@ -4,11 +4,6 @@
 
 
 <!ENTITY abouthome.pageTitle "&brandFullName; Beginbladsy">
-<!-- LOCALIZATION NOTE (abouthome.brandStart):
-     brandShortName must be in a <span/>
--->
-
-<!ENTITY abouthome.brandStart "<span>&brandShortName;</span>-begin">
 
 <!ENTITY abouthome.searchEngineButton.label "Soek">
 
