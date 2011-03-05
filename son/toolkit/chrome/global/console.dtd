@@ -59,9 +59,9 @@
 <!ENTITY copyCmd.label       "Berandi">
 <!ENTITY copyCmd.accesskey   "B">
 <!ENTITY copyCmd.commandkey  "C">
-<!ENTITY sortFirst.label     "Ijina>ikora fay hangayan">
+<!ENTITY sortFirst.label     "Ijinaw>ikoraw fay hangayan">
 <!ENTITY sortFirst.accesskey "I">
-<!ENTITY sortLast.label      "Ikora>Ijina fay hangayan">
+<!ENTITY sortLast.label      "Ikoraw>Ijinaw fay hangayan">
 <!ENTITY sortLast.accesskey  "I">
 <!ENTITY closeCmd.commandkey "w">
 <!ENTITY focus1.commandkey   "l">

@@ -38,7 +38,7 @@
 <!ENTITY advancedJSDialog.title         "JavaScript kayandiyan jinekoyantey">
 <!ENTITY window.width                   "37em">
 
-<!ENTITY allowScripts.label             "Šigira-dumey noo fondo doo:">
+<!ENTITY allowScripts.label             "Šigira-dumey noo fondo ka:">
 
 <!ENTITY moveResizeWindows.label        "Zanfuney bere wala alkadar barmay">
 <!ENTITY moveResizeWindows.accesskey    "Z">

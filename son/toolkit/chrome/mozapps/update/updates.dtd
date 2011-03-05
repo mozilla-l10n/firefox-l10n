@@ -41,7 +41,7 @@ Ay yadda naagu ganda hala taagandiroo woo sinjiyanoo ma koy nda jine.">
 
 <!ENTITY  incompatibleList.title          "Tontoniyan duwandi kaŋ ši cere kanbe">
 
-<!ENTITY  downloadPage.title              "&brandShortName; zumandi">
+<!ENTITY  downloadPage.title              "Goo ma &brandShortName; zumandi">
 <!ENTITY  downloading.intro               "Taagandiroo goo ma zumandi...">
 <!ENTITY  connecting.label                "Goo ciya ma taagandiri feršikaa se...">
 <!ENTITY  verificationFailedText.label    "&brandShortName; mana hin ka 

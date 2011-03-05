@@ -76,7 +76,7 @@
 <!ENTITY updateHistory.label             "Taagandiri taariku cebe">
 <!ENTITY updateHistory.accesskey         "a">
 
-<!ENTITY offlineNotify.label             "Har ya ne waati kaŋ tataataru nungu hãa ka bayhayey jiši bila-nda-ciyari goyyan se">
+<!ENTITY offlineNotify.label             "Har yane waati kaŋ tataataru nungu hãa ka bayhayey jiši bila-nda-ciyari goyyan se">
 <!ENTITY offlineNotify.accesskey         "H">
 <!ENTITY offlineNotifyExceptions.label   "Hasarawey...">
 <!ENTITY offlineNotifyExceptions.accesskey "a">

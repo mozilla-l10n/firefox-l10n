@@ -42,8 +42,8 @@ can reach it easily. -->
 
 <!ENTITY  listAllTabs.label      "Maaɲey kul šeedandi">
 
-<!ENTITY tabCmd.label "Taaga nor loku">
-<!ENTITY tabCmd.accesskey "n">
+<!ENTITY tabCmd.label "Nor loku taaga">
+<!ENTITY tabCmd.accesskey "t">
 <!ENTITY tabCmd.commandkey "t">
 <!ENTITY openLocationCmd.label "Feeri gorodoo…">
 <!ENTITY openLocationCmd.accesskey "g">
