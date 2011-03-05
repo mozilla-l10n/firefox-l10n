@@ -3,10 +3,14 @@
 <!ENTITY titleSeparator.label " - ">
 <!ENTITY newFolderCmd.label "Carpeta…">
 <!ENTITY newFolderCmd.accesskey "c">
-<!ENTITY closeTabCmd.label "Cerrar pestaña">
-<!ENTITY closeTabCmd.accesskey "e">
-<!ENTITY closeOtherTabsCmd.label "Cerrar las otras pestañas">
-<!ENTITY closeOtherTabsCmd.accesskey "L">
+<!ENTITY closeTabCmd2.label "Cerrar pestaña">
+<!ENTITY closeTabCmd2.accesskey "C">
+<!ENTITY closeOtherTabsCmd2.label "Cerrar las otras pestañas">
+<!ENTITY closeOtherTabsCmd2.accesskey "o">
+<!ENTITY undoCloseTabCmd.label "Deshacer cerrar pestaña">
+<!ENTITY undoCloseTabCmd.accesskey "h">
+<!ENTITY moveToNewWindow.label "Mover a una ventana nueva">
+<!ENTITY moveToNewWindow.accesskey "v">
 <!ENTITY newVirtualFolderCmd.label "Búsqueda guardada…">
 <!ENTITY newVirtualFolderCmd.accesskey "B">
 <!ENTITY newOtherAccountsCmd.label "Otras cuentas…">
