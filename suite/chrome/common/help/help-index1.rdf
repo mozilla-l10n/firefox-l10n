@@ -1048,12 +1048,12 @@
      <rdf:Seq><rdf:li>
        <rdf:Description ID="Find_Links_As_You_Type"
          nc:name="encontrar enlaces seg&#250;n escribe"
-	 nc:link="cs_nav_prefs_advanced.xhtml#keyboard_navigation"/>
+	 nc:link="cs_nav_prefs_advanced.xhtml#fayt"/>
      </rdf:li>
      <rdf:li>
        <rdf:Description ID="Find_Text_As_You_Type"
          nc:name="encontrar texto seg&#250;n escribe"
-	 nc:link="cs_nav_prefs_advanced.xhtml#keyboard_navigation"/>
+	 nc:link="cs_nav_prefs_advanced.xhtml#fayt"/>
      </rdf:li></rdf:Seq>
    </nc:subheadings>
 </rdf:Description>
@@ -1469,6 +1469,11 @@
        <rdf:Description ID="navigation"
          nc:name="navegaci&#243;n"
 	 nc:link="help_help.xhtml#finding_the_topic_you_want"/>
+     </rdf:li>
+     <rdf:li>
+       <rdf:Description ID="caret_browsing"
+         nc:name="navegación con cursor"
+   nc:link="cs_nav_prefs_advanced.xhtml#keyboard_navigation"/>
      </rdf:li>
      <rdf:li>
        <rdf:Description ID="Tab_Key_Navigation"

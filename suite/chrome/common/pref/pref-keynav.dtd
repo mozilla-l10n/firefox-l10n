@@ -4,7 +4,7 @@
 <!ENTITY tabNavigationLinks.accesskey "L">
 <!ENTITY tabNavigationForms.label "Botones, botones de radio, casillas de verificación y listas">
 <!ENTITY tabNavigationForms.accesskey "B">
-<!ENTITY tabNavigationTextboxes.label "Nota: cajas de texto y regiones desplaz. siempre se incluyen en la tabul.">
+<!ENTITY tabNavigationTextboxes.label "Nota: cajas de texto y regiones desplazables siempre se incluyen en la tabulación.">
 <!ENTITY tabNavigationDesc.label "Cuando se pulsa Tab o Mays + Tab, moverse entre:">
 <!ENTITY accessibilityBrowseWithCaret.label "Navegar con cursor">
 <!ENTITY browseWithCaretDesc.label "La navegación con cursor le permite navegar y realizar selecciones dentro de las páginas usando las teclas del cursor para mover un cursor visible.">

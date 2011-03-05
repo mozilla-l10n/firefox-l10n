@@ -1,6 +1,6 @@
 <!ENTITY pref.findAsYouType.title "Encontrar a medida que escribe">
 <!ENTITY findAsYouTypeBehavior.label "Encontrar a medida que escribe">
-<!ENTITY findAsYouTypeTip.label "Truco: para iniciar manualmente Encontrar según escribe, teclee / para encontrar texto o ' para encontrar enlaces, seguido del texto que quiere encontrar.">
+<!ENTITY findAsYouTypeTip.label "Truco: para iniciar manualmente Encontrar a medida que escribe, teclee / para encontrar texto o ' para encontrar enlaces, seguido del texto que quiere encontrar.">
 <!ENTITY findAsYouTypeTimeout.label "Reiniciar la búsqueda en curso tras unos segundos de inactividad">
 <!ENTITY findAsYouTypeTimeout.accesskey "R">
 <!ENTITY findAsYouTypeSound.label "Reproducir un sonido cuando el texto escrito no se encuentra">
@@ -11,6 +11,6 @@
 <!ENTITY findAsYouTypeAutoText.accesskey "C">
 <!ENTITY findAsYouTypeAutoLinks.label "Sólo enlaces">
 <!ENTITY findAsYouTypeAutoLinks.accesskey "S">
-<!ENTITY findAsYouTypeFindbarEnable.label "Mostrar la barra de búsqueda mientras se encuentra al escribir">
+<!ENTITY findAsYouTypeFindbarEnable.label "Mostrar la barra de búsqueda al encontrar a medida que escribe">
 <!ENTITY findAsYouTypeFindbarEnable.accesskey "M">
-<!ENTITY findAsYouTypeFindbarEnableTip.label "Nota: Encontrar mientras escribe sin mostrar la barra de búsqueda no permite introducir caracteres internacionales.">
+<!ENTITY findAsYouTypeFindbarEnableTip.label "Nota: Encontrar a medida que escribe sin mostrar la barra de búsqueda no permite introducir caracteres internacionales.">
