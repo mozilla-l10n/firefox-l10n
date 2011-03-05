@@ -1,16 +1,16 @@
-<!ENTITY networkPanel.requestURL                  "Request URL">
-<!ENTITY networkPanel.requestMethod               "Request Method">
-<!ENTITY networkPanel.statusCode                  "Status Code">
+<!ENTITY networkPanel.requestURL                  "Ssaba URL">
+<!ENTITY networkPanel.requestMethod               "Ssaba Engeri">
+<!ENTITY networkPanel.statusCode                  "Koodi era Embeera">
 
-<!ENTITY networkPanel.requestHeaders              "Request Headers">
-<!ENTITY networkPanel.requestCookie               "Sent Cookie">
-<!ENTITY networkPanel.requestBody                 "Request Body">
-<!ENTITY networkPanel.requestFormData             "Sent Form Data">
+<!ENTITY networkPanel.requestHeaders              "Ssaba Emitwe">
+<!ENTITY networkPanel.requestCookie               "Kuuki Ewerezeddwa">
+<!ENTITY networkPanel.requestBody                 "Ssaba Omubiri">
+<!ENTITY networkPanel.requestFormData             "Data ali mu Fomu Awerezeddwa">
 
-<!ENTITY networkPanel.responseHeaders             "Response Headers">
-<!ENTITY networkPanel.responseBody                "Response Body">
-<!ENTITY networkPanel.responseBodyCached          "Cached Data">
-<!ENTITY networkPanel.responseBodyUnknownType     "Unknown Content Type">
-<!ENTITY networkPanel.responseNoBody              "No Response Body">
-<!ENTITY networkPanel.responseImage               "Received Image">
-<!ENTITY networkPanel.responseImageCached         "Cached Image">
+<!ENTITY networkPanel.responseHeaders             "Emittwe ejje Byokuddamu">
+<!ENTITY networkPanel.responseBody                "Omubiiri gwe'Byokuddamu">
+<!ENTITY networkPanel.responseBodyCached          "Data Atterekedwa Okumpi">
+<!ENTITY networkPanel.responseBodyUnknownType     "Ekiika kye Byomunda Ekitamanyiddwa">
+<!ENTITY networkPanel.responseNoBody              "Tewali Mubiiri gwe'Kyokuddamu">
+<!ENTITY networkPanel.responseImage               "Ekifananyi Ekifuniddwa">
+<!ENTITY networkPanel.responseImageCached         "Ekifananyi Ekiterekeddwa">

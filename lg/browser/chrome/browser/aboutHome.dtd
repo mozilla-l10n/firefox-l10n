@@ -4,16 +4,8 @@
 
 
 <!ENTITY abouthome.pageTitle "&brandFullName; Omuko Ogusooka">
-<!-- LOCALIZATION NOTE (abouthome.brandStart):
-     brandShortName must be in a <span/>
--->
-
-<!ENTITY abouthome.brandStart "<span>&brandShortName;</span> Wetandikira">
 
 <!ENTITY abouthome.searchEngineButton.label "Noonya">
-
-<!ENTITY abouthome.searchEngineLinks.advanced "Okunoonya okwekika ekya waggulu">
-<!ENTITY abouthome.searchEngineLinks.preferences "Okweroboza">
 
 <!ENTITY abouthome.aboutMozilla "Ebikwata ku Mozilla">
 <!-- LOCALIZATION NOTE (abouthome.defaultSnippet1.v1):

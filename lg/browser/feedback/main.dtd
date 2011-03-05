@@ -29,3 +29,5 @@
 <!ENTITY testpilot.feedbackbutton.label                "Okuzzilamu">
 <!ENTITY testpilot.happy.label        "Firefox Ekoze Musayufu Kubaga…">
 <!ENTITY testpilot.sad.label          "Firefox Ekoze Munyivvu Kubaga…">
+<!ENTITY testpilot.broken.label      "Report this website as broken…">
+<!ENTITY testpilot.idea.label        "Give us a suggestion…">

@@ -1,25 +1,23 @@
 <!ENTITY aboutSupport.pageTitle "Ebikwata ku kugonjoola obuzibu">
 <!-- LOCALIZATION NOTE (aboutSupport.pageSubtitle): don't change the 'supportLink' id. -->
 
-<!ENTITY aboutSupport.pageSubtitle "
-  This page contains technical information that might be useful when you're
-  trying to solve a problem. If you are looking for answers to common questions
-  about &brandShortName;, check out our <a id='supportLink'>support web site</a>.
-">
+<!ENTITY aboutSupport.pageSubtitle "  Omuko gunno gulina ebiwandiko ebyo'omugaso byo yinza okwetaga bwoba 
+ogezako okujjawo obuzibu obuguddwo. Bwoba ononoonya ebyokudamu eri emitaawana 
+ejjabulijo ku &brandShortName;, keberako ku <a id='supportLink'>muko ogwo'obuyambi</a>.">
 
-<!ENTITY aboutSupport.extensionsTitle "Extensions">
-<!ENTITY aboutSupport.extensionName "Name">
+<!ENTITY aboutSupport.extensionsTitle "Ebigaziya">
+<!ENTITY aboutSupport.extensionName "Erinnya">
 <!ENTITY aboutSupport.extensionEnabled "Kisobozisa">
 <!ENTITY aboutSupport.extensionVersion "Enkola">
 <!ENTITY aboutSupport.extensionId "ID">
 
-<!ENTITY aboutSupport.appBasicsTitle "Application Basics">
-<!ENTITY aboutSupport.appBasicsName "Name">
+<!ENTITY aboutSupport.appBasicsTitle "Ebyangu ku plogulaamu">
+<!ENTITY aboutSupport.appBasicsName "Erinnya">
 <!ENTITY aboutSupport.appBasicsVersion "Enkola">
-<!ENTITY aboutSupport.appBasicsProfileDir "Profile Directory">
-<!ENTITY aboutSupport.appBasicsEnabledPlugins "Enabled Plugins">
-<!ENTITY aboutSupport.appBasicsBuildConfig "Build Configuration">
-<!ENTITY aboutSupport.appBasicsUserAgent "User Agent">
+<!ENTITY aboutSupport.appBasicsProfileDir "Eteerekero Lya Profailo">
+<!ENTITY aboutSupport.appBasicsEnabledPlugins "Ebyongerwamu ebitandikidwa">
+<!ENTITY aboutSupport.appBasicsBuildConfig "Zzimba Entekateka">
+<!ENTITY aboutSupport.appBasicsUserAgent "Akayamba Omukozesa">
 
 <!ENTITY aboutSupport.show.label "Ggulawo Ebirimu Tterekero">
 <!-- LOCALIZATION NOTE (aboutSupport.showMac.label): This is the Mac-specific
@@ -28,13 +26,13 @@ variant of aboutSupport.show.label.  This allows us to use the preferred
 
 <!ENTITY aboutSupport.showMac.label "Laga mu Kizuula">
 
-<!ENTITY aboutSupport.modifiedPrefsTitle "Modified Preferences">
-<!ENTITY aboutSupport.modifiedPrefsName "Name">
-<!ENTITY aboutSupport.modifiedPrefsValue "Value">
+<!ENTITY aboutSupport.modifiedPrefsTitle "Ebyokwerobozaamu Ebikyusiddwamu">
+<!ENTITY aboutSupport.modifiedPrefsName "Erinnya">
+<!ENTITY aboutSupport.modifiedPrefsValue "Omuwendo">
 
-<!ENTITY aboutSupport.graphicsTitle "Graphics">
+<!ENTITY aboutSupport.graphicsTitle "Ebifananyi">
 
-<!ENTITY aboutSupport.installationHistoryTitle "Installation History">
+<!ENTITY aboutSupport.installationHistoryTitle "Ebifudeyo mu Kutekamu">
 <!ENTITY aboutSupport.updateHistoryTitle "Ebyayita Ebijja">
 
-<!ENTITY aboutSupport.copyToClipboard.label "Copy all to clipboard">
+<!ENTITY aboutSupport.copyToClipboard.label "Koppa byoona obiteke mu terekero lye'byokusiga">

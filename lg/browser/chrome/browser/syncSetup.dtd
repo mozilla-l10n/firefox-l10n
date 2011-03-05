@@ -71,7 +71,7 @@
 <!ENTITY existingSyncKey.description "Osoobola okufuna kopi ya'kasumuluzo akatuusa nga ogenze ku bilondebwako bya &syncBrand.shortName.label; ku kyumakyo ekirala no londako  &#x0022;My Sync Key&#x0022; wansiwa &#x0022;Ddukanya Akaunti&#x0022;.">
 <!ENTITY verifying.label              "Ekakasa…">
 <!ENTITY resetPassword.label          "Funa Akasumuluzo Akapya">
-<!ENTITY resetSyncKey.label           "I have lost my other device.">
+<!ENTITY resetSyncKey.label           "Mbuziza ekyuma kyange ekirala.">
 <!-- Sync Options -->
 
 <!ENTITY setup.optionsPage.title      "Ebyokulondako mu Kutuusa">

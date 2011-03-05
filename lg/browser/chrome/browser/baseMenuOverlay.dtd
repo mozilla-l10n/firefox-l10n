@@ -14,8 +14,6 @@
 <!ENTITY aboutProduct.accesskey   "E">
 <!ENTITY productHelp.label        "&brandShortName; Obuyambi">
 <!ENTITY productHelp.accesskey    "O">
-<!ENTITY helpForIEUsers.label     "Lwa Abakozzesa Ekkubo eriggula Omukutu gwensiyonna">
-<!ENTITY helpForIEUsers.accesskey "A">
 <!ENTITY helpMac.commandkey       "?">
 <!ENTITY helpSafeMode.label       "Tandika kompyuta buto nga ojjeko Ebyokwongerako…">
 <!ENTITY helpSafeMode.accesskey   "T">
