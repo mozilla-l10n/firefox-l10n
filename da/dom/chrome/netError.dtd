@@ -19,7 +19,7 @@
 <!ENTITY generic.longDesc "Siden kunne ikke vises, måske fordi den ikke eksisterer eller stien er forkert.<br/>Kontroller lige at navnet og stien er rigtig.">
 
 <!ENTITY malformedURI.title "Ugyldig adresse">
-<!ENTITY malformedURI.longDesc "<p>Adressen er ikke angivet i et genkendt format. Tjek venligst adresselinjen for fejl og prøv igen.</p>">
+<!ENTITY malformedURI.longDesc "<p>Adressen er ikke angivet i et genkendt format. Kontroller om der er fejl i adressen og prøv igen.</p>">
 
 <!ENTITY netInterrupt.title "Dataoverførsel afbrudt">
 <!ENTITY netInterrupt.longDesc "<p>Browseren oprettede forbindelsen korrekt, men blev afbrudt under overførsel af informationen. Forsøg venligst igen.</p><ul><li> Er du ikke i stand til at browse andre sider? Undersøg computerens netværksforbindelse.</li><li>Har du stadig problemer? Konsulter din netværksadministrator eller internetudbyder for assistance.</li></ul>">

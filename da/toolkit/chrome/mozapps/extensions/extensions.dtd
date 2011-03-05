@@ -4,7 +4,7 @@
 <!ENTITY listEmpty.installed.label            "Du har ikke nogen tilføjelser af denne type installeret">
 <!ENTITY listEmpty.availableUpdates.label     "Ingen opdateringer fundet">
 <!ENTITY listEmpty.recentUpdates.label        "Du har ikke opdateret nogle tilføjelser for nyligt">
-<!ENTITY listEmpty.findUpdates.label          "Tjek for opdateringer">
+<!ENTITY listEmpty.findUpdates.label          "Søg efter opdateringer">
 <!ENTITY listEmpty.search.label               "Ingen matchende tilføjelser">
 <!ENTITY listEmpty.button.label               "Lær mere om tilføjelser">
 <!ENTITY installAddonFromFile.label           "Installer tilføjelse fra fil…">
@@ -35,7 +35,7 @@
 <!ENTITY view.availableUpdates.label          "Tilgængelige opdateringer">
 
 <!-- addon updates -->
-<!ENTITY updates.checkForUpdates.label        "Tjek for opdateringer">
+<!ENTITY updates.checkForUpdates.label        "Søg efter opdateringer">
 <!ENTITY updates.checkForUpdates.accesskey    "T">
 <!ENTITY updates.viewUpdates.label            "Vis nylige opdateringer">
 <!ENTITY updates.viewUpdates.accesskey        "V">
@@ -95,7 +95,7 @@
 <!-- LOCALIZATION NOTE (discover.title,discover.description,discover.footer):
      Displayed in the center of the Get Add-ons view, see bug 601143 for mockups. -->
 <!ENTITY discover.title                       "Hvad er tilføjelser?">
-<!ENTITY discover.description2                "Tilføjelser er små applikationer som du kan bruge til at tilpasse &brandShortName; med 
+<!ENTITY discover.description2                "Tilføjelser er små programmer som du kan bruge til at tilpasse &brandShortName; med 
   ekstra funktioner eller andet udseende. Prøv en tidsbesparende sidebjælke, bliv gjort opmærksom på vejret, eller prøv et nyt look og gør 
   dermed  &brandShortName; til din helt egen.">
 <!ENTITY discover.footer                      "Når du er koblet til nettet vil denne oversigt
@@ -121,7 +121,7 @@
 <!ENTITY detail.repository                    "Profil af tilføjelse">
 <!ENTITY detail.size                          "Størrelse">
 
-<!ENTITY detail.checkForUpdates.label         "Tjek for opdateringer">
+<!ENTITY detail.checkForUpdates.label         "Søg efter opdateringer">
 <!ENTITY detail.checkForUpdates.accesskey     "T">
 <!ENTITY detail.checkForUpdates.tooltip       "Søg efter tilgængelige opdateringer til denne tilføjelse">
 <!ENTITY detail.showPreferencesWin.label      "Indstillinger">

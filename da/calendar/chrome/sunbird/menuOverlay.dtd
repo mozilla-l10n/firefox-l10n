@@ -161,7 +161,7 @@
 <!ENTITY aboutCmd.label "Om &brandFullName;">
 <!ENTITY aboutCmd.accesskey "O">
 
-<!ENTITY updateCmd.label "Tjek for opdateringer…">
+<!ENTITY updateCmd.label "Søg efter opdateringer…">
 <!ENTITY updateCmd.accesskey "T">
 
 <!ENTITY sunbird.export.calendar.label "Eksporter kalender…">

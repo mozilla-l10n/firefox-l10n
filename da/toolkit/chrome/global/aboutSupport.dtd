@@ -2,9 +2,9 @@
 
 <!-- LOCALIZATION NOTE (aboutSupport.pageSubtitle): don't change the 'supportLink' id. -->
 <!ENTITY aboutSupport.pageSubtitle "
-  Denne side indhodler teknisk information som måske kan være brugbar når du forsøger
+  Denne side indeholder teknisk information som måske kan være brugbar når du forsøger
   at løse et problem. Hvis du leder efter svar på ofte spurgte spørgsmål vedrørende
-  &brandShortName;, kan du tjekke vores <a id='supportLink'>support websted</a>.
+  &brandShortName;, kan du besøge vores <a id='supportLink'>support websted</a>.
 ">
 
 <!ENTITY aboutSupport.extensionsTitle "Tilføjelser">
@@ -13,7 +13,7 @@
 <!ENTITY aboutSupport.extensionVersion "Version">
 <!ENTITY aboutSupport.extensionId "ID">
 
-<!ENTITY aboutSupport.appBasicsTitle "Applikationsinfo">
+<!ENTITY aboutSupport.appBasicsTitle "Programinfo">
 <!ENTITY aboutSupport.appBasicsName "Navn">
 <!ENTITY aboutSupport.appBasicsVersion "Version">
 <!ENTITY aboutSupport.appBasicsProfileDir "Profilmappe">
