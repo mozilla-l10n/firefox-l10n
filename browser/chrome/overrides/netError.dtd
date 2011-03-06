@@ -162,7 +162,7 @@
 <p>Website-Inhaber, die glauben, dass ihre Website fälschlicherweise als angreifende Website gemeldet wurde, können unter <a href='http://www.stopbadware.org/home/reviewinfo' > eine erneute Einschätzung beantragen</a>.</p>
 ">
 
-<!ENTITY phishingBlocked.title "Vermuteter Web-Betrug!">
+<!ENTITY phishingBlocked.title "Vermuteter Betrugsversuch!">
 <!ENTITY phishingBlocked.longDesc "
 <p>Falls Sie hier persönliche Daten eingeben, müssen Sie mit Identitätsdiebstahl oder sonstigem Betrug rechnen.</p>
 <p>Diese Art von Internet-Betrug ist auch bekannt als Phishing. Dabei versuchen Kriminelle in betrügerischer Absicht, Webseiten oder E-Mails nachzuahmen, denen Sie eventuell vertrauen.</p>
