@@ -245,6 +245,12 @@
 <!ENTITY priority.level.high                "Élevée">
 <!ENTITY priority.level.high.accesskey      "v">
 
+<!-- Task View -->
+<!-- Note that the above *.context.* strings are currently used for the other
+     task action buttons -->
+<!ENTITY calendar.taskview.delete.label     "Supprimer">
+<!ENTITY calendar.taskview.delete.accesskey "S">
+
 <!-- Server Context Menu -->
 <!ENTITY calendar.context.newserver.label              "Nouvel agenda…">
 <!ENTITY calendar.context.newserver.accesskey          "N">
