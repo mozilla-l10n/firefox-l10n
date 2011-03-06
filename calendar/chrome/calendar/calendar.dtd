@@ -185,32 +185,16 @@
 <!ENTITY calendar.context.newevent.accesskey          "N">
 <!ENTITY calendar.context.newtodo.label               "Nouvelle tâche…">
 <!ENTITY calendar.context.newtodo.accesskey           "v">
-<!ENTITY calendar.context.modifytask.label            "Modifier la tâche…">
-<!ENTITY calendar.context.modifytask.accesskey        "M">
-<!ENTITY calendar.context.modifyitem.label            "Modifier l'élément">
-<!ENTITY calendar.context.modifyitem.accesskey        "M">
 <!ENTITY calendar.context.deletetask.label            "Supprimer la tâche">
 <!ENTITY calendar.context.deletetask.accesskey        "S">
-<!ENTITY calendar.context.deleteitem.label            "Supprimer">
-<!ENTITY calendar.context.deleteitem.accesskey        "S">
 <!ENTITY calendar.context.deleteevent.label           "Supprimer l'événement">
 <!ENTITY calendar.context.deleteevent.accesskey       "S">
-<!ENTITY calendar.context.deletethisevent.label       "Cet événement">
-<!ENTITY calendar.context.deletethisevent.accesskey   "C">
-<!ENTITY calendar.context.deletecompleteseries.label  "Toute la série">
-<!ENTITY calendar.context.deletecompleteseries.accesskey "o">
-<!ENTITY calendar.context.deletefutureevents.label     "Tous les événements à venir">
-<!ENTITY calendar.context.deletefutureevents.accesskey "v">
-<!ENTITY calendar.context.deletefuturetasks.label     "Toutes les tâches à venir">
-<!ENTITY calendar.context.deletefuturetasks.accesskey "u">
 <!ENTITY calendar.context.cutevent.label              "Couper">
 <!ENTITY calendar.context.cutevent.accesskey          "C">
 <!ENTITY calendar.context.copyevent.label             "Copier">
 <!ENTITY calendar.context.copyevent.accesskey         "p">
 <!ENTITY calendar.context.pasteevent.label            "Coller">
 <!ENTITY calendar.context.pasteevent.accesskey        "o">
-<!ENTITY calendar.context.selectall.label             "Tout sélectionner">
-<!ENTITY calendar.context.selectall.accesskey         "T">
 <!ENTITY calendar.context.button.label                "Aujourd'hui" >
 <!ENTITY calendar.context.button.accesskey            "A" >
 
