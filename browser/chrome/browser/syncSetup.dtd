@@ -44,7 +44,7 @@
 <!ENTITY syncKeyEntry.label        "Din Sync-nøgle">
 <!ENTITY syncKeyEntry.accesskey    "n">
 <!ENTITY syncKeyGenerate.label     "Opret">
-<!ENTITY syncKeyBackup.description "Din Sync-nøgle påkræves for at tilgå &syncBrand.fullName.label; på andre maskiner. Lav venligst en sikkerhedskopi. Vi kan ikke hjælpe med at genskabe din Sync-nøgle.">
+<!ENTITY syncKeyBackup.description "Din Sync-nøgle er nødvendig for at kunne tilgå &syncBrand.fullName.label; på andre maskiner. Vi anbefaler at du laver en sikkerhedskopi. Vi kan ikke hjælpe med at genskabe din Sync-nøgle.">
 
 <!ENTITY button.syncKeyBackup.print.label     "Udskriv…">
 <!ENTITY button.syncKeyBackup.print.accesskey "U">

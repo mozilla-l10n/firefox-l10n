@@ -1,4 +1,4 @@
-<!ENTITY pluginWizard.title                                  "Plugin Finder Tjenesten">
+<!ENTITY pluginWizard.title                                  "Plugin Finder tjenesten">
 <!ENTITY pluginWizard.firstPage.title                        "Velkommen til &pluginWizard.title;">
 
 <!ENTITY pluginWizard.checkingForPlugins.description.label   "&brandShortName; undersøger nu for tilgængelige plugins…">
@@ -8,7 +8,7 @@
 <!ENTITY pluginWizard.availablePluginsPage.continueMsg.label "Klik Næste for at installere disse plugins.">
 <!ENTITY pluginWizard.availablePluginsPage.installerUI       "Nogle plugins kan måske kræve yderligere informationer fra dig under installationen.">
 
-<!ENTITY pluginWizard.licensePage.title                      "Plugin licens">
+<!ENTITY pluginWizard.licensePage.title                      "Plugin-licens">
 <!ENTITY pluginWizard.licensePage.accept.label               "Jeg accepterer.">
 <!ENTITY pluginWizard.licensePage.deny.label                 "Jeg accepterer IKKE (plugin'et vil ikke blive installeret).">
 
