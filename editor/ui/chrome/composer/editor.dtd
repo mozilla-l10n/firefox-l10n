@@ -37,6 +37,7 @@
    - ***** END LICENSE BLOCK ***** -->
 <!ENTITY editorWindow.titlemodifier "Укладальнік">
 <!ENTITY editorWindow.titlemodifiermenuseparator " - ">
+<!ENTITY compositionToolbar.tooltip "Прыладапаліца ўкладання">
 <!ENTITY viewMenu.label "Прагляд">
 <!ENTITY viewMenu.accesskey "г">
 <!ENTITY compositionToolbarCmd.label "Прыладапаліца ўкладання">

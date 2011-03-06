@@ -6,3 +6,11 @@
 <!ENTITY tabNavigationForms.accesskey "К">
 <!ENTITY tabNavigationTextboxes.label "Заўвага: тэкставыя скрынкі і пракручвальныя рэгіёны заўсёды частка парадку рухаў.">
 <!ENTITY tabNavigationDesc.label "Калі націскаюцца Tab ці Shift+Tab, рухацца між:">
+<!ENTITY accessibilityBrowseWithCaret.label "Азізаць з птушкай">
+<!ENTITY browseWithCaretDesc.label "Азіранне з птушкай дае магчымасць перамяшчацца па старонцы і вылучаць на ёй змесціва, рухаючы з дапамогаю клавішаў-стрэлак бачную птушку. ">
+<!ENTITY browseWithCaretUse.label "Карыстацца азіраннем з птушкаю">
+<!ENTITY browseWithCaretUse.accesskey "а">
+<!ENTITY browseWithCaretShortCut.label "Ужываць выклічнік F7, каб уключаць/выключаць азіранне з птушкаю">
+<!ENTITY browseWithCaretShortCut.accesskey "F">
+<!ENTITY browseWithCaretWarn.label "Папярэджваць мяне перад уключэннем азірання з птушкаю">
+<!ENTITY browseWithCaretWarn.accesskey "я">

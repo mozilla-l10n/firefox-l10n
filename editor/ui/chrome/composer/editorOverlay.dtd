@@ -356,7 +356,6 @@
 <!ENTITY tableProperties.label "Уласцівасці табліцы…">
 <!ENTITY tableProperties.accesskey "ц">
 <!ENTITY menuBar.tooltip "Паліца меню">
-<!ENTITY compositionToolbar.tooltip "Паліца з прыладамі ўкладання">
 <!ENTITY formatToolbar.tooltip "Паліца прыладаў фарматавання">
 <!ENTITY newToolbarCmd.tooltip "Стварыць новую старонку Ўкладальніка">
 <!ENTITY openToolbarCmd.label "Адчыніць">
@@ -399,7 +398,7 @@
 <!ENTITY alignLeftButton.tooltip "Выраўноўваць тэкст уздоўж левага прымежку">
 <!ENTITY alignCenterButton.tooltip "Цэнтраванае выраўноўванне тэксту">
 <!ENTITY alignRightButton.tooltip "Выраўноўваць тэкст уздоўж правага прымежку">
-<!ENTITY alignjustifyButton.tooltip "Выраўноўваць тэкст уздоўж левага і правага прымежкаў">
+<!ENTITY alignJustifyButton.tooltip "Выраўноваць тэкст да левага і правага прымежкаў">
 <!ENTITY NormalModeTab.label "Звычайны">
 <!ENTITY NormalMode.label "Звычайны рэжым праўкі ">
 <!ENTITY NormalMode.accesskey "ч">
