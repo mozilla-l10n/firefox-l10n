@@ -42,15 +42,18 @@
 
 <!-- Menu items:  the . means that the menu item isn't implemented yet -->
 
+<!-- Toolbar-only items -->
+<!ENTITY compositionToolbar.tooltip "Lišta editoru">
+
 <!-- View menu items -->
 <!ENTITY viewMenu.label "Zobrazení">
 <!ENTITY viewMenu.accesskey "Z">
-<!ENTITY compositionToolbarCmd.label "Lišta nástrojů">
-<!ENTITY compositionToolbarCmd.accesskey "t">
+<!ENTITY compositionToolbarCmd.label "Lišta editoru">
+<!ENTITY compositionToolbarCmd.accesskey "e">
 <!ENTITY formattingToolbarCmd.label "Lišta stylů">
-<!ENTITY formattingToolbarCmd.accesskey "y">
+<!ENTITY formattingToolbarCmd.accesskey "s">
 <!ENTITY editmodeToolbarCmd.label "Lišta zobrazení">
-<!ENTITY editmodeToolbarCmd.accesskey "e">
+<!ENTITY editmodeToolbarCmd.accesskey "z">
 
 <!-- Format menu items -->
 <!ENTITY formatMenu.label "Formát">

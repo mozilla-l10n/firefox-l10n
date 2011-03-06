@@ -405,7 +405,6 @@
 
 <!-- Toolbar-only items -->
 <!ENTITY menuBar.tooltip "Nabídka">
-<!ENTITY compositionToolbar.tooltip "Lišta editoru">
 <!ENTITY formatToolbar.tooltip "Lišta úprav">
 <!ENTITY newToolbarCmd.tooltip "Vytvoří novou stránku">
 <!ENTITY openToolbarCmd.label "Otevřít">
@@ -450,7 +449,7 @@
 <!ENTITY alignLeftButton.tooltip "Zarovná text k levému okraji">
 <!ENTITY alignCenterButton.tooltip "Zarovná text na střed">
 <!ENTITY alignRightButton.tooltip "Zarovná text k pravému okraji">
-<!ENTITY alignjustifyButton.tooltip "Zarovná text do bloku">
+<!ENTITY alignJustifyButton.tooltip "Zarovná text do bloku">
 
 <!-- Display Mode toolbar and View menu items -->
 <!ENTITY NormalModeTab.label "Normální">
