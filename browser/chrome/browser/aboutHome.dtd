@@ -17,7 +17,7 @@
 <!-- LOCALIZATION NOTE (abouthome.defaultSnippet1.v1):
      text in <a/> will be linked to the Firefox features page on mozilla.com
 -->
-<!ENTITY abouthome.defaultSnippet1.v1 "Σας ευχαριστούμε που επιλέξατε τον! Για να εκμεταλλευτείτε πλήρως την εφαρμογή, διαβάστε περισσότερα για τις <a>νέες λειτουργίες</a>.">
+<!ENTITY abouthome.defaultSnippet1.v1 "Σας ευχαριστούμε που επιλέξατε τον Firefox! Για να εκμεταλλευτείτε πλήρως την εφαρμογή, διαβάστε περισσότερα για τις <a>νέες λειτουργίες</a>.">
 <!-- LOCALIZATION NOTE (abouthome.defaultSnippet2.v1):
      text in <a/> will be linked to the featured add-ons on addons.mozilla.org
 -->
