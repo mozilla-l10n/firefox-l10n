@@ -195,8 +195,12 @@
 <!ENTITY calendar.context.copyevent.accesskey         "p">
 <!ENTITY calendar.context.pasteevent.label            "Coller">
 <!ENTITY calendar.context.pasteevent.accesskey        "o">
-<!ENTITY calendar.context.button.label                "Aujourd'hui" >
-<!ENTITY calendar.context.button.accesskey            "A" >
+<!ENTITY calendar.context.button.label                "Aujourd'hui">
+<!ENTITY calendar.context.button.accesskey            "A">
+<!ENTITY calendar.context.attendance.menu.label       "Participation">
+<!ENTITY calendar.context.attendance.menu.accesskey   "a">
+<!ENTITY calendar.context.attendance.occurrence.label "Cette occurrence">
+<!ENTITY calendar.context.attendance.all.label        "Toutes les occurrences">
 
 <!-- Task Context Menu -->
 <!ENTITY calendar.context.progress.label              "Progression">
