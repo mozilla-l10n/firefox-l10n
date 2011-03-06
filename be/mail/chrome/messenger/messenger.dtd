@@ -3,10 +3,14 @@
 <!ENTITY titleSeparator.label " - ">
 <!ENTITY newFolderCmd.label "Папка…">
 <!ENTITY newFolderCmd.accesskey "П">
-<!ENTITY closeTabCmd.label "Зачыніць устаўку">
-<!ENTITY closeTabCmd.accesskey "ч">
-<!ENTITY closeOtherTabsCmd.label "Закрыць іншыя ўстаўкі">
-<!ENTITY closeOtherTabsCmd.accesskey "і">
+<!ENTITY closeTabCmd2.label "Зачыніць устаўку">
+<!ENTITY closeTabCmd2.accesskey "ч">
+<!ENTITY closeOtherTabsCmd2.label "Зачыніць іншыя ўстаўкі">
+<!ENTITY closeOtherTabsCmd2.accesskey "і">
+<!ENTITY undoCloseTabCmd.label "Адмяніць закрыццё ўстаўкі">
+<!ENTITY undoCloseTabCmd.accesskey "А">
+<!ENTITY moveToNewWindow.label "Перамясціць у новае акно">
+<!ENTITY moveToNewWindow.accesskey "н">
 <!ENTITY newVirtualFolderCmd.label "Захаваны пошук…">
 <!ENTITY newVirtualFolderCmd.accesskey "п">
 <!ENTITY newOtherAccountsCmd.label "Іншыя рахункі…">

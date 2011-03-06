@@ -63,7 +63,7 @@
 <!ENTITY Diskspace "Месца на дыску">
 <!ENTITY offlineCompact.label "Ушчыльняць папкі, калі яны захоўваюць больш, чым">
 <!ENTITY offlineCompact.accesskey "У">
-<!ENTITY kb.label "КБ">
+<!ENTITY mb.label "МБ">
 <!ENTITY useCacheBefore.label "Ужываць да">
 <!ENTITY useCacheBefore.accesskey "У">
 <!ENTITY useCacheAfter.label "МБ прасторы для запасніку">
