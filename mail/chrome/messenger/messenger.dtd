@@ -5,10 +5,21 @@
 <!-- File Menu -->
 <!ENTITY newFolderCmd.label "Dossier…">
 <!ENTITY newFolderCmd.accesskey "D">
-<!ENTITY closeTabCmd.label "Fermer l'onglet">
-<!ENTITY closeTabCmd.accesskey "m">
-<!ENTITY closeOtherTabsCmd.label "Fermer les autres onglets">
-<!ENTITY closeOtherTabsCmd.accesskey "F">
+<!ENTITY closeTabCmd2.label "Fermer l'onglet">
+<!ENTITY closeTabCmd2.accesskey "m">
+<!ENTITY closeOtherTabsCmd2.label "Fermer les autres onglets">
+<!ENTITY closeOtherTabsCmd2.accesskey "F">
+<!-- LOCALIZATION NOTE (undoCloseTabCmd.label):
+     Menu option to attempt to re-open a recently closed tab.
+     -->
+<!ENTITY undoCloseTabCmd.label "Annuler la fermeture de l'onglet">
+<!ENTITY undoCloseTabCmd.accesskey "A">
+<!-- LOCALIZATION NOTE (moveToNewWindow.label):
+     Menu option to cause the current tab to be migrated to a new Thunderbird
+     window.
+     -->
+<!ENTITY moveToNewWindow.label "Basculer dans une nouvelle fenêtre">
+<!ENTITY moveToNewWindow.accesskey "B">
 <!ENTITY newVirtualFolderCmd.label "Dossier virtuel…">
 <!ENTITY newVirtualFolderCmd.accesskey "v">
 <!ENTITY newOtherAccountsCmd.label "Autres comptes…">
