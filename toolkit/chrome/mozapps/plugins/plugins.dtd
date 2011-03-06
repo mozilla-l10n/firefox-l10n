@@ -1,4 +1,4 @@
-<!ENTITY pluginWizard.title                                  "Plugin Finder tjenesten">
+<!ENTITY pluginWizard.title                                  "Plugin Finder-tjenesten">
 <!ENTITY pluginWizard.firstPage.title                        "Velkommen til &pluginWizard.title;">
 
 <!ENTITY pluginWizard.checkingForPlugins.description.label   "&brandShortName; undersøger nu for tilgængelige plugins…">
