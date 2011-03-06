@@ -6,3 +6,11 @@
 <!ENTITY tabNavigationForms.accesskey "T">
 <!ENTITY tabNavigationTextboxes.label "Pozn.: Vstupní textová políčka jsou vždy součástí přepínání.">
 <!ENTITY tabNavigationDesc.label "Pokud je stisknut Tab nebo Shift+Tab, přepnout mezi:">
+<!ENTITY accessibilityBrowseWithCaret.label "Procházení stránky">
+<!ENTITY browseWithCaretDesc.label "Tato funkce umístí do stránky pohyblivý textový kurzor, který vám umožní procházet stránku a vybírat text pomocí klávesnice.">
+<!ENTITY browseWithCaretUse.label "Použít funkci Procházení stránky">
+<!ENTITY browseWithCaretUse.accesskey "P">
+<!ENTITY browseWithCaretShortCut.label "Přepínat stav pomocí klávesy F7">
+<!ENTITY browseWithCaretShortCut.accesskey "s">
+<!ENTITY browseWithCaretWarn.label "Upozornit při zapnutí funkce Procházení stránky">
+<!ENTITY browseWithCaretWarn.accesskey "U">

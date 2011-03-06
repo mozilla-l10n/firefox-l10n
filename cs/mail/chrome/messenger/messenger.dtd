@@ -5,10 +5,21 @@
 <!-- File Menu -->
 <!ENTITY newFolderCmd.label "Složka…">
 <!ENTITY newFolderCmd.accesskey "S">
-<!ENTITY closeTabCmd.label "Zavřít panel">
-<!ENTITY closeTabCmd.accesskey "Z">
-<!ENTITY closeOtherTabsCmd.label "Zavřít ostatní panely">
-<!ENTITY closeOtherTabsCmd.accesskey "v">
+<!ENTITY closeTabCmd2.label "Zavřít panel">
+<!ENTITY closeTabCmd2.accesskey "Z">
+<!ENTITY closeOtherTabsCmd2.label "Zavřít ostatní panely">
+<!ENTITY closeOtherTabsCmd2.accesskey "v">
+<!-- LOCALIZATION NOTE (undoCloseTabCmd.label):
+     Menu option to attempt to re-open a recently closed tab.
+     -->
+<!ENTITY undoCloseTabCmd.label "Otevřít zavřený panel">
+<!ENTITY undoCloseTabCmd.accesskey "t">
+<!-- LOCALIZATION NOTE (moveToNewWindow.label):
+     Menu option to cause the current tab to be migrated to a new Thunderbird
+     window.
+     -->
+<!ENTITY moveToNewWindow.label "Přesunout do nového okna">
+<!ENTITY moveToNewWindow.accesskey "P">
 <!ENTITY newVirtualFolderCmd.label "Uložené hledání…">
 <!ENTITY newVirtualFolderCmd.accesskey "U">
 <!ENTITY newOtherAccountsCmd.label "Další účty…">
@@ -717,6 +728,7 @@ you can use these alternative items. Otherwise, their values should be empty.  -
    "File here" option for the move to/copy to widge.t
   -->
 <!ENTITY columnPicker.thisFolder.label "Tato složka">
+
 
 <!-- Media (video/audio) controls -->
 <!ENTITY contextPlay.label "Přehrát">
