@@ -5,10 +5,21 @@
 <!-- File Menu -->
 <!ENTITY newFolderCmd.label "Pasta...">
 <!ENTITY newFolderCmd.accesskey "P">
-<!ENTITY closeTabCmd.label "Fechar separador">
-<!ENTITY closeTabCmd.accesskey "e">
-<!ENTITY closeOtherTabsCmd.label "Fechar outros separadoress">
-<!ENTITY closeOtherTabsCmd.accesskey "h">
+<!ENTITY closeTabCmd2.label "Fechar separador">
+<!ENTITY closeTabCmd2.accesskey "e">
+<!ENTITY closeOtherTabsCmd2.label "Fechar outros separadoress">
+<!ENTITY closeOtherTabsCmd2.accesskey "h">
+<!-- LOCALIZATION NOTE (undoCloseTabCmd.label):
+     Menu option to attempt to re-open a recently closed tab.
+     -->
+<!ENTITY undoCloseTabCmd.label "Anular fechar separador">
+<!ENTITY undoCloseTabCmd.accesskey "u">
+<!-- LOCALIZATION NOTE (moveToNewWindow.label):
+     Menu option to cause the current tab to be migrated to a new Thunderbird
+     window.
+     -->
+<!ENTITY moveToNewWindow.label "Mover para nova janela">
+<!ENTITY moveToNewWindow.accesskey "j">
 <!ENTITY newVirtualFolderCmd.label "Pasta de pesquisa...">
 <!ENTITY newVirtualFolderCmd.accesskey "A">
 <!ENTITY newOtherAccountsCmd.label "Outras contas...">
