@@ -46,6 +46,9 @@
 
 <!-- Menu items:  the . means that the menu item isn't implemented yet -->
 
+<!-- Toolbar-only items -->
+<!ENTITY compositionToolbar.tooltip "Pasek narzędzi edycyjnych">
+
 <!-- View menu items -->
 <!ENTITY viewMenu.label                  "Widok">
 <!ENTITY viewMenu.accesskey              "W">

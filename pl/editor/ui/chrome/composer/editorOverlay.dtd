@@ -405,7 +405,6 @@
 
 <!-- Toolbar-only items -->
 <!ENTITY menuBar.tooltip               "Pasek menu">
-<!ENTITY compositionToolbar.tooltip    "Pasek narzędzi edycyjnych">
 <!ENTITY formatToolbar.tooltip         "Pasek narzędzi formatowania">
 <!ENTITY newToolbarCmd.tooltip         "Utwórz nową stronę Kompozytora Stron">
 <!ENTITY openToolbarCmd.label          "Otwórz">
@@ -450,7 +449,7 @@
 <!ENTITY alignLeftButton.tooltip       "Wyrównaj tekst do lewego marginesu">
 <!ENTITY alignCenterButton.tooltip     "Wyrównaj tekst do środka">
 <!ENTITY alignRightButton.tooltip      "Wyrównaj tekst do prawego marginesu">
-<!ENTITY alignjustifyButton.tooltip    "Wyrównaj tekst pomiędzy prawym a lewym marginesem">
+<!ENTITY alignJustifyButton.tooltip    "Wyrównaj tekst pomiędzy prawym a lewym marginesem">
 
 <!-- Display Mode toolbar and View menu items -->
 <!ENTITY NormalModeTab.label      "Normalny">
