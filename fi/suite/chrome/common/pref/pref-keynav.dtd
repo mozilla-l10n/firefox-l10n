@@ -6,19 +6,11 @@
 <!ENTITY tabNavigationForms.accesskey "P">
 <!ENTITY tabNavigationTextboxes.label "Huom. Tekstiruudut ja vieritettävät alueet ovat aina osa siirtymäjärjestystä.">
 <!ENTITY tabNavigationDesc.label "Kun painan Sarkain tai Vaihto+Sarkain, siirry seuraavaan tai edelliseen:">
-<!ENTITY findAsYouTypeBehavior.label "Etsi kirjoitettaessa">
-<!ENTITY findAsYouTypeTip.label "Vinkki: Välitön haku käynnistyy painettaessa /, jolloin etsitään tekstiä tai ', jolloin etsitään linkkejä.">
-<!ENTITY findAsYouTypeTimeout.label "Lopeta haku muutaman sekunnin tauon jälkeen">
-<!ENTITY findAsYouTypeTimeout.accesskey "o">
-<!ENTITY findAsYouTypeSound.label "Anna äänimerkki, kun kirjoitettua tekstiä ei löydy">
-<!ENTITY findAsYouTypeSound.accesskey "n">
-<!ENTITY findAsYouTypeEnableAuto.label "Ala etsiä sivulta heti kirjoitettaessa:">
-<!ENTITY findAsYouTypeEnableAuto.accesskey "A">
-<!ENTITY findAsYouTypeAutoText.label "Tekstiä ja linkkejä">
-<!ENTITY findAsYouTypeAutoText.accesskey "T">
-<!ENTITY findAsYouTypeAutoLinks.label "Linkkejä">
-<!ENTITY findAsYouTypeAutoLinks.accesskey "i">
-
-<!ENTITY findAsYouTypeFindbarEnable.label "Näytä hakupalkki etsittäessä kirjoittamisen aikana">
-<!ENTITY findAsYouTypeFindbarEnable.accesskey "ä">
-<!ENTITY findAsYouTypeFindbarEnableTip.label "Huom. Et voi etsiä kansainvälistä tekstiä kirjoitettaessasi, jos et käytä hakupalkkia.">
+<!ENTITY accessibilityBrowseWithCaret.label "Kohdistinselaaminen">
+<!ENTITY browseWithCaretDesc.label "Kohdistinselaaminen antaa sinun lukea ja valita sivulla olevaa tekstiä nuolinäppäimillä.">
+<!ENTITY browseWithCaretUse.label "Käytä kohdistinselausta">
+<!ENTITY browseWithCaretUse.accesskey "K">
+<!ENTITY browseWithCaretShortCut.label "F7-näppäin ottaa kohdistinselauksen päälle ja pois">
+<!ENTITY browseWithCaretShortCut.accesskey "F">
+<!ENTITY browseWithCaretWarn.label "Kysy ennen kohdistinselaamisen käyttöönottoa">
+<!ENTITY browseWithCaretWarn.accesskey "K">

@@ -104,7 +104,7 @@
 <!ENTITY clearPrivateDataCmd.label "Poista yksityistietoja…">
 <!ENTITY clearPrivateDataCmd.accesskey "o">
 
-<!ENTITY goMenu.label "Sivuhistoria">
+<!ENTITY goMenu.label "Siirry">
 <!ENTITY goMenu.accesskey "S">
 <!ENTITY goHomeCmd.label "Aloitussivu">
 <!ENTITY goHomeCmd.accesskey "A">

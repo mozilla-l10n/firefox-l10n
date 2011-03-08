@@ -49,7 +49,7 @@
 <!-- General -->
 <!ENTITY pref.calendar.advanced.showConnections.label     "Yhteysasetukset…">
 <!ENTITY pref.calendar.advanced.showConnections.accesskey "Y">
-<!ENTITY pref.calendar.advanced.proxiesInfo.label         "Määritä, kuinka &brandShortName; on yhteydessä Internettiin">
+<!ENTITY pref.calendar.advanced.proxiesInfo.label         "Määritä, kuinka &brandShortName; on yhteydessä Internetiin">
 <!ENTITY pref.calendar.advanced.configEdit.caption "Edistyneet asetukset">
 <!ENTITY pref.calendar.advanced.configEdit.button "Muokkaa asetuksia…">
 <!ENTITY pref.calendar.advanced.configEdit.accesskey "M">
