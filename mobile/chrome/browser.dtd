@@ -109,5 +109,6 @@
 <!ENTITY pageactions.reset           "Limpar preferências do site">
 <!ENTITY pageactions.findInPage      "Localizar na página">
 <!ENTITY pageactions.search.addNew   "Adicionar pesquisa">
+<!ENTITY pageactions.charEncoding    "Codificação">
 
 <!ENTITY appMenu.siteOptions         "Opções do site">
