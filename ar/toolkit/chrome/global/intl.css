@@ -77,6 +77,11 @@ parsererror {
   direction: rtl !important;
 }
 
+/* Flip the window controls in full-screen mode (bug 639896) */
+#minimize-button, #restore-button, #close-button {
+  -moz-transform: scaleX(-1);
+}
+
 /* Set Statusbar to LTR */
 
 #statusText {
