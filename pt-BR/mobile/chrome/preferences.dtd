@@ -19,3 +19,4 @@
 <!ENTITY homepage.none                             "Página em branco">
 <!ENTITY homepage.default                          "&brandShortName; Start">
 <!ENTITY homepage.currentpage                      "Usar a página aberta">
+<!ENTITY showCharset.title                         "Exibir codificação">
