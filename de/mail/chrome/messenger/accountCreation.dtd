@@ -10,42 +10,45 @@
 <!ENTITY password.accesskey              "P">
 <!ENTITY password.placeholder            "Passwort">
 <!ENTITY password.text                   "Freiwillig, wird zur Bestätigung des Benutzernamens verwendet">
+<!ENTITY rememberPassword.label          "Passwort speichern">
+<!ENTITY rememberPassword.accesskey      "P">
 
-<!ENTITY accountInformation.label        "Kontenangaben">
-<!ENTITY username2.label                 "Benutzername:">
+<!ENTITY imapLong.label                  "IMAP (Nachrichten auf dem Server speichern)">
+<!ENTITY pop3Long.label                  "POP3 (Nachrichten auf diesem Computer speichern)">
+
 <!ENTITY incoming.label                  "Posteingang-Server:">
 <!ENTITY outgoing.label                  "Postausgang-Server:">
+<!ENTITY username.label                  "Benutzername:">
+<!ENTITY hostname.label                  "Server-Adresse">
+<!ENTITY port.label                      "Port">
+<!ENTITY ssl.label                       "SSL">
+<!ENTITY auth.label                      "Authentifizierung">
+<!ENTITY imap.label                      "IMAP">
+<!ENTITY pop3.label                      "POP3">
+<!ENTITY smtp.label                      "SMTP">
+<!ENTITY autodetect.label                "Autodetect">
+<!-- LOCALIZATION NOTE(noEncryption.label): Neither SSL/TLS nor STARTTLS.
+     Transmission of emails in cleartext over the Internet. -->
 <!ENTITY noEncryption.label              "Keine Verbindungssicherheit">
 <!ENTITY starttls.label                  "STARTTLS">
 <!ENTITY sslTls.label                    "SSL/TLS">
 
-<!ENTITY imap.label                      "IMAP">
-<!ENTITY pop.label                       "POP">
-<!ENTITY smtp.label                      "SMTP">
-<!ENTITY imap.description                "IMAP - Zugriff auf Ordner und Nachrichten von mehreren Computern möglich">
-<!ENTITY pop.description                 "POP - Herunterladen der Nachrichten auf diesen Computer, Ordner sind nur lokal vorhanden">
-<!ENTITY recommended-appendix.label      "(empfohlen)">
-
-<!ENTITY manualSetup.label               "Benutzerdefinierte Einstellungen…">
-<!ENTITY manualSetup.accesskey           "B">
+<!ENTITY advancedSetup.label             "Erweiterte Einstellungen">
+<!ENTITY advancedSetup.accesskey         "E">
 <!ENTITY cancel.label                    "Abbrechen">
-<!ENTITY cancel.accesskey                "b">
+<!ENTITY cancel.accesskey                "A">
 <!ENTITY continue.label                  "Weiter">
 <!ENTITY continue.accesskey              "W">
-<!ENTITY startOver.label                 "Neu beginnen">
-<!ENTITY startOver.accesskey             "N">
 <!ENTITY stop.label                      "Stopp">
 <!ENTITY stop.accesskey                  "S">
-<!-- LOCALIZATION NOTE (retest.label): This is the text that is
-     displayed on the button which will re-guess the account configuration,
-     taking into account the settings the user has changed. -->
-<!ENTITY retest.label                    "Konfiguration erneut testen">
-<!ENTITY retest.accesskey                "K">
-<!ENTITY edit.label                      "Bearbeiten">
-<!ENTITY edit.accesskey                  "B">
-
-<!ENTITY rememberPassword.label          "Passwort speichern">
-<!ENTITY rememberPassword.accesskey      "P">
+<!-- LOCALIZATION NOTE (half-manual-test.label): This is the text that is
+     displayed on the button in manual edit mode which will re-guess
+     the account configuration, taking into account the settings that
+     the user has manually changed. -->
+<!ENTITY half-manual-test.label          "Erneut testen">
+<!ENTITY half-manual-test.accesskey      "t">
+<!ENTITY manual-edit.label               "Manuell bearbeiten">
+<!ENTITY manual-edit.accesskey           "M">
 
 <!ENTITY warning.label                   "Warnung!">
 <!ENTITY incomingSettings.label          "Posteingang-Einstellungen:">
