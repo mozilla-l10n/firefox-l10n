@@ -405,7 +405,6 @@
 
 <!-- Toolbar-only items -->
 <!ENTITY menuBar.tooltip "選單列">
-<!ENTITY compositionToolbar.tooltip "編輯工具列">
 <!ENTITY formatToolbar.tooltip "格式化工具列">
 <!ENTITY newToolbarCmd.tooltip "建立新編輯視窗">
 <!ENTITY openToolbarCmd.label "開啟">
@@ -450,7 +449,7 @@
 <!ENTITY alignLeftButton.tooltip "將文字對齊左邊界">
 <!ENTITY alignCenterButton.tooltip "將文字對齊中央">
 <!ENTITY alignRightButton.tooltip "將文字對齊右邊界">
-<!ENTITY alignjustifyButton.tooltip "將文字對齊左右邊界">
+<!ENTITY alignJustifyButton.tooltip "將文字對齊左右邊界">
 
 <!-- Display Mode toolbar and View menu items -->
 <!ENTITY NormalModeTab.label "正常">
