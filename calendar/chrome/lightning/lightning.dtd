@@ -1,0 +1,125 @@
+<!-- ***** BEGIN LICENSE BLOCK *****
+   - Version: MPL 1.1/GPL 2.0/LGPL 2.1
+   -
+   - The contents of this file are subject to the Mozilla Public License Version
+   - 1.1 (the "License"); you may not use this file except in compliance with
+   - the License. You may obtain a copy of the License at
+   - http://www.mozilla.org/MPL/
+   -
+   - Software distributed under the License is distributed on an "AS IS" basis,
+   - WITHOUT WARRANTY OF ANY KIND, either express or implied. See the License
+   - for the specific language governing rights and limitations under the
+   - License.
+   -
+   - The Original Code is calendar views.
+   -
+   - The Initial Developer of the Original Code is
+   - Oracle Corporation.
+   - Portions created by the Initial Developer are Copyright (C) 2005
+   - the Initial Developer. All Rights Reserved.
+   -
+   - Contributor(s):
+   -   Mike Shaver <shaver@mozilla.org>
+   -   Simon Paquet <bugzilla@babylonsounds.com>
+   -   Matthew Willis <mattwillis@mac.com>
+   -   Philipp Kewisch <mozilla@kewis.ch>
+   -   Martin Schroeder <mschroeder@mozilla.x-home.org>
+   -   Berend Cornelius <berend.cornelius@sun.com>
+   -
+   - Alternatively, the contents of this file may be used under the terms of
+   - either the GNU General Public License Version 2 or later (the "GPL"), or
+   - the GNU Lesser General Public License Version 2.1 or later (the "LGPL"),
+   - in which case the provisions of the GPL or the LGPL are applicable instead
+   - of those above. If you wish to allow use of your version of this file only
+   - under the terms of either the GPL or the LGPL, and not to allow others to
+   - use your version of this file under the terms of the MPL, indicate your
+   - decision by deleting the provisions above and replace them with the notice
+   - and other provisions required by the LGPL or the GPL. If you do not delete
+   - the provisions above, a recipient may use your version of this file under
+   - the terms of any one of the MPL, the GPL or the LGPL.
+   -
+   - ***** END LICENSE BLOCK ***** -->
+
+<!-- WARNING! This file contains UTF-8 encoded characters!
+   - If this ==> … <== doesn't look like an ellipsis (three dots in a row),
+   - your editor isn't using UTF-8 encoding and may munge up the document!
+  -->
+
+<!-- Tools menu -->
+<!ENTITY lightning.taskLabel "Lightning">
+
+<!-- New menu popup in File menu -->
+<!ENTITY lightning.menupopup.new.event.label    "Tapahtuma…">
+<!ENTITY lightning.menupopup.new.event.accesskey "T">
+<!ENTITY lightning.menupopup.new.task.label     "Tehtävä…">
+<!ENTITY lightning.menupopup.new.task.accesskey "e">
+<!ENTITY lightning.menupopup.new.calendar.label "Kalenteri…">
+<!ENTITY lightning.menupopup.new.calendar.accesskey "l">
+
+<!-- Open menu popup in File menu -->
+<!ENTITY lightning.menupopup.open.label               "Avaa">
+<!ENTITY lightning.menupopup.open.accesskey           "A">
+<!ENTITY lightning.menupopup.open.message.label       "Tallennettu viesti…">
+<!ENTITY lightning.menupopup.open.message.accesskey   "T">
+<!ENTITY lightning.menupopup.open.calendar.label      "Kalenteritiedosto…">
+<!ENTITY lightning.menupopup.open.calendar.accesskey  "K">
+
+<!-- View Menu -->
+<!ENTITY lightning.menu.view.calendar.label            "Kalenteri">
+<!ENTITY lightning.menu.view.calendar.accesskey        "n">
+<!ENTITY lightning.menu.view.tasks.label               "Tehtävät">
+<!ENTITY lightning.menu.view.tasks.accesskey           "T">
+
+<!-- Events and Tasks menu -->
+<!ENTITY lightning.menu.eventtask.label                "Tapahtumat ja tehtävät">
+<!ENTITY lightning.menu.eventtask.accesskey            "a">
+
+<!-- Mode Toolbar -->
+<!ENTITY lightning.toolbar.mail.label         "Sähköposti">
+<!ENTITY lightning.toolbar.mail.accesskey     "S">
+<!ENTITY lightning.toolbar.calendar.label     "Kalenteri">
+<!ENTITY lightning.toolbar.calendar.accesskey "K">
+<!ENTITY lightning.toolbar.task.label         "Tehtävät">
+<!ENTITY lightning.toolbar.task.accesskey     "T">
+
+<!-- Toolbar write button -->
+<!ENTITY lightning.toolbar.newevent.label     "Tapahtuma">
+<!ENTITY lightning.toolbar.newtask.label      "Tehtävä">
+
+<!-- Messenger Toolbar -->
+<!ENTITY lightning.toolbar.day.label                 "Päivä">
+<!ENTITY lightning.toolbar.day.accesskey             "P">
+<!ENTITY lightning.toolbar.week.label                "Viikko">
+<!ENTITY lightning.toolbar.week.accesskey            "V">
+<!ENTITY lightning.toolbar.multiweek.label           "Moniviikko">
+<!ENTITY lightning.toolbar.multiweek.accesskey       "M">
+<!ENTITY lightning.toolbar.month.label               "Kuukausi">
+<!ENTITY lightning.toolbar.month.accesskey           "K">
+
+<!-- properties dialog, calendar creation wizard -->
+<!ENTITY lightning.calendarproperties.showevents.inagenda.label "Näytä tapahtumat tänään-ruudussa">
+<!ENTITY lightning.calendarproperties.showtasks.label           "Näytä tehtävät tänään-ruudussa ja tehtävätilassa">
+<!ENTITY lightning.calendarproperties.email.label               "Sähköposti:">
+
+<!-- iMIP Bar (meeting support) -->
+<!ENTITY lightning.imipbar.description "Tämä viesti sisältää tapahtumakutsun.">
+
+<!-- Lightning specific keybindings -->
+<!ENTITY lightning.keys.event.showCalendar.key "C">
+<!ENTITY lightning.keys.event.showTasks.key "D">
+<!ENTITY lightning.keys.event.new "I">
+<!ENTITY lightning.keys.todo.new "D">
+
+<!-- Account Central page -->
+<!ENTITY lightning.acctCentral.newCalendar.label "Luo uusi kalenteri">
+
+<!-- today-pane-specific -->
+<!ENTITY todaypane.showMinimonth.label "Näytä pienoiskuukausi">
+<!ENTITY todaypane.showMinimonth.accesskey "N">
+<!ENTITY todaypane.showMiniday.label "Näytä pienoispäivä">
+<!ENTITY todaypane.showMiniday.accesskey  "N">
+<!ENTITY todaypane.showNone.label "Älä näytä mitään">
+<!ENTITY todaypane.showNone.accesskey "n">
+<!ENTITY todaypane.showTodayPane.label "Näytä tänään-ruutu">
+<!ENTITY todaypane.showTodayPane.accesskey "N">
+<!ENTITY todaypane.statusButton.label "Tänään-ruutu">

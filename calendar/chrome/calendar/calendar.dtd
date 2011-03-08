@@ -1,0 +1,360 @@
+<!-- ***** BEGIN LICENSE BLOCK *****
+   - Version: MPL 1.1/GPL 2.0/LGPL 2.1
+   -
+   - The contents of this file are subject to the Mozilla Public License Version
+   - 1.1 (the "License"); you may not use this file except in compliance with
+   - the License. You may obtain a copy of the License at
+   - http://www.mozilla.org/MPL/
+   -
+   - Software distributed under the License is distributed on an "AS IS" basis,
+   - WITHOUT WARRANTY OF ANY KIND, either express or implied. See the License
+   - for the specific language governing rights and limitations under the
+   - License.
+   -
+   - The Original Code is OEone Calendar Code, released October 31st, 2001.
+   -
+   - The Initial Developer of the Original Code is
+   - OEone Corporation.
+   - Portions created by the Initial Developer are Copyright (C) 2001
+   - the Initial Developer. All Rights Reserved.
+   -
+   - Contributor(s):
+   -   Garth Smedley <garths@oeone.com>
+   -   Mike Potter <mikep@oeone.com>
+   -   Chris Charabaruk <coldacid@meldstar.com>
+   -   ArentJan Banck <ajbanck@planet.nl>
+   -   Eric Belhaire <belhaire@ief.u-psud.fr>
+   -   Matthew Willis <mattwillis@gmail.com>
+   -   Simon Paquet <bugzilla@babylonsounds.com>
+   -   Stefan Sitter <ssitter@gmail.com>
+   -   Philipp Kewisch <mozilla@kewis.ch>
+   -   Diego Mira David <diegomd86@gmail.com>
+   -   Eduardo Teruo Katayama <eduardo@ime.usp.br>
+   -   Glaucus Augustus Grecco Cardoso <glaucus@ime.usp.br>
+   -
+   - Alternatively, the contents of this file may be used under the terms of
+   - either the GNU General Public License Version 2 or later (the "GPL"), or
+   - the GNU Lesser General Public License Version 2.1 or later (the "LGPL"),
+   - in which case the provisions of the GPL or the LGPL are applicable instead
+   - of those above. If you wish to allow use of your version of this file only
+   - under the terms of either the GPL or the LGPL, and not to allow others to
+   - use your version of this file under the terms of the MPL, indicate your
+   - decision by deleting the provisions above and replace them with the notice
+   - and other provisions required by the LGPL or the GPL. If you do not delete
+   - the provisions above, a recipient may use your version of this file under
+   - the terms of any one of the MPL, the GPL or the LGPL.
+   -
+   - ***** END LICENSE BLOCK ***** -->
+
+<!-- General -->
+<!ENTITY calendar.calendar.label     "Kalenteri">
+<!ENTITY calendar.calendar.accesskey "K">
+
+<!ENTITY calendar.newevent.button.tooltip         "Luo uusi tapahtuma" >
+<!ENTITY calendar.newtask.button.tooltip          "Luo uusi tehtävä" >
+
+<!ENTITY calendar.unifinder.todoitems.label       "Tehtävät" >
+<!ENTITY calendar.unifinder.showcompletedtodos.label "Näytä suoritetut tehtävät">
+
+<!ENTITY calendar.today.button.label       "Tänään">
+<!ENTITY calendar.tomorrow.button.label       "Huomenna">
+<!ENTITY calendar.soon.button.label           "Pian">
+
+<!ENTITY calendar.events.filter.all.label "Kaikki tapahtumat">
+<!ENTITY calendar.events.filter.today.label "Tämän päivän tapahtumat">
+<!ENTITY calendar.events.filter.future.label "Kaikki tulevat tapahtumat">
+<!ENTITY calendar.events.filter.current.label "Valittuna oleva päivä">
+<!ENTITY calendar.events.filter.next7Days.label "Seuraavien 7 päivän tapahtumat">
+<!ENTITY calendar.events.filter.next14Days.label "Seuraavien 14 päivän tapahtumat">
+<!ENTITY calendar.events.filter.next31Days.label "Seuraavien 31 päivän tapahtumat">
+<!ENTITY calendar.events.filter.thisCalendarMonth.label "Tämän kalenterikuukauden tapahtumat">
+
+<!ENTITY calendar.unifinder.tree.done.label          "Suoritettu">
+<!ENTITY calendar.unifinder.tree.priority.label      "Tärkeysaste">
+<!ENTITY calendar.unifinder.tree.title.label         "Otsikko">
+<!ENTITY calendar.unifinder.tree.percentcomplete.label "&#37; suoritettu">
+<!ENTITY calendar.unifinder.tree.startdate.label     "Alkaa">
+<!ENTITY calendar.unifinder.tree.enddate.label       "Päättyy">
+<!ENTITY calendar.unifinder.tree.duedate.label       "Valmis">
+<!ENTITY calendar.unifinder.tree.completeddate.label "Completed">
+<!ENTITY calendar.unifinder.tree.categories.label    "Tyyppi">
+<!ENTITY calendar.unifinder.tree.location.label      "Osoite">
+<!ENTITY calendar.unifinder.tree.status.label        "Tila">
+<!ENTITY calendar.unifinder.tree.calendarname.label  "Kalenteri">
+<!ENTITY calendar.unifinder.tree.duration.label      "Valmis">
+<!ENTITY calendar.unifinder.close.tooltip            "Sulje tapahtumahaku ja -luettelo">
+
+<!ENTITY calendar.today.button.tooltip          "Siirry tähän päivään" >
+<!ENTITY calendar.todaypane.button.tooltip      "Näytä tänään-ruutu" >
+
+<!ENTITY calendar.day.button.tooltip            "Siirry päivänäkymään" >
+<!ENTITY calendar.week.button.tooltip           "Siirry viikkonäkymään" >
+<!ENTITY calendar.month.button.tooltip          "Siirry kuukausinäkymään" >
+<!ENTITY calendar.multiweek.button.tooltip      "Siirry moniviikkoiseen näkymään" >
+
+<!ENTITY calendar.nextday.label                 "Seuraava päivä" >
+<!ENTITY calendar.prevday.label                 "Edellinen päivä" >
+<!ENTITY calendar.nextday.accesskey             "S" >
+<!ENTITY calendar.prevday.accesskey             "E" >
+<!ENTITY calendar.nextweek.label                "Seuraava viikko" >
+<!ENTITY calendar.prevweek.label                "Edellinen viikko" >
+<!ENTITY calendar.nextweek.accesskey            "S" >
+<!ENTITY calendar.prevweek.accesskey            "E" >
+<!ENTITY calendar.nextmonth.label               "Seuraava kuukausi" >
+<!ENTITY calendar.prevmonth.label               "Edellinen kuukausi" >
+<!ENTITY calendar.nextmonth.accesskey           "S" >
+<!ENTITY calendar.prevmonth.accesskey           "E" >
+
+<!ENTITY calendar.navigation.nextday.tooltip    "Siirry seuraavaan päivään" >
+<!ENTITY calendar.navigation.prevday.tooltip    "Siirry päivä taaksepäin" >
+<!ENTITY calendar.navigation.nextweek.tooltip   "Siirry viikko eteenpäin" >
+<!ENTITY calendar.navigation.prevweek.tooltip   "Siirry viikko taaksepäin" >
+<!ENTITY calendar.navigation.nextmonth.tooltip  "Siirry seuraavaan kuukauteen" >
+<!ENTITY calendar.navigation.prevmonth.tooltip  "Siirry edelliseen kuukauteen" >
+
+<!ENTITY calendar.newevent.button.label         "Uusi tapahtuma" >
+<!ENTITY calendar.newtask.button.label          "Uusi tehtävä" >
+<!ENTITY calendar.print.button.label            "Tulosta" >
+
+<!ENTITY calendar.export.calendar                "Vie kalenteri…" >
+
+<!ENTITY calendar.day.button.label              "Päivä" >
+<!ENTITY calendar.week.button.label             "Viikko" >
+<!ENTITY calendar.month.button.label            "Kuukausi" >
+<!ENTITY calendar.multiweek.button.label        "Moniviikko" >
+<!ENTITY calendar.onlyworkday.checkbox.label    "Vain työpäivät" >
+<!ENTITY calendar.onlyworkday.checkbox.accesskey  "V" >
+<!ENTITY calendar.displaytodos.checkbox.label   "Näkymässä olevat tehtävät" >
+<!ENTITY calendar.displaytodos.checkbox.accesskey "k" >
+<!ENTITY calendar.completedtasks.checkbox.label     "Näytä suoritetut tehtävät" >
+<!ENTITY calendar.completedtasks.checkbox.accesskey "N" >
+
+<!ENTITY calendar.orientation.label "Kierrä näkymää" >
+<!ENTITY calendar.orientation.accesskey "K" >
+
+<!ENTITY calendar.search.options.searchfor " sisältää">
+
+<!ENTITY calendar.list.header.label                 "Kalenteri">
+
+<!ENTITY calendar.task.filter.title.label           "Näytä">
+<!ENTITY calendar.task.filter.all.label             "Kaikki">
+<!ENTITY calendar.task.filter.all.accesskey         "a">
+<!ENTITY calendar.task.filter.today.label           "Tämä päivä">
+<!ENTITY calendar.task.filter.today.accesskey       "T">
+<!ENTITY calendar.task.filter.next7days.label       "Seuraavat 7 päivää">
+<!ENTITY calendar.task.filter.next7days.accesskey   "S">
+<!ENTITY calendar.task.filter.notstarted.label      "Ei-aloitetut tehtävät">
+<!ENTITY calendar.task.filter.notstarted.accesskey  "a">
+<!ENTITY calendar.task.filter.overdue.label         "Myöhästyneet tehtävät">
+<!ENTITY calendar.task.filter.overdue.accesskey     "M">
+<!ENTITY calendar.task.filter.completed.label       "Suoritetut tehtävät">
+<!ENTITY calendar.task.filter.completed.accesskey   "S">
+<!ENTITY calendar.task.filter.open.label            "Tekemättömät tehtävät">
+<!ENTITY calendar.task.filter.open.accesskey        "m">
+
+<!-- LOCALIZATION NOTE(calendar.task.filter.current.label)
+     "Current Tasks" will show all tasks, except those with a start date set
+     that is after today and after the selected date. If a task repeats, a
+     separate entry will be shown for each of the occurrences that happen on or
+     before today (or the selected date, whichever is later). -->
+<!ENTITY calendar.task.filter.current.label         "Nykyiset tehtävät">
+<!ENTITY calendar.task.filter.current.accesskey     "N">
+<!ENTITY calendar.task.filter.repeating.label       "Toistuvat tehtävät">
+<!ENTITY calendar.task.filter.repeating.accesskey   "T">
+
+<!ENTITY calendar.task-details.title.label           "otsikko">
+<!ENTITY calendar.task-details.organizer.label       "from">
+<!ENTITY calendar.task-details.priority.label        "tärkeysaste">
+<!ENTITY calendar.task-details.priority.low.label    "Matala">
+<!ENTITY calendar.task-details.priority.normal.label "Normaali">
+<!ENTITY calendar.task-details.priority.high.label   "Korkea">
+<!ENTITY calendar.task-details.status.label          "tila">
+<!ENTITY calendar.task-details.category.label        "tyyppi">
+<!ENTITY calendar.task-details.repeat.label          "toista">
+<!ENTITY calendar.task-details.attachments.label     "liitteet">
+
+<!ENTITY calendar.task.category.button.tooltip  "Luokittele tehtäviä">
+<!ENTITY calendar.task.complete.button.tooltip  "Merkitse valitut tehtävät suoritetuksi">
+<!ENTITY calendar.task.priority.button.tooltip  "Muuta tärkeysastetta">
+
+<!-- Statusbar -->
+<!ENTITY statusText.label            "Document: Done">
+
+<!-- Context Menu -->
+<!ENTITY calendar.context.modifyorviewitem.label      "Avaa">
+<!ENTITY calendar.context.modifyorviewitem.accesskey  "A">
+<!ENTITY calendar.context.modifyorviewtask.label      "Avaa tehtävä…">
+<!ENTITY calendar.context.modifyorviewtask.accesskey  "A">
+<!ENTITY calendar.context.newevent.label              "Uusi tapahtuma…">
+<!ENTITY calendar.context.newevent.accesskey          "U">
+<!ENTITY calendar.context.newtodo.label               "Uusi tehtävä…">
+<!ENTITY calendar.context.newtodo.accesskey           "U">
+<!ENTITY calendar.context.modifytask.label            "Muokkaa tehtävää…">
+<!ENTITY calendar.context.modifytask.accesskey        "e">
+<!ENTITY calendar.context.modifyitem.label            "Muokkaa merkintää…">
+<!ENTITY calendar.context.modifyitem.accesskey        "e">
+<!ENTITY calendar.context.deletetask.label            "Poista tehtävä">
+<!ENTITY calendar.context.deletetask.accesskey        "P">
+<!ENTITY calendar.context.deleteitem.label            "Poista">
+<!ENTITY calendar.context.deleteitem.accesskey        "P">
+<!ENTITY calendar.context.deleteevent.label           "Poista tapahtuma">
+<!ENTITY calendar.context.deleteevent.accesskey       "P">
+<!ENTITY calendar.context.deletethisevent.label       "Tämä tapahtuma">
+<!ENTITY calendar.context.deletethisevent.accesskey   "T">
+<!ENTITY calendar.context.deletecompleteseries.label  "Koko sarja">
+<!ENTITY calendar.context.deletecompleteseries.accesskey   "s">
+<!ENTITY calendar.context.deletefutureevents.label     "Kaikki tulevat tapahtumat">
+<!ENTITY calendar.context.deletefutureevents.accesskey "K">
+<!ENTITY calendar.context.deletefuturetasks.label     "Kaikki tulevat tehtävät">
+<!ENTITY calendar.context.deletefuturetasks.accesskey "K">
+<!ENTITY calendar.context.cutevent.label              "Leikkaa">
+<!ENTITY calendar.context.cutevent.accesskey          "L">
+<!ENTITY calendar.context.copyevent.label             "Kopioi">
+<!ENTITY calendar.context.copyevent.accesskey         "K">
+<!ENTITY calendar.context.pasteevent.label            "Liitä">
+<!ENTITY calendar.context.pasteevent.accesskey        "i">
+<!ENTITY calendar.context.selectall.label             "Valitse kaikki">
+<!ENTITY calendar.context.selectall.accesskey         "V">
+<!ENTITY calendar.context.button.label                "Tänään-ruutu" >
+<!ENTITY calendar.context.button.accesskey            "T" >
+
+<!-- Task Context Menu -->
+<!ENTITY calendar.context.progress.label              "Edistyminen">
+<!ENTITY calendar.context.progress.accesskey          "E">
+<!ENTITY calendar.context.priority.label              "Tärkeysaste">
+<!ENTITY calendar.context.priority.accesskey          "r">
+
+<!ENTITY percnt "&#38;#37;" ><!--=percent sign-->
+
+<!ENTITY calendar.context.markcompleted.label     "Merkitse suoritetuksi">
+<!ENTITY calendar.context.markcompleted.accesskey "o">
+
+<!ENTITY progress.level.0             "0 &percnt; suoritettu">
+<!ENTITY progress.level.0.accesskey   "0">
+<!ENTITY progress.level.25            "25 &percnt; suoritettu">
+<!ENTITY progress.level.25.accesskey  "2">
+<!ENTITY progress.level.50            "50 &percnt; suoritettu">
+<!ENTITY progress.level.50.accesskey  "5">
+<!ENTITY progress.level.75            "75 &percnt; suoritettu">
+<!ENTITY progress.level.75.accesskey  "7">
+<!ENTITY progress.level.100            "100 &percnt; suoritettu">
+<!ENTITY progress.level.100.accesskey  "1">
+
+<!ENTITY priority.level.none                "Ei määritetty">
+<!ENTITY priority.level.none.accesskey      "E">
+<!ENTITY priority.level.low                 "Matala">
+<!ENTITY priority.level.low.accesskey       "M">
+<!ENTITY priority.level.normal              "Normaali">
+<!ENTITY priority.level.normal.accesskey    "N">
+<!ENTITY priority.level.high                "Korkea">
+<!ENTITY priority.level.high.accesskey      "K">
+
+<!-- Server Context Menu -->
+<!ENTITY calendar.context.newserver.label              "Uusi kalenteri…">
+<!ENTITY calendar.context.newserver.accesskey          "n">
+<!ENTITY calendar.context.findcalendar.label           "Etsi kalenteri…" >
+<!ENTITY calendar.context.findcalendar.accesskey       "E" >
+<!ENTITY calendar.context.deleteserver.label           "Poista kalenteri">
+<!ENTITY calendar.context.deleteserver.accesskey       "P">
+<!ENTITY calendar.context.reloadserver.label           "Päivitä etäkalenterit">
+<!ENTITY calendar.context.reloadserver.accesskey       "ä">
+<!ENTITY calendar.context.publish.label                "Julkaise kalenteri…">
+<!ENTITY calendar.context.publish.accesskey            "J">
+<!ENTITY calendar.context.export.label                 "Vie kalenteri…">
+<!ENTITY calendar.context.export.accesskey             "e">
+<!ENTITY calendar.context.properties.label             "Ominaisuudet">
+<!ENTITY calendar.context.properties.accesskey         "O">
+
+<!ENTITY calendar.context.convertmenu.label              "Muunna">
+<!ENTITY calendar.context.convertmenu.accesskey.mail     "n">
+<!ENTITY calendar.context.convertmenu.accesskey.calendar "v">
+<!ENTITY calendar.context.convertmenu.event.label        "Tapahtumaksi…">
+<!ENTITY calendar.context.convertmenu.event.accesskey    "T">
+<!ENTITY calendar.context.convertmenu.message.label      "Viestiksi…">
+<!ENTITY calendar.context.convertmenu.message.accesskey  "V">
+<!ENTITY calendar.context.convertmenu.task.label         "Tehtäväksi…">
+<!ENTITY calendar.context.convertmenu.task.accesskey     "T">
+
+<!ENTITY calendar.tasks.view.minimonth.label           "Pienoiskuukausi">
+<!ENTITY calendar.tasks.view.minimonth.accesskey       "P">
+
+<!ENTITY calendar.tasks.view.calendarlist.label        "Kalenteriluettelo">
+<!ENTITY calendar.tasks.view.calendarlist.accesskey    "l">
+
+<!ENTITY calendar.tasks.view.filtertasks.label           "Suodata tehtävät">
+<!ENTITY calendar.tasks.view.filtertasks.accesskey       "S">
+
+<!-- Calendar Alarm Dialog -->
+
+<!ENTITY calendar.alarm.location.label              "Osoite:" >
+<!ENTITY calendar.alarm.details.label               "Lisätiedot…" >
+
+<!ENTITY calendar.alarm.snoozefor.label             "Ilmoita uudelleen" >
+<!ENTITY calendar.alarm.snoozeallfor.label          "Ilmoita uudelleen" >
+<!ENTITY calendar.alarm.title.label                 "Kalenterihälytys" >
+<!ENTITY calendar.alarm.dismiss.label               "Lopeta" >
+<!ENTITY calendar.alarm.dismissall.label            "Lopeta kaikki" >
+
+<!ENTITY calendar.alarm.snooze.5minutes.label       "5 minuutin kuluttua" >
+<!ENTITY calendar.alarm.snooze.10minutes.label      "10 minuutin kuluttua" >
+<!ENTITY calendar.alarm.snooze.15minutes.label      "15 minuutin kuluttua" >
+<!ENTITY calendar.alarm.snooze.30minutes.label      "30 minuutin kuluttua" >
+<!ENTITY calendar.alarm.snooze.45minutes.label      "45 minuutin kuluttua" >
+<!ENTITY calendar.alarm.snooze.1hour.label          "1 tunnin kuluttua" >
+<!ENTITY calendar.alarm.snooze.2hours.label         "2 tunnin kuluttua" >
+<!ENTITY calendar.alarm.snooze.1day.label           "1 päivän kuluttua" >
+
+<!-- Calendar Server Dialog -->
+<!ENTITY calendar.server.dialog.title.edit          "Muokkaa kalenteria">
+<!ENTITY calendar.server.dialog.name.label          "Kalenterin nimi:">
+
+<!-- Calendar Properties -->
+<!ENTITY calendarproperties.color.label                    "Väri:">
+<!ENTITY calendarproperties.webdav.label                   "iCalendar (ICS)">
+<!ENTITY calendarproperties.caldav.label                   "CalDAV">
+<!ENTITY calendarproperties.wcap.label                     "Sun Java System Calendar Server (WCAP)">
+<!ENTITY calendarproperties.format.label                   "Formaatti:">
+<!ENTITY calendarproperties.location.label                 "Sijainti:">
+<!ENTITY calendarproperties.name.label                     "Nimi:">
+<!ENTITY calendarproperties.readonly.label                 "Vain luku">
+<!ENTITY calendarproperties.firealarms.label               "Näytä hälytykset">
+<!ENTITY calendarproperties.cache.label                    "Välimuisti (KOKEELLINEN)">
+<!ENTITY calendarproperties.enabled.label                  "Tämä kalenteri on aktiivinen">
+<!ENTITY calendarproperties.forceDisabled.label            "Tämän kalenterin tuottajaa ei löytynyt. Tämä tapahtuu usein tiettyjen lisäosien poistamisen tai käytöstäpoistamisen jälkeen.">
+<!ENTITY calendarproperties.unsubscribe.label              "Peruuta tilaus">
+<!ENTITY calendarproperties.unsubscribe.accesskey          "P">
+
+<!-- Calendar Publish Dialog -->
+<!ENTITY calendar.publish.dialog.title              "Julkaise kalenteri">
+<!ENTITY calendar.publish.url.label                 "Julkaisuosoite">
+<!ENTITY calendar.publish.publish.button      "Julkaise">
+<!ENTITY calendar.publish.close.button      "Sulje">
+
+<!ENTITY calendar.publish.example.url.description   "Esimerkiksi http://www.palvelin.fi/webdav/testi.ics">
+
+<!-- Select Calendar Dialog -->
+<!ENTITY calendar.select.dialog.title    "Valitse kalenteri">
+
+<!-- Calendar Printing -->
+<!ENTITY calendar.print.window.title "Tulosta kalenteri">
+<!ENTITY calendar.print.title.label "Otsikko:">
+<!ENTITY calendar.print.layout.label "Asettelu:">
+<!ENTITY calendar.print.range.label "Mitä tulostetaan">
+<!ENTITY calendar.print.currentView2.label "Nykyinen näkymä">
+<!ENTITY calendar.print.selectedEventsAndTasks.label "Valitut tapahtumat ja tehtävät">
+<!ENTITY calendar.print.tasks.label "Tehtävät">
+<!ENTITY calendar.print.events.label "Tapahtumat">
+<!ENTITY calendar.print.selected.label "Valitut tapahtumat">
+<!ENTITY calendar.print.custom.label "Valitse:">
+<!ENTITY calendar.print.from.label "Alku:">
+<!ENTITY calendar.print.to.label "Loppu:">
+<!ENTITY calendar.print.settingsGroup.label "Tulosteen asetukset">
+<!ENTITY calendar.print.optionsGroup.label "Valinnat">
+<!ENTITY calendar.print.taskswithnoduedate.label "Tehtävät ilman valmistumispäivää">
+<!ENTITY calendar.print.completedtasks.label "Suoritetut tehtävät">
+
+<!-- Error reporting -->
+<!ENTITY calendar.error.detail "Lisätiedot…">
+<!ENTITY calendar.error.code "Virhekoodi:">
+<!ENTITY calendar.error.description "Kuvaus:">
+<!ENTITY calendar.error.title "Tapahtui virhe">
