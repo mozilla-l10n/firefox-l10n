@@ -7,7 +7,7 @@
 
 
 <!ENTITY setup.choicePage.title.label     "क्या आपने कभी पहले &syncBrand.fullName.label; का प्रयोग किया है?">
-<!ENTITY setup.choicePage.new.label       "मैंने कभी भी &syncBrand.shortName.label; का पहले उपयोग नहीं किया है">
+<!ENTITY setup.choicePage.new.label       "मैंने कभी &syncBrand.shortName.label; का पहले उपयोग नहीं किया है">
 <!ENTITY setup.choicePage.existing.label  "मैं पहले से &syncBrand.shortName.label; का उपयोग दूसरे कंप्यूटर पर कर रहा हूँ">
 
 <!-- New Account AND Existing Account -->
