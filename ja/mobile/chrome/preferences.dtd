@@ -2,7 +2,7 @@
 <!ENTITY about.title                               "&brandShortName; について">
 <!ENTITY about.button                              "ページを表示">
 <!ENTITY content.title                             "ページ内容">
-<!ENTITY reflowZoom.title                          "拡大時にテキストを再配置する">
+<!ENTITY reflowZoom.title                          "拡大時に文字を再配置"><!-- Max11文字 -->
 <!ENTITY showImages.title                          "画像を表示する">
 <!ENTITY enableJavaScript.title                    "JavaScript を有効化">
 <!ENTITY enablePlugins.title                       "プラグインを有効化">
@@ -19,3 +19,4 @@
 <!ENTITY homepage.none                             "空白ページ">
 <!ENTITY homepage.default                          "&brandShortName; スタート">
 <!ENTITY homepage.currentpage                      "現在のページ">
+<!ENTITY showCharset.title                         "文字コードを表示する"><!-- 11字までなので「文字エンコーディング」は使えない -->
