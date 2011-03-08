@@ -1,0 +1,78 @@
+<!-- ***** BEGIN LICENSE BLOCK *****
+   - Version: MPL 1.1/GPL 2.0/LGPL 2.1
+   -
+   - The contents of this file are subject to the Mozilla Public License Version
+   - 1.1 (the "License"); you may not use this file except in compliance with
+   - the License. You may obtain a copy of the License at
+   - http://www.mozilla.org/MPL/
+   -
+   - Software distributed under the License is distributed on an "AS IS" basis,
+   - WITHOUT WARRANTY OF ANY KIND, either express or implied. See the License
+   - for the specific language governing rights and limitations under the
+   - License.
+   -
+   - The Original Code is the Firefox Preferences System.
+   -
+   - The Initial Developer of the Original Code is
+   - Ben Goodger.
+   - Portions created by the Initial Developer are Copyright (C) 2005
+   - the Initial Developer. All Rights Reserved.
+   -
+   - Contributor(s):
+   -
+   - Alternatively, the contents of this file may be used under the terms of
+   - either the GNU General Public License Version 2 or later (the "GPL"), or
+   - the GNU Lesser General Public License Version 2.1 or later (the "LGPL"),
+   - in which case the provisions of the GPL or the LGPL are applicable instead
+   - of those above. If you wish to allow use of your version of this file only
+   - under the terms of either the GPL or the LGPL, and not to allow others to
+   - use your version of this file under the terms of the MPL, indicate your
+   - decision by deleting the provisions above and replace them with the notice
+   - and other provisions required by the LGPL or the GPL. If you do not delete
+   - the provisions above, a recipient may use your version of this file under
+   - the terms of any one of the MPL, the GPL or the LGPL.
+   -
+   - ***** END LICENSE BLOCK ***** -->
+
+<!-- WARNING! This file contains UTF-8 encoded characters!
+   - If this ==> … <== doesn't look like an ellipsis (three dots in a row),
+   - your editor isn't using UTF-8 encoding and may munge up the document!
+  -->
+
+<!ENTITY  connectionsDialog.title       "Yhteysasetukset">
+<!ENTITY  window.width                  "37em">
+<!ENTITY  window.macWidth               "39em">
+
+<!ENTITY  proxyTitle.label              "Määritä välityspalvelinasetukset">
+<!ENTITY  directTypeRadio.label         "Ei välityspalvelinta">
+<!ENTITY  directTypeRadio.accesskey     "E">
+<!ENTITY  WPADTypeRadio.label           "Automaattiset välityspalvelinasetukset">
+<!ENTITY  WPADTypeRadio.accesskey       "A">
+<!ENTITY  manualTypeRadio.label         "Aseta välityspalvelinasetukset käsin:">
+<!ENTITY  manualTypeRadio.accesskey     "s">
+<!ENTITY  autoTypeRadio.label           "Nouda välityspalvelinasetukset osoitteesta:">
+<!ENTITY  autoTypeRadio.accesskey       "N">
+<!ENTITY  reload.label                  "Päivitä">
+<!ENTITY  reload.accesskey              "ä">
+<!ENTITY  ftp.label                     "FTP-välityspalvelin:">
+<!ENTITY  ftp.accesskey                 "F">
+<!ENTITY  http.label                    "HTTP-välityspalvelin:">
+<!ENTITY  http.accesskey                "H">
+<!ENTITY  ssl.label                     "SSL-välityspalvelin:">
+<!ENTITY  ssl.accesskey                 "L">
+<!ENTITY  socks.label                   "SOCKS-palvelin:">
+<!ENTITY  socks.accesskey               "C">
+<!ENTITY  socks4.label                  "SOCKS v4">
+<!ENTITY  socks4.accesskey              "4">
+<!ENTITY  socks5.label                  "SOCKS v5">
+<!ENTITY  socks5.accesskey              "5">
+<!ENTITY  port.label                    "Portti:">
+<!ENTITY  HTTPport.accesskey            "P">
+<!ENTITY  SSLport.accesskey             "r">
+<!ENTITY  FTPport.accesskey             "t">
+<!ENTITY  SOCKSport.accesskey           "i">
+<!ENTITY  noproxy.label                 "Ei välitystä osoitteille:">
+<!ENTITY  noproxy.accesskey             "v">
+<!ENTITY  noproxyExplain.label          "Esimerkiksi: 192.168.1.0/24, .mozilla.org, .fi">
+<!ENTITY  shareproxy.label              "Sama välityspalvelin kaikille yhteyskäytännöille">
+<!ENTITY  shareproxy.accesskey          "m">

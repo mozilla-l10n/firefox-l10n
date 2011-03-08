@@ -1,0 +1,185 @@
+<!-- ***** BEGIN LICENSE BLOCK *****
+   - Version: MPL 1.1/GPL 2.0/LGPL 2.1
+   -
+   - The contents of this file are subject to the Mozilla Public License Version
+   - 1.1 (the "License"); you may not use this file except in compliance with
+   - the License. You may obtain a copy of the License at
+   - http://www.mozilla.org/MPL/
+   -
+   - Software distributed under the License is distributed on an "AS IS" basis,
+   - WITHOUT WARRANTY OF ANY KIND, either express or implied. See the License
+   - for the specific language governing rights and limitations under the
+   - License.
+   -
+   - The Original Code is OEone Calendar Code, released October 31st, 2001.   -
+   -
+   - The Initial Developer of the Original Code is
+   -   OEone Corporation.
+   - Portions created by the Initial Developer are Copyright (C) 2001
+   - the Initial Developer. All Rights Reserved.
+   -
+   - Contributor(s):
+   -   Garth Smedley <garths@oeone.com>
+   -   Mike Potter <mikep@oeone.com>
+   -   Chris Charabaruk <coldacid@meldstar.com>
+   -   Matthew Willis <mattwillis@gmail.com>
+   -   Stefan Sitter <ssitter@googlemail.com>
+   -   Berend Cornelius <berend.cornelius@sun.com>
+   -   Philipp Kewisch <mozilla@kewis.ch>
+   -   Simon Paquet <bugzilla@babylonsounds.com>
+   -
+   - Alternatively, the contents of this file may be used under the terms of
+   - either the GNU General Public License Version 2 or later (the "GPL"), or
+   - the GNU Lesser General Public License Version 2.1 or later (the "LGPL"),
+   - in which case the provisions of the GPL or the LGPL are applicable instead
+   - of those above. If you wish to allow use of your version of this file only
+   - under the terms of either the GPL or the LGPL, and not to allow others to
+   - use your version of this file under the terms of the MPL, indicate your
+   - decision by deleting the provisions above and replace them with the notice
+   - and other provisions required by the LGPL or the GPL. If you do not delete
+   - the provisions above, a recipient may use your version of this file under
+   - the terms of any one of the MPL, the GPL or the LGPL.
+   -
+   - ***** END LICENSE BLOCK ***** -->
+
+<!ENTITY calendar.open.file.label                          "Avaa kalenteritiedosto…">
+<!ENTITY calendar.open.file.key                            "O">
+<!ENTITY calendar.open.file.accesskey                      "d">
+
+<!ENTITY event.edit.event                                  "Muokkaa valintaa…">
+<!ENTITY event.edit.event.key                              "E">
+<!ENTITY event.edit.event.accesskey                        "u">
+
+<!ENTITY event.delete.event                                "Poista valitut tapahtumat">
+<!ENTITY event.delete.event.accesskey                      "P">
+
+<!ENTITY event.delete.tasks                                "Poista valitut tehtävät">
+<!ENTITY event.delete.tasks.accesskey                      "o">
+
+<!ENTITY calendar.pagesetup.label                          "Sivun asetukset…">
+<!ENTITY calendar.pagesetup.accesskey                      "e">
+
+<!ENTITY calendar.subscribe.label                          "Tilaa etäkalenteri…">
+<!ENTITY calendar.subscribe.accesskey                      "i">
+
+<!ENTITY calendar.reloadserver.label                       "Päivitä etäkalenterit">
+<!ENTITY calendar.reloadserver.key                         "R">
+<!ENTITY calendar.reloadserver.accesskey                   "ä">
+
+<!ENTITY calendar.publish.calendar.label                   "Julkaise kalenteri…">
+<!ENTITY calendar.publish.calendar.accesskey               "n">
+<!ENTITY calendar.publish.selection.label                  "Julkaise valinta…">
+<!ENTITY calendar.publish.selection.accesskey              "v">
+
+<!ENTITY calendar.quit.label                               "Lopeta">
+<!ENTITY calendar.quit.accesskey                           "p">
+<!ENTITY calendar.quit.key                                 "Q">
+<!ENTITY calendar.quit.label.mac                           "Lopeta &brandShortName;">
+
+<!ENTITY calendar.exit.label                               "Lopeta">
+<!ENTITY calendar.exit.accesskey                           "p">
+
+<!ENTITY calendar.undo.label                               "Kumoa">
+<!ENTITY calendar.undo.key                                 "Z">
+<!ENTITY calendar.undo.accesskey                           "m">
+
+<!ENTITY calendar.redo.label                               "Tee uudelleen">
+<!ENTITY calendar.redo.key                                 "Y">
+<!ENTITY calendar.redo.accesskey                           "T">
+
+<!ENTITY calendar.cut.label                                "Leikkaa">
+<!ENTITY calendar.cut.key                                  "X">
+<!ENTITY calendar.cut.accesskey                            "L">
+
+<!ENTITY calendar.copy.label                               "Kopioi">
+<!ENTITY calendar.copy.key                                 "C">
+<!ENTITY calendar.copy.accesskey                           "K">
+
+<!ENTITY calendar.paste.label                              "Liitä">
+<!ENTITY calendar.paste.key                                "V">
+<!ENTITY calendar.paste.accesskey                          "i">
+
+<!ENTITY calendar.selectall.label                          "Valitse kaikki">
+<!ENTITY calendar.selectall.key                            "A">
+<!ENTITY calendar.selectall.accesskey                      "V">
+
+<!ENTITY toolbarsMenu.label                                "Työkalupalkit">
+<!ENTITY toolbarsMenu.accesskey                            "T">
+
+<!ENTITY showStatusBarCmd.label                            "Tilarivi">
+<!ENTITY showStatusBarCmd.accesskey                        "i">
+
+<!ENTITY showTaskBoxCmd.label                              "Tehtävälista">
+<!ENTITY showTaskBoxCmd.accesskey                          "e">
+
+<!ENTITY calendar.fullscreen.label                         "Kokoruututila">
+<!ENTITY calendar.fullscreen.accesskey                     "o">
+
+<!ENTITY calendar.addons.label                             "Lisäosat">
+<!ENTITY calendar.addons.accesskey                         "L">
+
+<!ENTITY goMenu.label                                      "Siirry">
+<!ENTITY goMenu.accesskey                                  "S">
+
+<!ENTITY goDateCmd.label                                   "Päivään…">
+<!ENTITY goDateCmd.accesskey                               "P">
+
+<!ENTITY toolsMenu.label                                   "Työkalut">
+<!ENTITY toolsMenu.accesskey                               "y">
+
+<!ENTITY errorConsoleCmd.label                             "Virhekonsoli">
+<!ENTITY errorConsoleCmd.accesskey                         "V">
+
+<!ENTITY helpMenu.label                                    "Ohje">
+<!ENTITY helpMenu.accesskey                                "O">
+<!-- LOCALIZATION NOTE some localizations of Windows use "?"
+           for the help button in the menubar but Gnome does not.   -->
+<!ENTITY helpMenuWin.label                                 "Ohje">
+<!ENTITY helpMenuWin.accesskey                             "O">
+
+<!ENTITY fileMenu.label                                    "Tiedosto">
+<!ENTITY fileMenu.accesskey                                "T">
+
+<!ENTITY editMenu.label                                    "Muokkaa">
+<!ENTITY editMenu.accesskey                                "M">
+
+<!ENTITY optionsCmd.label                                  "Asetukset…">
+<!ENTITY optionsCmd.accesskey                              "A">
+
+<!ENTITY preferencesCmd.label                              "Asetukset">
+<!ENTITY preferencesCmd.accesskey                          "A">
+<!ENTITY preferencesCmdMac.label                           "Asetukset…">
+<!ENTITY preferencesCmdMac.commandkey                      ",">
+<!ENTITY preferencesCmdMac.modifiers                       "accel">
+
+<!ENTITY viewMenu.label                                    "Näytä">
+<!ENTITY viewMenu.accesskey                                "N">
+
+<!ENTITY releaseCmd.label                                  "Julkaisutiedot">
+<!ENTITY releaseCmd.accesskey                              "u">
+
+<!ENTITY aboutCmd.label                                    "Tietoja &brandFullName;ista">
+<!ENTITY aboutCmd.accesskey                                "T">
+
+<!ENTITY updateCmd.label                                   "Hae päivityksiä…">
+<!ENTITY updateCmd.accesskey                               "H">
+
+<!ENTITY sunbird.export.calendar.label                     "Vie kalenteri…">
+<!ENTITY sunbird.export.calendar.accesskey                 "l">
+
+<!-- Mac OS X "Window" menu items -->
+<!ENTITY windowMenu.label                                  "Ikkuna">
+<!ENTITY minimizeWindow.label                              "Pienennä">
+<!ENTITY zoomWindow.label                                  "Suurenna ikkunaa">
+<!ENTITY minimizeWindow.key                                "M">
+<!ENTITY bringAllToFront.label                             "Näytä kaikki">
+
+<!-- Mac OS X Application menu items -->
+<!ENTITY servicesMenuMac.label                             "Palvelut">
+<!ENTITY hideThisAppCmdMac.label                           "Kätke &brandShortName;">
+<!ENTITY hideThisAppCmdMac.commandkey                      "H">
+<!ENTITY hideThisAppCmdMac.modifiers                       "accel">
+<!ENTITY hideOtherAppsCmdMac.label                         "Kätke muut">
+<!ENTITY hideOtherAppsCmdMac.commandkey                    "H">
+<!ENTITY hideOtherAppsCmdMac.modifiers                     "accel,alt">
+<!ENTITY showAllAppsCmdMac.label                           "Näytä kaikki">

@@ -1,0 +1,104 @@
+<!-- ***** BEGIN LICENSE BLOCK *****
+   - Version: MPL 1.1/GPL 2.0/LGPL 2.1
+   -
+   - The contents of this file are subject to the Mozilla Public License Version
+   - 1.1 (the "License"); you may not use this file except in compliance with
+   - the License. You may obtain a copy of the License at
+   - http://www.mozilla.org/MPL/
+   -
+   - Software distributed under the License is distributed on an "AS IS" basis,
+   - WITHOUT WARRANTY OF ANY KIND, either express or implied. See the License
+   - for the specific language governing rights and limitations under the
+   - License.
+   -
+   - The Original Code is Sun Microsystems code.
+   -
+   - The Initial Developer of the Original Code is
+   -   Philipp Kewisch <mozilla@kewis.ch>
+   - Portions created by the Initial Developer are Copyright (C) 2008
+   - the Initial Developer. All Rights Reserved.
+   -
+   - Contributor(s):
+   -
+   - Alternatively, the contents of this file may be used under the terms of
+   - either the GNU General Public License Version 2 or later (the "GPL"), or
+   - the GNU Lesser General Public License Version 2.1 or later (the "LGPL"),
+   - in which case the provisions of the GPL or the LGPL are applicable instead
+   - of those above. If you wish to allow use of your version of this file only
+   - under the terms of either the GPL or the LGPL, and not to allow others to
+   - use your version of this file under the terms of the MPL, indicate your
+   - decision by deleting the provisions above and replace them with the notice
+   - and other provisions required by the LGPL or the GPL. If you do not delete
+   - the provisions above, a recipient may use your version of this file under
+   - the terms of any one of the MPL, the GPL or the LGPL.
+   -
+   - ***** END LICENSE BLOCK ***** -->
+
+<!ENTITY sunbird.choosedate.button.tooltip                 "Valitse päivä, johon siirrytään" >
+<!ENTITY sunbird.cut.button.tooltip                        "Leikkaa" >
+<!ENTITY sunbird.copy.button.tooltip                       "Kopioi" >
+<!ENTITY sunbird.paste.button.tooltip                      "Liitä" >
+<!ENTITY sunbird.print.button.tooltip                      "Tulosta kalenteri" >
+<!ENTITY sunbird.delete.button.tooltip                     "Poista valittu tapahtuma" >
+<!ENTITY sunbird.remotereload.button.tooltip               "Päivitä kaikki etäkalenterit" >
+<!ENTITY sunbird.import.button.tooltip                     "Tuo tapahtumat paikallisesta tiedostosta" >
+<!ENTITY sunbird.export.button.tooltip                     "Vie tapahtumat paikalliseen tiedostoon" >
+<!ENTITY sunbird.subscribe.button.tooltip                  "Tilaa toisella koneella oleva kalenteri" >
+<!ENTITY sunbird.publish.button.tooltip                    "Julkaise tapahtumat toiselle tietokoneelle" >
+<!ENTITY sunbird.unifinder.button.tooltip                  "Etsi ja luetteloi tapahtumia" >
+<!ENTITY sunbird.edit.button.tooltip                       "Muokkaa valittua tapahtumaa" >
+
+<!ENTITY sunbird.choosedate.button.label                   "Valitse päivämäärä" >
+<!ENTITY sunbird.cut.button.label                          "Leikkaa" >
+<!ENTITY sunbird.copy.button.label                         "Kopioi" >
+<!ENTITY sunbird.paste.button.label                        "Liitä" >
+<!ENTITY sunbird.delete.button.label                       "Poista" >
+<!ENTITY sunbird.remotereload.button.label                 "Päivitä" >
+<!ENTITY sunbird.import.button.label                       "Tuo" >
+<!ENTITY sunbird.export.button.label                       "Vie" >
+<!ENTITY sunbird.subscribe.button.label                    "Tilaa" >
+<!ENTITY sunbird.publish.button.label                      "Julkaise" >
+<!ENTITY sunbird.unifinder.button.label                    "Etsi tapahtumia" >
+<!ENTITY sunbird.edit.button.label                         "Muokkaa" >
+
+<!ENTITY sunbird.flat.topbar.choosedate                    "Siirry päivään" >
+<!ENTITY sunbird.flat.topbar.dayview                       "Päivänäkymä" >
+<!ENTITY sunbird.flat.topbar.weekview                      "Viikkonäkymä" >
+<!ENTITY sunbird.flat.topbar.monthview                     "Kuukausinäkymä" >
+<!ENTITY sunbird.flat.topbar.multiweekview                 "Moniviikkonäkymä" >
+
+<!ENTITY sunbird.dayview.accesskey                         "D" >
+<!ENTITY sunbird.weekview.accesskey                        "W" >
+<!ENTITY sunbird.monthview.accesskey                       "M" >
+<!ENTITY sunbird.multiweekview.accesskey                   "u" >
+
+
+<!ENTITY sunbird.calendartab.label                         "Päivämäärä">
+<!ENTITY sunbird.listofcalendarstab.label                  "Kalenterit">
+
+<!ENTITY sunbird.find.key                                  "F">
+<!ENTITY sunbird.close.key                                 "W">
+
+<!ENTITY sunbird.menu.numberofweeks.label                  "Viikkojen määrä" >
+<!ENTITY sunbird.menu.numberofweeks.accesskey              "n" >
+<!ENTITY sunbird.menu.numberofweeks.1                      "1 viikko" >
+<!ENTITY sunbird.menu.numberofweeks.2                      "2 viikkoa" >
+<!ENTITY sunbird.menu.numberofweeks.3                      "3 viikkoa" >
+<!ENTITY sunbird.menu.numberofweeks.4                      "4 viikkoa" >
+<!ENTITY sunbird.menu.numberofweeks.5                      "5 viikkoa" >
+<!ENTITY sunbird.menu.numberofweeks.6                      "6 viikkoa" >
+
+<!-- customizable toolbars -->
+<!ENTITY sunbird.context.customize.label                   "Muokkaa…">
+<!ENTITY sunbird.context.customize.accesskey               "M">
+<!ENTITY sunbird.menu.customize.label                      "Muokkaa työkalupalkkia…">
+<!ENTITY sunbird.menu.customize.accesskey                  "M">
+<!ENTITY sunbird.maintoolbar.name                          "Pääpalkki">
+<!ENTITY sunbird.maintoolbar.accesskey                     "M">
+
+<!-- Sunbird Help -->
+<!ENTITY sunbird.help.label                                "Ohjeen aiheet">
+<!ENTITY sunbird.help.accesskey                            "O">
+
+<!-- LOCALIZATION NOTE (mainWindow.title): DONT_TRANSLATE -->
+<!ENTITY mainWindow.title                                  "&brandFullName;">
