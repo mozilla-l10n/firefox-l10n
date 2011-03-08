@@ -31,6 +31,7 @@
 <!ENTITY smart.label "Ohjelmistoasennukset">
 <!ENTITY download.label "Lataukset">
 <!ENTITY keynav.label "Näppäimistönavigointi">
+<!ENTITY findAsYouType.label "Pikahaut">
 <!ENTITY search.label "Verkkohaut">
 <!ENTITY policies.label "Turvallisuuskäytännöt">
 <!ENTITY mousewheel.label "Hiiren rulla">

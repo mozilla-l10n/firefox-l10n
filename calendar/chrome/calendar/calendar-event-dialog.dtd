@@ -45,7 +45,8 @@
 
 <!ENTITY event.title.label                  "Muokkaa merkintää" >
 
-<!ENTITY event.dialog.keepDurationButton.tooltip  "">
+<!ENTITY event.dialog.keepDurationButton.tooltip   "Kesto pysyy samana muutettaessa päättymispäivää">
+<!ENTITY event.dialog.keepDurationButton.accesskey "K">
 
 <!ENTITY newevent.from.label                "Lähettäjä" >
 <!ENTITY newevent.to.label                  "Vastaanottaja" >
@@ -377,6 +378,10 @@
 <!-- Read-Only dialog -->
 <!ENTITY read.only.general.label         "Yleistiedot">
 <!ENTITY read.only.title.label           "Otsikko:">
+<!ENTITY read.only.event.start.label     "Aloituspäivä:">
+<!ENTITY read.only.task.start.label      "Aloituspäivä:">
+<!ENTITY read.only.event.end.label       "Päättymispäivä:">
+<!ENTITY read.only.task.due.label        "Valmis:">
 <!ENTITY read.only.repeat.label          "Toista:">
 <!ENTITY read.only.location.label        "Osoite:">
 <!ENTITY read.only.category.label        "Tyyppi:">

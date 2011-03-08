@@ -170,10 +170,10 @@
 <!ENTITY messagePaneVertical.accesskey "y">
 <!ENTITY showMessagePaneCmd.label "Viestiruutu">
 <!ENTITY showMessagePaneCmd.accesskey "V">
-<!ENTITY showThreadPaneCmd.label "Kansioruutu">
-<!ENTITY showThreadPaneCmd.accesskey "K">
-<!ENTITY showFolderPaneCmd.label "Hakemistoruutu">
-<!ENTITY showFolderPaneCmd.accesskey "H">
+<!ENTITY showThreadPaneCmd.label "Viestiketjuruutu">
+<!ENTITY showThreadPaneCmd.accesskey "i">
+<!ENTITY showFolderPaneCmd.label "Kansioruutu">
+<!ENTITY showFolderPaneCmd.accesskey "K">
 
 <!-- sortMenu is also used by addressbook -->
 <!ENTITY sortMenu.label "Lajitteluperuste">

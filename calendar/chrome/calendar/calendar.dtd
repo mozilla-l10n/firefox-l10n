@@ -76,7 +76,7 @@
 <!ENTITY calendar.unifinder.tree.startdate.label     "Alkaa">
 <!ENTITY calendar.unifinder.tree.enddate.label       "Päättyy">
 <!ENTITY calendar.unifinder.tree.duedate.label       "Valmis">
-<!ENTITY calendar.unifinder.tree.completeddate.label "Completed">
+<!ENTITY calendar.unifinder.tree.completeddate.label "Suoritettu">
 <!ENTITY calendar.unifinder.tree.categories.label    "Tyyppi">
 <!ENTITY calendar.unifinder.tree.location.label      "Osoite">
 <!ENTITY calendar.unifinder.tree.status.label        "Tila">
@@ -163,7 +163,7 @@
 <!ENTITY calendar.task.filter.repeating.accesskey   "T">
 
 <!ENTITY calendar.task-details.title.label           "otsikko">
-<!ENTITY calendar.task-details.organizer.label       "from">
+<!ENTITY calendar.task-details.organizer.label       "lähettäjä">
 <!ENTITY calendar.task-details.priority.label        "tärkeysaste">
 <!ENTITY calendar.task-details.priority.low.label    "Matala">
 <!ENTITY calendar.task-details.priority.normal.label "Normaali">
@@ -172,13 +172,15 @@
 <!ENTITY calendar.task-details.category.label        "tyyppi">
 <!ENTITY calendar.task-details.repeat.label          "toista">
 <!ENTITY calendar.task-details.attachments.label     "liitteet">
+<!ENTITY calendar.task-details.start.label           "aloituspäivä">
+<!ENTITY calendar.task-details.due.label             "valmis">
 
 <!ENTITY calendar.task.category.button.tooltip  "Luokittele tehtäviä">
 <!ENTITY calendar.task.complete.button.tooltip  "Merkitse valitut tehtävät suoritetuksi">
 <!ENTITY calendar.task.priority.button.tooltip  "Muuta tärkeysastetta">
 
 <!-- Statusbar -->
-<!ENTITY statusText.label            "Document: Done">
+<!ENTITY statusText.label            "Asiakirja: valmis">
 
 <!-- Context Menu -->
 <!ENTITY calendar.context.modifyorviewitem.label      "Avaa">
@@ -189,34 +191,22 @@
 <!ENTITY calendar.context.newevent.accesskey          "U">
 <!ENTITY calendar.context.newtodo.label               "Uusi tehtävä…">
 <!ENTITY calendar.context.newtodo.accesskey           "U">
-<!ENTITY calendar.context.modifytask.label            "Muokkaa tehtävää…">
-<!ENTITY calendar.context.modifytask.accesskey        "e">
-<!ENTITY calendar.context.modifyitem.label            "Muokkaa merkintää…">
-<!ENTITY calendar.context.modifyitem.accesskey        "e">
 <!ENTITY calendar.context.deletetask.label            "Poista tehtävä">
 <!ENTITY calendar.context.deletetask.accesskey        "P">
-<!ENTITY calendar.context.deleteitem.label            "Poista">
-<!ENTITY calendar.context.deleteitem.accesskey        "P">
 <!ENTITY calendar.context.deleteevent.label           "Poista tapahtuma">
 <!ENTITY calendar.context.deleteevent.accesskey       "P">
-<!ENTITY calendar.context.deletethisevent.label       "Tämä tapahtuma">
-<!ENTITY calendar.context.deletethisevent.accesskey   "T">
-<!ENTITY calendar.context.deletecompleteseries.label  "Koko sarja">
-<!ENTITY calendar.context.deletecompleteseries.accesskey   "s">
-<!ENTITY calendar.context.deletefutureevents.label     "Kaikki tulevat tapahtumat">
-<!ENTITY calendar.context.deletefutureevents.accesskey "K">
-<!ENTITY calendar.context.deletefuturetasks.label     "Kaikki tulevat tehtävät">
-<!ENTITY calendar.context.deletefuturetasks.accesskey "K">
 <!ENTITY calendar.context.cutevent.label              "Leikkaa">
 <!ENTITY calendar.context.cutevent.accesskey          "L">
 <!ENTITY calendar.context.copyevent.label             "Kopioi">
 <!ENTITY calendar.context.copyevent.accesskey         "K">
 <!ENTITY calendar.context.pasteevent.label            "Liitä">
 <!ENTITY calendar.context.pasteevent.accesskey        "i">
-<!ENTITY calendar.context.selectall.label             "Valitse kaikki">
-<!ENTITY calendar.context.selectall.accesskey         "V">
 <!ENTITY calendar.context.button.label                "Tänään-ruutu" >
 <!ENTITY calendar.context.button.accesskey            "T" >
+<!ENTITY calendar.context.attendance.menu.label       "Osallistuminen" >
+<!ENTITY calendar.context.attendance.menu.accesskey   "O" >
+<!ENTITY calendar.context.attendance.occurrence.label "Vain tämä esiintymä" >
+<!ENTITY calendar.context.attendance.all.label        "Kaikki esiintymät" >
 
 <!-- Task Context Menu -->
 <!ENTITY calendar.context.progress.label              "Edistyminen">
@@ -248,6 +238,12 @@
 <!ENTITY priority.level.normal.accesskey    "N">
 <!ENTITY priority.level.high                "Korkea">
 <!ENTITY priority.level.high.accesskey      "K">
+
+<!-- Task View -->
+<!-- Note that the above *.context.* strings are currently used for the other
+     task action buttons -->
+<!ENTITY calendar.taskview.delete.label     "Poista">
+<!ENTITY calendar.taskview.delete.accesskey "P">
 
 <!-- Server Context Menu -->
 <!ENTITY calendar.context.newserver.label              "Uusi kalenteri…">
@@ -304,6 +300,12 @@
 <!ENTITY calendar.alarm.snooze.2hours.label         "2 tunnin kuluttua" >
 <!ENTITY calendar.alarm.snooze.1day.label           "1 päivän kuluttua" >
 
+<!-- LOCALIZATION NOTE (calendar.alarm.snooze.cancel)
+     This string is not seen in the UI, it is read by screen readers when the
+     user focuses the "Cancel" button in the "Snooze for..." popup of the alarm
+     dialog. -->
+<!ENTITY calendar.alarm.snooze.cancel               "Peruuta lykkäys">
+
 <!-- Calendar Server Dialog -->
 <!ENTITY calendar.server.dialog.title.edit          "Muokkaa kalenteria">
 <!ENTITY calendar.server.dialog.name.label          "Kalenterin nimi:">
@@ -315,6 +317,8 @@
 <!ENTITY calendarproperties.wcap.label                     "Sun Java System Calendar Server (WCAP)">
 <!ENTITY calendarproperties.format.label                   "Formaatti:">
 <!ENTITY calendarproperties.location.label                 "Sijainti:">
+<!ENTITY calendarproperties.refreshInterval.label          "Päivitä kalenteri:">
+<!ENTITY calendarproperties.refreshInterval.manual.label   "Käsin">
 <!ENTITY calendarproperties.name.label                     "Nimi:">
 <!ENTITY calendarproperties.readonly.label                 "Vain luku">
 <!ENTITY calendarproperties.firealarms.label               "Näytä hälytykset">

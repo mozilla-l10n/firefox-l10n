@@ -53,8 +53,8 @@
 <!ENTITY setDefaultFeed.accesskey         "y">
 
 <!ENTITY messengerStartPage.caption       "Aloitussivu">
-<!ENTITY enableStartPage.label            "When Mail launches, show the Start Page in the message area">
-<!ENTITY enableStartPage.accesskey        "K">
+<!ENTITY enableStartPage.label            "Näytä aloitussivu viestiruudussa, kun sähköpostiohjelma käynnistyy">
+<!ENTITY enableStartPage.accesskey        "N">
 <!ENTITY location.label                   "Osoite:">
 <!ENTITY location.accesskey               "O">
 <!ENTITY useDefault.label                 "Palauta oletus">

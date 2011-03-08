@@ -49,6 +49,3 @@
 <!ENTITY pref.defaultlength.accesskey "T">
 <!ENTITY pref.defaultsnoozelength.label "Torkun oletuspituus:" >
 <!ENTITY pref.defaultsnoozelength.accesskey "o">
-<!ENTITY pref.refreshbox.label "Kalenterien päivitysasetukset" >
-<!ENTITY pref.autorefresh.label "Päivitä kalenterit" >
-<!ENTITY pref.autorefresh.accesskey "r" >
