@@ -1,6 +1,6 @@
 <!ENTITY aboutHome.header                       "<span>&brandShortName; </span><span id='header-suffix'>スタート</span>">
 <!ENTITY aboutHome.recentTabs                   "前回終了時に開いていたタブ">
-<!ENTITY aboutHome.remoteTabs                   "他のコンピュータで開いているタブ">
+<!ENTITY aboutHome.remoteTabs                   "パソコンで開いているタブ">
 <!ENTITY aboutHome.recommendedAddons2           "&brandShortName; のアドオン">
 <!ENTITY aboutHome.giveFeedback                 "フィードバックを送信">
 <!ENTITY aboutHome.getHelp                      "ヘルプ">
@@ -9,5 +9,7 @@
 <!ENTITY aboutHome.noTabs                       "前回終了時に開いていたタブはありません">
 <!ENTITY aboutHome.noAddons                     "オススメのアドオンはありません">
 
-<!-- LOCALIZATION NOTE: 'Firefox Spark' is the official name of the promotion and should not be translated -->
-<!ENTITY aboutHome.promoSpark                   "Firefox Spark">
+<!-- LOCALIZATION NOTE: 'Firefox Spark' is the official name of the promotion/constest and should not be translated -->
+<!ENTITY aboutHome.promoLabel                   "Firefox Spark">
+<!-- LOCALIZATION NOTE: 'Play' should be translated in the context of 'playing a game' and not 'playing a video' -->
+<!ENTITY aboutHome.promoButton                  "遊んでみる">
