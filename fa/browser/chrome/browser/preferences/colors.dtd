@@ -9,7 +9,7 @@
 <!ENTITY  textColor.label                 "متن:">
 <!ENTITY  textColor.accesskey             "م">
 <!ENTITY  backgroundColor.label           "پس‌زمینه:">
-<!ENTITY  backgroundColor.accesskey       "پ">
+<!ENTITY  backgroundColor.accesskey       "ز">
 <!ENTITY  useSystemColors.label           "استفاده از رنگ‌های سیستم">
 <!ENTITY  useSystemColors.accesskey       "س">
 
