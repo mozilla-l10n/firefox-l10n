@@ -5,10 +5,21 @@
 <!-- File Menu -->
 <!ENTITY newFolderCmd.label "Carpeta…">
 <!ENTITY newFolderCmd.accesskey "C">
-<!ENTITY closeTabCmd.label "Cerrar pestaña">
-<!ENTITY closeTabCmd.accesskey "e">
-<!ENTITY closeOtherTabsCmd.label "Cerrar las otras pestañas">
-<!ENTITY closeOtherTabsCmd.accesskey "l">
+<!ENTITY closeTabCmd2.label "Cerrar pestaña">
+<!ENTITY closeTabCmd2.accesskey "e">
+<!ENTITY closeOtherTabsCmd2.label "Cerrar las otras pestañas">
+<!ENTITY closeOtherTabsCmd2.accesskey "l">
+<!-- LOCALIZATION NOTE (undoCloseTabCmd.label):
+     Menu option to attempt to re-open a recently closed tab.
+     -->
+<!ENTITY undoCloseTabCmd.label "Deshacer cerrar pestaña">
+<!ENTITY undoCloseTabCmd.accesskey "D">
+<!-- LOCALIZATION NOTE (moveToNewWindow.label):
+     Menu option to cause the current tab to be migrated to a new Thunderbird
+     window.
+     -->
+<!ENTITY moveToNewWindow.label "Mover a ventana nueva">
+<!ENTITY moveToNewWindow.accesskey "v">
 <!ENTITY newVirtualFolderCmd.label "Búsqueda guardada…">
 <!ENTITY newVirtualFolderCmd.accesskey "s">
 <!ENTITY newOtherAccountsCmd.label "Otras cuentas…">
@@ -801,19 +812,15 @@ you can use these alternative items. Otherwise, their values should be empty.  -
 <!ENTITY reportPhishingURL.label "Informar correo electrónico fraudulento">
 <!ENTITY reportPhishingURL.accesskey "o">
 
+<!-- Spell checker context menu items -->
+<!ENTITY spellAddDictionaries.label "Agregar diccionarios…">
+<!ENTITY spellAddDictionaries.accesskey "A">
+
 <!-- Content Pane Context Menu -->
 <!ENTITY saveLinkAsCmd.label "Guardar enlace como…">
 <!ENTITY saveLinkAsCmd.accesskey "G">
 <!ENTITY saveImageAsCmd.label "Guardar imagen como…">
 <!ENTITY saveImageAsCmd.accesskey "m">
-<!ENTITY cutCmd.label "Cortar">
-<!ENTITY cutCmd.accesskey "t">
-<!ENTITY copyCmd.label "Copiar">
-<!ENTITY copyCmd.accesskey "C">
-<!ENTITY pasteCmd.label "Pegar">
-<!ENTITY pasteCmd.accesskey "P">
-<!ENTITY selectAllCmd.label "Seleccionar todo">
-<!ENTITY selectAllCmd.accesskey "A">
 <!ENTITY copyLinkCmd.label "Copiar dirección del enlace">
 <!ENTITY copyLinkCmd.accesskey "C">
 <!ENTITY copyImageAllCmd.label "Copiar imagen">

@@ -407,7 +407,6 @@
 
 <!-- Toolbar-only items -->
 <!ENTITY menuBar.tooltip "Barra de menú">
-<!ENTITY compositionToolbar.tooltip "Barra de herramientas de composición">
 <!ENTITY formatToolbar.tooltip "Barra de herramientas de formato">
 <!ENTITY newToolbarCmd.tooltip "Crear una nueva página de Composer">
 <!ENTITY openToolbarCmd.label "Abrir">
@@ -452,7 +451,7 @@
 <!ENTITY alignLeftButton.tooltip "Alinear texto a lo largo del margen izquierdo">
 <!ENTITY alignCenterButton.tooltip "Alinear texto centrado">
 <!ENTITY alignRightButton.tooltip "Alinear texto a lo largo del margen derecho">
-<!ENTITY alignjustifyButton.tooltip "Alinear texto a lo largo de los márgenes derecho e izquierdo">
+<!ENTITY alignJustifyButton.tooltip "Alinear texto a lo largo de los márgenes derecho e izquierdo">
 
 <!-- Display Mode toolbar and View menu items -->
 <!ENTITY NormalModeTab.label "Normal">
