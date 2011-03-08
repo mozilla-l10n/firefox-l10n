@@ -1,0 +1,17 @@
+<!ENTITY  splash_screen_label "carregando">
+<!ENTITY  splash_screen_installing "instalando bibliotecas\u2026">
+<!ENTITY  incompatable_cpu_error "Este dispositivo não satisfaz os requisitos mínimos de sistema para o &brandShortName;.">
+<!ENTITY  no_space_to_start_error "Não há espaço disponível suficiente para iniciar o &brandShortName;.">
+<!ENTITY  error_loading_file "Ocorreu um erro ao tentar carregar os arquivos necessários para executar &brandShortName;">
+
+<!ENTITY  crash_reporter_title "&brandShortName; Crash Reporter">
+<!ENTITY  crash_message "O &brandShortName; travou. Suas abas serão listadas na página &brandShortName; Start quando você reiniciar.">
+<!ENTITY  crash_help_message "Por favor, nos ajude a corrigir este problema!">
+<!ENTITY  crash_send_report_message "Enviar um relatório de travamento à Mozilla">
+<!ENTITY  crash_include_url "Incluir endereço da página">
+<!ENTITY  crash_close_label "Fechar">
+<!ENTITY  crash_restart_label "Reiniciar o &brandShortName;">
+<!ENTITY  sending_crash_report "Enviando relatório do travamento\u2026">
+<!ENTITY  exit_label "Sair">
+<!ENTITY  incompatable_device "O &brandShortName; não suporta este dispositivo e você pode ter problemas.">
+<!ENTITY  continue_label "Continuar">
