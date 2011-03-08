@@ -42,6 +42,9 @@
 
 <!-- Menu items:  the . means that the menu item isn't implemented yet -->
 
+<!-- Toolbar-only items -->
+<!ENTITY compositionToolbar.tooltip "編輯工具列">
+
 <!-- View menu items -->
 <!ENTITY viewMenu.label "檢視">
 <!ENTITY viewMenu.accesskey "V">

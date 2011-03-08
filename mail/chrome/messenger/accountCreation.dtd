@@ -10,42 +10,46 @@
 <!ENTITY password.accesskey              "P">
 <!ENTITY password.placeholder            "密碼">
 <!ENTITY password.text                   "可選，將只用來驗證使用者名稱">
+<!ENTITY rememberPassword.label          "記住密碼">
+<!ENTITY rememberPassword.accesskey      "m">
 
-<!ENTITY accountInformation.label        "帳號資訊">
-<!ENTITY username2.label                 "使用者名稱:">
+<!ENTITY imapLong.label                  "IMAP（遠端資料夾）">
+<!ENTITY pop3Long.label                  "POP3（將郵件保留在您的電腦上）">
+
 <!ENTITY incoming.label                  "收件:">
 <!ENTITY outgoing.label                  "寄件:">
+<!ENTITY username.label                  "使用者名稱:">
+<!ENTITY hostname.label                  "伺服器主機名稱">
+<!ENTITY port.label                      "埠">
+<!ENTITY ssl.label                       "SSL">
+<!ENTITY auth.label                      "認證">
+<!ENTITY imap.label                      "IMAP">
+<!ENTITY pop3.label                       "POP3">
+<!ENTITY smtp.label                      "SMTP">
+<!ENTITY autodetect.label                "自動偵測">
+<!-- LOCALIZATION NOTE(noEncryption.label): Neither SSL/TLS nor STARTTLS.
+     Transmission of emails in cleartext over the Internet. -->
 <!ENTITY noEncryption.label              "無">
 <!ENTITY starttls.label                  "STARTTLS">
 <!ENTITY sslTls.label                    "SSL/TLS">
 
-<!ENTITY imap.label                      "IMAP">
-<!ENTITY pop.label                       "POP">
-<!ENTITY smtp.label                      "SMTP">
-<!ENTITY imap.description                "IMAP - 從不同的電腦存取郵件資料夾與訊息">
-<!ENTITY pop.description                 "POP - 下載所有的訊息到這台電腦，資料夾將只存在於本地端">
-<!ENTITY recommended-appendix.label      "(建議)">
-
-<!ENTITY manualSetup.label               "手動設定…">
-<!ENTITY manualSetup.accesskey           "S">
+<!ENTITY advancedSetup.label             "進階設定">
+<!ENTITY advancedSetup.accesskey         "A">
 <!ENTITY cancel.label                    "取消">
 <!ENTITY cancel.accesskey                "a">
 <!ENTITY continue.label                  "繼續">
 <!ENTITY continue.accesskey              "C">
-<!ENTITY startOver.label                 "重新開始">
-<!ENTITY startOver.accesskey             "o">
 <!ENTITY stop.label                      "停止">
 <!ENTITY stop.accesskey                  "S">
-<!-- LOCALIZATION NOTE (retest.label): This is the text that is
-     displayed on the button which will re-guess the account configuration,
-     taking into account the settings the user has changed. -->
-<!ENTITY retest.label                    "重新測試設定值">
-<!ENTITY retest.accesskey                "R">
-<!ENTITY edit.label                      "編輯">
-<!ENTITY edit.accesskey                  "E">
+<!-- LOCALIZATION NOTE (half-manual-test.label): This is the text that is
+     displayed on the button in manual edit mode which will re-guess
+     the account configuration, taking into account the settings that
+     the user has manually changed. -->
+<!ENTITY half-manual-test.label          "重新測試">
+<!ENTITY half-manual-test.accesskey      "t">
+<!ENTITY manual-edit.label               "手動設定">
+<!ENTITY manual-edit.accesskey           "M">
 
-<!ENTITY rememberPassword.label          "記住密碼">
-<!ENTITY rememberPassword.accesskey      "m">
 
 <!ENTITY warning.label                   "警告！">
 <!ENTITY incomingSettings.label          "收件設定:">
