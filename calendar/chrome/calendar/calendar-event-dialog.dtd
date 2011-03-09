@@ -378,6 +378,10 @@
 <!-- Read-Only dialog -->
 <!ENTITY read.only.general.label         "Algemien">
 <!ENTITY read.only.title.label           "Titel:">
+<!ENTITY read.only.event.start.label     "Startdatum:">
+<!ENTITY read.only.task.start.label      "Startdatum:">
+<!ENTITY read.only.event.end.label       "Eindatum:">
+<!ENTITY read.only.task.due.label        "Ferfaldatum:">
 <!ENTITY read.only.repeat.label          "Werhelje:">
 <!ENTITY read.only.location.label        "Lokaasje:">
 <!ENTITY read.only.category.label        "Kategory:">

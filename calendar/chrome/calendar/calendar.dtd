@@ -172,6 +172,8 @@
 <!ENTITY calendar.task-details.category.label        "kategory:">
 <!ENTITY calendar.task-details.repeat.label          "werhelje:">
 <!ENTITY calendar.task-details.attachments.label     "bylagen">
+<!ENTITY calendar.task-details.start.label           "begjindatum">
+<!ENTITY calendar.task-details.due.label             "eindatum">
 
 <!ENTITY calendar.task.category.button.tooltip  "Taken kategorisearje">
 <!ENTITY calendar.task.complete.button.tooltip  "Selektearre taken as foltôge markearje">
@@ -189,34 +191,22 @@
 <!ENTITY calendar.context.newevent.accesskey          "b">
 <!ENTITY calendar.context.newtodo.label               "Nije taak…">
 <!ENTITY calendar.context.newtodo.accesskey           "t">
-<!ENTITY calendar.context.modifytask.label            "Taak bewurkje…">
-<!ENTITY calendar.context.modifytask.accesskey        "w">
-<!ENTITY calendar.context.modifyitem.label            "Item bewurkje">
-<!ENTITY calendar.context.modifyitem.accesskey        "w">
 <!ENTITY calendar.context.deletetask.label            "Taak fuortsmite">
 <!ENTITY calendar.context.deletetask.accesskey        "f">
-<!ENTITY calendar.context.deleteitem.label            "Fuortsmite">
-<!ENTITY calendar.context.deleteitem.accesskey        "F">
 <!ENTITY calendar.context.deleteevent.label           "Barren fuortsmite">
 <!ENTITY calendar.context.deleteevent.accesskey       "f">
-<!ENTITY calendar.context.deletethisevent.label       "Dit barren">
-<!ENTITY calendar.context.deletethisevent.accesskey   "D">
-<!ENTITY calendar.context.deletecompleteseries.label  "Folsleine reeks">
-<!ENTITY calendar.context.deletecompleteseries.accesskey   "r">
-<!ENTITY calendar.context.deletefutureevents.label     "Alle takomstige barrens">
-<!ENTITY calendar.context.deletefutureevents.accesskey "t">
-<!ENTITY calendar.context.deletefuturetasks.label     "Alle takomstige taken">
-<!ENTITY calendar.context.deletefuturetasks.accesskey "t">
 <!ENTITY calendar.context.cutevent.label              "Knippe">
 <!ENTITY calendar.context.cutevent.accesskey          "n">
 <!ENTITY calendar.context.copyevent.label             "Kopiearje">
 <!ENTITY calendar.context.copyevent.accesskey         "K">
 <!ENTITY calendar.context.pasteevent.label            "Plakke">
 <!ENTITY calendar.context.pasteevent.accesskey        "P">
-<!ENTITY calendar.context.selectall.label             "Alles selektearje">
-<!ENTITY calendar.context.selectall.accesskey         "A">
 <!ENTITY calendar.context.button.label                "Finster Hjoed" >
 <!ENTITY calendar.context.button.accesskey            "d" >
+<!ENTITY calendar.context.attendance.menu.label       "Oanwêzichheid" >
+<!ENTITY calendar.context.attendance.menu.accesskey   "O" >
+<!ENTITY calendar.context.attendance.occurrence.label "Dit barren" >
+<!ENTITY calendar.context.attendance.all.label        "Alle barren" >
 
 <!-- Task Context Menu -->
 <!ENTITY calendar.context.progress.label              "Foartgong">
@@ -248,6 +238,12 @@
 <!ENTITY priority.level.normal.accesskey    "N">
 <!ENTITY priority.level.high                "Heech">
 <!ENTITY priority.level.high.accesskey      "H">
+
+<!-- Task View -->
+<!-- Note that the above *.context.* strings are currently used for the other
+     task action buttons -->
+<!ENTITY calendar.taskview.delete.label     "Fuortsmite">
+<!ENTITY calendar.taskview.delete.accesskey "r">
 
 <!-- Server Context Menu -->
 <!ENTITY calendar.context.newserver.label              "Nije aginda…">
