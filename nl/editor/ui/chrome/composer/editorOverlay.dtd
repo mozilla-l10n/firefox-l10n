@@ -449,7 +449,7 @@
 <!ENTITY alignLeftButton.tooltip "Tekst uitlijnen langs de linkermarge">
 <!ENTITY alignCenterButton.tooltip "Tekst gecentreerd uitlijnen">
 <!ENTITY alignRightButton.tooltip "Tekst uitlijnen langs de rechtermarge">
-<!ENTITY alignjustifyButton.tooltip "Tekst uitlijnen langs de linker- en rechtermarges">
+<!ENTITY alignJustifyButton.tooltip "Tekst uitlijnen langs de linker- en rechtermarges">
 
 <!-- Display Mode toolbar and View menu items -->
 <!ENTITY NormalModeTab.label "Normaal">
