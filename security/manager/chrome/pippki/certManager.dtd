@@ -94,10 +94,8 @@
 
 <!ENTITY certmgr.certname                     "Tên Chứng Thư">
 <!ENTITY certmgr.certserver                   "Máy chủ">
-<!ENTITY certmgr.typesofoverrides             "Ngoại trừ">
 <!ENTITY certmgr.override_lifetime            "Chu kì">
 <!ENTITY certmgr.tokenname                    "Thiết bị Bảo mật">
-<!ENTITY certmgr.purpose                      "Mục đích">
 <!ENTITY certmgr.issued                       "Cấp vào">
 <!ENTITY certmgr.expires                      "Hết hạn vào">
 <!ENTITY certmgr.email                        "Địa chỉ E-Mail">
@@ -107,8 +105,8 @@
 <!ENTITY certmgr.close.accesskey              "g">
 <!ENTITY certmgr.view2.label                  "Xem…">
 <!ENTITY certmgr.view2.accesskey              "e">
-<!ENTITY certmgr.edit2.label                  "Chỉnh sửa…">
-<!ENTITY certmgr.edit2.accesskey              "C">
+<!ENTITY certmgr.edit3.label                  "Chỉnh sửa Sự tin tưởng…">
+<!ENTITY certmgr.edit3.accesskey              "C">
 <!ENTITY certmgr.editca.label                 "Chỉnh sửa Mức tin cậy CA">
 <!ENTITY certmgr.editca.accesskey             "n">
 <!ENTITY certmgr.add.label                    "Thêm">
@@ -117,6 +115,8 @@
 <!ENTITY certmgr.export.accesskey             "u">
 <!ENTITY certmgr.delete2.label                "Xóa…">
 <!ENTITY certmgr.delete2.accesskey            "X">
+<!ENTITY certmgr.delete_builtin.label         "Xóa hoặc Không tin…">
+<!ENTITY certmgr.delete_builtin.accesskey     "X">
 <!ENTITY certmgr.backup2.label                "Sao lưu…">
 <!ENTITY certmgr.backup2.accesskey            "l">
 <!ENTITY certmgr.backupall2.label             "Sao lưu Toàn bộ…">
@@ -133,8 +133,8 @@
 <!ENTITY certmgr.addException.accesskey       "T">
 
 <!ENTITY exceptionMgr.title                   "Thêm ngoại lệ Bảo mật">
-<!ENTITY exceptionMgr.exceptionButton         "Xác nhận Ngoại lệ Bảo mật">
-<!ENTITY exceptionMgr.exceptionButtonAccess   "X">
+<!ENTITY exceptionMgr.exceptionButton.label   "Xác nhận Ngoại lệ Bảo mật">
+<!ENTITY exceptionMgr.exceptionButton.accesskey "X">
 <!ENTITY exceptionMgr.supplementalWarning     "Ngân hàng, cửa hiệu và trang công cộng hợp pháp khác sẽ không yêu cầu bạn làm việc này.">
 <!ENTITY exceptionMgr.certlocation.caption2   "Máy chủ">
 <!ENTITY exceptionMgr.certlocation.url        "Địa chỉ:">

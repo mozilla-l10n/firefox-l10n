@@ -11,6 +11,37 @@
                                                                 inside the private browsing mode -->
 <!ENTITY mainWindow.titlePrivateBrowsingSuffix "(Duyệt web Riêng tư)">
 
+<!-- Tab context menu -->
+<!ENTITY  reloadTab.label                    "Tải lại Thẻ">
+<!ENTITY  reloadTab.accesskey                "i">
+<!ENTITY  reloadAllTabs.label                "Tải lại Tất cả Các thẻ">
+<!ENTITY  reloadAllTabs.accesskey            "l">
+<!ENTITY  closeOtherTabs.label               "Đóng Các Thẻ Khác">
+<!ENTITY  closeOtherTabs.accesskey           "K">
+
+<!-- LOCALIZATION NOTE (pinAppTab.label, unpinAppTab.label): "Pin" is being
+used as a metaphor for expressing the fact that these tabs are "pinned" to the
+left edge of the tabstrip. Really we just want the string to express the idea
+that this is a lightweight and reversible action that keeps your tab where you
+can reach it easily. -->
+<!ENTITY  pinAppTab.label                    "Co rút thành Thẻ Tí Hon">
+<!ENTITY  pinAppTab.accesskey                "o">
+<!ENTITY  unpinAppTab.label                  "Dừng co rút Thẻ">
+<!ENTITY  unpinAppTab.accesskey              "r">
+<!ENTITY  moveToGroup.label                  "Di chuyển vào Nhóm">
+<!ENTITY  moveToGroup.accesskey              "y">
+<!ENTITY  moveToNewGroup.label               "Nhóm Mới">
+<!ENTITY  moveToNewWindow.label              "Di chuyển sang Cửa Sổ Mới">
+<!ENTITY  moveToNewWindow.accesskey          "u">
+<!ENTITY  bookmarkAllTabs.label              "Đánh dấu Tất cả Các thẻ…">
+<!ENTITY  bookmarkAllTabs.accesskey          "u">
+<!ENTITY  undoCloseTab.label                 "Hoàn tác Đóng Thẻ">
+<!ENTITY  undoCloseTab.accesskey             "H">
+<!ENTITY  closeTab.label                     "Đóng Thẻ">
+<!ENTITY  closeTab.accesskey                 "g">
+
+<!ENTITY  listAllTabs.label      "Liệt kê tất cả các thẻ">
+
 <!ENTITY tabCmd.label "Thẻ Mới">
 <!ENTITY tabCmd.accesskey "T">
 <!ENTITY tabCmd.commandkey "t">
@@ -39,8 +70,8 @@
 <!ENTITY personalbarCmd.label "Thanh Đánh Dấu">
 <!ENTITY personalbarCmd.accesskey "u">
 <!ENTITY bookmarksToolbarItem.label "Các mục của Thanh Đánh Dấu">
-<!ENTITY taskbarCmd.label "Thanh Trạng Thái">
-<!ENTITY taskbarCmd.accesskey "a">
+<!ENTITY addonBarCmd.label "Thanh Tiện Ích">
+<!ENTITY addonBarCmd.accesskey "a">
 
 <!ENTITY pageSourceCmd.label "Mã nguồn của Trang">
 <!ENTITY pageSourceCmd.accesskey "M">
@@ -72,7 +103,7 @@
 <!ENTITY subscribeToPageMenupopup.label "Đăng kí nhận tin từ Trang Này">
 <!ENTITY subscribeToPageMenuitem.label "Đăng kí nhận tin từ Trang Này…">
 <!ENTITY addCurPagesCmd.label "Đánh dấu Tất cả Các thẻ…">
-<!ENTITY organizeBookmarks.label "Quản lí Trang đánh dấu…">
+<!ENTITY showAllBookmarks2.label "Hiển thị Tất cả Trang đánh dấu">
 <!ENTITY bookmarkAllCmd.label "Đánh dấu Tất cả Các thẻ…">
 <!ENTITY bookmarksToolbarChevron.tooltip "Hiện thêm các trang đánh dấu">
 
@@ -82,7 +113,6 @@
 <!ENTITY forwardCmd.label             "Tiến">
 <!ENTITY forwardCmd.accesskey         "T">
 <!ENTITY forwardButton.tooltip        "Tiến tới trang sau">
-<!ENTITY backForwardMenu.tooltip      "Các trang vừa xem">
 <!ENTITY reloadCmd.label              "Tải lại">
 <!ENTITY reloadCmd.accesskey          "i">
 <!ENTITY reloadButton.tooltip         "Tải lại trang này">
@@ -91,22 +121,37 @@
 <!ENTITY stopCmd.macCommandKey        ".">
 <!ENTITY stopButton.tooltip           "Ngưng tải trang này">
 <!ENTITY goEndCap.tooltip             "Tải trang trong thanh Địa chỉ">
-<!ENTITY feedButton.tooltip           "Đăng kí nhận tin từ trang này…">
 <!ENTITY printButton.label            "In">
 <!ENTITY printButton.tooltip          "In trang này">
 
+<!ENTITY backForwardItem.title        "Trước/Sau">
 <!ENTITY locationItem.title           "Địa chỉ">
 <!ENTITY searchItem.title             "Tìm kiếm">
 <!ENTITY throbberItem.title           "Chỉ báo Hoạt động">
 <!ENTITY bookmarksItem.title          "Đánh dấu">
 
 <!-- Toolbar items --> 
-<!ENTITY  homeButton.label            "Trang chủ">
+<!ENTITY appMenuButton.label          "Trình đơn">
+<!ENTITY appMenuButton.tooltip        "Mở trình đơn &brandShortName;">
+<!ENTITY homeButton.label             "Trang chủ">
+
+<!ENTITY tabGroupsButton.label        "Các Nhóm Thẻ">
+<!ENTITY tabGroupsButton.tooltip      "Nhóm các thẻ của bạn">
+
+<!ENTITY feedButton.label             "Đăng kí theo dõi">
+<!ENTITY feedButton.tooltip           "Đăng kí nhận tin từ trang này…">
 
 <!ENTITY bookmarksButton.label          "Đánh dấu">
 <!ENTITY bookmarksButton.tooltip        "Hiển thị các trang đánh dấu của bạn">
 <!ENTITY bookmarksButton.accesskey  "u">
 <!ENTITY bookmarksCmd.commandkey "b">
+
+<!ENTITY bookmarksMenuButton.label          "Đánh dấu">
+<!ENTITY bookmarksMenuButton.tooltip        "Hiển thị các trang đánh dấu của bạn">
+<!ENTITY bookmarksMenuButton.unsorted.label "Các trang đánh dấu Chưa sắp xếp">
+<!ENTITY viewBookmarksSidebar.label         "Hiện trong Thanh lề">
+<!ENTITY viewBookmarksToolbar.label         "Hiển thị Thanh công cụ Đánh dấu">
+
 <!-- LOCALIZATION NOTE (bookmarksSidebarGtkCmd.commandkey): This command
   -  key should not contain the letters A-F, since these are reserved
   -  shortcut keys on Linux. -->
@@ -131,12 +176,37 @@
 <!ENTITY downloads.commandkey         "j">
 <!ENTITY downloadsUnix.commandkey     "y">
 <!ENTITY addons.label                 "Tiện ích">
-<!ENTITY addons.tooltip               "Hiển thị và Quản lí các Tiện ích đã cài đặt">
 <!ENTITY addons.accesskey             "T">
+<!ENTITY addons.commandkey            "A">
 
 <!ENTITY errorConsoleCmd.label        "Bảng kiểm soát Lỗi">
 <!ENTITY errorConsoleCmd.accesskey    "B">
 <!ENTITY errorConsoleCmd.commandkey   "j">
+
+<!ENTITY webConsoleCmd.label          "Bảng kiểm soát Web">
+<!ENTITY webConsoleCmd.accesskey      "W">
+<!ENTITY webConsoleCmd.commandkey     "k">
+
+<!ENTITY inspectMenu.label            "Giám sát">
+<!ENTITY inspectMenu.accesskey        "G">
+<!ENTITY inspectMenu.commandkey       "I">
+
+<!ENTITY inspectPanelTitle.label      "HTML">
+<!ENTITY inspectButton.label          "Giám sát">
+<!ENTITY inspectButton.accesskey      "i">
+<!ENTITY inspectNextButton.label      "Tiếp">
+<!ENTITY inspectNextButton.accesskey  "i">
+<!ENTITY inspectPreviousButton.label  "Trước">
+<!ENTITY inspectPreviousButton.accesskey "r">
+<!ENTITY inspectStyleButton.label     "Kiểu">
+<!ENTITY inspectStyleButton.accesskey "K">
+<!ENTITY inspectStylePanelTitle.label  "Kiểu">
+<!-- LOCALIZATION NOTE (inspectObjectButton.label): This button label
+  -  appears on the Inspector's toolbar. It is used to open and close the Object
+  -  panel. There is also a label in inspector.properties for the panel
+  -  titlebar: object.objectPanelTitle. -->
+<!ENTITY inspectObjectButton.label       "Đối tượng">
+<!ENTITY inspectObjectButton.accesskey   "i">
 
 <!ENTITY fileMenu.label         "Tập tin"> 
 <!ENTITY fileMenu.accesskey       "T">
@@ -167,13 +237,13 @@
 <!ENTITY selectAllCmd.label         "Chọn Toàn Bộ">  
 <!ENTITY selectAllCmd.key         "A">  
 <!ENTITY selectAllCmd.accesskey       "B"> 
-<!ENTITY preferencesCmd.label       "Tùy chọn…">
-<!ENTITY preferencesCmd.accesskey     "y"> 
+<!ENTITY preferencesCmd2.label       "Tùy chọn">
+<!ENTITY preferencesCmd2.accesskey     "y">
 <!ENTITY preferencesCmdUnix.label       "Tùy chỉnh">
 <!ENTITY preferencesCmdUnix.accesskey     "y"> 
 
-<!ENTITY clearRecentHistoryCmd.label            "Xóa các Lược sử Gần đây">
-<!ENTITY clearRecentHistoryCmd.accesskey        "L">
+<!ENTITY clearRecentHistory.label               "Xóa các Lược sử Gần đây…">
+<!ENTITY clearRecentHistory.accesskey           "X">
 
 <!-- LOCALIZATION NOTE : These two strings can share an access key beause they never appear together on the menu -->
 <!ENTITY privateBrowsingCmd.start.label         "Bắt đầu Duyệt web Riêng tư">
@@ -184,40 +254,54 @@
 
 <!ENTITY viewMenu.label         "Hiển thị"> 
 <!ENTITY viewMenu.accesskey       "H"> 
+<!ENTITY viewTabGroups.label            "Các Nhóm Thẻ">
+<!ENTITY viewTabGroups.accesskey        "N">
 <!ENTITY viewToolbarsMenu.label       "Thanh Công Cụ"> 
 <!ENTITY viewToolbarsMenu.accesskey     "C"> 
 <!ENTITY viewSidebarMenu.label "Thanh Lề">
 <!ENTITY viewSidebarMenu.accesskey "L">
 <!ENTITY viewCustomizeToolbar.label       "Tùy biến…"> 
 <!ENTITY viewCustomizeToolbar.accesskey     "b">
+<!ENTITY viewTabsOnTop.label            "Thẻ nằm Trên cùng">
+<!ENTITY viewTabsOnTop.accesskey        "r">
 
 <!ENTITY historyMenu.label "Lược sử">
 <!ENTITY historyMenu.accesskey "L">
 <!ENTITY historyUndoMenu.label "Các thẻ Đã đóng Gần đây">
 <!-- LOCALIZATION NOTE (historyUndoWindowMenu): see bug 394759 -->
 <!ENTITY historyUndoWindowMenu.label "Các cửa sổ Đã đóng Gần đây">
+<!ENTITY historyRestoreLastSession.label "Khôi phục Phiên làm việc Trước">
 
 <!ENTITY historyHomeCmd.label "Trang chủ">
 <!ENTITY showAllHistoryCmd2.label "Hiển thị Toàn bộ Lược sử">
 <!ENTITY showAllHistoryCmd.commandkey "H">
 
+<!ENTITY appMenuEdit.label "Chỉnh sửa">
+<!ENTITY appMenuCustomize.label "Tùy biến">
+<!ENTITY appMenuToolbarLayout.label "Bố cục Thanh công cụ…">
+<!ENTITY appMenuSidebars.label "Thanh lề">
+<!ENTITY appMenuFind.label "Tìm…">
+<!ENTITY appMenuUnsorted.label "Các trang đánh dấu Chưa sắp xếp">
+<!ENTITY appMenuWebDeveloper.label "Nhà phát triển Web">
+<!ENTITY appMenuGettingStarted.label "Bắt đầu">
+<!ENTITY appMenuSafeMode.label "Khởi động lại và vô hiệu hóa Tiện ích…">
+<!ENTITY appMenuSafeMode.accesskey "v">
+
 <!ENTITY openCmd.commandkey           "l">
-<!ENTITY urlbar.bookmarkhistory.emptyText "Tìm kiếm Trang đánh dấu và Lược sử">
-<!ENTITY urlbar.bookmark.emptyText    "Tìm kiếm Trang đánh dấu">
-<!ENTITY urlbar.history.emptyText     "Tìm kiếm Lược sử">
-<!ENTITY urlbar.none.emptyText        "Gõ một địa chỉ Web">
+<!ENTITY urlbar.placeholder           "Đi tới một Trang Web">
 <!ENTITY urlbar.accesskey             "d">
+<!ENTITY urlbar.switchToTab.label     "Chuyển qua thẻ:">
 
 <!-- 
   Comment duplicated from browser-sets.inc:
 
   Search Command Key Logic works like this:
-  
+
   Unix: Ctrl+J (0.8, 0.9 support)
         Ctrl+K (cross platform binding)
-  Mac:  Ctrl+K (cross platform binding)
+  Mac:  Cmd+K (cross platform binding)
+        Cmd+Opt+F (platform convention)
   Win:  Ctrl+K (cross platform binding)
-        Ctrl+E (IE compat) 
 
   We support Ctrl+K on all platforms now and advertise it in the menu since it is
   our standard - it is a "safe" choice since it is near no harmful keys like "W" as
@@ -226,21 +310,22 @@
   is a fundamental keybinding and we are maintaining a XP binding so that it is easy
   for people to switch to Linux.
 
-  Do *not* tamper with these values without talking to ben@mozilla.org
-  
  -->
 <!ENTITY searchFocus.commandkey       "k">
-<!ENTITY searchFocus.commandkey2      "e">
 <!ENTITY searchFocusUnix.commandkey   "j">
 
-<!ENTITY openLinkCmd.label            "Mở Liên Kết trong Cửa Sổ Mới">
-<!ENTITY openLinkCmd.accesskey        "S">
+<!ENTITY tabView.commandkey           "e">
+
 <!ENTITY openLinkCmdInTab.label       "Mở Liên Kết trong Thẻ Mới">
 <!ENTITY openLinkCmdInTab.accesskey   "T">
-<!ENTITY openFrameCmd.label           "Mở Khung trong Cửa Sổ Mới">
-<!ENTITY openFrameCmd.accesskey       "S">
+<!ENTITY openLinkCmd.label            "Mở Liên Kết trong Cửa Sổ Mới">
+<!ENTITY openLinkCmd.accesskey        "S">
+<!ENTITY openLinkCmdInCurrent.label     "Mở Liên Kết">
+<!ENTITY openLinkCmdInCurrent.accesskey "i">
 <!ENTITY openFrameCmdInTab.label      "Mở Khung trong Thẻ Mới">
 <!ENTITY openFrameCmdInTab.accesskey  "T">
+<!ENTITY openFrameCmd.label           "Mở Khung trong Cửa Sổ Mới">
+<!ENTITY openFrameCmd.accesskey       "S">
 <!ENTITY showOnlyThisFrameCmd.label     "Chỉ Hiện Khung Này">
 <!ENTITY showOnlyThisFrameCmd.accesskey "C">
 <!ENTITY reloadCmd.commandkey         "r">
@@ -306,8 +391,6 @@
 <!ENTITY sendAudioCmd.accesskey       "G">
 <!ENTITY copyLinkCmd.label            "Chép Địa Chỉ Liên Kết">
 <!ENTITY copyLinkCmd.accesskey        "a">
-<!ENTITY copyLinkTextCmd.label        "Chép văn bản của Liên kết">
-<!ENTITY copyLinkTextCmd.accesskey    "v">
 <!ENTITY copyImageCmd.label           "Chép Địa Chỉ Ảnh">
 <!ENTITY copyImageCmd.accesskey       "p">
 <!ENTITY copyImageContentsCmd.label   "Chép Ảnh">
@@ -316,7 +399,6 @@
 <!ENTITY copyVideoURLCmd.accesskey    "p">
 <!ENTITY copyAudioURLCmd.label        "Chép Địa Chỉ Tiếng">
 <!ENTITY copyAudioURLCmd.accesskey    "p">
-<!ENTITY blockImageCmd.accesskey      "C">
 <!ENTITY copyEmailCmd.label           "Chép Địa Chỉ Email">
 <!ENTITY copyEmailCmd.accesskey       "E">
 <!ENTITY thisFrameMenu.label              "Khung này">
@@ -335,6 +417,8 @@
 <!ENTITY mediaShowControls.accesskey "K">
 <!ENTITY mediaHideControls.label     "Ẩn Điều Khiển">
 <!ENTITY mediaHideControls.accesskey "K">
+<!ENTITY videoFullScreen.label       "Toàn màn hình">
+<!ENTITY videoFullScreen.accesskey   "o">
 
 
 <!-- LOCALIZATION NOTE :
@@ -371,7 +455,12 @@ you can use these alternative items. Otherwise, their values should be empty.  -
 <!ENTITY cutButton.tooltip              "Cắt">
 <!ENTITY copyButton.tooltip             "Chép">
 <!ENTITY pasteButton.tooltip            "Dán">
+
 <!ENTITY fullScreenButton.tooltip       "Hiển thị cửa sổ trong chế độ toàn màn hình">
+
+<!ENTITY zoomOutButton.tooltip          "Thu nhỏ">
+<!ENTITY zoomInButton.tooltip           "Phóng to">
+<!ENTITY zoomControls.label             "Điều khiển Thu phóng">
 
 <!ENTITY quitApplicationCmdWin.label       "Thoát"> 
 <!ENTITY quitApplicationCmdWin.accesskey   "o">
@@ -424,10 +513,6 @@ you can use these alternative items. Otherwise, their values should be empty.  -
 <!ENTITY editBookmark.done.label                     "Xong">
 <!ENTITY editBookmark.cancel.label                   "Hủy bỏ">
 <!ENTITY editBookmark.removeBookmark.accessKey       "X">
-<!ENTITY editBookmark.undo.label                     "Hoàn tác">
-<!ENTITY editBookmark.undo.accessKey                 "H">
-<!ENTITY editBookmark.edit.label                     "Chỉnh sửa…">
-<!ENTITY editBookmark.edit.accessKey                 "C">
 
 <!ENTITY identity.unverifiedsite2 "Trang web này không cung cấp thông tin định danh.">
 <!ENTITY identity.connectedTo "Bạn đang kết nối đến">
@@ -449,3 +534,20 @@ just addresses the organization to follow, e.g. "This site is run by " -->
 <!ENTITY downloadMonitor2.tooltip "Mở cửa sổ Tải xuống">
 
 <!ENTITY allTabs.filter.emptyText "Tìm kiếm Thẻ">
+<!-- Name for the tabs toolbar as spoken by screen readers.
+     The word "toolbar" is appended automatically and should not be contained below! -->
+<!ENTITY tabsToolbar.label "Thẻ trình duyệt">
+
+<!-- LOCALIZATION NOTE (syncTabsMenu.label): This appears in the history menu -->
+<!ENTITY syncTabsMenu.label     "Các Thẻ Từ Máy Khác">
+
+<!ENTITY syncBrand.shortName.label    "Đồng bộ">
+
+<!ENTITY syncSetup.label              "Cài đặt &syncBrand.shortName.label;…">
+<!ENTITY syncSetup.accesskey          "C">
+<!ENTITY syncSyncNowItem.label        "Đồng bộ Ngay">
+<!ENTITY syncSyncNowItem.accesskey    "a">
+<!ENTITY syncToolbarButton.label      "Đồng bộ">
+
+<!ENTITY addonBarCloseButton.tooltip  "Đóng Thanh Tiện Ích">
+<!ENTITY toggleAddonBarCmd.key        "/">

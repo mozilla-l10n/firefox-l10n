@@ -23,3 +23,16 @@
 <!ENTITY missingPlugin.label                                 "Nhấp vào đây để tải phần bổ trợ xuống.">
 <!ENTITY disabledPlugin.label                                "Phần bổ trợ cho nội dung này đã bị vô hiệu hóa. Nhấn vào đây để quản lí các phần bổ trợ của bạn.">
 <!ENTITY blockedPlugin.label                                 "Phần bổ trợ này đã bị chặn để bảo vệ bạn.">
+<!-- LOCALIZATION NOTE (reloadPlugin.pre): include a trailing space as needed -->
+<!-- LOCALIZATION NOTE (reloadPlugin.middle): avoid leading/trailing spaces, this text is a link -->
+<!-- LOCALIZATION NOTE (reloadPlugin.post): include a starting space as needed -->
+<!ENTITY reloadPlugin.pre                                    "">
+<!ENTITY reloadPlugin.middle                                 "Tải lại trang">
+<!ENTITY reloadPlugin.post                                   " để thử lại.">
+<!-- LOCALIZATION NOTE (report.please): This and the other report.* strings should be as short as possible, ideally 2-3 words. -->
+<!ENTITY report.please                                       "Gửi báo cáo lỗi">
+<!ENTITY report.submitting                                   "Đang gửi báo cáo…">
+<!ENTITY report.submitted                                    "Báo cáo lỗi đã gửi.">
+<!ENTITY report.disabled                                     "Việc báo cáo lỗi bị vô hiệu hóa.">
+<!ENTITY report.failed                                       "Việc gửi lên thất bại.">
+<!ENTITY report.unavailable                                  "Hiện không có báo cáo nào.">

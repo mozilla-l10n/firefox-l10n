@@ -46,7 +46,3 @@
 <!ENTITY raiseLowerWindows.accesskey    "g">
 <!ENTITY disableContextMenus.label      "Vô hiệu hóa hoặc thay thế các trình đơn ngữ cảnh">
 <!ENTITY disableContextMenus.accesskey  "V">
-<!ENTITY hideStatusBar.label            "Ẩn thanh trạng thái">
-<!ENTITY hideStatusBar.accesskey        "n">
-<!ENTITY changeStatusBar.label          "Thay đổi nội dung trong thanh trạng thái">
-<!ENTITY changeStatusBar.accesskey      "y">

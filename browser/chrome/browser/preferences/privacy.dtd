@@ -57,18 +57,11 @@
 <!ENTITY  dontrememberActions.clearHistory.label "xóa toàn bộ lược sử hiện tại">
 <!ENTITY  dontrememberActions.post.label         ".">
 
-<!ENTITY  privateBrowsingAutoStart.label "Tự động khởi động &brandShortName; trong chế độ duyệt web riêng tư">
-<!ENTITY  privateBrowsingAutoStart.accesskey "w">
+<!ENTITY  privateBrowsingPermanent.label "Chế độ Duyệt web Riêng tư vĩnh viễn">
+<!ENTITY  privateBrowsingPermanent.accesskey "v">
 
-<!-- LOCALIZATION NOTE:
-  The entities rememberHistory.pre.label and rememberHistory.post.label appear on a single
-  line in preferences as follows:
-
-  &rememberHistory.pre.label  [ textbox for number of days ]  &rememberHistory.post.label;
--->
-<!ENTITY  rememberHistory.pre.label      "Ghi nhớ lược sử duyệt web của tôi trong ít nhất">
-<!ENTITY  rememberHistory.pre.accesskey  "h">
-<!ENTITY  rememberHistory.post.label     "ngày">
+<!ENTITY  rememberHistory.label      "Ghi nhớ lược sử duyệt web của tôi">
+<!ENTITY  rememberHistory.accesskey  "h">
 
 <!ENTITY  rememberDownload.label         "Ghi nhớ lược sử tải xuống">
 <!ENTITY  rememberDownload.accesskey     "x">

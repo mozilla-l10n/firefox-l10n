@@ -12,3 +12,6 @@
 
 <!ENTITY switchToNewTabs.label        "Khi tôi mở một liên kết trong một thẻ mới, chuyển sang thẻ đó ngay lập tức">
 <!ENTITY switchToNewTabs.accesskey    "y">
+
+<!ENTITY showTabsInTaskbar.label          "Hiển thị hình ảnh xem trước thẻ trong thanh tác vụ Windows">
+<!ENTITY showTabsInTaskbar.accesskey      "e">

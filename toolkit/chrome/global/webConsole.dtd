@@ -1,0 +1,16 @@
+<!ENTITY networkPanel.requestURL                  "URL Yêu cầu">
+<!ENTITY networkPanel.requestMethod               "Phương thức Yêu cầu">
+<!ENTITY networkPanel.statusCode                  "Mã trạng thái">
+
+<!ENTITY networkPanel.requestHeaders              "Đầu đề Yêu cầu">
+<!ENTITY networkPanel.requestCookie               "Cookie đã gửi">
+<!ENTITY networkPanel.requestBody                 "Nội dung Yêu cầu">
+<!ENTITY networkPanel.requestFormData             "Dữ liệu Biểu mẫu Đã gửi">
+
+<!ENTITY networkPanel.responseHeaders             "Đầu đề Phản hồi">
+<!ENTITY networkPanel.responseBody                "Nội dung Phản hồi">
+<!ENTITY networkPanel.responseBodyCached          "Dữ liệu Được đệm">
+<!ENTITY networkPanel.responseBodyUnknownType     "Kiểu nội dung Chưa biết">
+<!ENTITY networkPanel.responseNoBody              "Không có Nội dung Phản hồi">
+<!ENTITY networkPanel.responseImage               "Hình ảnh Đã nhận">
+<!ENTITY networkPanel.responseImageCached         "Hình ảnh Được đệm">

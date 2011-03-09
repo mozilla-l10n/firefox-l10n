@@ -17,14 +17,20 @@
 <!ENTITY useAutoScroll.accesskey         "u">
 <!ENTITY useSmoothScrolling.label        "Cuộn uyển chuyển">
 <!ENTITY useSmoothScrolling.accesskey    "y">
+<!ENTITY allowHWAccel.label              "Dùng gia tốc hệ thống hệ thống khi có thể">
+<!ENTITY allowHWAccel.accesskey          "h">
 <!ENTITY checkSpelling.label             "Kiểm tra chính tả ngay khi tôi gõ">
 <!ENTITY checkSpelling.accesskey         "a">
+<!ENTITY doNotTrack.label                "Nói với các trang web rằng tôi không muốn bị theo dõi">
+<!ENTITY doNotTrack.accesskey            "d">
 
 <!ENTITY systemDefaults.label            "Mặc định cho Hệ thống">
 <!ENTITY alwaysCheckDefault.label        "Luôn kiểm tra xem &brandShortName; có phải là trình duyệt mặc định mỗi khi khởi chạy"><!--XXX-->
 <!ENTITY alwaysCheckDefault.accesskey    "L">
 <!ENTITY checkNow.label                  "Kiểm tra Ngay">
 <!ENTITY checkNow.accesskey              "N">
+<!ENTITY submitCrashes.label             "Gửi báo cáo việc hỏng">
+<!ENTITY submitCrashes.accesskey         "b">
 
 <!ENTITY networkTab.label                "Mạng">
 
@@ -37,16 +43,18 @@
 <!ENTITY offlineStorage.label            "Lưu trữ Ngoại tuyến">
 
 <!-- LOCALIZATION NOTE:
-  The entities useCacheBefore.label and useCacheAfter.label appear on a single
+  The entities limitCacheSizeBefore.label and limitCacheSizeAfter.label appear on a single
   line in preferences as follows:
 
-  &useCacheBefore.label  [ textbox for cache size in MB ]   &useCacheAfter.label;
+  &limitCacheSizeBefore.label [textbox for cache size in MB] &limitCacheSizeAfter.label;
 -->
-<!ENTITY useCacheBefore.label            "Dùng tối đa">
-<!ENTITY useCacheBefore.accesskey        "D">
-<!ENTITY useCacheAfter.label             "MB dung lượng đĩa cho bộ đệm">
+<!ENTITY limitCacheSizeBefore.label      "Giới hạn bộ đệm còn">
+<!ENTITY limitCacheSizeBefore.accesskey  "G">
+<!ENTITY limitCacheSizeAfter.label       "MB dung lượng">
 <!ENTITY clearCacheNow.label             "Xóa Ngay">
 <!ENTITY clearCacheNow.accesskey         "a">
+<!ENTITY overrideSmartCacheSize.label    "Khống chế việc quản lí bộ đệm tự động">
+<!ENTITY overrideSmartCacheSize.accesskey "K">
 
 <!ENTITY updateTab.label                 "Cập nhật">
 

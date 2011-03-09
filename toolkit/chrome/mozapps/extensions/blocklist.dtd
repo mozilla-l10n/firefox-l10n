@@ -8,3 +8,6 @@
 
 <!ENTITY blocklist.accept.label      "Khởi động lại &brandShortName;">
 <!ENTITY blocklist.accept.accesskey  "K">
+
+<!ENTITY blocklist.blocked.label     "Đã bị chặn">
+<!ENTITY blocklist.checkbox.label    "Vô hiệu hóa">
