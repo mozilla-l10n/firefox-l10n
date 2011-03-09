@@ -6,4 +6,12 @@
 <!ENTITY tabNavigationForms.accesskey "n">
 <!ENTITY tabNavigationTextboxes.label "Let op: tekstvakken zijn altijd onderdeel van de tabvolgorde.">
 <!ENTITY tabNavigationDesc.label "Wanneer Tab of Shift+Tab wordt ingedrukt, omschakelen tussen:">
+<!ENTITY accessibilityBrowseWithCaret.label "Navigeer met Cursor">
+<!ENTITY browseWithCaretDesc.label "Cursornavigatie maakt het mogelijk om te navigeren en selecteren in pagina's met gebruik van cursortoetsen die een visuele cursor bewegen.">
+<!ENTITY browseWithCaretUse.label "Cursornavigatie gebruiken">
+<!ENTITY browseWithCaretUse.accesskey "C">
+<!ENTITY browseWithCaretShortCut.label "Gebruik F7 om cursornavigatie in-/uit te schakelen">
+<!ENTITY browseWithCaretShortCut.accesskey "F">
+<!ENTITY browseWithCaretWarn.label "Waarschuw bij het inschakelen van cursornavigatie">
+<!ENTITY browseWithCaretWarn.accesskey "W">
 
