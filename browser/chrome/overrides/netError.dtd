@@ -134,7 +134,7 @@
 ">
 <!ENTITY phishingBlocked.title "Grunað falsað vefsvæði!">
 <!ENTITY phishingBlocked.longDesc "
-<p>Ef þú slærð inn einhverjar persónuupplýsingar á þessari síðu gætirðu hugsanlega lent í kennistuldi eða svikum.</p>
+<p>Ef þú slærð inn einhverjar persónuupplýsingar á þessari síðu gætirðu hugsanlega lent í kennisstuldi eða svikum.</p>
 <p>Þessar tegundir af vef fölsunum eru notaðar í svikum betur þekktar sem vefveiðar, í því eru sviksamlegar vefsíður og tölvupóstur notað til að líkja eftir aðilum sem þú treystir.</p>
 ">
 <!ENTITY cspFrameAncestorBlocked.title "Lokað á vegna öryggisreglu">
