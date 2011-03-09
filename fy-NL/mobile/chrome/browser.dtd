@@ -109,7 +109,6 @@
 <!ENTITY pageactions.reset           "Wiskje websteefoarkarren">
 <!ENTITY pageactions.findInPage      "Fyn yn side">
 <!ENTITY pageactions.search.addNew   "Sykmasine tafoegje">
-
-<!ENTITY selectHelper.emptytext      "Filterlist">
+<!ENTITY pageactions.charEncoding    "Karakterdekodearring">
 
 <!ENTITY appMenu.siteOptions         "Webstee-opsjes">
