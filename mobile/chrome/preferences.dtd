@@ -19,3 +19,4 @@
 <!ENTITY homepage.none                             	"Lege side">
 <!ENTITY homepage.default                          	"&brandShortName; begjin">
 <!ENTITY homepage.currentpage                      	"Brûk aktuele side">
+<!ENTITY showCharset.title                          "Toan karakterdekodearring">
