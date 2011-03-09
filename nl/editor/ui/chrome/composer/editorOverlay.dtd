@@ -405,7 +405,6 @@
 
 <!-- Toolbar-only items -->
 <!ENTITY menuBar.tooltip "Menubalk">
-<!ENTITY compositionToolbar.tooltip "Compositiewerkbalk">
 <!ENTITY formatToolbar.tooltip "Opmaakwerkbalk">
 <!ENTITY newToolbarCmd.tooltip "Een nieuwe Composer-pagina creëren">
 <!ENTITY openToolbarCmd.label "Openen">

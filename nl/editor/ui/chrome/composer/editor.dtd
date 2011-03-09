@@ -42,6 +42,9 @@
 
 <!-- Menu items:  the . means that the menu item isn't implemented yet -->
 
+<!-- Toolbar-only items -->
+<!ENTITY compositionToolbar.tooltip "Compositiewerkbalk">
+
 <!-- View menu items -->
 <!ENTITY viewMenu.label "Beeld">
 <!ENTITY viewMenu.accesskey "l">
