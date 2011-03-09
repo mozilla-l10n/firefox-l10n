@@ -1,8 +1,5 @@
 <!ENTITY  updateWizard.title              "Cập nhật Phần mềm">
 
-<!ENTITY  window.width                    "36em">
-<!ENTITY  window.macWidth                 "39em">
-
 <!ENTITY  checking.title                  "Tìm các Bản Cập nhật">
 <!ENTITY  updateCheck.label               "Đang tìm phiên bản mới hơn của &brandShortName;…">
 
@@ -19,6 +16,8 @@
                                            không có đủ quyền hạn để cài. Vui lòng liên hệ
                                            người quản trị hệ thống của bạn, hoặc thử lại bằng tài khoản có quyền
                                            cài đặt phần mềm trên máy tính này.">
+<!ENTITY  manualUpdate.space.desc         "Một bản cập nhật bảo mật và ổn định đang hiện hữu, nhưng bạn
+                                           không có đủ dung lượng để cài đặt nó.">
 <!ENTITY  manualUpdateGetMsg.label        "Bạn luôn có thể tải phiên bản mới nhất của &brandShortName; tại:">
 
 <!ENTITY  incompatibleCheck.title         "Đang kiểm tra Tính tương thích của Tiện ích">
@@ -41,7 +40,7 @@
 
 <!ENTITY  incompatibleList.title          "Tìm thấy Tiện ích Không tương thích">
 
-<!ENTITY  downloading.title               "Đang tải Bản Cập nhật">
+<!ENTITY  downloadPage.title              "Đang tải &brandShortName;">
 <!ENTITY  downloading.intro               "Đang tải bản cập nhật xuống…">
 <!ENTITY  connecting.label                "Đang kết nối tới máy chủ cập nhật…">
 <!ENTITY  verificationFailedText.label    "&brandShortName; không thể kiểm tra tính toàn vẹn của 
@@ -52,15 +51,23 @@
 
 <!ENTITY  details.link                    "Chi tiết">
 
+<!ENTITY  error.title                     "Cập nhật Thất bại">
+
 <!ENTITY  error.label                     "Gặp vấn đề khi tìm, tải xuống hoặc cài đặt bản cập nhật 
                                            này. &brandShortName; không thể cập nhật được vì:">
                                            
 <!ENTITY  errorManual.label               "Bạn có thể cập nhật &brandShortName; thủ công thông qua liên kết này 
                                            và tải bản mới nhất xuống:">
                                            
-<!ENTITY  errorpatching.title             "Cập nhật Thất bại">
 <!ENTITY  errorpatching.intro             "Cập nhật từng phần không thể áp dụng được. 
                                            &brandShortName; sẽ thử lại bằng cách tải gói Cập nhật đầy đủ xuống.">
+
+<!ENTITY  genericBackgroundError.label    "&brandShortName; không thể xác định xem đang có bản cập nhật nào hay không. Vui lòng
+                                           chắc chắn rằng bạn có phiên bản &brandShortName; mới nhất từ:">
+<!ENTITY  errorCertAttrNoUpdate2.label    "Có một thứ đang ngăn không cho &brandShortName; cập nhật an toàn.
+                                           Vui lòng chắc chắn rằng bạn có phiên bản &brandShortName; mới nhất từ:">
+<!ENTITY  errorCertAttrHasUpdate.label    "Có một thứ đang cố lừa &brandShortName; chấp nhận một
+                                           bản cập nhật không an toàn. Vui lòng liên hệ nhà cung cấp mạng của bạn và tìm kiếm trợ giúp.">
 
 <!ENTITY  finishedPage.title              "Bản cập nhật đã Sẵn sàng để Cài đặt">
 <!ENTITY  finishedPage.text               "Bản cập nhật sẽ được cài trong lần khởi động tới của &brandShortName;. Bạn có thể khởi động lại &brandShortName; ngay bây giờ, hoặc cứ tiếp tục sử dụng và khởi động lại sau.">

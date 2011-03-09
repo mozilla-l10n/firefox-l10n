@@ -99,6 +99,10 @@
 <!ENTITY  permInstall           "Cài đặt Phần mở rộng hoặc Giao diện">
 <!ENTITY  permGeo               "Chia sẻ Vị trí">
 
+<!ENTITY  permIndexedDB              "Duy trì Lưu trữ Ngoại tuyến">
+<!ENTITY  permClearStorage           "Xóa trắng Lưu trữ">
+<!ENTITY  permClearStorage.accesskey "u">
+
 <!ENTITY  securityTab           "Bảo mật">
 <!ENTITY  securityTab.accesskey "B">
 <!ENTITY  securityHeader        "Thông tin bảo mật của trang này">

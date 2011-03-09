@@ -10,22 +10,19 @@
                        for the help button in the menubar but Gnome does not.   -->
 <!ENTITY helpMenuWin.label        "Trợ giúp"> 
 <!ENTITY helpMenuWin.accesskey    "p">
-<!ENTITY aboutCmd.label           "Thông tin về &brandFullName;">
-<!ENTITY aboutCmd.accesskey       "v">
+<!ENTITY aboutProduct.label       "Thông tin về &brandShortName;">
+<!ENTITY aboutProduct.accesskey   "v">
 <!ENTITY productHelp.label        "Trợ giúp &brandShortName;">
 <!ENTITY productHelp.accesskey    "p">
-<!ENTITY helpForIEUsers.label     "Dành cho Người dùng Internet Explorer">
-<!ENTITY helpForIEUsers.accesskey "I">
-<!ENTITY openHelp.commandkey      "VK_F1">
 <!ENTITY helpMac.commandkey       "?">
+<!ENTITY helpSafeMode.label       "Khởi động lại và vô hiệu hóa Tiện ích…">
+<!ENTITY helpSafeMode.accesskey   "K">
 
-<!ENTITY helpReleaseNotes.label         "Ghi chú Phát hành">
-<!ENTITY helpReleaseNotes.accesskey     "P">
+<!ENTITY helpTroubleshootingInfo.label      "Thông tin Gỡ rối vấn đề">
+<!ENTITY helpTroubleshootingInfo.accesskey  "r">
 
-<!ENTITY helpTroubleshooting.label      "Thông tin Gỡ rối vấn đề…">
-<!ENTITY helpTroubleshooting.accesskey  "G">
-
-<!ENTITY updateCmd.label                "Tìm bản Cập nhật…">
+<!ENTITY helpFeedbackPage.label      "Gửi phản hồi…">
+<!ENTITY helpFeedbackPage.accesskey  "n">
 
 <!ENTITY preferencesCmdMac.label        "Tùy chỉnh…">
 <!ENTITY preferencesCmdMac.commandkey   ",">

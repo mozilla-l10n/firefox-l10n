@@ -51,11 +51,16 @@
 <!ENTITY netInterrupt.longDesc "&sharedLongDesc;">
 
 <!ENTITY netOffline.title "Chế độ ngoại tuyến">
-<!ENTITY netOffline.longDesc "
+<!-- LOCALIZATION NOTE (netOffline.overrideLongDesc) - This string should
+     indicate that "Work Offline" is a menu item without being too specific,
+     since it could be in either the normal menu (Mac/Linux) or the Firefox button
+     menu (Windows).
+-->
+<!ENTITY netOffline.overrideLongDesc "
 <ul>
-  <li>Bỏ chọn &quot;Duyệt web Ngoại tuyến&quot; trên trình đơn Tập tin, rồi thử lại.</li>
+  <li>Bỏ chọn &quot;Duyệt web Ngoại tuyến&quot;, rồi thử lại.</li>
 </ul>
-">
+   ">
 
 <!ENTITY contentEncodingError.title "Lỗi Bảng Mã">
 <!ENTITY contentEncodingError.longDesc "
@@ -151,18 +156,20 @@
 <p>Nhập bất kì thông tin nào vào trang này có thể dẫn đến việc bị trộm danh tính hoặc gặp các hình thức lừa đảo khác.</p><p>Những kiểu trang web giả mạo này được dùng trong các âm mưu lừa đảo - còn gọi là 'tấn công thả mồi giả' (phishing attack), trong đó chúng thường giả mạo thành các trang web và email mà bạn tin tưởng.</p>
 ">
 
+<!ENTITY cspFrameAncestorBlocked.title "Bị chặn bởi Chính sách Bảo vệ Nội dung">
+<!ENTITY cspFrameAncestorBlocked.longDesc "<p>&brandShortName; không tải trang này vì nó có một chính sách bảo vệ nội dung không cho phép việc tải theo cách này.</p>">
+
 <!ENTITY securityOverride.linkText "Hoặc bạn có thể thêm một ngoại lệ…">
 <!ENTITY securityOverride.getMeOutOfHereButton "Đưa tôi ra khỏi đây!">
 <!ENTITY securityOverride.exceptionButtonLabel "Thêm Ngoại Lệ…">
 
-<!-- LOCALIZATION NOTE (securityOverride.warningText) - Do not translate the
-contents of the <xul:button> tags.  The only language content is the label= field,
-which uses strings already defined above. The button is included here (instead of
-netError.xhtml) because it exposes functionality specific to firefox. -->
+<!-- LOCALIZATION NOTE (securityOverride.warningContent) - Do not translate the
+contents of the <button> tags. It uses strings already defined above. The
+button is included here (instead of netError.xhtml) because it exposes
+functionality specific to firefox. -->
 
-<!ENTITY securityOverride.warningText "
-<p>Bạn không nên thêm ngoại lệ nếu bạn đang dùng một kết nối mạng mà bạn không tin tưởng hoàn toàn hoặc bạn không quen thấy cảnh báo cho máy chủ này.</p>
+<!ENTITY securityOverride.warningContent "<p>Bạn không nên thêm ngoại lệ nếu bạn đang dùng một kết nối mạng mà bạn không tin tưởng hoàn toàn hoặc bạn không quen thấy cảnh báo cho máy chủ này.</p>
 
-<xul:button xmlns:xul='http://www.mozilla.org/keymaster/gatekeeper/there.is.only.xul' id='getMeOutOfHereButton' label='&securityOverride.getMeOutOfHereButton;'/>
-<xul:button xmlns:xul='http://www.mozilla.org/keymaster/gatekeeper/there.is.only.xul' id='exceptionDialogButton' label='&securityOverride.exceptionButtonLabel;'/>
+<button id='getMeOutOfHereButton'>&securityOverride.getMeOutOfHereButton;</button>
+<button id='exceptionDialogButton'>&securityOverride.exceptionButtonLabel;</button>
 ">

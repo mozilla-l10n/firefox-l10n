@@ -49,7 +49,7 @@
 <!ENTITY devmgr.button.login.accesskey          "N">
 <!ENTITY devmgr.button.logout.label             "Đăng Xuất">
 <!ENTITY devmgr.button.logout.accesskey         "X">
-<!ENTITY devmgr.button.changepw.label           "Đổi Mật Khẩu">
+<!ENTITY devmgr.button.changepw.label           "Thay đổi Mật khẩu">
 <!ENTITY devmgr.button.changepw.accesskey       "M">
 <!ENTITY devmgr.button.load.label               "Nạp">
 <!ENTITY devmgr.button.load.accesskey           "p">

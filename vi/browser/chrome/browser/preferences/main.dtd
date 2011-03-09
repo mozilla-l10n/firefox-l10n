@@ -5,8 +5,8 @@
 <!ENTITY startupHomePage.label     "Vào trang chủ của tôi">
 <!ENTITY startupBlankPage.label    "Hiện một trang trống">
 <!ENTITY startupLastSession.label  "Mở lại các cửa sổ và thẻ lần trước của tôi">
-<!ENTITY location.label            "Trang Chủ">
-<!ENTITY location.accesskey        "C">
+<!ENTITY homepage.label            "Trang chủ:">
+<!ENTITY homepage.accesskey        "c">
 <!ENTITY useCurrentPage.label      "Sử dụng Trang hiện tại">
 <!ENTITY useCurrentPage.accesskey  "a">
 <!ENTITY useMultiple.label         "Dùng các Trang hiện tại">

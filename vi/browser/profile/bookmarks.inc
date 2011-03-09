@@ -7,10 +7,6 @@
 #define bookmarks_title Trang đánh dấu
 #define bookmarks_heading Trang đánh dấu
 
-# LOCALIZATION NOTE (bookmarks_addons):
-# link title for https://en-US.add-ons.mozilla.com/en-US/firefox/bookmarks/
-#define bookmarks_addons Lấy thêm các Tiện ích Đánh dấu
-
 #define bookmarks_toolbarfolder Thư mục Thanh Đánh Dấu
 #define bookmarks_toolbarfolder_description Thêm các trang đánh dấu vào thư mục này để hiển thị chúng trên Thanh Đánh Dấu
 
@@ -41,7 +37,7 @@
 #define firefox_community Tham gia
 
 # LOCALIZATION NOTE (firefox_about):
-# link title for http://en-US.www.mozilla.com/en-US/firefox/about/
+# link title for http://en-US.www.mozilla.com/en-US/about/
 #define firefox_about Giới thiệu về Chúng tôi
 
 #unfilter emptyLines

@@ -15,8 +15,10 @@
 <!ENTITY privatebrowsingpage.startPrivateBrowsing.label "Bắt đầu Duyệt web Riêng tư">
 <!ENTITY privatebrowsingpage.startPrivateBrowsing.accesskey "R">
 
-<!ENTITY privatebrowsingpage.howToStop                 "Để ngừng Duyệt web Riêng tư, hãy chọn &toolsMenu.label; &gt; &privateBrowsingCmd.stop.label;, hoặc đóng &brandShortName;.">
-<!ENTITY privatebrowsingpage.howToStart                "Để bắt đầu Duyệt web Riêng tư, bạn cũng có thể chọn &toolsMenu.label; &gt; &privateBrowsingCmd.start.label;.">
+<!-- LOCALIZATION NOTE (privatebrowsingpage.howToStop2): please leave &basePBMenu.label; intact in the translation -->
+<!-- LOCALIZATION NOTE (privatebrowsingpage.howToStart2): please leave &basePBMenu.label; intact in the translation -->
+<!ENTITY privatebrowsingpage.howToStop2                "Để dừng Duyệt web Riêng tư, chọn &basePBMenu.label; &gt; &privateBrowsingCmd.stop.label;, hoặc đóng &brandShortName;.">
+<!ENTITY privatebrowsingpage.howToStart2               "Để bắt đầu Duyệt web Riêng tư, bạn cũng có thể chọn &basePBMenu.label; &gt; &privateBrowsingCmd.start.label;.">
 
 <!ENTITY privatebrowsingpage.moreInfo                  "Mặc dù máy tính này sẽ không ghi lại lược sử duyệt web của bạn, nhà cung cấp Internet hoặc công ty của bạn vẫn có thể biết những trang mà bạn vào.">
 <!ENTITY privatebrowsingpage.learnMore                 "Tìm hiểu Thêm">

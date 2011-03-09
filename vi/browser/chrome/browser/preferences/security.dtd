@@ -32,11 +32,3 @@
 
 <!ENTITY  savedPasswords.label            "Mật khẩu đã Lưu…">
 <!ENTITY  savedPasswords.accesskey        "L">
-
-
-<!ENTITY  warnings.label                "Thông điệp Cảnh báo">
-
-<!ENTITY  chooseWarnings.label          "Chọn thông điệp cảnh báo mà bạn muốn thấy trong khi duyệt web">
-
-<!ENTITY  warningSettings.label         "Thiết lập…">
-<!ENTITY  warningSettings.accesskey     "p">

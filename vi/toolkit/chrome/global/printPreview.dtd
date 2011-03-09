@@ -68,5 +68,5 @@
 
 <!ENTITY homearrow.tooltip    "Trang đầu">
 <!ENTITY endarrow.tooltip     "Trang cuối">
-<!ENTITY rightarrow.tooltip   "Trang kế">
-<!ENTITY leftarrow.tooltip    "Trang trước">
+<!ENTITY nextarrow.tooltip    "Trang kế">
+<!ENTITY previousarrow.tooltip "Trang trước">
