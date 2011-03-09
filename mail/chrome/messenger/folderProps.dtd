@@ -96,7 +96,7 @@
 <!ENTITY permissionsDesc.label                   "Sie haben folgende Berechtigungen:">
 <!ENTITY folderType.label                        "Ordnertyp:">
 
-<!ENTITY folderQuotaTab.label                    "Quota">
+<!ENTITY folderQuotaTab.label                    "Kontingent">
 <!ENTITY folderQuotaRoot.label                   "Limit gilt für:">
 <!ENTITY folderQuotaUsage.label                  "Belegung:">
 <!ENTITY folderQuotaStatus.label                 "Status:">
