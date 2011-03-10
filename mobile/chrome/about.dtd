@@ -5,10 +5,14 @@
 <!ENTITY aboutPage.rights.label                 "Biết Về Quyền Của Bạn">
 <!ENTITY aboutPage.relNotes.label               "Ghi chú Phát hành">
 <!ENTITY aboutPage.credits.label                "Công trạng">
+<!ENTITY aboutPage.checkForUpdates.button       "Kiểm tra Cập nhật">
+<!ENTITY aboutPage.checkForUpdates.checking     "Đang tìm các cập nhật…">
+<!ENTITY aboutPage.checkForUpdates.none         "Không có cập nhật">
+<!ENTITY aboutPage.checkForUpdates.found        "Có cập nhật">
+
 
 <!-- LOCALIZATION NOTE:
      These strings are concatenated in order. Unneeded strings may be left blank.
-  -->
-<!ENTITY aboutPage.copyrightInfo1               "&#169;1998-2009 Những người đóng góp. Mọi quyền được bảo lưu. (">
+-->
 <!ENTITY aboutPage.licenseLink                  "Thông tin giấy phép">
-<!ENTITY aboutPage.copyrightInfo2               ").">
+<!ENTITY aboutPage.licenseLinkSuffix            ".">

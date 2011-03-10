@@ -2,6 +2,7 @@
 <!ENTITY about.title                               "Thông tin về &brandShortName;">
 <!ENTITY about.button                              "Chuyển đến Trang">
 <!ENTITY content.title                             "Nội dung">
+<!ENTITY reflowZoom.title                          "Định dạng lại văn bản khi thu phóng">
 <!ENTITY showImages.title                          "Hiện hình ảnh">
 <!ENTITY enableJavaScript.title                    "Bật JavaScript">
 <!ENTITY enablePlugins.title                       "Bật các Phần bổ trợ">
@@ -18,3 +19,4 @@
 <!ENTITY homepage.none                             "Trang trắng">
 <!ENTITY homepage.default                          "Bắt đầu &brandShortName;">
 <!ENTITY homepage.currentpage                      "Sử dụng Trang hiện tại">
+<!ENTITY showCharset.title                         "Hiển thị Bảng mã">
