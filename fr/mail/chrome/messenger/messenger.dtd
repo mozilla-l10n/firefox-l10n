@@ -813,19 +813,15 @@ you can use these alternative items. Otherwise, their values should be empty.
 <!ENTITY reportPhishingURL.label "Signaler un courrier frauduleux">
 <!ENTITY reportPhishingURL.accesskey "S">
 
+<!-- Spell checker context menu items -->
+<!ENTITY spellAddDictionaries.label "Add Dictionaries…">
+<!ENTITY spellAddDictionaries.accesskey "A">
+
 <!-- Content Pane Context Menu -->
 <!ENTITY saveLinkAsCmd.label "Enregistrer le lien sous…">
 <!ENTITY saveLinkAsCmd.accesskey "e">
 <!ENTITY saveImageAsCmd.label "Enregistrer l'image sous…">
 <!ENTITY saveImageAsCmd.accesskey "a">
-<!ENTITY cutCmd.label "Couper">
-<!ENTITY cutCmd.accesskey "C">
-<!ENTITY copyCmd.label "Copier">
-<!ENTITY copyCmd.accesskey "p">
-<!ENTITY pasteCmd.label "Coller">
-<!ENTITY pasteCmd.accesskey "o">
-<!ENTITY selectAllCmd.label "Tout sélectionner">
-<!ENTITY selectAllCmd.accesskey "t">
 <!ENTITY copyLinkCmd.label "Copier l'adresse du lien">
 <!ENTITY copyLinkCmd.accesskey "n">
 <!ENTITY copyImageAllCmd.label "Copier l'image">
