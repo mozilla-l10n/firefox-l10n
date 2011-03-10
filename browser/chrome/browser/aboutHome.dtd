@@ -6,11 +6,6 @@
 
 <!ENTITY abouthome.pageTitle "Trang Khởi Động &brandFullName;">
 
-<!-- LOCALIZATION NOTE (abouthome.brandStart):
-     brandShortName must be in a <span/>
--->
-<!ENTITY abouthome.brandStart "Khởi động <span>&brandShortName;</span>">
-
 <!ENTITY abouthome.searchEngineButton.label "Tìm kiếm">
 
 <!ENTITY abouthome.aboutMozilla "Thông tin về Mozilla">
