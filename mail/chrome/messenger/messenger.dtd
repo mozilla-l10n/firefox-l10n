@@ -667,18 +667,12 @@
 <!ENTITY CreateFilterFrom.accesskey "ф">
 <!ENTITY reportPhishingURL.label "Сообщить о мошенническом письме">
 <!ENTITY reportPhishingURL.accesskey "б">
+<!ENTITY spellAddDictionaries.label "Добавить словари…">
+<!ENTITY spellAddDictionaries.accesskey "Д">
 <!ENTITY saveLinkAsCmd.label "Сохранить объект как…">
 <!ENTITY saveLinkAsCmd.accesskey "С">
 <!ENTITY saveImageAsCmd.label "Сохранить изображение как…">
 <!ENTITY saveImageAsCmd.accesskey "х">
-<!ENTITY cutCmd.label "Вырезать">
-<!ENTITY cutCmd.accesskey "В">
-<!ENTITY copyCmd.label "Копировать">
-<!ENTITY copyCmd.accesskey "К">
-<!ENTITY pasteCmd.label "Вставить">
-<!ENTITY pasteCmd.accesskey "с">
-<!ENTITY selectAllCmd.label "Выделить всё">
-<!ENTITY selectAllCmd.accesskey "ы">
 <!ENTITY copyLinkCmd.label "Копировать ссылку">
 <!ENTITY copyLinkCmd.accesskey "ы">
 <!ENTITY copyImageAllCmd.label "Копировать изображение">
