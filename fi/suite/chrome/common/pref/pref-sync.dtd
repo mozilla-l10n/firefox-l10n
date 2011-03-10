@@ -1,11 +1,11 @@
 <!-- The page shown when not logged in... -->
-<!ENTITY setupButton.label          "Tee &syncBrand.fullName.label;in asetukset">
-<!ENTITY setupButton.accesskey      "T">
+<!ENTITY setupButton.label          "Aseta &syncBrand.fullName.label;in asetukset">
+<!ENTITY setupButton.accesskey      "A">
 <!ENTITY weaveDesc.label            "&syncBrand.fullName.label;in avulla sivuhistoria, kirjanmerkit, salasanat ja avoimet välilehdet ovat saatavilla kaikissa laitteissasi.">
 
 <!-- The page shown when logged in... -->
 <!ENTITY accountGroupboxCaption.label "&syncBrand.fullName.label; -tili">
-<!ENTITY currentAccount.label         "Nykyinen tili:">
+<!ENTITY accountName.label            "Tilin nimi:">
 
 <!-- Login error feedback -->
 <!ENTITY updatePass.label             "Päivitä">
@@ -15,6 +15,7 @@
 
 <!-- Manage Account -->
 <!ENTITY manageAccount.label          "Muokkaa tiliä">
+<!ENTITY manageAccount.accesskey      "a">
 <!ENTITY viewQuota.label              "Näytä kiintiö">
 <!ENTITY viewQuota.accesskey          "N">
 <!ENTITY changePassword.label         "Muuta salasana">
@@ -27,11 +28,10 @@
 <!ENTITY stopUsingAccount.accesskey   "a">
 
 <!-- Sync Settings -->
-<!ENTITY syncPrefsCaption.label       "Selaimen synkronointi">
 <!ENTITY syncComputerName.label       "Tietokoneen nimi:">
 <!ENTITY syncComputerName.accesskey   "T">
 
-<!ENTITY syncMy.label               "Synkronoi">
+<!ENTITY syncMy2.label              "Synkronoi:">
 <!ENTITY engine.bookmarks.label     "Kirjanmerkit">
 <!ENTITY engine.bookmarks.accesskey "K">
 <!ENTITY engine.tabs.label          "Välilehdet">
