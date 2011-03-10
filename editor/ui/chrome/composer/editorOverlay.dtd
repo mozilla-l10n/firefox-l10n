@@ -162,7 +162,7 @@
 <!ENTITY fontVarWidth.label "Larghezza variabile">
 <!ENTITY fontVarWidth.accesskey "v">
 <!ENTITY fontFixedWidth.label "Larghezza fissa">
-<!ENTITY fontFixedWidth.accesskey "h">
+<!ENTITY fontFixedWidth.accesskey "z">
 <!ENTITY fontFixedWidth.key "T">
 <!ENTITY fontHelvetica.label "Helvetica, Arial">
 <!ENTITY fontHelvetica.accesskey "H">
@@ -356,7 +356,6 @@
 <!ENTITY tableProperties.label "Proprietà tabella…">
 <!ENTITY tableProperties.accesskey "P">
 <!ENTITY menuBar.tooltip "Barra del menu">
-<!ENTITY compositionToolbar.tooltip "Barra di composizione">
 <!ENTITY formatToolbar.tooltip "Barra di formattazione">
 <!ENTITY newToolbarCmd.tooltip "Crea una nuova pagina con Composer">
 <!ENTITY openToolbarCmd.label "Apri">
@@ -399,7 +398,7 @@
 <!ENTITY alignLeftButton.tooltip "Allinea il testo lungo il margine sinistro">
 <!ENTITY alignCenterButton.tooltip "Allinea il testo al centro">
 <!ENTITY alignRightButton.tooltip "Allinea il testo lungo il margine destro">
-<!ENTITY alignjustifyButton.tooltip "Allinea il testo lungo i margini sinistro e destro">
+<!ENTITY alignJustifyButton.tooltip "Allinea il testo lungo i margini destro e sinistro">
 <!ENTITY NormalModeTab.label "Normale">
 <!ENTITY NormalMode.label "Modalità modifica normale">
 <!ENTITY NormalMode.accesskey "n">
