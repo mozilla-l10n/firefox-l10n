@@ -6,3 +6,11 @@
 <!ENTITY tabNavigationForms.accesskey "P">
 <!ENTITY tabNavigationTextboxes.label "Nota: le caselle di testo e le regioni con scorrimento fanno sempre parte della lista di tabulazione.">
 <!ENTITY tabNavigationDesc.label "Quando viene premuto il tasto Tab o Maiusc+Tab, muovi tra:">
+<!ENTITY accessibilityBrowseWithCaret.label "Navigazione nel testo">
+<!ENTITY browseWithCaretDesc.label "La navigazione nel testo permette di muoversi e di selezionare all'interno delle pagine utilizzando i tasti di direzione per muovere un cursore visibile.">
+<!ENTITY browseWithCaretUse.label "Utilizza la navigazione nel testo">
+<!ENTITY browseWithCaretUse.accesskey "U">
+<!ENTITY browseWithCaretShortCut.label "Utilizzare F7 per (dis)attivare la navigazione nel testo">
+<!ENTITY browseWithCaretShortCut.accesskey "F">
+<!ENTITY browseWithCaretWarn.label "Avvisami prima di attivare la navigazione nel testo">
+<!ENTITY browseWithCaretWarn.accesskey "v">
