@@ -5,7 +5,6 @@
 <!ENTITY reload.label          "Tải lại">
 <!ENTITY stop.label            "Dừng">
 <!ENTITY go.label              "Đi">
-<!ENTITY openLocation.label    "Mở địa chỉ">
 <!ENTITY star.label            "Đánh dấu">
 
 <!ENTITY newtab.label          "Thẻ Mới">
@@ -13,28 +12,25 @@
 
 <!ENTITY cut.label             "Cắt">
 <!ENTITY copy.label            "Chép">
+<!ENTITY copyAll.label         "Chép Toàn Bộ">
 <!ENTITY copylink.label        "Chép Địa Chỉ Liên Kết">
 <!ENTITY paste.label           "Dán">
 <!ENTITY delete.label          "Xóa">
 <!ENTITY selectAll.label       "Chọn Toàn Bộ">
 <!ENTITY noSuggestions.label   "(Không có gợi ý)">
 <!ENTITY addToDictionary.label "Thêm vào Từ điển">
+<!ENTITY inputMethod.label     "Chọn Phương thức Nhập liệu">
 
+<!ENTITY allPagesHeader.label      "Tất cả Các trang">
 <!ENTITY bookmarksHeader.label     "Đánh dấu">
-<!ENTITY bookmarksManage.label     "Quản lí">
+<!ENTITY historyHeader.label       "Lược sử">
+<!ENTITY desktopHeader.label       "Desktop">
 
-<!ENTITY editBookmarkRemove.label  "Xóa">
+<!ENTITY editBookmarkDialog.title  "Chỉnh sửa Trang đánh dấu">
 <!ENTITY editBookmarkDone.label    "Xong">
 <!ENTITY editBookmarkTags.label    "Thêm nhãn tại đây">
 
-<!ENTITY helperApp.prompt          "Bạn muốn làm gì với">
-<!ENTITY helperApp.open            "Mở">
-<!ENTITY helperApp.save            "Lưu">
-<!ENTITY helperApp.nothing         "Không làm gì">
-
-<!ENTITY formHelper.previous       "Trước">
-<!ENTITY formHelper.next           "Tiếp">
-<!ENTITY formHelper.done           "Xong">
+<!ENTITY selectHelper.done         "Xong">
 
 <!ENTITY addonsHeader.label        "Tiện ích">
 <!ENTITY addonsLocal.label         "Tiện ích của Bạn">
@@ -63,6 +59,7 @@
 <!ENTITY downloadResume.label      "Tiếp tục">
 <!ENTITY downloadRetry.label       "Thử lại">
 <!ENTITY downloadRemove.label      "Xóa">
+<!ENTITY downloadDelete.label      "Xóa">
 <!ENTITY downloadFailed.label      "Thất bại">
 
 <!ENTITY noResults.label           "Không có kết quả">
@@ -93,5 +90,25 @@
 <!ENTITY consoleErrLine.label      "Dòng:">
 <!ENTITY consoleErrColumn.label    "Cột:">
 
-<!ENTITY contextOpenInNewTab.label "Mở Liên Kết trong Thẻ Mới">
-<!ENTITY contextSaveImage.label    "Lưu Ảnh">
+<!ENTITY contextOpenInNewTab.label    "Mở Liên Kết trong Thẻ Mới">
+<!ENTITY contextSaveLink.label        "Lưu Liên Kết">
+<!ENTITY contextSaveImage.label       "Lưu Ảnh">
+<!ENTITY contextShareLink.label       "Chia sẻ Liên kết">
+<!ENTITY contextShareImage.label      "Chia sẻ Hình ảnh">
+<!ENTITY contextSaveVideo.label       "Lưu Phim">
+<!ENTITY contextShareVideo.label      "Chia sẻ Phim">
+<!ENTITY contextPlayMedia.label       "Chơi">
+<!ENTITY contextPauseMedia.label      "Tạm dừng">
+<!ENTITY contextFullScreen.label      "Toàn màn hình">
+<!ENTITY contextEditBookmark.label    "Chỉnh sửa">
+<!ENTITY contextRemoveBookmark.label  "Xóa">
+
+<!ENTITY pageactions.saveas.pdf      "Lưu dưới dạng PDF">
+<!ENTITY pageactions.share.page      "Chia sẻ Trang">
+<!ENTITY pageactions.password.forget "Quên mật khẩu">
+<!ENTITY pageactions.reset           "Xóa trắng Tùy chỉnh của Trang">
+<!ENTITY pageactions.findInPage      "Tìm trong Trang">
+<!ENTITY pageactions.search.addNew   "Thêm Máy Tìm Kiếm">
+<!ENTITY pageactions.charEncoding    "Bảng mã">
+
+<!ENTITY appMenu.siteOptions         "Tùy chọn cho Trang">

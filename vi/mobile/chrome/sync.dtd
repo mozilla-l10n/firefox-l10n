@@ -1,0 +1,22 @@
+<!ENTITY sync.title                 "Đồng bộ">
+<!ENTITY sync.notconnected          "Không kết nối">
+<!ENTITY sync.connect               "Kết nối">
+<!ENTITY sync.connected             "Đã kết nối">
+<!ENTITY sync.details               "Chi tiết">
+<!ENTITY sync.synchronize           "Kích hoạt Sync">
+<!ENTITY sync.deviceName            "Thiết bị này">
+<!ENTITY sync.disconnect            "Ngắt kết nối">
+<!ENTITY sync.syncNow               "Đồng bộ Ngay">
+
+<!ENTITY sync.setup.title           "Kết nối tới Sync">
+<!ENTITY sync.setup.jpake           "Từ một máy tính đã kết nối Firefox Sync, vào tùy chọn Đồng bộ và chọn &#x0022;Thêm một thiết bị&#x0022;">
+<!ENTITY sync.fallback              "Tôi không ở gần máy tính của tôi…">
+<!ENTITY sync.setup.manual          "Nhập thông tin tài khoản Sync của bạn">
+<!ENTITY sync.account               "Tên Tài Khoản">
+<!ENTITY sync.password              "Mật khẩu">
+<!ENTITY sync.syncKey               "Khóa Đồng Bộ">
+<!ENTITY sync.customServer          "Dùng máy chủ tùy biến">
+<!ENTITY sync.serverURL             "URL máy chủ">
+<!ENTITY sync.setup.connect         "Kết nối">
+<!ENTITY sync.setup.cancel          "Hủy bỏ">
+<!ENTITY sync.setup.tutorial        "Chỉ tôi cách làm">

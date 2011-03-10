@@ -19,16 +19,12 @@
 # link title for about:fennec
 #define bookmarks_aboutBrowser Firefox: Thông tin về trình duyệt của bạn
 
-# LOCALIZATION NOTE (bookmarks_weave):
-# link title for https://www.mozilla.com/en-US/mobile/sync
-#define bookmarks_sync Firefox: Đồng bộ hóa bằng Weave Sync
-
 # LOCALIZATION NOTE (bookmarks_addons):
 # link title for https://addons.mozilla.org/en-US/mobile
 #define bookmarks_addons Firefox: Tùy biến với tiện ích
 
 # LOCALIZATION NOTE (bookmarks_support):
-# link title for https://mobile.support.mozilla.com
+# link title for https://support.mozilla.com/mobile
 #define bookmarks_support Firefox: Hỗ trợ
 
 # LOCALIZATION NOTE (bookmarks_aboutHome):
