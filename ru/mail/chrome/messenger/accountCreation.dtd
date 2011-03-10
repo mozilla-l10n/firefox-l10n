@@ -10,35 +10,36 @@
 <!ENTITY password.accesskey "р">
 <!ENTITY password.placeholder "Пароль">
 <!ENTITY password.text "Необязательно, будет использоваться только для проверки имени пользователя">
-<!ENTITY accountInformation.label "Информация учётной записи">
-<!ENTITY username2.label "Имя пользователя:">
+<!ENTITY rememberPassword.label "Запомнить пароль">
+<!ENTITY rememberPassword.accesskey "п">
+<!ENTITY imapLong.label "IMAP (удалённый доступ к папкам)">
+<!ENTITY pop3Long.label "POP3 (хранить почту на вашем компьютере)">
 <!ENTITY incoming.label "Входящая:">
 <!ENTITY outgoing.label "Исходящая:">
+<!ENTITY username.label "Имя пользователя:">
+<!ENTITY hostname.label "Имя сервера">
+<!ENTITY port.label "Порт">
+<!ENTITY ssl.label "SSL">
+<!ENTITY auth.label "Аутентификация">
+<!ENTITY imap.label "IMAP">
+<!ENTITY pop3.label "POP3">
+<!ENTITY smtp.label "SMTP">
+<!ENTITY autodetect.label "Автоопределение">
 <!ENTITY noEncryption.label "Нет">
 <!ENTITY starttls.label "STARTTLS">
 <!ENTITY sslTls.label "SSL/TLS">
-<!ENTITY imap.label "IMAP">
-<!ENTITY pop.label "POP">
-<!ENTITY smtp.label "SMTP">
-<!ENTITY imap.description "IMAP - Доступ к папкам и сообщениям с разных компьютеров">
-<!ENTITY pop.description "POP - Загрузка всех сообщений на этот компьютер, все папки являются локальными">
-<!ENTITY recommended-appendix.label "(рекомендуется)">
-<!ENTITY manualSetup.label "Настройка вручную…">
-<!ENTITY manualSetup.accesskey "ч">
+<!ENTITY advancedSetup.label "Дополнительная настройка">
+<!ENTITY advancedSetup.accesskey "п">
 <!ENTITY cancel.label "Отмена">
 <!ENTITY cancel.accesskey "т">
 <!ENTITY continue.label "Продолжить">
 <!ENTITY continue.accesskey "д">
-<!ENTITY startOver.label "Начать заново">
-<!ENTITY startOver.accesskey "н">
 <!ENTITY stop.label "Стоп">
 <!ENTITY stop.accesskey "т">
-<!ENTITY retest.label "Перепроверить конфигурацию">
-<!ENTITY retest.accesskey "н">
-<!ENTITY edit.label "Изменить">
-<!ENTITY edit.accesskey "е">
-<!ENTITY rememberPassword.label "Запомнить пароль">
-<!ENTITY rememberPassword.accesskey "п">
+<!ENTITY half-manual-test.label "Перетестировать">
+<!ENTITY half-manual-test.accesskey "е">
+<!ENTITY manual-edit.label "Настройка вручную">
+<!ENTITY manual-edit.accesskey "с">
 <!ENTITY warning.label "Предупреждение!">
 <!ENTITY incomingSettings.label "Параметры входящей почты:">
 <!ENTITY outgoingSettings.label "Параметры исходящей почты:">
