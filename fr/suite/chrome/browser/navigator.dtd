@@ -155,7 +155,8 @@
 
 <!ENTITY proxyIcon.tooltip "Glisser/déposer cette icône pour créer un lien vers cette page">
 
-<!-- Toolbar items --> 
+<!ENTITY searchItem.title "Rechercher">
+
 <!ENTITY  bookmarksButton.label "Marque-pages">
 <!ENTITY  bookmarksButton.tooltip "Liste des marque-pages">
 <!ENTITY  homeButton.label "Accueil">
