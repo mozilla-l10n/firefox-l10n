@@ -451,32 +451,6 @@
 <!ENTITY alignRightButton.tooltip "Aligner le texte sur la marge de droite">
 <!ENTITY alignJustifyButton.tooltip "Aligner le texte sur les marges droites et gauches">
 
-<!-- Display Mode Toolbar and View Menu items -->
-<!ENTITY NormalModeTab.label "Normal">
-<!ENTITY NormalMode.label "Mode d'édition normal">
-<!ENTITY NormalMode.accesskey "n">
-<!ENTITY NormalMode.tooltip "Montrer les bordures de tableau et les ancres nommées">
-<!ENTITY AllTagsMode.label "Montrer les balises HTML">
-<!ENTITY AllTagsMode.accesskey "a">
-<!ENTITY AllTagsMode.tooltip "Afficher des icônes pour toutes les balises HTML">
-
-<!ENTITY HTMLSourceMode.label "Source HTML">
-<!-- Toolbar has an image with "HTML" text, so don't include it in the string -->
-<!ENTITY SourceMode.label "Source">
-<!ENTITY HTMLSourceMode.accesskey "h">
-<!ENTITY HTMLSourceMode.tooltip "Modifier la source HTML">
-<!ENTITY PreviewMode.label "Prévisualisation">
-<!ENTITY PreviewMode.accesskey "p">
-<!ENTITY PreviewMode.tooltip "Afficher en WYSIWYG (comme dans le navigateur)">
-
-<!-- LOCALIZATION NOTE: Do NOT translate text for 'SourceTabDirection'
-     Use latin "ltr" if you want the <html> image to left of the
-     'SourceMode.label' text defined above,
-     or use latin "rtl" if you want this image to the right of text
-     This is the value of the HTML 'dir' attribute
--->
-<!ENTITY SourceTabDirection "ltr">
-
 <!-- Structure Toolbar Context Menu items -->
 <!ENTITY structSelect.label         "Sélectionner">
 <!ENTITY structSelect.accesskey     "s">
