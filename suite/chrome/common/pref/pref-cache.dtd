@@ -3,9 +3,9 @@
 <!ENTITY cachePara "В кэше хранятся копии часто посещаемых веб-страниц, что сокращает время их загрузки. (Нажатие кнопки «Обновить» всегда приводит к загрузке самой последней версии веб-страницы.)">
 <!ENTITY cacheCheck.label "Позволить &brandShortName; управлять размером моего кэша">
 <!ENTITY cacheCheck.accesskey "в">
-<!ENTITY diskCacheUpTo.label "Использовать до">
+<!ENTITY diskCacheUpTo.label "Использовать под кэш не более">
 <!ENTITY diskCacheUpTo.accesskey "п">
-<!ENTITY spaceMbytes "МБ на диске для кэша">
+<!ENTITY spaceMbytes "МБ на диске">
 <!ENTITY diskCacheFolder.label "Расположение папки кэша:">
 <!ENTITY clearDiskCache.label "Очистить кэш">
 <!ENTITY clearDiskCache.accesskey "ч">
