@@ -451,32 +451,6 @@
 <!ENTITY alignRightButton.tooltip "Co-thaobhaich an teacsa a-rèir na h-oire dheis">
 <!ENTITY alignJustifyButton.tooltip "Co-thaobhaich an teacsa a-rèir nan oirean deis is clì">
 
-<!-- Display Mode toolbar and View menu items -->
-<!ENTITY NormalModeTab.label "Àbhaisteach">
-<!ENTITY NormalMode.label "Am modh deasachaidh àbhaisteach">
-<!ENTITY NormalMode.accesskey "A">
-<!ENTITY NormalMode.tooltip "Seall iomallan a' chlàir is na h-acairean ainmichte">
-<!ENTITY AllTagsMode.label "Tagaichean HTML">
-<!ENTITY AllTagsMode.accesskey "a">
-<!ENTITY AllTagsMode.tooltip "Seall ìomhaigheagan a h-uile taga HTML">
-
-<!ENTITY HTMLSourceMode.label "Bun-tùs an HTML">
-<!-- Toolbar has an image with "HTML" text, so don't include it in the string -->
-<!ENTITY SourceMode.label "Am bun-tùs">
-<!ENTITY HTMLSourceMode.accesskey "H">
-<!ENTITY HTMLSourceMode.tooltip "Deasaich bun-tùs an HTML">
-<!ENTITY PreviewMode.label "Ro-sheall">
-<!ENTITY PreviewMode.accesskey "R">
-<!ENTITY PreviewMode.tooltip "Seall mar WYSIWYG (mar a chì thu e sa bhrabhsair)">
-
-<!-- LOCALIZATION NOTE: Do NOT translate text for 'SourceTabDirection'
-     Use latin "ltr" if you want the <html> image to left of the 
-     'SourceMode.label' text defined above,
-     or use latin "rtl" if you want this image to the right of text
-     This is the value of the HTML 'dir' attribute
--->
-<!ENTITY SourceTabDirection "ltr">
-
 <!-- Structure Toolbar Context Menu items -->
 <!ENTITY structSelect.label         "Tagh">
 <!ENTITY structSelect.accesskey     "T">
