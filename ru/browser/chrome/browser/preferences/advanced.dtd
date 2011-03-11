@@ -30,9 +30,9 @@
 <!ENTITY connectionSettings.label "Настроить…">
 <!ENTITY connectionSettings.accesskey "с">
 <!ENTITY offlineStorage.label "Автономное хранилище">
-<!ENTITY limitCacheSizeBefore.label "Ограничить размер кэша">
-<!ENTITY limitCacheSizeBefore.accesskey "р">
-<!ENTITY limitCacheSizeAfter.label "МБ дискового пространства">
+<!ENTITY limitCacheSizeBefore.label "Использовать под кэш не более">
+<!ENTITY limitCacheSizeBefore.accesskey "о">
+<!ENTITY limitCacheSizeAfter.label "МБ на диске">
 <!ENTITY clearCacheNow.label "Очистить сейчас">
 <!ENTITY clearCacheNow.accesskey "ч">
 <!ENTITY overrideSmartCacheSize.label "Отключить автоматическое управление кэшем">
