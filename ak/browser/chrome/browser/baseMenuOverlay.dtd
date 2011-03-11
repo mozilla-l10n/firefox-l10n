@@ -15,8 +15,8 @@
 <!ENTITY productHelp.label        "&brandShortName; Mboa">
 <!ENTITY productHelp.accesskey    "b">
 <!ENTITY helpMac.commandkey       "?">
-<!ENTITY helpSafeMode.label       "Restart with Add-ons Disabled…">
-<!ENTITY helpSafeMode.accesskey   "R">
+<!ENTITY helpSafeMode.label       "Sanhyɛase a woedum nkaho no…">
+<!ENTITY helpSafeMode.accesskey   "S">
 
 <!ENTITY helpTroubleshootingInfo.label      "Hawyi ho infɔmehyɛn">
 <!ENTITY helpTroubleshootingInfo.accesskey  "H">

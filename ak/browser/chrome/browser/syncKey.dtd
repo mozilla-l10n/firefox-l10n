@@ -1,14 +1,14 @@
-<!ENTITY syncKey.page.title               "Your &syncBrand.fullName.label; Key">
-<!ENTITY syncKey.page.description         "This key is used to decode the data in your &syncBrand.fullName.label; account. You will need to enter the key each time you configure &syncBrand.fullName.label; on a new computer or device.">
-<!ENTITY syncKey.keepItSecret.heading     "Keep it secret">
-<!ENTITY syncKey.keepItSecret.description "Your &syncBrand.fullName.label; account is encrypted to protect your privacy. Without this key, it would take years for anyone to decode your personal information. You are the only person who holds this key. This means you're the only one who can access your &syncBrand.fullName.label; data.">
-<!ENTITY syncKey.keepItSafe.heading       "Keep it safe">
-<!ENTITY syncKey.keepItSafe1.description  "Do not lose this key.">
-<!ENTITY syncKey.keepItSafe2.description  " We don't keep a copy of your key (that wouldn't be keeping it secret!) so ">
-<!ENTITY syncKey.keepItSafe3.description  "we can't help you recover it">
-<!ENTITY syncKey.keepItSafe4.description  " if it's lost. You'll need to use this key any time you connect a new computer or device to &syncBrand.fullName.label;.">
-<!ENTITY syncKey.findOutMore1.label       "Find out more about &syncBrand.fullName.label; and your privacy at ">
+<!ENTITY syncKey.page.title               "Wo &syncBrand.fullName.label; safoa">
+<!ENTITY syncKey.page.description         "Wɔde safoa yi kyerɛ data a ɛwɔ wo &syncBrand.fullName.label; akawnt mu. Ebehia sɛ wo bɛkyerɛw safoa yi bere biara a wo bɛhyehyɛ &syncBrand.fullName.label; wɔ kɔmputa anaaso divaes foforo biara so.">
+<!ENTITY syncKey.keepItSecret.heading     "Kɔ so fa sie">
+<!ENTITY syncKey.keepItSecret.description "Wɔaɛnkrepte wo &syncBrand.fullName.label; akawnt ama wɔde abɔ wo ho ban. Sɛ wo nni safoa yi a ebedi afe mpem ansaa obiara etumi akyerɛ wo ho nsɛm mu. Wo nko ara ne nimpa a okura safoa yi. Yi kyerɛ sɛ wo nko ara ni nimpa a ɔbɛtumi de ne nsa aka wo  &syncBrand.fullName.label; data.">
+<!ENTITY syncKey.keepItSafe.heading       "Kɔ so bɔ ho ban">
+<!ENTITY syncKey.keepItSafe1.description  "Mma wo nnyera safoa yi.">
+<!ENTITY syncKey.keepItSafe2.description  "Yɛmmfa wo safoa sɛso nnsie (nka ɛnnyɛ siewasɛm!) nti">
+<!ENTITY syncKey.keepItSafe3.description  "yɛnntumi mmboa wo mma wo nsa nnsan nka no">
+<!ENTITY syncKey.keepItSafe4.description  "sɛ ɛyera a. Ho bɛhia sɛ wo de safoa yi bedi dwuma bere biara a wo bɛkɔnɛkte kɔmputa anaaso divaes biara akɔ &syncBrand.fullName.label; so.">
+<!ENTITY syncKey.findOutMore1.label       "Hwehwɛ bio a wɔka ho fa &syncBrand.fullName.label; ne wo ho siesɛm wɔ">
 <!ENTITY syncKey.findOutMore2.label       ".">
-<!ENTITY syncKey.footer1.label            "&syncBrand.fullName.label; Terms of Service are available at ">
-<!ENTITY syncKey.footer2.label            ". The Privacy Policy is available at ">
+<!ENTITY syncKey.footer1.label            "&syncBrand.fullName.label; ne Som ho Mbra wɔ">
+<!ENTITY syncKey.footer2.label            ". Som ho Mbra no wɔ">
 <!ENTITY syncKey.footer3.label            ".">

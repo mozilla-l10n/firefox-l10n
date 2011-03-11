@@ -1,16 +1,16 @@
-<!ENTITY networkPanel.requestURL                  "Request URL">
-<!ENTITY networkPanel.requestMethod               "Request Method">
-<!ENTITY networkPanel.statusCode                  "Status Code">
+<!ENTITY networkPanel.requestURL                  "Bisa URL">
+<!ENTITY networkPanel.requestMethod               "Mbisae anamɔnkwanso">
+<!ENTITY networkPanel.statusCode                  "Kood a ɛkyerɛ tebea">
 
-<!ENTITY networkPanel.requestHeaders              "Request Headers">
-<!ENTITY networkPanel.requestCookie               "Sent Cookie">
-<!ENTITY networkPanel.requestBody                 "Request Body">
-<!ENTITY networkPanel.requestFormData             "Sent Form Data">
+<!ENTITY networkPanel.requestHeaders              "Bisa nti-asɛm">
+<!ENTITY networkPanel.requestCookie               "Kuku kɔ">
+<!ENTITY networkPanel.requestBody                 "Bisa honamdua">
+<!ENTITY networkPanel.requestFormData             "Asoma fɔɔm ne data">
 
-<!ENTITY networkPanel.responseHeaders             "Response Headers">
-<!ENTITY networkPanel.responseBody                "Response Body">
-<!ENTITY networkPanel.responseBodyCached          "Cached Data">
-<!ENTITY networkPanel.responseBodyUnknownType     "Unknown Content Type">
-<!ENTITY networkPanel.responseNoBody              "No Response Body">
-<!ENTITY networkPanel.responseImage               "Received Image">
-<!ENTITY networkPanel.responseImageCached         "Cached Image">
+<!ENTITY networkPanel.responseHeaders             "Mbuae wɔn ti-asɛm">
+<!ENTITY networkPanel.responseBody                "Mbuae honamdua">
+<!ENTITY networkPanel.responseBodyCached          "Data a wɔde esie">
+<!ENTITY networkPanel.responseBodyUnknownType     "Nnim kɔntɛnt tebea">
+<!ENTITY networkPanel.responseNoBody              "Nni mbuae honamdua biara">
+<!ENTITY networkPanel.responseImage               "Nsa aka mfonin">
+<!ENTITY networkPanel.responseImageCached         "Mfonin a wɔde esie">

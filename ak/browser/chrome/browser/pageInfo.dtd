@@ -99,24 +99,24 @@
 <!ENTITY  permInstall           "Instɔɔle ntrɛw anaa tiim">
 <!ENTITY  permGeo               "Kyɛ beaɛ">
 
-<!ENTITY  permIndexedDB              "Maintain Offline Storage">
-<!ENTITY  permClearStorage           "Clear Storage">
+<!ENTITY  permIndexedDB              "Kɔso kura siede a wɔwɔ ɔflaen">
+<!ENTITY  permClearStorage           "Pepa asiede">
 <!ENTITY  permClearStorage.accesskey "C">
 
 <!ENTITY  securityTab           "Banbɔ">
 <!ENTITY  securityTab.accesskey "S">
-<!ENTITY  securityHeader        "kratafa yi Banbɔ Nsɛm">
-<!ENTITY  securityView.certView "hwɛ abodin krataa">
+<!ENTITY  securityHeader        "Krataafa yi bambɔ ho nsɛm">
+<!ENTITY  securityView.certView "Hwɛ abodin krataa">
 <!ENTITY  securityView.accesskey "V">
-<!ENTITY  securityView.unknown   "hena-nso-ni">
+<!ENTITY  securityView.unknown   "Hena-so-ni">
 
 
-<!ENTITY  securityView.identity.header   "wɛbsaet Ahyɛnsode">
+<!ENTITY  securityView.identity.header   "Wɛbsaet su-ahyɛnsode">
 <!ENTITY  securityView.identity.owner    "Owura:">
-<!ENTITY  securityView.identity.domain   "wɛbsaet:">
+<!ENTITY  securityView.identity.domain   "Wɛbsaet:">
 <!ENTITY  securityView.identity.verifier "Eyi agye ato mu:">
 
-<!ENTITY  securityView.privacy.header                   "siesɛm &amp; abakɔsɛm">
+<!ENTITY  securityView.privacy.header                   "Siesɛm &amp; abakɔsɛm">
 <!ENTITY  securityView.privacy.history                  "Me asra wɛbsaet yi ndɛ anaa?">
 <!ENTITY  securityView.privacy.cookies                  "Wɛbsaet yi de infɔmehyen (akuki) resie wɔ me kɔmputa no so anaa?">
 <!ENTITY  securityView.privacy.viewCookies              "Hwɛ akuki">

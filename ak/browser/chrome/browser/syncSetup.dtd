@@ -1,108 +1,108 @@
-<!ENTITY accountSetupTitle.label    "&syncBrand.fullName.label; Setup">
+<!ENTITY accountSetupTitle.label    "&syncBrand.fullName.label; sɛtɔp">
 <!-- First page of the wizard -->
 
 
-<!ENTITY setup.pickSetupType.description "Welcome, if you've never used &syncBrand.fullName.label; before, you will need to create a new account.">
-<!ENTITY button.createNewAccount.label "Create a New Account">
-<!ENTITY setup.haveAccount.label "I already have a &syncBrand.fullName.label; account.">
+<!ENTITY setup.pickSetupType.description "Akɔaba, sɛ wo mmfaa &syncBrand.fullName.label; nndii dwuma da a, ho bɛhia sɛ wo bɛbɔ akawnt foforo.">
+<!ENTITY button.createNewAccount.label "Bɔ akawnt foforo">
+<!ENTITY setup.haveAccount.label "Me mɔ &syncBrand.fullName.label; akawnt dadaw.">
 <!ENTITY button.connect.label    "Kɔnɛkt">
 
-<!ENTITY setup.choicePage.title.label     "Have you used &syncBrand.fullName.label; before?">
-<!ENTITY setup.choicePage.new.label       "I've never used &syncBrand.shortName.label; before">
-<!ENTITY setup.choicePage.existing.label  "I'm already using &syncBrand.shortName.label; on another computer">
+<!ENTITY setup.choicePage.title.label     "Wo de &syncBrand.fullName.label; edi dwuma da?">
+<!ENTITY setup.choicePage.new.label       "Me mmfaa &syncBrand.fullName.label; nndii dwuma da">
+<!ENTITY setup.choicePage.existing.label  "Me de &syncBrand.fullName.label; gus redi dwuma wɔ kɔmputa foforo so dadaw">
 <!-- New Account AND Existing Account -->
 
 <!ENTITY server.label               "Server">
-<!ENTITY serverType.main.label      "&syncBrand.fullName.label; Server">
-<!ENTITY serverType.custom2.label   "Use a custom server…">
-<!ENTITY signIn.account2.label      "Account">
+<!ENTITY serverType.main.label      "&syncBrand.fullName.label; sɛɛva">
+<!ENTITY serverType.custom2.label   "Fa sɛɛva kɔstɔm di dwuma…">
+<!ENTITY signIn.account2.label      "Akawnt">
 <!ENTITY signIn.account2.accesskey  "A">
-<!ENTITY signIn.password.label      "Password">
-<!ENTITY signIn.password.accesskey  "P">
-<!ENTITY signIn.syncKey.label       "Sync Key">
-<!ENTITY signIn.syncKey.accesskey   "K">
+<!ENTITY signIn.password.label      "Ehintasɛmfua">
+<!ENTITY signIn.password.accesskey  "E">
+<!ENTITY signIn.syncKey.label       "Sync safoa">
+<!ENTITY signIn.syncKey.accesskey   "s">
 <!-- New Account Page 1: Basic Account Info -->
 
-<!ENTITY setup.newAccountDetailsPage.title.label "Account Details">
-<!ENTITY setup.confirmPassword.label  "Confirm Password">
+<!ENTITY setup.newAccountDetailsPage.title.label "Akawnt nhunumu">
+<!ENTITY setup.confirmPassword.label  "Kyerɛw Ehintasɛmfua Bio">
 <!ENTITY setup.confirmPassword.accesskey  "m">
-<!ENTITY setup.emailAddress.label     "Email Address">
+<!ENTITY setup.emailAddress.label     "e-mel adrɛs">
 <!ENTITY setup.emailAddress.accesskey "E">
 <!-- LOCALIZATION NOTE: tosAgree1, tosLink, tosAgree2, ppLink, tosAgree3 are
      joined with implicit white space, so spaces in the strings aren't necessary -->
-<!ENTITY setup.tosAgree1.label      "I agree to the">
+<!ENTITY setup.tosAgree1.label      "Mepene sɛ">
 <!ENTITY setup.tosAgree1.accesskey  "a">
 <!ENTITY setup.tosLink.label        "Ɛfene a yɛde som wo">
-<!ENTITY setup.tosAgree2.label      "and the">
+<!ENTITY setup.tosAgree2.label      "ɛna ɛne">
 <!ENTITY setup.ppLink.label         "Siesɛm mbra">
 <!ENTITY setup.tosAgree3.label      "">
 <!ENTITY setup.tosAgree2.accesskey  "">
 <!-- New Account Page 2: Sync Key -->
 
-<!ENTITY setup.newSyncKeyPage.title.label "&brandShortName; Cares About Your Privacy">
-<!ENTITY setup.newSyncKeyPage.description.label "To ensure your total privacy, all of your data is encrypted prior to being uploaded. The Sync Key which is necessary to decrypt your data is not uploaded.">
-<!ENTITY syncKeyEntry.label        "Your Sync Key">
-<!ENTITY syncKeyEntry.accesskey    "K">
-<!ENTITY syncKeyGenerate.label     "Generate">
-<!ENTITY syncKeyBackup.description "Your Sync Key is required to access &syncBrand.fullName.label; on other machines. Please create a backup copy. We cannot help you recover your Sync Key.">
+<!ENTITY setup.newSyncKeyPage.title.label "&brandShortName; Dwene Wo Asiesɛm Ho">
+<!ENTITY setup.newSyncKeyPage.description.label "Sɛ wopɛsɛ wo nya wo asiede a, wo data nyinaa ɛnkreptee ansa na epia akɔ. Sync safoa a ehia sɛ wo sian data ano no mpia akɔ.">
+<!ENTITY syncKeyEntry.label        "Wo Sync safoa">
+<!ENTITY syncKeyEntry.accesskey    "s">
+<!ENTITY syncKeyGenerate.label     "Gyɛnɛral">
+<!ENTITY syncKeyBackup.description "Wo Sync safoa no hia akwannya &syncBrand.fullName.label; wɔ afidie foforo so. Me srɛ wo yɛ nsiakyire no bi. Wɛ ntomi mmoa wo nsan nya Sync Key.">
 
 <!ENTITY button.syncKeyBackup.print.label     "Prente…">
 <!ENTITY button.syncKeyBackup.print.accesskey "P">
-<!ENTITY button.syncKeyBackup.save.label      "Save…">
+<!ENTITY button.syncKeyBackup.save.label      "Sie">
 <!ENTITY button.syncKeyBackup.save.accesskey  "S">
 <!-- New Account Page 3: Captcha -->
 
-<!ENTITY setup.captchaPage2.title.label     "Please Confirm You're Not a Robot">
+<!ENTITY setup.captchaPage2.title.label     "Me srɛ wo kyerɛ sɛ wo nnyɛ robɔt foo">
 <!-- Existing Account Page 1: Add Device (incl. Add a Device dialog strings) -->
 <!ENTITY addDevice.title.label              "Fa efidie ka ho">
-<!ENTITY addDevice.showMeHow.label          "Show me how.">
-<!ENTITY addDevice.dontHaveDevice.label     "I don't have the device with me">
-<!ENTITY addDevice.setup.description.label  "To activate, go to &syncBrand.shortName.label; Options on your other device and select &#x0022;Add a Device&#x0022;.">
-<!ENTITY addDevice.setup.enterCode.label    "Then, enter this code:">
-<!ENTITY addDevice.dialog.description.label "To activate your new device, go to &syncBrand.shortName.label; Options on the device and select &#x0022;Connect.&#x0022;">
-<!ENTITY addDevice.dialog.enterCode.label   "Enter the code that the device provides:">
-<!ENTITY addDevice.dialog.tryAgain.label    "Please try again.">
-<!ENTITY addDevice.dialog.successful.label  "The device has been successfully added. The initial synchronization can take several minutes and will finish in the background.">
-<!ENTITY addDevice.dialog.syncKey.label     "To activate your device you will need to enter your Sync Key. Please print or save this key and take it with you.">
-<!ENTITY addDevice.dialog.connected.label   "Device Connected">
+<!ENTITY addDevice.showMeHow.label          "Kyerɛ me sɛnea wɔ yɛ no.">
+<!ENTITY addDevice.dontHaveDevice.label     "Efidie no nni me nhyɛn">
+<!ENTITY addDevice.setup.description.label  "Wo pɛ sɛ wo kenyan a, kɔ &syncBrand.shortName.label; nɔphyɛn wɔ woefidie foforo no so na paw &#x0022;Fa efidie ka ho&#x0022;">
+<!ENTITY addDevice.setup.enterCode.label    "Ɛneɛ, bɔ kood yi:">
+<!ENTITY addDevice.dialog.description.label "Wopɛ sɛ wo kenyan woefidie foforo no a, kɔ &syncBrand.shortName.label; nɔphyɛn wɔ efidie no so na paw &#x0022;Kɔnɛkte.&#x0022;">
+<!ENTITY addDevice.dialog.enterCode.label   "Bɔ kood koro a efidie no kyerɛ:">
+<!ENTITY addDevice.dialog.tryAgain.label    "San sɔ hwɛ.">
+<!ENTITY addDevice.dialog.successful.label  "Wɔde efidie no aka ho. Synkronaesahyin a edi kan no bɛ kyɛ kakra na ebewie wɔ ndaekyir.">
+<!ENTITY addDevice.dialog.syncKey.label     "Wopɛ skenyan wo efidie no a, ɛwɔ sɛ wobɔ Synk kii no. Prente anaa fa kii yi sie na kura mu de kɔ.">
+<!ENTITY addDevice.dialog.connected.label   "Efidie no akɔnɛkte">
 <!-- Existing Account Page 2: Manual Login -->
 
-<!ENTITY setup.signInPage.title.label "Sign In">
-<!ENTITY existingSyncKey.description "You can get a copy of your Sync Key by going to &syncBrand.shortName.label; Options on your other device, and selecting  &#x0022;My Sync Key&#x0022; under &#x0022;Manage Account&#x0022;.">
-<!ENTITY verifying.label              "Verifying…">
-<!ENTITY resetPassword.label          "Reset Password">
-<!ENTITY resetSyncKey.label           "I have lost my other device.">
+<!ENTITY setup.signInPage.title.label "Bra mu">
+<!ENTITY existingSyncKey.description "Wo nsa bɛtumi aka wo Sync safoa ne sɛso sɛ wo kɔ nɔphyɛn a wɔwɔ  &syncBrand.shortName.label; wɔ wo divaes ne so, na wo paw  &#x0022;Me Sync safoa&#x0022; wɔ &#x0022;Manage Account&#x0022;.">
+<!ENTITY verifying.label              "Regye-ato-mu…">
+<!ENTITY resetPassword.label          "San-hyɛ Ehintasɛmfua">
+<!ENTITY resetSyncKey.label           "M'efidie foforo no ayera.">
 <!-- Sync Options -->
 
-<!ENTITY setup.optionsPage.title      "Sync Options">
+<!ENTITY setup.optionsPage.title      "Synk nɔphyɛn">
 <!ENTITY syncComputerName.label       "Kɔmputa Din:">
 <!ENTITY syncComputerName.accesskey   "m">
 
-<!ENTITY syncMy.label               "Sync Mediɛ">
-<!ENTITY engine.bookmarks.label     "Bookmarks">
+<!ENTITY syncMy.label               "Synke Mediɛ">
+<!ENTITY engine.bookmarks.label     "Mbukmaak">
 <!ENTITY engine.bookmarks.accesskey "m">
-<!ENTITY engine.tabs.label          "Tabs">
-<!ENTITY engine.tabs.accesskey      "T">
-<!ENTITY engine.history.label       "History">
+<!ENTITY engine.tabs.label          "Ntab">
+<!ENTITY engine.tabs.accesskey      "b">
+<!ENTITY engine.history.label       "Abakɔsɛm">
 <!ENTITY engine.history.accesskey   "r">
-<!ENTITY engine.passwords.label     "Passwords">
-<!ENTITY engine.passwords.accesskey "P">
-<!ENTITY engine.prefs.label         "Preferences">
-<!ENTITY engine.prefs.accesskey     "S">
+<!ENTITY engine.passwords.label     "Ehintasɛmfua">
+<!ENTITY engine.passwords.accesskey "u">
+<!ENTITY engine.prefs.label         "Apɛde">
+<!ENTITY engine.prefs.accesskey     "p">
 
-<!ENTITY choice2.merge.main.label      "Merge this computer's data with my &syncBrand.shortName.label; data">
-<!ENTITY choice2.merge.recommended.label "Recommended:">
-<!ENTITY choice2.client.main.label     "Replace all data on this computer with my &syncBrand.shortName.label; data">
-<!ENTITY choice2.server.main.label     "Replace all other devices with this computer's data">
+<!ENTITY choice2.merge.main.label      "Ka kɔmputa yi ne data ne &syncBrand.shortName.label; data bɔ mu">
+<!ENTITY choice2.merge.recommended.label "Yɛ foa yi so:">
+<!ENTITY choice2.client.main.label     "Fa wo &syncBrand.shortName.label; nsɛm nyinara hyɛ data nyinara a wɔwɔ kɔmputa yi so anan mu.">
+<!ENTITY choice2.server.main.label     "Fa kɔmputa yi ne data hyɛ mfidie a wo wɔ nyinara so">
 <!-- Confirm Merge Options -->
 
-<!ENTITY setup.optionsConfirmPage.title "Confirm">
-<!ENTITY confirm.merge.label    "&syncBrand.fullName.label; will now merge all this computer's browser data into your Sync account.">
-<!ENTITY confirm.client2.label         "Warning: The following &brandShortName; data on this computer will be deleted:">
-<!ENTITY confirm.client.moreinfo.label "&brandShortName; will then copy your &syncBrand.fullName.label; data to this computer.">
-<!ENTITY confirm.server2.label         "Warning: The following devices will be overwritten with your local data:">
+<!ENTITY setup.optionsConfirmPage.title "Si-pi">
+<!ENTITY confirm.merge.label    "Afei, &syncBrand.fullName.label; de kɔmputa yi ne brawsa data bɛhyɛ wo Sync akawnt mu.">
+<!ENTITY confirm.client2.label         "Kɔkɔbɔ: Wɔbɛpepa saa &brandShortName; data yi efiri wo kɔmputa so:">
+<!ENTITY confirm.client.moreinfo.label "&brandShortName; bɛfa wo &syncBrand.fullName.label; data akɔ kɔmputa yi so.">
+<!ENTITY confirm.server2.label         "Kɔkɔbɔ: Wɔde wo data a ɛwɔ wo divaes yi so bɛkyerɛw afa data a ɛwɔ wo ndivaes afoforo yinom so:">
 <!-- New & Existing Account: Setup Complete -->
 
-<!ENTITY setup.successPage.title "Setup Complete">
-<!ENTITY changeOptions.label "You can change this preference by selecting Sync Options below.">
-<!ENTITY continueUsing.label "You may now continue using &brandShortName;.">
+<!ENTITY setup.successPage.title "Setɔp ewie">
+<!ENTITY changeOptions.label "Wo bɛtumi asesa apɛde yi sɛ wo paw Sync nɔphyɛn wɔ ase hɔ.">
+<!ENTITY continueUsing.label "Kwan da hɔ seisei sɛ wo bɛkɔ so de &brandShortName; ɛdi dwuma.">
