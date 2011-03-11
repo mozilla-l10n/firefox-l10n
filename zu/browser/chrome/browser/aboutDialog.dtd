@@ -1,12 +1,12 @@
 <!ENTITY aboutDialog.title          "Ngokuphathelene ne-&brandFullName;">
 
-<!ENTITY community.start2           "I-&brandShortName; yenzwe ngu  ">
+<!ENTITY community.start2           "I-&brandShortName; yenzwe ngu- ">
 <!-- LOCALIZATION NOTE (community.mozillaLink): This is a link title that links to http://www.mozilla.org/. -->
-<!ENTITY community.mozillaLink      "i-&vendorShortName;">
-<!ENTITY community.middle2          ", a ">
+<!ENTITY community.mozillaLink      "&vendorShortName;">
+<!ENTITY community.middle2          ", ">
 <!-- LOCALIZATION NOTE (community.creditsLink): This is a link title that links to about:credits. -->
 <!ENTITY community.creditsLink      "umphakathi womhlaba">
-<!ENTITY community.end2             "ngokusebenzisana ukwenza i-inthanethi ukuba ibe ngcono. Sikholelwa ukuba i-inthanethi kumele ivuleleke, ibe sesidlangalaleni, futhi ifinyeleleke kuwo wonke umuntu ngaphandle kwemikhawulo.">
+<!ENTITY community.end2             " osebenzisanayo ukwenza i-inthanethi ukuba ibe ngcono. Sikholelwa ukuba i-inthanethi kumele ivuleleke, ibe sesidlangalaleni, futhi ifinyeleleke kuwo wonke umuntu ngaphandle kwemikhawulo.">
 
 <!ENTITY contribute.start           "Kubonakala kuheha? ">
 <!-- LOCALIZATION NOTE (contribute.getInvolvedLink): This is a link title that links to http://www.mozilla.org/contribute/. -->
@@ -27,7 +27,7 @@
 <!-- LOCALIZATION NOTE (update.checkingAddonCompat): try to make the localized text short (see bug 596813 for screenshots). -->
 <!ENTITY update.checkingAddonCompat "Kuhlolwa ukufaneleka kokungangezwa...">
 <!-- LOCALIZATION NOTE (update.noUpdatesFound): try to make the localized text short (see bug 596813 for screenshots). -->
-<!ENTITY update.noUpdatesFound      "&brandShortName;isesikhathini">
+<!ENTITY update.noUpdatesFound      "&brandShortName; isesikhathini">
 <!-- LOCALIZATION NOTE (update.adminDisabled): try to make the localized text short (see bug 596813 for screenshots). -->
 <!ENTITY update.adminDisabled       "Ukuvuselelwa kukhutshazelwe umphathi wohlelo lwakho">
 <!-- LOCALIZATION NOTE (update.failed.start,update.failed.linkText,update.failed.end):
@@ -44,7 +44,7 @@
      to download the latest version of Firefox (e.g. http://www.firefox.com). As this is all in one line,
      try to make the localized text short (see bug 596813 for screenshots). -->
 
-<!ENTITY update.manual.start        "Ukuvuselelwa kutholakala ku- ">
+<!ENTITY update.manual.start        "Ukuvuselelwa kutholakala ku-">
 <!ENTITY update.manual.end          "">
 <!-- LOCALIZATION NOTE (update.downloading.start,update.downloading.end): update.downloading.start and 
      update.downloading.end all go into one line, with the amount downloaded inserted in between. As this

@@ -167,7 +167,7 @@ can reach it easily. -->
 <!ENTITY toolsMenu.accesskey          "A">
 
 <!ENTITY keywordfield.label           "Nezela igama elingukhiye kulolu sesho...">
-<!ENTITY keywordfield.accesskey       "i">
+<!ENTITY keywordfield.accesskey       "m">
 <!ENTITY search.label                 "Ukusesha kwiwebhu">
 <!ENTITY search.accesskey             "k">
 <!ENTITY downloads.label              "Ukwaziswa okuthathwe kwafakwa">
@@ -381,11 +381,11 @@ can reach it easily. -->
 <!ENTITY saveImageCmd.accesskey       "i">
 <!ENTITY saveVideoCmd.label           "Gcina ividiyo ngokuthi...">
 <!ENTITY saveVideoCmd.accesskey       "i">
-<!ENTITY saveAudioCmd.label           "Gcina umsindo ngokuthi...">
+<!ENTITY saveAudioCmd.label           "Gcina umsindo njenge...">
 <!ENTITY saveAudioCmd.accesskey       "i">
 <!ENTITY sendImageCmd.label           "Thumela isithombe…">
 <!ENTITY sendImageCmd.accesskey       "u">
-<!ENTITY sendVideoCmd.label           "Thumela ividiyi...">
+<!ENTITY sendVideoCmd.label           "Thumela ividiyo...">
 <!ENTITY sendVideoCmd.accesskey       "u">
 <!ENTITY sendAudioCmd.label           "Thumela umsindo...">
 <!ENTITY sendAudioCmd.accesskey       "u">

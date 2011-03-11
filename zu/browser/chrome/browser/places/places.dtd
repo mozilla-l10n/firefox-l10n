@@ -132,7 +132,7 @@
 <!ENTITY view.accesskey           "k">
 <!ENTITY byDate.label             "Ngo suku">
 <!ENTITY byDate.accesskey         "s">
-<!ENTITY bySite.label             "Nge sayithi">
+<!ENTITY bySite.label             "Ngesayithi">
 <!ENTITY bySite.accesskey         "s">
 <!ENTITY byMostVisited.label      "Ngokuvakashelwe kakhulu">
 <!ENTITY byMostVisited.accesskey  "v">

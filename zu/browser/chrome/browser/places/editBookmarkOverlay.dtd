@@ -18,8 +18,8 @@
 <!ENTITY editBookmarkOverlay.keyword.label                   "Igama eliwukhiye:">
 <!ENTITY editBookmarkOverlay.keyword.accesskey               "k">
 <!ENTITY editBookmarkOverlay.tagsExpanderDown.tooltip        "Bonisa wonke amamaki">
-<!ENTITY editBookmarkOverlay.loadInSidebar.label             "Faka lolu phawu lokubekisa emugqeni oseceleni (H)">
-<!ENTITY editBookmarkOverlay.loadInSidebar.accesskey         "H">
+<!ENTITY editBookmarkOverlay.loadInSidebar.label             "Faka lolu phawu lokubekisa emugqeni oseceleni">
+<!ENTITY editBookmarkOverlay.loadInSidebar.accesskey         "l">
 <!ENTITY editBookmarkOverlay.choose.label                    "Khetha…">
 <!ENTITY editBookmarkOverlay.newFolderButton.label           "Ifolda entsha">
 <!ENTITY editBookmarkOverlay.newFolderButton.accesskey       "n">
