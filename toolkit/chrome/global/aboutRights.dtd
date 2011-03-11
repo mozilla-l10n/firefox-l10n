@@ -21,7 +21,7 @@
 <!ENTITY rights.intro-point2-c ".">
 <!-- point 2.5 text for official branded builds -->
 
-<!ENTITY rights.intro-point2.5 "Ezinye izici ku-&brandShortName;, njengesibiki sokusaphazeka, sikunika ukukhetha ukunikela ngempendulo ku-&vendorShortName;. Ngokukhetha ukuhambisa impendulo, unika i-&vendordShortName; imvume yokusebenzisa ipendulo ukuthuthukisa imikhiqizo yayo, ukushicilela impendulo kumawebhusayithi wayo, futhi nokusabalalisa impendulo.">
+<!ENTITY rights.intro-point2.5 "Ezinye izici ku-&brandShortName;, njengesibiki sokusaphazeka, sikunika ukukhetha ukunikela ngempendulo ku-&vendorShortName;. Ngokukhetha ukuhambisa impendulo, unika i-&vendorShortName; imvume yokusebenzisa ipendulo ukuthuthukisa imikhiqizo yayo, ukushicilela impendulo kumawebhusayithi wayo, futhi nokusabalalisa impendulo.">
 <!-- point 3 text for official branded builds -->
 
 <!ENTITY rights2.intro-point3a "Ukuthi siyisebenzisa kanjani imininingwne yakho efihlekile nompendulo ehanjiswe ku-&vendorShortName; nge-&brandShortName; kuchazwa ku- ">
@@ -32,7 +32,7 @@
 <!ENTITY rights.intro-point3-unbranded "Noma iyiphi inqubomgomo yemfihlo yalo mkhiqizo kufanele fakwe ohlwini lapha.">
 <!-- point 4 text for official branded builds -->
 
-<!ENTITY rights2.intro-point4a "Ezinye izici ze-&brandShortName; zisebenzisa izinsizakalo zolwazi ezigxile kwiwebhu, noma kunjalo, ngeke sikwazi ukuqinisekisa ukuba azinamaphutha. Imininingwane eminingi, kufaka phakathi ulwazi lokuba ungazikhubaza kanjani izici ezisebenzisa lezo zinsizakalo, lungatholakala ku ">
+<!ENTITY rights2.intro-point4a "Ezinye izici ze-&brandShortName; zisebenzisa izinsizakalo zolwazi ezigxile kwiwebhu, noma kunjalo, ngeke sikwazi ukuqinisekisa ukuba azinamaphutha angu-100&#37;. Imininingwane eminingi, kufaka phakathi ulwazi lokuba ungazikhubaza kanjani izici ezisebenzisa lezo zinsizakalo, lungatholakala ku ">
 <!ENTITY rights.intro-point4b "imigomo yensizakalo">
 <!ENTITY rights.intro-point4c ".">
 <!-- point 4 text for unbranded builds -->

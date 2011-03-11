@@ -56,7 +56,7 @@ ukuthi i-&brandShortName; ivunyelwe ukungena kuwebhu.</li>
 
 <!ENTITY contentEncodingError.title "Iphutha lokubhala ngemfihlo okuqukethwe">
 <!ENTITY contentEncodingError.longDesc "<ul> 
-<li>Sicela uxhumane nabanikazi bewebhusayithi ukuze ubazise ngalenkinga</li> </ul>">
+<li>Sicela uxhumane nabanikazi bewebhusayithi ukuze ubazise ngalenkinga</li>  </ul>">
 
 <!ENTITY unsafeContentType.title "Uhlobo lwefayela elingaphephile">
 <!ENTITY unsafeContentType.longDesc "<ul> 

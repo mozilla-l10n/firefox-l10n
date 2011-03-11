@@ -29,5 +29,5 @@
 <!ENTITY testpilot.feedbackbutton.label                "Impendulo">
 <!ENTITY testpilot.happy.label        "I-Firefox ingijabulise ngoba...">
 <!ENTITY testpilot.sad.label          "I-Firefox ingenze ngajabha ngoba...">
-<!ENTITY testpilot.broken.label      "Report this website as broken…">
-<!ENTITY testpilot.idea.label        "Give us a suggestion…">
+<!ENTITY testpilot.broken.label      "Bika le webhusayithi njengephukile...">
+<!ENTITY testpilot.idea.label        "Sinike isiphakamiso sakho...">

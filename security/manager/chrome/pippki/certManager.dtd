@@ -101,8 +101,8 @@
 <!ENTITY certmgr.email                        "Ikheli Le-imeyili">
 <!ENTITY certmgr.serial                       "Inombolo Yaso">
 
-<!ENTITY certmgr.close.label                  "Close">
-<!ENTITY certmgr.close.accesskey              "C">
+<!ENTITY certmgr.close.label                  "Vala">
+<!ENTITY certmgr.close.accesskey              "V">
 <!ENTITY certmgr.view2.label                  "View…">
 <!ENTITY certmgr.view2.accesskey              "V">
 <!ENTITY certmgr.edit3.label                  "Edit Trust…">
@@ -113,8 +113,8 @@
 <!ENTITY certmgr.add.accesskey                "A">
 <!ENTITY certmgr.export.label                 "Export…">
 <!ENTITY certmgr.export.accesskey             "x">
-<!ENTITY certmgr.delete2.label                "Delete…">
-<!ENTITY certmgr.delete2.accesskey            "D">
+<!ENTITY certmgr.delete2.label                "Susa…">
+<!ENTITY certmgr.delete2.accesskey            "S">
 <!ENTITY certmgr.delete_builtin.label         "Delete or Distrust…">
 <!ENTITY certmgr.delete_builtin.accesskey     "D">
 <!ENTITY certmgr.backup2.label                "Backup…">
