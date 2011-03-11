@@ -8,8 +8,8 @@
 <!ENTITY button.connect.label    "Kɔnɛkt">
 
 <!ENTITY setup.choicePage.title.label     "Wo de &syncBrand.fullName.label; edi dwuma da?">
-<!ENTITY setup.choicePage.new.label       "Me mmfaa &syncBrand.fullName.label; nndii dwuma da">
-<!ENTITY setup.choicePage.existing.label  "Me de &syncBrand.fullName.label; gus redi dwuma wɔ kɔmputa foforo so dadaw">
+<!ENTITY setup.choicePage.new.label       "Me mmfaa &syncBrand.shortName.label; nndii dwuma da">
+<!ENTITY setup.choicePage.existing.label  "Me de &syncBrand.shortName.label; gus redi dwuma wɔ kɔmputa foforo so dadaw">
 <!-- New Account AND Existing Account -->
 
 <!ENTITY server.label               "Server">
