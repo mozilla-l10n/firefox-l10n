@@ -2,6 +2,7 @@
 <!ENTITY legendHeader "Поисковая система по умолчанию">
 <!ENTITY defaultSearchEngine.label "Искать с помощью:">
 <!ENTITY defaultSearchEngine.accesskey "И">
+<!ENTITY engineManager.label "Управление поисковыми системами…">
 <!ENTITY searchResults.label "Результаты поиска">
 <!ENTITY openInTab.label "Открывать результаты поиска боковой панели в новых вкладках">
 <!ENTITY openInTab.accesskey "н">

@@ -230,4 +230,6 @@
 <!ENTITY attachFile.accesskey "ф">
 <!ENTITY attachPage.label "Вложить веб-страницу…">
 <!ENTITY attachPage.accesskey "е">
+<!ENTITY spellAddDictionaries.label "Добавить словари…">
+<!ENTITY spellAddDictionaries.accesskey "Д">
 <!ENTITY addressesSidebarTitle.label "Контакты">

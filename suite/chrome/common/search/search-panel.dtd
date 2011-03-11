@@ -37,3 +37,4 @@
    - ***** END LICENSE BLOCK ***** -->
 <!ENTITY search.button.label "Поиск">
 <!ENTITY search.placeholder "Введите поисковый запрос">
+<!ENTITY search.engineManager.label "Управление поисковыми системами…">

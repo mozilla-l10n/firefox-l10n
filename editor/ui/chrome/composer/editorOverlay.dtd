@@ -399,21 +399,6 @@
 <!ENTITY alignCenterButton.tooltip "Выравнивание текста по центру">
 <!ENTITY alignRightButton.tooltip "Выравнивание текста по правому краю">
 <!ENTITY alignJustifyButton.tooltip "Выравнивание текста по ширине">
-<!ENTITY NormalModeTab.label "Обычный">
-<!ENTITY NormalMode.label "Обычный режим редактирования">
-<!ENTITY NormalMode.accesskey "О">
-<!ENTITY NormalMode.tooltip "Показываются границы таблиц и имена якорей">
-<!ENTITY AllTagsMode.label "HTML-теги">
-<!ENTITY AllTagsMode.accesskey "т">
-<!ENTITY AllTagsMode.tooltip "Показываются значки для всех HTML-тегов">
-<!ENTITY HTMLSourceMode.label "Исходный код HTML">
-<!ENTITY SourceMode.label "Исходный код">
-<!ENTITY HTMLSourceMode.accesskey "к">
-<!ENTITY HTMLSourceMode.tooltip "Редактировать исходный код HTML">
-<!ENTITY PreviewMode.label "Предварительный просмотр">
-<!ENTITY PreviewMode.accesskey "р">
-<!ENTITY PreviewMode.tooltip "Показывать страницу как в браузере">
-<!ENTITY SourceTabDirection "ltr">
 <!ENTITY structSelect.label "Выбрать">
 <!ENTITY structSelect.accesskey "В">
 <!ENTITY structRemoveTag.label "Удалить тег">

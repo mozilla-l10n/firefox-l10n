@@ -16,10 +16,15 @@
    -
    - The Initial Developer of the Original Code is
    - Netscape Communications Corporation.
-   - Portions created by the Initial Developer are Copyright (C) 1999
+   - Portions created by the Initial Developer are Copyright (C) 1999-2000
    - the Initial Developer. All Rights Reserved.
    -
    - Contributor(s):
+   -   Sammy Ford
+   -   Blake Ross
+   -   Ryan Cassin (rcassin@supernova.org)
+   -   Daniel Glazman (glazman@netscape.com)
+   -   Stephen Donner (technutz@netscape.net)
    -   Alexander L. Slovesnik <unghost@mozilla-russia.org> (Russian translation)
    -
    - Alternatively, the contents of this file may be used under the terms of
@@ -48,3 +53,20 @@
 <!ENTITY editmodeToolbarCmd.accesskey "р">
 <!ENTITY formatMenu.label "Формат">
 <!ENTITY formatMenu.accesskey "м">
+<!ENTITY NormalModeTab.label "Обычный">
+<!ENTITY NormalMode.label "Обычный режим редактирования">
+<!ENTITY NormalMode.accesskey "О">
+<!ENTITY NormalMode.tooltip "Показываются границы таблиц и имена якорей">
+<!ENTITY AllTagsModeTab.label "HTML-теги">
+<!ENTITY AllTagsMode.label "HTML-теги">
+<!ENTITY AllTagsMode.accesskey "т">
+<!ENTITY AllTagsMode.tooltip "Показываются значки для всех HTML-тегов">
+<!ENTITY HTMLSourceModeTab.dir "ltr">
+<!ENTITY HTMLSourceModeTab.label "Исходный код">
+<!ENTITY HTMLSourceMode.label "Исходный код HTML">
+<!ENTITY HTMLSourceMode.accesskey "к">
+<!ENTITY HTMLSourceMode.tooltip "Редактировать исходный код HTML">
+<!ENTITY PreviewModeTab.label "Предварительный просмотр">
+<!ENTITY PreviewMode.label "Предварительный просмотр">
+<!ENTITY PreviewMode.accesskey "р">
+<!ENTITY PreviewMode.tooltip "Показывать страницу как в браузере">
