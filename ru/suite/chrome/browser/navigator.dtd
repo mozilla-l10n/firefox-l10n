@@ -127,6 +127,7 @@
 <!ENTITY locationBar.accesskey "д">
 <!ENTITY locationBar.title "Расположение">
 <!ENTITY proxyIcon.tooltip "Перетащите этот значок, чтобы создать ссылку на эту страницу">
+<!ENTITY searchItem.title "Поиск">
 <!ENTITY bookmarksButton.label "Закладки">
 <!ENTITY bookmarksButton.tooltip "Отображает ваши закладки">
 <!ENTITY homeButton.label "Домой">
