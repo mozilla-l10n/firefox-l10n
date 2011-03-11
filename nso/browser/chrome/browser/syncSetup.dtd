@@ -8,8 +8,8 @@
 <!ENTITY button.connect.label    "Gokaganya">
 
 <!ENTITY setup.choicePage.title.label     "Na o ile wa diriša &syncBrand.fullName.label; pele ga mo?">
-<!ENTITY setup.choicePage.new.label       "Ga ke sešo ka diriša &syncBrand.fullName.label; pele ga mo">
-<!ENTITY setup.choicePage.existing.label  "Ke šetše ke diriša &syncBrand.fullName.label; go khomphutha e nngwe">
+<!ENTITY setup.choicePage.new.label       "Ga ke sešo ka diriša &syncBrand.shortName.label; pele ga mo">
+<!ENTITY setup.choicePage.existing.label  "Ke šetše ke diriša &syncBrand.shortName.label; go khomphutha e nngwe">
 <!-- New Account AND Existing Account -->
 
 <!ENTITY server.label               "Seabi">
@@ -57,9 +57,9 @@
 <!ENTITY addDevice.title.label              "Tsenya sedirišwa">
 <!ENTITY addDevice.showMeHow.label          "Mpontšhe gore ke dire bjang.">
 <!ENTITY addDevice.dontHaveDevice.label     "Ga ke a swara sedirišwa">
-<!ENTITY addDevice.setup.description.label  "Go e diragatša, e-ya go dikgetho tša &syncBrand.fullName.label; go sedirišwa sa gago se sengwe gomme o kgethe &#x0022;Add a Device&#x0022;.">
+<!ENTITY addDevice.setup.description.label  "Go e diragatša, e-ya go dikgetho tša &syncBrand.shortName.label; go sedirišwa sa gago se sengwe gomme o kgethe &#x0022;Add a Device&#x0022;.">
 <!ENTITY addDevice.setup.enterCode.label    "Ke moka, o tsenye khoutu ye:">
-<!ENTITY addDevice.dialog.description.label "Go diragatša sedirišwa sa gago se seswa, e-ya go dikgetho tša &syncBrand.fullName.label; sedirišweng gomme o kgethe &#x0022;Connect.&#x0022;">
+<!ENTITY addDevice.dialog.description.label "Go diragatša sedirišwa sa gago se seswa, e-ya go dikgetho tša &syncBrand.shortName.label; sedirišweng gomme o kgethe &#x0022;Connect.&#x0022;">
 <!ENTITY addDevice.dialog.enterCode.label   "Tsenya khoutu yeo sedirišwa se e neago:">
 <!ENTITY addDevice.dialog.tryAgain.label    "Hle leka gape.">
 <!ENTITY addDevice.dialog.successful.label  "Sedirišwa se tsentšhitšwe ka katlego. Nyalantšho ya pele e ka tšea metsotso e mmalwa gomme e tla fetša bokamoragong.">
@@ -97,9 +97,9 @@
 <!-- Confirm Merge Options -->
 
 <!ENTITY setup.optionsConfirmPage.title "Netefatša">
-<!ENTITY confirm.merge.label    "&syncBrand.shortName.label; bjale e tla kopanya tsebišo yohle ya praosara ya khomphutha le akhaonto ya gago ya nyalantšho.">
+<!ENTITY confirm.merge.label    "&syncBrand.fullName.label; bjale e tla kopanya tsebišo yohle ya praosara ya khomphutha le akhaonto ya gago ya nyalantšho.">
 <!ENTITY confirm.client2.label         "Temošo: Tsebišo e latelago ya &brandShortName; yeo e lego khomphutheng ye e tla phumolwa:">
-<!ENTITY confirm.client.moreinfo.label "&brandShortName; ke moka e tla kopišetša tsebišo ya gago ya &syncBrand.shortName.label; khomphutheng ye.">
+<!ENTITY confirm.client.moreinfo.label "&brandShortName; ke moka e tla kopišetša tsebišo ya gago ya &syncBrand.fullName.label; khomphutheng ye.">
 <!ENTITY confirm.server2.label         "Temošo: Didirišwa tše latelago di tla tšeelwa legato ke tsebišo ya gago ya mo lapeng:">
 <!-- New & Existing Account: Setup Complete -->
 
