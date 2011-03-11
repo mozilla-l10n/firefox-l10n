@@ -58,3 +58,27 @@
 <!-- Format menu items -->
 <!ENTITY formatMenu.label "Fòrmat">
 <!ENTITY formatMenu.accesskey "F">
+
+<!-- Display Mode toolbar and View menu items -->
+<!ENTITY NormalModeTab.label "Àbhaisteach">
+<!ENTITY NormalMode.label "Am modh deasachaidh àbhaisteach">
+<!ENTITY NormalMode.accesskey "A">
+<!ENTITY NormalMode.tooltip "Seall iomallan a' chlàir is na h-acairean ainmichte">
+<!ENTITY AllTagsModeTab.label "Tagaichean HTML">
+<!ENTITY AllTagsMode.label "Tagaichean HTML">
+<!ENTITY AllTagsMode.accesskey "a">
+<!ENTITY AllTagsMode.tooltip "Seall ìomhaigheagan a h-uile taga HTML">
+<!-- LOCALIZATION NOTE: (HTMLSourceModeTab.dir, HTMLSourceModeTab.label)
+     Do NOT translate text for 'HTMLSourceModeTab.dir', use latin "ltr" if
+     you want the <html> image to left of the 'HTMLSourceModeTab.label' text,
+     or use latin "rtl" if you want this image to the right of text. You do
+     not need to include HTML in the label 'HTMLSourceModeTab.label' -->
+<!ENTITY HTMLSourceModeTab.dir "ltr">
+<!ENTITY HTMLSourceModeTab.label "Am bun-tùs">
+<!ENTITY HTMLSourceMode.label "Bun-tùs an HTML">
+<!ENTITY HTMLSourceMode.accesskey "H">
+<!ENTITY HTMLSourceMode.tooltip "Deasaich bun-tùs an HTML">
+<!ENTITY PreviewModeTab.label "Ro-sheall">
+<!ENTITY PreviewMode.label "Ro-sheall">
+<!ENTITY PreviewMode.accesskey "R">
+<!ENTITY PreviewMode.tooltip "Seall mar WYSIWYG (mar a chì thu e sa bhrabhsair)">
