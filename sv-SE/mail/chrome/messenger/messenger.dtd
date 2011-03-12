@@ -684,6 +684,10 @@ you can use these alternative items. Otherwise, their values should be empty.  -
 <!-- Thread Pane Context Menu -->
 <!ENTITY contextOpenNewWindow.label "Öppna meddelande i nytt fönster">
 <!ENTITY contextOpenNewWindow.accesskey "Ö">
+<!-- The key potentially conflicts with cutCmd.accessKey which is defined in
+     textcontext.dtd from toolkit. Right now, both menu items can't be visible
+     at the same time, but should someone enable copy/paste of message, this key
+     would probably need to be changed. -->
 <!ENTITY contextOpenNewTab.label "Öppna meddelande i ny flik">
 <!ENTITY contextOpenNewTab.accesskey "n">
 <!ENTITY contextOpenConversation.label "Öppna meddelande i konversationen">
@@ -845,6 +849,10 @@ you can use these alternative items. Otherwise, their values should be empty.  -
 <!ENTITY CreateFilterFrom.accesskey "F">
 <!ENTITY reportPhishingURL.label "Rapportera e-postbluff">
 <!ENTITY reportPhishingURL.accesskey "R">
+
+<!-- Spell checker context menu items -->
+<!ENTITY spellAddDictionaries.label "Lägg till ordlistor…">
+<!ENTITY spellAddDictionaries.accesskey "L">
 
 <!-- Content Pane Context Menu -->
 <!ENTITY saveLinkAsCmd.label "Spara länk som…">
