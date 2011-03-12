@@ -267,3 +267,8 @@
 <!ENTITY pasteAsQuotationCmd.key "o">
 <!ENTITY removeAttachment.accesskey "H">
 <!ENTITY removeAttachment.label "Hiqe Bashkangjitjen">
+
+
+<!-- Spell checker context menu items -->
+<!ENTITY spellAddDictionaries.label "Shtoni Fjalorë…">
+<!ENTITY spellAddDictionaries.accesskey "S">

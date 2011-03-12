@@ -5,10 +5,22 @@
 <!-- File Menu -->
 <!ENTITY newFolderCmd.label "Dosje…">
 <!ENTITY newFolderCmd.accesskey "D">
-<!ENTITY closeTabCmd.label "Mbylle Skedën">
-<!ENTITY closeTabCmd.accesskey "M">
-<!ENTITY closeOtherTabsCmd.label "Mbylli Skedat e Tjera">
-<!ENTITY closeOtherTabsCmd.accesskey "M">
+<!ENTITY closeTabCmd2.label "Mbylle Skedën">
+<!ENTITY closeTabCmd2.accesskey "M">
+<!ENTITY closeOtherTabsCmd2.label "Mbylli Skedat e Tjera">
+<!ENTITY closeOtherTabsCmd.accesskey "T">
+<!-- LOCALIZATION NOTE (undoCloseTabCmd.label):
+     Menu option to attempt to re-open a recently closed tab.
+     -->
+<!ENTITY undoCloseTabCmd.label "Zhbëje Mbylljen e Skedave">
+<!ENTITY undoCloseTabCmd.accesskey "Z">
+<!-- LOCALIZATION NOTE (moveToNewWindow.label):
+     Menu option to cause the current tab to be migrated to a new Thunderbird
+     window.
+     -->
+<!ENTITY moveToNewWindow.label "Kaloje në Dritare të Re">
+<!ENTITY moveToNewWindow.accesskey "j">
+
 <!ENTITY newVirtualFolderCmd.label "Kërkim i Ruajtur…">
 <!ENTITY newVirtualFolderCmd.accesskey "K">
 <!ENTITY newOtherAccountsCmd.label "Tjetër Llogari…">
@@ -807,19 +819,15 @@ you can use these alternative items. Otherwise, their values should be empty.  -
 <!ENTITY reportPhishingURL.label "Njoftoni për Email Mashtrues">
 <!ENTITY reportPhishingURL.accesskey "N">
 
+<!-- Spell checker context menu items -->
+<!ENTITY spellAddDictionaries.label "Shtoni Fjalorë…">
+<!ENTITY spellAddDictionaries.accesskey "S">
+
 <!-- Content Pane Context Menu -->
 <!ENTITY saveLinkAsCmd.label "Ruajeni Lidhjen Si…">
 <!ENTITY saveLinkAsCmd.accesskey "L">
 <!ENTITY saveImageAsCmd.label "Ruajeni Figurën Si…">
 <!ENTITY saveImageAsCmd.accesskey "R">
-<!ENTITY cutCmd.label "Prije">
-<!ENTITY cutCmd.accesskey "P">
-<!ENTITY copyCmd.label "Kopjoje">
-<!ENTITY copyCmd.accesskey "K">
-<!ENTITY pasteCmd.label "Ngjite">
-<!ENTITY pasteCmd.accesskey "N">
-<!ENTITY selectAllCmd.label "Përzgjidhe të Tërën">
-<!ENTITY selectAllCmd.accesskey "P">
 <!ENTITY copyLinkCmd.label "Kopjo Vend Lidhjeje">
 <!ENTITY copyLinkCmd.accesskey "V">
 <!ENTITY copyImageAllCmd.label "Kopjo Pamjen">
