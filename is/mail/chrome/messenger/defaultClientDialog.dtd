@@ -1,7 +1,0 @@
-<!ENTITY defaultClient.title "Sjálfgefið forrit">
-<!ENTITY defaultClient.intro "Nota &brandShortName; sem sjálfgefið forrit fyrir:">
-<!ENTITY email.label "Tölvupóst">
-<!ENTITY newsgroups.label "Fréttahópar">
-<!ENTITY rss.label "RSS Straumar">
-<!ENTITY checkOnStartup.label "Alltaf athuga þetta þegar &brandShortName; er ræstur">
-<!ENTITY checkOnStartup.accesskey "A">

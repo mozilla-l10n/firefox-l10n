@@ -52,8 +52,8 @@
 <!ENTITY event.delete.event.accesskey "d">
 <!ENTITY event.delete.tasks "Eyða völdum verkum">
 <!ENTITY event.delete.tasks.accesskey "E">
-<!ENTITY calendar.pagesetup.label "Síðuuppsetning…">
-<!ENTITY calendar.pagesetup.accesskey "u">
+<!ENTITY calendar.pagesetup.label "Uppsetning síðu…">
+<!ENTITY calendar.pagesetup.accesskey "U">
 <!ENTITY calendar.subscribe.label "Gerast áskrifandi að fjartengdu dagatali…">
 <!ENTITY calendar.subscribe.accesskey "r">
 <!ENTITY calendar.reloadserver.label "Endurnýja fjartengd dagatöl">

@@ -24,6 +24,6 @@
  
 <!ENTITY filtersLink.label "Sýsla með póstsíur">
 <!ENTITY junkSettings.label "Ruslpósts stillingar">
-<!ENTITY offlineLink.label "Stillingar fyrir ótengda notkun">
+<!ENTITY offlineLink.label "Stillingar fyrir ónettengda notkun">
 <!ENTITY feedsSectionHdr.label "Straumar">
 <!ENTITY subscribeFeeds.label "Stilla áskriftir">

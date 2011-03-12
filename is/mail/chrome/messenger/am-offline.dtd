@@ -1,6 +1,6 @@
 <!ENTITY doNotDownloadPop3Movemail.label "Til að minnka diskpláss, ekki hlaða niður:">
-<!ENTITY doNotDownloadNntp.label "Til að minnka diskpláss, ekki hlaða niður fyrir ótengda notkun:">
-<!ENTITY doNotDownloadImap.label "Til að minnka diskpláss, er hægt að takmarka eftir aldri eða stærð hvaða póstum er halað niður og geymdir fyrir ótengda notkun.">
+<!ENTITY doNotDownloadNntp.label "Til að minnka diskpláss, ekki hlaða niður fyrir ónettengda notkun:">
+<!ENTITY doNotDownloadImap.label "Til að minnka diskpláss, er hægt að takmarka eftir aldri eða stærð hvaða póstum er halað niður og geymdir fyrir ónettengda notkun.">
 <!ENTITY allFoldersOffline.label "Geyma afrit af pósti þessa reiknings á þessari tölvu">
 <!ENTITY allFoldersOffline.accesskey "G">
 <!ENTITY offlineNotDownload.label "Póst stærri en">
@@ -29,7 +29,7 @@
 <!ENTITY retentionApplyToFlagged.accesskey "k">
 <!ENTITY nntpRemoveMsgBody.label "Fjarlægja meginmál úr bréfum eldri en">
 <!ENTITY nntpRemoveMsgBody.accesskey "F">
-<!ENTITY offlineSelectNntp.label "Veldu fréttahópa fyrir ótengda notkun…">
+<!ENTITY offlineSelectNntp.label "Veldu fréttahópa fyrir ónettengda notkun…">
 <!ENTITY offlineSelectNntp.accesskey "V">
 <!ENTITY offlineImapAdvancedOffline.label "Frekari stillingar…">
 <!ENTITY offlineImapAdvancedOffline.accesskey "F">

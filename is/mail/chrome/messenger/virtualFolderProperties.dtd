@@ -9,3 +9,7 @@
 <!ENTITY chooseFoldersButton.accesskey "V">
 <!ENTITY searchOnline.label "Leitar á netinu (Skilar uppfærðum niðurstöðum fyrir IMAP og fréttamöppur en lengir tímann sem tekur að opna möppu)">
 <!ENTITY searchOnline.accesskey "o">
+<!ENTITY newFolderButton.label "Búa til">
+<!ENTITY newFolderButton.accesskey "a">
+<!ENTITY editFolderButton.label "Uppfæra">
+<!ENTITY editFolderButton.accesskey "U">

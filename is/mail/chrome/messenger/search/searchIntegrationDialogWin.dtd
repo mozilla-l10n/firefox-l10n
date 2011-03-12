@@ -1,5 +1,0 @@
-<!ENTITY searchIntegration.engineName "Windows leit">
-<!ENTITY searchIntegration.title "&searchIntegration.engineName; Samþætting">
-<!ENTITY searchIntegration.description "Viltu nota &searchIntegration.engineName; til þess að leita og búa til tilvísunarskrá á &brandShortName; pósti og fréttahópum?">
-<!ENTITY searchIntegration.accept "Virkja &searchIntegration.engineName;">
-<!ENTITY searchIntegration.cancel "Ekki virkja &searchIntegration.engineName;">

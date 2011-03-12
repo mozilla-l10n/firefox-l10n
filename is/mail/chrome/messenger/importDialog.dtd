@@ -70,10 +70,3 @@ LOCALIZATION NOTE : Do not translate any of the occurrences of the word
 <!ENTITY select.label "eða veldu tegund efnis til að flytja inn:">
 <!ENTITY title.label "Titill">
 <!ENTITY processing.label "Flyt inn…">
-<!ENTITY FieldDiscInputText1.label "Netscape Communicator 4.x er með eitt póstfang fyrir hvern tengilið, á meðan &brandShortName; er með tvö (Heima og vinna).">
-<!ENTITY FieldDiscInputText2.label "Veldu þann flokk sem þú vilt að innfluttu póstföngin verði geymd í:">
-<!ENTITY FieldDiscWarning.label "Þessi flokkur verður notaður fyrir allar færslur í valinni nafnaskrá: ">
-<!ENTITY importHome.label "Heima">
-<!ENTITY importHome.accesskey "H">
-<!ENTITY importWork.label "Vinna">
-<!ENTITY importWork.accesskey "V">

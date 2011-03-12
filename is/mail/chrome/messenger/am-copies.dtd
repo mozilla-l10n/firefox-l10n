@@ -9,11 +9,11 @@
 <!-- LOCALIZATION NOTE (ccAddress.label): do not translate "Cc" in below line -->
 <!ENTITY ccAddress.label "Senda afrit á þessi tölvupóstföng:">
 <!ENTITY ccAddress.accesskey "þ">
-<!ENTITY ccAddressList.emptytext "Aðskildu tölvupóstföng með kommum">
+<!ENTITY ccAddressList.placeholder "Aðskildu tölvupóstföng með kommum">
 <!-- LOCALIZATION NOTE (bccAddress.label): do not translate "Bcc" in below line -->
 <!ENTITY bccAddress.label "Senda falið afrit á þessi tölvupóstföng:">
 <!ENTITY bccAddress.accesskey "ö">
-<!ENTITY bccAddressList.emptytext "Aðskildu tölvupóstföng með kommum">
+<!ENTITY bccAddressList.placeholder "Aðskildu tölvupóstföng með kommum">
 <!ENTITY saveMessageDlg.label "Birta staðfestingarglugga þegar póstur er vistaður">
 <!ENTITY saveMessageDlg.accesskey "s">
 <!-- LOCALIZATION NOTE (sentFolderOn.label): OK to translate this, bug #57440 -->

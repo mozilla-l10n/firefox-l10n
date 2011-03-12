@@ -49,7 +49,7 @@
 <!ENTITY directoryLogin.label "Nota DN: ">
 <!ENTITY directoryLogin.accesskey "N">
 <!ENTITY General.tab "Almennt">
-<!ENTITY Offline.tab "Ótengdur">
+<!ENTITY Offline.tab "Ónettengdur">
 <!ENTITY Advanced.tab "Ítarlegt">
 <!ENTITY portNumber.label "Gáttnúmer: ">
 <!ENTITY portNumber.accesskey "n">
@@ -64,7 +64,7 @@
 <!ENTITY return.label "Ekki skila meira en">
 <!ENTITY return.accesskey "r">
 <!ENTITY results.label "niðurstöðum">
-<!ENTITY offlineText.label "Þú getur niðurhalið staðbundnu afriti af þessari efnisskrá þannig að það sé aðgengilegt þegar þú ert að vinna ótengdur.">
+<!ENTITY offlineText.label "Þú getur niðurhalið staðbundnu afriti af þessari möppu svo það sé aðgengilegt þegar þú ert að vinna án nettengingar.">
 <!ENTITY saslMechanism.label "Innskráningaraðferð: ">
 <!ENTITY saslMechanism.accesskey "I">
 <!ENTITY saslOff.label "Einfalt">

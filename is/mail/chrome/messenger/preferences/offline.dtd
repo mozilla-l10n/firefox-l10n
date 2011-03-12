@@ -1,4 +1,4 @@
-<!ENTITY offlineDialog.title 'Stillingar fyrir "ótengdur"'>
+<!ENTITY offlineDialog.title "Stillingar fyrir ónettengdur">
 <!ENTITY textStartUp "Í ræsingu:">
 <!ENTITY radioRememberPrevState.label "Muna síðustu nettengistöðu">
 <!ENTITY radioRememberPrevState.accesskey "M">
