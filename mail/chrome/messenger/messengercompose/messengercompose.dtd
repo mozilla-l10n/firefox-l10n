@@ -264,6 +264,10 @@
 <!ENTITY attachPage.label "Cuir duilleag-lìn ris…">
 <!ENTITY attachPage.accesskey "C">
 
+<!-- Spell checker context menu items -->
+<!ENTITY spellAddDictionaries.label "Cuir faclairean ris…">
+<!ENTITY spellAddDictionaries.accesskey "a">
+
 <!-- Title for the address picker panel -->
 <!ENTITY addressesSidebarTitle.label "Caraidean">
 
