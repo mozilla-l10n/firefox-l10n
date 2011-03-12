@@ -452,33 +452,7 @@
 <!ENTITY alignLeftButton.tooltip "Vänsterställ texten">
 <!ENTITY alignCenterButton.tooltip "Centrera texten">
 <!ENTITY alignRightButton.tooltip "Högerställ texten">
-<!ENTITY alignjustifyButton.tooltip "Justera (slå ut) texten">
-
-<!-- Display Mode Toolbar and View Menu items -->
-<!ENTITY NormalModeTab.label "Normal">
-<!ENTITY NormalMode.label "Normalt redigeringsläge">
-<!ENTITY NormalMode.accesskey "N">
-<!ENTITY NormalMode.tooltip "Visa tabellramar och namngivna ankare">
-<!ENTITY AllTagsMode.label "HTML-taggar">
-<!ENTITY AllTagsMode.accesskey "t">
-<!ENTITY AllTagsMode.tooltip "Visa ikoner för alla HTML-taggar">
-
-<!ENTITY HTMLSourceMode.label "HTML-kod">
-<!-- Toolbar has an image with "HTML" text, so don't include it in the string -->
-<!ENTITY SourceMode.label "Källkod">
-<!ENTITY HTMLSourceMode.accesskey "h">
-<!ENTITY HTMLSourceMode.tooltip "Redigera HTML-koden">
-<!ENTITY PreviewMode.label "Förhandsgranska">
-<!ENTITY PreviewMode.accesskey "F">
-<!ENTITY PreviewMode.tooltip "Visa som WYSIWYG (som i webbläsaren)">
-
-<!-- LOCALIZATION NOTE: Do NOT translate text for 'SourceTabDirection'
-     Use latin "ltr" if you want the <html> image to left of the 
-     'SourceMode.label' text defined above,
-     or use latin "rtl" if you want this image to the right of text
-     This is the value of the HTML 'dir' attribute
--->
-<!ENTITY SourceTabDirection "ltr">
+<!ENTITY alignJustifyButton.tooltip "Justera (slå ut) texten">
 
 <!-- Structure Toolbar Context Menu items -->
 <!ENTITY structSelect.label         "Markera">
