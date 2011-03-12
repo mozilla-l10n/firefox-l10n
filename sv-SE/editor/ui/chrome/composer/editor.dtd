@@ -44,6 +44,9 @@
 
 <!-- Menu items:  the . means that the menu item isn't implemented yet -->
 
+<!-- Toolbar-only items -->
+<!ENTITY compositionToolbar.tooltip "Verktygsfältet Skrivverktyg">
+
 <!-- View menu items -->
 <!ENTITY viewMenu.label "Visa">
 <!ENTITY viewMenu.accesskey "V">
