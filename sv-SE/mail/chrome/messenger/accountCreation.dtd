@@ -10,42 +10,46 @@
 <!ENTITY password.accesskey              "L">
 <!ENTITY password.placeholder            "Lösenord">
 <!ENTITY password.text                   "Frivilligt, kommer endast användas för att bekräfta användarnamnet">
+<!ENTITY rememberPassword.label          "Spara lösenord">
+<!ENTITY rememberPassword.accesskey      "S">
 
-<!ENTITY accountInformation.label        "Kontoinformation">
-<!ENTITY username2.label                 "Användarnamn">
+<!ENTITY imapLong.label                  "IMAP (fjärrmappar)">
+<!ENTITY pop3Long.label                  "POP3 (lagra e-posten på datorn)">
+
 <!ENTITY incoming.label                  "Inkommande:">
 <!ENTITY outgoing.label                  "Utgående:">
+<!ENTITY username.label                  "Användarnamn:">
+<!ENTITY hostname.label                  "Serverns värdnamn">
+<!ENTITY port.label                      "Port">
+<!ENTITY ssl.label                       "SSL">
+<!ENTITY auth.label                      "Autentisering">
+<!ENTITY imap.label                      "IMAP">
+<!ENTITY pop3.label                      "POP3">
+<!ENTITY smtp.label                      "SMTP">
+<!ENTITY autodetect.label                "Välj automatiskt">
+<!-- LOCALIZATION NOTE(noEncryption.label): Neither SSL/TLS nor STARTTLS.
+     Transmission of emails in cleartext over the Internet. -->
 <!ENTITY noEncryption.label              "Ingen">
 <!ENTITY starttls.label                  "STARTTLS">
 <!ENTITY sslTls.label                    "SSL/TLS">
 
-<!ENTITY imap.label                      "IMAP">
-<!ENTITY pop.label                       "POP">
-<!ENTITY smtp.label                      "SMTP">
-<!ENTITY imap.description                "IMAP - Få tillgång till mappar och meddelanden från flera datorer">
-<!ENTITY pop.description                 "POP - Spara alla meddelanden på den här datorn, alla mappar är endast lokala">
-<!ENTITY recommended-appendix.label      "(rekommenderas)">
-
-<!ENTITY manualSetup.label               "Manuell inställning…">
-<!ENTITY manualSetup.accesskey           "M">
+<!ENTITY advancedSetup.label             "Avancerade inställningar">
+<!ENTITY advancedSetup.accesskey         "v">
 <!ENTITY cancel.label                    "Avbryt">
 <!ENTITY cancel.accesskey                "A">
 <!ENTITY continue.label                  "Fortsätt">
 <!ENTITY continue.accesskey              "F">
-<!ENTITY startOver.label                 "Börja om">
-<!ENTITY startOver.accesskey             "B">
 <!ENTITY stop.label                      "Stoppa">
 <!ENTITY stop.accesskey                  "S">
-<!-- LOCALIZATION NOTE (retest.label): This is the text that is
-     displayed on the button which will re-guess the account configuration,
-     taking into account the settings the user has changed. -->
-<!ENTITY retest.label                    "Testa konfigurationen igen">
-<!ENTITY retest.accesskey                "T">
-<!ENTITY edit.label                      "Redigera">
-<!ENTITY edit.accesskey                  "R">
+<!-- LOCALIZATION NOTE (half-manual-test.label): This is the text that is
+     displayed on the button in manual edit mode which will re-guess
+     the account configuration, taking into account the settings that
+     the user has manually changed. -->
+<!ENTITY half-manual-test.label          "Testa igen">
+<!ENTITY half-manual-test.accesskey      "T">
+<!ENTITY manual-edit.label               "Manuell inställning">
+<!ENTITY manual-edit.accesskey           "M">
 
-<!ENTITY rememberPassword.label          "Kom ihåg lösenord">
-<!ENTITY rememberPassword.accesskey      "K">
 
 <!ENTITY warning.label                   "Varning!">
 <!ENTITY incomingSettings.label          "Inställningar för inkommande:">
