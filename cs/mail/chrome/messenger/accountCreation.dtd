@@ -10,42 +10,46 @@
 <!ENTITY password.accesskey "H">
 <!ENTITY password.placeholder "Heslo">
 <!ENTITY password.text "Nepovinné, pouze pro ověření uživatelského jména">
+<!ENTITY rememberPassword.label "Pamatovat si heslo">
+<!ENTITY rememberPassword.accesskey "P">
 
-<!ENTITY accountInformation.label "Informace o účtu">
-<!ENTITY username2.label "Uživatelské jméno">
+<!ENTITY imapLong.label "IMAP (vzdálené složky)">
+<!ENTITY pop3Long.label "POP3 (místní uložiště pošty)">
+
 <!ENTITY incoming.label "Příchozí">
 <!ENTITY outgoing.label "Odchozí">
+<!ENTITY username.label "Uživatelské jméno">
+<!ENTITY hostname.label "Název serveru">
+<!ENTITY port.label "Port">
+<!ENTITY ssl.label "SSL">
+<!ENTITY auth.label "Autentizace">
+<!ENTITY imap.label "IMAP">
+<!ENTITY pop3.label "POP3">
+<!ENTITY smtp.label "SMTP">
+<!ENTITY autodetect.label "Autodetekce">
+<!-- LOCALIZATION NOTE(noEncryption.label): Neither SSL/TLS nor STARTTLS.
+     Transmission of emails in cleartext over the Internet. -->
 <!ENTITY noEncryption.label "Žádné">
 <!ENTITY starttls.label "STARTTLS">
 <!ENTITY sslTls.label "SSL/TLS">
 
-<!ENTITY imap.label "IMAP">
-<!ENTITY pop.label "POP">
-<!ENTITY smtp.label "SMTP">
-<!ENTITY imap.description "IMAP - umožní přístup ke složkám a poště z více počítačů">
-<!ENTITY pop.description "POP - stáhne všechny zprávy do místních složek na tomto počítači">
-<!ENTITY recommended-appendix.label "(doporučeno)">
-
-<!ENTITY manualSetup.label "Ruční nastavení…">
-<!ENTITY manualSetup.accesskey "R">
+<!ENTITY advancedSetup.label "Rozšířené nastavení">
+<!ENTITY advancedSetup.accesskey "R">
 <!ENTITY cancel.label "Zrušit">
 <!ENTITY cancel.accesskey "Z">
 <!ENTITY continue.label "Pokračovat">
 <!ENTITY continue.accesskey "P">
-<!ENTITY startOver.label "Začít znovu">
-<!ENTITY startOver.accesskey "n">
 <!ENTITY stop.label "Zastavit">
 <!ENTITY stop.accesskey "s">
-<!-- LOCALIZATION NOTE (retest.label): This is the text that is
-     displayed on the button which will re-guess the account configuration,
-     taking into account the settings the user has changed. -->
-<!ENTITY retest.label "Znovu otestovat nastavení">
-<!ENTITY retest.accesskey "o">
-<!ENTITY edit.label "Upravit">
-<!ENTITY edit.accesskey "U">
+<!-- LOCALIZATION NOTE (half-manual-test.label): This is the text that is
+     displayed on the button in manual edit mode which will re-guess
+     the account configuration, taking into account the settings that
+     the user has manually changed. -->
+<!ENTITY half-manual-test.label "Znovu otestovat">
+<!ENTITY half-manual-test.accesskey "Z">
+<!ENTITY manual-edit.label "Ruční nastavení">
+<!ENTITY manual-edit.accesskey "u">
 
-<!ENTITY rememberPassword.label "Zapamatovat si heslo">
-<!ENTITY rememberPassword.accesskey "Z">
 
 <!ENTITY warning.label "Upozornění!">
 <!ENTITY incomingSettings.label "Příchozí nastavení:">

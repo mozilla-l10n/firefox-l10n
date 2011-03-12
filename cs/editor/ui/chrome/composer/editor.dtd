@@ -58,3 +58,28 @@
 <!-- Format menu items -->
 <!ENTITY formatMenu.label "Formát">
 <!ENTITY formatMenu.accesskey "F">
+
+<!-- Display Mode toolbar and View menu items -->
+<!ENTITY NormalModeTab.label "Normální">
+<!ENTITY NormalMode.label "Normální režim úprav">
+<!ENTITY NormalMode.accesskey "N">
+<!ENTITY NormalMode.tooltip "Zobrazí rámečky tabulek a názvy kotev">
+<!ENTITY AllTagsModeTab.label "HTML značky">
+<!ENTITY AllTagsMode.label "HTML značky">
+<!ENTITY AllTagsMode.accesskey "a">
+<!ENTITY AllTagsMode.tooltip "Zobrazí ikony pro všechny HTML značky">
+<!-- LOCALIZATION NOTE: (HTMLSourceModeTab.dir, HTMLSourceModeTab.label)
+     Do NOT translate text for 'HTMLSourceModeTab.dir', use latin "ltr" if
+     you want the <html> image to left of the 'HTMLSourceModeTab.label' text,
+     or use latin "rtl" if you want this image to the right of text. You do
+     not need to include HTML in the label 'HTMLSourceModeTab.label' -->
+<!ENTITY HTMLSourceModeTab.dir "ltr">
+<!ENTITY HTMLSourceModeTab.label "Zdrojový kód">
+<!ENTITY HTMLSourceMode.label "Zdrojový HTML kód">
+<!ENTITY HTMLSourceMode.accesskey "H">
+<!ENTITY HTMLSourceMode.tooltip "Úprava zdrojového kódu">
+<!ENTITY PreviewModeTab.label "Náhled">
+<!ENTITY PreviewMode.label "Náhled">
+<!ENTITY PreviewMode.accesskey "l">
+<!ENTITY PreviewMode.tooltip "Zobrazí stránku jako v prohlížeči">
+
