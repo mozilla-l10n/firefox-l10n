@@ -56,7 +56,7 @@
 <!ENTITY pref.calendar.advanced.savedPasswords.intro "&brandShortName; getur munað öll lykilorð fyrir dagatölin þín þannig að þú þurfir ekki að slá aftur inn lykilorð.">
 <!ENTITY pref.calendar.advanced.useMasterPassword.label "Nota eitt aðallykilorð til að dulkóða önnur vistuð lykilorð">
 <!ENTITY pref.calendar.advanced.useMasterPassword.accesskey "N">
-<!ENTITY pref.calendar.advanced.masterPassword.intro "Ef þetta er virkt, þá mun aðallykilorð vernda öll önnur lykilorð, en þú verður að slá það inn í eitt skipti fyrir hverja lotu.">
+<!ENTITY pref.calendar.advanced.masterPassword.intro "Ef þetta er virkt, þá mun aðallykilorð vernda öll önnur lykilorð, en þú verður að slá það inn í eitt skipti fyrir hverja vafralotu.">
 <!ENTITY pref.calendar.advanced.changeMasterPassword.label "Breyta aðallykilorði…">
 <!ENTITY pref.calendar.advanced.changeMasterPassword.accesskey "B">
 <!ENTITY pref.calendar.advanced.viewPasswords.label "Skoða vistuð lykilorð…">

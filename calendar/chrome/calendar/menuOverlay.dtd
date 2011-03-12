@@ -45,9 +45,9 @@
 <!ENTITY event.new.event "Nýr atburður…">
 <!ENTITY event.new.event.key "N">
 <!ENTITY event.new.event.accesskey "N">
-<!ENTITY event.new.todo "Nýtt verk…">
-<!ENTITY event.new.todo.key "T">
-<!ENTITY event.new.todo.accesskey "v">
+<!ENTITY event.new.task "Nýtt verk…">
+<!ENTITY event.new.task.key "K">
+<!ENTITY event.new.task.accesskey "k">
 <!ENTITY calendar.new.server.label "Nýtt dagatal…">
 <!ENTITY calendar.new.server.key "D">
 <!ENTITY calendar.new.server.accesskey "d">

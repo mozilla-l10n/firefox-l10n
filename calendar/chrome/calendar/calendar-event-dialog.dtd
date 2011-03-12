@@ -27,6 +27,7 @@
    -   Hubert Gajewski <hubert@hubertgajewski.com>, Aviary.pl
    -   Fred Jendrzejewski <fred.jen@web.de>
    -   Simon Vaillancourt <simon.at.orcl@gmail.com>   
+   -   Gianfranco Balza <bv1578@gmail.com>
    -
    - Alternatively, the contents of this file may be used under the terms of
    - either the GNU General Public License Version 2 or later (the "GPL"), or
@@ -43,6 +44,8 @@
    - ***** END LICENSE BLOCK ***** -->
 
 <!ENTITY event.title.label "Breyta atriði">
+<!ENTITY event.dialog.keepDurationButton.tooltip "Viðhalda tímalengd þegar endadagsetningu er breytt">
+<!ENTITY event.dialog.keepDurationButton.accesskey "V">
 <!ENTITY newevent.from.label "Frá">
 <!ENTITY newevent.to.label "Til">
 <!ENTITY newevent.attendees.notify.label "Tilkynna þátttakendum">
@@ -96,8 +99,8 @@
 <!ENTITY event.menu.item.saveandclose.accesskey "l">
 <!ENTITY event.menu.item.delete.label "Eyða…">
 <!ENTITY event.menu.item.delete.accesskey "E">
-<!ENTITY event.menu.item.page.setup.label "Síðuuppsetning">
-<!ENTITY event.menu.item.page.setup.accesskey "u">
+<!ENTITY event.menu.item.page.setup.label "Uppsetning síðu">
+<!ENTITY event.menu.item.page.setup.accesskey "U">
 <!ENTITY event.menu.item.print.label "Prenta">
 <!ENTITY event.menu.item.print.accesskey "P">
 <!ENTITY event.menu.edit.label "Breyta">
@@ -348,6 +351,10 @@
 <!-- Read-Only dialog -->
 <!ENTITY read.only.general.label "Almennt">
 <!ENTITY read.only.title.label "Titill:">
+<!ENTITY read.only.event.start.label "Byrjunardagsetning:">
+<!ENTITY read.only.task.start.label "Byrjunardagsetning:">
+<!ENTITY read.only.event.end.label "Lokadagsetning:">
+<!ENTITY read.only.task.due.label "Endadagsetning:">
 <!ENTITY read.only.repeat.label "Endurtaka:">
 <!ENTITY read.only.location.label "Staðsetning:">
 <!ENTITY read.only.category.label "Flokkur:">

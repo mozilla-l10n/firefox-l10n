@@ -42,6 +42,8 @@
 <!ENTITY editorWindow.titlemodifiermenuseparator " - ">
 <!-- Menu items:  the . means that the menu item isn't implemented yet -->
 
+<!-- Toolbar-only items -->
+<!ENTITY compositionToolbar.tooltip "Samsetningarslá">
 <!-- View menu items -->
 <!ENTITY viewMenu.label "Skoða
 ">
@@ -55,3 +57,26 @@
 <!-- Format menu items -->
 <!ENTITY formatMenu.label "Snið">
 <!ENTITY formatMenu.accesskey "ð">
+<!-- Display Mode toolbar and View menu items -->
+<!ENTITY NormalModeTab.label "Venjulegur">
+<!ENTITY NormalMode.label "Venjulegur rithamur">
+<!ENTITY NormalMode.accesskey "n">
+<!ENTITY NormalMode.tooltip "Sýna töfluramma og markstiklur">
+<!ENTITY AllTagsModeTab.label "HTML Tög">
+<!ENTITY AllTagsMode.label "HTML Tög">
+<!ENTITY AllTagsMode.accesskey "ö">
+<!ENTITY AllTagsMode.tooltip "Sýna tákn fyrir öll HTML tög">
+<!-- LOCALIZATION NOTE: (HTMLSourceModeTab.dir, HTMLSourceModeTab.label)
+     Do NOT translate text for 'HTMLSourceModeTab.dir', use latin "ltr" if
+     you want the <html> image to left of the 'HTMLSourceModeTab.label' text,
+     or use latin "rtl" if you want this image to the right of text. You do
+     not need to include HTML in the label 'HTMLSourceModeTab.label' -->
+<!ENTITY HTMLSourceModeTab.dir "ltr">
+<!ENTITY HTMLSourceModeTab.label "Uppruni">
+<!ENTITY HTMLSourceMode.label "HTML frumkóði">
+<!ENTITY HTMLSourceMode.accesskey "H">
+<!ENTITY HTMLSourceMode.tooltip "Breyta HTML frumkóða">
+<!ENTITY PreviewModeTab.label "Forskoða">
+<!ENTITY PreviewMode.label "Forskoða">
+<!ENTITY PreviewMode.accesskey "F">
+<!ENTITY PreviewMode.tooltip "Sýna sem WYSIWYG (eins og í vafranum)">

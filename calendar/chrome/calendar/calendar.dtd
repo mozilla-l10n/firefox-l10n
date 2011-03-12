@@ -76,7 +76,7 @@
 <!ENTITY calendar.unifinder.tree.location.label "Staðsetning">
 <!ENTITY calendar.unifinder.tree.status.label "Staða">
 <!ENTITY calendar.unifinder.tree.calendarname.label "Nafn dagatals">
-<!ENTITY calendar.unifinder.tree.duration.label "Framkæmist fyrir">
+<!ENTITY calendar.unifinder.tree.duration.label "Framkvæmist fyrir">
 <!ENTITY calendar.unifinder.close.tooltip "Loka atburðaleit og atburðalista">
 <!ENTITY calendar.today.button.tooltip "Hoppa á daginn í dag">
 <!ENTITY calendar.todaypane.button.tooltip "Sýn dagsins í dag">
@@ -135,6 +135,15 @@
 <!ENTITY calendar.task.filter.completed.accesskey "L">
 <!ENTITY calendar.task.filter.open.label "Ólokin verk">
 <!ENTITY calendar.task.filter.open.accesskey "l">
+<!-- LOCALIZATION NOTE(calendar.task.filter.current.label)
+     "Current Tasks" will show all tasks, except those with a start date set
+     that is after today and after the selected date. If a task repeats, a
+     separate entry will be shown for each of the occurrences that happen on or
+     before today (or the selected date, whichever is later). -->
+<!ENTITY calendar.task.filter.current.label "Núverandi verk">
+<!ENTITY calendar.task.filter.current.accesskey "v">
+<!ENTITY calendar.task.filter.repeating.label "Endurtekin verk">
+<!ENTITY calendar.task.filter.repeating.accesskey "r">
 <!ENTITY calendar.task-details.title.label "titli">
 <!ENTITY calendar.task-details.organizer.label "frá">
 <!ENTITY calendar.task-details.priority.label "forgangur">
@@ -145,6 +154,8 @@
 <!ENTITY calendar.task-details.category.label "flokkur">
 <!ENTITY calendar.task-details.repeat.label "endurtaka">
 <!ENTITY calendar.task-details.attachments.label "viðhengi">
+<!ENTITY calendar.task-details.start.label "byrjunardagsetning">
+<!ENTITY calendar.task-details.due.label "endadagsetning">
 <!ENTITY calendar.task.category.button.tooltip "Flokka verk">
 <!ENTITY calendar.task.complete.button.tooltip "Merkja valinn verk sem lokið">
 <!ENTITY calendar.task.priority.button.tooltip "Breyta forgangi">
@@ -159,34 +170,22 @@
 <!ENTITY calendar.context.newevent.accesskey "N">
 <!ENTITY calendar.context.newtodo.label "Nýtt verk…">
 <!ENTITY calendar.context.newtodo.accesskey "v">
-<!ENTITY calendar.context.modifytask.label "Breyta verki…">
-<!ENTITY calendar.context.modifytask.accesskey "r">
-<!ENTITY calendar.context.modifyitem.label "Breyta atriði">
-<!ENTITY calendar.context.modifyitem.accesskey "e">
 <!ENTITY calendar.context.deletetask.label "Eyða verki">
 <!ENTITY calendar.context.deletetask.accesskey "y">
-<!ENTITY calendar.context.deleteitem.label "Eyða">
-<!ENTITY calendar.context.deleteitem.accesskey "E">
 <!ENTITY calendar.context.deleteevent.label "Eyða atburði">
 <!ENTITY calendar.context.deleteevent.accesskey "a">
-<!ENTITY calendar.context.deletethisevent.label "Þessi atburður">
-<!ENTITY calendar.context.deletethisevent.accesskey "t">
-<!ENTITY calendar.context.deletecompleteseries.label "Allir atburðir">
-<!ENTITY calendar.context.deletecompleteseries.accesskey "A">
-<!ENTITY calendar.context.deletefutureevents.label "Framtíðaratburðir">
-<!ENTITY calendar.context.deletefutureevents.accesskey "F">
-<!ENTITY calendar.context.deletefuturetasks.label "Framtíðarverk">
-<!ENTITY calendar.context.deletefuturetasks.accesskey "F">
 <!ENTITY calendar.context.cutevent.label "Klippa">
 <!ENTITY calendar.context.cutevent.accesskey "K">
 <!ENTITY calendar.context.copyevent.label "Afrita">
 <!ENTITY calendar.context.copyevent.accesskey "A">
 <!ENTITY calendar.context.pasteevent.label "Líma">
 <!ENTITY calendar.context.pasteevent.accesskey "L">
-<!ENTITY calendar.context.selectall.label "Velja allt">
-<!ENTITY calendar.context.selectall.accesskey "j">
 <!ENTITY calendar.context.button.label "Dagurinn í dag">
 <!ENTITY calendar.context.button.accesskey "D">
+<!ENTITY calendar.context.attendance.menu.label "Þátttaka">
+<!ENTITY calendar.context.attendance.menu.accesskey "Þ">
+<!ENTITY calendar.context.attendance.occurrence.label "Þetta tilvik">
+<!ENTITY calendar.context.attendance.all.label "Alla röðina">
 <!-- Task Context Menu -->
 <!ENTITY calendar.context.progress.label "Framvinda">
 <!ENTITY calendar.context.progress.accesskey "F">
@@ -215,6 +214,11 @@
 <!ENTITY priority.level.normal.accesskey "n">
 <!ENTITY priority.level.high "Hár">
 <!ENTITY priority.level.high.accesskey "H">
+<!-- Task View -->
+<!-- Note that the above *.context.* strings are currently used for the other
+     task action buttons -->
+<!ENTITY calendar.taskview.delete.label "Eyða">
+<!ENTITY calendar.taskview.delete.accesskey "ð">
 <!-- Server Context Menu -->
 <!ENTITY calendar.context.newserver.label "Nýtt dagatal…">
 <!ENTITY calendar.context.newserver.accesskey "N">
@@ -262,6 +266,11 @@
 <!ENTITY calendar.alarm.snooze.1hour.label "1 klukkustund">
 <!ENTITY calendar.alarm.snooze.2hours.label "2 klukkustundir">
 <!ENTITY calendar.alarm.snooze.1day.label "1 dagur">
+<!-- LOCALIZATION NOTE (calendar.alarm.snooze.cancel)
+     This string is not seen in the UI, it is read by screen readers when the
+     user focuses the "Cancel" button in the "Snooze for..." popup of the alarm
+     dialog. -->
+<!ENTITY calendar.alarm.snooze.cancel "Hætta við blund">
 <!-- Calendar Server Dialog -->
 <!ENTITY calendar.server.dialog.title.edit "Breyta dagatali">
 <!ENTITY calendar.server.dialog.name.label "Nafn dagatals:">
@@ -272,6 +281,8 @@
 <!ENTITY calendarproperties.wcap.label "Sun Java System Calendar Þjónn (WCAP)">
 <!ENTITY calendarproperties.format.label "Snið:">
 <!ENTITY calendarproperties.location.label "Staðsetning:">
+<!ENTITY calendarproperties.refreshInterval.label "Endurnýja dagatal:">
+<!ENTITY calendarproperties.refreshInterval.manual.label "Handvirkt">
 <!ENTITY calendarproperties.name.label "Nafn:">
 <!ENTITY calendarproperties.readonly.label "Skrifvarin">
 <!ENTITY calendarproperties.firealarms.label "Sýna viðvörun">

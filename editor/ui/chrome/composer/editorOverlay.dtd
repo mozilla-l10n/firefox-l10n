@@ -76,8 +76,8 @@
 <!ENTITY previewCmd.accesskey "S">
 <!ENTITY sendPageCmd.label "Senda síðu…">
 <!ENTITY sendPageCmd.accesskey "d">
-<!ENTITY printSetupCmd.label "Síðuuppsetning…">
-<!ENTITY printSetupCmd.accesskey "u">
+<!ENTITY printSetupCmd.label "Uppsetning síðu…">
+<!ENTITY printSetupCmd.accesskey "U">
 <!ENTITY printCmd.label "Prenta…">
 <!ENTITY printCmd.accesskey "P">
 <!ENTITY printCmd.key "P">
@@ -384,7 +384,6 @@
 <!ENTITY tableProperties.accesskey "g">
 <!-- Toolbar-only items -->
 <!ENTITY menuBar.tooltip "Valmynd">
-<!ENTITY compositionToolbar.tooltip "Samsetningarslá">
 <!ENTITY formatToolbar.tooltip "Sniðslá">
 <!ENTITY newToolbarCmd.tooltip "Búa til nýja síðu í ritli">
 <!ENTITY openToolbarCmd.label "Opna">
@@ -428,30 +427,7 @@
 <!ENTITY alignLeftButton.tooltip "Vinstristilla texta">
 <!ENTITY alignCenterButton.tooltip "Miðja texta">
 <!ENTITY alignRightButton.tooltip "Hægristilla texta">
-<!ENTITY alignjustifyButton.tooltip "Jafna texta bæði eftir vinstri og hægri spássíu">
-<!-- Display Mode toolbar and View menu items -->
-<!ENTITY NormalModeTab.label "Venjulegt">
-<!ENTITY NormalMode.label "Venjulegur rithamur">
-<!ENTITY NormalMode.accesskey "n">
-<!ENTITY NormalMode.tooltip "Sýna töfluramma og markstiklur">
-<!ENTITY AllTagsMode.label "HTML Tög">
-<!ENTITY AllTagsMode.accesskey "ö">
-<!ENTITY AllTagsMode.tooltip "Sýna tákn fyrir öll HTML tög">
-<!ENTITY HTMLSourceMode.label "HTML frumkóði">
-<!-- Toolbar has an image with "HTML" text, so don't include it in the string -->
-<!ENTITY SourceMode.label "Uppruni">
-<!ENTITY HTMLSourceMode.accesskey "H">
-<!ENTITY HTMLSourceMode.tooltip "Breyta HTML frumkóða">
-<!ENTITY PreviewMode.label "Forskoða">
-<!ENTITY PreviewMode.accesskey "F">
-<!ENTITY PreviewMode.tooltip "Sýna sem WYSIWYG (eins og í vafranum)">
-<!-- LOCALIZATION NOTE: Do NOT translate text for 'SourceTabDirection'
-     Use latin "ltr" if you want the <html> image to left of the 
-     'SourceMode.label' text defined above,
-     or use latin "rtl" if you want this image to the right of text
-     This is the value of the HTML 'dir' attribute
--->
-<!ENTITY SourceTabDirection "ltr">
+<!ENTITY alignJustifyButton.tooltip "Jafna texta bæði eftir vinstri og hægri spássíu">
 <!-- Structure Toolbar Context Menu items -->
 <!ENTITY structSelect.label "Velja">
 <!ENTITY structSelect.accesskey "V">

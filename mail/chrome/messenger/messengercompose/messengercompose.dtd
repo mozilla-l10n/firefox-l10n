@@ -41,8 +41,8 @@
 <!ENTITY sendLaterCmd.label "Senda síðar">
 <!ENTITY sendLaterCmd.keycode "VK_RETURN">
 <!ENTITY sendLaterCmd.accesskey "ð">
-<!ENTITY printSetupCmd.label "Síðuuppsetning…">
-<!ENTITY printSetupCmd.accesskey "u">
+<!ENTITY printSetupCmd.label "Uppsetning síðu…">
+<!ENTITY printSetupCmd.accesskey "U">
 <!ENTITY printCmd.label "Prenta…">
 <!ENTITY printCmd.key "P">
 <!ENTITY printCmd.accesskey "P">
@@ -227,7 +227,8 @@
  
 <!ENTITY subject.label "Efni:">
 <!ENTITY subject.accesskey "f">
-<!ENTITY attachments.label "Viðhengi:">
+<!-- LOCALIZATION NOTE attachments.accesskey This access key should correspond
+     to the strings in attachmentCount in composeMsgs.properties -->
 <!ENTITY attachments.accesskey "V">
 <!-- Format Toolbar, imported from editorAppShell.xul -->
 <!ENTITY SmileButton.tooltip "Setja inn broskarl">
@@ -277,5 +278,8 @@
 <!ENTITY attachFile.accesskey "B">
 <!ENTITY attachPage.label "Bæta við vefsíðu…">
 <!ENTITY attachPage.accesskey "v">
+<!-- Spell checker context menu items -->
+<!ENTITY spellAddDictionaries.label "Bæta við orðasöfnum…">
+<!ENTITY spellAddDictionaries.accesskey "a">
 <!-- Title for the address picker panel -->
 <!ENTITY addressesSidebarTitle.label "Tengiliðir">

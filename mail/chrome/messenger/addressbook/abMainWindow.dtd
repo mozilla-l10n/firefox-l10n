@@ -22,8 +22,8 @@
 <!ENTITY closeCmd.label "Loka">
 <!ENTITY closeCmd.key "W">
 <!ENTITY closeCmd.accesskey "L">
-<!ENTITY printSetupCmd.label "Síðuuppsetning…">
-<!ENTITY printSetupCmd.accesskey "u">
+<!ENTITY printSetupCmd.label "Uppsetning síðu…">
+<!ENTITY printSetupCmd.accesskey "U">
 <!ENTITY printPreviewContactCmd.label "Prentskoða tengilið">
 <!ENTITY printPreviewContactCmd.accesskey "t">
 <!ENTITY printPreviewAddressBook.label "Prentskoða nafnaskrá">

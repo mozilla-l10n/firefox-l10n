@@ -29,7 +29,7 @@
 <!ENTITY savedPasswords.intro "&brandShortName; getur munað öll þín lykilorð þannig að þú þurfir ekki að slá þau inn aftur.">
 <!ENTITY useMasterPassword.label "Nota aðallykilorð">
 <!ENTITY useMasterPassword.accesskey "N">
-<!ENTITY masterPassword.intro "Aðallykilorð verndar öll önnur lykilorð en þú verður að slá það inn í hverri lotu.">
+<!ENTITY masterPassword.intro "Aðallykilorð verndar öll önnur lykilorð en þú verður að slá það inn í hverri vafralotu.">
 <!ENTITY changeMasterPassword.label "Breyta aðallykilorði…">
 <!ENTITY changeMasterPassword.accesskey "B">
 <!ENTITY savedPasswords.label "Vistuð lykilorð…">

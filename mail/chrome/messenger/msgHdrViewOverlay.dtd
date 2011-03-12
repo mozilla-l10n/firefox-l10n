@@ -100,6 +100,8 @@
 <!ENTITY saveAsAttachmentCmd.accesskey "e">
 <!ENTITY detachAttachmentCmd.label "Aftengja…">
 <!ENTITY deleteAttachmentCmd.label "Eyða">
+<!ENTITY openAllAttachmentsCmd.label "Open All…">
+<!ENTITY openAllAttachmentsCmd.accesskey "O">
 <!ENTITY saveAllAttachmentsCmd.label "Vista öll…">
 <!ENTITY saveAllAttachmentsCmd.accesskey "a">
 <!ENTITY detachAllAttachmentsCmd.label "Aftengja öll…">

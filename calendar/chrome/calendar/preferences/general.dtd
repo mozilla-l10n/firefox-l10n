@@ -49,6 +49,3 @@
 <!ENTITY pref.defaultlength.accesskey "a">
 <!ENTITY pref.defaultsnoozelength.label "Sjálfgefin lengd blundar:">
 <!ENTITY pref.defaultsnoozelength.accesskey "b">
-<!ENTITY pref.refreshbox.label "Endurnýjunar stillingar">
-<!ENTITY pref.autorefresh.label "Endurnýja dagatal á">
-<!ENTITY pref.autorefresh.accesskey "E">

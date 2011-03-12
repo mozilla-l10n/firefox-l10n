@@ -4,7 +4,7 @@
 <!ENTITY actionColumn2.accesskey "A">
 <!ENTITY focusSearch1.key "f">
 <!ENTITY focusSearch2.key "k">
-<!ENTITY filter.emptytext "Leita">
+<!ENTITY filter.placeholder "Leita">
 <!ENTITY saveTo.label "Vista skrár yfir á">
 <!ENTITY saveTo.accesskey "s">
 <!ENTITY alwaysAsk.label "Alltaf spyrja hvar á að vista skrár">

@@ -4,10 +4,21 @@
 <!-- File Menu -->
 <!ENTITY newFolderCmd.label "Mappa…">
 <!ENTITY newFolderCmd.accesskey "M">
-<!ENTITY closeTabCmd.label "Loka flipa">
-<!ENTITY closeTabCmd.accesskey "L">
-<!ENTITY closeOtherTabsCmd.label "Loka öðrum flipum">
-<!ENTITY closeOtherTabsCmd.accesskey "o">
+<!ENTITY closeTabCmd2.label "Loka flipa">
+<!ENTITY closeTabCmd2.accesskey "L">
+<!ENTITY closeOtherTabsCmd2.label "Loka öðrum flipum">
+<!ENTITY closeOtherTabsCmd2.accesskey "o">
+<!-- LOCALIZATION NOTE (undoCloseTabCmd.label):
+     Menu option to attempt to re-open a recently closed tab.
+     -->
+<!ENTITY undoCloseTabCmd.label "Afturkalla loka flipa">
+<!ENTITY undoCloseTabCmd.accesskey "u">
+<!-- LOCALIZATION NOTE (moveToNewWindow.label):
+     Menu option to cause the current tab to be migrated to a new Thunderbird
+     window.
+     -->
+<!ENTITY moveToNewWindow.label "Færa yfir í nýjan glugga">
+<!ENTITY moveToNewWindow.accesskey "g">
 <!ENTITY newVirtualFolderCmd.label "Vistuð leit…">
 <!ENTITY newVirtualFolderCmd.accesskey "V">
 <!ENTITY newOtherAccountsCmd.label "Aðrir reikningar…">
@@ -47,13 +58,13 @@
 <!ENTITY compactFolders.accesskey "Þ">
 <!ENTITY emptyTrashCmd.label "Tæma rusl">
 <!ENTITY emptyTrashCmd.accesskey "T">
-<!ENTITY offlineMenu.label "Ótengdur">
+<!ENTITY offlineMenu.label "Ónettengdur">
 <!ENTITY offlineMenu.accesskey "g">
-<!ENTITY offlineGoOfflineCmd.label "Vinna ótengdur">
+<!ENTITY offlineGoOfflineCmd.label "Vinna án nettengingar">
 <!ENTITY offlineGoOfflineCmd.accesskey "V">
 <!ENTITY synchronizeOfflineCmd.label "Niðurhala/Samstilla núna…">
 <!ENTITY synchronizeOfflineCmd.accesskey "S">
-<!ENTITY settingsOfflineCmd.label 'Stillingar fyrir "ótengdur"…'>
+<!ENTITY settingsOfflineCmd.label "Stillingar fyrir vinna án nettengingar…">
 <!ENTITY settingsOfflineCmd.accesskey "e">
 <!ENTITY downloadSelectedCmd.label "Ná í valinn póst">
 <!ENTITY downloadSelectedCmd.accesskey "l">
@@ -64,21 +75,17 @@
 <!ENTITY printCmd.key "p">
 <!ENTITY printPreviewCmd.label "Prentskoðun">
 <!ENTITY printPreviewCmd.accesskey "ð">
-<!ENTITY printSetupCmd.label "Síðuuppsetning…">
-<!ENTITY printSetupCmd.accesskey "u">
+<!ENTITY printSetupCmd.label "Uppsetning síðu…">
+<!ENTITY printSetupCmd.accesskey "U">
 <!-- Edit Menu -->
 <!ENTITY deleteMsgCmd.label "Eyða pósti">
 <!ENTITY deleteMsgCmd.accesskey "y">
 <!ENTITY undeleteMsgCmd.label "Endurheimta póst">
 <!ENTITY undeleteMsgCmd.accesskey "d">
-<!ENTITY cancelNewsMsgCmd.label "Hætta við boð">
-<!ENTITY cancelNewsMsgCmd.accesskey "H">
 <!ENTITY deleteMsgsCmd.label "Eyða völdum póstum">
 <!ENTITY deleteMsgsCmd.accesskey "E">
 <!ENTITY undeleteMsgsCmd.label "Endurheimta valinn póst">
 <!ENTITY undeleteMsgsCmd.accesskey "d">
-<!ENTITY cancelNewsMsgsCmd.label "Hætta við valinn póst">
-<!ENTITY cancelNewsMsgsCmd.accesskey "v">
 <!ENTITY deleteFolderCmd.label "Eyða möppu">
 <!ENTITY deleteFolderCmd.accesskey "E">
 <!ENTITY unsubscribeNewsgroupCmd.label "Afpanta áskrift">
@@ -298,6 +305,10 @@ you can use these alternative items. Otherwise, their values should be empty.  -
 <!ENTITY goBackCmd.commandKey "[">
 <!ENTITY prevStarredMsgCmd.label "Stjörnumerktur póstur">
 <!ENTITY prevStarredMsgCmd.accesskey "S">
+<!ENTITY folderMenu.label "Mappa">
+<!ENTITY folderMenu.accesskey "a">
+<!ENTITY thisFolder.label "Þessi mappa">
+<!ENTITY thisFolder.accesskey "m">
 <!ENTITY startPageCmd.label "Upphafssíða">
 <!ENTITY startPageCmd.accesskey "U">
 <!-- Message Menu -->
@@ -310,6 +321,8 @@ you can use these alternative items. Otherwise, their values should be empty.  -
 <!ENTITY archiveMsgCmd.label "Safna">
 <!ENTITY archiveMsgCmd.accesskey "a">
 <!ENTITY archiveMsgCmd.key "a">
+<!ENTITY cancelNewsMsgCmd.label "Hætta við boð">
+<!ENTITY cancelNewsMsgCmd.accesskey "H">
 <!ENTITY replyMsgCmd.label "Svara">
 <!ENTITY replyMsgCmd.accesskey "r">
 <!ENTITY replyMsgCmd.key "r">
@@ -378,6 +391,9 @@ you can use these alternative items. Otherwise, their values should be empty.  -
 <!ENTITY markAsReadCmd.label "Sem lesið">
 <!ENTITY markAsReadCmd.accesskey "l">
 <!ENTITY markAsReadCmd.key "m">
+<!ENTITY markAsUnreadCmd.label "Sem ólesið">
+<!ENTITY markAsUnreadCmd.accesskey "ð">
+<!ENTITY markAsUnreadCmd.key "m">
 <!ENTITY markThreadAsReadCmd.label "Umræðu sem lesna">
 <!ENTITY markThreadAsReadCmd.accesskey "U">
 <!ENTITY markThreadAsReadCmd.key "r">
@@ -552,7 +568,7 @@ you can use these alternative items. Otherwise, their values should be empty.  -
 <!ENTITY SearchNameOrEmail.label "Nafn eða tölvupóstfang inniheldur:">
 <!ENTITY SearchNameOrEmail.accesskey "N">
 <!-- Gloda Search Bar -->
-<!ENTITY glodaSearchBar.emptyText "Leita í póstum…">
+<!ENTITY glodaSearchBar.placeholder "Leita í póstum…">
 <!-- Quick Search Menu Bar -->
 <!ENTITY searchSubjectMenu.label "Efni">
 <!ENTITY searchFromMenu.label "Frá">
@@ -605,6 +621,10 @@ you can use these alternative items. Otherwise, their values should be empty.  -
 <!-- Thread Pane Context Menu -->
 <!ENTITY contextOpenNewWindow.label "Opna póst í nýjum glugga">
 <!ENTITY contextOpenNewWindow.accesskey "O">
+<!-- The key potentially conflicts with cutCmd.accessKey which is defined in
+     textcontext.dtd from toolkit. Right now, both menu items can't be visible
+     at the same time, but should someone enable copy/paste of message, this key
+     would probably need to be changed. -->
 <!ENTITY contextOpenNewTab.label "Opna póst í nýjum flipa">
 <!ENTITY contextOpenNewTab.accesskey "t">
 <!ENTITY contextOpenConversation.label "Opna póst í samtali">
@@ -757,19 +777,14 @@ you can use these alternative items. Otherwise, their values should be empty.  -
 <!ENTITY CreateFilterFrom.accesskey "f">
 <!ENTITY reportPhishingURL.label "Tilkynna svindlpóst">
 <!ENTITY reportPhishingURL.accesskey "T">
+<!-- Spell checker context menu items -->
+<!ENTITY spellAddDictionaries.label "Bæta við orðasöfnum…">
+<!ENTITY spellAddDictionaries.accesskey "a">
 <!-- Content Pane Context Menu -->
 <!ENTITY saveLinkAsCmd.label "Vista tengil sem…">
 <!ENTITY saveLinkAsCmd.accesskey "V">
 <!ENTITY saveImageAsCmd.label "Vista mynd sem…">
 <!ENTITY saveImageAsCmd.accesskey "V">
-<!ENTITY cutCmd.label "Klippa">
-<!ENTITY cutCmd.accesskey "K">
-<!ENTITY copyCmd.label "Afrita">
-<!ENTITY copyCmd.accesskey "A">
-<!ENTITY pasteCmd.label "Líma">
-<!ENTITY pasteCmd.accesskey "L">
-<!ENTITY selectAllCmd.label "Velja allt">
-<!ENTITY selectAllCmd.accesskey "a">
 <!ENTITY copyLinkCmd.label "Afrita tengil">
 <!ENTITY copyLinkCmd.accesskey "A">
 <!ENTITY copyImageAllCmd.label "Afrita mynd">

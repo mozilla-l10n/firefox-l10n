@@ -1,47 +1,51 @@
 <!ENTITY autoconfigWizard.title "Uppsetning póstreiknings">
 <!ENTITY name.label "Nafnið þitt:">
 <!ENTITY name.accesskey "N">
-<!ENTITY name.emptytext "Skírnarnafn eftirnafn">
+<!ENTITY name.placeholder "Skírnarnafn eftirnafn">
 <!ENTITY name.text "Nafnið þitt, eins og það birtist öðrum">
 <!ENTITY email.label "Tölvupóstfang:">
 <!ENTITY email.accesskey "T">
-<!ENTITY email.emptytext "netfang@example.com">
+<!ENTITY email.placeholder "netfang@example.com">
 <!ENTITY password.label "Lykilorð:">
 <!ENTITY password.accesskey "L">
-<!ENTITY password.emptytext "Lykilorð">
+<!ENTITY password.placeholder "Lykilorð">
 <!ENTITY password.text "Valkvæmt, verður aðeins notað til að staðfesta notandanafnið">
-<!ENTITY accountInformation.label "Upplýsingar reiknings">
-<!ENTITY username2.label "Notandanafn:">
+<!ENTITY rememberPassword.label "Muna lykilorð">
+<!ENTITY rememberPassword.accesskey "M">
+<!ENTITY imapLong.label "IMAP (ytri möppur)">
+<!ENTITY pop3Long.label "POP3 (geyma póst í tölvunni)">
 <!ENTITY incoming.label "Innsent:">
 <!ENTITY outgoing.label "Útsent:">
+<!ENTITY username.label "Notandanafn:">
+<!ENTITY hostname.label "Netnafn þjóns">
+<!ENTITY port.label "Gátt">
+<!ENTITY ssl.label "SSL">
+<!ENTITY auth.label "Auðkenning">
+<!ENTITY imap.label "IMAP">
+<!ENTITY pop3.label "POP3">
+<!ENTITY smtp.label "SMTP">
+<!ENTITY autodetect.label "Leita sjálfkrafa">
+<!-- LOCALIZATION NOTE(noEncryption.label): Neither SSL/TLS nor STARTTLS.
+     Transmission of emails in cleartext over the Internet. -->
 <!ENTITY noEncryption.label "Ekkert">
 <!ENTITY starttls.label "STARTTLS">
 <!ENTITY sslTls.label "SSL/TLS">
-<!ENTITY imap.label "IMAP">
-<!ENTITY pop.label "POP">
-<!ENTITY smtp.label "SMTP">
-<!ENTITY imap.description "IMAP - Aðgangur að möppum og póstum frá mörgum tölvum">
-<!ENTITY pop.description "POP - Hala niður öllum póstum í þessa tölvu, möppur eru aðeins staðbundnar">
-<!ENTITY recommended-appendix.label "(mælt með)">
-<!ENTITY manualSetup.label "Handvirk uppsetning…">
-<!ENTITY manualSetup.accesskey "H">
+<!ENTITY advancedSetup.label "Ítarlegar stillingar">
+<!ENTITY advancedSetup.accesskey "a">
 <!ENTITY cancel.label "Hætta við">
 <!ENTITY cancel.accesskey "v">
 <!ENTITY continue.label "Áfram">
 <!ENTITY continue.accesskey "f">
-<!ENTITY startOver.label "Byrja upp á nýtt">
-<!ENTITY startOver.accesskey "B">
 <!ENTITY stop.label "Stöðva">
 <!ENTITY stop.accesskey "S">
-<!-- LOCALIZATION NOTE (retest.label): This is the text that is
-     displayed on the button which will re-guess the account configuration,
-     taking into account the settings the user has changed. -->
-<!ENTITY retest.label "Prófa aftur stillingar">
-<!ENTITY retest.accesskey "P">
-<!ENTITY edit.label "Breyta">
-<!ENTITY edit.accesskey "B">
-<!ENTITY rememberPassword.label "Muna lykilorð">
-<!ENTITY rememberPassword.accesskey "M">
+<!-- LOCALIZATION NOTE (half-manual-test.label): This is the text that is
+     displayed on the button in manual edit mode which will re-guess
+     the account configuration, taking into account the settings that
+     the user has manually changed. -->
+<!ENTITY half-manual-test.label "Prófa aftur">
+<!ENTITY half-manual-test.accesskey "t">
+<!ENTITY manual-edit.label "Handvirkar stillingar">
+<!ENTITY manual-edit.accesskey "H">
 <!ENTITY warning.label "Viðvörun!">
 <!ENTITY incomingSettings.label "Stillingar fyrir innsendan póst:">
 <!ENTITY outgoingSettings.label "Stillingar fyrir útsendan póst:">

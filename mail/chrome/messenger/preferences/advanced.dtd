@@ -42,8 +42,8 @@
 <!ENTITY reuseExpRadio0.accesskey "n">
 <!ENTITY reuseExpRadio1.label "Í glugga sem er til fyrir">
 <!ENTITY reuseExpRadio1.accesskey "g">
-<!ENTITY closeMsgWindowOnDelete.label "Loka póstglugga við eyðingu">
-<!ENTITY closeMsgWindowOnDelete.accesskey "L">
+<!ENTITY closeMsgOnMoveOrDelete.label "Loka póstglugga/flipa þegar verið er að færa eða eyða">
+<!ENTITY closeMsgOnMoveOrDelete.accesskey "L">
 <!-- Update -->
 <!ENTITY autoCheck.label "Athuga sjálfkrafa uppfærslur fyrir:">
 <!ENTITY enableAppUpdate.label "&brandShortName;">
@@ -64,14 +64,14 @@
 <!ENTITY showSettings.accesskey "n">
 <!ENTITY proxiesConfigure.label "Stilla hvernig &brandShortName; tengist við Internetið">
 <!ENTITY connectionsInfo.caption "Tenging">
-<!ENTITY offlineInfo.caption "Ótengdur">
-<!ENTITY offlineInfo.label "Stilla ótengdar stillingar">
-<!ENTITY showOffline.label "Ótengdur…">
+<!ENTITY offlineInfo.caption "Ónettengdur">
+<!ENTITY offlineInfo.label "Stilla ónettengdar stillingar">
+<!ENTITY showOffline.label "Ónettengdur…">
 <!ENTITY showOffline.accesskey "t">
 <!ENTITY Diskspace "Diskpláss">
 <!ENTITY offlineCompact.label "Þjappa möppum ef það sparar yfir">
 <!ENTITY offlineCompact.accesskey "Þ">
-<!ENTITY kb.label "KB">
+<!ENTITY mb.label "MB">
 <!-- LOCALIZATION NOTE:
   The entities useCacheBefore.label and useCacheAfter.label appear on a single
   line in preferences as follows:

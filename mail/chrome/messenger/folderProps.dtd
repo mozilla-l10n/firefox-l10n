@@ -73,11 +73,11 @@
 <!ENTITY folderSynchronizationTab.label "Samstilling">
 <!ENTITY folderCheckForNewMessages2.label "Alltaf athuga þessa möppu, þegar náð er í nýjan póst fyrir þennan reikning">
 <!ENTITY folderCheckForNewMessages2.accesskey "t">
-<!ENTITY offlineFolder.check.label "Velja þessa möppu fyrir ótengda notkun">
+<!ENTITY offlineFolder.check.label "Velja þessa möppu fyrir ónettengda notkun">
 <!ENTITY offlineFolder.check.accesskey "s">
 <!ENTITY offlineFolder.button.label "Niðurhala núna">
 <!ENTITY offlineFolder.button.accesskey "N">
-<!ENTITY selectofflineNewsgroup.check.label "Velja þennan fréttahóp fyrir ótengda notkun">
+<!ENTITY selectofflineNewsgroup.check.label "Velja þennan fréttahóp fyrir ónettengda notkun">
 <!ENTITY selectofflineNewsgroup.check.accesskey "o">
 <!ENTITY offlineNewsgroup.button.label "Niðurhala núna">
 <!ENTITY offlineNewsgroup.button.accesskey "N">

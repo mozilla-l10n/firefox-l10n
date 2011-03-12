@@ -62,6 +62,8 @@
 <!ENTITY PhoneticField2.label "Heyrist:">
 <!ENTITY DisplayName.label "Birtingarnafn:">
 <!ENTITY DisplayName.accesskey "g">
+<!ENTITY preferDisplayName.label "Alltaf sýna birtingarnafn í staðinn fyrir skilaboðahaus">
+<!ENTITY preferDisplayName.accesskey "A">
 <!ENTITY NickName.label "Gælunafn:">
 <!ENTITY NickName.accesskey "æ">
 <!ENTITY PrimaryEmail.label "Tölvupóstfang:">
@@ -111,9 +113,9 @@ hvort pósturinn sé lesinn. Ef þú hakar við þetta leyfirðu svoleiðis efni
 <!ENTITY Birthday.label "Afmælisdagur:">
 <!ENTITY Birthday.accesskey "æ">
 <!ENTITY In.label "">
-<!ENTITY Year.emptytext "Ár">
+<!ENTITY Year.placeholder "Ár">
 <!ENTITY Or.value "eða">
-<!ENTITY Age.emptytext "Aldur">
+<!ENTITY Age.placeholder "Aldur">
 <!ENTITY YearsOld.label "">
 <!ENTITY Work.tab "Vinna">
 <!ENTITY Work.accesskey "V">
@@ -161,6 +163,6 @@ hvort pósturinn sé lesinn. Ef þú hakar við þetta leyfirðu svoleiðis efni
 <!ENTITY BrowsePhoto.accesskey "e">
 <!ENTITY PhotoURL.label "Á vefnum">
 <!ENTITY PhotoURL.accesskey "f">
-<!ENTITY PhotoURL.emptytext "Límdu eða sláðu inn vefslóð fyrir mynd">
+<!ENTITY PhotoURL.placeholder "Límdu eða sláðu inn vefslóð fyrir mynd">
 <!ENTITY UpdatePhoto.label "Uppfæra">
 <!ENTITY UpdatePhoto.accesskey "U">
