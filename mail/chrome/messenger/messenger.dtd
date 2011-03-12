@@ -650,6 +650,10 @@ you can use these alternative items. Otherwise, their values should be empty.  -
 <!-- Thread Pane Context Menu -->
 <!ENTITY contextOpenNewWindow.label "Otevřít zprávu v novém okně">
 <!ENTITY contextOpenNewWindow.accesskey "z">
+<!-- The key potentially conflicts with cutCmd.accessKey which is defined in
+     textcontext.dtd from toolkit. Right now, both menu items can't be visible
+     at the same time, but should someone enable copy/paste of message, this key
+     would probably need to be changed. -->
 <!ENTITY contextOpenNewTab.label "Otevřít zprávu v novém panelu">
 <!ENTITY contextOpenNewTab.accesskey "p">
 <!ENTITY contextOpenConversation.label "Otevřít zprávu v konverzaci">
@@ -812,19 +816,15 @@ you can use these alternative items. Otherwise, their values should be empty.  -
 <!ENTITY reportPhishingURL.label "Nahlásit podvodný e-mail">
 <!ENTITY reportPhishingURL.accesskey "N">
 
+<!-- Spell checker context menu items -->
+<!ENTITY spellAddDictionaries.label "Přidat slovníky…">
+<!ENTITY spellAddDictionaries.accesskey "P">
+
 <!-- Content Pane Context Menu -->
 <!ENTITY saveLinkAsCmd.label "Uložit cíl odkazu jako…">
 <!ENTITY saveLinkAsCmd.accesskey "k">
 <!ENTITY saveImageAsCmd.label "Uložit obrázek jako…">
 <!ENTITY saveImageAsCmd.accesskey "r">
-<!ENTITY cutCmd.label "Vyjmout">
-<!ENTITY cutCmd.accesskey "y">
-<!ENTITY copyCmd.label "Kopírovat">
-<!ENTITY copyCmd.accesskey "K">
-<!ENTITY pasteCmd.label "Vložit">
-<!ENTITY pasteCmd.accesskey "l">
-<!ENTITY selectAllCmd.label "Vybrat vše">
-<!ENTITY selectAllCmd.accesskey "a">
 <!ENTITY copyLinkCmd.label "Kopírovat adresu odkazu">
 <!ENTITY copyLinkCmd.accesskey "a">
 <!ENTITY copyImageAllCmd.label "Kopírovat obrázek">

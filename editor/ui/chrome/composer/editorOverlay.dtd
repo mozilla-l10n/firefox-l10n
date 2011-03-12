@@ -451,32 +451,6 @@
 <!ENTITY alignRightButton.tooltip "Zarovná text k pravému okraji">
 <!ENTITY alignJustifyButton.tooltip "Zarovná text do bloku">
 
-<!-- Display Mode toolbar and View menu items -->
-<!ENTITY NormalModeTab.label "Normální">
-<!ENTITY NormalMode.label "Normální režim úprav">
-<!ENTITY NormalMode.accesskey "N">
-<!ENTITY NormalMode.tooltip "Zobrazí rámečky tabulek a názvy kotev">
-<!ENTITY AllTagsMode.label "Zobrazit všechny značky">
-<!ENTITY AllTagsMode.accesskey "a">
-<!ENTITY AllTagsMode.tooltip "Zobrazí ikony pro všechny HTML značky">
-
-<!ENTITY HTMLSourceMode.label "Zdrojový HTML kód">
-<!-- Toolbar has an image with "HTML" text, so don't include it in the string -->
-<!ENTITY SourceMode.label "Zdrojový kód">
-<!ENTITY HTMLSourceMode.accesskey "h">
-<!ENTITY HTMLSourceMode.tooltip "Úprava zdrojového kódu">
-<!ENTITY PreviewMode.label "Náhled">
-<!ENTITY PreviewMode.accesskey "l">
-<!ENTITY PreviewMode.tooltip "Zobrazí stránku jako v prohlížeči">
-
-<!-- LOCALIZATION NOTE: Do NOT translate text for 'SourceTabDirection'
-     Use latin "ltr" if you want the <html> image to left of the
-     'SourceMode.label' text defined above,
-     or use latin "rtl" if you want this image to the right of text
-     This is the value of the HTML 'dir' attribute
--->
-<!ENTITY SourceTabDirection "ltr">
-
 <!-- Structure Toolbar Context Menu items -->
 <!ENTITY structSelect.label "Vybrat">
 <!ENTITY structSelect.accesskey "V">

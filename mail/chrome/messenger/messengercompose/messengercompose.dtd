@@ -264,5 +264,9 @@
 <!ENTITY attachPage.label "Připojit WWW stránku…">
 <!ENTITY attachPage.accesskey "W">
 
+<!-- Spell checker context menu items -->
+<!ENTITY spellAddDictionaries.label "Přidat slovníky…">
+<!ENTITY spellAddDictionaries.accesskey "P">
+
 <!-- Title for the address picker panel -->
 <!ENTITY addressesSidebarTitle.label "Adresář">
