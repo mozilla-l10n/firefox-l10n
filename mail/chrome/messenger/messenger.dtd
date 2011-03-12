@@ -39,10 +39,21 @@
 <!-- File Menu -->
 <!ENTITY newFolderCmd.label "Ny mapp…">
 <!ENTITY newFolderCmd.accesskey "p">
-<!ENTITY closeTabCmd.label "Stäng flik">
-<!ENTITY closeTabCmd.accesskey "S">
-<!ENTITY closeOtherTabsCmd.label "Stäng andra flikar">
-<!ENTITY closeOtherTabsCmd.accesskey "a">
+<!ENTITY closeTabCmd2.label "Stäng flik">
+<!ENTITY closeTabCmd2.accesskey "S">
+<!ENTITY closeOtherTabsCmd2.label "Stäng andra flikar">
+<!ENTITY closeOtherTabsCmd2.accesskey "a">
+<!-- LOCALIZATION NOTE (undoCloseTabCmd.label):
+     Menu option to attempt to re-open a recently closed tab.
+     -->
+<!ENTITY undoCloseTabCmd.label "Ångra Stäng flik">
+<!ENTITY undoCloseTabCmd.accesskey "Å">
+<!-- LOCALIZATION NOTE (moveToNewWindow.label):
+     Menu option to cause the current tab to be migrated to a new Thunderbird
+     window.
+     -->
+<!ENTITY moveToNewWindow.label "Flytta till nytt fönster">
+<!ENTITY moveToNewWindow.accesskey "F">
 <!ENTITY newVirtualFolderCmd.label "Ny sparad sökning…">
 <!ENTITY newVirtualFolderCmd.accesskey "s">
 <!ENTITY newOtherAccountsCmd.label "Annat konto…">
