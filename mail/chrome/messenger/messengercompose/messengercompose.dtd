@@ -264,5 +264,9 @@
 <!ENTITY attachPage.label "Bifoga webbsida…">
 <!ENTITY attachPage.accesskey "w">
 
+<!-- Spell checker context menu items -->
+<!ENTITY spellAddDictionaries.label "Lägg till ordlista…">
+<!ENTITY spellAddDictionaries.accesskey "L">
+
 <!-- Title for the address picker panel -->
 <!ENTITY addressesSidebarTitle.label "Kontakter">
