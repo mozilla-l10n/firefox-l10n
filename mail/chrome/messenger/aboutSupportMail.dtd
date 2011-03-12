@@ -1,0 +1,14 @@
+<!ENTITY aboutSupport.appBasicsAppBuildID "Programmets bygg-ID">
+
+<!ENTITY aboutSupport.accountsTitle "E-post och diskussionsgruppskonton">
+<!ENTITY aboutSupport.showPrivateData.mainText "Inkludera kontonamn">
+<!ENTITY aboutSupport.showPrivateData.explanationText "(potentiellt identifierande uppgifter)">
+<!ENTITY aboutSupport.accountsID "ID">
+<!ENTITY aboutSupport.accountsName "Namn">
+<!ENTITY aboutSupport.accountsIncomingServer "Inkommande server">
+<!ENTITY aboutSupport.accountsOutgoingServers "Utgående servrar">
+<!ENTITY aboutSupport.accountsConnSecurity "Anslutningssäkerhet">
+<!ENTITY aboutSupport.accountsAuthMethod "Autentiseringsmetod">
+<!ENTITY aboutSupport.accountsDefault "Standard?">
+
+<!ENTITY aboutSupport.sendViaEmail.label "Skicka med e-post">
