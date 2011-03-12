@@ -45,8 +45,8 @@
 <!ENTITY reuseExpRadio0.accesskey      "e">
 <!ENTITY reuseExpRadio1.label          "befintligt fönster">
 <!ENTITY reuseExpRadio1.accesskey      "b">
-<!ENTITY closeMsgWindowOnDelete.label  "Stäng meddelandefönstret vid borttagning">
-<!ENTITY closeMsgWindowOnDelete.accesskey "S">
+<!ENTITY closeMsgOnMoveOrDelete.label  "Stäng meddelandefönstret/fliken vid flyttning eller borttagning">
+<!ENTITY closeMsgOnMoveOrDelete.accesskey "S">
 
 <!-- Update -->
 <!ENTITY autoCheck.label                "Sök automatiskt efter uppdateringar till:">
