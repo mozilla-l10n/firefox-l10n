@@ -1,32 +1,29 @@
 <!--LOCALIZATION NOTE : FILE UI for Software Updates prefs -->
 <!ENTITY pref.smartUpdate.title "Instalace software">
-<!ENTITY smartTitle.label "Správce instalací a aktualizací">
-<!ENTITY enableSU.label "Povolit instalaci rozšíření a automatickou aktualizaci programového vybavení. (Před aktualizací budete upozorněni.)">
-<!ENTITY enableSU.accesskey "P">
-<!ENTITY viewPermissions.label "Správce oprávnění">
-<!ENTITY viewPermissions.accesskey "S">
-
-<!ENTITY verifyUpdates.caption "Aktualizace">
-<!ENTITY autoUpdates.label "Automaticky kontrolovat aktualizace pro:">
-<!ENTITY appUpdates.label "Aplikace &brandShortName;">
-<!ENTITY appUpdates.accesskey "A">
+<!ENTITY addOnsTitle.label "Doplňky">
+<!ENTITY addOnsAllow.label "Povolit stránkám instalaci doplňků a aktualizací">
+<!ENTITY addOnsAllow.accesskey "P">
+<!ENTITY allowedWebsites.label "Stránky s povolením instalovat">
+<!ENTITY allowedWebsites.accesskey "r">
+<!ENTITY autoAddOnsUpdates.label "Automaticky kontrolovat aktualizace">
+<!ENTITY autoAddOnsUpdates.accesskey "A">
 <!ENTITY daily.label "denně">
-<!ENTITY appDaily.accesskey "d">
+<!ENTITY addOnsDaily.accesskey "d">
 <!ENTITY weekly.label "týdně">
-<!ENTITY appWeekly.accesskey "t">
-<!ENTITY extensionsUpdates.label "Nainstalované doplňky">
-<!ENTITY extensionsUpdates.accesskey "N">
-<!ENTITY extensionsDaily.accesskey "e">
-<!ENTITY extensionsWeekly.accesskey "t">
+<!ENTITY addOnsWeekly.accesskey "t">
+<!ENTITY addOnsModeAutomatic.label "Automaticky aktualizaci stáhnout a nainstalovat">
+<!ENTITY addOnsModeAutomatic.accesskey "o">
 <!ENTITY addonManagerButton.label "Správce doplňků">
-<!ENTITY addonManagerButton.accesskey "d">
+<!ENTITY addonManagerButton.accesskey "S">
 
-<!ENTITY whenUpdatesFound.label "Je-li dostupná aktualizace pro aplikaci &brandShortName;:">
-<!ENTITY askMe.label "Vždy se dotázat na další postup">
-<!ENTITY askMe.accesskey "l">
-<!ENTITY modeAutomatic.label "Automaticky aktualizaci stáhnout a nainstalovat">
-<!ENTITY modeAutomatic.accesskey "t">
-<!ENTITY modeAutoAddonWarn.label "Upozornit, pokud by aktualizace zakázala některé doplňky">
-<!ENTITY modeAutoAddonWarn.accesskey "u">
+<!ENTITY appUpdates.caption "&brandShortName;">
+<!ENTITY autoAppUpdates.label "Automaticky kontrolovat aktualizace">
+<!ENTITY autoAppUpdates.accesskey "m">
+<!ENTITY appDaily.accesskey "e">
+<!ENTITY appWeekly.accesskey "n">
+<!ENTITY appModeAutomatic.label "Automaticky aktualizaci stáhnout a nainstalovat">
+<!ENTITY appModeAutomatic.accesskey "k">
+<!ENTITY appModeAutoAddonWarn.label "Upozornit, pokud by aktualizace zakázala některé doplňky">
+<!ENTITY appModeAutoAddonWarn.accesskey "U">
 <!ENTITY updateHistory.label "Zobrazit historii aktualizací…">
-<!ENTITY updateHistory.accesskey "h">
+<!ENTITY updateHistory.accesskey "Z">
