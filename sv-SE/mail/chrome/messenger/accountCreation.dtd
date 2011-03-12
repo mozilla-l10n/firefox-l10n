@@ -1,14 +1,14 @@
 <!ENTITY autoconfigWizard.title          "Lägg till nytt konto">
 <!ENTITY name.label                      "Ditt namn:">
 <!ENTITY name.accesskey                  "D">
-<!ENTITY name.emptytext                  "Förnamn Efternamn">
+<!ENTITY name.placeholder                "Förnamn Efternamn">
 <!ENTITY name.text                       "Ditt namn, som det visas för andra">
 <!ENTITY email.label                     "E-postadress:">
 <!ENTITY email.accesskey                 "E">
-<!ENTITY email.emptytext                 "email@example.se">
+<!ENTITY email.placeholder               "email@example.se">
 <!ENTITY password.label                  "Lösenord:">
 <!ENTITY password.accesskey              "L">
-<!ENTITY password.emptytext              "Lösenord">
+<!ENTITY password.placeholder            "Lösenord">
 <!ENTITY password.text                   "Frivilligt, kommer endast användas för att bekräfta användarnamnet">
 
 <!ENTITY accountInformation.label        "Kontoinformation">
