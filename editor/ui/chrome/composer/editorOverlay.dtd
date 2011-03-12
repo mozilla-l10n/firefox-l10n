@@ -399,21 +399,6 @@
 <!ENTITY alignCenterButton.tooltip "Allinea il testo al centro">
 <!ENTITY alignRightButton.tooltip "Allinea il testo lungo il margine destro">
 <!ENTITY alignJustifyButton.tooltip "Allinea il testo lungo i margini destro e sinistro">
-<!ENTITY NormalModeTab.label "Normale">
-<!ENTITY NormalMode.label "Modalità modifica normale">
-<!ENTITY NormalMode.accesskey "n">
-<!ENTITY NormalMode.tooltip "Mostra i bordi delle tabelle e le ancore">
-<!ENTITY AllTagsMode.label "Tag HTML">
-<!ENTITY AllTagsMode.accesskey "T">
-<!ENTITY AllTagsMode.tooltip "Mostra icone per tutti i tag HTML">
-<!ENTITY HTMLSourceMode.label "Sorgente HTML">
-<!ENTITY SourceMode.label "Sorgente">
-<!ENTITY HTMLSourceMode.accesskey "S">
-<!ENTITY HTMLSourceMode.tooltip "Modifica il sorgente HTML">
-<!ENTITY PreviewMode.label "Anteprima">
-<!ENTITY PreviewMode.accesskey "A">
-<!ENTITY PreviewMode.tooltip "Mostra come WYSIWYG (come nel browser)">
-<!ENTITY SourceTabDirection "ltr">
 <!ENTITY structSelect.label "Seleziona">
 <!ENTITY structSelect.accesskey "S">
 <!ENTITY structRemoveTag.label "Rimuovi tag">
