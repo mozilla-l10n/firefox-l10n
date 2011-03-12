@@ -12,3 +12,7 @@
 
 <!ENTITY searchOnline.label "Sök online (ger uppdaterade resultat för IMAP och nyhetsmappar men förlänger tiden det tar att öppna mappen)">
 <!ENTITY searchOnline.accesskey "o">
+<!ENTITY newFolderButton.label       "Skapa">
+<!ENTITY newFolderButton.accesskey   "k">
+<!ENTITY editFolderButton.label      "Uppdatera">
+<!ENTITY editFolderButton.accesskey  "U">
