@@ -122,9 +122,9 @@ sådant externt inbäddat innehåll i HTML-meddelanden från den här kontakten.
 <!ENTITY Birthday.label                 "Födelsedag:">
 <!ENTITY Birthday.accesskey             "ö">
 <!ENTITY In.label                       "">
-<!ENTITY Year.emptytext                 "År">
+<!ENTITY Year.placeholder               "År">
 <!ENTITY Or.value                       "eller">
-<!ENTITY Age.emptytext                  "Ålder">
+<!ENTITY Age.placeholder                "Ålder">
 <!ENTITY YearsOld.label                 "">
 
 <!ENTITY Work.tab                       "Arbete">
@@ -175,6 +175,6 @@ sådant externt inbäddat innehåll i HTML-meddelanden från den här kontakten.
 <!ENTITY BrowsePhoto.accesskey          "B">
 <!ENTITY PhotoURL.label                 "På webben">
 <!ENTITY PhotoURL.accesskey             "w">
-<!ENTITY PhotoURL.emptytext             "Klistra eller skriv in webbadressen till ett foto">
+<!ENTITY PhotoURL.placeholder           "Klistra eller skriv in webbadressen till ett foto">
 <!ENTITY UpdatePhoto.label              "Uppdatera">
 <!ENTITY UpdatePhoto.accesskey          "U">

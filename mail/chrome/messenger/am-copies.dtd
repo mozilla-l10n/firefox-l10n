@@ -38,10 +38,10 @@
 <!ENTITY fccReplyFollowsParent.accesskey "b">
 <!ENTITY ccAddress.label "Kopia till dessa adresser:">
 <!ENTITY ccAddress.accesskey "K">
-<!ENTITY ccAddressList.emptytext "Separera adresserna med komman">
+<!ENTITY ccAddressList.placeholder "Separera adresserna med komman">
 <!ENTITY bccAddress.label "Dold kopia till dessa adresser:">
 <!ENTITY bccAddress.accesskey "D">
-<!ENTITY bccAddressList.emptytext "Separera adresserna med komman">
+<!ENTITY bccAddressList.placeholder "Separera adresserna med komman">
 <!ENTITY saveMessageDlg.label "Visa bekräftelse när meddelanden sparas">
 <!ENTITY saveMessageDlg.accesskey "V">
 <!ENTITY sentFolderOn.label "Mappen ”Skickat” i:">
