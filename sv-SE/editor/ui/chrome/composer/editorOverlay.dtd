@@ -407,7 +407,6 @@
 
 <!-- Toolbar-only items -->
 <!ENTITY menuBar.tooltip "Menyrad">
-<!ENTITY compositionToolbar.tooltip "Filverktyg">
 <!ENTITY formatToolbar.tooltip "Formateringsverktyg">
 <!ENTITY newToolbarCmd.tooltip "Skapa en ny sida i Composer">
 <!ENTITY openToolbarCmd.label "Öppna">
