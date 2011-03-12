@@ -78,11 +78,3 @@ LOCALIZATION NOTE : Do not translate any of the occurrences of the word
 
 <!ENTITY title.label              "Titel">
 <!ENTITY processing.label         "Importerar…">
-
-<!ENTITY FieldDiscInputText1.label  "Netscape Communicator 4.x har bara en e-postadress per kontaktkort medan &brandShortName; har två (privat och arbete).">
-<!ENTITY FieldDiscInputText2.label  "Välj var du vill spara importerade e-postadresser:">
-<!ENTITY FieldDiscWarning.label  "Ditt val gäller alla poster: ">
-<!ENTITY importHome.label        "Privat">
-<!ENTITY importHome.accesskey    "P">
-<!ENTITY importWork.label        "Arbete">
-<!ENTITY importWork.accesskey    "A">
