@@ -118,8 +118,6 @@
 <!ENTITY deleteMsgCmd.accesskey "T">
 <!ENTITY undeleteMsgCmd.label "Återställ borttaget meddelande">
 <!ENTITY undeleteMsgCmd.accesskey "l">
-<!ENTITY cancelNewsMsgCmd.label "Återkalla meddelande">
-<!ENTITY cancelNewsMsgCmd.accesskey "t">
 <!ENTITY deleteMsgsCmd.label "Ta bort markerade meddelanden">
 <!ENTITY deleteMsgsCmd.accesskey "T">
 <!ENTITY undeleteMsgsCmd.label "Återställ markerade borttagna meddelanden">
@@ -373,6 +371,8 @@ you can use these alternative items. Otherwise, their values should be empty.  -
 <!ENTITY archiveMsgCmd.label "Arkivera">
 <!ENTITY archiveMsgCmd.accesskey "i">
 <!ENTITY archiveMsgCmd.key  "a">
+<!ENTITY cancelNewsMsgCmd.label "Återkalla meddelande">
+<!ENTITY cancelNewsMsgCmd.accesskey "t">
 <!ENTITY replyMsgCmd.label "Svara">
 <!ENTITY replyMsgCmd.accesskey "S">
 <!ENTITY replyMsgCmd.key  "r">
@@ -859,14 +859,6 @@ you can use these alternative items. Otherwise, their values should be empty.  -
 <!ENTITY saveLinkAsCmd.accesskey "ä">
 <!ENTITY saveImageAsCmd.label "Spara bild som…">
 <!ENTITY saveImageAsCmd.accesskey "b">
-<!ENTITY cutCmd.label "Klipp ut">
-<!ENTITY cutCmd.accesskey "K">
-<!ENTITY copyCmd.label "Kopiera">
-<!ENTITY copyCmd.accesskey "o">
-<!ENTITY pasteCmd.label "Klistra in">
-<!ENTITY pasteCmd.accesskey "l">
-<!ENTITY selectAllCmd.label "Markera allt">
-<!ENTITY selectAllCmd.accesskey "M">
 <!ENTITY copyLinkCmd.label "Kopiera länkadress">
 <!ENTITY copyLinkCmd.accesskey "K">
 <!ENTITY copyImageAllCmd.label "Kopiera bild">
