@@ -347,6 +347,10 @@ you can use these alternative items. Otherwise, their values should be empty.  -
 <!ENTITY goBackCmd.commandKey "[">
 <!ENTITY prevStarredMsgCmd.label "Märkta meddelande">
 <!ENTITY prevStarredMsgCmd.accesskey "ä">
+<!ENTITY folderMenu.label "Mapp">
+<!ENTITY folderMenu.accesskey "M">
+<!ENTITY thisFolder.label "Den här mappen">
+<!ENTITY thisFolder.accesskey "D">
 <!ENTITY startPageCmd.label "Meddelandestartsidan">
 <!ENTITY startPageCmd.accesskey "S">
 
