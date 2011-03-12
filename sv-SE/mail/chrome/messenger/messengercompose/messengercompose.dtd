@@ -209,7 +209,8 @@
 <!ENTITY followupAddr.label "Uppföljning-till:"> 
 <!ENTITY subject.label "Ämne:">
 <!ENTITY subject.accesskey "e">
-<!ENTITY attachments.label "Bifogade filer:">
+<!-- LOCALIZATION NOTE attachments.accesskey This access key should correspond
+     to the strings in attachmentCount in composeMsgs.properties -->
 <!ENTITY attachments.accesskey "B">
 
 <!-- Format Toolbar, imported from editorAppShell.xul -->
