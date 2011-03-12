@@ -108,6 +108,8 @@
 <!ENTITY saveAsAttachmentCmd.accesskey    "s">
 <!ENTITY detachAttachmentCmd.label    "Avskilj…">
 <!ENTITY deleteAttachmentCmd.label    "Ta bort">
+<!ENTITY openAllAttachmentsCmd.label    "Öppna alla…">
+<!ENTITY openAllAttachmentsCmd.accesskey    "p">
 <!ENTITY saveAllAttachmentsCmd.label    "Spara alla…">
 <!ENTITY saveAllAttachmentsCmd.accesskey    "a">
 <!ENTITY detachAllAttachmentsCmd.label    "Avskilj alla…">
