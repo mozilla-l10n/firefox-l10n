@@ -113,8 +113,6 @@
 <!ENTITY deleteMsgsCmd.accesskey "T">
 <!ENTITY undeleteMsgsCmd.label "Återställ markerade borttagna meddelanden">
 <!ENTITY undeleteMsgsCmd.accesskey "b">
-<!ENTITY cancelNewsMsgsCmd.label "Återkalla markerade meddelande">
-<!ENTITY cancelNewsMsgsCmd.accesskey "d">
 <!ENTITY deleteFolderCmd.label "Ta bort mapp">
 <!ENTITY deleteFolderCmd.accesskey "r">
 <!ENTITY unsubscribeNewsgroupCmd.label "Avsluta prenumeration">
