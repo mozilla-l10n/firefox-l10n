@@ -67,6 +67,8 @@
 <!ENTITY PhoneticField2.label           "Fonetisk:">
 <!ENTITY DisplayName.label              "Kortnamn:">
 <!ENTITY DisplayName.accesskey          "o">
+<!ENTITY preferDisplayName.label        "Använd alltid kortnamn istället för meddelanderubrik">
+<!ENTITY preferDisplayName.accesskey    "v">
 <!ENTITY NickName.label                 "Smeknamn:">
 <!ENTITY NickName.accesskey             "S">
 
