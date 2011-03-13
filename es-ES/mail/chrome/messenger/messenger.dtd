@@ -667,18 +667,12 @@
 <!ENTITY CreateFilterFrom.accesskey "f">
 <!ENTITY reportPhishingURL.label "Informar de mensaje fraudulento">
 <!ENTITY reportPhishingURL.accesskey "o">
+<!ENTITY spellAddDictionaries.label "Añadir diccionarios…">
+<!ENTITY spellAddDictionaries.accesskey "A">
 <!ENTITY saveLinkAsCmd.label "Guardar enlace como…">
 <!ENTITY saveLinkAsCmd.accesskey "e">
 <!ENTITY saveImageAsCmd.label "Guardar imagen como…">
 <!ENTITY saveImageAsCmd.accesskey "i">
-<!ENTITY cutCmd.label "Cortar">
-<!ENTITY cutCmd.accesskey "C">
-<!ENTITY copyCmd.label "Copiar">
-<!ENTITY copyCmd.accesskey "C">
-<!ENTITY pasteCmd.label "Pegar">
-<!ENTITY pasteCmd.accesskey "P">
-<!ENTITY selectAllCmd.label "Seleccionar todo">
-<!ENTITY selectAllCmd.accesskey "S">
 <!ENTITY copyLinkCmd.label "Copiar la dirección del enlace">
 <!ENTITY copyLinkCmd.accesskey "C">
 <!ENTITY copyImageAllCmd.label "Copiar imagen">
