@@ -2,6 +2,7 @@
 <!ENTITY legendHeader "Buscador predeterminado">
 <!ENTITY defaultSearchEngine.label "Buscar usando:">
 <!ENTITY defaultSearchEngine.accesskey "S">
+<!ENTITY engineManager.label "Administrar buscadores…">
 <!ENTITY searchResults.label "Resultados de la búsqueda">
 <!ENTITY openInTab.label "Abrir pestañas nuevas con los resultados de búsquedas en el panel lateral">
 <!ENTITY openInTab.accesskey "A">

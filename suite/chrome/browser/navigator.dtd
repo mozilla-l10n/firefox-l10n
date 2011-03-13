@@ -127,6 +127,7 @@
 <!ENTITY locationBar.accesskey "d">
 <!ENTITY locationBar.title "Dirección">
 <!ENTITY proxyIcon.tooltip "Arrastre y suelte este icono para crear un enlace a esta página">
+<!ENTITY searchItem.title "Buscar">
 <!ENTITY bookmarksButton.label "Marcadores">
 <!ENTITY bookmarksButton.tooltip "Lista de marcadores">
 <!ENTITY homeButton.label "Inicio">
