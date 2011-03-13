@@ -1,31 +1,28 @@
 <!ENTITY pref.smartUpdate.title "Instalacja oprogramowania">
-<!ENTITY smartTitle.label "Instalacja wtyczek i dodatkowego oprogramowania">
-<!ENTITY enableSU.label "Zezwól witrynom na instalowanie rozszerzeń i aktualizacji">
-<!ENTITY enableSU.accesskey "e">
-<!ENTITY viewPermissions.label "Zarządzaj uprawnieniami">
-<!ENTITY viewPermissions.accesskey "u">
-
-<!ENTITY verifyUpdates.caption "Aktualizacje">
-<!ENTITY autoUpdates.label "Automatycznie sprawdzaj, czy dostępne są aktualizacje dla:">
-<!ENTITY appUpdates.label "programu &brandShortName;">
-<!ENTITY appUpdates.accesskey "p">
+<!ENTITY addOnsTitle.label "Dodatki">
+<!ENTITY addOnsAllow.label "Zezwól witrynom na instalowanie dodatków i aktualizacji">
+<!ENTITY addOnsAllow.accesskey "Z">
+<!ENTITY allowedWebsites.label "Uprawnione witryny">
+<!ENTITY allowedWebsites.accesskey "W">
+<!ENTITY autoAddOnsUpdates.label "Automatycznie sprawdzaj, czy dostępne są aktualizacje">
+<!ENTITY autoAddOnsUpdates.accesskey "n">
 <!ENTITY daily.label "codziennie">
-<!ENTITY appDaily.accesskey "c">
+<!ENTITY addOnsDaily.accesskey "o">
 <!ENTITY weekly.label "co tydzień">
-<!ENTITY appWeekly.accesskey "t">
-<!ENTITY extensionsUpdates.label "zainstalowanych dodatków">
-<!ENTITY extensionsUpdates.accesskey "n">
-<!ENTITY extensionsDaily.accesskey "i">
-<!ENTITY extensionsWeekly.accesskey "k">
+<!ENTITY addOnsWeekly.accesskey "d">
+<!ENTITY addOnsModeAutomatic.label "Automatycznie pobierz i zainstaluj aktualizacje">
+<!ENTITY addOnsModeAutomatic.accesskey "A">
 <!ENTITY addonManagerButton.label "Menedżer dodatków">
 <!ENTITY addonManagerButton.accesskey "M">
 
-<!ENTITY whenUpdatesFound.label "Kiedy odnalezione zostaną aktualizacje dla programu &brandShortName;:">
-<!ENTITY askMe.label "Zapytaj, co robić">
-<!ENTITY askMe.accesskey "Z">
-<!ENTITY modeAutomatic.label "Automatycznie pobierz i zainstaluj aktualizacje">
-<!ENTITY modeAutomatic.accesskey "c">
-<!ENTITY modeAutoAddonWarn.label "Ostrzeż, jeśli aktualizacja spowoduje wyłączenie dodatków">
-<!ENTITY modeAutoAddonWarn.accesskey "O">
+<!ENTITY appUpdates.caption "&brandShortName;">
+<!ENTITY autoAppUpdates.label "Automatycznie sprawdzaj, czy dostępne są aktualizacje">
+<!ENTITY autoAppUpdates.accesskey "z">
+<!ENTITY appDaily.accesskey "c">
+<!ENTITY appWeekly.accesskey "t">
+<!ENTITY appModeAutomatic.label "Automatycznie pobierz i zainstaluj aktualizację">
+<!ENTITY appModeAutomatic.accesskey "u">
+<!ENTITY appModeAutoAddonWarn.label "Ostrzeż, jeśli aktualizacja spowoduje wyłączenie dodatków">
+<!ENTITY appModeAutoAddonWarn.accesskey "s">
 <!ENTITY updateHistory.label "Wyświetl historię aktualizacji">
 <!ENTITY updateHistory.accesskey "h">
