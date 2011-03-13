@@ -1,29 +1,27 @@
 <!ENTITY pref.smartUpdate.title "Установка программного обеспечения">
-<!ENTITY smartTitle.label "Управление установкой и обновлением программного обеспечения">
-<!ENTITY enableSU.label "Разрешить веб-сайтам устанавливать расширения и обновления">
-<!ENTITY enableSU.accesskey "з">
-<!ENTITY viewPermissions.label "Управление разрешениями">
-<!ENTITY viewPermissions.accesskey "п">
-<!ENTITY verifyUpdates.caption "Обновления">
-<!ENTITY autoUpdates.label "Автоматически проверять наличие обновлений для:">
-<!ENTITY appUpdates.label "&brandShortName;">
-<!ENTITY appUpdates.accesskey "S">
+<!ENTITY addOnsTitle.label "Дополнения">
+<!ENTITY addOnsAllow.label "Разрешить веб-сайтам устанавливать дополнения и обновления">
+<!ENTITY addOnsAllow.accesskey "ш">
+<!ENTITY allowedWebsites.label "Разрешённые веб-сайты">
+<!ENTITY allowedWebsites.accesskey "а">
+<!ENTITY autoAddOnsUpdates.label "Автоматически проверять наличие обновлений">
+<!ENTITY autoAddOnsUpdates.accesskey "в">
 <!ENTITY daily.label "ежедневно">
-<!ENTITY appDaily.accesskey "д">
+<!ENTITY addOnsDaily.accesskey "е">
 <!ENTITY weekly.label "еженедельно">
-<!ENTITY appWeekly.accesskey "е">
-<!ENTITY extensionsUpdates.label "Установленных дополнений">
-<!ENTITY extensionsUpdates.accesskey "о">
-<!ENTITY extensionsDaily.accesskey "н">
-<!ENTITY extensionsWeekly.accesskey "л">
+<!ENTITY addOnsWeekly.accesskey "о">
+<!ENTITY addOnsModeAutomatic.label "Автоматически загружать и устанавливать обновления">
+<!ENTITY addOnsModeAutomatic.accesskey "м">
 <!ENTITY addonManagerButton.label "Менеджер дополнений">
-<!ENTITY addonManagerButton.accesskey "р">
-<!ENTITY whenUpdatesFound.label "При обнаружении обновлений для &brandShortName;:">
-<!ENTITY askMe.label "Предоставлять выбор действия пользователю">
-<!ENTITY askMe.accesskey "с">
-<!ENTITY modeAutomatic.label "Автоматически загружать и устанавливать обновления">
-<!ENTITY modeAutomatic.accesskey "в">
-<!ENTITY modeAutoAddonWarn.label "Предупреждать, если при данном действии будут отключены какие-либо дополнения">
-<!ENTITY modeAutoAddonWarn.accesskey "у">
+<!ENTITY addonManagerButton.accesskey "ж">
+<!ENTITY appUpdates.caption "&brandShortName;">
+<!ENTITY autoAppUpdates.label "Автоматически проверять наличие обновлений">
+<!ENTITY autoAppUpdates.accesskey "и">
+<!ENTITY appDaily.accesskey "д">
+<!ENTITY appWeekly.accesskey "н">
+<!ENTITY appModeAutomatic.label "Автоматически загружать и устанавливать обновление">
+<!ENTITY appModeAutomatic.accesskey "ч">
+<!ENTITY appModeAutoAddonWarn.label "Предупреждать, если при данном действии будут отключены какие-либо дополнения">
+<!ENTITY appModeAutoAddonWarn.accesskey "п">
 <!ENTITY updateHistory.label "Показать журнал обновлений">
-<!ENTITY updateHistory.accesskey "ж">
+<!ENTITY updateHistory.accesskey "з">
