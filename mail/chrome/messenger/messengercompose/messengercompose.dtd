@@ -230,4 +230,6 @@
 <!ENTITY attachFile.accesskey "j">
 <!ENTITY attachPage.label "Adjuntar página web…">
 <!ENTITY attachPage.accesskey "W">
+<!ENTITY spellAddDictionaries.label "Añadir diccionarios…">
+<!ENTITY spellAddDictionaries.accesskey "A">
 <!ENTITY addressesSidebarTitle.label "Contactos">
