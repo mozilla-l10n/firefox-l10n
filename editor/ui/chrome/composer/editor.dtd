@@ -58,3 +58,27 @@
 <!-- Format menu items -->
 <!ENTITY formatMenu.label "Opmaak">
 <!ENTITY formatMenu.accesskey "O">
+
+<!-- Display Mode toolbar and View menu items -->
+<!ENTITY NormalModeTab.label "Normaal">
+<!ENTITY NormalMode.label "Normale bewerkingsmodus">
+<!ENTITY NormalMode.accesskey "N">
+<!ENTITY NormalMode.tooltip "Tabelranden en ankerverwijzingen tonen">
+<!ENTITY AllTagsModeTab.label "HTML-tags">
+<!ENTITY AllTagsMode.label "HTML-tags">
+<!ENTITY AllTagsMode.accesskey "a">
+<!ENTITY AllTagsMode.tooltip "Pictogrammen weergeven voor alle HTML-tags">
+<!-- LOCALIZATION NOTE: (HTMLSourceModeTab.dir, HTMLSourceModeTab.label)
+     Do NOT translate text for 'HTMLSourceModeTab.dir', use latin "ltr" if
+     you want the <html> image to left of the 'HTMLSourceModeTab.label' text,
+     or use latin "rtl" if you want this image to the right of text. You do
+     not need to include HTML in the label 'HTMLSourceModeTab.label' -->
+<!ENTITY HTMLSourceModeTab.dir "ltr">
+<!ENTITY HTMLSourceModeTab.label "Bron">
+<!ENTITY HTMLSourceMode.label "HTML-bron">
+<!ENTITY HTMLSourceMode.accesskey "H">
+<!ENTITY HTMLSourceMode.tooltip "HTML-bron bewerken">
+<!ENTITY PreviewModeTab.label "Voorbeeld">
+<!ENTITY PreviewMode.label "Voorbeeld">
+<!ENTITY PreviewMode.accesskey "V">
+<!ENTITY PreviewMode.tooltip "Weergeven als WYSIWYG (zoals in de browser)">
