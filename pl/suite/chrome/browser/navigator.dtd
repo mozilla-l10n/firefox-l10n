@@ -152,10 +152,10 @@
 <!ENTITY locationBar.tooltip "Wprowadź termin, słowo kluczowe lub adres WWW">
 <!ENTITY locationBar.accesskey "d">
 <!ENTITY locationBar.title "Adres">
-
 <!ENTITY proxyIcon.tooltip "Przeciągnij i upuść tę ikonę, aby stworzyć odnośnik do tej strony">
 
-<!-- Toolbar items --> 
+<!ENTITY searchItem.title "Szukaj">
+
 <!ENTITY bookmarksButton.label "Zakładki">
 <!ENTITY bookmarksButton.tooltip "Lista zakładek">
 <!ENTITY homeButton.label "Strona domowa">
