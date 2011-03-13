@@ -37,6 +37,7 @@
    - ***** END LICENSE BLOCK ***** -->
 <!ENTITY editorWindow.titlemodifier "Composer">
 <!ENTITY editorWindow.titlemodifiermenuseparator " - ">
+<!ENTITY compositionToolbar.tooltip "Barra de herramientas de redacción">
 <!ENTITY viewMenu.label "Ver">
 <!ENTITY viewMenu.accesskey "V">
 <!ENTITY compositionToolbarCmd.label "Barra de herramientas de redacción">
@@ -47,3 +48,20 @@
 <!ENTITY editmodeToolbarCmd.accesskey "c">
 <!ENTITY formatMenu.label "Formato">
 <!ENTITY formatMenu.accesskey "o">
+<!ENTITY NormalModeTab.label "Normal">
+<!ENTITY NormalMode.label "Modo de edición normal">
+<!ENTITY NormalMode.accesskey "M">
+<!ENTITY NormalMode.tooltip "Mostrar bordes de las tablas y enlaces internos">
+<!ENTITY AllTagsModeTab.label "Etiquetas HTML">
+<!ENTITY AllTagsMode.label "Etiquetas HTML">
+<!ENTITY AllTagsMode.accesskey "E">
+<!ENTITY AllTagsMode.tooltip "Mostrar iconos para todas las etiquetas HTML">
+<!ENTITY HTMLSourceModeTab.dir "ltr">
+<!ENTITY HTMLSourceModeTab.label "Origen">
+<!ENTITY HTMLSourceMode.label "Fuente HTML">
+<!ENTITY HTMLSourceMode.accesskey "H">
+<!ENTITY HTMLSourceMode.tooltip "Editar fuente HTML">
+<!ENTITY PreviewModeTab.label "Vista preliminar">
+<!ENTITY PreviewMode.label "Vista preliminar">
+<!ENTITY PreviewMode.accesskey "a">
+<!ENTITY PreviewMode.tooltip "Mostrar como WYSIWYG (como en el navegador)">

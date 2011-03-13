@@ -356,7 +356,6 @@
 <!ENTITY tableProperties.label "Propiedades de la tabla…">
 <!ENTITY tableProperties.accesskey "o">
 <!ENTITY menuBar.tooltip "Barra de menú">
-<!ENTITY compositionToolbar.tooltip "Barra de herramientas de redacción">
 <!ENTITY formatToolbar.tooltip "Barra de herramientas de formato">
 <!ENTITY newToolbarCmd.tooltip "Crear una nueva página de Composer">
 <!ENTITY openToolbarCmd.label "Abrir">
@@ -399,22 +398,7 @@
 <!ENTITY alignLeftButton.tooltip "Alinear texto a lo largo del margen izquierdo">
 <!ENTITY alignCenterButton.tooltip "Alinear texto centrado">
 <!ENTITY alignRightButton.tooltip "Alinear texto a lo largo del margen derecho">
-<!ENTITY alignjustifyButton.tooltip "Alinear texto a lo largo de los márgenes derecho e izquierdo">
-<!ENTITY NormalModeTab.label "Normal">
-<!ENTITY NormalMode.label "Modo normal de edición">
-<!ENTITY NormalMode.accesskey "n">
-<!ENTITY NormalMode.tooltip "Mostrar los bordes de las tablas y los enlaces con nombre">
-<!ENTITY AllTagsMode.label "Etiquetas HTML">
-<!ENTITY AllTagsMode.accesskey "A">
-<!ENTITY AllTagsMode.tooltip "Mostrar iconos para todas las etiquetas HTML">
-<!ENTITY HTMLSourceMode.label "Código fuente HTML">
-<!ENTITY SourceMode.label "Código fuente">
-<!ENTITY HTMLSourceMode.accesskey "h">
-<!ENTITY HTMLSourceMode.tooltip "Editar código fuente HTML">
-<!ENTITY PreviewMode.label "Vista preliminar">
-<!ENTITY PreviewMode.accesskey "p">
-<!ENTITY PreviewMode.tooltip "Mostrar como WYSIWYG (como en el navegador)">
-<!ENTITY SourceTabDirection "ltr">
+<!ENTITY alignJustifyButton.tooltip "Alinear texto a los márgenes izquierdo y derecho">
 <!ENTITY structSelect.label "Seleccionar">
 <!ENTITY structSelect.accesskey "s">
 <!ENTITY structRemoveTag.label "Eliminar etiqueta">
