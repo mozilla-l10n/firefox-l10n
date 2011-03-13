@@ -155,12 +155,12 @@
 
 <!ENTITY proxyIcon.tooltip            "Sleep dit pictogram om een koppeling naar deze pagina te maken">
 
-<!-- Toolbar items --> 
-<!ENTITY  bookmarksButton.label       "Bladwijzers">
-<!ENTITY  bookmarksButton.tooltip     "Bladwijzerlijst">
-<!ENTITY  homeButton.label            "Beginpagina">
-<!ENTITY  bookmarksToolbarItem.label  "Bladwijzerwerkbalkitems">
-<!ENTITY  bookmarksToolbarChevron.tooltip "Meer bladwijzers tonen">
+<!ENTITY searchItem.title             "Zoeken">
+
+<!ENTITY bookmarksButton.label        "Bladwijzers">
+<!ENTITY bookmarksButton.tooltip      "Bladwijzerlijst">
+<!ENTITY homeButton.label             "Beginpagina">
+<!ENTITY bookmarksToolbarItem.label   "Bladwijzerwerkbalkitems">
 
 <!-- Statusbar -->
 <!ENTITY  statusText.label            "Klaar">
