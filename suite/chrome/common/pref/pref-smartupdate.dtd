@@ -1,32 +1,29 @@
 <!--LOCALIZATION NOTE : FILE UI for Software Updates prefs -->
 <!ENTITY pref.smartUpdate.title               "Software-installatie">
-<!ENTITY smartTitle.label                     "Software-installaties en -updates beheren">
-<!ENTITY enableSU.label                       "Websites toestaan om extensies en updates te installeren">
-<!ENTITY enableSU.accesskey                   "e">
-<!ENTITY viewPermissions.label                "Toestemmingen beheren">
-<!ENTITY viewPermissions.accesskey            "T">
-
-<!ENTITY verifyUpdates.caption                "Updates">
-<!ENTITY autoUpdates.label                    "Automatisch controleren op updates voor:">
-<!ENTITY appUpdates.label                     "&brandShortName;">
-<!ENTITY appUpdates.accesskey                 "S">
+<!ENTITY addOnsTitle.label                    "Add-ons">
+<!ENTITY addOnsAllow.label                    "Websites toestaan om add-ons en updates te installeren">
+<!ENTITY addOnsAllow.accesskey                "e">
+<!ENTITY allowedWebsites.label                "Toegestane websites">
+<!ENTITY allowedWebsites.accesskey            "w">
+<!ENTITY autoAddOnsUpdates.label              "Automatisch controleren op updates">
+<!ENTITY autoAddOnsUpdates.accesskey          "o">
 <!ENTITY daily.label                          "dagelijks">
-<!ENTITY appDaily.accesskey                   "d">
+<!ENTITY addOnsDaily.accesskey                "d">
 <!ENTITY weekly.label                         "wekelijks">
-<!ENTITY appWeekly.accesskey                  "w">
-<!ENTITY extensionsUpdates.label              "Geïnstalleerde add-ons">
-<!ENTITY extensionsUpdates.accesskey          "n">
-<!ENTITY extensionsDaily.accesskey            "i">
-<!ENTITY extensionsWeekly.accesskey           "k">
+<!ENTITY addOnsWeekly.accesskey               "k">
+<!ENTITY addOnsModeAutomatic.label            "Automatisch de updates downloaden en installeren">
+<!ENTITY addOnsModeAutomatic.accesskey        "c">
 <!ENTITY addonManagerButton.label             "Add-onbeheerder">
 <!ENTITY addonManagerButton.accesskey         "b">
 
-<!ENTITY whenUpdatesFound.label               "Als er updates voor &brandShortName; zijn gevonden">
-<!ENTITY askMe.label                          "Vragen wat te doen">
-<!ENTITY askMe.accesskey                      "a">
-<!ENTITY modeAutomatic.label                  "De update automatisch downloaden en installeren">
-<!ENTITY modeAutomatic.accesskey              "u">
-<!ENTITY modeAutoAddonWarn.label              "Waarschuwen als hierdoor Add-ons worden uitgeschakeld">
-<!ENTITY modeAutoAddonWarn.accesskey          "r">
-<!ENTITY updateHistory.label                  "Geschiedenis van updates tonen">
-<!ENTITY updateHistory.accesskey              "G">
+<!ENTITY appUpdates.caption                   "&brandShortName;">
+<!ENTITY autoAppUpdates.label                 "Automatisch controleren op updates">
+<!ENTITY autoAppUpdates.accesskey             "t">
+<!ENTITY appDaily.accesskey                   "a">
+<!ENTITY appWeekly.accesskey                  "e">
+<!ENTITY appModeAutomatic.label               "Automatisch de update downloaden en installeren">
+<!ENTITY appModeAutomatic.accesskey           "u">
+<!ENTITY appModeAutoAddonWarn.label           "Mij waarschuwen als dit een van mijn add-ons zal uitschakelen">
+<!ENTITY appModeAutoAddonWarn.accesskey       "w">
+<!ENTITY updateHistory.label                  "Updategeschiedenis tonen">
+<!ENTITY updateHistory.accesskey              "U">
