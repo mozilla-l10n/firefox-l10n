@@ -5,7 +5,7 @@
 <!ENTITY community.mozillaLink      "&vendorShortName;">
 <!ENTITY community.middle2          ", a ">
 <!-- LOCALIZATION NOTE (community.creditsLink): This is a link title that links to about:credits. -->
-<!ENTITY community.creditsLink      "Kyalo kya nsi yonna">
+<!ENTITY community.creditsLink      "kyalo kya nsi yonna">
 <!ENTITY community.end2             " okolera wamu okulongoosa Yintanenti. Tukkiriza nti Yintanenti erina kuba nzigule eri buli muntu yenna awatali ku kugirwa kwonna.">
 
 <!ENTITY contribute.start           "Kiwulikika bulungi? ">
