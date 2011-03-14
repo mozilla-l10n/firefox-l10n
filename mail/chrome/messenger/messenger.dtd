@@ -406,12 +406,11 @@ you can use these alternative items. Otherwise, their values should be empty.
 <!ENTITY tagCmd9.key "9">
 <!ENTITY markMenu.label "Marquer">
 <!ENTITY markMenu.accesskey "a">
+<!ENTITY toggleReadCmd.key "m">
 <!ENTITY markAsReadCmd.label "Comme lu">
 <!ENTITY markAsReadCmd.accesskey "l">
-<!ENTITY markAsReadCmd.key "m">
 <!ENTITY markAsUnreadCmd.label "Comme non lu">
 <!ENTITY markAsUnreadCmd.accesskey "m">
-<!ENTITY markAsUnreadCmd.key "m">
 <!ENTITY markThreadAsReadCmd.label "La discussion comme lue">
 <!ENTITY markThreadAsReadCmd.accesskey "d">
 <!ENTITY markThreadAsReadCmd.key "r">
