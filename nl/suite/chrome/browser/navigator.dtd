@@ -161,6 +161,7 @@
 <!ENTITY bookmarksButton.tooltip      "Bladwijzerlijst">
 <!ENTITY homeButton.label             "Beginpagina">
 <!ENTITY bookmarksToolbarItem.label   "Bladwijzerwerkbalkitems">
+<!ENTITY  bookmarksToolbarChevron.tooltip "Meer bladwijzers tonen">
 
 <!-- Statusbar -->
 <!ENTITY  statusText.label            "Klaar">
