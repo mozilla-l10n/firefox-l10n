@@ -3,8 +3,7 @@
 <!ENTITY addOnsTitle.label                    "Modules complémentaires">
 <!ENTITY addOnsAllow.label                    "Autoriser les sites Web à installer et à mettre à jour des modules complémentaires">
 <!ENTITY addOnsAllow.accesskey                "b">
-<!ENTITY allowedWebsites.label                "Sites Web autorisés">
-<!ENTITY allowedWebsites.accesskey            "W">
+<!ENTITY allowedSitesLink.label               "Sites Web autorisés">
 <!ENTITY autoAddOnsUpdates.label              "Vérifier automatiquement les mises à jour">
 <!ENTITY autoAddOnsUpdates.accesskey          "r">
 <!ENTITY daily.label                          "tous les jours">
@@ -12,9 +11,10 @@
 <!ENTITY weekly.label                         "toutes les semaines">
 <!ENTITY addOnsWeekly.accesskey               "n">
 <!ENTITY addOnsModeAutomatic.label            "Télécharger et installer automatiquement les mises à jour">
-<!ENTITY addOnsModeAutomatic.accesskey        "T">
-<!ENTITY addonManagerButton.label             "Gérer les modules complémentaires">
-<!ENTITY addonManagerButton.accesskey         "G">
+<!ENTITY addOnsModeAutomatic.accesskey        "m">
+<!ENTITY enablePersonalized.label             "Personnaliser les recommandations de modules">
+<!ENTITY enablePersonalized.accesskey         "P">
+<!ENTITY addonManagerLink.label               "Gérer les modules complémentaires">
 
 <!ENTITY appUpdates.caption                   "&brandShortName;">
 <!ENTITY autoAppUpdates.label                 "Vérifier automatiquement les mises à jour">
@@ -26,5 +26,5 @@
 <!ENTITY appModeAutoAddonWarn.label           "Avertir si cela désactive des modules complémentaires">
 <!ENTITY appModeAutoAddonWarn.accesskey       "e">
 
-<!ENTITY updateHistory.label "Afficher l'historique des mises à jour">
-<!ENTITY updateHistory.accesskey "h">
+<!ENTITY updateHistoryButton.label            "Afficher l'historique des mises à jour…">
+<!ENTITY updateHistoryButton.label            "h">
