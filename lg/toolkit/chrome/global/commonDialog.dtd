@@ -1,7 +1,7 @@
-<!ENTITY header.label     "Omutwe mu bufunze">
+<!ENTITY header.label     "Omutwe mu bufunze"> 
 <!ENTITY message.label    "Ekiwandiiko ky'okulabirako kigenda wano.">
-<!ENTITY editfield0.label "Erinnya ly'omukozesa:">
-<!ENTITY editfield1.label "Akasumuluzo ak'enkizo:">
+<!ENTITY editfield0.label "Erinnya ly'omukozesa:"> 
+<!ENTITY editfield1.label "Akasumuluzo ak'enkizo:"> 
 <!ENTITY checkbox.label   "kebera">
 <!ENTITY copyCmd.label    "Koppa">
 <!ENTITY copyCmd.accesskey "K">

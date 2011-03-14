@@ -11,7 +11,7 @@
 <!ENTITY safeb.palm.accept.label "Nzijja wano!">
 <!ENTITY safeb.palm.accept.statustext "Ntabaala ku muko gwe eka">
 <!ENTITY safeb.palm.decline.label "Tofa ku kulabula kuno">
-<!ENTITY safeb.palm.decline.statustext "Ggalawo okulabula">
+<!ENTITY safeb.palm.decline.statustext "Ggalawo okulabula" >
 <!ENTITY safeb.palm.notforgery.label2 "Luno olutimbe sirujingirire…">
 <!ENTITY safeb.palm.reportPage.label "Lwaki ekibanja kino kyiziyiiziddwa?">
 

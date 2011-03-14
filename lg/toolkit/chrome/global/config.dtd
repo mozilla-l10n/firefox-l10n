@@ -54,8 +54,8 @@
 <!ENTITY valueColumn.label "Omuwendo">
 <!-- Tooltips -->
 
-<!ENTITY prefColumnHeader.tooltip "Konako okutereeza">
-<!ENTITY columnChooser.tooltip "Koonako okulonda ebusimbalala obw'okulaga">
+<!ENTITY prefColumnHeader.tooltip "Konako okutereeza"> 
+<!ENTITY columnChooser.tooltip "Koonako okulonda ebusimbalala obw'okulaga"> 
 <!-- Context Menu -->
 
 <!ENTITY copyPref.key "C">

@@ -2,7 +2,7 @@
 
 <!ENTITY     cookiesonsystem.label          "Kkuki ezindirira ziterekwa mu kompyuta yo:">
 <!ENTITY     cookiename.label               "Erinnya lya Kkuki">
-<!ENTITY     cookiedomain.label             "Ekibanja">
+<!ENTITY     cookiedomain.label             "Ekibanja"> 
 <!ENTITY     button.removecookies.label     "Jjawo Kkuki">
 <!ENTITY     button.removecookie.label      "Jjawo Kkuki">
 <!ENTITY     button.removecookie.accesskey  "J">
