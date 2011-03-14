@@ -367,12 +367,11 @@
 <!ENTITY tagCmd9.key "9">
 <!ENTITY markMenu.label "Отметить">
 <!ENTITY markMenu.accesskey "т">
+<!ENTITY toggleReadCmd.key "m">
 <!ENTITY markAsReadCmd.label "Как прочитанное">
 <!ENTITY markAsReadCmd.accesskey "ч">
-<!ENTITY markAsReadCmd.key "m">
 <!ENTITY markAsUnreadCmd.label "Как непрочитанное">
 <!ENTITY markAsUnreadCmd.accesskey "е">
-<!ENTITY markAsUnreadCmd.key "m">
 <!ENTITY markThreadAsReadCmd.label "Обсуждение как прочитанное">
 <!ENTITY markThreadAsReadCmd.accesskey "О">
 <!ENTITY markThreadAsReadCmd.key "r">
