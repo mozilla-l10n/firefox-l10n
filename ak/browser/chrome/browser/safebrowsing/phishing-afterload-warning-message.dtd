@@ -11,7 +11,7 @@
 <!ENTITY safeb.palm.accept.label "Yi me firi ha!">
 <!ENTITY safeb.palm.accept.statustext "Kɔ me fie krataafa">
 <!ENTITY safeb.palm.decline.label "Yi wo eni firi kɔkɔbɔ yi so">
-<!ENTITY safeb.palm.decline.statustext "To kɔkɔbɔ no mu">
+<!ENTITY safeb.palm.decline.statustext "To kɔkɔbɔ no mu" >
 <!ENTITY safeb.palm.notforgery.label2 "Yi nnyɛ wɛb ndaadaa…">
 <!ENTITY safeb.palm.reportPage.label "Adɛn nti na wɔsiiw krataafa yi ano kwan?">
 

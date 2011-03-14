@@ -60,7 +60,7 @@
 <!ENTITY certmgr.pending.label                "Kakano ttegezza santifikate…">
 <!ENTITY certmgr.subjectinfo.label            "Kiwerwa Ku">
 <!ENTITY certmgr.issuerinfo.label             "Kiwerwa Na">
-<!ENTITY certmgr.validity.label               "Nokware adansedi">
+<!ENTITY certmgr.validity.label               "Nokware adansedi" >
 <!ENTITY certmgr.fingerprints.label           "Obulabe">
 <!ENTITY certmgr.certdetail.title             "Obukakafuu bwa Santifikati">
 <!ENTITY certmgr.certdetail.cn                "Erinya eri Wona (CN)">

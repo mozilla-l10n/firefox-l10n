@@ -164,7 +164,7 @@ can reach it easily. -->
 <!ENTITY historySidebarCmd.commandKey   "h">
 
 <!ENTITY toolsMenu.label              "Mfidie">
-<!ENTITY toolsMenu.accesskey          "i">
+<!ENTITY toolsMenu.accesskey          "i"> 
 
 <!ENTITY keywordfield.label           "Fa Kasafuahia Ka Nhwehwɛ Yi Ho…">
 <!ENTITY keywordfield.accesskey       "K">
@@ -208,39 +208,39 @@ can reach it easily. -->
 <!ENTITY inspectObjectButton.label       "Ɔbgyɛkt">
 <!ENTITY inspectObjectButton.accesskey   "b">
 
-<!ENTITY fileMenu.label         "Fael">
+<!ENTITY fileMenu.label         "Fael"> 
 <!ENTITY fileMenu.accesskey       "F">
 <!ENTITY newNavigatorCmd.label        "Tokuro Foforo">
 <!ENTITY newNavigatorCmd.key        "N">
 <!ENTITY newNavigatorCmd.accesskey      "o">
 
-<!ENTITY editMenu.label         "Sesa">
-<!ENTITY editMenu.accesskey       "e">
-<!ENTITY undoCmd.label            "Nnyɛ">
-<!ENTITY undoCmd.key            "Z">
-<!ENTITY undoCmd.accesskey          "n">
-<!ENTITY redoCmd.label            "Yɛ bio">
-<!ENTITY redoCmd.key            "Y">
-<!ENTITY redoCmd.accesskey          "b">
-<!ENTITY cutCmd.label           "Twa">
-<!ENTITY cutCmd.key             "X">
-<!ENTITY cutCmd.accesskey         "T">
-<!ENTITY copyCmd.label            "Fa">
-<!ENTITY copyCmd.key            "C">
-<!ENTITY copyCmd.accesskey          "F">
-<!ENTITY pasteCmd.label           "Tare">
-<!ENTITY pasteCmd.key           "V">
-<!ENTITY pasteCmd.accesskey         "T">
-<!ENTITY deleteCmd.label          "Pepa">
-<!ENTITY deleteCmd.key            "D">
-<!ENTITY deleteCmd.accesskey        "P">
-<!ENTITY selectAllCmd.label         "Paw No Nyinara">
-<!ENTITY selectAllCmd.key         "A">
-<!ENTITY selectAllCmd.accesskey       "a">
+<!ENTITY editMenu.label         "Sesa"> 
+<!ENTITY editMenu.accesskey       "e"> 
+<!ENTITY undoCmd.label            "Nnyɛ">  
+<!ENTITY undoCmd.key            "Z">  
+<!ENTITY undoCmd.accesskey          "n"> 
+<!ENTITY redoCmd.label            "Yɛ bio">  
+<!ENTITY redoCmd.key            "Y">  
+<!ENTITY redoCmd.accesskey          "b"> 
+<!ENTITY cutCmd.label           "Twa">  
+<!ENTITY cutCmd.key             "X">  
+<!ENTITY cutCmd.accesskey         "T"> 
+<!ENTITY copyCmd.label            "Fa">  
+<!ENTITY copyCmd.key            "C">  
+<!ENTITY copyCmd.accesskey          "F"> 
+<!ENTITY pasteCmd.label           "Tare">  
+<!ENTITY pasteCmd.key           "V">  
+<!ENTITY pasteCmd.accesskey         "T"> 
+<!ENTITY deleteCmd.label          "Pepa">  
+<!ENTITY deleteCmd.key            "D">  
+<!ENTITY deleteCmd.accesskey        "P"> 
+<!ENTITY selectAllCmd.label         "Paw No Nyinara">  
+<!ENTITY selectAllCmd.key         "A">  
+<!ENTITY selectAllCmd.accesskey       "a"> 
 <!ENTITY preferencesCmd2.label       "Ɔphyɛn…">
 <!ENTITY preferencesCmd2.accesskey     "Ɔ">
 <!ENTITY preferencesCmdUnix.label       "Apɛde-nhyehyɛ">
-<!ENTITY preferencesCmdUnix.accesskey     "n">
+<!ENTITY preferencesCmdUnix.accesskey     "n"> 
 
 <!ENTITY clearRecentHistory.label               "Pepa Ndansa Yi Ara N'Abakɔsɛm">
 <!ENTITY clearRecentHistory.accesskey           "a">
@@ -252,15 +252,15 @@ can reach it easily. -->
 <!ENTITY privateBrowsingCmd.stop.accesskey      "P">
 <!ENTITY privateBrowsingCmd.commandkey          "P">
 
-<!ENTITY viewMenu.label         "Hwɛ">
-<!ENTITY viewMenu.accesskey       "H">
+<!ENTITY viewMenu.label         "Hwɛ"> 
+<!ENTITY viewMenu.accesskey       "H"> 
 <!ENTITY viewTabGroups.label            "Tab Nkuw">
 <!ENTITY viewTabGroups.accesskey        "G">
-<!ENTITY viewToolbarsMenu.label       "Ntuulbaa">
-<!ENTITY viewToolbarsMenu.accesskey     "t">
+<!ENTITY viewToolbarsMenu.label       "Ntuulbaa"> 
+<!ENTITY viewToolbarsMenu.accesskey     "t"> 
 <!ENTITY viewSidebarMenu.label "Nkyɛn-baa">
 <!ENTITY viewSidebarMenu.accesskey "y">
-<!ENTITY viewCustomizeToolbar.label       "Kɔstɔmaez…">
+<!ENTITY viewCustomizeToolbar.label       "Kɔstɔmaez…"> 
 <!ENTITY viewCustomizeToolbar.accesskey     "K">
 <!ENTITY viewTabsOnTop.label            "Ntab wɔ Soro">
 <!ENTITY viewTabsOnTop.accesskey        "t">
@@ -375,7 +375,7 @@ can reach it easily. -->
 <!ENTITY printFrameCmd.accesskey      "P">
 <!ENTITY saveLinkCmd.label            "Sie Link Sɛ…">
 <!ENTITY saveLinkCmd.accesskey        "k">
-<!ENTITY sendLinkCmd.label            "Soma Link…">
+<!ENTITY sendLinkCmd.label            "Soma Link…"> 
 <!ENTITY sendLinkCmd.accesskey        "o">
 <!ENTITY saveImageCmd.label           "Sie Mfonin Sɛ…">
 <!ENTITY saveImageCmd.accesskey       "S">
@@ -394,7 +394,7 @@ can reach it easily. -->
 <!ENTITY copyImageCmd.label           "Fa Mfonin no Lokehyɛn">
 <!ENTITY copyImageCmd.accesskey       "a">
 <!ENTITY copyImageContentsCmd.label   "Fa Mfonin">
-<!ENTITY copyImageContentsCmd.accesskey  "a">
+<!ENTITY copyImageContentsCmd.accesskey  "a"> 
 <!ENTITY copyVideoURLCmd.label        "Fa Video no Lokehyɛn">
 <!ENTITY copyVideoURLCmd.accesskey    "a">
 <!ENTITY copyAudioURLCmd.label        "Fa Ɔdio no Lokehyɛn">
@@ -431,7 +431,7 @@ you can use these alternative items. Otherwise, their values should be empty.  -
 <!ENTITY fullZoomEnlargeCmd.accesskey   "u">
 <!ENTITY fullZoomEnlargeCmd.commandkey  "+">
 <!-- + is above this key on many keyboards -->
-<!ENTITY fullZoomEnlargeCmd.commandkey2 "=">
+<!ENTITY fullZoomEnlargeCmd.commandkey2 "="> 
 <!ENTITY fullZoomEnlargeCmd.commandkey3 "">
 
 <!ENTITY fullZoomReduceCmd.label        "Zuum Pue">
@@ -463,17 +463,17 @@ you can use these alternative items. Otherwise, their values should be empty.  -
 <!ENTITY zoomInButton.tooltip           "Zuum Kɔ Mu">
 <!ENTITY zoomControls.label             "Zuum ayɛde">
 
-<!ENTITY quitApplicationCmdWin.label       "Pue">
+<!ENTITY quitApplicationCmdWin.label       "Pue"> 
 <!ENTITY quitApplicationCmdWin.accesskey   "u">
 <!ENTITY goBackCmd.commandKey "[">
 <!ENTITY goForwardCmd.commandKey "]">
-<!ENTITY quitApplicationCmd.label       "Gyae">
+<!ENTITY quitApplicationCmd.label       "Gyae"> 
 <!ENTITY quitApplicationCmd.accesskey   "G">
 <!ENTITY quitApplicationCmdMac.label    "Gyae &brandShortName;">
 <!ENTITY quitApplicationCmdMac.key      "Q">
 
-<!ENTITY closeCmd.label                 "To mu">
-<!ENTITY closeCmd.key                   "W">
+<!ENTITY closeCmd.label                 "To mu">  
+<!ENTITY closeCmd.key                   "W">  
 <!ENTITY closeCmd.accesskey             "o">
 
 <!ENTITY pageStyleMenu.label "Krataafa ne Stael">

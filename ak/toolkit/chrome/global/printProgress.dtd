@@ -1,11 +1,11 @@
 <!--LOCALIZATION NOTE printProgress.dtd Main UI for Print Progress Dialog -->
-<!ENTITY printWindow.title "Ɛretintim">
-<!ENTITY title    "Ti asɛm:">
+<!ENTITY printWindow.title "Ɛretintim"> 
+<!ENTITY title    "Ti asɛm:"> 
 <!ENTITY progress "Nkɔso:">
 <!ENTITY preparing "Reyɛ ahoboa…">
 <!ENTITY printComplete "Aprente ewie.">
 
-<!ENTITY dialogCancel.label "twa-mu">
+<!ENTITY dialogCancel.label "twa-mu"> 
 <!ENTITY dialogClose.label "Ka-tum">
 <!-- LOCALIZATION NOTE (percentPrint):
 

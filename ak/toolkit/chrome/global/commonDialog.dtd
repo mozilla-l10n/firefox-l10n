@@ -1,7 +1,7 @@
-<!ENTITY header.label     "Ti-asɛm Tiawa">
+<!ENTITY header.label     "Ti-asɛm Tiawa"> 
 <!ENTITY message.label    "Tɛkst ketewa bi kɔ ha.">
-<!ENTITY editfield0.label "Dehye Din:">
-<!ENTITY editfield1.label "Ehintasɛmfua:">
+<!ENTITY editfield0.label "Dehye Din:"> 
+<!ENTITY editfield1.label "Ehintasɛmfua:"> 
 <!ENTITY checkbox.label   "Hwɛ-mu">
 <!ENTITY copyCmd.label    "Fa">
 <!ENTITY copyCmd.accesskey "F">

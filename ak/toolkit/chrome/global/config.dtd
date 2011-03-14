@@ -54,8 +54,8 @@
 <!ENTITY valueColumn.label "aba">
 <!-- Tooltips -->
 
-<!ENTITY prefColumnHeader.tooltip "klike so na hyehyɛ">
-<!ENTITY columnChooser.tooltip "Klike na paw kɔlɔm a ɛbɛkyerɛ">
+<!ENTITY prefColumnHeader.tooltip "klike so na hyehyɛ"> 
+<!ENTITY columnChooser.tooltip "Klike na paw kɔlɔm a ɛbɛkyerɛ"> 
 <!-- Context Menu -->
 
 <!ENTITY copyPref.key "C">

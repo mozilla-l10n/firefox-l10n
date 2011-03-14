@@ -2,7 +2,7 @@
 
 <!ENTITY     cookiesonsystem.label          "Kuki yi nom asie wɔ wo kɔmputa no so:">
 <!ENTITY     cookiename.label               "Kuki din">
-<!ENTITY     cookiedomain.label             "Saet">
+<!ENTITY     cookiedomain.label             "Saet"> 
 <!ENTITY     button.removecookies.label     "Yi nkuki">
 <!ENTITY     button.removecookie.label      "Yi kuki">
 <!ENTITY     button.removecookie.accesskey  "Y">
