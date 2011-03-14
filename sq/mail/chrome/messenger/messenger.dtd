@@ -8,7 +8,7 @@
 <!ENTITY closeTabCmd2.label "Mbylle Skedën">
 <!ENTITY closeTabCmd2.accesskey "M">
 <!ENTITY closeOtherTabsCmd2.label "Mbylli Skedat e Tjera">
-<!ENTITY closeOtherTabsCmd.accesskey "T">
+<!ENTITY closeOtherTabsCmd2.accesskey "T">
 <!-- LOCALIZATION NOTE (undoCloseTabCmd.label):
      Menu option to attempt to re-open a recently closed tab.
      -->
