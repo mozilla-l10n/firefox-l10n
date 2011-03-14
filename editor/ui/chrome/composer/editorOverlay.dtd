@@ -445,37 +445,11 @@
 <!ENTITY outdentToolbarCmd.tooltip "Outdent texto (mover para a esquerda)">
 <!ENTITY indentToolbarCmd.tooltip "Indentar texto (mover para a direita)">
 <!ENTITY AlignPopupButton.tooltip "Escolha o alinhamento do texto">
-<!ENTITY InsertPopupButton.tooltip "Inserir Ligação,Âncora, Imagem, Linha Horizontal ou Tabela">
+<!ENTITY InsertPopupButton.tooltip "Inserir Ligação, Âncora, Imagem, Linha Horizontal ou Tabela">
 <!ENTITY alignLeftButton.tooltip "Alinhar o texto ao longo das margem esquerda">
 <!ENTITY alignCenterButton.tooltip "Alinhar o texto ao centro">
 <!ENTITY alignRightButton.tooltip "Alinhar o texto ao longo das margem direita">
 <!ENTITY alignJustifyButton.tooltip "Alinhar o texto ao longo das margem esquerda e direita">
-
-<!-- Display Mode toolbar and View menu items -->
-<!ENTITY NormalModeTab.label "Normal">
-<!ENTITY NormalMode.label "Modo de edição normal">
-<!ENTITY NormalMode.accesskey "n">
-<!ENTITY NormalMode.tooltip "Mostrar limites da tabela e âncoras nomeadas">
-<!ENTITY AllTagsMode.label "Etiqueta HTML">
-<!ENTITY AllTagsMode.accesskey "A">
-<!ENTITY AllTagsMode.tooltip "Mostrar ícones para todas as etiquetas HTML">
-
-<!ENTITY HTMLSourceMode.label "Origem HTML">
-<!-- Toolbar has an image with "HTML" text, so don't include it in the string -->
-<!ENTITY SourceMode.label "Origem">
-<!ENTITY HTMLSourceMode.accesskey "o">
-<!ENTITY HTMLSourceMode.tooltip "Editar origem HTML">
-<!ENTITY PreviewMode.label "Pré-Visualizar">
-<!ENTITY PreviewMode.accesskey "r">
-<!ENTITY PreviewMode.tooltip "Mostrar como WYSIWYG (como no navegador)">
-
-<!-- LOCALIZATION NOTE: Do NOT translate text for 'SourceTabDirection'
-     Use latin "ltr" if you want the <html> image to left of the 
-     'SourceMode.label' text defined above,
-     or use latin "rtl" if you want this image to the right of text
-     This is the value of the HTML 'dir' attribute
--->
-<!ENTITY SourceTabDirection "ltr">
 
 <!-- Structure Toolbar Context Menu items -->
 <!ENTITY structSelect.label         "Seleccione">
