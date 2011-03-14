@@ -27,4 +27,4 @@
 <!ENTITY appModeAutoAddonWarn.accesskey       "e">
 
 <!ENTITY updateHistoryButton.label            "Afficher l'historique des mises à jour…">
-<!ENTITY updateHistoryButton.label            "h">
+<!ENTITY updateHistoryButton.accesskey        "h">
