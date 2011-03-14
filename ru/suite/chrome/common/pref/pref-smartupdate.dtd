@@ -2,8 +2,7 @@
 <!ENTITY addOnsTitle.label "Дополнения">
 <!ENTITY addOnsAllow.label "Разрешить веб-сайтам устанавливать дополнения и обновления">
 <!ENTITY addOnsAllow.accesskey "ш">
-<!ENTITY allowedWebsites.label "Разрешённые веб-сайты">
-<!ENTITY allowedWebsites.accesskey "а">
+<!ENTITY allowedSitesLink.label "Разрешённые веб-сайты">
 <!ENTITY autoAddOnsUpdates.label "Автоматически проверять наличие обновлений">
 <!ENTITY autoAddOnsUpdates.accesskey "в">
 <!ENTITY daily.label "ежедневно">
@@ -12,8 +11,9 @@
 <!ENTITY addOnsWeekly.accesskey "о">
 <!ENTITY addOnsModeAutomatic.label "Автоматически загружать и устанавливать обновления">
 <!ENTITY addOnsModeAutomatic.accesskey "м">
-<!ENTITY addonManagerButton.label "Менеджер дополнений">
-<!ENTITY addonManagerButton.accesskey "ж">
+<!ENTITY enablePersonalized.label "Персонализировать рекомендации дополнений">
+<!ENTITY enablePersonalized.accesskey "с">
+<!ENTITY addonManagerLink.label "Управление дополнениями">
 <!ENTITY appUpdates.caption "&brandShortName;">
 <!ENTITY autoAppUpdates.label "Автоматически проверять наличие обновлений">
 <!ENTITY autoAppUpdates.accesskey "и">
@@ -23,5 +23,5 @@
 <!ENTITY appModeAutomatic.accesskey "ч">
 <!ENTITY appModeAutoAddonWarn.label "Предупреждать, если при данном действии будут отключены какие-либо дополнения">
 <!ENTITY appModeAutoAddonWarn.accesskey "п">
-<!ENTITY updateHistory.label "Показать журнал обновлений">
-<!ENTITY updateHistory.accesskey "з">
+<!ENTITY updateHistoryButton.label "Показать журнал обновлений…">
+<!ENTITY updateHistoryButton.accesskey "з">
