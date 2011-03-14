@@ -5,5 +5,5 @@
 <!ENTITY raiseLowerWindows.accesskey    "U">
 <!ENTITY disableContextMenus.label      "Çaktivizojnë ose zëvendësojnë menu konteksti">
 <!ENTITY disableContextMenus.accesskey  "Ç">
-<!ENTITY moveResizeWindows.label        "Lëzivin ose ripërmasojnë dritare ekzistuese">
+<!ENTITY moveResizeWindows.label        "Lëvizin ose ripërmasojnë dritare ekzistuese">
 <!ENTITY moveResizeWindows.accesskey    "L">
