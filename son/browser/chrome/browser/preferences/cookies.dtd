@@ -2,7 +2,7 @@
 
 <!ENTITY     cookiesonsystem.label          "Aleewawey wey ga jisandi war ordinateroo ga:">
 <!ENTITY     cookiename.label               "Aleewa maa">
-<!ENTITY     cookiedomain.label             "Nungu">
+<!ENTITY     cookiedomain.label             "Nungu"> 
 <!ENTITY     button.removecookies.label     "Aleewawey kaa">
 <!ENTITY     button.removecookie.label      "Aleewaa kaa">
 <!ENTITY     button.removecookie.accesskey  "A">

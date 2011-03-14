@@ -54,8 +54,8 @@
 <!ENTITY valueColumn.label "Hinna">
 <!-- Tooltips -->
 
-<!ENTITY prefColumnHeader.tooltip "Naagu ka fay">
-<!ENTITY columnChooser.tooltip "Naagu ka sorrawey cebe">
+<!ENTITY prefColumnHeader.tooltip "Naagu ka fay"> 
+<!ENTITY columnChooser.tooltip "Naagu ka sorrawey cebe"> 
 <!-- Context Menu -->
 
 <!ENTITY copyPref.key "C">

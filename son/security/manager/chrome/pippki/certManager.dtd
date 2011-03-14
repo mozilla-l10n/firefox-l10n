@@ -60,7 +60,7 @@
 <!ENTITY certmgr.pending.label                "Goo ma tabatiyan-tiiraa koroši sohõda...">
 <!ENTITY certmgr.subjectinfo.label            "Wallafi woo se">
 <!ENTITY certmgr.issuerinfo.label             "Woo n'a wallafi">
-<!ENTITY certmgr.validity.label               "Ga boori hala">
+<!ENTITY certmgr.validity.label               "Ga boori hala" >
 <!ENTITY certmgr.fingerprints.label           "Kabežeerey">
 <!ENTITY certmgr.certdetail.title             "Tabatiyan-tiira šilbayhayey">
 <!ENTITY certmgr.certdetail.cn                "Hankul maa (CN)">

@@ -47,7 +47,7 @@ you can use these alternative items. Otherwise, their values should be empty.  -
 <!ENTITY reloadCmd.label "Dam taaga">
 <!ENTITY reloadCmd.accesskey "D">
 <!ENTITY reloadCmd.commandkey "r">
-<!ENTITY menu_wrapLongLines.title "Žeeri kukey kunkuni">
+<!ENTITY menu_wrapLongLines.title "Žeeri kukey kunkuni"> 
 <!ENTITY menu_wrapLongLines.accesskey "k">
 <!ENTITY menu_highlightSyntax.label "Nahaw šilbayyan">
 <!ENTITY menu_highlightSyntax.accesskey "b">

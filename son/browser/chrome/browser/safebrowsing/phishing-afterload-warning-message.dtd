@@ -11,7 +11,7 @@
 <!ENTITY safeb.palm.accept.label "Ay kaa ne!">
 <!ENTITY safeb.palm.accept.statustext "Naaru ay sintin moɲoo doo">
 <!ENTITY safeb.palm.decline.label "Yaamaroo woo muray">
-<!ENTITY safeb.palm.decline.statustext "Yaamaroo daabu">
+<!ENTITY safeb.palm.decline.statustext "Yaamaroo daabu" >
 <!ENTITY safeb.palm.notforgery.label2 "Woo manti darga tataaru...">
 <!ENTITY safeb.palm.reportPage.label "Macin se moɲoo woo gagayandi?">
 

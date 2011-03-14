@@ -164,7 +164,7 @@ can reach it easily. -->
 <!ENTITY historySidebarCmd.commandKey   "h">
 
 <!ENTITY toolsMenu.label              "Goyjinawey">
-<!ENTITY toolsMenu.accesskey          "G">
+<!ENTITY toolsMenu.accesskey          "G"> 
 
 <!ENTITY keywordfield.label           "Kufalkalima foo tonton ceeciroo woo se...">
 <!ENTITY keywordfield.accesskey       "K">
@@ -208,39 +208,39 @@ can reach it easily. -->
 <!ENTITY inspectObjectButton.label       "Haya">
 <!ENTITY inspectObjectButton.accesskey   "H">
 
-<!ENTITY fileMenu.label         "Tuku">
+<!ENTITY fileMenu.label         "Tuku"> 
 <!ENTITY fileMenu.accesskey       "T">
 <!ENTITY newNavigatorCmd.label        "Zanfun taaga">
 <!ENTITY newNavigatorCmd.key        "N">
 <!ENTITY newNavigatorCmd.accesskey      "Z">
 
-<!ENTITY editMenu.label         "Fasal">
-<!ENTITY editMenu.accesskey       "F">
-<!ENTITY undoCmd.label            "Taafeeri">
-<!ENTITY undoCmd.key            "Z">
-<!ENTITY undoCmd.accesskey          "e">
-<!ENTITY redoCmd.label            "Tee taaga">
-<!ENTITY redoCmd.key            "Y">
-<!ENTITY redoCmd.accesskey          "T">
-<!ENTITY cutCmd.label           "Dunbu">
-<!ENTITY cutCmd.key             "X">
-<!ENTITY cutCmd.accesskey         "D">
-<!ENTITY copyCmd.label            "Berandi">
-<!ENTITY copyCmd.key            "C">
-<!ENTITY copyCmd.accesskey          "B">
-<!ENTITY pasteCmd.label           "Dobu">
-<!ENTITY pasteCmd.key           "V">
-<!ENTITY pasteCmd.accesskey         "D">
-<!ENTITY deleteCmd.label          "Tuusu">
-<!ENTITY deleteCmd.key            "D">
-<!ENTITY deleteCmd.accesskey        "T">
-<!ENTITY selectAllCmd.label         "Kul suuba">
-<!ENTITY selectAllCmd.key         "A">
-<!ENTITY selectAllCmd.accesskey       "K">
+<!ENTITY editMenu.label         "Fasal"> 
+<!ENTITY editMenu.accesskey       "F"> 
+<!ENTITY undoCmd.label            "Taafeeri">  
+<!ENTITY undoCmd.key            "Z">  
+<!ENTITY undoCmd.accesskey          "e"> 
+<!ENTITY redoCmd.label            "Tee taaga">  
+<!ENTITY redoCmd.key            "Y">  
+<!ENTITY redoCmd.accesskey          "T"> 
+<!ENTITY cutCmd.label           "Dunbu">  
+<!ENTITY cutCmd.key             "X">  
+<!ENTITY cutCmd.accesskey         "D"> 
+<!ENTITY copyCmd.label            "Berandi">  
+<!ENTITY copyCmd.key            "C">  
+<!ENTITY copyCmd.accesskey          "B"> 
+<!ENTITY pasteCmd.label           "Dobu">  
+<!ENTITY pasteCmd.key           "V">  
+<!ENTITY pasteCmd.accesskey         "D"> 
+<!ENTITY deleteCmd.label          "Tuusu">  
+<!ENTITY deleteCmd.key            "D">  
+<!ENTITY deleteCmd.accesskey        "T"> 
+<!ENTITY selectAllCmd.label         "Kul suuba">  
+<!ENTITY selectAllCmd.key         "A">  
+<!ENTITY selectAllCmd.accesskey       "K"> 
 <!ENTITY preferencesCmd2.label       "Suubarey">
 <!ENTITY preferencesCmd2.accesskey     "S">
 <!ENTITY preferencesCmdUnix.label       "Ibaayey">
-<!ENTITY preferencesCmdUnix.accesskey     "I">
+<!ENTITY preferencesCmdUnix.accesskey     "I"> 
 
 <!ENTITY clearRecentHistory.label               "Taariki kokorante koonandi...">
 <!ENTITY clearRecentHistory.accesskey           "T">
@@ -252,15 +252,15 @@ can reach it easily. -->
 <!ENTITY privateBrowsingCmd.stop.accesskey      "S">
 <!ENTITY privateBrowsingCmd.commandkey          "P">
 
-<!ENTITY viewMenu.label         "Gunari">
-<!ENTITY viewMenu.accesskey       "G">
+<!ENTITY viewMenu.label         "Gunari"> 
+<!ENTITY viewMenu.accesskey       "G"> 
 <!ENTITY viewTabGroups.label            "Nor loku margarey">
 <!ENTITY viewTabGroups.accesskey        "g">
-<!ENTITY viewToolbarsMenu.label       "Goyjinay žeerey">
-<!ENTITY viewToolbarsMenu.accesskey     "G">
+<!ENTITY viewToolbarsMenu.label       "Goyjinay žeerey"> 
+<!ENTITY viewToolbarsMenu.accesskey     "G"> 
 <!ENTITY viewSidebarMenu.label "Cerawžeeri">
 <!ENTITY viewSidebarMenu.accesskey "C">
-<!ENTITY viewCustomizeToolbar.label       "Hanse war boŋ se...">
+<!ENTITY viewCustomizeToolbar.label       "Hanse war boŋ se..."> 
 <!ENTITY viewCustomizeToolbar.accesskey     "H">
 <!ENTITY viewTabsOnTop.label            "Nor lokey beene here">
 <!ENTITY viewTabsOnTop.accesskey        "N">
@@ -375,7 +375,7 @@ can reach it easily. -->
 <!ENTITY printFrameCmd.accesskey      "K">
 <!ENTITY saveLinkCmd.label            "Doboo gaabu sanda...">
 <!ENTITY saveLinkCmd.accesskey        "D">
-<!ENTITY sendLinkCmd.label            "Doboo sanba...">
+<!ENTITY sendLinkCmd.label            "Doboo sanba..."> 
 <!ENTITY sendLinkCmd.accesskey        "s">
 <!ENTITY saveImageCmd.label           "Biyoo gaabu sanda...">
 <!ENTITY saveImageCmd.accesskey       "B">
@@ -394,7 +394,7 @@ can reach it easily. -->
 <!ENTITY copyImageCmd.label           "Biyoo dogoo berandi">
 <!ENTITY copyImageCmd.accesskey       "b">
 <!ENTITY copyImageContentsCmd.label   "Biyoo berandi">
-<!ENTITY copyImageContentsCmd.accesskey  "b">
+<!ENTITY copyImageContentsCmd.accesskey  "b"> 
 <!ENTITY copyVideoURLCmd.label        "Widewo dogoo berandi">
 <!ENTITY copyVideoURLCmd.accesskey    "b">
 <!ENTITY copyAudioURLCmd.label        "Jindetukoo dogoo berandi">
@@ -431,7 +431,7 @@ you can use these alternative items. Otherwise, their values should be empty.  -
 <!ENTITY fullZoomEnlargeCmd.accesskey   "B">
 <!ENTITY fullZoomEnlargeCmd.commandkey  "+">
 <!-- + is above this key on many keyboards -->
-<!ENTITY fullZoomEnlargeCmd.commandkey2 "=">
+<!ENTITY fullZoomEnlargeCmd.commandkey2 "="> 
 <!ENTITY fullZoomEnlargeCmd.commandkey3 "">
 
 <!ENTITY fullZoomReduceCmd.label        "Nakasandi">
@@ -463,17 +463,17 @@ you can use these alternative items. Otherwise, their values should be empty.  -
 <!ENTITY zoomInButton.tooltip           "Bebbeerandi">
 <!ENTITY zoomControls.label             "Azzaati juwaley">
 
-<!ENTITY quitApplicationCmdWin.label       "Fatta">
+<!ENTITY quitApplicationCmdWin.label       "Fatta"> 
 <!ENTITY quitApplicationCmdWin.accesskey   "F">
 <!ENTITY goBackCmd.commandKey "[">
 <!ENTITY goForwardCmd.commandKey "]">
-<!ENTITY quitApplicationCmd.label       "Fatta">
+<!ENTITY quitApplicationCmd.label       "Fatta"> 
 <!ENTITY quitApplicationCmd.accesskey   "F">
 <!ENTITY quitApplicationCmdMac.label    "Fatta &brandShortName; ra">
 <!ENTITY quitApplicationCmdMac.key      "Q">
 
-<!ENTITY closeCmd.label                 "Daabu">
-<!ENTITY closeCmd.key                   "W">
+<!ENTITY closeCmd.label                 "Daabu">  
+<!ENTITY closeCmd.key                   "W">  
 <!ENTITY closeCmd.accesskey             "D">
 
 <!ENTITY pageStyleMenu.label "Moo fasal">

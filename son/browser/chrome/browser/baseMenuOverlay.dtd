@@ -4,11 +4,11 @@
 <!ENTITY zoomWindow.label         "Bebbeerandi">
 <!ENTITY windowMenu.label         "Zanfun">
 
-<!ENTITY helpMenu.label           "Faaba">
-<!ENTITY helpMenu.accesskey       "F">
+<!ENTITY helpMenu.label           "Faaba"> 
+<!ENTITY helpMenu.accesskey       "F"> 
 <!-- LOCALIZATION NOTE some localizations of Windows (ex:french, german) use "?"
                        for the help button in the menubar but Gnome does not.   -->
-<!ENTITY helpMenuWin.label        "Faaba">
+<!ENTITY helpMenuWin.label        "Faaba"> 
 <!ENTITY helpMenuWin.accesskey    "F">
 <!ENTITY aboutProduct.label       "&brandShortName; ga">
 <!ENTITY aboutProduct.accesskey   "g">
