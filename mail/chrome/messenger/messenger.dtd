@@ -404,12 +404,11 @@ you can use these alternative items. Otherwise, their values should be empty.  -
 <!ENTITY tagCmd9.key "9">
 <!ENTITY markMenu.label "Cuir comharra">
 <!ENTITY markMenu.accesskey "C">
+<!ENTITY toggleReadCmd.key "m">
 <!ENTITY markAsReadCmd.label "Gun deach a leughadh">
 <!ENTITY markAsReadCmd.accesskey "G">
-<!ENTITY markAsReadCmd.key "m">
 <!ENTITY markAsUnreadCmd.label "Comharra nach deach a leughadh">
 <!ENTITY markAsUnreadCmd.accesskey "u">
-<!ENTITY markAsUnreadCmd.key "m">
 <!ENTITY markThreadAsReadCmd.label "Gun deach an snàth a leughadh">
 <!ENTITY markThreadAsReadCmd.accesskey "t">
 <!ENTITY markThreadAsReadCmd.key "r">
