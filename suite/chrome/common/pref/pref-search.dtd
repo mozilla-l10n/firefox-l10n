@@ -7,6 +7,9 @@
 <!ENTITY defaultSearchEngine.label        "Hakukone:">
 <!ENTITY defaultSearchEngine.accesskey    "a">
 
+<!-- Will be used by bug 595246 -->
+<!ENTITY engineManager.label              "Muokkaa hakukoneita…">
+
 <!ENTITY searchResults.label              "Haun tulokset">
 
 <!ENTITY openInTab.label                  "Avaa uusi välilehti sivupaneelista tehdyn haun tuloksille">
