@@ -196,7 +196,7 @@
 <!ENTITY historyMenu.accesskey "s">
 <!ENTITY historyUndoMenu.label "Nedavno zatvorene kartice">
 <!-- LOCALIZATION NOTE (historyUndoWindowMenu): see bug 394759 -->
-<!ENTITY historyUndoWindowMenu.label "Nedavno zatvorene kartice">
+<!ENTITY historyUndoWindowMenu.label "Nedavno zatvoreni prozori">
 
 <!ENTITY historyHomeCmd.label "Početna stranica">
 <!ENTITY showAllHistoryCmd2.label "Prikaži svu povijest">
