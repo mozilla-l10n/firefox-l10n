@@ -55,7 +55,7 @@
 <!-- breakpoint view -->
 <!ENTITY Break.label        "Pysäytyspisteet">
 <!ENTITY BreakCol0.label    "Nimi">
-<!ENTITY BreakCol1.label    "Rivi/PC">
+<!ENTITY BreakCol1.label    "Rivi/ohjelmalaskuri">
 
 <!-- locals view -->
 <!ENTITY Locals.label       "Paikalliset muuttujat">
@@ -87,7 +87,7 @@
 <!ENTITY StackCol1.header   "Osoite">
 
 <!-- watch view -->
-<!ENTITY Watch.label        "Watches">
+<!ENTITY Watch.label        "Vahdit">
 <!ENTITY WatchCol0.header   "Nimi">
 <!ENTITY WatchCol1.header   "Tyyppi">
 <!ENTITY WatchCol2.header   "Arvo">
@@ -100,7 +100,7 @@
 <!-- breakpoint properties window -->
 <!ENTITY BPProps.URL.label          "Osoite">
 <!ENTITY BPProps.Line.label         "Rivi">
-<!ENTITY BPProps.PC.label           "PC">
+<!ENTITY BPProps.PC.label           "Ohjelmalaskuri">
 <!ENTITY BPProps.FunctionName.label "Funktio">
 <!ENTITY BPProps.TriggerCount.label "Liipaisumäärä">
 <!ENTITY BPProps.OneTime.label      "Tyhjennä taukopiste ensimmäisen liipaisun jälkeen">
@@ -109,9 +109,9 @@
 <!ENTITY BPProps.NeverStopRadio.label        "Jatka tuloksesta huolimatta">
 <!ENTITY BPProps.AlwaysStopRadio.label       "Pysäytä tuloksesta huolimatta">
 <!ENTITY BPProps.ConditionalBreakRadio.label "Pysäytä, jos tulos on tosi">
-<!ENTITY BPProps.EarlyReturnRadio.label  "Early return from caller with result">
-<!ENTITY BPProps.PassExceptionsCheck.label   "Pass exceptions to caller">
-<!ENTITY BPProps.LogResultCheck.label        "Log result">
+<!ENTITY BPProps.EarlyReturnRadio.label  "Palaa kutsujalta aikaisin tuloksen kanssa">
+<!ENTITY BPProps.PassExceptionsCheck.label   "Syötä poikkeukset kutsujalle">
+<!ENTITY BPProps.LogResultCheck.label        "Kirjaa tulokset lokiin">
 <!ENTITY BPProps.Apply.label  "Käytä">
 <!ENTITY BPProps.Revert.label "Palauta">
 <!ENTITY BPProps.Close.label  "Sulje">
