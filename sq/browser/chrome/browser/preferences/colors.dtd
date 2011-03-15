@@ -15,7 +15,7 @@
 
 <!ENTITY  underlineLinks.label            "Nënvizo lidhje">
 <!ENTITY  underlineLinks.accesskey        "o">
-<!ENTITY  links                           "Ngjyra Lidhjeje">
+<!ENTITY  links                           "Ngjyra Lidhjesh">
 <!ENTITY  linkColor.label                 "Lidhje të Pavizituara:">
 <!ENTITY  linkColor.accesskey             "a">
 <!ENTITY  visitedLinkColor.label          "Lidhje të Vizituara:">
