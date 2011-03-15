@@ -1,4 +1,4 @@
-<!ENTITY  prefWindow.titleWin     "&brandShortName;-Einstellungen">
+<!ENTITY  prefWindow.titleWin     "Einstellungen">
 <!ENTITY  prefWindow.titleGNOME   "&brandShortName;-Einstellungen">
 <!ENTITY  prefWindow.styleWindows "width: 45em; height: 38.5em;">
 <!ENTITY  prefWindow.styleMac     "width: 52em;">
