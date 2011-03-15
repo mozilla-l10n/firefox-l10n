@@ -13,7 +13,7 @@
 <!ENTITY  useSystemColors.label           "Përdor ngjyra sistemi">
 <!ENTITY  useSystemColors.accesskey       "P">
 
-<!ENTITY  underlineLinks.label            "Nënvizo lidhje">
+<!ENTITY  underlineLinks.label            "Nënvizoji lidhjet">
 <!ENTITY  underlineLinks.accesskey        "o">
 <!ENTITY  links                           "Ngjyra Lidhjesh">
 <!ENTITY  linkColor.label                 "Lidhje të Pavizituara:">
