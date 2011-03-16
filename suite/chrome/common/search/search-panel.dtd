@@ -39,4 +39,4 @@
 <!ENTITY search.placeholder       "Escreva o texto a pesquisar">
 
 <!-- Will be used by bug 595246 -->
-<!ENTITY search.engineManager.label "Gerir motores de pesquisa…">
+<!ENTITY search.engineManager.label "Gerir motores de pesquisa...">
