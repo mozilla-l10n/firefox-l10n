@@ -7,6 +7,9 @@
 <!ENTITY defaultSearchEngine.label        "Buscar usando:">
 <!ENTITY defaultSearchEngine.accesskey    "s">
 
+<!-- Will be used by bug 595246 -->
+<!ENTITY engineManager.label              "Administrar buscadores…">
+
 <!ENTITY searchResults.label              "Resultados de búsqueda">
 
 <!ENTITY openInTab.label                  "Abrir nuevas pestañas para los resultados de búsqueda en la barra lateral">

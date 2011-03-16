@@ -263,5 +263,9 @@
 <!ENTITY attachPage.label "Adjuntar página web…">
 <!ENTITY attachPage.accesskey "w">
 
+<!-- Spell checker context menu items -->
+<!ENTITY spellAddDictionaries.label "Agregar diccionarios…">
+<!ENTITY spellAddDictionaries.accesskey "A">
+
 <!-- Title for the address picker panel -->
 <!ENTITY addressesSidebarTitle.label "Contactos">

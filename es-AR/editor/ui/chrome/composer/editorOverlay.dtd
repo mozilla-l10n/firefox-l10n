@@ -96,9 +96,6 @@
 <!ENTITY pasteAs.accesskey "a">
 <!ENTITY publishSettings.label "Configuración de sitio de publicación…">
 <!ENTITY publishSettings.accesskey "b">
-
-<!-- For a "Paste" submenu when more than 1 
-     clipboard formats are available -->
 <!ENTITY pasteAsQuotationCmd.label "Pegar como cita">
 <!ENTITY pasteAsQuotationCmd.accesskey "g">
 <!ENTITY pasteAsQuotationCmd.key "o">
@@ -346,6 +343,7 @@
 <!-- Table Menu -->
 <!ENTITY tableMenu.label "Tabla">
 <!ENTITY tableMenu.accesskey "b">
+
 <!-- Select Submenu -->
 <!ENTITY tableSelectMenu.label "Seleccionar">
 <!ENTITY tableSelectMenu.accesskey "S">
@@ -452,32 +450,6 @@
 <!ENTITY alignCenterButton.tooltip "Alinear texto centrado">
 <!ENTITY alignRightButton.tooltip "Alinear texto a lo largo del margen derecho">
 <!ENTITY alignJustifyButton.tooltip "Alinear texto a lo largo de los márgenes derecho e izquierdo">
-
-<!-- Display Mode toolbar and View menu items -->
-<!ENTITY NormalModeTab.label "Normal">
-<!ENTITY NormalMode.label "Modo normal de edición">
-<!ENTITY NormalMode.accesskey "n">
-<!ENTITY NormalMode.tooltip "Mostrar los bordes de las tablas y los enlaces con nombre">
-<!ENTITY AllTagsMode.label "Etiquetas HTML">
-<!ENTITY AllTagsMode.accesskey "a">
-<!ENTITY AllTagsMode.tooltip "Mostrar iconos para todas las etiquetas HTML">
-
-<!ENTITY HTMLSourceMode.label "Código fuente HTML">
-<!-- Toolbar has an image with "HTML" text, so don't include it in the string -->
-<!ENTITY SourceMode.label "Código fuente">
-<!ENTITY HTMLSourceMode.accesskey "H">
-<!ENTITY HTMLSourceMode.tooltip "Editar código fuente HTML">
-<!ENTITY PreviewMode.label "Vista preliminar">
-<!ENTITY PreviewMode.accesskey "p">
-<!ENTITY PreviewMode.tooltip "Mostrar como WYSIWYG (como en Navigator)">
-
-<!-- LOCALIZATION NOTE: Do NOT translate text for 'SourceTabDirection'
-     Use latin "ltr" if you want the <html> image to left of the 
-     'SourceMode.label' text defined above,
-     or use latin "rtl" if you want this image to the right of text
-     This is the value of the HTML 'dir' attribute
--->
-<!ENTITY SourceTabDirection "ltr">
 
 <!-- Structure Toolbar Context Menu items -->
 <!ENTITY structSelect.label "Seleccionar">
