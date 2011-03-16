@@ -64,6 +64,7 @@
 <!ENTITY NormalMode.label "Modo normal de edición">
 <!ENTITY NormalMode.accesskey "n">
 <!ENTITY NormalMode.tooltip "Mostrar los bordes de las tablas y los enlaces con nombre">
+<!ENTITY AllTagsModeTab.label "Etiquetas HTML">
 <!ENTITY AllTagsMode.label "Etiquetas HTML">
 <!ENTITY AllTagsMode.accesskey "a">
 <!ENTITY AllTagsMode.tooltip "Mostrar iconos para todas las etiquetas HTML">
