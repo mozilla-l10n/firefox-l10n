@@ -31,4 +31,4 @@
 <!ENTITY Diskspace "Espace disque">
 <!ENTITY offlineCompact.label "Compacter les dossiers quand l'espace gagné atteint au moins">
 <!ENTITY offlineCompact.accesskey "m">
-<!ENTITY kb.label "Ko">
+<!ENTITY mb.label "Mo">
