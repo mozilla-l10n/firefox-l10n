@@ -46,12 +46,11 @@
 <!ENTITY certmgr.ca.builtins                  "Вбудовані центри авторизації">
 <!ENTITY certmgr.ca.mycas                     "Центри авторизації, керовані вами">
 
-<!--FIXME-->
-<!ENTITY certmgr.mine                         "You have certificates from these organizations that identify you:">
-<!ENTITY certmgr.others                       "You have certificates on file that identify these people:">
-<!ENTITY certmgr.websites2                    "You have certificates on file that identify these servers:">
-<!ENTITY certmgr.cas                          "You have certificates on file that identify these certificate authorities:">
-<!ENTITY certmgr.orphans                      "You have certificates on file that do not fit in any of the other categories:">
+<!ENTITY certmgr.mine                         "Ви володієте ідентифікуючими вас сертифікатами від цих організацій:">
+<!ENTITY certmgr.others                       "У вас є сертифікати, які ідентифікують цих людей:">
+<!ENTITY certmgr.websites2                    "У вас є сертифікати, які ідентифікують ці сервери:">
+<!ENTITY certmgr.cas                          "У вас є сертифікати, які ідентифікують ці центри сертифікації:">
+<!ENTITY certmgr.orphans                      "У вас є сертифікати, які не вписуються в будь-яку з інших категорій:">
 
 <!ENTITY certmgr.detail.general_tab.title     "Основне">
 <!ENTITY certmgr.detail.general_tab.accesskey "в">
@@ -93,7 +92,7 @@
 <!ENTITY certmgr.deleteusercert.beforename    "Ви збираєтеся вилучити сертифікат:">
 <!ENTITY certmgr.deleteusercert.aftername     "Вилучивши цей сертифікат, ви не зможете читати пошту, зашифровану з його допомогою.">
 
-<!ENTITY certmgr.certname                     "Ім’я сертифікату">
+<!ENTITY certmgr.certname                     "Назва сертифікату">
 <!ENTITY certmgr.certserver                   "Сервер">
 <!ENTITY certmgr.override_lifetime            "Час життя">
 <!ENTITY certmgr.tokenname                    "Пристрій захисту">
@@ -106,9 +105,9 @@
 <!ENTITY certmgr.close.accesskey              "а">
 <!ENTITY certmgr.view2.label                  "Переглянути…">
 <!ENTITY certmgr.view2.accesskey              "П">
-<!--FIXME-->
-<!ENTITY certmgr.edit3.label                  "Edit Trust…">
-<!ENTITY certmgr.edit3.accesskey              "E">
+
+<!ENTITY certmgr.edit3.label                  "Зміна Довіри…">
+<!ENTITY certmgr.edit3.accesskey              "Д">
 <!ENTITY certmgr.editca.label                 "Змінити довіру центру">
 <!ENTITY certmgr.editca.accesskey             "і">
 <!ENTITY certmgr.add.label                    "Додати">
@@ -117,9 +116,9 @@
 <!ENTITY certmgr.export.accesskey             "Е">
 <!ENTITY certmgr.delete2.label                "Стерти…">
 <!ENTITY certmgr.delete2.accesskey            "С">
-<!--FIXME-->
-<!ENTITY certmgr.delete_builtin.label         "Delete or Distrust…">
-<!ENTITY certmgr.delete_builtin.accesskey     "D">
+
+<!ENTITY certmgr.delete_builtin.label         "Видалити або Не довіряти…">
+<!ENTITY certmgr.delete_builtin.accesskey     "В">
 <!ENTITY certmgr.backup2.label                "Створити резервну копію…">
 <!ENTITY certmgr.backup2.accesskey            "т">
 <!ENTITY certmgr.backupall2.label             "Створити резервні копії всіх…">
