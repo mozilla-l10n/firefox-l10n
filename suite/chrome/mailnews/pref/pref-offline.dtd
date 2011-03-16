@@ -28,4 +28,4 @@
 <!ENTITY Diskspace "Spazio su disco">
 <!ENTITY offlineCompact.label "Compatta le cartelle quando contengono più di">
 <!ENTITY offlineCompact.accesskey "m">
-<!ENTITY kb.label "kB">
+<!ENTITY mb.label "MB">
