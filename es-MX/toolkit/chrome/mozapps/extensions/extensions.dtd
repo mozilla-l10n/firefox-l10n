@@ -127,7 +127,7 @@
 <!ENTITY addon.details.label "Más">
 <!ENTITY addon.details.tooltip "Ver más detalles acerca de este complemento">
 <!ENTITY addon.unknownDate "Desconocido">
-<!ENTITY addon.disabled.postfix "(deshabilitadp)">
+<!ENTITY addon.disabled.postfix "(deshabilitado)">
 <!ENTITY addon.update.postfix "Actualizar">
 <!ENTITY addon.undoAction.label "Deshacer">
 <!ENTITY addon.undoAction.tooltip "Deshacer esta acción">
