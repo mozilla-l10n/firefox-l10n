@@ -29,3 +29,5 @@
 <!ENTITY testpilot.feedbackbutton.label                "Відгук">
 <!ENTITY testpilot.happy.label        "Firefox мене порадував тим, що…">
 <!ENTITY testpilot.sad.label          "Firefox мене засмутив тим, що…">
+<!ENTITY testpilot.broken.label      "Цей сайт поламався…">
+<!ENTITY testpilot.idea.label        "Підказати ідею…">

@@ -6,15 +6,7 @@
 
 <!ENTITY abouthome.pageTitle "Початкова сторінка &brandFullName;">
 
-<!-- LOCALIZATION NOTE (abouthome.brandStart):
-     brandShortName must be in a <span/>
--->
-<!ENTITY abouthome.brandStart "<span>&brandShortName;</span> Start">
-
 <!ENTITY abouthome.searchEngineButton.label "Пошук">
-
-<!ENTITY abouthome.searchEngineLinks.advanced "Складний пошук">
-<!ENTITY abouthome.searchEngineLinks.preferences "Налаштування">
 
 <!ENTITY abouthome.aboutMozilla "Про Mozilla">
 
