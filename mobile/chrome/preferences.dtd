@@ -19,4 +19,4 @@
 <!ENTITY homepage.none                             "Leere Seite">
 <!ENTITY homepage.default                          "&brandShortName;-Start">
 <!ENTITY homepage.currentpage                      "Aktuelle Seite verwenden">
-
+<!ENTITY showCharset.title                         "Zeichenkodierung anzeigen">
