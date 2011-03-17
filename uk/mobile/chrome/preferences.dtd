@@ -2,6 +2,7 @@
 <!ENTITY about.title                               "Про &brandShortName;">
 <!ENTITY about.button                              "До сторінки">
 <!ENTITY content.title                             "Вміст">
+<!ENTITY reflowZoom.title                          "Переформатувати текст при збільшенні">
 <!ENTITY showImages.title                          "Показувати малюнки">
 <!ENTITY enableJavaScript.title                    "Дозволити JavaScript">
 <!ENTITY enablePlugins.title                       "Дозволити модулі">
@@ -18,3 +19,4 @@
 <!ENTITY homepage.none                             "Пуста сторінка">
 <!ENTITY homepage.default                          "Початкова сторінка &brandShortName;">
 <!ENTITY homepage.currentpage                      "Використовувати поточну сторінку">
+<!ENTITY showCharset.title                         "Показувати вибір кодування">

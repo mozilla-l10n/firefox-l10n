@@ -26,6 +26,7 @@
 <!ENTITY historyHeader.label       "Історія">
 <!ENTITY desktopHeader.label       "Настільний ПК">
 
+<!ENTITY editBookmarkDialog.title  "Редагувати закладку">
 <!ENTITY editBookmarkDone.label    "Гаразд">
 <!ENTITY editBookmarkTags.label    "Додавайте мітки сюди">
 
@@ -108,7 +109,6 @@
 <!ENTITY pageactions.reset           "Вичитисти налаштування сайта">
 <!ENTITY pageactions.findInPage      "Знайти на сторінці">
 <!ENTITY pageactions.search.addNew   "Додати пошуковик">
-
-<!ENTITY selectHelper.emptytext      "Filter List">
+<!ENTITY pageactions.charEncoding    "Кодування тексту">
 
 <!ENTITY appMenu.siteOptions         "Site Options">
