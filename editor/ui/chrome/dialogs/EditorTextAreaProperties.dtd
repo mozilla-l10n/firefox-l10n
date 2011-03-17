@@ -1,26 +1,26 @@
 <!ENTITY windowTitle.label "Egenskaber for tekstfelt">
-<!ENTITY Settings.label "Settings">
-<!ENTITY TextAreaName.label "Field Name:">
+<!ENTITY Settings.label "Indstillinger">
+<!ENTITY TextAreaName.label "feltnavn:">
 <!ENTITY TextAreaName.accessKey "N">
-<!ENTITY TextAreaRows.label "Rows:">
+<!ENTITY TextAreaRows.label "Rækker:">
 <!ENTITY TextAreaRows.accessKey "R">
-<!ENTITY TextAreaCols.label "Columns:">
-<!ENTITY TextAreaCols.accessKey "C">
-<!ENTITY TextAreaReadOnly.label "Read Only">
-<!ENTITY TextAreaReadOnly.accessKey "O">
-<!ENTITY TextAreaDisabled.label "Disabled">
-<!ENTITY TextAreaDisabled.accessKey "D">
-<!ENTITY TextAreaTabIndex.label "Tab Index:">
-<!ENTITY TextAreaTabIndex.accessKey "I">
-<!ENTITY TextAreaAccessKey.label "Access Key:">
-<!ENTITY TextAreaAccessKey.accessKey "K">
-<!ENTITY InitialText.label "Initial Text:">
-<!ENTITY InitialText.accessKey "T">
-<!ENTITY TextAreaWrap.label "Wrap Mode:">
-<!ENTITY TextAreaWrap.accessKey "W">
-<!ENTITY WrapDefault.value "Default">
-<!ENTITY WrapOff.value "Off">
-<!ENTITY WrapHard.value "Hard">
-<!ENTITY WrapSoft.value "Soft">
-<!ENTITY WrapPhysical.value "Physical">
-<!ENTITY WrapVirtual.value "Virtual">
+<!ENTITY TextAreaCols.label "Kolonner:">
+<!ENTITY TextAreaCols.accessKey "K">
+<!ENTITY TextAreaReadOnly.label "Skrivebeskyttet">
+<!ENTITY TextAreaReadOnly.accessKey "S">
+<!ENTITY TextAreaDisabled.label "Slået fra">
+<!ENTITY TextAreaDisabled.accessKey "l">
+<!ENTITY TextAreaTabIndex.label "Tabulatorindrykning:">
+<!ENTITY TextAreaTabIndex.accessKey "i">
+<!ENTITY TextAreaAccessKey.label "Genvejstast:">
+<!ENTITY TextAreaAccessKey.accessKey "G">
+<!ENTITY InitialText.label "Oprindelig tekst:">
+<!ENTITY InitialText.accessKey "t">
+<!ENTITY TextAreaWrap.label "Ombryd:">
+<!ENTITY TextAreaWrap.accessKey "O">
+<!ENTITY WrapDefault.value "Standard">
+<!ENTITY WrapOff.value "Fra">
+<!ENTITY WrapHard.value "Hård">
+<!ENTITY WrapSoft.value "Blød">
+<!ENTITY WrapPhysical.value "Fysisk">
+<!ENTITY WrapVirtual.value "Virtuelt">
