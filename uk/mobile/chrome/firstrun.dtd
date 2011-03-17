@@ -1,11 +1,11 @@
 <!ENTITY firstrun.title                "Ласкаво просимо до &brandShortName;">
-<!ENTITY firstrun.heading2             "Ласкаво просимо до &brandShortName;">
-<!ENTITY firstrun.sync2.title          "Синхронізуйтесь">
-<!ENTITY firstrun.sync2.description    "Увійдіть у свій обліковий запис Sync та зробіть вашу історію, вкладки, паролі та закладки спільними між вашим комп’ютером та мобілкою.">
+<!ENTITY firstrun.heading2             "Ласкаво просимо">
+<!ENTITY firstrun.sync2.title          "Синхронізуйте">
+<!ENTITY firstrun.sync2.description    "Увійдіть у свій запис Sync та зробіть вашу історію, вкладки, закладки та паролі спільними на комп’ютері та в мобілці.">
 <!ENTITY firstrun.addons2.title        "Підлаштовуйте">
-<!ENTITY firstrun.addons2.description  "Знаходьте та встановлюйте додатки щоб додати нових функцій вашому &brandShortName;">
+<!ENTITY firstrun.addons2.description  "Знаходьте та встановлюйте додатки, щоб додати нових функцій вашому &brandShortName;">
 <!ENTITY firstrun.home2.title          "Переглядайте">
-<!ENTITY firstrun.home2.description    "Пропустити це все та перейти до вашої персоналізованої початкової сторінки щоб почати переглядати веб">
+<!ENTITY firstrun.home2.description    "Пропустити це все та перейти до вашої персоналізованої початкової сторінки, щоб почати подорож">
 <!ENTITY firstrun.features             "Подивитись решту функцій">
 <!ENTITY firstrun.faq                  "ЧаПи">
 <!ENTITY firstrun.privacy              "Конфіденційність">
