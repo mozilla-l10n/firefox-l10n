@@ -69,7 +69,7 @@
 <!ENTITY bookmarkRemove.label      "Fjern">
 <!ENTITY bookmarkEdit.label        "Rediger">
 
-<!ENTITY identity.unverifiedsite2 "Denne siden har ingen identitetsinformasjon.">
+<!ENTITY identity.unverifiedsite2 "Denne siden har ingen identitetsinfo.">
 <!ENTITY identity.connectedTo2 "Du er tilkoblet">
 <!-- Localization note (identity.runBy2)
  The layout of the identity dialog prevents combining this into a single string with

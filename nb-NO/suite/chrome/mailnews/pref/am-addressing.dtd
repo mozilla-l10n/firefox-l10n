@@ -1,6 +1,6 @@
 <!-- extracted from am-addressing.xul -->
 
-<!ENTITY addressing.label          "Adressering og utforming">
+<!ENTITY addressing.label          "Utforming og adressering">
 <!ENTITY addressingGroupTitle.label "Adressering">
 <!ENTITY autocompleteToMyDomain.label     "Automatisk legg til domene på slutten av adresser">
 <!ENTITY autocompleteToMyDomain.accesskey "u">
