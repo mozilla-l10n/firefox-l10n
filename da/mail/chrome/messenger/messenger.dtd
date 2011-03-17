@@ -5,10 +5,21 @@
 <!-- File Menu -->
 <!ENTITY newFolderCmd.label "Mappe…">
 <!ENTITY newFolderCmd.accesskey "p">
-<!ENTITY closeTabCmd.label "Luk faneblad">
-<!ENTITY closeTabCmd.accesskey "e">
-<!ENTITY closeOtherTabsCmd.label "Luk andre faneblade">
-<!ENTITY closeOtherTabsCmd.accesskey "L">
+<!ENTITY closeTabCmd2.label "Luk faneblad">
+<!ENTITY closeTabCmd2.accesskey "e">
+<!ENTITY closeOtherTabsCmd2.label "Luk andre faneblade">
+<!ENTITY closeOtherTabsCmd2.accesskey "L">
+<!-- LOCALIZATION NOTE (undoCloseTabCmd.label):
+     Menu option to attempt to re-open a recently closed tab.
+     -->
+<!ENTITY undoCloseTabCmd.label "Fortryd lukning af faneblad">
+<!ENTITY undoCloseTabCmd.accesskey "F">
+<!-- LOCALIZATION NOTE (moveToNewWindow.label):
+     Menu option to cause the current tab to be migrated to a new Thunderbird
+     window.
+     -->
+<!ENTITY moveToNewWindow.label "Flyt til nyt vindue">
+<!ENTITY moveToNewWindow.accesskey "n">
 <!ENTITY newVirtualFolderCmd.label "Virtuel mappe…">
 <!ENTITY newVirtualFolderCmd.accesskey "t">
 <!ENTITY newOtherAccountsCmd.label "Andre konti…">
@@ -393,12 +404,11 @@ you can use these alternative items. Otherwise, their values should be empty.  -
 <!ENTITY tagCmd9.key "9">
 <!ENTITY markMenu.label "Marker">
 <!ENTITY markMenu.accesskey "M">
+<!ENTITY toggleReadCmd.key "m">
 <!ENTITY markAsReadCmd.label "Som læst">
 <!ENTITY markAsReadCmd.accesskey "l">
-<!ENTITY markAsReadCmd.key "m">
 <!ENTITY markAsUnreadCmd.label "marker som ulæst">
 <!ENTITY markAsUnreadCmd.accesskey "u">
-<!ENTITY markAsUnreadCmd.key "m">
 <!ENTITY markThreadAsReadCmd.label "Tråden som læst">
 <!ENTITY markThreadAsReadCmd.accesskey "T">
 <!ENTITY markThreadAsReadCmd.key "r">
@@ -801,19 +811,15 @@ you can use these alternative items. Otherwise, their values should be empty.  -
 <!ENTITY reportPhishingURL.label "Rapporter mailsvindel">
 <!ENTITY reportPhishingURL.accesskey "R">
 
+<!-- Spell checker context menu items -->
+<!ENTITY spellAddDictionaries.label "Tilføj ordbøger…">
+<!ENTITY spellAddDictionaries.accesskey "o">
+
 <!-- Content Pane Context Menu -->
 <!ENTITY saveLinkAsCmd.label "Gem link som…">
 <!ENTITY saveLinkAsCmd.accesskey "m">
 <!ENTITY saveImageAsCmd.label "Gem billede som…">
 <!ENTITY saveImageAsCmd.accesskey "m">
-<!ENTITY cutCmd.label "Klip">
-<!ENTITY cutCmd.accesskey "K">
-<!ENTITY copyCmd.label "Kopier">
-<!ENTITY copyCmd.accesskey "o">
-<!ENTITY pasteCmd.label "Indsæt">
-<!ENTITY pasteCmd.accesskey "æ">
-<!ENTITY selectAllCmd.label "Marker alt">
-<!ENTITY selectAllCmd.accesskey "t">
 <!ENTITY copyLinkCmd.label "Kopier linkadresse">
 <!ENTITY copyLinkCmd.accesskey "o">
 <!ENTITY copyImageAllCmd.label "Kopier billedadresse">

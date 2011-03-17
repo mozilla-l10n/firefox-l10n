@@ -405,7 +405,6 @@
 
 <!-- Toolbar-only items -->
 <!ENTITY menuBar.tooltip "Menulinjen">
-<!ENTITY compositionToolbar.tooltip "Værktøjslinjen komposition">
 <!ENTITY formatToolbar.tooltip "Formateringslinjen">
 <!ENTITY newToolbarCmd.tooltip "Opret en ny Composer-side">
 <!ENTITY openToolbarCmd.label "Åbn">
@@ -450,33 +449,7 @@
 <!ENTITY alignLeftButton.tooltip "Juster tekst langs venstre margin">
 <!ENTITY alignCenterButton.tooltip "Centrer tekst">
 <!ENTITY alignRightButton.tooltip "Juster tekst langs højre margin">
-<!ENTITY alignjustifyButton.tooltip "Juster teksten langs højre og venstre margin">
-
-<!-- Display Mode toolbar and View menu items -->
-<!ENTITY NormalModeTab.label "Normal">
-<!ENTITY NormalMode.label "Normal redigeringstilstand">
-<!ENTITY NormalMode.accesskey "N">
-<!ENTITY NormalMode.tooltip "Vis tabelrammer og navngivne linkmål">
-<!ENTITY AllTagsMode.label "Vis alle tags">
-<!ENTITY AllTagsMode.accesskey "A">
-<!ENTITY AllTagsMode.tooltip "Vis ikoner for alle HTML-tags">
-
-<!ENTITY HTMLSourceMode.label "HTML kildekode">
-<!-- Toolbar has an image with "HTML" text, so don't include it in the string -->
-<!ENTITY SourceMode.label "Kildekode">
-<!ENTITY HTMLSourceMode.accesskey "h">
-<!ENTITY HTMLSourceMode.tooltip "Rediger HTML-kildekode">
-<!ENTITY PreviewMode.label "Webvisning">
-<!ENTITY PreviewMode.accesskey "w">
-<!ENTITY PreviewMode.tooltip "Vis som WYSIWYG (som i Navigator)">
-
-<!-- LOCALIZATION NOTE: Do NOT translate text for 'SourceTabDirection'
-     Use latin "ltr" if you want the <html> image to left of the 
-     'SourceMode.label' text defined above,
-     or use latin "rtl" if you want this image to the right of text
-     This is the value of the HTML 'dir' attribute
--->
-<!ENTITY SourceTabDirection "ltr">
+<!ENTITY alignJustifyButton.tooltip "Juster teksten langs højre og venstre margin">
 
 <!-- Structure Toolbar Context Menu items -->
 <!ENTITY structSelect.label "Marker">

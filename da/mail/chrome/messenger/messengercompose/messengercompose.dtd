@@ -263,5 +263,9 @@
 <!ENTITY attachPage.label "Vedhæft hjemmeside…">
 <!ENTITY attachPage.accesskey "h">
 
+<!-- Spell checker context menu items -->
+<!ENTITY spellAddDictionaries.label "Tilføj ordbøger…">
+<!ENTITY spellAddDictionaries.accesskey "T">
+
 <!-- Title for the address picker panel -->
 <!ENTITY addressesSidebarTitle.label "Kontakter">
