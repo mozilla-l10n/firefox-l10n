@@ -19,3 +19,4 @@
 <!ENTITY homepage.none                             "ਖਾਲੀ ਸਫ਼ਾ">
 <!ENTITY homepage.default                          "&brandShortName; ਸ਼ੁਰੂ">
 <!ENTITY homepage.currentpage                      "ਮੌਜੂਦਾ ਸਫ਼ਾ ਵਰਤੋਂ">
+<!ENTITY showCharset.title                         "Show Character Encoding">
