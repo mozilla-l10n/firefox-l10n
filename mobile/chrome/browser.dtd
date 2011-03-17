@@ -106,7 +106,7 @@
 <!ENTITY pageactions.saveas.pdf      "Зберегти як PDF">
 <!ENTITY pageactions.share.page      "Поділитись сторінкою">
 <!ENTITY pageactions.password.forget "Забути пароль">
-<!ENTITY pageactions.reset           "Вичитисти налаштування сайта">
+<!ENTITY pageactions.reset           "Вичиcтити налаштування сайта">
 <!ENTITY pageactions.findInPage      "Знайти на сторінці">
 <!ENTITY pageactions.search.addNew   "Додати пошуковик">
 <!ENTITY pageactions.charEncoding    "Кодування тексту">
