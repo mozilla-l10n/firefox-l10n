@@ -61,7 +61,7 @@
 <!ENTITY saveCmd.label "Enrollañ">
 <!ENTITY saveCmd.accesskey "E">
 <!ENTITY saveCmd.key "S">
-<!ENTITY saveAsCmd.label "Enrollañ dindan…">
+<!ENTITY saveAsCmd.label "Enrollañ evel…">
 <!ENTITY saveAsCmd.accesskey "d">
 
 <!ENTITY publishCmd.label "Brudañ">

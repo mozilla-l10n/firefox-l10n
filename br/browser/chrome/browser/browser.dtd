@@ -364,12 +364,12 @@ can reach it easily. -->
 <!ENTITY bookmarkThisFrameCmd.accesskey  "m">
 <!ENTITY sendPageCmd.label            "Kas an ere…">
 <!ENTITY sendPageCmd.accesskey        "K">
-<!ENTITY savePageCmd.label            "Enrollañ ar bajenn dindan…">
-<!ENTITY savePageCmd.accesskey        "d">
+<!ENTITY savePageCmd.label            "Enrollañ ar bajenn evel…">
+<!ENTITY savePageCmd.accesskey        "a">
 <!-- alternate for content area context menu -->
 <!ENTITY savePageCmd.accesskey2       "d">
 <!ENTITY savePageCmd.commandkey       "s">
-<!ENTITY saveFrameCmd.label           "Enrollañ ar frammad dindan…">
+<!ENTITY saveFrameCmd.label           "Enrollañ ar frammad evel…">
 <!ENTITY saveFrameCmd.accesskey       "f">
 <!ENTITY printFrameCmd.label          "Moullañ ar frammad…">
 <!ENTITY printFrameCmd.accesskey      "l">
@@ -377,11 +377,11 @@ can reach it easily. -->
 <!ENTITY saveLinkCmd.accesskey        "n">
 <!ENTITY sendLinkCmd.label            "Kas an ere…"> 
 <!ENTITY sendLinkCmd.accesskey        "K">
-<!ENTITY saveImageCmd.label           "Enrollañ ar skeudenn dindan…">
-<!ENTITY saveImageCmd.accesskey       "d">
-<!ENTITY saveVideoCmd.label           "Enrollañ ar video dindan …">
+<!ENTITY saveImageCmd.label           "Enrollañ ar skeudenn evel…">
+<!ENTITY saveImageCmd.accesskey       "v">
+<!ENTITY saveVideoCmd.label           "Enrollañ ar video evel…">
 <!ENTITY saveVideoCmd.accesskey       "v">
-<!ENTITY saveAudioCmd.label           "Enrollañ ar restr klevet dindan…">
+<!ENTITY saveAudioCmd.label           "Enrollañ ar restr mod aodio evel…">
 <!ENTITY saveAudioCmd.accesskey       "v">
 <!ENTITY sendImageCmd.label           "Kas ar skeudenn…">
 <!ENTITY sendImageCmd.accesskey       "k">

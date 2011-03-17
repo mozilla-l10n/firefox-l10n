@@ -75,8 +75,8 @@
 <!ENTITY  mediaDimension        "Mentoù :">
 <!ENTITY  mediaLongdesc         "Deskrivadenn gemplezh :">
 <!ENTITY  mediaBlockImage.accesskey "H">
-<!ENTITY  mediaSaveAs           "Enrollañ dindan …">
-<!ENTITY  mediaSaveAs.accesskey "n">
+<!ENTITY  mediaSaveAs           "Enrollañ evel…">
+<!ENTITY  mediaSaveAs.accesskey "a">
 <!ENTITY  mediaSaveAs2.accesskey "e">
 <!ENTITY  mediaPreview          "Alberz ar media :">
 

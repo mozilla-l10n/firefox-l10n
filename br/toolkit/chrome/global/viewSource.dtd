@@ -10,8 +10,8 @@
 
 <!ENTITY fileMenu.label "Restr">
 <!ENTITY fileMenu.accesskey "r">
-<!ENTITY savePageCmd.label "Enrollañ ar bajenn dindan…">
-<!ENTITY savePageCmd.accesskey "d">
+<!ENTITY savePageCmd.label "Enrollañ ar bajenn evel…">
+<!ENTITY savePageCmd.accesskey "a">
 <!ENTITY savePageCmd.commandkey "b">
 <!ENTITY pageSetupCmd.label "Pajennaozañ …">
 <!ENTITY pageSetupCmd.accesskey "P">

@@ -92,7 +92,7 @@
 <!ENTITY markAsReadMenuItem.accesskey "r">
 <!ENTITY markAsUnreadMenuItem.label "merkañ evel ket lennet">
 <!ENTITY markAsUnreadMenuItem.accesskey "r">
-<!ENTITY saveAsMenuItem.label "enrollañ dindan…">
+<!ENTITY saveAsMenuItem.label "enrollañ evel…">
 <!ENTITY saveAsMenuItem.accesskey "e">
 <!ENTITY viewSourceMenuItem.label "gwelout an tarzh">
 <!ENTITY viewSourceMenuItem.accesskey "w">
@@ -101,7 +101,7 @@
 
 <!ENTITY openAttachmentCmd.label "Digeriñ">
 <!ENTITY openAttachmentCmd.accesskey "d">
-<!ENTITY saveAsAttachmentCmd.label "Enrollañ dindan…">
+<!ENTITY saveAsAttachmentCmd.label "Enrollañ evel…">
 <!ENTITY saveAsAttachmentCmd.accesskey "d">
 <!ENTITY detachAttachmentCmd.label "Distagañ …">
 <!ENTITY deleteAttachmentCmd.label "Dilemel">

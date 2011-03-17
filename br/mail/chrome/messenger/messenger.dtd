@@ -19,7 +19,7 @@
 <!ENTITY openMessageFileCmd.accesskey "O">
 <!ENTITY openAttachmentCmd.label "Teulioù kenstag">
 <!ENTITY openAttachmentCmd.accesskey "A">
-<!ENTITY saveAsMenu.label "Enrollañ dindan">
+<!ENTITY saveAsMenu.label "Enrollañ evel">
 <!ENTITY saveAsMenu.accesskey "d">
 <!ENTITY saveAsFileCmd.label "Restr">
 <!ENTITY saveAsFileCmd.accesskey "R">
@@ -660,7 +660,7 @@ you can use these alternative items. Otherwise, their values should be empty.  -
 <!ENTITY contextMoveCopyMsgRecentMenu.accesskey "v">
 <!ENTITY contextCopyMsgMenu.label "Eilañ etrezek">
 <!ENTITY contextCopyMsgMenu.accesskey "k">
-<!ENTITY contextSaveAs.label "Enrollañ dindan…">
+<!ENTITY contextSaveAs.label "Enrollañ evel…">
 <!ENTITY contextSaveAs.accesskey "i">
 <!ENTITY contextPrint.label "Moullañ…">
 <!ENTITY contextPrint.accesskey "m">
