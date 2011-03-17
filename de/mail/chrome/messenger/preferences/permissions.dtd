@@ -4,7 +4,7 @@
 <!ENTITY treehead.sitename.label      "Website">
 <!ENTITY treehead.status.label        "Status">
 <!ENTITY removepermission.label       "Website entfernen">
-<!ENTITY removepermission.accesskey   "n">
+<!ENTITY removepermission.accesskey   "W">
 <!ENTITY removeallpermissions.label   "Alle Websites entfernen">
 <!ENTITY removeallpermissions.accesskey "A">
 <!ENTITY address.label                "Adresse der Website:">
@@ -18,5 +18,5 @@
 <!ENTITY windowClose.key              "w">
 
 <!ENTITY button.close.label           "Schließen">
-<!ENTITY button.close.accesskey       "S">
+<!ENTITY button.close.accesskey       "c">
 

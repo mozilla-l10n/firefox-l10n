@@ -5,4 +5,4 @@
 <!ENTITY enableLog.label "Filter-Protokoll aktivieren">
 <!ENTITY enableLog.accesskey "a">
 <!ENTITY closeLog.label "Schließen">
-<!ENTITY closeLog.accesskey "S">
+<!ENTITY closeLog.accesskey "c">
