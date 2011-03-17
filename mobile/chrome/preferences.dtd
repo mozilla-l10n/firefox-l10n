@@ -2,7 +2,7 @@
 <!ENTITY about.title                               "Про &brandShortName;">
 <!ENTITY about.button                              "До сторінки">
 <!ENTITY content.title                             "Вміст">
-<!ENTITY reflowZoom.title                          "Переформатувати текст при збільшенні">
+<!ENTITY reflowZoom.title                          "Текст за шириною екрана">
 <!ENTITY showImages.title                          "Показувати малюнки">
 <!ENTITY enableJavaScript.title                    "Дозволити JavaScript">
 <!ENTITY enablePlugins.title                       "Дозволити модулі">
@@ -14,9 +14,9 @@
 <!ENTITY language.title                            "Мова">
 <!ENTITY language.auto                             "Автовизначення">
 <!ENTITY defaultBrowser.title                      "Типовий браузер">
-<!ENTITY defaultBrowser.description                "Зробити &brandShortName; вашим типовим браузером">
-<!ENTITY homepage.title                            "Початкова сторінка">
+<!ENTITY defaultBrowser.description                "Зробити &brandShortName; типовим браузером">
+<!ENTITY homepage.title                            "Початкова стор.">
 <!ENTITY homepage.none                             "Пуста сторінка">
-<!ENTITY homepage.default                          "Початкова сторінка &brandShortName;">
-<!ENTITY homepage.currentpage                      "Використовувати поточну сторінку">
+<!ENTITY homepage.default                          "&brandShortName;:початкова">
+<!ENTITY homepage.currentpage                      "Встановити поточну">
 <!ENTITY showCharset.title                         "Показувати вибір кодування">
