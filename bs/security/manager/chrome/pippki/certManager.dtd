@@ -143,5 +143,5 @@
 <!ENTITY exceptionMgr.certstatus.caption      "Status certifikata">
 <!ENTITY exceptionMgr.certstatus.viewCert     "Pogledaj…">
 <!ENTITY exceptionMgr.certstatus.accesskey    "V">
-<!ENTITY exceptionMgr.permanent.label         "Trajno pohrani ovu iznimku">
+<!ENTITY exceptionMgr.permanent.label         "Trajno pohrani ovaj izuzetak">
 <!ENTITY exceptionMgr.permanent.accesskey     "p">
