@@ -5,21 +5,21 @@
 <!ENTITY reload.label          "Оновити">
 <!ENTITY stop.label            "Зупинити">
 <!ENTITY go.label              "Перейти">
-<!ENTITY star.label            "Star">
+<!ENTITY star.label            "Відзначити">
 
 <!ENTITY newtab.label          "Нова вкладка">
 <!ENTITY closetab.label        "Закрити вкладку">
 
 <!ENTITY cut.label             "Вирізати">
 <!ENTITY copy.label            "Копіювати">
-<!ENTITY copyAll.label         "Copy All">
+<!ENTITY copyAll.label         "Скопіювати все">
 <!ENTITY copylink.label        "Копіювати посилання">
 <!ENTITY paste.label           "Вставити">
 <!ENTITY delete.label          "Стерти">
 <!ENTITY selectAll.label       "Вибрати усі">
 <!ENTITY noSuggestions.label   "(нема підказок)">
 <!ENTITY addToDictionary.label "Додати в словник">
-<!ENTITY inputMethod.label     "Select Input Method">
+<!ENTITY inputMethod.label     "Вибрати метод вводу">
 
 <!ENTITY allPagesHeader.label      "Всі сторінки">
 <!ENTITY bookmarksHeader.label     "Закладки">
@@ -111,4 +111,4 @@
 <!ENTITY pageactions.search.addNew   "Додати пошуковик">
 <!ENTITY pageactions.charEncoding    "Кодування тексту">
 
-<!ENTITY appMenu.siteOptions         "Site Options">
+<!ENTITY appMenu.siteOptions         "Налаштування сайта">
