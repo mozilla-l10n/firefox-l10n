@@ -109,5 +109,6 @@
 <!ENTITY pageactions.reset           "امسح تفضيلات الموقع">
 <!ENTITY pageactions.findInPage      "ابحث في الصفحة">
 <!ENTITY pageactions.search.addNew   "أضِف محرك بحث">
+<!ENTITY pageactions.charEncoding    "ترميز المحارف">
 
 <!ENTITY appMenu.siteOptions         "خيارات الموقع">
