@@ -19,3 +19,5 @@
 <!ENTITY homepage.none                             "صفحة فارغة">
 <!ENTITY homepage.default                          "بداية &brandShortName;">
 <!ENTITY homepage.currentpage                      "استخدِم الصفحة الحالية">
+<!ENTITY showCharset.title                         "أظهِر ترميز المحارف">
+

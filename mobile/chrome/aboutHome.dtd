@@ -9,5 +9,7 @@
 <!ENTITY aboutHome.noTabs                       "لا يوجد ألسنة من المرة السابقة">
 <!ENTITY aboutHome.noAddons                     "لا يوجد إضافات مزكّاة">
 
-<!-- LOCALIZATION NOTE: 'Firefox Spark' is the official name of the promotion and should not be translated -->
-<!ENTITY aboutHome.promoSpark                   "شغّل Firefox Spark">
+<!-- LOCALIZATION NOTE: 'Firefox Spark' is the official name of the promotion/constest and should not be translated -->
+<!ENTITY aboutHome.promoLabel                   "فَيَرفُكس سبارك">
+<!-- LOCALIZATION NOTE: 'Play' should be translated in the context of 'playing a game' and not 'playing a video' -->
+<!ENTITY aboutHome.promoButton                  "العب">
