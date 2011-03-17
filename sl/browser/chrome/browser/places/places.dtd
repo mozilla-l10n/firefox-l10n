@@ -40,7 +40,7 @@
 <!ENTITY cmd.backup.accesskey "V">
 <!ENTITY cmd.restore2.label "Povrni">
 <!ENTITY cmd.restore2.accesskey "R">
-<!ENTITY cmd.restoreFromFile.label "Izberite datoteko …">
+<!ENTITY cmd.restoreFromFile.label "Izberi datoteko …">
 <!ENTITY cmd.restoreFromFile.accesskey "I">
 
 <!ENTITY cmd.bookmarkLink.label         "Dodaj zaznamek za to stran …">

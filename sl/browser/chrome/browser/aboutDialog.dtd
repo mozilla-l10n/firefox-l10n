@@ -8,9 +8,9 @@
 <!ENTITY community.creditsLink      "globalna skupnost, ">
 <!ENTITY community.end2             " ki si prizadeva za boljši internet. Verjamemo, da mora biti internet odprt, javen ter dostopen vsem in brez omejitev.">
 
-<!ENTITY contribute.start           "Se ti sliši zanimivo? ">
+<!ENTITY contribute.start           "Se vam sliši zanimivo? ">
 <!-- LOCALIZATION NOTE (contribute.getInvolvedLink): This is a link title that links to http://www.mozilla.org/contribute/. -->
-<!ENTITY contribute.getInvolvedLink "Pridruži se nam!">
+<!ENTITY contribute.getInvolvedLink "Pridružite se nam!">
 <!ENTITY contribute.end             "">
 
 <!-- LOCALIZATION NOTE (bottomLinks.license): This is a link title that links to about:license. -->

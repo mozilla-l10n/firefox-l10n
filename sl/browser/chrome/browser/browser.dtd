@@ -479,7 +479,7 @@ you can use these alternative items. Otherwise, their values should be empty.  -
 <!ENTITY pageStyleMenu.label "Slog strani">
 <!ENTITY pageStyleMenu.accesskey "g">
 <!ENTITY pageStyleNoStyle.label "Brez sloga">
-<!ENTITY pageStyleNoStyle.accesskey "n">
+<!ENTITY pageStyleNoStyle.accesskey "b">
 <!ENTITY pageStylePersistentOnly.label "Osnovni slog strani">
 <!ENTITY pageStylePersistentOnly.accesskey "o">
 
