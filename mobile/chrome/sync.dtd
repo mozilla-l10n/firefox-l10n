@@ -9,9 +9,9 @@
 <!ENTITY sync.syncNow               "Sync nå">
 
 <!ENTITY sync.setup.title           "Koble til Sync">
-<!ENTITY sync.setup.jpake           "Fra en datamaskin med Firefox Sync, gå til Sync-innstililnger og velg &#x0022;Legg til en enhet&#x0022;">
-<!ENTITY sync.fallback              "Jeg er ikke ved datamaskinen …">
-<!ENTITY sync.setup.manual          "Skriv inn Sync-kontoinformasjonen">
+<!ENTITY sync.setup.jpake           "Fra en datamaskin med Firefox Sync, gå til Sync-innstillinger og velg &#x0022;Legg til en enhet&#x0022;">
+<!ENTITY sync.fallback              "Jeg er ikke nær datamaskinen …">
+<!ENTITY sync.setup.manual          "Skriv inn Sync-kontodetaljer">
 <!ENTITY sync.account               "Kontonavn">
 <!ENTITY sync.password              "Passord">
 <!ENTITY sync.syncKey               "Sync-nøkkel">
