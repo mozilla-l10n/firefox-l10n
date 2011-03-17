@@ -3,4 +3,4 @@
 <!ENTITY clearLog.label "Protokoll löschen">
 <!ENTITY clearLog.accesskey "P">
 <!ENTITY closeLog.label "Schließen">
-<!ENTITY closeLog.accesskey "S">
+<!ENTITY closeLog.accesskey "c">

@@ -4,7 +4,7 @@
 <!ENTITY cookiename.label                  "Cookie-Name">
 <!ENTITY cookiedomain.label                "Website">
 <!ENTITY button.removecookie.label         "Cookie entfernen">
-<!ENTITY button.removecookie.accesskey     "C">
+<!ENTITY button.removecookie.accesskey     "o">
 <!ENTITY button.removeallcookies.label     "Alle Cookies entfernen">
 <!ENTITY button.removeallcookies.accesskey "A">
 
@@ -21,8 +21,8 @@
 <!ENTITY focusSearch2.key                  "k">
 
 <!ENTITY filter.label                      "Suchen">
-<!ENTITY filter.accesskey                  "u">
+<!ENTITY filter.accesskey                  "S">
 
 <!ENTITY button.close.label                "Schließen">
-<!ENTITY button.close.accesskey            "S">
+<!ENTITY button.close.accesskey            "c">
 
