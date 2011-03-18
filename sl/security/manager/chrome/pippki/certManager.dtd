@@ -116,7 +116,7 @@
 <!ENTITY certmgr.delete2.label "Zbriši …">
 <!ENTITY certmgr.delete2.accesskey "Z">
 <!ENTITY certmgr.delete_builtin.label         "Zbriši ali umakni zaupanje …">
-<!ENTITY certmgr.delete_builtin.accesskey     "o">
+<!ENTITY certmgr.delete_builtin.accesskey     "Z">
 <!ENTITY certmgr.backup2.label "Varnostna kopija …">
 <!ENTITY certmgr.backup2.accesskey "K">
 <!ENTITY certmgr.backupall2.label "Varnostna kopija vseh">

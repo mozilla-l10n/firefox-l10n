@@ -13,7 +13,7 @@
 <!ENTITY font.label                           "Pisava:">
 <!ENTITY font.accesskey                       "o">
 <!ENTITY size.label                           "Velikost:">
-<!ENTITY size.accesskey                       "z">
+<!ENTITY size.accesskey                       "l">
 <!ENTITY fontColor.label                      "Barva besedila:">
 <!ENTITY fontColor.accesskey                  "R">
 <!ENTITY bgColor.label                        "Barva ozadja:">
