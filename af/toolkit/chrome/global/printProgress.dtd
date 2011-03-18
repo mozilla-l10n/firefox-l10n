@@ -1,11 +1,11 @@
 <!--LOCALIZATION NOTE printProgress.dtd Main UI for Print Progress Dialog -->
-<!ENTITY printWindow.title "Druk">
-<!ENTITY title    "Titel:">
+<!ENTITY printWindow.title "Druk"> 
+<!ENTITY title    "Titel:"> 
 <!ENTITY progress "Vordering:">
 <!ENTITY preparing "Berei tans voor…">
 <!ENTITY printComplete "Druktaak is afgehandel.">
 
-<!ENTITY dialogCancel.label "Kanselleer">
+<!ENTITY dialogCancel.label "Kanselleer"> 
 <!ENTITY dialogClose.label "Sluit">
 <!-- LOCALIZATION NOTE (percentPrint):
 

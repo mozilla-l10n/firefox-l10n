@@ -60,7 +60,7 @@
 <!ENTITY certmgr.pending.label                "Verifieer tans sertifikaat…">
 <!ENTITY certmgr.subjectinfo.label            "Uitgereik aan">
 <!ENTITY certmgr.issuerinfo.label             "Uitgereik deur">
-<!ENTITY certmgr.validity.label               "Geldigheid">
+<!ENTITY certmgr.validity.label               "Geldigheid" >
 <!ENTITY certmgr.fingerprints.label           "Vingerafdrukke">
 <!ENTITY certmgr.certdetail.title             "Sertifikaatbesonderhede">
 <!ENTITY certmgr.certdetail.cn                "Gebruiklike naam (CN)">

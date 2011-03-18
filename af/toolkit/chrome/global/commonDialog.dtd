@@ -1,7 +1,7 @@
-<!ENTITY header.label     "Kort titel">
+<!ENTITY header.label     "Kort titel"> 
 <!ENTITY message.label    "Voorbeeldteks kom hierso.">
-<!ENTITY editfield0.label "Gebruikernaam:">
-<!ENTITY editfield1.label "Wagwoord:">
+<!ENTITY editfield0.label "Gebruikernaam:"> 
+<!ENTITY editfield1.label "Wagwoord:"> 
 <!ENTITY checkbox.label   "merk">
 <!ENTITY copyCmd.label    "Kopieer">
 <!ENTITY copyCmd.accesskey "K">
