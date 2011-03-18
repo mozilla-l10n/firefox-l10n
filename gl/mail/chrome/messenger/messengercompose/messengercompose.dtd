@@ -193,6 +193,7 @@
 <!ENTITY quoteButton.tooltip "Citar a mensaxe anterior"> 
 <!ENTITY addressButton.tooltip "Seleccionar un destinatario dunha axenda de enderezos"> 
 <!ENTITY attachButton.tooltip "Incluír un anexo"> 
+<!ENTITY spellingButton.tooltip "Verificación ortográfica da selección ou da mensaxe completa"> 
 <!ENTITY saveButton.tooltip "Gardar esta mensaxe"> 
 <!ENTITY cutButton.tooltip              "Cortar">
 <!ENTITY copyButton.tooltip             "Copiar">
@@ -263,6 +264,11 @@
 <!ENTITY attachFile.accesskey "x">
 <!ENTITY attachPage.label "Anexar páxina web…">
 <!ENTITY attachPage.accesskey "w">
+
+<!-- Spell checker context menu items -->
+<!ENTITY spellAddDictionaries.label "Engadir dicionarios…">
+<!ENTITY spellAddDictionaries.accesskey "a">
+
 
 <!-- Title for the address picker panel -->
 <!ENTITY addressesSidebarTitle.label "Contactos">
