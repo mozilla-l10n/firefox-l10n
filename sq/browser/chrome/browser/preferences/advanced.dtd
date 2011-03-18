@@ -25,7 +25,7 @@
 <!ENTITY doNotTrack.accesskey            "u">
 
 <!ENTITY systemDefaults.label            "Parazgjedhje Sistemi">
-<!ENTITY alwaysCheckDefault.label        "Kontrollo përherë gjatë nisjes për të parë në është &brandShortName;-i shfletuesi parazgjedhje"><!--XXX-->
+<!ENTITY alwaysCheckDefault.label        "Gjatë nisjes, kontrollo përherë nëse është apo jo &brandShortName;-i shfletuesi parazgjedhje"><!--XXX-->
 <!ENTITY alwaysCheckDefault.accesskey    "h">
 <!ENTITY checkNow.label                  "Kontrollo Tani">
 <!ENTITY checkNow.accesskey              "T">

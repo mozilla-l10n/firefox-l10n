@@ -9,7 +9,7 @@
 <!ENTITY enableGlodaSearch.label       "Aktivizo Kërkim dhe Indeksues Global">
 <!ENTITY enableGlodaSearch.accesskey   "A">
 <!ENTITY systemIntegration.label       "Integrim me Sistemin">
-<!ENTITY alwaysCheckDefault.label      "Gjatë nisjes, kontrollo përherë për të parë nëse &brandShortName;-i është klienti parazgjedhje për postën">
+<!ENTITY alwaysCheckDefault.label      "Gjatë nisjes, kontrollo përherë nëse është apo jo &brandShortName;-i klienti parazgjedhje për postën">
 <!ENTITY alwaysCheckDefault.accesskey  "g">
 <!ENTITY searchIntegration.label       "Lejo &searchIntegration.engineName; të kërkojë në mesazhet">
 <!ENTITY searchIntegration.accesskey   "L">
