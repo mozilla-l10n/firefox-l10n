@@ -58,7 +58,7 @@
 <!ENTITY updates.installed.label              "Jou byvoegings is bygewerk.">
 <!ENTITY updates.downloaded.label             "Jou byvoeging-bywerkings is afgelaai.">
 <!ENTITY updates.restart.label                "Herbegin nou vir volledige installering">
-<!ENTITY updates.noneFound.label              "Bywerkings vir byvoegings gevind">
+<!ENTITY updates.noneFound.label              "Geen bywerkings gevind nie">
 <!ENTITY updates.manualUpdatesFound.label     "Bekyk beskikbare bywerkings">
 <!ENTITY updates.updateSelected.label         "Installeer bywerkings">
 <!ENTITY updates.updateSelected.tooltip       "Installeer beskikbare bywerkings in hierdie lys">
