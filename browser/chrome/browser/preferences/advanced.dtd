@@ -80,7 +80,7 @@
 <!ENTITY offlineNotifyExceptions.label   "Përjashtime…">
 <!ENTITY offlineNotifyExceptions.accesskey "P">
 
-<!ENTITY offlineAppsList.label           "&quot;Site&quot;-et web vijues kanë të dhëna të instaluara për përdorim &quot;offline&quot;:">
+<!ENTITY offlineAppsList.label           "&quot;Site&quot;-et web vijues kanë të dhëna të depozituara për përdorim &quot;offline&quot;:">
 <!ENTITY offlineAppsList.height          "7em">
 <!ENTITY offlineAppsListRemove.label     "Hiqeni…">
 <!ENTITY offlineAppsListRemove.accesskey "H">
