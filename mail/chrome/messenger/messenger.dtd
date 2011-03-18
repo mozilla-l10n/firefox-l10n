@@ -5,10 +5,21 @@
 <!-- File Menu -->
 <!ENTITY newFolderCmd.label "Cartafol…">
 <!ENTITY newFolderCmd.accesskey "r">
-<!ENTITY closeTabCmd.label "Pechar lapela">
-<!ENTITY closeTabCmd.accesskey "e">
-<!ENTITY closeOtherTabsCmd.label "Pechar as outras lapelas">
-<!ENTITY closeOtherTabsCmd.accesskey "l">
+<!ENTITY closeTabCmd2.label "Pechar lapela">
+<!ENTITY closeTabCmd2.accesskey "c">
+<!ENTITY closeOtherTabsCmd2.label "Pechar as outras lapelas">
+<!ENTITY closeOtherTabsCmd2.accesskey "o">
+<!-- LOCALIZATION NOTE (undoCloseTabCmd.label):
+     Menu option to attempt to re-open a recently closed tab.
+     -->
+<!ENTITY undoCloseTabCmd.label "Anular o peche da lapela">
+<!ENTITY undoCloseTabCmd.accesskey "U">
+<!-- LOCALIZATION NOTE (moveToNewWindow.label):
+     Menu option to cause the current tab to be migrated to a new Thunderbird
+     window.
+     -->
+<!ENTITY moveToNewWindow.label "Mover a unha nova xanela">
+<!ENTITY moveToNewWindow.accesskey "W">
 <!ENTITY newVirtualFolderCmd.label "Busca gardada…">
 <!ENTITY newVirtualFolderCmd.accesskey "B">
 <!ENTITY newOtherAccountsCmd.label "Outras contas…">
@@ -393,12 +404,11 @@ you can use these alternative items. Otherwise, their values should be empty.  -
 <!ENTITY tagCmd9.key "9">
 <!ENTITY markMenu.label "Marcar">
 <!ENTITY markMenu.accesskey "M">
+<!ENTITY toggleReadCmd.key "z">
 <!ENTITY markAsReadCmd.label "Como lida">
 <!ENTITY markAsReadCmd.accesskey "C">
-<!ENTITY markAsReadCmd.key "m">
 <!ENTITY markAsUnreadCmd.label "Como non lido">
 <!ENTITY markAsUnreadCmd.accesskey "n">
-<!ENTITY markAsUnreadCmd.key "m">
 <!ENTITY markThreadAsReadCmd.label "Conversa lida">
 <!ENTITY markThreadAsReadCmd.accesskey "v">
 <!ENTITY markThreadAsReadCmd.key "r">
@@ -801,19 +811,15 @@ you can use these alternative items. Otherwise, their values should be empty.  -
 <!ENTITY reportPhishingURL.label "Informar de correo fraudulento">
 <!ENTITY reportPhishingURL.accesskey "f">
 
+<!-- Spell checker context menu items -->
+<!ENTITY spellAddDictionaries.label "Engadir dicionarios…">
+<!ENTITY spellAddDictionaries.accesskey "a">
+
 <!-- Content Pane Context Menu -->
 <!ENTITY saveLinkAsCmd.label "Gardar ligazón como…">
 <!ENTITY saveLinkAsCmd.accesskey "l">
 <!ENTITY saveImageAsCmd.label "Gardar imaxe como…">
 <!ENTITY saveImageAsCmd.accesskey "i">
-<!ENTITY cutCmd.label "Cortar">
-<!ENTITY cutCmd.accesskey "C">
-<!ENTITY copyCmd.label "Copiar">
-<!ENTITY copyCmd.accesskey "o">
-<!ENTITY pasteCmd.label "Pegar">
-<!ENTITY pasteCmd.accesskey "P">
-<!ENTITY selectAllCmd.label "Seleccionar todo">
-<!ENTITY selectAllCmd.accesskey "t">
 <!ENTITY copyLinkCmd.label "Copiar a localización da ligazón">
 <!ENTITY copyLinkCmd.accesskey "C">
 <!ENTITY copyImageAllCmd.label "Copiar a imaxe">
