@@ -54,8 +54,8 @@
 <!ENTITY valueColumn.label "Waarde">
 <!-- Tooltips -->
 
-<!ENTITY prefColumnHeader.tooltip "Kliek om te rangskik">
-<!ENTITY columnChooser.tooltip "Kliek om kolomme te kies wat vertoon moet word">
+<!ENTITY prefColumnHeader.tooltip "Kliek om te rangskik"> 
+<!ENTITY columnChooser.tooltip "Kliek om kolomme te kies wat vertoon moet word"> 
 <!-- Context Menu -->
 
 <!ENTITY copyPref.key "C">

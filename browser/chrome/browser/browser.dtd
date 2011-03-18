@@ -164,7 +164,7 @@ can reach it easily. -->
 <!ENTITY historySidebarCmd.commandKey   "h">
 
 <!ENTITY toolsMenu.label              "Nutsgoed">
-<!ENTITY toolsMenu.accesskey          "u">
+<!ENTITY toolsMenu.accesskey          "u"> 
 
 <!ENTITY keywordfield.label           "Voeg 'n sleutelwoord vir hierdie soektog by…">
 <!ENTITY keywordfield.accesskey       "s">
@@ -208,39 +208,39 @@ can reach it easily. -->
 <!ENTITY inspectObjectButton.label       "Objek">
 <!ENTITY inspectObjectButton.accesskey   "O">
 
-<!ENTITY fileMenu.label         "Lêer">
+<!ENTITY fileMenu.label         "Lêer"> 
 <!ENTITY fileMenu.accesskey       "L">
 <!ENTITY newNavigatorCmd.label        "Nuwe venster">
 <!ENTITY newNavigatorCmd.key        "N">
 <!ENTITY newNavigatorCmd.accesskey      "N">
 
-<!ENTITY editMenu.label         "Redigeer">
-<!ENTITY editMenu.accesskey       "e">
-<!ENTITY undoCmd.label            "Ontdoen">
-<!ENTITY undoCmd.key            "Z">
-<!ENTITY undoCmd.accesskey          "O">
-<!ENTITY redoCmd.label            "Herdoen">
-<!ENTITY redoCmd.key            "Y">
-<!ENTITY redoCmd.accesskey          "H">
-<!ENTITY cutCmd.label           "Knip">
-<!ENTITY cutCmd.key             "X">
-<!ENTITY cutCmd.accesskey         "p">
-<!ENTITY copyCmd.label            "Kopieer">
-<!ENTITY copyCmd.key            "C">
-<!ENTITY copyCmd.accesskey          "K">
-<!ENTITY pasteCmd.label           "Plak">
-<!ENTITY pasteCmd.key           "V">
-<!ENTITY pasteCmd.accesskey         "P">
-<!ENTITY deleteCmd.label          "Skrap">
-<!ENTITY deleteCmd.key            "D">
-<!ENTITY deleteCmd.accesskey        "S">
-<!ENTITY selectAllCmd.label         "Merk alles">
-<!ENTITY selectAllCmd.key         "A">
-<!ENTITY selectAllCmd.accesskey       "a">
+<!ENTITY editMenu.label         "Redigeer"> 
+<!ENTITY editMenu.accesskey       "e"> 
+<!ENTITY undoCmd.label            "Ontdoen">  
+<!ENTITY undoCmd.key            "Z">  
+<!ENTITY undoCmd.accesskey          "O"> 
+<!ENTITY redoCmd.label            "Herdoen">  
+<!ENTITY redoCmd.key            "Y">  
+<!ENTITY redoCmd.accesskey          "H"> 
+<!ENTITY cutCmd.label           "Knip">  
+<!ENTITY cutCmd.key             "X">  
+<!ENTITY cutCmd.accesskey         "p"> 
+<!ENTITY copyCmd.label            "Kopieer">  
+<!ENTITY copyCmd.key            "C">  
+<!ENTITY copyCmd.accesskey          "K"> 
+<!ENTITY pasteCmd.label           "Plak">  
+<!ENTITY pasteCmd.key           "V">  
+<!ENTITY pasteCmd.accesskey         "P"> 
+<!ENTITY deleteCmd.label          "Skrap">  
+<!ENTITY deleteCmd.key            "D">  
+<!ENTITY deleteCmd.accesskey        "S"> 
+<!ENTITY selectAllCmd.label         "Merk alles">  
+<!ENTITY selectAllCmd.key         "A">  
+<!ENTITY selectAllCmd.accesskey       "a"> 
 <!ENTITY preferencesCmd2.label       "Opsies">
 <!ENTITY preferencesCmd2.accesskey     "O">
 <!ENTITY preferencesCmdUnix.label       "Voorkeure">
-<!ENTITY preferencesCmdUnix.accesskey     "k">
+<!ENTITY preferencesCmdUnix.accesskey     "k"> 
 
 <!ENTITY clearRecentHistory.label               "Maak onlangse geskiedenis skoon…">
 <!ENTITY clearRecentHistory.accesskey           "g">
@@ -252,15 +252,15 @@ can reach it easily. -->
 <!ENTITY privateBrowsingCmd.stop.accesskey      "p">
 <!ENTITY privateBrowsingCmd.commandkey          "P">
 
-<!ENTITY viewMenu.label         "Bekyk">
-<!ENTITY viewMenu.accesskey       "k">
+<!ENTITY viewMenu.label         "Bekyk"> 
+<!ENTITY viewMenu.accesskey       "k"> 
 <!ENTITY viewTabGroups.label            "Oortjie-groepe">
 <!ENTITY viewTabGroups.accesskey        "g">
-<!ENTITY viewToolbarsMenu.label       "Nutsbalke">
-<!ENTITY viewToolbarsMenu.accesskey     "N">
+<!ENTITY viewToolbarsMenu.label       "Nutsbalke"> 
+<!ENTITY viewToolbarsMenu.accesskey     "N"> 
 <!ENTITY viewSidebarMenu.label "Kantbalk">
 <!ENTITY viewSidebarMenu.accesskey "b">
-<!ENTITY viewCustomizeToolbar.label       "Doelmaak…">
+<!ENTITY viewCustomizeToolbar.label       "Doelmaak…"> 
 <!ENTITY viewCustomizeToolbar.accesskey     "D">
 <!ENTITY viewTabsOnTop.label            "Oortjies bo-op">
 <!ENTITY viewTabsOnTop.accesskey        "t">
@@ -375,7 +375,7 @@ can reach it easily. -->
 <!ENTITY printFrameCmd.accesskey      "D">
 <!ENTITY saveLinkCmd.label            "Stoor skakel as…">
 <!ENTITY saveLinkCmd.accesskey        "e">
-<!ENTITY sendLinkCmd.label            "Stuur skakel…">
+<!ENTITY sendLinkCmd.label            "Stuur skakel…"> 
 <!ENTITY sendLinkCmd.accesskey        "u">
 <!ENTITY saveImageCmd.label           "Stoor prent as…">
 <!ENTITY saveImageCmd.accesskey       "o">
@@ -394,7 +394,7 @@ can reach it easily. -->
 <!ENTITY copyImageCmd.label           "Kopieer prentligging">
 <!ENTITY copyImageCmd.accesskey       "o">
 <!ENTITY copyImageContentsCmd.label   "Kopieer prent">
-<!ENTITY copyImageContentsCmd.accesskey  "K">
+<!ENTITY copyImageContentsCmd.accesskey  "K"> 
 <!ENTITY copyVideoURLCmd.label        "Kopieer videoligging">
 <!ENTITY copyVideoURLCmd.accesskey    "o">
 <!ENTITY copyAudioURLCmd.label        "Kopieer klankligging">
@@ -431,7 +431,7 @@ you can use these alternative items. Otherwise, their values should be empty.  -
 <!ENTITY fullZoomEnlargeCmd.accesskey   "i">
 <!ENTITY fullZoomEnlargeCmd.commandkey  "+">
 <!-- + is above this key on many keyboards -->
-<!ENTITY fullZoomEnlargeCmd.commandkey2 "=">
+<!ENTITY fullZoomEnlargeCmd.commandkey2 "="> 
 <!ENTITY fullZoomEnlargeCmd.commandkey3 "">
 
 <!ENTITY fullZoomReduceCmd.label        "Zoem uit">
@@ -463,17 +463,17 @@ you can use these alternative items. Otherwise, their values should be empty.  -
 <!ENTITY zoomInButton.tooltip           "Zoem in">
 <!ENTITY zoomControls.label             "Zoemkontroles">
 
-<!ENTITY quitApplicationCmdWin.label       "Afsluit">
+<!ENTITY quitApplicationCmdWin.label       "Afsluit"> 
 <!ENTITY quitApplicationCmdWin.accesskey   "s">
 <!ENTITY goBackCmd.commandKey "[">
 <!ENTITY goForwardCmd.commandKey "]">
-<!ENTITY quitApplicationCmd.label       "Afsluit">
+<!ENTITY quitApplicationCmd.label       "Afsluit"> 
 <!ENTITY quitApplicationCmd.accesskey   "A">
 <!ENTITY quitApplicationCmdMac.label    "Sluit &brandShortName; af">
 <!ENTITY quitApplicationCmdMac.key      "Q">
 
-<!ENTITY closeCmd.label                 "Sluit">
-<!ENTITY closeCmd.key                   "W">
+<!ENTITY closeCmd.label                 "Sluit">  
+<!ENTITY closeCmd.key                   "W">  
 <!ENTITY closeCmd.accesskey             "S">
 
 <!ENTITY pageStyleMenu.label "Bladsystyl">

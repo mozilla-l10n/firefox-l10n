@@ -2,7 +2,7 @@
 
 <!ENTITY     cookiesonsystem.label          "Die volgende koekies is op u rekenaar gestoor:">
 <!ENTITY     cookiename.label               "Koekienaam">
-<!ENTITY     cookiedomain.label             "Werf">
+<!ENTITY     cookiedomain.label             "Werf"> 
 <!ENTITY     button.removecookies.label     "Verwyder koekies">
 <!ENTITY     button.removecookie.label      "Verwyder koekie">
 <!ENTITY     button.removecookie.accesskey  "V">
