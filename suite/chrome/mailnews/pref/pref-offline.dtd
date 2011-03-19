@@ -28,4 +28,4 @@
 <!ENTITY Diskspace "Espacio en disco">
 <!ENTITY offlineCompact.label "Comprimir carpetas cuando se ahorren más de">
 <!ENTITY offlineCompact.accesskey "C">
-<!ENTITY kb.label "KB">
+<!ENTITY mb.label "MB">
