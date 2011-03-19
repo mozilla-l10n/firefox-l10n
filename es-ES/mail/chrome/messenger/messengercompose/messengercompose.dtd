@@ -169,6 +169,7 @@
 <!ENTITY quoteButton.tooltip "Citar el mensaje anterior">
 <!ENTITY addressButton.tooltip "Seleccionar un destinatario de una libreta de direcciones">
 <!ENTITY attachButton.tooltip "Incluir un adjunto">
+<!ENTITY spellingButton.tooltip "Revisar ortografía de la selección o del mensaje completo">
 <!ENTITY saveButton.tooltip "Guardar este mensaje">
 <!ENTITY cutButton.tooltip "Cortar">
 <!ENTITY copyButton.tooltip "Copiar">
