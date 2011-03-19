@@ -33,11 +33,17 @@
 <!ENTITY pasteCmd.accesskey "p">
 <!ENTITY pasteGoCmd.label "Pegar y visitar">
 <!ENTITY pasteGoCmd.accesskey "v">
+<!ENTITY pasteSearchCmd.label "Pegar y buscar">
+<!ENTITY pasteSearchCmd.accesskey "e">
 <!ENTITY deleteCmd.label "Eliminar">
 <!ENTITY deleteCmd.accesskey "l">
 <!ENTITY selectAllCmd.label "Seleccionar todo">
 <!ENTITY selectAllCmd.key "A">
 <!ENTITY selectAllCmd.accesskey "S">
+<!ENTITY clearHistoryCmd.label "Limpiar historial de búsqueda">
+<!ENTITY clearHistoryCmd.accesskey "H">
+<!ENTITY showSuggestionsCmd.label "Mostrar sugerencias">
+<!ENTITY showSuggestionsCmd.accesskey "M">
 <!ENTITY preferencesCmd.label "Preferencias…">
 <!ENTITY preferencesCmd.key "E">
 <!ENTITY preferencesCmd.accesskey "e">

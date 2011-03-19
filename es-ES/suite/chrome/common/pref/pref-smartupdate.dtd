@@ -2,8 +2,7 @@
 <!ENTITY addOnsTitle.label "Complementos">
 <!ENTITY addOnsAllow.label "Permitir a los sitios web instalar complementos y actualizaciones">
 <!ENTITY addOnsAllow.accesskey "P">
-<!ENTITY allowedWebsites.label "Sitios web permitidos">
-<!ENTITY allowedWebsites.accesskey "w">
+<!ENTITY allowedSitesLink.label "Sitios web permitidos">
 <!ENTITY autoAddOnsUpdates.label "Buscar actualizaciones automáticamente">
 <!ENTITY autoAddOnsUpdates.accesskey "B">
 <!ENTITY daily.label "diariamente">
@@ -11,9 +10,10 @@
 <!ENTITY weekly.label "semanalmente">
 <!ENTITY addOnsWeekly.accesskey "s">
 <!ENTITY addOnsModeAutomatic.label "Descargar e instalar automáticamente las actualizaciones">
-<!ENTITY addOnsModeAutomatic.accesskey "c">
-<!ENTITY addonManagerButton.label "Administrador de complementos">
-<!ENTITY addonManagerButton.accesskey "m">
+<!ENTITY addOnsModeAutomatic.accesskey "D">
+<!ENTITY enablePersonalized.label "Personalizar recomendaciones de complementos">
+<!ENTITY enablePersonalized.accesskey "P">
+<!ENTITY addonManagerLink.label "Administrar complementos">
 <!ENTITY appUpdates.caption "&brandShortName;">
 <!ENTITY autoAppUpdates.label "Buscar actualizaciones automáticamente">
 <!ENTITY autoAppUpdates.accesskey "u">
@@ -23,5 +23,5 @@
 <!ENTITY appModeAutomatic.accesskey "n">
 <!ENTITY appModeAutoAddonWarn.label "Avisarme si esto desactivará alguno de mis complementos">
 <!ENTITY appModeAutoAddonWarn.accesskey "A">
-<!ENTITY updateHistory.label "Mostrar el historial de actualizaciones">
-<!ENTITY updateHistory.accesskey "h">
+<!ENTITY updateHistoryButton.label "Mostrar historial de actualizaciones…">
+<!ENTITY updateHistoryButton.accesskey "M">
