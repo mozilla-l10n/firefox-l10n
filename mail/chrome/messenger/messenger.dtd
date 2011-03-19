@@ -367,12 +367,11 @@
 <!ENTITY tagCmd9.key "9">
 <!ENTITY markMenu.label "Marcar">
 <!ENTITY markMenu.accesskey "c">
+<!ENTITY toggleReadCmd.key "m">
 <!ENTITY markAsReadCmd.label "Como leídos">
 <!ENTITY markAsReadCmd.accesskey "l">
-<!ENTITY markAsReadCmd.key "m">
 <!ENTITY markAsUnreadCmd.label "Como no leído">
 <!ENTITY markAsUnreadCmd.accesskey "n">
-<!ENTITY markAsUnreadCmd.key "m">
 <!ENTITY markThreadAsReadCmd.label "Conversación como leída">
 <!ENTITY markThreadAsReadCmd.accesskey "C">
 <!ENTITY markThreadAsReadCmd.key "r">
