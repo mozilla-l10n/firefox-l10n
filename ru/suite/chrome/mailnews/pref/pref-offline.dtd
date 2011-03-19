@@ -28,4 +28,4 @@
 <!ENTITY Diskspace "Дисковое пространство">
 <!ENTITY offlineCompact.label "Сжимать папки, если при этом высвободится более">
 <!ENTITY offlineCompact.accesskey "С">
-<!ENTITY kb.label "КБ">
+<!ENTITY mb.label "МБ">
