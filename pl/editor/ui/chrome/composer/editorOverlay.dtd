@@ -451,29 +451,6 @@
 <!ENTITY alignRightButton.tooltip      "Wyrównaj tekst do prawego marginesu">
 <!ENTITY alignJustifyButton.tooltip    "Wyrównaj tekst pomiędzy prawym a lewym marginesem">
 
-<!-- Display Mode toolbar and View menu items -->
-<!ENTITY NormalModeTab.label      "Normalny">
-<!ENTITY NormalMode.label         "Normalny tryb edycji">
-<!ENTITY NormalMode.accesskey     "N">
-<!ENTITY NormalMode.tooltip       "Pokaż obramowanie tabeli oraz kotwice">
-<!ENTITY AllTagsMode.label        "Pokaż znaczniki">
-<!ENTITY AllTagsMode.accesskey    "z">
-<!ENTITY AllTagsMode.tooltip      "Wyświetl ikony dla wszystkich znaczników HTML">
-
-<!ENTITY HTMLSourceMode.label     "Źródło HTML">
-<!-- Toolbar has an image with "HTML" text, so don't include it in the string -->
-<!ENTITY SourceMode.label         "Źródło">
-<!ENTITY HTMLSourceMode.accesskey "H">
-<!ENTITY HTMLSourceMode.tooltip   "Edytuj źródło HTML">
-<!ENTITY PreviewMode.label        "Podgląd">
-<!ENTITY PreviewMode.accesskey    "p">
-<!ENTITY PreviewMode.tooltip      "Wyświetl jako WYSIWYG (tak jak w przeglądarce)">
-
-<!-- LOCALIZATION NOTE: Do NOT translate text for 'SourceTabDirection'
-     Use latin "ltr" if you want the <html> image to left of the 'SourceMode.label' text defined above, or use latin "rtl" if you want this image to the right of text
-     This is the value of the HTML 'dir' attribute -->
-<!ENTITY SourceTabDirection "ltr">
-
 <!-- Structure Toolbar Context Menu items -->
 <!ENTITY structSelect.label        "Zaznacz">
 <!ENTITY structSelect.accesskey    "a">
