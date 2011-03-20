@@ -36,20 +36,29 @@
 <!ENTITY pasteCmd.label "Vložit">
 <!ENTITY pasteCmd.key "V">
 <!ENTITY pasteCmd.accesskey "l">
-<!ENTITY pasteGoCmd.label "Vložit a jít">
+<!ENTITY pasteGoCmd.label "Vložit a přejít">
 <!ENTITY pasteGoCmd.accesskey "l">
+
+<!-- LOCALIZATION NOTE (pasteSearchCmd): "Search" is a verb, this is the
+     search bar equivalent to the url bar's "Paste & Go"  --> 
+<!ENTITY pasteSearchCmd.label "Vložit a hledat">
+<!ENTITY pasteSearchCmd.accesskey "h">
 <!ENTITY deleteCmd.label "Smazat">
 <!ENTITY deleteCmd.accesskey "S">
 <!ENTITY selectAllCmd.label "Vybrat vše">
 <!ENTITY selectAllCmd.key "A">
 <!ENTITY selectAllCmd.accesskey "a">
+<!ENTITY clearHistoryCmd.label "Vymazat historii hledání">  
+<!ENTITY clearHistoryCmd.accesskey "V">
+<!ENTITY showSuggestionsCmd.label "Zobrazit našeptávač">  
+<!ENTITY showSuggestionsCmd.accesskey "b"> 
 <!ENTITY preferencesCmd.label "Předvolby…">
 <!ENTITY preferencesCmd.key "E">
 <!ENTITY preferencesCmd.accesskey "e">
 <!ENTITY findTypeTextCmd.label "Hledat během psaní text">
 <!ENTITY findTypeTextCmd.accesskey "x">
 <!ENTITY findTypeLinksCmd.label "Hledat během psaní odkazy">
-<!ENTITY findTypeLinksCmd.accesskey "b">
+<!ENTITY findTypeLinksCmd.accesskey "k">
 
 <!ENTITY viewMenu.label "Zobrazení">
 <!ENTITY viewMenu.accesskey "Z">

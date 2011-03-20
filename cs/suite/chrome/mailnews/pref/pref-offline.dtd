@@ -31,4 +31,4 @@
 <!ENTITY Diskspace "Místo na disku">
 <!ENTITY offlineCompact.label "Provést údržbu složek, pokud bude ušetřeno více než">
 <!ENTITY offlineCompact.accesskey "P">
-<!ENTITY kb.label "kB">
+<!ENTITY mb.label "MB">
