@@ -100,12 +100,12 @@
 
 <!ENTITY detail.contributions.description "Развивачот на овој додаток Ве моли да го поддржите неговиот постојан развој со мала донација.">
 
-<!ENTITY detail.updateType "Автоматски надградби">
-<!ENTITY detail.updateDefault.label "Основна">
+<!ENTITY detail.updateType "Автоматска надградба">
+<!ENTITY detail.updateDefault.label "dеfault">
 <!ENTITY detail.updateDefault.tooltip "Автоматски инсталирај ги надградбите само ако тоа е dеfault">
-<!ENTITY detail.updateAutomatic.label "Вклучен">
+<!ENTITY detail.updateAutomatic.label "вклучена">
 <!ENTITY detail.updateAutomatic.tooltip "Автоматски инсталирај надградби">
-<!ENTITY detail.updateManual.label "Исклучен">
+<!ENTITY detail.updateManual.label "исклучена">
 <!ENTITY detail.updateManual.tooltip "Не инсталирај автоматски надградби">
 <!ENTITY detail.home "Домашна страница">
 <!ENTITY detail.repository "Профил на додатокот">
@@ -175,7 +175,7 @@
 <!ENTITY addon.loadingReleaseNotes.label "Се вчитува…">
 <!ENTITY addon.errorLoadingReleaseNotes.label "Извинете, но имаше грешка при вчитувањето на белешките за изданието.">
 
-<!ENTITY addon.createdBy.label "Од">
+<!ENTITY addon.createdBy.label "Од ">
 
 <!ENTITY discover.description2                "Додатоците се апликации што ви овозможуваат да го персонализирате &brandShortName; со дополнителни функционалности или стил. Пробајте алатки што штедат време, известувачи за временска прогноза или тема за изгледот за да го направите &brandShortName; Ваш.">
 <!ENTITY discover.footer                      "Кога сте поврзани на интернет овој панел ќе прикажува некои од најдобрите и најпопуларни додатоци што може да ги пробате.">

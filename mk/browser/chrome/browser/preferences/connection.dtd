@@ -9,7 +9,7 @@
 <!ENTITY systemTypeRadio.label "Користи ги системските поставки за посредник">
 <!ENTITY systemTypeRadio.accesskey "и">
 <!ENTITY WPADTypeRadio.label "Авто-откривање на поставки за посредник за оваа мрежа">
-<!ENTITY WPADTypeRadio.accesskey "р">
+<!ENTITY WPADTypeRadio.accesskey "о">
 <!ENTITY manualTypeRadio.label "Рачна конфигурација на посредник:">
 <!ENTITY manualTypeRadio.accesskey "Р">
 <!ENTITY autoTypeRadio.label "URL за автоматска конфигурација на посредник:">
