@@ -10,7 +10,7 @@
 <!ENTITY sync.setup.title "Злучыцца з Sync">
 <!ENTITY sync.setup.jpake 'На кампутары, злучаным з Firefox Sync, перайдзіце ў наладжванні Sync і выберыце "Дадаць збудову"'>
 <!ENTITY sync.fallback "Мой кампутар не блізка…">
-<!ENTITY sync.setup.manual "Увядзіце звесткі вашага рахунаку Sync">
+<!ENTITY sync.setup.manual "Увядзіце звесткі вашага рахунку Sync">
 <!ENTITY sync.account "Назва рахунку">
 <!ENTITY sync.password "Пароль">
 <!ENTITY sync.syncKey "Ключ Sync">

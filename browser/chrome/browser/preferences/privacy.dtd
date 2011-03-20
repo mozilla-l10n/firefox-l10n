@@ -26,7 +26,7 @@
 <!ENTITY historyHeader.dontremember.label "Ніколі не памятаць гісторыю">
 <!ENTITY historyHeader.custom.label "Ужываць наладжванні для гісторыі">
 <!ENTITY historyHeader.post.label "">
-<!ENTITY rememberDescription.label "&brandShortName; будзе памятаць гісорыю вашых азірання, загрузак, запаўнення формаў і пошуку і будзе трымаць біркі з наведаных пляцовак Сеціва.">
+<!ENTITY rememberDescription.label "&brandShortName; будзе памятаць гісторыю вашых азірання, загрузак, запаўнення формаў і пошуку і будзе трымаць біркі з наведаных пляцовак Сеціва.">
 <!ENTITY rememberActions.pre.label "Вы можаце">
 <!ENTITY rememberActions.clearHistory.label "ачысціць нядаўнюю гісторыю">
 <!ENTITY rememberActions.middle.label "або">

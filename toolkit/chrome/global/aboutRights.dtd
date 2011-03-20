@@ -8,8 +8,8 @@
 <!ENTITY rights.intro-point2-a "Ва не даюцца ніякія правы або дазволы на гандлёвыя маркі Mozilla Foundation ці іншых бакоў, уключаючы без абмежавання назву і эмблему Firefox. Дадатковыя звесткі пра гандлёвыя маркі можна знайсці">
 <!ENTITY rights.intro-point2-b "тут">
 <!ENTITY rights.intro-point2-c ".">
-<!ENTITY rights.intro-point2.5 "Асобныя асаблівасці &brandShortName;, такія як паведамляльнік пра крахі, даюць вам магчымасць даслаць водгук да &vendorShortName;. Дасылаючы водгук, вы даеце &vendorShortName; дазвол ужываць гэты водгук для паляпшэння яго прадуктаў, публікаваць водгук на яго сеціўных пляцоўках і распаўсюджваць водгук.">
-<!ENTITY rights2.intro-point3a "Як мы ўжываем вашы асабістыя звесткі і водгукі, паданыя &vendorShortName; з &brandShortName;, апісана ў">
+<!ENTITY rights.intro-point2.5 "Асобныя асаблівасці &brandShortName;, такія як паведамляльнік пра крахі, даюць вам магчымасць даслаць водгук да &vendorShortName;. Дасылаючы водгук, вы даяце &vendorShortName; дазвол ужываць гэты водгук для паляпшэння яго прадуктаў, публікаваць водгук на яго сеціўных пляцоўках і распаўсюджваць водгук.">
+<!ENTITY rights2.intro-point3a "Як мы ўжываем вашы асабістыя звесткі і водгукі, пададзеныя &vendorShortName; з &brandShortName;, апісана ў">
 <!ENTITY rights2.intro-point3b "палітыцы захавання адасаблення &brandShortName;">
 <!ENTITY rights.intro-point3c ".">
 <!ENTITY rights.intro-point3-unbranded "Усе прыдатныя палітыкі прыватнасці для гэтага прадукту павінны быць пералічаны тут.">
@@ -24,13 +24,13 @@
 <!ENTITY rights2.webservices-b "тут">
 <!ENTITY rights2.webservices-c ".">
 <!ENTITY rights.safebrowsing-a "Бяспечнае азіранне:">
-<!ENTITY rights.safebrowsing-b "Забарона бяспечнага азірання не раіцца, бо ў выніку вы можаце патрапіць на небяспечныя пляцоўкі.  Калі вы хочаце забаніць гэтую асаблівасць цалкам, выканайце наступнае:">
+<!ENTITY rights.safebrowsing-b "Забарона бяспечнага азірання не раіцца, бо ў выніку вы можаце патрапіць на небяспечныя пляцоўкі.  Калі вы хочаце забараніць гэтую асаблівасць цалкам, выканайце наступнае:">
 <!ENTITY rights.safebrowsing-term1 "Адкрыйце перавагі прыстасавання">
 <!ENTITY rights.safebrowsing-term2 'Выберыце раздзел "Бяспека"'>
 <!ENTITY rights.safebrowsing-term3 "Зніміце адзнаку з &quot;&blockAttackSites.label;&quot; і &quot;&blockWebForgeries.label;&quot;">
 <!ENTITY rights.safebrowsing-term4 "Бяспечнае азіранне зараз забаронена">
 <!ENTITY rights.locationawarebrowsing-a "Месцазалежнае азіранне:">
-<!ENTITY rights.locationawarebrowsing-b "заўсёды неабавязковае. Ніякія звесткі пра месцазнаходжанне не дасылаюцца без вашага дазволу.  Калі вы хочаце забаніць гэтую асаблівасць цалкам, выканайце наступнае:">
+<!ENTITY rights.locationawarebrowsing-b "заўсёды неабавязковае. Ніякія звесткі пра месцазнаходжанне не дасылаюцца без вашага дазволу.  Калі вы хочаце забараніць гэтую асаблівасць цалкам, выканайце наступнае:">
 <!ENTITY rights.locationawarebrowsing-term1a "Набярыце на паліцы URL">
 <!ENTITY rights.locationawarebrowsing-term1b "about:config">
 <!ENTITY rights.locationawarebrowsing-term2 "Набярыце geo.enabled">
