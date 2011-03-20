@@ -404,12 +404,11 @@ you can use these alternative items. Otherwise, their values should be empty.  -
 <!ENTITY tagCmd9.key "9">
 <!ENTITY markMenu.label "Označit">
 <!ENTITY markMenu.accesskey "z">
+<!ENTITY toggleReadCmd.key "m">
 <!ENTITY markAsReadCmd.label "Přečtené">
 <!ENTITY markAsReadCmd.accesskey "P">
-<!ENTITY markAsReadCmd.key "m">
 <!ENTITY markAsUnreadCmd.label "Nepřečtené">
 <!ENTITY markAsUnreadCmd.accesskey "N">
-<!ENTITY markAsUnreadCmd.key "m">
 <!ENTITY markThreadAsReadCmd.label "Přečtené vlákno">
 <!ENTITY markThreadAsReadCmd.accesskey "l">
 <!ENTITY markThreadAsReadCmd.key "r">
