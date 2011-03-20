@@ -30,4 +30,4 @@
 <!ENTITY Diskspace "Miejsce na dysku">
 <!ENTITY offlineCompact.label "Automatycznie porządkuj foldery, gdy zaoszczędzi to więcej niż">
 <!ENTITY offlineCompact.accesskey "c">
-<!ENTITY kb.label "kB">
+<!ENTITY mb.label "MB">
