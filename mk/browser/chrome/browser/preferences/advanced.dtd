@@ -25,7 +25,7 @@
 <!ENTITY systemDefaults.label "Системски поставки">
 <!--XXX-->
 <!ENTITY alwaysCheckDefault.label "Секогаш проверувај дали &brandShortName; е основен прелистувач">
-<!ENTITY alwaysCheckDefault.accesskey "w">
+<!ENTITY alwaysCheckDefault.accesskey "о">
 <!ENTITY checkNow.label "Провери сега">
 <!ENTITY checkNow.accesskey "с">
 <!ENTITY submitCrashes.label "Испраќај извештаи за уривањата">
