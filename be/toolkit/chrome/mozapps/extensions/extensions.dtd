@@ -36,7 +36,7 @@
 <!ENTITY updates.updateAddonsAutomatically.accesskey "С">
 <!ENTITY updates.resetUpdatesToAutomatic.label "Наладзіць усе дадаткі абнаўляцца самастойна">
 <!ENTITY updates.resetUpdatesToAutomatic.accesskey "Н">
-<!ENTITY updates.resetUpdatesToManual.label "Наладзіць усе дадаткі на ручное абнаўлянне">
+<!ENTITY updates.resetUpdatesToManual.label "Наладзіць усе дадаткі на ручное абнаўленне">
 <!ENTITY updates.resetUpdatesToManual.accesskey "Н">
 <!ENTITY updates.updating.label "Абнаўленне дадаткаў">
 <!ENTITY updates.installed.label "Вашы дадаткі абноўленыя.">
@@ -81,8 +81,8 @@
 <!ENTITY cmd.hideReleaseNotes.tooltip "Схаваць заўвагі пра выданне гэтага абнаўлення">
 <!ENTITY discover.title "Што такое дадаткі?">
 <!ENTITY discover.description2 "Дадаткі – гэта прыстасаванні, якія дазваляюць вам дадаць &brandShortName;
-  іншую функцыянальнасць або стыль. Паспрабуйце бакавую палічку, якая сберажэ ваш час, паказальнік надвор'я
-   або навую тэму выгляду, каб пабудаваць ваш асабісты &brandShortName;.">
+  іншую функцыянальнасць або стыль. Паспрабуйце бакавую палічку, якая зберажэ ваш час, паказальнік надвор'я
+   або новую тэму выгляду, каб пабудаваць ваш асабісты &brandShortName;.">
 <!ENTITY discover.footer "Калі вы злучаны з сецівам, гэтая шыба будзе паказваць вам
   лепшыя і найбольш ужывальныя дадаткі, якімі можаце карыстацца.">
 <!ENTITY detail.version.label "Версія">
@@ -93,11 +93,11 @@
 <!ENTITY detail.contributions.description "Распрацоўца гэтага дадатка просіць падтрымаць яго распрацоўку невялікім ахвяраваннем.">
 <!ENTITY detail.updateType "Самастойныя абнаўленні">
 <!ENTITY detail.updateDefault.label "Змоўчнае">
-<!ENTITY detail.updateDefault.tooltip "Самастойна ўсталёваць абнаўленні, калі гэта змоўчнае наладжванне">
+<!ENTITY detail.updateDefault.tooltip "Самастойна ўсталёўваць абнаўленні, калі гэта змоўчнае наладжванне">
 <!ENTITY detail.updateAutomatic.label "Укл.">
 <!ENTITY detail.updateAutomatic.tooltip "Самастойна ўсталёўваць абнаўленні">
 <!ENTITY detail.updateManual.label "Выкл.">
-<!ENTITY detail.updateManual.tooltip "Не шсталёўваць абнаўленні самастойна">
+<!ENTITY detail.updateManual.tooltip "Не ўсталёўваць абнаўленні самастойна">
 <!ENTITY detail.home "Хатняя старонка">
 <!ENTITY detail.repository "Профіль дадатка">
 <!ENTITY detail.size "Памер">

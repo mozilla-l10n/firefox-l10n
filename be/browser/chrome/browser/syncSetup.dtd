@@ -41,13 +41,13 @@
 <!ENTITY addDevice.title.label "Дадаць збудову">
 <!ENTITY addDevice.showMeHow.label "Паказаць мне як.">
 <!ENTITY addDevice.dontHaveDevice.label "Я не маю збудову з сабой">
-<!ENTITY addDevice.setup.description.label 'Каб актывізаваць, адкрыйце наладжванні &syncBrand.shortName.label; на вашай іншай збудове і выберыце "Дадаць збудову".'>
+<!ENTITY addDevice.setup.description.label 'Каб задзейнічаць, адкрыйце наладжванні &syncBrand.shortName.label; на вашай іншай збудове і выберыце "Дадаць збудову".'>
 <!ENTITY addDevice.setup.enterCode.label "Тады ўвядзіце гэты код:">
-<!ENTITY addDevice.dialog.description.label 'Каб актывізаваць вашу новую збудову, адкрыйце наладжванні &syncBrand.shortName.label; на збудове і націсніце "Злучыцца".'>
+<!ENTITY addDevice.dialog.description.label 'Каб задзейнічаць вашу новую збудову, адкрыйце наладжванні &syncBrand.shortName.label; на збудове і націсніце "Злучыцца".'>
 <!ENTITY addDevice.dialog.enterCode.label "Увядзіце код, які быў атрыманы на збудове:">
 <!ENTITY addDevice.dialog.tryAgain.label "Паспрабуйце, калі ласка, зноў.">
-<!ENTITY addDevice.dialog.successful.label "Збудова паспяхова дададзена. Пачатковая сіхранізацыя працягнецца некалькі хвілінаў і будзе фонава здзяйсняцца.">
-<!ENTITY addDevice.dialog.syncKey.label "Каб актывізваць вашу збудову, вы павінны ўвесці ключ Sync. Калі ласка, надрукуйце гэты ключ ці запішыце яго і вазьміце яго з сабой.">
+<!ENTITY addDevice.dialog.successful.label "Збудова паспяхова дададзена. Пачатковая сінхранізацыя працягнецца некалькі хвілінаў і будзе фонава здзяйсняцца.">
+<!ENTITY addDevice.dialog.syncKey.label "Каб задзейнічаць вашу збудову, вы павінны ўвесці ключ Sync. Калі ласка, надрукуйце гэты ключ ці запішыце яго і вазьміце яго з сабой.">
 <!ENTITY addDevice.dialog.connected.label "Збудова злучана">
 <!ENTITY setup.signInPage.title.label "Увайсці">
 <!ENTITY existingSyncKey.description 'Вы можаце атрымаць копію ключа Sync у наладжваннях &syncBrand.shortName.label; на вашай іншай збудове і выберыце "Мой ключ Sync" у пункце "Кіраваць рахункам".'>
