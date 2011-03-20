@@ -5,18 +5,18 @@
 <!ENTITY windowMenu.label "Прозорец">
 
 <!ENTITY helpMenu.label "Помош">
-<!ENTITY helpMenu.accesskey "м">
+<!ENTITY helpMenu.accesskey "ш">
 <!-- LOCALIZATION NOTE some localizations of Windows (ex:french, german) use "?"
                        for the help button in the menubar but Gnome does not.   -->
 <!ENTITY helpMenuWin.label "Помош">
-<!ENTITY helpMenuWin.accesskey "м">
+<!ENTITY helpMenuWin.accesskey "ш">
 <!ENTITY aboutProduct.label "За &brandShortName;">
 <!ENTITY aboutProduct.accesskey "а">
 <!ENTITY productHelp.label "Помош за &brandShortName;">
-<!ENTITY productHelp.accesskey "П">
+<!ENTITY productHelp.accesskey "ш">
 <!ENTITY helpMac.commandkey "?">
-<!ENTITY helpSafeMode.label "Restart with Add-ons Disabled…">
-<!ENTITY helpSafeMode.accesskey "R">
+<!ENTITY helpSafeMode.label "Рестартирај со исклучени сите додатоци…">
+<!ENTITY helpSafeMode.accesskey "Р">
 
 
 <!ENTITY helpTroubleshootingInfo.label "Информации за проблеми">

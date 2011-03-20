@@ -47,13 +47,13 @@
   &limitCacheSizeBefore.label [textbox for cache size in MB] &limitCacheSizeAfter.label;
 -->
 
-<!ENTITY limitCacheSizeBefore.label "Limit cache to">
-<!ENTITY limitCacheSizeBefore.accesskey "L">
-<!ENTITY limitCacheSizeAfter.label "MB of space">
+<!ENTITY limitCacheSizeBefore.label "Ограничи го кешот на">
+<!ENTITY limitCacheSizeBefore.accesskey "г">
+<!ENTITY limitCacheSizeAfter.label "мегабајти простор">
 <!ENTITY clearCacheNow.label "Исчисти сега">
-<!ENTITY clearCacheNow.accesskey "И">
-<!ENTITY overrideSmartCacheSize.label "Override automatic cache management">
-<!ENTITY overrideSmartCacheSize.accesskey "O">
+<!ENTITY clearCacheNow.accesskey "ч">
+<!ENTITY overrideSmartCacheSize.label "Подеси неавтоматска контрола на кешот">
+<!ENTITY overrideSmartCacheSize.accesskey "к">
 
 <!ENTITY updateTab.label "Надградби">
 
@@ -75,9 +75,9 @@
 <!ENTITY updateHistory.accesskey "о">
 
 <!ENTITY offlineNotify.label "Кажи ми кога мрежното место сака да складира податоци за локална употреба">
-<!ENTITY offlineNotify.accesskey "К">
+<!ENTITY offlineNotify.accesskey "ж">
 <!ENTITY offlineNotifyExceptions.label "Исклучоци…">
-<!ENTITY offlineNotifyExceptions.accesskey "к">
+<!ENTITY offlineNotifyExceptions.accesskey "И">
 
 <!ENTITY offlineAppsList.label "Мрежни места што имаат податоци инсталирани за локална употреба:">
 <!ENTITY offlineAppsList.height "7em">
@@ -95,7 +95,7 @@
 <!ENTITY certificates.label "Сертификати">
 <!ENTITY certSelection.description "Кога серверот ќе го побара мојот личен сертификат:">
 <!ENTITY certs.auto "Автоматски избери еден">
-<!ENTITY certs.auto.accesskey "в">
+<!ENTITY certs.auto.accesskey "А">
 <!ENTITY certs.ask "Прашај ме секој пат">
 <!ENTITY certs.ask.accesskey "р">
 <!ENTITY viewCerts.label "Сертификати">

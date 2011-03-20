@@ -70,8 +70,8 @@ can reach it easily. -->
 <!ENTITY personalbarCmd.label "Алатник со обележувачи">
 <!ENTITY personalbarCmd.accesskey "б">
 <!ENTITY bookmarksToolbarItem.label "Ставки во алатникот со обележувачи">
-<!ENTITY addonBarCmd.label "Add-on Bar">
-<!ENTITY addonBarCmd.accesskey "B">
+<!ENTITY addonBarCmd.label "Алатник за додатоците">
+<!ENTITY addonBarCmd.accesskey "ц">
 
 <!ENTITY pageSourceCmd.label "Изворен код">
 <!ENTITY pageSourceCmd.accesskey "о">
@@ -278,10 +278,10 @@ can reach it easily. -->
 <!ENTITY appMenuSidebars.label "Странични ленти">
 <!ENTITY appMenuFind.label "Пронајди…">
 <!ENTITY appMenuUnsorted.label "Неподредени обележувачи">
-<!ENTITY appMenuWebDeveloper.label "Web Developer">
+<!ENTITY appMenuWebDeveloper.label "Веб развој">
 <!ENTITY appMenuGettingStarted.label "Да почнеме!">
-<!ENTITY appMenuSafeMode.label "Restart with Add-ons Disabled…">
-<!ENTITY appMenuSafeMode.accesskey "R">
+<!ENTITY appMenuSafeMode.label "Рестартирај со исклучени сите додатоци…">
+<!ENTITY appMenuSafeMode.accesskey "Р">
 
 <!ENTITY openCmd.commandkey "l">
 <!ENTITY urlbar.placeholder "Оди на мрежно место">
