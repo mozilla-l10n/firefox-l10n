@@ -3,8 +3,7 @@
 <!ENTITY addOnsTitle.label "Doplňky">
 <!ENTITY addOnsAllow.label "Povolit stránkám instalaci doplňků a aktualizací">
 <!ENTITY addOnsAllow.accesskey "P">
-<!ENTITY allowedWebsites.label "Stránky s povolením instalovat">
-<!ENTITY allowedWebsites.accesskey "r">
+<!ENTITY allowedSitesLink.label "Stránky s povolenou instalací">
 <!ENTITY autoAddOnsUpdates.label "Automaticky kontrolovat aktualizace">
 <!ENTITY autoAddOnsUpdates.accesskey "A">
 <!ENTITY daily.label "denně">
@@ -13,8 +12,9 @@
 <!ENTITY addOnsWeekly.accesskey "t">
 <!ENTITY addOnsModeAutomatic.label "Automaticky aktualizaci stáhnout a nainstalovat">
 <!ENTITY addOnsModeAutomatic.accesskey "o">
-<!ENTITY addonManagerButton.label "Správce doplňků">
-<!ENTITY addonManagerButton.accesskey "S">
+<!ENTITY enablePersonalized.label "Personalizovaná doporučení">
+<!ENTITY enablePersonalized.accesskey "P">
+<!ENTITY addonManagerLink.label "Správce doplňků">
 
 <!ENTITY appUpdates.caption "&brandShortName;">
 <!ENTITY autoAppUpdates.label "Automaticky kontrolovat aktualizace">
@@ -25,5 +25,5 @@
 <!ENTITY appModeAutomatic.accesskey "k">
 <!ENTITY appModeAutoAddonWarn.label "Upozornit, pokud by aktualizace zakázala některé doplňky">
 <!ENTITY appModeAutoAddonWarn.accesskey "U">
-<!ENTITY updateHistory.label "Zobrazit historii aktualizací…">
-<!ENTITY updateHistory.accesskey "Z">
+<!ENTITY updateHistoryButton.label "Zobrazit historii aktualizací…">
+<!ENTITY updateHistoryButton.accesskey "Z">
