@@ -169,6 +169,7 @@
 <!ENTITY quoteButton.tooltip "Працытаваць папярэдні ліст">
 <!ENTITY addressButton.tooltip "Выбраць атрымальніка з адраснай кнігі">
 <!ENTITY attachButton.tooltip "Уключыць далучэнне">
+<!ENTITY spellingButton.tooltip "Праверка правапісу вылучэння або ўсяго ліста">
 <!ENTITY saveButton.tooltip "Захаваць гэты ліст">
 <!ENTITY cutButton.tooltip "Выразаць">
 <!ENTITY copyButton.tooltip "Капіяваць">
@@ -230,4 +231,6 @@
 <!ENTITY attachFile.accesskey "Ф">
 <!ENTITY attachPage.label "Далучыць старонку Сеціва…">
 <!ENTITY attachPage.accesskey "с">
+<!ENTITY spellAddDictionaries.label "Дадаць слоўнікі…">
+<!ENTITY spellAddDictionaries.accesskey "Д">
 <!ENTITY addressesSidebarTitle.label "Сувязі">

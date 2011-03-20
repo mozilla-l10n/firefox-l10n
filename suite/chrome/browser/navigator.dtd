@@ -127,6 +127,7 @@
 <!ENTITY locationBar.accesskey "в">
 <!ENTITY locationBar.title "Месцазнаходжанне">
 <!ENTITY proxyIcon.tooltip "Перацягніце і ўпусціце гэты значок, каб стварыць спасылку на гэту старонку">
+<!ENTITY searchItem.title "Пошук">
 <!ENTITY bookmarksButton.label "Закладкі">
 <!ENTITY bookmarksButton.tooltip "Спіс закладак">
 <!ENTITY homeButton.label "Дадому">

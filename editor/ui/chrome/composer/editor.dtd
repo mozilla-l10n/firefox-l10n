@@ -48,3 +48,20 @@
 <!ENTITY editmodeToolbarCmd.accesskey "п">
 <!ENTITY formatMenu.label "Фармат">
 <!ENTITY formatMenu.accesskey "Ф">
+<!ENTITY NormalModeTab.label "Звычайны">
+<!ENTITY NormalMode.label "Звычайны рэжым праўкі">
+<!ENTITY NormalMode.accesskey "З">
+<!ENTITY NormalMode.tooltip "Паказваць межы табліцаў і іменаваныя якары">
+<!ENTITY AllTagsModeTab.label "Тэгі HTML">
+<!ENTITY AllTagsMode.label "Тэгі HTML">
+<!ENTITY AllTagsMode.accesskey "э">
+<!ENTITY AllTagsMode.tooltip "Паказваць значкі для ўісх тэгаў HTML">
+<!ENTITY HTMLSourceModeTab.dir "ltr">
+<!ENTITY HTMLSourceModeTab.label "Зыходнік">
+<!ENTITY HTMLSourceMode.label "Зыходнік HTML">
+<!ENTITY HTMLSourceMode.accesskey "H">
+<!ENTITY HTMLSourceMode.tooltip "Праўка зыходніка HTML">
+<!ENTITY PreviewModeTab.label "Перадпрагляд">
+<!ENTITY PreviewMode.label "Перадпрагляд">
+<!ENTITY PreviewMode.accesskey "П">
+<!ENTITY PreviewMode.tooltip "Паказваць такім, якім будзе бачна ў азіральніку ">

@@ -84,7 +84,7 @@
 <!ENTITY editMenu.label "Праўка">
 <!ENTITY editMenu.accesskey "П">
 <!ENTITY pasteNoFormatting.label "Уставіць без фарматавання">
-<!ENTITY pasteNoFormatting.accesskey "Б">
+<!ENTITY pasteNoFormatting.accesskey "б">
 <!ENTITY pasteNoFormatting.key "V">
 <!ENTITY pasteAs.label "Уставіць як">
 <!ENTITY pasteAs.accesskey "Я">
@@ -399,21 +399,6 @@
 <!ENTITY alignCenterButton.tooltip "Цэнтраванае выраўноўванне тэксту">
 <!ENTITY alignRightButton.tooltip "Выраўноўваць тэкст уздоўж правага прымежку">
 <!ENTITY alignJustifyButton.tooltip "Выраўноваць тэкст да левага і правага прымежкаў">
-<!ENTITY NormalModeTab.label "Звычайны">
-<!ENTITY NormalMode.label "Звычайны рэжым праўкі ">
-<!ENTITY NormalMode.accesskey "ч">
-<!ENTITY NormalMode.tooltip "Паказаць межы табліцы і іменаваныя якары">
-<!ENTITY AllTagsMode.label "Тэгі HTML">
-<!ENTITY AllTagsMode.accesskey "э">
-<!ENTITY AllTagsMode.tooltip "Адлюстраваць значкі ўсіх тэгаў HTML">
-<!ENTITY HTMLSourceMode.label "Зыходнік HTML">
-<!ENTITY SourceMode.label "Зыходнік">
-<!ENTITY HTMLSourceMode.accesskey "З">
-<!ENTITY HTMLSourceMode.tooltip "Рэдагаваць зыходнік HTML">
-<!ENTITY PreviewMode.label "Папярэдні прагляд">
-<!ENTITY PreviewMode.accesskey "г">
-<!ENTITY PreviewMode.tooltip "Адлюстраваць як WYSIWYG (як у азіральніку)">
-<!ENTITY SourceTabDirection "ltr">
 <!ENTITY structSelect.label "Вылучыць">
 <!ENTITY structSelect.accesskey "л">
 <!ENTITY structRemoveTag.label "Выдаліць тэг">

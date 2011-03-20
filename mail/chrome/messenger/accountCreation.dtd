@@ -10,35 +10,36 @@
 <!ENTITY password.accesskey "П">
 <!ENTITY password.placeholder "Пароль">
 <!ENTITY password.text "Неабавязковы, патрэбны толькі для спраўджання імя карыстальніка">
-<!ENTITY accountInformation.label "Звесткі пра рахунак">
-<!ENTITY username2.label "Імя карыстальніка:">
+<!ENTITY rememberPassword.label "Памятаць пароль">
+<!ENTITY rememberPassword.accesskey "м">
+<!ENTITY imapLong.label "IMAP (адлеглыя папкі)">
+<!ENTITY pop3Long.label "POP3 (утрымліваць пошту на вашым кампутары)">
 <!ENTITY incoming.label "Уваходны:">
 <!ENTITY outgoing.label "Выходны:">
+<!ENTITY username.label "Імя карыстальніка:">
+<!ENTITY hostname.label "Назва трымальніка паслугача">
+<!ENTITY port.label "Порт">
+<!ENTITY ssl.label "SSL">
+<!ENTITY auth.label "Апазнаванне">
+<!ENTITY imap.label "IMAP">
+<!ENTITY pop3.label "POP3">
+<!ENTITY smtp.label "SMTP">
+<!ENTITY autodetect.label "Самавызначэнне">
 <!ENTITY noEncryption.label "Няма">
 <!ENTITY starttls.label "STARTTLS">
 <!ENTITY sslTls.label "SSL/TLS">
-<!ENTITY imap.label "IMAP">
-<!ENTITY pop.label "POP">
-<!ENTITY smtp.label "SMTP">
-<!ENTITY imap.description "IMAP - Доступ да папак і лістоў з розных кампутараў">
-<!ENTITY pop.description "POP - Сцягванне ўсіх лістоў толькі на гэты кампутар, папкі толькі мясцовыя">
-<!ENTITY recommended-appendix.label "(раіцца)">
-<!ENTITY manualSetup.label "Ручная наладка…">
-<!ENTITY manualSetup.accesskey "Р">
+<!ENTITY advancedSetup.label "Удасканаленая наладка">
+<!ENTITY advancedSetup.accesskey "У">
 <!ENTITY cancel.label "Скасаваць">
 <!ENTITY cancel.accesskey "к">
 <!ENTITY continue.label "Працягнуць">
 <!ENTITY continue.accesskey "П">
-<!ENTITY startOver.label "Пачаць">
-<!ENTITY startOver.accesskey "а">
 <!ENTITY stop.label "Спыніць">
 <!ENTITY stop.accesskey "С">
-<!ENTITY retest.label "Пераправерыць наладку">
-<!ENTITY retest.accesskey "е">
-<!ENTITY edit.label "Праўка">
-<!ENTITY edit.accesskey "П">
-<!ENTITY rememberPassword.label "Памятаць пароль">
-<!ENTITY rememberPassword.accesskey "м">
+<!ENTITY half-manual-test.label "Пераправерыць">
+<!ENTITY half-manual-test.accesskey "е">
+<!ENTITY manual-edit.label "Ручная наладка">
+<!ENTITY manual-edit.accesskey "Р">
 <!ENTITY warning.label "Увага!">
 <!ENTITY incomingSettings.label "Уваходныя наладжванні:">
 <!ENTITY outgoingSettings.label "Выходныя наладжванні:">

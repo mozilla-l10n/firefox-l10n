@@ -367,12 +367,11 @@
 <!ENTITY tagCmd9.key "9">
 <!ENTITY markMenu.label "Пазначыць">
 <!ENTITY markMenu.accesskey "ь">
+<!ENTITY toggleReadCmd.key "m">
 <!ENTITY markAsReadCmd.label "Прачытанымі">
 <!ENTITY markAsReadCmd.accesskey "ч">
-<!ENTITY markAsReadCmd.key "m">
 <!ENTITY markAsUnreadCmd.label "Як непрачытаныя">
 <!ENTITY markAsUnreadCmd.accesskey "н">
-<!ENTITY markAsUnreadCmd.key "m">
 <!ENTITY markThreadAsReadCmd.label "Нізку як прачытаную">
 <!ENTITY markThreadAsReadCmd.accesskey "Н">
 <!ENTITY markThreadAsReadCmd.key "r">
@@ -667,18 +666,12 @@
 <!ENTITY CreateFilterFrom.accesskey "с">
 <!ENTITY reportPhishingURL.label "Паведаміць пра э-паштовую ашуку">
 <!ENTITY reportPhishingURL.accesskey "П">
+<!ENTITY spellAddDictionaries.label "Дадаць слоўнікі…">
+<!ENTITY spellAddDictionaries.accesskey "Д">
 <!ENTITY saveLinkAsCmd.label "Захаваць спасылку як…">
 <!ENTITY saveLinkAsCmd.accesskey "с">
 <!ENTITY saveImageAsCmd.label "Захаваць выяву як…">
 <!ENTITY saveImageAsCmd.accesskey "я">
-<!ENTITY cutCmd.label "Выразаць">
-<!ENTITY cutCmd.accesskey "В">
-<!ENTITY copyCmd.label "Капіяваць">
-<!ENTITY copyCmd.accesskey "К">
-<!ENTITY pasteCmd.label "Уставіць">
-<!ENTITY pasteCmd.accesskey "У">
-<!ENTITY selectAllCmd.label "Вылучыць усё">
-<!ENTITY selectAllCmd.accesskey "у">
 <!ENTITY copyLinkCmd.label "Капіяваць месцазнаходжанне спасылкі">
 <!ENTITY copyLinkCmd.accesskey "с">
 <!ENTITY copyImageAllCmd.label "Капіяваць выяву">
