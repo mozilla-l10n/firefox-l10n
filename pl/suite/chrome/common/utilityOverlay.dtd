@@ -12,12 +12,12 @@
 <!ENTITY newBlankPageCmd.accesskey "S">
 <!ENTITY newBlankPageCmd.key "n">
 <!ENTITY newPageFromTemplateCmd.label "Stronę z szablonu">
-<!ENTITY newPageFromTemplateCmd.accesskey "t">
+<!ENTITY newPageFromTemplateCmd.accesskey "a">
 <!ENTITY newPageFromDraftCmd.label "Nowa strona ze szkicu">
-<!ENTITY newPageFromDraftCmd.accesskey "s">
+<!ENTITY newPageFromDraftCmd.accesskey "z">
 <!ENTITY newNavigatorCmd.label "Okno przeglądarki">
 <!ENTITY newNavigatorCmd.key "N">
-<!ENTITY newNavigatorCmd.accesskey "n">
+<!ENTITY newNavigatorCmd.accesskey "O">
 
 <!ENTITY editMenu.label "Edycja">
 <!ENTITY editMenu.accesskey "E">
@@ -38,11 +38,20 @@
 <!ENTITY pasteCmd.accesskey "e">
 <!ENTITY pasteGoCmd.label "Wklej i przejdź">
 <!ENTITY pasteGoCmd.accesskey "W">
+
+<!-- LOCALIZATION NOTE (pasteSearchCmd): "Search" is a verb, this is the
+     search bar equivalent to the url bar's "Paste & Go"  --> 
+<!ENTITY pasteSearchCmd.label "Wklej i szukaj">
+<!ENTITY pasteSearchCmd.accesskey "e">
 <!ENTITY deleteCmd.label "Usuń">
 <!ENTITY deleteCmd.accesskey "U">
 <!ENTITY selectAllCmd.label "Zaznacz wszystko">
 <!ENTITY selectAllCmd.key "A">
 <!ENTITY selectAllCmd.accesskey "a">
+<!ENTITY clearHistoryCmd.label "Wyczyść historię wyszukiwania">
+<!ENTITY clearHistoryCmd.accesskey "h">
+<!ENTITY showSuggestionsCmd.label "Wyświetlaj podpowiedzi">
+<!ENTITY showSuggestionsCmd.accesskey "W">
 <!ENTITY preferencesCmd.label "Preferencje…">
 <!ENTITY preferencesCmd.key "E">
 <!ENTITY preferencesCmd.accesskey "P">
@@ -66,7 +75,7 @@
 <!ENTITY releaseCmd.label "Informacje o wersji programu">
 <!ENTITY releaseCmd.accesskey "I">
 <!ENTITY updateCmd.label "Sprawdź dostępność aktualizacji…">
-<!ENTITY updateCmd.accesskey "C">
+<!ENTITY updateCmd.accesskey "u">
 <!ENTITY aboutCmd.label "O &brandShortName;">
 <!ENTITY aboutCmd.accesskey "O">
 <!ENTITY aboutCommPluginsCmd.label "O wtyczkach">
@@ -81,10 +90,10 @@
 <!ENTITY wpad.label "Online (Proxy: Automatyczne wykrywanie)">
 <!ENTITY wpad.accesskey "w">
 <!ENTITY system.label "Online (proxy: systemowe)">
-<!ENTITY system.accesskey "S">
+<!ENTITY system.accesskey "s">
 
 <!ENTITY proxy.label "Konfiguracja Proxy…">
-<!ENTITY proxy.accesskey "C">
+<!ENTITY proxy.accesskey "p">
 
 <!ENTITY bidiSwitchTextDirectionItem.label "Zmień kierunek tekstu">
 <!ENTITY bidiSwitchTextDirectionItem.accesskey "k">
@@ -111,8 +120,8 @@
 <!-- Popup Blocked notification menu -->
 <!ENTITY allowPopups.accesskey "p">
 <!ENTITY showPopupManager.label "Zarządzaj wyskakującymi oknami">
-<!ENTITY showPopupManager.accesskey "M">
+<!ENTITY showPopupManager.accesskey "Z">
 <!ENTITY dontShowMessage.label "Nie pokazuj tej wiadomości, kiedy wyskakujące okna są blokowane">
-<!ENTITY dontShowMessage.accesskey "D">
+<!ENTITY dontShowMessage.accesskey "s">
 
 <!ENTITY syncToolbarButton.label "Synchronizuj">
