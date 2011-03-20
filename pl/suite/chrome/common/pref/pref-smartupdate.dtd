@@ -2,8 +2,7 @@
 <!ENTITY addOnsTitle.label "Dodatki">
 <!ENTITY addOnsAllow.label "Zezwól witrynom na instalowanie dodatków i aktualizacji">
 <!ENTITY addOnsAllow.accesskey "Z">
-<!ENTITY allowedWebsites.label "Uprawnione witryny">
-<!ENTITY allowedWebsites.accesskey "W">
+<!ENTITY allowedSitesLink.label "Uprawnione witryny">
 <!ENTITY autoAddOnsUpdates.label "Automatycznie sprawdzaj, czy dostępne są aktualizacje">
 <!ENTITY autoAddOnsUpdates.accesskey "n">
 <!ENTITY daily.label "codziennie">
@@ -12,8 +11,9 @@
 <!ENTITY addOnsWeekly.accesskey "d">
 <!ENTITY addOnsModeAutomatic.label "Automatycznie pobierz i zainstaluj aktualizacje">
 <!ENTITY addOnsModeAutomatic.accesskey "A">
-<!ENTITY addonManagerButton.label "Menedżer dodatków">
-<!ENTITY addonManagerButton.accesskey "M">
+<!ENTITY enablePersonalized.label "Dostosowuj polecane dodatki do upodobań użytkownika">
+<!ENTITY enablePersonalized.accesskey "k">
+<!ENTITY addonManagerLink.label "Zarządzaj dodatkami">
 
 <!ENTITY appUpdates.caption "&brandShortName;">
 <!ENTITY autoAppUpdates.label "Automatycznie sprawdzaj, czy dostępne są aktualizacje">
@@ -24,5 +24,5 @@
 <!ENTITY appModeAutomatic.accesskey "u">
 <!ENTITY appModeAutoAddonWarn.label "Ostrzeż, jeśli aktualizacja spowoduje wyłączenie dodatków">
 <!ENTITY appModeAutoAddonWarn.accesskey "s">
-<!ENTITY updateHistory.label "Wyświetl historię aktualizacji">
-<!ENTITY updateHistory.accesskey "h">
+<!ENTITY updateHistoryButton.label "Wyświetl historię aktualizacji…">
+<!ENTITY updateHistoryButton.accesskey "W">
