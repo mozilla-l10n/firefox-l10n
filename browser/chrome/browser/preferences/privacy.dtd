@@ -32,7 +32,7 @@
 
 
 <!ENTITY historyHeader.pre.label "&brandShortName; ќе:">
-<!ENTITY historyHeader.pre.accesskey "w">
+<!ENTITY historyHeader.pre.accesskey "ќ">
 <!ENTITY historyHeader.remember.label "ја памти историјата">
 <!ENTITY historyHeader.dontremember.label "никогаш нема да ја памти историјата">
 <!ENTITY historyHeader.custom.label "ги користи вашите лични поставки за историјата">
