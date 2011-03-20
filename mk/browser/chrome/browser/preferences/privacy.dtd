@@ -31,11 +31,11 @@
 <!ENTITY showCookies.accesskey "л">
 
 
-<!ENTITY historyHeader.pre.label "&brandShortName; ќе:">
-<!ENTITY historyHeader.pre.accesskey "ќ">
-<!ENTITY historyHeader.remember.label "ја памти историјата">
+<!ENTITY historyHeader.pre.label "&brandShortName;:">
+<!ENTITY historyHeader.pre.accesskey "i">
+<!ENTITY historyHeader.remember.label "ќе ја памти историјата">
 <!ENTITY historyHeader.dontremember.label "никогаш нема да ја памти историјата">
-<!ENTITY historyHeader.custom.label "ги користи вашите лични поставки за историјата">
+<!ENTITY historyHeader.custom.label "ќе ги користи вашите лични поставки за историјата">
 <!ENTITY historyHeader.post.label "">
 
 <!ENTITY rememberDescription.label "&brandShortName; ќе ги памти вашите формулари и пребарувања, историјата на сурфање и преземања, и ќе чува колачиња од интернет места кои ги посетувате.">
