@@ -33,11 +33,17 @@
 <!ENTITY pasteCmd.accesskey "у">
 <!ENTITY pasteGoCmd.label "Уставіць і пайсці">
 <!ENTITY pasteGoCmd.accesskey "п">
+<!ENTITY pasteSearchCmd.label "Уставіць і знайсці">
+<!ENTITY pasteSearchCmd.accesskey "У">
 <!ENTITY deleteCmd.label "Выдаліць">
 <!ENTITY deleteCmd.accesskey "д">
 <!ENTITY selectAllCmd.label "Вылучыць усё">
 <!ENTITY selectAllCmd.key "A">
 <!ENTITY selectAllCmd.accesskey "л">
+<!ENTITY clearHistoryCmd.label "Ачысціць гісторыю пошуку">
+<!ENTITY clearHistoryCmd.accesskey "г">
+<!ENTITY showSuggestionsCmd.label "Паказаць прапановы">
+<!ENTITY showSuggestionsCmd.accesskey "п">
 <!ENTITY preferencesCmd.label "Перавагі…">
 <!ENTITY preferencesCmd.key "E">
 <!ENTITY preferencesCmd.accesskey "П">

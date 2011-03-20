@@ -2,6 +2,7 @@
 <!ENTITY legendHeader "Змоўчная машына пошуку">
 <!ENTITY defaultSearchEngine.label "Пошук з дапамогай:">
 <!ENTITY defaultSearchEngine.accesskey "д">
+<!ENTITY engineManager.label "Наладзіць машыны пошуку…">
 <!ENTITY searchResults.label "Вынікі пошуку">
 <!ENTITY openInTab.label "Адчыняць новыя ўстаўкі для вынікаў пошуку на бакавой палічцы">
 <!ENTITY openInTab.accesskey "н">
