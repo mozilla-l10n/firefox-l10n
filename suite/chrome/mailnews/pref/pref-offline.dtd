@@ -31,4 +31,4 @@
 <!ENTITY Diskspace                        "Speicherplatz">
 <!ENTITY offlineCompact.label             "Ordner komprimieren, wenn das mehr spart als">
 <!ENTITY offlineCompact.accesskey         "O">
-<!ENTITY kb.label                         "KB">
+<!ENTITY mb.label                         "MB">

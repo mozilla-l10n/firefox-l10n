@@ -7,6 +7,9 @@
 <!ENTITY defaultSearchEngine.label        "Suche mit:">
 <!ENTITY defaultSearchEngine.accesskey    "S">
 
+<!-- Will be used by bug 595246 -->
+<!ENTITY engineManager.label              "Suchmaschinen verwalten…">
+
 <!ENTITY searchResults.label              "Suchergebnisse">
 
 <!ENTITY openInTab.label                  "Neue Tabs für Sidebar-Suchergebnisse öffnen">
