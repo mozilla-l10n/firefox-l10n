@@ -12,8 +12,10 @@
 <!-- LOCALIZATION NOTE (undoCloseTabCmd.label):
      Menu option to attempt to re-open a recently closed tab.
      -->
-<!ENTITY undoCloseTabCmd.label "Anular o peche da lapela">
-<!ENTITY undoCloseTabCmd.accesskey "U">
+<!ENTITY recentlyClosedTabsCmd.label "Lapelas pechadas recentemente">
+<!ENTITY recentlyClosedTabsCmd.accesskey "r">
+
+<!ENTITY undoCloseTabCmd.commandkey "T">
 <!-- LOCALIZATION NOTE (moveToNewWindow.label):
      Menu option to cause the current tab to be migrated to a new Thunderbird
      window.
@@ -324,6 +326,7 @@ you can use these alternative items. Otherwise, their values should be empty.  -
 <!ENTITY folderMenu.accesskey "o">
 <!ENTITY thisFolder.label "Este cartafol">
 <!ENTITY thisFolder.accesskey "f">
+<!ENTITY goRecentlyClosedTabs.label "Lapelas pechadas recentemente">
 <!ENTITY startPageCmd.label "Páxina de inicio do correo">
 <!ENTITY startPageCmd.accesskey "n">
 
