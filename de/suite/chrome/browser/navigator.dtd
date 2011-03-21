@@ -152,14 +152,14 @@
 <!ENTITY locationBar.tooltip          "Geben Sie einen Suchbegriff, ein Schlüsselwort oder eine Web-Adresse ein">
 <!ENTITY locationBar.accesskey        "s">
 <!ENTITY locationBar.title            "Adresse">
-
 <!ENTITY proxyIcon.tooltip            "Ziehen Sie dieses Symbol, um einen Link zu dieser Seite zu erstellen">
 
-<!-- Toolbar items --> 
-<!ENTITY  bookmarksButton.label       "Lesezeichen">
-<!ENTITY  bookmarksButton.tooltip     "Lesezeichen-Liste">
-<!ENTITY  homeButton.label            "Startseite">
-<!ENTITY  bookmarksToolbarItem.label  "Elemente der Lesezeichen-Symbolleiste">
+<!ENTITY searchItem.title             "Suchen">
+
+<!ENTITY bookmarksButton.label        "Lesezeichen">
+<!ENTITY bookmarksButton.tooltip      "Lesezeichen-Liste">
+<!ENTITY homeButton.label             "Startseite">
+<!ENTITY bookmarksToolbarItem.label   "Elemente der Lesezeichen-Symbolleiste">
 <!ENTITY bookmarksToolbarChevron.tooltip "Weitere Lesezeichen anzeigen">
 
 <!-- Statusbar -->

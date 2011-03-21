@@ -38,3 +38,5 @@
 <!ENTITY search.button.label      "Suchen">
 <!ENTITY search.placeholder       "Suchtext eingeben">
 
+<!-- Will be used by bug 595246 -->
+<!ENTITY search.engineManager.label "Suchmaschinen verwalten…">

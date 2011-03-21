@@ -38,11 +38,20 @@
 <!ENTITY pasteCmd.accesskey					"E"> 
 <!ENTITY pasteGoCmd.label					"Einfügen &amp; aufrufen">
 <!ENTITY pasteGoCmd.accesskey				"n">
+
+<!-- LOCALIZATION NOTE (pasteSearchCmd): "Search" is a verb, this is the
+     search bar equivalent to the url bar's "Paste & Go"  --> 
+<!ENTITY pasteSearchCmd.label				"Einfügen &amp; Suchen">
+<!ENTITY pasteSearchCmd.accesskey			"E">
 <!ENTITY deleteCmd.label					"Löschen">  
 <!ENTITY deleteCmd.accesskey				"L"> 
 <!ENTITY selectAllCmd.label					"Alles auswählen">  
 <!ENTITY selectAllCmd.key					"A">  
 <!ENTITY selectAllCmd.accesskey				"u"> 
+<!ENTITY clearHistoryCmd.label				"Suchchronik leeren">  
+<!ENTITY clearHistoryCmd.accesskey			"h"> 
+<!ENTITY showSuggestionsCmd.label			"Vorschläge anzeigen">  
+<!ENTITY showSuggestionsCmd.accesskey		"V"> 
 <!ENTITY preferencesCmd.label				"Einstellungen…">
 <!ENTITY preferencesCmd.key					"E">  
 <!ENTITY preferencesCmd.accesskey			"n"> 
