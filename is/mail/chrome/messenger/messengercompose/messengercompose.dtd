@@ -205,6 +205,7 @@
  
 <!ENTITY attachButton.tooltip "Bæta við viðhengi">
  
+<!ENTITY spellingButton.tooltip "Athuga stafsetningu á vali eða öllum póstinum">
 <!ENTITY saveButton.tooltip "Vista þennan póst">
  
 <!ENTITY cutButton.tooltip "Klippa">

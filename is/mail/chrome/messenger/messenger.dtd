@@ -11,8 +11,9 @@
 <!-- LOCALIZATION NOTE (undoCloseTabCmd.label):
      Menu option to attempt to re-open a recently closed tab.
      -->
-<!ENTITY undoCloseTabCmd.label "Afturkalla loka flipa">
-<!ENTITY undoCloseTabCmd.accesskey "u">
+<!ENTITY recentlyClosedTabsCmd.label "Nýlega lokaðir flipar">
+<!ENTITY recentlyClosedTabsCmd.accesskey "r">
+<!ENTITY undoCloseTabCmd.commandkey "T">
 <!-- LOCALIZATION NOTE (moveToNewWindow.label):
      Menu option to cause the current tab to be migrated to a new Thunderbird
      window.
@@ -309,6 +310,7 @@ you can use these alternative items. Otherwise, their values should be empty.  -
 <!ENTITY folderMenu.accesskey "a">
 <!ENTITY thisFolder.label "Þessi mappa">
 <!ENTITY thisFolder.accesskey "m">
+<!ENTITY goRecentlyClosedTabs.label "Nýlega lokaðir flipar">
 <!ENTITY startPageCmd.label "Upphafssíða">
 <!ENTITY startPageCmd.accesskey "U">
 <!-- Message Menu -->
@@ -388,12 +390,11 @@ you can use these alternative items. Otherwise, their values should be empty.  -
 <!ENTITY tagCmd9.key "9">
 <!ENTITY markMenu.label "Merkja">
 <!ENTITY markMenu.accesskey "k">
+<!ENTITY toggleReadCmd.key "m">
 <!ENTITY markAsReadCmd.label "Sem lesið">
 <!ENTITY markAsReadCmd.accesskey "l">
-<!ENTITY markAsReadCmd.key "m">
 <!ENTITY markAsUnreadCmd.label "Sem ólesið">
 <!ENTITY markAsUnreadCmd.accesskey "ð">
-<!ENTITY markAsUnreadCmd.key "m">
 <!ENTITY markThreadAsReadCmd.label "Umræðu sem lesna">
 <!ENTITY markThreadAsReadCmd.accesskey "U">
 <!ENTITY markThreadAsReadCmd.key "r">
