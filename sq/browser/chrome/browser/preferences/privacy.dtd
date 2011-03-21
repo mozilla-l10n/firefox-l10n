@@ -22,9 +22,9 @@
 <!ENTITY  locbar.pre.label              "Kur përdoret shtylla e vendeve, këshillo:">
 <!ENTITY  locbar.pre.accessKey          "K">
 <!ENTITY  locbar.post.label             "">
-<!ENTITY  locbar.both.label             "Historik dhe Shfletuesa">
+<!ENTITY  locbar.both.label             "Historik dhe Faqerojtësa">
 <!ENTITY  locbar.history.label          "Historik">
-<!ENTITY  locbar.bookmarks.label        "Shfletuesa">
+<!ENTITY  locbar.bookmarks.label        "Faqerojtësa">
 <!ENTITY  locbar.nothing.label          "Asgjë">
 
 
