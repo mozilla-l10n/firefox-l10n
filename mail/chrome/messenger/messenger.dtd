@@ -12,8 +12,10 @@
 <!-- LOCALIZATION NOTE (undoCloseTabCmd.label):
      Menu option to attempt to re-open a recently closed tab.
      -->
-<!ENTITY undoCloseTabCmd.label "Otevřít zavřený panel">
-<!ENTITY undoCloseTabCmd.accesskey "t">
+<!ENTITY recentlyClosedTabsCmd.label "Naposledy zavřené panely">
+<!ENTITY recentlyClosedTabsCmd.accesskey "N">
+
+<!ENTITY undoCloseTabCmd.commandkey "T">
 <!-- LOCALIZATION NOTE (moveToNewWindow.label):
      Menu option to cause the current tab to be migrated to a new Thunderbird
      window.
@@ -324,6 +326,7 @@ you can use these alternative items. Otherwise, their values should be empty.  -
 <!ENTITY folderMenu.accesskey "S">
 <!ENTITY thisFolder.label "Tato složka">
 <!ENTITY thisFolder.accesskey "T">
+<!ENTITY goRecentlyClosedTabs.label "Naposledy zavřené panely">
 <!ENTITY startPageCmd.label "Úvodní stránka">
 <!ENTITY startPageCmd.accesskey "s">
 
