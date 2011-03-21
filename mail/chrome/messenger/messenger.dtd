@@ -12,8 +12,10 @@
 <!-- LOCALIZATION NOTE (undoCloseTabCmd.label):
      Menu option to attempt to re-open a recently closed tab.
      -->
-<!ENTITY undoCloseTabCmd.label "Geschlossenen Tab wiederherstellen">
-<!ENTITY undoCloseTabCmd.accesskey "G">
+<!ENTITY recentlyClosedTabsCmd.label "Kürzlich geschlossene Tabs">
+<!ENTITY recentlyClosedTabsCmd.accesskey "g">
+
+<!ENTITY undoCloseTabCmd.commandkey "T">
 <!-- LOCALIZATION NOTE (moveToNewWindow.label):
      Menu option to cause the current tab to be migrated to a new Thunderbird
      window.
@@ -326,6 +328,7 @@ you can use these alternative items. Otherwise, their values should be empty.  -
 <!ENTITY folderMenu.accesskey "O">
 <!ENTITY thisFolder.label "Dieser Ordner">
 <!ENTITY thisFolder.accesskey "D">
+<!ENTITY goRecentlyClosedTabs.label "Kürzlich geschlossene Tabs">
 <!ENTITY startPageCmd.label "Startseite">
 <!ENTITY startPageCmd.accesskey "S">
 
