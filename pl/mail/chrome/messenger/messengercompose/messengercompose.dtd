@@ -190,6 +190,7 @@
 <!ENTITY quoteButton.tooltip     "Zacytuj poprzednią wiadomość">
 <!ENTITY addressButton.tooltip   "Wybierz adresata z książki adresowej">
 <!ENTITY attachButton.tooltip    "Dodaj pliki do tej wiadomości">
+<!ENTITY spellingButton.tooltip  "Sprawdź pisownię zaznaczonego fragmentu lub całej wiadomości">
 <!ENTITY saveButton.tooltip      "Zapisz wiadomość jako">
 <!ENTITY cutButton.tooltip       "Wytnij">
 <!ENTITY copyButton.tooltip      "Kopiuj">
