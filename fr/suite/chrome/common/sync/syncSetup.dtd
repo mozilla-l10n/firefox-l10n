@@ -44,8 +44,6 @@
 <!ENTITY syncKeyEntry.accesskey    "c">
 <!ENTITY syncKeyGenerate.label     "Générer">
 <!ENTITY syncKeyGenerate.accesskey "G">
-<!ENTITY syncKeyStrength.label     "Complexité de la clé :">
-<!ENTITY syncKeyHelp.label         "que signifie la complexité de la clé ?">
 <!ENTITY syncKeyBackup.description "Votre clé de synchronisation est nécessaire pour accéder à &syncBrand.fullName.label; sur d'autres machines. Veuillez en faire une copie de sauvegarde. Nous ne pourrons pas vous aider à la récupérer.">
 
 <!ENTITY button.syncKeyBackup.print.label     "Imprimer…">
