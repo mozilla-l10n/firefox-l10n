@@ -400,12 +400,11 @@
 <!ENTITY tagCmd9.key "9">
 <!ENTITY markMenu.label                 "Oznacz">
 <!ENTITY markMenu.accesskey             "c">
+<!ENTITY toggleReadCmd.key              "m">
 <!ENTITY markAsReadCmd.label            "Jako przeczytaną">
 <!ENTITY markAsReadCmd.accesskey        "a">
-<!ENTITY markAsReadCmd.key              "m">
 <!ENTITY markAsUnreadCmd.label          "Jako nieprzeczytaną">
 <!ENTITY markAsUnreadCmd.accesskey      "e">
-<!ENTITY markAsUnreadCmd.key            "m">
 <!ENTITY markThreadAsReadCmd.label      "Wątek jako przeczytany">
 <!ENTITY markThreadAsReadCmd.accesskey  "W">
 <!ENTITY markThreadAsReadCmd.key        "r">
