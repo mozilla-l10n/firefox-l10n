@@ -734,19 +734,15 @@
 <!ENTITY reportPhishingURL.label            "Zgłoś oszustwo pocztowe" >
 <!ENTITY reportPhishingURL.accesskey        "g">
 
+<!-- Spell checker context menu items -->
+<!ENTITY spellAddDictionaries.label     "Dodaj słowniki…">
+<!ENTITY spellAddDictionaries.accesskey "D">
+
 <!-- Content Pane Context Menu -->
 <!ENTITY saveLinkAsCmd.label         "Zapisz element docelowy jako…">
 <!ENTITY saveLinkAsCmd.accesskey     "d">
 <!ENTITY saveImageAsCmd.label        "Zapisz obrazek jako…">
 <!ENTITY saveImageAsCmd.accesskey    "Z">
-<!ENTITY cutCmd.label                "Wytnij">
-<!ENTITY cutCmd.accesskey            "W">
-<!ENTITY copyCmd.label               "Kopiuj">
-<!ENTITY copyCmd.accesskey           "K">
-<!ENTITY pasteCmd.label              "Wklej">
-<!ENTITY pasteCmd.accesskey          "k">
-<!ENTITY selectAllCmd.label          "Zaznacz wszystko">
-<!ENTITY selectAllCmd.accesskey      "a">
 <!ENTITY copyLinkCmd.label           "Kopiuj adres odnośnika">
 <!ENTITY copyLinkCmd.accesskey       "s">
 <!ENTITY copyImageAllCmd.label       "Kopiuj obrazek">
