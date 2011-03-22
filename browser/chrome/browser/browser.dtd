@@ -582,7 +582,7 @@ just addresses the organization to follow, e.g. "This site is run by " -->
 <!ENTITY appMenuSafeMode.accesskey "κ">
 <!ENTITY appMenuWebDeveloper.label "Web Developer">
 <!ENTITY feedButton.label             "Συνδρομή">
-<!ENTITY  moveToNewWindow.label              "Μετακίνηση σε νέα παράθυρο">
+<!ENTITY  moveToNewWindow.label              "Μετακίνηση σε νέο παράθυρο">
 <!ENTITY  moveToNewWindow.accesskey          "π">
 <!ENTITY syncToolbarButton.label      "Sync">
 
