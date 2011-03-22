@@ -6,6 +6,9 @@
 <!ENTITY  defaultSearchEngine.label       "Sök med:">
 <!ENTITY  defaultSearchEngine.accesskey   "k">
 
+<!-- Will be used by bug 595246 -->
+<!ENTITY engineManager.label              "Hantera sökmotorer…">
+
 <!ENTITY openInTab.label                  "Öppna nya flikar för sökresultatet i sidofältet">
 <!ENTITY openInTab.accesskey              "n">
 <!ENTITY  openSidebarSearchPanel.label    "Öppna sökfliken i sidofältet när sökresultat finns tillgängliga">

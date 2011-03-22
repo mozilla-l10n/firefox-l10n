@@ -31,4 +31,4 @@
 <!ENTITY Diskspace                        "Diskutrymme">
 <!ENTITY offlineCompact.label             "Komprimera mappar när det sparar mer än">
 <!ENTITY offlineCompact.accesskey         "m">
-<!ENTITY kb.label                         "kB">
+<!ENTITY mb.label                         "MB">
