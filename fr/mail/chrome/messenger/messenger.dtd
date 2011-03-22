@@ -9,11 +9,13 @@
 <!ENTITY closeTabCmd2.accesskey "m">
 <!ENTITY closeOtherTabsCmd2.label "Fermer les autres onglets">
 <!ENTITY closeOtherTabsCmd2.accesskey "F">
-<!-- LOCALIZATION NOTE (undoCloseTabCmd.label):
+<!-- LOCALIZATION NOTE (ecentlyClosedTabsCmd.label):
      Menu option to attempt to re-open a recently closed tab.
      -->
-<!ENTITY undoCloseTabCmd.label "Annuler la fermeture de l'onglet">
-<!ENTITY undoCloseTabCmd.accesskey "A">
+<!ENTITY recentlyClosedTabsCmd.label "Onglets récemment fermés">
+<!ENTITY recentlyClosedTabsCmd.accesskey "r">
+
+<!ENTITY undoCloseTabCmd.commandkey "T">
 <!-- LOCALIZATION NOTE (moveToNewWindow.label):
      Menu option to cause the current tab to be migrated to a new Thunderbird
      window.
@@ -326,6 +328,7 @@ you can use these alternative items. Otherwise, their values should be empty.
 <!ENTITY folderMenu.accesskey "o">
 <!ENTITY thisFolder.label "Ce dossier">
 <!ENTITY thisFolder.accesskey "C">
+<!ENTITY goRecentlyClosedTabs.label "Onglets récemment fermés">
 <!ENTITY startPageCmd.label "Page de démarrage">
 <!ENTITY startPageCmd.accesskey "g">
 
