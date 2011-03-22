@@ -46,8 +46,10 @@
 <!-- LOCALIZATION NOTE (undoCloseTabCmd.label):
      Menu option to attempt to re-open a recently closed tab.
      -->
-<!ENTITY undoCloseTabCmd.label "Ångra Stäng flik">
-<!ENTITY undoCloseTabCmd.accesskey "Å">
+<!ENTITY recentlyClosedTabsCmd.label "Nyligen stängda flikar">
+<!ENTITY recentlyClosedTabsCmd.accesskey "N">
+
+<!ENTITY undoCloseTabCmd.commandkey "T">
 <!-- LOCALIZATION NOTE (moveToNewWindow.label):
      Menu option to cause the current tab to be migrated to a new Thunderbird
      window.
@@ -358,6 +360,7 @@ you can use these alternative items. Otherwise, their values should be empty.  -
 <!ENTITY folderMenu.accesskey "M">
 <!ENTITY thisFolder.label "Den här mappen">
 <!ENTITY thisFolder.accesskey "D">
+<!ENTITY goRecentlyClosedTabs.label "Nyligen stängda flikar">
 <!ENTITY startPageCmd.label "Meddelandestartsidan">
 <!ENTITY startPageCmd.accesskey "S">
 
