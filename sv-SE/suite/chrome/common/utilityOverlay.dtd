@@ -38,11 +38,20 @@
 <!ENTITY pasteCmd.accesskey					"l">
 <!ENTITY pasteGoCmd.label "Klistra in &amp; gå">
 <!ENTITY pasteGoCmd.accesskey "G">
+
+<!-- LOCALIZATION NOTE (pasteSearchCmd): "Search" is a verb, this is the
+     search bar equivalent to the url bar's "Paste & Go"  --> 
+<!ENTITY pasteSearchCmd.label				"Klistra in &amp; sök">
+<!ENTITY pasteSearchCmd.accesskey			"s">
 <!ENTITY deleteCmd.label					"Ta bort">  
 <!ENTITY deleteCmd.accesskey				"T">
 <!ENTITY selectAllCmd.label					"Markera allt">
 <!ENTITY selectAllCmd.key					"a">
 <!ENTITY selectAllCmd.accesskey				"M">
+<!ENTITY clearHistoryCmd.label				"Töm sökhistorik">  
+<!ENTITY clearHistoryCmd.accesskey			"H"> 
+<!ENTITY showSuggestionsCmd.label			"Visa förslag">  
+<!ENTITY showSuggestionsCmd.accesskey		"ö"> 
 <!ENTITY preferencesCmd.label				"Inställningar…">
 <!ENTITY preferencesCmd.key					"E">
 <!ENTITY preferencesCmd.accesskey			"I">

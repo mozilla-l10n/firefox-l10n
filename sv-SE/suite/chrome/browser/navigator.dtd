@@ -149,8 +149,9 @@
 <!ENTITY locationBar.tooltip          "Adress- och sökfält">
 <!ENTITY locationBar.accesskey        "d">
 <!ENTITY locationBar.title            "Adress">
-
 <!ENTITY proxyIcon.tooltip            "Dra och släpp den här ikonen för att skapa en länk till den här sidan">
+
+<!ENTITY searchItem.title             "Sök">
 
 <!-- Toolbar items --> 
 <!ENTITY  bookmarksButton.label       "Bokmärken">

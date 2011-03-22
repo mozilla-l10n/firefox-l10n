@@ -38,3 +38,5 @@
 <!ENTITY search.button.label      "Sök">
 <!ENTITY search.placeholder       "Skriv söktext">
 
+<!-- Will be used by bug 595246 -->
+<!ENTITY search.engineManager.label "Hantera sökmotorer…">
