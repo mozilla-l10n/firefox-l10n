@@ -19,8 +19,8 @@
                                            gerð óvirk. þú getur breytt þessu með stillingu hér fyrir neðan.">
 <!ENTITY found.enableXPInstall.label "Leyfa vefsvæðum að setja inn hugbúnað">
 <!ENTITY found.enableXPInstall.accesskey "a">
-<!ENTITY installing.wizard.title "Set upp samhæfðar viðbætur">
-<!ENTITY installing.top.label "Niðurhala og set upp uppfærslur viðbóta…">
+<!ENTITY installing.wizard.title "Set inn samhæfðar viðbætur">
+<!ENTITY installing.top.label "Niðurhala og sett inn uppfærslur fyrir viðbætur…">
 <!ENTITY noupdates.wizard.title "Engar samhæfðar viðbætur fundust">
 <!ENTITY noupdates.intro.desc "&brandShortName; fann engar uppfærslur fyrir
                                            ósamhæfðar viðbætur.">
@@ -32,7 +32,7 @@
 <!ENTITY finished.checkDisabled.desc "&brandShortName; getur athugað reglulega og látið þig vita
                                            þegar uppfærslur fyrir viðbætur eru komnar.">
 <!ENTITY finished.checkEnabled.desc "&brandShortName; mun athuga reglulega og láta þig vita
-                                           þegar uppfærslur eru komnar.">
+                                           þegar uppfærslur eru fáanlegar.">
 <!ENTITY adminDisabled.wizard.title "Get ekki athugað með uppfærslur">
 <!ENTITY adminDisabled.warning.label "Get ekki athugað með uppfærslur fyrir ósamhæfðar viðbætur
                                            því uppsetning hugbúnaðar fyrir &brandShortName; hefur verið gerð óvirk.
