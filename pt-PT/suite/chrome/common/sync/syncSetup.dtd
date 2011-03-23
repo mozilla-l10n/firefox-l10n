@@ -44,8 +44,6 @@
 <!ENTITY syncKeyEntry.accesskey    "C">
 <!ENTITY syncKeyGenerate.label     "Gerar">
 <!ENTITY syncKeyGenerate.accesskey "G">
-<!ENTITY syncKeyStrength.label     "Força:">
-<!ENTITY syncKeyHelp.label         "O que é que significa força?">
 <!ENTITY syncKeyBackup.description "A sua Chave Sync é necessária para aceder ao &syncBrand.fullName.label; noutras máquinas. Por favor crie uma cópia de segurança. Não podemos ajudá-lo a recuperar a sua Chave Sync.">
 
 <!ENTITY button.syncKeyBackup.print.label     "Imprimir...">
