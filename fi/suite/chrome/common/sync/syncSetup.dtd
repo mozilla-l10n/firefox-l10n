@@ -38,7 +38,7 @@
 <!ENTITY setup.tosAgree2.accesskey  "s">
 
 <!-- New Account Page 2: Sync Key -->
-<!ENTITY setup.newSyncKeyPage.title.label "&brandShortName; ja yksityisyydensuojasi">
+<!ENTITY setup.newSyncKeyPage.title.label "&brandShortName; on tosissaan yksityisyydensuojasi suhteen">
 <!ENTITY setup.newSyncKeyPage.description.label "Täydellisen yksityisyydensuojan varmistamiseksi kaikki tieto salataan ennen lähettämistä. Salauksen purkamisessa tarvittavaa synkronointiavainta ei lähetetä.">
 <!ENTITY syncKeyEntry.label        "Synkronointiavain">
 <!ENTITY syncKeyEntry.accesskey    "S">

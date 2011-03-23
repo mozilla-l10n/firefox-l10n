@@ -10,11 +10,11 @@
 <!ENTITY enableJavaScript.label          "Ota JavaScript käyttöön">
 <!ENTITY allowScripts.label              "Komentosarjat voivat:">
 <!ENTITY allowScripts.accesskey          "K">
-<!ENTITY allowWindowMoveResize.label     "Siirtää ikkunoita tai muuttaa niiden kokoa">
-<!ENTITY allowWindowFlip.label           "Nostaa tai laskea ikkunoita">
+<!ENTITY allowWindowMoveResize.label     "Siirtää ikkunoita ja muuttaa niiden kokoa">
+<!ENTITY allowWindowFlip.label           "Nostaa ja laskea ikkunoita">
 <!ENTITY allowWindowStatusChange.label   "Muuttaa tilarivin tekstiä">
 <!ENTITY allowWindowImageSrcChange.label "Vaihtaa kuvia">
-<!ENTITY allowContextmenuDisable.label   "Poistaa tai muuttaa ponnahdusvalikkoja">
+<!ENTITY allowContextmenuDisable.label   "Poistaa ja muuttaa ponnahdusvalikkoja">
 <!ENTITY allowHideStatusBar.label        "Piilottaa tilarivin">
 
 <!ENTITY enablePlugin.label              "Ota liitännäiset käyttöön">
