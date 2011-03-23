@@ -28,7 +28,7 @@
      joined with implicit white space, so spaces in the strings aren't necessary -->
 <!ENTITY setup.tosAgree1.label "Ég samþykki">
 <!ENTITY setup.tosAgree1.accesskey "a">
-<!ENTITY setup.tosLink.label "Skilmálanna">
+<!ENTITY setup.tosLink.label "Skilmálana">
 <!ENTITY setup.tosAgree2.label "og">
 <!ENTITY setup.ppLink.label "Meðferð persónuupplýsinga">
 <!ENTITY setup.tosAgree3.label "">
