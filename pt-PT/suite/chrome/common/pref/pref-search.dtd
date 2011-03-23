@@ -14,5 +14,7 @@
 
 <!ENTITY openInTab.label                  "Abrir novos separador para os resultados da barra lateral">
 <!ENTITY openInTab.accesskey              "n">
+<!ENTITY openContextSearchTab.label       "Abrir um separador em vez de uma janela para o menu de contexto da pesquisa web">
+<!ENTITY openContextSearchTab.accesskey   "t">
 <!ENTITY openSidebarSearchPanel.label     "Abrir o separador de pesquisa na barra lateral quando é pedida uma pesquisa">
 <!ENTITY openSidebarSearchPanel.accesskey "o">
