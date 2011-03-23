@@ -95,6 +95,7 @@
 <!ENTITY contextSaveImage.label       "Sàbhail an dealbh">
 <!ENTITY contextShareLink.label       "Co-roinn an ceangal">
 <!ENTITY contextShareImage.label      "Co-roinn an dealbh">
+<!ENTITY contextBookmarkLink.label    "Dèan comharra-lìn dhen cheangal">
 <!ENTITY contextSaveVideo.label       "Sàbhail am video">
 <!ENTITY contextShareVideo.label      "Co-roinn am video">
 <!ENTITY contextPlayMedia.label       "Cluich">
