@@ -31,4 +31,4 @@
 <!ENTITY Diskspace                        "Levytilan käyttö">
 <!ENTITY offlineCompact.label             "Tiivistä kansio, jos sen koko ylittää">
 <!ENTITY offlineCompact.accesskey         "T">
-<!ENTITY kb.label                         "kt">
+<!ENTITY mb.label                         "Mt">

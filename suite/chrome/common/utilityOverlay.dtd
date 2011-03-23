@@ -38,11 +38,20 @@
 <!ENTITY pasteCmd.accesskey					"i"> 
 <!ENTITY pasteGoCmd.label					"Liitä ja siirry">
 <!ENTITY pasteGoCmd.accesskey				"L">
+
+<!-- LOCALIZATION NOTE (pasteSearchCmd): "Search" is a verb, this is the
+     search bar equivalent to the url bar's "Paste & Go"  --> 
+<!ENTITY pasteSearchCmd.label				"Liitä ja hae">
+<!ENTITY pasteSearchCmd.accesskey			"L">
 <!ENTITY deleteCmd.label					"Poista">  
 <!ENTITY deleteCmd.accesskey				"o"> 
 <!ENTITY selectAllCmd.label					"Valitse kaikki">  
 <!ENTITY selectAllCmd.key					"A">  
 <!ENTITY selectAllCmd.accesskey				"V"> 
+<!ENTITY clearHistoryCmd.label				"Tyhjennä hakuhistoria">  
+<!ENTITY clearHistoryCmd.accesskey			"h"> 
+<!ENTITY showSuggestionsCmd.label			"Näytä hakuehdotukset">  
+<!ENTITY showSuggestionsCmd.accesskey		"N"> 
 <!ENTITY preferencesCmd.label				"Asetukset…">
 <!ENTITY preferencesCmd.key					"E">  
 <!ENTITY preferencesCmd.accesskey			"A"> 

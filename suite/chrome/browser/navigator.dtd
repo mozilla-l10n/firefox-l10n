@@ -152,14 +152,14 @@
 <!ENTITY locationBar.tooltip          "Kirjoita osoite, hakusana tai pikakomento">
 <!ENTITY locationBar.accesskey        "O">
 <!ENTITY locationBar.title            "Osoite">
-
 <!ENTITY proxyIcon.tooltip            "Vedä ja pudota tämä kuvake luodaksesi linkin tähän sivuun">
 
-<!-- Toolbar items --> 
-<!ENTITY  bookmarksButton.label       "Kirjanmerkit">
-<!ENTITY  bookmarksButton.tooltip     "Kirjanmerkkilista">
-<!ENTITY  homeButton.label            "Aloitussivu">
-<!ENTITY  bookmarksToolbarItem.label  "Kirjanmerkkipalkin kirjanmerkit">
+<!ENTITY searchItem.title             "Hae">
+
+<!ENTITY bookmarksButton.label        "Kirjanmerkit">
+<!ENTITY bookmarksButton.tooltip      "Kirjanmerkkilista">
+<!ENTITY homeButton.label             "Aloitussivu">
+<!ENTITY bookmarksToolbarItem.label   "Kirjanmerkkipalkin kirjanmerkit">
 <!ENTITY bookmarksToolbarChevron.tooltip "Näytä enemmän kirjanmerkkejä">
 
 <!-- Statusbar -->
