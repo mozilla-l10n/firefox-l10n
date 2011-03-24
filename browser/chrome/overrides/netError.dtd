@@ -13,7 +13,7 @@
 <!ENTITY deniedPortAccess.longDesc "">
 
 <!ENTITY dnsNotFound.title "Nun s'alcuentra la direición">
-<!ENTITY dnsNotFound.longDesc "<p>El restolador nun foi quien a alcontrar el sirvidor pa la direición proporcionada.</p><ul><li>¿Cometióse un error al escribir el dominiu? (p. ex. <q><strong>ww</strong>.mozilla.org</q> en llugar de <q><strong>www</strong>.mozilla.org</q>)</li><li>¿De xuru qu'esiste esti dominiu?  La data de rexistru
+<!ENTITY dnsNotFound.longDesc "<p>El restolador nun foi a alcontrar el sirvidor pa la direición proporcionada.</p><ul><li>¿Cometióse un error al escribir el dominiu? (p. ex. <q><strong>ww</strong>.mozilla.org</q> en llugar de <q><strong>www</strong>.mozilla.org</q>)</li><li>¿De xuru qu'esiste esti dominiu?  La data de rexistru
 pue tar caducada.</li><li>¿Nun yes quien a navegar per otros sitios? Comprueba la conexón de rede y la configuración del sirvidor DNS.</li><li>¿Ta l'equipu protexíu por un proxy o un tornafueos? Una configuración incorreuta pue interferir na navegación.</li></ul>">
 
 <!ENTITY fileNotFound.title "Nun s'alcontró el ficheru">
