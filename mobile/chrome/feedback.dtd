@@ -6,9 +6,9 @@
 <!ENTITY feedback.feedback.bad          "Mauvais">
 
 <!ENTITY feedback.information.title     "Plus d'informations">
-<!ENTITY feedback.about.title           "À propos de cette bêta">
+<!ENTITY feedback.about.title           "À propos">
 <!ENTITY feedback.about.button          "Se rendre sur la page">
 
 <!ENTITY feedback.tools.title           "Outils">
-<!ENTITY feedback.forceCompat.title     "Forcer la compatibilité des modules">
+<!ENTITY feedback.forceCompat.title     "Modules incompatibles permis">
 <!ENTITY feedback.errorConsole.title    "Activer la console d'erreurs">

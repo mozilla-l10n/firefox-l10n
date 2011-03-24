@@ -2,13 +2,13 @@
 <!ENTITY about.title                               "À propos de &brandShortName;">
 <!ENTITY about.button                              "Aller à la page">
 <!ENTITY content.title                             "Contenu">
-<!ENTITY reflowZoom.title                          "Reformater le texte lors du zoom">
+<!ENTITY reflowZoom.title                          "Zoom textuel reformaté">
 <!ENTITY showImages.title                          "Afficher les images">
 <!ENTITY enableJavaScript.title                    "Activer JavaScript">
 <!ENTITY enablePlugins.title                       "Activer les plugins">
 <!ENTITY privacy.title                             "Vie privée et confidentialité">
 <!ENTITY allowCookies.title                        "Autoriser les cookies">
-<!ENTITY clearPrivateData2.title                   "Effacer les données personnelles">
+<!ENTITY clearPrivateData2.title                   "Effacer les données privées">
 <!ENTITY clearPrivateData.button                   "Effacer">
 <!ENTITY rememberPasswords.title                   "Enregistrer les mots de passe">
 
