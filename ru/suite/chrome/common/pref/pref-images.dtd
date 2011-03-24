@@ -2,17 +2,17 @@
 <!ENTITY imageBlocking.label "Политика загрузки изображений">
 <!ENTITY imageDetails "Укажите, что &brandShortName; следует делать с изображениями.">
 <!ENTITY accAllImagesRadio.label "Загружать все изображения">
-<!ENTITY accAllImagesRadio.accesskey "З">
+<!ENTITY accAllImagesRadio.accesskey "г">
 <!ENTITY accOrgImagesRadio.label "Загружать только собственные изображения сервера">
-<!ENTITY accOrgImagesRadio.accesskey "т">
+<!ENTITY accOrgImagesRadio.accesskey "а">
 <!ENTITY disableImages.label "Не загружать изображения">
-<!ENTITY disableImages.accesskey "Н">
+<!ENTITY disableImages.accesskey "е">
 <!ENTITY viewPermissions.label "Управление разрешениями">
 <!ENTITY viewPermissions.accesskey "п">
 <!ENTITY animLoopingTitle.label "Проигрывать анимацию">
 <!ENTITY animLoopAsSpecified.label "Проигрывать анимацию столько раз, сколько указано в изображении">
-<!ENTITY animLoopAsSpecified.accesskey "П">
+<!ENTITY animLoopAsSpecified.accesskey "и">
 <!ENTITY animLoopOnce.label "Один раз">
-<!ENTITY animLoopOnce.accesskey "о">
+<!ENTITY animLoopOnce.accesskey "д">
 <!ENTITY animLoopNever.label "Никогда">
-<!ENTITY animLoopNever.accesskey "и">
+<!ENTITY animLoopNever.accesskey "к">

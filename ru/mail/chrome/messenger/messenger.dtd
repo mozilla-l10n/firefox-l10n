@@ -7,8 +7,9 @@
 <!ENTITY closeTabCmd2.accesskey "а">
 <!ENTITY closeOtherTabsCmd2.label "Закрыть другие вкладки">
 <!ENTITY closeOtherTabsCmd2.accesskey "к">
-<!ENTITY undoCloseTabCmd.label "Восстановить закрытую вкладку">
-<!ENTITY undoCloseTabCmd.accesskey "с">
+<!ENTITY recentlyClosedTabsCmd.label "Недавно закрытые вкладки">
+<!ENTITY recentlyClosedTabsCmd.accesskey "д">
+<!ENTITY undoCloseTabCmd.commandkey "T">
 <!ENTITY moveToNewWindow.label "Переместить в новое окно">
 <!ENTITY moveToNewWindow.accesskey "м">
 <!ENTITY newVirtualFolderCmd.label "Виртуальную папку…">
@@ -289,6 +290,7 @@
 <!ENTITY folderMenu.accesskey "а">
 <!ENTITY thisFolder.label "Эта папка">
 <!ENTITY thisFolder.accesskey "т">
+<!ENTITY goRecentlyClosedTabs.label "Недавно закрытые вкладки">
 <!ENTITY startPageCmd.label "Начальная страница">
 <!ENTITY startPageCmd.accesskey "Н">
 <!ENTITY msgMenu.label "Сообщение">
