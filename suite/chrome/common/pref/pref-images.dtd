@@ -1,12 +1,12 @@
 <!ENTITY pref.images.title "Immagini">
 <!ENTITY imageBlocking.label "Politica di accettazione immagini">
 <!ENTITY imageDetails "Specifica come &brandShortName; debba gestire le immagini.">
-<!ENTITY accAllImagesRadio.label "Carica tutte le immagini">
-<!ENTITY accAllImagesRadio.accesskey "C">
-<!ENTITY accOrgImagesRadio.label "Carica solo le immagini che vengono dal server di origine">
-<!ENTITY accOrgImagesRadio.accesskey "s">
-<!ENTITY disableImages.label "Non caricare immagini">
-<!ENTITY disableImages.accesskey "N">
+<!ENTITY loadAllImagesRadio.label "Carica tutte le immagini">
+<!ENTITY loadAllImagesRadio.accesskey "C">
+<!ENTITY loadOrgImagesRadio.label "Carica solo le immagini che vengono dal server di origine">
+<!ENTITY loadOrgImagesRadio.accesskey "s">
+<!ENTITY loadNoImagesRadio.label "Non caricare immagini">
+<!ENTITY loadNoImagesRadio.accesskey "N">
 <!ENTITY viewPermissions.label "Gestione permessi">
 <!ENTITY viewPermissions.accesskey "G">
 <!ENTITY animLoopingTitle.label "Le immagini animate possono essere visualizzate">
