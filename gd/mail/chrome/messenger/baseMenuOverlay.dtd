@@ -7,8 +7,10 @@
 <!ENTITY helpMenuWin.accesskey "h">
 <!ENTITY helpTroubleshootingInfo.label     "Taic le duilgheadasan">
 <!ENTITY helpTroubleshootingInfo.accesskey "T">
-<!ENTITY releaseCmd.label "Nòtaichean sgaoilidh">
-<!ENTITY releaseCmd.accesskey "N">
+<!ENTITY helpSafeMode.label     "Ath-thòisich leis na tuilleadan air an cur à comas…">
+<!ENTITY helpSafeMode.accesskey "r">
+<!ENTITY releaseCmd2.label "Nòtaichean sgaoilidh">
+<!ENTITY releaseCmd2.accesskey "N">
 <!ENTITY whatsNewCmd.label "Na tha ùr">
 <!ENTITY whatsNewCmd.accesskey "N">
 <!ENTITY featureConfiguratorCmd.label "Cuidiche na h-imrich">
