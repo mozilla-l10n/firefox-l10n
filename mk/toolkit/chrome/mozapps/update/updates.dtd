@@ -46,9 +46,9 @@
 <!ENTITY error.title "Надградбата не успеа">
 
 <!ENTITY error.label "Имаше проблеми со проверувањето, преземањето или инсталирањето на оваа надградба. &brandShortName; не може да се надгради бидејќи:">
-                                           
+
 <!ENTITY errorManual.label "Можете рачно да го надградите &brandShortName; со посета на следнава врска и преземање на последната верзија:">
-                                           
+
 <!ENTITY errorpatching.intro "Парцијалната надградба не може да се примени. &brandShortName; ќе се обиде повторно со преземање на комплетната надградба.">
 
 <!ENTITY genericBackgroundError.label "&brandShortName; не може да утврди дали има достапна надградба.Проверете 
