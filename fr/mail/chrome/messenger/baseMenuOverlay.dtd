@@ -7,8 +7,10 @@
 <!ENTITY helpMenuWin.accesskey "?">
 <!ENTITY helpTroubleshootingInfo.label "Informations de dépannage">
 <!ENTITY helpTroubleshootingInfo.accesskey "I">
-<!ENTITY releaseCmd.label "Notes de version">
-<!ENTITY releaseCmd.accesskey "N">
+<!ENTITY helpSafeMode.label "Redémarrer avec les modules désactivés…">
+<!ENTITY helpSafeMode.accesskey "R">
+<!ENTITY releaseCmd2.label "Notes de version">
+<!ENTITY releaseCmd2.accesskey "N">
 <!ENTITY whatsNewCmd.label "Nouveautés">
 <!ENTITY whatsNewCmd.accesskey "o">
 <!ENTITY featureConfiguratorCmd.label "Assistant à la migration">
