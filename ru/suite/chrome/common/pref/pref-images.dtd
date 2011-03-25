@@ -1,12 +1,12 @@
 <!ENTITY pref.images.title "Изображения">
 <!ENTITY imageBlocking.label "Политика загрузки изображений">
 <!ENTITY imageDetails "Укажите, что &brandShortName; следует делать с изображениями.">
-<!ENTITY accAllImagesRadio.label "Загружать все изображения">
-<!ENTITY accAllImagesRadio.accesskey "г">
-<!ENTITY accOrgImagesRadio.label "Загружать только собственные изображения сервера">
-<!ENTITY accOrgImagesRadio.accesskey "а">
-<!ENTITY disableImages.label "Не загружать изображения">
-<!ENTITY disableImages.accesskey "е">
+<!ENTITY loadAllImagesRadio.label "Загружать все изображения">
+<!ENTITY loadAllImagesRadio.accesskey "г">
+<!ENTITY loadOrgImagesRadio.label "Загружать только собственные изображения сервера">
+<!ENTITY loadOrgImagesRadio.accesskey "а">
+<!ENTITY loadNoImagesRadio.label "Не загружать изображения">
+<!ENTITY loadNoImagesRadio.accesskey "е">
 <!ENTITY viewPermissions.label "Управление разрешениями">
 <!ENTITY viewPermissions.accesskey "п">
 <!ENTITY animLoopingTitle.label "Проигрывать анимацию">

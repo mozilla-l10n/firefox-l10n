@@ -4,8 +4,10 @@
 <!ENTITY helpMenuWin.accesskey "С">
 <!ENTITY helpTroubleshootingInfo.label "Информация для решения проблем">
 <!ENTITY helpTroubleshootingInfo.accesskey "ф">
-<!ENTITY releaseCmd.label "Примечания к выпуску">
-<!ENTITY releaseCmd.accesskey "в">
+<!ENTITY helpSafeMode.label "Перезапустить с отключёнными дополнениями…">
+<!ENTITY helpSafeMode.accesskey "з">
+<!ENTITY releaseCmd2.label "Примечания к выпуску">
+<!ENTITY releaseCmd2.accesskey "в">
 <!ENTITY whatsNewCmd.label "Что нового">
 <!ENTITY whatsNewCmd.accesskey "н">
 <!ENTITY featureConfiguratorCmd.label "Помощник в миграции">
