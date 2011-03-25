@@ -28,7 +28,7 @@
 
 <!ENTITY cmd.findInBookmarks.label      "Alcontrar en marcadores…">
 <!ENTITY cmd.findInBookmarks.accesskey  "m">
-<!ENTITY cmd.findCurrent.label          "Guetar na colleición autual…">
+<!ENTITY cmd.findCurrent.label          "Guetar na coleición actual…">
 <!ENTITY cmd.findCurrent.accesskey      "u">
 
 <!ENTITY cmd.exportHTML.label           "Esportar HTML">
@@ -127,7 +127,7 @@
 <!ENTITY detailsPane.less.label "Menos">
 <!ENTITY detailsPane.less.accesskey "e">
 <!ENTITY detailsPane.noPreviewAvailable.label "Previsualizar">
-<!ENTITY detailsPane.selectAnItemText.description "Seleicione un elementu p'adicar ya editar les sos propiedaes">
+<!ENTITY detailsPane.selectAnItemText.description "Seleiciona un elementu pa ver y editar les sos propiedaes">
 <!ENTITY find.label "Guetar:">
 <!ENTITY find.accesskey "u">
 <!ENTITY view.label "Ver">

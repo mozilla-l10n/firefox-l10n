@@ -13,18 +13,18 @@
 <!ENTITY deniedPortAccess.longDesc "">
 
 <!ENTITY dnsNotFound.title "Nun s'alcuentra la direición">
-<!ENTITY dnsNotFound.longDesc "<p>El restolador nun foi a alcontrar el sirvidor pa la direición proporcionada.</p><ul><li>¿Cometióse un error al escribir el dominiu? (p. ex. <q><strong>ww</strong>.mozilla.org</q> en llugar de <q><strong>www</strong>.mozilla.org</q>)</li><li>¿De xuru qu'esiste esti dominiu?  La data de rexistru
+<!ENTITY dnsNotFound.longDesc "<p>El restolador nun foi a alcontrar el sirvidor pa la direición proporcionada.</p><ul><li>¿Cometióse un error al escribir el dominiu? (p. ex. <q><strong>ww</strong>.mozilla.org</q> en cuenta de <q><strong>www</strong>.mozilla.org</q>)</li><li>¿De xuru qu'esiste esti dominiu?  La data de rexistru
 pue tar caducada.</li><li>¿Nun yes quien a navegar per otros sitios? Comprueba la conexón de rede y la configuración del sirvidor DNS.</li><li>¿Ta l'equipu protexíu por un proxy o un tornafueos? Una configuración incorreuta pue interferir na navegación.</li></ul>">
 
 <!ENTITY fileNotFound.title "Nun s'alcontró el ficheru">
-<!ENTITY fileNotFound.longDesc "<ul><li>¿Ye dable que l'elementu se tenga renomao, desaniciao o se camudare'l so camín?</li><li>¿Hai dalgún fallu d'ortografía, mayúscules o cualesquier otru fallu al escribir la direición?</li><li>¿Tienes privilexos d'accesu suficientes pal elementu solicitáu?</li></ul>">
+<!ENTITY fileNotFound.longDesc "<ul><li>¿Ye posible que l'elementu se tenga renomao, desaniciao o se camudare'l so camín?</li><li>¿Hai dalgún fallu d'ortografía, mayúscules o cualesquier otru fallu al escribir la direición?</li><li>¿Tienes privilexos d'accesu suficientes pal elementu solicitáu?</li></ul>">
 
 
 <!ENTITY generic.title "Nun pudo completase la solicitú">
 <!ENTITY generic.longDesc "<p>Anguaño nun hai información adicional disponible pa esti problema o error.</p>">
 
 <!ENTITY malformedURI.title "La direición nun ye válida">
-<!ENTITY malformedURI.longDesc "<p>La direición facilitada nun ta nun formatu reconocíu. Comprueba fallos posibles na barra de direiciones y vuelvi a intentalo.</p>">
+<!ENTITY malformedURI.longDesc "<p>La direición facilitada nun tien un formatu reconocíu. Comprueba fallos posibles na barra de direiciones y vuelvi a intentalo.</p>">
 
 <!ENTITY netInterrupt.title "Torgóse la conexón">
 <!ENTITY netInterrupt.longDesc "<p>El restolador coneutóse correcho, pero torgóse la conexón mentanto se taba tresfiriendo información. Por favor, vuelvi a intentalo.</p><ul><li>¿Nun pues navegar per otros sitios? Comprueba la conexón de rede del equipu.</li><li>¿Entá tienes problemes? Consulta col alministrador de rede o fornidor d'Internet pa obtener asistencia téunica.</li></ul>">
@@ -36,7 +36,7 @@ pue tar caducada.</li><li>¿Nun yes quien a navegar per otros sitios? Comprueba 
 </ul>
 ">
 <!ENTITY contentEncodingError.title "Error de codificación de conteníu">
-<!ENTITY contentEncodingError.longDesc "<p>La páxina que tas intentando ver nun pue amosase porque usa una forma non válida o non almitía de compresión.</p><ul><li>Por favor, contauta colos propietarios del sitiu web pa informa-yos d'esti problema.</li></ul>">
+<!ENTITY contentEncodingError.longDesc "<p>La páxina que tas intentando ver nun pue amosase porque usa una forma non válida o non almitida de compresión.</p><ul><li>Por favor, contauta colos propietarios del sitiu web pa informa-yos d'esti problema.</li></ul>">
 
 <!ENTITY unsafeContentType.title "Tipu de ficheru non seguru">
 <!ENTITY unsafeContentType.longDesc "<ul>
@@ -47,7 +47,7 @@ pue tar caducada.</li><li>¿Nun yes quien a navegar per otros sitios? Comprueba 
 <!ENTITY netReset.longDesc "<p>L'enllaz cola rede interrumpióse mientres se negociaba una conexón. Por favor, vuelvi a intentalo.</p>">
 
 <!ENTITY netTimeout.title "La conexón caducó">
-<!ENTITY netTimeout.longDesc "<p>El sitiu solicitáu nun retrucó a una petición de conexón y el restolador dexó d'esperar una rempuesta.</p><ul><li>¿Podría tar esperimentando el sirvidor alta demanda o un corte temporal? Torna a intentalo más sero.</li><li>¿Nun pues navegar per otros sitios? Comprueba la conexón de rede del equipu.</li><li>¿Ta l'equipu protexíu por un proxy o un tornafueos? Una configuración incorreuta pue interferir na navegación.</li><li>¿Entá tien problemes? Consulte col so alministrador de rede o proveedor d'Internet pa obtener asistencia téunica.</li></ul>">
+<!ENTITY netTimeout.longDesc "<p>El sitiu solicitáu nun retrucó a una petición de conexón y el restolador dexó d'esperar una rempuesta.</p><ul><li>¿Podría tar esperimentando el sirvidor alta demanda o un corte temporal? Vuelvi a intentalo más sero.</li><li>¿Nun pues navegar per otros sitios? Comprueba la conexón de rede del equipu.</li><li>¿Ta l'equipu protexíu por un proxy o un tornafueos? Una configuración incorreuta pue interferir na navegación.</li><li>¿Entá tienes problemes? Consulta col alministrador de rede o fornidor d'Internet pa obtener asistencia téunica.</li></ul>">
 
 <!ENTITY protocolNotFound.title "La direición nun ye entendible">
 <!ENTITY protocolNotFound.longDesc "<p>La direición especifica un protocolu (p.ex. <q>wxyz://</q>) que'l restolador nun reconoz, polo que'l restolador nun se pue coneutar al sitiu correchamente.</p><ul><li>¿Tas intentando acceder a un serviciu multimedia u otru serviciu que nun ye de testu? Comprueba los requisitos adicionales del sitiu.</li><li>Dalgunos protocolos puen necesitar software de terceros o complementos enantes de que'l restolador pueda reconocelos.</li></ul>">
@@ -86,15 +86,15 @@ pue tar caducada.</li><li>¿Nun yes quien a navegar per otros sitios? Comprueba 
 </ul>
  ">
 
-<!ENTITY malwareBlocked.title "¡Dablemente esti ye un sitiu peligrosu!">
+<!ENTITY malwareBlocked.title "¡Ye posible qu'esti seya un sitiu peligrosu!">
 <!ENTITY malwareBlocked.longDesc "<p>Los sitios atacantes intenten instalar programes que roben información privao, usen el to equipu p'atacar a otros o frañen el sistema.</p>
-<p>Los propietarios de sitios web que camienten que foren conseñaos como un sitiu atacante debieren <a href='http://www.stopbadware.org/home/reviewinfo' >pedir una revisión</a>.</p>">
+<p>Los propietarios de sitios web que camienten que foren conseñaos como un sitiu atacante deberíen <a href='http://www.stopbadware.org/home/reviewinfo' >pidir una revisión</a>.</p>">
 
 <!ENTITY phishingBlocked.title "¡Paez qu'esti ye un sitiu web fraudulentu!">
 <!ENTITY phishingBlocked.longDesc "<p>Introducir información personal nesta páxina pue dar llugar a una suplantación d'identidá u otra engañifa.</p>
-<p>Estos tipos de falsificaciones de webs úsense en engañifes conocíes como ataques de phishing, nos que s'usen páxines web y mensaxes de corréu-e fraudulentos pa imitar fontes nes que se confía.</p>">
+<p>Estos tipos de falsificaciones de webs úsense n'engañifes conocíes como ataques de phishing, nos que s'usen páxines web y mensaxes de corréu-e fraudulentos pa imitar fontes nes que se confía.</p>">
 <!ENTITY cspFrameAncestorBlocked.title "Bloquiáu pola política de seguridá de conteníu">
-<!ENTITY cspFrameAncestorBlocked.longDesc "<p>&brandShortName; ta torgando qu'esta páxina se cargue d'esta forma porque la páxina tien una tien una política de seguridá de conteníu que nun lo permite.</p>">
+<!ENTITY cspFrameAncestorBlocked.longDesc "<p>&brandShortName; ta torgando qu'esta páxina se cargue d'esta forma porque la páxina tien una política de seguridá de conteníu que nun lo permite.</p>">
 <!ENTITY securityOverride.linkText "O pues amestar una esceición…">
 <!ENTITY securityOverride.getMeOutOfHereButton "Sacáime d'equí!">
 <!ENTITY securityOverride.exceptionButtonLabel "Amestar esceición…">

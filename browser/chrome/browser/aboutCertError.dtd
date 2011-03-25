@@ -20,8 +20,8 @@ Sicasí­, la identidá d'esti sitiu nun puede verificase.">
 
 <!ENTITY certerror.whatShouldIDo.heading "¿Qué tienes de facer?">
 <!ENTITY certerror.whatShouldIDo.content "Si normalmente accedes a esti sitiu ensin problemes,
-esti fallu puede tar asocediendo porque dalguien ta tentando de
-suplantar el sitiu y nun debieres de siguir.">
+esti fallu pue ser porque daquién ta intentando suplantar
+el sitiu y quiciabes nun debieras siguir.">
 <!ENTITY certerror.getMeOutOfHere.label "Sacáime d'equí!">
 
 <!ENTITY certerror.expert.heading "Atalanto los riesgos">
@@ -29,7 +29,7 @@ suplantar el sitiu y nun debieres de siguir.">
 &brandShortName; a confiar na identificación d'esti sitiu.
 <b>Inclusu magar que tengas enfotu nesti sitiu, esti fallu puede
 debese a que daquién tea interfiriendo na to conexón.</b>">
-<!ENTITY certerror.expert.contentPara2 "Nun amiestes una esceición sacantes que
+<!ENTITY certerror.expert.contentPara2 "Nun amiestes una esceición sacante que
 sepas qu'hai bones razones poles qu'esti sitiu nun use información verificao.">
 <!ENTITY certerror.addException.label "Amestar esceición…">
 
