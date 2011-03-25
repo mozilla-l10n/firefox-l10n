@@ -7,8 +7,10 @@
 <!ENTITY helpMenuWin.accesskey "H">
 <!ENTITY helpTroubleshootingInfo.label      "Informationen zur Fehlerbehebung">
 <!ENTITY helpTroubleshootingInfo.accesskey  "z">
-<!ENTITY releaseCmd.label      "Versionshinweise">
-<!ENTITY releaseCmd.accesskey  "V">
+<!ENTITY helpSafeMode.label     "Mit deaktivierten Add-ons neu starten…">
+<!ENTITY helpSafeMode.accesskey "d">
+<!ENTITY releaseCmd2.label "Versionshinweise">
+<!ENTITY releaseCmd2.accesskey "V">
 <!ENTITY whatsNewCmd.label     "Neuigkeiten">
 <!ENTITY whatsNewCmd.accesskey "N">
 <!ENTITY featureConfiguratorCmd.label "Migrationsassistent">
