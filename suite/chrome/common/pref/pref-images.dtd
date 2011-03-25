@@ -8,12 +8,12 @@
 -->
 <!ENTITY imageDetails "Spécifier comment &brandShortName; gère les images.">
 
-<!ENTITY accAllImagesRadio.label        "Accepter toutes les images">
-<!ENTITY accAllImagesRadio.accesskey    "e">
-<!ENTITY accOrgImagesRadio.label        "Accepter les images provenant du serveur initial seulement">
-<!ENTITY accOrgImagesRadio.accesskey    "c">
-<!ENTITY disableImages.label            "Ne pas charger les images">
-<!ENTITY disableImages.accesskey        "N">
+<!ENTITY loadAllImagesRadio.label       "Accepter toutes les images">
+<!ENTITY loadAllImagesRadio.accesskey   "e">
+<!ENTITY loadOrgImagesRadio.label       "Accepter les images provenant du serveur initial seulement">
+<!ENTITY loadOrgImagesRadio.accesskey   "c">
+<!ENTITY loadNoImagesRadio.label        "Ne pas charger les images">
+<!ENTITY loadNoImagesRadio.accesskey    "N">
 <!ENTITY viewPermissions.label          "Gérer les permissions">
 <!ENTITY viewPermissions.accesskey      "p">
 <!ENTITY animLoopingTitle.label         "Les images animées doivent tourner en boucle :">
