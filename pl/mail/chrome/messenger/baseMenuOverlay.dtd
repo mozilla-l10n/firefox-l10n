@@ -4,8 +4,10 @@
 <!ENTITY helpMenuWin.accesskey   "c">
 <!ENTITY helpTroubleshootingInfo.label     "Informacje dla pomocy technicznej">
 <!ENTITY helpTroubleshootingInfo.accesskey "n">
-<!ENTITY releaseCmd.label        "Informacje o wersji programu">
-<!ENTITY releaseCmd.accesskey    "I">
+<!ENTITY helpSafeMode.label                "Uruchom ponownie z wyłączonymi dodatkami…">
+<!ENTITY helpSafeMode.accesskey            "U">
+<!ENTITY releaseCmd2.label                 "Informacje o wersji programu">
+<!ENTITY releaseCmd2.accesskey             "I">
 <!ENTITY whatsNewCmd.label       "Najważniejsze zmiany w tej wersji">
 <!ENTITY whatsNewCmd.accesskey   "N">
 <!ENTITY openHelp.label          "Pomoc programu &brandShortName;">
