@@ -10,7 +10,7 @@
 <!ENTITY closeOtherTabs.accesskey "Z">
 <!ENTITY pinAppTab.label "Fixar llingüeta">
 <!ENTITY pinAppTab.accesskey "g">
-<!ENTITY unpinAppTab.label "Desaniciar llingüeta fixa">
+<!ENTITY unpinAppTab.label "Desfixar llingüeta">
 <!ENTITY unpinAppTab.accesskey "x">
 <!ENTITY moveToGroup.label "Mover al grupu">
 <!ENTITY moveToGroup.accesskey "M">
@@ -296,7 +296,7 @@
 <!ENTITY sendLinkCmd.accesskey "z">
 <!ENTITY saveImageCmd.label "Guardar imaxe como…">
 <!ENTITY saveImageCmd.accesskey "u">
-<!ENTITY saveVideoCmd.label "Guardar vídeu como…">
+<!ENTITY saveVideoCmd.label "Guardar videu como…">
 <!ENTITY saveVideoCmd.accesskey "v">
 <!ENTITY saveAudioCmd.label "Guardar audiu como…">
 <!ENTITY saveAudioCmd.accesskey "a">
