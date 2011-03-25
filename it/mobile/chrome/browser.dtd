@@ -75,6 +75,7 @@
 <!ENTITY contextSaveImage.label "Salva immagine">
 <!ENTITY contextShareLink.label "Condividi collegamento">
 <!ENTITY contextShareImage.label "Condividi immagine">
+<!ENTITY contextBookmarkLink.label "Aggiungi collegamento ai segnalibri">
 <!ENTITY contextSaveVideo.label "Salva video">
 <!ENTITY contextShareVideo.label "Condividi video">
 <!ENTITY contextPlayMedia.label "Riproduci">
