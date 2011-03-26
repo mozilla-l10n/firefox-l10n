@@ -1,13 +1,13 @@
-<!ENTITY  splash_screen_label "Laden">
-<!ENTITY  splash_screen_installing "libraries installeren\u2026">
+<!ENTITY  splash_screen_label "laden">
+<!ENTITY  splash_screen_installing "bibliotheken installeren\u2026">
 <!ENTITY  incompatable_cpu_error "Dit apparaat voldoet niet aan de minimale systeemvereisten voor &brandShortName;.">
 <!ENTITY  no_space_to_start_error "Er is niet genoeg ruimte beschikbaar om &brandShortName; te starten.">
-<!ENTITY  error_loading_file "Er is een fout opgetreden bij het laden van de benodigde bestanden voor &brandShortName;">
+<!ENTITY  error_loading_file "Er is een fout opgetreden bij het laden van de benodigde bestanden voor &brandShortName;.">
 
-<!ENTITY  crash_reporter_title "&brandShortName; Crashreporter">
-<!ENTITY  crash_message "&brandShortName; is gecrasht. Uw tabbladen worden getoond op de &brandShortName;-startpagina wanneer u herstart.">
+<!ENTITY  crash_reporter_title "&brandShortName;-crashreporter">
+<!ENTITY  crash_message "&brandShortName; is gecrasht. Uw tabbladen worden op de &brandShortName;-startpagina getoond wanneer u herstart.">
 <!ENTITY  crash_help_message "Help ons dit probleem op te lossen!">
-<!ENTITY  crash_send_report_message "	Crashrapport naar Mozilla verzenden">
+<!ENTITY  crash_send_report_message "Crashrapport naar Mozilla verzenden">
 <!ENTITY  crash_include_url "Pagina-adres bijvoegen">
 <!ENTITY  crash_close_label "Sluiten">
 <!ENTITY  crash_restart_label "&brandShortName; herstarten">
