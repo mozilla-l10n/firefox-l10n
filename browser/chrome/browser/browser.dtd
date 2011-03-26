@@ -148,7 +148,7 @@ can reach it easily. -->
 
 <!ENTITY bookmarksMenuButton.label "Záložky">
 <!ENTITY bookmarksMenuButton.tooltip "Zobrazí záložky">
-<!ENTITY bookmarksMenuButton.unsorted.label "Nesetříděné záložky">
+<!ENTITY bookmarksMenuButton.unsorted.label "Netříděné záložky">
 <!ENTITY viewBookmarksSidebar.label "Zobrazit v postranní liště">
 <!ENTITY viewBookmarksToolbar.label "Zobrazit lištu záložek">
 
@@ -281,7 +281,7 @@ can reach it easily. -->
 <!ENTITY appMenuToolbarLayout.label "Upravit lišty…">
 <!ENTITY appMenuSidebars.label "Postranní lišty">
 <!ENTITY appMenuFind.label "Najít…">
-<!ENTITY appMenuUnsorted.label "Nezatříděné záložky">
+<!ENTITY appMenuUnsorted.label "Netříděné záložky">
 <!ENTITY appMenuWebDeveloper.label "Vývoj webu">
 <!ENTITY appMenuGettingStarted.label "Začínáme">
 <!ENTITY appMenuSafeMode.label "Restartovat se zakázanými doplňky…">
