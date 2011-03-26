@@ -95,6 +95,7 @@
 <!ENTITY contextSaveImage.label       "Spara bild">
 <!ENTITY contextShareLink.label       "Dela länk">
 <!ENTITY contextShareImage.label      "Dela bild">
+<!ENTITY contextBookmarkLink.label    "Bokmärk länk">
 <!ENTITY contextSaveVideo.label       "Spara video">
 <!ENTITY contextShareVideo.label      "Dela video">
 <!ENTITY contextPlayMedia.label       "Spela">
