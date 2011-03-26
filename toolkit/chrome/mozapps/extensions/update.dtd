@@ -51,12 +51,12 @@
 
 <!ENTITY versioninfo.waiting "Tato operace může trvat i několik minut…">
 
-<!ENTITY installerrors.wizard.title "Problémy při aktualizací">
-<!ENTITY installerrors.intro.label "Aplikace &brandShortName; zaznamenala při aktualizaci některých vašich doplňků.">
+<!ENTITY installerrors.wizard.title "Problémy při aktualizaci">
+<!ENTITY installerrors.intro.label "Při aktualizaci některého z vašich doplňků zaznamenala aplikace &brandShortName; problém.">
 
 
 <!-- general strings used by several of the finish pages -->
-<!ENTITY clickFinish.label "Klepněte na Hotovo pro start aplikace &brandShortName;.">
-<!ENTITY clickFinish.labelMac "Klepněte na Hotovo pro start aplikace &brandShortName;.">
+<!ENTITY clickFinish.label "Klepněte na tlačítko Dokončit pro spuštění aplikace &brandShortName;.">
+<!ENTITY clickFinish.labelMac "Klepněte na tlačítko Hotovo pro spuštění aplikace &brandShortName;.">
 <!ENTITY enableChecking.label "Povolit aplikaci &brandShortName; kontrolovat dostupnost aktualizací.">
  
