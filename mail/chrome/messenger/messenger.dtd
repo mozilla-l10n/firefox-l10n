@@ -12,8 +12,10 @@
 <!-- LOCALIZATION NOTE (undoCloseTabCmd.label):
      Menu option to attempt to re-open a recently closed tab.
      -->
-<!ENTITY undoCloseTabCmd.label "Fortryd lukning af faneblad">
-<!ENTITY undoCloseTabCmd.accesskey "F">
+<!ENTITY recentlyClosedTabsCmd.label "Nyligt lukkede faneblade">
+<!ENTITY recentlyClosedTabsCmd.accesskey "N">
+
+<!ENTITY undoCloseTabCmd.commandkey "T">
 <!-- LOCALIZATION NOTE (moveToNewWindow.label):
      Menu option to cause the current tab to be migrated to a new Thunderbird
      window.
@@ -323,6 +325,7 @@ you can use these alternative items. Otherwise, their values should be empty.  -
 <!ENTITY folderMenu.accesskey "M">
 <!ENTITY thisFolder.label "Denne mappe">
 <!ENTITY thisFolder.accesskey "D">
+<!ENTITY goRecentlyClosedTabs.label "Nyligt lukkede faneblade">
 <!ENTITY prevStarredMsgCmd.accesskey "S">
 <!ENTITY startPageCmd.label "Startsiden">
 <!ENTITY startPageCmd.accesskey "S">

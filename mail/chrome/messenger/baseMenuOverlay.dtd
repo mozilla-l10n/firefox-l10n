@@ -7,8 +7,10 @@
 <!ENTITY helpMenuWin.accesskey "H">
 <!ENTITY helpTroubleshootingInfo.label     "Hjælp til problemløsning">
 <!ENTITY helpTroubleshootingInfo.accesskey "p">
-<!ENTITY releaseCmd.label "Udgivelsesnoter">
-<!ENTITY releaseCmd.accesskey "U">
+<!ENTITY helpSafeMode.label     "Genstart med tilføjelser deaktiveret…">
+<!ENTITY helpSafeMode.accesskey "G">
+<!ENTITY releaseCmd2.label "Udgivelsesnoter">
+<!ENTITY releaseCmd2.accesskey "U">
 <!ENTITY whatsNewCmd.label "Hvad er nyt">
 <!ENTITY whatsNewCmd.accesskey "v">
 <!ENTITY featureConfiguratorCmd.label "Nye funktioner">
