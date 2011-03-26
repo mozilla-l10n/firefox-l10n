@@ -7,8 +7,10 @@
 <!ENTITY helpMenuWin.accesskey "v">
 <!ENTITY helpTroubleshootingInfo.label "Technické informace">
 <!ENTITY helpTroubleshootingInfo.accesskey "T">
-<!ENTITY releaseCmd.label "Poznámky k vydání">
-<!ENTITY releaseCmd.accesskey "P">
+<!ENTITY helpSafeMode.label "Restartovat se zakázanými doplňky…">
+<!ENTITY helpSafeMode.accesskey "R">
+<!ENTITY releaseCmd2.label "Poznámky k vydání">
+<!ENTITY releaseCmd2.accesskey "P">
 <!ENTITY whatsNewCmd.label "Co je nového">
 <!ENTITY whatsNewCmd.accesskey "C">
 <!ENTITY featureConfiguratorCmd.label "Pomocník s migrací">
