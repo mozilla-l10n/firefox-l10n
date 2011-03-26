@@ -7,8 +7,10 @@
 <!ENTITY helpMenuWin.accesskey    "H">
 <!ENTITY helpTroubleshootingInfo.label     "Felsökningsinformation">
 <!ENTITY helpTroubleshootingInfo.accesskey "F">
-<!ENTITY releaseCmd.label "Versionsfakta">
-<!ENTITY releaseCmd.accesskey "V">
+<!ENTITY helpSafeMode.label     "Starta om utan tillägg…">
+<!ENTITY helpSafeMode.accesskey "S">
+<!ENTITY releaseCmd2.label "Versionsfakta">
+<!ENTITY releaseCmd2.accesskey "V">
 <!ENTITY whatsNewCmd.label "Vad är nytt">
 <!ENTITY whatsNewCmd.accesskey "a">
 <!ENTITY featureConfiguratorCmd.label "Migrationsassistenten">
