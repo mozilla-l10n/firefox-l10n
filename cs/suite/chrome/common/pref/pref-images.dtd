@@ -7,12 +7,12 @@
 -->
 <!ENTITY imageDetails "Upřesněte, jak má &brandShortName; zacházet s obrázky na stránce.">
 
-<!ENTITY accAllImagesRadio.label "Povolit všechny obrázky">
-<!ENTITY accAllImagesRadio.accesskey "O">
-<!ENTITY accOrgImagesRadio.label "Povolit pouze obrázky pocházející ze stejného serveru">
-<!ENTITY accOrgImagesRadio.accesskey "r">
-<!ENTITY disableImages.label "Blokovat všechny obrázky">
-<!ENTITY disableImages.accesskey "n">
+<!ENTITY loadAllImagesRadio.label "Nahrávat všechny obrázky">
+<!ENTITY loadAllImagesRadio.accesskey "N">
+<!ENTITY loadOrgImagesRadio.label "Nahrávat pouze obrázky pocházející ze stejného serveru">
+<!ENTITY loadOrgImagesRadio.accesskey "a">
+<!ENTITY loadNoImagesRadio.label "Nenahrávat žádné obrázky">
+<!ENTITY loadNoImagesRadio.accesskey "e">
 <!ENTITY viewPermissions.label "Spravovat oprávnění">
 <!ENTITY viewPermissions.accesskey "S">
 <!ENTITY animLoopingTitle.label "Animace obrázků mohou být provedeny">
@@ -21,4 +21,4 @@
 <!ENTITY animLoopOnce.label "Jednou">
 <!ENTITY animLoopOnce.accesskey "J">
 <!ENTITY animLoopNever.label "Nikdy">
-<!ENTITY animLoopNever.accesskey "n">
+<!ENTITY animLoopNever.accesskey "d">
