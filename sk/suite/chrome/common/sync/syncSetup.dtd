@@ -44,8 +44,6 @@
 <!ENTITY syncKeyEntry.accesskey    "k">
 <!ENTITY syncKeyGenerate.label     "Vygenerovať">
 <!ENTITY syncKeyGenerate.accesskey "e">
-<!ENTITY syncKeyStrength.label     "Sila kľúča:">
-<!ENTITY syncKeyHelp.label         "Čo je sila kľúča?">
 <!ENTITY syncKeyBackup.description "Na prístup k službe &syncBrand.fullName.label; z iných zariadení je potrebný Synchronizačný kľúč. Preto si vytvorte jeho kópiu. Váš Synchronizačný kľúč nie je možné po strate obnoviť.">
 
 <!ENTITY button.syncKeyBackup.print.label     "Vytlačiť…">

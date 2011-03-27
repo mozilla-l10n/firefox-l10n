@@ -10,43 +10,45 @@
 <!ENTITY password.accesskey              "H">
 <!ENTITY password.placeholder            "Heslo">
 <!ENTITY password.text                   "Voliteľné, bude použité len na overenie prihlasovacieho mena">
+<!ENTITY rememberPassword.label          "Zapamätať si heslo">
+<!ENTITY rememberPassword.accesskey      "m">
 
-<!ENTITY accountInformation.label        "Informácie o účte">
-<!ENTITY username2.label                 "Používateľské meno:">
-<!ENTITY incoming.label                  "Prichádzajúce:">
-<!ENTITY outgoing.label                  "Odchádzajúce:">
+<!ENTITY imapLong.label                  "IMAP (vzdialené priečinky)">
+<!ENTITY pop3Long.label                  "POP3 (uchováva poštu na disku počítača)">
+
+<!ENTITY incoming.label                  "Prijímanie:">
+<!ENTITY outgoing.label                  "Odosielanie:">
+<!ENTITY username.label                  "Používateľské meno:">
+<!ENTITY hostname.label                  "Server">
+<!ENTITY port.label                      "Port">
+<!ENTITY ssl.label                       "SSL">
+<!ENTITY auth.label                      "Overenie">
+<!ENTITY imap.label                      "IMAP">
+<!ENTITY pop3.label                      "POP3">
+<!ENTITY smtp.label                      "SMTP">
+<!ENTITY autodetect.label                "Autodetekcia">
+<!-- LOCALIZATION NOTE(noEncryption.label): Neither SSL/TLS nor STARTTLS.
+     Transmission of emails in cleartext over the Internet. -->
 <!ENTITY noEncryption.label              "Žiadne">
 <!ENTITY starttls.label                  "STARTTLS">
 <!ENTITY sslTls.label                    "SSL/TLS">
 
-<!ENTITY imap.label                      "IMAP">
-<!ENTITY pop.label                       "POP">
-<!ENTITY smtp.label                      "SMTP">
-<!ENTITY imap.description                "IMAP - prístup k priečinkom a správam z viacerých počítačov">
-<!ENTITY pop.description                 "POP - správy budú prevzaté do tohto počítača, priečinky sú lokálne">
-<!ENTITY recommended-appendix.label      "(odporúčané)">
-
-<!ENTITY manualSetup.label               "Manuálne nastavenie…">
-<!ENTITY manualSetup.accesskey           "n">
+<!ENTITY advancedSetup.label             "Upresniť nastavenie">
+<!ENTITY advancedSetup.accesskey         "U">
 <!ENTITY cancel.label                    "Zrušiť">
 <!ENTITY cancel.accesskey                "Z">
 <!ENTITY continue.label                  "Pokračovať">
 <!ENTITY continue.accesskey              "P">
-<!ENTITY startOver.label                 "Začať">
-<!ENTITY startOver.accesskey             "a">
 <!ENTITY stop.label                      "Zastaviť">
 <!ENTITY stop.accesskey                  "s">
-<!-- LOCALIZATION NOTE (retest.label): This is the text that is
-     displayed on the button which will re-guess the account configuration,
-     taking into account the settings the user has changed.
-     -->
-<!ENTITY retest.label                    "Znova otestovať nastavenie">
-<!ENTITY retest.accesskey                "o">
-<!ENTITY edit.label                      "Upraviť">
-<!ENTITY edit.accesskey                  "U">
-
-<!ENTITY rememberPassword.label          "Zapamätať si heslo">
-<!ENTITY rememberPassword.accesskey      "m">
+<!-- LOCALIZATION NOTE (half-manual-test.label): This is the text that is
+     displayed on the button in manual edit mode which will re-guess
+     the account configuration, taking into account the settings that
+     the user has manually changed. -->
+<!ENTITY half-manual-test.label          "Znova otestovať nastavenie">
+<!ENTITY half-manual-test.accesskey      "o">
+<!ENTITY manual-edit.label               "Manuálne nastavenie">
+<!ENTITY manual-edit.accesskey           "n">
 
 <!ENTITY warning.label                   "Upozornenie!">
 <!ENTITY incomingSettings.label          "Nastavenia pre prichádzajúcu poštu:">

@@ -152,14 +152,14 @@
 <!ENTITY locationBar.tooltip          "Zadajte výraz vyhľadávania, kľúčové slovo alebo webovú adresu">
 <!ENTITY locationBar.accesskey        "d">
 <!ENTITY locationBar.title            "Umiestnenie">
-
 <!ENTITY proxyIcon.tooltip            "Presunutím ikony vytvorte odkaz na túto stránku">
 
-<!-- Toolbar items -->
-<!ENTITY  bookmarksButton.label       "Záložky">
-<!ENTITY  bookmarksButton.tooltip     "Zoznam záložiek">
-<!ENTITY  homeButton.label            "Domov">
-<!ENTITY  bookmarksToolbarItem.label  "Položky panela Záložky">
+<!ENTITY searchItem.title             "Vyhľadávanie">
+
+<!ENTITY bookmarksButton.label        "Záložky">
+<!ENTITY bookmarksButton.tooltip      "Zoznam záložiek">
+<!ENTITY homeButton.label             "Domov">
+<!ENTITY bookmarksToolbarItem.label   "Položky panela Záložky">
 <!ENTITY bookmarksToolbarChevron.tooltip "Zobraziť ďalšie záložky">
 
 <!-- Statusbar -->

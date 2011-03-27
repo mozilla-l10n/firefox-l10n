@@ -42,6 +42,9 @@
 
 <!-- Menu items:  the . means that the menu item isn't implemented yet -->
 
+<!-- Toolbar-only items -->
+<!ENTITY compositionToolbar.tooltip "Panel nástrojov Composera">
+
 <!-- View menu items -->
 <!ENTITY viewMenu.label "Zobraziť">
 <!ENTITY viewMenu.accesskey "Z">
@@ -55,3 +58,27 @@
 <!-- Format menu items -->
 <!ENTITY formatMenu.label "Formát">
 <!ENTITY formatMenu.accesskey "F">
+
+<!-- Display Mode toolbar and View menu items -->
+<!ENTITY NormalModeTab.label "Normálne">
+<!ENTITY NormalMode.label "Normálny režim úprav">
+<!ENTITY NormalMode.accesskey "N">
+<!ENTITY NormalMode.tooltip "Zobraziť okraje tabuľky a pomenované kotvy">
+<!ENTITY AllTagsModeTab.label "Značky HTML">
+<!ENTITY AllTagsMode.label "Značky HTML">
+<!ENTITY AllTagsMode.accesskey "a">
+<!ENTITY AllTagsMode.tooltip "Zobraziť ikony pre všetky značky HTML">
+<!-- LOCALIZATION NOTE: (HTMLSourceModeTab.dir, HTMLSourceModeTab.label)
+     Do NOT translate text for 'HTMLSourceModeTab.dir', use latin "ltr" if
+     you want the <html> image to left of the 'HTMLSourceModeTab.label' text,
+     or use latin "rtl" if you want this image to the right of text. You do
+     not need to include HTML in the label 'HTMLSourceModeTab.label' -->
+<!ENTITY HTMLSourceModeTab.dir "ltr">
+<!ENTITY HTMLSourceModeTab.label "Zdroj">
+<!ENTITY HTMLSourceMode.label "Zdrojový kód HTML">
+<!ENTITY HTMLSourceMode.accesskey "H">
+<!ENTITY HTMLSourceMode.tooltip "Upraviť zdrojový kód HTML">
+<!ENTITY PreviewModeTab.label "Ukážka">
+<!ENTITY PreviewMode.label "Ukážka">
+<!ENTITY PreviewMode.accesskey "U">
+<!ENTITY PreviewMode.tooltip "Zobraziť ako WYSIWYG (ako v prehliadači)">

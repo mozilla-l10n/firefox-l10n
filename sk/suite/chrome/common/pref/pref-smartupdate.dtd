@@ -1,32 +1,29 @@
 <!--LOCALIZATION NOTE : FILE UI for Software Updates prefs -->
 <!ENTITY pref.smartUpdate.title               "Inštalácia softvéru">
-<!ENTITY smartTitle.label                     "Správa inštalácie softvéru a aktualizácií">
-<!ENTITY enableSU.label                       "Povoliť webovým stránkam inštalovať rozšírenia a aktualizácie">
-<!ENTITY enableSU.accesskey                   "w">
-<!ENTITY viewPermissions.label                "Spravovať povolenia">
-<!ENTITY viewPermissions.accesskey            "o">
-
-<!ENTITY verifyUpdates.caption                "Aktualizácie">
-<!ENTITY autoUpdates.label                    "Automaticky kontrolovať aktualizácie pre:">
-<!ENTITY appUpdates.label                     "&brandShortName;">
-<!ENTITY appUpdates.accesskey                 "S">
+<!ENTITY addOnsTitle.label                    "Doplnky">
+<!ENTITY addOnsAllow.label                    "Povoliť webovým stránkam inštalovať rozšírenia a aktualizácie">
+<!ENTITY addOnsAllow.accesskey                "w">
+<!ENTITY allowedSitesLink.label               "Povolené stránky">
+<!ENTITY autoAddOnsUpdates.label              "Automaticky kontrolovať aktualizácie">
+<!ENTITY autoAddOnsUpdates.accesskey          "A">
 <!ENTITY daily.label                          "denne">
-<!ENTITY appDaily.accesskey                   "d">
+<!ENTITY addOnsDaily.accesskey                "d">
 <!ENTITY weekly.label                         "týždenne">
-<!ENTITY appWeekly.accesskey                  "t">
-<!ENTITY extensionsUpdates.label              "Nainštalované doplnky">
-<!ENTITY extensionsUpdates.accesskey          "a">
-<!ENTITY extensionsDaily.accesskey            "e">
-<!ENTITY extensionsWeekly.accesskey           "n">
-<!ENTITY addonManagerButton.label             "Správca doplnkov">
-<!ENTITY addonManagerButton.accesskey         "c">
+<!ENTITY addOnsWeekly.accesskey               "t">
+<!ENTITY addOnsModeAutomatic.label            "Aktualizácie automaticky prevziať a nainštalovať">
+<!ENTITY addOnsModeAutomatic.accesskey        "k">
+<!ENTITY enablePersonalized.label             "Personalizovať odporúčania doplnkov">
+<!ENTITY enablePersonalized.accesskey         "e">
+<!ENTITY addonManagerLink.label               "Správa doplnkov">
 
-<!ENTITY whenUpdatesFound.label               "Ak sú dostupné aktualizácie pre &brandShortName;:">
-<!ENTITY askMe.label                          "Vždy sa opýtať, čo urobiť">
-<!ENTITY askMe.accesskey                      "V">
-<!ENTITY modeAutomatic.label                  "Automaticky aktualizácie prevziať a nainštalovať">
-<!ENTITY modeAutomatic.accesskey              "m">
-<!ENTITY modeAutoAddonWarn.label              "Upozorniť, ak by nainštalovanie zakázalo niektoré doplnky">
-<!ENTITY modeAutoAddonWarn.accesskey          "U">
-<!ENTITY updateHistory.label                  "Zobraziť históriu aktualizácií">
-<!ENTITY updateHistory.accesskey              "h">
+<!ENTITY appUpdates.caption                   "&brandShortName;">
+<!ENTITY autoAppUpdates.label                 "Automaticky kontrolovať aktualizácie">
+<!ENTITY autoAppUpdates.accesskey             "o">
+<!ENTITY appDaily.accesskey                   "e">
+<!ENTITY appWeekly.accesskey                  "n">
+<!ENTITY appModeAutomatic.label               "Aktualizácie automaticky prevziať a nainštalovať">
+<!ENTITY appModeAutomatic.accesskey           "m">
+<!ENTITY appModeAutoAddonWarn.label           "Upozorniť, ak by nainštalovanie zakázalo niektoré doplnky">
+<!ENTITY appModeAutoAddonWarn.accesskey       "U">
+<!ENTITY updateHistoryButton.label            "Zobraziť históriu aktualizácií">
+<!ENTITY updateHistoryButton.accesskey        "h">

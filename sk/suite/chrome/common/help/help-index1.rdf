@@ -304,6 +304,11 @@
          nc:link="nav_help.xhtml#changing_cache_settings"/>
      </rdf:li>
      <rdf:li>
+       <rdf:Description ID="caret_browsing"
+         nc:name="prehliadanie s kurzorom"
+         nc:link="cs_nav_prefs_advanced.xhtml#keyboard_navigation"/>
+     </rdf:li>
+     <rdf:li>
        <rdf:Description ID="Certificates"
          nc:name="Certifikáty"
          nc:link="using_certs_help.xhtml#using_certificates"/>

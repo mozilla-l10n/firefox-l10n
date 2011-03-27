@@ -405,7 +405,6 @@
 
 <!-- Toolbar-only items -->
 <!ENTITY menuBar.tooltip "Panel Ponuka">
-<!ENTITY compositionToolbar.tooltip "Panel nástrojov Composera">
 <!ENTITY formatToolbar.tooltip "Panel Formátovanie">
 <!ENTITY newToolbarCmd.tooltip "Nová prázdna stránka">
 <!ENTITY openToolbarCmd.label "Otvoriť">
@@ -450,33 +449,7 @@
 <!ENTITY alignLeftButton.tooltip "Zarovnať text podľa ľavého okraja">
 <!ENTITY alignCenterButton.tooltip "Zarovnať text na stred">
 <!ENTITY alignRightButton.tooltip "Zarovnať text podľa pravého okraja">
-<!ENTITY alignjustifyButton.tooltip "Zarovnať text podľa pravého a ľavého okraja">
-
-<!-- Display Mode toolbar and View menu items -->
-<!ENTITY NormalModeTab.label "Normálne">
-<!ENTITY NormalMode.label "Normálny režim úprav">
-<!ENTITY NormalMode.accesskey "N">
-<!ENTITY NormalMode.tooltip "Zobraziť okraje tabuľky a pomenované kotvy">
-<!ENTITY AllTagsMode.label "Značky HTML">
-<!ENTITY AllTagsMode.accesskey "a">
-<!ENTITY AllTagsMode.tooltip "Zobraziť ikony pre všetky značky HTML">
-
-<!ENTITY HTMLSourceMode.label "Zdrojový kód HTML">
-<!-- Toolbar has an image with "HTML" text, so don't include it in the string -->
-<!ENTITY SourceMode.label "Zdroj">
-<!ENTITY HTMLSourceMode.accesskey "H">
-<!ENTITY HTMLSourceMode.tooltip "Upraviť zdrojový kód HTML">
-<!ENTITY PreviewMode.label "Ukážka">
-<!ENTITY PreviewMode.accesskey "U">
-<!ENTITY PreviewMode.tooltip "Zobraziť ako WYSIWYG (ako v prehliadači)">
-
-<!-- LOCALIZATION NOTE: Do NOT translate text for 'SourceTabDirection'
-     Use latin "ltr" if you want the <html> image to left of the
-     'SourceMode.label' text defined above,
-     or use latin "rtl" if you want this image to the right of text
-     This is the value of the HTML 'dir' attribute
--->
-<!ENTITY SourceTabDirection "ltr">
+<!ENTITY alignJustifyButton.tooltip "Zarovnať text podľa pravého a ľavého okraja">
 
 <!-- Structure Toolbar Context Menu items -->
 <!ENTITY structSelect.label "Vybrať">
