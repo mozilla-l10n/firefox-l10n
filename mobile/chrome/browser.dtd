@@ -95,6 +95,7 @@
 <!ENTITY contextSaveImage.label "Resmi kaydet">
 <!ENTITY contextShareLink.label "Bağlantıyı paylaş">
 <!ENTITY contextShareImage.label "Resmi paylaş">
+<!ENTITY contextBookmarkLink.label "Bookmark Link">
 <!ENTITY contextSaveVideo.label "Videoyu kaydet">
 <!ENTITY contextShareVideo.label "Videoyu paylaş">
 <!ENTITY contextPlayMedia.label "Yürüt">
@@ -109,6 +110,6 @@
 <!ENTITY pageactions.reset "Site tercihlerini temizle">
 <!ENTITY pageactions.findInPage "Sayfada bul">
 <!ENTITY pageactions.search.addNew "Arama motoru ekleme">
-<!ENTITY pageactions.charEncoding "Character Encoding">
+<!ENTITY pageactions.charEncoding "Karakter kodlaması">
 
 <!ENTITY appMenu.siteOptions "Site özellikleri">

@@ -140,7 +140,7 @@
 <!ENTITY reloadButton.tooltip "Geçerli sayfayı tazele">
 <!ENTITY stopButton.label "Dur">
 <!ENTITY stopButton.tooltip "Sayfayı yüklemeyi durdur">
-<!ENTITY searchButton.label "Ara">
+<!ENTITY searchButton.label "Search">
 <!ENTITY searchButton.tooltip "Aranacak kelimeyi yazıp Ara tuşuna basın">
 <!ENTITY goButton.label "Git">
 <!ENTITY goButton.tooltip "Gidilecek konumu girip Git tuşuna basın">
@@ -152,9 +152,9 @@
 <!ENTITY locationBar.tooltip "Aranacak kelime, anahtar kelime veya web adresi girin">
 <!ENTITY locationBar.accesskey "d">
 <!ENTITY locationBar.title "Konum">
-
 <!ENTITY proxyIcon.tooltip "Bu sayfaya bağlantı oluşturmak için simgeyi sürükleyip bırakın">
-<!-- Toolbar items --> 
+
+<!ENTITY searchItem.title "Search">
 
 <!ENTITY bookmarksButton.label "Yer imleri">
 <!ENTITY bookmarksButton.tooltip "Yer imleri listesi">

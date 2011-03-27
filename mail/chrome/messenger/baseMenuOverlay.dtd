@@ -7,8 +7,10 @@
 <!ENTITY helpMenuWin.accesskey "Y">
 <!ENTITY helpTroubleshootingInfo.label "Troubleshooting Information">
 <!ENTITY helpTroubleshootingInfo.accesskey "T">
-<!ENTITY releaseCmd.label "Sürüm notları">
-<!ENTITY releaseCmd.accesskey "S">
+<!ENTITY helpSafeMode.label "Restart with Add-ons Disabled…">
+<!ENTITY helpSafeMode.accesskey "R">
+<!ENTITY releaseCmd2.label "Release Notes">
+<!ENTITY releaseCmd2.accesskey "N">
 <!ENTITY whatsNewCmd.label "Yenilikler">
 <!ENTITY whatsNewCmd.accesskey "Y">
 <!ENTITY featureConfiguratorCmd.label "Geçiş yardımcısı">

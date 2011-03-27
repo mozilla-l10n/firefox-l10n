@@ -44,8 +44,6 @@
 <!ENTITY syncKeyEntry.accesskey "a">
 <!ENTITY syncKeyGenerate.label "Generate">
 <!ENTITY syncKeyGenerate.accesskey "G">
-<!ENTITY syncKeyStrength.label "Güç:">
-<!ENTITY syncKeyHelp.label "Güç ne anlama geliyor?">
 <!ENTITY syncKeyBackup.description "Sync anahtarınız diğer makinelerde &syncBrand.fullName.label; uygulamasına erişmek için gereklidir. Lütfen yedek kopyasını alın. Sync anahtarınızı kurtarmanıza yardım edemeyiz.">
 
 <!ENTITY button.syncKeyBackup.print.label "Yazdır...">

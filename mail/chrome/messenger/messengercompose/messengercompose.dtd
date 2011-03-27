@@ -193,6 +193,7 @@
 <!ENTITY quoteButton.tooltip "Önceki iletiden alıntı yap">
 <!ENTITY addressButton.tooltip "Alıcıyı adres defterinden seç">
 <!ENTITY attachButton.tooltip "Bu iletiye dosya ekle">
+<!ENTITY spellingButton.tooltip "Check spelling of selection or entire message">
 <!ENTITY saveButton.tooltip "Bu iletiyi kaydet">
 <!ENTITY cutButton.tooltip "Kes">
 <!ENTITY copyButton.tooltip "Kopyala">
@@ -263,6 +264,10 @@
 <!ENTITY attachFile.accesskey "D">
 <!ENTITY attachPage.label "Web sayfasını ek olarak ekle…">
 <!ENTITY attachPage.accesskey "W">
+<!-- Spell checker context menu items -->
+
+<!ENTITY spellAddDictionaries.label "Sözlük ekle…">
+<!ENTITY spellAddDictionaries.accesskey "S">
 <!-- Title for the address picker panel -->
 
 <!ENTITY addressesSidebarTitle.label "Adresler">
