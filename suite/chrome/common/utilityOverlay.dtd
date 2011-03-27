@@ -38,11 +38,20 @@
 <!ENTITY pasteCmd.accesskey "P">
 <!ENTITY pasteGoCmd.label					"Prilepiť a prejsť">
 <!ENTITY pasteGoCmd.accesskey				"r">
+
+<!-- LOCALIZATION NOTE (pasteSearchCmd): "Search" is a verb, this is the
+     search bar equivalent to the url bar's "Paste & Go"  --> 
+<!ENTITY pasteSearchCmd.label				"Prilepiť a vyhľadať">
+<!ENTITY pasteSearchCmd.accesskey			"r">
 <!ENTITY deleteCmd.label "Odstrániť">
 <!ENTITY deleteCmd.accesskey "O">
 <!ENTITY selectAllCmd.label "Vybrať všetko">
 <!ENTITY selectAllCmd.key "A">
 <!ENTITY selectAllCmd.accesskey "a">
+<!ENTITY clearHistoryCmd.label				"Vymazať históriu hľadania">  
+<!ENTITY clearHistoryCmd.accesskey			"h"> 
+<!ENTITY showSuggestionsCmd.label			"Zobrazovať návrhy">  
+<!ENTITY showSuggestionsCmd.accesskey		"n"> 
 <!ENTITY preferencesCmd.label "Možnosti…">
 <!ENTITY preferencesCmd.key					"E">
 <!ENTITY preferencesCmd.accesskey "M">

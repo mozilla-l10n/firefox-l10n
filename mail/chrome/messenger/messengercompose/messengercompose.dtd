@@ -193,6 +193,7 @@
 <!ENTITY quoteButton.tooltip "Citovať predchádzajúcu správu">
 <!ENTITY addressButton.tooltip "Vybrať adresáta z Adresára">
 <!ENTITY attachButton.tooltip "Priložiť súbor">
+<!ENTITY spellingButton.tooltip "Skontrolovať pravopis označeného textu alebo celej stránky">
 <!ENTITY saveButton.tooltip "Uložiť túto správu">
 <!ENTITY cutButton.tooltip "Vystrihnúť">
 <!ENTITY copyButton.tooltip "Kopírovať">
@@ -261,6 +262,10 @@
 <!ENTITY attachFile.accesskey "s">
 <!ENTITY attachPage.label "Priložiť webovú stránku…">
 <!ENTITY attachPage.accesskey "w">
+
+<!-- Spell checker context menu items -->
+<!ENTITY spellAddDictionaries.label "Pridať slovníky…">
+<!ENTITY spellAddDictionaries.accesskey "P">
 
 <!-- Title for the address picker panel -->
 <!ENTITY addressesSidebarTitle.label "Kontakty">

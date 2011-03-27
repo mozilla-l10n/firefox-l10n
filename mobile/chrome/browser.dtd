@@ -95,6 +95,7 @@
 <!ENTITY contextSaveImage.label       "Uložiť obrázok">
 <!ENTITY contextShareLink.label       "Zdieľať odkaz">
 <!ENTITY contextShareImage.label      "Zdieľať obrázok">
+<!ENTITY contextBookmarkLink.label    "Pridať medzi záložky">
 <!ENTITY contextSaveVideo.label       "Uložiť video">
 <!ENTITY contextShareVideo.label      "Zdieľať video">
 <!ENTITY contextPlayMedia.label       "Prehrať">

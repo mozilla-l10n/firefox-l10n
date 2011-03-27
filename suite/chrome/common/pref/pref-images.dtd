@@ -8,12 +8,12 @@
 -->
 <!ENTITY imageDetails                   "Nastavenie spôsobu, ktorým &brandShortName; spracováva obrázky.">
 
-<!ENTITY accAllImagesRadio.label        "Povoliť všetky obrázky">
-<!ENTITY accAllImagesRadio.accesskey    "o">
-<!ENTITY accOrgImagesRadio.label        "Povoliť obrázky, ktoré pochádzajú z rovnakého servera ako stránka">
-<!ENTITY accOrgImagesRadio.accesskey    "r">
-<!ENTITY disableImages.label            "Nenačítavať obrázky">
-<!ENTITY disableImages.accesskey        "N">
+<!ENTITY loadAllImagesRadio.label       "Načítavať všetky obrázky">
+<!ENTITY loadAllImagesRadio.accesskey   "a">
+<!ENTITY loadOrgImagesRadio.label       "Povoliť len obrázky, ktoré pochádzajú z rovnakého servera ako stránka">
+<!ENTITY loadOrgImagesRadio.accesskey   "o">
+<!ENTITY loadNoImagesRadio.label        "Nenačítavať obrázky">
+<!ENTITY loadNoImagesRadio.accesskey    "N">
 <!ENTITY viewPermissions.label          "Spravovať povolenia">
 <!ENTITY viewPermissions.accesskey      "S">
 <!ENTITY animLoopingTitle.label         "Počet animácií animovaných obrázkov">
