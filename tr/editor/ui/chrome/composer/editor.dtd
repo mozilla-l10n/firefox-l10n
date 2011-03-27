@@ -58,3 +58,27 @@
 
 <!ENTITY formatMenu.label "Biçim">
 <!ENTITY formatMenu.accesskey "B">
+<!-- Display Mode toolbar and View menu items -->
+
+<!ENTITY NormalModeTab.label "Normal">
+<!ENTITY NormalMode.label "Normal düzenleme kipi">
+<!ENTITY NormalMode.accesskey "N">
+<!ENTITY NormalMode.tooltip "Tablo kenarlarını ve isimlendirilmiş çapaları göster">
+<!ENTITY AllTagsModeTab.label "HTML Tags">
+<!ENTITY AllTagsMode.label "HTML etiketleri">
+<!ENTITY AllTagsMode.accesskey "M">
+<!ENTITY AllTagsMode.tooltip "Tüm HTML biçim imleri için simgeleri göster">
+<!-- LOCALIZATION NOTE: (HTMLSourceModeTab.dir, HTMLSourceModeTab.label)
+     Do NOT translate text for 'HTMLSourceModeTab.dir', use latin "ltr" if
+     you want the <html> image to left of the 'HTMLSourceModeTab.label' text,
+     or use latin "rtl" if you want this image to the right of text. You do
+     not need to include HTML in the label 'HTMLSourceModeTab.label' -->
+<!ENTITY HTMLSourceModeTab.dir "ltr">
+<!ENTITY HTMLSourceModeTab.label "Kaynak">
+<!ENTITY HTMLSourceMode.label "HTML kaynağı">
+<!ENTITY HTMLSourceMode.accesskey "H">
+<!ENTITY HTMLSourceMode.tooltip "HTML kaynağını düzenle">
+<!ENTITY PreviewModeTab.label "Önizleme">
+<!ENTITY PreviewMode.label "Preview">
+<!ENTITY PreviewMode.accesskey "P">
+<!ENTITY PreviewMode.tooltip "WYSIWYG olarak görüntüle (Kılavuzda gibi)">

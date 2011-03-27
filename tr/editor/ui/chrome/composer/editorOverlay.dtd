@@ -89,8 +89,8 @@
 
 <!ENTITY editMenu.label "Düzenle">
 <!ENTITY editMenu.accesskey "z">
-<!ENTITY pasteNoFormatting.label "Biçimsiz yapıştır">
-<!ENTITY pasteNoFormatting.accesskey "y">
+<!ENTITY pasteNoFormatting.label "Paste Without Formatting">
+<!ENTITY pasteNoFormatting.accesskey "n">
 <!ENTITY pasteNoFormatting.key "V">
 <!ENTITY pasteAs.label "Farklı yapıştır">
 <!ENTITY pasteAs.accesskey "a">
@@ -451,32 +451,6 @@
 <!ENTITY alignCenterButton.tooltip "Metni ortala">
 <!ENTITY alignRightButton.tooltip "Metni sağ marj boyunca yerleştir">
 <!ENTITY alignJustifyButton.tooltip "Metni sol ve sağ marjlar boyunca yerleştir">
-<!-- Display Mode toolbar and View menu items -->
-
-<!ENTITY NormalModeTab.label "Normal">
-<!ENTITY NormalMode.label "Normal düzenleme kipi">
-<!ENTITY NormalMode.accesskey "N">
-<!ENTITY NormalMode.tooltip "Tablo kenarlarını ve isimlendirilmiş çapaları göster">
-<!ENTITY AllTagsMode.label "HTML etiketleri">
-<!ENTITY AllTagsMode.accesskey "M">
-<!ENTITY AllTagsMode.tooltip "Tüm HTML biçim imleri için simgeleri göster">
-
-<!ENTITY HTMLSourceMode.label "HTML kaynağı">
-<!-- Toolbar has an image with "HTML" text, so don't include it in the string -->
-<!ENTITY SourceMode.label "Kaynak">
-<!ENTITY HTMLSourceMode.accesskey "H">
-<!ENTITY HTMLSourceMode.tooltip "HTML kaynağını düzenle">
-<!ENTITY PreviewMode.label "Önizleme">
-<!ENTITY PreviewMode.accesskey "Ö">
-<!ENTITY PreviewMode.tooltip "WYSIWYG olarak görüntüle (Kılavuzda gibi)">
-<!-- LOCALIZATION NOTE: Do NOT translate text for 'SourceTabDirection'
-     Use latin "ltr" if you want the <html> image to left of the 
-     'SourceMode.label' text defined above,
-     or use latin "rtl" if you want this image to the right of text
-     This is the value of the HTML 'dir' attribute
--->
-
-<!ENTITY SourceTabDirection "ltr">
 <!-- Structure Toolbar Context Menu items -->
 
 <!ENTITY structSelect.label "Seç">

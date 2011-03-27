@@ -6,10 +6,15 @@
 <!ENTITY legendHeader "Öntanımlı arama motoru:">
 <!ENTITY defaultSearchEngine.label "Arama motoru:">
 <!ENTITY defaultSearchEngine.accesskey "A">
+<!-- Will be used by bug 595246 -->
+
+<!ENTITY engineManager.label "Arama motorlarını yönet…">
 
 <!ENTITY searchResults.label "Arama sonuçları">
 
 <!ENTITY openInTab.label "Open new tabs for sidebar search results">
 <!ENTITY openInTab.accesskey "n">
+<!ENTITY openContextSearchTab.label "Sağ tuş İnternet aramalarını yeni pencere yerine yeni sekmede aç">
+<!ENTITY openContextSearchTab.accesskey "S">
 <!ENTITY openSidebarSearchPanel.label "Open the Search tab in the sidebar when a search is invoked">
 <!ENTITY openSidebarSearchPanel.accesskey "O">
