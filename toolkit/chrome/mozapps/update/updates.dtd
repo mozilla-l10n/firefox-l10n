@@ -4,8 +4,8 @@
 <!ENTITY updateCheck.label "Барам нови верзии на &brandShortName;…">
 
 <!ENTITY pluginupdatesfound.title "Најдени се надградби за приклучоците">
-<!ENTITY pluginupdatesfound.label "Постојат понови верзии за еден или повеќе од вашите приклучоци.">
-<!ENTITY pluginupdateslink.label "Погледнете како да ги надградите вашите приклучоци.">
+<!ENTITY pluginupdatesfound.label "Постојат понови верзии за еден или повеќе од Вашите приклучоци.">
+<!ENTITY pluginupdateslink.label "Погледнете како да ги надградите Вашите приклучоци.">
 
 <!ENTITY noupdatesfound.title "Не се пронајдени надградби">
 <!ENTITY noupdatesautoenabled.intro "Нема достапни надградби. &brandShortName; периодично ќе проверува за надградби.">
