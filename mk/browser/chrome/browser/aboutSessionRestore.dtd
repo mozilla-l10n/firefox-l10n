@@ -3,7 +3,7 @@
      and regret that we are unable to restore the session for the user -->
 
 <!ENTITY restorepage.errorTitle "Уфф, ова е засрамувачки.">
-<!ENTITY restorepage.problemDesc "&brandShortName; има проблем да ги врати назад вашите прозорци и јазичиња. Најчесто причината за ова е некоја скоро отворена страница.">
+<!ENTITY restorepage.problemDesc "&brandShortName; има проблем да ги врати назад Вашите прозорци и јазичиња. Најчесто причината за ова е некоја скоро отворена страница.">
 <!ENTITY restorepage.tryThis "Може да се обидете да:">
 <!ENTITY restorepage.restoreSome "отстраните едно или повеќе јазичиња за кои се сомневате дека го предизвикале проблемот">
 <!ENTITY restorepage.startNew "стартувате сосема нова сесија во прелистувачот">
