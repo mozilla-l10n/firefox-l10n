@@ -20,11 +20,17 @@
 
 <!ENTITY featureConfigurator.toolbarBenefits.para "Meddelandeåtgärder som svara och vidarebefordra har flyttats från verktygsfältet till fältet med meddelanderubrikerna. På så sätt knyts knapparna direkt till meddelandet samtidigt som mer plats lämnas fri i verktygsfältet för sökrutan och eventuella tillägg.">
 
+<!-- LOCALIZATION NOTE (featureConfigurator.addOn.downloading): The text to display while downloading the addon. -->
+<!ENTITY featureConfigurator.addOn.downloading "Hämtar…">
+
 <!-- LOCALIZATION NOTE (featureConfigurator.addOn.installing): The text to display while installing the addon. -->
 <!ENTITY featureConfigurator.addOn.installing "Installerar…">
 
 <!-- LOCALIZATION NOTE (featureConfigurator.addOn.installed): The text to display after the user installs the addon from the configurator. -->
 <!ENTITY featureConfigurator.addOn.installed "Installerade">
+
+<!-- LOCALIZATION NOTE (featureConfigurator.addOn.failure): The text to display when there is a problem installing the addon. -->
+<!ENTITY featureConfigurator.addOn.failure "Ett fel uppstod vid installationen av tillägget!">
 
 <!-- LOCALIZATION NOTE (featureConfigurator.addOn.alreadyInstalled): The label to display when the addon is already installed. -->
 <!ENTITY featureConfigurator.addOn.alreadyInstalled "Det här tillägget är redan installerat.">
