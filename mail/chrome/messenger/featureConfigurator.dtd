@@ -8,8 +8,10 @@
 <!ENTITY featureConfigurator.toolbar.original "Сохранить ваши исходные кнопки панели инструментов">
 <!ENTITY featureConfigurator.toolbar.original.status.explanation "Сохраняет на панели все настроенные вами кнопки в дополнение к новым Кнопкам Сообщения.">
 <!ENTITY featureConfigurator.toolbarBenefits.para "Действия для сообщений, такие как ответ и пересылка, были перемещены из панели инструментов в заголовок самого сообщения. Это связывает кнопки действий напрямую с сообщением, и оставляет больше места на панели инструментов для гибкого поля поиска, а также для дополнений.">
+<!ENTITY featureConfigurator.addOn.downloading "Загрузка…">
 <!ENTITY featureConfigurator.addOn.installing "Устанавливается…">
 <!ENTITY featureConfigurator.addOn.installed "Установлено">
+<!ENTITY featureConfigurator.addOn.failure "При установке этого расширения возникла проблема!">
 <!ENTITY featureConfigurator.addOn.alreadyInstalled "Это расширение уже установлено.">
 <!ENTITY featureConfigurator.collapsedHeaders.heading "Компактный заголовок">
 <!ENTITY featureConfigurator.collapsedHeaders.para.weak "Компактный режим чтения сообщения теперь реализован в виде отдельного расширения, где он получает теперь гораздо больше внимания и настроек.">
@@ -23,7 +25,7 @@
 <!ENTITY featureConfigurator.autoSync.para "В эту новую версию &brandShortName; включён новый улучшенный механизм поиска. Чтобы задействовать этот новый поиск, вам необходимо синхронизировать ваши почтовые сообщения.">
 <!ENTITY featureConfigurator.autoSync.on "Синхронизировать">
 <!ENTITY featureConfigurator.autoSync.on.explanation "Вы получите более быструю загрузку сообщений и более полные результаты поиска.">
-<!ENTITY featureConfigurator.autoSync.off "Не синхронизировать ">
+<!ENTITY featureConfigurator.autoSync.off "Не синхронизировать">
 <!ENTITY featureConfigurator.autoSync.off.explanation "Это будет означать более медленную загрузку сообщений и неполные результаты поиска.">
 <!ENTITY featureConfigurator.autoSync.some "Синхронизация для каждой учётной записи">
 <!ENTITY featureConfigurator.autoSync.some.explanation "Настройте свои потребности в синхронизации для каждой папки и учётной записи.">
