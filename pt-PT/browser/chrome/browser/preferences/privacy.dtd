@@ -1,4 +1,9 @@
-<!ENTITY history.label "Histórico">
+<!ENTITY tracking.label                 "Monitorização">
+
+<!ENTITY doNotTrack.label                "Informar sítios web que não quero ser vigiado">
+<!ENTITY doNotTrack.accesskey            "I">
+
+<!ENTITY  history.label                 "Histórico">
 
 <!ENTITY  locationBar.label             "Barra de localização">
 
@@ -9,6 +14,7 @@
 <!ENTITY  locbar.history.label          "Histórico">
 <!ENTITY  locbar.bookmarks.label        "Marcadores">
 <!ENTITY  locbar.nothing.label          "Nada">
+
 
 <!ENTITY  acceptCookies.label           "Aceitar cookies de sítios">
 <!ENTITY  acceptCookies.accesskey       "c">
@@ -58,12 +64,6 @@
 <!ENTITY  privateBrowsingPermanent.label "Modo permanente de navegação privada">
 <!ENTITY  privateBrowsingPermanent.accesskey "M">
 
-<!-- LOCALIZATION NOTE:
-  The entities rememberHistory.pre.label and  appear on a single
-  line in preferences as follows:
-
-  &rememberHistory.pre.label  [ textbox for number of days ]  &rememberHistory.post.label;
--->
 <!ENTITY  rememberHistory.label      "Lembrar o histórico de navegação">
 <!ENTITY  rememberHistory.accesskey  "h">
 
