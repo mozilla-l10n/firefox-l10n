@@ -15,8 +15,6 @@
 <!ENTITY allowHWAccel.accesskey "л">
 <!ENTITY checkSpelling.label "Проверять орфографию при наборе текста">
 <!ENTITY checkSpelling.accesskey "в">
-<!ENTITY doNotTrack.label "Сообщать веб-сайтам, что я не хочу, чтобы за мной следили">
-<!ENTITY doNotTrack.accesskey "б">
 <!ENTITY systemDefaults.label "Системные настройки">
 <!ENTITY alwaysCheckDefault.label "Всегда проверять при запуске, является ли &brandShortName; браузером по умолчанию">
 <!ENTITY alwaysCheckDefault.accesskey "д">
