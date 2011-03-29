@@ -21,8 +21,6 @@
 <!ENTITY allowHWAccel.accesskey          "h">
 <!ENTITY checkSpelling.label             "Verificar a minha ortografia durante a escrita">
 <!ENTITY checkSpelling.accesskey         "t">
-<!ENTITY doNotTrack.label                "Informar sítios web que não quero ser vigiado">
-<!ENTITY doNotTrack.accesskey            "I">
 
 
 <!ENTITY systemDefaults.label            "Pré-definições do Sistema">
