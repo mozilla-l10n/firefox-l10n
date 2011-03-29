@@ -21,9 +21,6 @@
 <!ENTITY allowHWAccel.accesskey "h">
 <!ENTITY checkSpelling.label             "Comprobar la ortografía mientres s'escribe">
 <!ENTITY checkSpelling.accesskey         "t">
-<!ENTITY doNotTrack.label                "Dicir a los sitios web que nun faigan siguimientu">
-<!ENTITY doNotTrack.accesskey            "i">
-
 
 <!ENTITY systemDefaults.label            "Por defeutu">
 <!ENTITY alwaysCheckDefault.label        "Comprobar nel aniciu si &brandShortName; ye'l restolador por defeutu"><!--XXX-->
