@@ -1,3 +1,7 @@
+<!ENTITY tracking.label                 "Siguir">
+<!ENTITY doNotTrack.label               "Dicir a los sitios web que nun quiero ser siguíu">
+<!ENTITY doNotTrack.accesskey           "g">
+
 <!ENTITY  history.label                 "Historial">
 
 <!ENTITY  locationBar.label             "Barra de direiciones">
