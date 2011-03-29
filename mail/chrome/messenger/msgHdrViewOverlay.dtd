@@ -98,12 +98,15 @@
 <!ENTITY otherActionsPrint.label "imprimer…">
 <!ENTITY otherActionsPrint.accesskey "m">
 
+<!-- Attachment context menu items -->
 <!ENTITY openAttachmentCmd.label "Ouvrir">
 <!ENTITY openAttachmentCmd.accesskey "O">
 <!ENTITY saveAsAttachmentCmd.label "Enregistrer sous…">
 <!ENTITY saveAsAttachmentCmd.accesskey "E">
 <!ENTITY detachAttachmentCmd.label "Détacher…">
+<!ENTITY detachAttachmentCmd.accesskey "a">
 <!ENTITY deleteAttachmentCmd.label "Supprimer">
+<!ENTITY deleteAttachmentCmd.accesskey "u">
 <!ENTITY openAllAttachmentsCmd.label "Tout ouvrir…">
 <!ENTITY openAllAttachmentsCmd.accesskey "v">
 <!ENTITY saveAllAttachmentsCmd.label "Tout enregistrer…">
@@ -112,6 +115,26 @@
 <!ENTITY detachAllAttachmentsCmd.accesskey "D">
 <!ENTITY deleteAllAttachmentsCmd.label "Tout supprimer…">
 <!ENTITY deleteAllAttachmentsCmd.accesskey "s">
+
+<!-- Attachment toolbar items -->
+<!ENTITY saveAttachmentButton.label "enregistrer">
+<!ENTITY saveAttachmentButton.tooltip "enregistrer la pièce jointe">
+<!ENTITY saveAllAttachmentsButton.label "tout enregistrer">
+<!ENTITY saveAllAttachmentsButton.tooltip "enregistrer toutes les pièces jointes">
+<!ENTITY openAttachmentMenuItem.label "ouvrir">
+<!ENTITY openAttachmentMenuItem.accesskey "o">
+<!ENTITY saveAsAttachmentMenuItem.label "enregistrer sous…">
+<!ENTITY saveAsAttachmentMenuItem.accesskey "e">
+<!ENTITY detachAttachmentMenuItem.label "détacher…">
+<!ENTITY detachAttachmentMenuItem.accesskey "d">
+<!ENTITY deleteAttachmentMenuItem.label "supprimer">
+<!ENTITY deleteAttachmentMenuItem.accesskey "s">
+<!ENTITY saveAllAttachmentsMenuItem.label "tout enregistrer…">
+<!ENTITY saveAllAttachmentsMenuItem.accesskey "t">
+<!ENTITY detachAllAttachmentsMenuItem.label "tout détacher…">
+<!ENTITY detachAllAttachmentsMenuItem.accesskey "o">
+<!ENTITY deleteAllAttachmentsMenuItem.label "tout supprimer…">
+<!ENTITY deleteAllAttachmentsMenuItem.accesskey "u">
 
 <!ENTITY copyLinkCmd.label "Copier l'adresse du lien">
 <!ENTITY copyLinkCmd.accesskey "C">
