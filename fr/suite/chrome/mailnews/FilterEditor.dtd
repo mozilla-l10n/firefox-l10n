@@ -53,6 +53,7 @@
  ***** END LICENSE BLOCK ***** -->
 
 <!ENTITY window.title "Modifier le filtre">
+<!ENTITY filterEditorDialog.dimensions "width: 105ch;">
 <!ENTITY filterName.label "Nom du filtre :">
 <!ENTITY filterName.accesskey "i">
 
