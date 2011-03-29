@@ -99,12 +99,15 @@
 <!ENTITY otherActionsPrint.label "Imprimir…">
 <!ENTITY otherActionsPrint.accesskey "p">
 
+<!-- Attachment context menu items -->
 <!ENTITY openAttachmentCmd.label "Abrir">
 <!ENTITY openAttachmentCmd.accesskey "A">
 <!ENTITY saveAsAttachmentCmd.label "Guardar como...">
 <!ENTITY saveAsAttachmentCmd.accesskey "G">
 <!ENTITY detachAttachmentCmd.label "Separar…">
+<!ENTITY detachAttachmentCmd.accesskey    "S">
 <!ENTITY deleteAttachmentCmd.label "Eliminar">
+<!ENTITY deleteAttachmentCmd.accesskey    "l">
 <!ENTITY openAllAttachmentsCmd.label    "Abrir tudo…">
 <!ENTITY openAllAttachmentsCmd.accesskey    "o">
 <!ENTITY saveAllAttachmentsCmd.label "Guardar tudo...">
@@ -113,6 +116,26 @@
 <!ENTITY detachAllAttachmentsCmd.accesskey "E">
 <!ENTITY deleteAllAttachmentsCmd.label "Eliminar tudo...">
 <!ENTITY deleteAllAttachmentsCmd.accesskey "L">
+
+<!-- Attachment toolbar items -->
+<!ENTITY saveAttachmentButton.label       "guardar">
+<!ENTITY saveAttachmentButton.tooltip     "guardar ficheiro anexo">
+<!ENTITY saveAllAttachmentsButton.label   "guardar tudo">
+<!ENTITY saveAllAttachmentsButton.tooltip "guardar todos os ficheiros em anexo">
+<!ENTITY openAttachmentMenuItem.label     "abrir">
+<!ENTITY openAttachmentMenuItem.accesskey    "b">
+<!ENTITY saveAsAttachmentMenuItem.label    "guardar como…">
+<!ENTITY saveAsAttachmentMenuItem.accesskey    "m">
+<!ENTITY detachAttachmentMenuItem.label    "desanexar…">
+<!ENTITY detachAttachmentMenuItem.accesskey    "d">
+<!ENTITY deleteAttachmentMenuItem.label    "eliminar">
+<!ENTITY deleteAttachmentMenuItem.accesskey    "e">
+<!ENTITY saveAllAttachmentsMenuItem.label    "guardar tudo…">
+<!ENTITY saveAllAttachmentsMenuItem.accesskey    "t">
+<!ENTITY detachAllAttachmentsMenuItem.label    "desanexar tudo…">
+<!ENTITY detachAllAttachmentsMenuItem.accesskey    "d">
+<!ENTITY deleteAllAttachmentsMenuItem.label    "eliminar tudo…">
+<!ENTITY deleteAllAttachmentsMenuItem.accesskey    "e">
 
 <!ENTITY copyLinkCmd.label "Copiar ligação">
 <!ENTITY copyLinkCmd.accesskey "P">
