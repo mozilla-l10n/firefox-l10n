@@ -1,3 +1,6 @@
+<!ENTITY tracking.label "Отслеживание">
+<!ENTITY doNotTrack.label "Сообщать веб-сайтам, что я не хочу, чтобы за мной следили">
+<!ENTITY doNotTrack.accesskey "б">
 <!ENTITY history.label "История">
 <!ENTITY locationBar.label "Панель адреса">
 <!ENTITY locbar.pre.label "При использовании панели адреса предлагать ссылки:">

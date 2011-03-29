@@ -1,4 +1,5 @@
 <!ENTITY window.title "Правила фильтрации">
+<!ENTITY filterEditorDialog.dimensions "width: 100ch;">
 <!ENTITY filterName.label "Имя фильтра:">
 <!ENTITY filterName.accesskey "И">
 <!ENTITY junk.label "Спам">
