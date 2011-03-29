@@ -4,7 +4,7 @@
 <!ENTITY aboutHome.recommendedAddons2           "Modules pour &brandShortName;">
 <!ENTITY aboutHome.giveFeedback                 "Réagir">
 <!ENTITY aboutHome.getHelp                      "Obtenir de l'aide">
-<!ENTITY aboutHome.footerWidth                  "13em">
+<!ENTITY aboutHome.footerWidth                  "10em">
 <!ENTITY aboutHome.openAllTabs                  "Tout ouvrir dans des onglets">
 <!ENTITY aboutHome.noTabs                       "Aucun onglet à restaurer">
 <!ENTITY aboutHome.noAddons                     "Aucun module recommandé">
