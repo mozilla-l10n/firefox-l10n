@@ -18,8 +18,8 @@
 
 <!ENTITY selectSound.label              "Explorar…">
 <!ENTITY selectSound.accesskey          "o">
-<!ENTITY previewSound.label             "Pré-visualizar">
-<!ENTITY previewSound.accesskey         "v">
+<!ENTITY playSoundButton.label          "Reproduzir">
+<!ENTITY playSoundButton.accesskey      "z">
 <!ENTITY selectSound.title              "Seleccionar som de popup bloqueado">
 <!ENTITY selectSound.filter             "Sons">
 

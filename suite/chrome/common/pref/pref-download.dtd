@@ -32,5 +32,5 @@
 <!ENTITY showAlert.accesskey            "t">
 <!ENTITY browse.label                   "Navegar…">
 <!ENTITY browse.accesskey               "N">
-<!ENTITY preview.label                  "Pré-visualizar">
-<!ENTITY preview.accesskey              "v">
+<!ENTITY playButton.label               "Reproduzir">
+<!ENTITY playButton.accesskey           "z">

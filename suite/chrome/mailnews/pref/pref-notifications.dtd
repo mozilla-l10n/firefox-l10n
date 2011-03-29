@@ -46,8 +46,8 @@
 <!ENTITY showTrayIcon.accesskey           "t">
 <!ENTITY bounceSystemDockIcon.label       "Animar o ícone">
 <!ENTITY bounceSystemDockIcon.accesskey   "A">
-<!ENTITY preview.label                    "Pré-visualizar">
-<!ENTITY preview.accesskey                "v">
+<!ENTITY playButton.label                 "Reproduzir">
+<!ENTITY playButton.accesskey             "z">
 <!ENTITY systemsound.label                "Som pré-definido do Sistema de Novo Correio">
 <!ENTITY systemsound.accesskey            "S">
 <!ENTITY customsound.label                "Usar este ficheiro de som">
