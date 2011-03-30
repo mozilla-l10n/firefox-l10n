@@ -1,3 +1,8 @@
+<!ENTITY tracking.label                 "Spårning">
+
+<!ENTITY doNotTrack.label               "Be webbplatser att inte spåra mig">
+<!ENTITY doNotTrack.accesskey           "e">
+
 <!ENTITY  history.label                 "Historik">
 
 <!ENTITY  locationBar.label             "Adressfältet">
@@ -30,7 +35,6 @@
 <!ENTITY  showCookies.label             "Visa kakor…">
 <!ENTITY  showCookies.accesskey         "V">
 
-
 <!ENTITY  historyHeader.pre.label          "&brandShortName; kommer att:">
 <!ENTITY  historyHeader.pre.accesskey      "F">
 <!ENTITY  historyHeader.remember.label     "Spara historik">
@@ -61,7 +65,7 @@
 <!ENTITY  privateBrowsingPermanent.accesskey "A">
 
 <!ENTITY  rememberHistory.label      "Spara historiken över besökta sidor">
-<!ENTITY  rememberHistory.accesskey  "e">
+<!ENTITY  rememberHistory.accesskey  "S">
 
 <!ENTITY  rememberDownload.label         "Spara filhämtningshistorik">
 <!ENTITY  rememberDownload.accesskey     "ä">
