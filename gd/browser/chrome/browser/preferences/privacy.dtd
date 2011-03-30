@@ -1,3 +1,8 @@
+<!ENTITY tracking.label                 "Lorgadh">
+
+<!ENTITY doNotTrack.label               "Innis do làraichean-lìn nach bu toigh leam gun dèan iad lorgadh orm">
+<!ENTITY doNotTrack.accesskey           "d">
+
 <!ENTITY  history.label                 "Eachdraidh">
 
 <!ENTITY  locationBar.label             "Bàr an t-seòlaidh">
@@ -29,7 +34,6 @@
 
 <!ENTITY  showCookies.label             "Seall na briosgaidean…">
 <!ENTITY  showCookies.accesskey         "S">
-
 
 <!ENTITY  historyHeader.pre.label          "Dè nì &brandShortName;:">
 <!ENTITY  historyHeader.pre.accesskey      "D">
