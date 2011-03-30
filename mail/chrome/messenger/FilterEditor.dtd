@@ -1,5 +1,5 @@
 <!ENTITY window.title "Riaghailtean a' chriathraidh">
-
+<!ENTITY filterEditorDialog.dimensions "width: 150ch;">
 <!ENTITY filterName.label "Ainm na criathraige:">
 <!ENTITY filterName.accesskey "i">
 
