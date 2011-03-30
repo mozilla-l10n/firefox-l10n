@@ -102,12 +102,16 @@
 <!ENTITY viewSourceMenuItem.accesskey           "W">
 <!ENTITY otherActionsPrint.label                "Drukuj…">
 <!ENTITY otherActionsPrint.accesskey            "D">
+
+<!-- Attachment context menu items -->
 <!ENTITY openAttachmentCmd.label                "Otwórz">
 <!ENTITY openAttachmentCmd.accesskey            "O">
 <!ENTITY saveAsAttachmentCmd.label              "Zapisz jako…">
 <!ENTITY saveAsAttachmentCmd.accesskey          "a">
 <!ENTITY detachAttachmentCmd.label              "Odłącz…">
+<!ENTITY detachAttachmentCmd.accesskey          "c">
 <!ENTITY deleteAttachmentCmd.label              "Usuń">
+<!ENTITY deleteAttachmentCmd.accesskey          "s">
 <!ENTITY openAllAttachmentsCmd.label            "Otwórz wszystkie…">
 <!ENTITY openAllAttachmentsCmd.accesskey        "O">
 <!ENTITY saveAllAttachmentsCmd.label            "Zapisz wszystkie…">
@@ -116,6 +120,26 @@
 <!ENTITY detachAllAttachmentsCmd.accesskey      "w">
 <!ENTITY deleteAllAttachmentsCmd.label          "Usuń wszystkie…">
 <!ENTITY deleteAllAttachmentsCmd.accesskey      "U">
+
+<!-- Attachment toolbar items -->
+<!ENTITY saveAttachmentButton.label             "Zapisz">
+<!ENTITY saveAttachmentButton.tooltip           "Zapisz dozłączony plik">
+<!ENTITY saveAllAttachmentsButton.label         "Zapisz wszystkie">
+<!ENTITY saveAllAttachmentsButton.tooltip       "Zapisz wszystkie dołączone pliki">
+<!ENTITY openAttachmentMenuItem.label           "Otwórz">
+<!ENTITY openAttachmentMenuItem.accesskey       "O">
+<!ENTITY saveAsAttachmentMenuItem.label         "Zapisz jako…">
+<!ENTITY saveAsAttachmentMenuItem.accesskey     "Z">
+<!ENTITY detachAttachmentMenuItem.label         "Odłącz…">
+<!ENTITY detachAttachmentMenuItem.accesskey     "d">
+<!ENTITY deleteAttachmentMenuItem.label         "Usuń">
+<!ENTITY deleteAttachmentMenuItem.accesskey     "U">
+<!ENTITY saveAllAttachmentsMenuItem.label       "Zapisz wszystkie…">
+<!ENTITY saveAllAttachmentsMenuItem.accesskey   "w">
+<!ENTITY detachAllAttachmentsMenuItem.label     "Odłącz wszystkie…">
+<!ENTITY detachAllAttachmentsMenuItem.accesskey "e">
+<!ENTITY deleteAllAttachmentsMenuItem.label     "Usuń wszystkie…">
+<!ENTITY deleteAllAttachmentsMenuItem.accesskey "U">
 
 <!ENTITY copyLinkCmd.label     "Kopiuj adres odnośnika">
 <!ENTITY copyLinkCmd.accesskey "K">
