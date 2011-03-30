@@ -13,8 +13,8 @@
 <!ENTITY customSound.accesskey "к">
 <!ENTITY selectSound.label "Обзор…">
 <!ENTITY selectSound.accesskey "б">
-<!ENTITY previewSound.label "Прослушать">
-<!ENTITY previewSound.accesskey "ш">
+<!ENTITY playSoundButton.label "Прослушать">
+<!ENTITY playSoundButton.accesskey "ш">
 <!ENTITY selectSound.title "Выбор звукового сигнала о всплывающем окне">
 <!ENTITY selectSound.filter "Звуки">
 <!ENTITY displayIcon.label "Показывать значок в строке состояния браузера">
