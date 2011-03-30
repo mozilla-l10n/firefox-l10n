@@ -28,5 +28,5 @@
 <!ENTITY showAlert.accesskey "M">
 <!ENTITY browse.label "Scegli…">
 <!ENTITY browse.accesskey "S">
-<!ENTITY preview.label "Anteprima">
-<!ENTITY preview.accesskey "n">
+<!ENTITY playButton.label "Riproduci">
+<!ENTITY playButton.accesskey "u">
