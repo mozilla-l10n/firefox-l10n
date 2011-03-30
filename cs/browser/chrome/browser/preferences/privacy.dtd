@@ -1,3 +1,8 @@
+<!ENTITY tracking.label "Sledování">
+
+<!ENTITY doNotTrack.label "Informovat servery, že nechci být sledován">
+<!ENTITY doNotTrack.accesskey "I">
+
 <!ENTITY history.label "Historie">
 
 <!ENTITY locationBar.label "Adresní řádek">
@@ -29,7 +34,6 @@
 
 <!ENTITY showCookies.label "Správce cookies…">
 <!ENTITY showCookies.accesskey "S">
-
 
 <!ENTITY historyHeader.pre.label "Nastavení historie:">
 <!ENTITY historyHeader.pre.accesskey "N">

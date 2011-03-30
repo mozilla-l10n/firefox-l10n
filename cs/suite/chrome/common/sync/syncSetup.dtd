@@ -4,7 +4,8 @@
 
 <!ENTITY setup.pickSetupType.description "Vítejte! Jestliže jste nikdy &syncBrand.fullName.label; nepoužili, budete si muset vytvořit nový účet.">
 <!ENTITY button.createNewAccount.label "Vytvořit nový účet">
-<!ENTITY button.haveAccount.label "Již mám účet &syncBrand.fullName.label;">
+<!ENTITY setup.haveAccount.label "Již mám účet &syncBrand.fullName.label;">
+<!ENTITY button.connect.label "Připojit">
 
 <!ENTITY setup.choicePage.title.label "Znáte a požíváte &syncBrand.fullName.label;?">
 <!ENTITY setup.choicePage.new.label "&syncBrand.shortName.label; neznám a nepoužívám">
@@ -13,14 +14,15 @@
 
 <!-- New Account AND Existing Account -->
 <!ENTITY server.label "Server">
+<!ENTITY server.accesskey "S">
 <!ENTITY serverType.main.label "Server &syncBrand.fullName.label;">
-<!ENTITY serverType.custom.label "Použít vlastní server…">
-<!ENTITY signIn.account.label "Účet">
-<!ENTITY signIn.account.accesskey "e">
+<!ENTITY serverType.custom2.label "Použít vlastní server…">
+<!ENTITY signIn.account2.label "Účet">
+<!ENTITY signIn.account2.accesskey "e">
 <!ENTITY signIn.password.label "Heslo">
 <!ENTITY signIn.password.accesskey "H">
-<!ENTITY signIn.serverURL.label "Adresa serveru">
-<!ENTITY signIn.serverURL.accesskey "s">
+<!ENTITY signIn.syncKey.label "Klíč">
+<!ENTITY signIn.syncKey.accesskey "K">
 
 <!-- New Account Page 1: Basic Account Info -->
 <!ENTITY setup.newAccountDetailsPage.title.label "Podrobnosti účtu">
@@ -54,18 +56,25 @@
 
 <!-- New Account Page 3: Captcha -->
 <!ENTITY setup.captchaPage2.title.label "Potvrďte prosím, že nejste robot">
+<!-- Existing Account Page 1: Add Device (incl. Add a Device dialog strings) -->
+<!ENTITY addDevice.title.label "Přidání zařízení">
+<!ENTITY addDevice.showMeHow.label "Zobrazit nápovědu.">
+<!ENTITY addDevice.dontHaveDevice.label "Nemám zařízení u sebe">
+<!ENTITY addDevice.setup.description.label "Pro aktivaci přejděte do dialogu možností &syncBrand.shortName.label; na připojeném zařízení a zvolte „Přidat zařízení“.">
+<!ENTITY addDevice.setup.enterCode.label "A tam pak vložte tento kód:">
+<!ENTITY addDevice.dialog.description.label "Pro aktivaci přejděte do dialogu možností &syncBrand.shortName.label; na připojovaném zařízení a zvolte „Připojit“.">
+<!ENTITY addDevice.dialog.enterCode.label "Zde pak vložte kód, který obdržíte:">
+<!ENTITY addDevice.dialog.tryAgain.label "Prosím zkuste to znovu.">
+<!ENTITY addDevice.dialog.successful.label "Zařízení bylo úspěšně přidáno. Počáteční synchronizace může trvat několik minut a bude probíhat na pozadí.">
+<!ENTITY addDevice.dialog.syncKey.label "Pro aktivaci vzdáleného zařízení budete potřebovat klíč. níže uvedený klíč si prosím vytiskněte nebo uložte a vezměte si ho sebou.">
+<!ENTITY addDevice.dialog.connected.label "Zařízení připojeno">
 
-<!-- Existing Account Page 1: Login -->
-<!ENTITY setup.existingAccount.title.label "Vložte údaje účtu">
-<!ENTITY resetPassword.label "Obnovit heslo">
-<!ENTITY connecting.label "Připojování…">
-
-<!-- Existing Account Page 2: Sync Key -->
-<!ENTITY setup.existingSyncKeyPage.title "Vložte prosím svůj klíč">
-<!ENTITY setup.existingSyncKeyPage.description "Svůj klíč jste vložili nebo byl automaticky vygenerován při vašem prvním přihlášení k službě &syncBrand.fullName.label;. Klíč není to samé co vaše heslo.">
-<!ENTITY existingSyncKeyHelp.description "Váš klíč můžete nalézt uložený v ostatních prohlížečích v dialogu uložených hesel v panelu soukromí. Pokud stále svůj klíč neznáte, můžete ho nahradit novým. V takovém případě ovšem ztratíte všechna data, která máte na serveru uložena.">
-<!ENTITY lostSyncKey.label "Ztratil jsem svůj klíč">
+<!-- Existing Account Page 2: Manual Login -->
+<!ENTITY setup.signInPage.title.label "Přihlásit">
+<!ENTITY existingSyncKey.description "Svůj klíč můžete nalézt v připojeném zařízení v dialogu možností &syncBrand.shortName.label;, pokud klepnete na „Můj klíč“ pod tlačítkem „Správa účtu“.">
 <!ENTITY verifying.label "Ověřování…">
+<!ENTITY resetPassword.label "Vynulovat heslo">
+<!ENTITY resetSyncKey.label "Ztratil jsem své další zařízení.">
 
 <!-- Sync Options -->
 <!ENTITY setup.optionsPage.title "Možnosti synchronizace">
@@ -97,6 +106,6 @@
 <!ENTITY confirm.server2.label "Upozornění: Data na následujících zařízení budou přepsána lokálními daty:">
 
 <!-- New & Existing Account: Setup Complete -->
-<!ENTITY setup.successPage.title "Nastavení dokončeno!">
+<!ENTITY setup.successPage.title "Nastavení dokončeno">
 <!ENTITY changeOptions.label "Vaše nastavení lze změnit v dialogu možnosti Sync níže.">
 <!ENTITY continueUsing.label "Nyní můžete pokračovat v používání aplikace &brandShortName;.">

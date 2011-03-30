@@ -20,11 +20,17 @@
 
 <!ENTITY featureConfigurator.toolbarBenefits.para "Tlačítka akcí zpráv jako odpovědět nebo přeposlat byla přesunuta z lišty do záhlaví zprávy, kde mohou být svázána přímo s danou zprávou. Toto uspořádání umožňuje v liště ponechat více místa pro rozšířené vyhledávací pole a tlačítka doplňků.">
 
+<!-- LOCALIZATION NOTE (featureConfigurator.addOn.downloading): The text to display while downloading the addon. -->
+<!ENTITY featureConfigurator.addOn.downloading "Stahování…">
+
 <!-- LOCALIZATION NOTE (featureConfigurator.addOn.installing): The text to display while installing the addon. -->
 <!ENTITY featureConfigurator.addOn.installing "Instalace…">
 
 <!-- LOCALIZATION NOTE (featureConfigurator.addOn.installed): The text to display after the user installs the addon from the configurator. -->
 <!ENTITY featureConfigurator.addOn.installed "Nainstalováno">
+
+<!-- LOCALIZATION NOTE (featureConfigurator.addOn.failure): The text to display when there is a problem installing the addon. -->
+<!ENTITY featureConfigurator.addOn.failure "Při instalaci tohoto rozšíření se vyskytl problém.">
 
 <!-- LOCALIZATION NOTE (featureConfigurator.addOn.alreadyInstalled): The label to display when the addon is already installed. -->
 <!ENTITY featureConfigurator.addOn.alreadyInstalled "Toto rozšíření je již nainstalováno.">
