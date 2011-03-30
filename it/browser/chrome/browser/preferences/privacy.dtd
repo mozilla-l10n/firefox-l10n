@@ -1,3 +1,6 @@
+<!ENTITY tracking.label "Tracciamento">
+<!ENTITY doNotTrack.label "Attiva l'opzione anti-tracciamento dei dati personali">
+<!ENTITY doNotTrack.accesskey "A">
 <!ENTITY history.label "Cronologia">
 <!ENTITY locationBar.label "Barra degli indirizzi">
 <!ENTITY locbar.pre.label "Nella barra degli indirizzi visualizza suggerimenti da:">
