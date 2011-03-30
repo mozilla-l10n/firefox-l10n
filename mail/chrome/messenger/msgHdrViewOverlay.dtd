@@ -119,23 +119,23 @@
 <!ENTITY deleteAllAttachmentsCmd.accesskey "c">
 
 <!-- Attachment toolbar items -->
-<!ENTITY saveAttachmentButton.label       "speichern">
-<!ENTITY saveAttachmentButton.tooltip     "angehängte Datei speichern">
-<!ENTITY saveAllAttachmentsButton.label   "alle speichern">
-<!ENTITY saveAllAttachmentsButton.tooltip "alle angehängten Dateien speichern">
-<!ENTITY openAttachmentMenuItem.label     "öffnen">
-<!ENTITY openAttachmentMenuItem.accesskey    "ö">
-<!ENTITY saveAsAttachmentMenuItem.label    "speichern als…">
-<!ENTITY saveAsAttachmentMenuItem.accesskey    "s">
-<!ENTITY detachAttachmentMenuItem.label    "abtrennen…">
-<!ENTITY detachAttachmentMenuItem.accesskey    "a">
-<!ENTITY deleteAttachmentMenuItem.label    "löschen">
-<!ENTITY deleteAttachmentMenuItem.accesskey    "l">
-<!ENTITY saveAllAttachmentsMenuItem.label    "alle speichern…">
+<!ENTITY saveAttachmentButton.label       "Speichern">
+<!ENTITY saveAttachmentButton.tooltip     "Angehängte Datei speichern">
+<!ENTITY saveAllAttachmentsButton.label   "Alle speichern">
+<!ENTITY saveAllAttachmentsButton.tooltip "Alle angehängten Dateien speichern">
+<!ENTITY openAttachmentMenuItem.label     "Öffnen">
+<!ENTITY openAttachmentMenuItem.accesskey    "f">
+<!ENTITY saveAsAttachmentMenuItem.label    "Speichern als…">
+<!ENTITY saveAsAttachmentMenuItem.accesskey    "S">
+<!ENTITY detachAttachmentMenuItem.label    "Abtrennen…">
+<!ENTITY detachAttachmentMenuItem.accesskey    "A">
+<!ENTITY deleteAttachmentMenuItem.label    "Löschen">
+<!ENTITY deleteAttachmentMenuItem.accesskey    "L">
+<!ENTITY saveAllAttachmentsMenuItem.label    "Alle speichern…">
 <!ENTITY saveAllAttachmentsMenuItem.accesskey    "p">
-<!ENTITY detachAllAttachmentsMenuItem.label    "alle abtrennen…">
+<!ENTITY detachAllAttachmentsMenuItem.label    "Alle abtrennen…">
 <!ENTITY detachAllAttachmentsMenuItem.accesskey    "a">
-<!ENTITY deleteAllAttachmentsMenuItem.label    "alle löschen…">
+<!ENTITY deleteAllAttachmentsMenuItem.label    "Alle löschen…">
 <!ENTITY deleteAllAttachmentsMenuItem.accesskey    "c">
 
 <!ENTITY copyLinkCmd.label "Link-Adresse kopieren">
