@@ -20,11 +20,17 @@
 
 <!ENTITY featureConfigurator.toolbarBenefits.para "Gluais gnìomhan teachdaireachd, leithid &quot;Freagair&quot; is &quot;Sìn air adhart&quot; on bhàr-inneil gu bann-cinn nan teachdaireachd fhèin. Tha seo a' ceangal nam putan gnìomha ris an teachdaireachd fhèin 's mar sin tha barrachd àite sa bhàr-inneil airson bogsa-luirg nas fhearr agus cuid de thuilleadain.">
 
+<!-- LOCALIZATION NOTE (featureConfigurator.addOn.downloading): The text to display while downloading the addon. -->
+<!ENTITY featureConfigurator.addOn.downloading "A' luchdadh a-nuas…">
+
 <!-- LOCALIZATION NOTE (featureConfigurator.addOn.installing): The text to display while installing the addon. -->
 <!ENTITY featureConfigurator.addOn.installing "'Ga stàladh…">
 
 <!-- LOCALIZATION NOTE (featureConfigurator.addOn.installed): The text to display after the user installs the addon from the configurator. -->
 <!ENTITY featureConfigurator.addOn.installed "Air a stàladh">
+
+<!-- LOCALIZATION NOTE (featureConfigurator.addOn.failure): The text to display when there is a problem installing the addon. -->
+<!ENTITY featureConfigurator.addOn.failure "Bha duilgheadas ann le stàladh an leudachain seo!">
 
 <!-- LOCALIZATION NOTE (featureConfigurator.addOn.alreadyInstalled): The label to display when the addon is already installed. -->
 <!ENTITY featureConfigurator.addOn.alreadyInstalled "Tha an leudachan seo air a stàladh mu thràth.">
