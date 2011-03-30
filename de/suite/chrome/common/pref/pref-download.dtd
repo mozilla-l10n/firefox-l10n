@@ -32,5 +32,5 @@
 <!ENTITY showAlert.accesskey            "W">
 <!ENTITY browse.label                   "Durchsuchen…">
 <!ENTITY browse.accesskey               "D">
-<!ENTITY preview.label                  "Vorschau">
-<!ENTITY preview.accesskey              "V">
+<!ENTITY playButton.label               "Wiedergabe">
+<!ENTITY playButton.accesskey           "W">

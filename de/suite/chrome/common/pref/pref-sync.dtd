@@ -21,11 +21,13 @@
 <!ENTITY changePassword.label         "Passwort ändern">
 <!ENTITY changePassword.accesskey     "P">
 <!ENTITY mySyncKey.label              "Mein Sync-Schlüssel">
-<!ENTITY mySyncKey.accesskey          "A">
+<!ENTITY mySyncKey.accesskey          "M">
 <!ENTITY resetSync.label              "Sync zurücksetzen">
 <!ENTITY resetSync.accesskey          "k">
-<!ENTITY stopUsingAccount.label       "Diesen Account nicht mehr verwenden">
-<!ENTITY stopUsingAccount.accesskey   "D">
+<!ENTITY deactivateDevice.label       "Dieses Gerät deaktivieren">
+<!ENTITY deactivateDevice.accesskey   "D">
+<!ENTITY addDevice.label              "Gerät hinzufügen">
+<!ENTITY addDevice.accesskey          "h">
 
 <!-- Sync Settings -->
 <!ENTITY syncComputerName.label       "Computername:">
