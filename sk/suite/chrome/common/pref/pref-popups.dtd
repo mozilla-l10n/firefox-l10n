@@ -18,8 +18,8 @@
 
 <!ENTITY selectSound.label              "Prehľadávať…">
 <!ENTITY selectSound.accesskey          "r">
-<!ENTITY previewSound.label             "Ukážka">
-<!ENTITY previewSound.accesskey         "U">
+<!ENTITY playSoundButton.label          "Prehrať">
+<!ENTITY playSoundButton.accesskey      "h">
 <!ENTITY selectSound.title              "Výber zvuku pre blokovanie okien">
 <!ENTITY selectSound.filter             "Zvuky">
 
