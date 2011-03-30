@@ -26,8 +26,8 @@
 <!ENTITY neverRemove.label              "jamais">
 
 <!ENTITY finishedBehavior.label "Lorsqu'un téléchargement est terminé">
-<!ENTITY playSound.label "Jouer un son">
-<!ENTITY playSound.accesskey "o">
+<!ENTITY playButton.label "Jouer un son">
+<!ENTITY playButton.accesskey "o">
 <!ENTITY showAlert.label "Afficher un avertissement">
 <!ENTITY showAlert.accesskey "f">
 <!ENTITY browse.label "Parcourir…">

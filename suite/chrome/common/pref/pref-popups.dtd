@@ -18,8 +18,8 @@
 
 <!ENTITY selectSound.label "Parcourir…">
 <!ENTITY selectSound.accesskey "P">
-<!ENTITY previewSound.label "Aperçu">
-<!ENTITY previewSound.accesskey "u">
+<!ENTITY playSoundButton.label "Jouer le son">
+<!ENTITY playSoundButton.accesskey "u">
 <!ENTITY selectSound.title "Sélectionnez le son pour le blocage d'une fenêtre popup">
 <!ENTITY selectSound.filter "Sons">
 
