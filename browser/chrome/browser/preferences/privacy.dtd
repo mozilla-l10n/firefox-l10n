@@ -1,3 +1,8 @@
+<!ENTITY tracking.label                 "Sledovanie">
+
+<!ENTITY doNotTrack.label                "Požiadať webové stránky, aby nesledovali moju aktivitu">
+<!ENTITY doNotTrack.accesskey            "p">
+
 <!ENTITY  history.label                 "História">
 
 <!ENTITY  locationBar.label             "Panel s adresou">

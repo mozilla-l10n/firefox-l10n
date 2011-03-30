@@ -32,5 +32,5 @@
 <!ENTITY showAlert.accesskey            "b">
 <!ENTITY browse.label                   "Prehľadávať…">
 <!ENTITY browse.accesskey               "e">
-<!ENTITY preview.label                  "Ukážka">
-<!ENTITY preview.accesskey              "U">
+<!ENTITY playButton.label               "Prehrať">
+<!ENTITY playButton.accesskey           "r">

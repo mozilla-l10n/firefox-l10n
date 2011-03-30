@@ -20,11 +20,17 @@
 
 <!ENTITY featureConfigurator.toolbarBenefits.para "Tlačidlá slúžiace na vykonanie akcií so správami, ako napr. Odpovedať alebo Odoslať ďalej, boli presunuté z panela nástrojov na panel hlavičky správy. Týmto sú tlačidlá priamo prepojené so správou, vďaka čomu ostáva na paneli nástrojov viac miesta pre vyhľadávanie či doplnky.">
 
+<!-- LOCALIZATION NOTE (featureConfigurator.addOn.downloading): The text to display while downloading the addon. -->
+<!ENTITY featureConfigurator.addOn.downloading "Preberá sa…">
+
 <!-- LOCALIZATION NOTE (featureConfigurator.addOn.installing): The text to display while installing the addon. -->
 <!ENTITY featureConfigurator.addOn.installing "Inštaluje sa…">
 
 <!-- LOCALIZATION NOTE (featureConfigurator.addOn.installed): The text to display after the user installs the addon from the configurator. -->
 <!ENTITY featureConfigurator.addOn.installed "Nainštalované">
+
+<!-- LOCALIZATION NOTE (featureConfigurator.addOn.failure): The text to display when there is a problem installing the addon. -->
+<!ENTITY featureConfigurator.addOn.failure "Pri inštalácii tohto rozšírenia sa vyskytol problém!">
 
 <!-- LOCALIZATION NOTE (featureConfigurator.addOn.alreadyInstalled): The label to display when the addon is already installed. -->
 <!ENTITY featureConfigurator.addOn.alreadyInstalled "Toto rozšírenie je už nainštalované.">

@@ -54,6 +54,7 @@
 
 <!ENTITY window.title "Úprava filtra">
 
+<!ENTITY filterEditorDialog.dimensions "width: 105ch;">
 <!ENTITY filterName.label "Názov filtra:">
 <!ENTITY filterName.accesskey "N">
 

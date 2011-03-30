@@ -99,12 +99,15 @@
 <!ENTITY otherActionsPrint.label "tlačiť…">
 <!ENTITY otherActionsPrint.accesskey "t">
 
+<!-- Attachment context menu items -->
 <!ENTITY openAttachmentCmd.label "Otvoriť">
 <!ENTITY openAttachmentCmd.accesskey "O">
 <!ENTITY saveAsAttachmentCmd.label "Uložiť ako…">
 <!ENTITY saveAsAttachmentCmd.accesskey "a">
 <!ENTITY detachAttachmentCmd.label "Vyčleniť…">
+<!ENTITY detachAttachmentCmd.accesskey    "e">
 <!ENTITY deleteAttachmentCmd.label "Odstrániť">
+<!ENTITY deleteAttachmentCmd.accesskey    "s">
 <!ENTITY openAllAttachmentsCmd.label    "Otvoriť všetky prílohy…">
 <!ENTITY openAllAttachmentsCmd.accesskey    "O">
 <!ENTITY saveAllAttachmentsCmd.label "Uložiť všetky prílohy…">
@@ -113,6 +116,26 @@
 <!ENTITY detachAllAttachmentsCmd.accesskey "V">
 <!ENTITY deleteAllAttachmentsCmd.label "Odstrániť všetky prílohy…">
 <!ENTITY deleteAllAttachmentsCmd.accesskey "d">
+
+<!-- Attachment toolbar items -->
+<!ENTITY saveAttachmentButton.label       "uložiť">
+<!ENTITY saveAttachmentButton.tooltip     "uložiť priložený súbor">
+<!ENTITY saveAllAttachmentsButton.label   "uložiť všetky">
+<!ENTITY saveAllAttachmentsButton.tooltip "uložiť všetky priložené súbory">
+<!ENTITY openAttachmentMenuItem.label     "otvoriť">
+<!ENTITY openAttachmentMenuItem.accesskey    "o">
+<!ENTITY saveAsAttachmentMenuItem.label    "uložiť ako…">
+<!ENTITY saveAsAttachmentMenuItem.accesskey    "u">
+<!ENTITY detachAttachmentMenuItem.label    "vyčleniť…">
+<!ENTITY detachAttachmentMenuItem.accesskey    "v">
+<!ENTITY deleteAttachmentMenuItem.label    "odstrániť">
+<!ENTITY deleteAttachmentMenuItem.accesskey    "d">
+<!ENTITY saveAllAttachmentsMenuItem.label    "uložiť všetky prílohy…">
+<!ENTITY saveAllAttachmentsMenuItem.accesskey    "u">
+<!ENTITY detachAllAttachmentsMenuItem.label    "vyčleniť všetky prílohy…">
+<!ENTITY detachAllAttachmentsMenuItem.accesskey    "e">
+<!ENTITY deleteAllAttachmentsMenuItem.label    "odstrániť všetky prílohy…">
+<!ENTITY deleteAllAttachmentsMenuItem.accesskey    "s">
 
 <!ENTITY copyLinkCmd.label "Kopírovať adresu odkazu">
 <!ENTITY copyLinkCmd.accesskey "K">

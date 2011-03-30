@@ -46,8 +46,8 @@
 <!ENTITY showTrayIcon.accesskey           "Z">
 <!ENTITY bounceSystemDockIcon.label       "Animovať ikonu v docku">
 <!ENTITY bounceSystemDockIcon.accesskey   "A">
-<!ENTITY preview.label                    "Ukážka">
-<!ENTITY preview.accesskey                "U">
+<!ENTITY playButton.label                 "Prehrať">
+<!ENTITY playButton.accesskey             "r">
 <!ENTITY systemsound.label                "Predvolený systémový zvuk pre novú správu">
 <!ENTITY systemsound.accesskey            "s">
 <!ENTITY customsound.label                "Použiť nasledovný zvukový súbor">
