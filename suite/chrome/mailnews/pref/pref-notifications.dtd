@@ -46,8 +46,8 @@
 <!ENTITY showTrayIcon.accesskey "t">
 <!ENTITY bounceSystemDockIcon.label "Animovat ikonku v doku">
 <!ENTITY bounceSystemDockIcon.accesskey "A">
-<!ENTITY preview.label "Ukázka">
-<!ENTITY preview.accesskey "u">
+<!ENTITY playButton.label "Přehrát">
+<!ENTITY playButton.accesskey "e">
 <!ENTITY systemsound.label "Zvuk nové pošty v systému">
 <!ENTITY systemsound.accesskey "M">
 <!ENTITY customsound.label "Vlastní wav soubor">

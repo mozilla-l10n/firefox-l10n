@@ -18,8 +18,8 @@
 
 <!ENTITY selectSound.label "Procházet…">
 <!ENTITY selectSound.accesskey "P">
-<!ENTITY previewSound.label "Ukázka">
-<!ENTITY previewSound.accesskey "U">
+<!ENTITY playSoundButton.label "Přehrát">
+<!ENTITY playSoundButton.accesskey "e">
 <!ENTITY selectSound.title "Výběr zvuku">
 <!ENTITY selectSound.filter "Zvuky">
 

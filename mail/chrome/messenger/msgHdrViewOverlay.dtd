@@ -99,12 +99,15 @@
 <!ENTITY otherActionsPrint.label "tisknout">
 <!ENTITY otherActionsPrint.accesskey "t">
 
+<!-- Attachment context menu items -->
 <!ENTITY openAttachmentCmd.label "Otevřít">
 <!ENTITY openAttachmentCmd.accesskey "O">
 <!ENTITY saveAsAttachmentCmd.label "Uložit jako…">
 <!ENTITY saveAsAttachmentCmd.accesskey "j">
 <!ENTITY detachAttachmentCmd.label "Vyčlenit…">
+<!ENTITY detachAttachmentCmd.accesskey "V">
 <!ENTITY deleteAttachmentCmd.label "Smazat">
+<!ENTITY deleteAttachmentCmd.accesskey "m">
 <!ENTITY openAllAttachmentsCmd.label "Otevřít vše…">
 <!ENTITY openAllAttachmentsCmd.accesskey "t">
 <!ENTITY saveAllAttachmentsCmd.label "Uložit vše…">
@@ -113,6 +116,26 @@
 <!ENTITY detachAllAttachmentsCmd.accesskey "V">
 <!ENTITY deleteAllAttachmentsCmd.label "Smazat vše">
 <!ENTITY deleteAllAttachmentsCmd.accesskey "S">
+
+<!-- Attachment toolbar items -->
+<!ENTITY saveAttachmentButton.label "uložit">
+<!ENTITY saveAttachmentButton.tooltip "uloží soubor přílohy">
+<!ENTITY saveAllAttachmentsButton.label "uložit vše">
+<!ENTITY saveAllAttachmentsButton.tooltip "uloží všechny soubory přílohy">
+<!ENTITY openAttachmentMenuItem.label "otevřít">
+<!ENTITY openAttachmentMenuItem.accesskey "o">
+<!ENTITY saveAsAttachmentMenuItem.label "uložit jako…">
+<!ENTITY saveAsAttachmentMenuItem.accesskey "u">
+<!ENTITY detachAttachmentMenuItem.label "vyčlenit…">
+<!ENTITY detachAttachmentMenuItem.accesskey "v">
+<!ENTITY deleteAttachmentMenuItem.label "smazat">
+<!ENTITY deleteAttachmentMenuItem.accesskey "m">
+<!ENTITY saveAllAttachmentsMenuItem.label "uložit vše…">
+<!ENTITY saveAllAttachmentsMenuItem.accesskey "l">
+<!ENTITY detachAllAttachmentsMenuItem.label "vyčlenit vše…">
+<!ENTITY detachAllAttachmentsMenuItem.accesskey "y">
+<!ENTITY deleteAllAttachmentsMenuItem.label "smazat vše…">
+<!ENTITY deleteAllAttachmentsMenuItem.accesskey "s">
 
 <!ENTITY copyLinkCmd.label "Kopírovat adresu odkazu">
 <!ENTITY copyLinkCmd.accesskey "K">

@@ -24,8 +24,10 @@
 <!ENTITY mySyncKey.accesskey "k">
 <!ENTITY resetSync.label "Změnit typ synchronizace">
 <!ENTITY resetSync.accesskey "m">
-<!ENTITY stopUsingAccount.label "Přestat používat tento účet">
-<!ENTITY stopUsingAccount.accesskey "P">
+<!ENTITY deactivateDevice.label "Odpojit toto zařízení">
+<!ENTITY deactivateDevice.accesskey "O">
+<!ENTITY addDevice.label "Přidat zařízení">
+<!ENTITY addDevice.accesskey "P">
 
 <!-- Sync Settings -->
 <!ENTITY syncComputerName.label "Název počítače:">

@@ -32,5 +32,5 @@
 <!ENTITY showAlert.accesskey "Z">
 <!ENTITY browse.label "Procházet…">
 <!ENTITY browse.accesskey "P">
-<!ENTITY preview.label "Test">
-<!ENTITY preview.accesskey "T">
+<!ENTITY playButton.label "Přehrát">
+<!ENTITY playButton.accesskey "e">
