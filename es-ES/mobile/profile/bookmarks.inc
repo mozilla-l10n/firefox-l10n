@@ -24,7 +24,7 @@
 #define bookmarks_addons Firefox: Personalícelo con complementos
 
 # LOCALIZATION NOTE (bookmarks_support):
-# link title for https://mobile.support.mozilla.com
+# link title for https://support.mozilla.com/mobile
 #define bookmarks_support Firefox: Asistencia
 
 # LOCALIZATION NOTE (bookmarks_aboutHome):

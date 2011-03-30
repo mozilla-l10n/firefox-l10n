@@ -75,6 +75,7 @@
 <!ENTITY contextSaveImage.label "Guardar imagen">
 <!ENTITY contextShareLink.label "Compartir enlace">
 <!ENTITY contextShareImage.label "Compartir imagen">
+<!ENTITY contextBookmarkLink.label "Enlace al marcador">
 <!ENTITY contextSaveVideo.label "Guardar vídeo">
 <!ENTITY contextShareVideo.label "Compartir vídeo">
 <!ENTITY contextPlayMedia.label "Reproducir">
