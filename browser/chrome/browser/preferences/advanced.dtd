@@ -15,8 +15,6 @@
 <!ENTITY allowHWAccel.accesskey "h">
 <!ENTITY checkSpelling.label "Controllo ortografico durante la digitazione">
 <!ENTITY checkSpelling.accesskey "C">
-<!ENTITY doNotTrack.label "Attiva l'opzione anti-tracciamento dei dati personali">
-<!ENTITY doNotTrack.accesskey "z">
 <!ENTITY systemDefaults.label "Impostazioni predefinite">
 <!ENTITY alwaysCheckDefault.label "Controlla sempre all'avvio se &brandShortName; è il browser predefinito">
 <!ENTITY alwaysCheckDefault.accesskey "t">
