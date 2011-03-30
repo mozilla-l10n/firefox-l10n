@@ -1,3 +1,5 @@
+<!ENTITY filterEditorDialog.dimensions "width: 128ch;"><!-- en-US: 100ch -->
+
 <!ENTITY window.title             "Edycja filtru">
 <!ENTITY filterName.label         "Nazwa filtru:">
 <!ENTITY filterName.accesskey     "N">
