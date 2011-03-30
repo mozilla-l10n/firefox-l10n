@@ -4,22 +4,24 @@
 
 <!ENTITY setup.pickSetupType.description "Bienvenue, si vous n'avez jamais utilisé &syncBrand.fullName.label; auparavant, vous devrez créer un nouveau compte.">
 <!ENTITY button.createNewAccount.label "Créer un nouveau compte">
-<!ENTITY button.haveAccount.label "J'ai déjà un compte &syncBrand.fullName.label;.">
+<!ENTITY setup.haveAccount.label "J'ai déjà un compte &syncBrand.fullName.label;.">
 
 <!ENTITY setup.choicePage.title.label     "Avez-vous déjà utilisé &syncBrand.fullName.label; ?">
 <!ENTITY setup.choicePage.new.label       "Je n'ai jamais utilisé &syncBrand.shortName.label;">
 <!ENTITY setup.choicePage.existing.label  "J'utilise déjà &syncBrand.shortName.label; sur un autre ordinateur">
+<!ENTITY button.connect.label "Se connecter">
 
 <!-- New Account AND Existing Account -->
 <!ENTITY server.label               "Serveur">
+<!ENTITY server.accesskey           "S">
 <!ENTITY serverType.main.label      "Serveur &syncBrand.fullName.label;">
-<!ENTITY serverType.custom.label   "Utiliser un serveur personnalisé…">
-<!ENTITY signIn.account.label      "Compte">
-<!ENTITY signIn.account.accesskey  "o">
+<!ENTITY serverType.custom2.label   "Utiliser un serveur personnalisé…">
+<!ENTITY signIn.account2.label      "Compte">
+<!ENTITY signIn.account2.accesskey  "o">
 <!ENTITY signIn.password.label      "Mot de passe">
 <!ENTITY signIn.password.accesskey  "p">
-<!ENTITY signIn.serverURL.label     "URL du serveur">
-<!ENTITY signIn.serverURL.accesskey "U">
+<!ENTITY signIn.syncKey.label       "Clé de synchronisation">
+<!ENTITY signIn.syncKey.accesskey   "C">
 
 <!-- New Account Page 1: Basic Account Info -->
 <!ENTITY setup.newAccountDetailsPage.title.label "Détails du compte">
@@ -54,17 +56,25 @@
 <!-- New Account Page 3: Captcha -->
 <!ENTITY setup.captchaPage2.title.label     "Veuillez confirmer que vous n'êtes pas un robot">
 
-<!-- Existing Account Page 1: Login -->
-<!ENTITY setup.existingAccount.title.label "Saisir les informations de compte">
-<!ENTITY resetPassword.label          "Réinitialiser le mot de passe">
-<!ENTITY connecting.label             "Connexion en cours…">
+<!-- Existing Account Page 1: Add Device (incl. Add a Device dialog strings) -->
+<!ENTITY addDevice.title.label              "Ajouter un appareil">
+<!ENTITY addDevice.showMeHow.label          "Me montrer comment faire.">
+<!ENTITY addDevice.dontHaveDevice.label     "Je n'ai pas l'appareil sous la main">
+<!ENTITY addDevice.setup.description.label  "Pour l'activation, rendez-vous dans le menu « Préférences/Options » de &syncBrand.shortName.label; à partir de votre autre appareil et sélectionnez « Ajouter un appareil ».">
+<!ENTITY addDevice.setup.enterCode.label    "Puis, saisissez ce code :">
+<!ENTITY addDevice.dialog.description.label "Pour activer votre nouvel appareil, rendez-vous dans le menu « Préférences/Options » de &syncBrand.shortName.label; sur cet appareil et sélectionnez « Se connecter ».">
+<!ENTITY addDevice.dialog.enterCode.label   "Saisissez le code fourni par votre appareil :">
+<!ENTITY addDevice.dialog.tryAgain.label    "Veuillez essayer à nouveau.">
+<!ENTITY addDevice.dialog.successful.label  "L'appareil a été ajouté avec succès. La synchronisation initiale peut prendre plusieurs minutes et se terminer en arrière-plan.">
+<!ENTITY addDevice.dialog.syncKey.label     "Pour activer votre appareil, vous devrez saisir votre clé de synchronisation. Veuillez imprimer ou enregistrer cette clé et la conserver avec vous.">
+<!ENTITY addDevice.dialog.connected.label   "Appareil connecté">
 
-<!-- Existing Account Page 2: Sync Key -->
-<!ENTITY setup.existingSyncKeyPage.title "Veuillez saisir votre clé de synchronisation">
-<!ENTITY setup.existingSyncKeyPage.description "La clé de synchronisation a été générée automatiquement ou vous l'avez saisie lors de votre souscription à &syncBrand.fullName.label;. Ce n'est pas votre mot de passe.">
-<!ENTITY existingSyncKeyHelp.description "Vous pouvez retrouver votre clé de synchronisation sur votre autre ordinateur en consultant les mots de passe enregistrés dans l'onglet « Sécurité ». Si vous ne pouvez pas retrouver la clé de synchronisation correcte, vous pouvez choisir de la réinitialiser, mais vous perdrez toutes les données stockées sur le serveur.">
-<!ENTITY lostSyncKey.label               "J'ai perdu ma clé de synchronisation">
-<!ENTITY verifying.label                 "Vérification…">
+<!-- Existing Account Page 2: Manual Login -->
+<!ENTITY setup.signInPage.title.label "S'abonner">
+<!ENTITY existingSyncKey.description  "Vous pouvez obtenir une copie de votre clé de synchronisation en vous rendant dans le menu « Préférences/Options » de &syncBrand.shortName.label; sur votre autre appareil puis sélectionnez « Ma clé de synchronisation » dans« Gérer le compte ».">
+<!ENTITY verifying.label              "Vérification en cours…">
+<!ENTITY resetPassword.label          "Réinitialiser le mot de passe">
+<!ENTITY resetSyncKey.label           "J'ai perdu mon autre appareil.">
 
 <!-- Sync Options -->
 <!ENTITY setup.optionsPage.title      "Options de synchronisation">
