@@ -18,8 +18,8 @@
 
 <!ENTITY selectSound.label              "Durchsuchen…">
 <!ENTITY selectSound.accesskey          "D">
-<!ENTITY previewSound.label             "Vorschau">
-<!ENTITY previewSound.accesskey         "V">
+<!ENTITY playSoundButton.label          "Wiedergabe">
+<!ENTITY playSoundButton.accesskey      "W">
 <!ENTITY selectSound.title              "Pop-up-Blockier-Klang auswählen">
 <!ENTITY selectSound.filter             "Klänge">
 

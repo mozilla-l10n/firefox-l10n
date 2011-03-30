@@ -8,12 +8,12 @@
 -->
 <!ENTITY imageDetails                   "Geben Sie an, wie &brandShortName; Grafiken behandelt.">
 
-<!ENTITY accAllImagesRadio.label        "Alle Grafiken akzeptieren">
-<!ENTITY accAllImagesRadio.accesskey    "A">
-<!ENTITY accOrgImagesRadio.label        "Nur Grafiken akzeptieren, die vom Ursprungsserver kommen">
-<!ENTITY accOrgImagesRadio.accesskey    "u">
-<!ENTITY disableImages.label            "Keine Grafiken laden">
-<!ENTITY disableImages.accesskey        "K">
+<!ENTITY loadAllImagesRadio.label       "Alle Grafiken laden">
+<!ENTITY loadAllImagesRadio.accesskey   "A">
+<!ENTITY loadOrgImagesRadio.label       "Nur Grafiken laden, die vom Ursprungsserver kommen">
+<!ENTITY loadOrgImagesRadio.accesskey   "u">
+<!ENTITY loadNoImagesRadio.label        "Keine Grafiken laden">
+<!ENTITY loadNoImagesRadio.accesskey    "K">
 <!ENTITY viewPermissions.label          "Berechtigungen verwalten">
 <!ENTITY viewPermissions.accesskey      "B">
 <!ENTITY animLoopingTitle.label         "Wiederholen von animierten Grafiken">

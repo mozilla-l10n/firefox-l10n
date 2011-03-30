@@ -4,7 +4,8 @@
 
 <!ENTITY setup.pickSetupType.description "Willkommen! Wenn Sie &syncBrand.fullName.label; bisher noch nicht genutzt haben, müssen Sie einen neuen Account anlegen.">
 <!ENTITY button.createNewAccount.label "Neuen Account anlegen">
-<!ENTITY button.haveAccount.label "Ich habe schon einen &syncBrand.fullName.label;-Account">
+<!ENTITY setup.haveAccount.label "Ich habe schon einen &syncBrand.fullName.label;-Account">
+<!ENTITY button.connect.label "Verbinden">
 
 <!ENTITY setup.choicePage.title.label     "Sind Sie bereits Nutzer von &syncBrand.fullName.label;?">
 <!ENTITY setup.choicePage.new.label       "Ich habe &syncBrand.shortName.label; bisher noch nicht verwendet">
@@ -12,14 +13,15 @@
 
 <!-- New Account AND Existing Account -->
 <!ENTITY server.label               "Server">
+<!ENTITY server.accesskey           "S">
 <!ENTITY serverType.main.label      "&syncBrand.fullName.label;-Server">
-<!ENTITY serverType.custom.label    "Eigenen Server verwenden">
-<!ENTITY signIn.account.label       "Account">
-<!ENTITY signIn.account.accesskey   "A">
+<!ENTITY serverType.custom2.label   "Eigenen Server verwenden…">
+<!ENTITY signIn.account2.label      "Account">
+<!ENTITY signIn.account2.accesskey  "A">
 <!ENTITY signIn.password.label      "Passwort">
 <!ENTITY signIn.password.accesskey  "P">
-<!ENTITY signIn.serverURL.label     "Server-URL">
-<!ENTITY signIn.serverURL.accesskey "S">
+<!ENTITY signIn.syncKey.label       "Sync-Schlüssel">
+<!ENTITY signIn.syncKey.accesskey   "y">
 
 <!-- New Account Page 1: Basic Account Info -->
 <!ENTITY setup.newAccountDetailsPage.title.label "Account-Details">
@@ -54,17 +56,25 @@
 <!-- New Account Page 3: Captcha -->
 <!ENTITY setup.captchaPage2.title.label     "Bitte bestätigen Sie, dass Sie kein Roboter sind">
 
-<!-- Existing Account Page 1: Login -->
-<!ENTITY setup.existingAccount.title.label "Account-Informationen eingeben">
-<!ENTITY resetPassword.label          "Passwort zurücksetzen">
-<!ENTITY connecting.label             "Verbinden…">
+<!-- Existing Account Page 1: Add Device (incl. Add a Device dialog strings) -->
+<!ENTITY addDevice.title.label              "Gerät hinzufügen">
+<!ENTITY addDevice.showMeHow.label          "Anleitung">
+<!ENTITY addDevice.dontHaveDevice.label     "Ich habe das Gerät nicht bei mir">
+<!ENTITY addDevice.setup.description.label  "Zum Aktivieren gehen Sie in die &syncBrand.shortName.label;-Einstellungen auf Ihrem anderen Gerät, und wählen Sie &quot;Gerät hinzufügen&quot;.">
+<!ENTITY addDevice.setup.enterCode.label    "Geben Sie dann folgenden Code ein:">
+<!ENTITY addDevice.dialog.description.label "Um Ihr neues Gerät zu aktivieren, gehen Sie in die &syncBrand.shortName.label;-Einstellungen am Gerät und wählen Sie &quot;Verbinden&quot;.">
+<!ENTITY addDevice.dialog.enterCode.label   "Geben Sie den Code ein, den das Gerät anzeigt:">
+<!ENTITY addDevice.dialog.tryAgain.label    "Bitte versuchen Sie es erneut.">
+<!ENTITY addDevice.dialog.successful.label  "Das Gerät wurde erfolgreich hinzugefügt. Die erste Synchronisation kann mehrere Minuten in Anspruch nehmen und wird im Hintergrund abgeschlossen.">
+<!ENTITY addDevice.dialog.syncKey.label     "Um Ihr Gerät zu aktivieren, benötigen Sie den Sync-Schlüssel. Bitte drucken oder sichern Sie diesen Schlüssel und nehmen Sie ihn mit sich.">
+<!ENTITY addDevice.dialog.connected.label   "Gerät angeschlossen">
 
-<!-- Existing Account Page 2: Sync Key -->
-<!ENTITY setup.existingSyncKeyPage.title "Bitte geben Sie Ihren Sync-Schlüssel ein">
-<!ENTITY setup.existingSyncKeyPage.description "Der Sync-Schlüssel wurde für Sie generiert oder Sie haben Ihren eigenen angegeben, als Sie sich das erste Mal für &syncBrand.fullName.label; angemeldet haben. Er ist nicht das gleiche wie Ihr Passwort.">
-<!ENTITY existingSyncKeyHelp.description "Um eine Kopie Ihres Sync-Schlüssels zu erhalten, gehen Sie in die &syncBrand.shortName.label;-Einstellungen auf Ihrem anderen Gerät, und wählen Sie &#x0022;Mein Sync-Schlüssel&#x0022; unter &#x0022;Account verwalten&#x0022;.">
-<!ENTITY lostSyncKey.label            "Ich habe meinen Sync-Schlüssel verloren">
+<!-- Existing Account Page 2: Manual Login -->
+<!ENTITY setup.signInPage.title.label "Anmeldung">
+<!ENTITY existingSyncKey.description  "Um eine Kopie Ihres Sync-Schlüssels zu erhalten, gehen Sie in die &syncBrand.shortName.label;-Einstellungen auf Ihrem anderen Gerät, und wählen Sie &quot;Mein Sync-Schlüssel&quot; unter &quot;Account verwalten&quot;.">
 <!ENTITY verifying.label              "Überprüfen…">
+<!ENTITY resetPassword.label          "Passwort zurücksetzen">
+<!ENTITY resetSyncKey.label           "Ich habe mein anderes Gerät verloren.">
 
 <!-- Sync Options -->
 <!ENTITY setup.optionsPage.title      "Sync-Einstellungen">

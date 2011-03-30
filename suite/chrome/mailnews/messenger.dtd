@@ -364,8 +364,8 @@
 <!ENTITY copyMessageLocation.accesskey "N">
 <!ENTITY copyMsgToMenu.label "Kopieren in">
 <!ENTITY copyMsgToMenu.accesskey "K">
-<!ENTITY moveCopyMsgRecentMenu.label "Zuletzt verwendet">
-<!ENTITY moveCopyMsgRecentMenu.accesskey "Z">
+<!ENTITY moveCopyMsgRecentMenu.label "Kürzlich verwendet">
+<!ENTITY moveCopyMsgRecentMenu.accesskey "K">
 <!ENTITY killThreadMenu.label "Thread ignorieren">
 <!ENTITY killThreadMenu.accesskey "T">
 <!ENTITY killThreadMenu.key "k">
@@ -537,8 +537,8 @@
 <!ENTITY contextMoveMsgMenu.accesskey "V">
 <!ENTITY contextCopyMsgMenu.label "Kopieren in">
 <!ENTITY contextCopyMsgMenu.accesskey "K">
-<!ENTITY contextMoveCopyMsgRecentMenu.label "Zuletzt verwendet">
-<!ENTITY contextMoveCopyMsgRecentMenu.accesskey "Z">
+<!ENTITY contextMoveCopyMsgRecentMenu.label "Kürzlich verwendet">
+<!ENTITY contextMoveCopyMsgRecentMenu.accesskey "K">
 <!ENTITY contextSaveAs.label "Speichern unter…">
 <!ENTITY contextSaveAs.accesskey "S">
 <!ENTITY contextPrint.label "Drucken…">
