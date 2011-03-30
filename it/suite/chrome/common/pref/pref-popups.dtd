@@ -8,13 +8,13 @@
 <!ENTITY playSound.label "Riproduci un suono:">
 <!ENTITY playSound.accesskey "R">
 <!ENTITY systemSound.label "Suono di sistema">
-<!ENTITY systemSound.accesskey "u">
+<!ENTITY systemSound.accesskey "n">
 <!ENTITY customSound.label "File .wav personalizzato">
 <!ENTITY customSound.accesskey "F">
 <!ENTITY selectSound.label "Sfoglia…">
 <!ENTITY selectSound.accesskey "S">
-<!ENTITY previewSound.label "Anteprima">
-<!ENTITY previewSound.accesskey "n">
+<!ENTITY playSoundButton.label "Riproduci">
+<!ENTITY playSoundButton.accesskey "u">
 <!ENTITY selectSound.title "Seleziona suono per pop-up bloccato">
 <!ENTITY selectSound.filter "Suoni">
 <!ENTITY displayIcon.label "Visualizza una icona nella barra di stato del browser">

@@ -10,8 +10,8 @@
 <!ENTITY showTrayIcon.accesskey "o">
 <!ENTITY bounceSystemDockIcon.label "Anima l'icona Dock">
 <!ENTITY bounceSystemDockIcon.accesskey "k">
-<!ENTITY preview.label "Anteprima">
-<!ENTITY preview.accesskey "A">
+<!ENTITY playButton.label "Riproduci">
+<!ENTITY playButton.accesskey "u">
 <!ENTITY systemsound.label "Suono predefinito di sistema per la notifica di nuova posta">
 <!ENTITY systemsound.accesskey "d">
 <!ENTITY customsound.label "File .wav personalizzato">
