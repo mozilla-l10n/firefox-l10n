@@ -1,3 +1,8 @@
+<!ENTITY tracking.label "Tracking">
+
+<!ENTITY doNotTrack.label "Sitelere izlenmek istemediğimi söyle">
+<!ENTITY doNotTrack.accesskey "z">
+
 <!ENTITY history.label "Geçmiş">
 
 <!ENTITY locationBar.label "Konum çubuğu">
@@ -29,7 +34,6 @@
 
 <!ENTITY showCookies.label "Çerezleri göster…">
 <!ENTITY showCookies.accesskey "z">
-
 
 <!ENTITY historyHeader.pre.label "&brandShortName; uygulaması:">
 <!ENTITY historyHeader.pre.accesskey "u">

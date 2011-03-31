@@ -92,19 +92,22 @@
 <!ENTITY markAsReadMenuItem.accesskey "O">
 <!ENTITY markAsUnreadMenuItem.label "Okunmamış olarak işaretle">
 <!ENTITY markAsUnreadMenuItem.accesskey "n">
-<!ENTITY saveAsMenuItem.label "Farklı kaydet…">
-<!ENTITY saveAsMenuItem.accesskey "F">
+<!ENTITY saveAsMenuItem.label "save as…">
+<!ENTITY saveAsMenuItem.accesskey "s">
 <!ENTITY viewSourceMenuItem.label "Kaynağını göster">
 <!ENTITY viewSourceMenuItem.accesskey "K">
 <!ENTITY otherActionsPrint.label "Yazdır…">
 <!ENTITY otherActionsPrint.accesskey "r">
+<!-- Attachment context menu items -->
 
 <!ENTITY openAttachmentCmd.label "Aç">
 <!ENTITY openAttachmentCmd.accesskey "A">
 <!ENTITY saveAsAttachmentCmd.label "Farklı kaydet…">
 <!ENTITY saveAsAttachmentCmd.accesskey "a">
-<!ENTITY detachAttachmentCmd.label "Çıkart…">
-<!ENTITY deleteAttachmentCmd.label "Sil">
+<!ENTITY detachAttachmentCmd.label "Detach…">
+<!ENTITY detachAttachmentCmd.accesskey "T">
+<!ENTITY deleteAttachmentCmd.label "Delete">
+<!ENTITY deleteAttachmentCmd.accesskey "L">
 <!ENTITY openAllAttachmentsCmd.label "Tümünü aç...">
 <!ENTITY openAllAttachmentsCmd.accesskey "n">
 <!ENTITY saveAllAttachmentsCmd.label "Tümünü kaydet…">
@@ -113,6 +116,26 @@
 <!ENTITY detachAllAttachmentsCmd.accesskey "T">
 <!ENTITY deleteAllAttachmentsCmd.label "Tümünü sil…">
 <!ENTITY deleteAllAttachmentsCmd.accesskey "m">
+<!-- Attachment toolbar items -->
+
+<!ENTITY saveAttachmentButton.label "save">
+<!ENTITY saveAttachmentButton.tooltip "save the attached file">
+<!ENTITY saveAllAttachmentsButton.label "save all">
+<!ENTITY saveAllAttachmentsButton.tooltip "save all the attached files">
+<!ENTITY openAttachmentMenuItem.label "open">
+<!ENTITY openAttachmentMenuItem.accesskey "o">
+<!ENTITY saveAsAttachmentMenuItem.label "save as…">
+<!ENTITY saveAsAttachmentMenuItem.accesskey "s">
+<!ENTITY detachAttachmentMenuItem.label "detach…">
+<!ENTITY detachAttachmentMenuItem.accesskey "d">
+<!ENTITY deleteAttachmentMenuItem.label "delete">
+<!ENTITY deleteAttachmentMenuItem.accesskey "e">
+<!ENTITY saveAllAttachmentsMenuItem.label "save all…">
+<!ENTITY saveAllAttachmentsMenuItem.accesskey "s">
+<!ENTITY detachAllAttachmentsMenuItem.label "detach all…">
+<!ENTITY detachAllAttachmentsMenuItem.accesskey "d">
+<!ENTITY deleteAllAttachmentsMenuItem.label "delete all…">
+<!ENTITY deleteAllAttachmentsMenuItem.accesskey "e">
 
 <!ENTITY copyLinkCmd.label "Bağlantı konumunu kopyala">
 <!ENTITY copyLinkCmd.accesskey "k">

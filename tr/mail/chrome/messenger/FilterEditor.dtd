@@ -1,5 +1,5 @@
 <!ENTITY window.title "Süzgeç kuralları">
-
+<!ENTITY filterEditorDialog.dimensions "width: 100ch;">
 <!ENTITY filterName.label "Süzgeç ismi:">
 <!ENTITY filterName.accesskey "S">
 

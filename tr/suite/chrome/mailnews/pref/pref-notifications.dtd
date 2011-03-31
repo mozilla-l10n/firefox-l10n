@@ -46,8 +46,8 @@
 <!ENTITY showTrayIcon.accesskey "t">
 <!ENTITY bounceSystemDockIcon.label "Küçük simgeyi oynat">
 <!ENTITY bounceSystemDockIcon.accesskey "o">
-<!ENTITY preview.label "Önizleme">
-<!ENTITY preview.accesskey "z">
+<!ENTITY playButton.label "Play">
+<!ENTITY playButton.accesskey "l">
 <!ENTITY systemsound.label "Sistem yeni posta sesi">
 <!ENTITY systemsound.accesskey "S">
 <!ENTITY customsound.label "Özel ses dosyası">

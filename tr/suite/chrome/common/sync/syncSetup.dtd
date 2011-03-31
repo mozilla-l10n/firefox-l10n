@@ -4,22 +4,24 @@
 
 <!ENTITY setup.pickSetupType.description "Hoş geldiniz, daha önce hiç &syncBrand.fullName.label; kullanmadıysanız yeni bir hesap açmanız gerekecek.">
 <!ENTITY button.createNewAccount.label "Yeni hesap aç">
-<!ENTITY button.haveAccount.label "I Have a &syncBrand.fullName.label; Account">
+<!ENTITY setup.haveAccount.label "I already have a &syncBrand.fullName.label; account.">
+<!ENTITY button.connect.label "Bağlan">
 
 <!ENTITY setup.choicePage.title.label "Daha önce &syncBrand.fullName.label; kullandınız mı?">
 <!ENTITY setup.choicePage.new.label "Daha önce hiç &syncBrand.shortName.label; kullanmadım">
 <!ENTITY setup.choicePage.existing.label "Başka bir bilgisayarda &syncBrand.shortName.label; kullanıyorum">
 <!-- New Account AND Existing Account -->
 
-<!ENTITY server.label "Sunucu">
+<!ENTITY server.label "Server">
+<!ENTITY server.accesskey "S">
 <!ENTITY serverType.main.label "&syncBrand.fullName.label; sunucusu">
-<!ENTITY serverType.custom.label "Use a custom server">
-<!ENTITY signIn.account.label "E-posta adresi / Kullanıcı adı">
-<!ENTITY signIn.account.accesskey "E">
+<!ENTITY serverType.custom2.label "Use a custom server…">
+<!ENTITY signIn.account2.label "Hesap">
+<!ENTITY signIn.account2.accesskey "a">
 <!ENTITY signIn.password.label "Parola">
 <!ENTITY signIn.password.accesskey "P">
-<!ENTITY signIn.serverURL.label "Server URL">
-<!ENTITY signIn.serverURL.accesskey "S">
+<!ENTITY signIn.syncKey.label "Sync anahtarı">
+<!ENTITY signIn.syncKey.accesskey "h">
 <!-- New Account Page 1: Basic Account Info -->
 
 <!ENTITY setup.newAccountDetailsPage.title.label "Hesap ayrıntıları">
@@ -53,18 +55,26 @@
 <!-- New Account Page 3: Captcha -->
 
 <!ENTITY setup.captchaPage2.title.label "Lütfen robot olmadığınızı kanıtlayın">
-<!-- Existing Account Page 1: Login -->
+<!-- Existing Account Page 1: Add Device (incl. Add a Device dialog strings) -->
 
-<!ENTITY setup.existingAccount.title.label "Hesap bilgilerini girin">
-<!ENTITY resetPassword.label "Parolayı sıfırla">
-<!ENTITY connecting.label "Bağlanıyor...">
-<!-- Existing Account Page 2: Sync Key -->
+<!ENTITY addDevice.title.label "Aygıt ekle">
+<!ENTITY addDevice.showMeHow.label "Nasıl yapılacağını göster.">
+<!ENTITY addDevice.dontHaveDevice.label "Aygıt yanımda değil">
+<!ENTITY addDevice.setup.description.label "To activate, go to &syncBrand.shortName.label; Preferences/Options on your other device and select &#x0022;Add a Device&#x0022;.">
+<!ENTITY addDevice.setup.enterCode.label "Ardından bu kodu girin:">
+<!ENTITY addDevice.dialog.description.label "To activate your new device, go to &syncBrand.shortName.label; Preferences/Options on the device and select &#x0022;Connect.&#x0022;">
+<!ENTITY addDevice.dialog.enterCode.label "Aygıtın verdiği kodu girin:">
+<!ENTITY addDevice.dialog.tryAgain.label "Lütfen tekrar deneyin.">
+<!ENTITY addDevice.dialog.successful.label "Aygıt başarıyla eklendi. Arkaplanda yapılacak ilk eşitleme birkaç dakika sürebilir.">
+<!ENTITY addDevice.dialog.syncKey.label "Aygıtınızı etkinleştirmek için Sync anahtarınızı girmeniz gerek. Lütfen beraberinizde taşımak için bu anahtarı ya yazdırın ya da kaydedin.">
+<!ENTITY addDevice.dialog.connected.label "Aygıt bağlandı">
+<!-- Existing Account Page 2: Manual Login -->
 
-<!ENTITY setup.existingSyncKeyPage.title "Sync anahtarınızı girin">
-<!ENTITY setup.existingSyncKeyPage.description "&syncBrand.fullName.label; kaydı sırasında sizin için Sync anahtarı üretildi veya kendiniz girdiniz. Bu, parolanızla aynı değildir.">
-<!ENTITY existingSyncKeyHelp.description "Başka bilgisayarınızdaki Güvenlik bölümüne girip kayıtlı parolalara bakarak kayıtlı Sync anahtarınızı bulabilirsiniz. Sync anahtarınızı bulamıyorsanız sıfırlayabilirsiniz, ancak sunucuda kayıtlı tüm verileriniz kaybolacaktır.">
-<!ENTITY lostSyncKey.label "Sync anahtarımı kaybettim">
+<!ENTITY setup.signInPage.title.label "Oturum aç">
+<!ENTITY existingSyncKey.description "You can get a copy of your Sync Key by going to &syncBrand.shortName.label; Preferences/Options on your other device, and selecting &#x0022;My Sync Key&#x0022; under &#x0022;Manage Account&#x0022;.">
 <!ENTITY verifying.label "Doğrulanıyor...">
+<!ENTITY resetPassword.label "Parolayı sıfırla">
+<!ENTITY resetSyncKey.label "Diğer aygıtımı kaybettim.">
 <!-- Sync Options -->
 
 <!ENTITY setup.optionsPage.title "Sync seçenekleri">
