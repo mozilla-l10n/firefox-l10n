@@ -75,6 +75,8 @@
 <!ENTITY helpTroubleshootingInfo.accesskey "I">
 <!ENTITY releaseCmd.label "Notes de version">
 <!ENTITY releaseCmd.accesskey "N">
+<!ENTITY helpSafeMode.label "Redémarrer avec les modules désactivés">
+<!ENTITY helpSafeMode.accesskey "R">
 <!ENTITY updateCmd.label "Rechercher des mises à jour…">
 <!ENTITY updateCmd.accesskey "h">
 <!ENTITY aboutCmd.label "À propos de &brandShortName;">
