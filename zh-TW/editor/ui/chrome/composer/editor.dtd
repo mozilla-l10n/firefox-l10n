@@ -58,3 +58,27 @@
 <!-- Format menu items -->
 <!ENTITY formatMenu.label "格式">
 <!ENTITY formatMenu.accesskey "o">
+
+<!-- Display Mode toolbar and View menu items -->
+<!ENTITY NormalModeTab.label "標準">
+<!ENTITY NormalMode.label "標準編輯模式">
+<!ENTITY NormalMode.accesskey "N">
+<!ENTITY NormalMode.tooltip "顯示表格框線與錨點">
+<!ENTITY AllTagsModeTab.label "HTML 標籤">
+<!ENTITY AllTagsMode.label "HTML 標籤">
+<!ENTITY AllTagsMode.accesskey "a">
+<!ENTITY AllTagsMode.tooltip "顯示所有 HTML 標籤的圖示">
+<!-- LOCALIZATION NOTE: (HTMLSourceModeTab.dir, HTMLSourceModeTab.label)
+     Do NOT translate text for 'HTMLSourceModeTab.dir', use latin "ltr" if
+     you want the <html> image to left of the 'HTMLSourceModeTab.label' text,
+     or use latin "rtl" if you want this image to the right of text. You do
+     not need to include HTML in the label 'HTMLSourceModeTab.label' -->
+<!ENTITY HTMLSourceModeTab.dir "ltr">
+<!ENTITY HTMLSourceModeTab.label "原始碼">
+<!ENTITY HTMLSourceMode.label "HTML 原始碼">
+<!ENTITY HTMLSourceMode.accesskey "H">
+<!ENTITY HTMLSourceMode.tooltip "編輯 HTML 原始碼">
+<!ENTITY PreviewModeTab.label "預覽">
+<!ENTITY PreviewMode.label "預覽">
+<!ENTITY PreviewMode.accesskey "P">
+<!ENTITY PreviewMode.tooltip "所視即所得(WYSIWYG)(如同在瀏覽器裡顯示)">
