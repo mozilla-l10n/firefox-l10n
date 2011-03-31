@@ -74,6 +74,8 @@
 <!ENTITY helpTroubleshootingInfo.accesskey "T">
 <!ENTITY releaseCmd.label "Sürüm notları">
 <!ENTITY releaseCmd.accesskey "r">
+<!ENTITY helpSafeMode.label "Restart with Add-ons Disabled">
+<!ENTITY helpSafeMode.accesskey "R">
 <!ENTITY updateCmd.label "Check for Updates…">
 <!ENTITY updateCmd.accesskey "C">
 <!ENTITY aboutCmd.label "About &brandShortName;">

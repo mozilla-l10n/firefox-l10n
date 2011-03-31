@@ -18,8 +18,8 @@
 
 <!ENTITY selectSound.label "Gözat…">
 <!ENTITY selectSound.accesskey "z">
-<!ENTITY previewSound.label "Önizleme">
-<!ENTITY previewSound.accesskey "z">
+<!ENTITY playSoundButton.label "Play">
+<!ENTITY playSoundButton.accesskey "l">
 <!ENTITY selectSound.title "Select Popup Block Sound">
 <!ENTITY selectSound.filter "Sounds">
 
