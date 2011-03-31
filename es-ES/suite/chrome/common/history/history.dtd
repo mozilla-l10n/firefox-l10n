@@ -5,11 +5,11 @@
 <!ENTITY search.key "b">
 <!ENTITY view.label "Ver">
 <!ENTITY view.columns.label "Mostrar columnas">
-<!ENTITY view.columns.accesskey "C">
+<!ENTITY view.columns.accesskey "M">
 <!ENTITY view.sortBy.label "Ordenar por">
 <!ENTITY view.sortBy.accesskey "O">
 <!ENTITY view.groupBy.label "Agrupar por">
-<!ENTITY view.groupBy.accesskey "u">
+<!ENTITY view.groupBy.accesskey "A">
 <!ENTITY view.unsorted.label "Sin ordenar">
 <!ENTITY view.unsorted.accesskey "i">
 <!ENTITY view.sortAscending.label "Ordenar A > Z">
@@ -37,8 +37,8 @@
 <!ENTITY col.title.label "Título">
 <!ENTITY col.title.accesskey "T">
 <!ENTITY col.url.label "Dirección">
-<!ENTITY col.url.accesskey "i">
+<!ENTITY col.url.accesskey "D">
 <!ENTITY col.lastvisit.label "Última visita">
 <!ENTITY col.lastvisit.accesskey "V">
 <!ENTITY col.visitcount.label "Número de visitas">
-<!ENTITY col.visitcount.accesskey "e">
+<!ENTITY col.visitcount.accesskey "N">

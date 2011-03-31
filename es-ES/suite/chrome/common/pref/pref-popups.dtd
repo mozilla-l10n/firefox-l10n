@@ -13,8 +13,8 @@
 <!ENTITY customSound.accesskey "A">
 <!ENTITY selectSound.label "Seleccionar…">
 <!ENTITY selectSound.accesskey "o">
-<!ENTITY previewSound.label "Escuchar">
-<!ENTITY previewSound.accesskey "E">
+<!ENTITY playSoundButton.label "Reproducir">
+<!ENTITY playSoundButton.accesskey "c">
 <!ENTITY selectSound.title "Seleccione sonido de bloqueo de ventana emergente">
 <!ENTITY selectSound.filter "Sonidos">
 <!ENTITY displayIcon.label "Mostrar un icono en la barra de estado del navegador">
