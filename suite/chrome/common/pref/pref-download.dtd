@@ -28,5 +28,5 @@
 <!ENTITY showAlert.accesskey "o">
 <!ENTITY browse.label "Examinar…">
 <!ENTITY browse.accesskey "x">
-<!ENTITY preview.label "Escuchar">
-<!ENTITY preview.accesskey "E">
+<!ENTITY playButton.label "Reproducir">
+<!ENTITY playButton.accesskey "e">

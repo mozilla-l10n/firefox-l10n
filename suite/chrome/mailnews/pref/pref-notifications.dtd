@@ -10,8 +10,8 @@
 <!ENTITY showTrayIcon.accesskey "i">
 <!ENTITY bounceSystemDockIcon.label "Animar el icono de notificación">
 <!ENTITY bounceSystemDockIcon.accesskey "A">
-<!ENTITY preview.label "Escuchar">
-<!ENTITY preview.accesskey "u">
+<!ENTITY playButton.label "Reproducir">
+<!ENTITY playButton.accesskey "R">
 <!ENTITY systemsound.label "Sonido de nuevo mensaje de correo del sistema">
 <!ENTITY systemsound.accesskey "M">
 <!ENTITY customsound.label "Archivo de sonido personalizado">

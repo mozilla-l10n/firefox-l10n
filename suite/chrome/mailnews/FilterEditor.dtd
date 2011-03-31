@@ -1,5 +1,6 @@
 <!--null-->
 <!ENTITY window.title "Reglas de filtrado">
+<!ENTITY filterEditorDialog.dimensions "width: 105ch;">
 <!ENTITY filterName.label "Nombre del filtro:">
 <!ENTITY filterName.accesskey "f">
 <!ENTITY junk.label "Basura">
