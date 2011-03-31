@@ -21,8 +21,6 @@
 <!ENTITY allowHWAccel.accesskey          "h">
 <!ENTITY checkSpelling.label             "打字時即時檢查拼字">
 <!ENTITY checkSpelling.accesskey         "t">
-<!ENTITY doNotTrack.label                "告訴網站我不想被追蹤">
-<!ENTITY doNotTrack.accesskey            "d">
 
 <!ENTITY systemDefaults.label            "預設網頁瀏覽器">
 <!ENTITY alwaysCheckDefault.label        "啟動時永遠檢查 &brandShortName; 是否為預設瀏覽器"><!--XXX-->

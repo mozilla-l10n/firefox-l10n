@@ -193,6 +193,7 @@
 <!ENTITY quoteButton.tooltip "引入前封郵件的文字"> 
 <!ENTITY addressButton.tooltip "從通訊錄裡選擇收件者"> 
 <!ENTITY attachButton.tooltip "附加檔案到郵件中"> 
+<!ENTITY spellingButton.tooltip "對郵件的全部或反白部分檢查拼字">
 <!ENTITY saveButton.tooltip "儲存這封郵件"> 
 <!ENTITY cutButton.tooltip              "剪下">
 <!ENTITY copyButton.tooltip             "複製">
@@ -263,6 +264,10 @@
 <!ENTITY attachFile.accesskey "F">
 <!ENTITY attachPage.label "附加網頁…">
 <!ENTITY attachPage.accesskey "W">
+
+<!-- Spell checker context menu items -->
+<!ENTITY spellAddDictionaries.label "新增字典…">
+<!ENTITY spellAddDictionaries.accesskey "A">
 
 <!-- Title for the address picker panel -->
 <!ENTITY addressesSidebarTitle.label "通訊錄">

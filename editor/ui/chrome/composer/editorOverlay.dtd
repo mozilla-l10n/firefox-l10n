@@ -90,7 +90,7 @@
 <!ENTITY editMenu.label "編輯">
 <!ENTITY editMenu.accesskey "E">
 <!ENTITY pasteNoFormatting.label "不重新格式化並貼上">
-<!ENTITY pasteNoFormatting.accesskey "o">
+<!ENTITY pasteNoFormatting.accesskey "n">
 <!ENTITY pasteNoFormatting.key "V">
 <!ENTITY pasteAs.label "貼上為">
 <!ENTITY pasteAs.accesskey "a">
@@ -449,33 +449,7 @@
 <!ENTITY alignLeftButton.tooltip "將文字對齊左邊界">
 <!ENTITY alignCenterButton.tooltip "將文字對齊中央">
 <!ENTITY alignRightButton.tooltip "將文字對齊右邊界">
-<!ENTITY alignJustifyButton.tooltip "將文字對齊左右邊界">
-
-<!-- Display Mode toolbar and View menu items -->
-<!ENTITY NormalModeTab.label "正常">
-<!ENTITY NormalMode.label "標準編輯模式">
-<!ENTITY NormalMode.accesskey "N">
-<!ENTITY NormalMode.tooltip "顯示表格框線與錨點">
-<!ENTITY AllTagsMode.label "HTML 標籤">
-<!ENTITY AllTagsMode.accesskey "a">
-<!ENTITY AllTagsMode.tooltip "顯示所有 HTML 標籤的圖示">
-
-<!ENTITY HTMLSourceMode.label "HTML 原始碼">
-<!-- Toolbar has an image with "HTML" text, so don't include it in the string -->
-<!ENTITY SourceMode.label "原始碼">
-<!ENTITY HTMLSourceMode.accesskey "H">
-<!ENTITY HTMLSourceMode.tooltip "編輯 HTML 原始碼">
-<!ENTITY PreviewMode.label "預覽">
-<!ENTITY PreviewMode.accesskey "P">
-<!ENTITY PreviewMode.tooltip "所視即所得(WYSIWYG)(如同在瀏覽器裡顯示)">
-
-<!-- LOCALIZATION NOTE: Do NOT translate text for 'SourceTabDirection'
-     Use latin "ltr" if you want the <html> image to left of the 
-     'SourceMode.label' text defined above,
-     or use latin "rtl" if you want this image to the right of text
-     This is the value of the HTML 'dir' attribute
--->
-<!ENTITY SourceTabDirection "ltr">
+<!ENTITY alignJustifyButton.tooltip "Align text along left and right margins">
 
 <!-- Structure Toolbar Context Menu items -->
 <!ENTITY structSelect.label         "選取">
