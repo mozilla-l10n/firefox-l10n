@@ -32,5 +32,5 @@
 <!ENTITY showAlert.accesskey "f">
 <!ENTITY browse.label "Parcourir…">
 <!ENTITY browse.accesskey "u">
-<!ENTITY preview.label "Aperçu">
-<!ENTITY preview.accesskey "A">
+<!ENTITY playButton.label "Lecture">
+<!ENTITY playButton.accesskey "L">
