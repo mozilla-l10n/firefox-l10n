@@ -63,6 +63,8 @@
 <!ENTITY helpTroubleshootingInfo.accesskey "n">
 <!ENTITY releaseCmd.label "Notas de esta versión">
 <!ENTITY releaseCmd.accesskey "N">
+<!ENTITY helpSafeMode.label "Reiniciar con los complementos desactivados">
+<!ENTITY helpSafeMode.accesskey "R">
 <!ENTITY updateCmd.label "Buscar actualizaciones…">
 <!ENTITY updateCmd.accesskey "B">
 <!ENTITY aboutCmd.label "Acerca de &brandShortName;">
