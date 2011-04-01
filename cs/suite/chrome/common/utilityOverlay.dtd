@@ -74,6 +74,8 @@
 <!ENTITY helpTroubleshootingInfo.accesskey  "T">
 <!ENTITY releaseCmd.label "Poznámky k verzi">
 <!ENTITY releaseCmd.accesskey "P">
+<!ENTITY helpSafeMode.label "Restartovat se zakázanými doplňky…">
+<!ENTITY helpSafeMode.accesskey "R">
 <!ENTITY updateCmd.label "Zkontrolovat aktualizace…">
 <!ENTITY updateCmd.accesskey "a">
 <!ENTITY aboutCmd.label "O aplikaci &brandShortName;">
