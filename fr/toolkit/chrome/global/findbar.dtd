@@ -8,7 +8,7 @@
 <!ENTITY previous.label "Précédent">
 <!ENTITY previous.accesskey "P">
 <!ENTITY previous.tooltip "Trouve l'occurrence précédente de la phrase">
-<!ENTITY findCloseButton.tooltip "Fermer la Barre de recherche">
+<!ENTITY findCloseButton.tooltip "Fermer la barre de recherche">
 <!ENTITY highlight.label "Tout surligner">
 <!ENTITY highlight.accesskey "u">
 <!ENTITY highlight.tooltiptext "Surligner toutes les occurrences de la phrase">
