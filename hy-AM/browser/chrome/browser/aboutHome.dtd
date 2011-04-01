@@ -52,7 +52,7 @@
 <!-- LOCALIZATION NOTE (abouthome.defaultSnippet1.v1):
      text in <a/> will be linked to the Firefox features page on mozilla.com
 -->
-<!ENTITY abouthome.defaultSnippet1.v1 "Thanks for choosing Firefox! To get the most out of your browser, learn more about the <a>latest features</a>.">
+<!ENTITY abouthome.defaultSnippet1.v1 "Շնորհակլություն,Ֆայրֆոքսն ընտրելու համար:Ձեր զննարկիչը լավագույնս օգտագործելու համար,պարզեք ավելին <a>վերջին առանձնահատկությունների</a> մասին:">
 <!-- LOCALIZATION NOTE (abouthome.defaultSnippet2.v1):
      text in <a/> will be linked to the featured add-ons on addons.mozilla.org
 -->

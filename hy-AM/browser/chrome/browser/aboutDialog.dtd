@@ -56,7 +56,7 @@
 <!ENTITY bottomLinks.license        "Արտոնագրի տվյալներ">
 
 <!-- LOCALIZATION NOTE (bottomLinks.rights): This is a link title that links to about:rights. -->
-<!ENTITY bottomLinks.rights         "End User Rights">
+<!ENTITY bottomLinks.rights         "Վերջ դնել օգտագործողի իրավունքներին">
 
 <!-- LOCALIZATION NOTE (bottomLinks.privacy): This is a link title that links to http://www.mozilla.com/legal/privacy/. -->
 <!ENTITY bottomLinks.privacy        "Գաղտնիության Դրույթները">

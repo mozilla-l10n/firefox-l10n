@@ -66,7 +66,7 @@
 <!-- LOCALIZATION NOTE (reloadPlugin.middle): avoid leading/trailing spaces, this text is a link -->
 <!-- LOCALIZATION NOTE (reloadPlugin.post): include a starting space as needed -->
 <!ENTITY reloadPlugin.pre                                    "">
-<!ENTITY reloadPlugin.middle                                 "Վերբեռնել էջը">
+<!ENTITY reloadPlugin.middle                                 "Վերաբեռնել էջը">
 <!ENTITY reloadPlugin.post                                   " կրկին փորձելու համար:">
 <!-- LOCALIZATION NOTE (report.please): This and the other report.* strings should be as short as possible, ideally 2-3 words. -->
 <!ENTITY report.please                                       "Ուղարկել վթարի զեկույցը">

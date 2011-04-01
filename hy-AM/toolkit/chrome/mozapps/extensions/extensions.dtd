@@ -143,9 +143,7 @@
 <!-- LOCALIZATION NOTE (discover.title,discover.description,discover.footer):
      Displayed in the center of the Get Add-ons view, see bug 601143 for mockups. -->
 <!ENTITY discover.title                       "Ի՞նչ են իրենցից ներկայացնում հավելումները:">
-<!ENTITY discover.description2                "Add-ons are applications that let you personalize &brandShortName; with
-  extra functionality or style. Try a time-saving sidebar, a weather notifier, or a themed look to make &brandShortName;
-  your own.">
+<!ENTITY discover.description2                "Հավելումները կիրառություններ են, որոնք ձեզ թույլ են տալիս սեփականացնել &brandShortName;ը առավել ֆունցիոնալությամբ կամ ոճով:Փորձեք ժամանակ տնտեսող վահանակը, եղանակի տեղեկատուն,կամ այլ թեմատիկ տեսք`&brandShortName;ը ձեր սեփականը դարձնելու համար:   ">
 <!ENTITY discover.footer                      "Երբ մենք միանանք ինտերնետին,այս վահանակը կցուցադրի լավագույն և ամենատարածված հավելումները, որպեսզի դուք դրանք փորձարկեք:">
 
 <!-- detail view -->

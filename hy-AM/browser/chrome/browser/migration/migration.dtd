@@ -80,7 +80,7 @@
 <!ENTITY importItems.label              "Ընտրեք թե ինչ պիտի ներմուծվի">
 
 <!ENTITY migrating.title                "Ներմուծում եմ…">
-<!ENTITY migrating.label                "Հետեվյալ բաղադրիչները ներմուծվում են…">
+<!ENTITY migrating.label                "Հետևյալ բաղադրիչները ներմուծվում են…">
 
 <!ENTITY selectProfile.title            "Ընտրել հաշիվը">
 <!ENTITY selectProfile.label            "Կարող եք ներմուծել հետեվյալ հաշիվներից">

@@ -49,14 +49,14 @@
 <!ENTITY editBookmarkOverlay.folder.label                    "Պնակ`">
 <!ENTITY editBookmarkOverlay.foldersExpanderDown.tooltip     "Ցույց տալ էջանիշերի բոլոր պնակները">
 <!ENTITY editBookmarkOverlay.expanderUp.tooltip              "Թաքցնել">
-<!ENTITY editBookmarkOverlay.tags.label                      "Նշիչներ`">
-<!ENTITY editBookmarkOverlay.tags.accesskey                  "Ն">
-<!ENTITY editBookmarkOverlay.tagsEmptyDesc.label             "Առանձնացնել կցապիտակները ստորակետերով">
+<!ENTITY editBookmarkOverlay.tags.label                      "Պիտակներ`">
+<!ENTITY editBookmarkOverlay.tags.accesskey                  "Պ">
+<!ENTITY editBookmarkOverlay.tagsEmptyDesc.label             "Առանձնացնել պիտակները ստորակետերով">
 <!ENTITY editBookmarkOverlay.description.label               "Նկարագրությունը.">
 <!ENTITY editBookmarkOverlay.description.accesskey           "D">
 <!ENTITY editBookmarkOverlay.keyword.label                   "Կարճ անուն`">
 <!ENTITY editBookmarkOverlay.keyword.accesskey               "Կ">
-<!ENTITY editBookmarkOverlay.tagsExpanderDown.tooltip        "Ցուցադրել բոլոր կցապիտակները">
+<!ENTITY editBookmarkOverlay.tagsExpanderDown.tooltip        "Ցուցադրել բոլոր պիտակները">
 <!ENTITY editBookmarkOverlay.loadInSidebar.label             "Ներմուծել Էջանիշը կողային վահանակ">
 <!ENTITY editBookmarkOverlay.loadInSidebar.accesskey         "Ն">
 <!ENTITY editBookmarkOverlay.choose.label                    "Նկարագրությունը.">
