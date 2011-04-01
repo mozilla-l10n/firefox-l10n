@@ -109,8 +109,8 @@ can reach it easily. -->
 <!ENTITY personalbarCmd.label "Էջանիշերի Վահանակ">
 <!ENTITY personalbarCmd.accesskey "Է">
 <!ENTITY bookmarksToolbarItem.label "Էջանիշերի Վահանակի Իրեր">
-<!ENTITY addonBarCmd.label "Add-on Bar">
-<!ENTITY addonBarCmd.accesskey "A">
+<!ENTITY addonBarCmd.label "Հավելումների ցուցափեղկ">
+<!ENTITY addonBarCmd.accesskey "Հ">
 
 <!ENTITY pageSourceCmd.label "Դիտել Էջի Կոդը">
 <!ENTITY pageSourceCmd.accesskey "o">
@@ -142,7 +142,7 @@ can reach it easily. -->
 <!ENTITY subscribeToPageMenupopup.label "Բաժանորդագրվել Այս Էջին">
 <!ENTITY subscribeToPageMenuitem.label "Բաժանորդագրվել Այս Էջին…">
 <!ENTITY addCurPagesCmd.label "Էջանշել Բոլոր Ներդիրները…">
-<!ENTITY showAllBookmarks2.label "Show All Bookmarks">
+<!ENTITY showAllBookmarks2.label "Ցուցադրել բոլոր էջանիշերը">
 <!ENTITY bookmarkAllCmd.label "Էջանշել Բոլոր Ներդիրները…">
 <!ENTITY bookmarksToolbarChevron.tooltip "Ցույց տալ ավելի շատ էջանիշերի">
 
@@ -163,7 +163,7 @@ can reach it easily. -->
 <!ENTITY printButton.label            "Տպել">
 <!ENTITY printButton.tooltip          "Տպել տվյալ էջը">
 
-<!ENTITY backForwardItem.title        "Back/Forward">
+<!ENTITY backForwardItem.title        "Հետ/Առաջ">
 <!ENTITY locationItem.title           "Հասցե">
 <!ENTITY searchItem.title             "Որոնում">
 <!ENTITY throbberItem.title           "Գործողության ինդիկատոր">
@@ -171,7 +171,7 @@ can reach it easily. -->
 
 <!-- Toolbar items --> 
 <!ENTITY appMenuButton.label          "Մենյու">
-<!ENTITY appMenuButton.tooltip        "Open &brandShortName; menu">
+<!ENTITY appMenuButton.tooltip        "Բացիր &brandShortName; մենյուն">
 <!ENTITY homeButton.label             "Տուն">
 
 <!ENTITY tabGroupsButton.label        "Էջանիշի խմբեր">
@@ -355,10 +355,10 @@ can reach it easily. -->
 
 <!ENTITY tabView.commandkey           "e">
 
-<!ENTITY openLinkCmdInTab.label       "Հղումը Բացել Նոր Ներդիրում">
-<!ENTITY openLinkCmdInTab.accesskey   "T">
-<!ENTITY openLinkCmd.label            "Հղումը Բացել Նոր Պատուհանում">
-<!ENTITY openLinkCmd.accesskey        "W">
+<!ENTITY openLinkCmdInTab.label       "Բացել հղումը նոր ներդիրում">
+<!ENTITY openLinkCmdInTab.accesskey   "Բ">
+<!ENTITY openLinkCmd.label            "Բացել հղումը նոր պատուհանում">
+<!ENTITY openLinkCmd.accesskey        "Բ">
 <!ENTITY openLinkCmdInCurrent.label     "Բացել Հղումը">
 <!ENTITY openLinkCmdInCurrent.accesskey "Բ">
 <!ENTITY openFrameCmdInTab.label      "Շրջանակը բացել նոր ներդիրում">
@@ -368,7 +368,7 @@ can reach it easily. -->
 <!ENTITY showOnlyThisFrameCmd.label     "Ցուցադրել միայն այս շրջանակը">
 <!ENTITY showOnlyThisFrameCmd.accesskey "s">
 <!ENTITY reloadCmd.commandkey         "r">
-<!ENTITY reloadFrameCmd.label         "Վերբեռնել շրջանակը">
+<!ENTITY reloadFrameCmd.label         "Վերաբեռնել շրջանակը">
 <!ENTITY reloadFrameCmd.accesskey     "Վ">
 <!ENTITY viewPartialSourceForSelectionCmd.label "Դիտել Նշված Մասի Կոդը">
 <!ENTITY viewPartialSourceForMathMLCmd.label    "Դիտել MathML Կոդը">
@@ -383,7 +383,7 @@ can reach it easily. -->
 <!ENTITY viewPageInfoCmd.accesskey    "I">
 <!ENTITY viewFrameInfoCmd.label       "Տեղեկություն շրջանակի մասին">
 <!ENTITY viewFrameInfoCmd.accesskey   "Տ">
-<!ENTITY reloadImageCmd.label         "Վերբեռնել Նկարը">
+<!ENTITY reloadImageCmd.label         "Վերաբեռնել Նկարը">
 <!ENTITY reloadImageCmd.accesskey     "Վ">
 <!ENTITY viewImageCmd.label           "Նայել Նկարը">
 <!ENTITY viewImageCmd.accesskey       "I">
@@ -588,5 +588,5 @@ just addresses the organization to follow, e.g. "This site is run by " -->
 <!ENTITY syncSyncNowItem.accesskey    "S">
 <!ENTITY syncToolbarButton.label      "Սինք">
 
-<!ENTITY addonBarCloseButton.tooltip  "Close Add-on Bar">
+<!ENTITY addonBarCloseButton.tooltip  "Փակեք հավելումնների ցուցափեղկը">
 <!ENTITY toggleAddonBarCmd.key        "/">

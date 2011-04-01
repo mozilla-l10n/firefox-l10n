@@ -37,6 +37,11 @@
     the terms of any one of the MPL, the GPL or the LGPL.
 
 ******* END LICENSE BLOCK ********** -->
+<!ENTITY tracking.label                 "Tracking">
+
+<!ENTITY doNotTrack.label               "Tell web sites I do not want to be tracked">
+<!ENTITY doNotTrack.accesskey           "d">
+
 <!ENTITY  history.label                 "Պատմություն">
 
 <!ENTITY  locationBar.label             "Հասցեի վահանակ">
@@ -68,7 +73,6 @@
 
 <!ENTITY  showCookies.label             "Ցուցադրել քուկիները…">
 <!ENTITY  showCookies.accesskey         "Ց">
-
 
 <!ENTITY  historyHeader.pre.label          "&brandShortName;-ը`">
 <!ENTITY  historyHeader.pre.accesskey      "պ">

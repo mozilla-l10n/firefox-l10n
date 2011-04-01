@@ -47,7 +47,7 @@
 <!ENTITY useCursorNavigation.accesskey   "Է">
 <!ENTITY searchStartTyping.label         "Էջում տեքստ մուտքագրելու դեպքում փնտրել այն էջում">
 <!ENTITY searchStartTyping.accesskey     "Է">
-<!ENTITY blockAutoRefresh.label          "Զգուշացրու ինձ երբ վեբ կայքերը փորձում են վերահասցեավորել կամ վերբեռնել">
+<!ENTITY blockAutoRefresh.label          "Զգուշացրու ինձ երբ վեբ կայքերը փորձում են վերահասցեավորել կամ վերաբեռնել">
 <!ENTITY blockAutoRefresh.accesskey      "Զ">
 
 <!ENTITY browsing.label                  "Նավարկում">
@@ -60,8 +60,6 @@
 <!ENTITY allowHWAccel.accesskey          "h">
 <!ENTITY checkSpelling.label             "Տեքստ մուտքագրելու ընթացքում ստուգիր ուղղագրությունը">
 <!ENTITY checkSpelling.accesskey         "Տ">
-<!ENTITY doNotTrack.label                "Տեղեկացրեք վեբ կայքերին,ես չեմ ցանկանում, որ ինձ հետևեն">
-<!ENTITY doNotTrack.accesskey            "Տ">
 
 <!ENTITY systemDefaults.label            "Սկզբնական Վիճակ">
 <!ENTITY alwaysCheckDefault.label        "Միանալուց միշտ ստուգիր, աևդյոք &brandShortName; -ը հիմնական բռաուզեր է:"><!--XXX-->
@@ -87,8 +85,8 @@
 
   &limitCacheSizeBefore.label [textbox for cache size in MB] &limitCacheSizeAfter.label;
 -->
-<!ENTITY limitCacheSizeBefore.label      "Limit cache to">
-<!ENTITY limitCacheSizeBefore.accesskey  "L">
+<!ENTITY limitCacheSizeBefore.label      "Սահմանափակել քեշը">
+<!ENTITY limitCacheSizeBefore.accesskey  "Ս">
 <!ENTITY limitCacheSizeAfter.label       "MB of space">
 <!ENTITY clearCacheNow.label             "Մաքրել հԻմա">
 <!ENTITY clearCacheNow.accesskey         "Մ">

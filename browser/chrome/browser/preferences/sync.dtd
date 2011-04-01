@@ -49,8 +49,8 @@
 <!ENTITY resetPass.label              "Բերել Նախնականի">
 
 <!-- Manage Account -->
-<!ENTITY manageAccount.label          "Manage Account">
-<!ENTITY manageAccount.accesskey      "A">
+<!ENTITY manageAccount.label          "Կարգավորեք հաշիվը">
+<!ENTITY manageAccount.accesskey      "Կ">
 <!ENTITY viewQuota.label              "Դիտել քվոտան">
 <!ENTITY changePassword.label         "Փոխել Գաղտնաբառը">
 <!ENTITY mySyncKey.label              "Իմ Sync բանալին">

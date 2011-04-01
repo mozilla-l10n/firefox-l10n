@@ -97,12 +97,12 @@
 <!ENTITY rights.safebrowsing-b "Խորհուրդ չի տրվում անջատել Անվտանգությունն Ապահովող հատկությունը,  քանզի դուք արդյունքում կարող եք մուտք գործել վտանգավոր կայքեր:Եթե դուք ցանկանում եք ամբողջությամբ անջատել տվյալ հատկությունը, հետևեք այս քայլերին:">
 <!ENTITY rights.safebrowsing-term1 "Open the application preferences">
 <!ENTITY rights.safebrowsing-term2 "Select the Security selection">
-<!ENTITY rights.safebrowsing-term3 "Uncheck the options to &quot;&blockAttackSites.label;&quot; and &quot;&blockWebForgeries.label;&quot;">
+<!ENTITY rights.safebrowsing-term3 "Հանեք &quot;&blockAttackSites.label;&quot;ի և &quot;&blockWebForgeries.label;&quot;ի ընտրությունը:">
 <!ENTITY rights.safebrowsing-term4 "Safe Browsing is now disabled">
 
 <!-- location aware browsing points for branded builds -->
 <!ENTITY rights.locationawarebrowsing-a "Location Aware Browsing: ">
-<!ENTITY rights.locationawarebrowsing-b "is always opt-in.  No location information is ever sent without your permission.  If you wish to disable the feature completely, follow these steps:">
+<!ENTITY rights.locationawarebrowsing-b "միշտ ընտրված է:Տեղակայվածության վերաբերյալ ոչ մի ինֆորմացիա չի կարող երբէ ուղղարկվել առանց ձեր թույլտվության:Եթե դուք ցանկանում եք ամբողջովին անջատել այս առանձնահատկությունը ,հետևեք այս քայլերին.">
 <!ENTITY rights.locationawarebrowsing-term1a "In the URL bar, type ">
 <!ENTITY rights.locationawarebrowsing-term1b "about:config">
 <!ENTITY rights.locationawarebrowsing-term2 "Մուտքագրեք geo.enabled">

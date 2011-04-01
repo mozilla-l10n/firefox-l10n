@@ -122,7 +122,7 @@
 <!ENTITY cmd.moveBookmarks.accesskey              "Տ">
 
 <!ENTITY col.name.label          "Անվանումը">
-<!ENTITY col.tags.label          "Կցապիտակներ">
+<!ENTITY col.tags.label          "Պիտակներ">
 <!ENTITY col.url.label           "Հասցե">
 <!ENTITY col.lastvisit.label     "Այցելման ամսաթիվ">
 <!ENTITY col.visitcount.label    "Այցելումների քանակ">
