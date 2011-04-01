@@ -63,6 +63,8 @@
 <!ENTITY helpTroubleshootingInfo.accesskey "z">
 <!ENTITY releaseCmd.label "Note di versione">
 <!ENTITY releaseCmd.accesskey "N">
+<!ENTITY helpSafeMode.label "Riavvia disattivando i componenti aggiuntivi">
+<!ENTITY helpSafeMode.accesskey "R">
 <!ENTITY updateCmd.label "Controlla gli aggiornamenti…">
 <!ENTITY updateCmd.accesskey "a">
 <!ENTITY aboutCmd.label "Informazioni su &brandShortName;">
