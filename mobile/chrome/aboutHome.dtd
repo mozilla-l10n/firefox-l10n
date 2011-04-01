@@ -9,6 +9,7 @@
 <!ENTITY aboutHome.noTabs                       "沒有上一次開啟的分頁">
 <!ENTITY aboutHome.noAddons                     "沒有推薦的附加元件">
 
-<!-- LOCALIZATION NOTE: 'Firefox Spark' is the official name of the promotion and should not be translated -->
+<!-- LOCALIZATION NOTE: 'Firefox Spark' is the official name of the promotion/constest and should not be translated -->
 <!ENTITY aboutHome.promoLabel                   "Firefox Spark">
+<!-- LOCALIZATION NOTE: 'Play' should be translated in the context of 'playing a game' and not 'playing a video' -->
 <!ENTITY aboutHome.promoButton                  "玩玩">
