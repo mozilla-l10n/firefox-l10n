@@ -27,7 +27,7 @@
 <!ENTITY alwaysAsk.label "Всегда выдавать запрос на сохранение файлов">
 <!ENTITY alwaysAsk.accesskey "с">
 <!ENTITY addonsMgr.label "Дополнения">
-<!ENTITY manageAddonsDescWin.label "Измените параметры ваших дополнений">
-<!ENTITY manageAddonsDescUnix2.label "Измените параметры ваших дополнений">
+<!ENTITY manageAddonsDescWin.label "Изменение параметров дополнений">
+<!ENTITY manageAddonsDescUnix2.label "Изменение параметров дополнений">
 <!ENTITY manageAddons.label "Настроить дополнения…">
 <!ENTITY manageAddons.accesskey "а">

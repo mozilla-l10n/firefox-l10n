@@ -24,7 +24,7 @@
 <!ENTITY submitCrashes.accesskey "т">
 <!ENTITY networkTab.label "Сеть">
 <!ENTITY connection.label "Соединение">
-<!ENTITY connectionDesc.label "Настройте параметры соединения &brandShortName; с Интернет">
+<!ENTITY connectionDesc.label "Настройка параметров соединения &brandShortName; с Интернетом">
 <!ENTITY connectionSettings.label "Настроить…">
 <!ENTITY connectionSettings.accesskey "с">
 <!ENTITY offlineStorage.label "Автономное хранилище">
@@ -68,7 +68,7 @@
 <!ENTITY useTLS1.label "Использовать TLS 1.0">
 <!ENTITY useTLS1.accesskey "1">
 <!ENTITY certificates.label "Сертификаты">
-<!ENTITY certSelection.description "Когда сервер запрашивает мой личный сертификат:">
+<!ENTITY certSelection.description "Когда сервер запрашивает личный сертификат:">
 <!ENTITY certs.auto "Отправлять автоматически">
 <!ENTITY certs.auto.accesskey "а">
 <!ENTITY certs.ask "Спрашивать каждый раз">
