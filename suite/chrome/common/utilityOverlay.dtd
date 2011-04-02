@@ -63,6 +63,8 @@
 <!ENTITY helpTroubleshootingInfo.accesskey "ф">
 <!ENTITY releaseCmd.label "Примечания к выпуску">
 <!ENTITY releaseCmd.accesskey "м">
+<!ENTITY helpSafeMode.label "Перезапуск с отключёнными дополнениями">
+<!ENTITY helpSafeMode.accesskey "з">
 <!ENTITY updateCmd.label "Проверить наличие обновлений…">
 <!ENTITY updateCmd.accesskey "в">
 <!ENTITY aboutCmd.label "О &brandShortName;">
