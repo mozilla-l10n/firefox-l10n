@@ -62,7 +62,9 @@
 <!ENTITY saveAsAttachmentCmd.label "Guardar como…">
 <!ENTITY saveAsAttachmentCmd.accesskey "A">
 <!ENTITY detachAttachmentCmd.label "Separar adjuntos…">
+<!ENTITY detachAttachmentCmd.accesskey "S">
 <!ENTITY deleteAttachmentCmd.label "Eliminar">
+<!ENTITY deleteAttachmentCmd.accesskey "E">
 <!ENTITY openAllAttachmentsCmd.label "Abrir todo…">
 <!ENTITY openAllAttachmentsCmd.accesskey "o">
 <!ENTITY saveAllAttachmentsCmd.label "Guardar todo…">
@@ -71,6 +73,24 @@
 <!ENTITY detachAllAttachmentsCmd.accesskey "D">
 <!ENTITY deleteAllAttachmentsCmd.label "Eliminar todos…">
 <!ENTITY deleteAllAttachmentsCmd.accesskey "d">
+<!ENTITY saveAttachmentButton.label "guardar">
+<!ENTITY saveAttachmentButton.tooltip "guardar el archivo adjunto">
+<!ENTITY saveAllAttachmentsButton.label "guardar todo">
+<!ENTITY saveAllAttachmentsButton.tooltip "guardar todos los archivos adjuntos">
+<!ENTITY openAttachmentMenuItem.label "abrir">
+<!ENTITY openAttachmentMenuItem.accesskey "a">
+<!ENTITY saveAsAttachmentMenuItem.label "guardar como…">
+<!ENTITY saveAsAttachmentMenuItem.accesskey "u">
+<!ENTITY detachAttachmentMenuItem.label "separar…">
+<!ENTITY detachAttachmentMenuItem.accesskey "s">
+<!ENTITY deleteAttachmentMenuItem.label "eliminar">
+<!ENTITY deleteAttachmentMenuItem.accesskey "e">
+<!ENTITY saveAllAttachmentsMenuItem.label "guardar todo…">
+<!ENTITY saveAllAttachmentsMenuItem.accesskey "u">
+<!ENTITY detachAllAttachmentsMenuItem.label "separar todos…">
+<!ENTITY detachAllAttachmentsMenuItem.accesskey "s">
+<!ENTITY deleteAllAttachmentsMenuItem.label "eliminar todos…">
+<!ENTITY deleteAllAttachmentsMenuItem.accesskey "e">
 <!ENTITY copyLinkCmd.label "Copiar la dirección del enlace">
 <!ENTITY copyLinkCmd.accesskey "C">
 <!ENTITY CopyMessageId.label "Copiar Message-ID">

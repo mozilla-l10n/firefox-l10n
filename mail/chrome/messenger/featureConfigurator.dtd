@@ -8,8 +8,10 @@
 <!ENTITY featureConfigurator.toolbar.original "Conservar sus botones en la barra de herramientas original">
 <!ENTITY featureConfigurator.toolbar.original.status.explanation "Mantener cualquier botón personalizado de la barra de herramientas además de los nuevos botones de mensajes.">
 <!ENTITY featureConfigurator.toolbarBenefits.para "Las acciones con mensajes tales como responder y re-enviar se han trasladado desde la barra de herramientas a la cabecera del propio mensaje. Esto asocia los botones de acción directamente al mensaje, lo que deja más espacio en la barra de herramientas para la caja de texto de búsqueda mejorada, así como para los complementos.">
+<!ENTITY featureConfigurator.addOn.downloading "Descargando…">
 <!ENTITY featureConfigurator.addOn.installing "Instalando…">
 <!ENTITY featureConfigurator.addOn.installed "Instalado">
+<!ENTITY featureConfigurator.addOn.failure "¡Ha habido un problema al instalar esta extensión!">
 <!ENTITY featureConfigurator.addOn.alreadyInstalled "Esta extensión ya está instalada.">
 <!ENTITY featureConfigurator.collapsedHeaders.heading "Cabecera compacta">
 <!ENTITY featureConfigurator.collapsedHeaders.para.weak "La vista compacta al leer mensajes se ha trasladado a su propia extensión donde ahora obtiene mucha más atención y opciones.">

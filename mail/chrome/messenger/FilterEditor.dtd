@@ -1,4 +1,5 @@
 <!ENTITY window.title "Reglas de filtrado">
+<!ENTITY filterEditorDialog.dimensions "width: 100ch;">
 <!ENTITY filterName.label "Nombre del filtro:">
 <!ENTITY filterName.accesskey "i">
 <!ENTITY junk.label "Correo no deseado">
