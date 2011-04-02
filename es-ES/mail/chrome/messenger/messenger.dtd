@@ -7,8 +7,9 @@
 <!ENTITY closeTabCmd2.accesskey "C">
 <!ENTITY closeOtherTabsCmd2.label "Cerrar las otras pestañas">
 <!ENTITY closeOtherTabsCmd2.accesskey "o">
-<!ENTITY undoCloseTabCmd.label "Deshacer cerrar pestaña">
-<!ENTITY undoCloseTabCmd.accesskey "h">
+<!ENTITY recentlyClosedTabsCmd.label "Pestañas cerradas recientemente">
+<!ENTITY recentlyClosedTabsCmd.accesskey "R">
+<!ENTITY undoCloseTabCmd.commandkey "T">
 <!ENTITY moveToNewWindow.label "Mover a una ventana nueva">
 <!ENTITY moveToNewWindow.accesskey "v">
 <!ENTITY newVirtualFolderCmd.label "Búsqueda guardada…">
@@ -289,6 +290,7 @@
 <!ENTITY folderMenu.accesskey "a">
 <!ENTITY thisFolder.label "Esta carpeta">
 <!ENTITY thisFolder.accesskey "E">
+<!ENTITY goRecentlyClosedTabs.label "Pestañas cerradas recientemente">
 <!ENTITY startPageCmd.label "Página de inicio del correo">
 <!ENTITY startPageCmd.accesskey "P">
 <!ENTITY msgMenu.label "Mensaje">

@@ -4,8 +4,10 @@
 <!ENTITY helpMenuWin.accesskey "u">
 <!ENTITY helpTroubleshootingInfo.label "Información sobre resolución de problemas">
 <!ENTITY helpTroubleshootingInfo.accesskey "I">
-<!ENTITY releaseCmd.label "Notas de esta versión">
-<!ENTITY releaseCmd.accesskey "N">
+<!ENTITY helpSafeMode.label "Reiniciar con los complementos desactivados…">
+<!ENTITY helpSafeMode.accesskey "R">
+<!ENTITY releaseCmd2.label "Notas de esta versión">
+<!ENTITY releaseCmd2.accesskey "N">
 <!ENTITY whatsNewCmd.label "Qué hay de nuevo">
 <!ENTITY whatsNewCmd.accesskey "Q">
 <!ENTITY featureConfiguratorCmd.label "Asistente de migración">
