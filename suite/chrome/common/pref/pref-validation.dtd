@@ -51,5 +51,5 @@
 <!ENTITY serviceURL.accesskey "с">
 <!ENTITY signingCA.label "Подписавшаяся сторона:">
 <!ENTITY signingCA.accesskey "П">
-<!ENTITY validation.requireOCSP.description "При ошибке соединения с сервером OCSP, рассматривать сертификат как недействительный">
+<!ENTITY validation.requireOCSP.description "При ошибке соединения с сервером OCSP рассматривать сертификат как недействительный">
 <!ENTITY validation.requireOCSP.accesskey "ш">

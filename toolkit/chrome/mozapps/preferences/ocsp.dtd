@@ -9,5 +9,5 @@
 <!ENTITY serviceURL.accesskey "с">
 <!ENTITY signingCA.label "Подписавшая сторона:">
 <!ENTITY signingCA.accesskey "т">
-<!ENTITY requireOCSP.label "При ошибке соединения с сервером OCSP, рассматривать сертификат как недействительный">
+<!ENTITY requireOCSP.label "При ошибке соединения с сервером OCSP рассматривать сертификат как недействительный">
 <!ENTITY requireOCSP.accesskey "ш">

@@ -54,7 +54,7 @@
 <!ENTITY showUpdates.accesskey "ж">
 <!ENTITY showSettings.label "Настроить…">
 <!ENTITY showSettings.accesskey "с">
-<!ENTITY proxiesConfigure.label "Настройте параметры соединения &brandShortName; с Интернет">
+<!ENTITY proxiesConfigure.label "Настройка параметров соединения &brandShortName; с Интернетом">
 <!ENTITY connectionsInfo.caption "Соединение">
 <!ENTITY offlineInfo.caption "Автономная работа">
 <!ENTITY offlineInfo.label "Настройка параметров автономной работы">
@@ -69,7 +69,7 @@
 <!ENTITY useCacheAfter.label "МБ на диске для кэша">
 <!ENTITY clearCacheNow.label "Очистить сейчас">
 <!ENTITY clearCacheNow.accesskey "ч">
-<!ENTITY certSelection.description "Когда сервер запрашивает мой личный сертификат:">
+<!ENTITY certSelection.description "Когда сервер запрашивает личный сертификат:">
 <!ENTITY certs.auto "Отправлять автоматически">
 <!ENTITY certs.auto.accesskey "п">
 <!ENTITY certs.ask "Спрашивать каждый раз">
