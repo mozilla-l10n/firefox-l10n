@@ -74,6 +74,8 @@
 <!ENTITY helpTroubleshootingInfo.accesskey "r">
 <!ENTITY releaseCmd.label "Informacje o wersji programu">
 <!ENTITY releaseCmd.accesskey "I">
+<!ENTITY helpSafeMode.label "Uruchom ponownie z wyłączonymi dodatkami">
+<!ENTITY helpSafeMode.accesskey "r">
 <!ENTITY updateCmd.label "Sprawdź dostępność aktualizacji…">
 <!ENTITY updateCmd.accesskey "u">
 <!ENTITY aboutCmd.label "O &brandShortName;">
