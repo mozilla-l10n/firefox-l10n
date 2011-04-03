@@ -12,39 +12,39 @@
 <!ENTITY view.unsorted.label "Без сортировки">
 <!ENTITY view.unsorted.accesskey "е">
 <!ENTITY view.sortAscending.label "Сортировка по алфавиту">
-<!ENTITY view.sortAscending.accesskey "С">
+<!ENTITY view.sortAscending.accesskey "р">
 <!ENTITY view.sortDescending.label "В обратном порядке">
-<!ENTITY view.sortDescending.accesskey "о">
+<!ENTITY view.sortDescending.accesskey "б">
 <!ENTITY cmd.findInBookmarks.label "Найти в Закладках…">
 <!ENTITY cmd.findInBookmarks.accesskey "й">
 <!ENTITY cmd.findCurrent.label "Найти в текущей коллекции…">
-<!ENTITY cmd.findCurrent.accesskey "а">
+<!ENTITY cmd.findCurrent.accesskey "т">
 <!ENTITY cmd.exportHTML.label "Экспорт в HTML…">
-<!ENTITY cmd.exportHTML.accesskey "Э">
+<!ENTITY cmd.exportHTML.accesskey "о">
 <!ENTITY cmd.importHTML.label "Импорт из HTML…">
-<!ENTITY cmd.importHTML.accesskey "И">
+<!ENTITY cmd.importHTML.accesskey "т">
 <!ENTITY cmd.backup.label "Резервное копирование…">
-<!ENTITY cmd.backup.accesskey "р">
+<!ENTITY cmd.backup.accesskey "в">
 <!ENTITY cmd.restore2.label "Восстановить">
 <!ENTITY cmd.restore2.accesskey "с">
 <!ENTITY cmd.restoreFromFile.label "Выбрать файл…">
 <!ENTITY cmd.restoreFromFile.accesskey "б">
 <!ENTITY cmd.bookmarkLink.label "Добавить страницу в закладки…">
-<!ENTITY cmd.bookmarkLink.accesskey "б">
+<!ENTITY cmd.bookmarkLink.accesskey "в">
 <!ENTITY cmd.delete.label "Удалить эту страницу">
 <!ENTITY cmd.delete.accesskey "д">
 <!ENTITY cmd.deleteDomainData.label "Забыть об этом сайте">
-<!ENTITY cmd.deleteDomainData.accesskey "б">
+<!ENTITY cmd.deleteDomainData.accesskey "ы">
 <!ENTITY cmd.open.label "Открыть">
-<!ENTITY cmd.open.accesskey "О">
+<!ENTITY cmd.open.accesskey "к">
 <!ENTITY cmd.open_window.label "Открыть в новом окне">
 <!ENTITY cmd.open_window.accesskey "н">
 <!ENTITY cmd.open_tab.label "Открыть в новой вкладке">
 <!ENTITY cmd.open_tab.accesskey "в">
 <!ENTITY cmd.open_all_in_tabs.label "Открыть всё во вкладках">
-<!ENTITY cmd.open_all_in_tabs.accesskey "в">
+<!ENTITY cmd.open_all_in_tabs.accesskey "к">
 <!ENTITY cmd.properties.label "Свойства">
-<!ENTITY cmd.properties.accesskey "в">
+<!ENTITY cmd.properties.accesskey "о">
 <!ENTITY cmd.sortby_name.label "Сортировать по имени">
 <!ENTITY cmd.sortby_name.accesskey "С">
 <!ENTITY cmd.new_bookmark.label "Новая закладка…">
@@ -55,7 +55,7 @@
 <!ENTITY cmd.new_separator.label "Новый разделитель">
 <!ENTITY cmd.new_separator.accesskey "р">
 <!ENTITY cmd.reloadLivebookmark.label "Обновить закладку на ленту новостей">
-<!ENTITY cmd.reloadLivebookmark.accesskey "н">
+<!ENTITY cmd.reloadLivebookmark.accesskey "б">
 <!ENTITY cmd.reloadMicrosummary.label "Обновить текущий заголовок">
 <!ENTITY cmd.reloadMicrosummary.accesskey "б">
 <!ENTITY cmd.moveBookmarks.label "Переместить…">
@@ -77,14 +77,14 @@
 <!ENTITY search.scopeBookmarks.label "Закладки">
 <!ENTITY search.scopeBookmarks.accesskey "к">
 <!ENTITY saveSearch.label "Сохранить">
-<!ENTITY saveSearch.accesskey "С">
+<!ENTITY saveSearch.accesskey "х">
 <!ENTITY cmd.find.key "f">
 <!ENTITY backButton.tooltip "Перейти назад">
 <!ENTITY forwardButton.tooltip "Перейти вперёд">
 <!ENTITY detailsPane.more.label "Больше">
 <!ENTITY detailsPane.more.accesskey "ш">
-<!ENTITY detailsPane.less.label "Меньше">
-<!ENTITY detailsPane.less.accesskey "ш">
+<!ENTITY detailsPane.fewer.label "Меньше">
+<!ENTITY detailsPane.fewer.accesskey "ш">
 <!ENTITY detailsPane.selectAnItemText.description "Выберите элемент для просмотра и редактирования его свойств">
 <!ENTITY editBookmark.done.label "Готово">
 <!ENTITY editBookmark.cancel.label "Отмена">
