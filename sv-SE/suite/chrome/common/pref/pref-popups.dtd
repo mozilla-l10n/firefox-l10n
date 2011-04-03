@@ -18,8 +18,8 @@
 
 <!ENTITY selectSound.label              "Välj…">
 <!ENTITY selectSound.accesskey          "ä">
-<!ENTITY previewSound.label             "Lyssna">
-<!ENTITY previewSound.accesskey         "y">
+<!ENTITY playSoundButton.label          "Spela">
+<!ENTITY playSoundButton.accesskey      "l">
 <!ENTITY selectSound.title              "Välj ljud för fönsterblockering">
 <!ENTITY selectSound.filter             "Ljud">
 

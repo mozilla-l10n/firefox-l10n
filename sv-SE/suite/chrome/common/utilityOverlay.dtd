@@ -74,6 +74,8 @@
 <!ENTITY helpTroubleshootingInfo.accesskey  "F">
 <!ENTITY releaseCmd.label				    "Versionsfakta">
 <!ENTITY releaseCmd.accesskey				"V">
+<!ENTITY helpSafeMode.label                 "Starta om med tillägg inaktiverade">
+<!ENTITY helpSafeMode.accesskey             "t">
 <!ENTITY updateCmd.label                        "Sök efter uppdatering…">
 <!ENTITY updateCmd.accesskey                    "S">
 <!ENTITY aboutCmd.label					    "Om &brandShortName;">
