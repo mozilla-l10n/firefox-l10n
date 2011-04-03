@@ -100,8 +100,6 @@
 
 <!ENTITY detailsPane.more.label "Plus">
 <!ENTITY detailsPane.more.accesskey "P">
-<!ENTITY detailsPane.less.label "Moins">
-<!ENTITY detailsPane.less.accesskey "M">
 <!ENTITY detailsPane.fewer.label "Moins">
 <!ENTITY detailsPane.fewer.accesskey "M">
 <!ENTITY detailsPane.selectAnItemText.description "Sélectionner un élément pour afficher et modifier ses propriétés">
