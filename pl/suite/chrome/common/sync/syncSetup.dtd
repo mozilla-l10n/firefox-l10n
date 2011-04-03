@@ -4,7 +4,8 @@
 
 <!ENTITY setup.pickSetupType.description "Witamy! Jeśli nie masz jeszcze konta &syncBrand.fullName.label;, konieczne będzie utworzenie nowego.">
 <!ENTITY button.createNewAccount.label "Utwórz nowe konto">
-<!ENTITY button.haveAccount.label "Posiadam konto &syncBrand.fullName.label;">
+<!ENTITY setup.haveAccount.label "Mam już konto &syncBrand.fullName.label;">
+<!ENTITY button.connect.label "Połącz">
 
 <!ENTITY setup.choicePage.title.label "Czy korzystasz już z usługi &syncBrand.fullName.label;?">
 <!ENTITY setup.choicePage.new.label "Korzystam z usługi &syncBrand.shortName.label; po raz pierwszy">
@@ -12,14 +13,15 @@
 
 <!-- New Account AND Existing Account -->
 <!ENTITY server.label "Serwer">
+<!ENTITY server.accesskey "S">
 <!ENTITY serverType.main.label "Serwer &syncBrand.fullName.label;">
-<!ENTITY serverType.custom.label "Użyj innego serwera">
-<!ENTITY signIn.account.label "Adres e-mail / Nazwa użytkownika">
-<!ENTITY signIn.account.accesskey "d">
+<!ENTITY serverType.custom2.label "Użyj innego serwera…">
+<!ENTITY signIn.account2.label "Konto">
+<!ENTITY signIn.account2.accesskey "K">
 <!ENTITY signIn.password.label "Hasło">
 <!ENTITY signIn.password.accesskey "H">
-<!ENTITY signIn.serverURL.label "Adres URL serwera">
-<!ENTITY signIn.serverURL.accesskey "U">
+<!ENTITY signIn.syncKey.label "Klucz Sync">
+<!ENTITY signIn.syncKey.accesskey "u">
 
 <!-- New Account Page 1: Basic Account Info -->
 <!ENTITY setup.newAccountDetailsPage.title.label "Szczegóły konta">
@@ -44,8 +46,6 @@
 <!ENTITY syncKeyEntry.accesskey "k">
 <!ENTITY syncKeyGenerate.label "Wygeneruj">
 <!ENTITY syncKeyGenerate.accesskey "W">
-<!ENTITY syncKeyStrength.label "Moc klucza:">
-<!ENTITY syncKeyHelp.label "Co oznacza moc klucza?">
 <!ENTITY syncKeyBackup.description "Klucz jest niezbędny, by uzyskać dostęp do usługi &syncBrand.fullName.label; na innych urządzeniach. Utwórz kopię zapasową klucza. W razie jego utraty nie będziemy w stanie pomóc ci go odzyskać.">
 
 <!ENTITY button.syncKeyBackup.print.label "Wydrukuj…">
@@ -56,17 +56,25 @@
 <!-- New Account Page 3: Captcha -->
 <!ENTITY setup.captchaPage2.title.label "Potwierdź, że nie jesteś robotem">
 
-<!-- Existing Account Page 1: Login -->
-<!ENTITY setup.existingAccount.title.label "Wprowadź dane konta">
-<!ENTITY resetPassword.label "Resetuj hasło">
-<!ENTITY connecting.label "Łączenie…">
+<!-- Existing Account Page 1: Add Device (incl. Add a Device dialog strings) -->
+<!ENTITY addDevice.title.label "Dodaj urządzenie">
+<!ENTITY addDevice.showMeHow.label "Pokaż jak to zrobić">
+<!ENTITY addDevice.dontHaveDevice.label "Nie mam tego urządzenia przy sobie">
+<!ENTITY addDevice.setup.description.label "Aby aktywować, przejdź do opcji/preferencji &syncBrand.shortName.label; na innym urządzeniu i wybierz &#x0022;Dodaj urządzenie&#x0022;.">
+<!ENTITY addDevice.setup.enterCode.label "Następnie wprowadź ten kod:">
+<!ENTITY addDevice.dialog.description.label "Aby aktywować nowe urządzenie, przejdź na nim do opcji/preferencji &syncBrand.shortName.label; i wybierz &#x0022;Połącz.&#x0022;">
+<!ENTITY addDevice.dialog.enterCode.label "Wprowadź kod dostarczony przez to urządzenie:">
+<!ENTITY addDevice.dialog.tryAgain.label "Ponów próbę.">
+<!ENTITY addDevice.dialog.successful.label "Urządzenie zostało dodane. Początkowa synchronizacja może potrwać kilka minut i ukończy się w tle.">
+<!ENTITY addDevice.dialog.syncKey.label "Aby aktywować urządzenie, potrzebujesz swojego klucza Sync. Wydrukuj go lub zapisz i zabierz ze sobą.">
+<!ENTITY addDevice.dialog.connected.label "Urządzenie połączone">
 
-<!-- Existing Account Page 2: Sync Key -->
-<!ENTITY setup.existingSyncKeyPage.title "Wprowadź klucz Sync">
-<!ENTITY setup.existingSyncKeyPage.description "Klucz Sync został wygenerowany bądź wprowadzony ręcznie podczas pierwszego zalogowania do usługi &syncBrand.fullName.label;. Różni się on od hasła dla usługi Sync.">
-<!ENTITY existingSyncKeyHelp.description "Aby uzyskać kopię klucza Sync, przejdź do urządzenia, na którym usługa Sync już została skonfigurowana i w preferencjach wybierz &#x0022;Mój klucz Sync&#x0022; w sekcji &#x0022;Zarządzaj kontem&#x0022;.">
-<!ENTITY lostSyncKey.label "Zagubiono klucz Sync">
+<!-- Existing Account Page 2: Manual Login -->
+<!ENTITY setup.signInPage.title.label "Zaloguj">
+<!ENTITY existingSyncKey.description "Aby uzyskać kopię klucza Sync, przejdź do opcji/preferencji &syncBrand.shortName.label; na danym urządzeniu i wybierz &#x0022;Mój klucz Sync&#x0022; w sekcji &#x0022;Zarządzaj kontem&#x0022;.">
 <!ENTITY verifying.label "Weryfikowanie…">
+<!ENTITY resetPassword.label "Resetuj hasło">
+<!ENTITY resetSyncKey.label "Zagubiono urządzenie">
 
 <!-- Sync Options -->
 <!ENTITY setup.optionsPage.title "Opcje synchronizacji">
