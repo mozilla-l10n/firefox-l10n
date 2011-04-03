@@ -101,8 +101,8 @@
 
 <!ENTITY detailsPane.more.label "Více">
 <!ENTITY detailsPane.more.accesskey "V">
-<!ENTITY detailsPane.less.label "Méně">
-<!ENTITY detailsPane.less.accesskey "M">
+<!ENTITY detailsPane.fewer.label "Méně">
+<!ENTITY detailsPane.fewer.accesskey "M">
 <!ENTITY detailsPane.selectAnItemText.description "Vybrat položku do pohledu a upravit její vlastnosti">
 
 <!ENTITY editBookmark.done.label "Done">
