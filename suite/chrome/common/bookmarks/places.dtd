@@ -101,8 +101,8 @@
 
 <!ENTITY detailsPane.more.label "Mer">
 <!ENTITY detailsPane.more.accesskey "e">
-<!ENTITY detailsPane.less.label "Mindre">
-<!ENTITY detailsPane.less.accesskey "e">
+<!ENTITY detailsPane.fewer.label "Färre">
+<!ENTITY detailsPane.fewer.accesskey "r">
 <!ENTITY detailsPane.selectAnItemText.description "Välj ett bokmärke för att se och redigera dess egenskaper">
 
 <!ENTITY editBookmark.done.label "Klar">

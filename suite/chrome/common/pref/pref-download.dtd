@@ -32,5 +32,5 @@
 <!ENTITY showAlert.accesskey            "m">
 <!ENTITY browse.label                   "Välj…">
 <!ENTITY browse.accesskey               "ä">
-<!ENTITY preview.label                  "Lyssna">
-<!ENTITY preview.accesskey              "y">
+<!ENTITY playButton.label               "Spela">
+<!ENTITY playButton.accesskey           "S">

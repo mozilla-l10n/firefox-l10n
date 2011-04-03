@@ -24,8 +24,10 @@
 <!ENTITY mySyncKey.accesskey          "M">
 <!ENTITY resetSync.label              "Återställ Synk">
 <!ENTITY resetSync.accesskey          "e">
-<!ENTITY stopUsingAccount.label       "Sluta använda detta konto">
-<!ENTITY stopUsingAccount.accesskey   "A">
+<!ENTITY deactivateDevice.label       "Avaktivera denna enhet">
+<!ENTITY deactivateDevice.accesskey   "A">
+<!ENTITY addDevice.label              "Lägg till en enhet">
+<!ENTITY addDevice.accesskey          "L">
 
 <!-- Sync Settings -->
 <!ENTITY syncComputerName.label       "Datorns namn:">
