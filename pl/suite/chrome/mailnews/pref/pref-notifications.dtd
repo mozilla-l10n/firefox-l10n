@@ -46,8 +46,8 @@
 <!ENTITY showTrayIcon.accesskey "t">
 <!ENTITY bounceSystemDockIcon.label "Animuj ikonę dokowania">
 <!ENTITY bounceSystemDockIcon.accesskey "A">
-<!ENTITY preview.label "Odtwórz">
-<!ENTITY preview.accesskey "d">
+<!ENTITY playButton.label "Odtwórz">
+<!ENTITY playButton.accesskey "z">
 <!ENTITY systemsound.label "Systemowy dźwięk powiadomienia o nowej wiadomości">
 <!ENTITY systemsound.accesskey "M">
 <!ENTITY customsound.label "Plik dźwiękowy użytkownika">

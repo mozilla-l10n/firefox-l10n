@@ -18,8 +18,8 @@
 
 <!ENTITY selectSound.label "Przeglądaj…">
 <!ENTITY selectSound.accesskey "e">
-<!ENTITY previewSound.label "Odtwórz">
-<!ENTITY previewSound.accesskey "O">
+<!ENTITY playSoundButton.label "Odtwórz">
+<!ENTITY playSoundButton.accesskey "O">
 <!ENTITY selectSound.title "Wybierz dźwięk odgrywany podczas blokowania wyskakującego okna ">
 <!ENTITY selectSound.filter "Dźwięki">
 
