@@ -333,11 +333,6 @@
 <!ENTITY decreaseIndent.accesskey "e">
 <!ENTITY decreaseIndent.key "-">
 
-<!ENTITY grid.label "Grille de positionnement">
-<!ENTITY grid.accesskey "t">
-
-<!ENTITY pageProperties.label "Titre de la page et propriétés…">
-<!ENTITY pageProperties.accesskey "g">
 <!ENTITY colorsAndBackground.label "Couleurs et fond de la page…">
 <!ENTITY colorsAndBackground.accesskey "u">
 
