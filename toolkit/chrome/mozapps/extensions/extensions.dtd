@@ -1,4 +1,4 @@
-<!ENTITY addons.windowTitle "Менеджер дополнений">
+<!ENTITY addons.windowTitle "Управление дополнениями">
 <!ENTITY search.placeholder "Поиск среди дополнений">
 <!ENTITY loading.label "Загрузка…">
 <!ENTITY listEmpty.installed.label "У вас не установлено ни одного дополнения данного типа">

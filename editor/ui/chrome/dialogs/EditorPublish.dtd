@@ -90,4 +90,4 @@
 <!ENTITY password.tooltip "Пароль, связанный с вашим именем пользователя">
 <!ENTITY savePassword.label "Сохранить пароль">
 <!ENTITY savePassword.accesskey "х">
-<!ENTITY savePassword.tooltip "Выбор этой опции позволит менеджеру паролей запомнить ваш пароль">
+<!ENTITY savePassword.tooltip "Выбор этой опции позволит сохранить ваш пароль в защищённом хранилище">

@@ -1,8 +1,8 @@
 <!ENTITY pref.download.title "Загрузки">
 <!ENTITY downloadBehavior.label "При начале загрузки">
-<!ENTITY focusWhenStarting.label "Мигнуть менеджером загрузки, если он уже открыт, в противном случае:">
+<!ENTITY focusWhenStarting.label "Мигнуть окном управления загрузками, если оно уже открыто, иначе:">
 <!ENTITY focusWhenStarting.accesskey "н">
-<!ENTITY openDM.label "Открывать менеджер загрузок">
+<!ENTITY openDM.label "Открывать окно управления загрузками">
 <!ENTITY openDM.accesskey "к">
 <!ENTITY openProgressDialog.label "Открывать диалоговое окно состояния загрузки">
 <!ENTITY openProgressDialog.accesskey "в">
