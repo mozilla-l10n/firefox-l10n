@@ -48,6 +48,12 @@
 <!ENTITY editmodeToolbarCmd.accesskey "р">
 <!ENTITY formatMenu.label "Формат">
 <!ENTITY formatMenu.accesskey "м">
+<!ENTITY grid.label "Сетка">
+<!ENTITY grid.accesskey "е">
+<!ENTITY pageProperties.label "Заголовок и свойства страницы…">
+<!ENTITY pageProperties.accesskey "г">
+<!ENTITY validateCmd.label "Проверить HTML">
+<!ENTITY validateCmd.accesskey "в">
 <!ENTITY NormalModeTab.label "Обычный">
 <!ENTITY NormalMode.label "Обычный режим редактирования">
 <!ENTITY NormalMode.accesskey "О">
