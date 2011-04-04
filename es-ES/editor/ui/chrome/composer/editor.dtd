@@ -48,6 +48,12 @@
 <!ENTITY editmodeToolbarCmd.accesskey "c">
 <!ENTITY formatMenu.label "Formato">
 <!ENTITY formatMenu.accesskey "o">
+<!ENTITY grid.label "Rejilla de posicionamiento">
+<!ENTITY grid.accesskey "R">
+<!ENTITY pageProperties.label "Título propiedades de la página…">
+<!ENTITY pageProperties.accesskey "T">
+<!ENTITY validateCmd.label "Validar HTML">
+<!ENTITY validateCmd.accesskey "L">
 <!ENTITY NormalModeTab.label "Normal">
 <!ENTITY NormalMode.label "Modo de edición normal">
 <!ENTITY NormalMode.accesskey "M">

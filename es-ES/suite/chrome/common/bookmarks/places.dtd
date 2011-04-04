@@ -75,17 +75,17 @@
 <!ENTITY search.scopeFolder.label "Carpeta seleccionada">
 <!ENTITY search.scopeFolder.accesskey "C">
 <!ENTITY search.scopeBookmarks.label "Marcadores">
-<!ENTITY search.scopeBookmarks.accesskey "d">
+<!ENTITY search.scopeBookmarks.accesskey "M">
 <!ENTITY saveSearch.label "Guardar">
 <!ENTITY saveSearch.accesskey "G">
 <!ENTITY cmd.find.key "f">
 <!ENTITY backButton.tooltip "Ir atrás">
 <!ENTITY forwardButton.tooltip "Ir adelante">
 <!ENTITY detailsPane.more.label "Más">
-<!ENTITY detailsPane.more.accesskey "M">
-<!ENTITY detailsPane.less.label "Menos">
-<!ENTITY detailsPane.less.accesskey "e">
-<!ENTITY detailsPane.selectAnItemText.description "Selecciona un elemento para ver y editar sus propiedades">
+<!ENTITY detailsPane.more.accesskey "s">
+<!ENTITY detailsPane.fewer.label "Menos">
+<!ENTITY detailsPane.fewer.accesskey "e">
+<!ENTITY detailsPane.selectAnItemText.description "Seleccione un elemento para ver y editar sus propiedades">
 <!ENTITY editBookmark.done.label "Hecho">
 <!ENTITY editBookmark.cancel.label "Cancelar">
 <!ENTITY editBookmark.removeBookmark.accessKey "R">
