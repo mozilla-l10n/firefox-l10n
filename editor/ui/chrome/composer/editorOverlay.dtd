@@ -116,8 +116,6 @@
 <!ENTITY checkSpellingCmd2.label "Kontrola pravopisu">
 <!ENTITY checkSpellingCmd2.accesskey "p">
 <!ENTITY checkSpellingCmd2.key "p">
-<!ENTITY validateCmd.label "Kontrola HTML">
-<!ENTITY validateCmd.accesskey "K">
 
 <!-- Insert menu items -->
 <!ENTITY insertMenu.label "Vložit">
@@ -332,11 +330,6 @@
 <!ENTITY decreaseIndent.accesskey "m">
 <!ENTITY decreaseIndent.key "-">
 
-<!ENTITY grid.label "Rastr pro pozicování">
-<!ENTITY grid.accesskey "R">
-
-<!ENTITY pageProperties.label "Vlastnosti stránky…">
-<!ENTITY pageProperties.accesskey "r">
 <!ENTITY colorsAndBackground.label "Barvy a pozadí stránky…">
 <!ENTITY colorsAndBackground.accesskey "B">
 
