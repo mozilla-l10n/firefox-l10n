@@ -58,6 +58,14 @@
 <!-- Format menu items -->
 <!ENTITY formatMenu.label "Formát">
 <!ENTITY formatMenu.accesskey "F">
+<!ENTITY grid.label "Rastr pro pozicování">
+<!ENTITY grid.accesskey "R">
+<!ENTITY pageProperties.label "Vlastnosti stránky…">
+<!ENTITY pageProperties.accesskey "r">
+
+<!-- Tools menu items -->
+<!ENTITY validateCmd.label "Kontrola HTML">
+<!ENTITY validateCmd.accesskey "K">
 
 <!-- Display Mode toolbar and View menu items -->
 <!ENTITY NormalModeTab.label "Normální">
@@ -82,4 +90,3 @@
 <!ENTITY PreviewMode.label "Náhled">
 <!ENTITY PreviewMode.accesskey "l">
 <!ENTITY PreviewMode.tooltip "Zobrazí stránku jako v prohlížeči">
-
