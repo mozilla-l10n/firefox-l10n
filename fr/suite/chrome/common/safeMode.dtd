@@ -49,7 +49,7 @@
 <!ENTITY deleteBookmarks.label        "Supprimer tous les marque-pages à l'exception des sauvegardes">
 <!ENTITY deleteBookmarks.accesskey    "S">
 
-<!ENTITY resetUserPrefs.label         "Réinitialiser les préférences à celles par défaut de &brandShortName;">
+<!ENTITY resetUserPrefs.label         "Réinitialiser les préférences par défaut de &brandShortName;">
 <!ENTITY resetUserPrefs.accesskey     "p">
 
 <!ENTITY restoreSearch.label          "Restaurer les moteurs de recherche par défaut">
