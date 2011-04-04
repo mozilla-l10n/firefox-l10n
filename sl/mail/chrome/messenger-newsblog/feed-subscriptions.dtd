@@ -1,6 +1,6 @@
 <!-- Subscription Dialog -->
 <!ENTITY feedSubscriptions.label "Naročnine na spletne vire">
-<!ENTITY subscriptionDesc.label "Opomba: če mapo za spletne vire odstranite ali spremenite, na že prenesene članke ne bo imelo nobenega vpliva.">
+<!ENTITY subscriptionDesc.label "Opomba: če mapo za spletne vire odstranite ali spremenite, to na že prenesene članke ne bo imelo nobenega vpliva.">
 <!ENTITY feedTitle.label "Naslov:">
 <!ENTITY location.label  "Mesto:">
 
