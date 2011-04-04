@@ -110,8 +110,6 @@
 <!ENTITY checkSpellingCmd2.label "Проверка орфографии">
 <!ENTITY checkSpellingCmd2.accesskey "в">
 <!ENTITY checkSpellingCmd2.key "p">
-<!ENTITY validateCmd.label "Проверить HTML">
-<!ENTITY validateCmd.accesskey "в">
 <!ENTITY insertMenu.label "Вставить">
 <!ENTITY insertMenu.accesskey "с">
 <!ENTITY insertLinkCmd.label "Ссылку…">
@@ -300,10 +298,6 @@
 <!ENTITY decreaseIndent.label "Уменьшить отступ">
 <!ENTITY decreaseIndent.accesskey "м">
 <!ENTITY decreaseIndent.key "[">
-<!ENTITY grid.label "Сетка">
-<!ENTITY grid.accesskey "е">
-<!ENTITY pageProperties.label "Заголовок и свойства страницы…">
-<!ENTITY pageProperties.accesskey "г">
 <!ENTITY colorsAndBackground.label "Цвета и фон страницы…">
 <!ENTITY colorsAndBackground.accesskey "в">
 <!ENTITY tableMenu.label "Таблица">
