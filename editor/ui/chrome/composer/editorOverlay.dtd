@@ -110,8 +110,6 @@
 <!ENTITY checkSpellingCmd2.label "Revisar ortografía">
 <!ENTITY checkSpellingCmd2.accesskey "o">
 <!ENTITY checkSpellingCmd2.key "p">
-<!ENTITY validateCmd.label "Validar HTML">
-<!ENTITY validateCmd.accesskey "V">
 <!ENTITY insertMenu.label "Insertar">
 <!ENTITY insertMenu.accesskey "I">
 <!ENTITY insertLinkCmd.label "Enlace…">
@@ -300,10 +298,6 @@
 <!ENTITY decreaseIndent.label "Reducir sangrado">
 <!ENTITY decreaseIndent.accesskey "D">
 <!ENTITY decreaseIndent.key "[">
-<!ENTITY grid.label "Cuadrícula de posicionamiento">
-<!ENTITY grid.accesskey "t">
-<!ENTITY pageProperties.label "Título y propiedades de la página…">
-<!ENTITY pageProperties.accesskey "g">
 <!ENTITY colorsAndBackground.label "Color y fondo de la página…">
 <!ENTITY colorsAndBackground.accesskey "f">
 <!ENTITY tableMenu.label "Tabla">
