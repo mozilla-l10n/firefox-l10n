@@ -55,7 +55,7 @@
 <!ENTITY updates.resetUpdatesToManual.accesskey      "R">
 <!ENTITY updates.updating.label               "Posodabljanje dodatkov">
 <!ENTITY updates.installed.label              "Vaši dodatki so posodobljeni.">
-<!ENTITY updates.downloaded.label             "Posodobitve vaših dodatkov so prensene.">
+<!ENTITY updates.downloaded.label             "Posodobitve vaših dodatkov so prenesene.">
 <!ENTITY updates.restart.label                "Za dokončanje namestitve ponovno zaženite brskalnik.">
 <!ENTITY updates.noneFound.label              "Ni novih posodobitev">
 <!ENTITY updates.manualUpdatesFound.label     "Preglej vse posodobitve">
