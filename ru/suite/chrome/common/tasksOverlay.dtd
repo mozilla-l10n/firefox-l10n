@@ -16,9 +16,9 @@
 <!ENTITY tasksMenu.label "Инструменты">
 <!ENTITY tasksMenu.accesskey "И">
 <!ENTITY datamanCmd.label "Управление данными">
-<!ENTITY datamanCmd.accesskey "н">
+<!ENTITY datamanCmd.accesskey "п">
 <!ENTITY passwordManagerCmd.label "Управление паролями">
-<!ENTITY passwordManagerCmd.accesskey "н">
+<!ENTITY passwordManagerCmd.accesskey "р">
 <!ENTITY passwordDisplayCmd.label "Управление сохранёнными паролями">
 <!ENTITY passwordDisplayCmd.accesskey "п">
 <!ENTITY passwordExpireCmd.label "Закончить сеанс">
