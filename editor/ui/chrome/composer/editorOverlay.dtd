@@ -117,8 +117,6 @@
 <!ENTITY checkSpellingCmd2.label "Vérifier l'orthographe">
 <!ENTITY checkSpellingCmd2.accesskey "o">
 <!ENTITY checkSpellingCmd2.key "p">
-<!ENTITY validateCmd.label "Valider le code HTML">
-<!ENTITY validateCmd.accesskey "V">
 
 <!-- Insert menu items -->
 <!ENTITY insertMenu.label "Insérer">
