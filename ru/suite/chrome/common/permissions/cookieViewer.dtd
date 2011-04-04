@@ -22,7 +22,7 @@
 <!ENTITY props.expires.label "Срок действия:">
 <!ENTITY treehead.sitename.label "Веб-сайт">
 <!ENTITY treehead.status.label "Статус">
-<!ENTITY windowtitle.label "Менеджер кук">
+<!ENTITY windowtitle.label "Управление куками">
 <!ENTITY buttonaccept.label "Закрыть">
 <!ENTITY buttonaccept.accesskey "к">
 <!ENTITY blockSite.label "Блокировать">

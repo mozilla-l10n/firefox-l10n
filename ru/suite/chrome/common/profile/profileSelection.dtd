@@ -1,6 +1,6 @@
 <!--null-->
 <!ENTITY windowTitle.label "Выбор профиля пользователя">
-<!ENTITY profileManager.title "Менеджер профилей &brandShortName;">
+<!ENTITY profileManager.title "Управление профилями &brandShortName;">
 <!ENTITY manage.label "Управление профилями…">
 <!ENTITY manage.accesskey "п">
 <!ENTITY select.label "Использовать профиль">

@@ -15,18 +15,18 @@
 <!ENTITY windowMenu.accesskey "О">
 <!ENTITY tasksMenu.label "Инструменты">
 <!ENTITY tasksMenu.accesskey "И">
-<!ENTITY datamanCmd.label "Менеджер данных">
+<!ENTITY datamanCmd.label "Управление данными">
 <!ENTITY datamanCmd.accesskey "н">
-<!ENTITY passwordManagerCmd.label "Менеджер паролей">
+<!ENTITY passwordManagerCmd.label "Управление паролями">
 <!ENTITY passwordManagerCmd.accesskey "н">
 <!ENTITY passwordDisplayCmd.label "Управление сохранёнными паролями">
 <!ENTITY passwordDisplayCmd.accesskey "п">
 <!ENTITY passwordExpireCmd.label "Закончить сеанс">
 <!ENTITY passwordExpireCmd.accesskey "к">
-<!ENTITY downloadManagerCmd.label "Менеджер загрузок">
+<!ENTITY downloadManagerCmd.label "Управление загрузками">
 <!ENTITY downloadManagerCmd.accesskey "з">
 <!ENTITY downloadManagerCmd.commandkey "j">
-<!ENTITY addonsManagerCmd.label "Менеджер дополнений">
+<!ENTITY addonsManagerCmd.label "Управление дополнениями">
 <!ENTITY addonsManagerCmd.accesskey "д">
 <!ENTITY addonsManagerCmd.commandkey "a">
 <!ENTITY switchProfileCmd.label "Выбрать другой профиль…">

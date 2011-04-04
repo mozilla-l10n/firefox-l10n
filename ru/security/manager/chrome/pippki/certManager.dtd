@@ -35,7 +35,7 @@
    - the terms of any one of the MPL, the GPL or the LGPL.
    -
    - ***** END LICENSE BLOCK ***** -->
-<!ENTITY certmgr.title "Менеджер сертификатов">
+<!ENTITY certmgr.title "Управление сертификатами">
 <!ENTITY certmgr.tab.mine "Ваши сертификаты">
 <!ENTITY certmgr.tab.others2 "Люди">
 <!ENTITY certmgr.tab.websites3 "Серверы">
