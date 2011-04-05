@@ -58,6 +58,14 @@
 <!-- Format menu items -->
 <!ENTITY formatMenu.label "Formato">
 <!ENTITY formatMenu.accesskey "o">
+<!ENTITY grid.label "Posicionamento da grelha">
+<!ENTITY grid.accesskey "t">
+<!ENTITY pageProperties.label "Título da página e propriedades…">
+<!ENTITY pageProperties.accesskey "g">
+
+<!-- Tools menu items -->
+<!ENTITY validateCmd.label "Validar HTML">
+<!ENTITY validateCmd.accesskey "V">
 
 <!-- Display Mode toolbar and View menu items -->
 <!ENTITY NormalModeTab.label "Normal">
