@@ -116,8 +116,6 @@
 <!ENTITY checkSpellingCmd2.label "Ceartaich an litreachadh">
 <!ENTITY checkSpellingCmd2.accesskey "h">
 <!ENTITY checkSpellingCmd2.key "p">
-<!ENTITY validateCmd.label "Dearbhaich HTML">
-<!ENTITY validateCmd.accesskey "D">
 
 <!-- Insert menu items -->
 <!ENTITY insertMenu.label "Cuir a-steach">
@@ -332,11 +330,6 @@
 <!ENTITY decreaseIndent.accesskey "d">
 <!ENTITY decreaseIndent.key "[">
 
-<!ENTITY grid.label "Cliath suidheachaidh">
-<!ENTITY grid.accesskey "t">
-
-<!ENTITY pageProperties.label "Ainm is roghainnean na duilleige…">
-<!ENTITY pageProperties.accesskey "g">
 <!ENTITY colorsAndBackground.label "Dathan is cùlaibh na duilleige…">
 <!ENTITY colorsAndBackground.accesskey "u">
 

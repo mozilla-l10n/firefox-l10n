@@ -58,6 +58,14 @@
 <!-- Format menu items -->
 <!ENTITY formatMenu.label "Fòrmat">
 <!ENTITY formatMenu.accesskey "F">
+<!ENTITY grid.label "Cliath suidheachaidh">
+<!ENTITY grid.accesskey "t">
+<!ENTITY pageProperties.label "Ainm is roghainnean na duilleige…">
+<!ENTITY pageProperties.accesskey "g">
+
+<!-- Tools menu items -->
+<!ENTITY validateCmd.label "Dearbhaich HTML">
+<!ENTITY validateCmd.accesskey "D">
 
 <!-- Display Mode toolbar and View menu items -->
 <!ENTITY NormalModeTab.label "Àbhaisteach">
