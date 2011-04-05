@@ -330,7 +330,7 @@
 <!ENTITY decreaseIndent.accesskey "D">
 <!ENTITY decreaseIndent.key "[">
 
-<!ENTITY grid.label "Posicionamento da Grelha">
+<!ENTITY colorsAndBackground.label "Cores e fundo da página…">
 <!ENTITY colorsAndBackground.accesskey "u">
 
 <!-- Table Menu -->
