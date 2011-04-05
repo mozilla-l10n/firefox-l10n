@@ -74,6 +74,8 @@
 <!ENTITY helpTroubleshootingInfo.accesskey  "ç">
 <!ENTITY releaseCmd.label				"Notas de lançamento">
 <!ENTITY releaseCmd.accesskey                   "N">
+<!ENTITY helpSafeMode.label                 "Reiniciar com extras desactivados">
+<!ENTITY helpSafeMode.accesskey             "R">
 <!ENTITY updateCmd.label                        "Procurar por actualizações…">
 <!ENTITY updateCmd.accesskey                    "p">
 <!ENTITY aboutCmd.label					"Sobre o &brandShortName;">
