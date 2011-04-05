@@ -51,5 +51,5 @@
 <!ENTITY changeAndRestartButton.label     "Fazer alterações e reiniciar">
 <!ENTITY changeAndRestartButton.accesskey "z">
 
-<!ENTITY continueButton.label             "Continuar me modo de segurança">
+<!ENTITY continueButton.label             "Continuar em modo de segurança">
 <!ENTITY continueButton.accesskey         "C">
