@@ -101,8 +101,8 @@
 
 <!ENTITY detailsPane.more.label "Mais">
 <!ENTITY detailsPane.more.accesskey "s">
-<!ENTITY detailsPane.less.label "Menos">
-<!ENTITY detailsPane.less.accesskey "s">
+<!ENTITY detailsPane.fewer.label "Menos">
+<!ENTITY detailsPane.fewer.accesskey "s">
 <!ENTITY detailsPane.selectAnItemText.description "Escolher um item para ver e editar as suas propriedades">
 
 <!ENTITY editBookmark.done.label "Feito">
