@@ -7,7 +7,7 @@
 <!ENTITY aboutHome.getHelp                      "Obtingueu ajuda">
 <!ENTITY aboutHome.footerWidth                  "10em">
 <!ENTITY aboutHome.openAllTabs                  "Obre-ho tot en pestanyes">
-<!ENTITY aboutHome.noTabs                       "Cap pestanya des de la darrera vegada">
+<!ENTITY aboutHome.noTabs                       "No hi ha cap pestanya de la darrera vegada">
 <!ENTITY aboutHome.noAddons                     "No hi ha cap complement recomanat">
 <!-- LOCALIZATION NOTE: 'Firefox Spark' is the official name of the promotion and should not be translated -->
 <!ENTITY aboutHome.promoLabel                   "Firefox Spark">
