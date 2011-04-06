@@ -72,10 +72,12 @@
 
 <!ENTITY helpTroubleshootingInfo.label      "Informationen zur Fehlerbehebung…">
 <!ENTITY helpTroubleshootingInfo.accesskey  "n">
-<!ENTITY releaseCmd.label				"Release Notes">
-<!ENTITY releaseCmd.accesskey                   "R">
-<!ENTITY updateCmd.label                        "Nach Updates suchen…">
-<!ENTITY updateCmd.accesskey                    "U">
+<!ENTITY releaseCmd.label                   "Release Notes">
+<!ENTITY releaseCmd.accesskey               "R">
+<!ENTITY helpSafeMode.label                 "Mit deaktivierten Add-ons neu starten">
+<!ENTITY helpSafeMode.accesskey             "M">
+<!ENTITY updateCmd.label                    "Nach Updates suchen…">
+<!ENTITY updateCmd.accesskey                "U">
 <!ENTITY aboutCmd.label					"Über &brandShortName;">
 <!ENTITY aboutCmd.accesskey				"b">
 <!ENTITY aboutCommPluginsCmd.label			"Über Plugins">

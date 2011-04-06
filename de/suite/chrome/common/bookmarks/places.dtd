@@ -101,8 +101,8 @@
 
 <!ENTITY detailsPane.more.label "Mehr">
 <!ENTITY detailsPane.more.accesskey "M">
-<!ENTITY detailsPane.less.label "Weniger">
-<!ENTITY detailsPane.less.accesskey "W">
+<!ENTITY detailsPane.fewer.label "Weniger">
+<!ENTITY detailsPane.fewer.accesskey "W">
 <!ENTITY detailsPane.selectAnItemText.description "Wählen Sie einen Eintrag, um seine Eigenschaften zu sehen und zu bearbeiten">
 
 <!ENTITY editBookmark.done.label "Fertig">
