@@ -116,8 +116,6 @@
 <!ENTITY checkSpellingCmd2.label "Revisar ortografía">
 <!ENTITY checkSpellingCmd2.accesskey "g">
 <!ENTITY checkSpellingCmd2.key "p">
-<!ENTITY validateCmd.label "Validar HTML">
-<!ENTITY validateCmd.accesskey "v">
 
 <!-- Insert menu items -->
 <!ENTITY insertMenu.label "Insertar">
@@ -332,11 +330,6 @@
 <!ENTITY decreaseIndent.accesskey "D">
 <!ENTITY decreaseIndent.key "[">
 
-<!ENTITY grid.label "Grilla de posicionamiento">
-<!ENTITY grid.accesskey "G">
-
-<!ENTITY pageProperties.label "Título y propiedades de la página…">
-<!ENTITY pageProperties.accesskey "T">
 <!ENTITY colorsAndBackground.label "Color y fondo de la página…">
 <!ENTITY colorsAndBackground.accesskey "f">
 
