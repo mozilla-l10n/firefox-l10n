@@ -4,7 +4,7 @@
 <!ENTITY content.title                             "Contingut">
 <!ENTITY reflowZoom.title                          "Canvia el format del text en fer zoom">
 <!ENTITY showImages.title                          "Mostra les imatges">
-<!ENTITY enableJavaScript.title  	           "Habilita els JavaScript">
+<!ENTITY enableJavaScript.title  	           "Habilita el JavaScript">
 <!ENTITY enablePlugins.title                       "Habilita els connectors">
 <!ENTITY privacy.title                             "Privadesa i seguretat">
 <!ENTITY allowCookies.title                        "Permet les galetes">

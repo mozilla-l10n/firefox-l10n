@@ -17,7 +17,7 @@
 <!ENTITY paste.label           "Enganxa">
 <!ENTITY delete.label          "Suprimeix">
 <!ENTITY selectAll.label       "Selecciona-ho tot">
-<!ENTITY noSuggestions.label   "(Cap suggeriment)">
+<!ENTITY noSuggestions.label   "(No hi ha suggeriments)">
 <!ENTITY addToDictionary.label "Afegeix al diccionari">
 <!ENTITY inputMethod.label     "Selecció del mètode d'entrada">
 
@@ -34,7 +34,7 @@
 
 <!ENTITY addonsHeader.label        "Complements">
 <!ENTITY addonsLocal.label         "Els vostres complements">
-<!ENTITY addonsUpdate.label        "Actualització">
+<!ENTITY addonsUpdate.label        "Actualitza">
 <!ENTITY addonsRepo.label          "Aconsegueix complements">
 <!ENTITY addonsRecommended.label   "Vegeu els recomanats">
 <!ENTITY addonsSearch.label        "Cerca">
@@ -62,7 +62,7 @@
 <!ENTITY downloadDelete.label      "Suprimeix">
 <!ENTITY downloadFailed.label      "Ha fallat">
 
-<!ENTITY noResults.label           "Cap resultat">
+<!ENTITY noResults.label           "No hi ha cap resultat">
 
 <!ENTITY allBookmarks.label        "Consulta totes les adreces d'interès">
 
