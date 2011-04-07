@@ -89,3 +89,5 @@
      this inclusion needs to be intact for that approach to work correctly. -->
 <!ENTITY % netErrorAppDTD SYSTEM "chrome://global/locale/netErrorApp.dtd">
 %netErrorAppDTD;
+<!ENTITY remoteXUL.title "Távoli XUL">
+<!ENTITY remoteXUL.longDesc "<p><ul><li>Értesítse a webhely tulajdonosait erről a problémáról.</li></ul></p>">

@@ -5,8 +5,8 @@
 <!ENTITY allFoldersOffline.accesskey "o">
 <!ENTITY offlineNotDownload.label "Üzenetek, melyek nagyobbak, mint">
 <!ENTITY offlineNotDownload.accesskey "e">
-<!ENTITY autosyncNotDownload.label "Üzenetek, melyek nagyobbak, mint">
-<!ENTITY autosyncNotDownload.accesskey "e">
+<!ENTITY autosyncNotDownload.label "Ne töltse le, ha nagyobb, mint">
+<!ENTITY autosyncNotDownload.accesskey "N">
 <!ENTITY kb.label "KB">
 <!ENTITY daysOld.label "nap">
 <!ENTITY message.label "üzenet">
@@ -44,11 +44,11 @@
 -->
 <!ENTITY allAutosync.label               "Minden üzenet szinkronizálása helyben kortól függetlenül">
 <!ENTITY allAutosync.accesskey           "M">
-<!ENTITY ageAutosyncBefore.label         "A legújabbak szinkronizálása">
+<!ENTITY ageAutosyncBefore.label         "A legutóbbi">
 <!ENTITY ageAutosync.accesskey           "l">
 <!ENTITY ageAutosyncMiddle.label         "">
-<!ENTITY dayAgeInterval.label            "naponta">
-<!ENTITY weekAgeInterval.label           "hetente">
-<!ENTITY monthAgeInterval.label          "havonta">
-<!ENTITY yearAgeInterval.label           "évente">
-<!ENTITY ageAutosyncAfter.label          "">
+<!ENTITY dayAgeInterval.label            "nap">
+<!ENTITY weekAgeInterval.label           "hét">
+<!ENTITY monthAgeInterval.label          "hónap">
+<!ENTITY yearAgeInterval.label           "év">
+<!ENTITY ageAutosyncAfter.label          "üzeneteinek szinkronizálása">
