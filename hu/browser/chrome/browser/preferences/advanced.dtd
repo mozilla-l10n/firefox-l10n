@@ -21,8 +21,6 @@
 <!ENTITY allowHWAccel.accesskey          "a">
 <!ENTITY checkSpelling.label             "Helyesírás-ellenőrzés beírás közben">
 <!ENTITY checkSpelling.accesskey         "H">
-<!ENTITY doNotTrack.label                "Nem akarom, hogy a webhelyek kövessenek">
-<!ENTITY doNotTrack.accesskey            "N">
 
 <!ENTITY systemDefaults.label            "Rendszer alapbeállításai">
 <!ENTITY alwaysCheckDefault.label        "Indításkor ellenőrzés, hogy a &brandShortName;-e az alapértelmezett böngésző"><!--XXX-->

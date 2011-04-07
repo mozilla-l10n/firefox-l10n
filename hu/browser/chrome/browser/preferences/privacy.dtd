@@ -1,3 +1,8 @@
+<!ENTITY tracking.label                 "Követés">
+
+<!ENTITY doNotTrack.label               "Nem akarom, hogy a webhelyek kövessenek">
+<!ENTITY doNotTrack.accesskey           "N">
+
 <!ENTITY  history.label                 "Előzmények">
 
 <!ENTITY  locationBar.label             "Címsáv">
@@ -29,7 +34,6 @@
 
 <!ENTITY  showCookies.label             "Sütik megtekintése...">
 <!ENTITY showCookies.accesskey         "S">
-
 
 <!ENTITY  historyHeader.pre.label          "A &brandShortName;:">
 <!ENTITY historyHeader.pre.accesskey      "F">

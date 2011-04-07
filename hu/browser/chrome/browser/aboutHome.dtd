@@ -6,9 +6,6 @@
 
 <!ENTITY abouthome.pageTitle "&brandFullName; kezdőoldal">
 
-<!-- LOCALIZATION NOTE (abouthome.brandStart):
-     brandShortName must be in a <span/>
--->
 <!ENTITY abouthome.searchEngineButton.label "Keresés">
 
 <!ENTITY abouthome.aboutMozilla "A Mozilláról">
