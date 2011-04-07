@@ -120,8 +120,6 @@
 <!ENTITY checkSpellingCmd2.label            "Sprawdź pisownię">
 <!ENTITY checkSpellingCmd2.accesskey        "r">
 <!ENTITY checkSpellingCmd2.key              "p">
-<!ENTITY validateCmd.label                  "Weryfikuj poprawność kodu HTML">
-<!ENTITY validateCmd.accesskey              "W">
 
 <!-- Insert menu items -->
 <!ENTITY insertMenu.label         "Wstaw">
