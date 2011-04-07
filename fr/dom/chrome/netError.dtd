@@ -206,3 +206,6 @@ lesquelles vous avez confiance.</p>">
      this inclusion needs to be intact for that approach to work correctly. -->
 <!ENTITY % netErrorAppDTD SYSTEM "chrome://global/locale/netErrorApp.dtd">
 %netErrorAppDTD;
+
+<!ENTITY remoteXUL.title "XUL distant">
+<!ENTITY remoteXUL.longDesc "<p><ul><li>Veuillez contacter les propriétaires du site Web pour les informer de ce problème.</li></ul></p>">
