@@ -84,3 +84,5 @@
 
 <!ENTITY cspFrameAncestorBlocked.title "Bloquiáu pola política de seguridá de conteníu">
 <!ENTITY cspFrameAncestorBlocked.longDesc "<p>El restolador web impidió qu'esta páxina se cargase d'esta forma, porque la páxina tien una política de seguridá de conteníu que nun lo permite.</p>">
+<!ENTITY remoteXUL.title "XUL Remotu">
+<!ENTITY remoteXUL.longDesc "<p><ul><li>Por favor, contauta col alministrador del sitiu web pa informalu d'esti problema.</li></ul></p>">
