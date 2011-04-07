@@ -218,6 +218,9 @@
 <!ENTITY cspFrameAncestorBlocked.title "Blockerad av säkerhetspolicyn för innehåll">
 <!ENTITY cspFrameAncestorBlocked.longDesc "<p>Webbläsaren förhindrade sidan från att öppnas på detta sätt eftersom sidan har en säkerhetspolicy för innehåll som inte tillåter detta.</p>">
 
+<!ENTITY remoteXUL.title "Extern XUL">
+<!ENTITY remoteXUL.longDesc "<p><ul><li>Kontakta ägaren av webbplatsen för att informera dem om detta problem.</li></ul></p>">
+
 <!-- Include app-specific error messages - do not change this in localization!
      Some applications might override netErrorApp.dtd with their specific version,
      this inclusion needs to be intact for that approach to work correctly. -->
