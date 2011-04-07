@@ -58,6 +58,14 @@
 <!-- Format menu items -->
 <!ENTITY formatMenu.label "格式">
 <!ENTITY formatMenu.accesskey "o">
+<!ENTITY grid.label "定位格點">
+<!ENTITY grid.accesskey "t">
+<!ENTITY pageProperties.label "頁面標題與屬性…">
+<!ENTITY pageProperties.accesskey "g">
+
+<!-- Tools menu items -->
+<!ENTITY validateCmd.label "驗證 HTML">
+<!ENTITY validateCmd.accesskey "V">
 
 <!-- Display Mode toolbar and View menu items -->
 <!ENTITY NormalModeTab.label "標準">

@@ -75,3 +75,6 @@
      this inclusion needs to be intact for that approach to work correctly. -->
 <!ENTITY % netErrorAppDTD SYSTEM "chrome://global/locale/netErrorApp.dtd">
 %netErrorAppDTD;
+
+<!ENTITY remoteXUL.title "遠端 XUL">
+<!ENTITY remoteXUL.longDesc "<p><ul><li>請聯絡網站管理員以通知他們這個問題。</li></ul></p>">
