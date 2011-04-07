@@ -336,11 +336,6 @@
 <!ENTITY decreaseIndent.accesskey  "m">
 <!ENTITY decreaseIndent.key        "[">
 
-<!ENTITY grid.label                    "Siatka">
-<!ENTITY grid.accesskey                "t">
-
-<!ENTITY pageProperties.label          "Właściwości i tytuł strony…">
-<!ENTITY pageProperties.accesskey      "o">
 <!ENTITY colorsAndBackground.label     "Kolory strony i tło…">
 <!ENTITY colorsAndBackground.accesskey "y">
 

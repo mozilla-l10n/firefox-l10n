@@ -62,6 +62,10 @@
 <!-- Format menu items -->
 <!ENTITY formatMenu.label     "Format">
 <!ENTITY formatMenu.accesskey "F">
+<!ENTITY grid.label               "Siatka">
+<!ENTITY grid.accesskey           "t">
+<!ENTITY pageProperties.label     "Właściwości i tytuł strony…">
+<!ENTITY pageProperties.accesskey "o">
 
 <!-- Display Mode toolbar and View menu items -->
 <!ENTITY NormalModeTab.label      "Normalny">
