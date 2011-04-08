@@ -24,8 +24,10 @@
 <!ENTITY mySyncKey.accesskey          "M">
 <!ENTITY resetSync.label "Restablecer Sync">
 <!ENTITY resetSync.accesskey          "e">
-<!ENTITY stopUsingAccount.label       "Dejar de usar esta cuenta">
-<!ENTITY stopUsingAccount.accesskey   "a">
+<!ENTITY deactivateDevice.label       "Desactivar este dispositivo">
+<!ENTITY deactivateDevice.accesskey   "D">
+<!ENTITY addDevice.label              "Agregar un dispositivo">
+<!ENTITY addDevice.accesskey          "A">
 
 <!-- Sync Settings -->
 <!ENTITY syncComputerName.label       "Nombre de computadora:">
