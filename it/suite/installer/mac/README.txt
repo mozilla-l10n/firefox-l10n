@@ -22,13 +22,12 @@
 
   Requisiti di sistema:
 
-  - Mac OS X 10.4 e successivi
+  - Mac OS X 10.5 e successivi
 
 
   Requisiti hardware:
 
-  - computer Macintosh con processore Intel x86 o PowerPC G3/G4/G5
-  - 256 MB RAM
+  - computer Macintosh con processore Intel x86
   - 200 MB di spazio libero su hard disk
 
 
@@ -48,20 +47,17 @@
   Dove sono memorizzate le informazioni
   -------------------------------------
 
-  Quando avvii SeaMonkey per la prima volta, viene creata una cartella
-  "SeaMonkey" in
+  Quando avvii SeaMonkey per la prima volta, viene creata una cartella "SeaMonkey" in
 
   ~/Library/Application Support/ (dove ~ è la tua cartella home).
 
-  Le tue impostazioni, segnalibri, e-mail, password, ecc. sono memorizzate in
-  una cartella profilo dentro la cartella SeaMonkey. La cartella profilo è
-  situata in
+  Le tue impostazioni, segnalibri, e-mail, password, ecc. sono memorizzate in una
+  cartella profilo dentro la cartella SeaMonkey. La cartella profilo è situata in
 
   ~/Library/Application Support/SeaMonkey/Profiles/[stringaCasuale.nomeProfilo].
 
-  SeaMonkey memorizza la sua cache in ~/Library/Cache/SeaMonkey. Certe
-  impostazioni (tipo l'ultima cartella usata per un salvataggio) sono
-  memorizzate in
+  SeaMonkey memorizza la sua cache in ~/Library/Cache/SeaMonkey. Certe impostazioni
+  (tipo l'ultima cartella usata per un salvataggio) sono memorizzate in
 
   ~/Library/Preferences/org.mozilla.seamonkey.plist.
 
@@ -90,12 +86,10 @@
   Come ottenere SeaMonkey
   -----------------------
 
-  Per poter eseguire delle prove, vengono fornite build notturne di SeaMonkey
-  regolarmente.
+  Per poter eseguire delle prove, vengono fornite build notturne di SeaMonkey regolarmente.
   Esse rispecchiano lo stato di sviluppo corrente e possono contenere difetti.
 
-  Le build notturne di date diverse sono disponibile sul sito FTP di
-  mozilla.org FTP presso
+  Le build notturne di date diverse sono disponibile sul sito FTP di mozilla.org FTP presso
   http://ftp.mozilla.org/pub/mozilla.org/seamonkey/nightly/.
 
   Per le ultimissime build, vedere
@@ -111,14 +105,11 @@
   Altre informazioni e impressioni d'uso
   --------------------------------------
 
-  Per ulteriori informazioni su SeaMonkey, visita
-  http://www.seamonkey-project.org/.
-  Per segnalare errori o fornire impressioni d'uso, visita
-  http://www.seamonkey-project.org/dev/get-involved
+  Per ulteriori informazioni su SeaMonkey, visita http://www.seamonkey-project.org/.
+  Per segnalare errori o fornire impressioni d'uso, visita http://www.seamonkey-project.org/dev/get-involved
   e controlla Bugzilla presso https://bugzilla.mozilla.org/ per problemi noti,
   linee guida su come segnalare i problemi, ed altro. Puoi ricevere aiuto per
-  Bugzilla andando col tuo client IRC nel canale #mozillazine su
-  irc.mozilla.org.
+  Bugzilla andando col tuo client IRC nel canale #mozillazine su irc.mozilla.org.
 
 
   Licenza

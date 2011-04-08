@@ -10,8 +10,7 @@ distribuito.
 Questo file Leggimi contiene informazioni sui requisiti di sistema e
 le istruzioni di installazione per le versioni Linux di SeaMonkey.
 
-Per ulteriori informazioni su SeaMonkey, visita
-http://www.seamonkey-project.org/
+Per ulteriori informazioni su SeaMonkey, visita http://www.seamonkey-project.org/
 Per segnalare bug o fornire impressioni d'uso, visita
 http://www.seamonkey-project.org/dev/get-involved e controlla Bugzilla
 presso https://bugzilla.mozilla.org/ per link ai bug noti, linee guida per
@@ -25,7 +24,8 @@ con il tuo client IRC sul canale #mozillazine su irc.mozilla.org.
 
 ==========================================================================
 
-Puoi scaricare le versioni notturne di SeaMonkey dal sito FTP di mozilla.org
+Puoi scaricare le versioni giornaliere di SeaMonkey dal sito FTP di 
+mozilla.org
 
   http://ftp.mozilla.org/pub/mozilla.org/seamonkey/nightly/
 
@@ -75,9 +75,8 @@ non utilizzi bash, devi modificare i comandi di conseguenza.
 Installa in una cartella pulita (nuova).
 Installare sopra una versione precedente potrebbe causare problemi.
 
-Nota: Queste istruzioni non spiegano come compilare SeaMonkey.
-Per informazioni su come compilare SeaMonkey dai sorgenti di mozilla.org,
-visita
+Nota: Queste istruzioni non spiegano come compilare SeaMonkey. Per 
+informazioni su come compilare SeaMonkey dai sorgenti di mozilla.org, visita
 
   http://developer.mozilla.org/en/docs/Build_Documentation
 
@@ -127,11 +126,9 @@ Istruzioni d'installazione
      SeaMonkey. Ad esempio, la cartella predefinita che SeaMonkey
      suggerisce è /usr/local/seamonkey.
 
-  3. Inserisci un nome per l'icona, e inserisci un commento se lo ritieni
-     opportuno.
+  3. Inserisci un nome per l'icona, e un commento se lo ritieni opportuno.
 
-  4. Fai clic sul pulsante icona e scrivi ciò che segue come indirizzo
-     dell'icona:
+  4. Fai clic sul pulsante icona e scrivi ciò che segue come sua locazione:
 
        nome_cartella/chrome/icons/default/default.png
 

@@ -10,8 +10,7 @@ distribuito.
 Questo file Leggimi contiene informazioni sui requisiti di sistema e
 le istruzioni di installazione per le versioni Windows di SeaMonkey.
 
-Per ulteriori informazioni su SeaMonkey, visita
-http://www.seamonkey-project.org/
+Per ulteriori informazioni su SeaMonkey, visita http://www.seamonkey-project.org/
 Per segnalare bug o fornire impressioni d'uso, visita
 http://www.seamonkey-project.org/dev/get-involved e controlla Bugzilla
 presso https://bugzilla.mozilla.org/ per link ai bug noti, linee guida per
@@ -25,7 +24,7 @@ con il tuo client IRC sul canale #mozillazine su irc.mozilla.org.
 
 ==========================================================================
 
-Puoi scaricare le versioni notturne di SeaMonkey dal sito FTP di mozilla.org
+Puoi scaricare le versioni giornaliere di SeaMonkey dal sito FTP di mozilla.org
 
   http://ftp.mozilla.org/pub/mozilla.org/seamonkey/nightly/
 
@@ -72,9 +71,8 @@ software antivirus.
 Installa in una cartella pulita (nuova).
 Installare sopra una versione precedente potrebbe causare problemi.
 
-Nota: Queste istruzioni non spiegano come compilare SeaMonkey.
-Per informazioni su come compilare SeaMonkey dai sorgenti di mozilla.org,
-visita
+Nota: Queste istruzioni non spiegano come compilare SeaMonkey. Per 
+informazioni su come compilare SeaMonkey dai sorgenti di mozilla.org, visita
 
   http://developer.mozilla.org/en/docs/Build_Documentation
 
@@ -82,10 +80,9 @@ visita
 Istruzioni d'installazione Windows
 ----------------------------------
 
-Nota: Per i sistemi con Windows 2000/XP, devi possedere i privilegi di
-Amministratore per installare SeaMonkey. Se vedi un messaggio "Errore 5"
-durante l'installazione, assicurati di aver avviato l'installazione con
-i privilegi di Amministratore.
+Nota: Per i sistemi con Windows 2000/XP, devi possedere i privilegi di Amministratore 
+per installare SeaMonkey. Se vedi un messaggio "Errore 5" durante l'installazione, 
+assicurati di aver avviato l'installazione con i privilegi di Amministratore.
 
 
    Per installare SeaMonkey scaricandone l'installer, eseguire questa
