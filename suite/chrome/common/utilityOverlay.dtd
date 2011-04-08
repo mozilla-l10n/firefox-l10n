@@ -47,11 +47,11 @@
 <!ENTITY deleteCmd.accesskey				"B"> 
 <!ENTITY selectAllCmd.label					"Seleccionar todo">  
 <!ENTITY selectAllCmd.key					"A">  
-<!ENTITY selectAllCmd.accesskey				"S">
-<!ENTITY clearHistoryCmd.label				"Limpiar historial de búsquedas">
-<!ENTITY clearHistoryCmd.accesskey			"h">
-<!ENTITY showSuggestionsCmd.label			"Mostrar sugerencias">
-<!ENTITY showSuggestionsCmd.accesskey		"s">
+<!ENTITY selectAllCmd.accesskey				"S"> 
+<!ENTITY clearHistoryCmd.label				"Borrar historial de búsquedas">  
+<!ENTITY clearHistoryCmd.accesskey			"h"> 
+<!ENTITY showSuggestionsCmd.label			"Mostrar sugerencias">  
+<!ENTITY showSuggestionsCmd.accesskey		"s"> 
 <!ENTITY preferencesCmd.label				"Preferencias…">
 <!ENTITY preferencesCmd.key					"E">  
 <!ENTITY preferencesCmd.accesskey			"e"> 
@@ -74,6 +74,8 @@
 <!ENTITY helpTroubleshootingInfo.accesskey  "S">
 <!ENTITY releaseCmd.label				"Notas de la versión">
 <!ENTITY releaseCmd.accesskey                   "N">
+<!ENTITY helpSafeMode.label                 "Reiniciar con los complementos deshabilitados">
+<!ENTITY helpSafeMode.accesskey             "R">
 <!ENTITY updateCmd.label                        "Buscar actualizaciones…">
 <!ENTITY updateCmd.accesskey                    "c">
 <!ENTITY aboutCmd.label					"Acerca de &brandShortName;">

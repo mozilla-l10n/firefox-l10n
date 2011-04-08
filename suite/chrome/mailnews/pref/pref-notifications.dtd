@@ -46,8 +46,8 @@
 <!ENTITY showTrayIcon.accesskey           "t">
 <!ENTITY bounceSystemDockIcon.label       "Animar el ícono del Dock">
 <!ENTITY bounceSystemDockIcon.accesskey   "A">
-<!ENTITY preview.label                    "Vista previa">
-<!ENTITY preview.accesskey                "V">
+<!ENTITY playButton.label                 "Reproducir">
+<!ENTITY playButton.accesskey             "R">
 <!ENTITY systemsound.label                "Sonido del sistema para Nuevo mensaje">
 <!ENTITY systemsound.accesskey            "m">
 <!ENTITY customsound.label                "Archivo de sonido personalizado">
