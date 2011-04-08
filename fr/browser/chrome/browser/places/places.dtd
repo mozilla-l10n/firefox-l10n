@@ -95,7 +95,7 @@
 <!ENTITY search.label "Rechercher :">
 <!ENTITY search.accesskey "R">
 
-<!ENTITY search.in.label                           "Rechercher dans :">
+<!ENTITY search.in.label "Rechercher dans :">
 <!ENTITY search.scopeFolder.label "Dossier sélectionné">
 <!ENTITY search.scopeFolder.accesskey "D">
 <!ENTITY search.scopeBookmarks.label "Marque-pages">
@@ -121,7 +121,7 @@
 <!ENTITY detailsPane.more.label "Plus">
 <!ENTITY detailsPane.more.accesskey "P">
 <!ENTITY detailsPane.less.label "Moins">
-<!ENTITY detailsPane.less.accesskey "M">
+<!ENTITY detailsPane.less.accesskey "s">
 
 <!ENTITY detailsPane.noPreviewAvailable.label "Aperçu">
 <!ENTITY detailsPane.selectAnItemText.description "Sélectionner un élément pour afficher et modifier ses propriétés">
