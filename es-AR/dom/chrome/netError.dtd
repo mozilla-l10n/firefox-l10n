@@ -80,6 +80,7 @@
 <p>Ingresar cualquier información personal en esta página puede resultar en un robo de identidad o algún otro fraude.</p>
 <p>Estos tipos de falsificaciones web son usados en estafas conocidas como ataques de <i>phishing</i>, en los que páginas web y correos electrónicos fraudulentos son usados para imitar páginas en las que puede confiar.</p>
 ">
+
 <!ENTITY cspFrameAncestorBlocked.title "Bloqueado por política de seguridad de contenido">
 <!ENTITY cspFrameAncestorBlocked.longDesc "<p>El navegador evitó que se cargue esta página de esta forma porque tiene una política de seguridad de contenido que no lo permite.</p>">
 
@@ -88,3 +89,7 @@
      this inclusion needs to be intact for that approach to work correctly. -->
 <!ENTITY % netErrorAppDTD SYSTEM "chrome://global/locale/netErrorApp.dtd">
 %netErrorAppDTD;
+
+<!ENTITY remoteXUL.title "XUL remoto">
+<!ENTITY remoteXUL.longDesc "<p><ul><li>Contacte a los dueños de sitio web para informarles de este problema.</li></ul></p>">
+
