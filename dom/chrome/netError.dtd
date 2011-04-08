@@ -57,3 +57,5 @@
 <p>Questo tipo di contraffazione viene sfruttato nei cosiddetti attacchi phishing, dove vengono utilizzate in modo fraudolento pagine web ed e-mail per imitare fonti di cui solitamente ci si fida.</p>">
 <!ENTITY cspFrameAncestorBlocked.title "Bloccato dai criteri sulla sicurezza dei contenuti">
 <!ENTITY cspFrameAncestorBlocked.longDesc "<p>Il browser ha bloccato il caricamento della pagina con questa modalità in quanto include dei criteri sulla sicurezza dei contenuti che lo impediscono.</p>">
+<!ENTITY remoteXUL.title "XUL remoto">
+<!ENTITY remoteXUL.longDesc "<p><ul><li>Contattare l'amministratore del sito web e segnalare il problema.</li></ul></p>">
