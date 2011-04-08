@@ -459,8 +459,8 @@ you can use these alternative items. Otherwise, their values should be empty.
 
 <!ENTITY fullScreenButton.tooltip       "Afficher la fenêtre en plein écran">
 
-<!ENTITY zoomOutButton.tooltip          "Zoom avant">
-<!ENTITY zoomInButton.tooltip           "Zoom arrière">
+<!ENTITY zoomOutButton.tooltip          "Zoom arrière">
+<!ENTITY zoomInButton.tooltip           "Zoom avant">
 <!ENTITY zoomControls.label             "Niveau de zoom">
 
 <!ENTITY quitApplicationCmdWin.label       "Quitter">
