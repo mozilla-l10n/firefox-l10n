@@ -279,7 +279,7 @@ can reach it easily. -->
 
 <!ENTITY appMenuEdit.label "Editar">
 <!ENTITY appMenuCustomize.label "Personalizar">
-<!ENTITY appMenuToolbarLayout.label "Barra de diseño…">
+<!ENTITY appMenuToolbarLayout.label "Personalizar barras…">
 <!ENTITY appMenuSidebars.label "Barras laterales">
 <!ENTITY appMenuFind.label "Buscar…">
 <!ENTITY appMenuUnsorted.label "Marcadores sin ordenar">
