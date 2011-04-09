@@ -21,3 +21,21 @@
 <!ENTITY update.manual.end "">
 <!ENTITY update.downloading.start "Descargando anovamientu — ">
 <!ENTITY update.downloading.end "">
+
+<!ENTITY channel.description.start  "Agora mesmo tas nun ">
+<!ENTITY channel.description.end    " canal d'anovamientu. ">
+<!ENTITY channel.change             "Cambiar">
+<!ENTITY channel.release.description       "Esfruta la esperiencia de la versión final usada por cientos de millones en tol mundu. Ten el control de la to esperiencia online con velocidá super, una personalización cenciella y les caberes teunoloxíes de la Web.">
+<!ENTITY channel.beta.description          "Una esperiencia de carauterístiques de vanguardia cola mayor estabilidá. Ufre información p'ayudar a redefinir y ameyorar lo que será la versión final.">
+<!ENTITY channel.aurora.description        "Esperimentar les caberes innovaciones nun ambiente inestable nun ye pa débiles de corazón. Ufre información sobre les carauterístiques y rendimientu p'ayudar a afitar la versión final.">
+
+<!-- LOCALIZATION NOTE (channel.selector.start,channel.selector.end): channel.selector.start and
+     channel.selector.end create one sentence, with a channel selection menulist instered in between.
+     This is all in one line, so try to make the localized text short.
+     example: Switch to the [Stable] update channel. -->
+<!ENTITY channel.selector.start          "Cambiar al">
+<!ENTITY channel.selector.end            "canal d'anovamientu.">
+<!-- LOCALIZATION NOTE (channel.selector.applyButton): This button applies the user's choice to switch
+     to a new update channel and starts the application update process. -->
+<!ENTITY channel.selector.applyButton    "Aplicar y anovar">
+<!ENTITY channel.selector.cancelButton   "Encaboxar">
