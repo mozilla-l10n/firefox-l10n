@@ -1,5 +1,3 @@
-<!ENTITY % netErrorAppDTD SYSTEM "chrome://global/locale/netErrorApp.dtd">
-%netErrorAppDTD;
 <!ENTITY loadError.label "Ошибка загрузки страницы">
 <!ENTITY retry.label "Попробовать снова">
 <!ENTITY connectionFailure.title "Ошибка соединения">
@@ -60,3 +58,10 @@
 <!ENTITY cspFrameAncestorBlocked.longDesc "<p>Браузер предотвратил загрузку этой страницы данным способом, так как страница имеет политику защиты содержимого, запрещающую это.</p>">
 <!ENTITY remoteXUL.title "Удалённый XUL">
 <!ENTITY remoteXUL.longDesc "<p><ul><li>Пожалуйста, свяжитесь с владельцами веб-сайта, чтобы проинформировать их об этой проблеме.</li></ul></p>">
+
+<!-- Include app-specific error messages - do not change this in localization!
+     Some applications might override netErrorApp.dtd with their specific version,
+     this inclusion needs to be intact for that approach to work correctly.
+     Please, try to keep this at the end of the file. -->
+<!ENTITY % netErrorAppDTD SYSTEM "chrome://global/locale/netErrorApp.dtd">
+%netErrorAppDTD;
