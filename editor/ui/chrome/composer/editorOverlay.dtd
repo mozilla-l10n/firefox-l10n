@@ -116,8 +116,6 @@
 <!ENTITY checkSpellingCmd2.label "Spelling controleren">
 <!ENTITY checkSpellingCmd2.accesskey "c">
 <!ENTITY checkSpellingCmd2.key "p">
-<!ENTITY validateCmd.label "HTML valideren">
-<!ENTITY validateCmd.accesskey "v">
 
 <!-- Insert menu items -->
 <!ENTITY insertMenu.label "Invoegen">
