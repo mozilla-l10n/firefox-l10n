@@ -1,3 +1,8 @@
+<!ENTITY tracking.label                          "Jälitamine">
+
+<!ENTITY doNotTrack.label                        "Veebilehtedele antakse teada, et jälitamist ei soovita">
+<!ENTITY doNotTrack.accesskey                    "j">
+
 <!ENTITY history.label                           "Ajalugu">
 
 <!ENTITY  locationBar.label                      "Asukohariba">
