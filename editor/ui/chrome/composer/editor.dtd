@@ -58,6 +58,10 @@
 <!-- Format menu items -->
 <!ENTITY formatMenu.label "Opmaak">
 <!ENTITY formatMenu.accesskey "O">
+<!ENTITY grid.label "Raster plaatsen">
+<!ENTITY grid.accesskey "t">
+<!ENTITY pageProperties.label "Paginatitel en -eigenschappen…">
+<!ENTITY pageProperties.accesskey "P">
 
 <!-- Display Mode toolbar and View menu items -->
 <!ENTITY NormalModeTab.label "Normaal">
