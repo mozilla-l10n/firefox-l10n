@@ -119,8 +119,6 @@
 <!ENTITY checkSpellingCmd2.label "Stavningskontroll">
 <!ENTITY checkSpellingCmd2.accesskey "a">
 <!ENTITY checkSpellingCmd2.key "p">
-<!ENTITY validateCmd.label "Validera HTML">
-<!ENTITY validateCmd.accesskey "V">
 
 <!-- Insert menu items -->
 <!ENTITY insertMenu.label "Infoga">
@@ -335,11 +333,6 @@
 <!ENTITY decreaseIndent.accesskey "d">
 <!ENTITY decreaseIndent.key "Ö">
 
-<!ENTITY grid.label "Positioneringsnät">
-<!ENTITY grid.accesskey "P">
-
-<!ENTITY pageProperties.label "Titel och egenskaper för sida...">
-<!ENTITY pageProperties.accesskey "h">
 <!ENTITY colorsAndBackground.label "Färger och bakgrund för sida...">
 <!ENTITY colorsAndBackground.accesskey "u">
 
