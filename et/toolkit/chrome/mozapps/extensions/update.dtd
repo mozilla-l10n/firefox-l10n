@@ -45,4 +45,4 @@
 <!-- general strings used by several of the finish pages -->
 <!ENTITY clickFinish.label               "&brandShortName;i käivitamise jätkamiseks klõpsa Lõpeta.">
 <!ENTITY clickFinish.labelMac            "&brandShortName;i käivitamise jätkamiseks klõpsa Lõpeta.">
-<!ENTITY enableChecking.label            "Luba &brandShortName;il kontrollida uuendusi.">
+<!ENTITY enableChecking.label            "&brandShortName;il lubatakse kontrollida uuendusi.">

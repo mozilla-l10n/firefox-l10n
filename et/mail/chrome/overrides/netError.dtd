@@ -54,7 +54,7 @@
 <!ENTITY netOffline.title                      "Võrguta režiim">
 <!ENTITY netOffline.longDesc                   "
 <ul>
-  <li>Lülita &quot;Tööta võrguta&quot; Fail menüüst välja, ning proovi siis uuesti.</li>
+  <li>Lülita &quot;Tööta võrguta&quot; Fail menüüst välja ning proovi siis uuesti.</li>
 </ul>
 ">
 
@@ -175,7 +175,7 @@ button is included here (instead of netError.xhtml) because it exposes
 functionality specific to thunderbird. -->
 
 <!ENTITY securityOverride.warningContent       "
-<p>Erandit ei tohiks lisada, kui sa kasutad internetiühendust, mida sa täielikult ei usalda, või kui sa pole harjunud nägema hoiatusi sellelt serverilt.</p>
+<p>Erandit ei tohiks lisada, kui kasutad internetiühendust, mida sa täielikult ei usalda, või kui sa pole harjunud nägema hoiatusi sellelt serverilt.</p>
 
 <button id='getMeOutOfHereButton'>&securityOverride.getMeOutOfHereButton;</button>
 <button id='exceptionDialogButton'>&securityOverride.exceptionButtonLabel;</button>
