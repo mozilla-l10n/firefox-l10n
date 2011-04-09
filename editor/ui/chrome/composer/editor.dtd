@@ -60,6 +60,14 @@
 <!-- Format menu items -->
 <!ENTITY formatMenu.label "Format">
 <!ENTITY formatMenu.accesskey "o">
+<!ENTITY grid.label "Positioneringsnät">
+<!ENTITY grid.accesskey "P">
+<!ENTITY pageProperties.label "Titel och egenskaper för sida…">
+<!ENTITY pageProperties.accesskey "h">
+
+<!-- Tools menu items -->
+<!ENTITY validateCmd.label "Validera HTML">
+<!ENTITY validateCmd.accesskey "V">
 
 <!-- Display Mode toolbar and View menu items -->
 <!ENTITY NormalModeTab.label "Normal">
