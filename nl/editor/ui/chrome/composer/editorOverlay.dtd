@@ -332,11 +332,6 @@
 <!ENTITY decreaseIndent.accesskey "v">
 <!ENTITY decreaseIndent.key "-">
 
-<!ENTITY grid.label "Raster plaatsen">
-<!ENTITY grid.accesskey "t">
-
-<!ENTITY pageProperties.label "Paginatitel en -eigenschappen…">
-<!ENTITY pageProperties.accesskey "P">
 <!ENTITY colorsAndBackground.label "Paginakleuren en achtergrond…">
 <!ENTITY colorsAndBackground.accesskey "h">
 
