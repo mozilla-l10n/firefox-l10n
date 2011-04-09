@@ -49,7 +49,7 @@
 -->
 <!ENTITY limitCacheSizeBefore.label        "Vahemälu kasutus piiratakse">
 <!ENTITY limitCacheSizeBefore.accesskey    "V">
-<!ENTITY limitCacheSizeAfter.label         "MiB kettaruumile">
+<!ENTITY limitCacheSizeAfter.label         "MiB kettaruumiga">
 <!ENTITY clearCacheNow.label               "Tühjenda">
 <!ENTITY clearCacheNow.accesskey           "T">
 <!ENTITY overrideSmartCacheSize.label      "Keelatakse automaatne vahemälu haldamine">

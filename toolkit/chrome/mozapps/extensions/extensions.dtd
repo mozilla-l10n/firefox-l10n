@@ -108,7 +108,7 @@
 <!ENTITY detail.homepage.label                "Koduleht">
 <!ENTITY detail.numberOfDownloads.label       "Allalaadimisi">
 
-<!ENTITY detail.contributions.description     "Selle lisa arendaja palub sult väikse annetuse näol abi jätkuvaks arenduseks.">
+<!ENTITY detail.contributions.description     "Selle lisa arendaja palub sult väikse annetuse kujul abi arenduse jätkamiseks.">
 
 <!ENTITY detail.updateType                    "Automaatne uuendamine">
 <!ENTITY detail.updateDefault.label           "Vaikimisi">

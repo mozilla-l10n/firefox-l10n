@@ -123,7 +123,7 @@
 <!-- Form Signing confirmation prompt -->
 <!ENTITY formSigning.title "Teksti allkirjastamise päring">
 <!ENTITY formSigning.cert "Allkirja sertifikaat">
-<!ENTITY formSigning.confirmPassword "Et kinnitada oma nõustumist selle tekstisõnumi allkirjastamisega valitud sertifikaadiga pead sisestama oma ülemparooli:">
+<!ENTITY formSigning.confirmPassword "Et kinnitada nõustumist selle tekstisõnumi allkirjastamisega valitud sertifikaadiga, pead sisestama oma ülemparooli:">
 
 <!-- Strings for protectedAuth dialog -->
 <!ENTITY protectedAuth.title "Turvatõendi kasutusõiguse kinnitamine">

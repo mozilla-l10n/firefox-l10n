@@ -3,7 +3,7 @@
 <!ENTITY firstrun.sync2.title               "Süngi">
 <!ENTITY firstrun.sync2.description         "Logi sisse Synci kontosse ja jaga lehitsemise ajalugu, salvestatud paroole, järjehoidjaid ning kaarte oma arvuti ja mobiili vahel">
 <!ENTITY firstrun.addons2.title             "Kohanda">
-<!ENTITY firstrun.addons2.description       "Avasta ja paigalda lisasid, et lisada &brandShortName;ile lisafunktsionaalsust">
+<!ENTITY firstrun.addons2.description       "Avasta ja paigalda lisasid, et anda &brandShortName;ile lisafunktsionaalsust">
 <!ENTITY firstrun.home2.title               "Lehitse">
 <!ENTITY firstrun.home2.description         "Jäta see kõik vahele ja mine oma kohandatud avalehele, et alustada veebilehitsemist">
 <!ENTITY firstrun.features                  "Vaata, mis on veel uut">
