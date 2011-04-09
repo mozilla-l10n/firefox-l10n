@@ -62,3 +62,5 @@
 ">
 <!ENTITY cspFrameAncestorBlocked.title "Bloqueado por la política de seguridad de contenido">
 <!ENTITY cspFrameAncestorBlocked.longDesc "<p>El navegador ha impedido que esta página se cargue de esta forma porque la página tiene una política de seguridad de contenido que no lo permite.</p>">
+<!ENTITY remoteXUL.title "XUL remoto">
+<!ENTITY remoteXUL.longDesc "<p><ul><li>Por favor, contacte con los propietarios del sitio web para informarles de este problema.</li></ul></p>">
