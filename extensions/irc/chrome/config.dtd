@@ -35,7 +35,7 @@
    -
    - ***** END LICENSE BLOCK ***** -->
 <!ENTITY window.title "Настройки ChatZilla">
-<!ENTITY loading.label "Загружается, пожалуйста подождите… ">
+<!ENTITY loading.label "Загружается, пожалуйста, подождите… ">
 <!ENTITY homepage.url "http://chatzilla.hacksrus.com/">
 <!ENTITY homepage.label "Домашняя страница ChatZilla">
 <!ENTITY object.add.label "Добавить…">

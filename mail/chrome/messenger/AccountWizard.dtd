@@ -50,7 +50,7 @@
 <!ENTITY accnameLabel.label "Имя учётной записи:">
 <!ENTITY accnameLabel.accesskey "у">
 <!ENTITY completionTitle.label "Поздравляем!">
-<!ENTITY completionText.label "Пожалуйста проверьте, что приведённая ниже информация верна.">
+<!ENTITY completionText.label "Пожалуйста, проверьте, что приведённая ниже информация верна.">
 <!ENTITY serverTypePrefix.label "Тип сервера входящей почты:">
 <!ENTITY serverNamePrefix.label "Имя сервера входящей почты:">
 <!ENTITY smtpServerNamePrefix.label "Имя сервера исходящей почты (SMTP):">

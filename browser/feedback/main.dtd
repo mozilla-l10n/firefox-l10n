@@ -14,7 +14,7 @@
 <!ENTITY testpilot.studiesWindow.finishedStudies.label "Законченные исследования">
 <!ENTITY testpilot.studiesWindow.studyFindings.label "Результаты исследования">
 <!ENTITY testpilot.studiesWindow.settings.label "Параметры">
-<!ENTITY testpilot.studiesWindow.stillLoadingMessage "Идёт загрузка, пожалуйста подождите…">
+<!ENTITY testpilot.studiesWindow.stillLoadingMessage "Идёт загрузка, пожалуйста, подождите…">
 <!ENTITY testpilot.rawDataWindow.title "Испытатель: необработанные данные">
 <!ENTITY testpilot.notification.close.tooltip "Закрыть">
 <!ENTITY testpilot.enable.label "Включить исследования пользователя">
