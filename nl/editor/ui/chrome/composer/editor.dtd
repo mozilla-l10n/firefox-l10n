@@ -63,6 +63,10 @@
 <!ENTITY pageProperties.label "Paginatitel en -eigenschappen…">
 <!ENTITY pageProperties.accesskey "P">
 
+<!-- Tools menu items -->
+<!ENTITY validateCmd.label "HTML valideren">
+<!ENTITY validateCmd.accesskey "v">
+
 <!-- Display Mode toolbar and View menu items -->
 <!ENTITY NormalModeTab.label "Normaal">
 <!ENTITY NormalMode.label "Normale bewerkingsmodus">
