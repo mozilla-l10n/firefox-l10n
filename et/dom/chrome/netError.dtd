@@ -86,8 +86,12 @@ muidu kasutatakse <em>muul</em> otstarbel kui veebilehitsemine. Veebilehitseja k
 <!ENTITY cspFrameAncestorBlocked.title "Blokeeritud sisu turvalisuse reegliga">
 <!ENTITY cspFrameAncestorBlocked.longDesc "<p>Brauser keeldus selle lehe laadimisest antud kujul, sest leht on kaitstud sisu turvalisuse reegliga, mis selle keelab.</p>">
 
+<!ENTITY remoteXUL.title "Remote XUL">
+<!ENTITY remoteXUL.longDesc "<p><ul><li>Palun kontakteeru veebilehe omanikega, et teavitada neid sellest probleemist.</li></ul></p>">
+
 <!-- Include app-specific error messages - do not change this in localization!
      Some applications might override netErrorApp.dtd with their specific version,
-     this inclusion needs to be intact for that approach to work correctly. -->
+     this inclusion needs to be intact for that approach to work correctly.
+     Please, try to keep this at the end of the file. -->
 <!ENTITY % netErrorAppDTD SYSTEM "chrome://global/locale/netErrorApp.dtd">
 %netErrorAppDTD;
