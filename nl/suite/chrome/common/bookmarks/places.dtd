@@ -101,8 +101,8 @@
 
 <!ENTITY detailsPane.more.label "Meer">
 <!ENTITY detailsPane.more.accesskey "M">
-<!ENTITY detailsPane.less.label "Minder">
-<!ENTITY detailsPane.less.accesskey "M">
+<!ENTITY detailsPane.fewer.label "Minder">
+<!ENTITY detailsPane.fewer.accesskey "M">
 <!ENTITY detailsPane.selectAnItemText.description "Selecteer een item om de eigenschappen ervan te bekijken en te bewerken">
 
 <!ENTITY editBookmark.done.label "Klaar">
