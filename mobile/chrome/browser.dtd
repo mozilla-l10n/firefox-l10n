@@ -95,6 +95,7 @@
 <!ENTITY contextSaveImage.label    "Salvesta pilt">
 <!ENTITY contextShareLink.label    "Jaga linki">
 <!ENTITY contextShareImage.label   "Jaga pilti">
+<!ENTITY contextBookmarkLink.label "Lisa link järjehoidjatesse">
 <!ENTITY contextSaveVideo.label    "Salvesta video">
 <!ENTITY contextShareVideo.label   "Jaga videot">
 <!ENTITY contextPlayMedia.label    "Esita">
