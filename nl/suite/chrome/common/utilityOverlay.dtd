@@ -38,11 +38,20 @@
 <!ENTITY pasteCmd.accesskey                     "P">
 <!ENTITY pasteGoCmd.label                       "Plakken &amp; gaan">
 <!ENTITY pasteGoCmd.accesskey                   "e">
+
+<!-- LOCALIZATION NOTE (pasteSearchCmd): "Search" is a verb, this is the
+     search bar equivalent to the url bar's "Paste & Go"  --> 
+<!ENTITY pasteSearchCmd.label                   "Plakken &amp; Zoeken">
+<!ENTITY pasteSearchCmd.accesskey		"e">
 <!ENTITY deleteCmd.label                        "Verwijderen">
 <!ENTITY deleteCmd.accesskey                    "V">
 <!ENTITY selectAllCmd.label                     "Alles selecteren">
 <!ENTITY selectAllCmd.key                       "A">
 <!ENTITY selectAllCmd.accesskey                 "A">
+<!ENTITY clearHistoryCmd.label			"Zoekgeschiedenis wissen">  
+<!ENTITY clearHistoryCmd.accesskey		"Z"> 
+<!ENTITY showSuggestionsCmd.label		"Suggesties tonen">  
+<!ENTITY showSuggestionsCmd.accesskey		"S"> 
 <!ENTITY preferencesCmd.label                   "Voorkeuren…">
 <!ENTITY preferencesCmd.key                     "E">
 <!ENTITY preferencesCmd.accesskey               "o">
