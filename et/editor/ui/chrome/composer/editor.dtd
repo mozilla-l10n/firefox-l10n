@@ -42,6 +42,9 @@
 
 <!-- Menu items:  the . means that the menu item isn't implemented yet -->
 
+<!-- Toolbar-only items -->
+<!ENTITY compositionToolbar.tooltip              "Koostamise tööriistariba">
+
 <!-- View menu items -->
 <!ENTITY viewMenu.label                          "Vaade">
 <!ENTITY viewMenu.accesskey                      "V">
@@ -55,3 +58,35 @@
 <!-- Format menu items -->
 <!ENTITY formatMenu.label                        "Vorming">
 <!ENTITY formatMenu.accesskey                    "o">
+<!ENTITY grid.label                              "Alusvõrk">
+<!ENTITY grid.accesskey                          "l">
+<!ENTITY pageProperties.label                    "Lehe pealkiri ja omadused…">
+<!ENTITY pageProperties.accesskey                "e">
+
+<!-- Tools menu items -->
+<!ENTITY validateCmd.label                       "Valideeri HTML">
+<!ENTITY validateCmd.accesskey                   "V">
+
+<!-- Display Mode toolbar and View menu items -->
+<!ENTITY NormalModeTab.label                     "Tavaline">
+<!ENTITY NormalMode.label                        "Tavaline redigeerimise režiim">
+<!ENTITY NormalMode.accesskey                    "T">
+<!ENTITY NormalMode.tooltip                      "Kuva tabeli piirjooni ja nimega ankruid">
+<!ENTITY AllTagsModeTab.label                    "HTML sildid">
+<!ENTITY AllTagsMode.label                       "HTML sildid">
+<!ENTITY AllTagsMode.accesskey                   "s">
+<!ENTITY AllTagsMode.tooltip                     "Kuva ikoone kõigile HTML siltidele">
+<!-- LOCALIZATION NOTE: (HTMLSourceModeTab.dir, HTMLSourceModeTab.label)
+     Do NOT translate text for 'HTMLSourceModeTab.dir', use latin "ltr" if
+     you want the <html> image to left of the 'HTMLSourceModeTab.label' text,
+     or use latin "rtl" if you want this image to the right of text. You do
+     not need to include HTML in the label 'HTMLSourceModeTab.label' -->
+<!ENTITY HTMLSourceModeTab.dir "ltr">
+<!ENTITY HTMLSourceModeTab.label                 "Lähtekood">
+<!ENTITY HTMLSourceMode.label                    "HTMLi lähtekood">
+<!ENTITY HTMLSourceMode.accesskey                "H">
+<!ENTITY HTMLSourceMode.tooltip                  "Redigeeri HTMLi lähtekoodi">
+<!ENTITY PreviewModeTab.label                    "Eelvaade">
+<!ENTITY PreviewMode.label                       "Eelvaade">
+<!ENTITY PreviewMode.accesskey                   "E">
+<!ENTITY PreviewMode.tooltip                     "Kuva WYSIWYG režiimis (nagu brauseris)">

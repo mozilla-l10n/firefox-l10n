@@ -5,8 +5,12 @@
                        for the help button in the menubar but Gnome does not.   -->
 <!ENTITY helpMenuWin.label                "Abi">
 <!ENTITY helpMenuWin.accesskey            "A">
-<!ENTITY releaseCmd.label                 "Väljalasketeade">
-<!ENTITY releaseCmd.accesskey             "V">
+<!ENTITY helpTroubleshootingInfo.label    "Probleemide lahendamise teave">
+<!ENTITY helpTroubleshootingInfo.accesskey "P">
+<!ENTITY helpSafeMode.label               "Taaskäivita koos lisade keelamisega…">
+<!ENTITY helpSafeMode.accesskey           "T">
+<!ENTITY releaseCmd2.label                "Väljalasketeade">
+<!ENTITY releaseCmd2.accesskey            "V">
 <!ENTITY whatsNewCmd.label                "Mis on uut">
 <!ENTITY whatsNewCmd.accesskey            "M">
 <!ENTITY featureConfiguratorCmd.label     "Migreerumise assistent">

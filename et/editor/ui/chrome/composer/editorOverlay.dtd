@@ -116,8 +116,6 @@
 <!ENTITY checkSpellingCmd2.label             "Kontrolli õigekirja">
 <!ENTITY checkSpellingCmd2.accesskey         "o">
 <!ENTITY checkSpellingCmd2.key               "k">
-<!ENTITY validateCmd.label                   "HTML-i kontroll">
-<!ENTITY validateCmd.accesskey               "n">
 
 <!-- Insert menu items -->
 <!ENTITY insertMenu.label                    "Lisamine">
@@ -332,11 +330,6 @@
 <!ENTITY decreaseIndent.accesskey            "h">
 <!ENTITY decreaseIndent.key                  "[">
 
-<!ENTITY grid.label                          "Alusvõrk">
-<!ENTITY grid.accesskey                      "r">
-
-<!ENTITY pageProperties.label                "Lehe pealkiri ja omadused...">
-<!ENTITY pageProperties.accesskey            "j">
 <!ENTITY colorsAndBackground.label           "Lehe värvid ja taust...">
 <!ENTITY colorsAndBackground.accesskey       "e">
 
@@ -405,7 +398,6 @@
 
 <!-- Toolbar-only items -->
 <!ENTITY menuBar.tooltip                     "Menüüriba">
-<!ENTITY compositionToolbar.tooltip          "Koostamisriba">
 <!ENTITY formatToolbar.tooltip               "Vorminguriba">
 <!ENTITY newToolbarCmd.tooltip               "Loo koostajaga uus tühi leht">
 <!ENTITY openToolbarCmd.label                "Ava">
@@ -450,33 +442,7 @@
 <!ENTITY alignLeftButton.tooltip             "Joonda tekst vasakule">
 <!ENTITY alignCenterButton.tooltip           "Joonda tekst keskele">
 <!ENTITY alignRightButton.tooltip            "Joonda tekst paremale">
-<!ENTITY alignjustifyButton.tooltip          "Joonda tekst servast servani">
-
-<!-- Display Mode toolbar and View menu items -->
-<!ENTITY NormalModeTab.label                 "Tavaline">
-<!ENTITY NormalMode.label                    "Tavaline">
-<!ENTITY NormalMode.accesskey                "A">
-<!ENTITY NormalMode.tooltip                  "Kuva tabeli piirjooni ja nimega ankruid">
-<!ENTITY AllTagsMode.label                   "HTML-sildid">
-<!ENTITY AllTagsMode.accesskey               "H">
-<!ENTITY AllTagsMode.tooltip                 "Kuva kõik HTML-silte ikoonidena">
-
-<!ENTITY HTMLSourceMode.label                "HTML lähtekood">
-<!-- Toolbar has an image with "HTML" text, so don't include it in the string -->
-<!ENTITY SourceMode.label                    "Allikas">
-<!ENTITY HTMLSourceMode.accesskey            "H">
-<!ENTITY HTMLSourceMode.tooltip              "Redigeeri HTML lähtekoodi">
-<!ENTITY PreviewMode.label                   "Eelvaade">
-<!ENTITY PreviewMode.accesskey               "E">
-<!ENTITY PreviewMode.tooltip                 "Kuva lehte, nagu esitataks seda veebilehitsejas">
-
-<!-- LOCALIZATION NOTE: Do NOT translate text for 'SourceTabDirection'
-     Use latin "ltr" if you want the <html> image to left of the 
-     'SourceMode.label' text defined above,
-     or use latin "rtl" if you want this image to the right of text
-     This is the value of the HTML 'dir' attribute
--->
-<!ENTITY SourceTabDirection                  "ltr">
+<!ENTITY alignJustifyButton.tooltip          "Joonda tekst servast servani">
 
 <!-- Structure Toolbar Context Menu items -->
 <!ENTITY structSelect.label                  "Vali">
