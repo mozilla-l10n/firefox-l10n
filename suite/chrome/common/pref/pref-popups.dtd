@@ -18,8 +18,8 @@
 
 <!ENTITY selectSound.label              "Bladeren…">
 <!ENTITY selectSound.accesskey          "a">
-<!ENTITY previewSound.label             "Voorbeeld">
-<!ENTITY previewSound.accesskey         "V">
+<!ENTITY playSoundButton.label          "Afspelen">
+<!ENTITY playSoundButton.accesskey      "l">
 <!ENTITY selectSound.title              "Pop-upblokkeergeluid selecteren">
 <!ENTITY selectSound.filter             "Geluiden">
 

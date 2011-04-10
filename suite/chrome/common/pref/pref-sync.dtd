@@ -23,9 +23,11 @@
 <!ENTITY mySyncKey.label              "Mijn Sync-sleutel">
 <!ENTITY mySyncKey.accesskey          "M">
 <!ENTITY resetSync.label              "Sync herinitialiseren">
-<!ENTITY resetSync.accesskey          "e">
-<!ENTITY stopUsingAccount.label       "Gebruik van deze account stoppen">
-<!ENTITY stopUsingAccount.accesskey   "G">
+<!ENTITY resetSync.accesskey          "h">
+<!ENTITY deactivateDevice.label       "Dit apparaat deactiveren">
+<!ENTITY deactivateDevice.accesskey   "D">
+<!ENTITY addDevice.label              "Een apparaat toevoegen">
+<!ENTITY addDevice.accesskey          "a">
 
 <!-- Sync Settings -->
 <!ENTITY syncComputerName.label       "Computernaam:">
