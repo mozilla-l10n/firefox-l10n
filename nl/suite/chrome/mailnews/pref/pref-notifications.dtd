@@ -46,8 +46,8 @@
 <!ENTITY showTrayIcon.accesskey           "t">
 <!ENTITY bounceSystemDockIcon.label       "Het systeemvakpictogram animeren">
 <!ENTITY bounceSystemDockIcon.accesskey   "a">
-<!ENTITY preview.label                    "Voorbeeld">
-<!ENTITY preview.accesskey                "V">
+<!ENTITY playButton.label                 "Afspelen">
+<!ENTITY playButton.accesskey             "l">
 <!ENTITY systemsound.label                "Systeemgeluid voor nieuwe e-mail">
 <!ENTITY systemsound.accesskey            "s">
 <!ENTITY customsound.label                "Het volgende geluidsbestand gebruiken">

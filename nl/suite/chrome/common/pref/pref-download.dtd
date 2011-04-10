@@ -32,5 +32,5 @@
 <!ENTITY showAlert.accesskey            "w">
 <!ENTITY browse.label                   "Bladeren…">
 <!ENTITY browse.accesskey               "B">
-<!ENTITY preview.label                  "Voorbeeld">
-<!ENTITY preview.accesskey              "V">
+<!ENTITY playButton.label               "Afspelen">
+<!ENTITY playButton.accesskey           "l">
