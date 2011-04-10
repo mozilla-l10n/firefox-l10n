@@ -8,12 +8,12 @@
 -->
 <!ENTITY imageDetails                   "Specificeer hoe &brandShortName; omgaat met afbeeldingen.">
 
-<!ENTITY accAllImagesRadio.label        "Alle afbeeldingen accepteren">
-<!ENTITY accAllImagesRadio.accesskey    "A">
-<!ENTITY accOrgImagesRadio.label        "Alleen afbeeldingen van de oorspronkelijke server accepteren">
-<!ENTITY accOrgImagesRadio.accesskey    "o">
-<!ENTITY disableImages.label            "Geen afbeeldingen laden">
-<!ENTITY disableImages.accesskey        "G">
+<!ENTITY loadAllImagesRadio.label       "Alle afbeeldingen laden">
+<!ENTITY loadAllImagesRadio.accesskey   "A">
+<!ENTITY loadOrgImagesRadio.label       "Alleen afbeeldingen van de oorspronkelijke server laden">
+<!ENTITY loadOrgImagesRadio.accesskey   "o">
+<!ENTITY loadNoImagesRadio.label        "Geen afbeeldingen laden">
+<!ENTITY loadNoImagesRadio.accesskey    "G">
 <!ENTITY viewPermissions.label          "Toestemmingen beheren">
 <!ENTITY viewPermissions.accesskey      "T">
 <!ENTITY animLoopingTitle.label         "Geanimeerde afbeeldingen herhaald afspelen">
