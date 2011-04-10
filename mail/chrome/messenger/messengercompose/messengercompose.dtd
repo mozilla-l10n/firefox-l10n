@@ -193,6 +193,7 @@
 <!ENTITY quoteButton.tooltip                 "Tsiteeri eelnevat kirja">
 <!ENTITY addressButton.tooltip               "Vali kirja saaja aadressiraamatust">
 <!ENTITY attachButton.tooltip                "Lisa manus">
+<!ENTITY spellingButton.tooltip              "Kontrolli valiku või terve kirja õigekirja">
 <!ENTITY saveButton.tooltip                  "Salvesta see kiri">
 <!ENTITY cutButton.tooltip                   "Lõika">
 <!ENTITY copyButton.tooltip                  "Kopeeri">
@@ -209,7 +210,8 @@
 <!ENTITY followupAddr.label                  "Järg postitusele:">
 <!ENTITY subject.label                       "Teema:">
 <!ENTITY subject.accesskey                   "T">
-<!ENTITY attachments.label                   "Manused:">
+<!-- LOCALIZATION NOTE attachments.accesskey This access key should correspond
+     to the strings in attachmentCount in composeMsgs.properties -->
 <!ENTITY attachments.accesskey               "M">
 
 <!-- Format Toolbar, imported from editorAppShell.xul -->
@@ -262,6 +264,10 @@
 <!ENTITY attachFile.accesskey                "i">
 <!ENTITY attachPage.label                    "Lisa veebileht...">
 <!ENTITY attachPage.accesskey                "S">
+
+<!-- Spell checker context menu items -->
+<!ENTITY spellAddDictionaries.label          "Lisa sõnaraamatuid…">
+<!ENTITY spellAddDictionaries.accesskey      "L">
 
 <!-- Title for the address picker panel -->
 <!ENTITY addressesSidebarTitle.label         "Kontaktid">

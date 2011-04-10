@@ -45,8 +45,8 @@
 <!ENTITY reuseExpRadio0.accesskey         "a">
 <!ENTITY reuseExpRadio1.label             "samas aknas">
 <!ENTITY reuseExpRadio1.accesskey         "s">
-<!ENTITY closeMsgWindowOnMoveOrDelete.label "Kustutamisel või liigutamisel kirja aken suletakse">
-<!ENTITY closeMsgWindowOnDelete.accesskey "K">
+<!ENTITY closeMsgOnMoveOrDelete.label     "Kustutamisel või liigutamisel kirja aken/kaart suletakse">
+<!ENTITY closeMsgOnMoveOrDelete.accesskey "K">
 
 <!-- Update -->
 <!ENTITY autoCheck.label                  "Järgmisi uuendusi kontrollitakse automaatselt:">
@@ -77,7 +77,7 @@
 <!ENTITY Diskspace                        "Kettaruum">
 <!ENTITY offlineCompact.label             "Kaustad tihendatakse, kui see säästab rohkem kui">
 <!ENTITY offlineCompact.accesskey         "b">
-<!ENTITY kb.label                         "KiB">
+<!ENTITY mb.label                         "MiB">
 
 <!-- LOCALIZATION NOTE:
   The entities useCacheBefore.label and useCacheAfter.label appear on a single

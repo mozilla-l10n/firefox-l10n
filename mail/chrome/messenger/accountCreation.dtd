@@ -10,42 +10,46 @@
 <!ENTITY password.accesskey               "r">
 <!ENTITY password.placeholder             "Parool">
 <!ENTITY password.text                    "Valikuline, kasutatakse ainult kasutajanime valideerimiseks">
+<!ENTITY rememberPassword.label           "Parool peetakse meeles">
+<!ENTITY rememberPassword.accesskey       "m">
 
-<!ENTITY accountInformation.label         "Konto andmed">
-<!ENTITY username2.label                  "Kasutajanimi:">
+<!ENTITY imapLong.label                   "IMAP (kaugserver)">
+<!ENTITY pop3Long.label                   "POP3 (kirjad säilitatakse sinu arvutis)">
+
 <!ENTITY incoming.label                   "Vastuvõttev:">
 <!ENTITY outgoing.label                   "Saatev:">
+<!ENTITY username.label                   "Kasutajanimi:">
+<!ENTITY hostname.label                   "Serveri aadress">
+<!ENTITY port.label                       "Port">
+<!ENTITY ssl.label                        "SSL">
+<!ENTITY auth.label                       "Autentimine">
+<!ENTITY imap.label                       "IMAP">
+<!ENTITY pop3.label                       "POP3">
+<!ENTITY smtp.label                       "SMTP">
+<!ENTITY autodetect.label                 "Automaatne tuvastamine">
+<!-- LOCALIZATION NOTE(noEncryption.label): Neither SSL/TLS nor STARTTLS.
+     Transmission of emails in cleartext over the Internet. -->
 <!ENTITY noEncryption.label               "Puudub">
 <!ENTITY starttls.label                   "STARTTLS">
 <!ENTITY sslTls.label                     "SSL/TLS">
 
-<!ENTITY imap.label                       "IMAP">
-<!ENTITY pop.label                        "POP">
-<!ENTITY smtp.label                       "SMTP">
-<!ENTITY imap.description                 "IMAP - kaustade avamiseks ja kirjade lugemiseks mitmest arvutist">
-<!ENTITY pop.description                  "POP - kirjad tõmmatakse sellesse arvutisse, kaustad on ainult kohalikuks kasutamiseks">
-<!ENTITY recommended-appendix.label       "(soovitatav)">
-
-<!ENTITY manualSetup.label                "Käsitsi seadistamine…">
-<!ENTITY manualSetup.accesskey            "K">
+<!ENTITY advancedSetup.label              "Täpsem seadistamine">
+<!ENTITY advancedSetup.accesskey          "T">
 <!ENTITY cancel.label                     "Loobu">
 <!ENTITY cancel.accesskey                 "L">
 <!ENTITY continue.label                   "Jätka">
 <!ENTITY continue.accesskey               "J">
-<!ENTITY startOver.label                  "Alusta algusest">
-<!ENTITY startOver.accesskey              "u">
 <!ENTITY stop.label                       "Peata">
 <!ENTITY stop.accesskey                   "P">
-<!-- LOCALIZATION NOTE (retest.label): This is the text that is
-     displayed on the button which will re-guess the account configuration,
-     taking into account the settings the user has changed. -->
-<!ENTITY retest.label                     "Kontrolli häälestust uuesti">
-<!ENTITY retest.accesskey                 "K">
-<!ENTITY edit.label                       "Redigeeri">
-<!ENTITY edit.accesskey                   "R">
+<!-- LOCALIZATION NOTE (half-manual-test.label): This is the text that is
+     displayed on the button in manual edit mode which will re-guess
+     the account configuration, taking into account the settings that
+     the user has manually changed. -->
+<!ENTITY half-manual-test.label           "Kontrolli häälestust uuesti">
+<!ENTITY half-manual-test.accesskey       "K">
+<!ENTITY manual-edit.label                "Seadista käsitsi">
+<!ENTITY manual-edit.accesskey            "S">
 
-<!ENTITY rememberPassword.label           "Parool peetakse meeles">
-<!ENTITY rememberPassword.accesskey       "P">
 
 <!ENTITY warning.label                    "Hoiatus!">
 <!ENTITY incomingSettings.label           "Vastuvõtmise sätted:">

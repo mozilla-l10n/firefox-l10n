@@ -1,0 +1,14 @@
+<!ENTITY aboutSupport.appBasicsAppBuildID             "Rakenduse kompileerimise ID">
+
+<!ENTITY aboutSupport.accountsTitle                   "E-posti ja uudiste kontod">
+<!ENTITY aboutSupport.showPrivateData.mainText        "Kontode nimed kaasatakse">
+<!ENTITY aboutSupport.showPrivateData.explanationText "(tõenäoliselt identifitseeriv info)">
+<!ENTITY aboutSupport.accountsID                      "ID">
+<!ENTITY aboutSupport.accountsName                    "Nimi">
+<!ENTITY aboutSupport.accountsIncomingServer          "Vastuvõttev server">
+<!ENTITY aboutSupport.accountsOutgoingServers         "Saatvad serverid">
+<!ENTITY aboutSupport.accountsConnSecurity            "Ühenduse turvalisus">
+<!ENTITY aboutSupport.accountsAuthMethod              "Autentimise meetod">
+<!ENTITY aboutSupport.accountsDefault                 "Vaikimisi?">
+
+<!ENTITY aboutSupport.sendViaEmail.label              "Saada e-postiga">
