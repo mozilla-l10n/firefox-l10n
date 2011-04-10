@@ -56,6 +56,19 @@
 <!-- New Account Page 3: Captcha -->
 <!ENTITY setup.captchaPage2.title.label     "Bevestig dat u geen robot bent">
 
+<!-- Existing Account Page 1: Add Device (incl. Add a Device dialog strings) -->
+<!ENTITY addDevice.title.label              "Een apparaat toevoegen">
+<!ENTITY addDevice.showMeHow.label          "Toon me hoe.">
+<!ENTITY addDevice.dontHaveDevice.label     "Ik heb het apparaat niet bij me">
+<!ENTITY addDevice.setup.description.label  "Ga om te activeren naar Opties van &syncBrand.shortName.label; op uw andere apparaat en selecteer “Een apparaat toevoegen”.">
+<!ENTITY addDevice.setup.enterCode.label    "Voer vervolgens deze code in:">
+<!ENTITY addDevice.dialog.description.label "Ga om uw nieuwe apparaat te activeren naar Opties van &syncBrand.shortName.label; op het apparaat en selecteer “Verbinden”.">
+<!ENTITY addDevice.dialog.enterCode.label   "Voer de code in die het apparaat geeft:">
+<!ENTITY addDevice.dialog.tryAgain.label    "Probeer het opnieuw.">
+<!ENTITY addDevice.dialog.successful.label  "Het apparaat is met succes toegevoegd. De eerste synchronisatie kan meerdere minuten duren en zal op de achtergrond worden voltooid.">
+<!ENTITY addDevice.dialog.syncKey.label     "Om uw apparaat te activeren dient u uw Sync-sleutel in te voeren. Druk deze sleutel af of sla hem op, en neem hem met u mee.">
+<!ENTITY addDevice.dialog.connected.label   "Apparaat verbonden">
+
 <!-- Existing Account Page 1: Login -->
 <!ENTITY setup.existingAccount.title.label "Accountinformatie invoeren">
 <!ENTITY resetPassword.label          "Wachtwoord herinitialiseren">
