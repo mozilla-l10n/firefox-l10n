@@ -31,4 +31,4 @@
 <!ENTITY Diskspace                        "Schijfruimte">
 <!ENTITY offlineCompact.label             "Mappen comprimeren als het meer bespaart dan">
 <!ENTITY offlineCompact.accesskey         "c">
-<!ENTITY kb.label                         "KB">
+<!ENTITY mb.label                         "MB">
