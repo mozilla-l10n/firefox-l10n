@@ -75,7 +75,7 @@
 <!ENTITY releaseCmd.label                       "Uitgaveopmerkingen">
 <!ENTITY releaseCmd.accesskey                   "U">
 <!ENTITY helpSafeMode.label                     "Herstarten met uitgeschakelde add-ons">
-<!ENTITY helpSafeMode.accesskey                 "H">
+<!ENTITY helpSafeMode.accesskey                 "r">
 <!ENTITY updateCmd.label                        "Controleren op updates…">
 <!ENTITY updateCmd.accesskey                    "C">
 <!ENTITY aboutCmd.label                         "Over &brandShortName;">
