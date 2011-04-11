@@ -4,7 +4,8 @@
 
 <!ENTITY setup.pickSetupType.description "Welkom. Als u &syncBrand.fullName.label; nog nooit eerder hebt gebruikt, dient u een nieuwe account aan te maken.">
 <!ENTITY button.createNewAccount.label "Een nieuwe account aanmaken">
-<!ENTITY button.haveAccount.label "Ik heb al een &syncBrand.fullName.label;-account.">
+<!ENTITY setup.haveAccount.label "Ik heb al een &syncBrand.fullName.label;-account.">
+<!ENTITY button.connect.label    "Verbinden">
 
 <!ENTITY setup.choicePage.title.label     "Hebt u &syncBrand.fullName.label; eerder gebruikt?">
 <!ENTITY setup.choicePage.new.label       "Ik heb &syncBrand.shortName.label; nooit eerder gebruikt">
@@ -12,14 +13,15 @@
 
 <!-- New Account AND Existing Account -->
 <!ENTITY server.label               "Server">
+<!ENTITY server.accesskey           "S">
 <!ENTITY serverType.main.label      "&syncBrand.fullName.label;-server">
-<!ENTITY serverType.custom.label    "Een eigen server gebruiken">
-<!ENTITY signIn.account.label       "E-mailadres / Gebruikersnaam">
-<!ENTITY signIn.account.accesskey   "E">
+<!ENTITY serverType.custom2.label   "Een eigen server gebruiken…">
+<!ENTITY signIn.account2.label      "Account">
+<!ENTITY signIn.account2.accesskey  "A">
 <!ENTITY signIn.password.label      "Wachtwoord">
 <!ENTITY signIn.password.accesskey  "W">
-<!ENTITY signIn.serverURL.label     "Server-URL">
-<!ENTITY signIn.serverURL.accesskey "S"> 
+<!ENTITY signIn.syncKey.label       "Sync-sleutel">
+<!ENTITY signIn.syncKey.accesskey   "S">
 
 <!-- New Account Page 1: Basic Account Info -->
 <!ENTITY setup.newAccountDetailsPage.title.label "Accountdetails">
@@ -69,17 +71,12 @@
 <!ENTITY addDevice.dialog.syncKey.label     "Om uw apparaat te activeren dient u uw Sync-sleutel in te voeren. Druk deze sleutel af of sla hem op, en neem hem met u mee.">
 <!ENTITY addDevice.dialog.connected.label   "Apparaat verbonden">
 
-<!-- Existing Account Page 1: Login -->
-<!ENTITY setup.existingAccount.title.label "Accountinformatie invoeren">
-<!ENTITY resetPassword.label          "Wachtwoord herinitialiseren">
-<!ENTITY connecting.label             "Verbinden…">
-
-<!-- Existing Account Page 2: Sync Key -->
-<!ENTITY setup.existingSyncKeyPage.title "Voer uw Sync-sleutel in">
-<!ENTITY setup.existingSyncKeyPage.description "De Sync-sleutel is gegenereerd voor u of u heeft er een ingevoerd tijdens de eerste set-up van &syncBrand.fullName.label;. Het is niet hetzelfde als uw wachtwoord.">
-<!ENTITY existingSyncKeyHelp.description "U kunt uw opgeslagen Sync-sleutel vinden door naar uw andere computer te gaan en de Opgeslagen wachtwoorden onder Beveiliging te controleren. Als u de juiste Sync-sleutel nog steeds niet kunt vinden, kunt u deze opnieuw instellen, maar u zult alle opgeslagen gegevens op de server verliezen.">
-<!ENTITY lostSyncKey.label            "Ik ben mijn Sync-sleutel kwijt">
+<!-- Existing Account Page 2: Manual Login -->
+<!ENTITY setup.signInPage.title.label "Aanmelden">
+<!ENTITY existingSyncKey.description "U kunt een kopie van uw Sync-sleutel verkrijgen door naar Opties van &syncBrand.shortName.label; op uw andere apparaat te gaan en “Mijn Sync-sleutel” onder “Account beheren” te selecteren.">
 <!ENTITY verifying.label              "Verifiëren…">
+<!ENTITY resetPassword.label          "Wachtwoord herinitialiseren">
+<!ENTITY resetSyncKey.label           "Ik ben mijn andere apparaat kwijt.">
 
 <!-- Sync Options -->
 <!ENTITY setup.optionsPage.title      "Sync-opties">
