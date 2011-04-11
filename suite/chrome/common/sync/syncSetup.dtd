@@ -46,9 +46,7 @@
 <!ENTITY syncKeyEntry.accesskey    "s">
 <!ENTITY syncKeyGenerate.label     "Genereren">
 <!ENTITY syncKeyGenerate.accesskey "G">
-<!ENTITY syncKeyStrength.label     "Strength:">
-<!ENTITY syncKeyHelp.label         "What does the strength mean?">
-<!ENTITY syncKeyBackup.description "Your Sync Key is required to access &syncBrand.fullName.label; on other machines. Please create a backup copy. We cannot help you recover your Sync Key.">
+<!ENTITY syncKeyBackup.description "Uw Sync-sleutel is vereist voor de toegang van &syncBrand.fullName.label; op andere machines. Maak een reservekopie. We kunnen uw Sync-sleutel niet herstellen.">
 
 <!ENTITY button.syncKeyBackup.print.label     "Afdrukken…">
 <!ENTITY button.syncKeyBackup.print.accesskey "A">
