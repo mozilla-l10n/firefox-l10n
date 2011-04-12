@@ -8,6 +8,7 @@
 <!ENTITY enablePlugins.title                       "Aktivera insticksmoduler">
 <!ENTITY privacy.title                             "Sekretess och säkerhet">
 <!ENTITY allowCookies.title                        "Tillåt kakor">
+<!ENTITY doNotTrack.title                          "Be platser att inte spåra mig">
 <!ENTITY clearPrivateData2.title                   "Rensa ut känslig data">
 <!ENTITY clearPrivateData.button                   "Rensa">
 <!ENTITY rememberPasswords.title                   "Spara lösenord">
