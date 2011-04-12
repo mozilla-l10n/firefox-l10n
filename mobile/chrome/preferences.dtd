@@ -8,6 +8,7 @@
 <!ENTITY enablePlugins.title "Activar plugins">
 <!ENTITY privacy.title "Privacidad y seguridad">
 <!ENTITY allowCookies.title "Permitir cookies">
+<!ENTITY doNotTrack.title "No quiero ser rastreado">
 <!ENTITY clearPrivateData2.title "Limpiar datos privados">
 <!ENTITY clearPrivateData.button "Limpiar">
 <!ENTITY rememberPasswords.title "Recordar contraseñas">
