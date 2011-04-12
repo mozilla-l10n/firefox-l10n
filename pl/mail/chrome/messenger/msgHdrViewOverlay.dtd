@@ -123,7 +123,7 @@
 
 <!-- Attachment toolbar items -->
 <!ENTITY saveAttachmentButton.label             "Zapisz">
-<!ENTITY saveAttachmentButton.tooltip           "Zapisz dozłączony plik">
+<!ENTITY saveAttachmentButton.tooltip           "Zapisz dołączony plik">
 <!ENTITY saveAllAttachmentsButton.label         "Zapisz wszystkie">
 <!ENTITY saveAllAttachmentsButton.tooltip       "Zapisz wszystkie dołączone pliki">
 <!ENTITY openAttachmentMenuItem.label           "Otwórz">
