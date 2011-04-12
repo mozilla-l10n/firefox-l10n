@@ -55,12 +55,12 @@ mozilla.org для тестовых целей, могут содержать о
 
 * Linux
 
-- Библиотеки следующих версий (или совместимые с ними): glibc 2.3.2,
-X.org 1.x, GTK 2.x, fontconfig, pango 1.10, libstdc++ 6. Установка на
-дистрибутивах Red Hat Enterprise Linux 5, Fedora Core 6, ubuntu 6.10 ("Edgy"),
-Debian "Lenny" (testing), and openSUSE 10.2 (или позже) должна
+- Библиотеки как минимум следующих версий (или совместимых с ними):
+GTK+ 2.10, GLib 2.12, Pango 1.14, X.Org 1.0.
+Установка на дистрибутивах Red Hat Enterprise Linux 5, Fedora Core 6,
+Ubuntu 6.10 ("Edgy"), Debian "Lenny" и openSUSE 10.2 (или позже) должна
 пройти без проблем.
-- Процессор класса Intel Pentium (рекомендуется с частотой 500 МГц или
+- Процессор класса Intel Pentium или лучше (рекомендуется с частотой 500 МГц или
 выше)
 - 128 МБ RAM
 - 50 МБ свободного места на диске
