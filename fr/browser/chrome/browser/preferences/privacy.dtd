@@ -1,6 +1,6 @@
 <!ENTITY tracking.label                 "Pistage">
 
-<!ENTITY doNotTrack.label               "Indiquer aux sites web de ne pas me pister">
+<!ENTITY doNotTrack.label               "Indiquer aux sites Web de ne pas me pister">
 <!ENTITY doNotTrack.accesskey           "d">
 
 <!ENTITY  history.label                 "Historique">
