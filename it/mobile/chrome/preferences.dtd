@@ -1,17 +1,17 @@
 <!ENTITY prefsHeader.label "Preferenze">
-<!ENTITY about.title "Informazioni su &brandShortName;">
-<!ENTITY about.button "Apri la pagina">
-<!ENTITY content.title "Contenuto">
-<!ENTITY reflowZoom.title "Riformatta il testo in caso di zoom">
-<!ENTITY showImages.title "Mostra le immagini">
+<!ENTITY about.title "Info su &brandShortName;">
+<!ENTITY about.button "Apri pagina">
+<!ENTITY content.title "Contenuti">
+<!ENTITY reflowZoom.title "Riformatta testo dopo zoom">
+<!ENTITY showImages.title "Mostra immagini">
 <!ENTITY enableJavaScript.title "Attiva JavaScript">
-<!ENTITY enablePlugins.title "Attiva i plugin">
+<!ENTITY enablePlugins.title "Attiva plugin">
 <!ENTITY privacy.title "Privacy e sicurezza">
-<!ENTITY allowCookies.title "Permetti i cookie">
-<!ENTITY doNotTrack.title "Attiva l'opzione anti-tracciamento">
-<!ENTITY clearPrivateData2.title "Elimina i dati personali">
+<!ENTITY allowCookies.title "Permetti cookie">
+<!ENTITY doNotTrack.title "Attiva anti-tracciamento">
+<!ENTITY clearPrivateData2.title "Elimina dati personali">
 <!ENTITY clearPrivateData.button "Elimina">
-<!ENTITY rememberPasswords.title "Ricorda le password">
+<!ENTITY rememberPasswords.title "Ricorda password">
 <!ENTITY language.title "Lingua">
 <!ENTITY language.auto "Selezione automatica">
 <!ENTITY defaultBrowser.title "Browser predefinito">
