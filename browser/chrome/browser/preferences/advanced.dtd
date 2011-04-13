@@ -21,8 +21,6 @@
 <!ENTITY allowHWAccel.accesskey          "v">
 <!ENTITY checkSpelling.label             "Mijn spelling controleren tijdens het typen">
 <!ENTITY checkSpelling.accesskey         "s">
-<!ENTITY doNotTrack.label                "Websites laten weten dat ik niet gevolgd wil worden">
-<!ENTITY doNotTrack.accesskey            "d">
 
 <!ENTITY systemDefaults.label            "Standaardwaarden systeem">
 <!ENTITY alwaysCheckDefault.label        "Altijd tijdens het opstarten controleren of &brandShortName; de standaardbrowser is"><!--XXX-->
