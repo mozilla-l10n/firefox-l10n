@@ -7,7 +7,7 @@
      <rdf:Seq><rdf:li>
        <rdf:Description ID="Account_Settings"
          nc:name="Accounteinstellungen"
-         nc:link="mail_help.xhtml#changing_the_settings_for_an_account"/>
+         nc:link="mailnews_getting_started.xhtml#changing_the_settings_for_an_account"/>
      </rdf:li>
      <rdf:li>
        <rdf:Description ID="adding"
@@ -41,17 +41,17 @@
      <rdf:li>
        <rdf:Description ID="adding:blog_account"
          nc:name="Erstellen eines neuen Blogaccount"
-         nc:link="mail_help.xhtml#setting_up_additional_mail_and_news_accounts"/>
+         nc:link="mailnews_getting_started.xhtml#setting_up_additional_mail_and_news_accounts"/>
      </rdf:li>
      <rdf:li>
        <rdf:Description ID="adding:mail_account"
          nc:name="Erstellen eines neuen Mailaccounts"
-         nc:link="mail_help.xhtml#setting_up_additional_mail_and_news_accounts"/>
+         nc:link="mailnews_getting_started.xhtml#setting_up_additional_mail_and_news_accounts"/>
      </rdf:li>
      <rdf:li>
        <rdf:Description ID="adding:newsgroup_account"
          nc:name="Hinzuf&#252;gen eines neuen Newsgroupaccounts"
-         nc:link="mail_help.xhtml#setting_up_additional_mail_and_news_accounts"/>
+         nc:link="mailnews_getting_started.xhtml#setting_up_additional_mail_and_news_accounts"/>
      </rdf:li>
      <rdf:li>
        <rdf:Description ID="adding:table_elements"
@@ -308,6 +308,11 @@
          nc:name="Zertifikate"
          nc:link="using_certs_help.xhtml#using_certificates"/>
      </rdf:li>
+     <rdf:li>
+       <rdf:Description ID="caret_browsing"
+         nc:name="Textcursor Browsing"
+         nc:link="cs_nav_prefs_advanced.xhtml#keyboard_navigation"/>
+     </rdf:li>    
      <rdf:li>
        <rdf:Description ID="Composer"
          nc:name="Composer (HTML-Editor)"
@@ -618,6 +623,11 @@
 <rdf:Description about="help-indexAZ.rdf#d">
    <nc:subheadings>
      <rdf:Seq><rdf:li>
+       <rdf:Description ID="default_account"
+         nc:name="Standard-Account"
+         nc:link="mailnews_getting_started.xhtml#set_as_default"/>     
+     </rdf:li>     
+     <rdf:li>     
        <rdf:Description ID="device_manager"
          nc:name="Ger&#228;temanager"
          nc:link="using_certs_help.xhtml#about_security_devices_and_modules"/>
@@ -654,7 +664,7 @@
      <rdf:li>
        <rdf:Description ID="encryption"
          nc:name="Verschl&#252;sselung"
-         nc:link="mail_sec_help.xhtml#signing_and_encrypting_messages"/>
+         nc:link="mailnews_security.xhtml#signing_and_encrypting_messages"/>
      </rdf:li>         
      <rdf:li>
        <rdf:Description ID="JSConsole"
@@ -689,12 +699,12 @@
      <rdf:Seq><rdf:li>
        <rdf:Description ID="encryption:about"
          nc:name="&#220;ber digitale Signaturen &amp; Verschl&#252;sselung"
-         nc:link="mail_sec_help.xhtml#about_digital_signatures_and_encryption"/>
+         nc:link="mailnews_security.xhtml#about_digital_signatures_and_encryption"/>
      </rdf:li>
      <rdf:li>     
        <rdf:Description ID="encryption:of_email_messages"
          nc:name="Verschl&#252;sselte E-Mails"
-         nc:link="mail_sec_help.xhtml#signing_and_encrypting_messages"/>
+         nc:link="mailnews_security.xhtml#signing_and_encrypting_messages"/>
      </rdf:li>
      <rdf:li>
        <rdf:Description ID="encryption:of_stored_sensitive_information"
@@ -704,7 +714,7 @@
      <rdf:li>
        <rdf:Description ID="encryption:settings_for_email"
          nc:name="Verschl&#252;sselungseinstellungen"
-         nc:link="mail_sec_help.xhtml#configuring_security_settings"/>
+         nc:link="mailnews_security.xhtml#configuring_security_settings"/>
      </rdf:li>
      <rdf:li>
        <rdf:Description ID="encryption:status_of_web_page"
@@ -734,12 +744,12 @@
      <rdf:li>
        <rdf:Description ID="Find_Links_As_You_Type"
          nc:name="Finden Sie Links mittels Tastendruck"
-         nc:link="cs_nav_prefs_advanced.xhtml#keyboard_navigation"/>
+         nc:link="cs_nav_prefs_advanced.xhtml#fayt"/>
      </rdf:li>
      <rdf:li>
        <rdf:Description ID="Find_Text_As_You_Type"
          nc:name="Finden Sie Text mittels Tastendruck"
-         nc:link="cs_nav_prefs_advanced.xhtml#keyboard_navigation"/>
+         nc:link="cs_nav_prefs_advanced.xhtml#fayt"/>
      </rdf:li>
      <rdf:li>
        <rdf:Description ID="FIPS_mode"
@@ -921,7 +931,7 @@
      <rdf:li>
        <rdf:Description ID="import:mail"
          nc:name="Emails von anderen Programmen importieren"
-         nc:link="mail_help.xhtml#importing_mail_from_other_programs"/> 
+         nc:link="mailnews_getting_started.xhtml#importing_mail_from_other_programs"/> 
      </rdf:li></rdf:Seq> 
   </nc:subheadings>
 </rdf:Description> 
@@ -1075,7 +1085,7 @@
      <rdf:li>
        <rdf:Description ID="Mail_and_Newsgroups"
          nc:name="Mail und Newsgroups"
-         nc:link="mail_help.xhtml"/>
+         nc:link="mailnews_getting_started.xhtml"/>
      </rdf:li>
      <rdf:li>
        <rdf:Description ID="master_password"
@@ -1095,12 +1105,12 @@
      <rdf:Seq><rdf:li>
        <rdf:Description ID="Mail_and_Newsgroups:Account_Setup_Wizard"
          nc:name="Accounteinrichtungs-Assistent"
-         nc:link="mail_help.xhtml#using_the_mail_account_setup_wizard"/>
+         nc:link="mailnews_getting_started.xhtml#using_the_mail_account_setup_wizard"/>
      </rdf:li>
      <rdf:li>
        <rdf:Description ID="Mail_and_Newsgroups:adding_accounts"
          nc:name="Accounts hinzuf&#252;gen"
-         nc:link="mail_help.xhtml#setting_up_additional_mail_and_news_accounts"/>
+         nc:link="mailnews_getting_started.xhtml#setting_up_additional_mail_and_news_accounts"/>
      </rdf:li>
      <rdf:li>
        <rdf:Description ID="Mail_and_Newsgroups:address_autocompletion"
@@ -1130,7 +1140,7 @@
      <rdf:li>
        <rdf:Description ID="Mail_and_Newsgroups:changing_account_settings"
          nc:name="&#228;ndern von Accounteinstellungen"
-         nc:link="mail_help.xhtml#changing_the_settings_for_an_account"/>
+         nc:link="mailnews_getting_started.xhtml#changing_the_settings_for_an_account"/>
      </rdf:li>
      <rdf:li>
        <rdf:Description ID="Mail_and_Newsgroups:Character_Encoding"
@@ -1840,7 +1850,7 @@
      <rdf:li>
        <rdf:Description ID="signing_email_messages"
          nc:name="Signieren von E-Mailnachrichten"
-         nc:link="mail_sec_help.xhtml#signing_and_encrypting_messages"/>
+         nc:link="mailnews_security.xhtml#signing_and_encrypting_messages"/>
      </rdf:li>
      <rdf:li>
        <rdf:Description ID="smart_cards"
@@ -1905,7 +1915,7 @@
      <rdf:Seq><rdf:li>
        <rdf:Description ID="security:checking_before_sending_message"
          nc:name="&#252;berpr&#252;fung der Sicherheit vor Nachrichtenversand"
-         nc:link="mail_sec_help.xhtml#message_security_compose_window"/>
+         nc:link="mailnews_security.xhtml#message_security_compose_window"/>
      </rdf:li>
      <rdf:li>
        <rdf:Description ID="security:checking_for_a_web_page"
@@ -1915,7 +1925,7 @@
      <rdf:li>
        <rdf:Description ID="security:checking_for_received_messages"
          nc:name="&#252;berpr&#252;fen der Sicherheit f&#252;r empfangene Nachrichten"
-         nc:link="mail_sec_help.xhtml#reading_signed_and_encrypted_messages"/>
+         nc:link="mailnews_security.xhtml#reading_signed_and_encrypted_messages"/>
      </rdf:li>
      <rdf:li>
        <rdf:Description ID="security:preferences"
