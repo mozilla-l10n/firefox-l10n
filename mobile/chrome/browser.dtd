@@ -26,7 +26,7 @@
 <!ENTITY editBookmarkTags.label "Etichette:">
 <!ENTITY selectHelper.done "Fatto">
 <!ENTITY addonsHeader.label "Componenti aggiuntivi">
-<!ENTITY addonsLocal.label "Componenti aggiuntivi installati">
+<!ENTITY addonsLocal.label "Comp. agg. installati">
 <!ENTITY addonsUpdate.label "Aggiorna">
 <!ENTITY addonsRepo.label "Esplora">
 <!ENTITY addonsRecommended.label "Consigliati">
@@ -39,7 +39,7 @@
 <!ENTITY addonInstall2.label "Aggiungi a &brandShortName;">
 <!ENTITY addonUninstall.label "Disinstalla">
 <!ENTITY addonCancel.label "Annulla">
-<!ENTITY addonShowPage.label "Vai alla scheda">
+<!ENTITY addonShowPage.label "Scheda">
 <!ENTITY downloadsHeader.label "Download">
 <!ENTITY downloadShowPage.label "Vai alla pagina">
 <!ENTITY downloadShow2.label "Trova">
