@@ -29,6 +29,7 @@ Falls Sie diesen Abschnitt noch nicht vor sich sehen, befolgen Sie folgende Schr
   <li><a href="#advanced">Erweitert</a></li>
   <li><a href="#scripts_and_plug-ins">Scripts &amp; Plugins</a></li>
   <li><a href="#keyboard_navigation">Tastatur-Navigation</a></li>
+  <li><a href="#fayt">Suche beim Tippen</a></li>
   <li><a href="#cache">Cache</a></li>
   <li><a href="#proxies">Proxies</a></li>
   <li><a href="#http_networking">HTTP-Verbindungen</a></li>
@@ -138,14 +139,54 @@ noch nicht vor sich sehen, f&#252;hren Sie folgende Schritte aus:</p>
 </ol>
 
 <p>Im Abschnitt <q>Tastatur-Navigation</q> wird festgelegt, wie Sie die Tastatur benutzen k&#246;nnen um innerhalb
-einer Webseite etwas zu suchen<span class="nomac"> oder zu navigieren</span>:</p>
+einer Webseite zu navigieren:</p>
 
 <ul>
-  <li class="nomac"><strong>Links</strong>: Wenn diese Option ausgew&#228;hlt ist, k&#246;nnen Sie durch Dr&#252;cken der Tasten
-  <kbd>Tab</kbd> bzw. <kbd>Shift</kbd>+<kbd>Tab</kbd> sich zwischen den Links bewegen.</li>
-  <li class="nomac"><strong>Schaltfl&#228;chen, Auswahlkn&#246;pfe, K&#228;stchen und Auswahl-Listen</strong>: Wenn diese Option
-  gew&#228;hlt ist, k&#246;nnen Sie durch Dr&#252;cken der Tasten <kbd>Tab</kbd> bzw. <kbd>Shift</kbd>+<kbd>Tab</kbd> sich zwischen diesen Elementen
-  bewegen.</li>
+  <li class="noMac"><strong>Navigation mit der Tab-Taste</strong>: W&#228;hlen Sie
+    welche Elemente ber&#252;cksichtigt werden sollen, wenn Sie die Tab-Taste auf
+    einer Web-Steite verwenden:
+    <ul>
+      <li><strong>Links</strong>: Wenn ausgew&#228;hlt k&#246;nnen Sie durch dr&#252;cken von
+        <kbd>Tab</kbd> oder <kbd>Shift</kbd>+<kbd>Tab</kbd> zwischen den Links bewegen.</li>
+      <li><strong>Schaltfl&#228;chen, Auswahlkn&#246;pfen, K&#228;stchen und Auswahllisten</strong>: 
+        Wenn ausgew&#228;hlt, k&#246;nnen Sie durch dr&#252;cken von <kbd>Tab</kbd> oder
+        <kbd>Shift</kbd>+<kbd>Tab</kbd> zwischen Schaltfl&#228;chen, Auswahlkn&#246;pfen, 
+        K&#228;stchen und Auswahllisten bewegen.</li>
+    </ul>
+  </li>
+  <li><strong>Browsing mit Textcursor</strong>: W&#228;hlen Sie ob und wie <a
+    href="glossary.xhtml#caret_browsing">Textcursor-Browsing</a> genutzt werden soll:
+    <ul>
+      <li><strong>Textcursor-Browsing verwenden</strong>: Wenn aktiviert, wird der das Textcursor-Browsing
+        standardm&#228;ssig aktiviert, sobald Sie eine Web-Seite laden.</li>
+      <li><strong>Das F7-Tastenk&#252;rzel verwenden, um Textcursor-Browsing umzuschalten</strong>: 
+        Wenn aktiviert, k&#246;nnen Sie mit der F7-Taste das Textcursor-Browsing ein- und auschalten. Ist diese Option
+        deaktiviert, ignoriert &brandShortName; dieses Tastenk&#252;rzel und die nachfolgende Option hat keinen Effekt.</li>
+      <li><strong>Eine Warnung anzeigen, bevor Textcursor-Browsing aktiviert wird</strong>: 
+        Wenn aktiviert, zeigt &brandShortName; einen Dialog, wenn Sie versuchen das Textcursor-Browsing zu aktivieren.
+        Dort k&#246;nnen Sie dann entscheiden, ob Sie fortfahren m&#246;chten oder nicht. (Beim Verlassen des Textcusor-Browsing Modus
+        wird keine Warnung angezeigt)</li>
+    </ul>
+  </li>
+</ul>
+
+<p>[<a href="#advanced_preferences">Zur&#252;ck zum Beginn des Abschnitts</a>]</p>
+
+<h2 id="fayt">Erweiterte Einstellungen - Suche beim Tippen</h2>
+
+<p>Dieser Abschnitt beschreibt die Einstellungen bez&#252;glich Suche beim Tippen. Falls Sie den Abschnitt 
+<q>Suche beim Tippen</q> noch nicht vor sich sehen, f&#252;hren Sie folgende Schritte aus:</p>
+
+<ol>
+  <li>&#214;ffnen Sie das Men&#252; <span class="noMac">Bearbeiten</span><span class="mac">&brandShortName;</span>
+  und w&#228;hlen Sie <q>Einstellungen</q>.</li>
+  <li>W&#228;hlen Sie in der Kategorie <q>Erweitert</q> <q>Suche beim Tippen</q>. (Wenn keine Unterkategorien
+  sichtbar sind, doppelklicken Sie auf <q>Erweitert</q>.)</li>  
+</ol>
+
+<p>Die Einstellungs-Seite f&#252;r <q>Suche beim Tippen</q> erlaubt es Ihnen, wie die Tastatur beim
+  Suchen von Text auf einer Web-Seite verwendet werden soll:</p>
+<ul>
   <li><strong>Beim Eintippen innerhalb einer Webseite automatisch suchen</strong>: Wenn gew&#228;hlt
     k&#246;nnen Sie durch Eintippen eines Textes diesen automatisch in dieser Webseite suchen.
     Sie k&#246;nnen hierbei ausw&#228;hlen, ob Sie jedlichen Text oder nur Links suchen wollen.
@@ -153,10 +194,17 @@ einer Webseite etwas zu suchen<span class="nomac"> oder zu navigieren</span>:</p
     im Men&#252; <span class="noMac">Bearbeiten</span><span class="mac">&brandShortName;</span> die 
     Schaltfl&#228;chen <q>Links beim Tippen suchen</q> oder <q>Text beim Tippen suchen</q> benutzen.</li>
   <li><strong>Einen Klang apspielen, wenn der eingetippte Text nicht gefunden wurde</strong>: Wenn gew&#228;hlt
-  wird ein Klang abgespielt, wenn 
-  der gesuchte Text in dieser Webseite nicht gefunden wurde.</li>
+    wird ein Klang abgespielt, wenn 
+    der gesuchte Text in dieser Webseite nicht gefunden wurde.</li>
   <li><strong>Die aktuelle Suche nach einigen Sekunden Inaktivit&#228;t beenden</strong>: Wenn ausgew&#228;hlt,
-  wird die aktuelle Suche nach einigen Sekunden Tastatur-Inaktivit&#228;t beenden.</li>
+    wird die aktuelle Suche nach einigen Sekunden Tastatur-Inaktivit&#228;t beenden.</li>
+  <li><strong>Die Suchleiste beim Suchen w&#228;hrend der Eingabe anzeigen</strong>: Wenn aktiviert
+    wird die Such-Leiste eingeblendet sobald Sie einen Text auf einer Webseite mittels
+    der Funktion <q>Suche beim Tippen</q> suchen. Der von Ihnen gesuchte Begriff wird in
+    die Such-Box der Leiste eingef&#252;gt. Wenn Sie diese Funktion deaktivieren,
+    wird die Such-Leiste nicht angezeigt. Der gesuchte Begriff wird jedoch in der Status-Zeile
+    angezeigt. Beachten Sie, das die Suche nach Internationalen Texten auf in diesem Modus
+    nicht funktioniert.</li>   
 </ul>
 
 <p>[<a href="#advanced_preferences">Zur&#252;ck zum Beginn des Abschnitts</a>]</p>
@@ -176,26 +224,38 @@ noch nicht vor sich sehen, f&#252;hren Sie folgende Schritte aus:</p>
 <p>Die Kategorie <q>Cache</q> legt fest, wie Mozilla Webseiten im Speicher oder auf Festplatte zwischenspeichert:</p>
 
 <ul>
-  <li><strong>Gr&#246;&#223;e</strong>: Legen Sie die Menge Festplatten-Speicher fest, den Sie f&#252;r
-  &brandShortName; reservieren wollen. Der Festplatten-Cache 
-  wird auf Ihrer Festplatte gespeichert und kann wieder verwendet werden.</li>
-  <li><strong>Cache l&#246;schen</strong>: Klicken Sie, um den Festplatten-Cache zu l&#246;schen.</li>
-  <li><strong>Cache-Ordner</strong>: Zeigt den Ordner auf der Festplatte, der f&#252;r Cache-Dateien verwendet wird 
+  <li><strong>Gr&#246;&#223;e des Caches von &brandShortName; verwalten lassen</strong>: 
+    Aktivieren Sie diese Option, wenn &brandShortName; die Gr&#246;&#223;e des Caches 
+    anhand des vorhandenen Speicherplatzes Ihres Datentr&#228;gers verwalten soll (dies ist 
+    die Standard-Einstellung)</li>
+  <li><strong>[__] MB am Datentr&#228;ger f&#252;r den Cache verwenden</strong>: 
+    Geben Sie hier die Gew&#252;nschte Gr&#246;&#223;e ein, welche &brandShortName; f&#252;r 
+    den Cache reservieren soll. Der Datentr&#228;ger-Cache kann wiederverwendet werden, 
+    auch wenn Sie den Computer neu starten. (Die Standard-Gr&#246;&#223;e ist 1024 MB. 
+    Diese Einstellung wird ignoriert, wenn die Option 
+    dar&#252;ber aktiviert ist.)</li>
+  <li><strong>Cache l&#246;schen</strong>: Klicken Sie, um den Festplatten-Cache 
+    zu l&#246;schen.</li>
+  <li><strong>Cache-Ordner Standord</strong>: Zeigt den Ordner auf der Festplatte, 
+    der f&#252;r Cache-Dateien verwendet wird 
     <ul>
-      <li><strong>Ordner w&#228;hlen</strong>: Klicken Sie, um den Ordner f&#252;r den Cache zu &#228;ndern.</li>
+      <li><strong>Ordner w&#228;hlen</strong>: Klicken Sie, um den Ordner f&#252;r 
+        den Cache zu &#228;ndern.</li>
     </ul>
   </li>
   <li><strong>Vergleich zwischen Cache-Dokument und Netzwerk-Dokument erfolgt</strong>:
     <ul>
-      <li><strong>Jedes Mal</strong>: W&#228;hlen Sie diese Option, wenn &brandShortName; bei jedem Seitenaufruf
-      die Webseite mit der im Cache gespeicherten Seite vergleichen soll.</li>
-      <li><strong>Wenn die Seite veraltet ist</strong>: W&#228;hlen Sie diese Option, wenn &brandShortName; die
-      Webseite mit der im Cache gespeicherten Seite vergleichen soll, wenn die Seite vom Server als veraltet
-      bezeichnet wird.</li>
-      <li><strong>Einmal pro Sitzung</strong>: W&#228;hlen Sie diese Option, wenn &brandShortName; bei 
-      jedem Neustart von &brandShortName; die Webseite mit der im Cache gespeicherten vergleichen soll.</li>
-      <li><strong>Nie</strong>: W&#228;hlen Sie diese Option, wenn Sie nicht wollen, dass &brandShortName; die
-      Webseite mit der im Cache gespeicherten Seite vergleicht.</li>
+      <li><strong>Jedes Mal</strong>: W&#228;hlen Sie diese Option, wenn &brandShortName; 
+      bei jedem Seitenaufruf die Webseite mit der im Cache gespeicherten Seite 
+      vergleichen soll.</li>
+      <li><strong>Wenn die Seite veraltet ist</strong>: W&#228;hlen Sie diese Option, wenn 
+      &brandShortName; die Webseite mit der im Cache gespeicherten Seite vergleichen soll, 
+      wenn die Seite vom Server als veraltet bezeichnet wird.</li>
+      <li><strong>Einmal pro Sitzung</strong>: W&#228;hlen Sie diese Option, wenn 
+      &brandShortName; bei jedem Neustart von &brandShortName; die Webseite mit der im Cache 
+      gespeicherten vergleichen soll.</li>
+      <li><strong>Nie</strong>: W&#228;hlen Sie diese Option, wenn Sie nicht wollen, 
+      dass &brandShortName; die Webseite mit der im Cache gespeicherten Seite vergleicht.</li>
     </ul>
   </li>
   <li><strong>Links im Voraus laden</strong>: W&#228;hlen Sie diese Option, wenn sie Links auf andere 
@@ -357,7 +417,26 @@ Abschnitt <q>Software-Installation</q> noch nicht vor sich sehen, f&#252;hren Si
       <li><strong>Alle Sites entfernen</strong>: Klicken Sie hier um die Liste komplett zu l&#246;schen.</li>
     </ul>
   </li>
-  
+  <li><strong>Add-on-Manager</strong>: Mit Hilfe des Add-on-Managers k&#246;nnen Sie
+    Ihre installierten Erweiterungen und Themen anzeigen und diese verwalten.
+    <ul>
+      <li><strong>Add-on-Empfehlungen personalisieren</strong>: Aktivieren Sie diese Option
+        um Empfehlungen f&#252;r Erweiterungen im <q>Add-ons herunterladen</q> Tab
+        des Add-on-Managers angezeigt zu bekommen:
+        <ul>
+          <li>Beachten Sie das die Aktivierung dieser Funktion eine Liste Ihrer installierten
+            Add-ons an die Add-on Webseite sendet.</li>
+          <li>Die Deaktivierung dieser Funktion f&#252;hrt dazu, das die periodisch durchgef&#252;hrte
+            automatische Pr&#252;fung auf neue Informationen zu installierten Add-ons ebenfalls
+            nicht mehr stattfindet. Die automatische Update-Funktion wird dadurch jedoch 
+            nicht beeintr&#228;chtigt.</li>
+        </ul>
+      </li> 
+      <li><strong>Add-ons verwalten</strong>: Klicken Sie auf diesen Link um den 
+        Add-on-Manager in einem neuen Browser-Tab zu &#246;ffnen.</li>
+    </ul>
+  </li>  
+
   <li><strong>Automatisch auf Updates pr&#252;fen</strong>:
     <ul>
       <li><strong>&brandShortName;</strong>: W&#228;hlen Sie diese Option, um &#252;ber 
@@ -371,9 +450,6 @@ Abschnitt <q>Software-Installation</q> noch nicht vor sich sehen, f&#252;hren Si
         auf neue Versionen pr&#252;fen soll.</li>
     </ul>
   </li>
-  <li><strong>Add-on Manager</strong>: Klicken Sie hier, um den Add-on Manager zu &#246;ffnen,
-    wo Sie installierte Erweiterungen und Themen verwalten k&#246;nnen.</li>
-
   <li><strong>Wenn Updates f&#252;r &brandShortName; verf&#252;gbar sind</strong>:
     <ul>
       <li><strong>Nachfragen, was getan werden soll</strong>: W&#228;hlen Sie diese Option
@@ -442,7 +518,7 @@ und im unteren Abschnitt f&#252;r das <strong>Horizontal scrolling</strong>.</p>
       <li><strong>eine Seite nach oben oder nach unten scrollen</strong>: Um mit jeder Mausradbewegung eine Seite
       nach oben oder unten 
       zu scrollen. Das erlaubt eine schnellere, jedoch weniger pr&#228;zise Bewegung durch die Seite.</li>
-      <li><strong>vor und zur&#252;ck in der Browsing History bewegen</strong>:
+      <li><strong>vor und zur&#252;ck in der Browser-Chronik bewegen</strong>:
         Um vorw&#228;rts und r&#252;ckw&#228;rts durch bereits besuchte Seiten zu navigieren.</li>
       <li><strong>den Text vergr&#246;&#223;ern und verkleinern</strong>: Um die Textgr&#246;&#223;e mit dem 
       Mausrad zu vergr&#246;&#223;ern oder zu verkleinern. Damit kann die Lesbarkeit eines Textes erh&#246;ht
