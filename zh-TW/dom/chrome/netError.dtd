@@ -70,11 +70,12 @@
 <!ENTITY cspFrameAncestorBlocked.title "被內容安全政策封鎖">
 <!ENTITY cspFrameAncestorBlocked.longDesc "<p>瀏覽器阻止了這個頁面載入，因為這個頁面有個內容安全政策不允許其以這種方式載入。</p>">
 
-<!-- Include app-specific error messages - do not change this in localization!
-     Some applications might override netErrorApp.dtd with their specific version,
-     this inclusion needs to be intact for that approach to work correctly. -->
-<!ENTITY % netErrorAppDTD SYSTEM "chrome://global/locale/netErrorApp.dtd">
-%netErrorAppDTD;
-
 <!ENTITY remoteXUL.title "遠端 XUL">
 <!ENTITY remoteXUL.longDesc "<p><ul><li>請聯絡網站管理員以通知他們這個問題。</li></ul></p>">
+
+<!-- Include app-specific error messages - do not change this in localization!
+     Some applications might override netErrorApp.dtd with their specific version,
+     this inclusion needs to be intact for that approach to work correctly.
+     Please, try to keep this at the end of the file. -->
+<!ENTITY % netErrorAppDTD SYSTEM "chrome://global/locale/netErrorApp.dtd">
+%netErrorAppDTD;
