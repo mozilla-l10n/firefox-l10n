@@ -54,3 +54,27 @@
      example: Downloading update — 111 KB of 13 MB -->
 <!ENTITY update.downloading.start   "Fernijing ynlade — ">
 <!ENTITY update.downloading.end     "">
+
+<!-- LOCALIZATION NOTE (channel.description.start,channel.description.end): channel.description.start and
+     channel.description.end create one sentence, with the current channel label inserted in between.
+     example: You are currently on the _Stable_ update channel. -->
+<!ENTITY channel.description.start  "Jo binne op dit stuit op it ">
+<!ENTITY channel.description.end    " fernijingskanaal. ">
+
+<!ENTITY channel.change             "Wizigje">
+
+<!ENTITY channel.release.description       "Genietsje de probearre en testte finale útjeftes brûkt troch miljoenen oer de hiele wrâld. Hâld kontrôle oer jo online ûnderfining mei de heegste faasje, maklike oanpasberheid en de lêste Webtechnologyën.">
+<!ENTITY channel.beta.description          "Untdek de nijste funksjes mei mear stabiliteit. Jou kommentaar om te helpen mei it glêdstriken fan wat de finale ferzje wurde sil.">
+<!ENTITY channel.aurora.description        "Untdek de nijste ynnovaasjes yn in ûnstabile omjouwing dy't net geskikt is foar de angsthazze. Jou kommentaar op funksjes en wurking om te helpen mei wat de finale ferzje wurde sil.">
+
+<!-- LOCALIZATION NOTE (channel.selector.start,channel.selector.end): channel.selector.start and
+     channel.selector.end create one sentence, with a channel selection menulist instered in between.
+     This is all in one line, so try to make the localized text short.
+     example: Switch to the [Stable] update channel. -->
+<!ENTITY channel.selector.start          "Skeakel nei it">
+<!ENTITY channel.selector.end            "fernijingskanaal.">
+
+<!-- LOCALIZATION NOTE (channel.selector.applyButton): This button applies the user's choice to switch
+     to a new update channel and starts the application update process. -->
+<!ENTITY channel.selector.applyButton    "Tapasse en fernije">
+<!ENTITY channel.selector.cancelButton   "Annulearje">
