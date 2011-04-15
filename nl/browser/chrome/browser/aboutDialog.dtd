@@ -61,11 +61,11 @@
 <!ENTITY channel.description.start  "U gebruikt momenteel het ">
 <!ENTITY channel.description.end    "-updatekanaal. ">
 
-<!ENTITY channel.change             "Verander">
+<!ENTITY channel.change             "Aanpassen">
 
 <!ENTITY channel.release.description       "Ervaar de uitgeprobeerde en geteste uitgave gebruikt door honderden miljoenen over de wereld. Blijf in controle over uw online ervaring met super snelheid, makkelijke aanpasbaarheid en de laatste webtechnologieën.">
 <!ENTITY channel.beta.description          "Ervaar de allerlaatse eigenschappen met meer stabiliteit. Geef feedback om de uiteindelijke uitgave nog beter te maken.">
-<!ENTITY channel.aurora.description        "Ervaar de laaste innovaties in een onstabiele omgeving die niet geschikt is voor mensen met een zwak hart. Geef feedback op eigenschappen en prestaties om mee te bepalen wat er in de uiteindelijke uitgave komt.">
+<!ENTITY channel.aurora.description        "Ervaar de laatste innovaties in een onstabiele omgeving die niet geschikt is voor mensen met een zwak hart. Geef feedback op eigenschappen en prestaties om mee te bepalen wat er in de uiteindelijke uitgave komt.">
 
 <!-- LOCALIZATION NOTE (channel.selector.start,channel.selector.end): channel.selector.start and
      channel.selector.end create one sentence, with a channel selection menulist instered in between.
