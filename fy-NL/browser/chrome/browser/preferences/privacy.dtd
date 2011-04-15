@@ -1,4 +1,9 @@
-<!ENTITY  history.label "Skiednis">
+<!ENTITY tracking.label                 "Folgjen">
+
+<!ENTITY doNotTrack.label               "Fertel websteeën dat ik net folge wurde wol">
+<!ENTITY doNotTrack.accesskey           "F">
+
+<!ENTITY  history.label 				"Skiednis">
 
 <!ENTITY  locationBar.label             "Lokaasjebalke">
 

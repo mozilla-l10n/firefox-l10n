@@ -21,8 +21,6 @@
 <!ENTITY allowHWAccel.accesskey          "B">
 <!ENTITY checkSpelling.label             "Kontrolearje myn stavering as ik typ">
 <!ENTITY checkSpelling.accesskey         "s">
-<!ENTITY doNotTrack.label                "Fertel websteeën dat ik net folge wurde wol">
-<!ENTITY doNotTrack.accesskey            "F">
 
 <!ENTITY systemDefaults.label            "Systeemstanderts">
 <!ENTITY alwaysCheckDefault.label        "Wylst it opstarten altyd kontrolearje oft &brandShortName; de standert browser is"><!--XXX-->
