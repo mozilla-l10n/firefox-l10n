@@ -8,6 +8,7 @@
 <!ENTITY enablePlugins.title                       "Włącz wtyczki">
 <!ENTITY privacy.title                             "Prywatność i bezpieczeństwo">
 <!ENTITY allowCookies.title                        "Akceptuj ciasteczka">
+<!ENTITY doNotTrack.title                          "Informuj witryny, że nie chcę być śledzony">
 <!ENTITY clearPrivateData2.title                   "Wyczyść dane prywatne">
 <!ENTITY clearPrivateData.button                   "Wyczyść">
 <!ENTITY rememberPasswords.title                   "Pamiętaj hasła">
