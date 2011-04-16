@@ -10,42 +10,46 @@
 <!ENTITY password.accesskey              "W">
 <!ENTITY password.placeholder            "Wachtwoord">
 <!ENTITY password.text                   "Optioneel, wordt alleen gebruikt om de gebruikersnaam te valideren">
-  
-<!ENTITY accountInformation.label        "Accountinformatie">
-<!ENTITY username2.label                 "Gebruikersnaam:">
+<!ENTITY rememberPassword.label          "Wachtwoord onthouden">
+<!ENTITY rememberPassword.accesskey      "o">
+
+<!ENTITY imapLong.label                  "IMAP (mappen op een andere computer)">
+<!ENTITY pop3Long.label                  "POP3 (e-mail op uw computer bewaren)">
+
 <!ENTITY incoming.label                  "Inkomend:">
 <!ENTITY outgoing.label                  "Uitgaand:">
+<!ENTITY username.label                  "Gebruikersnaam:">
+<!ENTITY hostname.label                  "Serverhostnaam">
+<!ENTITY port.label                      "Poort">
+<!ENTITY ssl.label                       "SSL">
+<!ENTITY auth.label                      "Authenticatie">
+<!ENTITY imap.label                      "IMAP">
+<!ENTITY pop3.label                      "POP3">
+<!ENTITY smtp.label                      "SMTP">
+<!ENTITY autodetect.label                "Autodetectie">
+<!-- LOCALIZATION NOTE(noEncryption.label): Neither SSL/TLS nor STARTTLS.
+     Transmission of emails in cleartext over the Internet. -->
 <!ENTITY noEncryption.label              "Geen">
 <!ENTITY starttls.label                  "STARTTLS">
 <!ENTITY sslTls.label                    "SSL/TLS">
 
-<!ENTITY imap.label                      "IMAP">
-<!ENTITY pop.label                       "POP">
-<!ENTITY smtp.label                      "SMTP">
-<!ENTITY imap.description                "IMAP - Toegang tot mappen en berichten vanaf meerdere computers">
-<!ENTITY pop.description                 "POP - Alle berichten downloaden naar deze computer, mappen zijn alleen lokaal">
-<!ENTITY recommended-appendix.label      "(aanbevolen)">
-
-<!ENTITY manualSetup.label               "Handmatige configuratie…">
-<!ENTITY manualSetup.accesskey           "H">
+<!ENTITY advancedSetup.label             "Uitgebreide config">
+<!ENTITY advancedSetup.accesskey         "U">
 <!ENTITY cancel.label                    "Annuleren">
 <!ENTITY cancel.accesskey                "A">
 <!ENTITY continue.label                  "Doorgaan">
 <!ENTITY continue.accesskey              "D">
-<!ENTITY startOver.label                 "Opnieuw beginnen">
-<!ENTITY startOver.accesskey             "b">
 <!ENTITY stop.label                      "Stoppen">
 <!ENTITY stop.accesskey                  "S">
-<!-- LOCALIZATION NOTE (retest.label): This is the text that is
-     displayed on the button which will re-guess the account configuration,
-     taking into account the settings the user has changed. -->
-<!ENTITY retest.label                    "Configuratie hertesten">
-<!ENTITY retest.accesskey                "f">
-<!ENTITY edit.label                      "Bewerken">
-<!ENTITY edit.accesskey                  "B">
+<!-- LOCALIZATION NOTE (half-manual-test.label): This is the text that is
+     displayed on the button in manual edit mode which will re-guess
+     the account configuration, taking into account the settings that
+     the user has manually changed. -->
+<!ENTITY half-manual-test.label          "Hertesten">
+<!ENTITY half-manual-test.accesskey      "t">
+<!ENTITY manual-edit.label               "Handmatige config">
+<!ENTITY manual-edit.accesskey           "H">
 
-<!ENTITY rememberPassword.label          "Wachtwoord onthouden">
-<!ENTITY rememberPassword.accesskey      "o">
 
 <!ENTITY warning.label                   "Waarschuwing!">
 <!ENTITY incomingSettings.label          "Instellingen inkomend:">
