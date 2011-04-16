@@ -172,9 +172,11 @@ which uses strings already defined above. The button is included here (instead o
 netError.xhtml) because it exposes functionality specific to firefox. -->
 
 <!ENTITY securityOverride.warningContent "
-<p>>Nie powinno się dodawać wyjątku jeśli używasz połączenia internetowego, któremu nie możesz w pełni zaufać lub jeśli zazwyczaj nie pokazuje się to ostrzeżenie na tym serwerze.</p>
+<p>Nie powinno się dodawać wyjątku jeśli używasz połączenia internetowego, któremu nie możesz w pełni zaufać lub jeśli zazwyczaj nie pokazuje się to ostrzeżenie na tym serwerze.</p>
 
 <button id='getMeOutOfHereButton'>&securityOverride.getMeOutOfHereButton;</button>
 <button id='exceptionDialogButton'>&securityOverride.exceptionButtonLabel;</button>
 ">
 
+<!ENTITY remoteXUL.title "Zdalna treść XUL">
+<!ENTITY remoteXUL.longDesc "<p><ul><li>Prosimy poinformować właścicieli witryny o tym problemie.</li></ul></p>">
