@@ -95,6 +95,7 @@ just addresses the organization to follow, e.g. "This site is run by " -->
 <!ENTITY contextSaveImage.label       "Zapisz obrazek">
 <!ENTITY contextShareLink.label       "Podziel się odnośnikiem">
 <!ENTITY contextShareImage.label      "Podziel się obrazkiem">
+<!ENTITY contextBookmarkLink.label    "Dodaj zakładkę do odnośnika">
 <!ENTITY contextSaveVideo.label       "Zapisz wideo">
 <!ENTITY contextShareVideo.label      "Podziel się wideo">
 <!ENTITY contextPlayMedia.label       "Odtwórz">
