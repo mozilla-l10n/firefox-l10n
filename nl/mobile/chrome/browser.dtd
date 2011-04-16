@@ -95,6 +95,7 @@
 <!ENTITY contextSaveImage.label       "Afbeelding opslaan">
 <!ENTITY contextShareLink.label       "Koppeling delen">
 <!ENTITY contextShareImage.label      "Afbeelding delen">
+<!ENTITY contextBookmarkLink.label    "Bladwijzerkoppeling">
 <!ENTITY contextSaveVideo.label       "Video opslaan">
 <!ENTITY contextShareVideo.label      "Video delen">
 <!ENTITY contextPlayMedia.label       "Afspelen">
