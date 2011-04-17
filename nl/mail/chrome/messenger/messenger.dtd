@@ -407,12 +407,11 @@ you can use these alternative items. Otherwise, their values should be empty.  -
 <!ENTITY tagCmd9.key "9">
 <!ENTITY markMenu.label "Markeren">
 <!ENTITY markMenu.accesskey "M">
+<!ENTITY toggleReadCmd.key "m">
 <!ENTITY markAsReadCmd.label "Als gelezen">
 <!ENTITY markAsReadCmd.accesskey "z">
-<!ENTITY markAsReadCmd.key "m">
 <!ENTITY markAsUnreadCmd.label "Als ongelezen">
 <!ENTITY markAsUnreadCmd.accesskey "o">
-<!ENTITY markAsUnreadCmd.key "m">
 <!ENTITY markThreadAsReadCmd.label "Conversatie als gelezen">
 <!ENTITY markThreadAsReadCmd.accesskey "C">
 <!ENTITY markThreadAsReadCmd.key "r">
