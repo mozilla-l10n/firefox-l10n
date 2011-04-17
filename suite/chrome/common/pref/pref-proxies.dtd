@@ -10,7 +10,7 @@
 <!ENTITY  systemTypeRadio.accesskey "U">
 <!ENTITY  manualTypeRadio.label "Configuration manuelle du proxy :">
 <!ENTITY  manualTypeRadio.accesskey "C">
-<!ENTITY  wpadTypeRadio.label "Découvrir automatiquement la configuration du proxy :">
+<!ENTITY  wpadTypeRadio.label "Découvrir automatiquement la configuration du proxy">
 <!ENTITY  wpadTypeRadio.accesskey "D">
 <!ENTITY  autoTypeRadio.label "Adresse de configuration automatique du proxy :">
 <!ENTITY  autoTypeRadio.accesskey "e">
