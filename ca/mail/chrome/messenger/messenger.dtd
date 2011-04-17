@@ -5,10 +5,23 @@
 <!-- File Menu -->
 <!ENTITY newFolderCmd.label "Carpeta…">
 <!ENTITY newFolderCmd.accesskey "C">
-<!ENTITY closeTabCmd.label "Tanca la pestanya">
-<!ENTITY closeTabCmd.accesskey "t">
-<!ENTITY closeOtherTabsCmd.label "Tanca les altres pestanyes">
-<!ENTITY closeOtherTabsCmd.accesskey "a">
+<!ENTITY closeTabCmd2.label "Tanca la pestanya">
+<!ENTITY closeTabCmd2.accesskey "T">
+<!ENTITY closeOtherTabsCmd2.label "Tanca les altres pestanyes">
+<!ENTITY closeOtherTabsCmd2.accesskey "a">
+<!-- LOCALIZATION NOTE (undoCloseTabCmd.label):
+     Menu option to attempt to re-open a recently closed tab.
+     -->
+<!ENTITY recentlyClosedTabsCmd.label "Pestanyes tancades recentment">
+<!ENTITY recentlyClosedTabsCmd.accesskey "r">
+
+<!ENTITY undoCloseTabCmd.commandkey "T">
+<!-- LOCALIZATION NOTE (moveToNewWindow.label):
+     Menu option to cause the current tab to be migrated to a new Thunderbird
+     window.
+     -->
+<!ENTITY moveToNewWindow.label "Mou a una finestra nova">
+<!ENTITY moveToNewWindow.accesskey "v">
 <!ENTITY newVirtualFolderCmd.label "Cerca desada…">
 <!ENTITY newVirtualFolderCmd.accesskey "d">
 <!ENTITY newOtherAccountsCmd.label "Altres comptes…">
@@ -319,8 +332,11 @@ you can use these alternative items. Otherwise, their values should be empty.  -
 <!ENTITY folderMenu.accesskey "C">
 <!ENTITY thisFolder.label "Aquesta carpeta">
 <!ENTITY thisFolder.accesskey "A">
+<!ENTITY goRecentlyClosedTabs.label "Pestanyes tancades recentment">
 <!ENTITY startPageCmd.label "Pàgina d'inici de la Missatgeria">
 <!ENTITY startPageCmd.accesskey "s">
+
+<!-- Message Menu -->
 <!ENTITY msgMenu.label "Missatge">
 <!ENTITY msgMenu.accesskey "M">
 <!ENTITY newMsgCmd.label "Missatge nou">
@@ -395,12 +411,11 @@ you can use these alternative items. Otherwise, their values should be empty.  -
 <!ENTITY tagCmd9.key "9">
 <!ENTITY markMenu.label "Marca">
 <!ENTITY markMenu.accesskey "M">
+<!ENTITY toggleReadCmd.key "m">
 <!ENTITY markAsReadCmd.label "Com a llegit">
 <!ENTITY markAsReadCmd.accesskey "C">
-<!ENTITY markAsReadCmd.key "m">
 <!ENTITY markAsUnreadCmd.label "Com a no llegit">
 <!ENTITY markAsUnreadCmd.accesskey "n">
-<!ENTITY markAsUnreadCmd.key "m">
 <!ENTITY markThreadAsReadCmd.label "Conversa com a llegida">
 <!ENTITY markThreadAsReadCmd.accesskey "m">
 <!ENTITY markThreadAsReadCmd.key "r">
@@ -794,19 +809,15 @@ you can use these alternative items. Otherwise, their values should be empty.  -
 <!ENTITY reportPhishingURL.label "Informa d'un missatge fraudulent">
 <!ENTITY reportPhishingURL.accesskey "o">
 
+<!-- Spell checker context menu items -->
+<!ENTITY spellAddDictionaries.label "Afegeix diccionaris…">
+<!ENTITY spellAddDictionaries.accesskey "A">
+
 <!-- Content Pane Context Menu -->
 <!ENTITY saveLinkAsCmd.label "Anomena i desa l'enllaç…">
 <!ENTITY saveLinkAsCmd.accesskey "ç">
 <!ENTITY saveImageAsCmd.label "Anomena i desa la imatge…">
 <!ENTITY saveImageAsCmd.accesskey "i">
-<!ENTITY cutCmd.label "Retalla">
-<!ENTITY cutCmd.accesskey "t">
-<!ENTITY copyCmd.label "Copia">
-<!ENTITY copyCmd.accesskey "C">
-<!ENTITY pasteCmd.label "Enganxa">
-<!ENTITY pasteCmd.accesskey "E">
-<!ENTITY selectAllCmd.label "Selecciona-ho tot">
-<!ENTITY selectAllCmd.accesskey "a">
 <!ENTITY copyLinkCmd.label "Copia l'enllaç">
 <!ENTITY copyLinkCmd.accesskey "C">
 <!ENTITY copyImageAllCmd.label "Copia la imatge">

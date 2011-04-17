@@ -7,8 +7,10 @@
 <!ENTITY helpMenuWin.accesskey    "j">
 <!ENTITY helpTroubleshootingInfo.label     "Informació de problemes">
 <!ENTITY helpTroubleshootingInfo.accesskey "p">
-<!ENTITY releaseCmd.label "Notes de la versió">
-<!ENTITY releaseCmd.accesskey "r">
+<!ENTITY helpSafeMode.label     "Reinicia amb els complements inhabilitats…">
+<!ENTITY helpSafeMode.accesskey "h">
+<!ENTITY releaseCmd2.label "Notes de la versió">
+<!ENTITY releaseCmd2.accesskey "r">
 <!ENTITY whatsNewCmd.label "Novetats">
 <!ENTITY whatsNewCmd.accesskey "N">
 <!ENTITY featureConfiguratorCmd.label "Auxiliar de migració">

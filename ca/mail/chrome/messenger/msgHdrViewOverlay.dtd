@@ -107,7 +107,9 @@
 <!ENTITY saveAsAttachmentCmd.label "Anomena i desa…">
 <!ENTITY saveAsAttachmentCmd.accesskey "A">
 <!ENTITY detachAttachmentCmd.label    "Separa…">  
+<!ENTITY detachAttachmentCmd.accesskey    "p">
 <!ENTITY deleteAttachmentCmd.label    "Suprimeix">  
+<!ENTITY deleteAttachmentCmd.accesskey    "S">
 <!ENTITY openAllAttachmentsCmd.label    "Obre-ho tot…">
 <!ENTITY openAllAttachmentsCmd.accesskey    "O">
 <!ENTITY saveAllAttachmentsCmd.label "Desa-ho tot…">
@@ -116,6 +118,27 @@
 <!ENTITY detachAllAttachmentsCmd.accesskey    "S">  
 <!ENTITY deleteAllAttachmentsCmd.label    "Suprimeix-ho tot…">  
 <!ENTITY deleteAllAttachmentsCmd.accesskey    "u">  
+
+
+<!-- Attachment toolbar items -->
+<!ENTITY saveAttachmentButton.label       "desa">
+<!ENTITY saveAttachmentButton.tooltip     "desa el fitxer adjunt">
+<!ENTITY saveAllAttachmentsButton.label   "desa-ho tot">
+<!ENTITY saveAllAttachmentsButton.tooltip "desa tots els fitxers adjunts">
+<!ENTITY openAttachmentMenuItem.label     "obre">
+<!ENTITY openAttachmentMenuItem.accesskey    "o">
+<!ENTITY saveAsAttachmentMenuItem.label    "desa-ho com…">
+<!ENTITY saveAsAttachmentMenuItem.accesskey    "d">
+<!ENTITY detachAttachmentMenuItem.label    "separa…">
+<!ENTITY detachAttachmentMenuItem.accesskey    "p">
+<!ENTITY deleteAttachmentMenuItem.label    "suprimeix">
+<!ENTITY deleteAttachmentMenuItem.accesskey    "s">
+<!ENTITY saveAllAttachmentsMenuItem.label    "desa-ho tot…">
+<!ENTITY saveAllAttachmentsMenuItem.accesskey    "t">
+<!ENTITY detachAllAttachmentsMenuItem.label    "separa-ho tot…">
+<!ENTITY detachAllAttachmentsMenuItem.accesskey    "o">
+<!ENTITY deleteAllAttachmentsMenuItem.label    "suprimeix-ho tot…">
+<!ENTITY deleteAllAttachmentsMenuItem.accesskey    "x">
 
 <!ENTITY copyLinkCmd.label "Copia l'enllaç">
 <!ENTITY copyLinkCmd.accesskey "C">
