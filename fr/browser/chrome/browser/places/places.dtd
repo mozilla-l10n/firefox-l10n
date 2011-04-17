@@ -97,7 +97,7 @@
 
 <!ENTITY search.in.label "Rechercher dans :">
 <!ENTITY search.scopeFolder.label "Dossier sélectionné">
-<!ENTITY search.scopeFolder.accesskey "D">
+<!ENTITY search.scopeFolder.accesskey "n">
 <!ENTITY search.scopeBookmarks.label "Marque-pages">
 <!ENTITY search.scopeBookmarks.accesskey "M">
 <!ENTITY search.scopeDownloads.label "Téléchargements">
