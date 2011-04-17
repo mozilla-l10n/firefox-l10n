@@ -9,6 +9,13 @@
 <!ENTITY closeTabCmd.accesskey "s">
 <!ENTITY closeOtherTabsCmd.label "Overige tabbladen sluiten">
 <!ENTITY closeOtherTabsCmd.accesskey "e">
+<!-- LOCALIZATION NOTE (undoCloseTabCmd.label):
+      Menu option to attempt to re-open a recently closed tab.
+      -->
+<!ENTITY recentlyClosedTabsCmd.label "Onlangs gesloten tabbladen">
+<!ENTITY recentlyClosedTabsCmd.accesskey "O">
+
+<!ENTITY undoCloseTabCmd.commandkey "T">
 <!ENTITY newVirtualFolderCmd.label "Opgeslagen zoekopdracht…">
 <!ENTITY newVirtualFolderCmd.accesskey "O">
 <!ENTITY newOtherAccountsCmd.label "Andere accounts…">
@@ -313,6 +320,7 @@ you can use these alternative items. Otherwise, their values should be empty.  -
 <!ENTITY folderMenu.accesskey "m">
 <!ENTITY thisFolder.label "Deze map">
 <!ENTITY thisFolder.accesskey "m">
+<!ENTITY goRecentlyClosedTabs.label "Onlangs gesloten tabbladen">
 <!ENTITY startPageCmd.label "E-mail-startpagina">
 <!ENTITY startPageCmd.accesskey "s">
 
