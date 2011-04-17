@@ -36,11 +36,11 @@
 
 <!-- addon updates -->
 <!ENTITY updates.checkForUpdates.label        "Rechercher des mises à jour">
-<!ENTITY updates.checkForUpdates.accesskey    "m">
+<!ENTITY updates.checkForUpdates.accesskey    "R">
 <!ENTITY updates.viewUpdates.label            "Afficher les mises à jour récentes">
 <!ENTITY updates.viewUpdates.accesskey        "A">
 <!ENTITY updates.updateAddonsAutomatically.label     "Mettre à jour les modules automatiquement">
-<!ENTITY updates.updateAddonsAutomatically.accesskey "a">
+<!ENTITY updates.updateAddonsAutomatically.accesskey "M">
 <!ENTITY updates.resetUpdatesToAutomatic.label       "Activer la mise à jour automatique pour tous les modules">
 <!ENTITY updates.resetUpdatesToAutomatic.accesskey   "c">
 <!ENTITY updates.resetUpdatesToManual.label          "Désactiver la mise à jour automatique pour tous les modules">
