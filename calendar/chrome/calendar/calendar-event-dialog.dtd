@@ -363,7 +363,7 @@
 <!ENTITY event.freebusy.minus " Heure précédente" >
 <!ENTITY event.freebusy.legend.free "Disponible" >
 <!ENTITY event.freebusy.legend.busy "Occupé" >
-<!ENTITY event.freebusy.legend.busy_tentative "Tentative" >
+<!ENTITY event.freebusy.legend.busy_tentative "Provisoire" >
 <!ENTITY event.freebusy.legend.busy_unavailable "Absent" >
 <!ENTITY event.freebusy.legend.unknown "Pas d'information" >
 <!ENTITY event.attendee.role.required "Participation obligatoire">
