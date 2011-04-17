@@ -5,10 +5,10 @@
 <!-- File Menu -->
 <!ENTITY newFolderCmd.label "Map…">
 <!ENTITY newFolderCmd.accesskey "M">
-<!ENTITY closeTabCmd.label "Tabblad sluiten">
-<!ENTITY closeTabCmd.accesskey "s">
-<!ENTITY closeOtherTabsCmd.label "Overige tabbladen sluiten">
-<!ENTITY closeOtherTabsCmd.accesskey "e">
+<!ENTITY closeTabCmd2.label "Tabblad sluiten">
+<!ENTITY closeTabCmd2.accesskey "s">
+<!ENTITY closeOtherTabsCmd2.label "Overige tabbladen sluiten">
+<!ENTITY closeOtherTabsCmd2.accesskey "O">
 <!-- LOCALIZATION NOTE (undoCloseTabCmd.label):
       Menu option to attempt to re-open a recently closed tab.
       -->
@@ -16,6 +16,12 @@
 <!ENTITY recentlyClosedTabsCmd.accesskey "O">
 
 <!ENTITY undoCloseTabCmd.commandkey "T">
+<!-- LOCALIZATION NOTE (moveToNewWindow.label):
+     Menu option to cause the current tab to be migrated to a new Thunderbird
+     window.
+     -->
+<!ENTITY moveToNewWindow.label "Verplaatsen naar nieuw venster">
+<!ENTITY moveToNewWindow.accesskey "V">
 <!ENTITY newVirtualFolderCmd.label "Opgeslagen zoekopdracht…">
 <!ENTITY newVirtualFolderCmd.accesskey "O">
 <!ENTITY newOtherAccountsCmd.label "Andere accounts…">
