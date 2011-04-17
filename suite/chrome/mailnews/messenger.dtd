@@ -223,19 +223,19 @@
 <!ENTITY allMsgsCmd.label "Toutes">
 <!ENTITY allMsgsCmd.accesskey "T">
 <!ENTITY expandAllThreadsCmd.label "Développer toutes les discussions">
-<!ENTITY expandAllThreadsCmd.accesskey "e">
+<!ENTITY expandAllThreadsCmd.accesskey "D">
 <!ENTITY expandAllThreadsCmd.key "*">
 <!ENTITY collapseAllThreadsCmd.label "Réduire toutes les discussions">
 <!ENTITY collapseAllThreadsCmd.accesskey "R">
 <!ENTITY collapseAllThreadsCmd.key "\">
 <!ENTITY unreadMsgsCmd.label "Non lues">
 <!ENTITY unreadMsgsCmd.accesskey "N">
-<!ENTITY threadsWithUnreadCmd.label "Discussions avec des non lus">
-<!ENTITY threadsWithUnreadCmd.accesskey "D">
-<!ENTITY watchedThreadsWithUnreadCmd.label "Discussions surveillées avec des non lus">
-<!ENTITY watchedThreadsWithUnreadCmd.accesskey "l">
-<!ENTITY ignoredThreadsCmd.label "Discussions ignorées">
-<!ENTITY ignoredThreadsCmd.accesskey "i">
+<!ENTITY threadsWithUnreadCmd.label "Avec des messages non lus">
+<!ENTITY threadsWithUnreadCmd.accesskey "A">
+<!ENTITY watchedThreadsWithUnreadCmd.label "Surveillées avec des messages non lus">
+<!ENTITY watchedThreadsWithUnreadCmd.accesskey "S">
+<!ENTITY ignoredThreadsCmd.label "Ignorées">
+<!ENTITY ignoredThreadsCmd.accesskey "I">
 <!ENTITY headersMenu.label "En-têtes">
 <!ENTITY headersMenu.accesskey "E">
 <!ENTITY headersAllCmd.label "Complets">
