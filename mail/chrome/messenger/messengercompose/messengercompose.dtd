@@ -193,6 +193,7 @@
 <!ENTITY quoteButton.tooltip "Cita el missatge anterior">
 <!ENTITY addressButton.tooltip "Seleccioneu un destinatari d'una Llibreta d'adreces">
 <!ENTITY attachButton.tooltip "Adjunta un fitxer a aquest missatge">
+<!ENTITY spellingButton.tooltip "Revisa l'ortografia de la selecció o de tot el missatge sencer">
 <!ENTITY saveButton.tooltip "Desa aquest missatge">
 <!ENTITY cutButton.tooltip "Retalla">
 <!ENTITY copyButton.tooltip "Copia">
@@ -262,6 +263,10 @@
 <!ENTITY attachFile.accesskey "f">
 <!ENTITY attachPage.label "Adjunta una pàgina web…">
 <!ENTITY attachPage.accesskey "w">
+
+<!-- Spell checker context menu items -->
+<!ENTITY spellAddDictionaries.label "Afegeix diccionaris…">
+<!ENTITY spellAddDictionaries.accesskey "A">
 
 <!-- Title for the address picker panel -->
 <!ENTITY addressesSidebarTitle.label "Contactes">

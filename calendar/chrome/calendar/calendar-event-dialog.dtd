@@ -382,6 +382,10 @@
 
 <!ENTITY read.only.general.label         "General">
 <!ENTITY read.only.title.label           "Títol:">
+<!ENTITY read.only.event.start.label     "Data d'inici:">
+<!ENTITY read.only.task.start.label      "Data d'inici:">
+<!ENTITY read.only.event.end.label       "Data de fi:">
+<!ENTITY read.only.task.due.label        "Data de venciment:">
 <!ENTITY read.only.repeat.label          "Repetició:">
 <!ENTITY read.only.location.label        "Ubicació:">
 <!ENTITY read.only.category.label        "Categoria:">

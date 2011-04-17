@@ -176,7 +176,8 @@
 <!ENTITY calendar.task-details.category.label        "categoria">
 <!ENTITY calendar.task-details.repeat.label          "repetició">
 <!ENTITY calendar.task-details.attachments.label     "adjuncions">
-
+<!ENTITY calendar.task-details.start.label           "data d'inici">
+<!ENTITY calendar.task-details.due.label             "data de venciment">
 
 <!ENTITY calendar.task.category.button.tooltip  "Categorització de tasques">
 <!ENTITY calendar.task.complete.button.tooltip  "Marca les tasques seleccionades com a acabades">
@@ -194,34 +195,22 @@
 <!ENTITY calendar.context.newevent.accesskey          "N">
 <!ENTITY calendar.context.newtodo.label               "Nova tasca…">
 <!ENTITY calendar.context.newtodo.accesskey           "o">
-<!ENTITY calendar.context.modifytask.label            "Edita la tasca…">
-<!ENTITY calendar.context.modifytask.accesskey        "E">
-<!ENTITY calendar.context.modifyitem.label            "Edita l'entrada">
-<!ENTITY calendar.context.modifyitem.accesskey        "E">
 <!ENTITY calendar.context.deletetask.label            "Suprimeix la tasca">
 <!ENTITY calendar.context.deletetask.accesskey        "S">
-<!ENTITY calendar.context.deleteitem.label            "Suprimeix l'entrada">
-<!ENTITY calendar.context.deleteitem.accesskey        "S">
 <!ENTITY calendar.context.deleteevent.label           "Suprimeix la cita">
 <!ENTITY calendar.context.deleteevent.accesskey       "S">
-<!ENTITY calendar.context.deletethisevent.label       "Aquesta cita">
-<!ENTITY calendar.context.deletethisevent.accesskey   "A">
-<!ENTITY calendar.context.deletecompleteseries.label  "La sèrie completa">
-<!ENTITY calendar.context.deletecompleteseries.accesskey   "s">
-<!ENTITY calendar.context.deletefutureevents.label     "Totes les cites futures">
-<!ENTITY calendar.context.deletefutureevents.accesskey "f">
-<!ENTITY calendar.context.deletefuturetasks.label     "Totes les tasques futures">
-<!ENTITY calendar.context.deletefuturetasks.accesskey "f">
 <!ENTITY calendar.context.cutevent.label              "Retalla">
 <!ENTITY calendar.context.cutevent.accesskey          "t">
 <!ENTITY calendar.context.copyevent.label             "Copia">
 <!ENTITY calendar.context.copyevent.accesskey         "C">
 <!ENTITY calendar.context.pasteevent.label            "Enganxa">
 <!ENTITY calendar.context.pasteevent.accesskey        "x">
-<!ENTITY calendar.context.selectall.label             "Selecciona-ho tot">
-<!ENTITY calendar.context.selectall.accesskey         "o">
 <!ENTITY calendar.context.button.label                "Plafó d'avui" >
 <!ENTITY calendar.context.button.accesskey            "a" >
+<!ENTITY calendar.context.attendance.menu.label       "Participants" >
+<!ENTITY calendar.context.attendance.menu.accesskey   "P" >
+<!ENTITY calendar.context.attendance.occurrence.label "Aquesta occurrència" >
+<!ENTITY calendar.context.attendance.all.label        "Totes les occurrències" >
 
 <!-- Task Context Menu -->
 <!ENTITY calendar.context.progress.label              "En curs">
@@ -254,6 +243,12 @@
 <!ENTITY priority.level.high              "Alta">
 <!ENTITY priority.level.high.accesskey    "A">
                                                  
+<!-- Task View -->
+<!-- Note that the above *.context.* strings are currently used for the other
+     task action buttons -->
+<!ENTITY calendar.taskview.delete.label     "Suprimeix">
+<!ENTITY calendar.taskview.delete.accesskey "S">
+
 <!-- Server Context Menu -->
 <!ENTITY calendar.context.newserver.label              "Nou calendari">
 <!ENTITY calendar.context.newserver.accesskey          "N">
