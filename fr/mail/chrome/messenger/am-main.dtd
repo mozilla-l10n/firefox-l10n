@@ -2,7 +2,7 @@
 
 <!ENTITY accountTitle.label "Paramètres du compte">
 <!ENTITY accountName.label "Nom du compte :">
-<!ENTITY accountName.accesskey "N">
+<!ENTITY accountName.accesskey "c">
 <!ENTITY identityTitle.label "Identité par défaut">
 <!ENTITY identityDesc.label "Chaque compte dispose d'informations sur l'expéditeur qui sont systématiquement transmises avec les messages. Elles vous identifient auprès de vos correspondants.">
 <!ENTITY name.label "Nom :">
@@ -10,7 +10,7 @@
 <!ENTITY email.label "Adresse électronique :">
 <!ENTITY email.accesskey "A">
 <!ENTITY replyTo.label "Adresse pour la réponse :">
-<!ENTITY replyTo.accesskey "s">
+<!ENTITY replyTo.accesskey "d">
 <!ENTITY organization.label "Organisation :">
 <!ENTITY organization.accesskey "O">
 <!ENTITY signatureText.label "Texte de signature :">
@@ -21,10 +21,10 @@
 <!ENTITY signatureFile.accesskey "H">
 <!ENTITY edit.label "Modifier…">
 <!ENTITY choose.label "Choisir…">
-<!ENTITY choose.accesskey "C">
+<!ENTITY choose.accesskey "i">
 <!-- LOCALIZATION NOTE (editVCard.label) : do not translate "vCard" in below line -->
 <!ENTITY editVCard.label "Modifier la carte…">
-<!ENTITY editVCard.accesskey "d">
+<!ENTITY editVCard.accesskey "M">
 <!-- LOCALIZATION NOTE (attachVCard.label) : do not translate "vCard" in below line -->
 <!ENTITY attachVCard.label "Joindre ma carte de visite aux messages">
 <!ENTITY attachVCard.accesskey "v">
