@@ -24,7 +24,7 @@
 <!ENTITY unsafeContentType.title "Tipo de archivo inseguro">
 <!ENTITY unsafeContentType.longDesc "
 <ul>
-  <li>Contacte con los propietarios de este Sitio Web para informarles sobre el problema.</li>
+  <li>Contacta con los propietarios de este Sitio Web para informarles sobre el problema.</li>
 </ul>
 ">
 <!ENTITY netReset.title "Conexión interrumpida">
@@ -60,3 +60,5 @@
 ">
 <!ENTITY cspFrameAncestorBlocked.title "Bloqueado por la Política de Seguridad de Contenido">
 <!ENTITY cspFrameAncestorBlocked.longDesc "<p>El navegador ha impedido cargar esta página de esta manera porque la página tiene una política de seguridad de contenidos que no lo permite.</p>">
+<!ENTITY remoteXUL.title "XUL Remoto">
+<!ENTITY remoteXUL.longDesc "<p><ul><li>Por favor, contacta con los propietarios del sitio web para informarles de este problema.</li></ul></p>">
