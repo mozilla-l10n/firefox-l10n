@@ -54,7 +54,7 @@ si trovano all'URL precedente insieme agli eseguibili stessi.
 * Linux
 
    - Sono necessarie le seguenti versioni di librerie (o compatibili):
-     glibc 2.3.2, X.org 1.x, GTK 2.x, fontconfig, pango 1.10, libstdc++ 6.
+     GTK+ 2.10, GLib 2.12, Pango 1.14, X.Org 1.0.
      Le installazioni Red Hat Enterprise Linux 5, Fedora Core 6, ubuntu 6.10
      ("Edgy"), Debian "Lenny" (testing), e openSUSE 10.2 (o successive)
      dovrebbero funzionare.
@@ -78,7 +78,7 @@ Installare sopra una versione precedente potrebbe causare problemi.
 Nota: Queste istruzioni non spiegano come compilare SeaMonkey. Per 
 informazioni su come compilare SeaMonkey dai sorgenti di mozilla.org, visita
 
-  http://developer.mozilla.org/en/docs/Build_Documentation
+  http://developer.mozilla.org/en/Build_Documentation
 
 
 Istruzioni d'installazione
