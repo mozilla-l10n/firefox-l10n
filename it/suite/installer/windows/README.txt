@@ -50,9 +50,9 @@ si trovano all'URL precedente insieme agli eseguibili stessi.
 
 ==========================================================================
 
-*Windows
+* Windows
 
-   - Windows 2000, XP o Vista
+   - Windows 2000, Server 2003, Vista o 7
    - Processore di classe Intel Pentium (consigliato a 500 MHz o più veloce)
    - 128 MB RAM
    - 50 MB di spazio libero su hard disk
@@ -74,7 +74,7 @@ Installare sopra una versione precedente potrebbe causare problemi.
 Nota: Queste istruzioni non spiegano come compilare SeaMonkey. Per 
 informazioni su come compilare SeaMonkey dai sorgenti di mozilla.org, visita
 
-  http://developer.mozilla.org/en/docs/Build_Documentation
+  http://developer.mozilla.org/en/Build_Documentation
 
 
 Istruzioni d'installazione Windows
