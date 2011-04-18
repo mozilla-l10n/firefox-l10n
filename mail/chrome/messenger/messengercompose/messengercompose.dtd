@@ -193,6 +193,7 @@
 <!ENTITY quoteButton.tooltip "Het vorige bericht citeren">
 <!ENTITY addressButton.tooltip "Een geadresseerde uit een adresboek selecteren">
 <!ENTITY attachButton.tooltip "Een bijlage koppelen">
+<!ENTITY spellingButton.tooltip "Spelling van selectie of hele bericht controleren">
 <!ENTITY saveButton.tooltip "Dit bericht opslaan">
 <!ENTITY cutButton.tooltip "Knippen">
 <!ENTITY copyButton.tooltip "Kopiëren">
