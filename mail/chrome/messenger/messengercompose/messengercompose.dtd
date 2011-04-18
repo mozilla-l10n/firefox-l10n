@@ -265,5 +265,9 @@
 <!ENTITY attachPage.label "Webpagina koppelen…">
 <!ENTITY attachPage.accesskey "W">
 
+<!-- Spell checker context menu items -->
+<!ENTITY spellAddDictionaries.label "Woordenboeken toevoegen…">
+<!ENTITY spellAddDictionaries.accesskey "W">
+
 <!-- Title for the address picker panel -->
 <!ENTITY addressesSidebarTitle.label "Adresboek">
