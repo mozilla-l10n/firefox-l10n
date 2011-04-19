@@ -14,14 +14,9 @@
 <!ENTITY aboutProduct.accesskey   "a">
 <!ENTITY productHelp.label        "Помоћ за &brandShortName;">
 <!ENTITY productHelp.accesskey    "H">
-<!ENTITY helpForIEUsers.label     "За кориснике Интернет експлорера">
-<!ENTITY helpForIEUsers.accesskey "I">
 <!ENTITY helpMac.commandkey       "?">
 <!ENTITY helpSafeMode.label       "Поново покрени са искљученим додацима">
 <!ENTITY helpSafeMode.accesskey   "R">
-
-<!ENTITY helpReleaseNotes.label         "Белешке о издању">
-<!ENTITY helpReleaseNotes.accesskey     "N">
 
 <!ENTITY helpTroubleshootingInfo.label      "Информације о решавању проблема">
 <!ENTITY helpTroubleshootingInfo.accesskey  "И">
