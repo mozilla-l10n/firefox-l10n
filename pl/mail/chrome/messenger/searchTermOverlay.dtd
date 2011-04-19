@@ -8,5 +8,5 @@
 <!-- LOCALIZATION NOTE: values below are used to control the widths of the search widgets -->
 <!ENTITY searchTermListAttributesFlexValue "6"><!-- en-US: 5 -->
 <!ENTITY searchTermListOperatorsFlexValue  "6"><!-- en-US: 5 -->
-<!ENTITY searchTermListValueFlexValue      "5"><!-- en-US: 5 -->
+<!ENTITY searchTermListValueFlexValue      "4"><!-- en-US: 5 -->
 <!ENTITY searchTermListButtonsFlexValue    "1"><!-- en-US: 2 -->
