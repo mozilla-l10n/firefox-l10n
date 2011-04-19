@@ -1,4 +1,4 @@
-<!ENTITY aboutDialog.title          "&brandFullName;">
+<!ENTITY aboutDialog.title          "О програму &brandFullName;">
 
 <!ENTITY community.start2           "&brandShortName; је дизајнирала ">
 <!-- LOCALIZATION NOTE (community.mozillaLink): This is a link title that links to http://www.mozilla.org/. -->

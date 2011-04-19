@@ -71,7 +71,7 @@
 <!ENTITY existingSyncKey.description "Копију свог кључа за усклађивање можете да добијете кад отворите опције &syncBrand.shortName.label;а на свој уређају и изаберете &#x0022;Мој кључ за усклађивање&#x0022; под &#x0022;Управљање налогом&#x0022;.">
 <!ENTITY verifying.label              "Потврђивање…">
 <!ENTITY resetPassword.label          "Обнављање шифре">
-<!ENTITY lostSyncKey.label            "Изгубио/ла сам свој кључ за усклађивање">
+<!ENTITY resetSyncKey.label            "Изгубио/ла сам свој други уређај.">
 
 <!-- Sync Options -->
 <!ENTITY setup.optionsPage.title      "Опције усклађивања">
