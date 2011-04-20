@@ -62,7 +62,7 @@
 <!ENTITY addDevice.dontHaveDevice.label     "No tengo el dispositivo conmigo">
 <!ENTITY addDevice.setup.description.label  "Para activar, vaya a Opciones de &syncBrand.shortName.label; en su otro dispositivo y seleccione &#x0022;Agregar un dispositivo&#x0022;.">
 <!ENTITY addDevice.setup.enterCode.label    "Ahí ingrese este código:">
-<!ENTITY addDevice.dialog.description.label "Para activar su nuevo dispositivo, vaya a Opciones de &syncBrand.shortName.label; en el dispositivo y seeccione &#x0022;Conectar.&#x0022;">
+<!ENTITY addDevice.dialog.description.label "Para activar su nuevo dispositivo, vaya a Opciones de &syncBrand.shortName.label; en el dispositivo y seleccione &#x0022;Conectar.&#x0022;">
 <!ENTITY addDevice.dialog.enterCode.label   "Ingrese el código que provee el dispositivo:">
 <!ENTITY addDevice.dialog.tryAgain.label    "Intente nuevamente.">
 <!ENTITY addDevice.dialog.successful.label  "El dispositivo fue agregado exitosamente. La sincronización inicial puede tomar varios minutos y terminará en segundo plano.">
@@ -103,7 +103,7 @@
 <!ENTITY confirm.merge.label "Ha seleccionado mezclar los datos de esta computadora con los datos de sus otros dispositivos que usan &syncBrand.fullName.label;.">
 <!ENTITY confirm.client2.label         "Advertencia: Todos los datos de &brandShortName; en esta computadora se borrarán:">
 <!ENTITY confirm.client.moreinfo.label "Después de eso, &brandShortName; copiará sus datos de &syncBrand.fullName.label; a esta computadora.">
- <!ENTITY confirm.server2.label         "Advertencia: Los siguientes dispositivos serán sobreescritos con sus datos locales:">
+<!ENTITY confirm.server2.label         "Advertencia: Los siguientes dispositivos serán sobreescritos con sus datos locales:">
 
 <!-- New & Existing Account: Setup Complete -->
 <!ENTITY setup.successPage.title "Instalación completa">

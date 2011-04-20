@@ -13,13 +13,13 @@
 <!ENTITY aboutSupport.extensionVersion "Versión">
 <!ENTITY aboutSupport.extensionId "ID">
 
-<!ENTITY aboutSupport.appBasicsTitle "Application Basics">
+<!ENTITY aboutSupport.appBasicsTitle "Esenciales de la aplicación">
 <!ENTITY aboutSupport.appBasicsName "Nombre">
 <!ENTITY aboutSupport.appBasicsVersion "Versión">
 <!ENTITY aboutSupport.appBasicsProfileDir "Directorio de perfil">
 <!ENTITY aboutSupport.appBasicsEnabledPlugins "Plugins habilitados">
-<!ENTITY aboutSupport.appBasicsBuildConfig "Configuración de build">
-<!ENTITY aboutSupport.appBasicsUserAgent "User Agent">
+<!ENTITY aboutSupport.appBasicsBuildConfig "Configuración de compilación">
+<!ENTITY aboutSupport.appBasicsUserAgent "Agente de usuario">
 
 <!ENTITY aboutSupport.show.label "Abrir carpeta contenedora">
 
