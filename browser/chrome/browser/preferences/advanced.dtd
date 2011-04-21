@@ -21,8 +21,6 @@
 <!ENTITY allowHWAccel.accesskey          "h">
 <!ENTITY checkSpelling.label             "Verificar a ortografía ao escribir">
 <!ENTITY checkSpelling.accesskey         "V">
-<!ENTITY doNotTrack.label                "Dicirlle aos sitios que non quero ser rastreado">
-<!ENTITY doNotTrack.accesskey            "D">
 
 <!ENTITY systemDefaults.label            "Configuración predefinida">
 <!ENTITY alwaysCheckDefault.label        "Verificar sempre se &brandShortName; é o navegador predefinido ao comezar."><!--XXX-->
