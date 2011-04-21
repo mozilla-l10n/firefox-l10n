@@ -44,6 +44,16 @@
 
 <!-- Toolbar-only items -->
 <!ENTITY compositionToolbar.tooltip "Compositiewerkbalk">
+<!ENTITY previewToolbarCmd.label "Bekijken">
+<!ENTITY previewToolbarCmd.tooltip "Deze pagina in de browser laden">
+
+<!-- File menu items -->
+<!ENTITY exportToTextCmd.label "Exporteren naar tekst…">
+<!ENTITY exportToTextCmd.accesskey "x">
+<!ENTITY previewCmd.label "Pagina bekijken">
+<!ENTITY previewCmd.accesskey "b">
+<!ENTITY sendPageCmd.label "Pagina verzenden…">
+<!ENTITY sendPageCmd.accesskey "z">
 
 <!-- View menu items -->
 <!ENTITY viewMenu.label "Beeld">
