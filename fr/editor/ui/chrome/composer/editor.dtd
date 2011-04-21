@@ -44,6 +44,16 @@
 
 <!-- Toolbar-only items -->
 <!ENTITY compositionToolbar.tooltip "Barre d'outils de composition">
+<!ENTITY previewToolbarCmd.label "Visualiser">
+<!ENTITY previewToolbarCmd.tooltip "Charger la page dans le Navigateur">
+
+<!-- File menu items -->
+<!ENTITY exportToTextCmd.label "Exporter au format texte…">
+<!ENTITY exportToTextCmd.accesskey "x">
+<!ENTITY previewCmd.label "Visualiser la page">
+<!ENTITY previewCmd.accesskey "V">
+<!ENTITY sendPageCmd.label "Envoyer la page…">
+<!ENTITY sendPageCmd.accesskey "g">
 
 <!-- View menu items -->
 <!ENTITY viewMenu.label "Affichage">
