@@ -69,14 +69,8 @@
 <!ENTITY publishCmd.key "S">
 <!ENTITY publishAsCmd.label "Publiceren als…">
 <!ENTITY publishAsCmd.accesskey "c">
-<!ENTITY exportToTextCmd.label "Exporteren naar tekst…">
-<!ENTITY exportToTextCmd.accesskey "x">
 <!ENTITY saveAsChangeEncodingCmd.label "Opslaan en tekenset wijzigen">
 <!ENTITY saveAsChangeEncodingCmd.accesskey "k">
-<!ENTITY previewCmd.label "Pagina bekijken">
-<!ENTITY previewCmd.accesskey "b">
-<!ENTITY sendPageCmd.label "Pagina verzenden…">
-<!ENTITY sendPageCmd.accesskey "z">
 <!ENTITY printSetupCmd.label "Pagina-instellingen…">
 <!ENTITY printSetupCmd.accesskey "i">
 <!ENTITY printCmd.label "Afdrukken…">
@@ -404,8 +398,6 @@
 <!ENTITY openToolbarCmd.tooltip "Een lokaal bestand openen">
 <!ENTITY saveToolbarCmd.tooltip "Bestand opslaan op een lokale locatie">
 <!ENTITY publishToolbarCmd.tooltip "Bestand uploaden naar een locatie op afstand">
-<!ENTITY previewToolbarCmd.label "Bekijken">
-<!ENTITY previewToolbarCmd.tooltip "Deze pagina in de browser laden">
 <!ENTITY printToolbarCmd.label "Afdrukken">
 <!ENTITY printToolbarCmd.tooltip "Deze pagina afdrukken">
 <!ENTITY findToolbarCmd.label "Zoeken">
