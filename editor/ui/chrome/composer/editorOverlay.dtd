@@ -69,14 +69,8 @@
 <!ENTITY publishCmd.key "S">
 <!ENTITY publishAsCmd.label "Publicar como…">
 <!ENTITY publishAsCmd.accesskey "m">
-<!ENTITY exportToTextCmd.label "Exportar a texto…">
-<!ENTITY exportToTextCmd.accesskey "T">
 <!ENTITY saveAsChangeEncodingCmd.label "Guardar y cambiar codif. de caracteres">
 <!ENTITY saveAsChangeEncodingCmd.accesskey "d">
-<!ENTITY previewCmd.label "Visualizar página en el navegador">
-<!ENTITY previewCmd.accesskey "V">
-<!ENTITY sendPageCmd.label "Enviar página…">
-<!ENTITY sendPageCmd.accesskey "E">
 <!ENTITY printSetupCmd.label "Configurar página…">
 <!ENTITY printSetupCmd.accesskey "u">
 <!ENTITY printCmd.label "Imprimir…">
@@ -404,8 +398,6 @@
 <!ENTITY openToolbarCmd.tooltip "Abrir un archivo local">
 <!ENTITY saveToolbarCmd.tooltip "Guardar archivo localmente">
 <!ENTITY publishToolbarCmd.tooltip "Subir archivo a ubicación remota">
-<!ENTITY previewToolbarCmd.label "Navegar">
-<!ENTITY previewToolbarCmd.tooltip "Cargar esta página en Navigator">
 <!ENTITY printToolbarCmd.label "Imprimir">
 <!ENTITY printToolbarCmd.tooltip "Imprimir esta página">
 <!ENTITY findToolbarCmd.label "Buscar">
