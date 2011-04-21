@@ -1,3 +1,9 @@
+<!ENTITY tracking.label                 "Seguimento">
+
+
+<!ENTITY doNotTrack.label                "Dicirlle aos sitios que non quero ser seguido">
+<!ENTITY doNotTrack.accesskey            "d">
+
 <!ENTITY  history.label                 "Historial">
 
 <!ENTITY  locationBar.label             "Barra de localización">
