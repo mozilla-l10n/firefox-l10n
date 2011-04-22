@@ -46,6 +46,16 @@
 
 <!-- Toolbar-only items -->
 <!ENTITY compositionToolbar.tooltip "Verktygsfältet Skrivverktyg">
+<!ENTITY previewToolbarCmd.label "Surfa till">
+<!ENTITY previewToolbarCmd.tooltip "Surfa till den här sidan i webbläsaren">
+
+<!-- File menu items -->
+<!ENTITY exportToTextCmd.label "Exportera som text...">
+<!ENTITY exportToTextCmd.accesskey "x">
+<!ENTITY previewCmd.label "Surfa till sidan">
+<!ENTITY previewCmd.accesskey "d">
+<!ENTITY sendPageCmd.label "Skicka sidan...">
+<!ENTITY sendPageCmd.accesskey "c">
 
 <!-- View menu items -->
 <!ENTITY viewMenu.label "Visa">
