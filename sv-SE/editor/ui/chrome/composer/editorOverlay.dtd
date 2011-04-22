@@ -72,14 +72,8 @@
 <!ENTITY publishCmd.key "S">
 <!ENTITY publishAsCmd.label "Publicera som...">
 <!ENTITY publishAsCmd.accesskey "l">
-<!ENTITY exportToTextCmd.label "Exportera som text...">
-<!ENTITY exportToTextCmd.accesskey "x">
 <!ENTITY saveAsChangeEncodingCmd.label "Spara och ändra teckenkodning">
 <!ENTITY saveAsChangeEncodingCmd.accesskey "ä">
-<!ENTITY previewCmd.label "Surfa till sidan">
-<!ENTITY previewCmd.accesskey "d">
-<!ENTITY sendPageCmd.label "Skicka sidan...">
-<!ENTITY sendPageCmd.accesskey "c">
 <!ENTITY printSetupCmd.label "Utskriftsformat...">
 <!ENTITY printSetupCmd.accesskey "o">
 <!ENTITY printCmd.label "Skriv ut...">
@@ -406,8 +400,6 @@
 <!ENTITY openToolbarCmd.tooltip "Öppna en lokal fil">
 <!ENTITY saveToolbarCmd.tooltip "Spara filen lokalt">
 <!ENTITY publishToolbarCmd.tooltip "Publicera fil">
-<!ENTITY previewToolbarCmd.label "Surfa till">
-<!ENTITY previewToolbarCmd.tooltip "Surfa till den här sidan i webbläsaren">
 <!ENTITY printToolbarCmd.label "Skriv ut">
 <!ENTITY printToolbarCmd.tooltip "Skriv ut den här sidan">
 <!ENTITY findToolbarCmd.label "Sök">
