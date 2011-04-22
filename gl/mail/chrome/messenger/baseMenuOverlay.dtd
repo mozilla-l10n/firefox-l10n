@@ -7,8 +7,10 @@
 <!ENTITY helpMenuWin.accesskey "x">
 <!ENTITY helpTroubleshootingInfo.label     "Información para solucionar problemas">
 <!ENTITY helpTroubleshootingInfo.accesskey "I">
-<!ENTITY releaseCmd.label "Notas de lanzamento">
-<!ENTITY releaseCmd.accesskey "z">
+<!ENTITY helpSafeMode.label     "Reiniciar cos complementos desactivados…">
+<!ENTITY helpSafeMode.accesskey "R">
+<!ENTITY releaseCmd2.label "Notas do lanzamento">
+<!ENTITY releaseCmd2.accesskey "z">
 <!ENTITY whatsNewCmd.label "Novidades">
 <!ENTITY whatsNewCmd.accesskey "N">
 <!ENTITY featureConfiguratorCmd.label "Asistente de migración">
