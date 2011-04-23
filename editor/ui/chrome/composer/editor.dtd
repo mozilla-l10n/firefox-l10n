@@ -45,7 +45,7 @@
 <!-- Toolbar-only items -->
 <!ENTITY compositionToolbar.tooltip "Barre d'outils de composition">
 <!ENTITY previewToolbarCmd.label "Visualiser">
-<!ENTITY previewToolbarCmd.tooltip "Charger la page dans le Navigateur">
+<!ENTITY previewToolbarCmd.tooltip "Charger la page dans le navigateur">
 
 <!-- File menu items -->
 <!ENTITY exportToTextCmd.label "Exporter au format texte…">
