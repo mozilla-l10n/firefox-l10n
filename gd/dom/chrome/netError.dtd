@@ -71,6 +71,9 @@
 <!ENTITY cspFrameAncestorBlocked.title "'Ga chasgadh le poileasaidh tèarainteachd susbainte">
 <!ENTITY cspFrameAncestorBlocked.longDesc "<p>Chuir am brabhsair casg air luchdadh na duilleige air an dòidh seo a chionn 's gu bheil poileasaidh tèarainteachd aig an duilleag nach eil a' toirt cead dha.</p>">
 
+<!ENTITY remoteXUL.title "XUL cèin">
+<!ENTITY remoteXUL.longDesc "<p><ul><li>Leig fios do sheilbheadairean na làraich seo mun duilgheadas seo.</li></ul></p>">
+
 <!-- Include app-specific error messages - do not change this in localization!
      Some applications might override netErrorApp.dtd with their specific version,
      this inclusion needs to be intact for that approach to work correctly. -->
