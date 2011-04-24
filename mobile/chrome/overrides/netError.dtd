@@ -95,4 +95,4 @@ netError.xhtml) because it exposes functionality specific to firefox. -->
  ">
 
 <!ENTITY remoteXUL.title "XUL cèin">
-<!ENTITY remoteXUL.longDesc "<p><ul><li>Leig fios do sheilbheadairean na làraich seo mun duilgheadas seo.</li></ul></p>"
+<!ENTITY remoteXUL.longDesc "<p><ul><li>Leig fios do sheilbheadairean na làraich seo mun duilgheadas seo.</li></ul></p>">
