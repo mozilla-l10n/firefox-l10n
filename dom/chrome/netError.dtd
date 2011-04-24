@@ -84,8 +84,12 @@
 <!ENTITY cspFrameAncestorBlocked.title "Blokeret grundet indholdssikkerhedshedspolitik">
 <!ENTITY cspFrameAncestorBlocked.longDesc "<p>Browseren forhindrede denne side i at blive indlæst på denne måde da da den har en indholdssikkerhedspolitik der forbyder dette.</p>">
 
+<!ENTITY remoteXUL.title "Remote XUL">
+<!ENTITY remoteXUL.longDesc "<p><ul><li>Kontakt venligst ejerne af webstedet omkring dette problem.</li></ul></p>">
+
 <!-- Include app-specific error messages - do not change this in localization!
      Some applications might override netErrorApp.dtd with their specific version,
-     this inclusion needs to be intact for that approach to work correctly. -->
+     this inclusion needs to be intact for that approach to work correctly.
+     Please, try to keep this at the end of the file. -->
 <!ENTITY % netErrorAppDTD SYSTEM "chrome://global/locale/netErrorApp.dtd">
 %netErrorAppDTD;
