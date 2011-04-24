@@ -69,14 +69,8 @@
 <!ENTITY publishCmd.key "S">
 <!ENTITY publishAsCmd.label "Foillsich mar…">
 <!ENTITY publishAsCmd.accesskey "h">
-<!ENTITY exportToTextCmd.label "Às-phortaich gu teacs…">
-<!ENTITY exportToTextCmd.accesskey "t">
 <!ENTITY saveAsChangeEncodingCmd.label "Sàbhail is atharraich còdachadh nan caractairean">
 <!ENTITY saveAsChangeEncodingCmd.accesskey "e">
-<!ENTITY previewCmd.label "Rannsaich an duilleag">
-<!ENTITY previewCmd.accesskey "R">
-<!ENTITY sendPageCmd.label "Cuir a-null an duilleag…">
-<!ENTITY sendPageCmd.accesskey "d">
 <!ENTITY printSetupCmd.label "Suidheachadh na duilleige…">
 <!ENTITY printSetupCmd.accesskey "u">
 <!ENTITY printCmd.label "Clò-bhuail…">
@@ -404,8 +398,6 @@
 <!ENTITY openToolbarCmd.tooltip "Fosgail faidhle ionadail">
 <!ENTITY saveToolbarCmd.tooltip "Sàbhail faidhle gu h-ionadail">
 <!ENTITY publishToolbarCmd.tooltip "Luchdaich suas faidhle gu àite cèin">
-<!ENTITY previewToolbarCmd.label "Brabhsaich">
-<!ENTITY previewToolbarCmd.tooltip "Luchdaich an duilleag seo sa bhrabhsair">
 <!ENTITY printToolbarCmd.label "Clò-bhuail">
 <!ENTITY printToolbarCmd.tooltip "Clò-bhuail an duilleag seo">
 <!ENTITY findToolbarCmd.label "Lorg">
