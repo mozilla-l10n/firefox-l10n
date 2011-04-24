@@ -24,7 +24,7 @@
 <!ENTITY allPagesHeader.label      "Toutes les pages">
 <!ENTITY bookmarksHeader.label     "Marque-pages">
 <!ENTITY historyHeader.label       "Historique">
-<!ENTITY desktopHeader.label       "Bureau">
+<!ENTITY desktopHeader.label       "Sync">
 
 <!ENTITY editBookmarkDialog.title  "Modifier le marque-page">
 <!ENTITY editBookmarkDone.label    "Terminé">
