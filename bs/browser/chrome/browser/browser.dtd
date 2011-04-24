@@ -79,7 +79,7 @@ can reach it easily. -->
 <!ENTITY pageInfoCmd.label "Podaci o strani">
 <!ENTITY pageInfoCmd.accesskey "i">
 <!ENTITY pageInfoCmd.commandkey "i">
-<!ENTITY fullScreenCmd.label "Cio ekran">
+<!ENTITY fullScreenCmd.label "Prikaz preko cijelog ekrana">
 <!ENTITY fullScreenCmd.accesskey "C">
 <!ENTITY fullScreenCmd.macCommandKey "f">
 <!ENTITY showAllTabsCmd.label "Prikaži sve tabove">
@@ -417,7 +417,7 @@ can reach it easily. -->
 <!ENTITY mediaShowControls.accesskey "P">
 <!ENTITY mediaHideControls.label     "Sakrij kontrole">
 <!ENTITY mediaHideControls.accesskey "S">
-<!ENTITY videoFullScreen.label       "Cio ekran">
+<!ENTITY videoFullScreen.label       "Prikaz preko cijelog ekrana">
 <!ENTITY videoFullScreen.accesskey   "C">
 
 

@@ -29,7 +29,7 @@
 <!ENTITY rights.intro-point3c ".">
 
 <!-- point 3 text for unbranded builds -->
-<!ENTITY rights.intro-point3-unbranded "Bilo koje primijenjivo pravilo privatnosti za ovaj proizvod bi trebalo biti izlistano ovdje.">
+<!ENTITY rights.intro-point3-unbranded "Bilo koje primjenjivo pravilo privatnosti za ovaj proizvod bi trebalo biti izlistano ovdje.">
 
 <!-- point 4 text for official branded builds -->
 <!ENTITY rights2.intro-point4a "Neke &brandShortName; opcije koriste web-bazirane informacijske servise, međutim, ne možemo garantovati da su 100&#37; tačne ili bez greške. Više detalja, uključujući kako onemogućiti opcije koje koriste ove servise, možete pronaći u ">
