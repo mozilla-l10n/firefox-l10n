@@ -44,6 +44,16 @@
 
 <!-- Toolbar-only items -->
 <!ENTITY compositionToolbar.tooltip "Bàr-inneil sgrìobhaidh">
+<!ENTITY previewToolbarCmd.label "Brabhsaich">
+<!ENTITY previewToolbarCmd.tooltip "Luchdaich an duilleag seo sa bhrabhsair">
+
+<!-- File menu items -->
+<!ENTITY exportToTextCmd.label "Às-phortaich gu teacs…">
+<!ENTITY exportToTextCmd.accesskey "T">
+<!ENTITY previewCmd.label "Rannsaich an duilleag">
+<!ENTITY previewCmd.accesskey "R">
+<!ENTITY sendPageCmd.label "Cuir a-null an duilleag…">
+<!ENTITY sendPageCmd.accesskey "d">
 
 <!-- View menu items -->
 <!ENTITY viewMenu.label "Sealladh">
