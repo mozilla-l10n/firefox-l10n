@@ -58,7 +58,7 @@
 
 <!ENTITY autoCheck.label                 "Automáticamente chequear por actualizaciones de:">
 <!ENTITY enableAppUpdate.label           "&brandShortName;">
-<!ENTITY enableAppUpdate.accesskey       "F">
+<!ENTITY enableAppUpdate.accesskey       "r">
 <!ENTITY enableAddonsUpdate2.label        "Complementos">
 <!ENTITY enableAddonsUpdate2.accesskey    "C">
 <!ENTITY enableSearchUpdate.label        "Motores de búsqueda">
