@@ -72,10 +72,12 @@
 
 <!ENTITY helpTroubleshootingInfo.label      "Informácie pre riešenie problémov">
 <!ENTITY helpTroubleshootingInfo.accesskey  "n">
-<!ENTITY releaseCmd.label				"Poznámky k vydaniu">
-<!ENTITY releaseCmd.accesskey   "P">
-<!ENTITY updateCmd.label        "Kontrola aktualizácií…">
-<!ENTITY updateCmd.accesskey    "a">
+<!ENTITY releaseCmd.label                   "Poznámky k vydaniu">
+<!ENTITY releaseCmd.accesskey               "P">
+<!ENTITY helpSafeMode.label                 "Reštartovať a zakázať doplnky">
+<!ENTITY helpSafeMode.accesskey             "R">
+<!ENTITY updateCmd.label                    "Kontrola aktualizácií…">
+<!ENTITY updateCmd.accesskey                "a">
 <!ENTITY aboutCmd.label					"O programe &brandShortName;">
 <!ENTITY aboutCmd.accesskey				"m">
 <!ENTITY aboutCommPluginsCmd.label			"O zásuvných moduloch">

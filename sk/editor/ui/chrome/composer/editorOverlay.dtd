@@ -69,14 +69,8 @@
 <!ENTITY publishCmd.key "S">
 <!ENTITY publishAsCmd.label "Publikovať ako…">
 <!ENTITY publishAsCmd.accesskey "b">
-<!ENTITY exportToTextCmd.label "Export do textu…">
-<!ENTITY exportToTextCmd.accesskey "x">
 <!ENTITY saveAsChangeEncodingCmd.label "Uložiť a zmeniť kódovanie">
 <!ENTITY saveAsChangeEncodingCmd.accesskey "k">
-<!ENTITY previewCmd.label "Zobraziť stránku">
-<!ENTITY previewCmd.accesskey "n">
-<!ENTITY sendPageCmd.label "Odoslať stránku">
-<!ENTITY sendPageCmd.accesskey "s">
 <!ENTITY printSetupCmd.label "Nastavenie tlače…">
 <!ENTITY printSetupCmd.accesskey "N">
 <!ENTITY printCmd.label "Tlačiť…">
@@ -117,8 +111,6 @@
 <!ENTITY checkSpellingCmd2.label "Kontrola pravopisu">
 <!ENTITY checkSpellingCmd2.accesskey "p">
 <!ENTITY checkSpellingCmd2.key "P">
-<!ENTITY validateCmd.label "Overiť správnosť kódu HTML">
-<!ENTITY validateCmd.accesskey "v">
 
 <!-- Insert menu items -->
 <!ENTITY insertMenu.label "Vložiť">
@@ -333,11 +325,6 @@
 <!ENTITY decreaseIndent.accesskey "m">
 <!ENTITY decreaseIndent.key "[">
 
-<!ENTITY grid.label "Polohovacia mriežka">
-<!ENTITY grid.accesskey "h">
-
-<!ENTITY pageProperties.label "Titulok a vlastnosti stránky…">
-<!ENTITY pageProperties.accesskey "T">
 <!ENTITY colorsAndBackground.label "Farby stránky a pozadia…">
 <!ENTITY colorsAndBackground.accesskey "b">
 
@@ -411,8 +398,6 @@
 <!ENTITY openToolbarCmd.tooltip "Otvoriť lokálnu stránku">
 <!ENTITY saveToolbarCmd.tooltip "Uložiť stránku lokálne">
 <!ENTITY publishToolbarCmd.tooltip "Odoslať súbor na vzdialený server">
-<!ENTITY previewToolbarCmd.label "Ukážka">
-<!ENTITY previewToolbarCmd.tooltip "Ukážka stránky ako v prehliadači">
 <!ENTITY printToolbarCmd.label "Tlačiť">
 <!ENTITY printToolbarCmd.tooltip "Tlačiť stránku">
 <!ENTITY findToolbarCmd.label "Hľadať">
