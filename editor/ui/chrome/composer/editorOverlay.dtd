@@ -116,8 +116,6 @@
 <!ENTITY checkSpellingCmd2.label "Stavekontrol…">
 <!ENTITY checkSpellingCmd2.accesskey "S">
 <!ENTITY checkSpellingCmd2.key "p">
-<!ENTITY validateCmd.label "Valider HTML">
-<!ENTITY validateCmd.accesskey "H">
 
 <!-- Insert menu items -->
 <!ENTITY insertMenu.label "Indsæt">
@@ -332,11 +330,6 @@
 <!ENTITY decreaseIndent.accesskey "m">
 <!ENTITY decreaseIndent.key "[">
 
-<!ENTITY grid.label "Gitter">
-<!ENTITY grid.accesskey "t">
-
-<!ENTITY pageProperties.label "Sidens titel og egenskaber…">
-<!ENTITY pageProperties.accesskey "e">
 <!ENTITY colorsAndBackground.label "Sidens farver og baggrund…">
 <!ENTITY colorsAndBackground.accesskey "v">
 

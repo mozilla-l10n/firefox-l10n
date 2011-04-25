@@ -99,20 +99,43 @@
 <!ENTITY otherActionsPrint.label "Udskriv…">
 <!ENTITY otherActionsPrint.accesskey "U">
 
-<!ENTITY openAttachmentCmd.label "Åbn…">
-<!ENTITY openAttachmentCmd.accesskey "Å">
-<!ENTITY saveAsAttachmentCmd.label "Gem som…">
-<!ENTITY saveAsAttachmentCmd.accesskey "G">
-<!ENTITY detachAttachmentCmd.label "Afhæft…">
-<!ENTITY deleteAttachmentCmd.label "Slet">
+<!-- Attachment context menu items -->
+<!ENTITY openAttachmentCmd.label    "Åbn">
+<!ENTITY openAttachmentCmd.accesskey    "Å">
+<!ENTITY saveAsAttachmentCmd.label    "Gem som…">
+<!ENTITY saveAsAttachmentCmd.accesskey    "G">
+<!ENTITY detachAttachmentCmd.label    "Afhæft…">
+<!ENTITY detachAttachmentCmd.accesskey    "A">
+<!ENTITY deleteAttachmentCmd.label    "Slet">
+<!ENTITY deleteAttachmentCmd.accesskey    "S">
 <!ENTITY openAllAttachmentsCmd.label    "Åbn alle…">
-<!ENTITY openAllAttachmentsCmd.accesskey    "Å">
-<!ENTITY saveAllAttachmentsCmd.label "Gem alle…">
-<!ENTITY saveAllAttachmentsCmd.accesskey "G">
-<!ENTITY detachAllAttachmentsCmd.label "Afhæft alle…">
-<!ENTITY detachAllAttachmentsCmd.accesskey "f">
-<!ENTITY deleteAllAttachmentsCmd.label "Slet alle…">
-<!ENTITY deleteAllAttachmentsCmd.accesskey "S">
+<!ENTITY openAllAttachmentsCmd.accesskey    "l">
+<!ENTITY saveAllAttachmentsCmd.label    "Gem alle…">
+<!ENTITY saveAllAttachmentsCmd.accesskey    "a">
+<!ENTITY detachAllAttachmentsCmd.label    "Afhæft alle…">
+<!ENTITY detachAllAttachmentsCmd.accesskey    "f">
+<!ENTITY deleteAllAttachmentsCmd.label    "Slet alle…">
+<!ENTITY deleteAllAttachmentsCmd.accesskey    "t">
+
+<!-- Attachment toolbar items -->
+<!ENTITY saveAttachmentButton.label       "gem">
+<!ENTITY saveAttachmentButton.tooltip     "gem den vedhæftede fil">
+<!ENTITY saveAllAttachmentsButton.label   "gem alle">
+<!ENTITY saveAllAttachmentsButton.tooltip "gem alle vedhæftede filer">
+<!ENTITY openAttachmentMenuItem.label     "åbn">
+<!ENTITY openAttachmentMenuItem.accesskey    "å">
+<!ENTITY saveAsAttachmentMenuItem.label    "gem som…">
+<!ENTITY saveAsAttachmentMenuItem.accesskey    "g">
+<!ENTITY detachAttachmentMenuItem.label    "afhæft…">
+<!ENTITY detachAttachmentMenuItem.accesskey    "a">
+<!ENTITY deleteAttachmentMenuItem.label    "slet">
+<!ENTITY deleteAttachmentMenuItem.accesskey    "s">
+<!ENTITY saveAllAttachmentsMenuItem.label    "Gem alle…">
+<!ENTITY saveAllAttachmentsMenuItem.accesskey    "a">
+<!ENTITY detachAllAttachmentsMenuItem.label    "afhæft alle…">
+<!ENTITY detachAllAttachmentsMenuItem.accesskey    "f">
+<!ENTITY deleteAllAttachmentsMenuItem.label    "slet alle…">
+<!ENTITY deleteAllAttachmentsMenuItem.accesskey    "t">
 
 <!ENTITY copyLinkCmd.label "Kopier link">
 <!ENTITY copyLinkCmd.accesskey "K">
