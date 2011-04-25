@@ -58,6 +58,14 @@
 <!-- Format menu items -->
 <!ENTITY formatMenu.label "Format">
 <!ENTITY formatMenu.accesskey "F">
+<!ENTITY grid.label "Gitter">
+<!ENTITY grid.accesskey "t">
+<!ENTITY pageProperties.label "Sidens titel og egenskaber…">
+<!ENTITY pageProperties.accesskey "g">
+
+<!-- Tools menu items -->
+<!ENTITY validateCmd.label "Valider HTML">
+<!ENTITY validateCmd.accesskey "H">
 
 <!-- Display Mode toolbar and View menu items -->
 <!ENTITY NormalModeTab.label "Normal">
