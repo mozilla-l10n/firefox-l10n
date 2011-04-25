@@ -63,9 +63,9 @@
 
 <!ENTITY channel.change             "Aanpassen">
 
-<!ENTITY channel.release.description       "Ervaar de uitgeprobeerde en geteste uitgave gebruikt door honderden miljoenen over de wereld. Blijf in controle over uw online ervaring met super snelheid, makkelijke aanpasbaarheid en de laatste webtechnologieën.">
-<!ENTITY channel.beta.description          "Ervaar de allerlaatste eigenschappen met meer stabiliteit. Geef feedback om de uiteindelijke uitgave nog beter te maken.">
-<!ENTITY channel.aurora.description        "Ervaar de laatste innovaties in een onstabiele omgeving die niet geschikt is voor mensen met een zwak hart. Geef feedback op eigenschappen en prestaties om mee te bepalen wat er in de uiteindelijke uitgave komt.">
+<!ENTITY channel.release.description       "Geniet van de uitgeprobeerde en geteste laatste uitgave die door honderden miljoenen mensen over de hele wereld wordt gebruikt. Blijf de baas over uw onlinebeleving met supersnelheid, eenvoudige aanpassing en de nieuwste webtechnologieën.">
+<!ENTITY channel.beta.description          "Beleef de allernieuwste functionaliteiten, maar met meer stabiliteit. Geef feedback om te helpen bij het verfijnen en bijschaven van nieuwe zaken in de definitieve uitgave.">
+<!ENTITY channel.aurora.description        "Beleef de nieuwste innovaties in een onstabiele omgeving die niet geschikt is voor mensen met een zwak hart. Geef feedback over functies en prestaties om te helpen bepalen wat er in de definitieve uitgave komt.">
 
 <!-- LOCALIZATION NOTE (channel.selector.start,channel.selector.end): channel.selector.start and
      channel.selector.end create one sentence, with a channel selection menulist instered in between.
