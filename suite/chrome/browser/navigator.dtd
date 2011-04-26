@@ -40,9 +40,6 @@
 <!ENTITY printCmd.accesskey "t">
 <!ENTITY printCmd.commandkey "p">
 
-<!ENTITY viewMenu.label "Zobrazení">
-<!ENTITY viewMenu.accesskey "Z">
-
 <!ENTITY toolbarsCmd.label "Zobrazit/Skrýt">
 <!ENTITY toolbarsCmd.accesskey "o">
 <!ENTITY navbarCmd.label "Lišta navigace">
