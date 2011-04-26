@@ -56,8 +56,6 @@
 <!ENTITY sendPageCmd.accesskey "z">
 
 <!-- View menu items -->
-<!ENTITY viewMenu.label "Beeld">
-<!ENTITY viewMenu.accesskey "l">
 <!ENTITY compositionToolbarCmd.label "Compositiewerkbalk">
 <!ENTITY compositionToolbarCmd.accesskey "C">
 <!ENTITY formattingToolbarCmd.label "Opmaakwerkbalk">
