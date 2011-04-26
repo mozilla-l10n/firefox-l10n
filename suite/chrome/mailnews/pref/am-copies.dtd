@@ -3,7 +3,7 @@
 <!ENTITY fccMailFolder.label "Помещать копию сообщения в:">
 <!ENTITY fccMailFolder.accesskey "м">
 <!ENTITY fccReplyFollowsParent.label "Сохранять ответы в папке оригинала">
-<!ENTITY fccReplyFollowsParent.accesskey "х">
+<!ENTITY fccReplyFollowsParent.accesskey "т">
 <!ENTITY ccAddress.label "Отправлять копии (Cc) по адресам:">
 <!ENTITY ccAddress.accesskey "т">
 <!ENTITY ccAddressList.placeholder "Разделяйте адреса запятыми">
@@ -15,20 +15,24 @@
 <!ENTITY sentFolderOn.label "папку «Отправленные» в:">
 <!ENTITY sentFolderOn.accesskey "а">
 <!ENTITY sentInOtherFolder.label "Другую папку:">
-<!ENTITY sentInOtherFolder.accesskey "у">
-<!ENTITY draftsFolderOn.label "папке «Черновики» в:">
-<!ENTITY draftsFolderOn.accesskey "Ч">
-<!ENTITY draftInOtherFolder.label "Другой папке:">
-<!ENTITY draftInOtherFolder.accesskey "Д">
+<!ENTITY sentInOtherFolder.accesskey "г">
+<!ENTITY archivesTitle.label "Архивы сообщений">
+<!ENTITY keepArchives.label "Хранить архивированные сообщения в:">
+<!ENTITY keepArchives.accesskey "х">
+<!ENTITY archiveHierarchyButton.label "Настройки архивации…">
+<!ENTITY archiveHierarchyButton.accesskey "с">
 <!ENTITY archivesFolderOn.label "папке «Архивы» в:">
 <!ENTITY archivesFolderOn.accesskey "в">
 <!ENTITY archiveInOtherFolder.label "Другой папке:">
-<!ENTITY archiveInOtherFolder.accesskey "у">
+<!ENTITY archiveInOtherFolder.accesskey "о">
+<!ENTITY specialFolders.label "Черновики и Шаблоны">
+<!ENTITY keepDrafts.label "Хранить черновики сообщений в:">
+<!ENTITY draftsFolderOn.label "папке «Черновики» в:">
+<!ENTITY draftsFolderOn.accesskey "н">
+<!ENTITY draftInOtherFolder.label "Другой папке:">
+<!ENTITY draftInOtherFolder.accesskey "у">
+<!ENTITY keepTemplates.label "Хранить шаблоны сообщений в:">
 <!ENTITY templatesFolderOn.label "папке «Шаблоны» в:">
-<!ENTITY templatesFolderOn.accesskey "Ш">
+<!ENTITY templatesFolderOn.accesskey "б">
 <!ENTITY templateInOtherFolder.label "Другой папке:">
 <!ENTITY templateInOtherFolder.accesskey "р">
-<!ENTITY specialFoldersTitle.label "Черновики, архивы и шаблоны">
-<!ENTITY keepDrafts.label "Хранить черновики сообщений в:">
-<!ENTITY keepArchives.label "Хранить архивированные сообщения в:">
-<!ENTITY keepTempltes.label "Хранить шаблоны сообщений в:">

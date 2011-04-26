@@ -1,0 +1,13 @@
+<!ENTITY dialogTitle.label "Настройки архивации">
+<!ENTITY archiveGranularityPrefix.label "При архивации сообщений, помещать их в:">
+<!ENTITY archiveFlat.label "Единую папку">
+<!ENTITY archiveFlat.accesskey "и">
+<!ENTITY archiveYearly.label "Папки архивов по годам">
+<!ENTITY archiveYearly.accesskey "о">
+<!ENTITY archiveMonthly.label "Папки архивов по месяцам">
+<!ENTITY archiveMonthly.accesskey "е">
+<!ENTITY keepFolderStructure.label "Сохранять существующую структуру папок для архивированных сообщений">
+<!ENTITY keepFolderStructure.accesskey "р">
+<!ENTITY archiveExample.label "Пример">
+<!ENTITY archiveFolderName.label "Архивы">
+<!ENTITY inboxFolderName.label "Входящие">
