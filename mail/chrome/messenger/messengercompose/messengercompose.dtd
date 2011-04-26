@@ -193,6 +193,7 @@
 <!ENTITY quoteButton.tooltip "Luaigh an teachtaireacht roimhe seo">
 <!ENTITY addressButton.tooltip "Roghnaigh faighteoir as Leabhar Seoltaí">
 <!ENTITY attachButton.tooltip "Cuir iatán leis">
+<!ENTITY spellingButton.tooltip "Check spelling of selection or entire message">
 <!ENTITY saveButton.tooltip "Sábháil an teachtaireacht seo">
 <!ENTITY cutButton.tooltip "Gearr">
 <!ENTITY copyButton.tooltip "Cóipeáil">
@@ -263,6 +264,10 @@
 <!ENTITY attachFile.accesskey "f">
 <!ENTITY attachPage.label "Ceangail Leathanach Gréasáin…">
 <!ENTITY attachPage.accesskey "G">
+<!-- Spell checker context menu items -->
+
+<!ENTITY spellAddDictionaries.label "Cuir Foclóirí Leis…">
+<!ENTITY spellAddDictionaries.accesskey "C">
 <!-- Title for the address picker panel -->
 
 <!ENTITY addressesSidebarTitle.label "Teagmhálacha">

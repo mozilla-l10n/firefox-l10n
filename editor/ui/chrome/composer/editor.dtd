@@ -44,10 +44,18 @@
 
 
 <!ENTITY compositionToolbar.tooltip "Barra Cumadóireachta">
+<!ENTITY previewToolbarCmd.label "Brabhsáil">
+<!ENTITY previewToolbarCmd.tooltip "Luchtaigh an leathanach seo sa bhrabhsálaí">
+<!-- File menu items -->
+
+<!ENTITY exportToTextCmd.label "Easpórtáil mar Théacs…">
+<!ENTITY exportToTextCmd.accesskey "T">
+<!ENTITY previewCmd.label "Brabhsáil an Leathanach">
+<!ENTITY previewCmd.accesskey "b">
+<!ENTITY sendPageCmd.label "Seol Leathanach…">
+<!ENTITY sendPageCmd.accesskey "L">
 <!-- View menu items -->
 
-<!ENTITY viewMenu.label "Amharc">
-<!ENTITY viewMenu.accesskey "A">
 <!ENTITY compositionToolbarCmd.label "Barra Cumadóireachta">
 <!ENTITY compositionToolbarCmd.accesskey "C">
 <!ENTITY formattingToolbarCmd.label "Barra Formáidithe">
@@ -58,3 +66,35 @@
 
 <!ENTITY formatMenu.label "Formáid">
 <!ENTITY formatMenu.accesskey "o">
+<!ENTITY grid.label "Greille suite">
+<!ENTITY grid.accesskey "t">
+<!ENTITY pageProperties.label "Teideal an Leathanaigh agus Airíonna…">
+<!ENTITY pageProperties.accesskey "T">
+<!-- Tools menu items -->
+
+<!ENTITY validateCmd.label "Bailíochtaigh HTML">
+<!ENTITY validateCmd.accesskey "B">
+<!-- Display Mode toolbar and View menu items -->
+
+<!ENTITY NormalModeTab.label "Gnách">
+<!ENTITY NormalMode.label "Gnáthmhód Eagarthóireachta">
+<!ENTITY NormalMode.accesskey "n">
+<!ENTITY NormalMode.tooltip "Taispeáin imlínte an tábla agus ancairí ainmnithe">
+<!ENTITY AllTagsModeTab.label "HTML Tags">
+<!ENTITY AllTagsMode.label "Clibeanna HTML">
+<!ENTITY AllTagsMode.accesskey "a">
+<!ENTITY AllTagsMode.tooltip "Taispeáin deilbhín do gach clib HTML">
+<!-- LOCALIZATION NOTE: (HTMLSourceModeTab.dir, HTMLSourceModeTab.label)
+     Do NOT translate text for 'HTMLSourceModeTab.dir', use latin "ltr" if
+     you want the <html> image to left of the 'HTMLSourceModeTab.label' text,
+     or use latin "rtl" if you want this image to the right of text. You do
+     not need to include HTML in the label 'HTMLSourceModeTab.label' -->
+<!ENTITY HTMLSourceModeTab.dir "ltr">
+<!ENTITY HTMLSourceModeTab.label "Foinse">
+<!ENTITY HTMLSourceMode.label "Foinse HTML">
+<!ENTITY HTMLSourceMode.accesskey "H">
+<!ENTITY HTMLSourceMode.tooltip "Cuir foinse HTML in eagar">
+<!ENTITY PreviewModeTab.label "Réamhamharc">
+<!ENTITY PreviewMode.label "Réamhamharc">
+<!ENTITY PreviewMode.accesskey "R">
+<!ENTITY PreviewMode.tooltip "Taispeáin mar a bheadh sa bhrabhsálaí">

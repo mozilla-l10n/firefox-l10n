@@ -5,10 +5,23 @@
 
 <!ENTITY newFolderCmd.label "Fillteán…">
 <!ENTITY newFolderCmd.accesskey "F">
-<!ENTITY closeTabCmd.label "Dún Cluaisín">
-<!ENTITY closeTabCmd.accesskey "C">
-<!ENTITY closeOtherTabsCmd.label "Dún Cluaisíní Eile">
-<!ENTITY closeOtherTabsCmd.accesskey "l">
+<!ENTITY closeTabCmd2.label "Dún Cluaisín">
+<!ENTITY closeTabCmd2.accesskey "D">
+<!ENTITY closeOtherTabsCmd2.label "Dún Cluaisíní Eile">
+<!ENTITY closeOtherTabsCmd2.accesskey "E">
+<!-- LOCALIZATION NOTE (undoCloseTabCmd.label):
+     Menu option to attempt to re-open a recently closed tab.
+     -->
+<!ENTITY recentlyClosedTabsCmd.label "Recently Closed Tabs">
+<!ENTITY recentlyClosedTabsCmd.accesskey "R">
+
+<!ENTITY undoCloseTabCmd.commandkey "T">
+<!-- LOCALIZATION NOTE (moveToNewWindow.label):
+     Menu option to cause the current tab to be migrated to a new Thunderbird
+     window.
+     -->
+<!ENTITY moveToNewWindow.label "Bog go Fuinneog Nua">
+<!ENTITY moveToNewWindow.accesskey "N">
 <!ENTITY newVirtualFolderCmd.label "Cuardach Sábháilte…">
 <!ENTITY newVirtualFolderCmd.accesskey "S">
 <!ENTITY newOtherAccountsCmd.label "Cuntais Eile… ">
@@ -314,6 +327,7 @@ you can use these alternative items. Otherwise, their values should be empty.  -
 <!ENTITY folderMenu.accesskey "F">
 <!ENTITY thisFolder.label "An Fillteán Seo">
 <!ENTITY thisFolder.accesskey "S">
+<!ENTITY goRecentlyClosedTabs.label "Cluaisíní a Dúnadh Le Déanaí">
 <!ENTITY startPageCmd.label "Leathanaigh Tosaigh Ríomhphoist">
 <!ENTITY startPageCmd.accesskey "L">
 <!-- Message Menu -->
@@ -394,12 +408,11 @@ you can use these alternative items. Otherwise, their values should be empty.  -
 <!ENTITY tagCmd9.key "9">
 <!ENTITY markMenu.label "Marcáil">
 <!ENTITY markMenu.accesskey "M">
+<!ENTITY toggleReadCmd.key "m">
 <!ENTITY markAsReadCmd.label "Léite">
 <!ENTITY markAsReadCmd.accesskey "L">
-<!ENTITY markAsReadCmd.key "m">
 <!ENTITY markAsUnreadCmd.label "Mar Neamhléite">
 <!ENTITY markAsUnreadCmd.accesskey "N">
-<!ENTITY markAsUnreadCmd.key "m">
 <!ENTITY markThreadAsReadCmd.label "Snáithe Léite">
 <!ENTITY markThreadAsReadCmd.accesskey "t">
 <!ENTITY markThreadAsReadCmd.key "r">
@@ -640,6 +653,10 @@ you can use these alternative items. Otherwise, their values should be empty.  -
 
 <!ENTITY contextOpenNewWindow.label "Oscail Teachtaireacht i bhFuinneog Nua">
 <!ENTITY contextOpenNewWindow.accesskey "F">
+<!-- The key potentially conflicts with cutCmd.accessKey which is defined in
+     textcontext.dtd from toolkit. Right now, both menu items can't be visible
+     at the same time, but should someone enable copy/paste of message, this key
+     would probably need to be changed. -->
 <!ENTITY contextOpenNewTab.label "Oscail Teachtaireacht i gCluaisín Nua">
 <!ENTITY contextOpenNewTab.accesskey "C">
 <!ENTITY contextOpenConversation.label "Oscail Teachtaireacht i gComhrá">
@@ -801,20 +818,16 @@ you can use these alternative items. Otherwise, their values should be empty.  -
 <!ENTITY CreateFilterFrom.accesskey "S">
 <!ENTITY reportPhishingURL.label "Seol Tuairisc faoi Camscéim Ríomhphoist">
 <!ENTITY reportPhishingURL.accesskey "o">
+<!-- Spell checker context menu items -->
+
+<!ENTITY spellAddDictionaries.label "Cuir Foclóirí Leis…">
+<!ENTITY spellAddDictionaries.accesskey "C">
 <!-- Content Pane Context Menu -->
 
 <!ENTITY saveLinkAsCmd.label "Sábháil an Nasc Mar…">
 <!ENTITY saveLinkAsCmd.accesskey "N">
 <!ENTITY saveImageAsCmd.label "Sábháil an Íomhá Mar…">
 <!ENTITY saveImageAsCmd.accesskey "M">
-<!ENTITY cutCmd.label "Gearr">
-<!ENTITY cutCmd.accesskey "G">
-<!ENTITY copyCmd.label "Cóipeáil">
-<!ENTITY copyCmd.accesskey "C">
-<!ENTITY pasteCmd.label "Greamaigh">
-<!ENTITY pasteCmd.accesskey "r">
-<!ENTITY selectAllCmd.label "Roghnaigh Uile">
-<!ENTITY selectAllCmd.accesskey "U">
 <!ENTITY copyLinkCmd.label "Cóipeáil Suíomh an Naisc">
 <!ENTITY copyLinkCmd.accesskey "C">
 <!ENTITY copyImageAllCmd.label "Cóipeáil an Íomhá">

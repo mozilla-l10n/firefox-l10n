@@ -7,8 +7,10 @@
 <!ENTITY helpMenuWin.accesskey "h">
 <!ENTITY helpTroubleshootingInfo.label "Fabhtcheartú">
 <!ENTITY helpTroubleshootingInfo.accesskey "t">
-<!ENTITY releaseCmd.label "Nótaí Eisiúna">
-<!ENTITY releaseCmd.accesskey "N">
+<!ENTITY helpSafeMode.label "Atosaigh gan aon bhreiseáin…">
+<!ENTITY helpSafeMode.accesskey "A">
+<!ENTITY releaseCmd2.label "Release Notes">
+<!ENTITY releaseCmd2.accesskey "N">
 <!ENTITY whatsNewCmd.label "Is Geal Gach Nua">
 <!ENTITY whatsNewCmd.accesskey "G">
 <!ENTITY featureConfiguratorCmd.label "Cúntóir Ascnaimh">
