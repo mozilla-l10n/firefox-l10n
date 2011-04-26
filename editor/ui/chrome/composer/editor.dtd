@@ -56,8 +56,6 @@
 <!ENTITY sendPageCmd.accesskey "E">
 
 <!-- View menu items -->
-<!ENTITY viewMenu.label "Ver">
-<!ENTITY viewMenu.accesskey "v">
 <!ENTITY compositionToolbarCmd.label "Barra de composición">
 <!ENTITY compositionToolbarCmd.accesskey "c">
 <!ENTITY formattingToolbarCmd.label "Barra de formato">
