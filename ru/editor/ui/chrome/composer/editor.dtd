@@ -46,8 +46,6 @@
 <!ENTITY previewCmd.accesskey "м">
 <!ENTITY sendPageCmd.label "Отправить страницу…">
 <!ENTITY sendPageCmd.accesskey "т">
-<!ENTITY viewMenu.label "Вид">
-<!ENTITY viewMenu.accesskey "и">
 <!ENTITY compositionToolbarCmd.label "Панель компоновки">
 <!ENTITY compositionToolbarCmd.accesskey "к">
 <!ENTITY formattingToolbarCmd.label "Панель форматирования">
