@@ -1,3 +1,8 @@
+<!ENTITY tracking.label                 "Verfolgung">
+
+<!ENTITY doNotTrack.label               "Websites mitteilen, dass ich nicht verfolgt werden möchte ">
+<!ENTITY doNotTrack.accesskey           "d">
+
 <!ENTITY  history.label                 "Chronik">
 
 <!ENTITY  locationBar.label             "Adressleiste">
