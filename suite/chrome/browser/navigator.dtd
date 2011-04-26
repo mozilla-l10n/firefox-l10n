@@ -40,9 +40,6 @@
 <!ENTITY printCmd.accesskey "d">
 <!ENTITY printCmd.commandkey "p">
 
-<!ENTITY viewMenu.label "Beeld">
-<!ENTITY viewMenu.accesskey "l">
-
 <!ENTITY toolbarsCmd.label "Tonen/verbergen">
 <!ENTITY toolbarsCmd.accesskey "T">
 <!ENTITY navbarCmd.label "Navigatiewerkbalk">
