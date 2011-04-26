@@ -69,14 +69,8 @@
 <!ENTITY publishCmd.key "S">
 <!ENTITY publishAsCmd.label "Foilsigh Mar…">
 <!ENTITY publishAsCmd.accesskey "h">
-<!ENTITY exportToTextCmd.label "Easpórtáil mar Théacs…">
-<!ENTITY exportToTextCmd.accesskey "T">
 <!ENTITY saveAsChangeEncodingCmd.label "Sábháil agus Athraigh Ionchódú na gCarachtar">
 <!ENTITY saveAsChangeEncodingCmd.accesskey "I">
-<!ENTITY previewCmd.label "Brabhsáil an Leathanach">
-<!ENTITY previewCmd.accesskey "b">
-<!ENTITY sendPageCmd.label "Seol Leathanach…">
-<!ENTITY sendPageCmd.accesskey "L">
 <!ENTITY printSetupCmd.label "Socrú Leathanaigh…">
 <!ENTITY printSetupCmd.accesskey "L">
 <!ENTITY printCmd.label "Priontáil…">
@@ -89,8 +83,8 @@
 
 <!ENTITY editMenu.label "Eagar">
 <!ENTITY editMenu.accesskey "E">
-<!ENTITY pasteNoFormatting.label "Greamaigh Gan Formáidiú">
-<!ENTITY pasteNoFormatting.accesskey "G">
+<!ENTITY pasteNoFormatting.label "Paste Without Formatting">
+<!ENTITY pasteNoFormatting.accesskey "n">
 <!ENTITY pasteNoFormatting.key "V">
 <!ENTITY pasteAs.label "Greamaigh Mar">
 <!ENTITY pasteAs.accesskey "a">
@@ -116,8 +110,6 @@
 <!ENTITY checkSpellingCmd2.label "Seiceáil Litriú">
 <!ENTITY checkSpellingCmd2.accesskey "e">
 <!ENTITY checkSpellingCmd2.key "p">
-<!ENTITY validateCmd.label "Bailíochtaigh HTML">
-<!ENTITY validateCmd.accesskey "B">
 <!-- Insert menu items -->
 
 <!ENTITY insertMenu.label "Ionsáigh">
@@ -333,11 +325,6 @@
 <!ENTITY decreaseIndent.accesskey "d">
 <!ENTITY decreaseIndent.key "[">
 
-<!ENTITY grid.label "Greille suite">
-<!ENTITY grid.accesskey "t">
-
-<!ENTITY pageProperties.label "Teideal an Leathanaigh agus Airíonna…">
-<!ENTITY pageProperties.accesskey "T">
 <!ENTITY colorsAndBackground.label "Dathanna an Leathanaigh agus Cúlra…">
 <!ENTITY colorsAndBackground.accesskey "C">
 <!-- Table Menu -->
@@ -412,8 +399,6 @@
 <!ENTITY openToolbarCmd.tooltip "Oscail comhad logánta">
 <!ENTITY saveToolbarCmd.tooltip "Sábháil comhad i suíomh logánta">
 <!ENTITY publishToolbarCmd.tooltip "Uasluchtaigh comhad go suíomh cianda">
-<!ENTITY previewToolbarCmd.label "Brabhsáil">
-<!ENTITY previewToolbarCmd.tooltip "Luchtaigh an leathanach seo sa bhrabhsálaí">
 <!ENTITY printToolbarCmd.label "Priontáil">
 <!ENTITY printToolbarCmd.tooltip "Priontáil an leathanach seo">
 <!ENTITY findToolbarCmd.label "Aimsigh">
@@ -451,32 +436,6 @@
 <!ENTITY alignCenterButton.tooltip "Ailínigh téacs sa lár">
 <!ENTITY alignRightButton.tooltip "Ailínigh téacs ar an imeall deas">
 <!ENTITY alignJustifyButton.tooltip "Ailínigh téacs ar na himill chlé agus dheas">
-<!-- Display Mode toolbar and View menu items -->
-
-<!ENTITY NormalModeTab.label "Gnách">
-<!ENTITY NormalMode.label "Gnáthmhód Eagarthóireachta">
-<!ENTITY NormalMode.accesskey "n">
-<!ENTITY NormalMode.tooltip "Taispeáin imlínte an tábla agus ancairí ainmnithe">
-<!ENTITY AllTagsMode.label "Clibeanna HTML">
-<!ENTITY AllTagsMode.accesskey "a">
-<!ENTITY AllTagsMode.tooltip "Taispeáin deilbhín do gach clib HTML">
-
-<!ENTITY HTMLSourceMode.label "Foinse HTML">
-<!-- Toolbar has an image with "HTML" text, so don't include it in the string -->
-<!ENTITY SourceMode.label "Foinse">
-<!ENTITY HTMLSourceMode.accesskey "H">
-<!ENTITY HTMLSourceMode.tooltip "Cuir foinse HTML in eagar">
-<!ENTITY PreviewMode.label "Réamhamharc">
-<!ENTITY PreviewMode.accesskey "R">
-<!ENTITY PreviewMode.tooltip "Taispeáin mar a bheadh sa bhrabhsálaí">
-<!-- LOCALIZATION NOTE: Do NOT translate text for 'SourceTabDirection'
-     Use latin "ltr" if you want the <html> image to left of the 
-     'SourceMode.label' text defined above,
-     or use latin "rtl" if you want this image to the right of text
-     This is the value of the HTML 'dir' attribute
--->
-
-<!ENTITY SourceTabDirection "ltr">
 <!-- Structure Toolbar Context Menu items -->
 
 <!ENTITY structSelect.label "Roghnaigh">

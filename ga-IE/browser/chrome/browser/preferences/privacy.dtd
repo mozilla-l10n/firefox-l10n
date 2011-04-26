@@ -1,3 +1,8 @@
+<!ENTITY tracking.label "Rianú">
+
+<!ENTITY doNotTrack.label "Cuir in iúl do shuímh Ghréasáin gan mé a rianú">
+<!ENTITY doNotTrack.accesskey "d">
+
 <!ENTITY history.label "Stair">
 
 <!ENTITY locationBar.label "Barra Suímh">
@@ -29,7 +34,6 @@
 
 <!ENTITY showCookies.label "Taispeáin Fianáin…">
 <!ENTITY showCookies.accesskey "s">
-
 
 <!ENTITY historyHeader.pre.label "Cad is mian leat &brandShortName; a dhéanamh?">
 <!ENTITY historyHeader.pre.accesskey "C">

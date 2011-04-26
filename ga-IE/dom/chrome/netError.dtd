@@ -69,9 +69,13 @@
 
 <!ENTITY cspFrameAncestorBlocked.title "Bactha ag an Polasaí Slándala Inneachair">
 <!ENTITY cspFrameAncestorBlocked.longDesc "<p>Chuir an brabhsálaí stad ar luchtú an leathanaigh seo toisc go bhfuil polasaí slándála inneachair ag an leathanach a dhícheadaíonn é.</p>">
+
+<!ENTITY remoteXUL.title "XUL Cianda">
+<!ENTITY remoteXUL.longDesc "<p><ul><li>Téigh i dteagmháil le húinéir an tsuímh agus inis dóibh faoin fhadhb seo.</li></ul></p>">
 <!-- Include app-specific error messages - do not change this in localization!
      Some applications might override netErrorApp.dtd with their specific version,
-     this inclusion needs to be intact for that approach to work correctly. -->
+     this inclusion needs to be intact for that approach to work correctly.
+     Please, try to keep this at the end of the file. -->
 
 <!ENTITY % netErrorAppDTD SYSTEM "chrome://global/locale/netErrorApp.dtd">
 %netErrorAppDTD;
