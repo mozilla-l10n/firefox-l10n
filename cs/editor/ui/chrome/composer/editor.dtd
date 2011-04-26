@@ -46,8 +46,6 @@
 <!ENTITY compositionToolbar.tooltip "Lišta editoru">
 
 <!-- View menu items -->
-<!ENTITY viewMenu.label "Zobrazení">
-<!ENTITY viewMenu.accesskey "Z">
 <!ENTITY compositionToolbarCmd.label "Lišta editoru">
 <!ENTITY compositionToolbarCmd.accesskey "e">
 <!ENTITY formattingToolbarCmd.label "Lišta stylů">
