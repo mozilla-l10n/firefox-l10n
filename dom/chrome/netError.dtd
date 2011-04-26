@@ -91,4 +91,4 @@
 %netErrorAppDTD;
 
 <!ENTITY remoteXUL.title "Remote-XUL">
-<!ENTITY remoteXUL.longDesc "<p><ul><liBitte informieren Sie den Website-Inhaber über dieses Problem.</li></ul></p>">
+<!ENTITY remoteXUL.longDesc "<p><ul><li>Bitte informieren Sie den Website-Inhaber über dieses Problem.</li></ul></p>">
