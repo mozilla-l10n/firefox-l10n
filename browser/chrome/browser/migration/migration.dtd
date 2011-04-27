@@ -43,9 +43,9 @@
 <!ENTITY migrating.title "กำลังนำเข้า…">
 <!ENTITY migrating.label "กำลังนำเข้า…">
 
-<!ENTITY selectProfile.title "เลือกโปรแฟ้ม">
-<!ENTITY selectProfile.label "โปรแฟ้มต่อไปนี้สามารถนำเข้าได้ :">
+<!ENTITY selectProfile.title "เลือกโพรไฟล์">
+<!ENTITY selectProfile.label "โพรไฟล์ต่อไปนี้สามารถนำเข้าได้ :">
 
 <!ENTITY done.title "การนำเข้าเสร็จสมบูรณ์">
-<!ENTITY done.label "โปรแฟ้มต่อไปนี้ได้ถูกนำเข้าเป็นผลสำเร็จ :">
+<!ENTITY done.label "โพรไฟล์ต่อไปนี้ได้ถูกนำเข้าเป็นผลสำเร็จ :">
 

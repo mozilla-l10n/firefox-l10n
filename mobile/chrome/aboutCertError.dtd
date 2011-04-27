@@ -12,7 +12,7 @@ by NSS/PSM via netError.xhtml. -->
 <!-- Localization note (certerror.introPara1) - The string "#1" will
 be replaced at runtime with the name of the server to which the user
 was trying to connect. -->
-<!ENTITY certerror.introPara1 "คุณให้ &brandShortName; เชื่อมต่อแบบนิรภัยไปยัง <b>#1</b> แต่เราไม่สามารถยืนยันได้ว่าการเชื่อต่อของคุณนิรภัยหรือไม่">
+<!ENTITY certerror.introPara1 "คุณให้ &brandShortName; เชื่อมต่อแบบนิรภัยไปยัง <b>#1</b> แต่เราไม่สามารถยืนยันได้ว่าการเชื่อมต่อของคุณนิรภัยหรือไม่">
 <!ENTITY certerror.introPara2 "โดยปกติแล้ว ถ้าคุณใช้การเชื่อมต่อแบบนิรภัย เว็บไซต์จะแสดงอัตลักษณ์ที่เชื่อถือได้เพื่อพิสูจน์ว่าคุณได้เข้ามายังที่ที่ต้องการจริงๆ แต่สำหรับเว็บไซต์นี้ ไม่สามารถยืนยันอัตลักษณ์ได้">
 
 <!ENTITY certerror.whatShouldIDo.heading "ฉันควรทำอย่างไร?">

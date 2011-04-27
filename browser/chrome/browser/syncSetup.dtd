@@ -52,7 +52,7 @@
 <!ENTITY button.syncKeyBackup.save.accesskey  "บ">
 
 <!-- New Account Page 3: Captcha -->
-<!ENTITY setup.captchaPage2.title.label     "โปรดยืนยันว่าคุณเปนมนุษย์">
+<!ENTITY setup.captchaPage2.title.label     "โปรดยืนยันว่าคุณเป็นมนุษย์">
 <!-- Existing Account Page 1: Add Device (incl. Add a Device dialog strings) -->
 <!ENTITY addDevice.title.label              "เพิ่มอุปกรณ์">
 <!ENTITY addDevice.showMeHow.label          "บอกฉันว่าทำอย่างไร">
@@ -101,7 +101,7 @@
 <!ENTITY setup.optionsConfirmPage.title "ยืนยัน">
 <!ENTITY confirm.merge.label    "&syncBrand.fullName.label; จะรวมข้อมูลจากเบราว์เซอร์บนคอมพิวเตอร์เครื่องนี้เข้ากับข้อมูลในบัญชี Sync ของคุณ">
 <!ENTITY confirm.client2.label         "เตือน: ข้อมูลเหล่านี้ของ &brandShortName; บนคอมพิวเตอร์เครื่องนี้จะถูกลบทิ้งทั้งหมด:">
-<!ENTITY confirm.client.moreinfo.label "&brandShortName; จะคัดลอกข้อมูลจาก &syncBrand.fullName.label; ของคุณ ลงสู่คอมพวิเตอร์เครื่องนี้">
+<!ENTITY confirm.client.moreinfo.label "&brandShortName; จะคัดลอกข้อมูลจาก &syncBrand.fullName.label; ของคุณ ลงสู่คอมพิวเตอร์เครื่องนี้">
 <!ENTITY confirm.server2.label         "เตือน: อุปกรณ์เหล่านี้จะถูกเขียนทับด้วยข้อมูลบนคอมพิวเตอร์เครื่องนี้:">
 
 <!-- New & Existing Account: Setup Complete -->
