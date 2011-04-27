@@ -26,7 +26,7 @@ that this is a lightweight and reversible action that keeps your tab where you
 can reach it easily. -->
 <!ENTITY  pinAppTab.label                    "ปักหมุดเป็น App Tab">
 <!ENTITY  pinAppTab.accesskey                "ป">
-<!ENTITY  unpinAppTab.label                  "ถอดหมุน Tab">
+<!ENTITY  unpinAppTab.label                  "ถอดหมุด Tab">
 <!ENTITY  unpinAppTab.accesskey              "ถ">
 <!ENTITY  moveToGroup.label                  "ย้ายไปยังกลุ่ม">
 <!ENTITY  moveToGroup.accesskey              "ย">
