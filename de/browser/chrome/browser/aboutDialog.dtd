@@ -55,3 +55,29 @@
      example: Downloading update — 111 KB of 13 MB -->
 <!ENTITY update.downloading.start   "Update  wird heruntergeladen — ">
 <!ENTITY update.downloading.end     "">
+
+<!-- LOCALIZATION NOTE (channel.description.start,channel.description.end): channel.description.start and
+     channel.description.end create one sentence, with the current channel label inserted in between.
+     example: You are currently on the _Stable_ update channel. -->
+<!ENTITY channel.description.start  "Sie sind derzeit auf dem ">
+<!ENTITY channel.description.end    " Update-Kanal. ">
+
+<!ENTITY channel.change             "Ändern">
+
+<!ENTITY channel.release.description       "Genießen Sie die bewährte und getestete Version, die von Hunderten von Millionen Anwendern weltweit verwendet wird. Surfen Sie mit maximaler Geschwindigkeit, einfacher Anpassung und den aktuellsten Web-Technologien.">
+<!ENTITY channel.beta.description          "Verwenden Sie die neusten Features in einer stabileren Form. Geben Sie uns Feedback, und helfen Sie uns damit, der finalen Version den letzten Schliff zu geben.">
+<!ENTITY channel.aurora.description        "Verwenden Sie die neusten Innovationen in einer instabilen Umgebung, die nichts für schwache Nerven ist. Geben Sie uns Feedback über Features und Performanz, und helfen Sie uns damit, festzulegen, was den Sprung in die finale Version schafft.">
+
+
+<!-- LOCALIZATION NOTE (channel.selector.start,channel.selector.end): channel.selector.start and
+     channel.selector.end create one sentence, with a channel selection menulist instered in between.
+     This is all in one line, so try to make the localized text short.
+     example: Switch to the [Stable] update channel. -->
+<!ENTITY channel.selector.start          "Zum">
+<!ENTITY channel.selector.end            "Update-Kanal wechseln.">
+
+<!-- LOCALIZATION NOTE (channel.selector.applyButton): This button applies the user's choice to switch
+     to a new update channel and starts the application update process. -->
+<!ENTITY channel.selector.applyButton    "Anwenden und aktualisieren">
+<!ENTITY channel.selector.cancelButton   "Abbrechen">
+
