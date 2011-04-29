@@ -3,7 +3,7 @@
 <!-- LOCALIZATION NOTE: The title is intended to be apologetic and disarming, expressing dismay
      and regret that we are unable to restore the session for the user -->
 <!ENTITY restorepage.errorTitle     "Hum, nec'hus eo.">
-<!ENTITY restorepage.problemDesc    "&brandShortName; en deus diaesterioù gant adsevel ho prenestroù hag ivinelloù. Da gustum, an dra-se a c'hoarvezh abalamour d'ur bajenn digoret a-nevez zo.">
+<!ENTITY restorepage.problemDesc    "&brandShortName; en deus diaesterioù gant adsevel ho prenestroù hag ivinelloù. Da gustum, an dra-se a c'hoarvez abalamour d'ur bajenn digoret a-nevez zo.">
 <!ENTITY restorepage.tryThis        "Gallout a rit esaeañ:">
 <!ENTITY restorepage.restoreSome    "Dilemel un pe meur a ivinell e soñjit bezañ kaoz d'ar gudenn">
 <!ENTITY restorepage.startNew       "Kregiñ un estez nevez a-grenn">
