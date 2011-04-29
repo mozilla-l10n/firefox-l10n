@@ -6,7 +6,6 @@
 <!ENTITY editBookmarkOverlay.feedLocation.accesskey          "x">
 <!ENTITY editBookmarkOverlay.siteLocation.label              "Adresse du site :">
 <!ENTITY editBookmarkOverlay.siteLocation.accesskey          "d">
-<!ENTITY editBookmarkOverlay.liveTitlesSeparator.label       "Titres dynamiques">
 <!ENTITY editBookmarkOverlay.folder.label                    "Dossier :">
 <!ENTITY editBookmarkOverlay.foldersExpanderDown.tooltip     "Afficher tous les dossiers de marque-pages">
 <!ENTITY editBookmarkOverlay.expanderUp.tooltip              "Masquer">
