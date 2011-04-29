@@ -76,8 +76,6 @@
 
 <!ENTITY cmd.reloadLivebookmark.label      "Uppdatera aktivt bokmärke">
 <!ENTITY cmd.reloadLivebookmark.accesskey  "U">
-<!ENTITY cmd.reloadMicrosummary.label      "Uppdatera aktiv titel">
-<!ENTITY cmd.reloadMicrosummary.accesskey  "U">
 
 <!ENTITY cmd.moveBookmarks.label                  "Flytta…">
 <!ENTITY cmd.moveBookmarks.accesskey              "F">
