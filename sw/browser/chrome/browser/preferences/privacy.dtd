@@ -1,0 +1,80 @@
+<!ENTITY tracking.label                 "Tracking">
+
+<!ENTITY doNotTrack.label               "Ambia toviti sitaki kutafutiliwa">
+<!ENTITY doNotTrack.accesskey           "s">
+
+<!ENTITY  history.label                 "HIstoria">
+
+<!ENTITY  locationBar.label             "Pau Mahali">
+
+<!ENTITY  locbar.pre.label              "Wakati kutumia pau mahali, shauri:">
+<!ENTITY  locbar.pre.accessKey          "k">
+<!ENTITY  locbar.post.label             "">
+<!ENTITY  locbar.both.label             "Historia na Alamisho">
+<!ENTITY  locbar.history.label          "Historia">
+<!ENTITY  locbar.bookmarks.label        "Alamisho">
+<!ENTITY  locbar.nothing.label          "Hakuna">
+
+
+<!ENTITY  acceptCookies.label           "Kubali vidakuzi kutoka kwa tovuti">
+<!ENTITY  acceptCookies.accesskey       "K">
+
+<!ENTITY  acceptThirdParty.label        "Kubali vidukizo vya nafsi ya tatu">
+<!ENTITY  acceptThirdParty.accesskey    "b">
+
+<!ENTITY  keepUntil.label               "Weka mpaka:">
+<!ENTITY  keepUntil.accesskey           "W">
+
+<!ENTITY  expire.label                  "Zinaisha">
+<!ENTITY  close.label                   "Ninafunga &brandShortName;">
+<!ENTITY  askEachTime.label             "niulize kila wakati">
+
+<!ENTITY  cookieExceptions.label        "Mambo ya pekee...">
+<!ENTITY  cookieExceptions.accesskey    "M">
+
+<!ENTITY  showCookies.label             "Onyesha Vidakuzi...">
+<!ENTITY  showCookies.accesskey         "O">
+
+<!ENTITY  historyHeader.pre.label          "&brandShortName; matakwa">
+<!ENTITY  historyHeader.pre.accesskey      "m">
+<!ENTITY  historyHeader.remember.label     "Kumbuka historia">
+<!ENTITY  historyHeader.dontremember.label "Kamwe usikumbuke historia">
+<!ENTITY  historyHeader.custom.label       "Tumia mipangilio maalum kwa historia">
+<!ENTITY  historyHeader.post.label         "">
+
+<!ENTITY  rememberDescription.label      "&brandShortName;itakumbuka kuvinjari kwako, kupakua, historia ya fomu na tafutiza, na kuweka vidukizo kutoka kwenye Tovuti unazotembelea.">
+<!-- LOCALIZATION NOTE (rememberActions.pre.label): include a trailing space as needed -->
+<!-- LOCALIZATION NOTE (rememberActions.middle.label): include a starting and trailing space as needed -->
+<!-- LOCALIZATION NOTE (rememberActions.post.label): include a starting space as needed -->
+
+<!ENTITY  rememberActions.pre.label           "Ungetaka ku ">
+<!ENTITY  rememberActions.clearHistory.label  "ondoa historia yako iliyopo">
+<!ENTITY  rememberActions.middle.label        ", au ">
+<!ENTITY  rememberActions.removeCookies.label "ondoa vidakuzi vya kibinafsi">
+<!ENTITY  rememberActions.post.label          ".">
+
+<!ENTITY  dontrememberDescription.label  "&brandShortName; itatumia mipangilio hiyo hiyo kama kuvinjari kwa kibinafsi, na haitakumbuka historia yoyote unapovinjari Tovuti.">
+<!-- LOCALIZATION NOTE (dontrememberActions.pre.label): include a trailing space as needed -->
+<!-- LOCALIZATION NOTE (dontrememberActions.post.label): include a starting space as needed -->
+
+<!ENTITY  dontrememberActions.pre.label          "Ungetaka pia ku ">
+<!ENTITY  dontrememberActions.clearHistory.label "ondoa historia yote iliyopo">
+<!ENTITY  dontrememberActions.post.label         ".">
+
+<!ENTITY  privateBrowsingPermanent.label "Modi ya Kudumu ya Kuvinjari kwa Binafsi">
+<!ENTITY  privateBrowsingPermanent.accesskey "M">
+
+<!ENTITY  rememberHistory.label      "Kumbuka historia yangu ya kuvinjari">
+<!ENTITY  rememberHistory.accesskey  "k">
+
+<!ENTITY  rememberDownload.label         "Kumbuka pakua historia">
+<!ENTITY  rememberDownload.accesskey     "p">
+
+<!ENTITY  rememberSearchForm.label       "Kumbuka historia ya utafutaji na fomu">
+<!ENTITY  rememberSearchForm.accesskey   "f">
+
+<!ENTITY  clearOnClose.label             "Ondoa historia wakati &brandShortName; ikifunga">
+<!ENTITY  clearOnClose.accesskey         "a">
+
+<!ENTITY  clearOnCloseSettings.label     "Mipangilio...">
+<!ENTITY  clearOnCloseSettings.accesskey "p">

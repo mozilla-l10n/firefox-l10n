@@ -1,0 +1,15 @@
+<!ENTITY window.width                                   "30em">
+
+<!ENTITY languages.customize.Header                     "Lugha">
+<!ENTITY languages.customize.prefLangDescript           "Kurasa za wavuti mara nyingine hutolewa kwa lugha zaidi ya moja. Chagua lugha za kuonyesha kurasa hizi za wavuti, kwa taratibu ya upendeleo.">
+<!ENTITY languages.customize.active.label               "Lugha kwa taratibu ya upendeleo:">
+<!ENTITY languages.customize.moveUp.label               "Hamisha Juu">
+<!ENTITY languages.customize.moveUp.accesskey           "J">
+<!ENTITY languages.customize.moveDown.label             "Hamisha Chini">
+<!ENTITY languages.customize.moveDown.accesskey         "C">
+<!ENTITY languages.customize.deleteButton.label         "Ondoa">
+<!ENTITY languages.customize.deleteButton.accesskey     "O">
+<!ENTITY languages.customize.selectLanguage.label       "Chagua lugha ya kuongeza...">
+<!ENTITY languages.customize.addButton.label            "Ongeza">
+<!ENTITY languages.customize.addButton.accesskey        "O">
+

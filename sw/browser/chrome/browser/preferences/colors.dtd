@@ -1,0 +1,22 @@
+<!ENTITY  colorsDialog.title              "Rangi">
+<!ENTITY  window.width                    "38em">
+<!ENTITY  window.macWidth                 "41em">
+
+<!ENTITY  allowPagesToUse.label           "Ruhusu kurasa kuchagua rangi zao, badala ya chaguo zangu hapo juu">
+<!ENTITY  allowPagesToUse.accesskey       "R">
+
+<!ENTITY  color                           "Matini na Mandharinyuma">
+<!ENTITY  textColor.label                 "Matini:">
+<!ENTITY  textColor.accesskey             "M">
+<!ENTITY  backgroundColor.label           "Mandharinyuma:">
+<!ENTITY  backgroundColor.accesskey       "M">
+<!ENTITY  useSystemColors.label           "Tumia mfumo wa rangi">
+<!ENTITY  useSystemColors.accesskey       "m">
+
+<!ENTITY  underlineLinks.label            "Viungo vya mstari chini">
+<!ENTITY  underlineLinks.accesskey        "V">
+<!ENTITY  links                           "Rangi za Viungo">
+<!ENTITY  linkColor.label                 "Viungo Visivyotembelewa:">
+<!ENTITY  linkColor.accesskey             "V">
+<!ENTITY  visitedLinkColor.label          "Viungo Vinavyotembelewa:">
+<!ENTITY  visitedLinkColor.accesskey      "V">

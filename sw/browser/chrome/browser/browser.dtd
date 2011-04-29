@@ -1,0 +1,554 @@
+<!-- LOCALIZATION NOTE : FILE This file contains the browser main menu items -->
+<!-- LOCALIZATION NOTE : FILE Do not translate commandkeys --> 
+<!-- LOCALIZATION NOTE (mainWindow.title): DONT_TRANSLATE -->
+
+<!ENTITY mainWindow.title "&brandFullName;">
+<!-- LOCALIZATION NOTE (mainWindow.titlemodifier) : DONT_TRANSLATE -->
+<!ENTITY mainWindow.titlemodifier "&brandFullName;">
+<!-- LOCALIZATION NOTE (mainWindow.titlemodifiermenuseparator): DONT_TRANSLATE -->
+<!ENTITY mainWindow.titlemodifiermenuseparator " - ">
+<!-- LOCALIZATION NOTE (mainWindow.titlePrivateBrowsingSuffix): This will be appended to the window's title
+                                                                inside the private browsing mode -->
+<!ENTITY mainWindow.titlePrivateBrowsingSuffix "(Kuvinjari kwa Binafsi)">
+<!-- Tab context menu -->
+
+<!ENTITY  reloadTab.label                    "Pakia tena Kichupo">
+<!ENTITY  reloadTab.accesskey                "P">
+<!ENTITY  reloadAllTabs.label                "Pakia tena Vichupo Vyote">
+<!ENTITY  reloadAllTabs.accesskey            "V">
+<!ENTITY  closeOtherTabs.label               "Funga Vichupo Vingine">
+<!ENTITY  closeOtherTabs.accesskey           "V">
+<!-- LOCALIZATION NOTE (pinAppTab.label, unpinAppTab.label): "Pin" is being
+used as a metaphor for expressing the fact that these tabs are "pinned" to the
+left edge of the tabstrip. Really we just want the string to express the idea
+that this is a lightweight and reversible action that keeps your tab where you
+can reach it easily. -->
+
+<!ENTITY  pinAppTab.label                    "Bana kama Kichupo cha App">
+<!ENTITY  pinAppTab.accesskey                "B">
+<!ENTITY  unpinAppTab.label                  "Banua Kichupo">
+<!ENTITY  unpinAppTab.accesskey              "c">
+<!ENTITY  moveToGroup.label                  "Hamisha kwa Kundi">
+<!ENTITY  moveToGroup.accesskey              "H">
+<!ENTITY  moveToNewGroup.label               "Kikundi Kipya">
+<!ENTITY  moveToNewWindow.label              "Hamisha kwa Dirisha Mpya">
+<!ENTITY  moveToNewWindow.accesskey          "M">
+<!ENTITY  bookmarkAllTabs.label              "Alamisha Vichupo Vyote...">
+<!ENTITY  bookmarkAllTabs.accesskey          "V">
+<!ENTITY  undoCloseTab.label                 "fanyua Funga Kichupo">
+<!ENTITY  undoCloseTab.accesskey             "f">
+<!ENTITY  closeTab.label                     "Funga Kichupo">
+<!ENTITY  closeTab.accesskey                 "F">
+
+<!ENTITY  listAllTabs.label      "Orodhesha vichupo vyote">
+
+<!ENTITY tabCmd.label "Kichupo Kipya">
+<!ENTITY tabCmd.accesskey "K">
+<!ENTITY tabCmd.commandkey "t">
+<!ENTITY openLocationCmd.label "Fungua Mahali...">
+<!ENTITY openLocationCmd.accesskey "M">
+<!ENTITY openFileCmd.label "Fungua Faili...">
+<!ENTITY openFileCmd.accesskey "F">
+<!ENTITY openFileCmd.commandkey "o">
+<!ENTITY printSetupCmd.label "Sanidi Ukurasaa...">
+<!ENTITY printSetupCmd.accesskey "k">
+<!ENTITY printPreviewCmd.label "Kihakiki Chapa">
+<!ENTITY printPreviewCmd.accesskey "p">
+<!ENTITY printCmd.label "Chapa...">
+<!ENTITY printCmd.accesskey "C">
+<!ENTITY printCmd.commandkey "p">
+<!ENTITY import.label "Leta...">
+<!ENTITY import.accesskey "L">
+
+<!ENTITY goOfflineCmd.label "Fanya kazi Nje ya Mtandao">
+<!ENTITY goOfflineCmd.accesskey "F">
+
+<!ENTITY menubarCmd.label "Pau Menyu">
+<!ENTITY menubarCmd.accesskey "P">
+<!ENTITY navbarCmd.label "Mwamba zana wa Uabiri">
+<!ENTITY navbarCmd.accesskey "M">
+<!ENTITY personalbarCmd.label "Mwamba zana wa Alamisho">
+<!ENTITY personalbarCmd.accesskey "M">
+<!ENTITY bookmarksToolbarItem.label "Vifaa vya Mwamba zana wa Alamisho">
+<!ENTITY addonBarCmd.label "Upau wa Kifaa cha nyongeza">
+<!ENTITY addonBarCmd.accesskey "U">
+
+<!ENTITY pageSourceCmd.label "Ukurasa na Chanzo">
+<!ENTITY pageSourceCmd.accesskey "n">
+<!ENTITY pageSourceCmd.commandkey "u">
+<!ENTITY pageInfoCmd.label "Ukurasa Maelezo">
+<!ENTITY pageInfoCmd.accesskey "M">
+<!ENTITY pageInfoCmd.commandkey "i">
+<!ENTITY fullScreenCmd.label "Skrini Nzima">
+<!ENTITY fullScreenCmd.accesskey "S">
+<!ENTITY fullScreenCmd.macCommandKey "f">
+<!ENTITY showAllTabsCmd.label "Onyesha Vichupo Vyote">
+<!ENTITY showAllTabsCmd.accesskey "V">
+
+<!ENTITY fullScreenMinimize.tooltip "Punguza">
+<!ENTITY fullScreenRestore.tooltip "Rejesha">
+<!ENTITY fullScreenClose.tooltip "Funga">
+<!ENTITY fullScreenAutohide.label "Funga Mwamba zana ">
+<!ENTITY fullScreenAutohide.accesskey "F">
+<!ENTITY fullScreenExit.label "Aga Hali tumizi ya Skrini Nzima">
+<!ENTITY fullScreenExit.accesskey "H">
+
+<!ENTITY closeWindow.label "Funga Dirisha">
+<!ENTITY closeWindow.accesskey "s">
+
+<!ENTITY bookmarksMenu.label "Alamisho">
+<!ENTITY bookmarksMenu.accesskey "A">
+<!ENTITY bookmarkThisPageCmd.label "Alamisha Ukurasa Huu">
+<!ENTITY bookmarkThisPageCmd.commandkey "d">
+<!ENTITY subscribeToPageMenupopup.label "Jiunge na Ukurasa Huu">
+<!ENTITY subscribeToPageMenuitem.label "Jiunge kwa Ukurasa Huu...">
+<!ENTITY addCurPagesCmd.label "Alamisha Vichupo Vyote...">
+<!ENTITY showAllBookmarks2.label "Onyesha Alamisho Zote">
+<!ENTITY bookmarkAllCmd.label "Alamisha Vichupo Vyote...">
+<!ENTITY bookmarksToolbarChevron.tooltip "Onyesha alamisho zaidi">
+
+<!ENTITY backCmd.label                "Nyuma">
+<!ENTITY backCmd.accesskey            "N">
+<!ENTITY backButton.tooltip           "Rudi nyuma ukurasa mmoja">
+<!ENTITY forwardCmd.label             "Tuma mbele">
+<!ENTITY forwardCmd.accesskey         "T">
+<!ENTITY forwardButton.tooltip        "Nenda mbele ukurasa mmoja">
+<!ENTITY reloadCmd.label              "Pakia tena">
+<!ENTITY reloadCmd.accesskey          "P">
+<!ENTITY reloadButton.tooltip         "Pakia tena ukurasa uliopo">
+<!ENTITY stopCmd.label                "Simamisha">
+<!ENTITY stopCmd.accesskey            "S">
+<!ENTITY stopCmd.macCommandKey        ".">
+<!ENTITY stopButton.tooltip           "Simamisha kupakia ukurasa huu">
+<!ENTITY goEndCap.tooltip             "Nenda kwa anwani katika Upau wa Mahali">
+<!ENTITY printButton.label            "Chapisha">
+<!ENTITY printButton.tooltip          "Chapisha ukurasa huu">
+
+<!ENTITY backForwardItem.title        "Nyuma/Mbele">
+<!ENTITY locationItem.title           "Mahali">
+<!ENTITY searchItem.title             "Tafutiza">
+<!ENTITY throbberItem.title           "Indiketa ya Shuguli">
+<!ENTITY bookmarksItem.title          "Alamisho">
+<!-- Toolbar items --> 
+
+<!ENTITY appMenuButton.label          "Menyu">
+<!ENTITY appMenuButton.tooltip        "Fungua menyu ya &brandShortName;">
+<!ENTITY homeButton.label             "Maskani">
+
+<!ENTITY tabGroupsButton.label        "Vikundi vya Vichupo">
+<!ENTITY tabGroupsButton.tooltip      "Kundisha vichupo vyako">
+
+<!ENTITY feedButton.label             "Andikisha">
+<!ENTITY feedButton.tooltip           "Jiunge na ukurasa huu...">
+
+<!ENTITY bookmarksButton.label          "Alamisho">
+<!ENTITY bookmarksButton.tooltip        "Onyesha alamisho zako">
+<!ENTITY bookmarksButton.accesskey  "A">
+<!ENTITY bookmarksCmd.commandkey "b">
+
+<!ENTITY bookmarksMenuButton.label          "Alamisho">
+<!ENTITY bookmarksMenuButton.tooltip        "Onyesha alamisho zako">
+<!ENTITY bookmarksMenuButton.unsorted.label " Alamisho Zisizopangwa">
+<!ENTITY viewBookmarksSidebar.label         "Onyesha Mwambaa Upande">
+<!ENTITY viewBookmarksToolbar.label         "Tazama Mwambaa zana  wa Alamisho">
+<!-- LOCALIZATION NOTE (bookmarksSidebarGtkCmd.commandkey): This command
+  -  key should not contain the letters A-F, since these are reserved
+  -  shortcut keys on Linux. -->
+
+<!ENTITY bookmarksGtkCmd.commandkey "o">
+<!ENTITY bookmarksWinCmd.commandkey "i">
+
+<!ENTITY historyButton.label            "Historia">
+<!ENTITY historyButton.tooltip          "Onyesha kurasa ulizoangalia hivi karibuni">
+<!ENTITY historySidebarCmd.accesskey    "s">
+<!ENTITY historySidebarCmd.commandKey   "h">
+
+<!ENTITY toolsMenu.label              "Zana">
+<!ENTITY toolsMenu.accesskey          "Z"> 
+
+<!ENTITY keywordfield.label           "Ongeza Neno Msingi la Tafutizo hili...">
+<!ENTITY keywordfield.accesskey       "N">
+<!ENTITY search.label                 "Wavuti Tafutizo">
+<!ENTITY search.accesskey             "T">
+<!ENTITY downloads.label              "Upakuzi">
+<!ENTITY downloads.tooltip            "Onyesha maendeleo ya upakuzi unanoendelea">
+<!ENTITY downloads.accesskey          "U">
+<!ENTITY downloads.commandkey         "j">
+<!ENTITY downloadsUnix.commandkey     "y">
+<!ENTITY addons.label                 "Vifaa vya nyongeza">
+<!ENTITY addons.accesskey             "V">
+<!ENTITY addons.commandkey            "A">
+
+<!ENTITY errorConsoleCmd.label        "Kosa Konsoli">
+<!ENTITY errorConsoleCmd.accesskey    "K">
+<!ENTITY errorConsoleCmd.commandkey   "j">
+
+<!ENTITY webConsoleCmd.label          "Konsoli ya Wavuti">
+<!ENTITY webConsoleCmd.accesskey      "K">
+<!ENTITY webConsoleCmd.commandkey     "k">
+
+<!ENTITY inspectMenu.label            "Kagua">
+<!ENTITY inspectMenu.accesskey        "a">
+<!ENTITY inspectMenu.commandkey       "l">
+
+<!ENTITY inspectPanelTitle.label      "HTML">
+<!ENTITY inspectButton.label          "Kagua">
+<!ENTITY inspectButton.accesskey      "K">
+<!ENTITY inspectNextButton.label      "Inayofuata">
+<!ENTITY inspectNextButton.accesskey  "I">
+<!ENTITY inspectPreviousButton.label  "Iliyopita">
+<!ENTITY inspectPreviousButton.accesskey "I">
+<!ENTITY inspectStyleButton.label     "Mtindo">
+<!ENTITY inspectStyleButton.accesskey "M">
+<!ENTITY inspectStylePanelTitle.label  "Mtindo">
+<!-- LOCALIZATION NOTE (inspectObjectButton.label): This button label
+  -  appears on the Inspector's toolbar. It is used to open and close the Object
+  -  panel. There is also a label in inspector.properties for the panel
+  -  titlebar: object.objectPanelTitle. -->
+<!ENTITY inspectObjectButton.label       "Kipengee">
+<!ENTITY inspectObjectButton.accesskey   "K">
+
+<!ENTITY fileMenu.label         "Faili"> 
+<!ENTITY fileMenu.accesskey       "F">
+<!ENTITY newNavigatorCmd.label        "Dirisha Mpya">
+<!ENTITY newNavigatorCmd.key        "N">
+<!ENTITY newNavigatorCmd.accesskey      "D">
+
+<!ENTITY editMenu.label         "Hariri"> 
+<!ENTITY editMenu.accesskey       "H"> 
+<!ENTITY undoCmd.label            "Tendua">  
+<!ENTITY undoCmd.key            "Z">  
+<!ENTITY undoCmd.accesskey          "T"> 
+<!ENTITY redoCmd.label            "Rudia">  
+<!ENTITY redoCmd.key            "Y">  
+<!ENTITY redoCmd.accesskey          "R"> 
+<!ENTITY cutCmd.label           "Kata">  
+<!ENTITY cutCmd.key             "X">  
+<!ENTITY cutCmd.accesskey         "t"> 
+<!ENTITY copyCmd.label            "Nakili">  
+<!ENTITY copyCmd.key            "C">  
+<!ENTITY copyCmd.accesskey          "N"> 
+<!ENTITY pasteCmd.label           "Bandika">  
+<!ENTITY pasteCmd.key           "V">  
+<!ENTITY pasteCmd.accesskey         "B"> 
+<!ENTITY deleteCmd.label          "Futa">  
+<!ENTITY deleteCmd.key            "D">  
+<!ENTITY deleteCmd.accesskey        "F"> 
+<!ENTITY selectAllCmd.label         "Chagua Zote">  
+<!ENTITY selectAllCmd.key         "A">  
+<!ENTITY selectAllCmd.accesskey       "Z"> 
+<!ENTITY preferencesCmd2.label       "Chaguo">
+<!ENTITY preferencesCmd2.accesskey     "C">
+<!ENTITY preferencesCmdUnix.label       "Mapendeleo">
+<!ENTITY preferencesCmdUnix.accesskey     "l"> 
+
+<!ENTITY clearRecentHistory.label               "Futa Historia ya Hivi karibuni...">
+<!ENTITY clearRecentHistory.accesskey           "H">
+<!-- LOCALIZATION NOTE : These two strings can share an access key beause they never appear together on the menu -->
+
+<!ENTITY privateBrowsingCmd.start.label         "Anza Kuvinjari Kibinafsi">
+<!ENTITY privateBrowsingCmd.start.accesskey     "K">
+<!ENTITY privateBrowsingCmd.stop.label          "Simamisha Kuvinjari Kibinafsi">
+<!ENTITY privateBrowsingCmd.stop.accesskey      "K">
+<!ENTITY privateBrowsingCmd.commandkey          "P">
+
+<!ENTITY viewMenu.label         "Onyesha"> 
+<!ENTITY viewMenu.accesskey       "O"> 
+<!ENTITY viewTabGroups.label            "Kichupo Vikundi">
+<!ENTITY viewTabGroups.accesskey        "V">
+<!ENTITY viewToolbarsMenu.label       "Mwambaa zana"> 
+<!ENTITY viewToolbarsMenu.accesskey     "M"> 
+<!ENTITY viewSidebarMenu.label "Mwambaa upande">
+<!ENTITY viewSidebarMenu.accesskey "u">
+<!ENTITY viewCustomizeToolbar.label       "Geuza kukufaa..."> 
+<!ENTITY viewCustomizeToolbar.accesskey     "G">
+<!ENTITY viewTabsOnTop.label            "Vichupo vilivyo Juu">
+<!ENTITY viewTabsOnTop.accesskey        "V">
+
+<!ENTITY historyMenu.label "Historia">
+<!ENTITY historyMenu.accesskey "s">
+<!ENTITY historyUndoMenu.label "Vichupo Vilivyofungwa Hivi Karibuni">
+<!-- LOCALIZATION NOTE (historyUndoWindowMenu): see bug 394759 -->
+<!ENTITY historyUndoWindowMenu.label "Dirisha Zilizofungwa Hivi Karibuni">
+<!ENTITY historyRestoreLastSession.label "Rejesha Kikao Kilichopita">
+
+<!ENTITY historyHomeCmd.label "Maskani">
+<!ENTITY showAllHistoryCmd2.label "Onyesha Historia Yote">
+<!ENTITY showAllHistoryCmd.commandkey "H">
+
+<!ENTITY appMenuEdit.label "Hariri">
+<!ENTITY appMenuCustomize.label "Geuza kukufaa">
+<!ENTITY appMenuToolbarLayout.label "Mpangilio wa Mwambaa Zana...">
+<!ENTITY appMenuSidebars.label "Mwambaa Upande">
+<!ENTITY appMenuFind.label "Tafuta...">
+<!ENTITY appMenuUnsorted.label "Alamisho Zisizopangwa">
+<!ENTITY appMenuWebDeveloper.label "Mwendelezaji Wavuti">
+<!ENTITY appMenuGettingStarted.label "Kuanza">
+<!ENTITY appMenuSafeMode.label "Anza tena na Vifaa vya nyongeza Vikilemazwa...">
+<!ENTITY appMenuSafeMode.accesskey "A">
+
+<!ENTITY openCmd.commandkey           "l">
+<!ENTITY urlbar.placeholder           "Nenda kwa Tovuti">
+<!ENTITY urlbar.accesskey             "d">
+<!ENTITY urlbar.switchToTab.label     "Badili kwa kichupo:">
+<!-- 
+  Comment duplicated from browser-sets.inc:
+
+  Search Command Key Logic works like this:
+
+  Unix: Ctrl+J (0.8, 0.9 support)
+        Ctrl+K (cross platform binding)
+  Mac:  Cmd+K (cross platform binding)
+        Cmd+Opt+F (platform convention)
+  Win:  Ctrl+K (cross platform binding)
+
+  We support Ctrl+K on all platforms now and advertise it in the menu since it is
+  our standard - it is a "safe" choice since it is near no harmful keys like "W" as
+  "E" is. People mourning the loss of Ctrl+K for emacs compat can switch their GTK
+  system setting to use emacs emulation, and we should respect it. Focus-Search-Box
+  is a fundamental keybinding and we are maintaining a XP binding so that it is easy
+  for people to switch to Linux.
+
+ -->
+
+<!ENTITY searchFocus.commandkey       "k">
+<!ENTITY searchFocusUnix.commandkey   "i">
+
+<!ENTITY tabView.commandkey           "e">
+
+<!ENTITY openLinkCmdInTab.label       "Fungua Kiungo kwa Kichupo Kipya">
+<!ENTITY openLinkCmdInTab.accesskey   "K">
+<!ENTITY openLinkCmd.label            "Fungua Kiungo kwa Dirisha Mpya">
+<!ENTITY openLinkCmd.accesskey        "M">
+<!ENTITY openLinkCmdInCurrent.label     "Fungua Kiungo">
+<!ENTITY openLinkCmdInCurrent.accesskey "F">
+<!ENTITY openFrameCmdInTab.label      "Fungua Fremu kwa Kichupo Kipya">
+<!ENTITY openFrameCmdInTab.accesskey  "K">
+<!ENTITY openFrameCmd.label           "Fungua Fremu kwa Dirisha Mpya">
+<!ENTITY openFrameCmd.accesskey       "M">
+<!ENTITY showOnlyThisFrameCmd.label     "Onyesha Fremu Hii Pekee">
+<!ENTITY showOnlyThisFrameCmd.accesskey "O">
+<!ENTITY reloadCmd.commandkey         "r">
+<!ENTITY reloadFrameCmd.label         "Pakia tena Fremu">
+<!ENTITY reloadFrameCmd.accesskey     "P">
+<!ENTITY viewPartialSourceForSelectionCmd.label "Angalia Chanzo cha Uteuzi">
+<!ENTITY viewPartialSourceForMathMLCmd.label    "Angalia Chanzo cha MathML">
+<!-- LOCALIZATION NOTE (viewPartialSourceCmd.accesskey): This accesskey is used for both 
+         viewPartialSourceForSelectionCmd.label and viewPartialSourceForMathMLCmd.label -->
+<!ENTITY viewPartialSourceCmd.accesskey "e">
+<!ENTITY viewPageSourceCmd.label      "Angalia Chanzo cha Ukurasa">
+<!ENTITY viewPageSourceCmd.accesskey  "A">
+<!ENTITY viewFrameSourceCmd.label     "Angalia Chanzo cha Fremu">
+<!ENTITY viewFrameSourceCmd.accesskey "A">
+<!ENTITY viewPageInfoCmd.label        "Angalia Maelezo ya Ukurasa">
+<!ENTITY viewPageInfoCmd.accesskey    "U">
+<!ENTITY viewFrameInfoCmd.label       "Analia Maelezo ya Fremu">
+<!ENTITY viewFrameInfoCmd.accesskey   "F">
+<!ENTITY reloadImageCmd.label         "Pakia tena Picha">
+<!ENTITY reloadImageCmd.accesskey     "P">
+<!ENTITY viewImageCmd.label           "Angalia Picha">
+<!ENTITY viewImageCmd.accesskey       "P">
+<!ENTITY viewImageInfoCmd.label       "Angalia maelezo ya Picha">
+<!ENTITY viewImageInfoCmd.accesskey   "c">
+<!ENTITY viewVideoCmd.label           "Angalia Video">
+<!ENTITY viewVideoCmd.accesskey       "n">
+<!ENTITY viewBGImageCmd.label         "Angalia Picha ya Mandharinyuma">
+<!ENTITY viewBGImageCmd.accesskey     "l">
+<!ENTITY setDesktopBackgroundCmd.label      "Seti Kama Mandharinyuma ya Eneo kazi...">
+<!ENTITY setDesktopBackgroundCmd.accesskey  "S">
+<!ENTITY bookmarkPageCmd2.label       "Alamisha Ukurasa Huu">
+<!ENTITY bookmarkPageCmd2.accesskey   "m">
+<!ENTITY bookmarkThisLinkCmd.label      "Alamisha Kiungo Hiki">
+<!ENTITY bookmarkThisLinkCmd.accesskey  "H">
+<!ENTITY bookmarkThisFrameCmd.label      "Alamisha Fremu Hii">
+<!ENTITY bookmarkThisFrameCmd.accesskey  "i">
+<!ENTITY sendPageCmd.label            "Tuma Kiungo...">
+<!ENTITY sendPageCmd.accesskey        "m">
+<!ENTITY savePageCmd.label            "Hifadhi Ukurasa Kama...">
+<!ENTITY savePageCmd.accesskey        "K">
+<!-- alternate for content area context menu -->
+<!ENTITY savePageCmd.accesskey2       "P">
+<!ENTITY savePageCmd.commandkey       "s">
+<!ENTITY saveFrameCmd.label           "Hifadhi Fremu Kama...">
+<!ENTITY saveFrameCmd.accesskey       "F">
+<!ENTITY printFrameCmd.label          "Chapisha Fremu...">
+<!ENTITY printFrameCmd.accesskey      "C">
+<!ENTITY saveLinkCmd.label            "Hifadhi Kiungo Kama...">
+<!ENTITY saveLinkCmd.accesskey        "n">
+<!ENTITY sendLinkCmd.label            "Tuma Kiungo..."> 
+<!ENTITY sendLinkCmd.accesskey        "m">
+<!ENTITY saveImageCmd.label           "Hifadhi Picha Kama...">
+<!ENTITY saveImageCmd.accesskey       "d">
+<!ENTITY saveVideoCmd.label           "Hifadhi Video Kama...">
+<!ENTITY saveVideoCmd.accesskey       "V">
+<!ENTITY saveAudioCmd.label           "Hifadhi Sikizi Kama...">
+<!ENTITY saveAudioCmd.accesskey       "d">
+<!ENTITY sendImageCmd.label           "Tuma Picha...">
+<!ENTITY sendImageCmd.accesskey       "m">
+<!ENTITY sendVideoCmd.label           "Tuma Video...">
+<!ENTITY sendVideoCmd.accesskey       "m">
+<!ENTITY sendAudioCmd.label           "Tuma Sikizi...">
+<!ENTITY sendAudioCmd.accesskey       "m">
+<!ENTITY copyLinkCmd.label            "Nakili Mahali pa Kiungo">
+<!ENTITY copyLinkCmd.accesskey        "u">
+<!ENTITY copyImageCmd.label           "Nakili Mahali pa Picha">
+<!ENTITY copyImageCmd.accesskey       "k">
+<!ENTITY copyImageContentsCmd.label   "Nakili Picha">
+<!ENTITY copyImageContentsCmd.accesskey  "l"> 
+<!ENTITY copyVideoURLCmd.label        "Nakili Mahali pa Video">
+<!ENTITY copyVideoURLCmd.accesskey    "k">
+<!ENTITY copyAudioURLCmd.label        "Nakili Mahali pa Sikizi">
+<!ENTITY copyAudioURLCmd.accesskey    "k">
+<!ENTITY copyEmailCmd.label           "Nakili Anwani ya Baruapepe">
+<!ENTITY copyEmailCmd.accesskey       "A">
+<!ENTITY thisFrameMenu.label              "Fremu Hii">
+<!ENTITY thisFrameMenu.accesskey          "m">
+<!-- Media (video/audio) controls -->
+
+<!ENTITY mediaPlay.label             "Chezesha">
+<!ENTITY mediaPlay.accesskey         "C">
+<!ENTITY mediaPause.label            "Sitisha">
+<!ENTITY mediaPause.accesskey        "S">
+<!ENTITY mediaMute.label             "Nyamazisha">
+<!ENTITY mediaMute.accesskey         "N">
+<!ENTITY mediaUnmute.label           "Nyamazishua">
+<!ENTITY mediaUnmute.accesskey       "z">
+<!ENTITY mediaShowControls.label     "Onyesha Vithibiti">
+<!ENTITY mediaShowControls.accesskey "V">
+<!ENTITY mediaHideControls.label     "Ficha Vithibiti">
+<!ENTITY mediaHideControls.accesskey "V">
+<!ENTITY videoFullScreen.label       "Skrini Nzima">
+<!ENTITY videoFullScreen.accesskey   "S">
+<!-- LOCALIZATION NOTE :
+fullZoomEnlargeCmd.commandkey3, fullZoomReduceCmd.commandkey2 and
+fullZoomResetCmd.commandkey2 are alternative acceleration keys for zoom.
+If shift key is needed with your locale popular keyboard for them,
+you can use these alternative items. Otherwise, their values should be empty.  -->
+
+
+
+<!ENTITY fullZoomEnlargeCmd.label       "Kuza Zaidi">
+<!ENTITY fullZoomEnlargeCmd.accesskey   "Z">
+<!ENTITY fullZoomEnlargeCmd.commandkey  "+">
+<!-- + is above this key on many keyboards -->
+<!ENTITY fullZoomEnlargeCmd.commandkey2 "="> 
+<!ENTITY fullZoomEnlargeCmd.commandkey3 "">
+
+<!ENTITY fullZoomReduceCmd.label        "Fifiza">
+<!ENTITY fullZoomReduceCmd.accesskey    "z">
+<!ENTITY fullZoomReduceCmd.commandkey   "-">
+<!ENTITY fullZoomReduceCmd.commandkey2  "">
+
+<!ENTITY fullZoomResetCmd.label         "Weka upya">
+<!ENTITY fullZoomResetCmd.accesskey     "W">
+<!ENTITY fullZoomResetCmd.commandkey    "0">
+<!ENTITY fullZoomResetCmd.commandkey2   "">
+
+<!ENTITY fullZoomToggleCmd.label        "Kuza Matini Pekee">
+<!ENTITY fullZoomToggleCmd.accesskey    "M">
+<!ENTITY fullZoom.label                 "Kuza">
+<!ENTITY fullZoom.accesskey             "K">
+
+<!ENTITY newTabButton.tooltip           "Fungua kichupo kipya">
+<!ENTITY newWindowButton.tooltip        "Fungua dirisha mpya">
+<!ENTITY sidebarCloseButton.tooltip     "Funga mwambaa upande">
+
+<!ENTITY cutButton.tooltip              "Kata">
+<!ENTITY copyButton.tooltip             "Nakili">
+<!ENTITY pasteButton.tooltip            "Bandika">
+
+<!ENTITY fullScreenButton.tooltip       "Onyesha dirisha katika skrini nzima">
+
+<!ENTITY zoomOutButton.tooltip          "Fifiza">
+<!ENTITY zoomInButton.tooltip           "Kuza zaidi">
+<!ENTITY zoomControls.label             "Vithibiti vya Kukuza">
+
+<!ENTITY quitApplicationCmdWin.label       "Aga"> 
+<!ENTITY quitApplicationCmdWin.accesskey   "g">
+<!ENTITY goBackCmd.commandKey "[">
+<!ENTITY goForwardCmd.commandKey "]">
+<!ENTITY quitApplicationCmd.label       "Ondoka"> 
+<!ENTITY quitApplicationCmd.accesskey   "O">
+<!ENTITY quitApplicationCmdMac.label    "Ondoka &brandShortName;">
+<!ENTITY quitApplicationCmdMac.key      "Q">
+
+<!ENTITY closeCmd.label                 "Funga">  
+<!ENTITY closeCmd.key                   "W">  
+<!ENTITY closeCmd.accesskey             "F">
+
+<!ENTITY pageStyleMenu.label "Ukurasa Mtindo">
+<!ENTITY pageStyleMenu.accesskey "n">
+<!ENTITY pageStyleNoStyle.label "Hakuna  Mtindo">
+<!ENTITY pageStyleNoStyle.accesskey "H">
+<!ENTITY pageStylePersistentOnly.label "Mtindo wa Kimsingi wa Ukurasa">
+<!ENTITY pageStylePersistentOnly.accesskey "M">
+
+<!ENTITY pageReportIcon.tooltip            "Badilisha mipangilio ya kuzuia uibukizi kwenye wavuti hii">
+
+<!ENTITY allowPopups.accesskey "p">
+<!-- On Windows we use the term "Options" to describe settings, but
+     on Linux and Mac OS X we use "Preferences" - carry that distinction
+     over into this string, which is used in the "popup blocked" info bar . -->
+<!ENTITY editPopupSettingsUnix.label "Hariri Mapendeleo ya Uzuizi wa Uibukizi...">
+<!ENTITY editPopupSettings.label "Hariri Chaguo za Uzuizi wa Uibukizi...">
+<!ENTITY editPopupSettings.accesskey "H">
+<!ENTITY dontShowMessage.accesskey "D">
+
+<!ENTITY bidiSwitchPageDirectionItem.label        "Badilisha Upande wa Ukurasa">
+<!ENTITY bidiSwitchPageDirectionItem.accesskey    "U">
+<!ENTITY bidiSwitchTextDirectionItem.label        "Badilisha Upande wa Matini">
+<!ENTITY bidiSwitchTextDirectionItem.accesskey    "d">
+<!ENTITY bidiSwitchTextDirectionItem.commandkey   "X">
+
+<!ENTITY findOnCmd.label     "Tafuta katika Ukurasa Huu...">
+<!ENTITY findOnCmd.accesskey "T">
+<!ENTITY findOnCmd.commandkey "f">
+<!ENTITY findAgainCmd.label  "Tafuta Tena">
+<!ENTITY findAgainCmd.accesskey "n">
+<!ENTITY findAgainCmd.commandkey "g">
+<!ENTITY findAgainCmd.commandkey2 "VK_F3">
+
+<!ENTITY spellAddDictionaries.label "Ongeza Mipangilio Orodha...">
+<!ENTITY spellAddDictionaries.accesskey "O">
+
+<!ENTITY editBookmark.done.label                     "Imekamilika">
+<!ENTITY editBookmark.cancel.label                   "Katiza">
+<!ENTITY editBookmark.removeBookmark.accessKey       "R">
+
+<!ENTITY identity.unverifiedsite2 "Wavuti hii haiwezi kutoa maelezo ya utambulisho.">
+<!ENTITY identity.connectedTo "Umeunganishwa kwa">
+<!-- Localization note (identity.runBy) : This string appears between a
+domain name (above) and an organization name (below). E.g.
+
+example.com
+which is run by
+Example Enterprises, Inc.
+
+The layout of the identity dialog prevents combining this into a single string with
+substitution variables.  If it is difficult to translate the sense of the string
+with that structure, consider a translation which ignores the preceding domain and
+just addresses the organization to follow, e.g. "This site is run by " -->
+<!ENTITY identity.runBy "ambayo inaendeshwa na">
+
+<!ENTITY identity.moreInfoLinkText "Maelezo Zaidi...">
+
+<!ENTITY downloadMonitor2.tooltip "Bofya kufungua dirisha ya kupakia">
+
+<!ENTITY allTabs.filter.emptyText "Tafutiza Vichupo">
+<!-- Name for the tabs toolbar as spoken by screen readers.
+     The word "toolbar" is appended automatically and should not be contained below! -->
+<!ENTITY tabsToolbar.label "Kivinjari vichupo">
+<!-- LOCALIZATION NOTE (syncTabsMenu.label): This appears in the history menu -->
+
+<!ENTITY syncTabsMenu.label     "Vichupo Kutoka kwa Kompyuta Zingine">
+
+<!ENTITY syncBrand.shortName.label    "Ulandanishi">
+
+<!ENTITY syncSetup.label              "Sanidi &syncBrand.shortName.label;...">
+<!ENTITY syncSetup.accesskey          "Y">
+<!ENTITY syncSyncNowItem.label        "Landanisha Sasa">
+<!ENTITY syncSyncNowItem.accesskey    "L">
+<!ENTITY syncToolbarButton.label      "Landanisha">
+
+<!ENTITY addonBarCloseButton.tooltip  "Funga Upau wa Vifaa vya nyongeza">
+<!ENTITY toggleAddonBarCmd.key        "/">

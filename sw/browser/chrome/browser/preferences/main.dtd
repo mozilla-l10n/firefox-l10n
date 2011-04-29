@@ -1,0 +1,37 @@
+<!ENTITY startup.label             "Uwashaji">
+
+<!ENTITY startupPage.label         "Lini &brandShortName; huanza:">
+<!ENTITY startupPage.accesskey     "h">
+<!ENTITY startupHomePage.label     "Onyesha ukurasa wangu wa nyumbani">
+<!ENTITY startupBlankPage.label    "Onyesha ukurasa wazi">
+<!ENTITY startupLastSession.label  "Onyesha dirisha yangu na vichupo kutoka wakari uliopita">
+<!ENTITY homepage.label            "Ukurasa Nyumbani:">
+<!ENTITY homepage.accesskey        "N">
+<!ENTITY useCurrentPage.label      "Tumia Ukurasa wa Sasa">
+<!ENTITY useCurrentPage.accesskey  "U">
+<!ENTITY useMultiple.label         "Tumia Kurasa za Sasa">
+<!ENTITY useBookmark.label         "Tumia Alamisho">
+<!ENTITY useBookmark.accesskey     "A">
+<!ENTITY restoreDefault.label      "Rudisha kwa Chaguo Msingi">
+<!ENTITY restoreDefault.accesskey  "R">
+
+<!ENTITY downloads.label     "Hupakia">
+
+<!ENTITY showWhenDownloading.label     "Onyesha Dirisha ya kupakia wakati wa kupakia faili">
+<!ENTITY showWhenDownloading.accesskey "D">
+<!ENTITY closeWhenDone.label "Ifunge wakati kupakia kote kumemalizika">
+<!ENTITY closeWhenDone.accesskey "w">
+<!ENTITY saveTo.label "Hifadhi faili kwa">
+<!ENTITY saveTo.accesskey "f">
+<!ENTITY chooseFolderWin.label        "Vinjari...">
+<!ENTITY chooseFolderWin.accesskey    "n">
+<!ENTITY chooseFolderMac.label        "Chagua...">
+<!ENTITY chooseFolderMac.accesskey    "a">
+<!ENTITY alwaysAsk.label "Kila mara niulize mahali pa kuhifadhi faili">
+<!ENTITY alwaysAsk.accesskey "K">
+
+<!ENTITY addonsMgr.label               "Vifaa vya nyongeza">
+<!ENTITY manageAddonsDescWin.label     "Badilisha chaguo kwa vifaa vyako vya nyongeza">
+<!ENTITY manageAddonsDescUnix2.label   "Badilisha upendeleo wa vifaa vyako vya nyongeza">
+<!ENTITY manageAddons.label            "Simamia Vifaa vya nyongeza...">
+<!ENTITY manageAddons.accesskey        "S">

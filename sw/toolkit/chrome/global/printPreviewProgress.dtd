@@ -1,0 +1,5 @@
+<!--LOCALIZATION NOTE printPreviewProgress.dtd Main UI for Print Preview Progress Dialog -->
+<!ENTITY printWindow.title "Kihakiki Uchapishaji"> 
+<!ENTITY title   "Kichwa:"> 
+<!ENTITY preparing "Kutayarisha...">
+<!ENTITY progress "Maendeleo:">

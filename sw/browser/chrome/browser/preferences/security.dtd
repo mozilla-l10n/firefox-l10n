@@ -1,0 +1,34 @@
+<!ENTITY  warnAddonInstall.label        "Nionye wakati tovuti zinajaribu kusakinisha vifaa vya nyongeza">
+<!ENTITY  warnAddonInstall.accesskey    "N">
+<!-- LOCALIZATION NOTE (blockWebForgeries.label, blockAttackSites.label):
+  The methods by which forged (phished) and attack sites will be detected by
+  phishing providers will vary from human review to machine-based heuristics to a
+  combination of both, so it's important that these strings and
+  useDownloadedList.label convey the meaning "reported" (and not something like
+  "known").
+-->
+
+<!ENTITY  blockAttackSites.label     "Zuia tovuti zilizoripotiwa shambulizi">
+<!ENTITY  blockAttackSites.accesskey "a">
+
+<!ENTITY  blockWebForgeries.label     "Zuia tovuti zilizoripotiwa kuwa ghushi">
+<!ENTITY  blockWebForgeries.accesskey "Z">
+
+<!ENTITY  addonExceptions.label         "Mambo ya pekee...">
+<!ENTITY  addonExceptions.accesskey     "M">
+
+
+<!ENTITY  passwords.label               "Maneno ya siri">
+
+<!ENTITY  rememberPasswords.label       "Kumbuka maneno ya siri ya tovuti">
+<!ENTITY  rememberPasswords.accesskey   "K">
+<!ENTITY  passwordExceptions.label      "Mambo ya pekee...">
+<!ENTITY  passwordExceptions.accesskey  "m">
+
+<!ENTITY  useMasterPassword.label        "Tumia neno kuu la siri">
+<!ENTITY  useMasterPassword.accesskey    "T">
+<!ENTITY  changeMasterPassword.label     "Badilisha Jina Kuu la Siri...">
+<!ENTITY  changeMasterPassword.accesskey "J">
+
+<!ENTITY  savedPasswords.label            "Maneno ya Siri Yamehifadhiwa">
+<!ENTITY  savedPasswords.accesskey        "Y">

@@ -1,0 +1,108 @@
+<!-- Note: each tab panel must contain unique accesskeys -->
+
+<!ENTITY generalTab.label                "Kawaida">
+
+<!ENTITY accessibility.label             "Ufikikaji">
+
+<!ENTITY useCursorNavigation.label       "Kila wakati tumia ufunguo wa mishale kuabiri kwenye kurasa">
+<!ENTITY useCursorNavigation.accesskey   "u">
+<!ENTITY searchStartTyping.label         "Tafutizo la matini wakati ninaanza kupiga chapa">
+<!ENTITY searchStartTyping.accesskey     "t">
+<!ENTITY blockAutoRefresh.label          "Nionye wakati tovuti zinajaribu kuelekeza tena au kupakua ukurasa">
+<!ENTITY blockAutoRefresh.accesskey      "v">
+
+<!ENTITY browsing.label                  "Kuvinjari">
+
+<!ENTITY useAutoScroll.label             "Tumia kubingiriza kiotomatiki">
+<!ENTITY useAutoScroll.accesskey         "k">
+<!ENTITY useSmoothScrolling.label        "Tumia kubingiriza laini">
+<!ENTITY useSmoothScrolling.accesskey    "b">
+<!ENTITY allowHWAccel.label              "Tumia viharakishi maunzi wakati inapatikana">
+<!ENTITY allowHWAccel.accesskey          "v">
+<!ENTITY checkSpelling.label             "Angalia maendelezo ninapopiga chapa">
+<!ENTITY checkSpelling.accesskey         "p">
+
+<!ENTITY systemDefaults.label            "Mfumo wa Chaguo misingi">
+<!--XXX-->
+<!ENTITY alwaysCheckDefault.label        "Kila mara angalia kuona kama &brandShortName; ndiyo kivinjari chaguo msingi wakati wa kuanza">
+<!ENTITY alwaysCheckDefault.accesskey    "l">
+<!ENTITY checkNow.label                  "Angalia Sasa">
+<!ENTITY checkNow.accesskey              "S">
+<!ENTITY submitCrashes.label             "Fikisha ripoti za kukwama">
+<!ENTITY submitCrashes.accesskey         "F">
+
+<!ENTITY networkTab.label                "Mtandao">
+
+<!ENTITY connection.label                "Muunganisho">
+
+<!ENTITY connectionDesc.label            "Sanidi jinsi &brandShortName; inaunganishwa kwenye Wavuti">
+<!ENTITY connectionSettings.label        "Mipangilio...">
+<!ENTITY connectionSettings.accesskey    "i">
+
+<!ENTITY offlineStorage.label            "Uhifadhi Nje ya Mtandao">
+<!-- LOCALIZATION NOTE:
+  The entities limitCacheSizeBefore.label and limitCacheSizeAfter.label appear on a single
+  line in preferences as follows:
+
+  &limitCacheSizeBefore.label [textbox for cache size in MB] &limitCacheSizeAfter.label;
+-->
+
+<!ENTITY limitCacheSizeBefore.label      "Zuia hifadhi muda kwa">
+<!ENTITY limitCacheSizeBefore.accesskey  "Z">
+<!ENTITY limitCacheSizeAfter.label       "Nafasi ya MB">
+<!ENTITY clearCacheNow.label             "Ondoa Sasa">
+<!ENTITY clearCacheNow.accesskey         "O">
+<!ENTITY overrideSmartCacheSize.label    "Pandikiza usimamizi kiotomatiki wa hifadhi muda">
+<!ENTITY overrideSmartCacheSize.accesskey "P">
+
+<!ENTITY updateTab.label                 "Sasaisha">
+
+<!ENTITY autoCheck.label                 "Angalia visasaisho kiotomatiki kwa;">
+<!ENTITY enableAppUpdate.label           "&brandShortName;">
+<!ENTITY enableAppUpdate.accesskey       "F">
+<!ENTITY enableAddonsUpdate2.label       "Vifaa vya nyongeza">
+<!ENTITY enableAddonsUpdate2.accesskey   "o">
+<!ENTITY enableSearchUpdate.label        "Injini ya kutafutiza">
+<!ENTITY enableSearchUpdate.accesskey    "n">
+<!ENTITY whenUpdatesFound.label          "Wakati visasaisho kwa &brandShortName; zinapatikana:">
+<!ENTITY askMe.label                     "Niulize ninalotaka kufanya">
+<!ENTITY askMe.accesskey                 "l">
+<!ENTITY modeAutomatic.label             "Pakia kiotomatiki na sakinisha sasaisho">
+<!ENTITY modeAutomatic.accesskey         "k">
+<!ENTITY modeAutoAddonWarn.label         "Nionye kama hii italemaza vifaa vyovyote vya nyongeza">
+<!ENTITY modeAutoAddonWarn.accesskey     "N">
+<!ENTITY updateHistory.label             "Onyesha Historia ya Visasaisho">
+<!ENTITY updateHistory.accesskey         "s">
+
+<!ENTITY offlineNotify.label             "Niambie wakati wavuti inauliza kuhifadhi data kwa matumizi ya nje ya mtandao">
+<!ENTITY offlineNotify.accesskey         "N">
+<!ENTITY offlineNotifyExceptions.label   "Mambo ya pekee..">
+<!ENTITY offlineNotifyExceptions.accesskey "m">
+
+<!ENTITY offlineAppsList.label           "Wavuti zifuatazo zimehifadhi data ya matumizi ya nje ya mtandao:">
+<!ENTITY offlineAppsList.height          "7em">
+<!ENTITY offlineAppsListRemove.label     "Ondoa">
+<!ENTITY offlineAppsListRemove.accesskey "O">
+<!ENTITY offlineAppRemove.confirm        "Ondoa data ya nje ya mtandao">
+
+<!ENTITY encryptionTab.label             "Usimbaji fiche">
+
+<!ENTITY protocols.label                 "Itifaki">
+<!ENTITY useSSL3.label                   "Tumia SSL 3.0">
+<!ENTITY useSSL3.accesskey               "3">
+<!ENTITY useTLS1.label                   "Tumia TLS 1.0">
+<!ENTITY useTLS1.accesskey               "1">
+<!ENTITY certificates.label              "Vyeti">
+<!ENTITY certSelection.description       "Wakati seva inaomba cheti changu cha binafsi:">
+<!ENTITY certs.auto                      "Chagua moja kiotomatiki">
+<!ENTITY certs.auto.accesskey            "I">
+<!ENTITY certs.ask                       "Niulize kila wakati">
+<!ENTITY certs.ask.accesskey             "i">
+<!ENTITY viewCerts.label                 "Angalia Vyeti">
+<!ENTITY viewCerts.accesskey             "t">
+<!ENTITY viewCRLs.label                  "Orodha za Ufutaji">
+<!ENTITY viewCRLs.accesskey              "O">
+<!ENTITY verify2.label                   "Uhakikishi">
+<!ENTITY verify2.accesskey               "U">
+<!ENTITY viewSecurityDevices.label       "Vifaa vya Usalama">
+<!ENTITY viewSecurityDevices.accesskey   "a">

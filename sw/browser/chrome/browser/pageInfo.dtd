@@ -1,0 +1,128 @@
+<!--
+# ***** BEGIN LICENSE BLOCK *****
+# Version: MPL 1.1/GPL 2.0/LGPL 2.1
+#
+# The contents of this file are subject to the Mozilla Public License Version
+# 1.1 (the "License"); you may not use this file except in compliance with
+# the License. You may obtain a copy of the License at
+# http://www.mozilla.org/MPL/
+#
+# Software distributed under the License is distributed on an "AS IS" basis,
+# WITHOUT WARRANTY OF ANY KIND, either express or implied. See the License
+# for the specific language governing rights and limitations under the
+# License.
+#
+# The Original Code is Mozilla Communicator client code.
+#
+# The Initial Developer of the Original Code is Daniel Brooks.
+# Portions created by the Initial Developer are Copyright (C) 2001
+# the Initial Developer. All Rights Reserved.
+#
+# Contributor(s): Daniel Brooks <db48x@yahoo.com>
+#                 Florian QUEZE <f.qu@queze.net>
+#                 Ehsan Akhgari <ehsan.akhgari@gmail.com>
+#
+# Alternatively, the contents of this file may be used under the terms of
+# either the GNU General Public License Version 2 or later (the "GPL"), or
+# the GNU Lesser General Public License Version 2.1 or later (the "LGPL"),
+# in which case the provisions of the GPL or the LGPL are applicable instead
+# of those above. If you wish to allow use of your version of this file only
+# under the terms of either the GPL or the LGPL, and not to allow others to
+# use your version of this file under the terms of the MPL, indicate your
+# decision by deleting the provisions above and replace them with the notice
+# and other provisions required by the LGPL or the GPL. If you do not delete
+# the provisions above, a recipient may use your version of this file under
+# the terms of any one of the MPL, the GPL or the LGPL.
+#
+# ***** END LICENSE BLOCK *****
+-->
+
+<!ENTITY  pageInfoWindow.width  "600">
+<!ENTITY  pageInfoWindow.height "500">
+
+<!ENTITY  copy.key              "C">
+<!ENTITY  copy.label            "Nakili">
+<!ENTITY  copy.accesskey        "N">
+<!ENTITY  selectall.key         "A">
+<!ENTITY  selectall.label       "Chagua Zote">
+<!ENTITY  selectall.accesskey   "Z">
+<!ENTITY  closeWindow.key       "w">
+
+<!ENTITY  generalTab            "Kawaida">
+<!ENTITY  generalTab.accesskey  "G">
+<!ENTITY  generalURL            "Anwani:">
+<!ENTITY  generalType           "Aina:">
+<!ENTITY  generalMode           "Hali tumizi ya Toa:">
+<!ENTITY  generalSize           "Ukubwa:">
+<!ENTITY  generalReferrer       "Kurejelea URL:">
+<!ENTITY  generalSource         "Chanzo cha Kache:">
+<!ENTITY  generalModified       "Ilirekebishwa:">
+<!ENTITY  generalEncoding       "Usimbaji:">
+<!ENTITY  generalMetaName       "Jina">
+<!ENTITY  generalMetaContent    "Maudhui">
+<!ENTITY  generalSecurityDetails   "Maelezo">
+<!ENTITY  generalSecurityDetails.accesskey "D">
+
+<!ENTITY  mediaTab              "Midia">
+<!ENTITY  mediaTab.accesskey    "M">
+<!ENTITY  mediaLocation         "Mahali:">
+<!ENTITY  mediaText             "Matini Husiani:">
+<!ENTITY  mediaAltHeader        "Matini Badala">
+<!ENTITY  mediaAddress          "Anwani">
+<!ENTITY  mediaType             "Aina">
+<!ENTITY  mediaSize             "Ukubwa">
+<!ENTITY  mediaCount            "Hesabu">
+<!ENTITY  mediaDimension        "Vipimo:">
+<!ENTITY  mediaLongdesc         "Maelezo Marefu:">
+<!ENTITY  mediaBlockImage.accesskey "B">
+<!ENTITY  mediaSaveAs           "Hifadhi Kama...">
+<!ENTITY  mediaSaveAs.accesskey "A">
+<!ENTITY  mediaSaveAs2.accesskey "e">
+<!ENTITY  mediaPreview          "Kihakiki Midia:">
+
+<!ENTITY  feedTab               "Vilishi">
+<!ENTITY  feedTab.accesskey     "F">
+<!ENTITY  feedSubscribe         "Jiunge">
+<!ENTITY  feedSubscribe.accesskey "u">
+
+<!ENTITY  permTab               "Ruhusa">
+<!ENTITY  permTab.accesskey     "P">
+<!ENTITY  permUseDefault        "Tumia Chaguo-msingi">
+<!ENTITY  permAskAlways         "Uliza kila wakati">
+<!ENTITY  permAllow             "Ruhusu">
+<!ENTITY  permAllowSession      "Ruhusu kwa Kikao">
+<!ENTITY  permBlock             "Zuia">
+<!ENTITY  permissionsFor        "Ruhusa za:">
+<!ENTITY  permImage             "Pakia Picha">
+<!ENTITY  permPopup             "Fungua Dirisha Ibukizi">
+<!ENTITY  permCookie            "Weka Vidakuzi">
+<!ENTITY  permInstall           "Sakinisha Viendelezi au Mandhari">
+<!ENTITY  permGeo               "Mahali Gawize">
+
+<!ENTITY  permIndexedDB              "Weka Hifadhi Nje ya mtandao">
+<!ENTITY  permClearStorage           "Futa Hifadhi">
+<!ENTITY  permClearStorage.accesskey "C">
+
+<!ENTITY  securityTab           "Usalama">
+<!ENTITY  securityTab.accesskey "S">
+<!ENTITY  securityHeader        "Maelezo ya usalama ya ukurasa huu">
+<!ENTITY  securityView.certView "Angalia Cheti">
+<!ENTITY  securityView.accesskey "V">
+<!ENTITY  securityView.unknown   "Isiyotambulika">
+
+
+<!ENTITY  securityView.identity.header   "Utambulisho wa Wavuti">
+<!ENTITY  securityView.identity.owner    "Mmiliki:">
+<!ENTITY  securityView.identity.domain   "Wavuti">
+<!ENTITY  securityView.identity.verifier "Umedhibitishwa na:">
+
+<!ENTITY  securityView.privacy.header                   "Faragha &amp; Historia">
+<!ENTITY  securityView.privacy.history                  "Nimetembelea wavuti huu kabla ya leo?">
+<!ENTITY  securityView.privacy.cookies                  "Wavuti hii inahifadhi maelezo (vidakuzi) kwenye tarakilishi yangu?">
+<!ENTITY  securityView.privacy.viewCookies              "Angalia Vidakuzi">
+<!ENTITY  securityView.privacy.viewCookies.accessKey    "k">
+<!ENTITY  securityView.privacy.passwords                "Nimehifadhi nywila yoyote ya wavuti hii?">
+<!ENTITY  securityView.privacy.viewPasswords            "Angalia Nywila Zilizohifadhiwa">
+<!ENTITY  securityView.privacy.viewPasswords.accessKey  "w">
+
+<!ENTITY  securityView.technical.header                 "Maelezo ya Ufundi">

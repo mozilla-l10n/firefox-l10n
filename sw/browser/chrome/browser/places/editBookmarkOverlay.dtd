@@ -1,0 +1,25 @@
+<!ENTITY editBookmarkOverlay.name.label                      "Jina:">
+<!ENTITY editBookmarkOverlay.name.accesskey                  "J">
+<!ENTITY editBookmarkOverlay.location.label                  "Mahali:">
+<!ENTITY editBookmarkOverlay.location.accesskey              "M">
+<!ENTITY editBookmarkOverlay.feedLocation.label              "Kilishi cha Mahali:">
+<!ENTITY editBookmarkOverlay.feedLocation.accesskey          "K">
+<!ENTITY editBookmarkOverlay.siteLocation.label              "Mahali pa Tovuti">
+<!ENTITY editBookmarkOverlay.siteLocation.accesskey          "M">
+<!ENTITY editBookmarkOverlay.liveTitlesSeparator.label       "Kichwa cha Moja kwa Moja">
+<!ENTITY editBookmarkOverlay.folder.label                    "Kabrasha:">
+<!ENTITY editBookmarkOverlay.foldersExpanderDown.tooltip     "Onyesha kabrasha zote za alamisho">
+<!ENTITY editBookmarkOverlay.expanderUp.tooltip              "Ficha">
+<!ENTITY editBookmarkOverlay.tags.label                      "Lebo:">
+<!ENTITY editBookmarkOverlay.tags.accesskey                  "L">
+<!ENTITY editBookmarkOverlay.tagsEmptyDesc.label             "Tenganisha lebo kwa koma">
+<!ENTITY editBookmarkOverlay.description.label               "Maelezo:">
+<!ENTITY editBookmarkOverlay.description.accesskey           "M">
+<!ENTITY editBookmarkOverlay.keyword.label                   "Nenomsingi:">
+<!ENTITY editBookmarkOverlay.keyword.accesskey               "N">
+<!ENTITY editBookmarkOverlay.tagsExpanderDown.tooltip        "Onyesha lebo zote">
+<!ENTITY editBookmarkOverlay.loadInSidebar.label             "Pakia alamisho hili katika mwambaa upande">
+<!ENTITY editBookmarkOverlay.loadInSidebar.accesskey         "m">
+<!ENTITY editBookmarkOverlay.choose.label                    "Chagua...">
+<!ENTITY editBookmarkOverlay.newFolderButton.label           "Kabrasha Mpya">
+<!ENTITY editBookmarkOverlay.newFolderButton.accesskey       "p">

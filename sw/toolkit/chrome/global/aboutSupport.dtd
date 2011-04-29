@@ -1,0 +1,38 @@
+<!ENTITY aboutSupport.pageTitle "Maelezo ya Usuluhishaji">
+<!-- LOCALIZATION NOTE (aboutSupport.pageSubtitle): don't change the 'supportLink' id. -->
+
+<!ENTITY aboutSupport.pageSubtitle "Ukurasa huu una maelezo ya kiufundi ambayo yanaweza kutumiwa wakati unajaribu 
+kutatua tatizo. Kama unatafuta majibu kwa maswali ya kawaidia 
+kuhusu &brandShortName;, angalia kiungo chetu <a id='supportLink'>wavuti wa kuauni</a>.">
+
+<!ENTITY aboutSupport.extensionsTitle "Viendelezi">
+<!ENTITY aboutSupport.extensionName "Jina">
+<!ENTITY aboutSupport.extensionEnabled "Imewezeshwa">
+<!ENTITY aboutSupport.extensionVersion "Toleo">
+<!ENTITY aboutSupport.extensionId "Kitambulisho">
+
+<!ENTITY aboutSupport.appBasicsTitle "Misingi ya Programu">
+<!ENTITY aboutSupport.appBasicsName "Jina">
+<!ENTITY aboutSupport.appBasicsVersion "Toleo">
+<!ENTITY aboutSupport.appBasicsProfileDir "Mpangilio Orodha wa Maelezo Mafupi">
+<!ENTITY aboutSupport.appBasicsEnabledPlugins "Wezesha Programu-jalizi">
+<!ENTITY aboutSupport.appBasicsBuildConfig "Jenga Usanidi">
+<!ENTITY aboutSupport.appBasicsUserAgent "Mtumaiji Wakala">
+
+<!ENTITY aboutSupport.show.label "Fungua Kabarasha Iliyo na">
+<!-- LOCALIZATION NOTE (aboutSupport.showMac.label): This is the Mac-specific
+variant of aboutSupport.show.label.  This allows us to use the preferred
+"Finder" terminology on Mac. -->
+
+<!ENTITY aboutSupport.showMac.label "Onyesha kwa Kitafutizi">
+
+<!ENTITY aboutSupport.modifiedPrefsTitle "Mapendeleo Yaliyobadilishwa">
+<!ENTITY aboutSupport.modifiedPrefsName "Jina">
+<!ENTITY aboutSupport.modifiedPrefsValue "Thamani">
+
+<!ENTITY aboutSupport.graphicsTitle "Sanaa">
+
+<!ENTITY aboutSupport.installationHistoryTitle "Historia ya Usakinishaji">
+<!ENTITY aboutSupport.updateHistoryTitle "Historia ya Usasaisho">
+
+<!ENTITY aboutSupport.copyToClipboard.label "Nakili yote kwa ubao nakili">

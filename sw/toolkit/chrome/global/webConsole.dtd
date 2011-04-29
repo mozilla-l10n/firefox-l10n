@@ -1,0 +1,16 @@
+<!ENTITY networkPanel.requestURL                  "Ombi URL">
+<!ENTITY networkPanel.requestMethod               "Njia ya Ombi">
+<!ENTITY networkPanel.statusCode                  "Msimbo Hadhi">
+
+<!ENTITY networkPanel.requestHeaders              "Omba Vichwa">
+<!ENTITY networkPanel.requestCookie               "Imetuma Kidakuzi">
+<!ENTITY networkPanel.requestBody                 "Omba Umbo">
+<!ENTITY networkPanel.requestFormData             "Imetuma Fomu ya Data">
+
+<!ENTITY networkPanel.responseHeaders             "Mwitikio wa Vichwa">
+<!ENTITY networkPanel.responseBody                "Mwitikio wa Umbo">
+<!ENTITY networkPanel.responseBodyCached          "Data Iliyokachiwa">
+<!ENTITY networkPanel.responseBodyUnknownType     "Aina ya Maudhui Isiyojulikana">
+<!ENTITY networkPanel.responseNoBody              "Hakuna Umbo la Mwitikio">
+<!ENTITY networkPanel.responseImage               "Picha Iliyopokelewa">
+<!ENTITY networkPanel.responseImageCached         "Picha Iliyokachiwa">

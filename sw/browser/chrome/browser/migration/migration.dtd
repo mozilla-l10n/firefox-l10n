@@ -1,0 +1,51 @@
+
+<!ENTITY migrationWizard.title          "Leta Sogora">
+
+<!ENTITY importFrom.label               "Leta Chaguo, Vialamisho, Historia, Maneno ya siri na data zingine kutoka kwa:">
+<!ENTITY importFromUnix.label           "Leta Mapendeleo, Vialamisho, Historia, Maneno ya siri na data zingine kutoka kwa:">
+<!ENTITY importFromBookmarks.label      "Leta Vialamisho kutoka:">
+
+<!ENTITY importFromIE.label             "Microsoft Kichunguza Wavuti">
+<!ENTITY importFromIE.accesskey         "M">
+<!ENTITY importFromPhoenix.label        "Firefox 0.8, Firebird au Phoenix">
+<!ENTITY importFromPhoenix.accesskey    "P">
+<!ENTITY importFromNothing.label        "Usilete chochote">
+<!ENTITY importFromNothing.accesskey    "U">
+<!ENTITY importFromSeamonkey.label      "Netscape 6, 7 au Mozilla 1.x">
+<!ENTITY importFromSeamonkey.accesskey  "N">
+<!ENTITY importFromNetscape4.label      "Netscape 4.x">
+<!ENTITY importFromNetscape4.accesskey  "4">
+<!ENTITY importFromOpera.label          "Opera">
+<!ENTITY importFromOpera.accesskey      "O">
+<!ENTITY importFromCamino.label         "Camino">
+<!ENTITY importFromCamino.accesskey     "C">
+<!ENTITY importFromSafari.label         "Safari">
+<!ENTITY importFromSafari.accesskey     "S">
+<!ENTITY importFromOmniWeb.label        "OmniMtandao">
+<!ENTITY importFromOmniWeb.accesskey    "M">
+<!ENTITY importFromICab.label           "iCab">
+<!ENTITY importFromICab.accesskey       "i">
+<!ENTITY importFromKonqueror.label      "Konqueror">
+<!ENTITY importFromKonqueror.accesskey  "K">
+<!ENTITY importFromEpiphany.label       "Epiphany">
+<!ENTITY importFromEpiphany.accesskey   "E">
+<!ENTITY importFromGaleon.label         "Galeon">
+<!ENTITY importFromGaleon.accesskey     "G">
+<!ENTITY importFromHTMLFile.label       "Kutoka kwa faili ya HTML">
+<!ENTITY importFromHTMLFile.accesskey   "K">
+
+<!ENTITY noMigrationSources.label       "Hakuna programu zilizo na data ya vialamisho, historia au neno la siri ambayo ingepatikana.">
+
+<!ENTITY importSource.title             "Leta Mipangilio na Data">
+<!ENTITY importItems.title              "Vipengee vya Kuleta">
+<!ENTITY importItems.label              "Chagua ni vipengee vipi utaleta:">
+
+<!ENTITY migrating.title                "Kuleta...">
+<!ENTITY migrating.label                "Vipengee vifuatavyo kwa sasa vinaletwa...">
+
+<!ENTITY selectProfile.title            "Chagua Profaili">
+<!ENTITY selectProfile.label            "Maelezo mafupi yafuatayo yanapatikana kuletwa kutoka kwa:">
+
+<!ENTITY done.title                     "Kuleta Kumekamilika">
+<!ENTITY done.label                     "Vipengee vifuatavyo vimefanikiwa kuletwa:">
+

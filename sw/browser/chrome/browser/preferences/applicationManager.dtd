@@ -1,0 +1,4 @@
+<!ENTITY appManager.title     "Maelezo kamili ya programu tumizi">
+<!ENTITY appManager.style     "upana: 30em; urefu-mdogo: 20em;">
+<!ENTITY remove.label         "Ondoa">
+<!ENTITY remove.accesskey     "O">

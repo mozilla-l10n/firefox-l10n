@@ -1,0 +1,38 @@
+<!ENTITY minimizeWindow.key       "m">
+<!ENTITY minimizeWindow.label     "Punguza">
+<!ENTITY bringAllToFront.label    "Leta Yote Mbele">
+<!ENTITY zoomWindow.label         "Kuza">
+<!ENTITY windowMenu.label         "Dirisha">
+
+<!ENTITY helpMenu.label           "Msaada"> 
+<!ENTITY helpMenu.accesskey       "M"> 
+<!-- LOCALIZATION NOTE some localizations of Windows (ex:french, german) use "?"
+                       for the help button in the menubar but Gnome does not.   -->
+<!ENTITY helpMenuWin.label        "Msaada"> 
+<!ENTITY helpMenuWin.accesskey    "M">
+<!ENTITY aboutProduct.label       "Kuhusu &brandShortName;">
+<!ENTITY aboutProduct.accesskey   "K">
+<!ENTITY productHelp.label        "&brandShortName; Msaada">
+<!ENTITY productHelp.accesskey    "M">
+<!ENTITY helpMac.commandkey       "?">
+<!ENTITY helpSafeMode.label       "Anza tena na Vifaa vya Nyongeza Vilivyolemazwa...">
+<!ENTITY helpSafeMode.accesskey   "A">
+
+<!ENTITY helpTroubleshootingInfo.label      "Kusuluhisha Maelezo">
+<!ENTITY helpTroubleshootingInfo.accesskey  "K">
+
+<!ENTITY helpFeedbackPage.label      "Fikisha Maoni...">
+<!ENTITY helpFeedbackPage.accesskey  "F">
+
+<!ENTITY preferencesCmdMac.label        "Mapendeleo">
+<!ENTITY preferencesCmdMac.commandkey   ",">
+
+<!ENTITY servicesMenuMac.label          "Huduma">
+
+<!ENTITY hideThisAppCmdMac.label        "Ficha &brandShortName;">
+<!ENTITY hideThisAppCmdMac.commandkey   "H">
+
+<!ENTITY hideOtherAppsCmdMac.label      "Ficha Mengine">
+<!ENTITY hideOtherAppsCmdMac.commandkey "H">
+
+<!ENTITY showAllAppsCmdMac.label        "Onyesha Yote">

@@ -1,0 +1,16 @@
+<!-- LOCALIZATION NOTE : FILE This file contains the entities needed to -->
+<!-- LOCALIZATION NOTE : FILE use the Find Bar. --> 
+<!-- entities split out from browser.dtd -->
+
+<!ENTITY next.label "Inayofuata">
+<!ENTITY next.accesskey "I">
+<!ENTITY next.tooltip "Tafuta tukio linalofuata la msemo">
+<!ENTITY previous.label "Kabla">
+<!ENTITY previous.accesskey "K">
+<!ENTITY previous.tooltip "Tafuta tukio kabla ya msemo huu">
+<!ENTITY findCloseButton.tooltip "Funga Pau la Tafuta">
+<!ENTITY highlight.label "Angaza yote">
+<!ENTITY highlight.accesskey "y">
+<!ENTITY highlight.tooltiptext "Angaza matukio yote ya msemo">
+<!ENTITY caseSensitiveCheckbox.label "Patanisha kadhia">
+<!ENTITY caseSensitiveCheckbox.accesskey "n">

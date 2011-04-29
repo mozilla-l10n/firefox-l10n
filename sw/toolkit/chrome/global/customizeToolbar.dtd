@@ -1,0 +1,12 @@
+<!ENTITY dialog.title             "Geuza Mwambaa Zana Kukufaa">
+<!ENTITY dialog.style             "upana:86ch; urefu:36em;">
+<!ENTITY instructions.description "Unaweza kuongeza au kuondoa vipengee kwa kukokota kwa au kutoka kwa miambaa zana.">
+<!ENTITY show.label               "Onyesha:">
+<!ENTITY iconsAndText.label       "Ikoni na Matini">
+<!ENTITY icons.label              "Ikoni">
+<!ENTITY text.label               "Matini">
+<!ENTITY useSmallIcons.label      "Tumia Ikoni Ndogo">
+<!ENTITY restoreDefaultSet.label  "Rejesha Seti za Chaguo Msingi">
+<!ENTITY addNewToolbar.label      "Ongeza Mwambaa Zana Mpya">
+<!ENTITY saveChanges.label        "Imemaliza">
+<!ENTITY undoChanges.label        "Fanyua Mabadiliko">

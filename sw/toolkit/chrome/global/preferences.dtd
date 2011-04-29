@@ -1,0 +1,5 @@
+<!ENTITY  windowClose.key                         "W">
+<!ENTITY  preferencesDefaultTitleMac.title        "Mapendeleo">
+<!ENTITY  preferencesDefaultTitleWin.title        "Chaguo">
+<!ENTITY  preferencesCloseButton.label            "Funga">
+<!ENTITY  preferencesCloseButton.accesskey        "F">

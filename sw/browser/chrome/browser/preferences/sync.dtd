@@ -1,0 +1,40 @@
+<!-- The page shown when not logged in... -->
+<!ENTITY setupButton.label          "Sanidi &syncBrand.jinaKamili.lebo;">
+<!ENTITY setupButton.accesskey      "S">
+<!ENTITY weaveDesc.label            "&syncBrand.fullName.label; hukuruhusu kufikia historia yako, alamisho na kufungua vichupa kote kwenye vifaa vyako vyote.">
+<!-- The page shown when logged in... -->
+<!-- Login error feedback -->
+
+
+<!ENTITY updatePass.label             "Sasaisha">
+<!ENTITY resetPass.label              "Seti upya">
+<!-- Manage Account -->
+
+<!ENTITY manageAccount.label          "Simamia Akaunti">
+<!ENTITY manageAccount.accesskey      "A">
+<!ENTITY viewQuota.label              "Angalia Kwota">
+<!ENTITY changePassword.label         "Badilisha Neno la Siri">
+<!ENTITY mySyncKey.label              "Ufunguo Wangu wa Kulandanisha">
+<!ENTITY resetSync.label              "Seti Upya Ulandanishi">
+<!ENTITY addDevice.label              "Ongeza Kifaa">
+
+<!ENTITY syncMy.label               "Landanisha">
+<!ENTITY engine.bookmarks.label     "Alamisho">
+<!ENTITY engine.bookmarks.accesskey "s">
+<!ENTITY engine.tabs.label          "Vichupo">
+<!ENTITY engine.tabs.accesskey      "V">
+<!ENTITY engine.history.label       "Historia">
+<!ENTITY engine.history.accesskey   "r">
+<!ENTITY engine.passwords.label     "Maneno ya siri">
+<!ENTITY engine.passwords.accesskey "M">
+<!ENTITY engine.prefs.label         "Mapendeleo">
+<!ENTITY engine.prefs.accesskey     "e">
+<!-- Device Settings -->
+
+<!ENTITY syncComputerName.label       "Jina la Kompyuta:">
+<!ENTITY syncComputerName.accesskey   "J">
+<!ENTITY deactivateDevice.label       "Amilishua Kifaa Hiki">
+<!-- Footer stuff -->
+
+<!ENTITY prefs.tosLink.label        "Masharti ya Huduma">
+<!ENTITY prefs.ppLink.label         "Sera ya Faragha">

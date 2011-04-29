@@ -1,0 +1,155 @@
+<!ENTITY % brandDTD SYSTEM "chrome://branding/locale/brand.dtd">
+%brandDTD;
+
+<!ENTITY loadError.label "Tatizo katika kupakia ukurasa">
+<!ENTITY retry.label "Jaribu Tena">
+<!-- Specific error messages -->
+
+
+<!ENTITY connectionFailure.title "Imeshindwa kuungana">
+<!ENTITY connectionFailure.longDesc "&sharedLongDesc;">
+
+<!ENTITY deniedPortAccess.title "Anwani hii imezuiliwa">
+<!ENTITY deniedPortAccess.longDesc "">
+
+<!ENTITY dnsNotFound.title "Seva haipatikani">
+<!ENTITY dnsNotFound.longDesc "<ul>
+<li>Kagua anwani kwa makosa ya kuchapwa kama vile
+<strong>ww</strong>.example.com badala ya
+<strong>sss</strong>.example.com</li>
+<li>kama umeshindwa kupakia kurasa zozote, kagua muungano wa mtandao wa tarakilishi
+yako.</li>
+<li>Kama tarakilishi yako au mtandao umelindwa na ngome au mbadala, hakikisha 
+kuwa &brandShortName; imeruhusiwa ufikivu kwa Wavuti.</li> 
+</ul>">
+
+<!ENTITY fileNotFound.title "Faili haipatikani">
+<!ENTITY fileNotFound.longDesc "<ul> 
+<li>Kagua jina la faili utumizi wa herufi kubwa na makosa mengine ya kuchapa.</li> 
+<li>Kaguo kuona kama faili iliondolewa, imepewa jina upya au kufutwa.</li> 
+<li>">
+
+
+<!ENTITY generic.title "Oops.">
+<!ENTITY generic.longDesc "<p>&brandShortName; haiwezikupakia ukurasa huu kwa sababu fulani.</p>">
+
+<!ENTITY malformedURI.title "Anwani  hii sio sahihi">
+<!ENTITY malformedURI.longDesc "<ul> 
+<li>Anwani za tovuti kawaida huandikwa kama 
+<strong>http://.example.com/</strong></li> 
+<li>Hakikisha kuwa unatumia mikwaju mbele (k.v. 
+<strong>/</strong>).</li> 
+</ul>">
+
+<!ENTITY netInterrupt.title "Muungano ulisitishwa">
+<!ENTITY netInterrupt.longDesc "&sharedLongDesc;">
+
+<!ENTITY netOffline.title "Hali tumizi ya nje ya mtandao">
+<!-- LOCALIZATION NOTE (netOffline.overrideLongDesc) - This string should
+     indicate that "Work Offline" is a menu item without being too specific,
+     since it could be in either the normal menu (Mac/Linux) or the Firefox button
+     menu (Windows).
+-->
+<!ENTITY netOffline.overrideLongDesc "<ul> 
+<li>Alamishua &quote;Fanya kazi nje ya mtandao&quot; kipengee cha menyu, kisha jaribu tena.</li> 
+</ul>">
+
+<!ENTITY contentEncodingError.title "Kosa la Usimbaji Yaliyomo">
+<!ENTITY contentEncodingError.longDesc "<ul> 
+<li>Tafadhali wasiliana na wamiliki wa tovuti kuwajulisha kuhusu shida hii.</li> 
+</ul>">
+
+<!ENTITY unsafeContentType.title "Aina ya Faili Isiyo Salama">
+<!ENTITY unsafeContentType.longDesc "<ul> 
+<li>Tafadhali wasililiana na wamiliki wa tovuti kuwajulisha kuhusu shida hii.</li> 
+</ul>">
+
+<!ENTITY netReset.title "Muungano umewekwa upya">
+<!ENTITY netReset.longDesc "&sharedLongDesc;">
+
+<!ENTITY netTimeout.title "Wakati wa muungano umekwisha">
+<!ENTITY netTimeout.longDesc "&sharedLongDesc;">
+
+<!ENTITY protocolNotFound.title "Anwani haikueleweka">
+<!ENTITY protocolNotFound.longDesc "<ul> 
+<li> Huenda utahitaji kusakinsha programu nyingine ili kufungua anwani hii.</li> 
+</ul>">
+
+<!ENTITY proxyConnectFailure.title "Seva mbadala inakataa miungano">
+<!ENTITY proxyConnectFailure.longDesc "<ul> 
+<li>Kagua mipangilio mbadala kuhakikisha kuwa ni sahihi.</li> 
+<li>Wasiliana na msimamizi wako wa mtandao kuhakikisha uwa seva mbadala 
+inafanya kazi.</li> 
+</ul>">
+
+<!ENTITY proxyResolveFailure.title "Imeshindwa kupata seva mbadala">
+<!ENTITY proxyResolveFailure.longDesc "<ul> 
+<li>Kagua mipangilio ya mbadala kuhakikisha kuwa ni sahihi.</li> 
+<li>Kagua kuhakikisha tarakilishi yako ina muungano wa mtandao unaofanya kazi.</li> 
+<li>Kama tarakilishi au mtandao wako umelindwa na ngome au mbadala, hakikisha 
+kuwa &brandShortName; imeruhusiwa kufikia Wavuti.</li> 
+</ul>">
+
+<!ENTITY redirectLoop.title "Ukurasa huu hauelekezi tena vizuri">
+<!ENTITY redirectLoop.longDesc "<ul> 
+<li>Shida hii yaweza wakati mwingine kusababishwa na kulemaza au kukataa kukubali 
+vidukizo.</li> 
+</ul>">
+
+<!ENTITY unknownSocketType.title "Mwitikio usiotarajiwa kutoka kwa seva">
+<!ENTITY unknownSocketType.longDesc "<ul> 
+<li>Kagua kuhakikisha kuwa mfumo wako umesakinisha Msimamizi wa Usalama wa Binafsi 
+</li>
+<li>Hii yaweza kusababishwa na usanidi usio sanifu kwenye sava.</li> 
+</ul>">
+
+<!ENTITY nssFailure2.title "Muungano Salama Umeshindwa">
+<!ENTITY nssFailure2.longDesc "<ul> 
+<li>Ukurasa unaojaribu kuangali hauwezi kuonyeshwa kwa sababu ya uhalali wa data iliyopokelewa haingethibitishwa.</li> 
+<li>Tafadhali wasiliana na wamilikii wa tovuti ili kuwajulisha kuhusu shida hii. Badala yake, tumia amri inayopatika kwenye menyu ya msaada kuripoti tovuti hii iliyoharibika.</li> 
+</ul>">
+
+<!ENTITY nssBadCert.title "Muungano Salama Umeshindwa">
+<!ENTITY nssBadCert.longDesc2 "<ul> 
+<li>Hii yaweza kuwa shida ya usanidi wa sava, au yaweza kuwa 
+mtu anayejaribu kuiga sava.</li> 
+<li>Kama umefanikiwa kuunganishwa kwa sava hii hapo awali, kosa laweza kuwa 
+la muda tu, na unaweza kujaribu tena baadaye.</li> 
+</ul>">
+
+<!ENTITY sharedLongDesc "<ul> 
+<li>Tovuti yaweza kuwa haipatikani kwa muda ama inashuguli sana. Jaribu tena katika 
+dakika chache.</li> 
+<li>Kama umeshindwa kupakia kurasa zozote, kagua muungano mtandao wa tarakilish 
+yako.</li> 
+<li>Kama tarakilishi au mtandao wako umelindwa na ngome au mbadala, hakikisha 
+kuwa &brandShortName; imeruhusiwa kufikia Wavuti.</li> 
+</ul>">
+
+<!ENTITY malwareBlocked.title "Inashukiwa kuwa Wavuti Shambulizi!">
+<!ENTITY malwareBlocked.longDesc "<p>Wavuti shambulizi hujaribu kusakinisha programu zinazoiba maelezo ya kibinafsi, kutumia tarakilishi yako kushambulia zingine, au kudhuru mfumo wako.</p> 
+<p>Wamiliki wa wavuti wanaoamini wavuti zao zimeripotiwa kama wavuti shambulizi kimakosa waweza omba kuangalia tena<a href='http://www.stopbadware.org/home/reviewinfo' ><a href='http://www.stopbadware.org/home/reviewinfo' ></a>.</p>">
+
+<!ENTITY phishingBlocked.title "Inashukiwa kuwa Wavuti Ughushi!">
+<!ENTITY phishingBlocked.longDesc "<p>Kuinigiza maelezo yoyote ya kibinafsi kwenye ukurasa huu kwaweza kusababisha wizi wa utambulishi au aina nyingine za udanganyifu.</p> 
+<p>Aina hizi za ughushi wa wavuti zinatumiwa katika uvamizi wa utapeli data, amabapo kurasa za wavuti danganyifu na barua pepe zinatumiwa kuiga chanzo unachoweza kuamimi.</p>">
+
+<!ENTITY cspFrameAncestorBlocked.title "Imezuiliwa na Sera ya Usalama wa Maudhui">
+<!ENTITY cspFrameAncestorBlocked.longDesc "<p>&brandShortName; imzuia ukurasa huu kupakiwa kwa njia hii kwa sababu ukurasa una sera ya usalama wa maudhui ambayo haiiruhusu.</p>">
+
+<!ENTITY securityOverride.linkText "Au unaweza kuongeza jambo la pekee...">
+<!ENTITY securityOverride.getMeOutOfHereButton "Niondoe hapa!">
+<!ENTITY securityOverride.exceptionButtonLabel "Ongeza Jambo la pekee...">
+<!-- LOCALIZATION NOTE (securityOverride.warningContent) - Do not translate the
+contents of the <button> tags. It uses strings already defined above. The
+button is included here (instead of netError.xhtml) because it exposes
+functionality specific to firefox. -->
+
+
+<!ENTITY securityOverride.warningContent "<p>Unafaa kuongeza jambo la pekee kama unatumia muungano wa mtandao ambao huuamini kikamilifu au kama hujazoea kuona onyo kwa sava hii.</p> 
+
+<button id='getMeOutOfHereButton'>&securityOverride.getMeOutOfHereButton;</button> 
+<button id='exceptionDialogButton'>&securityOverride.exceptionButtonLabel;</button>">
+
+<!ENTITY remoteXUL.title "Remote XUL">
+<!ENTITY remoteXUL.longDesc "<p><ul><li>Please contact the website owners to inform them of this problem.</li></ul></p>">

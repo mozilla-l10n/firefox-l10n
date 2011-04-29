@@ -1,0 +1,20 @@
+<!ENTITY cutCmd.label "Kata">
+<!ENTITY cutCmd.accesskey "t">
+<!ENTITY copyCmd.label "Nakili">
+<!ENTITY copyCmd.accesskey "N">
+<!ENTITY pasteCmd.label "Bandika">
+<!ENTITY pasteCmd.accesskey "B">
+<!ENTITY undoCmd.label "Tendua">
+<!ENTITY undoCmd.accesskey "T">
+<!ENTITY selectAllCmd.label "Chagua Yote">
+<!ENTITY selectAllCmd.accesskey "Y">
+<!ENTITY deleteCmd.label "Futa">
+<!ENTITY deleteCmd.accesskey "F">
+
+<!ENTITY spellAddToDictionary.label "Ongea kwa Kamusi">
+<!ENTITY spellAddToDictionary.accesskey "w">
+<!ENTITY spellCheckEnable.label "Kagua Tahajia">
+<!ENTITY spellCheckEnable.accesskey "T">
+<!ENTITY spellNoSuggestions.label "(Hakuna Maoni ya Tahajia)">
+<!ENTITY spellDictionaries.label "Lugha">
+<!ENTITY spellDictionaries.accesskey "L">

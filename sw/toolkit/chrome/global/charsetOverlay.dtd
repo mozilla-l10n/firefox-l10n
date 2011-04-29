@@ -1,0 +1,21 @@
+<!-- extracted from charsetOverlay.xul -->
+<!ENTITY charsetMenu.label             "Usimbaji Kibambo">
+<!ENTITY charsetMenu.accesskey         "U">
+<!ENTITY charsetMenuAutodet.label      "Vumbua-Kiotomatiki">
+<!ENTITY charsetMenuAutodet.accesskey  "V">
+<!ENTITY charsetMenuMore.label         "Usimbaji Zaidi">
+<!ENTITY charsetMenuMore.accesskey     "U">
+<!ENTITY charsetMenuMore1.label        "Magharibi Ulaya">
+<!ENTITY charsetMenuMore1.accesskey    "M">
+<!ENTITY charsetMenuMore2.label        "Mashariki Ulaya">
+<!ENTITY charsetMenuMore2.accesskey    "M">
+<!ENTITY charsetMenuMore3.label        "Mashariki Asia">
+<!ENTITY charsetMenuMore3.accesskey    "A">
+<!ENTITY charsetMenuMore4.label        "SE &amp; SW Kiasia">
+<!ENTITY charsetMenuMore4.accesskey    "S">
+<!ENTITY charsetMenuMore5.label        "Mashariki ya Kati">
+<!ENTITY charsetMenuMore5.accesskey    "M">
+<!ENTITY charsetMenuUnicode.label      "Msimbosare">
+<!ENTITY charsetMenuUnicode.accesskey  "M">
+<!ENTITY charsetCustomize.label        "Geuza Orodha Kukufaa...">
+<!ENTITY charsetCustomize.accesskey    "G">

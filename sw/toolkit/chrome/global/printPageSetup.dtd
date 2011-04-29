@@ -1,0 +1,62 @@
+<!-- extracted from printjoboptions.xul -->
+
+<!ENTITY printSetup.title    "Usanidi wa Ukurasa">
+
+<!ENTITY basic.tab           "Chaguo za &amp; Umbizo">
+
+<!ENTITY formatGroup.label   "Umbizo">
+
+<!ENTITY orientation.label   "Uelekeo:">
+<!ENTITY portrait.label      "Kurasa wima">
+<!ENTITY portrait.accesskey  "K">
+<!ENTITY landscape.label     "Kurasa mlalo">
+<!ENTITY landscape.accesskey "K">
+
+<!ENTITY scale.label         "Rekebisha ukubwa:">
+<!ENTITY scale.accesskey     "R">
+<!ENTITY scalePercent        "&#037;">
+
+<!ENTITY shrinkToFit.label   "Nywea ili kutoshea Upana wa Ukurasa">
+<!ENTITY shrinkToFit.accesskey "U">
+
+<!ENTITY optionsGroup.label  "Chaguo">
+
+<!ENTITY printBG.label       "Chapisha Mandharinyuma (rangi&amp; picha)">
+<!ENTITY printBG.accesskey   "M">
+
+<!ENTITY advanced.tab        "Pambizo &amp; Kichwa/Kijachini">
+
+<!ENTITY marginGroup.label   "Pambizo (#1)">
+<!ENTITY marginUnits.inches  "inchi">
+<!ENTITY marginUnits.metric  "milimita">
+<!ENTITY marginTop.label     "Juu:">
+<!ENTITY marginTop.accesskey "J">
+<!ENTITY marginBottom.label  "Chini:">
+<!ENTITY marginBottom.accesskey "C">
+<!ENTITY marginLeft.label    "Kushoto:">
+<!ENTITY marginLeft.accesskey "K">
+<!ENTITY marginRight.label   "Kulia:">
+<!ENTITY marginRight.accesskey "K">
+
+<!ENTITY headerFooter.label  "Vichea &amp; Vijachini">
+
+<!ENTITY hfLeft.label        "Kushoto:">
+<!ENTITY hfCenter.label      "Kati:">
+<!ENTITY hfRight.label       "Kulia:">
+<!ENTITY headerLeft.tip      "Kichwa cha kushoto">
+<!ENTITY headerCenter.tip    "Kichwa cha kati">
+<!ENTITY headerRight.tip     "Kichwa cha kulia">
+<!ENTITY footerLeft.tip      "Kijachini cha kushoto">
+<!ENTITY footerCenter.tip    "Kijachini cha kati">
+<!ENTITY footerRight.tip     "Kijachini cha kulia">
+
+<!ENTITY hfTitle             "Kichwa">
+<!ENTITY hfURL               "URL">
+<!ENTITY hfDateAndTime       "Tarehe/Saa">
+<!ENTITY hfPage              "Ukurasa #">
+<!ENTITY hfPageAndTotal      "Ukurasa # wa #">
+<!ENTITY hfBlank             "--tupu--">
+<!ENTITY hfCustom            "Maalum...">
+
+<!ENTITY customPrompt.title  "Maalum...">
+<!ENTITY customPrompt.prompt "Ingiza matini yako maalum ya kichwa/kijachini">

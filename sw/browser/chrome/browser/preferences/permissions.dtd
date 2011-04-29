@@ -1,0 +1,22 @@
+<!ENTITY window.title                 "Mambo ya pekee">
+<!ENTITY window.width                 "36em">
+
+<!ENTITY treehead.sitename.label      "Tovuti">
+<!ENTITY treehead.status.label        "Hadhi">
+<!ENTITY removepermission.label       "Ondoa Tovuti">
+<!ENTITY removepermission.accesskey   "O">
+<!ENTITY removeallpermissions.label   "Ondoa Tovuti Zote">
+<!ENTITY removeallpermissions.accesskey "d">
+<!ENTITY address.label                "Anwani ya wavuti:">
+<!ENTITY address.accesskey            "a">
+<!ENTITY block.label                  "Zuia">
+<!ENTITY block.accesskey              "Z">
+<!ENTITY session.label                "Ruhusu kwa Kipindi">
+<!ENTITY session.accesskey            "K">
+<!ENTITY allow.label                  "Ruhusu">
+<!ENTITY allow.accesskey              "R">
+<!ENTITY windowClose.key              "w">
+
+<!ENTITY button.close.label           "Funga">
+<!ENTITY button.close.accesskey       "F">
+

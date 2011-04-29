@@ -1,0 +1,108 @@
+<!ENTITY accountSetupTitle.label    "Usanidi wa &syncBrand.fullName.label;">
+<!-- First page of the wizard -->
+
+
+<!ENTITY setup.pickSetupType.description "Karibu, kama hujawahi kutumia &syncBrand.fullName.lagel; awali, utahitajika kuunda akaunti mpya.">
+<!ENTITY button.createNewAccount.label "Unda Akaunti Mpya">
+<!ENTITY setup.haveAccount.label "Tayari nina akaunti ya &syncBrand.fullName.label;.">
+<!ENTITY button.connect.label    "Unganisha">
+
+<!ENTITY setup.choicePage.title.label     "Umetumia &syncBrand.fullName.label; awali?">
+<!ENTITY setup.choicePage.new.label       "Sijatumia &syncBrand.fullName.label; hapo awali">
+<!ENTITY setup.choicePage.existing.label  "Tayari ninatumia &syncBrand.fullName.label; kwenye tarakilishi nyingine">
+<!-- New Account AND Existing Account -->
+
+<!ENTITY server.label               "Sava">
+<!ENTITY serverType.main.label      "Sava ya &syncBrand.fullName.label;">
+<!ENTITY serverType.custom2.label   "Tumia sava maalum...">
+<!ENTITY signIn.account2.label      "Akaunti">
+<!ENTITY signIn.account2.accesskey  "A">
+<!ENTITY signIn.password.label      "Nywila">
+<!ENTITY signIn.password.accesskey  "N">
+<!ENTITY signIn.syncKey.label       "Ulandanishi Ufunguo">
+<!ENTITY signIn.syncKey.accesskey   "U">
+<!-- New Account Page 1: Basic Account Info -->
+
+<!ENTITY setup.newAccountDetailsPage.title.label "Maelezo ya Akaunti">
+<!ENTITY setup.confirmPassword.label  "Dhibitisha Nywila">
+<!ENTITY setup.confirmPassword.accesskey  "s">
+<!ENTITY setup.emailAddress.label     "Anwani ya Baruapepe">
+<!ENTITY setup.emailAddress.accesskey "A">
+<!-- LOCALIZATION NOTE: tosAgree1, tosLink, tosAgree2, ppLink, tosAgree3 are
+     joined with implicit white space, so spaces in the strings aren't necessary -->
+<!ENTITY setup.tosAgree1.label      "Ninakubali">
+<!ENTITY setup.tosAgree1.accesskey  "n">
+<!ENTITY setup.tosLink.label        "Masharti ya Huduma">
+<!ENTITY setup.tosAgree2.label      "na">
+<!ENTITY setup.ppLink.label         "Sera ya Faragha">
+<!ENTITY setup.tosAgree3.label      "">
+<!ENTITY setup.tosAgree2.accesskey  "">
+<!-- New Account Page 2: Sync Key -->
+
+<!ENTITY setup.newSyncKeyPage.title.label "&brandShortName; Inajali Kuhusu Faragha Yako">
+<!ENTITY setup.newSyncKeyPage.description.label "Kuhakikisha faragha kamili, data yako yote imefichwa kabla ya kupakuliwa. Ufunguo wa Ulandanishi ambao unahitajika kufungua data yako haukupakuliwa.">
+<!ENTITY syncKeyEntry.label        "Ufunguo Wako wa Ulandanishi">
+<!ENTITY syncKeyEntry.accesskey    "W">
+<!ENTITY syncKeyGenerate.label     "Toa">
+<!ENTITY syncKeyBackup.description "Ufunguo wako wa Ulandanishi unahitajika kufikia &syncBrand.fullName.label; kwa mashine zingine. Tafadhali unda nakala ya cheleza. Hatuwezi kukusaidia kurejesha Ufunguo wako wa Ulandanishi.">
+
+<!ENTITY button.syncKeyBackup.print.label     "Chapisha...">
+<!ENTITY button.syncKeyBackup.print.accesskey "C">
+<!ENTITY button.syncKeyBackup.save.label      "Hifadhi...">
+<!ENTITY button.syncKeyBackup.save.accesskey  "H">
+<!-- New Account Page 3: Captcha -->
+
+<!ENTITY setup.captchaPage2.title.label     "Tafadhali Dhibitisha Wewe Si Roboti">
+<!-- Existing Account Page 1: Add Device (incl. Add a Device dialog strings) -->
+<!ENTITY addDevice.title.label              "Ongeza Kifaa">
+<!ENTITY addDevice.showMeHow.label          "Nionyeshe jinsi.">
+<!ENTITY addDevice.dontHaveDevice.label     "Sina kifaa hicho">
+<!ENTITY addDevice.setup.description.label  "Kuamilisha, nenda kwa &syncBrand.shortName.label; Chaguo kwenye kifaa chako kingine na uchague &#x0022; Ongeza Kifaa&#x0022;.">
+<!ENTITY addDevice.setup.enterCode.label    "Kisha, ingiza kodi hii:">
+<!ENTITY addDevice.dialog.description.label "Kuamilisha kifaa chako kipya, nenda kwa &syncBrand.shortName.label; Chaguo kwenye kifaa na uchague &#x0022;Unganisha.&#x0022;">
+<!ENTITY addDevice.dialog.enterCode.label   "Ingiza kodi ambayo inatolewa na kifaa:">
+<!ENTITY addDevice.dialog.tryAgain.label    "Tafadhali jaribu tena.">
+<!ENTITY addDevice.dialog.successful.label  "Kifaa kimefanikiwa kuongezwa. Ulandanishaji wa mara ya kwanza unaweza kuchukua dakika chache na utamalizikia kwenye mandharinyuma.">
+<!ENTITY addDevice.dialog.syncKey.label     "Ili kuamilisha kifaa chako utahitaji kuingiza Ufunguo wako wa Ulandanishi. Tafadhali chapisha au hifadhi ufunguo huu na uende nao.">
+<!ENTITY addDevice.dialog.connected.label   "Kifaa Kimeunganishwa">
+<!-- Existing Account Page 2: Manual Login -->
+
+<!ENTITY setup.signInPage.title.label "Ingia">
+<!ENTITY existingSyncKey.description "Unaweza kupata nakala ya Ufunguo wako wa Ulandanishi kwa kwenda kwa &syncBrand.shortName.label; Chaguo kwenye kifaa kingine, na kuchagua #x002Ufunguo wangu wa Ulandanishi&#x0022; chini ya &#x0022;Simamia Akaunti&#x0022;.">
+<!ENTITY verifying.label              "Kudhibitisha...">
+<!ENTITY resetPassword.label          "Weka upya Nywila">
+<!ENTITY resetSyncKey.label           "Nimepoteza kifaa changu kingine.">
+<!-- Sync Options -->
+
+<!ENTITY setup.optionsPage.title      "Chaguo za Ulandanishi">
+<!ENTITY syncComputerName.label       "Jina la Tarakilishi:">
+<!ENTITY syncComputerName.accesskey   "J">
+
+<!ENTITY syncMy.label               "Ulandanishi Wangu">
+<!ENTITY engine.bookmarks.label     "Vialamisho">
+<!ENTITY engine.bookmarks.accesskey "m">
+<!ENTITY engine.tabs.label          "Vichupo">
+<!ENTITY engine.tabs.accesskey      "V">
+<!ENTITY engine.history.label       "Historia">
+<!ENTITY engine.history.accesskey   "i">
+<!ENTITY engine.passwords.label     "Nywila">
+<!ENTITY engine.passwords.accesskey "N">
+<!ENTITY engine.prefs.label         "Mapendeleo">
+<!ENTITY engine.prefs.accesskey     "o">
+
+<!ENTITY choice2.merge.main.label      "Changanya data ya tarakilishi hii na data yangu ya &syncBrand.shortName.label;">
+<!ENTITY choice2.merge.recommended.label "Imependekezwa:">
+<!ENTITY choice2.client.main.label     "Badilisha data yote kwenye tarakilishi hii na data ya &syncBrand.shortName.label;">
+<!ENTITY choice2.server.main.label     "Badilisha vifaa vingine vyote na data ya tarakilishi hii">
+<!-- Confirm Merge Options -->
+
+<!ENTITY setup.optionsConfirmPage.title "Thibitisha">
+<!ENTITY confirm.merge.label    "&syncBrand.shortName.label; sasa itachanganya data ya kivinjari chote cha tarakilishi hii na akaunti yako ya Ulandanishi.">
+<!ENTITY confirm.client2.label         "Onyo: Data ya &brandShortName; ifuatayo kwenye tarakilishi hii itafutwa:">
+<!ENTITY confirm.client.moreinfo.label "&brandShortName; itafungua &syncBrand.fullName.label; data kwa tarakilishi hii.">
+<!ENTITY confirm.server2.label         "Onyo: Vifaa vifuatavyo vitaandikwa juu na data yako ya kienyeji:">
+<!-- New & Existing Account: Setup Complete -->
+
+<!ENTITY setup.successPage.title "Usanidi Umekamilika">
+<!ENTITY changeOptions.label "Unaweza kubadilisha mapendeleo haya kwa kuchagua Chaguo la Ulandanishi hapa chini.">
+<!ENTITY continueUsing.label "Unaweza  sasakuendelea kutumia &brandShortName;.">

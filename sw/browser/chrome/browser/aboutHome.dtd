@@ -1,0 +1,19 @@
+<!ENTITY % brandDTD SYSTEM "chrome://branding/locale/brand.dtd">
+  %brandDTD;
+<!-- These strings are used in the about:home page -->
+
+
+<!ENTITY abouthome.pageTitle "&brandShortName; Ukurasa wa Kuanza">
+
+<!ENTITY abouthome.searchEngineButton.label "Tafutiza">
+
+<!ENTITY abouthome.aboutMozilla "Kuhusu Mozilla">
+<!-- LOCALIZATION NOTE (abouthome.defaultSnippet1.v1):
+     text in <a/> will be linked to the Firefox features page on mozilla.com
+-->
+
+<!ENTITY abouthome.defaultSnippet1.v1 "Asante kwa kuchagua Firefox! Kupata zaidi kutoka kwenye kivinjari chako, jifunze zaidi kuhusu <a>vipenge vipya</a>.">
+<!-- LOCALIZATION NOTE (abouthome.defaultSnippet2.v1):
+     text in <a/> will be linked to the featured add-ons on addons.mozilla.org
+-->
+<!ENTITY abouthome.defaultSnippet2.v1 "Ni rahisi kunafsisha Firefox yako vile uitakavyo kamili. <a>Chagua kutoka maelefu ya vifaa vya nyogeza</a>.">

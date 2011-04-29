@@ -1,0 +1,85 @@
+<!-- rights.locale-direction instead of the usual local.dir entity, so RTL can skip translating page. -->
+<!ENTITY rights.locale-direction "ltr">
+<!ENTITY rights.pagetitle       "kuhusu:haki">
+<!ENTITY rights.intro-header    "Kuhusu Haki Zako">
+<!ENTITY rights.intro "&brandFullName; ni ya bure na ni programu iliyofunguliwa, imeundwa na jamii ya maelfu kutoka kote ulimwenguni. Kuna mambo machache unayofaa kujua:">
+<!-- Note on pointa / pointb / pointc form:
+     These points each have an embedded link in the HTML, so each point is
+     split into chunks for text before the link, the link text, and the text
+     after the link. If a localized grammar doesn't need the before or after
+     chunk, it can be left blank.
+
+     Also note the leading/trailing whitespace in strings here, which is
+     deliberate for formatting around the embedded links. -->
+
+<!ENTITY rights.intro-point1a "&brandShortName; imefanywa kupatikana kwako chini ya masharti ya">
+<!ENTITY rights.intro-point1b "Leseni ya Umma ya Mozilla">
+<!ENTITY rights.intro-point1c ". Hii ni kumaanisha unaweza kutumia, kunakili na kusambaza &brandShortName; kwa wengine. Unakaribishwa kufanya mabadiliko kodi ya chanzo cha &brandShortName; kama unavyotaka ili kukidhi mahitaji yako. Leseni ya Umma ya Mozilla pia inakupa haki ya kusambaza matoleo yako yaliyobadilshwa.">
+
+<!ENTITY rights.intro-point2-a "Hujapatiwa haki zozote za alama ya biashara au leseni kwa alama za biashara za Taasisi ya Mozilla au chama chochote, ikijumuisha uzuizi wa jina au nembo za Firefox. Maelezo ya ziada kuhusu alama za biashara yanaweza kupatikana.">
+<!ENTITY rights.intro-point2-b "hapa">
+<!ENTITY rights.intro-point2-c ".">
+<!-- point 2.5 text for official branded builds -->
+
+<!ENTITY rights.intro-point2.5 "Vipengele vingine katika &brandShortName;, kama vile Kiripoti Kukwama, hukupa chaguo la kutoa maoni kwa &vendorShortName;. Kwa kuchagua kufikisha maoni, unapatia &vendorShortName; ruhusa ya kutumia maoni kuboresha bidhaa, kuchapisha maoni katika tovuti, na kusambaza maoni hayo.">
+<!-- point 3 text for official branded builds -->
+
+<!ENTITY rights2.intro-point3a "Una uhakika gani wa kutumia maelezo na maoni yaliyofikishwa kwa &vendorShortName; kupitia &brandShortName; inaelezewa katika">
+<!ENTITY rights2.intro-point3b "Sera ya Faragha ya &brandShortName;">
+<!ENTITY rights.intro-point3c ".">
+<!-- point 3 text for unbranded builds -->
+
+<!ENTITY rights.intro-point3-unbranded "Sera zozote za faragha zinazotumika kwa bidhaa hii zinafaa kuorodheshwa hapa.">
+<!-- point 4 text for official branded builds -->
+
+<!ENTITY rights2.intro-point4a "Vipengee vingine vya &brandShortName; hutumia huduma za maelezo zilizojikita kwenye tovuti, hata hivyo, hatuwezi kudhamini kuwa ni sahihi100&#37; au hazina makosa. Maelezo zaidi, ikijumulisha maelezo kuhusu jinsi ya kulemaza vipengee vinavyotumia huduma hizi, yanaweza patikana kwenye">
+<!ENTITY rights.intro-point4b "masharti ya huduma">
+<!ENTITY rights.intro-point4c ".">
+<!-- point 4 text for unbranded builds -->
+
+<!ENTITY rights.intro-point4a-unbranded "Kama bidhaa hii inajumulisha huduma za tovuti, masharti yoyote yanayoweza kutumika kwa huduma hii (hizi) yanafaa kuungwa kwa">
+<!ENTITY rights.intro-point4b-unbranded "Huduma za Wavuti">
+<!ENTITY rights.intro-point4c-unbranded "sehemu.">
+
+<!ENTITY rights2.webservices-header "&brandShortName; Huduma za Maelezo yaliyojikita kwenye Wavuti">
+<!-- Note that this paragraph references a couple of entities from
+     preferences/security.dtd, so that we can refer to text the user sees in
+     the UI, without this page being forgotten every time those strings are
+     updated.  -->
+<!-- intro paragraph for branded builds -->
+
+<!ENTITY rights2.webservices-a "&brandShortName; hutumia huduma za maelezo yaliyojikita kwenye wavuti (&quot;Services&quot;) kutoa vipengee vingine vilivyotolewa kwa matumizi yako na toleo hili la uwili la&brandShortName; chini ya masharti yaliyoelezwa hapa chini. Kama hutaki kutumia moja au zaidi ya Huduma hizi au masharti yaliyo hapa chini hayakubaliki, unaweza kulemaza kipengee au Huduma. Maagizo kuhusu jinsi ya kulemaza kipengee fulani au Huduma yaweza kupatikana">
+<!ENTITY rights2.webservices-b "hapa">
+<!ENTITY rights2.webservices-c ".">
+<!-- safe browsing points for branded builds -->
+
+<!ENTITY rights.safebrowsing-a "Kuvinjari salama:">
+<!ENTITY rights.safebrowsing-b "Kulemaza vipengee vya Kuvinjari Salama hakupendekezwi kwani kunaweza kusababisha kwenda kwenye tovuti ambazo sio salama. Kama ungependa kulemaza kipengee kikamilifu, fuata hatua hizi:">
+<!ENTITY rights.safebrowsing-term1 "Fungua mapendeleo ya programu">
+<!ENTITY rights.safebrowsing-term2 "Fungua chaguo za Usalama">
+<!ENTITY rights.safebrowsing-term3 "Toa kihakiki kwa chaguo &quot;&blockAttackSites.label;&quot; na &quot;&blockWebForgeries.label;&quot;">
+<!ENTITY rights.safebrowsing-term4 "Kuvinjari Salama sasa kumelemazwa">
+<!-- location aware browsing points for branded builds -->
+
+<!ENTITY rights.locationawarebrowsing-a "Kuvinjari Mahali Kujua:">
+<!ENTITY rights.locationawarebrowsing-b "kila wakati iko kwenye chaguo. Hakuna maelezo ya mahali yamewahi kutumwa bila idhini. Kama ungependa kulemaza kipengee kikamilifu, fuata hatua hizi:">
+<!ENTITY rights.locationawarebrowsing-term1a "Katika pau wa URL, aina">
+<!ENTITY rights.locationawarebrowsing-term1b "kuhusu:usanidi">
+<!ENTITY rights.locationawarebrowsing-term2 "Aina geo.imewezeshwa">
+<!ENTITY rights.locationawarebrowsing-term3 "Bofya mara mbili kwenye upendeleo wa geo.enabled">
+<!ENTITY rights.locationawarebrowsing-term4 "Mahali-Kuvinjari Kujua sasa kumelemazwa">
+<!-- intro paragraph for unbranded builds -->
+
+<!ENTITY rights.webservices-unbranded "Mapitio ya huduma za tovuti ambazo bidhaa inajumuisha, pamoja na maagizo ya jinsi ya kuyalemaza, kama yanaweza kutumika, yanafaa kujumulishwa hapa.">
+<!-- point 1 text for unbranded builds -->
+
+<!ENTITY rights.webservices-term1-unbranded "Masharti yoyote ya huduma yanaweza kutumika kwa bidhaa hii yanafaa kuorodheshwa hapa.">
+<!-- points 1-7 text for branded builds -->
+
+<!ENTITY rights2.webservices-term1 "&vendorShortName; na wachangiaji wake, waleseni na wenzi hufanya kazi kutoa Huduma sahihi zaidi na za kisasa. Hata hivyo, hatuwezi kudhamini kuwa maelezo haya ni ya kuaminika na hayana makosa. Kwa mfano, Huduma ya Kuvinjari Salama haiwezi kutambua tovuti zingine na inaweza kutambua tovuti zingine kimakosa na Huduma ya Mahali Kujua mahali pote kumerudishwa na watoaji huduma ni kisio tu na watoaji huduma hudhamini usahihi wa mahali walipotoa.">
+<!ENTITY rights.webservices-term2 "&vendorShortName; yaweza kukatiza au kubadilisha Huduma kwa hiari yake.">
+<!ENTITY rights2.webservices-term3 "Unakaribishwa kutumia Huduma hizi na matoleo yanayoandamana ya &brandShortName; na &vendorShortName; inakupa haki ya kufanya hivyo. &vendorShortName; na waleseni wake huhifadhi haki zingine zote katika Huduma. Masharti haya hayakusudiwi kuzuia haki zozote zilizotolewa chini ya leseni zilizofunguliwa kutumiwa na &brandShortName; na kuandikiana na matoleo ya chanzo cha &brandShortName;.">
+<!ENTITY rights.webservices-term4 "Huduma zinatolewa &quot;kama-is.&quot; &vendorShortName;, wachangiaji wake, waleseni, na wagawanyaji, wanakataa kumiliki udhamini, ulio wa moja kwa moja au uliokusudiwa, ikijumulisha bila kuzuia, udhamini ambao Huduma zinaweza kuuzwa na kukidhi matumizi fulani. Unachukua hararii kubwa ya kuchagua Huduma kwa matumizi yako na kwa ubora na ufanya kazi wa Huduma hizo. Ugawaji mwingine hauruhusu utenganisho au uzuizi wa udhamini, kwa hivyo kutodai kwako hakukuhusu.">
+<!ENTITY rights.webservices-term5 "Isipokuwa inavyohitajika na sheria, &vendorShortName;, wachangiaji wake, waleseni na wagawanyaji hawatawajibika kwa madhara ya moja kwa moja, maalum, ya matukio, yenye madhara, au madhara yasiyo ya kawaida yanayotokana kwa njia yoyote yakihusiana na utumizi wa &brandShortName; na Huduma hiyo. Uwajibikaji wa pamoja chini ya masharti haya hautakiuka $500 (dol mia tano). Mamlaka mengine hayaruhusu utenagaji au uzuiaji wa madhara, kwa hivyo utengaji na uzuiaji haukuhusu.">
+<!ENTITY rights.webservices-term6 "&vendorShortName; yaweza kusasaisha masharti haya kama inavyohitajika kupitia wakati. Masharti haya hayabadilishwi au kukatizwa bila makubaliano yaliyoandikwa ya &vendorShortname;.">
+<!ENTITY rights.webservices-term7 "Masharti haya yanatawaliwa na sheria za taifa la Califonia, Marekani, ikitenga mgogoro wa utoaji wa sheria. Kama kipande chochote cha masharti haya kitachukuliwa kuwa batili au hakiwezi kutekelezwa, sehemu zilizobaki zitakuwa na nguvu na athari. Wakati ambapo kuna mgogoro kati ya toleo lililotafsiriwa la masharti na toleo la Kiingereza, toleo la Kiingereza litakuwa na udhibiti.">

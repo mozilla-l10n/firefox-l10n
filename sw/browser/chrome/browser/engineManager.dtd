@@ -1,0 +1,25 @@
+<!ENTITY  engineManager.title       "Simamia Orodha ya Injini ya Utafutizi">
+<!ENTITY  engineManager.style       "upana-mdogo: 35em;">
+<!ENTITY  engineManager.intro       "Una injini zifuatazo za kutafutiza zimesakinishwa:">
+
+<!ENTITY  columnLabel.name          "Jina">
+<!ENTITY  columnLabel.keyword       "Nenomsingi">
+<!-- Buttons -->
+
+<!ENTITY  up.label                  "Hamisha Juu">
+<!ENTITY  up.accesskey              "J">
+<!ENTITY  dn.label                  "Hamisha Chini">
+<!ENTITY  dn.accesskey              "C">
+<!ENTITY  remove.label              "Ondoa">
+<!ENTITY  remove.accesskey          "O">
+<!ENTITY  edit.label                "Hariri Nenomsingi...">
+<!ENTITY  edit.accesskey            "r">
+
+<!ENTITY  addEngine.label           "Pata injini zaidi za kutafutiza...">
+<!ENTITY  addEngine.accesskey       "i">
+
+<!ENTITY  enableSuggest.label       "Onyesha maoni ya tafutizo">
+<!ENTITY  enableSuggest.accesskey   "O">
+
+<!ENTITY  restoreDefaults.label     "Rejesha Chaguo msingi">
+<!ENTITY  restoreDefaults.accesskey "j">

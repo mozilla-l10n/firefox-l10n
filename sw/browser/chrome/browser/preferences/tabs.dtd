@@ -1,0 +1,17 @@
+<!ENTITY newWindowsAsTabs.label       "Fungua dirisha mpya katika kichupo kipya badala yake">
+<!ENTITY newWindowsAsTabs.accesskey   "k">
+
+<!ENTITY warnCloseMultipleTabs.label  "Nionye wakati wa kufunga vichupo vingi">
+<!ENTITY warnCloseMultipleTabs.accesskey  "w">
+
+<!ENTITY warnOpenManyTabs.label       "Nionye wakati ninafungua vichupo vingi kwaweza kupunguza mwendo wa &brandShortName;">
+<!ENTITY warnOpenManyTabs.accesskey   "n">
+
+<!ENTITY showTabBar.label             "Kila mara onyesha pau ya kichupo">
+<!ENTITY showTabBar.accesskey         "c">
+
+<!ENTITY switchToNewTabs.label        "Ninapofungua kiungo katika kuchupo kipya, badili kwake mara moja">
+<!ENTITY switchToNewTabs.accesskey    "b">
+
+<!ENTITY showTabsInTaskbar.label          "Onyesha vihakiki vya kichupo katika mwambaa wa kazi wa Windows">
+<!ENTITY showTabsInTaskbar.accesskey      "m">

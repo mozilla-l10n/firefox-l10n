@@ -1,0 +1,142 @@
+<!-- LOCALIZATION NOTE (places.library.title): use "Library", "Archive" or "Repository" -->
+<!ENTITY places.library.title  "Maktaba">
+<!ENTITY places.library.width  "700">
+<!ENTITY places.library.height "500">
+<!ENTITY organize.label        "Panga">
+<!ENTITY organize.accesskey    "P">
+<!ENTITY organize.tooltip      "Panga alamisho zako">
+
+<!ENTITY file.accesskey                 "F">
+<!ENTITY file.close.label               "Funga">
+<!ENTITY file.close.accesskey           "F">
+<!ENTITY cmd.close.key                  "w">
+<!ENTITY edit.label                     "Hariri">
+<!ENTITY edit.accesskey                 "H">
+<!ENTITY views.label                    "Mionekano">
+<!ENTITY views.accesskey                "M">
+<!ENTITY views.tooltip                  "Badilisha muonekano wako">
+<!ENTITY view.columns.label             "Onyesha Safuwima">
+<!ENTITY view.columns.accesskey         "S">
+<!ENTITY view.sort.label                "Panga">
+<!ENTITY view.sort.accesskey            "P">
+<!ENTITY view.unsorted.label            "Hazijapangwa">
+<!ENTITY view.unsorted.accesskey        "H">
+<!ENTITY view.sortAscending.label       "Mpangilio wa Kupanga A>Z">
+<!ENTITY view.sortAscending.accesskey   "A">
+<!ENTITY view.sortDescending.label      "Mpangilio wa Kupanga Z<A">
+<!ENTITY view.sortDescending.accesskey  "M">
+
+<!ENTITY cmd.findInBookmarks.label      "Tafuta kwa Vialamisho...">
+<!ENTITY cmd.findInBookmarks.accesskey  "T">
+<!ENTITY cmd.findCurrent.label          "Tafuta kwa Mkusanyiko wa Sasa...">
+<!ENTITY cmd.findCurrent.accesskey      "f">
+
+<!ENTITY cmd.exportHTML.label           "Hamisha HTML...">
+<!ENTITY cmd.exportHTML.accesskey       "H">
+<!ENTITY cmd.importHTML.label           "Leta HTML...">
+<!ENTITY cmd.importHTML.accesskey       "L">
+
+<!ENTITY cmd.backup.label               "Cheleza...">
+<!ENTITY cmd.backup.accesskey           "C">
+<!ENTITY cmd.restore2.label             "Rejesha">
+<!ENTITY cmd.restore2.accesskey         "R">
+<!ENTITY cmd.restoreFromFile.label      "Chagua Faili...">
+<!ENTITY cmd.restoreFromFile.accesskey  "C">
+
+<!ENTITY cmd.bookmarkLink.label         "Alamisha Ukurasa Huu...">
+<!ENTITY cmd.bookmarkLink.accesskey     "A">
+<!ENTITY cmd.delete.label               "Futa Ukurasa Huu">
+<!ENTITY cmd.delete.accesskey           "F">
+<!ENTITY cmd.deleteDomainData.label     "Sahau Kuhusu Toovuti Hii">
+<!ENTITY cmd.deleteDomainData.accesskey "S">
+
+<!ENTITY cmd.open.label                  "Fungua">
+<!ENTITY cmd.open.accesskey              "F">
+<!ENTITY cmd.open_window.label           "Fungua katika Dirisha Mpya">
+<!ENTITY cmd.open_window.accesskey       "D">
+<!ENTITY cmd.open_tab.label              "Fungua katika Kichupo Kipya">
+<!ENTITY cmd.open_tab.accesskey          "c">
+<!ENTITY cmd.open_all_in_tabs.label      "Fungua Yote kwa vichupo">
+<!ENTITY cmd.open_all_in_tabs.accesskey  "F">
+
+<!ENTITY cmd.properties.label      "Sifa">
+<!ENTITY cmd.properties.accesskey  "f">
+
+<!ENTITY cmd.sortby_name.label              "Panga Kwa Jina">
+<!ENTITY cmd.sortby_name.accesskey          "P">
+<!ENTITY cmd.context_sortby_name.accesskey  "r">
+
+<!ENTITY cmd.new_bookmark.label            "Alamisho Mpya...">
+<!ENTITY cmd.new_bookmark.accesskey        "M">
+<!ENTITY cmd.new_folder.label              "Kabrasha Mpya...">
+<!ENTITY cmd.new_folder.accesskey          "p">
+<!ENTITY cmd.context_new_folder.accesskey  "F">
+<!ENTITY cmd.new_separator.label           "Kitenganishi Kipya">
+<!ENTITY cmd.new_separator.accesskey       "K">
+
+<!ENTITY cmd.reloadLivebookmark.label      "Pakia tena Alamisho Moja kwa moja">
+<!ENTITY cmd.reloadLivebookmark.accesskey  "P">
+<!ENTITY cmd.reloadMicrosummary.label      "Pakia tena Kichwa Moja kwa moja">
+<!ENTITY cmd.reloadMicrosummary.accesskey  "P">
+
+<!ENTITY cmd.moveBookmarks.label                  "Hamisha...">
+<!ENTITY cmd.moveBookmarks.accesskey              "H">
+
+<!ENTITY col.name.label          "Jina">
+<!ENTITY col.tags.label          "Lebo">
+<!ENTITY col.url.label           "Mahali">
+<!ENTITY col.lastvisit.label     "Tarahe ya Kutembelea">
+<!ENTITY col.visitcount.label    "Hesabu ya Kutembelea">
+<!ENTITY col.keyword.label       "Neno msingi">
+<!ENTITY col.description.label   "Maelezo">
+<!ENTITY col.dateadded.label     "Iliongezwa">
+<!ENTITY col.lastmodified.label  "Ilibadilishwa Mwisho">
+
+<!ENTITY search.label                              "Tafutiza:">
+<!ENTITY search.accesskey                          "T">
+
+<!ENTITY search.in.label                           "Tafutiza katika:">
+<!ENTITY search.scopeFolder.label                  "Kabrasha Iliyochaguliwa">
+<!ENTITY search.scopeFolder.accesskey              "y">
+<!ENTITY search.scopeBookmarks.label               "Vialamisho">
+<!ENTITY search.scopeBookmarks.accesskey           "s">
+<!ENTITY search.scopeDownloads.label               "Vipakuzi">
+<!ENTITY search.scopeDownloads.accesskey           "V">
+<!ENTITY search.scopeHistory.label                 "Historia">
+<!ENTITY search.scopeHistory.accesskey             "H">
+<!ENTITY saveSearch.label                          "Hifadhi">
+<!ENTITY saveSearch.accesskey                      "H">
+
+<!ENTITY cmd.find.key  "f">
+
+<!ENTITY maintenance.label      "Leta na Cheleza">
+<!ENTITY maintenance.accesskey  "L">
+<!ENTITY maintenance.tooltip    "Leta na cheleza vialamisho vyako">
+
+<!ENTITY backCmd.label       "Nyuma">
+<!ENTITY backButton.tooltip  "Rudi nyuma">
+
+<!ENTITY forwardCmd.label       "Tuma mbele">
+<!ENTITY forwardButton.tooltip  "Nenda mbele">
+
+<!ENTITY detailsPane.more.label "Zaidi">
+<!ENTITY detailsPane.more.accesskey "i">
+<!ENTITY detailsPane.less.label "Ndogo kuliko">
+<!ENTITY detailsPane.less.accesskey "d">
+<!ENTITY detailsPane.noPreviewAvailable.label "Kihakiki">
+<!ENTITY detailsPane.selectAnItemText.description "Chagua kipengee cha kuangalia na kuhariri sifa zake">
+
+<!ENTITY find.label               "Tafutiza:">
+<!ENTITY find.accesskey           "T">
+<!ENTITY view.label               "Angalila">
+<!ENTITY view.accesskey           "a">
+<!ENTITY byDate.label             "Kwa Tarehe">
+<!ENTITY byDate.accesskey         "T">
+<!ENTITY bySite.label             "Kwa Tovuti">
+<!ENTITY bySite.accesskey         "T">
+<!ENTITY byMostVisited.label      "Kwa Kutembelewa Zaidi">
+<!ENTITY byMostVisited.accesskey  "Z">
+<!ENTITY byLastVisited.label      "Kwa Mara ya mwisho Kutembelewa">
+<!ENTITY byLastVisited.accesskey  "M">
+<!ENTITY byDayAndSite.label       "Kwa Tarehe na Tovuti">
+<!ENTITY byDayAndSite.accesskey   "r">

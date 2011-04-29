@@ -1,0 +1,18 @@
+<!-- extracted from finddialog.xul -->
+
+<!ENTITY findDialog.title "Tafuta kwenye Ukurasa Huu">
+<!ENTITY findField.label "Tafuta nini:">
+<!ENTITY findField.accesskey "f">
+<!ENTITY caseSensitiveCheckbox.label "Oanisha kadhia">
+<!ENTITY caseSensitiveCheckbox.accesskey "n">
+<!ENTITY wrapCheckbox.label "Zungushia">
+<!ENTITY wrapCheckbox.accesskey "Z">
+<!ENTITY findButton.label "Tafuta Inayofuata">
+<!ENTITY findButton.accesskey "T">
+<!ENTITY cancelButton.label "Katiza">
+<!ENTITY closeButton.label "Funga">
+<!ENTITY up.label "Juu">
+<!ENTITY up.accesskey "J">
+<!ENTITY down.label "Chini">
+<!ENTITY down.accesskey "C">
+<!ENTITY direction.label "Upande">

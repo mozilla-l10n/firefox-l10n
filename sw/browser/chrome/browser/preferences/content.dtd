@@ -1,0 +1,37 @@
+<!ENTITY  blockPopups.label           "Zuia dirisha ibukizi">
+<!ENTITY  blockPopups.accesskey       "Z">
+<!ENTITY  popupExceptions.label       "Mambo ya pekee...">
+<!ENTITY  popupExceptions.accesskey   "M">
+
+<!ENTITY  loadImages.label            "Pakia picha kiotomatiki">
+<!ENTITY  loadImages.accesskey        "p">
+<!ENTITY  exceptions.label            "Mambo ya pekee...">
+<!ENTITY  exceptions.accesskey        "m">
+
+<!ENTITY  enableJavaScript.label      "Wezesha HatiJava">
+<!ENTITY  enableJavaScript.accesskey  "H">
+<!ENTITY  advancedJS.label            "Iliyoendelea...">
+<!ENTITY  advancedJS.accesskey        "y">
+
+<!ENTITY  enableJava.label            "Wezesha Java">
+<!ENTITY  enableJava.accesskey        "z">
+
+
+<!ENTITY  fontsAndColors.label        "Fonti &amp; Rangi">
+
+<!ENTITY  defaultFont.label           "Chaguo msingi ya fonti:">
+<!ENTITY  defaultFont.accesskey       "C">
+<!ENTITY  defaultSize.label           "Ukubwa:">
+<!ENTITY  defaultSize.accesskey       "U">
+
+<!ENTITY  advancedFonts.label         "Iliyoendelea...">
+<!ENTITY  advancedFonts.accesskey     "I">
+
+<!ENTITY  colors.label                "Rangi...">
+<!ENTITY  colors.accesskey            "R">
+
+
+<!ENTITY languages.label              "Lugha">
+<!ENTITY chooseLanguage.label         "Chagua lugha unayopendelea ya kuonyeshea kurasa">
+<!ENTITY chooseButton.label           "Chagua...">
+<!ENTITY chooseButton.accesskey       "a">

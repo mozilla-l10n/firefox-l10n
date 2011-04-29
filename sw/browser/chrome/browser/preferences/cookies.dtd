@@ -1,0 +1,28 @@
+<!ENTITY window.width                       "36em">
+
+<!ENTITY     cookiesonsystem.label          "Vidakuzi vifuatavyo vimehifadhiwa kwenye kompyuta yako:">
+<!ENTITY     cookiename.label               "Jina la Kidakuzi">
+<!ENTITY     cookiedomain.label             "Tovuti"> 
+<!ENTITY     button.removecookies.label     "Ondoa Vidakuzi">
+<!ENTITY     button.removecookie.label      "Ondoa Kidakuzi">
+<!ENTITY     button.removecookie.accesskey  "O">
+<!ENTITY     button.removeallcookies.label  "Ondoa Vidakuzi Vyote">
+<!ENTITY     button.removeallcookies.accesskey "V">
+
+<!ENTITY     props.name.label               "Jina:">
+<!ENTITY     props.value.label              "Yaliyomo:">
+<!ENTITY     props.domain.label             "Mwenyeji:">
+<!ENTITY     props.path.label               "Njia:">
+<!ENTITY     props.secure.label             "Tuma Kwa:">
+<!ENTITY     props.expires.label            "Huisha:">
+
+<!ENTITY     window.title                   "Vidakuzi">
+<!ENTITY     windowClose.key                "w">
+<!ENTITY     focusSearch1.key               "f">
+<!ENTITY     focusSearch2.key               "k">
+
+<!ENTITY     filter.label                   "Tafutiza:">
+<!ENTITY     filter.accesskey               "T">
+
+<!ENTITY     button.close.label             "Funga">
+<!ENTITY     button.close.accesskey         "F">
