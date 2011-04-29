@@ -3,8 +3,8 @@
 <!ENTITY safeb.palm.message.p1.linkText "Altre informazioni »">
 <!ENTITY safeb.palm.p1.linkStatusText "Altre informazioni…">
 <!ENTITY safeb.palm.message.p2.start "Questo tipo di contraffazione viene sfruttato nei cosiddetti attacchi phishing: i truffatori utilizzano siti ed e-mail per imitare pagine di cui solitamente ci si fida. È possibile ottenere altre informazioni su ">
-<!ENTITY safeb.palm.message.p2.linkText "come &brandShortName; protegge">
-<!ENTITY safeb.palm.message.p2.end " dagli attacchi phishing.">
+<!ENTITY safeb.palm.message.p2.linkText "come &brandShortName; previene">
+<!ENTITY safeb.palm.message.p2.end " questi attacchi.">
 <!ENTITY safeb.palm.accept.label "Allontanarsi da questo sito">
 <!ENTITY safeb.palm.accept.statustext "Vai alla pagina iniziale">
 <!ENTITY safeb.palm.decline.label "Ignora questo avviso">
