@@ -25,8 +25,6 @@
 <!ENTITY allowHWAccel.accesskey          "q">
 <!ENTITY checkSpelling.label             "Comprova l'ortografia mentre escric">
 <!ENTITY checkSpelling.accesskey         "v">
-<!ENTITY doNotTrack.label                "Fes saber als llocs web que no vull que se'm segueixi">
-<!ENTITY doNotTrack.accesskey            "g">
 
 <!ENTITY systemDefaults.label  "Paràmetres predeterminats del sistema">
 
