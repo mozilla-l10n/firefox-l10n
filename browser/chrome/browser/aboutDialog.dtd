@@ -54,3 +54,27 @@
      example: Downloading update — 111 KB of 13 MB -->
 <!ENTITY update.downloading.start   "Baixada de l'actualització — ">
 <!ENTITY update.downloading.end     "">
+
+<!-- LOCALIZATION NOTE (channel.description.start,channel.description.end): channel.description.start and
+     channel.description.end create one sentence, with the current channel label inserted in between.
+     example: You are currently on the _Stable_ update channel. -->
+<!ENTITY channel.description.start  "Esteu actualment al ">
+<!ENTITY channel.description.end    " canal d'actualització. ">
+
+<!ENTITY channel.change             "Canvia">
+
+<!ENTITY channel.release.description       "Gaudiu de les versions finals i comprovades que utilitzen centenars de milions de persones d'arreu del món. Tingueu control de la vostra experiència a la xarxa amb gran velocitat, facilitat de personalització i les darreres tecnologies web.">
+<!ENTITY channel.beta.description          "Experimenteu les característiques que s'han afegit recentment d'una forma més estable. Proporcioneu-ne l'opinió per tal de refinar i polir allò que s'inclourà a la versió final.">
+<!ENTITY channel.aurora.description        "Experimenteu les darreres innovacions en un entorn inestable no recomenable per als més patidors. Proporcioneu opinió de les característiques i el rendiment per tal d'ajudar a determinar què s'inclourà a la versió final.">
+
+<!-- LOCALIZATION NOTE (channel.selector.start,channel.selector.end): channel.selector.start and
+     channel.selector.end create one sentence, with a channel selection menulist instered in between.
+     This is all in one line, so try to make the localized text short.
+     example: Switch to the [Stable] update channel. -->
+<!ENTITY channel.selector.start          "Canvia al">
+<!ENTITY channel.selector.end            "canal d'actualització.">
+
+<!-- LOCALIZATION NOTE (channel.selector.applyButton): This button applies the user's choice to switch
+     to a new update channel and starts the application update process. -->
+<!ENTITY channel.selector.applyButton    "Aplica i actualitza">
+<!ENTITY channel.selector.cancelButton   "Cancel·la">
