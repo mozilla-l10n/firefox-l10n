@@ -6,7 +6,6 @@
 <!ENTITY editBookmarkOverlay.feedLocation.accesskey          "F">
 <!ENTITY editBookmarkOverlay.siteLocation.label              "Websitelocatie:">
 <!ENTITY editBookmarkOverlay.siteLocation.accesskey          "e">
-<!ENTITY editBookmarkOverlay.liveTitlesSeparator.label       "Livetitels">
 <!ENTITY editBookmarkOverlay.folder.label                    "Map:">
 <!ENTITY editBookmarkOverlay.foldersExpanderDown.tooltip     "Alle bladwijzermappen tonen">
 <!ENTITY editBookmarkOverlay.expanderUp.tooltip              "Verbergen">
