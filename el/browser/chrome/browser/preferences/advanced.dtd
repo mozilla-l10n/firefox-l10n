@@ -19,11 +19,6 @@
 
 <!ENTITY clearCacheNow.label             "Εκκαθάριση τώρα">
 <!ENTITY clearCacheNow.accesskey         "κ">
-
-<!ENTITY doNotTrack.label                "Γνωστοποίηση στις ιστοσελίδες ότι δεν επιθυμώ να γίνεται εντοπισμός μου">
-<!ENTITY doNotTrack.accesskey            "ω">
-
-
  
  <!ENTITY networkTab.label                "Δίκτυο">
 

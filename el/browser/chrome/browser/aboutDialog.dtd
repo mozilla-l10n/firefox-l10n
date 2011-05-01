@@ -56,3 +56,27 @@
 <!ENTITY update.downloading.start   "Λήψη ενημέρωσης σε εξέλιξη — ">
 <!ENTITY update.downloading.end     "">
 
+<!-- LOCALIZATION NOTE (channel.description.start,channel.description.end): channel.description.start and
+     channel.description.end create one sentence, with the current channel label inserted in between.
+     example: You are currently on the _Stable_ update channel. -->
+<!ENTITY channel.description.start  "Βρίσκεστε στο κανάλι ενημερώσεων της ">
+<!ENTITY channel.description.end    " έκδοσης. ">
+
+<!ENTITY channel.change             "Αλλαγή">
+
+<!ENTITY channel.release.description       "Απολαύστε την τελική έκδοση που έχει δοκιμαστεί και χρησιμοποιείται από εκατοντάδες εκατομμύρια χρήστες . Η απίστευτη ταχύτητα, η ευκολία στην παραμετροποίηση και οι σύγχρονες τεχνολογίες του παγκόσμιου ιστού, θα είναι κάτω από τον έλεγχο σας.">
+<!ENTITY channel.beta.description          "Απολαύστε την τεχνολογία και τις λειτουργίες αιχμής με περισσότερη σταθερότητα. Τα σχόλια σας θα μας είναι πολύτιμα για τον έλεγχο και την βελτίωση της επικειμενης τελικής έκδοσης.">
+<!ENTITY channel.aurora.description        "Απολαύστε τους πιο πρόσφατους νεωτερισμούς και λειτουργίες σε ένα μη σταθερό περιβάλλον, ακατάλληλο για καρδιακούς. Τα σχόλια σας πάνω στις νέες λειτουργίες και την εφαρμογή θα μας είναι απαραίτητα για να αποφασίσουμε από το τι θα απαρτίζεται η μελλοντική τελική έκδοση.">
+
+<!-- LOCALIZATION NOTE (channel.selector.start,channel.selector.end): channel.selector.start and
+     channel.selector.end create one sentence, with a channel selection menulist instered in between.
+     This is all in one line, so try to make the localized text short.
+     example: Switch to the [Stable] update channel. -->
+<!ENTITY channel.selector.start          "Μετάβαση στο κανάλι ενημερώσεων της ">
+<!ENTITY channel.selector.end            " έκδοσης.">
+
+<!-- LOCALIZATION NOTE (channel.selector.applyButton): This button applies the user's choice to switch
+     to a new update channel and starts the application update process. -->
+<!ENTITY channel.selector.applyButton    "Εφαρμογή και ενημέρωση">
+<!ENTITY channel.selector.cancelButton   "Ακύρωση">
+

@@ -1,3 +1,9 @@
+<!ENTITY tracking.label                 "Εντοπισμός τοποθεσίας">
+
+<!ENTITY doNotTrack.label               "Γνωστοποίηση στις ιστοσελίδες ότι δεν επιθυμώ να γίνεται εντοπισμός μου">
+<!ENTITY doNotTrack.accesskey           "ω">
+
+
 <!ENTITY  history.label "Ιστορικό">
 
 <!ENTITY  locationBar.label             "Γραμμή διευθύνσεων">

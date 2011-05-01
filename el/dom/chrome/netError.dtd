@@ -72,6 +72,8 @@
 <!ENTITY cspFrameAncestorBlocked.title "Έχει φραγεί από την πολιτική προστασίας περιεχομένου">
 <!ENTITY cspFrameAncestorBlocked.longDesc "<p>O περιηγητής εμπόδισε τη φόρτωση της σελίδας με αυτό τον τρόπο, επειδή η σελίδα έχει μια πολιτική προστασίας περιεχομένου που δεν το επιτρέπει.</p>">
 
+<!ENTITY remoteXUL.title "Απομακρυσμένο XUL">
+<!ENTITY remoteXUL.longDesc "<p><ul><li>Παρακαλούμε επικοινωνήστε με τους ιδιοκτήτες της ιστοσελίδας για να τους πληροφορήσετε για το πρόβλημα.</li></ul></p>">
 
 <!-- Include app-specific error messages - do not change this in localization!
      Some applications might override netErrorApp.dtd with their specific version,
