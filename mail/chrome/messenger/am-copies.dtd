@@ -21,22 +21,27 @@
 <!ENTITY sentFolderOn.accesskey "V">
 <!ENTITY sentInOtherFolder.label "Anders:">
 <!ENTITY sentInOtherFolder.accesskey "A">
+<!-- LOCALIZATION NOTE (archivesFolderOn.label): OK to translate this, bug #57440 -->
+<!ENTITY archivesTitle.label "Berichtarchieven">
+<!ENTITY keepArchives.label "Berichtarchieven bewaren in:">
+<!ENTITY keepArchives.accesskey "B">
+<!ENTITY archiveHierarchyButton.label "Archiverenopties…">
+<!ENTITY archiveHierarchyButton.accesskey "A">
+<!ENTITY archivesFolderOn.label "Map &quot;Archieven&quot; in on:">
+<!ENTITY archivesFolderOn.accesskey "r">
+<!ENTITY archiveInOtherFolder.label "Anders:">
+<!ENTITY archiveInOtherFolder.accesskey "e">
+<!ENTITY specialFolders.label "Concepten en sjablonen">
+<!ENTITY keepDrafts.label "Berichtconcepten bewaren in:">
 <!-- LOCALIZATION NOTE (draftsFolderOn.label): OK to translate this, bug #57440 -->
 <!ENTITY draftsFolderOn.label "Map “Concepten” in:">
 <!ENTITY draftsFolderOn.accesskey "C">
 <!ENTITY draftInOtherFolder.label "Anders:">
 <!ENTITY draftInOtherFolder.accesskey "n">
-<!-- LOCALIZATION NOTE (archivesFolderOn.label): OK to translate this, bug #57440 -->
-<!ENTITY archivesFolderOn.label "Map “Archieven” in:">
-<!ENTITY archivesFolderOn.accesskey "r">
-<!ENTITY archiveInOtherFolder.label "Anders:">
-<!ENTITY archiveInOtherFolder.accesskey "e">
+<!ENTITY keepTemplates.label "Berichtsjablonen bewaren in:">
 <!-- LOCALIZATION NOTE (templatesFolderOn.label): OK to translate this, bug #57440 -->
 <!ENTITY templatesFolderOn.label "Map “Sjablonen” in:">
 <!ENTITY templatesFolderOn.accesskey "S">
 <!ENTITY templateInOtherFolder.label "Anders:">
 <!ENTITY templateInOtherFolder.accesskey "d">
-<!ENTITY specialFoldersTitle.label "Concepten, archieven en sjablonen">
-<!ENTITY keepDrafts.label "Berichtconcepten bewaren in:">
-<!ENTITY keepArchives.label "Berichtarchieven bewaren in:">
-<!ENTITY keepTempltes.label "Berichtsjablonen bewaren in:">
+
