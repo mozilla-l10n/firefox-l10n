@@ -104,7 +104,7 @@ can reach it easily. -->
 <!ENTITY subscribeToPageMenuitem.label "Suscribirse a esta página…">
 <!ENTITY addCurPagesCmd.label "Marcar todas las pestañas…">
 <!ENTITY showAllBookmarks2.label "Mostrar todos los marcadores">
-<!ENTITY bookmarkAllCmd.label "Marcar todas las pestañas…">
+<!ENTITY unsortedBookmarksCmd.label "Marcadores desordenados">
 <!ENTITY bookmarksToolbarChevron.tooltip "Mostrar más marcadores">
 
 <!ENTITY backCmd.label "Atrás">
