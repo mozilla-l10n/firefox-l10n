@@ -28,7 +28,7 @@
 <!ENTITY fileNotFound.title "Fichier introuvable">
 <!ENTITY fileNotFound.longDesc "
 <ul>
-  <li>Vérifiez la syntaxe du nom de fichier (dont le respect des minuscules/majuscules)&#x00A0;;</li>
+  <li>Vérifiez le nom du fichier, en particulier les minuscules/majuscules&#x00A0;;</li>
   <li>Vérifiez si le fichier n'a pas été déplacé, renommé ou supprimé.</li>
 </ul>
 ">
