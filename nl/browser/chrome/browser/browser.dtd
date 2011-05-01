@@ -104,7 +104,7 @@ can reach it easily. -->
 <!ENTITY subscribeToPageMenuitem.label "Abonneren op deze pagina…">
 <!ENTITY addCurPagesCmd.label "Bladwijzer voor alle tabbladen maken…">
 <!ENTITY showAllBookmarks2.label "Alle bladwijzers tonen">
-<!ENTITY bookmarkAllCmd.label "Bladwijzer voor alle tabbladen maken…">
+<!ENTITY unsortedBookmarksCmd.label "Ongesorteerde bladwijzers">
 <!ENTITY bookmarksToolbarChevron.tooltip "Meer bladwijzers tonen">
 
 <!ENTITY backCmd.label                "Terug">
