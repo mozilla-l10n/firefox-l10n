@@ -80,8 +80,12 @@
 <!ENTITY cspFrameAncestorBlocked.title "Harzet gant ur reolenn diogelroez a-fet endalc'hadoù">
 <!ENTITY cspFrameAncestorBlocked.longDesc "<p>Ar merdeer en deus harzet kargadur ar bajennad-mañ gant an doare-mañ rak difennet eo gant ur reolenn diogelroez a-fet endalc'hadoù eus ar bajennad.</p>">
 
+<!ENTITY remoteXUL.title "XUL a-bell">
+<!ENTITY remoteXUL.longDesc "<p><ul><li>Mar plij, kit e darempred gant perc'henned al lec'hienn evit kelaouiñ anezho diwar-benn ar gudenn-mañ.</li></ul></p>">
+
 <!-- Include app-specific error messages - do not change this in localization!
      Some applications might override netErrorApp.dtd with their specific version,
-     this inclusion needs to be intact for that approach to work correctly. -->
+     this inclusion needs to be intact for that approach to work correctly.
+     Please, try to keep this at the end of the file. -->
 <!ENTITY % netErrorAppDTD SYSTEM "chrome://global/locale/netErrorApp.dtd">
 %netErrorAppDTD;

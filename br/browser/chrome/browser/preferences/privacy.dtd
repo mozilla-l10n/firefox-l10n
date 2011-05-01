@@ -1,3 +1,8 @@
+<!ENTITY tracking.label                 "Heuliañ ho roudoù">
+
+<!ENTITY doNotTrack.label               "Lavarout d'al lec'hiennoù internet ne fell ket din bezañ heuliet">
+<!ENTITY doNotTrack.accesskey           "d">
+
 <!ENTITY  history.label                 "Roll istor">
 
 <!ENTITY  locationBar.label             "Barrenn chomlec'hioù">
@@ -29,7 +34,6 @@
 
 <!ENTITY  showCookies.label             "Diskouez an toupinoù…">
 <!ENTITY  showCookies.accesskey         "i">
-
 
 <!ENTITY  historyHeader.pre.label          "Arventennoù ar roll istor">
 <!ENTITY  historyHeader.pre.accesskey      "A">
