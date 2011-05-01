@@ -192,4 +192,7 @@ netError.xhtml) because it exposes functionality specific to firefox. -->
 <!ENTITY cspFrameAncestorBlocked.title "Έχει φραγεί από την πολιτική προστασίας περιεχομένου">
 <!ENTITY cspFrameAncestorBlocked.longDesc "<p>Ο &brandShortName; εμπόδισε τη φόρτωση της σελίδας με αυτό τον τρόπο, επειδή η σελίδα έχει μια πολιτική προστασίας περιεχομένου που δεν το επιτρέπει.</p>">
 
+<!ENTITY remoteXUL.title "Απομακρυσμένο XUL">
+<!ENTITY remoteXUL.longDesc "<p><ul><li>Παρακαλούμε επικοινωνήστε με τους ιδιοκτήτες της ιστοσελίδας για να τους ενημερώσετε για αυτό το πρόβλημα.</li></ul></p>">
+
 
