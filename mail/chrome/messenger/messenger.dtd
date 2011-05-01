@@ -29,7 +29,7 @@
 <!ENTITY saveAsFileCmd.key "s">
 <!ENTITY saveAsTemplateCmd.label "Plantilla">
 <!ENTITY saveAsTemplateCmd.accesskey "p">
-<!ENTITY getNewMsgCmd.key "t">
+<!ENTITY getNewMsgCmd.key "d">
 <!ENTITY getNewMsgForCmd.label "Recibir mensajes nuevos de">
 <!ENTITY getNewMsgForCmd.accesskey "b">
 <!ENTITY getAllNewMsgCmdPopupMenu.label "Todas las cuentas">
@@ -473,7 +473,7 @@
 <!ENTITY getMsgButton.tooltip "Recibir mensajes nuevos">
 <!ENTITY getAllNewMsgCmd.label "Recibir todos los mensajes nuevos">
 <!ENTITY getAllNewMsgCmd.accesskey "R">
-<!ENTITY getAllNewMsgCmd.key "t">
+<!ENTITY getAllNewMsgCmd.key "d">
 <!ENTITY newMsgButton.tooltip "Crear nuevo mensaje">
 <!ENTITY replyButton.tooltip "Responder al mensaje">
 <!ENTITY replyAllButton.tooltip "Responder al remitente y a todos los destinatarios">
