@@ -52,7 +52,7 @@
 <!ENTITY findTypeLinksCmd.label "Encontrar enlaces a medida que escribe">
 <!ENTITY findTypeLinksCmd.accesskey "o">
 <!ENTITY viewMenu.label "Ver">
-<!ENTITY viewMenu.accesskey "v">
+<!ENTITY viewMenu.accesskey "V">
 <!ENTITY viewToolbarsMenu.label "Mostrar/Ocultar">
 <!ENTITY viewToolbarsMenu.accesskey "s">
 <!ENTITY showTaskbarCmd.label "Barra de estado">
