@@ -44,10 +44,18 @@
 
 <!-- Toolbar-only items -->
 <!ENTITY compositionToolbar.tooltip "Panel nástrojov Composera">
+<!ENTITY previewToolbarCmd.label "Ukážka">
+<!ENTITY previewToolbarCmd.tooltip "Ukážka stránky ako v prehliadači">
+
+<!-- File menu items -->
+<!ENTITY exportToTextCmd.label "Exportovať ako text…">
+<!ENTITY exportToTextCmd.accesskey "x">
+<!ENTITY previewCmd.label "Zobraziť stránku">
+<!ENTITY previewCmd.accesskey "n">
+<!ENTITY sendPageCmd.label "Odoslať stránku…">
+<!ENTITY sendPageCmd.accesskey "s">
 
 <!-- View menu items -->
-<!ENTITY viewMenu.label "Zobraziť">
-<!ENTITY viewMenu.accesskey "Z">
 <!ENTITY compositionToolbarCmd.label "Panel Nová správa">
 <!ENTITY compositionToolbarCmd.accesskey "N">
 <!ENTITY formattingToolbarCmd.label "Panel Formátovanie">
@@ -58,6 +66,14 @@
 <!-- Format menu items -->
 <!ENTITY formatMenu.label "Formát">
 <!ENTITY formatMenu.accesskey "F">
+<!ENTITY grid.label "Polohovacia mriežka">
+<!ENTITY grid.accesskey "h">
+<!ENTITY pageProperties.label "Titulok a vlastnosti stránky…">
+<!ENTITY pageProperties.accesskey "T">
+
+<!-- Tools menu items -->
+<!ENTITY validateCmd.label "Overiť správnosť kódu HTML">
+<!ENTITY validateCmd.accesskey "v">
 
 <!-- Display Mode toolbar and View menu items -->
 <!ENTITY NormalModeTab.label "Normálne">

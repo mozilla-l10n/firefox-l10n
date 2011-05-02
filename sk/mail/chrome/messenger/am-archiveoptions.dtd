@@ -1,0 +1,19 @@
+<!-- extracted from am-archiveoptions.xul -->
+
+<!ENTITY dialogTitle.label "Možnosti archivácie">
+<!ENTITY archiveGranularityPrefix.label "Pri archivovaní správy umiestňovať v:">
+<!ENTITY archiveFlat.label "Jednom priečinku">
+<!ENTITY archiveFlat.accesskey "J">
+<!ENTITY archiveYearly.label "Priečinkoch triedených podľa rokov">
+<!ENTITY archiveYearly.accesskey "P">
+<!ENTITY archiveMonthly.label "Priečinkoch triedených podľa mesiacov">
+<!ENTITY archiveMonthly.accesskey "m">
+<!ENTITY keepFolderStructure.label "Zachovať existujúcu štruktúru priečinkov archivovaných správ">
+<!ENTITY keepFolderStructure.accesskey "Z">
+<!ENTITY archiveExample.label "Príklad">
+<!-- LOCALIZATION NOTE (archiveFolderName.label): this should match the default
+     name for the "Archives" folder -->
+<!ENTITY archiveFolderName.label "Archívy">
+<!-- LOCALIZATION NOTE (inboxFolderName.label): this should match the default
+     name for the "Inbox" folder -->
+<!ENTITY inboxFolderName.label "Doručená pošta">
