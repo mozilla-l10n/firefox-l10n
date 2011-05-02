@@ -56,8 +56,6 @@
 <!ENTITY sendPageCmd.accesskey "s">
 
 <!-- View menu items -->
-<!ENTITY viewMenu.label "Zobraziť">
-<!ENTITY viewMenu.accesskey "Z">
 <!ENTITY compositionToolbarCmd.label "Panel Nová správa">
 <!ENTITY compositionToolbarCmd.accesskey "N">
 <!ENTITY formattingToolbarCmd.label "Panel Formátovanie">

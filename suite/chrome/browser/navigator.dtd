@@ -40,9 +40,6 @@
 <!ENTITY printCmd.accesskey "T">
 <!ENTITY printCmd.commandkey "p">
 
-<!ENTITY viewMenu.label "Zobraziť">
-<!ENTITY viewMenu.accesskey "Z">
-
 <!ENTITY toolbarsCmd.label "Zobraziť/Skryť">
 <!ENTITY toolbarsCmd.accesskey "Z">
 <!ENTITY navbarCmd.label "Navigačný panel">

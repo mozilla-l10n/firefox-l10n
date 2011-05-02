@@ -5,13 +5,13 @@
 <!ENTITY fccMailFolder.label "Uložiť kópiu do:">
 <!ENTITY fccMailFolder.accesskey "U">
 <!ENTITY fccReplyFollowsParent.label "Umiestniť odpovede v priečinku, v ktorom sa nachádza pôvodná správa">
-<!ENTITY fccReplyFollowsParent.accesskey "m">
+<!ENTITY fccReplyFollowsParent.accesskey "t">
 <!-- LOCALIZATION NOTE (ccAddress.label): do not translate "Cc" in below line -->
 <!ENTITY ccAddress.label "Odoslať kópiu (CC) na tieto adresy:">
 <!ENTITY ccAddress.accesskey "C">
 <!ENTITY ccAddressList.placeholder "Adresy oddelené čiarkami">
 <!-- LOCALIZATION NOTE (bccAddress.label): do not translate "Bcc" in below line -->
-<!ENTITY bccAddress.label 'Odoslať Skrytú kópiu (BCC) na tieto adresy:'>
+<!ENTITY bccAddress.label "Odoslať Skrytú kópiu (BCC) na tieto adresy:">
 <!ENTITY bccAddress.accesskey "S">
 <!ENTITY bccAddressList.placeholder "Adresy oddelené čiarkami">
 <!ENTITY saveMessageDlg.label "Pri ukladaní správ zobraziť dialógové okno s potvrdením">
@@ -21,22 +21,26 @@
 <!ENTITY sentFolderOn.accesskey "d">
 <!ENTITY sentInOtherFolder.label "iný priečinok:">
 <!ENTITY sentInOtherFolder.accesskey "n">
+<!-- LOCALIZATION NOTE (archivesFolderOn.label): OK to translate this, bug #57440 -->
+<!ENTITY archivesTitle.label "Archivovanie správ">
+<!ENTITY keepArchives.label "Archívne správy ukladať do:">
+<!ENTITY keepArchives.accesskey "h">
+<!ENTITY archiveHierarchyButton.label "Možnosti archivácie…">
+<!ENTITY archiveHierarchyButton.accesskey "M">
+<!ENTITY archivesFolderOn.label "priečinok &quot;Archívy&quot; v účte:">
+<!ENTITY archivesFolderOn.accesskey "o">
+<!ENTITY archiveInOtherFolder.label "iný priečinok:">
+<!ENTITY archiveInOtherFolder.accesskey "r">
+<!ENTITY specialFolders.label "Návrhy a šablóny">
+<!ENTITY keepDrafts.label "Návrhy správ ukladať do:">
 <!-- LOCALIZATION NOTE (draftsFolderOn.label): OK to translate this, bug #57440 -->
 <!ENTITY draftsFolderOn.label "priečinok &quot;Návrhy&quot; v účte:">
 <!ENTITY draftsFolderOn.accesskey "v">
 <!ENTITY draftInOtherFolder.label "iný priečinok:">
 <!ENTITY draftInOtherFolder.accesskey "k">
-<!-- LOCALIZATION NOTE (archivesFolderOn.label): OK to translate this, bug #57440 -->
-<!ENTITY archivesFolderOn.label "priečinok &quot;Archívy&quot; v účte:">
-<!ENTITY archivesFolderOn.accesskey "o">
-<!ENTITY archiveInOtherFolder.label "iný priečinok:">
-<!ENTITY archiveInOtherFolder.accesskey "r">
+<!ENTITY keepTemplates.label "Šablóny správ ukladať do:">
 <!-- LOCALIZATION NOTE (templatesFolderOn.label): OK to translate this, bug #57440 -->
 <!ENTITY templatesFolderOn.label "priečinok &quot;Šablóny&quot; v účte:">
 <!ENTITY templatesFolderOn.accesskey "a">
 <!ENTITY templateInOtherFolder.label "iný priečinok:">
 <!ENTITY templateInOtherFolder.accesskey "e">
-<!ENTITY specialFoldersTitle.label "Návrhy, šablóny a archívy">
-<!ENTITY keepDrafts.label "Návrhy správ ukladať do:">
-<!ENTITY keepArchives.label "Archívne správy ukladať do:">
-<!ENTITY keepTempltes.label "Šablóny správ ukladať do:">

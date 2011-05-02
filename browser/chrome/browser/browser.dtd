@@ -104,7 +104,7 @@ can reach it easily. -->
 <!ENTITY subscribeToPageMenuitem.label "Odoberať kanál tejto stránky…">
 <!ENTITY addCurPagesCmd.label "Pridať všetky karty medzi záložky…">
 <!ENTITY showAllBookmarks2.label "Zobraziť všetky záložky">
-<!ENTITY bookmarkAllCmd.label "Pridať všetky karty medzi záložky…">
+<!ENTITY unsortedBookmarksCmd.label "Nezaradené záložky">
 <!ENTITY bookmarksToolbarChevron.tooltip "Zobraziť ďalšie záložky">
 
 <!ENTITY backCmd.label                  "Naspäť">
