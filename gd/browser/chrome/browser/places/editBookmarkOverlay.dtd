@@ -6,7 +6,6 @@
 <!ENTITY editBookmarkOverlay.feedLocation.accesskey          "S">
 <!ENTITY editBookmarkOverlay.siteLocation.label              "Seòladh na làraich:">
 <!ENTITY editBookmarkOverlay.siteLocation.accesskey          "S">
-<!ENTITY editBookmarkOverlay.liveTitlesSeparator.label       "Tiotalan beòtha">
 <!ENTITY editBookmarkOverlay.folder.label                    "Pasgan:">
 <!ENTITY editBookmarkOverlay.foldersExpanderDown.tooltip     "Seall gach pasgan nan comharra-lìn">
 <!ENTITY editBookmarkOverlay.expanderUp.tooltip              "Cuir am falach">

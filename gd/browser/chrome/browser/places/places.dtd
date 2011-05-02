@@ -76,8 +76,6 @@
 
 <!ENTITY cmd.reloadLivebookmark.label      "Ath-luchdaich comharra-lìn beò">
 <!ENTITY cmd.reloadLivebookmark.accesskey  "r">
-<!ENTITY cmd.reloadMicrosummary.label      "Ath-luchdaich tiotal beò">
-<!ENTITY cmd.reloadMicrosummary.accesskey  "A">
 
 <!ENTITY cmd.moveBookmarks.label                  "Gluais…">
 <!ENTITY cmd.moveBookmarks.accesskey              "G">
