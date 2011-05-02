@@ -76,8 +76,6 @@
 
 <!ENTITY cmd.reloadLivebookmark.label      "重新載入即時書籤">
 <!ENTITY cmd.reloadLivebookmark.accesskey  "R">
-<!ENTITY cmd.reloadMicrosummary.label      "重新載入即時標題">
-<!ENTITY cmd.reloadMicrosummary.accesskey  "R">
 
 <!ENTITY cmd.moveBookmarks.label                  "移動…">
 <!ENTITY cmd.moveBookmarks.accesskey              "M">
