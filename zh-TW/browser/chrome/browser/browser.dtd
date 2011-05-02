@@ -104,7 +104,7 @@ can reach it easily. -->
 <!ENTITY subscribeToPageMenuitem.label "訂閱此頁面…">
 <!ENTITY addCurPagesCmd.label "所有分頁加入書籤…">
 <!ENTITY showAllBookmarks2.label "顯示所有書籤">
-<!ENTITY bookmarkAllCmd.label "所有分頁加入書籤…">
+<!ENTITY unsortedBookmarksCmd.label "未排序書籤">
 <!ENTITY bookmarksToolbarChevron.tooltip "顯示更多書籤">
 
 <!ENTITY backCmd.label                "上一頁">
