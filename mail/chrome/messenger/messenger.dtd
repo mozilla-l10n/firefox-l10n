@@ -39,7 +39,7 @@
 <!ENTITY saveAsFileCmd.key "s">
 <!ENTITY saveAsTemplateCmd.label "Šablóna">
 <!ENTITY saveAsTemplateCmd.accesskey "b">
-<!ENTITY getNewMsgCmd.key "t">
+<!ENTITY getNewMsgCmd.key "d">
 <!ENTITY getNewMsgForCmd.label "Prijať nové správy pre">
 <!ENTITY getNewMsgForCmd.accesskey "s">
 <!ENTITY getAllNewMsgCmdPopupMenu.label "Všetky účty">
@@ -521,7 +521,7 @@ you can use these alternative items. Otherwise, their values should be empty.  -
 <!ENTITY getMsgButton.tooltip "Prijať nové správy">
 <!ENTITY getAllNewMsgCmd.label "Prijať všetky nové správy">
 <!ENTITY getAllNewMsgCmd.accesskey "P">
-<!ENTITY getAllNewMsgCmd.key "t">
+<!ENTITY getAllNewMsgCmd.key "d">
 <!ENTITY newMsgButton.tooltip "Napísať novú správu">
 <!ENTITY replyButton.tooltip "Odpovedať na správu">
 <!ENTITY replyAllButton.tooltip "Odpovedať odosielateľovi a všetkým adresátom">
