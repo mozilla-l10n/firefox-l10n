@@ -100,3 +100,6 @@ functionality specific to thunderbird. -->
 <button id='getMeOutOfHereButton'>&securityOverride.getMeOutOfHereButton;</button>
 <button id='exceptionDialogButton'>&securityOverride.exceptionButtonLabel;</button>
  ">
+
+<!ENTITY remoteXUL.title "XUL cèin">
+<!ENTITY remoteXUL.longDesc "<p><ul><li>Cuir fios gu seilbheadairean na làraich seo mun duilgheadas seo.</li></ul></p>">
