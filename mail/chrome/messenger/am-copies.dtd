@@ -21,11 +21,6 @@
 <!ENTITY sentFolderOn.accesskey "s">
 <!ENTITY sentInOtherFolder.label "Eile:">
 <!ENTITY sentInOtherFolder.accesskey "E">
-<!-- LOCALIZATION NOTE (draftsFolderOn.label): OK to translate this, bug #57440 -->
-<!ENTITY draftsFolderOn.label "Pasgan nan &quot;dreach&quot; air:">
-<!ENTITY draftsFolderOn.accesskey "d">
-<!ENTITY draftInOtherFolder.label "Eile:">
-<!ENTITY draftInOtherFolder.accesskey "E">
 <!-- LOCALIZATION NOTE (archivesFolderOn.label): OK to translate this, bug #57440 -->
 <!ENTITY archivesTitle.label "Tasg-lannan nan teachdaireachdan">
 <!ENTITY keepArchives.label "Cum tasg-lannan nan teachdaireachd ann an:">
@@ -36,11 +31,16 @@
 <!ENTITY archivesFolderOn.accesskey "n">
 <!ENTITY archiveInOtherFolder.label "Eile:">
 <!ENTITY archiveInOtherFolder.accesskey "E">
+<!ENTITY specialFolders.label "Drafts and Templates">
 <!ENTITY keepDrafts.label "Cum dreachan de theachdaireachdan ann an:">
+<!-- LOCALIZATION NOTE (draftsFolderOn.label): OK to translate this, bug #57440 -->
+<!ENTITY draftsFolderOn.label "Pasgan nan &quot;dreach&quot; air:">
+<!ENTITY draftsFolderOn.accesskey "d">
+<!ENTITY draftInOtherFolder.label "Eile:">
+<!ENTITY draftInOtherFolder.accesskey "E">
+<!ENTITY keepTemplates.label "Cum dreachan de theamplaidean ann an:">
 <!-- LOCALIZATION NOTE (templatesFolderOn.label): OK to translate this, bug #57440 -->
 <!ENTITY templatesFolderOn.label "Pasgan nan &quot;teamplaid&quot; air:">
 <!ENTITY templatesFolderOn.accesskey "m">
 <!ENTITY templateInOtherFolder.label "Eile:">
 <!ENTITY templateInOtherFolder.accesskey "E">
-<!ENTITY keepDrafts.label "Cum dreachan de theachdaireachdan ann an:">
-<!ENTITY keepArchives.label "Cum tasg-lannan de theachdaireachdan ann an:">
