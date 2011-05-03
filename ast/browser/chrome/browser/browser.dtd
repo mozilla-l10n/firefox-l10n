@@ -80,7 +80,7 @@
 <!ENTITY subscribeToPageMenuitem.label "Soscribise a esta páxina…">
 <!ENTITY addCurPagesCmd.label "Amestar llingüetes a marcadores…">
 <!ENTITY showAllBookmarks2.label "Amosar tolos marcadores">
-<!ENTITY bookmarkAllCmd.label "Amestar toles llingüetes abiertes a marcadores…">
+<!ENTITY unsortedBookmarksCmd.label "Marcadores ensin ordenar">
 <!ENTITY bookmarksToolbarChevron.tooltip "Amosar más marcadores">
 <!ENTITY backCmd.label "Anterior">
 <!ENTITY backCmd.accesskey "n">
