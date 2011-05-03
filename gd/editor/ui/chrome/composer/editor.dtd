@@ -56,8 +56,6 @@
 <!ENTITY sendPageCmd.accesskey "d">
 
 <!-- View menu items -->
-<!ENTITY viewMenu.label "Sealladh">
-<!ENTITY viewMenu.accesskey "S">
 <!ENTITY compositionToolbarCmd.label "Bàr-inneil sgrìobhaidh">
 <!ENTITY compositionToolbarCmd.accesskey "B">
 <!ENTITY formattingToolbarCmd.label "Am bàr-inneil fòrmataidh">
