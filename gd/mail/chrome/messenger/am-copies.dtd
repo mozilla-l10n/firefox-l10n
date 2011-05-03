@@ -27,10 +27,16 @@
 <!ENTITY draftInOtherFolder.label "Eile:">
 <!ENTITY draftInOtherFolder.accesskey "E">
 <!-- LOCALIZATION NOTE (archivesFolderOn.label): OK to translate this, bug #57440 -->
+<!ENTITY archivesTitle.label "Tasg-lannan nan teachdaireachdan">
+<!ENTITY keepArchives.label "Cum tasg-lannan nan teachdaireachd ann an:">
+<!ENTITY keepArchives.accesskey "C">
+<!ENTITY archiveHierarchyButton.label "Roghainnean nan tasg-lannan…">
+<!ENTITY archiveHierarchyButton.accesskey "a">
 <!ENTITY archivesFolderOn.label "Pasgan nan &quot;tasg-lann&quot; air:">
 <!ENTITY archivesFolderOn.accesskey "n">
 <!ENTITY archiveInOtherFolder.label "Eile:">
 <!ENTITY archiveInOtherFolder.accesskey "E">
+<!ENTITY keepDrafts.label "Cum dreachan de theachdaireachdan ann an:">
 <!-- LOCALIZATION NOTE (templatesFolderOn.label): OK to translate this, bug #57440 -->
 <!ENTITY templatesFolderOn.label "Pasgan nan &quot;teamplaid&quot; air:">
 <!ENTITY templatesFolderOn.accesskey "m">
