@@ -54,3 +54,27 @@
      example: Downloading update — 111 KB of 13 MB -->
 <!ENTITY update.downloading.start   "A' luchdadh a-nuas an ùrachaidh — ">
 <!ENTITY update.downloading.end     "">
+
+<!-- LOCALIZATION NOTE (channel.description.start,channel.description.end): channel.description.start and
+     channel.description.end create one sentence, with the current channel label inserted in between.
+     example: You are currently on the _Stable_ update channel. -->
+<!ENTITY channel.description.start  "Tha thu san t-seanail ùrachaidh ">
+<!ENTITY channel.description.end    " an-dràsta. ">
+
+<!ENTITY channel.change             "Atharraich">
+
+<!ENTITY channel.release.description       "Gabh tlachd san sgaoileadh dearbhte as ùire a tha na milleanan de dhaoine air feadh an t-saoghail. Bi smachd agad air na thachras air loidhne aig dearg-astar, le gnàthachadh èasgaidh agus an teicneolas-lìn as ùire.">
+<!ENTITY channel.beta.description          "Feuch na feartan ùr-nodha a tha nas seasmhaiche na bha iad a-riamh. Innis dhuinn dè do bheachd orra gus an urrainn dhuinn piseach a chur air na bhios san sgaoileadh fhèin aig a' cheann thall.">
+<!ENTITY channel.aurora.description        "Feuch na feartan as ùire ann an àrainneachd dho-sheasmhach. 'S e seo an t-àite cearr do leth-phlaidean! Innis dhuinn dè do bheachd air na feartan 's an dèanadas agus bidh buaidh agad air na bhios san sgaoileadh fhèin aig a' cheann thall.">
+
+<!-- LOCALIZATION NOTE (channel.selector.start,channel.selector.end): channel.selector.start and
+     channel.selector.end create one sentence, with a channel selection menulist instered in between.
+     This is all in one line, so try to make the localized text short.
+     example: Switch to the [Stable] update channel. -->
+<!ENTITY channel.selector.start          "Leum dhan t-seanail ùrachaidh">
+<!ENTITY channel.selector.end            ".">
+
+<!-- LOCALIZATION NOTE (channel.selector.applyButton): This button applies the user's choice to switch
+     to a new update channel and starts the application update process. -->
+<!ENTITY channel.selector.applyButton    "Cuir an sàs e 's ùraich">
+<!ENTITY channel.selector.cancelButton   "Sguir dheth">
