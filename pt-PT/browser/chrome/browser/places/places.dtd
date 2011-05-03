@@ -76,8 +76,6 @@
 
 <!ENTITY cmd.reloadLivebookmark.label      "Recarregar marcador dinâmico">
 <!ENTITY cmd.reloadLivebookmark.accesskey  "R">
-<!ENTITY cmd.reloadMicrosummary.label      "Recarregar título dinâmico">
-<!ENTITY cmd.reloadMicrosummary.accesskey  "R">
 
 <!ENTITY cmd.moveBookmarks.label                  "Mover...">
 <!ENTITY cmd.moveBookmarks.accesskey              "M">
