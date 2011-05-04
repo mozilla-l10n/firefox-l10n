@@ -1,3 +1,8 @@
+<!ENTITY tracking.label                 "Suandar fastiz">
+
+<!ENTITY doNotTrack.label               "Infurmar websites da na betg suandar mes fastiz">
+<!ENTITY doNotTrack.accesskey           "d">
+
 <!ENTITY  history.label                 "Cronologia">
 
 <!ENTITY  locationBar.label             "La trav d'adressas">
