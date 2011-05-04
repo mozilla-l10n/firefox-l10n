@@ -43,7 +43,7 @@
 <!ENTITY setup.newSyncKeyPage.description.label "Para asegurar su total privacidad, todos sus datos son cifrados antes de ser subidos. La clave para descifrar sus datos no es subida.">
 <!ENTITY syncKeyEntry.label        "Su clave de sincronización">
 <!ENTITY syncKeyEntry.accesskey    "z">
-<!ENTITY syncKeyGenerate.label     "Generar">
+<!ENTITY syncGenerateNewKey.label  "Generar una nueva clave">
 <!ENTITY syncKeyBackup.description "Se requiere su clave de sincronización para acceder a &syncBrand.fullName.label; en otras máquinas. Debe crear una copia de seguridad. No podemos ayudarlo a recuperar su clave de sincronización.">
 
 <!ENTITY button.syncKeyBackup.print.label     "Imprimir…">
