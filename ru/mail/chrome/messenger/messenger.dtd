@@ -638,6 +638,7 @@
 <!ENTITY loadRemoteContentButton3.label "Показать содержимое из сети">
 <!ENTITY phishingBarMessage2.label "Это сообщение может быть мошенническим.">
 <!ENTITY removePhishingBarButton1.label "Игнорировать предупреждение">
+<!ENTITY disablePhishingWarning1.label "Отключить проверку на мошенничество для всех сообщений">
 <!ENTITY reportPhishingError1.label "Это сообщение не похоже на мошенническое.">
 <!ENTITY mdnBarMessage.label "Отправитель этого сообщения запросил уведомление о прочтении вами этого сообщения. Вы хотите уведомить отправителя?">
 <!ENTITY mdnBarIgnoreButton.label "Игнорировать запрос">
