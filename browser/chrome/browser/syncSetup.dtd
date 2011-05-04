@@ -43,7 +43,7 @@
 <!ENTITY setup.newSyncKeyPage.description.label "Om uw totale privacy te waarborgen worden al uw gegevens voor het uploaden versleuteld. De Sync-sleutel, die nodig is om uw gegevens te ontcijferen, wordt niet geüpload.">
 <!ENTITY syncKeyEntry.label        "Uw Sync-sleutel">
 <!ENTITY syncKeyEntry.accesskey    "s">
-<!ENTITY syncKeyGenerate.label     "Genereren">
+<!ENTITY syncGenerateNewKey.label  "Nieuwe sleutel genereren">
 <!ENTITY syncKeyBackup.description "Uw Sync-sleutel is vereist voor de toegang van &syncBrand.fullName.label; op andere machines. Maak een reservekopie. We kunnen uw Sync-sleutel niet herstellen.">
 
 <!ENTITY button.syncKeyBackup.print.label     "Afdrukken…">
