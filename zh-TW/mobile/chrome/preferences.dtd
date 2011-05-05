@@ -8,6 +8,7 @@
 <!ENTITY enablePlugins.title                       "啟用外掛程式">
 <!ENTITY privacy.title                             "個人隱私與安全">
 <!ENTITY allowCookies.title                        "接受 Cookie">
+<!ENTITY doNotTrack.title                          "告訴網站我不想被追蹤">
 <!ENTITY clearPrivateData2.title                   "清除隱私資訊">
 <!ENTITY clearPrivateData.button                   "清除">
 <!ENTITY rememberPasswords.title                   "記住密碼">
