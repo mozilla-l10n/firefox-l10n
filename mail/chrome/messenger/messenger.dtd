@@ -758,6 +758,7 @@ you can use these alternative items. Otherwise, their values should be empty.  -
 <!-- Phishing Bar -->
 <!ENTITY phishingBarMessage2.label "這可能是封詐騙信。">
 <!ENTITY removePhishingBarButton1.label "忽略警告">
+<!ENTITY disablePhishingWarning1.label "停用所有郵件的詐騙郵件偵測">
 <!ENTITY reportPhishingError1.label "這封信似乎不是詐騙信。">
 
 <!-- MDN Bar -->
