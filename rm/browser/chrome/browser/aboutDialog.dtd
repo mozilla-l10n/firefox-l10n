@@ -6,9 +6,9 @@
 <!ENTITY community.middle2          ", ina ">
 <!-- LOCALIZATION NOTE (community.creditsLink): This is a link title that links to about:credits. -->
 <!ENTITY community.creditsLink      "communitad globala">
-<!ENTITY community.end2             " che lavura communablamain per far meglier l'internet. Nus essan da l'avis che l'internet duess esser avert, public ed accessibel a mintgin senza restricziuns.">
+<!ENTITY community.end2             " che lavura communablamain per meglierar l'internet. Nus essan da l'avis che l'internet duess esser avert, public ed accessibel a mintgin senza restricziuns.">
 
-<!ENTITY contribute.start           "Interessescha quai tai? ">
+<!ENTITY contribute.start           "Interess? ">
 <!-- LOCALIZATION NOTE (contribute.getInvolvedLink): This is a link title that links to http://www.mozilla.org/contribute/. -->
 <!ENTITY contribute.getInvolvedLink "Ta participescha!">
 <!ENTITY contribute.end             "">
@@ -29,7 +29,7 @@
 <!-- LOCALIZATION NOTE (update.noUpdatesFound): try to make the localized text short (see bug 596813 for screenshots). -->
 <!ENTITY update.noUpdatesFound      "&brandShortName; è actual">
 <!-- LOCALIZATION NOTE (update.adminDisabled): try to make the localized text short (see bug 596813 for screenshots). -->
-<!ENTITY update.adminDisabled       "La funcziun d'actualisar è deactivada da tes administratur da sistem">
+<!ENTITY update.adminDisabled       "La funcziun dad actualisaziuns è deactivada da tes administratur da sistem">
 
 <!-- LOCALIZATION NOTE (update.failed.start,update.failed.linkText,update.failed.end):
      update.failed.start, update.failed.linkText, and update.failed.end all go into

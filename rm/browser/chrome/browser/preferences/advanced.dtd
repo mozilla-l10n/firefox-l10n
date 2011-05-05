@@ -17,7 +17,7 @@
 <!ENTITY useAutoScroll.accesskey         "A">
 <!ENTITY useSmoothScrolling.label        "Activar la defilada cuntinuanta">
 <!ENTITY useSmoothScrolling.accesskey    "n">
-<!ENTITY allowHWAccel.label              "Utilisar sche pussaivel l'acceleraziun entras hardware da grafica">
+<!ENTITY allowHWAccel.label              "Utilisar sche pussaivel l'acceleraziun cun hardware da grafica">
 <!ENTITY allowHWAccel.accesskey          "h">
 <!ENTITY checkSpelling.label             "Controllar l'ortografia durant l'endataziun">
 <!ENTITY checkSpelling.accesskey         "f">
@@ -46,9 +46,9 @@
 
   &limitCacheSizeBefore.label [textbox for cache size in MB] &limitCacheSizeAfter.label;
 -->
-<!ENTITY limitCacheSizeBefore.label      "Limitar il cache fin a">
+<!ENTITY limitCacheSizeBefore.label      "Limitar il cache a">
 <!ENTITY limitCacheSizeBefore.accesskey  "L">
-<!ENTITY limitCacheSizeAfter.label       "MB capacitad">
+<!ENTITY limitCacheSizeAfter.label       "MB da la memoria">
 <!ENTITY clearCacheNow.label             "Svidar ussa">
 <!ENTITY clearCacheNow.accesskey         "S">
 <!ENTITY overrideSmartCacheSize.label    "Surscriver l'administraziun automatica dal cache">

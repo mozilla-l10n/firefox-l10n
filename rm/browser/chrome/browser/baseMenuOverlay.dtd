@@ -15,13 +15,13 @@
 <!ENTITY productHelp.label        "Agid da &brandShortName;">
 <!ENTITY productHelp.accesskey    "d">
 <!ENTITY helpMac.commandkey       "?">
-<!ENTITY helpSafeMode.label       "Reaviar e deactivar supplements…">
+<!ENTITY helpSafeMode.label       "Reaviar e deactivar ils supplements…">
 <!ENTITY helpSafeMode.accesskey   "R">
 
 <!ENTITY helpTroubleshootingInfo.label      "Infurmaziuns per schliar problems">
 <!ENTITY helpTroubleshootingInfo.accesskey  "p">
 
-<!ENTITY helpFeedbackPage.label      "Trametter resun…">
+<!ENTITY helpFeedbackPage.label      "Trametter in resun…">
 <!ENTITY helpFeedbackPage.accesskey  "s">
 
 <!ENTITY preferencesCmdMac.label        "Preferenzas…">

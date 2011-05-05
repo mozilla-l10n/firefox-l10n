@@ -61,10 +61,10 @@
 <!ENTITY  dontrememberActions.clearHistory.label "stizzar l'entira cronologia pli nova">
 <!ENTITY  dontrememberActions.post.label         ".">
 
-<!ENTITY  privateBrowsingPermanent.label "Navigar permanentamain en il modus privat">
+<!ENTITY  privateBrowsingPermanent.label "Adina navigar en il modus privat">
 <!ENTITY  privateBrowsingPermanent.accesskey "p">
 
-<!ENTITY  rememberHistory.label      "Memorisar mia cronologia da navigar">
+<!ENTITY  rememberHistory.label      "Memorisar mia cronologia da navigaziun">
 <!ENTITY  rememberHistory.accesskey  "c">
 
 <!ENTITY  rememberDownload.label         "Memorisar la cronologia da telechargiadas">

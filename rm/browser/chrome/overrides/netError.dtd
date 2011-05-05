@@ -44,7 +44,7 @@
 -->
 <!ENTITY netOffline.overrideLongDesc "
 <ul>
-  <li>Deactivescha l'element &quot;Lavurar offline&quot; dal menu ed emprova danovamain.</li>
+  <li>Deactivescha &quot;Lavurar offline&quot; en il menu ed emprova danovamain.</li>
 </ul>
 ">
 
@@ -101,7 +101,7 @@
 <p>Questas furmas da falsificaziun en il web vegnan utilisadas per emprovas d'engion ch'ins numna &quot;attatgas da phishing&quot;. Criminals cun l'intenziun d'engianar emprovan uschia d'imitar paginas d'internet u e-mails che inspiran confidenza.</p>">
 
 <!ENTITY cspFrameAncestorBlocked.title "Bloccà da las directivas per la segirtad dal cuntegn">
-<!ENTITY cspFrameAncestorBlocked.longDesc "<p>&brandShortName; ha impedì questa pagina da chargiar a tala maniera perquai che la pagina cuntegna directivas per la segirtad dal cuntegn (content security policy) che impedeschan quai.</p>">
+<!ENTITY cspFrameAncestorBlocked.longDesc "<p>&brandShortName; ha impedì che questa pagina da chargia en questa moda perquai che la pagina cuntegna directivas per la segirtad dal cuntegn (content security policy) che scumondan quai.</p>">
 
 <!ENTITY securityOverride.linkText "Ti pos era agiuntar ina regla d'excepziun…">
 <!ENTITY securityOverride.getMeOutOfHereButton "Bandunar questa pagina!">
