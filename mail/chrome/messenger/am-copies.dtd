@@ -21,22 +21,26 @@
 <!ENTITY sentFolderOn.accesskey "S">
 <!ENTITY sentInOtherFolder.label "Eile:">
 <!ENTITY sentInOtherFolder.accesskey "E">
+<!-- LOCALIZATION NOTE (archivesFolderOn.label): OK to translate this, bug #57440 -->
+<!ENTITY archivesTitle.label "Message Archives">
+<!ENTITY keepArchives.label "Keep message archives in:">
+<!ENTITY keepArchives.accesskey "K">
+<!ENTITY archiveHierarchyButton.label "Archive options…">
+<!ENTITY archiveHierarchyButton.accesskey "A">
+<!ENTITY archivesFolderOn.label "Fillteán &quot;Cartlanna&quot; ar:">
+<!ENTITY archivesFolderOn.accesskey "r">
+<!ENTITY archiveInOtherFolder.label "Eile:">
+<!ENTITY archiveInOtherFolder.accesskey "E">
+<!ENTITY specialFolders.label "Drafts and Templates">
+<!ENTITY keepDrafts.label "Coimeád dréacht-theachtaireachtaí i:">
 <!-- LOCALIZATION NOTE (draftsFolderOn.label): OK to translate this, bug #57440 -->
 <!ENTITY draftsFolderOn.label "Fillteán &quot;Dréachtaí&quot; ar:">
 <!ENTITY draftsFolderOn.accesskey "D">
 <!ENTITY draftInOtherFolder.label "Eile:">
 <!ENTITY draftInOtherFolder.accesskey "E">
-<!-- LOCALIZATION NOTE (archivesFolderOn.label): OK to translate this, bug #57440 -->
-<!ENTITY archivesFolderOn.label "Fillteán &quot;Cartlanna&quot; ar:">
-<!ENTITY archivesFolderOn.accesskey "r">
-<!ENTITY archiveInOtherFolder.label "Eile:">
-<!ENTITY archiveInOtherFolder.accesskey "E">
+<!ENTITY keepTemplates.label "Coimeád teimpléid i:">
 <!-- LOCALIZATION NOTE (templatesFolderOn.label): OK to translate this, bug #57440 -->
 <!ENTITY templatesFolderOn.label "Fillteán &quot;Teimpléid&quot; ar:">
 <!ENTITY templatesFolderOn.accesskey "m">
 <!ENTITY templateInOtherFolder.label "Eile:">
 <!ENTITY templateInOtherFolder.accesskey "E">
-<!ENTITY specialFoldersTitle.label "Dréachtaí, Cartlanna agus Teimpléid">
-<!ENTITY keepDrafts.label "Coimeád dréacht-theachtaireachtaí i:">
-<!ENTITY keepArchives.label "Coimeád cartlanna teachtaireachta i:">
-<!ENTITY keepTempltes.label "Coimeád teimpléid i:">

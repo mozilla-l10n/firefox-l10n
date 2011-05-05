@@ -39,7 +39,7 @@
 <!ENTITY saveAsFileCmd.key "s">
 <!ENTITY saveAsTemplateCmd.label "Teimpléad">
 <!ENTITY saveAsTemplateCmd.accesskey "T">
-<!ENTITY getNewMsgCmd.key "t">
+<!ENTITY getNewMsgCmd.key "d">
 <!ENTITY getNewMsgForCmd.label "Faigh Teachtaireachtaí Nua do">
 <!ENTITY getNewMsgForCmd.accesskey "T">
 <!ENTITY getAllNewMsgCmdPopupMenu.label "Gach Cuntas">
@@ -522,7 +522,7 @@ you can use these alternative items. Otherwise, their values should be empty.  -
 <!ENTITY getMsgButton.tooltip "Faigh teachtaireachtaí nua">
 <!ENTITY getAllNewMsgCmd.label "Faigh Gach Teachtaireacht Nua">
 <!ENTITY getAllNewMsgCmd.accesskey "g">
-<!ENTITY getAllNewMsgCmd.key "t">
+<!ENTITY getAllNewMsgCmd.key "d">
 <!ENTITY newMsgButton.tooltip "Cruthaigh teachtaireacht nua">
 <!ENTITY replyButton.tooltip "Freagair an teachtaireacht">
 <!ENTITY replyAllButton.tooltip "Freagair an seoltóir agus gach faighteoir">
@@ -759,6 +759,7 @@ you can use these alternative items. Otherwise, their values should be empty.  -
 
 <!ENTITY phishingBarMessage2.label "Meastar gur camscéim í an teachtaireacht seo.">
 <!ENTITY removePhishingBarButton1.label "Tabhair neamhaird ar rabhadh">
+<!ENTITY disablePhishingWarning1.label "Disable scam detection for all messages">
 <!ENTITY reportPhishingError1.label "Ní camscéim ríomhphoist é seo.">
 <!-- MDN Bar -->
 
