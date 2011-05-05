@@ -38,8 +38,14 @@
 <!ENTITY editorWindow.titlemodifier "Компоновщик">
 <!ENTITY editorWindow.titlemodifiermenuseparator " - ">
 <!ENTITY compositionToolbar.tooltip "Панель компоновки">
-<!ENTITY viewMenu.label "Вид">
-<!ENTITY viewMenu.accesskey "и">
+<!ENTITY previewToolbarCmd.label "Просмотр">
+<!ENTITY previewToolbarCmd.tooltip "Загрузить эту страницу в браузер">
+<!ENTITY exportToTextCmd.label "Экспорт в текстовый формат…">
+<!ENTITY exportToTextCmd.accesskey "т">
+<!ENTITY previewCmd.label "Просмотр страницы">
+<!ENTITY previewCmd.accesskey "м">
+<!ENTITY sendPageCmd.label "Отправить страницу…">
+<!ENTITY sendPageCmd.accesskey "т">
 <!ENTITY compositionToolbarCmd.label "Панель компоновки">
 <!ENTITY compositionToolbarCmd.accesskey "к">
 <!ENTITY formattingToolbarCmd.label "Панель форматирования">
