@@ -1,4 +1,9 @@
-<!ENTITY  history.label "Historik">
+<!ENTITY tracking.label                 "Sporing">
+
+<!ENTITY doNotTrack.label               "Fortæl websteder at jeg ikke ønsker at blive sporet">
+<!ENTITY doNotTrack.accesskey           "w">
+
+<!ENTITY  history.label                 "Historik">
 
 <!ENTITY  locationBar.label             "Adresselinje">
 
