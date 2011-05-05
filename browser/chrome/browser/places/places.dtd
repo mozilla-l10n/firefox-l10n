@@ -4,7 +4,7 @@
 <!ENTITY places.library.height "500">
 <!ENTITY organize.label        "Administrar">
 <!ENTITY organize.accesskey    "A">
-<!ENTITY organize.tooltip      "Administrar tes segnapaginas">
+<!ENTITY organize.tooltip      "Administrar ils segnapaginas">
 
 <!ENTITY file.accesskey                 "D">
 <!ENTITY file.close.label               "Serrar">
@@ -111,7 +111,7 @@
 
 <!ENTITY maintenance.label      "Importar e far ina copia da segirezza">
 <!ENTITY maintenance.accesskey  "I">
-<!ENTITY maintenance.tooltip    "Importar e far ina copia da segirezza da tes segnapaginas">
+<!ENTITY maintenance.tooltip    "Importar e far ina copia da segirezza dals segnapaginas">
 
 <!ENTITY backCmd.label       "Enavos">
 <!ENTITY backButton.tooltip  "A la pagina precedenta">

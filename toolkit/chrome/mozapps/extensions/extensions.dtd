@@ -1,13 +1,13 @@
 <!ENTITY addons.windowTitle                   "Administraziun dals supplements">
 <!ENTITY search.placeholder                   "Tschertgar en ils supplements">
 <!ENTITY loading.label                        "Chargiar…">
-<!ENTITY listEmpty.installed.label            "Da quest tip has ti anc installà nagins supplements">
+<!ENTITY listEmpty.installed.label            "Ti n'has anc installà nagins supplements da quest tip">
 <!ENTITY listEmpty.availableUpdates.label     "Chattà naginas actualisaziuns">
-<!ENTITY listEmpty.recentUpdates.label        "L'ultim temps has ti actualisà nagins supplements">
+<!ENTITY listEmpty.recentUpdates.label        "Ti n'has actualisà nagins supplements l'ultim temp">
 <!ENTITY listEmpty.findUpdates.label          "Tschertgar actualisaziuns">
-<!ENTITY listEmpty.search.label               "Betg pussaivel da chattar supplements correspundents">
+<!ENTITY listEmpty.search.label               "Betg chattà supplements correspundents">
 <!ENTITY listEmpty.button.label               "Emprenda dapli davart supplements">
-<!ENTITY installAddonFromFile.label           "Installar in supplement d'ina datoteca…">
+<!ENTITY installAddonFromFile.label           "Installar in supplement a basa dad ina datoteca…">
 <!ENTITY installAddonFromFile.accesskey       "I">
 <!ENTITY toolsMenu.tooltip                    "Utensils per tut ils supplements">
 
@@ -84,7 +84,7 @@
 <!ENTITY cmd.showPreferencesUnix.tooltip      "Midar las preferenzas da quest supplement">
 <!ENTITY cmd.contribute.label                 "Contribuir">
 <!ENTITY cmd.contribute.accesskey             "C">
-<!ENTITY cmd.contribute.tooltip               "Contribuir al sviluppar da quest supplement">
+<!ENTITY cmd.contribute.tooltip               "Contribuir al svilup da quest supplement">
 
 <!ENTITY cmd.showReleaseNotes.label           "Mussar las notizias da publicaziun">
 <!ENTITY cmd.showReleaseNotes.tooltip         "Mussar las notizias da publicaziun per questa actualisaziun">
@@ -96,10 +96,10 @@
      Displayed in the center of the Get Add-ons view, see bug 601143 for mockups. -->
 <!ENTITY discover.title                       "Tge èn supplements?">
 <!ENTITY discover.description2                "Supplements èn applicaziuns che ta laschan persunalisar &brandShortName; cun
-  funcziunalitads u designs spezials. Emprova ina trav laterala che ta spargna temp, in supplement d'infurmaziuns davart l'aura u
-  ina autra cumparsa per che &brandShortName; saja tes navigatur persunal.">
-<!ENTITY discover.footer                      "Sche ti has ina connexiun cun l'internet mussa questa pagina ina survista dals
-  megliers e pli derasads supplements che ti pudessas empruvar.">
+  funcziuns u designs spezials. Emprova ina trav laterala che ta gida a spargnar temp, in supplement d'infurmaziuns davart l'aura u
+  ina autra cumparsa da &brandShortName;.">
+<!ENTITY discover.footer                      "Sche ti disponas dad ina connexiun a l'internet mussa questa pagina ina survista dals
+  megliers e pli enconuschents supplements che ti pudessas empruvar.">
 
 <!-- detail view -->
 <!ENTITY detail.version.label                 "Versiun">
@@ -108,11 +108,11 @@
 <!ENTITY detail.homepage.label                "Website">
 <!ENTITY detail.numberOfDownloads.label       "Telechargiadas">
 
-<!ENTITY detail.contributions.description     "Il sviluppader da quest supplement ta dumonda da sustegnair il svilup dal supplement cun in pitschen sustegn finanzial.">
+<!ENTITY detail.contributions.description     "Il sviluppader da quest supplement ta dumonda da sustegnair il svilup dal supplement cun ina pitschna contribuziun finanziala.">
 
 <!ENTITY detail.updateType                    "Actualisaziuns automaticas">
 <!ENTITY detail.updateDefault.label           "Standard">
-<!ENTITY detail.updateDefault.tooltip         "Be installar automaticamain las actualisaziun sche quai è il standard">
+<!ENTITY detail.updateDefault.tooltip         "Mo installar automaticamain las actualisaziun sche quai è definì tenor standard">
 <!ENTITY detail.updateAutomatic.label         "Activà">
 <!ENTITY detail.updateAutomatic.tooltip       "Installar automaticamain las actualisaziuns">
 <!ENTITY detail.updateManual.label            "Deactivà">
@@ -177,13 +177,13 @@
 <!ENTITY addon.install.label                  "Installar">
 <!ENTITY addon.install.tooltip                "Installar quest supplement">
 <!ENTITY addon.updateNow.label                "Actualisar ussa">
-<!ENTITY addon.updateNow.tooltip              "Installar l'actualisaziun per quest supplement">
+<!ENTITY addon.updateNow.tooltip              "Installar l'actualisaziun da quest supplement">
 <!ENTITY addon.includeUpdate.label            "Includer en l'actualisaziun">
 <!ENTITY addon.updateAvailable.label          "Ina actualisaziun è disponibla">
 <!ENTITY addon.checkingForUpdates.label       "Tschertgar actualisaziuns…">
 <!ENTITY addon.releaseNotes.label             "Notizias da publicaziun:">
 <!ENTITY addon.loadingReleaseNotes.label      "Chargiar…">
-<!ENTITY addon.errorLoadingReleaseNotes.label "Igl è capità ina errur cun chargiar las notizias da publicaziun.">
+<!ENTITY addon.errorLoadingReleaseNotes.label "Cun chargiar las notizias da publicaziun è ina errur cumparida.">
 
 <!ENTITY addon.createdBy.label                "Da ">
 

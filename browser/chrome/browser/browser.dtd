@@ -33,7 +33,7 @@ can reach it easily. -->
 <!ENTITY  moveToNewGroup.label               "Nova gruppa">
 <!ENTITY  moveToNewWindow.label              "Spustar en ina nova fanestra">
 <!ENTITY  moveToNewWindow.accesskey          "n">
-<!ENTITY  bookmarkAllTabs.label              "Agiuntar segnapaginas per tut ils tabs…">
+<!ENTITY  bookmarkAllTabs.label              "Agiuntar in segnapagina per mintga tab…">
 <!ENTITY  bookmarkAllTabs.accesskey          "t">
 <!ENTITY  undoCloseTab.label                 "Restituir il tab serrà">
 <!ENTITY  undoCloseTab.accesskey             "R">
@@ -136,7 +136,7 @@ can reach it easily. -->
 <!ENTITY homeButton.label             "Pagina da partenza">
 
 <!ENTITY tabGroupsButton.label        "Gruppas da tabs">
-<!ENTITY tabGroupsButton.tooltip      "Far gruppas cun tes tabs">
+<!ENTITY tabGroupsButton.tooltip      "Far gruppas cun ils tabs">
 
 <!ENTITY feedButton.label             "Abunar">
 <!ENTITY feedButton.tooltip           "Abunar questa pagina…">
@@ -150,7 +150,7 @@ can reach it easily. -->
 <!ENTITY bookmarksMenuButton.tooltip        "Mussar tes segnapaginas">
 <!ENTITY bookmarksMenuButton.unsorted.label "Segnapaginas betg zavrads">
 <!ENTITY viewBookmarksSidebar.label         "Mussar en la trav laterala">
-<!ENTITY viewBookmarksToolbar.label         "Mussar la trav d'utensils da segnapaginas">
+<!ENTITY viewBookmarksToolbar.label         "Mussar la trav dals utensils da segnapaginas">
 
 <!-- LOCALIZATION NOTE (bookmarksSidebarGtkCmd.commandkey): This command
   -  key should not contain the letters A-F, since these are reserved
@@ -262,7 +262,7 @@ can reach it easily. -->
 <!ENTITY viewSidebarMenu.accesskey "T">
 <!ENTITY viewCustomizeToolbar.label       "Modifitgar…"> 
 <!ENTITY viewCustomizeToolbar.accesskey     "a">
-<!ENTITY viewTabsOnTop.label            "Mussar tabs survart">
+<!ENTITY viewTabsOnTop.label            "Plazzar sisum ils tabs">
 <!ENTITY viewTabsOnTop.accesskey        "t">
 
 <!ENTITY historyMenu.label "Cronologia">
@@ -284,11 +284,11 @@ can reach it easily. -->
 <!ENTITY appMenuUnsorted.label "Segnapaginas betg zavrads">
 <!ENTITY appMenuWebDeveloper.label "Sviluppaders dal web">
 <!ENTITY appMenuGettingStarted.label "Entschaiver">
-<!ENTITY appMenuSafeMode.label "Reaviar e deactivar supplements…">
+<!ENTITY appMenuSafeMode.label "Reaviar e deactivar ils supplements…">
 <!ENTITY appMenuSafeMode.accesskey "R">
 
 <!ENTITY openCmd.commandkey           "l">
-<!ENTITY urlbar.placeholder           "Ir ad ina pagina web">
+<!ENTITY urlbar.placeholder           "Visitar ina pagina web">
 <!ENTITY urlbar.accesskey             "d">
 <!ENTITY urlbar.switchToTab.label     "Midar al tab:">
 
@@ -320,7 +320,7 @@ can reach it easily. -->
 <!ENTITY openLinkCmdInTab.accesskey   "t">
 <!ENTITY openLinkCmd.label            "Avrir la colliaziun en ina nova fanestra">
 <!ENTITY openLinkCmd.accesskey        "f">
-<!ENTITY openLinkCmdInCurrent.label     "Avrir colliaziun">
+<!ENTITY openLinkCmdInCurrent.label     "Avrir la colliaziun">
 <!ENTITY openLinkCmdInCurrent.accesskey "A">
 <!ENTITY openFrameCmdInTab.label      "Avrir il frame en in nov tab">
 <!ENTITY openFrameCmdInTab.accesskey  "t">
