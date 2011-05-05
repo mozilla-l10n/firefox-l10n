@@ -43,7 +43,7 @@
 <!ENTITY setup.newSyncKeyPage.description.label "為了確保您的隱私，您所有的資料都會在上傳前被加密。同時也需要金鑰來解密還沒有上傳的資料。">
 <!ENTITY syncKeyEntry.label        "您的同步金鑰">
 <!ENTITY syncKeyEntry.accesskey    "K">
-<!ENTITY syncKeyGenerate.label     "產生">
+<!ENTITY syncGenerateNewKey.label  "產生新的金鑰">
 <!ENTITY syncKeyBackup.description "您需要同步金鑰以存取其他電腦上的 &syncBrand.fullName.label;。請記得做好備份，我們無法幫您找回同步金鑰。">
 
 <!ENTITY button.syncKeyBackup.print.label     "列印…">
