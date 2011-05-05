@@ -6,7 +6,6 @@
 <!ENTITY editBookmarkOverlay.feedLocation.accesskey          "F">
 <!ENTITY editBookmarkOverlay.siteLocation.label              "ਸਾਇਟ ਟਿਕਾਣਾ:">
 <!ENTITY editBookmarkOverlay.siteLocation.accesskey          "S">
-<!ENTITY editBookmarkOverlay.liveTitlesSeparator.label       "ਲਾਈਵ ਟਾਇਟਲ">
 <!ENTITY editBookmarkOverlay.folder.label                    "ਫੋਲਡਰ:">
 <!ENTITY editBookmarkOverlay.foldersExpanderDown.tooltip     "ਸਭ ਬੁੱਕਮਾਰਕ ਫੋਲਡਰ ਵੇਖੋ">
 <!ENTITY editBookmarkOverlay.expanderUp.tooltip              "ਓਹਲੇ">
