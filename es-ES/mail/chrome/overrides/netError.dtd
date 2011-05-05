@@ -152,4 +152,4 @@
 <button id='exceptionDialogButton'>&securityOverride.exceptionButtonLabel;</button>
 ">
 <!ENTITY remoteXUL.title "XUL remoto">
-<!ENTITY remoteXUL.longDesc "<p><ul><li>Por favor, contact con los propietarios del sitio web para informarles de este problema.</li></ul></p>">
+<!ENTITY remoteXUL.longDesc "<p><ul><li>Por favor, contacte con los propietarios del sitio web para informarles de este problema.</li></ul></p>">
