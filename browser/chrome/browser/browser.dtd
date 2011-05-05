@@ -104,7 +104,7 @@ can reach it easily. -->
 <!ENTITY subscribeToPageMenuitem.label "Odebírat kanál této stránky…">
 <!ENTITY addCurPagesCmd.label "Přidat všechny panely do záložek…">
 <!ENTITY showAllBookmarks2.label "Zobrazit všechny záložky">
-<!ENTITY bookmarkAllCmd.label "Přidat všechny panely do záložek…">
+<!ENTITY unsortedBookmarksCmd.label "Netříděné záložky">
 <!ENTITY bookmarksToolbarChevron.tooltip "Zobrazí více záložek">
 
 <!ENTITY backCmd.label "Zpět">
