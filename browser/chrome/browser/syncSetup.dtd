@@ -43,7 +43,7 @@
 <!ENTITY setup.newSyncKeyPage.description.label "Gus do phrìobhaideachd iomlan a dhèanamh cinnteach, thèid an dàta gu lèir agad a dhubh-cheileadh mus dèid a luchdadh suas. Cha dèid an iuchair co-shioncronachaidh airson dì-cheileadh an dàta agad a luchdadh suas.">
 <!ENTITY syncKeyEntry.label        "An iuchair co-shioncronachaidh agad">
 <!ENTITY syncKeyEntry.accesskey    "A">
-<!ENTITY syncKeyGenerate.label     "Gin">
+<!ENTITY syncGenerateNewKey        "Gin iuchair ùr">
 <!ENTITY syncKeyBackup.description "Tha feum air an iuchair cho-shioncronachaidh agad gus inntrigeadh a dhèanamh do &syncBrand.fullName.label; air innealan eile. Cruthaich lethbhreac glèidhidh. Chan urrainn dhuinn an iuchair co-shioncronachaidh aiseag dhut.">
 
 <!ENTITY button.syncKeyBackup.print.label     "Clò-bhuail…">
