@@ -44,6 +44,16 @@
 
 <!-- Toolbar-only items -->
 <!ENTITY compositionToolbar.tooltip "Barra de ferramentas de composição">
+<!ENTITY previewToolbarCmd.label "Navegar">
+<!ENTITY previewToolbarCmd.tooltip "Carregar esta página no navegador">
+
+<!-- File menu items -->
+<!ENTITY exportToTextCmd.label "Exportar para texto…">
+<!ENTITY exportToTextCmd.accesskey "t">
+<!ENTITY previewCmd.label "Navegar na página">
+<!ENTITY previewCmd.accesskey "v">
+<!ENTITY sendPageCmd.label "Enviar página…">
+<!ENTITY sendPageCmd.accesskey "g">
 
 <!-- View menu items -->
 <!ENTITY compositionToolbarCmd.label "Barra de Ferramentas de Composição">
