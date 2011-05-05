@@ -758,6 +758,7 @@ you can use these alternative items. Otherwise, their values should be empty.  -
 <!-- Phishing Bar -->
 <!ENTITY phishingBarMessage2.label "Dh'fhaodadh gu bheil an teachdaireachd seo 'na fhallsaicheachd-lìn.">
 <!ENTITY removePhishingBarButton1.label "Leig seachad an rabhadh">
+<!ENTITY disablePhishingWarning1.label "Cuir à comas lorg de dh'fhallsaidheachd-lìn anns gach teachdaireachd">
 <!ENTITY reportPhishingError1.label "Tha coltas nach eil an teachdaireachd seo 'na fhallsaidheachd-lìn.">
 
 <!-- MDN Bar -->
