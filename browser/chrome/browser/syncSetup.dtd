@@ -31,7 +31,7 @@
 <!ENTITY setup.newSyncKeyPage.description.label "Para asegurar una privacidad total, todos los datos son cifrados antes de ser enviados. La clave de Sync, que es necesaria para descifrar sus datos, no es enviada.">
 <!ENTITY syncKeyEntry.label "Su clave de Sync">
 <!ENTITY syncKeyEntry.accesskey "c">
-<!ENTITY syncKeyGenerate.label "Generar">
+<!ENTITY syncGenerateNewKey.label "Generar una nueva clave">
 <!ENTITY syncKeyBackup.description "Su clave de Sync es necesaria para acceder a &syncBrand.fullName.label; en otros equipos. Por favor, cree una copia ahora. No podemos ayudarle a recuperar su clave de Sync.">
 <!ENTITY button.syncKeyBackup.print.label "Imprimir…">
 <!ENTITY button.syncKeyBackup.print.accesskey "p">
