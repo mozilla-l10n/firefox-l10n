@@ -1,12 +1,12 @@
-<!-- extracted from am-archiveoptions.xul -->
+ï»¿<!-- extracted from am-archiveoptions.xul -->
 
-<!ENTITY dialogTitle.label "Opções de arquivamento">
-<!ENTITY archiveGranularityPrefix.label "Ao arquivar mensagens, colocá-las em:">
-<!ENTITY archiveFlat.label "Uma única pasta">
+<!ENTITY dialogTitle.label "OpÃ§Ãµes de arquivamento">
+<!ENTITY archiveGranularityPrefix.label "Ao arquivar mensagens, colocÃ¡-las em:">
+<!ENTITY archiveFlat.label "Uma Ãºnica pasta">
 <!ENTITY archiveFlat.accesskey "s">
 <!ENTITY archiveYearly.label "Pastas arquivadas por ano">
 <!ENTITY archiveYearly.accesskey "n">
-<!ENTITY archiveMonthly.label "Pastas arquivadas por mês">
+<!ENTITY archiveMonthly.label "Pastas arquivadas por mÃªs">
 <!ENTITY archiveMonthly.accesskey "m">
 <!ENTITY keepFolderStructure.label "Manter a estrutura actual das mensagens arquivadas na pasta">
 <!ENTITY keepFolderStructure.accesskey "K">
