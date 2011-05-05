@@ -43,7 +43,7 @@
 <!ENTITY setup.newSyncKeyPage.description.label "Z důvodu zajištění vašeho soukromí jsou všechna vaše data před nahráváním na server zašifrována. Klíč potřebný k rozšifrování vašich dat nahrán není.">
 <!ENTITY syncKeyEntry.label "Klíč">
 <!ENTITY syncKeyEntry.accesskey "K">
-<!ENTITY syncKeyGenerate.label "Vygenerovat">
+<!ENTITY syncGenerateNewKey.label "Vygenerovat nový klíč">
 <!ENTITY syncKeyBackup.description "Tento klíč je vyžadován k přístupu k &syncBrand.fullName.label; z ostatních zařízení. Vytvořte si prosím zálohu, neboť tento klíč není možné obnovit.">
 
 <!ENTITY button.syncKeyBackup.print.label "Tisk…">
