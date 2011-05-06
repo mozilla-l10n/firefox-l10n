@@ -48,8 +48,8 @@
 <!ENTITY resetToolbars.label "Athshocraigh barraí uirlisí agus rialtáin">
 <!ENTITY resetToolbars.accesskey "r">
 
-<!ENTITY changeAndRestartButton.label "Make Changes and Restart">
-<!ENTITY changeAndRestartButton.accesskey "M">
+<!ENTITY changeAndRestartButton.label "Cuir na hAthruithe i bhFeidhm agus Atosaigh">
+<!ENTITY changeAndRestartButton.accesskey "C">
 
-<!ENTITY continueButton.label "Continue in Safe Mode">
-<!ENTITY continueButton.accesskey "C">
+<!ENTITY continueButton.label "Lean Ar Aghaidh sa Mhód Sábháilteachta">
+<!ENTITY continueButton.accesskey "L">

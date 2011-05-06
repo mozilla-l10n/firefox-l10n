@@ -30,7 +30,7 @@
 <!ENTITY featureConfigurator.addOn.installed "Suiteáilte">
 <!-- LOCALIZATION NOTE (featureConfigurator.addOn.failure): The text to display when there is a problem installing the addon. -->
 
-<!ENTITY featureConfigurator.addOn.failure "There was a problem installing this extension!">
+<!ENTITY featureConfigurator.addOn.failure "Tharla earráid agus an eisínteacht seo á suiteáil!">
 <!-- LOCALIZATION NOTE (featureConfigurator.addOn.alreadyInstalled): The label to display when the addon is already installed. -->
 
 <!ENTITY featureConfigurator.addOn.alreadyInstalled "Tá an breiseán seo suiteáilte cheana.">

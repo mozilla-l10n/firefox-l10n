@@ -1,16 +1,16 @@
 <!-- extracted from am-archiveoptions.xul -->
 
-<!ENTITY dialogTitle.label "Archive Options">
-<!ENTITY archiveGranularityPrefix.label "When archiving messages, place them in:">
-<!ENTITY archiveFlat.label "A single folder">
-<!ENTITY archiveFlat.accesskey "s">
-<!ENTITY archiveYearly.label "Yearly archived folders">
-<!ENTITY archiveYearly.accesskey "Y">
-<!ENTITY archiveMonthly.label "Monthly archived folders">
-<!ENTITY archiveMonthly.accesskey "M">
+<!ENTITY dialogTitle.label "Roghanna Cartlannaithe">
+<!ENTITY archiveGranularityPrefix.label "Agus teachtaireachtaí á gcartlannú, cuir:">
+<!ENTITY archiveFlat.label "i bhfillteán amháin iad">
+<!ENTITY archiveFlat.accesskey "a">
+<!ENTITY archiveYearly.label "i bhfillteáin bhliantúla iad">
+<!ENTITY archiveYearly.accesskey "b">
+<!ENTITY archiveMonthly.label "i bhfillteáin mhíosúla iad">
+<!ENTITY archiveMonthly.accesskey "m">
 <!ENTITY keepFolderStructure.label "Keep existing folder structure of archived messages">
 <!ENTITY keepFolderStructure.accesskey "K">
-<!ENTITY archiveExample.label "Example">
+<!ENTITY archiveExample.label "Sampla">
 <!-- LOCALIZATION NOTE (archiveFolderName.label): this should match the default
      name for the "Archives" folder -->
 <!ENTITY archiveFolderName.label "Cartlanna">
