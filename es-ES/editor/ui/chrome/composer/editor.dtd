@@ -46,8 +46,6 @@
 <!ENTITY previewCmd.accesskey "x">
 <!ENTITY sendPageCmd.label "Enviar página…">
 <!ENTITY sendPageCmd.accesskey "v">
-<!ENTITY viewMenu.label "Ver">
-<!ENTITY viewMenu.accesskey "V">
 <!ENTITY compositionToolbarCmd.label "Barra de herramientas de redacción">
 <!ENTITY compositionToolbarCmd.accesskey "B">
 <!ENTITY formattingToolbarCmd.label "Barra de formato">
