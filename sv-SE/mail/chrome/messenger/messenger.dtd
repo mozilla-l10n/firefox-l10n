@@ -73,7 +73,7 @@
 <!ENTITY saveAsFileCmd.key "s">
 <!ENTITY saveAsTemplateCmd.label "Mall">
 <!ENTITY saveAsTemplateCmd.accesskey "M">
-<!ENTITY getNewMsgCmd.key "t">
+<!ENTITY getNewMsgCmd.key "d">
 <!ENTITY getNewMsgForCmd.label "Hämta nya meddelanden för">
 <!ENTITY getNewMsgForCmd.accesskey "f">
 <!ENTITY getAllNewMsgCmdPopupMenu.label "Alla konton">
@@ -555,7 +555,7 @@ you can use these alternative items. Otherwise, their values should be empty.  -
 <!ENTITY getMsgButton.tooltip "Hämtar nya meddelanden">
 <!ENTITY getAllNewMsgCmd.label "Hämta alla nya meddelanden">
 <!ENTITY getAllNewMsgCmd.accesskey "H">
-<!ENTITY getAllNewMsgCmd.key "t">
+<!ENTITY getAllNewMsgCmd.key "d">
 <!ENTITY newMsgButton.tooltip "Skapar ett nytt meddelande">
 <!ENTITY replyButton.tooltip "Svarar avsändaren">
 <!ENTITY replyAllButton.tooltip "Svarar avsändaren och även alla mottagare">
