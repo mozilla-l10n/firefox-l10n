@@ -31,7 +31,7 @@
 <!ENTITY place.accesskey "s">
 <!ENTITY belowText.label "faoin athfhriotal (molta)">
 <!ENTITY aboveText.label "faoi mo fhreagra (os cionn an athfhriotail)">
-<!ENTITY includeSigOnReply.label "Include signature for replies">
-<!ENTITY includeSigOnReply.accesskey "I">
+<!ENTITY includeSigOnReply.label "Cuir an síniú i bhfreagraí">
+<!ENTITY includeSigOnReply.accesskey "i">
 <!ENTITY includeSigOnForward.label "Cuir síniú san áireamh i dteachtaireachtaí curtha ar aghaidh">
 <!ENTITY includeSigOnForward.accesskey "t">

@@ -92,8 +92,8 @@
 <!ENTITY markAsReadMenuItem.accesskey "r">
 <!ENTITY markAsUnreadMenuItem.label "Marcáil gan léamh">
 <!ENTITY markAsUnreadMenuItem.accesskey "r">
-<!ENTITY saveAsMenuItem.label "save as…">
-<!ENTITY saveAsMenuItem.accesskey "s">
+<!ENTITY saveAsMenuItem.label "Sábháil Mar…">
+<!ENTITY saveAsMenuItem.accesskey "S">
 <!ENTITY viewSourceMenuItem.label "Taispeáin foinse">
 <!ENTITY viewSourceMenuItem.accesskey "T">
 <!ENTITY otherActionsPrint.label "Priontáil…">
@@ -104,8 +104,8 @@
 <!ENTITY openAttachmentCmd.accesskey "O">
 <!ENTITY saveAsAttachmentCmd.label "Sábháil Mar…">
 <!ENTITY saveAsAttachmentCmd.accesskey "a">
-<!ENTITY detachAttachmentCmd.label "Detach…">
-<!ENTITY detachAttachmentCmd.accesskey "T">
+<!ENTITY detachAttachmentCmd.label "Dícheangail…">
+<!ENTITY detachAttachmentCmd.accesskey "c">
 <!ENTITY deleteAttachmentCmd.label "Scrios">
 <!ENTITY deleteAttachmentCmd.accesskey "c">
 <!ENTITY openAllAttachmentsCmd.label "Oscail Uile…">
@@ -118,24 +118,24 @@
 <!ENTITY deleteAllAttachmentsCmd.accesskey "c">
 <!-- Attachment toolbar items -->
 
-<!ENTITY saveAttachmentButton.label "save">
-<!ENTITY saveAttachmentButton.tooltip "save the attached file">
-<!ENTITY saveAllAttachmentsButton.label "save all">
-<!ENTITY saveAllAttachmentsButton.tooltip "save all the attached files">
-<!ENTITY openAttachmentMenuItem.label "open">
-<!ENTITY openAttachmentMenuItem.accesskey "o">
-<!ENTITY saveAsAttachmentMenuItem.label "save as…">
-<!ENTITY saveAsAttachmentMenuItem.accesskey "s">
-<!ENTITY detachAttachmentMenuItem.label "detach…">
-<!ENTITY detachAttachmentMenuItem.accesskey "d">
-<!ENTITY deleteAttachmentMenuItem.label "delete">
-<!ENTITY deleteAttachmentMenuItem.accesskey "e">
-<!ENTITY saveAllAttachmentsMenuItem.label "save all…">
-<!ENTITY saveAllAttachmentsMenuItem.accesskey "s">
-<!ENTITY detachAllAttachmentsMenuItem.label "detach all…">
-<!ENTITY detachAllAttachmentsMenuItem.accesskey "d">
-<!ENTITY deleteAllAttachmentsMenuItem.label "delete all…">
-<!ENTITY deleteAllAttachmentsMenuItem.accesskey "e">
+<!ENTITY saveAttachmentButton.label "Sábháil">
+<!ENTITY saveAttachmentButton.tooltip "Sábháil an t-iatán">
+<!ENTITY saveAllAttachmentsButton.label "Sábháil uile">
+<!ENTITY saveAllAttachmentsButton.tooltip "Sábháil gach iatán">
+<!ENTITY openAttachmentMenuItem.label "Oscail">
+<!ENTITY openAttachmentMenuItem.accesskey "O">
+<!ENTITY saveAsAttachmentMenuItem.label "Sábháil Mar…">
+<!ENTITY saveAsAttachmentMenuItem.accesskey "S">
+<!ENTITY detachAttachmentMenuItem.label "Dícheangail…">
+<!ENTITY detachAttachmentMenuItem.accesskey "D">
+<!ENTITY deleteAttachmentMenuItem.label "Scrios">
+<!ENTITY deleteAttachmentMenuItem.accesskey "c">
+<!ENTITY saveAllAttachmentsMenuItem.label "Sábháil uile…">
+<!ENTITY saveAllAttachmentsMenuItem.accesskey "S">
+<!ENTITY detachAllAttachmentsMenuItem.label "Dícheangail uile…">
+<!ENTITY detachAllAttachmentsMenuItem.accesskey "D">
+<!ENTITY deleteAllAttachmentsMenuItem.label "Scrios uile…">
+<!ENTITY deleteAllAttachmentsMenuItem.accesskey "c">
 
 <!ENTITY copyLinkCmd.label "Cóipeáil Suíomh an Naisc">
 <!ENTITY copyLinkCmd.accesskey "C">

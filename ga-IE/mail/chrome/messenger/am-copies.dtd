@@ -22,16 +22,16 @@
 <!ENTITY sentInOtherFolder.label "Eile:">
 <!ENTITY sentInOtherFolder.accesskey "E">
 <!-- LOCALIZATION NOTE (archivesFolderOn.label): OK to translate this, bug #57440 -->
-<!ENTITY archivesTitle.label "Message Archives">
-<!ENTITY keepArchives.label "Keep message archives in:">
-<!ENTITY keepArchives.accesskey "K">
-<!ENTITY archiveHierarchyButton.label "Archive options…">
-<!ENTITY archiveHierarchyButton.accesskey "A">
+<!ENTITY archivesTitle.label "Cartlanna Teachtaireachtaí">
+<!ENTITY keepArchives.label "Coimeád cartlanna teachtaireachta i:">
+<!ENTITY keepArchives.accesskey "C">
+<!ENTITY archiveHierarchyButton.label "Roghanna cartlannaithe…">
+<!ENTITY archiveHierarchyButton.accesskey "R">
 <!ENTITY archivesFolderOn.label "Fillteán &quot;Cartlanna&quot; ar:">
 <!ENTITY archivesFolderOn.accesskey "r">
 <!ENTITY archiveInOtherFolder.label "Eile:">
 <!ENTITY archiveInOtherFolder.accesskey "E">
-<!ENTITY specialFolders.label "Drafts and Templates">
+<!ENTITY specialFolders.label "Dréachtaí agus Teimpléid">
 <!ENTITY keepDrafts.label "Coimeád dréacht-theachtaireachtaí i:">
 <!-- LOCALIZATION NOTE (draftsFolderOn.label): OK to translate this, bug #57440 -->
 <!ENTITY draftsFolderOn.label "Fillteán &quot;Dréachtaí&quot; ar:">

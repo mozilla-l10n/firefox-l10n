@@ -83,7 +83,7 @@
 
 <!ENTITY editMenu.label "Eagar">
 <!ENTITY editMenu.accesskey "E">
-<!ENTITY pasteNoFormatting.label "Paste Without Formatting">
+<!ENTITY pasteNoFormatting.label "Greamaigh Gan Formáidiú">
 <!ENTITY pasteNoFormatting.accesskey "n">
 <!ENTITY pasteNoFormatting.key "V">
 <!ENTITY pasteAs.label "Greamaigh Mar">

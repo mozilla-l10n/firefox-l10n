@@ -80,7 +80,7 @@
 <!ENTITY NormalMode.label "Gnáthmhód Eagarthóireachta">
 <!ENTITY NormalMode.accesskey "n">
 <!ENTITY NormalMode.tooltip "Taispeáin imlínte an tábla agus ancairí ainmnithe">
-<!ENTITY AllTagsModeTab.label "HTML Tags">
+<!ENTITY AllTagsModeTab.label "Clibeanna HTML">
 <!ENTITY AllTagsMode.label "Clibeanna HTML">
 <!ENTITY AllTagsMode.accesskey "a">
 <!ENTITY AllTagsMode.tooltip "Taispeáin deilbhín do gach clib HTML">

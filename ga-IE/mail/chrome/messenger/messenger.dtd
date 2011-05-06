@@ -12,8 +12,8 @@
 <!-- LOCALIZATION NOTE (undoCloseTabCmd.label):
      Menu option to attempt to re-open a recently closed tab.
      -->
-<!ENTITY recentlyClosedTabsCmd.label "Recently Closed Tabs">
-<!ENTITY recentlyClosedTabsCmd.accesskey "R">
+<!ENTITY recentlyClosedTabsCmd.label "Cluaisíní a Dúnadh le Déanaí">
+<!ENTITY recentlyClosedTabsCmd.accesskey "D">
 
 <!ENTITY undoCloseTabCmd.commandkey "T">
 <!-- LOCALIZATION NOTE (moveToNewWindow.label):
@@ -765,7 +765,7 @@ you can use these alternative items. Otherwise, their values should be empty.  -
 
 <!ENTITY mdnBarIgnoreButton2.label "Tabhair neamhaird air">
 <!ENTITY mdnBarIgnoreButton2.accesskey "i">
-<!ENTITY mdnBarSendButton2.label "Send Return Receipt">
+<!ENTITY mdnBarSendButton2.label "Seol Admháil Léite">
 <!ENTITY mdnBarSendButton2.accesskey "S">
 <!-- Quick Search Bar -->
 <!-- LOCALIZATION NOTE (quickSearchCmd.key):
