@@ -41,7 +41,7 @@
 <!ENTITY folderProps.windowtitle.label           "屬性">
 
 <!ENTITY generalInfo.label                       "一般資訊">
-<!ENTITY folderCharsetTab.label                  "預設語言及編碼方式:">
+<!ENTITY folderCharsetTab.label                  "預設字元編碼方式:">
 <!ENTITY folderCharsetTab.accesskey              "e">
 <!ENTITY folderCharsetOverride.label             "對此資料夾內所有郵件或文章套用預設值 (忽略 MIME 指定的字元集與自動偵測結果)">
 <!ENTITY folderCharsetOverride.accesskey         "A">
