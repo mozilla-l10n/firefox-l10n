@@ -792,6 +792,7 @@ you can use these alternative items. Otherwise, their values should be empty.  -
 <!-- Phishing Bar -->
 <!ENTITY phishingBarMessage2.label "Det här meddelandet kan vara en bluff.">
 <!ENTITY removePhishingBarButton1.label "Ignorera varningen">
+<!ENTITY disablePhishingWarning1.label "Inaktivera bluffvarning för alla meddelanden">
 <!ENTITY reportPhishingError1.label "Det här meddelandet verkar inte vara en bluff.">
 
 <!-- MDN Bar -->
