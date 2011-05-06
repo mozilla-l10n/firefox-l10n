@@ -25,7 +25,6 @@
 <!ENTITY replyWithTemplate.label "Ответить по шаблону">
 <!ENTITY markMessageRead.label "Отметить как прочитанное">
 <!ENTITY markMessageStarred.label "Присвоить флаг">
-<!ENTITY labelMessage.label "Пометить сообщение как">
 <!ENTITY setPriority.label "Изменить важность на">
 <!ENTITY addTag.label "Присвоить сообщению метку">
 <!ENTITY setJunkScore.label "Установить метку спама">
