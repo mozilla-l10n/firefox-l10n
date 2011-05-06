@@ -58,8 +58,6 @@
 <!ENTITY sendPageCmd.accesskey "c">
 
 <!-- View menu items -->
-<!ENTITY viewMenu.label "Visa">
-<!ENTITY viewMenu.accesskey "V">
 <!ENTITY compositionToolbarCmd.label "Skrivverktyg">
 <!ENTITY compositionToolbarCmd.accesskey "k">
 <!ENTITY formattingToolbarCmd.label "Formatverktyg">
