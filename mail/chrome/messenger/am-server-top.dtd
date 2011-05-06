@@ -21,7 +21,7 @@
 <!ENTITY connectionSecurity.label "連線安全性:">
 <!ENTITY connectionSecurity.accesskey "u">
 <!ENTITY connectionSecurityType-0.label "無">
-<!ENTITY connectionSecurityType-1.label "嘗試使用STARTTLS">
+<!ENTITY connectionSecurityType-1.label "嘗試使用 STARTTLS">
 <!ENTITY connectionSecurityType-2.label "STARTTLS">
 <!ENTITY connectionSecurityType-3.label "SSL/TLS">
 <!ENTITY authMethod.label "認證方式:">
@@ -39,7 +39,7 @@
 <!ENTITY downloadOnBiff.accesskey "m">
 <!ENTITY username.label "您的帳號名稱">
 <!ENTITY deleteMessagePrefix.label "當我刪除郵件時:">
-<!ENTITY modelMoveToTrash.label "丟到垃圾桶中">
+<!ENTITY modelMoveToTrash.label "移動到此資料夾:">
 <!ENTITY modelMoveToTrash.accesskey "o">
 <!ENTITY modelMarkDeleted.label "標示為「已刪除」">
 <!ENTITY modelMarkDeleted.accesskey "k">
@@ -69,7 +69,7 @@
 <!ENTITY abbreviateOff.label "縮寫 (例: 'n.p.m.mail-news')">
 <!ENTITY advancedButton.label "進階…">
 <!ENTITY advancedButton.accesskey "v">
-<!ENTITY serverDefaultCharset.label "預設語言及編碼方式:">
+<!ENTITY serverDefaultCharset.label "預設字元編碼方式:">
 <!ENTITY localFolderPicker.label "選取本機郵件匣">
 <!ENTITY browseFolder.label "瀏覽…">
 <!ENTITY browseFolder.accesskey "B">

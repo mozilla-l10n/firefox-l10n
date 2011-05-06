@@ -18,7 +18,7 @@
 <!ENTITY fontColor.accesskey                  "T">
 <!ENTITY bgColor.label                        "背景色彩:">
 <!ENTITY bgColor.accesskey                    "B">
-<!ENTITY restoreHTMLDefaults.label            "回復預設值">
+<!ENTITY restoreHTMLDefaults.label            "回復為預設值">
 <!ENTITY restoreHTMLDefaults.accesskey        "R">
 
 <!ENTITY spellCheck.label                     "寄送前先檢查拼字">

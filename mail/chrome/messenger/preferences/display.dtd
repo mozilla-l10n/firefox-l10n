@@ -24,7 +24,7 @@
 <!ENTITY backgroundColor.accesskey        "B">
 
 <!-- LOCALIZATION NOTE : (emoticonsAndStructs.label) 'Emoticons' are also known as 'Smileys', e.g. :-)   -->
-<!ENTITY convertEmoticons.label        "顯示表情符號圖示">
+<!ENTITY convertEmoticons.label        "顯示表情符號圖片">
 <!ENTITY convertEmoticons.accesskey    "D">
 
 <!-- labels -->

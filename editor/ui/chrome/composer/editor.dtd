@@ -44,10 +44,18 @@
 
 <!-- Toolbar-only items -->
 <!ENTITY compositionToolbar.tooltip "編輯工具列">
+<!ENTITY previewToolbarCmd.label "瀏覽">
+<!ENTITY previewToolbarCmd.tooltip "於瀏覽器中載入此頁面">
+
+<!-- File menu items -->
+<!ENTITY exportToTextCmd.label "輸出成純文字…">
+<!ENTITY exportToTextCmd.accesskey "t">
+<!ENTITY previewCmd.label "瀏覽頁面">
+<!ENTITY previewCmd.accesskey "w">
+<!ENTITY sendPageCmd.label "傳送頁面…">
+<!ENTITY sendPageCmd.accesskey "d">
 
 <!-- View menu items -->
-<!ENTITY viewMenu.label "檢視">
-<!ENTITY viewMenu.accesskey "V">
 <!ENTITY compositionToolbarCmd.label "編輯工具列">
 <!ENTITY compositionToolbarCmd.accesskey "C">
 <!ENTITY formattingToolbarCmd.label "格式工具列">
