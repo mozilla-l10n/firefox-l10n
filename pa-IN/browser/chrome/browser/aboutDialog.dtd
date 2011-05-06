@@ -54,3 +54,27 @@
      example: Downloading update — 111 KB of 13 MB -->
 <!ENTITY update.downloading.start   "ਅੱਪਡੇਟ ਡਾਊਨਲੋਡ ਕੀਤਾ ਜਾ ਰਿਹਾ ਹੈ — ">
 <!ENTITY update.downloading.end     "">
+
+<!-- LOCALIZATION NOTE (channel.description.start,channel.description.end): channel.description.start and
+     channel.description.end create one sentence, with the current channel label inserted in between.
+     example: You are currently on the _Stable_ update channel. -->
+<!ENTITY channel.description.start  "ਇਸ ਸਮੇਂ ਤੁਸੀਂ ">
+<!ENTITY channel.description.end    " ਅੱਪਡੇਟ ਚੈਨਲ ਵਰਤ ਰਹੇ ਹੋ। ">
+
+<!ENTITY channel.change             "ਬਦਲੋ">
+
+<!ENTITY channel.release.description       "ਸੰਸਾਰ ਭਰ ਵਿੱੱਚ ਲੱਖਾਂ ਲੋਕਾਂ ਵਲੋਂ ਵਰਤਿਆ ਗਿਆ ਅਤੇ ਟੈਸਟ ਕੀਤਾ ਫਾਈਨਲ ਵਰਜਨ ਵਰਤੋਂ। ਤੇਜ਼ ਗਤੀ, ਸੌਖੀ ਕਸਟਮਾਈਜੇਸ਼ਨ, ਅਤੇ ਨਵੀਆਂ ਵੈੱਬ ਤਕਨਾਲੋਜੀਆਂ ਨਾਲ ਆਪਣੇ ਆਨਲਾਈਨ ਤਜਰਬੇ ਨੂੰ ਕੰਟਰੋਲ ਰੱਖੋ।">
+<!ENTITY channel.beta.description          "ਵੱਧ ਸਥਿਰਤਾ ਨਾਲ ਸਭ ਤੋਂ ਨਵੇਂ (ਪਰ ਅਧੂਰੇ) ਫੀਚਰ ਵਰਤ ਕੇ ਵੇਖੋ। ਉਹਨਾਂ ਬਾਰੇ ਸੁਝਾਅ ਦਿਉ ਤਾਂ ਕਿ ਇਹ ਫਾਈਨਲ ਰੀਲਿਜ਼ ਵਿੱਚ ਸੁਧਾਰ ਕੇ ਸ਼ਾਮਲ ਕੀਤੇ ਜਾ ਸਕਣ।">
+<!ENTITY channel.aurora.description        "ਅਸਥਿਰ ਵਾਤਾਵਰਨ ਵਿੱਚ ਨਵੀਆਂ ਖੋਜਾਂ ਨੂੰ ਵਰਤ ਕੇ ਵੇਖੋ, ਜੋ ਕਿ ਪੰਗੇ ਲੈਣ ਵਾਲਿਆਂ ਲਈ ਹੈ। ਫੀਚਰ ਅਤੇ ਕਾਰਗੁਜ਼ਾਰੀ ਉੱਤੇ ਸੁਝਾਅ ਦਿਉ, ਜਿਸ ਨਾਲ ਫਾਈਨਲ ਰੀਲਿਜ਼ ਵਿੱਚ ਉਹਨਾਂ ਦੇ ਹੋਣ ਦੀ ਪਛਾਣ ਕੀਤੀ ਜਾ ਸਕੇ।">
+
+<!-- LOCALIZATION NOTE (channel.selector.start,channel.selector.end): channel.selector.start and
+     channel.selector.end create one sentence, with a channel selection menulist instered in between.
+     This is all in one line, so try to make the localized text short.
+     example: Switch to the [Stable] update channel. -->
+<!ENTITY channel.selector.start          " ">
+<!ENTITY channel.selector.end            "ਅੱਪਡੇਟ ਚੈਨਲ ਲਈ ਬਦਲੋ">
+
+<!-- LOCALIZATION NOTE (channel.selector.applyButton): This button applies the user's choice to switch
+     to a new update channel and starts the application update process. -->
+<!ENTITY channel.selector.applyButton    "ਲਾਗੂ ਅਤੇ ਅੱਪਡੇਟ ਕਰੋ">
+<!ENTITY channel.selector.cancelButton   "ਰੱਦ ਕਰੋ">
