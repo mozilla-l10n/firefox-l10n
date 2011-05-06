@@ -37,10 +37,20 @@
 <!-- File Menu -->
 <!ENTITY newFolderCmd.label "Aplankas…">
 <!ENTITY newFolderCmd.accesskey "n">
-<!ENTITY closeTabCmd.label "Užverti kortelę">
-<!ENTITY closeTabCmd.accesskey "U">
-<!ENTITY closeOtherTabsCmd.label "Užverti kitas korteles">
-<!ENTITY closeOtherTabsCmd.accesskey "o">
+<!ENTITY closeTabCmd2.label "Užverti kortelę">
+<!ENTITY closeTabCmd2.accesskey "U">
+<!ENTITY closeOtherTabsCmd2.label "Užverti kitas korteles">
+<!ENTITY closeOtherTabsCmd2.accesskey "k">
+<!ENTITY recentlyClosedTabsCmd.label "Paskiausiai užvertos kortelės">
+<!ENTITY recentlyClosedTabsCmd.accesskey "P">
+
+<!ENTITY undoCloseTabCmd.commandkey "T">
+<!-- LOCALIZATION NOTE (moveToNewWindow.label):
+     Menu option to cause the current tab to be migrated to a new Thunderbird
+     window.
+     -->
+<!ENTITY moveToNewWindow.label "Perkelti į naują langą">
+<!ENTITY moveToNewWindow.accesskey "l">
 <!ENTITY newVirtualFolderCmd.label "Paieška įrašant radinius…">
 <!ENTITY newVirtualFolderCmd.accesskey "e">
 <!ENTITY newOtherAccountsCmd.label "Kita paskyra…">
@@ -334,7 +344,7 @@ you can use these alternative items. Otherwise, their values should be empty.  -
 <!ENTITY prevMsgCmd.accesskey "L">
 <!ENTITY prevMsgCmd.key "b">
 <!ENTITY prevUnreadMsgCmd.label "neskaitytą laišką">
-<!ENTITY prevUnreadMsgCmd.accesskey "e">
+<!ENTITY prevUnreadMsgCmd.accesskey "N">
 <!ENTITY prevUnreadMsgCmd.key "p">
 <!ENTITY goForwardCmd.label "Pirmyn">
 <!ENTITY goForwardCmd.accesskey "P">
@@ -348,6 +358,7 @@ you can use these alternative items. Otherwise, their values should be empty.  -
 <!ENTITY folderMenu.accesskey "l">
 <!ENTITY thisFolder.label "Į šį aplanką">
 <!ENTITY thisFolder.accesskey "š">
+<!ENTITY goRecentlyClosedTabs.label "Paskiausiai užvertos kortelės">
 <!ENTITY startPageCmd.label "Į pašto pradžios tinklalapį">
 <!ENTITY startPageCmd.accesskey "r">
 
@@ -428,12 +439,11 @@ you can use these alternative items. Otherwise, their values should be empty.  -
 <!ENTITY tagCmd9.key "9">
 <!ENTITY markMenu.label "Pažymėti">
 <!ENTITY markMenu.accesskey "m">
+<!ENTITY toggleReadCmd.key "m">
 <!ENTITY markAsReadCmd.label "Kaip skaitytą">
 <!ENTITY markAsReadCmd.accesskey "s">
-<!ENTITY markAsReadCmd.key "m">
 <!ENTITY markAsUnreadCmd.label "Kaip neskaitytą">
 <!ENTITY markAsUnreadCmd.accesskey "n">
-<!ENTITY markAsUnreadCmd.key "m">
 <!ENTITY markThreadAsReadCmd.label "Giją kaip skaitytą">
 <!ENTITY markThreadAsReadCmd.accesskey "G">
 <!ENTITY markThreadAsReadCmd.key "r">
@@ -829,19 +839,15 @@ you can use these alternative items. Otherwise, their values should be empty.  -
 <!ENTITY reportPhishingURL.label "Pranešti apie apgaulingą laišką">
 <!ENTITY reportPhishingURL.accesskey "P">
 
+<!-- Spell checker context menu items -->
+<!ENTITY spellAddDictionaries.label "Daugiau žodynų…">
+<!ENTITY spellAddDictionaries.accesskey "D">
+
 <!-- Content Pane Context Menu -->
 <!ENTITY saveLinkAsCmd.label "Įrašyti saistomą objektą kaip…">
 <!ENTITY saveLinkAsCmd.accesskey "Į">
 <!ENTITY saveImageAsCmd.label "Įrašyti paveikslą kaip…">
 <!ENTITY saveImageAsCmd.accesskey "v">
-<!ENTITY cutCmd.label "Iškirpti">
-<!ENTITY cutCmd.accesskey "r">
-<!ENTITY copyCmd.label "Kopijuoti">
-<!ENTITY copyCmd.accesskey "K">
-<!ENTITY pasteCmd.label "Įdėti">
-<!ENTITY pasteCmd.accesskey "d">
-<!ENTITY selectAllCmd.label "Pažymėti viską">
-<!ENTITY selectAllCmd.accesskey "v">
 <!ENTITY copyLinkCmd.label "Kopijuoti saito adresą">
 <!ENTITY copyLinkCmd.accesskey "o">
 <!ENTITY copyImageAllCmd.label "Kopijuoti paveikslą">

@@ -1,4 +1,5 @@
 <!-- ***** BEGIN LICENSE BLOCK *****
+#if 0
    - Version: MPL 1.1/GPL 2.0/LGPL 2.1
    -
    - The contents of this file are subject to the Mozilla Public License Version
@@ -11,11 +12,18 @@
    - for the specific language governing rights and limitations under the
    - License.
    -
-   - Contributor(s):
-   -   Gintautas Grigas <grigas@ktl.mii.lt>
-   -   Tatjana Jevsikova <tatjanaj@julius.ktl.mii.lt>
-   -   Rimas Kudelis <rq@akl.lt>
+   - The Original Code is mozilla.org Code.
    -
+   - The Initial Developer of the Original Code is Mike Connor.
+   - Portions created by the Initial Developer are Copyright (C) 2005
+   - the Initial Developer. All Rights Reserved.
+   -
+   - Contributor(s):
+   -   Mike Connor <mconnor@steelgryphon.com>
+	-   Gintautas Grigas <grigas@ktl.mii.lt>
+	-   Tatjana Jevsikova <tatjanaj@julius.ktl.mii.lt>
+	-   Rimas Kudelis <rq@akl.lt>
+	-
    - Alternatively, the contents of this file may be used under the terms of
    - either the GNU General Public License Version 2 or later (the "GPL"), or
    - the GNU Lesser General Public License Version 2.1 or later (the "LGPL"),
@@ -28,32 +36,23 @@
    - the provisions above, a recipient may use your version of this file under
    - the terms of any one of the MPL, the GPL or the LGPL.
    -
+#endif
    - ***** END LICENSE BLOCK ***** -->
 
-<!-- Help Menu -->
-<!ENTITY helpMenu.label          "Žinynas">
-<!ENTITY helpMenu.accesskey      "Ž">
-<!-- LOCALIZATION NOTE some localizations of Windows use "?"
-                       for the help button in the menubar but Gnome does not.   -->
-<!ENTITY helpMenuWin.label       "Žinynas">
-<!ENTITY helpMenuWin.accesskey   "Ž">
-<!ENTITY helpTroubleshootingInfo.label     "Informacija problemų sprendimui">
-<!ENTITY helpTroubleshootingInfo.accesskey "s">
-<!ENTITY helpSafeMode.label      "Perleisti programą, išjungus priedus…">
-<!ENTITY helpSafeMode.accesskey  "r">
-<!ENTITY releaseCmd2.label       "Laidos apžvalga">
-<!ENTITY releaseCmd2.accesskey   "L">
-<!ENTITY whatsNewCmd.label       "Laidos naujovės">
-<!ENTITY whatsNewCmd.accesskey   "n">
-<!ENTITY featureConfiguratorCmd.label "Migravimo pagelbiklis">
-<!ENTITY featureConfiguratorCmd.accesskey "M">
-<!ENTITY openHelp.label          "Žinyno turinys">
-<!ENTITY openHelp.accesskey      "Ž">
-<!ENTITY openHelp.commandkey     "VK_F1">
-<!ENTITY openHelpMac.label       "„&brandShortName;“ žinynas">
-<!ENTITY openHelpMac2.commandkey "?">
-<!ENTITY openHelpMac2.modifiers  "accel">
+<!ENTITY safeModeDialog.title         "„&brandShortName;“ ribotoji veiksena">
+<!ENTITY window.width                 "45em">
 
-<!ENTITY updateCmd.label         "Ieškoti naujinimų…">
-<!ENTITY aboutMenuCmd.label      "Apie „&brandShortName;“">
-<!ENTITY aboutMenuCmd.accesskey  "A">
+<!ENTITY safeModeDescription.label    "Šiuo metu „&brandShortName;“ veikia ribotąja veiksena, kurioje išjungtos Jūsų nuostatos, plėtiniai ir apvalkalai.">
+<!ENTITY safeModeDescription2.label   "Dalį ar visus pakeitimus galite palikti ilgesniam laikui:">
+
+<!ENTITY disableAddons.label          "Išjungti visus priedus">
+<!ENTITY disableAddons.accesskey      "p">
+
+<!ENTITY resetToolbars.label          "Atstatyti priemonių juostų ir valdiklių numatytąsias būsenas">
+<!ENTITY resetToolbars.accesskey      "j">
+
+<!ENTITY changeAndRestartButton.label "Pakeisti ir paleisti iš naujo">
+<!ENTITY changeAndRestartButton.accesskey "k">
+
+<!ENTITY continueButton.label         "Palikti ribotąją veikseną">
+<!ENTITY continueButton.accesskey     "r">

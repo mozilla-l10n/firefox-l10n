@@ -31,6 +31,7 @@
    - ***** END LICENSE BLOCK ***** -->
 
 <!ENTITY window.title "Filtravimo taisyklės">
+<!ENTITY filterEditorDialog.dimensions "width: 100ch;">
 
 <!ENTITY filterName.label "Filtro pavadinimas:">
 <!ENTITY filterName.accesskey "F">
