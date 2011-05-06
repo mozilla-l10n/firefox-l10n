@@ -59,20 +59,20 @@
 
 <!ENTITY editMessageDescription.label "Tai – laiško juodraštis">
 <!ENTITY editMessageButton.label "Taisyti…">
-<!ENTITY hdrArchiveButton.label "archyvuoti">
-<!ENTITY hdrArchiveButton.tooltip "archyvuoti šį laišką">
-<!ENTITY hdrReplyButton.label "atsakyti">
-<!ENTITY hdrReplyButton.tooltip "atsakyti į šį laišką">
-<!ENTITY hdrReplyAllButton.label "atsakyti visiems">
-<!ENTITY hdrReplyAllButton.tooltip "atsakyti laiško siuntėjui ir visiems gavėjams">
-<!ENTITY hdrReplyListButton.label "atsakyti grupei">
-<!ENTITY hdrReplyListButton.tooltip "atsakyti el. pašto grupei">
-<!ENTITY hdrForwardButton.label "persiųsti">
-<!ENTITY hdrForwardButton.tooltip "persiųsti šį laišką">
-<!ENTITY hdrJunkButton.label "brukalas">
-<!ENTITY hdrJunkButton.tooltip "pažymėti šį laišką kaip brukalą">
-<!ENTITY hdrTrashButton.label "pašalinti">
-<!ENTITY hdrTrashButton.tooltip "pašalinti šį laišką">
+<!ENTITY hdrArchiveButton.label "Archyvuoti">
+<!ENTITY hdrArchiveButton.tooltip "Archyvuoti šį laišką">
+<!ENTITY hdrReplyButton.label "Atsakyti">
+<!ENTITY hdrReplyButton.tooltip "Atsakyti į šį laišką">
+<!ENTITY hdrReplyAllButton.label "Atsakyti visiems">
+<!ENTITY hdrReplyAllButton.tooltip "Atsakyti laiško siuntėjui ir visiems gavėjams">
+<!ENTITY hdrReplyListButton.label "Atsakyti grupei">
+<!ENTITY hdrReplyListButton.tooltip "Atsakyti el. pašto grupei">
+<!ENTITY hdrForwardButton.label "Persiųsti">
+<!ENTITY hdrForwardButton.tooltip "Persiųsti šį laišką">
+<!ENTITY hdrJunkButton.label "Brukalas">
+<!ENTITY hdrJunkButton.tooltip "Pažymėti šį laišką kaip brukalą">
+<!ENTITY hdrTrashButton.label "Pašalinti">
+<!ENTITY hdrTrashButton.tooltip "Pašalinti šį laišką">
 
 <!ENTITY hdrViewToolbarShowFull.label "Rodyti piktogramas ir tekstą">
 <!ENTITY hdrViewToolbarShowFull.accesskey "i">
@@ -83,38 +83,61 @@
 <!ENTITY hdrViewToolbarAlwaysReplySender.label "Visuomet siūlyti atsakyti siuntėjui">
 <!ENTITY hdrViewToolbarAlwaysReplySender.accesskey "s">
 
-<!ENTITY otherActionsButton.label "kiti veiksmai">
-<!ENTITY otherActionsOpenConversation.label "atverti diskusijoje">
+<!ENTITY otherActionsButton.label "Kiti veiksmai">
+<!ENTITY otherActionsOpenConversation.label "Atverti diskusijoje">
 <!ENTITY otherActionsOpenConversation.accesskey "d">
-<!ENTITY otherActionsOpenInNewWindow.label "atverti naujame lange">
+<!ENTITY otherActionsOpenInNewWindow.label "Atverti naujame lange">
 <!ENTITY otherActionsOpenInNewWindow.accesskey "l">
-<!ENTITY otherActionsOpenInNewTab.label "atverti naujoje kortelėje">
+<!ENTITY otherActionsOpenInNewTab.label "Atverti naujoje kortelėje">
 <!ENTITY otherActionsOpenInNewTab.accesskey "k">
-<!ENTITY markAsReadMenuItem.label "pažymėti kaip skaitytą">
+<!ENTITY markAsReadMenuItem.label "Pažymėti kaip skaitytą">
 <!ENTITY markAsReadMenuItem.accesskey "ž">
-<!ENTITY markAsUnreadMenuItem.label "pažymėti kaip neskaitytą">
+<!ENTITY markAsUnreadMenuItem.label "Pažymėti kaip neskaitytą">
 <!ENTITY markAsUnreadMenuItem.accesskey "ž">
-<!ENTITY saveAsMenuItem.label "įrašyti kaip…">
+<!ENTITY saveAsMenuItem.label "Įrašyti kaip…">
 <!ENTITY saveAsMenuItem.accesskey "r">
-<!ENTITY viewSourceMenuItem.label "pirminis tekstas…">
-<!ENTITY viewSourceMenuItem.accesskey "p">
-<!ENTITY otherActionsPrint.label "spausdinti…">
-<!ENTITY otherActionsPrint.accesskey "s">
+<!ENTITY viewSourceMenuItem.label "Pirminis tekstas…">
+<!ENTITY viewSourceMenuItem.accesskey "P">
+<!ENTITY otherActionsPrint.label "Spausdinti…">
+<!ENTITY otherActionsPrint.accesskey "S">
 
+<!-- Attachment context menu items -->
 <!ENTITY openAttachmentCmd.label    "Atverti">
 <!ENTITY openAttachmentCmd.accesskey		"A">
 <!ENTITY saveAsAttachmentCmd.label    "Įrašyti kaip…">
-<!ENTITY saveAsAttachmentCmd.accesskey		"k">
+<!ENTITY saveAsAttachmentCmd.accesskey		"r">
 <!ENTITY detachAttachmentCmd.label    "Išimti…">  
+<!ENTITY detachAttachmentCmd.accesskey    "m">
 <!ENTITY deleteAttachmentCmd.label    "Pašalinti">  
+<!ENTITY deleteAttachmentCmd.accesskey    "š">
 <!ENTITY openAllAttachmentsCmd.label    "Atverti visus…">
-<!ENTITY openAllAttachmentsCmd.accesskey    "v">
+<!ENTITY openAllAttachmentsCmd.accesskey    "A">
 <!ENTITY saveAllAttachmentsCmd.label    "Įrašyti visus…">
 <!ENTITY saveAllAttachmentsCmd.accesskey		"r">
 <!ENTITY detachAllAttachmentsCmd.label    "Išimti visus…">  
-<!ENTITY detachAllAttachmentsCmd.accesskey    "s">  
+<!ENTITY detachAllAttachmentsCmd.accesskey    "m">  
 <!ENTITY deleteAllAttachmentsCmd.label    "Pašalinti visus…">  
 <!ENTITY deleteAllAttachmentsCmd.accesskey    "š">  
+
+<!-- Attachment toolbar items -->
+<!ENTITY saveAttachmentButton.label       "Įrašyti">
+<!ENTITY saveAttachmentButton.tooltip     "Įrašyti priedą kaip failą">
+<!ENTITY saveAllAttachmentsButton.label   "Įrašyti visus">
+<!ENTITY saveAllAttachmentsButton.tooltip "Įrašyti visus priedus kaip failus">
+<!ENTITY openAttachmentMenuItem.label     "Atverti">
+<!ENTITY openAttachmentMenuItem.accesskey    "A">
+<!ENTITY saveAsAttachmentMenuItem.label    "Įrašyti kaip…">
+<!ENTITY saveAsAttachmentMenuItem.accesskey    "r">
+<!ENTITY detachAttachmentMenuItem.label    "Išimti…">
+<!ENTITY detachAttachmentMenuItem.accesskey    "m">
+<!ENTITY deleteAttachmentMenuItem.label    "Pašalinti">
+<!ENTITY deleteAttachmentMenuItem.accesskey    "š">
+<!ENTITY saveAllAttachmentsMenuItem.label    "Įrašyti visus…">
+<!ENTITY saveAllAttachmentsMenuItem.accesskey    "r">
+<!ENTITY detachAllAttachmentsMenuItem.label    "Išimti visus…">
+<!ENTITY detachAllAttachmentsMenuItem.accesskey    "m">
+<!ENTITY deleteAllAttachmentsMenuItem.label    "Pašalinti visus…">
+<!ENTITY deleteAllAttachmentsMenuItem.accesskey    "š">
 
 <!ENTITY copyLinkCmd.label        "Kopijuoti saito adresą">  
 <!ENTITY copyLinkCmd.accesskey		"K">

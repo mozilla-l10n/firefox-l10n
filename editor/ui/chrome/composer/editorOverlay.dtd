@@ -118,8 +118,6 @@
 <!ENTITY checkSpellingCmd2.label       "Tikrinti rašybą">
 <!ENTITY checkSpellingCmd2.accesskey   "r">
 <!ENTITY checkSpellingCmd2.key         "p">
-<!ENTITY validateCmd.label             "Patikrinti HTML">
-<!ENTITY validateCmd.accesskey         "H">
 
 <!-- Insert menu items -->
 <!ENTITY insertMenu.label              "Intarpai">
@@ -334,11 +332,6 @@
 <!ENTITY decreaseIndent.accesskey      "m">
 <!ENTITY decreaseIndent.key            "[">
 
-<!ENTITY grid.label                    "Tinklelis">
-<!ENTITY grid.accesskey                "T">
-
-<!ENTITY pageProperties.label          "Laiško antraštė ir savybės…">
-<!ENTITY pageProperties.accesskey      "v">
 <!ENTITY colorsAndBackground.label     "Laiško spalvos ir fonas…">
 <!ENTITY colorsAndBackground.accesskey "f">
 
@@ -407,7 +400,6 @@
 
 <!-- Toolbar-only items -->
 <!ENTITY menuBar.tooltip               "Meniu juosta">
-<!ENTITY compositionToolbar.tooltip    "Taisos mygtukų juosta">
 <!ENTITY formatToolbar.tooltip         "Formatavimo priemonių juostą">
 <!ENTITY newToolbarCmd.tooltip         "Kurti naują tinklalapį">
 <!ENTITY openToolbarCmd.label          "Atverti">
@@ -452,33 +444,7 @@
 <!ENTITY alignLeftButton.tooltip       "Lygiuoti kairįjį kraštą">
 <!ENTITY alignCenterButton.tooltip     "Centruoti">
 <!ENTITY alignRightButton.tooltip      "Lygiuoti dešinįjį kraštą">
-<!ENTITY alignjustifyButton.tooltip    "Lygiuoti abu kraštus">
-
-<!-- Display Mode toolbar and View menu items -->
-<!ENTITY NormalModeTab.label           "Normalusis">
-<!ENTITY NormalMode.label              "Normalusis">
-<!ENTITY NormalMode.accesskey          "N">
-<!ENTITY NormalMode.tooltip            "Rodyti lentelių rėmelius ir žymes">
-<!ENTITY AllTagsMode.label             "Su gairių ženklais">
-<!ENTITY AllTagsMode.accesskey         "r">
-<!ENTITY AllTagsMode.tooltip           "Rodyti HTML gairių ženklus">
-
-<!ENTITY HTMLSourceMode.label          "Pirminis tekstas">
-<!-- Toolbar has an image with "HTML" text, so don't include it in the string -->
-<!ENTITY SourceMode.label              "Pirminis tekstas">
-<!ENTITY HTMLSourceMode.accesskey      "t">
-<!ENTITY HTMLSourceMode.tooltip        "Taisyti laiško pirminį tekstą">
-<!ENTITY PreviewMode.label             "Peržiūra">
-<!ENTITY PreviewMode.accesskey         "ž">
-<!ENTITY PreviewMode.tooltip           "Rodyti tikrąjį vaizdą (kaip naršyklėje)">
-
-<!-- LOCALIZATION NOTE: Do NOT translate text for 'SourceTabDirection'
-     Use latin "ltr" if you want the <html> image to left of the 
-     'SourceMode.label' text defined above,
-     or use latin "rtl" if you want this image to the right of text
-     This is the value of the HTML 'dir' attribute
--->
-<!ENTITY SourceTabDirection            "ltr">
+<!ENTITY alignJustifyButton.tooltip    "Lygiuoti abu kraštus">
 
 <!-- Structure Toolbar Context Menu items -->
 <!ENTITY structSelect.label            "Pažymėti">

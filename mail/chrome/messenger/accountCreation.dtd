@@ -40,42 +40,45 @@
 <!ENTITY password.accesskey              "S">
 <!ENTITY password.placeholder            "Slaptažodis">
 <!ENTITY password.text                   "Įvesti nebūtina, nes bus panaudotas tik paskyros abonento vardui patikrinti">
+<!ENTITY rememberPassword.label          "Įsiminti slaptažodį">
+<!ENTITY rememberPassword.accesskey      "m">
 
-<!ENTITY accountInformation.label        "Abonento duomenys">
-<!ENTITY username2.label                 "Abonento vardas:">
+<!ENTITY imapLong.label                  "IMAP (nuotoliniai aplankai)">
+<!ENTITY pop3Long.label                  "POP3 (paštas laikomas Jūsų kompiuteryje)">
+
 <!ENTITY incoming.label                  "Laiškų gavimo serveris:">
 <!ENTITY outgoing.label                  "Laiškų siuntimo serveris:">
+<!ENTITY username.label                  "Abonento vardas:">
+<!ENTITY hostname.label                  "Serverio vardas">
+<!ENTITY port.label                      "Prievadas">
+<!ENTITY ssl.label                       "SSL">
+<!ENTITY auth.label                      "Tapatumo nustatymas">
+<!ENTITY imap.label                      "IMAP">
+<!ENTITY pop3.label                      "POP">
+<!ENTITY smtp.label                      "SMTP">
+<!ENTITY autodetect.label                "Nustatyti automatiškai">
+<!-- LOCALIZATION NOTE(noEncryption.label): Neither SSL/TLS nor STARTTLS.
+     Transmission of emails in cleartext over the Internet. -->
 <!ENTITY noEncryption.label              "Nenaudojamas">
 <!ENTITY starttls.label                  "STARTTLS">
 <!ENTITY sslTls.label                    "SSL/TLS">
 
-<!ENTITY imap.label                      "IMAP">
-<!ENTITY pop.label                       "POP">
-<!ENTITY smtp.label                      "SMTP">
-<!ENTITY imap.description                "IMAP: savo aplankus ir laiškus galėsite pasiekti iš keleto kompiuterių">
-<!ENTITY pop.description                 "POP: visi laiškai bus parsiunčiami į šį kompiuterį; aplankai – vietiniai">
-<!ENTITY recommended-appendix.label      "(rekomenduojama)">
-
-<!ENTITY manualSetup.label               "Rankinis paskyros kūrimas…">
-<!ENTITY manualSetup.accesskey           "R">
+<!ENTITY advancedSetup.label             "Sudėtingesnis derinimas">
+<!ENTITY advancedSetup.accesskey         "d">
 <!ENTITY cancel.label                    "Atsisakyti">
 <!ENTITY cancel.accesskey                "A">
 <!ENTITY continue.label                  "Tęsti">
 <!ENTITY continue.accesskey              "T">
-<!ENTITY startOver.label                 "Pradėti nuo pradžių">
-<!ENTITY startOver.accesskey             "P">
 <!ENTITY stop.label                      "Stabdyti">
 <!ENTITY stop.accesskey                  "S">
-<!-- LOCALIZATION NOTE (retest.label): This is the text that is
-     displayed on the button which will re-guess the account configuration,
-     taking into account the settings the user has changed. -->
-<!ENTITY retest.label                    "Išbandyti nuostatas dar kartą">
-<!ENTITY retest.accesskey                "b">
-<!ENTITY edit.label                      "Taisyti">
-<!ENTITY edit.accesskey                  "T">
-
-<!ENTITY rememberPassword.label          "Įsiminti slaptažodį">
-<!ENTITY rememberPassword.accesskey      "m">
+<!-- LOCALIZATION NOTE (half-manual-test.label): This is the text that is
+     displayed on the button in manual edit mode which will re-guess
+     the account configuration, taking into account the settings that
+     the user has manually changed. -->
+<!ENTITY half-manual-test.label          "Patikrinti">
+<!ENTITY half-manual-test.accesskey      "t">
+<!ENTITY manual-edit.label               "Rankinis derinimas">
+<!ENTITY manual-edit.accesskey           "R">
 
 <!ENTITY warning.label                   "Dėmesio!">
 <!ENTITY incomingSettings.label          "Laiškų gavimas:">

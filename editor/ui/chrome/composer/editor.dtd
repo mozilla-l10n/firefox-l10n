@@ -45,6 +45,9 @@
 
 <!-- Menu items:  the . means that the menu item isn't implemented yet -->
 
+<!-- Toolbar-only items -->
+<!ENTITY compositionToolbar.tooltip    "Taisos mygtukų juosta">
+
 <!-- View menu items -->
 <!ENTITY viewMenu.label "Rodymas">
 <!ENTITY viewMenu.accesskey "R">
@@ -57,4 +60,36 @@
 
 <!-- Format menu items -->
 <!ENTITY formatMenu.label "Formatas">
-<!ENTITY formatMenu.accesskey "F">
+<!ENTITY formatMenu.accesskey "o">
+<!ENTITY grid.label "Tinklelis">
+<!ENTITY grid.accesskey "T">
+<!ENTITY pageProperties.label "Tinklalapio antraštė ir savybės…">
+<!ENTITY pageProperties.accesskey "a">
+
+<!-- Tools menu items -->
+<!ENTITY validateCmd.label "Patikrinti HTML">
+<!ENTITY validateCmd.accesskey "H">
+
+<!-- Display Mode toolbar and View menu items -->
+<!ENTITY NormalModeTab.label "Normalusis">
+<!ENTITY NormalMode.label "Normalusis">
+<!ENTITY NormalMode.accesskey "N">
+<!ENTITY NormalMode.tooltip "Rodyti lentelių rėmelius ir žymes">
+<!ENTITY AllTagsModeTab.label "Su gairių ženklais">
+<!ENTITY AllTagsMode.label "Su gairių ženklais">
+<!ENTITY AllTagsMode.accesskey "r">
+<!ENTITY AllTagsMode.tooltip "Rodyti HTML gairių ženklus">
+<!-- LOCALIZATION NOTE: (HTMLSourceModeTab.dir, HTMLSourceModeTab.label)
+     Do NOT translate text for 'HTMLSourceModeTab.dir', use latin "ltr" if
+     you want the <html> image to left of the 'HTMLSourceModeTab.label' text,
+     or use latin "rtl" if you want this image to the right of text. You do
+     not need to include HTML in the label 'HTMLSourceModeTab.label' -->
+<!ENTITY HTMLSourceModeTab.dir "ltr">
+<!ENTITY HTMLSourceModeTab.label "Pirminis tekstas">
+<!ENTITY HTMLSourceMode.label "Pirminis tekstas">
+<!ENTITY HTMLSourceMode.accesskey "t">
+<!ENTITY HTMLSourceMode.tooltip "Taisyti pirminį HTML tekstą">
+<!ENTITY PreviewModeTab.label "Peržiūra">
+<!ENTITY PreviewMode.label "Peržiūra">
+<!ENTITY PreviewMode.accesskey "ž">
+<!ENTITY PreviewMode.tooltip "Rodyti tikrąjį vaizdą (kaip naršyklėje)">
