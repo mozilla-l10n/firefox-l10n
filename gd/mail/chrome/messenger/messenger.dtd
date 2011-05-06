@@ -758,12 +758,10 @@ you can use these alternative items. Otherwise, their values should be empty.  -
 <!-- Phishing Bar -->
 <!ENTITY phishingBarMessage2.label "Dh'fhaodadh gu bheil an teachdaireachd seo 'na fhallsaicheachd-lìn.">
 <!ENTITY removePhishingBarButton1.label "Leig seachad an rabhadh">
+<!ENTITY disablePhishingWarning1.label "Cuir à comas lorg de dh'fhallsaidheachd-lìn anns gach teachdaireachd">
 <!ENTITY reportPhishingError1.label "Tha coltas nach eil an teachdaireachd seo 'na fhallsaidheachd-lìn.">
 
 <!-- MDN Bar -->
-<!ENTITY mdnBarMessage.label "Dh'iarr an neach a chuir an teachdaireachd seo thugad gun leigear fios thuca nuair a leughas tu an teachdaireachd seo. A bheil thu airson fios a leigeil gun t-seòladair?">
-<!ENTITY mdnBarIgnoreButton.label "Leig seachad an t-iarrtas">
-<!ENTITY mdnBarSendButton.label "Cuir bann-cuidhteis thuca">
 
 <!-- Quick Search Bar -->
 <!-- LOCALIZATION NOTE (quickSearchCmd.key):
