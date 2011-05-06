@@ -763,9 +763,10 @@ you can use these alternative items. Otherwise, their values should be empty.  -
 <!ENTITY reportPhishingError1.label "Ní camscéim ríomhphoist é seo.">
 <!-- MDN Bar -->
 
-<!ENTITY mdnBarMessage.label "D'iarr seoltóir na teachtaireachta seo go seolfaí fógra chuige nuair a léifidh tú an teachtaireacht. An bhfuil fonn ort fógra a thabhairt don seoltóir?">
-<!ENTITY mdnBarIgnoreButton.label "Déan Neamhaird De">
-<!ENTITY mdnBarSendButton.label "Seol Admháil Léite">
+<!ENTITY mdnBarIgnoreButton2.label "Tabhair neamhaird air">
+<!ENTITY mdnBarIgnoreButton2.accesskey "i">
+<!ENTITY mdnBarSendButton2.label "Send Return Receipt">
+<!ENTITY mdnBarSendButton2.accesskey "S">
 <!-- Quick Search Bar -->
 <!-- LOCALIZATION NOTE (quickSearchCmd.key):
      This is actually the key used for the global message search box; we have
