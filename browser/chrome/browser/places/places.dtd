@@ -69,8 +69,6 @@
 <!ENTITY cmd.new_separator.accesskey "S">
 <!ENTITY cmd.reloadLivebookmark.label "라이브 북마크 갱신">
 <!ENTITY cmd.reloadLivebookmark.accesskey "R">
-<!ENTITY cmd.reloadMicrosummary.label "라이브 타이틀 갱신">
-<!ENTITY cmd.reloadMicrosummary.accesskey "R">
 <!ENTITY cmd.moveBookmarks.label "이동…">
 <!ENTITY cmd.moveBookmarks.accesskey "M">
 

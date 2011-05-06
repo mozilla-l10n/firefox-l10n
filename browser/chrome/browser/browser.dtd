@@ -64,6 +64,7 @@
 <!ENTITY bookmarkThisPageCmd.label "북마크에 추가">
 <!ENTITY bookmarkThisPageCmd.commandkey "d">
 <!ENTITY showAllBookmarks2.label "북마크 관리…">
+<!ENTITY unsortedBookmarksCmd.label "미분류 북마크">
 <!ENTITY bookmarkAllCmd.label "모든 탭을 북마크에 추가…">
 <!ENTITY bookmarksToolbarChevron.tooltip "북마크 계속 보기">
 

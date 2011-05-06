@@ -14,7 +14,7 @@
 <!ENTITY sync.setup.manual          "동기화 계정 정보 입력">
 <!ENTITY sync.account               "계정명">
 <!ENTITY sync.password              "암호">
-<!ENTITY sync.syncKey               "동기화 암호">
+<!ENTITY sync.syncKey               "동기화키">
 <!ENTITY sync.customServer          "다른 서버 사용">
 <!ENTITY sync.serverURL             "서버 URL">
 <!ENTITY sync.setup.connect         "연결">
