@@ -98,6 +98,7 @@
 <!ENTITY contextSaveImage.label    "Desa la imatge">
 <!ENTITY contextShareLink.label       "Comparteix l'enllaç">
 <!ENTITY contextShareImage.label      "Comparteix la imatge">
+<!ENTITY contextBookmarkLink.label    "Desa l'enllaç a les adreces d'interès">
 <!ENTITY contextSaveVideo.label       "Desa el vídeo">
 <!ENTITY contextShareVideo.label      "Comparteix el vídeo">
 <!ENTITY contextPlayMedia.label       "Reprodueix">
