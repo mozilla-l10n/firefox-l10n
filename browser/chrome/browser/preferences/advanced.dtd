@@ -82,9 +82,6 @@
 <!ENTITY viewCerts.accesskey "s">
 <!ENTITY checkSpelling.label "맞춤법 검사 기능 사용">
 <!ENTITY checkSpelling.accesskey "t">
-<!ENTITY doNotTrack.label                "웹 사이트에 방문자 추적 중지 요청">
-<!ENTITY doNotTrack.accesskey            "d">
-
 
 <!ENTITY systemDefaults.label            "기본 설정">
 <!ENTITY alwaysCheckDefault.label        "시작할 때마다 &brandShortName;가 기본 브라우저인지 확인">

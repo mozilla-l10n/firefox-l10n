@@ -13,7 +13,7 @@
 <!ENTITY editBookmarkOverlay.expanderUp.tooltip "숨기기">
 <!ENTITY editBookmarkOverlay.tags.label "태그:">
 <!ENTITY editBookmarkOverlay.tags.accesskey                  "T">
-<!ENTITY editBookmarkOverlay.tagsEmptyDesc.label "쉽표로 태그 구분">
+<!ENTITY editBookmarkOverlay.tagsEmptyDesc.label "쉼표로 태그 구분">
 <!ENTITY editBookmarkOverlay.description.label "설명:">
 <!ENTITY editBookmarkOverlay.description.accesskey           "D">
 <!ENTITY editBookmarkOverlay.keyword.label "키워드:">
