@@ -39,8 +39,10 @@
 <!ENTITY helpMenuWin.accesskey   "Ž">
 <!ENTITY helpTroubleshootingInfo.label     "Informacija problemų sprendimui">
 <!ENTITY helpTroubleshootingInfo.accesskey "s">
-<!ENTITY releaseCmd.label        "Laidos apžvalga">
-<!ENTITY releaseCmd.accesskey    "L">
+<!ENTITY helpSafeMode.label      "Perleisti programą, išjungus priedus…">
+<!ENTITY helpSafeMode.accesskey  "r">
+<!ENTITY releaseCmd2.label       "Laidos apžvalga">
+<!ENTITY releaseCmd2.accesskey   "L">
 <!ENTITY whatsNewCmd.label       "Laidos naujovės">
 <!ENTITY whatsNewCmd.accesskey   "n">
 <!ENTITY featureConfiguratorCmd.label "Migravimo pagelbiklis">
