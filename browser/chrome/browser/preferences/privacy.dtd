@@ -1,3 +1,8 @@
+<!ENTITY tracking.label                 "ਟਰੈਕਿੰਗ">
+
+<!ENTITY doNotTrack.label               "ਵੈੱਬ ਸਾਈਟਾਂ ਨੂੰ ਦੱਸੋ ਕਿ ਮੈਂ ਟਰੈਕ ਨਹੀਂ ਕੀਤਾ ਜਾਣਾ ਚਾਹੁੰਦਾ">
+<!ENTITY doNotTrack.accesskey           "d">
+
 <!ENTITY  history.label                 "ਅਤੀਤ">
 
 <!ENTITY  locationBar.label             "ਟਿਕਾਣਾ ਪੱਟੀ">
