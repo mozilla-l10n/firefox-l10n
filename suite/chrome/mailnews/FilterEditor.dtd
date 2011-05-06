@@ -84,7 +84,6 @@
 <!ENTITY replyWithTemplate.label "Odpovědět šablonou">
 <!ENTITY markMessageRead.label "Označit jako přečtené">
 <!ENTITY markMessageStarred.label "Označit zprávu praporkem">
-<!ENTITY labelMessage.label "Označit zprávu jako">
 <!ENTITY setPriority.label "Nastavení priority na ">
 <!ENTITY addTag.label "Přiřadit štítek">
 <!ENTITY setJunkScore.label "Nastavit nevyžádanou na">
