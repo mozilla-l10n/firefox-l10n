@@ -762,6 +762,10 @@ you can use these alternative items. Otherwise, their values should be empty.  -
 <!ENTITY reportPhishingError1.label "Tha coltas nach eil an teachdaireachd seo 'na fhallsaidheachd-lìn.">
 
 <!-- MDN Bar -->
+<!ENTITY mdnBarIgnoreButton2.label "Leig seachad">
+<!ENTITY mdnBarIgnoreButton2.accesskey "L">
+<!ENTITY mdnBarSendButton2.label "Cuir cuidhteas tillidh">
+<!ENTITY mdnBarSendButton2.accesskey "C">
 
 <!-- Quick Search Bar -->
 <!-- LOCALIZATION NOTE (quickSearchCmd.key):
