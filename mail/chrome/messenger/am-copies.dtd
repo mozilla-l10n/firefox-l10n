@@ -48,19 +48,23 @@
 <!ENTITY sentFolderOn.accesskey "c">
 <!ENTITY sentInOtherFolder.label "Annan plats:">
 <!ENTITY sentInOtherFolder.accesskey "A">
-<!ENTITY draftsFolderOn.label "Mappen ”Utkast” i:">
-<!ENTITY draftsFolderOn.accesskey "U">
-<!ENTITY draftInOtherFolder.label "Annan plats:">
-<!ENTITY draftInOtherFolder.accesskey "n">
+<!ENTITY archivesTitle.label "Meddelandearkiv">
+<!ENTITY keepArchives.label "Spara meddelandearkiv i:">
+<!ENTITY keepArchives.accesskey "e">
+<!ENTITY archiveHierarchyButton.label "Arkiveringsalternativ…">
+<!ENTITY archiveHierarchyButton.accesskey "i">
 <!ENTITY archivesFolderOn.label "Mappen &quot;Arkiv&quot; i:">
 <!ENTITY archivesFolderOn.accesskey "r">
 <!ENTITY archiveInOtherFolder.label "Annan plats:">
 <!ENTITY archiveInOtherFolder.accesskey "p">
+<!ENTITY specialFolders.label "Utkast och mallar">
+<!ENTITY keepDrafts.label "Spara utkast i:">
+<!ENTITY draftsFolderOn.label "Mappen ”Utkast” i:">
+<!ENTITY draftsFolderOn.accesskey "U">
+<!ENTITY draftInOtherFolder.label "Annan plats:">
+<!ENTITY draftInOtherFolder.accesskey "n">
+<!ENTITY keepTemplates.label "Spara mallar i:">
 <!ENTITY templatesFolderOn.label "Mappen ”Mallar” i:">
 <!ENTITY templatesFolderOn.accesskey "M">
 <!ENTITY templateInOtherFolder.label "Annan plats:">
 <!ENTITY templateInOtherFolder.accesskey "s">
-<!ENTITY specialFoldersTitle.label "Utkast, arkiv och mallar">
-<!ENTITY keepDrafts.label "Spara utkast i:">
-<!ENTITY keepArchives.label "Spara meddelandearkiv i:">
-<!ENTITY keepTempltes.label "Spara mallar i:">
