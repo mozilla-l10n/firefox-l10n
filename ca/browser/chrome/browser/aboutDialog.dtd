@@ -63,9 +63,9 @@
 
 <!ENTITY channel.change             "Canvia">
 
-<!ENTITY channel.release.description       "Gaudiu de les versions finals i comprovades que utilitzen centenars de milions de persones d'arreu del món. Tingueu control de la vostra experiència a la xarxa amb gran velocitat, facilitat de personalització i les darreres tecnologies web.">
-<!ENTITY channel.beta.description          "Experimenteu les característiques que s'han afegit recentment d'una forma més estable. Proporcioneu-ne l'opinió per tal de refinar i polir allò que s'inclourà a la versió final.">
-<!ENTITY channel.aurora.description        "Experimenteu les darreres innovacions en un entorn inestable no recomenable per als més patidors. Proporcioneu opinió de les característiques i el rendiment per tal d'ajudar a determinar què s'inclourà a la versió final.">
+<!ENTITY channel.release.description       "Gaudiu de la provada i comprovada versió final que centenars de milions de persones utilitzen arreu del món. Tingueu control de l'experiència en línia amb alta velocitat, fàcil personalització i les darreres tecnologies web.">
+<!ENTITY channel.beta.description          "Experimenteu funcions d'avantguarda amb més estabilitat. Feu-ne comentaris per ajudar a refinar i polir el que serà la versió final.">
+<!ENTITY channel.aurora.description        "Experimenteu les darreres innovacions en un entorn inestable, tot i que no és per a patidors. Feu comentaris sobre les funcions i el rendiment per ajudar a determinar què s'inclourà a la versió final.">
 
 <!-- LOCALIZATION NOTE (channel.selector.start,channel.selector.end): channel.selector.start and
      channel.selector.end create one sentence, with a channel selection menulist instered in between.
