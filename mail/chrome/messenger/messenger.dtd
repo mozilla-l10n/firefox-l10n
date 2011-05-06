@@ -758,12 +758,14 @@ you can use these alternative items. Otherwise, their values should be empty.  -
 <!-- Phishing Bar -->
 <!ENTITY phishingBarMessage2.label "Tato zpráva může být podvodný e-mail.">
 <!ENTITY removePhishingBarButton1.label "Ignorovat varování">
+<!ENTITY disablePhishingWarning1.label "Zakázat kontrolu podvodných e-mailů">
 <!ENTITY reportPhishingError1.label "Tato zpráva nevypadá jako podvodný e-mail.">
 
 <!-- MDN Bar -->
-<!ENTITY mdnBarMessage.label "Odesílatel této zprávy si přeje být informován o tom, že jste si tuto zprávu přečetli. Chcete odesílateli poslat potvrzení?">
-<!ENTITY mdnBarIgnoreButton.label "Ignorovat požadavek">
-<!ENTITY mdnBarSendButton.label "Odeslat potvrzení">
+<!ENTITY mdnBarIgnoreButton2.label "Ignorovat">
+<!ENTITY mdnBarIgnoreButton2.accesskey "I">
+<!ENTITY mdnBarSendButton2.label "Odeslat potvrzení o přečtení">
+<!ENTITY mdnBarSendButton2.accesskey "O">
 
 <!-- Quick Search Bar -->
 <!-- LOCALIZATION NOTE (quickSearchCmd.key):
