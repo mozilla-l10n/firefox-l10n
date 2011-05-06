@@ -6,7 +6,6 @@
 <!ENTITY editBookmarkOverlay.feedLocation.accesskey "n">
 <!ENTITY editBookmarkOverlay.siteLocation.label "Ubicación del sitio:">
 <!ENTITY editBookmarkOverlay.siteLocation.accesskey "U">
-<!ENTITY editBookmarkOverlay.liveTitlesSeparator.label "Títulos dinámicos">
 <!ENTITY editBookmarkOverlay.folder.label "Carpeta:">
 <!ENTITY editBookmarkOverlay.foldersExpanderDown.tooltip "Mostrar todas las carpetas de marcadores">
 <!ENTITY editBookmarkOverlay.expanderUp.tooltip "Ocultar">

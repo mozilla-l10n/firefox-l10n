@@ -80,7 +80,7 @@
 <!ENTITY subscribeToPageMenuitem.label "Suscribirse a esta página…">
 <!ENTITY addCurPagesCmd.label "Agregar las pestañas abiertas…">
 <!ENTITY showAllBookmarks2.label "Mostrar todos los marcadores">
-<!ENTITY bookmarkAllCmd.label "Agregar las pestañas abiertas…">
+<!ENTITY unsortedBookmarksCmd.label "Marcadores sin clasificar">
 <!ENTITY bookmarksToolbarChevron.tooltip "Mostrar más">
 <!ENTITY backCmd.label "Anterior">
 <!ENTITY backCmd.accesskey "t">
