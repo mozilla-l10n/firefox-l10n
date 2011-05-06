@@ -36,7 +36,7 @@
 <!ENTITY templatesFolderOn.accesskey "m">
 <!ENTITY templateInOtherFolder.label "Eile:">
 <!ENTITY templateInOtherFolder.accesskey "E">
-<!ENTITY specialFoldersTitle.label "Dreachan, tasg-lannan is teamplaidean">
+<!ENTITY specialFolders.label "Dreachan, tasg-lannan is teamplaidean">
 <!ENTITY keepDrafts.label "Cum dreachan de theachdaireachdan ann an:">
 <!ENTITY keepArchives.label "Cum tasg-lannan de theachdaireachdan ann an:">
-<!ENTITY keepTempltes.label "Cum teamplaidean de theachdaireachdan ann an:">
+<!ENTITY keepTemplates.label "Cum teamplaidean de theachdaireachdan ann an:">
