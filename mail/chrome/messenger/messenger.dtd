@@ -796,9 +796,10 @@ you can use these alternative items. Otherwise, their values should be empty.  -
 <!ENTITY reportPhishingError1.label "Det här meddelandet verkar inte vara en bluff.">
 
 <!-- MDN Bar -->
-<!ENTITY mdnBarMessage.label "Avsändaren av meddelandet har begärt att få bli underrättad om när du läser det här meddelandet. Vill du underrätta avsändaren?">
-<!ENTITY mdnBarIgnoreButton.label "Ignorera begäran">
-<!ENTITY mdnBarSendButton.label "Skicka kvitto">
+<!ENTITY mdnBarIgnoreButton2.label "Ignorera">
+<!ENTITY mdnBarIgnoreButton2.accesskey "I">
+<!ENTITY mdnBarSendButton2.label "Skicka kvitto">
+<!ENTITY mdnBarSendButton2.accesskey "k">
 
 <!-- Quick Search Bar -->
 <!-- LOCALIZATION NOTE (quickSearchCmd.key):
