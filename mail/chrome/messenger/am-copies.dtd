@@ -27,6 +27,10 @@
 <!ENTITY draftInOtherFolder.label "Eile:">
 <!ENTITY draftInOtherFolder.accesskey "E">
 <!-- LOCALIZATION NOTE (archivesFolderOn.label): OK to translate this, bug #57440 -->
+<!ENTITY archivesTitle.label "Tasg-lannan nan teachdaireachdan">
+<!ENTITY keepArchives.accesskey "C">
+<!ENTITY archiveHierarchyButton.label "Roghainnean nan tasg-lannan…">
+<!ENTITY archiveHierarchyButton.accesskey "a">
 <!ENTITY archivesFolderOn.label "Pasgan nan &quot;tasg-lann&quot; air:">
 <!ENTITY archivesFolderOn.accesskey "n">
 <!ENTITY archiveInOtherFolder.label "Eile:">
