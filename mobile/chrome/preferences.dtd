@@ -38,6 +38,7 @@
 <!ENTITY enablePlugins.title                           "Leisti papildinius">
 <!ENTITY privacy.title                                 "Privatumas ir saugumas">
 <!ENTITY allowCookies.title                            "Leisti įrašyti slapukus">
+<!ENTITY doNotTrack.title                              "Informuoti svetaines, jog nenorite, kad jos Jus sektų">
 <!ENTITY clearPrivateData2.title                       "Valyti privačius duomenis">
 <!ENTITY clearPrivateData.button                       "Valyti">
 <!ENTITY rememberPasswords.title                       "Įsiminti slaptažodžius">
