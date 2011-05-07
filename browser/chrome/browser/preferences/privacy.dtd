@@ -30,6 +30,11 @@
    -
    - ***** END LICENSE BLOCK ***** -->
 
+<!ENTITY tracking.label                 "Sekimas">
+
+<!ENTITY doNotTrack.label               "Informuoti svetaines, jog nenorite, kad jos Jus sektų">
+<!ENTITY doNotTrack.accesskey           "s">
+
 <!ENTITY  history.label                 "Žurnalas">
 
 <!ENTITY  locationBar.label             "Adreso laukas">
@@ -43,7 +48,7 @@
 <!ENTITY  locbar.nothing.label          "nesiūlyti">
 
 <!ENTITY  acceptCookies.label           "Leisti įrašyti slapukus">
-<!ENTITY  acceptCookies.accesskey       "s">
+<!ENTITY  acceptCookies.accesskey       "L">
 
 <!ENTITY  acceptThirdParty.label        "Leisti įrašyti trečiųjų šalių slapukus">
 <!ENTITY  acceptThirdParty.accesskey    "t">
@@ -88,16 +93,16 @@
 <!ENTITY  dontrememberActions.post.label         ".">
 
 <!ENTITY  privateBrowsingPermanent.label         "Visuomet naršyti privačiojo naršymo veiksenoje">
-<!ENTITY  privateBrowsingPermanent.accesskey     "p">
+<!ENTITY  privateBrowsingPermanent.accesskey     "V">
 
 <!ENTITY  rememberHistory.label                  "Žurnale įsiminti lankytus tinklalapius">
-<!ENTITY  rememberHistory.accesskey              "r">
+<!ENTITY  rememberHistory.accesskey              "m">
 
 <!ENTITY  rememberDownload.label                 "Įsiminti parsiųstus failus">
-<!ENTITY  rememberDownload.accesskey             "s">
+<!ENTITY  rememberDownload.accesskey             "f">
 
 <!ENTITY  rememberSearchForm.label               "Įsiminti įvestas formų ir paieškos laukų reiškmes">
-<!ENTITY  rememberSearchForm.accesskey           "f">
+<!ENTITY  rememberSearchForm.accesskey           "o">
 
 <!ENTITY  clearOnClose.label                     "Išvalyti žurnalą baigiant „&brandShortName;“ darbą">
 <!ENTITY  clearOnClose.accesskey                 "b">
