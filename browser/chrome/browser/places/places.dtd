@@ -78,8 +78,6 @@
 
 <!ENTITY cmd.reloadLivebookmark.label "أعِد تحميل العلامات الحية">
 <!ENTITY cmd.reloadLivebookmark.accesskey "ع">
-<!ENTITY cmd.reloadMicrosummary.label "أعِد تحميل العناوين الحية">
-<!ENTITY cmd.reloadMicrosummary.accesskey "ع">
 
 <!ENTITY cmd.moveBookmarks.label "انقل…">
 <!ENTITY cmd.moveBookmarks.accesskey "ن">

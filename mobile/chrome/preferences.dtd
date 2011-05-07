@@ -20,4 +20,4 @@
 <!ENTITY homepage.default                          "بداية &brandShortName;">
 <!ENTITY homepage.currentpage                      "استخدِم الصفحة الحالية">
 <!ENTITY showCharset.title                         "أظهِر ترميز المحارف">
-
+<!ENTITY doNotTrack.title                "أخبِر المواقع أنني لا أريدها أن تتعقبني">
