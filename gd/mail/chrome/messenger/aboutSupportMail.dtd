@@ -7,6 +7,7 @@
 <!ENTITY aboutSupport.accountsName "Ainm">
 <!ENTITY aboutSupport.accountsIncomingServer "Am frithealaiche a-steach">
 <!ENTITY aboutSupport.accountsOutgoingServers "Frithealaichean a-mach">
+<!ENTITY aboutSupport.accountsServerName "Ainm">
 <!ENTITY aboutSupport.accountsConnSecurity "Tèarainteachd a' cheangail">
 <!ENTITY aboutSupport.accountsAuthMethod "An dòigh dearbhachaidh">
 <!ENTITY aboutSupport.accountsDefault "Bunaiteach?">
