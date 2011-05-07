@@ -35,7 +35,7 @@
 <!ENTITY  showCookies.accesskey         "S">
 
 <!ENTITY  historyHeader.pre.label          "&brandShortName;:">
-<!ENTITY  historyHeader.pre.accesskey      "F">
+<!ENTITY  historyHeader.pre.accesskey      "r">
 <!ENTITY  historyHeader.remember.label     "recordará el historial">
 <!ENTITY  historyHeader.dontremember.label "nunca recordará el historial">
 <!ENTITY  historyHeader.custom.label       "usará la configuración personalizada para el historial">
