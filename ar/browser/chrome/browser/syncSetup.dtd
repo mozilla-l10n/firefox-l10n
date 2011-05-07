@@ -43,7 +43,7 @@
 <!ENTITY setup.newSyncKeyPage.description.label "لتأكيد حصولك على الخصوصية التامة، تُعمّى جميع بياناتك قبل رفعها. مفتاح فك المزامنة الضروري لفك التعمية لا يُرفع بدوره.">
 <!ENTITY syncKeyEntry.label        "مفتاح المزامنة الخاص بك">
 <!ENTITY syncKeyEntry.accesskey    "ز">
-<!ENTITY syncKeyGenerate.label     "ولّد">
+<!ENTITY syncGenerateNewKey.label  "ولّد مفتاحًا جديدًا">
 <!ENTITY syncKeyBackup.description "مفتاح المزامنة ضروري للدخول إلى &syncBrand.fullName.label; على الأجهزة الأخرى. رجاءً احتفظ بنسخة احتياطية منه. لا يمكننا مساعدتك على استعادته في حال ضاع أو نسيته.">
 
 <!ENTITY button.syncKeyBackup.print.label     "اطبع…">

@@ -6,7 +6,6 @@
 <!ENTITY editBookmarkOverlay.feedLocation.accesskey "ت">
 <!ENTITY editBookmarkOverlay.siteLocation.label "مكان الموقع:">
 <!ENTITY editBookmarkOverlay.siteLocation.accesskey "ق">
-<!ENTITY editBookmarkOverlay.liveTitlesSeparator.label "عناوين حية">
 <!ENTITY editBookmarkOverlay.folder.label "مجلد:">
 <!ENTITY editBookmarkOverlay.foldersExpanderDown.tooltip "أظهر كلّ مجلدات العلامات">
 <!ENTITY editBookmarkOverlay.expanderUp.tooltip "اخفِ">

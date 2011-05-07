@@ -28,6 +28,7 @@
 
 <!ENTITY editBookmarkDialog.title  "حرّر العلامة">
 <!ENTITY editBookmarkTags.label    "أضِف الوسوم هنا">
+<!ENTITY contextBookmarkLink.label "علّم الوصلة">
 <!ENTITY editBookmarkDone.label    "تمّ">
 
 <!ENTITY selectHelper.done         "تمّ">

@@ -104,7 +104,7 @@ can reach it easily. -->
 <!ENTITY subscribeToPageMenuitem.label "اشترك في هذه الصفحة…">
 <!ENTITY addCurPagesCmd.label "علّم كل الألسنة…">
 <!ENTITY showAllBookmarks2.label "أظهِر كل العلامات">
-<!ENTITY bookmarkAllCmd.label "علّم كل الألسنة…">
+<!ENTITY unsortedBookmarksCmd.label "العلامات غير المرتبة">
 <!ENTITY bookmarksToolbarChevron.tooltip "أظهِر المزيد من العلامات">
 
 <!ENTITY backCmd.label "للخلف">
