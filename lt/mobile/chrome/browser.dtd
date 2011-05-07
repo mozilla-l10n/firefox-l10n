@@ -127,6 +127,7 @@
 <!ENTITY contextSaveImage.label           "Įrašyti paveikslą">
 <!ENTITY contextShareLink.label           "Dalintis saitu">
 <!ENTITY contextShareImage.label          "Dalintis paveikslu">
+<!ENTITY contextBookmarkLink.label        "Įrašyti saitą į adresyną">
 <!ENTITY contextSaveVideo.label           "Įrašyti vaizdą">
 <!ENTITY contextShareVideo.label          "Dalintis vaizdu">
 <!ENTITY contextPlayMedia.label           "Groti">
