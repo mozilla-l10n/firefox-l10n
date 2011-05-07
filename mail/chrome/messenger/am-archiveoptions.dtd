@@ -1,14 +1,14 @@
 <!-- extracted from am-archiveoptions.xul -->
 
 <!ENTITY dialogTitle.label "Arkiveringsalternativ">
-<!ENTITY archiveGranularityPrefix.label "Vid arkivering av meddelanden, placera dem i:">
+<!ENTITY archiveGranularityPrefix.label "Placera arkiverade meddelanden i:">
 <!ENTITY archiveFlat.label "En enda mapp">
 <!ENTITY archiveFlat.accesskey "E">
-<!ENTITY archiveYearly.label "Årliga mappar">
+<!ENTITY archiveYearly.label "Årsvisa mappar">
 <!ENTITY archiveYearly.accesskey "Å">
-<!ENTITY archiveMonthly.label "Månatliga mappar">
+<!ENTITY archiveMonthly.label "Månadsvisa mappar">
 <!ENTITY archiveMonthly.accesskey "M">
-<!ENTITY keepFolderStructure.label "Behåll existerande mappstruktur för arkiverade meddelanden">
+<!ENTITY keepFolderStructure.label "Bevara existerande mappstruktur för arkiverade meddelanden">
 <!ENTITY keepFolderStructure.accesskey "B">
 <!ENTITY archiveExample.label "Exempel">
 <!-- LOCALIZATION NOTE (archiveFolderName.label): this should match the default
