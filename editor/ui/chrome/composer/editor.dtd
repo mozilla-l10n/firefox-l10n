@@ -44,10 +44,18 @@
 
 <!-- Toolbar-only items -->
 <!ENTITY compositionToolbar.tooltip "Barra de composición">
+<!ENTITY previewToolbarCmd.label "Navegar">
+<!ENTITY previewToolbarCmd.tooltip "Cargar esta página en el navegador">
+
+<!-- File menu items -->
+<!ENTITY exportToTextCmd.label "Exportar a texto…">
+<!ENTITY exportToTextCmd.accesskey "t">
+<!ENTITY previewCmd.label "Examinar página">
+<!ENTITY previewCmd.accesskey "x">
+<!ENTITY sendPageCmd.label "Enviar página…">
+<!ENTITY sendPageCmd.accesskey "E">
 
 <!-- View menu items -->
-<!ENTITY viewMenu.label "Ver">
-<!ENTITY viewMenu.accesskey "v">
 <!ENTITY compositionToolbarCmd.label "Barra de composición">
 <!ENTITY compositionToolbarCmd.accesskey "c">
 <!ENTITY formattingToolbarCmd.label "Barra de formato">
