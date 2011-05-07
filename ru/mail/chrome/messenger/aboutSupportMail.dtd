@@ -6,6 +6,7 @@
 <!ENTITY aboutSupport.accountsName "Имя">
 <!ENTITY aboutSupport.accountsIncomingServer "Cервер входящей почты">
 <!ENTITY aboutSupport.accountsOutgoingServers "Cервер исходящей почты">
+<!ENTITY aboutSupport.accountsServerName "Имя">
 <!ENTITY aboutSupport.accountsConnSecurity "Защита соединения">
 <!ENTITY aboutSupport.accountsAuthMethod "Метод аутентификации">
 <!ENTITY aboutSupport.accountsDefault "По умолчанию?">
