@@ -7,6 +7,7 @@
 <!ENTITY aboutSupport.accountsName "Namn">
 <!ENTITY aboutSupport.accountsIncomingServer "Inkommande server">
 <!ENTITY aboutSupport.accountsOutgoingServers "Utgående servrar">
+<!ENTITY aboutSupport.accountsServerName "Namn">
 <!ENTITY aboutSupport.accountsConnSecurity "Anslutningssäkerhet">
 <!ENTITY aboutSupport.accountsAuthMethod "Autentiseringsmetod">
 <!ENTITY aboutSupport.accountsDefault "Standard?">
