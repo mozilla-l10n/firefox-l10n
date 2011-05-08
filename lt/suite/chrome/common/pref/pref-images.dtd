@@ -35,12 +35,12 @@
 
 <!ENTITY imageDetails                   "Nurodykite, kaip valdyti paveikslų atsiuntimą iš svetainių.">
 
-<!ENTITY accAllImagesRadio.label        "Priimti visus paveikslus">
-<!ENTITY accAllImagesRadio.accesskey    "P">
-<!ENTITY accOrgImagesRadio.label        "Priimti paveikslus tik iš pirminės svetainės serverio">
-<!ENTITY accOrgImagesRadio.accesskey    "i">
-<!ENTITY disableImages.label            "Paveikslų neatsiųsti">
-<!ENTITY disableImages.accesskey        "n">
+<!ENTITY loadAllImagesRadio.label       "Įkelti visus paveikslus">
+<!ENTITY loadAllImagesRadio.accesskey   "k">
+<!ENTITY loadOrgImagesRadio.label       "Įkelti paveikslus tik iš pirminės svetainės serverio">
+<!ENTITY loadOrgImagesRadio.accesskey   "p">
+<!ENTITY loadNoImagesRadio.label        "Neįkelti paveikslų">
+<!ENTITY loadNoImagesRadio.accesskey    "N">
 <!ENTITY viewPermissions.label          "Tvarkyti leidimus">
 <!ENTITY viewPermissions.accesskey      "T">
 <!ENTITY animLoopingTitle.label         "Paveikslo animacijos ciklo kartojimas">

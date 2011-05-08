@@ -71,11 +71,19 @@
 <!ENTITY pasteCmd.accesskey                         "d"> 
 <!ENTITY pasteGoCmd.label                           "Įdėti ir atverti">
 <!ENTITY pasteGoCmd.accesskey                       "ė">
+<!-- LOCALIZATION NOTE (pasteSearchCmd): "Search" is a verb, this is the
+     search bar equivalent to the url bar's "Paste & Go"  -->
+<!ENTITY pasteSearchCmd.label                       "Įdėti ir ieškoti">
+<!ENTITY pasteSearchCmd.accesskey                   "ė">
 <!ENTITY deleteCmd.label                            "Pašalinti">  
 <!ENTITY deleteCmd.accesskey                        "š"> 
 <!ENTITY selectAllCmd.label                         "Pažymėti viską">  
 <!ENTITY selectAllCmd.key                           "A">  
 <!ENTITY selectAllCmd.accesskey                     "v"> 
+<!ENTITY clearHistoryCmd.label                      "Išvalyti paieškos praeities sąrašą">
+<!ENTITY clearHistoryCmd.accesskey                  "v">
+<!ENTITY showSuggestionsCmd.label                   "Rodyti siūlymus">
+<!ENTITY showSuggestionsCmd.accesskey               "R">
 <!ENTITY preferencesCmd.label                       "Nuostatos…">
 <!ENTITY preferencesCmd.key                         "E">  
 <!ENTITY preferencesCmd.accesskey                   "N"> 
@@ -98,6 +106,8 @@
 <!ENTITY helpTroubleshootingInfo.accesskey          "s">
 <!ENTITY releaseCmd.label                           "Laidos apžvalga">
 <!ENTITY releaseCmd.accesskey                       "L">
+<!ENTITY helpSafeMode.label                         "Perleisti programą, išjungus priedus">
+<!ENTITY helpSafeMode.accesskey                     "r">
 <!ENTITY updateCmd.label                            "Tikrinti ar yra naujinimų…">
 <!ENTITY updateCmd.accesskey                        "T">
 <!ENTITY aboutCmd.label                             "Apie „&brandShortName;“">

@@ -46,8 +46,8 @@
 <!ENTITY showTrayIcon.accesskey           "t">
 <!ENTITY bounceSystemDockIcon.label       "animuoti pritvirtinamą piktogramą">
 <!ENTITY bounceSystemDockIcon.accesskey   "a">
-<!ENTITY preview.label                    "Perklausyti">
-<!ENTITY preview.accesskey                "P">
+<!ENTITY playButton.label                 "Perklausyti">
+<!ENTITY playButton.accesskey             "k">
 <!ENTITY systemsound.label                "naudoti sistemoje numatytą garsą">
 <!ENTITY systemsound.accesskey            "s">
 <!ENTITY customsound.label                "parinkti kitą garso failą">
