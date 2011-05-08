@@ -367,7 +367,7 @@
 <!ENTITY killThreadMenu.label "Ignorer la discussion">
 <!ENTITY killThreadMenu.accesskey "I">
 <!ENTITY killThreadMenu.key "k">
-<!ENTITY killSubthreadMenu.label "Ignorer les discussions filles">
+<!ENTITY killSubthreadMenu.label "Ignorer les sous-fils de discussion">
 <!ENTITY killSubthreadMenu.accesskey "n">
 <!ENTITY killSubthreadMenu.key "k">
 <!ENTITY watchThreadMenu.label "Surveiller la discussion">
