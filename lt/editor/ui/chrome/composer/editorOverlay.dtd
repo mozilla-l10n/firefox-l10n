@@ -71,14 +71,8 @@
 <!ENTITY publishCmd.key                "S">
 <!ENTITY publishAsCmd.label            "Publikuoti kitaip…">
 <!ENTITY publishAsCmd.accesskey        "i">
-<!ENTITY exportToTextCmd.label         "Įrašyti grynuoju tekstu…">
-<!ENTITY exportToTextCmd.accesskey     "y">
 <!ENTITY saveAsChangeEncodingCmd.label "Pakeisti koduotę ir įrašyti…">
 <!ENTITY saveAsChangeEncodingCmd.accesskey "d">
-<!ENTITY previewCmd.label              "Atverti naršyklėje">
-<!ENTITY previewCmd.accesskey          "š">
-<!ENTITY sendPageCmd.label             "Išsiųsti tinklalapį el. paštu…">
-<!ENTITY sendPageCmd.accesskey         "l">
 <!ENTITY printSetupCmd.label           "Puslapio nuostatos…">
 <!ENTITY printSetupCmd.accesskey       "u">
 <!ENTITY printCmd.label                "Spausdinti…">
@@ -406,8 +400,6 @@
 <!ENTITY openToolbarCmd.tooltip        "Atverti failą iš šio kompiuterio">
 <!ENTITY saveToolbarCmd.tooltip        "Įrašyti failą į diską">
 <!ENTITY publishToolbarCmd.tooltip     "Nusiųsti failą į nuotolinį kompiuterį">
-<!ENTITY previewToolbarCmd.label       "Naršyklė">
-<!ENTITY previewToolbarCmd.tooltip     "Peržiūrėti šį tinklalapį naršykle">
 <!ENTITY printToolbarCmd.label         "Spausdinti">
 <!ENTITY printToolbarCmd.tooltip       "Spausdinti šį tinklalapį">
 <!ENTITY findToolbarCmd.label          "Ieškoti">

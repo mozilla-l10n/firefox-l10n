@@ -46,11 +46,19 @@
 <!-- Menu items:  the . means that the menu item isn't implemented yet -->
 
 <!-- Toolbar-only items -->
-<!ENTITY compositionToolbar.tooltip    "Taisos mygtukų juosta">
+<!ENTITY compositionToolbar.tooltip "Taisos mygtukų juosta">
+<!ENTITY previewToolbarCmd.label "Peržiūra">
+<!ENTITY previewToolbarCmd.tooltip "Peržiūrėti šį tinklalapį naršyklėje">
+
+<!-- File menu items -->
+<!ENTITY exportToTextCmd.label "Eksportuoti grynuoju tekstu…">
+<!ENTITY exportToTextCmd.accesskey "g">
+<!ENTITY previewCmd.label "Atverti naršyklėje">
+<!ENTITY previewCmd.accesskey "š">
+<!ENTITY sendPageCmd.label "Išsiųsti tinklalapį el. paštu…">
+<!ENTITY sendPageCmd.accesskey "l">
 
 <!-- View menu items -->
-<!ENTITY viewMenu.label "Rodymas">
-<!ENTITY viewMenu.accesskey "R">
 <!ENTITY compositionToolbarCmd.label "Taisos mygtukų juosta">
 <!ENTITY compositionToolbarCmd.accesskey "T">
 <!ENTITY formattingToolbarCmd.label "Formatavimo priemonių juosta">
