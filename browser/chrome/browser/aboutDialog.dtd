@@ -1,16 +1,17 @@
 <!ENTITY aboutDialog.title          "Über &brandFullName;">
 
-<!ENTITY community.start2           "&brandShortName; wird designed von ">
+<!ENTITY community.start2           "&brandShortName; wird entwickelt und gestaltet von ">
 <!-- LOCALIZATION NOTE (community.mozillaLink): This is a link title that links to http://www.mozilla.org/. -->
 <!ENTITY community.mozillaLink      "&vendorShortName;">
 <!ENTITY community.middle2          ", einer ">
 <!-- LOCALIZATION NOTE (community.creditsLink): This is a link title that links to about:credits. -->
 <!ENTITY community.creditsLink      "globalen Community">
-<!ENTITY community.end2             ", die daran arbeitet, das Internet besser zu machen. Wir glauben, dass das Internet offen sein sollte, ein öffentlicher Ort, zugänglich für jeden, ohne Einschränkung.">
+<!ENTITY community.end2             ", die gemeinsam daran arbeitet, das Internet besser zu machen. Wir glauben, dass das Internet frei und öffentlich sein sollte, zugänglich für jeden, ohne jegliche Einschränkung.">
+									   
 
-<!ENTITY contribute.start           "Hört sich interessant an? ">
+<!ENTITY contribute.start           "Klingt interessant? ">
 <!-- LOCALIZATION NOTE (contribute.getInvolvedLink): This is a link title that links to http://www.mozilla.org/contribute/. -->
-<!ENTITY contribute.getInvolvedLink "Mitmachen.">
+<!ENTITY contribute.getInvolvedLink "Jetzt mitmachen.">
 <!ENTITY contribute.end             "">
 
 <!-- LOCALIZATION NOTE (bottomLinks.license): This is a link title that links to about:license. -->
