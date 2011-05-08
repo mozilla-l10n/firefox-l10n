@@ -39,10 +39,10 @@
 <!ENTITY emailCollectionPicker.accesskey       "A">
 <!ENTITY addressingTitle.label                 "Auto-complétion d'adresses">
 <!ENTITY autocompleteText.label                "Lors de la recherche d'adresses, chercher les correspondances dans :">
-<!ENTITY addressingEnable.label                "Carnets d'adresses locaux">
+<!ENTITY addressingEnable.label                "les carnets d'adresses locaux">
 <!ENTITY addressingEnable.accesskey            "C">
-<!ENTITY directories.label                     "Serveur d'annuaire :">
-<!ENTITY directories.accesskey                 "S">
+<!ENTITY directories.label                     "un serveur d'annuaire :">
+<!ENTITY directories.accesskey                 "s">
 <!ENTITY directoriesNone.label                 "Aucun">
 <!ENTITY editDirectories.label                 "Modifier les annuaires…">
 <!ENTITY editDirectories.accesskey             "M">
