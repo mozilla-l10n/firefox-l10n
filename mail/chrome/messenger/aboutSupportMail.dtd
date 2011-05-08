@@ -7,6 +7,7 @@
 <!ENTITY aboutSupport.accountsName "Pavadinimas">
 <!ENTITY aboutSupport.accountsIncomingServer "Laiškų gavimo serveris">
 <!ENTITY aboutSupport.accountsOutgoingServers "Laiškų išsiuntimo serveris">
+<!ENTITY aboutSupport.accountsServerName "Serverio vardas">
 <!ENTITY aboutSupport.accountsConnSecurity "Saugusis ryšys">
 <!ENTITY aboutSupport.accountsAuthMethod "Tapatumo tikrinimo metodas">
 <!ENTITY aboutSupport.accountsDefault "Ar numatytoji">
