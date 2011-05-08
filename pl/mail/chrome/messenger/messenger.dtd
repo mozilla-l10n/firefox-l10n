@@ -698,6 +698,7 @@
 <!-- Phshing Bar -->
 <!ENTITY phishingBarMessage2.label      "Ta wiadomość może być próbą oszustwa.">
 <!ENTITY removePhishingBarButton1.label "Zignoruj ostrzeżenie" >
+<!ENTITY disablePhishingWarning1.label  "Wyłącz ostrzeżenia o próbach oszustwa (dla wszystkich wiadomości)">
 <!ENTITY reportPhishingError1.label     "Ta wiadomość nie wygląda na próbę oszustwa.">
 
 <!-- MDN Bar -->
