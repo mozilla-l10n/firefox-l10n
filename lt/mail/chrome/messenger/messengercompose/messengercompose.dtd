@@ -231,6 +231,9 @@
 <!ENTITY pasteButton.tooltip            "Įdėti">
 
 <!-- Headers -->
+<!--LOCALIZATION NOTE headersSpace.style is for aligning  the From:, To: and
+    Subject: rows. It should be larger than the largest Header label  -->
+ <!ENTITY headersSpace.style "width: 6em;">
 <!ENTITY fromAddr.label "Kas:">
 <!ENTITY fromAddr.accesskey "K">
 <!ENTITY toAddr.label "Kam:"> 
