@@ -133,8 +133,8 @@
 
 <!ENTITY detailsPane.more.label                    "Daugiau">
 <!ENTITY detailsPane.more.accesskey                "a">
-<!ENTITY detailsPane.less.label                    "Mažiau">
-<!ENTITY detailsPane.less.accesskey                "a">
+<!ENTITY detailsPane.fewer.label                   "Mažiau">
+<!ENTITY detailsPane.fewer.accesskey               "a">
 <!ENTITY detailsPane.selectAnItemText.description  "Pažymėkite objektą, kurio savybes norite peržiūrėti ar redaguoti">
 
 <!ENTITY editBookmark.done.label                   "Baigta">

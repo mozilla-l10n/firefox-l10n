@@ -64,5 +64,5 @@
 <!ENTITY showAlert.accesskey            "o">
 <!ENTITY browse.label                   "Parinkti…">
 <!ENTITY browse.accesskey               "r">
-<!ENTITY preview.label                  "Peržiūra">
-<!ENTITY preview.accesskey              "ž">
+<!ENTITY playButton.label               "Perklausyti">
+<!ENTITY playButton.accesskey           "k">

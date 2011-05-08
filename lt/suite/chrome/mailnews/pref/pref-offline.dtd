@@ -63,4 +63,4 @@
 <!ENTITY Diskspace                        "Disko atmintinė">
 <!ENTITY offlineCompact.label             "Suglaudinti aplankus, kai juose yra daugiau negu">
 <!ENTITY offlineCompact.accesskey         "S">
-<!ENTITY kb.label                         "KB">
+<!ENTITY mb.label                         "MB">
