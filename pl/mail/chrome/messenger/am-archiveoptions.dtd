@@ -1,0 +1,13 @@
+<!ENTITY dialogTitle.label              "Ustawienia archiwizacji">
+<!ENTITY archiveGranularityPrefix.label "Archiwum wiadomości przechowuj w:">
+<!ENTITY archiveFlat.label              "Pojedynczym folderze">
+<!ENTITY archiveFlat.accesskey          "P">
+<!ENTITY archiveYearly.label            "Rocznych folderach">
+<!ENTITY archiveYearly.accesskey        "R">
+<!ENTITY archiveMonthly.label           "Miesięcznych folderach">
+<!ENTITY archiveMonthly.accesskey       "M">
+<!ENTITY keepFolderStructure.label      "Utrzymuj istniejącą strukturę folderów w archiwum">
+<!ENTITY keepFolderStructure.accesskey  "U">
+<!ENTITY archiveExample.label           "Przykład">
+<!ENTITY archiveFolderName.label        "Archiwum">
+<!ENTITY inboxFolderName.label          "Odebrane">
