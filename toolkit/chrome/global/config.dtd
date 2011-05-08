@@ -75,7 +75,7 @@
 <!ENTITY new.accesskey "N">
 <!ENTITY string.label "Chaîne de caractères">
 <!ENTITY string.accesskey "C">
-<!ENTITY integer.label "Valeur numérique">
+<!ENTITY integer.label "Nombre entier">
 <!ENTITY integer.accesskey "n">
 <!ENTITY boolean.label "Valeur booléenne">
 <!ENTITY boolean.accesskey "b">
