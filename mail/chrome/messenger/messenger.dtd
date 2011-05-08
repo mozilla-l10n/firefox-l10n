@@ -779,12 +779,14 @@ you can use these alternative items. Otherwise, their values should be empty.  -
 <!-- Phshing bar Bar -->
 <!ENTITY phishingBarMessage2.label "Šis laiškas gali būti apgaulingas.">
 <!ENTITY removePhishingBarButton1.label "Nepaisyti įspėjimo">
+<!ENTITY disablePhishingWarning1.label "Apgaulės laiškuose daugiau nebeieškoti">
 <!ENTITY reportPhishingError1.label "Nepanašu, kad šiame laiške slypėtų apgaulė.">
 
 <!-- MDN Bar -->
-<!ENTITY mdnBarMessage.label "Šio laiško siuntėjas pageidavo pažymos, kad perskaitėte jo laišką. Ar išsiųsti tokią pažymą?">
-<!ENTITY mdnBarIgnoreButton.label "Nepaisyti prašymo">
-<!ENTITY mdnBarSendButton.label "Išsiųsti pažymą">
+<!ENTITY mdnBarIgnoreButton2.label "Nepaisyti prašymo">
+<!ENTITY mdnBarIgnoreButton2.accesskey "N">
+<!ENTITY mdnBarSendButton2.label "Išsiųsti pažymą">
+<!ENTITY mdnBarSendButton2.accesskey "s">
 
 <!-- Quick Search Bar -->
 <!-- LOCALIZATION NOTE (quickSearchCmd.key):
