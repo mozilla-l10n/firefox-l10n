@@ -90,6 +90,6 @@
 <!ENTITY deleteFromPOP.label "Supprimer du serveur POP">
 <!ENTITY fetchFromPOP.label "Télécharger depuis le serveur POP">
 <!ENTITY ignoreThread.label "Ignorer la discussion">
-<!ENTITY ignoreSubthread.label "Ignorer la discussion fille">
+<!ENTITY ignoreSubthread.label "Ignorer le sous-fil de discussion">
 <!ENTITY watchThread.label "Surveiller la discussion">
 <!ENTITY stopExecution.label "Arrêter l'exécution du filtrage">
