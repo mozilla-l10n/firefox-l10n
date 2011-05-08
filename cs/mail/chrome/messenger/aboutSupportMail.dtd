@@ -7,6 +7,7 @@
 <!ENTITY aboutSupport.accountsName "Název">
 <!ENTITY aboutSupport.accountsIncomingServer "Příchozí server">
 <!ENTITY aboutSupport.accountsOutgoingServers "Odchozí servery">
+<!ENTITY aboutSupport.accountsServerName "Název">
 <!ENTITY aboutSupport.accountsConnSecurity "Zabezpečení spojení">
 <!ENTITY aboutSupport.accountsAuthMethod "Způsob autentizace">
 <!ENTITY aboutSupport.accountsDefault "Výchozí?">
