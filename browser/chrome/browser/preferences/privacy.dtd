@@ -7,13 +7,13 @@
 
 <!ENTITY  locationBar.label             "Adressleiste">
 
-<!ENTITY  locbar.pre.label              "">
-<!ENTITY  locbar.pre.accessKey          "">
-<!ENTITY  locbar.post.label             " anzeigen, wenn Adressleiste verwendet wird">
-<!ENTITY  locbar.both.label             "Chronik und Lesezeichen">
-<!ENTITY  locbar.history.label          "Chronik">
-<!ENTITY  locbar.bookmarks.label        "Lesezeichen">
-<!ENTITY  locbar.nothing.label          "Nichts">
+<!ENTITY  locbar.pre.label              "Bei Eingaben in die Adressleiste">
+<!ENTITY  locbar.pre.accessKey          "A">
+<!ENTITY  locbar.post.label             " vorschlagen">
+<!ENTITY  locbar.both.label             "Einträge aus Chronik und Lesezeichen">
+<!ENTITY  locbar.history.label          "Einträge aus der Chronik">
+<!ENTITY  locbar.bookmarks.label        "Einträge aus den Lesezeichen">
+<!ENTITY  locbar.nothing.label          "nichts">
 
 
 <!ENTITY  acceptCookies.label           "Cookies akzeptieren">
