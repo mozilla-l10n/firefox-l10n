@@ -86,7 +86,7 @@
 
 <!-- Existing Account Page 1: Add Device (incl. Add a Device dialog strings) -->
 <!ENTITY addDevice.title.label              "Įrenginio pridėjimas">
-<!ENTITY addDevice.showMeHow.label          "Show me how.">
+<!ENTITY addDevice.showMeHow.label          "Parodyti instrukciją.">
 <!ENTITY addDevice.dontHaveDevice.label     "Įrenginio su savimi neturiu">
 <!ENTITY addDevice.setup.description.label  "Norėdami įjungti sinchronizavimą, atverkite „&syncBrand.shortName.label;“ nuostatas kitame įrenginyje ir pasirinkite punktą „Pridėti įrenginį“.">
 <!ENTITY addDevice.setup.enterCode.label    "O tada įveskite šį kodą:">

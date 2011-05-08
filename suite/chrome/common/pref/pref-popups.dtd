@@ -50,8 +50,8 @@
 
 <!ENTITY selectSound.label              "Parinkti…">
 <!ENTITY selectSound.accesskey          "P">
-<!ENTITY previewSound.label             "Perklausyti">
-<!ENTITY previewSound.accesskey         "k">
+<!ENTITY playSoundButton.label          "Perklausyti">
+<!ENTITY playSoundButton.accesskey      "k">
 <!ENTITY selectSound.title              "Signalo garso failo parinkimas">
 <!ENTITY selectSound.filter             "Garso įrašai">
 
