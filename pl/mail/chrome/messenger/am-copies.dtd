@@ -16,19 +16,23 @@
 <!ENTITY sentFolderOn.accesskey          "W">
 <!ENTITY sentInOtherFolder.label         "folderze:">
 <!ENTITY sentInOtherFolder.accesskey     "f">
+<!ENTITY archivesTitle.label              "Archiwum">
+<!ENTITY keepArchives.label               "Archiwum wiadomości przechowuj w:">
+<!ENTITY keepArchives.accesskey           "r">
+<!ENTITY archiveHierarchyButton.label     "Ustawienia archiwizacji…">
+<!ENTITY archiveHierarchyButton.accesskey "t">
+<!ENTITY archivesFolderOn.label           "folderze Archiwum konta:">
+<!ENTITY archivesFolderOn.accesskey       "A">
+<!ENTITY archiveInOtherFolder.label       "folderze:">
+<!ENTITY archiveInOtherFolder.accesskey   "d">
+<!ENTITY specialFolders.label             "Szkice i szablony">
+<!ENTITY keepDrafts.label                 "Szkice wiadomości przechowuj w:">
 <!ENTITY draftsFolderOn.label            "folderze Szkice konta:">
 <!ENTITY draftsFolderOn.accesskey        "S">
 <!ENTITY draftInOtherFolder.label        "folderze:">
 <!ENTITY draftInOtherFolder.accesskey    "l">
-<!ENTITY archivesFolderOn.label          "folderze Archiwum konta:">
-<!ENTITY archivesFolderOn.accesskey      "A">
-<!ENTITY archiveInOtherFolder.label      "folderze:">
-<!ENTITY archiveInOtherFolder.accesskey  "d">
+<!ENTITY keepTemplates.label              "Szablony wiadomości przechowuj w:">
 <!ENTITY templatesFolderOn.label         "folderze Szablony konta:">
 <!ENTITY templatesFolderOn.accesskey     "z">
 <!ENTITY templateInOtherFolder.label     "innym folderze:">
 <!ENTITY templateInOtherFolder.accesskey "n">
-<!ENTITY specialFoldersTitle.label       "Szkice, archiwum i szablony">
-<!ENTITY keepDrafts.label                "Szkice wiadomości przechowuj w:">
-<!ENTITY keepArchives.label              "Archiwum wiadomości przechowuj w:">
-<!ENTITY keepTempltes.label              "Szablony wiadomości przechowuj w:">
