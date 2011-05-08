@@ -124,7 +124,7 @@ can reach it easily. -->
 <!ENTITY printButton.label            "Moullañ">
 <!ENTITY printButton.tooltip          "Moullañ ar bajennad-mañ">
 
-<!ENTITY backForwardItem.title        "Kent/War-lec'h">
+<!ENTITY backForwardItem.title        "Kent/War-lerc'h">
 <!ENTITY locationItem.title           "Lec'h">
 <!ENTITY searchItem.title             "Klask">
 <!ENTITY throbberItem.title           "Meneger an oberiantiz">
@@ -194,7 +194,7 @@ can reach it easily. -->
 <!ENTITY inspectPanelTitle.label      "HTML">
 <!ENTITY inspectButton.label          "Imbourc'hiñ">
 <!ENTITY inspectButton.accesskey      "I">
-<!ENTITY inspectNextButton.label      "War-lec'h">
+<!ENTITY inspectNextButton.label      "War-lerc'h">
 <!ENTITY inspectNextButton.accesskey  "W">
 <!ENTITY inspectPreviousButton.label  "A-raok">
 <!ENTITY inspectPreviousButton.accesskey "A">
@@ -367,7 +367,7 @@ can reach it easily. -->
 <!ENTITY savePageCmd.label            "Enrollañ ar bajenn evel…">
 <!ENTITY savePageCmd.accesskey        "a">
 <!-- alternate for content area context menu -->
-<!ENTITY savePageCmd.accesskey2       "d">
+<!ENTITY savePageCmd.accesskey2       "b">
 <!ENTITY savePageCmd.commandkey       "s">
 <!ENTITY saveFrameCmd.label           "Enrollañ ar frammad evel…">
 <!ENTITY saveFrameCmd.accesskey       "f">

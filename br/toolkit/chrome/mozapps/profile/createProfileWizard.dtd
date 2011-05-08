@@ -7,7 +7,7 @@
 <!ENTITY profileCreationExplanation_3.text  "Mard oc'h an den nemetañ oc'h ober gant an eilad-mañ eus &brandShortName;, ez eo ret deoc'h kaout un aelad da vihanañ. Mar fell deoc'h e c'hallot krouiñ meur a aelad evidoc'h-c'hwi a-benn mirout kefluniadurioù disheñvel eus hoc'h arventennoù ha gwellvezioù. Da skouer, c'hoant ho pefe kaout un aelad evit ar vicher hag unan all evit ar vuhez prevez.">
 <!ENTITY profileCreationExplanation_4.text  "Evit krouiñ hoc'h aelad, klikañ war War-lerc'h.">
 <!ENTITY profileCreationExplanation_4Mac.text  "Evit krouiñ hoc'h aelad, klikit war Kenderc'hel.">
-<!ENTITY profileCreationExplanation_4Gnome.text  " Evit krouiñ hoc'h aelad, klikit war War-lec'h.">
+<!ENTITY profileCreationExplanation_4Gnome.text  "Evit krouiñ hoc'h aelad, klikit war War-lerc'h.">
 
 <!-- Second wizard page -->
 <!ENTITY profileCreationIntro.text      "Mar bez krouet meur a aelad ganeoc'h e c'hallot o diforc'hañ dre an anvioù aeladoù. Tu zo deoc'h d'ober gant an anv roet amañ pe arverañ unan e-touez ho re.">
