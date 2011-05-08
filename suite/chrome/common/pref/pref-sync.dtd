@@ -5,7 +5,7 @@
 
 <!-- The page shown when logged in... -->
 <!ENTITY accountGroupboxCaption.label "„&syncBrand.fullName.label;“ paskyra">
-<!ENTITY currentAccount.label         "Naudojama paskyra:">
+<!ENTITY accountName.label            "Naudojama paskyra:">
 
 <!-- Login error feedback -->
 <!ENTITY updatePass.label             "Atnaujinti">
@@ -14,7 +14,8 @@
 <!ENTITY resetPass.accesskey          "P">
 
 <!-- Manage Account -->
-<!ENTITY manageAccount.label          "Paskyros tvarkymas">
+<!ENTITY manageAccount.label          "Tvarkyti paskyrą">
+<!ENTITY manageAccount.accesskey      "T">
 <!ENTITY viewQuota.label              "Kvota">
 <!ENTITY viewQuota.accesskey          "K">
 <!ENTITY changePassword.label         "Keisti slaptažodį">
@@ -23,15 +24,16 @@
 <!ENTITY mySyncKey.accesskey          "r">
 <!ENTITY resetSync.label              "Šviežiai sinchronizuoti duomenis">
 <!ENTITY resetSync.accesskey          "Š">
-<!ENTITY stopUsingAccount.label       "Nebenaudoti šios paskyros">
-<!ENTITY stopUsingAccount.accesskey   "b">
+<!ENTITY deactivateDevice.label       "Nebesinchronizuoti šio įrenginio">
+<!ENTITY deactivateDevice.accesskey   "b">
+<!ENTITY addDevice.label              "Pridėti įrenginį">
+<!ENTITY addDevice.accesskey          "d">
 
 <!-- Sync Settings -->
-<!ENTITY syncPrefsCaption.label       "Naršyklės duomenų sinchronizavimas">
 <!ENTITY syncComputerName.label       "Kompiuterio vardas:">
 <!ENTITY syncComputerName.accesskey   "v">
 
-<!ENTITY syncMy.label               "Sinchronizuoti:">
+<!ENTITY syncMy2.label              "Sinchronizuoti:">
 <!ENTITY engine.bookmarks.label     "adresyną">
 <!ENTITY engine.bookmarks.accesskey "a">
 <!ENTITY engine.tabs.label          "korteles">
