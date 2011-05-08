@@ -1,3 +1,6 @@
+<!ENTITY tracking.label "Высочванне">
+<!ENTITY doNotTrack.label "Паведамляць сеціўным пляцоўкам, што я не жадаю, каб за мною сачылі">
+<!ENTITY doNotTrack.accesskey "н">
 <!ENTITY history.label "Гісторыя">
 <!ENTITY locationBar.label "Паліца месцазнаходжання">
 <!ENTITY locbar.pre.label "Калі выкарыстоўваецца паліца месцазнаходжання, прапаноўваць:">

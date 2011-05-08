@@ -7,8 +7,9 @@
 <!ENTITY closeTabCmd2.accesskey "ч">
 <!ENTITY closeOtherTabsCmd2.label "Зачыніць іншыя ўстаўкі">
 <!ENTITY closeOtherTabsCmd2.accesskey "і">
-<!ENTITY undoCloseTabCmd.label "Адмяніць закрыццё ўстаўкі">
-<!ENTITY undoCloseTabCmd.accesskey "А">
+<!ENTITY recentlyClosedTabsCmd.label "Нядаўна зачыненыя ўстаўкі">
+<!ENTITY recentlyClosedTabsCmd.accesskey "я">
+<!ENTITY undoCloseTabCmd.commandkey "я">
 <!ENTITY moveToNewWindow.label "Перамясціць у новае акно">
 <!ENTITY moveToNewWindow.accesskey "н">
 <!ENTITY newVirtualFolderCmd.label "Захаваны пошук…">
@@ -28,7 +29,7 @@
 <!ENTITY saveAsFileCmd.key "s">
 <!ENTITY saveAsTemplateCmd.label "Узор">
 <!ENTITY saveAsTemplateCmd.accesskey "У">
-<!ENTITY getNewMsgCmd.key "t">
+<!ENTITY getNewMsgCmd.key "d">
 <!ENTITY getNewMsgForCmd.label "Атрымаць новыя лісты для">
 <!ENTITY getNewMsgForCmd.accesskey "я">
 <!ENTITY getAllNewMsgCmdPopupMenu.label "Усе рахункі">
@@ -289,6 +290,7 @@
 <!ENTITY folderMenu.accesskey "а">
 <!ENTITY thisFolder.label "Гэтая папка">
 <!ENTITY thisFolder.accesskey "п">
+<!ENTITY goRecentlyClosedTabs.label "Нядаўна зачыненыя ўстаўкі">
 <!ENTITY startPageCmd.label "Пачатковая старонка Пошты">
 <!ENTITY startPageCmd.accesskey "П">
 <!ENTITY msgMenu.label "Ліст">
@@ -471,7 +473,7 @@
 <!ENTITY getMsgButton.tooltip "Атрымаць новыя лісты">
 <!ENTITY getAllNewMsgCmd.label "Атрымаць усе новыя лісты">
 <!ENTITY getAllNewMsgCmd.accesskey "А">
-<!ENTITY getAllNewMsgCmd.key "t">
+<!ENTITY getAllNewMsgCmd.key "d">
 <!ENTITY newMsgButton.tooltip "Стварыць новы ліст">
 <!ENTITY replyButton.tooltip "Адказаць на ліст">
 <!ENTITY replyAllButton.tooltip "Адказаць адпраўніку і ўсім атрымальнікам">
@@ -636,10 +638,12 @@
 <!ENTITY loadRemoteContentButton3.label "Паказаць адлеглае змесціва">
 <!ENTITY phishingBarMessage2.label "Гэты ліст можа быць ашукай.">
 <!ENTITY removePhishingBarButton1.label "Ігнараваць папярэджанне">
+<!ENTITY disablePhishingWarning1.label "Забараніць вызначэнне ашукаў для ўсіх лістоў">
 <!ENTITY reportPhishingError1.label "Гэты ліст не падобны на ашуку.">
-<!ENTITY mdnBarMessage.label "Адпраўнік гэтага ліста просіць паведаміць яму, што вы прачыталі гэты ліст. Вы хочаце паведаміць адпраўніку аб прачытанні?">
-<!ENTITY mdnBarIgnoreButton.label "Ігнараваць запыт">
-<!ENTITY mdnBarSendButton.label "Даслаць квіток">
+<!ENTITY mdnBarIgnoreButton2.label "Ігнараваць">
+<!ENTITY mdnBarIgnoreButton2.accesskey "І">
+<!ENTITY mdnBarSendButton2.label "Даслаць квіток атрымання">
+<!ENTITY mdnBarSendButton2.accesskey "Д">
 <!ENTITY quickSearchCmd.key "k">
 <!ENTITY searchAllMessages.label.base "Шукаць усе лісты… #1">
 <!ENTITY searchAllMessages.keyLabel2.nonmac "&lt;Ctrl+K&gt;">

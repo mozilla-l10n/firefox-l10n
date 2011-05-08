@@ -1,4 +1,5 @@
 <!ENTITY window.title "Правіла сіта">
+<!ENTITY filterEditorDialog.dimensions "width: 110ch;">
 <!ENTITY filterName.label "Назва сіта:">
 <!ENTITY filterName.accesskey "і">
 <!ENTITY junk.label "Лухта">

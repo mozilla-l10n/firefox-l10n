@@ -4,8 +4,10 @@
 <!ENTITY helpMenuWin.accesskey "Д">
 <!ENTITY helpTroubleshootingInfo.label "Звесткі для вырашэння праблемаў">
 <!ENTITY helpTroubleshootingInfo.accesskey "З">
-<!ENTITY releaseCmd.label "Заўвагі пра выданне">
-<!ENTITY releaseCmd.accesskey "в">
+<!ENTITY helpSafeMode.label "Перазапусціць з забароненымі дадаткамі…">
+<!ENTITY helpSafeMode.accesskey "е">
+<!ENTITY releaseCmd2.label "Заўвагі пра выданне">
+<!ENTITY releaseCmd2.accesskey "в">
 <!ENTITY whatsNewCmd.label "Што новага?">
 <!ENTITY whatsNewCmd.accesskey "Ш">
 <!ENTITY featureConfiguratorCmd.label "Памочнік міграцыі">

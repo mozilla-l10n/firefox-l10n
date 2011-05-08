@@ -26,9 +26,9 @@
 <!ENTITY downloadManagerCmd.label "Кіраўнік загрузак">
 <!ENTITY downloadManagerCmd.accesskey "З">
 <!ENTITY downloadManagerCmd.commandkey "j">
-<!ENTITY addonsManagerCmd.label "Кіраўнік дадаткаў">
-<!ENTITY addonsManagerCmd.accesskey "д">
-<!ENTITY addonsManagerCmd.commandkey "a">
+<!ENTITY addOnsManagerCmd.label "Кіраўнік дадаткаў">
+<!ENTITY addOnsManagerCmd.accesskey "A">
+<!ENTITY addOnsManagerCmd.commandkey "a">
 <!ENTITY switchProfileCmd.label "Змяніць профіль…">
 <!ENTITY switchProfileCmd.accesskey "З">
 <!ENTITY syncBrand.shortName.label "Sync">

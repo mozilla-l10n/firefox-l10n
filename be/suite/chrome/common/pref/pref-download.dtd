@@ -28,5 +28,5 @@
 <!ENTITY showAlert.accesskey "к">
 <!ENTITY browse.label "Агляд…">
 <!ENTITY browse.accesskey "г">
-<!ENTITY preview.label "Перадпрагляд">
-<!ENTITY preview.accesskey "п">
+<!ENTITY playButton.label "Граць">
+<!ENTITY playButton.accesskey "Г">

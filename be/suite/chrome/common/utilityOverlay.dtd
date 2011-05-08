@@ -63,6 +63,8 @@
 <!ENTITY helpTroubleshootingInfo.accesskey "З">
 <!ENTITY releaseCmd.label "Заўвагі аб выданні">
 <!ENTITY releaseCmd.accesskey "В">
+<!ENTITY helpSafeMode.label "Перазапусціць з забароненымі дадаткамі">
+<!ENTITY helpSafeMode.accesskey "е">
 <!ENTITY updateCmd.label "Праверыць, ці існуюць абнаўленні…">
 <!ENTITY updateCmd.accesskey "П">
 <!ENTITY aboutCmd.label "Пра &brandShortName;">

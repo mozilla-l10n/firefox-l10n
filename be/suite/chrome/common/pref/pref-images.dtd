@@ -1,12 +1,12 @@
 <!ENTITY pref.images.title "Выявы">
 <!ENTITY imageBlocking.label "Палітыка набывання выяваў">
 <!ENTITY imageDetails "Прызначыць, як &brandShortName; мусіць апрацоўваць выявы.">
-<!ENTITY accAllImagesRadio.label "Набываць усе выявы">
-<!ENTITY accAllImagesRadio.accesskey "Н">
-<!ENTITY accOrgImagesRadio.label "Набываць выявы толькі з зыходнага паслугача">
-<!ENTITY accOrgImagesRadio.accesskey "з">
-<!ENTITY disableImages.label "Не загружаць ніякіх выяваў">
-<!ENTITY disableImages.accesskey "н">
+<!ENTITY loadAllImagesRadio.label "Загрузіць усе выявы">
+<!ENTITY loadAllImagesRadio.accesskey "З">
+<!ENTITY loadOrgImagesRadio.label "Загружаць выявы толькі з першапачатковых пляцовак">
+<!ENTITY loadOrgImagesRadio.accesskey "т">
+<!ENTITY loadNoImagesRadio.label "Не загружаць ніякіх выяваў">
+<!ENTITY loadNoImagesRadio.accesskey "н">
 <!ENTITY viewPermissions.label "Кіраваць дазволамі">
 <!ENTITY viewPermissions.accesskey "д">
 <!ENTITY animLoopingTitle.label "Ажыўленыя выявы павінны паўтарацца">

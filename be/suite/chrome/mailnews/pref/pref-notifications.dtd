@@ -10,8 +10,8 @@
 <!ENTITY showTrayIcon.accesskey "л">
 <!ENTITY bounceSystemDockIcon.label "Ажывіць значок">
 <!ENTITY bounceSystemDockIcon.accesskey "А">
-<!ENTITY preview.label "Папярэдні прагляд">
-<!ENTITY preview.accesskey "П">
+<!ENTITY playButton.label "Граць">
+<!ENTITY playButton.accesskey "Г">
 <!ENTITY systemsound.label "Сістэмны гук новай пошты">
 <!ENTITY systemsound.accesskey "П">
 <!ENTITY customsound.label "Выбарачны файл .wav">

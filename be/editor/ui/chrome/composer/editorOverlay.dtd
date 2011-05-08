@@ -65,14 +65,8 @@
 <!ENTITY publishCmd.key "S">
 <!ENTITY publishAsCmd.label "Публікаваць як…">
 <!ENTITY publishAsCmd.accesskey "к">
-<!ENTITY exportToTextCmd.label "Экспартаваць як тэкст…">
-<!ENTITY exportToTextCmd.accesskey "т">
 <!ENTITY saveAsChangeEncodingCmd.label "Захаваць і змяніць кадоўку знакаў">
 <!ENTITY saveAsChangeEncodingCmd.accesskey "к">
-<!ENTITY previewCmd.label "Азірнуць старонку">
-<!ENTITY previewCmd.accesskey "з">
-<!ENTITY sendPageCmd.label "Даслаць старонку…">
-<!ENTITY sendPageCmd.accesskey "Д">
 <!ENTITY printSetupCmd.label "Уладкаванне старонкі…">
 <!ENTITY printSetupCmd.accesskey "У">
 <!ENTITY printCmd.label "Друкаваць…">
@@ -110,8 +104,6 @@
 <!ENTITY checkSpellingCmd2.label "Праверыць правапіс">
 <!ENTITY checkSpellingCmd2.accesskey "р">
 <!ENTITY checkSpellingCmd2.key "p">
-<!ENTITY validateCmd.label "Праверыць HTML">
-<!ENTITY validateCmd.accesskey "р">
 <!ENTITY insertMenu.label "Уставіць">
 <!ENTITY insertMenu.accesskey "У">
 <!ENTITY insertLinkCmd.label "Спасылка…">
@@ -300,10 +292,6 @@
 <!ENTITY decreaseIndent.label "Зменшыць водступ">
 <!ENTITY decreaseIndent.accesskey "м">
 <!ENTITY decreaseIndent.key "[">
-<!ENTITY grid.label "Пазіцыйная сетка">
-<!ENTITY grid.accesskey "с">
-<!ENTITY pageProperties.label "Загаловак і ўласцівасці старонкі…">
-<!ENTITY pageProperties.accesskey "г">
 <!ENTITY colorsAndBackground.label "Колеры і фон старонкі…">
 <!ENTITY colorsAndBackground.accesskey "ф">
 <!ENTITY tableMenu.label "Табліца">
@@ -362,8 +350,6 @@
 <!ENTITY openToolbarCmd.tooltip "Адчыніць мясцовы файл">
 <!ENTITY saveToolbarCmd.tooltip "Захаваць файл мясцова">
 <!ENTITY publishToolbarCmd.tooltip "Перадаць файл у адлеглае месца">
-<!ENTITY previewToolbarCmd.label "Азірнуць">
-<!ENTITY previewToolbarCmd.tooltip "Загрузіць гэтую старонку ў азіральнік">
 <!ENTITY printToolbarCmd.label "Друкаваць">
 <!ENTITY printToolbarCmd.tooltip "Надрукаваць гэтую старонку">
 <!ENTITY findToolbarCmd.label "Знайсці">

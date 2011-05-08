@@ -83,8 +83,8 @@
 <!ENTITY forwardButton.tooltip "Пайсці наперад">
 <!ENTITY detailsPane.more.label "Больш">
 <!ENTITY detailsPane.more.accesskey "Б">
-<!ENTITY detailsPane.less.label "Менш">
-<!ENTITY detailsPane.less.accesskey "М">
+<!ENTITY detailsPane.fewer.label "Менш">
+<!ENTITY detailsPane.fewer.accesskey "М">
 <!ENTITY detailsPane.selectAnItemText.description "Выбар адзінкі для прагляду і праўкі яе ўласцівасцяў">
 <!ENTITY editBookmark.done.label "Гатова">
 <!ENTITY editBookmark.cancel.label "Скасаваць">

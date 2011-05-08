@@ -23,6 +23,6 @@
 <!ENTITY engine.prefs.accesskey "в">
 <!ENTITY syncComputerName.label "Назва кампутара:">
 <!ENTITY syncComputerName.accesskey "к">
-<!ENTITY deactivateDevice.label "Абяздзейніць гэтую пабудову">
+<!ENTITY deactivateDevice.label "Абяздзейніць гэтую збудову">
 <!ENTITY prefs.tosLink.label "Умовы абслугоўвання">
 <!ENTITY prefs.ppLink.label "Палітыка адасаблення">
