@@ -6,5 +6,7 @@
 <!ENTITY searchResults.label "Вынікі пошуку">
 <!ENTITY openInTab.label "Адчыняць новыя ўстаўкі для вынікаў пошуку на бакавой палічцы">
 <!ENTITY openInTab.accesskey "н">
+<!ENTITY openContextSearchTab.label "Адчыняць устаўку замест акна для кантэкстнага пошуку сеціўнага пошуку з меню">
+<!ENTITY openContextSearchTab.accesskey "у">
 <!ENTITY openSidebarSearchPanel.label "Адчыняць устаўку пошуку на бакавой палічцы, калі вынікі пошуку даступны">
 <!ENTITY openSidebarSearchPanel.accesskey "ч">

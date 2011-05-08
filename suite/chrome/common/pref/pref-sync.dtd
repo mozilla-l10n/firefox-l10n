@@ -17,8 +17,10 @@
 <!ENTITY mySyncKey.accesskey "к">
 <!ENTITY resetSync.label "Узнавіць сінхранізацыю">
 <!ENTITY resetSync.accesskey "У">
-<!ENTITY stopUsingAccount.label "Перастаць карыстацца гэтым рахункам">
-<!ENTITY stopUsingAccount.accesskey "р">
+<!ENTITY deactivateDevice.label "Абяздзейніць гэтую збудову">
+<!ENTITY deactivateDevice.accesskey "б">
+<!ENTITY addDevice.label "Дадаць збудову">
+<!ENTITY addDevice.accesskey "Д">
 <!ENTITY syncComputerName.label "Назва кампутара:">
 <!ENTITY syncComputerName.accesskey "к">
 <!ENTITY syncMy2.label "Сінхранізаваць мае:">

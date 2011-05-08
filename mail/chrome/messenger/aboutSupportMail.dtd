@@ -6,6 +6,7 @@
 <!ENTITY aboutSupport.accountsName "Назва">
 <!ENTITY aboutSupport.accountsIncomingServer "Уваходны паслугач">
 <!ENTITY aboutSupport.accountsOutgoingServers "Выходны паслугач">
+<!ENTITY aboutSupport.accountsServerName "Назва">
 <!ENTITY aboutSupport.accountsConnSecurity "Бяспека злучэння">
 <!ENTITY aboutSupport.accountsAuthMethod "Метад апазнавання">
 <!ENTITY aboutSupport.accountsDefault "Змоўчна?">

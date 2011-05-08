@@ -13,8 +13,8 @@
 <!ENTITY customSound.accesskey "В">
 <!ENTITY selectSound.label "Агляд…">
 <!ENTITY selectSound.accesskey "А">
-<!ENTITY previewSound.label "Перадпрагляд">
-<!ENTITY previewSound.accesskey "П">
+<!ENTITY playSoundButton.label "Граць">
+<!ENTITY playSoundButton.accesskey "Г">
 <!ENTITY selectSound.title "Выбраць гук затрымкі вынырца">
 <!ENTITY selectSound.filter "Гукі">
 <!ENTITY displayIcon.label "Адлюстроўваць значок на паліцы статусу азіральніка">

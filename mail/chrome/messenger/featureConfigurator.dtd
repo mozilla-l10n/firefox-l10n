@@ -8,8 +8,10 @@
 <!ENTITY featureConfigurator.toolbar.original "Захаваць вашы існыя кнопкі на прыладапаліцы">
 <!ENTITY featureConfigurator.toolbar.original.status.explanation "Захаваць усе змененыя кнопкі прыладапаліцы ў дадатак да новых кнопак кіравання лістамі.">
 <!ENTITY featureConfigurator.toolbarBenefits.para 'Кнопкі кіравання лістамі, такія як "Адказаць", "Накіраваць" перанесеныя з прыладапаліцы ў загаловак ліста. Гэта прывязвае дзеянні кнопак наўпрост да ліста і пакідае больш месца на прыладапаліцы для больш багатай скрынкі пошуку і для дадаткаў.'>
+<!ENTITY featureConfigurator.addOn.downloading "Сцягванне…">
 <!ENTITY featureConfigurator.addOn.installing "Усталяванне…">
 <!ENTITY featureConfigurator.addOn.installed "Усталявана">
+<!ENTITY featureConfigurator.addOn.failure "Здарылася праблема падчас усталявання гэтага пашырэння!">
 <!ENTITY featureConfigurator.addOn.alreadyInstalled "Гэтае пашырэнне ўжо ўсталяванае.">
 <!ENTITY featureConfigurator.collapsedHeaders.heading "Шчыльны загаловак">
 <!ENTITY featureConfigurator.collapsedHeaders.para.weak "Шчыльная праява чытання лістоў перамешчана ў яе асабістае пашырэнне, дзе за ім будуць лепш даглядаць.">

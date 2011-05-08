@@ -59,3 +59,5 @@
 ">
 <!ENTITY cspFrameAncestorBlocked.title "Затрымана палітыкай бяспекі змесціва">
 <!ENTITY cspFrameAncestorBlocked.longDesc "<p>Азіральнік прадухіліў загрузку гэтай старонкі такім спосабам, бо палітыка бяспекі змесціва старонкі не дазваляе карыстацца ім.</p>">
+<!ENTITY remoteXUL.title "Адлеглы XUL">
+<!ENTITY remoteXUL.longDesc "<p><ul><li>Паведамце, калі ласка, уладальнікам пляцоўкі сеціва пра гэтую праблему.</li></ul></p>">

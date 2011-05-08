@@ -1,5 +1,6 @@
 <!--null-->
 <!ENTITY window.title "Правілы сіта">
+<!ENTITY filterEditorDialog.dimensions "width: 115ch;">
 <!ENTITY filterName.label "Назва сіта:">
 <!ENTITY filterName.accesskey "і">
 <!ENTITY junk.label "Лухта">
@@ -24,7 +25,6 @@
 <!ENTITY replyWithTemplate.label "Адказаць паводле ўзору">
 <!ENTITY markMessageRead.label "Пазначыць прачытаным">
 <!ENTITY markMessageStarred.label "Пазначыць сцяжком">
-<!ENTITY labelMessage.label "Памеціць ліст як">
 <!ENTITY setPriority.label "Прызначыць прыярытэт">
 <!ENTITY addTag.label "Дадаць метку да ліста">
 <!ENTITY setJunkScore.label "Усталяваць статус лухты">

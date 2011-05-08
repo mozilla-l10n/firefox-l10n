@@ -75,6 +75,7 @@
 <!ENTITY contextSaveImage.label "Захаванне выявы">
 <!ENTITY contextShareLink.label "Падзяліцца спасылкай">
 <!ENTITY contextShareImage.label "Падзяліцца выявай">
+<!ENTITY contextBookmarkLink.label "Закласці спасылку">
 <!ENTITY contextSaveVideo.label "Захаваць відэя">
 <!ENTITY contextShareVideo.label "Падзяліцца відэя">
 <!ENTITY contextPlayMedia.label "Граць">

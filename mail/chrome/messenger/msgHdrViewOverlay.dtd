@@ -62,7 +62,9 @@
 <!ENTITY saveAsAttachmentCmd.label "Захаваць як…">
 <!ENTITY saveAsAttachmentCmd.accesskey "Я">
 <!ENTITY detachAttachmentCmd.label "Адлучыць…">
+<!ENTITY detachAttachmentCmd.accesskey "ц">
 <!ENTITY deleteAttachmentCmd.label "Выдаліць">
+<!ENTITY deleteAttachmentCmd.accesskey "д">
 <!ENTITY openAllAttachmentsCmd.label "Адчыніць усе…">
 <!ENTITY openAllAttachmentsCmd.accesskey "А">
 <!ENTITY saveAllAttachmentsCmd.label "Захаваць усе…">
@@ -71,6 +73,24 @@
 <!ENTITY detachAllAttachmentsCmd.accesskey "А">
 <!ENTITY deleteAllAttachmentsCmd.label "Выдаліць усе…">
 <!ENTITY deleteAllAttachmentsCmd.accesskey "В">
+<!ENTITY saveAttachmentButton.label "захаваць">
+<!ENTITY saveAttachmentButton.tooltip "захаваць далучаны файл">
+<!ENTITY saveAllAttachmentsButton.label "захаваць усе">
+<!ENTITY saveAllAttachmentsButton.tooltip "захаваць усе далучаныя файлы">
+<!ENTITY openAttachmentMenuItem.label "адчыніць">
+<!ENTITY openAttachmentMenuItem.accesskey "а">
+<!ENTITY saveAsAttachmentMenuItem.label "захаваць як…">
+<!ENTITY saveAsAttachmentMenuItem.accesskey "я">
+<!ENTITY detachAttachmentMenuItem.label "адлучыць…">
+<!ENTITY detachAttachmentMenuItem.accesskey "ц">
+<!ENTITY deleteAttachmentMenuItem.label "выдаліць">
+<!ENTITY deleteAttachmentMenuItem.accesskey "д">
+<!ENTITY saveAllAttachmentsMenuItem.label "захаваць усе…">
+<!ENTITY saveAllAttachmentsMenuItem.accesskey "у">
+<!ENTITY detachAllAttachmentsMenuItem.label "адлучыць усе…">
+<!ENTITY detachAllAttachmentsMenuItem.accesskey "ь">
+<!ENTITY deleteAllAttachmentsMenuItem.label "выдаліць усе…">
+<!ENTITY deleteAllAttachmentsMenuItem.accesskey "с">
 <!ENTITY copyLinkCmd.label "Капіяваць месцазнаходжанне спасылкі">
 <!ENTITY copyLinkCmd.accesskey "К">
 <!ENTITY CopyMessageId.label "Капіяваць вызначальнік-ліста:">

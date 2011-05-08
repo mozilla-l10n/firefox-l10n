@@ -21,3 +21,13 @@
 <!ENTITY update.manual.end "">
 <!ENTITY update.downloading.start "Сцягванне абнаўлення — ">
 <!ENTITY update.downloading.end "">
+<!ENTITY channel.description.start "Зараз вы на ">
+<!ENTITY channel.description.end " канале абнаўленняў.">
+<!ENTITY channel.change "Змяніць">
+<!ENTITY channel.release.description "Атрымайце асалоду ад выпрабаванага фінальнага выдання, якое ўжываецца сотнямі мільёнаў у свеце. Захавайце кіраванне над сваім сеткавым вандраваннем. Звышхуткасць, лёгкая ўладкавальнасць і апошнія тэхналогіі Сеціва дазволяць вам захаваць кіраванне сваім сеткавым вандраваннем.">
+<!ENTITY channel.beta.description "Зазнайце навейшыя асаблівасці і большую ўстойлівасць. Дасылайце водгукі, каб дапамагчы ўдасканаліць і вытанчыць наступнае фінальнае выданне.">
+<!ENTITY channel.aurora.description "Зазнайце навейшыя вынаходніцтвы ў няўстойлівым, жахлівым для слабых сэрцаў, асяроддзі. Дасылайце водгукі пра асаблівасці і працавыніковасць, каб дапамагчы вызначыць, што павінна быць у фінальнае выданне.">
+<!ENTITY channel.selector.start "Пераключыцца на">
+<!ENTITY channel.selector.end "канал абнаўленняў.">
+<!ENTITY channel.selector.applyButton "Ужыць і абнавіць">
+<!ENTITY channel.selector.cancelButton "Скасаваць">
