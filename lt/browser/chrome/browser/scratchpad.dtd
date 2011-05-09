@@ -1,0 +1,107 @@
+<!-- LOCALIZATION NOTE : FILE This file contains the Scratchpad window strings -->
+<!-- LOCALIZATION NOTE : FILE Do not translate commandkeys -->
+
+<!-- LOCALIZATION NOTE (scratchpad.title):
+  -  The Scratchpad is intended to provide a simple text editor for creating
+  -  and evaluating bits of JavaScript code for the purposes of function
+  -  prototyping, experimentation and convenient scripting.
+  -
+  -  It's quite possible that you won't have a good analogue for the word
+  -  "Scratchpad" in your locale. You should feel free to find a close
+  -  approximation to it or choose a word (or words) that means
+  -  "simple discardable text editor". -->
+<!ENTITY window.title                 "JS juodraštis">
+
+<!ENTITY fileMenu.label               "Failas">
+<!ENTITY fileMenu.accesskey           "F">
+
+<!ENTITY newWindowCmd.label           "Naujas langas">
+<!ENTITY newWindowCmd.accesskey       "N">
+<!ENTITY newWindowCmd.commandkey      "n">
+
+<!ENTITY openFileCmd.label            "Atverti failą…">
+<!ENTITY openFileCmd.accesskey        "A">
+<!ENTITY openFileCmd.commandkey       "o">
+
+<!ENTITY saveFileCmd.label            "Įrašyti">
+<!ENTITY saveFileCmd.accesskey        "r">
+<!ENTITY saveFileCmd.commandkey       "s">
+
+<!ENTITY saveFileAsCmd.label          "Įrašyti kaip…">
+<!ENTITY saveFileAsCmd.accesskey      "k">
+
+<!ENTITY closeCmd.label               "Užverti">
+<!ENTITY closeCmd.key                 "W">
+<!ENTITY closeCmd.accesskey           "U">
+
+<!ENTITY editMenu.label               "Taisa">
+<!ENTITY editMenu.accesskey           "T">
+
+<!ENTITY undoCmd.label                "Atšaukti">
+<!ENTITY undoCmd.key                  "Z">
+<!ENTITY undoCmd.accesskey            "A">
+
+<!ENTITY redoCmd.label                "Atstatyti">
+<!ENTITY redoCmd.key                  "Y">
+<!ENTITY redoCmd.accesskey            "t">
+
+<!ENTITY cutCmd.label                 "Iškirpti">
+<!ENTITY cutCmd.key                   "X">
+<!ENTITY cutCmd.accesskey             "r">
+
+<!ENTITY copyCmd.label                "Kopijuoti">
+<!ENTITY copyCmd.key                  "C">
+<!ENTITY copyCmd.accesskey            "K">
+
+<!ENTITY pasteCmd.label               "Įdėti">
+<!ENTITY pasteCmd.key                 "V">
+<!ENTITY pasteCmd.accesskey           "d">
+
+<!ENTITY selectAllCmd.label           "Pažymėti viską">
+<!ENTITY selectAllCmd.key             "A">
+<!ENTITY selectAllCmd.accesskey       "v">
+
+<!ENTITY execute.label                "Vykdyti">
+<!ENTITY execute.accesskey            "k">
+<!ENTITY execute.key                  "t">
+
+<!ENTITY inspect.label                "Tirti">
+<!ENTITY inspect.accesskey            "T">
+<!ENTITY inspect.key                  "i">
+
+<!ENTITY print.label                  "Spausdinti">
+<!ENTITY print.accesskey              "S">
+<!ENTITY print.key                    "r">
+
+<!--
+<!ENTITY contextMenu.label            "Context">
+<!ENTITY contextMenu.accesskey        "C">
+
+<!ENTITY contentContext.label         "Content">
+<!ENTITY contentContext.accesskey     "C">
+
+<!ENTITY chromeContext.label          "Chrome">
+<!ENTITY chromeContext.accesskey      "H">
+-->
+
+<!-- LOCALIZATION NOTE (resetContext.label): This command allows the developer
+  -  to reset/clear the global object of the context where the code executes.
+  -->
+
+<!--
+<!ENTITY resetContext.label           "Reset">
+<!ENTITY resetContext.accesskey       "R">
+-->
+
+<!ENTITY toolsMenu.label              "Priemonės">
+<!ENTITY toolsMenu.accesskey          "P">
+
+<!ENTITY errorConsoleCmd.label        "Klaidų pultas">
+<!ENTITY errorConsoleCmd.accesskey    "K">
+<!ENTITY errorConsoleCmd.commandkey   "j">
+
+<!ENTITY webConsoleCmd.label          "Saityno pultas">
+<!ENTITY webConsoleCmd.accesskey      "p">
+<!ENTITY webConsoleCmd.commandkey     "k">
+
+<!ENTITY textbox.placeholder          "// Įveskite „JavaScript“ kodą, pažymėkite jį, spustelėkite dešiniuoju pelės klavišu ir iš iškylančio meniu rinkitės punktą „Vykdyti“, „Tirti“, arba „Spausdinti“.">
