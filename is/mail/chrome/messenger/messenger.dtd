@@ -320,7 +320,7 @@ you can use these alternative items. Otherwise, their values should be empty.  -
 <!ENTITY newMsgCmd.accesskey "N">
 <!ENTITY newNewMsgCmd.label "Póstur">
 <!ENTITY newNewMsgCmd.accesskey "P">
-<!ENTITY archiveMsgCmd.label "Safna">
+<!ENTITY archiveMsgCmd.label "Skjalasafn">
 <!ENTITY archiveMsgCmd.accesskey "a">
 <!ENTITY archiveMsgCmd.key "a">
 <!ENTITY cancelNewsMsgCmd.label "Hætta við boð">
@@ -475,7 +475,7 @@ you can use these alternative items. Otherwise, their values should be empty.  -
 <!ENTITY replyListButton.label "Svara póstlista">
 <!ENTITY forwardButton.label "Áfram">
 <!ENTITY fileButton.label "Skrá">
-<!ENTITY archiveButton.label "Safna">
+<!ENTITY archiveButton.label "Skjalasafn">
 <!ENTITY nextButton.label "Næsta">
 <!ENTITY previousButton.label "Fyrri">
 <!ENTITY backButton1.label "Til baka">
@@ -507,7 +507,7 @@ you can use these alternative items. Otherwise, their values should be empty.  -
 <!ENTITY replyListButton.tooltip "Svara póstlista">
 <!ENTITY forwardButton.tooltip "Áframsenda völdum pósti">
 <!ENTITY fileButton.tooltip "Vista valinn póst">
-<!ENTITY archiveButton.tooltip "Safna valinn póst">
+<!ENTITY archiveButton.tooltip "Setja valinn póst í skjalasafn">
 <!ENTITY nextButton.tooltip "Fara yfir á næsta ólesna póst">
 <!ENTITY previousButton.tooltip "Fara til baka í fyrri ólesin póst">
 <!ENTITY goForwardButton.tooltip "Áfram um einn póst">
@@ -632,7 +632,7 @@ you can use these alternative items. Otherwise, their values should be empty.  -
 <!ENTITY contextOpenConversation.accesskey "n">
 <!ENTITY contextEditAsNew.label "Breyta pósti sem nýjum…">
 <!ENTITY contextEditAsNew.accesskey "e">
-<!ENTITY contextArchive.label "Safna">
+<!ENTITY contextArchive.label "Skjalasafn">
 <!ENTITY contextArchive.accesskey "n">
 <!ENTITY contextReplySender.label "Svara aðeins sendanda">
 <!ENTITY contextReplySender.accesskey "r">
@@ -720,13 +720,15 @@ you can use these alternative items. Otherwise, their values should be empty.  -
 <!ENTITY remoteContentMessage2.label "Til að verja friðhelgi þína, hefur &brandShortName; lokað á fjartengt efni í þessum pósti.">
 <!ENTITY loadRemoteContentButton3.label "Sýna fjartengt efni">
 <!-- Phishing Bar -->
-<!ENTITY phishingBarMessage2.label "Þessi póstur gæti verið svindlpóstur.">
+<!ENTITY phishingBarMessage2.label "Þessi póstur gæti verið svikapóstur.">
 <!ENTITY removePhishingBarButton1.label "Hunsa aðvörun">
-<!ENTITY reportPhishingError1.label "Þessi póstur virðist ekki vera svindlpóstur.">
+<!ENTITY disablePhishingWarning1.label "Slökkva á greiningu á svikapósti">
+<!ENTITY reportPhishingError1.label "Þessi póstur virðist ekki vera svikapóstur.">
 <!-- MDN Bar -->
-<!ENTITY mdnBarMessage.label "Sendandi póstsins hefur beðið um að verða látin vita þegar þú lest póstinn. Viltu láta sendanda vita?">
-<!ENTITY mdnBarIgnoreButton.label "Hunsa beiðni">
-<!ENTITY mdnBarSendButton.label "Senda kvittun">
+<!ENTITY mdnBarIgnoreButton2.label "Hunsa">
+<!ENTITY mdnBarIgnoreButton2.accesskey "H">
+<!ENTITY mdnBarSendButton2.label "Senda staðfestingu á lestri">
+<!ENTITY mdnBarSendButton2.accesskey "S">
 <!-- Quick Search Bar -->
 <!-- LOCALIZATION NOTE (quickSearchCmd.key):
      This is actually the key used for the global message search box; we have
@@ -776,7 +778,7 @@ you can use these alternative items. Otherwise, their values should be empty.  -
 <!ENTITY CopyNewsgroupURL.accesskey "U">
 <!ENTITY CreateFilterFrom.label "Búa til síu út frá…">
 <!ENTITY CreateFilterFrom.accesskey "f">
-<!ENTITY reportPhishingURL.label "Tilkynna svindlpóst">
+<!ENTITY reportPhishingURL.label "Tilkynna svikapóst">
 <!ENTITY reportPhishingURL.accesskey "T">
 <!-- Spell checker context menu items -->
 <!ENTITY spellAddDictionaries.label "Bæta við orðasöfnum…">

@@ -44,12 +44,18 @@
 
 <!-- Toolbar-only items -->
 <!ENTITY compositionToolbar.tooltip "Samsetningarslá">
+<!ENTITY previewToolbarCmd.label "Flakka">
+<!ENTITY previewToolbarCmd.tooltip "Hlaða síðu í Navigator">
+<!-- File menu items -->
+<!ENTITY exportToTextCmd.label "Flytja út sem texta…">
+<!ENTITY exportToTextCmd.accesskey "t">
+<!ENTITY previewCmd.label "Skoða síðu">
+<!ENTITY previewCmd.accesskey "k">
+<!ENTITY sendPageCmd.label "Senda síðu…">
+<!ENTITY sendPageCmd.accesskey "d">
 <!-- View menu items -->
-<!ENTITY viewMenu.label "Skoða
-">
-<!ENTITY viewMenu.accesskey "S">
 <!ENTITY compositionToolbarCmd.label "Samsetningarslá">
-<!ENTITY compositionToolbarCmd.accesskey "S">
+<!ENTITY compositionToolbarCmd.accesskey "m">
 <!ENTITY formattingToolbarCmd.label "Sniðslá">
 <!ENTITY formattingToolbarCmd.accesskey "S">
 <!ENTITY editmodeToolbarCmd.label "Breyta verkfæraslá">
@@ -57,6 +63,13 @@
 <!-- Format menu items -->
 <!ENTITY formatMenu.label "Snið">
 <!ENTITY formatMenu.accesskey "ð">
+<!ENTITY grid.label "Staðsetningar hnitakerfi">
+<!ENTITY grid.accesskey "t">
+<!ENTITY pageProperties.label "Titill síðu og eiginleikar…">
+<!ENTITY pageProperties.accesskey "g">
+<!-- Tools menu items -->
+<!ENTITY validateCmd.label "Sannreyna HTML">
+<!ENTITY validateCmd.accesskey "n">
 <!-- Display Mode toolbar and View menu items -->
 <!ENTITY NormalModeTab.label "Venjulegur">
 <!ENTITY NormalMode.label "Venjulegur rithamur">

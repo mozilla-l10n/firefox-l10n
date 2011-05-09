@@ -1,4 +1,5 @@
 <!ENTITY window.title "Síureglur">
+<!ENTITY filterEditorDialog.dimensions "width: 100ch;">
 <!ENTITY filterName.label "Nafn síu:">
 <!ENTITY filterName.accesskey "s">
 <!ENTITY junk.label "Ruslpóstur">

@@ -7,8 +7,10 @@
 <!ENTITY helpMenuWin.accesskey "H">
 <!ENTITY helpTroubleshootingInfo.label "Upplýsingar fyrir úrræðaleit">
 <!ENTITY helpTroubleshootingInfo.accesskey "t">
-<!ENTITY releaseCmd.label "Útgáfuupplýsingar">
-<!ENTITY releaseCmd.accesskey "t">
+<!ENTITY helpSafeMode.label "Endurræsa með viðbætur óvirkar…">
+<!ENTITY helpSafeMode.accesskey "r">
+<!ENTITY releaseCmd2.label "Útgáfuupplýsingar">
+<!ENTITY releaseCmd2.accesskey "n">
 <!ENTITY whatsNewCmd.label "Nýjungar">
 <!ENTITY whatsNewCmd.accesskey "N">
 <!ENTITY featureConfiguratorCmd.label "Flutningshjálp">
