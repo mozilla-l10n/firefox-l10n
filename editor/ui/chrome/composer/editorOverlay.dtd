@@ -47,9 +47,6 @@
 <!-- File menu items -->
 <!ENTITY fileMenu.label                "Failas">
 <!ENTITY fileMenu.accesskey            "F">
-<!ENTITY newBlankPageCmd.label         "Tinklalapis">
-<!ENTITY newBlankPageCmd.accesskey     "T">
-<!ENTITY newMenu.label                 "Naujas">
 <!ENTITY openFileCmd.label             "Atverti failą…">
 <!ENTITY openFileCmd.accesskey         "A">
 <!ENTITY openFileCmd.key               "O">
@@ -395,6 +392,7 @@
 <!-- Toolbar-only items -->
 <!ENTITY menuBar.tooltip               "Meniu juosta">
 <!ENTITY formatToolbar.tooltip         "Formatavimo priemonių juostą">
+<!ENTITY newToolbarCmd.label           "Naujas">
 <!ENTITY newToolbarCmd.tooltip         "Kurti naują tinklalapį">
 <!ENTITY openToolbarCmd.label          "Atverti">
 <!ENTITY openToolbarCmd.tooltip        "Atverti failą iš šio kompiuterio">
