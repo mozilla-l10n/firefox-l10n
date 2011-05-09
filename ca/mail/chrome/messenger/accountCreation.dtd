@@ -10,42 +10,46 @@
 <!ENTITY password.accesskey              "C">
 <!ENTITY password.placeholder              "Contrasenya">
 <!ENTITY password.text                   "Opcional, només es farà servir per a validar el vostre usuari">
+<!ENTITY rememberPassword.label          "Recorda la contrasenya">
+<!ENTITY rememberPassword.accesskey      "R">
 
-<!ENTITY accountInformation.label        "Informació del compte">
-<!ENTITY username2.label                 "Usuari:">
+<!ENTITY imapLong.label                  "IMAP (carpetes remotes)">
+<!ENTITY pop3Long.label                  "POP3 (conserva el correu al vostre ordinador)">
+
 <!ENTITY incoming.label                  "Entrada:">
 <!ENTITY outgoing.label                  "Sortida:">
+<!ENTITY username.label                  "Nom de l'usuari:">
+<!ENTITY hostname.label                  "Nom del servidor">
+<!ENTITY port.label                      "Port">
+<!ENTITY ssl.label                       "SSL">
+<!ENTITY auth.label                      "Autenticació">
+<!ENTITY imap.label                      "IMAP">
+<!ENTITY pop3.label                       "POP3">
+<!ENTITY smtp.label                      "SMTP">
+<!ENTITY autodetect.label                "Detecta automàticament">
+<!-- LOCALIZATION NOTE(noEncryption.label): Neither SSL/TLS nor STARTTLS.
+     Transmission of emails in cleartext over the Internet. -->
 <!ENTITY noEncryption.label              "Cap">
 <!ENTITY starttls.label                  "STARTTLS">
 <!ENTITY sslTls.label                    "SSL/TLS">
 
-<!ENTITY imap.label                      "IMAP">
-<!ENTITY pop.label                       "POP">
-<!ENTITY smtp.label                      "SMTP">
-<!ENTITY imap.description                "IMAP - Accediu a les carpetes i als missatges des de diversos ordinadors">
-<!ENTITY pop.description                 "POP - Baixeu-vos tots els missatges a aquest ordinador, les carpetes només són locals">
-<!ENTITY recommended-appendix.label      "(recomanat)">
-
-<!ENTITY manualSetup.label               "Configuració manual…">
-<!ENTITY manualSetup.accesskey           "m">
+<!ENTITY advancedSetup.label             "Configuració avançada">
+<!ENTITY advancedSetup.accesskey         "g">
 <!ENTITY cancel.label                    "Canceŀla">
 <!ENTITY cancel.accesskey                "n">
 <!ENTITY continue.label                  "Continua">
 <!ENTITY continue.accesskey              "C">
-<!ENTITY startOver.label                 "Torna a començar">
-<!ENTITY startOver.accesskey             "o">
 <!ENTITY stop.label                      "Atura">
 <!ENTITY stop.accesskey                  "A">
-<!-- LOCALIZATION NOTE (retest.label): This is the text that is
-     displayed on the button which will re-guess the account configuration,
-     taking into account the settings the user has changed. -->
-<!ENTITY retest.label                    "Prova la configuració">
-<!ENTITY retest.accesskey                "P">
-<!ENTITY edit.label                      "Edita">
-<!ENTITY edit.accesskey                  "E">
+<!-- LOCALIZATION NOTE (half-manual-test.label): This is the text that is
+     displayed on the button in manual edit mode which will re-guess
+     the account configuration, taking into account the settings that
+     the user has manually changed. -->
+<!ENTITY half-manual-test.label          "Prova-la">
+<!ENTITY half-manual-test.accesskey      "P">
+<!ENTITY manual-edit.label               "Configuració manual">
+<!ENTITY manual-edit.accesskey           "m">
 
-<!ENTITY rememberPassword.label          "Recorda la contrasenya">
-<!ENTITY rememberPassword.accesskey      "R">
 
 <!ENTITY warning.label                   "Atenció!">
 <!ENTITY incomingSettings.label          "Opcions de recepció:">
