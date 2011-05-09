@@ -45,9 +45,6 @@
 <!-- File menu items -->
 <!ENTITY fileMenu.label "Fichier">
 <!ENTITY fileMenu.accesskey "F">
-<!ENTITY newBlankPageCmd.label "Nouvelle page blanche">
-<!ENTITY newBlankPageCmd.accesskey "b" >
-<!ENTITY newMenu.label "Nouveau">
 <!ENTITY openFileCmd.label "Ouvrir un fichier…">
 <!ENTITY openFileCmd.accesskey "O">
 <!ENTITY openFileCmd.key "O">
@@ -393,6 +390,7 @@
 <!-- toolbar-only items -->
 <!ENTITY menuBar.tooltip "Barre de menu">
 <!ENTITY formatToolbar.tooltip "Barre d'outils de mise en forme">
+<!ENTITY newToolbarCmd.label "Nouveau">
 <!ENTITY newToolbarCmd.tooltip "Créer une nouvelle page">
 <!ENTITY openToolbarCmd.label "Ouvrir">
 <!ENTITY openToolbarCmd.tooltip "Ouvrir un fichier">
