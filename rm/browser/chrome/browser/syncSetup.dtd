@@ -30,21 +30,21 @@
 <!ENTITY setup.emailAddress.accesskey "E">
 <!-- LOCALIZATION NOTE: tosAgree1, tosLink, tosAgree2, ppLink, tosAgree3 are
      joined with implicit white space, so spaces in the strings aren't necessary -->
-<!ENTITY setup.tosAgree1.label      "Jau sun d'accord cun il">
+<!ENTITY setup.tosAgree1.label      "Jau accept il">
 <!ENTITY setup.tosAgree1.accesskey  "a">
 <!ENTITY setup.tosLink.label        "contract da licenza">
-<!ENTITY setup.tosAgree2.label      "ed las">
+<!ENTITY setup.tosAgree2.label      "e las">
 <!ENTITY setup.ppLink.label         "directivas per la protecziun da datas">
 <!ENTITY setup.tosAgree3.label      "">
 <!ENTITY setup.tosAgree2.accesskey  "">
 
 <!-- New Account Page 2: Sync Key -->
-<!ENTITY setup.newSyncKeyPage.title.label "&brandShortName; prenda serius la protecziun da datas">
+<!ENTITY setup.newSyncKeyPage.title.label "&brandShortName; resguarda la protecziun da datas">
 <!ENTITY setup.newSyncKeyPage.description.label "Per garantir la protecziun da datas vegnan tias datas criptadas avant ch'ellas vegnan chargiadas sin il server. La clav per decriptar las datas na vegn betg chargiada sin il server.">
 <!ENTITY syncKeyEntry.label        "Tia clav da Sync">
 <!ENTITY syncKeyEntry.accesskey    "c">
 <!ENTITY syncKeyGenerate.label     "Generar">
-<!ENTITY syncKeyBackup.description "Tia clav da Sync vegn utilisada per acceder &syncBrand.fullName.label; sin autras maschinas. Fa ina copia da segirezza. Nus na pudain betg reconstruir tia clav da Sync.">
+<!ENTITY syncKeyBackup.description "Tia clav da Sync è necessaria per acceder &syncBrand.fullName.label; cun agid dad auters apparats. Fa ina copia da segirezza. Nus na pudain betg restaurar tia clav da Sync.">
 
 <!ENTITY button.syncKeyBackup.print.label     "Stampar…">
 <!ENTITY button.syncKeyBackup.print.accesskey "P">
@@ -79,15 +79,15 @@
 <!ENTITY syncComputerName.accesskey   "c">
 
 <!ENTITY syncMy.label               "Sincronisar">
-<!ENTITY engine.bookmarks.label     "mes segnapaginas">
-<!ENTITY engine.bookmarks.accesskey "m">
-<!ENTITY engine.tabs.label          "mes tabs">
+<!ENTITY engine.bookmarks.label     "ils segnapaginas">
+<!ENTITY engine.bookmarks.accesskey "s">
+<!ENTITY engine.tabs.label          "ils tabs">
 <!ENTITY engine.tabs.accesskey      "T">
-<!ENTITY engine.history.label       "mia cronologia">
+<!ENTITY engine.history.label       "la cronologia">
 <!ENTITY engine.history.accesskey   "r">
-<!ENTITY engine.passwords.label     "mes pleds-clav">
+<!ENTITY engine.passwords.label     "ils pleds-clav">
 <!ENTITY engine.passwords.accesskey "P">
-<!ENTITY engine.prefs.label         "mias preferenzass">
+<!ENTITY engine.prefs.label         "las preferenzass">
 <!ENTITY engine.prefs.accesskey     "S">
 
 <!ENTITY choice2.merge.main.label      "Cumbinar las datas da quest computer cun quellas da &syncBrand.shortName.label;">
@@ -97,12 +97,12 @@
 
 <!-- Confirm Merge Options -->
 <!ENTITY setup.optionsConfirmPage.title "Confermar">
-<!ENTITY confirm.merge.label    "&syncBrand.fullName.label; vegn ussa a cumbinar las datas da quest computer cun questas da tes conto da Sync.">
+<!ENTITY confirm.merge.label    "&syncBrand.fullName.label; vegn ussa a cumbinar las datas da quest computer cun quellas da tes conto da Sync.">
 <!ENTITY confirm.client2.label         "Attenziun: Suandantas datas da &brandShortName; sin quest computer vegnan stizzadas:">
-<!ENTITY confirm.client.moreinfo.label "Lura vegn &brandShortName; copiar tias datas da &syncBrand.fullName.label; sin quest computer.">
+<!ENTITY confirm.client.moreinfo.label "Lura vegn &brandShortName; a copiar tias datas da &syncBrand.fullName.label; sin quest computer.">
 <!ENTITY confirm.server2.label         "Attenziun: Las datas da suandants apparats vegnan remplazzadas cun las datas da quest computer:">
 
 <!-- New & Existing Account: Setup Complete -->
 <!ENTITY setup.successPage.title "Terminà l'installaziun">
-<!ENTITY changeOptions.label "Ti pos midar questa configuraziun sche ti tschernas survart las opziuns da Sync.">
-<!ENTITY continueUsing.label "Ussa pos ti cuntinuar dad utilisar &brandShortName;.">
+<!ENTITY changeOptions.label "Ti pos midar questa configuraziun sche ti tschernas survart «Opziuns da Sync».">
+<!ENTITY continueUsing.label "Ussa pos ti cuntinuar ad utilisar &brandShortName;.">

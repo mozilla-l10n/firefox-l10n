@@ -19,7 +19,7 @@
 <!ENTITY warning.checkcompatibility.label          "Il test da cumpatibilitad per supplements è deactivà. I po esser che supplements incumpatibels èn installads.">
 <!ENTITY warning.checkcompatibility.enable.label   "Activar">
 <!ENTITY warning.checkcompatibility.enable.tooltip "Activar il test da cumpatibilitad dals supplements">
-<!ENTITY warning.updatesecurity.label              "Il test da segirezza per l'actualisaziun da supplements è deactivà. Actualisaziuns pon donnegiar tes computer.">
+<!ENTITY warning.updatesecurity.label              "Il test da segirezza per l'actualisaziun da supplements è deactivà. Eventualmain pon actualisaziuns donnegiar tes computer.">
 <!ENTITY warning.updatesecurity.enable.label       "Activar">
 <!ENTITY warning.updatesecurity.enable.tooltip     "Activar il test da segirezza per l'actualisaziun da supplements">
 
@@ -55,7 +55,7 @@
 <!ENTITY updates.updateSelected.tooltip       "Installar las actualisaziuns disponiblas en questa glista">
 
 <!-- addon actions -->
-<!ENTITY cmd.showDetails.label                "Mussar dapli infurmaziuns">
+<!ENTITY cmd.showDetails.label                "Mussar ulteriuras infurmaziuns">
 <!ENTITY cmd.showDetails.accesskey            "M">
 <!ENTITY cmd.findUpdates.label                "Tschertgar actualisaziuns">
 <!ENTITY cmd.findUpdates.accesskey            "T">

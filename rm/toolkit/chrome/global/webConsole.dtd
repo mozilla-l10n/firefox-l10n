@@ -1,6 +1,6 @@
 <!ENTITY networkPanel.requestURL                  "URL da la dumonda">
 <!ENTITY networkPanel.requestMethod               "Metoda da la dumonda">
-<!ENTITY networkPanel.statusCode                  "Code da status">
+<!ENTITY networkPanel.statusCode                  "Code dal status">
 
 <!ENTITY networkPanel.requestHeaders              "Chaus da la dumonda">
 <!ENTITY networkPanel.requestCookie               "Cookie tramess">
