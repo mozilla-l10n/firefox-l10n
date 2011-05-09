@@ -53,3 +53,24 @@
      example: Downloading update — 111 KB of 13 MB -->
 <!ENTITY update.downloading.start   "Lejupielādē atjauninājumu — ">
 <!ENTITY update.downloading.end     "">
+
+<!ENTITY channel.description.start  "Šobrīd jūs izmantojat ">
+<!ENTITY channel.description.end    " atjauninājumu kanālu. ">
+
+<!ENTITY channel.change             "Nomainīt">
+
+<!ENTITY channel.release.description       "Izbaudi pārbaudītu un labi notestētu gala versiju, ko lieto miljoniem cilvēku visā pasaulē. Kontrolējiet savas interneta izjūtas ar super ātrumu, pielāgojamību un jaunākajām tīmekļa tehnoloģijām.">
+<!ENTITY channel.beta.description          "Experience cutting edge features with more stability. Provide feedback to help refine and polish what will be in the final release.">
+<!ENTITY channel.aurora.description        "Piedzīvo pašus jaunākos nestabilās vides jaunievedumus, kurus ne kurš katrs spēj novērtēt. Sniedzot savu viedokli par jaunajām funkcijām un ātrdarbību palīdzi izlemt, kas tiks iekļauts gala versijā.">
+
+<!-- LOCALIZATION NOTE (channel.selector.start,channel.selector.end): channel.selector.start and
+     channel.selector.end create one sentence, with a channel selection menulist instered in between.
+     This is all in one line, so try to make the localized text short.
+     example: Switch to the [Stable] update channel. -->
+<!ENTITY channel.selector.start          "Pārslēgties uz ">
+<!ENTITY channel.selector.end            "atjauninājumu kanālu.">
+
+<!-- LOCALIZATION NOTE (channel.selector.applyButton): This button applies the user's choice to switch
+     to a new update channel and starts the application update process. -->
+<!ENTITY channel.selector.applyButton    "Saglabāt izmaiņas un atjaunināt">
+<!ENTITY channel.selector.cancelButton   "Atcelt">

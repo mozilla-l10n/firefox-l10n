@@ -121,7 +121,7 @@
 <!ENTITY subscribeToPageMenupopup.label "Pierakstīties uz šo lapu">
 <!ENTITY subscribeToPageMenuitem.label "Pierakstīties uz šo lapu...">
 <!ENTITY addCurPagesCmd.label "Saglabāt visas cilnes grāmatzīmēs...">
-<!ENTITY bookmarkAllCmd.label "Saglabāt visas cilnes grāmatzīmēs...">
+<!ENTITY unsortedBookmarksCmd.label "Nešķirotās grāmatzīmes">
 
 <!ENTITY backCmd.label "Atpakaļ">
 <!ENTITY backCmd.accesskey "T">

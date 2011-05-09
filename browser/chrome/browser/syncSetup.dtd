@@ -45,7 +45,7 @@
 <!ENTITY setup.newSyncKeyPage.description.label "Lai nodrošinātu absolūtu privāto datu drošību, visi jūsu dati tiek nošifrēti pirms sūtīšanas uz sinhronizācijas serveri. Atšifrēšanai nepieciešamā sinhronizācijas atslēga netek sūtīta.">
 <!ENTITY syncKeyEntry.label        "Jūsu sinhronizēšanas atslēga">
 <!ENTITY syncKeyEntry.accesskey    "t">
-<!ENTITY syncKeyGenerate.label     "Ģenerēt">
+<!ENTITY syncGenerateNewKey.label  "Ģenerēt jaunu atslēgu">
 <!ENTITY syncKeyBackup.description "Jūsu sinhronizēšanas atslēga ir nepieciešama, lai piekļūtu &syncBrand.fullName.label;s datiem no citiem datoriem un ierīcēm. Lūdzu izveidojiet tās rezerves kopiju, jo nozaudēšanas gadījumā mēs nevarēsim palīdzēt jums to atgūt.">
 
 <!-- New Account Page 3: Sync Type Options -->
