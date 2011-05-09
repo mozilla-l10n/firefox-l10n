@@ -1,0 +1,63 @@
+<!ENTITY window.title "Blocco per gli appunti">
+<!ENTITY fileMenu.label "File">
+<!ENTITY fileMenu.accesskey "F">
+<!ENTITY newWindowCmd.label "Nuova finestra">
+<!ENTITY newWindowCmd.accesskey "N">
+<!ENTITY newWindowCmd.commandkey "n">
+<!ENTITY openFileCmd.label "Apri file…">
+<!ENTITY openFileCmd.accesskey "A">
+<!ENTITY openFileCmd.commandkey "o">
+<!ENTITY saveFileCmd.label "Salva">
+<!ENTITY saveFileCmd.accesskey "S">
+<!ENTITY saveFileCmd.commandkey "s">
+<!ENTITY saveFileAsCmd.label "Salva con nome…">
+<!ENTITY saveFileAsCmd.accesskey "v">
+<!ENTITY closeCmd.label "Chiudi">
+<!ENTITY closeCmd.key "W">
+<!ENTITY closeCmd.accesskey "C">
+<!ENTITY editMenu.label "Modifica">
+<!ENTITY editMenu.accesskey "M">
+<!ENTITY undoCmd.label "Annulla">
+<!ENTITY undoCmd.key "Z">
+<!ENTITY undoCmd.accesskey "A">
+<!ENTITY redoCmd.label "Ripeti">
+<!ENTITY redoCmd.key "Y">
+<!ENTITY redoCmd.accesskey "R">
+<!ENTITY cutCmd.label "Taglia">
+<!ENTITY cutCmd.key "X">
+<!ENTITY cutCmd.accesskey "T">
+<!ENTITY copyCmd.label "Copia">
+<!ENTITY copyCmd.key "C">
+<!ENTITY copyCmd.accesskey "C">
+<!ENTITY pasteCmd.label "Incolla">
+<!ENTITY pasteCmd.key "V">
+<!ENTITY pasteCmd.accesskey "n">
+<!ENTITY selectAllCmd.label "Seleziona tutto">
+<!ENTITY selectAllCmd.key "A">
+<!ENTITY selectAllCmd.accesskey "u">
+<!ENTITY execute.label "Esegui">
+<!ENTITY execute.accesskey "E">
+<!ENTITY execute.key "t">
+<!ENTITY inspect.label "Ispeziona">
+<!ENTITY inspect.accesskey "I">
+<!ENTITY inspect.key "i">
+<!ENTITY print.label "Stampa">
+<!ENTITY print.accesskey "S">
+<!ENTITY print.key "r">
+<!ENTITY contextMenu.label "Contesto">
+<!ENTITY contextMenu.accesskey "C">
+<!ENTITY contentContext.label "Contenuto">
+<!ENTITY contentContext.accesskey "C">
+<!ENTITY chromeContext.label "Chrome">
+<!ENTITY chromeContext.accesskey "h">
+<!ENTITY resetContext.label "Reimposta">
+<!ENTITY resetContext.accesskey "m">
+<!ENTITY toolsMenu.label "Strumenti">
+<!ENTITY toolsMenu.accesskey "S">
+<!ENTITY errorConsoleCmd.label "Console degli errori">
+<!ENTITY errorConsoleCmd.accesskey "C">
+<!ENTITY errorConsoleCmd.commandkey "j">
+<!ENTITY webConsoleCmd.label "Console web">
+<!ENTITY webConsoleCmd.accesskey "w">
+<!ENTITY webConsoleCmd.commandkey "k">
+<!ENTITY textbox.placeholder "// Inserire del codice JavaScript, selezionarlo, fare clic con il tasto destro e seleziona Esegui, Ispeziona o Stampa.">
