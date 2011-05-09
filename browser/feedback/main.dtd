@@ -5,18 +5,18 @@
 <!ENTITY testpilot.settings.notifyWhen.label        "M'avisar sche…">
 <!ENTITY testpilot.settings.readyToSubmit.label     "in studi è pront per trametter">
 <!ENTITY testpilot.settings.newStudy.label          "in nov studi è pront">
-<!ENTITY testpilot.settings.hasNewResults.label     "in studi ha novs resultats">
+<!ENTITY testpilot.settings.hasNewResults.label     "i dat novs resultats dad in studi">
 <!ENTITY testpilot.settings.alwaysSubmitData.label  "Trametter automaticamain mias datas (betg dumandar)">
-<!ENTITY testpilot.allYourStudies.label             "Tut tes studis dad utilisaziun…">
+<!ENTITY testpilot.allYourStudies.label             "Tut ils studis dad utilisaziun…">
 <!ENTITY testpilot.about.label                      "Davart Test Pilot">
 
 <!-- all studies window -->
-<!ENTITY testpilot.studiesWindow.title                  "Tes studis da Test Pilot">
+<!ENTITY testpilot.studiesWindow.title                  "Ils studis da Test Pilot">
 <!ENTITY testpilot.studiesWindow.currentStudies.label   "Studis actuals">
-<!ENTITY testpilot.studiesWindow.finishedStudies.label  "Studis terminads">
+<!ENTITY testpilot.studiesWindow.finishedStudies.label  "Studis finids">
 <!ENTITY testpilot.studiesWindow.studyFindings.label    "Resultats dals studis">
 <!ENTITY testpilot.studiesWindow.settings.label         "Configuraziun">
-<!ENTITY testpilot.studiesWindow.stillLoadingMessage    "Chargiar, in mument…">
+<!ENTITY testpilot.studiesWindow.stillLoadingMessage    "Chargiar, spetgar in mument…">
 
 <!-- raw data dialog -->
 <!ENTITY testpilot.rawDataWindow.title                  "Test Pilot: Datas bruttas">

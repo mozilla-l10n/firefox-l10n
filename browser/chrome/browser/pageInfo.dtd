@@ -99,7 +99,7 @@
 <!ENTITY  permInstall           "Intallar extensiuns u designs">
 <!ENTITY  permGeo               "Trametter location">
 
-<!ENTITY  permIndexedDB              "Mantegnair ina memoria offline">
+<!ENTITY  permIndexedDB              "Preservar ina memoria offline">
 <!ENTITY  permClearStorage           "Stizzar la memoria">
 <!ENTITY  permClearStorage.accesskey "z">
 

@@ -12,22 +12,22 @@
 <!-- Manage Account -->
 <!ENTITY manageAccount.label          "Administrar il conto">
 <!ENTITY manageAccount.accesskey      "A">
-<!ENTITY viewQuota.label              "Guardar la quota">
+<!ENTITY viewQuota.label              "Mussar la quota">
 <!ENTITY changePassword.label         "Midar il pled-clav">
 <!ENTITY mySyncKey.label              "Mia clav da Sync">
 <!ENTITY resetSync.label              "Redefinir Sync">
 <!ENTITY addDevice.label              "Agiuntar in apparat">
 
 <!ENTITY syncMy.label               "Sincronisar">
-<!ENTITY engine.bookmarks.label     "mes segnapaginas">
+<!ENTITY engine.bookmarks.label     "ils segnapaginas">
 <!ENTITY engine.bookmarks.accesskey "m">
-<!ENTITY engine.tabs.label          "mes tabs">
+<!ENTITY engine.tabs.label          "ils tabs">
 <!ENTITY engine.tabs.accesskey      "T">
-<!ENTITY engine.history.label       "mia cronologia">
+<!ENTITY engine.history.label       "la cronologia">
 <!ENTITY engine.history.accesskey   "r">
-<!ENTITY engine.passwords.label     "mes pleds-clav">
+<!ENTITY engine.passwords.label     "ils pleds-clav">
 <!ENTITY engine.passwords.accesskey "P">
-<!ENTITY engine.prefs.label         "mias preferenzas">
+<!ENTITY engine.prefs.label         "las preferenzas">
 <!ENTITY engine.prefs.accesskey     "S">
 
 <!-- Device Settings -->
