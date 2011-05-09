@@ -95,6 +95,7 @@
 <!ENTITY contextSaveImage.label       "Gardar imaxe">
 <!ENTITY contextShareLink.label       "Compartir ligazón">
 <!ENTITY contextShareImage.label      "Compartir imaxe">
+<!ENTITY contextBookmarkLink.label    "Ligazón do marcador">
 <!ENTITY contextSaveVideo.label       "Gardar vídeo">
 <!ENTITY contextShareVideo.label      "Compartir vídeo">
 <!ENTITY contextPlayMedia.label       "Reproducir">
