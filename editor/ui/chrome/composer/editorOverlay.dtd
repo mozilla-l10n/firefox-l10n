@@ -45,9 +45,6 @@
 <!-- File menu items -->
 <!ENTITY fileMenu.label "Faidhle">
 <!ENTITY fileMenu.accesskey "F">
-<!ENTITY newBlankPageCmd.label "Duilleag a' chumadair">
-<!ENTITY newBlankPageCmd.accesskey "D" >
-<!ENTITY newMenu.label "Ùr">
 <!ENTITY openFileCmd.label "Fosgail faidhle…">
 <!ENTITY openFileCmd.accesskey "o">
 <!ENTITY openFileCmd.key "O">
@@ -393,6 +390,7 @@
 <!-- Toolbar-only items -->
 <!ENTITY menuBar.tooltip "Bàr a' chlàir-thaice">
 <!ENTITY formatToolbar.tooltip "Bàr-inneil fòrmataidh">
+<!ENTITY newToolbarCmd.label "Ùr">
 <!ENTITY newToolbarCmd.tooltip "Cruthaich duilleag Sgrìobhadair ùr">
 <!ENTITY openToolbarCmd.label "Fosgail">
 <!ENTITY openToolbarCmd.tooltip "Fosgail faidhle ionadail">
