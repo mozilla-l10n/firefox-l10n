@@ -42,9 +42,6 @@
    - ***** END LICENSE BLOCK ***** -->
 <!ENTITY fileMenu.label "Файл">
 <!ENTITY fileMenu.accesskey "а">
-<!ENTITY newBlankPageCmd.label "Страницу Компоновщика">
-<!ENTITY newBlankPageCmd.accesskey "т">
-<!ENTITY newMenu.label "Создать">
 <!ENTITY openFileCmd.label "Открыть файл…">
 <!ENTITY openFileCmd.accesskey "к">
 <!ENTITY openFileCmd.key "O">
@@ -345,6 +342,7 @@
 <!ENTITY tableProperties.accesskey "в">
 <!ENTITY menuBar.tooltip "Панель меню">
 <!ENTITY formatToolbar.tooltip "Панель форматирования">
+<!ENTITY newToolbarCmd.label "Создать">
 <!ENTITY newToolbarCmd.tooltip "Создать новую страницу Компоновщика">
 <!ENTITY openToolbarCmd.label "Открыть">
 <!ENTITY openToolbarCmd.tooltip "Открыть локальный файл">
