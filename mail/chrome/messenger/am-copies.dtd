@@ -21,22 +21,26 @@
 <!ENTITY sentFolderOn.accesskey "e">
 <!ENTITY sentInOtherFolder.label "Annað:">
 <!ENTITY sentInOtherFolder.accesskey "A">
+<!-- LOCALIZATION NOTE (archivesFolderOn.label): OK to translate this, bug #57440 -->
+<!ENTITY archivesTitle.label "Skjalasafn">
+<!ENTITY keepArchives.label "Geyma skjalasafn í:">
+<!ENTITY keepArchives.accesskey "f">
+<!ENTITY archiveHierarchyButton.label "Stillingar fyrir skjalasafn…">
+<!ENTITY archiveHierarchyButton.accesskey "a">
+<!ENTITY archivesFolderOn.label "&quot;Skjalasafn&quot; í:">
+<!ENTITY archivesFolderOn.accesskey "S">
+<!ENTITY archiveInOtherFolder.label "Annað:">
+<!ENTITY archiveInOtherFolder.accesskey "ð">
+<!ENTITY specialFolders.label "Drög og sniðmát">
+<!ENTITY keepDrafts.label "Geyma drög að pósti í:">
 <!-- LOCALIZATION NOTE (draftsFolderOn.label): OK to translate this, bug #57440 -->
 <!ENTITY draftsFolderOn.label "&quot;Drög&quot; mappa í:">
 <!ENTITY draftsFolderOn.accesskey "D">
 <!ENTITY draftInOtherFolder.label "Annað:">
 <!ENTITY draftInOtherFolder.accesskey "n">
-<!-- LOCALIZATION NOTE (archivesFolderOn.label): OK to translate this, bug #57440 -->
-<!ENTITY archivesFolderOn.label "&quot;Safn&quot; mappa í:">
-<!ENTITY archivesFolderOn.accesskey "S">
-<!ENTITY archiveInOtherFolder.label "Annað:">
-<!ENTITY archiveInOtherFolder.accesskey "ð">
+<!ENTITY keepTemplates.label "Geyma póstsniðmát í:">
 <!-- LOCALIZATION NOTE (templatesFolderOn.label): OK to translate this, bug #57440 -->
 <!ENTITY templatesFolderOn.label "&quot;Sniðmát&quot; mappa í:">
 <!ENTITY templatesFolderOn.accesskey "m">
 <!ENTITY templateInOtherFolder.label "Annað:">
 <!ENTITY templateInOtherFolder.accesskey "a">
-<!ENTITY specialFoldersTitle.label "Drög, safn, og sniðmát">
-<!ENTITY keepDrafts.label "Geyma drög að pósti í:">
-<!ENTITY keepArchives.label "Safna pósti í:">
-<!ENTITY keepTempltes.label "Geyma póstsniðmát í:">

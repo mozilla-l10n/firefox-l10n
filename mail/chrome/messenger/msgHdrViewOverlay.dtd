@@ -55,8 +55,8 @@
 <!ENTITY originalWebsite2.label "vefsvæði ">
 <!ENTITY editMessageDescription.label "Þetta eru tölvupóstsdrög">
 <!ENTITY editMessageButton.label "Breyta…">
-<!ENTITY hdrArchiveButton.label "safna">
-<!ENTITY hdrArchiveButton.tooltip "setja póst í safn">
+<!ENTITY hdrArchiveButton.label "skjalasafn">
+<!ENTITY hdrArchiveButton.tooltip "setja póst í skjalasafn">
 <!ENTITY hdrReplyButton.label "svara">
 <!ENTITY hdrReplyButton.tooltip "svara pósti">
 <!ENTITY hdrReplyAllButton.label "svara öllum">
@@ -94,20 +94,42 @@
 <!ENTITY viewSourceMenuItem.accesskey "k">
 <!ENTITY otherActionsPrint.label "prenta…">
 <!ENTITY otherActionsPrint.accesskey "p">
+<!-- Attachment context menu items -->
 <!ENTITY openAttachmentCmd.label "Opna">
 <!ENTITY openAttachmentCmd.accesskey "O">
 <!ENTITY saveAsAttachmentCmd.label "Vista sem…">
 <!ENTITY saveAsAttachmentCmd.accesskey "e">
-<!ENTITY detachAttachmentCmd.label "Aftengja…">
+<!ENTITY detachAttachmentCmd.label "Taka út…">
+<!ENTITY detachAttachmentCmd.accesskey "t">
 <!ENTITY deleteAttachmentCmd.label "Eyða">
+<!ENTITY deleteAttachmentCmd.accesskey "ð">
 <!ENTITY openAllAttachmentsCmd.label "Open All…">
 <!ENTITY openAllAttachmentsCmd.accesskey "O">
 <!ENTITY saveAllAttachmentsCmd.label "Vista öll…">
 <!ENTITY saveAllAttachmentsCmd.accesskey "a">
-<!ENTITY detachAllAttachmentsCmd.label "Aftengja öll…">
-<!ENTITY detachAllAttachmentsCmd.accesskey "A">
+<!ENTITY detachAllAttachmentsCmd.label "Taka út öll…">
+<!ENTITY detachAllAttachmentsCmd.accesskey "ö">
 <!ENTITY deleteAllAttachmentsCmd.label "Eyða öllum…">
 <!ENTITY deleteAllAttachmentsCmd.accesskey "E">
+<!-- Attachment toolbar items -->
+<!ENTITY saveAttachmentButton.label "vista">
+<!ENTITY saveAttachmentButton.tooltip "vista viðhengi">
+<!ENTITY saveAllAttachmentsButton.label "vista öll">
+<!ENTITY saveAllAttachmentsButton.tooltip "vista öll viðhengi">
+<!ENTITY openAttachmentMenuItem.label "opna">
+<!ENTITY openAttachmentMenuItem.accesskey "o">
+<!ENTITY saveAsAttachmentMenuItem.label "vista sem…">
+<!ENTITY saveAsAttachmentMenuItem.accesskey "s">
+<!ENTITY detachAttachmentMenuItem.label "taka út…">
+<!ENTITY detachAttachmentMenuItem.accesskey "t">
+<!ENTITY deleteAttachmentMenuItem.label "eyða">
+<!ENTITY deleteAttachmentMenuItem.accesskey "e">
+<!ENTITY saveAllAttachmentsMenuItem.label "vista öll…">
+<!ENTITY saveAllAttachmentsMenuItem.accesskey "s">
+<!ENTITY detachAllAttachmentsMenuItem.label "taka út öll…">
+<!ENTITY detachAllAttachmentsMenuItem.accesskey "ö">
+<!ENTITY deleteAllAttachmentsMenuItem.label "eyða öllum…">
+<!ENTITY deleteAllAttachmentsMenuItem.accesskey "e">
 <!ENTITY copyLinkCmd.label "Afrita tengil">
 <!ENTITY copyLinkCmd.accesskey "A">
 <!ENTITY CopyMessageId.label "Afrita Skeytis-Auðkenni">

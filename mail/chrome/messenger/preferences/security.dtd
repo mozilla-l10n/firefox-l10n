@@ -1,5 +1,5 @@
 <!ENTITY itemJunk.label "Ruslpóstur">
-<!ENTITY itemPhishing.label "Tölvupóstssvindl">
+<!ENTITY itemPhishing.label "Svikapóstur">
 <!ENTITY itemPasswords.label "Lykilorð">
 <!ENTITY itemAntiVirus.label "Vírusvörn">
 <!ENTITY itemCookies.label "Vefur">
@@ -20,10 +20,10 @@
 <!ENTITY resetTrainingData.label "Endursetja þjálfunargögn">
 <!ENTITY resetTrainingData.accesskey "ö">
 <!-- Phishing Detector -->
-<!ENTITY phishingDetector1.intro "&brandShortName; getur reynt að greina hvort póstur er svindlpóstur með því að leita eftir dæmigerðum aðferðum í svindlpóstum.">
+<!ENTITY phishingDetector1.intro "&brandShortName; getur reynt að greina hvort póstur er svikapóstur með því að leita eftir dæmigerðum aðferðum í svikapóstum.">
 <!ENTITY enablePhishingDetector1.label "Láta vita ef ég les póst sem er grunaður um að vera falsaður">
 <!ENTITY enablePhishingDetector1.accesskey "t">
-<!ENTITY useDownloadedList.label "Nota niðurhalaðan lista af grunuðum falspósti">
+<!ENTITY useDownloadedList.label "Nota niðurhalaðan lista af grunuðum svikapósti">
 <!ENTITY useDownloadedList.accesskey "N">
 <!-- Passwords -->
 <!ENTITY savedPasswords.intro "&brandShortName; getur munað öll þín lykilorð þannig að þú þurfir ekki að slá þau inn aftur.">

@@ -45,9 +45,6 @@
 <!-- File menu items -->
 <!ENTITY fileMenu.label "Skrá">
 <!ENTITY fileMenu.accesskey "S">
-<!ENTITY newBlankPageCmd.label "Ritilsíða">
-<!ENTITY newBlankPageCmd.accesskey "R">
-<!ENTITY newMenu.label "Nýtt">
 <!ENTITY openFileCmd.label "Opna skrá…">
 <!ENTITY openFileCmd.accesskey "O">
 <!ENTITY openFileCmd.key "O">
@@ -68,14 +65,8 @@
 <!ENTITY publishCmd.key "S">
 <!ENTITY publishAsCmd.label "Gefa út sem…">
 <!ENTITY publishAsCmd.accesskey "f">
-<!ENTITY exportToTextCmd.label "Flytja út sem texta…">
-<!ENTITY exportToTextCmd.accesskey "t">
 <!ENTITY saveAsChangeEncodingCmd.label "Vista og breyta stafatöflu">
 <!ENTITY saveAsChangeEncodingCmd.accesskey "e">
-<!ENTITY previewCmd.label "Skoða síðu">
-<!ENTITY previewCmd.accesskey "S">
-<!ENTITY sendPageCmd.label "Senda síðu…">
-<!ENTITY sendPageCmd.accesskey "d">
 <!ENTITY printSetupCmd.label "Uppsetning síðu…">
 <!ENTITY printSetupCmd.accesskey "U">
 <!ENTITY printCmd.label "Prenta…">
@@ -114,8 +105,6 @@
 <!ENTITY checkSpellingCmd2.label "Yfirfara stafsetningu">
 <!ENTITY checkSpellingCmd2.accesskey "Y">
 <!ENTITY checkSpellingCmd2.key "p">
-<!ENTITY validateCmd.label "Sannreyna HTML">
-<!ENTITY validateCmd.accesskey "S">
 <!-- Insert menu items -->
 <!ENTITY insertMenu.label "Setja inn">
 <!ENTITY insertMenu.accesskey "i">
@@ -318,10 +307,6 @@
 <!ENTITY decreaseIndent.label "Minnka inndrátt">
 <!ENTITY decreaseIndent.accesskey "d">
 <!ENTITY decreaseIndent.key "[">
-<!ENTITY grid.label "Staðsetningar hnitakerfi">
-<!ENTITY grid.accesskey "t">
-<!ENTITY pageProperties.label "Titill síðu og eiginleikar…">
-<!ENTITY pageProperties.accesskey "g">
 <!ENTITY colorsAndBackground.label "Litir síðu og bakgrunnur…">
 <!ENTITY colorsAndBackground.accesskey "u">
 <!-- Table Menu -->
@@ -385,13 +370,12 @@
 <!-- Toolbar-only items -->
 <!ENTITY menuBar.tooltip "Valmynd">
 <!ENTITY formatToolbar.tooltip "Sniðslá">
+<!ENTITY newToolbarCmd.label "Nýtt">
 <!ENTITY newToolbarCmd.tooltip "Búa til nýja síðu í ritli">
 <!ENTITY openToolbarCmd.label "Opna">
 <!ENTITY openToolbarCmd.tooltip "Opna staðbundna skrá">
 <!ENTITY saveToolbarCmd.tooltip "Vista skrá á staðbundna staðsetningu">
 <!ENTITY publishToolbarCmd.tooltip "Uphala skrá á fjartengda staðsetningu">
-<!ENTITY previewToolbarCmd.label "Skoða">
-<!ENTITY previewToolbarCmd.tooltip "Hlaða síðu í Navigator">
 <!ENTITY printToolbarCmd.label "Prenta">
 <!ENTITY printToolbarCmd.tooltip "Prenta síðu">
 <!ENTITY findToolbarCmd.label "Leita">

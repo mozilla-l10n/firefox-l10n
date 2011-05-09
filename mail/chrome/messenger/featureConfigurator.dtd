@@ -13,10 +13,14 @@
 <!ENTITY featureConfigurator.toolbar.original "Nota upprunalegu hnappana á verkfæraslánni">
 <!ENTITY featureConfigurator.toolbar.original.status.explanation "Viðhalda öllum sérsniðnum tækjaslám og einnig nýju pósthnappaslánni.">
 <!ENTITY featureConfigurator.toolbarBenefits.para "Póstaðgerðir eins og svara og áframsenda hafa verið færðar yfir á slánna og yfir í póstinn sjálfan. Þannig eru aðgerðahnappar beint aðgengilegir í póstinum sjálfum, sem leyfir meira pláss í slánni fyrir ítarlegri leitarsvæði, og viðbætur.">
+<!-- LOCALIZATION NOTE (featureConfigurator.addOn.downloading): The text to display while downloading the addon. -->
+<!ENTITY featureConfigurator.addOn.downloading "Niðurhala…">
 <!-- LOCALIZATION NOTE (featureConfigurator.addOn.installing): The text to display while installing the addon. -->
 <!ENTITY featureConfigurator.addOn.installing "Uppsetning…">
 <!-- LOCALIZATION NOTE (featureConfigurator.addOn.installed): The text to display after the user installs the addon from the configurator. -->
 <!ENTITY featureConfigurator.addOn.installed "Uppsettir">
+<!-- LOCALIZATION NOTE (featureConfigurator.addOn.failure): The text to display when there is a problem installing the addon. -->
+<!ENTITY featureConfigurator.addOn.failure "Upp kom vandamál við að setja inn viðbótina!">
 <!-- LOCALIZATION NOTE (featureConfigurator.addOn.alreadyInstalled): The label to display when the addon is already installed. -->
 <!ENTITY featureConfigurator.addOn.alreadyInstalled "Þessi viðbót er þegar uppsett.">
 <!-- LOCALIZATION NOTE (featureConfigurator.collapsedHeaders.heading): The heading for the Compact Header page. -->
