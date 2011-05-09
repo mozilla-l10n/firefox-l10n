@@ -71,8 +71,6 @@
 
 <!ENTITY cmd.reloadLivebookmark.label "Pārlādēt dzīvās grāmatzīmes">
 <!ENTITY cmd.reloadLivebookmark.accesskey "R">
-<!ENTITY cmd.reloadMicrosummary.label "Pārlādēt dzīvos virsrakstus">
-<!ENTITY cmd.reloadMicrosummary.accesskey "R">
 
 <!ENTITY cmd.moveBookmarks.label "Pārvietot...">
 <!ENTITY cmd.moveBookmarks.accesskey "P">

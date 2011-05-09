@@ -6,7 +6,6 @@
 <!ENTITY editBookmarkOverlay.feedLocation.accesskey "B">
 <!ENTITY editBookmarkOverlay.siteLocation.label "Lapas atrašanās vieta:">
 <!ENTITY editBookmarkOverlay.siteLocation.accesskey "S">
-<!ENTITY editBookmarkOverlay.liveTitlesSeparator.label "Dzīvie virsraksti">
 <!ENTITY editBookmarkOverlay.folder.label "Mape:">
 <!ENTITY editBookmarkOverlay.foldersExpanderDown.tooltip "Rādīt visas grāmatzīmju mapes">
 <!ENTITY editBookmarkOverlay.expanderUp.tooltip "Paslēpt">
