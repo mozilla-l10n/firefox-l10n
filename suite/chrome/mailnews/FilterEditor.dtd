@@ -88,7 +88,6 @@
 <!ENTITY replyWithTemplate.label          "Atsakyti naudojantis šablonu">
 <!ENTITY markMessageRead.label            "Pažymėti kaip skaitytą">
 <!ENTITY markMessageStarred.label         "Pažymėti vėliavėle">
-<!ENTITY labelMessage.label               "Pažymėti gaire:">
 <!ENTITY setPriority.label                "Nustatyti prioritetą:">
 <!ENTITY addTag.label                     "Priskirti gairę:">
 <!ENTITY setJunkScore.label               "Priskirti brukalo statusą:">
