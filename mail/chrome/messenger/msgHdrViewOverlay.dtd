@@ -109,7 +109,7 @@
 <!ENTITY detachAttachmentCmd.label    "Separa…">  
 <!ENTITY detachAttachmentCmd.accesskey    "p">
 <!ENTITY deleteAttachmentCmd.label    "Suprimeix">  
-<!ENTITY deleteAttachmentCmd.accesskey    "S">
+<!ENTITY deleteAttachmentCmd.accesskey    "x">
 <!ENTITY openAllAttachmentsCmd.label    "Obre-ho tot…">
 <!ENTITY openAllAttachmentsCmd.accesskey    "O">
 <!ENTITY saveAllAttachmentsCmd.label "Desa-ho tot…">
@@ -123,22 +123,24 @@
 <!-- Attachment toolbar items -->
 <!ENTITY saveAttachmentButton.label       "desa">
 <!ENTITY saveAttachmentButton.tooltip     "desa el fitxer adjunt">
+<!ENTITY openAllAttachmentsMenuItem.label    "obre-ho tot…">
+<!ENTITY openAllAttachmentsMenuItem.accesskey    "o">
 <!ENTITY saveAllAttachmentsButton.label   "desa-ho tot">
 <!ENTITY saveAllAttachmentsButton.tooltip "desa tots els fitxers adjunts">
 <!ENTITY openAttachmentMenuItem.label     "obre">
 <!ENTITY openAttachmentMenuItem.accesskey    "o">
-<!ENTITY saveAsAttachmentMenuItem.label    "desa-ho com…">
-<!ENTITY saveAsAttachmentMenuItem.accesskey    "d">
+<!ENTITY saveAsAttachmentMenuItem.label    "anomena i desa…">
+<!ENTITY saveAsAttachmentMenuItem.accesskey    "a">
 <!ENTITY detachAttachmentMenuItem.label    "separa…">
 <!ENTITY detachAttachmentMenuItem.accesskey    "p">
 <!ENTITY deleteAttachmentMenuItem.label    "suprimeix">
-<!ENTITY deleteAttachmentMenuItem.accesskey    "s">
+<!ENTITY deleteAttachmentMenuItem.accesskey    "x">
 <!ENTITY saveAllAttachmentsMenuItem.label    "desa-ho tot…">
-<!ENTITY saveAllAttachmentsMenuItem.accesskey    "t">
+<!ENTITY saveAllAttachmentsMenuItem.accesskey    "s">
 <!ENTITY detachAllAttachmentsMenuItem.label    "separa-ho tot…">
-<!ENTITY detachAllAttachmentsMenuItem.accesskey    "o">
+<!ENTITY detachAllAttachmentsMenuItem.accesskey    "t">
 <!ENTITY deleteAllAttachmentsMenuItem.label    "suprimeix-ho tot…">
-<!ENTITY deleteAllAttachmentsMenuItem.accesskey    "x">
+<!ENTITY deleteAllAttachmentsMenuItem.accesskey    "e">
 
 <!ENTITY copyLinkCmd.label "Copia l'enllaç">
 <!ENTITY copyLinkCmd.accesskey "C">

@@ -193,13 +193,16 @@
 <!ENTITY quoteButton.tooltip "Cita el missatge anterior">
 <!ENTITY addressButton.tooltip "Seleccioneu un destinatari d'una Llibreta d'adreces">
 <!ENTITY attachButton.tooltip "Adjunta un fitxer a aquest missatge">
-<!ENTITY spellingButton.tooltip "Revisa l'ortografia de la selecció o de tot el missatge sencer">
+<!ENTITY spellingButton.tooltip "Comprova l'ortografia de la selecció o del missatge sencer">
 <!ENTITY saveButton.tooltip "Desa aquest missatge">
 <!ENTITY cutButton.tooltip "Retalla">
 <!ENTITY copyButton.tooltip "Copia">
 <!ENTITY pasteButton.tooltip "Enganxa">
 
 <!-- Headers -->
+<!--LOCALIZATION NOTE headersSpace.style is for aligning  the From:, To: and
+    Subject: rows. It should be larger than the largest Header label  -->
+<!ENTITY headersSpace.style "width: 9em;">
 <!ENTITY fromAddr.label "De:">
 <!ENTITY fromAddr.accesskey "d">
 <!ENTITY toAddr.label "A:">

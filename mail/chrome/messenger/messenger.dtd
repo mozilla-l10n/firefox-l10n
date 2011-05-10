@@ -6,7 +6,7 @@
 <!ENTITY newFolderCmd.label "Carpeta…">
 <!ENTITY newFolderCmd.accesskey "C">
 <!ENTITY closeTabCmd2.label "Tanca la pestanya">
-<!ENTITY closeTabCmd2.accesskey "T">
+<!ENTITY closeTabCmd2.accesskey "t">
 <!ENTITY closeOtherTabsCmd2.label "Tanca les altres pestanyes">
 <!ENTITY closeOtherTabsCmd2.accesskey "a">
 <!-- LOCALIZATION NOTE (undoCloseTabCmd.label):
@@ -20,8 +20,8 @@
      Menu option to cause the current tab to be migrated to a new Thunderbird
      window.
      -->
-<!ENTITY moveToNewWindow.label "Mou a una finestra nova">
-<!ENTITY moveToNewWindow.accesskey "v">
+<!ENTITY moveToNewWindow.label "Mou a una nova finestra">
+<!ENTITY moveToNewWindow.accesskey "f">
 <!ENTITY newVirtualFolderCmd.label "Cerca desada…">
 <!ENTITY newVirtualFolderCmd.accesskey "d">
 <!ENTITY newOtherAccountsCmd.label "Altres comptes…">
@@ -39,7 +39,6 @@
 <!ENTITY saveAsFileCmd.key "s">
 <!ENTITY saveAsTemplateCmd.label "Plantilla">
 <!ENTITY saveAsTemplateCmd.accesskey "t">
-<!ENTITY getNewMsgCmd.key "t">
 <!ENTITY getNewMsgForCmd.label "Recupera els missatges nous de">
 <!ENTITY getNewMsgForCmd.accesskey "e">
 <!ENTITY getAllNewMsgCmdPopupMenu.label "Tots els comptes">
@@ -520,7 +519,6 @@ you can use these alternative items. Otherwise, their values should be empty.  -
 <!ENTITY getMsgButton.tooltip "Recupera els missatges nous">
 <!ENTITY getAllNewMsgCmd.label "Recupera tots els missatges nous">
 <!ENTITY getAllNewMsgCmd.accesskey "p">
-<!ENTITY getAllNewMsgCmd.key "t">
 <!ENTITY newMsgButton.tooltip "Crea un nou missatge">
 <!ENTITY replyButton.tooltip "Respon el missatge">
 <!ENTITY replyAllButton.tooltip "Respon al remitent i a tots els destinataris">
@@ -750,14 +748,16 @@ you can use these alternative items. Otherwise, their values should be empty.  -
 <!ENTITY loadRemoteContentButton3.label "Mostra el contingut remot">
 
 <!-- Phishing Bar -->
-<!ENTITY phishingBarMessage2.label "Aquest missatge podria ser fradulent.">
+<!ENTITY phishingBarMessage2.label "Aquest missatge podria ser fraudulent.">
 <!ENTITY removePhishingBarButton1.label "Ignora l'avís">
+<!ENTITY disablePhishingWarning1.label "Inhabilita la detecció de frau per a tots els missatges">
 <!ENTITY reportPhishingError1.label "Aquest missatge no sembla ser fraudulent">
 
 <!-- MDN Bar -->
-<!ENTITY mdnBarMessage.label "El remitent d'aquest missatge ha soŀlicitat ser notificat quan llegiu aquest missatge. Voleu notificar el remitent?"> 
-<!ENTITY mdnBarIgnoreButton.label "Ignora la soŀlicitud">
-<!ENTITY mdnBarSendButton.label "Envia la notificació">
+<!ENTITY mdnBarIgnoreButton2.label "Ignora">
+<!ENTITY mdnBarIgnoreButton2.accesskey "I">
+<!ENTITY mdnBarSendButton2.label "Envia la notificació">
+<!ENTITY mdnBarSendButton2.accesskey "E">
 
 <!-- Quick Search Bar -->
 <!ENTITY quickSearchCmd.key "k">

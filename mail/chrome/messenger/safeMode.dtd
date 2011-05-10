@@ -36,20 +36,20 @@
 #endif
    - ***** END LICENSE BLOCK ***** -->
 
-<!ENTITY safeModeDialog.title             "&brandShortName; en Mode segur">
+<!ENTITY safeModeDialog.title             "Mode segur del &brandShortName;">
 <!ENTITY window.width                     "37em">
 
-<!ENTITY safeModeDescription.label        "El &brandShortName; s'està executant en Mode segur, que inhabilita temporalment la vostra configuració, els temes i les extensions.">
-<!ENTITY safeModeDescription2.label       "Podeu fer qualsevol dels canvis següents perquè siguin permanents:">
+<!ENTITY safeModeDescription.label        "El &brandShortName; s'està executant en Mode segur, que inhabilita termporalment la vostra configuració, els vostres temes i extensions.">
+<!ENTITY safeModeDescription2.label       "Si ho voleu podeu fer que siguin permanents els canvis següents:">
 
 <!ENTITY disableAddons.label              "Inhabilita tots els complements">
-<!ENTITY disableAddons.accesskey          "I">
+<!ENTITY disableAddons.accesskey          "c">
 
-<!ENTITY resetToolbars.label              "Reinicia les barres d'eines i els controls">
-<!ENTITY resetToolbars.accesskey          "R">
+<!ENTITY resetToolbars.label              "Inicialitza les barres d'eines i els controls">
+<!ENTITY resetToolbars.accesskey          "e">
 
 <!ENTITY changeAndRestartButton.label     "Aplica els canvis i reinicia">
 <!ENTITY changeAndRestartButton.accesskey "A">
 
 <!ENTITY continueButton.label             "Continua en Mode segur">
-<!ENTITY continueButton.accesskey         "C">
+<!ENTITY continueButton.accesskey         "M">
