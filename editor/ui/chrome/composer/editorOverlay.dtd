@@ -45,9 +45,6 @@
 <!-- File menu items -->
 <!ENTITY fileMenu.label "Ficheiro">
 <!ENTITY fileMenu.accesskey "f">
-<!ENTITY newBlankPageCmd.label "Página de Composição">
-<!ENTITY newBlankPageCmd.accesskey "P">
-<!ENTITY newMenu.label "Nova">
 <!ENTITY openFileCmd.label "Abrir Ficheiro...">
 <!ENTITY openFileCmd.accesskey "o">
 <!ENTITY openFileCmd.key "o">
@@ -393,6 +390,7 @@
 <!-- Toolbar-only items -->
 <!ENTITY menuBar.tooltip "Barra Menu">
 <!ENTITY formatToolbar.tooltip "Barra de ferramentas de Formatação">
+<!ENTITY newToolbarCmd.label "Novo">
 <!ENTITY newToolbarCmd.tooltip "Criar nova página de Composição">
 <!ENTITY openToolbarCmd.label "Abrir">
 <!ENTITY openToolbarCmd.tooltip "Abrir um ficheiro Local">

@@ -21,22 +21,26 @@
 <!ENTITY sentFolderOn.accesskey "A">
 <!ENTITY sentInOtherFolder.label "Outro:">
 <!ENTITY sentInOtherFolder.accesskey "O">
+<!-- LOCALIZATION NOTE (archivesFolderOn.label): OK to translate this, bug #57440 -->
+<!ENTITY archivesTitle.label "Arquivos de mensagens">
+<!ENTITY keepArchives.label "Manter arquivos de mensagens em:">
+<!ENTITY keepArchives.accesskey "M">
+<!ENTITY archiveHierarchyButton.label "Opções do arquivo…">
+<!ENTITY archiveHierarchyButton.accesskey "q">
+<!ENTITY archivesFolderOn.label "Pasta &quot;Arquivos em&quot; em:">
+<!ENTITY archivesFolderOn.accesskey "n">
+<!ENTITY archiveInOtherFolder.label "Outro:">
+<!ENTITY archiveInOtherFolder.accesskey "r">
+<!ENTITY specialFolders.label "Rascunhos e modelos">
+<!ENTITY keepDrafts.label "Manter rascunho de mensagens em:">
 <!-- LOCALIZATION NOTE (draftsFolderOn.label): OK to translate this, bug #57440 -->
 <!ENTITY draftsFolderOn.label "Pasta &quot;Rascunhos&quot; em:">
 <!ENTITY draftsFolderOn.accesskey "c">
 <!ENTITY draftInOtherFolder.label "Outro:">
 <!ENTITY draftInOtherFolder.accesskey "t">
-<!-- LOCALIZATION NOTE (archivesFolderOn.label): OK to translate this, bug #57440 -->
-<!ENTITY archivesFolderOn.label "Pasta de &quot;Arquivos&quot; em:">
-<!ENTITY archivesFolderOn.accesskey "q">
-<!ENTITY archiveInOtherFolder.label "Outro:">
-<!ENTITY archiveInOtherFolder.accesskey "r">
+<!ENTITY keepTempltes.label "Guardar os papéis de carta em:">
 <!-- LOCALIZATION NOTE (templatesFolderOn.label): OK to translate this, bug #57440 -->
 <!ENTITY templatesFolderOn.label "Pasta &quot;Modelos&quot; em:">
 <!ENTITY templatesFolderOn.accesskey "m">
 <!ENTITY templateInOtherFolder.label "Outro:">
-<!ENTITY templateInOtherFolder.accesskey "t">
-<!ENTITY specialFoldersTitle.label "Rascunhos e papéis de carta">
-<!ENTITY keepDrafts.label "Guardar os rascunhos em:">
-<!ENTITY keepArchives.label "Guardar ficheiros de mensagens em:">
-<!ENTITY keepTempltes.label "Guardar os papéis de carta em:">
+<!ENTITY templateInOtherFolder.accesskey "u">
