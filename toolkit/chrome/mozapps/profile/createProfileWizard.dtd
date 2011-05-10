@@ -45,7 +45,7 @@
 <!ENTITY profileCreationExplanation_2.text  "Եթե Դուք &brandShortName;­ը այլ օգտվողների հետ համատեղ եք օգտագործում, ապա կարող եք օգտագործել հաշիվներ օգտվողների տեղեկություններն իրարից առանձին պահելու համար: Դրա համար ամեն օգտվող պիտի ստեղծի իր անձնական հաշիվը:">
 <!ENTITY profileCreationExplanation_3.text  "Եթե Դուք այս &brandShortName;­ից միակ օգտվողն եք, ապա պիտի ունենաք առնվազն մեկ հաշիվ: Այնուամենայնիվ կարող եք ստեղծել ձեր համար բազմաթիվ հաշիվներ նախընտրանքների և կազմաձեվման տարբեր խմբեր ունենալու համար: Օրինակ՝. կարող եք ունենալ մեկ աշխատանքային հաշիվ եվ մեկ անձնական օգտագորման հաշիվ:">
 <!ENTITY profileCreationExplanation_4.text  "Հաշվի ստեղծման գործնթացը սկսելու համար սեղմեք Հաջորդ կոճակը:">
-<!ENTITY profileCreationExplanation_4Mac.text  "Ձեր պռոֆիլի ստեղծման համար սեղմեք Շարունակել:">
+<!ENTITY profileCreationExplanation_4Mac.text  "To begin creating your profile, click Continue.">
 <!ENTITY profileCreationExplanation_4Gnome.text  "Հաշվի ստեղծման գործնթացը սկսելու համար սեղմեք Հաջորդ կոճակը:">
 
 <!-- Second wizard page -->

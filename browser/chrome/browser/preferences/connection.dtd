@@ -53,7 +53,7 @@
 <!ENTITY  manualTypeRadio.accesskey     "M">
 <!ENTITY  autoTypeRadio.label           "Միջանկյալ սպասարկչի ինքնաբար կազմաձեվման URL:">
 <!ENTITY  autoTypeRadio.accesskey       "U">
-<!ENTITY  reload.label                  "Թարմացնել">
+<!ENTITY  reload.label                  "Վերբեռնել">
 <!ENTITY  reload.accesskey              "Թ">
 <!ENTITY  ftp.label                     "FTP միջնորդ.">
 <!ENTITY  ftp.accesskey                 "F">
@@ -68,10 +68,10 @@
 <!ENTITY  socks5.label                  "SOCKS տ5">
 <!ENTITY  socks5.accesskey              "S">
 <!ENTITY  port.label                    "Դարպաս.">
-<!ENTITY  HTTPport.accesskey            "P">
-<!ENTITY  SSLport.accesskey             "o">
-<!ENTITY  FTPport.accesskey             "r">
-<!ENTITY  SOCKSport.accesskey           "t">
+<!ENTITY  HTTPport.accesskey            "Դ">
+<!ENTITY  SSLport.accesskey             "ա">
+<!ENTITY  FTPport.accesskey             "ր">
+<!ENTITY  SOCKSport.accesskey           "պ">
 <!ENTITY  noproxy.label                 "Չմիջնորդել.">
 <!ENTITY  noproxy.accesskey             "N">
 <!ENTITY  noproxyExplain.label          "Օրինակ՝. .mozilla.org, .net.nz, 192.168.1.0/24">

@@ -47,7 +47,7 @@
 <!ENTITY useCursorNavigation.accesskey   "Է">
 <!ENTITY searchStartTyping.label         "Էջում տեքստ մուտքագրելու դեպքում փնտրել այն էջում">
 <!ENTITY searchStartTyping.accesskey     "Է">
-<!ENTITY blockAutoRefresh.label          "Զգուշացրու ինձ երբ վեբ կայքերը փորձում են վերահասցեավորել կամ վերաբեռնել">
+<!ENTITY blockAutoRefresh.label          "Զգուշացրու ինձ երբ վեբ կայքերը փորձում են վերահասցեավորել կամ վերբեռնել">
 <!ENTITY blockAutoRefresh.accesskey      "Զ">
 
 <!ENTITY browsing.label                  "Նավարկում">
@@ -97,7 +97,7 @@
 
 <!ENTITY autoCheck.label                 "Ինքնաբար ստուգել թարմացումներ.">
 <!ENTITY enableAppUpdate.label           "&brandShortName;">
-<!ENTITY enableAppUpdate.accesskey       "b">
+<!ENTITY enableAppUpdate.accesskey       "F">
 <!ENTITY enableAddonsUpdate2.label       "Հավելումներ">
 <!ENTITY enableAddonsUpdate2.accesskey   "n">
 <!ENTITY enableSearchUpdate.label        "Փնտրամեքենաներ">
