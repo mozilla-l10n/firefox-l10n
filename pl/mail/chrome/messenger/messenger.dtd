@@ -35,7 +35,6 @@
 <!ENTITY saveAsFileCmd.key              "s">
 <!ENTITY saveAsTemplateCmd.label        "Szablon">
 <!ENTITY saveAsTemplateCmd.accesskey    "S">
-<!ENTITY getNewMsgCmd.key               "d">
 <!ENTITY getNewMsgForCmd.label          "Pobierz nowe wiadomości z">
 <!ENTITY getNewMsgForCmd.accesskey      "b">
 <!ENTITY getAllNewMsgCmdPopupMenu.label                "Wszystkich kont">
@@ -507,7 +506,6 @@
 <!ENTITY getMsgButton.tooltip      "Pobierz nowe wiadomości">
 <!ENTITY getAllNewMsgCmd.label     "Pobierz wszystkie nowe wiadomości">
 <!ENTITY getAllNewMsgCmd.accesskey "P">
-<!ENTITY getAllNewMsgCmd.key       "d">
 <!ENTITY newMsgButton.tooltip      "Utwórz nową wiadomość">
 <!ENTITY replyButton.tooltip       "Odpowiedz na wiadomość">
 <!ENTITY replyAllButton.tooltip    "Odpowiedz nadawcy i wszystkim adresatom">
