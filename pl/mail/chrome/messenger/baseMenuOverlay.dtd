@@ -20,6 +20,5 @@
 <!ENTITY featureConfiguratorCmd.label     "Asystent migracji">
 <!ENTITY featureConfiguratorCmd.accesskey "A">
 
-<!ENTITY updateCmd.label        "Sprawdź dostępność aktualizacji…">
 <!ENTITY aboutMenuCmd.label     "O programie &brandShortName;">
 <!ENTITY aboutMenuCmd.accesskey "O">
