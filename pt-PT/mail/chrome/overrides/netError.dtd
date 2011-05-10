@@ -180,3 +180,6 @@ netError.xhtml) because it exposes functionality specific to thunderbird. -->
 <button id='getMeOutOfHereButton'>&securityOverride.getMeOutOfHereButton;</button>
 <button id='exceptionDialogButton'>&securityOverride.exceptionButtonLabel;</button>
 ">
+
+<!ENTITY remoteXUL.title "XUL remoto">
+<!ENTITY remoteXUL.longDesc "<p><ul><li>Por favor, contacte os donos do sítio web para informá-los sobre este problema.</li></ul></p>">
