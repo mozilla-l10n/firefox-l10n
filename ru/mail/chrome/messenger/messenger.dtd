@@ -29,7 +29,6 @@
 <!ENTITY saveAsFileCmd.key "s">
 <!ENTITY saveAsTemplateCmd.label "Шаблон">
 <!ENTITY saveAsTemplateCmd.accesskey "Ш">
-<!ENTITY getNewMsgCmd.key "d">
 <!ENTITY getNewMsgForCmd.label "Получить новые сообщения для…">
 <!ENTITY getNewMsgForCmd.accesskey "н">
 <!ENTITY getAllNewMsgCmdPopupMenu.label "Всех учётных записей">
@@ -473,7 +472,6 @@
 <!ENTITY getMsgButton.tooltip "Получить новые сообщения">
 <!ENTITY getAllNewMsgCmd.label "Все новые сообщения">
 <!ENTITY getAllNewMsgCmd.accesskey "с">
-<!ENTITY getAllNewMsgCmd.key "d">
 <!ENTITY newMsgButton.tooltip "Создать сообщение">
 <!ENTITY replyButton.tooltip "Ответить на сообщение">
 <!ENTITY replyAllButton.tooltip "Ответить отправителю и всем адресатам">
