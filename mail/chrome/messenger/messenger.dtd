@@ -39,7 +39,6 @@
 <!ENTITY saveAsFileCmd.key "S">
 <!ENTITY saveAsTemplateCmd.label "Modelo">
 <!ENTITY saveAsTemplateCmd.accesskey "M">
-<!ENTITY getNewMsgCmd.key "l">
 <!ENTITY getNewMsgForCmd.label "Obter novas mensagens para">
 <!ENTITY getNewMsgForCmd.accesskey "n">
 <!ENTITY getAllNewMsgCmdPopupMenu.label "Todas as contas">
@@ -521,7 +520,6 @@ you can use these alternative items. Otherwise, their values should be empty.  -
 <!ENTITY getMsgButton.tooltip "Obter novas mensagens">
 <!ENTITY getAllNewMsgCmd.label "Obter todas as novas mensagens">
 <!ENTITY getAllNewMsgCmd.accesskey "G">
-<!ENTITY getAllNewMsgCmd.key "t">
 <!ENTITY newMsgButton.tooltip "Criar nova mensagem">
 <!ENTITY replyButton.tooltip "Responder à mensagem">
 <!ENTITY replyAllButton.tooltip "Responder ao remetente e a todos os receptores">
