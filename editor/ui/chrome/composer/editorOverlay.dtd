@@ -48,14 +48,11 @@
 <!-- File menu items -->
 <!ENTITY fileMenu.label "Fitxer">
 <!ENTITY fileMenu.accesskey "F">
-<!ENTITY newBlankPageCmd.label "Obre una finestra del Redactor">
-<!ENTITY newBlankPageCmd.accesskey "n">
-<!ENTITY newMenu.label "Nou">
 <!ENTITY openFileCmd.label "Obre el fitxer…">
 <!ENTITY openFileCmd.accesskey "O">
 <!ENTITY openFileCmd.key "O">
 <!ENTITY openRemoteCmd.label "Obre una ubicació web…">
-<!ENTITY openRemoteCmd.accesskey "L">
+<!ENTITY openRemoteCmd.accesskey "u">
 <!ENTITY openRemoteCmd.key "L">
 <!ENTITY fileRecentMenu.label "Pàgines recents">
 <!ENTITY fileRecentMenu.accesskey "r">
@@ -72,14 +69,8 @@
 <!ENTITY publishCmd.key "S">
 <!ENTITY publishAsCmd.label "Anomena i publica…">
 <!ENTITY publishAsCmd.accesskey "o">
-<!ENTITY exportToTextCmd.label "Exporta a text…">
-<!ENTITY exportToTextCmd.accesskey "t">
 <!ENTITY saveAsChangeEncodingCmd.label "Desa i canvia el joc de caràcters">
 <!ENTITY saveAsChangeEncodingCmd.accesskey "e">
-<!ENTITY previewCmd.label "Explora la pàgina">
-<!ENTITY previewCmd.accesskey "x">
-<!ENTITY sendPageCmd.label "Envia la pàgina…">
-<!ENTITY sendPageCmd.accesskey "g">
 <!ENTITY printSetupCmd.label "Configuració de la pàgina…">
 <!ENTITY printSetupCmd.accesskey "u">
 <!ENTITY printCmd.label "Imprimeix…">
@@ -119,8 +110,6 @@
 <!ENTITY checkSpellingCmd2.label "Revisa l'ortografia">
 <!ENTITY checkSpellingCmd2.accesskey "o">
 <!ENTITY checkSpellingCmd2.key "K">
-<!ENTITY validateCmd.label "Valida l'HTML">
-<!ENTITY validateCmd.accesskey "V">
 
 <!-- Insert menu items -->
 <!ENTITY insertMenu.label "Insereix">
@@ -335,11 +324,6 @@
 <!ENTITY decreaseIndent.accesskey "d">
 <!ENTITY decreaseIndent.key "-">
 
-<!ENTITY grid.label "Graella de posicionament">
-<!ENTITY grid.accesskey "G">
-
-<!ENTITY pageProperties.label "Títol i propietats de la pàgina…">
-<!ENTITY pageProperties.accesskey "g">
 <!ENTITY colorsAndBackground.label "Colors i fons de la pàgina…">
 <!ENTITY colorsAndBackground.accesskey "o">
 
@@ -410,15 +394,13 @@
 
 <!-- Toolbar-only items -->
 <!ENTITY menuBar.tooltip "Barra de menús">
-<!ENTITY compositionToolbar.tooltip "Barra de redacció">
 <!ENTITY formatToolbar.tooltip "S'està formatant la barra d'eines">
+<!ENTITY newToolbarCmd.label "Nou">
 <!ENTITY newToolbarCmd.tooltip "Crea una nova pàgina del Redactor">
 <!ENTITY openToolbarCmd.label "Obre">
 <!ENTITY openToolbarCmd.tooltip "Obre un fitxer local">
 <!ENTITY saveToolbarCmd.tooltip "Desa el fitxer localment">
 <!ENTITY publishToolbarCmd.tooltip "Carrega el fitxer en una ubicació remota">
-<!ENTITY previewToolbarCmd.label "Navega">
-<!ENTITY previewToolbarCmd.tooltip "Carrega aquesta pàgina al navegador">
 <!ENTITY printToolbarCmd.label "Imprimeix">
 <!ENTITY printToolbarCmd.tooltip "Imprimeix aquesta pàgina">
 <!ENTITY findToolbarCmd.label "Cerca">
@@ -455,33 +437,7 @@
 <!ENTITY alignLeftButton.tooltip "Alinea el text al marge esquerra">
 <!ENTITY alignCenterButton.tooltip "Centra el text">
 <!ENTITY alignRightButton.tooltip "Alinea el text al marge dret">
-<!ENTITY alignjustifyButton.tooltip "Alinea el text als marges dret i esquerra">
-
-<!-- Display Mode toolbar and View menu items -->
-<!ENTITY NormalModeTab.label "Normal">
-<!ENTITY NormalMode.label "Mode d'edició normal">
-<!ENTITY NormalMode.accesskey "n">
-<!ENTITY NormalMode.tooltip "Mostra els contorns de la taula i els objectius anomenats">
-<!ENTITY AllTagsMode.label "Mostra totes les etiquetes">
-<!ENTITY AllTagsMode.accesskey "a">
-<!ENTITY AllTagsMode.tooltip "Visualitza les icones per a totes les etiquetes HTML">
-
-<!ENTITY HTMLSourceMode.label "Codi font HTML">
-<!-- Toolbar has an image with "HTML" text, so don't include it in the string -->
-<!ENTITY SourceMode.label "Codi font">
-<!ENTITY HTMLSourceMode.accesskey "H">
-<!ENTITY HTMLSourceMode.tooltip "Edita el codi HTML">
-<!ENTITY PreviewMode.label "Previsualització">
-<!ENTITY PreviewMode.accesskey "p">
-<!ENTITY PreviewMode.tooltip "Visualitza'l en WYSIWYG (com al navegador)">
-
-<!-- LOCALIZATION NOTE: Do NOT translate text for 'SourceTabDirection'
-     Use latin "ltr" if you want the <html> image to left of the 
-     'SourceMode.label' text defined above,
-     or use latin "rtl" if you want this image to the right of text
-     This is the value of the HTML 'dir' attribute
--->
-<!ENTITY SourceTabDirection "ltr">
+<!ENTITY alignJustifyButton.tooltip "Alinea el text als marges dret i esquerra">
 
 <!-- Structure Toolbar Context Menu items -->
 <!ENTITY structSelect.label "Selecciona">
