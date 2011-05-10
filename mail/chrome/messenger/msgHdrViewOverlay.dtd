@@ -85,6 +85,8 @@
 <!ENTITY detachAttachmentMenuItem.accesskey "е">
 <!ENTITY deleteAttachmentMenuItem.label "удалить">
 <!ENTITY deleteAttachmentMenuItem.accesskey "д">
+<!ENTITY openAllAttachmentsMenuItem.label "открыть все…">
+<!ENTITY openAllAttachmentsMenuItem.accesskey "ы">
 <!ENTITY saveAllAttachmentsMenuItem.label "сохранить все…">
 <!ENTITY saveAllAttachmentsMenuItem.accesskey "х">
 <!ENTITY detachAllAttachmentsMenuItem.label "отделить все…">
