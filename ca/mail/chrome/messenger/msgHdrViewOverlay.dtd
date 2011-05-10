@@ -123,6 +123,8 @@
 <!-- Attachment toolbar items -->
 <!ENTITY saveAttachmentButton.label       "desa">
 <!ENTITY saveAttachmentButton.tooltip     "desa el fitxer adjunt">
+<!ENTITY openAllAttachmentsMenuItem.label    "obre-ho tot…">
+<!ENTITY openAllAttachmentsMenuItem.accesskey    "o">
 <!ENTITY saveAllAttachmentsButton.label   "desa-ho tot">
 <!ENTITY saveAllAttachmentsButton.tooltip "desa tots els fitxers adjunts">
 <!ENTITY openAttachmentMenuItem.label     "obre">

@@ -39,7 +39,6 @@
 <!ENTITY saveAsFileCmd.key "s">
 <!ENTITY saveAsTemplateCmd.label "Plantilla">
 <!ENTITY saveAsTemplateCmd.accesskey "t">
-<!ENTITY getNewMsgCmd.key "t">
 <!ENTITY getNewMsgForCmd.label "Recupera els missatges nous de">
 <!ENTITY getNewMsgForCmd.accesskey "e">
 <!ENTITY getAllNewMsgCmdPopupMenu.label "Tots els comptes">
@@ -520,7 +519,6 @@ you can use these alternative items. Otherwise, their values should be empty.  -
 <!ENTITY getMsgButton.tooltip "Recupera els missatges nous">
 <!ENTITY getAllNewMsgCmd.label "Recupera tots els missatges nous">
 <!ENTITY getAllNewMsgCmd.accesskey "p">
-<!ENTITY getAllNewMsgCmd.key "t">
 <!ENTITY newMsgButton.tooltip "Crea un nou missatge">
 <!ENTITY replyButton.tooltip "Respon el missatge">
 <!ENTITY replyAllButton.tooltip "Respon al remitent i a tots els destinataris">
