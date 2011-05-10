@@ -1,8 +1,0 @@
-<!ENTITY credit.title  "Podziękowania programu &brandFullName;">
-<!ENTITY brandMotto    "Poczta na Twój sposób!">
-<!ENTITY credit.thanks "Specjalne podziękowania dla">
-
-<!ENTITY credit.translation "<h3>Polska lokalizacja</h3><ul><li>Bartosz Piec</li><li>Stefan Plewako</li><li>Marek Stępień</li></ul><h3>Podziękowania od lokalizatorów dla:</h3><ul><li>Piotr Bartecki</li><li>Zbigniew Braniecki</li><li>Paweł Chmielowski</li><li>Piotr Chyliński</li><li>Wadim Dziedzic</li><li>E2rd</li><li>Hubert Gajewski</li><li>Marcin Jagodziński</li><li>Wojciech Kapusta</li><li>Piotr Komoda</li><li>Stanisław Małolepszy</li><li>Piotr Pielach</li><li>Marek Wawoczny</li></ul>">
-
-<!ENTITY credit.memory         "Pamięci">
-<!ENTITY credit.poweredByGecko "Oprogramowanie oparte o platformę Gecko&trade;">
