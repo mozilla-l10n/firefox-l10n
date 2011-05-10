@@ -14,7 +14,7 @@
 <!-- New Account AND Existing Account -->
 <!ENTITY server.label               "Server">
 <!ENTITY serverType.main.label      "Server da &syncBrand.fullName.label;">
-<!ENTITY serverType.custom2.label   "Utilisar in server persunal…">
+<!ENTITY serverType.custom2.label   "Utilisar in agen server…">
 <!ENTITY signIn.account2.label      "Conto">
 <!ENTITY signIn.account2.accesskey  "C">
 <!ENTITY signIn.password.label      "Pled-clav">
@@ -55,20 +55,20 @@
 <!ENTITY setup.captchaPage2.title.label     "Conferma che ti n'es betg in roboter">
 <!-- Existing Account Page 1: Add Device (incl. Add a Device dialog strings) -->
 <!ENTITY addDevice.title.label              "Agiuntar in apparat">
-<!ENTITY addDevice.showMeHow.label          "Mussar sco.">
+<!ENTITY addDevice.showMeHow.label          "Mussar co far.">
 <!ENTITY addDevice.dontHaveDevice.label     "Jau n'hai betg qua l'apparat">
-<!ENTITY addDevice.setup.description.label  "Per activar, va a las preferenzas da &syncBrand.shortName.label; da tes auter apparat e tscherna &#x0022;Agiuntar in apparat&#x0022;.">
-<!ENTITY addDevice.setup.enterCode.label    "Lura endatescha quest code:">
-<!ENTITY addDevice.dialog.description.label "Per activar tes nov apparat va en las preferenzas da &syncBrand.shortName.label; sin l'apparat che duai vegnir agiuntà e tscherna &#x0022;Connectar&#x0022;.">
+<!ENTITY addDevice.setup.description.label  "Per activar, acceda a las preferenzas da &syncBrand.shortName.label; da tes auter apparat e tscherna &#x0022;Agiuntar in apparat&#x0022;.">
+<!ENTITY addDevice.setup.enterCode.label    "Endatescha lura quest code:">
+<!ENTITY addDevice.dialog.description.label "Per activar tes nov apparat, acceda a las preferenzas da &syncBrand.shortName.label; sin l'apparat che duai vegnir agiuntà e tscherna &#x0022;Connectar&#x0022;.">
 <!ENTITY addDevice.dialog.enterCode.label   "Endatescha il code che quest apparat ta mussa:">
-<!ENTITY addDevice.dialog.tryAgain.label    "Emprova danovamain.">
-<!ENTITY addDevice.dialog.successful.label  "L'apparat è vegnì agiuntà cun success. La sincronisaziun iniziala po cuzzar intginas minutas è vegn terminada automaticamain - ti pos lavurar vinavant.">
+<!ENTITY addDevice.dialog.tryAgain.label    "Emprova anc ina giada.">
+<!ENTITY addDevice.dialog.successful.label  "L'apparat è vegnì agiuntà cun success. La sincronisaziun iniziala po cuzzar intginas minutas e vegn terminada automaticamain - ti pos lavurar vinavant.">
 <!ENTITY addDevice.dialog.syncKey.label     "Per activar tes apparat stos ti endatar tia clav da Sync. Stampa u memorisescha questa clav e la prenda cun tai.">
 <!ENTITY addDevice.dialog.connected.label   "Apparat è connectà">
 
 <!-- Existing Account Page 2: Manual Login -->
 <!ENTITY setup.signInPage.title.label "S'annunziar">
-<!ENTITY existingSyncKey.description "Ti retschaivas ina copia da tia clav da Sync sche ti vas a las preferenzas da &syncBrand.shortName.label; sin tes auter apparat e tschernas &#x0022;Mia clav da Sync&#x0022; sut il punct &#x0022;Administrar il conto&#x0022;.">
+<!ENTITY existingSyncKey.description "Ti pos laschar mussar ina copia da tia clav da Sync sche ti accedas a las preferenzas da &syncBrand.shortName.label; sin tes auter apparat e tschernas &#x0022;Mia clav da Sync&#x0022; sut il punct &#x0022;Administrar il conto&#x0022;.">
 <!ENTITY verifying.label              "Verifitgar…">
 <!ENTITY resetPassword.label          "Redefinir il pled-clav">
 <!ENTITY resetSyncKey.label           "Jau hai pers mes auter apparat.">

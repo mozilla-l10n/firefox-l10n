@@ -44,7 +44,7 @@
 <!ENTITY  copy.label            "Copiar">
 <!ENTITY  copy.accesskey        "C">
 <!ENTITY  selectall.key         "A">
-<!ENTITY  selectall.label       "Marcar tut">
+<!ENTITY  selectall.label       "Selecziunar tut">
 <!ENTITY  selectall.accesskey   "a">
 <!ENTITY  closeWindow.key       "w">
 
