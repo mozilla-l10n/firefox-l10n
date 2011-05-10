@@ -130,6 +130,8 @@
 <!ENTITY detachAttachmentMenuItem.accesskey    "d">
 <!ENTITY deleteAttachmentMenuItem.label    "sguab às">
 <!ENTITY deleteAttachmentMenuItem.accesskey    "s">
+<!ENTITY openAllAttachmentsMenuItem.label    "fosgail a h-uile…">
+<!ENTITY openAllAttachmentsMenuItem.accesskey    "h">
 <!ENTITY saveAllAttachmentsMenuItem.label    "sàbhail a h-uile…">
 <!ENTITY saveAllAttachmentsMenuItem.accesskey    "s">
 <!ENTITY detachAllAttachmentsMenuItem.label    "dealaich a h-uile…">
