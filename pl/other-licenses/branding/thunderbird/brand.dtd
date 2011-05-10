@@ -2,4 +2,4 @@
 <!ENTITY brandFullName   "Mozilla Thunderbird">
 <!ENTITY vendorShortName "Mozilla">
 
-<!ENTITY logoTrademark   "Mozilla Thunderbird oraz logotyp Thunderbird są znakami towarowymi Mozilla Foundation.">
+<!ENTITY trademarkInfo.part1 "Mozilla Thunderbird oraz logotyp Thunderbird są znakami towarowymi Mozilla Foundation.">
