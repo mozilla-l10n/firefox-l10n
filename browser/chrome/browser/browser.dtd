@@ -234,7 +234,7 @@ can reach it easily. -->
 <!ENTITY deleteCmd.label          "Stizzar">  
 <!ENTITY deleteCmd.key            "D">  
 <!ENTITY deleteCmd.accesskey        "S"> 
-<!ENTITY selectAllCmd.label         "Marcar tut">  
+<!ENTITY selectAllCmd.label         "Selecziunar tut">  
 <!ENTITY selectAllCmd.key         "A">  
 <!ENTITY selectAllCmd.accesskey       "M"> 
 <!ENTITY preferencesCmd2.label       "Preferenzas">

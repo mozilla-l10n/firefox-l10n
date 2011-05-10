@@ -1,5 +1,5 @@
 <!ENTITY syncKey.page.title               "Tia clav da &syncBrand.fullName.label;">
-<!ENTITY syncKey.page.description         "Questa clav vegn utilisada per cifrar las datas da tes conto da &syncBrand.fullName.label;. Ti la stos endatar mintga giada sche ti configureschas &syncBrand.fullName.label; sin in nov computer u apparat.">
+<!ENTITY syncKey.page.description         "Questa clav vegn utilisada per criptar las datas da tes conto da &syncBrand.fullName.label;. Ti la stos endatar mintga giada sche ti configureschas &syncBrand.fullName.label; sin in nov computer u apparat.">
 <!ENTITY syncKey.keepItSecret.heading     "La salva secret">
 <!ENTITY syncKey.keepItSecret.description "Tes conto da &syncBrand.fullName.label; è criptà per proteger tias datas persunalas. Senza questa clav duvrass insatgi onns per decifrar tias infurmaziuns persunalas. Ti es la suletta persuna che enconuscha questa clav. Quai munta che ti es l'unica persuna che po acceder tias datas da &syncBrand.fullName.label;.">
 <!ENTITY syncKey.keepItSafe.heading       "La tegna bain en salv">

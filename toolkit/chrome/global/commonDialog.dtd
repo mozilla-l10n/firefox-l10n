@@ -5,5 +5,5 @@
 <!ENTITY checkbox.label   "controllar">
 <!ENTITY copyCmd.label    "Copiar">
 <!ENTITY copyCmd.accesskey "C">
-<!ENTITY selectAllCmd.label "Marcar tut">
+<!ENTITY selectAllCmd.label "Selecziunar tut">
 <!ENTITY selectAllCmd.accesskey "a">

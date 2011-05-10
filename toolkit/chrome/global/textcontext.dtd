@@ -6,7 +6,7 @@
 <!ENTITY pasteCmd.accesskey "E">
 <!ENTITY undoCmd.label "Revocar">
 <!ENTITY undoCmd.accesskey "R">
-<!ENTITY selectAllCmd.label "Marcar tut">
+<!ENTITY selectAllCmd.label "Selecziunar tut">
 <!ENTITY selectAllCmd.accesskey "M">
 <!ENTITY deleteCmd.label "Stizzar">
 <!ENTITY deleteCmd.accesskey "S">

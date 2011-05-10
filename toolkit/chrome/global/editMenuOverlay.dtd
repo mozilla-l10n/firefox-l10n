@@ -17,7 +17,7 @@
 <!ENTITY pasteCmd.accesskey        "E">
 <!ENTITY deleteCmd.label           "Stizzar">
 <!ENTITY deleteCmd.accesskey       "S">
-<!ENTITY selectAllCmd.label        "Marcar tut">
+<!ENTITY selectAllCmd.label        "Selecziunar tut">
 <!ENTITY selectAllCmd.key          "A">
 <!ENTITY selectAllCmd.accesskey    "t">
 <!ENTITY findCmd.label             "Tschertgar">
