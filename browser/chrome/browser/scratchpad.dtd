@@ -99,5 +99,5 @@
 <!ENTITY webConsoleCmd.accesskey      "W">
 <!ENTITY webConsoleCmd.commandkey     "k">
 
-<!ENTITY textbox.placeholder          "// Cuir a-steach JavaScript, tagh e, dèan briogadh deas agus tagh "Cuir an gnìomh", "Sgrùdaich" no "Clò-bhuail".">
+<!ENTITY textbox.placeholder          "// Cuir a-steach JavaScript, tagh e, dèan briogadh deas agus tagh Cuir an gnìomh, Sgrùdaich no Clò-bhuail.">
 
