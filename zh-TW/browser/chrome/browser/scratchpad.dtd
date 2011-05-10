@@ -1,0 +1,103 @@
+<!-- LOCALIZATION NOTE : FILE This file contains the Scratchpad window strings -->
+<!-- LOCALIZATION NOTE : FILE Do not translate commandkeys -->
+
+<!-- LOCALIZATION NOTE (scratchpad.title):
+  -  The Scratchpad is intended to provide a simple text editor for creating
+  -  and evaluating bits of JavaScript code for the purposes of function
+  -  prototyping, experimentation and convenient scripting.
+  -
+  -  It's quite possible that you won't have a good analogue for the word
+  -  "Scratchpad" in your locale. You should feel free to find a close
+  -  approximation to it or choose a word (or words) that means
+  -  "simple discardable text editor". -->
+<!ENTITY window.title                 "程式碼片段速記本">
+
+<!ENTITY fileMenu.label               "檔案">
+<!ENTITY fileMenu.accesskey           "F">
+
+<!ENTITY newWindowCmd.label           "開新視窗">
+<!ENTITY newWindowCmd.accesskey       "N">
+<!ENTITY newWindowCmd.commandkey      "n">
+
+<!ENTITY openFileCmd.label            "開啟檔案…">
+<!ENTITY openFileCmd.accesskey        "O">
+<!ENTITY openFileCmd.commandkey       "o">
+
+<!ENTITY saveFileCmd.label            "儲存">
+<!ENTITY saveFileCmd.accesskey        "S">
+<!ENTITY saveFileCmd.commandkey       "s">
+
+<!ENTITY saveFileAsCmd.label          "另存新檔…">
+<!ENTITY saveFileAsCmd.accesskey      "a">
+
+<!ENTITY closeCmd.label               "關閉">
+<!ENTITY closeCmd.key                 "W">
+<!ENTITY closeCmd.accesskey           "C">
+
+<!ENTITY editMenu.label               "編輯">
+<!ENTITY editMenu.accesskey           "E">
+
+<!ENTITY undoCmd.label                "復原">
+<!ENTITY undoCmd.key                  "Z">
+<!ENTITY undoCmd.accesskey            "U">
+
+<!ENTITY redoCmd.label                "取消「復原」">
+<!ENTITY redoCmd.key                  "Y">
+<!ENTITY redoCmd.accesskey            "R">
+
+<!ENTITY cutCmd.label                 "剪下">
+<!ENTITY cutCmd.key                   "X">
+<!ENTITY cutCmd.accesskey             "t">
+
+<!ENTITY copyCmd.label                "複製">
+<!ENTITY copyCmd.key                  "C">
+<!ENTITY copyCmd.accesskey            "C">
+
+<!ENTITY pasteCmd.label               "貼上">
+<!ENTITY pasteCmd.key                 "V">
+<!ENTITY pasteCmd.accesskey           "P">
+
+<!ENTITY selectAllCmd.label           "全選">
+<!ENTITY selectAllCmd.key             "A">
+<!ENTITY selectAllCmd.accesskey       "A">
+
+<!ENTITY execute.label                "執行">
+<!ENTITY execute.accesskey            "E">
+<!ENTITY execute.key                  "t">
+
+<!ENTITY inspect.label                "檢測">
+<!ENTITY inspect.accesskey            "I">
+<!ENTITY inspect.key                  "i">
+
+<!ENTITY print.label                  "列印">
+<!ENTITY print.accesskey              "P">
+<!ENTITY print.key                    "r">
+
+<!ENTITY contextMenu.label            "環境">
+<!ENTITY contextMenu.accesskey        "C">
+
+<!ENTITY contentContext.label         "內容">
+<!ENTITY contentContext.accesskey     "C">
+
+<!ENTITY chromeContext.label          "Chrome">
+<!ENTITY chromeContext.accesskey      "h">
+
+<!-- LOCALIZATION NOTE (resetContext.label): This command allows the developer
+  -  to reset/clear the global object of the context where the code executes.
+  -->
+<!ENTITY resetContext.label           "重設">
+<!ENTITY resetContext.accesskey       "R">
+
+<!ENTITY toolsMenu.label              "工具">
+<!ENTITY toolsMenu.accesskey          "T">
+
+<!ENTITY errorConsoleCmd.label        "錯誤主控台">
+<!ENTITY errorConsoleCmd.accesskey    "C">
+<!ENTITY errorConsoleCmd.commandkey   "j">
+
+<!ENTITY webConsoleCmd.label          "網頁主控台">
+<!ENTITY webConsoleCmd.accesskey      "W">
+<!ENTITY webConsoleCmd.commandkey     "k">
+
+<!ENTITY textbox.placeholder          "// 輸入一些 JavaScript，反白起來並按右鍵選擇執行、檢測，或是印出程式。">
+
