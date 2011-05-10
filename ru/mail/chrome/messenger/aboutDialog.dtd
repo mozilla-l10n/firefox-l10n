@@ -1,15 +1,35 @@
 <!ENTITY aboutDialog.title "О &brandFullName;">
-<!ENTITY aboutButton.label "&lt; Назад">
-<!ENTITY aboutButton.accesskey "з">
-<!ENTITY aboutVersion "версия">
-<!ENTITY aboutMenu.label "О программе">
-<!ENTITY aboutMenu.accesskey "п">
-<!ENTITY aboutCredits.label "Авторы">
-<!ENTITY aboutCredits.accesskey "в">
-<!ENTITY aboutRights.label "Ваши права">
-<!ENTITY aboutRights.accesskey "ш">
-<!ENTITY aboutContributors.label "Участники">
-<!ENTITY aboutContributors.accesskey "ч">
-<!ENTITY aboutLicense.label "Лицензия">
-<!ENTITY aboutLicense.accesskey "ц">
+<!ENTITY community.start2 "&brandShortName; создан ">
+<!ENTITY community.mozillaLink "&vendorShortName;">
+<!ENTITY community.middle2 " — ">
+<!ENTITY community.creditsLink "глобальным сообществом">
+<!ENTITY community.end2 ", работающим над тем, чтобы сделать Интернет лучше. Мы верим, что Интернет должен быть общественным ресурсом, открытым и доступным для всех и каждого без каких-либо ограничений.">
+<!ENTITY contribute.start "Звучит интересно? ">
+<!ENTITY contribute.getInvolvedLink "Присоединяйтесь!">
+<!ENTITY contribute.end "">
+<!ENTITY bottomLinks.license "Информация о лицензии">
+<!ENTITY bottomLinks.rights "Права конечного пользователя">
+<!ENTITY bottomLinks.privacy "Политика приватности">
+<!ENTITY update.checkingForUpdates "Проверка наличия обновлений…">
+<!ENTITY update.checkingAddonCompat "Проверка совместимости дополнений…">
+<!ENTITY update.noUpdatesFound "Установлена последняя версия &brandShortName;">
+<!ENTITY update.adminDisabled "Обновления отключены вашим системным администратором">
+<!ENTITY update.failed.start "Обновление не удалось. ">
+<!ENTITY update.failed.linkText "Загрузите последнюю версию">
+<!ENTITY update.failed.end "">
+<!ENTITY update.manual.start "Загрузить ">
+<!ENTITY update.manual.linkText "последнюю версию">
+<!ENTITY update.manual.end "">
+<!ENTITY update.downloading.start "Загрузка обновления — ">
+<!ENTITY update.downloading.end "">
+<!ENTITY channel.description.start "Сейчас вы находитесь на канале обновлений ">
+<!ENTITY channel.description.end ".">
+<!ENTITY channel.change "Сменить">
+<!ENTITY channel.release.description "Насладитесь работой в испытанной и оттестированной финальной версии, используемой сотнями миллионов людей по всему миру. Суперскорость, лёгкость в настройке и поддержка новейших веб-технологий позволят вам полностью контролировать свое пребывание в Интернете.">
+<!ENTITY channel.beta.description "Испытайте передовые возможности, более-менее стабильные в работе. Отправляйте нам отзывы, чтобы помочь нам усовершенствовать и отполировать то, что войдёт в финальную версию.">
+<!ENTITY channel.aurora.description "Испытайте новейшие инновации в нестабильной среде. Это не для слабонервных. Отправляйте нам отзывы о функциональности и производительности, чтобы помочь определить, что войдёт в финальную версию.">
+<!ENTITY channel.selector.start "Переключиться на канал обновлений">
+<!ENTITY channel.selector.end ".">
+<!ENTITY channel.selector.applyButton "Применить и Обновить">
+<!ENTITY channel.selector.cancelButton "Отменить">
 <!ENTITY cmdCloseMac.commandKey "w">

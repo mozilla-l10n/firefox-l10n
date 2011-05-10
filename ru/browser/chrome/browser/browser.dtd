@@ -139,6 +139,8 @@
 <!ENTITY addons.label "Дополнения">
 <!ENTITY addons.accesskey "Д">
 <!ENTITY addons.commandkey "A">
+<!ENTITY webDeveloperMenu.label "Веб-разработка">
+<!ENTITY webDeveloperMenu.accesskey "е">
 <!ENTITY errorConsoleCmd.label "Консоль ошибок">
 <!ENTITY errorConsoleCmd.accesskey "К">
 <!ENTITY errorConsoleCmd.commandkey "j">
@@ -148,6 +150,10 @@
 <!ENTITY inspectMenu.label "Инспектор">
 <!ENTITY inspectMenu.accesskey "н">
 <!ENTITY inspectMenu.commandkey "I">
+<!ENTITY scratchpad.label "Scratchpad">
+<!ENTITY scratchpad.accesskey "s">
+<!ENTITY scratchpad.keycode "VK_F4">
+<!ENTITY scratchpad.keytext "F4">
 <!ENTITY inspectPanelTitle.label "HTML">
 <!ENTITY inspectButton.label "Исследовать">
 <!ENTITY inspectButton.accesskey "с">

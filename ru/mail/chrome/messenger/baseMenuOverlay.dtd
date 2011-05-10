@@ -18,6 +18,5 @@
 <!ENTITY openHelpMac.label "Справка &brandShortName;">
 <!ENTITY openHelpMac2.commandkey "?">
 <!ENTITY openHelpMac2.modifiers "accel">
-<!ENTITY updateCmd.label "Проверить наличие обновлений…">
 <!ENTITY aboutMenuCmd.label "О &brandShortName;">
 <!ENTITY aboutMenuCmd.accesskey "О">
