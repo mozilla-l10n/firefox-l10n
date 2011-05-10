@@ -1,0 +1,103 @@
+<!-- LOCALIZATION NOTE : FILE This file contains the Scratchpad window strings -->
+<!-- LOCALIZATION NOTE : FILE Do not translate commandkeys -->
+
+<!-- LOCALIZATION NOTE (scratchpad.title):
+  -  The Scratchpad is intended to provide a simple text editor for creating
+  -  and evaluating bits of JavaScript code for the purposes of function
+  -  prototyping, experimentation and convenient scripting.
+  -
+  -  It's quite possible that you won't have a good analogue for the word
+  -  "Scratchpad" in your locale. You should feel free to find a close
+  -  approximation to it or choose a word (or words) that means
+  -  "simple discardable text editor". -->
+<!ENTITY window.title                 "Kladdblocket">
+
+<!ENTITY fileMenu.label               "Arkiv">
+<!ENTITY fileMenu.accesskey           "A">
+
+<!ENTITY newWindowCmd.label           "Nytt fönster">
+<!ENTITY newWindowCmd.accesskey       "N">
+<!ENTITY newWindowCmd.commandkey      "n">
+
+<!ENTITY openFileCmd.label            "Öppna fil…">
+<!ENTITY openFileCmd.accesskey        "Ö">
+<!ENTITY openFileCmd.commandkey       "o">
+
+<!ENTITY saveFileCmd.label            "Spara">
+<!ENTITY saveFileCmd.accesskey        "S">
+<!ENTITY saveFileCmd.commandkey       "s">
+
+<!ENTITY saveFileAsCmd.label          "Spara som…">
+<!ENTITY saveFileAsCmd.accesskey      "m">
+
+<!ENTITY closeCmd.label               "Stäng">
+<!ENTITY closeCmd.key                 "W">
+<!ENTITY closeCmd.accesskey           "ä">
+
+<!ENTITY editMenu.label               "Redigera">
+<!ENTITY editMenu.accesskey           "R">
+
+<!ENTITY undoCmd.label                "Ångra">
+<!ENTITY undoCmd.key                  "Z">
+<!ENTITY undoCmd.accesskey            "Å">
+
+<!ENTITY redoCmd.label                "Gör om">
+<!ENTITY redoCmd.key                  "Y">
+<!ENTITY redoCmd.accesskey            "G">
+
+<!ENTITY cutCmd.label                 "Klipp ut">
+<!ENTITY cutCmd.key                   "X">
+<!ENTITY cutCmd.accesskey             "K">
+
+<!ENTITY copyCmd.label                "Kopiera">
+<!ENTITY copyCmd.key                  "C">
+<!ENTITY copyCmd.accesskey            "o">
+
+<!ENTITY pasteCmd.label               "Klistra in">
+<!ENTITY pasteCmd.key                 "V">
+<!ENTITY pasteCmd.accesskey           "l">
+
+<!ENTITY selectAllCmd.label           "Markera allt">
+<!ENTITY selectAllCmd.key             "A">
+<!ENTITY selectAllCmd.accesskey       "M">
+
+<!ENTITY execute.label                "Kör">
+<!ENTITY execute.accesskey            "ö">
+<!ENTITY execute.key                  "t">
+
+<!ENTITY inspect.label                "Inspektera">
+<!ENTITY inspect.accesskey            "I">
+<!ENTITY inspect.key                  "i">
+
+<!ENTITY print.label                  "Evaluera">
+<!ENTITY print.accesskey              "E">
+<!ENTITY print.key                    "r">
+
+<!ENTITY contextMenu.label            "Kontext">
+<!ENTITY contextMenu.accesskey        "K">
+
+<!ENTITY contentContext.label         "Innehåll">
+<!ENTITY contentContext.accesskey     "n">
+
+<!ENTITY chromeContext.label          "Krom">
+<!ENTITY chromeContext.accesskey      "K">
+
+<!-- LOCALIZATION NOTE (resetContext.label): This command allows the developer
+  -  to reset/clear the global object of the context where the code executes.
+  -->
+<!ENTITY resetContext.label           "Återställ">
+<!ENTITY resetContext.accesskey       "Å">
+
+<!ENTITY toolsMenu.label              "Verktyg">
+<!ENTITY toolsMenu.accesskey          "V">
+
+<!ENTITY errorConsoleCmd.label        "Felkonsol">
+<!ENTITY errorConsoleCmd.accesskey    "F">
+<!ENTITY errorConsoleCmd.commandkey   "j">
+
+<!ENTITY webConsoleCmd.label          "Webbkonsol">
+<!ENTITY webConsoleCmd.accesskey      "W">
+<!ENTITY webConsoleCmd.commandkey     "k">
+
+<!ENTITY textbox.placeholder          "// Skriv in lite JavaScript, markera det, högerklicka och välj Kör, Inspektera eller Evaluera.">
+
