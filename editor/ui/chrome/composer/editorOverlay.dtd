@@ -45,9 +45,6 @@
 <!-- File menu items -->
 <!ENTITY fileMenu.label "檔案">
 <!ENTITY fileMenu.accesskey "F">
-<!ENTITY newBlankPageCmd.label "編輯新頁面">
-<!ENTITY newBlankPageCmd.accesskey "p" >
-<!ENTITY newMenu.label "開新檔案">
 <!ENTITY openFileCmd.label "開啟檔案…">
 <!ENTITY openFileCmd.accesskey "O">
 <!ENTITY openFileCmd.key "O">
@@ -393,6 +390,7 @@
 <!-- Toolbar-only items -->
 <!ENTITY menuBar.tooltip "選單列">
 <!ENTITY formatToolbar.tooltip "格式化工具列">
+<!ENTITY newToolbarCmd.label "新增">
 <!ENTITY newToolbarCmd.tooltip "建立新編輯視窗">
 <!ENTITY openToolbarCmd.label "開啟">
 <!ENTITY openToolbarCmd.tooltip "開啟本機檔案">
