@@ -39,7 +39,6 @@
 <!ENTITY saveAsFileCmd.key "s">
 <!ENTITY saveAsTemplateCmd.label "Šablona">
 <!ENTITY saveAsTemplateCmd.accesskey "b">
-<!ENTITY getNewMsgCmd.key "t">
 <!ENTITY getNewMsgForCmd.label "Přijmout nové zprávy pro">
 <!ENTITY getNewMsgForCmd.accesskey "r">
 <!ENTITY getAllNewMsgCmdPopupMenu.label "Všechny účty">
@@ -521,7 +520,6 @@ you can use these alternative items. Otherwise, their values should be empty.  -
 <!ENTITY getMsgButton.tooltip "Přijme nové zprávy">
 <!ENTITY getAllNewMsgCmd.label "Přijmout všechny nové zprávy">
 <!ENTITY getAllNewMsgCmd.accesskey "P">
-<!ENTITY getAllNewMsgCmd.key "t">
 <!ENTITY newMsgButton.tooltip "Vytvoří novou zprávu">
 <!ENTITY replyButton.tooltip "Odpoví na zprávu">
 <!ENTITY replyAllButton.tooltip "Odpoví na zprávu odesílateli a všem příjemcům">
