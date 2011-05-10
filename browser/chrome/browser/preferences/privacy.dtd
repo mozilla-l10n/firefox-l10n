@@ -1,3 +1,8 @@
+<!ENTITY tracking.label                 "מעקב">
+
+<!ENTITY doNotTrack.label               "אמור לאתרים כי אין ברצוני שיעקבו אחרי">
+<!ENTITY doNotTrack.accesskey           "א">
+
 <!ENTITY  history.label                 "היסטוריה">
 
 <!ENTITY  locationBar.label             "סרגל המיקום">
@@ -29,7 +34,6 @@
 
 <!ENTITY  showCookies.label             "הצג עוגיות…">
 <!ENTITY  showCookies.accesskey         "צ">
-
 
 <!ENTITY  historyHeader.pre.label          "&brandShortName; ">
 <!ENTITY  historyHeader.pre.accesskey      "F">
