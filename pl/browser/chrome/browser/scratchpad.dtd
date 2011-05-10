@@ -1,0 +1,103 @@
+<!-- LOCALIZATION NOTE : FILE This file contains the Scratchpad window strings -->
+<!-- LOCALIZATION NOTE : FILE Do not translate commandkeys -->
+
+<!-- LOCALIZATION NOTE (scratchpad.title):
+  -  The Scratchpad is intended to provide a simple text editor for creating
+  -  and evaluating bits of JavaScript code for the purposes of function
+  -  prototyping, experimentation and convenient scripting.
+  -
+  -  It's quite possible that you won't have a good analogue for the word
+  -  "Scratchpad" in your locale. You should feel free to find a close
+  -  approximation to it or choose a word (or words) that means
+  -  "simple discardable text editor". -->
+<!ENTITY window.title                 "Brudnopis">
+
+<!ENTITY fileMenu.label               "Plik">
+<!ENTITY fileMenu.accesskey           "P">
+
+<!ENTITY newWindowCmd.label           "Nowe okno">
+<!ENTITY newWindowCmd.accesskey       "N">
+<!ENTITY newWindowCmd.commandkey      "n">
+
+<!ENTITY openFileCmd.label            "Otwórz plik…">
+<!ENTITY openFileCmd.accesskey        "O">
+<!ENTITY openFileCmd.commandkey       "o">
+
+<!ENTITY saveFileCmd.label            "Zapisz">
+<!ENTITY saveFileCmd.accesskey        "Z">
+<!ENTITY saveFileCmd.commandkey       "s">
+
+<!ENTITY saveFileAsCmd.label          "Zapisz jako…">
+<!ENTITY saveFileAsCmd.accesskey      "a">
+
+<!ENTITY closeCmd.label               "Zamknij">
+<!ENTITY closeCmd.key                 "k">
+<!ENTITY closeCmd.accesskey           "C">
+
+<!ENTITY editMenu.label               "Edycja">
+<!ENTITY editMenu.accesskey           "E">
+
+<!ENTITY undoCmd.label                "Cofnij">
+<!ENTITY undoCmd.key                  "Z">
+<!ENTITY undoCmd.accesskey            "C">
+
+<!ENTITY redoCmd.label                "Przywróć">
+<!ENTITY redoCmd.key                  "Y">
+<!ENTITY redoCmd.accesskey            "P">
+
+<!ENTITY cutCmd.label                 "Wytnij">
+<!ENTITY cutCmd.key                   "X">
+<!ENTITY cutCmd.accesskey             "W">
+
+<!ENTITY copyCmd.label                "Kopiuj">
+<!ENTITY copyCmd.key                  "C">
+<!ENTITY copyCmd.accesskey            "K">
+
+<!ENTITY pasteCmd.label               "Wklej">
+<!ENTITY pasteCmd.key                 "V">
+<!ENTITY pasteCmd.accesskey           "e">
+
+<!ENTITY selectAllCmd.label           "Zaznacz wszystko">
+<!ENTITY selectAllCmd.key             "A">
+<!ENTITY selectAllCmd.accesskey       "Z">
+
+<!ENTITY execute.label                "Wykonaj">
+<!ENTITY execute.accesskey            "o">
+<!ENTITY execute.key                  "t">
+
+<!ENTITY inspect.label                "Zbadaj">
+<!ENTITY inspect.accesskey            "b">
+<!ENTITY inspect.key                  "i">
+
+<!ENTITY print.label                  "Drukuj">
+<!ENTITY print.accesskey              "D">
+<!ENTITY print.key                    "r">
+
+<!ENTITY contextMenu.label            "Kontekst">
+<!ENTITY contextMenu.accesskey        "K">
+
+<!ENTITY contentContext.label         "Treść">
+<!ENTITY contentContext.accesskey     "T">
+
+<!ENTITY chromeContext.label          "Chrome">
+<!ENTITY chromeContext.accesskey      "H">
+
+<!-- LOCALIZATION NOTE (resetContext.label): This command allows the developer
+  -  to reset/clear the global object of the context where the code executes.
+  -->
+<!ENTITY resetContext.label           "Reset">
+<!ENTITY resetContext.accesskey       "R">
+
+<!ENTITY toolsMenu.label              "Narzędzia">
+<!ENTITY toolsMenu.accesskey          "T">
+
+<!ENTITY errorConsoleCmd.label        "Konsola błędów">
+<!ENTITY errorConsoleCmd.accesskey    "K">
+<!ENTITY errorConsoleCmd.commandkey   "j">
+
+<!ENTITY webConsoleCmd.label          "Konsola WWW">
+<!ENTITY webConsoleCmd.accesskey      "o">
+<!ENTITY webConsoleCmd.commandkey     "k">
+
+<!ENTITY textbox.placeholder          "// Wprowadź kod JavaScript, zaznacz go, kliknij prawym przyciskiem i wybierz Wykonaj, Zbadaj lub Drukuj.">
+
