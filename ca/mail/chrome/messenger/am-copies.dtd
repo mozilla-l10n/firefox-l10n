@@ -21,22 +21,27 @@
 <!ENTITY sentFolderOn.accesskey "e">
 <!ENTITY sentInOtherFolder.label "Altres:">
 <!ENTITY sentInOtherFolder.accesskey "A">
+<!-- LOCALIZATION NOTE (archivesFolderOn.label): OK to translate this, bug #57440 -->
+<!ENTITY archivesTitle.label "Arxiu de missatges">
+<!ENTITY keepArchives.label "Conserva l'arxiu de missatges a:">
+<!ENTITY keepArchives.accesskey "C">
+<!ENTITY archiveHierarchyButton.label "Opcions de l'arxiu…">
+<!ENTITY archiveHierarchyButton.accesskey "O">
+<!ENTITY archivesFolderOn.label "Carpeta &quot;Arxiu&quot; a:">
+<!ENTITY archivesFolderOn.accesskey "a">
+<!ENTITY archiveInOtherFolder.label "Altres:">
+<!ENTITY archiveInOtherFolder.accesskey "r">
+<!ENTITY specialFolders.label "Esborranys i plantilles">
+<!ENTITY keepDrafts.label "Conserva els esborranys a:">
 <!-- LOCALIZATION NOTE (draftsFolderOn.label): OK to translate this, bug #57440 -->
 <!ENTITY draftsFolderOn.label "Carpeta &quot;Esborranys&quot;:">
 <!ENTITY draftsFolderOn.accesskey "b">
 <!ENTITY draftInOtherFolder.label "Altres:">
 <!ENTITY draftInOtherFolder.accesskey "t">
-<!-- LOCALIZATION NOTE (archivesFolderOn.label): OK to translate this, bug #57440 -->
-<!ENTITY archivesFolderOn.label "Carpeta &quot;Arxius&quot;:">
-<!ENTITY archivesFolderOn.accesskey "A">
-<!ENTITY archiveInOtherFolder.label "Altres:">
-<!ENTITY archiveInOtherFolder.accesskey "r">
+<!ENTITY keepTemplates.label "Conserva les plantilles a:">
 <!-- LOCALIZATION NOTE (templatesFolderOn.label): OK to translate this, bug #57440 -->
 <!ENTITY templatesFolderOn.label "Carpeta &quot;Plantilles&quot;:">
 <!ENTITY templatesFolderOn.accesskey "P">
 <!ENTITY templateInOtherFolder.label "Altres:">
 <!ENTITY templateInOtherFolder.accesskey "r">
-<!ENTITY specialFoldersTitle.label "Esborranys i plantilles">
-<!ENTITY keepDrafts.label "Conserva els esborranys a:">
-<!ENTITY keepArchives.label "Conserva els arxius a:">
-<!ENTITY keepTempltes.label "Conserva les plantilles a:">
+

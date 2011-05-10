@@ -7,6 +7,7 @@
 <!ENTITY aboutSupport.accountsName "Nom">
 <!ENTITY aboutSupport.accountsIncomingServer "Servidor de recepció">
 <!ENTITY aboutSupport.accountsOutgoingServers "Servidors d'enviament">
+<!ENTITY aboutSupport.accountsServerName "Nom">
 <!ENTITY aboutSupport.accountsConnSecurity "Seguretat de la connexió">
 <!ENTITY aboutSupport.accountsAuthMethod "Mètode d'autenticació">
 <!ENTITY aboutSupport.accountsDefault "Per defecte?">

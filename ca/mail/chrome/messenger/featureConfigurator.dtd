@@ -30,7 +30,7 @@
 <!ENTITY featureConfigurator.addOn.installed "S'ha instaŀlat">
 
 <!-- LOCALIZATION NOTE (featureConfigurator.addOn.failure): The text to display when there is a problem installing the addon. -->
-<!ENTITY featureConfigurator.addOn.failure "S'ha produït un problema quan s'esta instaŀlant aquesta extensió.">
+<!ENTITY featureConfigurator.addOn.failure "S'ha produït un problema mentre s'instaŀlava aquesta extensió.">
 
 <!-- LOCALIZATION NOTE (featureConfigurator.addOn.alreadyInstalled): The label to display when the addon is already installed. -->
 <!ENTITY featureConfigurator.addOn.alreadyInstalled "Aquesta extensió ja està instaŀlada.">
