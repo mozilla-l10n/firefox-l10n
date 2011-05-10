@@ -114,7 +114,7 @@ can reach it easily. -->
 <!ENTITY subscribeToPageMenuitem.label "Subskrybuj tę stronę…">
 <!ENTITY addCurPagesCmd.label "Dodaj zakładki do wszystkich kart…">
 <!ENTITY showAllBookmarks2.label "Wyświetl wszystkie zakładki">
-<!ENTITY bookmarkAllCmd.label "Dodaj zakładki do wszystkich kart…">
+<!ENTITY unsortedBookmarksCmd.label "Zakładki nieposortowane">
 <!ENTITY bookmarksToolbarChevron.tooltip "Wyświetl więcej zakładek">
 
 <!ENTITY backCmd.label "Wstecz" >
