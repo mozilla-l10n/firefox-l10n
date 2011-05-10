@@ -39,7 +39,6 @@
 <!ENTITY saveAsFileCmd.key "s">
 <!ENTITY saveAsTemplateCmd.label "Theamplaid">
 <!ENTITY saveAsTemplateCmd.accesskey "T">
-<!ENTITY getNewMsgCmd.key "t">
 <!ENTITY getNewMsgForCmd.label "Faigh teachdaireachdan ùra">
 <!ENTITY getNewMsgForCmd.accesskey "F">
 <!ENTITY getAllNewMsgCmdPopupMenu.label "De gach cunntais">
@@ -521,7 +520,6 @@ you can use these alternative items. Otherwise, their values should be empty.  -
 <!ENTITY getMsgButton.tooltip "Faigh teachdaireachdan ùra">
 <!ENTITY getAllNewMsgCmd.label "Faigh a h-uile teachdaireachd ùr">
 <!ENTITY getAllNewMsgCmd.accesskey "g">
-<!ENTITY getAllNewMsgCmd.key "t">
 <!ENTITY newMsgButton.tooltip "Cruthaich teachdaireachd ùr">
 <!ENTITY replyButton.tooltip "Freagair an teachdaireachd">
 <!ENTITY replyAllButton.tooltip "Freagair an seòladair 's a h-uile faightear">
