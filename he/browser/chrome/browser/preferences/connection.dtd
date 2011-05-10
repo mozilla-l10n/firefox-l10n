@@ -27,12 +27,12 @@
 <!ENTITY  socks4.label                  "SOCKS v4">
 <!ENTITY  socks4.accesskey              "K">
 <!ENTITY  socks5.label                  "SOCKS v5">
-<!ENTITY  socks5.accesskey              "v">
+<!ENTITY  socks5.accesskey              "5">
 <!ENTITY  port.label                    "שער:">
 <!ENTITY  HTTPport.accesskey            "ש">
 <!ENTITY  SSLport.accesskey             "ע">
 <!ENTITY  FTPport.accesskey             "ר">
-<!ENTITY  SOCKSport.accesskey           "t">
+<!ENTITY  SOCKSport.accesskey           "ש">
 <!ENTITY  noproxy.label                 "אין צורך בשרת מתווך עבור:">
 <!ENTITY  noproxy.accesskey             "ב">
 <!ENTITY  noproxyExplain.label          "דוגמה: mozilla.org.,‏ net.nz, 192.168.1.0/24">

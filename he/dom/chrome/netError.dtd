@@ -86,8 +86,12 @@
 <!ENTITY cspFrameAncestorBlocked.title "נחסם בהתאם למדיניות האבטחה של התוכן">
 <!ENTITY cspFrameAncestorBlocked.longDesc "<p>הדפדפן מונע מדף זה להיטען בדרך זו מאחר שמדיניות אבטחת התוכן מונעת זאת.</p>">
 
+<!ENTITY remoteXUL.title "XUL מרוחק">
+<!ENTITY remoteXUL.longDesc "<p><ul><li>רצוי לפנות אל בעלי האתר וליידע אותם על הבעיה.</li></ul></p>">
+
 <!-- Include app-specific error messages - do not change this in localization!
      Some applications might override netErrorApp.dtd with their specific version,
-     this inclusion needs to be intact for that approach to work correctly. -->
+     this inclusion needs to be intact for that approach to work correctly.
+     Please, try to keep this at the end of the file. -->
 <!ENTITY % netErrorAppDTD SYSTEM "chrome://global/locale/netErrorApp.dtd">
 %netErrorAppDTD;
