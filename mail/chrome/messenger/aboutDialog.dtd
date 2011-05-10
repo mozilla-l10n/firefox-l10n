@@ -1,17 +1,83 @@
 <!ENTITY aboutDialog.title "O aplikaci &brandFullName;">
-<!ENTITY aboutButton.label "&lt; Zpět">
-<!ENTITY aboutButton.accesskey "Z">
-<!ENTITY aboutVersion "verze">
 
-<!ENTITY aboutMenu.label "O aplikaci">
-<!ENTITY aboutMenu.accesskey "O">
-<!ENTITY aboutCredits.label "Autoři">
-<!ENTITY aboutCredits.accesskey "A">
-<!ENTITY aboutRights.label "Vaše práva">
-<!ENTITY aboutRights.accesskey "V">
-<!ENTITY aboutContributors.label "Přispěvatelé">
-<!ENTITY aboutContributors.accesskey "P">
-<!ENTITY aboutLicense.label "Licence">
-<!ENTITY aboutLicense.accesskey "L">
+<!ENTITY community.start2 "Aplikace &brandShortName; byla vytvořena organizací ">
+<!-- LOCALIZATION NOTE (community.mozillaLink): This is a link title that links to http://www.mozilla.org/. -->
+<!ENTITY community.mozillaLink "&vendorShortName;">
+<!ENTITY community.middle2 " a ">
+<!-- LOCALIZATION NOTE (community.creditsLink): This is a link title that links to about:credits. -->
+<!ENTITY community.creditsLink "globalní komunitou">
+<!ENTITY community.end2 ", která se společně snaží zlepšit Internet. Věříme, že by Internet měl být veřejně dostupný, otevřený a přístupný pro všechny bez jakýchkoliv omezení.">
+
+<!ENTITY contribute.start "Zní to zajímavě? ">
+<!-- LOCALIZATION NOTE (contribute.getInvolvedLink): This is a link title that links to http://www.mozilla.org/contribute/. -->
+<!ENTITY contribute.getInvolvedLink "Zapojte se!">
+<!ENTITY contribute.end "">
+
+<!-- LOCALIZATION NOTE (bottomLinks.license): This is a link title that links to about:license. -->
+<!ENTITY bottomLinks.license "Licenční informace">
+
+<!-- LOCALIZATION NOTE (bottomLinks.rights): This is a link title that links to about:rights. -->
+<!ENTITY bottomLinks.rights "O vašich právech">
+
+<!-- LOCALIZATION NOTE (bottomLinks.privacy): This is a link title that links to http://www.mozilla.com/legal/privacy/. -->
+<!ENTITY bottomLinks.privacy "Ochrana soukromí">
+
+<!-- LOCALIZATION NOTE (update.checkingForUpdates): try to make the localized text short (see bug 596813 for screenshots). -->
+<!ENTITY update.checkingForUpdates "Kontrola aktualizací…">
+<!-- LOCALIZATION NOTE (update.checkingAddonCompat): try to make the localized text short (see bug 596813 for screenshots). -->
+<!ENTITY update.checkingAddonCompat "Kontrola kompatibility doplňků…">
+<!-- LOCALIZATION NOTE (update.noUpdatesFound): try to make the localized text short (see bug 596813 for screenshots). -->
+<!ENTITY update.noUpdatesFound "&brandShortName; je aktuální">
+<!-- LOCALIZATION NOTE (update.adminDisabled): try to make the localized text short (see bug 596813 for screenshots). -->
+<!ENTITY update.adminDisabled "Aktualizace jsou zakázány správcem">
+
+<!-- LOCALIZATION NOTE (update.failed.start,update.failed.linkText,update.failed.end):
+     update.failed.start, update.failed.linkText, and update.failed.end all go into
+     one line with linkText being wrapped in an anchor that links to a site to download
+     the latest version of Firefox (e.g. http://www.firefox.com). As this is all in
+     one line, try to make the localized text short (see bug 596813 for screenshots). -->
+<!ENTITY update.failed.start "Aktualizace selhala. ">
+<!ENTITY update.failed.linkText "Stáhnout nejnovější verzi">
+<!ENTITY update.failed.end "">
+
+<!-- LOCALIZATION NOTE (update.manual.start,update.manual.end): update.manual.start and update.manual.end
+     all go into one line and have an anchor in between with text that is the same as the link to a site
+     to download the latest version of Firefox (e.g. http://www.firefox.com). As this is all in one line,
+     try to make the localized text short (see bug 596813 for screenshots). -->
+<!ENTITY update.manual.start "Stáhnout ">
+<!ENTITY update.manual.linkText "nejnovější verzi">
+<!ENTITY update.manual.end "">
+
+<!-- LOCALIZATION NOTE (update.downloading.start,update.downloading.end): update.downloading.start and 
+     update.downloading.end all go into one line, with the amount downloaded inserted in between. As this
+     is all in one line, try to make the localized text short (see bug 596813 for screenshots). The — is
+     the "em dash" (long dash).
+     example: Downloading update — 111 KB of 13 MB -->
+<!ENTITY update.downloading.start "Stahování aktualizace — ">
+<!ENTITY update.downloading.end "">
+
+<!-- LOCALIZATION NOTE (channel.description.start,channel.description.end): channel.description.start and
+     channel.description.end create one sentence, with the current channel label inserted in between.
+     example: You are currently on the _Stable_ update channel. -->
+<!ENTITY channel.description.start "Nyní používáte aktualizační kanál ">
+<!ENTITY channel.description.end " .">
+
+<!ENTITY channel.change "Změnit">
+
+<!ENTITY channel.release.description "Užívejte si osvědčené finální verze používané stovkami miliónů uživatelů po celém světě. Mějte pod kontrolou své zážitky za pomoci super rychlosti, jednoduché přizpůsobivosti a nejnovějších webových technologií.">
+<!ENTITY channel.beta.description "Vyzkoušejte si nové vlastnosti s větší dávkou stability. Zasílejte zpětnou vazbu a pomáhejte zpřesnit a doladit finální verze.">
+<!ENTITY channel.aurora.description "Vyzkoušejte všechny novinky v nestabilním prostředí, které není pro lidi se slabým srdcem. Zasílejte zpětnou vazbu ohledně výkonosti a pomáhejte určit, které z nových vlastností se dostanou do finální verze.">
+
+<!-- LOCALIZATION NOTE (channel.selector.start,channel.selector.end): channel.selector.start and
+     channel.selector.end create one sentence, with a channel selection menulist instered in between.
+     This is all in one line, so try to make the localized text short.
+     example: Switch to the [Stable] update channel. -->
+<!ENTITY channel.selector.start "Přepnout na aktualizační kanál ">
+<!ENTITY channel.selector.end ".">
+
+<!-- LOCALIZATION NOTE (channel.selector.applyButton): This button applies the user's choice to switch
+     to a new update channel and starts the application update process. -->
+<!ENTITY channel.selector.applyButton "Přepnout a aktualizovat">
+<!ENTITY channel.selector.cancelButton "Zrušit">
 
 <!ENTITY cmdCloseMac.commandKey "w">
