@@ -30,6 +30,9 @@
 <!ENTITY update.downloading.start      "Pobieranie aktualizacji — ">
 <!ENTITY update.downloading.end        "">
 
+<!ENTITY channel.description.start     "Obecnie korzystasz z kanału aktualizacji ">
+<!ENTITY channel.description.end       ". ">
+
 <!ENTITY channel.change                "Zmień">
 
 <!ENTITY channel.release.description   "Korzystaj ze sprawdzonych i przetestowanych wydań finalnych, używanych przez miliony użytkowników na całym świecie. Dzięki niesamowitej szybkości, łatwemu dostosowaniu do Twoich potrzeb i najnowszym technologiom WWW masz swój Internet pod kontrolą.">
