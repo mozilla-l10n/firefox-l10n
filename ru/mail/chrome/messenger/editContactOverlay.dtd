@@ -10,3 +10,4 @@
 <!ENTITY editContactPanelCancel.accesskey "е">
 <!ENTITY editContactPanelDone.label "Готово">
 <!ENTITY editContactPanelDone.accesskey "т">
+<!ENTITY contactMoveDisabledWarning.description "Вы не можете изменить адресную книгу, так как контакт находится в списке рассылки.">
