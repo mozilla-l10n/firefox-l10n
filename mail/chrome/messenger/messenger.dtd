@@ -39,7 +39,6 @@
 <!ENTITY saveAsFileCmd.key "S">
 <!ENTITY saveAsTemplateCmd.label "Modelo">
 <!ENTITY saveAsTemplateCmd.accesskey "M">
-<!ENTITY getNewMsgCmd.key "l">
 <!ENTITY getNewMsgForCmd.label "Obter novas mensagens para">
 <!ENTITY getNewMsgForCmd.accesskey "n">
 <!ENTITY getAllNewMsgCmdPopupMenu.label "Todas as contas">
@@ -521,7 +520,6 @@ you can use these alternative items. Otherwise, their values should be empty.  -
 <!ENTITY getMsgButton.tooltip "Obter novas mensagens">
 <!ENTITY getAllNewMsgCmd.label "Obter todas as novas mensagens">
 <!ENTITY getAllNewMsgCmd.accesskey "G">
-<!ENTITY getAllNewMsgCmd.key "t">
 <!ENTITY newMsgButton.tooltip "Criar nova mensagem">
 <!ENTITY replyButton.tooltip "Responder à mensagem">
 <!ENTITY replyAllButton.tooltip "Responder ao remetente e a todos os receptores">
@@ -758,12 +756,14 @@ you can use these alternative items. Otherwise, their values should be empty.  -
 <!-- Phishing Bar -->
 <!ENTITY phishingBarMessage2.label "Esta mensagem pode ser um engodo.">
 <!ENTITY removePhishingBarButton1.label "Ignorar aviso">
+<!ENTITY disablePhishingWarning1.label "Desactivar detecção de svam em todas as mensagens">
 <!ENTITY reportPhishingError1.label "Esta mensagem não parece ser engodo.">
 
 <!-- MDN Bar -->
-<!ENTITY mdnBarMessage.label "O remetente desta mensagem pediu para ser notificado quando lê-se a mensagem. Deseja notificar o remetente?">
-<!ENTITY mdnBarIgnoreButton.label "Ignorar pedido">
-<!ENTITY mdnBarSendButton.label "Enviar recibo">
+<!ENTITY mdnBarIgnoreButton2.label "Ignorar">
+<!ENTITY mdnBarIgnoreButton2.accesskey "I">
+<<!ENTITY mdnBarSendButton2.label "Enviar recibo de leitura">
+<!ENTITY mdnBarSendButton2.accesskey "S">
 
 <!-- Quick Search Bar -->
 <!-- LOCALIZATION NOTE (quickSearchCmd.key):
