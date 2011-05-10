@@ -45,9 +45,6 @@
 <!-- File menu items -->
 <!ENTITY fileMenu.label "Soubor">
 <!ENTITY fileMenu.accesskey "S">
-<!ENTITY newBlankPageCmd.label "Prázdná stránka">
-<!ENTITY newBlankPageCmd.accesskey "P">
-<!ENTITY newMenu.label "Nový">
 <!ENTITY openFileCmd.label "Otevřít soubor…">
 <!ENTITY openFileCmd.accesskey "O">
 <!ENTITY openFileCmd.key "O">
@@ -393,6 +390,7 @@
 <!-- Toolbar-only items -->
 <!ENTITY menuBar.tooltip "Nabídka">
 <!ENTITY formatToolbar.tooltip "Lišta úprav">
+<!ENTITY newToolbarCmd.label "Nová">
 <!ENTITY newToolbarCmd.tooltip "Vytvoří novou stránku">
 <!ENTITY openToolbarCmd.label "Otevřít">
 <!ENTITY openToolbarCmd.tooltip "Otevře uložený soubor">
