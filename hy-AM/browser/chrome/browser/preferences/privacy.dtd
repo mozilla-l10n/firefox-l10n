@@ -39,8 +39,8 @@
 ******* END LICENSE BLOCK ********** -->
 <!ENTITY tracking.label                 "Tracking">
 
-<!ENTITY doNotTrack.label               "Tell web sites I do not want to be tracked">
-<!ENTITY doNotTrack.accesskey           "d">
+<!ENTITY doNotTrack.label               "Տեղեկացրեք վեբ կայքերին,ես չեմ ցանկանում, որ ինձ հետևեն">
+<!ENTITY doNotTrack.accesskey           "Տ">
 
 <!ENTITY  history.label                 "Պատմություն">
 
