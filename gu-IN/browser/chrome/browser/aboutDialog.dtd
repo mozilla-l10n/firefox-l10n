@@ -21,3 +21,11 @@
 <!ENTITY update.manual.start        "સુધારાઓ આની પર ઉપલબ્ધ છે ">
 <!ENTITY update.manual.end          "">
 <!ENTITY update.noUpdatesFound      "&brandShortName; નવીનકૃત છે">
+<!ENTITY channel.change             "બદલો">
+<!ENTITY channel.description.start  "તમે હમણાં ચેનલ સુધારા  ">
+<!ENTITY channel.description.end    " પર છો. ">
+<!ENTITY channel.selector.applyButton    "લાગુ કરો અને સુધારો">
+<!ENTITY channel.selector.cancelButton   "રદ કરો">
+<!ENTITY channel.selector.start          "ચેનલ સુધારો કરવા માટે ">
+<!ENTITY channel.selector.end            "બદલો.">
+
