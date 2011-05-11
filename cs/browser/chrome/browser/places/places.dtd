@@ -6,12 +6,9 @@
 <!ENTITY organize.accesskey "S">
 <!ENTITY organize.tooltip "Umožní správu záložek">
 
-<!ENTITY file.accesskey "S">
 <!ENTITY file.close.label "Zavřít">
 <!ENTITY file.close.accesskey "v">
 <!ENTITY cmd.close.key "w">
-<!ENTITY edit.label "Úpravy">
-<!ENTITY edit.accesskey "a">
 <!ENTITY views.label "Rozložení">
 <!ENTITY views.accesskey "R">
 <!ENTITY views.tooltip "Změní rozložení">
@@ -111,17 +108,14 @@
 <!ENTITY maintenance.accesskey "I">
 <!ENTITY maintenance.tooltip "Importuje a zálohuje záložky">
 
-<!ENTITY backCmd.label "Zpět">
 <!ENTITY backButton.tooltip "Přejde zpět">
 
-<!ENTITY forwardCmd.label "Vpřed">
 <!ENTITY forwardButton.tooltip "Přejde vpřed">
 
 <!ENTITY detailsPane.more.label "Více">
 <!ENTITY detailsPane.more.accesskey "V">
 <!ENTITY detailsPane.less.label "Méně">
 <!ENTITY detailsPane.less.accesskey "M">
-<!ENTITY detailsPane.noPreviewAvailable.label "Náhled">
 <!ENTITY detailsPane.selectAnItemText.description "Pro zobrazení a úpravu vlastností vyberte některou z položek">
 
 <!ENTITY find.label "Hledat:">
