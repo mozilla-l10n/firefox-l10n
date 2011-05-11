@@ -94,6 +94,7 @@
 <!ENTITY contextSaveLink.label        "ਲਿੰਕ ਸੰਭਾਲੋ">
 <!ENTITY contextSaveImage.label       "ਚਿੱਤਰ ਸੰਭਾਲੋ">
 <!ENTITY contextShareLink.label       "ਲਿੰਕ ਸਾਂਝਾ ਕਰੋ">
+<!ENTITY contextBookmarkLink.label    "ਲਿੰਕ ਬੁੱਕਮਾਰਕ ਕਰੋ">
 <!ENTITY contextShareImage.label      "ਚਿੱਤਰ ਸਾਂਝਾ ਕਰੋ">
 <!ENTITY contextSaveVideo.label       "ਵਿਡੀਓ ਸੰਭਾਲੋ">
 <!ENTITY contextShareVideo.label      "ਵਿਡੀਓ ਸਾਂਝੀ ਕਰੋ">
