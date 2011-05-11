@@ -81,3 +81,6 @@
 <!ENTITY  privateBrowsingPermanent.label "કાયમી ખાનગી બ્રાઉઝીંગ સ્થિતિ">
 <!ENTITY  rememberHistory.accesskey  "b">
 <!ENTITY  rememberHistory.label      "મારા બ્રાઉઝીંગ ઇતિહાસને યાદ રાખો">
+<!ENTITY doNotTrack.accesskey           "d">
+<!ENTITY doNotTrack.label               "વેબસાઇટ ને કહો કે હું ટ્રેક કરવા માંગતો નથી">
+<!ENTITY tracking.label                 "ટ્રેક કરી રહ્યા છે">
