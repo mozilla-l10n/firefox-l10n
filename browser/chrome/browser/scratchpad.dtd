@@ -31,7 +31,7 @@
 <!ENTITY copyCmd.accesskey "C">
 <!ENTITY pasteCmd.label "Incolla">
 <!ENTITY pasteCmd.key "V">
-<!ENTITY pasteCmd.accesskey "n">
+<!ENTITY pasteCmd.accesskey "I">
 <!ENTITY selectAllCmd.label "Seleziona tutto">
 <!ENTITY selectAllCmd.key "A">
 <!ENTITY selectAllCmd.accesskey "u">
@@ -39,7 +39,7 @@
 <!ENTITY execute.accesskey "E">
 <!ENTITY execute.key "t">
 <!ENTITY inspect.label "Ispeziona">
-<!ENTITY inspect.accesskey "I">
+<!ENTITY inspect.accesskey "z">
 <!ENTITY inspect.key "i">
 <!ENTITY print.label "Stampa">
 <!ENTITY print.accesskey "S">
@@ -60,4 +60,4 @@
 <!ENTITY webConsoleCmd.label "Console web">
 <!ENTITY webConsoleCmd.accesskey "w">
 <!ENTITY webConsoleCmd.commandkey "k">
-<!ENTITY textbox.placeholder "// Inserire del codice JavaScript, selezionarlo, fare clic con il tasto destro e seleziona Esegui, Ispeziona o Stampa.">
+<!ENTITY textbox.placeholder "// Inserire del codice JavaScript, selezionarlo, fare clic con il tasto destro e selezionare Esegui, Ispeziona o Stampa.">
