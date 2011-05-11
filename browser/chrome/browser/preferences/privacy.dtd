@@ -1,3 +1,8 @@
+<!ENTITY tracking.label                 "Jarraipena">
+
+<!ENTITY doNotTrack.label               "Esan webguneei nire jarraipenik ez egiteko">
+<!ENTITY doNotTrack.accesskey           "r">
+
 <!ENTITY  history.label                 "Historia">
 
 <!ENTITY  locationBar.label             "Helbide-barra">
@@ -29,7 +34,6 @@
 
 <!ENTITY  showCookies.label             "Erakutsi cookie-ak…">
 <!ENTITY  showCookies.accesskey         "E">
-
 
 <!ENTITY  historyHeader.pre.label          "&brandShortName;(e)k:">
 <!ENTITY  historyHeader.pre.accesskey      "k">
