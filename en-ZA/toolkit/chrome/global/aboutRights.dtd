@@ -53,7 +53,7 @@
 <!ENTITY rights2.webservices-c ".">
 <!-- safe browsing points for branded builds -->
 
-<!ENTITY rights.safebrowsing-a "SafeBrowsing: ">
+<!ENTITY rights.safebrowsing-a "Safe Browsing: ">
 <!ENTITY rights.safebrowsing-b "Disabling the Safe Browsing feature is not recommended as it may result in you going to unsafe sites.  If you wish to disable the feature completely, follow these steps:">
 <!ENTITY rights.safebrowsing-term1 "Open the application preferences">
 <!ENTITY rights.safebrowsing-term2 "Select the Security selection">

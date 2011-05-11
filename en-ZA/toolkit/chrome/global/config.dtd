@@ -54,8 +54,8 @@
 <!ENTITY valueColumn.label "Value">
 <!-- Tooltips -->
 
-<!ENTITY prefColumnHeader.tooltip "Click to sort">
-<!ENTITY columnChooser.tooltip "Click to select columns to display">
+<!ENTITY prefColumnHeader.tooltip "Click to sort"> 
+<!ENTITY columnChooser.tooltip "Click to select columns to display"> 
 <!-- Context Menu -->
 
 <!ENTITY copyPref.key "C">

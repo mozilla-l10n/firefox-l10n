@@ -50,11 +50,9 @@ that &brandShortName; is permitted to access the Web.</li>
      since it could be in either the normal menu (Mac/Linux) or the Firefox button
      menu (Windows).
 -->
-<!ENTITY netOffline.overrideLongDesc "
-<ul>
-  <li>Uncheck the &quot;Work Offline&quot; menu item, then try again.</li>
-</ul>
-">
+<!ENTITY netOffline.overrideLongDesc "<ul> 
+<li>Uncheck the &quot;Work Offline&quot; menu item, then try again.</li> 
+</ul>">
 
 <!ENTITY contentEncodingError.title "Content Encoding Error">
 <!ENTITY contentEncodingError.longDesc "<ul> 
@@ -148,9 +146,10 @@ button is included here (instead of netError.xhtml) because it exposes
 functionality specific to firefox. -->
 
 
-<!ENTITY securityOverride.warningContent "
-<p>You should not add an exception if you are using an internet connection that you do not trust completely or if you are not used to seeing a warning for this server.</p>
+<!ENTITY securityOverride.warningContent "<p>You should not add an exception if you are using an internet connection that you do not trust completely or if you are not used to seeing a warning for this server.</p> 
+ 
+<button id='getMeOutOfHereButton'>&securityOverride.getMeOutOfHereButton;</button> 
+<button id='exceptionDialogButton'>&securityOverride.exceptionButtonLabel;</button>">
 
-<button id='getMeOutOfHereButton'>&securityOverride.getMeOutOfHereButton;</button>
-<button id='exceptionDialogButton'>&securityOverride.exceptionButtonLabel;</button>
-">
+<!ENTITY remoteXUL.title "Remote XUL">
+<!ENTITY remoteXUL.longDesc "<p><ul><li>Please contact the website owners to inform them of this problem.</li></ul></p>">
