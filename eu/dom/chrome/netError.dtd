@@ -71,9 +71,13 @@
 
 <!ENTITY cspFrameAncestorBlocked.title "Edukien segurtasun-politikak blokeatuta">
 <!ENTITY cspFrameAncestorBlocked.longDesc "<p>Nabigatzaileak orri hau modu honetan kargatzea eragotzi du onartzen ez den edukien-segurtasun politika duelako.</p>">
+
+<!ENTITY remoteXUL.title "Urruneko XUL">
+<!ENTITY remoteXUL.longDesc "<p><ul><li>Jarri harremanetan webgunearen jabeekin arazo honen berri emateko.</li></ul></p>">
 <!-- Include app-specific error messages - do not change this in localization!
      Some applications might override netErrorApp.dtd with their specific version,
-     this inclusion needs to be intact for that approach to work correctly. -->
+     this inclusion needs to be intact for that approach to work correctly.
+     Please, try to keep this at the end of the file. -->
 
 <!ENTITY % netErrorAppDTD SYSTEM "chrome://global/locale/netErrorApp.dtd">
 %netErrorAppDTD;

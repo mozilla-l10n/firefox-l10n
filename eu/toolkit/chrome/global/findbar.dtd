@@ -12,5 +12,5 @@
 <!ENTITY highlight.label "Nabarmendu">
 <!ENTITY highlight.accesskey "N">
 <!ENTITY highlight.tooltiptext "Nabarmendu esaldiaren parekatze guztiak">
-<!ENTITY caseSensitiveCheckbox.label "Bereizi maiuskula/minuskulak">
-<!ENTITY caseSensitiveCheckbox.accesskey "m">
+<!ENTITY caseSensitiveCheckbox.label "Bereizi maiuskulak/minuskulak">
+<!ENTITY caseSensitiveCheckbox.accesskey "B">

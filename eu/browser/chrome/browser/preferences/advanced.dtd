@@ -21,8 +21,6 @@
 <!ENTITY allowHWAccel.accesskey          "h">
 <!ENTITY checkSpelling.label             "Egiaztatu ortografia idatzi ahala">
 <!ENTITY checkSpelling.accesskey         "z">
-<!ENTITY doNotTrack.label                "Esan webguneei nire jarraipenik ez egiteko">
-<!ENTITY doNotTrack.accesskey            "s">
 
 <!ENTITY systemDefaults.label            "Sistemaren lehenespenak">
 <!--XXX-->
