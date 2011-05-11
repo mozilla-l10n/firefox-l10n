@@ -95,6 +95,7 @@
 <!ENTITY contextSaveImage.label       "احفظ الصورة">
 <!ENTITY contextShareLink.label       "تشارك الوصلة">
 <!ENTITY contextShareImage.label      "تشارك الصورة">
+<!ENTITY contextBookmarkLink.label    "علّم الوصلة">
 <!ENTITY contextSaveVideo.label       "احفظ الفيديو">
 <!ENTITY contextShareVideo.label      "تشارك الفيديو">
 <!ENTITY contextPlayMedia.label       "شغّل">

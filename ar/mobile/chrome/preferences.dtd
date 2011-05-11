@@ -8,6 +8,7 @@
 <!ENTITY enablePlugins.title                       "فعّل الملحقات">
 <!ENTITY privacy.title                             "الخصوصية والسرية">
 <!ENTITY allowCookies.title                        "اسمح بالكعكات">
+<!ENTITY doNotTrack.title                          "أخبر المواقع أني لا أريدهنا أن تتعقبني">
 <!ENTITY clearPrivateData2.title                  "امسح البيانات الخاصة">
 <!ENTITY clearPrivateData.button                   "امسح">
 <!ENTITY rememberPasswords.title                   "تذكّر كلمات السر">
