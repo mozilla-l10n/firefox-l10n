@@ -96,6 +96,7 @@
 <!ENTITY contextShareLink.label       "Diel keppeling">
 <!ENTITY contextShareImage.label      "Diel ôfbylding">
 <!ENTITY contextSaveVideo.label       "Bewarje fideo">
+<!ENTITY contextBookmarkLink.label    "Blêdwizerkeppeling">
 <!ENTITY contextShareVideo.label      "Diel fideo">
 <!ENTITY contextPlayMedia.label       "Spylje">
 <!ENTITY contextPauseMedia.label      "Pauze">
