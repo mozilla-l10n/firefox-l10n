@@ -56,13 +56,13 @@
 <!ENTITY evaluate.label     "Evaluate">
 <!ENTITY evaluate.accesskey "v">
 
-<!ENTITY copyCmd.label       "Copy">
-<!ENTITY copyCmd.accesskey   "C">
-<!ENTITY copyCmd.commandkey  "C">
+<!ENTITY copyCmd.label       "Copy">  
+<!ENTITY copyCmd.accesskey   "C"> 
+<!ENTITY copyCmd.commandkey  "C"> 
 <!ENTITY sortFirst.label     "First > Last Sort Order">
 <!ENTITY sortFirst.accesskey "F">
 <!ENTITY sortLast.label      "Last > First Sort Order">
 <!ENTITY sortLast.accesskey  "L">
-<!ENTITY closeCmd.commandkey "w">
-<!ENTITY focus1.commandkey   "l">
-<!ENTITY focus2.commandkey   "d">
+<!ENTITY closeCmd.commandkey "w">  
+<!ENTITY focus1.commandkey   "l">  
+<!ENTITY focus2.commandkey   "d">  

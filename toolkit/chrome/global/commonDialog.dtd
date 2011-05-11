@@ -1,7 +1,7 @@
-<!ENTITY header.label     "Brief Title">
+<!ENTITY header.label     "Brief Title"> 
 <!ENTITY message.label    "Some sample Text goes here.">
-<!ENTITY editfield0.label "User Name:">
-<!ENTITY editfield1.label "Password:">
+<!ENTITY editfield0.label "User Name:"> 
+<!ENTITY editfield1.label "Password:"> 
 <!ENTITY checkbox.label   "check">
 <!ENTITY copyCmd.label    "Copy">
 <!ENTITY copyCmd.accesskey "C">

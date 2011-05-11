@@ -60,7 +60,7 @@
 <!ENTITY certmgr.pending.label                "Currently verifying certificate">
 <!ENTITY certmgr.subjectinfo.label            "Issued To">
 <!ENTITY certmgr.issuerinfo.label             "Issued By">
-<!ENTITY certmgr.validity.label               "Validity">
+<!ENTITY certmgr.validity.label               "Validity" >
 <!ENTITY certmgr.fingerprints.label           "Fingerprints">
 <!ENTITY certmgr.certdetail.title             "Certificate Detail">
 <!ENTITY certmgr.certdetail.cn                "Common Name (CN)">
