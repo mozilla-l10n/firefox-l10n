@@ -117,8 +117,8 @@
 <!-- Strings for the CreateCertInfo dialog  -->
 
 <!ENTITY createCertInfo.title "Goo ma sutura kufal kaataray">
-<!ENTITY createCertInfo.msg1 "Kufal kaatarayyan goo fondaa ra... Woo ga hin ga gay miniti fooyaŋ...">
-<!ENTITY createCertInfo.msg2 "Taare batu...">
+<!ENTITY createCertInfo.msg1 "Kufal kaatarayyan goo fondaa ra… Woo ga hin ga gay miniti fooyaŋ…">
+<!ENTITY createCertInfo.msg2 "Taare batu…">
 <!-- Form Signing confirmation prompt -->
 
 <!ENTITY formSigning.title "Kalimaɲaa kuru maa žeeriyan ŋaaray">

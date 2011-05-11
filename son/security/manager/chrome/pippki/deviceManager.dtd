@@ -63,7 +63,7 @@
 <!ENTITY loaddevice.modname.default             "PKCS#11 dunbu taaga">
 <!ENTITY loaddevice.filename                    "Dunbu tukumaa:">
 <!ENTITY loaddevice.filename.accesskey          "f">
-<!ENTITY loaddevice.browse                      "Naaru...">
+<!ENTITY loaddevice.browse                      "Naaru…">
 <!ENTITY loaddevice.browse.accesskey            "B">
 
 <!ENTITY loaddevice.title                       "PKCS#11 jinay zumandi">

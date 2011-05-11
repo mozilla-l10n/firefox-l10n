@@ -1,7 +1,7 @@
 <!ENTITY  updateWizard.title              "Goyjinay taagandiri">
 
 <!ENTITY  checking.title                  "Taagandirey guna">
-<!ENTITY  updateCheck.label               "Goo ma dumi taagayaŋ guna &brandShortName; se...">
+<!ENTITY  updateCheck.label               "Goo ma dumi taagayaŋ guna &brandShortName; se…">
 
 <!ENTITY  pluginupdatesfound.title        "Duu taagandiriyaŋ sukarey se">
 <!ENTITY  pluginupdatesfound.label        "Dumi taagayaŋ duwandi sukari foo wala ibooboyaŋ se.">
@@ -22,7 +22,7 @@ goyjinay sinji ordinateroo woo ra.">
 <!ENTITY  manualUpdateGetMsg.label        "War ga hin ka duu &brandShortName; dumi kokorantaa waati kul ne:">
 
 <!ENTITY  incompatibleCheck.title         "Tontoni cerekanbeyan ceeci">
-<!ENTITY  incompatibleCheck.label         "Goo ma dumi taagayaŋ ceeci war tontoney se...">
+<!ENTITY  incompatibleCheck.label         "Goo ma dumi taagayaŋ ceeci war tontoney se…">
 
 <!ENTITY  clickHere.label                 "Alhabar bešere guna taagandiroo se">
 
@@ -42,8 +42,8 @@ Ay yadda naagu ganda hala taagandiroo woo sinjiyanoo ma koy nda jine.">
 <!ENTITY  incompatibleList.title          "Tontoniyan duwandi kaŋ ši cere kanbe">
 
 <!ENTITY  downloadPage.title              "Goo ma &brandShortName; zumandi">
-<!ENTITY  downloading.intro               "Taagandiroo goo ma zumandi...">
-<!ENTITY  connecting.label                "Goo ciya ma taagandiri feršikaa se...">
+<!ENTITY  downloading.intro               "Taagandiroo goo ma zumandi…">
+<!ENTITY  connecting.label                "Goo ciya ma taagandiri feršikaa se…">
 <!ENTITY  verificationFailedText.label    "&brandShortName; mana hin ka 
 timmetaraa tabatandi, kaŋ jere-taagandiri faalandi, woo se a goo ma 
 taagandiri sanbaroo kul zumandi.">
@@ -82,7 +82,7 @@ ga hin ka &brandShortName; tunandi taaga sohõda, wala war ma gaabu goyoo ga, k'
 
 <!ENTITY  installed.title                 "Taagandiri sinjante">
 <!ENTITY  installed.intro                 "Taagandiroo sinjandi ka boori.">
-<!ENTITY  whatsnew.label                  "Caw jine haya tejey ga...">
+<!ENTITY  whatsnew.label                  "Caw jine haya tejey ga…">
 
 <!ENTITY  update.details.label            "Šilbayhayey">
 <!ENTITY  update.installedOn.label        "Sinjiyan han:">

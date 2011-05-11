@@ -40,8 +40,8 @@
 <!ENTITY importItems.title              "Hayiizey kaŋ ga cendi ka zaandi">
 <!ENTITY importItems.label              "Suuba hayiizey kaŋ ga cendi ka zaandi:">
 
-<!ENTITY migrating.title                "Cendi ga zaandi...">
-<!ENTITY migrating.label                "Hayiizey wey goo ma cenda ka zaandi...">
+<!ENTITY migrating.title                "Cendi ga zaandi…">
+<!ENTITY migrating.label                "Hayiizey wey goo ma cenda ka zaandi…">
 
 <!ENTITY selectProfile.title            "Alhal suuba">
 <!ENTITY selectProfile.label            "Alhaaley wey goo no cendi ka zaa ne se:">

@@ -1,3 +1,8 @@
+<!ENTITY tracking.label                 "Kuryan">
+
+<!ENTITY doNotTrack.label               "Wa nee Interneti nungey se ay ši baa nd'ay ma kurandi">
+<!ENTITY doNotTrack.accesskey           "d">
+
 <!ENTITY  history.label                 "Taariki">
 
 <!ENTITY  locationBar.label             "Gorodoo žeeri">
@@ -24,12 +29,11 @@
 <!ENTITY  close.label                   "Ay ga &brandShortName; daabu">
 <!ENTITY  askEachTime.label             "ay hãa waati kul">
 
-<!ENTITY  cookieExceptions.label        "Hasarawey...">
+<!ENTITY  cookieExceptions.label        "Hasarawey…">
 <!ENTITY  cookieExceptions.accesskey    "H">
 
-<!ENTITY  showCookies.label             "Aleewawey cebe...">
+<!ENTITY  showCookies.label             "Aleewawey cebe…">
 <!ENTITY  showCookies.accesskey         "c">
-
 
 <!ENTITY  historyHeader.pre.label          "&brandShortName; ga:">
 <!ENTITY  historyHeader.pre.accesskey      "g">
@@ -46,7 +50,7 @@
 <!ENTITY  rememberActions.pre.label           "Nda war ga baa ka ">
 <!ENTITY  rememberActions.clearHistory.label  "war taariki kokorantaa koonandi">
 <!ENTITY  rememberActions.middle.label        "wala ">
-<!ENTITY  rememberActions.removeCookies.label "aleewa foofawey kaa">
+<!ENTITY  rememberActions.removeCookies.label "aleewa fowey kaa">
 <!ENTITY  rememberActions.post.label          ".">
 
 <!ENTITY  dontrememberDescription.label  "&brandShortName; ga goy nda kayandiyan follokey kaŋ goo nda sutura ceeciyan, amma a ši taariku gaabu war tataaru ceeciroo waate.">
@@ -72,5 +76,5 @@
 <!ENTITY  clearOnClose.label             "Taariku koonandi waati kaŋ &brandShortName; ga daaba">
 <!ENTITY  clearOnClose.accesskey         "k">
 
-<!ENTITY  clearOnCloseSettings.label     "Kayandiyaney...">
+<!ENTITY  clearOnCloseSettings.label     "Kayandiyaney…">
 <!ENTITY  clearOnCloseSettings.accesskey "n">

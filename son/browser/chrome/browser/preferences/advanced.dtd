@@ -21,8 +21,6 @@
 <!ENTITY allowHWAccel.accesskey          "j">
 <!ENTITY checkSpelling.label             "Ay boŋhantumoo koroši waati kaŋ ay ga hantum">
 <!ENTITY checkSpelling.accesskey         "h">
-<!ENTITY doNotTrack.label                "Wa nee Interneti nungey se ay ši baa nda ay hangandi ">
-<!ENTITY doNotTrack.accesskey            "d">
 
 <!ENTITY systemDefaults.label            "Dabariɲaa tilasey">
 <!--XXX-->
@@ -78,12 +76,12 @@
 
 <!ENTITY offlineNotify.label             "Har yane waati kaŋ tataataru nungu hãa ka bayhayey jiši bila-nda-ciyari goyyan se">
 <!ENTITY offlineNotify.accesskey         "H">
-<!ENTITY offlineNotifyExceptions.label   "Hasarawey...">
+<!ENTITY offlineNotifyExceptions.label   "Hasarawey…">
 <!ENTITY offlineNotifyExceptions.accesskey "a">
 
 <!ENTITY offlineAppsList.label           "Tataaru nungey wey na bayhayey jiši bila-nda-ciyari goyyan se:">
 <!ENTITY offlineAppsList.height          "7em">
-<!ENTITY offlineAppsListRemove.label     "Kaa...">
+<!ENTITY offlineAppsListRemove.label     "Kaa…">
 <!ENTITY offlineAppsListRemove.accesskey "K">
 <!ENTITY offlineAppRemove.confirm        "Bila-nda-ciyari kaa">
 

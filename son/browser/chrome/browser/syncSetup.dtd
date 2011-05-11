@@ -14,7 +14,7 @@
 
 <!ENTITY server.label               "Feršikaw">
 <!ENTITY serverType.main.label      "&syncBrand.fullName.label; feršikaw">
-<!ENTITY serverType.custom2.label   "Goy nda alaada feršikaw...">
+<!ENTITY serverType.custom2.label   "Goy nda alaada feršikaw…">
 <!ENTITY signIn.account2.label      "Kontu">
 <!ENTITY signIn.account2.accesskey  "o">
 <!ENTITY signIn.password.label      "Šennikufal">
@@ -46,9 +46,9 @@
 <!ENTITY syncKeyGenerate.label     "Bangandi">
 <!ENTITY syncKeyBackup.description "War Sync kufaloo ga waažibandi ka duu &syncBrand.fullName.label; maršin waaniyaŋ ga. Taare banda-gaadu celle tee. Ir ši hin ka war gaa ka war Sync kufaloo kurma.">
 
-<!ENTITY button.syncKeyBackup.print.label     "Kar...">
+<!ENTITY button.syncKeyBackup.print.label     "Kar…">
 <!ENTITY button.syncKeyBackup.print.accesskey "r">
-<!ENTITY button.syncKeyBackup.save.label      "Gaabu...">
+<!ENTITY button.syncKeyBackup.save.label      "Gaabu…">
 <!ENTITY button.syncKeyBackup.save.accesskey  "G">
 <!-- New Account Page 3: Captcha -->
 
@@ -69,7 +69,7 @@
 
 <!ENTITY setup.signInPage.title.label "Huru">
 <!ENTITY existingSyncKey.description "War ga hin ka duu war Sync kufaloo celle nda war koy &syncBrand.shortName.label; Suubarey do war jinay faa ga, nda wa  &#x0022;My Sync Key&#x0022; suuba &#x0022;Manage Account&#x0022; cire.">
-<!ENTITY verifying.label              "Goo ma koroši...">
+<!ENTITY verifying.label              "Goo ma koroši…">
 <!ENTITY resetPassword.label          "Šennikufaloo yeeti">
 <!ENTITY resetSyncKey.label           "Ay jinay faa din dere yane.">
 <!-- Sync Options -->

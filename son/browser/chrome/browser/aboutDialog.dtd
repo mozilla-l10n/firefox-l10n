@@ -54,3 +54,27 @@
 
 <!ENTITY update.downloading.start   "Taagandiri goo ma zumandi — ">
 <!ENTITY update.downloading.end     "">
+<!-- LOCALIZATION NOTE (channel.description.start,channel.description.end): channel.description.start and
+     channel.description.end create one sentence, with the current channel label inserted in between.
+     example: You are currently on the _Stable_ update channel. -->
+
+<!ENTITY channel.description.start  "Sohõda war goo ">
+<!ENTITY channel.description.end    " taagandiri zuwoo boŋ. ">
+
+<!ENTITY channel.change             "Barmay">
+
+<!ENTITY channel.release.description       "War maa wallafi kokorantaa woo kaana kaŋ fatta šiiyan nda korošiyan bande ga, kaŋ nda boro milyoŋ zanguyaŋ ga goy. War Interneti naarumaa juwal nda cahãri šifante, boŋše-hanseyan faalante nda Interneti dabaribayray kokorantey.">
+<!ENTITY channel.beta.description          "Wa soobay ka dii goy-alhaali taagantey nda duumiyan. War laasaaboo sanba ka gaa k'a hennandi nda juttandi kaatarayyan koraa se.">
+<!ENTITY channel.aurora.description        " Wa soobay ka dii haya-teji korawey doo bere-berante foo ra kaŋ manti bine buuna se. War laasaaboo noo alhaaley nda teeyan sahã ga ka kaatarayyan kokorantaa tabatandi.">
+<!-- LOCALIZATION NOTE (channel.selector.start,channel.selector.end): channel.selector.start and
+     channel.selector.end create one sentence, with a channel selection menulist instered in between.
+     This is all in one line, so try to make the localized text short.
+     example: Switch to the [Stable] update channel. -->
+
+<!ENTITY channel.selector.start          "Bere ne">
+<!ENTITY channel.selector.end            "taagandiri zuwoo boŋ.">
+<!-- LOCALIZATION NOTE (channel.selector.applyButton): This button applies the user's choice to switch
+     to a new update channel and starts the application update process. -->
+
+<!ENTITY channel.selector.applyButton    "Kayandi nda taagandi">
+<!ENTITY channel.selector.cancelButton   "Naŋ">

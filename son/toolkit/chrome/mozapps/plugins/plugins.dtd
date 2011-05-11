@@ -1,7 +1,7 @@
 <!ENTITY pluginWizard.title                                  "Sukari ceecikoy">
 <!ENTITY pluginWizard.firstPage.title                        "Kubayni &pluginWizard.title; doo">
 
-<!ENTITY pluginWizard.checkingForPlugins.description.label   "&brandShortName; ga sukari barantey ceeci sohõ...">
+<!ENTITY pluginWizard.checkingForPlugins.description.label   "&brandShortName; ga sukari barantey ceeci sohõ…">
 
 <!ENTITY pluginWizard.availablePluginsPage.title             "Sukari zumandi barantey">
 <!ENTITY pluginWizard.availablePluginsPage.description.label "Sukarey wey ga bara:">
@@ -13,7 +13,7 @@
 <!ENTITY pluginWizard.licensePage.deny.label                 "Ya na yadda (sukaroo ma ši sinja).">
 
 <!ENTITY pluginWizard.installPluginsPage.title               "Sukarey goo ma sinja">
-<!ENTITY pluginWizard.installPluginsPage.description.label   "&brandShortName; goo ma sukarey sinji...">
+<!ENTITY pluginWizard.installPluginsPage.description.label   "&brandShortName; goo ma sukarey sinji…">
 
 <!ENTITY pluginWizard.finalPage.description.label            "&brandShortName; na sukari jeccantey sinji ka ben:">
 
@@ -31,7 +31,7 @@
 <!ENTITY reloadPlugin.post                                   " ka ceeci koyne.">
 <!-- LOCALIZATION NOTE (report.please): This and the other report.* strings should be as short as possible, ideally 2-3 words. -->
 <!ENTITY report.please                                       "Kaŋyan bayrandi sanba">
-<!ENTITY report.submitting                                   "Goo ma bayrandi sanba...">
+<!ENTITY report.submitting                                   "Goo ma bayrandi sanba…">
 <!ENTITY report.submitted                                    "Kaŋyan bayrandi sanbandi.">
 <!ENTITY report.disabled                                     "Kaŋyan bayrandi kay.">
 <!ENTITY report.failed                                       "Sanbari kay.">

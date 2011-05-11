@@ -134,9 +134,9 @@ goo &brandShortName; nda fondo ka huru tataaroo ra.</li>
 <!ENTITY cspFrameAncestorBlocked.title "Gagayandi gundekuna saajaw alhukum bande">
 <!ENTITY cspFrameAncestorBlocked.longDesc "<p>&brandShortName; ganji moɲoo woo ma zunbu takaa woo zama moɲoo goo nda gundekuna kaŋ saajaw alhukumoo ši yadda a ga.</p>">
 
-<!ENTITY securityOverride.linkText "Wala war ga hin ka hasaraw foo tonton...">
+<!ENTITY securityOverride.linkText "Wala war ga hin ka hasaraw foo tonton…">
 <!ENTITY securityOverride.getMeOutOfHereButton "Ay kaataray ne!">
-<!ENTITY securityOverride.exceptionButtonLabel "Hasaraw tonton...">
+<!ENTITY securityOverride.exceptionButtonLabel "Hasaraw tonton…">
 <!-- LOCALIZATION NOTE (securityOverride.warningContent) - Do not translate the
 contents of the <button> tags. It uses strings already defined above. The
 button is included here (instead of netError.xhtml) because it exposes
@@ -147,3 +147,6 @@ functionality specific to firefox. -->
  
 <button id='getMeOutOfHereButton'>&securityOverride.getMeOutOfHereButton;</button> 
 <button id='exceptionDialogButton'>&securityOverride.exceptionButtonLabel;</button>">
+
+<!ENTITY remoteXUL.title "XUL moora">
+<!ENTITY remoteXUL.longDesc "<p><ul><li>Taare wa šendaa woo bayrandi Interneti nungoo koyey se.</li></ul></p>">

@@ -15,7 +15,7 @@
 <!ENTITY profilePrompt.accesskey        "A">
 <!ENTITY profileDirectoryExplanation.text   "War goykaw kayandiyaney, ibaayey nda goy-mise bayhayey ga jisandi ne ra:">
 <!ENTITY profileDefaultName             "Tilasu goykaw">
-<!ENTITY button.choosefolder.label      "Foolo suuba...">
+<!ENTITY button.choosefolder.label      "Foolo suuba…">
 <!ENTITY button.choosefolder.accesskey  "F">
 <!ENTITY button.usedefault.label        "Tilasu foolo goyandi">
 <!ENTITY button.usedefault.accesskey    "T">

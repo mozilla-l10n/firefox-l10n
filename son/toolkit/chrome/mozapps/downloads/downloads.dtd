@@ -4,8 +4,8 @@ file names and tall enough to hint that there are more downloads in the list -->
 <!ENTITY window.width2                    "485">
 <!ENTITY window.height                    "300"> 
 
-<!ENTITY starting.label                   "Goo ma šintin...">
-<!ENTITY scanning.label                   "Laasaabu wiirisey se...">
+<!ENTITY starting.label                   "Goo ma šintin…">
+<!ENTITY scanning.label                   "Laasaabu wiirisey se…">
 
 <!ENTITY downloads.title                  "Zumandey">
 
@@ -21,7 +21,7 @@ file names and tall enough to hint that there are more downloads in the list -->
 <!ENTITY cmd.showMac.accesskey            "c">
 <!ENTITY cmd.open.label                   "Feeri">
 <!ENTITY cmd.open.accesskey               "F">
-<!ENTITY cmd.openWith.label               "Feeri nda...">
+<!ENTITY cmd.openWith.label               "Feeri nda…">
 <!ENTITY cmd.openWith.accesskey           "F">
 <!ENTITY cmd.retry.label                  "Šii taaga">
 <!ENTITY cmd.retry.accesskey              "t">
@@ -45,4 +45,4 @@ file names and tall enough to hint that there are more downloads in the list -->
 <!ENTITY closeWhenDone.tooltip            "Ga zumandey zanfunoo daabu waati kaŋ tukey kul zunbu ka ben">
 
 <!ENTITY showFolder.label                 "Foolaa woo cebe">
-<!ENTITY searchBox.label                  "Ceeci...">
+<!ENTITY searchBox.label                  "Ceeci…">

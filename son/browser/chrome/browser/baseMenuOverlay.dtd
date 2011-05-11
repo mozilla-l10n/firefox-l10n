@@ -15,16 +15,16 @@
 <!ENTITY productHelp.label        "&brandShortName; faaba">
 <!ENTITY productHelp.accesskey    "f">
 <!ENTITY helpMac.commandkey       "?">
-<!ENTITY helpSafeMode.label       "Tunandi taaga kaŋ tontoney kayandi...">
+<!ENTITY helpSafeMode.label       "Tunandi taaga kaŋ tontoney kayandi…">
 <!ENTITY helpSafeMode.accesskey   "u">
 
 <!ENTITY helpTroubleshootingInfo.label      "Karkahattayan alhabar">
 <!ENTITY helpTroubleshootingInfo.accesskey  "K">
 
-<!ENTITY helpFeedbackPage.label      "Furari sanba...">
+<!ENTITY helpFeedbackPage.label      "Furari sanba…">
 <!ENTITY helpFeedbackPage.accesskey  "s">
 
-<!ENTITY preferencesCmdMac.label        "Ibaayey...">
+<!ENTITY preferencesCmdMac.label        "Ibaayey…">
 <!ENTITY preferencesCmdMac.commandkey   ",">
 
 <!ENTITY servicesMenuMac.label          "Goyey">

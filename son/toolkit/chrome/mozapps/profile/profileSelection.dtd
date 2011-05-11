@@ -47,11 +47,11 @@
 
 <!ENTITY            availprofiles.label    "Alhaali barantey">
 
-<!ENTITY            newButton.label        "Alhaali tee...">
+<!ENTITY            newButton.label        "Alhaali tee…">
 <!ENTITY            newButton.accesskey    "t">
-<!ENTITY            renameButton.label     "Alhaali maa barmay...">
+<!ENTITY            renameButton.label     "Alhaali maa barmay…">
 <!ENTITY            renameButton.accesskey "m">
-<!ENTITY            deleteButton.label     "Alhaali tuusu...">
+<!ENTITY            deleteButton.label     "Alhaali tuusu…">
 <!ENTITY            deleteButton.accesskey "t">
 <!-- manager entities -->
 

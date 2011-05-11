@@ -28,22 +28,22 @@
 
 <!ENTITY cmd.findInBookmarks.label      "Ceeci doo-šilbawey ra">
 <!ENTITY cmd.findInBookmarks.accesskey  "C">
-<!ENTITY cmd.findCurrent.label          "Ceeci sohõda kuunayano ra...">
+<!ENTITY cmd.findCurrent.label          "Ceeci sohõda kuunayano ra…">
 <!ENTITY cmd.findCurrent.accesskey      "C">
 
-<!ENTITY cmd.exportHTML.label           "HTML fattandi...">
+<!ENTITY cmd.exportHTML.label           "HTML fattandi…">
 <!ENTITY cmd.exportHTML.accesskey       "f">
-<!ENTITY cmd.importHTML.label           "HTML cendi ka dam...">
+<!ENTITY cmd.importHTML.label           "HTML cendi ka dam…">
 <!ENTITY cmd.importHTML.accesskey       "c">
 
-<!ENTITY cmd.backup.label               "Banda-gaabu...">
+<!ENTITY cmd.backup.label               "Banda-gaabu…">
 <!ENTITY cmd.backup.accesskey           "B">
 <!ENTITY cmd.restore2.label             "Willi taka jinaa ga">
 <!ENTITY cmd.restore2.accesskey         "W">
-<!ENTITY cmd.restoreFromFile.label      "Tuku suuba...">
+<!ENTITY cmd.restoreFromFile.label      "Tuku suuba…">
 <!ENTITY cmd.restoreFromFile.accesskey  "s">
 
-<!ENTITY cmd.bookmarkLink.label         "Moɲoo woo šilbay...">
+<!ENTITY cmd.bookmarkLink.label         "Moɲoo woo šilbay…">
 <!ENTITY cmd.bookmarkLink.accesskey     "l">
 <!ENTITY cmd.delete.label               "Moɲoo woo tuusu...">
 <!ENTITY cmd.delete.accesskey           "t">
@@ -66,9 +66,9 @@
 <!ENTITY cmd.sortby_name.accesskey          "F">
 <!ENTITY cmd.context_sortby_name.accesskey  "r">
 
-<!ENTITY cmd.new_bookmark.label            "Doo-šilbay taaga...">
+<!ENTITY cmd.new_bookmark.label            "Doo-šilbay taaga…">
 <!ENTITY cmd.new_bookmark.accesskey        "t">
-<!ENTITY cmd.new_folder.label              "Foolo taaga...">
+<!ENTITY cmd.new_folder.label              "Foolo taaga…">
 <!ENTITY cmd.new_folder.accesskey          "F">
 <!ENTITY cmd.context_new_folder.accesskey  "F">
 <!ENTITY cmd.new_separator.label           "Fayari taaga">
@@ -79,7 +79,7 @@
 <!ENTITY cmd.reloadMicrosummary.label      "Tiiramaa dirante dam taaga">
 <!ENTITY cmd.reloadMicrosummary.accesskey  "d">
 
-<!ENTITY cmd.moveBookmarks.label                  "Ganandi...">
+<!ENTITY cmd.moveBookmarks.label                  "Ganandi…">
 <!ENTITY cmd.moveBookmarks.accesskey              "G">
 
 <!ENTITY col.name.label          "Maa">

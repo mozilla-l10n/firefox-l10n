@@ -20,6 +20,6 @@
 <!ENTITY editBookmarkOverlay.tagsExpanderDown.tooltip        "Kanjey kul cebe">
 <!ENTITY editBookmarkOverlay.loadInSidebar.label             "Doo-šilbaa woo zumandi ceraw-maaboŋ ra">
 <!ENTITY editBookmarkOverlay.loadInSidebar.accesskey         "w">
-<!ENTITY editBookmarkOverlay.choose.label                    "Suuba...">
+<!ENTITY editBookmarkOverlay.choose.label                    "Suuba…">
 <!ENTITY editBookmarkOverlay.newFolderButton.label           "Foolo taaga">
 <!ENTITY editBookmarkOverlay.newFolderButton.accesskey       "F">

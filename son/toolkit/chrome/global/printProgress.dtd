@@ -2,7 +2,7 @@
 <!ENTITY printWindow.title "Goo ma karandi"> 
 <!ENTITY title    "Tiiramaa"> 
 <!ENTITY progress "Jinekoyyan">
-<!ENTITY preparing "Sooluyan...">
+<!ENTITY preparing "Sooluyan…">
 <!ENTITY printComplete "Karyanoo timme.">
 
 <!ENTITY dialogCancel.label "Naŋ"> 

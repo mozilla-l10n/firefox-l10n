@@ -56,7 +56,7 @@
 <!ENTITY hfPage              "Moo hinna">
 <!ENTITY hfPageAndTotal      "Moo hinna # ga">
 <!ENTITY hfBlank             "--koonu--">
-<!ENTITY hfCustom            "Hanse war boŋ se...">
+<!ENTITY hfCustom            "Hanse war boŋ se…">
 
-<!ENTITY customPrompt.title  "Hanse war boŋ se...">
+<!ENTITY customPrompt.title  "Hanse war boŋ se…">
 <!ENTITY customPrompt.prompt "War kalimaɲaa kuroo boŋ boŋdeke/ceedeke dam">

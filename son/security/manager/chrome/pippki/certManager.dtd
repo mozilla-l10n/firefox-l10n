@@ -57,7 +57,7 @@
 <!ENTITY certmgr.detail.prettyprint_tab.title "Šilbayhayey">
 <!ENTITY certmgr.detail.prettyprint_tab.accesskey "b">
 
-<!ENTITY certmgr.pending.label                "Goo ma tabatiyan-tiiraa koroši sohõda...">
+<!ENTITY certmgr.pending.label                "Goo ma tabatiyan-tiiraa koroši sohõda…">
 <!ENTITY certmgr.subjectinfo.label            "Wallafi woo se">
 <!ENTITY certmgr.issuerinfo.label             "Woo n'a wallafi">
 <!ENTITY certmgr.validity.label               "Ga boori hala" >
@@ -103,25 +103,25 @@
 
 <!ENTITY certmgr.close.label                  "Daabu">
 <!ENTITY certmgr.close.accesskey              "D">
-<!ENTITY certmgr.view2.label                  "Gunari...">
+<!ENTITY certmgr.view2.label                  "Gunari…">
 <!ENTITY certmgr.view2.accesskey              "G">
-<!ENTITY certmgr.edit3.label                  "Fasal naanay...">
+<!ENTITY certmgr.edit3.label                  "Fasal naanay…">
 <!ENTITY certmgr.edit3.accesskey              "F">
 <!ENTITY certmgr.editca.label                 "Tabatiyan-tiira hini naanay fasal">
 <!ENTITY certmgr.editca.accesskey             "f">
 <!ENTITY certmgr.add.label                    "Tonton">
 <!ENTITY certmgr.add.accesskey                "T">
-<!ENTITY certmgr.export.label                 "Kaataray...">
+<!ENTITY certmgr.export.label                 "Kaataray…">
 <!ENTITY certmgr.export.accesskey             "K">
-<!ENTITY certmgr.delete2.label                "Tuusu...">
+<!ENTITY certmgr.delete2.label                "Tuusu…">
 <!ENTITY certmgr.delete2.accesskey            "T">
-<!ENTITY certmgr.delete_builtin.label         "Tuusu wala ma ši naanay...">
+<!ENTITY certmgr.delete_builtin.label         "Tuusu wala ma ši naanay…">
 <!ENTITY certmgr.delete_builtin.accesskey     "T">
-<!ENTITY certmgr.backup2.label                "Banda-gaabu...">
+<!ENTITY certmgr.backup2.label                "Banda-gaabu…">
 <!ENTITY certmgr.backup2.accesskey            "B">
-<!ENTITY certmgr.backupall2.label             "Kul banda-gaabu...">
+<!ENTITY certmgr.backupall2.label             "Kul banda-gaabu…">
 <!ENTITY certmgr.backupall2.accesskey         "b">
-<!ENTITY certmgr.restore2.label               "Cendi ka dam...">
+<!ENTITY certmgr.restore2.label               "Cendi ka dam…">
 <!ENTITY certmgr.restore2.accesskey           "C">
 <!ENTITY certmgr.details.label                "Tabatiyan-tiira faarey">
 <!ENTITY certmgr.details.accesskey            "f">
@@ -129,7 +129,7 @@
 <!ENTITY certmgr.fields.accesskey             "a">
 <!ENTITY certmgr.hierarchy.label              "Tabatiyan-tiira kanandi">
 <!ENTITY certmgr.hierarchy.accesskey          "T">
-<!ENTITY certmgr.addException.label           "Hasaraw tonton...">
+<!ENTITY certmgr.addException.label           "Hasaraw tonton…">
 <!ENTITY certmgr.addException.accesskey       "H">
 
 <!ENTITY exceptionMgr.title                   "Saajaw hasaraw tonton">
@@ -141,7 +141,7 @@
 <!ENTITY exceptionMgr.certlocation.download   "Tabatiyan-tiira zaa">
 <!ENTITY exceptionMgr.certlocation.accesskey  "G">
 <!ENTITY exceptionMgr.certstatus.caption      "Tabatiyan-tiira assariya">
-<!ENTITY exceptionMgr.certstatus.viewCert     "Gunari...">
+<!ENTITY exceptionMgr.certstatus.viewCert     "Gunari…">
 <!ENTITY exceptionMgr.certstatus.accesskey    "V">
 <!ENTITY exceptionMgr.permanent.label         "Hasaraa woo tee jiširi duumante">
 <!ENTITY exceptionMgr.permanent.accesskey     "d">

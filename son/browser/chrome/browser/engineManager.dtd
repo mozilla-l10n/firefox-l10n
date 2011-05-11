@@ -12,10 +12,10 @@
 <!ENTITY  dn.accesskey              "Z">
 <!ENTITY  remove.label              "Kaa">
 <!ENTITY  remove.accesskey          "K">
-<!ENTITY  edit.label                "Kufalkalima fasal...">
+<!ENTITY  edit.label                "Kufalkalima fasal…">
 <!ENTITY  edit.accesskey            "f">
 
-<!ENTITY  addEngine.label           "Duu ceecijinay bešere...">
+<!ENTITY  addEngine.label           "Duu ceecijinay bešere…">
 <!ENTITY  addEngine.accesskey       "c">
 
 <!ENTITY  enableSuggest.label       "Ceeci honnandiyaney cebe">

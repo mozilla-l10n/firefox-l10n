@@ -13,7 +13,7 @@
 <!ENTITY savePageCmd.label "Moɲoo gaabu sanda:">
 <!ENTITY savePageCmd.accesskey "s">
 <!ENTITY savePageCmd.commandkey "S">
-<!ENTITY pageSetupCmd.label "Moo kayandi...">
+<!ENTITY pageSetupCmd.label "Moo kayandi…">
 <!ENTITY pageSetupCmd.accesskey "k">
 <!ENTITY printPreviewCmd.label "Kar moo-fur">
 <!ENTITY printPreviewCmd.accesskey "f">
@@ -38,7 +38,7 @@ you can use these alternative items. Otherwise, their values should be empty.  -
 <!ENTITY textReset.commandkey "0">
 <!ENTITY textReset.commandkey2 "">
 
-<!ENTITY goToLineCmd.label "Koy žeeri ga...">
+<!ENTITY goToLineCmd.label "Koy žeeri ga…">
 <!ENTITY goToLineCmd.accesskey "K">
 <!ENTITY goToLineCmd.commandkey "l">
 
@@ -60,7 +60,7 @@ you can use these alternative items. Otherwise, their values should be empty.  -
 <!ENTITY menu_textReset.label "Hankul">
 <!ENTITY menu_textReset.accesskey "H">
 
-<!ENTITY findOnCmd.label     "Moɲoo woo ceeci...">
+<!ENTITY findOnCmd.label     "Moɲoo woo ceeci…">
 <!ENTITY findOnCmd.accesskey "c">
 <!ENTITY findOnCmd.commandkey "f">
 <!ENTITY findAgainCmd.label  "Ceeci koyne">

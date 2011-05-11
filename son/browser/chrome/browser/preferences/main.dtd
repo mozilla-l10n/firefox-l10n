@@ -23,9 +23,9 @@
 <!ENTITY closeWhenDone.accesskey "w">
 <!ENTITY saveTo.label "Tukey gaabu ga">
 <!ENTITY saveTo.accesskey "g">
-<!ENTITY chooseFolderWin.label        "Guna...">
+<!ENTITY chooseFolderWin.label        "Guna…">
 <!ENTITY chooseFolderWin.accesskey    "G">
-<!ENTITY chooseFolderMac.label        "Suuba...">
+<!ENTITY chooseFolderMac.label        "Suuba…">
 <!ENTITY chooseFolderMac.accesskey    "S">
 <!ENTITY alwaysAsk.label "Ay hãa waati kul nungu kaŋ ra tukey ga jiši">
 <!ENTITY alwaysAsk.accesskey "w">
@@ -33,5 +33,5 @@
 <!ENTITY addonsMgr.label               "Tontoney">
 <!ENTITY manageAddonsDescWin.label     "Suubarey barmay war tontoney se">
 <!ENTITY manageAddonsDescUnix2.label   "Ibaayey barmay war tontoney se">
-<!ENTITY manageAddons.label            "Tontoney juwal...">
+<!ENTITY manageAddons.label            "Tontoney juwal…">
 <!ENTITY manageAddons.accesskey        "T">

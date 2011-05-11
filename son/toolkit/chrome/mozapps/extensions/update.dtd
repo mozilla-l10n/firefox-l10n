@@ -14,8 +14,8 @@
  ga bara tontoney wey se.">
 
 <!ENTITY  checking.wizard.title           "Tontoni cerekanbantey koroši">
-<!ENTITY  checking.top.label              "War tontoni cerekanbantey koroši taagandiriyaŋ se...">
-<!ENTITY  checking.status                 "Woo ga hin ka miniti fooyaŋ gay...">
+<!ENTITY  checking.top.label              "War tontoni cerekanbantey koroši taagandiriyaŋ se…">
+<!ENTITY  checking.status                 "Woo ga hin ka miniti fooyaŋ gay…">
 
 <!ENTITY  found.wizard.title               "Tontoni cerekanbantey duwandi">
 <!ENTITY  found.top.label                 "Tontoney kaŋ war ga boonay k'i sinji suuba:">
@@ -25,7 +25,7 @@ sohõ. War ga hin ka kayandiyanoo barmay ganda.">
 <!ENTITY  found.enableXPInstall.accesskey "a">
 
 <!ENTITY  installing.wizard.title         "Goo ma tontoni cerekanbantey sinji">
-<!ENTITY  installing.top.label            "Taagandirey zumandi nd'i sinji war tontoney se...">
+<!ENTITY  installing.top.label            "Taagandirey zumandi nd'i sinji war tontoney se…">
 
 <!ENTITY  noupdates.wizard.title          "Tontoni cerekanbanteyaŋ kul mana duwandi">
 <!ENTITY  noupdates.intro.desc            "&brandShortName; mana hin ka duu taagandirey war 
@@ -49,7 +49,7 @@ Taare war dabariɲaa juwalkaa hãa faaba se.">
 <!ENTITY  versioninfo.wizard.title        "Tontoni cerekanbeyan koroši">
 <!ENTITY  versioninfo.top.label           "War tontoney cerekanbeyanoo koroši nda woo 
 &brandShortName; dumoo.">
-<!ENTITY  versioninfo.waiting             "Woo ga hin ka miniti fooyaŋ gay...">
+<!ENTITY  versioninfo.waiting             "Woo ga hin ka miniti fooyaŋ gay…">
 
 <!ENTITY  installerrors.wizard.title      "Šenday taagandirey sinjiyanoo waate">
 <!ENTITY  installerrors.intro.label       "&brandShortName; dii šendayyaŋ waati kaŋ a ga 

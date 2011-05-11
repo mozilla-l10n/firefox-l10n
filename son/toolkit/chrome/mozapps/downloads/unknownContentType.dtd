@@ -43,7 +43,7 @@
 
 <!ENTITY  openWith.label              "Feeri nda">
 <!ENTITY  openWith.accesskey          "F">
-<!ENTITY  other.label                 "Affoo tana...">
+<!ENTITY  other.label                 "Affoo tana…">
 
 <!ENTITY  saveFile.label              "Tuku gaabu">
 <!ENTITY  saveFile.accesskey          "T">
@@ -53,9 +53,9 @@
 
 <!ENTITY  whichIsA.label              "kaŋ ti:">
 
-<!ENTITY  chooseHandlerMac.label      "Suuba...">
+<!ENTITY  chooseHandlerMac.label      "Suuba…">
 <!ENTITY  chooseHandlerMac.accesskey  "S">
-<!ENTITY  chooseHandler.label         "Naaru...">
+<!ENTITY  chooseHandler.label         "Naaru…">
 <!ENTITY  chooseHandler.accesskey     "N">
 
 <!ENTITY  unknownPromptText.label     "War baa ka tukoo woo gaabu?">
