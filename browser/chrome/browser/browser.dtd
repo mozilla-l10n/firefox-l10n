@@ -140,7 +140,7 @@
 <!ENTITY addons.accesskey "Д">
 <!ENTITY addons.commandkey "A">
 <!ENTITY webDeveloperMenu.label "Веб-разработка">
-<!ENTITY webDeveloperMenu.accesskey "е">
+<!ENTITY webDeveloperMenu.accesskey "б">
 <!ENTITY errorConsoleCmd.label "Консоль ошибок">
 <!ENTITY errorConsoleCmd.accesskey "К">
 <!ENTITY errorConsoleCmd.commandkey "j">
