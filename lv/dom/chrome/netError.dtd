@@ -145,7 +145,8 @@
 
      this inclusion needs to be intact for that approach to work correctly. -->
 
-
+<!ENTITY remoteXUL.title "Attālināts XUL">
+<!ENTITY remoteXUL.longDesc "<p><ul><li>Lūdzu sazinieties ar mājas lapas īpašniekiem un informējiet viņus par šo problēmu.</li></ul></p>">
 
 
 <!ENTITY % netErrorAppDTD SYSTEM "chrome://global/locale/netErrorApp.dtd">

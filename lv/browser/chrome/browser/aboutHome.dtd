@@ -6,9 +6,6 @@
 
 <!ENTITY abouthome.pageTitle "&brandFullName; sākuma lapa">
 
-<!-- LOCALIZATION NOTE (brandStart): brandShortName must be in a <span/> -->
-<!ENTITY abouthome.brandStart "<span>&brandShortName;</span> sākums">
-
 <!ENTITY abouthome.searchEngineButton.label "Meklēt">
 
 <!ENTITY abouthome.aboutMozilla "Par Mozilla">

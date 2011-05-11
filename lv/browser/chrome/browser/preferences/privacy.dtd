@@ -15,6 +15,9 @@
 <!ENTITY  rememberHistory.label      "Atcerēties manu pārlūkošanas vēsturi">
 <!ENTITY  rememberHistory.accesskey  "p">
 
+<!ENTITY tracking.label                 "Uzskaite internetā">
+<!ENTITY doNotTrack.label                "Teikt mājas lapām, ka nevēlos, lai tās mani uzskaita">
+<!ENTITY doNotTrack.accesskey            "t">
 
 <!ENTITY  rememberDownload.label         "Atcerēties lejupielāžu vēsturi">
 <!ENTITY  rememberDownload.accesskey     "l">
