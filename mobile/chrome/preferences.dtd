@@ -8,8 +8,9 @@
 <!ENTITY enablePlugins.title                       "ਪਲੱਗਇਨ ਚਾਲੂ">
 <!ENTITY privacy.title                             "ਪਰਾਈਵੇਸੀ &amp; ਸੁਰੱਖਿਆ">
 <!ENTITY allowCookies.title                        "ਕੂਕੀਜ਼ ਮਨਜ਼ੂਰ">
+<!ENTITY doNotTrack.title                          "ਸਾਈਟਾਂ ਨੂੰ ਦੱਸੋ ਕਿ ਮੈਨੂੰ ਟਰੈਕ ਨਾ ਕਰੋ">
 <!ENTITY clearPrivateData2.title                   "ਪ੍ਰਾਈਵੇਟ ਡਾਟਾ ਸਾਫ਼ ਕਰੋ">
-<!ENTITY clearPrivateData.button                   "ਸਾਫ਼">
+<!ENTITY clearPrivateData.button                   "ਸਾਫ਼ ਕਰੋ">
 <!ENTITY rememberPasswords.title                   "ਪਾਸਵਰਡ ਯਾਦ ਰੱਖੋ">
 <!ENTITY language.title                            "ਭਾਸ਼ਾ">
 <!ENTITY language.auto                             "ਆਟੋਮੈਟਿਕ-ਖੋਜੋ">
