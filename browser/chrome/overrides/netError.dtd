@@ -168,3 +168,6 @@
 <button id='getMeOutOfHereButton'>&securityOverride.getMeOutOfHereButton;</button>
 <button id='exceptionDialogButton'>&securityOverride.exceptionButtonLabel;</button>
 ">
+<!ENTITY remoteXUL.title "દૂરસ્થ XUL">
+<!ENTITY remoteXUL.longDesc "<p><ul><li>મહેરબાની કરીને આ સમસ્યાને તેઓને જણાવવા માટે વેબસાઇટ માલિકોનો સંપર્ક કરો.</li></ul></p>">
+
