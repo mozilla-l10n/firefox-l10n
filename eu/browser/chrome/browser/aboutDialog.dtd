@@ -58,8 +58,8 @@
      channel.description.end create one sentence, with the current channel label inserted in between.
      example: You are currently on the _Stable_ update channel. -->
 
-<!ENTITY channel.description.start  "Kanal honetan zaude:">
-<!ENTITY channel.description.end    " eguneraketa-kanalean.">
+<!ENTITY channel.description.start  "">
+<!ENTITY channel.description.end    " eguneraketa-kanalean zaude.">
 
 <!ENTITY channel.change             "Aldatu">
 
@@ -71,7 +71,7 @@
      This is all in one line, so try to make the localized text short.
      example: Switch to the [Stable] update channel. -->
 
-<!ENTITY channel.selector.start          "Aldatu kanalera:">
+<!ENTITY channel.selector.start          "Aldatu">
 <!ENTITY channel.selector.end            "eguneraketa-kanalera.">
 <!-- LOCALIZATION NOTE (channel.selector.applyButton): This button applies the user's choice to switch
      to a new update channel and starts the application update process. -->
