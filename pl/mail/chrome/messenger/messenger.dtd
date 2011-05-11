@@ -447,7 +447,7 @@
 <!ENTITY tasksMenu.accesskey               "N">
 <!ENTITY addons.label                      "Dodatki">
 <!ENTITY addons.accesskey                  "D">
-<!ENTITY activitymanager.label             "Menedżer aktywności">
+<!ENTITY activitymanager.label             "Monitor aktywności">
 <!ENTITY activitymanager.accesskey         "M">
 <!ENTITY savedFiles.label                  "Zapisane pliki">
 <!ENTITY savedFiles.accesskey              "Z">
