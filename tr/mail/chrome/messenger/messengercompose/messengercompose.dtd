@@ -199,7 +199,10 @@
 <!ENTITY copyButton.tooltip "Kopyala">
 <!ENTITY pasteButton.tooltip "Yapıştır">
 <!-- Headers -->
+<!--LOCALIZATION NOTE headersSpace.style is for aligning  the From:, To: and
+    Subject: rows. It should be larger than the largest Header label  -->
 
+<!ENTITY headersSpace.style "width: 9em;">
 <!ENTITY fromAddr.label "Gönderen:">
 <!ENTITY fromAddr.accesskey "G">
 <!ENTITY toAddr.label "Kime:">

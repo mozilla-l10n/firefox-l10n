@@ -45,9 +45,6 @@
 
 <!ENTITY fileMenu.label "Dosya">
 <!ENTITY fileMenu.accesskey "D">
-<!ENTITY newBlankPageCmd.label "Düzenleyici sayfası">
-<!ENTITY newBlankPageCmd.accesskey "e">
-<!ENTITY newMenu.label "Yeni">
 <!ENTITY openFileCmd.label "Dosya aç…">
 <!ENTITY openFileCmd.accesskey "s">
 <!ENTITY openFileCmd.key "O">
@@ -69,14 +66,8 @@
 <!ENTITY publishCmd.key "S">
 <!ENTITY publishAsCmd.label "Farklı yayınla…">
 <!ENTITY publishAsCmd.accesskey "F">
-<!ENTITY exportToTextCmd.label "Metin olarak dışa aktar…">
-<!ENTITY exportToTextCmd.accesskey "M">
 <!ENTITY saveAsChangeEncodingCmd.label "Karakter kodlamasını kaydet ve değiştir">
 <!ENTITY saveAsChangeEncodingCmd.accesskey "t">
-<!ENTITY previewCmd.label "Sayfayı tarayıcıda önizle">
-<!ENTITY previewCmd.accesskey "ö">
-<!ENTITY sendPageCmd.label "Sayfa gönder…">
-<!ENTITY sendPageCmd.accesskey "g">
 <!ENTITY printSetupCmd.label "Sayfa ayarları…">
 <!ENTITY printSetupCmd.accesskey "a">
 <!ENTITY printCmd.label "Yazdır…">
@@ -116,8 +107,6 @@
 <!ENTITY checkSpellingCmd2.label "Yazımı Denetle">
 <!ENTITY checkSpellingCmd2.accesskey "D">
 <!ENTITY checkSpellingCmd2.key "p">
-<!ENTITY validateCmd.label "HTML geçerlilik denetlemesi">
-<!ENTITY validateCmd.accesskey "d">
 <!-- Insert menu items -->
 
 <!ENTITY insertMenu.label "Ekle">
@@ -333,11 +322,6 @@
 <!ENTITY decreaseIndent.accesskey "b">
 <!ENTITY decreaseIndent.key "[">
 
-<!ENTITY grid.label "Konumlandırma ızgarası">
-<!ENTITY grid.accesskey "K">
-
-<!ENTITY pageProperties.label "Sayfa başlığı ve özellikleri…">
-<!ENTITY pageProperties.accesskey "ğ">
 <!ENTITY colorsAndBackground.label "Sayfa renkleri ve zeminleri…">
 <!ENTITY colorsAndBackground.accesskey "z">
 <!-- Table Menu -->
@@ -407,13 +391,12 @@
 
 <!ENTITY menuBar.tooltip "Menü Çubuğu">
 <!ENTITY formatToolbar.tooltip "Araç Çubuğu Biçimi">
+<!ENTITY newToolbarCmd.label "Yeni">
 <!ENTITY newToolbarCmd.tooltip "Yeni bir Düzenleyici sayfası oluştur">
 <!ENTITY openToolbarCmd.label "Aç">
 <!ENTITY openToolbarCmd.tooltip "Yerel bir dosya aç">
 <!ENTITY saveToolbarCmd.tooltip "Yerel bir konuma dosya kaydet">
 <!ENTITY publishToolbarCmd.tooltip "Dosyayı uzak konuma gönder">
-<!ENTITY previewToolbarCmd.label "Gözat">
-<!ENTITY previewToolbarCmd.tooltip "Bu sayfayı Kılavuza yükle">
 <!ENTITY printToolbarCmd.label "Yazdır">
 <!ENTITY printToolbarCmd.tooltip "Bu sayfayı yazdır">
 <!ENTITY findToolbarCmd.label "Bul">

@@ -6,7 +6,6 @@
 <!ENTITY legendHeader "Öntanımlı arama motoru:">
 <!ENTITY defaultSearchEngine.label "Arama motoru:">
 <!ENTITY defaultSearchEngine.accesskey "A">
-<!-- Will be used by bug 595246 -->
 
 <!ENTITY engineManager.label "Arama motorlarını yönet…">
 

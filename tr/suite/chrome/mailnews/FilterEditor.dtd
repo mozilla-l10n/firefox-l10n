@@ -84,7 +84,6 @@
 <!ENTITY replyWithTemplate.label "Şablon ile yanıtla">
 <!ENTITY markMessageRead.label "İletiyi okunmuş olarak işaretle">
 <!ENTITY markMessageStarred.label "İletiyi işaretle">
-<!ENTITY labelMessage.label "İletiyi etiketle">
 <!ENTITY setPriority.label "Önemlilik">
 <!ENTITY addTag.label "İletiyi etiketle">
 <!ENTITY setJunkScore.label "Gereksiz durumunu ayarla">

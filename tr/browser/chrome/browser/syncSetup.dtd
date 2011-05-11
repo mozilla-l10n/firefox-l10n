@@ -43,7 +43,7 @@
 <!ENTITY setup.newSyncKeyPage.description.label "Tüm verileriniz sunucuya gönderilmeden önce gizliliğinizi korumak için şifrelenir. Şifreyi çözmek için gereken Sync anahtarı sunucuya gönderilmez.">
 <!ENTITY syncKeyEntry.label "Sync anahtarınız">
 <!ENTITY syncKeyEntry.accesskey "a">
-<!ENTITY syncKeyGenerate.label "Üret">
+<!ENTITY syncGenerateNewKey.label "Generate a new key">
 <!ENTITY syncKeyBackup.description "Sync anahtarınız diğer makinelerde &syncBrand.fullName.label; uygulamasına erişmek için gereklidir. Lütfen yedek kopyasını alın. Sync anahtarınızı kurtarmanıza yardım edemeyiz.">
 
 <!ENTITY button.syncKeyBackup.print.label "Yazdır...">
