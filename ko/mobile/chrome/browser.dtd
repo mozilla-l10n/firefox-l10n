@@ -95,6 +95,7 @@
 <!ENTITY contextSaveLink.label        "링크 저장">
 <!ENTITY contextShareLink.label       "링크 공유">
 <!ENTITY contextShareImage.label      "그림 공유">
+<!ENTITY contextBookmarkLink.label    "링크 북마크">
 <!ENTITY contextSaveVideo.label       "동영상 저장">
 <!ENTITY contextShareVideo.label      "동영상 공유">
 <!ENTITY contextPlayMedia.label       "재생">
