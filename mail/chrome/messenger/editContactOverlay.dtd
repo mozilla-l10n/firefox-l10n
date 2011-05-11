@@ -15,3 +15,5 @@
 
 <!ENTITY editContactPanelDone.label "Feito">
 <!ENTITY editContactPanelDone.accesskey "F">
+
+<!ENTITY contactMoveDisabledWarning.description "Não pode mudar o livro de endereços porque o contacto está numa lista de correio.">
