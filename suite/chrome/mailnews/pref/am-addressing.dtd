@@ -33,7 +33,7 @@
 <!ENTITY place.accesskey "v">
 <!ENTITY belowText.label "alıntı metnin altına koy (tavsiye edilen)">
 <!ENTITY aboveText.label "benim yanıtımın altına koy (alıntı metnin üstüne)">
-<!ENTITY includeSigOnReply.label "Yanıtlara imzayı ekle">
-<!ENTITY includeSigOnReply.accesskey "i">
+<!ENTITY includeSigOnReply.label "Include signature for replies">
+<!ENTITY includeSigOnReply.accesskey "I">
 <!ENTITY includeSigOnForward.label "İletilenlere imzayı ekle">
 <!ENTITY includeSigOnForward.accesskey "z">

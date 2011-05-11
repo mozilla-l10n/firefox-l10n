@@ -6,7 +6,6 @@
 <!ENTITY editBookmarkOverlay.feedLocation.accesskey "B">
 <!ENTITY editBookmarkOverlay.siteLocation.label "Site konumu:">
 <!ENTITY editBookmarkOverlay.siteLocation.accesskey "S">
-<!ENTITY editBookmarkOverlay.liveTitlesSeparator.label "Canlı başlıklar">
 <!ENTITY editBookmarkOverlay.folder.label "Dizin:">
 <!ENTITY editBookmarkOverlay.foldersExpanderDown.tooltip "Tüm yer imi dizinlerini gösterir">
 <!ENTITY editBookmarkOverlay.expanderUp.tooltip "Gizler">

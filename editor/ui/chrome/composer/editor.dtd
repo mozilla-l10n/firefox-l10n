@@ -44,10 +44,18 @@
 
 
 <!ENTITY compositionToolbar.tooltip "Composition Toolbar">
+<!ENTITY previewToolbarCmd.label "Browse">
+<!ENTITY previewToolbarCmd.tooltip "Bu sayfayı Kılavuza yükle">
+<!-- File menu items -->
+
+<!ENTITY exportToTextCmd.label "Metin olarak dışa aktar…">
+<!ENTITY exportToTextCmd.accesskey "M">
+<!ENTITY previewCmd.label "Sayfayı tarayıcıda önizle">
+<!ENTITY previewCmd.accesskey "ö">
+<!ENTITY sendPageCmd.label "Sayfa gönder…">
+<!ENTITY sendPageCmd.accesskey "g">
 <!-- View menu items -->
 
-<!ENTITY viewMenu.label "Göster ">
-<!ENTITY viewMenu.accesskey "G">
 <!ENTITY compositionToolbarCmd.label "Düzenleme araç çubuğu">
 <!ENTITY compositionToolbarCmd.accesskey "D">
 <!ENTITY formattingToolbarCmd.label "Biçem araç çubuğu">
@@ -58,6 +66,14 @@
 
 <!ENTITY formatMenu.label "Biçim">
 <!ENTITY formatMenu.accesskey "B">
+<!ENTITY grid.label "Konumlandırma ızgarası">
+<!ENTITY grid.accesskey "K">
+<!ENTITY pageProperties.label "Sayfa başlığı ve özellikleri…">
+<!ENTITY pageProperties.accesskey "ğ">
+<!-- Tools menu items -->
+
+<!ENTITY validateCmd.label "HTML geçerlilik denetlemesi">
+<!ENTITY validateCmd.accesskey "d">
 <!-- Display Mode toolbar and View menu items -->
 
 <!ENTITY NormalModeTab.label "Normal">

@@ -6,12 +6,9 @@
 <!ENTITY organize.accesskey "D">
 <!ENTITY organize.tooltip "Yer imlerinizi düzenleyin">
 
-<!ENTITY file.accesskey "D">
 <!ENTITY file.close.label "Kapat">
 <!ENTITY file.close.accesskey "K">
 <!ENTITY cmd.close.key "w">
-<!ENTITY edit.label "Düzen">
-<!ENTITY edit.accesskey "e">
 <!ENTITY views.label "Görünüm">
 <!ENTITY views.accesskey "m">
 <!ENTITY views.tooltip "Görünümü değiştirin">
@@ -70,14 +67,12 @@
 <!ENTITY cmd.new_bookmark.accesskey "m">
 <!ENTITY cmd.new_folder.label "Yeni dizin…">
 <!ENTITY cmd.new_folder.accesskey "d">
-<!ENTITY cmd.context_new_folder.accesskey "Z">
+<!ENTITY cmd.context_new_folder.accesskey "F">
 <!ENTITY cmd.new_separator.label "Yeni ayraç">
 <!ENTITY cmd.new_separator.accesskey "Y">
 
 <!ENTITY cmd.reloadLivebookmark.label "Canlı yer imini tazele">
 <!ENTITY cmd.reloadLivebookmark.accesskey "r">
-<!ENTITY cmd.reloadMicrosummary.label "Kısa özeti tazele">
-<!ENTITY cmd.reloadMicrosummary.accesskey "t">
 
 <!ENTITY cmd.moveBookmarks.label "Taşı…">
 <!ENTITY cmd.moveBookmarks.accesskey "T">
@@ -113,17 +108,14 @@
 <!ENTITY maintenance.accesskey "y">
 <!ENTITY maintenance.tooltip "Yer imlerinizi içe aktarın ve yedekleyin">
 
-<!ENTITY backCmd.label "Geri">
 <!ENTITY backButton.tooltip "Geriye gider">
 
-<!ENTITY forwardCmd.label "İleri">
 <!ENTITY forwardButton.tooltip "İleriye gider">
 
 <!ENTITY detailsPane.more.label "Daha fazla ayrıntı">
 <!ENTITY detailsPane.more.accesskey "a">
 <!ENTITY detailsPane.less.label "Daha az ayrıntı">
 <!ENTITY detailsPane.less.accesskey "a">
-<!ENTITY detailsPane.noPreviewAvailable.label "Önizleme">
 <!ENTITY detailsPane.selectAnItemText.description "Özelliklerini görmek ve değiştirmek için bir öğe seçin">
 
 <!ENTITY find.label "Arama:">

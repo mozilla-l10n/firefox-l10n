@@ -87,10 +87,10 @@
 <!ENTITY search.placeholder "Yer imlerinde ara">
 
 <!ENTITY search.in.label "Aranacak yer:">
-<!ENTITY search.scopeFolder.label "Seçili dizin">
-<!ENTITY search.scopeFolder.accesskey "d">
-<!ENTITY search.scopeBookmarks.label "Yer imleri">
-<!ENTITY search.scopeBookmarks.accesskey "Y">
+<!ENTITY search.scopeFolder.label "Selected Folder">
+<!ENTITY search.scopeFolder.accesskey "m">
+<!ENTITY search.scopeBookmarks.label "Bookmarks">
+<!ENTITY search.scopeBookmarks.accesskey "B">
 <!ENTITY saveSearch.label "Kaydet">
 <!ENTITY saveSearch.accesskey "K">
 
@@ -99,10 +99,10 @@
 <!ENTITY backButton.tooltip "Geriye gider">
 <!ENTITY forwardButton.tooltip "İleriye gider">
 
-<!ENTITY detailsPane.more.label "Daha fazla ayrıntı">
-<!ENTITY detailsPane.more.accesskey "a">
-<!ENTITY detailsPane.less.label "Daha az ayrıntı">
-<!ENTITY detailsPane.less.accesskey "a">
+<!ENTITY detailsPane.more.label "More">
+<!ENTITY detailsPane.more.accesskey "r">
+<!ENTITY detailsPane.fewer.label "Fewer">
+<!ENTITY detailsPane.fewer.accesskey "r">
 <!ENTITY detailsPane.selectAnItemText.description "Özelliklerini görmek ve değiştirmek için bir öğe seçin">
 
 <!ENTITY editBookmark.done.label "Tamamlandı">

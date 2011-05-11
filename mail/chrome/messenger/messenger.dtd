@@ -39,7 +39,6 @@
 <!ENTITY saveAsFileCmd.key "s">
 <!ENTITY saveAsTemplateCmd.label "Geçici">
 <!ENTITY saveAsTemplateCmd.accesskey "c">
-<!ENTITY getNewMsgCmd.key "t">
 <!ENTITY getNewMsgForCmd.label "Yeni postalara bak">
 <!ENTITY getNewMsgForCmd.accesskey "i">
 <!ENTITY getAllNewMsgCmdPopupMenu.label "Bütün hesaplar…">
@@ -522,7 +521,6 @@ you can use these alternative items. Otherwise, their values should be empty.  -
 <!ENTITY getMsgButton.tooltip "Yeni iletileri indir">
 <!ENTITY getAllNewMsgCmd.label "Tüm yeni postaları indir">
 <!ENTITY getAllNewMsgCmd.accesskey "T">
-<!ENTITY getAllNewMsgCmd.key "t">
 <!ENTITY newMsgButton.tooltip "Yeni ileti yaz">
 <!ENTITY replyButton.tooltip "İletiyi yanıtla">
 <!ENTITY replyAllButton.tooltip "Göndereni ve tüm alıcıları yanıtla">
@@ -759,12 +757,14 @@ you can use these alternative items. Otherwise, their values should be empty.  -
 
 <!ENTITY phishingBarMessage2.label "İleti, sahtekârlık girişimi olabilir.">
 <!ENTITY removePhishingBarButton1.label "Uyarıyı görmezden gel">
+<!ENTITY disablePhishingWarning1.label "Disable scam detection for all messages">
 <!ENTITY reportPhishingError1.label "İleti, sahtekârlık girişimine benzemiyor.">
 <!-- MDN Bar -->
 
-<!ENTITY mdnBarMessage.label "The sender of this message has asked to be notified when you read this message. Do you wish to notify the sender?">
-<!ENTITY mdnBarIgnoreButton.label "İsteği görmezden gel">
-<!ENTITY mdnBarSendButton.label "Alındı onayı gönder">
+<!ENTITY mdnBarIgnoreButton2.label "Görmezden gel">
+<!ENTITY mdnBarIgnoreButton2.accesskey "G">
+<!ENTITY mdnBarSendButton2.label "Send Return Receipt">
+<!ENTITY mdnBarSendButton2.accesskey "S">
 <!-- Quick Search Bar -->
 <!-- LOCALIZATION NOTE (quickSearchCmd.key):
      This is actually the key used for the global message search box; we have
