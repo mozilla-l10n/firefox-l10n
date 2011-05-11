@@ -4,12 +4,9 @@
 <!ENTITY organize.label "Управление">
 <!ENTITY organize.accesskey "а">
 <!ENTITY organize.tooltip "Управление вашими закладками">
-<!ENTITY file.accesskey "Ф">
 <!ENTITY file.close.label "Закрыть">
 <!ENTITY file.close.accesskey "З">
 <!ENTITY cmd.close.key "w">
-<!ENTITY edit.label "Правка">
-<!ENTITY edit.accesskey "П">
 <!ENTITY views.label "Вид">
 <!ENTITY views.accesskey "и">
 <!ENTITY views.tooltip "Изменение внешнего вида">
@@ -93,15 +90,12 @@
 <!ENTITY maintenance.label "Импорт и резервирование">
 <!ENTITY maintenance.accesskey "о">
 <!ENTITY maintenance.tooltip "Импорт и резервирование ваших закладок">
-<!ENTITY backCmd.label "Назад">
 <!ENTITY backButton.tooltip "Перейти назад">
-<!ENTITY forwardCmd.label "Вперёд">
 <!ENTITY forwardButton.tooltip "Перейти вперёд">
 <!ENTITY detailsPane.more.label "Больше">
 <!ENTITY detailsPane.more.accesskey "ш">
 <!ENTITY detailsPane.less.label "Меньше">
 <!ENTITY detailsPane.less.accesskey "ш">
-<!ENTITY detailsPane.noPreviewAvailable.label "Предпросмотр">
 <!ENTITY detailsPane.selectAnItemText.description "Выберите элемент для просмотра и редактирования его свойств">
 <!ENTITY find.label "Найти:">
 <!ENTITY find.accesskey "й">
