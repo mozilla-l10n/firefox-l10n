@@ -25,7 +25,7 @@
 <!ENTITY imap.label         "IMAP">
 <!ENTITY pop3.label         "POP3">
 <!ENTITY smtp.label         "SMTP">
-<!ENTITY autodetect.label   "Wykryj automatycznie">
+<!ENTITY autodetect.label   "Wykryj">
 <!ENTITY noEncryption.label "Bez szyfrowania">
 <!ENTITY starttls.label     "STARTTLS">
 <!ENTITY sslTls.label       "SSL/TLS">
@@ -39,7 +39,7 @@
 <!ENTITY stop.label              "Zatrzymaj">
 <!ENTITY stop.accesskey          "m">
 
-<!ENTITY half-manual-test.label     "Testuj ponownie"><!-- FIXME: a może wykryj? -->
+<!ENTITY half-manual-test.label     "Wykryj ponownie">
 <!ENTITY half-manual-test.accesskey "T">
 <!ENTITY manual-edit.label          "Edytuj">
 <!ENTITY manual-edit.accesskey      "E">
