@@ -4,12 +4,9 @@
 <!ENTITY organize.label "Organizar">
 <!ENTITY organize.accesskey "O">
 <!ENTITY organize.tooltip "Organice sus marcadores">
-<!ENTITY file.accesskey "A">
 <!ENTITY file.close.label "Cerrar">
 <!ENTITY file.close.accesskey "C">
 <!ENTITY cmd.close.key "w">
-<!ENTITY edit.label "Editar">
-<!ENTITY edit.accesskey "E">
 <!ENTITY views.label "Vistas">
 <!ENTITY views.accesskey "V">
 <!ENTITY views.tooltip "Cambie la vista">
@@ -93,15 +90,12 @@
 <!ENTITY maintenance.label "Importar y respaldar">
 <!ENTITY maintenance.accesskey "I">
 <!ENTITY maintenance.tooltip "Importe y exporte sus marcadores">
-<!ENTITY backCmd.label "Atrás">
 <!ENTITY backButton.tooltip "Ir atrás">
-<!ENTITY forwardCmd.label "Adelante">
 <!ENTITY forwardButton.tooltip "Ir adelante">
 <!ENTITY detailsPane.more.label "Más">
 <!ENTITY detailsPane.more.accesskey "M">
 <!ENTITY detailsPane.less.label "Menos">
 <!ENTITY detailsPane.less.accesskey "e">
-<!ENTITY detailsPane.noPreviewAvailable.label "Previsualizar">
 <!ENTITY detailsPane.selectAnItemText.description "Selecciona un elemento para ver y editar sus propiedades">
 <!ENTITY find.label "Buscar:">
 <!ENTITY find.accesskey "u">
