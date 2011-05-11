@@ -15,3 +15,5 @@
 
 <!ENTITY editContactPanelDone.label "Hotovo">
 <!ENTITY editContactPanelDone.accesskey "H">
+
+<!ENTITY contactMoveDisabledWarning.description "Nelze změnit adresář, neboť kontakt je součástí skupiny.">
