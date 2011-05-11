@@ -8,6 +8,7 @@
 <!ENTITY enablePlugins.title                       "Gaitu plugin-ak">
 <!ENTITY privacy.title                             "Pribatutasuna eta segurtasuna">
 <!ENTITY allowCookies.title                        "Baimendu cookie-ak">
+<!ENTITY doNotTrack.title                          "Esan webguneei nire jarraipenik ez egiteko">
 <!ENTITY clearPrivateData2.title                   "Garbitu datu pribatuak">
 <!ENTITY clearPrivateData.button                   "Garbitu">
 <!ENTITY rememberPasswords.title                   "Gogoratu pasahitzak">

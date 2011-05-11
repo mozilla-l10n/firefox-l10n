@@ -95,6 +95,7 @@
 <!ENTITY contextSaveImage.label       "Gorde irudia">
 <!ENTITY contextShareLink.label       "Partekatu lotura">
 <!ENTITY contextShareImage.label      "Partekatu irudia">
+<!ENTITY contextBookmarkLink.label    "Loturaren laster-marka…">
 <!ENTITY contextSaveVideo.label       "Gorde bideoa">
 <!ENTITY contextShareVideo.label      "Partekatu bideoa">
 <!ENTITY contextPlayMedia.label       "Erreproduzitu">
