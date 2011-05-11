@@ -6,12 +6,9 @@
 <!ENTITY organize.accesskey    "O">
 <!ENTITY organize.tooltip      "管理您的書籤">
 
-<!ENTITY file.accesskey                 "F">
 <!ENTITY file.close.label               "關閉">
 <!ENTITY file.close.accesskey           "C">
 <!ENTITY cmd.close.key                  "w">
-<!ENTITY edit.label                     "編輯">
-<!ENTITY edit.accesskey                 "E">
 <!ENTITY views.label                    "檢視">
 <!ENTITY views.accesskey                "V">
 <!ENTITY views.tooltip                  "變更檢視方式">
@@ -111,17 +108,14 @@
 <!ENTITY maintenance.accesskey  "I">
 <!ENTITY maintenance.tooltip    "匯入與備份您的書籤">
 
-<!ENTITY backCmd.label       "上一頁">
 <!ENTITY backButton.tooltip  "回上一頁">
 
-<!ENTITY forwardCmd.label       "下一頁">
 <!ENTITY forwardButton.tooltip  "到下一頁">
 
 <!ENTITY detailsPane.more.label "更多欄位">
 <!ENTITY detailsPane.more.accesskey "e">
 <!ENTITY detailsPane.less.label "減少欄位">
 <!ENTITY detailsPane.less.accesskey "e">
-<!ENTITY detailsPane.noPreviewAvailable.label "預覽">
 <!ENTITY detailsPane.selectAnItemText.description "請選擇一個項目以檢視或編輯其屬性">
 
 <!ENTITY find.label               "搜尋:">
