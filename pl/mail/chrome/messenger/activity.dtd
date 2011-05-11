@@ -1,10 +1,7 @@
-<!-- window.width2, window.height) values should be close to the golden ratio (1.618:1)
-     while making sure it's wide enough for long file names and tall enough to hint that
-     there are more activities in the list -->
 <!ENTITY window.width2 "485">
 <!ENTITY window.height "300">
 
-<!ENTITY activity.title "Menedżer aktywności">
+<!ENTITY activity.title "Monitor aktywności">
 
 <!ENTITY cmd.pause.label              "Wstrzymaj">
 <!ENTITY cmd.pause.accesskey          "W">
