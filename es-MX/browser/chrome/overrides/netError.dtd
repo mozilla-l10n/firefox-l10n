@@ -52,7 +52,7 @@
 <!ENTITY unsafeContentType.title "Tipo de archivo inseguro">
 <!ENTITY unsafeContentType.longDesc "
 <ul>
-  <li>Contacte a los propietarios del sitio web para informarles sobre este problema.</li>
+  <li>Contacta a los propietarios del sitio web para informarles sobre este problema.</li>
 </ul>
 ">
 <!ENTITY netReset.title "La conexión se reinició">
@@ -141,3 +141,5 @@
 <button id='getMeOutOfHereButton'>&securityOverride.getMeOutOfHereButton;</button>
 <button id='exceptionDialogButton'>&securityOverride.exceptionButtonLabel;</button>
 ">
+<!ENTITY remoteXUL.title "XUL remoto">
+<!ENTITY remoteXUL.longDesc "<p><ul><li>Por favor, contacta con los propietarios del sitio web para informarles de este problema.</li></ul></p>">
