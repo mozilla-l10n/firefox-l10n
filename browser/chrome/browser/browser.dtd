@@ -17,7 +17,7 @@
 <!ENTITY moveToNewGroup.label "Nuevo Grupo">
 <!ENTITY moveToNewWindow.label "Mover a una nueva ventana">
 <!ENTITY moveToNewWindow.accesskey "V">
-<!ENTITY bookmarkAllTabs.label "Agregar todas a marcadores">
+<!ENTITY bookmarkAllTabs.label "Agregar todas las pestañas…">
 <!ENTITY bookmarkAllTabs.accesskey "t">
 <!ENTITY undoCloseTab.label "Deshacer el cierre de la última pestaña">
 <!ENTITY undoCloseTab.accesskey "D">
@@ -78,9 +78,9 @@
 <!ENTITY bookmarkThisPageCmd.commandkey "d">
 <!ENTITY subscribeToPageMenupopup.label "Suscribirse a esta página">
 <!ENTITY subscribeToPageMenuitem.label "Suscribirse a esta página…">
-<!ENTITY addCurPagesCmd.label "Agregar las pestañas abiertas…">
+<!ENTITY addCurPagesCmd.label "Agregar todas las pestañas…">
 <!ENTITY showAllBookmarks2.label "Mostrar todos los marcadores">
-<!ENTITY bookmarkAllCmd.label "Agregar las pestañas abiertas…">
+<!ENTITY bookmarkAllCmd.label "Agregar todas las pestañas…">
 <!ENTITY bookmarksToolbarChevron.tooltip "Mostrar más">
 <!ENTITY backCmd.label "Anterior">
 <!ENTITY backCmd.accesskey "t">
