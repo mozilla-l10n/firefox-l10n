@@ -40,9 +40,6 @@
 <!ENTITY printCmd.accesskey "r">
 <!ENTITY printCmd.commandkey "p">
 
-<!ENTITY viewMenu.label "Göster">
-<!ENTITY viewMenu.accesskey "G">
-
 <!ENTITY toolbarsCmd.label "Göster/gizle">
 <!ENTITY toolbarsCmd.accesskey "ö">
 <!ENTITY navbarCmd.label "Gezinti araç çubuğu">

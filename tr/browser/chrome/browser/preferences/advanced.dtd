@@ -67,7 +67,7 @@
 <!ENTITY whenUpdatesFound.label "&brandShortName; için güncelleme bulunursa:">
 <!ENTITY askMe.label "Ne yapmak istediğimi sor">
 <!ENTITY askMe.accesskey "s">
-<!ENTITY modeAutomatic.label "Güncellemeleri kendiliğineden indir ve kur">
+<!ENTITY modeAutomatic.label "Güncellemeleri kendiliğinden indir ve kur">
 <!ENTITY modeAutomatic.accesskey "d">
 <!ENTITY modeAutoAddonWarn.label "Bu işlem kurulu eklentilerimden herhangi birini devre dışı bırakacaksa beni uyar">
 <!ENTITY modeAutoAddonWarn.accesskey "u">
