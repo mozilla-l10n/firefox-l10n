@@ -168,3 +168,5 @@ functionality specific to firefox. -->
 <button id='getMeOutOfHereButton'>&securityOverride.getMeOutOfHereButton;</button>
 <button id='exceptionDialogButton'>&securityOverride.exceptionButtonLabel;</button>
 ">
+<!ENTITY remoteXUL.longDesc "<p><ul><li>ఈ సమస్య గురించి వారికి తెలుపుటకు దయచేసి వెబ్‌సైట్ స్వంతదారులను సంప్రదించండి.</li></ul></p>">
+<!ENTITY remoteXUL.title "రిమోట్ XUL">

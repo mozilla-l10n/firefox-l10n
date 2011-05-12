@@ -94,5 +94,7 @@
 <!ENTITY  acceptThirdParty.label        "మూడో-వ్యక్తి కుకీలను ఆమోదించుము">
 
 <!ENTITY  acceptThirdParty.accesskey    "c">
-
+<!ENTITY tracking.label                 "ఆరాతీస్తోంది">
+<!ENTITY doNotTrack.label               "నా గురించి ఆరాతీయొద్దని వెబ్ సైట్లకు చెప్పు">
+<!ENTITY doNotTrack.accesskey           "d">
 
