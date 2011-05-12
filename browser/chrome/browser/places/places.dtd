@@ -6,12 +6,9 @@
 <!ENTITY organize.accesskey "O">
 <!ENTITY organize.tooltip "Organiser les marque-pages">
 
-<!ENTITY file.accesskey "F">
 <!ENTITY file.close.label "Fermer">
 <!ENTITY file.close.accesskey "F">
 <!ENTITY cmd.close.key "w">
-<!ENTITY edit.label "Modifier">
-<!ENTITY edit.accesskey "M">
 <!ENTITY views.label "Affichage">
 <!ENTITY views.accesskey "A">
 <!ENTITY views.tooltip "Modifier l'affichage">
@@ -111,9 +108,7 @@
 <!ENTITY maintenance.accesskey "I">
 <!ENTITY maintenance.tooltip "Importer et sauvegarder les marque-pages">
 
-<!ENTITY backCmd.label "Retour">
 <!ENTITY backButton.tooltip "Retour en arrière">
-<!ENTITY forwardCmd.label "Suivant">
 <!ENTITY forwardButton.tooltip "Avancer">
 
 <!ENTITY detailsPane.more.label "Plus">
@@ -121,7 +116,6 @@
 <!ENTITY detailsPane.less.label "Moins">
 <!ENTITY detailsPane.less.accesskey "s">
 
-<!ENTITY detailsPane.noPreviewAvailable.label "Aperçu">
 <!ENTITY detailsPane.selectAnItemText.description "Sélectionner un élément pour afficher et modifier ses propriétés">
 
 <!ENTITY find.label               "Chercher :">
