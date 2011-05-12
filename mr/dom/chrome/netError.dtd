@@ -73,7 +73,8 @@
 <p>अशा पानावर कुठलिही माहिती प्रविष्ट केल्यास आपली ओळख सदोषीत किंवा बनावटी ठरू शकते.</p>
 <p>या प्रकारच्या वेब बनावटीपण फिशींग प्रहार सारखे घोटळ्यां मध्ये पाहिला जातो, जेथे सदोषीत वेब पान व इमेलचा वापर मुळ व अधिकृत स्त्रोत म्हणून दर्शविला जातो.</p>
 ">
-<!ENTITY netErrorAppDTD SYSTEM "chrome://global/locale/netErrorApp.dtd">
+<!ENTITY % netErrorAppDTD SYSTEM "chrome://global/locale/netErrorApp.dtd">
+%netErrorAppDTD;
 <!ENTITY netOffline.overrideLongDesc "<p>ब्राउजर ऑफलाइन मोडमध्ये कार्य करत आहे व विनंतीकृत घटकाशी जोडणी करू शकत नाही.</p><ul><li>संगणक सक्रिय नेटवर्कशी जुडले आहे?</li><li>ब्राउजरला ऑफलाइन मोडमध्ये चालवा व पुनः प्रयत्न करा.</li></ul>">
 <!ENTITY cspFrameAncestorBlocked.title "अंतर्भुत माहिती सुरक्षा धोरणद्वारे रोखले गेले">
 <!ENTITY cspFrameAncestorBlocked.longDesc "<p>पानामध्ये अंतर्भुत माहिती सुरक्षा धोरण आढळल्यामुळे ब्राउजरने पानाला याप्रकारे लोड होण्यापासून रोखले.</p>">
