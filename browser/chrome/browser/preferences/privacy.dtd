@@ -1,7 +1,7 @@
-<!ENTITY tracking.label                 "Tracking">
+<!ENTITY tracking.label                 "Urmărire">
 
-<!ENTITY doNotTrack.label               "Tell web sites I do not want to be tracked">
-<!ENTITY doNotTrack.accesskey           "d">
+<!ENTITY doNotTrack.label               "Informează saiturile web că nu vreau să fiu urmărit">
+<!ENTITY doNotTrack.accesskey           "I">
 
 <!ENTITY  history.label                 "Istoric">
 
