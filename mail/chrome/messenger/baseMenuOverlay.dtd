@@ -21,6 +21,5 @@
 <!ENTITY openHelpMac.label "&brandShortName; hjálp">
 <!ENTITY openHelpMac2.commandkey "?">
 <!ENTITY openHelpMac2.modifiers "accel">
-<!ENTITY updateCmd.label "Athuga með uppfærslur…">
 <!ENTITY aboutMenuCmd.label "Um &brandShortName;">
 <!ENTITY aboutMenuCmd.accesskey "U">

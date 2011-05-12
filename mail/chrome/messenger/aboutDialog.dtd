@@ -1,15 +1,68 @@
 <!ENTITY aboutDialog.title "Um &brandFullName;">
-<!ENTITY aboutButton.label "&lt; Til baka">
-<!ENTITY aboutButton.accesskey "T">
-<!ENTITY aboutVersion "útgáfa">
-<!ENTITY aboutMenu.label "Um">
-<!ENTITY aboutMenu.accesskey "U">
-<!ENTITY aboutCredits.label "Þakkir">
-<!ENTITY aboutCredits.accesskey "Þ">
-<!ENTITY aboutRights.label "Þín réttindi">
-<!ENTITY aboutRights.accesskey "n">
-<!ENTITY aboutContributors.label "Þátttakendur">
-<!ENTITY aboutContributors.accesskey "t">
-<!ENTITY aboutLicense.label "Leyfi">
-<!ENTITY aboutLicense.accesskey "L">
+<!ENTITY community.start2 "&brandShortName; er hannað af ">
+<!-- LOCALIZATION NOTE (community.mozillaLink): This is a link title that links to http://www.mozilla.org/. -->
+<!ENTITY community.mozillaLink "&vendorShortName;">
+<!ENTITY community.middle2 ", sem er ">
+<!-- LOCALIZATION NOTE (community.creditsLink): This is a link title that links to about:credits. -->
+<!ENTITY community.creditsLink "samfélag">
+<!ENTITY community.end2 " sem vinnur að því að gera Internetið betra. Okkar trú er að Internetið ætti að vera frjálst, opið, og aðgengilegt öllum án takmarkana.">
+<!ENTITY contribute.start "Hljómar vel? ">
+<!-- LOCALIZATION NOTE (contribute.getInvolvedLink): This is a link title that links to http://www.mozilla.org/contribute/. -->
+<!ENTITY contribute.getInvolvedLink "Taktu þátt!">
+<!ENTITY contribute.end "">
+<!-- LOCALIZATION NOTE (bottomLinks.license): This is a link title that links to about:license. -->
+<!ENTITY bottomLinks.license "Leyfisupplýsingar">
+<!-- LOCALIZATION NOTE (bottomLinks.rights): This is a link title that links to about:rights. -->
+<!ENTITY bottomLinks.rights "Notendaréttindi">
+<!-- LOCALIZATION NOTE (bottomLinks.privacy): This is a link title that links to http://www.mozilla.com/legal/privacy/. -->
+<!ENTITY bottomLinks.privacy "Meðferð persónuupplýsinga">
+<!-- LOCALIZATION NOTE (update.checkingForUpdates): try to make the localized text short (see bug 596813 for screenshots). -->
+<!ENTITY update.checkingForUpdates "Athuga með uppfærslur…">
+<!-- LOCALIZATION NOTE (update.checkingAddonCompat): try to make the localized text short (see bug 596813 for screenshots). -->
+<!ENTITY update.checkingAddonCompat "Athuga samhæfni viðbótar…">
+<!-- LOCALIZATION NOTE (update.noUpdatesFound): try to make the localized text short (see bug 596813 for screenshots). -->
+<!ENTITY update.noUpdatesFound "&brandShortName; er þegar með nýjustu útgáfu">
+<!-- LOCALIZATION NOTE (update.adminDisabled): try to make the localized text short (see bug 596813 for screenshots). -->
+<!ENTITY update.adminDisabled "Uppfærslur hafa verið gerðar óvirkar af kerfistjóra">
+<!-- LOCALIZATION NOTE (update.failed.start,update.failed.linkText,update.failed.end):
+     update.failed.start, update.failed.linkText, and update.failed.end all go into
+     one line with linkText being wrapped in an anchor that links to a site to download
+     the latest version of Firefox (e.g. http://www.firefox.com). As this is all in
+     one line, try to make the localized text short (see bug 596813 for screenshots). -->
+<!ENTITY update.failed.start "Uppfærsla mistókst. ">
+<!ENTITY update.failed.linkText "Niðurhala nýjustu útgáfu">
+<!ENTITY update.failed.end "">
+<!-- LOCALIZATION NOTE (update.manual.start,update.manual.end): update.manual.start and update.manual.end
+     all go into one line and have an anchor in between with text that is the same as the link to a site
+     to download the latest version of Firefox (e.g. http://www.firefox.com). As this is all in one line,
+     try to make the localized text short (see bug 596813 for screenshots). -->
+<!ENTITY update.manual.start "Niðurhala ">
+<!ENTITY update.manual.linkText "nýjustu útgáfu">
+<!ENTITY update.manual.end "">
+<!-- LOCALIZATION NOTE (update.downloading.start,update.downloading.end): update.downloading.start and 
+     update.downloading.end all go into one line, with the amount downloaded inserted in between. As this
+     is all in one line, try to make the localized text short (see bug 596813 for screenshots). The — is
+     the "em dash" (long dash).
+     example: Downloading update — 111 KB of 13 MB -->
+<!ENTITY update.downloading.start "Niðurhala uppfærslu — ">
+<!ENTITY update.downloading.end "">
+<!-- LOCALIZATION NOTE (channel.description.start,channel.description.end): channel.description.start and
+     channel.description.end create one sentence, with the current channel label inserted in between.
+     example: You are currently on the _Stable_ update channel. -->
+<!ENTITY channel.description.start "Þú ert núna á ">
+<!ENTITY channel.description.end " uppfærslu rásinni. ">
+<!ENTITY channel.change "Breyta">
+<!ENTITY channel.release.description "Njóttu lokaútgáfunnar sem hefur verið vel prófuð og er notuð af hundruðum milljóna notenda út um allan heim. Vertu við stjórnvölinn þegar þú vafrar á miklum hraða, með einfalda möguleika á að sérsníða og með nýjustu nettæknina.">
+<!ENTITY channel.beta.description "Upplifðu nýjustu tæknina en með meiri stöðugleika. Sendu inn þínar skoðanir til að hjálpa til við að fínstilla og laga það sem verður í lokaútgáfunni.">
+<!ENTITY channel.aurora.description "Upplifðu nýjustu nýjungarnar í óstöðugu umhverfi, þetta er alls ekki fyrir viðkvæma. Sendu inn þínar skoðanir um eiginleika og hraða til að hjálpa til við að ákveða hvað verður í lokaútgáfunni.">
+<!-- LOCALIZATION NOTE (channel.selector.start,channel.selector.end): channel.selector.start and
+     channel.selector.end create one sentence, with a channel selection menulist instered in between.
+     This is all in one line, so try to make the localized text short.
+     example: Switch to the [Stable] update channel. -->
+<!ENTITY channel.selector.start "Skipta yfir í">
+<!ENTITY channel.selector.end "uppfærslu rásina.">
+<!-- LOCALIZATION NOTE (channel.selector.applyButton): This button applies the user's choice to switch
+     to a new update channel and starts the application update process. -->
+<!ENTITY channel.selector.applyButton "Virkja og uppfæra">
+<!ENTITY channel.selector.cancelButton "Hætta við">
 <!ENTITY cmdCloseMac.commandKey "w">

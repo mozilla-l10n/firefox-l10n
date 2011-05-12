@@ -10,3 +10,4 @@
 <!ENTITY editContactPanelCancel.accesskey "H">
 <!ENTITY editContactPanelDone.label "Ljúka">
 <!ENTITY editContactPanelDone.accesskey "L">
+<!ENTITY contactMoveDisabledWarning.description "Þú getur ekki breytt nafnaskránni vegna þess að tengiliðurinn er á póstlista.">

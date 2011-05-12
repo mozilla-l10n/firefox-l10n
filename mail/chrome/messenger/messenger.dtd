@@ -37,7 +37,6 @@
 <!ENTITY saveAsFileCmd.key "s">
 <!ENTITY saveAsTemplateCmd.label "Sniðmát">
 <!ENTITY saveAsTemplateCmd.accesskey "t">
-<!ENTITY getNewMsgCmd.key "t">
 <!ENTITY getNewMsgForCmd.label "Ná í nýjan póst fyrir">
 <!ENTITY getNewMsgForCmd.accesskey "j">
 <!ENTITY getAllNewMsgCmdPopupMenu.label "Alla reikninga">
@@ -500,7 +499,6 @@ you can use these alternative items. Otherwise, their values should be empty.  -
 <!ENTITY getMsgButton.tooltip "Ná í nýjan póst">
 <!ENTITY getAllNewMsgCmd.label "Ná í nýjan póst">
 <!ENTITY getAllNewMsgCmd.accesskey "N">
-<!ENTITY getAllNewMsgCmd.key "t">
 <!ENTITY newMsgButton.tooltip "Búa til nýjan póst">
 <!ENTITY replyButton.tooltip "Svara pósti">
 <!ENTITY replyAllButton.tooltip "Svara sendanda og öllum viðtakendum">
