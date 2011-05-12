@@ -30,8 +30,8 @@
 <!ENTITY starttls.label     "STARTTLS">
 <!ENTITY sslTls.label       "SSL/TLS">
 
-<!ENTITY advancedSetup.label     "Konfiguracja zaawansowana"><!-- FIXME było: Utwórz konto i edytuj jego ustawienia… (sprawdzić) -->
-<!ENTITY advancedSetup.accesskey "K">
+<!ENTITY advancedSetup.label     "Utwórz konto i edytuj jego ustawienia…">
+<!ENTITY advancedSetup.accesskey "e">
 <!ENTITY cancel.label            "Anuluj">
 <!ENTITY cancel.accesskey        "A">
 <!ENTITY continue.label          "Kontynuuj">
@@ -41,8 +41,8 @@
 
 <!ENTITY half-manual-test.label     "Wykryj ponownie">
 <!ENTITY half-manual-test.accesskey "T">
-<!ENTITY manual-edit.label          "Edytuj">
-<!ENTITY manual-edit.accesskey      "E">
+<!ENTITY manual-edit.label          "Konfiguracja zaawansowana">
+<!ENTITY manual-edit.accesskey      "K">
 
 <!ENTITY warning.label            "Ostrzeżenie!">
 <!ENTITY incomingSettings.label   "Ustawienia dla poczty przychodzącej:">
