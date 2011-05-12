@@ -15,3 +15,5 @@
 
 <!ENTITY editContactPanelDone.label "Færdig">
 <!ENTITY editContactPanelDone.accesskey "F">
+
+<!ENTITY contactMoveDisabledWarning.description "Du kan ikke skifte adressebog, eftersom kontakten er i en mailingliste.">

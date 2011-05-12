@@ -44,10 +44,18 @@
 
 <!-- Toolbar-only items -->
 <!ENTITY compositionToolbar.tooltip "Kompositionslinje">
+<!ENTITY previewToolbarCmd.label "Browser">
+<!ENTITY previewToolbarCmd.tooltip "Vis denne side i browseren">
+
+<!-- File menu items -->
+<!ENTITY exportToTextCmd.label "Eksporter til tekst…">
+<!ENTITY exportToTextCmd.accesskey "T">
+<!ENTITY previewCmd.label "Vis side">
+<!ENTITY previewCmd.accesskey "V">
+<!ENTITY sendPageCmd.label "Send side…">
+<!ENTITY sendPageCmd.accesskey "S">
 
 <!-- View menu items -->
-<!ENTITY viewMenu.label "Vis">
-<!ENTITY viewMenu.accesskey "V">
 <!ENTITY compositionToolbarCmd.label "Kompositionslinje">
 <!ENTITY compositionToolbarCmd.accesskey "k">
 <!ENTITY formattingToolbarCmd.label "Formateringslinje">
