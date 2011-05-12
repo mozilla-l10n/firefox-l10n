@@ -197,7 +197,7 @@
 <!ENTITY pasteButton.tooltip     "Wklej">
 
 <!-- Headers -->
-<!ENTITY headersSpace.style    "width: 14em;">
+<!ENTITY headersSpace.style    "width: 11.25em;">
 <!ENTITY fromAddr.label        "Nadawca:">
 <!ENTITY fromAddr.accesskey    "d">
 <!ENTITY toAddr.label          "Do:">
