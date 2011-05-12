@@ -55,3 +55,6 @@
 <!ENTITY  privateBrowsingPermanent.accesskey "P">
 <!ENTITY  rememberHistory.label      "माझा ब्राउजिंग इतिहास लक्षात ठेवा">
 <!ENTITY  rememberHistory.accesskey  "b">
+<!ENTITY tracking.label                 "ट्रॅकिंग">
+<!ENTITY doNotTrack.label               "संकेतस्थळांनी मला ट्रॅक करायचे नाही">
+<!ENTITY doNotTrack.accesskey           "d">
