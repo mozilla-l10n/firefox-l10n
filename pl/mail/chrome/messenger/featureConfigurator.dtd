@@ -32,8 +32,8 @@
 <!ENTITY featureConfigurator.autoSync.on.explanation   "Synchronizacja pozwala na szybsze wczytywanie wiadomości i lepsze wyszukiwania.">
 <!ENTITY featureConfigurator.autoSync.off              "Nie synchronizuj">
 <!ENTITY featureConfigurator.autoSync.off.explanation  "Brak synchronizacji oznacza wolniejsze wczytywanie wiadomości i niepełne wyniki wyszukiwania.">
-<!ENTITY featureConfigurator.autoSync.some             "Zaawansowana konfiguracja synchronizacji">
-<!ENTITY featureConfigurator.autoSync.some.explanation "Zaawansowana konfiguracja pozwala włączyć synchronizację dla każdego konta i folderu z osobna.">
+<!ENTITY featureConfigurator.autoSync.some             "Synchronizacja według ustawień kont">
+<!ENTITY featureConfigurator.autoSync.some.explanation "Dostosuj metodę synchornizacji dla każdego konta i folderu z osbna.">
 <!ENTITY featureConfigurator.diskSpace.currentSize     "Obecna objętość poczty na dysku twardym:">
 <!ENTITY featureConfigurator.diskSpace.freeSpace       "Wolne miejsce:">
 <!ENTITY featureConfigurator.diskSpace.requireSpace    "Wymagane:">
