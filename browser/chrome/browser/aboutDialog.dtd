@@ -55,4 +55,29 @@
 <!ENTITY update.downloading.start   "ಅಪ್‌ಡೇಟ್‌ ಅನ್ನು ಡೌನ್‌ಲೋಡ್ ಮಾಡಿಕೊಳ್ಳಲಾಗುತ್ತಿದೆ — ">
 <!ENTITY update.downloading.end     "">
 
+<!-- LOCALIZATION NOTE (channel.description.start,channel.description.end): channel.description.start and
+     channel.description.end create one sentence, with the current channel label inserted in between.
+     example: You are currently on the _Stable_ update channel. -->
+<!ENTITY channel.description.start  "ನೀವು ಈಗ ">
+<!ENTITY channel.description.end    " ಅಪ್‌ಡೇಟ್ ಚಾನಲ್‌ನಲ್ಲಿದ್ದೀರಿ. ">
+
+<!ENTITY channel.change             "ಬದಲಾಯಿಸು">
+
+<!ENTITY channel.release.description       "ಜಗತ್ತಿನಾದ್ಯಂತ ನೂರಾರು ಮಿಲಿಯನ್ ಬಳಕೆದಾರರು ಪ್ರಯತ್ನಿಸಿ ಹಾಗು ಪರೀಕ್ಷಿಸಲಾದ ಅಂತಿಮ ಬಿಡುಗಡೆಯನ್ನು ಬಳಸಿ ಆನಂದಿಸಿ. ಉತ್ಕೃಷ್ಟ ವೇಗ, ನಿಮ್ಮ ಇಚ್ಛೆಗೆ ತಕ್ಕಂತೆ ಸುಲಭವಾಗಿ ಬದಲಾಯಿಸಬಹುದಾದ ಹಾಗು ನವೀನ ಜಾಲ ತಂತ್ರಜ್ಞಾನದೊಂದಿಗೆ ಅಂತರಜಾಲವನ್ನು ಅನುಭವಿಸಿ.">
+<!ENTITY channel.beta.description          "ಹೆಚ್ಚು ಸ್ಥಿರತೆಯೊಂದಿಗೆ ಅತ್ಯಂತ ಮುಂದುವರೆದ ಸವಲತ್ತುಗಳನ್ನು ಹೊಂದಿ. ಅಂತಿಮ ಬಿಡುಗಡೆಯಲ್ಲಿ ಏನು ಇದ್ದರೆ ಚಂದ ಎನ್ನುವುದನ್ನು ಪರಿಷ್ಕರಿಸಲು ಹಾಗು ಹೊಳಪು ನೀಡಲು ನಮಗೆ ನೆರವಾಗಲು ನಿಮ್ಮ ಅಭಿಪ್ರಾಯಗಳನ್ನು ತಿಳಿಸಿ.">
+<!ENTITY channel.aurora.description        "ದುರ್ಬಲ ಹೃದಯವನ್ನು ಹೊಂದಿರದೆ ಇರುವವರಿಗಾಗಿನ ಅಸ್ಥಿರ ಪರಿಸರದಲ್ಲಿ ಹೊಚ್ಚ ಹೊಸ ಆವಿಷ್ಕಾರಗಳನ್ನು  ಅನುಭವಿಸಿ. ಅಂತಿಮ ಬಿಡುಗಡೆಯಲ್ಲಿ ಏನನ್ನು ಸೇರಿಸಬೇಕು ಎಂದು ನಿರ್ಧರಿಸುವ ಸಲುವಾಗಿ ಸವಲತ್ತುಗಳು ಹಾಗು ಕಾರ್ಯಶೀಲತೆಯ ಬಗ್ಗೆ ನಿಮ್ಮ ಅಭಿಪ್ರಾಯವನ್ನು ತಿಳಿಸಿ.">
+
+<!-- LOCALIZATION NOTE (channel.selector.start,channel.selector.end): channel.selector.start and
+     channel.selector.end create one sentence, with a channel selection menulist instered in between.
+     This is all in one line, so try to make the localized text short.
+     example: Switch to the [Stable] update channel. -->
+<!ENTITY channel.selector.start          "ಇದನ್ನು">
+<!ENTITY channel.selector.end            "ಅಪ್‌ಡೇಟ್ ಚಾನಲ್‌ಗೆ ಬದಲಾಯಿಸಿ.">
+
+<!-- LOCALIZATION NOTE (channel.selector.applyButton): This button applies the user's choice to switch
+     to a new update channel and starts the application update process. -->
+<!ENTITY channel.selector.applyButton    "ಅನ್ವಯಿಸು ಹಾಗು ಅಪ್‌ಡೇಟ್ ಮಾಡು">
+<!ENTITY channel.selector.cancelButton   "ರದ್ದುಗೊಳಿಸು">
+
+
 

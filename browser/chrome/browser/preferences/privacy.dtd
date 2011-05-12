@@ -72,3 +72,9 @@
 <!ENTITY  rememberSearchForm.accesskey   "f">
 <!ENTITY  dontrememberActions.post.label         ".">
 
+<!ENTITY doNotTrack.accesskey           "d">
+<!ENTITY doNotTrack.label               "ನನ್ನ ಜಾಡನ್ನು ಇರಿಸಬೇಡಿ ಎಂದು ಜಾಲ ತಾಣಗಳಿಗೆ ತಿಳಿಸು">
+<!ENTITY tracking.label                 "ಜಾಡು ಇರಿಸುವಿಕೆ">
+
+
+
