@@ -1,3 +1,8 @@
+<!ENTITY tracking.label                 "Gjurmim">
+
+<!ENTITY doNotTrack.label               "Thuaju &quot;site&quot;-eve web që nuk dëshiroj të më gjurmojnë">
+<!ENTITY doNotTrack.accesskey           "T">
+
 <!ENTITY  history.label "Historik">
 
 <!ENTITY  acceptCookies.label           "Prano &quot;cookies&quot; prej &quot;site&quot;-esh">

@@ -21,8 +21,6 @@
 <!ENTITY allowHWAccel.accesskey          "d">
 <!ENTITY checkSpelling.label             "Kontrollomë drejtshkrimin ndërkohë që shkruaj">
 <!ENTITY checkSpelling.accesskey         "o">
-<!ENTITY doNotTrack.label                "Thuaju &quot;site&quot;-eve web që nuk dua të më gjurmojnë">
-<!ENTITY doNotTrack.accesskey            "u">
 
 <!ENTITY systemDefaults.label            "Parazgjedhje Sistemi">
 <!ENTITY alwaysCheckDefault.label        "Gjatë nisjes, kontrollo përherë nëse është apo jo &brandShortName;-i shfletuesi parazgjedhje"><!--XXX-->
