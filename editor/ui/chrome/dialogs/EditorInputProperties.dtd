@@ -57,17 +57,17 @@
 <!ENTITY GroupName.accesskey "n">
 <!ENTITY InputValue.label "Fjildwearde:">
 <!ENTITY InputValue.accesskey "F">
-<!ENTITY InitialValue.label "Ynisjele wearde:">
+<!ENTITY InitialValue.label "Orizjinele wearde:">
 <!ENTITY InitialValue.accesskey "w">
-<!ENTITY InputChecked.label "Ynisjeel oanfinkt">
+<!ENTITY InputChecked.label "Orizjineel oanfinkt">
 <!ENTITY InputChecked.accesskey "o">
-<!ENTITY InputSelected.label "Ynisjeel selektearre">
+<!ENTITY InputSelected.label "Orizjineel selektearre">
 <!ENTITY InputSelected.accesskey "s">
-<!ENTITY InputReadOnly.label "Allinnic lêze">
+<!ENTITY InputReadOnly.label "Allinnich lêze">
 <!ENTITY InputReadOnly.accesskey "l">
 <!ENTITY InputDisabled.label "Utskeakele">
 <!ENTITY InputDisabled.accesskey "U">
-<!ENTITY tabIndex.label "Tabyndeks:">
+<!ENTITY tabIndex.label "Ljepblêdyndeks:">
 <!ENTITY tabIndex.accesskey "y">
 <!ENTITY TextSize.label "Fjildgrutte:">
 <!ENTITY TextSize.accesskey "g">
