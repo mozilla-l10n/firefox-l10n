@@ -102,9 +102,9 @@ can reach it easily. -->
 <!ENTITY bookmarkThisPageCmd.commandkey "d">
 <!ENTITY subscribeToPageMenupopup.label "Bu sayfaya abone ol">
 <!ENTITY subscribeToPageMenuitem.label "Bu sayfaya abone ol…">
-<!ENTITY addCurPagesCmd.label "Bookmark All Tabs…">
+<!ENTITY addCurPagesCmd.label "Tüm sekmeleri yer imlerine ekle...">
 <!ENTITY showAllBookmarks2.label "Tüm yer imlerini göster...">
-<!ENTITY unsortedBookmarksCmd.label "Unsorted Bookmarks">
+<!ENTITY unsortedBookmarksCmd.label "Sıralanmamış yer imleri">
 <!ENTITY bookmarksToolbarChevron.tooltip "Daha fazla yer imi göster">
 
 <!ENTITY backCmd.label "Geri">
@@ -179,8 +179,8 @@ can reach it easily. -->
 <!ENTITY addons.accesskey "E">
 <!ENTITY addons.commandkey "A">
 
-<!ENTITY webDeveloperMenu.label "Web Developer">
-<!ENTITY webDeveloperMenu.accesskey "W">
+<!ENTITY webDeveloperMenu.label "Web geliştirici">
+<!ENTITY webDeveloperMenu.accesskey "g">
 
 <!ENTITY errorConsoleCmd.label "Hata konsolu">
 <!ENTITY errorConsoleCmd.accesskey "k">

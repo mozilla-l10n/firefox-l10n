@@ -76,5 +76,5 @@
 <!-- LOCALIZATION NOTE (channel.selector.applyButton): This button applies the user's choice to switch
      to a new update channel and starts the application update process. -->
 
-<!ENTITY channel.selector.applyButton "Apply and Update">
+<!ENTITY channel.selector.applyButton "Güncellemeyi uygula">
 <!ENTITY channel.selector.cancelButton "Vazgeç">
