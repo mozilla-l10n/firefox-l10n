@@ -1,3 +1,8 @@
+<!ENTITY tracking.label                 "Tracking">
+
+<!ENTITY doNotTrack.label               "Tell web sites I do not want to be tracked">
+<!ENTITY doNotTrack.accesskey           "d">
+
 <!ENTITY  history.label                 "Istoric">
 
 <!ENTITY  locationBar.label             "Bara adresei">
@@ -29,7 +34,6 @@
 
 <!ENTITY  showCookies.label             "Arată cookie-urile...">
 <!ENTITY  showCookies.accesskey         "c">
-
 
 <!ENTITY  historyHeader.pre.label          "&brandShortName; va:">
 <!ENTITY  historyHeader.pre.accesskey      "v">

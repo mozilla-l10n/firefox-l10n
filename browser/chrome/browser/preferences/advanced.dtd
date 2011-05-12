@@ -21,8 +21,6 @@
 <!ENTITY allowHWAccel.accesskey          "h">
 <!ENTITY checkSpelling.label             "Verfică ortografia în timp ce tastez">
 <!ENTITY checkSpelling.accesskey         "t">
-<!ENTITY doNotTrack.label                "Informează saiturile web că nu vreau să fiu urmărit">
-<!ENTITY doNotTrack.accesskey            "I">
 
 <!ENTITY systemDefaults.label            "Opțiunile implicite ale sistemului">
 <!ENTITY alwaysCheckDefault.label        "Verifică întotdeauna la pornire dacă &brandShortName; este navigatorul implicit"><!--XXX-->
