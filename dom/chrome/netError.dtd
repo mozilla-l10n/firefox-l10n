@@ -83,6 +83,9 @@
 </ul>
 ">
 
+<!ENTITY remoteXUL.title "XUL i Largët">
+<!ENTITY remoteXUL.longDesc "<p><ul><li>Ju lutem, lidhuni me të zotët e &quot;site&quot;-it web që t'i njoftoni për këtë problem.</li></ul></p>">
+
 <!-- Include app-specific error messages - do not change this in localization!
      Some applications might override netErrorApp.dtd with their specific version,
      this inclusion needs to be intact for that approach to work correctly. -->

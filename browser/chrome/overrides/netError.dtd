@@ -178,3 +178,6 @@ functionality specific to firefox. -->
 <button id='getMeOutOfHereButton'>&securityOverride.getMeOutOfHereButton;</button>
 <button id='exceptionDialogButton'>&securityOverride.exceptionButtonLabel;</button>
 ">
+
+<!ENTITY remoteXUL.title "XUL i Largët">
+<!ENTITY remoteXUL.longDesc "<p><ul><li>Ju lutem, lidhuni me të zotët e &quot;site&quot;-it web që t'i njoftoni për këtë problem.</li></ul></p>">
