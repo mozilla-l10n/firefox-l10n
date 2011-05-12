@@ -48,7 +48,7 @@
 <!ENTITY TextAreaReadOnly.accessKey "A">
 <!ENTITY TextAreaDisabled.label "Utskeakele">
 <!ENTITY TextAreaDisabled.accessKey "U">
-<!ENTITY TextAreaTabIndex.label "Tabyndeks:">
+<!ENTITY TextAreaTabIndex.label "Ljepblêdyndeks:">
 <!ENTITY TextAreaTabIndex.accessKey "y">
 <!ENTITY TextAreaAccessKey.label "Fluchtoets:">
 <!ENTITY TextAreaAccessKey.accessKey "F">
@@ -61,5 +61,5 @@
 <!ENTITY WrapOff.value "Ut">
 <!ENTITY WrapHard.value "Hurd">
 <!ENTITY WrapSoft.value "Sêft">
-<!ENTITY WrapPhysical.value "Fysiek">
+<!ENTITY WrapPhysical.value "Fysyk">
 <!ENTITY WrapVirtual.value "Firtueel">
