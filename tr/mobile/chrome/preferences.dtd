@@ -8,6 +8,7 @@
 <!ENTITY enablePlugins.title "Yan uygulamaları etkinleştir">
 <!ENTITY privacy.title "Kişisel gizlilik ve güvenlik">
 <!ENTITY allowCookies.title "Çerezlere izin ver">
+<!ENTITY doNotTrack.title "Tell sites not to track me">
 <!ENTITY clearPrivateData2.title "Özel bilgileri sil">
 <!ENTITY clearPrivateData.button "Temizle">
 <!ENTITY rememberPasswords.title "Parolaları hatırla">
