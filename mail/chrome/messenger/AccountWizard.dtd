@@ -1,0 +1,111 @@
+<!-- Entities for AccountWizard -->
+
+<!ENTITY windowTitle.label "Assistent per contos">
+<!ENTITY accountWizard.size "width: 40em; height: 38em;">
+
+<!-- Entities for Account Type page -->
+
+<!ENTITY accountSetupInfo.label "Per retschaiver messadis stos ti l'emprim crear in conto d'e-mail u d'ina gruppa da discussiun.">
+<!ENTITY accountTypeTitle.label "Installaziun dal nov conto">
+<!ENTITY accountTypeDesc.label "Quest assistent ta gida da ramassar las infurmaziuns necessarias per installar in conto dad e-mail u d'ina gruppa da discussiun. Sche ti na conuschas betg las infurmaziuns dumandadas, contactescha per palschair tes administratur dal sistem u tes provider da survetschs d'internet.">
+<!ENTITY accountTypeDirections.label "Tscherna tge tip da conto che ti vul installar:">
+<!ENTITY accountTypeMail.label "Conto d'e-mail">
+<!ENTITY accountTypeMail.accesskey "m">
+<!ENTITY accountTypeNews.label "Conto da gruppas da discussiun">
+<!ENTITY accountTypeNews.accesskey "C">
+
+<!-- Entities for Identity page -->
+
+<!ENTITY identityTitle.label "Identitad">
+<!ENTITY identityDesc.label "Mintga conto ha ina identitad ch'è l'infurmaziuns che identifitgescha tai sche auters retschaivan tes messadis.">
+
+<!-- LOCALIZATION NOTE (fullnameDesc.label) : do not translate two of "&quot;" in below line -->
+<!ENTITY fullnameDesc.label "Endatescha il num che duai cumparair en il champ &quot;Da&quot; dals messadis che ti tramettas">
+<!-- LOCALIZATION NOTE (fullnameExample.label) : use following directions for below line
+  1, do not translate two of "&quot;"
+  2, Use localized full name instead of "John Smith"
+-->
+<!ENTITY fullnameExample.label "(per exempel &quot;Gion Cadieli&quot;).">
+<!ENTITY fullnameLabel.label "Tes num:">
+<!ENTITY fullnameLabel.accesskey "n">
+
+<!ENTITY emailLabel.label "Adressa d'e-mail:">
+<!ENTITY emailLabel.accesskey "E">
+
+<!-- Entities for Server page -->
+
+<!ENTITY serverTitle.label "Infurmaziun dal server">
+<!ENTITY incomingServerTypeDesc.label "Tscherna il tip da server d'entrada che ti utiliseschas.">
+<!-- LOCALIZATION NOTE (incomingServerNameDesc.label) : Do not translate "&quot;pop.example.net&quot;" in below line -->
+<!ENTITY incomingServerNameDesc.label "Endatescha il num da tes server d'entrada (per exempel &quot;pop.gmail.com&quot;).">
+<!ENTITY incomingServerLabel.label "Server d'entrada:">
+<!ENTITY incomingServerLabel.accesskey "S">
+<!-- LOCALIZATION NOTE (newsServerNameDesc.label) : Do not translate "NNTP" or the "&quot;" entities in below line -->
+<!ENTITY newsServerNameDesc.label "Endatescha il num da tes server da novitads (NNTP) (per exempel, &quot;news.exempel.ch&quot;).">
+<!-- LOCALIZATION NOTE (smtpServerDesc.label) : Do not translate "SMTP" and "&quot;smtp.example.net&quot;" in below line -->
+<!ENTITY smtpServerDesc.label "Endatescha il num da tes server d'extrada (SMTP) (per exempel &quot;smtp.gmail.com&quot;).">
+<!ENTITY smtpServerLabel.label "Server d'extrada:">
+<!ENTITY smtpServerLabel.accesskey "O">
+<!ENTITY newsServerLabel.label "Server da gruppas da discussiun:">
+<!ENTITY newsServerLabel.accesskey "S">
+<!-- LOCALIZATION NOTE (imapType.label) : Do not translate "IMAP" in below line -->
+<!ENTITY imapType.label "IMAP">
+<!ENTITY imapType.accesskey "I">
+<!-- LOCALIZATION NOTE (popType.label) : Do not translate "POP" in below line -->
+<!ENTITY popType.label "POP">
+<!ENTITY popType.accesskey "P">
+
+<!-- LOCALIZATION NOTE (haveSmtp1.prefix and haveSmtp1.suffix2) : Do not translate "SMTP" and "&quot;" in
+     these variables. Also, translate haveSmtp1.prefix and haveSmtp1.suffix2 as a single sentence, inserting
+     text after the "&quot;" entity in haveSmtp1.suffix2, if required grammatically.
+-->
+<!ENTITY haveSmtp1.prefix "Tes server existent per messadis che sortan (SMTP), &quot;">
+<!ENTITY haveSmtp1.suffix2 "&quot;, vegn a vegnir utilisà. Ti pos midar il server per messadis che sortan en la configuraziun dals contos.">
+
+<!-- Entities for Login page -->
+
+<!ENTITY loginTitle.label "Nums d'utilisader">
+<!ENTITY usernameDesc.label "Endatescha il num d'utilisader d'entrada che tes provider t'ha dà ">
+<!-- LOCALIZATION NOTE (usernameExample.label) : do not translate "&quot;jsmith&quot;" in below line -->
+<!ENTITY usernameExample.label "(per exempel, &quot;gcadieli&quot;).">
+<!ENTITY usernameLabel.label "Num d'utilisader d'entrada:">
+<!ENTITY usernameLabel.accesskey "I">
+<!ENTITY usernameSmtpDesc.label "Endatescha il num d'utilisader d'extrada che tes provider t'ha dà (quai è normalmain il medem sco il num d'utilisader d'entrada).">
+<!ENTITY usernameSmtpLabel.label "Num d'utilisader d'extrada:">
+<!ENTITY usernameSmtpLabel.accesskey "O">
+<!-- LOCALIZATION NOTE (haveSmtp2.prefix and haveSmtp2.suffix2) : Do not translate "SMTP" and "&quot;" in
+     these variables. Also, translate haveSmtp2.prefix and haveSmtp2.suffix2 as a single sentence, inserting
+     text after the "&quot;" entity in haveSmtp2.suffix2, if required grammatically.
+-->
+<!ENTITY haveSmtp2.prefix "Tes num d'utilisader existent dal server SMTP (per messadis che sortan), &quot;">
+<!ENTITY haveSmtp2.suffix2 "&quot;, vegn a vegnir utilisà. Ti pos midar il server per messadis che sortan en la configuraziun dals contos.">
+<!-- LOCALIZATION NOTE (haveSmtp3.prefix and haveSmtp3.suffix2) : Do not translate "SMTP" and "&quot;" in
+     these variables. Also, translate haveSmtp3.prefix and haveSmtp3.suffix2 as a single sentence, inserting
+     text after the "&quot;" entity in haveSmtp3.suffix2, if required grammatically.
+-->
+<!ENTITY haveSmtp3.prefix "Tes server per messadis che sortan (SMTP), &quot;">
+<!ENTITY haveSmtp3.suffix2 "&quot;, è identic cun il server per messadis che entran, tes num d'utilisader dal server per messadis che entran vegn utilisà per l'acceder. Ti pos modifitgar la configuraziun dals servers per messadis che sortan en la configuraziun dals contos.">
+
+<!-- Entities for Account name page -->
+
+<!ENTITY accnameTitle.label "Num dal conto">
+<!-- LOCALIZATION NOTE (accnameDesc.label) : do not translate any "&quot;" in below line -->
+<!ENTITY accnameDesc.label "Endatescha in num per il conto cun il qual el duai cumparair en il program (per exempel &quot;Conto da la lavur&quot;, &quot;Conto privat&quot; u &quot;Conto da news&quot;).">
+<!ENTITY accnameLabel.label "Num dal conto:">
+<!ENTITY accnameLabel.accesskey "A">
+
+<!-- Entities for Done (Congratulations) page -->
+
+<!ENTITY completionTitle.label "Gratulaziun!">
+<!ENTITY completionText.label "Controllescha per plaschair sche las infurmaziuns sutvart èn correctas.">
+<!ENTITY serverTypePrefix.label "Tip dal server per messadis che entran:">
+<!ENTITY serverNamePrefix.label "Num dal server per messadis che entran:">
+<!ENTITY smtpServerNamePrefix.label "Num dal server per messadis che sortan (SMTP):">
+<!ENTITY newsServerNamePrefix.label "Num dal server da news (NNTP):">
+<!ENTITY downloadOnLogin.label "Ussa telechargiar ils messadis">
+<!ENTITY downloadOnLogin.accesskey "D">
+<!ENTITY deferStorageDesc.label "Deactivescha questa chaschetta da controlla per memorisar ils e-mails da quest conto en in agen ordinatur da posta entrada. Autramain vegnan ils e-mails da quest conto memorisads en la posta entrada globala dals ordinaturs locals.">
+<!ENTITY deferStorage.label "Utilisar la posta entrada globala (memorisar ils e-mails en ils ordinaturs locals)">
+<!ENTITY deferStorage.accesskey "G">
+<!ENTITY clickFinish.label "Clicca sin &quot;Terminar&quot; per memorisar questas configuraziuns e serrar l'assistent da contos.">
+<!ENTITY clickFinish.labelMac "Clicca sin &quot;Terminar&quot; per memorisar questas configuraziuns e serrar l'assistent da contos.">

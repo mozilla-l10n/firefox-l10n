@@ -1,0 +1,7 @@
+<!--LOCALIZATION NOTE msgViewPickerOverlay.dtd UI for showing various views on a folder -->
+
+<!ENTITY mailViewSetupTitle.label "Configuraziun da la vista da messadis">
+<!ENTITY mailViewHeading.label "Num da la vista da messadis:">
+<!ENTITY mailViewHeading.accesskey "e">
+<!ENTITY searchTermCaption.label "Sche questa vista è tschernida, mussar mo messadis che:">
+

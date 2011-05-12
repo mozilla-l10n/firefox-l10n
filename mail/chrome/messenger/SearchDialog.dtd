@@ -1,0 +1,74 @@
+<!-- for SearchDialog.xul -->
+<!ENTITY searchHeading.label         "Retschertgar ils messadis en:">
+<!ENTITY searchHeading.accesskey     "h">
+<!ENTITY searchSubfolders.label      "Retschertgar ils sutordinaturs">
+<!ENTITY searchSubfolders.accesskey  "e">
+<!ENTITY searchOnServer.label        "Tschertgar sin il server">
+<!ENTITY searchOnServer.accesskey    "T">
+<!ENTITY resetButton.label           "Nova tschertga">
+<!ENTITY resetButton.accesskey       "N">
+<!ENTITY openButton.label            "Avrir">
+<!ENTITY openButton.accesskey        "n">
+<!ENTITY deleteButton.label          "Stizzar">
+<!ENTITY deleteButton.accesskey      "z">
+<!ENTITY searchDialogTitle.label     "Tschertgar messadis">
+<!ENTITY results.label               "Resultats">
+<!ENTITY fileHereMenu.label          "Spustar nà qua">
+<!ENTITY fileHereMenu.accesskey      "F">
+<!ENTITY fileButton.label            "Datoteca">
+<!ENTITY fileButton.accesskey        "D">
+<!ENTITY closeCmd.key                "W"> 
+<!ENTITY openInFolder.label          "Avrir en l'ordinatur">
+<!ENTITY openInFolder.accesskey      "A">
+<!ENTITY saveAsVFButton.label        "Memorisar sco ordinatur virtual">
+<!ENTITY saveAsVFButton.accesskey    "M">
+
+<!-- for ABSearchDialog.xul -->
+<!ENTITY abSearchHeading.label       "Tschertgar en:">
+<!ENTITY abSearchHeading.accesskey   "h">
+<!ENTITY propertiesButton.label      "Caracteristicas">
+<!ENTITY propertiesButton.accesskey  "t">
+<!ENTITY composeButton.label         "Scriver">
+<!ENTITY composeButton.accesskey     "v">
+<!ENTITY abSearchDialogTitle.label   "Tschertga avanzada en il cudeschet d'adressas">
+
+<!-- Thread Pane -->
+<!ENTITY threadColumn.label "Tema">
+<!ENTITY fromColumn.label "Da">
+<!ENTITY recipientColumn.label "Receptur">
+<!ENTITY subjectColumn.label "Object">
+<!ENTITY dateColumn.label "Data">
+<!ENTITY priorityColumn.label "Prioritad">
+<!ENTITY tagsColumn.label "Etichettas">
+<!ENTITY accountColumn.label "Conto">
+<!ENTITY statusColumn.label "Status">
+<!ENTITY sizeColumn.label "Grondezza">
+<!ENTITY junkStatusColumn.label "Status da nungiavischà">
+<!ENTITY unreadColumn.label "Nunlegì">
+<!ENTITY totalColumn.label "Total">
+<!ENTITY readColumn.label "Legì">
+<!ENTITY receivedColumn.label "Retschavì">
+<!ENTITY starredColumn.label "Cun staila">
+<!ENTITY locationColumn.label "Adressa">
+<!ENTITY idColumn.label "Successiun dad entrada">
+
+<!-- Thread Pane Tooltips -->
+<!ENTITY columnChooser.tooltip "Clicca per tscherner las colonnas che duain vegnir mussadas">
+<!ENTITY threadColumn.tooltip "Cliccar per mussar gruppà en temas"> 
+<!ENTITY fromColumn.tooltip "Cliccar per zavrar tenor 'da'">
+<!ENTITY recipientColumn.tooltip "Cliccar per zavrar tenor destinatur">
+<!ENTITY subjectColumn.tooltip "Cliccar per zavrar tenor object">
+<!ENTITY dateColumn.tooltip "Cliccar per zavrart tenor data">
+<!ENTITY priorityColumn.tooltip "Cliccar per zavrar tenor prioritad">
+<!ENTITY tagsColumn.tooltip "Cliccar per zavrar tenor etichettas">
+<!ENTITY accountColumn.tooltip "Cliccar per zavrar tenor conto">
+<!ENTITY statusColumn.tooltip "Cliccar per zavrar tenor status">
+<!ENTITY sizeColumn.tooltip "Cliccar per zavrar tenor grondezza">
+<!ENTITY junkStatusColumn.tooltip "Cliccar per zavrar tenor il status da nungiavischà">
+<!ENTITY unreadColumn.tooltip "Dumber da messadis nunlegids en il tema">
+<!ENTITY totalColumn.tooltip "Dumber total da messadis en il tema">
+<!ENTITY readColumn.tooltip "Cliccar per zavrar tenor 'Legì'">
+<!ENTITY receivedColumn.tooltip "Cliccar per zavrar tenor la data da retschavida">
+<!ENTITY starredColumn.tooltip "Cliccar per zavrar tenor staila">
+<!ENTITY locationColumn.tooltip "Cliccar per zavrar tenor posiziun">
+<!ENTITY idColumn.tooltip "Cliccar per zavrar tenor successiun da retschavida">

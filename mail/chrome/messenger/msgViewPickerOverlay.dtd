@@ -1,0 +1,18 @@
+<!--LOCALIZATION NOTE msgViewPickerOverlay.dtd UI for showing various views on a folder -->
+
+<!ENTITY viewPicker.label "Vista:">
+<!ENTITY viewPicker.accesskey "i">
+<!ENTITY viewAll.label "Tuts">
+<!ENTITY viewAll.accesskey "A">
+<!ENTITY viewUnread.label "Nunlegì">
+<!ENTITY viewUnread.accesskey "U">
+<!ENTITY viewNotDeleted.label "Betg stizzads">
+<!ENTITY viewNotDeleted.accesskey "D">
+<!ENTITY viewTags.label "Etichettas">
+<!ENTITY viewTags.accesskey "T">
+<!ENTITY viewCustomViews.label "Vistas persunalisadas">
+<!ENTITY viewCustomViews.accesskey "V">
+<!ENTITY viewVirtualFolder.label "Memorisar la vista sco ordinatur…">
+<!ENTITY viewVirtualFolder.accesskey "S">
+<!ENTITY viewCustomizeView.label "Modifitgar...">
+<!ENTITY viewCustomizeView.accesskey "C">

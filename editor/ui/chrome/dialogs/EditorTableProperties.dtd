@@ -1,0 +1,108 @@
+<!-- ***** BEGIN LICENSE BLOCK *****
+   - Version: MPL 1.1/GPL 2.0/LGPL 2.1
+   -
+   - The contents of this file are subject to the Mozilla Public License Version
+   - 1.1 (the "License"); you may not use this file except in compliance with
+   - the License. You may obtain a copy of the License at
+   - http://www.mozilla.org/MPL/
+   -
+   - Software distributed under the License is distributed on an "AS IS" basis,
+   - WITHOUT WARRANTY OF ANY KIND, either express or implied. See the License
+   - for the specific language governing rights and limitations under the
+   - License.
+   -
+   - The Original Code is Mozilla Communicator client code, released
+   - March 31, 1998.
+   -
+   - The Initial Developer of the Original Code is
+   - Netscape Communications Corporation.
+   - Portions created by the Initial Developer are Copyright (C) 1998-1999
+   - the Initial Developer. All Rights Reserved.
+   -
+   - Contributor(s):
+   -
+   - Alternatively, the contents of this file may be used under the terms of
+   - either of the GNU General Public License Version 2 or later (the "GPL"),
+   - or the GNU Lesser General Public License Version 2.1 or later (the "LGPL"),
+   - in which case the provisions of the GPL or the LGPL are applicable instead
+   - of those above. If you wish to allow use of your version of this file only
+   - under the terms of either the GPL or the LGPL, and not to allow others to
+   - use your version of this file under the terms of the MPL, indicate your
+   - decision by deleting the provisions above and replace them with the notice
+   - and other provisions required by the GPL or the LGPL. If you do not delete
+   - the provisions above, a recipient may use your version of this file under
+   - the terms of any one of the MPL, the GPL or the LGPL.
+   -
+   - ***** END LICENSE BLOCK ***** -->
+
+<!ENTITY tableWindow.title                "Caracteristicas da la tabella">
+<!ENTITY applyButton.label                "Applitgar">
+<!ENTITY applyButton.accesskey            "A">
+<!ENTITY closeButton.label                "Serrar">
+<!ENTITY tableTab.label                   "Tabella">
+<!ENTITY cellTab.label                    "Cellas">
+<!ENTITY tableRows.label                  "Lingias:">
+<!ENTITY tableRows.accessKey              "L">
+<!ENTITY tableColumns.label               "Colonnas:">
+<!ENTITY tableColumns.accessKey           "C">
+<!ENTITY tableHeight.label                "Autezza:">
+<!ENTITY tableHeight.accessKey            "z">
+<!ENTITY tableWidth.label                 "Largezza:">
+<!ENTITY tableWidth.accessKey             "g">
+<!ENTITY tableBorderSpacing.label         "Borduras e distanzas">
+<!ENTITY tableBorderWidth.label           "Bordura:">
+<!ENTITY tableBorderWidth.accessKey       "B">
+<!ENTITY tableSpacing.label               "Distanza ordaifer:">
+<!ENTITY tableSpacing.accessKey           "o">
+<!ENTITY tablePadding.label               "Distanza entaifer:">
+<!ENTITY tablePadding.accessKey           "e">
+<!ENTITY tablePxBetwCells.label           "pixels tranter las cellas">
+<!ENTITY tablePxBetwBrdrCellContent.label "pixels tranter bordura e cuntegn">
+<!ENTITY tableAlignment.label             "Orientaziun da la tabella:">
+<!ENTITY tableAlignment.accessKey         "i">
+<!ENTITY tableCaption.label               "Titel:">
+<!ENTITY tableCaption.accessKey           "T">
+<!ENTITY tableCaptionAbove.label          "Sur la tabella">
+<!ENTITY tableCaptionBelow.label          "Sut la tabella">
+<!ENTITY tableCaptionLeft.label           "A sanestra da la tabella">
+<!ENTITY tableCaptionRight.label          "A dretga da la tabella">
+<!ENTITY tableCaptionNone.label           "Nagin">
+<!ENTITY tableInheritColor.label           "(Tabella transparenta)">
+
+<!ENTITY cellSelection.label              "Tscherna">
+<!ENTITY cellSelectCell.label             "Cella">
+<!ENTITY cellSelectRow.label              "Lingia">
+<!ENTITY cellSelectColumn.label           "Colonna">
+<!ENTITY cellSelectNext.label             "Enavant ">
+<!ENTITY cellSelectNext.accessKey         "a">
+<!ENTITY cellSelectPrevious.label         "Enavos ">
+<!ENTITY cellSelectPrevious.accessKey     "o">
+<!ENTITY applyBeforeChange.label          "Modificaziuns actualas vegnan applitgadas avant che la selecziun vegn midada.">
+<!ENTITY cellContentAlignment.label       "Alingiament dal cuntegn">
+<!ENTITY cellHorizontal.label             "Orizontal:">
+<!ENTITY cellHorizontal.accessKey         "z">
+<!ENTITY cellVertical.label               "Vertical:">
+<!ENTITY cellVertical.accessKey           "V">
+<!ENTITY cellStyle.label                  "Stil da la cella:">
+<!ENTITY cellStyle.accessKey              "S">
+<!ENTITY cellNormal.label                 "Normal">
+<!ENTITY cellHeader.label                 "Chau-pagina">
+<!ENTITY cellTextWrap.label               "Midada automatica da lingia:">
+<!ENTITY cellTextWrap.accessKey           "t">
+<!ENTITY cellWrap.label                   "Midar la lingia">
+<!ENTITY cellNoWrap.label                 "Betg midar la lingia">
+<!ENTITY cellAlignTop.label               "Sura">
+<!ENTITY cellAlignMiddle.label            "Da mez">
+<!ENTITY cellAlignBottom.label            "Sut">
+<!ENTITY cellAlignJustify.label           "En bloc">
+<!ENTITY cellInheritColor.label           "(Permetter che la colur da la tabella splendura tras)">
+<!ENTITY cellUseCheckboxHelp.label        "Utilisescha las chaschettas da controlla per definir tge caracteristicas che duain vegnir applitgadas a tut las cellas">
+
+<!-- Used in both Table and Cell panels  -->
+<!ENTITY size.label                       "Grondezza">
+<!ENTITY pixels.label                     "pixels">
+<!ENTITY backgroundColor.label            "Colur dal fund davos:">
+<!ENTITY backgroundColor.accessKey        "L">
+<!ENTITY AlignLeft.label                  "A sanestra">
+<!ENTITY AlignCenter.label                "Entamez">
+<!ENTITY AlignRight.label                 "A dretga">

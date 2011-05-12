@@ -1,0 +1,16 @@
+<!ENTITY aboutDialog.title      "Davart &brandFullName;">
+<!ENTITY aboutButton.label      "&lt; Enavos">
+<!ENTITY aboutButton.accesskey  "B">
+<!ENTITY aboutVersion           "versiun">
+<!ENTITY aboutMenu.label        "Davart">
+<!ENTITY aboutMenu.accesskey    "A">
+<!ENTITY aboutCredits.label     "Engraziaments">
+<!ENTITY aboutCredits.accesskey "C">
+<!ENTITY aboutRights.label      "Tes dretgs">
+<!ENTITY aboutRights.accesskey  "R">
+<!ENTITY aboutContributors.label "Contribuents">
+<!ENTITY aboutContributors.accesskey "o">
+<!ENTITY aboutLicense.label      "Lizenza">
+<!ENTITY aboutLicense.accesskey  "L">
+
+<!ENTITY cmdCloseMac.commandKey "w">

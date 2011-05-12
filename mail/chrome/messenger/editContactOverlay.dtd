@@ -1,0 +1,14 @@
+<!ENTITY editContactPanelDeleteContact.label "Stizzar">
+<!ENTITY editContactPanelDeleteContact.accesskey "l">
+
+<!ENTITY editContactName.label "Num:">
+<!ENTITY editContactName.accesskey "N">
+
+<!ENTITY editContactEmail.label "E-mail:">
+<!ENTITY editContactEmail.accesskey "E">
+
+<!ENTITY editContactPanelCancel.label "Interrumper">
+<!ENTITY editContactPanelCancel.accesskey "C">
+
+<!ENTITY editContactPanelDone.label "Terminar">
+<!ENTITY editContactPanelDone.accesskey "D">

@@ -1,0 +1,110 @@
+<!-- ***** BEGIN LICENSE BLOCK *****
+   - Version: MPL 1.1/GPL 2.0/LGPL 2.1
+   -
+   - The contents of this file are subject to the Mozilla Public License Version
+   - 1.1 (the "License"); you may not use this file except in compliance with
+   - the License. You may obtain a copy of the License at
+   - http://www.mozilla.org/MPL/
+   -
+   - Software distributed under the License is distributed on an "AS IS" basis,
+   - WITHOUT WARRANTY OF ANY KIND, either express or implied. See the License
+   - for the specific language governing rights and limitations under the
+   - License.
+   -
+   - The Original Code is Mozilla Communicator client code, released
+   - March 31, 1998.
+   -
+   - The Initial Developer of the Original Code is
+   - Netscape Communications Corporation.
+   - Portions created by the Initial Developer are Copyright (C) 1998-2000
+   - the Initial Developer. All Rights Reserved.
+   -
+   - Contributor(s):
+   -
+   - Alternatively, the contents of this file may be used under the terms of
+   - either of the GNU General Public License Version 2 or later (the "GPL"),
+   - or the GNU Lesser General Public License Version 2.1 or later (the "LGPL"),
+   - in which case the provisions of the GPL or the LGPL are applicable instead
+   - of those above. If you wish to allow use of your version of this file only
+   - under the terms of either the GPL or the LGPL, and not to allow others to
+   - use your version of this file under the terms of the MPL, indicate your
+   - decision by deleting the provisions above and replace them with the notice
+   - and other provisions required by the GPL or the LGPL. If you do not delete
+   - the provisions above, a recipient may use your version of this file under
+   - the terms of any one of the MPL, the GPL or the LGPL.
+   -
+   - ***** END LICENSE BLOCK ***** -->
+
+<!-- These strings are for use specifically in the editor's image and form image dialogs. -->
+
+<!-- Window title -->
+<!ENTITY windowTitle.label "Caracteristicas da la grafica">
+
+<!ENTITY pixelsPopup.value "pixels">
+
+<!-- These are in the Location tab panel -->
+<!ENTITY locationEditField.label "Adressa da la grafica:">
+<!ENTITY locationEditField.accessKey "L">
+<!ENTITY locationEditField.tooltip "Endatescha il num u l'adressa da la datoteca">
+<!ENTITY title.label "Titel:">
+<!ENTITY title.accessKey "t">
+<!ENTITY title.tooltip "L'attribut HTML 'title' che vegn mussà sco nivletta">
+<!ENTITY altText.label "Text alternativ:">
+<!ENTITY altText.accessKey "a">
+<!ENTITY altTextEditField.tooltip "Endatescha il text che duai vegnir mussà empè da la grafica">
+<!ENTITY noAltText.label "Betg utilisar il text alternativ">
+<!ENTITY noAltText.accessKey "B">
+
+<!ENTITY previewBox.label "Prevista da la grafica">
+
+<!-- These controls are in the Dimensions tab panel -->
+<!-- actualSize.label should be same as actualSizeRadio.label + ":" -->
+<!ENTITY actualSize.label "Grondezza actuala:">
+<!ENTITY actualSizeRadio.label "Grondezza actuala">
+<!ENTITY actualSizeRadio.accessKey "a">
+<!ENTITY actualSizeRadio.tooltip "Turnar a la grondezza originala da la grafica">
+<!ENTITY customSizeRadio.label "Grondezza persunalisada">
+<!ENTITY customSizeRadio.accessKey "p">
+<!ENTITY customSizeRadio.tooltip "Midar la grondezza da la grafica sco ella vegn mussada sin la pagina">
+<!ENTITY heightEditField.label "Autezza:">
+<!ENTITY heightEditField.accessKey "Z">
+<!ENTITY widthEditField.label "Largezza:">
+<!ENTITY widthEditField.accessKey "l">
+<!ENTITY constrainCheckbox.label "Mantegnair las proporziuns">
+<!ENTITY constrainCheckbox.accessKey "M">
+<!ENTITY constrainCheckbox.tooltip "Mantegnair las proporziuns da la grafica">
+
+<!-- These controls are in the Image Map box of the expanded area -->
+<!ENTITY imagemapBox.label "Charta da grafica">
+<!ENTITY removeImageMapButton.label "Allontanar">
+<!ENTITY removeImageMapButton.accessKey "l">
+<!ENTITY editImageMapButton.label "Modifitgar…">
+<!ENTITY editImageMapButton.tooltip "Crear zonas che reageschan sin clics en questa grafica">
+
+<!-- These are the options for image alignment -->
+<!ENTITY alignment.label "Alingiar il text a la grafica">
+<!ENTITY bottomPopup.value "Sut">
+<!ENTITY topPopup.value "Sura">
+<!ENTITY centerPopup.value "Amez">
+<!ENTITY wrapRightPopup.value "Interrumper a dretga">
+<!ENTITY wrapLeftPopup.value "Interrumper a sanestra">
+
+<!-- These controls are in the Spacing Box -->
+<!ENTITY spacingBox.label "Spazi">
+<!ENTITY leftRightEditField.label "A sanestra ed a dretga:">
+<!ENTITY leftRightEditField.accessKey "A">
+<!ENTITY topBottomEditField.label "Sura e sut:">
+<!ENTITY topBottomEditField.accessKey "S">
+<!ENTITY borderEditField.label "Bordura solida:">
+<!ENTITY borderEditField.accessKey "B">
+
+<!-- These controls are in the Link Box -->
+<!ENTITY showImageLinkBorder.label "Mussar ina bordura enturn la grafica cun colliaziun">
+<!ENTITY showImageLinkBorder.accessKey "M">
+
+<!-- These tabs are currently used in the image input dialog -->
+<!ENTITY imageInputTab.label "Formular">
+<!ENTITY imageLocationTab.label "Adressa">
+<!ENTITY imageDimensionsTab.label "Dimensiuns">
+<!ENTITY imageAppearanceTab.label "Apparientscha">
+<!ENTITY imageLinkTab.label "Colliaziun">

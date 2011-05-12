@@ -1,0 +1,20 @@
+<!ENTITY junkSettings.label "Configuraziun per e-mails nungiavischads">
+<!ENTITY trainingWarning.label "Sch'il filter per e-mails nungiavischads è activà, sto el vegnir trenà uschia che e-mails nungiavischads (Junk/Spam) vegnan identifitgads cun il temp cun auta probabilitad. Utilisescha ils buttuns &quot;Nungiavischà&quot; resp. &quot;Betg nungiavischà&quot; en la trav da simbols per classifitgar endretg messadis ch'è n'èn betg vegnids identifitgads a moda correcta.">
+<!ENTITY level.label "Activar en quest conto il filter per e-mails nungiavischads">
+<!ENTITY level.accesskey "E">
+
+<!ENTITY move.label "Spustar novs messadis nungiavischads a:">
+<!ENTITY move.accesskey "M">
+<!ENTITY junkFolderOn.label "Ordinatur &quot;Nungiavischà&quot; en:">
+<!ENTITY junkFolderOn.accesskey "N">
+<!ENTITY otherFolder.label "Auter ordinatur:">
+<!ENTITY otherFolder.accesskey "O">
+<!ENTITY purge1.label "Stizzar automaticamain e-mails nungiavischads ch'èn pli vegls che">
+<!ENTITY purge1.accesskey "u">
+<!ENTITY purge2.label "dis">
+
+<!ENTITY whitelist.label "Betg classifitgar in messadi sco nungiavischà sche ses speditur figurescha en quest cudeschet d'adressas: ">
+<!ENTITY whitelist.accesskey "D">
+
+<!ENTITY ispHeaders.label "Fidar a chaus-pagina da messadis nungiavischads da quest filter extern: ">
+<!ENTITY ispHeaders.accesskey "T">

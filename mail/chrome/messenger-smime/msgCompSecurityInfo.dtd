@@ -1,0 +1,14 @@
+<!--LOCALIZATION NOTE msgCompSecurityInfo.dtd UI for viewing security status when composing a message -->
+
+<!ENTITY title.label "Segirezza dal messadi">
+<!ENTITY subject.plaintextWarning "Attenziun: Lingias d'object dad e-mails na vegnan mai criptadas.">
+<!ENTITY status.heading "Il cuntegn da tes messadi vegn tramess suandantamain:">
+<!ENTITY status.signed "Suttascrit digitalmain:">
+<!ENTITY status.encrypted "Criptà:">
+<!ENTITY status.certificates "Certificats:">
+<!ENTITY view.label "Mussar">
+<!ENTITY view.accesskey "M">
+<!ENTITY tree.recipient "Receptur">
+<!ENTITY tree.status "Status">
+<!ENTITY tree.issuedDate "Emess">
+<!ENTITY tree.expiresDate "Scroda ils">

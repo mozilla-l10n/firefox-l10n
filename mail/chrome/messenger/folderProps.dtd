@@ -1,0 +1,102 @@
+<!-- ***** BEGIN LICENSE BLOCK *****
+   - Version: MPL 1.1/GPL 2.0/LGPL 2.1
+   -
+   - The contents of this file are subject to the Mozilla Public License Version
+   - 1.1 (the "License"); you may not use this file except in compliance with
+   - the License. You may obtain a copy of the License at
+   - http://www.mozilla.org/MPL/
+   -
+   - Software distributed under the License is distributed on an "AS IS" basis,
+   - WITHOUT WARRANTY OF ANY KIND, either express or implied. See the License
+   - for the specific language governing rights and limitations under the
+   - License.
+   -
+   - The Original Code is Mozilla Communicator.
+   -
+   - The Initial Developer of the Original Code is
+   - Netscape Communications Corp.
+   - Portions created by the Initial Developer are Copyright (C) 2000
+   - the Initial Developer. All Rights Reserved.
+   -
+   - Contributor(s):
+   -   David Bienvenu <bienvenu@netscape.com>
+   -   Mohan Bhamidipati <mohanb@netscape.com>
+   -   Lorenzo Colitti   <lorenzo@colitti.com>
+   -   Stefan Borggraefe <Stefan.Borggraefe@gmx.de>
+   -
+   - Alternatively, the contents of this file may be used under the terms of
+   - either of the GNU General Public License Version 2 or later (the "GPL"),
+   - or the GNU Lesser General Public License Version 2.1 or later (the "LGPL"),
+   - in which case the provisions of the GPL or the LGPL are applicable instead
+   - of those above. If you wish to allow use of your version of this file only
+   - under the terms of either the GPL or the LGPL, and not to allow others to
+   - use your version of this file under the terms of the MPL, indicate your
+   - decision by deleting the provisions above and replace them with the notice
+   - and other provisions required by the GPL or the LGPL. If you do not delete
+   - the provisions above, a recipient may use your version of this file under
+   - the terms of any one of the MPL, the GPL or the LGPL.
+   -
+   - ***** END LICENSE BLOCK ***** -->
+
+<!ENTITY folderProps.windowtitle.label           "Caracteristicas">
+
+<!ENTITY generalInfo.label                       "Infurmaziuns generalas">
+<!ENTITY folderCharsetTab.label                  "Codaziun da caracters da standard:">
+<!ENTITY folderCharsetTab.accesskey              "C">
+<!ENTITY folderCharsetOverride.label             "Applitgar il standard a tut ils messadis en l'ordinatur (la codaziun da caracters definida individualmain e la determinaziun automatica vegnan ignoradas)">
+<!ENTITY folderCharsetOverride.accesskey         "s">
+<!ENTITY folderRebuildSummaryFileTip2.label      "Reconstruir l'index da la datoteca da resumaziun">
+<!ENTITY folderRebuildSummaryFile2.label         "Reparar l'ordinatur">
+<!ENTITY folderRebuildSummaryFile2.accesskey     "R">
+<!ENTITY folderRebuildSummaryFile.explanation    "I po capitar che la datoteca dad index dals ordinaturs (.msf) vegn donnegiada. Sco consequenza pon messadis apparentamain sparir u messadis stizzads vegnir mussads vinavant. Cun reparar ils ordinaturs pon quests problems probablamain vegnir schliads.">
+<!ENTITY folderIncludeInGlobalSearch.label       "Includer ils messadis en quest ordinatur en ils resultats da tschertgas globalas">
+<!ENTITY folderIncludeInGlobalSearch.accesskey   "I">
+     
+<!ENTITY retention.label "Reglas da retenziun">
+<!ENTITY retentionUseAccount.label  "Utilisar mias configuraziuns da conto">
+<!ENTITY retentionUseAccount.accesskey "U">
+<!ENTITY daysOld.label "dis vegls">
+<!ENTITY message.label "messadis">
+<!ENTITY retentionCleanup.label "Stizzar definitivamain messadis vegls, per render disponibel capacitad da memorisar.">
+<!ENTITY retentionCleanupImap.label "Stizzar definitivamain messadis vegls, per render disponibel capacitad da memorisar - schebain copias localas sco era ils originals sin il server IMAP.">
+<!ENTITY retentionCleanupPop.label "Stizzar definitivamain messadis vegls, per render disponibel capacitad da memorisar - inclusiv ils originals sin il server POP.">
+<!ENTITY retentionDeleteMsg.label "Stizzar messadis ch'èn pli vegls che">
+<!ENTITY retentionDeleteMsg.accesskey "m">
+<!ENTITY retentionKeepAll.label "Stizzar nagins messadis">
+<!ENTITY retentionKeepAll.accesskey "a">
+<!ENTITY retentionKeepRecent.label "Stizzar tuts, exclus ils pli actuals">
+<!ENTITY retentionKeepRecent.accesskey "l">
+<!-- LOCALIZATION NOTE: Unhide with .keepUnreadOnly { display: -moz-box; } -->
+<!ENTITY retentionKeepUnreadHidden.label "Adina stizzar messadis legids (malgrà las configuraziuns da temp!)">
+<!ENTITY retentionApplyToFlagged.label "Adina preservar messadis segnads">
+<!ENTITY retentionApplyToFlagged.accesskey "e">
+
+<!ENTITY folderSynchronizationTab.label          "Sincronisaziun">
+<!ENTITY folderCheckForNewMessages2.label         "Adina controllar quest ordinatur, sche novs messadis per quest conto arrivan">
+<!ENTITY folderCheckForNewMessages2.accesskey     "c">
+
+<!ENTITY offlineFolder.check.label               "Tscherner quest ordinatur per l'utilisaziun en il modus senza connexiun">
+<!ENTITY offlineFolder.check.accesskey           "S">
+<!ENTITY offlineFolder.button.label              "Telechargiar ussa">
+<!ENTITY offlineFolder.button.accesskey          "T">
+
+<!ENTITY selectofflineNewsgroup.check.label      "Tscherner questa gruppa da discussiun per l'utilisaziun en il modus senza connexiun">
+<!ENTITY selectofflineNewsgroup.check.accesskey  "s">
+<!ENTITY offlineNewsgroup.button.label           "Telechargiar ussa">
+<!ENTITY offlineNewsgroup.button.accesskey       "T">
+
+<!ENTITY folderProps.name.label                  "Num:">
+<!ENTITY folderProps.name.accesskey              "N">
+<!ENTITY folderProps.location.label              "Adressa:">
+<!ENTITY folderProps.location.accesskey          "A">
+
+<!ENTITY folderSharingTab.label                  "Cundivider">
+<!ENTITY privileges.button.label                 "Privilegis…">
+<!ENTITY privileges.button.accesskey             "P">
+<!ENTITY permissionsDesc.label                   "Ti has ils suandants permess:">
+<!ENTITY folderType.label                        "Tip dad ordinatur:">
+
+<!ENTITY folderQuotaTab.label                    "Quota">
+<!ENTITY folderQuotaRoot.label                   "Limita vala per:">
+<!ENTITY folderQuotaUsage.label                  "Occupaziun:">
+<!ENTITY folderQuotaStatus.label                 "Status:">

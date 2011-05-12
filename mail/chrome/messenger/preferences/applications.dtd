@@ -1,0 +1,19 @@
+<!ENTITY  typeColumn.label            "Tip da datoteca">
+<!ENTITY  typeColumn.accesskey        "T">
+
+<!ENTITY  actionColumn2.label         "Acziun">
+<!ENTITY  actionColumn2.accesskey     "A">
+
+<!ENTITY  focusSearch1.key            "s">
+<!ENTITY  focusSearch2.key            "k">
+
+<!ENTITY  filter.emptytext            "Tschertgar">
+
+<!ENTITY saveTo.label                 "Memorisar tut las datotecas en il suandant ordinatur:">
+<!ENTITY saveTo.accesskey             "S">
+<!ENTITY alwaysAsk.label              "Dumandar mintga giada nua ch'ina datoteca duai vegnir memorisada">
+<!ENTITY alwaysAsk.accesskey          "A">
+<!ENTITY chooseFolderWin.label        "Tschertgar en…">
+<!ENTITY chooseFolderWin.accesskey    "e">
+<!ENTITY chooseFolderMac.label        "Tschertgar en…">
+<!ENTITY chooseFolderMac.accesskey    "e">
