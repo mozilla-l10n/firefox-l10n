@@ -53,3 +53,27 @@
      example: Downloading update — 111 KB of 13 MB -->
 <!ENTITY update.downloading.start   "Po shkarkohet përditësimi — ">
 <!ENTITY update.downloading.end     "">
+
+<!-- LOCALIZATION NOTE (channel.description.start,channel.description.end): channel.description.start and
+     channel.description.end create one sentence, with the current channel label inserted in between.
+     example: You are currently on the _Stable_ update channel. -->
+<!ENTITY channel.description.start  "Tani gjendeni te kanali i përditësimit për ">
+<!ENTITY channel.description.end    ". ">
+
+<!ENTITY channel.change             "Ndryshojeni">
+
+<!ENTITY channel.release.description       "Shijoni versionin përfundimtar, të vënë në provë dhe të përdorur nga qindra mijëra anembanë botës. Ruani kontrollin e punimit tuaj në rrjet me teknologjitë Web më të reja, shpejtësinë e madhe dhe personalizimin e kollajtë.">
+<!ENTITY channel.beta.description          "Provoni veçori të fjalës së me më tepër qëndrueshmëri. Jepni përshtypjet që të ndihmoni të përmirësohet dhe përimtësohet ai që do jetë versioni përfundimtar.">
+<!ENTITY channel.aurora.description        "Provoni risitë më të fundit në një mjedis jo të qëndrueshëm, që nuk është për ata që frigohen. Jepni përshtypjet lidhur me veçoritë dhe funksionimin, që të ndihmoni në ato që do të bëhen pjesë e versionit përfundimtar.">
+
+<!-- LOCALIZATION NOTE (channel.selector.start,channel.selector.end): channel.selector.start and
+     channel.selector.end create one sentence, with a channel selection menulist instered in between.
+     This is all in one line, so try to make the localized text short.
+     example: Switch to the [Stable] update channel. -->
+<!ENTITY channel.selector.start          "Kalo te kanali">
+<!ENTITY channel.selector.end            "përditësimit.">
+
+<!-- LOCALIZATION NOTE (channel.selector.applyButton): This button applies the user's choice to switch
+     to a new update channel and starts the application update process. -->
+<!ENTITY channel.selector.applyButton    "Zbatoje dhe Përditësohu">
+<!ENTITY channel.selector.cancelButton   "Anuloje">
