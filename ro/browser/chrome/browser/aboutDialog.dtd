@@ -54,3 +54,27 @@
      example: Downloading update — 111 KB of 13 MB -->
 <!ENTITY update.downloading.start   "Se descarcă actualizarea — ">
 <!ENTITY update.downloading.end     "">
+
+<!-- LOCALIZATION NOTE (channel.description.start,channel.description.end): channel.description.start and
+     channel.description.end create one sentence, with the current channel label inserted in between.
+     example: You are currently on the _Stable_ update channel. -->
+<!ENTITY channel.description.start  "Folosiți în prezent ">
+<!ENTITY channel.description.end    " ca sursă de actualizare. ">
+
+<!ENTITY channel.change             "Schimbă">
+
+<!ENTITY channel.release.description       "Bucură-te de cea mai încercată și testată versiune finală ce este folosită de sute de milioane de oameni din întreaga lume. Deții controlul experienței tale pe internet prin super viteză, personalizare ușoară și cele mai recente tehnologii Web.">
+<!ENTITY channel.beta.description          "Experimentează funcționalități de ultimă oră într-o versiune mai stabilă. Trimiteți reacțiile dumneavoastră pentru a ajuta la perfecționarea și cizelarea facilităților ce vor fi incluse în versiunea finală.">
+<!ENTITY channel.aurora.description        "Experimentează cele mai recente inovații într-o versiune instabilă menită pentru cei curajoși. Trimiteți reacțiile dumneavoastră cu privire la noile caracteristici și performanțe pentru a ne ajuta să determinăm care vor fi incluse în edițiile viitoare.">
+
+<!-- LOCALIZATION NOTE (channel.selector.start,channel.selector.end): channel.selector.start and
+     channel.selector.end create one sentence, with a channel selection menulist instered in between.
+     This is all in one line, so try to make the localized text short.
+     example: Switch to the [Stable] update channel. -->
+<!ENTITY channel.selector.start          "Treci la">
+<!ENTITY channel.selector.end            "ca și sursă de actualizare.">
+
+<!-- LOCALIZATION NOTE (channel.selector.applyButton): This button applies the user's choice to switch
+     to a new update channel and starts the application update process. -->
+<!ENTITY channel.selector.applyButton    "Aplică și actualizează">
+<!ENTITY channel.selector.cancelButton   "Renunță">
