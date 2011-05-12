@@ -86,6 +86,7 @@
 <!ENTITY contextSaveImage.label       "Ruajeni Figurën">
 <!ENTITY contextShareLink.label       "Ndajeni Lidhjen">
 <!ENTITY contextShareImage.label      "Ndajeni Figurën">
+<!ENTITY contextBookmarkLink.label    "Lidhje Faqerojtësi">
 <!ENTITY contextSaveVideo.label       "Ruajeni Videon">
 <!ENTITY contextShareVideo.label      "Ndajeni Figurën">
 <!ENTITY contextPlayMedia.label       "Luajeni">
