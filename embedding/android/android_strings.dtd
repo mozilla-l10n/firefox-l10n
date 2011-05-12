@@ -7,7 +7,7 @@
 <!ENTITY crash_reporter_title "&brandShortName; Çöküş Bildirici">
 <!ENTITY crash_message "&brandShortName; çöktü. Yeniden başlattığınızda sekmeleriniz &brandShortName; başlangıç sayfasında listelenmeli.">
 <!ENTITY crash_help_message "Bu sorunu çözmemize yardımcı olun!">
-<!ENTITY crash_send_report_message "Mozilla'ya çöküş bildirimi gönder">
+<!ENTITY crash_send_report_message "Mozilla\u0027ya çöküş bildirimi gönder">
 <!ENTITY crash_include_url "Sayfa adresini içer">
 <!ENTITY crash_close_label "Kapat">
 <!ENTITY crash_restart_label "&brandShortName; baştan başlasın">
