@@ -67,7 +67,7 @@
 <!ENTITY cmd.new_bookmark.accesskey "m">
 <!ENTITY cmd.new_folder.label "Yeni dizin…">
 <!ENTITY cmd.new_folder.accesskey "d">
-<!ENTITY cmd.context_new_folder.accesskey "F">
+<!ENTITY cmd.context_new_folder.accesskey "Z">
 <!ENTITY cmd.new_separator.label "Yeni ayraç">
 <!ENTITY cmd.new_separator.accesskey "Y">
 
