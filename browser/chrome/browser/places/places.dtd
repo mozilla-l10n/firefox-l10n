@@ -6,7 +6,7 @@
 <!ENTITY organize.accesskey "D">
 <!ENTITY organize.tooltip "Yer imlerinizi düzenleyin">
 
-<!ENTITY file.accesskey "D">
+<!ENTITY file.accesskey "F">
 <!ENTITY file.close.label "Kapat">
 <!ENTITY file.close.accesskey "K">
 <!ENTITY cmd.close.key "w">
@@ -70,7 +70,7 @@
 <!ENTITY cmd.new_bookmark.accesskey "m">
 <!ENTITY cmd.new_folder.label "Yeni dizin…">
 <!ENTITY cmd.new_folder.accesskey "d">
-<!ENTITY cmd.context_new_folder.accesskey "Z">
+<!ENTITY cmd.context_new_folder.accesskey "F">
 <!ENTITY cmd.new_separator.label "Yeni ayraç">
 <!ENTITY cmd.new_separator.accesskey "Y">
 

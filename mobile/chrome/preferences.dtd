@@ -19,4 +19,4 @@
 <!ENTITY homepage.none "Boş Sayfa">
 <!ENTITY homepage.default "&brandShortName; Start">
 <!ENTITY homepage.currentpage "Güncel sayfayı kullan">
-<!ENTITY showCharset.title "Show Character Encoding">
+<!ENTITY showCharset.title "Karakter kodlamasını göster">

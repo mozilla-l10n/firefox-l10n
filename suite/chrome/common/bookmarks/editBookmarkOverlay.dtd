@@ -10,16 +10,16 @@
 <!ENTITY editBookmarkOverlay.folder.label "Dizin:">
 <!ENTITY editBookmarkOverlay.foldersExpanderDown.tooltip "Tüm yer imi dizinlerini gösterir">
 <!ENTITY editBookmarkOverlay.expanderUp.tooltip "Gizler">
-<!ENTITY editBookmarkOverlay.tags.label "Etiketler">
-<!ENTITY editBookmarkOverlay.tags.accesskey "t">
+<!ENTITY editBookmarkOverlay.tags.label "Tags:">
+<!ENTITY editBookmarkOverlay.tags.accesskey "a">
 <!ENTITY editBookmarkOverlay.tagsEmptyDesc.label "Etiketleri virgülle ayırın">
 <!ENTITY editBookmarkOverlay.description.label "Tanım:">
 <!ENTITY editBookmarkOverlay.description.accesskey "n">
 <!ENTITY editBookmarkOverlay.keyword.label "Anahtar kelime:">
 <!ENTITY editBookmarkOverlay.keyword.accesskey "k">
 <!ENTITY editBookmarkOverlay.tagsExpanderDown.tooltip "Tüm etiketleri gösterir">
-<!ENTITY editBookmarkOverlay.loadInSidebar.label "Bu yer imini kenar çubuğunda yükle">
-<!ENTITY editBookmarkOverlay.loadInSidebar.accesskey "B">
+<!ENTITY editBookmarkOverlay.loadInSidebar.label "Load this bookmark in the sidebar">
+<!ENTITY editBookmarkOverlay.loadInSidebar.accesskey "o">
 <!ENTITY editBookmarkOverlay.choose.label "Seç…">
 <!ENTITY editBookmarkOverlay.newFolderButton.label "Yeni dizin">
 <!ENTITY editBookmarkOverlay.newFolderButton.accesskey "n">

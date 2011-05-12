@@ -102,9 +102,9 @@ can reach it easily. -->
 <!ENTITY bookmarkThisPageCmd.commandkey "d">
 <!ENTITY subscribeToPageMenupopup.label "Bu sayfaya abone ol">
 <!ENTITY subscribeToPageMenuitem.label "Bu sayfaya abone ol…">
-<!ENTITY addCurPagesCmd.label "Tüm sekmeleri yer imlerine ekle...">
+<!ENTITY addCurPagesCmd.label "Bookmark All Tabs…">
 <!ENTITY showAllBookmarks2.label "Tüm yer imlerini göster...">
-<!ENTITY bookmarkAllCmd.label "Sekmeleri yer imlerine ekle…">
+<!ENTITY bookmarkAllCmd.label "Bookmark All Tabs…">
 <!ENTITY bookmarksToolbarChevron.tooltip "Daha fazla yer imi göster">
 
 <!ENTITY backCmd.label "Geri">
