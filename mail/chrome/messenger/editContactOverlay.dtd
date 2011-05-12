@@ -15,3 +15,5 @@
 
 <!ENTITY editContactPanelDone.label "Terminé">
 <!ENTITY editContactPanelDone.accesskey "T">
+
+<!ENTITY contactMoveDisabledWarning.description "Vous ne pouvez modifier le carnet d'adresses car le contact est dans une liste de diffusion.">
