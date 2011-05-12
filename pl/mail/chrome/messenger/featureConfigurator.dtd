@@ -26,7 +26,7 @@
 <!ENTITY featureConfigurator.folderColumns.para.strong "Zaawansowane kolumny były wcześniej wyświetlane a obecnie ta opcja została przeniesiona do zewnętrznego rozszerzenia, które polecamy zainstalować.">
 <!ENTITY featureConfigurator.folderColumns.install     "Zainstaluj rozszerzenie Extra Folder Columns…">
 
-<!ENTITY featureConfigurator.autoSync.heading          "Przestrzeń dyskowa">
+<!ENTITY featureConfigurator.autoSync.heading          "Miejsce na dysku">
 <!ENTITY featureConfigurator.autoSync.para             "Program &brandShortName; został wzbogacony o nowe i lepsze narzędzia wyszukiwania. Konieczne będzie pobranie poczty na dysk komputera, aby z nich skorzystać.">
 <!ENTITY featureConfigurator.autoSync.on               "Synchronizuj">
 <!ENTITY featureConfigurator.autoSync.on.explanation   "Synchronizacja pozwala na szybsze wczytywanie wiadomości i lepsze wyszukiwania.">
