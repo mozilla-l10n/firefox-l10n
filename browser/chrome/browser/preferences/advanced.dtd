@@ -96,6 +96,11 @@
 <!ENTITY verify2.label                   "तपासणी">
 <!ENTITY verify2.accesskey               "V">
 
+<!--
+<!ENTITY doNotTrack.label                "संकेत स्थळांनी मला ट्रॅक करायचे नाही">
+<!ENTITY doNotTrack.accesskey            "d">
+-->
+
 <!ENTITY allowHWAccel.label              "उपलब्ध असल्यावर हार्डवेअर ॲक्सिलरेशनचा वापर करा">
 <!ENTITY allowHWAccel.accesskey          "h">
 <!ENTITY submitCrashes.label             "क्रॅश अहवाल सादर करा ">
@@ -107,7 +112,3 @@
 <!ENTITY overrideSmartCacheSize.accesskey "O">
 <!ENTITY enableAddonsUpdate2.label       "ॲडऑन्स्">
 <!ENTITY enableAddonsUpdate2.accesskey   "n">
-
-<!ENTITY doNotTrack.label                "संकेत स्थळांनी मला ट्रॅक करायचे नाही">
-<!ENTITY doNotTrack.accesskey            "d">
-
