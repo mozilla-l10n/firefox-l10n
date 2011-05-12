@@ -45,9 +45,6 @@
 <!-- File menu items -->
 <!ENTITY fileMenu.label "Filer">
 <!ENTITY fileMenu.accesskey "F">
-<!ENTITY newBlankPageCmd.label "Composer-side">
-<!ENTITY newBlankPageCmd.accesskey "C">
-<!ENTITY newMenu.label "Ny(t)">
 <!ENTITY openFileCmd.label "Åbn fil…">
 <!ENTITY openFileCmd.accesskey "b">
 <!ENTITY openFileCmd.key "O">
@@ -69,14 +66,8 @@
 <!ENTITY publishCmd.key "S">
 <!ENTITY publishAsCmd.label "Overfør som…">
 <!ENTITY publishAsCmd.accesskey "v">
-<!ENTITY exportToTextCmd.label "Eksporter som tekst…">
-<!ENTITY exportToTextCmd.accesskey "T">
 <!ENTITY saveAsChangeEncodingCmd.label "Gem med tegnsættet">
 <!ENTITY saveAsChangeEncodingCmd.accesskey "E">
-<!ENTITY previewCmd.label "Gennemse side">
-<!ENTITY previewCmd.accesskey "G">
-<!ENTITY sendPageCmd.label "Send siden…">
-<!ENTITY sendPageCmd.accesskey "S">
 <!ENTITY printSetupCmd.label "Sideopsætning…">
 <!ENTITY printSetupCmd.accesskey "S">
 <!ENTITY printCmd.label "Udskriv">
@@ -399,13 +390,13 @@
 <!-- Toolbar-only items -->
 <!ENTITY menuBar.tooltip "Menulinjen">
 <!ENTITY formatToolbar.tooltip "Formateringslinjen">
+<!ENTITY newToolbarCmd.label "Ny">
 <!ENTITY newToolbarCmd.tooltip "Opret en ny Composer-side">
 <!ENTITY openToolbarCmd.label "Åbn">
 <!ENTITY openToolbarCmd.tooltip "Åbn en lokal fil">
 <!ENTITY saveToolbarCmd.tooltip "Gem filen lokalt">
 <!ENTITY publishToolbarCmd.tooltip "Overfør filen til en anden maskine">
 <!ENTITY previewToolbarCmd.label "Gennemse">
-<!ENTITY previewToolbarCmd.tooltip "Vis denne side i Navigator">
 <!ENTITY printToolbarCmd.label "Udskriv">
 <!ENTITY printToolbarCmd.tooltip "Udskriv denne side">
 <!ENTITY findToolbarCmd.label "Find">

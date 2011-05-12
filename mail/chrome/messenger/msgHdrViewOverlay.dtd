@@ -130,6 +130,8 @@
 <!ENTITY detachAttachmentMenuItem.accesskey    "a">
 <!ENTITY deleteAttachmentMenuItem.label    "slet">
 <!ENTITY deleteAttachmentMenuItem.accesskey    "s">
+<!ENTITY openAllAttachmentsMenuItem.label    "åbn alle…">
+<!ENTITY openAllAttachmentsMenuItem.accesskey    "å">
 <!ENTITY saveAllAttachmentsMenuItem.label    "Gem alle…">
 <!ENTITY saveAllAttachmentsMenuItem.accesskey    "a">
 <!ENTITY detachAllAttachmentsMenuItem.label    "afhæft alle…">

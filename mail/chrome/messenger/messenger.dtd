@@ -39,7 +39,6 @@
 <!ENTITY saveAsFileCmd.key "s">
 <!ENTITY saveAsTemplateCmd.label "Skabelon">
 <!ENTITY saveAsTemplateCmd.accesskey "S">
-<!ENTITY getNewMsgCmd.key "t">
 <!ENTITY getNewMsgForCmd.label "Hent nye meddelelser fra">
 <!ENTITY getNewMsgForCmd.accesskey "e">
 <!ENTITY getAllNewMsgCmdPopupMenu.label "Alle konti">
@@ -521,7 +520,6 @@ you can use these alternative items. Otherwise, their values should be empty.  -
 <!ENTITY getMsgButton.tooltip "Hent nye meddelelser">
 <!ENTITY getAllNewMsgCmd.label "Hent alle nye meddelelser">
 <!ENTITY getAllNewMsgCmd.accesskey "H">
-<!ENTITY getAllNewMsgCmd.key "t">
 <!ENTITY newMsgButton.tooltip "Skriv en ny meddelelse">
 <!ENTITY replyButton.tooltip "Svar på meddelelsen">
 <!ENTITY replyAllButton.tooltip "Svar til afsenderen og alle modtagerne">
@@ -754,12 +752,14 @@ you can use these alternative items. Otherwise, their values should be empty.  -
 <!-- Phishing Bar -->
 <!ENTITY phishingBarMessage2.label "Denne meddelelse er måske mailsvindel.">
 <!ENTITY removePhishingBarButton1.label "Ikke-svindel">
+<!ENTITY disablePhishingWarning1.label "Slå tjekket for mailsvindel fra for alle meddelelser">
 <!ENTITY reportPhishingError1.label "Denne meddelelse ser ikke ud til at være mailsvindel.">
 
 <!-- MDN Bar -->
-<!ENTITY mdnBarMessage.label "Afsenderen af denne meddelelse har bedt om en kvittering, når du læser meddelelsen. Vil du sende en kvittering til afsenderen?">
-<!ENTITY mdnBarIgnoreButton.label "Send ikke kvittering">
-<!ENTITY mdnBarSendButton.label "Send kvittering">
+<!ENTITY mdnBarIgnoreButton2.label "Send ikke kvittering">
+<!ENTITY mdnBarIgnoreButton2.accesskey "i">
+<!ENTITY mdnBarSendButton2.label "Send kvittering">
+<!ENTITY mdnBarSendButton2.accesskey "s">
 
 <!-- Quick Search Bar -->
 <!-- LOCALIZATION NOTE (quickSearchCmd.key):
