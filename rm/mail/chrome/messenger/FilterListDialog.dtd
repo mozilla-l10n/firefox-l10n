@@ -1,0 +1,29 @@
+<!ENTITY window.title "Filters da messadi">
+<!ENTITY nameColumn.label "Num dal filter">
+<!ENTITY activeColumn.label "Activà">
+<!ENTITY newButton.label "Nov…">
+<!ENTITY newButton.accesskey "N">
+<!ENTITY editButton.label "Modifitgar…">
+<!ENTITY editButton.accesskey "M">
+<!ENTITY deleteButton.label "Stizzar">
+<!ENTITY deleteButton.accesskey "z">
+<!ENTITY reorderUpButton.label "Ensi">
+<!ENTITY reorderUpButton.accesskey "E">
+<!ENTITY reorderDownButton.label "Engiu">
+<!ENTITY reorderDownButton.accesskey "g">
+<!ENTITY filterHeader.label "Filters activads vegnan exequids automaticamain en la suandanta successiun.">
+<!ENTITY filtersForPrefix.label "Filters per:">
+<!ENTITY filtersForPrefix.accesskey "F">
+<!ENTITY viewLogButton.label "Protocol da filters">
+<!ENTITY viewLogButton.accesskey "L">
+<!ENTITY runFilters.label "Exequir ussa">
+<!ENTITY runFilters.accesskey "R">
+<!ENTITY stopFilters.label "Fermar">
+<!ENTITY stopFilters.accesskey "S">
+<!ENTITY folderPickerPrefix.label "Exequir ils filters tschernids en:">
+<!ENTITY folderPickerPrefix.accesskey "c">
+<!ENTITY choosethis.label "tscherner quest ordinatur">
+<!ENTITY choosethisnewsserver.label "tscherner quest server da gruppas da discussiun">
+<!ENTITY helpButton.label "Agid">
+<!ENTITY helpButton.accesskey "H">
+<!ENTITY closeCmd.key "W"> 

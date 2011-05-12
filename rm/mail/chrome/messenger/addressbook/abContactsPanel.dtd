@@ -1,0 +1,18 @@
+<!ENTITY addressbookPicker.label            "Cudeschet d'adressas:">
+<!ENTITY addressbookPicker.accesskey        "a">
+<!ENTITY searchInput.label                  "Tschertgar:">
+<!ENTITY searchInput.accesskey              "t">
+<!ENTITY SearchNameOrEmail.label            "Num u e-mail">
+
+<!ENTITY deleteAddrBookCard.label           "Stizzar">
+<!ENTITY addrBookCardProperties.label       "Caracteristicas">
+<!ENTITY addtoToFieldMenu.label             "Agiuntar al champ &quot;A&quot;">
+<!ENTITY addtoCcFieldMenu.label             "Agiuntar al champ &quot;CC&quot;">
+<!ENTITY addtoBccFieldMenu.label            "Agiuntar al champ &quot;BCC&quot;">
+
+<!ENTITY toButton.label                     "Agiuntar ad &quot;A&quot;:">
+<!ENTITY toButton.accesskey                 "A">
+<!ENTITY ccButton.label                     "Agiuntar a &quot;CC&quot;:">
+<!ENTITY ccButton.accesskey                 "c">
+<!ENTITY bccButton.label                    "Agiuntar a &quot;BCC&quot;:">
+<!ENTITY bccButton.accesskey                "B">

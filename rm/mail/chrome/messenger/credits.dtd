@@ -1,0 +1,13 @@
+<!ENTITY credit.title     "&brandFullName; - Engraziaments">
+<!ENTITY brandMotto       "Thunderbirds Are Go!">
+<!ENTITY credit.thanks    "Grazia fitg a">
+
+<!-- localization credits look like this: -->
+<!--
+<!ENTITY credit.translation
+  "<h3>Translators</h3><ul><li>Name Here</li></ul>">
+-->
+<!ENTITY credit.translation "<h3>Translaturs</h3><ul><li>Gion-Andri Cantieni</li><li>Martin Cantieni</li><li>cun sustegn da la Lia Rumantscha</li></ul>">
+
+<!ENTITY credit.memory         "En memoria da">
+<!ENTITY credit.poweredByGecko "Basà sin Gecko&trade;">

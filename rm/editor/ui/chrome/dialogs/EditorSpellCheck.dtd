@@ -1,0 +1,71 @@
+<!-- ***** BEGIN LICENSE BLOCK *****
+   - Version: MPL 1.1/GPL 2.0/LGPL 2.1
+   -
+   - The contents of this file are subject to the Mozilla Public License Version
+   - 1.1 (the "License"); you may not use this file except in compliance with
+   - the License. You may obtain a copy of the License at
+   - http://www.mozilla.org/MPL/
+   -
+   - Software distributed under the License is distributed on an "AS IS" basis,
+   - WITHOUT WARRANTY OF ANY KIND, either express or implied. See the License
+   - for the specific language governing rights and limitations under the
+   - License.
+   -
+   - The Original Code is Mozilla Communicator client code, released
+   - March 31, 1998.
+   -
+   - The Initial Developer of the Original Code is
+   - Netscape Communications Corporation.
+   - Portions created by the Initial Developer are Copyright (C) 1998-1999
+   - the Initial Developer. All Rights Reserved.
+   -
+   - Contributor(s):
+   -
+   - Alternatively, the contents of this file may be used under the terms of
+   - either of the GNU General Public License Version 2 or later (the "GPL"),
+   - or the GNU Lesser General Public License Version 2.1 or later (the "LGPL"),
+   - in which case the provisions of the GPL or the LGPL are applicable instead
+   - of those above. If you wish to allow use of your version of this file only
+   - under the terms of either the GPL or the LGPL, and not to allow others to
+   - use your version of this file under the terms of the MPL, indicate your
+   - decision by deleting the provisions above and replace them with the notice
+   - and other provisions required by the GPL or the LGPL. If you do not delete
+   - the provisions above, a recipient may use your version of this file under
+   - the terms of any one of the MPL, the GPL or the LGPL.
+   -
+   - ***** END LICENSE BLOCK ***** -->
+
+<!-- Window title -->
+<!ENTITY windowTitle.label "Controllar l'ortografia">
+
+<!ENTITY misspelledWord.label "Pled cun sbagl(s):">
+<!ENTITY wordEditField.label "Remplazzar cun:">
+<!ENTITY wordEditField.accessKey "R">
+<!ENTITY checkwordButton.label "Controllar il pled">
+<!ENTITY checkwordButton.accessKey "t">
+<!ENTITY suggestions.label "Propostas:">
+<!ENTITY suggestions.accessKey "P">
+<!ENTITY ignoreButton.label "Ignorar">
+<!ENTITY ignoreButton.accessKey "I">
+<!ENTITY ignoreAllButton.label "Ignorar tut">
+<!ENTITY ignoreAllButton.accessKey "g">
+<!ENTITY replaceButton.label "Remplazzar">
+<!ENTITY replaceButton.accessKey "z">
+<!ENTITY replaceAllButton.label "Remplazzar tut">
+<!ENTITY replaceAllButton.accessKey "u">
+<!ENTITY stopButton.label "Fermar">
+<!ENTITY stopButton.accessKey "F">
+<!ENTITY userDictionary.label "Dicziunari persunal:">
+<!ENTITY moreDictionaries.label "Telechargiar ulteriurs dicziunaris…">
+<!ENTITY addToUserDictionaryButton.label "Agiuntar il pled">
+<!ENTITY addToUserDictionaryButton.accessKey "A">
+<!ENTITY editUserDictionaryButton.label "Modifitgar…">
+<!ENTITY editUserDictionaryButton.accessKey "M">
+<!ENTITY recheckButton.label "Controllar anc ina giada la pagina">
+<!ENTITY recheckButton.accessKey "C">
+<!ENTITY closeButton.label "Serrar">
+<!ENTITY closeButton.accessKey "S">
+<!ENTITY sendButton.label "Trametter">
+<!ENTITY sendButton.accessKey "e">
+<!ENTITY languagePopup.label "Lingua:">
+<!ENTITY languagePopup.accessKey "L">

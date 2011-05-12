@@ -1,0 +1,37 @@
+<!-- extracted from am-main.xul -->
+
+<!ENTITY accountTitle.label "Opziuns dal conto">
+<!ENTITY accountName.label "Num dal conto:">
+<!ENTITY accountName.accesskey "N">
+<!ENTITY identityTitle.label "Identitad predefinida">
+<!ENTITY identityDesc.label "Questas infurmaziuns retschaivan destinaturs da tes messadis.">
+<!ENTITY name.label "Tes num:">
+<!ENTITY name.accesskey "T">
+<!ENTITY email.label "Adressa d'e-mail:">
+<!ENTITY email.accesskey "E">
+<!ENTITY replyTo.label "Adressa per resposta:">
+<!ENTITY replyTo.accesskey "s">
+<!ENTITY organization.label "Organisaziun:">
+<!ENTITY organization.accesskey "O">
+<!ENTITY signatureText.label "Text da la suttascripziun:">
+<!ENTITY signatureText.accesskey "x">
+<!ENTITY signatureHtml.label "Utilisar HTML (p.ex. &lt;b&gt;grass&lt;/b&gt;)">
+<!ENTITY signatureHtml.accesskey "L">
+<!ENTITY signatureFile.label "Agiuntar enstagl ina datoteca sco suttascripziun (text, HTML u grafica):">
+<!ENTITY signatureFile.accesskey "t">
+<!ENTITY edit.label "Modifitgar…">
+<!ENTITY choose.label "Tschertgar en…">
+<!ENTITY choose.accesskey "C">
+<!ENTITY editVCard.label "Modifitgar la carta…">
+<!ENTITY editVCard.accesskey "d">
+<!-- LOCALIZATION NOTE (attachVCard.label) : do not translate "vCard" in below line -->
+<!ENTITY attachVCard.label "Agiuntar mia carta da visita als messadis">
+<!ENTITY attachVCard.accesskey "v">
+
+<!ENTITY manageIdentities.label "Administrar las identitads…">
+<!ENTITY manageIdentities.accesskey "M">
+
+<!-- LOCALIZATION NOTE (smtpName.label) : do not translate "SMTP" in below line -->
+<!ENTITY smtpName.label "Server da posta sortida (SMTP):">
+<!ENTITY smtpName.accesskey "p">
+<!ENTITY smtpDefaultServer.label "Utilisar il server predefinì">

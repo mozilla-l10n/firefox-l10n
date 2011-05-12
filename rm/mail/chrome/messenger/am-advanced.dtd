@@ -1,0 +1,23 @@
+<!-- extracted from am-advanced.xul -->
+
+<!-- LOCALIZATION NOTE (smtpServer.label): do not translate "SMTP" in below line -->
+<!ENTITY smtpServer.label "Configuraziun dal server da sortida (SMTP)">
+
+<!-- LOCALIZATION NOTE (smtpDesc.label): do not translate "SMTP" in below line -->
+<!ENTITY smtpDesc.label "Ti pos specifitgar qua ils servers per messadis che sortan (SMTP) per tut ils contos. En tscherts cas pon ins utilisar in server per messadis che sortan (SMTP) per tut ils contos. Per il solit èsi dentant necessari da definir separadamain per mintga conto in server da sortida SMTP (quai è era il cas sche l'adressa dal server è la medema, ma il num d'utilisader è different).">
+
+<!ENTITY smtpListAdd.label  "Agiuntar…">
+<!ENTITY smtpListAdd.accesskey  "A">
+<!ENTITY smtpListEdit.label "Modifitgar…">
+<!ENTITY smtpListEdit.accesskey "M">
+<!ENTITY smtpListDelete.label "Allontanar">
+<!ENTITY smtpListDelete.accesskey "l">
+<!ENTITY smtpListSetDefault.label "Definir sco standard">
+<!ENTITY smtpListSetDefault.accesskey "s">
+
+<!ENTITY serverDescription.label "Descripziun: ">
+<!ENTITY serverName.label "Num dal server: ">
+<!ENTITY serverPort.label "Port: ">
+<!ENTITY userName.label   "Num d'utilisader: ">
+<!ENTITY connectionSecurity.label "Segirezza da la connexiun: ">
+<!ENTITY authMethod.label   "Metoda d'autentificaziun: ">

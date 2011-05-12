@@ -1,0 +1,7 @@
+<!ENTITY window.title "Persunalisar ils chaus-pagina">
+<!ENTITY addButton.label "Agiuntar">
+<!ENTITY addButton.accesskey "A">
+<!ENTITY removeButton.label "Allontanar">
+<!ENTITY removeButton.accesskey "R">
+<!ENTITY newMsgHeader.label "Nov chau-pagina da messadi:">
+<!ENTITY newMsgHeader.accesskey "N">

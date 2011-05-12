@@ -1,0 +1,24 @@
+<!ENTITY offlineDialog.title "Configuraziuns dal modus senza connexiun">
+
+<!ENTITY textStartUp "Cun aviar:">
+<!ENTITY radioRememberPrevState.label "Sa regurdar dal davos status (online/offline)">
+<!ENTITY radioRememberPrevState.accesskey "R">
+<!ENTITY radioAskMe.label "Dumandar per connectar cun aviar">
+<!ENTITY radioAskMe.accesskey "u">
+<!ENTITY radioAlwaysOnline.label "Adina cumenzar connectà">
+<!ENTITY radioAlwaysOnline.accesskey "l">
+
+<!ENTITY textGoingOnline "Trametter ils messadis anc betg tramess cun midar en il modus online?">
+<!ENTITY radioAutoSend.label "Gea">
+<!ENTITY radioAutoSend.accesskey "Y">
+<!ENTITY radioNotSend.label "Na">
+<!ENTITY radioNotSend.accesskey "N">
+<!ENTITY radioAskUnsent.label "Dumandar mai">
+<!ENTITY radioAskUnsent.accesskey "s">
+<!ENTITY textGoingOffline "Telechargiar ils messadis per l'utilisaziun en il modus offline avant che deconnectar?">
+<!ENTITY radioAutoDownload.label "Gea">
+<!ENTITY radioAutoDownload.accesskey "e">
+<!ENTITY radioNotDownload.label "Na">
+<!ENTITY radioNotDownload.accesskey "o">
+<!ENTITY radioAskDownload.label "Dumandar mai">
+<!ENTITY radioAskDownload.accesskey "A">

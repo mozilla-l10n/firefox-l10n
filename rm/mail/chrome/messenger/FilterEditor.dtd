@@ -1,0 +1,41 @@
+<!ENTITY window.title "Modifitgar il filter">
+
+<!ENTITY filterName.label "Num dal filter:">
+<!ENTITY filterName.accesskey "i">
+
+<!ENTITY junk.label "Nungiavischà">
+<!ENTITY notJunk.label "Betg nungiavischà">
+
+<!ENTITY lowestPriorityCmd.label "Il pli bass">
+<!ENTITY lowPriorityCmd.label "Bass">
+<!ENTITY normalPriorityCmd.label "Normal">
+<!ENTITY highPriorityCmd.label "Aut">
+<!ENTITY highestPriorityCmd.label "Il pli aut">
+
+<!ENTITY contextDesc.label "Applitgar il filter cun:">
+<!ENTITY contextDesc.accesskey "A">
+<!ENTITY contextIncoming.label "Retschaiver e-mails">
+<!ENTITY contextManual.label "Exequir manualmain">
+<!ENTITY contextBoth.label "Retschaiver e-mails u exequir manualmain">
+<!ENTITY contextPostPlugin.label "Retschaiver e-mails (suenter la classificaziun sco (nun)giavischà)">
+<!ENTITY contextPostPluginBoth.label "Retschaiver e-mails (suenter la classificaziun sco (nun)giavischà) u exequir manualmain">
+<!ENTITY filterActionDesc.label "Exequir questas acziuns:">
+<!ENTITY filterActionDesc.accesskey "E">
+
+<!-- New Style Filter Rule Actions -->
+<!ENTITY moveMessage.label "Spustar messadi a">
+<!ENTITY copyMessage.label "Copiar messadi a">
+<!ENTITY forwardTo.label "Transmetter il messadi a">
+<!ENTITY replyWithTemplate.label "Respunder cun il model">
+<!ENTITY markMessageRead.label "Marcar sco legì">
+<!ENTITY markMessageStarred.label "Segnar">
+<!ENTITY setPriority.label "Midar prioritad tar">
+<!ENTITY addTag.label "Agiuntar ina etichetta">
+<!ENTITY setJunkScore.label "Definir il status nungiavischà cun">
+<!ENTITY deleteMessage.label "Stizzar il messadi">
+<!ENTITY deleteFromPOP.label "Stizzar dal server POP">
+<!ENTITY fetchFromPOP.label "Telechargiar dal server POP">
+<!ENTITY ignoreThread.label "Ignorar il tema">
+<!ENTITY ignoreSubthread.label "Ignorar il suttema">
+<!ENTITY watchThread.label "Observar il tema">
+<!ENTITY stopExecution.label "Fermar l'execuziun dal filter">

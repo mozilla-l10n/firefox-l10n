@@ -1,0 +1,78 @@
+<!-- extracted from am-server-top.xul -->
+
+<!ENTITY securitySettings.label "Parameters da segirezza">
+<!ENTITY serverSettings.label "Parameters dal server">
+<!ENTITY serverType.label "Tip da server:">
+<!ENTITY serverName.label "Num dal server:">
+<!ENTITY serverName.accesskey "S">
+<!ENTITY userName.label "Num d'utilisader:">
+<!ENTITY userName.accesskey "N">
+<!ENTITY port.label "Port:">
+<!ENTITY port.accesskey "P">
+<!ENTITY serverPortDefault.label "Predefinì:">
+<!-- LOCALIZATION NOTE (biffStart.label) : translate below 2 line with grammer dependency
+        For example, in Japanese cases:
+                biffStart.label "every"
+                biffEnd.label   "minutes for new messages Check"
+-->
+<!ENTITY biffStart.label "Controllar sin novs messadis mintga ">
+<!ENTITY biffStart.accesskey "m">
+<!ENTITY biffEnd.label "minutas">
+<!ENTITY connectionSecurity.label "Segirezza da connexiun:">
+<!ENTITY connectionSecurity.accesskey "u">
+<!ENTITY connectionSecurityType-0.label "Nagina">
+<!ENTITY connectionSecurityType-1.label "STARTTLS, sche disponibel">
+<!ENTITY connectionSecurityType-2.label "STARTTLS">
+<!ENTITY connectionSecurityType-3.label "SSL/TLS">
+<!ENTITY authMethod.label "Metoda d'autentificaziun:">
+<!ENTITY authMethod.accesskey "i">
+<!ENTITY leaveOnServer.label "Laschar ils messadis sin il server">
+<!ENTITY leaveOnServer.accesskey "g">
+<!ENTITY headersOnly.label "Telechargiar be ils chaus-pagina">
+<!ENTITY headersOnly.accesskey "e">
+<!ENTITY deleteByAgeFromServer.label "Stizzar ils messadis sin il sever suenter">
+<!ENTITY deleteByAgeFromServer.accesskey "o">
+<!ENTITY daysEnd.label "dis">
+<!ENTITY deleteOnServer2.label "Stizzar ils messadis sin il server, sch'els vegnan stizzads en la posta entrada">
+<!ENTITY deleteOnServer2.accesskey "d">
+<!ENTITY downloadOnBiff.label "Telechargiar automaticamain novs messadis">
+<!ENTITY downloadOnBiff.accesskey "m">
+<!ENTITY username.label "Tes num d'utilisader">
+<!ENTITY deleteMessagePrefix.label "Cun stizzar in messadi:">
+<!ENTITY modelMoveToTrash.label "Spustar el en quest ordinatur:">
+<!ENTITY modelMoveToTrash.accesskey "o">
+<!ENTITY modelMarkDeleted.label "Mo marcar el sco stizzà">
+<!ENTITY modelMarkDeleted.accesskey "z">
+<!ENTITY modelDeleteImmediately.label "Stizzar immediatamain el">
+<!ENTITY modelDeleteImmediately.accesskey "d">
+<!-- LOCALIZATION NOTE (expungeOnExit.label) : do not translate two of "&quot;" in below line -->
+<!ENTITY expungeOnExit.label "Nettegiar (&quot;Expunge&quot;) la posta entrada cun serrar">
+<!ENTITY expungeOnExit.accesskey "E">
+<!ENTITY emptyTrashOnExit.label "Svidar il chanaster da palpiri cun serrar">
+<!ENTITY emptyTrashOnExit.accesskey "c">
+<!ENTITY loginAtStartup.label "Controllar sin novs messadis cun aviar">
+<!ENTITY loginAtStartup.accesskey "C">
+<!-- LOCALIZATION NOTE (maxMessagesStart.label) : translate below 2 lines with grammar dependency
+    maxMessengerStart.label will be followed by maxMessagesEnd.label with the number
+   of messages between them
+-->
+<!ENTITY maxMessagesStart.label "Dumandar avant che telechargiar dapli che">
+<!ENTITY maxMessagesStart.accesskey "m">
+<!-- LOCALIZATION NOTE (maxMessagesEnd.label) : see note for maxMessagesStart.label -->
+<!ENTITY maxMessagesEnd.label "messadis">
+<!ENTITY alwaysAuthenticate.label "Adina pretender in'autentificaziun cun connectar a quest server">
+<!ENTITY alwaysAuthenticate.accesskey "w">
+<!ENTITY newsrcFilePath.label "datoteca newsrc:">
+<!ENTITY localPath.label "Ordinatur local:">
+<!ENTITY abbreviate.label "Mussar las gruppas da discussiun en la glista dad ordinaturs cun:">
+<!ENTITY abbreviateOn.label "Nums entirs (Per exempel: 'netscape.public.mozilla.mail-news')">
+<!ENTITY abbreviateOff.label "Nums abreviads (Per exempel: 'n.p.m.mail-news')">
+<!ENTITY advancedButton.label "Extendì…">
+<!ENTITY advancedButton.accesskey "x">
+<!ENTITY serverDefaultCharset.label "Codaziun da caracters da standard:">
+<!ENTITY localFolderPicker.label "Tscherner in ordinatur local">
+<!ENTITY browseFolder.label "Tschertgar en…">
+<!ENTITY browseFolder.accesskey "T">
+<!ENTITY newsrcPicker.label "Tscherner la datoteca newsrc">
+<!ENTITY browseNewsrc.label "Tschertgar en…">
+<!ENTITY browseNewsrc.accesskey "T">

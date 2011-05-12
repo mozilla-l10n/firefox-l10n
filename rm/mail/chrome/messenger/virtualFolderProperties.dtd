@@ -1,0 +1,14 @@
+<!ENTITY virtualFolderProperties.title "Nov orinatur da tschertgas memorisadas">
+<!ENTITY name.label                 "Num:">
+<!ENTITY name.accesskey             "N">
+<!ENTITY description.label          "Crear sco sutordinatur da:">
+<!ENTITY description.accesskey      "C">
+
+<!ENTITY searchTermCaption.label "Configurar ils criteris da tschertga per quest ordinatur da tschertgas memoridadas: ">
+
+<!ENTITY folderSelectionCaption.label "Tscherner ils ordinaturs per tschertgar: ">
+<!ENTITY chooseFoldersButton.label "Tschertgar en...">
+<!ENTITY chooseFoldersButton.accesskey "h">
+
+<!ENTITY searchOnline.label "Tschertgar online (furnescha resultats actuals da contos dad IMAP e da novitads, ma dovra dapli temp per avrir l'ordinatur)">
+<!ENTITY searchOnline.accesskey "S">

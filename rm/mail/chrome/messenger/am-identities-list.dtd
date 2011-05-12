@@ -1,0 +1,7 @@
+<!ENTITY identitiesListDesc.label "Sustegn da multiplas identitads">
+<!ENTITY identitiesListAdd.label  "Agiuntar…">
+<!ENTITY identitiesListAdd.accesskey  "A">
+<!ENTITY identitiesListEdit.label "Modifitgar…">
+<!ENTITY identitiesListEdit.accesskey "M">
+<!ENTITY identitiesListDelete.label "Stizzar">
+<!ENTITY identitiesListDelete.accesskey "z">

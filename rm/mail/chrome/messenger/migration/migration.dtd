@@ -1,0 +1,31 @@
+
+<!ENTITY migrationWizard.title          "Assistent per importar">
+
+<!ENTITY importFromWin.label            "Importar configuraziuns, contos, cudeschets d'adressas, filters ed autras datas da:">
+<!ENTITY importFromNonWin.label         "Importar configuraziuns, contos, cudeschets d'adressas, filters ed autras datas da:">
+
+<!ENTITY importFromNothing.label        "Importar nagut">
+<!ENTITY importFromNothing.accesskey    "n">
+<!ENTITY importFromSeamonkey2.label     "Netscape 6, 7, Mozilla 1.x u SeaMonkey">
+<!ENTITY importFromSeamonkey2.accesskey "s">
+<!ENTITY importFromNetscape4.label      "Netscape 4.x">
+<!ENTITY importFromNetscape4.accesskey  "4">
+<!ENTITY importFromOExpress.label       "Outlook Express">
+<!ENTITY importFromOExpress.accesskey   "x">
+<!ENTITY importFromOutlook.label        "Outlook">
+<!ENTITY importFromOutlook.accesskey    "O">
+<!ENTITY importFromEudora.label         "Eudora">
+<!ENTITY importFromEudora.accesskey     "E">
+
+<!ENTITY importSource.title             "Importar configuraziuns ed ordinaturs dad e-mail">
+<!ENTITY importItems.title              "Datas che duain vegnir importadas">
+<!ENTITY importItems.label              "Tscherna per plaschair las datas che duain vegnir importadas:">
+
+<!ENTITY migrating.title                "Importar...">
+<!ENTITY migrating.label                "Las suandantas datas vegnan importadas actualmain:">
+
+<!ENTITY selectProfile.title            "Tscherner in profil d'utilisader">
+<!ENTITY selectProfile.label            "Ils suandants profils stattan a disposiziun per l'import:">
+
+<!ENTITY done.title                     "L'import è terminà">
+<!ENTITY done.label                     "Las suandantas datas èn vegnidas importadas cun success:">

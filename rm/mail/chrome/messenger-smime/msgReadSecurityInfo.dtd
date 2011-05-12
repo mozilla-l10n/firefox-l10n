@@ -1,0 +1,10 @@
+<!--LOCALIZATION NOTE msgReadSecurityInfo.dtd UI for viewing security status when reading a received message -->
+
+<!ENTITY status.label "Segirezza dal messadi">
+<!ENTITY signatureCert.label "Vesair il certificat da suttascripziun">
+<!ENTITY encryptionCert.label "Vesair il certificat da criptaziun">
+
+<!ENTITY signer.name "Suttascrit da:">
+<!ENTITY recipient.name "Criptà per:">
+<!ENTITY email.address "Adressa dad e-mail:">
+<!ENTITY issuer.name "Certificat emess da:">

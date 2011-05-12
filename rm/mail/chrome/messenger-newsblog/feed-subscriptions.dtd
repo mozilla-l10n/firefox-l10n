@@ -1,0 +1,18 @@
+<!-- Subscription Dialog -->
+<!ENTITY feedSubscriptions.label "Abunaments da feeds">
+<!ENTITY subscriptionDesc.label "Remartga: Allontanar u midar l'ordinatur per in feed na pertutga betg artitgels telechargiads pli baud.">
+<!ENTITY feedTitle.label "Titel:">
+<!ENTITY location.label  "Adressa:">
+
+<!ENTITY button.addFeed.label       "Agiuntar">
+<!ENTITY button.addFeed.accesskey   "A">
+<!ENTITY button.editFeed.label      "Modifitgar">
+<!ENTITY button.editFeed.accesskey  "M">
+<!ENTITY button.removeFeed.label "Allontanar">
+<!ENTITY button.removeFeed.accesskey   "l">
+<!ENTITY button.importOPML.label "Import">
+<!ENTITY button.importOPML.accesskey   "I">
+<!ENTITY button.exportOPML.label "Export">
+<!ENTITY button.exportOPML.accesskey   "E">
+
+<!ENTITY cmd.close.commandKey             "w">

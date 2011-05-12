@@ -1,0 +1,11 @@
+<!ENTITY notificationsDialog2.title       "Persunalisar l'avis ad in nov messadi">
+<!ENTITY window.width                     "38em">
+
+<!ENTITY alertCustomization.intro         "Mussar il suandant en ils avis:">
+<!ENTITY previewText.label                "Extract dal text">
+<!ENTITY previewText.accesskey            "E">
+<!ENTITY subject.label                    "Object">
+<!ENTITY subject.accesskey                "O">
+<!ENTITY sender.label                     "Speditur">
+<!ENTITY sender.accesskey                 "S">
+

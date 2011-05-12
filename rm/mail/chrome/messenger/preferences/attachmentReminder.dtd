@@ -1,0 +1,8 @@
+<!ENTITY attachmentReminderDialog.title   "Chavazzins da la promemoria per agiuntas">
+<!ENTITY attachKeywordText.label          "&brandShortName; vegn a dumandar dad agiuntar ina datoteca, sche ti vuls trametter in messadi che cuntegna in dals suandants chavazzins, dentant nagina agiunta.">
+<!ENTITY addKeywordButton.label           "Agiuntar">
+<!ENTITY addKeywordButton.accesskey       "A">
+<!ENTITY editKeywordButton.label          "Modifitgar">
+<!ENTITY editKeywordButton.accesskey      "E">
+<!ENTITY removeKeywordButton.label        "Stizzar">
+<!ENTITY removeKeywordButton.accesskey    "D">

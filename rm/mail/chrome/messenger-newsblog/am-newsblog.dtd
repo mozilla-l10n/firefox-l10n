@@ -1,0 +1,20 @@
+<!ENTITY accountTitle.label "Opziuns dal conto">
+
+<!ENTITY biffStart.label "Tschertgar novs artitgels mintga ">
+<!ENTITY biffStart.accesskey "T">
+<!ENTITY biffEnd.label "minutas">
+
+<!ENTITY loginAtStartup.label "Tschertgar novs artitgels cun aviar"> 
+<!ENTITY loginAtStartup.accesskey "C">
+
+<!ENTITY useQuickMode.label "Mussar sco standard la resumaziun da l'artitgel empè da la website"> 
+<!ENTITY useQuickMode.accesskey "B">
+
+<!ENTITY manageSubscriptions.label "Administrar abunaments…"> 
+<!ENTITY manageSubscriptions.accesskey "M">
+
+<!-- entities from rss.rdf -->
+<!ENTITY feeds.accountName "Blogs &amp; feeds da novitads">
+<!ENTITY feeds.wizardShortName "Feeds">
+<!ENTITY feeds.wizardLongName "Blogs &amp; feeds da novitads">
+<!ENTITY feeds.wizardLongName.accesskey "F">
