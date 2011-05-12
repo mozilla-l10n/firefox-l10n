@@ -124,6 +124,8 @@
 <!ENTITY detachAttachmentMenuItem.accesskey "t">
 <!ENTITY deleteAttachmentMenuItem.label "eyða">
 <!ENTITY deleteAttachmentMenuItem.accesskey "e">
+<!ENTITY openAllAttachmentsMenuItem.label "opna öll…">
+<!ENTITY openAllAttachmentsMenuItem.accesskey "o">
 <!ENTITY saveAllAttachmentsMenuItem.label "vista öll…">
 <!ENTITY saveAllAttachmentsMenuItem.accesskey "s">
 <!ENTITY detachAllAttachmentsMenuItem.label "taka út öll…">
