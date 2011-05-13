@@ -7,8 +7,13 @@
 <!ENTITY editContactEmail.label "E-mail:">
 <!ENTITY editContactEmail.accesskey "E">
 
+<!ENTITY editContactAddressBook.label "Cudeschet d'adressas:">
+<!ENTITY editContactAddressBook.accesskey "a">
+
 <!ENTITY editContactPanelCancel.label "Interrumper">
 <!ENTITY editContactPanelCancel.accesskey "C">
 
 <!ENTITY editContactPanelDone.label "Terminar">
 <!ENTITY editContactPanelDone.accesskey "D">
+
+<!ENTITY contactMoveDisabledWarning.description "Ti na pos betg midar il cudeschet d'adressas perquai ch'il contact è en ina glista d'e-mail.">
