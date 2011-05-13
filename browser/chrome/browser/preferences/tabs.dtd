@@ -52,5 +52,5 @@
 <!ENTITY switchToNewTabs.label        "Անցնել նոր բացվող պատուհանը">
 <!ENTITY switchToNewTabs.accesskey    "Ա">
 
-<!ENTITY showTabsInTaskbar.label          "Show tab previews in the Windows taskbar">
+<!ENTITY showTabsInTaskbar.label          "Ցուցադրել ներդիրների նախնականը Windows taskbar-ում">
 <!ENTITY showTabsInTaskbar.accesskey      "k">

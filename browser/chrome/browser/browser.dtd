@@ -67,8 +67,8 @@ can reach it easily. -->
 <!ENTITY  pinAppTab.accesskey                "P">
 <!ENTITY  unpinAppTab.label                  "Unpin Tab">
 <!ENTITY  unpinAppTab.accesskey              "b">
-<!ENTITY  moveToGroup.label                  "Move to Group">
-<!ENTITY  moveToGroup.accesskey              "M">
+<!ENTITY  moveToGroup.label                  "Տեղափոխել խումբ">
+<!ENTITY  moveToGroup.accesskey              "Տ">
 <!ENTITY  moveToNewGroup.label               "Նոր խումբ">
 <!ENTITY  moveToNewWindow.label              "Անցնել նոր էջի">
 <!ENTITY  moveToNewWindow.accesskey          "Ա">
@@ -575,15 +575,15 @@ just addresses the organization to follow, e.g. "This site is run by " -->
 <!ENTITY allTabs.filter.emptyText "Որոնման Ներդիրներ">
 <!-- Name for the tabs toolbar as spoken by screen readers.
      The word "toolbar" is appended automatically and should not be contained below! -->
-<!ENTITY tabsToolbar.label "Browser tabs">
+<!ENTITY tabsToolbar.label "Դիտարկիչի ներդիրներ">
 
 <!-- LOCALIZATION NOTE (syncTabsMenu.label): This appears in the history menu -->
 <!ENTITY syncTabsMenu.label     "Ներդիրներ այլ համակարգիչներից">
 
 <!ENTITY syncBrand.shortName.label    "Սինք">
 
-<!ENTITY syncSetup.label              "Set Up &syncBrand.shortName.label;…">
-<!ENTITY syncSetup.accesskey          "S">
+<!ENTITY syncSetup.label              "Տեղադրել &syncBrand.shortName.label;…">
+<!ENTITY syncSetup.accesskey          "s">
 <!ENTITY syncSyncNowItem.label        "Sync Now">
 <!ENTITY syncSyncNowItem.accesskey    "S">
 <!ENTITY syncToolbarButton.label      "Սինք">
