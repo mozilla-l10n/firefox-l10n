@@ -45,9 +45,6 @@
 <!-- File menu items -->
 <!ENTITY fileMenu.label "Datoteca">
 <!ENTITY fileMenu.accesskey "D">
-<!ENTITY newBlankPageCmd.label "Pagina da Composer">
-<!ENTITY newBlankPageCmd.accesskey "P" >
-<!ENTITY newMenu.label "Nov">
 <!ENTITY openFileCmd.label "Avrir la datoteca…">
 <!ENTITY openFileCmd.accesskey "A">
 <!ENTITY openFileCmd.key "O">
@@ -69,14 +66,8 @@
 <!ENTITY publishCmd.key "S">
 <!ENTITY publishAsCmd.label "Publitgar sco…">
 <!ENTITY publishAsCmd.accesskey "g">
-<!ENTITY exportToTextCmd.label "Exportar sco text…">
-<!ENTITY exportToTextCmd.accesskey "T">
 <!ENTITY saveAsChangeEncodingCmd.label "Memorisar e midar la codaziun da caracters">
 <!ENTITY saveAsChangeEncodingCmd.accesskey "c">
-<!ENTITY previewCmd.label "Mussar la pagina en il navigatur">
-<!ENTITY previewCmd.accesskey "n">
-<!ENTITY sendPageCmd.label "Trametter la pagina">
-<!ENTITY sendPageCmd.accesskey "t">
 <!ENTITY printSetupCmd.label "Organisar la pagina…">
 <!ENTITY printSetupCmd.accesskey "O">
 <!ENTITY printCmd.label "Stampar…">
@@ -116,8 +107,6 @@
 <!ENTITY checkSpellingCmd2.label "Controllar l'ortografia">
 <!ENTITY checkSpellingCmd2.accesskey "C">
 <!ENTITY checkSpellingCmd2.key "P">
-<!ENTITY validateCmd.label "Validar HTML">
-<!ENTITY validateCmd.accesskey "V">
 
 <!-- Insert menu items -->
 <!ENTITY insertMenu.label "Inserir">
@@ -332,11 +321,6 @@
 <!ENTITY decreaseIndent.accesskey "D">
 <!ENTITY decreaseIndent.key "[">
 
-<!ENTITY grid.label "Griglia da posiziunar">
-<!ENTITY grid.accesskey "G">
-
-<!ENTITY pageProperties.label "Titel e caracteristicas da la pagina…">
-<!ENTITY pageProperties.accesskey "T">
 <!ENTITY colorsAndBackground.label "Colur e fund davos da la pagina…">
 <!ENTITY colorsAndBackground.accesskey "C">
 
@@ -405,15 +389,13 @@
 
 <!-- Toolbar-only items -->
 <!ENTITY menuBar.tooltip "Trav da menus">
-<!ENTITY compositionToolbar.tooltip "Trav d'utensils per rediger">
 <!ENTITY formatToolbar.tooltip "Trav d'utensils da formataziun">
+<!ENTITY newToolbarCmd.label "Nov">
 <!ENTITY newToolbarCmd.tooltip "Crear ina nova pagina da Composer">
 <!ENTITY openToolbarCmd.label "Avrir">
 <!ENTITY openToolbarCmd.tooltip "Avrir ina datoteca locala">
 <!ENTITY saveToolbarCmd.tooltip "Memorisar la datoteca en in'adressa locala">
 <!ENTITY publishToolbarCmd.tooltip "Chargiar la datoeca sin in'adressa externa">
-<!ENTITY previewToolbarCmd.label "Navigar">
-<!ENTITY previewToolbarCmd.tooltip "Chargiar questa pagina en il navigatur">
 <!ENTITY printToolbarCmd.label "Stampar">
 <!ENTITY printToolbarCmd.tooltip "Stampar questa pagina">
 <!ENTITY findToolbarCmd.label "Tschertgar">
@@ -450,33 +432,7 @@
 <!ENTITY alignLeftButton.tooltip "Alingiar il text a l'ur sanester">
 <!ENTITY alignCenterButton.tooltip "Centrar il text">
 <!ENTITY alignRightButton.tooltip "Alingiar il text a l'ur dretg">
-<!ENTITY alignjustifyButton.tooltip "Alingiar il text a l'ur sanester ed a l'ur dretg">
-
-<!-- Display Mode toolbar and View menu items -->
-<!ENTITY NormalModeTab.label "Normal">
-<!ENTITY NormalMode.label "Modus normal d'editar">
-<!ENTITY NormalMode.accesskey "N">
-<!ENTITY NormalMode.tooltip "Mussar ils urs da la tabella e las ancras cun num">
-<!ENTITY AllTagsMode.label "Tags da HTML">
-<!ENTITY AllTagsMode.accesskey "a">
-<!ENTITY AllTagsMode.tooltip "Mussar simbols per tut ils tags da HTML">
-
-<!ENTITY HTMLSourceMode.label "Code da funtauna HTML">
-<!-- Toolbar has an image with "HTML" text, so don't include it in the string -->
-<!ENTITY SourceMode.label "Code da funtauna">
-<!ENTITY HTMLSourceMode.accesskey "H">
-<!ENTITY HTMLSourceMode.tooltip "Editar il code da funtauna HTML">
-<!ENTITY PreviewMode.label "Prevista">
-<!ENTITY PreviewMode.accesskey "P">
-<!ENTITY PreviewMode.tooltip "Visualisar a moda WYSIWYG (sco en il navigatur)">
-
-<!-- LOCALIZATION NOTE: Do NOT translate text for 'SourceTabDirection'
-     Use latin "ltr" if you want the <html> image to left of the 
-     'SourceMode.label' text defined above,
-     or use latin "rtl" if you want this image to the right of text
-     This is the value of the HTML 'dir' attribute
--->
-<!ENTITY SourceTabDirection "ltr">
+<!ENTITY alignJustifyButton.tooltip "Alingiar il text a l'ur sanester ed a l'ur dretg">
 
 <!-- Structure Toolbar Context Menu items -->
 <!ENTITY structSelect.label         "Tscherner">
