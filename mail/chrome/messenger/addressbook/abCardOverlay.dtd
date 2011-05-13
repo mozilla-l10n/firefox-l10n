@@ -64,6 +64,8 @@
 <!ENTITY PhoneticField2.label           "Fonetic:">
 <!ENTITY DisplayName.label              "Num per mussar:">
 <!ENTITY DisplayName.accesskey          "m">
+<!ENTITY preferDisplayName.label        "Adina mussar il 'num per musar' èmpe da las indicaziuns en il chau da la novitad">
+<!ENTITY preferDisplayName.accesskey    "c">
 <!ENTITY NickName.label                 "Surnum:">
 <!ENTITY NickName.accesskey             "S">
 
@@ -113,9 +115,9 @@
 <!ENTITY Birthday.label                 "Anniversari:">
 <!ENTITY Birthday.accesskey             "A">
 <!ENTITY In.label                       "">
-<!ENTITY Year.emptytext                 "Onn">
+<!ENTITY Year.placeholder               "Onn">
 <!ENTITY Or.value                       "u">
-<!ENTITY Age.emptytext                  "Vegliadetgna">
+<!ENTITY Age.placeholder                "Vegliadetgna">
 <!ENTITY YearsOld.label                 "">
 
 <!ENTITY Work.tab                       "Lavur">
@@ -166,6 +168,6 @@
 <!ENTITY BrowsePhoto.accesskey          "r">
 <!ENTITY PhotoURL.label                 "En il web">
 <!ENTITY PhotoURL.accesskey             "w">
-<!ENTITY PhotoURL.emptytext             "Endatescha l'adressa web dad ina fotografia">
+<!ENTITY PhotoURL.placeholder           "Endatescha l'adressa web dad ina fotografia">
 <!ENTITY UpdatePhoto.label              "Actualisar">
 <!ENTITY UpdatePhoto.accesskey          "U">
