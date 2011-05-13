@@ -84,7 +84,6 @@
 <!ENTITY replyWithTemplate.label "Met sjabloon antwoorden">
 <!ENTITY markMessageRead.label "Bericht als gelezen markeren">
 <!ENTITY markMessageStarred.label "Ster toevoegen">
-<!ENTITY labelMessage.label "Bericht labelen als">
 <!ENTITY setPriority.label "Prioriteit wijzigen in">
 <!ENTITY addTag.label "Bericht labelen">
 <!ENTITY setJunkScore.label "Ongewenstberichtstatus instellen op">
