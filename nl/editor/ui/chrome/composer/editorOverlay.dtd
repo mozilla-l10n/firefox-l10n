@@ -45,9 +45,6 @@
 <!-- File menu items -->
 <!ENTITY fileMenu.label "Bestand">
 <!ENTITY fileMenu.accesskey "B">
-<!ENTITY newBlankPageCmd.label "Composer-pagina">
-<!ENTITY newBlankPageCmd.accesskey "p">
-<!ENTITY newMenu.label "Nieuw">
 <!ENTITY openFileCmd.label "Bestand openen…">
 <!ENTITY openFileCmd.accesskey "o">
 <!ENTITY openFileCmd.key "o">
@@ -393,6 +390,7 @@
 <!-- Toolbar-only items -->
 <!ENTITY menuBar.tooltip "Menubalk">
 <!ENTITY formatToolbar.tooltip "Opmaakwerkbalk">
+<!ENTITY newToolbarCmd.label "Nieuw">
 <!ENTITY newToolbarCmd.tooltip "Een nieuwe Composer-pagina creëren">
 <!ENTITY openToolbarCmd.label "Openen">
 <!ENTITY openToolbarCmd.tooltip "Een lokaal bestand openen">
