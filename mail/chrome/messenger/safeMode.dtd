@@ -36,10 +36,10 @@
 #endif
    - ***** END LICENSE BLOCK ***** -->
 
-<!ENTITY safeModeDialog.title             "&brandShortName; Modus segir�">
+<!ENTITY safeModeDialog.title             "&brandShortName; Modus segirà">
 <!ENTITY window.width                     "37em">
 
-<!ENTITY safeModeDescription.label        "&brandShortName; vegn ussa exequ� en il modus segir�. Quel deactivescha temporarmain tias configuraziuns persunalisadas, ils themes e las extensiuns.">
+<!ENTITY safeModeDescription.label        "&brandShortName; vegn ussa exequì en il modus segirà. Quel deactivescha temporarmain tias configuraziuns persunalisadas, ils themes e las extensiuns.">
 <!ENTITY safeModeDescription2.label       "Ti pos far daventar permanentas intginas u tuttas questas midadas:">
 
 <!ENTITY disableAddons.label              "Deactivar tut ils supplements">
@@ -51,5 +51,5 @@
 <!ENTITY changeAndRestartButton.label     "Exequir las midadas e reaviar">
 <!ENTITY changeAndRestartButton.accesskey "M">
 
-<!ENTITY continueButton.label             "Cuntinuar en il modus segir�">
+<!ENTITY continueButton.label             "Cuntinuar en il modus segirà">
 <!ENTITY continueButton.accesskey         "C">
