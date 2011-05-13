@@ -1,6 +1,7 @@
 <!ENTITY prefsHeader.label                         "Préférences">
 <!ENTITY about.title                               "À propos de &brandShortName;">
 <!ENTITY about.button                              "Aller à la page">
+<!ENTITY about.button                              "Site Web">
 <!ENTITY content.title                             "Contenu">
 <!ENTITY reflowZoom.title                          "Zoom textuel reformaté">
 <!ENTITY showImages.title                          "Afficher les images">
@@ -8,16 +9,16 @@
 <!ENTITY enablePlugins.title                       "Activer les plugins">
 <!ENTITY privacy.title                             "Vie privée et confidentialité">
 <!ENTITY allowCookies.title                        "Autoriser les cookies">
-<!ENTITY doNotTrack.title                          "Indiquer : ne pas me pister">
-<!ENTITY clearPrivateData2.title                   "Effacer les données privées">
+<!ENTITY doNotTrack.title                          "Dire de ne pas me pister">
+<!ENTITY clearPrivateData2.title                   "Données privées">
 <!ENTITY clearPrivateData.button                   "Effacer">
-<!ENTITY rememberPasswords.title                   "Enregistrer les mots de passe">
+<!ENTITY rememberPasswords.title                   "Enreg. les mots de passe">
 
 <!ENTITY language.title                            "Langue">
 <!ENTITY language.auto                             "Détection automatique">
 <!ENTITY defaultBrowser.title                      "Navigateur par défaut">
 <!ENTITY defaultBrowser.description                "Faire de &brandShortName; votre navigateur par défaut">
-<!ENTITY homepage.title                            "Page d'accueil">
+<!ENTITY homepage.title                            "Accueil">
 <!ENTITY homepage.none                             "Page vide">
 <!ENTITY homepage.default                          "Accueil de &brandShortName;">
 <!ENTITY homepage.currentpage                      "Page courante">

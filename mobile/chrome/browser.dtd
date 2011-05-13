@@ -1,4 +1,4 @@
-<!ENTITY urlbar.emptytext      "Saisir une recherche/adresse">
+<!ENTITY urlbar.emptytext      "Recherche ou adresse">
 
 <!ENTITY back.label            "Précédente">
 <!ENTITY forward.label         "Suivante">
@@ -38,7 +38,7 @@
 <!ENTITY addonsRepo.label          "Obtenir des modules">
 <!ENTITY addonsRecommended.label   "Recommandés">
 <!ENTITY addonsSearch.label        "Catalogue">
-<!ENTITY addonsSearch2.emptytext   "Rechercher dans le catalogue">
+<!ENTITY addonsSearch2.emptytext   "Chercher dans le catalogue">
 <!ENTITY addonsSearch.recommended  "Recommandés">
 
 <!ENTITY addonOptions.label "Options">
