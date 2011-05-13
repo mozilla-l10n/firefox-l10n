@@ -62,11 +62,11 @@
 <!ENTITY selectAllCmd.accesskey "a">
 
 <!ENTITY execute.label "Vykonat">
-<!ENTITY execute.accesskey "k">
+<!ENTITY execute.accesskey "V">
 <!ENTITY execute.key "t">
 
 <!ENTITY inspect.label "Prozkoumat">
-<!ENTITY inspect.accesskey "I">
+<!ENTITY inspect.accesskey "P">
 <!ENTITY inspect.key "i">
 
 <!ENTITY print.label "Tisk">
@@ -77,7 +77,7 @@
 <!ENTITY contextMenu.accesskey "K">
 
 <!ENTITY contentContext.label "Obsah">
-<!ENTITY contentContext.accesskey "O">
+<!ENTITY contentContext.accesskey "b">
 
 <!ENTITY chromeContext.label "Chrome">
 <!ENTITY chromeContext.accesskey "h">
