@@ -60,7 +60,7 @@
 <!ENTITY channel.change             "Nomainīt">
 
 <!ENTITY channel.release.description       "Izbaudi pārbaudītu un labi notestētu gala versiju, ko lieto miljoniem cilvēku visā pasaulē. Kontrolējiet savas interneta izjūtas ar super ātrumu, pielāgojamību un jaunākajām tīmekļa tehnoloģijām.">
-<!ENTITY channel.beta.description          "Experience cutting edge features with more stability. Provide feedback to help refine and polish what will be in the final release.">
+<!ENTITY channel.beta.description          "Sajūti jaunākās iespējas un lielāku stabilitāti. Sniedz savas atsauksmes un palīdzi uzlabot un pieslīpēt jaunās funkcijas gala versijai.">
 <!ENTITY channel.aurora.description        "Piedzīvo pašus jaunākos nestabilās vides jaunievedumus, kurus ne kurš katrs spēj novērtēt. Sniedzot savu viedokli par jaunajām funkcijām un ātrdarbību palīdzi izlemt, kas tiks iekļauts gala versijā.">
 
 <!-- LOCALIZATION NOTE (channel.selector.start,channel.selector.end): channel.selector.start and

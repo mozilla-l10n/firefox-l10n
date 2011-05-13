@@ -1,5 +1,5 @@
 <!-- The page shown when not logged in... -->
-<!ENTITY setupButton.label          "Iestatīt &syncBrand.fullName.label;">
+<!ENTITY setupButton.label          "Iestatīt sinhronizāciju">
 <!ENTITY setupButton.accesskey      "S">
 <!ENTITY weaveDesc.label            "&syncBrand.fullName.label; ļauj jums piekļūt pārlūkošanas vēsturei, grāmatzīmēm, parolēm un atvērtajām cilnēm visās jūsu izmantotajās ierīcēs.">
 
