@@ -389,7 +389,7 @@ can reach it easily. -->
 <!ENTITY sendVideoCmd.accesskey       "S">
 <!ENTITY sendAudioCmd.label           "Send lyd…">
 <!ENTITY sendAudioCmd.accesskey       "S">
-<!ENTITY copyLinkCmd.label            "Kopier webadresse">
+<!ENTITY copyLinkCmd.label            "Kopier linkadresse">
 <!ENTITY copyLinkCmd.accesskey        "K">
 <!ENTITY copyImageCmd.label           "Kopier billedadresse">
 <!ENTITY copyImageCmd.accesskey       "K">
@@ -414,9 +414,9 @@ can reach it easily. -->
 <!ENTITY mediaUnmute.label           "Slå lyd til">
 <!ENTITY mediaUnmute.accesskey       "l">
 <!ENTITY mediaShowControls.label     "Vis knapper">
-<!ENTITY mediaShowControls.accesskey "k">
+<!ENTITY mediaShowControls.accesskey "n">
 <!ENTITY mediaHideControls.label     "Skjul knapper">
-<!ENTITY mediaHideControls.accesskey "k">
+<!ENTITY mediaHideControls.accesskey "n">
 <!ENTITY videoFullScreen.label       "Fuldskærm">
 <!ENTITY videoFullScreen.accesskey   "F">
 
