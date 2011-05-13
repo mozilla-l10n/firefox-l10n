@@ -1,14 +1,14 @@
-<!ENTITY tracking.label                 "Tracking">
+<!ENTITY tracking.label                 "Ufuatiliaji">
 
-<!ENTITY doNotTrack.label               "Ambia toviti sitaki kutafutiliwa">
+<!ENTITY doNotTrack.label               "Ambia toviti sitaki kufuatiliwa">
 <!ENTITY doNotTrack.accesskey           "s">
 
-<!ENTITY  history.label                 "HIstoria">
+<!ENTITY  history.label                 "Historia">
 
-<!ENTITY  locationBar.label             "Pau Mahali">
+<!ENTITY  locationBar.label             "Mwambaa wa Mahali">
 
-<!ENTITY  locbar.pre.label              "Wakati kutumia pau mahali, shauri:">
-<!ENTITY  locbar.pre.accessKey          "k">
+<!ENTITY  locbar.pre.label              "Wakati unatumia mwambaa wa mahali, pendekeza:">
+<!ENTITY  locbar.pre.accessKey          "u">
 <!ENTITY  locbar.post.label             "">
 <!ENTITY  locbar.both.label             "Historia na Alamisho">
 <!ENTITY  locbar.history.label          "Historia">

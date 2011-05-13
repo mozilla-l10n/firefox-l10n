@@ -3,7 +3,7 @@
 <!-- Specific error messages -->
 
 
-<!ENTITY connectionFailure.title "Imeshindwa Kuungana">
+<!ENTITY connectionFailure.title "Imeshindwa Kuunganisha">
 <!ENTITY connectionFailure.longDesc "<p>Ingawa wavuti yaonekana kuwa sahihi, kivinjari kimeshindwa kuanzisha muungano.</p><ul><li>Huenda tovuti haipatikani kwa muda? Jaribu tena baadaye.</li><li>Umeshindwa kuvinjari wavuti zingine?  Kagua muungano wa mtandao wa tarakilishi.</li><li>Tarakilishi au mtandao wako umelindwa na ngome au mbadala? Mipangilio isiyo sahihi yaweza kuingilia kuvinjari Wavuti.</li></ul>">
 
 <!ENTITY deniedPortAccess.title "Kituo Kimzuiliwa kwa Sababu za Usalama">
@@ -68,7 +68,7 @@
 
 <!ENTITY malwareBlocked.title "Tovuti inayoshukiwa kuwa Shambulizi!">
 <!ENTITY malwareBlocked.longDesc "<p>Tovuti shambulizi hujaribu kusakinsha programu ambazo zinaiba maelezo ya kibinafsi, kutumia tarakilishi yako kushambulia zingine, au kudhuru mfumo wako.</p> 
-<p>Wamiliki wa wavuti wanaoamini tovuti zao zimeripotiwa kama wavuti shambulizi kimakosa wanaweza kuomba kuangalia tena<a href='http://www.stopbadware.org/home/reviewinfo' ></a>.</p>">
+<p>Wamiliki wa wavuti wanaoamini tovuti zao zimeripotiwa kama wavuti shambulizi kimakosa wanaweza kuomba kuangalia tena<a href='http://www.stopbadware.org/home/reviewinfo' >omba hakiki</a>.</p>">
 
 <!ENTITY phishingBlocked.title "Ughushi wa Wavuti unashukiwa!">
 <!ENTITY phishingBlocked.longDesc "<p>Kuingiza maelezo yoyote ya kibinafsi kwenye ukurasa huu waweza kusababisha wizi au udanganyifu wa aina nyingine.</p> 
@@ -77,8 +77,8 @@
 <!ENTITY cspFrameAncestorBlocked.title "Imezuiliwa na Sera ya Usalama wa Maudhui">
 <!ENTITY cspFrameAncestorBlocked.longDesc "<p>Kivinjari kimezuia ukurasa huu kupakia katika njia hii kwa sababu ukurasa una sera ya usalama wa maudhui ambayo inakataza hili.</p>">
 
-<!ENTITY remoteXUL.title "Remote XUL">
-<!ENTITY remoteXUL.longDesc "<p><ul><li>Please contact the website owners to inform them of this problem.</li></ul></p>">
+<!ENTITY remoteXUL.title "XUL ya Mbali">
+<!ENTITY remoteXUL.longDesc "<p><ul><li>Tafadhali wasiliana na wamiliki wa tovuti ili kuwafahamisha juu ya tatizo hili.</li></ul></p>">
 <!-- Include app-specific error messages - do not change this in localization!
      Some applications might override netErrorApp.dtd with their specific version,
      this inclusion needs to be intact for that approach to work correctly.

@@ -6,7 +6,7 @@
 <!-- Specific error messages -->
 
 
-<!ENTITY connectionFailure.title "Imeshindwa kuungana">
+<!ENTITY connectionFailure.title "Imeshindwa kuunganisha">
 <!ENTITY connectionFailure.longDesc "&sharedLongDesc;">
 
 <!ENTITY deniedPortAccess.title "Anwani hii imezuiliwa">
@@ -30,8 +30,8 @@ kuwa &brandShortName; imeruhusiwa ufikivu kwa Wavuti.</li>
 <li>">
 
 
-<!ENTITY generic.title "Oops.">
-<!ENTITY generic.longDesc "<p>&brandShortName; haiwezikupakia ukurasa huu kwa sababu fulani.</p>">
+<!ENTITY generic.title "Lo.">
+<!ENTITY generic.longDesc "<p>&brandShortName; haiwezi kupakia ukurasa huu kwa sababu fulani.</p>">
 
 <!ENTITY malformedURI.title "Anwani  hii sio sahihi">
 <!ENTITY malformedURI.longDesc "<ul> 
@@ -41,20 +41,20 @@ kuwa &brandShortName; imeruhusiwa ufikivu kwa Wavuti.</li>
 <strong>/</strong>).</li> 
 </ul>">
 
-<!ENTITY netInterrupt.title "Muungano ulisitishwa">
+<!ENTITY netInterrupt.title "Muunganisho ulisitishwa">
 <!ENTITY netInterrupt.longDesc "&sharedLongDesc;">
 
-<!ENTITY netOffline.title "Hali tumizi ya nje ya mtandao">
+<!ENTITY netOffline.title "Modi ya nje ya mtandao">
 <!-- LOCALIZATION NOTE (netOffline.overrideLongDesc) - This string should
      indicate that "Work Offline" is a menu item without being too specific,
      since it could be in either the normal menu (Mac/Linux) or the Firefox button
      menu (Windows).
 -->
 <!ENTITY netOffline.overrideLongDesc "<ul> 
-<li>Alamishua &quote;Fanya kazi nje ya mtandao&quot; kipengee cha menyu, kisha jaribu tena.</li> 
+<li>Batilisha uteuzi &quote;Fanya kazi nje ya mtandao&quot; kipengee cha menyu, kisha jaribu tena.</li> 
 </ul>">
 
-<!ENTITY contentEncodingError.title "Kosa la Usimbaji Yaliyomo">
+<!ENTITY contentEncodingError.title "Kosa la Usimbuaji Yaliyomo">
 <!ENTITY contentEncodingError.longDesc "<ul> 
 <li>Tafadhali wasiliana na wamiliki wa tovuti kuwajulisha kuhusu shida hii.</li> 
 </ul>">
@@ -103,7 +103,7 @@ vidukizo.</li>
 <li>Hii yaweza kusababishwa na usanidi usio sanifu kwenye sava.</li> 
 </ul>">
 
-<!ENTITY nssFailure2.title "Muungano Salama Umeshindwa">
+<!ENTITY nssFailure2.title "Muunganisho Salama Umeshindwa">
 <!ENTITY nssFailure2.longDesc "<ul> 
 <li>Ukurasa unaojaribu kuangali hauwezi kuonyeshwa kwa sababu ya uhalali wa data iliyopokelewa haingethibitishwa.</li> 
 <li>Tafadhali wasiliana na wamilikii wa tovuti ili kuwajulisha kuhusu shida hii. Badala yake, tumia amri inayopatika kwenye menyu ya msaada kuripoti tovuti hii iliyoharibika.</li> 
@@ -151,5 +151,5 @@ functionality specific to firefox. -->
 <button id='getMeOutOfHereButton'>&securityOverride.getMeOutOfHereButton;</button> 
 <button id='exceptionDialogButton'>&securityOverride.exceptionButtonLabel;</button>">
 
-<!ENTITY remoteXUL.title "Remote XUL">
-<!ENTITY remoteXUL.longDesc "<p><ul><li>Please contact the website owners to inform them of this problem.</li></ul></p>">
+<!ENTITY remoteXUL.title "XUL ya Mbali">
+<!ENTITY remoteXUL.longDesc "<p><ul><li>Tafadhali wasiliana na wamiliki wa tovuti ili kuwafahamisha juu ya tatizo hili.</li></ul></p>">
