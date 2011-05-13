@@ -54,3 +54,27 @@
 
 <!ENTITY update.downloading.start   "Okuwannula Ekituusaganya— ">
 <!ENTITY update.downloading.end     "">
+<!-- LOCALIZATION NOTE (channel.description.start,channel.description.end): channel.description.start and
+     channel.description.end create one sentence, with the current channel label inserted in between.
+     example: You are currently on the _Stable_ update channel. -->
+
+<!ENTITY channel.description.start  "Kakati oliku ">
+<!ENTITY channel.description.end    " omukutu gutusiddwa. ">
+
+<!ENTITY channel.change             "Kyuusa">
+
+<!ENTITY channel.release.description       "Nyumirwa enfulumya eyokumwanjo egezeseddwa era ekozesebwa obuwumbi bwa abantu munsiyona. Sigala nga ofuga engeri jokozesamu  y'internet mubwangu, entegeka enyangu wamu ne tekinologia asinga okuba omupya ku mukutu.">
+<!ENTITY channel.beta.description          "Nyumirwa enkola eyokumwanjo wamu nobutebenkefu. Tubulire ngabwokisanze tosobole okulongosa munfulumya ensembayo.">
+<!ENTITY channel.aurora.description        "Nyumirwa enjiya esingayo obupya mu mbera etali ntebenkevu era nga tesana mutima munafu. Tubulire ngabwosanze ebyenjawulo nenkola yabyo tusoobole okumanya enfulumya esembayo bwenaba.">
+<!-- LOCALIZATION NOTE (channel.selector.start,channel.selector.end): channel.selector.start and
+     channel.selector.end create one sentence, with a channel selection menulist instered in between.
+     This is all in one line, so try to make the localized text short.
+     example: Switch to the [Stable] update channel. -->
+
+<!ENTITY channel.selector.start          "Da ku">
+<!ENTITY channel.selector.end            "omukutu ogutusaganya.">
+<!-- LOCALIZATION NOTE (channel.selector.applyButton): This button applies the user's choice to switch
+     to a new update channel and starts the application update process. -->
+
+<!ENTITY channel.selector.applyButton    "Teekawo era Otusaganye">
+<!ENTITY channel.selector.cancelButton   "Sazaamu">

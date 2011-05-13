@@ -21,8 +21,6 @@
 <!ENTITY allowHWAccel.accesskey          "e">
 <!ENTITY checkSpelling.label             "Kebera epandika yange nga wandiika">
 <!ENTITY checkSpelling.accesskey         "w">
-<!ENTITY doNotTrack.label                "Gamba emiko nti saggala kugoberererwa">
-<!ENTITY doNotTrack.accesskey            "a">
 
 <!ENTITY systemDefaults.label            "Ebiberewo bya sisitimu">
 <!--XXX-->
@@ -69,8 +67,8 @@
 <!ENTITY whenUpdatesFound.label          "Mu kulongosa ku &brandShortName; bizuunse:">
 <!ENTITY askMe.label                     "Bunza kiki kye njjangala ku kola">
 <!ENTITY askMe.accesskey                 "a">
-<!ENTITY modeAutomatic.label             "Ekyetekako wanula era tekamu ebilongosirwa">
-<!ENTITY modeAutomatic.accesskey         "w">
+<!ENTITY modeAutomatic.label             "Wanula era otekamu ekituusa kino">
+<!ENTITY modeAutomatic.accesskey         "W">
 <!ENTITY modeAutoAddonWarn.label         "Ndabula nga kino kiza salawo ku bigattwamu byage">
 <!ENTITY modeAutoAddonWarn.accesskey     "N">
 <!ENTITY updateHistory.label             "Laga Ebyafaayo Ebilongosirwamu">
