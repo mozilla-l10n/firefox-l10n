@@ -47,7 +47,7 @@ you can use these alternative items. Otherwise, their values should be empty.  -
 <!ENTITY reloadCmd.label "Phinda Ulayishe">
 <!ENTITY reloadCmd.accesskey "P">
 <!ENTITY reloadCmd.commandkey "r">
-<!ENTITY menu_wrapLongLines.title "Goqa imigqa emide">
+<!ENTITY menu_wrapLongLines.title "Goqa imigqa emide"> 
 <!ENTITY menu_wrapLongLines.accesskey "G">
 <!ENTITY menu_highlightSyntax.label "Ukugqamisa Ukuhlelwa Kwamagama Olimi">
 <!ENTITY menu_highlightSyntax.accesskey "U">

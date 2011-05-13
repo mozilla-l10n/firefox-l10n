@@ -1,3 +1,8 @@
+<!ENTITY tracking.label                 "Ukulandela umhkondo">
+
+<!ENTITY doNotTrack.label               "Tshela amawebhusayithi ukuthi angifuni ukulandelwa">
+<!ENTITY doNotTrack.accesskey           "a">
+
 <!ENTITY  history.label                 "Umlando">
 
 <!ENTITY  locationBar.label             "Ibha yendawo">
@@ -30,9 +35,8 @@
 <!ENTITY  showCookies.label             "Bonisa amakhukhi…">
 <!ENTITY  showCookies.accesskey         "B">
 
-
-<!ENTITY  historyHeader.pre.label          "i-&brandShortName; nesifiso:">
-<!ENTITY  historyHeader.pre.accesskey      "n">
+<!ENTITY  historyHeader.pre.label          "i-&brandShortName; izo:">
+<!ENTITY  historyHeader.pre.accesskey      "i">
 <!ENTITY  historyHeader.remember.label     "Khumbula umlando">
 <!ENTITY  historyHeader.dontremember.label "Kungalokothwa kukhunjulwe umlando">
 <!ENTITY  historyHeader.custom.label       "Sebenzisa izimiso zokuzenzela uzisebenzisele umlando">
@@ -46,14 +50,14 @@
 <!ENTITY  rememberActions.pre.label           "Ungafuna ">
 <!ENTITY  rememberActions.clearHistory.label  "ukususa umlando wakho wakamuva">
 <!ENTITY  rememberActions.middle.label        ", noma ">
-<!ENTITY  rememberActions.removeCookies.label "susa amakhukhi angawodwa">
+<!ENTITY  rememberActions.removeCookies.label "ukususa amakhukhi angawodwa">
 <!ENTITY  rememberActions.post.label          ".">
 
-<!ENTITY  dontrememberDescription.label  "I-&brandShortName; izisebenzisa izimiso ezifana nezokuphequlula okuyimfihlo, futhi angeke ikhumbule umlando njengoba udlulisa amehlo kwi-webhu.">
+<!ENTITY  dontrememberDescription.label  "I-&brandShortName; izosebenzisa izimiso ezifana nezokuphequlula okuyimfihlo, futhi angeke ikhumbule umlando njengoba udlulisa amehlo kwi-webhu.">
 <!-- LOCALIZATION NOTE (dontrememberActions.pre.label): include a trailing space as needed -->
 <!-- LOCALIZATION NOTE (dontrememberActions.post.label): include a starting space as needed -->
 
-<!ENTITY  dontrememberActions.pre.label          "Ungafuna ">
+<!ENTITY  dontrememberActions.pre.label          "Ungafuna futhi ">
 <!ENTITY  dontrememberActions.clearHistory.label "ukususa wonke umlando wamanje">
 <!ENTITY  dontrememberActions.post.label         ".">
 
@@ -63,7 +67,7 @@
 <!ENTITY  rememberHistory.label      "Khumbula umlando wami wokudlulisa amehlo">
 <!ENTITY  rememberHistory.accesskey  "u">
 
-<!ENTITY  rememberDownload.label         "Khumbula umlando wokulayisha">
+<!ENTITY  rememberDownload.label         "Khumbula umlando wokulayisha ungenise">
 <!ENTITY  rememberDownload.accesskey     "w">
 
 <!ENTITY  rememberSearchForm.label       "Khumbula ukusesha nohlobo lomlando">

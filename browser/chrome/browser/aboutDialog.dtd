@@ -23,9 +23,9 @@
 <!ENTITY bottomLinks.privacy        "Inqubo Yemfihlo">
 <!-- LOCALIZATION NOTE (update.checkingForUpdates): try to make the localized text short (see bug 596813 for screenshots). -->
 
-<!ENTITY update.checkingForUpdates  "Kuhlolwa ukuvuselelwa...">
+<!ENTITY update.checkingForUpdates  "Kuhlolwa ukuvuselelwa…">
 <!-- LOCALIZATION NOTE (update.checkingAddonCompat): try to make the localized text short (see bug 596813 for screenshots). -->
-<!ENTITY update.checkingAddonCompat "Kuhlolwa ukufaneleka kokungangezwa...">
+<!ENTITY update.checkingAddonCompat "Kuhlolwa ukufaneleka kokungangezwa…">
 <!-- LOCALIZATION NOTE (update.noUpdatesFound): try to make the localized text short (see bug 596813 for screenshots). -->
 <!ENTITY update.noUpdatesFound      "&brandShortName; isesikhathini">
 <!-- LOCALIZATION NOTE (update.adminDisabled): try to make the localized text short (see bug 596813 for screenshots). -->
@@ -54,3 +54,27 @@
 
 <!ENTITY update.downloading.start   "Kulayishwa ukuvuselelwa — ">
 <!ENTITY update.downloading.end     "">
+<!-- LOCALIZATION NOTE (channel.description.start,channel.description.end): channel.description.start and
+     channel.description.end create one sentence, with the current channel label inserted in between.
+     example: You are currently on the _Stable_ update channel. -->
+
+<!ENTITY channel.description.start  "Okwamanje uku ">
+<!ENTITY channel.description.end    " vuselela isiteshi. ">
+
+<!ENTITY channel.change             "Shintsha…">
+
+<!ENTITY channel.release.description       "Jabulela ukukhishwa okuzanyiwe nokuhloliwe kwamanqamu okusetshenziswe izigidi zamakhulu emhlabeni jikelele. Hlala uselawulweni ngokwazi kwakho okuselayinini ngesivinini esinamandla, ukuzenzela ngokwezifiso okulula nobuchwepheshe bakamuva bewebhu.">
+<!ENTITY channel.beta.description          "Yazi izici ezifinyelela ekugcineni ngamandla angeziwe. Nikela ngempendulo ukusiza ukwenza ngcono nokulungisa okuzoba sekukhishweni kwamanqamu.">
+<!ENTITY channel.aurora.description        "Yazi izinguqulo ezisha endaweni engalungile ezingekho enhliziyweni. Nikela impendulo ezicini nokusebenza ukusiza ukuquma ukuthi yini okwenza ukukhishwa kwamanqamu.">
+<!-- LOCALIZATION NOTE (channel.selector.start,channel.selector.end): channel.selector.start and
+     channel.selector.end create one sentence, with a channel selection menulist instered in between.
+     This is all in one line, so try to make the localized text short.
+     example: Switch to the [Stable] update channel. -->
+
+<!ENTITY channel.selector.start          "Shintshela kwi">
+<!ENTITY channel.selector.end            "vuselela isiteshi.">
+<!-- LOCALIZATION NOTE (channel.selector.applyButton): This button applies the user's choice to switch
+     to a new update channel and starts the application update process. -->
+
+<!ENTITY channel.selector.applyButton    "Sebenzisa futhi uvuselele">
+<!ENTITY channel.selector.cancelButton   "Khansela">

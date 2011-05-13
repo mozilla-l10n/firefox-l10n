@@ -56,13 +56,13 @@
 <!ENTITY evaluate.label     "Evaluate">
 <!ENTITY evaluate.accesskey "v">
 
-<!ENTITY copyCmd.label       "Kopisha">
-<!ENTITY copyCmd.accesskey   "K">
-<!ENTITY copyCmd.commandkey  "C">
+<!ENTITY copyCmd.label       "Kopisha">  
+<!ENTITY copyCmd.accesskey   "K"> 
+<!ENTITY copyCmd.commandkey  "C"> 
 <!ENTITY sortFirst.label     "Okokuqala > Ukuhlela i-oda Okokugcina">
 <!ENTITY sortFirst.accesskey "O">
 <!ENTITY sortLast.label      "Okokugcina > Ukuhlela i-oda Okokuqala">
 <!ENTITY sortLast.accesskey  "O">
-<!ENTITY closeCmd.commandkey "w">
-<!ENTITY focus1.commandkey   "l">
-<!ENTITY focus2.commandkey   "d">
+<!ENTITY closeCmd.commandkey "w">  
+<!ENTITY focus1.commandkey   "l">  
+<!ENTITY focus2.commandkey   "d">  

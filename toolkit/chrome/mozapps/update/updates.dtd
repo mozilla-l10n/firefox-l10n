@@ -1,7 +1,7 @@
 <!ENTITY  updateWizard.title              "Ukufakela Okwamuva Ohlakeni Olusetshenziswayo">
 
 <!ENTITY  checking.title                  "Ihlola Okufakwe Muva">
-<!ENTITY  updateCheck.label               "Ukufuna izinguquko ezinye &brandShortName;...">
+<!ENTITY  updateCheck.label               "Ukufuna izinguquko ezinye &brandShortName;…">
 
 <!ENTITY  pluginupdatesfound.title        "Kutholwe ukuvuselelwa kokungeziwe">
 <!ENTITY  pluginupdatesfound.label        "Izinguquko ezintsha zezinto ezizodwa noma eziningi ezingeziwe zakho zitholiwe.">
@@ -22,7 +22,7 @@ awunaso isikhala esanele sokuyifaka.">
 <!ENTITY  manualUpdateGetMsg.label        "Ungathola izinguquko esintsha ze-&brandShortName; kwesinye nesinye isikhathi ku:">
 
 <!ENTITY  incompatibleCheck.title         "Kuhlola ukufaneleka kokungezwayo">
-<!ENTITY  incompatibleCheck.label         "Kufuna izinguquko ezintsha zokungezwayo kwakho...">
+<!ENTITY  incompatibleCheck.label         "Kufuna izinguquko ezintsha zokungezwayo kwakho…">
 
 <!ENTITY  clickHere.label                 "Bheka okunye ukwaziswa ngalokhu kulungiswa">
 
