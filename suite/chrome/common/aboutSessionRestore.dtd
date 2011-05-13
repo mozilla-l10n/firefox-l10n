@@ -4,7 +4,7 @@
                         you may translate "crash" instead (even though it's IT-speak) -->
 <!ENTITY restorepage.issueDesc "Předchozí relace aplikace &brandShortName; skončila neočekávaně. Omlouváme se za nepříjemnosti. Nyní můžete obnovit otevřené panely a okna původní relace, nebo začít novou relaci, pokud je již nepotřebujete.">
 <!ENTITY restorepage.remedies "Pokud se &brandShortName; ukončuje opakovaně:">
-<!ENTITY restorepage.dueToChrome "Odeberte pomocí správce doplňků některý z naposledy přidaných doplňků.">
+<!ENTITY restorepage.dueToChrome "Odeberte pomocí Správce doplňků některý z naposledy přidaných doplňků.">
 <!ENTITY restorepage.dueToContent "Obnovte relaci bez webové stránky, o které si myslíte, že způsobuje pád:">
 
 <!ENTITY restorepage.restoreButton "Obnovit předchozí relaci">
