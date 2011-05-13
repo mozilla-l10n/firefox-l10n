@@ -1,3 +1,7 @@
+<!ENTITY tracking.label                  "Тексеріп отыру">
+<!ENTITY doNotTrack.label                "Веб сайттарға мені бақыламауды айту">
+<!ENTITY doNotTrack.accesskey            "м">
+
 <!ENTITY  history.label                 "Тарихы">
 
 <!ENTITY  locationBar.label             "Адрес жолы">
@@ -9,14 +13,6 @@
 <!ENTITY  locbar.history.label          "Тарихы">
 <!ENTITY  locbar.bookmarks.label        "Бетбелгілер">
 <!ENTITY  locbar.nothing.label          "Ешнәрсе">
-
-<!-- LOCALIZATION NOTE:
-  line in preferences as follows:
-
--->
-
-
-
 
 <!ENTITY  acceptCookies.label           "Сайттардан cookies қабылдау">
 <!ENTITY  acceptCookies.accesskey       "д">

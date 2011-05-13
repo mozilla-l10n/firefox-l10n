@@ -21,8 +21,6 @@
 <!ENTITY checkSpelling.accesskey         "о">
 <!ENTITY submitCrashes.label             "Құлау жөнінде хабарламаларды жіберу">
 <!ENTITY submitCrashes.accesskey         "л">
-<!ENTITY doNotTrack.label                "Веб сайттарға мені бақыламауды айту">
-<!ENTITY doNotTrack.accesskey            "м">
 
 <!ENTITY systemDefaults.label            "Жүйедегі негізгі браузер">
 <!ENTITY alwaysCheckDefault.label        "Әр қосылған кезде &brandShortName; жүйедегі негізгі браузер екенін тексеру">
