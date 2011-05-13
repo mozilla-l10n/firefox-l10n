@@ -76,9 +76,13 @@
 
 <!ENTITY cspFrameAncestorBlocked.title "Kuvinjelwe inqubomgomo yokuqukethwe yezokuphepha">
 <!ENTITY cspFrameAncestorBlocked.longDesc "<p>Isiphequluli sivimbele leli khasi ukuba lilayishwe ngalendlela ngoba ikhasi linenqubomgomo yokuqukethwe kwezokuvikela okungalivumeli.</p>">
+
+<!ENTITY remoteXUL.title "Isilawuli-kude se-XUL">
+<!ENTITY remoteXUL.longDesc "<p><ul><li>Sicela uxhumane nabanikazi bewebhusayithi ukubazisa ngale nkinga.</li></ul></p>">
 <!-- Include app-specific error messages - do not change this in localization!
      Some applications might override netErrorApp.dtd with their specific version,
-     this inclusion needs to be intact for that approach to work correctly. -->
+     this inclusion needs to be intact for that approach to work correctly.
+     Please, try to keep this at the end of the file. -->
 
 <!ENTITY % netErrorAppDTD SYSTEM "chrome://global/locale/netErrorApp.dtd">
 %netErrorAppDTD;

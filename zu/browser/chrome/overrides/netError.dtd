@@ -136,9 +136,9 @@ kwesikhashana.</li>
 <!ENTITY cspFrameAncestorBlocked.title "Kuvinjelwe yinqubomgomo yokuphepha okuqukethwe">
 <!ENTITY cspFrameAncestorBlocked.longDesc "<p>&brandShortName; ivimbele le khasi ekulayisheni ngale ndlela ngoba ikhasi linenqubomgomo yokuphepha kokuqukethwe okuyinqabelayo.</p>">
 
-<!ENTITY securityOverride.linkText "Noma ungangeza okungaphandle...">
+<!ENTITY securityOverride.linkText "Noma ungangeza okungaphandle…">
 <!ENTITY securityOverride.getMeOutOfHereButton "Ngikhiphe lapha!">
-<!ENTITY securityOverride.exceptionButtonLabel "Yengeza okungaphandle...">
+<!ENTITY securityOverride.exceptionButtonLabel "Yengeza okungaphandle…">
 <!-- LOCALIZATION NOTE (securityOverride.warningContent) - Do not translate the
 contents of the <button> tags. It uses strings already defined above. The
 button is included here (instead of netError.xhtml) because it exposes
@@ -149,3 +149,6 @@ functionality specific to firefox. -->
 
 <button id='getMeOutOfHereButton'>&securityOverride.getMeOutOfHereButton;</button> 
 <button id='exceptionDialogButton'>&securityOverride.exceptionButtonLabel;</button>">
+
+<!ENTITY remoteXUL.title "Isilawuli-kude se-XUL">
+<!ENTITY remoteXUL.longDesc "<p><ul><li>Please contact the website owners to inform them of this problem.</li></ul></p>">

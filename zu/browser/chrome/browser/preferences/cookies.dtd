@@ -2,7 +2,7 @@
 
 <!ENTITY     cookiesonsystem.label          "La makhukhi alandelayo alondolozwe kukhompyutha yakho:">
 <!ENTITY     cookiename.label               "Igama lekhukhi">
-<!ENTITY     cookiedomain.label             "Isayithi">
+<!ENTITY     cookiedomain.label             "Isayithi"> 
 <!ENTITY     button.removecookies.label     "Susa ikhukhi">
 <!ENTITY     button.removecookie.label      "Susa ikhukhi">
 <!ENTITY     button.removecookie.accesskey  "S">

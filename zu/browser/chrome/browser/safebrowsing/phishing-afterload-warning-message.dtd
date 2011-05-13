@@ -11,8 +11,8 @@
 <!ENTITY safeb.palm.accept.label "Ngikhiphe lapha!">
 <!ENTITY safeb.palm.accept.statustext "Zula kwikhasi lami eliyisiqalo">
 <!ENTITY safeb.palm.decline.label "Shaya indiva kulesi sixwayiso">
-<!ENTITY safeb.palm.decline.statustext "Isixwayiso esiseduze">
-<!ENTITY safeb.palm.notforgery.label2 "Lokhu akusikho ukubhumbuluza kwewebhu...">
+<!ENTITY safeb.palm.decline.statustext "Isixwayiso esiseduze" >
+<!ENTITY safeb.palm.notforgery.label2 "Lokhu akusikho ukubhumbuluza kwewebhu…">
 <!ENTITY safeb.palm.reportPage.label "Kungani leli khasi livinjelwe?">
 
 <!ENTITY safeb.blocked.malwarePage.title "Ikhasi lokulwisa elibikiwe!">

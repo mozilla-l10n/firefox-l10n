@@ -60,7 +60,7 @@
 <!ENTITY certmgr.pending.label                "Currently verifying certificate…">
 <!ENTITY certmgr.subjectinfo.label            "Sikhishelwe U-">
 <!ENTITY certmgr.issuerinfo.label             "Sikhishwe Ngu-">
-<!ENTITY certmgr.validity.label               "Ukusebenza Kwaso">
+<!ENTITY certmgr.validity.label               "Ukusebenza Kwaso" >
 <!ENTITY certmgr.fingerprints.label           "Izigxivizo zeminwe">
 <!ENTITY certmgr.certdetail.title             "Imininingwane Yesitifiketi">
 <!ENTITY certmgr.certdetail.cn                "Igama Elivamile (CN)">

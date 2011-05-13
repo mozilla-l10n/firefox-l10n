@@ -1,6 +1,6 @@
 <!-- extracted from content/openLocation.xul -->
 
-<!ENTITY enter.label "Bhala ingosi ye-intehanethi (URL), noma usho ifayela yendawo ongathanda ukuyivula:">
+<!ENTITY enter.label "Bhala ingosi ye-intehanethi (URL), noma usho ifayela yendawo ongathanda ukuyivula:">  
 <!ENTITY chooseFile.label "Khetha Ifayela…">
 <!ENTITY newTab.label "Isigqebhe Esisha">
 <!ENTITY newWindow.label "Iwindi Elisha">

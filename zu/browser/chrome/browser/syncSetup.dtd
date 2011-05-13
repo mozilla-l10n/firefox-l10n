@@ -14,7 +14,7 @@
 
 <!ENTITY server.label               "Iseva">
 <!ENTITY serverType.main.label      "Isiphakeli se-&syncBrand.fullName.label;">
-<!ENTITY serverType.custom2.label   "Sebenzisa isiphakeli sezifiso...">
+<!ENTITY serverType.custom2.label   "Sebenzisa isiphakeli sezifiso…">
 <!ENTITY signIn.account2.label      "I-akhawunti:">
 <!ENTITY signIn.account2.accesskey  "I">
 <!ENTITY signIn.password.label      "I-password">
@@ -69,7 +69,7 @@
 
 <!ENTITY setup.signInPage.title.label "Ngena ngemvume">
 <!ENTITY existingSyncKey.description "Ungathola ikhophi lekhiya yakho yokushadisa ngokuya kwizinketho ze-&syncBrand.shortName.label; kwisisetshenziswa esinye, futhi ukhethe    &#x0022;My Sync Key&#x0022; under &#x0022;Manage Account&#x0022;.">
-<!ENTITY verifying.label              "Iyaqinisekisa...">
+<!ENTITY verifying.label              "Iyaqinisekisa…">
 <!ENTITY resetPassword.label          "Beka kabusha i-password">
 <!ENTITY resetSyncKey.label           "Ngilahlekelwe isisetshenziswa sami esinye.">
 <!-- Sync Options -->

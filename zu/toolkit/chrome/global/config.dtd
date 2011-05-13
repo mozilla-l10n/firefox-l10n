@@ -54,8 +54,8 @@
 <!ENTITY valueColumn.label "Inani">
 <!-- Tooltips -->
 
-<!ENTITY prefColumnHeader.tooltip "Chafaza inkinobho ukuze uhlele">
-<!ENTITY columnChooser.tooltip "Chofoza ukuze ukhethe izinhlu ezizovela">
+<!ENTITY prefColumnHeader.tooltip "Chafaza inkinobho ukuze uhlele"> 
+<!ENTITY columnChooser.tooltip "Chofoza ukuze ukhethe izinhlu ezizovela"> 
 <!-- Context Menu -->
 
 <!ENTITY copyPref.key "W">

@@ -21,8 +21,6 @@
 <!ENTITY allowHWAccel.accesskey          "h">
 <!ENTITY checkSpelling.label             "Hlola ukupeleta kwami uma ngithayipha">
 <!ENTITY checkSpelling.accesskey         "t">
-<!ENTITY doNotTrack.label                "Tshela amawebhusayithi ukuthi angifuni ukulandelwa">
-<!ENTITY doNotTrack.accesskey            "a">
 
 <!ENTITY systemDefaults.label            "Okwakhona kohlelo">
 <!--XXX-->
