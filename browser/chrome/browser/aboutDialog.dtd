@@ -64,7 +64,7 @@
 <!ENTITY channel.change             "Skift">
 
 <!ENTITY channel.release.description       "Nyd den afprøvede og gennemtestede udgivelse som bruges af mange milloner verdenen over. Bevar kontrollen med din oplevelse på nettet med super hastighed, øget mulighed for tilpasning og de seneste web-teknologier.">
-<!ENTITY channel.beta.description          "Oplev nye tiltag med øget stabilitet. Giv feedback, så vi kan forbedre og finpudse funktioner, som er tiltænk den næste udgivelse.">
+<!ENTITY channel.beta.description          "Oplev nye tiltag med øget stabilitet. Giv feedback, så vi kan forbedre og finpudse funktioner, som er tiltænkt den næste udgivelse.">
 <!ENTITY channel.aurora.description        "Oplev de nyeste tiltag i et ustabilt miljø, som kræver hår på brystet. Giv feedback på funktioner og ydelsen så vi kan afgøre, hvad der kommer med i den næste udgivelse.">
 
 <!-- LOCALIZATION NOTE (channel.selector.start,channel.selector.end): channel.selector.start and
