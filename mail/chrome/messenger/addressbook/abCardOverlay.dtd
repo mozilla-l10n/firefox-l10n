@@ -64,7 +64,7 @@
 <!ENTITY PhoneticField2.label           "Fonetic:">
 <!ENTITY DisplayName.label              "Num per mussar:">
 <!ENTITY DisplayName.accesskey          "m">
-<!ENTITY preferDisplayName.label        "Adina mussar il 'num per musar' èmpe da las indicaziuns en il chau da la novitad">
+<!ENTITY preferDisplayName.label        "Adina mussar il 'num per mussar' empè da las indicaziuns tramessas en il chau dal messadi">
 <!ENTITY preferDisplayName.accesskey    "c">
 <!ENTITY NickName.label                 "Surnum:">
 <!ENTITY NickName.accesskey             "S">
