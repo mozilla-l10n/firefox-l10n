@@ -85,11 +85,11 @@
 <!-- LOCALIZATION NOTE (resetContext.label): This command allows the developer
   -  to reset/clear the global object of the context where the code executes.
   -->
-<!ENTITY resetContext.label           "Reset">
-<!ENTITY resetContext.accesskey       "R">
+<!ENTITY resetContext.label           "Zresetuj">
+<!ENTITY resetContext.accesskey       "Z">
 
 <!ENTITY toolsMenu.label              "Narzędzia">
-<!ENTITY toolsMenu.accesskey          "T">
+<!ENTITY toolsMenu.accesskey          "N">
 
 <!ENTITY errorConsoleCmd.label        "Konsola błędów">
 <!ENTITY errorConsoleCmd.accesskey    "K">
