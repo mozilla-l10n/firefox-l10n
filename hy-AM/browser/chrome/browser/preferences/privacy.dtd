@@ -37,7 +37,7 @@
     the terms of any one of the MPL, the GPL or the LGPL.
 
 ******* END LICENSE BLOCK ********** -->
-<!ENTITY tracking.label                 "Tracking">
+<!ENTITY tracking.label                 "Հետևում">
 
 <!ENTITY doNotTrack.label               "Տեղեկացրեք վեբ կայքերին,ես չեմ ցանկանում, որ ինձ հետևեն">
 <!ENTITY doNotTrack.accesskey           "Տ">

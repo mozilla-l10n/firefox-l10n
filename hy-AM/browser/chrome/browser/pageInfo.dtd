@@ -156,7 +156,7 @@
 <!ENTITY  securityView.identity.verifier "Ստուգվել է`">
 
 <!ENTITY  securityView.privacy.header                   "Անձնական և պատմություն">
-<!ENTITY  securityView.privacy.history                  "Ես այցելել էմ այս կարք մինչև այսօր?">
+<!ENTITY  securityView.privacy.history                  "Ես այցելել էմ այս կայք մինչև այսօր?">
 <!ENTITY  securityView.privacy.cookies                  "Արդյոք այս վեբ կայքը պահում է տեղեկություն (քուուկի) իմ համակարգչում?">
 <!ENTITY  securityView.privacy.viewCookies              "Դիտել Քուուկիները">
 <!ENTITY  securityView.privacy.viewCookies.accessKey    "k">
