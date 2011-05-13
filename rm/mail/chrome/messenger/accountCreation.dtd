@@ -1,51 +1,55 @@
 <!ENTITY autoconfigWizard.title          "Installaziun d'in conto dad e-mail">
 <!ENTITY name.label                      "Tes num:">
 <!ENTITY name.accesskey                  "n">
-<!ENTITY name.emptytext                  "Prenum Num">
+<!ENTITY name.placeholder                "Prenum Num">
 <!ENTITY name.text                       "Tes num, uschia co el duai vegnir mussà ad auters">
 <!ENTITY email.label                     "Adressa dad e-mail:">
 <!ENTITY email.accesskey                 "a">
-<!ENTITY email.emptytext                 "email@example.com">
+<!ENTITY email.placeholder               "email@example.com">
 <!ENTITY password.label                  "Pled-clav:">
 <!ENTITY password.accesskey              "P">
-<!ENTITY password.emptytext              "Pled-clav">
+<!ENTITY password.placeholder            "Pled-clav">
 <!ENTITY password.text                   "Opziunal, vegn mo utilisà per validar il num d'utilisader">
+<!ENTITY rememberPassword.label          "Memorisar il pled-clav">
+<!ENTITY rememberPassword.accesskey      "M">
 
-<!ENTITY accountInformation.label        "Infurmaziuns dal conto">
-<!ENTITY username2.label                 "Num d'utilisader:">
+<!ENTITY imapLong.label                  "IMAP (memorisar ils e-mails sin il server)">
+<!ENTITY pop3Long.label                  "POP3 (memorisar ils e-mails sin quest computer)">
+
 <!ENTITY incoming.label                  "Entrada:">
 <!ENTITY outgoing.label                  "Sortida:">
+<!ENTITY username.label                  "Num d'utilisader:">
+<!ENTITY hostname.label                  "Num dal host dal server">
+<!ENTITY port.label                      "Port">
+<!ENTITY ssl.label                       "SSL">
+<!ENTITY auth.label                      "autentificaziun">
+<!ENTITY imap.label                      "IMAP">
+<!ENTITY pop3.label                      "POP3">
+<!ENTITY smtp.label                      "SMTP">
+<!ENTITY autodetect.label                "Detecziun automatica">
+<!-- LOCALIZATION NOTE(noEncryption.label): Neither SSL/TLS nor STARTTLS.
+     Transmission of emails in cleartext over the Internet. -->
 <!ENTITY noEncryption.label              "Nagina">
 <!ENTITY starttls.label                  "STARTTLS">
 <!ENTITY sslTls.label                    "SSL/TLS">
 
-<!ENTITY imap.label                      "IMAP">
-<!ENTITY pop.label                       "POP">
-<!ENTITY smtp.label                      "SMTP">
-<!ENTITY imap.description                "IMAP - Acceder als ordinaturs e messadis cun plirs computers">
-<!ENTITY pop.description                 "POP - Telechargiar tut ils messadis sin quest computer, ils ordinaturs èn mo locals">
-<!ENTITY recommended-appendix.label      "(recumandà)">
-
-<!ENTITY manualSetup.label               "Installaziun manuala…">
-<!ENTITY manualSetup.accesskey           "S">
+<!ENTITY advancedSetup.label             "Configuraziun extendida">
+<!ENTITY advancedSetup.accesskey         "C">
 <!ENTITY cancel.label                    "Interrumper">
 <!ENTITY cancel.accesskey                "I">
 <!ENTITY continue.label                  "Vinavant">
 <!ENTITY continue.accesskey              "V">
-<!ENTITY startOver.label                 "Cumenzar anc ina giada">
-<!ENTITY startOver.accesskey             "C">
 <!ENTITY stop.label                      "Fermar">
 <!ENTITY stop.accesskey                  "F">
-<!-- LOCALIZATION NOTE (retest.label): This is the text that is
-     displayed on the button which will re-guess the account configuration,
-     taking into account the settings the user has changed. -->
-<!ENTITY retest.label                    "Retestar la configuraziun">
-<!ENTITY retest.accesskey                "R">
-<!ENTITY edit.label                      "Modifitgar">
-<!ENTITY edit.accesskey                  "d">
+<!-- LOCALIZATION NOTE (half-manual-test.label): This is the text that is
+     displayed on the button in manual edit mode which will re-guess
+     the account configuration, taking into account the settings that
+     the user has manually changed. -->
+<!ENTITY half-manual-test.label          "Retestar">
+<!ENTITY half-manual-test.accesskey      "t">
+<!ENTITY manual-edit.label               "Configuraziun manuala">
+<!ENTITY manual-edit.accesskey           "M">
 
-<!ENTITY rememberPassword.label          "Memorisar il pled-clav">
-<!ENTITY rememberPassword.accesskey      "M">
 
 <!ENTITY warning.label                   "Attenziun!">
 <!ENTITY incomingSettings.label          "Parameters da l'entrada:">
