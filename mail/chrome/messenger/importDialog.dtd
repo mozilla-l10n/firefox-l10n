@@ -77,11 +77,3 @@ LOCALIZATION NOTE : Do not translate any of the occurrences of the word
 
 <!ENTITY title.label              "Titel">
 <!ENTITY processing.label         "Importar...">
-
-<!ENTITY FieldDiscInputText1.label  "Netscape Communicator 4.x memorisescha mo ina adressa postala per contact, &brandShortName; percunter memorisescha duas (privat e fatschenta).">
-<!ENTITY FieldDiscInputText2.label  "Tscherna ina categoria, en la quala las adressas postalas duain vegnir memorisadas:">
-<!ENTITY FieldDiscWarning.label  "Questa categoria vegn utilisada per tut las endataziuns dal cudeschet d'adressas tschernì: ">
-<!ENTITY importHome.label        "Privat">
-<!ENTITY importHome.accesskey    "H">
-<!ENTITY importWork.label        "Lavur">
-<!ENTITY importWork.accesskey    "W">
