@@ -114,7 +114,7 @@ can reach it easily. -->
 <!ENTITY forwardCmd.accesskey "V">
 <!ENTITY forwardButton.tooltip "Přejde na následující stránku">
 <!ENTITY reloadCmd.label "Obnovit">
-<!ENTITY reloadCmd.accesskey "b">
+<!ENTITY reloadCmd.accesskey "O">
 <!ENTITY reloadButton.tooltip "Aktualizuje načtenou stránku">
 <!ENTITY stopCmd.label "Zastavit">
 <!ENTITY stopCmd.accesskey "a">
@@ -335,7 +335,7 @@ can reach it easily. -->
 <!ENTITY viewPartialSourceForMathMLCmd.label "Zobrazit zdrojový kód MathML">
 <!-- LOCALIZATION NOTE (viewPartialSourceCmd.accesskey): This accesskey is used for both
          viewPartialSourceForSelectionCmd.label and viewPartialSourceForMathMLCmd.label -->
-<!ENTITY viewPartialSourceCmd.accesskey "Z">
+<!ENTITY viewPartialSourceCmd.accesskey "j">
 <!ENTITY viewPageSourceCmd.label "Zobrazit zdrojový kód stránky">
 <!ENTITY viewPageSourceCmd.accesskey "r">
 <!ENTITY viewFrameSourceCmd.label "Zobrazit zdrojový kód rámu">
@@ -390,7 +390,7 @@ can reach it easily. -->
 <!ENTITY sendAudioCmd.label "Odeslat audio…">
 <!ENTITY sendAudioCmd.accesskey "e">
 <!ENTITY copyLinkCmd.label "Kopírovat adresu odkazu">
-<!ENTITY copyLinkCmd.accesskey "a">
+<!ENTITY copyLinkCmd.accesskey "s">
 <!ENTITY copyImageCmd.label "Kopírovat adresu obrázku">
 <!ENTITY copyImageCmd.accesskey "a">
 <!ENTITY copyImageContentsCmd.label "Kopírovat obrázek">
