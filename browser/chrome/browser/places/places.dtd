@@ -4,12 +4,9 @@
 <!ENTITY organize.label "Organizza">
 <!ENTITY organize.accesskey "O">
 <!ENTITY organize.tooltip "Organizza i segnalibri">
-<!ENTITY file.accesskey "F">
 <!ENTITY file.close.label "Chiudi">
 <!ENTITY file.close.accesskey "h">
 <!ENTITY cmd.close.key "w">
-<!ENTITY edit.label "Modifica">
-<!ENTITY edit.accesskey "M">
 <!ENTITY views.label "Visualizza">
 <!ENTITY views.accesskey "V">
 <!ENTITY views.tooltip "Modifica il tipo di visualizzazione">
@@ -93,15 +90,12 @@
 <!ENTITY maintenance.label "Importa e salva">
 <!ENTITY maintenance.accesskey "m">
 <!ENTITY maintenance.tooltip "Importa e salva i segnalibri">
-<!ENTITY backCmd.label "Indietro">
 <!ENTITY backButton.tooltip "Vai indietro">
-<!ENTITY forwardCmd.label "Avanti">
 <!ENTITY forwardButton.tooltip "Vai avanti">
 <!ENTITY detailsPane.more.label "Altri dati">
 <!ENTITY detailsPane.more.accesskey "a">
 <!ENTITY detailsPane.less.label "Meno dati">
 <!ENTITY detailsPane.less.accesskey "a">
-<!ENTITY detailsPane.noPreviewAvailable.label "Anteprima">
 <!ENTITY detailsPane.selectAnItemText.description "Selezionare un elemento per visualizzarne e modificarne le proprietà">
 <!ENTITY find.label "Cerca:">
 <!ENTITY find.accesskey "r">
