@@ -6,12 +6,9 @@
 <!ENTITY organize.accesskey    "O">
 <!ENTITY organize.tooltip      "Uw bladwijzers ordenen">
 
-<!ENTITY file.accesskey                 "B">
 <!ENTITY file.close.label               "Sluiten">
 <!ENTITY file.close.accesskey           "S">
 <!ENTITY cmd.close.key                  "w">
-<!ENTITY edit.label                     "Bewerken">
-<!ENTITY edit.accesskey                 "w">
 <!ENTITY views.label                    "Weergaven">
 <!ENTITY views.accesskey                "W">
 <!ENTITY views.tooltip                  "Uw weergave wijzigen">
@@ -111,17 +108,14 @@
 <!ENTITY maintenance.accesskey  "I">
 <!ENTITY maintenance.tooltip    "Uw bladwijzers importeren en reservekopie maken">
 
-<!ENTITY backCmd.label       "Terug">
 <!ENTITY backButton.tooltip  "Terug gaan">
 
-<!ENTITY forwardCmd.label       "Vooruit">
 <!ENTITY forwardButton.tooltip  "Vooruit gaan">
 
 <!ENTITY detailsPane.more.label "Meer">
 <!ENTITY detailsPane.more.accesskey "M">
 <!ENTITY detailsPane.less.label "Minder">
 <!ENTITY detailsPane.less.accesskey "M">
-<!ENTITY detailsPane.noPreviewAvailable.label "Voorbeeld">
 <!ENTITY detailsPane.selectAnItemText.description "Selecteer een item om de eigenschappen ervan te bekijken en te wijzigen">
 
 <!ENTITY find.label               "Zoeken:">
