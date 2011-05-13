@@ -6,12 +6,9 @@
 <!ENTITY organize.accesskey "O">
 <!ENTITY organize.tooltip      "Organizēt grāmatzīmes">
 
-<!ENTITY file.accesskey "F">
 <!ENTITY file.close.label "Aizvērt">
 <!ENTITY file.close.accesskey "Z">
 <!ENTITY cmd.close.key "w">
-<!ENTITY edit.label "Rediģēt">
-<!ENTITY edit.accesskey "E">
 <!ENTITY views.label "Skati">
 <!ENTITY views.accesskey "S">
 <!ENTITY views.tooltip                  "Izmainiet skatus">
@@ -104,17 +101,14 @@
 <!ENTITY maintenance.accesskey "I">
 <!ENTITY maintenance.tooltip    "Grāmatzīmju importēšana un rezerves kopēšana">
 
-<!ENTITY backCmd.label "Atpakaļ">
 <!ENTITY backButton.tooltip "Iet atpakaļ">
 
-<!ENTITY forwardCmd.label "Uz priekšu">
 <!ENTITY forwardButton.tooltip "Iet uz priekšu">
 
 <!ENTITY detailsPane.more.label "Vairāk">
 <!ENTITY detailsPane.more.accesskey "k">
 <!ENTITY detailsPane.less.label "Mazāk">
 <!ENTITY detailsPane.less.accesskey "z">
-<!ENTITY detailsPane.noPreviewAvailable.label "Priekšskatījums">
 <!ENTITY detailsPane.selectAnItemText.description "Izvēlieties elementu, ko aplūkot vai rediģēt">
 
 <!ENTITY cmd.delete.label               "Dzēst šo lapu">
