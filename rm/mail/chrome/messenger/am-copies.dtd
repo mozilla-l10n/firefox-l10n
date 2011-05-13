@@ -9,11 +9,11 @@
 <!-- LOCALIZATION NOTE (ccAddress.label): do not translate "Cc" in below line -->
 <!ENTITY ccAddress.label "Cc a questas adressas dad e-mail:">
 <!ENTITY ccAddress.accesskey "C">
-<!ENTITY ccAddressList.emptytext "Separar las adressas cun commas">
+<!ENTITY ccAddressList.placeholder "Separar las adressas cun commas">
 <!-- LOCALIZATION NOTE (bccAddress.label): do not translate "Bcc" in below line -->
 <!ENTITY bccAddress.label "BCC a questas adressas dad e-mail:">
 <!ENTITY bccAddress.accesskey "B">
-<!ENTITY bccAddressList.emptytext "Separar las adressas cun commas">
+<!ENTITY bccAddressList.placeholder "Separar las adressas cun commas">
 <!ENTITY saveMessageDlg.label "Mussar in dialog da conferma sch'ils messadis vegnan memorisads">
 <!ENTITY saveMessageDlg.accesskey "M">
 <!-- LOCALIZATION NOTE (sentFolderOn.label): OK to translate this, bug #57440 -->
@@ -21,22 +21,26 @@
 <!ENTITY sentFolderOn.accesskey "S">
 <!ENTITY sentInOtherFolder.label "Auter ordinatur:">
 <!ENTITY sentInOtherFolder.accesskey "O">
+<!-- LOCALIZATION NOTE (archivesFolderOn.label): OK to translate this, bug #57440 -->
+<!ENTITY archivesTitle.label "Archivs da novotads">
+<!ENTITY keepArchives.label "Memorisar l'archiv sut:">
+<!ENTITY keepArchives.accesskey "M">
+<!ENTITY archiveHierarchyButton.label "Opziuns da l'archiv…">
+<!ENTITY archiveHierarchyButton.accesskey "a">
+<!ENTITY archivesFolderOn.label "Ordinatur &quot;Archiv&quot; en:">
+<!ENTITY archivesFolderOn.accesskey "n">
+<!ENTITY archiveInOtherFolder.label "Auter ordinatur:">
+<!ENTITY archiveInOtherFolder.accesskey "A">
+<!ENTITY specialFolders.label "Sbozs e models">
+<!ENTITY keepDrafts.label "Memorisar ils sbozs da messadis en:">
 <!-- LOCALIZATION NOTE (draftsFolderOn.label): OK to translate this, bug #57440 -->
 <!ENTITY draftsFolderOn.label "Ordinatur &quot;Sboz&quot; en:">
 <!ENTITY draftsFolderOn.accesskey "D">
 <!ENTITY draftInOtherFolder.label "Auter ordinatur:">
 <!ENTITY draftInOtherFolder.accesskey "t">
-<!-- LOCALIZATION NOTE (archivesFolderOn.label): OK to translate this, bug #57440 -->
-<!ENTITY archivesFolderOn.label "Ordinatur &quot;Archiv&quot; en:">
-<!ENTITY archivesFolderOn.accesskey "n">
-<!ENTITY archiveInOtherFolder.label "Auter ordinatur:">
-<!ENTITY archiveInOtherFolder.accesskey "A">
+<!ENTITY keepTemplates.label "Memorisar ils models da messadis en:">
 <!-- LOCALIZATION NOTE (templatesFolderOn.label): OK to translate this, bug #57440 -->
 <!ENTITY templatesFolderOn.label "Ordinatur &quot;Models&quot; en:">
 <!ENTITY templatesFolderOn.accesskey "m">
 <!ENTITY templateInOtherFolder.label "Auter ordinatur:">
 <!ENTITY templateInOtherFolder.accesskey "e">
-<!ENTITY specialFoldersTitle.label "Sbozs, archivs e models">
-<!ENTITY keepDrafts.label "Memorisar ils sbozs da messadis en:">
-<!ENTITY keepArchives.label "Memorisar l'archiv sut:">
-<!ENTITY keepTempltes.label "Memorisar ils models da messadis en:">
