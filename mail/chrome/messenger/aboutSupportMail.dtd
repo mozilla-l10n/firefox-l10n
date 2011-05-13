@@ -1,0 +1,15 @@
+<!ENTITY aboutSupport.appBasicsAppBuildID "ID dal build da l'applicaziun">
+
+<!ENTITY aboutSupport.accountsTitle "Contos dad e-mail e da gruppas da discussion">
+<!ENTITY aboutSupport.showPrivateData.mainText "Includer ils nums da conto">
+<!ENTITY aboutSupport.showPrivateData.explanationText "(eventualmain ina infurmaziun identifitganta)">
+<!ENTITY aboutSupport.accountsID "ID">
+<!ENTITY aboutSupport.accountsName "Num">
+<!ENTITY aboutSupport.accountsIncomingServer "Server d'entrada">
+<!ENTITY aboutSupport.accountsOutgoingServers "Servers da sortida">
+<!ENTITY aboutSupport.accountsServerName "Num">
+<!ENTITY aboutSupport.accountsConnSecurity "Segirezza da la connexiun">
+<!ENTITY aboutSupport.accountsAuthMethod "Metoda d'autentificaziun">
+<!ENTITY aboutSupport.accountsDefault "Standard?">
+
+<!ENTITY aboutSupport.sendViaEmail.label "Trametter per e-mail">
