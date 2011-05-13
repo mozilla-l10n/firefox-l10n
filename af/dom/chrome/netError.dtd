@@ -76,9 +76,13 @@
 
 <!ENTITY cspFrameAncestorBlocked.title "Geblokkeer deur inhoudbeveiligingsbeleid">
 <!ENTITY cspFrameAncestorBlocked.longDesc "<p>Die blaaier het voorkom dat hierdie bladsy op hierdie manier laai want die bladsy het 'n inhoudbeveiligingsbeleid wat dit keer.</p>">
+
+<!ENTITY remoteXUL.title "Afgeleë XUL">
+<!ENTITY remoteXUL.longDesc "<p><ul><li>Kontak die webwerf se eienaar om hulle oor die probleem in te lig.</li></ul></p>">
 <!-- Include app-specific error messages - do not change this in localization!
      Some applications might override netErrorApp.dtd with their specific version,
-     this inclusion needs to be intact for that approach to work correctly. -->
+     this inclusion needs to be intact for that approach to work correctly.
+     Please, try to keep this at the end of the file. -->
 
 <!ENTITY % netErrorAppDTD SYSTEM "chrome://global/locale/netErrorApp.dtd">
 %netErrorAppDTD;
