@@ -21,8 +21,6 @@
 <!ENTITY allowHWAccel.accesskey          "h">
 <!ENTITY checkSpelling.label             "Kontroleer my spelling terwyl ek tik">
 <!ENTITY checkSpelling.accesskey         "i">
-<!ENTITY doNotTrack.label                "Vertel webwerwe dat ek nie gemonitor wil word nie">
-<!ENTITY doNotTrack.accesskey            "n">
 
 <!ENTITY systemDefaults.label            "Stelselverstek">
 <!--XXX-->

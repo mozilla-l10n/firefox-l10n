@@ -1,3 +1,8 @@
+<!ENTITY tracking.label                 "Monitering">
+
+<!ENTITY doNotTrack.label               "Vertel webwerwe dat ek nie gemonitor wil word nie">
+<!ENTITY doNotTrack.accesskey           "n">
+
 <!ENTITY  history.label                 "Geskiedenis">
 
 <!ENTITY  locationBar.label             "Adresbalk">
@@ -29,7 +34,6 @@
 
 <!ENTITY  showCookies.label             "Wys koekies…">
 <!ENTITY  showCookies.accesskey         "W">
-
 
 <!ENTITY  historyHeader.pre.label          "&brandShortName; sal:">
 <!ENTITY  historyHeader.pre.accesskey      "s">
