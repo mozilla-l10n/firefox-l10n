@@ -9,7 +9,7 @@
 
 # LOCALIZATION NOTE (bookmarks_title):
 # title for the folder that will contains the default bookmarks
-#define bookmarks_title Mobile
+#define bookmarks_title 移动电话
 
 # LOCALIZATION NOTE (bookmarks_welcome):
 # link title for about:firstrun
@@ -24,7 +24,7 @@
 #define bookmarks_addons Firefox：自定义附加组件
 
 # LOCALIZATION NOTE (bookmarks_support):
-# link title for https://mobile.support.mozilla.com
+# link title for https://support.mozilla.com/mobile
 #define bookmarks_support Firefox：技术支持
 
 # LOCALIZATION NOTE (bookmarks_aboutHome):

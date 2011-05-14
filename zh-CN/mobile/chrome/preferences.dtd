@@ -8,6 +8,7 @@
 <!ENTITY enablePlugins.title                       "启用插件">
 <!ENTITY privacy.title                             "隐私 &amp; 安全">
 <!ENTITY allowCookies.title                        "允许 cookies">
+<!ENTITY doNotTrack.title                          "告诉网站不要追踪我">
 <!ENTITY clearPrivateData2.title                   "清除隐私数据">
 <!ENTITY clearPrivateData.button                   "清空">
 <!ENTITY rememberPasswords.title                   "记住密码">

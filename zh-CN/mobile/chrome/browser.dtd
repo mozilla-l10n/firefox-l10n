@@ -95,6 +95,7 @@
 <!ENTITY contextSaveImage.label       "保存图片">
 <!ENTITY contextShareLink.label       "分享链接">
 <!ENTITY contextShareImage.label      "分享图片">
+<!ENTITY contextBookmarkLink.label    "将链接加为书签">
 <!ENTITY contextSaveVideo.label       "保存视频">
 <!ENTITY contextShareVideo.label      "分享视频">
 <!ENTITY contextPlayMedia.label       "播放">
