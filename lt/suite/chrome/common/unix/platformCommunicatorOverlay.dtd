@@ -41,7 +41,9 @@
 <!ENTITY quitApplicationCmd.key           "Q"> 
 <!ENTITY quitApplicationCmd.accesskey     "B">
 
+<!ENTITY redoCmd.label                    "Atstatyti">  
 <!ENTITY redoCmd.key                      "Y">  
+<!ENTITY redoCmd.accesskey                "t">
 
 <!ENTITY findTypeTextCmd.key              "/">
 <!ENTITY findTypeLinksCmd.key             "'">
