@@ -32,7 +32,7 @@
 
 <!ENTITY safeb.palm.warning.title                        "Apgaulė saityne">
 
-<!ENTITY safeb.palm.message.p1                           "Panašu, kad šis tinklalapis buvo sukurtas siekiant apgauti lankytojus ir pasinaudoti jų privačiais duomenimis. Į tinklalapį įvesta asmeninė informacija gali būti pavogta ir nesankcionuotai panaudota. &#160;">
+<!ENTITY safeb.palm.message.p1                           "Yra pranešta, kad šis tinklalapis sukurtas siekiant apgauti lankytojus ir pasinaudoti jų privačiais duomenimis. Šiame tinklalapyje įvesta asmeninė informacija gali būti pavogta ir nesankcionuotai panaudota. &#160;">
 <!ENTITY safeb.palm.message.p1.linkText                  "Skaityti daugiau &#187;">
 <!ENTITY safeb.palm.p1.linkStatusText                    "Skaityti daugiau &#133;">
 
