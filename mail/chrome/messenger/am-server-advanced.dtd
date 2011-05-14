@@ -21,7 +21,7 @@
 <!ENTITY overrideNamespaces.label "Omogoči strežniku, da razveljavi ta imenski prostor">
 <!ENTITY overrideNamespaces.accesskey "X">
 <!ENTITY pop3Desc.label "Pri prenosu pošte pop s tega strežnika za novo pošto uporabi naslednjo mapo:" >
-<!ENTITY globalInbox.label "Globalno Prejeto (račun Lokalne mape)">
+<!ENTITY globalInbox.label "Globalno Prejeto (račun Krajevne mape)">
 <!ENTITY globalInbox.accesskey "o">
 <!ENTITY accountDirectory.label "Prejeto za strežnikov račun">
 <!ENTITY accountDirectory.accesskey "S">

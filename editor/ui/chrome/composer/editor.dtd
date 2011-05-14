@@ -55,3 +55,36 @@
 <!-- Format menu items -->
 <!ENTITY formatMenu.label "Oblikovanje">
 <!ENTITY formatMenu.accesskey "O">
+
+<!ENTITY grid.label "Nameščanje mreže">
+<!ENTITY grid.accesskey "m">
+<!ENTITY pageProperties.label "Naslov strani in lastnosti…">
+<!ENTITY pageProperties.accesskey "N">
+
+<!-- Tools menu items -->
+<!ENTITY validateCmd.label "Validiraj HTML">
+<!ENTITY validateCmd.accesskey "V">
+
+<!-- Display Mode toolbar and View menu items -->
+<!ENTITY NormalModeTab.label "Normalno">
+<!ENTITY NormalMode.label "Normalni način urejanja">
+<!ENTITY NormalMode.accesskey "N">
+<!ENTITY NormalMode.tooltip "Prikaži robove tabel in sidra">
+<!ENTITY AllTagsModeTab.label "Zavihki HTML">
+<!ENTITY AllTagsMode.label "Zavihki HTML">
+<!ENTITY AllTagsMode.accesskey "Z">
+<!ENTITY AllTagsMode.tooltip "Display icons for all HTML tags">
+<!-- LOCALIZATION NOTE: (HTMLSourceModeTab.dir, HTMLSourceModeTab.label)
+     Do NOT translate text for 'HTMLSourceModeTab.dir', use latin "ltr" if
+     you want the <html> image to left of the 'HTMLSourceModeTab.label' text,
+     or use latin "rtl" if you want this image to the right of text. You do
+     not need to include HTML in the label 'HTMLSourceModeTab.label' -->
+<!ENTITY HTMLSourceModeTab.dir "ltr">
+<!ENTITY HTMLSourceModeTab.label "Vir">
+<!ENTITY HTMLSourceMode.label "Izvirni HTML">
+<!ENTITY HTMLSourceMode.accesskey "H">
+<!ENTITY HTMLSourceMode.tooltip "Uredi izvirni HTML">
+<!ENTITY PreviewModeTab.label "Predogled">
+<!ENTITY PreviewMode.label "Predogled">
+<!ENTITY PreviewMode.accesskey "P">
+<!ENTITY PreviewMode.tooltip "Prikaži kot WYSIWYG (kot v brskalniku)">

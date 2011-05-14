@@ -63,14 +63,14 @@
 <!ENTITY alwaysAuthenticate.label "Ob povezavi na ta strežnik, vedno zahtevaj preverjanje pristnosti">
 <!ENTITY alwaysAuthenticate.accesskey "w">
 <!ENTITY newsrcFilePath.label "datoteka newsrc:">
-<!ENTITY localPath.label "Lokalni imenik:">
+<!ENTITY localPath.label "Krajevni imenik:">
 <!ENTITY abbreviate.label "Pokaži imena novičarskih skupin v podoknu Mapa za pošto kot:">
 <!ENTITY abbreviateOn.label "Polna imena (Na primer, 'netscape.public.mozilla.mail-news')">
 <!ENTITY abbreviateOff.label "Skrajšajte imena (Na primer, 'n.p.m.mail-news')">
 <!ENTITY advancedButton.label "Napredno…">
 <!ENTITY advancedButton.accesskey "p">
 <!ENTITY serverDefaultCharset.label "Privzeti nabor znakov:">
-<!ENTITY localFolderPicker.label "Izberi lokalni imenik">
+<!ENTITY localFolderPicker.label "Izberi krajevni imenik">
 <!ENTITY browseFolder.label "Prebrskaj…">
 <!ENTITY browseFolder.accesskey "B">
 <!ENTITY newsrcPicker.label "Izberi datoteko newsrc">

@@ -9,6 +9,6 @@
 <!ENTITY view.label "Pogled">
 <!ENTITY view.accesskey "P">
 <!ENTITY tree.recipient "Prejemnik">
-<!ENTITY tree.status "Status">
+<!ENTITY tree.status "Stanje">
 <!ENTITY tree.issuedDate "Izdano">
 <!ENTITY tree.expiresDate "Poteče">

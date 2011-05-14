@@ -209,7 +209,6 @@
 <!ENTITY followupAddr.label "Nadaljnje delo - Za:"> 
 <!ENTITY subject.label "Zadeva:">
 <!ENTITY subject.accesskey "Z">
-<!ENTITY attachments.label "Priponke:">
 <!ENTITY attachments.accesskey "P">
 
 <!-- Format Toolbar, imported from editorAppShell.xul -->
