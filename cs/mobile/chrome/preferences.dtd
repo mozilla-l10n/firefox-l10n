@@ -8,7 +8,6 @@
 <!ENTITY enablePlugins.title "Povolit moduly">
 <!ENTITY privacy.title "Soukromí a bezpečnost">
 <!ENTITY allowCookies.title "Povolit cookies">
-<!ENTITY doNotTrack.title "Informovat servery, že nechci být sledován">
 <!ENTITY clearPrivateData2.title "Smazání důvěrných dat">
 <!ENTITY clearPrivateData.button "Smazat">
 <!ENTITY rememberPasswords.title "Pamatovat si hesla">
