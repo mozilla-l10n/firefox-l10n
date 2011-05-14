@@ -69,8 +69,14 @@
 <!ENTITY publishCmd.key "S">
 <!ENTITY publishAsCmd.label "Publikovat jako…">
 <!ENTITY publishAsCmd.accesskey "i">
+<!ENTITY exportToTextCmd.label "Exportovat text…">
+<!ENTITY exportToTextCmd.accesskey "x">
 <!ENTITY saveAsChangeEncodingCmd.label "Uložit ve znakové sadě">
 <!ENTITY saveAsChangeEncodingCmd.accesskey "v">
+<!ENTITY previewCmd.label "Náhled stránky">
+<!ENTITY previewCmd.accesskey "h">
+<!ENTITY sendPageCmd.label "Odeslat stránku…">
+<!ENTITY sendPageCmd.accesskey "l">
 <!ENTITY printSetupCmd.label "Vzhled stránky…">
 <!ENTITY printSetupCmd.accesskey "r">
 <!ENTITY printCmd.label "Tisk…">
@@ -398,6 +404,8 @@
 <!ENTITY openToolbarCmd.tooltip "Otevře uložený soubor">
 <!ENTITY saveToolbarCmd.tooltip "Uloží stránku do souboru">
 <!ENTITY publishToolbarCmd.tooltip "Umístí soubor na vzdálený server">
+<!ENTITY previewToolbarCmd.label "Náhled">
+<!ENTITY previewToolbarCmd.tooltip "Zobrazí stránku v prohlížeči">
 <!ENTITY printToolbarCmd.label "Tisknout">
 <!ENTITY printToolbarCmd.tooltip "Vytiskne tuto stránku">
 <!ENTITY findToolbarCmd.label "Hledat">
