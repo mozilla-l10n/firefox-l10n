@@ -45,3 +45,5 @@
 
 <!ENTITY editContactPanelDone.label "Įrašyti">
 <!ENTITY editContactPanelDone.accesskey "r">
+
+<!ENTITY contactMoveDisabledWarning.description "Perkelti adresato į kitą adresų knygą negalima, nes jis yra įtrauktas į bent vieną sąrašą.">
