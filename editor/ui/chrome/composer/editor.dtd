@@ -40,14 +40,23 @@
 <!ENTITY editorWindow.titlemodifier              "Composer"> 
 <!ENTITY editorWindow.titlemodifiermenuseparator " - ">
 
+
 <!-- Menu items:  the . means that the menu item isn't implemented yet -->
 
 <!-- Toolbar-only items -->
 <!ENTITY compositionToolbar.tooltip              "Koostamise tööriistariba">
+<!ENTITY previewToolbarCmd.label                 "Eelvaade veebilehitsejas">
+<!ENTITY previewToolbarCmd.tooltip               "Eelvaade veebilehitsejas">
+
+<!-- File menu items -->
+<!ENTITY exportToTextCmd.label                   "Ekspordi tekstina…">
+<!ENTITY exportToTextCmd.accesskey               "E">
+<!ENTITY previewCmd.label                        "Vaata lehte brauseris">
+<!ENTITY previewCmd.accesskey                    "V">
+<!ENTITY sendPageCmd.label                       "Saada leht…">
+<!ENTITY sendPageCmd.accesskey                   "S">
 
 <!-- View menu items -->
-<!ENTITY viewMenu.label                          "Vaade">
-<!ENTITY viewMenu.accesskey                      "V">
 <!ENTITY compositionToolbarCmd.label             "Koostamise tööriistariba">
 <!ENTITY compositionToolbarCmd.accesskey         "K">
 <!ENTITY formattingToolbarCmd.label              "Vormingu tööriistariba">

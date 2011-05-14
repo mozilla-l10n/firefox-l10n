@@ -130,6 +130,8 @@
 <!ENTITY detachAttachmentMenuItem.accesskey        "e">
 <!ENTITY deleteAttachmentMenuItem.label            "kustuta">
 <!ENTITY deleteAttachmentMenuItem.accesskey        "k">
+<!ENTITY openAllAttachmentsMenuItem.label          "ava kõik…">
+<!ENTITY openAllAttachmentsMenuItem.accesskey      "v">
 <!ENTITY saveAllAttachmentsMenuItem.label          "salvesta kõik…">
 <!ENTITY saveAllAttachmentsMenuItem.accesskey      "l">
 <!ENTITY detachAllAttachmentsMenuItem.label        "eemalda kõik…">

@@ -15,3 +15,5 @@
 
 <!ENTITY editContactPanelDone.label              "Valmis">
 <!ENTITY editContactPanelDone.accesskey          "V">
+
+<!ENTITY contactMoveDisabledWarning.description  "Aadressiraamatut pole võimalik muuta, sest antud kontakt kuulub meililisti.">

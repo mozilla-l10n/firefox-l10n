@@ -39,7 +39,6 @@
 <!ENTITY saveAsFileCmd.key                             "s">
 <!ENTITY saveAsTemplateCmd.label                       "Mall">
 <!ENTITY saveAsTemplateCmd.accesskey                   "M">
-<!ENTITY getNewMsgCmd.key                              "t">
 <!ENTITY getNewMsgForCmd.label                         "Uute kirjade tõmbamine">
 <!ENTITY getNewMsgForCmd.accesskey                     "j">
 <!ENTITY getAllNewMsgCmdPopupMenu.label                "Tõmba kõik uued kirjad">
@@ -522,7 +521,6 @@ you can use these alternative items. Otherwise, their values should be empty.  -
 <!ENTITY getMsgButton.tooltip                          "Kontrolli, kas on uusi kirju">
 <!ENTITY getAllNewMsgCmd.label                         "Tõmba kõik uued kirjad">
 <!ENTITY getAllNewMsgCmd.accesskey                     "T">
-<!ENTITY getAllNewMsgCmd.key                           "t">
 <!ENTITY newMsgButton.tooltip                          "Loo uus kiri">
 <!ENTITY replyButton.tooltip                           "Vasta kirjale">
 <!ENTITY replyAllButton.tooltip                        "Vasta saatjale ja kõigile saajatele">
@@ -758,12 +756,14 @@ you can use these alternative items. Otherwise, their values should be empty.  -
 <!-- Phishing Bar -->
 <!ENTITY phishingBarMessage2.label                     "Selle kirja puhul võib olla tegemist e-posti pettusega">
 <!ENTITY removePhishingBarButton1.label                "Eira hoiatust">
+<!ENTITY disablePhishingWarning1.label                 "Keela petukirjade tuvastus kõigi kirjade puhul">
 <!ENTITY reportPhishingError1.label                    "See kiri ei tundu olevat petukiri.">
 
 <!-- MDN Bar -->
-<!ENTITY mdnBarMessage.label                           "Selle kirja saatja soovib saada teavitatud, kui sa kirja loed. Kas soovid saatjat teavitada?">
-<!ENTITY mdnBarIgnoreButton.label                      "Eira soovi">
-<!ENTITY mdnBarSendButton.label                        "Saada kättesaamiskinnitus">
+<!ENTITY mdnBarIgnoreButton2.label                     "Eira">
+<!ENTITY mdnBarIgnoreButton2.accesskey                 "E">
+<!ENTITY mdnBarSendButton2.label                       "Saada kättesaamiskinnitus">
+<!ENTITY mdnBarSendButton2.accesskey                   "S">
 
 <!-- Quick Search Bar -->
 <!-- LOCALIZATION NOTE (quickSearchCmd.key):

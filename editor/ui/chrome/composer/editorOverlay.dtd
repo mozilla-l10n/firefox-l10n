@@ -45,9 +45,6 @@
 <!-- File menu items -->
 <!ENTITY fileMenu.label                      "Fail">
 <!ENTITY fileMenu.accesskey                  "F">
-<!ENTITY newBlankPageCmd.label               "Leht">
-<!ENTITY newBlankPageCmd.accesskey           "L">
-<!ENTITY newMenu.label                       "Uus">
 <!ENTITY openFileCmd.label                   "Ava fail...">
 <!ENTITY openFileCmd.accesskey               "A">
 <!ENTITY openFileCmd.key                     "o">
@@ -69,14 +66,8 @@
 <!ENTITY publishCmd.key                      "s">
 <!ENTITY publishAsCmd.label                  "Avalda kui...">
 <!ENTITY publishAsCmd.accesskey              "l">
-<!ENTITY exportToTextCmd.label               "Ekspordi tekstina...">
-<!ENTITY exportToTextCmd.accesskey           "d">
 <!ENTITY saveAsChangeEncodingCmd.label       "Salvesta ja muuda kodeeringut">
 <!ENTITY saveAsChangeEncodingCmd.accesskey   "i">
-<!ENTITY previewCmd.label                    "Eelvaade veebilehitsejas">
-<!ENTITY previewCmd.accesskey                "h">
-<!ENTITY sendPageCmd.label                   "Saada leht...">
-<!ENTITY sendPageCmd.accesskey               "d">
 <!ENTITY printSetupCmd.label                 "Printimise sätted...">
 <!ENTITY printSetupCmd.accesskey             "t">
 <!ENTITY printCmd.label                      "Prindi...">
@@ -399,13 +390,12 @@
 <!-- Toolbar-only items -->
 <!ENTITY menuBar.tooltip                     "Menüüriba">
 <!ENTITY formatToolbar.tooltip               "Vorminguriba">
+<!ENTITY newToolbarCmd.label                 "Uus">
 <!ENTITY newToolbarCmd.tooltip               "Loo koostajaga uus tühi leht">
 <!ENTITY openToolbarCmd.label                "Ava">
 <!ENTITY openToolbarCmd.tooltip              "Ava kohalik fail">
 <!ENTITY saveToolbarCmd.tooltip              "Salvesta fail kettale">
 <!ENTITY publishToolbarCmd.tooltip           "Laadi fail võrku üles">
-<!ENTITY previewToolbarCmd.label             "Eelvaade">
-<!ENTITY previewToolbarCmd.tooltip           "Eelvaade veebilehitsejas">
 <!ENTITY printToolbarCmd.label               "Prindi">
 <!ENTITY printToolbarCmd.tooltip             "Prindi see lehekülg">
 <!ENTITY findToolbarCmd.label                "Otsi">
