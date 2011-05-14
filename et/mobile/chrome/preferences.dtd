@@ -8,6 +8,7 @@
 <!ENTITY enablePlugins.title                       "Pluginad lubatakse">
 <!ENTITY privacy.title                             "Privaatsus ja turvalisus">
 <!ENTITY allowCookies.title                        "Küpsised lubatakse">
+<!ENTITY doNotTrack.title                          "Veebilehtedele antakse teada, et jälitamist ei soovita">
 <!ENTITY clearPrivateData2.title                   "Privaatsete andmete kustutamine">
 <!ENTITY clearPrivateData.button                   "Kustuta">
 <!ENTITY rememberPasswords.title                   "Paroolid salvestatakse">
