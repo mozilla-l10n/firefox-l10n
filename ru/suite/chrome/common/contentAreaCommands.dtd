@@ -75,10 +75,6 @@
 <!ENTITY saveVideoCmd.accesskey "х">
 <!ENTITY saveAudioCmd.label "Сохранить аудио как…">
 <!ENTITY saveAudioCmd.accesskey "х">
-<!ENTITY copyCmd.label "Копировать">
-<!ENTITY copyCmd.accesskey "о">
-<!ENTITY selectAllCmd.label "Выделить всё">
-<!ENTITY selectAllCmd.accesskey "е">
 <!ENTITY copyLinkCmd.label "Копировать ссылку">
 <!ENTITY copyLinkCmd.accesskey "п">
 <!ENTITY copyImageCmd.label "Копировать изображение">
@@ -91,16 +87,6 @@
 <!ENTITY metadataCmd.accesskey "й">
 <!ENTITY copyEmailCmd.label "Копировать адрес электронной почты">
 <!ENTITY copyEmailCmd.accesskey "р">
-<!ENTITY pasteCmd.label "Вставить">
-<!ENTITY pasteCmd.accesskey "с">
-<!ENTITY cutCmd.label "Вырезать">
-<!ENTITY cutCmd.accesskey "В">
-<!ENTITY deleteCmd.label "Удалить">
-<!ENTITY deleteCmd.accesskey "У">
-<!ENTITY undoCmd.label "Отменить">
-<!ENTITY undoCmd.accesskey "О">
-<!ENTITY redoCmd.label "Повторить">
-<!ENTITY redoCmd.accesskey "П">
 <!ENTITY thisFrameMenu.label "В этом фрейме">
 <!ENTITY thisFrameMenu.accesskey "ф">
 <!ENTITY mediaPlay.label "Воспроизвести">
