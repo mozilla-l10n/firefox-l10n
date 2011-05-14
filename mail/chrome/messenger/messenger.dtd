@@ -68,7 +68,6 @@
 <!ENTITY saveAsFileCmd.key "s">
 <!ENTITY saveAsTemplateCmd.label "šabloną">
 <!ENTITY saveAsTemplateCmd.accesskey "š">
-<!ENTITY getNewMsgCmd.key "t">
 <!ENTITY getNewMsgForCmd.label "Atsiųsti laiškus">
 <!ENTITY getNewMsgForCmd.accesskey "ų">
 <!ENTITY getAllNewMsgCmdPopupMenu.label "visų paskyrų">
@@ -546,7 +545,6 @@ you can use these alternative items. Otherwise, their values should be empty.  -
 <!ENTITY getMsgButton.tooltip "Atsiųsti laiškus">
 <!ENTITY getAllNewMsgCmd.label "Atsiųsti visus laiškus">
 <!ENTITY getAllNewMsgCmd.accesskey "s">
-<!ENTITY getAllNewMsgCmd.key "t">
 <!ENTITY newMsgButton.tooltip "Rašyti naują laišką">
 <!ENTITY replyButton.tooltip "Atsakyti į laišką">
 <!ENTITY replyAllButton.tooltip "Atsakyti siuntėjui ir visiems gavėjams">

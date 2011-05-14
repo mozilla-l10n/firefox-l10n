@@ -132,6 +132,8 @@
 <!ENTITY detachAttachmentMenuItem.accesskey    "m">
 <!ENTITY deleteAttachmentMenuItem.label    "Pašalinti">
 <!ENTITY deleteAttachmentMenuItem.accesskey    "š">
+<!ENTITY openAllAttachmentsMenuItem.label    "Atverti visus…">
+<!ENTITY openAllAttachmentsMenuItem.accesskey    "A">
 <!ENTITY saveAllAttachmentsMenuItem.label    "Įrašyti visus…">
 <!ENTITY saveAllAttachmentsMenuItem.accesskey    "r">
 <!ENTITY detachAllAttachmentsMenuItem.label    "Išimti visus…">
