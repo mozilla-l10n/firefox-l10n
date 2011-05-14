@@ -7,12 +7,9 @@
 <!ENTITY organize.tooltip      "Бетбелгілеріңізді басқару">
 <!ENTITY find.label               "Іздеу:">
 <!ENTITY find.accesskey           "з">
-<!ENTITY file.accesskey                 "Ф">
 <!ENTITY file.close.label               "Жабу">
 <!ENTITY file.close.accesskey           "Ж">
 <!ENTITY cmd.close.key                  "w">
-<!ENTITY edit.label                     "Түзету">
-<!ENTITY edit.accesskey                 "Т">
 <!ENTITY views.label                    "Түрі">
 <!ENTITY views.accesskey                "р">
 <!ENTITY views.tooltip                  "Көрінісіңізді ауыстыру">
@@ -79,8 +76,6 @@
 
 <!ENTITY cmd.reloadLivebookmark.label      "Жаңалықтар таспасының бетбелгісін жаңарту">
 <!ENTITY cmd.reloadLivebookmark.accesskey  "р">
-<!ENTITY cmd.reloadMicrosummary.label      "Ағымдағы тақырыпты жаңарту">
-<!ENTITY cmd.reloadMicrosummary.accesskey  "А">
 
 <!ENTITY cmd.moveBookmarks.label                  "Басқа жерге ауыстыру…">
 <!ENTITY cmd.moveBookmarks.accesskey              "у">
@@ -114,18 +109,15 @@
 <!ENTITY maintenance.label      "Импорт және резервілеу">
 <!ENTITY maintenance.accesskey  "И">
 
-<!ENTITY backCmd.label       "Қайту">
 <!ENTITY backButton.tooltip  "Алдыңғы бетке қайту">
 <!ENTITY maintenance.tooltip    "Бетбелгілеріңізді импорттау мен қор көшіру">
 
-<!ENTITY forwardCmd.label       "Алға">
 <!ENTITY forwardButton.tooltip  "Келесі бетке өту">
 
 <!ENTITY detailsPane.more.label "Көбірек">
 <!ENTITY detailsPane.more.accesskey "е">
 <!ENTITY detailsPane.less.label "Аздау">
 <!ENTITY detailsPane.less.accesskey "з">
-<!ENTITY detailsPane.noPreviewAvailable.label "Алдын-ала қарау">
 <!ENTITY detailsPane.selectAnItemText.description "Қарап шығу мен қасиеттерін түзету үшін элементті таңдаңыз">
 <!ENTITY byDate.label             "Күні бойынша">
 <!ENTITY byDate.accesskey         "н">

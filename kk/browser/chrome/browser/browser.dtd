@@ -113,7 +113,6 @@ can reach it easily. -->
 <!ENTITY subscribeToPageMenuitem.label "Жаналықтар таспаларына жазылу…">
 <!ENTITY addCurPagesCmd.label "Барлық беттерді бетбелгілерге қосу…">
 <!ENTITY showAllBookmarks2.label "Барлық бетбелгілерді көрсету">
-<!ENTITY bookmarkAllCmd.label "Барлық беттерді бетбелгілерге қосу…">
 <!ENTITY bookmarksToolbarChevron.tooltip "Көбірек бетбелгілерді көрсету">
 
 <!ENTITY backCmd.label                "Қайту">
@@ -197,6 +196,9 @@ can reach it easily. -->
 <!ENTITY inspectMenu.label            "Бақылау">
 <!ENTITY inspectMenu.accesskey        "Б">
 <!ENTITY inspectMenu.commandkey       "i">
+
+<!ENTITY scratchpad.keycode           "VK_F4">
+<!ENTITY scratchpad.keytext           "F4">
 
 <!ENTITY inspectPanelTitle.label      "HTML">
 <!ENTITY inspectButton.label          "Бақылау">

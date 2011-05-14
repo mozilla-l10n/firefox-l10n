@@ -43,7 +43,7 @@
 <!ENTITY setup.newSyncKeyPage.description.label "Жекелігіңізді сақтау үшін жүктелу алдында барлық ақпарат шифрленеді. Ақпаратты дешифрлеу үшін керек Синхрондау кілті жүктелмейді.">
 <!ENTITY syncKeyEntry.label        "Сіздің синхрондау кілтіңіз">
 <!ENTITY syncKeyEntry.accesskey    "к">
-<!ENTITY syncKeyGenerate.label     "Генерациялау">
+<!ENTITY syncGenerateNewKey.label  "Жана кілтті жасау">
 <!ENTITY syncKeyBackup.description "Сіздің Синхрондау кілтіңіз &syncBrand.fullName.label; басқа компьютерлерде қатынау үшін керек. Қор көшірмесін жасаңыз. Жоғалған Синхрондау кілтін біз қалпына келтіре алмаймыз.">
 
 <!ENTITY button.syncKeyBackup.print.label     "Баспаға шығару…">
