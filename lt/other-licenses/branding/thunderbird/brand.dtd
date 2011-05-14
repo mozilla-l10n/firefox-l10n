@@ -31,5 +31,5 @@
 <!ENTITY  brandShortName        "Thunderbird">
 <!ENTITY  brandFullName         "Mozilla Thunderbird">
 <!ENTITY  vendorShortName       "Mozilla">
-<!ENTITY  logoTrademark         "Vardas „Mozilla Thunderbird“ ir „Thunderbird“ logotipai yra bendrijos 
+<!ENTITY  trademarkInfo.part1   "Vardas „Mozilla Thunderbird“ ir „Thunderbird“ logotipai yra bendrijos 
                                  „Mozilla Foundation“ prekės ženklai.">
