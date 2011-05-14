@@ -26,7 +26,7 @@
 <!ENTITY editBookmarkTags.label "Добавьте сюда метки">
 <!ENTITY selectHelper.done "Готово">
 <!ENTITY addonsHeader.label "Дополнения">
-<!ENTITY addonsLocal.label "Ваши дополнения">
+<!ENTITY addonsLocal.label "Мои дополнения">
 <!ENTITY addonsUpdate.label "Обновить">
 <!ENTITY addonsRepo.label "Получить дополнения">
 <!ENTITY addonsRecommended.label "Рекомендуемое">
@@ -39,9 +39,9 @@
 <!ENTITY addonInstall2.label "Добавить в &brandShortName;">
 <!ENTITY addonUninstall.label "Удалить">
 <!ENTITY addonCancel.label "Отмена">
-<!ENTITY addonShowPage.label "Перейти к странице">
+<!ENTITY addonShowPage.label "На страницу">
 <!ENTITY downloadsHeader.label "Загрузки">
-<!ENTITY downloadShowPage.label "Перейти к странице">
+<!ENTITY downloadShowPage.label "На страницу">
 <!ENTITY downloadShow2.label "Найти">
 <!ENTITY downloadOpen2.label "Открыть">
 <!ENTITY downloadCancel.label "Отмена">
