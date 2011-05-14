@@ -7,6 +7,7 @@
 <!ENTITY aboutSupport.accountsName                    "Nimi">
 <!ENTITY aboutSupport.accountsIncomingServer          "Vastuvõttev server">
 <!ENTITY aboutSupport.accountsOutgoingServers         "Saatvad serverid">
+<!ENTITY aboutSupport.accountsServerName              "Nimi">
 <!ENTITY aboutSupport.accountsConnSecurity            "Ühenduse turvalisus">
 <!ENTITY aboutSupport.accountsAuthMethod              "Autentimise meetod">
 <!ENTITY aboutSupport.accountsDefault                 "Vaikimisi?">
