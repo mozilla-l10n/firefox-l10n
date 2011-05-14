@@ -7,8 +7,10 @@
 <!ENTITY helpMenuWin.accesskey "č">
 <!ENTITY helpTroubleshootingInfo.label "Informacije o problemu">
 <!ENTITY helpTroubleshootingInfo.accesskey "I">
-<!ENTITY releaseCmd.label "Opombe ob izdaji">
-<!ENTITY releaseCmd.accesskey "O">
+<!ENTITY helpSafeMode.label     "Zaženi ponovno z deaktiviranimi dodatki…">
+<!ENTITY helpSafeMode.accesskey "ž">
+<!ENTITY releaseCmd2.label "Opombe ob izdaji">
+<!ENTITY releaseCmd2.accesskey "O">
 <!ENTITY whatsNewCmd.label "Kaj je novega">
 <!ENTITY whatsNewCmd.accesskey "K">
 <!ENTITY featureConfiguratorCmd.label "Pomočnik za prehod">

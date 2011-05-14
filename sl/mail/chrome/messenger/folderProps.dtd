@@ -58,7 +58,7 @@
 <!ENTITY daysOld.label "dni">
 <!ENTITY message.label "sporočil">
 <!ENTITY retentionCleanup.label "Prostor na disku lahko prihranite, če trajno izbrišete stara sporočila.">
-<!ENTITY retentionCleanupImap.label "Prostor na disku lahko prihranite, če trajno izbrišete stara sporočila, lokalna in sporočila na oddaljenem strežniku.">
+<!ENTITY retentionCleanupImap.label "Prostor na disku lahko prihranite, če trajno izbrišete stara sporočila, krajevna in sporočila na oddaljenem strežniku.">
 <!ENTITY retentionCleanupPop.label "Prostor na disku lahko prihranite, če trajno izbrišete stara sporočila, vključno z originali na oddaljenem strežniku.">
 <!ENTITY retentionDeleteMsg.label "Izbriši sporočila starejša kot">
 <!ENTITY retentionDeleteMsg.accesskey "B">
@@ -71,7 +71,7 @@
 <!ENTITY retentionApplyToFlagged.label "Vedno ohrani označena sporočila">
 <!ENTITY retentionApplyToFlagged.accesskey "s">
 
-<!ENTITY folderSynchronizationTab.label          "Sinhronizacija">
+<!ENTITY folderSynchronizationTab.label          "Usklajevanje">
 <!ENTITY folderCheckForNewMessages2.label         "Ko dobivaš nova sporočila za ta račun, vedno preveri to mapo">
 <!ENTITY folderCheckForNewMessages2.accesskey     "u">
 

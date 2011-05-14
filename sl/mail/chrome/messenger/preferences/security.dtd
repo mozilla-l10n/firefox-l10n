@@ -39,7 +39,7 @@
 <!ENTITY savedPasswords.accesskey       "S">
 
 <!-- Anti Virus -->
-<!ENTITY antiVirus.intro      "&brandShortName; lahko omogoči protivirusnemu programu, da prihajajoča sporočila analizira,  preden se jih shrani lokalno.">
+<!ENTITY antiVirus.intro      "&brandShortName; lahko omogoči protivirusnemu programu, da prihajajoča sporočila analizira,  preden se jih shrani krajevno.">
 <!ENTITY antiVirus.label      "Dovoli protivirusnim programom, da posamezna prejeta sporočila spravijo v karanteno">
 <!ENTITY antiVirus.accesskey  "N">
 

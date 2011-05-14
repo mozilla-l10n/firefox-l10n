@@ -77,6 +77,9 @@
 <!ENTITY cspFrameAncestorBlocked.title "Zavrnjeno zaradi varnostne politike vsebine">
 <!ENTITY cspFrameAncestorBlocked.longDesc "<p>Brskalnik je preprečil nalaganje strani v taki obliki, ker tako določa varnostna politika vsebine.</p>">
 
+
+<!ENTITY remoteXUL.title "Oddaljeni XUL">
+<!ENTITY remoteXUL.longDesc "<p><ul><li>Obrnite se na lastnike spletne strani in jih obvestite o težavi.</li></ul></p>">
 <!-- Include app-specific error messages - do not change this in localization!
      Some applications might override netErrorApp.dtd with their specific version,
      this inclusion needs to be intact for that approach to work correctly. -->

@@ -1,6 +1,6 @@
 <!-- extracted from content/openLocation.xul -->
 
-<!ENTITY enter.label "Vnesite spletni naslov (URL) ali navedite lokalno datoteko, ki jo želite odpreti:">
+<!ENTITY enter.label "Vnesite spletni naslov (URL) ali navedite krajevno datoteko, ki jo želite odpreti:">
 <!ENTITY chooseFile.label "Izberi datoteko ...">
 <!ENTITY newWindow.label "Novo okno">
 <!ENTITY newTab.label "Nov zavihek">

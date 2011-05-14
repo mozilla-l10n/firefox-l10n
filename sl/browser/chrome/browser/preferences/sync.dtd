@@ -14,11 +14,11 @@
 <!ENTITY manageAccount.accesskey      "a">
 <!ENTITY viewQuota.label              "Prikaži omejitve">
 <!ENTITY changePassword.label         "Spremeni geslo">
-<!ENTITY mySyncKey.label              "Moj sinhronizacijski ključ">
-<!ENTITY resetSync.label              "Ponastavi sinhronizacijo">
+<!ENTITY mySyncKey.label              "Moj usklajevalni ključ">
+<!ENTITY resetSync.label              "Ponastavi usklajevanje">
 <!ENTITY addDevice.label              "Dodaj napravo">
 
-<!ENTITY syncMy.label               "Sinhroniziraj">
+<!ENTITY syncMy.label               "Uskladi">
 <!ENTITY engine.bookmarks.label     "Zaznamke">
 <!ENTITY engine.bookmarks.accesskey "m">
 <!ENTITY engine.tabs.label          "Zavihke">

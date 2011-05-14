@@ -36,7 +36,7 @@
 <!ENTITY templatesFolderOn.accesskey "G">
 <!ENTITY templateInOtherFolder.label "Drugo:">
 <!ENTITY templateInOtherFolder.accesskey "s">
-<!ENTITY specialFoldersTitle.label "Osnutki, arhivi in predloge">
+<!ENTITY specialFolders.label "Osnutki, arhivi in predloge">
 <!ENTITY keepDrafts.label "Osnutke za sporočila shranjuj v:">
 <!ENTITY keepArchives.label "Arhive za sporočila shranjuj v:">
-<!ENTITY keepTempltes.label "Predloge za sporočila shranjuj v:">
+<!ENTITY keepTemplates.label "Predloge za sporočila shranjuj v:">

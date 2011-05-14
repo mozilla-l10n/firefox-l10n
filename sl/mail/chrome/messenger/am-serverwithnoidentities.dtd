@@ -5,7 +5,7 @@
 <!ENTITY messageStorage.label "Hranjenje sporočil">
 <!ENTITY emptyTrashOnExit.label "Ob izhodu izprazni koš">
 <!ENTITY emptyTrashOnExit.accesskey "X">
-<!ENTITY localPath.label "Lokalni imenik:">
-<!ENTITY localFolderPicker.label "Izberi lokalno mapo">
+<!ENTITY localPath.label "Krajevni imenik:">
+<!ENTITY localFolderPicker.label "Izberi krajevno mapo">
 <!ENTITY browseFolder.label "Prebrskaj…">
 <!ENTITY browseFolder.accesskey "B">
