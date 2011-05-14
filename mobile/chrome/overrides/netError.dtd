@@ -19,8 +19,8 @@
     (saisie de <strong>ww</strong>.exemple.com au lieu de
     <strong>www</strong>.exemple.com par exemple)&#x00A0;;</li>
   <li>Si vous n'arrivez à naviguer sur aucun site, vérifiez la connexion
-    au réseau de votre ordinateur&#x00A0;;</li>
-  <li>Si votre ordinateur ou votre réseau est protégé par un pare-feu ou un proxy,
+    au réseau de votre appareil&#x00A0;;</li>
+  <li>Si votre appareil ou votre réseau est protégé par un pare-feu ou un proxy,
     assurez-vous que &brandShortName; a l'autorisation d'accéder au Web.</li>
 </ul>
 ">
@@ -99,8 +99,8 @@
 <!ENTITY proxyResolveFailure.longDesc "
 <ul>
   <li>Vérifiez que les paramètres du proxy sont corrects&#x00A0;;</li>
-  <li>Vérifiez que la connexion réseau de votre ordinateur fonctionne&#x00A0;;</li>
-  <li>Si votre ordinateur ou votre réseau est protégé par un pare-feu ou un proxy,
+  <li>Vérifiez que la connexion réseau de votre appareil fonctionne&#x00A0;;</li>
+  <li>Si votre appareil ou votre réseau est protégé par un pare-feu ou un proxy,
     assurez-vous que &brandShortName; a l'autorisation d'accéder au Web.</li>
 </ul>
 ">
@@ -145,15 +145,15 @@ Vous pouvez également utiliser la commande dans le menu d'aide pour signaler un
   <li>Le site est peut-être temporairement indisponible ou surchargé. Réessayez plus
     tard&#x00A0;;</li>
   <li>Si vous n'arrivez à naviguer sur aucun site, vérifiez la connexion
-    au réseau de votre ordinateur&#x00A0;;</li>
-  <li>Si votre ordinateur ou votre réseau est protégé par un pare-feu ou un proxy,
+    au réseau de votre appareil&#x00A0;;</li>
+  <li>Si votre appareil ou votre réseau est protégé par un pare-feu ou un proxy,
     assurez-vous que &brandShortName; a l'autorisation d'accéder au Web.</li>
 </ul>
 ">
 
 <!ENTITY malwareBlocked.title "Suspicion de site malveillant !">
 <!ENTITY malwareBlocked.longDesc "
-<p>Les sites malveillants tentent d'installer des programmes qui volent les informations personnelles, qui utilisent votre ordinateur pour en attaquer d'autres ou qui endommagent votre système.</p>
+<p>Les sites malveillants tentent d'installer des programmes qui volent les informations personnelles, qui utilisent votre appareil pour en attaquer d'autres ou qui endommagent votre système.</p>
 <p>Les propriétaires de sites Web qui pensent que leur site a été rapporté à tort comme malveillant peuvent <a href='http://www.stopbadware.org/home/reviewinfo'>demander une révision</a>.</p>
 ">
 

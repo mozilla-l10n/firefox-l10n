@@ -18,7 +18,7 @@
 <!ENTITY safeb.blocked.malwarePage.title "Page malveillante !">
 <!-- Localization note (safeb.blocked.malware.shortDesc) - Please don't translate the contents of the <span id="malware_sitename"/> tag.  It will be replaced at runtime with a domain name (e.g. www.badsite.com) -->
 <!ENTITY safeb.blocked.malwarePage.shortDesc "La page Web sur <span id='malware_sitename'/> a été signalée comme étant une page malveillante et a été bloquée sur la base de vos préférences de sécurité.">
-<!ENTITY safeb.blocked.malwarePage.longDesc "<p>Les pages malveillantes essaient d'installer des programmes qui volent des informations personnelles, qui utilisent votre ordinateur pour en attaquer d'autres ou qui endommagent votre système.</p><p>Certaines pages distribuent intentionnellement des logiciels malfaisants, mais beaucoup sont compromises sans la permission de leurs propriétaires ou sans qu'ils en aient connaissance.</p>">
+<!ENTITY safeb.blocked.malwarePage.longDesc "<p>Les pages malveillantes essaient d'installer des programmes qui volent des informations personnelles, qui utilisent votre appareil pour en attaquer d'autres ou qui endommagent votre système.</p><p>Certaines pages distribuent intentionnellement des logiciels malfaisants, mais beaucoup sont compromises sans la permission de leurs propriétaires ou sans qu'ils en aient connaissance.</p>">
 
 <!ENTITY safeb.blocked.phishingPage.title "Page contrefaite !">
 <!-- Localization note (safeb.blocked.phishing.shortDesc) - Please don't translate the contents of the <span id="phishing_sitename"/> tag. It will be replaced at runtime with a domain name (e.g. www.badsite.com) -->
