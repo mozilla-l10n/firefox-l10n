@@ -44,6 +44,17 @@
 
 <!-- Toolbar-only items -->
 <!ENTITY compositionToolbar.tooltip "Lišta editoru">
+<!ENTITY previewToolbarCmd.label "Náhled">
+<!ENTITY previewToolbarCmd.tooltip "Zobrazí stránku v prohlížeči">
+
+<!-- File menu items -->
+<!ENTITY exportToTextCmd.label "Exportovat text…">
+<!ENTITY exportToTextCmd.accesskey "x">
+<!ENTITY previewCmd.label "Náhled stránky">
+<!ENTITY previewCmd.accesskey "h">
+<!ENTITY sendPageCmd.label "Odeslat stránku…">
+<!ENTITY sendPageCmd.accesskey "l">
+
 
 <!-- View menu items -->
 <!ENTITY compositionToolbarCmd.label "Lišta editoru">
