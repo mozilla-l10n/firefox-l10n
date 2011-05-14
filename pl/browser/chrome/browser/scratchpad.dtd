@@ -31,8 +31,8 @@
 <!ENTITY saveFileAsCmd.accesskey      "a">
 
 <!ENTITY closeCmd.label               "Zamknij">
-<!ENTITY closeCmd.key                 "k">
-<!ENTITY closeCmd.accesskey           "C">
+<!ENTITY closeCmd.key                 "W">
+<!ENTITY closeCmd.accesskey           "k">
 
 <!ENTITY editMenu.label               "Edycja">
 <!ENTITY editMenu.accesskey           "E">
