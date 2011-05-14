@@ -8,7 +8,7 @@
 <!ENTITY fileMenu.accesskey "F">
 <!ENTITY newMenu.label "Nouveau">
 <!ENTITY newMenu.accesskey "N">
-<!ENTITY newBlankPageCmd.label     "Page blanche">
+<!ENTITY newBlankPageCmd.label "Page blanche">
 <!ENTITY newBlankPageCmd.accesskey "P">
 <!ENTITY newBlankPageCmd.key "N">
 <!ENTITY newPageFromTemplateCmd.label "Page utilisant un modèle">
