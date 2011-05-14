@@ -1,3 +1,8 @@
+<!ENTITY tracking.label                 "Praćenje">
+
+<!ENTITY doNotTrack.label               "Obavijesti web stranice da me ne prate">
+<!ENTITY doNotTrack.accesskey           "d">
+
 <!ENTITY  history.label                 "Povijest">
 
 <!ENTITY  locationBar.label             "Adresna traka">
