@@ -48,9 +48,6 @@
 <!-- File menu items -->
 <!ENTITY fileMenu.label "Arkiv">
 <!ENTITY fileMenu.accesskey "A">
-<!ENTITY newBlankPageCmd.label "Ny sida i Composer">
-<!ENTITY newBlankPageCmd.accesskey "s" >
-<!ENTITY newMenu.label "Ny">
 <!ENTITY openFileCmd.label "Öppna fil...">
 <!ENTITY openFileCmd.accesskey "p">
 <!ENTITY openFileCmd.key "O">
@@ -395,6 +392,7 @@
 <!-- Toolbar-only items -->
 <!ENTITY menuBar.tooltip "Menyrad">
 <!ENTITY formatToolbar.tooltip "Formateringsverktyg">
+<!ENTITY newToolbarCmd.label "Ny">
 <!ENTITY newToolbarCmd.tooltip "Skapa en ny sida i Composer">
 <!ENTITY openToolbarCmd.label "Öppna">
 <!ENTITY openToolbarCmd.tooltip "Öppna en lokal fil">
