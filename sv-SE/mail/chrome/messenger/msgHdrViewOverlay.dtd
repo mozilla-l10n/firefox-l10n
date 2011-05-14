@@ -133,6 +133,8 @@
 <!ENTITY detachAttachmentMenuItem.accesskey    "k">
 <!ENTITY deleteAttachmentMenuItem.label    "ta bort">
 <!ENTITY deleteAttachmentMenuItem.accesskey    "b">
+<!ENTITY openAllAttachmentsMenuItem.label    "öppna alla…">
+<!ENTITY openAllAttachmentsMenuItem.accesskey    "ö">
 <!ENTITY saveAllAttachmentsMenuItem.label    "spara alla…">
 <!ENTITY saveAllAttachmentsMenuItem.accesskey    "a">
 <!ENTITY detachAllAttachmentsMenuItem.label    "avskilj alla…">
