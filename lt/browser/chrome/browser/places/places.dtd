@@ -38,12 +38,9 @@
 <!ENTITY organize.accesskey             "T">
 <!ENTITY organize.tooltip               "Tvarkyti adresyną">
 
-<!ENTITY file.accesskey                 "F">
 <!ENTITY file.close.label               "Užverti">
 <!ENTITY file.close.accesskey           "U">
 <!ENTITY cmd.close.key                  "w">
-<!ENTITY edit.label                     "Taisa">
-<!ENTITY edit.accesskey                 "T">
 <!ENTITY views.label                    "Rodymas">
 <!ENTITY views.accesskey                "R">
 <!ENTITY views.tooltip                  "Keisti rodymą">
@@ -143,17 +140,14 @@
 <!ENTITY maintenance.accesskey  "I">
 <!ENTITY maintenance.tooltip    "Importuoti adresyną arba kurti jo atsarginę kopiją">
 
-<!ENTITY backCmd.label       "Atgal">
 <!ENTITY backButton.tooltip  "Eiti atgal">
 
-<!ENTITY forwardCmd.label       "Pirmyn">
 <!ENTITY forwardButton.tooltip  "Eiti pirmyn">
 
 <!ENTITY detailsPane.more.label                    "Daugiau">
 <!ENTITY detailsPane.more.accesskey                "a">
 <!ENTITY detailsPane.less.label                    "Mažiau">
 <!ENTITY detailsPane.less.accesskey                "a">
-<!ENTITY detailsPane.noPreviewAvailable.label      "Peržiūra">
 <!ENTITY detailsPane.selectAnItemText.description  "Pažymėkite objektą, kurio savybes norite peržiūrėti ar redaguoti">
 
 <!ENTITY find.label                   "Ieškoti:">
