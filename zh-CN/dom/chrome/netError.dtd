@@ -76,8 +76,12 @@
 <!ENTITY cspFrameAncestorBlocked.title "由于内容安全策略而被阻止">
 <!ENTITY cspFrameAncestorBlocked.longDesc "<p>由于浏览器加载本页的方式不被其内容安全策略所允许，浏览器已停止加载此页。</p>">
 
+<!ENTITY remoteXUL.title "远程 XUL">
+<!ENTITY remoteXUL.longDesc "<p><ul><li>请联系网站拥有者告知这个问题。</li></ul></p>">
+
 <!-- Include app-specific error messages - do not change this in localization!
      Some applications might override netErrorApp.dtd with their specific version,
-     this inclusion needs to be intact for that approach to work correctly. -->
+     this inclusion needs to be intact for that approach to work correctly.
+     Please, try to keep this at the end of the file. -->
 <!ENTITY % netErrorAppDTD SYSTEM "chrome://global/locale/netErrorApp.dtd">
 %netErrorAppDTD;
