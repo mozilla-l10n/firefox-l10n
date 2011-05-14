@@ -6,7 +6,6 @@
 <!ENTITY editBookmarkOverlay.feedLocation.accesskey          "р">
 <!ENTITY editBookmarkOverlay.siteLocation.label              "Сайт адресі:">
 <!ENTITY editBookmarkOverlay.siteLocation.accesskey          "а">
-<!ENTITY editBookmarkOverlay.liveTitlesSeparator.label       "Ағымдағы тақырыптар">
 <!ENTITY editBookmarkOverlay.folder.label                    "Бума:">
 <!ENTITY editBookmarkOverlay.foldersExpanderDown.tooltip     "Бетбелгілер бумаларының барлығын көрсету">
 <!ENTITY editBookmarkOverlay.expanderUp.tooltip              "Жасыру">
