@@ -35,3 +35,27 @@
 <!ENTITY update.manual.start        "Dopune su dostupne na ">
 <!ENTITY update.manual.end          "">
 <!ENTITY update.noUpdatesFound      "&brandShortName; je ažuriran">
+
+<!-- LOCALIZATION NOTE (channel.description.start,channel.description.end): channel.description.start and
+     channel.description.end create one sentence, with the current channel label inserted in between.
+     example: You are currently on the _Stable_ update channel. -->
+<!ENTITY channel.description.start  "Trenutno ste na ">
+<!ENTITY channel.description.end    " kanalu dopuna. ">
+
+<!ENTITY channel.change             "Promijeni">
+
+<!ENTITY channel.release.description       "Uživajte u isprobanom, testiranom konačnom izdanju kojeg koriste stotine milijuna korisnika diljem svijeta. Kontrolirajte svoje online iskustvo uz fantastičnu brzinu, jednostavnu prilagodbu i najnovije web tehnologije.">
+<!ENTITY channel.beta.description          "Iskusite najnovije mogućnosti uz solidnu stabilnost. Podijelite svoje mišljenje i pomognite nam ispolirati mogućnosti koje će biti dostupne u finalnom izdanju.">
+<!ENTITY channel.aurora.description        "Iskusite najnovije inovacije u nestabilnom okružju za hrabre korisnike. Javite nam svoje mišljenje o mogućnostima i performansama kako biste nam pomogli odrediti što će biti uključeno u finalnom izdanju.">
+
+<!-- LOCALIZATION NOTE (channel.selector.start,channel.selector.end): channel.selector.start and
+     channel.selector.end create one sentence, with a channel selection menulist instered in between.
+     This is all in one line, so try to make the localized text short.
+     example: Switch to the [Stable] update channel. -->
+<!ENTITY channel.selector.start          "Prebaci se na">
+<!ENTITY channel.selector.end            "kanal dopuna.">
+
+<!-- LOCALIZATION NOTE (channel.selector.applyButton): This button applies the user's choice to switch
+     to a new update channel and starts the application update process. -->
+<!ENTITY channel.selector.applyButton    "Primijeni i ažuriraj">
+<!ENTITY channel.selector.cancelButton   "Otkaži">
