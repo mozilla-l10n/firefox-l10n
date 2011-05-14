@@ -73,26 +73,23 @@
 <!ENTITY print.accesskey              "S">
 <!ENTITY print.key                    "r">
 
-<!--
-<!ENTITY contextMenu.label            "Context">
-<!ENTITY contextMenu.accesskey        "C">
+<!ENTITY contextMenu.label            "Kontekstas">
+<!ENTITY contextMenu.accesskey        "K">
 
+<!--
 <!ENTITY contentContext.label         "Content">
 <!ENTITY contentContext.accesskey     "C">
 
 <!ENTITY chromeContext.label          "Chrome">
 <!ENTITY chromeContext.accesskey      "H">
 -->
-
 <!-- LOCALIZATION NOTE (resetContext.label): This command allows the developer
   -  to reset/clear the global object of the context where the code executes.
   -->
-
 <!--
 <!ENTITY resetContext.label           "Reset">
 <!ENTITY resetContext.accesskey       "R">
 -->
-
 <!ENTITY toolsMenu.label              "Priemonės">
 <!ENTITY toolsMenu.accesskey          "P">
 
