@@ -1,3 +1,8 @@
+<!ENTITY tracking.label                 "追踪中">
+
+<!ENTITY doNotTrack.label               "告诉网站我不希望被追踪">
+<!ENTITY doNotTrack.accesskey           "d">
+
 <!ENTITY  history.label                 "历史">
 
 <!ENTITY  locationBar.label             "地址栏">
@@ -29,7 +34,6 @@
 
 <!ENTITY  showCookies.label             "显示 Cookie…">
 <!ENTITY  showCookies.accesskey         "S">
-
 
 <!ENTITY  historyHeader.pre.label          "&brandShortName; 将会：">
 <!ENTITY  historyHeader.pre.accesskey      "w">

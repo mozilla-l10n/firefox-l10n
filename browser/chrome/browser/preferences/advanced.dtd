@@ -21,8 +21,6 @@
 <!ENTITY allowHWAccel.accesskey          "h">
 <!ENTITY checkSpelling.label             "输入时即检查拼写">
 <!ENTITY checkSpelling.accesskey         "t">
-<!ENTITY doNotTrack.label                "告诉网站我不希望被追踪">
-<!ENTITY doNotTrack.accesskey            "d">
 
 <!ENTITY systemDefaults.label            "系统默认值">
 <!ENTITY alwaysCheckDefault.label        "启动时总是检查并确认 &brandShortName; 为默认浏览器"><!--XXX-->
