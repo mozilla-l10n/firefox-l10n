@@ -54,3 +54,27 @@
      example: Downloading update — 111 KB of 13 MB -->
 <!ENTITY update.downloading.start   "Ladataan päivitystä — ">
 <!ENTITY update.downloading.end     "">
+
+<!-- LOCALIZATION NOTE (channel.description.start,channel.description.end): channel.description.start and
+     channel.description.end create one sentence, with the current channel label inserted in between.
+     example: You are currently on the _Stable_ update channel. -->
+<!ENTITY channel.description.start  "Ohjelmasi päivitykset ovat tällä hetkellä tyyppiä ">
+<!ENTITY channel.description.end    ".">
+
+<!ENTITY channel.change             "Vaihda">
+
+<!ENTITY channel.release.description       "Nauti tiukan testauksen läpäisseestä ja ympäri maailmaa satojen miljoonien käyttämästä vakaasta, lopullisesta julkaisuversiosta. Surffaa omalla tavallasi ennennäkemättömällä nopeudella, joustavuudella ja viimeisimpiä verkkoteknologioita käyttäen.">
+<!ENTITY channel.beta.description          "Ota hyöty irti uusimmista ominaisuuksista verrattain vakaalla versiolla. Palautteesi avulla hiomme lopullisen julkaisuversion parhaaseen mahdolliseen kuntoon.">
+<!ENTITY channel.aurora.description        "Käytä viimeisimpiä innovaatioitamme epävakaassa julkaisussa, joka ei ole herkimmille. Palautteesi ominaisuuksista ja suorituskyvystä auttaa meitä valitsemaan lopulliseen julkaisuun sisältyvät ominaisuudet.">
+
+<!-- LOCALIZATION NOTE (channel.selector.start,channel.selector.end): channel.selector.start and
+     channel.selector.end create one sentence, with a channel selection menulist instered in between.
+     This is all in one line, so try to make the localized text short.
+     example: Switch to the [Stable] update channel. -->
+<!ENTITY channel.selector.start          "Vaihda päivitysten tyypiksi ">
+<!ENTITY channel.selector.end            ".">
+
+<!-- LOCALIZATION NOTE (channel.selector.applyButton): This button applies the user's choice to switch
+     to a new update channel and starts the application update process. -->
+<!ENTITY channel.selector.applyButton    "Toteuta ja päivitä">
+<!ENTITY channel.selector.cancelButton   "Peruuta">

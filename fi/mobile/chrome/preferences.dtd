@@ -8,7 +8,8 @@
 <!ENTITY enablePlugins.title                       "Salli liitännäiset">
 <!ENTITY privacy.title                             "Tietosuoja ja turvallisuus">
 <!ENTITY allowCookies.title                        "Salli evästeet">
-<!ENTITY clearPrivateData2.title                    "Poista sivuhistoriatiedot">
+<!ENTITY doNotTrack.title                          "Ilmoita sivustoille, etten halua niiden seuraavan minua">
+<!ENTITY clearPrivateData2.title                   "Poista sivuhistoriatiedot">
 <!ENTITY clearPrivateData.button                   "Poista tiedot">
 <!ENTITY rememberPasswords.title                   "Tallenna salasanat">
 <!ENTITY language.title                            "Kieli">

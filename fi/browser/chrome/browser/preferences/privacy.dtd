@@ -1,3 +1,8 @@
+<!ENTITY tracking.label                 "Seurantatiedot">
+
+<!ENTITY doNotTrack.label               "Ilmoita sivustoille, etten halua niiden seuraavan minua">
+<!ENTITY doNotTrack.accesskey           "I">
+
 <!ENTITY  history.label                 "Historiatiedot">
 
 <!ENTITY  locationBar.label             "Osoitepalkki">
@@ -29,7 +34,6 @@
 
 <!ENTITY  showCookies.label             "Näytä evästeet…">
 <!ENTITY  showCookies.accesskey         "N">
-
 
 <!ENTITY  historyHeader.pre.label          "&brandShortName; säilyttää:">
 <!ENTITY  historyHeader.pre.accesskey      "F">
