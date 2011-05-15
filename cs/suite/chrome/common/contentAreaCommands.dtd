@@ -76,10 +76,6 @@
 <!ENTITY saveVideoCmd.accesskey "l">
 <!ENTITY saveAudioCmd.label "Uložit audio jako……">
 <!ENTITY saveAudioCmd.accesskey "l">
-<!ENTITY copyCmd.label "Kopírovat">
-<!ENTITY copyCmd.accesskey "K">
-<!ENTITY selectAllCmd.label "Vybrat vše">
-<!ENTITY selectAllCmd.accesskey "A">
 <!ENTITY copyLinkCmd.label "Kopírovat adresu odkazu">
 <!ENTITY copyLinkCmd.accesskey "K">
 <!ENTITY copyImageCmd.label "Kopírovat obrázek">
@@ -92,16 +88,6 @@
 <!ENTITY metadataCmd.accesskey "V">
 <!ENTITY copyEmailCmd.label "Kopírovat e-mailovou adresu">
 <!ENTITY copyEmailCmd.accesskey "E">
-<!ENTITY pasteCmd.label "Vložit">
-<!ENTITY pasteCmd.accesskey "L">
-<!ENTITY cutCmd.label "Vyjmout">
-<!ENTITY cutCmd.accesskey "y">
-<!ENTITY deleteCmd.label "Smazat">
-<!ENTITY deleteCmd.accesskey "S">
-<!ENTITY undoCmd.label "Zpět">
-<!ENTITY undoCmd.accesskey "Z">
-<!ENTITY redoCmd.label "Znovu">
-<!ENTITY redoCmd.accesskey "O">
 <!ENTITY thisFrameMenu.label "Tento rám">
 <!ENTITY thisFrameMenu.accesskey "t">
 <!ENTITY mediaPlay.label "Přehrát">
