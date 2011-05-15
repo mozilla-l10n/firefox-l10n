@@ -27,7 +27,6 @@
 <!ENTITY printSetupCmd.label "Vzhled stránky…">
 <!ENTITY printSetupCmd.accesskey "v">
 
-<!ENTITY redoCmd.label "Znovu">
 <!ENTITY redoCmd.key "Z">
 
 <!ENTITY historyCmd.key "H">
