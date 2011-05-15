@@ -48,7 +48,7 @@
      the UI, without this page being forgotten every time those strings are
      updated.  -->
 <!-- intro paragraph for branded builds -->
-<!ENTITY rights2.webservices-a "&brandFullName; používá webové informační služby („Služby“) z důvodu zajištění některých funkcí dostupných v rámci této binární verze aplikace &brandShortName; za podmínek popsáných níže. Pokud si nepřejete jednu nebo více Služeb používat nebo jsou pro vás níže uvedené podmínky neakceptovatelné, lze tyto služby vypnout. Postup, jak lze vypnout určitou funkcionalitu nebo Službu lze najít ">
+<!ENTITY rights2.webservices-a "&brandFullName; používá webové informační služby („Služby“) z důvodu zajištění některých funkcí dostupných v rámci této binární verze aplikace &brandShortName; za podmínek popsaných níže. Pokud si nepřejete jednu nebo více Služeb používat nebo jsou pro vás níže uvedené podmínky neakceptovatelné, lze tyto služby vypnout. Postup, jak lze vypnout určitou funkcionalitu nebo Službu lze najít ">
 <!ENTITY rights2.webservices-b "v samostatné sekci">
 <!ENTITY rights2.webservices-c ".">
 
