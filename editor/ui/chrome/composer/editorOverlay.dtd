@@ -3,9 +3,6 @@
 <!-- File menu items -->
 <!ENTITY fileMenu.label "Kartelë">
 <!ENTITY fileMenu.accesskey "K">
-<!ENTITY newBlankPageCmd.label "Faqe Hartuesi">
-<!ENTITY newBlankPageCmd.accesskey "F" >
-<!ENTITY newMenu.label "E re">
 <!ENTITY openFileCmd.label "Hapni Kartelë…">
 <!ENTITY openFileCmd.accesskey "H">
 <!ENTITY openFileCmd.key "O">
@@ -27,14 +24,8 @@
 <!ENTITY publishCmd.key "S">
 <!ENTITY publishAsCmd.label "Botojeni Si…">
 <!ENTITY publishAsCmd.accesskey "S">
-<!ENTITY exportToTextCmd.label "Eksportojeni si Tekst…">
-<!ENTITY exportToTextCmd.accesskey "T">
 <!ENTITY saveAsChangeEncodingCmd.label "Ruaje dhe Ndërroji Kodimin e Shkronjave">
 <!ENTITY saveAsChangeEncodingCmd.accesskey "R">
-<!ENTITY previewCmd.label "Shfletoni Faqen">
-<!ENTITY previewCmd.accesskey "q">
-<!ENTITY sendPageCmd.label "Dërgoni Faqe…">
-<!ENTITY sendPageCmd.accesskey "D">
 <!ENTITY printSetupCmd.label "Rregullim Faqeje…">
 <!ENTITY printSetupCmd.accesskey "u">
 <!ENTITY printCmd.label "Shtypni…">
@@ -74,8 +65,6 @@
 <!ENTITY checkSpellingCmd2.label "Kontroll Drejtshkimi">
 <!ENTITY checkSpellingCmd2.accesskey "K">
 <!ENTITY checkSpellingCmd2.key "p">
-<!ENTITY validateCmd.label "Vleftëso HTML-në">
-<!ENTITY validateCmd.accesskey "V">
 
 <!-- Insert menu items -->
 <!ENTITY insertMenu.label "Futje">
@@ -291,12 +280,6 @@
 <!ENTITY decreaseIndent.label "Zvogëlo Hapësirë Kryeradhe">
 <!ENTITY decreaseIndent.accesskey "Z">
 <!ENTITY decreaseIndent.key "[">
-
-<!ENTITY grid.label "Rrjetë vendosjeje">
-<!ENTITY grid.accesskey "R">
-
-<!ENTITY pageProperties.label "Titull dhe Veti Faqeje…">
-<!ENTITY pageProperties.accesskey "T">
 <!ENTITY colorsAndBackground.label "Sfond dhe Ngjyra Faqeje…">
 <!ENTITY colorsAndBackground.accesskey "s">
 
@@ -367,13 +350,12 @@
 <!-- Toolbar-only items -->
 <!ENTITY menuBar.tooltip "Shtyllë Menuje">
 <!ENTITY formatToolbar.tooltip "Panel Formatimesh">
+<!ENTITY newToolbarCmd.label "E re">
 <!ENTITY newToolbarCmd.tooltip "Krijo një faqe të re Hartuesi">
 <!ENTITY openToolbarCmd.label "Hap">
 <!ENTITY openToolbarCmd.tooltip "Hap një kartelë vendore">
 <!ENTITY saveToolbarCmd.tooltip "Ruaje kartelën te një vendndodhje vendore">
 <!ENTITY publishToolbarCmd.tooltip "Ngarko kartelë te një vendndodhje e largët">
-<!ENTITY previewToolbarCmd.label "Shfletoni">
-<!ENTITY previewToolbarCmd.tooltip "Ngarkoje këtë faqe në shfletues">
 <!ENTITY printToolbarCmd.label "Shtype">
 <!ENTITY printToolbarCmd.tooltip "Shtype këtë faqe">
 <!ENTITY findToolbarCmd.label "Gjej">
