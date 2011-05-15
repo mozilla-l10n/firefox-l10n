@@ -29,7 +29,6 @@
 <!ENTITY saveAsFileCmd.key "s">
 <!ENTITY saveAsTemplateCmd.label "Узор">
 <!ENTITY saveAsTemplateCmd.accesskey "У">
-<!ENTITY getNewMsgCmd.key "d">
 <!ENTITY getNewMsgForCmd.label "Атрымаць новыя лісты для">
 <!ENTITY getNewMsgForCmd.accesskey "я">
 <!ENTITY getAllNewMsgCmdPopupMenu.label "Усе рахункі">
@@ -473,7 +472,6 @@
 <!ENTITY getMsgButton.tooltip "Атрымаць новыя лісты">
 <!ENTITY getAllNewMsgCmd.label "Атрымаць усе новыя лісты">
 <!ENTITY getAllNewMsgCmd.accesskey "А">
-<!ENTITY getAllNewMsgCmd.key "d">
 <!ENTITY newMsgButton.tooltip "Стварыць новы ліст">
 <!ENTITY replyButton.tooltip "Адказаць на ліст">
 <!ENTITY replyAllButton.tooltip "Адказаць адпраўніку і ўсім атрымальнікам">
