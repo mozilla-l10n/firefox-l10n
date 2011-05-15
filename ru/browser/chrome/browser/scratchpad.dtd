@@ -1,4 +1,4 @@
-<!ENTITY window.title "Scratchpad">
+<!ENTITY window.title "Простой редактор JavaScript">
 <!ENTITY fileMenu.label "Файл">
 <!ENTITY fileMenu.accesskey "Ф">
 <!ENTITY newWindowCmd.label "Новое окно">
