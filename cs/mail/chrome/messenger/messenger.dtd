@@ -153,7 +153,7 @@
 
 <!-- Sort Menu -->
 <!ENTITY sortMenu.label "Seřadit podle sloupce">
-<!ENTITY sortMenu.accesskey "S">
+<!ENTITY sortMenu.accesskey "p">
 <!ENTITY sortByDateCmd.label "Datum">
 <!ENTITY sortByDateCmd.accesskey "u">
 <!ENTITY sortByReceivedCmd.label "Doručeno">
@@ -195,7 +195,7 @@
 <!ENTITY msgsMenu.label "Zprávy">
 <!ENTITY msgsMenu.accesskey "Z">
 <!ENTITY threads.label "Vlákna">
-<!ENTITY threads.accesskey "V">
+<!ENTITY threads.accesskey "l">
 <!ENTITY allMsgsCmd.label "Vše">
 <!ENTITY allMsgsCmd.accesskey "V">
 <!ENTITY expandAllThreadsCmd.label "Rozvinout všechna vlákna">
@@ -238,7 +238,7 @@
 <!ENTITY viewFeedSummaryFeedPropsPref.accesskey "f">
 
 <!ENTITY viewAttachmentsInlineCmd.label "Zobrazit přílohy ve zprávě">
-<!ENTITY viewAttachmentsInlineCmd.accesskey "l">
+<!ENTITY viewAttachmentsInlineCmd.accesskey "Z">
 
 <!-- LOCALIZATION NOTE :
 fullZoomEnlargeCmd.commandkey3, fullZoomReduceCmd.commandkey2 and
@@ -327,7 +327,7 @@ you can use these alternative items. Otherwise, their values should be empty.  -
 <!ENTITY thisFolder.accesskey "T">
 <!ENTITY goRecentlyClosedTabs.label "Naposledy zavřené panely">
 <!ENTITY startPageCmd.label "Úvodní stránka">
-<!ENTITY startPageCmd.accesskey "s">
+<!ENTITY startPageCmd.accesskey "t">
 
 <!-- Message Menu -->
 <!ENTITY msgMenu.label "Zpráva">
@@ -352,7 +352,7 @@ you can use these alternative items. Otherwise, their values should be empty.  -
 <!ENTITY replyToAllMsgCmd.accesskey "d">
 <!ENTITY replyToAllMsgCmd.key "r">
 <!ENTITY replyToListMsgCmd.label "Odpovědět do konference">
-<!ENTITY replyToListMsgCmd.accesskey  "k">
+<!ENTITY replyToListMsgCmd.accesskey "f">
 <!ENTITY replyToListMsgCmd.key  "l">
 <!ENTITY forwardMsgCmd.label "Přeposlat">
 <!ENTITY forwardMsgCmd.accesskey "P">
@@ -377,7 +377,7 @@ you can use these alternative items. Otherwise, their values should be empty.  -
 <!ENTITY copyMsgToMenu.label "Kopírovat do">
 <!ENTITY copyMsgToMenu.accesskey "K">
 <!ENTITY moveToFolderAgain.label "Přesunout opět">
-<!ENTITY moveToFolderAgain.accesskey "P">
+<!ENTITY moveToFolderAgain.accesskey "e">
 <!ENTITY moveToFolderAgainCmd.key "m">
 <!ENTITY killThreadMenu.label "Ignorovat vlákno">
 <!ENTITY killThreadMenu.accesskey "I">
@@ -393,7 +393,7 @@ you can use these alternative items. Otherwise, their values should be empty.  -
 <!ENTITY copyHereMenu.label "Kopírovat sem">
 <!ENTITY copyHereMenu.accesskey "p">
 <!ENTITY tagMenu.label "Přiřadit štítek">
-<!ENTITY tagMenu.accesskey "d">
+<!ENTITY tagMenu.accesskey "t">
 <!ENTITY tagCmd0.key "0">
 <!ENTITY tagCmd1.key "1">
 <!ENTITY tagCmd2.key "2">
