@@ -5,10 +5,24 @@
 <!-- File Menu -->
 <!ENTITY newFolderCmd.label "Ordinatur">
 <!ENTITY newFolderCmd.accesskey "d">
-<!ENTITY closeTabCmd.label "Serrar il tab">
-<!ENTITY closeTabCmd.accesskey "e">
-<!ENTITY closeOtherTabsCmd.label "Serrar ils auters tabs">
-<!ENTITY closeOtherTabsCmd.accesskey "l">
+<!ENTITY closeTabCmd2.label "Serrar il tab">
+<!ENTITY closeTabCmd2.accesskey "e">
+<!ENTITY closeOtherTabsCmd2.label "Serrar ils auters tabs">
+<!ENTITY closeOtherTabsCmd2.accesskey "l">
+<!-- LOCALIZATION NOTE (undoCloseTabCmd.label):
+     Menu option to attempt to re-open a recently closed tab.
+     -->
+<!ENTITY recentlyClosedTabsCmd.label "Tabs serrads dacurt">
+<!ENTITY recentlyClosedTabsCmd.accesskey "r">
+
+<!ENTITY undoCloseTabCmd.commandkey "T">
+
+<!-- LOCALIZATION NOTE (moveToNewWindow.label):
+     Menu option to cause the current tab to be migrated to a new Thunderbird
+     window.
+     -->
+<!ENTITY moveToNewWindow.label "Spustar en ina nova fanestra">
+<!ENTITY moveToNewWindow.accesskey "n">
 <!ENTITY newVirtualFolderCmd.label "Tschertga memorisada…">
 <!ENTITY newVirtualFolderCmd.accesskey "S">
 <!ENTITY newOtherAccountsCmd.label "Auters contos…">
@@ -26,7 +40,6 @@
 <!ENTITY saveAsFileCmd.key "s">
 <!ENTITY saveAsTemplateCmd.label "Model">
 <!ENTITY saveAsTemplateCmd.accesskey "M">
-<!ENTITY getNewMsgCmd.key "t">
 <!ENTITY getNewMsgForCmd.label "Retschaiver messadis per">
 <!ENTITY getNewMsgForCmd.accesskey "v">
 <!ENTITY getAllNewMsgCmdPopupMenu.label "Tut ils contos">
@@ -79,8 +92,6 @@
 <!ENTITY deleteMsgsCmd.accesskey "i">
 <!ENTITY undeleteMsgsCmd.label "Restaurar ils messadis marcads">
 <!ENTITY undeleteMsgsCmd.accesskey "c">
-<!ENTITY cancelNewsMsgsCmd.label "Annullar ils messadis marcads">
-<!ENTITY cancelNewsMsgsCmd.accesskey "n">
 <!ENTITY deleteFolderCmd.label "Stizzar l'ordinatur">
 <!ENTITY deleteFolderCmd.accesskey "z">
 <!ENTITY unsubscribeNewsgroupCmd.label "Annullar l'abunament">
@@ -313,6 +324,11 @@ you can use these alternative items. Otherwise, their values should be empty.  -
 <!ENTITY goBackCmd.commandKey "[">
 <!ENTITY prevStarredMsgCmd.label "Messadi cun staila">
 <!ENTITY prevStarredMsgCmd.accesskey "S">
+<!ENTITY folderMenu.label "Ordinatur">
+<!ENTITY folderMenu.accesskey "o">
+<!ENTITY thisFolder.label "Quest ordinatur">
+<!ENTITY thisFolder.accesskey "Q">
+<!ENTITY goRecentlyClosedTabs.label "Tabs serrads dacurt">
 <!ENTITY startPageCmd.label "Pagina da partenza">
 <!ENTITY startPageCmd.accesskey "P">
 
@@ -391,9 +407,11 @@ you can use these alternative items. Otherwise, their values should be empty.  -
 <!ENTITY tagCmd9.key "9">
 <!ENTITY markMenu.label "Marcar">
 <!ENTITY markMenu.accesskey "m">
+<!ENTITY toggleReadCmd.key "m">
 <!ENTITY markAsReadCmd.label "Sco legì">
 <!ENTITY markAsReadCmd.accesskey "s">
-<!ENTITY markAsReadCmd.key "m">
+<!ENTITY markAsUnreadCmd.label "Sco nunlegì">
+<!ENTITY markAsUnreadCmd.accesskey "n">
 <!ENTITY markThreadAsReadCmd.label "Tema sco legì">
 <!ENTITY markThreadAsReadCmd.accesskey "T">
 <!ENTITY markThreadAsReadCmd.key "r">
@@ -503,7 +521,6 @@ you can use these alternative items. Otherwise, their values should be empty.  -
 <!ENTITY getMsgButton.tooltip "Retschaiver novs messadis">
 <!ENTITY getAllNewMsgCmd.label "Retschaiver tut ils messadis novs">
 <!ENTITY getAllNewMsgCmd.accesskey "G">
-<!ENTITY getAllNewMsgCmd.key "t">
 <!ENTITY newMsgButton.tooltip "Scriver in nov messadi">
 <!ENTITY replyButton.tooltip "Respunder quest messadi">
 <!ENTITY replyAllButton.tooltip "Respunder al speditur ed a tut ils destinaturs">
@@ -577,7 +594,7 @@ you can use these alternative items. Otherwise, their values should be empty.  -
 <!ENTITY SearchNameOrEmail.accesskey "N">
 
 <!-- Gloda Search Bar -->
-<!ENTITY glodaSearchBar.emptyText "Tschertgar messadis…">
+<!ENTITY glodaSearchBar.placeholder "Tschertgar messadis…">
 
 <!-- Quick Search Menu Bar -->
 <!ENTITY searchSubjectMenu.label "Object">
@@ -736,12 +753,14 @@ you can use these alternative items. Otherwise, their values should be empty.  -
 <!-- Phishing Bar -->
 <!ENTITY phishingBarMessage2.label "Quest messadi pudess esser ina emprova d'engion (phishing).">
 <!ENTITY removePhishingBarButton1.label "Ignorar l'avertiment">
+<!ENTITY disablePhishingWarning1.label "Deactivar la determinaziun da scam per tut ils messadis">
 <!ENTITY reportPhishingError1.label "Quest messadi na para betg dad esser ina emprova d'engion.">
 
 <!-- MDN Bar -->
-<!ENTITY mdnBarMessage.label "Il speditur da quest messadi ha dumandà da vegnir infurmà cura che ti legias quest messadi. Duai el vegnir a savair che ti legias ussa il messadi?">
-<!ENTITY mdnBarIgnoreButton.label "Ignorar la dumonda">
-<!ENTITY mdnBarSendButton.label "Trametter la conferma">
+<!ENTITY mdnBarIgnoreButton2.label "Ignorar">
+<!ENTITY mdnBarIgnoreButton2.accesskey "I">
+<!ENTITY mdnBarSendButton2.label "Trametter la conferma">
+<!ENTITY mdnBarSendButton2.accesskey "T">
 
 <!-- Quick Search Bar -->
 <!-- LOCALIZATION NOTE (quickSearchCmd.key):
@@ -796,19 +815,16 @@ you can use these alternative items. Otherwise, their values should be empty.  -
 <!ENTITY reportPhishingURL.label "Rapportar ina emprova d'engion…">
 <!ENTITY reportPhishingURL.accesskey "o">
 
+<!-- Spell checker context menu items -->
+<!ENTITY spellAddDictionaries.label "Agiuntar dicziunaris…">
+<!ENTITY spellAddDictionaries.accesskey "A">
+
+
 <!-- Content Pane Context Menu -->
 <!ENTITY saveLinkAsCmd.label "Memorisar la destinaziun sut…">
 <!ENTITY saveLinkAsCmd.accesskey "k">
 <!ENTITY saveImageAsCmd.label "Memorisar la grafica sut…">
 <!ENTITY saveImageAsCmd.accesskey "v">
-<!ENTITY cutCmd.label "Tagliar ora">
-<!ENTITY cutCmd.accesskey "u">
-<!ENTITY copyCmd.label "Copiar">
-<!ENTITY copyCmd.accesskey "C">
-<!ENTITY pasteCmd.label "Encollar">
-<!ENTITY pasteCmd.accesskey "E">
-<!ENTITY selectAllCmd.label "Marcar tut">
-<!ENTITY selectAllCmd.accesskey "M">
 <!ENTITY copyLinkCmd.label "Copiar l'adressa da la colliaziun">
 <!ENTITY copyLinkCmd.accesskey "C">
 <!ENTITY copyImageAllCmd.label "Copiar la grafica">
