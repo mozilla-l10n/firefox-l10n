@@ -10,3 +10,4 @@
 <!ENTITY editContactPanelCancel.accesskey "C">
 <!ENTITY editContactPanelDone.label "Hecho">
 <!ENTITY editContactPanelDone.accesskey "H">
+<!ENTITY contactMoveDisabledWarning.description "No puede cambiar la libreta de direcciones porque el contacto está en una lista de correo.">

@@ -23,6 +23,6 @@
 <!ENTITY belowText.label "bajo el texto citado (recomendado)">
 <!ENTITY aboveText.label "Bajo mi respuesta (sobre el texto citado)">
 <!ENTITY includeSigOnReply.label "Incluir firma en las respuestas">
-<!ENTITY includeSigOnReply.accesskey "a">
+<!ENTITY includeSigOnReply.accesskey "I">
 <!ENTITY includeSigOnForward.label "Incluir firma en los re-envíos">
 <!ENTITY includeSigOnForward.accesskey "I">
