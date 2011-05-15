@@ -70,10 +70,10 @@
 <!ENTITY engine.passwords.accesskey "C">
 <!ENTITY engine.prefs.label "Preferencias">
 <!ENTITY engine.prefs.accesskey "S">
-<!ENTITY choice2.merge.main.label "Unir los datos de este equipo con los de datos de &syncBrand.shortName.label;">
-<!ENTITY choice2.merge.recommended.label "Recomendado:">
-<!ENTITY choice2.client.main.label "Reemplazar todos los datos en este equipo con los datos de &syncBrand.shortName.label;">
-<!ENTITY choice2.server.main.label "Reemplazar todos los datos de los demás dispositivos con los de este equipo">
+<!ENTITY choice2.merge.main.label "Unir los datos de este equipo con mis datos de &syncBrand.shortName.label;">
+<!ENTITY choice2.merge.recommended.label "(recomendado)">
+<!ENTITY choice2.client.main.label "Reemplazar todos los datos de este equipo con mis datos de &syncBrand.shortName.label;">
+<!ENTITY choice2.server.main.label "Reemplazar los demás dispositivos con los datos de este equipo">
 <!ENTITY setup.optionsConfirmPage.title "Confirmar">
 <!ENTITY confirm.merge.label "&syncBrand.fullName.label; ahora unirá los datos del navegador de este equipo con los datos de su cuenta de Sync.">
 <!ENTITY confirm.client2.label "Advertencia: se borrarán los siguientes datos de &brandShortName; en este equipo:">
