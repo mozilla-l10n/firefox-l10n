@@ -1,0 +1,19 @@
+<!-- extracted from am-archiveoptions.xul -->
+
+<!ENTITY dialogTitle.label "Mundësi Arkivimi">
+<!ENTITY archiveGranularityPrefix.label "Kur arkivohen mesazhet, vendosi në:">
+<!ENTITY archiveFlat.label "Një dosje të vetme">
+<!ENTITY archiveFlat.accesskey "N">
+<!ENTITY archiveYearly.label "Dosje vjetore arkivimi">
+<!ENTITY archiveYearly.accesskey "v">
+<!ENTITY archiveMonthly.label "Dosje mujore arkivimi">
+<!ENTITY archiveMonthly.accesskey "m">
+<!ENTITY keepFolderStructure.label "Ruaje strukturën e dosjeve për mesazhet e arkivuara">
+<!ENTITY keepFolderStructure.accesskey "R">
+<!ENTITY archiveExample.label "Shembull">
+<!-- LOCALIZATION NOTE (archiveFolderName.label): this should match the default
+     name for the "Archives" folder -->
+<!ENTITY archiveFolderName.label "Arkiva">
+<!-- LOCALIZATION NOTE (inboxFolderName.label): this should match the default
+     name for the "Inbox" folder -->
+<!ENTITY inboxFolderName.label "Të marrë">
