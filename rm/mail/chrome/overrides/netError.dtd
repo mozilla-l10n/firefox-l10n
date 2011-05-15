@@ -89,17 +89,23 @@
 <!ENTITY phishingBlocked.longDesc "<p>Sche ti endateschas qua datas persunalas, stos ti far quint cun ladernitsch d'identitad u autras furmas d'engion.</p> 
 <p>Questas furmas da falsificaziun en il web vegnan utilisadas per emprovas d'engion ch'ins numna &quot;attatgas da phishing&quot;. Criminals cun l'intenziun d'engianar emprovan uschia d'imitar paginas d'internet u e-mails che inspiran confidenza.</p>">
 
+<!ENTITY cspFrameAncestorBlocked.title "Bloccà da las directivas per la segirtad dal cuntegn">
+<!ENTITY cspFrameAncestorBlocked.longDesc "<p>&brandShortName; ha impedì questa pagina da chargiar a tala maniera perquai che la pagina cuntegna directivas per la segirtad dal cuntegn (content security policy) che impedeschan quai.</p>">
+
 <!ENTITY securityOverride.linkText "Ti pos era agiuntar ina regla d'excepziun...">
 <!ENTITY securityOverride.getMeOutOfHereButton "Bandunar questa pagina">
 <!ENTITY securityOverride.exceptionButtonLabel "Agiuntar in'excepziun...">
 
-<!-- LOCALIZATION NOTE (securityOverride.warningText) - Do not translate the
-contents of the <xul:button> tags.  The only language content is the label= field,
-which uses strings already defined above. The button is included here (instead of
-netError.xhtml) because it exposes functionality specific to thunderbird. -->
+<!-- LOCALIZATION NOTE (securityOverride.warningContent) - Do not translate the
+contents of the <button> tags. It uses strings already defined above. The
+button is included here (instead of netError.xhtml) because it exposes
+functionality specific to thunderbird. -->
 
 <!ENTITY securityOverride.warningText "<p>Ti na duessas betg agiuntar in'excepziun, sche ti na ta fidas betg absolutamain da la segirezza da la connexiun actuala u sche ti n'has fin ussa betg retschavì in avertiment per quest server.</p>
 
-<xul:button xmlns:xul='http://www.mozilla.org/keymaster/gatekeeper/there.is.only.xul' id='getMeOutOfHereButton' label='&securityOverride.getMeOutOfHereButton;'/>
-<xul:button xmlns:xul='http://www.mozilla.org/keymaster/gatekeeper/there.is.only.xul' id='exceptionDialogButton' label='&securityOverride.exceptionButtonLabel;'/>
+<button id='getMeOutOfHereButton'>&securityOverride.getMeOutOfHereButton;</button>
+<button id='exceptionDialogButton'>&securityOverride.exceptionButtonLabel;</button>
 ">
+
+<!ENTITY remoteXUL.title "Remote-XUL">
+<!ENTITY remoteXUL.longDesc "<p><ul><li>Infurmescha per plaschair il possessur da questa website davart quest problem.</li></ul></p>">
