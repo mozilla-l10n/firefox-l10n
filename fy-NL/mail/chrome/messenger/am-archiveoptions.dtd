@@ -1,0 +1,20 @@
+<!-- extracted from am-archiveoptions.xul -->
+
+<!ENTITY dialogTitle.label "Argivearopsjes">
+<!ENTITY archiveGranularityPrefix.label "By it argivearjen fan berjochten, pleats se yn:">
+<!ENTITY archiveFlat.label "Ien inkele map">
+<!ENTITY archiveFlat.accesskey "I">
+<!ENTITY archiveYearly.label "Argyfmap per jier">
+<!ENTITY archiveYearly.accesskey "j">
+<!ENTITY archiveMonthly.label "Argyfmap per moanne">
+<!ENTITY archiveMonthly.accesskey "m">
+<!ENTITY keepFolderStructure.label "Bewarje de besteande mapstruktuer fan de argivearre berjochten">
+<!ENTITY keepFolderStructure.accesskey "b">
+<!ENTITY archiveExample.label "Foarbyld">
+<!-- LOCALIZATION NOTE (archiveFolderName.label): this should match the default
+     name for the "Archives" folder -->
+<!ENTITY archiveFolderName.label "Argiven">
+<!-- LOCALIZATION NOTE (inboxFolderName.label): this should match the default
+     name for the "Inbox" folder -->
+<!ENTITY inboxFolderName.label "Postfek YN">
+
