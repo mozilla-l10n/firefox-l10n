@@ -12,3 +12,7 @@
 
 <!ENTITY searchOnline.label "Tschertgar online (furnescha resultats actuals da contos dad IMAP e da novitads, ma dovra dapli temp per avrir l'ordinatur)">
 <!ENTITY searchOnline.accesskey "S">
+<!ENTITY newFolderButton.label       "Crear">
+<!ENTITY newFolderButton.accesskey   "r">
+<!ENTITY editFolderButton.label      "Actualisar">
+<!ENTITY editFolderButton.accesskey  "U">

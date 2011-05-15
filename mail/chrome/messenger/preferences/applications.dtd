@@ -7,7 +7,7 @@
 <!ENTITY  focusSearch1.key            "s">
 <!ENTITY  focusSearch2.key            "k">
 
-<!ENTITY  filter.emptytext            "Tschertgar">
+<!ENTITY  filter.placeholder          "Tschertgar">
 
 <!ENTITY saveTo.label                 "Memorisar tut las datotecas en il suandant ordinatur:">
 <!ENTITY saveTo.accesskey             "S">

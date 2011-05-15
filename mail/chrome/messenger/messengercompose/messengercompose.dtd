@@ -193,12 +193,16 @@
 <!ENTITY quoteButton.tooltip "Citar il messadi precedent"> 
 <!ENTITY addressButton.tooltip "Tscherner in destinatur ord in cudeschet d'adressas"> 
 <!ENTITY attachButton.tooltip "Includer ina agiunta"> 
+<!ENTITY spellingButton.tooltip "Controllar l'ortografia da la part selecziunada u da l'entir messadi">
 <!ENTITY saveButton.tooltip "Memorisar quest messadi"> 
 <!ENTITY cutButton.tooltip              "Tagliar ora">
 <!ENTITY copyButton.tooltip             "Copiar">
 <!ENTITY pasteButton.tooltip            "Encollar">
 
 <!-- Headers -->
+<!--LOCALIZATION NOTE headersSpace.style is for aligning  the From:, To: and
+    Subject: rows. It should be larger than the largest Header label  -->
+<!ENTITY headersSpace.style "width: 9em;">
 <!ENTITY fromAddr.label "Da:">
 <!ENTITY fromAddr.accesskey "D">
 <!ENTITY toAddr.label "a:"> 
@@ -262,6 +266,10 @@
 <!ENTITY attachFile.accesskey "d">
 <!ENTITY attachPage.label "Agiuntar ina pagina web…">
 <!ENTITY attachPage.accesskey "W">
+
+<!-- Spell checker context menu items -->
+<!ENTITY spellAddDictionaries.label "Agiuntar dicziunaris…">
+<!ENTITY spellAddDictionaries.accesskey "A">
 
 <!-- Title for the address picker panel -->
 <!ENTITY addressesSidebarTitle.label "Contacts">
