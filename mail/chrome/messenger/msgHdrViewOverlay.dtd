@@ -131,6 +131,8 @@
 <!ENTITY detachAttachmentMenuItem.accesskey    "A">
 <!ENTITY deleteAttachmentMenuItem.label    "Löschen">
 <!ENTITY deleteAttachmentMenuItem.accesskey    "L">
+<!ENTITY openAllAttachmentsMenuItem.label    "Alle öffnen…">
+<!ENTITY openAllAttachmentsMenuItem.accesskey    "ö">
 <!ENTITY saveAllAttachmentsMenuItem.label    "Alle speichern…">
 <!ENTITY saveAllAttachmentsMenuItem.accesskey    "p">
 <!ENTITY detachAllAttachmentsMenuItem.label    "Alle abtrennen…">
