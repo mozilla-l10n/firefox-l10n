@@ -14,7 +14,7 @@
                                            më poshtë për të vazhduar instalimin e këtij përditësimi.">
 <!ENTITY  license.titleText               "Marrëveshje Lejeje &quot;Software&quot;-i">
 <!ENTITY  license.introText               "Terma dhe kushte për përdorimin e këtij &quot;software&quot;-i.">
-<!ENTITY  license.instructionText         "Ju lutem, lexoni marrëveshje vijuese për lejen. Përdorni rrëshqitësat për të parë pjesën e mbetur të kësaj lejeje.">
+<!ENTITY  license.instructionText         "Ju lutem, lexoni marrëveshjen vijuese për lejen. Për të parë pjesën e mbetur të kësaj lejeje, përdorni rrëshqitësat.">
 <!ENTITY  license.accept                  "I pranoj kushtet e Marrëveshjes së Lejes">
 <!ENTITY  license.accept.accesskey        "i">
 <!ENTITY  license.decline                 "NUK i pranoj kushtet e Marrëveshjes së Lejes">

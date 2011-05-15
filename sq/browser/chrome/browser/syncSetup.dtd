@@ -2,7 +2,7 @@
 
 <!-- First page of the wizard -->
 
-<!ENTITY setup.pickSetupType.description "Mirë se vini, nëse nuk e keni përdorur kurrë më parë &syncBrand.fullName.label;-un, lypset të krijoni një llogari të re.">
+<!ENTITY setup.pickSetupType.description "Mirë se vini! Nëse nuk e keni përdorur kurrë më parë &syncBrand.fullName.label;-un, lypset të krijoni një llogari të re.">
 <!ENTITY button.createNewAccount.label "Krijoni një Llogari të Re">
 <!ENTITY setup.haveAccount.label "Kam tashmë një Llogari &syncBrand.fullName.label;-u.">
 <!ENTITY button.connect.label    "Lidhuni">

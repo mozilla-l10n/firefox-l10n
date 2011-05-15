@@ -6,7 +6,7 @@ për shtesat tuaja për t&quot;i bërë ato të përputhshme me këtë version."
 <!ENTITY  offline.toggleOffline.accesskey "K">
 
 <!ENTITY  mismatch.win.title              "Shtesa të Papërputhshme">
-<!ENTITY  mismatch.top.label              "Shtesat vijuese nuk janë të përputhshme me këtë version të &brandShortName;-it ndaj u çaktivizuan:">
+<!ENTITY  mismatch.top.label              "Shtesat vijuese nuk janë të përputhshme me këtë version të &brandShortName;-it, ndaj u çaktivizuan:">
 <!ENTITY  mismatch.bottom.label           "&brandShortName;-i mund të kontrollojë në ka të passhëm versione të përputhshëm të këtyre shtesave.">
 
 <!ENTITY  checking.wizard.title           "Po kontrollohet për Shtesa të Përputhshme">
