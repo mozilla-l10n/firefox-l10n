@@ -42,9 +42,6 @@
    - ***** END LICENSE BLOCK ***** -->
 <!ENTITY fileMenu.label "Файл">
 <!ENTITY fileMenu.accesskey "Ф">
-<!ENTITY newBlankPageCmd.label "Старонка Ўкладальніка">
-<!ENTITY newBlankPageCmd.accesskey "С">
-<!ENTITY newMenu.label "Новая">
 <!ENTITY openFileCmd.label "Адчыніць файл…">
 <!ENTITY openFileCmd.accesskey "А">
 <!ENTITY openFileCmd.key "O">
@@ -345,6 +342,7 @@
 <!ENTITY tableProperties.accesskey "ц">
 <!ENTITY menuBar.tooltip "Паліца меню">
 <!ENTITY formatToolbar.tooltip "Паліца прыладаў фарматавання">
+<!ENTITY newToolbarCmd.label "Стварыць">
 <!ENTITY newToolbarCmd.tooltip "Стварыць новую старонку Ўкладальніка">
 <!ENTITY openToolbarCmd.label "Адчыніць">
 <!ENTITY openToolbarCmd.tooltip "Адчыніць мясцовы файл">

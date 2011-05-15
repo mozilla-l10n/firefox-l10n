@@ -10,3 +10,4 @@
 <!ENTITY editContactPanelCancel.accesskey "С">
 <!ENTITY editContactPanelDone.label "Гатова">
 <!ENTITY editContactPanelDone.accesskey "Г">
+<!ENTITY contactMoveDisabledWarning.description "Вы не можаце змяніць адрасную кнігу, бо сувязь у паштовым спісе.">

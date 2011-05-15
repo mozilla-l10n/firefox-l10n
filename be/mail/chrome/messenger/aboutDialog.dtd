@@ -1,15 +1,35 @@
 <!ENTITY aboutDialog.title "Пра &brandFullName;">
-<!ENTITY aboutButton.label "&lt; Назад">
-<!ENTITY aboutButton.accesskey "Н">
-<!ENTITY aboutVersion "версія">
-<!ENTITY aboutMenu.label "Пра">
-<!ENTITY aboutMenu.accesskey "П">
-<!ENTITY aboutCredits.label "Удзельнікі">
-<!ENTITY aboutCredits.accesskey "У">
-<!ENTITY aboutRights.label "Вашы правы">
-<!ENTITY aboutRights.accesskey "В">
-<!ENTITY aboutContributors.label "Укладчыкі">
-<!ENTITY aboutContributors.accesskey "к">
-<!ENTITY aboutLicense.label "Ліцэнзія">
-<!ENTITY aboutLicense.accesskey "Л">
+<!ENTITY community.start2 "&brandShortName; распрацаваны ">
+<!ENTITY community.mozillaLink "&vendorShortName;">
+<!ENTITY community.middle2 ", ">
+<!ENTITY community.creditsLink "сусветным згуртаваннем">
+<!ENTITY community.end2 ", якое працуе разам, каб зрабіць Інтэрнэт лепшым. Мы верым, што Інтэрнэт павінны быць адкрытым, прылюдным і даступным кожнаму без любых абмежаванняў.">
+<!ENTITY contribute.start "Цікава?">
+<!ENTITY contribute.getInvolvedLink "Уцягвайцеся!">
+<!ENTITY contribute.end "">
+<!ENTITY bottomLinks.license "Звесткі пра ліцэнзію">
+<!ENTITY bottomLinks.rights "Правы канчатковага карыстальніка">
+<!ENTITY bottomLinks.privacy "Палітыка адасаблення">
+<!ENTITY update.checkingForUpdates "Праверка існавання абнаўленняў…">
+<!ENTITY update.checkingAddonCompat "Праверка сумяшчальнасці дадаткаў…">
+<!ENTITY update.noUpdatesFound "&brandShortName; абноўлены">
+<!ENTITY update.adminDisabled "Абнаўленні забаронены вашым сістэмным спраўнікам">
+<!ENTITY update.failed.start "Няўдача абнаўлення.">
+<!ENTITY update.failed.linkText "Сцягванне апошняй версіі">
+<!ENTITY update.failed.end "">
+<!ENTITY update.manual.start "Сцязгнуць ">
+<!ENTITY update.manual.linkText "апошнюю версію">
+<!ENTITY update.manual.end "">
+<!ENTITY update.downloading.start "Сцягванне абнаўлення — ">
+<!ENTITY update.downloading.end "">
+<!ENTITY channel.description.start "Зараз вы на ">
+<!ENTITY channel.description.end " канал абнаўленняў.">
+<!ENTITY channel.change "Змяніць">
+<!ENTITY channel.release.description "Атрымайце асалоду ад выпрабаванага фінальнага выдання, якое ўжываецца сотнямі мільёнаў у свеце. Захавайце кіраванне над сваім сеткавым вандраваннем. Звышхуткасць, лёгкая ўладкавальнасць і апошнія тэхналогіі Сеціва дазволяць вам захаваць кіраванне сваім сеткавым вандраваннем.">
+<!ENTITY channel.beta.description "Зазнайце навейшыя асаблівасці і большую ўстойлівасць. Дасылайце водгукі, каб дапамагчы ўдасканаліць і вытанчыць наступнае фінальнае выданне.">
+<!ENTITY channel.aurora.description "Зазнайце навейшыя вынаходніцтвы ў няўстойлівым, жахлівым для слабых сэрцаў, асяроддзі. Дасылайце водгукі пра асаблівасці і працавыніковасць, каб дапамагчы вызначыць, што павінна быць у фінальнае выданне.">
+<!ENTITY channel.selector.start "Пераключыцца на">
+<!ENTITY channel.selector.end "канал абнаўленняў.">
+<!ENTITY channel.selector.applyButton "Ужыць і абнавіць">
+<!ENTITY channel.selector.cancelButton "Скасаваць">
 <!ENTITY cmdCloseMac.commandKey "w">
