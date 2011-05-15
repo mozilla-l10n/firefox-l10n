@@ -2,7 +2,7 @@
 <!ENTITY name.label "Název:">
 <!ENTITY name.accesskey "N">
 <!ENTITY description.label "Vytvořit tuto novou podsložku ve složce:">
-<!ENTITY description.accesskey "V">
+<!ENTITY description.accesskey "p">
 
 <!ENTITY searchTermCaption.label "Upravit vyhledávací kritéria používaná pro tuto virtuální složku:">
 
@@ -11,7 +11,7 @@
 <!ENTITY chooseFoldersButton.accesskey "b">
 
 <!ENTITY searchOnline.label "Hledat online (Vrací vždy aktuální výsledky u složek typu IMAP nebo Diskusní skupiny, ale zvyšuje čas potřebný k otevření složky)">
-<!ENTITY searchOnline.accesskey "o">
+<!ENTITY searchOnline.accesskey "H">
 <!ENTITY newFolderButton.label "Vytvořit">
 <!ENTITY newFolderButton.accesskey "t">
 <!ENTITY editFolderButton.label "Aktualizovat">
