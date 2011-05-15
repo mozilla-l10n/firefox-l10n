@@ -95,6 +95,7 @@
 <!ENTITY contextSaveImage.label       "Kép mentése">
 <!ENTITY contextShareLink.label       "Hivatkozás megosztása">
 <!ENTITY contextShareImage.label      "Kép megosztása">
+<!ENTITY contextBookmarkLink.label    "Hivatkozás könyvjelzőzése">
 <!ENTITY contextSaveVideo.label       "Videó mentése">
 <!ENTITY contextShareVideo.label      "Videó megosztása">
 <!ENTITY contextPlayMedia.label       "Lejátszás">
@@ -109,7 +110,6 @@
 <!ENTITY pageactions.reset           "Webhelybeállítások törlése">
 <!ENTITY pageactions.findInPage      "Keresés az oldalon">
 <!ENTITY pageactions.search.addNew   "Keresőszolgáltatás hozzáadása">
+<!ENTITY pageactions.charEncoding    "Karakterkódolás">
 
-<!ENTITY selectHelper.emptytext      "Szűrőlista">
-
-<!ENTITY appMenu.siteOptions         "Webhely beállítási">
+<!ENTITY appMenu.siteOptions         "Webhely beállításai">
