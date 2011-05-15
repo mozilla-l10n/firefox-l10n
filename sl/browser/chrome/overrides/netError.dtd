@@ -183,3 +183,6 @@ functionality specific to firefox. -->
 <button id='getMeOutOfHereButton'>&securityOverride.getMeOutOfHereButton;</button>
 <button id='exceptionDialogButton'>&securityOverride.exceptionButtonLabel;</button>
 ">
+
+<!ENTITY remoteXUL.title "Oddaljeni XUL">
+<!ENTITY remoteXUL.longDesc "<p><ul><li>O napaki obvestite lastnike spletne strani.</li></ul></p>">
