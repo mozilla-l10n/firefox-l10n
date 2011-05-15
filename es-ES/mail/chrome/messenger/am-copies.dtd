@@ -16,19 +16,23 @@
 <!ENTITY sentFolderOn.accesskey "E">
 <!ENTITY sentInOtherFolder.label "Otro:">
 <!ENTITY sentInOtherFolder.accesskey "O">
-<!ENTITY draftsFolderOn.label "Carpeta &quot;Borradores&quot; en:">
-<!ENTITY draftsFolderOn.accesskey "D">
-<!ENTITY draftInOtherFolder.label "Otro:">
-<!ENTITY draftInOtherFolder.accesskey "t">
+<!ENTITY archivesTitle.label "Archivos de mensajes">
+<!ENTITY keepArchives.label "Guardar archivos de mensajes en:">
+<!ENTITY keepArchives.accesskey "G">
+<!ENTITY archiveHierarchyButton.label "Opciones de archivado…">
+<!ENTITY archiveHierarchyButton.accesskey "h">
 <!ENTITY archivesFolderOn.label "Carpeta &quot;Archivos&quot; en:">
 <!ENTITY archivesFolderOn.accesskey "A">
 <!ENTITY archiveInOtherFolder.label "Otro:">
 <!ENTITY archiveInOtherFolder.accesskey "O">
+<!ENTITY specialFolders.label "Borradores y plantillas">
+<!ENTITY keepDrafts.label "Guardar los borradores de mensajes en:">
+<!ENTITY draftsFolderOn.label "Carpeta &quot;Borradores&quot; en:">
+<!ENTITY draftsFolderOn.accesskey "D">
+<!ENTITY draftInOtherFolder.label "Otro:">
+<!ENTITY draftInOtherFolder.accesskey "t">
+<!ENTITY keepTemplates.label "Guardar las plantillas de mensajes en:">
 <!ENTITY templatesFolderOn.label "Carpeta &quot;Plantillas&quot; en:">
 <!ENTITY templatesFolderOn.accesskey "n">
 <!ENTITY templateInOtherFolder.label "Otro:">
 <!ENTITY templateInOtherFolder.accesskey "r">
-<!ENTITY specialFoldersTitle.label "Borradores, archivos y plantillas">
-<!ENTITY keepDrafts.label "Guardar los borradores de mensajes en:">
-<!ENTITY keepArchives.label "Guardar archivos de mensajes en:">
-<!ENTITY keepTempltes.label "Guardar las plantillas de mensajes en:">
