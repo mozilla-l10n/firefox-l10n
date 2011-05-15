@@ -99,18 +99,45 @@
 <!ENTITY otherActionsPrint.label "stampar…">
 <!ENTITY otherActionsPrint.accesskey "p">
 
+<!-- Attachment context menu items -->
 <!ENTITY openAttachmentCmd.label    "Avrir">
 <!ENTITY openAttachmentCmd.accesskey    "O">
 <!ENTITY saveAsAttachmentCmd.label    "Memorisar sut...">
 <!ENTITY saveAsAttachmentCmd.accesskey    "A">
 <!ENTITY detachAttachmentCmd.label    "Statgar…">
+<!ENTITY detachAttachmentCmd.accesskey    "t">
 <!ENTITY deleteAttachmentCmd.label    "Stizzar">
+<!ENTITY deleteAttachmentCmd.accesskey    "z">
+<!ENTITY openAllAttachmentsCmd.label    "Avrir tuts…">
+<!ENTITY openAllAttachmentsCmd.accesskey    "v">
 <!ENTITY saveAllAttachmentsCmd.label    "Memorisar tuts…">
 <!ENTITY saveAllAttachmentsCmd.accesskey    "S">
 <!ENTITY detachAllAttachmentsCmd.label    "Statgar tuts…">
 <!ENTITY detachAllAttachmentsCmd.accesskey    "D">
 <!ENTITY deleteAllAttachmentsCmd.label    "Stizzar tuts…">
 <!ENTITY deleteAllAttachmentsCmd.accesskey    "e">
+
+<!-- Attachment toolbar items -->
+<!ENTITY saveAttachmentButton.label       "memorisar">
+<!ENTITY saveAttachmentButton.tooltip     "memorisar la datoteca agiuntada">
+<!ENTITY saveAllAttachmentsButton.label   "memorisar tuts">
+<!ENTITY saveAllAttachmentsButton.tooltip "memorisar tut las datotecas agiuntadas">
+<!ENTITY openAttachmentMenuItem.label     "avrir">
+<!ENTITY openAttachmentMenuItem.accesskey    "a">
+<!ENTITY saveAsAttachmentMenuItem.label    "memorisar sut…">
+<!ENTITY saveAsAttachmentMenuItem.accesskey    "s">
+<!ENTITY detachAttachmentMenuItem.label    "Statgar…">
+<!ENTITY detachAttachmentMenuItem.accesskey    "t">
+<!ENTITY deleteAttachmentMenuItem.label    "stizzar">
+<!ENTITY deleteAttachmentMenuItem.accesskey    "z">
+<!ENTITY openAllAttachmentsMenuItem.label    "avrir tuts…">
+<!ENTITY openAllAttachmentsMenuItem.accesskey    "a">
+<!ENTITY saveAllAttachmentsMenuItem.label    "memorisar tuts…">
+<!ENTITY saveAllAttachmentsMenuItem.accesskey    "u">
+<!ENTITY detachAllAttachmentsMenuItem.label    "statgar tuts…">
+<!ENTITY detachAllAttachmentsMenuItem.accesskey    "g">
+<!ENTITY deleteAllAttachmentsMenuItem.label    "stizzar tuts…">
+<!ENTITY deleteAllAttachmentsMenuItem.accesskey    "i">
 
 <!ENTITY copyLinkCmd.label        "Copiar l'adressa da la colliaziun">
 <!ENTITY copyLinkCmd.accesskey    "C">
