@@ -95,6 +95,7 @@
 <!ENTITY contextSaveImage.label       "Tallenna kuva">
 <!ENTITY contextShareLink.label       "Jaa linkki">
 <!ENTITY contextShareImage.label      "Jaa kuva">
+<!ENTITY contextBookmarkLink.label    "Lisää kirjanmerkki linkistä">
 <!ENTITY contextSaveVideo.label       "Tallenna video">
 <!ENTITY contextShareVideo.label      "Jaa video">
 <!ENTITY contextPlayMedia.label       "Toista">
