@@ -11,7 +11,7 @@
 <!ENTITY view.columns.label "Zobrazit sloupce">
 <!ENTITY view.columns.accesskey "Z">
 <!ENTITY view.sortBy.label "Seřadit podle sloupce">
-<!ENTITY view.sortBy.accesskey "S">
+<!ENTITY view.sortBy.accesskey "p">
 <!ENTITY view.groupBy.label "Seskupit podle">
 <!ENTITY view.groupBy.accesskey "k">
 
