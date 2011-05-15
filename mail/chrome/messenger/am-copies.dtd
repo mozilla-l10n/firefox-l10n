@@ -31,7 +31,7 @@
 <!ENTITY archivesFolderOn.accesskey "h">
 <!ENTITY archiveInOtherFolder.label "Anderer Ordner:">
 <!ENTITY archiveInOtherFolder.accesskey "d">
-<!ENTITY specialFoldersTitle.label "Entwürfe, Archiv und Vorlagen">
+<!ENTITY specialFolders.label "Entwürfe und Vorlagen">
 <!ENTITY keepDrafts.label "Entwürfe speichern unter:">
 <!-- LOCALIZATION NOTE (draftsFolderOn.label): OK to translate this, bug #57440 -->
 <!ENTITY draftsFolderOn.label "Ordner &quot;Entwürfe&quot; in:">
