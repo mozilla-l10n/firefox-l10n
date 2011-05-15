@@ -62,10 +62,10 @@
 
 <!ENTITY viewMenu.label "Zobrazení">
 <!ENTITY viewMenu.accesskey "Z">
-<!ENTITY viewToolbarsMenu.label "Zobrazit/Skrýt">
-<!ENTITY viewToolbarsMenu.accesskey "o">
+<!ENTITY viewToolbarsMenu.label "Nástrojové lišty">
+<!ENTITY viewToolbarsMenu.accesskey "N">
 <!ENTITY showTaskbarCmd.label "Stavový řádek">
-<!ENTITY showTaskbarCmd.accesskey "S">
+<!ENTITY showTaskbarCmd.accesskey "a">
 
 <!ENTITY helpMenu.label "Nápověda">
 <!ENTITY helpMenu.accesskey "v">

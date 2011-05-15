@@ -40,8 +40,8 @@
 <!ENTITY printCmd.accesskey "t">
 <!ENTITY printCmd.commandkey "p">
 
-<!ENTITY toolbarsCmd.label "Zobrazit/Skrýt">
-<!ENTITY toolbarsCmd.accesskey "o">
+<!ENTITY toolbarsCmd.label "Nástrojové lišty">
+<!ENTITY toolbarsCmd.accesskey "N">
 <!ENTITY navbarCmd.label "Lišta navigace">
 <!ENTITY navbarCmd.accesskey "N">
 <!ENTITY personalbarCmd.label "Osobní lišta">
