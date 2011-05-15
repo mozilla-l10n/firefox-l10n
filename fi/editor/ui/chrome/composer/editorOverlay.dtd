@@ -116,8 +116,6 @@
 <!ENTITY checkSpellingCmd2.label "Oikolue">
 <!ENTITY checkSpellingCmd2.accesskey "O">
 <!ENTITY checkSpellingCmd2.key "p">
-<!ENTITY validateCmd.label "Tarkista HTML">
-<!ENTITY validateCmd.accesskey "H">
 
 <!-- Insert menu items -->
 <!ENTITY insertMenu.label "Lisää">
@@ -332,11 +330,6 @@
 <!ENTITY decreaseIndent.accesskey "h">
 <!ENTITY decreaseIndent.key "-">
 
-<!ENTITY grid.label "Sijoitusruudukko">
-<!ENTITY grid.accesskey "r">
-
-<!ENTITY pageProperties.label "Sivun otsikko ja ominaisuudet…">
-<!ENTITY pageProperties.accesskey "m">
 <!ENTITY colorsAndBackground.label "Sivun värit ja tausta…">
 <!ENTITY colorsAndBackground.accesskey "S">
 
@@ -405,7 +398,6 @@
 
 <!-- Toolbar-only items -->
 <!ENTITY menuBar.tooltip "Valikkopalkki">
-<!ENTITY compositionToolbar.tooltip "Oletuspalkki">
 <!ENTITY formatToolbar.tooltip "Muotoilupalkki">
 <!ENTITY newToolbarCmd.tooltip "Luo uusi Composer-sivu">
 <!ENTITY openToolbarCmd.label "Avaa">
@@ -450,33 +442,7 @@
 <!ENTITY alignLeftButton.tooltip "Tasaa teksti vasemman marginaalin mukaan">
 <!ENTITY alignCenterButton.tooltip "Tasaa teksti keskelle">
 <!ENTITY alignRightButton.tooltip "Tasaa teksti oikean marginaalin mukaan">
-<!ENTITY alignjustifyButton.tooltip "Tasaa teksti vasemman ja oikean marginaalin mukaan">
-
-<!-- Display Mode toolbar and View menu items -->
-<!ENTITY NormalModeTab.label "Normaali">
-<!ENTITY NormalMode.label "Normaali muokkaustila">
-<!ENTITY NormalMode.accesskey "N">
-<!ENTITY NormalMode.tooltip "Näytä taulukoiden reunat ja nimetyt ankkurit">
-<!ENTITY AllTagsMode.label "HTML-tunnukset">
-<!ENTITY AllTagsMode.accesskey "H">
-<!ENTITY AllTagsMode.tooltip "Näytä kuvake jokaiselle HTML-tunnukselle">
-
-<!ENTITY HTMLSourceMode.label "HTML-lähdekoodi">
-<!-- Toolbar has an image with "HTML" text, so don't include it in the string -->
-<!ENTITY SourceMode.label "Lähdekoodi">
-<!ENTITY HTMLSourceMode.accesskey "H">
-<!ENTITY HTMLSourceMode.tooltip "Muokkaa HTML-koodia">
-<!ENTITY PreviewMode.label "Esikatselu">
-<!ENTITY PreviewMode.accesskey "E">
-<!ENTITY PreviewMode.tooltip "Näytä WYSIWYG-ohjelmassa (kuten selaimessa)">
-
-<!-- LOCALIZATION NOTE: Do NOT translate text for 'SourceTabDirection'
-     Use latin "ltr" if you want the <html> image to left of the 
-     'SourceMode.label' text defined above,
-     or use latin "rtl" if you want this image to the right of text
-     This is the value of the HTML 'dir' attribute
--->
-<!ENTITY SourceTabDirection "ltr">
+<!ENTITY alignJustifyButton.tooltip "Tasaa teksti vasemman ja oikean marginaalin mukaan">
 
 <!-- Structure Toolbar Context Menu items -->
 <!ENTITY structSelect.label         "Valitse">

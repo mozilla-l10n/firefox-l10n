@@ -117,7 +117,7 @@
 <!ENTITY  securityView.identity.verifier "Varmentaja:">
 
 <!ENTITY  securityView.privacy.header                   "Tietosuoja ja sivuhistoria">
-<!ENTITY  securityView.privacy.history                  "Onko sivustolla vierailtu ennen tätä päivää?">
+<!ENTITY  securityView.privacy.history                  "Onko sivustolla käyty ennen tätä päivää?">
 <!ENTITY  securityView.privacy.cookies                  "Tallentaako sivusto tietoja (evästeitä) tietokoneelle?">
 <!ENTITY  securityView.privacy.viewCookies              "Näytä evästeet">
 <!ENTITY  securityView.privacy.viewCookies.accessKey    "e">

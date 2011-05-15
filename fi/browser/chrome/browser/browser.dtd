@@ -262,7 +262,7 @@ can reach it easily. -->
 <!ENTITY viewSidebarMenu.accesskey  "p">
 <!ENTITY viewCustomizeToolbar.label        "Muokkaa…">
 <!ENTITY viewCustomizeToolbar.accesskey      "M">
-<!ENTITY viewTabsOnTop.label            "Välilehdet päällä">
+<!ENTITY viewTabsOnTop.label            "Välilehdet ylimpänä">
 <!ENTITY viewTabsOnTop.accesskey        "V">
 
 <!ENTITY historyMenu.label "Sivuhistoria">
