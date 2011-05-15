@@ -45,8 +45,9 @@
 <!ENTITY reuseExpRadio0.accesskey      "n">
 <!ENTITY reuseExpRadio1.label          "Ina fanestra existenta">
 <!ENTITY reuseExpRadio1.accesskey      "e">
-<!ENTITY closeMsgWindowOnDelete.label  "Serrar la fanestra da messadis cun stizzar">
-<!ENTITY closeMsgWindowOnDelete.accesskey "C">
+<!ENTITY closeMsgOnMoveOrDelete.label  "Serrar la fanestra/il tab dal messadi cun spustar u stizzar">
+<!ENTITY closeMsgOnMoveOrDelete.accesskey "C">
+
 
 <!-- Update -->
 <!ENTITY autoCheck.label                "Tschertgar automaticamain actualisaziuns per:">
@@ -77,7 +78,7 @@
 <!ENTITY Diskspace "Capacitad da memorisar">
 <!ENTITY offlineCompact.label "Cumprimer ils ordinaturs sche quai spargna dapli capacitad che">
 <!ENTITY offlineCompact.accesskey "C">
-<!ENTITY kb.label "KB">
+<!ENTITY mb.label "MB">
 
 <!-- LOCALIZATION NOTE:
   The entities useCacheBefore.label and useCacheAfter.label appear on a single
