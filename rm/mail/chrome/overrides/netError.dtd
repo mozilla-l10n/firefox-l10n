@@ -101,7 +101,7 @@ contents of the <button> tags. It uses strings already defined above. The
 button is included here (instead of netError.xhtml) because it exposes
 functionality specific to thunderbird. -->
 
-<!ENTITY securityOverride.warningText "<p>Ti na duessas betg agiuntar in'excepziun, sche ti na ta fidas betg absolutamain da la segirezza da la connexiun actuala u sche ti n'has fin ussa betg retschavì in avertiment per quest server.</p>
+<!ENTITY securityOverride.warningContent "<p>Ti na duessas betg agiuntar in'excepziun, sche ti na ta fidas betg absolutamain da la segirezza da la connexiun actuala u sche ti n'has fin ussa betg retschavì in avertiment per quest server.</p>
 
 <button id='getMeOutOfHereButton'>&securityOverride.getMeOutOfHereButton;</button>
 <button id='exceptionDialogButton'>&securityOverride.exceptionButtonLabel;</button>
