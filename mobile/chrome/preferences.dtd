@@ -8,7 +8,7 @@
 <!ENTITY enablePlugins.title "Использовать плагины">
 <!ENTITY privacy.title "Приватность и защита">
 <!ENTITY allowCookies.title "Принимать куки">
-<!ENTITY doNotTrack.title "Попросить сайты не следить за мной">
+<!ENTITY doNotTrack.title "Сказать сайтам не следить за мной">
 <!ENTITY clearPrivateData2.title "Очистка личных данных">
 <!ENTITY clearPrivateData.button "Очистить">
 <!ENTITY rememberPasswords.title "Запоминать пароли">
@@ -20,4 +20,4 @@
 <!ENTITY homepage.none "Пустая страница">
 <!ENTITY homepage.default "Старт &brandShortName;">
 <!ENTITY homepage.currentpage "Текущая страница">
-<!ENTITY showCharset.title "Показывать выбор кодировки">
+<!ENTITY showCharset.title "Меню выбора кодировки">
