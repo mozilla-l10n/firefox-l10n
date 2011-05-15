@@ -70,8 +70,8 @@
      channel.selector.end create one sentence, with a channel selection menulist instered in between.
      This is all in one line, so try to make the localized text short.
      example: Switch to the [Stable] update channel. -->
-<!ENTITY channel.selector.start          "Kalo te kanali">
-<!ENTITY channel.selector.end            "përditësimit.">
+<!ENTITY channel.selector.start          "Kalo te kanali i përditësimit të ">
+<!ENTITY channel.selector.end            ".">
 
 <!-- LOCALIZATION NOTE (channel.selector.applyButton): This button applies the user's choice to switch
      to a new update channel and starts the application update process. -->
