@@ -38,8 +38,8 @@
 <!ENTITY menuBar.tooltip "Lišta nabídky">
 <!ENTITY modeToolbar.tooltip  "Lišta módu">
 <!ENTITY entryToolbar.tooltip "Lišta vstupu JavaScriptu">
-<!ENTITY toolbarsCmd.label "Zobrazit/Skrýt">
-<!ENTITY toolbarsCmd.accesskey "z">
+<!ENTITY toolbarsCmd.label "Nástrojové lišty">
+<!ENTITY toolbarsCmd.accesskey "N">
 <!ENTITY toolbarMode.label "Mód">
 <!ENTITY toolbarMode.accesskey "M">
 <!ENTITY toolbarEval.label "Vstup JavaScriptu">
