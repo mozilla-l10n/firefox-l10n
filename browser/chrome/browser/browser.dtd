@@ -22,13 +22,13 @@
 <!ENTITY editBookmark.cancel.label                   "අහෝසි කරන්න">
 <!ENTITY bookmarkThisLinkCmd.accesskey  "L">
 <!ENTITY fullZoomToggleCmd.accesskey    "T">
-<!ENTITY bookmarkThisLinkCmd.label      "මෙම පුරුක පිටු සලකුණුගත කරන්න">
+<!ENTITY bookmarkThisLinkCmd.label      "මෙම පුරුක පිටු සලකුණු කරන්න">
 <!ENTITY identity.moreInfoLinkText "බොහෝ තොරතුරු…">
 <!ENTITY fullScreenAutohide.accesskey "H">
 <!ENTITY errorConsoleCmd.commandkey   "j">
 <!ENTITY printFrameCmd.accesskey      "P">
 <!ENTITY bookmarkPageCmd2.accesskey   "m">
-<!ENTITY fullScreenExit.label "පර්ණතිර ආකාරයෙන් ඉවත් වන්න">
+<!ENTITY fullScreenExit.label "පූර්ණතිර ආකාරයෙන් ඉවත් වන්න">
 <!ENTITY fullZoomEnlargeCmd.commandkey2 "="> <!-- + is above this key on many keyboards -->
 <!ENTITY fullZoomEnlargeCmd.label       "විශාල කරන්න">
 <!ENTITY fullZoomEnlargeCmd.commandkey  "+">

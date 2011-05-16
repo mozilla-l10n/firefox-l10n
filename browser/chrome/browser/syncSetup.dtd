@@ -74,17 +74,17 @@ Entities below were automatically added by compare-locales,
 <!ENTITY confirm.client2.label "අවවාදයයි: මෙම පරිගණකයේ ඇති &brandShortName; පහත දත්ත මකනු ඇත:">
 
 <!-- Existing Account Page 1: Add Device (incl. Add a Device dialog strings) -->
-<!ENTITY addDevice.title.label              "Add a Device">
-<!ENTITY addDevice.showMeHow.label          "Show me how.">
-<!ENTITY addDevice.dontHaveDevice.label     "I don't have the device with me">
-<!ENTITY addDevice.setup.description.label  "To activate, go to &syncBrand.shortName.label; Options on your other device and select &#x0022;Add a Device&#x0022;.">
-<!ENTITY addDevice.setup.enterCode.label    "Then, enter this code:">
-<!ENTITY addDevice.dialog.description.label "To activate your new device, go to &syncBrand.shortName.label; Options on the device and select &#x0022;Connect.&#x0022;">
-<!ENTITY addDevice.dialog.enterCode.label   "Enter the code that the device provides:">
-<!ENTITY addDevice.dialog.tryAgain.label    "Please try again.">
-<!ENTITY addDevice.dialog.successful.label  "The device has been successfully added. The initial synchronization can take several minutes and will finish in the background.">
+<!ENTITY addDevice.title.label              "උපාංගයක් එක් කරන්න">
+<!ENTITY addDevice.showMeHow.label          "කරන අයුරු පෙන්වන්.">
+<!ENTITY addDevice.dontHaveDevice.label     "උපාංගය මා සතුව නැත">
+<!ENTITY addDevice.setup.description.label  "සක්‍රීය කිරීමට, ඔබගේ අනෙක් උපාංගයන් &syncBrand.shortName.label; විකල්ප තුළට ගොස් &#x0022;Add උපාංගයක්&#x0022;. තෝරන්න">
+<!ENTITY addDevice.setup.enterCode.label    "පසුව, මෙම කේතය ඇතුළත් කරන්න:">
+<!ENTITY addDevice.dialog.description.label "ඔබගේ නව උපාංගය සක්‍රීය කිරීමට, &syncBrand.shortName.label; විකල්ප වෙත ගොස් &#x0022;සම්බන්ධ කරන්න&#x0022; තෝරන්න.">
+<!ENTITY addDevice.dialog.enterCode.label   "උපාංගය සපයන කේතය ඇතුළත් කරන්න:">
+<!ENTITY addDevice.dialog.tryAgain.label    "නැවත උත්සාහ කරන්න.">
+<!ENTITY addDevice.dialog.successful.label  "උපාංගය සාර්ථක ලෙස එක් කළා. ආරම්භක සම්මුහුර්තකරණය සඳහා විනාඩි කිහිපයක් ගන්නා අතර එය පසුබිමිහි සිටිමින් සම්පූර්ණ කරනු ඇත.">
 <!ENTITY addDevice.dialog.syncKey.label     "To activate your device you will need to enter your Sync Key. Please print or save this key and take it with you.">
-<!ENTITY addDevice.dialog.connected.label   "Device Connected">
+<!ENTITY addDevice.dialog.connected.label   "සම්බන්ධිත උපාංග">
 
 <!ENTITY button.connect.label    "සම්බන්ධ වන්න">
 <!ENTITY setup.signInPage.title.label "Sign In">
