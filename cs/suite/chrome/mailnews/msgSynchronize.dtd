@@ -9,7 +9,7 @@
 <!ENTITY syncTypeNews.label "Zprávy diskusních skupin">
 <!ENTITY syncTypeNews.accesskey "Z">
 <!ENTITY sendMessage.label "Odeslat neodeslané zprávy">
-<!ENTITY sendMessage.accesskey "S">
+<!ENTITY sendMessage.accesskey "d">
 <!ENTITY workOffline.label "Pracovat v režimu offline jakmile bude ukládání a/nebo synchronizace hotova">
 <!ENTITY workOffline.accesskey "F">
 <!ENTITY selectButton.label "Vybrat…">

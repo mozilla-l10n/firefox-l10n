@@ -38,8 +38,8 @@
 <!ENTITY GeneratedName.accesskey "N">
 <!ENTITY PrimaryEmail.label "E-mail">
 <!ENTITY PrimaryEmail.accesskey "E">
-<!ENTITY Company.label "Organizace">
-<!ENTITY Company.accesskey "g">
+<!ENTITY Company.label "Společnost">
+<!ENTITY Company.accesskey "l">
 <!ENTITY _PhoneticName.label "Jméno foneticky">
 <!ENTITY _PhoneticName.accesskey "o">
 <!ENTITY NickName.label "Přezdívka">
@@ -56,12 +56,12 @@
 <!ENTITY PagerNumber.accesskey "G">
 <!ENTITY FaxNumber.label "Fax">
 <!ENTITY FaxNumber.accesskey "F">
-<!ENTITY HomePhone.label "Číslo domů">
-<!ENTITY HomePhone.accesskey "L">
-<!ENTITY WorkPhone.label "Číslo do práce">
-<!ENTITY WorkPhone.accesskey "R">
+<!ENTITY HomePhone.label "Telefon domů">
+<!ENTITY HomePhone.accesskey "l">
+<!ENTITY WorkPhone.label "Telefon do zaměstnání">
+<!ENTITY WorkPhone.accesskey "z">
 <!ENTITY ScreenName.label "Účet pro IM">
-<!ENTITY ScreenName.accesskey "E">
+<!ENTITY ScreenName.accesskey "I">
 <!ENTITY sortAscending.label "Vzestupně">
 <!ENTITY sortAscending.accesskey "V">
 <!ENTITY sortDescending.label "Sestupně">

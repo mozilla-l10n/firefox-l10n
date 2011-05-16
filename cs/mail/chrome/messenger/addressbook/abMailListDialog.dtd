@@ -47,7 +47,7 @@
 <!ENTITY UpButton.label "Přesunout výše">
 <!ENTITY DownButton.label "Přesunout níže">
 <!-- Access Keys -->
-<!ENTITY addToAddressBook.accesskey "P">
+<!ENTITY addToAddressBook.accesskey "d">
 <!ENTITY ListName.accesskey "N">
-<!ENTITY ListNickName.accesskey "k">
+<!ENTITY ListNickName.accesskey "Z">
 <!ENTITY ListDescription.accesskey "P">

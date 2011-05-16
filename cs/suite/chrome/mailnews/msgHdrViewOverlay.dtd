@@ -68,12 +68,12 @@
 <!ENTITY saveAsAttachmentCmd.label "Uložit jako…">
 <!ENTITY saveAsAttachmentCmd.accesskey "j">
 <!ENTITY detachAttachmentCmd.label "Vyčlenit…">
-<!ENTITY detachAttachmentCmd.accesskey "o">
+<!ENTITY detachAttachmentCmd.accesskey "V">
 <!ENTITY deleteAttachmentCmd.label "Smazat">
-<!ENTITY deleteAttachmentCmd.accesskey "t">
+<!ENTITY deleteAttachmentCmd.accesskey "m">
 <!ENTITY saveAllAttachmentsCmd.label "Uložit vše…">
 <!ENTITY saveAllAttachmentsCmd.accesskey "U">
-<!ENTITY detachAllAttachmentsCmd.label "Odpojit vše…">
-<!ENTITY detachAllAttachmentsCmd.accesskey "D">
-<!ENTITY deleteAllAttachmentsCmd.label "Smazat vše…">
-<!ENTITY deleteAllAttachmentsCmd.accesskey "e">
+<!ENTITY detachAllAttachmentsCmd.label "Vyčlenit vše…">
+<!ENTITY detachAllAttachmentsCmd.accesskey "V">
+<!ENTITY deleteAllAttachmentsCmd.label "Smazat vše">
+<!ENTITY deleteAllAttachmentsCmd.accesskey "S">
