@@ -1,3 +1,7 @@
+<!ENTITY tracking.label                 "Tracking">
+
+<!ENTITY doNotTrack.label               "Tell web sites I do not want to be tracked">
+<!ENTITY doNotTrack.accesskey           "d">
 <!ENTITY  history.label "வரலாறு">
 
 <!ENTITY  locbar.pre.label              "இடத்துரிப்பட்டையினை பயன்படுத்தும் பொழுது, அறிவுறுத்துக:">
