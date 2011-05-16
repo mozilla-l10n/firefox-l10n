@@ -56,3 +56,27 @@
 <!ENTITY update.downloading.end     "">
 
 
+<!-- LOCALIZATION NOTE (channel.description.start,channel.description.end): channel.description.start and
+     channel.description.end create one sentence, with the current channel label inserted in between.
+     example: You are currently on the _Stable_ update channel. -->
+<!ENTITY channel.description.start  "अहाँ अखन एतए छी ">
+<!ENTITY channel.description.end    " चैनल अद्यतन करू. ">
+
+<!ENTITY channel.change             "बदलू">
+
+<!ENTITY channel.release.description       "Enjoy the tried and tested final release being used by hundreds of millions around the world. Stay in control of your online experience with super speed, easy customization and the latest Web technologies.">
+<!ENTITY channel.beta.description          "कटिंग एज विशेषतासभक संग बेसी स्थायित्वक संग अनुभव लिअ'. अंतिम रिलीजमे की चाही ओकरा परिष्कृत करबाक लेल फीडबैक दिअ'.">
+<!ENTITY channel.aurora.description        "Experience the newest innovations in an unstable environment that's not for the faint of heart. Provide feedback on features and performance to help determine what makes the final release.">
+
+<!-- LOCALIZATION NOTE (channel.selector.applyButton): This button applies the user's choice to switch
+     to a new update channel and starts the application update process. -->
+<!ENTITY channel.selector.applyButton    "लागू करू आओर अद्यतन करू">
+<!ENTITY channel.selector.cancelButton   "रद्द करू">
+
+<!-- LOCALIZATION NOTE (channel.selector.start,channel.selector.end): channel.selector.start and
+     channel.selector.end create one sentence, with a channel selection menulist instered in between.
+     This is all in one line, so try to make the localized text short.
+     example: Switch to the [Stable] update channel. -->
+<!ENTITY channel.selector.start          "बदलू">
+<!ENTITY channel.selector.end            "अद्यतन चैनलमे.">
+
