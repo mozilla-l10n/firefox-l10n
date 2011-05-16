@@ -50,8 +50,6 @@
 <!ENTITY compositionToolbar.tooltip "Pasek narzędzi edycyjnych">
 
 <!-- View menu items -->
-<!ENTITY viewMenu.label                  "Widok">
-<!ENTITY viewMenu.accesskey              "W">
 <!ENTITY compositionToolbarCmd.label     "Pasek narzędzi edycji">
 <!ENTITY compositionToolbarCmd.accesskey "k">
 <!ENTITY formattingToolbarCmd.label      "Pasek narzędzi formatowania">
