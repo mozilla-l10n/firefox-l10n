@@ -40,7 +40,7 @@
 <!ENTITY stop.accesskey          "m">
 
 <!ENTITY half-manual-test.label     "Wykryj ponownie">
-<!ENTITY half-manual-test.accesskey "T">
+<!ENTITY half-manual-test.accesskey "W">
 <!ENTITY manual-edit.label          "Konfiguracja zaawansowana">
 <!ENTITY manual-edit.accesskey      "K">
 
