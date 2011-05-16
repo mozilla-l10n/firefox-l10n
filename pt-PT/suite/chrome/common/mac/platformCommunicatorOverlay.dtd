@@ -27,7 +27,6 @@
 <!ENTITY printSetupCmd.label            "Configurar página…">
 <!ENTITY printSetupCmd.accesskey        "u">
 
-<!ENTITY redoCmd.label                  "Refazer">  
 <!ENTITY redoCmd.key                    "Z">  
 
 <!ENTITY historyCmd.key                 "H">  
