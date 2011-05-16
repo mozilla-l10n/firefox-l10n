@@ -1,16 +1,83 @@
 <!ENTITY aboutDialog.title "Maidir le &brandFullName;">
-<!ENTITY aboutButton.label "&lt; Siar">
-<!ENTITY aboutButton.accesskey "S">
-<!ENTITY aboutVersion "leagan">
-<!ENTITY aboutMenu.label "Maidir Leis">
-<!ENTITY aboutMenu.accesskey "a">
-<!ENTITY aboutCredits.label "Admhálacha">
-<!ENTITY aboutCredits.accesskey "A">
-<!ENTITY aboutRights.label "Do Chearta">
-<!ENTITY aboutRights.accesskey "r">
-<!ENTITY aboutContributors.label "Cuiditheoirí">
-<!ENTITY aboutContributors.accesskey "u">
-<!ENTITY aboutLicense.label "Ceadúnas">
-<!ENTITY aboutLicense.accesskey "C">
+
+<!ENTITY community.start2 "Bhí &brandShortName; cruthaithe ag ">
+<!-- LOCALIZATION NOTE (community.mozillaLink): This is a link title that links to http://www.mozilla.org/. -->
+<!ENTITY community.mozillaLink "&vendorShortName;">
+<!ENTITY community.middle2 ", ">
+<!-- LOCALIZATION NOTE (community.creditsLink): This is a link title that links to about:credits. -->
+<!ENTITY community.creditsLink "comhphobal domhanda">
+<!ENTITY community.end2 " atá ag cur le chéile chun feabhas a chur ar an Idirlíon.  Creidimid gur chóir don Idirlíon a bheith oscailte, poiblí, agus ar fáil do chách gan srian ar bith.">
+
+<!ENTITY contribute.start "Suimiúil? ">
+<!-- LOCALIZATION NOTE (contribute.getInvolvedLink): This is a link title that links to http://www.mozilla.org/contribute/. -->
+<!ENTITY contribute.getInvolvedLink "Bí linn!">
+<!ENTITY contribute.end "">
+<!-- LOCALIZATION NOTE (bottomLinks.license): This is a link title that links to about:license. -->
+
+<!ENTITY bottomLinks.license "Maidir leis an gCeadúnas">
+<!-- LOCALIZATION NOTE (bottomLinks.rights): This is a link title that links to about:rights. -->
+
+<!ENTITY bottomLinks.rights "Cearta an Úsáideora">
+<!-- LOCALIZATION NOTE (bottomLinks.privacy): This is a link title that links to http://www.mozilla.com/legal/privacy/. -->
+
+<!ENTITY bottomLinks.privacy "Polasaí Príobháideachta">
+<!-- LOCALIZATION NOTE (update.checkingForUpdates): try to make the localized text short (see bug 596813 for screenshots). -->
+
+<!ENTITY update.checkingForUpdates "Nuashonruithe á lorg…">
+<!-- LOCALIZATION NOTE (update.checkingAddonCompat): try to make the localized text short (see bug 596813 for screenshots). -->
+<!ENTITY update.checkingAddonCompat "Comhoiriúnacht na mBreiseán á Seiceáil…">
+<!-- LOCALIZATION NOTE (update.noUpdatesFound): try to make the localized text short (see bug 596813 for screenshots). -->
+<!ENTITY update.noUpdatesFound "Tá &brandShortName; cothrom le dáta">
+<!-- LOCALIZATION NOTE (update.adminDisabled): try to make the localized text short (see bug 596813 for screenshots). -->
+<!ENTITY update.adminDisabled "Tá nuashonruithe bogearra díchumasaithe ag riarthóir do chórais">
+<!-- LOCALIZATION NOTE (update.failed.start,update.failed.linkText,update.failed.end):
+     update.failed.start, update.failed.linkText, and update.failed.end all go into
+     one line with linkText being wrapped in an anchor that links to a site to download
+     the latest version of Firefox (e.g. http://www.firefox.com). As this is all in
+     one line, try to make the localized text short (see bug 596813 for screenshots). -->
+
+<!ENTITY update.failed.start "Theip ar an nuashonrú. ">
+<!ENTITY update.failed.linkText "Íosluchtaigh an leagan is déanaí">
+<!ENTITY update.failed.end "">
+<!-- LOCALIZATION NOTE (update.manual.start,update.manual.end): update.manual.start and update.manual.end
+     all go into one line and have an anchor in between with text that is the same as the link to a site
+     to download the latest version of Firefox (e.g. http://www.firefox.com). As this is all in one line,
+     try to make the localized text short (see bug 596813 for screenshots). -->
+
+<!ENTITY update.manual.start "Íosluchtaigh an ">
+<!ENTITY update.manual.linkText "leagan is déanaí">
+<!ENTITY update.manual.end "">
+<!-- LOCALIZATION NOTE (update.downloading.start,update.downloading.end): update.downloading.start and 
+     update.downloading.end all go into one line, with the amount downloaded inserted in between. As this
+     is all in one line, try to make the localized text short (see bug 596813 for screenshots). The — is
+     the "em dash" (long dash).
+     example: Downloading update — 111 KB of 13 MB -->
+
+<!ENTITY update.downloading.start "Nuashonrú á íosluchtú — ">
+<!ENTITY update.downloading.end "">
+<!-- LOCALIZATION NOTE (channel.description.start,channel.description.end): channel.description.start and
+     channel.description.end create one sentence, with the current channel label inserted in between.
+     example: You are currently on the _Stable_ update channel. -->
+
+<!ENTITY channel.description.start "Tá tá ar an gcainéal ">
+<!ENTITY channel.description.end " faoi láthair. ">
+
+<!ENTITY channel.change "Athraigh">
+
+<!ENTITY channel.release.description "Bain sult as an leagan cobhsaí atá in úsáid ag na céadta milliún duine timpeall an domhain. Bí i gceannas ar do shaol ar líne le han-luas, le saincheapadh éasca, agus leis na teicneolaíochtaí Gréasáin is déanaí.">
+<!ENTITY channel.beta.description "Bain sult as na gnéithe úrnua, ach le tuilleadh cobhsaíochta. Tabhair aiseolas dúinn chun feabhas a chur ar leaganacha amach anseo.">
+<!ENTITY channel.aurora.description "Bain triail as na nuálaíochtaí úrnua i dtimpeallacht neamhchobhsaí - níl sé don chroí meata! Tabhair aiseolas dúinn faoi ghnéithe agus cabhraigh linn cinneadh a dhéanamh ar na rudaí a bheidh sa leagan deiridh.">
+<!-- LOCALIZATION NOTE (channel.selector.start,channel.selector.end): channel.selector.start and
+     channel.selector.end create one sentence, with a channel selection menulist instered in between.
+     This is all in one line, so try to make the localized text short.
+     example: Switch to the [Stable] update channel. -->
+
+<!ENTITY channel.selector.start "Téigh go dtí an cainéal">
+<!ENTITY channel.selector.end ".">
+<!-- LOCALIZATION NOTE (channel.selector.applyButton): This button applies the user's choice to switch
+     to a new update channel and starts the application update process. -->
+
+<!ENTITY channel.selector.applyButton "Cuir i bhFeidhm agus Nuashonraigh">
+<!ENTITY channel.selector.cancelButton "Cealaigh">
 
 <!ENTITY cmdCloseMac.commandKey "w">

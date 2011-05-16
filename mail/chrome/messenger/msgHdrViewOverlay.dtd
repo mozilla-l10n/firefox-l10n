@@ -130,6 +130,8 @@
 <!ENTITY detachAttachmentMenuItem.accesskey "D">
 <!ENTITY deleteAttachmentMenuItem.label "Scrios">
 <!ENTITY deleteAttachmentMenuItem.accesskey "c">
+<!ENTITY openAllAttachmentsMenuItem.label "Oscail uile…">
+<!ENTITY openAllAttachmentsMenuItem.accesskey "O">
 <!ENTITY saveAllAttachmentsMenuItem.label "Sábháil uile…">
 <!ENTITY saveAllAttachmentsMenuItem.accesskey "S">
 <!ENTITY detachAllAttachmentsMenuItem.label "Dícheangail uile…">
