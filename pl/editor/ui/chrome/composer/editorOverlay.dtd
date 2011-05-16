@@ -49,9 +49,6 @@
 <!-- File menu items -->
 <!ENTITY fileMenu.label           "Plik">
 <!ENTITY fileMenu.accesskey       "P">
-<!ENTITY newBlankPageCmd.label    "Strona Kompozytora Stron">
-<!ENTITY newBlankPageCmd.accesskey "S">
-<!ENTITY newMenu.label            "Nowy">
 <!ENTITY openFileCmd.label        "Otwórz plik…">
 <!ENTITY openFileCmd.accesskey    "O">
 <!ENTITY openFileCmd.key          "O">
@@ -393,6 +390,7 @@
 <!-- Toolbar-only items -->
 <!ENTITY menuBar.tooltip               "Pasek menu">
 <!ENTITY formatToolbar.tooltip         "Pasek narzędzi formatowania">
+<!ENTITY newToolbarCmd.label           "Nowy">
 <!ENTITY newToolbarCmd.tooltip         "Utwórz nową stronę Kompozytora Stron">
 <!ENTITY openToolbarCmd.label          "Otwórz">
 <!ENTITY openToolbarCmd.tooltip        "Otwórz lokalny plik">
