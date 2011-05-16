@@ -2,6 +2,6 @@
 <!ENTITY addButton.label "Přidat">
 <!ENTITY addButton.accesskey "P">
 <!ENTITY removeButton.label "Odebrat">
-<!ENTITY removeButton.accesskey "O">
+<!ENTITY removeButton.accesskey "r">
 <!ENTITY newMsgHeader.label "Nové záhlaví zprávy:">
 <!ENTITY newMsgHeader.accesskey "N">

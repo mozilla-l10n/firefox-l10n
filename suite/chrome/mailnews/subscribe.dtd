@@ -40,7 +40,7 @@
 <!ENTITY subscribeButton.accesskey "O">
 <!ENTITY unsubscribeButton.label "Odhlásit">
 <!ENTITY unsubscribeButton.accesskey "d">
-<!ENTITY newGroupsTab.label "Nová skupina">
+<!ENTITY newGroupsTab.label "Nové skupiny">
 <!ENTITY newGroupsTab.accesskey "N">
 <!ENTITY refreshButton.label "Obnovit">
 <!ENTITY refreshButton.accesskey "b">

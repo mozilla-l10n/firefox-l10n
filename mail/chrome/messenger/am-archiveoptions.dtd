@@ -1,7 +1,7 @@
 <!-- extracted from am-archiveoptions.xul -->
 
 <!ENTITY dialogTitle.label "Možnosti archivace">
-<!ENTITY archiveGranularityPrefix.label "Při archivace umístit zprávu do:">
+<!ENTITY archiveGranularityPrefix.label "Při archivaci umístit zprávu do:">
 <!ENTITY archiveFlat.label "Jedné společné složky">
 <!ENTITY archiveFlat.accesskey "s">
 <!ENTITY archiveYearly.label "Složek podle roku">
