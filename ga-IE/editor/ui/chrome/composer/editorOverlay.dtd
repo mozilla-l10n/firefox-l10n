@@ -45,9 +45,6 @@
 
 <!ENTITY fileMenu.label "Comhad">
 <!ENTITY fileMenu.accesskey "C">
-<!ENTITY newBlankPageCmd.label "Leathanach Cumadóra">
-<!ENTITY newBlankPageCmd.accesskey "L">
-<!ENTITY newMenu.label "Nua">
 <!ENTITY openFileCmd.label "Oscail Comhad…">
 <!ENTITY openFileCmd.accesskey "O">
 <!ENTITY openFileCmd.key "O">
@@ -394,6 +391,7 @@
 
 <!ENTITY menuBar.tooltip "Barra Roghchláir">
 <!ENTITY formatToolbar.tooltip "Barra Uirlisí Formáidithe">
+<!ENTITY newToolbarCmd.label "Nua">
 <!ENTITY newToolbarCmd.tooltip "Cruthaigh leathanach nua Cumadóra">
 <!ENTITY openToolbarCmd.label "Oscail">
 <!ENTITY openToolbarCmd.tooltip "Oscail comhad logánta">
