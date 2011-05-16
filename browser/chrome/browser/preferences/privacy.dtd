@@ -7,7 +7,10 @@
   &rememberBefore.label  [ textbox for number of days ]   &rememberAfter.label;
 -->
 
+<!ENTITY tracking.label                 "ट्रैकिंग">
 
+<!ENTITY doNotTrack.label               "ओ वेबसाइट बताउ जतबा हम ट्रैक नहि कएल जाए लेल चाहैत छी">
+<!ENTITY doNotTrack.accesskey           "d">
 
 
 <!ENTITY  acceptThirdParty.label        "तृतीय पक्षीय कुकी स्वीकार  करू ">
