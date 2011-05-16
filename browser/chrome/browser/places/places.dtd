@@ -71,7 +71,7 @@
 <!ENTITY cmd.new_folder.label              "Жаңа бума…">
 <!ENTITY cmd.new_folder.accesskey          "у">
 <!ENTITY cmd.context_new_folder.accesskey  "м">
-<!ENTITY cmd.new_separator.label           "Жаңа ажырағыш">
+<!ENTITY cmd.new_separator.label           "Жаңа ажыратқыш">
 <!ENTITY cmd.new_separator.accesskey       "а">
 
 <!ENTITY cmd.reloadLivebookmark.label      "Жаңалықтар таспасының бетбелгісін жаңарту">
