@@ -621,7 +621,7 @@ you can use these alternative items. Otherwise, their values should be empty.  -
 <!ENTITY readColumn.label "Přečtené">
 <!ENTITY receivedColumn.label "Doručeno">
 <!ENTITY starredColumn.label "Hvězdička">
-<!ENTITY locationColumn.label "Adresa">
+<!ENTITY locationColumn.label "Umístění">
 <!ENTITY idColumn.label "Pořadí přijetí">
 <!ENTITY attachmentColumn.label "Přílohy">
 
@@ -643,7 +643,7 @@ you can use these alternative items. Otherwise, their values should be empty.  -
 <!ENTITY readColumn.tooltip "Klepnutím seřadíte podle přečtených">
 <!ENTITY receivedColumn.tooltip "Klepnutím seřadíte podle data doručení">
 <!ENTITY starredColumn.tooltip "Klepnutím seřadíte podle hvězdičky">
-<!ENTITY locationColumn.tooltip "Klepnutím seřadíte podle adresy">
+<!ENTITY locationColumn.tooltip "Klepnutím seřadíte podle umístění">
 <!ENTITY idColumn.tooltip "Klepnutím seřadíte podle pořadí přijetí">
 <!ENTITY attachmentColumn.tooltip "Klepnutím seřadíte podle příloh">
 
@@ -831,7 +831,7 @@ you can use these alternative items. Otherwise, their values should be empty.  -
 <!ENTITY copyLinkCmd.accesskey "a">
 <!ENTITY copyImageAllCmd.label "Kopírovat obrázek">
 <!ENTITY copyImageAllCmd.accesskey "b">
-<!ENTITY copyEmailCmd.label "Kopírovat adresu e-mail">
+<!ENTITY copyEmailCmd.label "Kopírovat adresu e-mailu">
 <!ENTITY copyEmailCmd.accesskey "e">
 <!ENTITY stopCmd.label "Zastavit">
 <!ENTITY stopCmd.accesskey "Z">

@@ -1,6 +1,6 @@
 <!ENTITY filterListDialog.title "Filtry zpráv">
 <!ENTITY nameColumn.label "Název filtru">
-<!ENTITY activeColumn.label "Aktivní">
+<!ENTITY activeColumn.label "Povoleno">
 <!ENTITY newButton.label "Nový…">
 <!ENTITY newButton.accesskey "N">
 <!ENTITY editButton.label "Upravit…">
@@ -20,7 +20,7 @@
 <!ENTITY runFilters.accesskey "S">
 <!ENTITY stopFilters.label "Zastavit">
 <!ENTITY stopFilters.accesskey "Z">
-<!ENTITY folderPickerPrefix.label "Ručně spustit vybrané filtry na složce:">
+<!ENTITY folderPickerPrefix.label "Ručně spustit vybraný filtr na složce:">
 <!ENTITY folderPickerPrefix.accesskey "r">
 <!ENTITY choosethis.label "vyberte tuto složku">
-<!ENTITY choosethisnewsserver.label "zvolte tento server diskusních skupin">
+<!ENTITY choosethisnewsserver.label "vyberte diskusní server">

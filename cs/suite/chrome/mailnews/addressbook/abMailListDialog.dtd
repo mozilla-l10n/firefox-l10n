@@ -41,15 +41,14 @@
 <!-- Labels -->
 <!ENTITY addToAddressBook.label "Přidat do: ">
 
-<!ENTITY ListName.label "Název skupiny: ">
-<!ENTITY ListNickName.label "Zkratka skupiny: ">
+<!ENTITY ListName.label "Název: ">
+<!ENTITY ListNickName.label "Zkratka: ">
 <!ENTITY ListDescription.label "Popis: ">
 <!-- See bug 58485, when we implement drag and drop, add 'or drag addresses' back in -->
-<!ENTITY AddressTitle.label "Zadejte e-mailové adresy nebo je přetáhněte do níže uvedeného poštovního seznamu:">
+<!ENTITY AddressTitle.label "Vložte e-mailové adresy pro tuto skupinu:">
 <!-- Access Keys -->
 
-<!ENTITY addToAddressBook.accesskey "D">
+<!ENTITY addToAddressBook.accesskey "d">
 <!ENTITY ListName.accesskey "N">
-<!ENTITY ListNickName.accesskey "K">
+<!ENTITY ListNickName.accesskey "Z">
 <!ENTITY ListDescription.accesskey "p">
-

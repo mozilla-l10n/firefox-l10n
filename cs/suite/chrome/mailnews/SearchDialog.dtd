@@ -1,34 +1,34 @@
 <!-- for SearchDialog.xul -->
-
-<!ENTITY searchHeading.label "Hledat položky v:">
-<!ENTITY searchHeading.accesskey "h">
-<!ENTITY searchSubfolders.label "Hledat ve vnořených složkách">
-<!ENTITY searchSubfolders.accesskey "l">
+<!ENTITY searchHeading.label "Hledat zprávy ve složce:">
+<!ENTITY searchHeading.accesskey "z">
+<!ENTITY searchSubfolders.label "Hledat v podsložkách">
+<!ENTITY searchSubfolders.accesskey "e">
 <!ENTITY searchLocalSystem.label "Hledat v místním systému">
 <!ENTITY searchLocalSystem.accesskey "d">
 <!ENTITY resetButton.label "Obnovit">
 <!ENTITY resetButton.accesskey "B">
 <!ENTITY openButton.label "Otevřít">
-<!ENTITY openButton.accesskey "o">
+<!ENTITY openButton.accesskey "t">
 <!ENTITY deleteButton.label "Smazat">
-<!ENTITY deleteButton.accesskey "S">
+<!ENTITY deleteButton.accesskey "m">
 <!ENTITY searchDialogTitle.label "Hledat ve zprávách">
 <!ENTITY results.label "Nalezené položky:">
 <!ENTITY fileHereMenu.label "Přesunout do složky">
-<!ENTITY fileHereMenu.accesskey "S">
+<!ENTITY fileHereMenu.accesskey "n">
 <!ENTITY fileButton.label "Přesunout">
 <!ENTITY fileButton.accesskey "p">
 <!ENTITY goToFolderButton.label "Otevřít složku se zprávami">
 <!ENTITY goToFolderButton.accesskey "t">
-<!ENTITY saveAsVFButton.label "Uložit jako virtuální složku">
-<!ENTITY saveAsVFButton.accesskey "v">
+<!ENTITY saveAsVFButton.label "Uložit hledání jako složku…">
+<!ENTITY saveAsVFButton.accesskey "a">
+
 <!-- for ABSearchDialog.xul -->
 
-<!ENTITY abSearchHeading.label "Hledat v:">
+<!ENTITY abSearchHeading.label "Hledat ve složce kontaktů:">
 <!ENTITY abSearchHeading.accesskey "H">
 <!ENTITY propertiesButton.label "Vlastnosti">
 <!ENTITY propertiesButton.accesskey "V">
 <!ENTITY composeButton.label "Napsat zprávu">
 <!ENTITY composeButton.accesskey "z">
-<!ENTITY abSearchDialogTitle.label "Rozšířené hledání ve složce kontaktů">
+<!ENTITY abSearchDialogTitle.label "Rozšířené hledání v kontaktech">
 

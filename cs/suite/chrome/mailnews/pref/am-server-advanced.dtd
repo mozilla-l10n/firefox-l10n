@@ -10,7 +10,7 @@
 <!ENTITY maximumConnectionsNumber.label "Maximální počet spojení serveru do mezipaměti">
 <!ENTITY maximumConnectionsNumber.accesskey "M">
 <!-- LOCALIZATION NOTE (namespaceDesc.label): DONT_TRANSLATE "IMAP" -->
-<!ENTITY namespaceDesc.label "Tato nastavení specifikují jmenný prostor na vašem IMAP serveru">
+<!ENTITY namespaceDesc.label "Tyto předvolby určují jmenný prostor na vašem IMAP serveru">
 <!ENTITY personalNamespace.label "Osobní jmenný prostor:">
 <!ENTITY personalNamespace.accesskey "O">
 <!ENTITY publicNamespace.label "Veřejné (sdílené):">
@@ -19,7 +19,7 @@
 <!ENTITY otherUsersNamespace.accesskey "D">
 <!ENTITY overrideNamespaces.label "Povolit serveru přepsat tyto jmenné prostory">
 <!ENTITY overrideNamespaces.accesskey "T">
-<!ENTITY pop3Desc.label "Při stažení nové pošty z tohoto POP3 serveru, ji můžete uložit do Globalní doručené pošty  (Doručená pošta účtu Místní složky),do Doručené pošty tohoto účtu, nebo do Doručené pošty jiného POP3 účtu">
+<!ENTITY pop3Desc.label "Při stažení nové pošty z tohoto POP serveru použít pro její uložení následující složku:">
 <!ENTITY globalInbox.label "Globální doručená pošta">
 <!ENTITY globalInbox.accesskey "G">
 <!ENTITY accountDirectory.label "Doručená pošta pro tento účet">
