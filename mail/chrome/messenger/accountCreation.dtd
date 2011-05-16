@@ -1,51 +1,55 @@
 <!ENTITY autoconfigWizard.title          "Sähköpostitilin asennus">
 <!ENTITY name.label                      "Nimi:">
 <!ENTITY name.accesskey                  "N">
-<!ENTITY name.placeholder                  "Etunimi Sukunimi">
+<!ENTITY name.placeholder                "Etunimi Sukunimi">
 <!ENTITY name.text                       "Nimesi muille näkyvä muoto">
 <!ENTITY email.label                     "Sähköpostiosoite:">
 <!ENTITY email.accesskey                 "S">
-<!ENTITY email.placeholder                 "email@example.com">
+<!ENTITY email.placeholder               "email@example.com">
 <!ENTITY password.label                  "Salasana:">
 <!ENTITY password.accesskey              "a">
-<!ENTITY password.placeholder              "Salasana">
+<!ENTITY password.placeholder            "Salasana">
 <!ENTITY password.text                   "Valinnainen, käytetään vain todentamaan käyttäjätunnus">
+<!ENTITY rememberPassword.label          "Tallenna salasana">
+<!ENTITY rememberPassword.accesskey      "T">
 
-<!ENTITY accountInformation.label        "Tilin tiedot">
-<!ENTITY username2.label                 "Käyttäjätunnus:">
+<!ENTITY imapLong.label                  "IMAP (etäkansiot)">
+<!ENTITY pop3Long.label                  "POP3 (säilytä sähköpostit tietokoneellasi)">
+
 <!ENTITY incoming.label                  "Saapuva:">
 <!ENTITY outgoing.label                  "Lähtevä:">
+<!ENTITY username.label                  "Käyttäjätunnus:">
+<!ENTITY hostname.label                  "Palvelimen osoite">
+<!ENTITY port.label                      "Portti">
+<!ENTITY ssl.label                       "SSL">
+<!ENTITY auth.label                      "Todennus">
+<!ENTITY imap.label                      "IMAP">
+<!ENTITY pop3.label                       "POP3">
+<!ENTITY smtp.label                      "SMTP">
+<!ENTITY autodetect.label                "Tunnista automaattisesti">
+<!-- LOCALIZATION NOTE(noEncryption.label): Neither SSL/TLS nor STARTTLS.
+     Transmission of emails in cleartext over the Internet. -->
 <!ENTITY noEncryption.label              "Ei mitään">
 <!ENTITY starttls.label                  "STARTTLS">
 <!ENTITY sslTls.label                    "SSL/TLS">
 
-<!ENTITY imap.label                      "IMAP">
-<!ENTITY pop.label                       "POP">
-<!ENTITY smtp.label                      "SMTP">
-<!ENTITY imap.description                "IMAP - Mahdollisuus lukea viestejä usealta tietokoneelta">
-<!ENTITY pop.description                 "POP - Lataa viestit tälle tietokoneelle, kansiot olemassa vain tällä tietokoneella">
-<!ENTITY recommended-appendix.label      "(suositeltu)">
-
-<!ENTITY manualSetup.label               "Manuaaliasetukset…">
-<!ENTITY manualSetup.accesskey           "M">
+<!ENTITY advancedSetup.label             "Lisäasetukset">
+<!ENTITY advancedSetup.accesskey         "L">
 <!ENTITY cancel.label                    "Peruuta">
 <!ENTITY cancel.accesskey                "P">
 <!ENTITY continue.label                  "Jatka">
 <!ENTITY continue.accesskey              "J">
-<!ENTITY startOver.label                 "Aloita alusta">
-<!ENTITY startOver.accesskey             "o">
 <!ENTITY stop.label                      "Lopeta">
 <!ENTITY stop.accesskey                  "L">
-<!-- LOCALIZATION NOTE (retest.label): This is the text that is
-     displayed on the button which will re-guess the account configuration,
-     taking into account the settings the user has changed. -->
-<!ENTITY retest.label                    "Testaa asetuksia uudelleen">
-<!ENTITY retest.accesskey                "T">
-<!ENTITY edit.label                      "Muokkaa">
-<!ENTITY edit.accesskey                  "M">
+<!-- LOCALIZATION NOTE (half-manual-test.label): This is the text that is
+     displayed on the button in manual edit mode which will re-guess
+     the account configuration, taking into account the settings that
+     the user has manually changed. -->
+<!ENTITY half-manual-test.label          "Testaa asetuksia uudelleen">
+<!ENTITY half-manual-test.accesskey      "T">
+<!ENTITY manual-edit.label               "Muokkaa asetuksia">
+<!ENTITY manual-edit.accesskey           "M">
 
-<!ENTITY rememberPassword.label          "Tallenna salasana">
-<!ENTITY rememberPassword.accesskey      "T">
 
 <!ENTITY warning.label                   "Varoitus!">
 <!ENTITY incomingSettings.label          "Saapuvan postin asetukset:">

@@ -43,15 +43,23 @@
 <!-- Menu items:  the . means that the menu item isn't implemented yet -->
 
 <!-- Toolbar-only items -->
-<!ENTITY compositionToolbar.tooltip "Oletus">
+<!ENTITY compositionToolbar.tooltip "Muokkauspalkki">
+<!ENTITY previewToolbarCmd.label "Selaa">
+<!ENTITY previewToolbarCmd.tooltip "Lataa tämä sivu selaimessa">
+
+<!-- File menu items -->
+<!ENTITY exportToTextCmd.label "Vie tekstiksi…">
+<!ENTITY exportToTextCmd.accesskey "V">
+<!ENTITY previewCmd.label "Selaa sivua">
+<!ENTITY previewCmd.accesskey "S">
+<!ENTITY sendPageCmd.label "Lähetä sivu…">
+<!ENTITY sendPageCmd.accesskey "L">
 
 <!-- View menu items -->
-<!ENTITY viewMenu.label "Näytä">
-<!ENTITY viewMenu.accesskey "N">
-<!ENTITY compositionToolbarCmd.label "Oletus">
-<!ENTITY compositionToolbarCmd.accesskey "O">
+<!ENTITY compositionToolbarCmd.label "Muokkauspalkki">
+<!ENTITY compositionToolbarCmd.accesskey "M">
 <!ENTITY formattingToolbarCmd.label "Muotoilu">
-<!ENTITY formattingToolbarCmd.accesskey "M">
+<!ENTITY formattingToolbarCmd.accesskey "o">
 <!ENTITY editmodeToolbarCmd.label "Muokkaustila">
 <!ENTITY editmodeToolbarCmd.accesskey "u">
 

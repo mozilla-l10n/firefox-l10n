@@ -99,12 +99,15 @@
 <!ENTITY otherActionsPrint.label "tulosta…">
 <!ENTITY otherActionsPrint.accesskey "u">
 
+<!-- Attachment context menu items -->
 <!ENTITY openAttachmentCmd.label     "Avaa">
 <!ENTITY openAttachmentCmd.accesskey		 "A">
 <!ENTITY saveAsAttachmentCmd.label     "Tallenna nimellä…">
 <!ENTITY saveAsAttachmentCmd.accesskey		 "n">
 <!ENTITY detachAttachmentCmd.label     "Irrota…">
+<!ENTITY detachAttachmentCmd.accesskey    "I">
 <!ENTITY deleteAttachmentCmd.label     "Poista">
+<!ENTITY deleteAttachmentCmd.accesskey    "P">
 <!ENTITY openAllAttachmentsCmd.label    "Avaa kaikki…">
 <!ENTITY openAllAttachmentsCmd.accesskey    "v">
 <!ENTITY saveAllAttachmentsCmd.label     "Tallenna kaikki…">
@@ -113,6 +116,28 @@
 <!ENTITY detachAllAttachmentsCmd.accesskey     "I">
 <!ENTITY deleteAllAttachmentsCmd.label     "Poista kaikki…">
 <!ENTITY deleteAllAttachmentsCmd.accesskey     "K">
+
+<!-- Attachment toolbar items -->
+<!ENTITY saveAttachmentButton.label       "tallenna">
+<!ENTITY saveAttachmentButton.tooltip     "tallenna liitetty tiedosto">
+<!ENTITY saveAllAttachmentsButton.label   "tallenna kaikki">
+<!ENTITY saveAllAttachmentsButton.tooltip "tallenna kaikki liitetyt tiedostot">
+<!ENTITY openAttachmentMenuItem.label     "avaa">
+<!ENTITY openAttachmentMenuItem.accesskey    "a">
+<!ENTITY saveAsAttachmentMenuItem.label    "tallenna nimellä…">
+<!ENTITY saveAsAttachmentMenuItem.accesskey    "t">
+<!ENTITY detachAttachmentMenuItem.label    "irrota…">
+<!ENTITY detachAttachmentMenuItem.accesskey    "i">
+<!ENTITY deleteAttachmentMenuItem.label    "poista">
+<!ENTITY deleteAttachmentMenuItem.accesskey    "p">
+<!ENTITY openAllAttachmentsMenuItem.label    "avaa kaikki…">
+<!ENTITY openAllAttachmentsMenuItem.accesskey    "k">
+<!ENTITY saveAllAttachmentsMenuItem.label    "tallenna kaikki…">
+<!ENTITY saveAllAttachmentsMenuItem.accesskey    "e">
+<!ENTITY detachAllAttachmentsMenuItem.label    "irrota kaikki…">
+<!ENTITY detachAllAttachmentsMenuItem.accesskey    "r">
+<!ENTITY deleteAllAttachmentsMenuItem.label    "poista kaikki…">
+<!ENTITY deleteAllAttachmentsMenuItem.accesskey    "s">
 
 <!ENTITY copyLinkCmd.label         "Kopioi linkin osoite">
 <!ENTITY copyLinkCmd.accesskey		 "K">

@@ -77,7 +77,7 @@
 <!ENTITY Diskspace "Levytilan käyttö">
 <!ENTITY offlineCompact.label "Tiivistä kansiot aina kun se säästää yli">
 <!ENTITY offlineCompact.accesskey "T">
-<!ENTITY kb.label "kt">
+<!ENTITY mb.label "Mt">
 
 <!-- LOCALIZATION NOTE:
   The entities useCacheBefore.label and useCacheAfter.label appear on a single

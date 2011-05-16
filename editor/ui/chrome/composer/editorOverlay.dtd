@@ -45,9 +45,6 @@
 <!-- File menu items -->
 <!ENTITY fileMenu.label "Tiedosto">
 <!ENTITY fileMenu.accesskey "T">
-<!ENTITY newBlankPageCmd.label "Composer-sivu">
-<!ENTITY newBlankPageCmd.accesskey "C" >
-<!ENTITY newMenu.label "Uusi">
 <!ENTITY openFileCmd.label "Avaa tiedosto…">
 <!ENTITY openFileCmd.accesskey "A">
 <!ENTITY openFileCmd.key "O">
@@ -69,14 +66,8 @@
 <!ENTITY publishCmd.key "S">
 <!ENTITY publishAsCmd.label "Julkaise nimellä…">
 <!ENTITY publishAsCmd.accesskey "u">
-<!ENTITY exportToTextCmd.label "Vie tekstitiedostona…">
-<!ENTITY exportToTextCmd.accesskey "V">
 <!ENTITY saveAsChangeEncodingCmd.label "Tallenna ja muuta merkistökoodausta">
 <!ENTITY saveAsChangeEncodingCmd.accesskey "m">
-<!ENTITY previewCmd.label "Selaa sivua">
-<!ENTITY previewCmd.accesskey "S">
-<!ENTITY sendPageCmd.label "Lähetä sivu…">
-<!ENTITY sendPageCmd.accesskey "L">
 <!ENTITY printSetupCmd.label "Sivun asetukset…">
 <!ENTITY printSetupCmd.accesskey "i">
 <!ENTITY printCmd.label "Tulosta…">
@@ -399,13 +390,12 @@
 <!-- Toolbar-only items -->
 <!ENTITY menuBar.tooltip "Valikkopalkki">
 <!ENTITY formatToolbar.tooltip "Muotoilupalkki">
+<!ENTITY newToolbarCmd.label "Uusi">
 <!ENTITY newToolbarCmd.tooltip "Luo uusi Composer-sivu">
 <!ENTITY openToolbarCmd.label "Avaa">
 <!ENTITY openToolbarCmd.tooltip "Avaa paikallinen tiedosto">
 <!ENTITY saveToolbarCmd.tooltip "Tallenna tiedosto paikalliselle levylle">
 <!ENTITY publishToolbarCmd.tooltip "Siirrä tiedosto palvelimelle">
-<!ENTITY previewToolbarCmd.label "Selaa">
-<!ENTITY previewToolbarCmd.tooltip "Lataa sivu selaimessa">
 <!ENTITY printToolbarCmd.label "Tulosta">
 <!ENTITY printToolbarCmd.tooltip "Tulosta sivu">
 <!ENTITY findToolbarCmd.label "Etsi">
