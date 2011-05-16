@@ -41,18 +41,18 @@
 <!ENTITY readMsgsLink.label "Přečíst zprávy">
 <!ENTITY composeMsgLink.label "Vytvořit novou zprávu">
 
-<!ENTITY newsSectionHdr.label "Diskusní skupiny">
-<!ENTITY subscribeNewsLink.label "Přihlásit se do diskusní skupiny">
+<!ENTITY newsSectionHdr.label "Diskusní skupina">
+<!ENTITY subscribeNewsLink.label "Spravovat odebírání diskusních skupin">
 
 <!ENTITY accountsSectionHdr.label "Účty">
-<!ENTITY subscribeImapFolders.label "Správa odběru složek">
+<!ENTITY subscribeImapFolders.label "Spravovat odebírání složek pošty">
 <!ENTITY settingsLink.label "Zobrazit nastavení pro tento účet">
 <!ENTITY newAcctLink.label "Vytvořit nový účet">
 
 <!ENTITY advFeaturesSectionHdr.label "Nastavení">
-<!ENTITY searchMsgsLink.label "Hledat zprávy">
-<!ENTITY filtersLink.label "Vytvořit třídicí filtr">
-<!ENTITY junkSettings.label "Nastavení pro nevyžádanou poštu">
+<!ENTITY searchMsgsLink.label "Hledat ve zprávách">
+<!ENTITY filtersLink.label "Spravovat filtry zpráv">
+<!ENTITY junkSettings.label "Nastavení nevyžádané pošty">
 <!ENTITY offlineLink.label "Nastavení režimu offline">
 
 <!ENTITY feedsSectionHdr.label "Kanály">

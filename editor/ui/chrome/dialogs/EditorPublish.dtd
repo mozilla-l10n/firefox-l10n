@@ -98,4 +98,4 @@
 <!ENTITY password.tooltip "Heslo přiřazené k uživateli">
 <!ENTITY savePassword.label "Uložit heslo">
 <!ENTITY savePassword.accesskey "U">
-<!ENTITY savePassword.tooltip "Pokud chcete uložit své heslo bezpečně pomocí správce hesel">
+<!ENTITY savePassword.tooltip "Pokud chcete uložit své heslo bezpečně pomocí Správce hesel">
