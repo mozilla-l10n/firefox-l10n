@@ -77,7 +77,7 @@
 <!ENTITY cmd.installAddon.label               "Installer">
 <!ENTITY cmd.installAddon.accesskey           "I">
 <!ENTITY cmd.uninstallAddon.label             "Fjern">
-<!ENTITY cmd.uninstallAddon.accesskey         "F">
+<!ENTITY cmd.uninstallAddon.accesskey         "j">
 <!ENTITY cmd.showPreferencesWin.label         "Indstillinger">
 <!ENTITY cmd.showPreferencesWin.tooltip       "Rediger indstillinger for denne tilføjelse">
 <!ENTITY cmd.showPreferencesUnix.label        "Præferencer">
