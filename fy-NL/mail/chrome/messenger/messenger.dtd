@@ -5,8 +5,8 @@
 <!-- File Menu -->
 <!ENTITY newFolderCmd.label "Map…">
 <!ENTITY newFolderCmd.accesskey "M">
-<!ENTITY closeTabCmd.label "Ljepblêd slute">
-<!ENTITY closeTabCmd.accesskey "e">
+<!ENTITY closeTabCmd2.label "Ljepblêd slute">
+<!ENTITY closeTabCmd2.accesskey "e">
 <!ENTITY closeOtherTabsCmd2.label "Oare ljepblêden slute">
 <!ENTITY closeOtherTabsCmd2.accesskey "l">
 <!-- LOCALIZATION NOTE (undoCloseTabCmd.label):
@@ -39,7 +39,6 @@
 <!ENTITY saveAsFileCmd.key "s">
 <!ENTITY saveAsTemplateCmd.label "Sjabloan">
 <!ENTITY saveAsTemplateCmd.accesskey "S">
-<!ENTITY getNewMsgCmd.key "t">
 <!ENTITY getNewMsgForCmd.label "Nije berjochten ophelje foar">
 <!ENTITY getNewMsgForCmd.accesskey "f">
 <!ENTITY getAllNewMsgCmdPopupMenu.label "Alle accounts">
@@ -86,12 +85,12 @@
 <!ENTITY deleteMsgCmd.accesskey "f">
 <!ENTITY undeleteMsgCmd.label "Berjocht fuortsmite ûngedien meitsje">
 <!ENTITY undeleteMsgCmd.accesskey "u">
-<!ENTITY cancelNewsMsgCmd.label "Berjocht annulearje">
-<!ENTITY cancelNewsMsgCmd.accesskey "n">
 <!ENTITY deleteMsgsCmd.label "Selektearre berjochten fuortsmite">
 <!ENTITY deleteMsgsCmd.accesskey "b">
 <!ENTITY undeleteMsgsCmd.label "Fuortsmite selektearre berjochten ûngedien meitsje">
 <!ENTITY undeleteMsgsCmd.accesskey "F">
+<!ENTITY deleteFolderCmd.label "Map fuortsmite">
+<!ENTITY deleteFolderCmd.accesskey "M">
 <!ENTITY unsubscribeNewsgroupCmd.label "Abonnemint opsizze">
 <!ENTITY unsubscribeNewsgroupCmd.accesskey "A">
 <!ENTITY selectMenu.label "Selektearje">
@@ -407,9 +406,9 @@ you can use these alternative items. Otherwise, their values should be empty.  -
 <!ENTITY tagCmd9.key "9">
 <!ENTITY markMenu.label "Markearje">
 <!ENTITY markMenu.accesskey "M">
+<!ENTITY toggleReadCmd.key "m">
 <!ENTITY markAsReadCmd.label "As lêzen">
 <!ENTITY markAsReadCmd.accesskey "z">
-<!ENTITY markAsReadCmd.key "m">
 <!ENTITY markAsUnreadCmd.label "As net lêzen">
 <!ENTITY markAsUnreadCmd.accesskey "n">
 <!ENTITY markThreadAsReadCmd.label "Petear as lêzen">
@@ -521,7 +520,6 @@ you can use these alternative items. Otherwise, their values should be empty.  -
 <!ENTITY getMsgButton.tooltip "Nije berjochten ophelje">
 <!ENTITY getAllNewMsgCmd.label "Alle nije berjochten ophelje">
 <!ENTITY getAllNewMsgCmd.accesskey "N">
-<!ENTITY getAllNewMsgCmd.key "t">
 <!ENTITY newMsgButton.tooltip "Nij berjocht oanmeitsje">
 <!ENTITY replyButton.tooltip "Selektearre berjocht beantwurdzje">
 <!ENTITY replyAllButton.tooltip "Ofstjoerder en alle adressearden beantwurdzje">
@@ -758,12 +756,14 @@ you can use these alternative items. Otherwise, their values should be empty.  -
 <!-- Phishing Bar -->
 <!ENTITY phishingBarMessage2.label "Dit berjocht kin e-mailscam wêze">
 <!ENTITY removePhishingBarButton1.label "Warskôging negearje">
+<!ENTITY disablePhishingWarning1.label "Scamdeteksje útskeakelje foar alle berjochten">
 <!ENTITY reportPhishingError1.label "Dit berjocht liket gjin e-mailscam.">
 
 <!-- MDN Bar -->
-<!ENTITY mdnBarMessage.label "De ôfstjoerder fan dit berjocht hat om in notifikaasje frege as jo dit berjocht lêze. Wolle jo dit de ôfstjoerder witte litte?">
-<!ENTITY mdnBarIgnoreButton.label "Fersyk negearje">
-<!ENTITY mdnBarSendButton.label "Untfangst ferstjoere">
+<!ENTITY mdnBarIgnoreButton2.label "Negearje">
+<!ENTITY mdnBarIgnoreButton2.accesskey "N">
+<!ENTITY mdnBarSendButton2.label "Untfangstbefestiging ferstjoere">
+<!ENTITY mdnBarSendButton2.accesskey "U">
 
 <!-- Quick Search Bar -->
 <!-- LOCALIZATION NOTE (quickSearchCmd.key):
