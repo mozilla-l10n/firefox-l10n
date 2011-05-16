@@ -7,8 +7,10 @@
 <!ENTITY helpMenuWin.accesskey "H">
 <!ENTITY helpTroubleshootingInfo.label     "Probleemoplossende ynformaasje">
 <!ENTITY helpTroubleshootingInfo.accesskey "P">
-<!ENTITY releaseCmd.label "Utjefte-opmerkings">
-<!ENTITY releaseCmd.accesskey "U">
+<!ENTITY helpSafeMode.label     "Werstarte mei útskeakele tafoegings…">
+<!ENTITY helpSafeMode.accesskey "r">
+<!ENTITY releaseCmd2.label "Utjefteopmerkingen">
+<!ENTITY releaseCmd2.accesskey "U">
 <!ENTITY whatsNewCmd.label "Wat is nij">
 <!ENTITY whatsNewCmd.accesskey "W">
 <!ENTITY featureConfiguratorCmd.label "Migraasje-assistint">
@@ -20,6 +22,5 @@
 <!ENTITY openHelpMac2.commandkey   "?">
 <!ENTITY openHelpMac2.modifiers    "accel">
 
-<!ENTITY updateCmd.label "Kontrolearje op fernijings…">
 <!ENTITY aboutMenuCmd.label "Oer &brandShortName;">
 <!ENTITY aboutMenuCmd.accesskey "O">
