@@ -1,3 +1,7 @@
+<!ENTITY tracking.label                 "Tracking">
+
+<!ENTITY doNotTrack.label               "Tell web sites I do not want to be tracked">
+<!ENTITY doNotTrack.accesskey           "d">
 <!ENTITY  history.label "අතීතය">
 <!ENTITY  locationBar.label             "ස්ථාන තීරුව">
 
