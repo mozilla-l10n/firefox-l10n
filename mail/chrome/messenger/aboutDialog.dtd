@@ -1,16 +1,83 @@
-<!ENTITY aboutDialog.title      "Om &brandFullName;">
-<!ENTITY aboutButton.label      "&lt; Tilbake">
-<!ENTITY aboutButton.accesskey  "T">
-<!ENTITY aboutVersion           "versjon">
-<!ENTITY aboutMenu.label        "Om">
-<!ENTITY aboutMenu.accesskey    "O">
-<!ENTITY aboutCredits.label     "Bidragsytere">
-<!ENTITY aboutCredits.accesskey "B">
-<!ENTITY aboutRights.label      "Dine rettigheter">
-<!ENTITY aboutRights.accesskey  "D">
-<!ENTITY aboutContributors.label "Bidragsytere">
-<!ENTITY aboutContributors.accesskey "B">
-<!ENTITY aboutLicense.label      "Lisens">
-<!ENTITY aboutLicense.accesskey  "L">
+<!ENTITY aboutDialog.title          "Om &brandFullName;">
+
+<!ENTITY community.start2           "&brandShortName; er designet av ">
+<!-- LOCALIZATION NOTE (community.mozillaLink): This is a link title that links to http://www.mozilla.org/. -->
+<!ENTITY community.mozillaLink      "&vendorShortName;">
+<!ENTITY community.middle2          ", et ">
+<!-- LOCALIZATION NOTE (community.creditsLink): This is a link title that links to about:credits. -->
+<!ENTITY community.creditsLink      "globalt samfunn">
+<!ENTITY community.end2             " som jobber for å gjøre nettet bedre. Vi tror at Internett bør være åpent, allmennt, og tilgjengelig for alle uten noen begrensninger.">
+
+<!ENTITY contribute.start           "Høres det spennende ut? ">
+<!-- LOCALIZATION NOTE (contribute.getInvolvedLink): This is a link title that links to http://www.mozilla.org/contribute/. -->
+<!ENTITY contribute.getInvolvedLink "Involver deg!">
+<!ENTITY contribute.end             "">
+
+<!-- LOCALIZATION NOTE (bottomLinks.license): This is a link title that links to about:license. -->
+<!ENTITY bottomLinks.license        "Lisensinfo">
+
+<!-- LOCALIZATION NOTE (bottomLinks.rights): This is a link title that links to about:rights. -->
+<!ENTITY bottomLinks.rights         "Rettigheter for sluttbrukere">
+
+<!-- LOCALIZATION NOTE (bottomLinks.privacy): This is a link title that links to http://www.mozilla.com/legal/privacy/. -->
+<!ENTITY bottomLinks.privacy        "Personvern">
+
+<!-- LOCALIZATION NOTE (update.checkingForUpdates): try to make the localized text short (see bug 596813 for screenshots). -->
+<!ENTITY update.checkingForUpdates  "Søker etter oppdateringer …">
+<!-- LOCALIZATION NOTE (update.checkingAddonCompat): try to make the localized text short (see bug 596813 for screenshots). -->
+<!ENTITY update.checkingAddonCompat "Kontrollerer kompatibilitet av utvidelser …">
+<!-- LOCALIZATION NOTE (update.noUpdatesFound): try to make the localized text short (see bug 596813 for screenshots). -->
+<!ENTITY update.noUpdatesFound      "&brandShortName; er oppdatert">
+<!-- LOCALIZATION NOTE (update.adminDisabled): try to make the localized text short (see bug 596813 for screenshots). -->
+<!ENTITY update.adminDisabled       "Oppdateringer av avslått av systemansvarlig">
+
+<!-- LOCALIZATION NOTE (update.failed.start,update.failed.linkText,update.failed.end):
+     update.failed.start, update.failed.linkText, and update.failed.end all go into
+     one line with linkText being wrapped in an anchor that links to a site to download
+     the latest version of Firefox (e.g. http://www.firefox.com). As this is all in
+     one line, try to make the localized text short (see bug 596813 for screenshots). -->
+<!ENTITY update.failed.start        "Oppdatering feilet. ">
+<!ENTITY update.failed.linkText     "Last ned den nyeste versjonen">
+<!ENTITY update.failed.end          "">
+
+<!-- LOCALIZATION NOTE (update.manual.start,update.manual.end): update.manual.start and update.manual.end
+     all go into one line and have an anchor in between with text that is the same as the link to a site
+     to download the latest version of Firefox (e.g. http://www.firefox.com). As this is all in one line,
+     try to make the localized text short (see bug 596813 for screenshots). -->
+<!ENTITY update.manual.start        "Last ned den ">
+<!ENTITY update.manual.linkText     "nyeste versjonen">
+<!ENTITY update.manual.end          "">
+
+<!-- LOCALIZATION NOTE (update.downloading.start,update.downloading.end): update.downloading.start and 
+     update.downloading.end all go into one line, with the amount downloaded inserted in between. As this
+     is all in one line, try to make the localized text short (see bug 596813 for screenshots). The — is
+     the "em dash" (long dash).
+     example: Downloading update — 111 KB of 13 MB -->
+<!ENTITY update.downloading.start   "Laster ned oppdatering — ">
+<!ENTITY update.downloading.end     "">
+
+<!-- LOCALIZATION NOTE (channel.description.start,channel.description.end): channel.description.start and
+     channel.description.end create one sentence, with the current channel label inserted in between.
+     example: You are currently on the _Stable_ update channel. -->
+<!ENTITY channel.description.start  "Du bruker nå oppdateringskanalen ">
+<!ENTITY channel.description.end    ". ">
+
+<!ENTITY channel.change             "Endre">
+
+<!ENTITY channel.release.description       "Bruk utprøvde og testede utgivelser som benyttes av flere hundre millioner brukere over hele verden. Hold kontrollen på nettopplevelsen din med super hastighet, enkle tilpasningsmuligheter og det nyeste av webteknologier.">
+<!ENTITY channel.beta.description          "Opplev de aller nyeste funksjonene med mer stabilitet. Gi tilbakemeldinger for å være med å ferdigstille det som blir med i den endelige utgivelsen.">
+<!ENTITY channel.aurora.description        "Opplev nyskapning i et ustabilt miljø som ikke er for de lettskremte. Gi tilbakemelding på funksjoner og ytelse for å bidra til avgjørelsen om hva som blir med i den endelige utgivelsen.">
+
+<!-- LOCALIZATION NOTE (channel.selector.start,channel.selector.end): channel.selector.start and
+     channel.selector.end create one sentence, with a channel selection menulist instered in between.
+     This is all in one line, so try to make the localized text short.
+     example: Switch to the [Stable] update channel. -->
+<!ENTITY channel.selector.start          "Bytt til oppdateringskanalen">
+<!ENTITY channel.selector.end            ".">
+
+<!-- LOCALIZATION NOTE (channel.selector.applyButton): This button applies the user's choice to switch
+     to a new update channel and starts the application update process. -->
+<!ENTITY channel.selector.applyButton    "Bruk og oppdater">
+<!ENTITY channel.selector.cancelButton   "Avbryt">
 
 <!ENTITY cmdCloseMac.commandKey "w">

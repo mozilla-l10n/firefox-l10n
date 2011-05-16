@@ -10,42 +10,46 @@
 <!ENTITY password.accesskey              "P">
 <!ENTITY password.placeholder            "Passord">
 <!ENTITY password.text                   "Valgfritt, brukes bare for å kontrollere brukernavnet">
+<!ENTITY rememberPassword.label          "Husk passord">
+<!ENTITY rememberPassword.accesskey      "H">
 
-<!ENTITY accountInformation.label        "Kontoinformasjon">
-<!ENTITY username2.label                 "Brukernavn:">
+<!ENTITY imapLong.label                  "IMAP (mapper på tjeneren)">
+<!ENTITY pop3Long.label                  "POP3 (e-post lagres på datamaskinen din)">
+
 <!ENTITY incoming.label                  "Innkommende:">
 <!ENTITY outgoing.label                  "Utgående:">
+<!ENTITY username.label                  "Brukernavn:">
+<!ENTITY hostname.label                  "Tjenernavn">
+<!ENTITY port.label                      "Port">
+<!ENTITY ssl.label                       "SSL">
+<!ENTITY auth.label                      "Autentisering">
+<!ENTITY imap.label                      "IMAP">
+<!ENTITY pop3.label                       "POP3">
+<!ENTITY smtp.label                      "SMTP">
+<!ENTITY autodetect.label                "Oppdag automatisk">
+<!-- LOCALIZATION NOTE(noEncryption.label): Neither SSL/TLS nor STARTTLS.
+     Transmission of emails in cleartext over the Internet. -->
 <!ENTITY noEncryption.label              "Ingen">
 <!ENTITY starttls.label                  "STARTTLS">
 <!ENTITY sslTls.label                    "SSL/TLS">
 
-<!ENTITY imap.label                      "IMAP">
-<!ENTITY pop.label                       "POP">
-<!ENTITY smtp.label                      "SMTP">
-<!ENTITY imap.description                "IMAP - Få tilgang til mapper og meldinger fra flere datamaskiner">
-<!ENTITY pop.description                 "POP - Last ned alle meldinger til denne datamaskinen, slik at mapper lagres bare lokalt">
-<!ENTITY recommended-appendix.label      "(anbefalt)">
-
-<!ENTITY manualSetup.label               "Manuelle innstillinger …">
-<!ENTITY manualSetup.accesskey           "M">
+<!ENTITY advancedSetup.label             "Avanserte innstillinger">
+<!ENTITY advancedSetup.accesskey         "v">
 <!ENTITY cancel.label                    "Avbryt">
 <!ENTITY cancel.accesskey                "A">
 <!ENTITY continue.label                  "Fortsett">
 <!ENTITY continue.accesskey              "F">
-<!ENTITY startOver.label                 "Start på nytt">
-<!ENTITY startOver.accesskey             "t">
 <!ENTITY stop.label                      "Stopp">
 <!ENTITY stop.accesskey                  "S">
-<!-- LOCALIZATION NOTE (retest.label): This is the text that is
-     displayed on the button which will re-guess the account configuration,
-     taking into account the settings the user has changed. -->
-<!ENTITY retest.label                    "Test konfigurasjonen">
-<!ENTITY retest.accesskey                "T">
-<!ENTITY edit.label                      "Rediger">
-<!ENTITY edit.accesskey                  "R">
+<!-- LOCALIZATION NOTE (half-manual-test.label): This is the text that is
+     displayed on the button in manual edit mode which will re-guess
+     the account configuration, taking into account the settings that
+     the user has manually changed. -->
+<!ENTITY half-manual-test.label          "Test på nytt">
+<!ENTITY half-manual-test.accesskey      "T">
+<!ENTITY manual-edit.label               "Manuelle innstillinger">
+<!ENTITY manual-edit.accesskey           "M">
 
-<!ENTITY rememberPassword.label          "Husk passord">
-<!ENTITY rememberPassword.accesskey      "H">
 
 <!ENTITY warning.label                   "Advarsel!">
 <!ENTITY incomingSettings.label          "Innkommende innstillinger:">

@@ -84,8 +84,12 @@
 <!ENTITY cspFrameAncestorBlocked.title "Blokkert av sikkerhetsregel">
 <!ENTITY cspFrameAncestorBlocked.longDesc "<p>Nettleseren forhindret denne siden fra å lastes inn på denne måten, fordi nettsiden har en sikkerhetsregel som forbyr det.</p>">
 
+<!ENTITY remoteXUL.title "Remote XUL">
+<!ENTITY remoteXUL.longDesc "<p><ul><li>Kontakt nettstedseierne og informer dem om dette problemet.</li></ul></p>">
+
 <!-- Include app-specific error messages - do not change this in localization!
      Some applications might override netErrorApp.dtd with their specific version,
-     this inclusion needs to be intact for that approach to work correctly. -->
+     this inclusion needs to be intact for that approach to work correctly.
+     Please, try to keep this at the end of the file. -->
 <!ENTITY % netErrorAppDTD SYSTEM "chrome://global/locale/netErrorApp.dtd">
 %netErrorAppDTD;
