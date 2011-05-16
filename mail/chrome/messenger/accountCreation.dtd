@@ -19,21 +19,21 @@
 <!ENTITY incoming.label                  "Entrada:">
 <!ENTITY outgoing.label                  "Sortida:">
 <!ENTITY username.label                  "Num d'utilisader:">
-<!ENTITY hostname.label                  "Num dal host dal server">
+<!ENTITY hostname.label                  "Num da host dal server">
 <!ENTITY port.label                      "Port">
 <!ENTITY ssl.label                       "SSL">
-<!ENTITY auth.label                      "autentificaziun">
+<!ENTITY auth.label                      "Autentificaziun">
 <!ENTITY imap.label                      "IMAP">
 <!ENTITY pop3.label                      "POP3">
 <!ENTITY smtp.label                      "SMTP">
-<!ENTITY autodetect.label                "Detecziun automatica">
+<!ENTITY autodetect.label                "Determinaziun automatica">
 <!-- LOCALIZATION NOTE(noEncryption.label): Neither SSL/TLS nor STARTTLS.
      Transmission of emails in cleartext over the Internet. -->
 <!ENTITY noEncryption.label              "Nagina">
 <!ENTITY starttls.label                  "STARTTLS">
 <!ENTITY sslTls.label                    "SSL/TLS">
 
-<!ENTITY advancedSetup.label             "Configuraziun extendida">
+<!ENTITY advancedSetup.label             "Configuraziun avanzada">
 <!ENTITY advancedSetup.accesskey         "C">
 <!ENTITY cancel.label                    "Interrumper">
 <!ENTITY cancel.accesskey                "I">
