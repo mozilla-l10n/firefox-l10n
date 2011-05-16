@@ -7,8 +7,21 @@
 <!ENTITY newFolderCmd.accesskey "M">
 <!ENTITY closeTabCmd.label "Ljepblêd slute">
 <!ENTITY closeTabCmd.accesskey "e">
-<!ENTITY closeOtherTabsCmd.label "Slút oare ljepblêden">
-<!ENTITY closeOtherTabsCmd.accesskey "l">
+<!ENTITY closeOtherTabsCmd2.label "Oare ljepblêden slute">
+<!ENTITY closeOtherTabsCmd2.accesskey "l">
+<!-- LOCALIZATION NOTE (undoCloseTabCmd.label):
+      Menu option to attempt to re-open a recently closed tab.
+      -->
+<!ENTITY recentlyClosedTabsCmd.label "Koartlyn sluten ljepblêden">
+<!ENTITY recentlyClosedTabsCmd.accesskey "K">
+
+<!ENTITY undoCloseTabCmd.commandkey "T">
+<!-- LOCALIZATION NOTE (moveToNewWindow.label):
+     Menu option to cause the current tab to be migrated to a new Thunderbird
+     window.
+     -->
+<!ENTITY moveToNewWindow.label "Ferpleatse nei nij finster">
+<!ENTITY moveToNewWindow.accesskey "F">
 <!ENTITY newVirtualFolderCmd.label "Bewarre sykopdracht…">
 <!ENTITY newVirtualFolderCmd.accesskey "s">
 <!ENTITY newOtherAccountsCmd.label "Oare accounts…">
@@ -79,8 +92,6 @@
 <!ENTITY deleteMsgsCmd.accesskey "b">
 <!ENTITY undeleteMsgsCmd.label "Fuortsmite selektearre berjochten ûngedien meitsje">
 <!ENTITY undeleteMsgsCmd.accesskey "F">
-<!ENTITY deleteFolderCmd.label "Map fuortsmite">
-<!ENTITY deleteFolderCmd.accesskey "M">
 <!ENTITY unsubscribeNewsgroupCmd.label "Abonnemint opsizze">
 <!ENTITY unsubscribeNewsgroupCmd.accesskey "A">
 <!ENTITY selectMenu.label "Selektearje">
@@ -218,13 +229,13 @@
 <!ENTITY bodyAsPlaintext.label "Platte tekst">
 <!ENTITY bodyAsPlaintext.accesskey "P">
 
-<!ENTITY bodyMenuFeed.label "Feedberjocht as">
+<!ENTITY bodyMenuFeed.label "Feedberjochtopmaak as">
 <!ENTITY bodyMenuFeed.accesskey "b">
 <!ENTITY viewFeedWebPage.label "Webside">
 <!ENTITY viewFeedWebPage.accesskey "W">
 <!ENTITY viewFeedSummary.label "Gearfetting">
 <!ENTITY viewFeedSummary.accesskey "G">
-<!ENTITY viewFeedSummaryFeedPropsPref.label "Standert formaat">
+<!ENTITY viewFeedSummaryFeedPropsPref.label "Standertformaat">
 <!ENTITY viewFeedSummaryFeedPropsPref.accesskey "S">
 
 <!ENTITY viewAttachmentsInlineCmd.label "Bylagen yn berjocht werjaan">
@@ -254,7 +265,7 @@ you can use these alternative items. Otherwise, their values should be empty.  -
 
 <!ENTITY fullZoomToggleCmd.label        "Alinnich tekst zoome">
 <!ENTITY fullZoomToggleCmd.accesskey    "A">
-<!ENTITY fullZoom.label                 "Zoom">
+<!ENTITY fullZoom.label                 "Zoome">
 <!ENTITY fullZoom.accesskey             "Z">
 
 <!ENTITY pageSourceCmd.label "Berjochtboarne">
@@ -315,6 +326,7 @@ you can use these alternative items. Otherwise, their values should be empty.  -
 <!ENTITY folderMenu.accesskey "a">
 <!ENTITY thisFolder.label "Dizze map">
 <!ENTITY thisFolder.accesskey "m">
+<!ENTITY goRecentlyClosedTabs.label "Koartlyn sluten ljepblêden">
 <!ENTITY startPageCmd.label "E-mail-startside">
 <!ENTITY startPageCmd.accesskey "s">
 
@@ -328,6 +340,8 @@ you can use these alternative items. Otherwise, their values should be empty.  -
 <!ENTITY archiveMsgCmd.label "Argivearje">
 <!ENTITY archiveMsgCmd.accesskey "A">
 <!ENTITY archiveMsgCmd.key  "a">
+<!ENTITY cancelNewsMsgCmd.label "Berjocht annulearje">
+<!ENTITY cancelNewsMsgCmd.accesskey "n">
 <!ENTITY replyMsgCmd.label "Beantwurdzje">
 <!ENTITY replyMsgCmd.accesskey "a">
 <!ENTITY replyMsgCmd.key "r">
@@ -398,7 +412,6 @@ you can use these alternative items. Otherwise, their values should be empty.  -
 <!ENTITY markAsReadCmd.key "m">
 <!ENTITY markAsUnreadCmd.label "As net lêzen">
 <!ENTITY markAsUnreadCmd.accesskey "n">
-<!ENTITY markAsUnreadCmd.key "m">
 <!ENTITY markThreadAsReadCmd.label "Petear as lêzen">
 <!ENTITY markThreadAsReadCmd.accesskey "P">
 <!ENTITY markThreadAsReadCmd.key "r">
@@ -639,6 +652,10 @@ you can use these alternative items. Otherwise, their values should be empty.  -
 <!-- Thread Pane Context Menu -->
 <!ENTITY contextOpenNewWindow.label "Berjocht iepenje yn nij finster">
 <!ENTITY contextOpenNewWindow.accesskey "f">
+<!-- The key potentially conflicts with cutCmd.accessKey which is defined in
+     textcontext.dtd from toolkit. Right now, both menu items can't be visible
+     at the same time, but should someone enable copy/paste of message, this key
+     would probably need to be changed. -->
 <!ENTITY contextOpenNewTab.label "Berjocht iepenje yn nij ljepblêd">
 <!ENTITY contextOpenNewTab.accesskey "l">
 <!ENTITY contextOpenConversation.label "Berjocht iepenje yn Petear">
@@ -801,19 +818,15 @@ you can use these alternative items. Otherwise, their values should be empty.  -
 <!ENTITY reportPhishingURL.label "E-mailscam rapportearje">
 <!ENTITY reportPhishingURL.accesskey "o">
 
+<!-- Spell checker context menu items -->
+<!ENTITY spellAddDictionaries.label "Wurdboeken tafoegje…">
+<!ENTITY spellAddDictionaries.accesskey "t">
+
 <!-- Content Pane Context Menu -->
 <!ENTITY saveLinkAsCmd.label "Keppelingsdoel bewarje as…">
 <!ENTITY saveLinkAsCmd.accesskey "d">
 <!ENTITY saveImageAsCmd.label "Ofbylding bewarje as…">
 <!ENTITY saveImageAsCmd.accesskey "b">
-<!ENTITY cutCmd.label "Knippe">
-<!ENTITY cutCmd.accesskey "n">
-<!ENTITY copyCmd.label "Kopiearje">
-<!ENTITY copyCmd.accesskey "K">
-<!ENTITY pasteCmd.label "Plakke">
-<!ENTITY pasteCmd.accesskey "P">
-<!ENTITY selectAllCmd.label "Alles selektearje">
-<!ENTITY selectAllCmd.accesskey "A">
 <!ENTITY copyLinkCmd.label "Keppelingslokaasje kopiearje">
 <!ENTITY copyLinkCmd.accesskey "k">
 <!ENTITY copyImageAllCmd.label "Ofbylding kopiearje">
