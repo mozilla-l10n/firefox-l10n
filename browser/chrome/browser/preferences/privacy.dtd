@@ -1,3 +1,7 @@
+<!ENTITY tracking.label "Rastreo">
+<!ENTITY doNotTrack.label "Decir a los sitios web que no quiero ser rastreado">
+<!ENTITY doNotTrack.accesskey "d">
+
 <!ENTITY  history.label                 "Historial">
 
 <!ENTITY  locationBar.label             "Barra de direcciones">
@@ -101,4 +105,3 @@
 
 <!ENTITY  clearOnCloseSettings.label     "Configuraciones…">
 <!ENTITY  clearOnCloseSettings.accesskey "C">
-
