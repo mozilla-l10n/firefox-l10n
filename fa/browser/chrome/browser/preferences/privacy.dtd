@@ -1,3 +1,8 @@
+<!ENTITY tracking.label                 "ره‌گیری">
+
+<!ENTITY doNotTrack.label "درخواست از وب‌گاه‌ها برای عدم ره‌گیری فعالیت‌های من">
+<!ENTITY doNotTrack.accesskey "ع">
+
 <!ENTITY  history.label                 "تاریخچه">
 
 <!ENTITY  locationBar.label             "نوار مکان">
