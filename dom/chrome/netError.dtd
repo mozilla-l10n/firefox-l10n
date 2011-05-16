@@ -79,6 +79,9 @@
 <!ENTITY cspFrameAncestorBlocked.title "بازداشته شده بنا بر سیاست امنیتی محتوا">
 <!ENTITY cspFrameAncestorBlocked.longDesc "<p>مرورگر از بارگیری این صفحه به این شیوه جلوگیری کرد، زیرا این صفحه دارای یک سیاست امنیتی است که این کار در تضاد با آن قرار دارد.</p>">
 
+<!ENTITY remoteXUL.title "XUL راه دور">
+<!ENTITY remoteXUL.longDesc "<p><ul><li>لطفاً با صاحب این وب‌گاه تماس بگیرید و آنها را در جریان این مشکل قرار دهید.</li></ul></p>">
+
 <!-- Include app-specific error messages - do not change this in localization!
      Some applications might override netErrorApp.dtd with their specific version,
      this inclusion needs to be intact for that approach to work correctly. -->
