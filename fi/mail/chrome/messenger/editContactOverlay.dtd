@@ -15,3 +15,5 @@
 
 <!ENTITY editContactPanelDone.label "Valmis">
 <!ENTITY editContactPanelDone.accesskey "V">
+
+<!ENTITY contactMoveDisabledWarning.description "Osoitekirjaa ei voi vaihtaa, koska yhteystieto on postituslistalla.">

@@ -7,8 +7,10 @@
 <!ENTITY helpMenuWin.accesskey "O">
 <!ENTITY helpTroubleshootingInfo.label      "Tietoja ongelmatilanteisiin">
 <!ENTITY helpTroubleshootingInfo.accesskey  "T">
-<!ENTITY releaseCmd.label "Julkaisutiedot">
-<!ENTITY releaseCmd.accesskey "J">
+<!ENTITY helpSafeMode.label     "Käynnistä uudelleen lisäosat pois päältä…">
+<!ENTITY helpSafeMode.accesskey "K">
+<!ENTITY releaseCmd2.label "Julkaisutiedot">
+<!ENTITY releaseCmd2.accesskey "J">
 <!ENTITY whatsNewCmd.label "Mitä uutta">
 <!ENTITY whatsNewCmd.accesskey "M">
 <!ENTITY featureConfiguratorCmd.label "Siirtymisavut">
@@ -20,6 +22,5 @@
 <!ENTITY openHelpMac2.commandkey   "?">
 <!ENTITY openHelpMac2.modifiers    "accel">
 
-<!ENTITY updateCmd.label "Hae päivityksiä…">
 <!ENTITY aboutMenuCmd.label "Tietoja &brandShortName;istä">
 <!ENTITY aboutMenuCmd.accesskey "T">

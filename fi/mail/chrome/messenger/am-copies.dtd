@@ -21,22 +21,26 @@
 <!ENTITY sentFolderOn.accesskey  "ä">
 <!ENTITY sentInOtherFolder.label  "Muu:">
 <!ENTITY sentInOtherFolder.accesskey  "M">
+<!-- LOCALIZATION NOTE (archivesFolderOn.label): OK to translate this, bug #57440 -->
+<!ENTITY archivesTitle.label "Viestiarkistot">
+<!ENTITY keepArchives.label "Arkistoi viestit kansioon:">
+<!ENTITY keepArchives.accesskey "A">
+<!ENTITY archiveHierarchyButton.label "Arkistointiasetukset…">
+<!ENTITY archiveHierarchyButton.accesskey "A">
+<!ENTITY archivesFolderOn.label "&quot;Arkistokansio&quot;, tilillä:">
+<!ENTITY archivesFolderOn.accesskey "r">
+<!ENTITY archiveInOtherFolder.label "Muu:">
+<!ENTITY archiveInOtherFolder.accesskey "M">
+<!ENTITY specialFolders.label "Luonnokset ja mallipohjat ">
+<!ENTITY keepDrafts.label "Säilytä viestien luonnokset kansiossa:">
 <!-- LOCALIZATION NOTE (draftsFolderOn.label): OK to translate this, bug #57440 -->
 <!ENTITY draftsFolderOn.label  "Luonnokset, tilillä:">
 <!ENTITY draftsFolderOn.accesskey  "u">
 <!ENTITY draftInOtherFolder.label  "Muu:">
 <!ENTITY draftInOtherFolder.accesskey  "M">
-<!-- LOCALIZATION NOTE (archivesFolderOn.label): OK to translate this, bug #57440 -->
-<!ENTITY archivesFolderOn.label "&quot;Arkistokansio&quot;, tilillä:">
-<!ENTITY archivesFolderOn.accesskey "A">
-<!ENTITY archiveInOtherFolder.label "Muu:">
-<!ENTITY archiveInOtherFolder.accesskey "M">
+<!ENTITY keepTemplates.label "Säilytä viestien mallipohjat kansiossa:">
 <!-- LOCALIZATION NOTE (templatesFolderOn.label): OK to translate this, bug #57440 -->
-<!ENTITY templatesFolderOn.label  "Mallipohjat, tilillä:">
-<!ENTITY templatesFolderOn.accesskey  "a">
-<!ENTITY templateInOtherFolder.label  "Muu:">
-<!ENTITY templateInOtherFolder.accesskey  "M">
-<!ENTITY specialFoldersTitle.label  "Luonnokset, mallipohjat ja arkisto">
-<!ENTITY keepDrafts.label  "Säilytä viestien luonnokset kansiossa:">
-<!ENTITY keepArchives.label "Arkistoi viestit kansioon:">
-<!ENTITY keepTempltes.label  "Säilytä viestien mallipohjat kansiossa:">
+<!ENTITY templatesFolderOn.label "&quot;Mallipohjat&quot;, tilillä:">
+<!ENTITY templatesFolderOn.accesskey "a">
+<!ENTITY templateInOtherFolder.label "Muu:">
+<!ENTITY templateInOtherFolder.accesskey "M">

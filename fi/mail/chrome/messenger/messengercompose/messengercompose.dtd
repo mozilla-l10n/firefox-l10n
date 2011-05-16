@@ -193,12 +193,16 @@
 <!ENTITY quoteButton.tooltip  "Lainaa edellistä viestiä">
 <!ENTITY addressButton.tooltip  "Valitse vastaanottaja osoitekirjasta">
 <!ENTITY attachButton.tooltip  "Lisää liitetiedosto tähän viestiin">
+<!ENTITY spellingButton.tooltip "Oikolue valinta tai koko viesti">
 <!ENTITY saveButton.tooltip  "Tallenna tämä viesti">
 <!ENTITY cutButton.tooltip               "Leikkaa">
 <!ENTITY copyButton.tooltip              "Kopioi">
 <!ENTITY pasteButton.tooltip             "Liitä">
 
 <!-- Headers -->
+<!--LOCALIZATION NOTE headersSpace.style is for aligning  the From:, To: and
+    Subject: rows. It should be larger than the largest Header label  -->
+<!ENTITY headersSpace.style "width: 12em;">
 <!ENTITY fromAddr.label  "Lähettäjä:">
 <!ENTITY fromAddr.accesskey  "h">
 <!ENTITY toAddr.label  "Vastaanottaja:">
@@ -263,6 +267,10 @@
 <!ENTITY attachFile.accesskey  "L">
 <!ENTITY attachPage.label  "Liitä verkkosivu">
 <!ENTITY attachPage.accesskey  "t">
+
+<!-- Spell checker context menu items -->
+<!ENTITY spellAddDictionaries.label "Hae sanastoja…">
+<!ENTITY spellAddDictionaries.accesskey "H">
 
 <!-- Title for the address picker panel -->
 <!ENTITY addressesSidebarTitle.label  "Yhteystiedot">
