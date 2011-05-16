@@ -193,12 +193,16 @@
 <!ENTITY quoteButton.tooltip "Siter forrige melding">
 <!ENTITY addressButton.tooltip "Velg mottaker fra en adressebok">
 <!ENTITY attachButton.tooltip "Ta med vedlegg">
+<!ENTITY spellingButton.tooltip "Kontroller staving av merket tekst eller hele meldingen">
 <!ENTITY saveButton.tooltip "Lagre meldingen">
 <!ENTITY cutButton.tooltip              "Klipp ut">
 <!ENTITY copyButton.tooltip             "Kopier">
 <!ENTITY pasteButton.tooltip            "Lim inn">
 
 <!-- Headers -->
+<!--LOCALIZATION NOTE headersSpace.style is for aligning  the From:, To: and
+    Subject: rows. It should be larger than the largest Header label  -->
+<!ENTITY headersSpace.style "width: 9em;">
 <!ENTITY fromAddr.label "Fra:">
 <!ENTITY fromAddr.accesskey "a">
 <!ENTITY toAddr.label "Til:">
@@ -209,7 +213,8 @@
 <!ENTITY followupAddr.label "Oppfølging til:">
 <!ENTITY subject.label "Emne:">
 <!ENTITY subject.accesskey "m">
-<!ENTITY attachments.label "Vedlegg:">
+<!-- LOCALIZATION NOTE attachments.accesskey This access key should correspond
+     to the strings in attachmentCount in composeMsgs.properties -->
 <!ENTITY attachments.accesskey "d">
 
 <!-- Format Toolbar, imported from editorAppShell.xul -->
@@ -262,6 +267,10 @@
 <!ENTITY attachFile.accesskey "L">
 <!ENTITY attachPage.label "Legg ved nettside …">
 <!ENTITY attachPage.accesskey "L">
+
+<!-- Spell checker context menu items -->
+<!ENTITY spellAddDictionaries.label "Legg til ordbøker …">
+<!ENTITY spellAddDictionaries.accesskey "L">
 
 <!-- Title for the address picker panel -->
 <!ENTITY addressesSidebarTitle.label "Kontakter">
