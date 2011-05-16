@@ -115,8 +115,5 @@
 <!ENTITY overrideSmartCacheSize.label    "स्वचालित कैश प्रबंधन को अधिरोहित करें">
 <!ENTITY overrideSmartCacheSize.accesskey "O">
 
-<!ENTITY doNotTrack.label                "उन वेबसाइटों के बारे में बताएँ जिसमें मैं ट्रैक किया जाना नहीं चाहता हूँ">
-<!ENTITY doNotTrack.accesskey            "d">
-
 <!ENTITY submitCrashes.label             "क्रैश रिपोर्ट सुपुर्द करें">
 <!ENTITY submitCrashes.accesskey         "S">

@@ -10,6 +10,16 @@
 <!ENTITY  locbar.bookmarks.label        "पुस्तचिह्न">
 <!ENTITY  locbar.nothing.label          "कुछ नहीं">
 
+<!ENTITY tracking.label                 "Tracking">
+
+<!ENTITY doNotTrack.label               "Tell web sites I do not want to be tracked">
+<!ENTITY doNotTrack.accesskey           "d">
+
+
+<!ENTITY doNotTrack.label               "Tell web sites I do not want to be tracked">
+<!ENTITY doNotTrack.accesskey           "d">
+
+
 
 <!ENTITY  acceptCookies.label           "साइटों से कुकीज़ स्वीकारें">
 <!ENTITY  acceptCookies.accesskey       "A">
