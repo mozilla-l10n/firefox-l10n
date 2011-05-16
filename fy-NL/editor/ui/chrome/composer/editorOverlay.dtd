@@ -45,9 +45,6 @@
 <!-- File menu items -->
 <!ENTITY fileMenu.label "Bestân">
 <!ENTITY fileMenu.accesskey "B">
-<!ENTITY newBlankPageCmd.label "Composer-side">
-<!ENTITY newBlankPageCmd.accesskey "p">
-<!ENTITY newMenu.label "Nij">
 <!ENTITY openFileCmd.label "Bestân iepenje…">
 <!ENTITY openFileCmd.accesskey "i">
 <!ENTITY openFileCmd.key "O">
@@ -393,6 +390,7 @@
 <!-- Toolbar-only items -->
 <!ENTITY menuBar.tooltip "Menubalke">
 <!ENTITY formatToolbar.tooltip "Opmaakarkbalke">
+<!ENTITY newToolbarCmd.label "Nij">
 <!ENTITY newToolbarCmd.tooltip "In nije Composer-side oanmeitsje">
 <!ENTITY openToolbarCmd.label "Iepenje">
 <!ENTITY openToolbarCmd.tooltip "In lokaal bestân iepenje">
@@ -431,10 +429,10 @@
 <!ENTITY indentToolbarCmd.tooltip "Ynspringen fergrutsje">
 <!ENTITY AlignPopupButton.tooltip "Tekstútlyning kieze">
 <!ENTITY InsertPopupButton.tooltip "In keppeling, ankerferwizing, ôfbylding, horizontale line of tabel ynfoegje">
-<!ENTITY alignLeftButton.tooltip "Tekst by de linkermarge lâns">
+<!ENTITY alignLeftButton.tooltip "Tekst by de linkermarzje útlynje">
 <!ENTITY alignCenterButton.tooltip "Tekst útlynje yn it midden">
-<!ENTITY alignRightButton.tooltip "Tekst by de rjochtermarge lâns">
-<!ENTITY alignjustifyButton.tooltip "Tekst by de linker- en rjochtermarge lâns">
+<!ENTITY alignRightButton.tooltip "Tekst by de rjochtermarzje útlynje">
+<!ENTITY alignJustifyButton.tooltip "Tekst by de linker- en rjochtermarzje útlynje">
 
 <!-- Structure Toolbar Context Menu items -->
 <!ENTITY structSelect.label         "Selektearje">
