@@ -72,11 +72,11 @@
 <!ENTITY phishingBlocked.longDesc "<p>Sche ti endateschas qua datas persunalas, stos ti far quint cun ladernitsch d'identitad u autras furmas d'engion.</p> 
 <p>Questas furmas da falsificaziun en il web vegnan utilisadas per emprovas d'engion ch'ins numna &quot;attatgas da phishing&quot;. Criminals cun l'intenziun d'engianar emprovan uschia d'imitar paginas d'internet u e-mails che inspiran confidenza.</p>">
 
-<!ENTITY cspFrameAncestorBlocked.title "Bloccà da las directivas per la segirtad dal cuntegn">
-<!ENTITY cspFrameAncestorBlocked.longDesc "<p>Il navigatur ha impedì che questa pagina da chargia en questa moda perquai che la pagina cuntegna directivas per la segirtad dal cuntegn (content security policy) che scumondan quai.</p>">
+<!ENTITY cspFrameAncestorBlocked.title "Bloccà da las directivas per la segirezza dal cuntegn">
+<!ENTITY cspFrameAncestorBlocked.longDesc "<p>Il navigatur ha impedì che questa pagina da chargia en tala maniera perquai che la pagina cuntegna directivas per la segirezza dal cuntegn (content security policy) che scumondan quai.</p>">
 
 <!ENTITY remoteXUL.title "Remote-XUL">
-<!ENTITY remoteXUL.longDesc "<p><ul><li>Infurmescha per plaschair il possesur da questa website davart quest problem.</li></ul></p>">
+<!ENTITY remoteXUL.longDesc "<p><ul><li>Infurmescha per plaschair il possesur da la website davart quest problem.</li></ul></p>">
 
 <!-- Include app-specific error messages - do not change this in localization!
      Some applications might override netErrorApp.dtd with their specific version,
