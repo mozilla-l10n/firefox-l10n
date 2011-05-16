@@ -193,12 +193,16 @@
 <!ENTITY quoteButton.tooltip "It foarige berjocht sitearje">
 <!ENTITY addressButton.tooltip "Immen út in adresboek selektearje">
 <!ENTITY attachButton.tooltip "In bylage keppelje">
+<!ENTITY spellingButton.tooltip "Kontrolearje stavering fan seleksje of folsleine berjocht">
 <!ENTITY saveButton.tooltip "Dit berjocht bewarje">
 <!ENTITY cutButton.tooltip "Knippe">
 <!ENTITY copyButton.tooltip "Kopiearje">
 <!ENTITY pasteButton.tooltip "Plakke">
 
 <!-- Headers -->
+<!--LOCALIZATION NOTE headersSpace.style is for aligning  the From:, To: and
+    Subject: rows. It should be larger than the largest Header label  -->
+<!ENTITY headersSpace.style "width: 9em;">
 <!ENTITY fromAddr.label "Fan:">
 <!ENTITY fromAddr.accesskey "F">
 <!ENTITY toAddr.label "Oan:">
@@ -261,6 +265,10 @@
 <!ENTITY attachFile.accesskey "B">
 <!ENTITY attachPage.label "Webside keppelje…">
 <!ENTITY attachPage.accesskey "W">
+
+<!-- Spell checker context menu items -->
+<!ENTITY spellAddDictionaries.label "Wurdboeken tafoegje…">
+<!ENTITY spellAddDictionaries.accesskey "t">
 
 <!-- Title for the address picker panel -->
 <!ENTITY addressesSidebarTitle.label "Adresboek">

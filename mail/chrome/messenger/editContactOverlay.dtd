@@ -15,3 +15,5 @@
 
 <!ENTITY editContactPanelDone.label "Klear">
 <!ENTITY editContactPanelDone.accesskey "K">
+
+<!ENTITY contactMoveDisabledWarning.description "Jo kinne it adresboek net wizigje, omdat it kontakt yn in mailinglist sit.">
