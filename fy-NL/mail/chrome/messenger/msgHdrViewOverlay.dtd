@@ -99,12 +99,15 @@
 <!ENTITY otherActionsPrint.label "ôfdrukke…">
 <!ENTITY otherActionsPrint.accesskey "d">
 
+<!-- Attachment context menu items -->
 <!ENTITY openAttachmentCmd.label "Iepenje">
 <!ENTITY openAttachmentCmd.accesskey "I">
 <!ENTITY saveAsAttachmentCmd.label "Bewarje as…">
 <!ENTITY saveAsAttachmentCmd.accesskey "a">
 <!ENTITY detachAttachmentCmd.label "Untkeppelje…">
+<!ENTITY detachAttachmentCmd.accesskey    "U">
 <!ENTITY deleteAttachmentCmd.label "Fuortsmite">
+<!ENTITY deleteAttachmentCmd.accesskey    "F">
 <!ENTITY openAllAttachmentsCmd.label    "Iepenje alle…">
 <!ENTITY openAllAttachmentsCmd.accesskey    "p">
 <!ENTITY saveAllAttachmentsCmd.label "Alles bewarje…">
@@ -113,6 +116,28 @@
 <!ENTITY detachAllAttachmentsCmd.accesskey "k">
 <!ENTITY deleteAllAttachmentsCmd.label "Alles fuortsmite…">
 <!ENTITY deleteAllAttachmentsCmd.accesskey "f">
+
+<!-- Attachment toolbar items -->
+<!ENTITY saveAttachmentButton.label       "bewarje">
+<!ENTITY saveAttachmentButton.tooltip     "bewarje it taheakke bestân">
+<!ENTITY saveAllAttachmentsButton.label   "bewarje alle">
+<!ENTITY saveAllAttachmentsButton.tooltip "bewarje alle taheakke bestannen">
+<!ENTITY openAttachmentMenuItem.label     "iepenje">
+<!ENTITY openAttachmentMenuItem.accesskey    "i">
+<!ENTITY saveAsAttachmentMenuItem.label    "bewarje as…">
+<!ENTITY saveAsAttachmentMenuItem.accesskey    "s">
+<!ENTITY detachAttachmentMenuItem.label    "ûntkeppelje…">
+<!ENTITY detachAttachmentMenuItem.accesskey    "k">
+<!ENTITY deleteAttachmentMenuItem.label    "fuortsmite">
+<!ENTITY deleteAttachmentMenuItem.accesskey    "e">
+<!ENTITY openAllAttachmentsMenuItem.label    "iepenje alle…">
+<!ENTITY openAllAttachmentsMenuItem.accesskey    "i">
+<!ENTITY saveAllAttachmentsMenuItem.label    "bewarje alle…">
+<!ENTITY saveAllAttachmentsMenuItem.accesskey    "b">
+<!ENTITY detachAllAttachmentsMenuItem.label    "ûntkeppelje alle…">
+<!ENTITY detachAllAttachmentsMenuItem.accesskey    "k">
+<!ENTITY deleteAllAttachmentsMenuItem.label    "alle fuortsmite…">
+<!ENTITY deleteAllAttachmentsMenuItem.accesskey    "e">
 
 <!ENTITY copyLinkCmd.label "Keppelingslokaasje kopiearje">
 <!ENTITY copyLinkCmd.accesskey "k">
