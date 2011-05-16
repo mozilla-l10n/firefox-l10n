@@ -99,12 +99,15 @@
 <!ENTITY otherActionsPrint.label "skriv ut …">
 <!ENTITY otherActionsPrint.accesskey "u">
 
+<!-- Attachment context menu items -->
 <!ENTITY openAttachmentCmd.label    "Åpne">
 <!ENTITY openAttachmentCmd.accesskey    "Å">
 <!ENTITY saveAsAttachmentCmd.label    "Lagre som …">
 <!ENTITY saveAsAttachmentCmd.accesskey    "s">
 <!ENTITY detachAttachmentCmd.label    "Fraskill …">
+<!ENTITY detachAttachmentCmd.accesskey    "F">
 <!ENTITY deleteAttachmentCmd.label    "Slett">
+<!ENTITY deleteAttachmentCmd.accesskey    "t">
 <!ENTITY openAllAttachmentsCmd.label    "Åpne alle …">
 <!ENTITY openAllAttachmentsCmd.accesskey    "n">
 <!ENTITY saveAllAttachmentsCmd.label    "Lagre alle …">
@@ -113,6 +116,28 @@
 <!ENTITY detachAllAttachmentsCmd.accesskey    "S">
 <!ENTITY deleteAllAttachmentsCmd.label    "Slett alle …">
 <!ENTITY deleteAllAttachmentsCmd.accesskey    "e">
+
+<!-- Attachment toolbar items -->
+<!ENTITY saveAttachmentButton.label       "lagre">
+<!ENTITY saveAttachmentButton.tooltip     "lagre vedlagte fil">
+<!ENTITY saveAllAttachmentsButton.label   "lagre alle">
+<!ENTITY saveAllAttachmentsButton.tooltip "lagre alle vedlagte filer">
+<!ENTITY openAttachmentMenuItem.label     "åpne">
+<!ENTITY openAttachmentMenuItem.accesskey    "å">
+<!ENTITY saveAsAttachmentMenuItem.label    "lagre som …">
+<!ENTITY saveAsAttachmentMenuItem.accesskey    "l">
+<!ENTITY detachAttachmentMenuItem.label    "fraskill …">
+<!ENTITY detachAttachmentMenuItem.accesskey    "f">
+<!ENTITY deleteAttachmentMenuItem.label    "slett">
+<!ENTITY deleteAttachmentMenuItem.accesskey    "t">
+<!ENTITY openAllAttachmentsMenuItem.label    "åpne alle …">
+<!ENTITY openAllAttachmentsMenuItem.accesskey    "n">
+<!ENTITY saveAllAttachmentsMenuItem.label    "lagre alle …">
+<!ENTITY saveAllAttachmentsMenuItem.accesskey    "l">
+<!ENTITY detachAllAttachmentsMenuItem.label    "fraskill alle …">
+<!ENTITY detachAllAttachmentsMenuItem.accesskey    "s">
+<!ENTITY deleteAllAttachmentsMenuItem.label    "slett alle …">
+<!ENTITY deleteAllAttachmentsMenuItem.accesskey    "e">
 
 <!ENTITY copyLinkCmd.label        "Kopier lenkeadresse">
 <!ENTITY copyLinkCmd.accesskey    "K">

@@ -14,7 +14,7 @@
 <!ENTITY contribute.end             "">
 
 <!-- LOCALIZATION NOTE (bottomLinks.license): This is a link title that links to about:license. -->
-<!ENTITY bottomLinks.license        "Lisensinformasjon">
+<!ENTITY bottomLinks.license        "Lisensinfo">
 
 <!-- LOCALIZATION NOTE (bottomLinks.rights): This is a link title that links to about:rights. -->
 <!ENTITY bottomLinks.rights         "Rettigheter for sluttbrukere">
@@ -54,3 +54,27 @@
      example: Downloading update — 111 KB of 13 MB -->
 <!ENTITY update.downloading.start   "Laster ned oppdatering — ">
 <!ENTITY update.downloading.end     "">
+
+<!-- LOCALIZATION NOTE (channel.description.start,channel.description.end): channel.description.start and
+     channel.description.end create one sentence, with the current channel label inserted in between.
+     example: You are currently on the _Stable_ update channel. -->
+<!ENTITY channel.description.start  "Du bruker nå oppdateringskanalen ">
+<!ENTITY channel.description.end    ". ">
+
+<!ENTITY channel.change             "Endre">
+
+<!ENTITY channel.release.description       "Bruk utprøvde og testede utgivelser som benyttes av flere hundre millioner brukere over hele verden. Hold kontrollen på nettopplevelsen din med super hastighet, enkle tilpasningsmuligheter og det nyeste av webteknologier.">
+<!ENTITY channel.beta.description          "Opplev de aller nyeste funksjonene med mer stabilitet. Gi tilbakemeldinger for å være med å ferdigstille det som blir med i den endelige utgivelsen.">
+<!ENTITY channel.aurora.description        "Opplev nyskapning i et ustabilt miljø som ikke er for de lettskremte. Gi tilbakemelding på funksjoner og ytelse for å bidra til avgjørelsen om hva som blir med i den endelige utgivelsen.">
+
+<!-- LOCALIZATION NOTE (channel.selector.start,channel.selector.end): channel.selector.start and
+     channel.selector.end create one sentence, with a channel selection menulist instered in between.
+     This is all in one line, so try to make the localized text short.
+     example: Switch to the [Stable] update channel. -->
+<!ENTITY channel.selector.start          "Bytt til oppdateringskanalen">
+<!ENTITY channel.selector.end            ".">
+
+<!-- LOCALIZATION NOTE (channel.selector.applyButton): This button applies the user's choice to switch
+     to a new update channel and starts the application update process. -->
+<!ENTITY channel.selector.applyButton    "Bruk og oppdater">
+<!ENTITY channel.selector.cancelButton   "Avbryt">

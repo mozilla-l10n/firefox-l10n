@@ -1,14 +1,14 @@
 <!ENTITY aboutDialog.title          "Om &brandFullName;">
 
-<!ENTITY community.start2           "&brandShortName; er designet av ">
+<!ENTITY community.start2           "&brandShortName; er utviklet av ">
 <!-- LOCALIZATION NOTE (community.mozillaLink): This is a link title that links to http://www.mozilla.org/. -->
 <!ENTITY community.mozillaLink      "&vendorShortName;">
 <!ENTITY community.middle2          ", et ">
 <!-- LOCALIZATION NOTE (community.creditsLink): This is a link title that links to about:credits. -->
 <!ENTITY community.creditsLink      "globalt samfunn">
-<!ENTITY community.end2             " som jobber for å gjøre nettet bedre. Vi tror at Internett bør være åpent, allmennt, og tilgjengelig for alle uten noen begrensninger.">
+<!ENTITY community.end2             " som jobber for å gjøre Internet bedre. Vi synes at Internett bør være åpent, allmennt og tilgjengelig for alle, uten noen begrensninger.">
 
-<!ENTITY contribute.start           "Høres det spennende ut? ">
+<!ENTITY contribute.start           "Høres det interessant ut? ">
 <!-- LOCALIZATION NOTE (contribute.getInvolvedLink): This is a link title that links to http://www.mozilla.org/contribute/. -->
 <!ENTITY contribute.getInvolvedLink "Involver deg!">
 <!ENTITY contribute.end             "">
@@ -25,11 +25,11 @@
 <!-- LOCALIZATION NOTE (update.checkingForUpdates): try to make the localized text short (see bug 596813 for screenshots). -->
 <!ENTITY update.checkingForUpdates  "Søker etter oppdateringer …">
 <!-- LOCALIZATION NOTE (update.checkingAddonCompat): try to make the localized text short (see bug 596813 for screenshots). -->
-<!ENTITY update.checkingAddonCompat "Kontrollerer kompatibilitet av utvidelser …">
+<!ENTITY update.checkingAddonCompat "Kontroller kompatibilitet med utvidelser …">
 <!-- LOCALIZATION NOTE (update.noUpdatesFound): try to make the localized text short (see bug 596813 for screenshots). -->
 <!ENTITY update.noUpdatesFound      "&brandShortName; er oppdatert">
 <!-- LOCALIZATION NOTE (update.adminDisabled): try to make the localized text short (see bug 596813 for screenshots). -->
-<!ENTITY update.adminDisabled       "Oppdateringer av avslått av systemansvarlig">
+<!ENTITY update.adminDisabled       "Oppdateringer er avslått av systemansvarlig">
 
 <!-- LOCALIZATION NOTE (update.failed.start,update.failed.linkText,update.failed.end):
      update.failed.start, update.failed.linkText, and update.failed.end all go into
