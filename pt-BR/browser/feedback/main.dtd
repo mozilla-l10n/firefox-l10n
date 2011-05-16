@@ -3,7 +3,7 @@
 <!ENTITY testpilot.settings.dataSubmission.label    "Envio dos dados">
 <!ENTITY testpilot.settings.notifications.label     "Notificações">
 <!ENTITY testpilot.settings.notifyWhen.label        "Notificar quando:">
-<!ENTITY testpilot.settings.readyToSubmit.label     "Um estudo estiver pronto para o envio">
+<!ENTITY testpilot.settings.readyToSubmit.label     "Um estudo estiver pronto para envio">
 <!ENTITY testpilot.settings.newStudy.label          "Houver um novo estudo">
 <!ENTITY testpilot.settings.hasNewResults.label     "Um estudo tiver novos resultados">
 <!ENTITY testpilot.settings.alwaysSubmitData.label  "Enviar meus dados automaticamente (não perguntar)">
