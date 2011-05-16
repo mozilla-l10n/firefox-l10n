@@ -7,7 +7,7 @@
 <!ENTITY  focusSearch1.key            "f">
 <!ENTITY  focusSearch2.key            "k">
 
-<!ENTITY  filter.emptytext            "Klask">
+<!ENTITY  filter.placeholder          "Klask">
 
 <!ENTITY saveTo.label                 "Enrollañ ar restroù e">
 <!ENTITY saveTo.accesskey             "E">

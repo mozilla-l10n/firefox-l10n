@@ -47,10 +47,15 @@
  Make sure the translation of label corresponds to the order of id.
 -->
 
-<!ENTITY NameField1.id "FirstName">
-<!ENTITY NameField2.id "LastName">
-<!ENTITY PhoneticField1.id "PhoneticFirstName">
-<!ENTITY PhoneticField2.id "PhoneticLastName">
+<!-- LOCALIZATION NOTE (NameField1.id) : DONT_TRANSLATE -->
+<!ENTITY NameField1.id                  "FirstName">
+<!-- LOCALIZATION NOTE (NameField2.id) : DONT_TRANSLATE -->
+<!ENTITY NameField2.id                  "LastName">
+<!-- LOCALIZATION NOTE (PhoneticField1.id) : DONT_TRANSLATE -->
+<!ENTITY PhoneticField1.id              "PhoneticFirstName">
+<!-- LOCALIZATION NOTE (PhoneticField2.id) : DONT_TRANSLATE -->
+<!ENTITY PhoneticField2.id              "PhoneticLastName">
+
 <!ENTITY NameField1.label "Kentanv :">
 <!ENTITY NameField1.accesskey "K">
 <!ENTITY NameField2.label "Anv familh :">
@@ -59,6 +64,8 @@
 <!ENTITY PhoneticField2.label "Soniadel :">
 <!ENTITY DisplayName.label "Skrammañ :">
 <!ENTITY DisplayName.accesskey "r">
+<!ENTITY preferDisplayName.label        "Kentoc'h skrammañ an anvioù eget talbenn ar gemennadenn">
+<!ENTITY preferDisplayName.accesskey    "y">
 <!ENTITY NickName.label "Moranv :">
 <!ENTITY NickName.accesskey "M">
 
@@ -73,6 +80,7 @@
 <!ENTITY Unknown.label "Dianav">
 <!ENTITY ScreenName.label "Anv skramm :">
 <!ENTITY ScreenName.accesskey "S">
+
 <!ENTITY allowRemoteContent1.label      "Aotren an endalc'hadoù a-bell.">
 <!ENTITY allowRemoteContent1.accesskey  "r">
 <!ENTITY allowRemoteContent1.tooltip    "Er c'hemennadoù mod HTML ez eo posubl enframmañ endalc'had eus tarzhoù a-bell. An digor eus un hevelep kemennadenn a zigero ur c'hennask ouzh an tarzh a-bell-mañ. An dra-se a ro tro da gaout ur roud eus lennadenn ur gemennadenn. Mar kevaskit a log-mañ, e vo aotreet un hevelep endalc'had diavaez er c'hemennadoù mod HTML evit an darempred-mañ.">
@@ -107,9 +115,9 @@
 <!ENTITY Birthday.label                 "Deiz-ha-bloaz:">
 <!ENTITY Birthday.accesskey             "D">
 <!ENTITY In.label                       "">
-<!ENTITY Year.emptytext                 "Bloavezh">
+<!ENTITY Year.placeholder               "Bloavezh">
 <!ENTITY Or.value                       "pe">
-<!ENTITY Age.emptytext                  "Oad">
+<!ENTITY Age.placeholder                "Oad">
 <!ENTITY YearsOld.label                 "">
 
 <!ENTITY Work.tab "Labour">
@@ -160,6 +168,6 @@
 <!ENTITY BrowsePhoto.accesskey          "r">
 <!ENTITY PhotoURL.label                 "War ar gwiad">
 <!ENTITY PhotoURL.accesskey             "g">
-<!ENTITY PhotoURL.emptytext             "Pegit pe bizskrivit chomlec'h gwiad ul luc'hskeudenn">
+<!ENTITY PhotoURL.placeholder           "Pegit pe bizskrivit chomlec'h gwiad ul luc'hskeudenn">
 <!ENTITY UpdatePhoto.label              "Hizivaat">
 <!ENTITY UpdatePhoto.accesskey          "H">

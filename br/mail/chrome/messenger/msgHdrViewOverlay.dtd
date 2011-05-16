@@ -88,9 +88,9 @@
 <!ENTITY otherActionsOpenInNewWindow.accesskey "p">
 <!ENTITY otherActionsOpenInNewTab.label "digeriñ e-barzh un ivinell nevez">
 <!ENTITY otherActionsOpenInNewTab.accesskey "i">
-<!ENTITY markAsReadMenuItem.label "merkañ evel lennet">
+<!ENTITY markAsReadMenuItem.label "merkañ evel Lennet">
 <!ENTITY markAsReadMenuItem.accesskey "r">
-<!ENTITY markAsUnreadMenuItem.label "merkañ evel ket lennet">
+<!ENTITY markAsUnreadMenuItem.label "merkañ evel Ket lennet">
 <!ENTITY markAsUnreadMenuItem.accesskey "r">
 <!ENTITY saveAsMenuItem.label "enrollañ evel…">
 <!ENTITY saveAsMenuItem.accesskey "e">
@@ -99,18 +99,45 @@
 <!ENTITY otherActionsPrint.label "moullañ…">
 <!ENTITY otherActionsPrint.accesskey "m">
 
+<!-- Attachment context menu items -->
 <!ENTITY openAttachmentCmd.label "Digeriñ">
 <!ENTITY openAttachmentCmd.accesskey "d">
 <!ENTITY saveAsAttachmentCmd.label "Enrollañ evel…">
-<!ENTITY saveAsAttachmentCmd.accesskey "d">
+<!ENTITY saveAsAttachmentCmd.accesskey "n">
 <!ENTITY detachAttachmentCmd.label "Distagañ …">
+<!ENTITY detachAttachmentCmd.accesskey    "s">
 <!ENTITY deleteAttachmentCmd.label "Dilemel">
+<!ENTITY deleteAttachmentCmd.accesskey    "l">
+<!ENTITY openAllAttachmentsCmd.label    "Digeriñ pep tra…">
+<!ENTITY openAllAttachmentsCmd.accesskey    "g">
 <!ENTITY saveAllAttachmentsCmd.label "Enrollañ pep tra…">
 <!ENTITY saveAllAttachmentsCmd.accesskey "t">
 <!ENTITY detachAllAttachmentsCmd.label "Distagañ pep tra…">
 <!ENTITY detachAllAttachmentsCmd.accesskey "D">
 <!ENTITY deleteAllAttachmentsCmd.label "Dilemel pep tra…">
-<!ENTITY deleteAllAttachmentsCmd.accesskey "E">
+<!ENTITY deleteAllAttachmentsCmd.accesskey "m">
+
+<!-- Attachment toolbar items -->
+<!ENTITY saveAttachmentButton.label       "enrollañ">
+<!ENTITY saveAttachmentButton.tooltip     "enrollañ ar c'henstagadur">
+<!ENTITY saveAllAttachmentsButton.label   "enrollañ pep tra">
+<!ENTITY saveAllAttachmentsButton.tooltip "enrollañ an holl genstagadurioù">
+<!ENTITY openAttachmentMenuItem.label     "digeriñ">
+<!ENTITY openAttachmentMenuItem.accesskey    "d">
+<!ENTITY saveAsAttachmentMenuItem.label    "enrollañ evel…">
+<!ENTITY saveAsAttachmentMenuItem.accesskey    "e">
+<!ENTITY detachAttachmentMenuItem.label    "distagañ…">
+<!ENTITY detachAttachmentMenuItem.accesskey    "t">
+<!ENTITY deleteAttachmentMenuItem.label    "dilemel">
+<!ENTITY deleteAttachmentMenuItem.accesskey    "i">
+<!ENTITY openAllAttachmentsMenuItem.label    "digeriñ pep tra…">
+<!ENTITY openAllAttachmentsMenuItem.accesskey    "g">
+<!ENTITY saveAllAttachmentsMenuItem.label    "enrollañ pep tra…">
+<!ENTITY saveAllAttachmentsMenuItem.accesskey    "r">
+<!ENTITY detachAllAttachmentsMenuItem.label    "distagañ pep tra…">
+<!ENTITY detachAllAttachmentsMenuItem.accesskey    "a">
+<!ENTITY deleteAllAttachmentsMenuItem.label    "dilemel pep tra…">
+<!ENTITY deleteAllAttachmentsMenuItem.accesskey    "o">
 
 <!ENTITY copyLinkCmd.label "Eilañ lec'hiadur an ere">
 <!ENTITY copyLinkCmd.accesskey "c">

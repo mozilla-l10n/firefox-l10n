@@ -31,12 +31,3 @@
 
 <!ENTITY title.label "Titl">
 <!ENTITY processing.label "Oc'h enporzhiañ…">
-
-<!ENTITY FieldDiscInputText1.label "Gant Netscape Communicator 4.x ez eus ur chomlec'h postel evit pep fichenn, gant &brandShortName; ez eus daou chomlec'h (Er gêr hag el labour).">
-<!ENTITY FieldDiscInputText2.label "Diuzañ ar rummad ma vo gwaredet ar chomlec'hioù postel bet enporzhiet :">
-<!ENTITY FieldDiscWarning.label "Arveret e vo ar rummad-mañ evit an holl enankadoù eus ar c'harned chomlec'hioù diuzet :: ">
-<!ENTITY importHome.label        "D'ar gêr">
-<!ENTITY importHome.accesskey    "r">
-<!ENTITY importWork.label        "Labour">
-<!ENTITY importWork.accesskey    "b">
-

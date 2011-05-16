@@ -45,9 +45,6 @@
 <!-- File menu items -->
 <!ENTITY fileMenu.label "Restr">
 <!ENTITY fileMenu.accesskey "r">
-<!ENTITY newBlankPageCmd.label "Pajenn an embanner">
-<!ENTITY newBlankPageCmd.accesskey "P">
-<!ENTITY newMenu.label "Nevez">
 <!ENTITY openFileCmd.label "Digeriñ ar restr…">
 <!ENTITY openFileCmd.accesskey "i">
 <!ENTITY openFileCmd.key "O">
@@ -62,21 +59,15 @@
 <!ENTITY saveCmd.accesskey "E">
 <!ENTITY saveCmd.key "S">
 <!ENTITY saveAsCmd.label "Enrollañ evel…">
-<!ENTITY saveAsCmd.accesskey "d">
+<!ENTITY saveAsCmd.accesskey "e">
 
 <!ENTITY publishCmd.label "Brudañ">
 <!ENTITY publishCmd.accesskey "m">
 <!ENTITY publishCmd.key "S">
 <!ENTITY publishAsCmd.label "Brudañ evel…">
 <!ENTITY publishAsCmd.accesskey "b">
-<!ENTITY exportToTextCmd.label "Ezporzhiañ e testenn…">
-<!ENTITY exportToTextCmd.accesskey "T">
 <!ENTITY saveAsChangeEncodingCmd.label "Enrollañ ha kemmañ bonegañ an arouezioù">
 <!ENTITY saveAsChangeEncodingCmd.accesskey "E">
-<!ENTITY previewCmd.label "Gwelout ar bajenn">
-<!ENTITY previewCmd.accesskey "w">
-<!ENTITY sendPageCmd.label "Kas ar bajenn…">
-<!ENTITY sendPageCmd.accesskey "g">
 <!ENTITY printSetupCmd.label "Pajennaozañ…">
 <!ENTITY printSetupCmd.accesskey "n">
 <!ENTITY printCmd.label "Moullañ…">
@@ -116,8 +107,6 @@
 <!ENTITY checkSpellingCmd2.label "Gwiriañ ar reizhskrivañ">
 <!ENTITY checkSpellingCmd2.accesskey "h">
 <!ENTITY checkSpellingCmd2.key "p">
-<!ENTITY validateCmd.label "Talvoudekaat an HTML">
-<!ENTITY validateCmd.accesskey "v">
 
 <!-- Insert menu items -->
 <!ENTITY insertMenu.label "Enlakaat">
@@ -331,11 +320,6 @@
 <!ENTITY decreaseIndent.accesskey "D">
 <!ENTITY decreaseIndent.key "[">
 
-<!ENTITY grid.label "Kael lec'hiañ">
-<!ENTITY grid.accesskey "l">
-
-<!ENTITY pageProperties.label "Perzhioù ha titl ar bajenn…">
-<!ENTITY pageProperties.accesskey "r">
 <!ENTITY colorsAndBackground.label "Drekleur ha livioù ar bajennad…">
 <!ENTITY colorsAndBackground.accesskey "u">
 
@@ -395,15 +379,13 @@
 <!ENTITY tableProperties.label "Perzhioù an daolenn…">
 <!ENTITY tableProperties.accesskey "o">
 <!ENTITY menuBar.tooltip "Barrenn lañser">
-<!ENTITY compositionToolbar.tooltip "Barrenn ostilhoù skridaozañ">
 <!ENTITY formatToolbar.tooltip "Barrenn ostilhoù mentrezhañ">
+<!ENTITY newToolbarCmd.label "Nevez">
 <!ENTITY newToolbarCmd.tooltip "Sevel ur bajenn embanner nevez">
 <!ENTITY openToolbarCmd.label "Digeriñ">
 <!ENTITY openToolbarCmd.tooltip "Digeriñ ur restr lec'hel">
 <!ENTITY saveToolbarCmd.tooltip "Enrollañ ar restr en ul lec'hiadur lec'hel">
 <!ENTITY publishToolbarCmd.tooltip "Kargañ ar restr etrezek ul lec'hiadur arbell">
-<!ENTITY previewToolbarCmd.label "Furchal">
-<!ENTITY previewToolbarCmd.tooltip "Kargañ ar bajenn-mañ e Navigator">
 <!ENTITY printToolbarCmd.label "Moullañ">
 <!ENTITY printToolbarCmd.tooltip "Moullañ ar bajennad-mañ">
 <!ENTITY findToolbarCmd.label "Kavout">
@@ -440,23 +422,8 @@
 <!ENTITY alignLeftButton.tooltip "Desteudañ an destenn ouzh ar riblenn gleiz">
 <!ENTITY alignCenterButton.tooltip "Desteudañ an destenn e kreiz">
 <!ENTITY alignRightButton.tooltip "Desteudañ an destenn a-hed ar riblenn dehou">
-<!ENTITY alignjustifyButton.tooltip "Marzekaat an destenn a-hed ar riblennoù kleiz ha dehou">
+<!ENTITY alignJustifyButton.tooltip "Marzekaat an destenn a-hed ar riblennoù kleiz ha dehou">
 
-<!ENTITY NormalModeTab.label "Reizh">
-<!ENTITY NormalMode.label "Mod embann reizh">
-<!ENTITY NormalMode.accesskey "n">
-<!ENTITY NormalMode.tooltip "Diskouez riblennoù an taolenn hag an eorioù anvet">
-<!ENTITY AllTagsMode.label "Klavioù HTML">
-<!ENTITY AllTagsMode.accesskey "h">
-<!ENTITY AllTagsMode.tooltip "Skrammañ arlunioù evit an holl glavioù HTML">
-<!ENTITY HTMLSourceMode.label "Tarzh HTML">
-<!ENTITY SourceMode.label "Tarzh">
-<!ENTITY HTMLSourceMode.accesskey "h">
-<!ENTITY HTMLSourceMode.tooltip "Embann an tarzh HTML">
-<!ENTITY PreviewMode.label "Alberz">
-<!ENTITY PreviewMode.accesskey "A">
-<!ENTITY PreviewMode.tooltip "Diskouez e WYSIWYG (evel e-barzh Navigator)">
-<!ENTITY SourceTabDirection "ltr">
 <!ENTITY structSelect.label "Diuzañ">
 <!ENTITY structSelect.accesskey "d">
 <!ENTITY structRemoveTag.label "Lemel kuit ar c'hlav">

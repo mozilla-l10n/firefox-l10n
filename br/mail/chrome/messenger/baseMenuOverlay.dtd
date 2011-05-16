@@ -5,8 +5,12 @@
                        for the help button in the menubar but Gnome does not.   -->
 <!ENTITY helpMenuWin.label "Skoazell">
 <!ENTITY helpMenuWin.accesskey "S">
-<!ENTITY releaseCmd.label "Notennoù handelv">
-<!ENTITY releaseCmd.accesskey "N">
+<!ENTITY helpTroubleshootingInfo.label     "Stlennoù disac'hañ">
+<!ENTITY helpTroubleshootingInfo.accesskey "t">
+<!ENTITY helpSafeMode.label     "Adloc'hañ gant an askouezhioù diweredekaet…">
+<!ENTITY helpSafeMode.accesskey "R">
+<!ENTITY releaseCmd2.label "Notennoù handelv">
+<!ENTITY releaseCmd2.accesskey "N">
 <!ENTITY whatsNewCmd.label "Petra zo nevez">
 <!ENTITY whatsNewCmd.accesskey "P">
 <!ENTITY featureConfiguratorCmd.label "Skoazeller enporzhiañ">
@@ -18,6 +22,5 @@
 <!ENTITY openHelpMac2.commandkey   "?">
 <!ENTITY openHelpMac2.modifiers    "accel">
 
-<!ENTITY updateCmd.label "Gwiriañ an hizivadurioù nevez…">
 <!ENTITY aboutMenuCmd.label "A-zivout &brandShortName;">
 <!ENTITY aboutMenuCmd.accesskey "A">

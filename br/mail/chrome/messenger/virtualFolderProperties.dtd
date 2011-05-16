@@ -11,4 +11,8 @@
 <!ENTITY chooseFoldersButton.accesskey "D">
 
 <!ENTITY searchOnline.label "Klask enlinenn (Reiñ a ra disoc'hoù eus ar gwellañ evit IMAP ha teuliadoù ar c'heleier met brasaet e vo an amzer da zigeriñ an teuliad)">
-<!ENTITY searchOnline.accesskey "O">
+<!ENTITY searchOnline.accesskey "e">
+<!ENTITY newFolderButton.label       "Krouiñ">
+<!ENTITY newFolderButton.accesskey   "K">
+<!ENTITY editFolderButton.label      "Hizivaat">
+<!ENTITY editFolderButton.accesskey  "H">

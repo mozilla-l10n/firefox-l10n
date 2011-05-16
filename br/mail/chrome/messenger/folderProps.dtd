@@ -52,7 +52,7 @@
 <!ENTITY folderIncludeInGlobalSearch.accesskey   "n">
 
 <!ENTITY retention.label "Pennaennoù derc'hel">
-<!ENTITY retentionUseAccount.label  "Ober gant arventennoù ma gont">
+<!ENTITY retentionUseAccount.label  "Ober gant arventennoù ma c'hont">
 <!ENTITY retentionUseAccount.accesskey "O">
 <!ENTITY daysOld.label "a zeizioù zo">
 <!ENTITY message.label "kemennadennoù">

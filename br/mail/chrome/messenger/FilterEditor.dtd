@@ -1,5 +1,5 @@
 <!ENTITY window.title "Reolennoù silañ">
-
+<!ENTITY filterEditorDialog.dimensions "width: 100ch;">
 <!ENTITY filterName.label "Anv ar sil :">
 <!ENTITY filterName.accesskey "i">
 
@@ -13,7 +13,7 @@
 <!ENTITY highestPriorityCmd.label "Uhelañ">
 
 <!ENTITY contextDesc.label "Arloañ ar sil pa vez:">
-<!ENTITY contextDesc.accesskey "w">
+<!ENTITY contextDesc.accesskey "s">
 <!ENTITY contextIncoming.label "Degemeret posteloù">
 <!ENTITY contextManual.label "Lañset dre zorn">
 <!ENTITY contextBoth.label "Degemeret posteloù pe Lañset dre zorn">

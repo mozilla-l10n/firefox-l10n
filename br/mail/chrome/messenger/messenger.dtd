@@ -1,32 +1,44 @@
 <!ENTITY messengerWindow.title "Posteloù &amp; strolladoù-keleier">
-<!ENTITY titledefault.label "&brandShortName;">
+<!ENTITY titledefault.label "&brandFullName;">
 <!ENTITY titleSeparator.label " - ">
 
 <!-- File Menu -->
 <!ENTITY newFolderCmd.label "Teuliad…">
 <!ENTITY newFolderCmd.accesskey "t">
-<!ENTITY closeTabCmd.label "Serriñ an ivinell">
-<!ENTITY closeTabCmd.accesskey "S">
-<!ENTITY closeOtherTabsCmd.label "Serriñ an ivinelloù all">
-<!ENTITY closeOtherTabsCmd.accesskey "e">
+<!ENTITY closeTabCmd2.label "Serriñ an ivinell">
+<!ENTITY closeTabCmd2.accesskey "S">
+<!ENTITY closeOtherTabsCmd2.label "Serriñ an ivinelloù all">
+<!ENTITY closeOtherTabsCmd2.accesskey "e">
+<!-- LOCALIZATION NOTE (undoCloseTabCmd.label):
+     Menu option to attempt to re-open a recently closed tab.
+     -->
+<!ENTITY recentlyClosedTabsCmd.label "Ivinelloù serret a-nevez zo">
+<!ENTITY recentlyClosedTabsCmd.accesskey "I">
+
+<!ENTITY undoCloseTabCmd.commandkey "T">
+<!-- LOCALIZATION NOTE (moveToNewWindow.label):
+     Menu option to cause the current tab to be migrated to a new Thunderbird
+     window.
+     -->
+<!ENTITY moveToNewWindow.label "Dilec'hiañ etrezek ur prenestr nevez">
+<!ENTITY moveToNewWindow.accesskey "D">
 <!ENTITY newVirtualFolderCmd.label "Enrollañ disoc'h ar c'hlask">
 <!ENTITY newVirtualFolderCmd.accesskey "S">
 <!ENTITY newOtherAccountsCmd.label "Kontoù all…">
 <!ENTITY newOtherAccountsCmd.accesskey "o">
 <!ENTITY newEmailAccountCmd.label "Kont postel…">
-<!ENTITY newEmailAccountCmd.accesskey "A">
+<!ENTITY newEmailAccountCmd.accesskey "K">
 <!ENTITY openMessageFileCmd.label "Digeriñ ar gemennadenn enrollet …">
 <!ENTITY openMessageFileCmd.accesskey "O">
 <!ENTITY openAttachmentCmd.label "Teulioù kenstag">
 <!ENTITY openAttachmentCmd.accesskey "A">
 <!ENTITY saveAsMenu.label "Enrollañ evel">
-<!ENTITY saveAsMenu.accesskey "d">
+<!ENTITY saveAsMenu.accesskey "e">
 <!ENTITY saveAsFileCmd.label "Restr">
 <!ENTITY saveAsFileCmd.accesskey "R">
 <!ENTITY saveAsFileCmd.key "s">
 <!ENTITY saveAsTemplateCmd.label "Patrom">
 <!ENTITY saveAsTemplateCmd.accesskey "p">
-<!ENTITY getNewMsgCmd.key "t">
 <!ENTITY getNewMsgForCmd.label "Kerc'hat ar c'hemennadennoù nevez evit">
 <!ENTITY getNewMsgForCmd.accesskey "t">
 <!ENTITY getAllNewMsgCmdPopupMenu.label "An holl gontoù">
@@ -73,14 +85,10 @@
 <!ENTITY deleteMsgCmd.accesskey "D">
 <!ENTITY undeleteMsgCmd.label "Adsevel ar gemennadenn">
 <!ENTITY undeleteMsgCmd.accesskey "d">
-<!ENTITY cancelNewsMsgCmd.label "Nullañ ar gemennadenn">
-<!ENTITY cancelNewsMsgCmd.accesskey "n">
 <!ENTITY deleteMsgsCmd.label "Dilemel ar c'hemennadennoù diuzet">
 <!ENTITY deleteMsgsCmd.accesskey "D">
 <!ENTITY undeleteMsgsCmd.label "Dizilemel ar c'hemennadennoù diuzet">
 <!ENTITY undeleteMsgsCmd.accesskey "d">
-<!ENTITY cancelNewsMsgsCmd.label "Nullañ ar c'hemennadennoù diuzet">
-<!ENTITY cancelNewsMsgsCmd.accesskey "n">
 <!ENTITY deleteFolderCmd.label "Dilemel an teuliad">
 <!ENTITY deleteFolderCmd.accesskey "D">
 <!ENTITY unsubscribeNewsgroupCmd.label "Digoumanantiñ">
@@ -313,6 +321,11 @@ you can use these alternative items. Otherwise, their values should be empty.  -
 <!ENTITY goBackCmd.commandKey "[">
 <!ENTITY prevStarredMsgCmd.label "Kemennadenn gant ur steredenn">
 <!ENTITY prevStarredMsgCmd.accesskey "S">
+<!ENTITY folderMenu.label "Teuliad">
+<!ENTITY folderMenu.accesskey "T">
+<!ENTITY thisFolder.label "An teuliad-mañ">
+<!ENTITY thisFolder.accesskey "m">
+<!ENTITY goRecentlyClosedTabs.label "Ivinelloù serret a-nevez zo">
 <!ENTITY startPageCmd.label "Pajennad deroù ar posteloù">
 <!ENTITY startPageCmd.accesskey "S">
 
@@ -326,6 +339,8 @@ you can use these alternative items. Otherwise, their values should be empty.  -
 <!ENTITY archiveMsgCmd.label "Diellouañ">
 <!ENTITY archiveMsgCmd.accesskey "a">
 <!ENTITY archiveMsgCmd.key  "a">
+<!ENTITY cancelNewsMsgCmd.label "Dilezel ar gemennadenn">
+<!ENTITY cancelNewsMsgCmd.accesskey "C">
 <!ENTITY replyMsgCmd.label "Respont">
 <!ENTITY replyMsgCmd.accesskey "R">
 <!ENTITY replyMsgCmd.key  "r">
@@ -391,9 +406,11 @@ you can use these alternative items. Otherwise, their values should be empty.  -
 <!ENTITY tagCmd9.key "9">
 <!ENTITY markMenu.label "Merkañ">
 <!ENTITY markMenu.accesskey "k">
-<!ENTITY markAsReadCmd.label "Evel lennet">
+<!ENTITY toggleReadCmd.key "m">
+<!ENTITY markAsReadCmd.label "Evel Lennet">
 <!ENTITY markAsReadCmd.accesskey "l">
-<!ENTITY markAsReadCmd.key "m">
+<!ENTITY markAsUnreadCmd.label "Evel Ket lennet">
+<!ENTITY markAsUnreadCmd.accesskey "K">
 <!ENTITY markThreadAsReadCmd.label "Neudennad evel Lennet">
 <!ENTITY markThreadAsReadCmd.accesskey "n">
 <!ENTITY markThreadAsReadCmd.key "r">
@@ -503,7 +520,6 @@ you can use these alternative items. Otherwise, their values should be empty.  -
 <!ENTITY getMsgButton.tooltip "Kerc'hat ar posteloù nevez">
 <!ENTITY getAllNewMsgCmd.label "Kerc'hat an holl bosteloù nevez">
 <!ENTITY getAllNewMsgCmd.accesskey "e">
-<!ENTITY getAllNewMsgCmd.key "t">
 <!ENTITY newMsgButton.tooltip "Sevel ur gemennadenn nevez">
 <!ENTITY replyButton.tooltip "Respont d'ar gemennadenn-mañ">
 <!ENTITY replyAllButton.tooltip "Respont d'ar c'haser ha d'an holl zegemerien">
@@ -577,7 +593,7 @@ you can use these alternative items. Otherwise, their values should be empty.  -
 <!ENTITY SearchNameOrEmail.accesskey "N">
 
 <!-- Gloda Search Bar -->
-<!ENTITY glodaSearchBar.emptyText "Klask er c'hemennadennoù…">
+<!ENTITY glodaSearchBar.placeholder "Klask er c'hemennadennoù…">
 
 <!-- Quick Search Menu Bar -->
 <!ENTITY searchSubjectMenu.label "Danvez">
@@ -634,6 +650,10 @@ you can use these alternative items. Otherwise, their values should be empty.  -
 <!-- Thread Pane Context Menu -->
 <!ENTITY contextOpenNewWindow.label "Digeriñ ar gemennadenn e-barzh ur prenestr nevez">
 <!ENTITY contextOpenNewWindow.accesskey "d">
+<!-- The key potentially conflicts with cutCmd.accessKey which is defined in
+     textcontext.dtd from toolkit. Right now, both menu items can't be visible
+     at the same time, but should someone enable copy/paste of message, this key
+     would probably need to be changed. -->
 <!ENTITY contextOpenNewTab.label "Digeriñ ar gemennadenn e-barzh un ivinell nevez">
 <!ENTITY contextOpenNewTab.accesskey "m">
 <!ENTITY contextOpenConversation.label "Digeriñ ar gemennadenn e-barzh ar gaozeadenn">
@@ -661,7 +681,7 @@ you can use these alternative items. Otherwise, their values should be empty.  -
 <!ENTITY contextCopyMsgMenu.label "Eilañ etrezek">
 <!ENTITY contextCopyMsgMenu.accesskey "k">
 <!ENTITY contextSaveAs.label "Enrollañ evel…">
-<!ENTITY contextSaveAs.accesskey "i">
+<!ENTITY contextSaveAs.accesskey "e">
 <!ENTITY contextPrint.label "Moullañ…">
 <!ENTITY contextPrint.accesskey "m">
 <!ENTITY contextPrintPreview.label "Alberz moullañ">
@@ -713,6 +733,7 @@ you can use these alternative items. Otherwise, their values should be empty.  -
   -->
 <!ENTITY columnPicker.thisFolder.label "An teuliad-mañ">
 
+
 <!-- Media (video/audio) controls -->
 <!ENTITY contextPlay.label "Lenn">
 <!ENTITY contextPlay.accesskey "L">
@@ -735,14 +756,20 @@ you can use these alternative items. Otherwise, their values should be empty.  -
 <!-- Phishing Bar -->
 <!ENTITY phishingBarMessage2.label "Ar gemennadenn-mañ a c'hell bezañ ur spam.">
 <!ENTITY removePhishingBarButton1.label "Na zerc'hel kont eus an evezh">
+<!ENTITY disablePhishingWarning1.label "Diweredekaat dinoadur ar posteloù flodus evit an holl gemennadennoù">
 <!ENTITY reportPhishingError1.label "Ar gemennadenn-mañ n'eo ket ur spam war ar seblant.">
 
 <!-- MDN Bar -->
-<!ENTITY mdnBarMessage.label "Goulennet en deus kaser ar postel-mañ bezañ kemennet pa vo lennet ar postel-mañ ganeoc'h. Ha fellout a ra deoc'h kemenn ar c'haser ?">
-<!ENTITY mdnBarIgnoreButton.label "Na zerc'hel kont eus ar goulenn">
-<!ENTITY mdnBarSendButton.label "Kas ar gemenn degemer">
+<!ENTITY mdnBarIgnoreButton2.label "Na zerc'hel kont">
+<!ENTITY mdnBarIgnoreButton2.accesskey "I">
+<!ENTITY mdnBarSendButton2.label "Kas ar gemenn degemer">
+<!ENTITY mdnBarSendButton2.accesskey "S">
 
 <!-- Quick Search Bar -->
+<!-- LOCALIZATION NOTE (quickSearchCmd.key):
+     This is actually the key used for the global message search box; we have
+     not changed 
+     -->
 <!ENTITY quickSearchCmd.key "k">
 <!-- LOCALIZATION NOTE (searchAllMessages.label.base):
      This is the base of the empty text for the global search box.  We replace
@@ -791,19 +818,15 @@ you can use these alternative items. Otherwise, their values should be empty.  -
 <!ENTITY reportPhishingURL.label "Danevellañ ur postel c'hwiberezh">
 <!ENTITY reportPhishingURL.accesskey "o">
 
+<!-- Spell checker context menu items -->
+<!ENTITY spellAddDictionaries.label "Ouzhpennañ geriadurioù…">
+<!ENTITY spellAddDictionaries.accesskey "h">
+
 <!-- Content Pane Context Menu -->
 <!ENTITY saveLinkAsCmd.label "Enrollañ an ere evel…">
 <!ENTITY saveLinkAsCmd.accesskey "E">
 <!ENTITY saveImageAsCmd.label "Enrollañ ar skeudenn evel…">
 <!ENTITY saveImageAsCmd.accesskey "n">
-<!ENTITY cutCmd.label "Troc'han">
-<!ENTITY cutCmd.accesskey "T">
-<!ENTITY copyCmd.label "Eilañ">
-<!ENTITY copyCmd.accesskey "i">
-<!ENTITY pasteCmd.label "Pegañ">
-<!ENTITY pasteCmd.accesskey "P">
-<!ENTITY selectAllCmd.label "Diuz pep tra">
-<!ENTITY selectAllCmd.accesskey "a">
 <!ENTITY copyLinkCmd.label "Eilañ lec'hiadur an ere">
 <!ENTITY copyLinkCmd.accesskey "l">
 <!ENTITY copyImageAllCmd.label "Eilañ ar skeudenn">

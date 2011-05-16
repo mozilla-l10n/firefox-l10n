@@ -45,8 +45,9 @@
 <!ENTITY reuseExpRadio0.accesskey      "p">
 <!ENTITY reuseExpRadio1.label          "Ur prenestr kemennadenn digor">
 <!ENTITY reuseExpRadio1.accesskey      "d">
-<!ENTITY closeMsgWindowOnDelete.label  "Serrin ar prenestr kemennadenn goude an dilemel">
-<!ENTITY closeMsgWindowOnDelete.accesskey "S">
+<!ENTITY closeMsgOnMoveOrDelete.label  "Serrin prenestr / ivinell ar gemennadenn goude an dilec'hiañ pe an dilemel">
+<!ENTITY closeMsgOnMoveOrDelete.accesskey "S">
+
 
 <!-- Update -->
 <!ENTITY autoCheck.label "Gwiriañ an hizivadurioù nevez ent-emgefre bep :">
@@ -77,7 +78,8 @@
 <!ENTITY Diskspace "Egor war ar gantenn">
 <!ENTITY offlineCompact.label "Koazhañ teuliadoù p'ez a o ment dreist da">
 <!ENTITY offlineCompact.accesskey "z">
-<!ENTITY kb.label "KE">
+<!ENTITY mb.label "ME">
+
 
 <!-- LOCALIZATION NOTE:
   The entities useCacheBefore.label and useCacheAfter.label appear on a single

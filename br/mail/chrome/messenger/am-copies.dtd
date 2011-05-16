@@ -1,6 +1,6 @@
 <!-- extracted from am-copies.xul -->
 
-<!ENTITY copyAndFolderTitle.label "Eiladoù &amp; teuliadoù">
+<!ENTITY copyAndFolderTitle.label "Eiladoù ha teuliadoù">
 <!ENTITY sendingPrefix.label "Pa vez kaset kemennadennoù, ober ent-emgefre :">
 <!ENTITY fccMailFolder.label "Eilañ e-barzh :">
 <!ENTITY fccMailFolder.accesskey "b">
@@ -9,32 +9,39 @@
 <!-- LOCALIZATION NOTE (ccAddress.label): do not translate "Cc" in below line -->
 <!ENTITY ccAddress.label "Cc ar chomlec'hioù posteloù da-heul :">
 <!ENTITY ccAddress.accesskey "C">
-<!ENTITY ccAddressList.emptytext "Chomlec'hioù disrannet gant virgulennoù">
+<!ENTITY ccAddressList.placeholder "Chomlec'hioù disrannet gant virgulennoù">
 <!-- LOCALIZATION NOTE (bccAddress.label): do not translate "Bcc" in below line -->
 <!ENTITY bccAddress.label "Bcc ar chomlec'hioù posteloù da-heul :">
 <!ENTITY bccAddress.accesskey "B">
-<!ENTITY bccAddressList.emptytext "Chomlec'hioù disrannet gant virgulennoù">
+<!ENTITY bccAddressList.placeholder "Chomlec'hioù disrannet gant virgulennoù">
 <!ENTITY saveMessageDlg.label "Diskouez ar voestad kendiviz kadarnaat pa vez enrollet ar c'hemennadennoù">
 <!ENTITY saveMessageDlg.accesskey "S">
-<!ENTITY sentFolderOn.label "Teuliad &quot;kaset&quot; e-barzh :">
+<!-- LOCALIZATION NOTE (sentFolderOn.label): OK to translate this, bug #57440 -->
+<!ENTITY sentFolderOn.label "Teuliad «&#x00A0;Kaset&#x00A0;» e-barzh :">
 <!ENTITY sentFolderOn.accesskey "e">
 <!ENTITY sentInOtherFolder.label "All :">
 <!ENTITY sentInOtherFolder.accesskey "a">
-<!ENTITY draftsFolderOn.label "Teuliad ar &quot;Brouilhedoù&quot; e-barzh :">
-<!ENTITY draftsFolderOn.accesskey "D">
-<!ENTITY draftInOtherFolder.label "All :">
-<!ENTITY draftInOtherFolder.accesskey "A">
 <!-- LOCALIZATION NOTE (archivesFolderOn.label): OK to translate this, bug #57440 -->
-<!ENTITY archivesFolderOn.label "Teuliad &quot;Dielloù&quot; e-barzh :">
+<!ENTITY archivesTitle.label "Dielloù ar c'hemennadennoù">
+<!ENTITY keepArchives.label "Mirout dielloù ar c'hemennadennoù e-barzh :">
+<!ENTITY keepArchives.accesskey "M">
+<!ENTITY archiveHierarchyButton.label "Dibarzhioù diellaouiñ…">
+<!ENTITY archiveHierarchyButton.accesskey "D">
+<!ENTITY archivesFolderOn.label "Teuliad «&#x00A0;Dielloù&#x00A0;» e-barzh :">
 <!ENTITY archivesFolderOn.accesskey "l">
 <!ENTITY archiveInOtherFolder.label "All :">
 <!ENTITY archiveInOtherFolder.accesskey "A">
+<!ENTITY specialFolders.label "Brouilhedoù ha Patromoù">
+<!ENTITY keepDrafts.label "Mirout brouilhedoù ar c'hemennadennoù e-barzh :">
+<!-- LOCALIZATION NOTE (draftsFolderOn.label): OK to translate this, bug #57440 -->
+<!ENTITY draftsFolderOn.label "Teuliad ar «&#x00A0;Brouilhedoù&#x00A0;» e-barzh :">
+<!ENTITY draftsFolderOn.accesskey "D">
+<!ENTITY draftInOtherFolder.label "All :">
+<!ENTITY draftInOtherFolder.accesskey "A">
+<!ENTITY keepTemplates.label "Mirout patromoù ar c'hemennadennoù e-barzh :">
 <!-- LOCALIZATION NOTE (templatesFolderOn.label): OK to translate this, bug #57440 -->
-<!ENTITY templatesFolderOn.label "Teuliad ar &quot;Patromoù&quot; e-barzh :">
+<!ENTITY templatesFolderOn.label "Teuliad ar «&#x00A0;Patromoù&#x00A0;» e-barzh :">
 <!ENTITY templatesFolderOn.accesskey "m">
 <!ENTITY templateInOtherFolder.label "All :">
 <!ENTITY templateInOtherFolder.accesskey "A">
-<!ENTITY specialFoldersTitle.label "Brouilhedoù ha patromoù">
-<!ENTITY keepDrafts.label "Mirout brouilhedoù ar c'hemennadennoù e-barzh :">
-<!ENTITY keepArchives.label "Mirout dielloù ar c'hemennadennoù e-barzh :">
-<!ENTITY keepTempltes.label "Mirout patromoù ar c'hemennadennoù e-barzh :">
+

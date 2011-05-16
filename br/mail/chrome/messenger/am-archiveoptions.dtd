@@ -1,0 +1,19 @@
+<!-- extracted from am-archiveoptions.xul -->
+
+<!ENTITY dialogTitle.label "Dibarzhioù diellaouiñ">
+<!ENTITY archiveGranularityPrefix.label "Pa vez diellaouet kemennadennoù, lakaat anezho e-barzh :">
+<!ENTITY archiveFlat.label "Un teuliad hepken">
+<!ENTITY archiveFlat.accesskey "U">
+<!ENTITY archiveYearly.label "An teuliadoù diellaouet dre vloavezh">
+<!ENTITY archiveYearly.accesskey "A">
+<!ENTITY archiveMonthly.label "An teuliadoù diellaouet dre viz">
+<!ENTITY archiveMonthly.accesskey "n">
+<!ENTITY keepFolderStructure.label "Mirout frammadur an teuliadoù eus ar c'hemennadennoù diellaouet">
+<!ENTITY keepFolderStructure.accesskey "M">
+<!ENTITY archiveExample.label "Skouer">
+<!-- LOCALIZATION NOTE (archiveFolderName.label): this should match the default
+     name for the "Archives" folder -->
+<!ENTITY archiveFolderName.label "Dielloù">
+<!-- LOCALIZATION NOTE (inboxFolderName.label): this should match the default
+     name for the "Inbox" folder -->
+<!ENTITY inboxFolderName.label "Boest degemer">

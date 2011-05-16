@@ -1,0 +1,15 @@
+<!ENTITY aboutSupport.appBasicsAppBuildID "Naoudi kempunañ an arload">
+
+<!ENTITY aboutSupport.accountsTitle "Kontoù postel ha strollad-keleier">
+<!ENTITY aboutSupport.showPrivateData.mainText "Enderc'hel anv ar c'hontoù">
+<!ENTITY aboutSupport.showPrivateData.explanationText "(gallout a rit bezañ hennadet gant an ditour-mañ)">
+<!ENTITY aboutSupport.accountsID "Naoudi">
+<!ENTITY aboutSupport.accountsName "Anv">
+<!ENTITY aboutSupport.accountsIncomingServer "Dafariad degemer">
+<!ENTITY aboutSupport.accountsOutgoingServers "Dafariaded kas">
+<!ENTITY aboutSupport.accountsServerName "Anv">
+<!ENTITY aboutSupport.accountsConnSecurity "Diogelroez ar c'hennask">
+<!ENTITY aboutSupport.accountsAuthMethod "Hentenn dileza">
+<!ENTITY aboutSupport.accountsDefault "Dre ziouer ?">
+
+<!ENTITY aboutSupport.sendViaEmail.label "Kas dre bostel">

@@ -42,9 +42,20 @@
 
 <!-- Menu items:  the . means that the menu item isn't implemented yet -->
 
+<!-- Toolbar-only items -->
+<!ENTITY compositionToolbar.tooltip "Barrenn ostilhoù skridaozañ">
+<!ENTITY previewToolbarCmd.label "Furchal">
+<!ENTITY previewToolbarCmd.tooltip "Kargañ ar bajenn-mañ er merdeer">
+
+<!-- File menu items -->
+<!ENTITY exportToTextCmd.label "Ezporzhiañ e testenn…">
+<!ENTITY exportToTextCmd.accesskey "T">
+<!ENTITY previewCmd.label "Gwelout ar bajenn">
+<!ENTITY previewCmd.accesskey "w">
+<!ENTITY sendPageCmd.label "Kas ar bajenn…">
+<!ENTITY sendPageCmd.accesskey "g">
+
 <!-- View menu items -->
-<!ENTITY viewMenu.label "Gwelout">
-<!ENTITY viewMenu.accesskey "G">
 <!ENTITY compositionToolbarCmd.label "Barren ostilhoù Sevel">
 <!ENTITY compositionToolbarCmd.accesskey "S">
 <!ENTITY formattingToolbarCmd.label "Barren ostilhoù Mentrezh">
@@ -55,3 +66,35 @@
 <!-- Format menu items -->
 <!ENTITY formatMenu.label "Mentrezh">
 <!ENTITY formatMenu.accesskey "n">
+<!ENTITY grid.label "Kael lec'hiañ">
+<!ENTITY grid.accesskey "l">
+<!ENTITY pageProperties.label "Perzhioù ha titl ar bajenn…">
+<!ENTITY pageProperties.accesskey "r">
+
+<!-- Tools menu items -->
+<!ENTITY validateCmd.label "Talvoudekaat an HTML">
+<!ENTITY validateCmd.accesskey "v">
+
+<!-- Display Mode toolbar and View menu items -->
+<!ENTITY NormalModeTab.label "Reizh">
+<!ENTITY NormalMode.label "Mod embann reizh">
+<!ENTITY NormalMode.accesskey "n">
+<!ENTITY NormalMode.tooltip "Diskouez riblennoù an taolenn hag an eorioù anvet">
+<!ENTITY AllTagsModeTab.label "Klavioù HTML">
+<!ENTITY AllTagsMode.label "Klavioù HTML">
+<!ENTITY AllTagsMode.accesskey "h">
+<!ENTITY AllTagsMode.tooltip "Skrammañ arlunioù evit an holl glavioù HTML">
+<!-- LOCALIZATION NOTE: (HTMLSourceModeTab.dir, HTMLSourceModeTab.label)
+     Do NOT translate text for 'HTMLSourceModeTab.dir', use latin "ltr" if
+     you want the <html> image to left of the 'HTMLSourceModeTab.label' text,
+     or use latin "rtl" if you want this image to the right of text. You do
+     not need to include HTML in the label 'HTMLSourceModeTab.label' -->
+<!ENTITY HTMLSourceModeTab.dir "ltr">
+<!ENTITY HTMLSourceModeTab.label "Tarzh HTML">
+<!ENTITY HTMLSourceMode.label "Tarzh HTML">
+<!ENTITY HTMLSourceMode.accesskey "h">
+<!ENTITY HTMLSourceMode.tooltip "Embann an tarzh HTML">
+<!ENTITY PreviewModeTab.label "Alberz">
+<!ENTITY PreviewMode.label "Alberz">
+<!ENTITY PreviewMode.accesskey "A">
+<!ENTITY PreviewMode.tooltip "Diskouez e WYSIWYG (evel e-barzh Navigator)">

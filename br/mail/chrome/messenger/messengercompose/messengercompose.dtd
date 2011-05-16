@@ -18,6 +18,7 @@
 <!ENTITY attachFileCmd.accesskey "r">
 <!ENTITY attachPageCmd.label "Pajenn Internet …">
 <!ENTITY attachPageCmd.accesskey "n">
+<!--LOCALIZATION NOTE attachVCardCmd.label Don't translate the term 'vCard' -->
 <!ENTITY attachVCardCmd.label "Fichenn bersonel (vCard)">
 <!ENTITY attachVCardCmd.accesskey "B">
 <!ENTITY closeCmd.label "Serriñ">
@@ -27,7 +28,7 @@
 <!ENTITY saveCmd.key "S">
 <!ENTITY saveCmd.accesskey "n">
 <!ENTITY saveAsCmd.label "Enrollañ evel">
-<!ENTITY saveAsCmd.accesskey "d">
+<!ENTITY saveAsCmd.accesskey "e">
 <!ENTITY saveAsFileCmd.label "Restr…">
 <!ENTITY saveAsFileCmd.accesskey "r">
 <!ENTITY saveAsDraftCmd.label "Brouilhed">
@@ -185,15 +186,23 @@
 <!ENTITY attachButton.label "Kenstagañ">
 <!ENTITY spellingButton.label "Reizhskrivañ">
 <!ENTITY saveButton.label "Enrollañ">
+
+<!-- Mail Toolbar Tooltips -->
 <!ENTITY sendButton.tooltip "Kas ar gemennadenn-mañ diouzhtu">
 <!ENTITY sendlaterButton.tooltip "Kas ar gemennadenn-mañ diwezhatoc'h">
 <!ENTITY quoteButton.tooltip "Menegiñ ar gemennadenn gent">
 <!ENTITY addressButton.tooltip "Diuzañ un degemerer diwar ar c'harned chomlec'hioù">
 <!ENTITY attachButton.tooltip "Enderc'hel ur c'henstagadur">
+<!ENTITY spellingButton.tooltip "Gwiriañ reizhskrivañ an diuzad pe ar gemennadenn a-bezh">
 <!ENTITY saveButton.tooltip "Enrollañ ar gemennadenn-mañ">
 <!ENTITY cutButton.tooltip "Troc'hañ">
 <!ENTITY copyButton.tooltip "Eilañ">
 <!ENTITY pasteButton.tooltip "Pegañ">
+
+<!-- Headers -->
+<!--LOCALIZATION NOTE headersSpace.style is for aligning  the From:, To: and
+    Subject: rows. It should be larger than the largest Header label  -->
+<!ENTITY headersSpace.style "width: 9em;">
 <!ENTITY fromAddr.label "A-berzh :">
 <!ENTITY fromAddr.accesskey "b">
 <!ENTITY toAddr.label "Da :">
@@ -204,7 +213,6 @@
 <!ENTITY followupAddr.label "Kas en-dro-da :">
 <!ENTITY subject.label "Danvez :">
 <!ENTITY subject.accesskey "d">
-<!ENTITY attachments.label "Kenstagadurioù :">
 <!ENTITY attachments.accesskey "k">
 <!ENTITY SmileButton.tooltip "Enlakaat ur fromarlun">
 <!ENTITY smiley1Cmd.label "Mousc'hoarzhiñ">
@@ -255,6 +263,10 @@
 <!ENTITY attachFile.accesskey "R">
 <!ENTITY attachPage.label "Kenstagañ ar bajennad…">
 <!ENTITY attachPage.accesskey "s">
+
+<!-- Spell checker context menu items -->
+<!ENTITY spellAddDictionaries.label "Ouzhpennañ geriadurioù…">
+<!ENTITY spellAddDictionaries.accesskey "O">
 
 <!-- Title for the address picker panel -->
 <!ENTITY addressesSidebarTitle.label "Darempredoù">

@@ -1,14 +1,19 @@
 <!ENTITY editContactPanelDeleteContact.label "Dilemel">
 <!ENTITY editContactPanelDeleteContact.accesskey "l">
 
-<!ENTITY editContactName.label "Anv:">
+<!ENTITY editContactName.label "Anv :">
 <!ENTITY editContactName.accesskey "A">
 
-<!ENTITY editContactEmail.label "Postel:">
+<!ENTITY editContactEmail.label "Postel :">
 <!ENTITY editContactEmail.accesskey "P">
+
+<!ENTITY editContactAddressBook.label "Karned chomlec'hioù :">
+<!ENTITY editContactAddressBook.accesskey "K">
 
 <!ENTITY editContactPanelCancel.label "Nullañ">
 <!ENTITY editContactPanelCancel.accesskey "N">
 
 <!ENTITY editContactPanelDone.label "Graet">
 <!ENTITY editContactPanelDone.accesskey "G">
+
+<!ENTITY contactMoveDisabledWarning.description "Ne c'hellit ket kemmañ ar c'harned chomlec'hioù rak an darempred zo e-barzh ur roll skignañ.">
