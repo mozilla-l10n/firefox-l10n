@@ -219,7 +219,7 @@
 <!ENTITY event.reminder.accesskey "P">
 <!ENTITY event.description.label "Beskrivelse:">
 <!ENTITY event.description.accesskey "B">
-<!ENTITY event.attachments.label "Vedhæftninger:">
+<!ENTITY event.attachments.label "Vedhæftede filer:">
 <!ENTITY event.attachments.accesskey "h">
 <!ENTITY event.attachments.popup.remove.label "Fjern">
 <!ENTITY event.attachments.popup.remove.accesskey "F">

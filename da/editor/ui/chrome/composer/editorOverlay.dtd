@@ -396,7 +396,6 @@
 <!ENTITY openToolbarCmd.tooltip "Åbn en lokal fil">
 <!ENTITY saveToolbarCmd.tooltip "Gem filen lokalt">
 <!ENTITY publishToolbarCmd.tooltip "Overfør filen til en anden maskine">
-<!ENTITY previewToolbarCmd.label "Gennemse">
 <!ENTITY printToolbarCmd.label "Udskriv">
 <!ENTITY printToolbarCmd.tooltip "Udskriv denne side">
 <!ENTITY findToolbarCmd.label "Find">
