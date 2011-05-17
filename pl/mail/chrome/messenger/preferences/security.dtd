@@ -8,7 +8,7 @@
 <!ENTITY junkMail.intro                 "W tym miejscu można zmienić domyślne ustawienia filtru niechcianej poczty. Aby zmienić ustawienia niechcianej poczty dotyczące konkretnego konta, należy przejść do Konfiguracji kont.">
 <!ENTITY manualMark.label               "W przypadku ręcznego oznaczenia wiadomości jako niechcianej:">
 <!ENTITY manualMark.accesskey           "W">
-<!ENTITY manualMarkModeMove.label       'przenoś wiadomości do folderu "Niechciane"'>
+<!ENTITY manualMarkModeMove.label       "przenoś wiadomości do folderu „Niechciane”">
 <!ENTITY manualMarkModeMove.accesskey   "p">
 <!ENTITY manualMarkModeDelete.label     "usuwaj wiadomości">
 <!ENTITY manualMarkModeDelete.accesskey "u">
