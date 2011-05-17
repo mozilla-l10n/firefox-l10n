@@ -137,7 +137,7 @@
 <!ENTITY cspFrameAncestorBlocked.longDesc "<p>Браузер не дозволив цій сторінці завантажитись цим чином, бо вона має політику безпеки вмісту котра це забороняє.</p>">
 
 <!ENTITY remoteXUL.title "Віддалений XUL">
-<!ENTITY remoteXUL.longDesc "<p><ul><liБудь ласка, зв’яжіться з власниками сайта та поінформуйте їх про цю проблему.</li></ul></p>">
+<!ENTITY remoteXUL.longDesc "<p><ul><li>Будь ласка, зв’яжіться з власниками сайта та поінформуйте їх про цю проблему.</li></ul></p>">
 
 <!-- Include app-specific error messages - do not change this in localization!
      Some applications might override netErrorApp.dtd with their specific version,
