@@ -45,9 +45,6 @@
 <!-- File menu items -->
 <!ENTITY fileMenu.label "Datoteka">
 <!ENTITY fileMenu.accesskey "D">
-<!ENTITY newBlankPageCmd.label "Stran za Composer">
-<!ENTITY newBlankPageCmd.accesskey "C" >
-<!ENTITY newMenu.label "Novo">
 <!ENTITY openFileCmd.label "Odpri datoteko …">
 <!ENTITY openFileCmd.accesskey "O">
 <!ENTITY openFileCmd.key "O">
@@ -393,11 +390,12 @@
 <!-- Toolbar-only items -->
 <!ENTITY menuBar.tooltip "Vrstica z menijem">
 <!ENTITY formatToolbar.tooltip "Orodna vrstica za oblikovanje">
+<!ENTITY newToolbarCmd.label "Novo">
 <!ENTITY newToolbarCmd.tooltip "Ustvari novo stran v Composerju">
 <!ENTITY openToolbarCmd.label "Odpri">
 <!ENTITY openToolbarCmd.tooltip "Odpri krajevno datoteko">
 <!ENTITY saveToolbarCmd.tooltip "Shrani datoteko na krajevno mesto">
-<!ENTITY publishToolbarCmd.tooltip "Prenesi datoteko na oddaljeno mesto">>
+<!ENTITY publishToolbarCmd.tooltip "Prenesi datoteko na oddaljeno mesto">
 <!ENTITY printToolbarCmd.label "Natisni ">
 <!ENTITY printToolbarCmd.tooltip "Natisni to stran">
 <!ENTITY findToolbarCmd.label "Poišči">
@@ -434,33 +432,7 @@
 <!ENTITY alignLeftButton.tooltip "Poravnaj besedilo na levi rob">
 <!ENTITY alignCenterButton.tooltip "Poravnaj besedilo na sredino">
 <!ENTITY alignRightButton.tooltip "Poravnaj besedilo na desni rob">
-<!ENTITY alignjustifyButton.tooltip "Poravnaj besedilo na levi in desni rob">
-
-<!-- Display Mode toolbar and View menu items -->
-<!ENTITY NormalModeTab.label "Normalno">
-<!ENTITY NormalMode.label "Normalni urejevalni način">
-<!ENTITY NormalMode.accesskey "n">
-<!ENTITY NormalMode.tooltip "Pokaži robove tabel in sidra z imenom">
-<!ENTITY AllTagsMode.label "Oznake HTML">
-<!ENTITY AllTagsMode.accesskey "H">
-<!ENTITY AllTagsMode.tooltip "Prikaži ikone za oznake HTML">
-
-<!ENTITY HTMLSourceMode.label "Izvor HTML">
-<!-- Toolbar has an image with "HTML" text, so don't include it in the string -->
-<!ENTITY SourceMode.label "Izvor">
-<!ENTITY HTMLSourceMode.accesskey "I">
-<!ENTITY HTMLSourceMode.tooltip "Uredi izvor HTML">
-<!ENTITY PreviewMode.label "Predogled">
-<!ENTITY PreviewMode.accesskey "P">
-<!ENTITY PreviewMode.tooltip "Prikaži kot WYSIWYG (kot v brskalniku)">
-
-<!-- LOCALIZATION NOTE: Do NOT translate text for 'SourceTabDirection'
-     Use latin "ltr" if you want the <html> image to left of the 
-     'SourceMode.label' text defined above,
-     or use latin "rtl" if you want this image to the right of text
-     This is the value of the HTML 'dir' attribute
--->
-<!ENTITY SourceTabDirection "ltr">
+<!ENTITY alignJustifyButton.tooltip "Poravnaj besedilo na levi in desni rob">
 
 <!-- Structure Toolbar Context Menu items -->
 <!ENTITY structSelect.label         "Izberi">

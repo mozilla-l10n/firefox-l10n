@@ -1,6 +1,6 @@
 <!-- extracted from am-copies.xul -->
 
-<!ENTITY copyAndFolderTitle.label "Copies &amp; Folders">
+<!ENTITY copyAndFolderTitle.label "Kopije &amp; mape">
 <!ENTITY sendingPrefix.label "Ko se pošilja ssporočila, samodejno: ">
 <!ENTITY fccMailFolder.label "Vloži kopijo v:">
 <!ENTITY fccMailFolder.accesskey "V">
@@ -32,10 +32,10 @@
 <!ENTITY archiveInOtherFolder.label "Drugo:">
 <!ENTITY archiveInOtherFolder.accesskey "d">
 <!-- LOCALIZATION NOTE (templatesFolderOn.label): OK to translate this, bug #57440 -->
-<!ENTITY templatesFolderOn.label "mapa &quot;Predloge&quot; Folder na:">
-<!ENTITY templatesFolderOn.accesskey "G">
+<!ENTITY templatesFolderOn.label "mapa &quot;Predloge&quot; na:">
+<!ENTITY templatesFolderOn.accesskey "m">
 <!ENTITY templateInOtherFolder.label "Drugo:">
-<!ENTITY templateInOtherFolder.accesskey "s">
+<!ENTITY templateInOtherFolder.accesskey "d">
 <!ENTITY specialFolders.label "Osnutki, arhivi in predloge">
 <!ENTITY keepDrafts.label "Osnutke za sporočila shranjuj v:">
 <!ENTITY keepArchives.label "Arhive za sporočila shranjuj v:">

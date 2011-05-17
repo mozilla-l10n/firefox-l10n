@@ -1,5 +1,4 @@
 <!ENTITY messengerWindow.title "Pošta in novičarske skupine">
-<!ENTITY messengerWindow.title "Pošta in novičarske skupine">
 <!ENTITY titledefault.label    "&brandFullName;">
 <!ENTITY titleSeparator.label " - ">
 
@@ -27,7 +26,6 @@
 <!ENTITY saveAsFileCmd.key "s">
 <!ENTITY saveAsTemplateCmd.label "Predloga">
 <!ENTITY saveAsTemplateCmd.accesskey "P">
-<!ENTITY getNewMsgCmd.key "t">
 <!ENTITY getNewMsgForCmd.label "Prejmi nova sporočila za">
 <!ENTITY getNewMsgForCmd.accesskey "r">
 <!ENTITY getAllNewMsgCmdPopupMenu.label "Vse račune">
@@ -313,6 +311,7 @@ you can use these alternative items. Otherwise, their values should be empty.  -
 <!ENTITY goBackCmd.commandKey "N">
 <!ENTITY prevStarredMsgCmd.label "Sporočilo z zvezdico">
 <!ENTITY prevStarredMsgCmd.accesskey "z">
+<!ENTITY goRecentlyClosedTabs.label "Nedavno zaprti zavihki">
 <!ENTITY startPageCmd.label "Domača stran pošte">
 <!ENTITY startPageCmd.accesskey "a">
 
@@ -502,7 +501,6 @@ you can use these alternative items. Otherwise, their values should be empty.  -
 <!ENTITY getMsgButton.tooltip "Dobi nova sporočila">
 <!ENTITY getAllNewMsgCmd.label "Prenesi vsa nova sporočila">
 <!ENTITY getAllNewMsgCmd.accesskey "o">
-<!ENTITY getAllNewMsgCmd.key "T">
 <!ENTITY newMsgButton.tooltip "Ustvari novo sporočilo">
 <!ENTITY replyButton.tooltip "Odgovori na sporočilo">
 <!ENTITY replyAllButton.tooltip "Odgovori pošiljatelju in vsem prejemnikom">
@@ -737,13 +735,14 @@ you can use these alternative items. Otherwise, their values should be empty.  -
 <!-- Phishing Bar -->
 <!ENTITY phishingBarMessage2.label "To sporočilo je morda prevara.">
 <!ENTITY removePhishingBarButton1.label "Prezri opozorilo">
+<!ENTITY disablePhishingWarning1.label "Onemogoči odkrivanje prevare za vsa sporočila">
 <!ENTITY reportPhishingError1.label "Za to sporočilo ni videti, da bi bilo prevara.">
 
 <!-- MDN Bar -->
-<!ENTITY mdnBarMessage.label "Pošiljatelj tega sporočila je zahteval, da dobi obvestilo, ko boste to sporočilo prebrali. Želite pošiljatelja obvestiti?">
-<!ENTITY mdnBarIgnoreButton.label "Zahtevo prezri">
-<!ENTITY mdnBarSendButton.label "Pošlji potrdilo">
-
+<!ENTITY mdnBarIgnoreButton2.label "Prezri">
+<!ENTITY mdnBarIgnoreButton2.accesskey "i">
+<!ENTITY mdnBarSendButton2.label "Pošlji povratnico">
+<!ENTITY mdnBarSendButton2.accesskey "P">
 <!-- Quick Search Bar -->
 <!-- LOCALIZATION NOTE (quickSearchCmd.key):
      This is actually the key used for the global message search box; we have
