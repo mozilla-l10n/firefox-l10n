@@ -36,4 +36,4 @@
 
 <!ENTITY quickFilterBar.glodaUpsell.continueSearch  "Kontynuuj wyszukiwanie w pozostałych folderach">
 
-<!ENTITY quickFilterBar.glodaUpsell.pressEnterAndCurrent 'Aby kontynuować wyszukiwanie dla: "#1" należy ponownie wcisnąć Enter'>
+<!ENTITY quickFilterBar.glodaUpsell.pressEnterAndCurrent "Aby kontynuować wyszukiwanie dla: „#1” należy ponownie wcisnąć Enter">
