@@ -1,16 +1,16 @@
 <!ENTITY aboutDialog.title          "Über &brandFullName;">
 
-<!ENTITY community.start2           "&brandShortName; wird designed von ">
+<!ENTITY community.start2           "&brandShortName; wird entwickelt und gestaltet von ">
 <!-- LOCALIZATION NOTE (community.mozillaLink): This is a link title that links to http://www.mozilla.org/. -->
 <!ENTITY community.mozillaLink      "&vendorShortName;">
 <!ENTITY community.middle2          ", einer ">
 <!-- LOCALIZATION NOTE (community.creditsLink): This is a link title that links to about:credits. -->
 <!ENTITY community.creditsLink      "globalen Community">
-<!ENTITY community.end2             ", die daran arbeitet, das Internet besser zu machen. Wir glauben, dass das Internet offen sein sollte, ein öffentlicher Ort, zugänglich für jeden, ohne Einschränkung.">
+<!ENTITY community.end2             ", die gemeinsam daran arbeitet, das Internet besser zu machen. Wir glauben, dass das Internet frei und öffentlich sein sollte, zugänglich für jeden, ohne jegliche Einschränkung.">
 
-<!ENTITY contribute.start           "Hört sich interessant an? ">
+<!ENTITY contribute.start           "Klingt interessant? ">
 <!-- LOCALIZATION NOTE (contribute.getInvolvedLink): This is a link title that links to http://www.mozilla.org/contribute/. -->
-<!ENTITY contribute.getInvolvedLink "Mitmachen.">
+<!ENTITY contribute.getInvolvedLink "Jetzt mitmachen.">
 <!ENTITY contribute.end             "">
 
 <!-- LOCALIZATION NOTE (bottomLinks.license): This is a link title that links to about:license. -->
@@ -60,25 +60,25 @@
 <!-- LOCALIZATION NOTE (channel.description.start,channel.description.end): channel.description.start and
      channel.description.end create one sentence, with the current channel label inserted in between.
      example: You are currently on the _Stable_ update channel. -->
-<!ENTITY channel.description.start  "Sie verwenden momentan den &quot;">
-<!ENTITY channel.description.end    "&quot;-Updatekanal. ">
+<!ENTITY channel.description.start  "Sie sind derzeit auf dem &quot;">
+<!ENTITY channel.description.end    "&quot;-Update-Kanal. ">
 
 <!ENTITY channel.change             "Ändern">
 
-<!ENTITY channel.release.description       "Enjoy the tried and tested final release being used by hundreds of millions around the world. Stay in control of your online experience with super speed, easy customization and the latest Web technologies.">
-<!ENTITY channel.beta.description          "Experience cutting edge features with more stability. Provide feedback to help refine and polish what will be in the final release.">
-<!ENTITY channel.aurora.description        "Experience the newest innovations in an unstable environment that's not for the faint of heart. Provide feedback on features and performance to help determine what makes the final release.">
+<!ENTITY channel.release.description       "Genießen Sie die bewährte und getestete Version, die von Hunderten von Millionen Anwendern weltweit verwendet wird. Surfen Sie mit maximaler Geschwindigkeit, einfacher Anpassung und den aktuellsten Web-Technologien.">
+<!ENTITY channel.beta.description          "Verwenden Sie die neusten Features in einer stabileren Form. Geben Sie uns Feedback, und helfen Sie uns damit, der finalen Version den letzten Schliff zu geben.">
+<!ENTITY channel.aurora.description        "Verwenden Sie die neusten Innovationen in einer instabilen Umgebung, die nichts für schwache Nerven ist. Geben Sie uns Feedback über Features und Performanz, und helfen Sie uns damit, festzulegen, was den Sprung in die finale Version schafft.">
 
 <!-- LOCALIZATION NOTE (channel.selector.start,channel.selector.end): channel.selector.start and
      channel.selector.end create one sentence, with a channel selection menulist instered in between.
      This is all in one line, so try to make the localized text short.
      example: Switch to the [Stable] update channel. -->
 <!ENTITY channel.selector.start          "Zum &quot;">
-<!ENTITY channel.selector.end            "&quot;-Updatekanal wechseln.">
+<!ENTITY channel.selector.end            "&quot;-Update-Kanal wechseln.">
 
 <!-- LOCALIZATION NOTE (channel.selector.applyButton): This button applies the user's choice to switch
      to a new update channel and starts the application update process. -->
-<!ENTITY channel.selector.applyButton    "Bestätigen und aktualisieren">
+<!ENTITY channel.selector.applyButton    "Anwenden und aktualisieren">
 <!ENTITY channel.selector.cancelButton   "Abbrechen">
 
 <!ENTITY cmdCloseMac.commandKey "w">
