@@ -136,8 +136,12 @@
 <!ENTITY cspFrameAncestorBlocked.title "Блоковано політикою безпеки вмісту">
 <!ENTITY cspFrameAncestorBlocked.longDesc "<p>Браузер не дозволив цій сторінці завантажитись цим чином, бо вона має політику безпеки вмісту котра це забороняє.</p>">
 
+<!ENTITY remoteXUL.title "Віддалений XUL">
+<!ENTITY remoteXUL.longDesc "<p><ul><liБудь ласка, зв’яжіться з власниками сайта та поінформуйте їх про цю проблему.</li></ul></p>">
+
 <!-- Include app-specific error messages - do not change this in localization!
      Some applications might override netErrorApp.dtd with their specific version,
-     this inclusion needs to be intact for that approach to work correctly. -->
+     this inclusion needs to be intact for that approach to work correctly.
+     Please, try to keep this at the end of the file. -->
 <!ENTITY % netErrorAppDTD SYSTEM "chrome://global/locale/netErrorApp.dtd">
 %netErrorAppDTD;
