@@ -8,5 +8,5 @@
 <!ENTITY checkOnStartup.label        "Sprawdzaj to zawsze przy uruchamianiu programu &brandShortName;">
 <!ENTITY checkOnStartup.accesskey    "S">
 
-<!ENTITY searchIntegration.label     "Zezwól programowi &searchIntegration.engineName; na wyszukiwanie wiadomości">
+<!ENTITY searchIntegration.label     "Zezwalaj programowi &searchIntegration.engineName; na wyszukiwanie wiadomości">
 <!ENTITY searchIntegration.accesskey "Z">
