@@ -145,25 +145,15 @@
 <!ENTITY spellCheckIgnoreWord.accesskey "g">
 <!ENTITY spellCheckAddToDictionary.label "Sözlüğe ekle">
 <!ENTITY spellCheckAddToDictionary.accesskey "k">
-<!ENTITY undo.label "Geri al ">
-<!ENTITY undo.accesskey "G">
-<!ENTITY cut.label "Kes">
-<!ENTITY cut.accesskey "K">
-<!ENTITY copy.label "Kopyala">
-<!ENTITY copy.accesskey "K">
-<!ENTITY paste.label "Yapıştır">
-<!ENTITY paste.accesskey "p">
 <!ENTITY pasteQuote.label "Alıntı olarak yapıştır">
 <!ENTITY pasteQuote.accesskey "A">
 
 <!ENTITY openAttachment.label "Aç">
 <!ENTITY openAttachment.accesskey "A">
-<!ENTITY delete.label "Sil">
-<!ENTITY delete.accesskey "S">
 <!ENTITY renameAttachment.label "Yeniden isimlendir…">
 <!ENTITY renameAttachment.accesskey "r">
-<!ENTITY selectAll.label "Tümünü seç">
-<!ENTITY selectAll.accesskey "e">
+<!ENTITY deleteAttachment.accesskey "D">
+<!ENTITY selectAllAttachments.accesskey "A">
 <!ENTITY attachFile.label "Dosyayı ek olarak  ekle…">
 <!ENTITY attachFile.accesskey "D">
 <!ENTITY attachPage.label "Web sayfasını ek olarak ekle…">

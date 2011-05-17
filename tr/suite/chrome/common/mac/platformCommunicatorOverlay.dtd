@@ -27,7 +27,6 @@
 <!ENTITY printSetupCmd.label "Sayfa düzeni…">
 <!ENTITY printSetupCmd.accesskey "y">
 
-<!ENTITY redoCmd.label "Yinele">
 <!ENTITY redoCmd.key "Z">
 
 <!ENTITY historyCmd.key "H">
