@@ -192,7 +192,7 @@
 <!ENTITY sendlaterButton.tooltip "Pošlji to sporočilo pozneje"> 
 <!ENTITY quoteButton.tooltip "Navedi prejšnje sporočilo"> 
 <!ENTITY addressButton.tooltip "Izberite prejemnika iz adresarja"> 
-<!ENTITY attachButton.tooltip "Vključi priponko"> 
+<!ENTITY attachButton.tooltip "Vključi priponko"> <!ENTITY spellingButton.tooltip "Preverja črkovanje izbire ali celotnega sporočila">
 <!ENTITY saveButton.tooltip "Shrani to sporočilo"> 
 <!ENTITY cutButton.tooltip              "Izreži">
 <!ENTITY copyButton.tooltip             "Kopiraj">
@@ -200,6 +200,9 @@
 
 <!-- Headers -->
 <!ENTITY fromAddr.label "Od:">
+<!--LOCALIZATION NOTE headersSpace.style is for aligning  the From:, To: and
+    Subject: rows. It should be larger than the largest Header label  -->
+<!ENTITY headersSpace.style "width: 9em;">
 <!ENTITY fromAddr.accesskey "b">
 <!ENTITY toAddr.label "Za:"> 
 <!ENTITY ccAddr.label "Kp:"> 
@@ -261,6 +264,10 @@
 <!ENTITY attachFile.accesskey "P">
 <!ENTITY attachPage.label "Pripni spletno stran …">
 <!ENTITY attachPage.accesskey "L">
+
+<!-- Spell checker context menu items -->
+<!ENTITY spellAddDictionaries.label "Dodaj slovarje…">
+<!ENTITY spellAddDictionaries.accesskey "O">
 
 <!-- Title for the address picker panel -->
 <!ENTITY addressesSidebarTitle.label "Stiki">
