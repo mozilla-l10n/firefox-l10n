@@ -8,7 +8,7 @@
 <!ENTITY enablePlugins.title                       "Aktiver plugins">
 <!ENTITY privacy.title                             "Privatliv &amp; sikkerhed">
 <!ENTITY allowCookies.title                        "Tillad cookies">
-<!ENTITY doNotTrack.title                          "Fortæl websteder at jeg ikke ønsker at blive sporet">
+<!ENTITY doNotTrack.title                          "Aktiver Spor-mig-ej header">
 <!ENTITY clearPrivateData2.title                   "Ryd private data">
 <!ENTITY clearPrivateData.button                   "Ryd">
 <!ENTITY rememberPasswords.title                   "Husk adgangskoder">
