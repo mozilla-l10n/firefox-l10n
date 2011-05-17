@@ -63,9 +63,9 @@
 
 <!ENTITY channel.change             "Ŝanĝi">
 
-<!ENTITY channel.release.description       "Ĝui la provitan kaj testitan finan eldonon kiu estas uzata de milionoj de personoj ĉirkaŭ la mondo. Regu vian retan esperton per grandega rapideco, facila adaptado kaj la lastaj TTT-ajn teĥnologioj.">
-<!ENTITY channel.beta.description          "Sperti la plej elstaraj novaj trajto pli stabile. Raporti, komenti kaj reagi por helpi poluri kaj rafini tio kio aperos en fina eldono.">
-<!ENTITY channel.aurora.description        "Sperti la lastajn novaĵojn en neestabila etoso nur taŭga por kuraĝuloj. Raporti, komenti kaj reagi pri trajtoj kaj efikeco por helpi decidi kio aperos en fina eldono.">
+<!ENTITY channel.release.description       "Ĝui la provitan kaj testitan finan eldonon kiu estas uzata de milionoj de personoj ĉirkaŭ la mondo. Regi vian retan sperton per grandega rapideco, facila adaptado kaj la lastaj TTT-aj teĥnologioj.">
+<!ENTITY channel.beta.description          "Sperti la plej elstarajn novajn trajtojn pli stabile. Raporti, komenti kaj reagi por helpi poluri kaj rafini tion kio aperos en fina eldono.">
+<!ENTITY channel.aurora.description        "Sperti la lastajn novaĵojn en nestabila etoso nur taŭga por kuraĝuloj. Raporti, komenti kaj reagi pri trajtoj kaj efikeco por helpi decidi kio aperos en fina eldono.">
 
 <!-- LOCALIZATION NOTE (channel.selector.start,channel.selector.end): channel.selector.start and
      channel.selector.end create one sentence, with a channel selection menulist instered in between.
