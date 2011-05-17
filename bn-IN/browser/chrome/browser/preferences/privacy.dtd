@@ -1,3 +1,8 @@
+<!ENTITY tracking.label                 "Tracking">
+
+<!ENTITY doNotTrack.label                "ওয়েব-সাইটকে জানানো হবে যে আমাকে অনুসরণ করা বাঞ্ছনীয় নয়">
+<!ENTITY doNotTrack.accesskey            "d">
+
 <!ENTITY  history.label "পূর্ববর্তী তথ্য">
 
 <!ENTITY  locationBar.label             "অবস্থানসূচক বার">
