@@ -1,3 +1,8 @@
+<!ENTITY tracking.label                 "Відслідковування">
+
+<!ENTITY doNotTrack.label               "Казати сайтам, що я не хочу щоб мене відслідковували">
+<!ENTITY doNotTrack.accesskey           "к">
+
 <!ENTITY  history.label                 "Історія відвідувань">
 
 <!ENTITY  locationBar.label             "Панель адрес">
@@ -29,7 +34,6 @@
 
 <!ENTITY  showCookies.label             "Показати куки…">
 <!ENTITY  showCookies.accesskey         "о">
-
 
 <!ENTITY  historyHeader.pre.label          "&brandShortName; буде:">
 <!ENTITY  historyHeader.pre.accesskey      "б">
