@@ -61,3 +61,23 @@
      example: Downloading update — 111 KB of 13 MB -->
 <!ENTITY update.downloading.start   "ഡൌണ്‍ലോഡ് ചെയ്യുന്നു — ">
 <!ENTITY update.downloading.end     "">
+
+
+
+<!ENTITY channel.aurora.description        "അസ്ഥിരമായ സാഹചര്യങ്ങളിലുള്ള പുതുപുത്തന്‍ കണ്ടുപിടുത്തങ്ങള്‍ കണ്ടു നോക്കൂ. അവസാന ലക്കം മെച്ചപ്പെടുത്തുന്നതിനായി വിശേഷതകളും പ്രവര്‍ത്തനങ്ങളേയും പറ്റി അഭിപ്രായങ്ങളും നിര്‍ദ്ദേശങ്ങളും അറിയിയ്ക്കൂ.">
+
+<!ENTITY channel.beta.description          "സ്ഥിരതയുള്ള കൂടുതല്‍ വിശേഷതകള്‍ ലഭ്യമാക്കൂ. അവസാന ലക്കം ഏറ്റവും നല്ലതാക്കുന്നതിനായി ദയവായി അഭിപ്രായങ്ങളും നിര്‍ദ്ദേശങ്ങളും അറിയിയ്ക്കൂ.">
+
+<!ENTITY channel.change             "മാറ്റൂക">
+
+<!ENTITY channel.description.start  "നിങ്ങളിപ്പോള്‍ പരിഷ്കരിച്ച">
+<!ENTITY channel.description.end    " ചാനലിലാണു്. ">
+
+<!ENTITY channel.release.description       "ലോകമെമ്പാടുമുള്ള അനേകം കോടി ജനങ്ങള്‍ പരീക്ഷിച്ചു് ഉപയോഗിച്ചു് തുടങ്ങിയ അവസാന ലക്കം ഉപയോഗിച്ചു്  ആസ്വദിയ്ക്കൂ. ഏറ്റവും വേഗതയേറിയതും നിങ്ങള്‍ക്കു് ഇഷ്ടാനുസൃതം ലഭ്യമാക്കുവാനും സാധ്യമായ ഏറ്റവും പുതിയ വെബ് സാങ്കേതികളുമായി നിങ്ങളുടെ ഓണ്‍ലൈന്‍ ഉപയോഗം ആസ്വാദകരമാക്കൂ.">
+
+<!ENTITY channel.selector.applyButton    "കമ്പ്യൂട്ടറില്‍ സൂക്ഷിച്ചു് പരിഷ്കരിയ്ക്കുക">
+<!ENTITY channel.selector.cancelButton   "റദ്ദാക്കുക">
+
+<!ENTITY channel.selector.start          "പരിഷ്കരിച്ച ചാനലിലേക്കു്">
+<!ENTITY channel.selector.end            "മാറുക.">
+

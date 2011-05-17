@@ -153,3 +153,10 @@
 <button id='getMeOutOfHereButton'>&securityOverride.getMeOutOfHereButton;</button>
 <button id='exceptionDialogButton'>&securityOverride.exceptionButtonLabel;</button>
 ">
+
+
+<!ENTITY remoteXUL.title "റിമോട്ട് XUL">
+<!ENTITY remoteXUL.longDesc "<p><ul><li>ദയവായി വെബ് സൈറ്റ് ഉടമസ്ഥാക്കളെ ഈ പ്രശ്നത്തെപ്പറ്റി അറിയിയ്ക്കുക.</li></ul></p>">
+
+
+
