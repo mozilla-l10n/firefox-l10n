@@ -195,5 +195,6 @@ functionality specific to firefox. -->
 <!ENTITY securityOverride.getMeOutOfHereButton "আমি এখান থেকে প্রস্থান করতে চাই!">
 <!ENTITY securityOverride.exceptionButtonLabel "ব্যতিক্রম যোগ করুন…">
 
-
+<!ENTITY remoteXUL.title "দূরবর্তী XUL">
+<!ENTITY remoteXUL.longDesc "<p><ul><li>অনুগ্রহ করে ওয়েব-সাইটের পরিচালকদেরকে এই সমস্যা সম্পর্কে অবহিত করুন।</li></ul></p>">
 
