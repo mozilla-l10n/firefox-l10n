@@ -716,9 +716,9 @@
 <!ENTITY AddToAddressBook.accesskey         "k">
 <!ENTITY AddDirectlyToAddressBook.label     "Dodaj do książki adresowej">
 <!ENTITY AddDirectlyToAddressBook.accesskey "D">
-<!ENTITY EditContact.label                  "Edytuj kontakt…">
+<!ENTITY EditContact.label                  "Edytuj wizytówkę…">
 <!ENTITY EditContact.accesskey              "E">
-<!ENTITY ViewContact.label                  "Wyświetl kontakt">
+<!ENTITY ViewContact.label                  "Wyświetl wizytówkę">
 <!ENTITY ViewContact.accesskey              "W">
 <!ENTITY SubscribeToNewsgroup.label         "Subskrybuj grupę">
 <!ENTITY SubscribeToNewsgroup.accesskey     "S">

@@ -14,4 +14,4 @@
 <!ENTITY editContactPanelDone.label       "Zapisz">
 <!ENTITY editContactPanelDone.accesskey   "Z">
 
-<!ENTITY contactMoveDisabledWarning.description "Nie można zmienić książki adresowej, ponieważ wizytówka znajduje się na liście dystrybucyjej.">
+<!ENTITY contactMoveDisabledWarning.description "Nie można zmienić książki adresowej, ponieważ adres znajduje się na liście dystrybucyjej.">
