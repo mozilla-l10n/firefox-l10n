@@ -11,7 +11,7 @@
 <!ENTITY safeb.palm.accept.label "Joo! Ntšhe mo!">
 <!ENTITY safeb.palm.accept.statustext "E-ya go letlakala la ka la gae">
 <!ENTITY safeb.palm.decline.label "Hlokomologa temošo ye">
-<!ENTITY safeb.palm.decline.statustext "Tswalela temošo">
+<!ENTITY safeb.palm.decline.statustext "Tswalela temošo" >
 <!ENTITY safeb.palm.notforgery.label2 "Bjo ga se boradia bja wepeng…">
 <!ENTITY safeb.palm.reportPage.label "Ke ka baka la eng letlakala le le be le thibetšwe?">
 

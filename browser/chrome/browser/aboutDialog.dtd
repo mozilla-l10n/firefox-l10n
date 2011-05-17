@@ -54,3 +54,27 @@
 
 <!ENTITY update.downloading.start   "Go laolla mpshafatšo —">
 <!ENTITY update.downloading.end     "">
+<!-- LOCALIZATION NOTE (channel.description.start,channel.description.end): channel.description.start and
+     channel.description.end create one sentence, with the current channel label inserted in between.
+     example: You are currently on the _Stable_ update channel. -->
+
+<!ENTITY channel.description.start  "Gona bjale o go ">
+<!ENTITY channel.description.end    "kanale e mpshafaditšwego.">
+
+<!ENTITY channel.change             "Fetoša">
+
+<!ENTITY channel.release.description       "Thabela tokollo e lekilwego ya mafelelo yeo e dirišwago ke dimilione-milione tša bath go dikologa lefase. Laola maitemogelo a gago a ge o le inthaneteng a dithekinolotši tša Wepe tšeo di nago le lebelo, tšeo di tlwaelegago gabonolo le tša moragorago.">
+<!ENTITY channel.beta.description          "Itemogele dibopego tša makgona-tšohle le tša motheo o tiilego. Re nee dipoelo gore o re thuše go phadimiša tokollo ya rena ya mafelelo.">
+<!ENTITY channel.aurora.description        "Itemogele dithomološo tše mpsha tikologong yeo e se nago motheo yeo e sego ya mafšega. Re nee dipoelo ka ga dibopego le tsela yeo di šomago ka yona go re thuša go lemoga gore re lokolla eng la mafelelo.">
+<!-- LOCALIZATION NOTE (channel.selector.start,channel.selector.end): channel.selector.start and
+     channel.selector.end create one sentence, with a channel selection menulist instered in between.
+     This is all in one line, so try to make the localized text short.
+     example: Switch to the [Stable] update channel. -->
+
+<!ENTITY channel.selector.start          "Fetogela go">
+<!ENTITY channel.selector.end            "kanale e mpshafaditšwego.">
+<!-- LOCALIZATION NOTE (channel.selector.applyButton): This button applies the user's choice to switch
+     to a new update channel and starts the application update process. -->
+
+<!ENTITY channel.selector.applyButton    "Diriša gomme o mpshafatše">
+<!ENTITY channel.selector.cancelButton   "Khansela">

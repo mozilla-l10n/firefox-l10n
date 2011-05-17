@@ -1,3 +1,8 @@
+<!ENTITY tracking.label                 "Go latelela">
+
+<!ENTITY doNotTrack.label               "Botša diwepesate gore Ga ke nyake go latelelwa">
+<!ENTITY doNotTrack.accesskey           "k">
+
 <!ENTITY  history.label                 "Histori">
 
 <!ENTITY  locationBar.label             "Para ya lefelo">
@@ -29,7 +34,6 @@
 
 <!ENTITY  showCookies.label             "Laetša dikhukhi…">
 <!ENTITY  showCookies.accesskey         "L">
-
 
 <!ENTITY  historyHeader.pre.label          "&brandShortName; e tla:">
 <!ENTITY  historyHeader.pre.accesskey      "t">
