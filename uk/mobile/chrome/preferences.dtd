@@ -8,6 +8,7 @@
 <!ENTITY enablePlugins.title                       "Дозволити модулі">
 <!ENTITY privacy.title                             "Приватність та безпека">
 <!ENTITY allowCookies.title                        "Дозволити куки">
+<!ENTITY doNotTrack.title                          "Казати сайтам не відслідковувати мене">
 <!ENTITY clearPrivateData2.title                   "Вичистити приватні дані">
 <!ENTITY clearPrivateData.button                   "Вичистити">
 <!ENTITY rememberPasswords.title                   "Пам’ятати паролі">

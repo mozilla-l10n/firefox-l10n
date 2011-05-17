@@ -95,6 +95,7 @@
 <!ENTITY contextSaveImage.label       "Зберегти зображення">
 <!ENTITY contextShareLink.label       "Поділитись посиланням">
 <!ENTITY contextShareImage.label      "Поділитись зображенням">
+<!ENTITY contextBookmarkLink.label    "Закласти посилання">
 <!ENTITY contextSaveVideo.label       "Зберегти відео">
 <!ENTITY contextShareVideo.label      "Поділитись відеом">
 <!ENTITY contextPlayMedia.label       "Грати">
