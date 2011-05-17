@@ -8,8 +8,3 @@
 <!ENTITY aboutHome.openAllTabs          "Iepenje alles yn ljepblêden">
 <!ENTITY aboutHome.noTabs               "Gjin ljepblêden fan de lêste kear">
 <!ENTITY aboutHome.noAddons             "Gjin oanrikkemandearre tafoegings">
-
-<!-- LOCALIZATION NOTE: 'Firefox Spark' is the official name of the promotion/constest and should not be translated -->
-<!ENTITY aboutHome.promoLabel           "Firefox Spark">
-<!-- LOCALIZATION NOTE: 'Play' should be translated in the context of 'playing a game' and not 'playing a video' -->
-<!ENTITY aboutHome.promoButton          "Spylje">
