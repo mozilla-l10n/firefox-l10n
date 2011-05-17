@@ -110,3 +110,8 @@
 
 <!ENTITY  rememberHistory.label      "ബ്രൌസിങ് നാള്‍വഴി ഓര്‍ത്തു് വയ്ക്കുക">
 <!ENTITY  rememberHistory.accesskey  "b">
+
+<!ENTITY tracking.label                 "നിരീക്ഷണം">
+<!ENTITY doNotTrack.label               "നിരീക്ഷണത്തിന്റെ ആവശ്യമില്ലെന്നു് വെബ് സൈറ്റുകളെ അറിയിയ്ക്കുക">
+<!ENTITY doNotTrack.accesskey           "d">
+
