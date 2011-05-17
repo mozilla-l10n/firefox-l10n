@@ -1,11 +1,11 @@
 <!--LOCALIZATION NOTE printProgress.dtd Main UI for Print Progress Dialog -->
-<!ENTITY printWindow.title "Go gatiša">
-<!ENTITY title    "Thaetlele:">
+<!ENTITY printWindow.title "Go gatiša"> 
+<!ENTITY title    "Thaetlele:"> 
 <!ENTITY progress "Kgatelopele:">
 <!ENTITY preparing "Go itokiša…">
 <!ENTITY printComplete "Kgatišo e feditšwe.">
 
-<!ENTITY dialogCancel.label "Khansela">
+<!ENTITY dialogCancel.label "Khansela"> 
 <!ENTITY dialogClose.label "Tswalela">
 <!-- LOCALIZATION NOTE (percentPrint):
 

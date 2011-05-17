@@ -54,8 +54,8 @@
 <!ENTITY valueColumn.label "Boleng">
 <!-- Tooltips -->
 
-<!ENTITY prefColumnHeader.tooltip "Kgotla go beakanya">
-<!ENTITY columnChooser.tooltip "Kgotla go kgetha dikholomo tšeo o di bontšhago">
+<!ENTITY prefColumnHeader.tooltip "Kgotla go beakanya"> 
+<!ENTITY columnChooser.tooltip "Kgotla go kgetha dikholomo tšeo o di bontšhago"> 
 <!-- Context Menu -->
 
 <!ENTITY copyPref.key "C">

@@ -60,7 +60,7 @@
 <!ENTITY certmgr.pending.label                "Currently verifying certificate…">
 <!ENTITY certmgr.subjectinfo.label            "Ntšheditšwe Go">
 <!ENTITY certmgr.issuerinfo.label             "Ntšhitšwe Ke">
-<!ENTITY certmgr.validity.label               "Bonnete">
+<!ENTITY certmgr.validity.label               "Bonnete" >
 <!ENTITY certmgr.fingerprints.label           "Kgatišo ya menwana">
 <!ENTITY certmgr.certdetail.title             "Tshedimošo ya Setifikheiti">
 <!ENTITY certmgr.certdetail.cn                "Leina la Setlwaedi (CN)">

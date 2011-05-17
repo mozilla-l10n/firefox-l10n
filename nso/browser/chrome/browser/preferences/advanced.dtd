@@ -21,8 +21,6 @@
 <!ENTITY allowHWAccel.accesskey          "h">
 <!ENTITY checkSpelling.label             "Lekola mopeleto wa ka ge ke dutše ke tlanya">
 <!ENTITY checkSpelling.accesskey         "t">
-<!ENTITY doNotTrack.label                "Botša diwepesate gore Ga ke nyake go latelelwa">
-<!ENTITY doNotTrack.accesskey            "k">
 
 <!ENTITY systemDefaults.label            "Ditirelwa tša tshepedišo">
 <!--XXX-->
