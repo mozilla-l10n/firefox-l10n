@@ -1,0 +1,65 @@
+<!-- LOCALIZATION NOTE: this file is a direct copy of 
+     toolkit/locales/en-US/chrome/global/aboutRights.dtd
+     with the exception of the XXX comment below. -->
+
+<!-- rights.locale-direction instead of the usual local.dir entity, so RTL can skip translating page. -->
+<!ENTITY rights.locale-direction "ltr">
+<!ENTITY rights.pagetitle       "about:rights">
+<!ENTITY rights.intro-header    "О Вашим правима">
+<!ENTITY rights.intro "Програм &brandFullName; је бесплатан програм отвореног кода кога су направиле хиљаде ентузијаста широм света. Ево неколико ствари које треба да знате:">
+
+<!-- Note on pointa / pointb / pointc form:
+     These points each have an embedded link in the HTML, so each point is
+     split into chunks for text before the link, the link text, and the text
+     after the link. If a localized grammar doesn't need the before or after
+     chunk, it can be left blank.
+
+     Also note the leading/trailing whitespace in strings here, which is
+     deliberate for formatting around the embedded links. -->
+<!ENTITY rights.intro-point1a "Програм &brandShortName; вам је уступљен под условима које прописује ">
+<!ENTITY rights.intro-point1b "Мозилина јавна лиценца">
+<!ENTITY rights.intro-point1c ". То значи да смете да користите, умножавате и делите програм &brandShortName; трећим лицима.  Слободни сте да мењате изворни код програма &brandShortName; да бисте га прилагодили својим потребама.  Мозилина јавна лиценца Вам даје право да испоручујете Ваше измењено издање.">
+
+<!ENTITY rights.intro-point2a "Мозила (Mozilla) Вам не даје никаква права над робним маркама Мозиле (Mozilla) и фајерфокса (Firefox) или логотиповима.  Додатни подаци о робним маркама доступни су ">
+<!ENTITY rights.intro-point2b "овде">
+<!ENTITY rights.intro-point2c ".">
+
+<!-- point 3 text for official branded builds -->
+<!ENTITY rights.intro-point3a "Полисе о приватности за производе које прави &vendorShortName;'s могу се наћи ">
+<!ENTITY rights.intro-point3b "овде">
+<!ENTITY rights.intro-point3c ".">
+
+<!-- point 3 text for unbranded builds -->
+<!ENTITY rights.intro-point3-unbranded "Све применљиве полисе о приватности су тамо набројане.">
+
+<!-- point 4 text for official branded builds -->
+<!ENTITY rights.intro-point4a "Програм &brandShortName; нуди такође изборне услуге за информисање о веб сајтовима, попут сервиса за безбедно прегледање (SafeBrowsing service); међутим, не можемо да гарантујемо да су 100&#37; прецизни и безгрешни.  Више детаља, укључујући податке о искључивању сервиса, могу да се пронађу у ">
+<!ENTITY rights.intro-point4b "условима сервиса">
+<!ENTITY rights.intro-point4c ".">
+
+<!-- point 4 text for unbranded builds -->
+<!ENTITY rights.intro-point4a-unbranded "Ако овај производ укључује веб услуге, сви односни услови пружања услуга треба да буду повезани на одељак о ">
+<!ENTITY rights.intro-point4b-unbranded "мрежним услугама">
+<!ENTITY rights.intro-point4c-unbranded ".">
+
+<!ENTITY rights.webservices-header "Мрежне услуге за програм &brandFullName;">
+
+<!-- intro paragraph for branded builds -->
+<!-- XXX Edited this section to remove the specific reference to Firefox UI (see bug 514817) -->
+<!ENTITY rights.webservices-a "Програм &brandFullName; користи сервисе за информисање о веб сајтовима („услуге‟ у даљем тексту), попут услуге за безбедно читање (SafeBrowsing) који су Вам доступни у овом бинарном издању програма &brandShortName; како је испод описано.  Ако не желите да користите услуге или ако Вам услови дати испод нису прихватљиви, можете да искључите услугу у подешавањима порграма, бирањем одељка о ">
+<!ENTITY rights.webservices-b "безбедности ">
+<!ENTITY rights.webservices-c "и искључивањем опција „&blockAttackSites.label;‟ и „&blockWebForgeries.label;‟">
+
+<!-- intro paragraph for unbranded builds -->
+<!ENTITY rights.webservices-unbranded "Преглед услуга о веб сајтовима које су уграђене у производ, заједно са подацима како их можете искључити (где је применљиво) је тамо наведен.">
+
+<!-- point 1 text for unbranded builds -->
+<!ENTITY rights.webservices-term1-unbranded "Сви услови услуга за овај производ су тамо набројани.">
+
+<!ENTITY rights.webservices-term1 "&vendorShortName; и приложници, давачи лиценци и партнери сарађују како би обезбедили најпрецизније и најсвежије податке о фишингу и злонамерним програмима.  Међутим, они не могу да гарантују да је су ти подаци исрцпни и без грешака.  Неки ризични сајтови можда нису у списку а неки безбедни сајтови могу бити означени као ризични.">
+<!ENTITY rights.webservices-term2 "&vendorShortName; задржава право да укине или промени услуге.">
+<!ENTITY rights.webservices-term3 "Можете да користите услуге које долазе уз ово издање програма &brandShortName; и располажете свим правима која су за то потребна.  &vendorShortName; и даваоци дозвола задржавају сва остала права на услугу.  Ови услови не ограничавају никоја права која су Вам дата лиценцом отвореног кода примењеном на &brandShortName; и на издања програма &brandShortName; у изворном коду.">
+<!ENTITY rights.webservices-term4 "Услуге се пружају без икакве гаранције.  &vendorShortName;, приложници, давачи лиценци и дистрибутери одричу све гаранције, имплицитне или експлицитне, укључујући али се не ограничавајући на гаранције да су услуге комерцијално вредне или да одговарају Вашој намени.  Ви сте у потпуности одговорни за избор услуга које ће одговарати Вашим потребама и за квалитет и ниво пружене услуге.  У неким јурисдикцијама ограничавање или изузимање од одговорности није могуће, па се у том случају овај текст не односи на Вас.">
+<!ENTITY rights.webservices-term5 "Изузев у мери коју захтева закон, &vendorShortName;, приложници, давачи лиценци и дистрибутери нису одговорни за било какву индиректну, специјалну, случајну, последичну или другу штету која проистиче из или је на било који начин у вези са употребом програма &brandShortName; и услуга.  Колективна одговорност под овим условима не може да премаши $500 (пет стотина америчких долара). Неке јурисдикције не ограничавање или одрицање обештећења није могуће, па се у том случају овај текст не односи на Вас.">
+<!ENTITY rights.webservices-term6 "&vendorShortName; може да измени ове услове с времена на време и по потреби.  Ови услови се не могу мењати или поништити без писмене сагласности продавца (&vendorShortName;)">
+<!ENTITY rights.webservices-term7 "Ови услови су сагласни са законима државе Калифорније у САД, искључујући законом предвиђене изузетке.  Ако се за било који део овог споразума утврди да није важећи или одржив, остатак наставља пуноважност.  У случају спора између изворног енглеског и преведеног издања овог споразума, преовладава енглески изворни текст.">

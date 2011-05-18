@@ -1,0 +1,94 @@
+<!ENTITY back.label            "Назад">
+<!ENTITY forward.label         "Напред">
+<!ENTITY reload.label          "Обнови">
+<!ENTITY stop.label            "Заустави">
+<!ENTITY go.label              "Иди">
+<!ENTITY openLocation.label    "Отвори адресу">
+<!ENTITY star.label            "Забележи">
+
+<!ENTITY newtab.label          "Нови језичак">
+<!ENTITY closetab.label        "Затвори језичак">
+
+<!ENTITY cut.label             "Исеци">
+<!ENTITY copy.label            "Умножо">
+<!ENTITY copylink.label        "Умножи везу">
+<!ENTITY paste.label           "Убаци">
+<!ENTITY delete.label          "Обриши">
+<!ENTITY selectAll.label       "Одабери све">
+<!ENTITY noSuggestions.label   "(Нема предлога)">
+<!ENTITY addToDictionary.label "Додај у речник">
+
+<!ENTITY bookmarksHeader.label     "Забелешке">
+<!ENTITY bookmarksManage.label     "Управљај">
+
+<!ENTITY editBookmarkRemove.label  "Уклони">
+<!ENTITY editBookmarkDone.label    "Готово">
+<!ENTITY editBookmarkTags.label    "Додај ознаке овде">
+
+<!ENTITY helperApp.prompt          "Шта хоћете да радите са">
+<!ENTITY helperApp.open            "Отвори">
+<!ENTITY helperApp.save            "Сними">
+<!ENTITY helperApp.nothing         "Ништа">
+
+<!ENTITY formHelper.previous       "Претходно">
+<!ENTITY formHelper.next           "Следеће">
+<!ENTITY formHelper.done           "Готово">
+
+<!ENTITY addonsHeader.label        "Додаци">
+<!ENTITY addonsLocal.label         "Ваши додаци">
+<!ENTITY addonsUpdate.label        "Ажурирање">
+<!ENTITY addonsRepo.label          "Добави додатке">
+<!ENTITY addonsRecommended.label   "Препоручљиво">
+<!ENTITY addonsSearch.label        "Претрага">
+<!ENTITY addonsSearch2.emptytext   "Претражи каталог">
+<!ENTITY addonsSearch.recommended  "Препоручљиво">
+
+<!ENTITY addonOptions.label        "Опције">
+<!ENTITY addonEnable.label         "Омогући">
+<!ENTITY addonDisable.label        "Онемогући">
+<!ENTITY addonInstall2.label       "Додај у &brandShortName;">
+<!ENTITY addonUninstall.label      "Избриши">
+<!ENTITY addonCancel.label         "Откажи">
+<!ENTITY addonShowPage.label       "Иди на страну">
+
+<!ENTITY downloadsHeader.label     "Пријеми">
+
+<!ENTITY downloadShowPage.label    "Иди на страну">
+<!ENTITY downloadShow2.label       "Нађи">
+<!ENTITY downloadOpen2.label       "Отвори">
+<!ENTITY downloadCancel.label      "Откажи">
+<!ENTITY downloadPause.label       "Паузирај">
+<!ENTITY downloadResume.label      "Настави">
+<!ENTITY downloadRetry.label       "Покушај поново">
+<!ENTITY downloadRemove.label      "Уклони">
+<!ENTITY downloadFailed.label      "Неуспешно">
+
+<!ENTITY noResults.label           "Нема резултата">
+<!ENTITY allBookmarks.label        "Види све забелешке">
+
+<!ENTITY searchEngine.addSearch    "Додај претраживач:">
+
+<!ENTITY bookmarkPopup.label       "Страна забележена">
+<!ENTITY bookmarkRemove.label      "Уклони">
+<!ENTITY bookmarkEdit.label        "Измени">
+
+<!ENTITY identity.unverifiedsite2 "Овај веб сајт не даје податке о идентитету.">
+<!ENTITY identity.connectedTo2 "Повезани сте на">
+<!-- Localization note (identity.runBy2)
+ The layout of the identity dialog prevents combining this into a single string with
+ substitution variables.  If it is difficult to translate the sense of the string
+ with that structure, consider a translation which ignores the preceding domain and
+ just addresses the organization to follow, e.g. "This site is run by " -->
+<!ENTITY identity.runBy2 "којим управља">
+
+<!ENTITY consoleHeader.label       "Конзола за грешке">
+<!ENTITY consoleAll.label          "Све">
+<!ENTITY consoleErrors.label       "Грешке">
+<!ENTITY consoleWarnings.label     "Упозорења">
+<!ENTITY consoleMessages.label     "Поруке">
+<!ENTITY consoleCodeEval.label     "Код:">
+<!ENTITY consoleClear.label        "Очисти">
+<!ENTITY consoleEvaluate.label     "…">
+<!ENTITY consoleErrFile.label      "Изворна датотека:">
+<!ENTITY consoleErrLine.label      "Линија:">
+<!ENTITY consoleErrColumn.label    "Колона:">
