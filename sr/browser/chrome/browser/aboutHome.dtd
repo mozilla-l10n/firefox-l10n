@@ -9,12 +9,8 @@
 <!-- LOCALIZATION NOTE (abouthome.brandStart):
      brandShortName must be in a <span/>
 -->
-<!ENTITY abouthome.brandStart "<span>&brandShortName;</span> - почетак">
 
 <!ENTITY abouthome.searchEngineButton.label "Потражи…">
-
-<!ENTITY abouthome.searchEngineLinks.advanced "Напредна претрага">
-<!ENTITY abouthome.searchEngineLinks.preferences "Поставке">
 
 <!ENTITY abouthome.aboutMozilla "О Мозили">
 
