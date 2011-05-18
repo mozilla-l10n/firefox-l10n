@@ -757,7 +757,7 @@ you can use these alternative items. Otherwise, their values should be empty.  -
 
 <!ENTITY phishingBarMessage2.label "Meastar gur camscéim í an teachtaireacht seo.">
 <!ENTITY removePhishingBarButton1.label "Tabhair neamhaird ar rabhadh">
-<!ENTITY disablePhishingWarning1.label "Disable scam detection for all messages">
+<!ENTITY disablePhishingWarning1.label "Ná déan iarracht camscéimeanna a bhrath">
 <!ENTITY reportPhishingError1.label "Ní camscéim ríomhphoist é seo.">
 <!-- MDN Bar -->
 

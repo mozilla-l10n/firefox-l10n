@@ -8,8 +8,8 @@
 <!ENTITY archiveYearly.accesskey "b">
 <!ENTITY archiveMonthly.label "i bhfillteáin mhíosúla iad">
 <!ENTITY archiveMonthly.accesskey "m">
-<!ENTITY keepFolderStructure.label "Keep existing folder structure of archived messages">
-<!ENTITY keepFolderStructure.accesskey "K">
+<!ENTITY keepFolderStructure.label "Coinnigh struchtúr na bhfillteán le haghaidh teachtaireachtaí cartlannaithe">
+<!ENTITY keepFolderStructure.accesskey "C">
 <!ENTITY archiveExample.label "Sampla">
 <!-- LOCALIZATION NOTE (archiveFolderName.label): this should match the default
      name for the "Archives" folder -->

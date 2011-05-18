@@ -16,4 +16,4 @@
 <!ENTITY editContactPanelDone.label "Críochnaithe">
 <!ENTITY editContactPanelDone.accesskey "C">
 
-<!ENTITY contactMoveDisabledWarning.description "You can't change the address book because the contact is in a mailing list.">
+<!ENTITY contactMoveDisabledWarning.description "Ní féidir leat an leabhar seoltaí a athrú toisc go bhfuil an teagmháil seo i liosta ríomhphoist.">
