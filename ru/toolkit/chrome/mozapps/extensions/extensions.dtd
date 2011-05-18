@@ -19,8 +19,8 @@
 <!ENTITY warning.updatesecurity.label "Проверка безопасного обновления дополнений отключена. Обновления могут поставить вас под угрозу.">
 <!ENTITY warning.updatesecurity.enable.label "Включить">
 <!ENTITY warning.updatesecurity.enable.tooltip "Включить проверку безопасного обновления дополнений">
-<!ENTITY info.plugincheck.label "Проверить наличие обновлений для моих плагинов">
-<!ENTITY info.plugincheck.tooltip "Проверить наличие обновлений для моих плагинов">
+<!ENTITY info.plugincheck.label "Проверить актуальность версий установленных у вас плагинов">
+<!ENTITY info.plugincheck.tooltip "Проверить актуальность версий установленных у вас плагинов">
 <!ENTITY view.search.label "Поиск">
 <!ENTITY view.discover.label "Получить дополнения">
 <!ENTITY view.locales.label "Языки">
