@@ -23,7 +23,7 @@
 <!ENTITY copyCmd.accesskey					"K">
 <!ENTITY pasteCmd.label						"Einfügen">
 <!ENTITY pasteCmd.key						"V">
-<!ENTITY pasteCmd.accesskey					"E">
+<!ENTITY pasteCmd.accesskey					"i">
 <!ENTITY deleteCmd.label					"Löschen">
 <!ENTITY deleteCmd.accesskey				"L">
 <!ENTITY selectAllCmd.label					"Alles auswählen">
@@ -32,7 +32,7 @@
 <!ENTITY preferencesCmd.label				"Einstellungen…">
 <!ENTITY preferencesCmd.accesskey			"E">
 <!ENTITY preferencesCmdUnix.label       "Einstellungen…">
-<!ENTITY preferencesCmdUnix.accesskey     "n">
+<!ENTITY preferencesCmdUnix.accesskey     "E">
 
 <!ENTITY viewMenu.label					"Ansicht">
 <!ENTITY viewMenu.accesskey				"A">
