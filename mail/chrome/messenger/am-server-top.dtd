@@ -63,15 +63,15 @@
 <!ENTITY alwaysAuthenticate.label "Beim Verbinden mit diesem Server immer Authentifizierung verlangen">
 <!ENTITY alwaysAuthenticate.accesskey "i">
 <!ENTITY newsrcFilePath.label "newsrc-Datei:">
-<!ENTITY localPath.label "Lokales Verzeichnis:">
+<!ENTITY localPath.label "Lokaler Ordner:">
 <!ENTITY abbreviate.label "Newsgruppen in der Ordner-Liste anzeigen mit:">
 <!ENTITY abbreviateOn.label "Vollen Namen (zum Beispiel &quot;netscape.public.mozilla.mail-news&quot;)">
 <!ENTITY abbreviateOff.label "Abgekürzten Namen (zum Beispiel &quot;n.p.m.mail-news&quot;)">
 <!ENTITY advancedButton.label "Erweitert…">
 <!ENTITY advancedButton.accesskey "w">
 <!ENTITY serverDefaultCharset.label "Standard-Zeichenkodierung:">
-<!ENTITY localFolderPicker.label "Lokales Verzeichnis wählen:">
-<!ENTITY browseFolder.label "Verzeichnis wählen…">
+<!ENTITY localFolderPicker.label "Lokalen Ordner wählen:">
+<!ENTITY browseFolder.label "Ordner wählen…">
 <!ENTITY browseFolder.accesskey "z">
 <!ENTITY newsrcPicker.label "newsrc-Datei auswählen">
 <!ENTITY browseNewsrc.label "Durchsuchen…">
