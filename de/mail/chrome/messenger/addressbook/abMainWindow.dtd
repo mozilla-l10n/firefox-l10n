@@ -71,7 +71,7 @@
 <!-- Swap FN/LN UI  Set to "false" to show swap fn/ln UI -->
 <!ENTITY hideSwapFnLnUI "false">
 <!ENTITY propertiesCmd.label                            "Eigenschaften…">
-<!ENTITY propertiesCmd.accesskey                        "E">
+<!ENTITY propertiesCmd.accesskey                        "n">
 <!ENTITY propertiesCmd.key                              "i">
 
 <!-- View Menu -->
