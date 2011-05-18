@@ -1,9 +1,9 @@
 <!-- for SearchDialog.xul -->
 <!ENTITY searchHeading.label        "Wyszukaj wiadomości w folderze">
 <!ENTITY searchHeading.accesskey    "s">
-<!ENTITY searchSubfolders.label     "kontynuuj wyszukiwanie w podfolderach">
-<!ENTITY searchSubfolders.accesskey "k">
-<!ENTITY searchOnServer.label       "szukaj również w wiadomościach nieprzechowywanych lokalnie">
+<!ENTITY searchSubfolders.label     "Kontynuuj wyszukiwanie w podfolderach">
+<!ENTITY searchSubfolders.accesskey "K">
+<!ENTITY searchOnServer.label       "Szukaj również w wiadomościach nieprzechowywanych lokalnie">
 <!ENTITY searchOnServer.accesskey   "a">
 <!ENTITY resetButton.label          "Wyczyść">
 <!ENTITY resetButton.accesskey      "c">

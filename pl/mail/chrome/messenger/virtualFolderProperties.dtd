@@ -4,7 +4,7 @@
 <!ENTITY description.label             "Utwórz jako podfolder:">
 <!ENTITY description.accesskey         "r">
 
-<!ENTITY searchTermCaption.label       "Skonfiguruj warunki wyszukiwania dla tego folderu wyszukiwania: ">
+<!ENTITY searchTermCaption.label       "Skonfiguruj kryteria wyszukiwania dla tego folderu wyszukiwania">
 
 <!ENTITY folderSelectionCaption.label  "Wybierz foldery do przeszukiwania: ">
 <!ENTITY chooseFoldersButton.label     "Wybierz…">

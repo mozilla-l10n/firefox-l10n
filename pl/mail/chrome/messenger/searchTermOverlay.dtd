@@ -1,9 +1,9 @@
-<!ENTITY matchAll.label         "wszystkie warunki spełnione">
-<!ENTITY matchAll.accesskey     "w">
-<!ENTITY matchAny.label         "spełniony dowolny z warunków">
-<!ENTITY matchAny.accesskey     "s">
-<!ENTITY matchAllMsgs.label     "wszystkie wiadomości">
-<!ENTITY matchAllMsgs.accesskey "e">
+<!ENTITY matchAll.label         "Wszystkie warunki spełnione">
+<!ENTITY matchAll.accesskey     "W">
+<!ENTITY matchAny.label         "Spełniony dowolny z warunków">
+<!ENTITY matchAny.accesskey     "S">
+<!ENTITY matchAllMsgs.label     "Brak warunków, wszystkie wiadomości">
+<!ENTITY matchAllMsgs.accesskey "B">
 
 <!-- LOCALIZATION NOTE: values below are used to control the widths of the search widgets -->
 <!ENTITY searchTermListAttributesFlexValue "6"><!-- en-US: 5 -->
