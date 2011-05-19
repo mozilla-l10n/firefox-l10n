@@ -1,3 +1,8 @@
+<!ENTITY tracking.label "ট্র্যাকিং">
+
+<!ENTITY doNotTrack.label "ওয়েব সাইটটি ট্র্যাক করা হবে না">
+<!ENTITY doNotTrack.accesskey "d">
+
 <!ENTITY history.label "ইতিহাস">
 
 <!ENTITY locationBar.label "ঠিকানা বার">
@@ -29,7 +34,6 @@
 
 <!ENTITY showCookies.label "কুকি প্রদর্শন... (S)">
 <!ENTITY showCookies.accesskey "S">
-
 
 <!ENTITY historyHeader.pre.label "&brandShortName; হবে: (w)">
 <!ENTITY historyHeader.pre.accesskey "w">
