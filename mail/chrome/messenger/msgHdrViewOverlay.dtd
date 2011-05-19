@@ -130,6 +130,8 @@
 <!ENTITY detachAttachmentMenuItem.accesskey    "k">
 <!ENTITY deleteAttachmentMenuItem.label    "verwijderen">
 <!ENTITY deleteAttachmentMenuItem.accesskey    "w">
+<!ENTITY openAllAttachmentsMenuItem.label    "alles openen…">
+<!ENTITY openAllAttachmentsMenuItem.accesskey    "o">
 <!ENTITY saveAllAttachmentsMenuItem.label    "alles opslaan…">
 <!ENTITY saveAllAttachmentsMenuItem.accesskey    "s">
 <!ENTITY detachAllAttachmentsMenuItem.label    "alles ontkoppelen…">
