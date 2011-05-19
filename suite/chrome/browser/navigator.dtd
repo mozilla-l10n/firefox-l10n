@@ -40,9 +40,6 @@
 <!ENTITY printCmd.accesskey "D">
 <!ENTITY printCmd.commandkey "p">
 
-<!ENTITY viewMenu.label "Ansicht">
-<!ENTITY viewMenu.accesskey "A">
-
 <!ENTITY toolbarsCmd.label "Anzeigen/Verstecken">
 <!ENTITY toolbarsCmd.accesskey "g">
 <!ENTITY navbarCmd.label "Navigations-Symbolleiste">

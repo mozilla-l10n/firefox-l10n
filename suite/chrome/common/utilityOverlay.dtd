@@ -4,13 +4,13 @@
 
 <!-- LOCALIZATION NOTE : FILE This file contains the global menu items --> 
 
-<!ENTITY fileMenu.label					"Datei"> 
-<!ENTITY fileMenu.accesskey				"D">
-<!ENTITY newMenu.label						"Neu">
-<!ENTITY newMenu.accesskey					"N">
-<!ENTITY newBlankPageCmd.label "Composer-Seite">
-<!ENTITY newBlankPageCmd.accesskey "C" >
-<!ENTITY newBlankPageCmd.key "n" >
+<!ENTITY fileMenu.label                   "Datei">
+<!ENTITY fileMenu.accesskey               "D">
+<!ENTITY newMenu.label                    "Neu">
+<!ENTITY newMenu.accesskey                "N">
+<!ENTITY newBlankPageCmd.label            "Composer-Seite">
+<!ENTITY newBlankPageCmd.accesskey        "C">
+<!ENTITY newBlankPageCmd.key              "n">
 <!ENTITY newPageFromTemplateCmd.label "Seite von Vorlage">
 <!ENTITY newPageFromTemplateCmd.accesskey "V">
 <!ENTITY newPageFromDraftCmd.label "Seite von Entwurf">
@@ -19,35 +19,35 @@
 <!ENTITY newNavigatorCmd.key "N">
 <!ENTITY newNavigatorCmd.accesskey "F">
 
-<!ENTITY editMenu.label					"Bearbeiten"> 
-<!ENTITY editMenu.accesskey				"B"> 
-<!ENTITY undoCmd.label						"Rückgängig">  
-<!ENTITY undoCmd.key						"Z">  
-<!ENTITY undoCmd.accesskey					"R"> 
-<!ENTITY redoCmd.label						"Wiederholen">  
-<!ENTITY redoCmd.key						"Y">  
-<!ENTITY redoCmd.accesskey					"W"> 
-<!ENTITY cutCmd.label						"Ausschneiden">  
-<!ENTITY cutCmd.key							"X">  
-<!ENTITY cutCmd.accesskey					"A"> 
-<!ENTITY copyCmd.label						"Kopieren">  
-<!ENTITY copyCmd.key						"C">  
-<!ENTITY copyCmd.accesskey					"K"> 
-<!ENTITY pasteCmd.label						"Einfügen">  
-<!ENTITY pasteCmd.key						"V">  
-<!ENTITY pasteCmd.accesskey					"E"> 
-<!ENTITY pasteGoCmd.label					"Einfügen &amp; aufrufen">
-<!ENTITY pasteGoCmd.accesskey				"n">
+<!ENTITY editMenu.label                   "Bearbeiten">
+<!ENTITY editMenu.accesskey               "B">
+<!ENTITY undoCmd.label                    "Rückgängig">
+<!ENTITY undoCmd.key                      "Z">
+<!ENTITY undoCmd.accesskey                "R">
+<!ENTITY redoCmd.label                    "Wiederholen">
+<!ENTITY redoCmd.key                      "Y">
+<!ENTITY redoCmd.accesskey                "W">
+<!ENTITY cutCmd.label                     "Ausschneiden">
+<!ENTITY cutCmd.key                       "X">
+<!ENTITY cutCmd.accesskey                 "A">
+<!ENTITY copyCmd.label                    "Kopieren">
+<!ENTITY copyCmd.key                      "C">
+<!ENTITY copyCmd.accesskey                "K">
+<!ENTITY pasteCmd.label                   "Einfügen">
+<!ENTITY pasteCmd.key                     "V">
+<!ENTITY pasteCmd.accesskey               "E">
+<!ENTITY pasteGoCmd.label                 "Einfügen &amp; aufrufen">
+<!ENTITY pasteGoCmd.accesskey             "n">
 
 <!-- LOCALIZATION NOTE (pasteSearchCmd): "Search" is a verb, this is the
-     search bar equivalent to the url bar's "Paste & Go"  --> 
-<!ENTITY pasteSearchCmd.label				"Einfügen &amp; Suchen">
-<!ENTITY pasteSearchCmd.accesskey			"E">
-<!ENTITY deleteCmd.label					"Löschen">  
-<!ENTITY deleteCmd.accesskey				"L"> 
-<!ENTITY selectAllCmd.label					"Alles auswählen">  
-<!ENTITY selectAllCmd.key					"A">  
-<!ENTITY selectAllCmd.accesskey				"u"> 
+     search bar equivalent to the url bar's "Paste & Go"  -->
+<!ENTITY pasteSearchCmd.label             "Einfügen &amp; Suchen">
+<!ENTITY pasteSearchCmd.accesskey         "E">
+<!ENTITY deleteCmd.label                  "Löschen">
+<!ENTITY deleteCmd.accesskey              "L">
+<!ENTITY selectAllCmd.label               "Alles auswählen">
+<!ENTITY selectAllCmd.key                 "A">
+<!ENTITY selectAllCmd.accesskey           "u">
 <!ENTITY clearHistoryCmd.label				"Suchchronik leeren">  
 <!ENTITY clearHistoryCmd.accesskey			"h"> 
 <!ENTITY showSuggestionsCmd.label			"Vorschläge anzeigen">  
@@ -61,7 +61,7 @@
 <!ENTITY findTypeLinksCmd.accesskey "k">
 
 <!ENTITY viewMenu.label					"Ansicht"> 
-<!ENTITY viewMenu.accesskey				"A"> 
+<!ENTITY viewMenu.accesskey               "A">
 <!ENTITY viewToolbarsMenu.label				"Anzeigen/Verstecken"> 
 <!ENTITY viewToolbarsMenu.accesskey			"z"> 
 <!ENTITY showTaskbarCmd.label					"Statusleiste">  
