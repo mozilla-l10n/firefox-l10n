@@ -21,8 +21,6 @@
 <!ENTITY allowHWAccel.accesskey "h">
 <!ENTITY checkSpelling.label "টাইপ করার সময় বানান পরীক্ষা করা হবে (T)">
 <!ENTITY checkSpelling.accesskey "T">
-<!ENTITY doNotTrack.label "ওয়েবসাইটকে বলে দেয়া হবে যে আমি চিহ্নিত হতে চাই না">
-<!ENTITY doNotTrack.accesskey "d">
 
 <!ENTITY systemDefaults.label "সিস্টেমের ডিফল্ট মান">
 <!--XXX-->
