@@ -6,7 +6,7 @@
 <!ENTITY none.value "tra ebet">
 <!ENTITY bulletList.value "Roll dre badelligoù (Dineverennet)">
 <!ENTITY numberList.value "Roll niverennet">
-<!ENTITY definitionList.value "Roll dispizañ">
+<!ENTITY definitionList.value "Roll despizañ">
 <!ENTITY changeEntireListRadio.label "Kemmañ ar roll a-bezh">
 <!ENTITY changeEntireListRadio.accessKey "o">
 <!ENTITY changeSelectedRadio.label "Kemmañ an ergorennoù diuzet hepken">
