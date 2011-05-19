@@ -27,7 +27,6 @@
 <!ENTITY printSetupCmd.label            "Seite einrichten…">
 <!ENTITY printSetupCmd.accesskey        "S">
 
-<!ENTITY redoCmd.label                  "Wiederholen">  
 <!ENTITY redoCmd.key                    "Z">  
 
 <!ENTITY historyCmd.key                 "H">  
