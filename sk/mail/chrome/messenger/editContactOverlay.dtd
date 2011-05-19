@@ -15,3 +15,5 @@
 
 <!ENTITY editContactPanelDone.label "Hotovo">
 <!ENTITY editContactPanelDone.accesskey "H">
+
+<!ENTITY contactMoveDisabledWarning.description "Adresár nie je možné zmeniť, pretože kontakt sa nachádza v rozosielacom zozname.">

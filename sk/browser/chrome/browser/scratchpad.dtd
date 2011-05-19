@@ -1,0 +1,103 @@
+<!-- LOCALIZATION NOTE : FILE This file contains the Scratchpad window strings -->
+<!-- LOCALIZATION NOTE : FILE Do not translate commandkeys -->
+
+<!-- LOCALIZATION NOTE (scratchpad.title):
+  -  The Scratchpad is intended to provide a simple text editor for creating
+  -  and evaluating bits of JavaScript code for the purposes of function
+  -  prototyping, experimentation and convenient scripting.
+  -
+  -  It's quite possible that you won't have a good analogue for the word
+  -  "Scratchpad" in your locale. You should feel free to find a close
+  -  approximation to it or choose a word (or words) that means
+  -  "simple discardable text editor". -->
+<!ENTITY window.title                 "Scratchpad">
+
+<!ENTITY fileMenu.label               "Súbor">
+<!ENTITY fileMenu.accesskey           "S">
+
+<!ENTITY newWindowCmd.label           "Nové okno">
+<!ENTITY newWindowCmd.accesskey       "N">
+<!ENTITY newWindowCmd.commandkey      "n">
+
+<!ENTITY openFileCmd.label            "Otvoriť súbor…">
+<!ENTITY openFileCmd.accesskey        "O">
+<!ENTITY openFileCmd.commandkey       "o">
+
+<!ENTITY saveFileCmd.label            "Uložiť">
+<!ENTITY saveFileCmd.accesskey        "U">
+<!ENTITY saveFileCmd.commandkey       "s">
+
+<!ENTITY saveFileAsCmd.label          "Uložiť ako…">
+<!ENTITY saveFileAsCmd.accesskey      "a">
+
+<!ENTITY closeCmd.label               "Zavrieť">
+<!ENTITY closeCmd.key                 "Z">
+<!ENTITY closeCmd.accesskey           "C">
+
+<!ENTITY editMenu.label               "Upraviť">
+<!ENTITY editMenu.accesskey           "U">
+
+<!ENTITY undoCmd.label                "Späť">
+<!ENTITY undoCmd.key                  "S">
+<!ENTITY undoCmd.accesskey            "U">
+
+<!ENTITY redoCmd.label                "Znova">
+<!ENTITY redoCmd.key                  "Z">
+<!ENTITY redoCmd.accesskey            "R">
+
+<!ENTITY cutCmd.label                 "Vystrihnúť">
+<!ENTITY cutCmd.key                   "t">
+<!ENTITY cutCmd.accesskey             "t">
+
+<!ENTITY copyCmd.label                "Kopírovať">
+<!ENTITY copyCmd.key                  "K">
+<!ENTITY copyCmd.accesskey            "C">
+
+<!ENTITY pasteCmd.label               "Prilepiť">
+<!ENTITY pasteCmd.key                 "P">
+<!ENTITY pasteCmd.accesskey           "P">
+
+<!ENTITY selectAllCmd.label           "Vybrať všetko">
+<!ENTITY selectAllCmd.key             "a">
+<!ENTITY selectAllCmd.accesskey       "A">
+
+<!ENTITY execute.label                "Vykonať">
+<!ENTITY execute.accesskey            "n">
+<!ENTITY execute.key                  "t">
+
+<!ENTITY inspect.label                "Preskúmať">
+<!ENTITY inspect.accesskey            "e">
+<!ENTITY inspect.key                  "i">
+
+<!ENTITY print.label                  "Vypísať">
+<!ENTITY print.accesskey              "V">
+<!ENTITY print.key                    "r">
+
+<!ENTITY contextMenu.label            "Kontext">
+<!ENTITY contextMenu.accesskey        "K">
+
+<!ENTITY contentContext.label         "Obsah">
+<!ENTITY contentContext.accesskey     "O">
+
+<!ENTITY chromeContext.label          "Chrome">
+<!ENTITY chromeContext.accesskey      "H">
+
+<!-- LOCALIZATION NOTE (resetContext.label): This command allows the developer
+  -  to reset/clear the global object of the context where the code executes.
+  -->
+<!ENTITY resetContext.label           "Vynulovať">
+<!ENTITY resetContext.accesskey       "V">
+
+<!ENTITY toolsMenu.label              "Nástroje">
+<!ENTITY toolsMenu.accesskey          "N">
+
+<!ENTITY errorConsoleCmd.label        "Chybová konzola">
+<!ENTITY errorConsoleCmd.accesskey    "C">
+<!ENTITY errorConsoleCmd.commandkey   "j">
+
+<!ENTITY webConsoleCmd.label          "Webová konzola">
+<!ENTITY webConsoleCmd.accesskey      "W">
+<!ENTITY webConsoleCmd.commandkey     "k">
+
+<!ENTITY textbox.placeholder          "// Vložte nejaký kód JavaScriptu, označte ho, kliknite pravým tlačidlom myši a zvoľte položku Vykonať, Preskúmať alebo Vypísať.">
+
