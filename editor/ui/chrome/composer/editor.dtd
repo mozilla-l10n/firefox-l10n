@@ -44,10 +44,18 @@
 
 <!-- Toolbar-only items -->
 <!ENTITY compositionToolbar.tooltip "Bearbeiten-Symbolleiste">
+<!ENTITY previewToolbarCmd.label "Vorschau">
+<!ENTITY previewToolbarCmd.tooltip "Diese Seite im Browser laden">
+
+<!-- File menu items -->
+<!ENTITY exportToTextCmd.label "Als Text exportieren…">
+<!ENTITY exportToTextCmd.accesskey "x">
+<!ENTITY previewCmd.label "Seite im Browser ansehen">
+<!ENTITY previewCmd.accesskey "B">
+<!ENTITY sendPageCmd.label "Seite senden…">
+<!ENTITY sendPageCmd.accesskey "S">
 
 <!-- View menu items -->
-<!ENTITY viewMenu.label "Ansicht">
-<!ENTITY viewMenu.accesskey "A">
 <!ENTITY compositionToolbarCmd.label "Bearbeiten-Symbolleiste">
 <!ENTITY compositionToolbarCmd.accesskey "B">
 <!ENTITY formattingToolbarCmd.label "Format-Symbolleiste">

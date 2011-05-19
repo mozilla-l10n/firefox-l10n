@@ -9,9 +9,6 @@
 <!ENTITY closeTabCmd2.accesskey "c">
 <!ENTITY closeOtherTabsCmd2.label "Andere Tabs schließen">
 <!ENTITY closeOtherTabsCmd2.accesskey "A">
-<!-- LOCALIZATION NOTE (undoCloseTabCmd.label):
-     Menu option to attempt to re-open a recently closed tab.
-     -->
 <!ENTITY recentlyClosedTabsCmd.label "Kürzlich geschlossene Tabs">
 <!ENTITY recentlyClosedTabsCmd.accesskey "g">
 
@@ -39,14 +36,12 @@
 <!ENTITY saveAsFileCmd.key "s">
 <!ENTITY saveAsTemplateCmd.label "Vorlage">
 <!ENTITY saveAsTemplateCmd.accesskey "V">
-<!ENTITY getNewMsgCmd.key "t">
 <!ENTITY getNewMsgForCmd.label "Neue Nachrichten abrufen">
 <!ENTITY getNewMsgForCmd.accesskey "f">
 <!ENTITY getAllNewMsgCmdPopupMenu.label "Alle Konten">
 <!ENTITY getAllNewMsgCmdPopupMenu.accesskey "A">
 <!ENTITY getAllNewMsgCmd.label "Alle Konten abrufen">
 <!ENTITY getAllNewMsgCmd.accesskey "A">
-<!ENTITY getAllNewMsgCmd.key "t">
 <!ENTITY getNewMsgCurrentAccountCmdPopupMenu.label "Aktuelles Konto">
 <!ENTITY getNewMsgCurrentAccountCmdPopupMenu.accesskey "k">
 <!ENTITY getNextNMsgCmd.label "Nächste 500 News-Beiträge abrufen">
@@ -757,12 +752,14 @@ you can use these alternative items. Otherwise, their values should be empty.  -
 <!-- Phishing Bar -->
 <!ENTITY phishingBarMessage2.label "Diese Nachricht könnte ein Betrugsversuch (Phishing) sein.">
 <!ENTITY removePhishingBarButton1.label "Warnung ignorieren">
+<!ENTITY disablePhishingWarning1.label "Erkennung von Betrugsversuchen deaktivieren">
 <!ENTITY reportPhishingError1.label "Diese Nachricht ist scheinbar kein Betrugsversuch">
 
 <!-- MDN Bar -->
-<!ENTITY mdnBarMessage.label "Der Absender dieser Nachricht hat eine Empfangsbestätigung angefordert. Soll der Absender informiert werden, dass Sie die Nachricht jetzt lesen?">
-<!ENTITY mdnBarIgnoreButton.label "Anforderung ignorieren">
-<!ENTITY mdnBarSendButton.label "Bestätigung senden">
+<!ENTITY mdnBarIgnoreButton2.label "Ignorieren">
+<!ENTITY mdnBarIgnoreButton2.accesskey "I">
+<!ENTITY mdnBarSendButton2.label "Bestätigung senden">
+<!ENTITY mdnBarSendButton2.accesskey "B">
 
 <!-- Quick Search Bar -->
 <!-- LOCALIZATION NOTE (quickSearchCmd.key):

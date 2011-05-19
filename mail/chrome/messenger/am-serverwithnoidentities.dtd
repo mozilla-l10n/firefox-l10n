@@ -5,7 +5,7 @@
 <!ENTITY messageStorage.label "Speicherplatz">
 <!ENTITY emptyTrashOnExit.label "Papierkorb beim Verlassen leeren">
 <!ENTITY emptyTrashOnExit.accesskey "P">
-<!ENTITY localPath.label "Lokales Verzeichnis:">
-<!ENTITY localFolderPicker.label "Lokales Verzeichnis wählen:">
-<!ENTITY browseFolder.label "Verzeichnis wählen…">
+<!ENTITY localPath.label "Lokaler Ordner:">
+<!ENTITY localFolderPicker.label "Lokalen Ordner wählen:">
+<!ENTITY browseFolder.label "Ordner wählen…">
 <!ENTITY browseFolder.accesskey "z">

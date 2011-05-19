@@ -52,7 +52,7 @@
 <!ENTITY copyCmd.accesskey                              "K">
 <!ENTITY pasteCmd.label                                 "Einfügen">
 <!ENTITY pasteCmd.key                                   "V">
-<!ENTITY pasteCmd.accesskey                             "E">
+<!ENTITY pasteCmd.accesskey                             "i">
 <!ENTITY deleteCmd.label                                "Löschen">
 <!ENTITY deleteCmd.accesskey                            "L">
 <!ENTITY deleteAbCmd.label                              "Lösche Adressbuch">
@@ -71,7 +71,7 @@
 <!-- Swap FN/LN UI  Set to "false" to show swap fn/ln UI -->
 <!ENTITY hideSwapFnLnUI "false">
 <!ENTITY propertiesCmd.label                            "Eigenschaften…">
-<!ENTITY propertiesCmd.accesskey                        "i">
+<!ENTITY propertiesCmd.accesskey                        "n">
 <!ENTITY propertiesCmd.key                              "i">
 
 <!-- View Menu -->
