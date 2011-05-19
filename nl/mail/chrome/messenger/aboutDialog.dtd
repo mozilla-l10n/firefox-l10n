@@ -44,7 +44,8 @@
      all go into one line and have an anchor in between with text that is the same as the link to a site
      to download the latest version of Firefox (e.g. http://www.firefox.com). As this is all in one line,
      try to make the localized text short (see bug 596813 for screenshots). -->
-<!ENTITY update.manual.start        "Updates beschikbaar op ">
+<!ENTITY update.manual.start        "Download de ">
+<!ENTITY update.manual.linkText     "nieuwste versie">
 <!ENTITY update.manual.end          "">
 
 <!-- LOCALIZATION NOTE (update.downloading.start,update.downloading.end): update.downloading.start and 
@@ -79,3 +80,4 @@
 <!ENTITY channel.selector.applyButton    "Toepassen en bijwerken">
 <!ENTITY channel.selector.cancelButton   "Annuleren">
 
+<!ENTITY cmdCloseMac.commandKey "w">
