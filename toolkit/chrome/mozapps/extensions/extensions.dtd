@@ -20,8 +20,11 @@
 <!ENTITY updates.checkForUpdates.label        "Meklēt atjauninājumus">
 <!ENTITY updates.checkForUpdates.accesskey    "M">
 
-<!-- Command Bar items -->
+<!-- global informations -->
+<!ENTITY info.plugincheck.label                 "Pārbaudiet, lai pārliecinātos, vai jūsu spraudņiem nav atjauninājumu">
+<!ENTITY info.plugincheck.tooltip               "Pārbaudiet, lai pārliecinātos, vai jūsu spraudņiem nav atjauninājumu">
 
+<!-- Command Bar items -->
 <!ENTITY cmd.contribute.label                 "Dot ieguldījumu">
 <!ENTITY cmd.contribute.accesskey             "D">
 <!ENTITY cmd.contribute.tooltip               "Dot ieguldījumu šī papildinājuma izstrādē">
