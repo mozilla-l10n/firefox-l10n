@@ -64,7 +64,7 @@
 <!ENTITY copyCmd.accesskey "K">
 <!ENTITY pasteCmd.label "Einfügen">
 <!ENTITY pasteCmd.key "V">
-<!ENTITY pasteCmd.accesskey "E">
+<!ENTITY pasteCmd.accesskey "i">
 <!ENTITY pasteNoFormattingCmd.key "V">
 <!ENTITY pasteAsQuotationCmd.key "o">
 <!ENTITY editRewrapCmd.label "Neu umbrechen">
@@ -200,6 +200,9 @@
 <!ENTITY pasteButton.tooltip            "Einfügen">
 
 <!-- Headers -->
+<!--LOCALIZATION NOTE headersSpace.style is for aligning  the From:, To: and
+    Subject: rows. It should be larger than the largest Header label  -->
+<!ENTITY headersSpace.style "width: 10em;">
 <!ENTITY fromAddr.label "Von:">
 <!ENTITY fromAddr.accesskey "V">
 <!ENTITY toAddr.label "An:">
