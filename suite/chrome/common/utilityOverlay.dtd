@@ -4,13 +4,13 @@
 
 <!-- LOCALIZATION NOTE : FILE This file contains the global menu items -->
 
-<!ENTITY fileMenu.label "Súbor">
-<!ENTITY fileMenu.accesskey "S">
-<!ENTITY newMenu.label "Nový objekt">
-<!ENTITY newMenu.accesskey "b">
-<!ENTITY newBlankPageCmd.label "Prázdna stránka">
-<!ENTITY newBlankPageCmd.accesskey "r" >
-<!ENTITY newBlankPageCmd.key "n" >
+<!ENTITY fileMenu.label                   "Súbor">
+<!ENTITY fileMenu.accesskey               "F">
+<!ENTITY newMenu.label                    "Nový objekt">
+<!ENTITY newMenu.accesskey                "b">
+<!ENTITY newBlankPageCmd.label            "Stránka v Composeri">
+<!ENTITY newBlankPageCmd.accesskey        "r">
+<!ENTITY newBlankPageCmd.key              "n">
 <!ENTITY newPageFromTemplateCmd.label "Stránka s použitím šablóny">
 <!ENTITY newPageFromTemplateCmd.accesskey "t">
 <!ENTITY newPageFromDraftCmd.label "Stránka z konceptu">
@@ -19,35 +19,35 @@
 <!ENTITY newNavigatorCmd.key "n">
 <!ENTITY newNavigatorCmd.accesskey "O">
 
-<!ENTITY editMenu.label "Upraviť">
-<!ENTITY editMenu.accesskey "U">
-<!ENTITY undoCmd.label "Späť">
-<!ENTITY undoCmd.key "Z">
-<!ENTITY undoCmd.accesskey "S">
-<!ENTITY redoCmd.label "Znovu">
-<!ENTITY redoCmd.key "Y">
-<!ENTITY redoCmd.accesskey "Z">
-<!ENTITY cutCmd.label "Vystrihnúť">
-<!ENTITY cutCmd.key "X">
-<!ENTITY cutCmd.accesskey "V">
-<!ENTITY copyCmd.label "Kopírovať">
-<!ENTITY copyCmd.key "C">
-<!ENTITY copyCmd.accesskey "K">
-<!ENTITY pasteCmd.label "Prilepiť">
-<!ENTITY pasteCmd.key "V">
-<!ENTITY pasteCmd.accesskey "P">
-<!ENTITY pasteGoCmd.label					"Prilepiť a prejsť">
-<!ENTITY pasteGoCmd.accesskey				"r">
+<!ENTITY editMenu.label                   "Upraviť">
+<!ENTITY editMenu.accesskey               "U">
+<!ENTITY undoCmd.label                    "Späť">
+<!ENTITY undoCmd.key                      "Z">
+<!ENTITY undoCmd.accesskey                "S">
+<!ENTITY redoCmd.label                    "Znovu">
+<!ENTITY redoCmd.key                      "Y">
+<!ENTITY redoCmd.accesskey                "Z">
+<!ENTITY cutCmd.label                     "Vystrihnúť">
+<!ENTITY cutCmd.key                       "X">
+<!ENTITY cutCmd.accesskey                 "V">
+<!ENTITY copyCmd.label                    "Kopírovať">
+<!ENTITY copyCmd.key                      "C">
+<!ENTITY copyCmd.accesskey                "K">
+<!ENTITY pasteCmd.label                   "Prilepiť">
+<!ENTITY pasteCmd.key                     "V">
+<!ENTITY pasteCmd.accesskey               "P">
+<!ENTITY pasteGoCmd.label                 "Prilepiť a prejsť">
+<!ENTITY pasteGoCmd.accesskey             "r">
 
 <!-- LOCALIZATION NOTE (pasteSearchCmd): "Search" is a verb, this is the
-     search bar equivalent to the url bar's "Paste & Go"  --> 
-<!ENTITY pasteSearchCmd.label				"Prilepiť a vyhľadať">
-<!ENTITY pasteSearchCmd.accesskey			"r">
-<!ENTITY deleteCmd.label "Odstrániť">
-<!ENTITY deleteCmd.accesskey "O">
-<!ENTITY selectAllCmd.label "Vybrať všetko">
-<!ENTITY selectAllCmd.key "A">
-<!ENTITY selectAllCmd.accesskey "a">
+     search bar equivalent to the url bar's "Paste & Go"  -->
+<!ENTITY pasteSearchCmd.label             "Prilepiť a vyhľadať">
+<!ENTITY pasteSearchCmd.accesskey         "r">
+<!ENTITY deleteCmd.label                  "Odstrániť">
+<!ENTITY deleteCmd.accesskey              "O">
+<!ENTITY selectAllCmd.label               "Vybrať všetko">
+<!ENTITY selectAllCmd.key                 "A">
+<!ENTITY selectAllCmd.accesskey           "a">
 <!ENTITY clearHistoryCmd.label				"Vymazať históriu hľadania">  
 <!ENTITY clearHistoryCmd.accesskey			"h"> 
 <!ENTITY showSuggestionsCmd.label			"Zobrazovať návrhy">  
