@@ -44,7 +44,7 @@
 <!ENTITY antiVirus.accesskey  "a">
 
 <!-- Cookies -->
-<!ENTITY cookies.intro                  "&brandShortName; a ro tro deoc'h spisaat peseurt blogoù, lanvioù keleier, pe lec'hiennoù all zo aotret da blantañ toupinoù.">
+<!ENTITY cookies.intro                  "&brandShortName; a ro tro deoc'h spisaat peseurt blogoù, lanvioù keleier, pe lec'hiennoù all zo aotreet da blantañ toupinoù.">
 <!ENTITY acceptCookies.label            "Degemer an toupinoù adalek lec'hiennoù">
 <!ENTITY acceptCookies.accesskey        "D">
 <!ENTITY keepUntil.label                "Mirout betek:">

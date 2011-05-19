@@ -540,7 +540,7 @@ you can use these alternative items. Otherwise, their values should be empty.  -
 <!ENTITY notJunkButton.tooltip "Merkañ ar gemennadenn diuzet evel 'Prizius'">
 <!ENTITY addressBookButton.tooltip "Mont d'ar c'harned chomlec'hioù">
 <!ENTITY tagButton.tooltip "Merkañ kemennadennoù">
-<!ENTITY compactButton.tooltip "Lemel ar c'hemennadennoù dilemet diouzh an teuliad diuzet">
+<!ENTITY compactButton.tooltip "Lemel ar c'hemennadennoù dilamet diouzh an teuliad diuzet">
 
 <!-- Tags Menu Popup -->
 <!ENTITY addNewTag.label "Merk nevez…">

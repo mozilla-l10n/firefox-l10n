@@ -33,5 +33,5 @@
 <!ENTITY  noproxy.label "Proksi ebet evit :">
 <!ENTITY  noproxy.accesskey "b">
 <!ENTITY  noproxyExplain.label "Skouer : .mozilla.org, .net.nz, 192.168.1.0/24">
-<!ENTITY  shareproxy.label "Ober gantan dafariadproksi-mañ evit an holl gomenadoù">
+<!ENTITY  shareproxy.label "Ober gant an dafariad proksi-mañ evit an holl gomenadoù">
 <!ENTITY  shareproxy.accesskey "g">

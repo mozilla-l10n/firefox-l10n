@@ -47,7 +47,7 @@
 <!ENTITY folderRebuildSummaryFileTip2.label      "Adsevel menegva ar restr krenn">
 <!ENTITY folderRebuildSummaryFile2.label         "Dresañ an teuliad">
 <!ENTITY folderRebuildSummaryFile2.accesskey     "D">
-<!ENTITY folderRebuildSummaryFile.explanation    "A-wechoù ar restr menegva an teuliad (.msf) a c'hell bezañ gwallet ha kemennadennoù a ya diwar wel pe kemennadennoù dilemet zo skrammet c'hoazh; dresañ an teuliad a c'hell reizhañ ar c'hudennoù-mañ.">
+<!ENTITY folderRebuildSummaryFile.explanation    "A-wechoù ar restr menegva an teuliad (.msf) a c'hell bezañ gwallet ha kemennadennoù a ya diwar wel pe kemennadennoù dilamet zo skrammet c'hoazh; dresañ an teuliad a c'hell reizhañ ar c'hudennoù-mañ.">
 <!ENTITY folderIncludeInGlobalSearch.label       "Enderc'hel ar c'hemennadennoù eus an teuliad-mañ e-barzh disoc'hoù ar c'hlask hollek">
 <!ENTITY folderIncludeInGlobalSearch.accesskey   "n">
 
