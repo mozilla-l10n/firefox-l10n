@@ -10,5 +10,5 @@
 <!ENTITY feedback.about.button          "Se rendre sur la page">
 
 <!ENTITY feedback.tools.title           "Outils">
-<!ENTITY feedback.forceCompat.title     "Modules incompatibles permis">
+<!ENTITY feedback.forceCompat.title     "Modules incompat. permis">
 <!ENTITY feedback.errorConsole.title    "Activer la console d'erreurs">
