@@ -7,6 +7,7 @@
 <!ENTITY aboutSupport.accountsName "Naam">
 <!ENTITY aboutSupport.accountsIncomingServer "Inkomende server">
 <!ENTITY aboutSupport.accountsOutgoingServers "Uitgaande servers">
+<!ENTITY aboutSupport.accountsServerName "Naam">
 <!ENTITY aboutSupport.accountsConnSecurity "Verbindingsbeveiliging">
 <!ENTITY aboutSupport.accountsAuthMethod "Authenticatiemethode">
 <!ENTITY aboutSupport.accountsDefault "Standaard?">
