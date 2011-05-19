@@ -23,6 +23,10 @@
 <!ENTITY warning.updatesecurity.enable.label       "Activar">
 <!ENTITY warning.updatesecurity.enable.tooltip     "Activar a verificación da seguranza das actualizacións dos complementos">
 
+<!-- global informations -->
+<!ENTITY info.plugincheck.label                 "Comprobe se os seus engadidos están actualizados">
+<!ENTITY info.plugincheck.tooltip               "Comprobe se os seus engadidos están actualizados">
+
 <!-- categories / views -->
 <!ENTITY view.search.label                    "Buscar">
 <!ENTITY view.discover.label                  "Obter complementos">
