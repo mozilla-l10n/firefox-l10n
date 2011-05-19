@@ -84,7 +84,6 @@
 <!ENTITY replyWithTemplate.label "Antworten mit Vorlage">
 <!ENTITY markMessageRead.label "Als gelesen markieren">
 <!ENTITY markMessageStarred.label "Als gekennzeichnet markieren">
-<!ENTITY labelMessage.label "Nachricht bezeichnen als">
 <!ENTITY setPriority.label "Priorität setzen auf">
 <!ENTITY addTag.label "Nachricht mit Tag versehen">
 <!ENTITY setJunkScore.label "Junk-Status setzen auf">
