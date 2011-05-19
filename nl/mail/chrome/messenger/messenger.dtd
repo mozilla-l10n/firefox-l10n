@@ -758,6 +758,7 @@ you can use these alternative items. Otherwise, their values should be empty.  -
 <!-- Phishing Bar -->
 <!ENTITY phishingBarMessage2.label "Dit bericht kan een e-mailscam zijn.">
 <!ENTITY removePhishingBarButton1.label "Waarschuwing negeren">
+<!ENTITY disablePhishingWarning1.label "E-mailscamdetectie voor alle berichten uitschakelen">
 <!ENTITY reportPhishingError1.label "Dit bericht lijkt geen e-mailscam te zijn.">
 
 <!-- MDN Bar -->
