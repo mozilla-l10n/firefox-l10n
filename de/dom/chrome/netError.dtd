@@ -84,8 +84,12 @@
 <!ENTITY cspFrameAncestorBlocked.title "Blockiert durch Inhaltsicherheitsrichtlinie (Content Security Policy)">
 <!ENTITY cspFrameAncestorBlocked.longDesc "<p>Laden dieser Seite in dieser Weise wurde vom Browser verhindert, weil sie eine Sicherheitsrichtlinie hat, die das nicht erlaubt.</p>">
 
+<!ENTITY remoteXUL.title "Externes XUL">
+<!ENTITY remoteXUL.longDesc "<p><ul><li>Bitte kontaktieren Sie die Inhaber der Website, um Sie über dieses Problem zu informieren.</li></ul></p>">
+
 <!-- Include app-specific error messages - do not change this in localization!
      Some applications might override netErrorApp.dtd with their specific version,
-     this inclusion needs to be intact for that approach to work correctly. -->
+     this inclusion needs to be intact for that approach to work correctly.
+     Please, try to keep this at the end of the file. -->
 <!ENTITY % netErrorAppDTD SYSTEM "chrome://global/locale/netErrorApp.dtd">
 %netErrorAppDTD;
