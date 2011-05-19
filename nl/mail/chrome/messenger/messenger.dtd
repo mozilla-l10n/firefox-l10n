@@ -9,9 +9,6 @@
 <!ENTITY closeTabCmd2.accesskey "s">
 <!ENTITY closeOtherTabsCmd2.label "Overige tabbladen sluiten">
 <!ENTITY closeOtherTabsCmd2.accesskey "O">
-<!-- LOCALIZATION NOTE (undoCloseTabCmd.label):
-      Menu option to attempt to re-open a recently closed tab.
-      -->
 <!ENTITY recentlyClosedTabsCmd.label "Onlangs gesloten tabbladen">
 <!ENTITY recentlyClosedTabsCmd.accesskey "O">
 
