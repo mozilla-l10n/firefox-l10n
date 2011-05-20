@@ -45,16 +45,16 @@ LOCALIZATION NOTE : Do not translate any of the occurrences of the word
 
 
 <!ENTITY importDialog.windowTitle "استيراد">
-<!ENTITY importAll.label          "استورد كل شيء">
-<!ENTITY importAll.accesskey      "ك">
-<!ENTITY importMail.label         "البريد">
-<!ENTITY importMail.accesskey     "ر">
-<!ENTITY importAddressbook.label  "دفاتر العناوين">
+<!ENTITY importAll.label "استورد كل شيء">
+<!ENTITY importAll.accesskey "ك">
+<!ENTITY importMail.label "البريد">
+<!ENTITY importMail.accesskey "ر">
+<!ENTITY importAddressbook.label "دفاتر العناوين">
 <!ENTITY importAddressbook.accesskey "د">
-<!ENTITY importSettings.label     "الإعدادات">
+<!ENTITY importSettings.label "الإعدادات">
 <!ENTITY importSettings.accesskey "ع">
-<!ENTITY importFilters.label      "المرشحات">
-<!ENTITY importFilters.accesskey  "ح">
+<!ENTITY importFilters.label "المرشحات">
+<!ENTITY importFilters.accesskey "ح">
 
 <!ENTITY window.width "40em">
 <!ENTITY window.macWidth "45em">
@@ -77,11 +77,3 @@ LOCALIZATION NOTE : Do not translate any of the occurrences of the word
 
 <!ENTITY title.label "العنوان">
 <!ENTITY processing.label "يستورد…">
-
-<!ENTITY FieldDiscInputText1.label "نتسكيب كميونيكيتور 4.x يحفظ عنوان بريدي واحد لكل بطاقة، بينما &brandShortName; يحفظ اثنين (المنزل والعمل).">
-<!ENTITY FieldDiscInputText2.label "اختر التصنيف الذي ترغب في حفظ عناوين البريد المستوردة به:">
-<!ENTITY FieldDiscWarning.label "سيستخدم التصنيف لكل مدخلات دفتر العناوين المختار:">
-<!ENTITY importHome.label        "المنزل">
-<!ENTITY importHome.accesskey    "ن">
-<!ENTITY importWork.label        "العمل">
-<!ENTITY importWork.accesskey    "م">

@@ -2,9 +2,9 @@
 <!ENTITY itemPhishing.label "بريد الاحتيال">
 <!ENTITY itemPasswords.label "كلمات السر">
 <!ENTITY itemAntiVirus.label "مضاد الفيروسات">
-<!ENTITY itemCookies.label       "محتوى الوب">
-
+<!ENTITY itemCookies.label "محتوى الوب">
 <!-- Junk Mail Controls -->
+
 <!ENTITY junkMail.intro "اضبط إعدادات السخام الافتراضيَّة. يمكن ضبط إعدادات السخام الخاصة بالحساب في إعدادات الحساب.">
 <!ENTITY manualMark.label "عند تأشير الرسائل كسخام:">
 <!ENTITY manualMark.accesskey "ئ">
@@ -30,31 +30,30 @@
 <!-- Passwords -->
 
 <!ENTITY savedPasswords.intro "يستطيع &brandShortName; تذكر معلومات كلمة السر لكل حساباتك لذا لن تحتاج إلى إعادة إدخال بيانات الولوج.">
-<!ENTITY useMasterPassword.label        "استخدم كلمة سر رئيسيّة">
-<!ENTITY useMasterPassword.accesskey    "م">
+<!ENTITY useMasterPassword.label "استخدم كلمة سر رئيسيّة">
+<!ENTITY useMasterPassword.accesskey "م">
 <!ENTITY masterPassword.intro "عند تحديدها، ستحمي كلمة السر الرئيسيّة كل كلمات السر لكن يجب إدخالها مرة لكل جلسة.">
-<!ENTITY changeMasterPassword.label     "غيّر كلمة السر الرئيسيّة…">
+<!ENTITY changeMasterPassword.label "غيّر كلمة السر الرئيسيّة…">
 <!ENTITY changeMasterPassword.accesskey "غ">
-<!ENTITY savedPasswords.label           "كلمات السر المحفوظة…">
-<!ENTITY savedPasswords.accesskey       "س">
-
+<!ENTITY savedPasswords.label "كلمات السر المحفوظة…">
+<!ENTITY savedPasswords.accesskey "س">
 <!-- Anti Virus -->
 
 <!ENTITY antiVirus.intro "يستطيع &brandShortName; تسهيل مهمة مضاد الفيروسات في تحليل رسائل البريد الواردة بحثا عن فيروسات قبل حفظها محليّا.">
 <!ENTITY antiVirus.label "اسمح لمضادات الفيروسات بحجر الرسائل الواردة عن بعض">
 <!ENTITY antiVirus.accesskey "س">
-
 <!-- Cookies -->
-<!ENTITY cookies.intro                  "يترك لك &brandShortName; أمر تحديد ما هي التدوينات وتلقيمات الأخبار ومواقع الوب الأخرى التي يُسمح لها بإعداد كعكات.">
-<!ENTITY acceptCookies.label            "اقبل الكعكات من المواقع">
-<!ENTITY acceptCookies.accesskey        "ك">
-<!ENTITY keepUntil.label                "احتفظ بها حتى:">
-<!ENTITY keepUntil.accesskey            "ف">
-<!ENTITY expire.label                   "تنتهي صلاحيتها">
-<!ENTITY close.label                    "أُغلق &brandShortName;">
-<!ENTITY askEachTime.label              "اسألني كل مرة">
-<!ENTITY cookieExceptions.label         "استثناءات…">
-<!ENTITY cookieExceptions.accesskey     "ث">
-<!ENTITY showCookies.label              "أظهِر الكعكات…">
-<!ENTITY showCookies.accesskey          "ظ">
+
+<!ENTITY cookies.intro "يترك لك &brandShortName; أمر تحديد ما هي التدوينات وتلقيمات الأخبار ومواقع الوب الأخرى التي يُسمح لها بإعداد كعكات.">
+<!ENTITY acceptCookies.label "اقبل الكعكات من المواقع">
+<!ENTITY acceptCookies.accesskey "ك">
+<!ENTITY keepUntil.label "احتفظ بها حتى:">
+<!ENTITY keepUntil.accesskey "ف">
+<!ENTITY expire.label "تنتهي صلاحيتها">
+<!ENTITY close.label "أُغلق &brandShortName;">
+<!ENTITY askEachTime.label "اسألني كل مرة">
+<!ENTITY cookieExceptions.label "استثناءات…">
+<!ENTITY cookieExceptions.accesskey "ث">
+<!ENTITY showCookies.label "أظهِر الكعكات…">
+<!ENTITY showCookies.accesskey "ظ">
 

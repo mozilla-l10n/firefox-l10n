@@ -1,0 +1,15 @@
+<!ENTITY aboutSupport.appBasicsAppBuildID "معرّف بناء التطبيق">
+
+<!ENTITY aboutSupport.accountsTitle "حسابات البريد والأخبار">
+<!ENTITY aboutSupport.showPrivateData.mainText "ضمّن أسماء الحسابات">
+<!ENTITY aboutSupport.showPrivateData.explanationText "(قد تكون معلومات معرّفة بالهوية)">
+<!ENTITY aboutSupport.accountsID "المعرّف">
+<!ENTITY aboutSupport.accountsName "الاسم">
+<!ENTITY aboutSupport.accountsIncomingServer "الخادوم الوارد">
+<!ENTITY aboutSupport.accountsOutgoingServers "الخادومات الصادرة">
+<!ENTITY aboutSupport.accountsServerName "الاسم">
+<!ENTITY aboutSupport.accountsConnSecurity "سرية الاتصال">
+<!ENTITY aboutSupport.accountsAuthMethod "طريقة الاستيثاق">
+<!ENTITY aboutSupport.accountsDefault "مبدئي؟">
+
+<!ENTITY aboutSupport.sendViaEmail.label "أرسِل باستخدام البريد الإلكتروني">

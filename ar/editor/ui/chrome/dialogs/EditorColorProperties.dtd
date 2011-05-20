@@ -1,4 +1,4 @@
-﻿<!-- ***** BEGIN LICENSE BLOCK *****
+<!-- ***** BEGIN LICENSE BLOCK *****
    - Version: MPL 1.1/GPL 2.0/LGPL 2.1
    -
    - The contents of this file are subject to the Mozilla Public License Version
@@ -47,12 +47,12 @@
 
 <!ENTITY normalText.label "نص عادي">
 <!ENTITY normalText.accessKey "ص">
-<!ENTITY linkText.label "نص رابط">
-<!ENTITY linkText.accessKey "و">
-<!ENTITY activeLinkText.label "نص رابط نشطة">
-<!ENTITY activeLinkText.accessKey "ن">
-<!ENTITY visitedLinkText.label "نص رابط مُزارة">
-<!ENTITY visitedLinkText.accessKey "م">
+<!ENTITY linkText.label "نص الوصلة">
+<!ENTITY linkText.accessKey "ل">
+<!ENTITY activeLinkText.label "نص الوصلة النشطة">
+<!ENTITY activeLinkText.accessKey "ط">
+<!ENTITY visitedLinkText.label "نص الوصلة المَزُورة">
+<!ENTITY visitedLinkText.accessKey "ز">
 <!ENTITY background.label "الخلفية:">
 <!ENTITY background.accessKey "خ">
 <!ENTITY colon.character ":">

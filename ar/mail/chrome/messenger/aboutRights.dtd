@@ -1,9 +1,8 @@
 <!-- rights.locale-direction instead of the usual local.dir entity, so RTL can skip translating page. -->
 <!ENTITY rights.locale-direction "rtl">
-<!ENTITY rights.title            "بخصوص حقوقك">
-<!ENTITY rights.intro-header    "بخصوص حقوقك">
+<!ENTITY rights.title "بخصوص حقوقك">
+<!ENTITY rights.intro-header "بخصوص حقوقك">
 <!ENTITY rights.intro "&brandFullName; هو برنامج حرّ مفتوح المصدر، اشترك في بنائه الآلاف من أنحاء العالم. هناك بضعة أمور ينبغي أن تعلمها:">
-
 <!-- Note on pointa / pointb / pointc form:
      These points each have an embedded link in the HTML, so each point is
      split into chunks for text before the link, the link text, and the text
@@ -12,52 +11,51 @@
 
      Also note the leading/trailing whitespace in strings here, which is
      deliberate for formatting around the embedded links. -->
+
 <!ENTITY rights.intro-point1a "&brandShortName; متاح لك وفق بنود ">
 <!ENTITY rights.intro-point1b "رخصة موزيلا العامة">
 <!ENTITY rights.intro-point1c ". يعني هذا أنك تستطيع استخدام ونسخ وتوزيع &brandShortName; إلى الآخرين.  تستطيع أيضًا تعديل كود &brandShortName; المصدري كما تشاء لموافقة احتياجاتك. تعطيك رخصة موزيلا العامة الحق كذلك في توزيع نسخك المعدلة.">
 
-
 <!ENTITY rights.intro-point2a "موزيلا لا تمنحك أي حقوق فيما يتعلق بعلامات موزيلا وثندِربِرد التجارية وشعاراتهما. يمكن إيجاد معلومات إضافية عن العلامات التجارية ">
 <!ENTITY rights.intro-point2b "هنا">
 <!ENTITY rights.intro-point2c ".">
-
 <!-- point 3 text for official branded builds -->
+
 <!ENTITY rights.intro-point3a "سياسات الخصوصية لمنتجات &vendorShortName; يمكن إيجادها ">
 <!ENTITY rights.intro-point3b "هنا">
 <!ENTITY rights.intro-point3c ".">
-
 <!-- point 3 text for unbranded builds -->
-<!ENTITY rights.intro-point3-unbranded "كل سياسات الخصوصية المطبقة في هذا المنتج ينبغي أن تكون مسرودة هنا.">
 
+<!ENTITY rights.intro-point3-unbranded "كل سياسات الخصوصية المطبقة في هذا المنتج ينبغي أن تكون مسرودة هنا.">
 <!-- point 4 text for official branded builds -->
+
 <!ENTITY rights.intro-point4a "يقدّم &brandShortName;  خدمات اختيارية عن معلومات مواقع الوب، كخدمة التصفح الآمن؛ رغم ذلك، لا يمكننا أن نكفل بأنها 100&#37; دقيقة أو خالية من الأخطاء. يمكن إيجاد مزيد من التفاصيل، شاملة معلومات عن كيفية تعطيل الخدمات، في ">
 <!ENTITY rights.intro-point4b "بنود الخدمة">
 <!ENTITY rights.intro-point4c ".">
-
 <!-- point 4 text for unbranded builds -->
+
 <!ENTITY rights.intro-point4a-unbranded "إن اتحد هذا المنتج مع خدمات الوب، ينبغي ربط كل بنود الخدمة التابعة للخدمة/للخدمات إلى قِسم ">
 <!ENTITY rights.intro-point4b-unbranded "خدمات موقع الوب">
 <!ENTITY rights.intro-point4c-unbranded ".">
 
 <!ENTITY rights.webservices-header "خدمات مواقع الوب لـ &brandFullName;">
-
 <!-- Note that this paragraph references a couple of entities from
      preferences/security.dtd, so that we can refer to text the user sees in
      the UI, without this page being forgotten every time those strings are
      updated.  -->
 <!-- intro paragraph for branded builds -->
+
 <!ENTITY rights.webservices-a "&brandFullName; يقدّم خدمات اختيارية (&quot;الخدمات&quot;)، كخدمة تحديث الإضافات، وهي خدمات متاحة لك في هذه النسخة الثنائية من &brandShortName; كما هو موضح أدناه. إن كنت لا تريد استخدام هذه الخدمات او كنت لا توافق على الشروط أدناه، يمكنك تعطيل خدمة تحديث الإضافات عن طريق فتح نافذة التفضيلات في البرنامج، ثم اختيار ">
 <!ENTITY rights.webservices-b "متقدم">
 <!ENTITY rights.webservices-c " ثم اختيار لسان ">
 <!ENTITY rights.webservices-d "التحديث">
 <!ENTITY rights.webservices-e " وإزالة التأشير عن &quot;التمس التحديثات آليًا&quot;.">
-
 <!-- intro paragraph for unbranded builds -->
+
 <!ENTITY rights.webservices-unbranded "ينبغي أن يُضمّن هنا نظرة عامة على خدمات مواقع الوب التي يتحد معها المنتج، متضمنة تعليمات عن كيفية تعطيلها.">
-
 <!-- point 1 text for unbranded builds -->
-<!ENTITY rights.webservices-term1-unbranded "ينبغي أن تُسرد جميع بنود الخدمة القابلة للتطبيق لهذا المنتج هنا.">
 
+<!ENTITY rights.webservices-term1-unbranded "ينبغي أن تُسرد جميع بنود الخدمة القابلة للتطبيق لهذا المنتج هنا.">
 <!-- points 1-7 text for branded builds -->
 
 <!ENTITY rights.webservices-term1 "&vendorShortName; قد يلغي أو يغير الخدمات حسب مشيئته.">

@@ -17,8 +17,8 @@
 <!ENTITY radioAskUnsent.accesskey "س">
 <!ENTITY textGoingOffline "أأنزل الرسائل للاستخدام بدون اتصال عند غلق الاتصال؟">
 <!ENTITY radioAutoDownload.label "نعم">
-<!ENTITY radioAutoDownload.accesskey "ت">
+<!ENTITY radioAutoDownload.accesskey "ن">
 <!ENTITY radioNotDownload.label "لا">
-<!ENTITY radioNotDownload.accesskey "ي">
+<!ENTITY radioNotDownload.accesskey "ل">
 <!ENTITY radioAskDownload.label "اسألني">
 <!ENTITY radioAskDownload.accesskey "ا">
