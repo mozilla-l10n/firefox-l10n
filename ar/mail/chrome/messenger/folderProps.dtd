@@ -45,12 +45,15 @@
 <!ENTITY folderCharsetTab.accesskey "ت">
 <!ENTITY folderCharsetOverride.label "طبِّق المبدئي على كل الرسائل في الدليل (سيتجاهل إعدادات ترميز المحارف لكل رسالة والتعرّف التلقائي)">
 <!ENTITY folderCharsetOverride.accesskey "ط">
-<!ENTITY folderRebuildSummaryFile.label "أعد بناء الفهرس">
-<!ENTITY folderRebuildSummaryFile.accesskey "ب">
-<!ENTITY folderRebuildSummaryFileTip.label "أعد بناء ملف الملخص">
+<!ENTITY folderRebuildSummaryFileTip2.label "أعد بناء فهرس ملف الملخص">
+<!ENTITY folderRebuildSummaryFile2.label "أصلِح المجلد">
+<!ENTITY folderRebuildSummaryFile2.accesskey "ص">
+<!ENTITY folderRebuildSummaryFile.explanation "في بعض الأحيان، ملف فهرس المجلد (.msf) يتضرّر مما يؤدي إلى اختفاء بعض الرسائل أو ظهور الرسائل المحذوفة بعد حذفها. إصلاح المجلد قد يحلّ هذه المشكلات.">
+<!ENTITY folderIncludeInGlobalSearch.label "ضمّن رسائل هذا المجلد في نتائج البحث العمومي">
+<!ENTITY folderIncludeInGlobalSearch.accesskey "ث">
      
 <!ENTITY retention.label "سياسة الإبقاء">
-<!ENTITY retentionUseAccount.label  "استخدم إعدادات حسابي">
+<!ENTITY retentionUseAccount.label "استخدم إعدادات حسابي">
 <!ENTITY retentionUseAccount.accesskey "ت">
 <!ENTITY daysOld.label "أيّام">
 <!ENTITY message.label "رسائل">
@@ -68,9 +71,9 @@
 <!ENTITY retentionApplyToFlagged.label "احتفظ دائمًا بالرسائل ذات النجمة">
 <!ENTITY retentionApplyToFlagged.accesskey "ج">
 
-<!ENTITY folderSynchronizationTab.label          "مزامنة">
-<!ENTITY folderCheckForNewMessages.label "افحص هذا الدليل بحثًا عن رسائل جديدة">
-<!ENTITY folderCheckForNewMessages.accesskey "ف">
+<!ENTITY folderSynchronizationTab.label "مزامنة">
+<!ENTITY folderCheckForNewMessages2.label "عند الحصول على رسائل جديدة، تحقق من هذا المجلد دائمًا">
+<!ENTITY folderCheckForNewMessages2.accesskey "ق">
 
 <!ENTITY offlineFolder.check.label "اختر هذا الدليل للاستخدام دون اتصال">
 <!ENTITY offlineFolder.check.accesskey "خ">

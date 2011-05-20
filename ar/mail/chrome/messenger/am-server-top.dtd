@@ -24,8 +24,8 @@
 <!ENTITY connectionSecurityType-1.label "STARTTLS، إن كان متاحًا">
 <!ENTITY connectionSecurityType-2.label "STARTTLS">
 <!ENTITY connectionSecurityType-3.label "SSL/TLS">
-<!ENTITY useSecAuth.label "استخدم استيثاقًا آمنًا">
-<!ENTITY useSecAuth.accesskey "س">
+<!ENTITY authMethod.label "طريقة الاستيثاق:">
+<!ENTITY authMethod.accesskey "ق">
 <!ENTITY leaveOnServer.label "اترك الرسائل على الخادوم">
 <!ENTITY leaveOnServer.accesskey "ر">
 <!ENTITY headersOnly.label "نزِّل الترويسات فقط">
@@ -38,7 +38,6 @@
 <!ENTITY downloadOnBiff.label "نزِّل الرسائل الجديدة آليًّا">
 <!ENTITY downloadOnBiff.accesskey "ل">
 <!ENTITY username.label "اسم الولوج">
-
 <!ENTITY deleteMessagePrefix.label "عندما أحذِف رسالة:">
 <!ENTITY modelMoveToTrash.label "انقلها إلى دليل المهملات">
 <!ENTITY modelMoveToTrash.accesskey "ا">
@@ -52,7 +51,7 @@
 <!ENTITY emptyTrashOnExit.label "أفرغ المهملات عند الخروج">
 <!ENTITY emptyTrashOnExit.accesskey "خ">
 <!ENTITY loginAtStartup.label "تحقق من وجود رسائل جديدة عند البدء">
-<!ENTITY loginAtStartup.accesskey "C">
+<!ENTITY loginAtStartup.accesskey "ء">
 <!-- LOCALIZATION NOTE (maxMessagesStart.label) : translate below 2 lines with grammar dependency
     maxMessengerStart.label will be followed by maxMessagesEnd.label with the number
    of messages between them
