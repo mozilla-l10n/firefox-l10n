@@ -1,3 +1,8 @@
+<!ENTITY tracking.label                 "Theo dõi">
+
+<!ENTITY doNotTrack.label               "Nói với các trang web rằng tôi không muốn bị theo dõi">
+<!ENTITY doNotTrack.accesskey           "d">
+
 <!ENTITY  history.label                 "Lược sử">
 
 <!ENTITY  locationBar.label             "Thanh Địa Chỉ">
@@ -29,7 +34,6 @@
 
 <!ENTITY  showCookies.label             "Hiện Cookie…">
 <!ENTITY  showCookies.accesskey         "e">
-
 
 <!ENTITY  historyHeader.pre.label          "&brandShortName; sẽ:">
 <!ENTITY  historyHeader.pre.accesskey      "s">
