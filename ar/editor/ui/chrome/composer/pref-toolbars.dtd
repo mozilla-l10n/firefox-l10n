@@ -34,38 +34,38 @@
    -
    - ***** END LICENSE BLOCK ***** -->
 
-<!ENTITY pref.toolbars.title    "أشرطة الأدوات">
+<!ENTITY pref.toolbars.title "أشرطة الأدوات">
 
-<!ENTITY composition.caption    "أظهِر هذه الأزرار في شريط أدوات الإنشاء:">
+<!ENTITY composition.caption "أظهِر هذه الأزرار في شريط أدوات الإنشاء:">
 
-<!ENTITY new.label              "جديد">
-<!ENTITY open.label             "افتح">
-<!ENTITY save.label             "احفظ">
-<!ENTITY publish.label          "انشر">
-<!ENTITY preview.label          "استعرض">
-<!ENTITY cut.label              "قصّ">
-<!ENTITY copy.label             "انسخ">
-<!ENTITY paste.label            "الصق">
-<!ENTITY print.label            "اطبع">
-<!ENTITY find.label             "ابحث">
-<!ENTITY image.label            "صورة">
-<!ENTITY hline.label            "خط أفقي">
-<!ENTITY table.label            "جدول">
-<!ENTITY link.label             "رابط">
-<!ENTITY anchor.label           "مرساة">
+<!ENTITY new.label "جديد">
+<!ENTITY open.label "افتح">
+<!ENTITY save.label "احفظ">
+<!ENTITY publish.label "انشر">
+<!ENTITY preview.label "استعرض">
+<!ENTITY cut.label "قصّ">
+<!ENTITY copy.label "انسخ">
+<!ENTITY paste.label "الصق">
+<!ENTITY print.label "اطبع">
+<!ENTITY find.label "ابحث">
+<!ENTITY image.label "صورة">
+<!ENTITY hline.label "خط أفقي">
+<!ENTITY table.label "جدول">
+<!ENTITY link.label "رابط">
+<!ENTITY anchor.label "مرساة">
 
-<!ENTITY formatting.caption      "أظهِر هذه الأزرار في شريط أدوات التنسيق:">
+<!ENTITY formatting.caption "أظهِر هذه الأزرار في شريط أدوات التنسيق:">
 
-<!ENTITY smaller.label          "أصغر">
-<!ENTITY larger.label           "أكبر">
-<!ENTITY bold.label             "سميك">
-<!ENTITY bullets.label          "نقاط">
-<!ENTITY numbers.label          "أرقام">
-<!ENTITY italic.label           "مائل">
-<!ENTITY outdent.label          "إزاحة إلى الخارج">
-<!ENTITY indent.label           "إزاحة إلى الداخل">
-<!ENTITY underline.label        "مُسطَّر">
+<!ENTITY smaller.label "أصغر">
+<!ENTITY larger.label "أكبر">
+<!ENTITY bold.label "سميك">
+<!ENTITY bullets.label "نقاط">
+<!ENTITY numbers.label "أرقام">
+<!ENTITY italic.label "مائل">
+<!ENTITY outdent.label "إزاحة إلى الخارج">
+<!ENTITY indent.label "إزاحة إلى الداخل">
+<!ENTITY underline.label "مُسطَّر">
 
 <!ENTITY absolutePosition.label "الموقع المُطْلق">
-<!ENTITY decreaseZIndex.label   "أرسِل إلى الخلف">
-<!ENTITY increaseZIndex.label   "اجلب إلى الأمام">
+<!ENTITY decreaseZIndex.label "أرسِل إلى الخلف">
+<!ENTITY increaseZIndex.label "اجلب إلى الأمام">

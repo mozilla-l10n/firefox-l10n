@@ -3,8 +3,8 @@
 <!ENTITY searchHeading.accesskey "ث">
 <!ENTITY searchSubfolders.label "ابحث في المجلدات الفرعيّة">
 <!ENTITY searchSubfolders.accesskey "ب">
-<!ENTITY searchOnServer.label        "شغّل البحث في الخادوم">
-<!ENTITY searchOnServer.accesskey    "خ">
+<!ENTITY searchOnServer.label "شغّل البحث في الخادوم">
+<!ENTITY searchOnServer.accesskey "خ">
 <!ENTITY resetButton.label "امسح">
 <!ENTITY resetButton.accesskey "م">
 <!ENTITY openButton.label "افتح">
@@ -18,8 +18,8 @@
 <!ENTITY fileButton.label "أرشِف">
 <!ENTITY fileButton.accesskey "ش">
 <!ENTITY closeCmd.key "W">
-<!ENTITY openInFolder.label          "افتح في مجلد">
-<!ENTITY openInFolder.accesskey      "د">
+<!ENTITY openInFolder.label "افتح في مجلد">
+<!ENTITY openInFolder.accesskey "د">
 <!ENTITY saveAsVFButton.label "احفظ كدليل بحث">
 <!ENTITY saveAsVFButton.accesskey "ح">
 <!-- for ABSearchDialog.xul -->

@@ -42,7 +42,6 @@
 <!-- LOCALIZATION NOTE (directoriesText.label) : do not translate "LDAP" in below line -->
 <!ENTITY directoriesText.label "اختر خادوم دليل LDAP:">
 <!ENTITY directoriesText.accesskey "ت">
-<!-- LOCALIZATION NOTE (autocomplete.title) : do not translate "LDAP" in below line -->
 <!ENTITY addDirectory.label "أضِف">
 <!ENTITY addDirectory.accesskey "ض">
 <!ENTITY editDirectory.label "حرّر">

@@ -3,13 +3,25 @@
 <!ENTITY titleSeparator.label " - ">
 <!-- File Menu -->
 
-<!ENTITY more.label "المزيد">
 <!ENTITY newFolderCmd.label "مجلد…">
 <!ENTITY newFolderCmd.accesskey "م">
-<!ENTITY closeTabCmd.label "أغلق اللسان">
-<!ENTITY closeTabCmd.accesskey "غ">
-<!ENTITY closeOtherTabsCmd.label "أغلق الألسنة الأخرى">
-<!ENTITY closeOtherTabsCmd.accesskey "ل">
+<!ENTITY closeTabCmd2.label "أغلِق اللسان">
+<!ENTITY closeTabCmd2.accesskey "غ">
+<!ENTITY closeOtherTabsCmd2.label "أغلِق الألسنة الأخرى">
+<!ENTITY closeOtherTabsCmd2.accesskey "خ">
+<!-- LOCALIZATION NOTE (undoCloseTabCmd.label):
+     Menu option to attempt to re-open a recently closed tab.
+     -->
+<!ENTITY recentlyClosedTabsCmd.label "الألسنة المغلقة مؤخرًا">
+<!ENTITY recentlyClosedTabsCmd.accesskey "ر">
+
+<!ENTITY undoCloseTabCmd.commandkey "ق">
+<!-- LOCALIZATION NOTE (moveToNewWindow.label):
+     Menu option to cause the current tab to be migrated to a new Thunderbird
+     window.
+     -->
+<!ENTITY moveToNewWindow.label "انقل إلى نافذة جديدة">
+<!ENTITY moveToNewWindow.accesskey "ذ">
 <!ENTITY newVirtualFolderCmd.label "بحث محفوظ…">
 <!ENTITY newVirtualFolderCmd.accesskey "ح">
 <!ENTITY newOtherAccountsCmd.label "حسابات أخرى…">
@@ -27,7 +39,6 @@
 <!ENTITY saveAsFileCmd.key "a">
 <!ENTITY saveAsTemplateCmd.label "قالب">
 <!ENTITY saveAsTemplateCmd.accesskey "ق">
-<!ENTITY getNewMsgCmd.key "t">
 <!ENTITY getNewMsgForCmd.label "اجلب الرسائل  الجديدة لـ">
 <!ENTITY getNewMsgForCmd.accesskey "ج">
 <!ENTITY getAllNewMsgCmdPopupMenu.label "جميع الحسابات">
@@ -49,8 +60,6 @@
 <!ENTITY compactFolders.accesskey "د">
 <!ENTITY emptyTrashCmd.label "أفرغ المهملات">
 <!ENTITY emptyTrashCmd.accesskey "ف">
-<!ENTITY importCmd.label "استورد…">
-<!ENTITY importCmd.accesskey "س">
 <!ENTITY offlineMenu.label "غير متصل">
 <!ENTITY offlineMenu.accesskey "م">
 <!ENTITY offlineGoOfflineCmd.label "اعمل بلا اتصال">
@@ -76,14 +85,10 @@
 <!ENTITY deleteMsgCmd.accesskey "ح">
 <!ENTITY undeleteMsgCmd.label "ألغِ حذف الرسالة">
 <!ENTITY undeleteMsgCmd.accesskey "ل">
-<!ENTITY cancelNewsMsgCmd.label "ألغِ الرسالة">
-<!ENTITY cancelNewsMsgCmd.accesskey "ر">
 <!ENTITY deleteMsgsCmd.label "احذف الرسائل المختارة">
 <!ENTITY deleteMsgsCmd.accesskey "ف">
 <!ENTITY undeleteMsgsCmd.label "ألغِ حذف الرسائل المختارة">
 <!ENTITY undeleteMsgsCmd.accesskey "ذ">
-<!ENTITY cancelNewsMsgsCmd.label "ألغِ الرسائل المختارة">
-<!ENTITY cancelNewsMsgsCmd.accesskey "غ">
 <!ENTITY deleteFolderCmd.label "احذف المجلد">
 <!ENTITY deleteFolderCmd.accesskey "د">
 <!ENTITY unsubscribeNewsgroupCmd.label "ألغِ الاشتراك">
@@ -103,9 +108,6 @@
 <!ENTITY folderPropsFolderCmd.label "خصائص المجلد…">
 <!ENTITY folderPropsNewsgroupCmd.label "خصائص مجموعة البريد…">
 <!ENTITY folderPropsCmd.accesskey "خ">
-<!ENTITY accountManagerCmd.label "إعدادات الحساب …">
-<!ENTITY accountManagerCmd.accesskey "ع">
-<!ENTITY accountManagerCmdUnix.accesskey "ح">
 <!ENTITY undoDeleteMsgCmd.label "ألغِ حذف الرسالة">
 <!ENTITY redoDeleteMsgCmd.label "أعِد حذف الرسالة">
 <!ENTITY undoMoveMsgCmd.label "ألغِ نقل الرسالة">
@@ -138,8 +140,8 @@
 
 <!ENTITY folderView.label "المجلدات">
 <!ENTITY folderView.accesskey "د">
-<!ENTITY smartFolders.label "الذكية">
-<!ENTITY smartFolders.accesskey "ذ">
+<!ENTITY unifiedFolders.label "الموحّدة">
+<!ENTITY unifiedFolders.accesskey "ح">
 <!ENTITY allFolders.label "الكل">
 <!ENTITY allFolders.accesskey "ك">
 <!ENTITY unreadFolders.label "غير مقروء">
@@ -210,6 +212,7 @@
 <!ENTITY watchedThreadsWithUnreadCmd.accesskey "غ">
 <!ENTITY ignoredThreadsCmd.label "النقاشات المُتجاهلة">
 <!ENTITY ignoredThreadsCmd.accesskey "ج">
+
 <!ENTITY headersMenu.label "الترويسات">
 <!ENTITY headersMenu.accesskey "ر">
 <!ENTITY headersAllCmd.label "الكل">
@@ -224,6 +227,7 @@
 <!ENTITY bodySanitized.accesskey "ب">
 <!ENTITY bodyAsPlaintext.label "نص صِرْف">
 <!ENTITY bodyAsPlaintext.accesskey "ن">
+
 <!ENTITY bodyMenuFeed.label "تلقيم متن الرسالة كـ">
 <!ENTITY bodyMenuFeed.accesskey "ت">
 <!ENTITY viewFeedWebPage.label "صفحة وب">
@@ -232,6 +236,7 @@
 <!ENTITY viewFeedSummary.accesskey "خ">
 <!ENTITY viewFeedSummaryFeedPropsPref.label "تنسيق مبدئي">
 <!ENTITY viewFeedSummaryFeedPropsPref.accesskey "ئ">
+
 <!ENTITY viewAttachmentsInlineCmd.label "اعرض المرفقات في السّياق">
 <!ENTITY viewAttachmentsInlineCmd.accesskey "ف">
 <!-- LOCALIZATION NOTE :
@@ -267,7 +272,6 @@ you can use these alternative items. Otherwise, their values should be empty.  -
 <!ENTITY pageSourceCmd.accesskey "ص">
 <!ENTITY pageSourceCmd.key "u">
 <!-- Search Menu -->
-
 
 <!ENTITY findMenu.label "ابحث">
 <!ENTITY findMenu.accesskey "ب">
@@ -318,8 +322,15 @@ you can use these alternative items. Otherwise, their values should be empty.  -
 <!ENTITY goBackCmd.commandKey "[">
 <!ENTITY prevStarredMsgCmd.label "رسالة ذات نجمة">
 <!ENTITY prevStarredMsgCmd.accesskey "ذ">
+<!ENTITY folderMenu.label "المجلد">
+<!ENTITY folderMenu.accesskey "د">
+<!ENTITY thisFolder.label "هذا المجلد">
+<!ENTITY thisFolder.accesskey "ه">
+<!ENTITY goRecentlyClosedTabs.label "الألسنة المغلقة مؤخرًا">
 <!ENTITY startPageCmd.label "صفحة بداية البريد">
 <!ENTITY startPageCmd.accesskey "ب">
+<!-- Message Menu -->
+
 <!ENTITY msgMenu.label "رسالة">
 <!ENTITY msgMenu.accesskey "ر">
 <!ENTITY newMsgCmd.label "رسالة جديدة">
@@ -328,7 +339,9 @@ you can use these alternative items. Otherwise, their values should be empty.  -
 <!ENTITY newNewMsgCmd.accesskey "ر">
 <!ENTITY archiveMsgCmd.label "أرشيف">
 <!ENTITY archiveMsgCmd.accesskey "ف">
-<!ENTITY archiveMsgCmd.key  "a">
+<!ENTITY archiveMsgCmd.key "a">
+<!ENTITY cancelNewsMsgCmd.label "ألغِ الرسالة">
+<!ENTITY cancelNewsMsgCmd.accesskey "ر">
 <!ENTITY replyMsgCmd.label "رُدّ">
 <!ENTITY replyMsgCmd.accesskey "ر">
 <!ENTITY replyMsgCmd.key "r">
@@ -340,8 +353,8 @@ you can use these alternative items. Otherwise, their values should be empty.  -
 <!ENTITY replyToAllMsgCmd.accesskey "ج">
 <!ENTITY replyToAllMsgCmd.key "r">
 <!ENTITY replyToListMsgCmd.label "رُدّ على القائمة">
-<!ENTITY replyToListMsgCmd.accesskey  "ق">
-<!ENTITY replyToListMsgCmd.key  "l">
+<!ENTITY replyToListMsgCmd.accesskey "ق">
+<!ENTITY replyToListMsgCmd.key "l">
 <!ENTITY forwardMsgCmd.label "مرّر">
 <!ENTITY forwardMsgCmd.accesskey "م">
 <!ENTITY forwardMsgCmd.key "l">
@@ -392,34 +405,39 @@ you can use these alternative items. Otherwise, their values should be empty.  -
 <!ENTITY tagCmd7.key "7">
 <!ENTITY tagCmd8.key "8">
 <!ENTITY tagCmd9.key "9">
-<!ENTITY markMenu.label "أشِّر">
-<!ENTITY markMenu.accesskey "ش">
-<!ENTITY markAsReadCmd.label "كمقروءة">
+<!ENTITY markMenu.label "اجعل">
+<!ENTITY markMenu.accesskey "ع">
+<!ENTITY toggleReadCmd.key "m">
+<!ENTITY markAsReadCmd.label "مقروءة">
 <!ENTITY markAsReadCmd.accesskey "ق">
-<!ENTITY markAsReadCmd.key "m">
-<!ENTITY markThreadAsReadCmd.label "النقاش كمقروء">
+<!ENTITY markAsUnreadCmd.label "غير مقروءة">
+<!ENTITY markAsUnreadCmd.accesskey "ء">
+<!ENTITY markThreadAsReadCmd.label "النقاش مقروءًا">
 <!ENTITY markThreadAsReadCmd.accesskey "ن">
 <!ENTITY markThreadAsReadCmd.key "r">
-<!ENTITY markReadByDateCmd.label "كمقروء بالتاريخ…">
+<!ENTITY markReadByDateCmd.label "مقروءًا حسب التاريخ…">
 <!ENTITY markReadByDateCmd.accesskey "خ">
 <!ENTITY markReadByDateCmd.key "c">
-<!ENTITY markAllReadCmd.label "الكل مقروء">
+<!ENTITY markAllReadCmd.label "الكل مقروءًا">
 <!ENTITY markAllReadCmd.accesskey "ك">
 <!ENTITY markAllReadCmd.key "c">
 <!ENTITY markStarredCmd.label "أضِف نجمة">
 <!ENTITY markStarredCmd.accesskey "ن">
 <!ENTITY markStarredCmd.key "S">
-<!ENTITY markAsJunkCmd.label "كسخام">
+<!ENTITY markAsJunkCmd.label "سخام">
 <!ENTITY markAsJunkCmd.accesskey "س">
 <!ENTITY markAsJunkCmd.key "j">
-<!ENTITY markAsNotJunkCmd.label "ليست سخامًا">
-<!ENTITY markAsNotJunkCmd.accesskey "ل">
+<!ENTITY markAsNotJunkCmd.label "غير سخام">
+<!ENTITY markAsNotJunkCmd.accesskey "غ">
 <!ENTITY markAsNotJunkCmd.key "j">
 <!ENTITY recalculateJunkScoreCmd.label "شغّل مُتحكِّمات السخام">
 <!ENTITY recalculateJunkScoreCmd.accesskey "م">
 <!ENTITY openMessageWindowCmd.label "افتح الرسالة">
 <!ENTITY openMessageWindowCmd.accesskey "ف">
 <!ENTITY openMessageWindowCmd.key "o">
+<!ENTITY openConversationCmd.label "افتح في محادثة">
+<!ENTITY openConversationCmd.accesskey "ث">
+<!ENTITY openConversationCmd.key "o">
 <!ENTITY openFeedMessage.label "افتح رسالة التلقيم">
 <!ENTITY openFeedMessage.accesskey "ف">
 <!ENTITY openFeedWebPageInWindow.label "صفحة وب في نافذة جديدة">
@@ -435,21 +453,18 @@ you can use these alternative items. Otherwise, their values should be empty.  -
 
 <!ENTITY tasksMenu.label "أدوات">
 <!ENTITY tasksMenu.accesskey "د">
-<!ENTITY addons.label "إضافات">
-<!ENTITY addons.accesskey "ض">
-<!ENTITY activitymanager.label "مدير النشاطات">
-<!ENTITY activitymanager.accesskey "ش">
 <!ENTITY messengerCmd.label "البريد و مجموعات الأخبار">
 <!ENTITY messengerCmd.accesskey "ب">
 <!ENTITY addressBookCmd.label "دفتر العناوين">
 <!ENTITY addressBookCmd.accesskey "د">
 <!ENTITY addressBookCmd.key "B">
-<!ENTITY runJunkControls.label "شغّل متحكّمات السخام في المجلد">
-<!ENTITY runJunkControls.accesskey "د">
-<!ENTITY deleteJunk.label "احذف البريد المؤشر كسخام في المجلد">
-<!ENTITY deleteJunk.accesskey "ح">
-<!ENTITY errorConsoleCmd.label "مرقاب الأعطال">
-<!ENTITY errorConsoleCmd.accesskey "ط">
+<!ENTITY addons.label "إضافات">
+<!ENTITY addons.accesskey "ض">
+<!ENTITY activitymanager.label "مدير النشاطات">
+<!ENTITY activitymanager.accesskey "ش">
+<!ENTITY savedFiles.label "الملفات المحفوظة">
+<!ENTITY savedFiles.accesskey "ظ">
+<!ENTITY savedFiles.key "j">
 <!ENTITY filtersCmd.label "مرشِّحات الرسائِل…">
 <!ENTITY filtersCmd.accesskey "س">
 <!ENTITY filtersApply.label "شغّل المرشِّحات على المجلد">
@@ -458,6 +473,19 @@ you can use these alternative items. Otherwise, their values should be empty.  -
 <!ENTITY filtersApplyToSelection.accesskey "ئ">
 <!ENTITY filtersApplyToMessage.label "شغّل المرشحات على الرسالة">
 <!ENTITY filtersApplyToMessage.accesskey "س">
+<!ENTITY runJunkControls.label "شغّل متحكّمات السخام في المجلد">
+<!ENTITY runJunkControls.accesskey "د">
+<!ENTITY deleteJunk.label "احذف البريد المؤشر كسخام في المجلد">
+<!ENTITY deleteJunk.accesskey "ح">
+<!ENTITY importCmd.label "استورد…">
+<!ENTITY importCmd.accesskey "س">
+<!ENTITY errorConsoleCmd.label "مرقاب الأعطال">
+<!ENTITY errorConsoleCmd.accesskey "ط">
+<!ENTITY accountManagerCmd.label "إعدادات الحساب …">
+<!ENTITY accountManagerCmd.accesskey "ع">
+<!-- LOCALIZATION NOTE (accountManagerCmdUnix.accesskey): belongs to accountManagerCmd.label,
+        which is placed under the Edit menu on Unix systems -->
+<!ENTITY accountManagerCmdUnix.accesskey "ح">
 <!-- Mail Toolbar -->
 
 <!ENTITY getMsgButton.label "اجلب البريد">
@@ -493,7 +521,6 @@ you can use these alternative items. Otherwise, their values should be empty.  -
 <!ENTITY getMsgButton.tooltip "اجلب الرسائل الجديدة">
 <!ENTITY getAllNewMsgCmd.label "اجلب كل الرسائل الجديدة">
 <!ENTITY getAllNewMsgCmd.accesskey "ج">
-<!ENTITY getAllNewMsgCmd.key "t">
 <!ENTITY newMsgButton.tooltip "أنشئ رسالة جديدة">
 <!ENTITY replyButton.tooltip "رُد على الرسالة">
 <!ENTITY replyAllButton.tooltip "رُد على المُرسِل وكل المُستلمين">
@@ -537,8 +564,8 @@ you can use these alternative items. Otherwise, their values should be empty.  -
 <!ENTITY folderContextRename.accesskey "س">
 <!ENTITY folderContextRemove.label "احذف">
 <!ENTITY folderContextRemove.accesskey "ذ">
-<!ENTITY folderContextCompact.label "ادمج">
-<!ENTITY folderContextCompact.accesskey "C">
+<!ENTITY folderContextCompact.label "اضغط">
+<!ENTITY folderContextCompact.accesskey "ط">
 <!ENTITY folderContextEmptyTrash.label "أفرغ المهملات">
 <!ENTITY folderContextEmptyTrash.accesskey "ف">
 <!ENTITY folderContextEmptyJunk.label "أفرِغ السُخام">
@@ -565,10 +592,9 @@ you can use these alternative items. Otherwise, their values should be empty.  -
 
 <!ENTITY SearchNameOrEmail.label "الاسم أو البريد يحوي:">
 <!ENTITY SearchNameOrEmail.accesskey "س">
-
 <!-- Gloda Search Bar -->
-<!ENTITY glodaSearchBar.emptyText "ابحث في الرسائل…">
 
+<!ENTITY glodaSearchBar.placeholder "ابحث في الرسائل…">
 <!-- Quick Search Menu Bar -->
 
 <!ENTITY searchSubjectMenu.label "الموضوع">
@@ -599,7 +625,6 @@ you can use these alternative items. Otherwise, their values should be empty.  -
 <!ENTITY locationColumn.label "الموقع">
 <!ENTITY idColumn.label "ترتيب الاستلام">
 <!ENTITY attachmentColumn.label "مرفقات">
-
 <!-- Thread Pane Tooltips -->
 
 <!ENTITY columnChooser.tooltip "انقر لاختيار الأعمدة التي ستعرض">
@@ -622,13 +647,18 @@ you can use these alternative items. Otherwise, their values should be empty.  -
 <!ENTITY locationColumn.tooltip "انقر لترتب حسب الموقع">
 <!ENTITY idColumn.tooltip "انقر لترتب حسب ترتيب الاستلام">
 <!ENTITY attachmentColumn.tooltip "انقر لترتب حسب المُرفقات">
-
 <!-- Thread Pane Context Menu -->
 
 <!ENTITY contextOpenNewWindow.label "افتح الرسالة في نافذة جديدة">
 <!ENTITY contextOpenNewWindow.accesskey "ج">
+<!-- The key potentially conflicts with cutCmd.accessKey which is defined in
+     textcontext.dtd from toolkit. Right now, both menu items can't be visible
+     at the same time, but should someone enable copy/paste of message, this key
+     would probably need to be changed. -->
 <!ENTITY contextOpenNewTab.label "افتح الرسالة في لسان جديد">
 <!ENTITY contextOpenNewTab.accesskey "ل">
+<!ENTITY contextOpenConversation.label "افتح الرسالة في محادثة">
+<!ENTITY contextOpenConversation.accesskey "ث">
 <!ENTITY contextEditAsNew.label "حرّر كجديدة…">
 <!ENTITY contextEditAsNew.accesskey "ح">
 <!ENTITY contextArchive.label "أرشيف">
@@ -657,8 +687,55 @@ you can use these alternative items. Otherwise, their values should be empty.  -
 <!ENTITY contextPrint.accesskey "ط">
 <!ENTITY contextPrintPreview.label "معاينة الطباعة">
 <!ENTITY contextPrintPreview.accesskey "ع">
+<!-- Thread Pane Column Picker -->
+<!-- LOCALIZATION NOTE (columnPicker.resetToInbox.label):
+   This option in the thread pane column picker causes us to reset the
+   customizations for the thread pane columns in this folder to their default.
+  -->
 
+<!ENTITY columnPicker.resetToInbox.label "صفّر الأعمدة إلى المبدئيات">
+<!-- LOCALIZATION NOTE (columnPicker.applyTo.label):
+   This option in the thread pane column picker pops up a sub-menu containing
+   the "columnPicker.applyToFolder.label" and
+   "columnPicker.applyToFolderAndChildren.label" options.  This item indicates
+   a desire to apply the currently displayed set of columns to some other
+   folder(s).  The sub-menu items indicate whether we want to apply it to just
+   a folder or also its children.
+  -->
+<!ENTITY columnPicker.applyTo.label "طبّق الأعمدة على…">
+<!-- LOCALIZATION NOTE (columnPicker.applyToFolder.label):
+   This option in the thread pane column picker is found on a sub-menu beneath
+   the "columnPicker.applyTo.label" alongside
+   "columnPicker.applyToFolderAndChildren.label".  It indicates a desire to
+   apply the currently display thread pane column settings to a single folder
+   that the user selects using the same widget as the move to/copy to
+   mechanism (via a series of popups).
+  -->
+<!ENTITY columnPicker.applyToFolder.label "مجلد…">
+<!-- LOCALIZATION NOTE (columnPicker.applyToFolderAndChildren.label):
+   This option in the thread pane column picker is found on a sub-menu beneath
+   the "columnPicker.applyTo.label" alongside
+   "columnPicker.applyToFolder.label".  It indicates a desire to
+   apply the currently display thread pane column settings to a folder and all
+   of its descendents.  The user selects the folder using the same widget as the
+   move to/copy to mechanism (via a series of popups).
+  -->
+<!ENTITY columnPicker.applyToFolderAndChildren.label "مجلد وكل ما بداخله…">
+<!-- LOCALIZATION NOTE (columnPicker.thisFolder.label):
+   This is used in the folder selection widget for the
+   "columnPicker.applyToFolder.label" and
+   "columnPicker.applyToFolderAndChildren.label" menu options.  Whenever
+   a folder has children, it results in a menu popup; the first menu item
+   in that popup is given this label to indicate that that folder should be
+   selected.  For example, if folder "A" has two children, "B" and "C", then
+   when the user hovers over "A", a new popup menu will be displayed whose
+   items are "This folder", "B", and "C".  This is the equivalent of the
+   "File here" option for the move to/copy to widge.t
+  -->
+<!ENTITY columnPicker.thisFolder.label "هذا المجلد">
 <!-- Media (video/audio) controls -->
+
+
 <!ENTITY contextPlay.label "شغّل">
 <!ENTITY contextPlay.accesskey "ش">
 <!ENTITY contextPause.label "ألبٍث">
@@ -667,7 +744,6 @@ you can use these alternative items. Otherwise, their values should be empty.  -
 <!ENTITY contextMute.accesskey "ت">
 <!ENTITY contextUnmute.label "أطلِق الصوت">
 <!ENTITY contextUnmute.accesskey "و">
-
 <!-- Junk Bar -->
 
 <!ENTITY junkBarMessage1.label "بريد سُخام">
@@ -677,18 +753,49 @@ you can use these alternative items. Otherwise, their values should be empty.  -
 
 <!ENTITY remoteContentMessage2.label "لحماية خصوصيتك، منع &brandShortName; المحتوى البعيد في هذه الرسالة.">
 <!ENTITY loadRemoteContentButton3.label "أظهِر المحتوى البعيد">
-
 <!-- Phishing Bar -->
 
 <!ENTITY phishingBarMessage2.label "هذه الرسالة قد تكون خدعة.">
 <!ENTITY removePhishingBarButton1.label "تجاهَل التحذير">
+<!ENTITY disablePhishingWarning1.label "عطَل الكشف عن الاحتيال لجميع الرسائل">
 <!ENTITY reportPhishingError1.label "لا يبدو على هذه الرسالة أنها خدعة.">
+<!-- MDN Bar -->
 
+<!ENTITY mdnBarIgnoreButton2.label "تجاهل">
+<!ENTITY mdnBarIgnoreButton2.accesskey "ه">
+<!ENTITY mdnBarSendButton2.label "أرسِل إيصال الارتجاع">
+<!ENTITY mdnBarSendButton2.accesskey "ص">
 <!-- Quick Search Bar -->
-<!ENTITY quickSearchCmd.key "k">
-<!ENTITY searchAllMessages.label "ابحث في جميع الرسائل">
+<!-- LOCALIZATION NOTE (quickSearchCmd.key):
+     This is actually the key used for the global message search box; we have
+     not changed 
+     -->
 
+<!ENTITY quickSearchCmd.key "k">
+<!-- LOCALIZATION NOTE (searchAllMessages.label.base):
+     This is the base of the empty text for the global search box.  We replace
+     #1 with the contents of the appropriate
+     searchAllMessages.keyLabel2.* value for the platform.
+     The goal is to convey to the user that typing in the box will allow them
+     to search for messages globally and that there is a hotkey they can press
+     to get to the box faster.  If the global indexer is disabled, the search
+     box will be collapsed and the user will never see this message.
+     -->
+<!ENTITY searchAllMessages.label.base "يبحث في كل الرسائل… #1">
+<!-- LOCALIZATION NOTE (searchAllMessages.keyLabel.nonmac):
+     The description of the key-binding to get into the global search box on
+     windows and linux (which use the control key).  We use the key defined in
+     the quickSearchCmd.key entity defined above, the letter should match it.
+     -->
+<!ENTITY searchAllMessages.keyLabel2.nonmac "&lt;Ctrl+K&gt;">
+<!-- LOCALIZATION NOTE (searchAllMessages.keyLabel.mac):
+     The description of the key-binding to get into the global search box on mac
+     systems.  We use the key defined in the quickSearchCmd.key entity defined
+     above, the letter should match it.
+     -->
+<!ENTITY searchAllMessages.keyLabel2.mac "&lt;&#x2318;K&gt;">
 <!-- Message Header Context Menu -->
+
 <!ENTITY AddToAddressBook.label "أضِف إلى دفتر العناوين…">
 <!ENTITY AddToAddressBook.accesskey "د">
 <!ENTITY AddDirectlyToAddressBook.label "أضِف إلى دفتر العناوين">
@@ -711,24 +818,20 @@ you can use these alternative items. Otherwise, their values should be empty.  -
 <!ENTITY CreateFilterFrom.accesskey "ش">
 <!ENTITY reportPhishingURL.label "أبلغ عن بريد احتيال">
 <!ENTITY reportPhishingURL.accesskey "ب">
+<!-- Spell checker context menu items -->
+
+<!ENTITY spellAddDictionaries.label "أضِف القواميس…">
+<!ENTITY spellAddDictionaries.accesskey "س">
 <!-- Content Pane Context Menu -->
 
 <!ENTITY saveLinkAsCmd.label "احفظ الرابط ك‍…">
 <!ENTITY saveLinkAsCmd.accesskey "ك">
 <!ENTITY saveImageAsCmd.label "احفظ الصورة ك‍…">
 <!ENTITY saveImageAsCmd.accesskey "ظ">
-<!ENTITY cutCmd.label "قصّ">
-<!ENTITY cutCmd.accesskey "ص">
-<!ENTITY copyCmd.label "انسخ">
-<!ENTITY copyCmd.accesskey "خ">
-<!ENTITY pasteCmd.label "ألصِق">
-<!ENTITY pasteCmd.accesskey "ق">
-<!ENTITY selectAllCmd.label "اختر الكل">
-<!ENTITY selectAllCmd.accesskey "ل">
 <!ENTITY copyLinkCmd.label "انسخ موقع الرابط">
 <!ENTITY copyLinkCmd.accesskey "ن">
-<!ENTITY copyImageCmd.label "انسخ مكان الصورة">
-<!ENTITY copyImageCmd.accesskey "م">
+<!ENTITY copyImageAllCmd.label "انسخ الصورة">
+<!ENTITY copyImageAllCmd.accesskey "ص">
 <!ENTITY copyEmailCmd.label "انسخ البريد الإلكتروني">
 <!ENTITY copyEmailCmd.accesskey "ي">
 <!ENTITY stopCmd.label "أوقِف">
@@ -739,17 +842,17 @@ you can use these alternative items. Otherwise, their values should be empty.  -
 <!ENTITY openInBrowser.accesskey "ت">
 <!ENTITY openLinkInBrowser.label "افتح الوصلة في المتصفح">
 <!ENTITY openLinkInBrowser.accesskey "ة">
-
 <!-- Statusbar -->
-<!ENTITY statusText.label "تمّ">
 
+<!ENTITY statusText.label "تمّ">
 <!--  Mac OS X Window Menu -->
+
 <!ENTITY minimizeWindow.label "صغّر">
 <!ENTITY minimizeWindow.key "m">
 <!ENTITY bringAllToFront.label "اجلب الكل للمقدمة">
 <!ENTITY zoomWindow.label "قرّب">
-
 <!-- Mac OS X Application Menu (Cocoa widgets) -->
+
 <!ENTITY preferencesCmdMac.label "تفضيلات…">
 <!ENTITY preferencesCmdMac.commandkey "،">
 <!ENTITY preferencesCmdMac.modifiers "accel">

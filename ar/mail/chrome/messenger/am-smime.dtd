@@ -8,6 +8,14 @@
 <!ENTITY alwaysEncryptMessage.label "مشترطة (لا يمكن إرسال الرسائل ما لم يمتلك كل المستلمون شهادات)">
 <!ENTITY alwaysEncryptMessage.accesskey "ش">
 <!ENTITY encryptionCert.message "استخدم هذه الشهادة لتعمية واستخراج الرسائل المرسلة إليك:">
+<!ENTITY digitalSign.certificate.button "اختر…">
+<!ENTITY digitalSign.certificate.accesskey "خ">
+<!ENTITY digitalSign.certificate_clear.button "امسح">
+<!ENTITY digitalSign.certificate_clear.accesskey "ح">
+<!ENTITY encryption.certificate.button "اختر…">
+<!ENTITY encryption.certificate.accesskey "ر">
+<!ENTITY encryption.certificate_clear.button "امسح">
+<!ENTITY encryption.certificate_clear.accesskey "س">
 <!ENTITY signingGroupTitle.label "التّوقيع الرقمي">
 <!ENTITY signMessage.label "وقّع الرسائل رقميًا (بشكل افتراضي)">
 <!ENTITY signMessage.accesskey "ق">
@@ -18,12 +26,3 @@
 <!ENTITY manageCerts.accesskey "ع">
 <!ENTITY manageDevices.label "أجهزة الأمن">
 <!ENTITY manageDevices.accesskey "ج">
-
-<!ENTITY digitalSign.certificate.button "اختر…">
-<!ENTITY digitalSign.certificate.accesskey "خ">
-<!ENTITY digitalSign.certificate_clear.button "امسح">
-<!ENTITY digitalSign.certificate_clear.accesskey "ح">
-<!ENTITY encryption.certificate.button "اختر…">
-<!ENTITY encryption.certificate.accesskey "ر">
-<!ENTITY encryption.certificate_clear.button "امسح">
-<!ENTITY encryption.certificate_clear.accesskey "س">

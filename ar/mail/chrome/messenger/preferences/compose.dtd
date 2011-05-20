@@ -51,7 +51,7 @@
 <!ENTITY sendOptions.label "خيارات الإرسال…">
 <!ENTITY sendOptions.accesskey "س">
 
-<!ENTITY attachmentReminder.label              "تحقق من المرفقات الناقصة">
-<!ENTITY attachmentReminder.accesskey          "ن">
-<!ENTITY attachmentReminderOptions.label       "الكلمات الدليلية…">
-<!ENTITY attachmentReminderOptions.accesskey   "ك">
+<!ENTITY attachmentReminder.label "تحقق من المرفقات الناقصة">
+<!ENTITY attachmentReminder.accesskey "ن">
+<!ENTITY attachmentReminderOptions.label "الكلمات الدليلية…">
+<!ENTITY attachmentReminderOptions.accesskey "ك">
