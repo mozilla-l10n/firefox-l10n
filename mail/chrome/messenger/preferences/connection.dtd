@@ -15,13 +15,13 @@
 <!ENTITY reload.label "أعد التحميل">
 <!ENTITY reload.accesskey "ح">
 <!ENTITY http.label "وسيط HTTP:">
-<!ENTITY http.accesskey "h">
+<!ENTITY http.accesskey "H">
 <!ENTITY ssl.label "وسيط SSL:">
-<!ENTITY ssl.accesskey "s">
+<!ENTITY ssl.accesskey "S">
 <!ENTITY socks.label "مُضيف SOCKS:">
-<!ENTITY socks.accesskey "c">
+<!ENTITY socks.accesskey "C">
 <!ENTITY socks4.label "SOCKS v4">
-<!ENTITY socks4.accesskey "k">
+<!ENTITY socks4.accesskey "K">
 <!ENTITY socks5.label "SOCKS v5">
 <!ENTITY socks5.accesskey "v">
 <!ENTITY HTTPport.label "المنفذ:">

@@ -1,4 +1,3 @@
-
 <!ENTITY prefWindow.titleWin "الخيارات">
 <!ENTITY prefWindow.titleGNOME "تفضيلات &brandShortName;">
 <!ENTITY prefWindow.styleWindows "width: 44em; min-height: 38.5em;">
@@ -9,5 +8,5 @@
 <!ENTITY paneDisplay.title "العرض">
 <!ENTITY paneComposition.title "التحرير">
 <!ENTITY paneAttachments.title "المرفقات">
-<!ENTITY paneSecurity.title       "الأمان">
+<!ENTITY paneSecurity.title "الأمان">
 <!ENTITY paneAdvanced.title "متقدم">

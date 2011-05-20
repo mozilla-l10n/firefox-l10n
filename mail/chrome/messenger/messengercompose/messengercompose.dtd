@@ -193,12 +193,16 @@
 <!ENTITY quoteButton.tooltip "اقتبس الرسالة السابقة">
 <!ENTITY addressButton.tooltip "اختر مستلمًا من دفتر العناوين">
 <!ENTITY attachButton.tooltip "أرفق مُرفق">
+<!ENTITY spellingButton.tooltip "دقق إملاء التحديد أو كامل الرسالة">
 <!ENTITY saveButton.tooltip "احفظ هذه الرسالة">
 <!ENTITY cutButton.tooltip "قص">
 <!ENTITY copyButton.tooltip "انسخ">
 <!ENTITY pasteButton.tooltip "الصق">
 <!-- Headers -->
+<!--LOCALIZATION NOTE headersSpace.style is for aligning  the From:, To: and
+    Subject: rows. It should be larger than the largest Header label  -->
 
+<!ENTITY headersSpace.style "width: 9em;">
 <!ENTITY fromAddr.label "مِن:">
 <!ENTITY fromAddr.accesskey "م">
 <!ENTITY toAddr.label "إلى:">
@@ -209,10 +213,10 @@
 <!ENTITY followupAddr.label "تابع إلى:">
 <!ENTITY subject.label "الموضوع:">
 <!ENTITY subject.accesskey "م">
-<!ENTITY attachments.label "المرفقات:">
+<!-- LOCALIZATION NOTE attachments.accesskey This access key should correspond
+     to the strings in attachmentCount in composeMsgs.properties -->
 <!ENTITY attachments.accesskey "ر">
 <!-- Format Toolbar, imported from editorAppShell.xul -->
-<!--LOCALIZATION NOTE formatToolbar. Don't change any of these Style Characters -->
 
 <!ENTITY SmileButton.tooltip "أدرج وجه مبتسم">
 <!ENTITY smiley1Cmd.label "ابتسامة">
@@ -236,8 +240,8 @@
 <!ENTITY spellCheckNoSuggestions.label "لم يُعثر على اقتراحات">
 <!ENTITY spellCheckIgnoreWord.label "تجاهل الكلمة">
 <!ENTITY spellCheckIgnoreWord.accesskey "ج">
-<!ENTITY spellCheckAddToDictionary.label "أضِف إلى المعجم">
-<!ENTITY spellCheckAddToDictionary.accesskey "n">
+<!ENTITY spellCheckAddToDictionary.label "أضِف إلى القاموس">
+<!ENTITY spellCheckAddToDictionary.accesskey "س">
 <!ENTITY undo.label "تراجع">
 <!ENTITY undo.accesskey "ر">
 <!ENTITY cut.label "قص">
@@ -263,7 +267,11 @@
 <!ENTITY attachFile.accesskey "م">
 <!ENTITY attachPage.label "أرفق صفحة وِب…">
 <!ENTITY attachPage.accesskey "ص">
+<!-- Spell checker context menu items -->
+
+<!ENTITY spellAddDictionaries.label "أضِف القواميس…">
+<!ENTITY spellAddDictionaries.accesskey "م">
 <!-- Title for the address picker panel -->
 
-<!-- Title for the address picker panel -->
 <!ENTITY addressesSidebarTitle.label "المتراسلون">
+

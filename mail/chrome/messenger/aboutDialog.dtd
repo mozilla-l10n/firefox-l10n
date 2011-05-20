@@ -1,17 +1,83 @@
 <!ENTITY aboutDialog.title "عنْ &brandFullName;">
-<!ENTITY aboutButton.label      "&lt; عودة">
-<!ENTITY aboutButton.accesskey  "ع">
-<!ENTITY aboutVersion "الإصدارة">
-<!ENTITY copyrightText "&#169; مساهمو 1998-2008. جميع الحقوق محفوظة. موزيلا ثندَربِرْد و شعارات ثندَربِرْد هي علامات تجارية لمؤسسة موزيلا. جميع الحقوق محفوظة.">
-<!ENTITY aboutMenu.label        "معلومات عن">
-<!ENTITY aboutMenu.accesskey    "م">
-<!ENTITY aboutCredits.label     "المشاركين">
-<!ENTITY aboutCredits.accesskey "م">
-<!ENTITY aboutRights.label      "حقوقك">
-<!ENTITY aboutRights.accesskey  "ق">
-<!ENTITY aboutContributors.label "المساهمين">
-<!ENTITY aboutContributors.accesskey "س">
-<!ENTITY aboutLicense.label      "الرخصة">
-<!ENTITY aboutLicense.accesskey  "ص">
+
+<!ENTITY community.start2 "‫&brandShortName; صممه">
+<!-- LOCALIZATION NOTE (community.mozillaLink): This is a link title that links to http://www.mozilla.org/. -->
+<!ENTITY community.mozillaLink "&vendorShortName;">
+<!ENTITY community.middle2 "، ">
+<!-- LOCALIZATION NOTE (community.creditsLink): This is a link title that links to about:credits. -->
+<!ENTITY community.creditsLink "مجتمع عالمي">
+<!ENTITY community.end2 " يعمل يدًا بيد لجعل الإنترنت مكانًا أفضل للجميع. نؤمن بأن الإنترنت ينبغي أن يكون حرًا ومفتوحًا أمام الجميع دون أي قيود.">
+
+<!ENTITY contribute.start "أيثير ذلك اهتمامك؟">
+<!-- LOCALIZATION NOTE (contribute.getInvolvedLink): This is a link title that links to http://www.mozilla.org/contribute/. -->
+<!ENTITY contribute.getInvolvedLink "شارك معنا!">
+<!ENTITY contribute.end "">
+<!-- LOCALIZATION NOTE (bottomLinks.license): This is a link title that links to about:license. -->
+
+<!ENTITY bottomLinks.license "معلومات الترخيص">
+<!-- LOCALIZATION NOTE (bottomLinks.rights): This is a link title that links to about:rights. -->
+
+<!ENTITY bottomLinks.rights "حقوق المستخدم">
+<!-- LOCALIZATION NOTE (bottomLinks.privacy): This is a link title that links to http://www.mozilla.com/legal/privacy/. -->
+
+<!ENTITY bottomLinks.privacy "سياسة الخصوصية">
+<!-- LOCALIZATION NOTE (update.checkingForUpdates): try to make the localized text short (see bug 596813 for screenshots). -->
+
+<!ENTITY update.checkingForUpdates "يلتمس التحديثات…">
+<!-- LOCALIZATION NOTE (update.checkingAddonCompat): try to make the localized text short (see bug 596813 for screenshots). -->
+<!ENTITY update.checkingAddonCompat "يتحقق من توافقية الإضافات…">
+<!-- LOCALIZATION NOTE (update.noUpdatesFound): try to make the localized text short (see bug 596813 for screenshots). -->
+<!ENTITY update.noUpdatesFound "&brandShortName; مُحدَّث">
+<!-- LOCALIZATION NOTE (update.adminDisabled): try to make the localized text short (see bug 596813 for screenshots). -->
+<!ENTITY update.adminDisabled "عطّل مديرك التحديثات">
+<!-- LOCALIZATION NOTE (update.failed.start,update.failed.linkText,update.failed.end):
+     update.failed.start, update.failed.linkText, and update.failed.end all go into
+     one line with linkText being wrapped in an anchor that links to a site to download
+     the latest version of Firefox (e.g. http://www.firefox.com). As this is all in
+     one line, try to make the localized text short (see bug 596813 for screenshots). -->
+
+<!ENTITY update.failed.start "فشل التحديث. ">
+<!ENTITY update.failed.linkText "نزّل أحدث نسخة">
+<!ENTITY update.failed.end "">
+<!-- LOCALIZATION NOTE (update.manual.start,update.manual.end): update.manual.start and update.manual.end
+     all go into one line and have an anchor in between with text that is the same as the link to a site
+     to download the latest version of Firefox (e.g. http://www.firefox.com). As this is all in one line,
+     try to make the localized text short (see bug 596813 for screenshots). -->
+
+<!ENTITY update.manual.start "نزّل ">
+<!ENTITY update.manual.linkText "أحدث نسخة">
+<!ENTITY update.manual.end "">
+<!-- LOCALIZATION NOTE (update.downloading.start,update.downloading.end): update.downloading.start and 
+     update.downloading.end all go into one line, with the amount downloaded inserted in between. As this
+     is all in one line, try to make the localized text short (see bug 596813 for screenshots). The — is
+     the "em dash" (long dash).
+     example: Downloading update — 111 KB of 13 MB -->
+
+<!ENTITY update.downloading.start "ينزّل التحديث - ">
+<!ENTITY update.downloading.end "">
+<!-- LOCALIZATION NOTE (channel.description.start,channel.description.end): channel.description.start and
+     channel.description.end create one sentence, with the current channel label inserted in between.
+     example: You are currently on the _Stable_ update channel. -->
+
+<!ENTITY channel.description.start "أنت حاليًا على قناة تحديث ">
+<!ENTITY channel.description.end ".">
+
+<!ENTITY channel.change "غيّر">
+
+<!ENTITY channel.release.description "استمتع بالإصدارة النهائية الممحصة والتي يستخدمها مئات الملايين في أرجاء العالم. تحكّم بتجربتك مع الوب من خلال سرعة خارقة وتخصيص سهل وآخر تقنيات الوب.">
+<!ENTITY channel.beta.description "استمتع باستخدام أحدث المزايا مع ثبات أكثر. أخبرنا برأيك لمساعدتنا على صقل وتحسين ما سيظهر في الإصدارة النهائية.">
+<!ENTITY channel.aurora.description "جرّب آخر التجديدات والاختراعات في إصدارة غير مستقرة لا تناسب ضعاف القلوب. أخبرنا بتعليقاتك عن المزايا الجديدة والأداء لنقرّر مضمون الإصدارة النهائية.">
+<!-- LOCALIZATION NOTE (channel.selector.start,channel.selector.end): channel.selector.start and
+     channel.selector.end create one sentence, with a channel selection menulist instered in between.
+     This is all in one line, so try to make the localized text short.
+     example: Switch to the [Stable] update channel. -->
+
+<!ENTITY channel.selector.start "بدّل إلى قناة تحديث ">
+<!ENTITY channel.selector.end ".">
+<!-- LOCALIZATION NOTE (channel.selector.applyButton): This button applies the user's choice to switch
+     to a new update channel and starts the application update process. -->
+
+<!ENTITY channel.selector.applyButton "طبّق وحدّث">
+<!ENTITY channel.selector.cancelButton "ألغِ">
 
 <!ENTITY cmdCloseMac.commandKey "w">

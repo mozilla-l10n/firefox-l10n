@@ -1,4 +1,4 @@
-﻿<!-- ***** BEGIN LICENSE BLOCK *****
+<!-- ***** BEGIN LICENSE BLOCK *****
    - Version: MPL 1.1/GPL 2.0/LGPL 2.1
    -
    - The contents of this file are subject to the Mozilla Public License Version
@@ -38,16 +38,16 @@
 
 <!ENTITY Settings.label "الإعدادت">
 
-<!ENTITY FormName.label "من الاسم:">
+<!ENTITY FormName.label "اسم النموذج:">
 <!ENTITY FormName.accesskey "س">
-<!ENTITY FormAction.label "مسار الإجراء:">
+<!ENTITY FormAction.label "معمول النموذج:">
 <!ENTITY FormAction.accesskey "ج">
 <!ENTITY FormMethod.label "الأسلوب:">
-<!ENTITY FormMethod.accesskey "ط">
+<!ENTITY FormMethod.accesskey "س">
 <!ENTITY FormEncType.label "الترميز:">
 <!ENTITY FormEncType.accesskey "ت">
 <!ENTITY FormTarget.label "اسم الهدف:">
 <!ENTITY FormTarget.accesskey "س">
 
-<!ENTITY RemoveForm.label "احذف من">
+<!ENTITY RemoveForm.label "احذف النموذج">
 <!ENTITY RemoveForm.accesskey "ح">

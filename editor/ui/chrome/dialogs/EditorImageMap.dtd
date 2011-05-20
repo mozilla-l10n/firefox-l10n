@@ -36,22 +36,22 @@
    - the terms of any one of the MPL, the GPL or the LGPL.
    -
    - ***** END LICENSE BLOCK ***** -->
-
 <!-- These strings are for use specifically in the editor's image map dialog. -->
-
 <!-- Window title -->
-<!ENTITY windowTitle.label "محرر خرائط الصور">
 
+
+<!ENTITY windowTitle.label "محرر خرائط الصور">
 <!-- Menu Items -->
 <!-- File menu -->
+
 <!ENTITY mapfileMenu.label "ملف">
 <!ENTITY mapfileMenu.accesskey "ف">
 <!ENTITY clearCmd.label "امسح">
 <!ENTITY clearCmd.accesskey "ح">
 <!ENTITY closeCmd.label "أغلِق">
 <!ENTITY closeCmd.accesskey "غ">
-
 <!-- Edit menu -->
+
 <!ENTITY mapeditMenu.label "حرّر">
 <!ENTITY mapeditMenu.accesskey "ح">
 <!ENTITY cutCmd.label "قصّ">
@@ -64,8 +64,8 @@
 <!ENTITY selectallCmd.accesskey "ك">
 <!ENTITY propsCmd.label "خصائص البقعة الساخنة">
 <!ENTITY propsCmd.accesskey "ة">
-
 <!-- View menu -->
+
 <!ENTITY mapviewMenu.label "اعرض">
 <!ENTITY mapviewMenu.accesskey "ض">
 <!ENTITY showhideTbarCmd.label "أخفِ شريط الأدوات">
@@ -82,8 +82,8 @@
 
 <!ENTITY zoominCmd.label "كبِّر">
 <!ENTITY zoomoutCmd.label "صغِّر">
-
 <!-- Keys -->
+
 <!ENTITY clear.key "d">
 <!ENTITY selectall.key "a">
 <!ENTITY close.key "l">

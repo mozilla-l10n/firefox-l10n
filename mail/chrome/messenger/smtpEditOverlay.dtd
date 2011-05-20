@@ -6,12 +6,8 @@
 <!ENTITY serverDescription.accesskey "و">
 <!ENTITY serverPort.label "المَنفذ:">
 <!ENTITY serverPort.accesskey "م">
-<!ENTITY alwaysUseUsername.label "استخدم اسمًا وكلمة سر">
-<!ENTITY alwaysUseUsername.accesskey "س">
 <!ENTITY userName.label "اسم المستخدم:">
 <!ENTITY userName.accesskey "م">
-<!ENTITY useSecAuth.label "استخدم المصادقة الآمنة">
-<!ENTITY useSecAuth.accesskey "د">
 <!ENTITY connectionSecurity.label "أمن الاتصال:">
 <!ENTITY connectionSecurity.accesskey "ص">
 <!ENTITY connectionSecurityType-0.label "لا شيء">
@@ -20,3 +16,5 @@
 <!ENTITY connectionSecurityType-3.label "SSL/TLS">
 <!ENTITY smtpEditTitle.label "خادوم SMTP">
 <!ENTITY serverPortDefault.label "المبدئي:">
+<!ENTITY authMethod.label "طريقة الاستيثاق:">
+<!ENTITY authMethod.accesskey "ط">

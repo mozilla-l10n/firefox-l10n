@@ -35,12 +35,12 @@
 <!ENTITY editTagButton.accesskey "ح">
 <!ENTITY removeTagButton.label "احذف">
 <!ENTITY removeTagButton.accesskey "ح">
-
 <!-- Fonts -->
-<!ENTITY fontsAndColors.label    "الخطوط">
-<!ENTITY defaultFont.label       "الخط المبدئي:">
-<!ENTITY defaultFont.accesskey   "م">
-<!ENTITY defaultSize.label       "الحجم:">
-<!ENTITY defaultSize.accesskey   "ح">
+
+<!ENTITY fontsAndColors.label "الخطوط">
+<!ENTITY defaultFont.label "الخط المبدئي:">
+<!ENTITY defaultFont.accesskey "م">
+<!ENTITY defaultSize.label "الحجم:">
+<!ENTITY defaultSize.accesskey "ح">
 <!ENTITY fontOptions.accesskey "خ">
 <!ENTITY fontOptions.label "الخطوط…">

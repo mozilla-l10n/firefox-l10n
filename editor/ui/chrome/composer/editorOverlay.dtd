@@ -1,4 +1,4 @@
-﻿<!-- ***** BEGIN LICENSE BLOCK *****
+<!-- ***** BEGIN LICENSE BLOCK *****
    - Version: MPL 1.1/GPL 2.0/LGPL 2.1
    -
    - The contents of this file are subject to the Mozilla Public License Version
@@ -45,9 +45,6 @@
 
 <!ENTITY fileMenu.label "ملف">
 <!ENTITY fileMenu.accesskey "م">
-<!ENTITY newBlankPageCmd.label "صفحة المحرر">
-<!ENTITY newBlankPageCmd.accesskey "ص">
-<!ENTITY newMenu.label "جديد">
 <!ENTITY openFileCmd.label "افتح ملفًا…">
 <!ENTITY openFileCmd.accesskey "ف">
 <!ENTITY openFileCmd.key "O">
@@ -66,17 +63,11 @@
 
 <!ENTITY publishCmd.label "انشر">
 <!ENTITY publishCmd.accesskey "ن">
+<!ENTITY publishCmd.key "S">
 <!ENTITY publishAsCmd.label "انشر ك‍…">
 <!ENTITY publishAsCmd.accesskey "ش">
-<!ENTITY publishCmd.key "S">
-<!ENTITY exportToTextCmd.label "صدّر إلى نص صرف…">
-<!ENTITY exportToTextCmd.accesskey "ص">
 <!ENTITY saveAsChangeEncodingCmd.label "احفظ وغيّر ترميز المحارف">
 <!ENTITY saveAsChangeEncodingCmd.accesskey "ز">
-<!ENTITY previewCmd.label "تصفح الصفحة">
-<!ENTITY previewCmd.accesskey "ت">
-<!ENTITY sendPageCmd.label "أرسل الصفحة…">
-<!ENTITY sendPageCmd.accesskey "ل">
 <!ENTITY printSetupCmd.label "إعداد الصفحة …">
 <!ENTITY printSetupCmd.accesskey "ح">
 <!ENTITY printCmd.label "اطبع…">
@@ -89,20 +80,13 @@
 
 <!ENTITY editMenu.label "تحرير">
 <!ENTITY editMenu.accesskey "ت">
-<!ENTITY pasteNoFormatting.label "الصق بلا التنسيق">
+<!ENTITY pasteNoFormatting.label "الصق بلا تنسيق">
 <!ENTITY pasteNoFormatting.accesskey "ب">
 <!ENTITY pasteNoFormatting.key "V">
-<!ENTITY pasteAs.label "الصق على هيئة…">
-<!ENTITY pasteAs.accesskey "ك">
+<!ENTITY pasteAs.label "الصق على صيغة…">
+<!ENTITY pasteAs.accesskey "ص">
 <!ENTITY publishSettings.label "إعدادات موقع النشر…">
 <!ENTITY publishSettings.accesskey "ع">
-<!-- For a "Paste" submenu when more than 1 
-     clipboard formats are available -->
-
-
-<!-- LOCALIZATION NOTE: Text for menu item is in editor.properties
-     Set to: "Table" or "Nested Table" depending on context 
-     This accesskey must be in both strings -->
 <!ENTITY pasteAsQuotationCmd.label "الصق كاقتباس">
 <!ENTITY pasteAsQuotationCmd.accesskey "ت">
 <!ENTITY pasteAsQuotationCmd.key "o">
@@ -123,10 +107,6 @@
 <!ENTITY checkSpellingCmd2.label "دقِّق الإملاء">
 <!ENTITY checkSpellingCmd2.accesskey "ء">
 <!ENTITY checkSpellingCmd2.key "p">
-<!ENTITY validateCmd.label "صدّق HTML">
-<!ENTITY validateCmd.accesskey "ص">
-<!-- View menu items -->
-
 <!-- Insert menu items -->
 
 <!ENTITY insertMenu.label "أدرج">
@@ -143,24 +123,22 @@
 <!ENTITY insertTableCmd.label "جدول…">
 <!ENTITY insertTableCmd.accesskey "ج">
 <!ENTITY insertHTMLCmd.label "HTML…">
-<!ENTITY insertHTMLCmd.accesskey "h">
+<!ENTITY insertHTMLCmd.accesskey "H">
 <!ENTITY insertCharsCmd.label "محارف ورموز…">
 <!ENTITY insertCharsCmd.accesskey "ح">
-<!ENTITY insertBreakAllCmd.label "اقطع تحت الصور">
+<!ENTITY insertBreakAllCmd.label "فاصل تحت الصور">
 <!ENTITY insertBreakAllCmd.accesskey "ق">
-<!-- Insert form menu items -->
-
 <!-- Used just in context popup. -->
 
 <!ENTITY spellCheckNoSuggestions.label "(لا توجد اقتراحات)">
 <!ENTITY spellCheckIgnoreWord.label "تجاهل الكلمة">
 <!ENTITY spellCheckIgnoreWord.accesskey "ج">
-<!ENTITY spellCheckAddToDictionary.label "أضِف للمعجم">
-<!ENTITY spellCheckAddToDictionary.accesskey "ق">
-<!ENTITY createLinkCmd.label "أنشئ رابطا…">
+<!ENTITY spellCheckAddToDictionary.label "أضِف إلى القاموس">
+<!ENTITY spellCheckAddToDictionary.accesskey "س">
+<!ENTITY createLinkCmd.label "أنشئ وصلة…">
 <!ENTITY createLinkCmd.accesskey "ش">
-<!ENTITY editLinkCmd.label "حرّر الرابط في محرر جديد">
-<!ENTITY editLinkCmd.accesskey "ص">
+<!ENTITY editLinkCmd.label "حرّر الوصلة في محرر جديد">
+<!ENTITY editLinkCmd.accesskey "ف">
 <!-- (Toplevel Edit menu uses utilityOverlay) -->
 <!ENTITY undoCmd.label "تراجع">
 <!ENTITY undoCmd.accesskey "ت">
@@ -191,9 +169,9 @@
 <!ENTITY fontHelvetica.label "Helvetica, Arial">
 <!ENTITY fontHelvetica.accesskey "l">
 <!ENTITY fontTimes.label "Times">
-<!ENTITY fontTimes.accesskey "t">
+<!ENTITY fontTimes.accesskey "T">
 <!ENTITY fontCourier.label "Courier">
-<!ENTITY fontCourier.accesskey "c">
+<!ENTITY fontCourier.accesskey "C">
 <!-- Font Size SubMenu -->
 
 <!ENTITY FontSizeSelect.tooltip "اختر حجم الخط">
@@ -315,10 +293,6 @@
 <!-- isn't used in menu now, but may be added in future -->
 <!ENTITY advancedPropertiesCmd.label "خصائص متقدمة">
 <!ENTITY advancedPropertiesCmd.accesskey "د">
-
-
-<!-- Style Sheet submenu NOT IMPLEMENTED -->
-
 <!-- Align menu items -->
 
 <!ENTITY alignMenu.label "حاذِ">
@@ -348,11 +322,6 @@
 <!ENTITY decreaseIndent.accesskey "ق">
 <!ENTITY decreaseIndent.key "[">
 
-<!ENTITY grid.label "وضع الشبكة">
-<!ENTITY grid.accesskey "و">
-
-<!ENTITY pageProperties.label "عنوان وخصائص الصفحة…">
-<!ENTITY pageProperties.accesskey "ع">
 <!ENTITY colorsAndBackground.label "ألوان وخلفية الصفحة…">
 <!ENTITY colorsAndBackground.accesskey "خ">
 <!-- Table Menu -->
@@ -360,6 +329,7 @@
 <!ENTITY tableMenu.label "جدول">
 <!ENTITY tableMenu.accesskey "ج">
 <!-- Select Submenu -->
+
 <!ENTITY tableSelectMenu.label "اختر">
 <!ENTITY tableSelectMenu.accesskey "خ">
 
@@ -380,7 +350,6 @@
 <!ENTITY tableRow.accesskey "ص">
 <!ENTITY tableRowAbove.label "صف فوق ">
 <!ENTITY tableRowAbove.accesskey "ف">
-<!-- uses tablerow.accesskey -->
 <!ENTITY tableRowBelow.label "صف تحت">
 <!ENTITY tableRowBelow.accesskey "ت">
 <!ENTITY tableColumn.label "عمود">
@@ -388,7 +357,6 @@
 <!ENTITY tableColumn.accesskey "ع">
 <!ENTITY tableColumnBefore.label "عمود قبل">
 <!ENTITY tableColumnBefore.accesskey "ب">
-<!-- uses tableColumn.accesskey -->
 <!ENTITY tableColumnAfter.label "عمود بعد">
 <!ENTITY tableColumnAfter.accesskey "ب">
 <!ENTITY tableCell.label "خلية">
@@ -397,21 +365,20 @@
 <!ENTITY tableCellContents.label "محتويات الخلية ">
 <!ENTITY tableCellContents.accesskey "ح">
 <!ENTITY tableAllCells.label "كل الخلايا">
+<!ENTITY tableAllCells.accesskey "خ">
 <!ENTITY tableCellBefore.label "خلية قبل">
 <!ENTITY tableCellBefore.accesskey "ق">
-<!ENTITY tableAllCells.accesskey "خ">
-<!-- uses tablecell.accesskey -->
 <!ENTITY tableCellAfter.label "خلية بعد">
 <!ENTITY tableCellAfter.accesskey "ع">
 <!-- Delete SubMenu -->
 <!ENTITY tableDeleteMenu.label "احذف">
 <!ENTITY tableDeleteMenu.accesskey "ح">
-
 <!-- text for "Join Cells" is in editor.properties 
      ("JoinSelectedCells" and "JoinCellToRight")
      the access key must exist in both of those strings
      But value must be set here for accesskey to draw properly
 -->
+
 <!ENTITY tableJoinCells.label "ض">
 <!ENTITY tableJoinCells.accesskey "ض">
 <!ENTITY tableSplitCell.label "اقسم الخلية ">
@@ -420,22 +387,16 @@
 <!ENTITY convertToTable.accesskey "ج">
 <!ENTITY tableProperties.label "خصائص الجدول…">
 <!ENTITY tableProperties.accesskey "خ">
-<!-- Tools menu -->
-
-<!-- Debug menu items -->
-
 <!-- Toolbar-only items -->
 
 <!ENTITY menuBar.tooltip "شريط القوائم">
-<!ENTITY compositionToolbar.tooltip "شريط أدوات التحرير">
 <!ENTITY formatToolbar.tooltip "شريط أدوات التنسيق">
+<!ENTITY newToolbarCmd.label "جديد">
 <!ENTITY newToolbarCmd.tooltip "أنشئ صفحة جديدة">
 <!ENTITY openToolbarCmd.label "افتح">
 <!ENTITY openToolbarCmd.tooltip "افتح ملفا محليا">
 <!ENTITY saveToolbarCmd.tooltip "احفظ الملف في موقع محلي">
 <!ENTITY publishToolbarCmd.tooltip "ارفع ملفا إلى موقع بعيد">
-<!ENTITY previewToolbarCmd.label "تصفّح">
-<!ENTITY previewToolbarCmd.tooltip "حمّل هذه الصفحة في المتصفح">
 <!ENTITY printToolbarCmd.label "اطبع">
 <!ENTITY printToolbarCmd.tooltip "اطبع هذه الصفحة">
 <!ENTITY findToolbarCmd.label "ابحث">
@@ -472,37 +433,7 @@
 <!ENTITY alignLeftButton.tooltip "حاذِ النص قبالة الهامش الأيسر">
 <!ENTITY alignCenterButton.tooltip "حاذِ النص مُوسّطا">
 <!ENTITY alignRightButton.tooltip "حاذِ النص قبالة الهامش الأيمن">
-<!ENTITY alignjustifyButton.tooltip "حاذِ النص قبالة الهامشين الأيسر و الأيمن">
-<!-- Formatting toolbar not used, but may be in future -->
-
-<!-- Used with color pickers in Format toolbar and Format Menu -->
-
-<!-- Display Mode toolbar and View menu items -->
-
-<!ENTITY NormalModeTab.label "عادي">
-<!ENTITY NormalMode.label "نمط التحرير العادي">
-<!ENTITY NormalMode.accesskey "ع">
-<!ENTITY NormalMode.tooltip "اعرض حدود الجدول والمرابط المسماة">
-<!ENTITY AllTagsMode.label "وسوم HTML">
-<!ENTITY AllTagsMode.accesskey "و">
-<!ENTITY AllTagsMode.tooltip "اعرض أيقونات لجميع وسوم HTML">
-
-<!ENTITY HTMLSourceMode.label "مصدر HTML">
-<!-- Toolbar has an image with "HTML" text, so don't include it in the string -->
-<!ENTITY SourceMode.label "مصدر">
-<!ENTITY HTMLSourceMode.accesskey "h">
-<!ENTITY HTMLSourceMode.tooltip "حرّر مصدر HTML">
-<!ENTITY PreviewMode.label "عايِن">
-<!ENTITY PreviewMode.accesskey "ع">
-<!ENTITY PreviewMode.tooltip 'اعرض في نمط "ما تراه تحصل عليه"  (كما في الملاح)'>
-<!-- LOCALIZATION NOTE: Do NOT translate text for 'SourceTabDirection'
-     Use latin "ltr" if you want the <html> image to left of the 
-     'SourceMode.label' text defined above,
-     or use latin "rtl" if you want this image to the right of text
-     This is the value of the HTML 'dir' attribute
--->
-
-<!ENTITY SourceTabDirection "rtl">
+<!ENTITY alignJustifyButton.tooltip "حاذِ النص مراعيًا الهامشين الأيمن والأيسر">
 <!-- Structure Toolbar Context Menu items -->
 
 <!ENTITY structSelect.label "اختر">

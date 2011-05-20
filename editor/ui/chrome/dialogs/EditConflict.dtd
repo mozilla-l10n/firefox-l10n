@@ -34,8 +34,8 @@
    - the terms of any one of the MPL, the GPL or the LGPL.
    -
    - ***** END LICENSE BLOCK ***** -->
-
 <!-- Window title -->
+
 <!ENTITY windowTitle.label "اختر تعديلات التحرير">
 <!ENTITY conflictWarning.label "قام برنامج آخر بتعديل هذه الصفحة، إلا أنّ لديك تعديلات غير محفوظة بعد في برنامج المُنشئ.">
 <!ENTITY conflictResolve.label "اختر النسخة التي تريد الاحتفاظ بها:">

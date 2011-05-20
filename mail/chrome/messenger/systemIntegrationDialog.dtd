@@ -1,5 +1,5 @@
-<!ENTITY systemIntegration.title  "تكامل النظام">
-<!ENTITY defaultClient.intro  "اجعل &brandShortName; العميل المبدئي ل‍:">
+<!ENTITY systemIntegration.title "تكامل النظام">
+<!ENTITY defaultClient.intro "اجعل &brandShortName; العميل المبدئي ل‍:">
 
 <!ENTITY email.label "البريد الإلكتروني">
 <!ENTITY newsgroups.label "مجموعات الأخبار">
