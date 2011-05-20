@@ -1,22 +1,29 @@
 <!--LOCALIZATION NOTE : FILE UI for Software Updates prefs -->
 <!ENTITY pref.smartUpdate.title               "Software Installation">
-<!ENTITY smartTitle.label                     "Manage Software Installations and Updates">
-<!ENTITY enableSU.label                       "Allow web sites to install extensions and updates">
-<!ENTITY enableSU.accesskey                   "e">
-<!ENTITY allowedSites.label                   "Allowed Sites">
-<!ENTITY allowedSites.accesskey               "A">
-
-<!ENTITY verifyUpdates.caption                "Updates">
-<!ENTITY autoUpdates.label                    "Automatically check for updates to:">
-<!ENTITY appUpdates.label                     "&brandShortName;">
-<!ENTITY appUpdates.accesskey                 "S">
+<!ENTITY addOnsTitle.label                    "Add-ons">
+<!ENTITY addOnsAllow.label                    "Allow web sites to install add-ons and updates">
+<!ENTITY addOnsAllow.accesskey                "b">
+<!ENTITY allowedSitesLink.label               "Allowed Web Sites">
+<!ENTITY autoAddOnsUpdates.label              "Automatically check for updates">
+<!ENTITY autoAddOnsUpdates.accesskey          "o">
 <!ENTITY daily.label                          "daily">
-<!ENTITY appDaily.accesskey                   "d">
+<!ENTITY addOnsDaily.accesskey                "d">
 <!ENTITY weekly.label                         "weekly">
-<!ENTITY appWeekly.accesskey                  "w">
-<!ENTITY extensionsUpdates.label              "Installed Add-ons">
-<!ENTITY extensionsUpdates.accesskey          "n">
-<!ENTITY extensionsDaily.accesskey            "i">
-<!ENTITY extensionsWeekly.accesskey           "k">
-<!ENTITY addonManagerButton.label             "Add-on Manager">
-<!ENTITY addonManagerButton.accesskey         "M">
+<!ENTITY addOnsWeekly.accesskey               "k">
+<!ENTITY addOnsModeAutomatic.label            "Automatically download and install the updates">
+<!ENTITY addOnsModeAutomatic.accesskey        "m">
+<!ENTITY enablePersonalized.label             "Personalise add-on recommendations">
+<!ENTITY enablePersonalized.accesskey         "P">
+<!ENTITY addonManagerLink.label               "Manage Add-ons">
+
+<!ENTITY appUpdates.caption                   "&brandShortName;">
+<!ENTITY autoAppUpdates.label                 "Automatically check for updates">
+<!ENTITY autoAppUpdates.accesskey             "t">
+<!ENTITY appDaily.accesskey                   "a">
+<!ENTITY appWeekly.accesskey                  "e">
+<!ENTITY appModeAutomatic.label               "Automatically download and install the update">
+<!ENTITY appModeAutomatic.accesskey           "u">
+<!ENTITY appModeAutoAddonWarn.label           "Warn me if this will disable any of my add-ons">
+<!ENTITY appModeAutoAddonWarn.accesskey       "n">
+<!ENTITY updateHistoryButton.label            "Show Update History…">
+<!ENTITY updateHistoryButton.accesskey        "S">
