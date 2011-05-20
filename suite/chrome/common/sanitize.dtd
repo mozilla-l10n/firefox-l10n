@@ -13,7 +13,7 @@
 <!ENTITY itemCache.accesskey             "a">
 <!ENTITY itemCookies.label               "Cookies">
 <!ENTITY itemCookies.accesskey           "C">
-<!ENTITY itemOfflineApps.label           "Offline Website Data">
+<!ENTITY itemOfflineApps.label           "Offline Web Site Data">
 <!ENTITY itemOfflineApps.accesskey       "O">
 <!ENTITY itemPasswords.label             "Saved Passwords">
 <!ENTITY itemPasswords.accesskey         "P">
