@@ -28,7 +28,7 @@
 <!ENTITY archiveHierarchyButton.label "Opcións do arquivo…">
 <!ENTITY archiveHierarchyButton.accesskey "a">
 <!ENTITY archivesFolderOn.label "Cartafol &quot;Arquivos&quot; en:">
-<!ENTITY archivesFolderOn.accesskey "n">
+<!ENTITY archivesFolderOn.accesskey "A">
 <!ENTITY archiveInOtherFolder.label "Outro:">
 <!ENTITY archiveInOtherFolder.accesskey "t">
 <!ENTITY specialFolders.label "Borradores e modelos">
@@ -38,7 +38,7 @@
 <!ENTITY draftsFolderOn.accesskey "B">
 <!ENTITY draftInOtherFolder.label "Outro:">
 <!ENTITY draftInOtherFolder.accesskey "t">
-<!ENTITY keepTemplates.label "Gardar modelos de mensaxes en:">
+<!ENTITY keepTemplates.label "Gardar os modelos das mensaxes en:">
 <!-- LOCALIZATION NOTE (templatesFolderOn.label): OK to translate this, bug #57440 -->
 <!ENTITY templatesFolderOn.label "Cartafol &quot;Modelos&quot; en:">
 <!ENTITY templatesFolderOn.accesskey "M">
