@@ -53,7 +53,7 @@
 <!ENTITY rights2.webservices-c ".">
 
 <!-- safe browsing points for branded builds -->
-<!ENTITY rights.safebrowsing-a "SafeBrowsing: ">
+<!ENTITY rights.safebrowsing-a "Duyệt web An toàn: ">
 <!ENTITY rights.safebrowsing-b "Vô hiệu hóa tính năng Duyệt web An toàn là không nên vì nó có thể làm bạn đi vào các trang không an toàn. Nếu bạn muốn vô hiệu hóa hoàn toàn tính năng, hãy theo các bước sau:">
 <!ENTITY rights.safebrowsing-term1 "Mở tùy chỉnh chương trình">
 <!ENTITY rights.safebrowsing-term2 "Chọn lựa chọn Bảo mật">
@@ -61,7 +61,7 @@
 <!ENTITY rights.safebrowsing-term4 "Duyệt web An toàn bây giờ đã bị vô hiệu hóa">
 
 <!-- location aware browsing points for branded builds -->
-<!ENTITY rights.locationawarebrowsing-a "Location Aware Browsing: ">
+<!ENTITY rights.locationawarebrowsing-a "Duyệt web Nhận diện Vị trí: ">
 <!ENTITY rights.locationawarebrowsing-b "luôn có sẵn. Không có thông tin địa điểm nào được gửi đi mà không có sự cho phép của bạn. Nếu bạn muốn vô hiệu hóa hoàn toàn tính năng này, làm theo các bước sau:">
 <!ENTITY rights.locationawarebrowsing-term1a "Trong thanh URL, gõ ">
 <!ENTITY rights.locationawarebrowsing-term1b "about:config">
