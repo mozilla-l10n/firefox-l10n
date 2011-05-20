@@ -1,14 +1,14 @@
 <!ENTITY aboutDialog.title          "Thông tin về &brandFullName;">
 
-<!ENTITY community.start2           "&brandShortName; được thiết kế bởi">
+<!ENTITY community.start2           "&brandShortName; được thiết kế bởi ">
 <!-- LOCALIZATION NOTE (community.mozillaLink): This is a link title that links to http://www.mozilla.org/. -->
 <!ENTITY community.mozillaLink      "&vendorShortName;">
-<!ENTITY community.middle2          ", một">
+<!ENTITY community.middle2          ", một ">
 <!-- LOCALIZATION NOTE (community.creditsLink): This is a link title that links to about:credits. -->
 <!ENTITY community.creditsLink      "cộng đồng toàn cầu">
 <!ENTITY community.end2             " làm việc cùng nhau để làm Internet tốt hơn. Chúng tôi tin rằng Internet nên mở, công khai và mọi người đều có thể truy cập mà không bị một hạn chế nào.">
 
-<!ENTITY contribute.start           "Thấy thú vị?">
+<!ENTITY contribute.start           "Thấy thú vị? ">
 <!-- LOCALIZATION NOTE (contribute.getInvolvedLink): This is a link title that links to http://www.mozilla.org/contribute/. -->
 <!ENTITY contribute.getInvolvedLink "Hãy tham gia ngay!">
 <!ENTITY contribute.end             "">
@@ -54,3 +54,27 @@
      example: Downloading update — 111 KB of 13 MB -->
 <!ENTITY update.downloading.start   "Đang tải cập nhật — ">
 <!ENTITY update.downloading.end     "">
+
+<!-- LOCALIZATION NOTE (channel.description.start,channel.description.end): channel.description.start and
+     channel.description.end create one sentence, with the current channel label inserted in between.
+     example: You are currently on the _Stable_ update channel. -->
+<!ENTITY channel.description.start  "Bạn hiện đang sử dụng ">
+<!ENTITY channel.description.end    " kênh cập nhật. ">
+
+<!ENTITY channel.change             "Thay đổi">
+
+<!ENTITY channel.release.description       "Thử và thưởng thức bản thử nghiệm mới nhất, sẽ được sử dụng bởi hàng trăm triệu người khắp thế giới. Điều khiển trải nghiệm trực tuyến của bạn với tốc độ làm việc cao, dễ tùy biến và các công nghệ Web mới nhất.">
+<!ENTITY channel.beta.description          "Trải nghiệm các tính năng đỉnh cao với sự ổn định cao hơn. Cung cấp phản hồi để giúp tinh chế cho những thứ sẽ hiện diện trong bản phát hành cuối cùng.">
+<!ENTITY channel.aurora.description        "Trải nghiệm các sáng tạo mới nhất trong một môi trường không ổn định vốn không dành cho những con tim yếu ớt. Cung cấp phản hồi về tính năng và hiệu năng để giúp xác định những thứ làm nên bản phát hành cuối cùng.">
+
+<!-- LOCALIZATION NOTE (channel.selector.start,channel.selector.end): channel.selector.start and
+     channel.selector.end create one sentence, with a channel selection menulist instered in between.
+     This is all in one line, so try to make the localized text short.
+     example: Switch to the [Stable] update channel. -->
+<!ENTITY channel.selector.start          "Chuyển sang">
+<!ENTITY channel.selector.end            "kênh cập nhật.">
+
+<!-- LOCALIZATION NOTE (channel.selector.applyButton): This button applies the user's choice to switch
+     to a new update channel and starts the application update process. -->
+<!ENTITY channel.selector.applyButton    "Áp dụng và Cập nhật">
+<!ENTITY channel.selector.cancelButton   "Hủy bỏ">

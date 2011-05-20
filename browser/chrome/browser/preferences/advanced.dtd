@@ -21,8 +21,6 @@
 <!ENTITY allowHWAccel.accesskey          "h">
 <!ENTITY checkSpelling.label             "Kiểm tra chính tả ngay khi tôi gõ">
 <!ENTITY checkSpelling.accesskey         "a">
-<!ENTITY doNotTrack.label                "Nói với các trang web rằng tôi không muốn bị theo dõi">
-<!ENTITY doNotTrack.accesskey            "d">
 
 <!ENTITY systemDefaults.label            "Mặc định cho Hệ thống">
 <!ENTITY alwaysCheckDefault.label        "Luôn kiểm tra xem &brandShortName; có phải là trình duyệt mặc định mỗi khi khởi chạy"><!--XXX-->
