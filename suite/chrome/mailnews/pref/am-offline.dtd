@@ -7,7 +7,7 @@
 <!ENTITY offlineNotDownload.accesskey "M">
 <!ENTITY autosyncNotDownload.label "Don't download messages larger than">
 <!ENTITY autosyncNotDownload.accesskey "m">
-<!ENTITY kb.label "kB">
+<!ENTITY kb.label "KB">
 <!ENTITY daysOld.label "days old">
 <!ENTITY message.label "messages">
 <!ENTITY nntpNotDownloadRead.label "Read messages">
@@ -45,7 +45,7 @@
 <!ENTITY allAutosync.label               "Synchronise all messages locally regardless of age">
 <!ENTITY allAutosync.accesskey           "c">
 <!ENTITY ageAutosyncBefore.label         "Synchronise the most recent">
-<!ENTITY ageAutosync.accesskey           "y">
+<!ENTITY ageAutosync.accesskey           "S">
 <!ENTITY ageAutosyncMiddle.label         "">
 <!ENTITY dayAgeInterval.label            "Days">
 <!ENTITY weekAgeInterval.label           "Weeks">
