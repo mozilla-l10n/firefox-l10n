@@ -1,5 +1,4 @@
 <!ENTITY serverAdvanced.label "إعدادات الحساب المتقدّمة">
-<!-- LOCALIZATION NOTE (imapAdvanced.label): Do not translate "IMAP" -->
 <!-- LOCALIZATION NOTE (serverDirectory.label): Do not translate "IMAP" -->
 <!ENTITY serverDirectory.label "دليل خادوم IMAP:">
 <!ENTITY serverDirectory.accesskey "د">
@@ -14,7 +13,7 @@
 <!-- LOCALIZATION NOTE (namespaceDesc.label): Do not translate "IMAP" -->
 <!ENTITY namespaceDesc.label "هذه التفضيلات تحدد فضاءات التسمية في خادوم ال IMAP لديك">
 <!ENTITY personalNamespace.label "فضاء تسمية شخصي:">
-<!ENTITY personalNamespace.accesskey "P">
+<!ENTITY personalNamespace.accesskey "ض">
 <!ENTITY publicNamespace.label "عام (مشارَك):">
 <!ENTITY publicNamespace.accesskey "م">
 <!ENTITY otherUsersNamespace.label "مستخدمون آخرون:">

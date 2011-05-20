@@ -31,7 +31,6 @@
 
 <!ENTITY emailLabel.label "عنوان البريد:">
 <!ENTITY emailLabel.accesskey "ع">
-
 <!-- Entities for Server page -->
 
 
@@ -43,7 +42,6 @@
 <!ENTITY incomingServerLabel.accesskey "خ">
 <!-- LOCALIZATION NOTE (newsServerNameDesc.label) : Do not translate "NNTP" or the "&quot;" entities in below line -->
 <!ENTITY newsServerNameDesc.label "أدخل اسم خادوم الأخبار (NNTP) لديك (مثلًا، &quot;news.example.net&quot;).">
-<!-- LOCALIZATION NOTE (smtpServerTitle.label) : Do not translate "SMTP" in below line -->
 <!-- LOCALIZATION NOTE (smtpServerDesc.label) : Do not translate "SMTP" and "&quot;smtp.example.net&quot;" in below line -->
 <!ENTITY smtpServerDesc.label "أدخل اسم خادوم الصّادر (SMTP) لديك (مثلًا، &quot;smtp.example.net&quot;).">
 <!ENTITY smtpServerLabel.label "خادوم الصّادر:">
@@ -56,14 +54,9 @@
 <!-- LOCALIZATION NOTE (popType.label) : Do not translate "POP" in below line -->
 <!ENTITY popType.label "POP">
 <!ENTITY popType.accesskey "P">
-<!-- for when the user has an SMTP server pre-configured -->
-<!-- LOCALIZATION NOTE (currentSmtpBefore.label) : Do not translate "SMTP" and "&quot;" in
-     this variable. Also, translate currentSmtpBefore.label and currentSmtpAfter.label as a single sentence,
-    inserting text after the "&quot;" entity in currentSmtpAfter.label, if required grammatically
--->
-<!-- LOCALIZATION NOTE (haveSmtp1.prefix and haveSmtp1.suffix) : Do not translate "SMTP" and "&quot;" in
-     these variables. Also, translate haveSmtp1.prefix and haveSmtp1.suffix as a single sentence, inserting
-     text after the "&quot;" entity in haveSmtp1.suffix, if required grammatically.
+<!-- LOCALIZATION NOTE (haveSmtp1.prefix and haveSmtp1.suffix2) : Do not translate "SMTP" and "&quot;" in
+     these variables. Also, translate haveSmtp1.prefix and haveSmtp1.suffix2 as a single sentence, inserting
+     text after the "&quot;" entity in haveSmtp1.suffix2, if required grammatically.
 -->
 
 <!ENTITY haveSmtp1.prefix "سيُستخدم خادوم (SMTP) المصدِّر الموجود مسبقًا، &quot;">
@@ -80,15 +73,15 @@
 <!ENTITY usernameSmtpDesc.label "أدخل اسم المستخدم للصّادر كما أعطي لك من مورد البريد الإلكتروني (نموذجيًا هو نفس اسم المستخدم للوارد).">
 <!ENTITY usernameSmtpLabel.label "اسم المستخدم للصّادر:">
 <!ENTITY usernameSmtpLabel.accesskey "ص">
-<!-- LOCALIZATION NOTE (haveSmtp2.prefix and haveSmtp2.suffix) : Do not translate "SMTP" and "&quot;" in
-     these variables. Also, translate haveSmtp2.prefix and haveSmtp2.suffix as a single sentence, inserting
-     text after the "&quot;" entity in haveSmtp2.suffix, if required grammatically.
+<!-- LOCALIZATION NOTE (haveSmtp2.prefix and haveSmtp2.suffix2) : Do not translate "SMTP" and "&quot;" in
+     these variables. Also, translate haveSmtp2.prefix and haveSmtp2.suffix2 as a single sentence, inserting
+     text after the "&quot;" entity in haveSmtp2.suffix2, if required grammatically.
 -->
 <!ENTITY haveSmtp2.prefix "سوف يُستعمل اسم المستخدم الموجود حاليًا ل‍ (SMTP) المصدِّر، &quot; ">
 <!ENTITY haveSmtp2.suffix2 "&quot;. يمكنك تغيير الخادومات المصدِّرة في إعدادات الحسابات.">
-<!-- LOCALIZATION NOTE (haveSmtp3.prefix and haveSmtp3.suffix) : Do not translate "SMTP" and "&quot;" in
-     these variables. Also, translate haveSmtp3.prefix and haveSmtp3.suffix as a single sentence, inserting
-     text after the "&quot;" entity in haveSmtp3.suffix, if required grammatically.
+<!-- LOCALIZATION NOTE (haveSmtp3.prefix and haveSmtp3.suffix2) : Do not translate "SMTP" and "&quot;" in
+     these variables. Also, translate haveSmtp3.prefix and haveSmtp3.suffix2 as a single sentence, inserting
+     text after the "&quot;" entity in haveSmtp3.suffix2, if required grammatically.
 -->
 <!ENTITY haveSmtp3.prefix "خادوم (SMTP) المصدِّر عندك، &quot;">
 <!ENTITY haveSmtp3.suffix2 "&quot;، هو نفسه الخادوم المستورِد. سيُستعمل اسم مستخدمك المستوِرد في الوصول إليه. بإمكانك تغيير الخادومات المصدِّرة في إعدادات الحسابات.">

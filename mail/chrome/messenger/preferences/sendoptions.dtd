@@ -19,11 +19,11 @@
 <!ENTITY AddHtmlDomain.label "أضِف…">
 <!ENTITY AddHtmlDomain.accesskey "ض">
 <!ENTITY AddPlainText.label "أضِف…">
-<!ENTITY AddPlainText.accesskey "ن">
+<!ENTITY AddPlainText.accesskey "ف">
 <!ENTITY DeleteHtmlDomain.label "احذف">
 <!ENTITY DeleteHtmlDomain.accesskey "ح">
 <!ENTITY DeletePlainText.label "احذف">
-<!ENTITY DeletePlainText.accesskey "ص">
+<!ENTITY DeletePlainText.accesskey "ذ">
 
 <!ENTITY add.htmltitle "أضِف اسم نطاق HTML ">
 <!ENTITY add.htmldomain "اسم نطاق HTML:">

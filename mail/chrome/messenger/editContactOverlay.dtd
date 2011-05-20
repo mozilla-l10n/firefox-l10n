@@ -7,8 +7,13 @@
 <!ENTITY editContactEmail.label "البريد الإلكتروني:">
 <!ENTITY editContactEmail.accesskey "ك">
 
+<!ENTITY editContactAddressBook.label "دفتر العناوين:">
+<!ENTITY editContactAddressBook.accesskey "ف">
+
 <!ENTITY editContactPanelCancel.label "ألغِ">
 <!ENTITY editContactPanelCancel.accesskey "غ">
 
 <!ENTITY editContactPanelDone.label "تمّ">
 <!ENTITY editContactPanelDone.accesskey "ت">
+
+<!ENTITY contactMoveDisabledWarning.description "لا يمكنك تغيير دفتر العناوين لأن المراسل في قائمة بريدية.">

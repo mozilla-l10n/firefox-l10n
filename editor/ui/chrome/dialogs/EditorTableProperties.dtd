@@ -1,4 +1,4 @@
-﻿<!-- ***** BEGIN LICENSE BLOCK *****
+<!-- ***** BEGIN LICENSE BLOCK *****
    - Version: MPL 1.1/GPL 2.0/LGPL 2.1
    -
    - The contents of this file are subject to the Mozilla Public License Version
@@ -77,8 +77,7 @@
 <!ENTITY cellSelectNext.accessKey "ت">
 <!ENTITY cellSelectPrevious.label "السابق">
 <!ENTITY cellSelectPrevious.accessKey "س">
-<!-- LOCALIZATION NOTE Next 2 form 1 sentence (we don't want to use HTML tag to wrap) -->
-<!ENTITY applyBeforeChange.label          "ستُطبّق التغييرات الحالية قبل تغيير التحديد.">
+<!ENTITY applyBeforeChange.label "ستُطبّق التغييرات الحالية قبل تغيير التحديد.">
 <!ENTITY cellContentAlignment.label "محاذاة المحتوى">
 <!ENTITY cellHorizontal.label "أفقية:">
 <!ENTITY cellHorizontal.accessKey "ف">

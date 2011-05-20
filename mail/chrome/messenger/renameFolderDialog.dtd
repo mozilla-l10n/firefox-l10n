@@ -39,3 +39,5 @@
 <!ENTITY renameFolderDialog.title "غيّر اسم الدليل">
 <!ENTITY rename.label "أدخل اسمًا جديدًا للدليل:">
 <!ENTITY rename.accesskey "د">
+<!ENTITY accept.label "أعِد التسمية">
+<!ENTITY accept.accesskey "س">
