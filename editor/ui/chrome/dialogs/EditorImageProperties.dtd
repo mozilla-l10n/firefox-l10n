@@ -1,4 +1,4 @@
-﻿<!-- ***** BEGIN LICENSE BLOCK *****
+<!-- ***** BEGIN LICENSE BLOCK *****
    - Version: MPL 1.1/GPL 2.0/LGPL 2.1
    -
    - The contents of this file are subject to the Mozilla Public License Version
@@ -78,6 +78,8 @@
 <!ENTITY imagemapBox.label "خريطة الصورة">
 <!ENTITY removeImageMapButton.label "احذف">
 <!ENTITY removeImageMapButton.accessKey "ح">
+<!ENTITY editImageMapButton.label "حرر…">
+<!ENTITY editImageMapButton.tooltip "أنشئ بقعًا ساخنة قابلة للنقر في هذه الصورة">
 <!-- These are the options for image alignment -->
 
 <!ENTITY alignment.label "حاذِ النص إلى الصورة">
@@ -99,10 +101,6 @@
 
 <!ENTITY showImageLinkBorder.label "اعرض حدًا حول الصور الروابط">
 <!ENTITY showImageLinkBorder.accessKey "ح">
-<!-- These controls may be added some day; currently not used -->
-
-<!ENTITY editImageMapButton.label "حرر…">
-<!ENTITY editImageMapButton.tooltip "أنشئ بقعًا ساخنة قابلة للنقر في هذه الصورة">
 <!-- These tabs are currently used in the image input dialog -->
 
 <!ENTITY imageInputTab.label "مِن">

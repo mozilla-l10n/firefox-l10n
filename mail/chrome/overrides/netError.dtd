@@ -18,7 +18,6 @@
 <!ENTITY fileNotFound.title "الملف غير موجود">
 <!ENTITY fileNotFound.longDesc "<ul> <li>افحص اسم الملف بحثًا عن أخطاء في الكتابة.</li> <li>تأكد أن الملف لم يُنقل، أو يتغير اسمه، أو يُحذف.</li> </ul>">
 
-
 <!ENTITY generic.title "أخّ.">
 <!ENTITY generic.longDesc "<p>لا يستطيع &brandShortName; تحميل هذه الصفحة لسبب ما.</p>">
 
@@ -72,17 +71,22 @@
 <!ENTITY phishingBlocked.title "خداع وِب مُشتبه به!">
 <!ENTITY phishingBlocked.longDesc "<p>قد ينتج عن إدخال بيانات في هذه الصفحة سرقة الهوية أو أي احتيال آخر.</p> <p>تستخدم طرق التزوير هذه في خدع تعرف بهجمات التزوير، و فيها تستخدم صفحات و رسائل مزوّرة لتقليد مصادر تثق بها.</p>">
 
+<!ENTITY cspFrameAncestorBlocked.title "منعته سياسة أمن المحتوى">
+<!ENTITY cspFrameAncestorBlocked.longDesc "<p>منع &brandShortName; هذه الصفحة من التحميل بهذه الطريقة لأن الصفحة تحتوي سياسة أمن محتوى تمنع ذلك.</p>">
+
 <!ENTITY securityOverride.linkText "أو يمكنك إضافة استثناء…">
 <!ENTITY securityOverride.getMeOutOfHereButton "أخرجني من هنا!">
 <!ENTITY securityOverride.exceptionButtonLabel "أضِف استثناءً…">
-<!-- LOCALIZATION NOTE (securityOverride.warningText) - Do not translate the
-contents of the <xul:button> tags.  The only language content is the label= field,
-which uses strings already defined above. The button is included here (instead of
-netError.xhtml) because it exposes functionality specific to thunderbird. -->
+<!-- LOCALIZATION NOTE (securityOverride.warningContent) - Do not translate the
+contents of the <button> tags. It uses strings already defined above. The
+button is included here (instead of netError.xhtml) because it exposes
+functionality specific to thunderbird. -->
 
 
-<!ENTITY securityOverride.warningText "<p>يجب ألا تضيف استثناءً إذا كنت تستخدم اتصال إنترنت لا تثق به تمامًا أو إذا لم تعتد على رؤية تحذير من هذا الخادوم.</p>
+<!ENTITY securityOverride.warningContent "<p>ينبغي أن لا تضيف استثناء إذا كنت تستخدم اتصال إنترنت لا تثق به، أو كنت غير معتاد على رؤية هذا التحذير من هذا الموقع.</p>
 
-<xul:button xmlns:xul='http://www.mozilla.org/keymaster/gatekeeper/there.is.only.xul' id='getMeOutOfHereButton' label='&securityOverride.getMeOutOfHereButton;'/>
-<xul:button xmlns:xul='http://www.mozilla.org/keymaster/gatekeeper/there.is.only.xul' id='exceptionDialogButton' label='&securityOverride.exceptionButtonLabel;'/>
+<button id='getMeOutOfHereButton'>&securityOverride.getMeOutOfHereButton;</button> 
 ">
+
+<!ENTITY remoteXUL.title "XUL بعيد">
+<!ENTITY remoteXUL.longDesc "<p><ul><li>الرجاء التواصل مع مالك الموقع لإبلاغه بهذه المشكلة.</li></ul></p>">

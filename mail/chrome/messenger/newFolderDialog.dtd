@@ -46,3 +46,5 @@
 <!ENTITY folderRestriction2.label "اسمح للدليل الجديد أن يحتوي:">
 <!ENTITY foldersOnly.label "أدلة فقط">
 <!ENTITY messagesOnly.label "رسائل فقط">
+<!ENTITY accept.label "أنشئ المجلد">
+<!ENTITY accept.accesskey "ش">

@@ -43,7 +43,7 @@
 
 <!ENTITY subjectField2.label "الموضوع">
 <!--# LOCALIZATION NOTE (ccField2.label): DONT_TRANSLATE -->
-<!ENTITY ccField2.label "نسخة كربونية إلى ">
+<!ENTITY ccField2.label "cc ">
 <!ENTITY bccField2.label "نسخة كربونية مخفية إلى ">
 <!ENTITY newsgroupsField2.label "مجموعات الأخبار ">
 <!ENTITY followupToField2.label "ملحق إلى ">
@@ -82,8 +82,8 @@
 <!ENTITY hdrViewToolbarAlwaysReplySender.accesskey "ر">
 
 <!ENTITY otherActionsButton.label "إجراءات أخرى">
-<!ENTITY otherActionsShowConversation.label "أظهِر في المحادثة">
-<!ENTITY otherActionsShowConversation.accesskey "ث">
+<!ENTITY otherActionsOpenConversation.label "افتح في محادثة">
+<!ENTITY otherActionsOpenConversation.accesskey "ث">
 <!ENTITY otherActionsOpenInNewWindow.label "افتح في نافذة جديدة">
 <!ENTITY otherActionsOpenInNewWindow.accesskey "ن">
 <!ENTITY otherActionsOpenInNewTab.label "افتح في لسان جديد">
@@ -98,22 +98,49 @@
 <!ENTITY viewSourceMenuItem.accesskey "ص">
 <!ENTITY otherActionsPrint.label "اطبع…">
 <!ENTITY otherActionsPrint.accesskey "ط">
+<!-- Attachment context menu items -->
 
 <!ENTITY openAttachmentCmd.label "افتح">
 <!ENTITY openAttachmentCmd.accesskey "ف">
 <!ENTITY saveAsAttachmentCmd.label "احفظ ك‍…">
 <!ENTITY saveAsAttachmentCmd.accesskey "ك">
-<!ENTITY detachAttachmentCmd.label "افصل…">
+<!ENTITY detachAttachmentCmd.label "ألغِ إرفاق…">
+<!ENTITY detachAttachmentCmd.accesskey "ق">
 <!ENTITY deleteAttachmentCmd.label "احذف">
+<!ENTITY deleteAttachmentCmd.accesskey "ذ">
+<!ENTITY openAllAttachmentsCmd.label "افتح الكل…">
+<!ENTITY openAllAttachmentsCmd.accesskey "ك">
 <!ENTITY saveAllAttachmentsCmd.label "احفظ الكل…">
 <!ENTITY saveAllAttachmentsCmd.accesskey "ح">
-<!ENTITY detachAllAttachmentsCmd.label "افصل الكل…">
-<!ENTITY detachAllAttachmentsCmd.accesskey "ف">
+<!ENTITY detachAllAttachmentsCmd.label "ألغ إرفاق الكل…">
+<!ENTITY detachAllAttachmentsCmd.accesskey "غ">
 <!ENTITY deleteAllAttachmentsCmd.label "احذف الكل…">
 <!ENTITY deleteAllAttachmentsCmd.accesskey "ف">
+<!-- Attachment toolbar items -->
+
+<!ENTITY saveAttachmentButton.label "احفظ">
+<!ENTITY saveAttachmentButton.tooltip "يحفظ الملف المرفق">
+<!ENTITY saveAllAttachmentsButton.label "احفظ الكل">
+<!ENTITY saveAllAttachmentsButton.tooltip "يحفظ جميع الملفات المرفقة">
+<!ENTITY openAttachmentMenuItem.label "افتح">
+<!ENTITY openAttachmentMenuItem.accesskey "ح">
+<!ENTITY saveAsAttachmentMenuItem.label "احفظ ك‍…">
+<!ENTITY saveAsAttachmentMenuItem.accesskey "ك">
+<!ENTITY detachAttachmentMenuItem.label "ألغِ إرفاق…">
+<!ENTITY detachAttachmentMenuItem.accesskey "ل">
+<!ENTITY deleteAttachmentMenuItem.label "احذف">
+<!ENTITY deleteAttachmentMenuItem.accesskey "ف">
+<!ENTITY openAllAttachmentsMenuItem.label "افتح الكل…">
+<!ENTITY openAllAttachmentsMenuItem.accesskey "ل">
+<!ENTITY saveAllAttachmentsMenuItem.label "احفظ الكل…">
+<!ENTITY saveAllAttachmentsMenuItem.accesskey "ظ">
+<!ENTITY detachAllAttachmentsMenuItem.label "ألغِ إرفاق الكل…">
+<!ENTITY detachAllAttachmentsMenuItem.accesskey "ر">
+<!ENTITY deleteAllAttachmentsMenuItem.label "احذف الكل…">
+<!ENTITY deleteAllAttachmentsMenuItem.accesskey "ح">
 
 <!ENTITY copyLinkCmd.label "انسخ موقع الرابط">
-<!ENTITY copyLinkCmd.accesskey "ن">
+<!ENTITY copyLinkCmd.accesskey "خ">
 
 <!ENTITY CopyMessageId.label "انسخ معرّف الرسالة">
 <!ENTITY OpenMessageForMsgId.label "افتح الرسالة من أجل المعرّف">
