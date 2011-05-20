@@ -1,7 +1,7 @@
 <!ENTITY startup.label                 "Käivitamine">
 
 <!ENTITY startupPage.label             "&brandShortName;i käivitamisel:">
-<!ENTITY startupPage.accesskey         "s">
+<!ENTITY startupPage.accesskey         "t">
 <!ENTITY startupHomePage.label         "Kuvatakse avalehte">
 <!ENTITY startupBlankPage.label        "Kuvatakse tühja lehte">
 <!ENTITY startupLastSession.label      "Kuvatakse viimati avatud aknaid ja kaarte">
@@ -24,7 +24,7 @@
 <!ENTITY saveTo.label                  "Failid salvestatakse asukohta">
 <!ENTITY saveTo.accesskey              "v">
 <!ENTITY chooseFolderWin.label         "Lehitse...">
-<!ENTITY chooseFolderWin.accesskey     "s">
+<!ENTITY chooseFolderWin.accesskey     "e">
 <!ENTITY chooseFolderMac.label         "Vali...">
 <!ENTITY chooseFolderMac.accesskey     "a">
 <!ENTITY alwaysAsk.label               "Alati küsitakse, kuhu failid salvestada">
