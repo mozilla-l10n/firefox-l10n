@@ -30,7 +30,7 @@
 
 <!-- Passwords -->
 <!ENTITY savedPasswords.intro           "Gallout a ra &brandShortName; derc'hel soñj eus ho kerioù-tremen evit holl ho kontoù.">
-<!ENTITY useMasterPassword.label        "Implijañ ur ger-tremen mestr">
+<!ENTITY useMasterPassword.label        "Implijout ur ger-tremen mestr">
 <!ENTITY useMasterPassword.accesskey    "I">
 <!ENTITY masterPassword.intro           "Pa vez implijet anezhañ e tiwall ar ger-tremen mestr holl ho kerioù-tremen - met ret eo deoc'h e reiñ ur wech dre estez.">
 <!ENTITY changeMasterPassword.label     "Kemmañ ar ger-tremen mestr…">

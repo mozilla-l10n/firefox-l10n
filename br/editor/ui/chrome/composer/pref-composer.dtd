@@ -19,7 +19,7 @@
 <!ENTITY  maintainStructure.label       "Gwarezañ tresad an taolenn pa vez enlakaet pe dilamet kelligoù">
 <!ENTITY  maintainStructure.tooltip     "Gwarezañ stumm hirgarrezek an taolenn gant ouzhpennañ kelligoù ent emgefreek goude enlakaat pe dilemel kelligoù">
 <!ENTITY  maintainStructure.accesskey   "t">
-<!ENTITY  useCSS.label                  "Implijañ stiloù CSS e-lec'h elfennoù HTML ha doarennoù">
+<!ENTITY  useCSS.label                  "Implijout stiloù CSS e-lec'h elfennoù HTML ha doarennoù">
 <!ENTITY  useCSS.accesskey              "I">
 <!ENTITY  crInPCreatesNewP.label        "Ar stokell Enankañ en ur rannbennad a grou ur rannbennad nevez">
 <!ENTITY  crInPCreatesNewP.accesskey    "A">

@@ -6,7 +6,7 @@
 
 <!ENTITY defaultColors.label        "Livioù dre ziouer al lenner (na gemmañ livioù ar pajennadoù)">
 <!ENTITY defaultColors.accesskey    "L">
-<!ENTITY customColors.label         "Implijañ livioù personelaet:">
+<!ENTITY customColors.label         "Implijout livioù personelaet:">
 <!ENTITY customColors.accesskey     "I">
 
 <!ENTITY normalText.label           "Testenn reizh">

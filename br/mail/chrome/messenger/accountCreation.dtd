@@ -72,7 +72,7 @@
 <!ENTITY changeSettings.label            "Kemmañ an arventennoù">
 <!ENTITY changeSettings.accesskey        "a">
 
-<!ENTITY contactYourProvider.description "&brandShortName; a lezo deoc'h da gaout ho posteloù en ur implijañ an arventennoù-mañ. Koulskoude e rankfe deoc'h mont e darempred gant hoc'h ardoer pe ho pourchaser postel a-zivout ar c'hennaskoù direizh-mañ. Sellit ouzh ar FAQ Thunderbird evit kaout muioc'h a ditouroù.">
+<!ENTITY contactYourProvider.description "&brandShortName; a lezo deoc'h da gaout ho posteloù en ur implijout an arventennoù-mañ. Koulskoude e rankfe deoc'h mont e darempred gant hoc'h ardoer pe ho pourchaser postel a-zivout ar c'hennaskoù direizh-mañ. Sellit ouzh ar FAQ Thunderbird evit kaout muioc'h a ditouroù.">
 
 <!ENTITY insecureServer.tooltip.title    "Diwallit! N'eo ket diogel an dafariad-mañ.">
 <!ENTITY insecureServer.tooltip.details  "Klikit war ar c'helc'h evit kaout muioc'h a ditouroù.">

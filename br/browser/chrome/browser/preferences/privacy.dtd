@@ -1,7 +1,7 @@
 <!ENTITY tracking.label                 "Heuliañ ho roudoù">
 
 <!ENTITY doNotTrack.label               "Lavarout d'al lec'hiennoù internet ne fell ket din bezañ heuliet">
-<!ENTITY doNotTrack.accesskey           "d">
+<!ENTITY doNotTrack.accesskey           "v">
 
 <!ENTITY  history.label                 "Roll istor">
 
@@ -39,7 +39,7 @@
 <!ENTITY  historyHeader.pre.accesskey      "A">
 <!ENTITY  historyHeader.remember.label     "Derc'hel soñj ar roll istor">
 <!ENTITY  historyHeader.dontremember.label "Ne zerc'hel ket soñj ar roll istor">
-<!ENTITY  historyHeader.custom.label       "Implijañ arventennoù personelaet evit ar roll istor">
+<!ENTITY  historyHeader.custom.label       "Implijout arventennoù personelaet evit ar roll istor">
 <!ENTITY  historyHeader.post.label         "">
 
 <!ENTITY  rememberDescription.label      "&brandShortName; a zalc'ho soñj al lec'hiennoù gweladennet, ar pellgargadurioù, ar furmskridoù hag ar c'hlaskoù. En a zalc'ho ivez an toupinoù eus al lec'hiennoù gweladennet.">
