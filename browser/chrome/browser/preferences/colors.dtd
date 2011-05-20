@@ -17,6 +17,6 @@
 <!ENTITY underlineLinks.accesskey   "j">
 <!ENTITY links                      "Lingi värvid">
 <!ENTITY linkColor.label            "Külastamata lingid:">
-<!ENTITY linkColor.accesskey        "t">
+<!ENTITY linkColor.accesskey        "K">
 <!ENTITY visitedLinkColor.label     "Külastatud lingid">
 <!ENTITY visitedLinkColor.accesskey "d">

@@ -8,7 +8,7 @@
 <!ENTITY  locationBar.label                      "Asukohariba">
 
 <!ENTITY  locbar.pre.label                       "Kasutades asukohariba, otsitakse soovitusi:">
-<!ENTITY  locbar.pre.accessKey                   "K">
+<!ENTITY  locbar.pre.accessKey                   "a">
 <!ENTITY  locbar.post.label                      "">
 <!ENTITY  locbar.both.label                      "ajaloost ja järjehoidjatest">
 <!ENTITY  locbar.history.label                   "ajaloost">
