@@ -11,7 +11,7 @@
 <!ENTITY setDefaultButton.label "Als Standard festlegen">
 <!ENTITY setDefaultButton.accesskey "S">
 <!ENTITY removeButton.label "Konto entfernen">
-<!ENTITY removeButton.accesskey "e">
+<!ENTITY removeButton.accesskey "o">
 
 <!-- AccountManager.xul -->
 <!-- LOCALIZATION NOTE : this is part of an inline-style attribute on the account
