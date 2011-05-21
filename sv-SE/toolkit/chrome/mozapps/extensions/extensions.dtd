@@ -30,11 +30,6 @@
 <!-- categories / views -->
 <!ENTITY view.search.label                    "Sök">
 <!ENTITY view.discover.label                  "Hämta tillägg">
-<!ENTITY view.locales.label                   "Språk">
-<!ENTITY view.searchengines.label             "Sökmotorer">
-<!ENTITY view.features.label                  "Tillägg">
-<!ENTITY view.appearance2.label               "Utseende">
-<!ENTITY view.plugins.label                   "Insticksmoduler">
 <!ENTITY view.recentUpdates.label             "Nyligen uppdaterade">
 <!ENTITY view.availableUpdates.label          "Tillgängliga uppdateringar">
 
