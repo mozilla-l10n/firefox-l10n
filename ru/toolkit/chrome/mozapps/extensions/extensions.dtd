@@ -23,11 +23,6 @@
 <!ENTITY info.plugincheck.tooltip "Проверить актуальность версий установленных у вас плагинов">
 <!ENTITY view.search.label "Поиск">
 <!ENTITY view.discover.label "Получить дополнения">
-<!ENTITY view.locales.label "Языки">
-<!ENTITY view.searchengines.label "Поисковые системы">
-<!ENTITY view.features.label "Расширения">
-<!ENTITY view.appearance2.label "Внешний вид">
-<!ENTITY view.plugins.label "Плагины">
 <!ENTITY view.recentUpdates.label "Недавние обновления">
 <!ENTITY view.availableUpdates.label "Доступные обновления">
 <!ENTITY updates.checkForUpdates.label "Проверить наличие обновлений">
