@@ -1,3 +1,8 @@
+<!ENTITY tracking.label                 "Pelacakan">
+
+<!ENTITY doNotTrack.label               "Beritahukan situs web agar tidak melacak jejak saya">
+<!ENTITY doNotTrack.accesskey           "j">
+
 <!ENTITY  history.label                 "Riwayat">
 
 <!ENTITY  locationBar.label             "Bilah Lokasi">
