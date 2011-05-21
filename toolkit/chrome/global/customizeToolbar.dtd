@@ -2,8 +2,8 @@
 <!ENTITY dialog.style "width: 635px; height: 400px;">
 <!ENTITY instructions.description "Arrastre un ítem a la barra de tareas para agregarlo.">
 <!ENTITY show.label "Mostrar:">
-<!ENTITY iconsAndText.label "Iconos y texto">
-<!ENTITY icons.label "Iconos">
+<!ENTITY iconsAndText.label "Íconos y texto">
+<!ENTITY icons.label "Íconos">
 <!ENTITY text.label "Texto">
 <!ENTITY useSmallIcons.label "Íconos pequeños">
 <!ENTITY restoreDefaultSet.label "Restaurar predeterminado">

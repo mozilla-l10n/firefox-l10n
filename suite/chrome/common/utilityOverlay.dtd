@@ -106,9 +106,9 @@
 
 <!ENTITY customizeToolbar.toolbarmode.label       "Opciones para esta barra de herramientas">
 <!ENTITY customizeToolbar.toolbarmode.accesskey   "t">
-<!ENTITY customizeToolbar.iconsAndText.label      "Iconos y texto">
-<!ENTITY customizeToolbar.iconsAndText.accesskey  "I">
-<!ENTITY customizeToolbar.icons.label             "Iconos">
+<!ENTITY customizeToolbar.iconsAndText.label      "Íconos y texto">
+<!ENTITY customizeToolbar.iconsAndText.accesskey  "c">
+<!ENTITY customizeToolbar.icons.label             "Íconos">
 <!ENTITY customizeToolbar.icons.accesskey         "o">
 <!ENTITY customizeToolbar.text.label              "Texto">
 <!ENTITY customizeToolbar.text.accesskey          "T">

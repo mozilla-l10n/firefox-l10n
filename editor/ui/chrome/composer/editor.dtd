@@ -83,7 +83,7 @@
 <!ENTITY AllTagsModeTab.label "Etiquetas HTML">
 <!ENTITY AllTagsMode.label "Etiquetas HTML">
 <!ENTITY AllTagsMode.accesskey "a">
-<!ENTITY AllTagsMode.tooltip "Mostrar iconos para todas las etiquetas HTML">
+<!ENTITY AllTagsMode.tooltip "Mostrar íconos para todas las etiquetas HTML">
 <!-- LOCALIZATION NOTE: (HTMLSourceModeTab.dir, HTMLSourceModeTab.label)
      Do NOT translate text for 'HTMLSourceModeTab.dir', use latin "ltr" if
      you want the <html> image to left of the 'HTMLSourceModeTab.label' text,
