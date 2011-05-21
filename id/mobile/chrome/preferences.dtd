@@ -8,6 +8,8 @@
 <!ENTITY enablePlugins.title                       "Aktifkan Plugin">
 <!ENTITY privacy.title                             "Privasi &amp; Keamanan">
 <!ENTITY allowCookies.title                        "Izinkan kuki">
+<!ENTITY doNotTrack.title                          "Beritahukan situs agar tidak melacak jejak saya">
+<!ENTITY doNotTrack.title                          "Tell sites not to track me">
 <!ENTITY clearPrivateData2.title                   "Hapus data pribadi">
 <!ENTITY clearPrivateData.button                   "Hapus">
 <!ENTITY rememberPasswords.title                   "Ingat sandi">

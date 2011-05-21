@@ -90,6 +90,7 @@
 <!ENTITY contextSaveImage.label       "Simpan Gambar">
 <!ENTITY contextShareLink.label       "Bagi Tautan">
 <!ENTITY contextShareImage.label      "Bagi Gambar">
+<!ENTITY contextBookmarkLink.label    "Markahi Tautan">
 <!ENTITY contextSaveVideo.label       "Simpan Video">
 <!ENTITY contextShareVideo.label      "Bagi Video">
 <!ENTITY contextPlayMedia.label       "Putar">
