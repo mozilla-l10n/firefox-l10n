@@ -21,11 +21,6 @@
 <!ENTITY warning.updatesecurity.enable.tooltip "Activar comprobación de seguridá de complementos">
 <!ENTITY view.search.label "Guetar">
 <!ENTITY view.discover.label "Obtener complementos">
-<!ENTITY view.locales.label "Llingües">
-<!ENTITY view.searchengines.label "Guetadores">
-<!ENTITY view.features.label "Estensiones">
-<!ENTITY view.appearance2.label "Aspeutu">
-<!ENTITY view.plugins.label "Plugins">
 <!ENTITY view.recentUpdates.label "Anovamientos recientes">
 <!ENTITY view.availableUpdates.label "Anovamientos disponibles">
 <!ENTITY updates.checkForUpdates.label "Guetar anovamientos">
