@@ -8,6 +8,7 @@
 <!ENTITY enablePlugins.title                       "Bật các Phần bổ trợ">
 <!ENTITY privacy.title                             "Riêng tư &amp; Bảo mật">
 <!ENTITY allowCookies.title                        "Cho phép cookie">
+<!ENTITY doNotTrack.title                          "Nói các trang web đừng theo dõi tôi">
 <!ENTITY clearPrivateData2.title                   "Xóa dữ liệu cá nhân">
 <!ENTITY clearPrivateData.button                   "Xóa trắng">
 <!ENTITY rememberPasswords.title                   "Ghi nhớ mật khẩu">
