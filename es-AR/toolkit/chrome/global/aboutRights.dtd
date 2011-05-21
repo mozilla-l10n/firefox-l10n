@@ -61,13 +61,13 @@
 <!ENTITY rights.safebrowsing-term4 "La navegación segura ahora está deshabilitada">
 
 <!-- location aware browsing points for branded builds -->
-<!ENTITY rights.locationawarebrowsing-a "Location Aware Browsing: ">
+<!ENTITY rights.locationawarebrowsing-a "Navegación con ubicación geográfica: ">
 <!ENTITY rights.locationawarebrowsing-b "siempre es opcional.  Nunca se envía información de ubicación sin su permiso.  Si desea deshabilitar esta característica por completo, siga estos pasos:">
 <!ENTITY rights.locationawarebrowsing-term1a "En la barra de direcciones ingrese ">
 <!ENTITY rights.locationawarebrowsing-term1b "about:config">
 <!ENTITY rights.locationawarebrowsing-term2 "Ingrese geo.enabled">
 <!ENTITY rights.locationawarebrowsing-term3 "Haga doble clic en la preferencia geo.enabled">
-<!ENTITY rights.locationawarebrowsing-term4 "Location-Aware Browsing is now disabled">
+<!ENTITY rights.locationawarebrowsing-term4 "La navegación con ubicación geográfica ahora está deshabilitada">
 
 <!-- intro paragraph for unbranded builds -->
 <!ENTITY rights.webservices-unbranded "Aquí debe incluirse un resumen de los servicios de sitios web que el producto incorpora, junto con instrucciones de cómo deshabilitarlas, en caso de ser necesario.">
