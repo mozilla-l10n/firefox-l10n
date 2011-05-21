@@ -16,7 +16,6 @@
 <!ENTITY closeCmd.key "W">
 <!ENTITY printSetupCmd.label "Imposta pagina…">
 <!ENTITY printSetupCmd.accesskey "I">
-<!ENTITY redoCmd.label "Ripeti">
 <!ENTITY redoCmd.key "Z">
 <!ENTITY historyCmd.key "C">
 <!ENTITY findTypeTextCmd.key "">

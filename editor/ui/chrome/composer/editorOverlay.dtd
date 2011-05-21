@@ -42,9 +42,6 @@
    - ***** END LICENSE BLOCK ***** -->
 <!ENTITY fileMenu.label "File">
 <!ENTITY fileMenu.accesskey "F">
-<!ENTITY newBlankPageCmd.label "Pagina">
-<!ENTITY newBlankPageCmd.accesskey "P">
-<!ENTITY newMenu.label "Nuovo">
 <!ENTITY openFileCmd.label "Apri file…">
 <!ENTITY openFileCmd.accesskey "f">
 <!ENTITY openFileCmd.key "O">
@@ -65,14 +62,8 @@
 <!ENTITY publishCmd.key "S">
 <!ENTITY publishAsCmd.label "Pubblica con nome…">
 <!ENTITY publishAsCmd.accesskey "l">
-<!ENTITY exportToTextCmd.label "Esporta come testo…">
-<!ENTITY exportToTextCmd.accesskey "o">
 <!ENTITY saveAsChangeEncodingCmd.label "Salva e cambia codifica caratteri">
 <!ENTITY saveAsChangeEncodingCmd.accesskey "d">
-<!ENTITY previewCmd.label "Anteprima nel browser">
-<!ENTITY previewCmd.accesskey "b">
-<!ENTITY sendPageCmd.label "Invio pagina…">
-<!ENTITY sendPageCmd.accesskey "v">
 <!ENTITY printSetupCmd.label "Imposta pagina…">
 <!ENTITY printSetupCmd.accesskey "p">
 <!ENTITY printCmd.label "Stampa…">
@@ -351,13 +342,12 @@
 <!ENTITY tableProperties.accesskey "P">
 <!ENTITY menuBar.tooltip "Barra del menu">
 <!ENTITY formatToolbar.tooltip "Barra di formattazione">
+<!ENTITY newToolbarCmd.label "New">
 <!ENTITY newToolbarCmd.tooltip "Crea una nuova pagina con Composer">
 <!ENTITY openToolbarCmd.label "Apri">
 <!ENTITY openToolbarCmd.tooltip "Carica una pagina locale">
 <!ENTITY saveToolbarCmd.tooltip "Salva la pagina localmente">
 <!ENTITY publishToolbarCmd.tooltip "Memorizza i file presso un indirizzo remoto">
-<!ENTITY previewToolbarCmd.label "Anteprima">
-<!ENTITY previewToolbarCmd.tooltip "Apri la pagina nel browser">
 <!ENTITY printToolbarCmd.label "Stampa">
 <!ENTITY printToolbarCmd.tooltip "Stampa la pagina">
 <!ENTITY findToolbarCmd.label "Trova">
