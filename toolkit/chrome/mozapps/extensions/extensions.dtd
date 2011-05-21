@@ -30,11 +30,6 @@
 <!-- categories / views -->
 <!ENTITY view.search.label                    "搜尋">
 <!ENTITY view.discover.label                  "取得元件">
-<!ENTITY view.locales.label                   "語言套件">
-<!ENTITY view.searchengines.label             "搜尋引擎">
-<!ENTITY view.features.label                  "擴充套件">
-<!ENTITY view.appearance2.label               "外觀設定">
-<!ENTITY view.plugins.label                   "外掛程式">
 <!ENTITY view.recentUpdates.label             "最近的更新">
 <!ENTITY view.availableUpdates.label          "可用的更新">
 
