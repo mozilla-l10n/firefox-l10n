@@ -21,8 +21,6 @@
 <!ENTITY allowHWAccel.accesskey          "a">
 <!ENTITY checkSpelling.label             "Periksa ejaan saat mengetik teks">
 <!ENTITY checkSpelling.accesskey         "e">
-<!ENTITY doNotTrack.label                "Beritahukan situs web agar tidak menjejaki saya">
-<!ENTITY doNotTrack.accesskey            "j">
 
 <!ENTITY systemDefaults.label            "Pengaturan Default Sistem">
 <!ENTITY alwaysCheckDefault.label        "Periksa apakah &brandShortName; adalah program peramban web default ketika memulai"><!--XXX-->
