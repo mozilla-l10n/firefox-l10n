@@ -95,6 +95,7 @@
 <!ENTITY contextSaveImage.label       "Lưu Ảnh">
 <!ENTITY contextShareLink.label       "Chia sẻ Liên kết">
 <!ENTITY contextShareImage.label      "Chia sẻ Hình ảnh">
+<!ENTITY contextBookmarkLink.label    "Đánh dấu Liên kết">
 <!ENTITY contextSaveVideo.label       "Lưu Phim">
 <!ENTITY contextShareVideo.label      "Chia sẻ Phim">
 <!ENTITY contextPlayMedia.label       "Chơi">

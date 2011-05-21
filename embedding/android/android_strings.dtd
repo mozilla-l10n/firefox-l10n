@@ -1,0 +1,17 @@
+<!ENTITY  splash_screen_label "đang tải">
+<!ENTITY  splash_screen_installing "đang cài đặt thư viện\u2026">
+<!ENTITY  incompatable_cpu_error "Thiết bị này không đạt yêu cầu hệ thống tối thiểu cho &brandShortName;.">
+<!ENTITY  no_space_to_start_error "Không có đủ dung lượng trống để &brandShortName; khởi động.">
+<!ENTITY  error_loading_file "Một lỗi xảy ra khi đang cố nạp những tập tin bắt buộc để chạy &brandShortName;">
+
+<!ENTITY  crash_reporter_title "&brandShortName; Trình Báo Lỗi">
+<!ENTITY  crash_message "&brandShortName; đã bị đổ vỡ. Các thẻ của bạn sẽ được liệt kê trên trang Bắt Đầu &brandShortName; khi bạn khởi động lại.">
+<!ENTITY  crash_help_message "Vui lòng giúp chúng tôi sửa vấn đề này!">
+<!ENTITY  crash_send_report_message "Gửi Mozilla một báo cáo đổ vỡ">
+<!ENTITY  crash_include_url "Bao gồm địa chỉ trang">
+<!ENTITY  crash_close_label "Đóng">
+<!ENTITY  crash_restart_label "Khởi động lại &brandShortName;">
+<!ENTITY  sending_crash_report "Đang gửi báo cáo đổ vỡ\u2026">
+<!ENTITY  exit_label "Thoát">
+<!ENTITY  incompatable_device "&brandShortName; không hỗ trợ thiết bị này và bạn có thể gặp các vấn đề.">
+<!ENTITY  continue_label "Tiếp tục">
