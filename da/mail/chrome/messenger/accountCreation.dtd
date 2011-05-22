@@ -34,7 +34,7 @@
 <!ENTITY sslTls.label                    "SSL/TLS">
 
 <!ENTITY advancedSetup.label             "Avanceret konfiguration">
-<!ENTITY advancedSetup.accesskey         "A">
+<!ENTITY advancedSetup.accesskey         "v">
 
 <!ENTITY cancel.label                    "Annuller">
 <!ENTITY cancel.accesskey                "a">
