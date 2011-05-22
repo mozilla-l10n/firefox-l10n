@@ -41,5 +41,5 @@
 <!ENTITY keepArchives.label "Arkiver meddelelser i:">
 <!ENTITY keepArchives.accesskey "r">
 <!ENTITY archiveHierarchyButton.label "Indstillinger for arkivering…">
-<!ENTITY archiveHierarchyButton.accesskey "a">
+<!ENTITY archiveHierarchyButton.accesskey "I">
 <!ENTITY keepTemplates.label "Gem meddelelsesskabeloner i:">

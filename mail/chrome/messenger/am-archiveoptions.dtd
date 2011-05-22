@@ -1,13 +1,13 @@
 <!-- extracted from am-archiveoptions.xul -->
 
-<!ENTITY dialogTitle.label "Arkiveringsindstillinger">
+<!ENTITY dialogTitle.label "Indstillinger for arkivering">
 <!ENTITY archiveGranularityPrefix.label "Når meddelelser arkiveres, skal de anbrings i:">
-<!ENTITY archiveFlat.label "en enkelt mappe">
-<!ENTITY archiveFlat.accesskey "e">
-<!ENTITY archiveYearly.label "mapper inddelt i år">
+<!ENTITY archiveFlat.label "En enkelt mappe">
+<!ENTITY archiveFlat.accesskey "E">
+<!ENTITY archiveYearly.label "Mapper inddelt i år">
 <!ENTITY archiveYearly.accesskey "a">
-<!ENTITY archiveMonthly.label "mapper inddelt i måneder">
-<!ENTITY archiveMonthly.accesskey "m">
+<!ENTITY archiveMonthly.label "Mapper inddelt i måneder">
+<!ENTITY archiveMonthly.accesskey "M">
 <!ENTITY keepFolderStructure.label "Bevar arkiverede meddelelsers eksisterende mappestruktur">
 <!ENTITY keepFolderStructure.accesskey "B">
 <!ENTITY archiveExample.label "Eksempel">
