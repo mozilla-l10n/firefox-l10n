@@ -35,23 +35,25 @@
 <!ENTITY selectAllCmd.label "Выделить всё">
 <!ENTITY selectAllCmd.key "A">
 <!ENTITY selectAllCmd.accesskey "д">
-<!ENTITY execute.label "Выполнить">
-<!ENTITY execute.accesskey "л">
-<!ENTITY execute.key "t">
+<!ENTITY run.label "Запустить">
+<!ENTITY run.accesskey "у">
+<!ENTITY run.key "r">
 <!ENTITY inspect.label "Исследовать">
 <!ENTITY inspect.accesskey "е">
 <!ENTITY inspect.key "i">
-<!ENTITY print.label "Печать">
-<!ENTITY print.accesskey "ч">
-<!ENTITY print.key "r">
-<!ENTITY contextMenu.label "Контекст">
-<!ENTITY contextMenu.accesskey "к">
+<!ENTITY display.label "Отобразить">
+<!ENTITY display.accesskey "б">
+<!ENTITY display.key "l">
+<!ENTITY environmentMenu.label "Окружение">
+<!ENTITY environmentMenu.accesskey "ж">
 <!ENTITY contentContext.label "Content">
 <!ENTITY contentContext.accesskey "C">
-<!ENTITY chromeContext.label "Chrome">
-<!ENTITY chromeContext.accesskey "H">
+<!ENTITY browserContext.label "Браузер">
+<!ENTITY browserContext.accesskey "з">
 <!ENTITY resetContext.label "Сбросить">
 <!ENTITY resetContext.accesskey "и">
+<!ENTITY executeMenu.label "Выполнить">
+<!ENTITY executeMenu.accesskey "В">
 <!ENTITY toolsMenu.label "Инструменты">
 <!ENTITY toolsMenu.accesskey "И">
 <!ENTITY errorConsoleCmd.label "Консоль ошибок">
@@ -60,4 +62,4 @@
 <!ENTITY webConsoleCmd.label "Веб-консоль">
 <!ENTITY webConsoleCmd.accesskey "б">
 <!ENTITY webConsoleCmd.commandkey "k">
-<!ENTITY textbox.placeholder "// Введите JavaScript, выделите его, щёлкните правой кнопкой и выберите Выполнить, Исследовать или Печать.">
+<!ENTITY textbox.placeholder1 "// Введите JavaScript, выделите его, щёлкните правой кнопкой и выберите Запустить, Исследовать или Отобразить.">
