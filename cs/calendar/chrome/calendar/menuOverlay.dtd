@@ -44,15 +44,15 @@
 <!-- Event Menu -->
 <!ENTITY event.new.event "Nová událost…">
 <!ENTITY event.new.event.key "N">
-<!ENTITY event.new.event.accesskey "N">
+<!ENTITY event.new.event.accesskey "u">
 
 <!ENTITY event.new.task "Nový úkol…">
 <!ENTITY event.new.task.key "T">
-<!ENTITY event.new.task.accesskey "o">
+<!ENTITY event.new.task.accesskey "N">
 
 <!ENTITY calendar.new.server.label "Nový kalendář…">
 <!ENTITY calendar.new.server.key "L">
-<!ENTITY calendar.new.server.accesskey "l">
+<!ENTITY calendar.new.server.accesskey "k">
 
 <!ENTITY calendar.print.label "Tisk…">
 <!ENTITY calendar.print.key "P">
@@ -68,7 +68,7 @@
 <!ENTITY calendar.export.selection.accesskey "v">
 
 <!ENTITY calendar.publish.label "Publikovat…">
-<!ENTITY calendar.publish.accesskey "u">
+<!ENTITY calendar.publish.accesskey "b">
 
 <!ENTITY calendar.deletecalendar.label "Smazat zvolený kalendář…">
 <!ENTITY calendar.deletecalendar.accesskey "m">
@@ -77,7 +77,7 @@
 <!ENTITY calendar.menu.customize.accesskey "V">
 
 <!ENTITY showUnifinderCmd.label "Najít události">
-<!ENTITY showUnifinderCmd.accesskey "N">
+<!ENTITY showUnifinderCmd.accesskey "a">
 
 <!ENTITY calendar.displaytodos.checkbox.label "Zobrazit úkoly v kalendáři">
 <!ENTITY calendar.displaytodos.checkbox.accesskey "ú">

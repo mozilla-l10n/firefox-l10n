@@ -51,7 +51,7 @@
 
 <!ENTITY pref.weekstarts.label "První den v týdnu:">
 <!ENTITY pref.weekstarts.accesskey "r">
-<!ENTITY pref.daysoff.label "V pracovním týdnu zahrnout tyto dny:">
+<!ENTITY pref.daysoff.label "Do pracovního týdne zahrnout tyto dny:">
 
 <!ENTITY pref.calendar.view.daystart.label "Den začíná v:">
 <!ENTITY pref.calendar.view.daystart.accesskey "D">
@@ -65,7 +65,7 @@
 <!ENTITY pref.numberofweeks.accesskey "V">
 <!ENTITY pref.numberofpreviousweeks.label "Počet předchozích týdnů:">
 <!ENTITY pref.numberofpreviousweeks.accesskey "o">
-<!ENTITY pref.numberofweeks.0 "Nic">
+<!ENTITY pref.numberofweeks.0 "Žádný">
 <!ENTITY pref.numberofweeks.1 "1 týden">
 <!ENTITY pref.numberofweeks.2 "2 týdny">
 <!ENTITY pref.numberofweeks.3 "3 týdny">

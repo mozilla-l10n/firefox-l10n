@@ -47,7 +47,7 @@
 <!ENTITY locationpage.password.label "Heslo:" >
 
 <!ENTITY custompage.shortdescription "Upravit možnosti kalendáře" >
-<!ENTITY custompage.longdescription "Kalendáři můžete dát přezdívku a barevně odlišit události z tohoto kalendáře" >
+<!ENTITY custompage.longdescription "Kalendáři můžete dát přezdívku a události z tohoto kalendáře barevně odlišit od ostatních." >
 
 <!ENTITY finishpage.shortdescription "Kalendář byl vytvořen" >
 <!ENTITY finishpage.longdescription "Váš kalendář byl vytvořen" >

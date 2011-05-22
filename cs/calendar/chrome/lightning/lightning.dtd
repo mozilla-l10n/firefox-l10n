@@ -72,7 +72,7 @@
 
 <!-- Events and Tasks menu -->
 <!ENTITY lightning.menu.eventtask.label "Události a úkoly">
-<!ENTITY lightning.menu.eventtask.accesskey "d">
+<!ENTITY lightning.menu.eventtask.accesskey "U">
 
 <!-- Mode Toolbar -->
 <!ENTITY lightning.toolbar.mail.label "Pošta">
@@ -111,7 +111,7 @@
 <!ENTITY lightning.keys.todo.new "D">
 
 <!-- Account Central page -->
-<!ENTITY lightning.acctCentral.newCalendar.label "Vytvořit nový kalednář">
+<!ENTITY lightning.acctCentral.newCalendar.label "Vytvořit nový kalendář">
 
 <!-- today-pane-specific -->
 <!ENTITY todaypane.showMinimonth.label "Zobrazit mimi-měsíc">
