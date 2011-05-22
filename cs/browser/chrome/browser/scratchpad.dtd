@@ -61,32 +61,57 @@
 <!ENTITY selectAllCmd.key "A">
 <!ENTITY selectAllCmd.accesskey "a">
 
-<!ENTITY execute.label "Vykonat">
-<!ENTITY execute.accesskey "V">
-<!ENTITY execute.key "t">
+<!ENTITY run.label "Spusit">
+<!ENTITY run.accesskey "S">
+<!ENTITY run.key "r">
 
 <!ENTITY inspect.label "Prozkoumat">
 <!ENTITY inspect.accesskey "P">
 <!ENTITY inspect.key "i">
 
-<!ENTITY print.label "Tisk">
-<!ENTITY print.accesskey "T">
-<!ENTITY print.key "r">
+<!ENTITY display.label "Zobrazit">
+<!ENTITY display.accesskey "Z">
+<!ENTITY display.key "l">
 
+<!-- LOCALIZATION NOTE (environmentMenu.label, accesskey): This menu item was
+  -  renamed from "Context" to avoid confusion with the right-click context
+  -  menu in the text area. It refers to the JavaScript Environment (or context)
+  -  the user is evaluating against. I.e., Content (current tab) or Chrome
+  -  (browser).
+  -->
+<!ENTITY environmentMenu.label "Prostředí">
+<!ENTITY environmentMenu.accesskey "P">
+
+<!-- LOCALIZATION NOTE (contextMenu.label, accesskey): No longer used.
 <!ENTITY contextMenu.label "Kontext">
 <!ENTITY contextMenu.accesskey "K">
+  -->
 
 <!ENTITY contentContext.label "Obsah">
 <!ENTITY contentContext.accesskey "b">
 
+<!-- LOCALIZATION NOTE (browserContext.label, accesskey): This menu item is used
+  -  to select an execution environment for the browser window itself as opposed
+  -  to content. This is a feature for browser and addon developers and only
+  -  enabled via the devtools.chrome.enabled preference. Formerly, this label
+  -  was called "Chrome".
+  -->
+<!ENTITY browserContext.label "Prohlížeč">
+<!ENTITY browserContext.accesskey "r">
+
+<!-- LOCALIZATION NOTE (chromeContext.label, accesskey): No longer used.
 <!ENTITY chromeContext.label "Chrome">
 <!ENTITY chromeContext.accesskey "h">
+  -->
 
 <!-- LOCALIZATION NOTE (resetContext.label): This command allows the developer
- - to reset/clear the global object of the context where the code executes.
- -->
-<!ENTITY resetContext.label "Obnovit">
-<!ENTITY resetContext.accesskey "O">
+  -  to reset/clear the global object of the environment where the code executes.
+  -->
+<!ENTITY resetContext.label "Vymazat">
+<!ENTITY resetContext.accesskey "V">
+
+<!ENTITY executeMenu.label "Vykonat">
+<!ENTITY executeMenu.accesskey "k">
 
 <!ENTITY toolsMenu.label "Nástroje">
 <!ENTITY toolsMenu.accesskey "N">
@@ -99,5 +124,9 @@
 <!ENTITY webConsoleCmd.accesskey "W">
 <!ENTITY webConsoleCmd.commandkey "k">
 
-<!ENTITY textbox.placeholder "// Vložte kód JavaScriptu, vyberte ho, klepněte na něj a z nabídky zvolte Vykonat, Prozkoumat nebo Tisk.">
+<!-- LOCALIZATION NOTE (textbox.placeholder1): This is some placeholder text
+  -  that appears when the Scratchpad's text area is empty and unfocused.
+  -  It should be a one-line JavaScript comment, i.e., preceded by '//'
+  -->
+<!ENTITY textbox.placeholder1 "// Vložte kód JavaScriptu, vyberte ho, klepněte na něj a z nabídky zvolte Spustit, Prozkoumat nebo Zobrazit.">
 
