@@ -61,17 +61,17 @@
 <!ENTITY selectAllCmd.key             "A">
 <!ENTITY selectAllCmd.accesskey       "M">
 
-<!ENTITY execute.label                "Kör">
-<!ENTITY execute.accesskey            "ö">
-<!ENTITY execute.key                  "t">
+<!ENTITY run.label                    "Kör">
+<!ENTITY run.accesskey                "K">
+<!ENTITY run.key                      "r">
 
 <!ENTITY inspect.label                "Inspektera">
 <!ENTITY inspect.accesskey            "I">
 <!ENTITY inspect.key                  "i">
 
-<!ENTITY print.label                  "Evaluera">
-<!ENTITY print.accesskey              "E">
-<!ENTITY print.key                    "r">
+<!ENTITY display.label                "Visa">
+<!ENTITY display.accesskey            "V">
+<!ENTITY display.key                  "l">
 
 <!-- LOCALIZATION NOTE (environmentMenu.label, accesskey): This menu item was
   -  renamed from "Context" to avoid confusion with the right-click context
@@ -109,6 +109,9 @@
   -->
 <!ENTITY resetContext.label           "Återställ">
 <!ENTITY resetContext.accesskey       "Å">
+
+<!ENTITY executeMenu.label            "Kör">
+<!ENTITY executeMenu.accesskey        "K">
 
 <!ENTITY toolsMenu.label              "Verktyg">
 <!ENTITY toolsMenu.accesskey          "V">
