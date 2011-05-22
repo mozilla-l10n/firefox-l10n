@@ -54,7 +54,7 @@
 <!ENTITY permPopup "Aprire finestre pop-up">
 <!ENTITY permCookie "Impostare cookie">
 <!ENTITY permInstall "Installare estensioni o temi">
-<!ENTITY permGeo "Comunicare la posizione">
+<!ENTITY permGeo "Comunicare posizione attuale">
 <!ENTITY permIndexedDB "Archiviare dati non in linea">
 <!ENTITY permClearStorage "Cancella i dati">
 <!ENTITY permClearStorage.accesskey "C">
