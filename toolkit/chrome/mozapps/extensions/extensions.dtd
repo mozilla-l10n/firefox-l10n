@@ -23,11 +23,6 @@
 <!ENTITY info.plugincheck.tooltip "Verifica se i plugin sono aggiornati">
 <!ENTITY view.search.label "Cerca">
 <!ENTITY view.discover.label "Esplora">
-<!ENTITY view.locales.label "Lingue">
-<!ENTITY view.searchengines.label "Motori di ricerca">
-<!ENTITY view.features.label "Estensioni">
-<!ENTITY view.appearance2.label "Aspetto">
-<!ENTITY view.plugins.label "Plugin">
 <!ENTITY view.recentUpdates.label "Aggiornamenti recenti">
 <!ENTITY view.availableUpdates.label "Aggiornamenti disponibili">
 <!ENTITY updates.checkForUpdates.label "Controlla aggiornamenti">
