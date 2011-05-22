@@ -188,9 +188,9 @@
 <!ENTITY calendar.context.modifyorviewtask.label "Otevřít úkol…">
 <!ENTITY calendar.context.modifyorviewtask.accesskey "t">
 <!ENTITY calendar.context.newevent.label "Nová událost…">
-<!ENTITY calendar.context.newevent.accesskey "N">
+<!ENTITY calendar.context.newevent.accesskey "u">
 <!ENTITY calendar.context.newtodo.label "Nový úkol…">
-<!ENTITY calendar.context.newtodo.accesskey "k">
+<!ENTITY calendar.context.newtodo.accesskey "N">
 <!ENTITY calendar.context.deletetask.label "Smazat úkol">
 <!ENTITY calendar.context.deletetask.accesskey "S">
 <!ENTITY calendar.context.deleteevent.label "Smazat událost">
@@ -217,7 +217,7 @@
 <!ENTITY percnt "&#38;#37;" ><!--=percent sign-->
 
 <!ENTITY calendar.context.markcompleted.label "Označit jako dokončené">
-<!ENTITY calendar.context.markcompleted.accesskey "O">
+<!ENTITY calendar.context.markcompleted.accesskey "z">
 
 <!ENTITY progress.level.0 "0&percnt;">
 <!ENTITY progress.level.0.accesskey "0">
@@ -248,7 +248,7 @@
 <!-- Server Context Menu -->
 <!ENTITY calendar.context.newserver.label "Nový kalendář">
 <!ENTITY calendar.context.newserver.accesskey "N">
-<!ENTITY calendar.context.findcalendar.label "Hledat klaendář…" >
+<!ENTITY calendar.context.findcalendar.label "Hledat kalendář…" >
 <!ENTITY calendar.context.findcalendar.accesskey "H" >
 <!ENTITY calendar.context.deleteserver.label "Smazat kalendář">
 <!ENTITY calendar.context.deleteserver.accesskey "S">
@@ -321,7 +321,7 @@
 <!ENTITY calendarproperties.refreshInterval.manual.label "Ručně">
 <!ENTITY calendarproperties.name.label "Název:">
 <!ENTITY calendarproperties.readonly.label "Pouze ke čtení">
-<!ENTITY calendarproperties.firealarms.label "Zobrazit upozornění">
+<!ENTITY calendarproperties.firealarms.label "Zobrazovat upozornění">
 <!ENTITY calendarproperties.cache.label "Mezipaměť (EXPERIMENTÁLNÍ - vyžaduje restart)">
 <!ENTITY calendarproperties.enabled.label "Zapnout kalendář">
 <!ENTITY calendarproperties.forceDisabled.label "The provider for this calendar could not be found. This often happens if you have disabled or uninstalled certain addons.">
