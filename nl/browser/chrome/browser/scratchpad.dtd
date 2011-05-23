@@ -61,17 +61,17 @@
 <!ENTITY selectAllCmd.key             "A">
 <!ENTITY selectAllCmd.accesskey       "A">
 
-<!ENTITY execute.label                "Uitvoeren">
-<!ENTITY execute.accesskey            "U">
-<!ENTITY execute.key                  "t">
+<!ENTITY run.label                    "Uitvoeren">
+<!ENTITY run.accesskey                "U">
+<!ENTITY run.key                      "r">
 
 <!ENTITY inspect.label                "Inspecteren">
 <!ENTITY inspect.accesskey            "I">
 <!ENTITY inspect.key                  "i">
 
-<!ENTITY print.label                  "Afdrukken">
-<!ENTITY print.accesskey              "A">
-<!ENTITY print.key                    "r">
+<!ENTITY display.label                "Tonen">
+<!ENTITY display.accesskey            "T">
+<!ENTITY display.key                  "l">
 
 <!-- LOCALIZATION NOTE (environmentMenu.label, accesskey): This menu item was
   -  renamed from "Context" to avoid confusion with the right-click context
@@ -107,6 +107,9 @@
   -->
 <!ENTITY resetContext.label           "Herinitialiseren">
 <!ENTITY resetContext.accesskey       "h">
+
+<!ENTITY executeMenu.label            "Uitvoeren">
+<!ENTITY executeMenu.accesskey        "U">
 
 <!ENTITY toolsMenu.label              "Extra">
 <!ENTITY toolsMenu.accesskey          "x">
