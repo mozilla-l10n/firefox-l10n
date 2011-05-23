@@ -1,3 +1,7 @@
+<!ENTITY tracking.label                 "ଅନୁସରଣ କରୁଅଛି">
+
+<!ENTITY doNotTrack.label               "ମୋତେ ଅନୁସରଣ ନକରିବା ପାଇଁ ୱେବସାଇଟକୁ କୁହନ୍ତୁ">
+<!ENTITY doNotTrack.accesskey           "d">
 <!ENTITY  history.label "ଇତିହାସ">
 
 <!-- LOCALIZATION NOTE:
