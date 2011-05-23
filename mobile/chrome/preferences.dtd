@@ -8,6 +8,7 @@
 <!ENTITY enablePlugins.title "Cumasaigh Forlíontáin">
 <!ENTITY privacy.title "Príobháideacht agus Slándáil">
 <!ENTITY allowCookies.title "Ceadaigh fianáin">
+<!ENTITY doNotTrack.title "Tell sites not to track me">
 <!ENTITY clearPrivateData2.title "Bánaigh sonraí príobháideacha">
 <!ENTITY clearPrivateData.button "Bánaigh">
 <!ENTITY rememberPasswords.title "Meabhraigh focail fhaire">
