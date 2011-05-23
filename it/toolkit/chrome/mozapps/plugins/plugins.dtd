@@ -13,9 +13,11 @@
 <!ENTITY pluginWizard.finalPage.description.label "&brandShortName; ha completato l'installazione dei plugin mancanti:">
 <!ENTITY pluginWizard.finalPage.moreInfo.label "Cerca altre informazioni sui plugin o cerca manualmente i plugin mancanti.">
 <!ENTITY pluginWizard.finalPage.restart.label "&brandShortName; deve essere riavviato affinché i plugin funzionino.">
-<!ENTITY missingPlugin.label "Fare clic qui per scaricare il plugin.">
-<!ENTITY disabledPlugin.label "Il plugin richiesto per questo contenuto è stato disattivato. Fare clic qui per gestire i plugin disponibili.">
+<!ENTITY missingPlugin "Per visualizzare questo contenuto è richiesto un plugin.">
+<!ENTITY disabledPlugin "Questo plugin è disattivato.">
 <!ENTITY blockedPlugin.label "Questo plugin è stato bloccato per motivi di sicurezza.">
+<!ENTITY installPlugin "Installa plugin…">
+<!ENTITY managePlugins "Gestione plugin…">
 <!ENTITY reloadPlugin.pre " ">
 <!ENTITY reloadPlugin.middle "Ricaricare la pagina">
 <!ENTITY reloadPlugin.post " per riprovare.">
