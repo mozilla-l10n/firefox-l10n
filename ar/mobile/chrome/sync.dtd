@@ -1,22 +1,22 @@
-<!ENTITY sync.title                 "تزامُن">
-<!ENTITY sync.notconnected          "غير متصل">
-<!ENTITY sync.connect               "اتصل">
-<!ENTITY sync.connected             "متصل">
-<!ENTITY sync.details               "تفاصيل">
-<!ENTITY sync.synchronize           "فعّل تزامُن">
-<!ENTITY sync.deviceName            "هذا الجهاز">
-<!ENTITY sync.disconnect            "اقطع الاتصال">
-<!ENTITY sync.syncNow               "زامِن الآن">
+<!ENTITY sync.title "تزامُن">
+<!ENTITY sync.notconnected "غير متصل">
+<!ENTITY sync.connect "اتصل">
+<!ENTITY sync.connected "متصل">
+<!ENTITY sync.details "تفاصيل">
+<!ENTITY sync.synchronize "فعّل تزامُن">
+<!ENTITY sync.deviceName "هذا الجهاز">
+<!ENTITY sync.disconnect "اقطع الاتصال">
+<!ENTITY sync.syncNow "زامِن الآن">
 
-<!ENTITY sync.setup.title           "الاتصال بتزامُن">
-<!ENTITY sync.setup.jpake           "في الحاسوب الذي يشغل تزامُن فَيَرفُكس، اذهب إلى خيارات المزامنة واختر &#x0022;أضف جهازًا&#x0022;">
-<!ENTITY sync.fallback              "لستُ قرب جهازي…">
-<!ENTITY sync.setup.manual          "أدخِل معلومات حسابك في تزامُن">
-<!ENTITY sync.account               "اسم الحساب">
-<!ENTITY sync.password              "كلمة السر">
-<!ENTITY sync.syncKey               "مفتاح المزامنة">
-<!ENTITY sync.customServer          "استخدم خادومًا مخصصًا">
-<!ENTITY sync.serverURL             "عنوان الخادوم">
-<!ENTITY sync.setup.connect         "اتصل">
-<!ENTITY sync.setup.cancel          "ألغِ">
-<!ENTITY sync.setup.tutorial        "أرِني كيف أفعل ذلك">
+<!ENTITY sync.setup.title "الاتصال بتزامُن">
+<!ENTITY sync.setup.jpake "في الحاسوب الذي يشغل تزامُن فَيَرفُكس، اذهب إلى خيارات المزامنة واختر &#x0022;أضف جهازًا&#x0022;">
+<!ENTITY sync.fallback "لستُ قرب جهازي…">
+<!ENTITY sync.setup.manual "أدخِل معلومات حسابك في تزامُن">
+<!ENTITY sync.account "اسم الحساب">
+<!ENTITY sync.password "كلمة السر">
+<!ENTITY sync.syncKey "مفتاح المزامنة">
+<!ENTITY sync.customServer "استخدم خادومًا مخصصًا">
+<!ENTITY sync.serverURL "عنوان الخادوم">
+<!ENTITY sync.setup.connect "اتصل">
+<!ENTITY sync.setup.cancel "ألغِ">
+<!ENTITY sync.setup.tutorial "أرِني كيف أفعل ذلك">

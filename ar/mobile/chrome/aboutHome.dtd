@@ -1,15 +1,10 @@
-<!ENTITY aboutHome.header                       "<span id='header-suffix'>بداية </span><span>&brandShortName; </span>">
-<!ENTITY aboutHome.recentTabs                   "ألسنتك من المرة السابقة">
-<!ENTITY aboutHome.remoteTabs                   "ألسنة من الأجهزة الأخرى">
-<!ENTITY aboutHome.recommendedAddons2           "إضافات ل‍ &brandShortName;">
-<!ENTITY aboutHome.giveFeedback                 "أخبرنا بتعليقاتك">
-<!ENTITY aboutHome.getHelp                      "احصل على المساعدة">
-<!ENTITY aboutHome.footerWidth                  "10em">
-<!ENTITY aboutHome.openAllTabs                  "افتح الكل في ألسنة">
-<!ENTITY aboutHome.noTabs                       "لا يوجد ألسنة من المرة السابقة">
-<!ENTITY aboutHome.noAddons                     "لا يوجد إضافات مزكّاة">
-
-<!-- LOCALIZATION NOTE: 'Firefox Spark' is the official name of the promotion/constest and should not be translated -->
-<!ENTITY aboutHome.promoLabel                   "فَيَرفُكس سبارك">
-<!-- LOCALIZATION NOTE: 'Play' should be translated in the context of 'playing a game' and not 'playing a video' -->
-<!ENTITY aboutHome.promoButton                  "العب">
+<!ENTITY aboutHome.header "<span id='header-suffix'>بداية </span><span>&brandShortName; </span>">
+<!ENTITY aboutHome.recentTabs "ألسنتك من المرة السابقة">
+<!ENTITY aboutHome.remoteTabs "ألسنة من الأجهزة الأخرى">
+<!ENTITY aboutHome.recommendedAddons2 "إضافات ل‍ &brandShortName;">
+<!ENTITY aboutHome.giveFeedback "أخبرنا بتعليقاتك">
+<!ENTITY aboutHome.getHelp "احصل على المساعدة">
+<!ENTITY aboutHome.footerWidth "10em">
+<!ENTITY aboutHome.openAllTabs "افتح الكل في ألسنة">
+<!ENTITY aboutHome.noTabs "لا يوجد ألسنة من المرة السابقة">
+<!ENTITY aboutHome.noAddons "لا يوجد إضافات مزكّاة">
