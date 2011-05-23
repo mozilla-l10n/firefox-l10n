@@ -35,23 +35,25 @@
 <!ENTITY selectAllCmd.label "Seleccionar todo">
 <!ENTITY selectAllCmd.key "A">
 <!ENTITY selectAllCmd.accesskey "A">
-<!ENTITY execute.label "Ejecutar">
-<!ENTITY execute.accesskey "E">
-<!ENTITY execute.key "t">
+<!ENTITY run.label "Ejecutar">
+<!ENTITY run.accesskey "R">
+<!ENTITY run.key "r">
 <!ENTITY inspect.label "Inspeccionar">
 <!ENTITY inspect.accesskey "I">
 <!ENTITY inspect.key "i">
-<!ENTITY print.label "Imprimir">
-<!ENTITY print.accesskey "p">
-<!ENTITY print.key "r">
-<!ENTITY contextMenu.label "Context">
-<!ENTITY contextMenu.accesskey "C">
+<!ENTITY display.label "Mostrar">
+<!ENTITY display.accesskey "m">
+<!ENTITY display.key "l">
+<!ENTITY environmentMenu.label "Environment">
+<!ENTITY environmentMenu.accesskey "N">
 <!ENTITY contentContext.label "Content">
 <!ENTITY contentContext.accesskey "C">
-<!ENTITY chromeContext.label "Chrome">
-<!ENTITY chromeContext.accesskey "H">
+<!ENTITY browserContext.label "Navegador">
+<!ENTITY browserContext.accesskey "v">
 <!ENTITY resetContext.label "Restablecer">
 <!ENTITY resetContext.accesskey "R">
+<!ENTITY executeMenu.label "Acción">
+<!ENTITY executeMenu.accesskey "n">
 <!ENTITY toolsMenu.label "Herramientas">
 <!ENTITY toolsMenu.accesskey "T">
 <!ENTITY errorConsoleCmd.label "Consola de errores">
@@ -60,4 +62,4 @@
 <!ENTITY webConsoleCmd.label "Consola web">
 <!ENTITY webConsoleCmd.accesskey "W">
 <!ENTITY webConsoleCmd.commandkey "k">
-<!ENTITY textbox.placeholder "// Escribe algo de JavaScript, selecciónalo, haz clic derecho sobre él, y Ejecuta, Inspecciona o Imprime">
+<!ENTITY textbox.placeholder1 "// Escribe algo de JavaScript, selecciónalo, haz clic derecho sobre él y elige Ejecutar, Inspeccionar o Mostrar.">
