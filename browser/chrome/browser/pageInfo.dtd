@@ -93,7 +93,7 @@
 <!ENTITY  permUseDefault        "Naudoti numatytąsias nuostatas">
 <!ENTITY  permAskAlways         "Visuomet klausti">
 <!ENTITY  permAllow             "Leisti">
-<!ENTITY  permAllowSession      "Leisti šį seansą">
+<!ENTITY  permAllowSession      "Leisti vienam seansui">
 <!ENTITY  permBlock             "Neleisti">
 <!ENTITY  permissionsFor        "Leidimai:">
 <!ENTITY  permImage             "Paveikslų įkėlimas">
