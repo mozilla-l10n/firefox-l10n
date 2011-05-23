@@ -28,7 +28,7 @@
 <!ENTITY  useMasterPassword.label		"In haadwachtwurd brûke">
 <!ENTITY  useMasterPassword.accesskey	"I">
 <!ENTITY  changeMasterPassword.label	"Haadwachtwurd wizigje...">
-<!ENTITY  changeMasterPassword.accesskey	"H">
+<!ENTITY  changeMasterPassword.accesskey	"a">
 
 <!ENTITY  savedPasswords.label			"Bewarre wachtwurden">
-<!ENTITY  savedPasswords.accesskey		"w">
+<!ENTITY  savedPasswords.accesskey		"e">

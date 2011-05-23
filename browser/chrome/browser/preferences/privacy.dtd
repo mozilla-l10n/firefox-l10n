@@ -1,7 +1,7 @@
-<!ENTITY tracking.label                 "Tracking">
+<!ENTITY tracking.label                 "Folgjen">
 
 <!ENTITY doNotTrack.label                "Fertel websteeën dat ik net folge wurde wol">
-<!ENTITY doNotTrack.accesskey            "F">
+<!ENTITY doNotTrack.accesskey            "e">
 
 <!ENTITY  history.label "Skiednis">
 
@@ -54,7 +54,7 @@
 <!ENTITY  rememberActions.removeCookies.label "yndividuele cookies fuortsmite">
 <!ENTITY  rememberActions.post.label          ".">
 
-<!ENTITY  dontrememberDescription.label  "&brandShortName; sil deselde ynstellings brûke as privee sneupe en sil gjin skiednis ûnthâlde as jo sneupe oer it Web.">
+<!ENTITY  dontrememberDescription.label  "&brandShortName; sil deselde ynstellings brûke as privee sneupe en sil gjin skiednis ûnthâlde as jo sneupe oer it ynternet.">
 
 <!-- LOCALIZATION NOTE (dontrememberActions.pre.label): include a trailing space as needed -->
 <!-- LOCALIZATION NOTE (dontrememberActions.post.label): include a starting space as needed -->
@@ -62,7 +62,7 @@
 <!ENTITY  dontrememberActions.clearHistory.label "alle aktuele skiednis wiskje">
 <!ENTITY  dontrememberActions.post.label         ".">
 
-<!ENTITY  privateBrowsingPermanent.label "Permanente privee sneupsesje">
+<!ENTITY  privateBrowsingPermanent.label "Permaninte privee sneupsesje">
 <!ENTITY  privateBrowsingPermanent.accesskey "P">
 
 <!-- LOCALIZATION NOTE:
@@ -71,7 +71,7 @@
 
   &rememberHistory.pre.label  [ textbox for number of days ]  &rememberHistory.post.label;
 -->
-<!ENTITY  rememberHistory.label      "Unthâld myn browseskiednis">
+<!ENTITY  rememberHistory.label      "Unthâld myn sneupskiednis">
 <!ENTITY  rememberHistory.accesskey  "h">
 
 <!ENTITY  rememberDownload.label         "Unthâld ynlaadskiednis">
