@@ -82,10 +82,6 @@
 <!ENTITY environmentMenu.label        "Miljö">
 <!ENTITY environmentMenu.accesskey    "M">
 
-<!-- LOCALIZATION NOTE (contextMenu.label, accesskey): No longer used.
-<!ENTITY contextMenu.label            "Kontext">
-<!ENTITY contextMenu.accesskey        "K">
-  -->
 
 <!ENTITY contentContext.label         "Innehåll">
 <!ENTITY contentContext.accesskey     "n">
@@ -98,11 +94,6 @@
   -->
 <!ENTITY browserContext.label         "Webbläsaren">
 <!ENTITY browserContext.accesskey     "W">
-
-<!-- LOCALIZATION NOTE (chromeContext.label, accesskey): No longer used.
-<!ENTITY chromeContext.label          "Krom">
-<!ENTITY chromeContext.accesskey      "K">
-  -->
 
 <!-- LOCALIZATION NOTE (resetContext.label): This command allows the developer
   -  to reset/clear the global object of the environment where the code executes.
