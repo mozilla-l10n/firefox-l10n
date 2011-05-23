@@ -59,8 +59,8 @@
 <!-- LOCALIZATION NOTE (channel.description.start,channel.description.end): channel.description.start and
      channel.description.end create one sentence, with the current channel label inserted in between.
      example: You are currently on the _Stable_ update channel. -->
-<!ENTITY channel.description.start  "Actualment esteu ">
-<!ENTITY channel.description.end    " al canal d'actualitzacions. ">
+<!ENTITY channel.description.start  "Esteu actualment al canal ">
+<!ENTITY channel.description.end    " d'actualitzacions. ">
 
 <!ENTITY channel.change             "Canvia">
 
@@ -72,8 +72,8 @@
      channel.selector.end create one sentence, with a channel selection menulist instered in between.
      This is all in one line, so try to make the localized text short.
      example: Switch to the [Stable] update channel. -->
-<!ENTITY channel.selector.start          "Canvia al">
-<!ENTITY channel.selector.end            "canal d'actualitzacions.">
+<!ENTITY channel.selector.start          "Canvia al canal">
+<!ENTITY channel.selector.end            "d'actualitzacions.">
 
 <!-- LOCALIZATION NOTE (channel.selector.applyButton): This button applies the user's choice to switch
      to a new update channel and starts the application update process. -->
