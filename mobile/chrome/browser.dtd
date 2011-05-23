@@ -1,74 +1,72 @@
-<!ENTITY urlbar.emptytext      "أدخِل بحثًا أو عنوانًا">
+<!ENTITY urlbar.emptytext "أدخِل بحثًا أو عنوانًا">
 
-<!ENTITY back.label            "عودة">
-<!ENTITY forward.label         "إلى الأمام">
-<!ENTITY reload.label          "أعِد التحميل">
-<!ENTITY stop.label            "أوقِف">
-<!ENTITY go.label              "اذهب">
-<!ENTITY star.label            "ضع نجمة">
+<!ENTITY back.label "عودة">
+<!ENTITY forward.label "إلى الأمام">
+<!ENTITY reload.label "أعِد التحميل">
+<!ENTITY stop.label "أوقِف">
+<!ENTITY go.label "اذهب">
+<!ENTITY star.label "ضع نجمة">
 
-<!ENTITY newtab.label          "لسان جديد">
-<!ENTITY closetab.label        "أغلِق اللسان">
+<!ENTITY newtab.label "لسان جديد">
+<!ENTITY closetab.label "أغلِق اللسان">
 
-<!ENTITY cut.label             "قص">
-<!ENTITY copy.label            "انسخ">
-<!ENTITY copyAll.label         "انسخ الكل">
-<!ENTITY copylink.label        "انسخ وصلة الموقع">
-<!ENTITY paste.label           "الصق">
-<!ENTITY delete.label          "احذف">
-<!ENTITY selectAll.label       "اختر الكل">
-<!ENTITY noSuggestions.label   "(لا اقتراحات)">
+<!ENTITY cut.label "قص">
+<!ENTITY copy.label "انسخ">
+<!ENTITY copyAll.label "انسخ الكل">
+<!ENTITY copylink.label "انسخ وصلة الموقع">
+<!ENTITY paste.label "الصق">
+<!ENTITY delete.label "احذف">
+<!ENTITY selectAll.label "اختر الكل">
+<!ENTITY noSuggestions.label "(لا اقتراحات)">
 <!ENTITY addToDictionary.label "أضِف إلى القاموس">
-<!ENTITY inputMethod.label     "اختر طريقة الإدخال">
+<!ENTITY inputMethod.label "اختر طريقة الإدخال">
 
-<!ENTITY allPagesHeader.label      "كل الصفحات">
-<!ENTITY bookmarksHeader.label     "العلامات">
-<!ENTITY historyHeader.label       "التأريخ">
-<!ENTITY desktopHeader.label       "سطح المكتب">
+<!ENTITY allPagesHeader.label "كل الصفحات">
+<!ENTITY bookmarksHeader.label "العلامات">
+<!ENTITY historyHeader.label "التأريخ">
+<!ENTITY desktopHeader.label "سطح المكتب">
 
-<!ENTITY editBookmarkDialog.title  "حرّر العلامة">
-<!ENTITY editBookmarkTags.label    "أضِف الوسوم هنا">
-<!ENTITY contextBookmarkLink.label "علّم الوصلة">
-<!ENTITY editBookmarkDone.label    "تمّ">
+<!ENTITY editBookmarkDialog.title "حرّر العلامة">
+<!ENTITY editBookmarkDone.label "تمّ">
+<!ENTITY editBookmarkTags.label "أضِف الوسوم هنا">
 
-<!ENTITY selectHelper.done         "تمّ">
+<!ENTITY selectHelper.done "تمّ">
 
-<!ENTITY addonsHeader.label        "الإضافات">
-<!ENTITY addonsLocal.label         "إضافاتك">
-<!ENTITY addonsUpdate.label        "حدّث">
-<!ENTITY addonsRepo.label          "احصل على الإضافات">
-<!ENTITY addonsRecommended.label   "المُزكَّاة">
-<!ENTITY addonsSearch.label        "ابحث في الدليل">
-<!ENTITY addonsSearch2.emptytext   "ابحث في ">
-<!ENTITY addonsSearch.recommended  "المُزكَّاة">
+<!ENTITY addonsHeader.label "الإضافات">
+<!ENTITY addonsLocal.label "إضافاتك">
+<!ENTITY addonsUpdate.label "حدّث">
+<!ENTITY addonsRepo.label "احصل على الإضافات">
+<!ENTITY addonsRecommended.label "المُزكَّاة">
+<!ENTITY addonsSearch.label "ابحث في الدليل">
+<!ENTITY addonsSearch2.emptytext "ابحث في ">
+<!ENTITY addonsSearch.recommended "المُزكَّاة">
 
-<!ENTITY addonOptions.label        "خيارات">
-<!ENTITY addonEnable.label         "فعّل">
-<!ENTITY addonDisable.label        "عطّل">
-<!ENTITY addonInstall2.label       "أضِف إلى &brandShortName;">
-<!ENTITY addonUninstall.label      "أزِل التثبيت">
-<!ENTITY addonCancel.label         "ألغِ">
-<!ENTITY addonShowPage.label       "اذهب إلى الصفحة">
+<!ENTITY addonOptions.label "خيارات">
+<!ENTITY addonEnable.label "فعّل">
+<!ENTITY addonDisable.label "عطّل">
+<!ENTITY addonInstall2.label "أضِف إلى &brandShortName;">
+<!ENTITY addonUninstall.label "أزِل التثبيت">
+<!ENTITY addonCancel.label "ألغِ">
+<!ENTITY addonShowPage.label "اذهب إلى الصفحة">
 
-<!ENTITY downloadsHeader.label     "التنزيلات">
+<!ENTITY downloadsHeader.label "التنزيلات">
+<!ENTITY downloadShowPage.label "اذهب إلى الصفحة">
+<!ENTITY downloadShow2.label "ابحث">
+<!ENTITY downloadOpen2.label "افتح">
+<!ENTITY downloadCancel.label "ألغِ">
+<!ENTITY downloadPause.label "ألبِث">
+<!ENTITY downloadResume.label "تابِع">
+<!ENTITY downloadRetry.label "أعِد المحاولة">
+<!ENTITY downloadRemove.label "أزِل">
+<!ENTITY downloadDelete.label "احذف">
+<!ENTITY downloadFailed.label "فشل">
 
-<!ENTITY downloadShowPage.label    "اذهب إلى الصفحة">
-<!ENTITY downloadShow2.label       "ابحث">
-<!ENTITY downloadOpen2.label       "افتح">
-<!ENTITY downloadCancel.label      "ألغِ">
-<!ENTITY downloadPause.label       "ألبِث">
-<!ENTITY downloadResume.label      "تابِع">
-<!ENTITY downloadRetry.label       "أعِد المحاولة">
-<!ENTITY downloadRemove.label      "أزِل">
-<!ENTITY downloadDelete.label      "احذف">
-<!ENTITY downloadFailed.label      "فشل">
+<!ENTITY noResults.label "لا نتائج">
+<!ENTITY allBookmarks.label "شاهِد كل العلامات">
 
-<!ENTITY noResults.label           "لا نتائج">
-<!ENTITY allBookmarks.label        "شاهِد كل العلامات">
-
-<!ENTITY bookmarkPopup.label       "عُلّمت الصفحة">
-<!ENTITY bookmarkRemove.label      "أزِل">
-<!ENTITY bookmarkEdit.label        "حرّر">
+<!ENTITY bookmarkPopup.label "عُلّمت الصفحة">
+<!ENTITY bookmarkRemove.label "أزِل">
+<!ENTITY bookmarkEdit.label "حرّر">
 
 <!ENTITY identity.unverifiedsite2 "لا يزوّد موقع الوب هذا معلومات تعريفية.">
 <!ENTITY identity.connectedTo2 "متصل ب‍">
@@ -79,37 +77,38 @@
  just addresses the organization to follow, e.g. "This site is run by " -->
 <!ENTITY identity.runBy2 "يعمل باستخدام">
 
-<!ENTITY consoleHeader.label       "مرقاب الأعطال">
-<!ENTITY consoleAll.label          "الكل">
-<!ENTITY consoleErrors.label       "الأعطال">
-<!ENTITY consoleWarnings.label     "التحذيرات">
-<!ENTITY consoleMessages.label     "الرسائل">
-<!ENTITY consoleCodeEval.label     "الكود:">
-<!ENTITY consoleClear.label        "امسح">
-<!ENTITY consoleEvaluate.label     "قيّم">
-<!ENTITY consoleErrFile.label      "ملف المصدر:">
-<!ENTITY consoleErrLine.label      "السطر:">
-<!ENTITY consoleErrColumn.label    "العمود:">
+<!ENTITY consoleHeader.label "مرقاب الأعطال">
+<!ENTITY consoleAll.label "الكل">
+<!ENTITY consoleErrors.label "الأعطال">
+<!ENTITY consoleWarnings.label "التحذيرات">
+<!ENTITY consoleMessages.label "الرسائل">
+<!ENTITY consoleCodeEval.label "الكود:">
+<!ENTITY consoleClear.label "امسح">
+<!ENTITY consoleEvaluate.label "قيّم">
+<!ENTITY consoleErrFile.label "ملف المصدر:">
+<!ENTITY consoleErrLine.label "السطر:">
+<!ENTITY consoleErrColumn.label "العمود:">
 
 <!ENTITY contextOpenInNewTab.label "افتح الوصلة في لسان جديد">
-<!ENTITY contextSaveLink.label        "احفظ الوصلة">
-<!ENTITY contextSaveImage.label       "احفظ الصورة">
-<!ENTITY contextShareLink.label       "تشارك الوصلة">
-<!ENTITY contextShareImage.label      "تشارك الصورة">
-<!ENTITY contextSaveVideo.label       "احفظ الفيديو">
-<!ENTITY contextShareVideo.label      "تشارك الفيديو">
-<!ENTITY contextPlayMedia.label       "شغّل">
-<!ENTITY contextPauseMedia.label      "ألبِث">
-<!ENTITY contextFullScreen.label      "ملء الشاشة">
-<!ENTITY contextEditBookmark.label    "حرّر">
-<!ENTITY contextRemoveBookmark.label  "أزِل">
+<!ENTITY contextSaveLink.label "احفظ الوصلة">
+<!ENTITY contextSaveImage.label "احفظ الصورة">
+<!ENTITY contextShareLink.label "تشارك الوصلة">
+<!ENTITY contextShareImage.label "تشارك الصورة">
+<!ENTITY contextBookmarkLink.label "علّم الوصلة">
+<!ENTITY contextSaveVideo.label "احفظ الفيديو">
+<!ENTITY contextShareVideo.label "تشارك الفيديو">
+<!ENTITY contextPlayMedia.label "شغّل">
+<!ENTITY contextPauseMedia.label "ألبِث">
+<!ENTITY contextFullScreen.label "ملء الشاشة">
+<!ENTITY contextEditBookmark.label "حرّر">
+<!ENTITY contextRemoveBookmark.label "أزِل">
 
-<!ENTITY pageactions.saveas.pdf      "احفظ ك‍ PDF">
-<!ENTITY pageactions.share.page      "تشارك الصفحة">
+<!ENTITY pageactions.saveas.pdf "احفظ ك‍ PDF">
+<!ENTITY pageactions.share.page "تشارك الصفحة">
 <!ENTITY pageactions.password.forget "انسَ كلمة السر">
-<!ENTITY pageactions.reset           "امسح تفضيلات الموقع">
-<!ENTITY pageactions.findInPage      "ابحث في الصفحة">
-<!ENTITY pageactions.search.addNew   "أضِف محرك بحث">
-<!ENTITY pageactions.charEncoding    "ترميز المحارف">
+<!ENTITY pageactions.reset "امسح تفضيلات الموقع">
+<!ENTITY pageactions.findInPage "ابحث في الصفحة">
+<!ENTITY pageactions.search.addNew "أضِف محرك بحث">
+<!ENTITY pageactions.charEncoding "ترميز المحارف">
 
-<!ENTITY appMenu.siteOptions         "خيارات الموقع">
+<!ENTITY appMenu.siteOptions "خيارات الموقع">

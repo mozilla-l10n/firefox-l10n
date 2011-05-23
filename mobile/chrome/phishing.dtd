@@ -1,26 +1,26 @@
-<!ENTITY safeb.palm.warning.title "Suspected Web Forgery">
+<!ENTITY safeb.palm.warning.title "صفحة وب يُشتبه بأنها مزوّرة">
 
-<!ENTITY safeb.palm.message.p1 "This page has been reported as a web forgery designed to trick users into sharing personal or financial information. Entering any personal information on this page may result in identity theft or other fraud. &#160;">
-<!ENTITY safeb.palm.message.p1.linkText "Read more &#187;">
-<!ENTITY safeb.palm.p1.linkStatusText "Read more &#133;">
+<!ENTITY safeb.palm.message.p1 "أُبلغ عن هذه الصفحة أنها صفحة وب مزوّرة تهدف لخداع المستخدمين وجعلهم يقدمون معلوماتهم الشخصية أو المالية. إدخال معلومات شخصية في هذه الصفحة قد يؤدي إلى انتحال الهوية أو أنواع أخرى من الاحتيال.">
+<!ENTITY safeb.palm.message.p1.linkText "اقرأ المزيد &#187;">
+<!ENTITY safeb.palm.p1.linkStatusText "اقرأ المزيد &#133;">
 
-<!ENTITY safeb.palm.message.p2.start "These types of web forgeries are used in scams known as phishing attacks, in which fraudulent web pages and emails are used to imitate sources you may trust. You can find out more about ">
-<!ENTITY safeb.palm.message.p2.linkText "how &brandShortName; protects you">
-<!ENTITY safeb.palm.message.p2.end " from phishing attacks.">
+<!ENTITY safeb.palm.message.p2.start "هذه النوعية من صفحات الوب المزوّرة تُستخدم في عمليات نصب تُدعى عمليات التصيّد (phishing)، حيث تحاول صفحة الوب أو البريد المزوّر تقليد المصادر التي تثق بها. يمكنك معرفة المزيد عن ">
+<!ENTITY safeb.palm.message.p2.linkText "كيفية حماية &brandShortName; لك">
+<!ENTITY safeb.palm.message.p2.end " من هجمات التصيّد.">
 
-<!ENTITY safeb.palm.accept.label "Get me out of here!">
-<!ENTITY safeb.palm.accept.statustext "Navigate to my home page">
-<!ENTITY safeb.palm.decline.label "Ignore this warning">
-<!ENTITY safeb.palm.decline.statustext "Close warning" >
-<!ENTITY safeb.palm.notforgery.label2 "This isn't a web forgery…">
-<!ENTITY safeb.palm.reportPage.label "Why was this page blocked?">
+<!ENTITY safeb.palm.accept.label "أخرجني من هنا!">
+<!ENTITY safeb.palm.accept.statustext "أرجعني إلى صفحة البداية الخاصة بي">
+<!ENTITY safeb.palm.decline.label "تجاهل هذا التحذير">
+<!ENTITY safeb.palm.decline.statustext "أغلِق التحذير">
+<!ENTITY safeb.palm.notforgery.label2 "هذه ليست صفحة وب مزوّرة…">
+<!ENTITY safeb.palm.reportPage.label "لماذا حُظرت هذه الصفحة؟">
 
-<!ENTITY safeb.blocked.malwarePage.title "Reported Attack Page!">
+<!ENTITY safeb.blocked.malwarePage.title "صفحة هجوم مُبلّغ عنها!">
 <!-- Localization note (safeb.blocked.malware.shortDesc) - Please don't translate the contents of the <span id="malware_sitename"/> tag.  It will be replaced at runtime with a domain name (e.g. www.badsite.com) -->
-<!ENTITY safeb.blocked.malwarePage.shortDesc "This web page at <span id='malware_sitename'/> has been reported as an attack page and has been blocked based on your security preferences.">
-<!ENTITY safeb.blocked.malwarePage.longDesc "<p>Attack pages try to install programs that steal private information, use your computer to attack others, or damage your system.</p><p>Some attack pages intentionally distribute harmful software, but many are compromised without the knowledge or permission of their owners.</p>">
+<!ENTITY safeb.blocked.malwarePage.shortDesc "أُبلغ عن صفحة الوب في <span id='malware_sitename'/> أنها صفحة هجوم، وقد حُظرت بناءً على تفضيلات متصفحك الأمنية.">
+<!ENTITY safeb.blocked.malwarePage.longDesc "<p>تحاول صفحات الهجوم تثبيت برامج على جهازك تسرق المعلومات الحساسة، أو تستخدم جهازك لمهاجمة الآخرين، أو تخرب نظامك.</p><p>بعض صفحات الهجوم تقدم البرامج الخبيثة عمدًا، ولكن معظمها يفعل ذلك دون علم أو إذن من أصحابها الأصليين لأنها تكون مخترقة.</p>">
 
-<!ENTITY safeb.blocked.phishingPage.title "Reported Web Forgery!">
+<!ENTITY safeb.blocked.phishingPage.title "صفحة وب مزوّرة مُبلّغ عنها!">
 <!-- Localization note (safeb.blocked.phishing.shortDesc) - Please don't translate the contents of the <span id="phishing_sitename"/> tag. It will be replaced at runtime with a domain name (e.g. www.badsite.com) -->
-<!ENTITY safeb.blocked.phishingPage.shortDesc "This web page at <span id='phishing_sitename'/> has been reported as a web forgery and has been blocked based on your security preferences.">
-<!ENTITY safeb.blocked.phishingPage.longDesc "<p>Web forgeries are designed to trick you into revealing personal or financial information by imitating sources you may trust.</p><p>Entering any information on this web page may result in identity theft or other fraud.</p>">
+<!ENTITY safeb.blocked.phishingPage.shortDesc "بُلّغ عن الصفحة في <span id='phishing_sitename'/> أنها صفحة وب مُزوّرة، وقد حُظرت بناءً على تفضيلات متصفحك الأمنية.">
+<!ENTITY safeb.blocked.phishingPage.longDesc "<p>تهدف الصفحات المزوّرة إلى خداعك وجعلك تكشف عن معلومات شخصية أو مالية، وذلك من خلال تقليد المصادر التي تثق بها.</p><p>إدخال أي معلومات على هذه الصفحة قد يؤدي إلى انتحال الهوية أو عمليات احتيال أخرى.</p>">
