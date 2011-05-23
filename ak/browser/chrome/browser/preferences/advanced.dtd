@@ -21,8 +21,6 @@
 <!ENTITY allowHWAccel.accesskey          "h">
 <!ENTITY checkSpelling.label             "Feefee me spɛllen mu wɔ bere a meretaepe">
 <!ENTITY checkSpelling.accesskey         "t">
-<!ENTITY doNotTrack.label                "Ka kyerɛ nwɛbsaet nyinara sɛ me mmpɛ mɛ wɔhwɛ me ekyiri kwan">
-<!ENTITY doNotTrack.accesskey            "p">
 
 <!ENTITY systemDefaults.label            "Systɛm adaedi dada">
 <!--XXX-->

@@ -54,3 +54,27 @@
 
 <!ENTITY update.downloading.start   "Retwe Ntoso —">
 <!ENTITY update.downloading.end     "">
+<!-- LOCALIZATION NOTE (channel.description.start,channel.description.end): channel.description.start and
+     channel.description.end create one sentence, with the current channel label inserted in between.
+     example: You are currently on the _Stable_ update channel. -->
+
+<!ENTITY channel.description.start  "Seisei wo wɔ">
+<!ENTITY channel.description.end    "kyanɛl a wɔde yɛ ntoso no so.">
+
+<!ENTITY channel.change             "Sesa">
+
+<!ENTITY channel.release.description       "Fa reliis a wɔatwe mu ayɛ no yie a ɛtwa to, na amanfo mpempem de redi dwuma wɔ wiase afandaa nyinara, gye wo eni. Di wo ɔnlaen dwumadi nyinara so hene na brawse ntɛm ntɛmara.">
+<!ENTITY channel.beta.description          "Fa mfikya mono koraa a wɔetimtim di dwuma. Ma yɛn aso nte nea wo wɔ ka ama wɔde aboa ayɛ biribiara yie wɔ reliis a ɛtwa to koraa no mu.">
+<!ENTITY channel.aurora.description        "Fa akɔenim amono koraa a wɔaba na wɔnnsii pi yie di dwuma sɛ wo wɔ akokoduru a. Ma yɛn aso nte nea wo wɔ ka fa mfikya ne sɔftwɛɛ no ne mbɔdenbɔ ama yɛ ehu nea ɛbɛkɔ reliis a etwa to koraa no mu.">
+<!-- LOCALIZATION NOTE (channel.selector.start,channel.selector.end): channel.selector.start and
+     channel.selector.end create one sentence, with a channel selection menulist instered in between.
+     This is all in one line, so try to make the localized text short.
+     example: Switch to the [Stable] update channel. -->
+
+<!ENTITY channel.selector.start          "Swekye kɔ">
+<!ENTITY channel.selector.end            "kyanɛl a wɔde yɛ ntoso.">
+<!-- LOCALIZATION NOTE (channel.selector.applyButton): This button applies the user's choice to switch
+     to a new update channel and starts the application update process. -->
+
+<!ENTITY channel.selector.applyButton    "Fa hyɛ so na to so">
+<!ENTITY channel.selector.cancelButton   "Twa-mu">

@@ -76,9 +76,13 @@
 
 <!ENTITY cspFrameAncestorBlocked.title "Kɔntɛnt Sikuriti mbra esiw no kwan">
 <!ENTITY cspFrameAncestorBlocked.longDesc "<p>Brawsa no sii krataafa yi kwan sɛ obebue wɔ kwan yi so efiri sɛ krataafa no wɔ kɔntɛnt sikuriti mbra ɔmma ho kwan.</p>">
+
+<!ENTITY remoteXUL.title "XUL remoot">
+<!ENTITY remoteXUL.longDesc "<p><ul><li> Yɛsrɛ wo sɛ bisa wɔn a wɛbsaet yi yɛ wɔn de ma wɔnhwɛ asɛm yi ho asɛm nka.</li></ul></p>">
 <!-- Include app-specific error messages - do not change this in localization!
      Some applications might override netErrorApp.dtd with their specific version,
-     this inclusion needs to be intact for that approach to work correctly. -->
+     this inclusion needs to be intact for that approach to work correctly.
+     Please, try to keep this at the end of the file. -->
 
 <!ENTITY % netErrorAppDTD SYSTEM "chrome://global/locale/netErrorApp.dtd">
 %netErrorAppDTD;

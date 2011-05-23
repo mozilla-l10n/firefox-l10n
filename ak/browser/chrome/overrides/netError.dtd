@@ -149,3 +149,6 @@ functionality specific to firefox. -->
 
 <button id='getMeOutOfHereButton'>&securityOverride.getMeOutOfHereButton;</button> 
 <button id='exceptionDialogButton'>&securityOverride.exceptionButtonLabel;</button>">
+
+<!ENTITY remoteXUL.title "XUL remoot">
+<!ENTITY remoteXUL.longDesc "<p><ul><li> Yɛsrɛ wo sɛ bisa wɔn a wɛbsaet yi yɛ wɔn de ma wɔnhwɛ asɛm yi ho asɛm nka.</li></ul></p>">

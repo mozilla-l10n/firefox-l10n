@@ -1,3 +1,8 @@
+<!ENTITY tracking.label                 "Rehwɛ">
+
+<!ENTITY doNotTrack.label               "Ka kyerɛ nwɛbsaet nyinara sɛ me mmpɛ mɛ wɔhwɛ me ekyiri kwan">
+<!ENTITY doNotTrack.accesskey           "p">
+
 <!ENTITY  history.label                 "Abakɔsɛm">
 
 <!ENTITY  locationBar.label             "Baa Lokehyɛn">
@@ -29,7 +34,6 @@
 
 <!ENTITY  showCookies.label             "Kyerɛ Nkuki…">
 <!ENTITY  showCookies.accesskey         "K">
-
 
 <!ENTITY  historyHeader.pre.label          "&brandShortName; bɛ:">
 <!ENTITY  historyHeader.pre.accesskey      "b">
