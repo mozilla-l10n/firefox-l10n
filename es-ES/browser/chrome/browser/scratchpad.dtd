@@ -44,10 +44,10 @@
 <!ENTITY display.label "Mostrar">
 <!ENTITY display.accesskey "m">
 <!ENTITY display.key "l">
-<!ENTITY environmentMenu.label "Environment">
+<!ENTITY environmentMenu.label "Entorno">
 <!ENTITY environmentMenu.accesskey "N">
-<!ENTITY contentContext.label "Content">
-<!ENTITY contentContext.accesskey "C">
+<!ENTITY contentContext.label "Restringido">
+<!ENTITY contentContext.accesskey "s">
 <!ENTITY browserContext.label "Navegador">
 <!ENTITY browserContext.accesskey "v">
 <!ENTITY resetContext.label "Restablecer">
