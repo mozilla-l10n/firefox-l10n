@@ -30,11 +30,6 @@
 <!-- categories / views -->
 <!ENTITY view.search.label                    "Lorg">
 <!ENTITY view.discover.label                  "Faigh tuilleadain">
-<!ENTITY view.locales.label                   "Cànain">
-<!ENTITY view.searchengines.label             "Einnseanan-luirg">
-<!ENTITY view.features.label                  "Leudachain">
-<!ENTITY view.appearance2.label               "Riochd">
-<!ENTITY view.plugins.label                   "Plugain">
 <!ENTITY view.recentUpdates.label             "Ùraichaidhean faisg ort">
 <!ENTITY view.availableUpdates.label          "Ùrachaidhean a tha ri am faighinn">
 
