@@ -26,15 +26,14 @@
 <!ENTITY warning.updatesecurity.enable.label       "Włącz">
 <!ENTITY warning.updatesecurity.enable.tooltip     "Włącz sprawdzanie bezpieczeństwa aktualizacji dodatków">
 
+<!-- global informations -->
+<!ENTITY info.plugincheck.label                 "Sprawdź, czy zainstalowane wtyczki są aktualne">
+<!ENTITY info.plugincheck.tooltip               "Sprawdź, czy zainstalowane wtyczki są aktualne">
+
 <!-- categories / views -->
 <!-- LOCALIZATION NOTE: These should match the header-* entries in extensions.properties -->
 <!ENTITY view.search.label                    "Szukaj">
 <!ENTITY view.discover.label                  "Pobierz dodatki">
-<!ENTITY view.locales.label                   "Języki">
-<!ENTITY view.searchengines.label             "Wyszukiwarki">
-<!ENTITY view.features.label                  "Rozszerzenia">
-<!ENTITY view.appearance2.label               "Wygląd">
-<!ENTITY view.plugins.label                   "Wtyczki">
 <!ENTITY view.recentUpdates.label             "Ostatnie aktualizacje">
 <!ENTITY view.availableUpdates.label          "Dostępne aktualizacje">
 
