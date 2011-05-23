@@ -48,8 +48,8 @@
 <!ENTITY resetToolbars.label "صفّر الأشرطة و المفاتيح">
 <!ENTITY resetToolbars.accesskey "ش">
 
-<!ENTITY deleteBookmarks.label        "احذف جميع العلامات عدا النسخ الاحتياطية">
-<!ENTITY deleteBookmarks.accesskey    "ذ">
+<!ENTITY deleteBookmarks.label "احذف جميع العلامات عدا النسخ الاحتياطية">
+<!ENTITY deleteBookmarks.accesskey "ذ">
 
 <!ENTITY resetUserPrefs.label "صفّر كل خيارات المستخدم لمبدئيات &brandShortName;">
 <!ENTITY resetUserPrefs.accesskey "ف">
@@ -59,4 +59,3 @@
 
 <!ENTITY changeAndRestartButton.label "قم بالتغييرات و أعِد التشغيل">
 <!ENTITY continueButton.label "واصِل في الوضع الآمن">
- 

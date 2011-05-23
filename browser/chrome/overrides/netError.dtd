@@ -34,12 +34,9 @@
      since it could be in either the normal menu (Mac/Linux) or the Firefox button
      menu (Windows).
 -->
-<!ENTITY netOffline.overrideLongDesc "
-<ul>
-  <li>ألغِ تأشير العنصر &quot;اعمل بلا اتصال&quot; ثم حاول مجددًا.</li>
-</ul>
-">
-
+<!ENTITY netOffline.overrideLongDesc "<ul> 
+<li>ألغِ تأشير العنصر &quot;اعمل بلا اتصال&quot; ثم حاول مجددًا.</li> 
+</ul>">
 
 <!ENTITY contentEncodingError.title "خطأ في ترميز المحتوى">
 <!ENTITY contentEncodingError.longDesc "<ul> <li>من فضلك اتصل بمالكي الموقع لإعلامهم بهذه المشكلة.</li> </ul>">
@@ -88,24 +85,16 @@
 <!ENTITY securityOverride.linkText "أو يمكنك إضافة استثناء…">
 <!ENTITY securityOverride.getMeOutOfHereButton "أخرجني من هنا!">
 <!ENTITY securityOverride.exceptionButtonLabel "أضِف استثناءً…">
-<!-- LOCALIZATION NOTE (securityOverride.warningText) - Do not translate the
-contents of the <xul:button> tags.  The only language content is the label= field,
-which uses strings already defined above. The button is included here (instead of
-netError.xhtml) because it exposes functionality specific to firefox. -->
-
-
 <!-- LOCALIZATION NOTE (securityOverride.warningContent) - Do not translate the
 contents of the <button> tags. It uses strings already defined above. The
 button is included here (instead of netError.xhtml) because it exposes
 functionality specific to firefox. -->
 
-<!ENTITY securityOverride.warningContent "
-<p>لا ينبغي أن تضيف استثناءً إذا كنت تستخدم اتصال إنترنت لا تثق به كليًا أو إذا كانت غير معتاد على رؤية تحذير من هذا الخادوم.</p>
 
-<button id='getMeOutOfHereButton'>&securityOverride.getMeOutOfHereButton;</button>
-<button id='exceptionDialogButton'>&securityOverride.exceptionButtonLabel;</button>
-">
+<!ENTITY securityOverride.warningContent "<p>لا ينبغي أن تضيف استثناءً إذا كنت تستخدم اتصال إنترنت لا تثق به كليًا أو إذا كانت غير معتاد على رؤية تحذير من هذا الخادوم.</p> 
+ 
+<button id='getMeOutOfHereButton'>&securityOverride.getMeOutOfHereButton;</button> 
+<button id='exceptionDialogButton'>&securityOverride.exceptionButtonLabel;</button>">
 
 <!ENTITY remoteXUL.title "XUL بعيد">
 <!ENTITY remoteXUL.longDesc "<p><ul><li>الرجاء التواصل مع مالك الموقع لإبلاغه بهذه المشكلة.</li></ul></p>">
-
