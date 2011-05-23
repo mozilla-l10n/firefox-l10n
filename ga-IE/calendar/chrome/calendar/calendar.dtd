@@ -172,8 +172,8 @@
 <!ENTITY calendar.task-details.category.label "catagóir">
 <!ENTITY calendar.task-details.repeat.label "athdhéanamh">
 <!ENTITY calendar.task-details.attachments.label "iatáin">
-<!ENTITY calendar.task-details.start.label "start date">
-<!ENTITY calendar.task-details.due.label "due date">
+<!ENTITY calendar.task-details.start.label "dáta tosaithe">
+<!ENTITY calendar.task-details.due.label "dáta dlite">
 
 <!ENTITY calendar.task.category.button.tooltip "Catagóirigh tascanna">
 <!ENTITY calendar.task.complete.button.tooltip "Marcáil na tascanna roghnaithe mar chríochnaithe">
@@ -203,10 +203,10 @@
 <!ENTITY calendar.context.pasteevent.accesskey "r">
 <!ENTITY calendar.context.button.label "Pána an Lae Inniu">
 <!ENTITY calendar.context.button.accesskey "P">
-<!ENTITY calendar.context.attendance.menu.label "Attendance">
-<!ENTITY calendar.context.attendance.menu.accesskey "d">
-<!ENTITY calendar.context.attendance.occurrence.label "This Occurrence">
-<!ENTITY calendar.context.attendance.all.label "All Occurrences">
+<!ENTITY calendar.context.attendance.menu.label "Tinreamh">
+<!ENTITY calendar.context.attendance.menu.accesskey "T">
+<!ENTITY calendar.context.attendance.occurrence.label "An Tarlú Seo">
+<!ENTITY calendar.context.attendance.all.label "Gach Tarlú">
 <!-- Task Context Menu -->
 
 <!ENTITY calendar.context.progress.label "Dul Chun Cinn">

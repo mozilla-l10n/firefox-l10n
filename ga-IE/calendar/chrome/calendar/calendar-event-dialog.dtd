@@ -378,9 +378,9 @@
 
 <!ENTITY read.only.general.label "Ginearálta">
 <!ENTITY read.only.title.label "Teideal:">
-<!ENTITY read.only.event.start.label "Start Date:">
-<!ENTITY read.only.task.start.label "Start Date:">
-<!ENTITY read.only.event.end.label "End Date:">
+<!ENTITY read.only.event.start.label "Dáta Tosaithe:">
+<!ENTITY read.only.task.start.label "Dáta Tosaithe:">
+<!ENTITY read.only.event.end.label "Dáta Críochnaithe:">
 <!ENTITY read.only.task.due.label "Dáta Dlite:">
 <!ENTITY read.only.repeat.label "Athdhéan:">
 <!ENTITY read.only.location.label "Suíomh:">
