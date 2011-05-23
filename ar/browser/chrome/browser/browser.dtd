@@ -1,4 +1,4 @@
-<!-- LOCALIZATION NOTE : FILE this file contains the browser main menu items -->
+<!-- LOCALIZATION NOTE : FILE This file contains the browser main menu items -->
 <!-- LOCALIZATION NOTE : FILE Do not translate commandkeys --> 
 <!-- LOCALIZATION NOTE (mainWindow.title): DONT_TRANSLATE -->
 
@@ -10,37 +10,37 @@
 <!-- LOCALIZATION NOTE (mainWindow.titlePrivateBrowsingSuffix): This will be appended to the window's title
                                                                 inside the private browsing mode -->
 <!ENTITY mainWindow.titlePrivateBrowsingSuffix "(التصفح الخاص)">
-
 <!-- Tab context menu -->
-<!ENTITY  reloadTab.label                    "أعِد تحميل اللسان">
-<!ENTITY  reloadTab.accesskey                "ح">
-<!ENTITY  reloadAllTabs.label                "أعِد تحميل كل الألسنة">
-<!ENTITY  reloadAllTabs.accesskey            "ك">
-<!ENTITY  closeOtherTabs.label               "أغلق الألسنة الأخرى">
-<!ENTITY  closeOtherTabs.accesskey           "خ">
 
+<!ENTITY reloadTab.label "أعِد تحميل اللسان">
+<!ENTITY reloadTab.accesskey "ح">
+<!ENTITY reloadAllTabs.label "أعِد تحميل كل الألسنة">
+<!ENTITY reloadAllTabs.accesskey "ك">
+<!ENTITY closeOtherTabs.label "أغلق الألسنة الأخرى">
+<!ENTITY closeOtherTabs.accesskey "خ">
 <!-- LOCALIZATION NOTE (pinAppTab.label, unpinAppTab.label): "Pin" is being
 used as a metaphor for expressing the fact that these tabs are "pinned" to the
 left edge of the tabstrip. Really we just want the string to express the idea
 that this is a lightweight and reversible action that keeps your tab where you
 can reach it easily. -->
-<!ENTITY  pinAppTab.label                    "ثبّت اللسان">
-<!ENTITY  pinAppTab.accesskey                "ث">
-<!ENTITY  unpinAppTab.label                  "أفلِت اللسان">
-<!ENTITY  unpinAppTab.accesskey              "ف">
-<!ENTITY  moveToGroup.label                  "انقل إلى مجموعة">
-<!ENTITY  moveToGroup.accesskey              "ن">
-<!ENTITY  moveToNewGroup.label               "مجموعة جديدة">
-<!ENTITY  moveToNewWindow.label              "انقل إلى نافذة جديدة">
-<!ENTITY  moveToNewWindow.accesskey          "ذ">
-<!ENTITY  bookmarkAllTabs.label              "علّم كل الألسنة…">
-<!ENTITY  bookmarkAllTabs.accesskey          "س">
-<!ENTITY  undoCloseTab.label                 "أعِد فتح اللسان">
-<!ENTITY  undoCloseTab.accesskey             "د">
-<!ENTITY  closeTab.label                     "أغلِق اللسان">
-<!ENTITY  closeTab.accesskey                 "غ">
 
-<!ENTITY  listAllTabs.label      "اسرد كل الألسنة">
+<!ENTITY pinAppTab.label "ثبّت اللسان">
+<!ENTITY pinAppTab.accesskey "ث">
+<!ENTITY unpinAppTab.label "أفلِت اللسان">
+<!ENTITY unpinAppTab.accesskey "ف">
+<!ENTITY moveToGroup.label "انقل إلى مجموعة">
+<!ENTITY moveToGroup.accesskey "ن">
+<!ENTITY moveToNewGroup.label "مجموعة جديدة">
+<!ENTITY moveToNewWindow.label "انقل إلى نافذة جديدة">
+<!ENTITY moveToNewWindow.accesskey "ذ">
+<!ENTITY bookmarkAllTabs.label "علّم كل الألسنة…">
+<!ENTITY bookmarkAllTabs.accesskey "س">
+<!ENTITY undoCloseTab.label "أعِد فتح اللسان">
+<!ENTITY undoCloseTab.accesskey "د">
+<!ENTITY closeTab.label "أغلِق اللسان">
+<!ENTITY closeTab.accesskey "غ">
+
+<!ENTITY listAllTabs.label "اسرد كل الألسنة">
 
 <!ENTITY tabCmd.label "لسان جديد">
 <!ENTITY tabCmd.accesskey "ل">
@@ -121,44 +121,42 @@ can reach it easily. -->
 <!ENTITY stopCmd.macCommandKey ".">
 <!ENTITY stopButton.tooltip "أوقف تحميل هذه الصفحة">
 <!ENTITY goEndCap.tooltip "اذهب للعنوان في شريط الموقع">
-<!ENTITY feedButton.label             "اشترك">
-<!ENTITY feedButton.tooltip           "اشترك في هذه الصفحة…">
 <!ENTITY printButton.label "اطبع">
 <!ENTITY printButton.tooltip "اطبع هذه الصفحة">
 
-<!ENTITY backForwardItem.title        "خلف/أمام">
+<!ENTITY backForwardItem.title "خلف/أمام">
 <!ENTITY locationItem.title "المكان">
 <!ENTITY searchItem.title "ابحث">
 <!ENTITY throbberItem.title "مُوضح النشاط">
 <!ENTITY bookmarksItem.title "العلامات">
 <!-- Toolbar items --> 
 
-
-<!ENTITY appMenuButton.label          "القائمة">
-<!ENTITY appMenuButton.tooltip        "افتح قائمة &brandShortName;">
-
+<!ENTITY appMenuButton.label "القائمة">
+<!ENTITY appMenuButton.tooltip "افتح قائمة &brandShortName;">
 <!ENTITY homeButton.label "المنزل">
 
-<!ENTITY tabGroupsButton.label        "مجموعات الألسنة">
-<!ENTITY tabGroupsButton.tooltip      "صنّف الألسنة في مجموعات">
+<!ENTITY tabGroupsButton.label "مجموعات الألسنة">
+<!ENTITY tabGroupsButton.tooltip "صنّف الألسنة في مجموعات">
+
+<!ENTITY feedButton.label "اشترك">
+<!ENTITY feedButton.tooltip "اشترك في هذه الصفحة…">
 
 <!ENTITY bookmarksButton.label "العلامات">
 <!ENTITY bookmarksButton.tooltip "اعرض علاماتك">
-<!ENTITY bookmarksButton.accesskey  "ع">
+<!ENTITY bookmarksButton.accesskey "ع">
 <!ENTITY bookmarksCmd.commandkey "b">
 
-<!ENTITY bookmarksMenuButton.label          "العلامات">
-<!ENTITY bookmarksMenuButton.tooltip        "يظهر علاماتك">
+<!ENTITY bookmarksMenuButton.label "العلامات">
+<!ENTITY bookmarksMenuButton.tooltip "يظهر علاماتك">
 <!ENTITY bookmarksMenuButton.unsorted.label "العلامات غير المرتّبة">
-<!ENTITY viewBookmarksSidebar.label         "أظهِر في الشريط الجانبي">
-<!ENTITY viewBookmarksToolbar.label         "أظهِر شريط أدوات العلامات">
-
+<!ENTITY viewBookmarksSidebar.label "أظهِر في الشريط الجانبي">
+<!ENTITY viewBookmarksToolbar.label "أظهِر شريط أدوات العلامات">
 <!-- LOCALIZATION NOTE (bookmarksSidebarGtkCmd.commandkey): This command
   -  key should not contain the letters A-F, since these are reserved
   -  shortcut keys on Linux. -->
+
 <!ENTITY bookmarksGtkCmd.commandkey "o">
 <!ENTITY bookmarksWinCmd.commandkey "i">
-
 
 <!ENTITY historyButton.label "التأريخ">
 <!ENTITY historyButton.tooltip "اعرض الصفحات التي شاهدتها مؤخرًا">
@@ -179,36 +177,54 @@ can reach it easily. -->
 <!ENTITY downloadsUnix.commandkey "y">
 <!ENTITY addons.label "الإضافات">
 <!ENTITY addons.accesskey "ض">
-<!ENTITY addons.commandkey            "A">
+<!ENTITY addons.commandkey "A">
+
+<!ENTITY webDeveloperMenu.label "مطوّر وب">
+<!ENTITY webDeveloperMenu.accesskey "و">
 
 <!ENTITY errorConsoleCmd.label "معراض الأخطاء">
 <!ENTITY errorConsoleCmd.accesskey "م">
 <!ENTITY errorConsoleCmd.commandkey "j">
 
-<!ENTITY webConsoleCmd.label          "معراض الوب">
-<!ENTITY webConsoleCmd.accesskey      "و">
-<!ENTITY webConsoleCmd.commandkey     "k">
+<!ENTITY webConsoleCmd.label "معراض الوب">
+<!ENTITY webConsoleCmd.accesskey "و">
+<!ENTITY webConsoleCmd.commandkey "k">
 
-<!ENTITY inspectMenu.label            "فحص">
-<!ENTITY inspectMenu.accesskey        "ص">
-<!ENTITY inspectMenu.commandkey       "I">
+<!ENTITY inspectMenu.label "فحص">
+<!ENTITY inspectMenu.accesskey "ص">
+<!ENTITY inspectMenu.commandkey "I">
+<!-- LOCALIZATION NOTE (scratchpad.label): This menu item label appears
+  -  in the Tools menu. See bug 653093.
+  -  The Scratchpad is intended to provide a simple text editor for creating
+  -  and evaluating bits of JavaScript code for the purposes of function
+  -  prototyping, experimentation and convenient scripting.
+  -
+  -  It's quite possible that you won't have a good analogue for the word
+  -  "Scratchpad" in your locale. You should feel free to find a close
+  -  approximation to it or choose a word (or words) that means
+  -  "simple discardable text editor". -->
 
-<!ENTITY inspectPanelTitle.label      "HTML">
-<!ENTITY inspectButton.label          "افحص">
-<!ENTITY inspectButton.accesskey      "ف">
-<!ENTITY inspectNextButton.label      "التالي">
-<!ENTITY inspectNextButton.accesskey  "ت">
-<!ENTITY inspectPreviousButton.label  "السابق">
+<!ENTITY scratchpad.label "المفكرة البرمجية">
+<!ENTITY scratchpad.accesskey "ف">
+<!ENTITY scratchpad.keycode "VK_F4">
+<!ENTITY scratchpad.keytext "F4">
+
+<!ENTITY inspectPanelTitle.label "HTML">
+<!ENTITY inspectButton.label "افحص">
+<!ENTITY inspectButton.accesskey "ف">
+<!ENTITY inspectNextButton.label "التالي">
+<!ENTITY inspectNextButton.accesskey "ت">
+<!ENTITY inspectPreviousButton.label "السابق">
 <!ENTITY inspectPreviousButton.accesskey "س">
-<!ENTITY inspectStyleButton.label     "النمط">
+<!ENTITY inspectStyleButton.label "النمط">
 <!ENTITY inspectStyleButton.accesskey "ط">
-<!ENTITY inspectStylePanelTitle.label  "النمط">
+<!ENTITY inspectStylePanelTitle.label "النمط">
 <!-- LOCALIZATION NOTE (inspectObjectButton.label): This button label
   -  appears on the Inspector's toolbar. It is used to open and close the Object
   -  panel. There is also a label in inspector.properties for the panel
   -  titlebar: object.objectPanelTitle. -->
-<!ENTITY inspectObjectButton.label       "الكائن">
-<!ENTITY inspectObjectButton.accesskey   "ئ">
+<!ENTITY inspectObjectButton.label "الكائن">
+<!ENTITY inspectObjectButton.accesskey "ئ">
 
 <!ENTITY fileMenu.label "ملف">
 <!ENTITY fileMenu.accesskey "م">
@@ -244,28 +260,28 @@ can reach it easily. -->
 <!ENTITY preferencesCmdUnix.label "التفضيلات">
 <!ENTITY preferencesCmdUnix.accesskey "ف">
 
-<!ENTITY clearRecentHistory.label               "امسح التأريخ الحالي…">
-<!ENTITY clearRecentHistory.accesskey           "س">
-
+<!ENTITY clearRecentHistory.label "امسح التأريخ الحالي…">
+<!ENTITY clearRecentHistory.accesskey "س">
 <!-- LOCALIZATION NOTE : These two strings can share an access key beause they never appear together on the menu -->
-<!ENTITY privateBrowsingCmd.start.label         "ابدأ التصفح الخاص">
-<!ENTITY privateBrowsingCmd.start.accesskey     "ب">
-<!ENTITY privateBrowsingCmd.stop.label          "أوقف التصفح الخاص">
-<!ENTITY privateBrowsingCmd.stop.accesskey      "ف">
-<!ENTITY privateBrowsingCmd.commandkey          "P">
+
+<!ENTITY privateBrowsingCmd.start.label "ابدأ التصفح الخاص">
+<!ENTITY privateBrowsingCmd.start.accesskey "ب">
+<!ENTITY privateBrowsingCmd.stop.label "أوقف التصفح الخاص">
+<!ENTITY privateBrowsingCmd.stop.accesskey "ف">
+<!ENTITY privateBrowsingCmd.commandkey "P">
 
 <!ENTITY viewMenu.label "عرض">
 <!ENTITY viewMenu.accesskey "ع">
-<!ENTITY viewTabGroups.label            "مجموعات الألسنة">
-<!ENTITY viewTabGroups.accesskey        "م">
+<!ENTITY viewTabGroups.label "مجموعات الألسنة">
+<!ENTITY viewTabGroups.accesskey "م">
 <!ENTITY viewToolbarsMenu.label "أشرطة الأدوات">
 <!ENTITY viewToolbarsMenu.accesskey "ش">
 <!ENTITY viewSidebarMenu.label "الشريط الجانبي">
 <!ENTITY viewSidebarMenu.accesskey "ط">
 <!ENTITY viewCustomizeToolbar.label "خصص…">
 <!ENTITY viewCustomizeToolbar.accesskey "ص">
-<!ENTITY viewTabsOnTop.label            "الألسنة في الأعلى">
-<!ENTITY viewTabsOnTop.accesskey        "ع">
+<!ENTITY viewTabsOnTop.label "الألسنة في الأعلى">
+<!ENTITY viewTabsOnTop.accesskey "ع">
 
 <!ENTITY historyMenu.label "تأريخ">
 <!ENTITY historyMenu.accesskey "ت">
@@ -290,20 +306,19 @@ can reach it easily. -->
 <!ENTITY appMenuSafeMode.accesskey "ش">
 
 <!ENTITY openCmd.commandkey "l">
-
-<!ENTITY urlbar.placeholder           "اذهب إلى موقع وب">
-<!ENTITY urlbar.accesskey             "و">
-<!ENTITY urlbar.switchToTab.label     "انتقل إلى اللسان:">
+<!ENTITY urlbar.placeholder "اذهب إلى موقع وب">
+<!ENTITY urlbar.accesskey "و">
+<!ENTITY urlbar.switchToTab.label "انتقل إلى اللسان:">
 <!-- 
   Comment duplicated from browser-sets.inc:
 
   Search Command Key Logic works like this:
-  
+
   Unix: Ctrl+J (0.8, 0.9 support)
         Ctrl+K (cross platform binding)
-  Mac:  Ctrl+K (cross platform binding)
+  Mac:  Cmd+K (cross platform binding)
+        Cmd+Opt+F (platform convention)
   Win:  Ctrl+K (cross platform binding)
-        Ctrl+E (IE compat) 
 
   We support Ctrl+K on all platforms now and advertise it in the menu since it is
   our standard - it is a "safe" choice since it is near no harmful keys like "W" as
@@ -312,25 +327,23 @@ can reach it easily. -->
   is a fundamental keybinding and we are maintaining a XP binding so that it is easy
   for people to switch to Linux.
 
-  Do *not* tamper with these values without talking to ben@mozilla.org
-  
  -->
 
 <!ENTITY searchFocus.commandkey "k">
 <!ENTITY searchFocusUnix.commandkey "j">
 
-<!ENTITY tabView.commandkey           "e">
+<!ENTITY tabView.commandkey "e">
 
-<!ENTITY openLinkCmd.label "افتح الوصلة في نافذة جديدة">
-<!ENTITY openLinkCmd.accesskey "ج">
-<!ENTITY openLinkCmdInCurrent.label     "افتح الوصلة">
-<!ENTITY openLinkCmdInCurrent.accesskey "و">
 <!ENTITY openLinkCmdInTab.label "افتح الوصلة في لسان جديد">
 <!ENTITY openLinkCmdInTab.accesskey "ل">
-<!ENTITY openFrameCmd.label "افتح الإطار في نافذةٍ جديدة">
-<!ENTITY openFrameCmd.accesskey "ف">
+<!ENTITY openLinkCmd.label "افتح الوصلة في نافذة جديدة">
+<!ENTITY openLinkCmd.accesskey "ج">
+<!ENTITY openLinkCmdInCurrent.label "افتح الوصلة">
+<!ENTITY openLinkCmdInCurrent.accesskey "و">
 <!ENTITY openFrameCmdInTab.label "افتح الإطار في لسان جديد">
 <!ENTITY openFrameCmdInTab.accesskey "ل">
+<!ENTITY openFrameCmd.label "افتح الإطار في نافذةٍ جديدة">
+<!ENTITY openFrameCmd.accesskey "ف">
 <!ENTITY showOnlyThisFrameCmd.label "أظهر هذا الإطار فقط">
 <!ENTITY showOnlyThisFrameCmd.accesskey "ظ">
 <!ENTITY reloadCmd.commandkey "r">
@@ -353,8 +366,8 @@ can reach it easily. -->
 <!ENTITY reloadImageCmd.accesskey "ع">
 <!ENTITY viewImageCmd.label "اعرض الصورة">
 <!ENTITY viewImageCmd.accesskey "ص">
-<!ENTITY viewImageInfoCmd.label       "اعرض معلومات الصورة">
-<!ENTITY viewImageInfoCmd.accesskey   "ة">
+<!ENTITY viewImageInfoCmd.label "اعرض معلومات الصورة">
+<!ENTITY viewImageInfoCmd.accesskey "ة">
 <!ENTITY viewVideoCmd.label "اعرض الفديو">
 <!ENTITY viewVideoCmd.accesskey "ف">
 <!ENTITY viewBGImageCmd.label "اعرض صورة الخلفية">
@@ -422,14 +435,15 @@ can reach it easily. -->
 <!ENTITY mediaShowControls.accesskey "ز">
 <!ENTITY mediaHideControls.label "أخفِ أزرار التحكم">
 <!ENTITY mediaHideControls.accesskey "ك">
-<!ENTITY videoFullScreen.label       "ملء الشاشة">
-<!ENTITY videoFullScreen.accesskey   "ء">
-
+<!ENTITY videoFullScreen.label "ملء الشاشة">
+<!ENTITY videoFullScreen.accesskey "ء">
 <!-- LOCALIZATION NOTE :
 fullZoomEnlargeCmd.commandkey3, fullZoomReduceCmd.commandkey2 and
 fullZoomResetCmd.commandkey2 are alternative acceleration keys for zoom.
 If shift key is needed with your locale popular keyboard for them,
 you can use these alternative items. Otherwise, their values should be empty.  -->
+
+
 
 <!ENTITY fullZoomEnlargeCmd.label "قرّب">
 <!ENTITY fullZoomEnlargeCmd.accesskey "ق">
@@ -453,18 +467,19 @@ you can use these alternative items. Otherwise, their values should be empty.  -
 <!ENTITY fullZoom.label "قرّب">
 <!ENTITY fullZoom.accesskey "ر">
 
-<!ENTITY newTabButton.tooltip           "افتح لسانًا جديدًا">
+<!ENTITY newTabButton.tooltip "افتح لسانًا جديدًا">
 <!ENTITY newWindowButton.tooltip "افتح نافذة جديدة">
 <!ENTITY sidebarCloseButton.tooltip "أغلِق الشريط الجانبي">
 
 <!ENTITY cutButton.tooltip "قصّ">
 <!ENTITY copyButton.tooltip "انسخ">
 <!ENTITY pasteButton.tooltip "ألصق">
-<!ENTITY fullScreenButton.tooltip       "اعرض النافذة ملء الشاشة">
 
-<!ENTITY zoomOutButton.tooltip          "بعّد">
-<!ENTITY zoomInButton.tooltip           "قرّب">
-<!ENTITY zoomControls.label             "التحكم بالقرب والبعد">
+<!ENTITY fullScreenButton.tooltip "اعرض النافذة ملء الشاشة">
+
+<!ENTITY zoomOutButton.tooltip "بعّد">
+<!ENTITY zoomInButton.tooltip "قرّب">
+<!ENTITY zoomControls.label "التحكم بالقرب والبعد">
 
 <!ENTITY quitApplicationCmdWin.label "اخرج">
 <!ENTITY quitApplicationCmdWin.accesskey "خ">
@@ -520,7 +535,9 @@ you can use these alternative items. Otherwise, their values should be empty.  -
 
 <!ENTITY identity.unverifiedsite2 "لا يوفّر هذا الموقع معلومات الهويّة.">
 <!ENTITY identity.connectedTo "تتصل ب‍">
-<!--
+<!-- Localization note (identity.runBy) : This string appears between a
+domain name (above) and an organization name (below). E.g.
+
 example.com
 which is run by
 Example Enterprises, Inc.
@@ -539,17 +556,17 @@ just addresses the organization to follow, e.g. "This site is run by " -->
 <!-- Name for the tabs toolbar as spoken by screen readers.
      The word "toolbar" is appended automatically and should not be contained below! -->
 <!ENTITY tabsToolbar.label "ألسنة المتصفح">
-
 <!-- LOCALIZATION NOTE (syncTabsMenu.label): This appears in the history menu -->
-<!ENTITY syncTabsMenu.label     "ألسنة من حواسيب أخرى">
 
-<!ENTITY syncBrand.shortName.label    "تزامُن">
+<!ENTITY syncTabsMenu.label "ألسنة من حواسيب أخرى">
 
-<!ENTITY syncSetup.label              "إعداد &syncBrand.shortName.label;…">
-<!ENTITY syncSetup.accesskey          "د">
-<!ENTITY syncSyncNowItem.label        "زامِن الآن">
-<!ENTITY syncSyncNowItem.accesskey    "ز">
-<!ENTITY syncToolbarButton.label      "زامِن">
+<!ENTITY syncBrand.shortName.label "تزامُن">
 
-<!ENTITY addonBarCloseButton.tooltip  "أغلِق شريط الإضافات">
-<!ENTITY toggleAddonBarCmd.key        "/">
+<!ENTITY syncSetup.label "إعداد &syncBrand.shortName.label;…">
+<!ENTITY syncSetup.accesskey "د">
+<!ENTITY syncSyncNowItem.label "زامِن الآن">
+<!ENTITY syncSyncNowItem.accesskey "ز">
+<!ENTITY syncToolbarButton.label "زامِن">
+
+<!ENTITY addonBarCloseButton.tooltip "أغلِق شريط الإضافات">
+<!ENTITY toggleAddonBarCmd.key "/">

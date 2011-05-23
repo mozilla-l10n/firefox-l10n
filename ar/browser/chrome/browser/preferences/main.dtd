@@ -5,8 +5,8 @@
 <!ENTITY startupHomePage.label "اعرض صفحتي الرئيسية">
 <!ENTITY startupBlankPage.label "اعرض صفحة فارغة">
 <!ENTITY startupLastSession.label "اعرض نوافذي و ألسنتي من المرّة السابقة">
-<!ENTITY homepage.label            "الصفحة الرئيسية:">
-<!ENTITY homepage.accesskey        "ئ">
+<!ENTITY homepage.label "الصفحة الرئيسية:">
+<!ENTITY homepage.accesskey "ئ">
 <!ENTITY useCurrentPage.label "استخدم الصفحة الحالية">
 <!ENTITY useCurrentPage.accesskey "ح">
 <!ENTITY useMultiple.label "استخدم الصفحات الحالية">

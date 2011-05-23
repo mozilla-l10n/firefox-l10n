@@ -1,39 +1,40 @@
 <!-- The page shown when not logged in... -->
-<!ENTITY setupButton.label          "إعداد &syncBrand.fullName.label;">
-<!ENTITY setupButton.accesskey      "د">
-<!ENTITY weaveDesc.label            "يتيح &syncBrand.fullName.label; الوصول إلى علاماتك وتأريخك وكلمات السر والألسنة المفتوحة في جميع أجهزتك.">
-
+<!ENTITY setupButton.label "إعداد &syncBrand.fullName.label;">
+<!ENTITY setupButton.accesskey "د">
+<!ENTITY weaveDesc.label "يتيح &syncBrand.fullName.label; الوصول إلى علاماتك وتأريخك وكلمات السر والألسنة المفتوحة في جميع أجهزتك.">
+<!-- The page shown when logged in... -->
 <!-- Login error feedback -->
-<!ENTITY updatePass.label             "حدِّث">
-<!ENTITY resetPass.label              "صفّر">
 
+
+<!ENTITY updatePass.label "حدِّث">
+<!ENTITY resetPass.label "صفّر">
 <!-- Manage Account -->
-<!ENTITY manageAccount.label          "أدِر الحساب">
-<!ENTITY manageAccount.accesskey      "س">
-<!ENTITY viewQuota.label              "اعرض الحصة">
-<!ENTITY changePassword.label         "غيّر كلمة السر">
-<!ENTITY mySyncKey.label              "مفتاح المزامنة">
-<!ENTITY resetSync.label              "صفّر التزامن">
-<!ENTITY addDevice.label              "أضِف جهازًا">
 
-<!-- Sync Settings -->
-<!ENTITY syncComputerName.label       "اسم الحاسوب:">
-<!ENTITY syncComputerName.accesskey   "ح">
+<!ENTITY manageAccount.label "أدِر الحساب">
+<!ENTITY manageAccount.accesskey "س">
+<!ENTITY viewQuota.label "اعرض الحصة">
+<!ENTITY changePassword.label "غيّر كلمة السر">
+<!ENTITY mySyncKey.label "مفتاح المزامنة">
+<!ENTITY resetSync.label "صفّر التزامن">
+<!ENTITY addDevice.label "أضِف جهازًا">
 
-<!ENTITY syncMy.label               "زامِن">
-<!ENTITY engine.bookmarks.label     "علاماتي">
+<!ENTITY syncMy.label "زامِن">
+<!ENTITY engine.bookmarks.label "علاماتي">
 <!ENTITY engine.bookmarks.accesskey "م">
-<!ENTITY engine.tabs.label          "ألسنتي">
-<!ENTITY engine.tabs.accesskey      "ت">
-<!ENTITY engine.history.label       "تأريخي">
-<!ENTITY engine.history.accesskey   "خ">
-<!ENTITY engine.passwords.label     "كلمات السر">
+<!ENTITY engine.tabs.label "ألسنتي">
+<!ENTITY engine.tabs.accesskey "ت">
+<!ENTITY engine.history.label "تأريخي">
+<!ENTITY engine.history.accesskey "خ">
+<!ENTITY engine.passwords.label "كلمات السر">
 <!ENTITY engine.passwords.accesskey "ر">
-<!ENTITY engine.prefs.label         "تفضيلاتي">
-<!ENTITY engine.prefs.accesskey     "ض">
+<!ENTITY engine.prefs.label "تفضيلاتي">
+<!ENTITY engine.prefs.accesskey "ض">
+<!-- Device Settings -->
 
-<!ENTITY deactivateDevice.label       "ألغِ تنشيط هذا الجهاز">
-
+<!ENTITY syncComputerName.label "اسم الحاسوب:">
+<!ENTITY syncComputerName.accesskey "ح">
+<!ENTITY deactivateDevice.label "ألغِ تنشيط هذا الجهاز">
 <!-- Footer stuff -->
-<!ENTITY prefs.tosLink.label        "بنود الخدمة">
-<!ENTITY prefs.ppLink.label         "سياسة الخصوصية">
+
+<!ENTITY prefs.tosLink.label "بنود الخدمة">
+<!ENTITY prefs.ppLink.label "سياسة الخصوصية">

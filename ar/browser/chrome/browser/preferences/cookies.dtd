@@ -3,7 +3,7 @@
 <!ENTITY cookiesonsystem.label "الكعكات التّالية مخزّنة على حاسوبك:">
 <!ENTITY cookiename.label "اسم الكعكة">
 <!ENTITY cookiedomain.label "الموقع">
-<!ENTITY     button.removecookies.label     "أزِل الكعكات">
+<!ENTITY button.removecookies.label "أزِل الكعكات">
 <!ENTITY button.removecookie.label "أزل الكعكة">
 <!ENTITY button.removecookie.accesskey "ل">
 <!ENTITY button.removeallcookies.label "أزل كل الكعكات">

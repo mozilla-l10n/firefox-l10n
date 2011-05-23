@@ -1,4 +1,4 @@
-<!ENTITY quota.dialogTitle.label    "حصة الخادوم">
+<!ENTITY quota.dialogTitle.label "حصة الخادوم">
 <!ENTITY quota.retrievingInfo.label "يستخرج معلومات الحصة…">
-<!ENTITY quota.typeColumn.label     "النوع">
-<!ENTITY quota.sizeColumn.label     "الحجم">
+<!ENTITY quota.typeColumn.label "النوع">
+<!ENTITY quota.sizeColumn.label "الحجم">

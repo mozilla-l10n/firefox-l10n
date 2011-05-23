@@ -7,30 +7,14 @@
 
 <!ENTITY importFromIE.label "مايكروسوفت إنترنت إكسبلورر">
 <!ENTITY importFromIE.accesskey "م">
-<!ENTITY importFromPhoenix.label "فَيَرفُكس 0.8، فيربرد أو فيونكس">
-<!ENTITY importFromPhoenix.accesskey "ف">
 <!ENTITY importFromNothing.label "لا تستورد أي شيء">
 <!ENTITY importFromNothing.accesskey "ل">
 <!ENTITY importFromSeamonkey.label "نتسكيب 6,7 أو موزيلا 1.*">
 <!ENTITY importFromSeamonkey.accesskey "ن">
-<!ENTITY importFromNetscape4.label "نتسكيب 4.*">
-<!ENTITY importFromNetscape4.accesskey "4">
 <!ENTITY importFromOpera.label "أوبرا">
 <!ENTITY importFromOpera.accesskey "ر">
-<!ENTITY importFromCamino.label "كامينو">
-<!ENTITY importFromCamino.accesskey "و">
 <!ENTITY importFromSafari.label "سافاري">
 <!ENTITY importFromSafari.accesskey "س">
-<!ENTITY importFromOmniWeb.label "أُمني وِب">
-<!ENTITY importFromOmniWeb.accesskey "ي">
-<!ENTITY importFromICab.label "آيكاب">
-<!ENTITY importFromICab.accesskey "آ">
-<!ENTITY importFromKonqueror.label "كُنكَرر">
-<!ENTITY importFromKonqueror.accesskey "ك">
-<!ENTITY importFromEpiphany.label "إبِفني">
-<!ENTITY importFromEpiphany.accesskey "إ">
-<!ENTITY importFromGaleon.label "جاليون">
-<!ENTITY importFromGaleon.accesskey "ج">
 <!ENTITY importFromHTMLFile.label "من ملف HTML">
 <!ENTITY importFromHTMLFile.accesskey "م">
 
