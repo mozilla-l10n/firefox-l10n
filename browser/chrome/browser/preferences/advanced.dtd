@@ -26,7 +26,7 @@
 <!ENTITY alwaysCheckDefault.label        "Wylst it opstarten altyd kontrolearje oft &brandShortName; de standert browser is"><!--XXX-->
 <!ENTITY alwaysCheckDefault.accesskey    "W">
 <!ENTITY checkNow.label                  "No kontrolearje">
-<!ENTITY checkNow.accesskey              "N">
+<!ENTITY checkNow.accesskey              "k">
 <!ENTITY submitCrashes.label             "Ungelokrapport yntsjinje">
 <!ENTITY submitCrashes.accesskey         "U">
 
@@ -103,5 +103,5 @@
 <!ENTITY viewCRLs.accesskey             "Y">
 <!ENTITY verify2.label                 "Ferifikaasje">
 <!ENTITY verify2.accesskey             "F">
-<!ENTITY viewSecurityDevices.label      "Feiligheidsapparaten">
-<!ENTITY viewSecurityDevices.accesskey  "h">
+<!ENTITY viewSecurityDevices.label      "Feilichheidsapparaten">
+<!ENTITY viewSecurityDevices.accesskey  "p">
