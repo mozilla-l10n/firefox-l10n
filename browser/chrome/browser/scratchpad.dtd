@@ -65,6 +65,10 @@
 <!ENTITY inspect.accesskey            "I">
 <!ENTITY inspect.key                  "i">
 
+<!ENTITY display.label                "Attēlot">
+<!ENTITY display.accesskey            "t">
+<!ENTITY display.key                  "l">
+
 <!ENTITY executeMenu.label            "Izpildīt">
 <!ENTITY executeMenu.accesskey        "d">
 
@@ -87,6 +91,9 @@
 
 <!ENTITY toolsMenu.label              "Rīki">
 <!ENTITY toolsMenu.accesskey          "r">
+
+<!ENTITY environmentMenu.label        "Vide">
+<!ENTITY environmentMenu.accesskey    "V">
 
 <!ENTITY errorConsoleCmd.label        "Kļūdu konsole">
 <!ENTITY errorConsoleCmd.accesskey    "d">
