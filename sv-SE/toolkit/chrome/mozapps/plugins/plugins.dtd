@@ -51,10 +51,14 @@
 
 <!ENTITY pluginWizard.finalPage.moreInfo.label               "Mer info om insticksmoduler, eller sök själv efter saknade insticksmoduler.">
 <!ENTITY pluginWizard.finalPage.restart.label                "&brandShortName; måste startas om för att insticksmodulerna ska fungera.">
-  
-<!ENTITY missingPlugin.label                                 "Klicka här för att hämta insticksmodulen.">
-<!ENTITY disabledPlugin.label                                "Insticksmodulen för den här typen av innehåll har inaktiverats. Klicka här för att hantera dina insticksmoduler.">
+
+<!ENTITY missingPlugin                                       "En insticksmodul behövs för att visa innehållet.">
+<!ENTITY disabledPlugin                                      "Instickmodulen har inaktiverats.">
 <!ENTITY blockedPlugin.label                                 "Den här insticksmodulen är blockerad av säkerhetsskäl.">
+
+<!ENTITY installPlugin                                       "Installera insticksmodul…">
+<!ENTITY managePlugins                                       "Hantera insticksmoduler…">
+
 <!-- LOCALIZATION NOTE (reloadPlugin.pre): include a trailing space as needed -->
 <!-- LOCALIZATION NOTE (reloadPlugin.middle): avoid leading/trailing spaces, this text is a link -->
 <!-- LOCALIZATION NOTE (reloadPlugin.post): include a starting space as needed -->
