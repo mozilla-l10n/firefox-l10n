@@ -26,6 +26,9 @@
 <!ENTITY updates.checkForUpdates.label "Guetar anovamientos">
 <!ENTITY updates.checkForUpdates.accesskey "G">
 <!ENTITY updates.viewUpdates.label "Ver anovamientos recientes">
+<!-- global informations -->
+<!ENTITY info.plugincheck.label                 "Comprobar si los tos complementos tán desfasaos">
+<!ENTITY info.plugincheck.tooltip               "Comprobar si los tos complementos tán desfasaos">
 <!ENTITY updates.viewUpdates.accesskey "V">
 <!ENTITY updates.updateAddonsAutomatically.label "Anovar complementos automáticamente">
 <!ENTITY updates.updateAddonsAutomatically.accesskey "A">

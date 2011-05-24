@@ -21,7 +21,14 @@
 <!ENTITY pluginWizard.finalPage.restart.label                "Necesítase reaniciar &brandShortName; pa que furrulen los plugins.">
   
 <!ENTITY missingPlugin.label                                 "Calcar equí pa descargar el plugin.">
-<!ENTITY disabledPlugin.label                                "Desactivóse'l plugin pa esti conteníu. Calque equí p'alministrar los sos plugins.">
+<!ENTITY disabledPlugin                                      "Esti plugin ta desactiváu.">
+
+<!ENTITY missingPlugin                                       "Necesítase un plugin p'amosar esti conteníu.">
+<!ENTITY installPlugin                                       "Instalar plugin…">
+<!ENTITY managePlugins                                       "Xestionar plugins…">
+
+
+
 <!ENTITY blockedPlugin.label                                 "Bloquióse esti plugin pa la so proteición.">
 <!-- LOCALIZATION NOTE (reloadPlugin.pre): include a trailing space as needed -->
 <!-- LOCALIZATION NOTE (reloadPlugin.middle): avoid leading/trailing spaces, this text is a link -->
