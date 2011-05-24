@@ -12,92 +12,108 @@
   -  "simple discardable text editor". -->
 <!ENTITY window.title                 "Scratchpad">
 
-<!ENTITY fileMenu.label               "File">
-<!ENTITY fileMenu.accesskey           "F">
+<!ENTITY fileMenu.label               "Archivo">
+<!ENTITY fileMenu.accesskey           "A">
 
-<!ENTITY newWindowCmd.label           "New Window">
+<!ENTITY newWindowCmd.label           "Nueva ventana">
 <!ENTITY newWindowCmd.accesskey       "N">
 <!ENTITY newWindowCmd.commandkey      "n">
 
-<!ENTITY openFileCmd.label            "Open File…">
-<!ENTITY openFileCmd.accesskey        "O">
+<!ENTITY openFileCmd.label            "Abrir archivo…">
+<!ENTITY openFileCmd.accesskey        "b">
 <!ENTITY openFileCmd.commandkey       "o">
 
-<!ENTITY saveFileCmd.label            "Save">
-<!ENTITY saveFileCmd.accesskey        "S">
+<!ENTITY saveFileCmd.label            "Guardar">
+<!ENTITY saveFileCmd.accesskey        "G">
 <!ENTITY saveFileCmd.commandkey       "s">
 
-<!ENTITY saveFileAsCmd.label          "Save As…">
-<!ENTITY saveFileAsCmd.accesskey      "A">
+<!ENTITY saveFileAsCmd.label          "Guardar como…">
+<!ENTITY saveFileAsCmd.accesskey      "o">
 
-<!ENTITY closeCmd.label               "Close">
-<!ENTITY closeCmd.key                 "W">
+<!ENTITY closeCmd.label               "Cerrar">
+<!ENTITY closeCmd.key                 "C">
 <!ENTITY closeCmd.accesskey           "C">
 
-<!ENTITY editMenu.label               "Edit">
+<!ENTITY editMenu.label               "Editar">
 <!ENTITY editMenu.accesskey           "E">
 
-<!ENTITY undoCmd.label                "Undo">
+<!ENTITY undoCmd.label                "Deshacer">
 <!ENTITY undoCmd.key                  "Z">
-<!ENTITY undoCmd.accesskey            "U">
+<!ENTITY undoCmd.accesskey            "D">
 
-<!ENTITY redoCmd.label                "Redo">
+<!ENTITY redoCmd.label                "Rehacer">
 <!ENTITY redoCmd.key                  "Y">
 <!ENTITY redoCmd.accesskey            "R">
 
-<!ENTITY cutCmd.label                 "Cut">
+<!ENTITY cutCmd.label                 "Cortar">
 <!ENTITY cutCmd.key                   "X">
 <!ENTITY cutCmd.accesskey             "t">
 
-<!ENTITY copyCmd.label                "Copy">
+<!ENTITY copyCmd.label                "Copiar">
 <!ENTITY copyCmd.key                  "C">
 <!ENTITY copyCmd.accesskey            "C">
 
-<!ENTITY pasteCmd.label               "Paste">
+<!ENTITY pasteCmd.label               "Pegar">
 <!ENTITY pasteCmd.key                 "V">
 <!ENTITY pasteCmd.accesskey           "P">
 
-<!ENTITY selectAllCmd.label           "Select All">
+<!ENTITY selectAllCmd.label           "Seleccionar todo">
 <!ENTITY selectAllCmd.key             "A">
-<!ENTITY selectAllCmd.accesskey       "A">
+<!ENTITY selectAllCmd.accesskey       "a">
 
-<!ENTITY execute.label                "Execute">
-<!ENTITY execute.accesskey            "E">
-<!ENTITY execute.key                  "t">
+<!ENTITY run.label                    "Ejecutar">
+<!ENTITY run.accesskey                "E">
+<!ENTITY run.key                      "r">
 
-<!ENTITY inspect.label                "Inspect">
+<!ENTITY inspect.label                "Inspeccionar">
 <!ENTITY inspect.accesskey            "I">
 <!ENTITY inspect.key                  "i">
 
-<!ENTITY print.label                  "Print">
-<!ENTITY print.accesskey              "p">
-<!ENTITY print.key                    "r">
+<!ENTITY display.label                "Mostrar">
+<!ENTITY display.accesskey            "M">
+<!ENTITY display.key                  "l">
 
-<!ENTITY contextMenu.label            "Context">
-<!ENTITY contextMenu.accesskey        "C">
+<!-- LOCALIZATION NOTE (environmentMenu.label, accesskey): This menu item was
+  -  renamed from "Context" to avoid confusion with the right-click context
+  -  menu in the text area. It refers to the JavaScript Environment (or context)
+  -  the user is evaluating against. I.e., Content (current tab) or Chrome
+  -  (browser).
+  -->
+<!ENTITY environmentMenu.label        "Entorno">
+<!ENTITY environmentMenu.accesskey    "n">
 
-<!ENTITY contentContext.label         "Content">
+
+<!ENTITY contentContext.label         "Contenido">
 <!ENTITY contentContext.accesskey     "C">
 
-<!ENTITY chromeContext.label          "Chrome">
-<!ENTITY chromeContext.accesskey      "H">
+<!-- LOCALIZATION NOTE (browserContext.label, accesskey): This menu item is used
+  -  to select an execution environment for the browser window itself as opposed
+  -  to content. This is a feature for browser and addon developers and only
+  -  enabled via the devtools.chrome.enabled preference. Formerly, this label
+  -  was called "Chrome".
+  -->
+<!ENTITY browserContext.label         "Navegador">
+<!ENTITY browserContext.accesskey     "N">
 
 <!-- LOCALIZATION NOTE (resetContext.label): This command allows the developer
   -  to reset/clear the global object of the context where the code executes.
   -->
-<!ENTITY resetContext.label           "Reset">
+<!ENTITY resetContext.label           "Reiniciar">
 <!ENTITY resetContext.accesskey       "R">
 
-<!ENTITY toolsMenu.label              "Tools">
-<!ENTITY toolsMenu.accesskey          "T">
+<!ENTITY executeMenu.label            "Ejecutar">
+<!ENTITY executeMenu.accesskey        "j">
 
-<!ENTITY errorConsoleCmd.label        "Error Console">
+<!ENTITY toolsMenu.label              "Herramientas">
+<!ENTITY toolsMenu.accesskey          "t">
+
+<!ENTITY errorConsoleCmd.label        "Consola de errores">
 <!ENTITY errorConsoleCmd.accesskey    "C">
 <!ENTITY errorConsoleCmd.commandkey   "j">
 
-<!ENTITY webConsoleCmd.label          "Web Console">
-<!ENTITY webConsoleCmd.accesskey      "W">
+<!ENTITY webConsoleCmd.label          "Consola web">
+<!ENTITY webConsoleCmd.accesskey      "w">
 <!ENTITY webConsoleCmd.commandkey     "k">
 
-<!ENTITY textbox.placeholder          "// Enter some JavaScript, select it, right click and select Execute, Inspect or Print.">
+<!ENTITY textbox.placeholder          "// Inrese algo de JavaScript, selecciónelo, clic derecho y seleccione Ejecutar, Inspeccionar o Mostrar.">
 
