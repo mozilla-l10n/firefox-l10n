@@ -20,7 +20,6 @@
 <!ENTITY pluginWizard.finalPage.moreInfo.label               "Más al rodiu de Plugins o guetar manualmente los plugins que falten.">
 <!ENTITY pluginWizard.finalPage.restart.label                "Necesítase reaniciar &brandShortName; pa que furrulen los plugins.">
   
-<!ENTITY missingPlugin.label                                 "Calcar equí pa descargar el plugin.">
 <!ENTITY disabledPlugin                                      "Esti plugin ta desactiváu.">
 
 <!ENTITY missingPlugin                                       "Necesítase un plugin p'amosar esti conteníu.">
