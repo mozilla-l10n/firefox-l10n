@@ -44,7 +44,7 @@
 <!ENTITY syncKeyEntry.label        "Twój klucz">
 <!ENTITY syncKeyEntry.label        "Twój klucz Sync">
 <!ENTITY syncKeyEntry.accesskey    "k">
-<!ENTITY syncKeyGenerate.label     "Wygeneruj">
+<!ENTITY syncGenerateNewKey.label  "Wygeneruj nowy klucz">
 <!ENTITY syncKeyBackup.description "Klucz jest niezbędny, by uzyskać dostęp do usługi &syncBrand.fullName.label; na innych urządzeniach. Utwórz kopię zapasową klucza. W razie jego utraty nie będziemy w stanie pomóc ci go odzyskać.">
 
 <!ENTITY button.syncKeyBackup.print.label     "Wydrukuj…">

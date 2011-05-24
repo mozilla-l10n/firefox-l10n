@@ -6,12 +6,9 @@
 <!ENTITY organize.accesskey     "Z">
 <!ENTITY organize.tooltip       "Zarządzaj zakładkami">
 
-<!ENTITY file.accesskey   "P">
 <!ENTITY file.close.label   "Zamknij">
 <!ENTITY file.close.accesskey   "Z">
 <!ENTITY cmd.close.key   "w">
-<!ENTITY edit.label   "Edycja">
-<!ENTITY edit.accesskey   "E">
 <!ENTITY views.label   "Widoki">
 <!ENTITY views.accesskey   "W">
 <!ENTITY views.tooltip                  "Zmień widok">
@@ -77,8 +74,6 @@
 
 <!ENTITY cmd.reloadLivebookmark.label   "Odśwież dynamiczną zakładkę">
 <!ENTITY cmd.reloadLivebookmark.accesskey   "d">
-<!ENTITY cmd.reloadMicrosummary.label   "Odśwież dynamiczny tytuł">
-<!ENTITY cmd.reloadMicrosummary.accesskey   "d">
 
 <!ENTITY cmd.moveBookmarks.label          "Przenieś…">
 <!ENTITY cmd.moveBookmarks.accesskey          "P">
@@ -114,17 +109,13 @@
 <!ENTITY maintenance.accesskey  "I">
 <!ENTITY maintenance.tooltip    "Importuj zakładki lub utwórz ich kopie zapasowe">
 
-<!ENTITY backCmd.label   "Wstecz">
 <!ENTITY backButton.tooltip   "Przejdź wstecz">
-
-<!ENTITY forwardCmd.label   "Do przodu">
 <!ENTITY forwardButton.tooltip   "Przejdź do przodu">
 
 <!ENTITY detailsPane.more.label  "Więcej">
 <!ENTITY detailsPane.more.accesskey "e">
 <!ENTITY detailsPane.less.label  "Mniej">
 <!ENTITY detailsPane.less.accesskey "e">
-<!ENTITY detailsPane.noPreviewAvailable.label  "Podgląd">
 <!ENTITY detailsPane.selectAnItemText.description  "Zaznacz element, by wyświetlić i edytować jego właściwości">
 
 <!ENTITY find.label               "Znajdź:">

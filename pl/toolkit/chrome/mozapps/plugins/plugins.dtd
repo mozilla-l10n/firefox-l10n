@@ -20,9 +20,12 @@
 <!ENTITY pluginWizard.finalPage.moreInfo.label               "Dowiedz się więcej o wtyczkach lub ręcznie wyszukaj brakujące.">
 <!ENTITY pluginWizard.finalPage.restart.label                "Aby wtyczka została uruchomiona, niezbędne jest ponowne uruchomienie programu &brandShortName;.">
 
-<!ENTITY missingPlugin.label                                 "Kliknij tutaj, aby pobrać wtyczkę.">
-<!ENTITY disabledPlugin.label                                "Wtyczka obsługująca treść tego rodzaju została wyłączona. Kliknij, by zarządzać wtyczkami.">
+<!ENTITY missingPlugin                                       "Do wyświetlenia treści tego typu konieczna jest wtyczka.">
+<!ENTITY disabledPlugin                                      "Ta wtyczka jest wyłączona">
 <!ENTITY blockedPlugin.label                                 "Wtyczka zablokowana z przyczyn bezpieczeństwa.">
+
+<!ENTITY installPlugin                                       "Zainstaluj wtyczkę…">
+<!ENTITY managePlugins                                       "Zarządzaj wtyczkami…">
 
 <!-- LOCALIZATION NOTE (reloadPlugin.pre): include a trailing space as needed -->
 <!-- LOCALIZATION NOTE (reloadPlugin.middle): avoid leading/trailing spaces, this text is a link -->
