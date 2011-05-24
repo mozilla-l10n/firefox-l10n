@@ -43,7 +43,7 @@
 <!ENTITY setup.newSyncKeyPage.description.label "För att skydda din personliga integritet kommer all data att krypteras innan den skickas till servern. Sync-nyckeln som du använder för att dekryptera datan kommer inte skickas.">
 <!ENTITY syncKeyEntry.label        "Din Sync-nyckel">
 <!ENTITY syncKeyEntry.accesskey    "D">
-<!ENTITY syncKeyGenerate.label     "Generera">
+<!ENTITY syncGenerateNewKey.label  "Generera en ny nyckel">
 <!ENTITY syncKeyBackup.description "Din Sync-nyckel behövs för att använda &syncBrand.fullName.label; på din andra enheter. Du bör skapa en säkerhetskopia av nyckeln. Vi kan inte hjälpa dig att återskapa en borttappad Sync-nyckel.">
 
 <!ENTITY button.syncKeyBackup.print.label     "Skriv ut…">

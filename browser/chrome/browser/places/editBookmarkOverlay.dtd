@@ -6,7 +6,6 @@
 <!ENTITY editBookmarkOverlay.feedLocation.accesskey          "K">
 <!ENTITY editBookmarkOverlay.siteLocation.label              "Platsadress:">
 <!ENTITY editBookmarkOverlay.siteLocation.accesskey          "P">
-<!ENTITY editBookmarkOverlay.liveTitlesSeparator.label       "Aktiva titlar">
 <!ENTITY editBookmarkOverlay.folder.label                    "Mapp:">
 <!ENTITY editBookmarkOverlay.foldersExpanderDown.tooltip     "Visa alla bokmärkesmappar">
 <!ENTITY editBookmarkOverlay.expanderUp.tooltip              "Dölj">

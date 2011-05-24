@@ -315,10 +315,10 @@
 <!ENTITY prevUnreadMsgCmd.key "p">
 <!ENTITY goBackCmd.label "Bakåt">
 <!ENTITY goBackCmd.accesskey "B">
-<!ENTITY goBackCmd.commandKey "[">
+<!ENTITY goBackCmd.commandKey "Ö">
 <!ENTITY goForwardCmd.label "Framåt">
 <!ENTITY goForwardCmd.accesskey "F">
-<!ENTITY goForwardCmd.commandKey "]">
+<!ENTITY goForwardCmd.commandKey "Ä">
 <!ENTITY prevFlaggedMsgCmd.label "Flaggade meddelande">
 <!ENTITY prevFlaggedMsgCmd.accesskey "F">
 <!ENTITY startPageCmd.label "Startsida för E-post">

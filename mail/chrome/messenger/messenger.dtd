@@ -43,9 +43,6 @@
 <!ENTITY closeTabCmd2.accesskey "S">
 <!ENTITY closeOtherTabsCmd2.label "Stäng andra flikar">
 <!ENTITY closeOtherTabsCmd2.accesskey "a">
-<!-- LOCALIZATION NOTE (undoCloseTabCmd.label):
-     Menu option to attempt to re-open a recently closed tab.
-     -->
 <!ENTITY recentlyClosedTabsCmd.label "Nyligen stängda flikar">
 <!ENTITY recentlyClosedTabsCmd.accesskey "N">
 
