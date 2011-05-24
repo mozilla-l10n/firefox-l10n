@@ -257,6 +257,9 @@ can reach it easily. -->
 <!ENTITY inspectObjectButton.label       "Objekt">
 <!ENTITY inspectObjectButton.accesskey   "O">
 
+<!ENTITY getMoreDevtoolsCmd.label        "Hämta fler verktyg">
+<!ENTITY getMoreDevtoolsCmd.accesskey    "H">
+
 <!ENTITY fileMenu.label         "Arkiv"> 
 <!ENTITY fileMenu.accesskey       "A">
 <!ENTITY newNavigatorCmd.label        "Nytt fönster">
