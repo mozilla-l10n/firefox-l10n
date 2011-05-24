@@ -131,6 +131,8 @@
 <!ENTITY keywordfield.accesskey "v">
 <!ENTITY search.label "Guetar na web">
 <!ENTITY search.accesskey "G">
+<!ENTITY getMoreDevtoolsCmd.label        "Más Ferramientes">
+<!ENTITY getMoreDevtoolsCmd.accesskey    "M">
 <!ENTITY downloads.label "Descargues">
 <!ENTITY downloads.tooltip "Amuesa'l progresu de les descargues en cursu">
 <!ENTITY downloads.accesskey "D">
