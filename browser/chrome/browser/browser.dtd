@@ -226,6 +226,9 @@ can reach it easily. -->
 <!ENTITY inspectObjectButton.label       "物件">
 <!ENTITY inspectObjectButton.accesskey   "O">
 
+<!ENTITY getMoreDevtoolsCmd.label        "取得更多工具">
+<!ENTITY getMoreDevtoolsCmd.accesskey    "M">
+
 <!ENTITY fileMenu.label         "檔案"> 
 <!ENTITY fileMenu.accesskey       "F">
 <!ENTITY newNavigatorCmd.label        "開新視窗">
