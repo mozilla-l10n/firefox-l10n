@@ -235,6 +235,10 @@ can reach it easily. -->
   -  titlebar: object.objectPanelTitle. -->
 <!ENTITY inspectObjectButton.label       "Obiekt">
 <!ENTITY inspectObjectButton.accesskey   "O">
+
+<!ENTITY getMoreDevtoolsCmd.label        "Pobierz więcej narzędzi">
+<!ENTITY getMoreDevtoolsCmd.accesskey    "P">
+    
 <!ENTITY fileMenu.label "Plik" >
 <!ENTITY fileMenu.accesskey "P" >
 <!ENTITY newNavigatorCmd.label "Nowe okno" >
