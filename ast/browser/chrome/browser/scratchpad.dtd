@@ -30,6 +30,9 @@
 <!ENTITY saveFileAsCmd.label          "Guardar como…">
 <!ENTITY saveFileAsCmd.accesskey      "m">
 
+<!ENTITY browserContext.label         "Restolador">
+<!ENTITY browserContext.accesskey     "R">
+
 <!ENTITY closeCmd.label               "Zarrar">
 <!ENTITY closeCmd.key                 "W">
 <!ENTITY closeCmd.accesskey           "Z">
@@ -61,26 +64,26 @@
 <!ENTITY selectAllCmd.key             "A">
 <!ENTITY selectAllCmd.accesskey       "t">
 
-<!ENTITY execute.label                "Executar">
-<!ENTITY execute.accesskey            "E">
-<!ENTITY execute.key                  "x">
-
 <!ENTITY inspect.label                "Inspeicionar">
 <!ENTITY inspect.accesskey            "I">
 <!ENTITY inspect.key                  "i">
 
-<!ENTITY print.label                  "Imprentar">
-<!ENTITY print.accesskey              "p">
-<!ENTITY print.key                    "r">
+<!ENTITY executeMenu.label            "Executar">
+<!ENTITY executeMenu.accesskey        "X">
 
-<!ENTITY contextMenu.label            "Contestu">
-<!ENTITY contextMenu.accesskey        "C">
+<!ENTITY run.label                    "Executar">
+<!ENTITY run.accesskey                "R">
+<!ENTITY run.key                      "r">
 
 <!ENTITY contentContext.label         "Conteníu">
 <!ENTITY contentContext.accesskey     "C">
 
-<!ENTITY chromeContext.label          "Chrome">
-<!ENTITY chromeContext.accesskey      "H">
+<!ENTITY display.label                "Visualizar">
+<!ENTITY display.accesskey            "V">
+<!ENTITY display.key                  "l">
+
+<!ENTITY environmentMenu.label        "Entornu">
+<!ENTITY environmentMenu.accesskey    "N">
 
 <!-- LOCALIZATION NOTE (resetContext.label): This command allows the developer
   -  to reset/clear the global object of the context where the code executes.
@@ -99,5 +102,5 @@
 <!ENTITY webConsoleCmd.accesskey      "W">
 <!ENTITY webConsoleCmd.commandkey     "k">
 
-<!ENTITY textbox.placeholder          "// Enter some JavaScript, select it, right click and select Execute, Inspect or Print.">
+<!ENTITY textbox.placeholder1          "// Enter some JavaScript, select it, right click and select Execute, Inspect or Print.">
 
