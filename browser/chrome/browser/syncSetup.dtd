@@ -31,7 +31,7 @@
 <!ENTITY setup.newSyncKeyPage.description.label "Чтобы обеспечить абсолютную приватность, все ваши данные перед их загрузкой шифруются. Ключ синхронизации, необходимый для расшифровки ваших данных, не загружается.">
 <!ENTITY syncKeyEntry.label "Ваш ключ синхронизации">
 <!ENTITY syncKeyEntry.accesskey "к">
-<!ENTITY syncKeyGenerate.label "Сгенерировать">
+<!ENTITY syncGenerateNewKey.label "Сгенерировать новый ключ">
 <!ENTITY syncKeyBackup.description "Ваш ключ синхронизации требуется для получения доступа к &syncBrand.fullName.label; с других машин. Пожалуйста, создайте его резервную копию. Мы не можем помочь вам восстановить ваш ключ синхронизации.">
 <!ENTITY button.syncKeyBackup.print.label "Распечатать…">
 <!ENTITY button.syncKeyBackup.print.accesskey "ч">

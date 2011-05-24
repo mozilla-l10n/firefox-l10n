@@ -80,7 +80,7 @@
 <!ENTITY subscribeToPageMenuitem.label "Подписаться на ленты новостей…">
 <!ENTITY addCurPagesCmd.label "Добавить все вкладки…">
 <!ENTITY showAllBookmarks2.label "Показать все закладки">
-<!ENTITY bookmarkAllCmd.label "Добавить все вкладки в закладки…">
+<!ENTITY unsortedBookmarksCmd.label "Неподшитые закладки">
 <!ENTITY bookmarksToolbarChevron.tooltip "Показать больше закладок">
 <!ENTITY backCmd.label "Назад">
 <!ENTITY backCmd.accesskey "Н">
@@ -139,6 +139,8 @@
 <!ENTITY addons.label "Дополнения">
 <!ENTITY addons.accesskey "Д">
 <!ENTITY addons.commandkey "A">
+<!ENTITY webDeveloperMenu.label "Веб-разработка">
+<!ENTITY webDeveloperMenu.accesskey "б">
 <!ENTITY errorConsoleCmd.label "Консоль ошибок">
 <!ENTITY errorConsoleCmd.accesskey "К">
 <!ENTITY errorConsoleCmd.commandkey "j">
@@ -148,6 +150,10 @@
 <!ENTITY inspectMenu.label "Инспектор">
 <!ENTITY inspectMenu.accesskey "н">
 <!ENTITY inspectMenu.commandkey "I">
+<!ENTITY scratchpad.label "Простой редактор JavaScript">
+<!ENTITY scratchpad.accesskey "р">
+<!ENTITY scratchpad.keycode "VK_F4">
+<!ENTITY scratchpad.keytext "F4">
 <!ENTITY inspectPanelTitle.label "HTML">
 <!ENTITY inspectButton.label "Исследовать">
 <!ENTITY inspectButton.accesskey "с">
@@ -160,6 +166,8 @@
 <!ENTITY inspectStylePanelTitle.label "Стиль">
 <!ENTITY inspectObjectButton.label "Объект">
 <!ENTITY inspectObjectButton.accesskey "б">
+<!ENTITY getMoreDevtoolsCmd.label "Другие инструменты">
+<!ENTITY getMoreDevtoolsCmd.accesskey "у">
 <!ENTITY fileMenu.label "Файл">
 <!ENTITY fileMenu.accesskey "Ф">
 <!ENTITY newNavigatorCmd.label "Новое окно">
