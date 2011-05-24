@@ -19,10 +19,14 @@
 
 <!ENTITY pluginWizard.finalPage.moreInfo.label               "Buscar máis información sobre os engadidos ou localizar manualmente os que faltan.">
 <!ENTITY pluginWizard.finalPage.restart.label                "&brandShortName; ten que reiniciar para que funcionen os engadidos.">
-  
-<!ENTITY missingPlugin.label                                 "Prema aquí para descargar o engadido.">
-<!ENTITY disabledPlugin.label                                "Desactivouse o engadido deste contido. Prema aquí para xestionar os seus engadidos.">
+
+<!ENTITY missingPlugin                                       "Precísase un engadido para visualizar este contido.">
+<!ENTITY disabledPlugin                                      "Este engadido está desactivado.">
 <!ENTITY blockedPlugin.label                                 "Bloqueouse este engadido por protección.">
+
+<!ENTITY installPlugin                                       "Instalar engadidos…">
+<!ENTITY managePlugins                                       "Xestionar engadidos…">
+
 <!-- LOCALIZATION NOTE (reloadPlugin.pre): include a trailing space as needed -->
 <!-- LOCALIZATION NOTE (reloadPlugin.middle): avoid leading/trailing spaces, this text is a link -->
 <!-- LOCALIZATION NOTE (reloadPlugin.post): include a starting space as needed -->
