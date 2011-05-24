@@ -17,11 +17,11 @@
 
 <!ENTITY pluginWizard.finalPage.description.label "&brandShortName; beidza trūkstošo spraudņu instalēšanu:">
 
-<!ENTITY pluginWizard.finalPage.moreInfo.label "Uzzināt vairāk par spraudņiem vai atrast trūstošos spraudņus.">
+<!ENTITY pluginWizard.finalPage.moreInfo.label "Uzzināt vairāk par spraudņiem vai atrast trūkstošos spraudņus.">
 <!ENTITY pluginWizard.finalPage.restart.label "Lai spraudņi strādātu, nepieciešams restartēt &brandShortName;.">
   
-<!ENTITY missingPlugin.label "Spiediet šeit, lai lejupielādētu spraudni.">
-<!ENTITY disabledPlugin.label "Šī satura spraudnis tika deaktivizēts. Klikšķiniet šeit, lai pārvaldītu spraudņus.">
+<!ENTITY missingPlugin "Lai aplūkotu saturu nepieciešams spraudnis.">
+<!ENTITY disabledPlugin "Šī satura spraudnis ir deaktivizēts.">
 <!ENTITY blockedPlugin.label "Jūsu drošības nodrošināšanai šis spraudnis ir bloķēts.">
 <!-- LOCALIZATION NOTE (reloadPlugin.pre): include a trailing space as needed -->
 <!-- LOCALIZATION NOTE (reloadPlugin.middle): avoid leading/trailing spaces, this text is a link -->
@@ -36,3 +36,6 @@
 <!ENTITY report.disabled                                     "Avārijas ziņojumi ir deaktivizēti.">
 <!ENTITY report.failed                                       "Nosūtīšana neizdevās.">
 <!ENTITY report.unavailable                                  "Ziņojumi nav pieejami.">
+
+<!ENTITY installPlugin                                       "Instalēt spraudni…">
+<!ENTITY managePlugins                                       "Pārvaldīt spraudņus…">

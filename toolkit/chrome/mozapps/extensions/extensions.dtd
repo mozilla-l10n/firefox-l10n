@@ -151,11 +151,6 @@ ar papildus funkcionalitāti vai stilu. Izmēģiniet laiku ietaupošo sānu josl
 <!-- LOCALIZATION NOTE: These should match the header-* entries in extensions.properties -->
 <!ENTITY view.search.label                    "Meklēšana">
 <!ENTITY view.discover.label                  "Iegūt papildinājumus">
-<!ENTITY view.locales.label                   "Valodas">
-<!ENTITY view.searchengines.label             "Meklētāji">
-<!ENTITY view.features.label                  "Papildinājumi">
-<!ENTITY view.appearance2.label               "Izskats">
-<!ENTITY view.plugins.label                   "Spraudņi">
 <!ENTITY addon.install.label                  "Instalēt">
 <!ENTITY view.recentUpdates.label             "Nesenie atjauninājumi">
 <!ENTITY view.availableUpdates.label          "Pieejamie atjauninājumi">
