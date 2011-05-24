@@ -28,7 +28,7 @@
 <!ENTITY saveFileCmd.commandkey       "s">
 
 <!ENTITY saveFileAsCmd.label          "Saglabāt kā…">
-<!ENTITY saveFileAsCmd.accesskey      "g">
+<!ENTITY saveFileAsCmd.accesskey      "b">
 
 <!ENTITY closeCmd.label               "Aizvērt">
 <!ENTITY closeCmd.key                 "W">
@@ -47,7 +47,7 @@
 
 <!ENTITY cutCmd.label                 "Izgriezt">
 <!ENTITY cutCmd.key                   "X">
-<!ENTITY cutCmd.accesskey             "t">
+<!ENTITY cutCmd.accesskey             "g">
 
 <!ENTITY copyCmd.label                "Kopēt">
 <!ENTITY copyCmd.key                  "C">
@@ -61,26 +61,23 @@
 <!ENTITY selectAllCmd.key             "A">
 <!ENTITY selectAllCmd.accesskey       "v">
 
-<!ENTITY execute.label                "Izpildīt">
-<!ENTITY execute.accesskey            "E">
-<!ENTITY execute.key                  "t">
-
 <!ENTITY inspect.label                "Inspicēt">
 <!ENTITY inspect.accesskey            "I">
 <!ENTITY inspect.key                  "i">
 
-<!ENTITY print.label                  "Drukāt">
-<!ENTITY print.accesskey              "p">
-<!ENTITY print.key                    "r">
+<!ENTITY executeMenu.label            "Izpildīt">
+<!ENTITY executeMenu.accesskey        "d">
 
-<!ENTITY contextMenu.label            "Konteksts">
-<!ENTITY contextMenu.accesskey        "k">
+<!ENTITY run.label                    "Palaist">
+<!ENTITY run.accesskey                "t">
+<!ENTITY run.key                      "r">
 
 <!ENTITY contentContext.label         "Saturs">
 <!ENTITY contentContext.accesskey     "s">
 
-<!ENTITY chromeContext.label          "Chrome">
-<!ENTITY chromeContext.accesskey      "H">
+<!ENTITY browserContext.label         "Pārlūks">
+<!ENTITY browserContext.accesskey     "P">
+
 
 <!-- LOCALIZATION NOTE (resetContext.label): This command allows the developer
   -  to reset/clear the global object of the context where the code executes.
@@ -99,5 +96,5 @@
 <!ENTITY webConsoleCmd.accesskey      "m">
 <!ENTITY webConsoleCmd.commandkey     "k">
 
-<!ENTITY textbox.placeholder          "// Ievadiet JavaScript kodu, iezīmējiet to, uzklikšķiniet ar labo peles taustiņu un izvēlieties Izpildīt, Inspicēt vai Drukāt.">
+<!ENTITY textbox.placeholder1         "// Ievadiet JavaScript kodu, iezīmējiet to, uzklikšķiniet ar labo peles taustiņu un izvēlieties Izpildīt, Inspicēt vai Attēlot.">
 
