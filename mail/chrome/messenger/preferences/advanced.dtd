@@ -26,8 +26,8 @@
 <!-- Display and Reading Settings -->
 <!ENTITY reading.caption                "Lesen">
 <!ENTITY display.caption                "Ansicht">
-<!ENTITY showCondensedAddresses.label   "Nur den Anzeigenamen bei bekannten Kontakten zeigen">
-<!ENTITY showCondensedAddresses.accesskey "u">
+<!ENTITY showCondensedAddresses.label   "Bei bekannten Kontakten nur den Anzeigenamen zeigen">
+<!ENTITY showCondensedAddresses.accesskey "B">
 
 <!ENTITY autoMarkAsRead.label          "Nachrichten automatisch als gelesen markieren">
 <!ENTITY autoMarkAsRead.accesskey      "a">
