@@ -16,8 +16,8 @@
 <!ENTITY dnsNotFound.longDesc "
 <ul>
   <li>Bitte überprüfen Sie die Adresse auf Tippfehler, wie
-    <strong>ww</strong>.beispiel.de statt
-    <strong>www</strong>.beispiel.de</li>
+    <strong>ww</strong>.example.com statt
+    <strong>www</strong>.example.com</li>
   <li>Wenn Sie auch keine andere Website aufrufen können, überprüfen Sie bitte die
 	Netzwerk-/Internetverbindung.</li>
   <li>Wenn Ihr Computer oder Netzwerk von einer Firewall oder einem Proxy geschützt wird, stellen Sie bitte sicher,
@@ -43,7 +43,7 @@
 <!ENTITY malformedURI.longDesc "
 <ul>
   <li>Web-Adressen sehen für gewöhnlich folgendermaßen aus:
-    <strong>http://www.beispiel.de/</strong></li>
+    <strong>http://www.example.com/</strong></li>
   <li>Bitte stellen Sie sicher, dass Sie nicht den umgekehrten, s
 	ondern den einfachen Schrägstrich verwenden (<strong>/</strong>).</li>
 </ul>
