@@ -8,12 +8,12 @@
 
 <!ENTITY orientation.label "الاتّجاه:">
 <!ENTITY portrait.label "طولي">
-<!ENTITY portrait.accesskey  "ط">
+<!ENTITY portrait.accesskey "ط">
 <!ENTITY landscape.label "عرضي">
 <!ENTITY landscape.accesskey "ع">
 
 <!ENTITY scale.label "المقياس:">
-<!ENTITY scale.accesskey     "م">
+<!ENTITY scale.accesskey "م">
 <!ENTITY scalePercent "&#037;">
 
 <!ENTITY shrinkToFit.label "قلص ليناسب عرض الصّفحة">
@@ -22,7 +22,7 @@
 <!ENTITY optionsGroup.label "الخيارات">
 
 <!ENTITY printBG.label "اطبع الخلفيّة (الألوان و الصّور)">
-<!ENTITY printBG.accesskey   "خ">
+<!ENTITY printBG.accesskey "خ">
 
 <!ENTITY advanced.tab "الهوامش و التّرويسة/التّذييل">
 
