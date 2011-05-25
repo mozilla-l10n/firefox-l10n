@@ -30,11 +30,6 @@
 <!-- categories / views -->
 <!ENTITY view.search.label                    "Trochsykje">
 <!ENTITY view.discover.label                  "Tafoegings krije">
-<!ENTITY view.locales.label            	      "Talen">
-<!ENTITY view.searchengines.label             "Sykmasines">
-<!ENTITY view.features.label                  "Utwreidings">
-<!ENTITY view.appearance2.label               "Uterlik">
-<!ENTITY view.plugins.label                   "Ynstekkers">
 <!ENTITY view.recentUpdates.label             "Resinte fernijings">
 <!ENTITY view.availableUpdates.label          "Beskikbere fernijings">
 

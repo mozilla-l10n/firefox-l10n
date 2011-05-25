@@ -226,6 +226,9 @@ can reach it easily. -->
 <!ENTITY inspectObjectButton.label       "Objekt">
 <!ENTITY inspectObjectButton.accesskey   "O">
 
+<!ENTITY getMoreDevtoolsCmd.label        "Krij mear Ark">
+<!ENTITY getMoreDevtoolsCmd.accesskey    "K">
+
 <!ENTITY fileMenu.label               "Bestân"> 
 <!ENTITY fileMenu.accesskey           "B">
 <!ENTITY newNavigatorCmd.label        "Nij finster">
