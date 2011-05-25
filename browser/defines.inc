@@ -1,6 +1,6 @@
 #filter emptyLines
 
-#define MOZ_LANGPACK_CREATOR Wei-Lun Sun(josesun)
+#define MOZ_LANGPACK_CREATOR Mozilla Taiwan Community (MozTW)
 
 # If non-English locales wish to credit multiple contributors, uncomment this
 # variable definition and use the format specified.

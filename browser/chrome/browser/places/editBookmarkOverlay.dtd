@@ -6,7 +6,6 @@
 <!ENTITY editBookmarkOverlay.feedLocation.accesskey          "F">
 <!ENTITY editBookmarkOverlay.siteLocation.label              "網站網址:">
 <!ENTITY editBookmarkOverlay.siteLocation.accesskey          "S">
-<!ENTITY editBookmarkOverlay.liveTitlesSeparator.label       "即時標題">
 <!ENTITY editBookmarkOverlay.folder.label                    "資料夾:">
 <!ENTITY editBookmarkOverlay.foldersExpanderDown.tooltip     "顯示所有書籤資料夾">
 <!ENTITY editBookmarkOverlay.expanderUp.tooltip              "隱藏">
