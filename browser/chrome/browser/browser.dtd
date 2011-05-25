@@ -257,6 +257,9 @@ can reach it easily. -->
 <!ENTITY inspectObjectButton.label       "Objektas">
 <!ENTITY inspectObjectButton.accesskey   "O">
 
+<!ENTITY getMoreDevtoolsCmd.label        "Gauti daugiau priemonių">
+<!ENTITY getMoreDevtoolsCmd.accesskey    "G">
+
 <!ENTITY fileMenu.label         "Failas"> 
 <!ENTITY fileMenu.accesskey       "F">
 <!ENTITY newNavigatorCmd.label        "Naujas langas">
@@ -331,7 +334,7 @@ can reach it easily. -->
 <!ENTITY appMenuSidebars.label         "Parankinė">
 <!ENTITY appMenuFind.label             "Ieškoti…">
 <!ENTITY appMenuUnsorted.label         "Nerūšiuoti adresai">
-<!ENTITY appMenuWebDeveloper.label     "Saityno kūrėjų įrankiai">
+<!ENTITY appMenuWebDeveloper.label     "Saityno kūrėjų priemonės">
 <!ENTITY appMenuGettingStarted.label   "Darbo pradžia">
 <!ENTITY appMenuSafeMode.label         "Perleisti programą, išjungus priedus…">
 <!ENTITY appMenuSafeMode.accesskey     "r">
