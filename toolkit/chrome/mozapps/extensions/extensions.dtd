@@ -32,9 +32,11 @@
 <!ENTITY warning.updatesecurity.enable.label       "सुरू करा">
 <!ENTITY warning.updatesecurity.enable.tooltip     "ॲडऑन सुधारणा सुरक्षा तपासणी सुरू करा">
 <!ENTITY view.discover.label                  "ॲडऑन्स् प्राप्त करा">
+<!--
 <!ENTITY view.searchengines.label             "सर्च इंजिन्स्">
 <!ENTITY view.features.label                  "एक्सटेंशन्स्">
 <!ENTITY view.appearance2.label               "रूप">
+-->
 <!ENTITY view.recentUpdates.label             "नुकतीच सुधारणा">
 <!ENTITY view.availableUpdates.label          "उपलब्ध सुधारणा">
 <!ENTITY updates.checkForUpdates.label        "सुधारणांकरीता तपासणी करा">
@@ -153,7 +155,9 @@
 <!ENTITY addon.createdBy.label                "द्वारे निर्मीत ">
 <!ENTITY listEmpty.search.label               "कोणतेही जुळणारे ॲडऑन्स् आढळले नाही">
 <!ENTITY view.search.label                    "शोधा">
+<!--
 <!ENTITY view.locales.label                   "भाषा">
 <!ENTITY view.plugins.label                   "प्लगइन्स्">
+-->
 <!ENTITY addon.install.label                  "प्रतिष्ठापन">
 <!ENTITY addon.includeUpdate.label            "सुधारणामध्ये समाविष्ट करा">

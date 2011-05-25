@@ -6,7 +6,9 @@
 <!ENTITY editBookmarkOverlay.feedLocation.accesskey          "F">
 <!ENTITY editBookmarkOverlay.siteLocation.label              "स्थळ स्थान:">
 <!ENTITY editBookmarkOverlay.siteLocation.accesskey          "S">
+<!--
 <!ENTITY editBookmarkOverlay.liveTitlesSeparator.label       "वर्तमान शिर्षक">
+-->
 <!ENTITY editBookmarkOverlay.folder.label                    "संचयीका:">
 <!ENTITY editBookmarkOverlay.foldersExpanderDown.tooltip     "सर्व ओळखचिन्हाकृत संचयीका दर्शवा">
 <!ENTITY editBookmarkOverlay.expanderUp.tooltip              "लपवा">

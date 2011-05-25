@@ -5,12 +5,9 @@
 <!ENTITY organize.label        "नियोजन">
 <!ENTITY organize.accesskey    "O">
 
-<!ENTITY file.accesskey                 "F">
 <!ENTITY file.close.label               "बंद करा">
 <!ENTITY file.close.accesskey           "C">
 <!ENTITY cmd.close.key                  "w">
-<!ENTITY edit.label                     "संपादन">
-<!ENTITY edit.accesskey                 "E">
 <!ENTITY views.label                    "दृश्य">
 <!ENTITY views.accesskey                "V">
 <!ENTITY view.columns.label             "स्तंभ दर्शवा">
@@ -71,8 +68,6 @@
 
 <!ENTITY cmd.reloadLivebookmark.label      "वर्तमान ओळखचिन्ह पुन्हदाखल करा">
 <!ENTITY cmd.reloadLivebookmark.accesskey  "R">
-<!ENTITY cmd.reloadMicrosummary.label      "वर्तमान शिर्षक पुन्हदाखल करा">
-<!ENTITY cmd.reloadMicrosummary.accesskey  "R">
 
 
 <!ENTITY cmd.moveBookmarks.label                  "हलवा…">
@@ -121,10 +116,8 @@
 <!ENTITY maintenance.label      "इम्पोर्ट व बॅकअप">
 <!ENTITY maintenance.accesskey  "I">
 
-<!ENTITY backCmd.label       "मागे">
 <!ENTITY backButton.tooltip  "मागे जा">
 
-<!ENTITY forwardCmd.label       "पुढे">
 <!ENTITY forwardButton.tooltip  "पुढे जा">
 
 <!ENTITY detailsPane.more.label "जास्त">
