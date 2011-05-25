@@ -10,7 +10,7 @@
   -  "Scratchpad" in your locale. You should feel free to find a close
   -  approximation to it or choose a word (or words) that means
   -  "simple discardable text editor". -->
-<!ENTITY window.title                 "Scratchpad">
+<!ENTITY window.title                 "Borrador">
 
 <!ENTITY fileMenu.label               "Archivo">
 <!ENTITY fileMenu.accesskey           "A">
