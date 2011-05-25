@@ -1,0 +1,35 @@
+<!ENTITY permissionsManager.title        "Administrador de permisos">
+
+<!ENTITY sites.search                    "Search Sites">
+<!ENTITY sites.allSites                  "Todos los sitios">
+
+<!-- LOCALIZATION NOTE (permissions.header.start, permissions.header.end): These strings
+     surround the host name of the site to make the header for the permissions page.
+     example: "Permissions for mozilla.org" -->
+<!ENTITY header.site.start               "Permisos para">
+<!ENTITY header.site.end                 "">
+
+<!ENTITY header.defaults                 "Default Permissions for All Sites">
+
+<!ENTITY permissions.forgetSite          "Forget About This Site">
+
+<!ENTITY permission.alwaysAsk            "Preguntar siempre">
+<!ENTITY permission.allow                "Permitir">
+<!ENTITY permission.allowForSession      "Permitir por esta sesión">
+<!ENTITY permission.block                "Bloquear">
+
+<!ENTITY password.label                  "Guardar contraseñas">
+<!ENTITY password.manage                 "Administrar contraseñas…">
+
+<!ENTITY cookie.label                    "Establecer cookies">
+<!ENTITY cookie.clear                    "Borrar cookies">
+<!ENTITY cookie.manage                   "Administrar cookies…">
+<!ENTITY cookie.clearAll                 "Borrar todas las cookies">
+
+<!ENTITY geo.label                       "Share Location">
+
+<!-- LOCALIZATION NOTE (indexedDB.label): This is describing indexedDB storage
+     using the same language used for the permIndexedDB string in browser/pageInfo.dtd -->
+<!ENTITY indexedDB.label                 "Mantener almacenamiento sin conexión">
+
+<!ENTITY popup.label                     "Abrir ventanas emergentes">
