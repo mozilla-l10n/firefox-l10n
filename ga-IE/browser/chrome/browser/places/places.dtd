@@ -6,12 +6,9 @@
 <!ENTITY organize.accesskey "E">
 <!ENTITY organize.tooltip "Eagraigh leabharmharcanna">
 
-<!ENTITY file.accesskey "F">
 <!ENTITY file.close.label "Dún">
 <!ENTITY file.close.accesskey "D">
 <!ENTITY cmd.close.key "w">
-<!ENTITY edit.label "Eagar">
-<!ENTITY edit.accesskey "E">
 <!ENTITY views.label "Amhairc">
 <!ENTITY views.accesskey "A">
 <!ENTITY views.tooltip "Athraigh an t-amharc">
@@ -76,8 +73,6 @@
 
 <!ENTITY cmd.reloadLivebookmark.label "Athluchtaigh Leabharmharc Beo">
 <!ENTITY cmd.reloadLivebookmark.accesskey "L">
-<!ENTITY cmd.reloadMicrosummary.label "Athluchtaigh Teideal Beo">
-<!ENTITY cmd.reloadMicrosummary.accesskey "T">
 
 <!ENTITY cmd.moveBookmarks.label "Bog…">
 <!ENTITY cmd.moveBookmarks.accesskey "B">
@@ -113,17 +108,14 @@
 <!ENTITY maintenance.accesskey "I">
 <!ENTITY maintenance.tooltip "Iompórtáil agus déan cúltaca ar leabharmharcanna">
 
-<!ENTITY backCmd.label "Siar">
 <!ENTITY backButton.tooltip "Siar">
 
-<!ENTITY forwardCmd.label "Ar Aghaidh">
 <!ENTITY forwardButton.tooltip "Ar Aghaidh">
 
 <!ENTITY detailsPane.more.label "Níos Mó">
 <!ENTITY detailsPane.more.accesskey "M">
 <!ENTITY detailsPane.less.label "Níos Lú">
 <!ENTITY detailsPane.less.accesskey "L">
-<!ENTITY detailsPane.noPreviewAvailable.label "Réamhamharc">
 <!ENTITY detailsPane.selectAnItemText.description "Roghnaigh mír le taispeáint agus cuir a hairíonna in eagar">
 
 <!ENTITY find.label "Cuardaigh:">

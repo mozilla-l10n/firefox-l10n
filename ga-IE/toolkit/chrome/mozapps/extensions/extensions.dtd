@@ -22,15 +22,14 @@
 <!ENTITY warning.updatesecurity.label "Tá seiceáil shlándáil na mbreiseán díchumasaithe. D'fhéadfadh nuashonruithe dochar a dhéanamh.">
 <!ENTITY warning.updatesecurity.enable.label "Cumasaigh">
 <!ENTITY warning.updatesecurity.enable.tooltip "Cumasaigh seiceáil slándála nuashonrú na mbreiseán">
+<!-- global informations -->
+
+<!ENTITY info.plugincheck.label "Seiceáil an bhfuil do chuid forlíontán cothrom le dáta">
+<!ENTITY info.plugincheck.tooltip "Seiceáil an bhfuil do chuid forlíontán cothrom le dáta">
 <!-- categories / views -->
 
 <!ENTITY view.search.label "Cuardaigh">
 <!ENTITY view.discover.label "Faigh Breiseáin">
-<!ENTITY view.locales.label "Teangacha">
-<!ENTITY view.searchengines.label "Innill Chuardaigh">
-<!ENTITY view.features.label "Eisínteachtaí">
-<!ENTITY view.appearance2.label "Cuma">
-<!ENTITY view.plugins.label "Forlíontáin">
 <!ENTITY view.recentUpdates.label "Nuashonruithe Le Déanaí">
 <!ENTITY view.availableUpdates.label "Nuashonruithe Ar Fáil">
 <!-- addon updates -->

@@ -43,7 +43,7 @@
 <!ENTITY setup.newSyncKeyPage.description.label "Le do phríobháideacht a chinntiú, uasluchtófar do chuid sonraí i bhfoirm chriptithe. Ní uasluchtófar an eochair Sync a úsáidtear chun do sonraí a dhíchriptiú.">
 <!ENTITY syncKeyEntry.label "D'Eochair Sync">
 <!ENTITY syncKeyEntry.accesskey "c">
-<!ENTITY syncKeyGenerate.label "Cruthaigh">
+<!ENTITY syncGenerateNewKey.label "Gin eochair nua">
 <!ENTITY syncKeyBackup.description "Teastaíonn uait an Eochair Sync chun &syncBrand.fullName.label; a rochtain ó ríomhairí eile.  Déan cúltaca di - ní bheimid in ann d'Eochair Sync a fháil ar ais má chailleann tú í.">
 
 <!ENTITY button.syncKeyBackup.print.label "Priontáil…">
