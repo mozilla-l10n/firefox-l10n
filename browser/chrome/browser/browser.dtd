@@ -104,7 +104,7 @@ can reach it easily. -->
 <!ENTITY subscribeToPageMenuitem.label "Liostáil leis an Leathanach Seo…">
 <!ENTITY addCurPagesCmd.label "Leabharmharcáil Gach Cluaisín…">
 <!ENTITY showAllBookmarks2.label "Taispeáin Gach Leabharmharc">
-<!ENTITY bookmarkAllCmd.label "Leabharmharcáil Gach Cluaisín…">
+<!ENTITY unsortedBookmarksCmd.label "Leabharmharcanna Gan Sórtáil">
 <!ENTITY bookmarksToolbarChevron.tooltip "Tuilleadh leabharmharcanna">
 
 <!ENTITY backCmd.label "Siar">
@@ -179,6 +179,9 @@ can reach it easily. -->
 <!ENTITY addons.accesskey "B">
 <!ENTITY addons.commandkey "A">
 
+<!ENTITY webDeveloperMenu.label "Forbróir Gréasáin">
+<!ENTITY webDeveloperMenu.accesskey "F">
+
 <!ENTITY errorConsoleCmd.label "Consól Earráide">
 <!ENTITY errorConsoleCmd.accesskey "E">
 <!ENTITY errorConsoleCmd.commandkey "j">
@@ -190,6 +193,21 @@ can reach it easily. -->
 <!ENTITY inspectMenu.label "Scrúdaigh">
 <!ENTITY inspectMenu.accesskey "S">
 <!ENTITY inspectMenu.commandkey "I">
+<!-- LOCALIZATION NOTE (scratchpad.label): This menu item label appears
+  -  in the Tools menu. See bug 653093.
+  -  The Scratchpad is intended to provide a simple text editor for creating
+  -  and evaluating bits of JavaScript code for the purposes of function
+  -  prototyping, experimentation and convenient scripting.
+  -
+  -  It's quite possible that you won't have a good analogue for the word
+  -  "Scratchpad" in your locale. You should feel free to find a close
+  -  approximation to it or choose a word (or words) that means
+  -  "simple discardable text editor". -->
+
+<!ENTITY scratchpad.label "Ceap Breacaireachta">
+<!ENTITY scratchpad.accesskey "C">
+<!ENTITY scratchpad.keycode "VK_F4">
+<!ENTITY scratchpad.keytext "F4">
 
 <!ENTITY inspectPanelTitle.label "HTML">
 <!ENTITY inspectButton.label "Scrúdaigh">
@@ -207,6 +225,9 @@ can reach it easily. -->
   -  titlebar: object.objectPanelTitle. -->
 <!ENTITY inspectObjectButton.label "Réad">
 <!ENTITY inspectObjectButton.accesskey "R">
+
+<!ENTITY getMoreDevtoolsCmd.label "Faigh Tuilleadh Uirlisí">
+<!ENTITY getMoreDevtoolsCmd.accesskey "T">
 
 <!ENTITY fileMenu.label "Comhad">
 <!ENTITY fileMenu.accesskey "C">

@@ -6,7 +6,6 @@
 <!ENTITY editBookmarkOverlay.feedLocation.accesskey "F">
 <!ENTITY editBookmarkOverlay.siteLocation.label "Suíomh:">
 <!ENTITY editBookmarkOverlay.siteLocation.accesskey "S">
-<!ENTITY editBookmarkOverlay.liveTitlesSeparator.label "Teidil Bheo">
 <!ENTITY editBookmarkOverlay.folder.label "Fillteán:">
 <!ENTITY editBookmarkOverlay.foldersExpanderDown.tooltip "Taispeáin gach fillteán leabharmhairc">
 <!ENTITY editBookmarkOverlay.expanderUp.tooltip "Folaigh">
