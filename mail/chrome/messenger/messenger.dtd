@@ -843,7 +843,7 @@ you can use these alternative items. Otherwise, their values should be empty.
 
 <!--  Mac OS X Window Menu -->
 <!ENTITY minimizeWindow.label "Réduire">
-<!ENTITY minimizeWindow.key "R">
+<!ENTITY minimizeWindow.key "m">
 <!ENTITY bringAllToFront.label "Tout amener à l'avant-plan">
 <!ENTITY zoomWindow.label "Zoom">
 
