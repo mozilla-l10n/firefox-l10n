@@ -175,7 +175,7 @@
 <!ENTITY preferencesCmdUnix.accesskey   "n"> 
 
 <!--  Mac OS X Window Menu -->
-<!ENTITY minimizeWindow.key "R">
+<!ENTITY minimizeWindow.key "m">
 <!ENTITY minimizeWindow.label "Réduire">
 <!ENTITY bringAllToFront.label "Tout amener à l'avant-plan">
 <!ENTITY zoomWindow.label "Zoom">
