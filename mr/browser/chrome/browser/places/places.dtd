@@ -124,10 +124,12 @@
 <!ENTITY detailsPane.more.accesskey "e">
 <!ENTITY detailsPane.less.label "कमी">
 <!ENTITY detailsPane.less.accesskey "e">
+
+<!--
 <!ENTITY detailsPane.noPreviewAvailable.label "पूर्वदृश्य">
+-->
+
 <!ENTITY detailsPane.selectAnItemText.description "पहाण्याकरीता व गुणधर्म संपादीत करण्याकरीता घटक निवडा">
-
-
 <!ENTITY cmd.delete.label               "हे पान काढून टाका">
 <!ENTITY cmd.delete.accesskey           "D">
 <!ENTITY cmd.deleteDomainData.label     "या स्थळ विषयी विसरून जा">
