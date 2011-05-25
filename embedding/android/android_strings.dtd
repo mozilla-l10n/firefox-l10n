@@ -1,7 +1,6 @@
 <!ENTITY splash_screen_label "nahrávání">
 <!ENTITY splash_screen_installing "instalace knihoven\u2026">
 <!ENTITY splash_firstrun "Nastavení &brandShortName;\u2026">
-<!ENTITY incompatable_cpu_error "Toto zařízení nesplňuje minimální systémové požadavky aplikace &brandShortName;.">
 <!ENTITY no_space_to_start_error "&brandShortName; nemá dostatek místa pro své spuštění.">
 <!ENTITY error_loading_file "Při načítání souborů vyžadovaných aplikací &brandShortName; nastala chyba.">
 
@@ -14,6 +13,5 @@
 <!ENTITY crash_restart_label "Restartovat &brandShortName;">
 <!ENTITY sending_crash_report "Odesílání hlášení o pádu\u2026">
 <!ENTITY exit_label "Ukončit">
-<!ENTITY incompatable_device "Toto zařízení není aplikací &brandShortName; podporováno a můžete očekávat problémy.">
 
 <!ENTITY continue_label "Pokračovat">
