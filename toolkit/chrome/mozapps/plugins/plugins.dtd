@@ -20,9 +20,13 @@
 <!ENTITY pluginWizard.finalPage.moreInfo.label "Zobrazit více informací o zásuvných modulech a jejich ruční instalaci.">
 <!ENTITY pluginWizard.finalPage.restart.label "Pro dokončení instalace zásuvného modulu je potřeba aplikaci &brandShortName; restartovat.">
 
-<!ENTITY missingPlugin.label "Klepněte zde pro stažení chybějícího zásuvného modulu.">
-<!ENTITY disabledPlugin.label "Zásuvný modul pro tento obsah byl zakázán. Klepněte zde pro správu vašich zásuvných modulů.">
+<!ENTITY missingPlugin "Pro zobrazení obsau je vyžadován zásuvný modulu.">
+<!ENTITY disabledPlugin "Tento zásuvný modul je zakázán.">
 <!ENTITY blockedPlugin.label "Tento zásuvný modul je z důvodů vaší ochrany zablokován.">
+
+<!ENTITY installPlugin "Instalovat zásuvný modul…">
+<!ENTITY managePlugins "Správce zásuvných modulů…">
+
 <!-- LOCALIZATION NOTE (reloadPlugin.pre): include a trailing space as needed -->
 <!-- LOCALIZATION NOTE (reloadPlugin.middle): avoid leading/trailing spaces, this text is a link -->
 <!-- LOCALIZATION NOTE (reloadPlugin.post): include a starting space as needed -->
