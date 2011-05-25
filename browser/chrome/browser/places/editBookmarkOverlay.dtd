@@ -6,7 +6,6 @@
 <!ENTITY editBookmarkOverlay.feedLocation.accesskey          "F">
 <!ENTITY editBookmarkOverlay.siteLocation.label              "Webstee Lokaasje:">
 <!ENTITY editBookmarkOverlay.siteLocation.accesskey          "W">
-<!ENTITY editBookmarkOverlay.liveTitlesSeparator.label       "Live Titels">
 <!ENTITY editBookmarkOverlay.folder.label                    "Map:">
 <!ENTITY editBookmarkOverlay.foldersExpanderDown.tooltip     "Toan alle blêdwizersmappen">
 <!ENTITY editBookmarkOverlay.expanderUp.tooltip              "Ferbergje">

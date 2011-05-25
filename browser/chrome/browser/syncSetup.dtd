@@ -43,7 +43,7 @@
 <!ENTITY setup.newSyncKeyPage.description.label "Om jo privacy te fersekerjen, wurde al jo gegevens fersifere eardat se opladen wurde. De Sync-kaai dy't nedich is om jo gegvens te ûntsiferjen wurdt net opladen.">
 <!ENTITY syncKeyEntry.label        "Jo Sync-kaai">
 <!ENTITY syncKeyEntry.accesskey    "k">
-<!ENTITY syncKeyGenerate.label     "Oanmeitsje">
+<!ENTITY syncGenerateNewKey.label  "In nije kaai oanmeitsje">
 <!ENTITY syncKeyBackup.description "Jo Sync-kaai is nedich om mei &syncBrand.fullName.label; tagong te krijen op oare masines. Meitsje asjobleaft in reservekopy. Wy kinne jo net helpe om jo Sync-kaai werom te heljen.">
 
 <!ENTITY button.syncKeyBackup.print.label     "Ofdrukke…">

@@ -20,9 +20,13 @@
 <!ENTITY pluginWizard.finalPage.moreInfo.label 				 "Lês mear oer ynstekkers of sykje hânmjittich de missende ynstekkers.">
 <!ENTITY pluginWizard.finalPage.restart.label				 "&brandShortName; moat op 'e nij starten wurde om de ynstekker(s) wurkje te litten.">
 
-<!ENTITY missingPlugin.label                                 "Klik hjir om de ynstekker yn te laden.">
-<!ENTITY disabledPlugin.label                                "De ynstekker foar dizze ynhâld is útskeakele. Klik hjir om jo ynstekkers te behearjen.">
-<!ENTITY blockedPlugin.label                                 "Dizze ynstekker is blokkearre foar jo beskerming.">
+<!ENTITY missingPlugin 		                                "der is in ynstekker nedich om dizze ynhâld te toanen.">
+<!ENTITY disabledPlugin		                               "De ynstekker is útskeakele.">
+<!ENTITY blockedPlugin.label                               "Dizze ynstekker is blokkearre foar jo beskerming.">
+
+<!ENTITY installPlugin                                       "Ynstallearje ynstekker…">
+<!ENTITY managePlugins                                       "Behear ynstekkers…">
+
 <!-- LOCALIZATION NOTE (reloadPlugin.pre): include a trailing space as needed -->
 <!-- LOCALIZATION NOTE (reloadPlugin.middle): avoid leading/trailing spaces, this text is a link -->
 <!-- LOCALIZATION NOTE (reloadPlugin.post): include a starting space as needed -->
