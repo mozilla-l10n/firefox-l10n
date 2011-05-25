@@ -1,3 +1,2 @@
 Ohjeita Thunderbirdin asentamiseen, käyttämiseen ja muokkaamiseen voit lukea
-osoitteesta http://www.mozilla.fi. Englanniksi tietoja Thunderbirdistä voi lukea 
-muun muassa osoitteesta http://getthunderbird.com/releases/.
+osoitteesta http://support.mozillamessaging.com/fi/home.
