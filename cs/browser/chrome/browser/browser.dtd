@@ -226,6 +226,9 @@ can reach it easily. -->
 <!ENTITY inspectObjectButton.label "Objekt">
 <!ENTITY inspectObjectButton.accesskey "O">
 
+<!ENTITY getMoreDevtoolsCmd.label "Získat další nástroje">
+<!ENTITY getMoreDevtoolsCmd.accesskey "Z">
+
 <!ENTITY fileMenu.label "Soubor">
 <!ENTITY fileMenu.accesskey "S">
 <!ENTITY newNavigatorCmd.label "Nové okno">
