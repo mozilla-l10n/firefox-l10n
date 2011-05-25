@@ -56,7 +56,10 @@
 <!ENTITY bookmarksMenu.label "ओळखचिन्हे">
 <!ENTITY bookmarksMenu.accesskey "B">
 
+<!--
 <!ENTITY bookmarkAllCmd.label "सर्व टॅब्सला ओळखचिन्ह लावा...">
+-->
+
 <!ENTITY backCmd.label "मागे जा ">
 <!ENTITY backCmd.accesskey "B">
 <!ENTITY backButton.tooltip "ऐक पाऩ मागे जा">
