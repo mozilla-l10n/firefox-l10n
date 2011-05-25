@@ -14,10 +14,6 @@
 <!ENTITY  locbar.bookmarks.label        "Бетбелгілер">
 <!ENTITY  locbar.nothing.label          "Ешнәрсе">
 
-<!-- LOCALIZATION NOTE:
-  line in preferences as follows:
--->
-
 <!ENTITY  acceptCookies.label           "Сайттардан cookies қабылдау">
 <!ENTITY  acceptCookies.accesskey       "д">
 
