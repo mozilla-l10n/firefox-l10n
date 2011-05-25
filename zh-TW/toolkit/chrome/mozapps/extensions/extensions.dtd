@@ -23,14 +23,13 @@
 <!ENTITY warning.updatesecurity.enable.label       "啟用">
 <!ENTITY warning.updatesecurity.enable.tooltip     "啟用附加元件更新安全檢查">
 
+<!-- global informations -->
+<!ENTITY info.plugincheck.label                 "檢查您是否使用最新版本的外掛程式">
+<!ENTITY info.plugincheck.tooltip               "檢查您是否使用最新版本的外掛程式">
+
 <!-- categories / views -->
 <!ENTITY view.search.label                    "搜尋">
 <!ENTITY view.discover.label                  "取得元件">
-<!ENTITY view.locales.label                   "語言套件">
-<!ENTITY view.searchengines.label             "搜尋引擎">
-<!ENTITY view.features.label                  "擴充套件">
-<!ENTITY view.appearance2.label               "外觀設定">
-<!ENTITY view.plugins.label                   "外掛程式">
 <!ENTITY view.recentUpdates.label             "最近的更新">
 <!ENTITY view.availableUpdates.label          "可用的更新">
 
@@ -188,7 +187,7 @@
 <!ENTITY addon.updateNow.tooltip              "安裝此附加元件的更新">
 <!ENTITY addon.includeUpdate.label            "包含於更新當中">
 <!ENTITY addon.updateAvailable.label          "有可用的更新">
-<!ENTITY addon.checkingForUpdates.label       "檢查是否有更新…">
+<!ENTITY addon.checkingForUpdates.label       "正在檢查更新…">
 <!ENTITY addon.releaseNotes.label             "新鮮事:">
 <!ENTITY addon.loadingReleaseNotes.label      "載入中…">
 <!ENTITY addon.errorLoadingReleaseNotes.label "抱歉，載入新鮮事時發生錯誤。">

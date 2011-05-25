@@ -104,7 +104,7 @@ can reach it easily. -->
 <!ENTITY subscribeToPageMenuitem.label "訂閱此頁面…">
 <!ENTITY addCurPagesCmd.label "所有分頁加入書籤…">
 <!ENTITY showAllBookmarks2.label "顯示所有書籤">
-<!ENTITY bookmarkAllCmd.label "所有分頁加入書籤…">
+<!ENTITY unsortedBookmarksCmd.label "未排序書籤">
 <!ENTITY bookmarksToolbarChevron.tooltip "顯示更多書籤">
 
 <!ENTITY backCmd.label                "上一頁">
@@ -179,6 +179,9 @@ can reach it easily. -->
 <!ENTITY addons.accesskey             "A">
 <!ENTITY addons.commandkey            "A">
 
+<!ENTITY webDeveloperMenu.label       "網頁開發者">
+<!ENTITY webDeveloperMenu.accesskey   "W">
+
 <!ENTITY errorConsoleCmd.label        "錯誤主控台">
 <!ENTITY errorConsoleCmd.accesskey    "C">
 <!ENTITY errorConsoleCmd.commandkey   "j">
@@ -190,6 +193,21 @@ can reach it easily. -->
 <!ENTITY inspectMenu.label            "檢測">
 <!ENTITY inspectMenu.accesskey        "t">
 <!ENTITY inspectMenu.commandkey       "I">
+
+<!-- LOCALIZATION NOTE (scratchpad.label): This menu item label appears
+  -  in the Tools menu. See bug 653093.
+  -  The Scratchpad is intended to provide a simple text editor for creating
+  -  and evaluating bits of JavaScript code for the purposes of function
+  -  prototyping, experimentation and convenient scripting.
+  -
+  -  It's quite possible that you won't have a good analogue for the word
+  -  "Scratchpad" in your locale. You should feel free to find a close
+  -  approximation to it or choose a word (or words) that means
+  -  "simple discardable text editor". -->
+<!ENTITY scratchpad.label             "程式碼片段速記本">
+<!ENTITY scratchpad.accesskey         "S">
+<!ENTITY scratchpad.keycode           "VK_F4">
+<!ENTITY scratchpad.keytext           "F4">
 
 <!ENTITY inspectPanelTitle.label      "HTML">
 <!ENTITY inspectButton.label          "檢測">
@@ -207,6 +225,9 @@ can reach it easily. -->
   -  titlebar: object.objectPanelTitle. -->
 <!ENTITY inspectObjectButton.label       "物件">
 <!ENTITY inspectObjectButton.accesskey   "O">
+
+<!ENTITY getMoreDevtoolsCmd.label        "取得更多工具">
+<!ENTITY getMoreDevtoolsCmd.accesskey    "M">
 
 <!ENTITY fileMenu.label         "檔案"> 
 <!ENTITY fileMenu.accesskey       "F">

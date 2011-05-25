@@ -1,0 +1,35 @@
+<!ENTITY permissionsManager.title        "權限管理員">
+
+<!ENTITY sites.search                    "搜尋網站">
+<!ENTITY sites.allSites                  "所有網站">
+
+<!-- LOCALIZATION NOTE (permissions.header.start, permissions.header.end): These strings
+     surround the host name of the site to make the header for the permissions page.
+     example: "Permissions for mozilla.org" -->
+<!ENTITY header.site.start               "權限:">
+<!ENTITY header.site.end                 "">
+
+<!ENTITY header.defaults                 "所有網站的預設權限">
+
+<!ENTITY permissions.forgetSite          "刪除與此網站有關的記錄">
+
+<!ENTITY permission.alwaysAsk            "總是詢問">
+<!ENTITY permission.allow                "允許">
+<!ENTITY permission.allowForSession      "允許此次連線 (Session)">
+<!ENTITY permission.block                "封鎖">
+
+<!ENTITY password.label                  "儲存密碼">
+<!ENTITY password.manage                 "管理密碼…">
+
+<!ENTITY cookie.label                    "設定 Cookie">
+<!ENTITY cookie.clear                    "清除 Cookie">
+<!ENTITY cookie.manage                   "管理 Cookie…">
+<!ENTITY cookie.clearAll                 "清除所有 Cookie">
+
+<!ENTITY geo.label                       "透露地理位置">
+
+<!-- LOCALIZATION NOTE (indexedDB.label): This is describing indexedDB storage
+     using the same language used for the permIndexedDB string in browser/pageInfo.dtd -->
+<!ENTITY indexedDB.label                 "管理離線儲存空間">
+
+<!ENTITY popup.label                     "開啟彈出式視窗">
