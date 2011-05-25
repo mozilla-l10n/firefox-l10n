@@ -23,14 +23,13 @@
 <!ENTITY warning.updatesecurity.enable.label       "Ynskeakelje">
 <!ENTITY warning.updatesecurity.enable.tooltip     "Skeakelje feilichheidskontrole foar tafoegingfernijings yn">
 
+<!-- global informations -->
+<!ENTITY info.plugincheck.label                 "Kontrolearje om te sjen oft jo ynstekkers by de tiid binne">
+<!ENTITY info.plugincheck.tooltip               "Kontrolearje om te sjen oft jo ynstekkers by de tiid binne">
+
 <!-- categories / views -->
 <!ENTITY view.search.label                    "Trochsykje">
 <!ENTITY view.discover.label                  "Tafoegings krije">
-<!ENTITY view.locales.label            	      "Talen">
-<!ENTITY view.searchengines.label             "Sykmasines">
-<!ENTITY view.features.label                  "Utwreidings">
-<!ENTITY view.appearance2.label               "Uterlik">
-<!ENTITY view.plugins.label                   "Ynstekkers">
 <!ENTITY view.recentUpdates.label             "Resinte fernijings">
 <!ENTITY view.availableUpdates.label          "Beskikbere fernijings">
 
