@@ -1,7 +1,7 @@
 
 <!ENTITY  connectionsDialog.title       "Mîhengên girêdanê">
-<!ENTITY  window.width                  "37em">
-<!ENTITY  window.macWidth               "39em">
+<!ENTITY  window.width                  "42em">
+<!ENTITY  window.macWidth               "43em">
 
 <!ENTITY  proxyTitle.label              "Pêşkêşkarên Cîgir Sererast Bike">
 <!ENTITY  noProxyTypeRadio.label        "Bê Proksy">
@@ -27,7 +27,7 @@
 <!ENTITY  socks4.label                  "SOCKS v4">
 <!ENTITY  socks4.accesskey              "K">
 <!ENTITY  socks5.label                  "SOCKS v5">
-<!ENTITY  socks5.accesskey              "5">
+<!ENTITY  socks5.accesskey              "v">
 <!ENTITY  port.label                    "Port:">
 <!ENTITY  HTTPport.accesskey            "H">
 <!ENTITY  SSLport.accesskey             "o">

@@ -1,7 +1,7 @@
 <!ENTITY  fontsDialog.title                       "Cureyên Nivîsan">
-<!ENTITY  window.width                            "39em">
+<!ENTITY  window.width                            "43em">
 <!ENTITY  window.macWidth                         "43em">
-<!ENTITY  window.unixWidth                        "41em">
+<!ENTITY  window.unixWidth                        "43em">
 
 <!ENTITY  language.label                          "Cureyên Nivîsan Ji Bo:">
 <!ENTITY  language.accesskey                      "C">
