@@ -226,6 +226,9 @@ can reach it easily. -->
 <!ENTITY inspectObjectButton.label "الكائن">
 <!ENTITY inspectObjectButton.accesskey "ئ">
 
+<!ENTITY getMoreDevtoolsCmd.label        "احصل على أدوات إضافية">
+<!ENTITY getMoreDevtoolsCmd.accesskey    "ض">
+
 <!ENTITY fileMenu.label "ملف">
 <!ENTITY fileMenu.accesskey "م">
 <!ENTITY newNavigatorCmd.label "نافذة جديدة">
