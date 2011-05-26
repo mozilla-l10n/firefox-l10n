@@ -1,18 +1,17 @@
-<!ENTITY % brandDTD
-    SYSTEM "chrome://branding/locale/brand.dtd">
+<!ENTITY % brandDTD SYSTEM "chrome://branding/locale/brand.dtd">
   %brandDTD;
-
 <!-- These strings are used in the about:home page -->
+
 
 <!ENTITY abouthome.pageTitle "‫صفحة بداية &brandFullName;">
 
 <!ENTITY abouthome.searchEngineButton.label "ابحث">
 
 <!ENTITY abouthome.aboutMozilla "عن موزيلا">
-
 <!-- LOCALIZATION NOTE (abouthome.defaultSnippet1.v1):
      text in <a/> will be linked to the Firefox features page on mozilla.com
 -->
+
 <!ENTITY abouthome.defaultSnippet1.v1 "شكرًا لاختيارك فَيَرفُكس! للاستفادة بأكبر قدر من متصفحك، اعرف المزيد عن <a>أحدث المزايا</a>.">
 <!-- LOCALIZATION NOTE (abouthome.defaultSnippet2.v1):
      text in <a/> will be linked to the featured add-ons on addons.mozilla.org
