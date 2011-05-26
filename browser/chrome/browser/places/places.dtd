@@ -5,12 +5,10 @@
 <!ENTITY organize.label        "Axeitar">
 <!ENTITY organize.accesskey    "A">
 <!ENTITY organize.tooltip      "Organizar marcadores">
-<!ENTITY file.accesskey                 "F">
+
 <!ENTITY file.close.label               "Zarrar">
 <!ENTITY file.close.accesskey           "Z">
 <!ENTITY cmd.close.key                  "w">
-<!ENTITY edit.label                     "Editar">
-<!ENTITY edit.accesskey                 "E">
 <!ENTITY views.label                    "Vistes">
 <!ENTITY views.accesskey                "V">
 <!ENTITY views.tooltip                  "Cambiar la vista">
@@ -78,8 +76,6 @@
 
 <!ENTITY cmd.reloadLivebookmark.label      "Recargar marcadores dinámicos">
 <!ENTITY cmd.reloadLivebookmark.accesskey  "R">
-<!ENTITY cmd.reloadMicrosummary.label      "Recargar títulu dinámicu">
-<!ENTITY cmd.reloadMicrosummary.accesskey  "R">
 
 
 <!ENTITY cmd.moveBookmarks.label                  "Mover…">
@@ -116,17 +112,16 @@
 <!ENTITY maintenance.label      "Importar y respaldar">
 <!ENTITY maintenance.accesskey  "I">
 <!ENTITY maintenance.tooltip "Importar y esportar marcadores">
-<!ENTITY backCmd.label       "Atrás">
 <!ENTITY backButton.tooltip  "Dir atrás">
 
-<!ENTITY forwardCmd.label       "Alantre">
+
 <!ENTITY forwardButton.tooltip  "Dir alantre">
 
 <!ENTITY detailsPane.more.label "Más">
 <!ENTITY detailsPane.more.accesskey "s">
 <!ENTITY detailsPane.less.label "Menos">
 <!ENTITY detailsPane.less.accesskey "e">
-<!ENTITY detailsPane.noPreviewAvailable.label "Previsualizar">
+
 <!ENTITY detailsPane.selectAnItemText.description "Seleiciona un elementu pa ver y editar les sos propiedaes">
 <!ENTITY find.label "Guetar:">
 <!ENTITY find.accesskey "u">

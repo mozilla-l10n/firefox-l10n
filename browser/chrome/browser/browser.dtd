@@ -80,8 +80,8 @@
 <!ENTITY subscribeToPageMenuitem.label "Soscribise a esta páxina…">
 <!ENTITY addCurPagesCmd.label "Amestar llingüetes a marcadores…">
 <!ENTITY showAllBookmarks2.label "Amosar tolos marcadores">
-<!ENTITY bookmarkAllCmd.label "Amestar toles llingüetes abiertes a marcadores…">
 <!ENTITY bookmarksToolbarChevron.tooltip "Amosar más marcadores">
+<!ENTITY unsortedBookmarksCmd.label "Marcadores ensin ordenar">
 <!ENTITY backCmd.label "Anterior">
 <!ENTITY backCmd.accesskey "n">
 <!ENTITY backButton.tooltip "Dir a la páxina anterior">
@@ -139,6 +139,8 @@
 <!ENTITY addons.label "Complementos">
 <!ENTITY addons.accesskey "C">
 <!ENTITY addons.commandkey "A">
+<!ENTITY webDeveloperMenu.label "Desendolcador web">
+<!ENTITY webDeveloperMenu.accesskey "W">
 <!ENTITY errorConsoleCmd.label "Consola d'errores">
 <!ENTITY errorConsoleCmd.accesskey "n">
 <!ENTITY errorConsoleCmd.commandkey "j">
@@ -148,6 +150,12 @@
 <!ENTITY inspectMenu.label "Inspeicionar">
 <!ENTITY inspectMenu.accesskey "r">
 <!ENTITY inspectMenu.commandkey "I">
+<!ENTITY scratchpad.label "Scratchpad">
+<!ENTITY scratchpad.accesskey "s">
+<!ENTITY scratchpad.keycode "VK_F4">
+<!ENTITY scratchpad.keytext "F4">
+
+
 <!ENTITY inspectPanelTitle.label "HTML">
 <!ENTITY inspectButton.label "Inspeicionar">
 <!ENTITY inspectButton.accesskey "I">
@@ -160,6 +168,8 @@
 <!ENTITY inspectStylePanelTitle.label "Estilu">
 <!ENTITY inspectObjectButton.label "Oxetu">
 <!ENTITY inspectObjectButton.accesskey "O">
+<!ENTITY getMoreDevtoolsCmd.label "Obtener más Ferramientes">
+<!ENTITY getMoreDevtoolsCmd.accesskey "m">
 <!ENTITY fileMenu.label "Ficheru">
 <!ENTITY fileMenu.accesskey "F">
 <!ENTITY newNavigatorCmd.label "Ventana nueva">
