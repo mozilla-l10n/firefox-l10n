@@ -13,5 +13,5 @@
 <!ENTITY switchToNewTabs.label "عند فتح وصلة في لسان جديد، انتقل إليها مباشرة">
 <!ENTITY switchToNewTabs.accesskey "ل">
 
-<!ENTITY showTabsInTaskbar.label          "أظهِر معاينات للألسنة في شريط مهام ويندوز">
-<!ENTITY showTabsInTaskbar.accesskey      "و">
+<!ENTITY showTabsInTaskbar.label "أظهِر معاينات للألسنة في شريط مهام ويندوز">
+<!ENTITY showTabsInTaskbar.accesskey "و">

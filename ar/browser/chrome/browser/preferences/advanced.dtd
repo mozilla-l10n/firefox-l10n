@@ -17,8 +17,8 @@
 <!ENTITY useAutoScroll.accesskey "ف">
 <!ENTITY useSmoothScrolling.label "استخدم اللّف السلس">
 <!ENTITY useSmoothScrolling.accesskey "خ">
-<!ENTITY allowHWAccel.label              "استخدم تسريع العتاد إن كان متاحًا">
-<!ENTITY allowHWAccel.accesskey          "ع">
+<!ENTITY allowHWAccel.label "استخدم تسريع العتاد إن كان متاحًا">
+<!ENTITY allowHWAccel.accesskey "ع">
 <!ENTITY checkSpelling.label "دقق الإملاء أثناء الكتابة">
 <!ENTITY checkSpelling.accesskey "ك">
 
@@ -28,8 +28,8 @@
 <!ENTITY alwaysCheckDefault.accesskey "د">
 <!ENTITY checkNow.label "تحقق الآن">
 <!ENTITY checkNow.accesskey "ن">
-<!ENTITY submitCrashes.label             "أرسِل بلاغًا بالانهيار">
-<!ENTITY submitCrashes.accesskey         "غ">
+<!ENTITY submitCrashes.label "أرسِل بلاغًا بالانهيار">
+<!ENTITY submitCrashes.accesskey "غ">
 
 <!ENTITY networkTab.label "الشبكة">
 
@@ -41,10 +41,10 @@
 
 <!ENTITY offlineStorage.label "الحفظ للاستخدام دون اتصال">
 <!-- LOCALIZATION NOTE:
-  The entities useCacheBefore.label and useCacheAfter.label appear on a single
+  The entities limitCacheSizeBefore.label and limitCacheSizeAfter.label appear on a single
   line in preferences as follows:
 
-  &useCacheBefore.label  [ textbox for cache size in MB ]   &useCacheAfter.label;
+  &limitCacheSizeBefore.label [textbox for cache size in MB] &limitCacheSizeAfter.label;
 -->
 
 <!ENTITY limitCacheSizeBefore.label "استعمل حتى">
@@ -52,16 +52,16 @@
 <!ENTITY limitCacheSizeAfter.label "م.بايت من المساحة للذّاكرة الخبيئة">
 <!ENTITY clearCacheNow.label "امسح الآن">
 <!ENTITY clearCacheNow.accesskey "م">
-<!ENTITY overrideSmartCacheSize.label    "تجاهل الإدارة الآلية للذاكرة الخبيئة">
+<!ENTITY overrideSmartCacheSize.label "تجاهل الإدارة الآلية للذاكرة الخبيئة">
 <!ENTITY overrideSmartCacheSize.accesskey "ذ">
 
 <!ENTITY updateTab.label "حدِّث">
 
 <!ENTITY autoCheck.label "التمس آليًا تحديثات:">
 <!ENTITY enableAppUpdate.label "&brandShortName;">
-<!ENTITY enableAppUpdate.accesskey       "ف">
-<!ENTITY enableAddonsUpdate2.label       "الإضافات">
-<!ENTITY enableAddonsUpdate2.accesskey   "ض">
+<!ENTITY enableAppUpdate.accesskey "ف">
+<!ENTITY enableAddonsUpdate2.label "الإضافات">
+<!ENTITY enableAddonsUpdate2.accesskey "ض">
 <!ENTITY enableSearchUpdate.label "محركات البحث">
 <!ENTITY enableSearchUpdate.accesskey "ح">
 <!ENTITY whenUpdatesFound.label "عند وجود تحديثات ل&brandShortName;:">

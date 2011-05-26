@@ -88,7 +88,7 @@
 <!ENTITY permTab "التّصاريح">
 <!ENTITY permTab.accesskey "ص">
 <!ENTITY permUseDefault "استخدم الافتراضي">
-<!ENTITY  permAskAlways         "اسأل دائمًا">
+<!ENTITY permAskAlways "اسأل دائمًا">
 <!ENTITY permAllow "اسمح">
 <!ENTITY permAllowSession "اسمح للجلسة">
 <!ENTITY permBlock "امنع">
@@ -97,11 +97,11 @@
 <!ENTITY permPopup "فتح نوافذ منبثقة">
 <!ENTITY permCookie "ضبط الكعكات">
 <!ENTITY permInstall "تثبيت امتدادات وسمات">
-<!ENTITY  permGeo               "تشارَك المكان">
+<!ENTITY permGeo "تشارَك المكان">
 
-<!ENTITY  permIndexedDB              "اسمح بالتخزين بلا اتصال">
-<!ENTITY  permClearStorage           "امسح المخزون">
-<!ENTITY  permClearStorage.accesskey "ح">
+<!ENTITY permIndexedDB "اسمح بالتخزين بلا اتصال">
+<!ENTITY permClearStorage "امسح المخزون">
+<!ENTITY permClearStorage.accesskey "ح">
 
 <!ENTITY securityTab "السريّة">
 <!ENTITY securityTab.accesskey "س">
