@@ -7,8 +7,6 @@
 
 <!ENTITY importFromIE.label             "Microsoft Internet Explorer">
 <!ENTITY importFromIE.accesskey         "M">
-<!ENTITY importFromPhoenix.label        "Firefox 0.8, Firebird or Phoenix">
-<!ENTITY importFromPhoenix.accesskey    "P">
 <!ENTITY importFromNothing.label        "Importi nenion">
 <!ENTITY importFromNothing.accesskey    "N">
 <!ENTITY importFromSeamonkey.label      "Netscape 6, 7 or Mozilla 1.x">
