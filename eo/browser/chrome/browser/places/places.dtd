@@ -6,12 +6,9 @@
 <!ENTITY organize.accesskey    "O">
 <!ENTITY organize.tooltip      "Organizi viajn legosignojn">
 
-<!ENTITY file.accesskey                 "M">
 <!ENTITY file.close.label               "Fermi">
 <!ENTITY file.close.accesskey           "F">
 <!ENTITY cmd.close.key                  "w">
-<!ENTITY edit.label                     "Modifi">
-<!ENTITY edit.accesskey                 "E">
 <!ENTITY views.label                    "Vidi">
 <!ENTITY views.accesskey                "V">
 <!ENTITY views.tooltip                  "Ŝanĝi la vidon">
@@ -76,8 +73,6 @@
 
 <!ENTITY cmd.reloadLivebookmark.label      "Reŝargi aktivan legosignon">
 <!ENTITY cmd.reloadLivebookmark.accesskey  "R">
-<!ENTITY cmd.reloadMicrosummary.label      "Reŝargi aktivan titolon">
-<!ENTITY cmd.reloadMicrosummary.accesskey  "R">
 
 <!ENTITY cmd.moveBookmarks.label                  "Movi…">
 <!ENTITY cmd.moveBookmarks.accesskey              "M">
@@ -113,17 +108,14 @@
 <!ENTITY maintenance.accesskey  "I">
 <!ENTITY maintenance.tooltip    "Importkaj sekurkopii viajn legosignojn">
 
-<!ENTITY backCmd.label       "Malantaŭen">
 <!ENTITY backButton.tooltip  "Malantaŭenn">
 
-<!ENTITY forwardCmd.label       "Antaŭen">
 <!ENTITY forwardButton.tooltip  "Antaŭen">
 
 <!ENTITY detailsPane.more.label "Pli">
 <!ENTITY detailsPane.more.accesskey "p">
 <!ENTITY detailsPane.less.label "Malpli">
 <!ENTITY detailsPane.less.accesskey "m">
-<!ENTITY detailsPane.noPreviewAvailable.label "Antaŭvidi">
 <!ENTITY detailsPane.selectAnItemText.description "Elekti elementon por vidi kaj modifi ĝiajn atributojn">
 
 <!ENTITY find.label               "Serĉi:">

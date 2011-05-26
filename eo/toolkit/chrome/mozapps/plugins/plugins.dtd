@@ -20,8 +20,6 @@
 <!ENTITY pluginWizard.finalPage.moreInfo.label               "Sciu pli pri kromprogramoj aŭ mem serĉi mankantajn kromprogramojn.">
 <!ENTITY pluginWizard.finalPage.restart.label                "&brandShortName; devas esti rekomencita antaŭ ol la kromprogramo(j) funkcios.">
   
-<!ENTITY missingPlugin.label                                 "Alkalku ĉi tie por elŝuti kromprogramon.">
-<!ENTITY disabledPlugin.label                                "La kromprogramo por tiu ĉi enhavo estis malaktivigita. Alklaku ĉi tie por administri viajn kromprogramojn.">
 <!ENTITY blockedPlugin.label                                 "Tiu ĉi kromprogramo estis blokita por protekti vin.">
 <!-- LOCALIZATION NOTE (reloadPlugin.pre): include a trailing space as needed -->
 <!-- LOCALIZATION NOTE (reloadPlugin.middle): avoid leading/trailing spaces, this text is a link -->
