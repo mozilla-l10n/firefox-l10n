@@ -22,15 +22,15 @@ tu li ciyekî rast î. Nasnameya vê malperê nayê rastandin.">
 <!ENTITY certerror.whatShouldIDo.content "Heke timî bêpirsgirêk
 dikevî vê malperê dibe ku hin kes niha êrîşî vê malperê dikin
 û divê tu niha jê derkevî.">
-<!ENTITY certerror.getMeOutOfHere.label "Min ji vê derê derxe!">
+<!ENTITY certerror.getMeOutOfHere.label "Get me out of here!">
 
-<!ENTITY certerror.expert.heading "Ez Rîskan Fêm Dikim">
-<!ENTITY certerror.expert.content "Heke dizanî ka çi diqewime, dikarî
-ji &brandShortName;'ê re bêjî ku ji nasnameya vê malperê bawer bike.
-<b>Heke pir baweriya te ji ewlekariya vê malperê heye, dibe ku hinek
-niha êrîşî girêdana te ya înternetê dikin.</b>">
-<!ENTITY certerror.expert.contentPara2 "Heta ku sedemeke te ya baş tune be,
-li nasnameya malperên wisa ewle nebe û zêdebariyê nedê.">
-<!ENTITY certerror.addException.label "Zêdebariyê Bidê…">
+<!ENTITY certerror.expert.heading "I Understand the Risks">
+<!ENTITY certerror.expert.content "If you understand what's going on, you
+can tell &brandShortName; to start trusting this site's identification.
+<b>Even if you trust the site, this error could mean that someone is
+tampering with your connection.</b>">
+<!ENTITY certerror.expert.contentPara2 "Don't add an exception unless
+you know there's a good reason why this site doesn't use trusted identification.">
+<!ENTITY certerror.addException.label "Add Exception…">
 
-<!ENTITY certerror.technical.heading "Kitekitên Teknîkî">
+<!ENTITY certerror.technical.heading "Technical Details">
