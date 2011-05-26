@@ -43,7 +43,7 @@
 <!ENTITY setup.newSyncKeyPage.description.label "Untuk memastikan privasi Anda secara menyeluruh, semua data Anda akan dienkripsi sebelum diunggah. Kunci Sinkronisasi yang diperlukan untuk mendekripsi data Anda tidak akan diunggah.">
 <!ENTITY syncKeyEntry.label        "Kunci Sinkronisasi Anda">
 <!ENTITY syncKeyEntry.accesskey    "K">
-<!ENTITY syncKeyGenerate.label     "Buat">
+<!ENTITY syncGenerateNewKey.label  "Ciptakan kunci baru">
 <!ENTITY syncKeyBackup.description "Kunci Sinkronisasi Anda dibutuhkan untuk mengakses &syncBrand.fullName.label; di perangkat lainnya. Mohon buat cadangannya, kami tidak dapat membantu Anda memulihkan Kunci Sinkronisasi Anda.">
 
 <!ENTITY button.syncKeyBackup.print.label     "Cetak…">

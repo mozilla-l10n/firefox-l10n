@@ -1,0 +1,123 @@
+<!-- LOCALIZATION NOTE : FILE This file contains the Scratchpad window strings -->
+<!-- LOCALIZATION NOTE : FILE Do not translate commandkeys -->
+
+<!-- LOCALIZATION NOTE (scratchpad.title):
+  -  The Scratchpad is intended to provide a simple text editor for creating
+  -  and evaluating bits of JavaScript code for the purposes of function
+  -  prototyping, experimentation and convenient scripting.
+  -
+  -  It's quite possible that you won't have a good analogue for the word
+  -  "Scratchpad" in your locale. You should feel free to find a close
+  -  approximation to it or choose a word (or words) that means
+  -  "simple discardable text editor". -->
+<!ENTITY window.title                 "Scratchpad">
+
+<!ENTITY fileMenu.label               "Berkas">
+<!ENTITY fileMenu.accesskey           "B">
+
+<!ENTITY newWindowCmd.label           "Jendela Baru">
+<!ENTITY newWindowCmd.accesskey       "J">
+<!ENTITY newWindowCmd.commandkey      "n">
+
+<!ENTITY openFileCmd.label            "Buka Berkas…">
+<!ENTITY openFileCmd.accesskey        "B">
+<!ENTITY openFileCmd.commandkey       "o">
+
+<!ENTITY saveFileCmd.label            "Simpan">
+<!ENTITY saveFileCmd.accesskey        "S">
+<!ENTITY saveFileCmd.commandkey       "s">
+
+<!ENTITY saveFileAsCmd.label          "Simpan dengan Nama…">
+<!ENTITY saveFileAsCmd.accesskey      "N">
+
+<!ENTITY closeCmd.label               "Tutup">
+<!ENTITY closeCmd.key                 "W">
+<!ENTITY closeCmd.accesskey           "C">
+
+<!ENTITY editMenu.label               "Edit">
+<!ENTITY editMenu.accesskey           "E">
+
+<!ENTITY undoCmd.label                "Batal">
+<!ENTITY undoCmd.key                  "Z">
+<!ENTITY undoCmd.accesskey            "B">
+
+<!ENTITY redoCmd.label                "Ulangi">
+<!ENTITY redoCmd.key                  "Y">
+<!ENTITY redoCmd.accesskey            "U">
+
+<!ENTITY cutCmd.label                 "Potong">
+<!ENTITY cutCmd.key                   "X">
+<!ENTITY cutCmd.accesskey             "t">
+
+<!ENTITY copyCmd.label                "Salin">
+<!ENTITY copyCmd.key                  "C">
+<!ENTITY copyCmd.accesskey            "S">
+
+<!ENTITY pasteCmd.label               "Tempel">
+<!ENTITY pasteCmd.key                 "V">
+<!ENTITY pasteCmd.accesskey           "P">
+
+<!ENTITY selectAllCmd.label           "Pilih Semua">
+<!ENTITY selectAllCmd.key             "A">
+<!ENTITY selectAllCmd.accesskey       "A">
+
+<!ENTITY run.label                    "Jalankan">
+<!ENTITY run.accesskey                "R">
+<!ENTITY run.key                      "l">
+
+<!ENTITY inspect.label                "Inspeksi">
+<!ENTITY inspect.accesskey            "I">
+<!ENTITY inspect.key                  "i">
+
+<!ENTITY display.label                "Tampilkan">
+<!ENTITY display.accesskey            "D">
+<!ENTITY display.key                  "l">
+
+<!-- LOCALIZATION NOTE (environmentMenu.label, accesskey): This menu item was
+  -  renamed from "Context" to avoid confusion with the right-click context
+  -  menu in the text area. It refers to the JavaScript Environment (or context)
+  -  the user is evaluating against. I.e., Content (current tab) or Chrome
+  -  (browser).
+  -->
+<!ENTITY environmentMenu.label        "Lingkungan">
+<!ENTITY environmentMenu.accesskey    "N">
+
+
+<!ENTITY contentContext.label         "Konten">
+<!ENTITY contentContext.accesskey     "C">
+
+<!-- LOCALIZATION NOTE (browserContext.label, accesskey): This menu item is used
+  -  to select an execution environment for the browser window itself as opposed
+  -  to content. This is a feature for browser and addon developers and only
+  -  enabled via the devtools.chrome.enabled preference. Formerly, this label
+  -  was called "Chrome".
+  -->
+<!ENTITY browserContext.label         "Peramban">
+<!ENTITY browserContext.accesskey     "B">
+
+<!-- LOCALIZATION NOTE (resetContext.label): This command allows the developer
+  -  to reset/clear the global object of the environment where the code executes.
+  -->
+<!ENTITY resetContext.label           "Setel Ulang">
+<!ENTITY resetContext.accesskey       "R">
+
+<!ENTITY executeMenu.label            "Eksekusi">
+<!ENTITY executeMenu.accesskey        "k">
+
+<!ENTITY toolsMenu.label              "Alat">
+<!ENTITY toolsMenu.accesskey          "T">
+
+<!ENTITY errorConsoleCmd.label        "Konsol Galat">
+<!ENTITY errorConsoleCmd.accesskey    "C">
+<!ENTITY errorConsoleCmd.commandkey   "j">
+
+<!ENTITY webConsoleCmd.label          "Konsol Web">
+<!ENTITY webConsoleCmd.accesskey      "W">
+<!ENTITY webConsoleCmd.commandkey     "k">
+
+<!-- LOCALIZATION NOTE (textbox.placeholder1): This is some placeholder text
+  -  that appears when the Scratchpad's text area is empty and unfocused.
+  -  It should be a one-line JavaScript comment, i.e., preceded by '//'
+  -->
+<!ENTITY textbox.placeholder1         "// Masukkan kode JavaScript, pilih, klik kanan, lalu pilih Jalankan, Inspeksi, atau Tampilkan.">
+
