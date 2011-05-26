@@ -6,7 +6,6 @@
 <!ENTITY editBookmarkOverlay.feedLocation.accesskey          "F">
 <!ENTITY editBookmarkOverlay.siteLocation.label              "Lokasi Situs:">
 <!ENTITY editBookmarkOverlay.siteLocation.accesskey          "s">
-<!ENTITY editBookmarkOverlay.liveTitlesSeparator.label       "Judul Markah Hidup">
 <!ENTITY editBookmarkOverlay.folder.label                    "Folder:">
 <!ENTITY editBookmarkOverlay.foldersExpanderDown.tooltip     "Tampilkan semua folder markah">
 <!ENTITY editBookmarkOverlay.expanderUp.tooltip              "Sembunyikan">
