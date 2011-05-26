@@ -139,8 +139,12 @@
 <!ENTITY cspFrameAncestorBlocked.title "Ji hêla Peymana Ewlekariya Naverokê ve hate astenkirin">
 <!ENTITY cspFrameAncestorBlocked.longDesc "<p>Ji ber ku di vê r»pelê de naverokeke peymana ewlekariyê ew asteng dike heye, gerokê di dema barkirina bi vî awayî de ev rûpel asteng kir.</p>">
 
+<!ENTITY remoteXUL.title "Remote XUL">
+<!ENTITY remoteXUL.longDesc "<p><ul><li>Please contact the website owners to inform them of this problem.</li></ul></p>">
+
 <!-- Include app-specific error messages - do not change this in localization!
      Some applications might override netErrorApp.dtd with their specific version,
-     this inclusion needs to be intact for that approach to work correctly. -->
+     this inclusion needs to be intact for that approach to work correctly.
+     Please, try to keep this at the end of the file. -->
 <!ENTITY % netErrorAppDTD SYSTEM "chrome://global/locale/netErrorApp.dtd">
 %netErrorAppDTD;
