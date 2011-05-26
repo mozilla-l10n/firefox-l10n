@@ -26,11 +26,6 @@
 <!-- categories / views -->
 <!ENTITY view.search.label                    "Serĉi">
 <!ENTITY view.discover.label                  "Elŝuti aldonaĵojn">
-<!ENTITY view.locales.label                   "Lingvoj">
-<!ENTITY view.searchengines.label             "Serĉiloj">
-<!ENTITY view.features.label                  "Etendoprogramoj">
-<!ENTITY view.appearance2.label               "Aspekto">
-<!ENTITY view.plugins.label                   "Kromprogramoj">
 <!ENTITY view.recentUpdates.label             "Ĵusaj ĝisdatigoj">
 <!ENTITY view.availableUpdates.label          "Haveblaj ĝisdatigoj">
 

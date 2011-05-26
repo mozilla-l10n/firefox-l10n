@@ -104,7 +104,6 @@ can reach it easily. -->
 <!ENTITY subscribeToPageMenuitem.label "Aboni tiun ĉi paĝon…">
 <!ENTITY addCurPagesCmd.label "Aldoni legosignon por ĉiuj folioj…">
 <!ENTITY showAllBookmarks2.label "Montri ĉiujn paĝosignojn">
-<!ENTITY bookmarkAllCmd.label "Aldoni legosignon por ĉiuj folioj…">
 <!ENTITY bookmarksToolbarChevron.tooltip "Montri pliajn legosignojn">
 
 <!ENTITY backCmd.label                "Malantaŭen">
