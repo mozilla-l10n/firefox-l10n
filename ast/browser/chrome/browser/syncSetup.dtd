@@ -31,7 +31,7 @@
 <!ENTITY setup.newSyncKeyPage.description.label "P'asegurar una privacidá total, cífrense tolos datos enantes d'unviase. La clave de Sync, que ye necesaria pa descifrar esos datos, nun s'unvia.">
 <!ENTITY syncKeyEntry.label "La to clave de Sync">
 <!ENTITY syncKeyEntry.accesskey "c">
-<!ENTITY syncKeyGenerate.label "Xenerar">
+<!ENTITY syncGenerateNewKey.label  "Xenerar una clave nueva">
 
 
 <!ENTITY syncKeyBackup.description "La clave de Sync ye necesaria p'acceder a &syncBrand.fullName.label; n'otros equpos. Por favor, fai una copia agora. Nun podemos ayudate a recuperar la to clave de Sync.">
