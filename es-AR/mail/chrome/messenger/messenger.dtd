@@ -761,8 +761,6 @@ you can use these alternative items. Otherwise, their values should be empty.  -
 <!ENTITY mdnBarSendButton2.label "Enviar acuse de recibo">
 <!ENTITY mdnBarSendButton2.accesskey "s">
 
-<!ENTITY mdnBarMessage.label "El remitente de este mensaje ha solicitado una confirmación de lectura del mensaje. ¿Quiere enviarle esta notificación?">
-
 <!-- Quick Search Bar -->
 <!-- LOCALIZATION NOTE (quickSearchCmd.key):
      This is actually the key used for the global message search box; we have
