@@ -6,7 +6,7 @@
 <!ENTITY forwardMsg.accesskey                 "m">
 <!ENTITY inline.label                         "Incorporado">
 <!ENTITY asAttachment.label                   "Como adjunto">
-<!ENTITY addExtension.label                   "agregar la extensión al nombre de archivo">
+<!ENTITY addExtension.label                   "Agregar la extensión al nombre de archivo">
 <!ENTITY addExtension.accesskey               "n">
 
 <!ENTITY htmlComposeHeader.label              "HTML">
