@@ -1,5 +1,5 @@
 <!ENTITY messengerStartPage.label         "Página de inicio de &brandShortName;">
-<!ENTITY enableStartPage.label            "Cuando se inicie &brandShortName;, muestre la página de inicio en el área de mensajes">
+<!ENTITY enableStartPage.label            "Cuando se inicie &brandShortName;, mostrar la página de inicio en el área de mensajes">
 <!ENTITY enableStartPage.accesskey        "i">
 <!ENTITY location.label                   "Dirección:">
 <!ENTITY location1.accesskey               "c">

@@ -7,7 +7,7 @@
 <!ENTITY helpMenuWin.accesskey "y">
 <!ENTITY helpTroubleshootingInfo.label     "Información para resolver problemas">
 <!ENTITY helpTroubleshootingInfo.accesskey "I">
-<!ENTITY helpSafeMode.label     "Reiniciar con complementos deshabilitados…">
+<!ENTITY helpSafeMode.label     "Reiniciar con los complementos deshabilitados…">
 <!ENTITY helpSafeMode.accesskey "R">
 <!ENTITY releaseCmd2.label "Notas de la versión">
 <!ENTITY releaseCmd2.accesskey "N">
