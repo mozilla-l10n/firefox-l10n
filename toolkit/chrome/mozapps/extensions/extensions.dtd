@@ -21,11 +21,10 @@
 <!ENTITY warning.updatesecurity.enable.tooltip "Activar comprobación de seguridá de complementos">
 <!ENTITY view.search.label "Guetar">
 <!ENTITY view.discover.label "Obtener complementos">
-<!ENTITY view.locales.label "Llingües">
-<!ENTITY view.searchengines.label "Guetadores">
-<!ENTITY view.features.label "Estensiones">
-<!ENTITY view.appearance2.label "Aspeutu">
-<!ENTITY view.plugins.label "Plugins">
+<!ENTITY info.plugincheck.label "Marca pa ver si los plugins tán anovaos">
+<!ENTITY info.plugincheck.tooltip "Marca pa ver si los plugins tán anovaos">
+
+
 <!ENTITY view.recentUpdates.label "Anovamientos recientes">
 <!ENTITY view.availableUpdates.label "Anovamientos disponibles">
 <!ENTITY updates.checkForUpdates.label "Guetar anovamientos">
