@@ -6,12 +6,9 @@
 <!ENTITY organize.accesskey    "C">
 <!ENTITY organize.tooltip      "Cuir air dòigh na comharran-lìn agad">
 
-<!ENTITY file.accesskey                 "F">
 <!ENTITY file.close.label               "Dùin">
 <!ENTITY file.close.accesskey           "D">
 <!ENTITY cmd.close.key                  "w">
-<!ENTITY edit.label                     "Deasaich">
-<!ENTITY edit.accesskey                 "e">
 <!ENTITY views.label                    "Seallaidhean">
 <!ENTITY views.accesskey                "S">
 <!ENTITY views.tooltip                  "Atharraich an sealladh">
@@ -76,8 +73,6 @@
 
 <!ENTITY cmd.reloadLivebookmark.label      "Ath-luchdaich comharra-lìn beò">
 <!ENTITY cmd.reloadLivebookmark.accesskey  "r">
-<!ENTITY cmd.reloadMicrosummary.label      "Ath-luchdaich tiotal beò">
-<!ENTITY cmd.reloadMicrosummary.accesskey  "A">
 
 <!ENTITY cmd.moveBookmarks.label                  "Gluais…">
 <!ENTITY cmd.moveBookmarks.accesskey              "G">
@@ -113,17 +108,14 @@
 <!ENTITY maintenance.accesskey  "I">
 <!ENTITY maintenance.tooltip    "Ion-phortaich is dèan leth-bhreac glèidhidh dhe na comharran-lìn agad">
 
-<!ENTITY backCmd.label       "Air ais">
 <!ENTITY backButton.tooltip  "Air ais">
 
-<!ENTITY forwardCmd.label       "Air adhart">
 <!ENTITY forwardButton.tooltip  "Air adhart">
 
 <!ENTITY detailsPane.more.label "Barrachd">
 <!ENTITY detailsPane.more.accesskey "B">
 <!ENTITY detailsPane.less.label "Nas lugha">
 <!ENTITY detailsPane.less.accesskey "N">
-<!ENTITY detailsPane.noPreviewAvailable.label "Ro-sheall">
 <!ENTITY detailsPane.selectAnItemText.description "Tagh rud gus fheartan fhaicinn agus an deasachadh">
 
 <!ENTITY find.label               "Lorg:">
