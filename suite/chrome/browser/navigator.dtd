@@ -40,9 +40,6 @@
 <!ENTITY printCmd.accesskey "I">
 <!ENTITY printCmd.commandkey "p">
 
-<!ENTITY viewMenu.label "Ver">
-<!ENTITY viewMenu.accesskey "v">
-
 <!ENTITY toolbarsCmd.label "Mostrar/Ocultar">
 <!ENTITY toolbarsCmd.accesskey "c">
 <!ENTITY navbarCmd.label "Barra de ferramentas de navegação">
