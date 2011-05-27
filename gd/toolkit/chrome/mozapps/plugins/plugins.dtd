@@ -19,10 +19,14 @@
 
 <!ENTITY pluginWizard.finalPage.moreInfo.label               "Faigh barrachd fiosrachaidh mu phlugain no lorg plugain a tha a dhìth ort de làimh.">
 <!ENTITY pluginWizard.finalPage.restart.label                "Feumaidh &brandShortName; ath-thòiseachadh mus obair am plugan/na plugain.">
-  
-<!ENTITY missingPlugin.label                                 "Briog an-seo gus am plugan a luchdadh a-nuas.">
-<!ENTITY disabledPlugin.label                                "Chaidh am plugan airson na susbainte seo a chur à comas. Briog an-seo airson na plugain agad a chur air dòigh.">
+
+<!ENTITY missingPlugin		                                 "Feumaidh tu plugan gus an t-susbaint seo fhaicinn.">
+<!ENTITY disabledPlugin                                      "Chaidh am plugan seo a chur à comas.">  
 <!ENTITY blockedPlugin.label                                 "Chaidh cas a chur air a' phlugan seo a chum do thèarainteachd.">
+
+<!ENTITY installPlugin                                       "Stàlaich plugan…">
+<!ENTITY managePlugins                                       "Rianaich na plugain…">
+
 <!-- LOCALIZATION NOTE (reloadPlugin.pre): include a trailing space as needed -->
 <!-- LOCALIZATION NOTE (reloadPlugin.middle): avoid leading/trailing spaces, this text is a link -->
 <!-- LOCALIZATION NOTE (reloadPlugin.post): include a starting space as needed -->
