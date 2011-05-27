@@ -226,6 +226,9 @@ can reach it easily. -->
 <!ENTITY inspectObjectButton.label       "Nì">
 <!ENTITY inspectObjectButton.accesskey   "N">
 
+<!ENTITY getMoreDevtoolsCmd.label        "Faigh barrachd innealan">
+<!ENTITY getMoreDevtoolsCmd.accesskey    "F">
+
 <!ENTITY fileMenu.label         "Faidhle"> 
 <!ENTITY fileMenu.accesskey       "F">
 <!ENTITY newNavigatorCmd.label        "Uinneag ùr">
