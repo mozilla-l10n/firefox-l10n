@@ -10,7 +10,7 @@
 
 <!ENTITY pluginWizard.licensePage.title                      "Llicencies de los Plugins">
 <!ENTITY pluginWizard.licensePage.accept.label               "Toi d'alcuerdu.">
-<!ENTITY pluginWizard.licensePage.deny.label                 "Nun toi d'alcuerdu (el plugin nun s'instalará).">
+<!ENTITY pluginWizard.licensePage.deny.label                 "Nun toi d'alcuerdu (el plugin nun va instalase).">
 
 <!ENTITY pluginWizard.installPluginsPage.title               "Instalando plugins">
 <!ENTITY pluginWizard.installPluginsPage.description.label   "&brandShortName; ta instalando plugins…">
@@ -19,9 +19,11 @@
 
 <!ENTITY pluginWizard.finalPage.moreInfo.label               "Más al rodiu de Plugins o guetar manualmente los plugins que falten.">
 <!ENTITY pluginWizard.finalPage.restart.label                "Necesítase reaniciar &brandShortName; pa que furrulen los plugins.">
-  
-<!ENTITY missingPlugin.label                                 "Calcar equí pa descargar el plugin.">
-<!ENTITY disabledPlugin.label                                "Desactivóse'l plugin pa esti conteníu. Calque equí p'alministrar los sos plugins.">
+<!ENTITY missingPlugin                                       "Necesítase un plugin p'amosar esti conteníu.">
+<!ENTITY disabledPlugin                                      "Esti plugin ta desactiváu.">
+<!ENTITY installPlugin                                       "Instalar plugin…">
+<!ENTITY managePlugins                                       "Xestionar plugins…">
+
 <!ENTITY blockedPlugin.label                                 "Bloquióse esti plugin pa la so proteición.">
 <!-- LOCALIZATION NOTE (reloadPlugin.pre): include a trailing space as needed -->
 <!-- LOCALIZATION NOTE (reloadPlugin.middle): avoid leading/trailing spaces, this text is a link -->
@@ -32,7 +34,7 @@
 <!-- LOCALIZATION NOTE (report.please): This and the other report.* strings should be as short as possible, ideally 2-3 words. -->
 <!ENTITY report.please                                       "Unviar informe de fallu">
 <!ENTITY report.submitting                                   "Unviando informe…">
-<!ENTITY report.submitted                                    "Unvíose informe de fallu.">
+<!ENTITY report.submitted                                    "Unvióse informe de fallu.">
 <!ENTITY report.disabled                                     "Desactiváu informe de fallu.">
 <!ENTITY report.failed                                       "Falló l'unvíu.">
 <!ENTITY report.unavailable                                  "Informe non disponible.">

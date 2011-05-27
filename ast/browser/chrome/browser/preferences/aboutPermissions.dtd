@@ -1,0 +1,20 @@
+<!ENTITY permissionsManager.title "Alministrador de permisos">
+<!ENTITY sites.search "Guetar sitios">
+<!ENTITY sites.allSites "Tolos sitios">
+<!ENTITY header.site.start "Permisos pa">
+<!ENTITY header.site.end "">
+<!ENTITY header.defaults "Permisos por defeutu pa tolos sitios">
+<!ENTITY permissions.forgetSite "Escaecer esti sitiu web">
+<!ENTITY permission.alwaysAsk "Entrugar siempre">
+<!ENTITY permission.allow "Permitir">
+<!ENTITY permission.allowForSession "Permitir pa la sesión">
+<!ENTITY permission.block "Bloquiar">
+<!ENTITY password.label "Guardar contraseñes">
+<!ENTITY password.manage "Xestionar contraseñes…">
+<!ENTITY cookie.label "Afitar cookies">
+<!ENTITY cookie.clear "Llimpiar cookies">
+<!ENTITY cookie.manage "Xestionar cookies…">
+<!ENTITY cookie.clearAll "Llimpiar toles cookies">
+<!ENTITY geo.label "Compartir llocalización">
+<!ENTITY indexedDB.label "Caltener almacenamientu en mou ensin conexón">
+<!ENTITY popup.label "Abrir ventanes emerxentes">
