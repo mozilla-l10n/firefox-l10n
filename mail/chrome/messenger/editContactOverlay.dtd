@@ -15,3 +15,5 @@
 
 <!ENTITY editContactPanelDone.label "Dèanta">
 <!ENTITY editContactPanelDone.accesskey "D">
+
+<!ENTITY contactMoveDisabledWarning.description "Chan urrainn dhut leabhar nan seòladh atharrachadh a chionn 's gu bheil a' charaid air liosta puist.">
