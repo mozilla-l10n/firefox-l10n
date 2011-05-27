@@ -1,16 +1,83 @@
 <!ENTITY aboutDialog.title      "Mu &brandFullName;">
-<!ENTITY aboutButton.label      "&lt; Air ais">
-<!ENTITY aboutButton.accesskey  "A">
-<!ENTITY aboutVersion           "tionndadh">
-<!ENTITY aboutMenu.label        "Mu dhèidhinn">
-<!ENTITY aboutMenu.accesskey    "M">
-<!ENTITY aboutCredits.label     "Creideisean">
-<!ENTITY aboutCredits.accesskey "C">
-<!ENTITY aboutRights.label      "Do chòraichean">
-<!ENTITY aboutRights.accesskey  "r">
-<!ENTITY aboutContributors.label "Com-pàirtichean">
-<!ENTITY aboutContributors.accesskey "o">
-<!ENTITY aboutLicense.label      "Ceadachas">
-<!ENTITY aboutLicense.accesskey  "C">
+
+<!ENTITY community.start2           "Tha &brandShortName; air a dhealbhadh le ">
+<!-- LOCALIZATION NOTE (community.mozillaLink): This is a link title that links to http://www.mozilla.org/. -->
+<!ENTITY community.mozillaLink      "&vendorShortName;">
+<!ENTITY community.middle2          ", ">
+<!-- LOCALIZATION NOTE (community.creditsLink): This is a link title that links to about:credits. -->
+<!ENTITY community.creditsLink      "coimhearsnachd an t-saoghail">
+<!ENTITY community.end2             " a tha ag obair còmhla gus piseach a thoirt air an eadar-lìon. Tha sinn sa bheachd gum bu chòir dhan eadar-lìon a bhith fosgailte is poblach dhan a h-uile duine gun bacadh sam bith air an inntrigeadh dha.">
+
+<!ENTITY contribute.start           "Ùidh agad ann? ">
+<!-- LOCALIZATION NOTE (contribute.getInvolvedLink): This is a link title that links to http://www.mozilla.org/contribute/. -->
+<!ENTITY contribute.getInvolvedLink "Gabh pàirt!">
+<!ENTITY contribute.end             "">
+
+<!-- LOCALIZATION NOTE (bottomLinks.license): This is a link title that links to about:license. -->
+<!ENTITY bottomLinks.license        "Fiosrachadh ceadachais">
+
+<!-- LOCALIZATION NOTE (bottomLinks.rights): This is a link title that links to about:rights. -->
+<!ENTITY bottomLinks.rights         "Còraichean a' Chleachdaiche Dheireannaich">
+
+<!-- LOCALIZATION NOTE (bottomLinks.privacy): This is a link title that links to http://www.mozilla.com/legal/privacy/. -->
+<!ENTITY bottomLinks.privacy        "Poileasaidh prìobhaideachd">
+
+<!-- LOCALIZATION NOTE (update.checkingForUpdates): try to make the localized text short (see bug 596813 for screenshots). -->
+<!ENTITY update.checkingForUpdates  "A' lorg ùrachaidhean…">
+<!-- LOCALIZATION NOTE (update.checkingAddonCompat): try to make the localized text short (see bug 596813 for screenshots). -->
+<!ENTITY update.checkingAddonCompat "A' sgrùdadh co-chòrdalachd an tuilleadain…">
+<!-- LOCALIZATION NOTE (update.noUpdatesFound): try to make the localized text short (see bug 596813 for screenshots). -->
+<!ENTITY update.noUpdatesFound      "Tha &brandShortName; cho ùr 's a ghabhas">
+<!-- LOCALIZATION NOTE (update.adminDisabled): try to make the localized text short (see bug 596813 for screenshots). -->
+<!ENTITY update.adminDisabled       "Chuir rianaire an t-siostaim agad casg air ùrachaidhean">
+
+<!-- LOCALIZATION NOTE (update.failed.start,update.failed.linkText,update.failed.end):
+     update.failed.start, update.failed.linkText, and update.failed.end all go into
+     one line with linkText being wrapped in an anchor that links to a site to download
+     the latest version of Firefox (e.g. http://www.firefox.com). As this is all in
+     one line, try to make the localized text short (see bug 596813 for screenshots). -->
+<!ENTITY update.failed.start        "Dh'fhàillig an t-ùrachadh. ">
+<!ENTITY update.failed.linkText     "Luchdaich a-nuas an tionndadh as ùire">
+<!ENTITY update.failed.end          "">
+
+<!-- LOCALIZATION NOTE (update.manual.start,update.manual.end): update.manual.start and update.manual.end
+     all go into one line and have an anchor in between with text that is the same as the link to a site
+     to download the latest version of Firefox (e.g. http://www.firefox.com). As this is all in one line,
+     try to make the localized text short (see bug 596813 for screenshots). -->
+<!ENTITY update.manual.start        "Luchdaich a-nuas">
+<!ENTITY update.manual.linkText     "an tionndadh as ùire">
+<!ENTITY update.manual.end          "">
+
+<!-- LOCALIZATION NOTE (update.downloading.start,update.downloading.end): update.downloading.start and 
+     update.downloading.end all go into one line, with the amount downloaded inserted in between. As this
+     is all in one line, try to make the localized text short (see bug 596813 for screenshots). The — is
+     the "em dash" (long dash).
+     example: Downloading update — 111 KB of 13 MB -->
+<!ENTITY update.downloading.start   "A' luchdadh a-nuas an ùrachaidh — ">
+<!ENTITY update.downloading.end     "">
+
+<!-- LOCALIZATION NOTE (channel.description.start,channel.description.end): channel.description.start and
+     channel.description.end create one sentence, with the current channel label inserted in between.
+     example: You are currently on the _Stable_ update channel. -->
+<!ENTITY channel.description.start  "Tha thu san t-seanail ùrachaidh ">
+<!ENTITY channel.description.end    " an-dràsta. ">
+
+<!ENTITY channel.change             "Atharraich">
+
+<!ENTITY channel.release.description       "Gabh tlachd san sgaoileadh dearbhte as ùire a tha na milleanan de dhaoine air feadh an t-saoghail. Bi smachd agad air na thachras air loidhne aig dearg-astar, le gnàthachadh èasgaidh agus an teicneolas-lìn as ùire.">
+<!ENTITY channel.beta.description          "Feuch na feartan ùr-nodha a tha nas seasmhaiche na bha iad a-riamh. Innis dhuinn dè do bheachd orra gus an urrainn dhuinn piseach a chur air na bhios san sgaoileadh fhèin aig a' cheann thall.">
+<!ENTITY channel.aurora.description        "Feuch na feartan as ùire ann an àrainneachd dho-sheasmhach. 'S e seo an t-àite cearr do leth-phlaidean! Innis dhuinn dè do bheachd air na feartan 's an dèanadas agus bidh buaidh agad air na bhios san sgaoileadh fhèin aig a' cheann thall.">
+
+<!-- LOCALIZATION NOTE (channel.selector.start,channel.selector.end): channel.selector.start and
+     channel.selector.end create one sentence, with a channel selection menulist instered in between.
+     This is all in one line, so try to make the localized text short.
+     example: Switch to the [Stable] update channel. -->
+<!ENTITY channel.selector.start          "Leum dhan t-seanail ùrachaidh">
+<!ENTITY channel.selector.end            ".">
+
+<!-- LOCALIZATION NOTE (channel.selector.applyButton): This button applies the user's choice to switch
+     to a new update channel and starts the application update process. -->
+<!ENTITY channel.selector.applyButton    "Cuir an sàs e 's ùraich">
+<!ENTITY channel.selector.cancelButton   "Sguir dheth">
 
 <!ENTITY cmdCloseMac.commandKey "w">
