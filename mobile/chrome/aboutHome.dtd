@@ -8,6 +8,3 @@
 <!ENTITY aboutHome.openAllTabs                  "Fosgail gach aon dhiubh ann an taba">
 <!ENTITY aboutHome.noTabs                       "Chan eil tabaichean ann on turas mu dheireadh">
 <!ENTITY aboutHome.noAddons                     "Chan eil tuilleadan molta ann">
-
-<!-- LOCALIZATION NOTE: 'Firefox Spark' is the official name of the promotion/constest and should not be translated -->
-<!-- LOCALIZATION NOTE: 'Play' should be translated in the context of 'playing a game' and not 'playing a video' -->
