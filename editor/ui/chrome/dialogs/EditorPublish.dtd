@@ -59,7 +59,7 @@
 <!ENTITY sameLocationRadio.tooltip    "輸出檔案到與頁面相同位置">
 <!ENTITY useSubdirRadio.label         "使用此網站目錄:">
 <!ENTITY useSubdirRadio.accesskey     "d">
-<!ENTITY useSubdirRadio.tooltip       "將檔案發佈至遠端目錄上">
+<!ENTITY useSubdirRadio.tooltip       "將檔案發佈至所選的遠端子目錄">
 <!ENTITY otherDirList.tooltip         "輸入要存放本頁面的遠端目錄名稱">
 <!ENTITY pageTitle.label              "頁面標題:">
 <!ENTITY pageTitle.accesskey          "T">

@@ -9,9 +9,6 @@
 <!ENTITY closeTabCmd2.accesskey "C">
 <!ENTITY closeOtherTabsCmd2.label "關閉其他分頁">
 <!ENTITY closeOtherTabsCmd2.accesskey "o">
-<!-- LOCALIZATION NOTE (undoCloseTabCmd.label):
-     Menu option to attempt to re-open a recently closed tab.
-     -->
 <!ENTITY recentlyClosedTabsCmd.label "最近關閉的分頁">
 <!ENTITY recentlyClosedTabsCmd.accesskey "R">
 
@@ -39,7 +36,6 @@
 <!ENTITY saveAsFileCmd.key "s">
 <!ENTITY saveAsTemplateCmd.label "範本">
 <!ENTITY saveAsTemplateCmd.accesskey "T">
-<!ENTITY getNewMsgCmd.key "d">
 <!ENTITY getNewMsgForCmd.label "下載新郵件">
 <!ENTITY getNewMsgForCmd.accesskey "w">
 <!ENTITY getAllNewMsgCmdPopupMenu.label "所有帳號">
@@ -521,7 +517,6 @@ you can use these alternative items. Otherwise, their values should be empty.  -
 <!ENTITY getMsgButton.tooltip "下載新郵件">
 <!ENTITY getAllNewMsgCmd.label "下載所有新郵件">
 <!ENTITY getAllNewMsgCmd.accesskey "G">
-<!ENTITY getAllNewMsgCmd.key "d">
 <!ENTITY newMsgButton.tooltip "建立新郵件">
 <!ENTITY replyButton.tooltip "回覆此信">
 <!ENTITY replyAllButton.tooltip "回信給寄件者及所有收件者">
