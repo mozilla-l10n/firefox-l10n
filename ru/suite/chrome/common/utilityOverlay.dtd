@@ -15,7 +15,7 @@
 <!ENTITY newNavigatorCmd.key "N">
 <!ENTITY newNavigatorCmd.accesskey "к">
 <!ENTITY editMenu.label "Правка">
-<!ENTITY editMenu.accesskey "р">
+<!ENTITY editMenu.accesskey "П">
 <!ENTITY undoCmd.label "Отменить">
 <!ENTITY undoCmd.key "Z">
 <!ENTITY undoCmd.accesskey "т">
@@ -27,19 +27,19 @@
 <!ENTITY cutCmd.accesskey "ы">
 <!ENTITY copyCmd.label "Копировать">
 <!ENTITY copyCmd.key "C">
-<!ENTITY copyCmd.accesskey "п">
+<!ENTITY copyCmd.accesskey "К">
 <!ENTITY pasteCmd.label "Вставить">
 <!ENTITY pasteCmd.key "V">
-<!ENTITY pasteCmd.accesskey "с">
+<!ENTITY pasteCmd.accesskey "а">
 <!ENTITY pasteGoCmd.label "Вставить и перейти">
 <!ENTITY pasteGoCmd.accesskey "а">
 <!ENTITY pasteSearchCmd.label "Вставить и искать">
 <!ENTITY pasteSearchCmd.accesskey "а">
 <!ENTITY deleteCmd.label "Удалить">
-<!ENTITY deleteCmd.accesskey "д">
+<!ENTITY deleteCmd.accesskey "У">
 <!ENTITY selectAllCmd.label "Выделить всё">
 <!ENTITY selectAllCmd.key "A">
-<!ENTITY selectAllCmd.accesskey "е">
+<!ENTITY selectAllCmd.accesskey "ы">
 <!ENTITY clearHistoryCmd.label "Очистить историю поиска">
 <!ENTITY clearHistoryCmd.accesskey "ч">
 <!ENTITY showSuggestionsCmd.label "Показывать предложения">

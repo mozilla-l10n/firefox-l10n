@@ -47,7 +47,7 @@
 <!ENTITY minSize.none "Нет">
 <!ENTITY useDefaultFontSerif.label "С засечками">
 <!ENTITY useDefaultFontSansSerif.label "Без засечек">
-<!ENTITY useDocumentFonts.label "Разрешить сообщениям использовать другие шрифты">
+<!ENTITY useDocumentFonts.label "Разрешить документам использовать другие шрифты">
 <!ENTITY useDocumentFonts.accesskey "Р">
 <!ENTITY header2 "Когда для страницы определён другой шрифт">
 <!ENTITY useDefaultFont.label "Использовать мои шрифты, игнорируя указанные для страницы">

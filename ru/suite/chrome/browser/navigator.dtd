@@ -28,8 +28,6 @@
 <!ENTITY printCmd.label "Печать…">
 <!ENTITY printCmd.accesskey "е">
 <!ENTITY printCmd.commandkey "p">
-<!ENTITY viewMenu.label "Вид">
-<!ENTITY viewMenu.accesskey "В">
 <!ENTITY toolbarsCmd.label "Показать/скрыть">
 <!ENTITY toolbarsCmd.accesskey "П">
 <!ENTITY navbarCmd.label "Панель навигации">
