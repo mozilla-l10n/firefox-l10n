@@ -23,14 +23,13 @@
 <!ENTITY warning.updatesecurity.enable.label       "Cuir an comas">
 <!ENTITY warning.updatesecurity.enable.tooltip     "Cuir an comas sgrùdadh tèarainteachd nan tuilleadan">
 
+<!-- global informations -->
+<!ENTITY info.plugincheck.label                 "Thoir sùil ach a bheil na plugain agad cho ùr 's a ghabhas">
+<!ENTITY info.plugincheck.tooltip               "Thoir sùil ach a bheil na plugain agad cho ùr 's a ghabhas">
+
 <!-- categories / views -->
 <!ENTITY view.search.label                    "Lorg">
 <!ENTITY view.discover.label                  "Faigh tuilleadain">
-<!ENTITY view.locales.label                   "Cànain">
-<!ENTITY view.searchengines.label             "Einnseanan-luirg">
-<!ENTITY view.features.label                  "Leudachain">
-<!ENTITY view.appearance2.label               "Riochd">
-<!ENTITY view.plugins.label                   "Plugain">
 <!ENTITY view.recentUpdates.label             "Ùraichaidhean faisg ort">
 <!ENTITY view.availableUpdates.label          "Ùrachaidhean a tha ri am faighinn">
 
