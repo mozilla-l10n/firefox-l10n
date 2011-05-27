@@ -45,9 +45,6 @@
 <!-- File menu items -->
 <!ENTITY fileMenu.label "Archivo">
 <!ENTITY fileMenu.accesskey "A">
-<!ENTITY newBlankPageCmd.label "Nueva página de Composer">
-<!ENTITY newBlankPageCmd.accesskey "P">
-<!ENTITY newMenu.label "Nuevo">
 <!ENTITY openFileCmd.label "Abrir archivo…">
 <!ENTITY openFileCmd.accesskey "a">
 <!ENTITY openFileCmd.key "a">
@@ -393,6 +390,7 @@
 <!-- Toolbar-only items -->
 <!ENTITY menuBar.tooltip "Barra de menú">
 <!ENTITY formatToolbar.tooltip "Barra de herramientas de formato">
+<!ENTITY newToolbarCmd.label "Nueva">
 <!ENTITY newToolbarCmd.tooltip "Crear una nueva página de Composer">
 <!ENTITY openToolbarCmd.label "Abrir">
 <!ENTITY openToolbarCmd.tooltip "Abrir un archivo local">
