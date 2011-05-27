@@ -26,9 +26,9 @@
 <!ENTITY downloadManagerCmd.label "Управление загрузками">
 <!ENTITY downloadManagerCmd.accesskey "з">
 <!ENTITY downloadManagerCmd.commandkey "j">
-<!ENTITY addonsManagerCmd.label "Управление дополнениями">
-<!ENTITY addonsManagerCmd.accesskey "д">
-<!ENTITY addonsManagerCmd.commandkey "a">
+<!ENTITY addOnsManagerCmd.label "Управление дополнениями">
+<!ENTITY addOnsManagerCmd.accesskey "д">
+<!ENTITY addOnsManagerCmd.commandkey "a">
 <!ENTITY switchProfileCmd.label "Выбрать другой профиль…">
 <!ENTITY switchProfileCmd.accesskey "ы">
 <!ENTITY syncBrand.shortName.label "Sync">
