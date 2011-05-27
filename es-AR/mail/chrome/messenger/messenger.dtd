@@ -39,7 +39,6 @@
 <!ENTITY saveAsFileCmd.key "s">
 <!ENTITY saveAsTemplateCmd.label "Plantilla">
 <!ENTITY saveAsTemplateCmd.accesskey "P">
-<!ENTITY getNewMsgCmd.key "t">
 <!ENTITY getNewMsgForCmd.label "Recibir mensajes nuevos de">
 <!ENTITY getNewMsgForCmd.accesskey "b">
 <!ENTITY getAllNewMsgCmdPopupMenu.label "todas las cuentas">
@@ -521,7 +520,6 @@ you can use these alternative items. Otherwise, their values should be empty.  -
 <!ENTITY getMsgButton.tooltip "Recibir mensajes nuevos">
 <!ENTITY getAllNewMsgCmd.label "Recibir todos los mensajes nuevos">
 <!ENTITY getAllNewMsgCmd.accesskey "j">
-<!ENTITY getAllNewMsgCmd.key "t">
 <!ENTITY newMsgButton.tooltip "Crear nuevo mensaje">
 <!ENTITY replyButton.tooltip "Responder al mensaje">
 <!ENTITY replyAllButton.tooltip "Responder al remitente y a todos los destinatarios">
@@ -764,8 +762,6 @@ you can use these alternative items. Otherwise, their values should be empty.  -
 <!ENTITY mdnBarSendButton2.accesskey "s">
 
 <!ENTITY mdnBarMessage.label "El remitente de este mensaje ha solicitado una confirmación de lectura del mensaje. ¿Quiere enviarle esta notificación?">
-<!ENTITY mdnBarIgnoreButton.label "Ignorar pedido">
-<!ENTITY mdnBarSendButton.label "Enviar acuse">
 
 <!-- Quick Search Bar -->
 <!-- LOCALIZATION NOTE (quickSearchCmd.key):

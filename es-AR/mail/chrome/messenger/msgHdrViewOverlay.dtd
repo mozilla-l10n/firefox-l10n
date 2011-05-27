@@ -126,13 +126,15 @@
 <!ENTITY openAttachmentMenuItem.accesskey    "a">
 <!ENTITY saveAsAttachmentMenuItem.label    "guardar como…">
 <!ENTITY saveAsAttachmentMenuItem.accesskey    "g">
-<!ENTITY detachAttachmentMenuItem.label    "detach…">
+<!ENTITY detachAttachmentMenuItem.label    "despegar…">
 <!ENTITY detachAttachmentMenuItem.accesskey    "d">
 <!ENTITY deleteAttachmentMenuItem.label    "borrar">
 <!ENTITY deleteAttachmentMenuItem.accesskey    "b">
+<!ENTITY openAllAttachmentsMenuItem.label    "abrir todo…">
+<!ENTITY openAllAttachmentsMenuItem.accesskey    "r">
 <!ENTITY saveAllAttachmentsMenuItem.label    "guardar todo…">
 <!ENTITY saveAllAttachmentsMenuItem.accesskey    "t">
-<!ENTITY detachAllAttachmentsMenuItem.label    "detach all…">
+<!ENTITY detachAllAttachmentsMenuItem.label    "despegar todo…">
 <!ENTITY detachAllAttachmentsMenuItem.accesskey    "d">
 <!ENTITY deleteAllAttachmentsMenuItem.label    "borrar todo…">
 <!ENTITY deleteAllAttachmentsMenuItem.accesskey    "o">
