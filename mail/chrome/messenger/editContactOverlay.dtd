@@ -15,3 +15,5 @@
 
 <!ENTITY editContactPanelDone.label "Feito">
 <!ENTITY editContactPanelDone.accesskey "F">
+
+<!ENTITY contactMoveDisabledWarning.description "Não pode alterar o livro de endereços porque o contacto está na lista de discussão.">
