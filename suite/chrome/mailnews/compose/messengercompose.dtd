@@ -117,24 +117,14 @@
 <!ENTITY spellCheckIgnoreWord.accesskey "П">
 <!ENTITY spellCheckAddToDictionary.label "Добавить в словарь">
 <!ENTITY spellCheckAddToDictionary.accesskey "с">
-<!ENTITY undo.label "Отменить">
-<!ENTITY undo.accesskey "О">
-<!ENTITY cut.label "Вырезать">
-<!ENTITY cut.accesskey "В">
-<!ENTITY copy.label "Копировать">
-<!ENTITY copy.accesskey "К">
-<!ENTITY paste.label "Вставить">
-<!ENTITY paste.accesskey "с">
 <!ENTITY pasteQuote.label "Вставить как цитату">
 <!ENTITY pasteQuote.accesskey "ц">
 <!ENTITY openAttachment.label "Открыть">
 <!ENTITY openAttachment.accesskey "т">
-<!ENTITY delete.label "Удалить">
-<!ENTITY delete.accesskey "У">
 <!ENTITY renameAttachment.label "Переименовать…">
 <!ENTITY renameAttachment.accesskey "м">
-<!ENTITY selectAll.label "Выделить всё">
-<!ENTITY selectAll.accesskey "ы">
+<!ENTITY deleteAttachment.accesskey "д">
+<!ENTITY selectAllAttachments.accesskey "ы">
 <!ENTITY attachFile.label "Вложить файл(ы)…">
 <!ENTITY attachFile.accesskey "ф">
 <!ENTITY attachPage.label "Вложить веб-страницу…">
