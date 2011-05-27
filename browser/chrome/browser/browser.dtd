@@ -104,7 +104,6 @@ can reach it easily. -->
 <!ENTITY subscribeToPageMenuitem.label "Fo-sgrìobh gun duilleag seo…">
 <!ENTITY addCurPagesCmd.label "Dèan comharra-lìn de gach taba…">
 <!ENTITY showAllBookmarks2.label "Seall a h-uile comharra-lìn">
-<!ENTITY bookmarkAllCmd.label "Dèan comharra-lìn de gach taba…">
 <!ENTITY bookmarksToolbarChevron.tooltip "Tuilleadh chomharran-lìn">
 
 <!ENTITY backCmd.label                "Air ais">
