@@ -23,14 +23,13 @@
 <!ENTITY warning.updatesecurity.enable.label       "Activar">
 <!ENTITY warning.updatesecurity.enable.tooltip     "Activar verificação de actualização de segurança do extra">
 
+<!-- global informations -->
+<!ENTITY info.plugincheck.label                 "Verificar plugins para ver se estão actualizados">
+<!ENTITY info.plugincheck.tooltip               "Verificar plugins para ver se estão actualizados">
+
 <!-- categories / views -->
-<!ENTITY view.search.label 					  "Procurar">
+<!ENTITY view.search.label                    "Procurar">
 <!ENTITY view.discover.label                  "Obter extras">
-<!ENTITY view.locales.label                   "Idiomas">
-<!ENTITY view.searchengines.label             "Motores de pesquisa">
-<!ENTITY view.features.label                  "Extensões">
-<!ENTITY view.appearance2.label               "Aparência">
-<!ENTITY view.plugins.label                   "Plugins">
 <!ENTITY view.recentUpdates.label             "Actualizações recentes">
 <!ENTITY view.availableUpdates.label          "Actualizações disponíveis">
 
@@ -39,8 +38,17 @@
 <!ENTITY updates.checkForUpdates.accesskey    "c">
 <!ENTITY updates.viewUpdates.label            "Ver actualizações recentes">
 <!ENTITY updates.viewUpdates.accesskey        "V">
+<!-- LOCALIZATION NOTE (updates.updateAddonsAutomatically.label): This menu item
+     is a checkbox that toggles the default global behavior for add-on update
+     checking. -->
 <!ENTITY updates.updateAddonsAutomatically.label     "Actualizar extras automaticamente">
 <!ENTITY updates.updateAddonsAutomatically.accesskey "A">
+<!-- LOCALIZATION NOTE (updates.resetUpdatesToAutomatic.label, updates.resetUpdatesToManual.label):
+     Specific addons can have custom update checking behaviors ("Manually",
+     "Automatically", "Use default global behavior"). These menu items reset the
+     update checking behavior for all add-ons to the default global behavior
+     (which itself is either "Automatically" or "Manually", controlled by the
+     updates.updateAddonsAutomatically.label menu item). -->
 <!ENTITY updates.resetUpdatesToAutomatic.label       "Reiniciar todos os extras para actualizarem automaticamente">
 <!ENTITY updates.resetUpdatesToAutomatic.accesskey   "R">
 <!ENTITY updates.resetUpdatesToManual.label          "Reiniciar todos os extras para actualizarem manualmente">
