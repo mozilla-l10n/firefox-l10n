@@ -6,12 +6,9 @@
 <!ENTITY organize.accesskey    "O">
 <!ENTITY organize.tooltip      "Bijareyên xwe bi rê ve bibe">
 
-<!ENTITY file.accesskey                 "F">
 <!ENTITY file.close.label               "Girtin">
 <!ENTITY file.close.accesskey           "G">
 <!ENTITY cmd.close.key                  "W">
-<!ENTITY edit.label                     "Serastkirin">
-<!ENTITY edit.accesskey                 "e">
 <!ENTITY views.label                    "Xuyakirin">
 <!ENTITY views.accesskey                "X">
 <!ENTITY views.tooltip                  "Xuyakirina xwe biguherîne">
@@ -76,8 +73,6 @@
 
 <!ENTITY cmd.reloadLivebookmark.label      "Bijareya Zindî Ji Nû VeBar Bike">
 <!ENTITY cmd.reloadLivebookmark.accesskey  "r">
-<!ENTITY cmd.reloadMicrosummary.label      "Sernivîsa Zindî Ji Nû Ve Bar Bike">
-<!ENTITY cmd.reloadMicrosummary.accesskey  "r">
 
 <!ENTITY cmd.moveBookmarks.label                  "Bibe...">
 <!ENTITY cmd.moveBookmarks.accesskey              "B">
@@ -113,17 +108,14 @@
 <!ENTITY maintenance.accesskey  "i">
 <!ENTITY maintenance.tooltip    "Bijareyên xwe derxe û hilîne">
 
-<!ENTITY backCmd.label       "Paş">
 <!ENTITY backButton.tooltip  "Here paş">
 
-<!ENTITY forwardCmd.label       "Pêş">
 <!ENTITY forwardButton.tooltip  "Here pêş">
 
 <!ENTITY detailsPane.more.label "Zêdetir">
 <!ENTITY detailsPane.more.accesskey "e">
 <!ENTITY detailsPane.less.label "Kêmtir">
 <!ENTITY detailsPane.less.accesskey "K">
-<!ENTITY detailsPane.noPreviewAvailable.label "Pêşdîtin">
 <!ENTITY detailsPane.selectAnItemText.description "Ji bo nîşandan û serrastkirina taybetmendiyan yekê hilbijêre">
 
 <!ENTITY find.label               "Bigere:">
