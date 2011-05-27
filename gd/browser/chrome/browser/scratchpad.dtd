@@ -1,0 +1,128 @@
+<!-- LOCALIZATION NOTE : FILE This file contains the Scratchpad window strings -->
+<!-- LOCALIZATION NOTE : FILE Do not translate commandkeys -->
+
+<!-- LOCALIZATION NOTE (scratchpad.title):
+  -  The Scratchpad is intended to provide a simple text editor for creating
+  -  and evaluating bits of JavaScript code for the purposes of function
+  -  prototyping, experimentation and convenient scripting.
+  -
+  -  It's quite possible that you won't have a good analogue for the word
+  -  "Scratchpad" in your locale. You should feel free to find a close
+  -  approximation to it or choose a word (or words) that means
+  -  "simple discardable text editor". -->
+<!ENTITY window.title                 "Pada nan sgrìoban">
+
+<!ENTITY fileMenu.label               "Faidhle">
+<!ENTITY fileMenu.accesskey           "F">
+
+<!ENTITY newWindowCmd.label           "Uinneag ùr">
+<!ENTITY newWindowCmd.accesskey       "U">
+<!ENTITY newWindowCmd.commandkey      "n">
+
+<!ENTITY openFileCmd.label            "Fosgail faidhle…">
+<!ENTITY openFileCmd.accesskey        "F">
+<!ENTITY openFileCmd.commandkey       "o">
+
+<!ENTITY saveFileCmd.label            "Sàbhail">
+<!ENTITY saveFileCmd.accesskey        "S">
+<!ENTITY saveFileCmd.commandkey       "s">
+
+<!ENTITY saveFileAsCmd.label          "Sàbhail mar…">
+<!ENTITY saveFileAsCmd.accesskey      "a">
+
+<!ENTITY closeCmd.label               "Dùin">
+<!ENTITY closeCmd.key                 "W">
+<!ENTITY closeCmd.accesskey           "D">
+
+<!ENTITY editMenu.label               "Deasaich">
+<!ENTITY editMenu.accesskey           "e">
+
+<!ENTITY undoCmd.label                "Neo-dhèan">
+<!ENTITY undoCmd.key                  "Z">
+<!ENTITY undoCmd.accesskey            "N">
+
+<!ENTITY redoCmd.label                "Ath-dhèan">
+<!ENTITY redoCmd.key                  "Y">
+<!ENTITY redoCmd.accesskey            "A">
+
+<!ENTITY cutCmd.label                 "Gearr às">
+<!ENTITY cutCmd.key                   "X">
+<!ENTITY cutCmd.accesskey             "G">
+
+<!ENTITY copyCmd.label                "Dèan lethbhreac dheth">
+<!ENTITY copyCmd.key                  "C">
+<!ENTITY copyCmd.accesskey            "l">
+
+<!ENTITY pasteCmd.label               "Cuir ann">
+<!ENTITY pasteCmd.key                 "V">
+<!ENTITY pasteCmd.accesskey           "C">
+
+<!ENTITY selectAllCmd.label           "Tagh a h-uile">
+<!ENTITY selectAllCmd.key             "A">
+<!ENTITY selectAllCmd.accesskey       "T">
+
+<!ENTITY run.label                    "Ruith">
+<!ENTITY run.accesskey                "R">
+<!ENTITY run.key                      "r">
+
+<!ENTITY inspect.label                "Sgrùdaich">
+<!ENTITY inspect.accesskey            "I">
+<!ENTITY inspect.key                  "h">
+
+<!ENTITY display.label                "Seall">
+<!ENTITY display.accesskey            "D">
+<!ENTITY display.key                  "l">
+
+<!-- LOCALIZATION NOTE (environmentMenu.label, accesskey): This menu item was
+  -  renamed from "Context" to avoid confusion with the right-click context
+  -  menu in the text area. It refers to the JavaScript Environment (or context)
+  -  the user is evaluating against. I.e., Content (current tab) or Chrome
+  -  (browser).
+  -->
+<!ENTITY environmentMenu.label        "An àrainneachd">
+<!ENTITY environmentMenu.accesskey    "N">
+
+<!-- LOCALIZATION NOTE (contextMenu.label, accesskey): No longer used.
+<!ENTITY contextMenu.label            "Co-theacsa">
+<!ENTITY contextMenu.accesskey        "t">
+  -->
+  
+<!ENTITY contentContext.label         "Susbaint">
+<!ENTITY contentContext.accesskey     "u">
+
+<!-- LOCALIZATION NOTE (browserContext.label, accesskey): This menu item is used
+  -  to select an execution environment for the browser window itself as opposed
+  -  to content. This is a feature for browser and addon developers and only
+  -  enabled via the devtools.chrome.enabled preference. Formerly, this label
+  -  was called "Chrome".
+  -->
+<!ENTITY browserContext.label         "Brabhsair">
+<!ENTITY browserContext.accesskey     "B">
+
+<!-- LOCALIZATION NOTE (chromeContext.label, accesskey): No longer used.
+<!ENTITY chromeContext.label          "Chrome">
+<!ENTITY chromeContext.accesskey      "H">
+  -->
+  
+<!-- LOCALIZATION NOTE (resetContext.label): This command allows the developer
+  -  to reset/clear the global object of the context where the code executes.
+  -->
+<!ENTITY resetContext.label           "Ath-shuidhich">
+<!ENTITY resetContext.accesskey       "A">
+
+<!ENTITY executeMenu.label            "Cuir an gnìomh">
+<!ENTITY executeMenu.accesskey        "X">
+
+<!ENTITY toolsMenu.label              "Innealan">
+<!ENTITY toolsMenu.accesskey          "I">
+
+<!ENTITY errorConsoleCmd.label        "Consoil nam mearachdan">
+<!ENTITY errorConsoleCmd.accesskey    "n">
+<!ENTITY errorConsoleCmd.commandkey   "j">
+
+<!ENTITY webConsoleCmd.label          "Consoil-lìn">
+<!ENTITY webConsoleCmd.accesskey      "W">
+<!ENTITY webConsoleCmd.commandkey     "k">
+
+<!ENTITY textbox.placeholder1         "// Cuir a-steach JavaScript, tagh e, dèan briogadh deas agus tagh \'Cuir an gnìomh\', Sgrùdaich no Clò-bhuail.">
+

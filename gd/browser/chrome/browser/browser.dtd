@@ -104,6 +104,7 @@ can reach it easily. -->
 <!ENTITY subscribeToPageMenuitem.label "Fo-sgrìobh gun duilleag seo…">
 <!ENTITY addCurPagesCmd.label "Dèan comharra-lìn de gach taba…">
 <!ENTITY showAllBookmarks2.label "Seall a h-uile comharra-lìn">
+<!ENTITY unsortedBookmarksCmd.label "Comharran-lìn gun seòrsachadh">
 <!ENTITY bookmarksToolbarChevron.tooltip "Tuilleadh chomharran-lìn">
 
 <!ENTITY backCmd.label                "Air ais">
@@ -178,6 +179,9 @@ can reach it easily. -->
 <!ENTITY addons.accesskey             "a">
 <!ENTITY addons.commandkey            "A">
 
+<!ENTITY webDeveloperMenu.label       "Leasaichear-lìn">
+<!ENTITY webDeveloperMenu.accesskey   "L">
+
 <!ENTITY errorConsoleCmd.label        "Consol nam mearachd">
 <!ENTITY errorConsoleCmd.accesskey    "C">
 <!ENTITY errorConsoleCmd.commandkey   "j">
@@ -189,6 +193,21 @@ can reach it easily. -->
 <!ENTITY inspectMenu.label            "Sgrùdaich">
 <!ENTITY inspectMenu.accesskey        "S">
 <!ENTITY inspectMenu.commandkey       "I">
+
+<!-- LOCALIZATION NOTE (scratchpad.label): This menu item label appears
+  -  in the Tools menu. See bug 653093.
+  -  The Scratchpad is intended to provide a simple text editor for creating
+  -  and evaluating bits of JavaScript code for the purposes of function
+  -  prototyping, experimentation and convenient scripting.
+  -
+  -  It's quite possible that you won't have a good analogue for the word
+  -  "Scratchpad" in your locale. You should feel free to find a close
+  -  approximation to it or choose a word (or words) that means
+  -  "simple discardable text editor". -->
+<!ENTITY scratchpad.label             "Pada nan sgrìoban">
+<!ENTITY scratchpad.accesskey         "r">
+<!ENTITY scratchpad.keycode           "VK_F4">
+<!ENTITY scratchpad.keytext           "F4">
 
 <!ENTITY inspectPanelTitle.label      "HTML">
 <!ENTITY inspectButton.label          "Sgrùdaich">
