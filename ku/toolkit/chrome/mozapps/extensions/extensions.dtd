@@ -23,14 +23,13 @@
 <!ENTITY warning.updatesecurity.enable.label       "Çalakkirin">
 <!ENTITY warning.updatesecurity.enable.tooltip     "Destûrê bide kontrolkirina ewlekariyê ya rojanekirina add-onan">
 
+<!-- global informations -->
+<!ENTITY info.plugincheck.label                 "Check to see if your plugins are up to date">
+<!ENTITY info.plugincheck.tooltip               "Check to see if your plugins are up to date">
+
 <!-- categories / views -->
 <!ENTITY view.search.label                    "Lêgerîn">
 <!ENTITY view.discover.label                  "Add-onan bistîne">
-<!ENTITY view.locales.label                   "Ziman">
-<!ENTITY view.searchengines.label             "Motorên Lêgerînê">
-<!ENTITY view.features.label                  "Pêvek">
-<!ENTITY view.appearance2.label               "Xuyanî">
-<!ENTITY view.plugins.label                   "Plugin">
 <!ENTITY view.recentUpdates.label             "Rojanekirin Nêz">
 <!ENTITY view.availableUpdates.label          "Rojankirinên Amade">
 
