@@ -10,7 +10,7 @@
   -  "Scratchpad" in your locale. You should feel free to find a close
   -  approximation to it or choose a word (or words) that means
   -  "simple discardable text editor". -->
-<!ENTITY window.title                 "Scratchpad">
+<!ENTITY window.title                 "Editor JavaScriptu - ScratchPad">
 
 <!ENTITY fileMenu.label               "Súbor">
 <!ENTITY fileMenu.accesskey           "S">
@@ -61,32 +61,48 @@
 <!ENTITY selectAllCmd.key             "a">
 <!ENTITY selectAllCmd.accesskey       "A">
 
-<!ENTITY execute.label                "Vykonať">
-<!ENTITY execute.accesskey            "n">
-<!ENTITY execute.key                  "t">
+<!ENTITY run.label                    "Spustiť">
+<!ENTITY run.accesskey                "S">
+<!ENTITY run.key                      "r">
 
 <!ENTITY inspect.label                "Preskúmať">
 <!ENTITY inspect.accesskey            "e">
 <!ENTITY inspect.key                  "i">
 
-<!ENTITY print.label                  "Vypísať">
-<!ENTITY print.accesskey              "V">
-<!ENTITY print.key                    "r">
+<!ENTITY display.label                "Zobraziť">
+<!ENTITY display.accesskey            "Z">
+<!ENTITY display.key                  "l">
 
-<!ENTITY contextMenu.label            "Kontext">
-<!ENTITY contextMenu.accesskey        "K">
+<!-- LOCALIZATION NOTE (environmentMenu.label, accesskey): This menu item was
+  -  renamed from "Context" to avoid confusion with the right-click context
+  -  menu in the text area. It refers to the JavaScript Environment (or context)
+  -  the user is evaluating against. I.e., Content (current tab) or Chrome
+  -  (browser).
+  -->
+<!ENTITY environmentMenu.label        "Prostredie">
+<!ENTITY environmentMenu.accesskey    "P">
+
 
 <!ENTITY contentContext.label         "Obsah">
 <!ENTITY contentContext.accesskey     "O">
 
-<!ENTITY chromeContext.label          "Chrome">
-<!ENTITY chromeContext.accesskey      "H">
+<!-- LOCALIZATION NOTE (browserContext.label, accesskey): This menu item is used
+  -  to select an execution environment for the browser window itself as opposed
+  -  to content. This is a feature for browser and addon developers and only
+  -  enabled via the devtools.chrome.enabled preference. Formerly, this label
+  -  was called "Chrome".
+  -->
+<!ENTITY browserContext.label         "Prehliadač">
+<!ENTITY browserContext.accesskey     "P">
 
 <!-- LOCALIZATION NOTE (resetContext.label): This command allows the developer
-  -  to reset/clear the global object of the context where the code executes.
+  -  to reset/clear the global object of the environment where the code executes.
   -->
 <!ENTITY resetContext.label           "Vynulovať">
 <!ENTITY resetContext.accesskey       "V">
+
+<!ENTITY executeMenu.label            "Vykonať">
+<!ENTITY executeMenu.accesskey        "V">
 
 <!ENTITY toolsMenu.label              "Nástroje">
 <!ENTITY toolsMenu.accesskey          "N">
@@ -99,5 +115,8 @@
 <!ENTITY webConsoleCmd.accesskey      "W">
 <!ENTITY webConsoleCmd.commandkey     "k">
 
-<!ENTITY textbox.placeholder          "// Vložte nejaký kód JavaScriptu, označte ho, kliknite pravým tlačidlom myši a zvoľte položku Vykonať, Preskúmať alebo Vypísať.">
-
+<!-- LOCALIZATION NOTE (textbox.placeholder1): This is some placeholder text
+  -  that appears when the Scratchpad's text area is empty and unfocused.
+  -  It should be a one-line JavaScript comment, i.e., preceded by '//'
+  -->
+<!ENTITY textbox.placeholder1         "// Vložte nejaký kód JavaScriptu, označte ho, kliknite pravým tlačidlom myši a zvoľte položku Spustiť, Preskúmať alebo Vypísať.">

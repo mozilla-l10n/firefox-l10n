@@ -27,7 +27,7 @@
 <!-- LOCALIZATION NOTE (update.checkingAddonCompat): try to make the localized text short (see bug 596813 for screenshots). -->
 <!ENTITY update.checkingAddonCompat "Kontroluje sa kompatibilita doplnkov…">
 <!-- LOCALIZATION NOTE (update.noUpdatesFound): try to make the localized text short (see bug 596813 for screenshots). -->
-<!ENTITY update.noUpdatesFound      "Používate najnovšiu verziu prehliadača &brandShortName;">
+<!ENTITY update.noUpdatesFound      "Používate najnovšiu verziu programu &brandShortName;">
 <!-- LOCALIZATION NOTE (update.adminDisabled): try to make the localized text short (see bug 596813 for screenshots). -->
 <!ENTITY update.adminDisabled       "Aktualizácie boli vypnuté správcom systému">
 
@@ -65,7 +65,7 @@
 <!ENTITY channel.change             "Zmeniť">
 
 <!ENTITY channel.release.description       "Vyskúšajte overené a otestované finálne vydania používané stovkami miliónov používateľov po celom svete. Majte kontrolu nad svojimi zážitkami zo sveta online vďaka super rýchlosti, veľkej prispôsobiteľnosti a najnovším technológiám.">
-<!ENTITY channel.beta.description          "Užite si najnovšie funkcie v stabilnom prostredí. Poskytnite nám spätnú väzbu a pomôžte nám doladiť finálnu verziu prehliadača.">
+<!ENTITY channel.beta.description          "Užite si najnovšie funkcie v stabilnom prostredí. Poskytnite nám spätnú väzbu a pomôžte nám doladiť finálnu verziu programu.">
 <!ENTITY channel.aurora.description        "Užite si najnovšie inovácie v nestabilnom prostredí, ktoré nie je pre slabé povahy. Odošlite nám spätnú väzbu na funkcie a výkon aplikácie, aby sme vedeli, čo máme do sprístupnenia finálnej verzie zlepšiť.">
 
 <!-- LOCALIZATION NOTE (channel.selector.start,channel.selector.end): channel.selector.start and
