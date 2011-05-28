@@ -6,7 +6,8 @@
 <!ENTITY community.middle2          ", een ">
 <!-- LOCALIZATION NOTE (community.creditsLink): This is a link title that links to about:credits. -->
 <!ENTITY community.creditsLink      "wereldwijde gemeenschap">
-<!ENTITY community.end2             " die samenwerkt om het internet beter te maken. We vinden dat het internet open, openbaar en zonder restricties voor iedereen toegankelijk moet zijn.">
+<!ENTITY community.end2             " die samenwerkt om het internet te verbeteren. We vinden dat het internet open, openbaar en zonder restricties voor iedereen toegankelijk moet zijn.">
+
 
 <!ENTITY contribute.start           "Interessant? ">
 <!-- LOCALIZATION NOTE (contribute.getInvolvedLink): This is a link title that links to http://www.mozilla.org/contribute/. -->
@@ -62,7 +63,7 @@
 <!ENTITY channel.description.start  "U gebruikt momenteel het ">
 <!ENTITY channel.description.end    "-updatekanaal. ">
 
-<!ENTITY channel.change             "Aanpassen">
+<!ENTITY channel.change             "Wijzigen">
 
 <!ENTITY channel.release.description       "Geniet van de uitgeprobeerde en geteste laatste uitgave die door honderden miljoenen mensen over de hele wereld wordt gebruikt. Blijf de baas over uw onlinebeleving met supersnelheid, eenvoudige aanpassing en de nieuwste webtechnologieën.">
 <!ENTITY channel.beta.description          "Beleef de allernieuwste functionaliteiten, maar met meer stabiliteit. Geef feedback om te helpen bij het verfijnen en bijschaven van nieuwe zaken in de definitieve uitgave.">
