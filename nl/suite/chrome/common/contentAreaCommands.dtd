@@ -76,10 +76,6 @@
 <!ENTITY saveVideoCmd.accesskey         "n">
 <!ENTITY saveAudioCmd.label             "Audio opslaan als…">
 <!ENTITY saveAudioCmd.accesskey         "n">
-<!ENTITY copyCmd.label                  "Kopiëren">
-<!ENTITY copyCmd.accesskey              "K">
-<!ENTITY selectAllCmd.label             "Alles selecteren">
-<!ENTITY selectAllCmd.accesskey         "A">
 <!ENTITY copyLinkCmd.label              "Koppelingslocatie kopiëren">
 <!ENTITY copyLinkCmd.accesskey          "k">
 <!ENTITY copyImageCmd.label             "Afbeeldingslocatie kopiëren">
@@ -92,16 +88,6 @@
 <!ENTITY metadataCmd.accesskey          "E">
 <!ENTITY copyEmailCmd.label             "E-mailadres kopiëren">
 <!ENTITY copyEmailCmd.accesskey         "m">
-<!ENTITY pasteCmd.label                 "Plakken">
-<!ENTITY pasteCmd.accesskey             "P">
-<!ENTITY cutCmd.label                   "Knippen">
-<!ENTITY cutCmd.accesskey               "n">
-<!ENTITY deleteCmd.label                "Verwijderen">
-<!ENTITY deleteCmd.accesskey            "d">
-<!ENTITY undoCmd.label                  "Ongedaan maken">
-<!ENTITY undoCmd.accesskey              "O">
-<!ENTITY redoCmd.label                  "Opnieuw uitvoeren">
-<!ENTITY redoCmd.accesskey              "u">
 <!ENTITY thisFrameMenu.label            "Dit deelvenster">
 <!ENTITY thisFrameMenu.accesskey        "d">
 <!ENTITY mediaPlay.label                "Afspelen">

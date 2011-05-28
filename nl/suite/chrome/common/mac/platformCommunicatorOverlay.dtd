@@ -27,7 +27,6 @@
 <!ENTITY printSetupCmd.label            "Pagina-instellingen…">
 <!ENTITY printSetupCmd.accesskey        "i">
 
-<!ENTITY redoCmd.label                  "Opnieuw uitvoeren">  
 <!ENTITY redoCmd.key                    "Z">  
 
 <!ENTITY historyCmd.key                 "H">  
