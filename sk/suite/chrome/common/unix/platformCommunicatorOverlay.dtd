@@ -9,9 +9,7 @@
 <!ENTITY quitApplicationCmd.key         "q">
 <!ENTITY quitApplicationCmd.accesskey   "K">
 
-<!ENTITY redoCmd.label                  "Znovu">
 <!ENTITY redoCmd.key                    "Y">
-<!ENTITY redoCmd.accesskey              "Z">
 
 <!ENTITY findTypeTextCmd.key            "/">
 <!ENTITY findTypeLinksCmd.key           "'">

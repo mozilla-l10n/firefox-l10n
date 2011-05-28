@@ -43,7 +43,7 @@
 <!ENTITY setup.newSyncKeyPage.description.label "Na maximálne zabezpečenie vášho súkromia sú všetky vaše údaje pred odoslaním zašifrované. Synchronizačný kľúč, ktorý je potrebný na ich odšifrovanie, nie je odosielaný.">
 <!ENTITY syncKeyEntry.label        "Váš Synchronizačný kľúč">
 <!ENTITY syncKeyEntry.accesskey    "k">
-<!ENTITY syncKeyGenerate.label     "Vygenerovať">
+<!ENTITY syncGenerateNewKey.label  "Vygenerovať nový kľúč">
 <!ENTITY syncKeyBackup.description "Na prístup k službe &syncBrand.fullName.label; z iných zariadení je potrebný Synchronizačný kľúč. Preto si vytvorte jeho kópiu. Váš Synchronizačný kľúč nie je možné po strate obnoviť.">
 
 <!ENTITY button.syncKeyBackup.print.label     "Vytlačiť…">
