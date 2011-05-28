@@ -160,3 +160,4 @@
 <!ENTITY channel.selector.applyButton    "Toepassen en bijwerken">
 <!ENTITY channel.selector.cancelButton   "Annuleren">
 
+<!ENTITY cmdCloseMac.commandKey "w">
