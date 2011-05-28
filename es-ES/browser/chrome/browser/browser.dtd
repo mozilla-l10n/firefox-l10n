@@ -166,6 +166,8 @@
 <!ENTITY inspectStylePanelTitle.label "Estilo">
 <!ENTITY inspectObjectButton.label "Objeto">
 <!ENTITY inspectObjectButton.accesskey "O">
+<!ENTITY getMoreDevtoolsCmd.label "Conseguir más herramientas">
+<!ENTITY getMoreDevtoolsCmd.accesskey "M">
 <!ENTITY fileMenu.label "Archivo">
 <!ENTITY fileMenu.accesskey "A">
 <!ENTITY newNavigatorCmd.label "Nueva ventana">
