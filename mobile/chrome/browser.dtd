@@ -90,7 +90,7 @@
 <!ENTITY consoleErrLine.label "Ligne :">
 <!ENTITY consoleErrColumn.label "Colonne :">
 
-<!ENTITY contextOpenInNewTab.label    "Ouvrir le lien dans un nouvel onglet">
+<!ENTITY contextOpenInNewTab.label    "Ouvrir dans un nouvel onglet">
 <!ENTITY contextSaveLink.label        "Enregistrer le lien">
 <!ENTITY contextSaveImage.label       "Enregistrer l'image">
 <!ENTITY contextShareLink.label       "Partager le lien">
