@@ -27,7 +27,6 @@
 <!ENTITY printSetupCmd.label            "Nastavenie tlače…">
 <!ENTITY printSetupCmd.accesskey        "N">
 
-<!ENTITY redoCmd.label                  "Znovu">
 <!ENTITY redoCmd.key                    "Z">
 
 <!ENTITY historyCmd.key                 "H">

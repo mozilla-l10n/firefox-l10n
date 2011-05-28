@@ -1,7 +1,7 @@
 <!ENTITY tracking.label                 "Sledovanie">
 
 <!ENTITY doNotTrack.label                "Požiadať webové stránky, aby nesledovali moju aktivitu">
-<!ENTITY doNotTrack.accesskey            "p">
+<!ENTITY doNotTrack.accesskey            "w">
 
 <!ENTITY  history.label                 "História">
 

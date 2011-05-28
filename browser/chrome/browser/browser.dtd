@@ -104,7 +104,7 @@ can reach it easily. -->
 <!ENTITY subscribeToPageMenuitem.label "Odoberať kanál tejto stránky…">
 <!ENTITY addCurPagesCmd.label "Pridať všetky karty medzi záložky…">
 <!ENTITY showAllBookmarks2.label "Zobraziť všetky záložky">
-<!ENTITY bookmarkAllCmd.label "Pridať všetky karty medzi záložky…">
+<!ENTITY unsortedBookmarksCmd.label "Nezaradené záložky">
 <!ENTITY bookmarksToolbarChevron.tooltip "Zobraziť ďalšie záložky">
 
 <!ENTITY backCmd.label                  "Naspäť">
@@ -179,6 +179,9 @@ can reach it easily. -->
 <!ENTITY addons.accesskey             "D">
 <!ENTITY addons.commandkey            "A">
 
+<!ENTITY webDeveloperMenu.label       "Webový vývojár">
+<!ENTITY webDeveloperMenu.accesskey   "W">
+
 <!ENTITY errorConsoleCmd.label        "Chybová konzola">
 <!ENTITY errorConsoleCmd.accesskey    "C">
 <!ENTITY errorConsoleCmd.commandkey   "j">
@@ -186,6 +189,21 @@ can reach it easily. -->
 <!ENTITY webConsoleCmd.label          "Webová konzola">
 <!ENTITY webConsoleCmd.accesskey      "W">
 <!ENTITY webConsoleCmd.commandkey     "k">
+
+<!-- LOCALIZATION NOTE (scratchpad.label): This menu item label appears
+  -  in the Tools menu. See bug 653093.
+  -  The Scratchpad is intended to provide a simple text editor for creating
+  -  and evaluating bits of JavaScript code for the purposes of function
+  -  prototyping, experimentation and convenient scripting.
+  -
+  -  It's quite possible that you won't have a good analogue for the word
+  -  "Scratchpad" in your locale. You should feel free to find a close
+  -  approximation to it or choose a word (or words) that means
+  -  "simple discardable text editor". -->
+<!ENTITY scratchpad.label             "Editor JavaScriptu">
+<!ENTITY scratchpad.accesskey         "E">
+<!ENTITY scratchpad.keycode           "VK_F4">
+<!ENTITY scratchpad.keytext           "F4">
 
 <!ENTITY inspectMenu.label            "Preskúmať stránku">
 <!ENTITY inspectMenu.accesskey        "P">
@@ -207,6 +225,9 @@ can reach it easily. -->
   -  titlebar: object.objectPanelTitle. -->
 <!ENTITY inspectObjectButton.label       "Objekt">
 <!ENTITY inspectObjectButton.accesskey   "O">
+
+<!ENTITY getMoreDevtoolsCmd.label        "Získať ďalšie nástroje">
+<!ENTITY getMoreDevtoolsCmd.accesskey    "Z">
 
 <!ENTITY fileMenu.label "Súbor">
 <!ENTITY fileMenu.accesskey "S">

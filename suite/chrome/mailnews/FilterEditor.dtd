@@ -84,7 +84,6 @@
 <!ENTITY replyWithTemplate.label "Odpovedať pomocou šablóny">
 <!ENTITY markMessageRead.label "Označiť ako prečítané">
 <!ENTITY markMessageStarred.label "Pridať vlajku">
-<!ENTITY labelMessage.label "Označiť správu ako">
 <!ENTITY setPriority.label "Zmeniť prioritu na">
 <!ENTITY addTag.label "Priradiť správe popis">
 <!ENTITY setJunkScore.label "Nastaviť druh správy na">

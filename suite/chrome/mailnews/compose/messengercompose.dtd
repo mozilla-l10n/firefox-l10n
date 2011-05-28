@@ -145,25 +145,15 @@
 <!ENTITY spellCheckIgnoreWord.accesskey "I">
 <!ENTITY spellCheckAddToDictionary.label "Pridať do slovníka">
 <!ENTITY spellCheckAddToDictionary.accesskey "n">
-<!ENTITY undo.label "Späť">
-<!ENTITY undo.accesskey "S">
-<!ENTITY cut.label "Vystrihnúť">
-<!ENTITY cut.accesskey "V">
-<!ENTITY copy.label "Kopírovať">
-<!ENTITY copy.accesskey "K">
-<!ENTITY paste.label "Prilepiť">
-<!ENTITY paste.accesskey "P">
 <!ENTITY pasteQuote.label "Prilepiť ako citát">
 <!ENTITY pasteQuote.accesskey "c">
 
 <!ENTITY openAttachment.label "Otvoriť">
 <!ENTITY openAttachment.accesskey "O">
-<!ENTITY delete.label "Odstrániť">
-<!ENTITY delete.accesskey "d">
 <!ENTITY renameAttachment.label "Premenovať…">
 <!ENTITY renameAttachment.accesskey "P">
-<!ENTITY selectAll.label "Vybrať všetko">
-<!ENTITY selectAll.accesskey "a">
+<!ENTITY deleteAttachment.accesskey "d">
+<!ENTITY selectAllAttachments.accesskey "a">
 <!ENTITY attachFile.label "Priložiť súbor…">
 <!ENTITY attachFile.accesskey "s">
 <!ENTITY attachPage.label "Priložiť webovú stránku…">
