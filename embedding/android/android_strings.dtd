@@ -1,6 +1,6 @@
-<!ENTITY  splash_screen_label "načítava sa">
-<!ENTITY  splash_screen_installing "inštalujú sa knižnice\u2026">
-<!ENTITY  incompatable_cpu_error "Toto zariadenie nespĺňa minimálne požiadavky pre spustenie prehliadača &brandShortName;.">
+<!ENTITY  splash_screen_label "Načítava sa">
+<!ENTITY  splash_screen_installing "Inštalujú sa knižnice\u2026">
+<!ENTITY  splash_firstrun "Nastavuje sa &brandShortName;\u2026">
 <!ENTITY  no_space_to_start_error "Na spustenie prehliadača &brandShortName; nie je dostatok miesta.">
 <!ENTITY  error_loading_file "Pri načítavaní súborov potrebných na spustenie prehliadača &brandShortName; sa vyskytla chyba.">
 
@@ -13,5 +13,4 @@
 <!ENTITY  crash_restart_label "Reštartovať &brandShortName;">
 <!ENTITY  sending_crash_report "Odosiela sa správa o zlyhaní\u2026">
 <!ENTITY  exit_label "Koniec">
-<!ENTITY  incompatable_device "&brandShortName; nepodporuje toto zariadenie. Pri používaní sa môžu vyskytnúť problémy.">
 <!ENTITY  continue_label "Pokračovať">
