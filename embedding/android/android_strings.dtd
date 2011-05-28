@@ -1,6 +1,5 @@
 <!ENTITY  splash_screen_label "a carregar">
 <!ENTITY  splash_screen_installing "instalar bibliotecas\u2026">
-<!ENTITY  incompatable_cpu_error "Este dispositivo não cumpre os requisitos de sistema mínimos para executar o &brandShortName;.">
 <!ENTITY  no_space_to_start_error "Não existe espaço suficiente disponível para iniciar o &brandShortName;.">
 <!ENTITY  error_loading_file "Ocorreu um erro ao tentar carregar ficheiros necessários para executar o &brandShortName;">
 
@@ -13,6 +12,4 @@
 <!ENTITY  crash_restart_label "Reiniciar o &brandShortName;">
 <!ENTITY  sending_crash_report "A enviar relatório de erro \u2026">
 <!ENTITY  exit_label "Sair">
-<!ENTITY  incompatable_device "O &brandShortName; não suporta este dispositivo e pode ter
-problemas.">
 <!ENTITY  continue_label "Continuar">
