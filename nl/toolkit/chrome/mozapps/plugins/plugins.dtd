@@ -20,9 +20,13 @@
 <!ENTITY pluginWizard.finalPage.moreInfo.label               "Lees meer over plug-ins of zoek handmatig naar ontbrekende plug-ins.">
 <!ENTITY pluginWizard.finalPage.restart.label                "&brandShortName; moet opnieuw worden opgestart om de plug-in(s) te laten werken.">
 
-<!ENTITY missingPlugin.label                                 "Klik hier om de plug-in te downloaden.">
-<!ENTITY disabledPlugin.label                                "De plug-in voor deze inhoud is uitgeschakeld. Klik hier om uw plug-ins te beheren.">
+<!ENTITY missingPlugin                                       "Een plug-in is nodig om deze inhoud te tonen.">
+<!ENTITY disabledPlugin                                      "Deze plug-in is uitgeschakeld.">
 <!ENTITY blockedPlugin.label                                 "Deze plug-in is geblokkeerd voor uw bescherming.">
+
+<!ENTITY installPlugin                                       "Plug-in installeren…">
+<!ENTITY managePlugins                                       "Plug-ins beheren…">
+
 <!-- LOCALIZATION NOTE (reloadPlugin.pre): include a trailing space as needed -->
 <!-- LOCALIZATION NOTE (reloadPlugin.middle): avoid leading/trailing spaces, this text is a link -->
 <!-- LOCALIZATION NOTE (reloadPlugin.post): include a starting space as needed -->
