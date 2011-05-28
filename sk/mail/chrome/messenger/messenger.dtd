@@ -9,9 +9,6 @@
 <!ENTITY closeTabCmd2.accesskey "Z">
 <!ENTITY closeOtherTabsCmd2.label "Zavrieť ostatné karty">
 <!ENTITY closeOtherTabsCmd2.accesskey "a">
-<!-- LOCALIZATION NOTE (undoCloseTabCmd.label):
-     Menu option to attempt to re-open a recently closed tab.
-     -->
 <!ENTITY recentlyClosedTabsCmd.label "Naposledy zatvorené karty">
 <!ENTITY recentlyClosedTabsCmd.accesskey "N">
 
@@ -39,7 +36,6 @@
 <!ENTITY saveAsFileCmd.key "s">
 <!ENTITY saveAsTemplateCmd.label "Šablóna">
 <!ENTITY saveAsTemplateCmd.accesskey "b">
-<!ENTITY getNewMsgCmd.key "d">
 <!ENTITY getNewMsgForCmd.label "Prijať nové správy pre">
 <!ENTITY getNewMsgForCmd.accesskey "s">
 <!ENTITY getAllNewMsgCmdPopupMenu.label "Všetky účty">
@@ -521,7 +517,6 @@ you can use these alternative items. Otherwise, their values should be empty.  -
 <!ENTITY getMsgButton.tooltip "Prijať nové správy">
 <!ENTITY getAllNewMsgCmd.label "Prijať všetky nové správy">
 <!ENTITY getAllNewMsgCmd.accesskey "P">
-<!ENTITY getAllNewMsgCmd.key "d">
 <!ENTITY newMsgButton.tooltip "Napísať novú správu">
 <!ENTITY replyButton.tooltip "Odpovedať na správu">
 <!ENTITY replyAllButton.tooltip "Odpovedať odosielateľovi a všetkým adresátom">
@@ -758,12 +753,14 @@ you can use these alternative items. Otherwise, their values should be empty.  -
 <!-- Phishing Bar -->
 <!ENTITY phishingBarMessage2.label "Toto môže byť podvodná správa.">
 <!ENTITY removePhishingBarButton1.label "Ignorovať upozornenie">
+<!ENTITY disablePhishingWarning1.label "Vypnúť detekciu podvodných správ pre všetky správy">
 <!ENTITY reportPhishingError1.label "Zdá sa, že toto nie je podvodná správa.">
 
 <!-- MDN Bar -->
-<!ENTITY mdnBarMessage.label "Odosielateľ žiada potvrdenie o prečítaní tejto správy. Chcete toto potvrdenie odoslať?">
-<!ENTITY mdnBarIgnoreButton.label "Ignorovať žiadosť">
-<!ENTITY mdnBarSendButton.label "Odoslať potvrdenie">
+<!ENTITY mdnBarIgnoreButton2.label "Ignorovať">
+<!ENTITY mdnBarIgnoreButton2.accesskey "I">
+<!ENTITY mdnBarSendButton2.label "Odoslať potvrdenie">
+<!ENTITY mdnBarSendButton2.accesskey "d">
 
 <!-- Quick Search Bar -->
 <!-- LOCALIZATION NOTE (quickSearchCmd.key):

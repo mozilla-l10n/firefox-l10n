@@ -7,6 +7,7 @@
 <!ENTITY aboutSupport.accountsName "Názov">
 <!ENTITY aboutSupport.accountsIncomingServer "Server pre prijímanie pošty">
 <!ENTITY aboutSupport.accountsOutgoingServers "Server pre odosielanie pošty">
+<!ENTITY aboutSupport.accountsServerName "Názov">
 <!ENTITY aboutSupport.accountsConnSecurity "Zabezpečenie spojenia">
 <!ENTITY aboutSupport.accountsAuthMethod "Metóda overenia">
 <!ENTITY aboutSupport.accountsDefault "Predvolený?">

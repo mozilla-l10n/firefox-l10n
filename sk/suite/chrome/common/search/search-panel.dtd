@@ -38,5 +38,4 @@
 <!ENTITY search.button.label      "Hľadať">
 <!ENTITY search.placeholder       "Zadajte hľadaný text">
 
-<!-- Will be used by bug 595246 -->
 <!ENTITY search.engineManager.label "Správa vyhľadávacích modulov…">

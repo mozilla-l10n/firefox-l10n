@@ -76,10 +76,6 @@
 <!ENTITY saveVideoCmd.accesskey       "d">
 <!ENTITY saveAudioCmd.label           "Uložiť zvuk ako…">
 <!ENTITY saveAudioCmd.accesskey       "l">
-<!ENTITY copyCmd.label                "Kopírovať">
-<!ENTITY copyCmd.accesskey            "K">
-<!ENTITY selectAllCmd.label           "Vybrať všetko">
-<!ENTITY selectAllCmd.accesskey       "a">
 <!ENTITY copyLinkCmd.label            "Kopírovať adresu odkazu">
 <!ENTITY copyLinkCmd.accesskey        "u">
 <!ENTITY copyImageCmd.label           "Kopírovať obrázok">
@@ -92,16 +88,6 @@
 <!ENTITY metadataCmd.accesskey        "V">
 <!ENTITY copyEmailCmd.label           "Kopírovať e-mailovú adresu">
 <!ENTITY copyEmailCmd.accesskey       "e">
-<!ENTITY pasteCmd.label               "Prilepiť">
-<!ENTITY pasteCmd.accesskey           "P">
-<!ENTITY cutCmd.label                 "Vystrihnúť">
-<!ENTITY cutCmd.accesskey             "V">
-<!ENTITY deleteCmd.label              "Odstrániť">
-<!ENTITY deleteCmd.accesskey          "d">
-<!ENTITY undoCmd.label                "Späť">
-<!ENTITY undoCmd.accesskey            "S">
-<!ENTITY redoCmd.label                "Dopredu">
-<!ENTITY redoCmd.accesskey            "D">
 <!ENTITY thisFrameMenu.label          "Tento rámec">
 <!ENTITY thisFrameMenu.accesskey      "T">
 <!ENTITY mediaPlay.label              "Prehrať">
