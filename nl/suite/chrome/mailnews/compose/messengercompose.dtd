@@ -145,25 +145,15 @@
 <!ENTITY spellCheckIgnoreWord.accesskey "d">
 <!ENTITY spellCheckAddToDictionary.label "Toevoegen aan woordenboek">
 <!ENTITY spellCheckAddToDictionary.accesskey "T">
-<!ENTITY undo.label "Ongedaan maken">
-<!ENTITY undo.accesskey "O">
-<!ENTITY cut.label "Knippen">
-<!ENTITY cut.accesskey "n">
-<!ENTITY copy.label "Kopiëren">
-<!ENTITY copy.accesskey "K">
-<!ENTITY paste.label "Plakken">
-<!ENTITY paste.accesskey "P">
 <!ENTITY pasteQuote.label "Plakken als citaat">
 <!ENTITY pasteQuote.accesskey "c">
 
 <!ENTITY openAttachment.label "Openen">
 <!ENTITY openAttachment.accesskey "O">
-<!ENTITY delete.label "Verwijderen">
-<!ENTITY delete.accesskey "V">
 <!ENTITY renameAttachment.label "Hernoemen…">
 <!ENTITY renameAttachment.accesskey "H">
-<!ENTITY selectAll.label "Alles selecteren">
-<!ENTITY selectAll.accesskey "A">
+<!ENTITY deleteAttachment.accesskey "V">
+<!ENTITY selectAllAttachments.accesskey "A">
 <!ENTITY attachFile.label "Bestand(en) koppelen…">
 <!ENTITY attachFile.accesskey "B">
 <!ENTITY attachPage.label "Webpagina koppelen…">
