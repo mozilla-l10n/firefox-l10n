@@ -14,7 +14,6 @@
 <!ENTITY openSidebarSearchPanel.label     "Pri spustení vyhľadávania otvoriť v bočnom paneli kartu Vyhľadávanie">
 <!ENTITY openSidebarSearchPanel.accesskey "r">
 
-<!-- Will be used by bug 595246 -->
 <!ENTITY engineManager.label              "Správa vyhľadávacích modulov…">
 
 <!ENTITY searchResults.label              "Výsledky vyhľadávania">

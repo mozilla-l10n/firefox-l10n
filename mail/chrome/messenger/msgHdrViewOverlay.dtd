@@ -130,12 +130,14 @@
 <!ENTITY detachAttachmentMenuItem.accesskey    "v">
 <!ENTITY deleteAttachmentMenuItem.label    "odstrániť">
 <!ENTITY deleteAttachmentMenuItem.accesskey    "d">
+<!ENTITY openAllAttachmentsMenuItem.label    "otvoriť všetky prílohy…">
+<!ENTITY openAllAttachmentsMenuItem.accesskey    "o">
 <!ENTITY saveAllAttachmentsMenuItem.label    "uložiť všetky prílohy…">
 <!ENTITY saveAllAttachmentsMenuItem.accesskey    "u">
 <!ENTITY detachAllAttachmentsMenuItem.label    "vyčleniť všetky prílohy…">
-<!ENTITY detachAllAttachmentsMenuItem.accesskey    "e">
+<!ENTITY detachAllAttachmentsMenuItem.accesskey    "v">
 <!ENTITY deleteAllAttachmentsMenuItem.label    "odstrániť všetky prílohy…">
-<!ENTITY deleteAllAttachmentsMenuItem.accesskey    "s">
+<!ENTITY deleteAllAttachmentsMenuItem.accesskey    "d">
 
 <!ENTITY copyLinkCmd.label "Kopírovať adresu odkazu">
 <!ENTITY copyLinkCmd.accesskey "K">

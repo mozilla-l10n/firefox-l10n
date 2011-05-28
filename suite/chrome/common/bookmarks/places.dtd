@@ -99,9 +99,10 @@
 <!ENTITY forwardButton.tooltip              "Prejsť dopredu">
 
 <!ENTITY detailsPane.more.label             "Viac">
-<!ENTITY detailsPane.more.accesskey         "V">
-<!ENTITY detailsPane.less.label             "Menej">
-<!ENTITY detailsPane.less.accesskey         "M">
+<!ENTITY detailsPane.more.accesskey "V">
+<!ENTITY detailsPane.fewer.label "Menej">
+<!ENTITY detailsPane.fewer.accesskey "M">
+
 <!ENTITY detailsPane.selectAnItemText.description "Vyberte položku, ktorej vlastnosti chcete zobraziť alebo upraviť">
 
 <!ENTITY editBookmark.done.label "Hotovo">
