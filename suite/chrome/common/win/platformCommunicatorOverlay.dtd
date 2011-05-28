@@ -10,9 +10,7 @@
 <!ENTITY quitApplicationCmd.key         "Q"> 
 <!ENTITY quitApplicationCmd.accesskey   "A">
 
-<!ENTITY redoCmd.label                  "Opnieuw uitvoeren">  
 <!ENTITY redoCmd.key                    "Y">  
-<!ENTITY redoCmd.accesskey              "u">
 
 <!ENTITY findTypeTextCmd.key            "/">
 <!ENTITY findTypeLinksCmd.key           "'">
