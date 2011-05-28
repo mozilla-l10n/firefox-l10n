@@ -27,7 +27,6 @@
 <!ENTITY printSetupCmd.label            "Configuración de página…">
 <!ENTITY printSetupCmd.accesskey        "u">
 
-<!ENTITY redoCmd.label                  "Rehacer">  
 <!ENTITY redoCmd.key                    "Z">  
 
 <!ENTITY historyCmd.key                 "H">  
