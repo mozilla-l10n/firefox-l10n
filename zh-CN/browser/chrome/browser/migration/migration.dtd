@@ -7,30 +7,14 @@
 
 <!ENTITY importFromIE.label             "微软 Internet Explorer">
 <!ENTITY importFromIE.accesskey         "M">
-<!ENTITY importFromPhoenix.label        "Firefox 0.8, Firebird 或者 Phoenix">
-<!ENTITY importFromPhoenix.accesskey    "P">
 <!ENTITY importFromNothing.label        "不导入任何数据">
 <!ENTITY importFromNothing.accesskey    "D">
 <!ENTITY importFromSeamonkey.label      "Netscape 6, 7 或者 Mozilla 1.x">
 <!ENTITY importFromSeamonkey.accesskey  "N">
-<!ENTITY importFromNetscape4.label      "Netscape 4.x">
-<!ENTITY importFromNetscape4.accesskey  "4">
 <!ENTITY importFromOpera.label          "Opera">
 <!ENTITY importFromOpera.accesskey      "O">
-<!ENTITY importFromCamino.label         "Camino">
-<!ENTITY importFromCamino.accesskey     "C">
 <!ENTITY importFromSafari.label         "Safari">
 <!ENTITY importFromSafari.accesskey     "S">
-<!ENTITY importFromOmniWeb.label        "OmniWeb">
-<!ENTITY importFromOmniWeb.accesskey    "W">
-<!ENTITY importFromICab.label           "iCab">
-<!ENTITY importFromICab.accesskey       "i">
-<!ENTITY importFromKonqueror.label      "Konqueror">
-<!ENTITY importFromKonqueror.accesskey  "K">
-<!ENTITY importFromEpiphany.label       "Epiphany">
-<!ENTITY importFromEpiphany.accesskey   "E">
-<!ENTITY importFromGaleon.label         "Galeon">
-<!ENTITY importFromGaleon.accesskey     "G">
 <!ENTITY importFromHTMLFile.label       "从一个 HTML 文件">
 <!ENTITY importFromHTMLFile.accesskey   "F">
 

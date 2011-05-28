@@ -43,7 +43,7 @@
 <!ENTITY setup.newSyncKeyPage.description.label "为了保护您的全部隐私，所有数据上传前都会加密。解密您的数据所需的同步密钥不会上传。">
 <!ENTITY syncKeyEntry.label        "您的同步密钥">
 <!ENTITY syncKeyEntry.accesskey    "K">
-<!ENTITY syncKeyGenerate.label     "生成">
+<!ENTITY syncGenerateNewKey.label  "生成新密钥">
 <!ENTITY syncKeyBackup.description "在其他机器访问 &syncBrand.fullName.label; 您的同步密钥是必须的。请创建一个备份副本。我们不能帮助您恢复您的同步密钥。">
 
 <!ENTITY button.syncKeyBackup.print.label     "打印…">
