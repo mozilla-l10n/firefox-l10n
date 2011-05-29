@@ -37,13 +37,13 @@
 <!ENTITY serverTitle.label "Server-Informationen">
 <!ENTITY incomingServerTypeDesc.label "Wählen Sie den Typ Ihres Posteingang-Server.">
 <!-- LOCALIZATION NOTE (incomingServerNameDesc.label) : Do not translate "&quot;pop.example.net&quot;" in below line -->
-<!ENTITY incomingServerNameDesc.label "Geben Sie den Posteingang-Server ein (zum Beispiel &quot;mail.beispiel.de&quot;).">
+<!ENTITY incomingServerNameDesc.label "Geben Sie den Posteingang-Server ein (zum Beispiel &quot;mail.example.com&quot;).">
 <!ENTITY incomingServerLabel.label "Posteingang-Server:">
 <!ENTITY incomingServerLabel.accesskey "e">
 <!-- LOCALIZATION NOTE (newsServerNameDesc.label) : Do not translate "NNTP" or the "&quot;" entities in below line -->
-<!ENTITY newsServerNameDesc.label "Geben Sie den News-Server (NNTP) ein (zum Beispiel &quot;news.beispiel.de&quot;).">
+<!ENTITY newsServerNameDesc.label "Geben Sie den News-Server (NNTP) ein (zum Beispiel &quot;news.example.com&quot;).">
 <!-- LOCALIZATION NOTE (smtpServerDesc.label) : Do not translate "SMTP" and "&quot;smtp.example.net&quot;" in below line -->
-<!ENTITY smtpServerDesc.label "Geben Sie den Postausgang-Server (SMTP) ein (zum Beispiel &quot;smtp.beispiel.de&quot;).">
+<!ENTITY smtpServerDesc.label "Geben Sie den Postausgang-Server (SMTP) ein (zum Beispiel &quot;smtp.example.com&quot;).">
 <!ENTITY smtpServerLabel.label "Postausgang-Server (SMTP):">
 <!ENTITY smtpServerLabel.accesskey "a">
 <!ENTITY newsServerLabel.label "Newsgruppen-Server:">
