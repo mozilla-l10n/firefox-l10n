@@ -47,7 +47,7 @@
 <!ENTITY modelDeleteImmediately.accesskey "o">
 <!-- LOCALIZATION NOTE (expungeOnExit.label) : do not translate two of "&quot;" in below line -->
 <!ENTITY expungeOnExit.label "Bereinigen (&quot;Expunge&quot;) des Posteingangs beim Verlassen">
-<!ENTITY expungeOnExit.accesskey "E">
+<!ENTITY expungeOnExit.accesskey "x">
 <!ENTITY emptyTrashOnExit.label "Papierkorb beim Verlassen leeren">
 <!ENTITY emptyTrashOnExit.accesskey "V">
 <!ENTITY loginAtStartup.label "Beim Starten auf neue Nachrichten prüfen">
@@ -72,7 +72,7 @@
 <!ENTITY serverDefaultCharset.label "Standard-Zeichenkodierung:">
 <!ENTITY localFolderPicker.label "Lokalen Ordner wählen:">
 <!ENTITY browseFolder.label "Ordner wählen…">
-<!ENTITY browseFolder.accesskey "z">
+<!ENTITY browseFolder.accesskey "ä">
 <!ENTITY newsrcPicker.label "newsrc-Datei auswählen">
 <!ENTITY browseNewsrc.label "Durchsuchen…">
 <!ENTITY browseNewsrc.accesskey "D">
