@@ -99,7 +99,7 @@
 <!ENTITY  permInstall           "安裝擴充套件或佈景主題">
 <!ENTITY  permGeo               "透露地理位置">
 
-<!ENTITY  permIndexedDB              "管理離線儲存空間">
+<!ENTITY  permIndexedDB              "使用離線儲存空間">
 <!ENTITY  permClearStorage           "清除儲存空間">
 <!ENTITY  permClearStorage.accesskey "C">
 
