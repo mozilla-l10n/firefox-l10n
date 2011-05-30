@@ -280,7 +280,7 @@ can reach it easily. -->
 <!ENTITY appMenuCustomize.label "Oanpasse">
 <!ENTITY appMenuToolbarLayout.label "Arkbalke úterlik…">
 <!ENTITY appMenuSidebars.label "Sydbalken">
-<!ENTITY appMenuFind.label "Fyn…">
+<!ENTITY appMenuFind.label "Sykje op side…">
 <!ENTITY appMenuUnsorted.label "Net sortearre blêdwizers">
 <!ENTITY appMenuWebDeveloper.label "Webûntwikkeler">
 <!ENTITY appMenuGettingStarted.label "Om te starten">
@@ -545,7 +545,7 @@ just addresses the organization to follow, e.g. "This site is run by " -->
 
 <!ENTITY syncSetup.label              "&syncBrand.shortName.label; ynstelle…">
 <!ENTITY syncSetup.accesskey          "Y">
-<!ENTITY syncSyncNowItem.label        "Sync no">
+<!ENTITY syncSyncNowItem.label        "Syngronisearje no">
 <!ENTITY syncSyncNowItem.accesskey    "S">
 <!ENTITY syncToolbarButton.label      "Sync">
 
