@@ -1,4 +1,4 @@
-<!-- ***** BEGIN LICENSE BLCK *****
+<!-- ***** BEGIN LICENSE BLOCK *****
    - Version: MPL 1.1/GPL 2.0/LGPL 2.1
    -
    - The contents of this file are subject to the Mozilla Public License Version
@@ -27,8 +27,8 @@
    -   Stephen Donner (technutz@netscape.net)
    -
    - Alternatively, the contents of this file may be used under the terms of
-   - either of the GNU General Public License Version 2 or later (the "GPL"),
-   - or the GNU Lesser General Public License Version 2.1 or later (the "LGPL"),
+   - either the GNU General Public License Version 2 or later (the "GPL"), or
+   - the GNU Lesser General Public License Version 2.1 or later (the "LGPL"),
    - in which case the provisions of the GPL or the LGPL are applicable instead
    - of those above. If you wish to allow use of your version of this file only
    - under the terms of either the GPL or the LGPL, and not to allow others to
@@ -45,10 +45,7 @@
 <!-- File menu items -->
 <!ENTITY fileMenu.label "Bestân">
 <!ENTITY fileMenu.accesskey "B">
-<!ENTITY newBlankPageCmd.label "Composer-side">
-<!ENTITY newBlankPageCmd.accesskey "p">
-<!ENTITY newMenu.label "Nij">
-<!ENTITY openFileCmd.label "Bestân iepenje...">
+<!ENTITY openFileCmd.label "Bestân iepenje…">
 <!ENTITY openFileCmd.accesskey "i">
 <!ENTITY openFileCmd.key "O">
 <!ENTITY openRemoteCmd.label "Ynternetlokaasje iepenje">
@@ -61,7 +58,7 @@
 <!ENTITY saveCmd.label "Bewarje">
 <!ENTITY saveCmd.accesskey "w">
 <!ENTITY saveCmd.key "s">
-<!ENTITY saveAsCmd.label "Bewarje as...">
+<!ENTITY saveAsCmd.label "Bewarje as…">
 <!ENTITY saveAsCmd.accesskey "s">
 
 <!ENTITY publishCmd.label "Publisearje">
@@ -69,17 +66,11 @@
 <!ENTITY publishCmd.key "S">
 <!ENTITY publishAsCmd.label "Publisearje as…">
 <!ENTITY publishAsCmd.accesskey "a">
-<!ENTITY exportToTextCmd.label "Eksportearje as tekst...">
-<!ENTITY exportToTextCmd.accesskey "k">
 <!ENTITY saveAsChangeEncodingCmd.label "Bewarje en tekenset wizigje">
 <!ENTITY saveAsChangeEncodingCmd.accesskey "w">
-<!ENTITY previewCmd.label "Side besjen">
-<!ENTITY previewCmd.accesskey "b">
-<!ENTITY sendPageCmd.label "Side ferstjoere...">
-<!ENTITY sendPageCmd.accesskey "f">
-<!ENTITY printSetupCmd.label "Side-ynstellings...">
+<!ENTITY printSetupCmd.label "Side-ynstellings…">
 <!ENTITY printSetupCmd.accesskey "i">
-<!ENTITY printCmd.label "Ofdrukke...">
+<!ENTITY printCmd.label "Ofdrukke…">
 <!ENTITY printCmd.accesskey "d">
 <!ENTITY printCmd.key "p">
 <!ENTITY closeCmd.label "Slute">
@@ -94,12 +85,12 @@
 <!ENTITY pasteNoFormatting.key "V">
 <!ENTITY pasteAs.label "Plakke as">
 <!ENTITY pasteAs.accesskey "P">
-<!ENTITY publishSettings.label "Publikaasjewebstee-ynstellings...">
+<!ENTITY publishSettings.label "Publikaasjewebstee-ynstellings…">
 <!ENTITY publishSettings.accesskey "b">
 <!ENTITY pasteAsQuotationCmd.label "Plakke as sitaat">
 <!ENTITY pasteAsQuotationCmd.accesskey "s">
 <!ENTITY pasteAsQuotationCmd.key "o">
-<!ENTITY findCmd.label "Sykje en ferfange...">
+<!ENTITY findCmd.label "Sykje en ferfange…">
 <!ENTITY findCmd.accesskey "S">
 <!ENTITY findCmd.key "f">
 <!ENTITY findCmd.key2 "VK_F19">
@@ -116,26 +107,24 @@
 <!ENTITY checkSpellingCmd2.label "Stavering kontrolearje">
 <!ENTITY checkSpellingCmd2.accesskey "k">
 <!ENTITY checkSpellingCmd2.key "p">
-<!ENTITY validateCmd.label "HTML falidearje">
-<!ENTITY validateCmd.accesskey "H">
 
 <!-- Insert menu items -->
 <!ENTITY insertMenu.label "Ynfoegje">
 <!ENTITY insertMenu.accesskey "Y">
-<!ENTITY insertLinkCmd.label "Keppeling...">
+<!ENTITY insertLinkCmd.label "Keppeling…">
 <!ENTITY insertLinkCmd.accesskey "K">
 <!ENTITY insertLinkCmd.key "l">
-<!ENTITY insertAnchorCmd.label "Ankerferwizing...">
+<!ENTITY insertAnchorCmd.label "Ankerferwizing…">
 <!ENTITY insertAnchorCmd.accesskey "n">
-<!ENTITY insertImageCmd.label "Ofbylding...">
+<!ENTITY insertImageCmd.label "Ofbylding…">
 <!ENTITY insertImageCmd.accesskey "O">
 <!ENTITY insertHLineCmd.label "Horizontale line">
 <!ENTITY insertHLineCmd.accesskey "o">
-<!ENTITY insertTableCmd.label "Tabel...">
+<!ENTITY insertTableCmd.label "Tabel…">
 <!ENTITY insertTableCmd.accesskey "T">
-<!ENTITY insertHTMLCmd.label "HTML...">
+<!ENTITY insertHTMLCmd.label "HTML…">
 <!ENTITY insertHTMLCmd.accesskey "H">
-<!ENTITY insertCharsCmd.label "Tekens en symboalen...">
+<!ENTITY insertCharsCmd.label "Tekens en symboalen…">
 <!ENTITY insertCharsCmd.accesskey "s">
 <!ENTITY insertBreakAllCmd.label "Ofbrekke nei ôfbylding(s)">
 <!ENTITY insertBreakAllCmd.accesskey "e">
@@ -146,14 +135,14 @@
 <!ENTITY spellCheckIgnoreWord.accesskey "n">
 <!ENTITY spellCheckAddToDictionary.label "Tafoegje oan wurdboek">
 <!ENTITY spellCheckAddToDictionary.accesskey "T">
-<!ENTITY createLinkCmd.label "Keppeling meitsje...">
+<!ENTITY createLinkCmd.label "Keppeling meitsje…">
 <!ENTITY createLinkCmd.accesskey "l">
 <!ENTITY editLinkCmd.label "Keppeling yn in nij finster bewurkje">
 <!ENTITY editLinkCmd.accesskey "i">
 <!-- (Toplevel Edit menu uses utilityOverlay) -->
 <!ENTITY undoCmd.label "Ungedien meitsje">
 <!ENTITY undoCmd.accesskey "U">
-<!ENTITY redoCmd.label "Werhelje">
+<!ENTITY redoCmd.label "Op 'e nij útfiere">
 <!ENTITY redoCmd.accesskey "H">
 <!ENTITY cutCmd.label "Knippe">
 <!ENTITY cutCmd.accesskey "n">
@@ -248,9 +237,9 @@
 <!ENTITY styleVar.label "Fariabel">
 <!ENTITY styleVar.accesskey "r">
 
-<!ENTITY formatFontColor.label "Tekstkleur...">
+<!ENTITY formatFontColor.label "Tekstkleur…">
 <!ENTITY formatFontColor.accesskey "K">
-<!ENTITY tableOrCellColor.label "Tabel- of seleftergrûnkleur...">
+<!ENTITY tableOrCellColor.label "Tabel- of seleftergrûnkleur…">
 <!ENTITY tableOrCellColor.accesskey "T">
 
 <!ENTITY formatRemoveStyles.key "Y">
@@ -293,7 +282,7 @@
 <!ENTITY listTermCmd.accesskey "T">
 <!ENTITY listDefinitionCmd.label "Definysje">
 <!ENTITY listDefinitionCmd.accesskey "D">
-<!ENTITY listPropsCmd.label "Listeigenskippen...">
+<!ENTITY listPropsCmd.label "Listeigenskippen…">
 <!ENTITY listPropsCmd.accesskey "L">
 
 <!ENTITY ParagraphSelect.tooltip "Alineaopmaak kieze">
@@ -325,24 +314,20 @@
 <!ENTITY layerSendToBack.tooltip "Nei efter bringe">
 <!ENTITY layerBringToFront.tooltip "Nei foaren bringe">
 
-<!ENTITY increaseIndent.label "Ynspringen fergrutsje">
+<!ENTITY increaseIndent.label "Ynspringe fergrutsje">
 <!ENTITY increaseIndent.accesskey "n">
 <!ENTITY increaseIndent.key "]">
-<!ENTITY decreaseIndent.label "Ynspringen ferlytse">
+<!ENTITY decreaseIndent.label "Ynspringe ferlytse">
 <!ENTITY decreaseIndent.accesskey "r">
 <!ENTITY decreaseIndent.key "[">
 
-<!ENTITY grid.label "Raster sette">
-<!ENTITY grid.accesskey "t">
-
-<!ENTITY pageProperties.label "Sidetitel en -eigenskippen...">
-<!ENTITY pageProperties.accesskey "P">
-<!ENTITY colorsAndBackground.label "Sidekleuren en eftergrûn...">
+<!ENTITY colorsAndBackground.label "Sidekleuren en eftergrûn…">
 <!ENTITY colorsAndBackground.accesskey "S">
 
 <!-- Table Menu -->
 <!ENTITY tableMenu.label "Tabel">
 <!ENTITY tableMenu.accesskey "T">
+
 <!-- Select Submenu -->
 <!ENTITY tableSelectMenu.label "Selektearje">
 <!ENTITY tableSelectMenu.accesskey "S">
@@ -404,15 +389,13 @@
 
 <!-- Toolbar-only items -->
 <!ENTITY menuBar.tooltip "Menubalke">
-<!ENTITY compositionToolbar.tooltip "Opmaakarkbalke">
 <!ENTITY formatToolbar.tooltip "Opmaakarkbalke">
+<!ENTITY newToolbarCmd.label "Nij">
 <!ENTITY newToolbarCmd.tooltip "In nije Composer-side oanmeitsje">
 <!ENTITY openToolbarCmd.label "Iepenje">
 <!ENTITY openToolbarCmd.tooltip "In lokaal bestân iepenje">
 <!ENTITY saveToolbarCmd.tooltip "Bestân bewarje op in lokale lokaasje">
 <!ENTITY publishToolbarCmd.tooltip "Bestân oplade nei in lokaasje op ôfstân">
-<!ENTITY previewToolbarCmd.label "Navigearje">
-<!ENTITY previewToolbarCmd.tooltip "Dizze side yn de browser lade">
 <!ENTITY printToolbarCmd.label "Ofdrukke">
 <!ENTITY printToolbarCmd.tooltip "Dizze side ôfdrukke">
 <!ENTITY findToolbarCmd.label "Sykje">
@@ -446,36 +429,10 @@
 <!ENTITY indentToolbarCmd.tooltip "Ynspringen fergrutsje">
 <!ENTITY AlignPopupButton.tooltip "Tekstútlyning kieze">
 <!ENTITY InsertPopupButton.tooltip "In keppeling, ankerferwizing, ôfbylding, horizontale line of tabel ynfoegje">
-<!ENTITY alignLeftButton.tooltip "Tekst by de linkermarge lâns">
+<!ENTITY alignLeftButton.tooltip "Tekst by de linkermarzje útlynje">
 <!ENTITY alignCenterButton.tooltip "Tekst útlynje yn it midden">
-<!ENTITY alignRightButton.tooltip "Tekst by de rjochtermarge lâns">
-<!ENTITY alignjustifyButton.tooltip "Tekst by de linker- en rjochtermarge lâns">
-
-<!-- Display Mode toolbar and View menu items -->
-<!ENTITY NormalModeTab.label "Normaal">
-<!ENTITY NormalMode.label "Normale bewurkingsmoadus">
-<!ENTITY NormalMode.accesskey "N">
-<!ENTITY NormalMode.tooltip "Tabelrânen en ankerferwizings toane">
-<!ENTITY AllTagsMode.label "HTML-koades">
-<!ENTITY AllTagsMode.accesskey "k">
-<!ENTITY AllTagsMode.tooltip "Piktogrammen werjaan foar alle HTML-koades">
-
-<!ENTITY HTMLSourceMode.label "HTML-boarne">
-<!-- Toolbar has an image with "HTML" text, so don't include it in the string -->
-<!ENTITY SourceMode.label "Boarne">
-<!ENTITY HTMLSourceMode.accesskey "b">
-<!ENTITY HTMLSourceMode.tooltip "HTML-boarne bewurkje">
-<!ENTITY PreviewMode.label "Foarbyld">
-<!ENTITY PreviewMode.accesskey "F">
-<!ENTITY PreviewMode.tooltip "As WJSIWJK toane (as yn de browser)">
-
-<!-- LOCALIZATION NOTE: Do NOT translate text for 'SourceTabDirection'
-     Use latin "ltr" if you want the <html> image to left of the 
-     'SourceMode.label' text defined above,
-     or use latin "rtl" if you want this image to the right of text
-     This is the value of the HTML 'dir' attribute
--->
-<!ENTITY SourceTabDirection "ltr">
+<!ENTITY alignRightButton.tooltip "Tekst by de rjochtermarzje útlynje">
+<!ENTITY alignJustifyButton.tooltip "Tekst by de linker- en rjochtermarzje útlynje">
 
 <!-- Structure Toolbar Context Menu items -->
 <!ENTITY structSelect.label         "Selektearje">
@@ -492,5 +449,5 @@
 <!ENTITY updateTOC.accesskey      "B">
 <!ENTITY removeTOC.label          "Fuortsmite">
 <!ENTITY removeTOC.accesskey      "F">
-<!ENTITY tocMenu.label            "Ynhâldsopjefte...">
+<!ENTITY tocMenu.label            "Ynhâldsopjefte…">
 <!ENTITY tocMenu.accesskey        "o">
