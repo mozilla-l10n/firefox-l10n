@@ -119,4 +119,4 @@
   -  that appears when the Scratchpad's text area is empty and unfocused.
   -  It should be a one-line JavaScript comment, i.e., preceded by '//'
   -->
-<!ENTITY textbox.placeholder          "// Fier wat JavaScript yn, selektearje it, rjochtsklikke en selektearje Utfiere, Ynspektearje of Ofdrukke.">
+<!ENTITY textbox.placeholder          "// Fier wat JavaScript yn, selektearje it, rjochtsklikke en selektearje Utfiere, Ynspektearje of Toane.">
