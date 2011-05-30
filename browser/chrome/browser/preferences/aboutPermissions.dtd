@@ -30,6 +30,6 @@
 
 <!-- LOCALIZATION NOTE (indexedDB.label): This is describing indexedDB storage
      using the same language used for the permIndexedDB string in browser/pageInfo.dtd -->
-<!ENTITY indexedDB.label                 "管理離線儲存空間">
+<!ENTITY indexedDB.label                 "使用離線儲存空間">
 
 <!ENTITY popup.label                     "開啟彈出式視窗">
