@@ -2,7 +2,7 @@
 <!ENTITY testpilot.settings.label "Stillingar">
 <!ENTITY testpilot.settings.dataSubmission.label "Gagnasendingar">
 <!ENTITY testpilot.settings.notifications.label "Tilkynningar">
-<!ENTITY testpilot.settings.notifyWhen.label "Láta mig vita hvenær…">
+<!ENTITY testpilot.settings.notifyWhen.label "Láta mig vita þegar…">
 <!ENTITY testpilot.settings.readyToSubmit.label "Könnun er tilbúinn til sendingar">
 <!ENTITY testpilot.settings.newStudy.label "Ný könnun er tilbúinn">
 <!ENTITY testpilot.settings.hasNewResults.label "Könnun er með nýjar niðurstöður">

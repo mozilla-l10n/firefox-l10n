@@ -13,11 +13,11 @@
 <!ENTITY pluginWizard.finalPage.description.label "&brandShortName; hefur lokið við að setja inn nauðsynleg tengiforrit:">
 <!ENTITY pluginWizard.finalPage.moreInfo.label "Sjáðu meira um tengiforrit eða finndu handvirkt nauðsynleg tengiforrit.">
 <!ENTITY pluginWizard.finalPage.restart.label "&brandShortName; þarfnast endurræsingar til að tengiforrit byrji að virka.">
-
-  
-<!ENTITY missingPlugin.label "Smelltu hér til að niðurhala tengiforriti.">
-<!ENTITY disabledPlugin.label "Tengiforritið fyrir þessa tegund hefur verið gert óvirkt. Smelltu hér til að stilla tengiforrit.">
+<!ENTITY missingPlugin "Tengiforrit er nauðsynlegt til að birta þetta innihald.">
+<!ENTITY disabledPlugin "Þetta tengiforrit er óvirkt.">
 <!ENTITY blockedPlugin.label "Þetta tengiforrit hefur verið stöðvað þér til verndar.">
+<!ENTITY installPlugin "Setja upp viðbætur…">
+<!ENTITY managePlugins "Umsjón með viðbótum…">
 <!-- LOCALIZATION NOTE (reloadPlugin.pre): include a trailing space as needed -->
 <!-- LOCALIZATION NOTE (reloadPlugin.middle): avoid leading/trailing spaces, this text is a link -->
 <!-- LOCALIZATION NOTE (reloadPlugin.post): include a starting space as needed -->

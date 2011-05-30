@@ -6,7 +6,6 @@
 <!ENTITY editBookmarkOverlay.feedLocation.accesskey "S">
 <!ENTITY editBookmarkOverlay.siteLocation.label "Staðsetning vefsvæðis:">
 <!ENTITY editBookmarkOverlay.siteLocation.accesskey "v">
-<!ENTITY editBookmarkOverlay.liveTitlesSeparator.label "Lifandi titlar">
 <!ENTITY editBookmarkOverlay.folder.label "Mappa:">
 <!ENTITY editBookmarkOverlay.foldersExpanderDown.tooltip "Sýna allar bókamerkjamöppur">
 <!ENTITY editBookmarkOverlay.expanderUp.tooltip "Fela">
