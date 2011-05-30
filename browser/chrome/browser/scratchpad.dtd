@@ -61,32 +61,48 @@
 <!ENTITY selectAllCmd.key             "A">
 <!ENTITY selectAllCmd.accesskey       "S">
 
-<!ENTITY execute.label                "Executar">
-<!ENTITY execute.accesskey            "E">
-<!ENTITY execute.key                  "t">
+<!ENTITY run.label                    "Executar">
+<!ENTITY run.accesskey                "R">
+<!ENTITY run.key                      "r">
 
 <!ENTITY inspect.label                "Inspeccionar">
 <!ENTITY inspect.accesskey            "I">
 <!ENTITY inspect.key                  "i">
 
-<!ENTITY print.label                  "Imprimir">
-<!ENTITY print.accesskey              "p">
-<!ENTITY print.key                    "r">
+<!ENTITY display.label                "Apresentar">
+<!ENTITY display.accesskey            "t">
+<!ENTITY display.key                  "l">
 
-<!ENTITY contextMenu.label            "Contexto">
-<!ENTITY contextMenu.accesskey        "C">
+<!-- LOCALIZATION NOTE (environmentMenu.label, accesskey): This menu item was
+  -  renamed from "Context" to avoid confusion with the right-click context
+  -  menu in the text area. It refers to the JavaScript Environment (or context)
+  -  the user is evaluating against. I.e., Content (current tab) or Chrome
+  -  (browser).
+  -->
+<!ENTITY environmentMenu.label        "Ambiente">
+<!ENTITY environmentMenu.accesskey    "n">
+
 
 <!ENTITY contentContext.label         "Conteúdo">
 <!ENTITY contentContext.accesskey     "C">
 
-<!ENTITY chromeContext.label          "Chrome">
-<!ENTITY chromeContext.accesskey      "H">
+<!-- LOCALIZATION NOTE (browserContext.label, accesskey): This menu item is used
+  -  to select an execution environment for the browser window itself as opposed
+  -  to content. This is a feature for browser and addon developers and only
+  -  enabled via the devtools.chrome.enabled preference. Formerly, this label
+  -  was called "Chrome".
+  -->
+<!ENTITY browserContext.label         "Navegador">
+<!ENTITY browserContext.accesskey     "N">
 
 <!-- LOCALIZATION NOTE (resetContext.label): This command allows the developer
   -  to reset/clear the global object of the context where the code executes.
   -->
 <!ENTITY resetContext.label           "Reiniciar">
 <!ENTITY resetContext.accesskey       "R">
+
+<!ENTITY executeMenu.label            "Executar">
+<!ENTITY executeMenu.accesskey        "X">
 
 <!ENTITY toolsMenu.label              "Ferramentas">
 <!ENTITY toolsMenu.accesskey          "T">
@@ -99,5 +115,9 @@
 <!ENTITY webConsoleCmd.accesskey      "W">
 <!ENTITY webConsoleCmd.commandkey     "k">
 
-<!ENTITY textbox.placeholder          "// Escreva algum JavaScript, seleccione-o, clique direito e escolha Executar, Inspeccionar ou Imprimir.">
+<!-- LOCALIZATION NOTE (textbox.placeholder1): This is some placeholder text
+  -  that appears when the Scratchpad's text area is empty and unfocused.
+  -  It should be a one-line JavaScript comment, i.e., preceded by '//'
+  -->
+<!ENTITY textbox.placeholder1         "// Escreva algum JavaScript, seleccione-o, clique direito e escolha Executar, Inspeccionar ou Imprimir.">
 
