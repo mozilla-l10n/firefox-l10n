@@ -84,7 +84,6 @@
 <!ENTITY replyWithTemplate.label "Responder com papel de carta">
 <!ENTITY markMessageRead.label "Marcar como Lida">
 <!ENTITY markMessageStarred.label "Adicionar Estrela">
-<!ENTITY labelMessage.label "Etiquetar mensagem como">
 <!ENTITY setPriority.label "Configurar prioridade para">
 <!ENTITY addTag.label "Etiquetar mensagem">
 <!ENTITY setJunkScore.label "Configurar o Estado do Lixo Electrónico para">
