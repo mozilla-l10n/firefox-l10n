@@ -104,7 +104,7 @@ can reach it easily. -->
 <!ENTITY subscribeToPageMenuitem.label "Subscrever esta página...">
 <!ENTITY addCurPagesCmd.label "Adicionar separadores...">
 <!ENTITY showAllBookmarks2.label "Mostrar todos os marcadores">
-<!ENTITY bookmarkAllCmd.label "Adicionar todos os separadores...">
+<!ENTITY unsortedBookmarksCmd.label "Marcadores desorganizados">
 <!ENTITY bookmarksToolbarChevron.tooltip "Mostrar mais marcadores">
 
 <!ENTITY backCmd.label "Retroceder">
@@ -179,8 +179,11 @@ shortcut keys on Linux. -->
 <!ENTITY addons.accesskey "E">
 <!ENTITY addons.commandkey            "A">
 
-<!ENTITY errorConsoleCmd.label "Consola de erros">
-<!ENTITY errorConsoleCmd.accesskey "C">
+<!ENTITY webDeveloperMenu.label       "Desenvolvedor web">
+<!ENTITY webDeveloperMenu.accesskey   "b">
+
+<!ENTITY errorConsoleCmd.label        "Consola de erros">
+<!ENTITY errorConsoleCmd.accesskey    "C">
 <!ENTITY errorConsoleCmd.commandkey   "j">
 
 <!ENTITY webConsoleCmd.label          "Consola web">
@@ -190,6 +193,21 @@ shortcut keys on Linux. -->
 <!ENTITY inspectMenu.label            "Inspeccionar">
 <!ENTITY inspectMenu.accesskey        "I">
 <!ENTITY inspectMenu.commandkey       "I">
+
+<!-- LOCALIZATION NOTE (scratchpad.label): This menu item label appears
+  -  in the Tools menu. See bug 653093.
+  -  The Scratchpad is intended to provide a simple text editor for creating
+  -  and evaluating bits of JavaScript code for the purposes of function
+  -  prototyping, experimentation and convenient scripting.
+  -
+  -  It's quite possible that you won't have a good analogue for the word
+  -  "Scratchpad" in your locale. You should feel free to find a close
+  -  approximation to it or choose a word (or words) that means
+  -  "simple discardable text editor". -->
+<!ENTITY scratchpad.label             "Scratchpad">
+<!ENTITY scratchpad.accesskey         "r">
+<!ENTITY scratchpad.keycode           "VK_F4">
+<!ENTITY scratchpad.keytext           "F4">
 
 <!ENTITY inspectPanelTitle.label      "HTML">
 <!ENTITY inspectButton.label          "Inspeccionar">
@@ -207,6 +225,9 @@ shortcut keys on Linux. -->
   -  titlebar: object.objectPanelTitle. -->
 <!ENTITY inspectObjectButton.label       "Objecto">
 <!ENTITY inspectObjectButton.accesskey   "O">
+
+<!ENTITY getMoreDevtoolsCmd.label        "Obter mais ferramentas">
+<!ENTITY getMoreDevtoolsCmd.accesskey    "m">
 
 <!ENTITY fileMenu.label "Ficheiro">
 <!ENTITY fileMenu.accesskey "F">
