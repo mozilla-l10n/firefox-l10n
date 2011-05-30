@@ -1,7 +1,7 @@
 <!ENTITY accountSetupTitle.label "&syncBrand.fullName.label; uppsetning">
 <!-- First page of the wizard -->
 
-<!ENTITY setup.pickSetupType.description "Velkominn, ef þú hefur aldrei notað &syncBrand.fullName.label; áður, verðurðu að búa til nýjan aðgang.">
+<!ENTITY setup.pickSetupType.description "Velkominn, ef þú hefur aldrei notað &syncBrand.fullName.label; áður, verðurðu að stofna nýjan aðgang.">
 <!ENTITY button.createNewAccount.label "Stofna nýjan aðgang">
 <!ENTITY setup.haveAccount.label "Ég er þegar með aðgang að &syncBrand.fullName.label;.">
 <!ENTITY button.connect.label "Tengjast">
@@ -38,7 +38,7 @@
 <!ENTITY setup.newSyncKeyPage.description.label "Til að passa upp á friðhelgi þína, eru öll gögn dulkóðuð áður en þau eru send. Hinsvegar er Sync lykillinn sem er nauðsynlegur til að afkóða gögnin er ekki sendur.">
 <!ENTITY syncKeyEntry.label "Sync lykillinn þinn">
 <!ENTITY syncKeyEntry.accesskey "k">
-<!ENTITY syncKeyGenerate.label "Búa til">
+<!ENTITY syncGenerateNewKey.label "Búa til nýjan lykil">
 <!ENTITY syncKeyBackup.description "Þú þarft að hafa Sync lykilinn þinn til að fá aðgang að &syncBrand.fullName.label; á öðrum tölvum. Vinsamlega búðu til afrit af lyklinum. Við getum ekki hjálpað þér að endurheimta Sync lykilinn þinn.">
 <!ENTITY button.syncKeyBackup.print.label "Prenta…">
 <!ENTITY button.syncKeyBackup.print.accesskey "P">

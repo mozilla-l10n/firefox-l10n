@@ -1,0 +1,96 @@
+<!-- LOCALIZATION NOTE : FILE This file contains the Scratchpad window strings -->
+<!-- LOCALIZATION NOTE : FILE Do not translate commandkeys -->
+
+<!-- LOCALIZATION NOTE (scratchpad.title):
+  -  The Scratchpad is intended to provide a simple text editor for creating
+  -  and evaluating bits of JavaScript code for the purposes of function
+  -  prototyping, experimentation and convenient scripting.
+  -
+  -  It's quite possible that you won't have a good analogue for the word
+  -  "Scratchpad" in your locale. You should feel free to find a close
+  -  approximation to it or choose a word (or words) that means
+  -  "simple discardable text editor". -->
+<!ENTITY window.title "Ritill">
+<!ENTITY fileMenu.label "Skrá">
+<!ENTITY fileMenu.accesskey "S">
+<!ENTITY newWindowCmd.label "Nýr gluggi">
+<!ENTITY newWindowCmd.accesskey "N">
+<!ENTITY newWindowCmd.commandkey "n">
+<!ENTITY openFileCmd.label "Opna skrá…">
+<!ENTITY openFileCmd.accesskey "O">
+<!ENTITY openFileCmd.commandkey "o">
+<!ENTITY saveFileCmd.label "Vista">
+<!ENTITY saveFileCmd.accesskey "s">
+<!ENTITY saveFileCmd.commandkey "s">
+<!ENTITY saveFileAsCmd.label "Vista sem…">
+<!ENTITY saveFileAsCmd.accesskey "a">
+<!ENTITY closeCmd.label "Loka">
+<!ENTITY closeCmd.key "W">
+<!ENTITY closeCmd.accesskey "L">
+<!ENTITY editMenu.label "Breyta">
+<!ENTITY editMenu.accesskey "e">
+<!ENTITY undoCmd.label "Afturkalla">
+<!ENTITY undoCmd.key "Z">
+<!ENTITY undoCmd.accesskey "u">
+<!ENTITY redoCmd.label "Endurtaka">
+<!ENTITY redoCmd.key "Y">
+<!ENTITY redoCmd.accesskey "r">
+<!ENTITY cutCmd.label "Klippa">
+<!ENTITY cutCmd.key "X">
+<!ENTITY cutCmd.accesskey "K">
+<!ENTITY copyCmd.label "Afrita">
+<!ENTITY copyCmd.key "C">
+<!ENTITY copyCmd.accesskey "A">
+<!ENTITY pasteCmd.label "Líma">
+<!ENTITY pasteCmd.key "V">
+<!ENTITY pasteCmd.accesskey "L">
+<!ENTITY selectAllCmd.label "Velja allt">
+<!ENTITY selectAllCmd.key "A">
+<!ENTITY selectAllCmd.accesskey "j">
+<!ENTITY run.label "Keyra">
+<!ENTITY run.accesskey "r">
+<!ENTITY run.key "r">
+<!ENTITY inspect.label "Skoða">
+<!ENTITY inspect.accesskey "k">
+<!ENTITY inspect.key "i">
+<!ENTITY display.label "Sýna">
+<!ENTITY display.accesskey "S">
+<!ENTITY display.key "l">
+<!-- LOCALIZATION NOTE (environmentMenu.label, accesskey): This menu item was
+  -  renamed from "Context" to avoid confusion with the right-click context
+  -  menu in the text area. It refers to the JavaScript Environment (or context)
+  -  the user is evaluating against. I.e., Content (current tab) or Chrome
+  -  (browser).
+  -->
+<!ENTITY environmentMenu.label "Umhverfi">
+<!ENTITY environmentMenu.accesskey "U">
+<!ENTITY contentContext.label "Innihald">
+<!ENTITY contentContext.accesskey "I">
+<!-- LOCALIZATION NOTE (browserContext.label, accesskey): This menu item is used
+  -  to select an execution environment for the browser window itself as opposed
+  -  to content. This is a feature for browser and addon developers and only
+  -  enabled via the devtools.chrome.enabled preference. Formerly, this label
+  -  was called "Chrome".
+  -->
+<!ENTITY browserContext.label "Vafri">
+<!ENTITY browserContext.accesskey "V">
+<!-- LOCALIZATION NOTE (resetContext.label): This command allows the developer
+  -  to reset/clear the global object of the environment where the code executes.
+  -->
+<!ENTITY resetContext.label "Endursetja">
+<!ENTITY resetContext.accesskey "r">
+<!ENTITY executeMenu.label "Keyra">
+<!ENTITY executeMenu.accesskey "K">
+<!ENTITY toolsMenu.label "Verkfæri">
+<!ENTITY toolsMenu.accesskey "V">
+<!ENTITY errorConsoleCmd.label "Villugluggi">
+<!ENTITY errorConsoleCmd.accesskey "V">
+<!ENTITY errorConsoleCmd.commandkey "j">
+<!ENTITY webConsoleCmd.label "Vefgluggi">
+<!ENTITY webConsoleCmd.accesskey "e">
+<!ENTITY webConsoleCmd.commandkey "k">
+<!-- LOCALIZATION NOTE (textbox.placeholder1): This is some placeholder text
+  -  that appears when the Scratchpad's text area is empty and unfocused.
+  -  It should be a one-line JavaScript comment, i.e., preceded by '//'
+  -->
+<!ENTITY textbox.placeholder1 "// Sláðu inn JavaScript, veldu það, hægri smelltu og veldu keyra, skoða eða sýna.">

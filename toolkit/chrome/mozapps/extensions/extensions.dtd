@@ -20,14 +20,12 @@
 <!ENTITY warning.updatesecurity.label "Öryggisuppfærslur fyrir viðbætur eru óvirkar. Þú gætir verið í hættu vegna uppfærslu.">
 <!ENTITY warning.updatesecurity.enable.label "Virkja">
 <!ENTITY warning.updatesecurity.enable.tooltip "Virkja öryggisuppfærslur fyrir viðbætur">
+<!-- global informations -->
+<!ENTITY info.plugincheck.label "Athugaðu hvort tengiforritin eru með nýjustu útgáfuna">
+<!ENTITY info.plugincheck.tooltip "Athugaðu hvort tengiforritin eru með nýjustu útgáfuna">
 <!-- categories / views -->
 <!ENTITY view.search.label "Leita">
 <!ENTITY view.discover.label "Ná í viðbætur">
-<!ENTITY view.locales.label "Tungumál">
-<!ENTITY view.searchengines.label "Leitarvélar">
-<!ENTITY view.features.label "Viðbætur">
-<!ENTITY view.appearance2.label "Útlit">
-<!ENTITY view.plugins.label "Tengiforrit">
 <!ENTITY view.recentUpdates.label "Nýlegar uppfærslur">
 <!ENTITY view.availableUpdates.label "Fáanlegar uppfærslur">
 <!-- addon updates -->

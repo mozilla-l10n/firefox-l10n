@@ -5,30 +5,14 @@
 <!ENTITY importFromBookmarks.label "Flytja inn bókamerki frá:">
 <!ENTITY importFromIE.label "Microsoft Internet Explorer">
 <!ENTITY importFromIE.accesskey "M">
-<!ENTITY importFromPhoenix.label "Firefox 0.8, Firebird eða Phoenix">
-<!ENTITY importFromPhoenix.accesskey "P">
 <!ENTITY importFromNothing.label "Flytja ekkert inn">
 <!ENTITY importFromNothing.accesskey "e">
 <!ENTITY importFromSeamonkey.label "Netscape 6, 7 eða Mozilla 1.x">
 <!ENTITY importFromSeamonkey.accesskey "N">
-<!ENTITY importFromNetscape4.label "Netscape 4.x">
-<!ENTITY importFromNetscape4.accesskey "4">
 <!ENTITY importFromOpera.label "Opera">
 <!ENTITY importFromOpera.accesskey "O">
-<!ENTITY importFromCamino.label "Camino">
-<!ENTITY importFromCamino.accesskey "C">
 <!ENTITY importFromSafari.label "Safari">
 <!ENTITY importFromSafari.accesskey "S">
-<!ENTITY importFromOmniWeb.label "OmniWeb">
-<!ENTITY importFromOmniWeb.accesskey "W">
-<!ENTITY importFromICab.label "iCab">
-<!ENTITY importFromICab.accesskey "i">
-<!ENTITY importFromKonqueror.label "Konqueror">
-<!ENTITY importFromKonqueror.accesskey "K">
-<!ENTITY importFromEpiphany.label "Epiphany">
-<!ENTITY importFromEpiphany.accesskey "E">
-<!ENTITY importFromGaleon.label "Galeon">
-<!ENTITY importFromGaleon.accesskey "G">
 <!ENTITY importFromHTMLFile.label "Frá HTML skrá">
 <!ENTITY importFromHTMLFile.accesskey "F">
 <!ENTITY noMigrationSources.label "Engin forrit fundust sem gætu innihaldið bókamerki, ferill eða lykilorð.">
