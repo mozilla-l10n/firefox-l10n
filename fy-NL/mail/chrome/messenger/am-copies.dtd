@@ -21,22 +21,26 @@
 <!ENTITY sentFolderOn.accesskey "F">
 <!ENTITY sentInOtherFolder.label "Oars:">
 <!ENTITY sentInOtherFolder.accesskey "O">
+<!-- LOCALIZATION NOTE (archivesFolderOn.label): OK to translate this, bug #57440 -->
+<!ENTITY archivesTitle.label "Berjochtargiven">
+<!ENTITY keepArchives.label "Berjochtargiven bewarje yn:">
+<!ENTITY keepArchives.accesskey "B">
+<!ENTITY archiveHierarchyButton.label "Argivearopsjes…">
+<!ENTITY archiveHierarchyButton.accesskey "A">
+<!ENTITY archivesFolderOn.label "Map &quot;Argiven&quot; yn op:">
+<!ENTITY archivesFolderOn.accesskey "r">
+<!ENTITY archiveInOtherFolder.label "Oars:">
+<!ENTITY archiveInOtherFolder.accesskey "O">
+<!ENTITY specialFolders.label "Konsepten en sjabloanen">
+<!ENTITY keepDrafts.label "Berjochtkonsepten bewarje yn:">
 <!-- LOCALIZATION NOTE (draftsFolderOn.label): OK to translate this, bug #57440 -->
 <!ENTITY draftsFolderOn.label "Map &quot;Konsepten&quot; yn:">
 <!ENTITY draftsFolderOn.accesskey "K">
 <!ENTITY draftInOtherFolder.label "Oars:">
 <!ENTITY draftInOtherFolder.accesskey "r">
-<!-- LOCALIZATION NOTE (archivesFolderOn.label): OK to translate this, bug #57440 -->
-<!ENTITY archivesFolderOn.label "&quot;Argyf&quot; map op:">
-<!ENTITY archivesFolderOn.accesskey "g">
-<!ENTITY archiveInOtherFolder.label "Oars:">
-<!ENTITY archiveInOtherFolder.accesskey "r">
+<!ENTITY keepTemplates.label "Berjochtsjabloanen bewarje yn:">
 <!-- LOCALIZATION NOTE (templatesFolderOn.label): OK to translate this, bug #57440 -->
 <!ENTITY templatesFolderOn.label "Map &quot;Sjabloanen&quot; yn:">
 <!ENTITY templatesFolderOn.accesskey "S">
 <!ENTITY templateInOtherFolder.label "Oars:">
 <!ENTITY templateInOtherFolder.accesskey "s">
-<!ENTITY specialFoldersTitle.label "Konsepten en sjabloanen">
-<!ENTITY keepDrafts.label "Berjochtkonsepten bewarje yn:">
-<!ENTITY keepArchives.label "Bewarje berjochtargyf yn:">
-<!ENTITY keepTempltes.label "Berjochtsjabloanen bewarje yn:">
