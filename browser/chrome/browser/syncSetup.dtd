@@ -43,7 +43,7 @@
 <!ENTITY setup.newSyncKeyPage.description.label "Para assegurar total privacidade, todos os seus dados são cifrados antes de serem carregados. A chave do Sync que é necessária para decifrar os seus dados não é carregada.">
 <!ENTITY syncKeyEntry.label        "A sua chave do Sync">
 <!ENTITY syncKeyEntry.accesskey    "h">
-<!ENTITY syncKeyGenerate.label     "Gerar">
+<!ENTITY syncGenerateNewKey.label  "Gerar nova chave">
 <!ENTITY syncKeyBackup.description "A sua chave do Sync é necessária para aceder ao &syncBrand.fullName.label; noutras máquinas. Por favor crie uma cópia de segurança. Não o podemos ajudar a recuperar a sua chave do Sync.">
 
 <!ENTITY button.syncKeyBackup.print.label     "Imprimir…">
