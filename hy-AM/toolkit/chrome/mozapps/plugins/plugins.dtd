@@ -58,10 +58,14 @@
 
 <!ENTITY pluginWizard.finalPage.moreInfo.label               "Հավելյալ տեղեկություններ խից­բաղադիրների մասին, կամ ինքներդ տեղադրեք բաղադիրներ:">
 <!ENTITY pluginWizard.finalPage.restart.label                "&brandShortName;­ը պիտի վերագործարկվի բաղադիրներն աշխատացնելու համար:">
-  
-<!ENTITY missingPlugin.label                                 "Սեղմեք այստեղ բաղադրիչը բեռնավորելու համար:">
-<!ENTITY disabledPlugin.label                                "Այս բովանդակության պլագինը անջատված է: Սեղմեք այստեղ պլագինները կարգավորելու համար:">
+
+<!ENTITY missingPlugin                                       "A plugin is needed to display this content.">
+<!ENTITY disabledPlugin                                      "This plugin is disabled.">
 <!ENTITY blockedPlugin.label                                 "Անվտանգության նկատառումներով այս պլագինը կասեցվել է:">
+
+<!ENTITY installPlugin                                       "Install plugin…">
+<!ENTITY managePlugins                                       "Manage plugins…">
+
 <!-- LOCALIZATION NOTE (reloadPlugin.pre): include a trailing space as needed -->
 <!-- LOCALIZATION NOTE (reloadPlugin.middle): avoid leading/trailing spaces, this text is a link -->
 <!-- LOCALIZATION NOTE (reloadPlugin.post): include a starting space as needed -->
