@@ -5,30 +5,30 @@
 <!ENTITY importFromBookmarks.label "पुस्तचिह्न यहाँ से आयात करें:">
 <!ENTITY importFromIE.label "Microsoft इंटरनेट एक्सप्लोरर">
 <!ENTITY importFromIE.accesskey "M">
-<!ENTITY importFromPhoenix.label "फ़ायरफ़ॉक्स 0.8, फ़ायरबर्ड या फीनिक्स">
-<!ENTITY importFromPhoenix.accesskey "P">
+
+
 <!ENTITY importFromNothing.label "कुछ भी आयात न करें (D)">
 <!ENTITY importFromNothing.accesskey "D">
 <!ENTITY importFromSeamonkey.label "नेटस्केप 6, 7 या मोजिला 1.x">
 <!ENTITY importFromSeamonkey.accesskey "N">
-<!ENTITY importFromNetscape4.label "नेटस्केप 4.x">
-<!ENTITY importFromNetscape4.accesskey "4">
+
+
 <!ENTITY importFromOpera.label "ओपरा">
 <!ENTITY importFromOpera.accesskey "O">
-<!ENTITY importFromCamino.label "कैमिनो">
-<!ENTITY importFromCamino.accesskey "C">
+
+
 <!ENTITY importFromSafari.label "सफारी">
 <!ENTITY importFromSafari.accesskey "S">
-<!ENTITY importFromOmniWeb.label "ओम्नीवेब">
-<!ENTITY importFromOmniWeb.accesskey "W">
-<!ENTITY importFromICab.label "iCab">
-<!ENTITY importFromICab.accesskey "i">
-<!ENTITY importFromKonqueror.label "कोंकरर">
-<!ENTITY importFromKonqueror.accesskey "K">
-<!ENTITY importFromEpiphany.label "एपीफेनी">
-<!ENTITY importFromEpiphany.accesskey "E">
-<!ENTITY importFromGaleon.label "गैलियन">
-<!ENTITY importFromGaleon.accesskey "G">
+
+
+
+
+
+
+
+
+
+
 <!ENTITY importSource.title "सेटिंग्स और डेटा यहाँ से आयात करें">
 <!ENTITY importItems.title "आयात की वस्तुएं">
 <!ENTITY importItems.label "आयात की वस्तुओं का चयन करें">
