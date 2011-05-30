@@ -1,7 +1,7 @@
 <!ENTITY  splash_screen_label "lade">
 <!ENTITY  splash_screen_installing "biblioteken ynstallearje\u2026">
 <!ENTITY  incompatable_cpu_error "Dit apparaat foldocht net oan de minimale systeemeasken foar &brandShortName;.">
-<!ENTITY  no_space_to_start_error "Der is net genôch ûnthâld beskikber foar &brandShortName; om te starten.">
+<!ENTITY  no_space_to_start_error "Der is net genôch ûnthâld beskikber om &brandShortName; te starten.">
 <!ENTITY  error_loading_file "Der is in flater bard wylst it laden fan bestannen dy\'t nedich binne foar &brandShortName;">
 
 <!ENTITY  crash_reporter_title "&brandShortName; Ungelokrapportearder">
@@ -13,6 +13,5 @@
 <!ENTITY  crash_restart_label "Werstart &brandShortName;">
 <!ENTITY  sending_crash_report "Ferstjoert ûngelokrapport\u2026">
 <!ENTITY  exit_label "Slute">
-<!ENTITY  incompatable_device "&brandShortName; stipet dit model net dus jo kinne problemen
-ûnderfine.">
+<!ENTITY  incompatable_device "&brandShortName; stipet dit model net dus jo kinne problemen ûnderfine.">
 <!ENTITY  continue_label "Fierder">
