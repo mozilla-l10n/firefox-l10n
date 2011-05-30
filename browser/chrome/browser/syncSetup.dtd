@@ -82,7 +82,7 @@
 <!ENTITY setup.newSyncKeyPage.description.label "Ձեր բացարձակ գաղտնիության ապահովման համար տվյալները գաղտնագրվեւմ են ուղարկվելուց առաջ: Sync բանալին որը անհրաժեշտ է տվյալների ապակոդավորման համար բեռնված չէ:">
 <!ENTITY syncKeyEntry.label        "Ձեր Sync բանալին">
 <!ENTITY syncKeyEntry.accesskey    "S">
-<!ENTITY syncKeyGenerate.label     "Առաջացնել">
+<!ENTITY syncGenerateNewKey.label  "Generate a new key">
 <!ENTITY syncKeyBackup.description " Պահանջվում է Ձեր Սինք բանալին այլ սարքերում &syncBrand.fullName.label; մուտք գործելու համար:Խնդրում ենք ստեղծեք պահուստային կրկնօրինակ:Մենք չենք կարող օգնել ձեզ վերականգնել ձեր Սինք բանալին:">
 
 <!ENTITY button.syncKeyBackup.print.label     "Տպել…">

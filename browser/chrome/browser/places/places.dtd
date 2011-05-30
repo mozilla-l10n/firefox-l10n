@@ -45,12 +45,9 @@
 <!ENTITY organize.accesskey    "Ղ">
 <!ENTITY organize.tooltip      " Կարգավորեք ձեր էջանիշները:">
 
-<!ENTITY file.accesskey                 "F">
 <!ENTITY file.close.label               "Փակել">
 <!ENTITY file.close.accesskey           "C">
 <!ENTITY cmd.close.key                  "w">
-<!ENTITY edit.label                     "Խմբագրել">
-<!ENTITY edit.accesskey                 "E">
 <!ENTITY views.label                    "Տեսք">
 <!ENTITY views.accesskey                "Տ">
 <!ENTITY views.tooltip                  "Փոխել դիտելու ձևը">
@@ -115,8 +112,6 @@
 
 <!ENTITY cmd.reloadLivebookmark.label      "Թարմացնել կենդանի էջանիշերը">
 <!ENTITY cmd.reloadLivebookmark.accesskey  "Թ">
-<!ENTITY cmd.reloadMicrosummary.label      "Թարմացնել ընթացիկ վերնագիրը">
-<!ENTITY cmd.reloadMicrosummary.accesskey  "Թ">
 
 <!ENTITY cmd.moveBookmarks.label                  "Տեղափոխել...">
 <!ENTITY cmd.moveBookmarks.accesskey              "Տ">
@@ -152,17 +147,14 @@
 <!ENTITY maintenance.accesskey  "Ն">
 <!ENTITY maintenance.tooltip    "Ներմուծեք և պահպանեք ձեր էջանշերը">
 
-<!ENTITY backCmd.label       "Հետ">
 <!ENTITY backButton.tooltip  "Գնալ ետ">
 
-<!ENTITY forwardCmd.label       "Առաջ">
 <!ENTITY forwardButton.tooltip  "Անցնել առաջ">
 
 <!ENTITY detailsPane.more.label "Ավելին">
 <!ENTITY detailsPane.more.accesskey "Ա">
 <!ENTITY detailsPane.less.label "Քիչ">
 <!ENTITY detailsPane.less.accesskey "Ք">
-<!ENTITY detailsPane.noPreviewAvailable.label "Դիտել">
 <!ENTITY detailsPane.selectAnItemText.description "Ընտրեք բաղադրիրը դիտելու և խմբագրելու նրա կարգավորումները">
 
 <!ENTITY find.label               "Փնտրել.">

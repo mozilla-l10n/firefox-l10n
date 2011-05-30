@@ -45,7 +45,6 @@
 <!ENTITY editBookmarkOverlay.feedLocation.accesskey          "Ն">
 <!ENTITY editBookmarkOverlay.siteLocation.label              "Կայքի հասցեն`">
 <!ENTITY editBookmarkOverlay.siteLocation.accesskey          "Կ">
-<!ENTITY editBookmarkOverlay.liveTitlesSeparator.label       "Ընթացիկ վերնագրերը">
 <!ENTITY editBookmarkOverlay.folder.label                    "Պնակ`">
 <!ENTITY editBookmarkOverlay.foldersExpanderDown.tooltip     "Ցույց տալ էջանիշերի բոլոր պնակները">
 <!ENTITY editBookmarkOverlay.expanderUp.tooltip              "Թաքցնել">
