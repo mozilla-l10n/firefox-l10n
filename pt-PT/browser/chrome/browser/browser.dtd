@@ -226,6 +226,9 @@ shortcut keys on Linux. -->
 <!ENTITY inspectObjectButton.label       "Objecto">
 <!ENTITY inspectObjectButton.accesskey   "O">
 
+<!ENTITY getMoreDevtoolsCmd.label        "Obter mais ferramentas">
+<!ENTITY getMoreDevtoolsCmd.accesskey    "m">
+
 <!ENTITY fileMenu.label "Ficheiro">
 <!ENTITY fileMenu.accesskey "F">
 <!ENTITY newNavigatorCmd.label "Nova janela">
