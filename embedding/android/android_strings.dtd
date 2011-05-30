@@ -14,6 +14,5 @@
 <!ENTITY  crash_restart_label "&brandShortName; herstarten">
 <!ENTITY  sending_crash_report "Crashrapport verzenden\u2026">
 <!ENTITY  exit_label "Afsluiten">
-<!ENTITY  incompatable_device "&brandShortName; ondersteunt dit apparaat niet en u kunt problemen ondervinden.">
 <!ENTITY  continue_label "Doorgaan">
 
