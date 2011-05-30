@@ -20,11 +20,17 @@
 
 <!ENTITY featureConfigurator.toolbarBenefits.para "Berjochtaksjes lykas antwurdzje en trochstjoere binne ferpleatst fan de arkbalke nei de kop it berjocht sels. Dit bynt de aksjes daliks oan it berjocht, wat mear romte oerlit yn de arkbalke foar it sykfek, as ek foar tafoegings.">
 
+<!-- LOCALIZATION NOTE (featureConfigurator.addOn.downloading): The text to display while downloading the addon. -->
+<!ENTITY featureConfigurator.addOn.downloading "Ynlade…">
+
 <!-- LOCALIZATION NOTE (featureConfigurator.addOn.installing): The text to display while installing the addon. -->
 <!ENTITY featureConfigurator.addOn.installing "Ynstallaasje…">
 
 <!-- LOCALIZATION NOTE (featureConfigurator.addOn.installed): The text to display after the user installs the addon from the configurator. -->
 <!ENTITY featureConfigurator.addOn.installed "Ynstallearre">
+
+<!-- LOCALIZATION NOTE (featureConfigurator.addOn.failure): The text to display when there is a problem installing the addon. -->
+<!ENTITY featureConfigurator.addOn.failure "Der wie in probleem mei it ynstallearjeb fan dizze útwreiding!">
 
 <!-- LOCALIZATION NOTE (featureConfigurator.addOn.alreadyInstalled): The label to display when the addon is already installed. -->
 <!ENTITY featureConfigurator.addOn.alreadyInstalled "Dizze útwreiding is al ynstallearre.">
