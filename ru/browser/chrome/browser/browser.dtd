@@ -30,10 +30,10 @@
 <!ENTITY openLocationCmd.label "Открыть адрес…">
 <!ENTITY openLocationCmd.accesskey "а">
 <!ENTITY openFileCmd.label "Открыть файл…">
-<!ENTITY openFileCmd.accesskey "О">
+<!ENTITY openFileCmd.accesskey "к">
 <!ENTITY openFileCmd.commandkey "o">
 <!ENTITY printSetupCmd.label "Параметры страницы…">
-<!ENTITY printSetupCmd.accesskey "П">
+<!ENTITY printSetupCmd.accesskey "а">
 <!ENTITY printPreviewCmd.label "Предварительный просмотр">
 <!ENTITY printPreviewCmd.accesskey "д">
 <!ENTITY printCmd.label "Печать…">
