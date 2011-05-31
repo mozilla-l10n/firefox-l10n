@@ -5,7 +5,7 @@
 
 <!ENTITY  policies.label      "Policies:">
 <!ENTITY  default.label       "Default Policy">
-<!ENTITY  allWebsites.label   "All Websites">
+<!ENTITY  allWebsites.label   "All Web Sites">
 <!ENTITY  trusted.label       "Trusted Sites">
 <!ENTITY  annoyances.label    "Common Annoyances">
 <!ENTITY  restricted.label    "Restricted Sites">

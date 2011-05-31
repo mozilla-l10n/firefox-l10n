@@ -22,6 +22,7 @@
  Contributor(s):
     Karsten Düsterloh <mnyromyr@tprac.de>
     Jeremy Morton <bugzilla@game-point.net>
+    Ian Neal <iann_bugzilla@blueyonder.co.uk>
 
  Alternatively, the contents of this file may be used under the terms of
  either of the GNU General Public License Version 2 or later (the "GPL"),
@@ -125,8 +126,6 @@
 <!ENTITY deleteMsgsCmd.accesskey "D">
 <!ENTITY undeleteMsgsCmd.label "Undelete Selected Messages">
 <!ENTITY undeleteMsgsCmd.accesskey "d">
-<!ENTITY cancelNewsMsgsCmd.label "Cancel Selected Messages">
-<!ENTITY cancelNewsMsgsCmd.accesskey "n">
 <!ENTITY deleteFolderCmd.label "Delete Folder">
 <!ENTITY deleteFolderCmd.accesskey "D">
 <!ENTITY unsubscribeNewsgroupCmd.label "Unsubscribe">
@@ -157,14 +156,11 @@
 
 <!-- View Menu -->
 <!ENTITY showMessengerToolbarCmd.label		"Mail Toolbar">
-<!ENTITY showMessengerToolbarCmd.accesskey	"o">
+<!ENTITY showMessengerToolbarCmd.accesskey	"M">
  
 <!-- showSearchToolbarCmd is also used by addressbook -->
 <!ENTITY showSearchToolbarCmd.label		"Search Bar">
 <!ENTITY showSearchToolbarCmd.accesskey	"e">
-
-<!ENTITY showLocationToolbarCmd.label "Location Toolbar">
-<!ENTITY showLocationToolbarCmd.accesskey "L">
 
 <!ENTITY messagePaneLayoutStyle.label "Layout">
 <!ENTITY messagePaneLayoutStyle.accesskey "L">
@@ -318,7 +314,7 @@
 <!ENTITY goBackCmd.label "Back">
 <!ENTITY goBackCmd.accesskey "B">
 <!ENTITY goBackCmd.commandKey "[">
-<!ENTITY goForwardCmd.label "Forward">
+<!ENTITY goForwardCmd.label "Forwards">
 <!ENTITY goForwardCmd.accesskey "F">
 <!ENTITY goForwardCmd.commandKey "]">
 <!ENTITY prevFlaggedMsgCmd.label "Flagged Message">
@@ -489,11 +485,12 @@
 <!ENTITY stopButton.label "Stop">
 <!ENTITY junkButton.label "Junk">
 <!ENTITY notJunkButton.label "Not Junk">
+<!ENTITY searchButton.title "Advanced Search">
 
 <!-- Tooltips -->
 <!ENTITY menuBar.tooltip "Menu Bar">
 <!ENTITY mailToolbar.tooltip "Mail Toolbar">
-<!ENTITY locationToolbar.tooltip "Location Toolbar">
+<!ENTITY searchToolbar.tooltip "Search Bar">
 <!ENTITY advancedButton.tooltip "Advanced message search">
 <!ENTITY getMsgButton.tooltip "Get new messages">
 <!ENTITY newMsgButton.tooltip "Create a new message">
@@ -589,9 +586,10 @@
 
 <!-- focusSearchInput.key also used by addressbook -->
 <!ENTITY focusSearchInput.key "k">
-<!ENTITY searchSubjectOrAddress.emptytext "Search Subject or Address">
 <!ENTITY advancedButton.label "Advanced…">
 <!ENTITY advancedButton.accesskey "A">
+<!ENTITY searchButton.label "Search Messages…">
+<!ENTITY searchButton.accesskey "S">
 
 <!ENTITY all.label "All">
 <!ENTITY all.accesskey "A">
@@ -608,3 +606,8 @@
 <!-- Phishing Bar -->
 <!ENTITY phishingBarMessage.label "&brandShortName; thinks this message might be an email scam.">
 <!ENTITY removePhishingBarButton.label "Not a Scam">
+
+<!-- MDN Bar -->
+<!ENTITY mdnBarMessage.label "The sender of this message has asked to be notified when you read this message. Do you wish to notify the sender?">
+<!ENTITY mdnBarIgnoreButton.label "Ignore Request">
+<!ENTITY mdnBarSendButton.label "Send Receipt">

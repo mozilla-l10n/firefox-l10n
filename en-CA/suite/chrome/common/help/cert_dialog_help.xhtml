@@ -36,7 +36,7 @@
     <li><a href="#certificate_backup">Certificate Backup</a></li>
     <li><a href="#user_identification_request">User Identification Request</a></li>
     <li><a href="#new_certificate_authority">New Certificate Authority</a></li>
-    <li><a href="#web_site_certificates">Web site Certificates</a></li>
+    <li><a href="#web_site_certificates">Web Site Certificates</a></li>
   </ul>
 </div>
 
@@ -180,7 +180,7 @@
   that issue separate signing and encryption email certificates typically make
   backup copies of your private
   <a href="glossary.xhtml#encryption_key">encryption key</a> during the
-  certificate enrollment process.</p>
+  certificate enrolment process.</p>
 
 <p>The Encryption Key Copy dialogue box allows you to approve the creation of
   such a backup or cancel the certificate request. A CA that has archived a
@@ -302,10 +302,10 @@
   select any of the following options:</p>
 
 <ul>
-  <li><strong>Trust this CA to identify web sites</strong>: Web site certificates
-    for some sites, such as those that handle financial transactions, can be
-    extremely important, and inappropriate or false identification can have
-    negative consequences.</li>
+  <li><strong>Trust this CA to identify web sites</strong>: Web site
+    certificates for some web sites, such as those that handle financial
+    transactions, can be extremely important, and inappropriate or false
+    identification can have negative consequences.</li>
   <li><strong>Trust this CA to identify email users</strong>: If you intend to
     send email users confidential information in encrypted form, or if accurate
     identification of email users is important to you for any other reason, you
@@ -334,7 +334,7 @@
     certificate, click Cancel.</li>
 </ul>
 
-<h2 id="web_site_certificates">Web site Certificates</h2>
+<h2 id="web_site_certificates">Web Site Certificates</h2>
 
 <p>When you attempt to go to a web site that supports the use of
   <a href="glossary.xhtml#ssl">SSL</a> for
@@ -350,7 +350,7 @@
       Page</a></li>
     <li><a href="#untrusted_connection_page">Untrusted Connection Page</a></li>
     <li><a href="#secure_connection_failed_dialog">Secure Connection Failed
-      Dialog</a></li>
+      Dialogue</a></li>
     <li><a href="#certificate_expired">Server Certificate Expired</a></li>
     <li><a href="#certificate_not_yet_valid">Server Certificate Not Yet
       Valid</a></li>
@@ -361,12 +361,12 @@
 <h3 id="secure_connection_failed_page">Secure Connection Failed Page</h3>
 
 <p>In the case where you have disabled the SSL protocol (e.g. through
-  <a href="ssl_help.xhtml#ssl_settings">SSL Settings</a>) or the site that you
-  are accessing is using an older, insecure version of the SSL protocol then you
-  will be presented with a page titled &quot;Secure Connection Failed&quot;.
+  <a href="ssl_help.xhtml#ssl_settings">SSL Settings</a>) or the web site that
+  you are accessing is using an older, insecure version of the SSL protocol then
+  you will be presented with a page titled &quot;Secure Connection Failed&quot;.
   That page contains some basic background information (including the
   <strong>Error code</strong> that uniquely identifies the type of problem
-  &brandShortName; detected with the site) and a <strong>Try Again</strong>
+  &brandShortName; detected with the web site) and a <strong>Try Again</strong>
   button that triggers a page reload.</p>
 
 <h3 id="untrusted_connection_page">Untrusted Connection Page</h3>
@@ -377,11 +377,11 @@
   most common ones:</p>
 
 <ul>
-  <li>the certificate of the web site is <a href="#certificate_expired">no longer
-    valid (expired)</a></li>
+  <li>the certificate of the web site is <a href="#certificate_expired">no
+    longer valid (expired)</a></li>
   <li>the certificate of the web site is
     <a href="#certificate_not_yet_valid">not yet valid</a></li>
-  <li>the certificate of the web site is only valid for another site
+  <li>the certificate of the web site is only valid for another web site
     (<a href="#domain_name_mismatch">domain name mismatch</a>)</li>
   <li>the certificate of the web site is self-signed (thus the identity of the
     web site cannot be verified).</li>
@@ -393,22 +393,22 @@
 
 <p>The page displayed in the above cases is meant to help you understand why
   &brandShortName; was unable to establish a secure connection to the web site.
-  It starts by telling you that the site&apos;s identity could not be verified,
-  then offers you to leave the page by clicking the <strong>This sounds bad,
-  take me to my home page instead</strong> button. If you are unsure what to do
-  it is recommended that you follow this advice.</p>
+  It starts by telling you that the web site&apos;s identity could not be
+  verified, then offers you to leave the page by clicking the <strong>This
+  sounds bad, take me to my home page instead</strong> button. If you are unsure
+  what to do it is recommended that you follow this advice.</p>
 
 <p>If you want to know a little bit more about the actual problem at hand you
   may expand the corresponding section by clicking the chevron in front of
   <strong>Technical Details</strong>. That section also contains the
   <strong>Error code</strong> that uniquely identifies the type of problem
-  &brandShortName; detected with the site.</p>
+  &brandShortName; detected with the web site.</p>
 
 <h4 id="add_security_exception">Adding a Security Exception</h4>
 
 <p>The <strong>I Understand the Risks</strong> section of the Untrusted
   Connection page allows you to tell &brandShortName; to explicitly override the
-  security checks for this site by adding an exception. If you expand the
+  security checks for this web site by adding an exception. If you expand the
   section by clicking the chevron in front of it you will see an <strong>Add
   Exception</strong> button that will take you to a dialogue allowing you to get
   and view the web site&apos;s certificate and optionally add a Security
@@ -416,7 +416,7 @@
   exceptions can be administered through the Certificate Manager&apos;s
   <a href="certs_help.xhtml#servers">Servers</a> tab.</p>
 
-<h3 id="secure_connection_failed_dialog">Secure Connection Failed Dialog</h3>
+<h3 id="secure_connection_failed_dialog">Secure Connection Failed Dialogue</h3>
 
 <p>In cases where &brandShortName; cannot determine the actual cause of the
   problem a dialogue titled &quot;Secure Connection Failed&quot; is shown in
@@ -439,9 +439,9 @@
   expired.</p>
 
 <p>If your computer&apos;s clock is set correctly, you need to make a decision
-  about whether to trust the site. This decision depends on what you intend to
-  do at the site and what else you know about it. Most commercial sites will
-  make sure that they replace their certificates before they expire. If you
+  about whether to trust the web site. This decision depends on what you intend
+  to do at the web site and what else you know about it. Most commercial sites
+  will make sure that they replace their certificates before they expire. If you
   choose to continue you need to <a href="#add_security_exception">add a
   security exception</a>.</p>
 
@@ -452,42 +452,40 @@
   valid for a specified period of time.</p>
 
 <p>&brandShortName; <a href="#untrusted_connection_page">warns</a> you when you
-  attempt to visit a web site whose server certificate&apos;s validity period has
-  not yet started. The first thing you should do is make sure the time and date
-  displayed by your own computer is correct. If your computer&apos;s clock is
-  set to the wrong date, &brandShortName; may treat the server certificate as
+  attempt to visit a web site whose server certificate&apos;s validity period
+  has not yet started. The first thing you should do is make sure the time and
+  date displayed by your own computer is correct. If your computer&apos;s clock
+  is set to the wrong date, &brandShortName; may treat the server certificate as
   not yet valid even if this is not the case.</p>
 
 <p>If your computer&apos;s clock is set correctly, you need to make a decision
-  about whether to trust the site. This decision depends on what you intend to
-  do at the site and what else you know about it. Most commercial sites will
-  make sure that the validity period for their certificates has begun before
-  beginning to use them. If you choose to continue you need to
+  about whether to trust the web site. This decision depends on what you intend
+  to do at the web site and what else you know about it. Most commercial sites
+  will make sure that the validity period for their certificates has begun
+  before beginning to use them. If you choose to continue you need to
   <a href="#add_security_exception">add a security exception</a>.</p>
 
 <h3 id="domain_name_mismatch">Domain Name Mismatch</h3>
 
 <p>A server <a href="glossary.xhtml#certificate">certificate</a> specifies the
-  name of the server in the form of the site&apos;s domain name. For example,
-  the domain name for the Mozilla web site is <tt>www.mozilla.org</tt>. If the
-  domain name in a server&apos;s certificate doesn&apos;t match the actual
-  domain name of the web site, it may be a sign that someone is attempting to
-  intercept your communication with the web site.</p>
+  name of the server in the form of the web site&apos;s domain name. For
+  example, the domain name for the Mozilla web site is <tt>www.mozilla.org</tt>.
+  If the domain name in a server&apos;s certificate doesn&apos;t match the
+  actual domain name of the web site, it may be a sign that someone is
+  attempting to intercept your communication with the web site.</p>
 
 <p>&brandShortName; <a href="#untrusted_connection_page">warns</a> you when you
   attempt to visit a web site whose server certificate&apos;s domain does not
   match the domain of the web site you are trying to visit. The decision whether
-  to trust the site anyway depends on what you intend to do at the site and what
-  else you know about it. Most commercial sites will make sure that the host
-  name for a web site certificate matches the web site&apos;s actual host name.
-  If you choose to continue you need to <a href="#add_security_exception">add
-  a security exception</a>.</p>
+  to trust the web site anyway depends on what you intend to do at the site and
+  what else you know about it. Most commercial sites will make sure that the
+  host name for a web site certificate matches the web site&apos;s actual host
+  name. If you choose to continue you need to
+  <a href="#add_security_exception">add a security exception</a>.</p>
 
 <p>If you decide to accept the certificate anyway (either for this session or
-  permanently), you should be cautious about what you do on the web site, and you
-  should treat any information you find there as potentially suspect.</p>
-
-<p>&copyright.string;</p>
+  permanently), you should be cautious about what you do on the web site, and
+  you should treat any information you find there as potentially suspect.</p>
 
 </body>
 </html>
