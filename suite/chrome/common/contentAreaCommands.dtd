@@ -13,11 +13,13 @@
 <!ENTITY openFrameCmd.accesskey       "W">
 <!ENTITY openFrameCmdInTab.label      "Open Frame in New Tab">
 <!ENTITY openFrameCmdInTab.accesskey  "T">
+<!ENTITY keywordfield.label           "Add a Keyword for this Search…">
+<!ENTITY keywordfield.accesskey       "K">
 <!ENTITY showOnlyThisFrameCmd.label     "Show Only This Frame">
 <!ENTITY showOnlyThisFrameCmd.accesskey "S">
 <!ENTITY goBackCmd.label              "Back">
 <!ENTITY goBackCmd.accesskey          "B">
-<!ENTITY goForwardCmd.label           "Forward">
+<!ENTITY goForwardCmd.label           "Forwards">
 <!ENTITY goForwardCmd.accesskey       "F">
 <!ENTITY goUpCmd.label                "Up">
 <!ENTITY goUpCmd.accesskey            "U">
@@ -114,6 +116,8 @@
 <!ENTITY mediaShowControls.accesskey  "a">
 <!ENTITY mediaHideControls.label      "Hide Media Controls">
 <!ENTITY mediaHideControls.accesskey  "a">
+<!ENTITY videoFullScreen.label        "Full Screen">
+<!ENTITY videoFullScreen.accesskey    "F">
 <!ENTITY search.accesskey             "W">
 <!ENTITY bidiSwitchPageDirectionItem.label        "Switch Page Direction">
 <!ENTITY bidiSwitchPageDirectionItem.accesskey    "g">

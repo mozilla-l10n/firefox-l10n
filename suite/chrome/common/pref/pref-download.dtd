@@ -18,9 +18,9 @@
 <!ENTITY alwaysAsk.label                "Always ask me where to save files">
 <!ENTITY alwaysAsk.accesskey            "A">
 
-<!ENTITY downloadRetention.label        "Download retention">
-<!ENTITY removeDownloads.label          "Remove downloads">
-<!ENTITY removeDownloads.accesskey      "R">
+<!ENTITY downloadHistory.label          "Download history">
+<!ENTITY removeEntries.label            "Remove download entries">
+<!ENTITY removeEntries.accesskey        "R">
 <!ENTITY whenCompleted.label            "When they have completed">
 <!ENTITY whenQuittingApp.label          "When quitting &brandShortName;">
 <!ENTITY neverRemove.label              "Never">
@@ -32,5 +32,5 @@
 <!ENTITY showAlert.accesskey            "S">
 <!ENTITY browse.label                   "Browse…">
 <!ENTITY browse.accesskey               "B">
-<!ENTITY preview.label                  "Preview">
-<!ENTITY preview.accesskey              "e">
+<!ENTITY playButton.label               "Play">
+<!ENTITY playButton.accesskey           "l">
