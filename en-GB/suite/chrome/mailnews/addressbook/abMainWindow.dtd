@@ -100,8 +100,6 @@
 <!ENTITY importCmd.accesskey                            "I">
 <!ENTITY exportCmd.label                                "Export…">
 <!ENTITY exportCmd.accesskey                            "E">
-<!ENTITY allowOnlineCheck.label                         "Check online presence (AOL)">
-<!ENTITY allowOnlineCheck.accesskey                     "C">
 
 <!-- Toolbar and Popup items -->  
 <!ENTITY newContactButton.label                         "New Contact">
@@ -116,7 +114,8 @@
 <!ENTITY deleteItemButton.accesskey                     "D">
 <!ENTITY newimButton.label                              "Instant Message">  
 <!ENTITY newimButton.accesskey                          "I">  
-<!ENTITY searchNameAndEmail.emptytext                   "Search Name and Email">
+<!ENTITY searchNameAndEmail.placeholder                 "Search Name and Email">
+<!ENTITY searchBox.title                                "Search">
 
 <!-- Tooltips -->
 <!ENTITY addressbookToolbar.tooltip                     "Address Book Toolbar">

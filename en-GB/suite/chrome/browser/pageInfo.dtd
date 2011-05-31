@@ -38,7 +38,7 @@
 -->
 
 <!-- Note to localizers, don't localize the strings 'width' or 'height' -->
-<!ENTITY  pageInfoWindow.dimensions  "width: 100ch; height: 30em;">
+<!ENTITY  pageInfoWindow.dimensions  "width: 100ch; height: 38em;">
 
 <!ENTITY  copy.key              "C">
 <!ENTITY  copy.label            "Copy">
@@ -79,7 +79,7 @@
 
 <!ENTITY  linksTab              "Links">
 <!ENTITY  linksTab.accesskey    "L">
-<!ENTITY  linkNo                "Nº">
+<!ENTITY  linkNo                "No.">
 <!ENTITY  linkName              "Name">
 <!ENTITY  linkAddress           "Address">
 <!ENTITY  linkType              "Type">
@@ -134,7 +134,7 @@
 
 <!ENTITY  securityView.identity.header   "Web Site Identity">
 <!ENTITY  securityView.identity.owner    "Owner:">
-<!ENTITY  securityView.identity.domain   "Web site:">
+<!ENTITY  securityView.identity.domain   "Web Site:">
 <!ENTITY  securityView.identity.verifier "Verified by:">
 
 <!ENTITY  securityView.privacy.header                   "Privacy &amp; History">
