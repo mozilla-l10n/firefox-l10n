@@ -25,7 +25,7 @@
 <!ENTITY testpilot.notification.close.tooltip            "Fechar">
 
 <!-- Firefox 4 beta version UI -->
-<!ENTITY testpilot.enable.label                        "Turn On User Studies">
+<!ENTITY testpilot.enable.label                        "Ativar estudos de usuário">
 <!ENTITY testpilot.feedbackbutton.label                "Minha opinião">
 <!ENTITY testpilot.happy.label        "O Firefox me deixou feliz porque…">
 <!ENTITY testpilot.sad.label          "O Firefox me deixou triste porque…">

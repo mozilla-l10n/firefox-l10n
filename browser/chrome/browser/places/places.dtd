@@ -6,12 +6,9 @@
 <!ENTITY organize.accesskey    "O">
 <!ENTITY organize.tooltip      "Organizar os favoritos">
 
-<!ENTITY file.accesskey                 "q">
 <!ENTITY file.close.label               "Fechar">
 <!ENTITY file.close.accesskey           "F">
 <!ENTITY cmd.close.key                  "W">
-<!ENTITY edit.label                     "Editar">
-<!ENTITY edit.accesskey                 "E">
 <!ENTITY views.label                    "Exibir">
 <!ENTITY views.accesskey                "x">
 <!ENTITY views.tooltip                  "Mudar a visualização">
@@ -76,8 +73,6 @@
 
 <!ENTITY cmd.reloadLivebookmark.label      "Recarregar RSS">
 <!ENTITY cmd.reloadLivebookmark.accesskey  "R">
-<!ENTITY cmd.reloadMicrosummary.label      "Recarregar nome dinâmico">
-<!ENTITY cmd.reloadMicrosummary.accesskey  "e">
 
 <!ENTITY cmd.moveBookmarks.label                  "Mover…">
 <!ENTITY cmd.moveBookmarks.accesskey              "M">
@@ -113,17 +108,14 @@
 <!ENTITY maintenance.accesskey  "I">
 <!ENTITY maintenance.tooltip    "Importar e fazer backup dos favoritos">
 
-<!ENTITY backCmd.label       "Voltar">
 <!ENTITY backButton.tooltip  "Voltar">
 
-<!ENTITY forwardCmd.label       "Avançar">
 <!ENTITY forwardButton.tooltip  "Avançar">
 
 <!ENTITY detailsPane.more.label "Mais">
 <!ENTITY detailsPane.more.accesskey "M">
 <!ENTITY detailsPane.less.label "Menos">
 <!ENTITY detailsPane.less.accesskey "M">
-<!ENTITY detailsPane.noPreviewAvailable.label "Visualizar">
 <!ENTITY detailsPane.selectAnItemText.description "Selecione um item para exibí-lo e editar suas propriedades.">
 
 <!ENTITY find.label               "Localizar:">

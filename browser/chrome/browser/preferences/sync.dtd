@@ -14,7 +14,7 @@
 <!ENTITY manageAccount.accesskey      "G">
 <!ENTITY viewQuota.label              "Exibir cota">
 <!ENTITY changePassword.label         "Modificar senha">
-<!ENTITY mySyncKey.label              "Modificar chave do Sync">
+<!ENTITY mySyncKey.label              "Minha chave do Sync">
 <!ENTITY resetSync.label              "Reconfigurar Sync">
 <!ENTITY addDevice.label              "Adicionar um dispositivo">
 

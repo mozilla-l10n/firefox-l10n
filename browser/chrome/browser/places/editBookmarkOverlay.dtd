@@ -6,7 +6,6 @@
 <!ENTITY editBookmarkOverlay.feedLocation.accesskey          "R">
 <!ENTITY editBookmarkOverlay.siteLocation.label              "End. do site:">
 <!ENTITY editBookmarkOverlay.siteLocation.accesskey          "E">
-<!ENTITY editBookmarkOverlay.liveTitlesSeparator.label       "Nomes dinâmicos">
 <!ENTITY editBookmarkOverlay.folder.label                    "Pasta:">
 <!ENTITY editBookmarkOverlay.foldersExpanderDown.tooltip     "Exibir todas as pastas dos favoritos">
 <!ENTITY editBookmarkOverlay.expanderUp.tooltip              "Ocultar">
