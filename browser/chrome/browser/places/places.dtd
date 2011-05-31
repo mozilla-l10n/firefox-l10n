@@ -101,7 +101,7 @@
 <!ENTITY maintenance.accesskey  "I">
 <!ENTITY organize.accesskey    "S">
 <!ENTITY places.library.title  "Librari">
-<!ENTITY views.accesskey                "S">
+<!ENTITY views.accesskey                "a">
 <!ENTITY places.library.width  "700">
 <!ENTITY places.library.height "500">
 
@@ -113,7 +113,7 @@
 <!ENTITY cmd.bookmarkLink.accesskey     "Q">
 
 <!ENTITY maintenance.tooltip    "Importoni dhe kopjeruani faqerojtësit tuaj">
-<!ENTITY organize.tooltip      "Organizoni faqerojtësit tuaj">
+<!ENTITY organize.tooltip      "Sistemoni faqerojtësit tuaj">
 <!ENTITY views.tooltip                  "Ndërroni shfaqjen">
 
 <!ENTITY find.label               "Kërko:">
