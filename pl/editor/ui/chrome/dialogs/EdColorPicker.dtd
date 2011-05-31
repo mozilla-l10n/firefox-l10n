@@ -23,6 +23,7 @@
    -    Marek Wawoczny <gmbh@mozillapl.org> (Polish translation)
    -    Piotr Bartecki <pbartecki@mozillapl.org> (Polish translation)
    -    Piotr Komoda <gorky@civ.pl> (Polish translation)
+   -    Stefan Plewako <splewako@aviary.pl> (Polish translation)
    -
    - Alternatively, the contents of this file may be used under the terms of
    - either of the GNU General Public License Version 2 or later (the "GPL"),
@@ -44,7 +45,7 @@
 <!ENTITY setColor1.label "Wybierz kolor z tabeli powyżej">
 <!ENTITY setColor2.label "lub wprowadź kod HTML koloru">
 <!ENTITY setColor2.accessKey "H">
-<!ENTITY setColorExample.label '(np.: "#0000ff" lub "blue"):'>
+<!ENTITY setColorExample.label     "(np.: „#0000ff” lub „blue”):">
 <!ENTITY default.label "Domyślny">
 <!ENTITY default.accessKey "D">
 <!ENTITY palette.label "Paleta:">

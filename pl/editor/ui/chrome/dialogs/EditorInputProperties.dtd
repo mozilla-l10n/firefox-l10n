@@ -6,8 +6,8 @@
 <!ENTITY password.value "Hasło" >
 <!ENTITY checkbox.value "Pole wyboru" >
 <!ENTITY radio.value "Pole opcji" >
-<!ENTITY submit.value 'Przycisk "Wyślij"' >
-<!ENTITY reset.value 'Przycisk "Zresetuj"' >
+<!ENTITY submit.value              "Przycisk „Wyślij”">
+<!ENTITY reset.value               "Przycisk „Zresetuj”">
 <!ENTITY file.value "Plik" >
 <!ENTITY hidden.value "Ukryte" >
 <!ENTITY image.value "Obrazek" >
