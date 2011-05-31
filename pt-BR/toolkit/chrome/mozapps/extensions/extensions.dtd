@@ -23,14 +23,13 @@
 <!ENTITY warning.updatesecurity.enable.label       "Ativar">
 <!ENTITY warning.updatesecurity.enable.tooltip     "Ativar verificação de segurança da conexão de atualização">
 
+<!-- global informations -->
+<!ENTITY info.plugincheck.label                 "Verifique se os seus plugins estão atualizados">
+<!ENTITY info.plugincheck.tooltip               "Verificar se os seus plugins estão atualizados">
+
 <!-- categories / views -->
 <!ENTITY view.search.label                    "Pesquisar">
 <!ENTITY view.discover.label                  "Adicionar">
-<!ENTITY view.locales.label                   "Idiomas">
-<!ENTITY view.searchengines.label             "Mecanismos de pesquisa">
-<!ENTITY view.features.label                  "Extensões">
-<!ENTITY view.appearance2.label               "Aparência">
-<!ENTITY view.plugins.label                   "Plugins">
 <!ENTITY view.recentUpdates.label             "Atualizações recentes">
 <!ENTITY view.availableUpdates.label          "Atualizações disponíveis">
 
