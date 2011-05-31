@@ -141,11 +141,11 @@
 <!ENTITY calendar.task.filter.next7days.label "Næste syv dage">
 <!ENTITY calendar.task.filter.next7days.accesskey "N">
 <!ENTITY calendar.task.filter.notstarted.label "Ikke-påbegyndte opgaver">
-<!ENTITY calendar.task.filter.notstarted.accesskey "a">
+<!ENTITY calendar.task.filter.notstarted.accesskey "å">
 <!ENTITY calendar.task.filter.overdue.label "Overskredne opgaver">
 <!ENTITY calendar.task.filter.overdue.accesskey "O">
 <!ENTITY calendar.task.filter.completed.label "Fuldførte opgaver">
-<!ENTITY calendar.task.filter.completed.accesskey "F">
+<!ENTITY calendar.task.filter.completed.accesskey "d">
 <!ENTITY calendar.task.filter.open.label "Ufuldførte opgaver">
 <!ENTITY calendar.task.filter.open.accesskey "U">
 
@@ -155,7 +155,7 @@
      separate entry will be shown for each of the occurrences that happen on or
      before today (or the selected date, whichever is later). -->
 <!ENTITY calendar.task.filter.current.label         "Aktive opgaver">
-<!ENTITY calendar.task.filter.current.accesskey     "A">
+<!ENTITY calendar.task.filter.current.accesskey     "k">
 <!ENTITY calendar.task.filter.repeating.label       "Gentagende opgaver">
 <!ENTITY calendar.task.filter.repeating.accesskey   "G">
 
@@ -168,9 +168,9 @@
 <!ENTITY calendar.task-details.status.label "Status">
 <!ENTITY calendar.task-details.category.label "Kategori">
 <!ENTITY calendar.task-details.repeat.label "Gentag">
-<!ENTITY calendar.task-details.attachments.label "vedhæftede filer">
-<!ENTITY calendar.task-details.start.label           "startdato">
-<!ENTITY calendar.task-details.due.label             "slutdato">
+<!ENTITY calendar.task-details.attachments.label "Vedhæftede filer:">
+<!ENTITY calendar.task-details.start.label           "Startdato">
+<!ENTITY calendar.task-details.due.label             "Slutdato">
 
 <!ENTITY calendar.task.category.button.tooltip "Kategoriser opgaver">
 <!ENTITY calendar.task.complete.button.tooltip "Marker valgte opgaver som fuldførte">
