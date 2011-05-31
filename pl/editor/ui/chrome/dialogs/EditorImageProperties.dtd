@@ -50,7 +50,7 @@
 <!ENTITY locationEditField.tooltip   "Wprowadź nazwę pliku obrazka, ścieżkę dostępu lub adres URL">
 <!ENTITY title.label                 "Etykieta:">
 <!ENTITY title.accessKey             "k">
-<!ENTITY title.tooltip               'Atrybut "Title" wyświetlany jako etykieta'>
+<!ENTITY title.tooltip               "Atrybut „title” wyświetlany jako etykieta">
 <!ENTITY altText.label               "Tekst alternatywny:">
 <!ENTITY altText.accessKey           "T">
 <!ENTITY altTextEditField.tooltip    "Wprowadź tekst, który będzie wyświetlany w miejscu obrazka">
