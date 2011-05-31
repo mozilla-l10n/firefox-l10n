@@ -31,4 +31,4 @@
 <!ENTITY Diskspace                        "Disc Space">
 <!ENTITY offlineCompact.label             "Compact folders when it will save over">
 <!ENTITY offlineCompact.accesskey         "C">
-<!ENTITY kb.label                         "kB">
+<!ENTITY mb.label                         "MB">
