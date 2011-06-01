@@ -44,7 +44,7 @@
 
 <!ENTITY status.label          "Publishing…">
 <!ENTITY fileList.label        "Publishing Status">
-<!ENTITY succeeded.label       "Succeeded">
+<!ENTITY succeeded.label       "Bem-sucedido">
 <!ENTITY failed.label          "Malsucedido">
 
 <!ENTITY keepOpen              "Não fechar a janela quando concluir">
