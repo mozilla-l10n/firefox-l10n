@@ -46,9 +46,6 @@
 <!-- File menu items -->
 <!ENTITY fileMenu.label "Arquivo">
 <!ENTITY fileMenu.accesskey "A">
-<!ENTITY newBlankPageCmd.label "Janela">
-<!ENTITY newBlankPageCmd.accesskey "J" >
-<!ENTITY newMenu.label "Novo">
 <!ENTITY openFileCmd.label "Abrir arquivo…">
 <!ENTITY openFileCmd.accesskey "O">
 <!ENTITY openFileCmd.key "o">
@@ -70,14 +67,8 @@
 <!ENTITY publishCmd.key "s">
 <!ENTITY publishAsCmd.label "Publicar como…">
 <!ENTITY publishAsCmd.accesskey "u">
-<!ENTITY exportToTextCmd.label "Exportar como texto…">
-<!ENTITY exportToTextCmd.accesskey "x">
 <!ENTITY saveAsChangeEncodingCmd.label "Salvar e mudar codificação">
 <!ENTITY saveAsChangeEncodingCmd.accesskey "m">
-<!ENTITY previewCmd.label "Visualizar">
-<!ENTITY previewCmd.accesskey "z">
-<!ENTITY sendPageCmd.label "Enviar página">
-<!ENTITY sendPageCmd.accesskey "E">
 <!ENTITY printSetupCmd.label "Configurar página…">
 <!ENTITY printSetupCmd.accesskey "C">
 <!ENTITY printCmd.label "Imprimir…">
@@ -117,8 +108,6 @@
 <!ENTITY checkSpellingCmd2.label "Verificar ortografia">
 <!ENTITY checkSpellingCmd2.accesskey "V">
 <!ENTITY checkSpellingCmd2.key "p">
-<!ENTITY validateCmd.label "Validar HTML">
-<!ENTITY validateCmd.accesskey "V">
 
 <!-- Insert menu items -->
 <!ENTITY insertMenu.label "Inserir">
@@ -333,11 +322,6 @@
 <!ENTITY decreaseIndent.accesskey "D">
 <!ENTITY decreaseIndent.key "[">
 
-<!ENTITY grid.label "Posicionar no grid…">
-<!ENTITY grid.accesskey "s">
-
-<!ENTITY pageProperties.label "Propriedades da página…">
-<!ENTITY pageProperties.accesskey "r">
 <!ENTITY colorsAndBackground.label "Plano de fundo e cores…">
 <!ENTITY colorsAndBackground.accesskey "u">
 
@@ -406,15 +390,13 @@
 
 <!-- Toolbar-only items -->
 <!ENTITY menuBar.tooltip "Menu (clique para exibir)">
-<!ENTITY compositionToolbar.tooltip "Barra de ferramentas">
 <!ENTITY formatToolbar.tooltip "Formatação">
+<!ENTITY newToolbarCmd.label "New">
 <!ENTITY newToolbarCmd.tooltip "Criar uma nova página do Composer">
 <!ENTITY openToolbarCmd.label "Abrir">
 <!ENTITY openToolbarCmd.tooltip "Abrir um arquivo do computador">
 <!ENTITY saveToolbarCmd.tooltip "Salvar a página localmente">
 <!ENTITY publishToolbarCmd.tooltip "Fazer o upload do arquivo">
-<!ENTITY previewToolbarCmd.label "Visualizar">
-<!ENTITY previewToolbarCmd.tooltip "Carregar esta página no navegador">
 <!ENTITY printToolbarCmd.label "Imprimir">
 <!ENTITY printToolbarCmd.tooltip "Imprimir a página">
 <!ENTITY findToolbarCmd.label "Localizar">
@@ -450,34 +432,8 @@
 <!ENTITY InsertPopupButton.tooltip "Inserir um link, âncora, imagem, linha horizontal ou tabela">
 <!ENTITY alignLeftButton.tooltip "Alinhar texto na margem esquerda">
 <!ENTITY alignCenterButton.tooltip "Centralizar texto">
-<!ENTITY alignRightButton.tooltip "Alinhar a margem direita">
-<!ENTITY alignjustifyButton.tooltip "Alinhar texto nas margens esquerda e direita">
-
-<!-- Display Mode toolbar and View menu items -->
-<!ENTITY NormalModeTab.label "Normal">
-<!ENTITY NormalMode.label "Normal">
-<!ENTITY NormalMode.accesskey "N">
-<!ENTITY NormalMode.tooltip "Exibir bordas nas tabelas e âncoras nomeadas">
-<!ENTITY AllTagsMode.label "Exibir tags">
-<!ENTITY AllTagsMode.accesskey "x">
-<!ENTITY AllTagsMode.tooltip "Exibir ícones para todas as tags HTML">
-
-<!ENTITY HTMLSourceMode.label "Código-fonte HTML">
-<!-- Toolbar has an image with "HTML" text, so don't include it in the string -->
-<!ENTITY SourceMode.label "Código-fonte">
-<!ENTITY HTMLSourceMode.accesskey "f">
-<!ENTITY HTMLSourceMode.tooltip "Editar código-fonte HTML">
-<!ENTITY PreviewMode.label "Visualizar">
-<!ENTITY PreviewMode.accesskey "z">
-<!ENTITY PreviewMode.tooltip "Visualizar como a página ficará no navegador">
-
-<!-- LOCALIZATION NOTE: Do NOT translate text for 'SourceTabDirection'
-     Use latin "ltr" if you want the <html> image to left of the 
-     'SourceMode.label' text defined above,
-     or use latin "rtl" if you want this image to the right of text
-     This is the value of the HTML 'dir' attribute
--->
-<!ENTITY SourceTabDirection "ltr">
+<!ENTITY alignRightButton.tooltip "Alinhar texto na margem direita">
+<!ENTITY alignJustifyButton.tooltip "Alinhar texto nas margens esquerda e direita">
 
 <!-- Structure Toolbar Context Menu items -->
 <!ENTITY structSelect.label         "Selecionar">

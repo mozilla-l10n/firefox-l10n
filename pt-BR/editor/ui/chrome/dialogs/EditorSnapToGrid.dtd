@@ -41,7 +41,7 @@
 <!ENTITY windowTitle.label "Posicionar na grade">
 
 <!ENTITY enableSnapToGrid.label "Ativar">
-<!ENTITY enableSnapToGrid.accessKey "a">
+<!ENTITY enableSnapToGrid.accessKey "A">
 
 <!ENTITY sizeEditField.label "Tamanho:">
 <!ENTITY sizeEditField.accessKey "T">
