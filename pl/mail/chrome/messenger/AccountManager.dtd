@@ -12,5 +12,5 @@
 <!ENTITY removeButton.label         "Usuń konto">
 <!ENTITY removeButton.accesskey     "U">
 
-<!ENTITY accountManager.size "width: 111ch; height: 49em;"><!-- en-US: width: 105ch; height: 49em; -->
-<!ENTITY accountTree.width   "width: 26ch;"><!-- en-US: width: 31ch; -->
+<!ENTITY accountManager.size "width: 111ch; height: 55em;">
+<!ENTITY accountTree.width   "width: 26ch;">
