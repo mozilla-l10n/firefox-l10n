@@ -104,7 +104,6 @@ can reach it easily. -->
 <!ENTITY subscribeToPageMenuitem.label "Subscribirse a esta páxina…">
 <!ENTITY addCurPagesCmd.label "Marcar todas as lapelas…">
 <!ENTITY showAllBookmarks2.label "Mostrar todos os marcadores">
-<!ENTITY bookmarkAllCmd.label "Marcar todas as lapelas…">
 <!ENTITY bookmarksToolbarChevron.tooltip "Mostrar máis marcadores">
 
 <!ENTITY backCmd.label                "Atrás">

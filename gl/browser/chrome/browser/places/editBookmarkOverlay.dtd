@@ -6,7 +6,6 @@
 <!ENTITY editBookmarkOverlay.feedLocation.accesskey          "f">
 <!ENTITY editBookmarkOverlay.siteLocation.label              "Enderezo do sitio:">
 <!ENTITY editBookmarkOverlay.siteLocation.accesskey          "s">
-<!ENTITY editBookmarkOverlay.liveTitlesSeparator.label       "Títulos dinámicos">
 <!ENTITY editBookmarkOverlay.folder.label                    "Cartafol:">
 <!ENTITY editBookmarkOverlay.foldersExpanderDown.tooltip     "Mostrar todos os cartafoles de marcadores">
 <!ENTITY editBookmarkOverlay.expanderUp.tooltip              "Ocultar">
