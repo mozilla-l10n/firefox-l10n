@@ -46,8 +46,6 @@
 <!ENTITY compositionToolbar.tooltip "Barra de ferramentas de composición">
 
 <!-- View menu items -->
-<!ENTITY viewMenu.label "Ver">
-<!ENTITY viewMenu.accesskey "V">
 <!ENTITY compositionToolbarCmd.label "Barra de ferramentas de composición">
 <!ENTITY compositionToolbarCmd.accesskey "c">
 <!ENTITY formattingToolbarCmd.label "Barra de ferramentas de formato">

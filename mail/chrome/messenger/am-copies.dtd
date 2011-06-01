@@ -36,7 +36,5 @@
 <!ENTITY templatesFolderOn.accesskey "M">
 <!ENTITY templateInOtherFolder.label "Outro:">
 <!ENTITY templateInOtherFolder.accesskey "r">
-<!ENTITY specialFoldersTitle.label "Borradores, arquivos e modelos">
 <!ENTITY keepDrafts.label "Gardar os borradores das mensaxes en:">
 <!ENTITY keepArchives.label "Gardar arquivos de mensaxes en:">
-<!ENTITY keepTempltes.label "Gardar os modelos das mensaxes en:">
