@@ -45,9 +45,6 @@
 <!-- File menu items -->
 <!ENTITY fileMenu.label "Ficheiro">
 <!ENTITY fileMenu.accesskey "F">
-<!ENTITY newBlankPageCmd.label "Páxina do Composer">
-<!ENTITY newBlankPageCmd.accesskey "p" >
-<!ENTITY newMenu.label "Novo">
 <!ENTITY openFileCmd.label "Abrir ficheiro…">
 <!ENTITY openFileCmd.accesskey "A">
 <!ENTITY openFileCmd.key "O">
