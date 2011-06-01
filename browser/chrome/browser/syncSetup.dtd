@@ -43,7 +43,6 @@
 <!ENTITY setup.newSyncKeyPage.description.label "Para asegurar plenamente a súa privacidade, todos os seus datos cífranse antes de subilos ao servidor. A chave de sincronización que se precisa para descifralos non se envía.">
 <!ENTITY syncKeyEntry.label        "A súa chave de sincronización">
 <!ENTITY syncKeyEntry.accesskey    "h">
-<!ENTITY syncKeyGenerate.label     "Xerar">
 <!ENTITY syncKeyBackup.description "Requírese a súa chave de sincronización para acceder ao &syncBrand.fullName.label; noutras máquinas. Cree unha copia de seguranza. Non é posíbel que lle axudemos a recuperar a súa chave de sincronización.">
 
 <!ENTITY button.syncKeyBackup.print.label     "Imprimir…">
