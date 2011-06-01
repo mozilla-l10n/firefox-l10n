@@ -45,9 +45,6 @@
 <!-- File menu items -->
 <!ENTITY fileMenu.label "Ficheiro">
 <!ENTITY fileMenu.accesskey "F">
-<!ENTITY newBlankPageCmd.label "Páxina do Composer">
-<!ENTITY newBlankPageCmd.accesskey "p" >
-<!ENTITY newMenu.label "Novo">
 <!ENTITY openFileCmd.label "Abrir ficheiro…">
 <!ENTITY openFileCmd.accesskey "A">
 <!ENTITY openFileCmd.key "O">
@@ -69,14 +66,8 @@
 <!ENTITY publishCmd.key "S">
 <!ENTITY publishAsCmd.label "Publicar como…">
 <!ENTITY publishAsCmd.accesskey "b">
-<!ENTITY exportToTextCmd.label "Exportar a texto…">
-<!ENTITY exportToTextCmd.accesskey "t">
 <!ENTITY saveAsChangeEncodingCmd.label "Gardar e modificar a codificación de caracteres">
 <!ENTITY saveAsChangeEncodingCmd.accesskey "m">
-<!ENTITY previewCmd.label "Navegar pola páxina">
-<!ENTITY previewCmd.accesskey "v">
-<!ENTITY sendPageCmd.label "Enviar páxina…">
-<!ENTITY sendPageCmd.accesskey "n">
 <!ENTITY printSetupCmd.label "Configuración da páxina…">
 <!ENTITY printSetupCmd.accesskey "u">
 <!ENTITY printCmd.label "Imprimir…">
@@ -116,8 +107,6 @@
 <!ENTITY checkSpellingCmd2.label "Verificación ortográfica">
 <!ENTITY checkSpellingCmd2.accesskey "V">
 <!ENTITY checkSpellingCmd2.key "K">
-<!ENTITY validateCmd.label "Validar HTML">
-<!ENTITY validateCmd.accesskey "V">
 
 <!-- Insert menu items -->
 <!ENTITY insertMenu.label "Inserir">
@@ -332,11 +321,6 @@
 <!ENTITY decreaseIndent.accesskey "D">
 <!ENTITY decreaseIndent.key "[">
 
-<!ENTITY grid.label "Grade de posicionamento">
-<!ENTITY grid.accesskey "G">
-
-<!ENTITY pageProperties.label "Propiedades e título da páxina…">
-<!ENTITY pageProperties.accesskey "P">
 <!ENTITY colorsAndBackground.label "Fondo e cores da páxina…">
 <!ENTITY colorsAndBackground.accesskey "F">
 
@@ -411,8 +395,6 @@
 <!ENTITY openToolbarCmd.tooltip "Abrir un ficheiro local">
 <!ENTITY saveToolbarCmd.tooltip "Gardar o ficheiro nunha localización local">
 <!ENTITY publishToolbarCmd.tooltip "Cargar ficheiro nunha localización remota">
-<!ENTITY previewToolbarCmd.label "Navegar">
-<!ENTITY previewToolbarCmd.tooltip "Cargar esta páxina no navegador">
 <!ENTITY printToolbarCmd.label "Imprimir">
 <!ENTITY printToolbarCmd.tooltip "Imprimir esta páxina">
 <!ENTITY findToolbarCmd.label "Localizar">
