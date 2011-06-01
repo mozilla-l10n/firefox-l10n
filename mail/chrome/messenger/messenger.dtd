@@ -740,7 +740,7 @@ you can use these alternative items. Otherwise, their values should be empty.  -
 <!-- Phishing Bar -->
 <!ENTITY phishingBarMessage2.label "Pesan ini mungkin berisi penipuan (scam).">
 <!ENTITY removePhishingBarButton1.label "Abaikan Peringatan">
-<!ENTITY reportPhishingError1.label "Nampaknya pesan ini bukan pesan berisi penipuan.">
+<!ENTITY reportPhishingError1.label "Tampaknya pesan ini bukan pesan berisi penipuan.">
 
 <!-- MDN Bar -->
 <!ENTITY mdnBarMessage.label "Pengirim pesan telah meminta untuk diberitahu ketika Anda membaca pesan ini. Anda ingin memberi tahu pengirim?">
