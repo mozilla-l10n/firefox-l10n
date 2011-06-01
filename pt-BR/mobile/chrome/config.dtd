@@ -8,5 +8,5 @@
 <!ENTITY done.label             "Concluir">
 
 <!ENTITY integer.label          "Número inteiro">
-<!ENTITY string.label           "String">
-<!ENTITY boolean.label          "Boolean">
+<!ENTITY string.label           "String…">
+<!ENTITY boolean.label          "Boolean…">
