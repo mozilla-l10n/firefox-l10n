@@ -39,7 +39,6 @@
 <!ENTITY saveAsFileCmd.key "s">
 <!ENTITY saveAsTemplateCmd.label "Modelo">
 <!ENTITY saveAsTemplateCmd.accesskey "d">
-<!ENTITY getNewMsgCmd.key "t">
 <!ENTITY getNewMsgForCmd.label "Obter novas mensaxes de">
 <!ENTITY getNewMsgForCmd.accesskey "r">
 <!ENTITY getAllNewMsgCmdPopupMenu.label "Todas as contas">
@@ -521,7 +520,6 @@ you can use these alternative items. Otherwise, their values should be empty.  -
 <!ENTITY getMsgButton.tooltip "Recibir novas mensaxes">
 <!ENTITY getAllNewMsgCmd.label "Recibir todas as mensaxes novas">
 <!ENTITY getAllNewMsgCmd.accesskey "a">
-<!ENTITY getAllNewMsgCmd.key "t">
 <!ENTITY newMsgButton.tooltip "Crear nova mensaxe">
 <!ENTITY replyButton.tooltip "Responder á mensaxe">
 <!ENTITY replyAllButton.tooltip "Responder ao remitente e a todos os destinatarios">
@@ -755,11 +753,6 @@ you can use these alternative items. Otherwise, their values should be empty.  -
 <!ENTITY phishingBarMessage2.label "Esta mensaxe é sospeitosa de fraude">
 <!ENTITY removePhishingBarButton1.label "Ignorar aviso">
 <!ENTITY reportPhishingError1.label "Esta non é unha mensaxe fraudulenta">
-
-<!-- MDN Bar -->
-<!ENTITY mdnBarMessage.label "O remitente desta mensaxe solicitou que o avisen cando a lea. ¿Desexa avisar ao remitente?">
-<!ENTITY mdnBarIgnoreButton.label "Ignorar pedido">
-<!ENTITY mdnBarSendButton.label "Enviar pedido">
 
 <!-- Quick Search Bar -->
 <!-- LOCALIZATION NOTE (quickSearchCmd.key):
