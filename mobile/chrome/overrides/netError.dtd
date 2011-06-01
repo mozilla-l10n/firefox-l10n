@@ -16,8 +16,8 @@
 <!ENTITY dnsNotFound.longDesc "
 <ul>
   <li>Verifique se há erro de digitação no endereço. Como
-    <strong>ww</strong>.exemplo.com.br em vez de
-    <strong>www</strong>.exemplo.com.br</li>
+    <strong>ww</strong>.example.com em vez de
+    <strong>www</strong>.example.com</li>
   <li>Se você não consegue abrir nenhuma página, verifique a conexão de rede do seu computador.</li>
   <li>Se o seu computador ou rede forem protegidos por um firewall ou proxy, certifique-se de que o &brandShortName; esteja autorizado a acessar a web.</li>
 </ul>
@@ -39,7 +39,7 @@
 
 <!ENTITY malformedURI.title "Endereço inválido">
 <!ENTITY malformedURI.longDesc "<ul>
-  <li>Endereços web são geralmente escritos na forma <strong>http://www.exemplo.com.br/</strong></li>
+  <li>Endereços web são geralmente escritos na forma <strong>http://www.example.com/</strong></li>
   <li>Certifique-se de que não esteja usando barras invertidas (ou seja, de que esteja usando <strong>/</strong>).</li>
 </ul>
 ">
@@ -165,3 +165,7 @@ netError.xhtml) because it exposes functionality specific to firefox. -->
 <button id='getMeOutOfHereButton'>&securityOverride.getMeOutOfHereButton;</button>
 <button id='exceptionDialogButton'>&securityOverride.exceptionButtonLabel;</button>
 ">
+
+<!ENTITY remoteXUL.title "XUL remoto">
+<!ENTITY remoteXUL.longDesc "<p><ul><li>Por favor, contate os responsáveis pelo site para informá-los deste problema.</li></ul></p>">
+
