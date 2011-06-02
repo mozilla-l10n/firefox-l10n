@@ -19,10 +19,14 @@
 
 <!ENTITY pluginWizard.finalPage.moreInfo.label               "Ve a savair dapli davart ils plug-ins u installescha manualmain ils plug-ins mancants.">
 <!ENTITY pluginWizard.finalPage.restart.label                "&brandShortName; sto vegnir reavià, per ch'ils plug-ins installads funcziunian.">
-  
-<!ENTITY missingPlugin.label                                 "Clicca qua per telechargiar il plug-in.">
-<!ENTITY disabledPlugin.label                                "Il plug-in per quest cuntegn è vegnì deactivà. Clicca qua per administrar tes plug-ins.">
+
+<!ENTITY missingPlugin                                       "In plug-in sto vegnir installà per mussar quest cuntegn.">
+<!ENTITY disabledPlugin                                      "Quest plug-in è deactivà.">
 <!ENTITY blockedPlugin.label                                 "Quest plug-in è vegnì bloccà per ta proteger.">
+
+<!ENTITY installPlugin                                       "Installar il plug-in…">
+<!ENTITY managePlugins                                       "Administrar ils plug-ins…">
+
 <!-- LOCALIZATION NOTE (reloadPlugin.pre): include a trailing space as needed -->
 <!-- LOCALIZATION NOTE (reloadPlugin.middle): avoid leading/trailing spaces, this text is a link -->
 <!-- LOCALIZATION NOTE (reloadPlugin.post): include a starting space as needed -->
