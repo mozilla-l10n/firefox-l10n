@@ -23,14 +23,13 @@
 <!ENTITY warning.updatesecurity.enable.label       "Activar">
 <!ENTITY warning.updatesecurity.enable.tooltip     "Activar il test da segirezza per l'actualisaziun da supplements">
 
+<!-- global informations -->
+<!ENTITY info.plugincheck.label                 "Controllescha sche tes plug-ins èn actuals">
+<!ENTITY info.plugincheck.tooltip               "Controllescha sche tes plug-ins èn actuals">
+
 <!-- categories / views -->
 <!ENTITY view.search.label                    "Tschertgar">
 <!ENTITY view.discover.label                  "Catalog">
-<!ENTITY view.locales.label                   "Linguas">
-<!ENTITY view.searchengines.label             "Maschinas da tschertgar">
-<!ENTITY view.features.label                  "Extensiuns">
-<!ENTITY view.appearance2.label               "Cumparsa">
-<!ENTITY view.plugins.label                   "Plug-ins">
 <!ENTITY view.recentUpdates.label             "Ultimas actualisaziuns">
 <!ENTITY view.availableUpdates.label          "Actualisaziuns disponiblas">
 
