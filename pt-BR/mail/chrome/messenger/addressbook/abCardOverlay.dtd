@@ -63,7 +63,9 @@
 <!ENTITY PhoneticField1.label           "Fonético:">
 <!ENTITY PhoneticField2.label           "Fonético:">
 <!ENTITY DisplayName.label              "Apresentar como:">
-<!ENTITY DisplayName.accesskey          "s">
+<!ENTITY DisplayName.accesskey          "A">
+<!ENTITY preferDisplayName.label        "Usar o nome de “Apresentar como” ao exibir mensagens">
+<!ENTITY preferDisplayName.accesskey    "s">
 <!ENTITY NickName.label                 "Apelido:">
 <!ENTITY NickName.accesskey             "d">
 
@@ -113,9 +115,9 @@
 <!ENTITY Birthday.label                 "Aniversário:">
 <!ENTITY Birthday.accesskey             "v">
 <!ENTITY In.label                       "">
-<!ENTITY Year.emptytext                 "Ano">
+<!ENTITY Year.placeholder               "Ano">
 <!ENTITY Or.value                       "ou">
-<!ENTITY Age.emptytext                  "Idade">
+<!ENTITY Age.placeholder                "Idade">
 <!ENTITY YearsOld.label                 "">
 
 <!ENTITY Work.tab                       "Trabalho">
@@ -166,6 +168,6 @@
 <!ENTITY BrowsePhoto.accesskey          "r">
 <!ENTITY PhotoURL.label                 "Na web">
 <!ENTITY PhotoURL.accesskey             "w">
-<!ENTITY PhotoURL.emptytext             "Forneça o endereço web de uma foto">
+<!ENTITY PhotoURL.placeholder           "Forneça o endereço web de uma foto">
 <!ENTITY UpdatePhoto.label              "Atualizar">
 <!ENTITY UpdatePhoto.accesskey          "A">

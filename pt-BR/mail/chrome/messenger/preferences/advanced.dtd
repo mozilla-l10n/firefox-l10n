@@ -36,17 +36,17 @@
      "After displaying for [___] seconds",
      using (markAsReadDelay.label) and a number (secondsLabel.label). -->
 <!ENTITY markAsReadDelay.label         "Ao exibir por">
-<!ENTITY markAsReadDelay.accesskey     "o">
+<!ENTITY markAsReadDelay.accesskey     "e">
 <!ENTITY secondsLabel.label            "segundos">
 <!ENTITY openMsgIn.label               "Abrir mensagens em:">
 <!ENTITY openMsgInNewTab.label         "Nova aba">
-<!ENTITY openMsgInNewTab.accesskey     "o">
+<!ENTITY openMsgInNewTab.accesskey     "N">
 <!ENTITY reuseExpRadio0.label          "Nova janela">
-<!ENTITY reuseExpRadio0.accesskey      "N">
+<!ENTITY reuseExpRadio0.accesskey      "o">
 <!ENTITY reuseExpRadio1.label          "Janela existente">
 <!ENTITY reuseExpRadio1.accesskey      "J">
-<!ENTITY closeMsgWindowOnDelete.label  "Ao excluir, fechar a janela da mensagem">
-<!ENTITY closeMsgWindowOnDelete.accesskey "e">
+<!ENTITY closeMsgOnMoveOrDelete.label  "Ao mover ou excluir, fechar aba/janela da mensagem">
+<!ENTITY closeMsgOnMoveOrDelete.accesskey "v">
 
 <!-- Update -->
 <!ENTITY autoCheck.label                "Verificar automaticamente se há atualizações para:">
@@ -77,7 +77,7 @@
 <!ENTITY Diskspace "Espaço em disco">
 <!ENTITY offlineCompact.label "Condensar pastas se puder liberar pelo menos">
 <!ENTITY offlineCompact.accesskey "n">
-<!ENTITY kb.label "KB">
+<!ENTITY mb.label "MB">
 
 <!-- LOCALIZATION NOTE:
   The entities useCacheBefore.label and useCacheAfter.label appear on a single

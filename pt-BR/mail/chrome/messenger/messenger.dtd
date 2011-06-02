@@ -5,10 +5,23 @@
 <!-- File Menu -->
 <!ENTITY newFolderCmd.label "Pasta…">
 <!ENTITY newFolderCmd.accesskey "P">
-<!ENTITY closeTabCmd.label "Fechar aba">
-<!ENTITY closeTabCmd.accesskey "F">
-<!ENTITY closeOtherTabsCmd.label "Fechar as outras abas">
-<!ENTITY closeOtherTabsCmd.accesskey "e">
+<!ENTITY closeTabCmd2.label "Fechar aba">
+<!ENTITY closeTabCmd2.accesskey "F">
+<!ENTITY closeOtherTabsCmd2.label "Fechar as outras abas">
+<!ENTITY closeOtherTabsCmd2.accesskey "o">
+<!-- LOCALIZATION NOTE (undoCloseTabCmd.label):
+     Menu option to attempt to re-open a recently closed tab.
+     -->
+<!ENTITY recentlyClosedTabsCmd.label "Reabrir aba">
+<!ENTITY recentlyClosedTabsCmd.accesskey "b">
+
+<!ENTITY undoCloseTabCmd.commandkey "t">
+<!-- LOCALIZATION NOTE (moveToNewWindow.label):
+     Menu option to cause the current tab to be migrated to a new Thunderbird
+     window.
+     -->
+<!ENTITY moveToNewWindow.label "Mover para nova janela">
+<!ENTITY moveToNewWindow.accesskey "v">
 <!ENTITY newVirtualFolderCmd.label "Pasta de pesquisa…">
 <!ENTITY newVirtualFolderCmd.accesskey "a">
 <!ENTITY newOtherAccountsCmd.label "Outras contas…">
@@ -26,7 +39,6 @@
 <!ENTITY saveAsFileCmd.key "S">
 <!ENTITY saveAsTemplateCmd.label "Modelo">
 <!ENTITY saveAsTemplateCmd.accesskey "M">
-<!ENTITY getNewMsgCmd.key "T">
 <!ENTITY getNewMsgForCmd.label "Receber da conta">
 <!ENTITY getNewMsgForCmd.accesskey "R">
 <!ENTITY getAllNewMsgCmdPopupMenu.label "Todas as contas">
@@ -73,14 +85,10 @@
 <!ENTITY deleteMsgCmd.accesskey "x">
 <!ENTITY undeleteMsgCmd.label "Restaurar mensagem">
 <!ENTITY undeleteMsgCmd.accesskey "R">
-<!ENTITY cancelNewsMsgCmd.label "Cancelar mensagem">
-<!ENTITY cancelNewsMsgCmd.accesskey "m">
 <!ENTITY deleteMsgsCmd.label "Excluir mensagens selecionadas">
 <!ENTITY deleteMsgsCmd.accesskey "x">
 <!ENTITY undeleteMsgsCmd.label "Restaurar mensagens selecionadas">
 <!ENTITY undeleteMsgsCmd.accesskey "R">
-<!ENTITY cancelNewsMsgsCmd.label "Cancelar mensagens selecionadas">
-<!ENTITY cancelNewsMsgsCmd.accesskey "m">
 <!ENTITY deleteFolderCmd.label "Excluir pasta">
 <!ENTITY deleteFolderCmd.accesskey "x">
 <!ENTITY unsubscribeNewsgroupCmd.label "Cancelar inscrição">
@@ -313,6 +321,11 @@ you can use these alternative items. Otherwise, their values should be empty.  -
 <!ENTITY goBackCmd.commandKey "[">
 <!ENTITY prevStarredMsgCmd.label "Mensagem com estrela">
 <!ENTITY prevStarredMsgCmd.accesskey "M">
+<!ENTITY folderMenu.label "Pasta">
+<!ENTITY folderMenu.accesskey "P">
+<!ENTITY thisFolder.label "Esta pasta">
+<!ENTITY thisFolder.accesskey "E">
+<!ENTITY goRecentlyClosedTabs.label "Reabrir aba">
 <!ENTITY startPageCmd.label "Página inicial">
 <!ENTITY startPageCmd.accesskey "c">
 
@@ -326,6 +339,8 @@ you can use these alternative items. Otherwise, their values should be empty.  -
 <!ENTITY archiveMsgCmd.label "Arquivar">
 <!ENTITY archiveMsgCmd.accesskey "A">
 <!ENTITY archiveMsgCmd.key  "A">
+<!ENTITY cancelNewsMsgCmd.label "Cancelar mensagem">
+<!ENTITY cancelNewsMsgCmd.accesskey "m">
 <!ENTITY replyMsgCmd.label "Responder">
 <!ENTITY replyMsgCmd.accesskey "R">
 <!ENTITY replyMsgCmd.key  "R">
@@ -391,9 +406,11 @@ you can use these alternative items. Otherwise, their values should be empty.  -
 <!ENTITY tagCmd9.key "9">
 <!ENTITY markMenu.label "Marcar">
 <!ENTITY markMenu.accesskey "c">
+<!ENTITY toggleReadCmd.key "M">
 <!ENTITY markAsReadCmd.label "Como lida">
 <!ENTITY markAsReadCmd.accesskey "m">
-<!ENTITY markAsReadCmd.key "M">
+<!ENTITY markAsUnreadCmd.label "Como não lida">
+<!ENTITY markAsUnreadCmd.accesskey "d">
 <!ENTITY markThreadAsReadCmd.label "Tópico como lido">
 <!ENTITY markThreadAsReadCmd.accesskey "c">
 <!ENTITY markThreadAsReadCmd.key "R">
@@ -419,7 +436,7 @@ you can use these alternative items. Otherwise, their values should be empty.  -
 <!ENTITY openMessageWindowCmd.key "O">
 <!ENTITY openConversationCmd.label "Abrir na conversação">
 <!ENTITY openConversationCmd.accesskey "r">
-<!ENTITY openConversationCmd.key "o">
+<!ENTITY openConversationCmd.key "O">
 <!ENTITY openFeedMessage.label "Abrir mensagem RSS">
 <!ENTITY openFeedMessage.accesskey "b">
 <!ENTITY openFeedWebPageInWindow.label "Página web em nova janela">
@@ -503,7 +520,6 @@ you can use these alternative items. Otherwise, their values should be empty.  -
 <!ENTITY getMsgButton.tooltip "Receber mensagens desta conta">
 <!ENTITY getAllNewMsgCmd.label "Todas as contas">
 <!ENTITY getAllNewMsgCmd.accesskey "T">
-<!ENTITY getAllNewMsgCmd.key "T">
 <!ENTITY newMsgButton.tooltip "Nova mensagem">
 <!ENTITY replyButton.tooltip "Responder mensagem">
 <!ENTITY replyAllButton.tooltip "Responder ao remetente com cópia a todos os destinatários">
@@ -577,7 +593,7 @@ you can use these alternative items. Otherwise, their values should be empty.  -
 <!ENTITY SearchNameOrEmail.accesskey "z">
 
 <!-- Gloda Search Bar -->
-<!ENTITY glodaSearchBar.emptyText "Pesquisar mensagens">
+<!ENTITY glodaSearchBar.placeholder "Pesquisar mensagens…">
 
 <!-- Quick Search Menu Bar -->
 <!ENTITY searchSubjectMenu.label "Assunto">
@@ -634,6 +650,10 @@ you can use these alternative items. Otherwise, their values should be empty.  -
 <!-- Thread Pane Context Menu -->
 <!ENTITY contextOpenNewWindow.label "Abrir em nova janela">
 <!ENTITY contextOpenNewWindow.accesskey "A">
+<!-- The key potentially conflicts with cutCmd.accessKey which is defined in
+     textcontext.dtd from toolkit. Right now, both menu items can't be visible
+     at the same time, but should someone enable copy/paste of message, this key
+     would probably need to be changed. -->
 <!ENTITY contextOpenNewTab.label "Abrir em nova aba">
 <!ENTITY contextOpenNewTab.accesskey "b">
 <!ENTITY contextOpenConversation.label "Abrir mensagem na conversação">
@@ -736,12 +756,14 @@ you can use these alternative items. Otherwise, their values should be empty.  -
 <!-- Phishing Bar -->
 <!ENTITY phishingBarMessage2.label "Esta mensagem pode ser um golpe.">
 <!ENTITY removePhishingBarButton1.label "Ignorar alerta">
+<!ENTITY disablePhishingWarning1.label "Desativar detecção de golpes para todas as mensagens">
 <!ENTITY reportPhishingError1.label "Esta mensagem não aparenta ser um golpe.">
 
 <!-- MDN Bar -->
-<!ENTITY mdnBarMessage.label "The sender of this message has asked to be notified when you read this message. Do you wish to notify the sender?">
-<!ENTITY mdnBarIgnoreButton.label "Ignore Request">
-<!ENTITY mdnBarSendButton.label "Send Receipt">
+<!ENTITY mdnBarIgnoreButton2.label "Ignorar">
+<!ENTITY mdnBarIgnoreButton2.accesskey "I">
+<!ENTITY mdnBarSendButton2.label "Enviar confirmação de leitura">
+<!ENTITY mdnBarSendButton2.accesskey "E">
 
 <!-- Quick Search Bar -->
 <!-- LOCALIZATION NOTE (quickSearchCmd.key):
@@ -796,19 +818,15 @@ you can use these alternative items. Otherwise, their values should be empty.  -
 <!ENTITY reportPhishingURL.label "Denunciar email como fraudulento">
 <!ENTITY reportPhishingURL.accesskey "e">
 
+<!-- Spell checker context menu items -->
+<!ENTITY spellAddDictionaries.label "Adicionar dicionários…">
+<!ENTITY spellAddDictionaries.accesskey "A">
+
 <!-- Content Pane Context Menu -->
 <!ENTITY saveLinkAsCmd.label "Salvar link como…">
 <!ENTITY saveLinkAsCmd.accesskey "S">
 <!ENTITY saveImageAsCmd.label "Salvar imagem como…">
 <!ENTITY saveImageAsCmd.accesskey "i">
-<!ENTITY cutCmd.label "Recortar">
-<!ENTITY cutCmd.accesskey "t">
-<!ENTITY copyCmd.label "Copiar">
-<!ENTITY copyCmd.accesskey "C">
-<!ENTITY pasteCmd.label "Colar">
-<!ENTITY pasteCmd.accesskey "o">
-<!ENTITY selectAllCmd.label "Selecionar tudo">
-<!ENTITY selectAllCmd.accesskey "S">
 <!ENTITY copyLinkCmd.label "Copiar link">
 <!ENTITY copyLinkCmd.accesskey "o">
 <!ENTITY copyImageAllCmd.label "Copiar imagem">

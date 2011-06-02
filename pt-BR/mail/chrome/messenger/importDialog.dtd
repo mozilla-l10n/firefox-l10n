@@ -77,11 +77,3 @@ LOCALIZATION NOTE : Do not translate any of the occurrences of the word
 
 <!ENTITY title.label              "Título">
 <!ENTITY processing.label         "Importando…">
-
-<!ENTITY FieldDiscInputText1.label  "O Netscape Communicator 4.x possui um endereço para cada contato, enquanto o &brandShortName; possui dois (residencial e comercial).">
-<!ENTITY FieldDiscInputText2.label  "Selecione a categoria na qual deseja amazenar os endereços importados:">
-<!ENTITY FieldDiscWarning.label  "Esta categoria será usada para todos os nomes do catálogo de endereços selecionado: ">
-<!ENTITY importHome.label        "Endereço residencial">
-<!ENTITY importHome.accesskey    "E">
-<!ENTITY importWork.label        "Endereço comercial">
-<!ENTITY importWork.accesskey    "n">
