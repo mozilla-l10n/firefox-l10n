@@ -31,6 +31,8 @@
 <!ENTITY imapType.accesskey "I">
 <!ENTITY popType.label "POP3">
 <!ENTITY popType.accesskey "P">
+<!ENTITY leaveMsgsOnSrvr.label "Оставлять копии сообщений на сервере">
+<!ENTITY leaveMsgsOnSrvr.accesskey "л">
 <!ENTITY haveSmtp1.prefix "Будет использоваться уже существующий сервер исходящей почты (SMTP) — «">
 <!ENTITY haveSmtp1.suffix2 "». Вы можете изменить параметры сервера исходящей почты, выбрав пункт «Параметры учётной записи» в меню «Правка».">
 <!ENTITY loginTitle.label "Имена пользователей">
