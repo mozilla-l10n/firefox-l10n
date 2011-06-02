@@ -28,12 +28,12 @@
 <!ENTITY tabCmd.accesskey "о">
 <!ENTITY tabCmd.commandkey "t">
 <!ENTITY openLocationCmd.label "Открыть адрес…">
-<!ENTITY openLocationCmd.accesskey "а">
+<!ENTITY openLocationCmd.accesskey "т">
 <!ENTITY openFileCmd.label "Открыть файл…">
 <!ENTITY openFileCmd.accesskey "к">
 <!ENTITY openFileCmd.commandkey "o">
 <!ENTITY printSetupCmd.label "Параметры страницы…">
-<!ENTITY printSetupCmd.accesskey "а">
+<!ENTITY printSetupCmd.accesskey "м">
 <!ENTITY printPreviewCmd.label "Предварительный просмотр">
 <!ENTITY printPreviewCmd.accesskey "д">
 <!ENTITY printCmd.label "Печать…">
@@ -71,7 +71,7 @@
 <!ENTITY fullScreenExit.label "Выйти из полноэкранного режима">
 <!ENTITY fullScreenExit.accesskey "ы">
 <!ENTITY closeWindow.label "Закрыть окно">
-<!ENTITY closeWindow.accesskey "к">
+<!ENTITY closeWindow.accesskey "а">
 <!ENTITY bookmarksMenu.label "Закладки">
 <!ENTITY bookmarksMenu.accesskey "З">
 <!ENTITY bookmarkThisPageCmd.label "Добавить страницу">
