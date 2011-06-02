@@ -1,5 +1,5 @@
 <!ENTITY window.title "Propriedades do filtro">
-
+<!ENTITY filterEditorDialog.dimensions "width:100ch;">
 <!ENTITY filterName.label "Nome do filtro:">
 <!ENTITY filterName.accesskey "N">
 

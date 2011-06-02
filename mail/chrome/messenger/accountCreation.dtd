@@ -1,51 +1,55 @@
 <!ENTITY autoconfigWizard.title          "Configurar conta de email">
 <!ENTITY name.label                      "Seu nome:">
-<!ENTITY name.accesskey                  "S">
-<!ENTITY name.emptytext                  "Primeiro Último">
+<!ENTITY name.accesskey                  "n">
+<!ENTITY name.placeholder                "Primeiro Último">
 <!ENTITY name.text                       "Seu nome da forma que será exibido aos outros">
 <!ENTITY email.label                     "Endereço de email:">
 <!ENTITY email.accesskey                 "E">
-<!ENTITY email.emptytext                 "email@exemplo.com.br">
+<!ENTITY email.placeholder               "email@example.com">
 <!ENTITY password.label                  "Senha:">
 <!ENTITY password.accesskey              "S">
-<!ENTITY password.emptytext              "Senha">
+<!ENTITY password.placeholder            "Senha">
 <!ENTITY password.text                   "Opcional, será usada somente para validar o nome de usuário">
+<!ENTITY rememberPassword.label          "Memorizar senha">
+<!ENTITY rememberPassword.accesskey      "M">
 
-<!ENTITY accountInformation.label        "Informações da conta">
-<!ENTITY username2.label                 "Nome de usuário:">
+<!ENTITY imapLong.label                  "IMAP (pastas remotas)">
+<!ENTITY pop3Long.label                  "POP3 (manter mensagens no computador)">
+
 <!ENTITY incoming.label                  "Recebimento:">
 <!ENTITY outgoing.label                  "Envio:">
+<!ENTITY username.label                  "Nome de usuário:">
+<!ENTITY hostname.label                  "Nome do servidor">
+<!ENTITY port.label                      "Porta">
+<!ENTITY ssl.label                       "SSL">
+<!ENTITY auth.label                      "Autenticação">
+<!ENTITY imap.label                      "IMAP">
+<!ENTITY pop3.label                       "POP3">
+<!ENTITY smtp.label                      "SMTP">
+<!ENTITY autodetect.label                "Autodetectar">
+<!-- LOCALIZATION NOTE(noEncryption.label): Neither SSL/TLS nor STARTTLS.
+     Transmission of emails in cleartext over the Internet. -->
 <!ENTITY noEncryption.label              "Nenhuma">
 <!ENTITY starttls.label                  "STARTTLS">
 <!ENTITY sslTls.label                    "SSL/TLS">
 
-<!ENTITY imap.label                      "IMAP">
-<!ENTITY pop.label                       "POP">
-<!ENTITY smtp.label                      "SMTP">
-<!ENTITY imap.description                "IMAP - Accesse pastas e mensagens a partir de vários computadores">
-<!ENTITY pop.description                 "POP - Receba todas as mensagens neste computador, pastas são somente locais">
-<!ENTITY recommended-appendix.label      "(recomendado)">
-
-<!ENTITY manualSetup.label               "Configuração manual…">
-<!ENTITY manualSetup.accesskey           "O">
+<!ENTITY advancedSetup.label             "Config avançada">
+<!ENTITY advancedSetup.accesskey         "o">
 <!ENTITY cancel.label                    "Cancelar">
 <!ENTITY cancel.accesskey                "a">
 <!ENTITY continue.label                  "Continuar">
 <!ENTITY continue.accesskey              "C">
-<!ENTITY startOver.label                 "Reiniciar">
-<!ENTITY startOver.accesskey             "n">
 <!ENTITY stop.label                      "Parar">
 <!ENTITY stop.accesskey                  "P">
-<!-- LOCALIZATION NOTE (retest.label): This is the text that is
-     displayed on the button which will re-guess the account configuration,
-     taking into account the settings the user has changed. -->
-<!ENTITY retest.label                    "Retestar configuração">
-<!ENTITY retest.accesskey                "R">
-<!ENTITY edit.label                      "Editar">
-<!ENTITY edit.accesskey                  "d">
+<!-- LOCALIZATION NOTE (half-manual-test.label): This is the text that is
+     displayed on the button in manual edit mode which will re-guess
+     the account configuration, taking into account the settings that
+     the user has manually changed. -->
+<!ENTITY half-manual-test.label          "Retestar">
+<!ENTITY half-manual-test.accesskey      "R">
+<!ENTITY manual-edit.label               "Config manual">
+<!ENTITY manual-edit.accesskey           "o">
 
-<!ENTITY rememberPassword.label          "Memorizar senha">
-<!ENTITY rememberPassword.accesskey      "M">
 
 <!ENTITY warning.label                   "Alerta!">
 <!ENTITY incomingSettings.label          "Configuração de recebimento:">

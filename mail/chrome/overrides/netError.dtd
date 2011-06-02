@@ -15,9 +15,9 @@
 <!ENTITY dnsNotFound.title "Servidor não encontrado">
 <!ENTITY dnsNotFound.longDesc "
 <ul>
-  <li>Verifique se há algum erro de digitação no endereço. Como
-    <strong>ww</strong>.exemplo.com.br em vez de
-    <strong>www</strong>.exemplo.com.br</li>
+  <li>Verifique se há erro de digitação no endereço. Como
+    <strong>ww</strong>.example.com em vez de
+    <strong>www</strong>.example.com</li>
   <li>Se você não consegue abrir nenhuma página, verifique a conexão de rede do seu computador.</li>
   <li>Se o seu computador ou rede forem protegidos por um firewall ou proxy, certifique-se de que o &brandShortName; esteja autorizado a acessar a web.</li>
 </ul>
@@ -38,7 +38,7 @@
 
 <!ENTITY malformedURI.title "Endereço inválido">
 <!ENTITY malformedURI.longDesc "<ul>
-  <li>Endereços web são geralmente escritos na forma <strong>http://www.exemplo.com.br/</strong></li>
+  <li>Endereços web são geralmente escritos na forma <strong>http://www.example.com/</strong></li>
   <li>Certifique-se de que não esteja usando barras invertidas (ou seja, de que esteja usando <strong>/</strong>).</li>
 </ul>
 ">
@@ -145,18 +145,24 @@
 <p>Estes tipos de fraude são usados em golpes conhecidos como phishing attacks, em que páginas falsas e emails se fazem passar por fontes que você confiaria.</p>
 ">
 
+<!ENTITY cspFrameAncestorBlocked.title "Bloqueado pela política de segurança de conteúdo">
+<!ENTITY cspFrameAncestorBlocked.longDesc "<p>O &brandShortName; impediu esta página de carregar desta forma porque a política de segurança de conteúdo da página não permite.</p>">
+
 <!ENTITY securityOverride.linkText "Ou você pode adicionar uma exceção…">
 <!ENTITY securityOverride.getMeOutOfHereButton "Me tire daqui!">
 <!ENTITY securityOverride.exceptionButtonLabel "Adicionar exceção…">
 
-<!-- LOCALIZATION NOTE (securityOverride.warningText) - Do not translate the
-contents of the <xul:button> tags.  The only language content is the label= field,
-which uses strings already defined above. The button is included here (instead of
-netError.xhtml) because it exposes functionality specific to thunderbird. -->
+<!-- LOCALIZATION NOTE (securityOverride.warningContent) - Do not translate the
+contents of the <button> tags. It uses strings already defined above. The
+button is included here (instead of netError.xhtml) because it exposes
+functionality specific to thunderbird. -->
 
-<!ENTITY securityOverride.warningText "
+<!ENTITY securityOverride.warningContent "
 <p>Você não deve adicionar uma exceção se estiver usando uma conexão com a internet que não confie totalmente ou se você não costumava ver um alerta para este servidor.</p>
 
-<xul:button xmlns:xul='http://www.mozilla.org/keymaster/gatekeeper/there.is.only.xul' id='getMeOutOfHereButton' label='&securityOverride.getMeOutOfHereButton;'/>
-<xul:button xmlns:xul='http://www.mozilla.org/keymaster/gatekeeper/there.is.only.xul' id='exceptionDialogButton' label='&securityOverride.exceptionButtonLabel;'/>
+<button id='getMeOutOfHereButton'>&securityOverride.getMeOutOfHereButton;</button>
+<button id='exceptionDialogButton'>&securityOverride.exceptionButtonLabel;</button>
 ">
+
+<!ENTITY remoteXUL.title "XUL remoto">
+<!ENTITY remoteXUL.longDesc "<p><ul><li>Por favor, contate os responsáveis pelo site para informá-los deste problema.</li></ul></p>">

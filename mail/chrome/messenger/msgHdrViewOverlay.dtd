@@ -99,18 +99,45 @@
 <!ENTITY otherActionsPrint.label "imprimir…">
 <!ENTITY otherActionsPrint.accesskey "i">
 
+<!-- Attachment context menu items -->
 <!ENTITY openAttachmentCmd.label    "Abrir">
 <!ENTITY openAttachmentCmd.accesskey    "A">
 <!ENTITY saveAsAttachmentCmd.label    "Salvar como…">
-<!ENTITY saveAsAttachmentCmd.accesskey    "l">
+<!ENTITY saveAsAttachmentCmd.accesskey    "S">
 <!ENTITY detachAttachmentCmd.label    "Desanexar…">
+<!ENTITY detachAttachmentCmd.accesskey    "D">
 <!ENTITY deleteAttachmentCmd.label    "Excluir">
+<!ENTITY deleteAttachmentCmd.accesskey    "x">
+<!ENTITY openAllAttachmentsCmd.label    "Abrir todos…">
+<!ENTITY openAllAttachmentsCmd.accesskey    "A">
 <!ENTITY saveAllAttachmentsCmd.label    "Salvar todos…">
 <!ENTITY saveAllAttachmentsCmd.accesskey    "S">
 <!ENTITY detachAllAttachmentsCmd.label    "Desanexar todos…">
-<!ENTITY detachAllAttachmentsCmd.accesskey    "t">
+<!ENTITY detachAllAttachmentsCmd.accesskey    "D">
 <!ENTITY deleteAllAttachmentsCmd.label    "Excluir todos…">
 <!ENTITY deleteAllAttachmentsCmd.accesskey    "x">
+
+<!-- Attachment toolbar items -->
+<!ENTITY saveAttachmentButton.label       "salvar">
+<!ENTITY saveAttachmentButton.tooltip     "Salvar arquivo anexo">
+<!ENTITY saveAllAttachmentsButton.label   "salvar todos">
+<!ENTITY saveAllAttachmentsButton.tooltip "Salvar todos os arquivos anexos">
+<!ENTITY openAttachmentMenuItem.label     "abrir">
+<!ENTITY openAttachmentMenuItem.accesskey    "a">
+<!ENTITY saveAsAttachmentMenuItem.label    "salvar como…">
+<!ENTITY saveAsAttachmentMenuItem.accesskey    "s">
+<!ENTITY detachAttachmentMenuItem.label    "desanexar…">
+<!ENTITY detachAttachmentMenuItem.accesskey    "d">
+<!ENTITY deleteAttachmentMenuItem.label    "excluir">
+<!ENTITY deleteAttachmentMenuItem.accesskey    "x">
+<!ENTITY openAllAttachmentsMenuItem.label    "abrir todos…">
+<!ENTITY openAllAttachmentsMenuItem.accesskey    "a">
+<!ENTITY saveAllAttachmentsMenuItem.label    "salvar todos…">
+<!ENTITY saveAllAttachmentsMenuItem.accesskey    "s">
+<!ENTITY detachAllAttachmentsMenuItem.label    "desanexar todos…">
+<!ENTITY detachAllAttachmentsMenuItem.accesskey    "d">
+<!ENTITY deleteAllAttachmentsMenuItem.label    "excluir todos…">
+<!ENTITY deleteAllAttachmentsMenuItem.accesskey    "x">
 
 <!ENTITY copyLinkCmd.label        "Copiar link">
 <!ENTITY copyLinkCmd.accesskey    "o">

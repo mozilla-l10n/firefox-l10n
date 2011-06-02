@@ -37,7 +37,7 @@
 <!ENTITY serverTitle.label "Informações do servidor">
 <!ENTITY incomingServerTypeDesc.label "Tipo de servidor usado para receber mensagens:">
 <!-- LOCALIZATION NOTE (incomingServerNameDesc.label) : Do not translate "&quot;pop.example.net&quot;" in below line -->
-<!ENTITY incomingServerNameDesc.label "Forneça o nome do servidor usado para receber mensagens (exemplo: “mail.exemplo.com”).">
+<!ENTITY incomingServerNameDesc.label "Forneça o nome do servidor usado para receber mensagens (exemplo: “mail.example.com”).">
 <!ENTITY incomingServerLabel.label "Receber mensagens por este servidor:">
 <!ENTITY incomingServerLabel.accesskey "R">
 <!-- LOCALIZATION NOTE (newsServerNameDesc.label) : Do not translate "NNTP" or the "&quot;" entities in below line -->

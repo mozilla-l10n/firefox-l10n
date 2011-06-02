@@ -5,7 +5,7 @@
 <!ENTITY  noProxyTypeRadio.label        "Sem proxy">
 <!ENTITY  noProxyTypeRadio.accesskey    "S">
 <!ENTITY  systemTypeRadio.label         "Usar as configurações de proxy do sistema">
-<!ENTITY  systemTypeRadio.accesskey     "x">
+<!ENTITY  systemTypeRadio.accesskey     "a">
 <!ENTITY  WPADTypeRadio.label           "Autodetectar as configurações de proxy para esta rede">
 <!ENTITY  WPADTypeRadio.accesskey       "d">
 <!ENTITY  manualTypeRadio.label         "Configuração manual de proxy:">
@@ -29,7 +29,7 @@
 <!ENTITY  SSLport.label                 "Porta:">
 <!ENTITY  SSLport.accesskey             "o">
 <!ENTITY  SOCKSport.label               "Porta:">
-<!ENTITY  SOCKSport.accesskey           "a">
+<!ENTITY  SOCKSport.accesskey           "t">
 <!ENTITY  noproxy.label                 "Sem proxy para:">
 <!ENTITY  noproxy.accesskey             "S">
 <!ENTITY  noproxyExplain.label          "Exemplo: .mozilla.org, .net.nz, 192.168.1.0/24">
