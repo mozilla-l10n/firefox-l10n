@@ -27,8 +27,8 @@
 
 <!ENTITY cmd.reloadLivebookmark.label      "Ανανέωση δυναμικού σελιδοδείκτη">
 <!ENTITY cmd.reloadLivebookmark.accesskey  "ν">
-<!ENTITY cmd.reloadMicrosummary.label      "Ανανέωση δυναμικού τίτλου">
-<!ENTITY cmd.reloadMicrosummary.accesskey  "υ">
+
+
 
 <!ENTITY cmd.moveBookmarks.label                  "Μετακίνηση...">
 <!ENTITY cmd.moveBookmarks.accesskey              "Μ">
@@ -73,11 +73,11 @@
 
 <!ENTITY maintenance.label   "Εισαγωγή και αντίγραφο">
 
-<!ENTITY backCmd.label       "Πίσω">
+
 
 <!ENTITY backButton.tooltip  "Μετάβαση πίσω">
 
-<!ENTITY forwardCmd.label       "Μπροστά">
+
 
 <!ENTITY forwardButton.tooltip  "Μετάβαση μπροστά">
 
@@ -87,7 +87,7 @@
 <!ENTITY detailsPane.less.label "Λιγότερα">
 <!ENTITY detailsPane.less.accesskey "γ">
 
-<!ENTITY detailsPane.noPreviewAvailable.label "Προεπισκόπηση">
+
 <!ENTITY detailsPane.selectAnItemText.description "Επιλέξτε ένα αντικείμενο για προβολή ή επεξεργασία των ιδιοτήτων του">
 
 
@@ -148,11 +148,10 @@
 
 
 
-<!ENTITY file.accesskey "Α">
+
 <!ENTITY file.close.label "Κλείσιμο">
 <!ENTITY file.close.accesskey "Κ">
-<!ENTITY edit.label "Επεξεργασία">
-<!ENTITY edit.accesskey "Ε">
+
 
 
 <!ENTITY view.columns.label "Προβολή στηλών">
