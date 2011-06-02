@@ -106,11 +106,11 @@
 
 <!-- Format Menu -->
 <!ENTITY formatMenu.label "Format">
-<!ENTITY formatMenu.accesskey "o">
+<!ENTITY formatMenu.accesskey "F">
 
 <!-- Options Menu -->
-<!ENTITY optionsMenu.label "Einstellungen">
-<!ENTITY optionsMenu.accesskey "E">
+<!ENTITY optionsMenu.label "Optionen">
+<!ENTITY optionsMenu.accesskey "O">
 <!ENTITY checkSpellingCmd2.label "Rechtschreibprüfung…">
 <!ENTITY checkSpellingCmd2.key "p">
 <!ENTITY checkSpellingCmd2.key2 "VK_F7">
