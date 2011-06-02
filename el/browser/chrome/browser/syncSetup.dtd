@@ -5,7 +5,7 @@
 <!ENTITY setup.pickSetupType.description "Καλώς ήλθατε, αν δεν έχετε χρησιμοποιήσει το &syncBrand.fullName.label; στο παρελθόν, θα χρειαστεί να δημιουργήσετε ένα νέο λογαριασμό.">
 <!ENTITY button.createNewAccount.label "Δημιουργία νέου λογαριασμού">
 <!ENTITY setup.haveAccount.label "Έχω ήδη ένα λογαριασμό &syncBrand.fullName.label;.">
-
+<!ENTITY syncGenerateNewKey.label  "Δημιουργία ενός νέου κλειδιού">
 
 <!ENTITY setup.choicePage.title.label     "Έχετε χρησιμοποιήσει το &syncBrand.fullName.label; στο παρελθόν;">
 <!ENTITY setup.choicePage.new.label       "Δεν έχω χρησιμοποιήσει το &syncBrand.shortName.label; ξανά">
@@ -45,8 +45,7 @@
 <!ENTITY setup.newSyncKeyPage.title.label "Ο &brandShortName; φροντίζει για το απόρρητο σας">
 <!ENTITY setup.newSyncKeyPage.description.label "Για να προστατευτεί πλήρως το απόρρητο σας, όλα τα δεδομένα σας κρυπτογραφούνται πριν τη μεταφορά τους. Το κλειδί Sync που είναι απαραίτητο για την αποκρυπτογράφηση τους θα το έχετε μόνο εσείς.">
 <!ENTITY syncKeyEntry.label        "Το κλειδί Sync σας">
-<!ENTITY syncKeyEntry.accesskey    "Κ">
-<!ENTITY syncKeyGenerate.label     "Δημιουργία">
+<!ENTITY syncKeyEntry.accesskey    "κ">
 
 
 <!ENTITY syncKeyBackup.description "Το κλειδί Sync απαιτείται για την πρόσβαση σας στο &syncBrand.fullName.label; με άλλες συσκευές. Κρατήστε ένα αντίγραφο ασφαλείας του κλειδιού. Δεν μπορούμε να σας βοηθήσουμε να ανακτήσετε το κλειδί Sync.">
