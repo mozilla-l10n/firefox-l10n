@@ -1,0 +1,124 @@
+<!-- LOCALIZATION NOTE : FILE This file contains the Scratchpad window strings -->
+<!-- LOCALIZATION NOTE : FILE Do not translate commandkeys -->
+
+<!-- LOCALIZATION NOTE (scratchpad.title):
+  -  The Scratchpad is intended to provide a simple text editor for creating
+  -  and evaluating bits of JavaScript code for the purposes of function
+  -  prototyping, experimentation and convenient scripting.
+  -
+  -  It's quite possible that you won't have a good analogue for the word
+  -  "Scratchpad" in your locale. You should feel free to find a close
+  -  approximation to it or choose a word (or words) that means
+  -  "simple discardable text editor". -->
+<!ENTITY window.title                 "Scratchpad">
+
+<!ENTITY fileMenu.label               "Αρχείο">
+<!ENTITY fileMenu.accesskey           "Α">
+
+<!ENTITY newWindowCmd.label           "Νέο παράθυρο">
+<!ENTITY newWindowCmd.accesskey       "Ν">
+<!ENTITY newWindowCmd.commandkey      "n">
+
+<!ENTITY openFileCmd.label            "Άνοιγμα αρχείου…">
+<!ENTITY openFileCmd.accesskey        "ο">
+<!ENTITY openFileCmd.commandkey       "o">
+
+<!ENTITY saveFileCmd.label            "Αποθήκευση">
+<!ENTITY saveFileCmd.accesskey        "σ">
+<!ENTITY saveFileCmd.commandkey       "s">
+
+<!ENTITY saveFileAsCmd.label          "Αποθήκεση ως…">
+<!ENTITY saveFileAsCmd.accesskey      "ω">
+
+<!ENTITY closeCmd.label               "Κλείσιμο">
+<!ENTITY closeCmd.key                 "W">
+<!ENTITY closeCmd.accesskey           "Κ">
+
+<!ENTITY editMenu.label               "Επεξεργασία">
+<!ENTITY editMenu.accesskey           "Ε">
+
+<!ENTITY undoCmd.label                "Αναίρεση">
+<!ENTITY undoCmd.key                  "Z">
+<!ENTITY undoCmd.accesskey            "η">
+
+<!ENTITY redoCmd.label                "Ακύρωση αναίρεσης">
+<!ENTITY redoCmd.key                  "Y">
+<!ENTITY redoCmd.accesskey            "ρ">
+
+<!ENTITY cutCmd.label                 "Αποκοπή">
+<!ENTITY cutCmd.key                   "X">
+<!ENTITY cutCmd.accesskey             "κ">
+
+<!ENTITY copyCmd.label                "Αντιγραφή">
+<!ENTITY copyCmd.key                  "C">
+<!ENTITY copyCmd.accesskey            "γ">
+
+<!ENTITY pasteCmd.label               "Επικόλληση">
+<!ENTITY pasteCmd.key                 "V">
+<!ENTITY pasteCmd.accesskey           "π">
+
+<!ENTITY selectAllCmd.label           "Επιλογή όλων">
+<!ENTITY selectAllCmd.key             "A">
+<!ENTITY selectAllCmd.accesskey       "λ">
+
+<!ENTITY run.label                    "Εκτέλεση">
+<!ENTITY run.accesskey                "τ">
+<!ENTITY run.key                      "r">
+
+<!ENTITY inspect.label                "Επιθεώρηση">
+<!ENTITY inspect.accesskey            "θ">
+<!ENTITY inspect.key                  "i">
+
+<!ENTITY display.label                "Προβολή">
+<!ENTITY display.accesskey            "β">
+<!ENTITY display.key                  "l">
+
+<!-- LOCALIZATION NOTE (environmentMenu.label, accesskey): This menu item was
+  -  renamed from "Context" to avoid confusion with the right-click context
+  -  menu in the text area. It refers to the JavaScript Environment (or context)
+  -  the user is evaluating against. I.e., Content (current tab) or Chrome
+  -  (browser).
+  -->
+<!ENTITY environmentMenu.label        "Περιβάλλον">
+<!ENTITY environmentMenu.accesskey    "ρ">
+
+
+<!ENTITY contentContext.label         "Περιεχόμενο">
+<!ENTITY contentContext.accesskey     "χ">
+
+<!-- LOCALIZATION NOTE (browserContext.label, accesskey): This menu item is used
+  -  to select an execution environment for the browser window itself as opposed
+  -  to content. This is a feature for browser and addon developers and only
+  -  enabled via the devtools.chrome.enabled preference. Formerly, this label
+  -  was called "Chrome".
+  -->
+<!ENTITY browserContext.label         "Περιηγητής">
+<!ENTITY browserContext.accesskey     "Π">
+
+<!-- LOCALIZATION NOTE (resetContext.label): This command allows the developer
+  -  to reset/clear the global object of the environment where the code executes.
+  -->
+<!ENTITY resetContext.label           "Επαναφορά">
+<!ENTITY resetContext.accesskey       "φ">
+
+<!ENTITY executeMenu.label            "Εκτέλεση">
+<!ENTITY executeMenu.accesskey        "τ">
+
+<!ENTITY toolsMenu.label              "Εργαλεία">
+<!ENTITY toolsMenu.accesskey          "γ">
+
+<!ENTITY errorConsoleCmd.label        "Κονσόλα σφαλμάτων">
+<!ENTITY errorConsoleCmd.accesskey    "Κ">
+<!ENTITY errorConsoleCmd.commandkey   "j">
+
+<!ENTITY webConsoleCmd.label          "Web Console">
+<!ENTITY webConsoleCmd.accesskey      "W">
+<!ENTITY webConsoleCmd.commandkey     "k">
+
+<!-- LOCALIZATION NOTE (textbox.placeholder1): This is some placeholder text
+  -  that appears when the Scratchpad's text area is empty and unfocused.
+  -  It should be a one-line JavaScript comment, i.e., preceded by '//'
+  -->
+<!ENTITY textbox.placeholder1         "// Εισάγετε κώδικα, επιλέξτε τον, κάντε δεξί κλικ και επιλέξτε Εκτέλεση, Επιθεώρηση ή Προβολή.">
+
+
