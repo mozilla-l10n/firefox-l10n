@@ -20,8 +20,7 @@
 <!ENTITY pluginWizard.finalPage.moreInfo.label               "Δείτε περισσότερα για τις πρόσθετες λειτουργίες ή βρείτε πρόσθετες λειτουργίες που λείπουν.">
 <!ENTITY pluginWizard.finalPage.restart.label               "Ο &brandShortName; χρειάζεται να επανεκκινήσει για να λειτουργήσουν οι πρόσθετες λειτουργίες.">
 
-<!ENTITY missingPlugin.label                                 "Πατήστε εδώ για τη λήψη της πρόσθετης λειτουργίας.">
-<!ENTITY disabledPlugin.label                                "Η πρόσθετη λειτουργία για αυτό το περιεχόμενο έχει απενεργοποιηθεί. Πατήστε εδώ για να διαχειριστείτε τις πρόσθετες λειτουργίες σας.">
+
 <!ENTITY blockedPlugin.label                                 "Για την προστασία σας αυτή η πρόσθετη λειτουργία έχει φραγεί.">
 
 <!-- LOCALIZATION NOTE (reloadPlugin.pre): include a trailing space as needed -->
@@ -37,4 +36,10 @@
 <!ENTITY report.disabled                                     "Η αναφορά καταρρεύσεων απενεργοποιήθηκε.">
 <!ENTITY report.failed                                       "Η υποβολή απέτυχε.">
 <!ENTITY report.unavailable                                  "Δεν υπάρχει διαθέσιμη αναφορά.">
+
+<!ENTITY disabledPlugin                                      "Αυτή η πρόσθετη λειτουργία έχει απενεργοποιηθεί.">
+<!ENTITY installPlugin                                       "Εγκατάσταση πρόσθετης λειτουργίες…">
+<!ENTITY managePlugins                                       "Διαχείριση πρόσθετης λειτουργίας…">
+
+\<!ENTITY missingPlugin                                       "Απαιτείται μια πρόσθετη λειτουργία για την προβολή αυτού του περιεχομένου.">
 
