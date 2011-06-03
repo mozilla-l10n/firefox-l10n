@@ -118,7 +118,7 @@
      https://developer.mozilla.org/En/Localization_and_Plurals
      -->
 <!ENTITY quickFilterBar.resultsLabel.some.formatString
-         "#1 a gemennadennoù;#1 a gemennadennoù">
+         "#1 gemennadenn;#1 a gemennadennoù">
 
 <!-- LOCALIZATION NOTE (quickFilterBar.resultsLabel.none):
      The contents of the results box when there is a filter active but there
