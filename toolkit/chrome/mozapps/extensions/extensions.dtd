@@ -1,4 +1,6 @@
 
+
+
 <!ENTITY addons.windowTitle                   "Διαχείριση προσθέτων">
 <!ENTITY search.placeholder                   "Αναζήτηση σε όλα τα πρόσθετα">
 <!ENTITY loading.label                        "Φόρτωση…">
@@ -16,18 +18,15 @@
 <!ENTITY cmd.hideReleaseNotes.label           "Απόκρυψη σημειώσεων έκδοσης">
 <!ENTITY cmd.hideReleaseNotes.tooltip         "Απόκρυψη των σημειώσεων έκδοσης για αυτή την ενημέρωση">
 
-
+<!-- global informations -->
+<!ENTITY info.plugincheck.label                 "Έλεγχος για το αν είναι ενημερωμένες οι πρόσθετες λειτουργίες σας">
+<!ENTITY info.plugincheck.tooltip               "Έλεγχος για το αν είναι ενημερωμένες οι πρόσθετες λειτουργίες σας">
 
 <!-- categories / views -->
 <!-- LOCALIZATION NOTE: These should match the header-* entries in extensions.properties -->
 
 <!ENTITY view.search.label                    "Αναζήτηση">
 <!ENTITY view.discover.label                  "Λήψη περισσότερων προσθέτων">
-<!ENTITY view.locales.label                   "Γλώσσες">
-<!ENTITY view.searchengines.label             "Μηχανές αναζήτησης">
-<!ENTITY view.features.label                  "Επεκτάσεις">
-
-<!ENTITY view.plugins.label                   "Πρόσθετες λειτουργίες">
 <!ENTITY view.recentUpdates.label             "Πρόσφατες ενημερώσεις">
 <!ENTITY view.availableUpdates.label          "Διαθέσιμες ενημερώσεις">
 
@@ -179,7 +178,7 @@
 <!ENTITY detail.updateAutomatic.tooltip       "Αυτόματη εγκατάσταση ενημερώσεων">
 <!ENTITY detail.updateManual.label            "Όχι">
 <!ENTITY detail.updateManual.tooltip          "Να μην γίνεται αυτόματη εγκατάσταση ενημερώσεων">
-<!ENTITY view.appearance2.label               "Εμφάνιση">
+
 
 <!ENTITY addon.includeUpdate.label            "Να συμπεριλαμβάνεται στην ενημέρωση">
 <!ENTITY addon.updateAvailable.label          "Υπάρχει διαθέσιμη μια ενημέρωση">
