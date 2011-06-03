@@ -50,3 +50,5 @@
 <!ENTITY netOffline.overrideLongDesc "<ul> <li>Дештиклирај &quot;Рад ван мреже&quot; у менију Датотека, па покушајте поново.</li> </ul>">
 <!ENTITY redirectLoop.title "Страна није правилно преусмерена">
 <!ENTITY malformedURI.title "Адреса није исправна">
+<!ENTITY % netErrorAppDTD SYSTEM "chrome://global/locale/netErrorApp.dtd">
+%netErrorAppDTD;
