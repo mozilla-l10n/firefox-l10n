@@ -1,21 +1,20 @@
-<!-- extracted from charsetOverlay.xul -->
-<!ENTITY charsetMenu.label             "Кодирање знакова">
-<!ENTITY charsetMenu.accesskey         "р">
-<!ENTITY charsetMenuAutodet.label      "Аутоматски">
-<!ENTITY charsetMenuAutodet.accesskey  "A">
-<!ENTITY charsetMenuMore.label         "Остала кодирања">
-<!ENTITY charsetMenuMore.accesskey     "M">
-<!ENTITY charsetMenuMore1.label        "западноевропска">
-<!ENTITY charsetMenuMore1.accesskey    "W">
-<!ENTITY charsetMenuMore2.label        "источноевропска">
-<!ENTITY charsetMenuMore2.accesskey    "E">
-<!ENTITY charsetMenuMore3.label        "источноазијска">
-<!ENTITY charsetMenuMore3.accesskey    "A">
-<!ENTITY charsetMenuMore4.label        "југоисточно и југозападно азијскa">
-<!ENTITY charsetMenuMore4.accesskey    "a">
-<!ENTITY charsetMenuMore5.label        "блискоисточнa">
-<!ENTITY charsetMenuMore5.accesskey    "a">
-<!ENTITY charsetMenuUnicode.label      "уникод">
-<!ENTITY charsetMenuUnicode.accesskey  "U">
-<!ENTITY charsetCustomize.label        "Прилагоди списак…">
-<!ENTITY charsetCustomize.accesskey    "C">
+<!ENTITY charsetMenuMore2.label "источноевропска">
+<!ENTITY charsetMenuAutodet.label "Аутоматски">
+<!ENTITY charsetMenuMore5.accesskey "б">
+<!ENTITY charsetMenuMore4.accesskey "ј">
+<!ENTITY charsetMenuAutodet.accesskey "А">
+<!ENTITY charsetMenuMore3.label "источноазијска">
+<!ENTITY charsetCustomize.label "Прилагоди списак…">
+<!ENTITY charsetMenu.label "Кодирање знакова">
+<!ENTITY charsetMenuMore3.accesskey "и">
+<!ENTITY charsetMenuUnicode.accesskey "у">
+<!ENTITY charsetMenuMore1.accesskey "з">
+<!ENTITY charsetMenuMore5.label "блискоисточнa">
+<!ENTITY charsetCustomize.accesskey "П">
+<!ENTITY charsetMenuMore2.accesskey "и">
+<!ENTITY charsetMenu.accesskey "р">
+<!ENTITY charsetMenuMore.accesskey "О">
+<!ENTITY charsetMenuMore4.label "југоисточно и југозападно азијскa">
+<!ENTITY charsetMenuMore1.label "западноевропска">
+<!ENTITY charsetMenuUnicode.label "уникод">
+<!ENTITY charsetMenuMore.label "Остала кодирања">

@@ -1,18 +1,10 @@
-<!ENTITY % brandDTD SYSTEM "chrome://branding/locale/brand.dtd">
-%brandDTD;
-
-<!ENTITY loadError.label "Проблем при учитавању стране">
-<!ENTITY retry.label "Покушајте поново">
-
-<!-- Specific error messages -->
-
-<!ENTITY connectionFailure.title "Повезивање немогуће">
-<!ENTITY connectionFailure.longDesc "&sharedLongDesc;">
-
-<!ENTITY deniedPortAccess.title "Ова адреса је забрањена">
-<!ENTITY deniedPortAccess.longDesc "">
-
-<!ENTITY dnsNotFound.title "Сервер није нађен">
+<!ENTITY securityOverride.exceptionButtonLabel "Додавање изузетка…">
+<!ENTITY unknownSocketType.longDesc "
+<ul>
+  <li>Проверите да ли на вашем рачунару ради лични управник за безбедност</li>
+  <li>Узрок може да буде нестандардно подешавање сервера.</li>
+</ul>
+">
 <!ENTITY dnsNotFound.longDesc "
 <ul>
   <li>Проверите грешке у адреси као нпр.
@@ -24,126 +16,31 @@
     да ли &brandShortName; има дозволу да приступи интернету.</li>
 </ul>
 ">
-
-<!ENTITY fileNotFound.title "Датотека није нађена">
-<!ENTITY fileNotFound.longDesc "
-<ul>
-  <li>Проверите име датотеке због могућих грешака при куцању.</li>
-  <li>Проверите да ли је датотека премештена, преименована или избрисана.</li>
-</ul>
-">
-
-
-<!ENTITY generic.title "Упс.">
-<!ENTITY generic.longDesc "
-<p>&brandShortName; из неког разлога не може да учита страну.</p>
-">
-
-<!ENTITY malformedURI.title "Адреса је неважећа">
-<!ENTITY malformedURI.longDesc "
-<ul>
-  <li>Интернет адресе обично изгледају нешто налик на
-    <strong>http://www.vebsajt.com/</strong></li>
-  <li>Проверите да ли користите исправне знакове (нпр.
-    <strong>/</strong>).</li>
-</ul>
-">
-
 <!ENTITY netInterrupt.title "Веза са сервером је прекинута">
-<!ENTITY netInterrupt.longDesc "&sharedLongDesc;">
+<!ENTITY proxyConnectFailure.title "Посреднички сервер (proxy) одбија везе">
+<!ENTITY nssBadCert.title "Безбедна веза није успела">
+<!ENTITY proxyResolveFailure.title "Не могу да пронађем посреднички сервер (proxy)">
+<!ENTITY securityOverride.warningText "
+<p>Немојте додавати изузетке ако користите везу којој не верујете у потпуности, или ако нисте навикли да добијате упозорења о овом серверу.</p>
 
-<!-- LOCALIZATION NOTE (netOffline2.longDesc) - Workaround to allow the l10n tools
-to pickup this string change. Please update netOffline.longDesc too -->
-
-<!ENTITY netOffline2.longDesc "
-<ul>
-  <li>Покушајте поново. &brandShortName; ће покушати да успостави везу и поново учита страну.</li>
-</ul>
+<xul:button xmlns:xul='http://www.mozilla.org/keymaster/gatekeeper/there.is.only.xul' id='getMeOutOfHereButton' label='&securityOverride.getMeOutOfHereButton;'/>
+<xul:button xmlns:xul='http://www.mozilla.org/keymaster/gatekeeper/there.is.only.xul' id='exceptionDialogButton' label='&securityOverride.exceptionButtonLabel;'/>
 ">
-
 <!ENTITY netOffline.title "Рад ван мреже">
-<!ENTITY netOffline.longDesc "&netOffline2.longDesc;">
-
-<!ENTITY contentEncodingError.title "Грешка у кодирању садржаја">
-<!ENTITY contentEncodingError.longDesc "
-<ul>
-  <li>Молимо пријавите овај проблем администраторима овог веб сајта.</li>
-</ul>
-">
-
-<!ENTITY unsafeContentType.title "Несигуран тип датотеке">
+<!ENTITY phishingBlocked.title "Могући мрежни фалсификат!">
+<!ENTITY netInterrupt.longDesc "&sharedLongDesc;">
+<!ENTITY dnsNotFound.title "Сервер није нађен">
 <!ENTITY unsafeContentType.longDesc "
 <ul>
   <li>Молимо пријавите овај проблем администраторима овог веб сајта.</li>
 </ul>
 ">
-
-<!ENTITY netReset.title "Веза је обновљена">
-<!ENTITY netReset.longDesc "&sharedLongDesc;">
-
-<!ENTITY netTimeout.title "Веза са сервером је истекла">
-<!ENTITY netTimeout.longDesc "&sharedLongDesc;">
-
-<!ENTITY protocolNotFound.title "Адреса није разумљива">
-<!ENTITY protocolNotFound.longDesc "
-<ul>
-  <li>Можда ћете морати да инсталирати додатни софтвер да бисте видели ову страну.</li>
-</ul>
-">
-
-<!ENTITY proxyConnectFailure.title "Посреднички сервер (proxy) одбија везе">
-<!ENTITY proxyConnectFailure.longDesc "
-<ul>
-  <li>Проверите исправност подешавања прокси сервера.</li>
-  <li>Питајте администратора ваше мреже да ли је активан 
-  посредник(proxy).</li>
-</ul>
-">
-
-<!ENTITY proxyResolveFailure.title "Не могу да пронађем посреднички сервер (proxy)">
-<!ENTITY proxyResolveFailure.longDesc "
-<ul>
-  <li>Проверите исправност подешавања посредничког сервера.</li>
-  <li>Проверите да ли веза са мрежом ради.</li>
-  <li>Ако је Ваш рачунар заштићен заштитним зидом(firewall) или заступником, проверите да ли је 
-  програму &brandShortName; дозвољено да приступа интернету.</li>
-</ul>
-">
-
-<!ENTITY redirectLoop.title "Страна није правилно преусмерена">
-<!ENTITY redirectLoop.longDesc "
-<ul>
-  <li>Овај проблем понекад настаје ако искључите или одбијете прихватање колачића.
-     колачића.</li>
-</ul>
-">
-
 <!ENTITY unknownSocketType.title "Неочекиван одговор сервера">
-<!ENTITY unknownSocketType.longDesc "
-<ul>
-  <li>Проверите да ли на вашем рачунару ради лични управник за безбедност</li>
-  <li>Узрок може да буде нестандардно подешавање сервера.</li>
-</ul>
+<!ENTITY fileNotFound.title "Датотека није нађена">
+<!ENTITY malwareBlocked.longDesc "
+<p>Злонамерни сајтови покушавају да инсталирају програме који отимају приватне податке, користе Ваш рачунар за напад на друге, или оштећују Ваш систем.</p>
+<p>Власници веб сајтова који сматрају да је њихов сајт грешком пријављен као злонамеран могу да <a href='http://www.stopbadware.org/home/reviewinfo' >захтевају ревизију.</p>
 ">
-
-<!ENTITY nssFailure2.title "Безбедна веза није успела">
-<!ENTITY nssFailure2.longDesc "
-<ul>
-  <li>Страна коју покушавате да погледате није могла да буде приказана јер аутентичност примљених података није могла бити потврђена.</li>
-  <li>Молимо да се обратите власницима веб сајта и обавестите их о овом проблему.  Или искористите команду из менија за помоћ како бисте пријавили овај сајт као неисправан.</li>
-</ul>
-">
-
-<!ENTITY nssBadCert.title "Безбедна веза није успела">
-<!ENTITY nssBadCert.longDesc2 "
-<ul>
-  <li>Ово може да буде проблем са подешавањима сервера, или може бити неко ко 
- покушава да се представи као сервер.</li>
-  <li>Ако сте се претходно већ успешно повезивали на овај сервер, онда је грешка 
-можда привремена, па има смисла да покушате касније опет.</li>
-</ul>
-">
-
 <!ENTITY sharedLongDesc "
 <ul>
   <li>Сајт је привремено недоступан или заузет. Покушајте поново за неколико 
@@ -154,31 +51,95 @@ to pickup this string change. Please update netOffline.longDesc too -->
     проверите да ли је програму &brandShortName; дозвољено да приступа интернету.</li>
 </ul>
 ">
-
-<!ENTITY malwareBlocked.title "Могући злонамеран сајт!">
-<!ENTITY malwareBlocked.longDesc "
-<p>Злонамерни сајтови покушавају да инсталирају програме који отимају приватне податке, користе Ваш рачунар за напад на друге, или оштећују Ваш систем.</p>
-<p>Власници веб сајтова који сматрају да је њихов сајт грешком пријављен као злонамеран могу да <a href='http://www.stopbadware.org/home/reviewinfo' >захтевају ревизију.</p>
+<!ENTITY proxyConnectFailure.longDesc "
+<ul>
+  <li>Проверите исправност подешавања прокси сервера.</li>
+  <li>Питајте администратора ваше мреже да ли је активан 
+  посредник(proxy).</li>
+</ul>
 ">
-
-<!ENTITY phishingBlocked.title "Могући мрежни фалсификат!">
+<!ENTITY malwareBlocked.title "Могући злонамеран сајт!">
+<!ENTITY generic.longDesc "
+<p>&brandShortName; из неког разлога не може да учита страну.</p>
+">
+<!ENTITY netReset.longDesc "&sharedLongDesc;">
+<!ENTITY generic.title "Упс.">
+<!ENTITY nssFailure2.longDesc "
+<ul>
+  <li>Страна коју покушавате да погледате није могла да буде приказана јер аутентичност примљених података није могла бити потврђена.</li>
+  <li>Молимо да се обратите власницима веб сајта и обавестите их о овом проблему.  Или искористите команду из менија за помоћ како бисте пријавили овај сајт као неисправан.</li>
+</ul>
+">
+<!ENTITY netTimeout.longDesc "&sharedLongDesc;">
+<!ENTITY netReset.title "Веза је обновљена">
+<!ENTITY netOffline2.longDesc "
+<ul>
+  <li>Покушајте поново. &brandShortName; ће покушати да успостави везу и поново учита страну.</li>
+</ul>
+">
+<!ENTITY protocolNotFound.title "Адреса није разумљива">
+<!ENTITY redirectLoop.longDesc "
+<ul>
+  <li>Овај проблем понекад настаје ако искључите или одбијете прихватање колачића.
+     колачића.</li>
+</ul>
+">
+<!ENTITY proxyResolveFailure.longDesc "
+<ul>
+  <li>Проверите исправност подешавања посредничког сервера.</li>
+  <li>Проверите да ли веза са мрежом ради.</li>
+  <li>Ако је Ваш рачунар заштићен заштитним зидом(firewall) или заступником, проверите да ли је 
+  програму &brandShortName; дозвољено да приступа интернету.</li>
+</ul>
+">
+<!ENTITY fileNotFound.longDesc "
+<ul>
+  <li>Проверите име датотеке због могућих грешака при куцању.</li>
+  <li>Проверите да ли је датотека премештена, преименована или избрисана.</li>
+</ul>
+">
+<!ENTITY deniedPortAccess.title "Ова адреса је забрањена">
+<!ENTITY retry.label "Покушајте поново">
+<!ENTITY contentEncodingError.title "Грешка у кодирању садржаја">
+<!ENTITY loadError.label "Проблем при учитавању стране">
+<!ENTITY connectionFailure.longDesc "&sharedLongDesc;">
+<!ENTITY deniedPortAccess.longDesc "">
+<!ENTITY connectionFailure.title "Повезивање немогуће">
+<!ENTITY securityOverride.getMeOutOfHereButton "Води ме одавде!">
+<!ENTITY unsafeContentType.title "Несигуран тип датотеке">
+<!ENTITY contentEncodingError.longDesc "
+<ul>
+  <li>Молимо пријавите овај проблем администраторима овог веб сајта.</li>
+</ul>
+">
+<!ENTITY nssBadCert.longDesc2 "
+<ul>
+  <li>Ово може да буде проблем са подешавањима сервера, или може бити неко ко 
+ покушава да се представи као сервер.</li>
+  <li>Ако сте се претходно већ успешно повезивали на овај сервер, онда је грешка 
+можда привремена, па има смисла да покушате касније опет.</li>
+</ul>
+">
 <!ENTITY phishingBlocked.longDesc "
 <p>Унос личних података на ову страну може да доведе до крађе идентитета или до неке друге преваре.</p>
 <p>Ове врсте мрежних фалсификата користе се у преварама познатим под именом фишинг (phishing), код којих се мрежне странице и електронска пошта користе тако што опонашају изворе којима верујете.</p>
 ">
-
-<!ENTITY securityOverride.linkText "Или додајте изузетак…">
-<!ENTITY securityOverride.getMeOutOfHereButton "Води ме одавде!">
-<!ENTITY securityOverride.exceptionButtonLabel "Додавање изузетка…">
-
-<!-- LOCALIZATION NOTE (securityOverride.warningText) - Do not translate the
-contents of the <xul:button> tags.  The only language content is the label= field,
-which uses strings already defined above. The button is included here (instead of
-netError.xhtml) because it exposes functionality specific to firefox. -->
-
-<!ENTITY securityOverride.warningText "
-<p>Немојте додавати изузетке ако користите везу којој не верујете у потпуности, или ако нисте навикли да добијате упозорења о овом серверу.</p>
-
-<xul:button xmlns:xul='http://www.mozilla.org/keymaster/gatekeeper/there.is.only.xul' id='getMeOutOfHereButton' label='&securityOverride.getMeOutOfHereButton;'/>
-<xul:button xmlns:xul='http://www.mozilla.org/keymaster/gatekeeper/there.is.only.xul' id='exceptionDialogButton' label='&securityOverride.exceptionButtonLabel;'/>
+<!ENTITY protocolNotFound.longDesc "
+<ul>
+  <li>Можда ћете морати да инсталирати додатни софтвер да бисте видели ову страну.</li>
+</ul>
 ">
+<!ENTITY netTimeout.title "Веза са сервером је истекла">
+<!ENTITY malformedURI.longDesc "
+<ul>
+  <li>Интернет адресе обично изгледају нешто налик на
+    <strong>http://www.vebsajt.com/</strong></li>
+  <li>Проверите да ли користите исправне знакове (нпр.
+    <strong>/</strong>).</li>
+</ul>
+">
+<!ENTITY nssFailure2.title "Безбедна веза није успела">
+<!ENTITY netOffline.longDesc "&netOffline2.longDesc;">
+<!ENTITY redirectLoop.title "Страна није правилно преусмерена">
+<!ENTITY securityOverride.linkText "Или додајте изузетак…">
+<!ENTITY malformedURI.title "Адреса је неважећа">

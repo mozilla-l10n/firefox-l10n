@@ -1,39 +1,26 @@
-<!ENTITY aboutSupport.pageTitle "Информације о решавању проблема">
-
-<!-- LOCALIZATION NOTE (aboutSupport.pageSubtitle): don't change the 'supportLink' id. -->
+<!ENTITY aboutSupport.extensionVersion "Издање">
+<!ENTITY aboutSupport.updateHistoryTitle "Историјат унапређења">
+<!ENTITY aboutSupport.extensionId "ИД">
 <!ENTITY aboutSupport.pageSubtitle "   Ова страница садржи техничке информације које могу да буду корисне
    кад покушавате да решите проблем. Ако тражите одговоре на честа питања
    о програму &brandShortName;, потражите их на <a id='supportLink'>веб сајту за подршку</a>.
 ">
-
 <!ENTITY aboutSupport.extensionsTitle "Проширења">
-<!ENTITY aboutSupport.extensionName "Назив">
-<!ENTITY aboutSupport.extensionEnabled "Укључен">
-<!ENTITY aboutSupport.extensionVersion "Издање">
-<!ENTITY aboutSupport.extensionId "ИД">
-
-<!ENTITY aboutSupport.appBasicsTitle "Основе апликације">
-<!ENTITY aboutSupport.appBasicsName "Назив">
-<!ENTITY aboutSupport.appBasicsVersion "Издање">
-<!ENTITY aboutSupport.appBasicsProfileDir "Директоријум профила">
-<!ENTITY aboutSupport.appBasicsEnabledPlugins "Enabled Plugins">
-<!ENTITY aboutSupport.appBasicsBuildConfig "Конфигурација изградње">
 <!ENTITY aboutSupport.appBasicsUserAgent "Корисник">
-
-<!ENTITY aboutSupport.show.label "Прикажи датотеку у директоријуму">
-
-<!-- LOCALIZATION NOTE (aboutSupport.showMac.label): This is the Mac-specific
-variant of aboutSupport.show.label.  This allows us to use the preferred
-"Finder" terminology on Mac. -->
-<!ENTITY aboutSupport.showMac.label "Прикажи у Налазачу (Finder)">
-
-<!ENTITY aboutSupport.modifiedPrefsTitle "Измењена подешавања">
-<!ENTITY aboutSupport.modifiedPrefsName "Назив">
+<!ENTITY aboutSupport.appBasicsEnabledPlugins "Enabled Plugins">
+<!ENTITY aboutSupport.extensionEnabled "Укључен">
+<!ENTITY aboutSupport.appBasicsBuildConfig "Конфигурација изградње">
+<!ENTITY aboutSupport.appBasicsName "Назив">
+<!ENTITY aboutSupport.appBasicsProfileDir "Директоријум профила">
 <!ENTITY aboutSupport.modifiedPrefsValue "Вредност">
-
+<!ENTITY aboutSupport.appBasicsTitle "Основе апликације">
+<!ENTITY aboutSupport.modifiedPrefsName "Назив">
 <!ENTITY aboutSupport.graphicsTitle "Графика">
-
-<!ENTITY aboutSupport.installationHistoryTitle "Историјат инсталација">
-<!ENTITY aboutSupport.updateHistoryTitle "Историјат унапређења">
-
+<!ENTITY aboutSupport.appBasicsVersion "Издање">
+<!ENTITY aboutSupport.show.label "Прикажи датотеку у директоријуму">
 <!ENTITY aboutSupport.copyToClipboard.label "Копирај све у оставу">
+<!ENTITY aboutSupport.installationHistoryTitle "Историјат инсталација">
+<!ENTITY aboutSupport.extensionName "Назив">
+<!ENTITY aboutSupport.showMac.label "Прикажи у Налазачу (Finder)">
+<!ENTITY aboutSupport.pageTitle "Информације о решавању проблема">
+<!ENTITY aboutSupport.modifiedPrefsTitle "Измењена подешавања">

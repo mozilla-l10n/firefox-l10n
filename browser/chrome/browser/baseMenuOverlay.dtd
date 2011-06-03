@@ -1,38 +1,28 @@
-<!ENTITY minimizeWindow.key       "у">
-<!ENTITY minimizeWindow.label     "Умањи">
-<!ENTITY bringAllToFront.label    "Стави све у први план">
-<!ENTITY zoomWindow.label         "Увећај">
-<!ENTITY windowMenu.label         "Прозор">
-
-<!ENTITY helpMenu.label           "Помоћ"> 
-<!ENTITY helpMenu.accesskey       "H"> 
-<!-- LOCALIZATION NOTE some localizations of Windows (ex:french, german) use "?"
-                       for the help button in the menubar but Gnome does not.   -->
-<!ENTITY helpMenuWin.label        "Помоћ"> 
-<!ENTITY helpMenuWin.accesskey    "H">
-<!ENTITY aboutProduct.label       "О програму &brandShortName;">
-<!ENTITY aboutProduct.accesskey   "a">
-<!ENTITY productHelp.label        "Помоћ за &brandShortName;">
-<!ENTITY productHelp.accesskey    "H">
-<!ENTITY helpMac.commandkey       "?">
-<!ENTITY helpSafeMode.label       "Поново покрени са искљученим додацима">
-<!ENTITY helpSafeMode.accesskey   "R">
-
-<!ENTITY helpTroubleshootingInfo.label      "Информације о решавању проблема">
-<!ENTITY helpTroubleshootingInfo.accesskey  "И">
-
-<!ENTITY helpFeedbackPage.label      "Пошаљи повратне информације">
-<!ENTITY helpFeedbackPage.accesskey  "S">
-
-<!ENTITY preferencesCmdMac.label        "Поставке…">
-<!ENTITY preferencesCmdMac.commandkey   ",">
-
-<!ENTITY servicesMenuMac.label          "Услуге">
-
-<!ENTITY hideThisAppCmdMac.label        "Сакриј &brandShortName;">
-<!ENTITY hideThisAppCmdMac.commandkey   "П">
-
-<!ENTITY hideOtherAppsCmdMac.label      "Сакриј остале">
+<!ENTITY preferencesCmdMac.label "Поставке…">
+<!ENTITY bringAllToFront.label "Стави све у први план">
+<!ENTITY helpMenuWin.label "Помоћ">
+<!ENTITY productHelp.accesskey "П">
+<!ENTITY helpFeedbackPage.label "Пошаљи повратне информације">
+<!ENTITY productHelp.label "Помоћ за &brandShortName;">
+<!ENTITY aboutProduct.label "О програму &brandShortName;">
+<!ENTITY minimizeWindow.key "у">
+<!ENTITY helpMenu.accesskey "П">
+<!ENTITY helpMenu.label "Помоћ">
+<!ENTITY windowMenu.label "Прозор">
+<!ENTITY helpFeedbackPage.accesskey "П">
+<!ENTITY helpSafeMode.label "Поново покрени са искљученим додацима">
+<!ENTITY helpMenuWin.accesskey "П">
+<!ENTITY helpTroubleshootingInfo.label "Информације о решавању проблема">
+<!ENTITY hideOtherAppsCmdMac.label "Сакриј остале">
+<!ENTITY helpTroubleshootingInfo.accesskey "И">
+<!ENTITY showAllAppsCmdMac.label "Прикажи све">
+<!ENTITY hideThisAppCmdMac.label "Сакриј &brandShortName;">
+<!ENTITY hideThisAppCmdMac.commandkey "П">
+<!ENTITY helpMac.commandkey "?">
+<!ENTITY preferencesCmdMac.commandkey ",">
 <!ENTITY hideOtherAppsCmdMac.commandkey "П">
-
-<!ENTITY showAllAppsCmdMac.label        "Прикажи све">
+<!ENTITY minimizeWindow.label "Умањи">
+<!ENTITY servicesMenuMac.label "Услуге">
+<!ENTITY aboutProduct.accesskey "О">
+<!ENTITY helpSafeMode.accesskey "П">
+<!ENTITY zoomWindow.label "Увећај">
