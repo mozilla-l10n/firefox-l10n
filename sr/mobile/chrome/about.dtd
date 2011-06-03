@@ -1,14 +1,10 @@
-<!ENTITY aboutPage.title                        "О &brandShortName;">
-<!ENTITY aboutPage.faq.label                    "ЧПП">
-<!ENTITY aboutPage.support.label                "Подршка">
-<!ENTITY aboutPage.privacyPolicy.label          "Полиса о приватности">
-<!ENTITY aboutPage.rights.label                 "Ваша права">
-<!ENTITY aboutPage.relNotes.label               "Белешке о издању">
-<!ENTITY aboutPage.credits.label                "Заслуге">
-
-<!-- LOCALIZATION NOTE:
-     These strings are concatenated in order. Unneeded strings may be left blank.
-  -->
-<!ENTITY aboutPage.copyrightInfo1               "&#169;1998-2009 приложници. Сва права задржана. (">
-<!ENTITY aboutPage.licenseLink                  "Информације о лиценцирању">
-<!ENTITY aboutPage.copyrightInfo2               ").">
+<!ENTITY aboutPage.licenseLink "Информације о лиценцирању">
+<!ENTITY aboutPage.faq.label "ЧПП">
+<!ENTITY aboutPage.copyrightInfo1 "&#169;1998-2009 приложници. Сва права задржана. (">
+<!ENTITY aboutPage.rights.label "Ваша права">
+<!ENTITY aboutPage.relNotes.label "Белешке о издању">
+<!ENTITY aboutPage.support.label "Подршка">
+<!ENTITY aboutPage.copyrightInfo2 ").">
+<!ENTITY aboutPage.title "О &brandShortName;">
+<!ENTITY aboutPage.credits.label "Заслуге">
+<!ENTITY aboutPage.privacyPolicy.label "Полиса о приватности">

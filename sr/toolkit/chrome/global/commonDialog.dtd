@@ -1,9 +1,9 @@
-<!ENTITY header.label     "Кратак наслов"> 
-<!ENTITY message.label    "Ово је текст за пример.">
-<!ENTITY editfield0.label "Корисничко име:"> 
-<!ENTITY editfield1.label "Лозинка:"> 
-<!ENTITY checkbox.label   "означено">
-<!ENTITY copyCmd.label    "Умножи">
-<!ENTITY copyCmd.accesskey "C">
 <!ENTITY selectAllCmd.label "Изабери све">
-<!ENTITY selectAllCmd.accesskey "A">
+<!ENTITY copyCmd.accesskey "У">
+<!ENTITY editfield0.label "Корисничко име:">
+<!ENTITY copyCmd.label "Умножи">
+<!ENTITY selectAllCmd.accesskey "И">
+<!ENTITY checkbox.label "означено">
+<!ENTITY message.label "Ово је текст за пример.">
+<!ENTITY editfield1.label "Лозинка:">
+<!ENTITY header.label "Кратак наслов">

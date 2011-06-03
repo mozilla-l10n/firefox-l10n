@@ -1,13 +1,6 @@
-<!ENTITY credit.title     "Заслуге за &brandFullName;">
-<!ENTITY brandMotto       "Соколови су спремни!">
-<!ENTITY credit.thanks    "Посебна захвалност">
-
-<!-- localization credits look like this: -->
-<!--
-<!ENTITY credit.translation
-  "<h3>Translators</h3><ul><li>Name Here</li></ul>">
--->
 <!ENTITY credit.translation "<h3>Превео</h3><ul><li>Љубиша Радовановић</li></ul>">
-
-<!ENTITY credit.memory         "У сећање на">
+<!ENTITY credit.title "Заслуге за &brandFullName;">
 <!ENTITY credit.poweredByGecko "Покреће геко (Gecko&trade;)">
+<!ENTITY credit.memory "У сећање на">
+<!ENTITY brandMotto "Соколови су спремни!">
+<!ENTITY credit.thanks "Посебна захвалност">

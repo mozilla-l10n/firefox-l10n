@@ -1,107 +1,81 @@
-<!ENTITY accountSetupTitle.label    "&syncBrand.fullName.label; - подешавање параметара">
-
-<!-- First page of the wizard -->
-
-<!ENTITY setup.pickSetupType.description "Добро дошли. Ако никада раније нисте користили &syncBrand.fullName.label;, требате да направите нови налог.">
-<!ENTITY button.createNewAccount.label "Направи нови налог">
-<!ENTITY setup.haveAccount.label "Већ имам налог на &syncBrand.fullName.label;у.">
-<!ENTITY button.connect.label    "Повежи">
-
-<!ENTITY setup.choicePage.title.label     "Да ли сте раније користили &syncBrand.fullName.label;?">
-<!ENTITY setup.choicePage.new.label       "Никада раније нисам користио/ла &syncBrand.shortName.label;">
-<!ENTITY setup.choicePage.existing.label  "већ само користио/ла &syncBrand.shortName.label; на другом рачунару">
-
-<!-- New Account AND Existing Account -->
-<!ENTITY server.label               "Сервер">
-<!ENTITY serverType.main.label      "Сервер &syncBrand.fullName.label;а">
-<!ENTITY serverType.custom2.label   "Користи прилагођени сервер…">
-<!ENTITY signIn.account2.label      "Налог">
-<!ENTITY signIn.account2.accesskey  "A">
-<!ENTITY signIn.password.label      "Лозинка">
-<!ENTITY signIn.password.accesskey  "P">
-<!ENTITY signIn.syncKey.label       "Кључ за усклађивање">
-<!ENTITY signIn.syncKey.accesskey   "K">
-
-<!-- New Account Page 1: Basic Account Info -->
-<!ENTITY setup.newAccountDetailsPage.title.label "Детаљи о налогу">
-<!ENTITY setup.confirmPassword.label  "Потврда лозинке">
-<!ENTITY setup.confirmPassword.accesskey  "m">
-<!ENTITY setup.emailAddress.label     "Адреса ел. поште">
-<!ENTITY setup.emailAddress.accesskey "E">
-<!-- LOCALIZATION NOTE: tosAgree1, tosLink, tosAgree2, ppLink, tosAgree3 are
-     joined with implicit white space, so spaces in the strings aren't necessary -->
-<!ENTITY setup.tosAgree1.label      "Слажем се">
-<!ENTITY setup.tosAgree1.accesskey  "a">
-<!ENTITY setup.tosLink.label        "Услови коришћења услуге">
-<!ENTITY setup.tosAgree2.label      "и">
-<!ENTITY setup.ppLink.label         "Политика приватности">
-<!ENTITY setup.tosAgree3.label      "">
-<!ENTITY setup.tosAgree2.accesskey  "a">
-
-<!-- New Account Page 2: Sync Key -->
-<!ENTITY setup.newSyncKeyPage.title.label "&brandShortName; брине о вашој приватности">
-<!ENTITY setup.newSyncKeyPage.description.label "Да би потпуна приватност била обезбеђена, сви подаци се шифрују пре слања. Кључ за усклађивање, који је неопходан за дешифровање ваших података, није отпремљен.">
-<!ENTITY syncKeyEntry.label        "Ваш кључ за усклађивање">
-<!ENTITY syncKeyEntry.accesskey    "K">
+<!ENTITY setup.tosLink.label "Услови коришћења услуге">
+<!ENTITY addDevice.dialog.connected.label "Уређај је повезан">
+<!ENTITY button.syncKeyBackup.save.accesskey "С">
+<!ENTITY serverType.main.label "Сервер &syncBrand.fullName.label;а">
 <!ENTITY syncKeyBackup.description "Потребан вам је кључ за усклађивање да бисте могли приступити &syncBrand.fullName.label;-у на другим уређајима. Направите резервну копију, јер не можемо да вам повратимо кључ ако га изгубите.">
-
-<!ENTITY button.syncKeyBackup.print.label     "Штампа…">
-<!ENTITY button.syncKeyBackup.print.accesskey "P">
-<!ENTITY button.syncKeyBackup.save.label      "Сачувај…">
-<!ENTITY button.syncKeyBackup.save.accesskey  "S">
-
-<!-- New Account Page 3: Captcha -->
-<!ENTITY setup.captchaPage2.title.label     "Потврдите да нисте робот">
-<!-- Existing Account Page 1: Add Device (incl. Add a Device dialog strings) -->
-<!ENTITY addDevice.title.label              "Додај уређај">
-<!ENTITY addDevice.showMeHow.label          "Покажи ми како.">
-<!ENTITY addDevice.dontHaveDevice.label     "Немам уређај са собом.">
-<!ENTITY addDevice.setup.description.label  "Да бисте активирали, отворите опције &syncBrand.shortName.label;а на вашем другом уређају и изаберите &#x0022;Додај уређај&#x0022;.">
-<!ENTITY addDevice.setup.enterCode.label    "Затим унесите овај кôд:">
-<!ENTITY addDevice.dialog.description.label "Да бисте активирали свој нови уређај, отворите опције &syncBrand.shortName.label; на уређају и изаберите &#x0022;Повежи.&#x0022;">
-<!ENTITY addDevice.dialog.enterCode.label   "Унесите овај кôд који уређај додељује:">
-<!ENTITY addDevice.dialog.tryAgain.label    "Покушајте поново.">
-<!ENTITY addDevice.dialog.successful.label  "Уређај је успешно додат. Почетно усклађивање може да потраје неколико минута и биће завршено у позадини.">
-<!ENTITY addDevice.dialog.syncKey.label     "Да бисте активирали овај уређај, потребан Вам је кључ за усклађивање. Најбоље је да га одштампате или сачувате и држите са собом.">
-<!ENTITY addDevice.dialog.connected.label   "Уређај је повезан">
-
-<!-- Existing Account Page 2: Manual Login -->
-<!ENTITY setup.signInPage.title.label "Пријављивање">
-<!ENTITY existingSyncKey.description "Копију свог кључа за усклађивање можете да добијете кад отворите опције &syncBrand.shortName.label;а на свој уређају и изаберете &#x0022;Мој кључ за усклађивање&#x0022; под &#x0022;Управљање налогом&#x0022;.">
-<!ENTITY verifying.label              "Потврђивање…">
-<!ENTITY resetPassword.label          "Обнављање шифре">
-<!ENTITY resetSyncKey.label           "Други уређај је изгубљен.">
-
-<!-- Sync Options -->
-<!ENTITY setup.optionsPage.title      "Опције усклађивања">
-<!ENTITY syncComputerName.label       "Назив рачунара:">
-<!ENTITY syncComputerName.accesskey   "C">
-
-<!ENTITY syncMy.label               "Sync My">
-<!ENTITY engine.bookmarks.label     "Омиљено">
-<!ENTITY engine.bookmarks.accesskey "m">
-<!ENTITY engine.tabs.label          "Језичци">
-<!ENTITY engine.tabs.accesskey      "T">
-<!ENTITY engine.history.label       "Историјат">
-<!ENTITY engine.history.accesskey   "r">
-<!ENTITY engine.passwords.label     "Лозинке">
-<!ENTITY engine.passwords.accesskey "P">
-<!ENTITY engine.prefs.label         "Поставке">
-<!ENTITY engine.prefs.accesskey     "s">
-
-<!ENTITY choice2.merge.main.label      "Обједини податке из овог рачунара са мојим подацима из &syncBrand.shortName.label;-а">
-<!ENTITY choice2.merge.recommended.label "Препоручљиво:">
-<!ENTITY choice2.client.main.label     "Замени све податке из овог рачунара са мојим подацима из &syncBrand.shortName.label;а">
-<!ENTITY choice2.server.main.label     "Замени све остале уређаје за подацима из овог рачунара">
-
-<!-- Confirm Merge Options -->
-<!ENTITY setup.optionsConfirmPage.title "Потврда">
-<!ENTITY confirm.merge.label    "&syncBrand.fullName.label; ће сада објединити све податке из прегледача овог рачунара са подацима вашег налога за усклађивање.">
-<!ENTITY confirm.client2.label         "Упозорење: следећи подаци &brandShortName;а из овог рачунара ће бити избрисани:">
-<!ENTITY confirm.client.moreinfo.label "&brandShortName; ће потом копирати све ваше податке &syncBrand.fullName.label;-а на овај рачунар.">
-<!ENTITY confirm.server2.label         "Упозорење: следећи уређаји ће бити замењени са вашим локалним подацима:">
-
-<!-- New & Existing Account: Setup Complete -->
 <!ENTITY setup.successPage.title "Подешавање параметара је завршено">
+<!ENTITY syncMy.label "Sync My">
+<!ENTITY setup.signInPage.title.label "Пријављивање">
+<!ENTITY button.syncKeyBackup.print.label "Штампа…">
+<!ENTITY engine.bookmarks.accesskey "О">
+<!ENTITY setup.captchaPage2.title.label "Потврдите да нисте робот">
+<!ENTITY addDevice.dialog.enterCode.label "Унесите овај кôд који уређај додељује:">
+<!ENTITY signIn.account2.accesskey "Н">
+<!ENTITY setup.tosAgree3.label "">
+<!ENTITY signIn.password.accesskey "Л">
+<!ENTITY addDevice.dialog.tryAgain.label "Покушајте поново.">
+<!ENTITY setup.confirmPassword.accesskey "П">
+<!ENTITY setup.ppLink.label "Политика приватности">
+<!ENTITY setup.tosAgree2.label "и">
+<!ENTITY engine.tabs.accesskey "Ј">
+<!ENTITY setup.tosAgree1.accesskey "С">
+<!ENTITY engine.tabs.label "Језичци">
+<!ENTITY signIn.account2.label "Налог">
+<!ENTITY setup.haveAccount.label "Већ имам налог на &syncBrand.fullName.label;у.">
+<!ENTITY setup.emailAddress.accesskey "А">
+<!ENTITY addDevice.setup.description.label "Да бисте активирали, отворите опције &syncBrand.shortName.label;а на вашем другом уређају и изаберите &#x0022;Додај уређај&#x0022;.">
+<!ENTITY choice2.client.main.label "Замени све податке из овог рачунара са мојим подацима из &syncBrand.shortName.label;а">
+<!ENTITY engine.bookmarks.label "Омиљено">
+<!ENTITY button.syncKeyBackup.save.label "Сачувај…">
+<!ENTITY server.label "Сервер">
+<!ENTITY setup.pickSetupType.description "Добро дошли. Ако никада раније нисте користили &syncBrand.fullName.label;, требате да направите нови налог.">
+<!ENTITY setup.choicePage.new.label "Никада раније нисам користио/ла &syncBrand.shortName.label;">
+<!ENTITY setup.newSyncKeyPage.title.label "&brandShortName; брине о вашој приватности">
+<!ENTITY addDevice.dialog.syncKey.label "Да бисте активирали овај уређај, потребан Вам је кључ за усклађивање. Најбоље је да га одштампате или сачувате и држите са собом.">
+<!ENTITY button.syncKeyBackup.print.accesskey "Ш">
+<!ENTITY addDevice.title.label "Додај уређај">
+<!ENTITY signIn.syncKey.accesskey "К">
+<!ENTITY addDevice.dialog.successful.label "Уређај је успешно додат. Почетно усклађивање може да потраје неколико минута и биће завршено у позадини.">
+<!ENTITY addDevice.showMeHow.label "Покажи ми како.">
+<!ENTITY existingSyncKey.description "Копију свог кључа за усклађивање можете да добијете кад отворите опције &syncBrand.shortName.label;а на свој уређају и изаберете &#x0022;Мој кључ за усклађивање&#x0022; под &#x0022;Управљање налогом&#x0022;.">
+<!ENTITY setup.tosAgree2.accesskey "и">
+<!ENTITY setup.optionsConfirmPage.title "Потврда">
+<!ENTITY verifying.label "Потврђивање…">
+<!ENTITY setup.emailAddress.label "Адреса ел. поште">
+<!ENTITY syncKeyEntry.accesskey "В">
+<!ENTITY choice2.merge.recommended.label "Препоручљиво:">
+<!ENTITY syncComputerName.accesskey "Н">
+<!ENTITY confirm.client2.label "Упозорење: следећи подаци &brandShortName;а из овог рачунара ће бити избрисани:">
+<!ENTITY button.connect.label "Повежи">
+<!ENTITY setup.optionsPage.title "Опције усклађивања">
+<!ENTITY resetPassword.label "Обнављање шифре">
+<!ENTITY choice2.merge.main.label "Обједини податке из овог рачунара са мојим подацима из &syncBrand.shortName.label;-а">
+<!ENTITY setup.confirmPassword.label "Потврда лозинке">
+<!ENTITY signIn.password.label "Лозинка">
+<!ENTITY confirm.client.moreinfo.label "&brandShortName; ће потом копирати све ваше податке &syncBrand.fullName.label;-а на овај рачунар.">
+<!ENTITY setup.tosAgree1.label "Слажем се">
+<!ENTITY engine.passwords.label "Лозинке">
+<!ENTITY signIn.syncKey.label "Кључ за усклађивање">
+<!ENTITY engine.history.accesskey "И">
+<!ENTITY setup.newAccountDetailsPage.title.label "Детаљи о налогу">
+<!ENTITY button.createNewAccount.label "Направи нови налог">
+<!ENTITY engine.prefs.label "Поставке">
+<!ENTITY resetSyncKey.label "Други уређај је изгубљен.">
+<!ENTITY accountSetupTitle.label "&syncBrand.fullName.label; - подешавање параметара">
 <!ENTITY changeOptions.label "Ову поставку можете да измените тако што ћете изабрати „Опције усклађивања” испод.">
+<!ENTITY engine.history.label "Историјат">
+<!ENTITY syncComputerName.label "Назив рачунара:">
+<!ENTITY addDevice.setup.enterCode.label "Затим унесите овај кôд:">
+<!ENTITY setup.choicePage.title.label "Да ли сте раније користили &syncBrand.fullName.label;?">
+<!ENTITY setup.newSyncKeyPage.description.label "Да би потпуна приватност била обезбеђена, сви подаци се шифрују пре слања. Кључ за усклађивање, који је неопходан за дешифровање ваших података, није отпремљен.">
+<!ENTITY engine.prefs.accesskey "П">
+<!ENTITY engine.passwords.accesskey "Л">
+<!ENTITY addDevice.dontHaveDevice.label "Немам уређај са собом.">
+<!ENTITY setup.choicePage.existing.label "већ само користио/ла &syncBrand.shortName.label; на другом рачунару">
+<!ENTITY confirm.server2.label "Упозорење: следећи уређаји ће бити замењени са вашим локалним подацима:">
 <!ENTITY continueUsing.label "Сада можете да почнете користити &brandShortName;.">
+<!ENTITY choice2.server.main.label "Замени све остале уређаје за подацима из овог рачунара">
+<!ENTITY syncKeyEntry.label "Ваш кључ за усклађивање">
+<!ENTITY addDevice.dialog.description.label "Да бисте активирали свој нови уређај, отворите опције &syncBrand.shortName.label; на уређају и изаберите &#x0022;Повежи.&#x0022;">
+<!ENTITY serverType.custom2.label "Користи прилагођени сервер…">
+<!ENTITY confirm.merge.label "&syncBrand.fullName.label; ће сада објединити све податке из прегледача овог рачунара са подацима вашег налога за усклађивање.">
