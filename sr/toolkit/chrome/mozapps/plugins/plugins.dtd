@@ -20,8 +20,7 @@
 <!ENTITY pluginWizard.finalPage.moreInfo.label               "Сазнајте више о прикључцима или ручно пронађите прикључке који недостају.">
 <!ENTITY pluginWizard.finalPage.restart.label                "&brandShortName; мора да се поново покрене како би прикључци прорадили.">
   
-<!ENTITY missingPlugin.label                                 "Притисните овде да преузмете прикључак.">
-<!ENTITY disabledPlugin.label                                "Прикључак за овај садржај је искључен.  Притисните овде да подесите прикључке.">
+
 <!ENTITY blockedPlugin.label                                 "Овај прикључак је блокиран ради Ваше безбедности.">
 <!-- LOCALIZATION NOTE (reloadPlugin.pre): include a trailing space as needed -->
 <!-- LOCALIZATION NOTE (reloadPlugin.middle): avoid leading/trailing spaces, this text is a link -->

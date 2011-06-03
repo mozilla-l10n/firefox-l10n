@@ -104,7 +104,6 @@ can reach it easily. -->
 <!ENTITY subscribeToPageMenuitem.label "Претплата на ову страну…">
 <!ENTITY addCurPagesCmd.label "Забележи све језичке">
 <!ENTITY showAllBookmarks2.label "Прикажи све забелешке">
-<!ENTITY bookmarkAllCmd.label "Забележи све језичке">
 <!ENTITY bookmarksToolbarChevron.tooltip "Прикажи још забелешки">
 
 <!ENTITY backCmd.label                "Назад">
