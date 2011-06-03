@@ -52,7 +52,7 @@
 <!ENTITY rights.webservices-e " a odškrtnutím položek v části „Automaticky kontrolovat aktualizace“.">
 
 <!-- intro paragraph for unbranded builds -->
-<!ENTITY rights.webservices-unbranded "Zde by měl být k dispozici krátký popis začleněných služeb webových serverů spolu s instrukcemi jak je zakázat.">
+<!ENTITY rights.webservices-unbranded "Zde by měl být k dispozici krátký popis začleněných služeb webových serverů spolu s instrukcemi, jak je zakázat.">
 
 <!-- point 1 text for unbranded builds -->
 <!ENTITY rights.webservices-term1-unbranded "Zde by měl být seznam podmínek začleněných služeb.">
