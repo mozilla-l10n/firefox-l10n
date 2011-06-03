@@ -70,7 +70,7 @@
 <!ENTITY rights.locationawarebrowsing-term4 "Prohlížení se znalostí polohy je nyní vypnuto">
 
 <!-- intro paragraph for unbranded builds -->
-<!ENTITY rights.webservices-unbranded "Krátký popis začleněných služeb webových serverů spolu s instrukcemi jak je zakázat.">
+<!ENTITY rights.webservices-unbranded "Krátký popis začleněných služeb webových serverů spolu s instrukcemi, jak je zakázat.">
 
 <!-- point 1 text for unbranded builds -->
 <!ENTITY rights.webservices-term1-unbranded "Zde by měl být seznam podmínek začleněných služeb.">
