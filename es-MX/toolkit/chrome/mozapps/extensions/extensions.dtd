@@ -19,13 +19,10 @@
 <!ENTITY warning.updatesecurity.label "EL chequeo de seguridad para actualización del complemento esta deshabilitada. Tu navegador puede estar en peligro por las actualizaciones.">
 <!ENTITY warning.updatesecurity.enable.label "Habilitar">
 <!ENTITY warning.updatesecurity.enable.tooltip "Habilitar chequeo de seguridad para la actualización del complemento">
+<!ENTITY info.plugincheck.label "Pulse aquí para ver si tus plugins están actualizados">
+<!ENTITY info.plugincheck.tooltip "Pulse aquí para ver si tus plugins están actualizados">
 <!ENTITY view.search.label "Buscar">
 <!ENTITY view.discover.label "Obtener complementos">
-<!ENTITY view.locales.label "Idiomas">
-<!ENTITY view.searchengines.label "Motores de búsqueda">
-<!ENTITY view.features.label "Extensiones">
-<!ENTITY view.appearance2.label "Apariencia">
-<!ENTITY view.plugins.label "Plugins">
 <!ENTITY view.recentUpdates.label "Actualizaciones recientes">
 <!ENTITY view.availableUpdates.label "Actualizaciones disponibles">
 <!ENTITY updates.checkForUpdates.label "Buscar actualizaciones">
