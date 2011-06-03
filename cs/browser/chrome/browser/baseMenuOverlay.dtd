@@ -22,7 +22,7 @@
 <!ENTITY helpTroubleshootingInfo.accesskey  "T">
 
 <!ENTITY helpFeedbackPage.label "Odeslat zpětnou vazbu…">
-<!ENTITY helpFeedbackPage.accesskey "s">
+<!ENTITY helpFeedbackPage.accesskey "d">
 
 <!ENTITY preferencesCmdMac.label "Předvolby…">
 <!ENTITY preferencesCmdMac.commandkey ",">
@@ -30,9 +30,9 @@
 <!ENTITY servicesMenuMac.label "Služby">
 
 <!ENTITY hideThisAppCmdMac.label "Skrýt &brandShortName;">
-<!ENTITY hideThisAppCmdMac.commandkey "H">
+<!ENTITY hideThisAppCmdMac.commandkey "S">
 
 <!ENTITY hideOtherAppsCmdMac.label "Skrýt ostatní">
-<!ENTITY hideOtherAppsCmdMac.commandkey "H">
+<!ENTITY hideOtherAppsCmdMac.commandkey "k">
 
 <!ENTITY showAllAppsCmdMac.label "Zobrazit vše">
