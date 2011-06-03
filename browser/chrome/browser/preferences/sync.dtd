@@ -1,39 +1,28 @@
-<!-- The page shown when not logged in... -->
-<!ENTITY setupButton.label          "Подеси &syncBrand.fullName.label;">
-<!ENTITY setupButton.accesskey      "S">
-<!ENTITY weaveDesc.label            "&syncBrand.fullName.label; Вам дозвољава приступ вашем историјату, забелешкама, лозинкама и отвореним језичцима на свим уређајима.">
-
-<!-- Login error feedback -->
-<!ENTITY updatePass.label             "Обнављања">
-<!ENTITY resetPass.label              "Поништи">
-
-<!-- Manage Account -->
-<!ENTITY manageAccount.label          "Управљање налогом">
-<!ENTITY manageAccount.accesskey      "A">
-<!ENTITY viewQuota.label              "Види ограничење">
-<!ENTITY changePassword.label         "Промена лозинке">
-<!ENTITY mySyncKey.label              "Мој кључ за усклађивање">
-<!ENTITY resetSync.label              "Поништи усклађивање">
-<!ENTITY addDevice.label              "Додај уређај">
-
-<!-- Sync Settings -->
-<!ENTITY syncComputerName.label       "Назив рачунара:">
-<!ENTITY syncComputerName.accesskey   "р">
-<!ENTITY deactivateDevice.label       "Деактивирај овај уређај">
-
-<!ENTITY syncMy.label               "Sync My">
-<!ENTITY engine.bookmarks.label     "Омиљено">
-<!ENTITY engine.bookmarks.accesskey "m">
-<!ENTITY engine.tabs.label          "Језичци">
-<!ENTITY engine.tabs.accesskey      "T">
-<!ENTITY engine.history.label       "Историјат">
-<!ENTITY engine.history.accesskey   "r">
-<!ENTITY engine.passwords.label     "Лозинке">
-<!ENTITY engine.passwords.accesskey "P">
-<!ENTITY engine.prefs.label         "Поставке">
-<!ENTITY engine.prefs.accesskey     "s">
-
-
-<!-- Footer stuff -->
-<!ENTITY prefs.tosLink.label        "Услови коришћења услуге">
-<!ENTITY prefs.ppLink.label         "Политика приватности">
+<!ENTITY syncMy.label "Sync My">
+<!ENTITY mySyncKey.label "Мој кључ за усклађивање">
+<!ENTITY engine.bookmarks.accesskey "О">
+<!ENTITY updatePass.label "Обнављања">
+<!ENTITY engine.bookmarks.label "Омиљено">
+<!ENTITY setupButton.accesskey "П">
+<!ENTITY engine.history.accesskey "И">
+<!ENTITY engine.history.label "Историјат">
+<!ENTITY prefs.tosLink.label "Услови коришћења услуге">
+<!ENTITY addDevice.label "Додај уређај">
+<!ENTITY engine.tabs.accesskey "Ј">
+<!ENTITY manageAccount.label "Управљање налогом">
+<!ENTITY syncComputerName.accesskey "р">
+<!ENTITY setupButton.label "Подеси &syncBrand.fullName.label;">
+<!ENTITY manageAccount.accesskey "У">
+<!ENTITY deactivateDevice.label "Деактивирај овај уређај">
+<!ENTITY viewQuota.label "Види ограничење">
+<!ENTITY resetSync.label "Поништи усклађивање">
+<!ENTITY engine.passwords.label "Лозинке">
+<!ENTITY engine.prefs.label "Поставке">
+<!ENTITY weaveDesc.label "&syncBrand.fullName.label; Вам дозвољава приступ вашем историјату, забелешкама, лозинкама и отвореним језичцима на свим уређајима.">
+<!ENTITY resetPass.label "Поништи">
+<!ENTITY engine.prefs.accesskey "П">
+<!ENTITY engine.tabs.label "Језичци">
+<!ENTITY changePassword.label "Промена лозинке">
+<!ENTITY prefs.ppLink.label "Политика приватности">
+<!ENTITY syncComputerName.label "Назив рачунара:">
+<!ENTITY engine.passwords.accesskey "Л">

@@ -1,62 +1,47 @@
-<!-- extracted from printjoboptions.xul -->
-
-<!ENTITY printSetup.title    "Параметри странице">
-
-<!ENTITY basic.tab           "Формат и својства">
-
-<!ENTITY formatGroup.label   "Формат">
-
-<!ENTITY orientation.label   "Оријентација:">
-<!ENTITY portrait.label      "Усправно">
-<!ENTITY portrait.accesskey  "P">
-<!ENTITY landscape.label     "Водоравно">
-<!ENTITY landscape.accesskey "L">
-
-<!ENTITY scale.label         "Размера:">
-<!ENTITY scale.accesskey     "S">
-<!ENTITY scalePercent        "&#037;">
-
-<!ENTITY shrinkToFit.label   "Уклопи на страну">
-<!ENTITY shrinkToFit.accesskey "W">
-
-<!ENTITY optionsGroup.label  "Могућности">
-
-<!ENTITY printBG.label       "Штампа позадине (боје и слика)">
-<!ENTITY printBG.accesskey   "B">
-
-<!ENTITY advanced.tab        "Маргине &amp; Заглавље/Подножје">
-
-<!ENTITY marginGroup.label   "Поље (#1)">
-<!ENTITY marginUnits.inches  "инча">
-<!ENTITY marginUnits.metric  "милиметара">
-<!ENTITY marginTop.label     "Горњи:">
-<!ENTITY marginTop.accesskey "T">
-<!ENTITY marginBottom.label  "Доњи:">
-<!ENTITY marginBottom.accesskey "B">
-<!ENTITY marginLeft.label    "Леви:">
-<!ENTITY marginLeft.accesskey "L">
-<!ENTITY marginRight.label   "Десни:">
-<!ENTITY marginRight.accesskey "R">
-
-<!ENTITY headerFooter.label  "Заглавља и фусноте">
-
-<!ENTITY hfLeft.label        "Леви:">
-<!ENTITY hfCenter.label      "Централно">
-<!ENTITY hfRight.label       "Десни:">
-<!ENTITY headerLeft.tip      "Лево заглавље">
-<!ENTITY headerCenter.tip    "Средње заглавље">
-<!ENTITY headerRight.tip     "Десно заглавље">
-<!ENTITY footerLeft.tip      "Лева фуснота">
-<!ENTITY footerCenter.tip    "Средња фуснота">
-<!ENTITY footerRight.tip     "Десно подножје">
-
-<!ENTITY hfTitle             "Назив">
-<!ENTITY hfURL               "Адреса">
-<!ENTITY hfDateAndTime       "Датум/време">
-<!ENTITY hfPage              "Страна #">
-<!ENTITY hfPageAndTotal      "Страна бр. # од #">
-<!ENTITY hfBlank             "--празно--">
-<!ENTITY hfCustom            "Прилагоди…">
-
-<!ENTITY customPrompt.title  "Прилагоди…">
+<!ENTITY customPrompt.title "Прилагоди…">
+<!ENTITY shrinkToFit.accesskey "У">
+<!ENTITY marginGroup.label "Поље (#1)">
+<!ENTITY formatGroup.label "Формат">
+<!ENTITY marginUnits.inches "инча">
 <!ENTITY customPrompt.prompt "Унесите сопствени текст за заглавље или фусноту">
+<!ENTITY portrait.label "Усправно">
+<!ENTITY printSetup.title "Параметри странице">
+<!ENTITY marginLeft.label "Леви:">
+<!ENTITY optionsGroup.label "Могућности">
+<!ENTITY marginTop.label "Горњи:">
+<!ENTITY headerFooter.label "Заглавља и фусноте">
+<!ENTITY headerLeft.tip "Лево заглавље">
+<!ENTITY hfPage "Страна #">
+<!ENTITY footerLeft.tip "Лева фуснота">
+<!ENTITY marginUnits.metric "милиметара">
+<!ENTITY footerRight.tip "Десно подножје">
+<!ENTITY marginBottom.accesskey "Д">
+<!ENTITY marginTop.accesskey "Г">
+<!ENTITY portrait.accesskey "У">
+<!ENTITY footerCenter.tip "Средња фуснота">
+<!ENTITY marginRight.accesskey "Д">
+<!ENTITY hfURL "Адреса">
+<!ENTITY advanced.tab "Маргине &amp; Заглавље/Подножје">
+<!ENTITY headerCenter.tip "Средње заглавље">
+<!ENTITY hfPageAndTotal "Страна бр. # од #">
+<!ENTITY hfCustom "Прилагоди…">
+<!ENTITY hfRight.label "Десни:">
+<!ENTITY hfBlank "--празно--">
+<!ENTITY scale.label "Размера:">
+<!ENTITY shrinkToFit.label "Уклопи на страну">
+<!ENTITY hfDateAndTime "Датум/време">
+<!ENTITY landscape.label "Водоравно">
+<!ENTITY marginRight.label "Десни:">
+<!ENTITY landscape.accesskey "В">
+<!ENTITY marginLeft.accesskey "Л">
+<!ENTITY scalePercent "&#037;">
+<!ENTITY hfLeft.label "Леви:">
+<!ENTITY orientation.label "Оријентација:">
+<!ENTITY printBG.accesskey "Ш">
+<!ENTITY marginBottom.label "Доњи:">
+<!ENTITY hfTitle "Назив">
+<!ENTITY basic.tab "Формат и својства">
+<!ENTITY printBG.label "Штампа позадине (боје и слика)">
+<!ENTITY hfCenter.label "Централно">
+<!ENTITY scale.accesskey "Р">
+<!ENTITY headerRight.tip "Десно заглавље">
