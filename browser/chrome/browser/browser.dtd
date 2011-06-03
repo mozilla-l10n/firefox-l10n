@@ -248,7 +248,7 @@
 <!ENTITY openLinkCmdInTab.accesskey "s">
 <!ENTITY openLinkCmd.label "Apri in nuova finestra">
 <!ENTITY openLinkCmd.accesskey "f">
-<!ENTITY openLinkCmdInCurrent.label "Apri collegamento">
+<!ENTITY openLinkCmdInCurrent.label "Apri link">
 <!ENTITY openLinkCmdInCurrent.accesskey "A">
 <!ENTITY openFrameCmdInTab.label "Apri riquadro in nuova scheda">
 <!ENTITY openFrameCmdInTab.accesskey "c">
