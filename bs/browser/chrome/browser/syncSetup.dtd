@@ -43,7 +43,7 @@
 <!ENTITY setup.newSyncKeyPage.description.label "Za osiguranje vaše potpune privatnosti, svi vaši podaci će biti enkriptovani prije slanja. Vaš Sync ključ koji je neophodan za dekripciju nije poslan.">
 <!ENTITY syncKeyEntry.label        "Vaš Sync ključ">
 <!ENTITY syncKeyEntry.accesskey    "k">
-<!ENTITY syncKeyGenerate.label     "Generiši">
+<!ENTITY syncGenerateNewKey.label  "Generiši novi ključ">
 <!ENTITY syncKeyBackup.description "Vaš Sync ključ je neophodan za pristup &syncBrand.fullName.label;u na drugim mašinama. Molimo da kreirate kopiju ključa. Mi vam nećemo moći pomoći da povratite Sync ključ.">
 
 <!ENTITY button.syncKeyBackup.print.label     "Štampaj…">

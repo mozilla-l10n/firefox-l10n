@@ -23,14 +23,13 @@
 <!ENTITY warning.updatesecurity.enable.label       "Omogući">
 <!ENTITY warning.updatesecurity.enable.tooltip     "Omogući provjeravanje sigurnosti update-a add-ona">
 
+<!-- global informations -->
+<!ENTITY info.plugincheck.label                 "Provjerite da li imate zadnju verziju plugina">
+<!ENTITY info.plugincheck.tooltip               "Provjerite da li imate zadnju verziju plugina">
+
 <!-- categories / views -->
 <!ENTITY view.search.label                    "Traži">
 <!ENTITY view.discover.label                  "Dobavi Add-one">
-<!ENTITY view.locales.label                   "Jezici">
-<!ENTITY view.searchengines.label             "Pretraživači">
-<!ENTITY view.features.label                  "Ekstenzije">
-<!ENTITY view.appearance2.label               "Izgled">
-<!ENTITY view.plugins.label                   "Plugini">
 <!ENTITY view.recentUpdates.label             "Nedavni update-i">
 <!ENTITY view.availableUpdates.label          "Dostupni update-i">
 

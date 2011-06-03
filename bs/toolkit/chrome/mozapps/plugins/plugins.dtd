@@ -20,9 +20,13 @@
 <!ENTITY pluginWizard.finalPage.moreInfo.label               "Saznajte više o pluginima ili ručno pronađite one koji nedostaju.">
 <!ENTITY pluginWizard.finalPage.restart.label                "&brandShortName; mora biti pokrenut ponovo da bi plugin(i) počeli raditi.">
   
-<!ENTITY missingPlugin.label                                 "Pritisnite ovdje da preuzmete plugin.">
-<!ENTITY disabledPlugin.label                                "Plugin za ovaj sadržaj je onemogućen. Za upravljanje vašim pluginima kliknite ovdje.">
+<!ENTITY missingPlugin                                       "Plugin je potreban za prikaz ovog sadržaja.">
+<!ENTITY disabledPlugin                                      "Ovaj plugin je onemogućen.">
 <!ENTITY blockedPlugin.label                                 "Ovaj plugin je blokiran radi vaše zaštite.">
+
+<!ENTITY installPlugin                                       "Instaliraj plugin…">
+<!ENTITY managePlugins                                       "Upravljanje pluginima…">
+
 <!-- LOCALIZATION NOTE (reloadPlugin.pre): include a trailing space as needed -->
 <!-- LOCALIZATION NOTE (reloadPlugin.middle): avoid leading/trailing spaces, this text is a link -->
 <!-- LOCALIZATION NOTE (reloadPlugin.post): include a starting space as needed -->
