@@ -17,7 +17,7 @@
 <!ENTITY moveToNewGroup.label "Nuevo Grupo">
 <!ENTITY moveToNewWindow.label "Mover a una nueva ventana">
 <!ENTITY moveToNewWindow.accesskey "V">
-<!ENTITY bookmarkAllTabs.label "Agregar todas las pestañas…">
+<!ENTITY bookmarkAllTabs.label "Agregar todas a marcadores">
 <!ENTITY bookmarkAllTabs.accesskey "t">
 <!ENTITY undoCloseTab.label "Deshacer el cierre de la última pestaña">
 <!ENTITY undoCloseTab.accesskey "D">
@@ -78,9 +78,9 @@
 <!ENTITY bookmarkThisPageCmd.commandkey "d">
 <!ENTITY subscribeToPageMenupopup.label "Suscribirse a esta página">
 <!ENTITY subscribeToPageMenuitem.label "Suscribirse a esta página…">
-<!ENTITY addCurPagesCmd.label "Agregar todas las pestañas…">
+<!ENTITY addCurPagesCmd.label "Agregar las pestañas abiertas…">
 <!ENTITY showAllBookmarks2.label "Mostrar todos los marcadores">
-<!ENTITY bookmarkAllCmd.label "Agregar todas las pestañas…">
+<!ENTITY unsortedBookmarksCmd.label "Marcadores sin clasificar">
 <!ENTITY bookmarksToolbarChevron.tooltip "Mostrar más">
 <!ENTITY backCmd.label "Anterior">
 <!ENTITY backCmd.accesskey "t">
@@ -139,6 +139,8 @@
 <!ENTITY addons.label "Complementos">
 <!ENTITY addons.accesskey "C">
 <!ENTITY addons.commandkey "A">
+<!ENTITY webDeveloperMenu.label "Desarrollador Web">
+<!ENTITY webDeveloperMenu.accesskey "W">
 <!ENTITY errorConsoleCmd.label "Consola de errores">
 <!ENTITY errorConsoleCmd.accesskey "o">
 <!ENTITY errorConsoleCmd.commandkey "j">
@@ -148,6 +150,10 @@
 <!ENTITY inspectMenu.label "Inspector">
 <!ENTITY inspectMenu.accesskey "t">
 <!ENTITY inspectMenu.commandkey "I">
+<!ENTITY scratchpad.label "Scratchpad">
+<!ENTITY scratchpad.accesskey "s">
+<!ENTITY scratchpad.keycode "VK_F4">
+<!ENTITY scratchpad.keytext "F4">
 <!ENTITY inspectPanelTitle.label "HTML">
 <!ENTITY inspectButton.label "Inspector">
 <!ENTITY inspectButton.accesskey "I">
@@ -160,6 +166,8 @@
 <!ENTITY inspectStylePanelTitle.label "Stilo">
 <!ENTITY inspectObjectButton.label "Objeto">
 <!ENTITY inspectObjectButton.accesskey "O">
+<!ENTITY getMoreDevtoolsCmd.label "Conseguir más herramientas">
+<!ENTITY getMoreDevtoolsCmd.accesskey "M">
 <!ENTITY fileMenu.label "Archivo">
 <!ENTITY fileMenu.accesskey "A">
 <!ENTITY newNavigatorCmd.label "Ventana nueva">
