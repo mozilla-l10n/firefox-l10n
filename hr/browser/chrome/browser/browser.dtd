@@ -477,7 +477,7 @@ just addresses the organization to follow, e.g. "This site is run by " -->
 
 <!ENTITY backForwardItem.title        "Natrag/Naprijed">
 <!ENTITY  bookmarkAllTabs.accesskey          "T">
-<!ENTITY  bookmarkAllTabs.label              "Zabilješi sve kartice…">
+<!ENTITY  bookmarkAllTabs.label              "Zabilježi sve kartice…">
 <!ENTITY bookmarksMenuButton.label          "Zabilješke">
 <!ENTITY bookmarksMenuButton.tooltip        "Prikazuje sve zabilješke">
 <!ENTITY bookmarksMenuButton.unsorted.label "Neorganizirane zabilješke">
