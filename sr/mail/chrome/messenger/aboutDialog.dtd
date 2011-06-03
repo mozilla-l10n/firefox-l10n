@@ -1,16 +1,15 @@
-<!ENTITY aboutDialog.title      "О програму &brandFullName;">
-<!ENTITY aboutButton.label      "&lt; Назад">
-<!ENTITY aboutButton.accesskey  "Н">
-<!ENTITY aboutVersion           "издање">
-<!ENTITY aboutMenu.label        "О програму">
-<!ENTITY aboutMenu.accesskey    "О">
-<!ENTITY aboutCredits.label     "Заслуге">
-<!ENTITY aboutCredits.accesskey "З">
-<!ENTITY aboutRights.label      "Ваша права">
-<!ENTITY aboutRights.accesskey  "п">
+<!ENTITY aboutVersion "издање">
+<!ENTITY aboutDialog.title "О програму &brandFullName;">
+<!ENTITY aboutLicense.accesskey "Л">
+<!ENTITY aboutCredits.label "Заслуге">
 <!ENTITY aboutContributors.label "Приложници">
-<!ENTITY aboutContributors.accesskey "р">
-<!ENTITY aboutLicense.label      "Лиценца">
-<!ENTITY aboutLicense.accesskey  "Л">
-
+<!ENTITY aboutButton.accesskey "Н">
+<!ENTITY aboutRights.accesskey "п">
+<!ENTITY aboutLicense.label "Лиценца">
+<!ENTITY aboutMenu.label "О програму">
 <!ENTITY cmdCloseMac.commandKey "w">
+<!ENTITY aboutCredits.accesskey "З">
+<!ENTITY aboutButton.label "&lt; Назад">
+<!ENTITY aboutRights.label "Ваша права">
+<!ENTITY aboutMenu.accesskey "О">
+<!ENTITY aboutContributors.accesskey "р">
