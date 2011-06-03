@@ -74,7 +74,7 @@ can reach it easily. -->
 <!ENTITY addonBarCmd.accesskey "d">
 
 <!ENTITY pageSourceCmd.label "Zdrojový kód stránky">
-<!ENTITY pageSourceCmd.accesskey "Z">
+<!ENTITY pageSourceCmd.accesskey "k">
 <!ENTITY pageSourceCmd.commandkey "u">
 <!ENTITY pageInfoCmd.label "Informace o stránce">
 <!ENTITY pageInfoCmd.accesskey "I">
@@ -227,7 +227,7 @@ can reach it easily. -->
 <!ENTITY inspectObjectButton.accesskey "O">
 
 <!ENTITY getMoreDevtoolsCmd.label "Získat další nástroje">
-<!ENTITY getMoreDevtoolsCmd.accesskey "Z">
+<!ENTITY getMoreDevtoolsCmd.accesskey "n">
 
 <!ENTITY fileMenu.label "Soubor">
 <!ENTITY fileMenu.accesskey "S">
