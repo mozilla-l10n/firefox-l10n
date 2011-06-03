@@ -26,11 +26,6 @@
 <!-- categories / views -->
 <!ENTITY view.search.label                    "Потражи…">
 <!ENTITY view.discover.label                  "Набави додатке">
-<!ENTITY view.locales.label                   "Језици">
-<!ENTITY view.searchengines.label             "Механизме претраге">
-<!ENTITY view.features.label                  "Проширења">
-<!ENTITY view.appearance2.label               "Изглед">
-<!ENTITY view.plugins.label                   "Додаци">
 <!ENTITY view.recentUpdates.label             "Недавна ажурирања">
 <!ENTITY view.availableUpdates.label          "Доступна ажурирања">
 

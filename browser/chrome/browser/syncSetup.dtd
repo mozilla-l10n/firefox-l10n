@@ -43,7 +43,6 @@
 <!ENTITY setup.newSyncKeyPage.description.label "Да би потпуна приватност била обезбеђена, сви подаци се шифрују пре слања. Кључ за усклађивање, који је неопходан за дешифровање ваших података, није отпремљен.">
 <!ENTITY syncKeyEntry.label        "Ваш кључ за усклађивање">
 <!ENTITY syncKeyEntry.accesskey    "K">
-<!ENTITY syncKeyGenerate.label     "Створи">
 <!ENTITY syncKeyBackup.description "Потребан вам је кључ за усклађивање да бисте могли приступити &syncBrand.fullName.label;-у на другим уређајима. Направите резервну копију, јер не можемо да вам повратимо кључ ако га изгубите.">
 
 <!ENTITY button.syncKeyBackup.print.label     "Штампа…">

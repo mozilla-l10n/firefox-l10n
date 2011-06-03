@@ -6,7 +6,6 @@
 <!ENTITY editBookmarkOverlay.feedLocation.accesskey          "F">
 <!ENTITY editBookmarkOverlay.siteLocation.label              "Место сајта:">
 <!ENTITY editBookmarkOverlay.siteLocation.accesskey          "S">
-<!ENTITY editBookmarkOverlay.liveTitlesSeparator.label       "Живи наслови">
 <!ENTITY editBookmarkOverlay.folder.label                    "Директоријум:">
 <!ENTITY editBookmarkOverlay.foldersExpanderDown.tooltip     "Прикажи све директоријуме са забелешкама">
 <!ENTITY editBookmarkOverlay.expanderUp.tooltip              "Сакриј">

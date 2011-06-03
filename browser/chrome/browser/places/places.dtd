@@ -6,12 +6,9 @@
 <!ENTITY organize.accesskey    "O">
 <!ENTITY organize.tooltip      "Организујте своје забелешке">
 
-<!ENTITY file.accesskey                 "З">
 <!ENTITY file.close.label               "Zatvori">
 <!ENTITY file.close.accesskey           "C">
 <!ENTITY cmd.close.key                  "с">
-<!ENTITY edit.label                     "Уређивање">
-<!ENTITY edit.accesskey                 "E">
 <!ENTITY views.label                    "Прикази">
 <!ENTITY views.accesskey                "V">
 <!ENTITY views.tooltip                  "Промените свој приказ">
@@ -76,8 +73,6 @@
 
 <!ENTITY cmd.reloadLivebookmark.label      "Освежи живу забелешку">
 <!ENTITY cmd.reloadLivebookmark.accesskey  "R">
-<!ENTITY cmd.reloadMicrosummary.label      "Освежи живи наслов">
-<!ENTITY cmd.reloadMicrosummary.accesskey  "R">
 
 <!ENTITY cmd.moveBookmarks.label                  "Премести…">
 <!ENTITY cmd.moveBookmarks.accesskey              "M">
@@ -113,17 +108,14 @@
 <!ENTITY maintenance.accesskey  "I">
 <!ENTITY maintenance.tooltip    "Увезите своје забелешке и направите резервну копију">
 
-<!ENTITY backCmd.label       "Назад">
 <!ENTITY backButton.tooltip  "Повратак назад">
 
-<!ENTITY forwardCmd.label       "Проследи">
 <!ENTITY forwardButton.tooltip  "Кретање напред">
 
 <!ENTITY detailsPane.more.label "Још">
 <!ENTITY detailsPane.more.accesskey "e">
 <!ENTITY detailsPane.less.label "Мање">
 <!ENTITY detailsPane.less.accesskey "e">
-<!ENTITY detailsPane.noPreviewAvailable.label "Послушај">
 <!ENTITY detailsPane.selectAnItemText.description "Изаберите ставку за преглед и уредите њена својства">
 
 <!ENTITY find.label               "Нађи:">
