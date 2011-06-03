@@ -45,7 +45,7 @@
 <!ENTITY redoCmd.key "Y">
 <!ENTITY redoCmd.accesskey "o">
 
-<!ENTITY cutCmd.label "Vyjmou">
+<!ENTITY cutCmd.label "Vyjmout">
 <!ENTITY cutCmd.key "X">
 <!ENTITY cutCmd.accesskey "y">
 
