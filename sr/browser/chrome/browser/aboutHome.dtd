@@ -1,3 +1,7 @@
+<!ENTITY % brandDTD
+    SYSTEM "chrome://branding/locale/brand.dtd">
+  %brandDTD;
+
 <!ENTITY abouthome.searchEngineButton.label "Потражи…">
 <!ENTITY abouthome.defaultSnippet1.v1 "Хвала Вам што сте изабрали фајерфокс! Да бисте добили највише из вашег прегледача, сазнајте више о  <a>најновијим могућностима</a>.">
 <!ENTITY abouthome.pageTitle "&brandFullName; - почетна страница">

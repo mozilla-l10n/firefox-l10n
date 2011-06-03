@@ -1,3 +1,7 @@
+<!ENTITY % brandDTD SYSTEM "chrome://branding/locale/brand.dtd">
+%brandDTD;
+
+
 <!ENTITY securityOverride.exceptionButtonLabel "Додај изузетак…">
 <!ENTITY securityOverride.warningContent "<p>Не бисте требали да додајете изузетак ако користите Интернетску везу којој не верујете потпуно или ако нисте навикли да виђате упозорења за овај сервер.</p>
 
@@ -10,13 +14,15 @@
 </ul>">
 <!ENTITY dnsNotFound.longDesc "
 <ul>
-  <li>Kiểm tra các lỗi gõ địa chỉ như là
-    <strong>ww</strong>.example.com thay vì
+  <li>Проверите да ли је адреса исправно откуцана, на пример да нема
+    <strong>ww</strong>.example.com уместо
     <strong>www</strong>.example.com</li>
-  <li>Nếu bạn không thể mở bất kì trang nào, hãy kiểm tra kết nối mạng của bạn.</li>
-  <li>Nếu máy tính hoặc mạng của bạn được bảo vệ bởi tường lửa hoặc proxy, hãy chắc rằng &brandShortName; được phép truy cập Web.</li>
+  <li>Ако не можете да учитате ниједну страну, проверите да ли је мрежа активна.
+  </li>
+  <li>Ако су рачунар или мрежа заштићени заступником (proxy) или ватробраном (firewall) проверите да ли је програму &brandShortName; дозвољено да приступа вебу.</li>
 </ul>
 ">
+
 <!ENTITY netInterrupt.title "Веза је прекинута">
 <!ENTITY proxyConnectFailure.title "Посредник (proxy) одбија везе">
 <!ENTITY nssBadCert.title "Безбедна веза није успостављена">
