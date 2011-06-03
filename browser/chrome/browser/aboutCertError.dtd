@@ -1,8 +1,12 @@
+<!ENTITY % brandDTD
+    SYSTEM "chrome://branding/locale/brand.dtd">
+  %brandDTD;
+
 <!ENTITY certerror.pagetitle "Веза није од поверења">
 <!ENTITY certerror.expert.contentPara2 "Немојте додавати изузетке осим ако \n
 знате да постоји добар разлог зашто сајт не користи идентификацију 
 од поверења.">
-<!ENTITY certerror.getMeOutOfHere.label "Alisin ako dito!">
+<!ENTITY certerror.getMeOutOfHere.label "Води ме одавде!">
 <!ENTITY certerror.addException.label "Додај изузетак…">
 <!ENTITY certerror.introPara2 "Најчешће, када пробате да се повежете безбедно, \n
 сајтови ће послати идентификацију од поверења како би доказали да сте \n
