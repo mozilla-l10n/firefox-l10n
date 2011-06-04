@@ -71,11 +71,11 @@
 <!ENTITY consoleErrLine.label "Riga:">
 <!ENTITY consoleErrColumn.label "Colonna:">
 <!ENTITY contextOpenInNewTab.label "Apri in una nuova scheda">
-<!ENTITY contextSaveLink.label "Salva collegamento">
+<!ENTITY contextSaveLink.label "Salva link">
 <!ENTITY contextSaveImage.label "Salva immagine">
-<!ENTITY contextShareLink.label "Condividi collegamento">
+<!ENTITY contextShareLink.label "Condividi link">
 <!ENTITY contextShareImage.label "Condividi immagine">
-<!ENTITY contextBookmarkLink.label "Aggiungi collegamento ai segnalibri">
+<!ENTITY contextBookmarkLink.label "Aggiungi link ai segnalibri">
 <!ENTITY contextSaveVideo.label "Salva video">
 <!ENTITY contextShareVideo.label "Condividi video">
 <!ENTITY contextPlayMedia.label "Riproduci">
