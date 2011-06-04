@@ -4,7 +4,7 @@
 <!ENTITY editContactName.label "Nome:">
 <!ENTITY editContactName.accesskey "N">
 
-<!ENTITY editContactEmail.label "Correo-e:">
+<!ENTITY editContactEmail.label "Correo:">
 <!ENTITY editContactEmail.accesskey "e">
 
 <!ENTITY editContactAddressBook.label "Axenda de enderezos:">
@@ -15,3 +15,5 @@
 
 <!ENTITY editContactPanelDone.label "Feito">
 <!ENTITY editContactPanelDone.accesskey "t">
+
+<!ENTITY contactMoveDisabledWarning.description "Non é posíbel que cambie a axenda de enderezos porque o contacto está nunha rolda de correo.">

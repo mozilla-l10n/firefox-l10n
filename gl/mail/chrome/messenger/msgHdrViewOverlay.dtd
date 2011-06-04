@@ -130,6 +130,8 @@
 <!ENTITY detachAttachmentMenuItem.accesskey    "d">
 <!ENTITY deleteAttachmentMenuItem.label    "borrar">
 <!ENTITY deleteAttachmentMenuItem.accesskey    "o">
+<!ENTITY openAllAttachmentsMenuItem.label    "abrir todo…">
+<!ENTITY openAllAttachmentsMenuItem.accesskey    "t">
 <!ENTITY saveAllAttachmentsMenuItem.label    "gardar todo…">
 <!ENTITY saveAllAttachmentsMenuItem.accesskey    "g">
 <!ENTITY detachAllAttachmentsMenuItem.label    "desanexar todo…">

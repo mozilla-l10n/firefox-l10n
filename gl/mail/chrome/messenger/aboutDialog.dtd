@@ -1,3 +1,83 @@
 <!ENTITY aboutDialog.title      "Sobre o &brandFullName;">
 
+<!ENTITY community.start2           "&brandShortName; está deseñado por ">
+<!-- LOCALIZATION NOTE (community.mozillaLink): This is a link title that links to http://www.mozilla.org/. -->
+<!ENTITY community.mozillaLink      "&vendorShortName;">
+<!ENTITY community.middle2          ", unha ">
+<!-- LOCALIZATION NOTE (community.creditsLink): This is a link title that links to about:credits. -->
+<!ENTITY community.creditsLink      "comunidade global">
+<!ENTITY community.end2             " traballando unida para facer unha Internet mellor. Cremos que a Internet debería ser aberta, pública e accesíbel para todos sen ningunha restrición.">
+
+<!ENTITY contribute.start           "Soa interesante? ">
+<!-- LOCALIZATION NOTE (contribute.getInvolvedLink): This is a link title that links to http://www.mozilla.org/contribute/. -->
+<!ENTITY contribute.getInvolvedLink "Involúcrese!">
+<!ENTITY contribute.end             "">
+
+<!-- LOCALIZATION NOTE (bottomLinks.license): This is a link title that links to about:license. -->
+<!ENTITY bottomLinks.license        "Información de licenciamento">
+
+<!-- LOCALIZATION NOTE (bottomLinks.rights): This is a link title that links to about:rights. -->
+<!ENTITY bottomLinks.rights         "Dereitos do usuario final">
+
+<!-- LOCALIZATION NOTE (bottomLinks.privacy): This is a link title that links to http://www.mozilla.com/legal/privacy/. -->
+<!ENTITY bottomLinks.privacy        "Política de privacidade">
+
+<!-- LOCALIZATION NOTE (update.checkingForUpdates): try to make the localized text short (see bug 596813 for screenshots). -->
+<!ENTITY update.checkingForUpdates  "Comprobando actualizacións…">
+<!-- LOCALIZATION NOTE (update.checkingAddonCompat): try to make the localized text short (see bug 596813 for screenshots). -->
+<!ENTITY update.checkingAddonCompat "Comprobando a compatibilidade dos complementos…">
+<!-- LOCALIZATION NOTE (update.noUpdatesFound): try to make the localized text short (see bug 596813 for screenshots). -->
+<!ENTITY update.noUpdatesFound      "&brandShortName; está actualizado">
+<!-- LOCALIZATION NOTE (update.adminDisabled): try to make the localized text short (see bug 596813 for screenshots). -->
+<!ENTITY update.adminDisabled       "O administrador do sistema desactivou as actualizacións">
+
+<!-- LOCALIZATION NOTE (update.failed.start,update.failed.linkText,update.failed.end):
+     update.failed.start, update.failed.linkText, and update.failed.end all go into
+     one line with linkText being wrapped in an anchor that links to a site to download
+     the latest version of Firefox (e.g. http://www.firefox.com). As this is all in
+     one line, try to make the localized text short (see bug 596813 for screenshots). -->
+<!ENTITY update.failed.start        "Fallou a actualización. ">
+<!ENTITY update.failed.linkText     "Descargar a última versión">
+<!ENTITY update.failed.end          "">
+
+<!-- LOCALIZATION NOTE (update.manual.start,update.manual.end): update.manual.start and update.manual.end
+     all go into one line and have an anchor in between with text that is the same as the link to a site
+     to download the latest version of Firefox (e.g. http://www.firefox.com). As this is all in one line,
+     try to make the localized text short (see bug 596813 for screenshots). -->
+<!ENTITY update.manual.start        "Descargar a ">
+<!ENTITY update.manual.linkText     "última versión">
+<!ENTITY update.manual.end          "">
+
+<!-- LOCALIZATION NOTE (update.downloading.start,update.downloading.end): update.downloading.start and 
+     update.downloading.end all go into one line, with the amount downloaded inserted in between. As this
+     is all in one line, try to make the localized text short (see bug 596813 for screenshots). The — is
+     the "em dash" (long dash).
+     example: Downloading update — 111 KB of 13 MB -->
+<!ENTITY update.downloading.start   "Descargando actualización — ">
+<!ENTITY update.downloading.end     "">
+
+<!-- LOCALIZATION NOTE (channel.description.start,channel.description.end): channel.description.start and
+     channel.description.end create one sentence, with the current channel label inserted in between.
+     example: You are currently on the _Stable_ update channel. -->
+<!ENTITY channel.description.start  "Actualmente está usando o canal de actualización ">
+<!ENTITY channel.description.end    ".">
+
+<!ENTITY channel.change             "Cambiar">
+
+<!ENTITY channel.release.description       "Goza da versión final probada por centos de millóns de persoas ao redor do mundo. Manteña o control da súa experiencia na rede cunha velocidade incríbel, facilidade de personalización e as últimas tecnoloxías web.">
+<!ENTITY channel.beta.description          "Experimente as últimas funcionalidades nun entorno estábel. Déanos a súa opinión para axudarnos a refinar e pulir a versión final.">
+<!ENTITY channel.aurora.description        "Experimente as últimas innovacións nun entorno inestábel --non apto para todos. Déanos a súa opinión das características e o rendemento para axudarnos a decidir que incluirá a versión final.">
+
+<!-- LOCALIZATION NOTE (channel.selector.start,channel.selector.end): channel.selector.start and
+     channel.selector.end create one sentence, with a channel selection menulist instered in between.
+     This is all in one line, so try to make the localized text short.
+     example: Switch to the [Stable] update channel. -->
+<!ENTITY channel.selector.start          "Cambiar ao canal de actualización ">
+<!ENTITY channel.selector.end            ".">
+
+<!-- LOCALIZATION NOTE (channel.selector.applyButton): This button applies the user's choice to switch
+     to a new update channel and starts the application update process. -->
+<!ENTITY channel.selector.applyButton    "Aplicar e actualizar">
+<!ENTITY channel.selector.cancelButton   "Cancelar">
+
 <!ENTITY cmdCloseMac.commandKey "w">
