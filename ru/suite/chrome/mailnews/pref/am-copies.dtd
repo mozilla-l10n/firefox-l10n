@@ -1,9 +1,9 @@
 <!ENTITY copyAndFolderTitle.label "Копии и папки">
-<!ENTITY sendingPrefix.label "При отправлении сообщений автоматически:">
-<!ENTITY fccMailFolder.label "Помещать копию сообщения в:">
+<!ENTITY sendingPrefix.label "При отправке сообщений:">
+<!ENTITY fccMailFolder.label "Автоматически помещать копию в:">
 <!ENTITY fccMailFolder.accesskey "м">
 <!ENTITY fccReplyFollowsParent.label "Сохранять ответы в папке оригинала">
-<!ENTITY fccReplyFollowsParent.accesskey "т">
+<!ENTITY fccReplyFollowsParent.accesskey "я">
 <!ENTITY ccAddress.label "Отправлять копии (Cc) по адресам:">
 <!ENTITY ccAddress.accesskey "т">
 <!ENTITY ccAddressList.placeholder "Разделяйте адреса запятыми">
