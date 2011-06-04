@@ -389,6 +389,7 @@
 <!-- Toolbar-only items -->
 <!ENTITY menuBar.tooltip "Barra de menú">
 <!ENTITY formatToolbar.tooltip "Barra de formatación">
+<!ENTITY newToolbarCmd.label "Novo">
 <!ENTITY newToolbarCmd.tooltip "Crear unha páxina nova do Composer">
 <!ENTITY openToolbarCmd.label "Abrir">
 <!ENTITY openToolbarCmd.tooltip "Abrir un ficheiro local">
