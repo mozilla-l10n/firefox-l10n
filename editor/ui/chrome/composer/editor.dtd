@@ -44,6 +44,16 @@
 
 <!-- Toolbar-only items -->
 <!ENTITY compositionToolbar.tooltip "Barra de ferramentas de composición">
+<!ENTITY previewToolbarCmd.label "Navegar">
+<!ENTITY previewToolbarCmd.tooltip "Cargar esta páxina no navegador">
+
+<!-- File menu items -->
+<!ENTITY exportToTextCmd.label "Exportar a texto…">
+<!ENTITY exportToTextCmd.accesskey "t">
+<!ENTITY previewCmd.label "Navegar pola páxina">
+<!ENTITY previewCmd.accesskey "v">
+<!ENTITY sendPageCmd.label "Enviar páxina…">
+<!ENTITY sendPageCmd.accesskey "n">
 
 <!-- View menu items -->
 <!ENTITY compositionToolbarCmd.label "Barra de ferramentas de composición">
@@ -56,6 +66,14 @@
 <!-- Format menu items -->
 <!ENTITY formatMenu.label "Formato">
 <!ENTITY formatMenu.accesskey "o">
+<!ENTITY grid.label "Grade de posicionamento">
+<!ENTITY grid.accesskey "t">
+<!ENTITY pageProperties.label "Propiedades e título da páxina…">
+<!ENTITY pageProperties.accesskey "P">
+
+<!-- Tools menu items -->
+<!ENTITY validateCmd.label "Validar HTML">
+<!ENTITY validateCmd.accesskey "V">
 
 <!-- Display Mode toolbar and View menu items -->
 <!ENTITY NormalModeTab.label "Normal">

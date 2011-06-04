@@ -752,7 +752,14 @@ you can use these alternative items. Otherwise, their values should be empty.  -
 <!-- Phishing Bar -->
 <!ENTITY phishingBarMessage2.label "Esta mensaxe é sospeitosa de fraude">
 <!ENTITY removePhishingBarButton1.label "Ignorar aviso">
+<!ENTITY disablePhishingWarning1.label "Desactivar a detección de mensaxes fraudulentas">
 <!ENTITY reportPhishingError1.label "Esta non é unha mensaxe fraudulenta">
+
+<!-- MDN Bar -->
+<!ENTITY mdnBarIgnoreButton2.label "Ignorar">
+<!ENTITY mdnBarIgnoreButton2.accesskey "I">
+<!ENTITY mdnBarSendButton2.label "Enviar aviso de recepción">
+<!ENTITY mdnBarSendButton2.accesskey "s">
 
 <!-- Quick Search Bar -->
 <!-- LOCALIZATION NOTE (quickSearchCmd.key):
