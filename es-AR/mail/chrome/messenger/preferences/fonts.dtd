@@ -7,8 +7,8 @@
 <!ENTITY  language.accesskey                      "t">
 
 <!ENTITY  size.label                             "Tamaño:">
-<!ENTITY  proportionalSize.accesskey              "e">
-<!ENTITY  sizeMono.accesskey                      "i">
+<!ENTITY  proportionalSize.accesskey              "o">
+<!ENTITY  sizeMono.accesskey                      "m">
 
 <!ENTITY  proportional.label                      "Proporcional:">
 <!ENTITY  proportional.accesskey                  "P">
@@ -18,7 +18,7 @@
 <!ENTITY  sans-serif.label                        "Sans-serif:">
 <!ENTITY  sans-serif.accesskey                    "n">
 <!ENTITY  monospace.label                         "Monospace:">
-<!ENTITY  monospace.accesskey                     "m">
+<!ENTITY  monospace.accesskey                     "e">
 
 <!ENTITY  font.langGroup.latin1                   "Occidental">
 <!ENTITY  font.langGroup.latin2                   "Europeo central">
