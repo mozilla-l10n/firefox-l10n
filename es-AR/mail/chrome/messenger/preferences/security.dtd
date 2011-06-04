@@ -50,7 +50,7 @@
 <!ENTITY keepUntil.label                "Mantener hasta:">
 <!ENTITY keepUntil.accesskey            "M">
 <!ENTITY expire.label                   "que expiren">
-<!ENTITY close.label                    "Cierre &brandShortName;">
+<!ENTITY close.label                    "cierre &brandShortName;">
 <!ENTITY askEachTime.label              "preguntarme cada vez">
 <!ENTITY cookieExceptions.label         "Excepciones…">
 <!ENTITY cookieExceptions.accesskey     "E">
