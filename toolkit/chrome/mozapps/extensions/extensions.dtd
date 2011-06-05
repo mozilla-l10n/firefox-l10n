@@ -16,7 +16,6 @@ Entities below were automatically added by compare-locales,
 <!ENTITY discover.description2 "Add-ons are applications that let you personalize &brandShortName; with
   extra functionality or style. Try a time-saving sidebar, a weather notifier, or a themed look to make &brandShortName;
   your own.">
-<!ENTITY view.features.label "දිගුකිරීම්">
 <!ENTITY search.filter2.available.label "තිබෙන ඇඩෝන">
 <!ENTITY updates.updateSelected.tooltip "මෙම ලැයිස්තුවේ පවතින යාවත්කාලීන ස්ථාපනය කරන්න">
 <!ENTITY search.filter2.installed.label "මගේ ඇඩෝන">
@@ -54,7 +53,6 @@ Entities below were automatically added by compare-locales,
 <!ENTITY cmd.showPreferencesWin.tooltip "මෙම ඇඩෝනයේ විකල්ප වෙනස් කරන්න">
 <!ENTITY addon.undoAction.label "අහොස් කරන්න">
 <!ENTITY detail.creator.label "සංවර්ධකයා">
-<!ENTITY view.searchengines.label "සෙවුම් යන්ත්‍ර">
 <!ENTITY addon.install.label "ස්ථාපනය කරන්න">
 <!ENTITY cmd.enableTheme.accesskey "W">
 <!ENTITY addon.updateNow.tooltip "මෙම ඇඩෝනයේ යාවත්කාලීන ස්ථාපනය කරන්න">
@@ -71,7 +69,6 @@ Entities below were automatically added by compare-locales,
 <!ENTITY updates.installed.label "ඔබගේ ඇඩෝන යාවත්කාලීන නර ඇත.">
 <!ENTITY sort.dateUpdated.label "අවසන් වරට යාවත්කාලීන කළේ">
 <!ENTITY cmd.contribute.tooltip "මෙම ඇඩෝනයේ සංවර්ධනය වෙනුවෙන් දායකවන්න">
-<!ENTITY view.appearance2.label "පෙනුම">
 <!ENTITY updates.checkForUpdates.label "යාවත්කාලීන සඳහා පරීක්ෂා කරන්න">
 <!ENTITY warning.updatesecurity.label "Add-on update security checking is disabled. You may be compromised by updates.">
 <!ENTITY cmd.hideReleaseNotes.label "නිකුතු සටහන් සඟවන්න">
@@ -95,7 +92,6 @@ Entities below were automatically added by compare-locales,
 <!ENTITY detail.showPreferencesWin.accesskey "O">
 <!ENTITY addon.errorLoadingReleaseNotes.label "කණගාටුයි, නිකුතු සටහන් පූරණය කිරීමේදී දෝෂයකි.">
 <!ENTITY addon.homepage "මුල්පිටුව">
-<!ENTITY view.locales.label "භාෂාවන්">
 <!ENTITY addon.checkingForUpdates.label "යාවත්කාලීන සඳහා පරීක්ෂා කරයි…">
 <!ENTITY updates.viewUpdates.accesskey "V">
 <!ENTITY addon.restartNow.label "දැන් ප්‍රත්‍යාරම්භ (Restart) කරන්න">
@@ -148,7 +144,6 @@ Entities below were automatically added by compare-locales,
 <!ENTITY cmd.back.tooltip "පිටුවක් පසුපසට යන්න">
 <!ENTITY warning.checkcompatibility.label "ඇඩෝන අනුකූලතා පරීක්ෂාව අබල (disable) කර ඇත. මෙහි අනුකූල නොවන ඇඩෝන තිබිය හැකිය.">
 <!ENTITY detail.showPreferencesWin.label "විකල්ප">
-<!ENTITY view.plugins.label "ප්ලගීන">
 <!ENTITY progress.pause.tooltip "නවතන්න">
 <!ENTITY cmd.installAddon.label "ස්ථාපනය කරන්න">
 <!ENTITY cmd.uninstallAddon.accesskey "R">
@@ -161,3 +156,6 @@ Entities below were automatically added by compare-locales,
 <!ENTITY detail.updateAutomatic.tooltip "ස්වයංක්‍රීයව යාවත්කාලීන ස්ථාපනය කරන්න">
 <!ENTITY cmd.disableTheme.accesskey "W">
 <!ENTITY cmd.enableTheme.label "තේමාව දමන්න">
+<!-- global informations -->
+<!ENTITY info.plugincheck.label                 "ඔබගේ ප්ලගීන යාවත්කාලීනව ඇත්නම් පරීක්ෂා කරන්න">
+<!ENTITY info.plugincheck.tooltip               "ඔබගේ ප්ලගීන යාවත්කාලීනව ඇත්නම් පරීක්ෂා කරන්න">

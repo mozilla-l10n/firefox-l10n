@@ -6,7 +6,6 @@
 <!ENTITY editBookmarkOverlay.feedLocation.accesskey          "F">
 <!ENTITY editBookmarkOverlay.siteLocation.label              "අඩවි පිහිටුම:">
 <!ENTITY editBookmarkOverlay.siteLocation.accesskey          "S">
-<!ENTITY editBookmarkOverlay.liveTitlesSeparator.label       "සජීවි සිරස්තල">
 <!ENTITY editBookmarkOverlay.folder.label                    "බහලුම:">
 <!ENTITY editBookmarkOverlay.foldersExpanderDown.tooltip     "සියලු පිටු සලකුණු බහලුම් දර්ශනය කරන්න">
 <!ENTITY editBookmarkOverlay.expanderUp.tooltip              "සඟවන්න">

@@ -4,12 +4,9 @@
 <!ENTITY organize.accesskey    "O">
 <!ENTITY places.library.width  "700">
 <!ENTITY places.library.height "500">
-<!ENTITY file.accesskey                 "F">
 <!ENTITY file.close.label               "වසන්න">
 <!ENTITY file.close.accesskey           "C">
 <!ENTITY cmd.close.key                  "w">
-<!ENTITY edit.label                     "සකසන්න">
-<!ENTITY edit.accesskey                 "E">
 <!ENTITY views.label                    "දර්ශනය">
 <!ENTITY views.accesskey                "V">
 <!ENTITY view.columns.label             "තීරු දර්ශනය">
@@ -67,8 +64,6 @@
 
 <!ENTITY cmd.reloadLivebookmark.label      "සජීවි පිටු සලකුණ යළි පූරණය">
 <!ENTITY cmd.reloadLivebookmark.accesskey  "R">
-<!ENTITY cmd.reloadMicrosummary.label      "සජීවි සිරස්තල යළි පූරණය">
-<!ENTITY cmd.reloadMicrosummary.accesskey  "R">
 
 
 <!ENTITY cmd.moveBookmarks.label                  "ගෙන යන්න…">
@@ -103,17 +98,14 @@
 <!ENTITY maintenance.label      "ආයාත සහ රක්‍ෂිත">
 <!ENTITY maintenance.accesskey  "I">
 
-<!ENTITY backCmd.label       "පසුපසට">
 <!ENTITY backButton.tooltip  "පසුපසට යන්න">
 
-<!ENTITY forwardCmd.label       "ඉදිරියට">
 <!ENTITY forwardButton.tooltip  "ඉදිරියට යන්න">
 
 <!ENTITY detailsPane.more.label "බොහෝ">
 <!ENTITY detailsPane.more.accesskey "e">
 <!ENTITY detailsPane.less.label "අඩු">
 <!ENTITY detailsPane.less.accesskey "e">
-<!ENTITY detailsPane.noPreviewAvailable.label "පුර්‍ව දසුන">
 <!ENTITY detailsPane.selectAnItemText.description "වත්කම් දර්ශනයට සහ සැකසීමට අයිතමයක් තෝරන්න">
 <!ENTITY cmd.delete.label               "මෙම පිටුව මකන්න">
 <!ENTITY cmd.delete.accesskey           "D">
