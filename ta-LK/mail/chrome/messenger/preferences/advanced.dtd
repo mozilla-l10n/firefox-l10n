@@ -1,6 +1,6 @@
 <!ENTITY itemGeneral.label "பொது">
 <!ENTITY itemUpdate.label "இற்றைப்படுத்தல்">
-<!ENTITY itemDisplay.label       "&amp வாசிக்கப்படுகிறது; காட்சி">
+<!ENTITY itemDisplay.label       "Reading &amp; Display">
 <!ENTITY itemNetworking.label "வலையமைப்பும் வட்டுத்தளமும்">
 <!ENTITY itemCertificates.label "சான்றிதழ்கள்">
 
@@ -33,8 +33,6 @@
 <!ENTITY reuseExpRadio0.accesskey "i">
 <!ENTITY reuseExpRadio1.label "அதே அஞ்சல் சாளரத்தில்">
 <!ENTITY reuseExpRadio1.accesskey "x">
-<!ENTITY closeMsgWindowOnDelete.label  "Close message window on delete">
-<!ENTITY closeMsgWindowOnDelete.accesskey "C">
 <!ENTITY configEditDesc.label "உயர்தர கட்டமைப்பு">
 <!ENTITY configEdit.label "கட்டமைப்பு செவ்வையாளன்....">
 <!ENTITY configEdit.accesskey "g">
@@ -79,7 +77,6 @@
 <!ENTITY Diskspace "உள்ள வட்டுத்தளம்">
 <!ENTITY offlineCompact.label "சேமிக்கும் போது அடைவை ஒழுங்குப்படுத்துக">
 <!ENTITY offlineCompact.accesskey "v">
-<!ENTITY kb.label "KB">
 
 <!-- LOCALIZATION NOTE:
   The entities useCacheBefore.label and useCacheAfter.label appear on a single
@@ -108,3 +105,13 @@
 <!ENTITY validation.accesskey           "d">
 <!ENTITY viewSecurityDevices.label "பாதுகாப்பு சாதனங்கள்">
 <!ENTITY viewSecurityDevices.accesskey "u">
+
+
+<!--
+Entities below were automatically added by compare-locales,
+ based on en-US entities.
+-->
+
+<!ENTITY closeMsgOnMoveOrDelete.accesskey "C">
+<!ENTITY mb.label "MB">
+<!ENTITY closeMsgOnMoveOrDelete.label "Close message window/tab on move or delete">

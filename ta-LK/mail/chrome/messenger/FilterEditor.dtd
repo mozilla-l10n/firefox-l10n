@@ -44,3 +44,11 @@
 <!ENTITY watchThread.label "Threadஐ கவனிக்கவும்">
 <!ENTITY stopExecution.label "வடி இயக்கத்தினை நிறுத்துக">
 
+
+
+<!--
+Entities below were automatically added by compare-locales,
+ based on en-US entities.
+-->
+
+<!ENTITY filterEditorDialog.dimensions "width: 100ch;">

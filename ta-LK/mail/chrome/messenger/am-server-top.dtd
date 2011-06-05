@@ -25,8 +25,6 @@
 <!ENTITY connectionSecurityType-1.label "STARTTLS, if available">
 <!ENTITY connectionSecurityType-2.label "STARTTLS">
 <!ENTITY connectionSecurityType-3.label "SSL/TLS">
-<!ENTITY useSecAuth.label "பாதுகாப்பான உறுதிப்படுத்தலை பயன்படுத்துக">
-<!ENTITY useSecAuth.accesskey "i">
 <!ENTITY leaveOnServer.label "சேவையகத்தில் செய்திகளை விடுக">
 <!ENTITY leaveOnServer.accesskey "g">
 <!ENTITY headersOnly.label "தலைப்புக்களை மட்டும் கொணர்க">
@@ -77,3 +75,12 @@
 <!ENTITY newsrcPicker.label "புதிய newsrc கோப்பை தெரிவு செய்க">
 <!ENTITY browseNewsrc.label "உலாவு">
 <!ENTITY browseNewsrc.accesskey "e">
+
+
+<!--
+Entities below were automatically added by compare-locales,
+ based on en-US entities.
+-->
+
+<!ENTITY authMethod.accesskey "i">
+<!ENTITY authMethod.label "Authentication method:">

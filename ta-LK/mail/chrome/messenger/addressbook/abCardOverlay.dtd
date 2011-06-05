@@ -143,9 +143,7 @@ content in HTML messages from this contact.">
 <!ENTITY Birthday.label                 "பிறந்தநாள்:">
 <!ENTITY Birthday.accesskey             "B">
 <!ENTITY In.label                       "">
-<!ENTITY Year.emptytext                 "ஆண்டு">
 <!ENTITY Or.value                       "or">
-<!ENTITY Age.emptytext                  "வயது">
 <!ENTITY YearsOld.label                 "">
 
 <!ENTITY Custom1.label                  "தனிப்பயன் 1:">
@@ -171,6 +169,17 @@ content in HTML messages from this contact.">
 <!ENTITY BrowsePhoto.accesskey          "r">
 <!ENTITY PhotoURL.label                 "On the Web">
 <!ENTITY PhotoURL.accesskey             "b">
-<!ENTITY PhotoURL.emptytext             "Paste or type the web address of a photo">
 <!ENTITY UpdatePhoto.label              "Update">
 <!ENTITY UpdatePhoto.accesskey          "u">
+
+
+<!--
+Entities below were automatically added by compare-locales,
+ based on en-US entities.
+-->
+
+<!ENTITY preferDisplayName.accesskey "y">
+<!ENTITY PhotoURL.placeholder "Paste or type the web address of a photo">
+<!ENTITY Age.placeholder "Age">
+<!ENTITY Year.placeholder "Year">
+<!ENTITY preferDisplayName.label "Always prefer display name over message header">

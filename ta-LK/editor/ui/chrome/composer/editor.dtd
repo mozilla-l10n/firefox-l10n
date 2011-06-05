@@ -43,8 +43,6 @@
 <!-- Menu items:  the . means that the menu item isn't implemented yet -->
 
 <!-- View menu items -->
-<!ENTITY viewMenu.label "நோக்குக">
-<!ENTITY viewMenu.accesskey "V">
 <!ENTITY compositionToolbarCmd.label "Composition கருவிப்பட்டை">
 <!ENTITY compositionToolbarCmd.accesskey "C">
 <!ENTITY formattingToolbarCmd.label "கருவிப்பட்டையை வடிவமைக்குக">
@@ -56,3 +54,42 @@
 <!ENTITY formatMenu.label "வடிவமைக்குக">
 <!ENTITY formatMenu.accesskey "o">
 
+
+
+<!--
+Entities below were automatically added by compare-locales,
+ based on en-US entities.
+-->
+
+<!ENTITY PreviewMode.label "Preview">
+<!ENTITY HTMLSourceModeTab.label "Source">
+<!ENTITY sendPageCmd.accesskey "d">
+<!ENTITY grid.label "Positioning grid">
+<!ENTITY previewToolbarCmd.tooltip "Load this page in the browser">
+<!ENTITY AllTagsMode.tooltip "Display icons for all HTML tags">
+<!ENTITY NormalMode.accesskey "N">
+<!ENTITY NormalMode.label "Normal Edit Mode">
+<!ENTITY previewCmd.accesskey "w">
+<!ENTITY AllTagsMode.label "HTML Tags">
+<!ENTITY HTMLSourceModeTab.dir "ltr">
+<!ENTITY AllTagsMode.accesskey "a">
+<!ENTITY pageProperties.label "Page Title and Properties…">
+<!ENTITY HTMLSourceMode.accesskey "H">
+<!ENTITY PreviewMode.accesskey "P">
+<!ENTITY sendPageCmd.label "Send Page…">
+<!ENTITY NormalModeTab.label "Normal">
+<!ENTITY pageProperties.accesskey "g">
+<!ENTITY exportToTextCmd.label "Export to Text…">
+<!ENTITY grid.accesskey "t">
+<!ENTITY AllTagsModeTab.label "HTML Tags">
+<!ENTITY previewToolbarCmd.label "Browse">
+<!ENTITY HTMLSourceMode.label "HTML Source">
+<!ENTITY compositionToolbar.tooltip "Composition Toolbar">
+<!ENTITY PreviewMode.tooltip "Display as WYSIWYG (as in the browser)">
+<!ENTITY validateCmd.accesskey "V">
+<!ENTITY exportToTextCmd.accesskey "T">
+<!ENTITY validateCmd.label "Validate HTML">
+<!ENTITY HTMLSourceMode.tooltip "Edit HTML source">
+<!ENTITY PreviewModeTab.label "Preview">
+<!ENTITY previewCmd.label "Browse Page">
+<!ENTITY NormalMode.tooltip "Show table borders and named anchors">

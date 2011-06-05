@@ -34,7 +34,6 @@
 <!ENTITY printPreviewAddressBook.accesskey "B">
 <!ENTITY printAddressBook.label "முகவரிப் புத்தகத்தை அச்சிடு">
 <!ENTITY printAddressBook.accesskey "A">
-<!ENTITY printPreviewAddressBook.accesskey              "B">
 <!ENTITY printContactCmd.label                          "தொடர்பை அச்சிடுக…">
 <!ENTITY printContactCmd.accesskey                      "P">
 <!ENTITY printContactCmd.key                            "P">

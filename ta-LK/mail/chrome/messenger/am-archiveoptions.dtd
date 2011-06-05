@@ -1,0 +1,20 @@
+
+
+<!--
+Entities below were automatically added by compare-locales,
+ based on en-US entities.
+-->
+
+<!ENTITY archiveFlat.accesskey "s">
+<!ENTITY archiveExample.label "Example">
+<!ENTITY archiveGranularityPrefix.label "When archiving messages, place them in:">
+<!ENTITY inboxFolderName.label "Inbox">
+<!ENTITY keepFolderStructure.accesskey "K">
+<!ENTITY archiveFolderName.label "Archives">
+<!ENTITY archiveFlat.label "A single folder">
+<!ENTITY archiveMonthly.accesskey "M">
+<!ENTITY archiveYearly.accesskey "Y">
+<!ENTITY dialogTitle.label "Archive Options">
+<!ENTITY archiveYearly.label "Yearly archived folders">
+<!ENTITY archiveMonthly.label "Monthly archived folders">
+<!ENTITY keepFolderStructure.label "Keep existing folder structure of archived messages">

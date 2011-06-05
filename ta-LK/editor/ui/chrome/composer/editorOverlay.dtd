@@ -45,9 +45,6 @@
 <!-- File menu items -->
 <!ENTITY fileMenu.label "கோப்பு">
 <!ENTITY fileMenu.accesskey "F">
-<!ENTITY newBlankPageCmd.label "இயற்றுபவர் பக்கம்">
-<!ENTITY newBlankPageCmd.accesskey "P" >
-<!ENTITY newMenu.label "பதிய">
 <!ENTITY openFileCmd.label "கோப்பை திறக்கவும்…">
 <!ENTITY openFileCmd.accesskey "O">
 <!ENTITY openFileCmd.key "O">
@@ -69,14 +66,8 @@
 <!ENTITY publishCmd.key "S">
 <!ENTITY publishAsCmd.label "ஆக பிரசுரிக்கவும்…">
 <!ENTITY publishAsCmd.accesskey "h">
-<!ENTITY exportToTextCmd.label "உரையாக ஏற்றுமதி செய்க…">
-<!ENTITY exportToTextCmd.accesskey "T">
 <!ENTITY saveAsChangeEncodingCmd.label "எழுத்து குறிமுறையை சேமித்துவிட்டு மாற்றுக">
 <!ENTITY saveAsChangeEncodingCmd.accesskey "E">
-<!ENTITY previewCmd.label "பக்கத்தில் உலாவுக">
-<!ENTITY previewCmd.accesskey "w">
-<!ENTITY sendPageCmd.label "பக்கத்தை அனுப்புக…">
-<!ENTITY sendPageCmd.accesskey "d">
 <!ENTITY printSetupCmd.label "பக்க அமைப்பு…">
 <!ENTITY printSetupCmd.accesskey "u">
 <!ENTITY printCmd.label "அச்சிடுக…">
@@ -115,8 +106,6 @@
 <!ENTITY checkSpellingCmd2.label "எழுத்துக்கூட்டை சரிபார்க்க">
 <!ENTITY checkSpellingCmd2.accesskey "h">
 <!ENTITY checkSpellingCmd2.key "p">
-<!ENTITY validateCmd.label "HTML இனை உறுதி்ப்படுத்துக">
-<!ENTITY validateCmd.accesskey "V">
 
 <!-- Insert menu items -->
 <!ENTITY insertMenu.label "உள்ளிடுக">
@@ -331,11 +320,6 @@
 <!ENTITY decreaseIndent.accesskey "D">
 <!ENTITY decreaseIndent.key "[">
 
-<!ENTITY grid.label "கட்டயிடத்தை அமைப்பது">
-<!ENTITY grid.accesskey "t">
-
-<!ENTITY pageProperties.label "பக்கத் தலைப்பும் பண்பியல்புகளும்…">
-<!ENTITY pageProperties.accesskey "g">
 <!ENTITY colorsAndBackground.label "பக்க வண்ணங்களும் பின்னணியும்…">
 <!ENTITY colorsAndBackground.accesskey "u">
 
@@ -404,15 +388,12 @@
 
 <!-- Toolbar-only items -->
 <!ENTITY menuBar.tooltip "பட்டிப் பட்டை">
-<!ENTITY compositionToolbar.tooltip "இயற்றும் கருவிப்பட்டை">
 <!ENTITY formatToolbar.tooltip "வடிவமைக்கும் கருவிப்பட்டை">
 <!ENTITY newToolbarCmd.tooltip "ஒரு புதிய ஆக்கும் பக்கத்தை உருவாக்குக">
 <!ENTITY openToolbarCmd.label "திறக்க">
 <!ENTITY openToolbarCmd.tooltip "ஒரு உள்கோப்பை திறக்க">
 <!ENTITY saveToolbarCmd.tooltip "உள் அமைவில் கோப்பை சேமிக்க">
 <!ENTITY publishToolbarCmd.tooltip "தொலைதூர அமைவில் கோப்பை ஏற்றுக">
-<!ENTITY previewToolbarCmd.label "உலாவுக">
-<!ENTITY previewToolbarCmd.tooltip "உலாவியில் இந்த பக்கத்தை ஏற்றுக">
 <!ENTITY printToolbarCmd.label "அச்சிடுக">
 <!ENTITY printToolbarCmd.tooltip "இந்த பக்கத்தை அச்சடிக்கவும்">
 <!ENTITY findToolbarCmd.label "கண்டுபிடிக்க">
@@ -449,33 +430,8 @@
 <!ENTITY alignLeftButton.tooltip "உரையை இடது கரையுடன் இசைவு செய்க">
 <!ENTITY alignCenterButton.tooltip "உரையை மையத்தில் இசைவு செய்க">
 <!ENTITY alignRightButton.tooltip "உரையை வலது கரையுடன் இசைவு செய்க">
-<!ENTITY alignjustifyButton.tooltip "உரையை இடது மற்றும் வலது கரைகளுடன் இசைவு செய்க">
+<!ENTITY alignJustifyButton.tooltip "உரையை இடது மற்றும் வலது கரைகளுடன் இசைவு செய்க">
 
-<!-- Display Mode toolbar and View menu items -->
-<!ENTITY NormalModeTab.label "சாதாரண">
-<!ENTITY NormalMode.label "சாதாரண செவ்வையாக்கி முறைமை">
-<!ENTITY NormalMode.accesskey "n">
-<!ENTITY NormalMode.tooltip "பட்டியலின் கரைகள் மற்றும் பெயரிடப்பட்ட தொகுப்புகளை காட்டுக">
-<!ENTITY AllTagsMode.label "HTML ஒட்டுகள்">
-<!ENTITY AllTagsMode.accesskey "A">
-<!ENTITY AllTagsMode.tooltip "அனைத்து HTML ஒட்டுகளிலும் குறும்படத்தை காட்டுக">
-
-<!ENTITY HTMLSourceMode.label "HTML மூலம்">
-<!-- Toolbar has an image with "HTML" text, so don't include it in the string -->
-<!ENTITY SourceMode.label "மூலம்">
-<!ENTITY HTMLSourceMode.accesskey "h">
-<!ENTITY HTMLSourceMode.tooltip "HTML மூலத்தை செவ்வையாக்குக">
-<!ENTITY PreviewMode.label "முன்நோக்கு">
-<!ENTITY PreviewMode.accesskey "p">
-<!ENTITY PreviewMode.tooltip "WYSIWYG-க காட்டுக (உலவியில் உள்ள மாதிரி)">
-
-<!-- LOCALIZATION NOTE: Do NOT translate text for 'SourceTabDirection'
-     Use latin "ltr" if you want the <html> image to left of the 
-     'SourceMode.label' text defined above,
-     or use latin "rtl" if you want this image to the right of text
-     This is the value of the HTML 'dir' attribute
--->
-<!ENTITY SourceTabDirection "ltr">
 
 <!-- Structure Toolbar Context Menu items -->
 <!ENTITY structSelect.label         "தேர்ந்தெடுக்கவும்">
@@ -494,3 +450,12 @@
 <!ENTITY removeTOC.accesskey      "r">
 <!ENTITY tocMenu.label            "பொருளடக்கங்களின் அட்டவணை…">
 <!ENTITY tocMenu.accesskey        "b">
+
+
+<!--
+Entities below were automatically added by compare-locales,
+ based on en-US entities.
+-->
+
+<!ENTITY newToolbarCmd.label "New">
+<!ENTITY pasteAsQuotationCmd.key "o">

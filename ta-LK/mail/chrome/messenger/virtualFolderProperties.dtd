@@ -12,3 +12,14 @@
 
 <!ENTITY searchOnline.label "ஆன்லைனில் தேடுக ( IMAP மற்றும் செய்திகள் அடைவிற்கு அதி நவீன முடிவுகளை தருகிறது ஆனால் அடைவை திறக்கும் சமயத்தை அதிகரிக்கிறது)">
 <!ENTITY searchOnline.accesskey "O">
+
+
+<!--
+Entities below were automatically added by compare-locales,
+ based on en-US entities.
+-->
+
+<!ENTITY newFolderButton.accesskey "r">
+<!ENTITY newFolderButton.label "Create">
+<!ENTITY editFolderButton.label "Update">
+<!ENTITY editFolderButton.accesskey "U">

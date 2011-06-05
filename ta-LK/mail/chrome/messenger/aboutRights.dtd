@@ -1,4 +1,4 @@
-﻿<!-- rights.locale-direction instead of the usual local.dir entity, so RTL can skip translating page. -->
+<!-- rights.locale-direction instead of the usual local.dir entity, so RTL can skip translating page. -->
 <!ENTITY rights.locale-direction "ltr">
 <!ENTITY rights.title            "About Your Rights">
 <!ENTITY rights.intro-header    "உங்களது உரிமைகளைப் பற்றியது">

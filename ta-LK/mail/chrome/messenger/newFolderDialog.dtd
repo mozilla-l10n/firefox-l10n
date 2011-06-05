@@ -46,3 +46,12 @@
 <!ENTITY folderRestriction2.label "உங்க புதிய அடைவில் வைக்க அனுமதிக்கவும்:">
 <!ENTITY foldersOnly.label "கோப்புறைகள் மட்டும்">
 <!ENTITY messagesOnly.label "அஞ்சல்கள் மட்டும்">
+
+
+<!--
+Entities below were automatically added by compare-locales,
+ based on en-US entities.
+-->
+
+<!ENTITY accept.accesskey "r">
+<!ENTITY accept.label "Create Folder">

@@ -31,7 +31,22 @@
 <!ENTITY templatesFolderOn.accesskey "m">
 <!ENTITY templateInOtherFolder.label "வேறு:">
 <!ENTITY templateInOtherFolder.accesskey "R">
-<!ENTITY specialFoldersTitle.label "முதல் வரைபுகளும் மற்றும் படிம அச்சுகளும்">
 <!ENTITY keepDrafts.label "அஞ்சல் முதல் வரைபுகளை இங்கே சேமிக்கவும்:">
 <!ENTITY keepArchives.label "Keep message archives in:">
-<!ENTITY keepTempltes.label "அஞ்சல் படிமஅச்சுகளை இங்கே சேமிக்கவும்:">
+
+
+<!--
+Entities below were automatically added by compare-locales,
+ based on en-US entities.
+-->
+
+<!ENTITY keepArchives.accesskey "K">
+<!ENTITY ccAddress.accesskey "C">
+<!ENTITY archivesTitle.label "Message Archives">
+<!ENTITY ccAddressList.placeholder "Separate addresses with commas">
+<!ENTITY ccAddress.label "Cc these email addresses:">
+<!ENTITY archiveHierarchyButton.label "Archive options…">
+<!ENTITY specialFolders.label "Drafts and Templates">
+<!ENTITY archiveHierarchyButton.accesskey "A">
+<!ENTITY keepTemplates.label "Keep message templates in:">
+<!ENTITY bccAddressList.placeholder "Separate addresses with commas">
