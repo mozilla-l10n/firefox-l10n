@@ -6,7 +6,7 @@
 
 <!-- Specific error messages -->
 
-<!ENTITY connectionFailure.title "Klarte ikkje å opprette tilkopling">
+<!ENTITY connectionFailure.title "Klarte ikkje å kople til">
 <!ENTITY connectionFailure.longDesc "&sharedLongDesc;">
 
 <!ENTITY deniedPortAccess.title "Tilgjenget til denne adressa er avgrensa">
@@ -167,3 +167,6 @@ functionality specific to firefox. -->
 <button id='getMeOutOfHereButton'>&securityOverride.getMeOutOfHereButton;</button>
 <button id='exceptionDialogButton'>&securityOverride.exceptionButtonLabel;</button>
 ">
+
+<!ENTITY remoteXUL.title "Remote XUL">
+<!ENTITY remoteXUL.longDesc "<p><ul><li>Kontakt nettstadseigarane og informer dei om dette problemet.</li></ul></p>">
