@@ -35,35 +35,35 @@
    -
    - ***** END LICENSE BLOCK ***** -->
 
-<!ENTITY devmgr.title "Управление на устройства">
+<!ENTITY devmgr.title                           "Управление на устройства">
 
-<!ENTITY devmgr.devlist.label "Модули за защита и сигурни устройства">
-<!ENTITY devmgr.details.title "Подробности">
-<!ENTITY devmgr.details.title2 "Стойност">
-<!ENTITY devmgr.status.label "Състояние">
-<!ENTITY devmgr.version.label "Версия">
+<!ENTITY devmgr.devlist.label                   "Модули за защита и сигурни устройства">
+<!ENTITY devmgr.details.title                   "Подробности">
+<!ENTITY devmgr.details.title2                  "Стойност">
+<!ENTITY devmgr.status.label                    "Състояние">
+<!ENTITY devmgr.version.label                   "Версия">
 
-<!ENTITY devmgr.button.changeslotname.label "Промяна на име на слот">
+<!ENTITY devmgr.button.changeslotname.label     "Промяна на име на слот">
 <!ENTITY devmgr.button.changeslotname.accesskey "П">
-<!ENTITY devmgr.button.login.label "Влизане">
-<!ENTITY devmgr.button.login.accesskey "В">
-<!ENTITY devmgr.button.logout.label "Излизане">
-<!ENTITY devmgr.button.logout.accesskey "И">
-<!ENTITY devmgr.button.changepw.label "Промяна на парола">
-<!ENTITY devmgr.button.changepw.accesskey "П">
-<!ENTITY devmgr.button.load.label "Зареждане">
-<!ENTITY devmgr.button.load.accesskey "З">
-<!ENTITY devmgr.button.unload.label "Освобождаване">
-<!ENTITY devmgr.button.unload.accesskey "О">
-<!ENTITY devmgr.button.fips.accesskey "F">
+<!ENTITY devmgr.button.login.label              "Влизане">
+<!ENTITY devmgr.button.login.accesskey          "В">
+<!ENTITY devmgr.button.logout.label             "Излизане">
+<!ENTITY devmgr.button.logout.accesskey         "И">
+<!ENTITY devmgr.button.changepw.label           "Промяна на парола">
+<!ENTITY devmgr.button.changepw.accesskey       "П">
+<!ENTITY devmgr.button.load.label               "Зареждане">
+<!ENTITY devmgr.button.load.accesskey           "З">
+<!ENTITY devmgr.button.unload.label             "Освобождаване">
+<!ENTITY devmgr.button.unload.accesskey         "О">
+<!ENTITY devmgr.button.fips.accesskey           "F">
 
-<!ENTITY loaddevice.info "Въведете информация за модула, който добавяте.">
-<!ENTITY loaddevice.modname "Име на модул:">
-<!ENTITY loaddevice.modname.accesskey "M">
-<!ENTITY loaddevice.modname.default "Нов модул на PKCS#11">
-<!ENTITY loaddevice.filename "Име на файл на модул:">
-<!ENTITY loaddevice.filename.accesskey "ф">
-<!ENTITY loaddevice.browse "Разглеждане…">
-<!ENTITY loaddevice.browse.accesskey "Р">
+<!ENTITY loaddevice.info                        "Въведете информация за модула, който добавяте.">
+<!ENTITY loaddevice.modname                     "Име на модул:">
+<!ENTITY loaddevice.modname.accesskey           "M">
+<!ENTITY loaddevice.modname.default             "Нов модул на PKCS#11">
+<!ENTITY loaddevice.filename                    "Име на файл на модул:">
+<!ENTITY loaddevice.filename.accesskey          "ф">
+<!ENTITY loaddevice.browse                      "Разглеждане…">
+<!ENTITY loaddevice.browse.accesskey            "Р">
 
-<!ENTITY loaddevice.title "Зареждане на устройство на PKCS#11">
+<!ENTITY loaddevice.title                       "Зареждане на устройство на PKCS#11">

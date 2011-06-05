@@ -38,5 +38,5 @@
 # ***** END LICENSE BLOCK *****
 -->
 
-<!ENTITY settingsChangePreferences.label "Настройките могат да бъдат променяни от Настройки - Приложения.">
-<!ENTITY settingsChangeOptions.label "Настройките могат да бъдат променяни от Настройки - Приложения .">
+<!ENTITY  settingsChangePreferences.label  "Настройките могат да бъдат променяни от Настройки - Приложения.">
+<!ENTITY  settingsChangeOptions.label      "Настройките могат да бъдат променяни от Настройки - Приложения .">

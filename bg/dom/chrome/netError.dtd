@@ -76,13 +76,9 @@
 
 <!ENTITY cspFrameAncestorBlocked.title "Блокирано от политика за сигурност на страницата">
 <!ENTITY cspFrameAncestorBlocked.longDesc "<p>Браузърът попречи на страницата да се зареди по този начин, защото на страницата има политика за сигурност, която го забранява.</p>">
-
-<!ENTITY remoteXUL.title "Дистанционен XUL">
-<!ENTITY remoteXUL.longDesc "<ul><li>Моля, свържете се със собственика на сайта и го информирайте за този проблем.</li></ul>">
 <!-- Include app-specific error messages - do not change this in localization!
      Some applications might override netErrorApp.dtd with their specific version,
-     this inclusion needs to be intact for that approach to work correctly.
-     Please, try to keep this at the end of the file. -->
+     this inclusion needs to be intact for that approach to work correctly. -->
 
 <!ENTITY % netErrorAppDTD SYSTEM "chrome://global/locale/netErrorApp.dtd">
 %netErrorAppDTD;
