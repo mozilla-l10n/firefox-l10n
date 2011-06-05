@@ -8,7 +8,7 @@
 <!ENTITY useCursorNavigation.accesskey   "t">
 <!ENTITY searchStartTyping.label         "Caută textul în timp ce tastez">
 <!ENTITY searchStartTyping.accesskey     "x">
-<!ENTITY blockAutoRefresh.label          "Avertizează-mă când saiturile încearcă să redirijeze sau să reîncarce pagina">
+<!ENTITY blockAutoRefresh.label          "Avertizează-mă când saiturile încearcă să redirecționeze sau să reîncarce pagina">
 <!ENTITY blockAutoRefresh.accesskey      "r">
 
 <!ENTITY browsing.label                  "Navigare">

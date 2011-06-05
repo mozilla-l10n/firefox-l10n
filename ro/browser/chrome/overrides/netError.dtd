@@ -65,7 +65,7 @@
 <!ENTITY proxyResolveFailure.title "Nu se poate găsi serverul proxy">
 <!ENTITY proxyResolveFailure.longDesc "<ul> <li>Asigurați-vă că parametrii proxy-ului sunt corecți.</li> <li>Asigurați-vă că sistemul dumneavoastră are o conexiune funcțională la rețea.</li> <li>Dacă sistemul dumneavoastră este protejat de un paravan (firewall) sau proxy, asigurați-vă că &brandShortName; are permisiunea de a folosi web-ul.</li> </ul>">
 
-<!ENTITY redirectLoop.title "Pagina nu redirijează corect">
+<!ENTITY redirectLoop.title "Pagina nu redirecționează corect">
 <!ENTITY redirectLoop.longDesc "<ul> <li>Problema poate apărea dacă dezactivați sau refuzați să acceptați cookie-uri.</li> </ul>">
 
 <!ENTITY unknownSocketType.title "Răspuns neașteptat de la server">
