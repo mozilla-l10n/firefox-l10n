@@ -19,10 +19,13 @@
 
 <!ENTITY pluginWizard.finalPage.moreInfo.label               "ප්ලගීන පිළිබඳ බොහෝ දේ දැනගන්න හෝ මගහැරුණු ප්ලගීන ක්‍රමිකව සොයා ගන්න.">
 <!ENTITY pluginWizard.finalPage.restart.label                "ප්ලගීනය ක්‍රියා කිරීම සඳහා &brandShortName; යළි ආරම්භ කළ යුතු වේ.">
-<!ENTITY disabledPlugin.label                                "මෙම අන්තර්ගයට අදාල ප්ලගීනය අක්‍රීය කර ඇත. ඔබගේ ප්ලගීන කළමණාකරනය සඳහා මෙතන ක්ලික් කරන්න.">
-<!ENTITY blockedPlugin.label                                 "ඔබගේ ආරක්‍ෂාව සඳහා මෙම ප්ලගීනය අවහිර කර ඇත.">
+<!ENTITY disabledPlugin                                "මෙම ප්ලගීනය අක්‍රීය කර ඇත.">
+<!ENTITY blockedPlugin.label                            "ඔබගේ ආරක්‍ෂාව සඳහා මෙම ප්ලගීනය අවහිර කර ඇත.">
 
-<!ENTITY missingPlugin.label                                 "ප්ලගීන ලබා ගැනීමට මෙහි ක්ලික් කරන්න.">
+<!ENTITY missingPlugin                                "මෙම අන්තර්ගතය පෙන්වීමට ප්ලගීනයක් අවශ්‍යව ඇත.">
+<!ENTITY installPlugin                                       "ප්ලගීනය පිහිටුවන්න…">
+<!ENTITY managePlugins                                       "ප්ලගීන කළමනාකරණය…">
+
 
 <!--
 Entities below were automatically added by compare-locales,
