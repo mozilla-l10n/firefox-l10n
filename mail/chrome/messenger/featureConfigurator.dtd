@@ -1,0 +1,45 @@
+
+
+<!--
+Entities below were automatically added by compare-locales,
+ based on en-US entities.
+-->
+
+<!ENTITY featureConfigurator.toolbar.heading "New Message Toolbar">
+<!ENTITY featureConfigurator.addOn.alreadyInstalled "This extension is already installed.">
+<!ENTITY featureConfigurator.title "Migration Assistant">
+<!ENTITY featureConfigurator.autoSync.on.explanation "You'll see faster message loading and better search results.">
+<!ENTITY featureConfigurator.folderColumns.para.weak "The Extra Folder Columns extension replaces what was initially an advanced preference.  To keep tabs on the exact count of messages and disk space each folder is using you'll want to install this extension.">
+<!ENTITY featureConfigurator.autoSync.on "Synchronize">
+<!ENTITY featureConfigurator.autoSync.some "Per Account Synchronization">
+<!ENTITY featureConfigurator.addOn.failure "There was a problem installing this extension!">
+<!ENTITY featureConfigurator.para.2 "Use this page to configure these new settings. You can always get back to the Migration Assistant from the Help menu.">
+<!ENTITY featureConfigurator.para.1 "This new version of &brandShortName; includes powerful new features which we're quite proud of, and think most people will love. People's tastes and needs vary, so we made it easy to control and customize &brandShortName;.">
+<!ENTITY featureConfigurator.collapsedHeaders.para.weak "The compact message reader view has been moved into its own extension where it is now getting much more attention and options.">
+<!ENTITY featureConfigurator.addOn.downloading "Downloading…">
+<!ENTITY featureConfigurator.previousButton "Previous">
+<!ENTITY featureConfigurator.toolbarBenefits.para "Message actions such as reply and forward have moved from the toolbar and onto the message header itself. This ties the action buttons directly to the message, which leaves more room in the toolbar for the richer search textbox, as well as add-ons.">
+<!ENTITY featureConfigurator.autoSync.off.explanation "This will mean slower message loading and incomplete search results.">
+<!ENTITY featureConfigurator.nextButton "Next">
+<!ENTITY featureConfigurator.toolbar.new "Message Buttons Toolbar">
+<!ENTITY featureConfigurator.autoSync.para "This new version of &brandShortName; comes with a new and better search functionality.  To experience this new search you'll need to synchronize your email messages.">
+<!ENTITY featureConfigurator.autoSync.off "Do not Synchronize">
+<!ENTITY featureConfigurator.addOn.installing "Installing…">
+<!ENTITY featureConfigurator.diskSpace.warning "You're running low on space!">
+<!ENTITY featureConfigurator.collapsedHeaders.heading "Compact Header">
+<!ENTITY featureConfigurator.folderColumns.install "Install Extra Columns…">
+<!ENTITY featureConfigurator.addOn.installed "Installed">
+<!ENTITY featureConfigurator.diskSpace.currentSize "Your current total email usage:">
+<!ENTITY featureConfigurator.collapsedHeaders.install "Install Compact Header…">
+<!ENTITY featureConfigurator.diskSpace.requireSpace "Required:">
+<!ENTITY featureConfigurator.folderColumns.para.strong "We noticed that you were using the Advanced Folder columns.  This feature has moved into its own extension, and we recommend you install here.">
+<!ENTITY featureConfigurator.toolbar.original.status.explanation "Keep any custom toolbar buttons in addition to the new Message Buttons.">
+<!ENTITY featureConfigurator.autoSync.heading "Disk space">
+<!ENTITY featureConfigurator.folderColumns.heading "Advanced Folder Columns">
+<!ENTITY featureConfigurator.closeButton "Close">
+<!ENTITY featureConfigurator.heading1 "New &brandShortName; features worth knowing about">
+<!ENTITY featureConfigurator.autoSync.some.explanation "Customize your synchronization needs per account and folder.">
+<!ENTITY featureConfigurator.collapsedHeaders.para.strong "We noticed that you were using the compact message reader header.  This function has moved into its own extension and we recommend you install it here if you would like to continue using it.">
+<!ENTITY featureConfigurator.diskSpace.freeSpace "Free Space:">
+<!ENTITY featureConfigurator.toolbar.new.status.explanation "A clean toolbar with all your messaging buttons at your fingertips.">
+<!ENTITY featureConfigurator.toolbar.original "Keep your original Toolbar buttons">

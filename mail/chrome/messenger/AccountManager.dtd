@@ -2,13 +2,12 @@
 
 <!ENTITY accountManagerTitle.label "ගිණුම සකස් කිරීම">
 
-<!ENTITY addAccountButton.label "ගිණුමක් එක්කරන්න...">
-<!ENTITY addAccountButton.accesskey "A">
 <!ENTITY setDefaultButton.label "පෙරනිමි ලෙස සකසන්න">
 <!ENTITY setDefaultButton.accesskey "f">
 <!ENTITY removeButton.label "ගිණුම ඉවත් කරන්න">
 <!ENTITY removeButton.accesskey "R">
-
+
+
 
 <!-- AccountManager.xul -->
 <!-- LOCALIZATION NOTE : this is part of an inline-style attribute on the account
@@ -19,3 +18,16 @@
      this window for en-US. -->
 <!ENTITY accountManager.size "width: 55em; height: 50em;"> 
 <!ENTITY accountTree.width   "width: 17em;">
+
+
+<!--
+Entities below were automatically added by compare-locales,
+ based on en-US entities.
+-->
+
+<!ENTITY addMailAccountButton.accesskey "A">
+<!ENTITY accountActionsButton.label "ගිණුම් ක්‍රියා">
+<!ENTITY addOtherAccountButton.accesskey "O">
+<!ENTITY accountActionsButton.accesskey "A">
+<!ENTITY addMailAccountButton.label "තැපැල් ගිණුමක් එක්කරන්න…">
+<!ENTITY addOtherAccountButton.label "වෙනත් ගිණුමක් එක්කරන්න…">

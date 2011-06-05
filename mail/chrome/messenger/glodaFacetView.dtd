@@ -3,6 +3,11 @@
      well for labeled facets with multiple options. -->
 <!ENTITY glodaFacetView.filters.label "Filter by:">
 
-<!-- LOCALIZATION NOTE (glodaFacetView.showMore.label): Label at the bottom
-     of the results list to show more hits. -->
-<!ENTITY glodaFacetView.showMore.label "Show more hits">
+<!--
+Entities below were automatically added by compare-locales,
+ based on en-US entities.
+-->
+
+<!ENTITY glodaFacetView.loading.label "Searching&#8230;">
+<!ENTITY glodaFacetView.empty.label "No messages match your search">
+<!ENTITY glodaFacetView.pageMore.label "More &#187;">

@@ -1,15 +1,42 @@
 <!ENTITY aboutDialog.title      "&brandFullName; පිළිබඳ">
-<!ENTITY credits.label          "ප්‍රණාමය">
-<!ENTITY credits.accesskey      "C">
-<!ENTITY aboutButton.label      "&lt; පසුපසට">
-<!ENTITY aboutButton.accesskey  "B">
-<!ENTITY aboutVersion           "නිකුතුව">
-<!ENTITY copyrightText          "&#169;1998-2007 Contributors. සියළු හිමිකම් ඇවිරිණි. Mozilla Thunderbird and the
-                                 Thunderbird logos are trademarks of the Mozilla Foundation.  සියළු හිමිකම් ඇවිරිණි.">
-<!ENTITY aboutMenu.label        "පිළිබඳ">
-<!ENTITY aboutMenu.accesskey    "A">
-<!ENTITY aboutRights.label      "ඔබගේ අයිතීන්">
-<!ENTITY aboutRights.accesskey  "R">
-<!ENTITY aboutContributors.label "දායකයින්">
-<!ENTITY aboutContributors.accesskey "o">
 <!ENTITY cmdCloseMac.commandKey "w">
+
+
+<!--
+Entities below were automatically added by compare-locales,
+ based on en-US entities.
+-->
+
+<!ENTITY update.failed.end "">
+<!ENTITY channel.change "Change">
+<!ENTITY channel.aurora.description "Experience the newest innovations in an unstable environment that's not for the faint of heart. Provide feedback on features and performance to help determine what makes the final release.">
+<!ENTITY update.noUpdatesFound "&brandShortName; is up to date">
+<!ENTITY update.downloading.start "Downloading update — ">
+<!ENTITY update.manual.end "">
+<!ENTITY update.checkingForUpdates "Checking for updates…">
+<!ENTITY update.manual.linkText "latest version">
+<!ENTITY channel.selector.end "update channel.">
+<!ENTITY community.middle2 ", a ">
+<!ENTITY update.checkingAddonCompat "Checking Add-on compatibility…">
+<!ENTITY update.manual.start "Download the ">
+<!ENTITY community.start2 "&brandShortName; is designed by ">
+<!ENTITY bottomLinks.license "Licensing Information">
+<!ENTITY contribute.end "">
+<!ENTITY channel.description.start "You are currently on the ">
+<!ENTITY bottomLinks.privacy "Privacy Policy">
+<!ENTITY update.adminDisabled "Updates disabled by your system administrator">
+<!ENTITY community.end2 " working together to make the Internet better. We believe that the Internet should be open, public, and accessible to everyone without any restrictions.">
+<!ENTITY channel.release.description "Enjoy the tried and tested final release being used by hundreds of millions around the world. Stay in control of your online experience with super speed, easy customization and the latest Web technologies.">
+<!ENTITY contribute.start "Sound interesting? ">
+<!ENTITY community.creditsLink "global community">
+<!ENTITY update.failed.linkText "Download the latest version">
+<!ENTITY channel.selector.start "Switch to the">
+<!ENTITY channel.description.end " update channel. ">
+<!ENTITY channel.beta.description "Experience cutting edge features with more stability. Provide feedback to help refine and polish what will be in the final release.">
+<!ENTITY channel.selector.applyButton "Apply and Update">
+<!ENTITY update.downloading.end "">
+<!ENTITY community.mozillaLink "&vendorShortName;">
+<!ENTITY contribute.getInvolvedLink "Get involved!">
+<!ENTITY bottomLinks.rights "End User Rights">
+<!ENTITY update.failed.start "Update failed. ">
+<!ENTITY channel.selector.cancelButton "Cancel">

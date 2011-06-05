@@ -44,10 +44,6 @@
 <!ENTITY folderCharsetTab.accesskey              "E">
 <!ENTITY folderCharsetOverride.label             "Apply default to all messages in the folder (individual message character encoding settings and auto-detection will be ignored)">
 <!ENTITY folderCharsetOverride.accesskey         "A">
-<!ENTITY folderRebuildSummaryFile.label          "Rebuild Index">
-<!ENTITY folderRebuildSummaryFile.accesskey      "R">
-<!ENTITY folderRebuildSummaryFileTip.label       "Rebuild Summary File">
-
 <!ENTITY retention.label "තබාගැනීමේ පිළිවෙත">
 <!ENTITY retentionUseAccount.label  "මගේ ගිණූම් සැකසුම් භාවිතා කරන්න">
 <!ENTITY retentionUseAccount.accesskey "U">
@@ -68,8 +64,6 @@
 <!ENTITY retentionApplyToFlagged.accesskey "e">
 
 <!ENTITY folderSynchronizationTab.label          "Synchronization">
-<!ENTITY folderCheckForNewMessages.label         "නව ලිපි සඳහා මෙම ෆෝල්ඩරය පරීක්ෂා කරන්න">
-<!ENTITY folderCheckForNewMessages.accesskey     "C">
 
 <!ENTITY offlineFolder.check.label               "අසම්බන්ධිතව භාවිතාව සඳහා මෙම ෆෝල්ඩරය තෝරන්න">
 <!ENTITY offlineFolder.check.accesskey           "S">
@@ -96,3 +90,18 @@
 <!ENTITY folderQuotaRoot.label                   "Quota Root:">
 <!ENTITY folderQuotaUsage.label                  "භාවිතාව:">
 <!ENTITY folderQuotaStatus.label                 "තත්ත්වය:">
+
+
+<!--
+Entities below were automatically added by compare-locales,
+ based on en-US entities.
+-->
+
+<!ENTITY folderIncludeInGlobalSearch.label "Include messages in this folder in Global Search results">
+<!ENTITY folderRebuildSummaryFile.explanation "Sometimes the folder index (.msf) file becomes damaged and messages may appear missing or deleted messages continue showing; repairing the folder may fix these issues.">
+<!ENTITY folderIncludeInGlobalSearch.accesskey "G">
+<!ENTITY folderCheckForNewMessages2.label "When getting new messages for this account, always check this folder">
+<!ENTITY folderRebuildSummaryFile2.label "Repair Folder">
+<!ENTITY folderRebuildSummaryFileTip2.label "Rebuild Summary File Index">
+<!ENTITY folderCheckForNewMessages2.accesskey "c">
+<!ENTITY folderRebuildSummaryFile2.accesskey "R">

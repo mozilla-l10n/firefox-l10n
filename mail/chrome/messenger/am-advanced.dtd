@@ -20,4 +20,11 @@
 <!ENTITY serverPort.label "තොට (Port): ">
 <!ENTITY userName.label   "පරිශීලක නම: ">
 <!ENTITY connectionSecurity.label "සම්බන්ධතා ආරක්ෂාව: ">
-<!ENTITY useSecureAuthentication.label   "ආරක්ෂක සත්‍යාපනය: ">
+
+
+<!--
+Entities below were automatically added by compare-locales,
+ based on en-US entities.
+-->
+
+<!ENTITY authMethod.label "Authentication method: ">

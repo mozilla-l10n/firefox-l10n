@@ -1,0 +1,19 @@
+
+
+<!--
+Entities below were automatically added by compare-locales,
+ based on en-US entities.
+-->
+
+<!ENTITY disableAddons.accesskey "D">
+<!ENTITY safeModeDescription2.label "You can make some or all of these changes permanent:">
+<!ENTITY changeAndRestartButton.accesskey "M">
+<!ENTITY continueButton.label "Continue in Safe Mode">
+<!ENTITY safeModeDialog.title "&brandShortName; Safe Mode">
+<!ENTITY resetToolbars.label "Reset toolbars and controls">
+<!ENTITY safeModeDescription.label "&brandShortName; is now running in Safe Mode, which temporarily disables your custom settings, themes, and extensions.">
+<!ENTITY disableAddons.label "Disable all add-ons">
+<!ENTITY resetToolbars.accesskey "R">
+<!ENTITY changeAndRestartButton.label "Make Changes and Restart">
+<!ENTITY continueButton.accesskey "C">
+<!ENTITY window.width "37em">

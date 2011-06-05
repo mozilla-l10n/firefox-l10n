@@ -57,13 +57,11 @@
 
 <!ENTITY editMessageDescription.label "මෙය කෙටුම්පත් කරන ලිපියකි">
 <!ENTITY editMessageButton.label "සැකසීම...">
-<!ENTITY archiveButton.label "සංරක්ෂණය">
 <!ENTITY hdrReplyButton.label "පිළිතුරු">
 <!ENTITY hdrReplyAllButton.label "සැමට පිළිතුරු">
 <!ENTITY hdrReplyListButton.label "ලැයිස්තුවට පිළිතුරු">
 <!ENTITY hdrForwardButton.label "යොමු කරන්න">
 <!ENTITY hdrJunkButton.label "නිසරු (junk)">
-<!ENTITY trashButton.tooltiptext "මකන්න">
 
 <!ENTITY otherActionsButton.label "වෙනත් ක්‍රියාවන්">
 <!ENTITY otherActionsOpenInNewWindow.label "නව කවුළුවක විවෘත කරන්න">
@@ -96,3 +94,57 @@
 <!ENTITY CopyMessageId.label "Copy Message-ID">
 <!ENTITY OpenMessageForMsgId.label "Open Message For ID">
 <!ENTITY OpenBrowserWithMsgId.label "Open Browser With Message-ID">
+
+
+<!--
+Entities below were automatically added by compare-locales,
+ based on en-US entities.
+-->
+
+<!ENTITY hdrViewToolbarShowText.accesskey "T">
+<!ENTITY deleteAttachmentMenuItem.accesskey "e">
+<!ENTITY markAsReadMenuItem.accesskey "r">
+<!ENTITY deleteAllAttachmentsMenuItem.accesskey "e">
+<!ENTITY hdrReplyAllButton.tooltip "reply to sender and all recipients">
+<!ENTITY hdrViewToolbarShowFull.label "Show Icons and Text">
+<!ENTITY detachAllAttachmentsMenuItem.accesskey "d">
+<!ENTITY hdrTrashButton.tooltip "delete this message">
+<!ENTITY openAllAttachmentsMenuItem.label "open all…">
+<!ENTITY deleteAllAttachmentsMenuItem.label "delete all…">
+<!ENTITY otherActionsOpenConversation.accesskey "c">
+<!ENTITY hdrViewToolbarAlwaysReplySender.accesskey "R">
+<!ENTITY hdrViewToolbarShowText.label "Show Text Only">
+<!ENTITY deleteAttachmentMenuItem.label "delete">
+<!ENTITY hdrReplyButton.tooltip "reply to this message">
+<!ENTITY saveAttachmentButton.tooltip "save the attached file">
+<!ENTITY markAsUnreadMenuItem.label "mark as unread">
+<!ENTITY detachAttachmentCmd.accesskey "T">
+<!ENTITY saveAllAttachmentsButton.label "save all">
+<!ENTITY detachAllAttachmentsMenuItem.label "detach all…">
+<!ENTITY detachAttachmentMenuItem.accesskey "d">
+<!ENTITY markAsUnreadMenuItem.accesskey "r">
+<!ENTITY openAttachmentMenuItem.label "open">
+<!ENTITY saveAsAttachmentMenuItem.accesskey "s">
+<!ENTITY openAllAttachmentsMenuItem.accesskey "o">
+<!ENTITY deleteAttachmentCmd.accesskey "L">
+<!ENTITY hdrViewToolbarShowIcons.label "Show Icons Only">
+<!ENTITY saveAllAttachmentsMenuItem.accesskey "s">
+<!ENTITY detachAttachmentMenuItem.label "detach…">
+<!ENTITY hdrForwardButton.tooltip "forward this message">
+<!ENTITY openAllAttachmentsCmd.label "Open All…">
+<!ENTITY openAllAttachmentsCmd.accesskey "O">
+<!ENTITY saveAttachmentButton.label "save">
+<!ENTITY hdrArchiveButton.tooltip "archive this message">
+<!ENTITY hdrViewToolbarShowIcons.accesskey "I">
+<!ENTITY hdrViewToolbarShowFull.accesskey "a">
+<!ENTITY otherActionsOpenConversation.label "open in conversation">
+<!ENTITY markAsReadMenuItem.label "mark as read">
+<!ENTITY hdrViewToolbarAlwaysReplySender.label "Always Show Reply to Sender">
+<!ENTITY saveAsAttachmentMenuItem.label "save as…">
+<!ENTITY hdrJunkButton.tooltip "mark this message as junk">
+<!ENTITY hdrReplyListButton.tooltip "reply to mailing list">
+<!ENTITY hdrTrashButton.label "delete">
+<!ENTITY hdrArchiveButton.label "archive">
+<!ENTITY openAttachmentMenuItem.accesskey "o">
+<!ENTITY saveAllAttachmentsButton.tooltip "save all the attached files">
+<!ENTITY saveAllAttachmentsMenuItem.label "save all…">

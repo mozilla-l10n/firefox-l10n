@@ -43,3 +43,11 @@
 <!ENTITY stopExecution.label "පෙරහන ක්‍රියාකාරීත්වය නවතන්න">
 
 
+
+
+<!--
+Entities below were automatically added by compare-locales,
+ based on en-US entities.
+-->
+
+<!ENTITY filterEditorDialog.dimensions "width: 100ch;">

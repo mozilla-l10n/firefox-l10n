@@ -1,3 +1,11 @@
 <!ENTITY window.title             "ලිපි සාරාංශය">
 <!ENTITY selectedmessages.label   "තෝරාගත් ලිපි">
 <!ENTITY archive.label            "archive">
+
+
+<!--
+Entities below were automatically added by compare-locales,
+ based on en-US entities.
+-->
+
+<!ENTITY delete.label "delete">

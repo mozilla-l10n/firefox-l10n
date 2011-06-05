@@ -146,9 +146,7 @@ content in HTML messages from this contact.">
 <!ENTITY Birthday.label                 "උපන් දිනය:">
 <!ENTITY Birthday.accesskey             "B">
 <!ENTITY In.label                       "">
-<!ENTITY Year.emptytext                 "වර්ෂය">
 <!ENTITY Or.value                       "හෝ">
-<!ENTITY Age.emptytext                  "වයස">
 <!ENTITY YearsOld.label                 "">
 
 <!ENTITY Custom1.label                  "රිසිකරණය 1:">
@@ -174,6 +172,17 @@ content in HTML messages from this contact.">
 <!ENTITY BrowsePhoto.accesskey          "r">
 <!ENTITY PhotoURL.label                 "වෙබ් මත">
 <!ENTITY PhotoURL.accesskey             "b">
-<!ENTITY PhotoURL.emptytext             "ඡායාරූපයේ වෙබ් ලිපිනය ලබාදෙන්න">
 <!ENTITY UpdatePhoto.label              "යාවත්කාලීන කරන්න">
 <!ENTITY UpdatePhoto.accesskey          "u">
+
+
+<!--
+Entities below were automatically added by compare-locales,
+ based on en-US entities.
+-->
+
+<!ENTITY preferDisplayName.accesskey "y">
+<!ENTITY PhotoURL.placeholder "Paste or type the web address of a photo">
+<!ENTITY Age.placeholder "Age">
+<!ENTITY Year.placeholder "Year">
+<!ENTITY preferDisplayName.label "Always prefer display name over message header">
