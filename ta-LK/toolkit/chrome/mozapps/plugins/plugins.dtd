@@ -1,4 +1,4 @@
-﻿<!ENTITY pluginWizard.title                                  "உட்செருகல்கள் கண்டுபி்டிக்கும் சேவை">
+<!ENTITY pluginWizard.title                                  "உட்செருகல்கள் கண்டுபி்டிக்கும் சேவை">
 <!ENTITY pluginWizard.firstPage.title                        "&pluginWizard.title; இற்கு வரவேற்கின்றோம்">
 
 <!ENTITY pluginWizard.checkingForPlugins.description.label   "&brandShortName; தற்போது கிடைக்கக்கூடிய உடசெருகல்களை சரிபார்க்கின்றது…">
