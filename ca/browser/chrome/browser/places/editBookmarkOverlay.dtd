@@ -6,7 +6,6 @@
 <!ENTITY editBookmarkOverlay.feedLocation.accesskey          "c">
 <!ENTITY editBookmarkOverlay.siteLocation.label              "Ubicació del lloc web:">
 <!ENTITY editBookmarkOverlay.siteLocation.accesskey          "w">
-<!ENTITY editBookmarkOverlay.liveTitlesSeparator.label       "Títols actius">
 <!ENTITY editBookmarkOverlay.folder.label                    "Carpeta:">
 <!ENTITY editBookmarkOverlay.foldersExpanderDown.tooltip     "Mostra totes les carpetes de les adreces d'interès">
 <!ENTITY editBookmarkOverlay.expanderUp.tooltip              "Amaga">
