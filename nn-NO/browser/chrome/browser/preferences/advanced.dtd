@@ -21,15 +21,13 @@
 <!ENTITY allowHWAccel.accesskey          "m">
 <!ENTITY checkSpelling.label             "Kontroller staving medan eg skriv">
 <!ENTITY checkSpelling.accesskey         "K">
-<!ENTITY doNotTrack.label                "Fortel nettsider at eg ikkje vil bli spora">
-<!ENTITY doNotTrack.accesskey            "F">
 
 <!ENTITY systemDefaults.label            "Systemstandard">
 <!ENTITY alwaysCheckDefault.label        "Alltid kontroller om &brandShortName; er standard nettlesar ved oppstart"><!--XXX-->
 <!ENTITY alwaysCheckDefault.accesskey    "d">
 <!ENTITY checkNow.label                  "Kontroller no">
 <!ENTITY checkNow.accesskey              "n">
-<!ENTITY submitCrashes.label             "Send krasjrapportar">
+<!ENTITY submitCrashes.label             "Send inn krasjrapportar">
 <!ENTITY submitCrashes.accesskey         "S">
 
 <!ENTITY networkTab.label                "Nettverk">
