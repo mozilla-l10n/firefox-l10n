@@ -15,3 +15,5 @@
 
 <!ENTITY editContactPanelDone.label "OK">
 <!ENTITY editContactPanelDone.accesskey "O">
+
+<!ENTITY contactMoveDisabledWarning.description "Du kan ikkje endre adresseboka fordi kontakten er i ei e-postliste.">
