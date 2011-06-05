@@ -27,8 +27,6 @@
 <!ENTITY connectionSecurityType-1.label "STARTTLS, තිබේ නම්">
 <!ENTITY connectionSecurityType-2.label "STARTTLS">
 <!ENTITY connectionSecurityType-3.label "SSL/TLS">
-<!ENTITY useSecAuth.label "ආරක්ෂිත සත්‍යාපනය භාවිතා කරන්න">
-<!ENTITY useSecAuth.accesskey "i">
 <!ENTITY leaveOnServer.label "සේවාදායකය තුළ ලිපි ඉතිරි කරන්න">
 <!ENTITY leaveOnServer.accesskey "g">
 <!ENTITY headersOnly.label "ශීර්ෂයන් පමණක් ලබා ගන්න">
@@ -80,3 +78,12 @@
 <!ENTITY newsrcPicker.label "Select newsrc File">
 <!ENTITY browseNewsrc.label "පිරික්සන්න...">
 <!ENTITY browseNewsrc.accesskey "e">
+
+
+<!--
+Entities below were automatically added by compare-locales,
+ based on en-US entities.
+-->
+
+<!ENTITY authMethod.accesskey "i">
+<!ENTITY authMethod.label "Authentication method:">

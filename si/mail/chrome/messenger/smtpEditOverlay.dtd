@@ -6,12 +6,8 @@
 <!ENTITY serverDescription.accesskey "D">
 <!ENTITY serverPort.label "තොට (Port):">
 <!ENTITY serverPort.accesskey "P">
-<!ENTITY alwaysUseUsername.label "පරිශීලක නම සහ රහස්පදය භාවිතා කරන්න">
-<!ENTITY alwaysUseUsername.accesskey "U">
 <!ENTITY userName.label "පරිශීලක නම:">
 <!ENTITY userName.accesskey "m">
-<!ENTITY useSecAuth.label "ආරක්ෂිත සත්‍යාපනය භාවිතා කරන්න">
-<!ENTITY useSecAuth.accesskey "i">
 <!ENTITY connectionSecurity.label "සම්බන්ධතාවයේ ආරක්ෂාව:">
 <!ENTITY connectionSecurity.accesskey "n">
 <!ENTITY connectionSecurityType-0.label "None">
@@ -20,3 +16,12 @@
 <!ENTITY connectionSecurityType-3.label "SSL/TLS">
 <!ENTITY smtpEditTitle.label "SMTP සේවාදායකය">
 <!ENTITY serverPortDefault.label "පෙරනිමි (Default):">
+
+
+<!--
+Entities below were automatically added by compare-locales,
+ based on en-US entities.
+-->
+
+<!ENTITY authMethod.accesskey "i">
+<!ENTITY authMethod.label "Authentication method:">

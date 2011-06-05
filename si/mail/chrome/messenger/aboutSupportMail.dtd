@@ -1,0 +1,20 @@
+
+
+<!--
+Entities below were automatically added by compare-locales,
+ based on en-US entities.
+-->
+
+<!ENTITY aboutSupport.accountsDefault "Default?">
+<!ENTITY aboutSupport.appBasicsAppBuildID "Application Build ID">
+<!ENTITY aboutSupport.showPrivateData.mainText "Include account names">
+<!ENTITY aboutSupport.accountsAuthMethod "Authentication method">
+<!ENTITY aboutSupport.accountsOutgoingServers "Outgoing servers">
+<!ENTITY aboutSupport.accountsID "ID">
+<!ENTITY aboutSupport.accountsTitle "Mail and News Accounts">
+<!ENTITY aboutSupport.accountsName "Name">
+<!ENTITY aboutSupport.showPrivateData.explanationText "(possibly identifying information)">
+<!ENTITY aboutSupport.accountsServerName "Name">
+<!ENTITY aboutSupport.sendViaEmail.label "Send via email">
+<!ENTITY aboutSupport.accountsIncomingServer "Incoming server">
+<!ENTITY aboutSupport.accountsConnSecurity "Connection security">

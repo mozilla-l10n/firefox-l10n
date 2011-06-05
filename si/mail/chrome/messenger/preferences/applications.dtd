@@ -7,8 +7,6 @@
 <!ENTITY  focusSearch1.key            "f">
 <!ENTITY  focusSearch2.key            "k">
 
-<!ENTITY  filter.emptytext            "සෙවීම">
-
 <!ENTITY saveTo.label                 "ගොනු සුරකින්නේ (මෙතුළට)">
 <!ENTITY saveTo.accesskey             "S">
 <!ENTITY alwaysAsk.label              "ගොනු සුරකින්නේ කොතනටදැයි සෑම විටම විමසන්න">
@@ -17,3 +15,11 @@
 <!ENTITY chooseFolderWin.accesskey    "B">
 <!ENTITY chooseFolderMac.label        "තෝරන්න…">
 <!ENTITY chooseFolderMac.accesskey    "C">
+
+
+<!--
+Entities below were automatically added by compare-locales,
+ based on en-US entities.
+-->
+
+<!ENTITY filter.placeholder "Search">

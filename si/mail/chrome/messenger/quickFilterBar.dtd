@@ -1,0 +1,37 @@
+
+
+<!--
+Entities below were automatically added by compare-locales,
+ based on en-US entities.
+-->
+
+<!ENTITY quickFilterBar.textFilter.sender.label "Sender">
+<!ENTITY quickFilterBar.tags.tooltip "Show only messages with tags on them">
+<!ENTITY quickFilterBar.attachment.label "Attachment">
+<!ENTITY quickFilterBar.textFilter.subject.label "Subject">
+<!ENTITY quickFilterBar.resultsLabel.minWidth "100">
+<!ENTITY quickFilterBar.inaddrbook.tooltip "Show only messages from people in your address book">
+<!ENTITY quickFilterBar.starred.tooltip "Show only starred messages">
+<!ENTITY quickFilterBar.toggleBarVisibility.menu.accesskey "Q">
+<!ENTITY quickFilterBar.glodaUpsell.pressEnterAndCurrent "Press 'Enter' again to continue your search for: #1">
+<!ENTITY quickFilterBar.toggleBarVisibility.menu.label "Quick Filter Bar">
+<!ENTITY quickFilterBar.attachment.tooltip "Show only messages with attachments">
+<!ENTITY quickFilterBar.inaddrbook.label "Contact">
+<!ENTITY quickFilterBar.textFilter.recipients.label "Recipients">
+<!ENTITY quickFilterBar.textbox.emptyText.keyLabel1.mac "&lt;&#x2318;F&gt;">
+<!ENTITY quickFilterBar.starred.label "Starred">
+<!ENTITY quickFilterBar.glodaUpsell.continueSearch "Continue this search across all folders">
+<!ENTITY quickFilterBar.unread.tooltip "Show only unread messages">
+<!ENTITY quickFilterBar.textbox.emptyText.keyLabel.nonmac "&lt;Ctrl+F&gt;">
+<!ENTITY quickFilterBar.sticky.tooltip "Keep filters applied when switching folders">
+<!ENTITY quickFilterBar.resultsLabel.some.formatString "#1 message;#1 messages">
+<!ENTITY quickFilterBar.textbox.idealWidth "320">
+<!ENTITY quickFilterBar.textbox.emptyText.base "Filter these messages... #1">
+<!ENTITY quickFilterBar.unread.label "Unread">
+<!ENTITY quickFilterBar.textFilter.body.label "Body">
+<!ENTITY quickFilterBar.resultsLabel.none "No results">
+<!ENTITY quickFilterBar.toggleBarVisibility.button.tooltip "Toggle the quick filter bar">
+<!ENTITY quickFilterBar.textFilter.explanation.label "Filter messages by:">
+<!ENTITY quickFilterBar.barLabel.label "Quick Filter:">
+<!ENTITY quickFilterBar.textbox.minWidth "280">
+<!ENTITY quickFilterBar.tags.label "Tags">
