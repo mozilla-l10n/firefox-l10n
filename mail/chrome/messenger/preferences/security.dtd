@@ -34,7 +34,6 @@
 <!ENTITY savedPasswords.intro "&brandShortName;-ல் உங்கள் அனைத்து கணக்குகளின் கடவுச்சொல் விவரத்தை நினைவு வைத்துக்கொள்ளமுடியும், இதனால் உங்கள் பதிவு விவரங்களை மறுபடி எழுதும் அவசியம் கிடையாது">
 <!ENTITY useMasterPassword.label        "முதன்மைக் கடவுச்சொல்லினைப் பயன்படுத்துக">
 <!ENTITY useMasterPassword.accesskey    "m">
-<!ENTITY masterPassword.intro           "உங்களுடைய எல்லா கடவுச்சொற்களையும் முதன்மைக் கடவுச்சொல் பாதுகாக்கும்,ஆனால் அமர்விற்கு ஒன்றினை நீங்கள் நுழைக்க வேண்டும்.">
 <!ENTITY changeMasterPassword.label     "முதன்மைக் கடவுச்சொல்லை மாற்றுக…">
 <!ENTITY changeMasterPassword.accesskey "C">
 <!ENTITY savedPasswords.label           "சேமிக்கப்பட்ட கடவுச்சொற்கள்…">

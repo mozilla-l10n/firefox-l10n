@@ -6,12 +6,8 @@
 <!ENTITY serverDescription.accesskey "D">
 <!ENTITY serverPort.label "தளம்:">
 <!ENTITY serverPort.accesskey "P">
-<!ENTITY alwaysUseUsername.label "பெயர் மற்றும் கடவுச்சொல்லை பயன்படுத்துக">
-<!ENTITY alwaysUseUsername.accesskey "ப">
 <!ENTITY userName.label "பயனர் பெயர்:">
 <!ENTITY userName.accesskey "m">
-<!ENTITY useSecAuth.label "பாதுகாப்பான அத்தாட்சிப்படுத்தலைப் பயன்படுத்துக">
-<!ENTITY useSecAuth.accesskey "i">
 <!ENTITY connectionSecurity.label "இணைப்புப் பாதுகாப்பு:">
 <!ENTITY connectionSecurity.accesskey "n">
 <!ENTITY connectionSecurityType-0.label "ஒன்றுமில்லை">
@@ -20,3 +16,12 @@
 <!ENTITY connectionSecurityType-3.label "SSL/TLS">
 <!ENTITY smtpEditTitle.label "SMTP சேவையகம்">
 <!ENTITY serverPortDefault.label "பொதுஇருப்பு:">
+
+
+<!--
+Entities below were automatically added by compare-locales,
+ based on en-US entities.
+-->
+
+<!ENTITY authMethod.accesskey "i">
+<!ENTITY authMethod.label "Authentication method:">

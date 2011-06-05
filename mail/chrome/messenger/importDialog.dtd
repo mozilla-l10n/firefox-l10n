@@ -76,12 +76,3 @@ LOCALIZATION NOTE : Do not translate any of the occurances of the word
 
 <!ENTITY title.label "தலைப்பு">
 <!ENTITY processing.label "இறக்குமதியாகிறது">
-
-<!ENTITY FieldDiscInputText1.label "நெட்ஸ்கேப் கம்யூனிகேட்டர் 4.x-ல் ஒவ்வொரு கார்டிற்கும் ஒரு  தனி அஞ்சல் முகவரி இருக்கிறது, ஆனால் &brandShortName;-ல் இரண்டு முகவரிகள் உண்டு (இல்லம் மற்றும் வேலைக்கு).">
-<!ENTITY FieldDiscInputText2.label "இறக்குமதி செய்யப்பட்ட அஞ்சல் முகவரிகளை சேகரிக்கவைக்கும் வகையை தேர்வு செய்க:">
-<!ENTITY FieldDiscWarning.label "தேர்வு செய்த முகவரிப்புத்தகத்தில் உள்ள அனைத்து பதிவுகளுக்கும் இந்த வகை பயன்படுத்தப்படும்: ">
-<!ENTITY importHome.label        "முகப்பு">
-<!ENTITY importHome.accesskey    "H">
-<!ENTITY importWork.label        "வேலை">
-<!ENTITY importWork.accesskey    "W">
-

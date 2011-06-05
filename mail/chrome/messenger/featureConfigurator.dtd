@@ -87,3 +87,12 @@
 <!ENTITY featureConfigurator.previousButton "முன்னையது">
 <!ENTITY featureConfigurator.nextButton "அடுத்து">
 <!ENTITY featureConfigurator.closeButton "மூடுக">
+
+
+<!--
+Entities below were automatically added by compare-locales,
+ based on en-US entities.
+-->
+
+<!ENTITY featureConfigurator.addOn.failure "There was a problem installing this extension!">
+<!ENTITY featureConfigurator.addOn.downloading "Downloading…">

@@ -39,3 +39,12 @@
 <!ENTITY renameFolderDialog.title "காப்புறைக்கு மறுபெயரிடுக">
 <!ENTITY rename.label "உங்கள் கோப்புறைக்கு புதிய பெயரை எழுதுக:">
 <!ENTITY rename.accesskey "E">
+
+
+<!--
+Entities below were automatically added by compare-locales,
+ based on en-US entities.
+-->
+
+<!ENTITY accept.accesskey "R">
+<!ENTITY accept.label "Rename">
