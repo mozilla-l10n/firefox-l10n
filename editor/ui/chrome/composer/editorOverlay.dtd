@@ -45,9 +45,6 @@
 <!-- File menu items -->
 <!ENTITY fileMenu.label "ගොනු">
 <!ENTITY fileMenu.accesskey "F">
-<!ENTITY newBlankPageCmd.label "සකසන පිටුව">
-<!ENTITY newBlankPageCmd.accesskey "P" >
-<!ENTITY newMenu.label "නව">
 <!ENTITY openFileCmd.label "ගොනුවක් විවෘත කරන්න...">
 <!ENTITY openFileCmd.accesskey "O">
 <!ENTITY openFileCmd.key "O">
@@ -69,14 +66,8 @@
 <!ENTITY publishCmd.key "S">
 <!ENTITY publishAsCmd.label "මෙලෙස ප්‍රකාශනය කරන්න...">
 <!ENTITY publishAsCmd.accesskey "h">
-<!ENTITY exportToTextCmd.label "පෙළට නිර්යාත කරන්න...">
-<!ENTITY exportToTextCmd.accesskey "T">
 <!ENTITY saveAsChangeEncodingCmd.label "අක්ෂර කේතනය වෙනස් කර සුරකින්න">
 <!ENTITY saveAsChangeEncodingCmd.accesskey "E">
-<!ENTITY previewCmd.label "පිටුව පිරික්සීම">
-<!ENTITY previewCmd.accesskey "w">
-<!ENTITY sendPageCmd.label "පිටුව යවන්න...">
-<!ENTITY sendPageCmd.accesskey "d">
 <!ENTITY printSetupCmd.label "පිටු සැකසීම...">
 <!ENTITY printSetupCmd.accesskey "u">
 <!ENTITY printCmd.label "මුද්‍රණය...">
@@ -119,8 +110,6 @@
 <!ENTITY checkSpellingCmd2.label "අක්ෂර වින්‍යාස පරීක්ෂා කරන්න">
 <!ENTITY checkSpellingCmd2.accesskey "h">
 <!ENTITY checkSpellingCmd2.key "K">
-<!ENTITY validateCmd.label "HTML තහවුරු කරන්න">
-<!ENTITY validateCmd.accesskey "V">
 
 <!-- Insert menu items -->
 <!ENTITY insertMenu.label "ඇතුලත් කිරීම්">
@@ -160,6 +149,7 @@
 <!ENTITY redoCmd.accesskey "R">
 <!ENTITY cutCmd.label "කපන්න">
 <!ENTITY cutCmd.accesskey "t">
+
 <!ENTITY copyCmd.label "කොපි කරන්න">
 <!ENTITY copyCmd.accesskey "C">
 <!ENTITY pasteCmd.label "අලවන්න">
@@ -335,11 +325,6 @@
 <!ENTITY decreaseIndent.accesskey "D">
 <!ENTITY decreaseIndent.key "[">
 
-<!ENTITY grid.label "Positioning grid">
-<!ENTITY grid.accesskey "t">
-
-<!ENTITY pageProperties.label "පිටු සිරස්තලය සහ ලක්ෂණ...">
-<!ENTITY pageProperties.accesskey "g">
 <!ENTITY colorsAndBackground.label "පිටු වර්ණ සහ පසුබිම...">
 <!ENTITY colorsAndBackground.accesskey "u">
 <!-- Table Menu -->
@@ -409,15 +394,12 @@
 
 <!-- Toolbar-only items -->
 <!ENTITY menuBar.tooltip "මෙනු තෘරුව">
-<!ENTITY compositionToolbar.tooltip "සකසන මෙවලම්තීරුව">
 <!ENTITY formatToolbar.tooltip "හැඩතල මෙවලම්තීරුව">
 <!ENTITY newToolbarCmd.tooltip "නව සකසන පිටුවක් සෑදීම">
 <!ENTITY openToolbarCmd.label "විවෘත කරන්න">
 <!ENTITY openToolbarCmd.tooltip "පෙදෙසි (local) ගොනුවක් විවෘත කිරීම">
 <!ENTITY saveToolbarCmd.tooltip "ගොනුව පෙදෙසි (local) ස්ථානයකට සුරැකීම">
 <!ENTITY publishToolbarCmd.tooltip "ගොනුව දුරස්ථ ස්ථානයකට උඩුගත කිරීම">
-<!ENTITY previewToolbarCmd.label "පිරික්සීම">
-<!ENTITY previewToolbarCmd.tooltip "මෙම පිටුව නෙවිගේටරයට පූරණය කරන්න">
 <!ENTITY printToolbarCmd.label "මුද්‍රණය">
 <!ENTITY printToolbarCmd.tooltip "මෙම පිටුව මුද්‍රණය කිරීම">
 <!ENTITY findToolbarCmd.label "සෙයෙන්න">
@@ -454,33 +436,9 @@
 <!ENTITY alignLeftButton.tooltip "වම් මාර්ජීනය ඔස්සේ පාඨ පෙළගස්සන්න">
 <!ENTITY alignCenterButton.tooltip "පාඨ පෙළගැස්ම හරි මැදින්">
 <!ENTITY alignRightButton.tooltip "දකුණු මාර්ජීනය ඔස්සේ පාඨ පෙළගස්සන්න">
-<!ENTITY alignjustifyButton.tooltip "දකුණු සහ වම් මාර්ජීනයන් ඔස්සේ පාඨ පෙළගස්සන්න">
 
-<!-- Display Mode toolbar and View menu items -->
-<!ENTITY NormalModeTab.label "සාමාන්‍ය">
-<!ENTITY NormalMode.label "Normal Edit Mode">
-<!ENTITY NormalMode.accesskey "n">
-<!ENTITY NormalMode.tooltip "වගු සාරයන් සහ නම්කළ නැංගූරම් පෙන්වන්න">
-<!ENTITY AllTagsMode.label "HTML ටැග්">
-<!ENTITY AllTagsMode.accesskey "A">
-<!ENTITY AllTagsMode.tooltip "සියළු HTML ටැග් සඳහා අයිකන පෙන්වන්න">
 
-<!ENTITY HTMLSourceMode.label "HTML මූලය">
-<!-- Toolbar has an image with "HTML" text, so don't include it in the string -->
-<!ENTITY SourceMode.label "මූලය">
-<!ENTITY HTMLSourceMode.accesskey "h">
-<!ENTITY HTMLSourceMode.tooltip "HTML මූලය සැකසීම">
-<!ENTITY PreviewMode.label "පෙරදැක්ම">
-<!ENTITY PreviewMode.accesskey "p">
-<!ENTITY PreviewMode.tooltip "WYSIWYG ලෙස පෙන්වන්න (as in Navigator)">
 
-<!-- LOCALIZATION NOTE: Do NOT translate text for 'SourceTabDirection'
-     Use latin "ltr" if you want the <html> image to left of the 
-     'SourceMode.label' text defined above,
-     or use latin "rtl" if you want this image to the right of text
-     This is the value of the HTML 'dir' attribute
--->
-<!ENTITY SourceTabDirection "ltr">
 
 <!-- Structure Toolbar Context Menu items -->
 <!ENTITY structSelect.label         "තෝරන්න">
@@ -507,3 +465,12 @@ Entities below were automatically added by compare-locales,
 -->
 
 <!ENTITY pasteAsQuotationCmd.key "o">
+
+
+<!--
+Entities below were automatically added by compare-locales,
+ based on en-US entities.
+-->
+
+<!ENTITY alignJustifyButton.tooltip "දකුණු සහ වම් මාර්ජීනයන් ඔස්සේ පාඨ පෙළ ගස්සන්න">
+<!ENTITY newToolbarCmd.label "නව">
