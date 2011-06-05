@@ -104,7 +104,7 @@ can reach it easily. -->
 <!ENTITY subscribeToPageMenuitem.label "Abonare la această pagină...">
 <!ENTITY addCurPagesCmd.label "Pune semne de carte la toate filele...">
 <!ENTITY showAllBookmarks2.label "Arată toate semnele de carte">
-<!ENTITY bookmarkAllCmd.label "Semne de carte la toate filele...">
+<!ENTITY unsortedBookmarksCmd.label "Unsorted Bookmarks">
 <!ENTITY bookmarksToolbarChevron.tooltip "Arată mai multe semne de carte">
 
 <!ENTITY backCmd.label                "Înapoi">
@@ -179,6 +179,9 @@ can reach it easily. -->
 <!ENTITY addons.accesskey             "S">
 <!ENTITY addons.commandkey            "A">
 
+<!ENTITY webDeveloperMenu.label       "Web Developer">
+<!ENTITY webDeveloperMenu.accesskey   "W">
+
 <!ENTITY errorConsoleCmd.label        "Consolă de erori">
 <!ENTITY errorConsoleCmd.accesskey    "e">
 <!ENTITY errorConsoleCmd.commandkey   "j">
@@ -190,6 +193,21 @@ can reach it easily. -->
 <!ENTITY inspectMenu.label            "Inspectează">
 <!ENTITY inspectMenu.accesskey        "t">
 <!ENTITY inspectMenu.commandkey       "I">
+
+<!-- LOCALIZATION NOTE (scratchpad.label): This menu item label appears
+  -  in the Tools menu. See bug 653093.
+  -  The Scratchpad is intended to provide a simple text editor for creating
+  -  and evaluating bits of JavaScript code for the purposes of function
+  -  prototyping, experimentation and convenient scripting.
+  -
+  -  It's quite possible that you won't have a good analogue for the word
+  -  "Scratchpad" in your locale. You should feel free to find a close
+  -  approximation to it or choose a word (or words) that means
+  -  "simple discardable text editor". -->
+<!ENTITY scratchpad.label             "Scratchpad">
+<!ENTITY scratchpad.accesskey         "S">
+<!ENTITY scratchpad.keycode           "VK_F4">
+<!ENTITY scratchpad.keytext           "F4">
 
 <!ENTITY inspectPanelTitle.label      "HTML">
 <!ENTITY inspectButton.label          "Inspectează">
@@ -207,6 +225,9 @@ can reach it easily. -->
   -  titlebar: object.objectPanelTitle. -->
 <!ENTITY inspectObjectButton.label       "Obiect">
 <!ENTITY inspectObjectButton.accesskey   "O">
+
+<!ENTITY getMoreDevtoolsCmd.label        "Get More Tools">
+<!ENTITY getMoreDevtoolsCmd.accesskey    "M">
 
 <!ENTITY fileMenu.label         "Fișier"> 
 <!ENTITY fileMenu.accesskey       "F">

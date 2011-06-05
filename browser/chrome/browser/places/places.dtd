@@ -6,12 +6,9 @@
 <!ENTITY organize.accesskey    "O">
 <!ENTITY organize.tooltip      "Organizați-vă semnele de carte">
 
-<!ENTITY file.accesskey                 "F">
 <!ENTITY file.close.label               "Închide">
 <!ENTITY file.close.accesskey           "c">
 <!ENTITY cmd.close.key                  "w">
-<!ENTITY edit.label                     "Editează">
-<!ENTITY edit.accesskey                 "E">
 <!ENTITY views.label                    "Vederi">
 <!ENTITY views.accesskey                "V">
 <!ENTITY views.tooltip                  "Schimbați perspectiva">
@@ -76,8 +73,6 @@
 
 <!ENTITY cmd.reloadLivebookmark.label      "Reîncarcă semnul actualizabil">
 <!ENTITY cmd.reloadLivebookmark.accesskey  "R">
-<!ENTITY cmd.reloadMicrosummary.label      "Reîncarcă titlul actualizabil">
-<!ENTITY cmd.reloadMicrosummary.accesskey  "t">
 
 <!ENTITY cmd.moveBookmarks.label                  "Mută...">
 <!ENTITY cmd.moveBookmarks.accesskey              "M">
@@ -113,17 +108,14 @@
 <!ENTITY maintenance.accesskey  "I">
 <!ENTITY maintenance.tooltip    "Importați și asigurați-vă semnele de carte">
 
-<!ENTITY backCmd.label       "Înapoi">
 <!ENTITY backButton.tooltip  "Mergi înapoi">
 
-<!ENTITY forwardCmd.label       "Înainte">
 <!ENTITY forwardButton.tooltip  "Mergi înainte">
 
 <!ENTITY detailsPane.more.label "Mai mult">
 <!ENTITY detailsPane.more.accesskey "M">
 <!ENTITY detailsPane.less.label "Mai puțin">
 <!ENTITY detailsPane.less.accesskey "M">
-<!ENTITY detailsPane.noPreviewAvailable.label "Previzualizare">
 <!ENTITY detailsPane.selectAnItemText.description "Selectați un element pentru a-l vedea și a-i edita proprietățile">
 
 <!ENTITY find.label               "Căutare:">

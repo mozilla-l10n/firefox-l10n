@@ -51,8 +51,8 @@
 <!ENTITY proxyResolveFailure.title "Serverul proxy nu a fost găsit">
 <!ENTITY proxyResolveFailure.longDesc "<p>Navigatorul este configurat să folosească un server proxy, însă proxy-ul nu poate fi găsit.</p><ul><li>Este navigatorul configurat corect pentru acel proxy? Verificați parametrii și încercați din nou.</li><li>Este calculatorul conectat la o rețea activă?</li><li>Problemele persistă? Consultați administratorul sau furnizorul dumneavoastră de servicii internet.</li></ul>">
 
-<!ENTITY redirectLoop.title "Buclă de redirijări">
-<!ENTITY redirectLoop.longDesc "<p>Navigatorul a încetat să încerce aducerea conținutului de la adresa cerută. Saitul redirijează cererea astfel încât aceasta nu se va termina niciodată.</p><ul><li>Ați dezactivat sau blocat cookie-urile pentru acest sait?</li><li><em>NOTĂ</em>: Dacă acceptați cookie-uri de la acest sait și totuși problema persistă, este cel mai probabil o problemă de configurație a serverului și nu a calculatorului dumneavoastră.</li></ul>">
+<!ENTITY redirectLoop.title "Buclă de redirecționări">
+<!ENTITY redirectLoop.longDesc "<p>Navigatorul a încetat să încerce aducerea conținutului de la adresa cerută. Saitul redirecționează cererea astfel încât aceasta nu se va termina niciodată.</p><ul><li>Ați dezactivat sau blocat cookie-urile pentru acest sait?</li><li><em>NOTĂ</em>: Dacă acceptați cookie-uri de la acest sait și totuși problema persistă, este cel mai probabil o problemă de configurație a serverului și nu a calculatorului dumneavoastră.</li></ul>">
 
 <!ENTITY unknownSocketType.title "Răspuns incorect">
 <!ENTITY unknownSocketType.longDesc "<p>Saitul a răspuns cererii într-un mod neprevăzut și navigatorul nu mai poate continua.</p>">
