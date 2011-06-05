@@ -50,7 +50,7 @@
 
 
 <!-- Update -->
-<!ENTITY autoCheck.label "Gwiriañ an hizivadurioù nevez ent-emgefre bep :">
+<!ENTITY autoCheck.label "Klask an hizivadurioù ent-emgefreek evit :">
 <!ENTITY enableAppUpdate.label "&brandShortName;">
 <!ENTITY enableAppUpdate.accesskey "e">
 <!ENTITY enableAddonsUpdate.label "Askouezhioù bet staliet">

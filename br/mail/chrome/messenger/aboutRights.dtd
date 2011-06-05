@@ -21,7 +21,8 @@
 <!ENTITY rights.intro-point2c ".">
 
 <!-- point 3 text for official branded builds -->
-<!ENTITY rights.intro-point3a "Reolennoù kenderc'hoù &vendorShortName; a-fet buhez prevez e vez kavet ">
+<!ENTITY rights.intro-point3a "Reolennoù kenderc'hadoù &vendorShortName; a-fet buhez prevez e vez kavet ">
+
 <!ENTITY rights.intro-point3b "amañ">
 <!ENTITY rights.intro-point3c ".">
 
@@ -45,11 +46,12 @@
      the UI, without this page being forgotten every time those strings are
      updated.  -->
 <!-- intro paragraph for branded builds -->
-<!ENTITY rights.webservices-a "&brandFullName; a ginnig gwazerezhioù diret (&quot;Gwazerezhioù&quot;), evel gwazerezh hizivaat an askouezhioù, hag a zo hegerzh evit hoc'h arver gant an handelv daouredel-mañ eus &brandShortName; dindan an termenoù deskrivet amañ dindan. Ma ne fell ket deoc'h ober gant ar gwazerezhioù pe ma ne fell ket deoc'h degemer an termenoù e c'hallit diweredekaat gwazerezh hizivaat an askouezhioù en ur zigeriñ gwellvezioù an arload hag en ur zibab ar gevrenn ">
+<!ENTITY rights.webservices-a "&brandFullName; a ginnig gwazerezhioù diret (&quot;Gwazerezhioù&quot;), evel gwazerezh hizivaat an askouezhioù, hag a zo hegerz evit hoc'h arver gant an handelv daouredel-mañ eus &brandShortName; dre an termenoù deskrivet amañ dindan. Ma ne fell ket deoc'h ober gant ar gwazerezhioù pe ma ne fell ket deoc'h degemer an termenoù e c'hallit diweredekaat gwazerezh hizivaat an askouezhioù en ur zigeriñ gwellvezioù an arload hag en ur zibab ar gevrenn ">
+
 <!ENTITY rights.webservices-b "Kempleshoc'h">
 <!ENTITY rights.webservices-c ", hag an ivinell ">
 <!ENTITY rights.webservices-d "Hizivaat">
-<!ENTITY rights.webservices-e ", hag en ur zigevaskañ an dibarzhioù evit &quot;Gwiriañ an hizivadurioù ent-emgefre evit&quot;.">
+<!ENTITY rights.webservices-e ", hag en ur zigevaskañ an dibarzhioù evit &quot;Klask an hizivadurioù ent-emgefreek evit&quot;.">
 
 <!-- intro paragraph for unbranded builds -->
 <!ENTITY rights.webservices-unbranded "Un alberz war gwazerezhioù al lec'hiennoù web enkorfet er c'henderc'had, gant an ditouroù evit gouzout penaos o diweredekaat, mar bez tro, a zlefe bezañ kavet amañ.">
@@ -59,7 +61,7 @@
 
 <!-- points 1-7 text for branded builds -->
 <!ENTITY rights.webservices-term1 "&vendorShortName; a c'hell troc'hañ pe gemmañ ar Gwazerezhioù evel ma plij dezhañ.">
-<!ENTITY rights.webservices-term2 "Degemeret oc'h mat mar fell deoc'h ober gant ar gwazerezhioù-mañ gant an handelvoù eus &brandShortName; o tont gantañ, ha roet eo deoc'h ar gwirioù d'en ober. &vendorShortName; hag ar re a zo gwirioù al lañvaz ganto a vir an holl wirioù all er Gwazerezh. N'eo ket graet an termenoù-mañ a-benn lakaat bevennoù d'ar gwrioù gwarantet dindan lañvazioù digor o zarzh a vez arloet da &brandShortName; ha d'an handelvoù eus ar bonegoù tarzh eus &brandShortName; o klotañ ganti.">
+<!ENTITY rights.webservices-term2 "Gallout a rit ober gant ar gwazerezhioù-mañ gant an handelv eus &brandShortName; o tont gantañ, ha roet eo deoc'h ar gwirioù ret d'en ober. &vendorShortName; hag ar re a zo gwirioù al lañvaz ganto a vir an holl wirioù all er Gwazerezh. N'eo ket graet an termenoù-mañ a-benn lakaat bevennoù d'ar gwrioù gwarantet dindan lañvazioù digor o zarzh a vez arloet da &brandShortName; ha d'an handelvoù eus ar bonegoù tarzh eus &brandShortName; o klotañ ganti.">
 <!ENTITY rights.webservices-term3 "&quot;Evel m'emaint&quot; ez eo pourchaset ar gwazerezhioù. &vendorShortName;, e berzhiaded, e lañvazourion hag e zasparzhourion a zinac'h an holl watantoù, pe gantrat pe emplegat, en o zouez, hep bezañ bevennet ganto avat, gwarantoù e vez kenwerzhadus ar gwazerezhioù hag e klotont gant hoc'h ezhommoù hiniennel. Ganeoc'h emañ an holl arvaroù e-keñver diuzañ ar gwazerezhioù evit hoc'h ezhommoù hag e-keñver perzhded ha digonusted ar gwazerezhioù. Barnadurezhioù zo ne aotreont ket ma vefe ezlakaet pe bevennet gwarantoù emplegat, neuze marteze ne vo ket arloet an diferadenn ezlakaat-mañ ouzhoc'h.">
 <!ENTITY rights.webservices-term4 "Anez ma vefe azgoulennet gant al lezenn, ne gouezho ket &vendorShortName;, e berzhiaded, e lañvazourion hag e zasparzhourion dindan gaouadoù ameeun, arbennik, adgaouadoù, gaouadoù ha 
 kampioù kastizañ, pe c'haouadoù skoueriek en abeg d'un arver eus &brandShortName; pe en abeg da forzh peseurt arver eus &brandShortName; hag ar gwazerezhioù. An atebegezh stroll, dindan an termenoù-mañ, ned ay ket dreist 500 $ (pemp kant dollar). Barnadurezhioù zo n'aotreont ket ma vefe ezlakaet pe bevennet gwarantoù emplegat, neuze marteze ne vo ket arloet an diferadenn ezlakaat-mañ ouzhoc'h.">
