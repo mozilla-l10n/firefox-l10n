@@ -54,3 +54,27 @@
 
 <!ENTITY update.downloading.start "Изтегляне на обновяване — ">
 <!ENTITY update.downloading.end "">
+<!-- LOCALIZATION NOTE (channel.description.start,channel.description.end): channel.description.start and
+     channel.description.end create one sentence, with the current channel label inserted in between.
+     example: You are currently on the _Stable_ update channel. -->
+
+<!ENTITY channel.description.start "Сега сте на канал за обновявания ">
+<!ENTITY channel.description.end ".">
+
+<!ENTITY channel.change "Смяна">
+
+<!ENTITY channel.release.description "Насладете се на проверена окончателна версия, използвана от стотици хиляди хора по света. Контролирайте присъствието си онлайн със свръхскорост, лесна персонализация и последни уеб-технологии.">
+<!ENTITY channel.beta.description "Насладете се на последните нови възможности, но и с голяма надеждност. Дайте обратна връзка и така помогнете за рафиниране и изглаждане на окончателната версия.">
+<!ENTITY channel.aurora.description "Изпитайте последните иновации в нестабилна среда, която не е за хора със слаби сърца. Дайте обратна връзка за новите възможности и за производителността и така помогнете в оформянето на окончателната версия.">
+<!-- LOCALIZATION NOTE (channel.selector.start,channel.selector.end): channel.selector.start and
+     channel.selector.end create one sentence, with a channel selection menulist instered in between.
+     This is all in one line, so try to make the localized text short.
+     example: Switch to the [Stable] update channel. -->
+
+<!ENTITY channel.selector.start "Превключване към канал за обновявания ">
+<!ENTITY channel.selector.end ".">
+<!-- LOCALIZATION NOTE (channel.selector.applyButton): This button applies the user's choice to switch
+     to a new update channel and starts the application update process. -->
+
+<!ENTITY channel.selector.applyButton "Прилагане и обновяване">
+<!ENTITY channel.selector.cancelButton "Отказ">

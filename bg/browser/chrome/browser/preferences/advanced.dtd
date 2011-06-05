@@ -21,8 +21,6 @@
 <!ENTITY allowHWAccel.accesskey "х">
 <!ENTITY checkSpelling.label "Проверка на правописа по време на въвеждане">
 <!ENTITY checkSpelling.accesskey "П">
-<!ENTITY doNotTrack.label "Казване на уеб сайтовете, че не искам да бъда следен">
-<!ENTITY doNotTrack.accesskey "с">
 
 <!ENTITY systemDefaults.label "По подразбиране">
 <!--XXX-->

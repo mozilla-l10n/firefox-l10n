@@ -43,7 +43,7 @@
 <!ENTITY setup.newSyncKeyPage.description.label "За подсигуряване на вашата пълна поверителност, всички ваши данни се шифроват преди да се качат. Ключът за Sync, който е необходим за разшифроване на вашите данни, не се качва.">
 <!ENTITY syncKeyEntry.label "Вашият ключ за Sync">
 <!ENTITY syncKeyEntry.accesskey "к">
-<!ENTITY syncKeyGenerate.label "Генериране">
+<!ENTITY syncGenerateNewKey.label "Генериране на нов ключ">
 <!ENTITY syncKeyBackup.description "Вашият ключ за Sync е необходим за достъп до &syncBrand.fullName.label; на други машини. Моля направете резервно копие сега. Ние не можем да ви помогнем при възстановяване на вашия ключ за Sync.">
 
 <!ENTITY button.syncKeyBackup.print.label "Отпечатване…">

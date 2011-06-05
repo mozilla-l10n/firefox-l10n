@@ -19,13 +19,17 @@
 
 <!ENTITY pluginWizard.finalPage.moreInfo.label "Научете повече за приставките или потърсете сами липсващите такива.">
 <!ENTITY pluginWizard.finalPage.restart.label "Трябва да рестартирате &brandShortName;, за да заработят приставките.">
-  
-<!ENTITY missingPlugin.label "Натиснете тук, за да изтеглите приставката.">
-<!ENTITY disabledPlugin.label "Приставката за това съдържание е изключена. Щракнете тук, за да видите приставките.">
+
+<!ENTITY missingPlugin "Нужна е определена приставка за показване на това съдържание">
+<!ENTITY disabledPlugin "Тази приставка е деактивирана.">
 <!ENTITY blockedPlugin.label "Приставката беше блокирана от съобрания за сигурност.">
+
+<!ENTITY installPlugin "Инсталиране на приставка…">
+<!ENTITY managePlugins "Управление на приставките…">
 <!-- LOCALIZATION NOTE (reloadPlugin.pre): include a trailing space as needed -->
 <!-- LOCALIZATION NOTE (reloadPlugin.middle): avoid leading/trailing spaces, this text is a link -->
 <!-- LOCALIZATION NOTE (reloadPlugin.post): include a starting space as needed -->
+
 <!ENTITY reloadPlugin.pre "">
 <!ENTITY reloadPlugin.middle "Презареждане на страницата">
 <!ENTITY reloadPlugin.post " за нов опит.">

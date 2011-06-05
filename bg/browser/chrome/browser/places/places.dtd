@@ -6,12 +6,9 @@
 <!ENTITY organize.accesskey "р">
 <!ENTITY organize.tooltip "Подреждане на отметките">
 
-<!ENTITY file.accesskey "Ф">
 <!ENTITY file.close.label "Затваряне">
 <!ENTITY file.close.accesskey "З">
 <!ENTITY cmd.close.key "w">
-<!ENTITY edit.label "Редактиране">
-<!ENTITY edit.accesskey "Р">
 <!ENTITY views.label "Изгледи">
 <!ENTITY views.accesskey "И">
 <!ENTITY views.tooltip "Change your view">
@@ -76,8 +73,6 @@
 
 <!ENTITY cmd.reloadLivebookmark.label "Презареждане на жива отметка">
 <!ENTITY cmd.reloadLivebookmark.accesskey "ж">
-<!ENTITY cmd.reloadMicrosummary.label "Презареждане на живо заглавие">
-<!ENTITY cmd.reloadMicrosummary.accesskey "з">
 
 <!ENTITY cmd.moveBookmarks.label "Преместване…">
 <!ENTITY cmd.moveBookmarks.accesskey "П">
@@ -113,17 +108,14 @@
 <!ENTITY maintenance.accesskey "В">
 <!ENTITY maintenance.tooltip "Внасяне и възстановяване на отметките">
 
-<!ENTITY backCmd.label "Назад">
 <!ENTITY backButton.tooltip "Връщане назад">
 
-<!ENTITY forwardCmd.label "Напред">
 <!ENTITY forwardButton.tooltip "Отиване напред">
 
 <!ENTITY detailsPane.more.label "Повече">
 <!ENTITY detailsPane.more.accesskey "в">
 <!ENTITY detailsPane.less.label "По-малко">
 <!ENTITY detailsPane.less.accesskey "м">
-<!ENTITY detailsPane.noPreviewAvailable.label "Предварителен преглед">
 <!ENTITY detailsPane.selectAnItemText.description "Маркирайте елемент, за да го разгледате и редактирате">
 
 <!ENTITY find.label "Търсене:">
