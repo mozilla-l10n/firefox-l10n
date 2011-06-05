@@ -191,3 +191,12 @@
 <!ENTITY eula.width                           "560px">
 <!ENTITY eula.height                          "400px">
 <!ENTITY eula.accept                          "ஏற்றுக்கொண்டு நிறுவுக…">
+
+
+<!--
+Entities below were automatically added by compare-locales,
+ based on en-US entities.
+-->
+
+<!ENTITY info.plugincheck.tooltip "Check to see if your plugins are up to date">
+<!ENTITY info.plugincheck.label "Check to see if your plugins are up to date">

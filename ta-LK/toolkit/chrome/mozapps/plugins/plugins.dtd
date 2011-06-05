@@ -39,3 +39,14 @@ Entities below were automatically added by compare-locales,
 <!ENTITY report.submitting "அறிக்கை அனுப்பப்படுகிறது.">
 <!ENTITY report.submitted "முறிவு அறிக்கை அனுப்புதல்.">
 <!ENTITY report.please "முறிவு அறிக்கையினை அனுப்புக.">
+
+
+<!--
+Entities below were automatically added by compare-locales,
+ based on en-US entities.
+-->
+
+<!ENTITY managePlugins "Manage plugins…">
+<!ENTITY missingPlugin "A plugin is needed to display this content.">
+<!ENTITY installPlugin "Install plugin…">
+<!ENTITY disabledPlugin "This plugin is disabled.">
