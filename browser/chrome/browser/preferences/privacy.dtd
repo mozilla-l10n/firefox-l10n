@@ -1,3 +1,8 @@
+<!ENTITY tracking.label                 "Sporing">
+
+<!ENTITY doNotTrack.label               "Fortel nettstader at eg ikkje ønskjer å verte spora">
+<!ENTITY doNotTrack.accesskey           "F">
+
 <!ENTITY  history.label                 "Historikk">
 
 <!ENTITY  locationBar.label             "Adresselinje">
@@ -29,7 +34,6 @@
 
 <!ENTITY  showCookies.label             "Vis infokapslar …">
 <!ENTITY  showCookies.accesskey         "V">
-
 
 <!ENTITY  historyHeader.pre.label          "&brandShortName; skal:">
 <!ENTITY  historyHeader.pre.accesskey      "F">
