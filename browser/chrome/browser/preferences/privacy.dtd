@@ -1,3 +1,8 @@
+<!ENTITY tracking.label "Проследяване">
+
+<!ENTITY doNotTrack.label "Казване на сайтовете, че не искам да бъда проследяван">
+<!ENTITY doNotTrack.accesskey "п">
+
 <!ENTITY history.label "История">
 
 <!ENTITY locationBar.label "Лента за адрес">
@@ -29,7 +34,6 @@
 
 <!ENTITY showCookies.label "Показване на бисквитките…">
 <!ENTITY showCookies.accesskey "б">
-
 
 <!ENTITY historyHeader.pre.label "&brandShortName; ще:">
 <!ENTITY historyHeader.pre.accesskey "щ">
