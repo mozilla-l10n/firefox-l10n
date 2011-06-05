@@ -59,8 +59,8 @@
 <!ENTITY  dontrememberActions.pre.label          "Vous voulez peut-être ">
 <!ENTITY  dontrememberActions.clearHistory.label "effacer la totalité de l'historique actuel">
 <!ENTITY  dontrememberActions.post.label         ".">
-<!ENTITY  privateBrowsingPermanent.label "Mode de navigation privée permanent">
-<!ENTITY  privateBrowsingPermanent.accesskey "M">
+<!ENTITY  privateBrowsingPermanent2.label "Toujours utiliser le mode de navigation privée">
+<!ENTITY  privateBrowsingPermanent2.accesskey "T">
 
 <!ENTITY  rememberHistory.label      "Conserver l'historique de navigation">
 <!ENTITY  rememberHistory.accesskey  "C">
