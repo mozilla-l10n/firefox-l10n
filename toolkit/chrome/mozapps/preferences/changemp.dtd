@@ -1,4 +1,4 @@
-﻿<!ENTITY setPassword.title                 "முதன்மைக் கடவுச்சொல்லை மாற்றுக">
+<!ENTITY setPassword.title                 "முதன்மைக் கடவுச்சொல்லை மாற்றுக">
 <!ENTITY setPassword.tokenName.label       "பாதுகாப்புச் சாதனம்">
 <!ENTITY setPassword.oldPassword.label     "தற்போதைய கடவுச்சொல்:">
 <!ENTITY setPassword.newPassword.label     "பதிய கடவுச்சொல்லை உள்ளிடுக:">
