@@ -59,7 +59,6 @@
 <!ENTITY printSetupCmd.label            "Puslapio nuostatos…">
 <!ENTITY printSetupCmd.accesskey        "P">
 
-<!ENTITY redoCmd.label                  "Atstatyti">  
 <!ENTITY redoCmd.key                    "Z">  
 
 <!ENTITY historyCmd.key                 "H">  
