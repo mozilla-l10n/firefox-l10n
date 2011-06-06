@@ -7,5 +7,5 @@
 Entities below were automatically added by compare-locales,
  based on en-US entities.
 -->
-
-<!ENTITY trademarkInfo.part1 "Firefox and the Firefox logos ஆகியன  Mozilla Foundation இனுடைய வியாபாரக்குறிகள் ஆகும்.">
+<!ENTITY  trademarkInfo.part1   "Firefox and the Firefox logos
+                                 are trademarks of the Mozilla Foundation.">

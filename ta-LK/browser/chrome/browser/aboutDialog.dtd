@@ -5,7 +5,7 @@ Entities below were automatically added by compare-locales,
 -->
 
 <!ENTITY update.failed.end "">
-<!ENTITY update.noUpdatesFound "&brandShortName; இற்றைப்படுத்தப்பட்டது">
+<!ENTITY update.noUpdatesFound  "&brandShortName; இற்றைப்படுத்தப்பட்டது">
 <!ENTITY update.downloading.start "இற்றைப்படுத்தல் பதிவிறக்கப்படுகிறது - "> 
 <!ENTITY update.manual.end "">
 <!ENTITY update.checkingForUpdates "இற்றைப்படுத்தல்கள் சரிபார்க்கப்படுகிறது..."> 
