@@ -22,9 +22,9 @@
 <!ENTITY password.manage                 "Zarządzaj hasłami…">
 
 <!ENTITY cookie.label                    "Ustawianie ciasteczek">
-<!ENTITY cookie.clear                    "Wyczyść ciasteczka">
+<!ENTITY cookie.remove                   "Usuń ciasteczka">
 <!ENTITY cookie.manage                   "Zarządzaj ciasteczkami…">
-<!ENTITY cookie.clearAll                 "Wyczyść wszystkie ciasteczka">
+<!ENTITY cookie.removeAll                "Usuń wszystkie ciasteczka">
 
 <!ENTITY geo.label                       "Udostępniaj położenie">
 
