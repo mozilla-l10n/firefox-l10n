@@ -141,19 +141,19 @@
 <!ENTITY editLinkCmd.accesskey "i">
 <!-- (Toplevel Edit menu uses utilityOverlay) -->
 <!ENTITY undoCmd.label "Zpět">
-<!ENTITY undoCmd.accesskey "z">
+<!ENTITY undoCmd.accesskey "Z">
 <!ENTITY redoCmd.label "Znovu">
-<!ENTITY redoCmd.accesskey "n">
+<!ENTITY redoCmd.accesskey "o">
 <!ENTITY cutCmd.label "Vyjmout">
-<!ENTITY cutCmd.accesskey "v">
+<!ENTITY cutCmd.accesskey "y">
 <!ENTITY copyCmd.label "Kopírovat">
-<!ENTITY copyCmd.accesskey "k">
+<!ENTITY copyCmd.accesskey "K">
 <!ENTITY pasteCmd.label "Vložit">
 <!ENTITY pasteCmd.accesskey "l">
 <!ENTITY deleteCmd.label "Smazat">
-<!ENTITY deleteCmd.accesskey "s">
+<!ENTITY deleteCmd.accesskey "m">
 <!ENTITY clearCmd.label "Vyčistit">
-<!ENTITY clearCmd.accesskey "l">
+<!ENTITY clearCmd.accesskey "V">
 <!ENTITY selectAllCmd.label "Vybrat vše">
 <!ENTITY selectAllCmd.accesskey "a">
 
