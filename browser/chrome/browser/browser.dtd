@@ -134,6 +134,7 @@
 <!ENTITY undoCmd.label            "அ-செய்">  
 <!ENTITY undoCmd.key            "Z">  
 <!ENTITY undoCmd.accesskey          "U"> 
+
 <!ENTITY redoCmd.label            "மீ-செய்">  
 <!ENTITY redoCmd.key            "Y">  
 <!ENTITY redoCmd.accesskey          "R"> 
