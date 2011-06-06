@@ -75,7 +75,7 @@
 <!ENTITY calendar.unifinder.tree.location.label "Luogo">
 <!ENTITY calendar.unifinder.tree.status.label "Stato">
 <!ENTITY calendar.unifinder.tree.calendarname.label "Nome calendario">
-<!ENTITY calendar.unifinder.tree.duration.label "Scadenza">
+<!ENTITY calendar.unifinder.tree.duration.label "Scade tra">
 <!ENTITY calendar.unifinder.close.tooltip "Chiudi la ricerca e la lista degli eventi">
 <!ENTITY calendar.today.button.tooltip "Vai a Oggi">
 <!ENTITY calendar.todaypane.button.tooltip "Visualizza pannello Oggi">
@@ -183,7 +183,7 @@
 <!ENTITY calendar.context.priority.label "Priorità">
 <!ENTITY calendar.context.priority.accesskey "P">
 <!ENTITY percnt "&#037;">
-<!ENTITY calendar.context.markcompleted.label "Segna come completata">
+<!ENTITY calendar.context.markcompleted.label "Completata">
 <!ENTITY calendar.context.markcompleted.accesskey "S">
 <!ENTITY progress.level.0 "0&percnt; completata">
 <!ENTITY progress.level.0.accesskey "0">
