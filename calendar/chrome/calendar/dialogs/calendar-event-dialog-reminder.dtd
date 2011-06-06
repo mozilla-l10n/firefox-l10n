@@ -34,14 +34,14 @@
    -
    - ***** END LICENSE BLOCK ***** -->
 
-<!ENTITY reminderdialog.title "Nastavit připomenutí">
+<!ENTITY reminderdialog.title "Nastavení připomenutí">
 <!ENTITY reminder.add.label "Přidat">
 <!ENTITY reminder.add.accesskey "P">
 <!ENTITY reminder.remove.label "Odstranit">
 <!ENTITY reminder.remove.accesskey "O">
 
 <!ENTITY reminder.reminderDetails.label "Podrobnosti připomenutí">
-<!ENTITY reminder.action.label "Zvolit akci">
+<!ENTITY reminder.action.label "Volba akce">
 
 <!ENTITY reminder.relation.before.label "před">
 <!ENTITY reminder.relation.after.label "po">
