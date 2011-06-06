@@ -1,7 +1,0 @@
-<!ENTITY startDescriptionText.label        "Ein nettstad prøvde å opne eit sprettoppvindauge utan løyve frå deg. &brandShortName; har automatisk late att sprettoppvindauget.">
-
-<!ENTITY endDescription.label              "Du kan klikke på dette ikonet for å sjå kva for nettstader &brandShortName; blokkerte. Her kan du òg fjerne blokkeringa for ein nettstad, viss det er naudsynt for at han skal fungere som han skal.">
-
-<!ENTITY caption.label                     "Om blokkering av sprettoppvindauge">
-
-<!ENTITY done.label "Fullført">
