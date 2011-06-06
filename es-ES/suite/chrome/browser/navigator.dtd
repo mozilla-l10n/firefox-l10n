@@ -28,8 +28,6 @@
 <!ENTITY printCmd.label "Imprimir…">
 <!ENTITY printCmd.accesskey "I">
 <!ENTITY printCmd.commandkey "p">
-<!ENTITY viewMenu.label "Ver">
-<!ENTITY viewMenu.accesskey "v">
 <!ENTITY toolbarsCmd.label "Mostrar/Ocultar">
 <!ENTITY toolbarsCmd.accesskey "m">
 <!ENTITY navbarCmd.label "Barra de herramientas de navegación">

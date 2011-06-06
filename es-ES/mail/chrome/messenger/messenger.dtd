@@ -29,7 +29,7 @@
 <!ENTITY saveAsFileCmd.key "s">
 <!ENTITY saveAsTemplateCmd.label "Plantilla">
 <!ENTITY saveAsTemplateCmd.accesskey "p">
-<!ENTITY getNewMsgCmd.key "t">
+<!ENTITY getNewMsgCmd.key "d">
 <!ENTITY getNewMsgForCmd.label "Recibir mensajes nuevos de">
 <!ENTITY getNewMsgForCmd.accesskey "b">
 <!ENTITY getAllNewMsgCmdPopupMenu.label "Todas las cuentas">
@@ -299,7 +299,7 @@
 <!ENTITY newMsgCmd.accesskey "N">
 <!ENTITY newNewMsgCmd.label "Mensaje">
 <!ENTITY newNewMsgCmd.accesskey "M">
-<!ENTITY archiveMsgCmd.label "Archivo">
+<!ENTITY archiveMsgCmd.label "Archivar">
 <!ENTITY archiveMsgCmd.accesskey "A">
 <!ENTITY archiveMsgCmd.key "a">
 <!ENTITY cancelNewsMsgCmd.label "Cancelar mensaje">
@@ -473,7 +473,7 @@
 <!ENTITY getMsgButton.tooltip "Recibir mensajes nuevos">
 <!ENTITY getAllNewMsgCmd.label "Recibir todos los mensajes nuevos">
 <!ENTITY getAllNewMsgCmd.accesskey "R">
-<!ENTITY getAllNewMsgCmd.key "t">
+<!ENTITY getAllNewMsgCmd.key "d">
 <!ENTITY newMsgButton.tooltip "Crear nuevo mensaje">
 <!ENTITY replyButton.tooltip "Responder al mensaje">
 <!ENTITY replyAllButton.tooltip "Responder al remitente y a todos los destinatarios">
@@ -515,7 +515,7 @@
 <!ENTITY folderContextCompact.accesskey "C">
 <!ENTITY folderContextEmptyTrash.label "Vaciar papelera">
 <!ENTITY folderContextEmptyTrash.accesskey "v">
-<!ENTITY folderContextEmptyJunk.label "Vacíar correo no deseado">
+<!ENTITY folderContextEmptyJunk.label "Vaciar correo no deseado">
 <!ENTITY folderContextEmptyJunk.accesskey "s">
 <!ENTITY folderContextSendUnsentMessages.label "Enviar mensajes pendientes">
 <!ENTITY folderContextSendUnsentMessages.accesskey "n">
@@ -638,10 +638,12 @@
 <!ENTITY loadRemoteContentButton3.label "Mostrar contenido remoto">
 <!ENTITY phishingBarMessage2.label "Este mensaje puede ser fraudulento.">
 <!ENTITY removePhishingBarButton1.label "Ignorar advertencia">
+<!ENTITY disablePhishingWarning1.label "Desactivar detección de mensajes fraudulentos">
 <!ENTITY reportPhishingError1.label "Este mensaje no parece ser fraudulento.">
-<!ENTITY mdnBarMessage.label "El remitente de este mensaje ha solicitado ser notificado cuando se lea este mensaje. ¿Desea notificar al remitente?">
-<!ENTITY mdnBarIgnoreButton.label "Ignorar solicitud">
-<!ENTITY mdnBarSendButton.label "Enviar acuse de recibo">
+<!ENTITY mdnBarIgnoreButton2.label "Ignorar">
+<!ENTITY mdnBarIgnoreButton2.accesskey "I">
+<!ENTITY mdnBarSendButton2.label "Enviar acuse de recibo">
+<!ENTITY mdnBarSendButton2.accesskey "v">
 <!ENTITY quickSearchCmd.key "k">
 <!ENTITY searchAllMessages.label.base "Buscar en todos los mensajes… #1">
 <!ENTITY searchAllMessages.keyLabel2.nonmac "&lt;Ctrl+K&gt;">

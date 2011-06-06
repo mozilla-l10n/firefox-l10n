@@ -47,7 +47,7 @@
 <!ENTITY folderRebuildSummaryFileTip2.label "Reconstruir el archivo índice resumen">
 <!ENTITY folderRebuildSummaryFile2.label "Reparar carpeta">
 <!ENTITY folderRebuildSummaryFile2.accesskey "R">
-<!ENTITY folderRebuildSummaryFile.explanation "Alguna veces el archivo índice de la carpeta (.msf) se daña y puede parecer que algunos mensajes válidos desaparecen mientras que otros eliminados siguen mostrándose; reparar la carpeta puede corregir estos problemas.">
+<!ENTITY folderRebuildSummaryFile.explanation "Algunas veces el archivo índice de la carpeta (.msf) se daña y puede parecer que algunos mensajes válidos desaparecen mientras que otros eliminados siguen mostrándose; reparar la carpeta puede corregir estos problemas.">
 <!ENTITY folderIncludeInGlobalSearch.label "Incluir mensajes en esta carpeta en los resultados de la búsqueda global">
 <!ENTITY folderIncludeInGlobalSearch.accesskey "I">
 <!ENTITY retention.label "Política de retención">

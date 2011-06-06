@@ -26,9 +26,9 @@
 <!ENTITY downloadManagerCmd.label "Administrador de descargas">
 <!ENTITY downloadManagerCmd.accesskey "D">
 <!ENTITY downloadManagerCmd.commandkey "j">
-<!ENTITY addonsManagerCmd.label "Administrador de complementos">
-<!ENTITY addonsManagerCmd.accesskey "m">
-<!ENTITY addonsManagerCmd.commandkey "a">
+<!ENTITY addOnsManagerCmd.label "Administrador de complementos">
+<!ENTITY addOnsManagerCmd.accesskey "c">
+<!ENTITY addOnsManagerCmd.commandkey "a">
 <!ENTITY switchProfileCmd.label "Intercambiar perfil…">
 <!ENTITY switchProfileCmd.accesskey "I">
 <!ENTITY syncBrand.shortName.label "Sync">

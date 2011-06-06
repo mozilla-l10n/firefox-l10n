@@ -1,6 +1,6 @@
 <!ENTITY splash_screen_label "Cargando">
 <!ENTITY splash_screen_installing "Instalando librerías\u2026">
-<!ENTITY incompatable_cpu_error "Este dispositivo no posee los requerimientos mínimos para ejecutar &brandShortName;.">
+<!ENTITY splash_firstrun "Configurando &brandShortName;\u2026">
 <!ENTITY no_space_to_start_error "No hay suficiente espacio para que &brandShortName; pueda iniciarse.">
 <!ENTITY error_loading_file "Ha ocurrido un error mientras se intentaba cargar los archivos para usar &brandShortName;">
 <!ENTITY crash_reporter_title "Agente de informe de fallos de &brandShortName;">
@@ -12,5 +12,4 @@
 <!ENTITY crash_restart_label "Reiniciar &brandShortName;">
 <!ENTITY sending_crash_report "Enviando reporte de fallo\u2026">
 <!ENTITY exit_label "Salir">
-<!ENTITY incompatable_device "&brandShortName; no soporta este dispositivo y podría experimentar problemas.">
 <!ENTITY continue_label "Continuar">
