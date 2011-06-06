@@ -22,9 +22,9 @@
 <!ENTITY password.manage                 "Hantera lösenord…">
 
 <!ENTITY cookie.label                    "Sätta kakor">
-<!ENTITY cookie.clear                    "Rensa kakor">
+<!ENTITY cookie.remove                   "Ta bort kakor">
 <!ENTITY cookie.manage                   "Hantera kakor…">
-<!ENTITY cookie.clearAll                 "Rensa alla kakor">
+<!ENTITY cookie.removeAll                "Ta bort alla kakor">
 
 <!ENTITY geo.label                       "Uppge position">
 
