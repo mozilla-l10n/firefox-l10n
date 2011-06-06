@@ -7,8 +7,10 @@
 <!ENTITY helpMenuWin.accesskey "H">
 <!ENTITY helpTroubleshootingInfo.label     "Feilsøkingsinformasjon">
 <!ENTITY helpTroubleshootingInfo.accesskey "F">
-<!ENTITY releaseCmd.label "Versjonsnotat">
-<!ENTITY releaseCmd.accesskey "V">
+<!ENTITY helpSafeMode.label     "Start på nytt utan utvidingar …">
+<!ENTITY helpSafeMode.accesskey "S">
+<!ENTITY releaseCmd2.label "Versjonsnotat">
+<!ENTITY releaseCmd2.accesskey "V">
 <!ENTITY whatsNewCmd.label "Kva er nytt">
 <!ENTITY whatsNewCmd.accesskey "K">
 <!ENTITY featureConfiguratorCmd.label "Migrasjonsassistent">
@@ -20,6 +22,5 @@
 <!ENTITY openHelpMac2.commandkey   "?">
 <!ENTITY openHelpMac2.modifiers    "accel">
 
-<!ENTITY updateCmd.label "Sjå etter oppdateringar …">
 <!ENTITY aboutMenuCmd.label "Om &brandShortName;">
 <!ENTITY aboutMenuCmd.accesskey "O">

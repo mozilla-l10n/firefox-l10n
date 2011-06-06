@@ -193,12 +193,16 @@
 <!ENTITY quoteButton.tooltip "Siter førre melding"> 
 <!ENTITY addressButton.tooltip "Vel mottakar frå ei adressebok"> 
 <!ENTITY attachButton.tooltip "Ta med vedlegg"> 
+<!ENTITY spellingButton.tooltip "Kontroller staving av merkt tekst eller heile meldinga">
 <!ENTITY saveButton.tooltip "Lagre meldinga"> 
 <!ENTITY cutButton.tooltip              "Klipp ut">
 <!ENTITY copyButton.tooltip             "Kopier">
 <!ENTITY pasteButton.tooltip            "Lim inn">
 
 <!-- Headers -->
+<!--LOCALIZATION NOTE headersSpace.style is for aligning  the From:, To: and
+    Subject: rows. It should be larger than the largest Header label  -->
+<!ENTITY headersSpace.style "width: 9em;">
 <!ENTITY fromAddr.label "Frå:">
 <!ENTITY fromAddr.accesskey "å">
 <!ENTITY toAddr.label "Til:"> 
@@ -263,6 +267,10 @@
 <!ENTITY attachFile.accesskey "L">
 <!ENTITY attachPage.label "Legg ved nettside …">
 <!ENTITY attachPage.accesskey "L">
+
+<!-- Spell checker context menu items -->
+<!ENTITY spellAddDictionaries.label "Legg til ordbøker …">
+<!ENTITY spellAddDictionaries.accesskey "L">
 
 <!-- Title for the address picker panel -->
 <!ENTITY addressesSidebarTitle.label "Kontaktar">
