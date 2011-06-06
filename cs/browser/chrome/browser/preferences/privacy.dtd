@@ -61,8 +61,8 @@
 <!ENTITY dontrememberActions.clearHistory.label "vymazat celou historii">
 <!ENTITY dontrememberActions.post.label ".">
 
-<!ENTITY privateBrowsingPermanent.label "Stálý režim anonymního prohlížení">
-<!ENTITY privateBrowsingPermanent.accesskey "r">
+<!ENTITY privateBrowsingPermanent2.label "Vždy použít režim anonymního prohlížení">
+<!ENTITY privateBrowsingPermanent2.accesskey "r">
 
 <!ENTITY rememberHistory.label "Pamatovat si historii stránek">
 <!ENTITY rememberHistory.accesskey "h">
