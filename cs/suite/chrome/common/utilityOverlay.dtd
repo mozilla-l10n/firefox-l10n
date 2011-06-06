@@ -26,25 +26,25 @@
 <!ENTITY undoCmd.accesskey "Z">
 <!ENTITY redoCmd.label "Znovu">
 <!ENTITY redoCmd.key "Y">
-<!ENTITY redoCmd.accesskey "O">
+<!ENTITY redoCmd.accesskey "o">
 <!ENTITY cutCmd.label "Vyjmout">
 <!ENTITY cutCmd.key "X">
-<!ENTITY cutCmd.accesskey "v">
+<!ENTITY cutCmd.accesskey "y">
 <!ENTITY copyCmd.label "Kopírovat">
 <!ENTITY copyCmd.key "C">
-<!ENTITY copyCmd.accesskey "k">
+<!ENTITY copyCmd.accesskey "K">
 <!ENTITY pasteCmd.label "Vložit">
 <!ENTITY pasteCmd.key "V">
 <!ENTITY pasteCmd.accesskey "l">
 <!ENTITY pasteGoCmd.label "Vložit a přejít">
-<!ENTITY pasteGoCmd.accesskey "l">
+<!ENTITY pasteGoCmd.accesskey "p">
 
 <!-- LOCALIZATION NOTE (pasteSearchCmd): "Search" is a verb, this is the
      search bar equivalent to the url bar's "Paste & Go"  --> 
 <!ENTITY pasteSearchCmd.label "Vložit a hledat">
 <!ENTITY pasteSearchCmd.accesskey "h">
 <!ENTITY deleteCmd.label "Smazat">
-<!ENTITY deleteCmd.accesskey "S">
+<!ENTITY deleteCmd.accesskey "m">
 <!ENTITY selectAllCmd.label "Vybrat vše">
 <!ENTITY selectAllCmd.key "A">
 <!ENTITY selectAllCmd.accesskey "a">

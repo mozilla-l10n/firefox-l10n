@@ -194,13 +194,13 @@
 <!ENTITY calendar.context.deletetask.label "Smazat úkol">
 <!ENTITY calendar.context.deletetask.accesskey "S">
 <!ENTITY calendar.context.deleteevent.label "Smazat událost">
-<!ENTITY calendar.context.deleteevent.accesskey "S">
+<!ENTITY calendar.context.deleteevent.accesskey "m">
 <!ENTITY calendar.context.cutevent.label "Vyjmout">
-<!ENTITY calendar.context.cutevent.accesskey "t">
+<!ENTITY calendar.context.cutevent.accesskey "y">
 <!ENTITY calendar.context.copyevent.label "Kopírovat">
-<!ENTITY calendar.context.copyevent.accesskey "V">
+<!ENTITY calendar.context.copyevent.accesskey "K">
 <!ENTITY calendar.context.pasteevent.label "Vložit">
-<!ENTITY calendar.context.pasteevent.accesskey "V">
+<!ENTITY calendar.context.pasteevent.accesskey "l">
 <!ENTITY calendar.context.button.label "Dnešní panel">
 <!ENTITY calendar.context.button.accesskey "D" >
 <!ENTITY calendar.context.attendance.menu.label "Účast">
