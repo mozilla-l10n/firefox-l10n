@@ -21,7 +21,7 @@
      window.
      -->
 <!ENTITY moveToNewWindow.label "Flyt til nyt vindue">
-<!ENTITY moveToNewWindow.accesskey "n">
+<!ENTITY moveToNewWindow.accesskey "F">
 <!ENTITY newVirtualFolderCmd.label "Virtuel mappe…">
 <!ENTITY newVirtualFolderCmd.accesskey "t">
 <!ENTITY newOtherAccountsCmd.label "Andre konti…">
