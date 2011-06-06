@@ -104,7 +104,7 @@
 <!ENTITY event.menu.item.saveandclose.label "Uložit a zavřít">
 <!ENTITY event.menu.item.saveandclose.accesskey "U">
 <!ENTITY event.menu.item.delete.label "Smazat…">
-<!ENTITY event.menu.item.delete.accesskey "S">
+<!ENTITY event.menu.item.delete.accesskey "m">
 <!ENTITY event.menu.item.page.setup.label "Vzhled stránky…">
 <!ENTITY event.menu.item.page.setup.accesskey "V">
 <!ENTITY event.menu.item.print.label "Tisk…">
@@ -117,7 +117,7 @@
 <!ENTITY event.menu.edit.redo.label "Znovu">
 <!ENTITY event.menu.edit.redo.accesskey "o">
 <!ENTITY event.menu.edit.cut.label "Vyjmout">
-<!ENTITY event.menu.edit.cut.accesskey "V">
+<!ENTITY event.menu.edit.cut.accesskey "y">
 <!ENTITY event.menu.edit.copy.label "Kopírovat">
 <!ENTITY event.menu.edit.copy.accesskey "K">
 <!ENTITY event.menu.edit.paste.label "Vložit">

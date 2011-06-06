@@ -85,11 +85,11 @@
 
 <!ENTITY calendar.redo.label "Znovu">
 <!ENTITY calendar.redo.key "Y">
-<!ENTITY calendar.redo.accesskey "v">
+<!ENTITY calendar.redo.accesskey "o">
 
 <!ENTITY calendar.cut.label "Vyjmout">
 <!ENTITY calendar.cut.key "X">
-<!ENTITY calendar.cut.accesskey "V">
+<!ENTITY calendar.cut.accesskey "y">
 
 <!ENTITY calendar.copy.label "Kopírovat">
 <!ENTITY calendar.copy.key "C">

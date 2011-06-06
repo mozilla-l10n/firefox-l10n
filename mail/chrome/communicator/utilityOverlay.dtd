@@ -17,7 +17,7 @@
 <!ENTITY redoCmd.accesskey "O">
 <!ENTITY cutCmd.label "Vyjmout">
 <!ENTITY cutCmd.key "X">
-<!ENTITY cutCmd.accesskey "v">
+<!ENTITY cutCmd.accesskey "y">
 <!ENTITY copyCmd.label "Kopírovat">
 <!ENTITY copyCmd.key "C">
 <!ENTITY copyCmd.accesskey "k">
@@ -25,7 +25,7 @@
 <!ENTITY pasteCmd.key "V">
 <!ENTITY pasteCmd.accesskey "l">
 <!ENTITY deleteCmd.label "Smazat">
-<!ENTITY deleteCmd.accesskey "S">
+<!ENTITY deleteCmd.accesskey "m">
 <!ENTITY selectAllCmd.label "Vybrat vše">
 <!ENTITY selectAllCmd.key "A">
 <!ENTITY selectAllCmd.accesskey "a">
@@ -42,7 +42,7 @@
 <!ENTITY showTaskbarCmd.accesskey "a">
 
 <!ENTITY proxy.label "Konfigurace proxy serveru…">
-<!ENTITY proxy.accesskey "C">
+<!ENTITY proxy.accesskey "K">
 
 <!ENTITY closeCmd.label "Zavřít">
 <!ENTITY closeCmd.key "W">
