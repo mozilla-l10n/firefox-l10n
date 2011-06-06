@@ -23,11 +23,3 @@
 <!ENTITY update.downloading.end "">
 <!ENTITY channel.description.start "Canale di aggiornamento attuale: ">
 <!ENTITY channel.description.end ". ">
-<!ENTITY channel.change "Modifica">
-<!ENTITY channel.release.description "La garanzia della versione finale, sottoposta a rigorosi controlli e apprezzata da milioni di utenti in tutto il mondo: controllo completo della navigazione, velocità supersonica, semplicità di personalizzazione e tecnologie web all'avanguardia.">
-<!ENTITY channel.beta.description "Scopri le caratteristiche più innovative in un ambiente sufficientemente stabile. Invia opinioni e commenti per aiutarci a perfezionare quella che diventerà la versione finale.">
-<!ENTITY channel.aurora.description "Scopri tutte le novità in un ambiente instabile e poco adatto ai deboli di cuore. Invia opinioni e commenti sulle caratteristiche e sulle prestazioni per aiutarci a determinare cosa mantenere nella versione finale.">
-<!ENTITY channel.selector.start "Passa al canale di aggiornamento">
-<!ENTITY channel.selector.end " ">
-<!ENTITY channel.selector.applyButton "Applica e aggiorna">
-<!ENTITY channel.selector.cancelButton "Annulla">
