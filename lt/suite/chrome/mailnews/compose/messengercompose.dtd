@@ -176,25 +176,15 @@
 <!ENTITY spellCheckIgnoreWord.accesskey "i">
 <!ENTITY spellCheckAddToDictionary.label "Įtraukti į žodyną">
 <!ENTITY spellCheckAddToDictionary.accesskey "n">
-<!ENTITY undo.label "Atšaukti">
-<!ENTITY undo.accesskey "A">
-<!ENTITY cut.label "Iškirpti">
-<!ENTITY cut.accesskey "r">
-<!ENTITY copy.label "Kopijuoti">
-<!ENTITY copy.accesskey "K">
-<!ENTITY paste.label "Įdėti">
-<!ENTITY paste.accesskey "d">
 <!ENTITY pasteQuote.label "Įdėti kaip citatą">
 <!ENTITY pasteQuote.accesskey "c">
 
 <!ENTITY openAttachment.label "Atverti">
 <!ENTITY openAttachment.accesskey "A">
-<!ENTITY delete.label "Pašalinti">
-<!ENTITY delete.accesskey "š">
 <!ENTITY renameAttachment.label "Pervardinti…">
 <!ENTITY renameAttachment.accesskey "P">
-<!ENTITY selectAll.label "Pažymėti viską">
-<!ENTITY selectAll.accesskey "v">
+<!ENTITY deleteAttachment.accesskey "š">
+<!ENTITY selectAllAttachments.accesskey "v">
 <!ENTITY attachFile.label "Pridėti failą">
 <!ENTITY attachFile.accesskey "d">
 <!ENTITY attachPage.label "Pridėti tinklalapį…">
