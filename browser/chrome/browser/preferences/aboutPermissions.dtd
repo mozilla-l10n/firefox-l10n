@@ -22,9 +22,9 @@
 <!ENTITY password.manage                 "Gérer les mots de passe…">
 
 <!ENTITY cookie.label                    "Définir des cookies">
-<!ENTITY cookie.clear                    "Effacer les cookies">
+<!ENTITY cookie.remove                   "Supprimer les cookies">
 <!ENTITY cookie.manage                   "Gérer les cookies…">
-<!ENTITY cookie.clearAll                 "Effacer tous les cookies">
+<!ENTITY cookie.removeAll                "Supprimer tous les cookies">
 
 <!ENTITY geo.label                       "Partager ma localisation géographique">
 
