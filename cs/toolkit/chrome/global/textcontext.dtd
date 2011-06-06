@@ -1,5 +1,5 @@
 <!ENTITY cutCmd.label "Vyjmout">
-<!ENTITY cutCmd.accesskey "m">
+<!ENTITY cutCmd.accesskey "y">
 <!ENTITY copyCmd.label "Kopírovat">
 <!ENTITY copyCmd.accesskey "K">
 <!ENTITY pasteCmd.label "Vložit">
