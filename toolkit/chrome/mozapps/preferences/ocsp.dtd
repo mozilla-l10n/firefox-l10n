@@ -1,4 +1,4 @@
-﻿<!ENTITY ocspDialog.title             "சான்றிதழை உறுதிப்படுத்தல்">
+<!ENTITY ocspDialog.title             "சான்றிதழை உறுதிப்படுத்தல்">
 <!ENTITY enableOCSP.label             "சான்றிதழ்களினுடைய தற்போதைய உறுதிப்படுத்தலை உறுதி செய்வதற்கு Online Certificate Status Protocol (OCSP) இனைப் பாவிக்க">
 <!ENTITY enableOCSP.accesskey         "U">
 <!ENTITY certOCSP2.label              "ஒரு சான்றிதழ் OCSP சேவையகத்தினால் சுட்டிக்காட்டப்பட்டால் அதனை உறுதிசெய்க">

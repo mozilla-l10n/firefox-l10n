@@ -1,4 +1,4 @@
-﻿<!-- extracted from charsetOverlay.xul -->
+<!-- extracted from charsetOverlay.xul -->
 <!ENTITY charsetMenu.label             "எழுத்துக்கள் குறிமுறையாக்கம்">
 <!ENTITY charsetMenu.accesskey         "C">
 <!ENTITY charsetMenuAutodet.label      "தன்னிச்சையாகக் கண்டுபிடி">
