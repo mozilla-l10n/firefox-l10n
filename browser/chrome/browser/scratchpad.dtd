@@ -1,0 +1,65 @@
+<!ENTITY window.title "Borrador">
+<!ENTITY fileMenu.label "Archivo">
+<!ENTITY fileMenu.accesskey "A">
+<!ENTITY newWindowCmd.label "Nueva ventana">
+<!ENTITY newWindowCmd.accesskey "N">
+<!ENTITY newWindowCmd.commandkey "n">
+<!ENTITY openFileCmd.label "Abrir archivo…">
+<!ENTITY openFileCmd.accesskey "O">
+<!ENTITY openFileCmd.commandkey "o">
+<!ENTITY saveFileCmd.label "Guardar">
+<!ENTITY saveFileCmd.accesskey "g">
+<!ENTITY saveFileCmd.commandkey "s">
+<!ENTITY saveFileAsCmd.label "Guardar como…">
+<!ENTITY saveFileAsCmd.accesskey "A">
+<!ENTITY closeCmd.label "Cerrar">
+<!ENTITY closeCmd.key "W">
+<!ENTITY closeCmd.accesskey "C">
+<!ENTITY editMenu.label "Editar">
+<!ENTITY editMenu.accesskey "E">
+<!ENTITY undoCmd.label "Deshacer">
+<!ENTITY undoCmd.key "Z">
+<!ENTITY undoCmd.accesskey "U">
+<!ENTITY redoCmd.label "Rehacer">
+<!ENTITY redoCmd.key "Y">
+<!ENTITY redoCmd.accesskey "R">
+<!ENTITY cutCmd.label "Cortar">
+<!ENTITY cutCmd.key "X">
+<!ENTITY cutCmd.accesskey "t">
+<!ENTITY copyCmd.label "Copiar">
+<!ENTITY copyCmd.key "C">
+<!ENTITY copyCmd.accesskey "C">
+<!ENTITY pasteCmd.label "Pegar">
+<!ENTITY pasteCmd.key "V">
+<!ENTITY pasteCmd.accesskey "P">
+<!ENTITY selectAllCmd.label "Seleccionar todo">
+<!ENTITY selectAllCmd.key "A">
+<!ENTITY selectAllCmd.accesskey "A">
+<!ENTITY run.label "Ejecutar">
+<!ENTITY run.accesskey "R">
+<!ENTITY run.key "r">
+<!ENTITY inspect.label "Inspeccionar">
+<!ENTITY inspect.accesskey "I">
+<!ENTITY inspect.key "i">
+<!ENTITY display.label "Mostrar">
+<!ENTITY display.accesskey "m">
+<!ENTITY display.key "l">
+<!ENTITY environmentMenu.label "Entorno">
+<!ENTITY environmentMenu.accesskey "N">
+<!ENTITY contentContext.label "Restringido">
+<!ENTITY contentContext.accesskey "s">
+<!ENTITY browserContext.label "Navegador">
+<!ENTITY browserContext.accesskey "v">
+<!ENTITY resetContext.label "Restablecer">
+<!ENTITY resetContext.accesskey "R">
+<!ENTITY executeMenu.label "Acción">
+<!ENTITY executeMenu.accesskey "n">
+<!ENTITY toolsMenu.label "Herramientas">
+<!ENTITY toolsMenu.accesskey "T">
+<!ENTITY errorConsoleCmd.label "Consola de errores">
+<!ENTITY errorConsoleCmd.accesskey "C">
+<!ENTITY errorConsoleCmd.commandkey "j">
+<!ENTITY webConsoleCmd.label "Consola web">
+<!ENTITY webConsoleCmd.accesskey "W">
+<!ENTITY webConsoleCmd.commandkey "k">
+<!ENTITY textbox.placeholder1 "// Escribe algo de JavaScript, selecciónalo, haz clic derecho sobre él y elige Ejecutar, Inspeccionar o Mostrar.">

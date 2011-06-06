@@ -80,7 +80,7 @@
 <!ENTITY subscribeToPageMenuitem.label "Suscribirse a esta página…">
 <!ENTITY addCurPagesCmd.label "Añadir pestañas a marcadores…">
 <!ENTITY showAllBookmarks2.label "Mostrar todos los marcadores">
-<!ENTITY bookmarkAllCmd.label "Añadir todas las pestañas abiertas a marcadores…">
+<!ENTITY unsortedBookmarksCmd.label "Marcadores sin ordenar">
 <!ENTITY bookmarksToolbarChevron.tooltip "Mostrar más marcadores">
 <!ENTITY backCmd.label "Anterior">
 <!ENTITY backCmd.accesskey "n">
@@ -139,6 +139,8 @@
 <!ENTITY addons.label "Complementos">
 <!ENTITY addons.accesskey "C">
 <!ENTITY addons.commandkey "A">
+<!ENTITY webDeveloperMenu.label "Desarrollador web">
+<!ENTITY webDeveloperMenu.accesskey "W">
 <!ENTITY errorConsoleCmd.label "Consola de errores">
 <!ENTITY errorConsoleCmd.accesskey "n">
 <!ENTITY errorConsoleCmd.commandkey "j">
@@ -148,6 +150,10 @@
 <!ENTITY inspectMenu.label "Inspeccionar">
 <!ENTITY inspectMenu.accesskey "r">
 <!ENTITY inspectMenu.commandkey "I">
+<!ENTITY scratchpad.label "Borrador">
+<!ENTITY scratchpad.accesskey "s">
+<!ENTITY scratchpad.keycode "VK_F4">
+<!ENTITY scratchpad.keytext "F4">
 <!ENTITY inspectPanelTitle.label "HTML">
 <!ENTITY inspectButton.label "Inspeccionar">
 <!ENTITY inspectButton.accesskey "I">
@@ -160,6 +166,8 @@
 <!ENTITY inspectStylePanelTitle.label "Estilo">
 <!ENTITY inspectObjectButton.label "Objeto">
 <!ENTITY inspectObjectButton.accesskey "O">
+<!ENTITY getMoreDevtoolsCmd.label "Conseguir más herramientas">
+<!ENTITY getMoreDevtoolsCmd.accesskey "M">
 <!ENTITY fileMenu.label "Archivo">
 <!ENTITY fileMenu.accesskey "A">
 <!ENTITY newNavigatorCmd.label "Nueva ventana">
