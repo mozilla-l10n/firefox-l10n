@@ -1,7 +1,7 @@
 <!ENTITY autoconfigWizard.title          "Innstillingar for e-postkonto">
 <!ENTITY name.label                      "Namnet ditt:">
 <!ENTITY name.accesskey                  "N">
-<!ENTITY name.placeholder                "Fornamn Etternamn">
+<!ENTITY name.placeholder                "Fornamn, etternamn">
 <!ENTITY name.text                       "Namnet ditt, slik det vert vist til andre">
 <!ENTITY email.label                     "E-postaddresse:">
 <!ENTITY email.accesskey                 "E">
@@ -10,42 +10,46 @@
 <!ENTITY password.accesskey              "P">
 <!ENTITY password.placeholder            "Passord">
 <!ENTITY password.text                   "Valfritt, -vert berre brukt til å stadfeste brukarnamnet.">
+<!ENTITY rememberPassword.label          "Hugs passord">
+<!ENTITY rememberPassword.accesskey      "H">
 
-<!ENTITY accountInformation.label        "Kontoinformasjon">
-<!ENTITY username2.label                 "Brukarnamn:">
+<!ENTITY imapLong.label                  "IMAP (mapper på tenaren)">
+<!ENTITY pop3Long.label                  "POP3 (e-post vert lagra på datamaskina di)">
+
 <!ENTITY incoming.label                  "Innkomande:">
 <!ENTITY outgoing.label                  "Utgåande:">
+<!ENTITY username.label                  "Brukarnamn:">
+<!ENTITY hostname.label                  "Tenarnamn">
+<!ENTITY port.label                      "Port">
+<!ENTITY ssl.label                       "SSL">
+<!ENTITY auth.label                      "Autentisering">
+<!ENTITY imap.label                      "IMAP">
+<!ENTITY pop3.label                       "POP3">
+<!ENTITY smtp.label                      "SMTP">
+<!ENTITY autodetect.label                "Oppdag automatisk">
+<!-- LOCALIZATION NOTE(noEncryption.label): Neither SSL/TLS nor STARTTLS.
+     Transmission of emails in cleartext over the Internet. -->
 <!ENTITY noEncryption.label              "Ingen">
 <!ENTITY starttls.label                  "STARTTLS">
 <!ENTITY sslTls.label                    "SSL/TLS">
 
-<!ENTITY imap.label                      "IMAP">
-<!ENTITY pop.label                       "POP">
-<!ENTITY smtp.label                      "SMTP">
-<!ENTITY imap.description                "IMAP - Få tilgang til mapper og meldingar frå fleire datamaskiner">
-<!ENTITY pop.description                 "POP - Last ned alle meldingar til denne datamaskina, slik at mapper berre vert lagra lokalt">
-<!ENTITY recommended-appendix.label      "(tilrådd)">
-
-<!ENTITY manualSetup.label               "Manuelle innstillingar …">
-<!ENTITY manualSetup.accesskey           "M">
+<!ENTITY advancedSetup.label             "Avanserte innstillingar">
+<!ENTITY advancedSetup.accesskey         "A">
 <!ENTITY cancel.label                    "Avbryt">
 <!ENTITY cancel.accesskey                "A">
 <!ENTITY continue.label                  "Hald fram">
 <!ENTITY continue.accesskey              "H">
-<!ENTITY startOver.label                 "Start på nytt">
-<!ENTITY startOver.accesskey             "t">
 <!ENTITY stop.label                      "Stopp">
 <!ENTITY stop.accesskey                  "S">
-<!-- LOCALIZATION NOTE (retest.label): This is the text that is
-     displayed on the button which will re-guess the account configuration,
-     taking into account the settings the user has changed. -->
-<!ENTITY retest.label                    "Test konfigurasjonen">
-<!ENTITY retest.accesskey                "T">
-<!ENTITY edit.label                      "Endre">
-<!ENTITY edit.accesskey                  "E">
+<!-- LOCALIZATION NOTE (half-manual-test.label): This is the text that is
+     displayed on the button in manual edit mode which will re-guess
+     the account configuration, taking into account the settings that
+     the user has manually changed. -->
+<!ENTITY half-manual-test.label          "Test på nytt">
+<!ENTITY half-manual-test.accesskey      "T">
+<!ENTITY manual-edit.label               "Manuelle innstillingar">
+<!ENTITY manual-edit.accesskey           "M">
 
-<!ENTITY rememberPassword.label          "Hugs passord">
-<!ENTITY rememberPassword.accesskey      "H">
 
 <!ENTITY warning.label                   "Åtvaring!">
 <!ENTITY incomingSettings.label          "Innkomande innstillingar:">

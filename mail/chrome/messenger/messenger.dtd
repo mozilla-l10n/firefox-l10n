@@ -5,10 +5,23 @@
 <!-- File Menu -->
 <!ENTITY newFolderCmd.label "Mappe …">
 <!ENTITY newFolderCmd.accesskey "e">
-<!ENTITY closeTabCmd.label "Lat att fane">
-<!ENTITY closeTabCmd.accesskey "L">
-<!ENTITY closeOtherTabsCmd.label "Lat att andre faner">
-<!ENTITY closeOtherTabsCmd.accesskey "a">
+<!ENTITY closeTabCmd2.label "Lat att fana">
+<!ENTITY closeTabCmd2.accesskey "L">
+<!ENTITY closeOtherTabsCmd2.label "Lat att dei andre fanene">
+<!ENTITY closeOtherTabsCmd2.accesskey "a">
+<!-- LOCALIZATION NOTE (undoCloseTabCmd.label):
+     Menu option to attempt to re-open a recently closed tab.
+     -->
+<!ENTITY recentlyClosedTabsCmd.label "Nyleg attlatne faner">
+<!ENTITY recentlyClosedTabsCmd.accesskey "N">
+
+<!ENTITY undoCloseTabCmd.commandkey "T">
+<!-- LOCALIZATION NOTE (moveToNewWindow.label):
+     Menu option to cause the current tab to be migrated to a new Thunderbird
+     window.
+     -->
+<!ENTITY moveToNewWindow.label "Flytt til nytt vindauge">
+<!ENTITY moveToNewWindow.accesskey "F">
 <!ENTITY newVirtualFolderCmd.label "Lagra søk …">
 <!ENTITY newVirtualFolderCmd.accesskey "L">
 <!ENTITY newOtherAccountsCmd.label "Andre kontoar …">
@@ -26,7 +39,6 @@
 <!ENTITY saveAsFileCmd.key "s">
 <!ENTITY saveAsTemplateCmd.label "Mal">
 <!ENTITY saveAsTemplateCmd.accesskey "M">
-<!ENTITY getNewMsgCmd.key "t">
 <!ENTITY getNewMsgForCmd.label "Hent nye meldingar for">
 <!ENTITY getNewMsgForCmd.accesskey "H">
 <!ENTITY getAllNewMsgCmdPopupMenu.label "Alle kontoar">
@@ -313,6 +325,7 @@ you can use these alternative items. Otherwise, their values should be empty.  -
 <!ENTITY folderMenu.accesskey "M">
 <!ENTITY thisFolder.label "Denne mappa">
 <!ENTITY thisFolder.accesskey "e">
+<!ENTITY goRecentlyClosedTabs.label "Nyleg attlatne faner">
 <!ENTITY startPageCmd.label "Startside">
 <!ENTITY startPageCmd.accesskey "S">
 
@@ -393,12 +406,11 @@ you can use these alternative items. Otherwise, their values should be empty.  -
 <!ENTITY tagCmd9.key "9">
 <!ENTITY markMenu.label "Merk">
 <!ENTITY markMenu.accesskey "M">
+<!ENTITY toggleReadCmd.key "m">
 <!ENTITY markAsReadCmd.label "Som lesen">
 <!ENTITY markAsReadCmd.accesskey "l">
-<!ENTITY markAsReadCmd.key "m">
 <!ENTITY markAsUnreadCmd.label "som ulesen">
 <!ENTITY markAsUnreadCmd.accesskey "u">
-<!ENTITY markAsUnreadCmd.key "m">
 <!ENTITY markThreadAsReadCmd.label "Tråd som lesen">
 <!ENTITY markThreadAsReadCmd.accesskey "T">
 <!ENTITY markThreadAsReadCmd.key "r">
@@ -508,7 +520,6 @@ you can use these alternative items. Otherwise, their values should be empty.  -
 <!ENTITY getMsgButton.tooltip "Hent nye meldingar">
 <!ENTITY getAllNewMsgCmd.label "Hent alle nye meldingar">
 <!ENTITY getAllNewMsgCmd.accesskey "e">
-<!ENTITY getAllNewMsgCmd.key "t">
 <!ENTITY newMsgButton.tooltip "Skriv ny melding">
 <!ENTITY replyButton.tooltip "Svar til avsendar">
 <!ENTITY replyAllButton.tooltip "Svar til avsendar og alle mottakarar">
@@ -639,6 +650,10 @@ you can use these alternative items. Otherwise, their values should be empty.  -
 <!-- Thread Pane Context Menu -->
 <!ENTITY contextOpenNewWindow.label "Opne melding i nytt vindauge">
 <!ENTITY contextOpenNewWindow.accesskey "O">
+<!-- The key potentially conflicts with cutCmd.accessKey which is defined in
+     textcontext.dtd from toolkit. Right now, both menu items can't be visible
+     at the same time, but should someone enable copy/paste of message, this key
+     would probably need to be changed. -->
 <!ENTITY contextOpenNewTab.label "Opne melding i ny fane">
 <!ENTITY contextOpenNewTab.accesskey "n">
 <!ENTITY contextOpenConversation.label "Opne melding i samtale">
@@ -741,12 +756,14 @@ you can use these alternative items. Otherwise, their values should be empty.  -
 <!-- Phishing Bar -->
 <!ENTITY phishingBarMessage2.label "Denne meldinga kan vere svindel">
 <!ENTITY removePhishingBarButton1.label "Ignorer åtvaring">
+<!ENTITY disablePhishingWarning1.label "Slå av svindelattkjenning for alle meldingane">
 <!ENTITY reportPhishingError1.label "Denne meldinga ser ikkje ut til å vere svindel.">
 
 <!-- MDN Bar -->
-<!ENTITY mdnBarMessage.label "Avsendaren av denne meldinga ber om å få beskjed når du les henne. Vil du varsle avsendaren om dette?">
-<!ENTITY mdnBarIgnoreButton.label "Ignorer førespurnad">
-<!ENTITY mdnBarSendButton.label "Send kvittering">
+<!ENTITY mdnBarIgnoreButton2.label "Ignorer">
+<!ENTITY mdnBarIgnoreButton2.accesskey "I">
+<!ENTITY mdnBarSendButton2.label "Send kvittering">
+<!ENTITY mdnBarSendButton2.accesskey "S">
 
 <!-- Quick Search Bar -->
 <!-- LOCALIZATION NOTE (quickSearchCmd.key):
@@ -801,19 +818,15 @@ you can use these alternative items. Otherwise, their values should be empty.  -
 <!ENTITY reportPhishingURL.label "Rapporter e-postsvindel">
 <!ENTITY reportPhishingURL.accesskey "o">
 
+<!-- Spell checker context menu items -->
+<!ENTITY spellAddDictionaries.label "Legg til ordbøker …">
+<!ENTITY spellAddDictionaries.accesskey "L">
+
 <!-- Content Pane Context Menu -->
 <!ENTITY saveLinkAsCmd.label "Lagre lenkje som …">
 <!ENTITY saveLinkAsCmd.accesskey "r">
 <!ENTITY saveImageAsCmd.label "Lagre biletet som …">
 <!ENTITY saveImageAsCmd.accesskey "a">
-<!ENTITY cutCmd.label "Klipp ut">
-<!ENTITY cutCmd.accesskey "u">
-<!ENTITY copyCmd.label "Kopier">
-<!ENTITY copyCmd.accesskey "K">
-<!ENTITY pasteCmd.label "Lim inn">
-<!ENTITY pasteCmd.accesskey "L">
-<!ENTITY selectAllCmd.label "Merk alt">
-<!ENTITY selectAllCmd.accesskey "M">
 <!ENTITY copyLinkCmd.label "Kopier lenkjeadresse">
 <!ENTITY copyLinkCmd.accesskey "o">
 <!ENTITY copyImageAllCmd.label "Kopier bilete">

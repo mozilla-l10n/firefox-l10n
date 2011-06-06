@@ -148,3 +148,6 @@ functionality specific to thunderbird. -->
 <button id='getMeOutOfHereButton'>&securityOverride.getMeOutOfHereButton;</button>
 <button id='exceptionDialogButton'>&securityOverride.exceptionButtonLabel;</button>
 ">
+
+<!ENTITY remoteXUL.title "Remote XUL">
+<!ENTITY remoteXUL.longDesc "<p><ul><li>Kontakt nettstadseigarane og informer dei om dette problemet.</li></ul></p>">

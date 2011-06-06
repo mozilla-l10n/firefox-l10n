@@ -21,22 +21,26 @@
 <!ENTITY sentFolderOn.accesskey "d">
 <!ENTITY sentInOtherFolder.label "Anna mappe:">
 <!ENTITY sentInOtherFolder.accesskey "A">
+<!-- LOCALIZATION NOTE (archivesFolderOn.label): OK to translate this, bug #57440 -->
+<!ENTITY archivesTitle.label "Meldingsarkiv">
+<!ENTITY keepArchives.label "Ta vare på meldingsarkiv i:">
+<!ENTITY keepArchives.accesskey "T">
+<!ENTITY archiveHierarchyButton.label "Arkivinnstillingar …">
+<!ENTITY archiveHierarchyButton.accesskey "A">
+<!ENTITY archivesFolderOn.label "«Arkiv»-mappa på:">
+<!ENTITY archivesFolderOn.accesskey "r">
+<!ENTITY archiveInOtherFolder.label "Anna:">
+<!ENTITY archiveInOtherFolder.accesskey "n">
+<!ENTITY specialFolders.label "Utkast og malar">
+<!ENTITY keepDrafts.label "Ta vare på meldingsutkast i:">
 <!-- LOCALIZATION NOTE (draftsFolderOn.label): OK to translate this, bug #57440 -->
 <!ENTITY draftsFolderOn.label "«Utkast»-mappa på:">
 <!ENTITY draftsFolderOn.accesskey "U">
 <!ENTITY draftInOtherFolder.label "Anna mappe:">
 <!ENTITY draftInOtherFolder.accesskey "n">
-<!-- LOCALIZATION NOTE (archivesFolderOn.label): OK to translate this, bug #57440 -->
-<!ENTITY archivesFolderOn.label "«Arkiv»-mappa på:">
-<!ENTITY archivesFolderOn.accesskey "r">
-<!ENTITY archiveInOtherFolder.label "Anna:">
-<!ENTITY archiveInOtherFolder.accesskey "n">
+<!ENTITY keepTemplates.label "Lagre meldingsmalar i:">
 <!-- LOCALIZATION NOTE (templatesFolderOn.label): OK to translate this, bug #57440 -->
 <!ENTITY templatesFolderOn.label "«Malar»-mappa på:">
 <!ENTITY templatesFolderOn.accesskey "M">
 <!ENTITY templateInOtherFolder.label "Anna mappe:">
 <!ENTITY templateInOtherFolder.accesskey "a">
-<!ENTITY specialFoldersTitle.label "Utkast og malar">
-<!ENTITY keepDrafts.label "Ta vare på meldingsutkast i:">
-<!ENTITY keepArchives.label "Ta vare på meldingsarkiv i:">
-<!ENTITY keepTempltes.label "Ta vare på meldingsmalar i:">
