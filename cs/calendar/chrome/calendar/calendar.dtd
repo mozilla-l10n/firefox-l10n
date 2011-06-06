@@ -75,13 +75,13 @@
 <!ENTITY calendar.unifinder.tree.percentcomplete.label "&#37; Dokončeno">
 <!ENTITY calendar.unifinder.tree.startdate.label "Začátek">
 <!ENTITY calendar.unifinder.tree.enddate.label "Konec">
-<!ENTITY calendar.unifinder.tree.duedate.label "Do">
-<!ENTITY calendar.unifinder.tree.completeddate.label "Splněno">
+<!ENTITY calendar.unifinder.tree.duedate.label "Splnit do">
+<!ENTITY calendar.unifinder.tree.completeddate.label "Dokončeno">
 <!ENTITY calendar.unifinder.tree.categories.label "Kategorie">
 <!ENTITY calendar.unifinder.tree.location.label "Místo">
 <!ENTITY calendar.unifinder.tree.status.label "Stav">
 <!ENTITY calendar.unifinder.tree.calendarname.label "Název kalendáře">
-<!ENTITY calendar.unifinder.tree.duration.label "Do">
+<!ENTITY calendar.unifinder.tree.duration.label "Splnit za">
 <!ENTITY calendar.unifinder.close.tooltip "Zavře hledání a seznam událostí">
 
 <!ENTITY calendar.today.button.tooltip "Přejde na dnešní den">
@@ -106,11 +106,11 @@
 <!ENTITY calendar.prevmonth.accesskey "e" >
 
 <!ENTITY calendar.navigation.nextday.tooltip "Jeden den vpřed">
-<!ENTITY calendar.navigation.prevday.tooltip "Jeden den vzad">
+<!ENTITY calendar.navigation.prevday.tooltip "Jeden den zpět">
 <!ENTITY calendar.navigation.nextweek.tooltip "Jeden týden vpřed">
-<!ENTITY calendar.navigation.prevweek.tooltip "Jeden týden vzad">
+<!ENTITY calendar.navigation.prevweek.tooltip "Jeden týden zpět">
 <!ENTITY calendar.navigation.nextmonth.tooltip "Jeden měsíc vpřed">
-<!ENTITY calendar.navigation.prevmonth.tooltip "Jeden měsíc vzad">
+<!ENTITY calendar.navigation.prevmonth.tooltip "Jeden měsíc zpět">
 
 <!ENTITY calendar.newevent.button.label "Nová událost">
 <!ENTITY calendar.newtask.button.label "Nový úkol">
@@ -173,7 +173,7 @@
 <!ENTITY calendar.task-details.repeat.label "opakování">
 <!ENTITY calendar.task-details.attachments.label "přílohy">
 <!ENTITY calendar.task-details.start.label "začátek">
-<!ENTITY calendar.task-details.due.label "konec">
+<!ENTITY calendar.task-details.due.label "splnit do">
 
 <!ENTITY calendar.task.category.button.tooltip "Přiřadí úkolu kategorii">
 <!ENTITY calendar.task.complete.button.tooltip "Označí úkol za dokončený">
@@ -329,7 +329,7 @@
 <!ENTITY calendarproperties.unsubscribe.accesskey "N">
 
 <!-- Calendar Publish Dialog -->
-<!ENTITY calendar.publish.dialog.title "Publikovat kalendář">
+<!ENTITY calendar.publish.dialog.title "Publikování kalendáře">
 <!ENTITY calendar.publish.url.label "Adresa k publikování">
 <!ENTITY calendar.publish.publish.button "Publikovat">
 <!ENTITY calendar.publish.close.button "Zavřít">
@@ -337,7 +337,7 @@
 <!ENTITY calendar.publish.example.url.description "Např. http://www.myserver.com/webdav/test.ics">
 
 <!-- Select Calendar Dialog -->
-<!ENTITY calendar.select.dialog.title "Vybrat kalendář">
+<!ENTITY calendar.select.dialog.title "Výběr kalendáře">
 
 <!-- Calendar Printing -->
 <!ENTITY calendar.print.window.title "Tisk kalendáře">
@@ -353,12 +353,12 @@
 <!ENTITY calendar.print.from.label "Od:">
 <!ENTITY calendar.print.to.label "Do:">
 <!ENTITY calendar.print.settingsGroup.label "Nastavení tisku">
-<!ENTITY calendar.print.optionsGroup.label "Options">
-<!ENTITY calendar.print.taskswithnoduedate.label "Tasks with no due date">
-<!ENTITY calendar.print.completedtasks.label "Completed tasks">
+<!ENTITY calendar.print.optionsGroup.label "Možnosti">
+<!ENTITY calendar.print.taskswithnoduedate.label "Úkoly bez termínu">
+<!ENTITY calendar.print.completedtasks.label "Dokončené úkoly">
 
 <!-- Error reporting -->
-<!ENTITY calendar.error.detail "Detaily…">
-<!ENTITY calendar.error.code "Kód chybye:">
+<!ENTITY calendar.error.detail "Podrobnosti…">
+<!ENTITY calendar.error.code "Kód chyby:">
 <!ENTITY calendar.error.description "Popis:">
 <!ENTITY calendar.error.title "Vyskytla se chyba">

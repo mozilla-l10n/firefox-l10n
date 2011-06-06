@@ -45,8 +45,8 @@
 
 <!ENTITY event.title.label "Upravit položku">
 
-<!ENTITY event.dialog.keepDurationButton.tooltip "Ponechat dobu trvání při změně koncového data">
-<!ENTITY event.dialog.keepDurationButton.accesskey "k">
+<!ENTITY event.dialog.keepDurationButton.tooltip "Zachová dobu trvání při změně koncového data">
+<!ENTITY event.dialog.keepDurationButton.accesskey "e">
 
 <!ENTITY newevent.from.label "Od">
 <!ENTITY newevent.to.label "Do">
@@ -126,7 +126,7 @@
 <!ENTITY event.menu.edit.select.all.accesskey "a">
 
 <!ENTITY event.menu.view.label "Zobrazení">
-<!ENTITY event.menu.view.accesskey "Z">
+<!ENTITY event.menu.view.accesskey "b">
 <!ENTITY event.menu.view.toolbars.label "Nástrojové lišty">
 <!ENTITY event.menu.view.toolbars.accesskey "N">
 <!ENTITY event.menu.view.toolbars.event.label "Lišta událostí">
@@ -151,7 +151,7 @@
 <!ENTITY event.menu.options.timezone.label "Časová zóna">
 <!ENTITY event.menu.options.timezone.accesskey "z">
 <!ENTITY event.menu.options.priority2.label "Priorita">
-<!ENTITY event.menu.options.priority2.accesskey "P">
+<!ENTITY event.menu.options.priority2.accesskey "r">
 <!ENTITY event.menu.options.priority.notspecified.label "Není určena">
 <!ENTITY event.menu.options.priority.notspecified.accesskey "u">
 <!ENTITY event.menu.options.priority.low.label "Nízká">
@@ -209,8 +209,8 @@
 <!ENTITY task.from.accesskey "t">
 <!ENTITY event.to.label "Konec:">
 <!ENTITY event.to.accesskey "K">
-<!ENTITY task.to.label "Datum splnění:">
-<!ENTITY task.to.accesskey "u">
+<!ENTITY task.to.label "Splnit do:">
+<!ENTITY task.to.accesskey "d">
 <!ENTITY task.status.label "Stav:">
 <!ENTITY task.status.accesskey "S">
 <!ENTITY event.repeat.label "Opakovat:">
@@ -380,8 +380,8 @@
 <!ENTITY read.only.title.label "Název:">
 <!ENTITY read.only.event.start.label "Začátek:">
 <!ENTITY read.only.task.start.label "Začátek:">
-<!ENTITY read.only.event.end.label  "Konec:">
-<!ENTITY read.only.task.due.label "Konec:">
+<!ENTITY read.only.event.end.label "Konec:">
+<!ENTITY read.only.task.due.label "Splnit do:">
 <!ENTITY read.only.repeat.label "Opakování:">
 <!ENTITY read.only.location.label "Místo:">
 <!ENTITY read.only.category.label "Kategorie:">
