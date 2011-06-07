@@ -20,9 +20,12 @@
 <!ENTITY pluginWizard.finalPage.moreInfo.label               "Saznajte više o priključcima ili ručno pronađite nedostajuće priključke.">
 <!ENTITY pluginWizard.finalPage.restart.label                "&brandShortName; mora biti ponovno pokrenut da bi priključak/ci mogli raditi.">
   
-<!ENTITY missingPlugin.label                                 "Kliknite ovdje za preuzimanje priključka.">
-<!ENTITY disabledPlugin.label                                "Priključak za ovaj sadržaj je onemogućen. Kliknite ovdje za upravljanje priključcima.">
+<!ENTITY missingPlugin                                       "Za prikaz ovog sadržaja potreban je priključak.">
+<!ENTITY disabledPlugin                                      "Ovaj je priključak onemogućen.">
 <!ENTITY blockedPlugin.label                                 "Ovaj je priključak blokiran radi vaše sigurnosti.">
+
+<!ENTITY installPlugin                                       "Instaliraj priključak…">
+<!ENTITY managePlugins                                       "Upravljanje priključcima…">
 
 <!-- LOCALIZATION NOTE (reloadPlugin.pre): include a trailing space as needed -->
 <!-- LOCALIZATION NOTE (reloadPlugin.middle): avoid leading/trailing spaces, this text is a link -->
