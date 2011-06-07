@@ -269,7 +269,7 @@
 <!ENTITY saveImageCmd.accesskey       "v">
 <!ENTITY saveVideoCmd.label           "ஒளிக்காட்சியாக சேமிக்க…">
 <!ENTITY saveVideoCmd.accesskey       "v">
-<!ENTITY saveAudioCmd.label           "Save Audio As…">
+<!ENTITY saveAudioCmd.label           "ஒலியை..என சேமிக்க">
 <!ENTITY saveAudioCmd.accesskey       "v">
 <!ENTITY sendImageCmd.label           "படத்தை அனுப்புக…">
 <!ENTITY sendImageCmd.accesskey       "n">
