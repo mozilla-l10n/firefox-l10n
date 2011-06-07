@@ -85,6 +85,8 @@
 <!ENTITY detachAttachmentMenuItem.accesskey "s">
 <!ENTITY deleteAttachmentMenuItem.label "eliminar">
 <!ENTITY deleteAttachmentMenuItem.accesskey "e">
+<!ENTITY openAllAttachmentsMenuItem.label "abrir todo…">
+<!ENTITY openAllAttachmentsMenuItem.accesskey "o">
 <!ENTITY saveAllAttachmentsMenuItem.label "guardar todo…">
 <!ENTITY saveAllAttachmentsMenuItem.accesskey "u">
 <!ENTITY detachAllAttachmentsMenuItem.label "separar todos…">
