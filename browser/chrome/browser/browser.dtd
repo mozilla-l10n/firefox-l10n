@@ -375,7 +375,7 @@
 <!ENTITY mainWindow.titlemodifier "&brandFullName;">
 <!ENTITY pageStyleMenu.accesskey "С">
 <!ENTITY findAgainCmd.accesskey "Н">
-<!ENTITY viewMenu.label "Pogledaj">
+<!ENTITY viewMenu.label "Погледај">
 <!ENTITY bookmarkThisFrameCmd.label "Забележи овај оквир">
 <!ENTITY identity.unverifiedsite2 "Овај веб сајт не обезбеђује податке о идентитету.">
 <!ENTITY fullScreenAutohide.label "Уклони алатне траке">
