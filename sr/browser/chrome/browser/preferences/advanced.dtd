@@ -1,5 +1,5 @@
 <!ENTITY useCursorNavigation.label "Увек користи стрелице за кретање по странама ">
-<!ENTITY blockAutoRefresh.label "Thoir rabhadh dhomh nuair a dh'fheuchas làraichean-lìn ri m' ath-sheòladh no ris an duilleag ath-luchdadh.">
+<!ENTITY blockAutoRefresh.label "Упозори ме када веб сајт проба да преусмери или поново учита страну">
 <!ENTITY enableSearchUpdate.label "Механизме претраге">
 <!ENTITY allowHWAccel.accesskey "К">
 <!ENTITY checkSpelling.accesskey "П">
@@ -72,7 +72,7 @@
 <!ENTITY offlineNotify.accesskey "О">
 <!ENTITY useAutoScroll.accesskey "К">
 <!ENTITY viewCerts.label "Преглед сертификата">
-<!ENTITY blockAutoRefresh.accesskey "b">
+<!ENTITY blockAutoRefresh.accesskey "У">
 <!ENTITY connectionSettings.accesskey "П">
 <!ENTITY offlineAppsList.height "9em">
 <!ENTITY updateTab.label "Обнављања">

@@ -77,7 +77,7 @@
 <!ENTITY connectionFailure.longDesc "&sharedLongDesc;">
 <!ENTITY deniedPortAccess.longDesc "">
 <!ENTITY connectionFailure.title "Subukan muli">
-<!ENTITY securityOverride.getMeOutOfHereButton "Alisin ako dito!">
+<!ENTITY securityOverride.getMeOutOfHereButton "Води ме одавде!">
 <!ENTITY unsafeContentType.title "Небезбедна врста датотеке">
 <!ENTITY contentEncodingError.longDesc "<ul> 
 <li>Молимо да се обратите власницима веб сајта и обавестите их о овом проблему.</li> 

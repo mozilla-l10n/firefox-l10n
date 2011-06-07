@@ -1,7 +1,7 @@
 <!ENTITY findButton.accesskey "Н">
 <!ENTITY wrapCheckbox.label "Преламај">
 <!ENTITY wrapCheckbox.accesskey "П">
-<!ENTITY closeButton.label "Zatvori">
+<!ENTITY closeButton.label "Затвори">
 <!ENTITY caseSensitiveCheckbox.label "Разликуј величину слова">
 <!ENTITY findField.label "Пронађи:">
 <!ENTITY caseSensitiveCheckbox.accesskey "Р">

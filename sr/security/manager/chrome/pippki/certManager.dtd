@@ -42,7 +42,7 @@
 <!ENTITY certmgr.editsslcert.donttrust "Не веруј веродостојности овог сертификата.">
 <!ENTITY certmgr.restore2.accesskey "У">
 <!ENTITY certmgr.cas "Имате сертификате који идентификују ове ауторитете:">
-<!ENTITY certmgr.close.label "Zatvori">
+<!ENTITY certmgr.close.label "Затвори">
 <!ENTITY certmgr.details.accesskey "П">
 <!ENTITY certmgr.editcert.title "Измени поставке безбедносних сертификата:">
 <!ENTITY certmgr.details.label "Поља сертификата">
