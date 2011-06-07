@@ -129,7 +129,7 @@
 <!ENTITY copyAudioURLCmd.label "Умножи одредиште за аудио">
 <!ENTITY copyImageCmd.label "Умножи одредиште слике">
 <!ENTITY closeOtherTabs.accesskey "З">
-<!ENTITY fullScreenClose.tooltip "Zatvori">
+<!ENTITY fullScreenClose.tooltip "Затвори">
 <!ENTITY appMenuSidebars.label "Бочне траке">
 <!ENTITY urlbar.placeholder "Иди на веб сајт">
 <!ENTITY syncSetup.accesskey "П">
@@ -160,7 +160,7 @@
 <!ENTITY bookmarksToolbarChevron.tooltip "Прикажи још забелешки">
 <!ENTITY openLinkCmdInCurrent.label "Отвори везу">
 <!ENTITY saveFrameCmd.accesskey "С">
-<!ENTITY closeCmd.label "Zatvori">
+<!ENTITY closeCmd.label "Затвори">
 <!ENTITY bookmarkAllTabs.accesskey "З">
 <!ENTITY viewBookmarksSidebar.label "Прикажи у бочној траци">
 <!ENTITY viewImageInfoCmd.label "Преглед података о слици">

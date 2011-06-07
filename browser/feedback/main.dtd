@@ -15,7 +15,7 @@
 <!ENTITY testpilot.studiesWindow.studyFindings.label "Налази проучавања">
 <!ENTITY testpilot.idea.label "Пошаљите нам предлог…">
 <!ENTITY testpilot.settings.alwaysSubmitData.label "Аутоматски пошаљи податке (не питај ме)">
-<!ENTITY testpilot.notification.close.tooltip "Zatvori">
+<!ENTITY testpilot.notification.close.tooltip "Затвори">
 <!ENTITY testpilot.studiesWindow.title "Ваша проучавања у Test Pilot-у">
 <!ENTITY testpilot.feedbackbutton.label "Повратне информације">
 <!ENTITY testpilot.settings.notifyWhen.label "Обавести ме кад…">
