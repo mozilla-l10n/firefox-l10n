@@ -6,7 +6,6 @@
 <!ENTITY editBookmarkOverlay.feedLocation.accesskey "л">
 <!ENTITY editBookmarkOverlay.siteLocation.label "Адрес сайта:">
 <!ENTITY editBookmarkOverlay.siteLocation.accesskey "с">
-<!ENTITY editBookmarkOverlay.liveTitlesSeparator.label "Текущие заголовки">
 <!ENTITY editBookmarkOverlay.folder.label "Папка:">
 <!ENTITY editBookmarkOverlay.foldersExpanderDown.tooltip "Показать все папки закладок">
 <!ENTITY editBookmarkOverlay.expanderUp.tooltip "Скрыть">
