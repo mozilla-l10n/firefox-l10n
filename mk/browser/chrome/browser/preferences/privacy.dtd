@@ -74,3 +74,8 @@
 
 <!ENTITY clearOnCloseSettings.label "Поставки…">
 <!ENTITY clearOnCloseSettings.accesskey "П">
+
+
+<!ENTITY tracking.label                 "Следење">
+<!ENTITY doNotTrack.label               "Соопшти им на веб местата „Не сакам да бидам следен“">
+<!ENTITY doNotTrack.accesskey           "и">
