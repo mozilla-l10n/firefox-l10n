@@ -95,6 +95,7 @@
 <!ENTITY contextSaveImage.label       "Grafik speichern">
 <!ENTITY contextShareLink.label       "Link teilen">
 <!ENTITY contextShareImage.label      "Grafik teilen">
+<!ENTITY contextBookmarkLink.label    "Link als Lesezeichen ablegen">
 <!ENTITY contextSaveVideo.label       "Video speichern">
 <!ENTITY contextShareVideo.label      "Video teilen">
 <!ENTITY contextPlayMedia.label       "Abspielen">
