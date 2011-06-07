@@ -18,7 +18,7 @@
 <!ENTITY examineCert.label "Преглед сертификата">
 <!ENTITY createCertInfo.msg1 "Кључ се генерише…  Ово може да потраје неколико минута…">
 <!ENTITY pref.security.general.rHeader "Општи параметри безбедности">
-<!ENTITY downloadCert.viewCert.label "Pogledaj">
+<!ENTITY downloadCert.viewCert.label "Преглед">
 <!ENTITY resetPassword.text "Ако обновите главну лозинку, све сачуване лозинке за интернет и електронску пошту, садржаји формулара, лични сертификати и кључеви биће &quot;изгубљени&quot;. Да ли заиста желите обновити своју главну лозинку?">
 <!ENTITY certPicker.info "Сертификат:">
 <!ENTITY examineCert.accesskey "П">

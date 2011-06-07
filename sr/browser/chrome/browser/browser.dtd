@@ -136,7 +136,7 @@
 <!ENTITY appMenuUnsorted.label "Неразврстане забелешке">
 <!ENTITY stopButton.tooltip "Заустави учитавање стране">
 <!ENTITY bookmarksButton.accesskey "О">
-<!ENTITY fullScreenExit.accesskey "О">
+<!ENTITY fullScreenExit.accesskey "ц">
 <!ENTITY printPreviewCmd.label "Преглед пре штампе">
 <!ENTITY bidiSwitchTextDirectionItem.label "Промени усмерење текста">
 <!ENTITY reloadImageCmd.accesskey "П">
@@ -314,7 +314,7 @@
 <!ENTITY cutCmd.key "с">
 <!ENTITY subscribeToPageMenuitem.label "Претплата на ову страну…">
 <!ENTITY pasteButton.tooltip "Налепи">
-<!ENTITY fullScreenExit.label "Salir d'o modo pantalla plena">
+<!ENTITY fullScreenExit.label "Искључи приказ на целом екрану">
 <!ENTITY newNavigatorCmd.key "И">
 <!ENTITY viewImageCmd.accesskey "П">
 <!ENTITY fullZoomEnlargeCmd.commandkey2 "=">
