@@ -60,8 +60,8 @@
 <!ENTITY  dontrememberActions.clearHistory.label "dzēst šobrīd saglabāto vēsturi">
 <!ENTITY  dontrememberActions.post.label         ".">
 
-<!ENTITY  privateBrowsingPermanent.label "Pastāvīgais privātās pārlūkošanas režīms">
-<!ENTITY  privateBrowsingPermanent.accesskey "P">
+<!ENTITY  privateBrowsingPermanent2.label "Vienmēr izmantot privātās pārlūkošanas režīmu">
+<!ENTITY  privateBrowsingPermanent2.accesskey "P">
 
 <!ENTITY  locbar.pre.label              "Adrešu joslā ieteikt:">
 <!ENTITY  locbar.pre.accessKey          "A">
