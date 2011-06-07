@@ -65,7 +65,7 @@
 <!ENTITY cmd.contribute.label "Допринеси">
 <!ENTITY view.availableUpdates.label "Доступна ажурирања">
 <!ENTITY addon.homepage "Матична страница">
-<!ENTITY listEmpty.findUpdates.label "Check For Updates">
+<!ENTITY listEmpty.findUpdates.label "Провери доградње">
 <!ENTITY addon.undoAction.label "Опозови">
 <!ENTITY cmd.showPreferencesWin.label "Могућности">
 <!ENTITY updates.updateAddonsAutomatically.label "Аутоматски догради додатке">
@@ -82,7 +82,7 @@
 <!ENTITY addon.includeUpdate.label "Укључи у ажурирање">
 <!ENTITY addon.checkingForUpdates.label "Проверавање доступности доградњи…">
 <!ENTITY updates.viewUpdates.accesskey "П">
-<!ENTITY addon.restartNow.label "Restart now">
+<!ENTITY addon.restartNow.label "Поново покрени сад">
 <!ENTITY detail.size "Величина">
 <!ENTITY detail.showPreferencesUnix.accesskey "П">
 <!ENTITY detail.checkForUpdates.label "Провери да ли постоје исправке">

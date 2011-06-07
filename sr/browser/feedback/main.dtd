@@ -1,8 +1,8 @@
 <!ENTITY testpilot.studiesWindow.finishedStudies.label "Завршена проучавања">
 <!ENTITY testpilot.settings.readyToSubmit.label "Проучавање је спремно за слање">
 <!ENTITY testpilot.settings.newStudy.label "Постоји ново проучавање">
-<!ENTITY testpilot.rawDataWindow.title "Test Pilot: сирови подаци">
-<!ENTITY testpilot.brand.label "Test Pilot">
+<!ENTITY testpilot.rawDataWindow.title "Тест пилот: сирови подаци">
+<!ENTITY testpilot.brand.label "Тест пилот">
 <!ENTITY testpilot.broken.label "Пријавите да је веб сајт покварен…">
 <!ENTITY testpilot.settings.notifications.label "Обавештења">
 <!ENTITY testpilot.studiesWindow.currentStudies.label "Тренутна проучавања">
@@ -10,16 +10,16 @@
 <!ENTITY testpilot.settings.dataSubmission.label "Слање података">
 <!ENTITY testpilot.settings.hasNewResults.label "Проучавање има нове резултате">
 <!ENTITY testpilot.allYourStudies.label "Сва ваша проучавања корисника…">
-<!ENTITY testpilot.sad.label "Firefox Made Me Sad Because...">
-<!ENTITY testpilot.about.label "О Test Pilot-у">
+<!ENTITY testpilot.sad.label "Фајерфокс ме растужио зато што...">
+<!ENTITY testpilot.about.label "О Тест пилоту">
 <!ENTITY testpilot.studiesWindow.studyFindings.label "Налази проучавања">
 <!ENTITY testpilot.idea.label "Пошаљите нам предлог…">
 <!ENTITY testpilot.settings.alwaysSubmitData.label "Аутоматски пошаљи податке (не питај ме)">
 <!ENTITY testpilot.notification.close.tooltip "Затвори">
-<!ENTITY testpilot.studiesWindow.title "Ваша проучавања у Test Pilot-у">
+<!ENTITY testpilot.studiesWindow.title "Ваша проучавања у Тест пилоту">
 <!ENTITY testpilot.feedbackbutton.label "Повратне информације">
 <!ENTITY testpilot.settings.notifyWhen.label "Обавести ме кад…">
-<!ENTITY testpilot.happy.label "Firefox Made Me Happy Because...">
-<!ENTITY testpilot.studiesWindow.stillLoadingMessage "Loading, please wait...">
+<!ENTITY testpilot.happy.label "Фајерфокс ме је усрећио зато што...">
+<!ENTITY testpilot.studiesWindow.stillLoadingMessage "Учитавам, молимо сачекајте...">
 <!ENTITY testpilot.studiesWindow.settings.label "Подешавања">
 <!ENTITY testpilot.enable.label "Омогући проучавања корисничка">
