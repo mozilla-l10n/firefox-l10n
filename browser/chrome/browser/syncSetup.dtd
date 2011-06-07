@@ -1,4 +1,4 @@
-﻿
+
 
 <!--
 Entities below were automatically added by compare-locales,
@@ -94,3 +94,11 @@ Entities below were automatically added by compare-locales,
 <!ENTITY serverType.custom2.label "ஒரு தனிப்பயன் சேவையகத்தை பயன்படுத்துக…">
 <!ENTITY addDevice.dialog.description.label "உங்கள் புதிய சாதனத்தை செயற்படுத்துவதற்கு, சாதனத்தின் &syncBrand.shortName.label; தெரிவுகளிற்கு செல்க மற்றும் &#x0022;Connect.&#x0022; ஐ தெரிவு செய்க">
 <!ENTITY confirm.server2.label "எச்சரிக்கை: பின்வரும் சாதனங்கள் உங்கள் உள்ளக தரவுடன் மேல் எழுதப்பட்டிருக்கும்:">
+
+
+<!--
+Entities below were automatically added by compare-locales,
+ based on en-US entities.
+-->
+
+<!ENTITY syncGenerateNewKey.label "Generate a new key">

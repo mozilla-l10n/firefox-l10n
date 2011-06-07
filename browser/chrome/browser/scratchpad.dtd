@@ -1,0 +1,72 @@
+
+
+<!--
+Entities below were automatically added by compare-locales,
+ based on en-US entities.
+-->
+
+<!ENTITY closeCmd.label "Close">
+<!ENTITY fileMenu.accesskey "F">
+<!ENTITY selectAllCmd.label "Select All">
+<!ENTITY saveFileCmd.label "Save">
+<!ENTITY cutCmd.accesskey "t">
+<!ENTITY redoCmd.accesskey "R">
+<!ENTITY browserContext.label "Browser">
+<!ENTITY run.label "Run">
+<!ENTITY executeMenu.accesskey "X">
+<!ENTITY textbox.placeholder1 "// Enter some JavaScript, select it, right click and select Run, Inspect or Display.">
+<!ENTITY undoCmd.key "Z">
+<!ENTITY resetContext.label "Reset">
+<!ENTITY pasteCmd.key "V">
+<!ENTITY inspect.key "i">
+<!ENTITY errorConsoleCmd.accesskey "C">
+<!ENTITY webConsoleCmd.commandkey "k">
+<!ENTITY cutCmd.label "Cut">
+<!ENTITY display.key "l">
+<!ENTITY saveFileAsCmd.label "Save As…">
+<!ENTITY executeMenu.label "Execute">
+<!ENTITY openFileCmd.accesskey "O">
+<!ENTITY inspect.label "Inspect">
+<!ENTITY cutCmd.key "X">
+<!ENTITY inspect.accesskey "I">
+<!ENTITY errorConsoleCmd.label "Error Console">
+<!ENTITY webConsoleCmd.accesskey "W">
+<!ENTITY fileMenu.label "File">
+<!ENTITY undoCmd.label "Undo">
+<!ENTITY saveFileCmd.commandkey "s">
+<!ENTITY editMenu.accesskey "E">
+<!ENTITY run.key "r">
+<!ENTITY redoCmd.key "Y">
+<!ENTITY environmentMenu.accesskey "N">
+<!ENTITY newWindowCmd.commandkey "n">
+<!ENTITY saveFileAsCmd.accesskey "A">
+<!ENTITY copyCmd.label "Copy">
+<!ENTITY newWindowCmd.accesskey "N">
+<!ENTITY toolsMenu.accesskey "T">
+<!ENTITY closeCmd.key "W">
+<!ENTITY selectAllCmd.key "A">
+<!ENTITY run.accesskey "R">
+<!ENTITY contentContext.label "Content">
+<!ENTITY copyCmd.key "C">
+<!ENTITY display.accesskey "D">
+<!ENTITY editMenu.label "Edit">
+<!ENTITY webConsoleCmd.label "Web Console">
+<!ENTITY toolsMenu.label "Tools">
+<!ENTITY window.title "Scratchpad">
+<!ENTITY contentContext.accesskey "C">
+<!ENTITY pasteCmd.label "Paste">
+<!ENTITY errorConsoleCmd.commandkey "j">
+<!ENTITY undoCmd.accesskey "U">
+<!ENTITY copyCmd.accesskey "C">
+<!ENTITY openFileCmd.commandkey "o">
+<!ENTITY display.label "Display">
+<!ENTITY openFileCmd.label "Open File…">
+<!ENTITY pasteCmd.accesskey "P">
+<!ENTITY resetContext.accesskey "R">
+<!ENTITY redoCmd.label "Redo">
+<!ENTITY browserContext.accesskey "B">
+<!ENTITY environmentMenu.label "Environment">
+<!ENTITY selectAllCmd.accesskey "A">
+<!ENTITY saveFileCmd.accesskey "S">
+<!ENTITY newWindowCmd.label "New Window">
+<!ENTITY closeCmd.accesskey "C">
