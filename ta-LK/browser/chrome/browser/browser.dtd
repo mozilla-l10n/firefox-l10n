@@ -1,4 +1,4 @@
-﻿<!-- LOCALIZATION NOTE : FILE This file contains the browser main menu items -->
+<!-- LOCALIZATION NOTE : FILE This file contains the browser main menu items -->
 <!-- LOCALIZATION NOTE : FILE Do not translate commandkeys --> 
 
 <!-- LOCALIZATION NOTE (mainWindow.title): DONT_TRANSLATE -->
@@ -134,6 +134,7 @@
 <!ENTITY undoCmd.label            "அ-செய்">  
 <!ENTITY undoCmd.key            "Z">  
 <!ENTITY undoCmd.accesskey          "U"> 
+
 <!ENTITY redoCmd.label            "மீ-செய்">  
 <!ENTITY redoCmd.key            "Y">  
 <!ENTITY redoCmd.accesskey          "R"> 
@@ -268,7 +269,7 @@
 <!ENTITY saveImageCmd.accesskey       "v">
 <!ENTITY saveVideoCmd.label           "ஒளிக்காட்சியாக சேமிக்க…">
 <!ENTITY saveVideoCmd.accesskey       "v">
-<!ENTITY saveAudioCmd.label           "Save Audio As…">
+<!ENTITY saveAudioCmd.label           "ஒலியை..என சேமிக்க">
 <!ENTITY saveAudioCmd.accesskey       "v">
 <!ENTITY sendImageCmd.label           "படத்தை அனுப்புக…">
 <!ENTITY sendImageCmd.accesskey       "n">
@@ -528,3 +529,19 @@ Entities below were automatically added by compare-locales,
 <!ENTITY addonBarCloseButton.tooltip "செருகல் பட்டையை மூடுக">
 <!ENTITY preferencesCmd2.label "தெரிவுகள்">
 <!ENTITY toggleAddonBarCmd.key        "/">
+
+
+<!--
+Entities below were automatically added by compare-locales,
+ based on en-US entities.
+-->
+
+<!ENTITY webDeveloperMenu.accesskey "W">
+<!ENTITY scratchpad.keycode "VK_F4">
+<!ENTITY unsortedBookmarksCmd.label "Unsorted Bookmarks">
+<!ENTITY scratchpad.label "Scratchpad">
+<!ENTITY getMoreDevtoolsCmd.label "Get More Tools">
+<!ENTITY scratchpad.keytext "F4">
+<!ENTITY getMoreDevtoolsCmd.accesskey "M">
+<!ENTITY scratchpad.accesskey "s">
+<!ENTITY webDeveloperMenu.label "Web Developer">

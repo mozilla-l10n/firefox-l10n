@@ -1,0 +1,27 @@
+
+
+<!--
+Entities below were automatically added by compare-locales,
+ based on en-US entities.
+-->
+
+<!ENTITY header.site.start "Permissions for">
+<!ENTITY geo.label "Share Location">
+<!ENTITY header.site.end "">
+<!ENTITY password.label "Store Passwords">
+<!ENTITY cookie.manage "Manage Cookies…">
+<!ENTITY indexedDB.label "Maintain Offline Storage">
+<!ENTITY cookie.clear "Clear Cookies">
+<!ENTITY password.manage "Manage Passwords…">
+<!ENTITY header.defaults "Default Permissions for All Sites">
+<!ENTITY sites.allSites "All Sites">
+<!ENTITY sites.search "Search Sites">
+<!ENTITY cookie.clearAll "Clear All Cookies">
+<!ENTITY permission.allow "Allow">
+<!ENTITY permission.allowForSession "Allow for Session">
+<!ENTITY popup.label "Open Pop-up Windows">
+<!ENTITY permission.alwaysAsk "Always Ask">
+<!ENTITY permissions.forgetSite "Forget About This Site">
+<!ENTITY permission.block "Block">
+<!ENTITY permissionsManager.title "Permissions Manager">
+<!ENTITY cookie.label "Set Cookies">

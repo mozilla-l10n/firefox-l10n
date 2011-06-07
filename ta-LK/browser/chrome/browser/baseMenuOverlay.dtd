@@ -1,4 +1,4 @@
-﻿<!ENTITY minimizeWindow.key "m">
+<!ENTITY minimizeWindow.key "m">
 <!ENTITY minimizeWindow.label "சிறிதாக்கு">
 <!ENTITY bringAllToFront.label "அனைத்தையும் முன்புறம் கொணர்க">
 <!ENTITY zoomWindow.label "அண்மை">
@@ -41,4 +41,4 @@ Entities below were automatically added by compare-locales,
 <!ENTITY productHelp.label "&brandShortName; உதவி">
 <!ENTITY aboutProduct.label "&brandShortName; ஐ பற்றி"> 
 <!ENTITY helpMac.commandkey "?">
-<!ENTITY helpTroubleshootingInfo.label "Troubleshooting தகவல்">
+<!ENTITY helpTroubleshootingInfo.label      "Troubleshooting Information">
