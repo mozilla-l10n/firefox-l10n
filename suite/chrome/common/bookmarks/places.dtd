@@ -99,8 +99,6 @@
 
 <!ENTITY cmd.reloadLivebookmark.label      "Įkelti sklaidos kanalą iš naujo">
 <!ENTITY cmd.reloadLivebookmark.accesskey  "t">
-<!ENTITY cmd.reloadMicrosummary.label      "Atnaujinti kaičiąją antraštę">
-<!ENTITY cmd.reloadMicrosummary.accesskey  "n">
 
 <!ENTITY cmd.moveBookmarks.label           "Perkelti…">
 <!ENTITY cmd.moveBookmarks.accesskey       "P">
