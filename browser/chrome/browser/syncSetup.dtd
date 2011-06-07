@@ -43,7 +43,7 @@
 <!ENTITY setup.newSyncKeyPage.description.label "Varmistaaksemme täydellisen yksityisyydensuojan, kaikki tiedot salataan ennen kuin ne lähetetään eteenpäin. Synkronointiavaimesi on välttämätön tietojen purkamiseen, mutta sitä ei lähetetä eteenpäin.">
 <!ENTITY syncKeyEntry.label        "Synkronointiavaimesi">
 <!ENTITY syncKeyEntry.accesskey    "S">
-<!ENTITY syncKeyGenerate.label     "Luo">
+<!ENTITY syncGenerateNewKey.label  "Luo uusi avain">
 <!ENTITY syncKeyBackup.description "Tarvitset synkronointiavaintasi kun haluat liittää toisia laitteita &syncBrand.fullName.label; -tiliisi. Otathan siis avaimesta varmuuskopion. Emme voi auttaa sinua palauttamaan hävinnyttä synkronointiavainta.">
 
 <!ENTITY button.syncKeyBackup.print.label     "Tulosta…">

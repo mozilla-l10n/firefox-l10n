@@ -8,8 +8,3 @@
 <!ENTITY aboutHome.openAllTabs                  "Avaa kaikki välilehtiin">
 <!ENTITY aboutHome.noTabs                       "Ei välilehtiä viime kerralta">
 <!ENTITY aboutHome.noAddons                     "Ei suositeltuja lisäosia">
-
-<!-- LOCALIZATION NOTE: 'Firefox Spark' is the official name of the promotion/constest and should not be translated -->
-<!ENTITY aboutHome.promoLabel                   "Firefox Spark">
-<!-- LOCALIZATION NOTE: 'Play' should be translated in the context of 'playing a game' and not 'playing a video' -->
-<!ENTITY aboutHome.promoButton                  "Pelaa">
