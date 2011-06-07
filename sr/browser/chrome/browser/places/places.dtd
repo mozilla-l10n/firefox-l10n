@@ -18,7 +18,7 @@
 <!ENTITY view.label "Pogledaj">
 <!ENTITY cmd.findInBookmarks.label "Нађи међу забелешкама…">
 <!ENTITY find.accesskey "Н">
-<!ENTITY file.close.label "Zatvori">
+<!ENTITY file.close.label "Затвори">
 <!ENTITY edit.label "Уређивање">
 <!ENTITY cmd.close.key "с">
 <!ENTITY bySite.label "По месту">

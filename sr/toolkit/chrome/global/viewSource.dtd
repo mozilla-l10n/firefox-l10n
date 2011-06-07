@@ -1,6 +1,6 @@
 <!ENTITY menu_textReduce.label "Умањи">
 <!ENTITY menu_textSize.label "Величина текста">
-<!ENTITY closeCmd.label "Zatvori">
+<!ENTITY closeCmd.label "Затвори">
 <!ENTITY fileMenu.accesskey "Д">
 <!ENTITY pageSetupCmd.label "Подешавање странице">
 <!ENTITY viewMenu.accesskey "V">

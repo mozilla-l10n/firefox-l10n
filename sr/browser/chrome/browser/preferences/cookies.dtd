@@ -6,7 +6,7 @@
 <!ENTITY button.removecookie.accesskey "У">
 <!ENTITY props.domain.label "Домен:">
 <!ENTITY cookiesonsystem.label "Ово је списак колачића који се чувају на Вашем рачунару:">
-<!ENTITY button.close.label "Zatvori">
+<!ENTITY button.close.label "Затвори">
 <!ENTITY window.width "46em">
 <!ENTITY cookiedomain.label "Веб сајт">
 <!ENTITY cookiename.label "Име колачића">
