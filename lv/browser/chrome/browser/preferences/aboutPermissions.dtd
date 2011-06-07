@@ -22,9 +22,9 @@
 <!ENTITY password.manage                 "Pārvaldīt paroles…">
 
 <!ENTITY cookie.label                    "Iestatīt sīkdatnes">
-<!ENTITY cookie.clear                    "Dzēst sīkdatnes">
+<!ENTITY cookie.remove                   "Dzēst sīkdatnes">
 <!ENTITY cookie.manage                   "Pārvaldīt sīkdatnes…">
-<!ENTITY cookie.clearAll                 "Dzēst visas sīkdatnes">
+<!ENTITY cookie.removeAll                "Dzēst visas sīkdatnes">
 
 <!ENTITY geo.label                       "Atklāt atrašanās vietu">
 
