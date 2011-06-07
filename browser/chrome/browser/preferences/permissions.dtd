@@ -7,7 +7,7 @@
 <!ENTITY treehead.sitename.label "Веб сајт">
 <!ENTITY block.label "Блокирај">
 <!ENTITY address.label "Адреса веб сајта:">
-<!ENTITY button.close.label "Zatvori">
+<!ENTITY button.close.label "Затвори">
 <!ENTITY block.accesskey "Б">
 <!ENTITY windowClose.key "с">
 <!ENTITY session.accesskey "Д">

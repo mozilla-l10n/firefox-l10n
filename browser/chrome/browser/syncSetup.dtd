@@ -4,7 +4,7 @@
 <!ENTITY serverType.main.label "Сервер &syncBrand.fullName.label;а">
 <!ENTITY syncKeyBackup.description "Потребан вам је кључ за усклађивање да бисте могли приступити &syncBrand.fullName.label;-у на другим уређајима. Направите резервну копију, јер не можемо да вам повратимо кључ ако га изгубите.">
 <!ENTITY setup.successPage.title "Подешавање параметара је завршено">
-<!ENTITY syncMy.label "Sync My">
+<!ENTITY syncMy.label "Синхронизуј">
 <!ENTITY setup.signInPage.title.label "Пријављивање">
 <!ENTITY button.syncKeyBackup.print.label "Штампа…">
 <!ENTITY engine.bookmarks.accesskey "О">

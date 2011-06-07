@@ -2,7 +2,7 @@
 <!ENTITY title "Назив:">
 <!ENTITY percentPrint "#1&#037;">
 <!ENTITY dialogCancel.label "Одустани">
-<!ENTITY dialogClose.label "Zatvori">
+<!ENTITY dialogClose.label "Затвори">
 <!ENTITY preparing "Припрема…">
 <!ENTITY printWindow.title "Штампање">
 <!ENTITY progress "Напредак:">

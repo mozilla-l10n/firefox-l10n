@@ -35,7 +35,7 @@
 <!ENTITY clearTimeDuration.suffix "">
 <!ENTITY itemFormSearchHistory.label "Историјат формулара и претрага">
 <!ENTITY clearTimeDuration.nameColumn "Назив">
-<!ENTITY itemBrowsingHistory.label "Pakasaritaan ti panag-browse">
+<!ENTITY itemBrowsingHistory.label "Историјат читања">
 <!ENTITY historySection.label "Историјат">
 <!ENTITY itemCookies.accesskey "К">
 <!ENTITY clearTimeDuration.last4Hours "Последња четири сата">
