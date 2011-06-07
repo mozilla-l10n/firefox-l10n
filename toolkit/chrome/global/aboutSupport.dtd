@@ -7,7 +7,7 @@
 ">
 <!ENTITY aboutSupport.extensionsTitle "Проширења">
 <!ENTITY aboutSupport.appBasicsUserAgent "Корисник">
-<!ENTITY aboutSupport.appBasicsEnabledPlugins "Enabled Plugins">
+<!ENTITY aboutSupport.appBasicsEnabledPlugins "Укључени прикључци">
 <!ENTITY aboutSupport.extensionEnabled "Укључен">
 <!ENTITY aboutSupport.appBasicsBuildConfig "Конфигурација изградње">
 <!ENTITY aboutSupport.appBasicsName "Назив">
