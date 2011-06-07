@@ -76,6 +76,7 @@
 <!ENTITY organizeBookmarks.label "Organiziraj zabilješke…">
 <!ENTITY bookmarkAllCmd.label "Dodaj sve kartice u zabilješke...">
 <!ENTITY bookmarksToolbarChevron.tooltip "Prikaži više zabilješki">
+<!ENTITY unsortedBookmarksCmd.label "Nesortirane zabilješke">
 
 <!ENTITY backCmd.label                "Natrag">
 <!ENTITY backCmd.accesskey            "N">
@@ -134,6 +135,9 @@
 <!ENTITY addons.label                 "Dodaci">
 <!ENTITY addons.tooltip               "Prikaz i upravljanje instaliranim dodacima">
 <!ENTITY addons.accesskey             "A">
+
+<!ENTITY webDeveloperMenu.label       "Web programer">
+<!ENTITY webDeveloperMenu.accesskey   "W">
 
 <!ENTITY errorConsoleCmd.label        "Konzola grešaka">
 <!ENTITY errorConsoleCmd.accesskey    "g">
@@ -497,6 +501,21 @@ just addresses the organization to follow, e.g. "This site is run by " -->
 <!ENTITY inspectButton.label          "Ispitaj">
 <!ENTITY inspectButton.accesskey      "I">
 
+<!-- LOCALIZATION NOTE (scratchpad.label): This menu item label appears
+  -  in the Tools menu. See bug 653093.
+  -  The Scratchpad is intended to provide a simple text editor for creating
+  -  and evaluating bits of JavaScript code for the purposes of function
+  -  prototyping, experimentation and convenient scripting.
+  -
+  -  It's quite possible that you won't have a good analogue for the word
+  -  "Scratchpad" in your locale. You should feel free to find a close
+  -  approximation to it or choose a word (or words) that means
+  -  "simple discardable text editor". -->
+<!ENTITY scratchpad.label             "Scratchpad">
+<!ENTITY scratchpad.accesskey         "s">
+<!ENTITY scratchpad.keycode           "VK_F4">
+<!ENTITY scratchpad.keytext           "F4">
+
 <!ENTITY inspectMenu.label            "Ispitivanje">
 <!ENTITY inspectMenu.accesskey        "T">
 <!ENTITY inspectMenu.commandkey       "I">
@@ -509,6 +528,9 @@ just addresses the organization to follow, e.g. "This site is run by " -->
 <!ENTITY inspectStylePanelTitle.label  "Stil">
 <!ENTITY inspectObjectButton.label       "Objekt">
 <!ENTITY inspectObjectButton.accesskey   "O">
+
+<!ENTITY getMoreDevtoolsCmd.label        "Pronađi više alata">
+<!ENTITY getMoreDevtoolsCmd.accesskey    "l">
 
 <!ENTITY  listAllTabs.label      "Popis svih tabova">
 <!ENTITY  moveToGroup.accesskey              "m">

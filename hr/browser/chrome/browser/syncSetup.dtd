@@ -50,6 +50,7 @@
 <!ENTITY setup.newSyncKeyPage.description.label "Da bi se osigurala vaša privatnost, svi podaci se prije slanja na poslužitelj kriptiraju. Sync ključ, koji je neophodan za dekripciju, se ne šalje.">
 <!ENTITY syncKeyEntry.label        "Vaš Sync ključ">
 <!ENTITY syncKeyEntry.accesskey    "k">
+<!ENTITY syncGenerateNewKey.label  "Generiraj novi ključ">
 <!ENTITY syncKeyGenerate.label     "Generiraj">
 <!ENTITY syncKeyStrength.label     "Snaga:">
 <!ENTITY syncKeyHelp.label         "Što znači snaga?">
