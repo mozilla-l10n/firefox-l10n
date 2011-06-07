@@ -1,0 +1,123 @@
+<!-- LOCALIZATION NOTE : FILE This file contains the Scratchpad window strings -->
+<!-- LOCALIZATION NOTE : FILE Do not translate commandkeys -->
+
+<!-- LOCALIZATION NOTE (scratchpad.title):
+  -  The Scratchpad is intended to provide a simple text editor for creating
+  -  and evaluating bits of JavaScript code for the purposes of function
+  -  prototyping, experimentation and convenient scripting.
+  -
+  -  It's quite possible that you won't have a good analogue for the word
+  -  "Scratchpad" in your locale. You should feel free to find a close
+  -  approximation to it or choose a word (or words) that means
+  -  "simple discardable text editor". -->
+<!ENTITY window.title                 "Scratchpad">
+
+<!ENTITY fileMenu.label               "Datoteka">
+<!ENTITY fileMenu.accesskey           "D">
+
+<!ENTITY newWindowCmd.label           "Novi prozor">
+<!ENTITY newWindowCmd.accesskey       "N">
+<!ENTITY newWindowCmd.commandkey      "n">
+
+<!ENTITY openFileCmd.label            "Otvori datoteku…">
+<!ENTITY openFileCmd.accesskey        "O">
+<!ENTITY openFileCmd.commandkey       "o">
+
+<!ENTITY saveFileCmd.label            "Spremi">
+<!ENTITY saveFileCmd.accesskey        "S">
+<!ENTITY saveFileCmd.commandkey       "s">
+
+<!ENTITY saveFileAsCmd.label          "Spremi kao…">
+<!ENTITY saveFileAsCmd.accesskey      "A">
+
+<!ENTITY closeCmd.label               "Zatvori">
+<!ENTITY closeCmd.key                 "W">
+<!ENTITY closeCmd.accesskey           "Z">
+
+<!ENTITY editMenu.label               "Uredi">
+<!ENTITY editMenu.accesskey           "E">
+
+<!ENTITY undoCmd.label                "Poništi">
+<!ENTITY undoCmd.key                  "Z">
+<!ENTITY undoCmd.accesskey            "t">
+
+<!ENTITY redoCmd.label                "Ponovi">
+<!ENTITY redoCmd.key                  "Y">
+<!ENTITY redoCmd.accesskey            "i">
+
+<!ENTITY cutCmd.label                 "Izreži">
+<!ENTITY cutCmd.key                   "X">
+<!ENTITY cutCmd.accesskey             "ž">
+
+<!ENTITY copyCmd.label                "Kopiraj">
+<!ENTITY copyCmd.key                  "C">
+<!ENTITY copyCmd.accesskey            "r">
+
+<!ENTITY pasteCmd.label               "Zalijepi">
+<!ENTITY pasteCmd.key                 "V">
+<!ENTITY pasteCmd.accesskey           "p">
+
+<!ENTITY selectAllCmd.label           "Označi sve">
+<!ENTITY selectAllCmd.key             "A">
+<!ENTITY selectAllCmd.accesskey       "a">
+
+<!ENTITY run.label                    "Pokreni">
+<!ENTITY run.accesskey                "R">
+<!ENTITY run.key                      "r">
+
+<!ENTITY inspect.label                "Ispitaj">
+<!ENTITY inspect.accesskey            "I">
+<!ENTITY inspect.key                  "i">
+
+<!ENTITY display.label                "Prikaži">
+<!ENTITY display.accesskey            "D">
+<!ENTITY display.key                  "k">
+
+<!-- LOCALIZATION NOTE (environmentMenu.label, accesskey): This menu item was
+  -  renamed from "Context" to avoid confusion with the right-click context
+  -  menu in the text area. It refers to the JavaScript Environment (or context)
+  -  the user is evaluating against. I.e., Content (current tab) or Chrome
+  -  (browser).
+  -->
+<!ENTITY environmentMenu.label        "Okruženje">
+<!ENTITY environmentMenu.accesskey    "N">
+
+
+<!ENTITY contentContext.label         "Sadržaj">
+<!ENTITY contentContext.accesskey     "S">
+
+<!-- LOCALIZATION NOTE (browserContext.label, accesskey): This menu item is used
+  -  to select an execution environment for the browser window itself as opposed
+  -  to content. This is a feature for browser and addon developers and only
+  -  enabled via the devtools.chrome.enabled preference. Formerly, this label
+  -  was called "Chrome".
+  -->
+<!ENTITY browserContext.label         "Preglednik">
+<!ENTITY browserContext.accesskey     "g">
+
+<!-- LOCALIZATION NOTE (resetContext.label): This command allows the developer
+  -  to reset/clear the global object of the environment where the code executes.
+  -->
+<!ENTITY resetContext.label           "Poništi">
+<!ENTITY resetContext.accesskey       "t">
+
+<!ENTITY executeMenu.label            "Izvrši">
+<!ENTITY executeMenu.accesskey        "z">
+
+<!ENTITY toolsMenu.label              "Alati">
+<!ENTITY toolsMenu.accesskey          "t">
+
+<!ENTITY errorConsoleCmd.label        "Konzola grešaka">
+<!ENTITY errorConsoleCmd.accesskey    "K">
+<!ENTITY errorConsoleCmd.commandkey   "j">
+
+<!ENTITY webConsoleCmd.label          "Web konzola">
+<!ENTITY webConsoleCmd.accesskey      "W">
+<!ENTITY webConsoleCmd.commandkey     "k">
+
+<!-- LOCALIZATION NOTE (textbox.placeholder1): This is some placeholder text
+  -  that appears when the Scratchpad's text area is empty and unfocused.
+  -  It should be a one-line JavaScript comment, i.e., preceded by '//'
+  -->
+<!ENTITY textbox.placeholder1         "// Upišite JavaScript kôd, označite ga, kliknite desnom tipkom miša na njega, te odaberite Pokreni, Ispitaj ili Prikaži.">
+
