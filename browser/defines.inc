@@ -6,4 +6,5 @@
 # variable definition and use the format specified.
 #define MOZ_LANGPACK_CONTRIBUTORS <em:contributor>Rhoslyn Prys</em:contributor> <em:contributor>Dewi Jones</em:contributor> <em:contributor>David Chan (陳惠明)</em:contributor>
 
+
 #unfilter emptyLines
