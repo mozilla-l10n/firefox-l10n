@@ -6,12 +6,9 @@
 <!ENTITY organize.accesskey    "J">
 <!ENTITY organize.tooltip      "Järjestele kirjanmerkkejäsi">
 
-<!ENTITY file.accesskey                 "J">
 <!ENTITY file.close.label               "Sulje">
 <!ENTITY file.close.accesskey           "S">
 <!ENTITY cmd.close.key                  "w">
-<!ENTITY edit.label                     "Muokkaa">
-<!ENTITY edit.accesskey                 "M">
 <!ENTITY views.label                    "Näkymät">
 <!ENTITY views.accesskey                "N">
 <!ENTITY views.tooltip                  "Muokkaa näkymää">
@@ -76,8 +73,6 @@
 
 <!ENTITY cmd.reloadLivebookmark.label      "Päivitä live-kirjanmerkki">
 <!ENTITY cmd.reloadLivebookmark.accesskey  "ä">
-<!ENTITY cmd.reloadMicrosummary.label      "Päivitä muuttuva otsikko">
-<!ENTITY cmd.reloadMicrosummary.accesskey  "ä">
 
 <!ENTITY cmd.moveBookmarks.label                  "Siirrä…">
 <!ENTITY cmd.moveBookmarks.accesskey              "S">
@@ -113,17 +108,14 @@
 <!ENTITY maintenance.accesskey  "T">
 <!ENTITY maintenance.tooltip    "Tuo ja varmuuskopioi kirjanmerkkejä">
 
-<!ENTITY backCmd.label       "Edellinen">
 <!ENTITY backButton.tooltip  "Palaa edelliseen">
 
-<!ENTITY forwardCmd.label       "Seuraava">
 <!ENTITY forwardButton.tooltip  "Siirry seuraavaan">
 
 <!ENTITY detailsPane.more.label "Lisää">
 <!ENTITY detailsPane.more.accesskey "L">
 <!ENTITY detailsPane.less.label "Vähemmän">
 <!ENTITY detailsPane.less.accesskey "V">
-<!ENTITY detailsPane.noPreviewAvailable.label "Esikatselu">
 <!ENTITY detailsPane.selectAnItemText.description "Valitse kohde, jonka ominaisuuksia muokataan tai näytetään">
 
 <!ENTITY find.label               "Etsi:">

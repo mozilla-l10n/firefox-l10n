@@ -6,7 +6,6 @@
 <!ENTITY editBookmarkOverlay.feedLocation.accesskey          "S">
 <!ENTITY editBookmarkOverlay.siteLocation.label              "Sivuston osoite:">
 <!ENTITY editBookmarkOverlay.siteLocation.accesskey          "i">
-<!ENTITY editBookmarkOverlay.liveTitlesSeparator.label       "Muuttuvat otsikot">
 <!ENTITY editBookmarkOverlay.folder.label                    "Kansio:">
 <!ENTITY editBookmarkOverlay.foldersExpanderDown.tooltip     "Näytä kaikki kirjanmerkkikansiot">
 <!ENTITY editBookmarkOverlay.expanderUp.tooltip              "Piilota">

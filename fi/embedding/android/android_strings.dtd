@@ -1,5 +1,6 @@
 <!ENTITY  splash_screen_label "ladataan">
 <!ENTITY  splash_screen_installing "asennetaan kirjastoja\u2026">
+<!ENTITY  splash_firstrun "Asennetaan &brandShortName;ia\u2026">
 <!ENTITY  incompatable_cpu_error "Tämä laite ei täytä &brandShortName;in vähimmäisvaatimuksia laitteistolle.">
 <!ENTITY  no_space_to_start_error "Laitteella oleva tila ei riitä &brandShortName;in käynnistymiseen.">
 <!ENTITY  error_loading_file "Tapahtui virhe ladattaessa &brandShortName;in käynnistämiseen tarvittavia tiedostoja">
