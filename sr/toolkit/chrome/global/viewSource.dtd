@@ -18,7 +18,7 @@
 <!ENTITY printPreviewCmd.accesskey "П">
 <!ENTITY findAgainCmd.commandkey2 "VK_F3">
 <!ENTITY menu_textSize.accesskey "В">
-<!ENTITY viewMenu.label "Pogledaj">
+<!ENTITY viewMenu.label "Погледај">
 <!ENTITY findAgainCmd.commandkey "Р">
 <!ENTITY fileMenu.label "Датотека">
 <!ENTITY textEnlarge.commandkey2 "=">
