@@ -64,6 +64,7 @@
 <!ENTITY PhoneticField2.label           "Вимова:">
 <!ENTITY DisplayName.label              "Відображати як:">
 <!ENTITY DisplayName.accesskey          "В">
+<!-- FIXME -->
 <!ENTITY preferDisplayName.label        "Always prefer display name over message header">
 <!ENTITY preferDisplayName.accesskey    "y">
 <!ENTITY NickName.label                 "Псевдонім:">

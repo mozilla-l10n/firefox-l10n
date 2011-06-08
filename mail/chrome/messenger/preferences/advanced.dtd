@@ -45,8 +45,8 @@
 <!ENTITY reuseExpRadio0.accesskey      "н">
 <!ENTITY reuseExpRadio1.label          "вже існуючому вікні">
 <!ENTITY reuseExpRadio1.accesskey      "у">
-<!ENTITY closeMsgOnMoveOrDelete.label  "Close message window/tab on move or delete">
-<!ENTITY closeMsgOnMoveOrDelete.accesskey "C">
+<!ENTITY closeMsgOnMoveOrDelete.label  "Закривати вікно листа після видалення/переміщення">
+<!ENTITY closeMsgOnMoveOrDelete.accesskey "З">
 
 <!-- Update -->
 <!ENTITY autoCheck.label                "Автоматично перевіряти наявність оновлень:">

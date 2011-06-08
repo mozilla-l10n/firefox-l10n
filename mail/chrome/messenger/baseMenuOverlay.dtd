@@ -5,12 +5,12 @@
                        for the help button in the menubar but Gnome does not.   -->
 <!ENTITY helpMenuWin.label "Довідка">
 <!ENTITY helpMenuWin.accesskey "Д">
-<!ENTITY helpTroubleshootingInfo.label     "Troubleshooting Information">
-<!ENTITY helpTroubleshootingInfo.accesskey "T">
-<!ENTITY helpSafeMode.label     "Restart with Add-ons Disabled…">
-<!ENTITY helpSafeMode.accesskey "R">
-<!ENTITY releaseCmd2.label "Release Notes">
-<!ENTITY releaseCmd2.accesskey "N">
+<!ENTITY helpTroubleshootingInfo.label     "Вирішення проблем">
+<!ENTITY helpTroubleshootingInfo.accesskey "В">
+<!ENTITY helpSafeMode.label     "Перезапуск з вимкненими додатками…">
+<!ENTITY helpSafeMode.accesskey "П">
+<!ENTITY releaseCmd2.label "Примітки до випуску">
+<!ENTITY releaseCmd2.accesskey "в">
 <!ENTITY whatsNewCmd.label "Що нового">
 <!ENTITY whatsNewCmd.accesskey "Щ">
 <!ENTITY featureConfiguratorCmd.label "Помічник з міграції">

@@ -1,40 +1,40 @@
 <!ENTITY autoconfigWizard.title          "Настройка поштового облікового запису">
 <!ENTITY name.label                      "Ваше ім’я:">
 <!ENTITY name.accesskey                  "і">
-<!ENTITY name.placeholder                "First Last">
+<!ENTITY name.placeholder                "Ім’я Прізвище">
 <!ENTITY name.text                       "Ваше ім’я, яким його бачитимуть інші">
 <!ENTITY email.label                     "Поштова адреса:">
 <!ENTITY email.accesskey                 "а">
 <!ENTITY email.placeholder               "email@example.com">
 <!ENTITY password.label                  "Пароль:">
 <!ENTITY password.accesskey              "П">
-<!ENTITY password.placeholder            "Password">
+<!ENTITY password.placeholder            "Пароль">
 <!ENTITY password.text                   "Додатково, буде використане лише для перевірки імені користувача">
 <!ENTITY rememberPassword.label          "Запам’ятати пароль">
 <!ENTITY rememberPassword.accesskey      "з">
 
-<!ENTITY imapLong.label                  "IMAP (remote folders)">
-<!ENTITY pop3Long.label                  "POP3 (keep mail on your computer)">
+<!ENTITY imapLong.label                  "IMAP (віддалені теки)">
+<!ENTITY pop3Long.label                  "POP3 (зберігати пошту на вашому комп’ютері)">
 
 <!ENTITY incoming.label                  "Вхідні:">
 <!ENTITY outgoing.label                  "Вихідні:">
-<!ENTITY username.label                  "Username:">
-<!ENTITY hostname.label                  "Server hostname">
+<!ENTITY username.label                  "Користувач:">
+<!ENTITY hostname.label                  "Хост сервера">
 <!ENTITY port.label                      "Port">
 <!ENTITY ssl.label                       "SSL">
-<!ENTITY auth.label                      "Authentication">
+<!ENTITY auth.label                      "Автентифікація">
 <!ENTITY imap.label                      "IMAP">
 <!ENTITY pop3.label                       "POP3">
 <!ENTITY smtp.label                      "SMTP">
-<!ENTITY autodetect.label                "Autodetect">
+<!ENTITY autodetect.label                "Автодетект">
 <!-- LOCALIZATION NOTE(noEncryption.label): Neither SSL/TLS nor STARTTLS.
      Transmission of emails in cleartext over the Internet. -->
 <!ENTITY noEncryption.label              "Жодної">
 <!ENTITY starttls.label                  "STARTTLS">
 <!ENTITY sslTls.label                    "SSL/TLS">
 
-<!ENTITY advancedSetup.label             "Advanced config">
-<!ENTITY advancedSetup.accesskey         "A">
+<!ENTITY advancedSetup.label             "Розширена конфігурація">
+<!ENTITY advancedSetup.accesskey         "Р">
 <!ENTITY cancel.label                    "Скасувати">
 <!ENTITY cancel.accesskey                "к">
 <!ENTITY continue.label                  "Далі">
@@ -45,10 +45,10 @@
      displayed on the button in manual edit mode which will re-guess
      the account configuration, taking into account the settings that
      the user has manually changed. -->
-<!ENTITY half-manual-test.label          "Re-test">
-<!ENTITY half-manual-test.accesskey      "t">
-<!ENTITY manual-edit.label               "Manual config">
-<!ENTITY manual-edit.accesskey           "M">
+<!ENTITY half-manual-test.label          "Спробувати">
+<!ENTITY half-manual-test.accesskey      "т">
+<!ENTITY manual-edit.label               "Вручну">
+<!ENTITY manual-edit.accesskey           "В">
 
 
 <!ENTITY warning.label                   "Увага!">

@@ -1,4 +1,4 @@
-<!ENTITY  typeColumn.label            "Тип змісту">
+<!ENTITY  typeColumn.label            "Тип вмісту">
 <!ENTITY  typeColumn.accesskey        "Т">
 
 <!ENTITY  actionColumn2.label         "Дія">
@@ -7,7 +7,7 @@
 <!ENTITY  focusSearch1.key            "f">
 <!ENTITY  focusSearch2.key            "k">
 
-<!ENTITY  filter.placeholder          "Search">
+<!ENTITY  filter.placeholder          "Пошук">
 
 <!ENTITY saveTo.label                 "Зберігати файли до">
 <!ENTITY saveTo.accesskey             "З">

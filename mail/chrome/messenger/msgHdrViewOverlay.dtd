@@ -107,9 +107,9 @@
 <!ENTITY detachAttachmentCmd.label    "Відокремити…">
 <!ENTITY detachAttachmentCmd.accesskey    "T">
 <!ENTITY deleteAttachmentCmd.label    "Вилучити">
-<!ENTITY deleteAttachmentCmd.accesskey    "L">
-<!ENTITY openAllAttachmentsCmd.label    "Open All…">
-<!ENTITY openAllAttachmentsCmd.accesskey    "O">
+<!ENTITY deleteAttachmentCmd.accesskey    "л">
+<!ENTITY openAllAttachmentsCmd.label    "Відкрити всі…">
+<!ENTITY openAllAttachmentsCmd.accesskey    "в">
 <!ENTITY saveAllAttachmentsCmd.label    "Зберегти все…">
 <!ENTITY saveAllAttachmentsCmd.accesskey    "е">
 <!ENTITY detachAllAttachmentsCmd.label    "Відокремити всі…">
@@ -117,6 +117,7 @@
 <!ENTITY deleteAllAttachmentsCmd.label    "Вилучити всі…">
 <!ENTITY deleteAllAttachmentsCmd.accesskey    "с">
 
+<!-- FIXME -->
 <!-- Attachment toolbar items -->
 <!ENTITY saveAttachmentButton.label       "save">
 <!ENTITY saveAttachmentButton.tooltip     "save the attached file">

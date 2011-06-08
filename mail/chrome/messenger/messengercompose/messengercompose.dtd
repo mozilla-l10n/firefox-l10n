@@ -193,7 +193,7 @@
 <!ENTITY quoteButton.tooltip "Цитувати попереднй лист"> 
 <!ENTITY addressButton.tooltip "Вибрати адресата з адресної книги"> 
 <!ENTITY attachButton.tooltip "Вкласти файл в цей лист"> 
-<!ENTITY spellingButton.tooltip "Check spelling of selection or entire message">
+<!ENTITY spellingButton.tooltip "Перевірити правопис вибірки чи всього листа">
 <!ENTITY saveButton.tooltip "Зберегти цей лист"> 
 <!ENTITY cutButton.tooltip              "Вирізати">
 <!ENTITY copyButton.tooltip             "Копіювати">
@@ -210,6 +210,7 @@
 <!ENTITY bccAddr.label "Прих. копія:"> 
 <!ENTITY replyAddr.label "Зворотна адреса:"> 
 <!ENTITY newsgroupsAddr.label "Група новин:"> 
+<!-- FIXME -->
 <!ENTITY followupAddr.label "Followup-To:"> 
 <!ENTITY subject.label "Тема:">
 <!ENTITY subject.accesskey "Т">
@@ -269,8 +270,8 @@
 <!ENTITY attachPage.accesskey "е">
 
 <!-- Spell checker context menu items -->
-<!ENTITY spellAddDictionaries.label "Add Dictionaries…">
-<!ENTITY spellAddDictionaries.accesskey "A">
+<!ENTITY spellAddDictionaries.label "Додати словники…">
+<!ENTITY spellAddDictionaries.accesskey "Д">
 
 <!-- Title for the address picker panel -->
 <!ENTITY addressesSidebarTitle.label "Контакти">

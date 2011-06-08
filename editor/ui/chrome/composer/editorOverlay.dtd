@@ -390,7 +390,8 @@
 <!-- Toolbar-only items -->
 <!ENTITY menuBar.tooltip "Панель меню">
 <!ENTITY formatToolbar.tooltip "Панель форматування">
-<!ENTITY newToolbarCmd.label "New">
+<!ENTITY newToolbarCmd.label "Нова">
+<!-- ??? -->
 <!ENTITY newToolbarCmd.tooltip "Створити нову сторінку Компонувальника">
 <!ENTITY openToolbarCmd.label "Відкрити">
 <!ENTITY openToolbarCmd.tooltip "Відкрити локальний файл">
