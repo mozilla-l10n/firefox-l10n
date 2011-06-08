@@ -182,5 +182,8 @@ netError.xhtml) because it exposes functionality specific to firefox. -->
 <button id='exceptionDialogButton'>&securityOverride.exceptionButtonLabel;</button>
 ">
 
+<!ENTITY corruptedContentError.title "Erreur de contenu corrompu">
+<!ENTITY corruptedContentError.longDesc "<p>La page que vous essayez de voir ne peut pas être affichée car une erreur dans la transmission de données a été détectée.</p><ul><li>Veuillez contacter les propriétaires du site Web pour les informer de ce problème.</li></ul>">
+
 <!ENTITY remoteXUL.title "XUL distant">
 <!ENTITY remoteXUL.longDesc "<p><ul><li>Veuillez contacter les propriétaires du site Web pour les informer de ce problème.</li></ul></p>">
