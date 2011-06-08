@@ -12,9 +12,9 @@
 <!ENTITY password.label "Salvare password">
 <!ENTITY password.manage "Gestione password…">
 <!ENTITY cookie.label "Impostare cookie">
-<!ENTITY cookie.clear "Elimina i cookie">
+<!ENTITY cookie.remove "Rimuovi cookie">
 <!ENTITY cookie.manage "Gestione cookie…">
-<!ENTITY cookie.clearAll "Elimina tutti i cookie">
+<!ENTITY cookie.removeAll "Rimuovi tutti i cookie">
 <!ENTITY geo.label "Comunicare posizione attuale">
 <!ENTITY indexedDB.label "Archiviare dati non in linea">
 <!ENTITY popup.label "Aprire finestre pop-up">
