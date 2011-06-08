@@ -10,9 +10,7 @@
 <!ENTITY quitApplicationCmd.key "Q">
 <!ENTITY quitApplicationCmd.accesskey "k">
 
-<!ENTITY redoCmd.label "Yinele">
 <!ENTITY redoCmd.key "Y">
-<!ENTITY redoCmd.accesskey "Y">
 
 <!ENTITY findTypeTextCmd.key "VK_HELP">
 <!ENTITY findTypeLinksCmd.key "'">

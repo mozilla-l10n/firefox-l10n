@@ -226,6 +226,9 @@ can reach it easily. -->
 <!ENTITY inspectObjectButton.label "Nesne">
 <!ENTITY inspectObjectButton.accesskey "N">
 
+<!ENTITY getMoreDevtoolsCmd.label "Get More Tools">
+<!ENTITY getMoreDevtoolsCmd.accesskey "M">
+
 <!ENTITY fileMenu.label "Dosya">
 <!ENTITY fileMenu.accesskey "s">
 <!ENTITY newNavigatorCmd.label "Yeni pencere">

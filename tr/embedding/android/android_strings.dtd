@@ -1,6 +1,6 @@
 <!ENTITY splash_screen_label "yükleniyor">
 <!ENTITY splash_screen_installing "kütüphaneler kuruluyor\u2026">
-<!ENTITY incompatable_cpu_error "Bu aygıt &brandShortName; için gereken en düşük sistem gereksinimlerini karşılamıyor.">
+<!ENTITY splash_firstrun "Setting up &brandShortName;\u2026">
 <!ENTITY no_space_to_start_error "&brandShortName; uygulamasının başlaması için yeterli boş alan yok.">
 <!ENTITY error_loading_file "&brandShortName; uygulamasını başlatmak için gereken dosyalar yüklenmeye çalışılırken bir sorun meydana geldi.">
 
@@ -13,6 +13,4 @@
 <!ENTITY crash_restart_label "&brandShortName; baştan başlasın">
 <!ENTITY sending_crash_report "Çökme raporu gönderiliyor\u2026">
 <!ENTITY exit_label "Çık">
-<!ENTITY incompatable_device "&brandShortName; does not support this device and you may experience
-problems.">
 <!ENTITY continue_label "Devam">
