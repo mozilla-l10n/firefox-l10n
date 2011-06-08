@@ -45,9 +45,6 @@
 <!-- File menu items -->
 <!ENTITY fileMenu.label "Файл">
 <!ENTITY fileMenu.accesskey "Ф">
-<!ENTITY newBlankPageCmd.label "Сторінку Компонувальника">
-<!ENTITY newBlankPageCmd.accesskey "т" >
-<!ENTITY newMenu.label "Створити">
 <!ENTITY openFileCmd.label "Відкрити файл…">
 <!ENTITY openFileCmd.accesskey "ф">
 <!ENTITY openFileCmd.key "O">
@@ -69,14 +66,8 @@
 <!ENTITY publishCmd.key "S">
 <!ENTITY publishAsCmd.label "Опублікувати як…">
 <!ENTITY publishAsCmd.accesskey "я">
-<!ENTITY exportToTextCmd.label "Експорт в текстовий формат…">
-<!ENTITY exportToTextCmd.accesskey "Е">
 <!ENTITY saveAsChangeEncodingCmd.label "Змінити і зберегти кодування">
 <!ENTITY saveAsChangeEncodingCmd.accesskey "к">
-<!ENTITY previewCmd.label "Перегляд сторінки">
-<!ENTITY previewCmd.accesskey "г">
-<!ENTITY sendPageCmd.label "Відіслати сторінку…">
-<!ENTITY sendPageCmd.accesskey "с">
 <!ENTITY printSetupCmd.label "Параметри сторінки…">
 <!ENTITY printSetupCmd.accesskey "а">
 <!ENTITY printCmd.label "Друк…">
@@ -116,8 +107,6 @@
 <!ENTITY checkSpellingCmd2.label "Перевірити правопис">
 <!ENTITY checkSpellingCmd2.accesskey "п">
 <!ENTITY checkSpellingCmd2.key "p">
-<!ENTITY validateCmd.label "Перевірити HTML">
-<!ENTITY validateCmd.accesskey "П">
 
 <!-- Insert menu items -->
 <!ENTITY insertMenu.label "Вкласти">
@@ -332,11 +321,6 @@
 <!ENTITY decreaseIndent.accesskey "м">
 <!ENTITY decreaseIndent.key "[">
 
-<!ENTITY grid.label "Сітка">
-<!ENTITY grid.accesskey "С">
-
-<!ENTITY pageProperties.label "Заголовок і властивості сторінки…">
-<!ENTITY pageProperties.accesskey "З">
 <!ENTITY colorsAndBackground.label "Колір і тло сторінки…">
 <!ENTITY colorsAndBackground.accesskey "т">
 
@@ -405,15 +389,13 @@
 
 <!-- Toolbar-only items -->
 <!ENTITY menuBar.tooltip "Панель меню">
-<!ENTITY compositionToolbar.tooltip "Панель компонування">
 <!ENTITY formatToolbar.tooltip "Панель форматування">
+<!ENTITY newToolbarCmd.label "New">
 <!ENTITY newToolbarCmd.tooltip "Створити нову сторінку Компонувальника">
 <!ENTITY openToolbarCmd.label "Відкрити">
 <!ENTITY openToolbarCmd.tooltip "Відкрити локальний файл">
 <!ENTITY saveToolbarCmd.tooltip "Зберегти файл локально">
 <!ENTITY publishToolbarCmd.tooltip "Завантажити файл на віддалений сервер">
-<!ENTITY previewToolbarCmd.label "Перегляд">
-<!ENTITY previewToolbarCmd.tooltip "Завантажити цю сторінку у Браузер">
 <!ENTITY printToolbarCmd.label "Друк">
 <!ENTITY printToolbarCmd.tooltip "Надрукувати цю сторінку">
 <!ENTITY findToolbarCmd.label "Знайти">
@@ -450,33 +432,7 @@
 <!ENTITY alignLeftButton.tooltip "Вирівнювання тексту уздовж лівого краю">
 <!ENTITY alignCenterButton.tooltip "Вирівнювання тексту по центру">
 <!ENTITY alignRightButton.tooltip "Вирівнювання тексту уздовж правого краю">
-<!ENTITY alignjustifyButton.tooltip "Вирівнювання тексту по ширині">
-
-<!-- Display Mode toolbar and View menu items -->
-<!ENTITY NormalModeTab.label "Звичайний">
-<!ENTITY NormalMode.label "Звичайний режим редагування">
-<!ENTITY NormalMode.accesskey "З">
-<!ENTITY NormalMode.tooltip "Показуються межі таблиць і імена якорів">
-<!ENTITY AllTagsMode.label "HTML-теги">
-<!ENTITY AllTagsMode.accesskey "т">
-<!ENTITY AllTagsMode.tooltip "Показуються значки для всіх HTML-тегів">
-
-<!ENTITY HTMLSourceMode.label "Початковий код HTML">
-<!-- Toolbar has an image with "HTML" text, so don't include it in the string -->
-<!ENTITY SourceMode.label "Початковий код">
-<!ENTITY HTMLSourceMode.accesskey "к">
-<!ENTITY HTMLSourceMode.tooltip "Редагувати початковий код HTML">
-<!ENTITY PreviewMode.label "Попередній перегляд">
-<!ENTITY PreviewMode.accesskey "р">
-<!ENTITY PreviewMode.tooltip "Показувати сторінку як у Браузері">
-
-<!-- LOCALIZATION NOTE: Do NOT translate text for 'SourceTabDirection'
-     Use latin "ltr" if you want the <html> image to left of the 
-     'SourceMode.label' text defined above,
-     or use latin "rtl" if you want this image to the right of text
-     This is the value of the HTML 'dir' attribute
--->
-<!ENTITY SourceTabDirection "ltr">
+<!ENTITY alignJustifyButton.tooltip "Align text along left and right margins">
 
 <!-- Structure Toolbar Context Menu items -->
 <!ENTITY structSelect.label         "Вибрати">

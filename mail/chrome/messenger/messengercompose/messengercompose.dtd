@@ -193,12 +193,16 @@
 <!ENTITY quoteButton.tooltip "Цитувати попереднй лист"> 
 <!ENTITY addressButton.tooltip "Вибрати адресата з адресної книги"> 
 <!ENTITY attachButton.tooltip "Вкласти файл в цей лист"> 
+<!ENTITY spellingButton.tooltip "Check spelling of selection or entire message">
 <!ENTITY saveButton.tooltip "Зберегти цей лист"> 
 <!ENTITY cutButton.tooltip              "Вирізати">
 <!ENTITY copyButton.tooltip             "Копіювати">
 <!ENTITY pasteButton.tooltip            "Вставити">
 
 <!-- Headers -->
+<!--LOCALIZATION NOTE headersSpace.style is for aligning  the From:, To: and
+    Subject: rows. It should be larger than the largest Header label  -->
+<!ENTITY headersSpace.style "width: 9em;">
 <!ENTITY fromAddr.label "Від:">
 <!ENTITY fromAddr.accesskey "д">
 <!ENTITY toAddr.label "Кому:"> 
@@ -209,7 +213,8 @@
 <!ENTITY followupAddr.label "Followup-To:"> 
 <!ENTITY subject.label "Тема:">
 <!ENTITY subject.accesskey "Т">
-<!ENTITY attachments.label "Вкладення:">
+<!-- LOCALIZATION NOTE attachments.accesskey This access key should correspond
+     to the strings in attachmentCount in composeMsgs.properties -->
 <!ENTITY attachments.accesskey "В">
 
 <!-- Format Toolbar, imported from editorAppShell.xul -->
@@ -262,6 +267,10 @@
 <!ENTITY attachFile.accesskey "ф">
 <!ENTITY attachPage.label "Вкласти веб-сторінку…">
 <!ENTITY attachPage.accesskey "е">
+
+<!-- Spell checker context menu items -->
+<!ENTITY spellAddDictionaries.label "Add Dictionaries…">
+<!ENTITY spellAddDictionaries.accesskey "A">
 
 <!-- Title for the address picker panel -->
 <!ENTITY addressesSidebarTitle.label "Контакти">

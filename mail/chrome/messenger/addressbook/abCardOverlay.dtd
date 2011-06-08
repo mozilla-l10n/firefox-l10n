@@ -64,6 +64,8 @@
 <!ENTITY PhoneticField2.label           "Вимова:">
 <!ENTITY DisplayName.label              "Відображати як:">
 <!ENTITY DisplayName.accesskey          "В">
+<!ENTITY preferDisplayName.label        "Always prefer display name over message header">
+<!ENTITY preferDisplayName.accesskey    "y">
 <!ENTITY NickName.label                 "Псевдонім:">
 <!ENTITY NickName.accesskey             "д">
 
@@ -113,9 +115,9 @@
 <!ENTITY Birthday.label                 "День народження:">
 <!ENTITY Birthday.accesskey             "н">
 <!ENTITY In.label                       "">
-<!ENTITY Year.emptytext                 "Рік">
+<!ENTITY Year.placeholder               "Year">
 <!ENTITY Or.value                       "чи">
-<!ENTITY Age.emptytext                  "Вік">
+<!ENTITY Age.placeholder                "Age">
 <!ENTITY YearsOld.label                 "">
 
 <!ENTITY Work.tab                       "Робота">
@@ -166,6 +168,6 @@
 <!ENTITY BrowsePhoto.accesskey          "В">
 <!ENTITY PhotoURL.label                 "В мережі">
 <!ENTITY PhotoURL.accesskey             "м">
-<!ENTITY PhotoURL.emptytext             "Вставте або наберіть веб-адресу світлини">
+<!ENTITY PhotoURL.placeholder           "Paste or type the web address of a photo">
 <!ENTITY UpdatePhoto.label              "Оновити">
 <!ENTITY UpdatePhoto.accesskey          "о">

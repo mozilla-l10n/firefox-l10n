@@ -45,8 +45,8 @@
 <!ENTITY reuseExpRadio0.accesskey      "н">
 <!ENTITY reuseExpRadio1.label          "вже існуючому вікні">
 <!ENTITY reuseExpRadio1.accesskey      "у">
-<!ENTITY closeMsgWindowOnDelete.label  "Закривати вікно листа по стиранню">
-<!ENTITY closeMsgWindowOnDelete.accesskey "З">
+<!ENTITY closeMsgOnMoveOrDelete.label  "Close message window/tab on move or delete">
+<!ENTITY closeMsgOnMoveOrDelete.accesskey "C">
 
 <!-- Update -->
 <!ENTITY autoCheck.label                "Автоматично перевіряти наявність оновлень:">
@@ -77,7 +77,7 @@
 <!ENTITY Diskspace "Дисковий простір">
 <!ENTITY offlineCompact.label "Стискати теки, якщо при цьому вивільнятиметься більше">
 <!ENTITY offlineCompact.accesskey "С">
-<!ENTITY kb.label "КБ">
+<!ENTITY mb.label "MB">
 
 <!-- LOCALIZATION NOTE:
   The entities useCacheBefore.label and useCacheAfter.label appear on a single
