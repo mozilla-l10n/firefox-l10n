@@ -1,4 +1,4 @@
-<!ENTITY tracking.label "Tracking">
+<!ENTITY tracking.label "İzleme">
 
 <!ENTITY doNotTrack.label "Sitelere izlenmek istemediğimi söyle">
 <!ENTITY doNotTrack.accesskey "z">
@@ -61,8 +61,8 @@
 <!ENTITY dontrememberActions.clearHistory.label "şu ana kadar kaydedilmiş tarama geçmişinizi">
 <!ENTITY dontrememberActions.post.label " de silebilirsiniz.">
 
-<!ENTITY privateBrowsingPermanent.label "Sürekli gizli tarama kipi">
-<!ENTITY privateBrowsingPermanent.accesskey "S">
+<!ENTITY privateBrowsingPermanent2.label "Always use private browsing mode">
+<!ENTITY privateBrowsingPermanent2.accesskey "p">
 
 <!ENTITY rememberHistory.label "Tarama geçmişimi hatırla">
 <!ENTITY rememberHistory.accesskey "g">

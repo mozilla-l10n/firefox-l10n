@@ -67,8 +67,6 @@
 
 <!ENTITY cmd.reloadLivebookmark.label "Canlı yer imini tazele">
 <!ENTITY cmd.reloadLivebookmark.accesskey "r">
-<!ENTITY cmd.reloadMicrosummary.label "Kısa özeti tazele">
-<!ENTITY cmd.reloadMicrosummary.accesskey "t">
 
 <!ENTITY cmd.moveBookmarks.label "Taşı…">
 <!ENTITY cmd.moveBookmarks.accesskey "T">

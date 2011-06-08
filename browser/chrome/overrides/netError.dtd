@@ -134,6 +134,10 @@ korunuyorsa, &brandShortName; uygulamasına internete erişmek için gerekli izi
 <!ENTITY cspFrameAncestorBlocked.title "İçerik güvenlik politikası uyarınca engellendi">
 <!ENTITY cspFrameAncestorBlocked.longDesc "<p>&brandShortName; bu sayfanın bu şekilde yüklenmesini önledi, çünkü sayfanın buna izin vermeyen bir içerik güvenlik politikası var.</p>">
 
+<!ENTITY corruptedContentError.title "Corrupted Content Error">
+<!ENTITY corruptedContentError.longDesc "<p>The page you are trying to view cannot be shown because an error in the data transmission was detected.</p><ul><li>Please contact the website owners to inform them of this problem.</li></ul>">
+
+
 <!ENTITY securityOverride.linkText "İsterseniz ayrıcalık tanıyın…">
 <!ENTITY securityOverride.getMeOutOfHereButton "Beni buradan kurtar!">
 <!ENTITY securityOverride.exceptionButtonLabel "Ayrıcalık tanı…">
@@ -148,5 +152,5 @@ functionality specific to firefox. -->
 <button id='getMeOutOfHereButton'>&securityOverride.getMeOutOfHereButton;</button> 
 <button id='exceptionDialogButton'>&securityOverride.exceptionButtonLabel;</button>">
 
-<!ENTITY remoteXUL.title "Remote XUL">
-<!ENTITY remoteXUL.longDesc "<p><ul><li>Please contact the website owners to inform them of this problem.</li></ul></p>">
+<!ENTITY remoteXUL.title "Uzak XUL">
+<!ENTITY remoteXUL.longDesc "<p><ul><li>Bu sorundan haberdar etmek için lütfen site sahipleri ile temasa geçin.</li></ul></p>">
