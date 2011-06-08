@@ -1,0 +1,185 @@
+<!-- ***** BEGIN LICENSE BLOCK *****
+   - Version: MPL 1.1/GPL 2.0/LGPL 2.1
+   -
+   - The contents of this file are subject to the Mozilla Public License Version
+   - 1.1 (the "License"); you may not use this file except in compliance with
+   - the License. You may obtain a copy of the License at
+   - http://www.mozilla.org/MPL/
+   -
+   - Software distributed under the License is distributed on an "AS IS" basis,
+   - WITHOUT WARRANTY OF ANY KIND, either express or implied. See the License
+   - for the specific language governing rights and limitations under the
+   - License.
+   -
+   - The Original Code is OEone Calendar Code, released October 31st, 2001.   -
+   -
+   - The Initial Developer of the Original Code is
+   -   OEone Corporation.
+   - Portions created by the Initial Developer are Copyright (C) 2001
+   - the Initial Developer. All Rights Reserved.
+   -
+   - Contributor(s):
+   -   Garth Smedley <garths@oeone.com>
+   -   Mike Potter <mikep@oeone.com>
+   -   Chris Charabaruk <coldacid@meldstar.com>
+   -   Matthew Willis <mattwillis@gmail.com>
+   -   Stefan Sitter <ssitter@googlemail.com>
+   -   Berend Cornelius <berend.cornelius@sun.com>
+   -   Philipp Kewisch <mozilla@kewis.ch>
+   -   Simon Paquet <bugzilla@babylonsounds.com>
+   -
+   - Alternatively, the contents of this file may be used under the terms of
+   - either the GNU General Public License Version 2 or later (the "GPL"), or
+   - the GNU Lesser General Public License Version 2.1 or later (the "LGPL"),
+   - in which case the provisions of the GPL or the LGPL are applicable instead
+   - of those above. If you wish to allow use of your version of this file only
+   - under the terms of either the GPL or the LGPL, and not to allow others to
+   - use your version of this file under the terms of the MPL, indicate your
+   - decision by deleting the provisions above and replace them with the notice
+   - and other provisions required by the LGPL or the GPL. If you do not delete
+   - the provisions above, a recipient may use your version of this file under
+   - the terms of any one of the MPL, the GPL or the LGPL.
+   -
+   - ***** END LICENSE BLOCK ***** -->
+
+<!ENTITY calendar.open.file.label                          "Відкрити файл календаря…">
+<!ENTITY calendar.open.file.key                            "O">
+<!ENTITY calendar.open.file.accesskey                      "В">
+
+<!ENTITY event.edit.event                                  "Редагувати виділене…">
+<!ENTITY event.edit.event.key                              "E">
+<!ENTITY event.edit.event.accesskey                        "Р">
+
+<!ENTITY event.delete.event                                "Вилучити обрані події">
+<!ENTITY event.delete.event.accesskey                      "п">
+
+<!ENTITY event.delete.tasks                                "Вилучити обрані завдання">
+<!ENTITY event.delete.tasks.accesskey                      "з">
+
+<!ENTITY calendar.pagesetup.label                          "Параметри сторінки…">
+<!ENTITY calendar.pagesetup.accesskey                      "с">
+
+<!ENTITY calendar.subscribe.label                          "Підписатись на віддалений календар…">
+<!ENTITY calendar.subscribe.accesskey                      "п">
+
+<!ENTITY calendar.reloadserver.label                       "Перевантажити віддалені календарі">
+<!ENTITY calendar.reloadserver.key                         "R">
+<!ENTITY calendar.reloadserver.accesskey                   "ж">
+
+<!ENTITY calendar.publish.calendar.label                   "Опублікувати календар…">
+<!ENTITY calendar.publish.calendar.accesskey               "б">
+<!ENTITY calendar.publish.selection.label                  "Опублікувати виділене…">
+<!ENTITY calendar.publish.selection.accesskey              "д">
+
+<!ENTITY calendar.quit.label                               "Вийти">
+<!ENTITY calendar.quit.accesskey                           "В">
+<!ENTITY calendar.quit.key                                 "Q">
+<!ENTITY calendar.quit.label.mac                           "Вийти &brandShortName;">
+
+<!ENTITY calendar.exit.label                               "Вихід">
+<!ENTITY calendar.exit.accesskey                           "х">
+
+<!ENTITY calendar.undo.label                               "Вернути">
+<!ENTITY calendar.undo.key                                 "Z">
+<!ENTITY calendar.undo.accesskey                           "е">
+
+<!ENTITY calendar.redo.label                               "Повторити">
+<!ENTITY calendar.redo.key                                 "Y">
+<!ENTITY calendar.redo.accesskey                           "П">
+
+<!ENTITY calendar.cut.label                                "Вирізати">
+<!ENTITY calendar.cut.key                                  "X">
+<!ENTITY calendar.cut.accesskey                            "з">
+
+<!ENTITY calendar.copy.label                               "Копіювати">
+<!ENTITY calendar.copy.key                                 "C">
+<!ENTITY calendar.copy.accesskey                           "К">
+
+<!ENTITY calendar.paste.label                              "Вставити">
+<!ENTITY calendar.paste.key                                "V">
+<!ENTITY calendar.paste.accesskey                          "В">
+
+<!ENTITY calendar.selectall.label                          "Виділити все">
+<!ENTITY calendar.selectall.key                            "A">
+<!ENTITY calendar.selectall.accesskey                      "д">
+
+<!ENTITY toolbarsMenu.label                                "Меню">
+<!ENTITY toolbarsMenu.accesskey                            "М">
+
+<!ENTITY showStatusBarCmd.label                            "Рядок стану">
+<!ENTITY showStatusBarCmd.accesskey                        "Р">
+
+<!ENTITY showTaskBoxCmd.label                              "Перелік завдань">
+<!ENTITY showTaskBoxCmd.accesskey                          "П">
+
+<!ENTITY calendar.fullscreen.label                         "Повний екран">
+<!ENTITY calendar.fullscreen.accesskey                     "е">
+
+<!ENTITY calendar.addons.label                             "Додатки">
+<!ENTITY calendar.addons.accesskey                         "д">
+
+<!ENTITY goMenu.label                                      "Перейти">
+<!ENTITY goMenu.accesskey                                  "т">
+
+<!ENTITY goDateCmd.label                                   "Дата…">
+<!ENTITY goDateCmd.accesskey                               "а">
+
+<!ENTITY toolsMenu.label                                   "Інструменти">
+<!ENTITY toolsMenu.accesskey                               "І">
+
+<!ENTITY errorConsoleCmd.label                             "Консоль помилок">
+<!ENTITY errorConsoleCmd.accesskey                         "с">
+
+<!ENTITY helpMenu.label                                    "Довідка">
+<!ENTITY helpMenu.accesskey                                "Д">
+<!-- LOCALIZATION NOTE some localizations of Windows use "?"
+           for the help button in the menubar but Gnome does not.   -->
+<!ENTITY helpMenuWin.label                                 "Допомога">
+<!ENTITY helpMenuWin.accesskey                             "Д">
+
+<!ENTITY fileMenu.label                                    "Файл">
+<!ENTITY fileMenu.accesskey                                "Ф">
+
+<!ENTITY editMenu.label                                    "Правка">
+<!ENTITY editMenu.accesskey                                "Р">
+
+<!ENTITY optionsCmd.label                                  "Налаштування…">
+<!ENTITY optionsCmd.accesskey                              "Н">
+
+<!ENTITY preferencesCmd.label                              "Параметри">
+<!ENTITY preferencesCmd.accesskey                          "п">
+<!ENTITY preferencesCmdMac.label                           "Параметри…">
+<!ENTITY preferencesCmdMac.commandkey                      ",">
+<!ENTITY preferencesCmdMac.modifiers                       "accel">
+
+<!ENTITY viewMenu.label                                    "Вигляд">
+<!ENTITY viewMenu.accesskey                                "В">
+
+<!ENTITY releaseCmd.label                                  "Інформація про випуск">
+<!ENTITY releaseCmd.accesskey                              "ф">
+
+<!ENTITY aboutCmd.label                                    "Про &brandFullName;">
+<!ENTITY aboutCmd.accesskey                                "р">
+
+<!ENTITY updateCmd.label                                   "Перевірка оновлень…">
+<!ENTITY updateCmd.accesskey                               "о">
+
+<!ENTITY sunbird.export.calendar.label                     "Експорт календаря…">
+<!ENTITY sunbird.export.calendar.accesskey                 "Е">
+
+<!-- Mac OS X "Window" menu items -->
+<!ENTITY windowMenu.label                                  "Вікно">
+<!ENTITY minimizeWindow.label                              "Згорнути">
+<!ENTITY zoomWindow.label                                  "Розгорнути">
+<!ENTITY minimizeWindow.key                                "M">
+<!ENTITY bringAllToFront.label                             "Наверх">
+
+<!-- Mac OS X Application menu items -->
+<!ENTITY servicesMenuMac.label                             "Послуги">
+<!ENTITY hideThisAppCmdMac.label                           "Сховати &brandShortName;">
+<!ENTITY hideThisAppCmdMac.commandkey                      "H">
+<!ENTITY hideThisAppCmdMac.modifiers                       "accel">
+<!ENTITY hideOtherAppsCmdMac.label                         "Сховати інші">
+<!ENTITY hideOtherAppsCmdMac.commandkey                    "H">
+<!ENTITY hideOtherAppsCmdMac.modifiers                     "accel,alt">
+<!ENTITY showAllAppsCmdMac.label                           "Показати все">
