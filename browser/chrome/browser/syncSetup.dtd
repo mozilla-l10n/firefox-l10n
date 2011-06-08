@@ -42,7 +42,7 @@
 <!ENTITY setup.newSyncKeyPage.description.label "ਤੁਹਾਡੀ ਪਰਾਈਵੇਸੀ ਨੂੰ ਪੱਕੇ ਤੌਰ ਉੱਤੇ ਯਕੀਨੀ ਬਣਾਉਣ ਲਈ, ਤੁਹਾਡੇ ਡਾਟੇ ਨੂੰ ਅੱਪਲੋਡ ਕਰਨ ਤੋਂ ਪਹਿਲਾਂ ਇੰਕ੍ਰਿਪਟ ਕੀਤਾ ਜਾਂਦਾ ਹੈ। ਸਿੰਕ ਕੁੰਜੀ, ਜੋ ਕਿ ਤੁਹਾਡੇ ਡਾਟੇ ਨੂੰ ਡੀ-ਕ੍ਰਿਪਟ ਕਰਨ ਲਈ ਲੋੜੀਦੀ ਹੈ, ਅੱਪਲੋਡ ਨਹੀਂ ਕੀਤੀ ਜਾਂਦੀ ਹੈ।">
 <!ENTITY syncKeyEntry.label        "ਤੁਹਾਡੀ ਸਿੰਕ ਕੁੰਜੀ">
 <!ENTITY syncKeyEntry.accesskey    "K">
-<!ENTITY syncKeyGenerate.label     "ਬਣਾਓ">
+<!ENTITY syncGenerateNewKey.label  "ਇੱਕ ਨਵੀਂ ਕੁੰਜੀ ਬਣਾਓ">
 <!ENTITY syncKeyBackup.description "ਤੁਹਾਡੀ ਸਿੰਕ ਕੁੰਜੀ ਹੋਰ ਮਸ਼ੀਨਾਂ ਉੱਤੇ &syncBrand.fullName.label; ਵਰਤਣ ਲਈ ਲੋੜੀਦੀ ਹੈ। ਬੈਕਅੱਪ ਕਾਪੀ ਬਣਾ ਲਵੋ ਜੀ। ਅਸੀਂ ਤੁਹਾਡੀ ਸਿੰਕ ਕੁੰਜੀ ਪ੍ਰਾਪਤ ਕਰਨ ਵਿੱਚ ਤੁਹਾਡੀ ਮੱਦਦ ਨਹੀਂ ਕਰ ਸਕਾਂਗੇ।">
 
 <!ENTITY button.syncKeyBackup.print.label     "ਪਰਿੰਟ ਕਰੋ…">
