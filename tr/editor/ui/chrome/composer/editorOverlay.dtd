@@ -80,8 +80,8 @@
 
 <!ENTITY editMenu.label "Düzenle">
 <!ENTITY editMenu.accesskey "z">
-<!ENTITY pasteNoFormatting.label "Paste Without Formatting">
-<!ENTITY pasteNoFormatting.accesskey "n">
+<!ENTITY pasteNoFormatting.label "Biçimlendirme olmadan yapıştır">
+<!ENTITY pasteNoFormatting.accesskey "y">
 <!ENTITY pasteNoFormatting.key "V">
 <!ENTITY pasteAs.label "Farklı yapıştır">
 <!ENTITY pasteAs.accesskey "a">

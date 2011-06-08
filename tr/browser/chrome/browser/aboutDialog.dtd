@@ -59,7 +59,7 @@
      example: You are currently on the _Stable_ update channel. -->
 
 <!ENTITY channel.description.start "Şu anda ">
-<!ENTITY channel.description.end " güncelleme kanalındasınız.">
+<!ENTITY channel.description.end " güncelleme kanalındasınız. ">
 
 <!ENTITY channel.change "Değiştir">
 
@@ -71,7 +71,7 @@
      This is all in one line, so try to make the localized text short.
      example: Switch to the [Stable] update channel. -->
 
-<!ENTITY channel.selector.start "Switch to the">
+<!ENTITY channel.selector.start "Geçiş yap:">
 <!ENTITY channel.selector.end " güncelleme kanalına geç.">
 <!-- LOCALIZATION NOTE (channel.selector.applyButton): This button applies the user's choice to switch
      to a new update channel and starts the application update process. -->

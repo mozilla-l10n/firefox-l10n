@@ -14,9 +14,9 @@
 
 <!ENTITY dnsNotFound.title "Sunucu bulunamadı">
 <!ENTITY dnsNotFound.longDesc "<ul> 
-<li><strong>www</strong>.siteadresi.com yerine 
-<strong>ww</strong>.siteadresi.com 
-adres yanlış yazılmış olabilir.</li> 
+<li>Adres <strong>www</strong>.sunucu.com yerine 
+<strong>ww</strong>.sunucu.com 
+gibi yanlış yazılmış olabilir.</li> 
 <li>Hiçbir sayfayı açmayı başaramıyorsanız bilgisayarınızın ağ bağlantılarını gözden geçirin ve İnternet'e bağlı olduğunuzdan emin olun.</li> 
 <li>Bilgisayarınız ya da ağınız güvenlik duvarı ya da vekil sunucu tarafından korunuyorsa, &brandShortName; uygulamasına İnternet'e erişmek için gerekli izinlerin verilmiş olduğundan emin olun.</li> 
 </ul>">
@@ -135,5 +135,7 @@ netError.xhtml) because it exposes functionality specific to firefox. -->
 <button id='exceptionDialogButton'>&securityOverride.exceptionButtonLabel;</button>">
 
 <!ENTITY remoteXUL.title "Uzak XUL">
-<!ENTITY remoteXUL.longDesc "<p><ul><li>Please contact the website owners to inform them of this problem.</li></ul></p>">
+<!ENTITY remoteXUL.longDesc "<ul> 
+<li>Bu sorundan haberdar etmek için lütfen site sahipleri ile temasa geçin.</li> 
+</ul>">
 
