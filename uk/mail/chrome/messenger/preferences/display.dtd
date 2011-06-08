@@ -1,0 +1,46 @@
+<!ENTITY itemFormatting.label             "Форматування">
+<!ENTITY itemTags.label                   "Мітки">
+
+<!ENTITY style.label                      "Стиль:">
+<!ENTITY style.accesskey                  "С">
+<!ENTITY regularStyle.label               "Звичайний">
+<!ENTITY bold.label                       "Напівжирний">
+<!ENTITY italic.label                     "Курсив">
+<!ENTITY boldItalic.label                 "Напівжирний курсив">
+<!ENTITY size.label                       "Розмір:">
+<!ENTITY size.accesskey                   "Р">
+<!ENTITY regularSize.label                "Звичайний">
+<!ENTITY bigger.label                     "Більший">
+<!ENTITY smaller.label                    "Менший">
+<!ENTITY color.label                      "Колір:">
+<!ENTITY color.accesskey                  "К">
+<!ENTITY displayWidth.label               "Лист у текстовому форматі">
+<!ENTITY displayText.label                "Використовувати наступні параметри відображення цитат в листах текстового формату:">
+<!ENTITY colors.label                     "Кольори">
+<!ENTITY overrideColors.label             "Використовувати наступні кольори при відображенні листів:">
+<!ENTITY textColor.label                  "Колір тексту:">
+<!ENTITY textColor.accesskey              "т">
+<!ENTITY backgroundColor.label            "Колір фону:">
+<!ENTITY backgroundColor.accesskey        "ф">
+
+<!-- LOCALIZATION NOTE : (emoticonsAndStructs.label) 'Emoticons' are also known as 'Smileys', e.g. :-)   -->
+<!ENTITY convertEmoticons.label        "Відображати смайліки як графіку">
+<!ENTITY convertEmoticons.accesskey    "б">
+
+<!-- labels -->
+<!ENTITY displayTagsText.label     "Мітки використовують для сортування та зазначення пріоритетів листів.">
+<!ENTITY addTagButton.label        "Додати">
+<!ENTITY addTagButton.accesskey    "Д">
+<!ENTITY editTagButton.label       "Змінити">
+<!ENTITY editTagButton.accesskey   "З">
+<!ENTITY removeTagButton.label     "Вилучити">
+<!ENTITY removeTagButton.accesskey "В">
+
+<!-- Fonts -->
+<!ENTITY fontsAndColors.label    "Шрифти">
+<!ENTITY defaultFont.label       "Типовий шрифт:">
+<!ENTITY defaultFont.accesskey   "Т">
+<!ENTITY defaultSize.label       "Розмір:">
+<!ENTITY defaultSize.accesskey   "Р">
+<!ENTITY fontOptions.accesskey   "Ш">
+<!ENTITY fontOptions.label       "Шрифти…">

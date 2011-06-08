@@ -1,0 +1,16 @@
+<!ENTITY aboutDialog.title      "Про &brandFullName;">
+<!ENTITY aboutButton.label      "&lt; Назад">
+<!ENTITY aboutButton.accesskey  "Н">
+<!ENTITY aboutVersion           "Версія">
+<!ENTITY aboutMenu.label        "Про">
+<!ENTITY aboutMenu.accesskey    "П">
+<!ENTITY aboutCredits.label     "Подяки">
+<!ENTITY aboutCredits.accesskey "д">
+<!ENTITY aboutRights.label      "Ваші права">
+<!ENTITY aboutRights.accesskey  "В">
+<!ENTITY aboutContributors.label "Учасники">
+<!ENTITY aboutContributors.accesskey "У">
+<!ENTITY aboutLicense.label      "Ліцензія">
+<!ENTITY aboutLicense.accesskey  "Л">
+
+<!ENTITY cmdCloseMac.commandKey "w">

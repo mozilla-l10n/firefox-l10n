@@ -1,0 +1,66 @@
+<!-- rights.locale-direction instead of the usual local.dir entity, so RTL can skip translating page. -->
+<!ENTITY rights.locale-direction "ltr">
+<!ENTITY rights.title            "Про ваші права">
+<!ENTITY rights.intro-header     "Про ваші права">
+<!ENTITY rights.intro "&brandFullName; є безплатним програмним продуктом з відкритим джерельним кодом. Він створений багатотисячною спільнотою розробників з усіх куточків земної кулі. Ось кілька речей котрі вам треба знати:">
+
+<!-- Note on pointa / pointb / pointc form:
+     These points each have an embedded link in the HTML, so each point is
+     split into chunks for text before the link, the link text, and the text
+     after the link. If a localized grammar doesn't need the before or after
+     chunk, it can be left blank.
+
+     Also note the leading/trailing whitespace in strings here, which is
+     deliberate for formatting around the embedded links. -->
+<!ENTITY rights.intro-point1a "&brandShortName; надається вам на умовах ">
+<!ENTITY rights.intro-point1b "Публічної ліцензії Mozilla">
+<!ENTITY rights.intro-point1c ". Це означає що ви можете використовувати, копіювати та розповсюджувати &brandShortName;. Ви також можете змінювати джерельний код &brandShortName; як хочете та як вважаєте за потрібне. Публічна ліцензія Mozilla дає також вам право розповсюджувати ваші змінені версії програми.">
+
+<!ENTITY rights.intro-point2a "Mozilla не дає вам жодних прав на торгові марки чи логотипи Mozilla та Firefox. Додаткову інформацію про торгові марки ви знайдете ">
+<!ENTITY rights.intro-point2b "тут">
+<!ENTITY rights.intro-point2c ".">
+
+<!-- point 3 text for official branded builds -->
+<!ENTITY rights.intro-point3a "Угода конфіденційності для продуктів &vendorShortName; міститься ">
+<!ENTITY rights.intro-point3b "тут">
+<!ENTITY rights.intro-point3c ".">
+
+<!-- point 3 text for unbranded builds -->
+<!ENTITY rights.intro-point3-unbranded "Будь-які чинні для цього продукту угоди мають йти тут.">
+
+<!-- point 4 text for official branded builds -->
+<!ENTITY rights.intro-point4a "&brandShortName; також надає необов’язкові послуги, такі як служба оновлення додатків; однак, ми не можемо гарантувати що вони на 100&#37; точні чи безпомилкові. Додаткові подробиці, включно з інформацією як вимкнути ці служби, ви можете прочитати в ">
+<!ENTITY rights.intro-point4b "угоді надання послуг">
+<!ENTITY rights.intro-point4c ".">
+
+<!-- point 4 text for unbranded builds -->
+<!ENTITY rights.intro-point4a-unbranded "Якщо цей продукт включає послуги веб-сайтів, то будь які чинні угоди надання послуг для них мають бути додані посиланнями у розділі ">
+<!ENTITY rights.intro-point4b-unbranded "Послуги веб-сайтів">
+<!ENTITY rights.intro-point4c-unbranded " .">
+
+<!ENTITY rights.webservices-header "Послуги веб-сайтів у &brandFullName;">
+
+<!-- Note that this paragraph references a couple of entities from
+     preferences/security.dtd, so that we can refer to text the user sees in
+     the UI, without this page being forgotten every time those strings are
+     updated.  -->
+<!-- intro paragraph for branded builds -->
+<!ENTITY rights.webservices-a "&brandFullName; надає додаткові необов’язкові послуги(&quot;Послуги&quot;), такі як послуга оновлення додатків, які наявні в цій двійковій версії &brandShortName;, як описано нижче. Якщо ви не хочете користуватися Службами чи вважаєте умови нижче неприйнятними, ви можете вимкнути послугу оновлення додатків, відкривши налаштування програми, і в розділі">
+<!ENTITY rights.webservices-b "Додатково">
+<!ENTITY rights.webservices-c " на вкладці ">
+<!ENTITY rights.webservices-d "Оновлення">
+<!ENTITY rights.webservices-e ", вимкнувши флажки для опції &quot;Автоматично перевіряти додатки до ...&quot;.">
+
+<!-- intro paragraph for unbranded builds -->
+<!ENTITY rights.webservices-unbranded "Тут має бути опис послуг сайтів що включені в продукт, а також інструкції як їх вимкнути.">
+
+<!-- point 1 text for unbranded builds -->
+<!ENTITY rights.webservices-term1-unbranded "Тут мають йти всі придатні умови надання послуг стосовно цього продукту.">
+
+<!-- points 1-7 text for branded builds -->
+<!ENTITY rights.webservices-term1 "&vendorShortName; може перервати чи змінити Послуги на свій розсуд.">
+<!ENTITY rights.webservices-term2 "Ви вільні користуватися цими Послугами за допомогою супровідної версії &brandShortName;, і маєте всі необхідні для цього права.  &vendorShortName; та ліцензіарії залишають за собою всі інші права щодо Послуг.  Ці умови не призначені для того, щоби обмежити будь-які права, надані ліцензією відкритого коду, застосовною до &brandShortName; та до відповідних версій вихідного коду &brandShortName;.">
+<!ENTITY rights.webservices-term3 "Послуги надаються &quot;як є.&quot;  &vendorShortName;, учасники, ліцензіарії та розповсюджувачі відмовляються від усіх &mdash; явних чи невисловлених &mdash; включаючи без обмежень, що Послуги гідні для продажу і що вони підходять для ваших цілей.  Ви несете увесь ризик пов’язаний із вибором Послуг для ваших потреб та якістю й ефективністю Послуг. Деякі юрисдикції не дозволяють вилучати чи обмежувати неявні гарантії, тому ця відмова може вас не стосуватися.">
+<!ENTITY rights.webservices-term4 "Except as required by law, &vendorShortName;, its contributors, licensors, and distributors will not be liable for any indirect, special, incidental, consequential, punitive, or exemplary damages arising out of or in any way relating to the use of &brandShortName; and the Services.  The collective liability under these terms will not exceed $500 (five hundred dollars). Some jurisdictions do not allow the exclusion or limitation of certain damages, so this exclusion and limitation may not apply to you.">
+<!ENTITY rights.webservices-term5 "&vendorShortName; may update these terms as necessary from time to time. These terms may not be modified or cancelled without &vendorShortName;'s written agreement.">
+<!ENTITY rights.webservices-term6 "These terms are governed by the laws of the state of California, U.S.A., excluding its conflict of law provisions. If any portion of these terms is held to be invalid or unenforceable, the remaining portions will remain in full force and effect. In the event of a conflict between a translated version of these terms and the English language version, the English language version shall control.">

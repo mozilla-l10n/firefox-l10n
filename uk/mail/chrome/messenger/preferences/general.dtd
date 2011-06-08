@@ -1,0 +1,35 @@
+<!ENTITY messengerStartPage.label         "Стартова сторінка &brandShortName;">
+<!ENTITY enableStartPage.label            "Показувати стартову сторінку в області перегляду листа при запуску &brandShortName;">
+<!ENTITY enableStartPage.accesskey        "с">
+<!ENTITY location.label                   "Адрес:">
+<!ENTITY location1.accesskey               "д">
+<!ENTITY useDefault.label                 "Відновити">
+<!ENTITY useDefault.accesskey             "н">
+
+<!ENTITY bounceSystemDockIcon.label       "Анімація іконки в рядку стану">
+<!ENTITY bounceSystemDockIcon.accesskey   "А">
+
+<!ENTITY newMessagesArrive.label          "При появі нових листів:">
+<!ENTITY playSound.label                  "Подати звуковий сигнал">
+<!ENTITY playSound1.accesskey              "з">
+<!ENTITY showAnimatedAlert.label          "Показувати сповіщення">
+<!ENTITY showAnimatedAlert.accesskey      "с">
+<!ENTITY customizeMailAlert.label         "Налаштувати…">
+<!ENTITY customizeMailAlert.accesskey     "л">
+
+<!ENTITY play.label                       "Програти">
+<!ENTITY play.accesskey                   "П">
+<!ENTITY systemsound.label                "Стандартний системний звук для нової пошти">
+<!ENTITY systemsoundMac.label             "Звук системного повідомлення">
+<!ENTITY systemsoundMac.accesskey         "у">
+<!ENTITY systemsound.accesskey            "у">
+<!ENTITY customsound.label                "Використовувати наступний звуковий файл">
+<!ENTITY customsound.accesskey            "В">
+<!ENTITY browse.label                     "Огляд…">
+<!ENTITY browse.accesskey                 "О">
+
+<!ENTITY addonsMgr.label                  "Додатки">
+<!ENTITY manageAddonsDescWin.label        "Змінити налаштування ваших додатків">
+<!ENTITY manageAddonsDescUnix2.label      "Змінити налаштування ваших додатків">
+<!ENTITY manageAddons.label               "Керувати додатками…">
+<!ENTITY manageAddons.accesskey           "д">

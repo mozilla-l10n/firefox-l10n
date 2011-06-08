@@ -1,0 +1,42 @@
+<!-- extracted from am-copies.xul -->
+
+<!ENTITY copyAndFolderTitle.label "Копії та теки">
+<!ENTITY sendingPrefix.label "При відсиланні пошти автоматично: ">
+<!ENTITY fccMailFolder.label "Зберегти копію в:">
+<!ENTITY fccMailFolder.accesskey "б">
+<!ENTITY fccReplyFollowsParent.label "Зберегти відповідь у теці з початковим листом">
+<!ENTITY fccReplyFollowsParent.accesskey "ч">
+<!-- LOCALIZATION NOTE (ccAddress.label): do not translate "Cc" in below line -->
+<!ENTITY ccAddress.label "Cc ці поштові адреси:">
+<!ENTITY ccAddress.accesskey "C">
+<!ENTITY ccAddressList.emptytext "Розділяйте адреси комами">
+<!-- LOCALIZATION NOTE (bccAddress.label): do not translate "Bcc" in below line -->
+<!ENTITY bccAddress.label "Посилати таємну копію на ці адреси:">
+<!ENTITY bccAddress.accesskey "т">
+<!ENTITY bccAddressList.emptytext "Розділяйте адреси комами">
+<!ENTITY saveMessageDlg.label "Показувати діалог підтвердження під час збереження пошти">
+<!ENTITY saveMessageDlg.accesskey "к">
+<!-- LOCALIZATION NOTE (sentFolderOn.label): OK to translate this, bug #57440 -->
+<!ENTITY sentFolderOn.label "Тека «Відіслані» у:">
+<!ENTITY sentFolderOn.accesskey "в">
+<!ENTITY sentInOtherFolder.label "Інші:">
+<!ENTITY sentInOtherFolder.accesskey "І">
+<!-- LOCALIZATION NOTE (draftsFolderOn.label): OK to translate this, bug #57440 -->
+<!ENTITY draftsFolderOn.label "Тека «Чернетки» у:">
+<!ENTITY draftsFolderOn.accesskey "Ч">
+<!ENTITY draftInOtherFolder.label "Інші:">
+<!ENTITY draftInOtherFolder.accesskey "н">
+<!-- LOCALIZATION NOTE (archivesFolderOn.label): OK to translate this, bug #57440 -->
+<!ENTITY archivesFolderOn.label "Тека «Архіви» у:">
+<!ENTITY archivesFolderOn.accesskey "А">
+<!ENTITY archiveInOtherFolder.label "Інші:">
+<!ENTITY archiveInOtherFolder.accesskey "і">
+<!-- LOCALIZATION NOTE (templatesFolderOn.label): OK to translate this, bug #57440 -->
+<!ENTITY templatesFolderOn.label "Тека «Шаблони» у:">
+<!ENTITY templatesFolderOn.accesskey "ш">
+<!ENTITY templateInOtherFolder.label "Інші:">
+<!ENTITY templateInOtherFolder.accesskey "і">
+<!ENTITY specialFoldersTitle.label "Чернетки та шаблони">
+<!ENTITY keepDrafts.label "Зберігати чернетки листів у:">
+<!ENTITY keepArchives.label "Зберігати архіви листів у:">
+<!ENTITY keepTempltes.label "Зберігати шаблони листів у:">

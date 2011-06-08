@@ -1,0 +1,4 @@
+<!ENTITY window.title             "Зведення листів">
+<!ENTITY selectedmessages.label   "Вибрані листи">
+<!ENTITY archive.label            "архівувати">
+<!ENTITY delete.label             "стерти">

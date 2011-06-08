@@ -1,0 +1,108 @@
+<!-- ***** BEGIN LICENSE BLOCK *****
+   - Version: MPL 1.1/GPL 2.0/LGPL 2.1
+   -
+   - The contents of this file are subject to the Mozilla Public License Version
+   - 1.1 (the "License"); you may not use this file except in compliance with
+   - the License. You may obtain a copy of the License at
+   - http://www.mozilla.org/MPL/
+   -
+   - Software distributed under the License is distributed on an "AS IS" basis,
+   - WITHOUT WARRANTY OF ANY KIND, either express or implied. See the License
+   - for the specific language governing rights and limitations under the
+   - License.
+   -
+   - The Original Code is Mozilla Communicator client code, released
+   - March 31, 1998.
+   -
+   - The Initial Developer of the Original Code is
+   - Netscape Communications Corporation.
+   - Portions created by the Initial Developer are Copyright (C) 1998-1999
+   - the Initial Developer. All Rights Reserved.
+   -
+   - Contributor(s):
+   -
+   - Alternatively, the contents of this file may be used under the terms of
+   - either of the GNU General Public License Version 2 or later (the "GPL"),
+   - or the GNU Lesser General Public License Version 2.1 or later (the "LGPL"),
+   - in which case the provisions of the GPL or the LGPL are applicable instead
+   - of those above. If you wish to allow use of your version of this file only
+   - under the terms of either the GPL or the LGPL, and not to allow others to
+   - use your version of this file under the terms of the MPL, indicate your
+   - decision by deleting the provisions above and replace them with the notice
+   - and other provisions required by the GPL or the LGPL. If you do not delete
+   - the provisions above, a recipient may use your version of this file under
+   - the terms of any one of the MPL, the GPL or the LGPL.
+   -
+   - ***** END LICENSE BLOCK ***** -->
+
+<!ENTITY tableWindow.title                "Властивості таблиці">
+<!ENTITY applyButton.label                "Застосувати">
+<!ENTITY applyButton.accesskey            "З">
+<!ENTITY closeButton.label                "Закрити">
+<!ENTITY tableTab.label                   "Таблиця">
+<!ENTITY cellTab.label                    "Клітинки табл.">
+<!ENTITY tableRows.label                  "Рядки:">
+<!ENTITY tableRows.accessKey              "Р">
+<!ENTITY tableColumns.label               "Стовпці:">
+<!ENTITY tableColumns.accessKey           "т">
+<!ENTITY tableHeight.label                "Висота:">
+<!ENTITY tableHeight.accessKey            "В">
+<!ENTITY tableWidth.label                 "Ширина:">
+<!ENTITY tableWidth.accessKey             "Ш">
+<!ENTITY tableBorderSpacing.label         "Рамки і поля">
+<!ENTITY tableBorderWidth.label           "Рамка:">
+<!ENTITY tableBorderWidth.accessKey       "м">
+<!ENTITY tableSpacing.label               "Поля:">
+<!ENTITY tableSpacing.accessKey           "П">
+<!ENTITY tablePadding.label               "Поля  усередині клітинок:">
+<!ENTITY tablePadding.accessKey           "л">
+<!ENTITY tablePxBetwCells.label           "пікселів між клітинками">
+<!ENTITY tablePxBetwBrdrCellContent.label "пікселів між межею клітинки табл. і її вмістом">
+<!ENTITY tableAlignment.label             "Вирівнювання таблиці:">
+<!ENTITY tableAlignment.accessKey         "и">
+<!ENTITY tableCaption.label               "Заголовок:">
+<!ENTITY tableCaption.accessKey           "З">
+<!ENTITY tableCaptionAbove.label          "Над таблицею">
+<!ENTITY tableCaptionBelow.label          "Під таблицею">
+<!ENTITY tableCaptionLeft.label           "Зліва від таблиці">
+<!ENTITY tableCaptionRight.label          "Праворуч від таблиці">
+<!ENTITY tableCaptionNone.label           "Немає">
+<!ENTITY tableInheritColor.label           "(Буде видний фон сторінки)">
+
+<!ENTITY cellSelection.label              "Виділення">
+<!ENTITY cellSelectCell.label             "Кітинок">
+<!ENTITY cellSelectRow.label              "Строки">
+<!ENTITY cellSelectColumn.label           "Стовпців">
+<!ENTITY cellSelectNext.label             "Наступної">
+<!ENTITY cellSelectNext.accessKey         "Н">
+<!ENTITY cellSelectPrevious.label         "Попередньої">
+<!ENTITY cellSelectPrevious.accessKey     "П">
+<!ENTITY applyBeforeChange.label          "Поточні зміни будуть застосовані перед перетворенням виділення.">
+<!ENTITY cellContentAlignment.label       "Вирівнювання вмісту">
+<!ENTITY cellHorizontal.label             "Горизонтальне:">
+<!ENTITY cellHorizontal.accessKey         "Г">
+<!ENTITY cellVertical.label               "Вертикальне:">
+<!ENTITY cellVertical.accessKey           "В">
+<!ENTITY cellStyle.label                  "Стиль клітинки:">
+<!ENTITY cellStyle.accessKey              "С">
+<!ENTITY cellNormal.label                 "Звичайний">
+<!ENTITY cellHeader.label                 "Заголовок">
+<!ENTITY cellTextWrap.label               "Розбиття тексту на рядки:">
+<!ENTITY cellTextWrap.accessKey           "Р">
+<!ENTITY cellWrap.label                   "Розбити на рядки">
+<!ENTITY cellNoWrap.label                 "Не розбивати на рядки">
+<!ENTITY cellAlignTop.label               "Вгорі">
+<!ENTITY cellAlignMiddle.label            "Посередині">
+<!ENTITY cellAlignBottom.label            "Внизу">
+<!ENTITY cellAlignJustify.label           "Щодо інших об’єктів">
+<!ENTITY cellInheritColor.label           "(Буде видний фон таблиці)">
+<!ENTITY cellUseCheckboxHelp.label        "Встановіть прапорці, щоб визначити, які властивості будуть застосовані до всіх вибраних осередків">
+
+<!-- Used in both Table and Cell panels  -->
+<!ENTITY size.label                       "Размір">
+<!ENTITY pixels.label                     "пікселів">
+<!ENTITY backgroundColor.label            "Колір фону:">
+<!ENTITY backgroundColor.accessKey        "К">
+<!ENTITY AlignLeft.label                  "Вліво">
+<!ENTITY AlignCenter.label                "По центру">
+<!ENTITY AlignRight.label                 "Вправо">

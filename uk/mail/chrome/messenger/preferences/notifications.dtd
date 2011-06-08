@@ -1,0 +1,11 @@
+<!ENTITY notificationsDialog2.title       "Налаштувати сповіщення про наявність нових листів">
+<!ENTITY window.width                     "30em">
+
+<!ENTITY alertCustomization.intro         "Оберіть поля, які слід показувати у сповіщенні:">
+<!ENTITY previewText.label                "Попередній перегляд тексту">
+<!ENTITY previewText.accesskey            "П">
+<!ENTITY subject.label                    "Тема">
+<!ENTITY subject.accesskey                "Т">
+<!ENTITY sender.label                     "Відправник">
+<!ENTITY sender.accesskey                 "В">
+
