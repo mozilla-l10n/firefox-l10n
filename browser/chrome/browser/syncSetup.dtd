@@ -2,7 +2,7 @@
 <!-- First page of the wizard -->
 
 
-<!ENTITY setup.pickSetupType.description "Hoş geldiniz, daha önce hiç &syncBrand.fullName.label; kullanmadıysanız yeni bir hesap açmanız gerekecek.">
+<!ENTITY setup.pickSetupType.description "Hoş geldiniz. Daha önce hiç &syncBrand.fullName.label; kullanmadıysanız yeni bir hesap açmanız gerekecek.">
 <!ENTITY button.createNewAccount.label "Yeni hesap aç">
 <!ENTITY setup.haveAccount.label "Hâlihazırda bir &syncBrand.fullName.label; hesabım var.">
 <!ENTITY button.connect.label "Bağlan">
@@ -43,7 +43,7 @@
 <!ENTITY setup.newSyncKeyPage.description.label "Tüm verileriniz sunucuya gönderilmeden önce gizliliğinizi korumak için şifrelenir. Şifreyi çözmek için gereken Sync anahtarı sunucuya gönderilmez.">
 <!ENTITY syncKeyEntry.label "Sync anahtarınız">
 <!ENTITY syncKeyEntry.accesskey "a">
-<!ENTITY syncKeyGenerate.label "Üret">
+<!ENTITY syncGenerateNewKey.label "Yeni bir anahtar oluştur">
 <!ENTITY syncKeyBackup.description "Sync anahtarınız diğer makinelerde &syncBrand.fullName.label; uygulamasına erişmek için gereklidir. Lütfen yedek kopyasını alın. Sync anahtarınızı kurtarmanıza yardım edemeyiz.">
 
 <!ENTITY button.syncKeyBackup.print.label "Yazdır...">

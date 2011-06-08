@@ -19,13 +19,17 @@
 
 <!ENTITY pluginWizard.finalPage.moreInfo.label "Yan uygulamalara ilişkin daha fazla bilgi edinin ya da eksik yan uygulamaları kendiniz arayın.">
 <!ENTITY pluginWizard.finalPage.restart.label "Yan uygulamaların çalışması için &brandShortName; uygulamasının baştan başlatılması gerek.">
-  
-<!ENTITY missingPlugin.label "Yan uygulamayı indirmek için tıklayın.">
-<!ENTITY disabledPlugin.label "Yan uygulama bu içerikte devre dışı. Yan uygulamalarınızı yönetmek için buraya tıklayın.">
+
+<!ENTITY missingPlugin "Bu içeriği gösterecek bir yan uygulama eksik.">
+<!ENTITY disabledPlugin "Bu yan uygulama devre dışı.">
 <!ENTITY blockedPlugin.label "Bu yan eklenti sizi korumak için engellendi.">
+
+<!ENTITY installPlugin "Yan uygulama kur...">
+<!ENTITY managePlugins "Yan uygulamaları yönet...">
 <!-- LOCALIZATION NOTE (reloadPlugin.pre): include a trailing space as needed -->
 <!-- LOCALIZATION NOTE (reloadPlugin.middle): avoid leading/trailing spaces, this text is a link -->
 <!-- LOCALIZATION NOTE (reloadPlugin.post): include a starting space as needed -->
+
 <!ENTITY reloadPlugin.pre "Yeniden denemek için ">
 <!ENTITY reloadPlugin.middle "sayfayı yeniden yükleyin">
 <!ENTITY reloadPlugin.post ".">

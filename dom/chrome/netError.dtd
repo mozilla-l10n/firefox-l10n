@@ -80,7 +80,9 @@ Saldırı siteleri, özel bilgilerinizi çalan, bilgisayarınızı başkalarına
 <!ENTITY cspFrameAncestorBlocked.longDesc "<p>The browser prevented this page from loading in this way because the page has a content security policy that disallows it.</p>">
 
 <!ENTITY remoteXUL.title "Uzak XUL">
-<!ENTITY remoteXUL.longDesc "<p><ul><li>Please contact the website owners to inform them of this problem.</li></ul></p>">
+<!ENTITY remoteXUL.longDesc "<ul> 
+<li>Lütfen site sahipleriyle iletişim kurup onları bu sorundan haberdar edin.</li> 
+</ul>">
 <!-- Include app-specific error messages - do not change this in localization!
      Some applications might override netErrorApp.dtd with their specific version,
      this inclusion needs to be intact for that approach to work correctly.

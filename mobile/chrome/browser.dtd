@@ -50,7 +50,6 @@
 <!ENTITY addonShowPage.label "Sayfaya git">
 
 <!ENTITY downloadsHeader.label "İndirilenler">
-
 <!ENTITY downloadShowPage.label "Sayfaya git">
 <!ENTITY downloadShow2.label "Bul">
 <!ENTITY downloadOpen2.label "Aç">
@@ -95,7 +94,7 @@
 <!ENTITY contextSaveImage.label "Resmi kaydet">
 <!ENTITY contextShareLink.label "Bağlantıyı paylaş">
 <!ENTITY contextShareImage.label "Resmi paylaş">
-<!ENTITY contextBookmarkLink.label "Bookmark Link">
+<!ENTITY contextBookmarkLink.label "Bağlantıyı yer imlerine ekle">
 <!ENTITY contextSaveVideo.label "Videoyu kaydet">
 <!ENTITY contextShareVideo.label "Videoyu paylaş">
 <!ENTITY contextPlayMedia.label "Yürüt">

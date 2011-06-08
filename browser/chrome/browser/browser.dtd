@@ -104,7 +104,7 @@ can reach it easily. -->
 <!ENTITY subscribeToPageMenuitem.label "Bu sayfaya abone ol…">
 <!ENTITY addCurPagesCmd.label "Tüm sekmeleri yer imlerine ekle…">
 <!ENTITY showAllBookmarks2.label "Tüm yer imlerini göster...">
-<!ENTITY bookmarkAllCmd.label "Tüm sekmeleri yer imlerine ekle…">
+<!ENTITY unsortedBookmarksCmd.label "Sıralanmamış yer imleri">
 <!ENTITY bookmarksToolbarChevron.tooltip "Daha fazla yer imi göster">
 
 <!ENTITY backCmd.label "Geri">
@@ -179,6 +179,9 @@ can reach it easily. -->
 <!ENTITY addons.accesskey "E">
 <!ENTITY addons.commandkey "A">
 
+<!ENTITY webDeveloperMenu.label "Web geliştirici">
+<!ENTITY webDeveloperMenu.accesskey "g">
+
 <!ENTITY errorConsoleCmd.label "Hata konsolu">
 <!ENTITY errorConsoleCmd.accesskey "k">
 <!ENTITY errorConsoleCmd.commandkey "j">
@@ -190,6 +193,21 @@ can reach it easily. -->
 <!ENTITY inspectMenu.label "İncele">
 <!ENTITY inspectMenu.accesskey "l">
 <!ENTITY inspectMenu.commandkey "I">
+<!-- LOCALIZATION NOTE (scratchpad.label): This menu item label appears
+  -  in the Tools menu. See bug 653093.
+  -  The Scratchpad is intended to provide a simple text editor for creating
+  -  and evaluating bits of JavaScript code for the purposes of function
+  -  prototyping, experimentation and convenient scripting.
+  -
+  -  It's quite possible that you won't have a good analogue for the word
+  -  "Scratchpad" in your locale. You should feel free to find a close
+  -  approximation to it or choose a word (or words) that means
+  -  "simple discardable text editor". -->
+
+<!ENTITY scratchpad.label "Scratchpad">
+<!ENTITY scratchpad.accesskey "s">
+<!ENTITY scratchpad.keycode "VK_F4">
+<!ENTITY scratchpad.keytext "F4">
 
 <!ENTITY inspectPanelTitle.label "HTML">
 <!ENTITY inspectButton.label "İncele">
@@ -207,6 +225,9 @@ can reach it easily. -->
   -  titlebar: object.objectPanelTitle. -->
 <!ENTITY inspectObjectButton.label "Nesne">
 <!ENTITY inspectObjectButton.accesskey "N">
+
+<!ENTITY getMoreDevtoolsCmd.label "Daha fazla araca ulaş">
+<!ENTITY getMoreDevtoolsCmd.accesskey "u">
 
 <!ENTITY fileMenu.label "Dosya">
 <!ENTITY fileMenu.accesskey "s">
