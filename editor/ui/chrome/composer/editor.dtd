@@ -43,8 +43,8 @@
 <!-- Toolbar-only items -->
 
 
-<!ENTITY compositionToolbar.tooltip "Composition Toolbar">
-<!ENTITY previewToolbarCmd.label "Browse">
+<!ENTITY compositionToolbar.tooltip "Düzenleme araç çubuğu">
+<!ENTITY previewToolbarCmd.label "Gözat">
 <!ENTITY previewToolbarCmd.tooltip "Bu sayfayı Kılavuza yükle">
 <!-- File menu items -->
 
@@ -80,7 +80,7 @@
 <!ENTITY NormalMode.label "Normal düzenleme kipi">
 <!ENTITY NormalMode.accesskey "N">
 <!ENTITY NormalMode.tooltip "Tablo kenarlarını ve isimlendirilmiş çapaları göster">
-<!ENTITY AllTagsModeTab.label "HTML Tags">
+<!ENTITY AllTagsModeTab.label "HTML etiketleri">
 <!ENTITY AllTagsMode.label "HTML etiketleri">
 <!ENTITY AllTagsMode.accesskey "M">
 <!ENTITY AllTagsMode.tooltip "Tüm HTML biçim imleri için simgeleri göster">
@@ -95,6 +95,6 @@
 <!ENTITY HTMLSourceMode.accesskey "H">
 <!ENTITY HTMLSourceMode.tooltip "HTML kaynağını düzenle">
 <!ENTITY PreviewModeTab.label "Önizleme">
-<!ENTITY PreviewMode.label "Preview">
-<!ENTITY PreviewMode.accesskey "P">
+<!ENTITY PreviewMode.label "Önizleme">
+<!ENTITY PreviewMode.accesskey "n">
 <!ENTITY PreviewMode.tooltip "WYSIWYG olarak görüntüle (Kılavuzda gibi)">

@@ -54,10 +54,13 @@
 <!-- LOCALIZATION NOTE (popType.label) : Do not translate "POP" in below line -->
 <!ENTITY popType.label "POP">
 <!ENTITY popType.accesskey "P">
+<!ENTITY leaveMsgsOnSrvr.label "Leave messages on server">
+<!ENTITY leaveMsgsOnSrvr.accesskey "L">
 <!-- LOCALIZATION NOTE (haveSmtp1.prefix and haveSmtp1.suffix2) : Do not translate "SMTP" and "&quot;" in
      these variables. Also, translate haveSmtp1.prefix and haveSmtp1.suffix2 as a single sentence, inserting
      text after the "&quot;" entity in haveSmtp1.suffix2, if required grammatically.
 -->
+
 
 <!ENTITY haveSmtp1.prefix "Giden E-posta (SMTP) için mevcut &quot;">
 <!ENTITY haveSmtp1.suffix2 "&quot; sunucusu kullanılacak. Giden posta yapılandırması hesap ayarlarından değiştirilebilir.">
