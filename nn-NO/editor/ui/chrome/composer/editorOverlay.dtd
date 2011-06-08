@@ -45,9 +45,6 @@
 <!-- File menu items -->
 <!ENTITY fileMenu.label "Fil">
 <!ENTITY fileMenu.accesskey "F">
-<!ENTITY newBlankPageCmd.label "Nettsideutviklar-side">
-<!ENTITY newBlankPageCmd.accesskey "N" >
-<!ENTITY newMenu.label "Ny">
 <!ENTITY openFileCmd.label "Opne fil …">
 <!ENTITY openFileCmd.accesskey "O">
 <!ENTITY openFileCmd.key "O">
@@ -69,14 +66,8 @@
 <!ENTITY publishCmd.key "S">
 <!ENTITY publishAsCmd.label "Publiser som …">
 <!ENTITY publishAsCmd.accesskey "o">
-<!ENTITY exportToTextCmd.label "Eksporter til tekst …">
-<!ENTITY exportToTextCmd.accesskey "t">
 <!ENTITY saveAsChangeEncodingCmd.label "Lagre og endre teiknkoding">
 <!ENTITY saveAsChangeEncodingCmd.accesskey "e">
-<!ENTITY previewCmd.label "Førehandsvis sida …">
-<!ENTITY previewCmd.accesskey "v">
-<!ENTITY sendPageCmd.label "Send side …">
-<!ENTITY sendPageCmd.accesskey "s">
 <!ENTITY printSetupCmd.label "Utskriftsformat …">
 <!ENTITY printSetupCmd.accesskey "m">
 <!ENTITY printCmd.label "Skriv ut …">
@@ -116,8 +107,6 @@
 <!ENTITY checkSpellingCmd2.label "Kontroller staving">
 <!ENTITY checkSpellingCmd2.accesskey "K">
 <!ENTITY checkSpellingCmd2.key "p">
-<!ENTITY validateCmd.label "Kontroller HTML">
-<!ENTITY validateCmd.accesskey "K">
 
 <!-- Insert menu items -->
 <!ENTITY insertMenu.label "Set inn">
@@ -332,11 +321,6 @@
 <!ENTITY decreaseIndent.accesskey "R">
 <!ENTITY decreaseIndent.key "[">
 
-<!ENTITY grid.label "Posisjoneringsnett">
-<!ENTITY grid.accesskey "P">
-
-<!ENTITY pageProperties.label "Sidetittel og -eigenskapar ">
-<!ENTITY pageProperties.accesskey "t">
 <!ENTITY colorsAndBackground.label "Fargar og bakgrunn på sida …">
 <!ENTITY colorsAndBackground.accesskey "F">
 
@@ -405,15 +389,13 @@
 
 <!-- Toolbar-only items -->
 <!ENTITY menuBar.tooltip "Menylinje">
-<!ENTITY compositionToolbar.tooltip "Utformingsverktøylinje">
 <!ENTITY formatToolbar.tooltip "Formateringsverktøylinje">
-<!ENTITY newToolbarCmd.tooltip "Opprett ei ny nettsideutviklar-side">
+<!ENTITY newToolbarCmd.label "Ny">
+<!ENTITY newToolbarCmd.tooltip "Lag ei ny nettsideutviklar-side">
 <!ENTITY openToolbarCmd.label "Opne">
 <!ENTITY openToolbarCmd.tooltip "Opne ei lokal fil">
 <!ENTITY saveToolbarCmd.tooltip "Lagre fil lokalt">
 <!ENTITY publishToolbarCmd.tooltip "Last opp fil til eksternt område">
-<!ENTITY previewToolbarCmd.label "Bla gjennom">
-<!ENTITY previewToolbarCmd.tooltip "Last denne sida i nettlesaren">
 <!ENTITY printToolbarCmd.label "Skriv ut">
 <!ENTITY printToolbarCmd.tooltip "Skriv ut denne sida">
 <!ENTITY findToolbarCmd.label "Søk">
@@ -450,33 +432,7 @@
 <!ENTITY alignLeftButton.tooltip "Juster tekst langs venstre marg">
 <!ENTITY alignCenterButton.tooltip "Midtstill tekst">
 <!ENTITY alignRightButton.tooltip "Juster tekst langs høgre marg">
-<!ENTITY alignjustifyButton.tooltip "Juster tekst etter venstre og høgre marg">
-
-<!-- Display Mode toolbar and View menu items -->
-<!ENTITY NormalModeTab.label "Normal">
-<!ENTITY NormalMode.label "Normal endringsmodus">
-<!ENTITY NormalMode.accesskey "N">
-<!ENTITY NormalMode.tooltip "Vis tabellkantar og namngjevne anker">
-<!ENTITY AllTagsMode.label "HTML-merkelappar">
-<!ENTITY AllTagsMode.accesskey "e">
-<!ENTITY AllTagsMode.tooltip "Vis ikon for alle HTML-merkelappane">
-
-<!ENTITY HTMLSourceMode.label "HTML-kjeldekode">
-<!-- Toolbar has an image with "HTML" text, so don't include it in the string -->
-<!ENTITY SourceMode.label "Kjelde">
-<!ENTITY HTMLSourceMode.accesskey "H">
-<!ENTITY HTMLSourceMode.tooltip "Endre HTML-kjeldekode">
-<!ENTITY PreviewMode.label "Førehandsvising">
-<!ENTITY PreviewMode.accesskey "F">
-<!ENTITY PreviewMode.tooltip "Vis korleis det vil bli sjåande ut i nettlesaren">
-
-<!-- LOCALIZATION NOTE: Do NOT translate text for 'SourceTabDirection'
-     Use latin "ltr" if you want the <html> image to left of the 
-     'SourceMode.label' text defined above,
-     or use latin "rtl" if you want this image to the right of text
-     This is the value of the HTML 'dir' attribute
--->
-<!ENTITY SourceTabDirection "ltr">
+<!ENTITY alignJustifyButton.tooltip "Juster tekst etter venstre og høgre marg">
 
 <!-- Structure Toolbar Context Menu items -->
 <!ENTITY structSelect.label         "Vel">

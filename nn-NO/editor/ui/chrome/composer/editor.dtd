@@ -42,9 +42,20 @@
 
 <!-- Menu items:  the . means that the menu item isn't implemented yet -->
 
+<!-- Toolbar-only items -->
+<!ENTITY compositionToolbar.tooltip "Utformingslinje">
+<!ENTITY previewToolbarCmd.label "Førehandsvis">
+<!ENTITY previewToolbarCmd.tooltip "Last denne sida i nettlesaren">
+
+<!-- File menu items -->
+<!ENTITY exportToTextCmd.label "Eksporter til tekst …">
+<!ENTITY exportToTextCmd.accesskey "t">
+<!ENTITY previewCmd.label "Førehandsvis sida">
+<!ENTITY previewCmd.accesskey "v">
+<!ENTITY sendPageCmd.label "Send sida …">
+<!ENTITY sendPageCmd.accesskey "s">
+
 <!-- View menu items -->
-<!ENTITY viewMenu.label "Vis">
-<!ENTITY viewMenu.accesskey "V">
 <!ENTITY compositionToolbarCmd.label "Forfattarlinje">
 <!ENTITY compositionToolbarCmd.accesskey "F">
 <!ENTITY formattingToolbarCmd.label "Formateringslinje">
@@ -55,3 +66,35 @@
 <!-- Format menu items -->
 <!ENTITY formatMenu.label "Formatering">
 <!ENTITY formatMenu.accesskey "o">
+<!ENTITY grid.label "Posisjoneringsnett">
+<!ENTITY grid.accesskey "P">
+<!ENTITY pageProperties.label "Sidetittel og -eigenskapar …">
+<!ENTITY pageProperties.accesskey "t">
+
+<!-- Tools menu items -->
+<!ENTITY validateCmd.label "Kontroller HTML">
+<!ENTITY validateCmd.accesskey "K">
+
+<!-- Display Mode toolbar and View menu items -->
+<!ENTITY NormalModeTab.label "Normal">
+<!ENTITY NormalMode.label "Normal redigeringsmodus">
+<!ENTITY NormalMode.accesskey "N">
+<!ENTITY NormalMode.tooltip "Vis tabellkantar og namngjevne anker">
+<!ENTITY AllTagsModeTab.label "HTML-merkelappar">
+<!ENTITY AllTagsMode.label "HTML-merkelapper">
+<!ENTITY AllTagsMode.accesskey "a">
+<!ENTITY AllTagsMode.tooltip "Vis ikon for alle HTML-merkelappane">
+<!-- LOCALIZATION NOTE: (HTMLSourceModeTab.dir, HTMLSourceModeTab.label)
+     Do NOT translate text for 'HTMLSourceModeTab.dir', use latin "ltr" if
+     you want the <html> image to left of the 'HTMLSourceModeTab.label' text,
+     or use latin "rtl" if you want this image to the right of text. You do
+     not need to include HTML in the label 'HTMLSourceModeTab.label' -->
+<!ENTITY HTMLSourceModeTab.dir "ltr">
+<!ENTITY HTMLSourceModeTab.label "Kjelde">
+<!ENTITY HTMLSourceMode.label "HTML-kjeldekode">
+<!ENTITY HTMLSourceMode.accesskey "H">
+<!ENTITY HTMLSourceMode.tooltip "Endre HTML-kjeldekode">
+<!ENTITY PreviewModeTab.label "Førehandsvis">
+<!ENTITY PreviewMode.label "Førehandsvis">
+<!ENTITY PreviewMode.accesskey "F">
+<!ENTITY PreviewMode.tooltip "Vis som WYSIWYG (i nettlesaren)">
