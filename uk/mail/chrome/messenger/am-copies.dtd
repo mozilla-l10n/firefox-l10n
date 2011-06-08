@@ -7,11 +7,11 @@
 <!ENTITY fccReplyFollowsParent.label "Зберегти відповідь у теці з початковим листом">
 <!ENTITY fccReplyFollowsParent.accesskey "ч">
 <!-- LOCALIZATION NOTE (ccAddress.label): do not translate "Cc" in below line -->
-<!ENTITY ccAddress.label "Cc ці поштові адреси:">
+<!ENTITY ccAddress.label "Слати Cc на ці поштові адреси:">
 <!ENTITY ccAddress.accesskey "C">
 <!ENTITY ccAddressList.placeholder "Розділяйте адреси комами">
 <!-- LOCALIZATION NOTE (bccAddress.label): do not translate "Bcc" in below line -->
-<!ENTITY bccAddress.label "Посилати таємну копію на ці адреси:">
+<!ENTITY bccAddress.label "Слати Bcc на ці адреси:">
 <!ENTITY bccAddress.accesskey "т">
 <!ENTITY bccAddressList.placeholder "Розділяйте адреси комами">
 <!ENTITY saveMessageDlg.label "Показувати діалог підтвердження під час збереження пошти">
@@ -24,9 +24,9 @@
 <!-- LOCALIZATION NOTE (archivesFolderOn.label): OK to translate this, bug #57440 -->
 <!ENTITY archivesTitle.label "Архів листів">
 <!ENTITY keepArchives.label "Зберігати архіви листів у:">
-<!ENTITY keepArchives.accesskey "K">
+<!ENTITY keepArchives.accesskey "а">
 <!ENTITY archiveHierarchyButton.label "Налаштування архіву…">
-<!ENTITY archiveHierarchyButton.accesskey "A">
+<!ENTITY archiveHierarchyButton.accesskey "л">
 <!ENTITY archivesFolderOn.label "Тека «Архіви» у:">
 <!ENTITY archivesFolderOn.accesskey "А">
 <!ENTITY archiveInOtherFolder.label "Інші:">

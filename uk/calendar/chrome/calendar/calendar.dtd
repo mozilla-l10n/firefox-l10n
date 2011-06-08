@@ -152,16 +152,15 @@
 <!ENTITY calendar.task.filter.open.label            "Незавершені завдання">
 <!ENTITY calendar.task.filter.open.accesskey        "ш">
 
-<!-- FIXME -->
 <!-- LOCALIZATION NOTE(calendar.task.filter.current.label)
      "Current Tasks" will show all tasks, except those with a start date set
      that is after today and after the selected date. If a task repeats, a
      separate entry will be shown for each of the occurrences that happen on or
      before today (or the selected date, whichever is later). -->
-<!ENTITY calendar.task.filter.current.label         "Current Tasks">
-<!ENTITY calendar.task.filter.current.accesskey     "u">
-<!ENTITY calendar.task.filter.repeating.label       "Repeating Tasks">
-<!ENTITY calendar.task.filter.repeating.accesskey   "R">
+<!ENTITY calendar.task.filter.current.label         "Поточні завдання">
+<!ENTITY calendar.task.filter.current.accesskey     "т">
+<!ENTITY calendar.task.filter.repeating.label       "Повторювані завдання">
+<!ENTITY calendar.task.filter.repeating.accesskey   "р">
 
 <!ENTITY calendar.task-details.title.label           "Назва:">
 <!ENTITY calendar.task-details.organizer.label       "Організатор:">
