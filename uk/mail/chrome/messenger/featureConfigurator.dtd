@@ -21,7 +21,7 @@
 <!ENTITY featureConfigurator.toolbarBenefits.para "Прозоріший за попередній інтерфейс, що надає більше місця для гнучкого поля пошуку та додатків.">
 
 <!-- LOCALIZATION NOTE (featureConfigurator.addOn.downloading): The text to display while downloading the addon. -->
-<!ENTITY featureConfigurator.addOn.downloading "Downloading…">
+<!ENTITY featureConfigurator.addOn.downloading "Завантаження…">
 
 <!-- LOCALIZATION NOTE (featureConfigurator.addOn.installing): The text to display while installing the addon. -->
 <!ENTITY featureConfigurator.addOn.installing "Встановлюється…">
@@ -30,7 +30,7 @@
 <!ENTITY featureConfigurator.addOn.installed "Встановлено">
 
 <!-- LOCALIZATION NOTE (featureConfigurator.addOn.failure): The text to display when there is a problem installing the addon. -->
-<!ENTITY featureConfigurator.addOn.failure "There was a problem installing this extension!">
+<!ENTITY featureConfigurator.addOn.failure "Встановити розширення не вдалося!">
 
 <!-- LOCALIZATION NOTE (featureConfigurator.addOn.alreadyInstalled): The label to display when the addon is already installed. -->
 <!ENTITY featureConfigurator.addOn.alreadyInstalled "Це розширення вже встановлене.">

@@ -43,20 +43,20 @@
 <!-- Menu items:  the . means that the menu item isn't implemented yet -->
 
 <!-- Toolbar-only items -->
-<!ENTITY compositionToolbar.tooltip "Composition Toolbar">
-<!ENTITY previewToolbarCmd.label "Browse">
-<!ENTITY previewToolbarCmd.tooltip "Load this page in the browser">
+<!ENTITY compositionToolbar.tooltip "Панель написання">
+<!ENTITY previewToolbarCmd.label "Переглянути">
+<!ENTITY previewToolbarCmd.tooltip "Завантажити цю сторінку в браузер">
 
 <!-- File menu items -->
-<!ENTITY exportToTextCmd.label "Export to Text…">
-<!ENTITY exportToTextCmd.accesskey "T">
-<!ENTITY previewCmd.label "Browse Page">
-<!ENTITY previewCmd.accesskey "w">
-<!ENTITY sendPageCmd.label "Send Page…">
-<!ENTITY sendPageCmd.accesskey "d">
+<!ENTITY exportToTextCmd.label "Експорт в текст…">
+<!ENTITY exportToTextCmd.accesskey "т">
+<!ENTITY previewCmd.label "Переглянути сторінку">
+<!ENTITY previewCmd.accesskey "П">
+<!ENTITY sendPageCmd.label "Надіслати сторінку…">
+<!ENTITY sendPageCmd.accesskey "с">
 
 <!-- View menu items -->
-<!ENTITY compositionToolbarCmd.label "Панель інструментів для написання">
+<!ENTITY compositionToolbarCmd.label "Панель написання">
 <!ENTITY compositionToolbarCmd.accesskey "П">
 <!ENTITY formattingToolbarCmd.label "Панель форматування">
 <!ENTITY formattingToolbarCmd.accesskey "ф">
@@ -66,6 +66,7 @@
 <!-- Format menu items -->
 <!ENTITY formatMenu.label "Формат">
 <!ENTITY formatMenu.accesskey "о">
+<!-- FIXME -->
 <!ENTITY grid.label "Positioning grid">
 <!ENTITY grid.accesskey "t">
 <!ENTITY pageProperties.label "Page Title and Properties…">

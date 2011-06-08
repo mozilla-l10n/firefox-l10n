@@ -5,23 +5,23 @@
 <!-- File Menu -->
 <!ENTITY newFolderCmd.label "Теку…">
 <!ENTITY newFolderCmd.accesskey "Т">
-<!ENTITY closeTabCmd2.label "Close Tab">
-<!ENTITY closeTabCmd2.accesskey "C">
-<!ENTITY closeOtherTabsCmd2.label "Close Other Tabs">
-<!ENTITY closeOtherTabsCmd2.accesskey "o">
+<!ENTITY closeTabCmd2.label "Закрити вкладку">
+<!ENTITY closeTabCmd2.accesskey "З">
+<!ENTITY closeOtherTabsCmd2.label "Закрити інші вкладки">
+<!ENTITY closeOtherTabsCmd2.accesskey "і">
 <!-- LOCALIZATION NOTE (undoCloseTabCmd.label):
      Menu option to attempt to re-open a recently closed tab.
      -->
-<!ENTITY recentlyClosedTabsCmd.label "Recently Closed Tabs">
-<!ENTITY recentlyClosedTabsCmd.accesskey "R">
+<!ENTITY recentlyClosedTabsCmd.label "Недавно закриті вкладки">
+<!ENTITY recentlyClosedTabsCmd.accesskey "в">
 
 <!ENTITY undoCloseTabCmd.commandkey "T">
 <!-- LOCALIZATION NOTE (moveToNewWindow.label):
      Menu option to cause the current tab to be migrated to a new Thunderbird
      window.
      -->
-<!ENTITY moveToNewWindow.label "Move to New Window">
-<!ENTITY moveToNewWindow.accesskey "W">
+<!ENTITY moveToNewWindow.label "Перенести у нове вікно">
+<!ENTITY moveToNewWindow.accesskey "о">
 <!ENTITY newVirtualFolderCmd.label "Віртуальну теку…">
 <!ENTITY newVirtualFolderCmd.accesskey "В">
 <!ENTITY newOtherAccountsCmd.label "Інші облікові записи…">
@@ -321,11 +321,11 @@ you can use these alternative items. Otherwise, their values should be empty.  -
 <!ENTITY goBackCmd.commandKey "[">
 <!ENTITY prevStarredMsgCmd.label "Лист з зіркою">
 <!ENTITY prevStarredMsgCmd.accesskey "З">
-<!ENTITY folderMenu.label "Folder">
-<!ENTITY folderMenu.accesskey "O">
-<!ENTITY thisFolder.label "This Folder">
-<!ENTITY thisFolder.accesskey "F">
-<!ENTITY goRecentlyClosedTabs.label "Recently Closed Tabs">
+<!ENTITY folderMenu.label "Тека">
+<!ENTITY folderMenu.accesskey "Т">
+<!ENTITY thisFolder.label "Ця тека">
+<!ENTITY thisFolder.accesskey "Ц">
+<!ENTITY goRecentlyClosedTabs.label "Недавно закриті вкладки">
 <!ENTITY startPageCmd.label "Початкова сторінка">
 <!ENTITY startPageCmd.accesskey "ч">
 
@@ -409,8 +409,8 @@ you can use these alternative items. Otherwise, their values should be empty.  -
 <!ENTITY toggleReadCmd.key "m">
 <!ENTITY markAsReadCmd.label "Прочитаним">
 <!ENTITY markAsReadCmd.accesskey "ч">
-<!ENTITY markAsUnreadCmd.label "As Unread">
-<!ENTITY markAsUnreadCmd.accesskey "U">
+<!ENTITY markAsUnreadCmd.label "Нечитаним">
+<!ENTITY markAsUnreadCmd.accesskey "Н">
 <!ENTITY markThreadAsReadCmd.label "Гілку прочитаною">
 <!ENTITY markThreadAsReadCmd.accesskey "г">
 <!ENTITY markThreadAsReadCmd.key "r">
@@ -593,7 +593,7 @@ you can use these alternative items. Otherwise, their values should be empty.  -
 <!ENTITY SearchNameOrEmail.accesskey "І">
 
 <!-- Gloda Search Bar -->
-<!ENTITY glodaSearchBar.placeholder "Search messages…">
+<!ENTITY glodaSearchBar.placeholder "Пошук листів…">
 
 <!-- Quick Search Menu Bar -->
 <!ENTITY searchSubjectMenu.label "Тема">
@@ -760,10 +760,10 @@ you can use these alternative items. Otherwise, their values should be empty.  -
 <!ENTITY reportPhishingError1.label "Цей лист наче не шахрайський.">
 
 <!-- MDN Bar -->
-<!ENTITY mdnBarIgnoreButton2.label "Ignore">
-<!ENTITY mdnBarIgnoreButton2.accesskey "I">
-<!ENTITY mdnBarSendButton2.label "Send Return Receipt">
-<!ENTITY mdnBarSendButton2.accesskey "S">
+<!ENTITY mdnBarIgnoreButton2.label "Ігнорувати">
+<!ENTITY mdnBarIgnoreButton2.accesskey "І">
+<!ENTITY mdnBarSendButton2.label "Послати звістку про отримання">
+<!ENTITY mdnBarSendButton2.accesskey "з">
 
 <!-- Quick Search Bar -->
 <!-- LOCALIZATION NOTE (quickSearchCmd.key):
@@ -819,8 +819,8 @@ you can use these alternative items. Otherwise, their values should be empty.  -
 <!ENTITY reportPhishingURL.accesskey "ш">
 
 <!-- Spell checker context menu items -->
-<!ENTITY spellAddDictionaries.label "Add Dictionaries…">
-<!ENTITY spellAddDictionaries.accesskey "A">
+<!ENTITY spellAddDictionaries.label "Додати словники…">
+<!ENTITY spellAddDictionaries.accesskey "с">
 
 <!-- Content Pane Context Menu -->
 <!ENTITY saveLinkAsCmd.label "Зберегти посилання як…">

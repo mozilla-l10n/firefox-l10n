@@ -12,7 +12,7 @@
 
 <!ENTITY searchOnline.label "Пошук онлайн (дає актуальні результати для тек IMAP та груп новин, але збільшує час відкриття теки)">
 <!ENTITY searchOnline.accesskey "П">
-<!ENTITY newFolderButton.label       "Create">
-<!ENTITY newFolderButton.accesskey   "r">
-<!ENTITY editFolderButton.label      "Update">
-<!ENTITY editFolderButton.accesskey  "U">
+<!ENTITY newFolderButton.label       "Створити">
+<!ENTITY newFolderButton.accesskey   "С">
+<!ENTITY editFolderButton.label      "Оновити">
+<!ENTITY editFolderButton.accesskey  "О">
