@@ -7,7 +7,7 @@
 <!ENTITY  focusSearch1.key            "f">
 <!ENTITY  focusSearch2.key            "k">
 
-<!ENTITY  filter.emptytext            "Пошук">
+<!ENTITY  filter.placeholder          "Search">
 
 <!ENTITY saveTo.label                 "Зберігати файли до">
 <!ENTITY saveTo.accesskey             "З">
