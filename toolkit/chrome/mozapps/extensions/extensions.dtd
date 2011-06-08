@@ -23,14 +23,13 @@
 <!ENTITY warning.updatesecurity.enable.label       "Slå på">
 <!ENTITY warning.updatesecurity.enable.tooltip     "Slå på sikkerhetskontroll av utvidelsesoppdateringer">
 
+<!-- global informations -->
+<!ENTITY info.plugincheck.label                 "Kontroller om programtillegg er oppdaterte">
+<!ENTITY info.plugincheck.tooltip               "Kontroller om programtillegg er oppdaterte">
+
 <!-- categories / views -->
 <!ENTITY view.search.label                    "Søk">
 <!ENTITY view.discover.label                  "Last ned utvidelser">
-<!ENTITY view.locales.label                   "Språk">
-<!ENTITY view.searchengines.label             "Søkemotorer">
-<!ENTITY view.features.label                  "Utvidelser">
-<!ENTITY view.appearance2.label               "Utseende">
-<!ENTITY view.plugins.label                   "Programtillegg">
 <!ENTITY view.recentUpdates.label             "Nylig oppdatert">
 <!ENTITY view.availableUpdates.label          "Tilgjengelige oppdateringer">
 
