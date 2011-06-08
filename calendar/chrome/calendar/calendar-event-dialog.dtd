@@ -27,6 +27,7 @@
    -   Hubert Gajewski <hubert@hubertgajewski.com>, Aviary.pl
    -   Fred Jendrzejewski <fred.jen@web.de>
    -   Simon Vaillancourt <simon.at.orcl@gmail.com>   
+   -   Gianfranco Balza <bv1578@gmail.com>
    -
    - Alternatively, the contents of this file may be used under the terms of
    - either the GNU General Public License Version 2 or later (the "GPL"), or
@@ -44,6 +45,9 @@
 
 <!ENTITY event.title.label                  "Редагувати пункт" >
 
+<!-- FIXME -->
+<!ENTITY event.dialog.keepDurationButton.tooltip   "Keep the duration when changing the end date">
+<!ENTITY event.dialog.keepDurationButton.accesskey "K">
 
 <!ENTITY newevent.from.label                "З" >
 <!ENTITY newevent.to.label                  "До" >
@@ -375,6 +379,11 @@
 <!-- Read-Only dialog -->
 <!ENTITY read.only.general.label         "Загальне">
 <!ENTITY read.only.title.label           "Назва:">
+<!-- FIXME -->
+<!ENTITY read.only.event.start.label     "Start Date:">
+<!ENTITY read.only.task.start.label      "Start Date:">
+<!ENTITY read.only.event.end.label       "End Date:">
+<!ENTITY read.only.task.due.label        "Due Date:">
 <!ENTITY read.only.repeat.label          "Повторюється:">
 <!ENTITY read.only.location.label        "Місце:">
 <!ENTITY read.only.category.label        "Категорія:">

@@ -49,6 +49,3 @@
 <!ENTITY pref.defaultlength.accesskey "т">
 <!ENTITY pref.defaultsnoozelength.label "Типово відкладати сповіщення на:" >
 <!ENTITY pref.defaultsnoozelength.accesskey "в">
-<!ENTITY pref.refreshbox.label "Оновити налаштування" >
-<!ENTITY pref.autorefresh.label "Оновлювати календарі кожні" >
-<!ENTITY pref.autorefresh.accesskey "О" >
