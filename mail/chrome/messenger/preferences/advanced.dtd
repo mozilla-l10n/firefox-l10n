@@ -1,0 +1,108 @@
+<!ENTITY itemGeneral.label       "Загальні">
+<!ENTITY itemDisplay.label       "Читання та відображення">
+<!ENTITY itemUpdate.label        "Оновлення">
+<!ENTITY itemNetworking.label    "Мережа та диск">
+<!ENTITY itemCertificates.label  "Сертифікати">
+
+<!-- General Settings -->
+
+<!ENTITY enableGlodaSearch.label       "Ввімкнути глобальний пошук та індексацію">
+<!ENTITY enableGlodaSearch.accesskey   "і">
+<!ENTITY systemIntegration.label       "Системна інтеграція">
+<!ENTITY alwaysCheckDefault.label      "Перевіряти на старті чи &brandShortName; є типовою поштовою програмою">
+<!ENTITY alwaysCheckDefault.accesskey  "ш">
+<!ENTITY searchIntegration.label       "Allow &searchIntegration.engineName; to search messages">
+<!ENTITY searchIntegration.accesskey   "S">
+<!ENTITY checkNow.label                "Перевірити зараз…">
+<!ENTITY checkNow.accesskey            "т">
+<!ENTITY configEditDesc.label          "Додаткові налаштування">
+<!ENTITY configEdit.label              "Редактор налаштувань">
+<!ENTITY configEdit.accesskey          "Р">
+<!ENTITY returnReceiptsInfo.label      "Вкажіть, як &brandShortName; має обробляти сповіщення про доставку">
+<!ENTITY showReturnReceipts.label      "Сповіщення про доставку…">
+<!ENTITY showReturnReceipts.accesskey  "д">
+
+<!-- Display and Reading Settings -->
+<!ENTITY reading.caption               "Читання">
+<!ENTITY display.caption               "Відображення">
+<!ENTITY showCondensedAddresses.label  "Показувати тільки ім’я людей, що знаходяться в моїй адресній книзі">
+<!ENTITY showCondensedAddresses.accesskey "м">
+
+<!ENTITY autoMarkAsRead.label          "Автоматично позначати листи як прочитані">
+<!ENTITY autoMarkAsRead.accesskey      "А">
+<!ENTITY markAsReadNoDelay.label       "Зразу після відображення">
+<!ENTITY markAsReadNoDelay.accesskey   "З">
+<!-- LOCALIZATION NOTE (markAsReadDelay.label): This will concatenate to
+     "After displaying for [___] seconds",
+     using (markAsReadDelay.label) and a number (secondsLabel.label). -->
+<!ENTITY markAsReadDelay.label         "Як мине">
+<!ENTITY markAsReadDelay.accesskey     "Я">
+<!ENTITY secondsLabel.label            "секунд">
+<!ENTITY openMsgIn.label               "Відкривати листи у:">
+<!ENTITY openMsgInNewTab.label         "Новій вкладці">
+<!ENTITY openMsgInNewTab.accesskey     "в">
+<!ENTITY reuseExpRadio0.label          "новому вікні">
+<!ENTITY reuseExpRadio0.accesskey      "н">
+<!ENTITY reuseExpRadio1.label          "вже існуючому вікні">
+<!ENTITY reuseExpRadio1.accesskey      "у">
+<!ENTITY closeMsgWindowOnDelete.label  "Закривати вікно листа по стиранню">
+<!ENTITY closeMsgWindowOnDelete.accesskey "З">
+
+<!-- Update -->
+<!ENTITY autoCheck.label                "Автоматично перевіряти наявність оновлень:">
+<!ENTITY enableAppUpdate.label          "&brandShortName;">
+<!ENTITY enableAppUpdate.accesskey      "">
+<!ENTITY enableAddonsUpdate.label       "встановлених додатків">
+<!ENTITY enableAddonsUpdate.accesskey   "д">
+<!ENTITY whenUpdatesFound.label         "Якщо для &brandShortName; знайдені оновлення:">
+<!ENTITY modeAskMe.label                "Запитати мене що робити">
+<!ENTITY modeAskMe.accesskey            "щ">
+<!ENTITY modeAutomatic.label            "Автоматично завантажувати і встановлювати оновлення">
+<!ENTITY modeAutomatic.accesskey        "А">
+<!ENTITY modeAutoAddonWarn.label        "Попереджати, якщо це відключить якісь розширення">
+<!ENTITY modeAutoAddonWarn.accesskey    "в">
+<!ENTITY showUpdates.label              "Показати журнал оновлень">
+<!ENTITY showUpdates.accesskey          "о">
+
+<!-- Networking and Disk Space -->
+<!ENTITY showSettings.label            "Настройки…">
+<!ENTITY showSettings.accesskey        "Н">
+<!ENTITY proxiesConfigure.label        "Настройте як &brandShortName; з’єднується з інтернетом">
+<!ENTITY connectionsInfo.caption       "З’єднання">
+<!ENTITY offlineInfo.caption           "Автономний режим">
+<!ENTITY offlineInfo.label             "Налаштуйте параметри автономного режиму">
+<!ENTITY showOffline.label             "Автономний режим…">
+<!ENTITY showOffline.accesskey         "А">
+
+<!ENTITY Diskspace "Дисковий простір">
+<!ENTITY offlineCompact.label "Стискати теки, якщо при цьому вивільнятиметься більше">
+<!ENTITY offlineCompact.accesskey "С">
+<!ENTITY kb.label "КБ">
+
+<!-- LOCALIZATION NOTE:
+  The entities useCacheBefore.label and useCacheAfter.label appear on a single
+  line in preferences as follows:
+
+  &useCacheBefore.label  [ textbox for cache size in MB ]   &useCacheAfter.label;
+-->
+<!ENTITY useCacheBefore.label            "Використовувати до">
+<!ENTITY useCacheBefore.accesskey        "и">
+<!ENTITY useCacheAfter.label             "MB місця під кеш">
+<!ENTITY clearCacheNow.label             "Очистити зараз">
+<!ENTITY clearCacheNow.accesskey         "О">
+
+<!-- Certificates -->
+<!ENTITY certSelection.description       "Коли сервер запитує мій персональний сертифікат:">
+<!ENTITY certs.auto                      "Вибрати автоматично">
+<!ENTITY certs.auto.accesskey            "а">
+<!ENTITY certs.ask                       "Питати щоразу">
+<!ENTITY certs.ask.accesskey             "П">
+
+<!ENTITY viewCertificates.label         "Перегляд сертифікатів">
+<!ENTITY viewCertificates.accesskey     "с">
+<!ENTITY viewCRLs.label                 "Списки відкликання">
+<!ENTITY viewCRLs.accesskey             "в">
+<!ENTITY validation.label               "Перевірка">
+<!ENTITY validation.accesskey           "р">
+<!ENTITY viewSecurityDevices.label      "Пристрої захисту">
+<!ENTITY viewSecurityDevices.accesskey  "з">

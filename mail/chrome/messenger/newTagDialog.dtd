@@ -1,0 +1,4 @@
+<!-- New Tag Dialog -->
+<!ENTITY newTagDialog.title      "Створити нову мітку">
+<!ENTITY name.label              "Назва:">
+<!ENTITY name.accesskey          "Н">

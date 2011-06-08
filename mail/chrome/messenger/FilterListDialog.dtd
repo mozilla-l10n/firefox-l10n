@@ -1,0 +1,29 @@
+<!ENTITY window.title "Фільтри листів">
+<!ENTITY nameColumn.label "Назва фільтру">
+<!ENTITY activeColumn.label "Включений">
+<!ENTITY newButton.label "Створити…">
+<!ENTITY newButton.accesskey "С">
+<!ENTITY editButton.label "Змінити…">
+<!ENTITY editButton.accesskey "м">
+<!ENTITY deleteButton.label "Вилучити">
+<!ENTITY deleteButton.accesskey "и">
+<!ENTITY reorderUpButton.label "Вгору">
+<!ENTITY reorderUpButton.accesskey "г">
+<!ENTITY reorderDownButton.label "Вниз">
+<!ENTITY reorderDownButton.accesskey "н">
+<!ENTITY filterHeader.label "Включені фільтри запускаються автоматично у вказаному нижче порядку.">
+<!ENTITY filtersForPrefix.label "Фільтри для:">
+<!ENTITY filtersForPrefix.accesskey "і">
+<!ENTITY viewLogButton.label "Журнал фільтрів">
+<!ENTITY viewLogButton.accesskey "Ж">
+<!ENTITY runFilters.label "Запустити">
+<!ENTITY runFilters.accesskey "З">
+<!ENTITY stopFilters.label "Стоп">
+<!ENTITY stopFilters.accesskey "С">
+<!ENTITY folderPickerPrefix.label "Запустити вибрані фільтр(и) в теці:">
+<!ENTITY folderPickerPrefix.accesskey "а">
+<!ENTITY choosethis.label "вибрати цю теку">
+<!ENTITY choosethisnewsserver.label "вибрати цей сервер новин">
+<!ENTITY helpButton.label "Довідка">
+<!ENTITY helpButton.accesskey "Д">
+<!ENTITY closeCmd.key "W"> 

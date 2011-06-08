@@ -1,0 +1,20 @@
+<!ENTITY junkSettings.label "Налаштування спаму">
+<!ENTITY trainingWarning.label "Спочатку вам слід навчити &brandShortName; визначати небажану пошту, використовуючи кнопку „Спам“, щоб позначити листа спамом. Вам потрібно визначати як небажану, так і звичайну пошту.">
+<!ENTITY level.label "Ввімкнути контроль спаму для цього облікового запису">
+<!ENTITY level.accesskey "В">
+
+<!ENTITY move.label "Переміщати спам в:">
+<!ENTITY move.accesskey "м">
+<!ENTITY junkFolderOn.label "Теку „Спам“ на:">
+<!ENTITY junkFolderOn.accesskey "с">
+<!ENTITY otherFolder.label "Інше:">
+<!ENTITY otherFolder.accesskey "і">
+<!ENTITY purge1.label "Автоматично вилучати спам, давніший за">
+<!ENTITY purge1.accesskey "д">
+<!ENTITY purge2.label "днів">
+
+<!ENTITY whitelist.label "Не позначати пошту спамом, якщо відправник перебуває в: ">
+<!ENTITY whitelist.accesskey "і">
+
+<!ENTITY ispHeaders.label "Вірити полям заголовків листів, встановлених: ">
+<!ENTITY ispHeaders.accesskey "р">

@@ -1,0 +1,59 @@
+<!ENTITY itemJunk.label          "Спам">
+<!ENTITY itemPhishing.label      "Анти-фішинг">
+<!ENTITY itemPasswords.label     "Паролі">
+<!ENTITY itemAntiVirus.label     "Робота з антивірусом">
+<!ENTITY itemCookies.label       "Веб вміст">
+
+<!-- Junk Mail Controls -->
+<!ENTITY junkMail.intro "Налаштуйте загальні параметри спам-фільтрів. Специфічні для облікових записів параметри можуть бути змінені в налаштуваннях облікового запису.">
+<!ENTITY manualMark.label "Коли я позначаю лист як спам:">
+<!ENTITY manualMark.accesskey "я">
+<!ENTITY manualMarkModeMove.label "Перемістити їх у теку «Спам»">
+<!ENTITY manualMarkModeMove.accesskey "т">
+<!ENTITY manualMarkModeDelete.label "Знищити їх">
+<!ENTITY manualMarkModeDelete.accesskey "н">
+<!ENTITY markAsReadOnSpam.label "Відмітити такі листи прочитаними">
+<!ENTITY markAsReadOnSpam.accesskey "ч">
+<!ENTITY enableJunkLogging.label "Ввімкнути журнал спам-фільтру">
+<!ENTITY enableJunkLogging.accesskey "ж">
+<!ENTITY openJunkLog.label "Показати журнал">
+<!ENTITY openJunkLog.accesskey "к">
+<!ENTITY resetTrainingData.label "Скинути дані тренувань">
+<!ENTITY resetTrainingData.accesskey "С">
+
+<!-- Phishing Detector -->
+<!ENTITY phishingDetector1.intro  "&brandShortName; може аналізувати листи на предмет шахрайства, виявляючи усталені методи обману.">
+<!ENTITY enablePhishingDetector1.label    "Повідомляти мене, коли щодо листа, який я читаю, є підозри у шахрайстві">
+<!ENTITY enablePhishingDetector1.accesskey  "П">
+<!ENTITY useDownloadedList.label "Використовувати завантажений список електронних шахраїв">
+<!ENTITY useDownloadedList.accesskey "В">
+
+<!-- Passwords -->
+<!ENTITY savedPasswords.intro           "&brandShortName; може запам’ятовувати реєстраційну інформацію для всіх ваших облікових записів так, що вам не доведеться вводити її знову. ">
+<!ENTITY useMasterPassword.label        "Встановити головний пароль">
+<!ENTITY useMasterPassword.accesskey    "В">
+<!ENTITY masterPassword.intro           "Будучи встановленим, головний пароль буде використаний для захисту всіх ваших паролів. Вам потрібно буде вводити його один раз в сесію.">
+<!ENTITY changeMasterPassword.label     "Зміна головного паролю…">
+<!ENTITY changeMasterPassword.accesskey "З">
+<!ENTITY savedPasswords.label           "Збережені паролі…">
+<!ENTITY savedPasswords.accesskey       "б">
+
+<!-- Anti Virus -->
+<!ENTITY antiVirus.intro      "&brandShortName; може полегшити роботу антивіруса при перевірці вхідних листів на наявність вірусів перед тим, як зберегти їх в поштові теки.">
+<!ENTITY antiVirus.label      "Дозволити антивірусу поміщати в карантин окремі вхідні листи">
+<!ENTITY antiVirus.accesskey  "Д">
+
+<!-- Cookies -->
+<!ENTITY cookies.intro                  "&brandShortName; дозволяє вам вказати, яким блогам, новинним стрічкам, та іншим сайтам дозволено ставити куки.">
+<!ENTITY acceptCookies.label            "Приймати куки з сайтів">
+<!ENTITY acceptCookies.accesskey        "с">
+<!ENTITY keepUntil.label                "Зберігати їх, доки:">
+<!ENTITY keepUntil.accesskey            "З">
+<!ENTITY expire.label                   "не закінчиться термін їх дії">
+<!ENTITY close.label                    "я закрию &brandShortName;">
+<!ENTITY askEachTime.label              "питати кожного разу">
+<!ENTITY cookieExceptions.label         "Винятки…">
+<!ENTITY cookieExceptions.accesskey     "и">
+<!ENTITY showCookies.label              "Показати куки…">
+<!ENTITY showCookies.accesskey          "о">
+

@@ -1,0 +1,41 @@
+<!ENTITY window.title "Правила фільтрації">
+
+<!ENTITY filterName.label "Назва фільтру:">
+<!ENTITY filterName.accesskey "І">
+
+<!ENTITY junk.label "Спам">
+<!ENTITY notJunk.label "Не спам">
+
+<!ENTITY lowestPriorityCmd.label "найнижчу">
+<!ENTITY lowPriorityCmd.label "низьку">
+<!ENTITY normalPriorityCmd.label "звичайну">
+<!ENTITY highPriorityCmd.label "високу">
+<!ENTITY highestPriorityCmd.label "найвищу">
+
+<!ENTITY contextDesc.label "Застосувати фільтр:">
+<!ENTITY contextDesc.accesskey "ф">
+<!ENTITY contextIncoming.label "При перевірці пошти">
+<!ENTITY contextManual.label "Вручну">
+<!ENTITY contextBoth.label "При перевірці пошти чи вручну">
+<!ENTITY contextPostPlugin.label "При перевірці пошти (після сортування)">
+<!ENTITY contextPostPluginBoth.label "При перевірці пошти (після сортування) чи вручну">
+<!ENTITY filterActionDesc.label "Виконувати наступні дії:">
+<!ENTITY filterActionDesc.accesskey "и">
+
+<!-- New Style Filter Rule Actions -->
+<!ENTITY moveMessage.label "Перемістити повідомлення у">
+<!ENTITY copyMessage.label "Перемістити повідомлення у">
+<!ENTITY forwardTo.label "Переслати повідомлення до">
+<!ENTITY replyWithTemplate.label "Відповісти за шаблоном">
+<!ENTITY markMessageRead.label "Відмітити як прочитане">
+<!ENTITY markMessageStarred.label "Додати зірочку">
+<!ENTITY setPriority.label "Змінити важливість на">
+<!ENTITY addTag.label "Помітити повідомлення">
+<!ENTITY setJunkScore.label "Встановити ознаку спаму">
+<!ENTITY deleteMessage.label "Вилучити повідомлення">
+<!ENTITY deleteFromPOP.label "Вилучити з поштового сервера">
+<!ENTITY fetchFromPOP.label "Завантажити з поштового сервера">
+<!ENTITY ignoreThread.label "Ігнорувати гілку">
+<!ENTITY ignoreSubthread.label "Ігнорувати підгілку">
+<!ENTITY watchThread.label "Відстежувати гілку">
+<!ENTITY stopExecution.label "Припинити роботу фільтра">

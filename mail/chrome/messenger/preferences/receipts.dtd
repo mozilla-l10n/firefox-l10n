@@ -1,0 +1,22 @@
+<!ENTITY dialog.title                  "Сповіщення про доставку">
+<!ENTITY requestReceipt.label          "Завжди просити сповіщення при надсиланні листів">
+<!ENTITY requestReceipt.accesskey      "з">
+<!ENTITY receiptArrive.label           "При отриманні сповіщення:">
+<!ENTITY leaveIt.label                 "Залишати його в теці «Вхідні»">
+<!ENTITY leaveIt.accesskey             "В">
+<!ENTITY moveToSent.label              "Перемістити його в теку «Відіслані»">
+<!ENTITY moveToSent.accesskey          "О">
+<!ENTITY requestMDN.label              "При отриманні запиту на сповіщення:">
+<!ENTITY never.label                   "Ніколи не висилати сповіщення про доставку">
+<!ENTITY never.accesskey               "Н">
+<!ENTITY returnSome.label              "Висилати сповіщення для деяких листів">
+<!ENTITY returnSome.accesskey          "с">
+<!ENTITY notInToCc.label               "Якщо я не знаходжуся в списку «Кому» або «Копія»:">
+<!ENTITY notInToCc.accesskey           "Я">
+<!ENTITY outsideDomain.label           "Якщо відправник не знаходиться в моєму домені:">
+<!ENTITY outsideDomain.accesskey       "м">
+<!ENTITY otherCases.label              "У решті випадків:">
+<!ENTITY otherCases.accesskey          "ш">
+<!ENTITY askMe.label                   "Запитати мене">
+<!ENTITY alwaysSend.label              "Відсилати">
+<!ENTITY neverSend.label               "Не відсилати">

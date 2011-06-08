@@ -1,0 +1,23 @@
+<!-- extracted from am-advanced.xul -->
+
+<!-- LOCALIZATION NOTE (smtpServer.label): do not translate "SMTP" in below line -->
+<!ENTITY smtpServer.label "Параметри сервера вихідних листів (SMTP)">
+
+<!-- LOCALIZATION NOTE (smtpDesc.label): do not translate "SMTP" in below line -->
+<!ENTITY smtpDesc.label "Хоча ви можете вказати кілька серверів SMTP, це рекомендовано лише досвідченим користувачам. Встановлення кількох SMTP-серверів може призвести до помилок при відсиланні пошти.">
+
+<!ENTITY smtpListAdd.label  "Додати…">
+<!ENTITY smtpListAdd.accesskey  "д">
+<!ENTITY smtpListEdit.label "Правити…">
+<!ENTITY smtpListEdit.accesskey "П">
+<!ENTITY smtpListDelete.label "Вилучити">
+<!ENTITY smtpListDelete.accesskey "В">
+<!ENTITY smtpListSetDefault.label "Типово">
+<!ENTITY smtpListSetDefault.accesskey "Т">
+
+<!ENTITY serverDescription.label "Опис: ">
+<!ENTITY serverName.label "Ім’я сервера: ">
+<!ENTITY serverPort.label "Порт: ">
+<!ENTITY userName.label   "Ім’я користувача: ">
+<!ENTITY connectionSecurity.label "Безпека з’єднання: ">
+<!ENTITY authMethod.label   "Метод автентифікації: ">

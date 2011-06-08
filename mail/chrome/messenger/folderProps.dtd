@@ -1,0 +1,102 @@
+<!-- ***** BEGIN LICENSE BLOCK *****
+   - Version: MPL 1.1/GPL 2.0/LGPL 2.1
+   -
+   - The contents of this file are subject to the Mozilla Public License Version
+   - 1.1 (the "License"); you may not use this file except in compliance with
+   - the License. You may obtain a copy of the License at
+   - http://www.mozilla.org/MPL/
+   -
+   - Software distributed under the License is distributed on an "AS IS" basis,
+   - WITHOUT WARRANTY OF ANY KIND, either express or implied. See the License
+   - for the specific language governing rights and limitations under the
+   - License.
+   -
+   - The Original Code is Mozilla Communicator.
+   -
+   - The Initial Developer of the Original Code is
+   - Netscape Communications Corp.
+   - Portions created by the Initial Developer are Copyright (C) 2000
+   - the Initial Developer. All Rights Reserved.
+   -
+   - Contributor(s):
+   -   David Bienvenu <bienvenu@netscape.com>
+   -   Mohan Bhamidipati <mohanb@netscape.com>
+   -   Lorenzo Colitti   <lorenzo@colitti.com>
+   -   Stefan Borggraefe <Stefan.Borggraefe@gmx.de>
+   -
+   - Alternatively, the contents of this file may be used under the terms of
+   - either of the GNU General Public License Version 2 or later (the "GPL"),
+   - or the GNU Lesser General Public License Version 2.1 or later (the "LGPL"),
+   - in which case the provisions of the GPL or the LGPL are applicable instead
+   - of those above. If you wish to allow use of your version of this file only
+   - under the terms of either the GPL or the LGPL, and not to allow others to
+   - use your version of this file under the terms of the MPL, indicate your
+   - decision by deleting the provisions above and replace them with the notice
+   - and other provisions required by the GPL or the LGPL. If you do not delete
+   - the provisions above, a recipient may use your version of this file under
+   - the terms of any one of the MPL, the GPL or the LGPL.
+   -
+   - ***** END LICENSE BLOCK ***** -->
+
+<!ENTITY folderProps.windowtitle.label           "Властивості">
+
+<!ENTITY generalInfo.label                       "Основна інформація">
+<!ENTITY folderCharsetTab.label                  "Кодування за умовчанням:">
+<!ENTITY folderCharsetTab.accesskey              "К">
+<!ENTITY folderCharsetOverride.label             "Використовувати як кодування за умовчанням для всіх повідомлень в теці (ігнорувати кодування, визначені для окремих повідомлень, і автовизначення).">
+<!ENTITY folderCharsetOverride.accesskey         "м">
+<!ENTITY folderRebuildSummaryFileTip2.label      "Rebuild Summary File Index">
+<!ENTITY folderRebuildSummaryFile2.label         "Repair Folder">
+<!ENTITY folderRebuildSummaryFile2.accesskey     "R">
+<!ENTITY folderRebuildSummaryFile.explanation    "Sometimes the folder index (.msf) file becomes damaged and messages may appear missing or deleted messages continue showing; repairing the folder may fix these issues.">
+<!ENTITY folderIncludeInGlobalSearch.label       "Include messages in this folder in Global Search results">
+<!ENTITY folderIncludeInGlobalSearch.accesskey   "G">
+     
+<!ENTITY retention.label "Налаштування збереження повідомлень">
+<!ENTITY retentionUseAccount.label  "Використовувати налаштування мого облікового запису">
+<!ENTITY retentionUseAccount.accesskey "м">
+<!ENTITY daysOld.label "днів">
+<!ENTITY message.label "повідомлень">
+<!ENTITY retentionCleanup.label "Для вивільнення місця на диску старі повідомлення можуть бути стерті">
+<!ENTITY retentionCleanupImap.label "Щоб вивільнити місце на диску, старі повідомлення можуть бути стерті назавжди. Як локальні копії, так і оригінали на віддаленому сервері.">
+<!ENTITY retentionCleanupPop.label "Щоб вивільнити місце на диску, старі повідомлення можуть бути стерті назавжди, включно з оригіналами на віддаленому сервері.">
+<!ENTITY retentionDeleteMsg.label "Видаляти листи більші ніж">
+<!ENTITY retentionDeleteMsg.accesskey "л">
+<!ENTITY retentionKeepAll.label "Не вилучати повідомлення">
+<!ENTITY retentionKeepAll.accesskey "Н">
+<!ENTITY retentionKeepRecent.label "Delete all but the most recent">
+<!ENTITY retentionKeepRecent.accesskey "l">
+<!-- LOCALIZATION NOTE: Unhide with .keepUnreadOnly { display: -moz-box; } -->
+<!ENTITY retentionKeepUnreadHidden.label "Always delete read messages (overrides age settings)">
+<!ENTITY retentionApplyToFlagged.label "Зберігати листи з зірочкою завжди">
+<!ENTITY retentionApplyToFlagged.accesskey "з">
+
+<!ENTITY folderSynchronizationTab.label          "Синхронізація">
+<!ENTITY folderCheckForNewMessages2.label         "When getting new messages for this account, always check this folder">
+<!ENTITY folderCheckForNewMessages2.accesskey     "c">
+
+<!ENTITY offlineFolder.check.label               "Вибрати цю теку для автономної роботи">
+<!ENTITY offlineFolder.check.accesskey           "В">
+<!ENTITY offlineFolder.button.label              "Завантажити">
+<!ENTITY offlineFolder.button.accesskey          "З">
+
+<!ENTITY selectofflineNewsgroup.check.label      "Вибрати цю групу новин для автономної роботи">
+<!ENTITY selectofflineNewsgroup.check.accesskey  "а">
+<!ENTITY offlineNewsgroup.button.label           "Завантажити">
+<!ENTITY offlineNewsgroup.button.accesskey       "З">
+
+<!ENTITY folderProps.name.label                  "Назва:">
+<!ENTITY folderProps.name.accesskey              "а">
+<!ENTITY folderProps.location.label              "Розташування:">
+<!ENTITY folderProps.location.accesskey          "о">
+
+<!ENTITY folderSharingTab.label                  "Сумісне використання">
+<!ENTITY privileges.button.label                 "Привілеї…">
+<!ENTITY privileges.button.accesskey             "П">
+<!ENTITY permissionsDesc.label                   "У вас є наступні права:">
+<!ENTITY folderType.label                        "Тип теки:">
+
+<!ENTITY folderQuotaTab.label                    "Квота">
+<!ENTITY folderQuotaRoot.label                   "Квота:">
+<!ENTITY folderQuotaUsage.label                  "Використано:">
+<!ENTITY folderQuotaStatus.label                 "Стан:">
