@@ -67,6 +67,6 @@
 <!ENTITY indent.label           "உள்தள்ளு">
 <!ENTITY underline.label        "அடிக்கோடிடுக">
 
-<!ENTITY absolutePosition.label "Absolute positioning">
+<!ENTITY absolutePosition.label "மிகச்சரியான நிலை">
 <!ENTITY decreaseZIndex.label   "பின் அனுப்புக">
 <!ENTITY increaseZIndex.label   "முன் கொணர்க">

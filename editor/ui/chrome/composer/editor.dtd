@@ -43,7 +43,7 @@
 <!-- Menu items:  the . means that the menu item isn't implemented yet -->
 
 <!-- View menu items -->
-<!ENTITY compositionToolbarCmd.label "Composition கருவிப்பட்டை">
+<!ENTITY compositionToolbarCmd.label "கருவிப்பட்டை ஒருமித்தல்">
 <!ENTITY compositionToolbarCmd.accesskey "C">
 <!ENTITY formattingToolbarCmd.label "கருவிப்பட்டையை வடிவமைக்குக">
 <!ENTITY formattingToolbarCmd.accesskey "F">
@@ -61,35 +61,35 @@ Entities below were automatically added by compare-locales,
  based on en-US entities.
 -->
 
-<!ENTITY PreviewMode.label "Preview">
-<!ENTITY HTMLSourceModeTab.label "Source">
+<!ENTITY PreviewMode.label "முன்னோக்கு">
+<!ENTITY HTMLSourceModeTab.label "மூலம்">
 <!ENTITY sendPageCmd.accesskey "d">
 <!ENTITY grid.label "Positioning grid">
-<!ENTITY previewToolbarCmd.tooltip "Load this page in the browser">
-<!ENTITY AllTagsMode.tooltip "Display icons for all HTML tags">
+<!ENTITY previewToolbarCmd.tooltip "இந்த பக்கத்தை உலாவியில் ஏற்றுக">
+<!ENTITY AllTagsMode.tooltip "HTML சீட்டுக்கான எல்லா சின்னங்களையும் காட்சிப்படுத்திக">
 <!ENTITY NormalMode.accesskey "N">
-<!ENTITY NormalMode.label "Normal Edit Mode">
+<!ENTITY NormalMode.label "சாதாரணமான செவ்வையாக்கும் செயற்படுமுறைமை">
 <!ENTITY previewCmd.accesskey "w">
-<!ENTITY AllTagsMode.label "HTML Tags">
+<!ENTITY AllTagsMode.label "HTML சீட்டுகள்">
 <!ENTITY HTMLSourceModeTab.dir "ltr">
 <!ENTITY AllTagsMode.accesskey "a">
-<!ENTITY pageProperties.label "Page Title and Properties…">
+<!ENTITY pageProperties.label "பக்க த​லைப்பும் உடமைகளும்…">
 <!ENTITY HTMLSourceMode.accesskey "H">
 <!ENTITY PreviewMode.accesskey "P">
-<!ENTITY sendPageCmd.label "Send Page…">
-<!ENTITY NormalModeTab.label "Normal">
+<!ENTITY sendPageCmd.label "அனுப்பும் பக்கம்…">
+<!ENTITY NormalModeTab.label "சாதாரணமான">
 <!ENTITY pageProperties.accesskey "g">
-<!ENTITY exportToTextCmd.label "Export to Text…">
+<!ENTITY exportToTextCmd.label "உரைக்கு ஏற்றுக…">
 <!ENTITY grid.accesskey "t">
-<!ENTITY AllTagsModeTab.label "HTML Tags">
-<!ENTITY previewToolbarCmd.label "Browse">
-<!ENTITY HTMLSourceMode.label "HTML Source">
-<!ENTITY compositionToolbar.tooltip "Composition Toolbar">
-<!ENTITY PreviewMode.tooltip "Display as WYSIWYG (as in the browser)">
+<!ENTITY AllTagsModeTab.label "HTML சீட்டுகள்">
+<!ENTITY previewToolbarCmd.label "உலாவு">
+<!ENTITY HTMLSourceMode.label "HTML மூலம்">
+<!ENTITY compositionToolbar.tooltip "கருவிப்பட்டை ஒருமித்தல்">
+<!ENTITY PreviewMode.tooltip "WYSIWYG மாதிரி காட்சிப்படுத்துக (உலாவியில் உள்ள மாதிரி)">
 <!ENTITY validateCmd.accesskey "V">
 <!ENTITY exportToTextCmd.accesskey "T">
-<!ENTITY validateCmd.label "Validate HTML">
-<!ENTITY HTMLSourceMode.tooltip "Edit HTML source">
-<!ENTITY PreviewModeTab.label "Preview">
-<!ENTITY previewCmd.label "Browse Page">
-<!ENTITY NormalMode.tooltip "Show table borders and named anchors">
+<!ENTITY validateCmd.label "உறுதுசெய்யப்பட்ட HTML">
+<!ENTITY HTMLSourceMode.tooltip "HTML மூலங்களை செவ்வையாக்குக">
+<!ENTITY PreviewModeTab.label "முன்னோக்கு">
+<!ENTITY previewCmd.label "உலாவு பக்கம்">
+<!ENTITY NormalMode.tooltip "அட்டவணை எல்லைக் கோடுகளையும் பெயர் anchors களையும் காட்டுக">

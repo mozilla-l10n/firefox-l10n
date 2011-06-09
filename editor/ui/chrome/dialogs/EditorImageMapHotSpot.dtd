@@ -1,4 +1,4 @@
-﻿<!-- ***** BEGIN LICENSE BLOCK *****
+<!-- ***** BEGIN LICENSE BLOCK *****
    - Version: MPL 1.1/GPL 2.0/LGPL 2.1
    -
    - The contents of this file are subject to the Mozilla Public License Version
@@ -54,5 +54,5 @@
 <!ENTITY same.value				"அதே சட்டம்">
 <!ENTITY whole.value			"முழு பக்கம்">
 <!ENTITY new.value				"புதிய சாரளம்">
-<!ENTITY parent.value			"பெற்றோர் Parent Frame">
+<!ENTITY parent.value			"பெற்றோர் சட்டகம்">
 

@@ -50,7 +50,7 @@
 <!ENTITY leftRadio.accessKey "L">
 <!ENTITY centerRadio.label "மத்தி">
 <!ENTITY centerRadio.accessKey "C">
-<!ENTITY rightRadio.label "Right">
+<!ENTITY rightRadio.label "வலது">
 <!ENTITY rightRadio.accessKey "R">
 
 <!ENTITY threeDShading.label "3-D நிழலிடல்">
