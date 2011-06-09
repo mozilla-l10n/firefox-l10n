@@ -39,17 +39,15 @@
 <!ENTITY cancel.accesskey                "Q">
 <!ENTITY continue.label                  "Nadaljuj">
 <!ENTITY continue.accesskey              "N">
-<!ENTITY startOver.label                 "Začni znova">
-<!ENTITY startOver.accesskey             "Z">
 <!ENTITY stop.label                      "Ustavi">
 <!ENTITY stop.accesskey                  "U">
 <!-- LOCALIZATION NOTE (half-manual-test.label): This is the text that is
      displayed on the button in manual edit mode which will re-guess
      the account configuration, taking into account the settings that
      the user has manually changed. -->
-<!ENTITY retest.label                    "Ponovno preveri">
-<!ENTITY retest.accesskey                "P">
-<!ENTITY edit.label                      "Uredi">
+<!ENTITY half-manual-test.label                    "Ponovno preveri">
+<!ENTITY half-manual-test.accesskey                "P">
+<!ENTITY manual-edit.label                      "Uredi ročno">
 <!ENTITY manual-edit.accesskey           "U">
 
 
