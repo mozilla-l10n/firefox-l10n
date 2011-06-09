@@ -1,5 +1,6 @@
 <!ENTITY  splash_screen_label "laster">
 <!ENTITY  splash_screen_installing "installerer biblioteker \u2026">
+<!ENTITY  splash_firstrun "Konfigurerer &brandShortName; \u2026">
 <!ENTITY  incompatable_cpu_error "Denne enheten støtter ikke minstekravene for &brandShortName;.">
 <!ENTITY  no_space_to_start_error "Det er ikke nok ledig plass for at &brandShortName; kan starte.">
 <!ENTITY  error_loading_file "En feil oppstod ved forsøk på å laste nødvendige filer for å kjøre &brandShortName;">
@@ -8,7 +9,7 @@
 <!ENTITY  crash_message "&brandShortName; har krasjet. Faner vil listes opp på startsiden til &brandShortName; når du starter på nytt.">
 <!ENTITY  crash_help_message "Hjelp oss å løse problemet!">
 <!ENTITY  crash_send_report_message "Send krasjrapport til Mozilla">
-<!ENTITY  crash_include_url "Inkluder sideadresse">
+<!ENTITY  crash_include_url "Legg ved sideadresse">
 <!ENTITY  crash_close_label "Lukk">
 <!ENTITY  crash_restart_label "Start &brandShortName; på nytt">
 <!ENTITY  sending_crash_report "Send krasjrapport \u2026">
