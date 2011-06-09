@@ -6,12 +6,9 @@
 <!ENTITY organize.accesskey    "A">
 <!ENTITY organize.tooltip      "Administrar ils segnapaginas">
 
-<!ENTITY file.accesskey                 "D">
 <!ENTITY file.close.label               "Serrar">
 <!ENTITY file.close.accesskey           "S">
 <!ENTITY cmd.close.key                  "w">
-<!ENTITY edit.label                     "Modifitgar">
-<!ENTITY edit.accesskey                 "M">
 <!ENTITY views.label                    "Vistas">
 <!ENTITY views.accesskey                "V">
 <!ENTITY views.tooltip                  "Midar la vista">
@@ -76,8 +73,6 @@
 
 <!ENTITY cmd.reloadLivebookmark.label      "Rechargiar il segnapagina dinamic">
 <!ENTITY cmd.reloadLivebookmark.accesskey  "d">
-<!ENTITY cmd.reloadMicrosummary.label      "Rechargiar il titel live">
-<!ENTITY cmd.reloadMicrosummary.accesskey  "t">
 
 <!ENTITY cmd.moveBookmarks.label                  "Spustar…">
 <!ENTITY cmd.moveBookmarks.accesskey              "S">
@@ -113,17 +108,14 @@
 <!ENTITY maintenance.accesskey  "I">
 <!ENTITY maintenance.tooltip    "Importar e far ina copia da segirezza dals segnapaginas">
 
-<!ENTITY backCmd.label       "Enavos">
 <!ENTITY backButton.tooltip  "A la pagina precedenta">
 
-<!ENTITY forwardCmd.label       "Enavant">
 <!ENTITY forwardButton.tooltip  "A la proxima pagina">
 
 <!ENTITY detailsPane.more.label "Dapli">
 <!ENTITY detailsPane.more.accesskey "D">
 <!ENTITY detailsPane.less.label "Damain">
 <!ENTITY detailsPane.less.accesskey "D">
-<!ENTITY detailsPane.noPreviewAvailable.label "Prevista">
 <!ENTITY detailsPane.selectAnItemText.description "Tscherna in'endataziun per vesair e modifitgar sias caracteristicas">
 
 <!ENTITY find.label               "Tschertgar:">
