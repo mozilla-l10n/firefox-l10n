@@ -61,8 +61,8 @@
 <!ENTITY  dontrememberActions.clearHistory.label "an eachdraidh làithreach gu lèir a ghlanadh">
 <!ENTITY  dontrememberActions.post.label         ".">
 
-<!ENTITY  privateBrowsingPermanent.label "Modh buan a' bhrabhsaidh phrìobhaidich">
-<!ENTITY  privateBrowsingPermanent.accesskey "p">
+<!ENTITY  privateBrowsingPermanent2.label "Cleachd am brabhsaidh phrìobhaidich an-còmhnaidh">
+<!ENTITY  privateBrowsingPermanent2.accesskey "p">
 
 <!ENTITY  rememberHistory.label      "Cuimhnich an eachdraidh brabhsaidh agam">
 <!ENTITY  rememberHistory.accesskey  "b">
