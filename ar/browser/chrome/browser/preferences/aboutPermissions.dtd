@@ -22,9 +22,9 @@
 <!ENTITY password.manage                 "إدارة كلمات السر…">
 
 <!ENTITY cookie.label                    "اضبط الكعكات">
-<!ENTITY cookie.clear                    "امسح الكعكات">
+<!ENTITY cookie.remove                   "أزِل الكعكات">
 <!ENTITY cookie.manage                   "إدارة الكعكات…">
-<!ENTITY cookie.clearAll                 "امسح الكعكات">
+<!ENTITY cookie.removeAll                "أزِل كل الكعكات">
 
 <!ENTITY geo.label                       "تشارَك الموقع">
 
