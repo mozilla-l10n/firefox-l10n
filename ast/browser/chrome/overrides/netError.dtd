@@ -95,6 +95,10 @@ pue tar caducada.</li><li>¿Nun yes quien a navegar per otros sitios? Comprueba 
 <p>Estos tipos de falsificaciones de webs úsense n'engañifes conocíes como ataques de phishing, nos que s'usen páxines web y mensaxes de corréu-e fraudulentos pa imitar fontes nes que se confía.</p>">
 <!ENTITY cspFrameAncestorBlocked.title "Bloquiáu pola política de seguridá de conteníu">
 <!ENTITY cspFrameAncestorBlocked.longDesc "<p>&brandShortName; ta torgando qu'esta páxina se cargue d'esta forma porque la páxina tien una política de seguridá de conteníu que nun lo permite.</p>">
+
+<!ENTITY corruptedContentError.title "Fallu. Conteníu corruptu">
+<!ENTITY corruptedContentError.longDesc "<p>La páxina que tas intentando ver, nun pue amosase porque deteutóse un fallu na tresmisión de datos.</p><ul><li>Por favor, contauta colos propietarios del situ pa informa-yos d'esti problema.</li></ul>">
+
 <!ENTITY securityOverride.linkText "O pues amestar una esceición…">
 <!ENTITY securityOverride.getMeOutOfHereButton "Sacáime d'equí!">
 <!ENTITY securityOverride.exceptionButtonLabel "Amestar esceición…">
