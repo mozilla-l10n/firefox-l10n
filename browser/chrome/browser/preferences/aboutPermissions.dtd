@@ -22,10 +22,9 @@
 <!ENTITY password.manage                 "Remanar contraseñes…">
 
 <!ENTITY cookie.label                    "Afitar Cookies">
-<!ENTITY cookie.clear                    "Llimpiar Cookies">
+<!ENTITY cookie.remove                   "Desaniciar Cookies">
 <!ENTITY cookie.manage                   "Remanar Cookies…">
-<!ENTITY cookie.clearAll                 "Llimpiar toles Cookies">
-
+<!ENTITY cookie.removeAll                "Desaniciar toles Cookies">
 <!ENTITY geo.label                       "Compartir llocalización">
 
 <!-- LOCALIZATION NOTE (indexedDB.label): This is describing indexedDB storage
