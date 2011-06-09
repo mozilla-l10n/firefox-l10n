@@ -26,11 +26,6 @@
 <!-- categories / views -->
 <!ENTITY view.search.label                    "தேடல்">
 <!ENTITY view.discover.label                  "செருகல்களினை பெறல்">
-<!ENTITY view.locales.label                   "மொழிகள்">
-<!ENTITY view.searchengines.label             "தேடு பொறி">
-<!ENTITY view.features.label                  "நீட்சிகள்">
-<!ENTITY view.appearance2.label               "தோற்றம்">
-<!ENTITY view.plugins.label                   "உட்செருகல்">
 <!ENTITY view.recentUpdates.label             "அண்மைக்கால இற்றைப்படுத்தல்கள்">
 <!ENTITY view.availableUpdates.label          "பெறக்கூடிய இற்றைப்படுத்தல்கள்">
 
