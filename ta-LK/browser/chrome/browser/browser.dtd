@@ -69,7 +69,6 @@
 <!ENTITY subscribeToPageMenuitem.label "இப்பக்கத்திற்கு அங்கத்துவத்தை அளிக்க">
 <!ENTITY addCurPagesCmd.label "அனைத்து தத்தல்களையும் புத்தகக்குறியிடுக">
 
-<!ENTITY bookmarkAllCmd.label "அனைத்து தத்தல்களையும் புத்தகக்குறியிடுக">
 <!ENTITY bookmarksToolbarChevron.tooltip "இன்னும் புத்தகக்குறிகளைக் காட்டுக">
 
 <!ENTITY backCmd.label "பின்னோக்குக">
@@ -134,6 +133,7 @@
 <!ENTITY undoCmd.label            "அ-செய்">  
 <!ENTITY undoCmd.key            "Z">  
 <!ENTITY undoCmd.accesskey          "U"> 
+
 
 <!ENTITY redoCmd.label            "மீ-செய்">  
 <!ENTITY redoCmd.key            "Y">  

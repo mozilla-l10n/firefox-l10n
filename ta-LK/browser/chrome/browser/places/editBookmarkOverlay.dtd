@@ -6,7 +6,6 @@
 <!ENTITY editBookmarkOverlay.feedLocation.accesskey          "F">
 <!ENTITY editBookmarkOverlay.siteLocation.label              "பக்க அமைவிடம்:">
 <!ENTITY editBookmarkOverlay.siteLocation.accesskey          "S">
-<!ENTITY editBookmarkOverlay.liveTitlesSeparator.label       "Live தலைப்புகள்">
 <!ENTITY editBookmarkOverlay.folder.label                    "கோப்புறை:">
 <!ENTITY editBookmarkOverlay.foldersExpanderDown.tooltip     "அனைத்து புத்தகக்குறிகள் கோப்புறைகளையும் காட்டுக">
 <!ENTITY editBookmarkOverlay.expanderUp.tooltip              "மறைக்க">
