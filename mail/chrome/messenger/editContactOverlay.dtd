@@ -15,3 +15,5 @@
 
 <!ENTITY editContactPanelDone.label "Končano">
 <!ENTITY editContactPanelDone.accesskey "X">
+
+<!ENTITY contactMoveDisabledWarning.description "Ker je stik v seznamu stikov, adresarja ne morete zamenjati.">

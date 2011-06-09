@@ -44,7 +44,8 @@
      all go into one line and have an anchor in between with text that is the same as the link to a site
      to download the latest version of Firefox (e.g. http://www.firefox.com). As this is all in one line,
      try to make the localized text short (see bug 596813 for screenshots). -->
-<!ENTITY update.manual.start        "Posodobitve so na voljo na ">
+<!ENTITY update.manual.start        "Prenesite ">
+<!ENTITY update.manual.linkText     "najnovejšo inačico">
 <!ENTITY update.manual.end          "">
 
 <!-- LOCALIZATION NOTE (update.downloading.start,update.downloading.end): update.downloading.start and 
