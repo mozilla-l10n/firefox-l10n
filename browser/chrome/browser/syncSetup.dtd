@@ -7,7 +7,6 @@ Entities below were automatically added by compare-locales,
 
 <!ENTITY setup.tosLink.label "சேவை விதிமுறை">
 <!ENTITY continueUsing.label "&brandShortName; இதைப் பாவித்து நீங்கள் தொடரலாம்.">
-<!ENTITY syncKeyGenerate.label "உண்டாக்கு">
 <!ENTITY serverType.main.label "&syncBrand.fullName.label; சேவையகம்">
 <!ENTITY engine.prefs.label "முன்னுரிமைகள்">
 <!ENTITY syncKeyBackup.description "மற்றய இயந்திரங்களில் &syncBrand.fullName.label; ஐ அணுகுவதற்கு உங்களுடைய ஒத்திசைவு விசை தேவைப்படுகிறது. அதனால் தயவு செய்து ஒரு படியெடுப்பு நகலை உருவாக்குக. ஏனெனில் உங்களுடைய ஒத்திசைவு விசையை மீட்க எங்களால் உங்களுக்கு உதவி செய்ய முடியாது.">
