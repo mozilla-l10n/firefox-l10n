@@ -82,6 +82,9 @@
 <!ENTITY cspFrameAncestorBlocked.title "حجبتها سياسة أمن المحتوى">
 <!ENTITY cspFrameAncestorBlocked.longDesc "<p>منع &brandShortName; هذه الصفحة من التحميل بهذه الطريقة لأن للصفحة سياسة أمن محتوى تمنع ذلك.</p>">
 
+<!ENTITY corruptedContentError.title "خطأ: محتوى فاسد">
+<!ENTITY corruptedContentError.longDesc "<p>تعذر عرض الصفحة التي تريد مشاهدتها بسبب خطأ أثناء نقل البيانات.</p><ul><li>الرجاء التواصل مع مالك الموقع لإبلاغه بهذه المشكلة.</li></ul>">
+
 <!ENTITY securityOverride.linkText "أو يمكنك إضافة استثناء…">
 <!ENTITY securityOverride.getMeOutOfHereButton "أخرجني من هنا!">
 <!ENTITY securityOverride.exceptionButtonLabel "أضِف استثناءً…">
