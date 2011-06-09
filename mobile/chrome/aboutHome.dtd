@@ -9,6 +9,3 @@
 <!ENTITY aboutHome.openAllTabs                  "Obre-ho tot en pestanyes">
 <!ENTITY aboutHome.noTabs                       "No hi ha cap pestanya de la darrera vegada">
 <!ENTITY aboutHome.noAddons                     "No hi ha cap complement recomanat">
-<!-- LOCALIZATION NOTE: 'Firefox Spark' is the official name of the promotion and should not be translated -->
-<!ENTITY aboutHome.promoLabel                   "Firefox Spark">
-<!ENTITY aboutHome.promoButton                  "Reprodueix">
