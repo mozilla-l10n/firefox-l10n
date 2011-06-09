@@ -166,6 +166,9 @@ ser temporário, voltando a tentar mais tarde.</li>
 <!ENTITY cspFrameAncestorBlocked.title "Bloqueado pela política de segurança de conteúdos">
 <!ENTITY cspFrameAncestorBlocked.longDesc "<p>O &brandShortName; preveniu o carregamento desta página desta maneira porque a página tem uma política de segurança de conteúdos que a desactivou.</p>">
 
+<!ENTITY corruptedContentError.title "Erro de conteúdo corrompido">
+<!ENTITY corruptedContentError.longDesc "<p>A página que está a tentar visualizar não pode ser apresentada porque foi detectado um erro na transmissão de dados.</p><ul><li>Por favor, contacte o dono do sítio web para o informar sobre este problema.</li></ul>">
+
 <!ENTITY securityOverride.linkText "Ou pode adicionar excepção…">
 <!ENTITY securityOverride.getMeOutOfHereButton "Tirem-me daqui!">
 <!ENTITY securityOverride.exceptionButtonLabel "Adicionar excepção…">
@@ -184,3 +187,4 @@ netError.xhtml) because it exposes functionality specific to firefox. -->
 
 <!ENTITY remoteXUL.title "XUL remoto">
 <!ENTITY remoteXUL.longDesc "<p><ul><li>Por favor, contacte os donos do sítio web para informá-los sobre este problema.</li></ul></p>">
+
