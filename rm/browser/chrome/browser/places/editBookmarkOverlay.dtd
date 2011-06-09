@@ -6,7 +6,6 @@
 <!ENTITY editBookmarkOverlay.feedLocation.accesskey          "f">
 <!ENTITY editBookmarkOverlay.siteLocation.label              "Adressa da la website:">
 <!ENTITY editBookmarkOverlay.siteLocation.accesskey          "w">
-<!ENTITY editBookmarkOverlay.liveTitlesSeparator.label       "Titel live">
 <!ENTITY editBookmarkOverlay.folder.label                    "Ordinatur:">
 <!ENTITY editBookmarkOverlay.foldersExpanderDown.tooltip     "Mussar tut ils ordinaturs da segnapaginas">
 <!ENTITY editBookmarkOverlay.expanderUp.tooltip              "Zuppentar">

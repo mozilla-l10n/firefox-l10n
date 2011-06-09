@@ -43,7 +43,7 @@
 <!ENTITY setup.newSyncKeyPage.description.label "Per garantir la protecziun da datas vegnan tias datas criptadas avant ch'ellas vegnan chargiadas sin il server. La clav per decriptar las datas na vegn betg chargiada sin il server.">
 <!ENTITY syncKeyEntry.label        "Tia clav da Sync">
 <!ENTITY syncKeyEntry.accesskey    "c">
-<!ENTITY syncKeyGenerate.label     "Generar">
+<!ENTITY syncGenerateNewKey.label  "Generar ina nova clav">
 <!ENTITY syncKeyBackup.description "Tia clav da Sync è necessaria per acceder &syncBrand.fullName.label; cun agid dad auters apparats. Fa ina copia da segirezza. Nus na pudain betg restaurar tia clav da Sync.">
 
 <!ENTITY button.syncKeyBackup.print.label     "Stampar…">
