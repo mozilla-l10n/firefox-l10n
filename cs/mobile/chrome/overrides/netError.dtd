@@ -166,6 +166,9 @@ za chvíli.</li>
 <!ENTITY cspFrameAncestorBlocked.title "Zablokováno dle bezpečnostních pravidel stránky">
 <!ENTITY cspFrameAncestorBlocked.longDesc "<p>Aplikace &brandShortName; zabránila této stránce v nahrání, neboť tato stránka má bezpečnostní pravidla, která tento způsob užití zakazují.</p>">
 
+<!ENTITY corruptedContentError.title "Chyba v obsahu stránky">
+<!ENTITY corruptedContentError.longDesc "<p>Stránka, kterou se snažíte načíst, nemůže být zobrazena, jelikož v přenesená data jsou chybná.</p><ul><li>Kontaktujte prosím vlastníka stránky a informujte ho o tomto problému.</li></ul>">
+
 <!ENTITY securityOverride.linkText "Nebo můžete přidat výjimku…">
 <!ENTITY securityOverride.getMeOutOfHereButton "Rychle odsud pryč">
 <!ENTITY securityOverride.exceptionButtonLabel "Přidat výjimku">
@@ -184,3 +187,4 @@ netError.xhtml) because it exposes functionality specific to firefox. -->
 
 <!ENTITY remoteXUL.title "Vzdálené XUL">
 <!ENTITY remoteXUL.longDesc "<p><ul><li>Kontaktujte prosím vlastníka stránky a informujte ho o tomto problému.</li></ul></p>">
+
