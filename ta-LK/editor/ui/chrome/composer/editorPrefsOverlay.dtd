@@ -1,9 +1,9 @@
 
 <!--LOCALIZATION NOTE (editorCheck.label): DONT_TRANSLATE -->
-<!ENTITY editorCheck.label "Composer">
+<!ENTITY editorCheck.label "தொகுப்பாளர்">
 <!ENTITY editorCheck.accesskey "c">
 
-<!ENTITY compose.label "Composer">
+<!ENTITY compose.label "தொகுப்பாளர்">
 <!ENTITY editing.label "புதிய பக்க அமைப்புக்கள்">
 <!ENTITY toolbars.label "கருவிப்பட்டைகள்">
 <!ENTITY publish.label "வெளியிடப்படுகிறன்றது">
