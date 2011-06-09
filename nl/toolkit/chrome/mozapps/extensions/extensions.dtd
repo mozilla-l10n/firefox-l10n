@@ -1,4 +1,4 @@
-<!ENTITY addons.windowTitle                   "Add-onbeheerder">
+<!ENTITY addons.windowTitle                   "Add-onsbeheerder">
 <!ENTITY search.placeholder                   "Alle add-ons doorzoeken">
 <!ENTITY loading.label                        "Laden…">
 <!ENTITY listEmpty.installed.label            "U hebt geen add-ons van dit type geïnstalleerd">
