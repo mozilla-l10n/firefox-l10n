@@ -1,8 +1,13 @@
 <!ENTITY doNotDownloadPop3Movemail.label "ඩිස්කයේ ඉඩ ඉතිරි කර ගැනීම සඳහා භාගත නොකරන්න:">
+<!ENTITY doNotDownloadNntp.label "ඩිස්කයේ ඉඩ ඉතිරි කිරීමට, අසම්බන්ධිතව භාවිතා කිරීම සඳහා බාගත නොකරන්න:">
+<!ENTITY doNotDownloadImap.label "ඩිස්කයේ ඉඩ ඉතිරි කිරීම සඳහා, අසම්බන්ධිතව භාවිතා කිරීමට ලිපි බාගත කර සමීප පිටපත් (local copies) තබා ගැනීම ලිපියේ වයස හා ප්‍රමාණය අනුව සීමා කළ හැකිය.">
+<!-- <!ENTITY doNotDownload.label "ඩිස්කයේ ඉඩ ඉතිරි කිරීමට, අසම්බන්ධිතව භාවිතා කිරීම සඳහා භාගත නොකරන්න:"> -->
 <!ENTITY allFoldersOffline.label "මෙම පරිගණකහේ මෙම ගිණුම සඳහා ලිපි තබාගන්න">
 <!ENTITY allFoldersOffline.accesskey "o">
 <!ENTITY offlineNotDownload.label "">
 <!ENTITY offlineNotDownload.accesskey "M">
+<!ENTITY autosyncNotDownload.label "විශාල ලිපි බාගත නොකරන්න">
+<!ENTITY autosyncNotDownload.accesskey "m">
 <!ENTITY kb.label "kB ට වඩා විශාල ලිපි">
 <!ENTITY daysOld.label "ට වඩා පැරණි">
 <!ENTITY message.label "ලිපි">
@@ -21,7 +26,7 @@
 <!ENTITY retentionKeepRecent.accesskey "b">
 <!-- LOCALIZATION NOTE: Unhide with .keepUnreadOnly { display: -moz-box; } -->
 <!ENTITY retentionKeepUnreadHidden.label "කියවූ ලිපි සෑමවිටම මකන්න (කාළ සැකසුම් නොසලකන්න)">
-<!ENTITY retentionApplyToFlagged.label "Always keep starred messages">
+<!ENTITY retentionApplyToFlagged.label "සෑම විටම තරුයෙදූ ලිපි තබන්න">
 <!ENTITY retentionApplyToFlagged.accesskey "e">
 <!ENTITY nntpRemoveMsgBody.label "Remove bodies from messages more than">
 <!ENTITY nntpRemoveMsgBody.accesskey "o">
@@ -32,22 +37,20 @@
 <!ENTITY syncGroupTitle.label "ලිපි සම්මුහුර්තකරණය(Synchronizing)">
 <!ENTITY diskspaceGroupTitle.label "ඩිස්ක ධාරිතාව">
 
-<!--
-Entities below were automatically added by compare-locales,
- based on en-US entities.
--->
+<!-- LOCALIZATION NOTE: (ageAutosyncBefore.label, ageAutosyncMiddle.label, ageAutosyncAfter.label):
+  The entities ageAutosyncBefore.label, ageAutosyncMiddle.label, and ageAutosyncAfter.label appear
+  on a single line within the scope of useAutosync.ByAge as follows:
 
-<!ENTITY monthAgeInterval.label "Months">
-<!ENTITY ageAutosyncAfter.label "">
-<!ENTITY allAutosync.label "Synchronize all messages locally regardless of age">
-<!ENTITY doNotDownloadImap.label "To save disk space, downloading messages from the server and keeping local copies for offline use can be restricted by age or size.">
-<!ENTITY yearAgeInterval.label "Years">
-<!ENTITY weekAgeInterval.label "Weeks">
-<!ENTITY allAutosync.accesskey "c">
-<!ENTITY autosyncNotDownload.label "Don't download messages larger than">
-<!ENTITY ageAutosyncMiddle.label "">
-<!ENTITY autosyncNotDownload.accesskey "m">
-<!ENTITY ageAutosync.accesskey "z">
-<!ENTITY ageAutosyncBefore.label "Synchronize the most recent">
-<!ENTITY dayAgeInterval.label "Days">
-<!ENTITY doNotDownloadNntp.label "To save disk space, do not download for offline use:">
+  &ageAutosyncBefore.label [textbox for autosync value] &ageAutosyncMiddle.label; [dropdown for autosync interval] &ageAutosyncAfter.label;
+-->
+<!ENTITY allAutosync.label               "කාළය නොසලකා සියළු ලිපි සම්මුහුර්ත (Synchronize)  කරන්න">
+<!ENTITY allAutosync.accesskey           "c">
+<!ENTITY ageAutosyncBefore.label         "මෑතකාලීන ලිපි සම්මුහුර්ත (Synchronize) කරන්න">
+<!ENTITY ageAutosync.accesskey           "z">
+<!ENTITY ageAutosyncMiddle.label         "">
+<!ENTITY dayAgeInterval.label            "දින">
+<!ENTITY weekAgeInterval.label           "සති">
+<!ENTITY monthAgeInterval.label          "මාස">
+<!ENTITY yearAgeInterval.label           "අවුරුදු">
+<!ENTITY ageAutosyncAfter.label          "">
+

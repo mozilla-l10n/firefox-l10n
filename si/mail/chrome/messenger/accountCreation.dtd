@@ -8,7 +8,6 @@
 <!ENTITY password.accesskey              "P">
 <!ENTITY password.text                   "Optional, will only be used to validate the username">
 
-
 <!ENTITY incoming.label                  "එවුම් :">
 <!ENTITY outgoing.label                  "යැවුම්:">
 <!ENTITY noEncryption.label              "කිසිවක් නැත">
@@ -58,6 +57,7 @@
 <!ENTITY insecureServer.tooltip.title    "අවවාදයයි! මෙය අනාරක්ෂිත සේවාදායකයකි.">
 <!ENTITY insecureServer.tooltip.details  "වැඩි විස්තර සඳහා වෘත්තය ත්ලිත් තරන්න.">
 
+<!ENTITY insecureUnencrypted.description "Your email and authentication are sent unencrypted, so your password (and your message) could easily be read by other people. &brandShortName; will let you get to your mail, but you should contact your email provider about configuring the server with a secure connection.">
 <!ENTITY insecureSelfSigned.description  "The server uses a certificate that we can't trust, so we can't be sure that someone isn't intercepting the traffic between &brandShortName; and your server. &brandShortName; will let you get to your mail, but you should really get your email provider to configure the server with a trusted certificate.">
 <!ENTITY secureServer.description        "සුභපැතුම්! මෙය ආරක්ෂිත සේවාදායකයකි.">
 
@@ -78,7 +78,6 @@ Entities below were automatically added by compare-locales,
 <!ENTITY imapLong.label "IMAP (remote folders)">
 <!ENTITY auth.label "Authentication">
 <!ENTITY hostname.label "Server hostname">
-<!ENTITY insecureUnencrypted.description "Your email and authentication are sent unencrypted, so your password (and your message) could easily be read by other people. &brandShortName; will let you get to your mail, but you should contact your email provider about configuring the server with a secure connection.">
 <!ENTITY advancedSetup.accesskey "A">
 <!ENTITY manual-edit.label "Manual config">
 <!ENTITY ssl.label "SSL">

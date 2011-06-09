@@ -58,8 +58,8 @@
 <!ENTITY  useDefaultFontSansSerif.label           "Sans-serif">
 
 <!-- fonts in message -->
-<!ENTITY  fontControl.label                       "Font Control">
-<!ENTITY  useFixedWidthForPlainText.label         "Use fixed width font for plain text messages">
+<!ENTITY  fontControl.label                       "ෆොන්ට පාලනය">
+<!ENTITY  useFixedWidthForPlainText.label         "සාමාන්‍ය පාඨ ලිපි සඳහා ස්ථිර පළල ෆොන්ට (fixed width font) භාවිතා කරන්න">
 <!ENTITY  fixedWidth.accesskey                    "x">
 <!ENTITY  useDocumentFonts.label                  "වෙනත් අකුරු භාවිතා කිරීමට ලිපි බලැති කරන්න">
 <!ENTITY  useDocumentFonts.accesskey              "o">

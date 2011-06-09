@@ -62,7 +62,7 @@
 <!ENTITY bullets.label          "බුලට්">
 <!ENTITY numbers.label          "අංක">
 <!ENTITY italic.label           "ඇල">
-<!ENTITY outdent.label          "Outdent">
+<!ENTITY outdent.label          "ප්‍රතිඑබුම (Outdent)">
 <!ENTITY indent.label           "එබුම (Indent)">
 <!ENTITY underline.label        "යටින් ඉරි ඇඳි">
 

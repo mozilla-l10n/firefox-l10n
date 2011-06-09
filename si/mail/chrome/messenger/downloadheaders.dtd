@@ -35,7 +35,7 @@
 
  ***** END LICENSE BLOCK ***** -->
 
-<!ENTITY all.label          "සියළු ශීර්ෂයන් භාගත කිරීම">
+<!ENTITY all.label          "සියළු ශීර්ෂයන් බාගත කිරීම">
 <!ENTITY all.accesskey      "D">
 <!--LOCALIZATION NOTE (download.label):
     consider the download.label and headers.label as a single sentence

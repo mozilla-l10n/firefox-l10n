@@ -59,13 +59,13 @@ LOCALIZATION NOTE : Do not translate any of the occurances of the word
 <!ENTITY  window.macWidth         "45em">
 
 <!ENTITY importTitle.label        "&brandShortName; ලිපි ආයාත කිරීම් විශාරද">
-<!ENTITY importShortDesc.label    "Import Mail, Address Books, Settings, and Filters from other programs">
+<!ENTITY importShortDesc.label    "වෙනත් යෙඳුම් වෙතින් ලිපි, ලිපින පොත්, සැකසුම්, සහ පෙරහන් ආයාත කිරීම">
 
-<!ENTITY importDescription1.label "This wizard will import mail messages, address book entries, preferences, and/or filters from other mail programs and common address book formats into &brandShortName;.">
+<!ENTITY importDescription1.label "මෙම විශාරද ක්‍රියාවලිය වෙනත් යෙඳුම් වෙතින් ලිපි, ලිපින පොත්, සැකසුම්, සහ පෙරහන් &brandShortName; තුළට ආයාත කරයි.">
 
-<!ENTITY importDescription2.label "Once they have been imported, you will be able to access them from within &brandShortName; Mail and/or Address Book.">
+<!ENTITY importDescription2.label "ආයාත කළ පසු, ඒවා &brandShortName; තුළ ලිපි හා/හෝ ලිපින පොත් ලෙස භාවිතා තඛ හැකිය.">
 
-<!ENTITY selectDescription.label  "Please select the program from which you would like to import:">
+<!ENTITY selectDescription.label  "ඔබ ආයාත කරන්නේ කවර වැඩසටහනින්දැයි තෝරන්න :">
 <!ENTITY selectDescription.accesskey "P">
 
 <!ENTITY back.label               "&lt; පසුපසට">
@@ -77,3 +77,4 @@ LOCALIZATION NOTE : Do not translate any of the occurances of the word
 
 <!ENTITY title.label              "සිරස්තලය">
 <!ENTITY processing.label         "ආයාත කරමින් සිටියි...">
+

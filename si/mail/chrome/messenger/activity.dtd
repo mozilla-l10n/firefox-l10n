@@ -25,7 +25,7 @@ file names and tall enough to hint that there are more activities in the list --
 <!ENTITY cmd.close2.commandkey            "j">
 <!ENTITY cmd.close2Unix.commandkey        "y">
 <!ENTITY cmd.clearList.label              "ලැයිස්තුව හිස් කරන්න">
-<!ENTITY cmd.clearList.tooltip            "Removes completed, canceled, and failed items from the list">
+<!ENTITY cmd.clearList.tooltip            "සම්පූර්ණ කළ, අවලංගු කළ, සහ අසාර්ථක අයිතමයන් ලැයිස්තුවෙන් ඉවත් කරන්න">
 <!ENTITY cmd.clearList.accesskey          "C">
 <!ENTITY cmd.find.commandkey              "f">
 <!ENTITY cmd.search.commandkey            "k">

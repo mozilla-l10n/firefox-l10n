@@ -50,7 +50,7 @@
 <!ENTITY offlineMenu.accesskey "l">
 <!ENTITY offlineGoOfflineCmd.label "අසම්බන්ධිතව වැඩකරන්න">
 <!ENTITY offlineGoOfflineCmd.accesskey "w">
-<!ENTITY synchronizeOfflineCmd.label "Download/Sync Now…">
+<!ENTITY synchronizeOfflineCmd.label "බාගත/සම්මුහුර්තකරණය දැන්…">
 <!ENTITY synchronizeOfflineCmd.accesskey "S">
 <!ENTITY settingsOfflineCmd.label "අසම්බන්ධිත සැකසුම්...">
 <!ENTITY settingsOfflineCmd.accesskey "e">
@@ -130,6 +130,8 @@
 
 <!ENTITY folderView.label "ෆෝල්ඩර">
 <!ENTITY folderView.accesskey "F">
+<!ENTITY unifiedFolders.label "ඒකාබද්ධ">
+<!ENTITY unifiedFolders.accesskey "n">
 <!ENTITY allFolders.label "සියල්ල">
 <!ENTITY allFolders.accesskey "A">
 <!ENTITY unreadFolders.label "නොකියවූ">
@@ -194,7 +196,7 @@
 <!ENTITY collapseAllThreadsCmd.key "\">
 <!ENTITY unreadMsgsCmd.label "නොකියවූ">
 <!ENTITY unreadMsgsCmd.accesskey "U">
-<!ENTITY threadsWithUnreadCmd.label "Threads with Unread">
+<!ENTITY threadsWithUnreadCmd.label "නොකියවූ ලිපි ඇති සබැඳි">
 <!ENTITY threadsWithUnreadCmd.accesskey "T">
 <!ENTITY watchedThreadsWithUnreadCmd.label "Watched Threads with Unread">
 <!ENTITY watchedThreadsWithUnreadCmd.accesskey "W">
@@ -221,7 +223,7 @@
 <!ENTITY viewFeedWebPage.accesskey "W">
 <!ENTITY viewFeedSummary.label "සාරාංශය">
 <!ENTITY viewFeedSummary.accesskey "m">
-<!ENTITY viewFeedSummaryFeedPropsPref.label "පෙරනිමි සැකසුම (Default Format)">
+<!ENTITY viewFeedSummaryFeedPropsPref.label "පෙරනිමි සැකසුම">
 <!ENTITY viewFeedSummaryFeedPropsPref.accesskey "D">
 
 <!ENTITY viewAttachmentsInlineCmd.label "ඇමුණුම් ලිපිය තුළම පෙන්වන්න">
@@ -409,11 +411,14 @@ you can use these alternative items. Otherwise, their values should be empty.  -
 <!ENTITY openMessageWindowCmd.label "ලිපිය විවෘත කරන්න">
 <!ENTITY openMessageWindowCmd.accesskey "O">
 <!ENTITY openMessageWindowCmd.key "o">
+<!ENTITY openConversationCmd.label "Open in Conversation">
+<!ENTITY openConversationCmd.accesskey "s">
+<!ENTITY openConversationCmd.key "o">
 <!ENTITY openFeedMessage.label "Open Feed Message">
 <!ENTITY openFeedMessage.accesskey "O">
-<!ENTITY openFeedWebPageInWindow.label "Web Page in New Window">
+<!ENTITY openFeedWebPageInWindow.label "වෙබ් පිටුව නව කවුළුවක">
 <!ENTITY openFeedWebPageInWindow.accesskey "W">
-<!ENTITY openFeedSummaryInWindow.label "Summary in New Window">
+<!ENTITY openFeedSummaryInWindow.label "සාරාංශය නව කවුළුවක">
 <!ENTITY openFeedSummaryInWindow.accesskey "S">
 <!ENTITY openFeedWebPageInMP.label "Toggle Web Page and Summary in Message Pane">
 <!ENTITY openFeedWebPageInMP.accesskey "T">
@@ -428,6 +433,9 @@ you can use these alternative items. Otherwise, their values should be empty.  -
 <!ENTITY addons.accesskey "d">
 <!ENTITY activitymanager.label "ක්‍රියාකාරීත්ව සටහන">
 <!ENTITY activitymanager.accesskey "a">
+<!ENTITY savedFiles.label "සුරැකූ ගොනු">
+<!ENTITY savedFiles.accesskey "l">
+<!ENTITY savedFiles.key "j">
 <!ENTITY messengerCmd.label "ලිපි සහ පුවත්සමූහ">
 <!ENTITY messengerCmd.accesskey "m">
 <!ENTITY addressBookCmd.label "ලිපින පොත">
@@ -456,6 +464,7 @@ you can use these alternative items. Otherwise, their values should be empty.  -
 <!ENTITY replyListButton.label "ලැයිස්තුවට පිළිතුරු">
 <!ENTITY forwardButton.label "යොමු කරන්න">
 <!ENTITY fileButton.label "ගොනු">
+<!ENTITY archiveButton.label "සංරක්ෂණය">
 <!ENTITY nextButton.label "ඊළඟ">
 <!ENTITY previousButton.label "පෙර">
 <!ENTITY backButton1.label "පසුපසට">
@@ -487,6 +496,7 @@ you can use these alternative items. Otherwise, their values should be empty.  -
 <!ENTITY replyListButton.tooltip "ලිපි සමූහයට (mailing list) පිළිතුරු සැපයීමට">
 <!ENTITY forwardButton.tooltip "තෝරාගත් ලිපිය යොමු කිරීමට">
 <!ENTITY fileButton.tooltip "තෝරාගත් ලිපිය ගොනුගත කරන්න">
+<!ENTITY archiveButton.tooltip "තෝරාගත් ලිපි සංරක්ෂණය කරන්න">
 <!ENTITY nextButton.tooltip "මීලඟ නොකියවූ ලිපියට">
 <!ENTITY previousButton.tooltip "පෙර නොකියවූ ලිපියට">
 <!ENTITY goForwardButton.tooltip "ඉදිරි ලිපියට">
@@ -609,8 +619,12 @@ you can use these alternative items. Otherwise, their values should be empty.  -
 <!ENTITY contextOpenNewWindow.accesskey "W">
 <!ENTITY contextOpenNewTab.label "ලිපිය නව ටැබයක විවෘත කරන්න">
 <!ENTITY contextOpenNewTab.accesskey "T">
+<!ENTITY contextOpenConversation.label "ලිපිය සංවාදයක විවෘත කරන්න">
+<!ENTITY contextOpenConversation.accesskey "n">
 <!ENTITY contextEditAsNew.label "නව ලිපියක් සේ සකසන්න...">
 <!ENTITY contextEditAsNew.accesskey "E">
+<!ENTITY contextArchive.label "Archive">
+<!ENTITY contextArchive.accesskey "h">
 <!ENTITY contextReplySender.label "එවූ තැනැත්තාට පිළිතුරු">
 <!ENTITY contextReplySender.accesskey "R">
 <!ENTITY contextReplyNewsgroup.label "පුවත්සමූහයට පිළිතුරු">
@@ -636,6 +650,51 @@ you can use these alternative items. Otherwise, their values should be empty.  -
 <!ENTITY contextPrintPreview.label "මුද්‍රණය පෙර දැක්ම">
 <!ENTITY contextPrintPreview.accesskey "v">
 
+<!-- Thread Pane Column Picker -->
+<!-- LOCALIZATION NOTE (columnPicker.resetToInbox.label):
+   This option in the thread pane column picker causes us to reset the
+   customizations for the thread pane columns in this folder to their default.
+  -->
+<!ENTITY columnPicker.resetToInbox.label "Reset columns to default">
+<!-- LOCALIZATION NOTE (columnPicker.applyTo.label):
+   This option in the thread pane column picker pops up a sub-menu containing
+   the "columnPicker.applyToFolder.label" and
+   "columnPicker.applyToFolderAndChildren.label" options.  This item indicates
+   a desire to apply the currently displayed set of columns to some other
+   folder(s).  The sub-menu items indicate whether we want to apply it to just
+   a folder or also its children.
+  -->
+<!ENTITY columnPicker.applyTo.label "Apply columns to…">
+<!-- LOCALIZATION NOTE (columnPicker.applyToFolder.label):
+   This option in the thread pane column picker is found on a sub-menu beneath
+   the "columnPicker.applyTo.label" alongside
+   "columnPicker.applyToFolderAndChildren.label".  It indicates a desire to
+   apply the currently display thread pane column settings to a single folder
+   that the user selects using the same widget as the move to/copy to
+   mechanism (via a series of popups).
+  -->
+<!ENTITY columnPicker.applyToFolder.label "ෆෝල්ඩරය…">
+<!-- LOCALIZATION NOTE (columnPicker.applyToFolderAndChildren.label):
+   This option in the thread pane column picker is found on a sub-menu beneath
+   the "columnPicker.applyTo.label" alongside
+   "columnPicker.applyToFolder.label".  It indicates a desire to
+   apply the currently display thread pane column settings to a folder and all
+   of its descendents.  The user selects the folder using the same widget as the
+   move to/copy to mechanism (via a series of popups).
+  -->
+<!ENTITY columnPicker.applyToFolderAndChildren.label "Folder and its children…">
+<!-- LOCALIZATION NOTE (columnPicker.thisFolder.label):
+   This is used in the folder selection widget for the
+   "columnPicker.applyToFolder.label" and
+   "columnPicker.applyToFolderAndChildren.label" menu options.  Whenever
+   a folder has children, it results in a menu popup; the first menu item
+   in that popup is given this label to indicate that that folder should be
+   selected.  For example, if folder "A" has two children, "B" and "C", then
+   when the user hovers over "A", a new popup menu will be displayed whose
+   items are "This folder", "B", and "C".  This is the equivalent of the
+   "File here" option for the move to/copy to widge.t
+  -->
+<!ENTITY columnPicker.thisFolder.label "මෙම ෆෝල්ඩරය">
 <!-- Media (video/audio) controls -->
 <!ENTITY contextPlay.label "වාදනය කරන්න">
 <!ENTITY contextPlay.accesskey "P">
@@ -662,7 +721,33 @@ you can use these alternative items. Otherwise, their values should be empty.  -
 
 
 <!-- Quick Search Bar -->
+<!-- LOCALIZATION NOTE (quickSearchCmd.key):
+     This is actually the key used for the global message search box; we have
+     not changed 
+     -->
 <!ENTITY quickSearchCmd.key "k">
+<!-- LOCALIZATION NOTE (searchAllMessages.label.base):
+     This is the base of the empty text for the global search box.  We replace
+     #1 with the contents of the appropriate
+     searchAllMessages.keyLabel2.* value for the platform.
+     The goal is to convey to the user that typing in the box will allow them
+     to search for messages globally and that there is a hotkey they can press
+     to get to the box faster.  If the global indexer is disabled, the search
+     box will be collapsed and the user will never see this message.
+     -->
+<!ENTITY searchAllMessages.label.base "සියළු ලිපි සොයන්න… #1">
+<!-- LOCALIZATION NOTE (searchAllMessages.keyLabel.nonmac):
+     The description of the key-binding to get into the global search box on
+     windows and linux (which use the control key).  We use the key defined in
+     the quickSearchCmd.key entity defined above, the letter should match it.
+     -->
+<!ENTITY searchAllMessages.keyLabel2.nonmac "&lt;Ctrl+K&gt;">
+<!-- LOCALIZATION NOTE (searchAllMessages.keyLabel.mac):
+     The description of the key-binding to get into the global search box on mac
+     systems.  We use the key defined in the quickSearchCmd.key entity defined
+     above, the letter should match it.
+     -->
+<!ENTITY searchAllMessages.keyLabel2.mac "&lt;&#x2318;K&gt;">
 
 <!-- Message Header Context Menu -->
 <!ENTITY AddToAddressBook.label "ලිපින පොතට එක්කරන්න...">
@@ -673,8 +758,16 @@ you can use these alternative items. Otherwise, their values should be empty.  -
 <!ENTITY EditContact.accesskey "E">
 <!ENTITY ViewContact.label "ඇඳුනුම් පෙන්වීම">
 <!ENTITY ViewContact.accesskey "V">
+<!ENTITY SubscribeToNewsgroup.label "පුවත්සමූහයට දායකත්වය ලබාගන්න">
+<!ENTITY SubscribeToNewsgroup.accesskey "N">
+<!ENTITY SendMessageTo.label "මෙයට ලිපියක් ලියන්න">
+<!ENTITY SendMessageTo.accesskey "s">
 <!ENTITY CopyEmailAddress.label "ලිපිනය පිටපත් කරන්න">
 <!ENTITY CopyEmailAddress.accesskey "C">
+<!ENTITY CopyNewsgroupName.label "පුවත්සමූහ නම කොපි කරන්න">
+<!ENTITY CopyNewsgroupName.accesskey "C">
+<!ENTITY CopyNewsgroupURL.label "පුවත්සමූහ  URL කොපි කරන්න">
+<!ENTITY CopyNewsgroupURL.accesskey "U">
 <!ENTITY CreateFilterFrom.label "ලිපියෙන් පෙරහනක් සාදන්න...">
 <!ENTITY CreateFilterFrom.accesskey "F">
 <!ENTITY reportPhishingURL.label "Email Scam වාර්තා කරන්න">
@@ -687,8 +780,18 @@ you can use these alternative items. Otherwise, their values should be empty.  -
 <!ENTITY saveImageAsCmd.accesskey "v">
 <!ENTITY copyLinkCmd.label "ඈඳුම පිටපත් කරන්න">
 <!ENTITY copyLinkCmd.accesskey "C">
+<!ENTITY copyImageAllCmd.label "රූපය පිටපත් කරන්න">
+<!ENTITY copyImageAllCmd.accesskey "I">
 <!ENTITY copyEmailCmd.label "ලිපිනය පිටපත් කරන්න">
 <!ENTITY copyEmailCmd.accesskey "E">
+<!ENTITY stopCmd.label "නවතන්න">
+<!ENTITY stopCmd.accesskey "S">
+<!ENTITY reloadCmd.label "පූරණය">
+<!ENTITY reloadCmd.accesskey "R">
+<!ENTITY openInBrowser.label "බ්රව්සරය තුළ විවෘත කරන්න">
+<!ENTITY openInBrowser.accesskey "O">
+<!ENTITY openLinkInBrowser.label "ඈඳුම බ්රව්සරය තුළ විවෘත කරන්න">
+<!ENTITY openLinkInBrowser.accesskey "O">
 
 <!-- Statusbar -->
 <!ENTITY statusText.label "කළා">
@@ -711,7 +814,7 @@ you can use these alternative items. Otherwise, their values should be empty.  -
 <!ENTITY hideOtherAppsCmdMac.commandkey "H">
 <!ENTITY hideOtherAppsCmdMac.modifiers  "accel,alt">
 <!ENTITY showAllAppsCmdMac.label        "සියල්ල පෙන්වන්න">
-<!-- Message Header Button Box (to show hidden email addresses) -->
+
 
 
 <!--
@@ -719,68 +822,28 @@ Entities below were automatically added by compare-locales,
  based on en-US entities.
 -->
 
-<!ENTITY spellAddDictionaries.label "Add Dictionaries…">
-<!ENTITY reloadCmd.label "Reload">
-<!ENTITY searchAllMessages.keyLabel2.nonmac "&lt;Ctrl+K&gt;">
-<!ENTITY copyImageAllCmd.label "Copy Image">
-<!ENTITY undoCloseTabCmd.commandkey "T">
-<!ENTITY contextArchive.label "Archive">
-<!ENTITY searchAllMessages.label.base "Search all messages… #1">
-<!ENTITY openConversationCmd.key "o">
-<!ENTITY archiveButton.tooltip "Archive selected messages">
-<!ENTITY markAsUnreadCmd.accesskey "U">
-<!ENTITY contextOpenConversation.label "Open Message in Conversation">
-<!ENTITY closeOtherTabsCmd2.label "Close Other Tabs">
-<!ENTITY stopCmd.accesskey "S">
+<!ENTITY spellAddDictionaries.label "ශබ්දකෝෂ එක් කරන්න…">
+<!ENTITY mdnBarIgnoreButton2.label "නොසලකා හරින්න">
+<!ENTITY closeOtherTabsCmd2.label "අනෙක් ටැබ් වසන්න">
 <!ENTITY moveToNewWindow.accesskey "W">
-<!ENTITY recentlyClosedTabsCmd.label "Recently Closed Tabs">
-<!ENTITY openConversationCmd.accesskey "s">
-<!ENTITY goRecentlyClosedTabs.label "Recently Closed Tabs">
+<!ENTITY recentlyClosedTabsCmd.label "මෑතදී වැසූ ටැබ්">
+<!ENTITY goRecentlyClosedTabs.label "මෑතදී වැසූ ටැබ්">
 <!ENTITY mdnBarSendButton2.label "Send Return Receipt">
-<!ENTITY columnPicker.applyToFolder.label "Folder…">
-<!ENTITY copyImageAllCmd.accesskey "I">
 <!ENTITY spellAddDictionaries.accesskey "A">
-<!ENTITY searchAllMessages.keyLabel2.mac "&lt;&#x2318;K&gt;">
-<!ENTITY SendMessageTo.label "Compose Message To">
+<!ENTITY moveToNewWindow.label "නව නවුළුවකට යන්න">
 <!ENTITY folderMenu.accesskey "O">
 <!ENTITY thisFolder.accesskey "F">
-<!ENTITY CopyNewsgroupURL.label "Copy Newsgroup URL">
 <!ENTITY closeTabCmd2.accesskey "C">
-<!ENTITY savedFiles.accesskey "l">
-<!ENTITY closeTabCmd2.label "Close Tab">
-<!ENTITY mdnBarIgnoreButton2.label "Ignore">
-<!ENTITY SubscribeToNewsgroup.accesskey "N">
-<!ENTITY columnPicker.resetToInbox.label "Reset columns to default">
-<!ENTITY openInBrowser.accesskey "O">
-<!ENTITY thisFolder.label "This Folder">
-<!ENTITY SendMessageTo.accesskey "s">
-<!ENTITY CopyNewsgroupName.accesskey "C">
-<!ENTITY openLinkInBrowser.accesskey "O">
+<!ENTITY closeTabCmd2.label "ටැබ් වසන්න">
+<!ENTITY thisFolder.label "මෙම ෆෝල්ඩරය">
+<!ENTITY markAsUnreadCmd.accesskey "U">
 <!ENTITY disablePhishingWarning1.label "Disable scam detection for all messages">
-<!ENTITY openLinkInBrowser.label "Open Link In Browser">
 <!ENTITY closeOtherTabsCmd2.accesskey "o">
 <!ENTITY mdnBarIgnoreButton2.accesskey "I">
-<!ENTITY stopCmd.label "Stop">
-<!ENTITY contextOpenConversation.accesskey "n">
-<!ENTITY columnPicker.thisFolder.label "This folder">
-<!ENTITY CopyNewsgroupURL.accesskey "U">
-<!ENTITY columnPicker.applyTo.label "Apply columns to…">
-<!ENTITY unifiedFolders.label "Unified">
-<!ENTITY unifiedFolders.accesskey "n">
-<!ENTITY openInBrowser.label "Open In Browser">
-<!ENTITY folderMenu.label "Folder">
-<!ENTITY glodaSearchBar.placeholder "Search messages…">
-<!ENTITY mdnBarSendButton2.accesskey "S">
-<!ENTITY columnPicker.applyToFolderAndChildren.label "Folder and its children…">
-<!ENTITY savedFiles.label "Saved Files">
-<!ENTITY archiveButton.label "Archive">
-<!ENTITY moveToNewWindow.label "Move to New Window">
-<!ENTITY savedFiles.key "j">
-<!ENTITY reloadCmd.accesskey "R">
-<!ENTITY SubscribeToNewsgroup.label "Subscribe to Newsgroup">
-<!ENTITY toggleReadCmd.key "m">
 <!ENTITY recentlyClosedTabsCmd.accesskey "R">
-<!ENTITY contextArchive.accesskey "h">
-<!ENTITY openConversationCmd.label "Open in Conversation">
-<!ENTITY markAsUnreadCmd.label "As Unread">
-<!ENTITY CopyNewsgroupName.label "Copy Newsgroup Name">
+<!ENTITY folderMenu.label "ෆෝල්ඩරය">
+<!ENTITY glodaSearchBar.placeholder "ලිපි සොයන්න…">
+<!ENTITY mdnBarSendButton2.accesskey "S">
+<!ENTITY undoCloseTabCmd.commandkey "T">
+<!ENTITY toggleReadCmd.key "m">
+<!ENTITY markAsUnreadCmd.label "නොකියවූ ලෙස">

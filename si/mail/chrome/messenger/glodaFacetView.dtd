@@ -1,13 +1,16 @@
 <!-- LOCALIZATION NOTE (glodaFacetView.filters.label): Label at the top of the
      faceting sidebar.  Serves as a header both for the checkboxes under it as
      well for labeled facets with multiple options. -->
-<!ENTITY glodaFacetView.filters.label "Filter by:">
+<!ENTITY glodaFacetView.filters.label "පෙරහන්">
 
-<!--
-Entities below were automatically added by compare-locales,
- based on en-US entities.
--->
+<!-- LOCALIZATION NOTE (glodaFacetView.loading.label): Label that appears when
+     the search results take a long time to appear. -->
+<!ENTITY glodaFacetView.loading.label "සොයමින් සිටියි &#8230;">
 
-<!ENTITY glodaFacetView.loading.label "Searching&#8230;">
-<!ENTITY glodaFacetView.empty.label "No messages match your search">
-<!ENTITY glodaFacetView.pageMore.label "More &#187;">
+<!-- LOCALIZATION NOTE (glodaFacetView.empty.label): Label that appears when
+     there are no results that match the search query. -->
+<!ENTITY glodaFacetView.empty.label "ඔබගේ සෙවුමට ගැලපෙන ලිපි නැත">
+
+<!-- LOCALIZATION NOTE (glodaFacetView.pageMore.label): Label at the bottom
+     of the results list to show more hits. -->
+<!ENTITY glodaFacetView.pageMore.label "තවත් &#187;">
