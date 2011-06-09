@@ -171,6 +171,10 @@ tentar mais tarde.</li>
 <!ENTITY cspFrameAncestorBlocked.title "Bloqueado pela política de segurança de conteúdo">
 <!ENTITY cspFrameAncestorBlocked.longDesc "<p>O &brandShortName; preveniu esta página de carregar porque a página tem uma política de segurança de conteúdos que não permite o carregamento.</p>">
 
+<!ENTITY corruptedContentError.title "Erro de conteúdo corrompido">
+<!ENTITY corruptedContentError.longDesc "<p>A página que está a tentar visualizar não pode ser apresentada porque foi detectado um erro na transmissão de dados.</p><ul><li>Por favor, contacte o dono do sítio web para o informar sobre este problema.</li></ul>">
+
+
 <!ENTITY securityOverride.linkText "Ou pode adicionar uma excepção...">
 <!ENTITY securityOverride.getMeOutOfHereButton "Tirem-me daqui!">
 <!ENTITY securityOverride.exceptionButtonLabel "Adicionar excepção...">
