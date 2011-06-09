@@ -3,13 +3,13 @@
 
 <!ENTITY style.label                      "විලාසය:">
 <!ENTITY style.accesskey                  "y">
-<!ENTITY regularStyle.label               "Regular">
+<!ENTITY regularStyle.label               "සාමාන්‍ය">
 <!ENTITY bold.label                       "තද">
 <!ENTITY italic.label                     "ඇල">
 <!ENTITY boldItalic.label                 "තද ඇල">
 <!ENTITY size.label                       "විශාලත්වය:">
 <!ENTITY size.accesskey                   "S">
-<!ENTITY regularSize.label                "Regular">
+<!ENTITY regularSize.label                "සාමාන්‍ය">
 <!ENTITY bigger.label                     "වඩා විශාල">
 <!ENTITY smaller.label                    "වඩා කුඩා">
 <!ENTITY color.label                      "වර්ණය:">

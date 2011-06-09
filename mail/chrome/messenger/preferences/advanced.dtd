@@ -7,8 +7,8 @@
 <!-- General Settings -->
 <!ENTITY enableGlodaSearch.label       "Enable Global Search and Indexer">
 <!ENTITY enableGlodaSearch.accesskey   "i">
-<!ENTITY systemIntegration.label       "System Integration">
-<!ENTITY searchIntegration.label       "Allow &searchIntegration.engineName; to search messages">
+<!ENTITY systemIntegration.label       "පද්ධති ඒකාබද්ධ කිරීම">
+<!ENTITY searchIntegration.label       "ලිපි සෙවීමට &searchIntegration.engineName; ට ඉඩදෙන්න">
 <!ENTITY searchIntegration.accesskey   "S">
 <!ENTITY alwaysCheckDefault.label       "සෑමවිටම ආරම්භයේදී, තණ්ඩබර්ඩ් පෙරනිමි වි.තැ. යෙදුමදැයි (default mail client) පරීක්ෂා කරන්න">
 <!ENTITY alwaysCheckDefault.accesskey  "l">
@@ -33,7 +33,6 @@
 <!ENTITY reuseExpRadio0.accesskey      "i">
 <!ENTITY reuseExpRadio1.label          "පවතින ලිපි කවුළුවක් තුළ">
 <!ENTITY reuseExpRadio1.accesskey      "x">
-
 <!ENTITY configEditDesc.label          "වැඩිමනත් වින්‍යාස කිරීම්">
 <!ENTITY configEdit.label              "Config Editor...">
 <!ENTITY configEdit.accesskey          "g">

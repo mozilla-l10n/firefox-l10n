@@ -16,12 +16,5 @@
 <!ENTITY connectionSecurityType-3.label "SSL/TLS">
 <!ENTITY smtpEditTitle.label "SMTP සේවාදායකය">
 <!ENTITY serverPortDefault.label "පෙරනිමි (Default):">
-
-
-<!--
-Entities below were automatically added by compare-locales,
- based on en-US entities.
--->
-
+<!ENTITY authMethod.label "සත්‍යාපන ක්‍රමය:">
 <!ENTITY authMethod.accesskey "i">
-<!ENTITY authMethod.label "Authentication method:">

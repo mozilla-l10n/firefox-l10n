@@ -66,6 +66,7 @@
 <!ENTITY pasteCmd.key "V">
 <!ENTITY pasteCmd.accesskey "P">
 <!ENTITY pasteNoFormattingCmd.key "V">
+<!ENTITY pasteAsQuotationCmd.key "o">
 <!ENTITY editRewrapCmd.label "Rewrap">
 <!ENTITY editRewrapCmd.key "R">
 <!ENTITY editRewrapCmd.accesskey "w">
@@ -251,6 +252,8 @@
 <!ENTITY openAttachment.accesskey "O">
 <!ENTITY delete.label "මකන්න">
 <!ENTITY delete.accesskey "D">
+<!ENTITY removeAttachment.label "Remove Attachment">
+<!ENTITY removeAttachment.accesskey "M">
 <!ENTITY renameAttachment.label "යළි නම්-කරන්න…">
 <!ENTITY renameAttachment.accesskey "R">
 <!ENTITY selectAll.label "සියල්ල තෝරන්න">
@@ -271,9 +274,6 @@ Entities below were automatically added by compare-locales,
 -->
 
 <!ENTITY spellAddDictionaries.label "Add Dictionaries…">
-<!ENTITY spellAddDictionaries.accesskey "A">
-<!ENTITY removeAttachment.label "Remove Attachment">
-<!ENTITY removeAttachment.accesskey "M">
 <!ENTITY headersSpace.style "width: 9em;">
-<!ENTITY pasteAsQuotationCmd.key "o">
+<!ENTITY spellAddDictionaries.accesskey "A">
 <!ENTITY spellingButton.tooltip "Check spelling of selection or entire message">

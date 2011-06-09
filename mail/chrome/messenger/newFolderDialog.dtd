@@ -46,12 +46,5 @@
 <!ENTITY folderRestriction2.label   "ඔබගේ නව ෆෝල්ඩරයට දැරිය හැක්කේ:">
 <!ENTITY foldersOnly.label          "ෆෝල්ඩර පමණි">
 <!ENTITY messagesOnly.label         "ලිපි පමණි">
-
-
-<!--
-Entities below were automatically added by compare-locales,
- based on en-US entities.
--->
-
-<!ENTITY accept.accesskey "r">
-<!ENTITY accept.label "Create Folder">
+<!ENTITY accept.label               "ෆෝල්ඩරයක් සාදන්න">
+<!ENTITY accept.accesskey           "r">

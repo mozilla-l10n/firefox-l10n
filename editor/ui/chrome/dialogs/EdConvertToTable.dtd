@@ -44,5 +44,5 @@
 <!ENTITY spaceRadio.label      "හිඩැස (Space)">
 <!ENTITY otherRadio.label      "වෙනත් අකුරක්:">
 <!ENTITY deleteCharCheck.label "වෙන්කරන අකුර මකන්න">
-<!ENTITY collapseSpaces.label  "අතිරේක හිඩැස් නොසලකා හරින්න">
+<!ENTITY collapseSpaces.label  "අතිරේක හිඩස් නොසලකා හරින්න">
 <!ENTITY collapseSpaces.tooltip "එකළඟ පිහිටි හිඩස් එක් වෙන්කරන අකුරක් බවට හරවන්න">

@@ -52,8 +52,8 @@
 <!ENTITY sendOptions.label                     "යැවීම් විකල්ප...">
 <!ENTITY sendOptions.accesskey                 "S">
 
-<!ENTITY attachmentReminder.label              "Check for missing attachments">
+<!ENTITY attachmentReminder.label              "මඟහැරුනු ඇමුණුම් සඳහා පරීක්ෂා කරන්න">
 <!ENTITY attachmentReminder.accesskey          "m">
-<!ENTITY attachmentReminderOptions.label       "Keywords…">
+<!ENTITY attachmentReminderOptions.label       "මූලපද (Keywords)…">
 <!ENTITY attachmentReminderOptions.accesskey   "K">
 

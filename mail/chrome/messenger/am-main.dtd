@@ -13,11 +13,11 @@
 <!ENTITY replyTo.accesskey "s">
 <!ENTITY organization.label "ආයතනය:">
 <!ENTITY organization.accesskey "O">
-<!ENTITY signatureText.label "Signature text:">
+<!ENTITY signatureText.label "අත්සන් පාඨය:">
 <!ENTITY signatureText.accesskey "x">
-<!ENTITY signatureHtml.label "Use HTML (e.g., &lt;b&gt;bold&lt;/b&gt;)">
+<!ENTITY signatureHtml.label "HTML භාවිතා කරන්න (e.g., &lt;b&gt;bold&lt;/b&gt;)">
 <!ENTITY signatureHtml.accesskey "L">
-<!ENTITY signatureFile.label "Attach the signature from a file instead (text, HTML, or image):">
+<!ENTITY signatureFile.label "අත්සන ගොනුවකින් අමුණන්න (text, HTML, or image):">
 <!ENTITY signatureFile.accesskey "t">
 <!ENTITY edit.label "සැකසුම්...">
 <!ENTITY choose.label "තෝරන්න...">

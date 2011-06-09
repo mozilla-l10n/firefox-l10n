@@ -1,4 +1,4 @@
-<!ENTITY junkSettings.label "නිසරු ලිපි සැකසම්">
+<!ENTITY junkSettings.label "නිසරු ලිපි සැකසුම්">
 <!ENTITY trainingWarning.label "If enabled, you must first train &brandShortName; to identify junk mail by using the Junk toolbar button to mark messages as junk or not. You need to identify both junk and non junk messages.">
 <!ENTITY level.label "Enable adaptive junk mail controls for this account">
 <!ENTITY level.accesskey "E">
@@ -16,5 +16,5 @@
 <!ENTITY whitelist.label "එවන්නා මෙතුළ සිටී නම් ලිපි නිසරු සේ සළකුණු නොකරන්න: ">
 <!ENTITY whitelist.accesskey "D">
 
-<!ENTITY ispHeaders.label "Trust junk mail headers set by: ">
+<!ENTITY ispHeaders.label "මෙමඟින් සැකසූ නිසරු ලිපි ශීර්ෂයන් විශ්වාස කරන්න: ">
 <!ENTITY ispHeaders.accesskey "T">

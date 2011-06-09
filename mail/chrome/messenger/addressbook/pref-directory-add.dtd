@@ -57,11 +57,11 @@
 <!ENTITY searchFilter.accesskey            "f">
 <!ENTITY scope.label                       "විෂයය පථය: ">
 <!ENTITY scope.accesskey                   "c">
-<!ENTITY scopeOneLevel.label               "One Level">
+<!ENTITY scopeOneLevel.label               "එක් මට්ටමක්">
 <!ENTITY scopeOneLevel.accesskey           "L">
 <!ENTITY scopeSubtree.label                "Subtree">
 <!ENTITY scopeSubtree.accesskey            "S">
-<!ENTITY return.label                      "Don't return more than">
+<!ENTITY return.label                      "මෙම අගයට වඩා නොපෙන්වන්න">
 <!ENTITY return.accesskey                  "r">
 <!ENTITY results.label                     "ප්‍රතිඵල">
 <!ENTITY offlineText.label                 "You can download a local copy of this directory so that it is available for use when you are working offline.">

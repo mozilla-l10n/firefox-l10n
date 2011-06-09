@@ -1,3 +1,6 @@
+<!ENTITY editContactPanelDeleteContact.label "මකන්න">
+<!ENTITY editContactPanelDeleteContact.accesskey "l">
+
 <!ENTITY editContactName.label "නම:">
 <!ENTITY editContactName.accesskey "N">
 
@@ -16,8 +19,6 @@ Entities below were automatically added by compare-locales,
  based on en-US entities.
 -->
 
-<!ENTITY editContactPanelDeleteContact.accesskey "l">
-<!ENTITY editContactPanelDeleteContact.label "Delete">
-<!ENTITY editContactAddressBook.label "Address Book:">
 <!ENTITY editContactAddressBook.accesskey "A">
+<!ENTITY editContactAddressBook.label "Address Book:">
 <!ENTITY contactMoveDisabledWarning.description "You can't change the address book because the contact is in a mailing list.">

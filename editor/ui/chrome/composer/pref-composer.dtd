@@ -19,7 +19,7 @@
 <!ENTITY  showPublishDialog.accesskey   "A">
 
 <!ENTITY  composerEditing.label         "සැකසුමි">
-<!ENTITY  maintainStructure.label       "Maintain table layout when inserting or deleting cells">
+<!ENTITY  maintainStructure.label       "කොටු (cells) ඇතුළු කිරීමේදී හා මැකීමේදී වගුවේ සැකැස්ම (layout) පවත්වා ගන්න">
 <!ENTITY  maintainStructure.tooltip     "Preserves table's rectangular shape by automatically adding cells after inserting or deleting cells">
 <!ENTITY  maintainStructure.accesskey   "M">
 <!ENTITY  useCSS.label                  "Use CSS styles instead of HTML elements and attributes">

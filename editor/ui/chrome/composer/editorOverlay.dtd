@@ -93,6 +93,7 @@
      This accesskey must be in both strings -->
 <!ENTITY pasteAsQuotationCmd.label "උපුටා ගැනීමක් සේ අලවන්න">
 <!ENTITY pasteAsQuotationCmd.accesskey "Q">
+<!ENTITY pasteAsQuotationCmd.key "o">
 <!ENTITY findCmd.label "සෙවීම සහ ප්‍රතිස්ථාපනය කිරීම...">
 <!ENTITY findCmd.accesskey "F">
 <!ENTITY findCmd.key "F">
@@ -149,7 +150,6 @@
 <!ENTITY redoCmd.accesskey "R">
 <!ENTITY cutCmd.label "කපන්න">
 <!ENTITY cutCmd.accesskey "t">
-
 <!ENTITY copyCmd.label "කොපි කරන්න">
 <!ENTITY copyCmd.accesskey "C">
 <!ENTITY pasteCmd.label "අලවන්න">
@@ -324,7 +324,6 @@
 <!ENTITY decreaseIndent.label "එබුම (Indent) අඩු කරන්න">
 <!ENTITY decreaseIndent.accesskey "D">
 <!ENTITY decreaseIndent.key "[">
-
 <!ENTITY colorsAndBackground.label "පිටු වර්ණ සහ පසුබිම...">
 <!ENTITY colorsAndBackground.accesskey "u">
 <!-- Table Menu -->
@@ -393,7 +392,8 @@
 
 
 <!-- Toolbar-only items -->
-<!ENTITY menuBar.tooltip "මෙනු තෘරුව">
+<!ENTITY menuBar.tooltip "මෙනු තීරුව">
+<!ENTITY newToolbarCmd.label "නව">
 <!ENTITY formatToolbar.tooltip "හැඩතල මෙවලම්තීරුව">
 <!ENTITY newToolbarCmd.tooltip "නව සකසන පිටුවක් සෑදීම">
 <!ENTITY openToolbarCmd.label "විවෘත කරන්න">
@@ -436,8 +436,7 @@
 <!ENTITY alignLeftButton.tooltip "වම් මාර්ජීනය ඔස්සේ පාඨ පෙළගස්සන්න">
 <!ENTITY alignCenterButton.tooltip "පාඨ පෙළගැස්ම හරි මැදින්">
 <!ENTITY alignRightButton.tooltip "දකුණු මාර්ජීනය ඔස්සේ පාඨ පෙළගස්සන්න">
-
-
+<!ENTITY alignJustifyButton.tooltip "දකුණු සහ වම් මාර්ජීනයන් ඔස්සේ පාඨ පෙළගස්සන්න">
 
 
 <!-- Structure Toolbar Context Menu items -->
@@ -457,20 +456,3 @@
 <!ENTITY removeTOC.accesskey      "r">
 <!ENTITY tocMenu.label            "පටුන...">
 <!ENTITY tocMenu.accesskey        "b">
-
-
-<!--
-Entities below were automatically added by compare-locales,
- based on en-US entities.
--->
-
-<!ENTITY pasteAsQuotationCmd.key "o">
-
-
-<!--
-Entities below were automatically added by compare-locales,
- based on en-US entities.
--->
-
-<!ENTITY alignJustifyButton.tooltip "දකුණු සහ වම් මාර්ජීනයන් ඔස්සේ පාඨ පෙළ ගස්සන්න">
-<!ENTITY newToolbarCmd.label "නව">

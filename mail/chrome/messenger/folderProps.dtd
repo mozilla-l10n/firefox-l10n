@@ -42,8 +42,16 @@
 <!ENTITY generalInfo.label                       "සාමාන්‍ය තොරතුරු">
 <!ENTITY folderCharsetTab.label                  "පෙරනිමි (Default) අකුරු කේතනයන්:">
 <!ENTITY folderCharsetTab.accesskey              "E">
-<!ENTITY folderCharsetOverride.label             "Apply default to all messages in the folder (individual message character encoding settings and auto-detection will be ignored)">
+<!ENTITY folderCharsetOverride.label             "ෆෝල්ඩරයේ ලිපි සියල්ලටම පෙරනිමි සැකසුම් අදාළ කරගන්න (ලිපියේ අකුරු කේතනයන් සහ ස්ව-හැඳුනුම් නොසලකා හරිනු ඇත)">
 <!ENTITY folderCharsetOverride.accesskey         "A">
+<!ENTITY folderRebuildSummaryFileTip2.label      "සාරාංශ ගොනු සූචිය (Summary File Index) යළි-ගොඩනඟන්න">
+<!ENTITY folderRebuildSummaryFile2.label         "ෆෝල්ඩරය අලුත්වැඩියා කරන්න">
+<!ENTITY folderRebuildSummaryFile2.accesskey     "R">
+<!ENTITY folderRebuildSummaryFile.explanation    "Sometimes the folder index සමහරවිට ෆෝල්ඩර සූචිය(.msf ගොනුව) හානි වී ලිපි නොපෙන්වීමට හෝ මැකූ ලිපි පෙන්වීමට හෝ පුළුවන; ෆෝල්ඩරය අලුත්වැඩියා කිරීමෙන් මෙය විසඳෙනු ඇත.">
+
+<!ENTITY folderIncludeInGlobalSearch.label       "පොදු සෙවුම් ප්‍රතිඵලයේදී මෙම ෆෝල්ඩරයේ ලිපිද ඇතුළත් කරන්න">
+<!ENTITY folderIncludeInGlobalSearch.accesskey   "G">
+
 <!ENTITY retention.label "තබාගැනීමේ පිළිවෙත">
 <!ENTITY retentionUseAccount.label  "මගේ ගිණූම් සැකසුම් භාවිතා කරන්න">
 <!ENTITY retentionUseAccount.accesskey "U">
@@ -59,11 +67,13 @@
 <!ENTITY retentionKeepRecent.label "මෙම ආසන්නතම ලිපිය හැර සියල්ල මකන්න">
 <!ENTITY retentionKeepRecent.accesskey "l">
 <!-- LOCALIZATION NOTE: Unhide with .keepUnreadOnly { display: -moz-box; } -->
-<!ENTITY retentionKeepUnreadHidden.label "යවූ ලිපි සෑමවිටම මකන්න (කාළ සැකසුම් නොසලකන්න)">
-<!ENTITY retentionApplyToFlagged.label "Always keep starred messages">
+<!ENTITY retentionKeepUnreadHidden.label "කියවූ ලිපි සෑමවිටම මකන්න (කාළ සැකසුම් නොසලකන්න)">
+<!ENTITY retentionApplyToFlagged.label "තරුයෙදූ ලිපි සෑමවිටම තබාගන්න">
 <!ENTITY retentionApplyToFlagged.accesskey "e">
 
-<!ENTITY folderSynchronizationTab.label          "Synchronization">
+<!ENTITY folderSynchronizationTab.label          "සම්මුහුර්තකරණය">
+<!ENTITY folderCheckForNewMessages2.label         "මෙම ගිණුමට නව ලිපි ලබාගැනීමේදී, මෙම ෆෝල්ඩරය සෑම විටම පරීක්ෂා කරන්න">
+<!ENTITY folderCheckForNewMessages2.accesskey     "c">
 
 <!ENTITY offlineFolder.check.label               "අසම්බන්ධිතව භාවිතාව සඳහා මෙම ෆෝල්ඩරය තෝරන්න">
 <!ENTITY offlineFolder.check.accesskey           "S">
@@ -86,22 +96,7 @@
 <!ENTITY permissionsDesc.label                   "ඔබට පහත අවසරයන් ඇත:">
 <!ENTITY folderType.label                        "ෆෝල්ඩර ආකාරය:">
 
-<!ENTITY folderQuotaTab.label                    "Quota">
+<!ENTITY folderQuotaTab.label                    "පංගුව (Quota)">
 <!ENTITY folderQuotaRoot.label                   "Quota Root:">
 <!ENTITY folderQuotaUsage.label                  "භාවිතාව:">
 <!ENTITY folderQuotaStatus.label                 "තත්ත්වය:">
-
-
-<!--
-Entities below were automatically added by compare-locales,
- based on en-US entities.
--->
-
-<!ENTITY folderIncludeInGlobalSearch.label "Include messages in this folder in Global Search results">
-<!ENTITY folderRebuildSummaryFile.explanation "Sometimes the folder index (.msf) file becomes damaged and messages may appear missing or deleted messages continue showing; repairing the folder may fix these issues.">
-<!ENTITY folderIncludeInGlobalSearch.accesskey "G">
-<!ENTITY folderCheckForNewMessages2.label "When getting new messages for this account, always check this folder">
-<!ENTITY folderRebuildSummaryFile2.label "Repair Folder">
-<!ENTITY folderRebuildSummaryFileTip2.label "Rebuild Summary File Index">
-<!ENTITY folderCheckForNewMessages2.accesskey "c">
-<!ENTITY folderRebuildSummaryFile2.accesskey "R">

@@ -6,6 +6,9 @@
 <!ENTITY fccMailFolder.accesskey "P">
 <!ENTITY fccReplyFollowsParent.label "පිළිතුරු ලිපි මුල් ලිපිය අඩංගු ෆෝල්ඩරය තුළ">
 <!ENTITY fccReplyFollowsParent.accesskey "l">
+<!-- LOCALIZATION NOTE (ccAddress.label): do not translate "Cc" in below line -->
+<!ENTITY ccAddress.label "මෙම ලිපිනයන්ට පිටපත් යවන්න:">
+<!ENTITY ccAddress.accesskey "C">
 <!-- LOCALIZATION NOTE (bccAddress.label): do not translate "Bcc" in below line -->
 <!ENTITY bccAddress.label "මෙම ලිපිනයන්ට රහස්‍ය පිටපත් යවන්න:">
 <!ENTITY bccAddress.accesskey "B">
@@ -22,7 +25,7 @@
 <!ENTITY draftInOtherFolder.label "වෙනත්:">
 
 <!-- LOCALIZATION NOTE (archivesFolderOn.label): OK to translate this, bug #57440 -->
-<!ENTITY archivesFolderOn.label "&quot;Archives&quot; Folder on:">
+<!ENTITY archivesFolderOn.label "&quot;සංරක්ෂණ&quot; ෆෝල්ඩරය තුළ:">
 <!ENTITY archivesFolderOn.accesskey "D">
 <!ENTITY archiveInOtherFolder.label "වෙනත්:">
 <!ENTITY archiveInOtherFolder.accesskey "t">
@@ -41,12 +44,10 @@ Entities below were automatically added by compare-locales,
 -->
 
 <!ENTITY keepArchives.accesskey "K">
-<!ENTITY ccAddress.accesskey "C">
+<!ENTITY specialFolders.label "Drafts and Templates">
 <!ENTITY archivesTitle.label "Message Archives">
 <!ENTITY ccAddressList.placeholder "Separate addresses with commas">
-<!ENTITY ccAddress.label "Cc these email addresses:">
 <!ENTITY archiveHierarchyButton.label "Archive options…">
-<!ENTITY specialFolders.label "Drafts and Templates">
 <!ENTITY archiveHierarchyButton.accesskey "A">
 <!ENTITY keepTemplates.label "Keep message templates in:">
 <!ENTITY bccAddressList.placeholder "Separate addresses with commas">

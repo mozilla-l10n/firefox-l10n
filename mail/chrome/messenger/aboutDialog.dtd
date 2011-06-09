@@ -1,4 +1,5 @@
 <!ENTITY aboutDialog.title      "&brandFullName; පිළිබඳ">
+
 <!ENTITY cmdCloseMac.commandKey "w">
 
 
@@ -8,19 +9,19 @@ Entities below were automatically added by compare-locales,
 -->
 
 <!ENTITY update.failed.end "">
-<!ENTITY channel.change "Change">
+<!ENTITY channel.change "වෙනස් කරන්න">
 <!ENTITY channel.aurora.description "Experience the newest innovations in an unstable environment that's not for the faint of heart. Provide feedback on features and performance to help determine what makes the final release.">
-<!ENTITY update.noUpdatesFound "&brandShortName; is up to date">
-<!ENTITY update.downloading.start "Downloading update — ">
+<!ENTITY update.noUpdatesFound "&brandShortName; යාවත්කාලීනයි">
+<!ENTITY update.downloading.start "යාවත්කාලීන බාගතකරයි — ">
 <!ENTITY update.manual.end "">
-<!ENTITY update.checkingForUpdates "Checking for updates…">
-<!ENTITY update.manual.linkText "latest version">
+<!ENTITY update.checkingForUpdates "යාවත්කාලීන සඳහා පරීක්ෂා කරයි…">
+<!ENTITY update.manual.linkText "නවතම නිකුතුව">
 <!ENTITY channel.selector.end "update channel.">
 <!ENTITY community.middle2 ", a ">
-<!ENTITY update.checkingAddonCompat "Checking Add-on compatibility…">
+<!ENTITY update.checkingAddonCompat "ඇඩෝන අනුකූලතාවය පරීක්ෂා කරයි…">
 <!ENTITY update.manual.start "Download the ">
-<!ENTITY community.start2 "&brandShortName; is designed by ">
-<!ENTITY bottomLinks.license "Licensing Information">
+<!ENTITY update.failed.start "Update failed. ">
+<!ENTITY bottomLinks.license "බලපත්‍ර තොරතුරු">
 <!ENTITY contribute.end "">
 <!ENTITY channel.description.start "You are currently on the ">
 <!ENTITY bottomLinks.privacy "Privacy Policy">
@@ -29,14 +30,14 @@ Entities below were automatically added by compare-locales,
 <!ENTITY channel.release.description "Enjoy the tried and tested final release being used by hundreds of millions around the world. Stay in control of your online experience with super speed, easy customization and the latest Web technologies.">
 <!ENTITY contribute.start "Sound interesting? ">
 <!ENTITY community.creditsLink "global community">
-<!ENTITY update.failed.linkText "Download the latest version">
+<!ENTITY update.failed.linkText "නවතම නිකුතුව බාගත කරන්න">
 <!ENTITY channel.selector.start "Switch to the">
 <!ENTITY channel.description.end " update channel. ">
 <!ENTITY channel.beta.description "Experience cutting edge features with more stability. Provide feedback to help refine and polish what will be in the final release.">
-<!ENTITY channel.selector.applyButton "Apply and Update">
+<!ENTITY channel.selector.applyButton "යාවත්කාලීන කරන්න">
 <!ENTITY update.downloading.end "">
 <!ENTITY community.mozillaLink "&vendorShortName;">
-<!ENTITY contribute.getInvolvedLink "Get involved!">
-<!ENTITY bottomLinks.rights "End User Rights">
-<!ENTITY update.failed.start "Update failed. ">
-<!ENTITY channel.selector.cancelButton "Cancel">
+<!ENTITY contribute.getInvolvedLink "සම්බන්ධ වන්න!">
+<!ENTITY bottomLinks.rights "පරිශීලක අයිතීන්">
+<!ENTITY community.start2 "&brandShortName; නිර්මාණය කරන ලද්දේ ">
+<!ENTITY channel.selector.cancelButton "එපා">
