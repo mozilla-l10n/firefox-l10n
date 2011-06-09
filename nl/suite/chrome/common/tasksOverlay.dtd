@@ -39,7 +39,7 @@
 <!ENTITY downloadManagerCmd.accesskey "D">
 <!ENTITY downloadManagerCmd.commandkey "j">
 
-<!ENTITY addOnsManagerCmd.label "Add-onbeheerder">
+<!ENTITY addOnsManagerCmd.label "Add-onsbeheerder">
 <!ENTITY addOnsManagerCmd.accesskey "A">
 <!ENTITY addOnsManagerCmd.commandkey "a">
 
