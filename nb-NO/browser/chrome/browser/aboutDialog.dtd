@@ -6,7 +6,7 @@
 <!ENTITY community.middle2          ", et ">
 <!-- LOCALIZATION NOTE (community.creditsLink): This is a link title that links to about:credits. -->
 <!ENTITY community.creditsLink      "globalt samfunn">
-<!ENTITY community.end2             " som jobber for å gjøre Internet bedre. Vi synes at Internett bør være åpent, allment og tilgjengelig for alle, uten noen begrensninger.">
+<!ENTITY community.end2             " som jobber for å gjøre Internett bedre. Vi synes at Internett bør være åpent, allment og tilgjengelig for alle, uten noen begrensninger.">
 
 <!ENTITY contribute.start           "Høres det interessant ut? ">
 <!-- LOCALIZATION NOTE (contribute.getInvolvedLink): This is a link title that links to http://www.mozilla.org/contribute/. -->
@@ -25,7 +25,7 @@
 <!-- LOCALIZATION NOTE (update.checkingForUpdates): try to make the localized text short (see bug 596813 for screenshots). -->
 <!ENTITY update.checkingForUpdates  "Søker etter oppdateringer …">
 <!-- LOCALIZATION NOTE (update.checkingAddonCompat): try to make the localized text short (see bug 596813 for screenshots). -->
-<!ENTITY update.checkingAddonCompat "Kontroller kompatibilitet med utvidelser …">
+<!ENTITY update.checkingAddonCompat "Kontrollerer kompatibilitet med utvidelser …">
 <!-- LOCALIZATION NOTE (update.noUpdatesFound): try to make the localized text short (see bug 596813 for screenshots). -->
 <!ENTITY update.noUpdatesFound      "&brandShortName; er oppdatert">
 <!-- LOCALIZATION NOTE (update.adminDisabled): try to make the localized text short (see bug 596813 for screenshots). -->

@@ -43,7 +43,7 @@
 <!ENTITY setup.newSyncKeyPage.description.label "For å beskytte personvernet ditt vil alle data krypteres før den lastes opp. Sync-nøkkelen som er nødvendig for å dekryptere dine data vil ikke lastes opp.">
 <!ENTITY syncKeyEntry.label        "Sync-nøkkel">
 <!ENTITY syncKeyEntry.accesskey    "S">
-<!ENTITY syncKeyGenerate.label     "Generer">
+<!ENTITY syncGenerateNewKey.label  "Generer ny nøkkel">
 <!ENTITY syncKeyBackup.description "Sync-nøkkelen din er påkrevd for å få tilgang til &syncBrand.fullName.label; på flere maskiner. Lag en sikkerhetskopi. Vi kan ikke hjelpe deg å finne tilbake tilbake en glemt Sync-nøkkel.">
 
 <!ENTITY button.syncKeyBackup.print.label     "Skriv ut …">
