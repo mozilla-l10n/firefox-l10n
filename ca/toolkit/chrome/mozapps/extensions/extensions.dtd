@@ -22,16 +22,14 @@
 <!ENTITY warning.updatesecurity.enable.label       "Habilita">
 <!ENTITY warning.updatesecurity.enable.tooltip     "Habilita la comprovació de seguretat dels complements">
 
+<!-- global informations -->
+<!ENTITY info.plugincheck.label                 "Marqueu-ho per comprovar si els vostres connectors estan al dia">
+<!ENTITY info.plugincheck.tooltip               "Marqueu-ho per comprovar si els vostres connectors estan al dia">
 
 <!-- categories / views -->
 <!-- LOCALIZATION NOTE: These should match the header-* entries in extensions.properties -->
 <!ENTITY view.search.label                    "Cerca">
 <!ENTITY view.discover.label                  "Més complements">
-<!ENTITY view.locales.label                   "Llengües">
-<!ENTITY view.searchengines.label             "Motors de cerca">
-<!ENTITY view.features.label                  "Extensions">
-<!ENTITY view.appearance2.label               "Aspecte">
-<!ENTITY view.plugins.label                   "Connectors">
 <!ENTITY view.recentUpdates.label             "Actualitzacions recents">
 <!ENTITY view.availableUpdates.label          "Actualitzacions disponibles">
 

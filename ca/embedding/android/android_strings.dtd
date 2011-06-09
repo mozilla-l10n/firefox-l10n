@@ -1,5 +1,6 @@
 <!ENTITY  splash_screen_label "s\'està carregant">
 <!ENTITY  splash_screen_installing "instal·lació de biblioteques\u2026">
+<!ENTITY  splash_firstrun "S\'està configurant el &brandShortName;\u2026">
 <!ENTITY  incompatable_cpu_error "El dispositiu no compleix amb els requisits de sistema mínims per al &brandShortName;.">
 <!ENTITY  no_space_to_start_error "No hi ha prou espai disponible per al &brandShortName; per iniciar-se.">
 <!ENTITY  error_loading_file "S\'ha produït un error quan es provava de carregar fitxers necessaris per executar el &brandShortName;">
