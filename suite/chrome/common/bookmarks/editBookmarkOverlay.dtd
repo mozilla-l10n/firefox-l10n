@@ -6,7 +6,6 @@
 <!ENTITY editBookmarkOverlay.feedLocation.accesskey          "F">
 <!ENTITY editBookmarkOverlay.siteLocation.label              "Website-Adresse:">
 <!ENTITY editBookmarkOverlay.siteLocation.accesskey          "W">
-<!ENTITY editBookmarkOverlay.liveTitlesSeparator.label       "Live-Titel">
 <!ENTITY editBookmarkOverlay.folder.label                    "Ordner:">
 <!ENTITY editBookmarkOverlay.foldersExpanderDown.tooltip     "Alle Lesezeichenordner anzeigen">
 <!ENTITY editBookmarkOverlay.expanderUp.tooltip              "Verstecken">
