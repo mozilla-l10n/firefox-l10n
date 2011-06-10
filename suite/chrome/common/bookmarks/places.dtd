@@ -67,8 +67,6 @@
 
 <!ENTITY cmd.reloadLivebookmark.label      "Dynamisches Lesezeichen neu laden">
 <!ENTITY cmd.reloadLivebookmark.accesskey  "D">
-<!ENTITY cmd.reloadMicrosummary.label      "Live-Titel neu laden">
-<!ENTITY cmd.reloadMicrosummary.accesskey  "L">
 
 <!ENTITY cmd.moveBookmarks.label                  "Verschieben…">
 <!ENTITY cmd.moveBookmarks.accesskey              "V">
