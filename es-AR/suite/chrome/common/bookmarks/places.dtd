@@ -67,8 +67,6 @@
 
 <!ENTITY cmd.reloadLivebookmark.label      "Recargar marcador vivo">
 <!ENTITY cmd.reloadLivebookmark.accesskey  "R">
-<!ENTITY cmd.reloadMicrosummary.label      "Recargar título vivo">
-<!ENTITY cmd.reloadMicrosummary.accesskey  "R">
 
 <!ENTITY cmd.moveBookmarks.label                  "Mover…">
 <!ENTITY cmd.moveBookmarks.accesskey              "M">
