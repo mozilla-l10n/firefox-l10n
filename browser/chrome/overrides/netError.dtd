@@ -170,6 +170,10 @@
 <!ENTITY cspFrameAncestorBlocked.title "Geblokkeerd door inhoudbeveiligingsbeleid">
 <!ENTITY cspFrameAncestorBlocked.longDesc "<p>De browser voorkomt dat deze pagina op deze manier wordt geladen, omdat de pagina een inhoudbeveiligingsbeleid heeft dat dit niet toestaat.</p>">
 
+<!ENTITY corruptedContentError.title "Beschadigde inhoudfout">
+<!ENTITY corruptedContentError.longDesc "<p>De pagina die u wilt bekijken kan niet worden weergegeven, omdat er een fout in de dataverzending is gedetecteerd.</p><ul><li>Neem contact op met de website-eigenaars om ze te informeren over dit probleem.</li></ul>">
+
+
 <!ENTITY securityOverride.linkText "Of u kunt een uitzondering toevoegen…">
 <!ENTITY securityOverride.getMeOutOfHereButton "Haal me hier vandaan!">
 <!ENTITY securityOverride.exceptionButtonLabel "Uitzondering toevoegen…">
