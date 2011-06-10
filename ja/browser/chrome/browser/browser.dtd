@@ -90,7 +90,7 @@ can reach it easily. -->
 <!ENTITY fullScreenClose.tooltip	"閉じる">
 <!ENTITY fullScreenAutohide.label	"ツールバーを隠す">
 <!ENTITY fullScreenAutohide.accesskey	"H">
-<!ENTITY fullScreenExit.label		"フルスクリーンモードを終了">
+<!ENTITY fullScreenExit.label		"全画面表示モードを終了">
 <!ENTITY fullScreenExit.accesskey	"F">
 
 <!ENTITY closeWindow.label		"ウィンドウを閉じる">
