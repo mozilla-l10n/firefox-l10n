@@ -75,10 +75,6 @@
 <!ENTITY saveVideoCmd.accesskey "v">
 <!ENTITY saveAudioCmd.label "Salva audio come…">
 <!ENTITY saveAudioCmd.accesskey "v">
-<!ENTITY copyCmd.label "Copia">
-<!ENTITY copyCmd.accesskey "C">
-<!ENTITY selectAllCmd.label "Seleziona tutto">
-<!ENTITY selectAllCmd.accesskey "S">
 <!ENTITY copyLinkCmd.label "Copia indirizzo collegamento">
 <!ENTITY copyLinkCmd.accesskey "n">
 <!ENTITY copyImageCmd.label "Copia immagine">
@@ -91,16 +87,6 @@
 <!ENTITY metadataCmd.accesskey "e">
 <!ENTITY copyEmailCmd.label "Copia indirizzo e-mail">
 <!ENTITY copyEmailCmd.accesskey "e">
-<!ENTITY pasteCmd.label "Incolla">
-<!ENTITY pasteCmd.accesskey "I">
-<!ENTITY cutCmd.label "Taglia">
-<!ENTITY cutCmd.accesskey "T">
-<!ENTITY deleteCmd.label "Elimina">
-<!ENTITY deleteCmd.accesskey "E">
-<!ENTITY undoCmd.label "Annulla">
-<!ENTITY undoCmd.accesskey "A">
-<!ENTITY redoCmd.label "Ripeti">
-<!ENTITY redoCmd.accesskey "R">
 <!ENTITY thisFrameMenu.label "Questo riquadro">
 <!ENTITY thisFrameMenu.accesskey "Q">
 <!ENTITY mediaPlay.label "Riproduci">

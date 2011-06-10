@@ -83,8 +83,8 @@
 <!ENTITY forwardButton.tooltip "Vai avanti">
 <!ENTITY detailsPane.more.label "Più dati">
 <!ENTITY detailsPane.more.accesskey "d">
-<!ENTITY detailsPane.fewer.label "Fewer">
-<!ENTITY detailsPane.fewer.accesskey "r">
+<!ENTITY detailsPane.fewer.label "Meno">
+<!ENTITY detailsPane.fewer.accesskey "o">
 <!ENTITY detailsPane.selectAnItemText.description "Scegli un elemento per visualizzare e modificare le sue proprietà">
 <!ENTITY editBookmark.done.label "Completato">
 <!ENTITY editBookmark.cancel.label "Annulla">
