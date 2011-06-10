@@ -42,7 +42,7 @@
 <!ENTITY setup.newSyncKeyPage.description.label "Per garantir la vostra total privadesa, es xifraran totes les vostres dades abans de pujar-les. La clau de sincronització, necessària per desxifrar les dades, no es pujarà.">
 <!ENTITY syncKeyEntry.label        "La vostra clau de sincronització">
 <!ENTITY syncKeyEntry.accesskey    "c">
-<!ENTITY syncKeyGenerate.label     "Genera">
+<!ENTITY syncGenerateNewKey.label  "Generate una clau nova">
 <!ENTITY syncKeyBackup.description "La clau de sincronització és necessària per accedir al &syncBrand.fullName.label; en altres màquines. Creeu-ne una còpia de seguretat. No podem ajudar-vos a recuperar la vostra clau de sincronització.">
 
 <!ENTITY button.syncKeyBackup.print.label     "Imprimeix…">
