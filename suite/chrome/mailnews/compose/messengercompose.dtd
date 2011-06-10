@@ -117,24 +117,14 @@
 <!ENTITY spellCheckIgnoreWord.accesskey "I">
 <!ENTITY spellCheckAddToDictionary.label "Aggiungi al dizionario">
 <!ENTITY spellCheckAddToDictionary.accesskey "n">
-<!ENTITY undo.label "Annulla">
-<!ENTITY undo.accesskey "A">
-<!ENTITY cut.label "Taglia">
-<!ENTITY cut.accesskey "T">
-<!ENTITY copy.label "Copia">
-<!ENTITY copy.accesskey "C">
-<!ENTITY paste.label "Incolla">
-<!ENTITY paste.accesskey "I">
 <!ENTITY pasteQuote.label "Incolla come citazione">
 <!ENTITY pasteQuote.accesskey "z">
 <!ENTITY openAttachment.label "Apri">
 <!ENTITY openAttachment.accesskey "A">
-<!ENTITY delete.label "Elimina">
-<!ENTITY delete.accesskey "E">
 <!ENTITY renameAttachment.label "Rinomina">
 <!ENTITY renameAttachment.accesskey "R">
-<!ENTITY selectAll.label "Seleziona tutti">
-<!ENTITY selectAll.accesskey "S">
+<!ENTITY deleteAttachment.accesskey "E">
+<!ENTITY selectAllAttachments.accesskey "a">
 <!ENTITY attachFile.label "Allega file…">
 <!ENTITY attachFile.accesskey "f">
 <!ENTITY attachPage.label "Allega pagina web…">

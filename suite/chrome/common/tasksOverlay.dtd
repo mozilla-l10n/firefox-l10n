@@ -26,9 +26,9 @@
 <!ENTITY downloadManagerCmd.label "Gestione download">
 <!ENTITY downloadManagerCmd.accesskey "G">
 <!ENTITY downloadManagerCmd.commandkey "j">
-<!ENTITY addonsManagerCmd.label "Componenti aggiuntivi">
-<!ENTITY addonsManagerCmd.accesskey "a">
-<!ENTITY addonsManagerCmd.commandkey "a">
+<!ENTITY addOnsManagerCmd.label "Componenti aggiuntivi">
+<!ENTITY addOnsManagerCmd.accesskey "A">
+<!ENTITY addOnsManagerCmd.commandkey "a">
 <!ENTITY switchProfileCmd.label "Passa al profilo…">
 <!ENTITY switchProfileCmd.accesskey "P">
 <!ENTITY syncBrand.shortName.label "Sync">

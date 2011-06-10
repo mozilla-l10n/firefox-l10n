@@ -4,9 +4,7 @@
 <!ENTITY quitApplicationCmd.label "Esci">
 <!ENTITY quitApplicationCmd.key "Q">
 <!ENTITY quitApplicationCmd.accesskey "E">
-<!ENTITY redoCmd.label "Ripeti">
 <!ENTITY redoCmd.key "Y">
-<!ENTITY redoCmd.accesskey "R">
 <!ENTITY findTypeTextCmd.key "/">
 <!ENTITY findTypeLinksCmd.key "'">
 <!ENTITY accel.emacs_conflict "accel">

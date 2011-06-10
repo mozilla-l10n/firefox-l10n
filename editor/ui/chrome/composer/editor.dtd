@@ -38,8 +38,14 @@
 <!ENTITY editorWindow.titlemodifier "Composer">
 <!ENTITY editorWindow.titlemodifiermenuseparator " - ">
 <!ENTITY compositionToolbar.tooltip "Barra di composizione">
-<!ENTITY viewMenu.label "Visualizza">
-<!ENTITY viewMenu.accesskey "V">
+<!ENTITY previewToolbarCmd.label "Sfoglia">
+<!ENTITY previewToolbarCmd.tooltip "Carica questa pagina nel browser">
+<!ENTITY exportToTextCmd.label "Esporta come testo…">
+<!ENTITY exportToTextCmd.accesskey "t">
+<!ENTITY previewCmd.label "Sfoglia pagina">
+<!ENTITY previewCmd.accesskey "S">
+<!ENTITY sendPageCmd.label "Spedisci pagina…">
+<!ENTITY sendPageCmd.accesskey "d">
 <!ENTITY compositionToolbarCmd.label "Barra di composizione">
 <!ENTITY compositionToolbarCmd.accesskey "c">
 <!ENTITY formattingToolbarCmd.label "Barra di formattazione">
