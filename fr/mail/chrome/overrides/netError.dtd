@@ -52,9 +52,9 @@
 <!ENTITY netInterrupt.longDesc "&sharedLongDesc;">
 
 <!ENTITY netOffline.title "Mode hors connexion">
-<!ENTITY netOffline.longDesc "
+<!ENTITY netOffline.longDesc2 "
 <ul>
-  <li>Décochez «&#x00A0;Travailler hors connexion&#x00A0; dans le menu «&#x00A0;Fichier&#x00A0;» et essayez à nouveau.</li>
+  <li>Cliquez sur le bouton « Réessayer » pour revenir en mode connecté et recharger la page.</li>
 </ul>
 ">
 
@@ -162,6 +162,9 @@ Vous pouvez également utiliser la commande dans le menu d'aide pour signaler un
 
 <!ENTITY cspFrameAncestorBlocked.title "Bloqué par une stratégie de sécurité de contenu">
 <!ENTITY cspFrameAncestorBlocked.longDesc "<p>&brandShortName; a empêché le chargement de cette page de cette manière car la page a une stratégie de sécurité de contenu qui ne le permet pas.</p>">
+
+<!ENTITY corruptedContentError.title "Erreur de contenu corrompu">
+<!ENTITY corruptedContentError.longDesc "<p>La page que vous essayez de voir ne peut pas être affichée car une erreur dans la transmission de données a été détectée.</p><ul><li>Veuillez contacter les propriétaires du site Web pour les informer de ce problème.</li></ul>">
 
 <!ENTITY securityOverride.linkText "Ou vous pouvez ajouter une exception…">
 <!ENTITY securityOverride.getMeOutOfHereButton "Quitter cette page">
