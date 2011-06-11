@@ -197,7 +197,7 @@
   -  "Scratchpad" in your locale. You should feel free to find a close
   -  approximation to it or choose a word (or words) that means
   -  "simple discardable text editor". -->
-<!ENTITY scratchpad.label             "Bloc de retalls">
+<!ENTITY scratchpad.label             "Consola de proves">
 <!ENTITY scratchpad.accesskey         "s">
 <!ENTITY scratchpad.keycode           "VK_F4">
 <!ENTITY scratchpad.keytext           "F4">
