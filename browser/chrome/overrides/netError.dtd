@@ -53,14 +53,9 @@
 <!ENTITY netInterrupt.longDesc "&sharedLongDesc;">
 
 <!ENTITY netOffline.title "Modo sin conexión a la red">
-<!-- LOCALIZATION NOTE (netOffline.overrideLongDesc) - This string should
-     indicate that "Work Offline" is a menu item without being too specific,
-     since it could be in either the normal menu (Mac/Linux) or the Firefox button
-     menu (Windows).
--->
-<!ENTITY netOffline.overrideLongDesc "
+<!ENTITY netOffline.longDesc2 "
 <ul>
-  <li>Desmarque el ítem de menú &quot;Trabajar sin conexión&quot; e intente nuevamente.</li>
+  <li>Presione &quot;Intente nuevamente&quot; para volver al modo con conexión y recargar la página.</li>
 </ul>
 ">
 
