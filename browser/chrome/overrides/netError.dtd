@@ -52,14 +52,9 @@
 <!ENTITY netInterrupt.longDesc "&sharedLongDesc;">
 
 <!ENTITY netOffline.title "Mode hors connexion">
-<!-- LOCALIZATION NOTE (netOffline.overrideLongDesc) - This string should
-     indicate that "Work Offline" is a menu item without being too specific,
-     since it could be in either the normal menu (Mac/Linux) or the Firefox button
-     menu (Windows).
--->
-<!ENTITY netOffline.overrideLongDesc "
+<!ENTITY netOffline.longDesc2 "
 <ul>
-  <li>Décochez l'élément de menu &quot;Travailler hors connexion&quot; et essayez à nouveau.</li>
+  <li>Cliquez sur le bouton « Réessayer » pour revenir en mode connecté et recharger la page.</li>
 </ul>
 ">
 
