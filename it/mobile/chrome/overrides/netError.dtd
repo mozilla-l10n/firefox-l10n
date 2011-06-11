@@ -38,9 +38,9 @@
 <!ENTITY netInterrupt.title "La connessione è stata interrotta">
 <!ENTITY netInterrupt.longDesc "&sharedLongDesc;">
 <!ENTITY netOffline.title "Non in linea">
-<!ENTITY netOffline.overrideLongDesc "
+<!ENTITY netOffline.longDesc2 "
 <ul>
-  <li>Riprova. &brandShortName; cercherà di aprire una connessione e ricaricare la pagina.</li>
+  <li>Riprova. Verrà effettuato un tentativo di aprire una connessione e ricaricare la pagina.</li>
 </ul>
 ">
 <!ENTITY contentEncodingError.title "Errore di codifica del contenuto">
