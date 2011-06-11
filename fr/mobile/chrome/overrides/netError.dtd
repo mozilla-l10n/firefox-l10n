@@ -53,7 +53,7 @@
 <!ENTITY netInterrupt.longDesc "&sharedLongDesc;">
 
 <!ENTITY netOffline.title "Mode hors connexion">
-<!ENTITY netOffline.overrideLongDesc "
+<!ENTITY netOffline.longDesc2 "
 <ul>
   <li>Essayez à nouveau. &brandShortName; essaiera d'ouvrir une connexion et d'actualiser la page.</li>
 </ul>
