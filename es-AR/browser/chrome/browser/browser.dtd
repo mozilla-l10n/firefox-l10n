@@ -211,6 +211,8 @@ can reach it easily. -->
 <!ENTITY scratchpad.keytext           "F4">
 
 <!ENTITY inspectPanelTitle.label      "HTML">
+<!ENTITY inspectButton.label          "Inspeccionar">
+<!ENTITY inspectButton.accesskey      "I">
 
 <!ENTITY getMoreDevtoolsCmd.label        "Obtener más herramientas">
 <!ENTITY getMoreDevtoolsCmd.accesskey    "m">
