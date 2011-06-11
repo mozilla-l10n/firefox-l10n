@@ -53,9 +53,9 @@
 <!ENTITY netInterrupt.longDesc "&sharedLongDesc;">
 
 <!ENTITY netOffline.title "Modo sin conexión a la red">
-<!ENTITY netOffline.longDesc "
+<!ENTITY netOffline.longDesc2 "
 <ul>
-  <li>Ponga &brandShortName; en modo con conexión e intente nuevamente.</li>
+  <li>Presione &quot;Intente nuevamente&quot; para volver al modo con conexión y recargar la página.</li>
 </ul>
 ">
 
