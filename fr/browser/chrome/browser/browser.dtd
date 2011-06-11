@@ -211,19 +211,6 @@ can reach it easily. -->
 
 <!ENTITY inspectButton.label          "Examiner">
 <!ENTITY inspectButton.accesskey      "E">
-<!ENTITY inspectNextButton.label      "Suivant">
-<!ENTITY inspectNextButton.accesskey  "S">
-<!ENTITY inspectPreviousButton.label  "Précédent">
-<!ENTITY inspectPreviousButton.accesskey "P">
-<!ENTITY inspectStyleButton.label     "Style">
-<!ENTITY inspectStyleButton.accesskey "t">
-<!ENTITY inspectStylePanelTitle.label  "Style">
-<!-- LOCALIZATION NOTE (inspectObjectButton.label): This button label
-  -  appears on the Inspector's toolbar. It is used to open and close the Object
-  -  panel. There is also a label in inspector.properties for the panel
-  -  titlebar: object.objectPanelTitle. -->
-<!ENTITY inspectObjectButton.label       "Objet">
-<!ENTITY inspectObjectButton.accesskey   "O">
 
 <!ENTITY getMoreDevtoolsCmd.label        "Obtenir d'autres outils">
 <!ENTITY getMoreDevtoolsCmd.accesskey    "b">
