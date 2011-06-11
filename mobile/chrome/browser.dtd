@@ -108,7 +108,7 @@
 <!ENTITY pageactions.share.page      "Compartir página">
 <!ENTITY pageactions.password.forget "Olvidar contraseña">
 <!ENTITY pageactions.reset           "Borrar preferencias del sitio">
-<!ENTITY pageactions.findInPage      "Buscar ne la página">
+<!ENTITY pageactions.findInPage      "Buscar en la página">
 <!ENTITY pageactions.search.addNew   "Agregar buscador">
 <!ENTITY pageactions.charEncoding    "Codificación de caracteres">
 
