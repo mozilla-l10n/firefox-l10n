@@ -211,21 +211,6 @@ can reach it easily. -->
 <!ENTITY scratchpad.keytext           "F4">
 
 <!ENTITY inspectPanelTitle.label      "HTML">
-<!ENTITY inspectButton.label          "Inspeccionar">
-<!ENTITY inspectButton.accesskey      "I">
-<!ENTITY inspectNextButton.label      "Siguiente">
-<!ENTITY inspectNextButton.accesskey  "n">
-<!ENTITY inspectPreviousButton.label  "Anterior">
-<!ENTITY inspectPreviousButton.accesskey "A">
-<!ENTITY inspectStyleButton.label     "Estilo">
-<!ENTITY inspectStyleButton.accesskey "s">
-<!ENTITY inspectStylePanelTitle.label  "Estilo">
-<!-- LOCALIZATION NOTE (inspectObjectButton.label): This button label
-  -  appears on the Inspector's toolbar. It is used to open and close the Object
-  -  panel. There is also a label in inspector.properties for the panel
-  -  titlebar: object.objectPanelTitle. -->
-<!ENTITY inspectObjectButton.label       "Objeto">
-<!ENTITY inspectObjectButton.accesskey   "O">
 
 <!ENTITY getMoreDevtoolsCmd.label        "Obtener más herramientas">
 <!ENTITY getMoreDevtoolsCmd.accesskey    "m">
