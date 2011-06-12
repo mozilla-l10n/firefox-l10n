@@ -31,12 +31,12 @@
 <!ENTITY autoMarkAsRead.label          "Automatically mark messages as read">
 <!ENTITY autoMarkAsRead.accesskey      "A">
 <!ENTITY markAsReadNoDelay.label       "Immediately on display">
-<!ENTITY markAsReadNoDelay.accesskey   "d">
+<!ENTITY markAsReadNoDelay.accesskey   "m">
 <!-- LOCALIZATION NOTE (markAsReadDelay.label): This will concatenate to
      "After displaying for [___] seconds",
      using (markAsReadDelay.label) and a number (secondsLabel.label). -->
 <!ENTITY markAsReadDelay.label         "After displaying for">
-<!ENTITY markAsReadDelay.accesskey     "e">
+<!ENTITY markAsReadDelay.accesskey     "d">
 <!ENTITY secondsLabel.label            "seconds">
 <!ENTITY openMsgIn.label               "Open messages in:">
 <!ENTITY openMsgInNewTab.label         "A new tab">
@@ -56,13 +56,13 @@
 <!ENTITY enableAddonsUpdate.accesskey   "A">
 <!ENTITY whenUpdatesFound.label         "When updates to &brandShortName; are found,">
 <!ENTITY modeAskMe.label                "Ask me what I want to do">
-<!ENTITY modeAskMe.accesskey            "A">
+<!ENTITY modeAskMe.accesskey            "m">
 <!ENTITY modeAutomatic.label            "Automatically download and install the update">
 <!ENTITY modeAutomatic.accesskey        "d">
 <!ENTITY modeAutoAddonWarn.label        "Warn me if this will disable any of my add-ons">
 <!ENTITY modeAutoAddonWarn.accesskey    "W">
 <!ENTITY showUpdates.label              "Show Update History">
-<!ENTITY showUpdates.accesskey          "U">
+<!ENTITY showUpdates.accesskey          "S">
 
 <!-- Networking and Disk Space -->
 <!ENTITY showSettings.label            "Settings…">
@@ -76,8 +76,8 @@
 
 <!ENTITY Diskspace "Disc Space">
 <!ENTITY offlineCompact.label "Compact folders when it will save over">
-<!ENTITY offlineCompact.accesskey "v">
-<!ENTITY kb.label "kB">
+<!ENTITY offlineCompact.accesskey "m">
+<!ENTITY mb.label "MB">
 
 <!-- LOCALIZATION NOTE:
   The entities useCacheBefore.label and useCacheAfter.label appear on a single
