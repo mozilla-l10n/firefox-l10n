@@ -53,14 +53,9 @@
 <!ENTITY netInterrupt.longDesc "&sharedLongDesc;">
 
 <!ENTITY netOffline.title "Režim offline">
-<!-- LOCALIZATION NOTE (netOffline.overrideLongDesc) - This string should
-     indicate that "Work Offline" is a menu item without being too specific,
-     since it could be in either the normal menu (Mac/Linux) or the Firefox button
-     menu (Windows).
--->
-<!ENTITY netOffline.overrideLongDesc "
+<!ENTITY netOffline.longDesc2 "
 <ul>
-  <li>Zrušte v nabídce zaškrtnutí „Pracovat offline“ a zkuste to znovu.</li>
+  <li>Pro přechod do režimu online a obnovení stránky klepněte na tlačítko „Zkusit znovu“.</li>
 </ul>
 ">
 
