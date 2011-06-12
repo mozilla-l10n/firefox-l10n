@@ -21,16 +21,19 @@ back to it if they change their mind later.-->
 IMAP synchronization feature. The words should probably echo the word used
 in the per-account dialog.-->
 <!ENTITY featureConfigurator.toolbar.heading "새 메세지 도구 모음">
-<!ENTITY featureConfigurator.toolbar.new.status "메세지 버튼 도구 모음">
+<!ENTITY featureConfigurator.toolbar.new "메세지 버튼 도구 모음">
 <!ENTITY featureConfigurator.toolbar.new.status.explanation "도구 모음를 간편하게 하여 각 메세지의 헤더에 메세지 버튼을 표시합니다.">
 
 <!--  LOCALIZATION NOTE (featureConfigurator.toolbar.original.status): The word 'original' is chosen deliberately to be neutral, vs. 'old' which in English at least had a negative connotation. -->
-<!ENTITY featureConfigurator.toolbar.original.status "원래 도구 모음 버튼 유지">
+<!ENTITY featureConfigurator.toolbar.original "원래 도구 모음 버튼 유지">
 <!ENTITY featureConfigurator.toolbar.original.status.explanation "도구 모음 버튼 위치를 유지하여 각 메세지의 헤더에 새로운 메세지 버튼을 표시합니다.">
 <!ENTITY featureConfigurator.toolbarBenefits.para "답장이나 전달 등의 메시지 버튼은 도구 모음에서 각 메시지 헤더로 이동하였습니다. 메시지 내에 각종 버튼을 직접 연결 시켜 검색 이나 부가 기능을 위한 공간을 넓게 이용할 수 있습니다">
 
+<!ENTITY featureConfigurator.addOn.downloading "다운로드 중…">
+<!ENTITY featureConfigurator.addOn.failure "이 확장 기능을 설치하는 동안 오류가 발생했습니다!">
+
 <!--  LOCALIZATION NOTE (featureConfigurator.addOn.installing): The text to display while installing the addon.  -->
-<!ENTITY featureConfigurator.addOn.installing "설치 중...">
+<!ENTITY featureConfigurator.addOn.installing "설치 중…">
 
 <!--  LOCALIZATION NOTE (featureConfigurator.addOn.installed): The text to display after the user installs the addon from the configurator.  -->
 <!ENTITY featureConfigurator.addOn.installed "설치 완료">

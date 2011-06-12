@@ -44,8 +44,8 @@
 <!ENTITY reuseExpRadio0.accesskey      "n">
 <!ENTITY reuseExpRadio1.label          "기존 메시지 창">
 <!ENTITY reuseExpRadio1.accesskey      "e">
-<!ENTITY closeMsgWindowOnDelete.label  "삭제시 메시지 창 닫기">
-<!ENTITY closeMsgWindowOnDelete.accesskey "C">
+<!ENTITY closeMsgOnMoveOrDelete.label		"이동시 또는 삭제시 메세지 창 또는 탭 닫기">
+<!ENTITY closeMsgOnMoveOrDelete.accesskey	"C">
 
 <!-- Update -->
 <!ENTITY autoCheck.label                "자동으로 업데이트 검사:">
@@ -76,7 +76,7 @@
 <!ENTITY Diskspace "디스크 용량">
 <!ENTITY offlineCompact.label "지정된 용량 이상 저장할 때 폴더 압축">
 <!ENTITY offlineCompact.accesskey "a">
-<!ENTITY kb.label "KB">
+<!ENTITY mb.label "MB">
 
 <!-- LOCALIZATION NOTE:
   The entities useCacheBefore.label and useCacheAfter.label appear on a single
