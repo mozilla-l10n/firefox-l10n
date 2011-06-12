@@ -54,7 +54,7 @@
 <!ENTITY netInterrupt.longDesc "&sharedLongDesc;">
 
 <!ENTITY netOffline.title "Nedkopplat läge">
-<!ENTITY netOffline.overrideLongDesc "
+<!ENTITY netOffline.longDesc2 "
 <ul>
   <li>Försök igen. &brandShortName; kommer att försöka ansluta och hämta om sidan.</li>
 </ul>
