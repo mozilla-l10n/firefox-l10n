@@ -22,11 +22,11 @@
 
 <!ENTITY  font.langGroup.latin1                   "Gorllewin">
 <!ENTITY  font.langGroup.latin2                   "Canol Ewrop">
-<!ENTITY  font.langGroup.japanese                 "Siapanëeg">
-<!ENTITY  font.langGroup.trad-chinese             "Tsieinëeg Traddodiadol (Taiwan)">
-<!ENTITY  font.langGroup.simpl-chinese            "Tsieinëeg Syml">
-<!ENTITY  font.langGroup.trad-chinese-hk          "Tsieinëeg Traddodiadol (Hong Kong)">
-<!ENTITY  font.langGroup.korean                   "Corëeg">
+<!ENTITY  font.langGroup.japanese                 "Japaneeg">
+<!ENTITY  font.langGroup.trad-chinese             "Tsieineeg Traddodiadol (Taiwan)">
+<!ENTITY  font.langGroup.simpl-chinese            "Tsieineeg Symledig">
+<!ENTITY  font.langGroup.trad-chinese-hk          "Tsieineeg Traddodiadol (Hong Kong)">
+<!ENTITY  font.langGroup.korean                   "Coreeg">
 <!ENTITY  font.langGroup.cyrillic                 "Cyrilig">
 <!ENTITY  font.langGroup.baltic                   "Baltig">
 <!ENTITY  font.langGroup.el                       "Groeg">
