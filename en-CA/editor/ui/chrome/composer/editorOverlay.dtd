@@ -45,9 +45,6 @@
 <!-- File menu items -->
 <!ENTITY fileMenu.label "File">
 <!ENTITY fileMenu.accesskey "F">
-<!ENTITY newBlankPageCmd.label "Composer Page">
-<!ENTITY newBlankPageCmd.accesskey "P" >
-<!ENTITY newMenu.label "New">
 <!ENTITY openFileCmd.label "Open File…">
 <!ENTITY openFileCmd.accesskey "O">
 <!ENTITY openFileCmd.key "O">
@@ -69,14 +66,8 @@
 <!ENTITY publishCmd.key "S">
 <!ENTITY publishAsCmd.label "Publish As…">
 <!ENTITY publishAsCmd.accesskey "h">
-<!ENTITY exportToTextCmd.label "Export to Text…">
-<!ENTITY exportToTextCmd.accesskey "T">
 <!ENTITY saveAsChangeEncodingCmd.label "Save And Change Character Encoding">
 <!ENTITY saveAsChangeEncodingCmd.accesskey "E">
-<!ENTITY previewCmd.label "Browse Page">
-<!ENTITY previewCmd.accesskey "w">
-<!ENTITY sendPageCmd.label "Send Page…">
-<!ENTITY sendPageCmd.accesskey "d">
 <!ENTITY printSetupCmd.label "Page Setup…">
 <!ENTITY printSetupCmd.accesskey "u">
 <!ENTITY printCmd.label "Print…">
@@ -399,13 +390,12 @@
 <!-- Toolbar-only items -->
 <!ENTITY menuBar.tooltip "Menu Bar">
 <!ENTITY formatToolbar.tooltip "Formatting Toolbar">
+<!ENTITY newToolbarCmd.label "New">
 <!ENTITY newToolbarCmd.tooltip "Create a new Composer page">
 <!ENTITY openToolbarCmd.label "Open">
 <!ENTITY openToolbarCmd.tooltip "Open a local file">
 <!ENTITY saveToolbarCmd.tooltip "Save file to a local location">
 <!ENTITY publishToolbarCmd.tooltip "Upload file to a remote location">
-<!ENTITY previewToolbarCmd.label "Browse">
-<!ENTITY previewToolbarCmd.tooltip "Load this page in the browser">
 <!ENTITY printToolbarCmd.label "Print">
 <!ENTITY printToolbarCmd.tooltip "Print this page">
 <!ENTITY findToolbarCmd.label "Find">
