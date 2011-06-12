@@ -34,10 +34,10 @@
 <!ENTITY netInterrupt.title "Соединение было прервано">
 <!ENTITY netInterrupt.longDesc "&sharedLongDesc;">
 <!ENTITY netOffline.title "Автономный режим">
-<!ENTITY netOffline.longDesc "
+<!ENTITY netOffline.longDesc2 "
 <ul>
-   <li>Переведите &brandShortName; в режим подключения к сети, и попробуйте снова.</li>
-</ul>">
+   <li>Нажмите «Попробовать снова», чтобы подключиться к сети и перезагрузить страницу.</li>
+</ul> ">
 <!ENTITY contentEncodingError.title "Ошибка в типе содержимого">
 <!ENTITY contentEncodingError.longDesc "
 <ul>
@@ -115,6 +115,8 @@
 <p>Подобные типы веб-сайтов используются в мошенничествах, известных как фишинговые атаки, при которых поддельные веб-страницы и почтовые сообщения используются для имитации источников, которым вы можете доверять.</p>">
 <!ENTITY cspFrameAncestorBlocked.title "Заблокировано политикой защиты содержимого">
 <!ENTITY cspFrameAncestorBlocked.longDesc "<p>&brandShortName; предотвратил загрузку этой страницы данным способом, так как страница имеет политику защиты содержимого, запрещающую это.</p>">
+<!ENTITY corruptedContentError.title "Ошибка искажения содержимого">
+<!ENTITY corruptedContentError.longDesc "<p>Страница, которую вы пытаетесь просмотреть, не может быть показана, так как была обнаружена ошибка при передаче данных.</p><ul><li>Пожалуйста, свяжитесь с владельцами веб-сайта и проинформируйте их об этой проблеме.</li></ul>">
 <!ENTITY securityOverride.linkText "Или же вы можете добавить исключение…">
 <!ENTITY securityOverride.getMeOutOfHereButton "Уходим отсюда!">
 <!ENTITY securityOverride.exceptionButtonLabel "Добавить исключение…">

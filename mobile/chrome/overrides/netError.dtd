@@ -34,9 +34,10 @@
 <!ENTITY netInterrupt.title "Соединение было прервано">
 <!ENTITY netInterrupt.longDesc "&sharedLongDesc;">
 <!ENTITY netOffline.title "Автономный режим">
-<!ENTITY netOffline.overrideLongDesc "
+<!ENTITY netOffline.longDesc2 "
 <ul>
-    <li>Попробуйте снова. &brandShortName; попробует открыть соединение и перезагрузить страницу.</li> </ul>">
+   <li>Попробуйте снова. &brandShortName; попытается открыть соединение и перезагрузить страницу.</li>
+</ul> ">
 <!ENTITY contentEncodingError.title "Ошибка в типе содержимого">
 <!ENTITY contentEncodingError.longDesc "
 
