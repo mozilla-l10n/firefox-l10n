@@ -157,15 +157,6 @@
 <!ENTITY inspectPanelTitle.label "HTML">
 <!ENTITY inspectButton.label "Исследовать">
 <!ENTITY inspectButton.accesskey "с">
-<!ENTITY inspectNextButton.label "Следующее">
-<!ENTITY inspectNextButton.accesskey "л">
-<!ENTITY inspectPreviousButton.label "Предыдущее">
-<!ENTITY inspectPreviousButton.accesskey "д">
-<!ENTITY inspectStyleButton.label "Стиль">
-<!ENTITY inspectStyleButton.accesskey "и">
-<!ENTITY inspectStylePanelTitle.label "Стиль">
-<!ENTITY inspectObjectButton.label "Объект">
-<!ENTITY inspectObjectButton.accesskey "б">
 <!ENTITY getMoreDevtoolsCmd.label "Другие инструменты">
 <!ENTITY getMoreDevtoolsCmd.accesskey "у">
 <!ENTITY fileMenu.label "Файл">
