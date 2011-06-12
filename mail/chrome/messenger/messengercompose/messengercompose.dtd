@@ -193,12 +193,16 @@
 <!ENTITY quoteButton.tooltip "Quote the previous message"> 
 <!ENTITY addressButton.tooltip "Select a recipient from an Address Book"> 
 <!ENTITY attachButton.tooltip "Include an attachment"> 
+<!ENTITY spellingButton.tooltip "Check spelling of selection or entire message">
 <!ENTITY saveButton.tooltip "Save this message"> 
 <!ENTITY cutButton.tooltip              "Cut">
 <!ENTITY copyButton.tooltip             "Copy">
 <!ENTITY pasteButton.tooltip            "Paste">
 
 <!-- Headers -->
+<!--LOCALIZATION NOTE headersSpace.style is for aligning  the From:, To: and
+    Subject: rows. It should be larger than the largest Header label  -->
+<!ENTITY headersSpace.style "width: 9em;">
 <!ENTITY fromAddr.label "From:">
 <!ENTITY fromAddr.accesskey "r">
 <!ENTITY toAddr.label "To:"> 
@@ -209,7 +213,8 @@
 <!ENTITY followupAddr.label "Followup-To:"> 
 <!ENTITY subject.label "Subject:">
 <!ENTITY subject.accesskey "S">
-<!ENTITY attachments.label "Attachments:">
+<!-- LOCALIZATION NOTE attachments.accesskey This access key should correspond
+     to the strings in attachmentCount in composeMsgs.properties -->
 <!ENTITY attachments.accesskey "c">
 
 <!-- Format Toolbar, imported from editorAppShell.xul -->
@@ -262,6 +267,10 @@
 <!ENTITY attachFile.accesskey "F">
 <!ENTITY attachPage.label "Attach Web Page…">
 <!ENTITY attachPage.accesskey "W">
+
+<!-- Spell checker context menu items -->
+<!ENTITY spellAddDictionaries.label "Add Dictionaries…">
+<!ENTITY spellAddDictionaries.accesskey "A">
 
 <!-- Title for the address picker panel -->
 <!ENTITY addressesSidebarTitle.label "Contacts">
