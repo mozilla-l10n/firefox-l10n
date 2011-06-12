@@ -243,19 +243,6 @@ can reach it easily. -->
 <!ENTITY inspectPanelTitle.label           "HTML">
 <!ENTITY inspectButton.label               "Tirti">
 <!ENTITY inspectButton.accesskey           "T">
-<!ENTITY inspectNextButton.label           "Kitas">
-<!ENTITY inspectNextButton.accesskey       "K">
-<!ENTITY inspectPreviousButton.label       "Ankstesnis">
-<!ENTITY inspectPreviousButton.accesskey   "A">
-<!ENTITY inspectStyleButton.label          "Stilius">
-<!ENTITY inspectStyleButton.accesskey      "S">
-<!ENTITY inspectStylePanelTitle.label      "Stilius">
-<!-- LOCALIZATION NOTE (inspectObjectButton.label): This button label
-  -  appears on the Inspector's toolbar. It is used to open and close the Object
-  -  panel. There is also a label in inspector.properties for the panel
-  -  titlebar: object.objectPanelTitle. -->
-<!ENTITY inspectObjectButton.label       "Objektas">
-<!ENTITY inspectObjectButton.accesskey   "O">
 
 <!ENTITY getMoreDevtoolsCmd.label        "Gauti daugiau priemonių">
 <!ENTITY getMoreDevtoolsCmd.accesskey    "G">
