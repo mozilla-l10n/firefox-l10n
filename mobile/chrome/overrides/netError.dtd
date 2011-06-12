@@ -53,7 +53,7 @@
 <!ENTITY netInterrupt.longDesc "&sharedLongDesc;">
 
 <!ENTITY netOffline.title "Offline-Modus">
-<!ENTITY netOffline.overrideLongDesc "
+<!ENTITY netOffline.longDesc2 "
 <ul>
   <li>Probieren Sie es erneut. Es wird versucht, eine Verbindung zu öffnen und die Seite neu zu laden.</li>
 </ul>

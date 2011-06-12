@@ -53,14 +53,9 @@
 <!ENTITY netInterrupt.longDesc "&sharedLongDesc;">
 
 <!ENTITY netOffline.title "Fehler: Offline-Modus">
-<!-- LOCALIZATION NOTE (netOffline.overrideLongDesc) - This string should
-     indicate that "Work Offline" is a menu item without being too specific,
-     since it could be in either the normal menu (Mac/Linux) or the Firefox button
-     menu (Windows).
--->
-<!ENTITY netOffline.overrideLongDesc "
+<!ENTITY netOffline.longDesc2 "
 <ul>
-  <li>Wählen Sie den Menü-Eintrag &quot;Offline arbeiten&quot; ab, und versuchen Sie es dann nochmals.</li>
+  <li>Wählen Sie &quot;Nochmals versuchen&quot;, um in den Online-Modus zu wechseln und die Seite erneut zu laden.</li>
 </ul>
 ">
 
