@@ -1,4 +1,5 @@
 <!ENTITY window.title "필터 규칙">
+<!ENTITY filterEditorDialog.dimensions "width:100ch;">
 <!ENTITY filterName.label "필터 이름:">
 <!ENTITY filterName.accesskey "i">
 <!ENTITY junk.label "스팸 메일">

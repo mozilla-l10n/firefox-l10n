@@ -9,3 +9,7 @@
 <!ENTITY chooseFoldersButton.accesskey "h">
 <!ENTITY searchOnline.label "온라인으로 검색 (최신 IMAP 및 뉴스 폴더 정보를 구성하므로 폴더 열기 시간이 지연됩니다).">
 <!ENTITY searchOnline.accesskey "S">
+<!ENTITY newFolderButton.label		"새로 만들기">
+<!ENTITY newFolderButton.accesskey	"r">
+<!ENTITY editFolderButton.label		"폴더 변경">
+<!ENTITY editFolderButton.accesskey	"U">
