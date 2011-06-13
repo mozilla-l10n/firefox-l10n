@@ -46,14 +46,18 @@ ka &brandShortName; ir atļauts piekļūt tīmeklim.</li>
 <!ENTITY netInterrupt.longDesc "&sharedLongDesc;">
 
 <!ENTITY netOffline.title "Nesaistes režīms">
-<!ENTITY netOffline.overrideLongDesc "<ul> 
-<li>Izņemiet ķeksīti pie izvēlnes &quot;Strādāt nesaistē&quot; un mēģiniet vēlreiz.</li> 
-</ul>">
+<!ENTITY netOffline.longDesc2 "
+<ul>
+  <li>Nospiediet &quot;Mēģināt vēlreiz&quot; lai pārslēgtos uz tiešsaistes režīmu un pārlādētu lapu.</li>
+</ul>
+">
 
 <!ENTITY contentEncodingError.title "Satura kodējuma kļūda">
 <!ENTITY contentEncodingError.longDesc "<ul> 
 <li>Lūdzu, informējiet mājas lapas īpašniekus par šo problēmu.</li> 
 </ul>">
+<!ENTITY corruptedContentError.title "Bojāta satura kļūda">
+<!ENTITY corruptedContentError.longDesc "<p>Lapu, ko mēģināt apskatīt nevar attēlot datu pārraides kļūdas dēļ.</p><ul><li>Lūdzu sazinieties ar lapas īpašniekiem un informējiet viņus par šo problēmu.</li></ul>">
 
 <!ENTITY unsafeContentType.title "Nedrošs faila tips">
 <!ENTITY unsafeContentType.longDesc "<ul> 

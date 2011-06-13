@@ -69,8 +69,6 @@
 <!ENTITY  moveToGroup.label                  "Pārvietot uz grupu">
 <!ENTITY  moveToGroup.accesskey              "P">
 <!ENTITY  moveToNewGroup.label               "Jauna grupa">
-<!ENTITY inspectObjectButton.label       "Objekts">
-<!ENTITY inspectObjectButton.accesskey   "O">
 <!ENTITY historyRestoreLastSession.label "Atjaunot iepriekšējo sesiju">
 <!ENTITY tabGroupsButton.label        "Ciļņu grupas">
 <!ENTITY tabGroupsButton.tooltip      "Grupējiet savas cilnes">
@@ -424,13 +422,6 @@ you can use these alternative items. Otherwise, their values should be empty.  -
 
 <!ENTITY inspectButton.label          "Izmeklēt">
 <!ENTITY inspectButton.accesskey      "I">
-<!ENTITY inspectNextButton.label      "Tālāk">
-<!ENTITY inspectNextButton.accesskey  "T">
-<!ENTITY inspectPreviousButton.label  "Atpakaļ">
-<!ENTITY inspectPreviousButton.accesskey "A">
-<!ENTITY inspectStyleButton.label     "Stils">
-<!ENTITY inspectStyleButton.accesskey "S">
-<!ENTITY inspectStylePanelTitle.label  "Stils">
 
 <!ENTITY newTabButton.tooltip "Atvērt jaunu cilni">
 <!ENTITY newWindowButton.tooltip "Atvērt jaunu logu">
