@@ -38,5 +38,4 @@
 <!ENTITY search.button.label      "Hae">
 <!ENTITY search.placeholder       "Kirjoita etsittävä teksti">
 
-<!-- Will be used by bug 595246 -->
 <!ENTITY search.engineManager.label "Muokkaa hakukoneita…">

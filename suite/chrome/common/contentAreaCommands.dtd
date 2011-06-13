@@ -76,10 +76,6 @@
 <!ENTITY saveVideoCmd.accesskey       "T">
 <!ENTITY saveAudioCmd.label           "Tallenna ääni nimellä…">
 <!ENTITY saveAudioCmd.accesskey       "T">
-<!ENTITY copyCmd.label                "Kopioi">
-<!ENTITY copyCmd.accesskey            "K">
-<!ENTITY selectAllCmd.label           "Valitse kaikki">
-<!ENTITY selectAllCmd.accesskey       "V">
 <!ENTITY copyLinkCmd.label            "Kopioi linkin osoite">
 <!ENTITY copyLinkCmd.accesskey        "K">
 <!ENTITY copyImageCmd.label           "Kopioi kuva">
@@ -92,16 +88,6 @@
 <!ENTITY metadataCmd.accesskey        "m">
 <!ENTITY copyEmailCmd.label           "Kopioi sähköpostiosoite">
 <!ENTITY copyEmailCmd.accesskey       "s">
-<!ENTITY pasteCmd.label               "Liitä">
-<!ENTITY pasteCmd.accesskey           "i">
-<!ENTITY cutCmd.label                 "Leikkaa">
-<!ENTITY cutCmd.accesskey             "L">
-<!ENTITY deleteCmd.label              "Poista">
-<!ENTITY deleteCmd.accesskey          "o">
-<!ENTITY undoCmd.label                "Kumoa">
-<!ENTITY undoCmd.accesskey            "m">
-<!ENTITY redoCmd.label                "Tee uudelleen">
-<!ENTITY redoCmd.accesskey            "T">
 <!ENTITY thisFrameMenu.label          "Tämä kehys">
 <!ENTITY thisFrameMenu.accesskey      "y">
 <!ENTITY mediaPlay.label              "Toista">

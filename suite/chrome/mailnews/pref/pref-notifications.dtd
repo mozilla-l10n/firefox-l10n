@@ -45,13 +45,13 @@
 <!ENTITY showTrayIcon.label               "Näytä kuvake ilmoitusalueella">
 <!ENTITY showTrayIcon.accesskey           "k">
 <!ENTITY bounceSystemDockIcon.label       "Animoi Dock-kuvaketta">
-<!ENTITY bounceSystemDockIcon.accesskey   "m">
-<!ENTITY preview.label                    "Esikuuntele">
-<!ENTITY preview.accesskey                "E">
+<!ENTITY bounceSystemDockIcon.accesskey   "n">
+<!ENTITY playButton.label                 "Toista">
+<!ENTITY playButton.accesskey             "T">
 <!ENTITY systemsound.label                "Järjestelmän oletusääni">
 <!ENTITY systemsound.accesskey            "ä">
 <!ENTITY customsound.label                "Oma äänitiedosto">
-<!ENTITY customsound.accesskey            "O">
+<!ENTITY customsound.accesskey            "m">
 <!ENTITY browse.label                     "Selaa…">
 <!ENTITY browse.accesskey                 "S">
 <!ENTITY browse.title                     "Valitse tiedosto">
