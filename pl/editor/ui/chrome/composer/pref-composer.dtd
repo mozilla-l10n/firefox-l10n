@@ -7,7 +7,7 @@
 <!ENTITY savingFiles.title "Podczas zapisywania lub publikowania stron">
 <!ENTITY preserveExisting.label "Zachowaj oryginalne formatowanie źródła">
 <!ENTITY preserveExisting.accesskey "o">
-<!ENTITY preserveExisting.tooltip "Zachowuje oryginalne formatowanie strony oraz linie przerwy między wierszami">
+<!ENTITY preserveExisting.tooltip      "Zachowuj łamanie wierszy oraz oryginalne formatowanie strony">
 <!ENTITY saveAssociatedFiles.label "Zachowaj obrazki oraz inne powiązane pliki podczas zapisywania strony">
 <!ENTITY saveAssociatedFiles.accesskey "Z">
 <!ENTITY showPublishDialog.label "Zawsze pokazuj dialog publikowania podczas publikowania stron" >
