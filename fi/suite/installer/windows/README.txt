@@ -48,10 +48,11 @@ osoitteesta itse julkaisujen kanssa.
 
 ==========================================================================
 
-*Windows
+* Windows
 
-   - Windows 2000, XP tai Vista
-   - Intel Pentium -luokan suoritin (500 MHz tai nopeampi suositeltu)
+   - Windows 2000, XP, Server 2003, Vista tai 7
+   - Intel Pentium -luokan suoritin tai uudempi (500 MHz tai nopeampaa
+     suositellaan)
    - 128 Mt keskusmuistia
    - 50 Mt vapaata kiintolevytilaa
 

@@ -145,25 +145,15 @@
 <!ENTITY spellCheckIgnoreWord.accesskey "O">
 <!ENTITY spellCheckAddToDictionary.label "Lisää sanastoon">
 <!ENTITY spellCheckAddToDictionary.accesskey "s">
-<!ENTITY undo.label "Kumoa">
-<!ENTITY undo.accesskey "m">
-<!ENTITY cut.label "Leikkaa">
-<!ENTITY cut.accesskey "L">
-<!ENTITY copy.label "Kopioi">
-<!ENTITY copy.accesskey "K">
-<!ENTITY paste.label "Liitä">
-<!ENTITY paste.accesskey "i">
 <!ENTITY pasteQuote.label "Liitä lainauksena">
 <!ENTITY pasteQuote.accesskey "t">
 
 <!ENTITY openAttachment.label "Avaa">
 <!ENTITY openAttachment.accesskey "A">
-<!ENTITY delete.label "Poista">
-<!ENTITY delete.accesskey "o">
 <!ENTITY renameAttachment.label "Nimeä uudelleen…">
 <!ENTITY renameAttachment.accesskey "N">
-<!ENTITY selectAll.label "Valitse kaikki">
-<!ENTITY selectAll.accesskey "V">
+<!ENTITY deleteAttachment.accesskey "P">
+<!ENTITY selectAllAttachments.accesskey "V">
 <!ENTITY attachFile.label "Lisää liitetiedosto(ja)…">
 <!ENTITY attachFile.accesskey "L">
 <!ENTITY attachPage.label "Lisää verkkosivu liitetiedostoksi">

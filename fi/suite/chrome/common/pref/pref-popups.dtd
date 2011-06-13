@@ -6,28 +6,28 @@
 <!ENTITY popupBlock.accesskey           "E">
 
 <!ENTITY viewPermissions.label          "Muokkaa oikeuksia">
-<!ENTITY viewPermissions.accesskey      "M">
+<!ENTITY viewPermissions.accesskey      "u">
 
 <!ENTITY whenBlock.description          "Kun ponnahdusikkuna on estetty:">
 <!ENTITY playSound.label                "Anna äänimerkki:">
-<!ENTITY playSound.accesskey            "n">
+<!ENTITY playSound.accesskey            "A">
 <!ENTITY systemSound.label              "Tietokoneen piipperin kautta">
-<!ENTITY systemSound.accesskey          "T">
+<!ENTITY systemSound.accesskey          "i">
 <!ENTITY customSound.label              "Oma äänitiedosto">
-<!ENTITY customSound.accesskey          "O">
+<!ENTITY customSound.accesskey          "m">
 
 <!ENTITY selectSound.label              "Selaa…">
-<!ENTITY selectSound.accesskey          "a">
-<!ENTITY previewSound.label             "Esikuuntele">
-<!ENTITY previewSound.accesskey         "k">
+<!ENTITY selectSound.accesskey          "S">
+<!ENTITY playSoundButton.label          "Toista">
+<!ENTITY playSoundButton.accesskey      "T">
 <!ENTITY selectSound.title              "Valitse ponnahdusikkunan estoääni">
 <!ENTITY selectSound.filter             "Äänet">
 
 <!ENTITY displayIcon.label              "Näytä kuvake selaimen tilarivillä">
-<!ENTITY displayIcon.accesskey          "ä">
+<!ENTITY displayIcon.accesskey          "N">
 
 <!ENTITY displayNotification.label      "Näytä ilmoitus sivun yläreunassa">
-<!ENTITY displayNotification.accesskey  "i">
+<!ENTITY displayNotification.accesskey  "ä">
 
 <!ENTITY popupNote.description          "Huom. Kaikkien ponnahdusikkunoiden estäminen saattaa estää joidenkin sivustojen, esim. verkkopankkien ja -kauppojen tärkeät toiminnallisuudet. Valitse Ohje, jos haluat lisätietoja siitä kuinka sallia tiettyjen sivustojen ponnahdusikkunat. Estetyt sivustot saattavat silti käyttää muita keinoja ponnahdusikkunoiden avaamiseksi.">
 

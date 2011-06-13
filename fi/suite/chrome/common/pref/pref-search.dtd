@@ -5,7 +5,7 @@
 <!ENTITY pref.search.title                "Verkkohaut">
 <!ENTITY legendHeader                     "Oletushakukone">
 <!ENTITY defaultSearchEngine.label        "Hakukone:">
-<!ENTITY defaultSearchEngine.accesskey    "a">
+<!ENTITY defaultSearchEngine.accesskey    "H">
 
 <!-- Will be used by bug 595246 -->
 <!ENTITY engineManager.label              "Muokkaa hakukoneita…">
@@ -14,5 +14,7 @@
 
 <!ENTITY openInTab.label                  "Avaa uusi välilehti sivupaneelista tehdyn haun tuloksille">
 <!ENTITY openInTab.accesskey              "v">
+<!ENTITY openContextSearchTab.label       "Avaa ponnahdusvalikosta tehty haku uuteen välilehteen ikkunan sijaan">
+<!ENTITY openContextSearchTab.accesskey   "A">
 <!ENTITY openSidebarSearchPanel.label     "Avaa sivupaneelin Haku-välilehti hakua tehtäessä">
 <!ENTITY openSidebarSearchPanel.accesskey "s">

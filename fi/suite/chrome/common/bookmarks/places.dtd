@@ -67,8 +67,6 @@
 
 <!ENTITY cmd.reloadLivebookmark.label      "Päivitä live-kirjanmerkki">
 <!ENTITY cmd.reloadLivebookmark.accesskey  "r">
-<!ENTITY cmd.reloadMicrosummary.label      "Päivitä muuttuva otsikko">
-<!ENTITY cmd.reloadMicrosummary.accesskey  "P">
 
 <!ENTITY cmd.moveBookmarks.label                  "Siirrä…">
 <!ENTITY cmd.moveBookmarks.accesskey              "S">
@@ -101,8 +99,8 @@
 
 <!ENTITY detailsPane.more.label "Lisää">
 <!ENTITY detailsPane.more.accesskey "L">
-<!ENTITY detailsPane.less.label "Vähemmän">
-<!ENTITY detailsPane.less.accesskey "V">
+<!ENTITY detailsPane.fewer.label "Vähemmän">
+<!ENTITY detailsPane.fewer.accesskey "V">
 <!ENTITY detailsPane.selectAnItemText.description "Valitse kohde, jonka ominaisuuksia haluat tarkastella tai muokata">
 
 <!ENTITY editBookmark.done.label "Valmis">

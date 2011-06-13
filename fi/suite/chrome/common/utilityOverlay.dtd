@@ -37,12 +37,12 @@
 <!ENTITY pasteCmd.key						"V">  
 <!ENTITY pasteCmd.accesskey					"i"> 
 <!ENTITY pasteGoCmd.label					"Liitä ja siirry">
-<!ENTITY pasteGoCmd.accesskey				"L">
+<!ENTITY pasteGoCmd.accesskey				"t">
 
 <!-- LOCALIZATION NOTE (pasteSearchCmd): "Search" is a verb, this is the
      search bar equivalent to the url bar's "Paste & Go"  --> 
 <!ENTITY pasteSearchCmd.label				"Liitä ja hae">
-<!ENTITY pasteSearchCmd.accesskey			"L">
+<!ENTITY pasteSearchCmd.accesskey			"t">
 <!ENTITY deleteCmd.label					"Poista">  
 <!ENTITY deleteCmd.accesskey				"o"> 
 <!ENTITY selectAllCmd.label					"Valitse kaikki">  
@@ -55,9 +55,9 @@
 <!ENTITY preferencesCmd.label				"Asetukset…">
 <!ENTITY preferencesCmd.key					"E">  
 <!ENTITY preferencesCmd.accesskey			"A"> 
-<!ENTITY findTypeTextCmd.label "Etsi tekstiä kirjoitettaessa">
+<!ENTITY findTypeTextCmd.label "Pikahae tekstiä">
 <!ENTITY findTypeTextCmd.accesskey "ä">
-<!ENTITY findTypeLinksCmd.label "Etsi linkkejä kirjoitettaessa">
+<!ENTITY findTypeLinksCmd.label "Pikahae linkkejä">
 <!ENTITY findTypeLinksCmd.accesskey "n">
 
 <!ENTITY viewMenu.label					"Näytä"> 
@@ -71,11 +71,13 @@
 <!ENTITY helpMenu.accesskey				"O"> 
 
 <!ENTITY helpTroubleshootingInfo.label      "Vianetsintätiedot">
-<!ENTITY helpTroubleshootingInfo.accesskey  "t">
-<!ENTITY releaseCmd.label				"Julkaisutiedot">
-<!ENTITY releaseCmd.accesskey                   "u">
-<!ENTITY updateCmd.label                        "Hae päivityksiä…">
-<!ENTITY updateCmd.accesskey                    "H">
+<!ENTITY helpTroubleshootingInfo.accesskey  "V">
+<!ENTITY releaseCmd.label                   "Julkaisutiedot">
+<!ENTITY releaseCmd.accesskey               "u">
+<!ENTITY helpSafeMode.label                 "Käynnistä uudelleen ilman lisäosia">
+<!ENTITY helpSafeMode.accesskey             "K">
+<!ENTITY updateCmd.label                    "Hae päivityksiä…">
+<!ENTITY updateCmd.accesskey                "H">
 <!ENTITY aboutCmd.label					"Tietoja &brandShortName;stä">
 <!ENTITY aboutCmd.accesskey				"e">
 <!ENTITY aboutCommPluginsCmd.label			"Tietoja liitännäisistä">

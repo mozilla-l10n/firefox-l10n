@@ -52,12 +52,13 @@ osoitteesta itse julkaisujen kanssa.
 
 * Linux
 
-   - Seuraavat (tai yhteensopivat) kirjastot vaaditaan:
-     glibc 2.3.2, X.org 1.x, GTK 2.x, fontconfig, pango 1.10, libstdc++ 6.
+   - Seuraavat (tai uudemmat tai yhteensopivat) kirjastot vaaditaan:
+     GTK+ 2.10, GLib 2.12, Pango 1.14, X.Org 1.0.
    - SeaMonkeyn pitäisi toimia ainakin seuraavissa jakeluversioissa:
      Red Hat Enterprise Linux 5, Fedora Core 6, ubuntu 6.10 ("Edgy"),
-     Debian "Lenny" (testaus) sekä openSUSE 10.2 (tai uudempi).
-   - Intel Pentium -luokan suoritin (500 MHz tai nopeampi suositeltu)
+     Debian "Lenny" sekä openSUSE 10.2 (tai uudempi).
+   - Intel Pentium -luokan suoritin tai uudempi (500 MHz tai nopeampaa
+     suositellaan)
    - 128 Mt keskusmuistia
    - 50 Mt vapaata kiintolevytilaa
 

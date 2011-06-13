@@ -1,6 +1,6 @@
 <!-- The page shown when not logged in... -->
-<!ENTITY setupButton.label          "Aseta &syncBrand.fullName.label;in asetukset">
-<!ENTITY setupButton.accesskey      "A">
+<!ENTITY setupButton.label          "Määritä &syncBrand.fullName.label;in asetukset">
+<!ENTITY setupButton.accesskey      "M">
 <!ENTITY weaveDesc.label            "&syncBrand.fullName.label;in avulla sivuhistoria, kirjanmerkit, salasanat ja avoimet välilehdet ovat saatavilla kaikissa laitteissasi.">
 
 <!-- The page shown when logged in... -->
@@ -24,8 +24,10 @@
 <!ENTITY mySyncKey.accesskey          "S">
 <!ENTITY resetSync.label              "Nollaa Sync">
 <!ENTITY resetSync.accesskey          "N">
-<!ENTITY stopUsingAccount.label       "Lopeta tämän tilin käyttö">
-<!ENTITY stopUsingAccount.accesskey   "a">
+<!ENTITY deactivateDevice.label       "Irrota laite palvelusta">
+<!ENTITY deactivateDevice.accesskey   "I">
+<!ENTITY addDevice.label              "Lisää laite">
+<!ENTITY addDevice.accesskey          "a">
 
 <!-- Sync Settings -->
 <!ENTITY syncComputerName.label       "Tietokoneen nimi:">

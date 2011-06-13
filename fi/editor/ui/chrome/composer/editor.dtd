@@ -42,16 +42,51 @@
 
 <!-- Menu items:  the . means that the menu item isn't implemented yet -->
 
+<!-- Toolbar-only items -->
+<!ENTITY compositionToolbar.tooltip "Oletus">
+
 <!-- View menu items -->
 <!ENTITY viewMenu.label "Näytä">
 <!ENTITY viewMenu.accesskey "N">
 <!ENTITY compositionToolbarCmd.label "Oletus">
-<!ENTITY compositionToolbarCmd.accesskey "V">
+<!ENTITY compositionToolbarCmd.accesskey "O">
 <!ENTITY formattingToolbarCmd.label "Muotoilu">
 <!ENTITY formattingToolbarCmd.accesskey "M">
 <!ENTITY editmodeToolbarCmd.label "Muokkaustila">
-<!ENTITY editmodeToolbarCmd.accesskey "M">
+<!ENTITY editmodeToolbarCmd.accesskey "u">
 
 <!-- Format menu items -->
 <!ENTITY formatMenu.label "Muotoilu">
 <!ENTITY formatMenu.accesskey "u">
+<!ENTITY grid.label "Sijoitusruudukko">
+<!ENTITY grid.accesskey "r">
+<!ENTITY pageProperties.label "Sivun otsikko ja ominaisuudet…">
+<!ENTITY pageProperties.accesskey "m">
+
+<!-- Tools menu items -->
+<!ENTITY validateCmd.label "Tarkasta HTML">
+<!ENTITY validateCmd.accesskey "T">
+
+<!-- Display Mode toolbar and View menu items -->
+<!ENTITY NormalModeTab.label "Normaali">
+<!ENTITY NormalMode.label "Normaali muokkaustila">
+<!ENTITY NormalMode.accesskey "N">
+<!ENTITY NormalMode.tooltip "Näytä taulukkojen kehykset sekä nimetyt ankkurit">
+<!ENTITY AllTagsModeTab.label "HTML-tunnukset">
+<!ENTITY AllTagsMode.label "HTML-tunnukset">
+<!ENTITY AllTagsMode.accesskey "u">
+<!ENTITY AllTagsMode.tooltip "Näytä kuvake jokaisen HTML-tunnuksen kohdalla">
+<!-- LOCALIZATION NOTE: (HTMLSourceModeTab.dir, HTMLSourceModeTab.label)
+     Do NOT translate text for 'HTMLSourceModeTab.dir', use latin "ltr" if
+     you want the <html> image to left of the 'HTMLSourceModeTab.label' text,
+     or use latin "rtl" if you want this image to the right of text. You do
+     not need to include HTML in the label 'HTMLSourceModeTab.label' -->
+<!ENTITY HTMLSourceModeTab.dir "ltr">
+<!ENTITY HTMLSourceModeTab.label "Lähdekoodi">
+<!ENTITY HTMLSourceMode.label "HTML-lähdekoodi">
+<!ENTITY HTMLSourceMode.accesskey "ä">
+<!ENTITY HTMLSourceMode.tooltip "Muokkaa HTML-lähdekoodia">
+<!ENTITY PreviewModeTab.label "Esikatselu">
+<!ENTITY PreviewMode.label "Esikatselu">
+<!ENTITY PreviewMode.accesskey "E">
+<!ENTITY PreviewMode.tooltip "Näytä sivu sellaisena kuin se näkyy mm. selaimessa">

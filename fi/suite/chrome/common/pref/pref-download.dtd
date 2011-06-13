@@ -2,24 +2,24 @@
 
 <!ENTITY downloadBehavior.label         "Aloitettaessa tiedoston latausta">
 <!ENTITY focusWhenStarting.label        "Välkytä latausikkunaa, jos se on valmiiksi auki, muussa tapauksessa:">
-<!ENTITY focusWhenStarting.accesskey    "V">
+<!ENTITY focusWhenStarting.accesskey    "ä">
 <!ENTITY openDM.label                   "Avaa latausikkuna">
-<!ENTITY openDM.accesskey               "A">
+<!ENTITY openDM.accesskey               "l">
 <!ENTITY openProgressDialog.label       "Avaa edistymisdialogi">
 <!ENTITY openProgressDialog.accesskey   "e">
 <!ENTITY doNothing.label                "Älä avaa mitään">
-<!ENTITY doNothing.accesskey            "Ä">
+<!ENTITY doNothing.accesskey            "m">
 
 <!ENTITY downloadLocation.label         "Tallennettaessa tiedostoa">
-<!ENTITY saveTo.label                   "Tallenna kansioon">
+<!ENTITY saveTo.label                   "Tallenna se kansioon">
 <!ENTITY saveTo.accesskey               "T">
 <!ENTITY chooseDownloadFolder.label     "Valitse kansio…">
-<!ENTITY chooseDownloadFolder.accesskey "k">
+<!ENTITY chooseDownloadFolder.accesskey "V">
 <!ENTITY alwaysAsk.label                "Kysy aina tiedoston tallennuskansio">
-<!ENTITY alwaysAsk.accesskey            "y">
+<!ENTITY alwaysAsk.accesskey            "K">
 
 <!ENTITY downloadHistory.label          "Lataushistoria">
-<!ENTITY removeEntries.label            "Poista latausmerkinnät">
+<!ENTITY removeEntries.label            "Poista lataukset listalta">
 <!ENTITY removeEntries.accesskey        "P">
 <!ENTITY whenCompleted.label            "Kun ne ovat latautuneet">
 <!ENTITY whenQuittingApp.label          "Kun &brandShortName; suljetaan">
@@ -27,10 +27,10 @@
 
 <!ENTITY finishedBehavior.label         "Kun tiedosto on latautunut">
 <!ENTITY playSound.label                "Anna äänimerkki">
-<!ENTITY playSound.accesskey            "n">
+<!ENTITY playSound.accesskey            "A">
 <!ENTITY showAlert.label                "Näytä ilmoitus">
-<!ENTITY showAlert.accesskey            "i">
+<!ENTITY showAlert.accesskey            "N">
 <!ENTITY browse.label                   "Selaa…">
 <!ENTITY browse.accesskey               "S">
-<!ENTITY preview.label                  "Esikuuntele">
-<!ENTITY preview.accesskey              "E">
+<!ENTITY playButton.label               "Toista">
+<!ENTITY playButton.accesskey           "i">
