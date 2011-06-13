@@ -1,8 +1,3 @@
-<!-- extracted from content/pref-composer.xul -->
-
-<!--LOCALIZATION NOTE : FILE 'Composer' prefs dialog. Similar to Communcator 4.x Document Properties/Colors and Background -->
-
-<!--LOCALIZATION NOTE (pref.composer.title): DONT_TRANSLATE -->
 <!ENTITY pref.composer.title "Kompozytor Stron">
 
 <!ENTITY recentFiles.title "Ostatnio edytowane strony">
@@ -24,5 +19,5 @@
 <!ENTITY maintainStructure.accesskey "m">
 <!ENTITY useCSS.label "Użyj arkuszy stylów CSS (Cascading Style Sheets) zamiast elementów i atrybutów HTML">
 <!ENTITY useCSS.accesskey "U">
-<!ENTITY crInPCreatesNewP.label "Enter w paragrafie zawsze tworzy nowy paragraf">
+<!ENTITY crInPCreatesNewP.label     "Enter w akapicie zawsze tworzy nowy akapit">
 <!ENTITY crInPCreatesNewP.accesskey "r">
