@@ -23,14 +23,13 @@
 <!ENTITY warning.updatesecurity.enable.label       "Gweredekaat">
 <!ENTITY warning.updatesecurity.enable.tooltip     "Gweredekaat ar gwiriadur a-fet diogelroez hizivadur an askouezh">
 
+<!-- global informations -->
+<!ENTITY info.plugincheck.label                 "Gwiriañ mard ez eo hizivaet hoc'h enlugelladoù">
+<!ENTITY info.plugincheck.tooltip               "Check to see if your plugins are up to date">
+
 <!-- categories / views -->
 <!ENTITY view.search.label                    "Klask">
 <!ENTITY view.discover.label                  "Kaout askouezhioù">
-<!ENTITY view.locales.label                   "Yezhoù">
-<!ENTITY view.searchengines.label             "Kefluskerioù klask">
-<!ENTITY view.features.label                  "Askouezhioù">
-<!ENTITY view.appearance2.label               "Neuz">
-<!ENTITY view.plugins.label                   "Enlugelladoù">
 <!ENTITY view.recentUpdates.label             "Hizivadurioù nevesañ">
 <!ENTITY view.availableUpdates.label          "Hizivadurioù hegerz">
 

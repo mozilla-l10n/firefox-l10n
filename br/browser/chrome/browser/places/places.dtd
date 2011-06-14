@@ -6,12 +6,9 @@
 <!ENTITY organize.accesskey    "o">
 <!ENTITY organize.tooltip      "Aozañ ho sinedoù">
 
-<!ENTITY file.accesskey                 "F">
 <!ENTITY file.close.label               "Serriñ">
 <!ENTITY file.close.accesskey           "e">
 <!ENTITY cmd.close.key                  "w">
-<!ENTITY edit.label                     "Embann">
-<!ENTITY edit.accesskey                 "E">
 <!ENTITY views.label                    "Gwelioù">
 <!ENTITY views.accesskey                "w">
 <!ENTITY views.tooltip                  "Kemmañ ho kwelioù">
@@ -76,8 +73,6 @@
 
 <!ENTITY cmd.reloadLivebookmark.label      "Adkargañ ar sined dialuskel">
 <!ENTITY cmd.reloadLivebookmark.accesskey  "r">
-<!ENTITY cmd.reloadMicrosummary.label      "Adkargañ an titl bev">
-<!ENTITY cmd.reloadMicrosummary.accesskey  "r">
 
 <!ENTITY cmd.moveBookmarks.label                  "Dilec'hiañ…">
 <!ENTITY cmd.moveBookmarks.accesskey              "l">
@@ -113,17 +108,14 @@
 <!ENTITY maintenance.accesskey  "i">
 <!ENTITY maintenance.tooltip    "Enporzhiañ ha gwarediñ ho sinedoù">
 
-<!ENTITY backCmd.label       "War-gil">
 <!ENTITY backButton.tooltip  "Mont war-gil">
 
-<!ENTITY forwardCmd.label       "War-raok">
 <!ENTITY forwardButton.tooltip  "Mont war-raok">
 
 <!ENTITY detailsPane.more.label "Muioc'h a draoù">
 <!ENTITY detailsPane.more.accesskey "u">
 <!ENTITY detailsPane.less.label "Nebeutoc'h">
 <!ENTITY detailsPane.less.accesskey "e">
-<!ENTITY detailsPane.noPreviewAvailable.label "Alberz">
 <!ENTITY detailsPane.selectAnItemText.description "Diuzañ an ergorenn evit gwelout he ferzhioù">
 
 <!ENTITY find.label               "Klask :">

@@ -43,7 +43,7 @@
 <!ENTITY setup.newSyncKeyPage.description.label "A-benn gwareziñ ho puhez prevez e vo enrineget ho roadennoù holl kent bezañ kaset. Ne vo ket kaset an alc'hwez goubredañ ret a-benn ezrinegañ.">
 <!ENTITY syncKeyEntry.label        "Hoc'h alc'hwez goubredañ">
 <!ENTITY syncKeyEntry.accesskey    "H">
-<!ENTITY syncKeyGenerate.label     "Genel">
+<!ENTITY syncGenerateNewKey.label  "Genel un alc'hwez nevez">
 <!ENTITY syncKeyBackup.description "Ezhomm ez eus hoc'h alc'hwez enrinegañ a-benn tizhout &syncBrand.fullName.label; war urzhiataerioù all. Mar plij, savit un eilad gwarediñ. N'hallimp ket reiñ skoazell deoc'h a-benn adtapout hoc'h alc'hwez goubredañ.">
 
 <!ENTITY button.syncKeyBackup.print.label     "Moullañ…">

@@ -56,7 +56,7 @@
 
 <!ENTITY updateTab.label                 "Hizivaat">
 
-<!ENTITY autoCheck.label                 "Gwiriañ an hizivadurioù ent-emgefre :">
+<!ENTITY autoCheck.label                 "Klask an hizivadurioù ent-emgefreek evit :">
 <!ENTITY enableAppUpdate.label           "&brandShortName;">
 <!ENTITY enableAppUpdate.accesskey       "F">
 <!ENTITY enableAddonsUpdate2.label       "Askouezhioù">

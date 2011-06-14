@@ -19,10 +19,14 @@
 
 <!ENTITY pluginWizard.finalPage.moreInfo.label               "Klask muioc'h a stlennoù a-zivout an enlugelladoù pe klask enlugelladoù o vankout dre-zorn.">
 <!ENTITY pluginWizard.finalPage.restart.label                "Evit ma labour an enlugellad(où) eo ret adloc'hañ &brandShortName;.">
-  
-<!ENTITY missingPlugin.label                                 "Klikañ amañ evit pellgargañ un enlugellad.">
-<!ENTITY disabledPlugin.label                                "Diweredekaet eo an enlugellad evit an endalc'h-mañ. Klikit amañ evit merañ hoc'h enlugelladoù.">
+
+<!ENTITY missingPlugin                                       "Un enlugellad zo ret evit skrammañ an endalc'had-mañ.">
+<!ENTITY disabledPlugin                                      "Diweredekaet eo an enlugellad-mañ.">
 <!ENTITY blockedPlugin.label                                 "Harzet eo bet an enlugellad-mañ evit ho tiogel.">
+
+<!ENTITY installPlugin                                       "Staliañ an enlugellad…">
+<!ENTITY managePlugins                                       "Ardeiñ an enlugelladoù…">
+
 <!-- LOCALIZATION NOTE (reloadPlugin.pre): include a trailing space as needed -->
 <!-- LOCALIZATION NOTE (reloadPlugin.middle): avoid leading/trailing spaces, this text is a link -->
 <!-- LOCALIZATION NOTE (reloadPlugin.post): include a starting space as needed -->

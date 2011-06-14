@@ -6,7 +6,6 @@
 <!ENTITY editBookmarkOverlay.feedLocation.accesskey          "l">
 <!ENTITY editBookmarkOverlay.siteLocation.label              "Lec'hiadur al lec'hienn :">
 <!ENTITY editBookmarkOverlay.siteLocation.accesskey          "e">
-<!ENTITY editBookmarkOverlay.liveTitlesSeparator.label       "Titloù dialuskel">
 <!ENTITY editBookmarkOverlay.folder.label                    "Teuliad :">
 <!ENTITY editBookmarkOverlay.foldersExpanderDown.tooltip     "Diskouez holl sinedoù an teuliadoù">
 <!ENTITY editBookmarkOverlay.expanderUp.tooltip              "Kuzhat">
