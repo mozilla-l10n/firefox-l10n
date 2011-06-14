@@ -25,8 +25,7 @@
 <!ENTITY netInterrupt.longDesc "<p>Rinn am brabhsair ceangal gu soirbheachail ach bhris an ceangal fhad 's a chaidh fiosrachadh a chur a-null 's a-nall. Feuch ris a-rithist.</p><ul><li>An ruig thu làraichean eile leis a' bhrabhsair agad? Cuir sùil air ceangal a' choimpiutair agad ris an lìonra.</li><li>Duilgheadasan agad fhathast? Bruidhinn ri rianaire an lìonraidh agad no ri solaraiche a' cheangail-lìn agad airson cobhair.</li></ul>">
 
 <!ENTITY netOffline.title "Modh far loidhne">
-<!ENTITY netOffline.longDesc "<p>Tha am brabhsair agad sa mhodh far loidhne 's chan urrainn dha ceangal ris an rud a dh'iarr thu.</p><ul><li>A bheil an coimpiutair seo co-cheangailte ri lìonra beò?</li><li>Tòisich am modh air loidhne agus feuch ris a-rithist.</li></ul>">
-<!ENTITY netOffline.overrideLongDesc "<p>Tha am brabhsair agad sa mhodh far loidhne 's chan urrainn dha ceangal ris an rud a dh'iarr thu.</p><ul><li>A bheil an coimpiutair seo co-cheangailte ri lìonra beò?</li><li>Tòisich am modh air loidhne agus feuch ris a-rithist.</li></ul>">
+<!ENTITY netOffline.longDesc2 "<p>Tha am brabhsair agad sa mhodh far loidhne 's chan urrainn dha ceangal ris an rud a dh'iarr thu.</p><ul><li>A bheil an coimpiutair seo co-cheangailte ri lìonra beò?</li><li>Briog air &quot;Feuch ris a-rithist&quot; gus tòiseachadh air a' mhodh air loidhne agus an duilleadh luchdadh a-rithist.</li></ul>">
 
 <!ENTITY contentEncodingError.title "Mearachd le còdachadh na susbaint">
 <!ENTITY contentEncodingError.longDesc "<p>Cha ghabh an duilleag a tha thu airson faicinn a shealltainn a chionn 's gu bheil e a' cleachdadh dùmhlachadh mì-dhligheach no feadhainn nach eil taic ann dha.</p><ul><li>Leig fios gu muinntir na làraich mun duilgheadas seo.</li></ul>">
