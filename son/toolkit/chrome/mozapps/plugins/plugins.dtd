@@ -19,13 +19,17 @@
 
 <!ENTITY pluginWizard.finalPage.moreInfo.label               "Bay ka tonton sukarey ga wala wa sukari jeccantey ceeci.">
 <!ENTITY pluginWizard.finalPage.restart.label                "&brandShortName; ga hima ka tunandi taaga hala sukarey ma duu ka goy.">
-  
-<!ENTITY missingPlugin.label                                 "Naagu ne ka sukaroo zumandi.">
-<!ENTITY disabledPlugin.label                                "Sukaroo kaŋ goo gundekunaa woo se kay. Naagu ne ka war sukarey juwal.">
-<!ENTITY blockedPlugin.label                                 "Sukaroo woo gagayandi ka war jejebu.">
+
+<!ENTITY missingPlugin                                       "Sukari ga waažibi ka gundekunaa woo cebe. ">
+<!ENTITY disabledPlugin                                      "Sukaroo n' ka hun goy.">
+<!ENTITY blockedPlugin.label                                 "Sukaroo woo gagayandi war da boŋ-daabaa se.">
+
+<!ENTITY installPlugin                                       "Sukari sinji...">
+<!ENTITY managePlugins                                       "Sukarey juwal...">
 <!-- LOCALIZATION NOTE (reloadPlugin.pre): include a trailing space as needed -->
 <!-- LOCALIZATION NOTE (reloadPlugin.middle): avoid leading/trailing spaces, this text is a link -->
 <!-- LOCALIZATION NOTE (reloadPlugin.post): include a starting space as needed -->
+
 <!ENTITY reloadPlugin.pre                                    "">
 <!ENTITY reloadPlugin.middle                                 "Moɲoo dam taaga">
 <!ENTITY reloadPlugin.post                                   " ka ceeci koyne.">

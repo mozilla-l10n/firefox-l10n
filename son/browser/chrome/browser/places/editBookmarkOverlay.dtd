@@ -6,7 +6,6 @@
 <!ENTITY editBookmarkOverlay.feedLocation.accesskey          "A">
 <!ENTITY editBookmarkOverlay.siteLocation.label              "Nungu doo:">
 <!ENTITY editBookmarkOverlay.siteLocation.accesskey          "N">
-<!ENTITY editBookmarkOverlay.liveTitlesSeparator.label       "Tiiramaa dirantey">
 <!ENTITY editBookmarkOverlay.folder.label                    "Foolo:">
 <!ENTITY editBookmarkOverlay.foldersExpanderDown.tooltip     "Doo-šilba foolawey kul cebe">
 <!ENTITY editBookmarkOverlay.expanderUp.tooltip              "Tugu">

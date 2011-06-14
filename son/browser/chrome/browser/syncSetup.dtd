@@ -43,7 +43,7 @@
 <!ENTITY setup.newSyncKeyPage.description.label "Ka war suturaa tabatandi, war bayhayey kul n'ka tugandi jina kaŋ i ga zijandi. Sync kufaloo kaŋ ga waažibi ka war bayhayey kufal-kaa mana zijandi.">
 <!ENTITY syncKeyEntry.label        "War Sync kufaloo">
 <!ENTITY syncKeyEntry.accesskey    "K">
-<!ENTITY syncKeyGenerate.label     "Bangandi">
+<!ENTITY syncGenerateNewKey.label  "Kufal taaga kaataray">
 <!ENTITY syncKeyBackup.description "War Sync kufaloo ga waažibandi ka duu &syncBrand.fullName.label; maršin waaniyaŋ ga. Taare banda-gaadu celle tee. Ir ši hin ka war gaa ka war Sync kufaloo kurma.">
 
 <!ENTITY button.syncKeyBackup.print.label     "Kar…">
@@ -71,7 +71,7 @@
 <!ENTITY existingSyncKey.description "War ga hin ka duu war Sync kufaloo celle nda war koy &syncBrand.shortName.label; Suubarey do war jinay faa ga, nda wa  &#x0022;My Sync Key&#x0022; suuba &#x0022;Manage Account&#x0022; cire.">
 <!ENTITY verifying.label              "Goo ma koroši…">
 <!ENTITY resetPassword.label          "Šennikufaloo yeeti">
-<!ENTITY resetSyncKey.label           "Ay jinay faa din dere yane.">
+<!ENTITY resetSyncKey.label           "Ay jinay foo tanaa dere yane.">
 <!-- Sync Options -->
 
 <!ENTITY setup.optionsPage.title      "Sync suubarey">

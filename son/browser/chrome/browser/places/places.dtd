@@ -2,16 +2,13 @@
 <!ENTITY places.library.title  "Tiirahugu">
 <!ENTITY places.library.width  "700">
 <!ENTITY places.library.height "500">
-<!ENTITY organize.label        "Hanse">
-<!ENTITY organize.accesskey    "H">
+<!ENTITY organize.label        "Marga">
+<!ENTITY organize.accesskey    "M">
 <!ENTITY organize.tooltip      "War doo-šilbawey marga">
 
-<!ENTITY file.accesskey                 "F">
 <!ENTITY file.close.label               "Daabu">
 <!ENTITY file.close.accesskey           "D">
 <!ENTITY cmd.close.key                  "w">
-<!ENTITY edit.label                     "Fasal">
-<!ENTITY edit.accesskey                 "F">
 <!ENTITY views.label                    "Gunarey">
 <!ENTITY views.accesskey                "G">
 <!ENTITY views.tooltip                  "Gunaroo barmay">
@@ -76,8 +73,6 @@
 
 <!ENTITY cmd.reloadLivebookmark.label      "Doo-šilbay dirante dam taaga">
 <!ENTITY cmd.reloadLivebookmark.accesskey  "d">
-<!ENTITY cmd.reloadMicrosummary.label      "Tiiramaa dirante dam taaga">
-<!ENTITY cmd.reloadMicrosummary.accesskey  "d">
 
 <!ENTITY cmd.moveBookmarks.label                  "Ganandi…">
 <!ENTITY cmd.moveBookmarks.accesskey              "G">
@@ -113,17 +108,14 @@
 <!ENTITY maintenance.accesskey  "C">
 <!ENTITY maintenance.tooltip    "War doo-šilbawey cendi ka dam nd'i banda-gaabu">
 
-<!ENTITY backCmd.label       "banda">
 <!ENTITY backButton.tooltip  "Yee banda">
 
-<!ENTITY forwardCmd.label       "Jine">
 <!ENTITY forwardButton.tooltip  "Koy jine">
 
 <!ENTITY detailsPane.more.label "Bešere">
 <!ENTITY detailsPane.more.accesskey "B">
 <!ENTITY detailsPane.less.label "Kaccu nda">
 <!ENTITY detailsPane.less.accesskey "K">
-<!ENTITY detailsPane.noPreviewAvailable.label "Moo-fur">
 <!ENTITY detailsPane.selectAnItemText.description "Hayiize suuba k'a guna nda ka nga mayrawey fasal.">
 
 <!ENTITY find.label               "Ceeci:">

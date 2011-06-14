@@ -30,9 +30,9 @@
 <!ENTITY servicesMenuMac.label          "Goyey">
 
 <!ENTITY hideThisAppCmdMac.label        "&brandShortName; tugu">
-<!ENTITY hideThisAppCmdMac.commandkey   "h">
+<!ENTITY hideThisAppCmdMac.commandkey   "H">
 
-<!ENTITY hideOtherAppsCmdMac.label      "Jerey tugu">
-<!ENTITY hideOtherAppsCmdMac.commandkey "h">
+<!ENTITY hideOtherAppsCmdMac.label      "Tanawey tugu">
+<!ENTITY hideOtherAppsCmdMac.commandkey "H">
 
 <!ENTITY showAllAppsCmdMac.label        "Kul cebe">

@@ -22,15 +22,14 @@
 <!ENTITY warning.updatesecurity.label              "Tontoni saajaw taagandiri koroširoo kayandi. A ga hima taagandirey ga šendayyaŋ kate.">
 <!ENTITY warning.updatesecurity.enable.label       "Tunandi">
 <!ENTITY warning.updatesecurity.enable.tooltip     "Tontoni saajaw taagandiri koroširoo tunandi">
+<!-- global informations -->
+
+<!ENTITY info.plugincheck.label                 "Guna ka dii wala war sukarey n' ka taagandi">
+<!ENTITY info.plugincheck.tooltip               "Guna ka dii wala war sukarey n' ka taagandi">
 <!-- categories / views -->
 
 <!ENTITY view.search.label                    "Ceeci">
 <!ENTITY view.discover.label                  "Tontoney zaa">
-<!ENTITY view.locales.label                   "Šenney">
-<!ENTITY view.searchengines.label             "Ceeci maršiney">
-<!ENTITY view.features.label                  "Dobuyaney">
-<!ENTITY view.appearance2.label               "Bangayyan">
-<!ENTITY view.plugins.label                   "Sukarey">
 <!ENTITY view.recentUpdates.label             "Taagandiri kokorantey">
 <!ENTITY view.availableUpdates.label          "Taagandiri barantey">
 <!-- addon updates -->
