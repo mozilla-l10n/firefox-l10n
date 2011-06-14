@@ -30,9 +30,9 @@ pue tar caducada.</li><li>¿Nun yes quien a navegar per otros sitios? Comprueba 
 <!ENTITY netInterrupt.longDesc "<p>El restolador coneutóse correcho, pero torgóse la conexón mentanto se taba tresfiriendo información. Por favor, vuelvi a intentalo.</p><ul><li>¿Nun pues navegar per otros sitios? Comprueba la conexón de rede del equipu.</li><li>¿Entá tienes problemes? Consulta col alministrador de rede o fornidor d'Internet pa obtener asistencia téunica.</li></ul>">
 
 <!ENTITY netOffline.title "Mou ensin conexón">
-<!ENTITY netOffline.overrideLongDesc "
+<!ENTITY netOffline.longDesc2 "
 <ul>
-  <li>Desmarca l'elementu del menú &quot;Trabayar ensin conexón&quot; y prueba otra vuelta</li>
+  <li>Calca &quot;Reintentar&quot; pa cambiar a mou en llinia y recargar la páxina.</li>
 </ul>
 ">
 <!ENTITY contentEncodingError.title "Error de codificación de conteníu">

@@ -153,15 +153,8 @@
 <!ENTITY inspectPanelTitle.label "HTML">
 <!ENTITY inspectButton.label "Inspeicionar">
 <!ENTITY inspectButton.accesskey "I">
-<!ENTITY inspectNextButton.label "Siguiente">
-<!ENTITY inspectNextButton.accesskey "n">
-<!ENTITY inspectPreviousButton.label "Anterior">
-<!ENTITY inspectPreviousButton.accesskey "t">
-<!ENTITY inspectStyleButton.label "Estilu">
-<!ENTITY inspectStyleButton.accesskey "s">
-<!ENTITY inspectStylePanelTitle.label "Estilu">
-<!ENTITY inspectObjectButton.label "Oxetu">
-<!ENTITY inspectObjectButton.accesskey "O">
+
+
 <!ENTITY fileMenu.label "Ficheru">
 <!ENTITY fileMenu.accesskey "F">
 <!ENTITY newNavigatorCmd.label "Ventana nueva">

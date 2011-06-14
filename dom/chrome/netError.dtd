@@ -27,8 +27,7 @@
 <!ENTITY netInterrupt.longDesc "<p>El restolador coneutóse correcho, pero interrumpióse la conexón mientres se tresfería información. Por favor, vuelve a intentalo.</p><ul><li>¿Nun puedes restolar per otros sitios? Comprueba la conexón de rede del ordenador.</li><li>¿Entá con problemes? Consulta col to alministrador de rede o fornidor d'Internet pa obtener asistencia téunica.</li></ul>">
 
 <!ENTITY netOffline.title "Mou ensin conexón">
-<!ENTITY netOffline.longDesc "<p>Agora, el restolador ta en mou ensin conexón y nun puede coneutase al elementu solicitáu</p><ul><li>¿Ta l'equipu coneutáu a una rede activa? </li><li>Pon el restolador en mou Conexón y vuelvi a intentalo.</li></ul>">
-<!ENTITY netOffline.overrideLongDesc "<p>Agora, el restolador web ta en mou ensin conexón y nun pue coneutase al elementu solicitáu</p><ul><li>¿Ta l'equipu coneutáu a una rede activa? </li><li>Pon el restolador web en mou con conexón y vuelvi a intentalo.</li></ul>">
+<!ENTITY netOffline.longDesc2 "<p>Agora, el restolador ta en mou ensin conexón y nun puede coneutase al elementu solicitáu</p><ul><li>¿Ta l'equipu coneutáu a una rede activa?</li><li>Calca &quot;Reintentar&quot; pa cambiar al mou en llinia y recargar la páxina.</li></ul>">
 
 <!ENTITY contentEncodingError.title "Fallu de codificación de conteníu">
 <!ENTITY contentEncodingError.longDesc "<p>La páxina que tas intentando ver nun pue amosase porque usa una forma non válida o non almitía de compresión.</p><ul><li>Por favor, contauta colos propietarios del sitiu web pa informa-yos d'esti problema.</li></ul>">
