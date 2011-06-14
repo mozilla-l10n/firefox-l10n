@@ -49,7 +49,7 @@
 
 <!ENTITY limitCacheSizeBefore.label      "Beperk kas tot">
 <!ENTITY limitCacheSizeBefore.accesskey  "B">
-<!ENTITY limitCacheSizeAfter.label       "MB spasie">
+<!ENTITY limitCacheSizeAfter.label       "MG spasie">
 <!ENTITY clearCacheNow.label             "Maak nou skoon">
 <!ENTITY clearCacheNow.accesskey         "M">
 <!ENTITY overrideSmartCacheSize.label    "Oorheers outomatiese kasbestuur">

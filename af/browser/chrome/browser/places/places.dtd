@@ -6,12 +6,9 @@
 <!ENTITY organize.accesskey    "O">
 <!ENTITY organize.tooltip      "Organiseer jou boekmerke">
 
-<!ENTITY file.accesskey                 "F">
 <!ENTITY file.close.label               "Sluit">
 <!ENTITY file.close.accesskey           "S">
 <!ENTITY cmd.close.key                  "w">
-<!ENTITY edit.label                     "Redigeer">
-<!ENTITY edit.accesskey                 "e">
 <!ENTITY views.label                    "Aansigte">
 <!ENTITY views.accesskey                "A">
 <!ENTITY views.tooltip                  "Wysig jou aansig">
@@ -70,14 +67,12 @@
 <!ENTITY cmd.new_bookmark.accesskey        "b">
 <!ENTITY cmd.new_folder.label              "Nuwe vouer…">
 <!ENTITY cmd.new_folder.accesskey          "o">
-<!ENTITY cmd.context_new_folder.accesskey  "u">
+<!ENTITY cmd.context_new_folder.accesskey  "o">
 <!ENTITY cmd.new_separator.label           "Nuwe skeier">
 <!ENTITY cmd.new_separator.accesskey       "s">
 
 <!ENTITY cmd.reloadLivebookmark.label      "Herlaai lewendige boekmerk">
 <!ENTITY cmd.reloadLivebookmark.accesskey  "H">
-<!ENTITY cmd.reloadMicrosummary.label      "Herlaai Lewendige titel">
-<!ENTITY cmd.reloadMicrosummary.accesskey  "H">
 
 <!ENTITY cmd.moveBookmarks.label                  "Verskuif…">
 <!ENTITY cmd.moveBookmarks.accesskey              "V">
@@ -113,17 +108,14 @@
 <!ENTITY maintenance.accesskey  "I">
 <!ENTITY maintenance.tooltip    "Voer jou boekmerke in en rugsteun dit">
 
-<!ENTITY backCmd.label       "Terug">
 <!ENTITY backButton.tooltip  "Gaan terug">
 
-<!ENTITY forwardCmd.label       "Vorentoe">
 <!ENTITY forwardButton.tooltip  "Gaan vorentoe">
 
 <!ENTITY detailsPane.more.label "Meer">
 <!ENTITY detailsPane.more.accesskey "e">
 <!ENTITY detailsPane.less.label "Minder">
 <!ENTITY detailsPane.less.accesskey "n">
-<!ENTITY detailsPane.noPreviewAvailable.label "Voorskou">
 <!ENTITY detailsPane.selectAnItemText.description "Kies 'n item om sy eienskappe te kyk en te redigeer">
 
 <!ENTITY find.label               "Soek:">

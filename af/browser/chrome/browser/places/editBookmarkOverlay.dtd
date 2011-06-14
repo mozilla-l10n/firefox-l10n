@@ -6,7 +6,6 @@
 <!ENTITY editBookmarkOverlay.feedLocation.accesskey          "V">
 <!ENTITY editBookmarkOverlay.siteLocation.label              "Werfligging:">
 <!ENTITY editBookmarkOverlay.siteLocation.accesskey          "W">
-<!ENTITY editBookmarkOverlay.liveTitlesSeparator.label       "Lewendige titels">
 <!ENTITY editBookmarkOverlay.folder.label                    "Vouer:">
 <!ENTITY editBookmarkOverlay.foldersExpanderDown.tooltip     "Wys al die boekmerkvouers">
 <!ENTITY editBookmarkOverlay.expanderUp.tooltip              "Verskuil">

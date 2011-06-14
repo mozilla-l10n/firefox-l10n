@@ -19,13 +19,17 @@
 
 <!ENTITY pluginWizard.finalPage.moreInfo.label               "Vind meer uit oor inproppe of vind die vermiste inproppe handmatig.">
 <!ENTITY pluginWizard.finalPage.restart.label                "&brandShortName; moet herlaai word vir die inprop(pe) om te werk.">
-  
-<!ENTITY missingPlugin.label                                 "Kliek hier om inprop af te laai.">
-<!ENTITY disabledPlugin.label                                "Die inprop vir hierdie inhoud is gedeaktiveer.  Kliek hier om u inproppe te bestuur.">
+
+<!ENTITY missingPlugin                                       "'n Inprop is nodig om hierdie inhoud te vertoon.">
+<!ENTITY disabledPlugin                                      "Hierdie inprop is gedeaktiveer.">
 <!ENTITY blockedPlugin.label                                 "Hierdie inprop is vir u beskerming geblokkeer.">
+
+<!ENTITY installPlugin                                       "Installeer inprop…">
+<!ENTITY managePlugins                                       "Bestuur inproppe…">
 <!-- LOCALIZATION NOTE (reloadPlugin.pre): include a trailing space as needed -->
 <!-- LOCALIZATION NOTE (reloadPlugin.middle): avoid leading/trailing spaces, this text is a link -->
 <!-- LOCALIZATION NOTE (reloadPlugin.post): include a starting space as needed -->
+
 <!ENTITY reloadPlugin.pre                                    "">
 <!ENTITY reloadPlugin.middle                                 "Herlaai die bladsy">
 <!ENTITY reloadPlugin.post                                   " om weer te probeer.">
