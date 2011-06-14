@@ -56,6 +56,6 @@ gedeaktiveer is. Vra u stelseladministrateur vir bystand.">
 nie.">
 <!-- general strings used by several of the finish pages -->
 
-<!ENTITY  clickFinish.label               "Kliek Voltooi om voort te gaan om &brandShortName; te laat loop.">
+<!ENTITY  clickFinish.label               "Kliek Klaar om voort te gaan om &brandShortName; te laat loop.">
 <!ENTITY  clickFinish.labelMac            "Kliek Klaar om voort te gaan om &brandShortName; te laat loop.">
 <!ENTITY  enableChecking.label            "Laat &brandShortName; toe om vir bywerkings te kontroleer.">

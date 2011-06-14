@@ -40,11 +40,11 @@
 <!-- New Account Page 2: Sync Key -->
 
 <!ENTITY setup.newSyncKeyPage.title.label "&brandShortName; is besorg oor jou privaatheid">
-<!ENTITY setup.newSyncKeyPage.description.label "Om algehele privaatheid te verseker word al jou data geënkripteer voor dit opgelaai word. Die Sync-sleutel wat nodig is om jou data mee te dekripteer, word nie opgelaai nie.">
+<!ENTITY setup.newSyncKeyPage.description.label "Om algehele privaatheid te verseker word al jou data geënkripteer voor dit opgelaai word. Die Sync-sleutel wat nodig is om die data mee te dekripteer, word nie opgelaai nie.">
 <!ENTITY syncKeyEntry.label        "Jou Sync-sleutel">
 <!ENTITY syncKeyEntry.accesskey    "s">
-<!ENTITY syncKeyGenerate.label     "Genereer">
-<!ENTITY syncKeyBackup.description "Jou Sync-sleutel is nodig om &syncBrand.fullName.label; op ander rekenaars te bekyk. Maak asseblief 'n dekkopie. Ons kan jou nie help om jou Sync-sleutel te herwin nie.">
+<!ENTITY syncGenerateNewKey.label  "Genereer 'n nuwe sleutel">
+<!ENTITY syncKeyBackup.description "Die Sync-sleutel is nodig om &syncBrand.fullName.label; op ander rekenaars te bekyk. Maak asseblief 'n dekkopie. Ons kan nie help om jou Sync-sleutel te herwin nie.">
 
 <!ENTITY button.syncKeyBackup.print.label     "Druk…">
 <!ENTITY button.syncKeyBackup.print.accesskey "D">
@@ -59,7 +59,7 @@
 <!ENTITY addDevice.dontHaveDevice.label     "Ek het nie 'n toestel by my nie">
 <!ENTITY addDevice.setup.description.label  "Om te aktiveer, gaan na &syncBrand.shortName.label; se Opsies op jou ander toestel en kies &#x0022;Voeg 'n toestel by&#x0022;.">
 <!ENTITY addDevice.setup.enterCode.label    "Tik dan hierdie kode in:">
-<!ENTITY addDevice.dialog.description.label "Om jou nuwe toestel te aktiveer, gaan na &syncBrand.shortName.label; se Opsies op die toestel en kies &#x0022;Koppel&#x0022;.">
+<!ENTITY addDevice.dialog.description.label "Om jou nuwe toestel te aktiveer, gaan na &syncBrand.shortName.label; se opsies op die toestel en kies &#x0022;Koppel&#x0022;.">
 <!ENTITY addDevice.dialog.enterCode.label   "Tik die kode wat die toestel gee:">
 <!ENTITY addDevice.dialog.tryAgain.label    "Probeer gerus weer.">
 <!ENTITY addDevice.dialog.successful.label  "Die toestel is suksesvol bygevoeg. Die aanvanklike sinkronisering kan lank duur en sal in die agtergrond klaarmaak.">
@@ -69,7 +69,7 @@
 
 <!ENTITY setup.signInPage.title.label "Meld aan">
 <!ENTITY existingSyncKey.description "Om 'n afskrif van jou Sync-sleutel te kry, gaan na &syncBrand.shortName.label; se Opsies op jou ander toestel, en kies &#x0022;My Sync-sleutel&#x0022; in &#x0022;Bestuur rekening&#x0022;.">
-<!ENTITY verifying.label              "Verifieer tans..">
+<!ENTITY verifying.label              "Verifieer tans…">
 <!ENTITY resetPassword.label          "Stel wagwoord terug">
 <!ENTITY resetSyncKey.label           "Ek het my ander toestel verloor.">
 <!-- Sync Options -->
