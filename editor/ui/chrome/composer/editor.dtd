@@ -44,10 +44,18 @@
 
 <!-- Toolbar-only items -->
 <!ENTITY compositionToolbar.tooltip "Oletus">
+<!ENTITY previewToolbarCmd.label "Selaa">
+<!ENTITY previewToolbarCmd.tooltip "Lataa sivu selaimessa">
+
+<!-- File menu items -->
+<!ENTITY exportToTextCmd.label "Vie tekstitiedostona…">
+<!ENTITY exportToTextCmd.accesskey "V">
+<!ENTITY previewCmd.label "Selaa sivua">
+<!ENTITY previewCmd.accesskey "S">
+<!ENTITY sendPageCmd.label "Lähetä sivu…">
+<!ENTITY sendPageCmd.accesskey "L">
 
 <!-- View menu items -->
-<!ENTITY viewMenu.label "Näytä">
-<!ENTITY viewMenu.accesskey "N">
 <!ENTITY compositionToolbarCmd.label "Oletus">
 <!ENTITY compositionToolbarCmd.accesskey "O">
 <!ENTITY formattingToolbarCmd.label "Muotoilu">
