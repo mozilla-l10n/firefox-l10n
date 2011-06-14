@@ -6,12 +6,9 @@
 <!ENTITY organize.accesskey    "H">
 <!ENTITY organize.tooltip      "Hlela izimpawu zakho zokubekisa">
 
-<!ENTITY file.accesskey                 "F">
 <!ENTITY file.close.label               "Vala">
 <!ENTITY file.close.accesskey           "V">
 <!ENTITY cmd.close.key                  "k">
-<!ENTITY edit.label                     "Hlela">
-<!ENTITY edit.accesskey                 "H">
 <!ENTITY views.label                    "Ukubuka">
 <!ENTITY views.accesskey                "b">
 <!ENTITY views.tooltip                  "Shintsha ukubuka kwakho">
@@ -70,14 +67,12 @@
 <!ENTITY cmd.new_bookmark.accesskey        "l">
 <!ENTITY cmd.new_folder.label              "Ifolda entsha…">
 <!ENTITY cmd.new_folder.accesskey          "n">
-<!ENTITY cmd.context_new_folder.accesskey  "f">
+<!ENTITY cmd.context_new_folder.accesskey  "F">
 <!ENTITY cmd.new_separator.label           "Isehlukanisi esisha">
 <!ENTITY cmd.new_separator.accesskey       "h">
 
 <!ENTITY cmd.reloadLivebookmark.label      "Layisha futhi uphawu lokubekisa oluphilayo">
 <!ENTITY cmd.reloadLivebookmark.accesskey  "L">
-<!ENTITY cmd.reloadMicrosummary.label      "Layisha futhi isihloko esiphilayo">
-<!ENTITY cmd.reloadMicrosummary.accesskey  "f">
 
 <!ENTITY cmd.moveBookmarks.label                  "Susa…">
 <!ENTITY cmd.moveBookmarks.accesskey              "S">
@@ -113,17 +108,14 @@
 <!ENTITY maintenance.accesskey  "F">
 <!ENTITY maintenance.tooltip    "Faka izimpawu zakho zokubekisa bese wenza isipele">
 
-<!ENTITY backCmd.label       "Emuva">
 <!ENTITY backButton.tooltip  "Buyela emuva">
 
-<!ENTITY forwardCmd.label       "Phambili">
 <!ENTITY forwardButton.tooltip  "Iya phambili">
 
 <!ENTITY detailsPane.more.label "Okuningi">
 <!ENTITY detailsPane.more.accesskey "i">
 <!ENTITY detailsPane.less.label "Okuncane">
 <!ENTITY detailsPane.less.accesskey "k">
-<!ENTITY detailsPane.noPreviewAvailable.label "Hlola kuqala">
 <!ENTITY detailsPane.selectAnItemText.description "Khetha into ezobukwa bese uhlela izakhiwo zayo">
 
 <!ENTITY find.label               "Sesha:">

@@ -19,13 +19,17 @@
 
 <!ENTITY pluginWizard.finalPage.moreInfo.label               "Thola okwengeziwe Ngokufakwa Emapulagini noma uzitholele ngesandla obekungekho.">
 <!ENTITY pluginWizard.finalPage.restart.label                "I-&brandShortName; idinga ukuqalwa kabusha ukuze okufakwa emapulagini kusebenze.">
-  
-<!ENTITY missingPlugin.label                                 "Chofoza lapha ukuze uthathe ufake okuplakwayo.">
-<!ENTITY disabledPlugin.label                                "I-plugin yalokhu okuqukethwe ikhutshaziwe. Chofoza lapha ukuze uphathe ama-plugins wakho.">
+
+<!ENTITY missingPlugin                                       "I-Plugin liyadingeka ukubonisa lokhu okuqukethwe.">
+<!ENTITY disabledPlugin                                      "I-Plugin likhutshaziwe.">
 <!ENTITY blockedPlugin.label                                 "Le plugin ivinjelwe ukuvikeleka kwakho.">
+
+<!ENTITY installPlugin                                       "Faka i-plugin...">
+<!ENTITY managePlugins                                       "Phatha ama-plugin...">
 <!-- LOCALIZATION NOTE (reloadPlugin.pre): include a trailing space as needed -->
 <!-- LOCALIZATION NOTE (reloadPlugin.middle): avoid leading/trailing spaces, this text is a link -->
 <!-- LOCALIZATION NOTE (reloadPlugin.post): include a starting space as needed -->
+
 <!ENTITY reloadPlugin.pre                                    "">
 <!ENTITY reloadPlugin.middle                                 "Layisha futhi ikhasi">
 <!ENTITY reloadPlugin.post                                   "ukuzama futhi.">

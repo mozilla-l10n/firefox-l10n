@@ -43,7 +43,7 @@
 <!ENTITY setup.newSyncKeyPage.description.label "Ukuqinisekisa okuyimfihlo okuphelele, idatha yakho yonke izombalwa ngokwemfihlo ngaphambi kokuba ilayishwe. Isikhiya sokushadisa esidingekayo ukuze kuvulwe idatha yakho asilayishiwanga.">
 <!ENTITY syncKeyEntry.label        "Ikhiya yakho yokushadisa">
 <!ENTITY syncKeyEntry.accesskey    "k">
-<!ENTITY syncKeyGenerate.label     "Okuvamile">
+<!ENTITY syncGenerateNewKey.label  "Enza ikhiye omusha">
 <!ENTITY syncKeyBackup.description "Ikhiya yakho yokushadisa iiyafuneka ukuze ufinyelele kwi-&syncBrand.fullName.label; kweminye imishini. Sicela udale ikhophi elinye. Asikwazi ukukusiza ubuyise isikhiya sakho sokushadisa.">
 
 <!ENTITY button.syncKeyBackup.print.label     "Printa…">
