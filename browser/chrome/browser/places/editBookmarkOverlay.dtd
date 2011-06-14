@@ -6,7 +6,6 @@
 <!ENTITY editBookmarkOverlay.feedLocation.accesskey          "f">
 <!ENTITY editBookmarkOverlay.siteLocation.label              "Indawo yesayithi:">
 <!ENTITY editBookmarkOverlay.siteLocation.accesskey          "I">
-<!ENTITY editBookmarkOverlay.liveTitlesSeparator.label       "Izihloko ezibukhoma">
 <!ENTITY editBookmarkOverlay.folder.label                    "Ifolda:">
 <!ENTITY editBookmarkOverlay.foldersExpanderDown.tooltip     "Bonisa wonke amafolda wezimpawu zokubekisa">
 <!ENTITY editBookmarkOverlay.expanderUp.tooltip              "Fihla">

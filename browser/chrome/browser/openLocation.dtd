@@ -1,10 +1,10 @@
 <!-- extracted from content/openLocation.xul -->
 
-<!ENTITY enter.label "Bhala ingosi ye-intehanethi (URL), noma usho ifayela yendawo ongathanda ukuyivula:">  
-<!ENTITY chooseFile.label "Khetha Ifayela…">
-<!ENTITY newTab.label "Isigqebhe Esisha">
-<!ENTITY newWindow.label "Iwindi Elisha">
+<!ENTITY enter.label "Bhala ingosi yewebhu (URL), noma usho ifayela yendawo ongathanda ukuyivula:">  
+<!ENTITY chooseFile.label "Khetha ifayela…">
+<!ENTITY newTab.label "Isigqebhe esisha">
+<!ENTITY newWindow.label "Iwindi elisha">
 <!ENTITY topTab.label "Ithebhu yamanje">
-<!ENTITY caption.label "Vula Indawo Yengosi Ye-inthanethi">
+<!ENTITY caption.label "Vula indawo yengosi ye-inthanethi">
 <!ENTITY openWhere.label "Vula Ku-:">
 <!ENTITY openBtn.label "Vula">
