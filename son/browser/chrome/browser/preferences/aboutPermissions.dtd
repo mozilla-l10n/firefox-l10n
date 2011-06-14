@@ -1,0 +1,35 @@
+<!ENTITY permissionsManager.title        "Duɲeyaney juwalkaa">
+
+<!ENTITY sites.search                    "Nungey ceeci">
+<!ENTITY sites.allSites                  "Nungey kul">
+<!-- LOCALIZATION NOTE (permissions.header.start, permissions.header.end): These strings
+     surround the host name of the site to make the header for the permissions page.
+     example: "Permissions for mozilla.org" -->
+
+<!ENTITY header.site.start               "Duɲeyaney koyoo">
+<!ENTITY header.site.end                 "">
+
+<!ENTITY header.defaults                 "Tilasu duɲeyaney nungey kul se">
+
+<!ENTITY permissions.forgetSite          "Dirɲa nungoo woo">
+
+<!ENTITY permission.alwaysAsk            "Hãa waati kul">
+<!ENTITY permission.allow                "Noo fondo">
+<!ENTITY permission.allowForSession      "Noo fondo goywaati se">
+<!ENTITY permission.block                "Gagay">
+
+<!ENTITY password.label                  "Šennikufaley jiši">
+<!ENTITY password.manage                 "Šennikufaley juwal...">
+
+<!ENTITY cookie.label                    "Aleewawey kayandi">
+<!ENTITY cookie.clear                    "Aleewawey derandi">
+<!ENTITY cookie.manage                   "Aleewawey juwal...">
+<!ENTITY cookie.clearAll                 "Aleewawey kul derandi">
+
+<!ENTITY geo.label                       "Gorodoo žemna">
+<!-- LOCALIZATION NOTE (indexedDB.label): This is describing indexedDB storage
+     using the same language used for the permIndexedDB string in browser/pageInfo.dtd -->
+
+<!ENTITY indexedDB.label                 "Bila nda ciyari jišidoo gaabu">
+
+<!ENTITY popup.label                     "Ceberi bata zanfuney feeri">

@@ -1,0 +1,123 @@
+<!-- LOCALIZATION NOTE : FILE This file contains the Scratchpad window strings -->
+<!-- LOCALIZATION NOTE : FILE Do not translate commandkeys -->
+<!-- LOCALIZATION NOTE (scratchpad.title):
+  -  The Scratchpad is intended to provide a simple text editor for creating
+  -  and evaluating bits of JavaScript code for the purposes of function
+  -  prototyping, experimentation and convenient scripting.
+  -
+  -  It's quite possible that you won't have a good analogue for the word
+  -  "Scratchpad" in your locale. You should feel free to find a close
+  -  approximation to it or choose a word (or words) that means
+  -  "simple discardable text editor". -->
+
+<!ENTITY window.title                 "Gaasadew">
+
+<!ENTITY fileMenu.label               "Tuku">
+<!ENTITY fileMenu.accesskey           "T">
+
+<!ENTITY newWindowCmd.label           "Zanfun taaga">
+<!ENTITY newWindowCmd.accesskey       "Z">
+<!ENTITY newWindowCmd.commandkey      "n">
+
+<!ENTITY openFileCmd.label            "Tuku feeri…">
+<!ENTITY openFileCmd.accesskey        "T">
+<!ENTITY openFileCmd.commandkey       "o">
+
+<!ENTITY saveFileCmd.label            "Gaabu">
+<!ENTITY saveFileCmd.accesskey        "G">
+<!ENTITY saveFileCmd.commandkey       "s">
+
+<!ENTITY saveFileAsCmd.label          "Gaabu sanda…">
+<!ENTITY saveFileAsCmd.accesskey      "a">
+
+<!ENTITY closeCmd.label               "Daabu">
+<!ENTITY closeCmd.key                 "W">
+<!ENTITY closeCmd.accesskey           "D">
+
+<!ENTITY editMenu.label               "Fasal">
+<!ENTITY editMenu.accesskey           "F">
+
+<!ENTITY undoCmd.label                "Taafeeri">
+<!ENTITY undoCmd.key                  "Z">
+<!ENTITY undoCmd.accesskey            "T">
+
+<!ENTITY redoCmd.label                "Tee taaga">
+<!ENTITY redoCmd.key                  "Y">
+<!ENTITY redoCmd.accesskey            "T">
+
+<!ENTITY cutCmd.label                 "Dunbu">
+<!ENTITY cutCmd.key                   "X">
+<!ENTITY cutCmd.accesskey             "D">
+
+<!ENTITY copyCmd.label                "Berandi">
+<!ENTITY copyCmd.key                  "C">
+<!ENTITY copyCmd.accesskey            "B">
+
+<!ENTITY pasteCmd.label               "Dobu">
+<!ENTITY pasteCmd.key                 "V">
+<!ENTITY pasteCmd.accesskey           "D">
+
+<!ENTITY selectAllCmd.label           "Kul suuba">
+<!ENTITY selectAllCmd.key             "A">
+<!ENTITY selectAllCmd.accesskey       "K">
+
+<!ENTITY run.label                    "Dirandi">
+<!ENTITY run.accesskey                "r">
+<!ENTITY run.key                      "r">
+
+<!ENTITY inspect.label                "Hawgay">
+<!ENTITY inspect.accesskey            "g">
+<!ENTITY inspect.key                  "i">
+
+<!ENTITY display.label                "Cebe">
+<!ENTITY display.accesskey            "C">
+<!ENTITY display.key                  "l">
+<!-- LOCALIZATION NOTE (environmentMenu.label, accesskey): This menu item was
+  -  renamed from "Context" to avoid confusion with the right-click context
+  -  menu in the text area. It refers to the JavaScript Environment (or context)
+  -  the user is evaluating against. I.e., Content (current tab) or Chrome
+  -  (browser).
+  -->
+
+<!ENTITY environmentMenu.label        "Windila">
+<!ENTITY environmentMenu.accesskey    "n">
+
+
+<!ENTITY contentContext.label         "Gundekuna">
+<!ENTITY contentContext.accesskey     "G">
+<!-- LOCALIZATION NOTE (browserContext.label, accesskey): This menu item is used
+  -  to select an execution environment for the browser window itself as opposed
+  -  to content. This is a feature for browser and addon developers and only
+  -  enabled via the devtools.chrome.enabled preference. Formerly, this label
+  -  was called "Chrome".
+  -->
+
+<!ENTITY browserContext.label         "Ceecikaw">
+<!ENTITY browserContext.accesskey     "w">
+<!-- LOCALIZATION NOTE (resetContext.label): This command allows the developer
+  -  to reset/clear the global object of the environment where the code executes.
+  -->
+
+<!ENTITY resetContext.label           "Yeeti">
+<!ENTITY resetContext.accesskey       "Y">
+
+<!ENTITY executeMenu.label            "Goyandi">
+<!ENTITY executeMenu.accesskey        "o">
+
+<!ENTITY toolsMenu.label              "Goyjinawey">
+<!ENTITY toolsMenu.accesskey          "G">
+
+<!ENTITY errorConsoleCmd.label        "Firka diji-walha">
+<!ENTITY errorConsoleCmd.accesskey    "d">
+<!ENTITY errorConsoleCmd.commandkey   "j">
+
+<!ENTITY webConsoleCmd.label          "Tataaru diji-walha">
+<!ENTITY webConsoleCmd.accesskey      "w">
+<!ENTITY webConsoleCmd.commandkey     "k">
+<!-- LOCALIZATION NOTE (textbox.placeholder1): This is some placeholder text
+  -  that appears when the Scratchpad's text area is empty and unfocused.
+  -  It should be a one-line JavaScript comment, i.e., preceded by '//'
+  -->
+
+<!ENTITY textbox.placeholder1         "// JavaScript haya dam, a suuba, naagu kabe guma nda tunandi, gunari wala cebe suuba.">
+
