@@ -101,7 +101,7 @@
 <!ENTITY  event.menu.item.close.accesskey                 "D">
 <!ENTITY  event.menu.item.save.label                      "Sàbhail">
 <!ENTITY  event.menu.item.save.accesskey                  "S">
-<!ENTITY  event.menu.item.saveandclose.label              "Sàbhail is dùin e">
+<!ENTITY  event.menu.item.saveandclose.label              "Sàbhail ┐ dùin">
 <!ENTITY  event.menu.item.saveandclose.accesskey          "l">
 <!ENTITY  event.menu.item.delete.label                    "Sguab às…">
 <!ENTITY  event.menu.item.delete.accesskey                "S">
@@ -183,10 +183,10 @@
 <!ENTITY event.email.tentative.attendees.accesskey        "S">
 
 <!-- Toolbar -->
-<!ENTITY  event.toolbar.save.label                        "Sàbhail is dùin e">
+<!ENTITY  event.toolbar.save.label                        "Sàbhail ┐ dùin">
 <!ENTITY  event.toolbar.delete.label                      "Sguab às">
-<!ENTITY  event.toolbar.attendees.label                   "Thoir cuireadh do dhaoine">
-<!ENTITY  event.toolbar.spellcheck.label                  "Ceartachadh an litreachaidh">
+<!ENTITY  event.toolbar.attendees.label                   "Thoir cuireadh">
+<!ENTITY  event.toolbar.spellcheck.label                  "Litreachadh">
 <!ENTITY  event.toolbar.privacy.label                     "Prìobhaideachd">
 <!ENTITY  event.toolbar.attachments.label                 "Cuir ris">
 
