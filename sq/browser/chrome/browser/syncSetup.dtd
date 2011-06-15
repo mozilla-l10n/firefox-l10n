@@ -45,7 +45,7 @@
 <!ENTITY setup.newSyncKeyPage.description.label "Për të siguruar vetësinë tuaj tërësore, krejt të dhënat tuaja kodohen përpara se të ngarkohen. Kyçi për Sync-un, që është i domosdoshëm për çkodimin e të dhënave tuaja, nuk ngarkohet.">
 <!ENTITY syncKeyEntry.label        "Kyçi Juaj për Sync-un">
 <!ENTITY syncKeyEntry.accesskey    "K">
-<!ENTITY syncKeyGenerate.label     "Prodhoje">
+<!ENTITY syncGenerateNewKey.label  "Prodho një kyç të ri">
 <!ENTITY syncKeyBackup.description "Kyçi Juaj për Sync-un nevojitet për të hyrë te &syncBrand.fullName.label; në makinat e tjera. Ju lutem, bëjini një kopje kopjeruajtjeje. Nuk ju ndihmojmë dot për të rigjetur Kyçin tuaj për Sync-un.">
 
 <!ENTITY button.syncKeyBackup.print.label     "Shtypeni…">
