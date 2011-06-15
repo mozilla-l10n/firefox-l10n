@@ -1,10 +1,7 @@
 <!ENTITY organize.label                 "Sistemim">
-<!ENTITY file.accesskey                 "K">
 <!ENTITY file.close.label               "Mbylle">
 <!ENTITY file.close.accesskey           "M">
 <!ENTITY cmd.close.key                  "w">
-<!ENTITY edit.label                     "Përpunim">
-<!ENTITY edit.accesskey                 "P">
 <!ENTITY views.label                    "Shfaqje">
 <!ENTITY view.columns.label             "Shfaq Shtylla">
 <!ENTITY view.columns.accesskey         "S">
@@ -58,8 +55,6 @@
 
 <!ENTITY cmd.reloadLivebookmark.label      "Ringarko Faqerojtësin e Gjallë">
 <!ENTITY cmd.reloadLivebookmark.accesskey  "R">
-<!ENTITY cmd.reloadMicrosummary.label      "Ringarko Titullin e Gjallë">
-<!ENTITY cmd.reloadMicrosummary.accesskey  "R">
 <!ENTITY cmd.moveBookmarks.label                  "Lëvizini…">
 <!ENTITY cmd.moveBookmarks.accesskey              "L">
 <!ENTITY col.name.label          "Emër">
@@ -88,13 +83,10 @@
 <!ENTITY saveSearch.accesskey                      "R">
 <!ENTITY cmd.find.key  "f">
 <!ENTITY maintenance.label   "Importim dhe Kopjeruajtje">
-<!ENTITY backCmd.label       "Mbrapsht">
 <!ENTITY backButton.tooltip  "Kthehu mbrapsht">
-<!ENTITY forwardCmd.label       "Përpara">
 <!ENTITY forwardButton.tooltip  "Vazhdo përpara">
 <!ENTITY detailsPane.more.label "Më tepër">
 <!ENTITY detailsPane.less.label "Më pak">
-<!ENTITY detailsPane.noPreviewAvailable.label "Paraparje">
 <!ENTITY detailsPane.selectAnItemText.description "Përzgjidhni një objekt për ta parë dhe për t&quot;i përpunuar vetitë">
 <!ENTITY detailsPane.less.accesskey "M">
 <!ENTITY detailsPane.more.accesskey "e">

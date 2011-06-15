@@ -6,7 +6,6 @@
 <!ENTITY editBookmarkOverlay.feedLocation.accesskey          "U">
 <!ENTITY editBookmarkOverlay.siteLocation.label              "Vendndodhje &quot;Site&quot;-i:">
 <!ENTITY editBookmarkOverlay.siteLocation.accesskey          "S">
-<!ENTITY editBookmarkOverlay.liveTitlesSeparator.label       "Tituj të Gjallë">
 <!ENTITY editBookmarkOverlay.folder.label                    "Dosje:">
 <!ENTITY editBookmarkOverlay.foldersExpanderDown.tooltip     "Shfaq tërë dosjet e faqerojtësave">
 <!ENTITY editBookmarkOverlay.expanderUp.tooltip              "Fshihe">
