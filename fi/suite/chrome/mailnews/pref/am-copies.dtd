@@ -1,42 +1,46 @@
 <!-- extracted from am-copies.xul -->
 
 <!ENTITY copyAndFolderTitle.label "Kopiot ja kansiot">
-<!ENTITY sendingPrefix.label "Lähetettäessä viestiä: ">
-<!ENTITY fccMailFolder.label "Tee siitä kopio kansioon:">
-<!ENTITY fccMailFolder.accesskey "p">
-<!ENTITY fccReplyFollowsParent.label "Tallenna vastaukset samaan kansioon viestin kanssa">
-<!ENTITY fccReplyFollowsParent.accesskey "l">
+<!ENTITY sendingPrefix.label "Kun viestiä lähetetään:">
+<!ENTITY fccMailFolder.label "Tallenna kopio kansioon:">
+<!ENTITY fccMailFolder.accesskey "T">
+<!ENTITY fccReplyFollowsParent.label "Tallenna vastaukset samaan kansioon alkuperäisen viestin kanssa">
+<!ENTITY fccReplyFollowsParent.accesskey "v">
 <!-- LOCALIZATION NOTE (ccAddress.label): do not translate "Cc" in below line -->
 <!ENTITY ccAddress.label "Lähetä kopio (Cc) näihin osoitteisiin:">
 <!ENTITY ccAddress.accesskey "C">
-<!ENTITY ccAddressList.placeholder "Erota osoitteet pilkuin">
+<!ENTITY ccAddressList.placeholder "Erota osoitteet pilkuilla">
 <!-- LOCALIZATION NOTE (bccAddress.label): do not translate "Bcc" in below line -->
 <!ENTITY bccAddress.label "Lähetä piilokopio (Bcc) näihin osoitteisiin:">
 <!ENTITY bccAddress.accesskey "B">
-<!ENTITY bccAddressList.placeholder "Erota osoitteet pilkuin">
-<!ENTITY saveMessageDlg.label "Kysy vahvistus viestejä tallennettaessa">
-<!ENTITY saveMessageDlg.accesskey "K">
+<!ENTITY bccAddressList.placeholder "Erota osoitteet pilkuilla">
+<!ENTITY saveMessageDlg.label "Kysy vahvistus ennen viestin tallentamista">
+<!ENTITY saveMessageDlg.accesskey "h">
 <!-- LOCALIZATION NOTE (sentFolderOn.label): OK to translate this, bug #57440 -->
-<!ENTITY sentFolderOn.label "Lähetetyt, tilillä:">
-<!ENTITY sentFolderOn.accesskey "L">
+<!ENTITY sentFolderOn.label "&quot;Lähetetyt&quot;, tilillä:">
+<!ENTITY sentFolderOn.accesskey "ä">
 <!ENTITY sentInOtherFolder.label "Muu kansio:">
-<!ENTITY sentInOtherFolder.accesskey "o">
-<!-- LOCALIZATION NOTE (draftsFolderOn.label): OK to translate this, bug #57440 -->
-<!ENTITY draftsFolderOn.label "Luonnokset, tilillä:">
-<!ENTITY draftsFolderOn.accesskey "n">
-<!ENTITY draftInOtherFolder.label "Muu kansio:">
-<!ENTITY draftInOtherFolder.accesskey "M">
+<!ENTITY sentInOtherFolder.accesskey "M">
 <!-- LOCALIZATION NOTE (archivesFolderOn.label): OK to translate this, bug #57440 -->
-<!ENTITY archivesFolderOn.label "Arkisto, tilillä:">
-<!ENTITY archivesFolderOn.accesskey "A">
+<!ENTITY archivesTitle.label "Viestiarkistot">
+<!ENTITY keepArchives.label "Pidä viestiarkistot kansiossa:">
+<!ENTITY keepArchives.accesskey "d">
+<!ENTITY archiveHierarchyButton.label "Arkistointiasetukset…">
+<!ENTITY archiveHierarchyButton.accesskey "r">
+<!ENTITY archivesFolderOn.label "&quot;Arkistot&quot;, tilillä:">
+<!ENTITY archivesFolderOn.accesskey "s">
 <!ENTITY archiveInOtherFolder.label "Muu kansio:">
-<!ENTITY archiveInOtherFolder.accesskey "M">
+<!ENTITY archiveInOtherFolder.accesskey "u">
+<!ENTITY specialFolders.label "Luonnokset ja viestipohjat">
+<!ENTITY keepDrafts.label "Tallenna viestiluonnokset kansioon:">
+<!-- LOCALIZATION NOTE (draftsFolderOn.label): OK to translate this, bug #57440 -->
+<!ENTITY draftsFolderOn.label "&quot;Luonnokset&quot;, tilillä:">
+<!ENTITY draftsFolderOn.accesskey "e">
+<!ENTITY draftInOtherFolder.label "Muu kansio:">
+<!ENTITY draftInOtherFolder.accesskey "k">
+<!ENTITY keepTemplates.label "Tallenna viestipohjat kansioon:">
 <!-- LOCALIZATION NOTE (templatesFolderOn.label): OK to translate this, bug #57440 -->
-<!ENTITY templatesFolderOn.label "Mallipohjat, tilillä:">
-<!ENTITY templatesFolderOn.accesskey "M">
+<!ENTITY templatesFolderOn.label "&quot;Viestipohjat&quot;, tilillä:">
+<!ENTITY templatesFolderOn.accesskey "p">
 <!ENTITY templateInOtherFolder.label "Muu kansio:">
-<!ENTITY templateInOtherFolder.accesskey "M">
-<!ENTITY specialFoldersTitle.label "Luonnokset, mallipohjat ja arkisto">
-<!ENTITY keepDrafts.label "Tallenna viestien luonnokset kansioon:">
-<!ENTITY keepArchives.label "Tallenna arkistoitavat viestit kansioon:">
-<!ENTITY keepTempltes.label "Tallenna mallipohjat kansioon:">
+<!ENTITY templateInOtherFolder.accesskey "n">
