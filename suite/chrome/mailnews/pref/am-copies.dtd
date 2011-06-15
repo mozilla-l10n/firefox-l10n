@@ -1,9 +1,9 @@
 <!ENTITY copyAndFolderTitle.label "Copias y carpetas">
-<!ENTITY sendingPrefix.label "Al enviar mensajes, automáticamente: ">
-<!ENTITY fccMailFolder.label "Poner una copia en:">
-<!ENTITY fccMailFolder.accesskey "P">
+<!ENTITY sendingPrefix.label "Al enviar mensajes:">
+<!ENTITY fccMailFolder.label "Poner automáticamente una copia en:">
+<!ENTITY fccMailFolder.accesskey "u">
 <!ENTITY fccReplyFollowsParent.label "Colocar respuestas en la carpeta del mensaje respondido">
-<!ENTITY fccReplyFollowsParent.accesskey "s">
+<!ENTITY fccReplyFollowsParent.accesskey "u">
 <!ENTITY ccAddress.label "Cc a estas direcciones de correo:">
 <!ENTITY ccAddress.accesskey "C">
 <!ENTITY ccAddressList.placeholder "Separar direcciones con comas">
@@ -16,19 +16,23 @@
 <!ENTITY sentFolderOn.accesskey "v">
 <!ENTITY sentInOtherFolder.label "Otra carpeta:">
 <!ENTITY sentInOtherFolder.accesskey "O">
+<!ENTITY archivesTitle.label "Archivos de mensajes">
+<!ENTITY keepArchives.label "Guardar archivos de mensajes en:">
+<!ENTITY keepArchives.accesskey "G">
+<!ENTITY archiveHierarchyButton.label "Opciones de archivado…">
+<!ENTITY archiveHierarchyButton.accesskey "h">
+<!ENTITY archivesFolderOn.label "Carpeta &quot;Archivos&quot; en:">
+<!ENTITY archivesFolderOn.accesskey "A">
+<!ENTITY archiveInOtherFolder.label "Otra carpeta:">
+<!ENTITY archiveInOtherFolder.accesskey "e">
+<!ENTITY specialFolders.label "Borradores y plantillas">
+<!ENTITY keepDrafts.label "Guardar los borradores de mensajes en:">
 <!ENTITY draftsFolderOn.label "Carpeta &quot;Borradores&quot; en:">
 <!ENTITY draftsFolderOn.accesskey "e">
 <!ENTITY draftInOtherFolder.label "Otra carpeta:">
 <!ENTITY draftInOtherFolder.accesskey "t">
-<!ENTITY archivesFolderOn.label "Carpeta &quot;Archivos&quot; en:">
-<!ENTITY archivesFolderOn.accesskey "h">
-<!ENTITY archiveInOtherFolder.label "Otra carpeta:">
-<!ENTITY archiveInOtherFolder.accesskey "a">
+<!ENTITY keepTemplates.label "Guardar las plantillas de mensajes en:">
 <!ENTITY templatesFolderOn.label "Carpeta &quot;Plantillas&quot; en:">
 <!ENTITY templatesFolderOn.accesskey "C">
-<!ENTITY templateInOtherFolder.label "Otro:">
+<!ENTITY templateInOtherFolder.label "Otra carpeta:">
 <!ENTITY templateInOtherFolder.accesskey "r">
-<!ENTITY specialFoldersTitle.label "Borradores, archivos y plantillas">
-<!ENTITY keepDrafts.label "Guardar los borradores de mensajes en:">
-<!ENTITY keepArchives.label "Guardar archivos de mensajes en:">
-<!ENTITY keepTempltes.label "Guardar las plantillas de mensajes en:">
