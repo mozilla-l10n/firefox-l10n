@@ -40,9 +40,6 @@
 <!ENTITY printCmd.accesskey "o">
 <!ENTITY printCmd.commandkey "p">
 
-<!ENTITY viewMenu.label "Näytä">
-<!ENTITY viewMenu.accesskey "N">
-
 <!ENTITY toolbarsCmd.label "Työkalupalkit">
 <!ENTITY toolbarsCmd.accesskey "T">
 <!ENTITY navbarCmd.label "Navigointipalkki">
