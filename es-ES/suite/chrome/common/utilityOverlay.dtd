@@ -15,7 +15,7 @@
 <!ENTITY newNavigatorCmd.key "N">
 <!ENTITY newNavigatorCmd.accesskey "V">
 <!ENTITY editMenu.label "Editar">
-<!ENTITY editMenu.accesskey "e">
+<!ENTITY editMenu.accesskey "E">
 <!ENTITY undoCmd.label "Deshacer">
 <!ENTITY undoCmd.key "Z">
 <!ENTITY undoCmd.accesskey "h">
@@ -27,10 +27,10 @@
 <!ENTITY cutCmd.accesskey "t">
 <!ENTITY copyCmd.label "Copiar">
 <!ENTITY copyCmd.key "C">
-<!ENTITY copyCmd.accesskey "c">
+<!ENTITY copyCmd.accesskey "C">
 <!ENTITY pasteCmd.label "Pegar">
 <!ENTITY pasteCmd.key "V">
-<!ENTITY pasteCmd.accesskey "p">
+<!ENTITY pasteCmd.accesskey "P">
 <!ENTITY pasteGoCmd.label "Pegar y visitar">
 <!ENTITY pasteGoCmd.accesskey "v">
 <!ENTITY pasteSearchCmd.label "Pegar y buscar">
@@ -52,7 +52,7 @@
 <!ENTITY findTypeLinksCmd.label "Encontrar enlaces a medida que escribe">
 <!ENTITY findTypeLinksCmd.accesskey "o">
 <!ENTITY viewMenu.label "Ver">
-<!ENTITY viewMenu.accesskey "v">
+<!ENTITY viewMenu.accesskey "V">
 <!ENTITY viewToolbarsMenu.label "Mostrar/Ocultar">
 <!ENTITY viewToolbarsMenu.accesskey "s">
 <!ENTITY showTaskbarCmd.label "Barra de estado">

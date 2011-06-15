@@ -1,4 +1,4 @@
-<!ENTITY prefWindow.size "width: 58em; height: 41em;">
+<!ENTITY prefWindow.size "width: 59em; height: 41em;">
 <!ENTITY urlbar.label "Ctrl+Enter en la barra de direcciones">
 <!ENTITY urlbar.accesskey "L">
 <!ENTITY middleClick.label "Clic con el botón central, Ctrl+clic o Ctrl+Enter en enlaces en una página web">
