@@ -27,7 +27,7 @@ de mozilla.org) O explorador cancelou o seu pedido para súa protección e segur
 <!ENTITY malformedURI.longDesc "<p>Non se recoñece o formato do enderezo fornecido. Busque erros na barra de localización e tente de novo.</p>">
 
 <!ENTITY netInterrupt.title "Interrompeuse a transferencia de datos">
-<!ENTITY netInterrupt.longDesc "<p>O navegador conectouse con éxito, mais a conexión interrompeuse durante a tranferencia de información. Tente de novo.</p><ul><li>Non consegue navegar por outros sitios? Verifique a conexión de rede do computador.</li><li>Continúa a ter problemas? Consulte co administrador da rede ou co fornecedor da Internet para obter soporte técnico.</li></ul>">
+<!ENTITY netInterrupt.longDesc "<p>O navegador conectouse con éxito, mais a conexión interrompeuse durante a transferencia de información. Tente de novo.</p><ul><li>Non consegue navegar por outros sitios? Verifique a conexión de rede do computador.</li><li>Continúa a ter problemas? Consulte co administrador da rede ou co fornecedor da Internet para obter soporte técnico.</li></ul>">
 
 <!ENTITY netOffline.title "Modo sen conexión">
 <!ENTITY netOffline.longDesc2 "<p>O navegador está a funcionar en modo sen conexión e non é posíbel conectar ao elemento solicitado.</p><ul><li>O computador está conectado a unha rede activa?</li><li>Prema &quot;Tentar de novo&quot; para desactivar o modo sen conexión e recargar a páxina.</li></ul>">
