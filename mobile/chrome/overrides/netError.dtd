@@ -49,7 +49,7 @@
 <!ENTITY netInterrupt.longDesc "&sharedLongDesc;">
 
 <!ENTITY netOffline.title "離線模式">
-<!ENTITY netOffline.overrideLongDesc "<ul>
+<!ENTITY netOffline.longDesc2 "<ul>
   <li>再試一次。&brandShortName; 會試圖建立連線且重新載入頁面。</li>
 </ul>
 ">
