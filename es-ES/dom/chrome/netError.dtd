@@ -17,8 +17,7 @@
 <!ENTITY netInterrupt.title "Transferencia de datos interrumpida">
 <!ENTITY netInterrupt.longDesc "<p>El navegador se conectó correctamente, pero se interrumpió la conexión mientras se estaba transfiriendo información. Por favor, vuelva a intentarlo.</p><ul><li>¿No puede navegar por otros sitios? Compruebe la conexión de red del equipo.</li><li>¿Todavía con problemas? Consulte con su administrador de red o proveedor de Internet para obtener asistencia técnica.</li></ul>">
 <!ENTITY netOffline.title "Modo sin conexión">
-<!ENTITY netOffline.longDesc "<p>El navegador está ahora en modo sin conexión y no puede conectarse al elemento solicitado</p><ul><li>¿Está el equipo conectado a una red activa? </li><li>Ponga el navegador en modo con conexión y vuelva a intentarlo.</li></ul>">
-<!ENTITY netOffline.overrideLongDesc "<p>El navegador está ahora en modo sin conexión y no puede conectarse al elemento solicitado</p><ul><li>¿Está el equipo conectado a una red activa? </li><li>Ponga el navegador en modo con conexión y vuelva a intentarlo.</li></ul>">
+<!ENTITY netOffline.longDesc2 "<p>El navegador está operando en modo sin conexión y no puede conectar con el elemento solicitado.</p><ul><li>¿Está conectado el equipo a una red activa?</li><li>Pulse &quot;Reintentar&quot; para pasar a modo con conexión y recargar la página.</li></ul>">
 <!ENTITY contentEncodingError.title "Error de codificación de contenido">
 <!ENTITY contentEncodingError.longDesc "<p>La página que está intentando ver no puede mostrarse porque usa una forma no válida o no admitida de compresión.</p><ul><li>Por favor, contacte con los propietarios del sitio web para informarles de este problema.</li></ul>">
 <!ENTITY unsafeContentType.title "Tipo de archivo inseguro">
@@ -62,5 +61,7 @@
 ">
 <!ENTITY cspFrameAncestorBlocked.title "Bloqueado por la política de seguridad de contenido">
 <!ENTITY cspFrameAncestorBlocked.longDesc "<p>El navegador ha impedido que esta página se cargue de esta forma porque la página tiene una política de seguridad de contenido que no lo permite.</p>">
+<!ENTITY corruptedContentError.title "Error por contenido corrupto">
+<!ENTITY corruptedContentError.longDesc "<p>La página que está intentando ver no puede mostrarse porque se ha detectado un error en la transmisión de datos.</p><ul><li>Por favor, contacte con los propietarios del sitio web para informarles de este problema.</li></ul>">
 <!ENTITY remoteXUL.title "XUL remoto">
 <!ENTITY remoteXUL.longDesc "<p><ul><li>Por favor, contacte con los propietarios del sitio web para informarles de este problema.</li></ul></p>">
