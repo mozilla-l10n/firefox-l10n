@@ -858,8 +858,6 @@
         <rdf:li><rdf:Description ID="cookies_prefs" nc:name="Preferencias de privacidad y seguridad - Cookies" nc:link="using_priv_help.xhtml#cookies"/> </rdf:li>
         <rdf:li><rdf:Description ID="cookies_stored" nc:name="Cookies guardadas" nc:link="using_priv_help.xhtml#stored_cookies"/> </rdf:li>
         <rdf:li><rdf:Description ID="cookie_sites" nc:name="Sitios web que usan cookies" nc:link="using_priv_help.xhtml#cookie_sites"/> </rdf:li>
-        <rdf:li><rdf:Description ID="cookie_notify" nc:name="Notificación de cookies" nc:link="using_priv_help.xhtml#cookie_notification"/> </rdf:li>
-
       </rdf:Seq>
     </nc:subheadings>
   </rdf:Description>
