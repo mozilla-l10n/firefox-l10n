@@ -36,7 +36,8 @@
 <!ENTITY netInterrupt.longDesc "&sharedLongDesc;">
 
 <!ENTITY netOffline.title "Modo sen conexión">
-<!ENTITY netOffline.overrideLongDesc "<ul>
+<!ENTITY netOffline.longDesc2 "
+<ul>
   <li>Tentar de novo. &brandShortName; tentará abrir unha conexión e recargar a páxina.</li>
 </ul>
 ">
