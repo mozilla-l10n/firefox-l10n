@@ -143,7 +143,7 @@
 <!ENTITY cspFrameAncestorBlocked.title "Bloqueada por la política de seguridad de contenidos">
 <!ENTITY cspFrameAncestorBlocked.longDesc "<p>&brandShortName; ha impedido que esta página se cargue de este modo porque la página contiene una política de seguridad de contenidos que lo impide.</p>">
 <!ENTITY corruptedContentError.title "Error por contenido corrupto">
-<!ENTITY corruptedContentError.longDesc "<p>La página que está intentando ver no puede mostrarse porque se ha detectado un error en la transmisión de datos.</p><ul><li>Por favor, contacte con los propietarios del sitio web para informarles de este problema.</li></ul>">
+<!ENTITY corruptedContentError.longDesc "<p>El contenido que está intentando ver no puede mostrarse porque se ha detectado un error en la transmisión de datos.</p><ul><li>Por favor, contacte con los propietarios para informarles de este problema.</li></ul>">
 <!ENTITY securityOverride.linkText "O puede añadir una excepción…">
 <!ENTITY securityOverride.getMeOutOfHereButton "¡Sácame de aquí!">
 <!ENTITY securityOverride.exceptionButtonLabel "Añadir excepción…">
