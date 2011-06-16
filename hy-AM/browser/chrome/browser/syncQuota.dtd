@@ -38,6 +38,6 @@
 
 ******* END LICENSE BLOCK ********** -->
 <!ENTITY quota.dialogTitle.label    "Server Quota">
-<!ENTITY quota.retrievingInfo.label "Retrieving quota information…">
+<!ENTITY quota.retrievingInfo.label "Վերստանում է քվոտայի ինֆորմացիան...">
 <!ENTITY quota.typeColumn.label     "Տիպը">
 <!ENTITY quota.sizeColumn.label     "Չափը">

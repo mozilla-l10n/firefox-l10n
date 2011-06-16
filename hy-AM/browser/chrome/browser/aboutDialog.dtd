@@ -102,9 +102,9 @@
 
 <!ENTITY channel.change             "Փոխել">
 
-<!ENTITY channel.release.description       "Enjoy the tried and tested final release being used by hundreds of millions around the world. Stay in control of your online experience with super speed, easy customization and the latest Web technologies.">
+<!ENTITY channel.release.description       "Վայելե΄ք փորձված և ստուգված վերջին տարբերակը, որն օգտագործվում է ամբողջ աշխարհում հարյուր միլիոնավոր մարդկանց կողմից:Վերահսկե΄ք Ձեր օնլայն փորձառությունը` գերազանց արագությամբ,հեշտ հարմարեցմամբ և նորագույն Վեբ տեխնոլոգիաներով:">
 <!ENTITY channel.beta.description          "Experience cutting edge features with more stability. Provide feedback to help refine and polish what will be in the final release.">
-<!ENTITY channel.aurora.description        "Experience the newest innovations in an unstable environment that's not for the faint of heart. Provide feedback on features and performance to help determine what makes the final release.">
+<!ENTITY channel.aurora.description        " Վերջին նորարարությունները փորձարկելը փոփոխական միջավայրում զուտ ցնցում ապրելու համար չէ:Ապահովեք հետադարձ կապը առանձնահատկություններում և գործելու ժամանակ,և դա կօգնի, որ դուք գիտակցեք, թե ինչ հնարավորություններ ունի վերջին տարբերակը:">
 
 <!-- LOCALIZATION NOTE (channel.selector.start,channel.selector.end): channel.selector.start and
      channel.selector.end create one sentence, with a channel selection menulist instered in between.
