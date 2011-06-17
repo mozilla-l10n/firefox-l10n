@@ -99,10 +99,10 @@
 <!ENTITY backButton.tooltip  "Gå tilbake">
 <!ENTITY forwardButton.tooltip  "Gå frem">
 
-<!ENTITY detailsPane.more.label "Mer">
+<!ENTITY detailsPane.more.label "Flere">
 <!ENTITY detailsPane.more.accesskey "e">
-<!ENTITY detailsPane.less.label "Mindre">
-<!ENTITY detailsPane.less.accesskey "e">
+<!ENTITY detailsPane.fewer.label "Færre">
+<!ENTITY detailsPane.fewer.accesskey "e">
 <!ENTITY detailsPane.selectAnItemText.description "Velg et element for å vise eller redigere egenskapene til det">
 
 <!ENTITY editBookmark.done.label "Fullfør">
