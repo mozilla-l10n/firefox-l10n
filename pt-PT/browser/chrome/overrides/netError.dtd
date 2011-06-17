@@ -53,16 +53,7 @@
 <!ENTITY netInterrupt.longDesc "&sharedLongDesc;">
 
 <!ENTITY netOffline.title "Modo desligado">
-<!-- LOCALIZATION NOTE (netOffline.overrideLongDesc) - This string should
-     indicate that "Work Offline" is a menu item without being too specific,
-     since it could be in either the normal menu (Mac/Linux) or the Firefox button
-     menu (Windows).
--->
-<!ENTITY netOffline.overrideLongDesc "
-<ul>
-  <li>Desmarque a opção &quot;Trabalhar em modo desligado&quot; e tente novamente.</li>
-</ul>
-">
+<!ENTITY netOffline.longDesc2 "<p>O navegador está no modo desligado e não pode ligar-se ao item pedido.</p><ul><li>O computador está ligado a uma rede?</li><li>Pressione &quot;Tentar novamente&quot; para ficar ligado e recarregar a página.</li></ul>">
 
 <!ENTITY contentEncodingError.title "Erro de Codificação de Conteúdo">
 <!ENTITY contentEncodingError.longDesc "
