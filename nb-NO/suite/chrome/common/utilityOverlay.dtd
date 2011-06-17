@@ -4,13 +4,13 @@
 
 <!-- LOCALIZATION NOTE : FILE This file contains the global menu items --> 
 
-<!ENTITY fileMenu.label					"Fil"> 
-<!ENTITY fileMenu.accesskey				"f">
-<!ENTITY newMenu.label						"Ny">
-<!ENTITY newMenu.accesskey					"N">
-<!ENTITY newBlankPageCmd.label "Lag ny side">
-<!ENTITY newBlankPageCmd.accesskey "s" >
-<!ENTITY newBlankPageCmd.key "n" >
+<!ENTITY fileMenu.label                   "Fil">
+<!ENTITY fileMenu.accesskey               "f">
+<!ENTITY newMenu.label                    "Ny">
+<!ENTITY newMenu.accesskey                "N">
+<!ENTITY newBlankPageCmd.label            "Lag ny side">
+<!ENTITY newBlankPageCmd.accesskey        "s">
+<!ENTITY newBlankPageCmd.key              "n">
 <!ENTITY newPageFromTemplateCmd.label "Side fra mal">
 <!ENTITY newPageFromTemplateCmd.accesskey "m">
 <!ENTITY newPageFromDraftCmd.label "Side fra utkast">
@@ -19,30 +19,39 @@
 <!ENTITY newNavigatorCmd.key "N">
 <!ENTITY newNavigatorCmd.accesskey "N">
 
-<!ENTITY editMenu.label					"Rediger"> 
-<!ENTITY editMenu.accesskey				"R"> 
-<!ENTITY undoCmd.label						"Angre">  
-<!ENTITY undoCmd.key						"Z">  
-<!ENTITY undoCmd.accesskey					"A"> 
-<!ENTITY redoCmd.label						"Gjenta">  
-<!ENTITY redoCmd.key						"Y">  
-<!ENTITY redoCmd.accesskey					"G"> 
-<!ENTITY cutCmd.label						"Klipp ut">  
-<!ENTITY cutCmd.key							"X">  
-<!ENTITY cutCmd.accesskey					"u"> 
-<!ENTITY copyCmd.label						"Kopier">  
-<!ENTITY copyCmd.key						"C">  
-<!ENTITY copyCmd.accesskey					"k"> 
-<!ENTITY pasteCmd.label						"Lim inn">  
-<!ENTITY pasteCmd.key						"V">  
-<!ENTITY pasteCmd.accesskey					"L"> 
-<!ENTITY pasteGoCmd.label					"Lim inn og åpne">
-<!ENTITY pasteGoCmd.accesskey				"n">
-<!ENTITY deleteCmd.label					"Slett">  
-<!ENTITY deleteCmd.accesskey				"t"> 
-<!ENTITY selectAllCmd.label					"Merk alt">  
-<!ENTITY selectAllCmd.key					"A">  
-<!ENTITY selectAllCmd.accesskey				"M"> 
+<!ENTITY editMenu.label                   "Rediger">
+<!ENTITY editMenu.accesskey               "R">
+<!ENTITY undoCmd.label                    "Angre">
+<!ENTITY undoCmd.key                      "Z">
+<!ENTITY undoCmd.accesskey                "A">
+<!ENTITY redoCmd.label                    "Gjenta">
+<!ENTITY redoCmd.key                      "Y">
+<!ENTITY redoCmd.accesskey                "G">
+<!ENTITY cutCmd.label                     "Klipp ut">
+<!ENTITY cutCmd.key                       "X">
+<!ENTITY cutCmd.accesskey                 "u">
+<!ENTITY copyCmd.label                    "Kopier">
+<!ENTITY copyCmd.key                      "C">
+<!ENTITY copyCmd.accesskey                "k">
+<!ENTITY pasteCmd.label                   "Lim inn">
+<!ENTITY pasteCmd.key                     "V">
+<!ENTITY pasteCmd.accesskey               "L">
+<!ENTITY pasteGoCmd.label                 "Lim inn og åpne">
+<!ENTITY pasteGoCmd.accesskey             "n">
+
+<!-- LOCALIZATION NOTE (pasteSearchCmd): "Search" is a verb, this is the
+     search bar equivalent to the url bar's "Paste & Go"  -->
+<!ENTITY pasteSearchCmd.label             "Lim inn og søk">
+<!ENTITY pasteSearchCmd.accesskey         "ø">
+<!ENTITY deleteCmd.label                  "Slett">
+<!ENTITY deleteCmd.accesskey              "t">
+<!ENTITY selectAllCmd.label               "Merk alt">
+<!ENTITY selectAllCmd.key                 "A">
+<!ENTITY selectAllCmd.accesskey           "M">
+<!ENTITY clearHistoryCmd.label				"Tøm søkehistorikk">  
+<!ENTITY clearHistoryCmd.accesskey			"T"> 
+<!ENTITY showSuggestionsCmd.label			"Vis forslag">  
+<!ENTITY showSuggestionsCmd.accesskey		"f"> 
 <!ENTITY preferencesCmd.label				"Innstillinger …">
 <!ENTITY preferencesCmd.key					"E">  
 <!ENTITY preferencesCmd.accesskey			"I"> 
@@ -52,7 +61,7 @@
 <!ENTITY findTypeLinksCmd.accesskey "k">
 
 <!ENTITY viewMenu.label					"Vis"> 
-<!ENTITY viewMenu.accesskey				"V"> 
+<!ENTITY viewMenu.accesskey               "V">
 <!ENTITY viewToolbarsMenu.label				"Vis/skjul"> 
 <!ENTITY viewToolbarsMenu.accesskey			"v"> 
 <!ENTITY showTaskbarCmd.label					"Statuslinje">  
@@ -63,10 +72,12 @@
 
 <!ENTITY helpTroubleshootingInfo.label      "Feilsøkingsinfo">
 <!ENTITY helpTroubleshootingInfo.accesskey  "e">
-<!ENTITY releaseCmd.label				"Versjonsnotat">
-<!ENTITY releaseCmd.accesskey                   "V">
-<!ENTITY updateCmd.label                        "Søk etter oppdateringer …">
-<!ENTITY updateCmd.accesskey                    "S">
+<!ENTITY releaseCmd.label                   "Versjonsnotat">
+<!ENTITY releaseCmd.accesskey               "V">
+<!ENTITY helpSafeMode.label                 "Start på nytt med avslåtte utvidelser">
+<!ENTITY helpSafeMode.accesskey             "t">
+<!ENTITY updateCmd.label                    "Søk etter oppdateringer …">
+<!ENTITY updateCmd.accesskey                "S">
 <!ENTITY aboutCmd.label					"Om &brandShortName;">
 <!ENTITY aboutCmd.accesskey				"O">
 <!ENTITY aboutCommPluginsCmd.label			"Om programtillegg">
@@ -114,3 +125,5 @@
 <!ENTITY showPopupManager.accesskey   "e">
 <!ENTITY dontShowMessage.label        "Ikke vis denne meldingen når sprettoppvinduer blokkeres">
 <!ENTITY dontShowMessage.accesskey    "k">
+
+<!ENTITY syncToolbarButton.label "Sync">

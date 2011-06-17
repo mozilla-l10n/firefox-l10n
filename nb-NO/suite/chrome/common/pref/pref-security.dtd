@@ -37,6 +37,11 @@
 
 <!--LOCALIZATION NOTE : FILE 'Privacy and Security' prefs settings -->
 <!ENTITY pref.security.title              "Personvern og sikkerhet">
+
+<!ENTITY tracking.label                   "Brukersporing">
+<!ENTITY doNotTrack.label                 "Fortell nettsteder at jeg ikke ønsker å spores">
+<!ENTITY doNotTrack.accesskey             "F">
+
 <!ENTITY privateData.label                "Private data">
 
 <!ENTITY alwaysClear.label                "Alltid slett private data når jeg lukker &brandShortName;">
