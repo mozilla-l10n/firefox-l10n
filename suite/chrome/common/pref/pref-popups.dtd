@@ -18,8 +18,8 @@
 
 <!ENTITY selectSound.label "Selecciona...">
 <!ENTITY selectSound.accesskey "e">
-<!ENTITY previewSound.label "Exemple">
-<!ENTITY previewSound.accesskey "x">
+<!ENTITY playSoundButton.label          "Reprodueix">
+<!ENTITY playSoundButton.accesskey      "R">
 <!ENTITY selectSound.title "Selecciona el so de blocatge d'emergents">
 <!ENTITY selectSound.filter             "Sons">
 

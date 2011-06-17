@@ -6,4 +6,11 @@
 <!ENTITY tabNavigationForms.accesskey "B">
 <!ENTITY tabNavigationTextboxes.label "Nota: els quadres de text sempre formen part de l'ordre de les pestanyes.">
 <!ENTITY tabNavigationDesc.label "Quan es premi Tab o Maj+Tab, mou entre:">
-
+<!ENTITY accessibilityBrowseWithCaret.label "Browse With Caret">
+<!ENTITY browseWithCaretDesc.label "Caret browsing enables you to navigate and select within pages using the cursor keys to move a visible caret.">
+<!ENTITY browseWithCaretUse.label "Utilitza la navegació intercalada">
+<!ENTITY browseWithCaretUse.accesskey "U">
+<!ENTITY browseWithCaretShortCut.label "Utilitza la drecera F7 per activar la navegació intercalada">
+<!ENTITY browseWithCaretShortCut.accesskey "F">
+<!ENTITY browseWithCaretWarn.label "Avisa'm en activar la navegació intercalada">
+<!ENTITY browseWithCaretWarn.accesskey "v">
