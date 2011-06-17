@@ -68,7 +68,7 @@
 <!ENTITY selectAddressCmd.accesskey "z">
 <!ENTITY checkSpellingCmd2.label "Controlla ortografia…">
 <!ENTITY checkSpellingCmd2.key "p">
-<!ENTITY checkSpellingCmd2.accesskey "o">
+<!ENTITY checkSpellingCmd2.accesskey "C">
 <!ENTITY enableInlineSpellChecker.label "Correggi ortografia in scrittura ">
 <!ENTITY enableInlineSpellChecker.accesskey "u">
 <!ENTITY priorityMenu.label "Priorità">
@@ -123,8 +123,8 @@
 <!ENTITY openAttachment.accesskey "A">
 <!ENTITY renameAttachment.label "Rinomina">
 <!ENTITY renameAttachment.accesskey "R">
-<!ENTITY deleteAttachment.accesskey "D">
-<!ENTITY selectAllAttachments.accesskey "A">
+<!ENTITY deleteAttachment.accesskey "E">
+<!ENTITY selectAllAttachments.accesskey "a">
 <!ENTITY attachFile.label "Allega file…">
 <!ENTITY attachFile.accesskey "f">
 <!ENTITY attachPage.label "Allega pagina web…">
