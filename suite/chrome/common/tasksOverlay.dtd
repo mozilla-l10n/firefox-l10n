@@ -39,9 +39,18 @@
 <!ENTITY downloadManagerCmd.accesskey "N">
 <!ENTITY downloadManagerCmd.commandkey "j">
 
-<!ENTITY addonsManagerCmd.label "Utvidelser">
-<!ENTITY addonsManagerCmd.accesskey "U">
-<!ENTITY addonsManagerCmd.commandkey "a">
+<!ENTITY addOnsManagerCmd.label "Utvidelser">
+<!ENTITY addOnsManagerCmd.accesskey "U">
+<!ENTITY addOnsManagerCmd.commandkey "a">
 
 <!ENTITY switchProfileCmd.label "Bytt profil …">
 <!ENTITY switchProfileCmd.accesskey "y">
+
+<!ENTITY syncBrand.shortName.label "Sync">
+<!-- LOCALIZATION NOTE (syncSetup.accesskey, syncSyncNowItem.accesskey):
+     Only one of these will show at a time (based on setup state),
+     so reusing accesskey is ok. -->
+<!ENTITY syncSetup.label           "Konfigurer Sync …">
+<!ENTITY syncSetup.accesskey       "S">
+<!ENTITY syncSyncNowItem.label     "Synkroniser nå">
+<!ENTITY syncSyncNowItem.accesskey "S">
