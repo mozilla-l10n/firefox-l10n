@@ -16,16 +16,16 @@
 <!ENTITY checkNow.label "تحقق الآن">
 <!ENTITY checkNow.accesskey "ن">
 <!ENTITY configEditDesc.label "الإعدادات المتقدمة">
-<!ENTITY configEdit.label "محرر التضبيطات…">
-<!ENTITY configEdit.accesskey "ض">
-<!ENTITY returnReceiptsInfo.label "حدد كيف يتعامل &brandShortName;  مع إعلام الوصول">
-<!ENTITY showReturnReceipts.label "إعلام الوصول…">
+<!ENTITY configEdit.label "محرر الإعدادات…">
+<!ENTITY configEdit.accesskey "ت">
+<!ENTITY returnReceiptsInfo.label "حدد كيف يتعامل &brandShortName;  مع إعلامات الوصول">
+<!ENTITY showReturnReceipts.label "إعلامات الوصول…">
 <!ENTITY showReturnReceipts.accesskey "ع">
 <!-- Display and Reading Settings -->
 
 <!ENTITY reading.caption "القراءة">
 <!ENTITY display.caption "العرض">
-<!ENTITY showCondensedAddresses.label "اعرض فقط اسم العرض للأشخاص في دفتر عناويني">
+<!ENTITY showCondensedAddresses.label "اعرض فقط اسم العرض للأشخاص الذين في دفتر عناويني">
 <!ENTITY showCondensedAddresses.accesskey "ع">
 
 <!ENTITY autoMarkAsRead.label "أشّر على الرسائل تلقائيًا بانها مقروءة">
@@ -51,7 +51,7 @@
 
 <!ENTITY autoCheck.label "التمس التحديثات تلقائيًا:">
 <!ENTITY enableAppUpdate.label "&brandShortName;">
-<!ENTITY enableAppUpdate.accesskey "ح">
+<!ENTITY enableAppUpdate.accesskey "ن">
 <!ENTITY enableAddonsUpdate.label "الإضافات المثبتة">
 <!ENTITY enableAddonsUpdate.accesskey "ث">
 <!ENTITY whenUpdatesFound.label "عند وجود تحديثات ل‍ ‍&brandShortName; ">
@@ -67,15 +67,15 @@
 
 <!ENTITY showSettings.label "إعدادات…">
 <!ENTITY showSettings.accesskey "د">
-<!ENTITY proxiesConfigure.label "يعدّ كيفية اتصال &brandShortName; بالإنترنت">
+<!ENTITY proxiesConfigure.label "اضبط كيفية اتصال &brandShortName; بالإنترنت">
 <!ENTITY connectionsInfo.caption "الاتصال">
 <!ENTITY offlineInfo.caption "غير متّصل">
-<!ENTITY offlineInfo.label "اضبط إعدادات طور اللااتصال">
+<!ENTITY offlineInfo.label "اضبط إعدادات طور اللا اتصال">
 <!ENTITY showOffline.label "غير متصل…">
 <!ENTITY showOffline.accesskey "ص">
 
 <!ENTITY Diskspace "مساحة القرص ">
-<!ENTITY offlineCompact.label "ادمج الأدلة إذا كانت ستوفِّر أكثر من">
+<!ENTITY offlineCompact.label "ادمج المجلدات إذا كانت ستوفِّر أكثر من">
 <!ENTITY offlineCompact.accesskey "و">
 <!ENTITY mb.label "ميغابايت">
 <!-- LOCALIZATION NOTE:

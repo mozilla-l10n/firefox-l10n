@@ -1,6 +1,6 @@
 <!-- Subscription Dialog -->
 <!ENTITY feedSubscriptions.label "اشتراكات التلقيمات">
-<!ENTITY subscriptionDesc.label "ملاحظة: لن يؤثر حذف أو تغيير دليل التلقيم على المقالات التي نُزِّلت من قبل.">
+<!ENTITY subscriptionDesc.label "ملاحظة: لن يؤثر حذف أو تغيير مجلد التلقيم على المقالات التي نُزِّلت من قبل.">
 <!ENTITY feedTitle.label "العنوان: ">
 <!ENTITY location.label "الموقع: ">
 

@@ -104,7 +104,7 @@
 <!ENTITY newsServerNamePrefix.label "اسم خادوم الأخبار (NNTP):‏">
 <!ENTITY downloadOnLogin.label "نزِّل الرّسائل الآن">
 <!ENTITY downloadOnLogin.accesskey "ن">
-<!ENTITY deferStorageDesc.label "أزل الإشارة من مربّع الاختيار هذا لتخزين بريد هذا الحساب في دليله الخاص. سيجعل ذلك من الحساب يبدو أنّه حساب أعلى مستوى. بغير ذلك، سيصبح جزءًا من الأدلة المحليّة لحساب صندوق الوارد العام.">
+<!ENTITY deferStorageDesc.label "أزل الإشارة من مربّع الاختيار هذا لتخزين بريد هذا الحساب في مجلده الخاص. سيجعل ذلك من الحساب يبدو أنّه حساب أعلى مستوى. بغير ذلك، سيصبح جزءًا من المجلدات المحليّة لحساب صندوق الوارد العام.">
 <!ENTITY deferStorage.label "استخدم صندوق الوارد العامّ (تخزين البريد في المجلّدات المحليّة)">
 <!ENTITY deferStorage.accesskey "ع">
 <!ENTITY clickFinish.label "اضغط &quot;أنهِ&quot; لحفظ هذه الإعدادات و إنهاء مرشد الحسابات.">
