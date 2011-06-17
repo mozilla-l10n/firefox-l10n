@@ -52,9 +52,9 @@
 <!ENTITY netInterrupt.longDesc "&sharedLongDesc;">
 
 <!ENTITY netOffline.title "Modo desligado">
-<!ENTITY netOffline.longDesc "
+<!ENTITY netOffline.longDesc2 "
 <ul>
-  <li>Coloque o &brandShortName; no modo ligado, e tente de novo.</li>
+  <li>>Pressione &quot;Tentar de novo&quot; para ficar ligado e recarregar a página.</li>
 </ul>
 ">
 
