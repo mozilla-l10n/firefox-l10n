@@ -13,6 +13,8 @@
 <!ENTITY openFrameCmd.accesskey       "Å">
 <!ENTITY openFrameCmdInTab.label      "Åpne ramme i ny fane">
 <!ENTITY openFrameCmdInTab.accesskey  "p">
+<!ENTITY keywordfield.label           "Legg til et nøkkelord i dette søket …">
+<!ENTITY keywordfield.accesskey       "L">
 <!ENTITY showOnlyThisFrameCmd.label     "Vis bare denne rammen">
 <!ENTITY showOnlyThisFrameCmd.accesskey "b">
 <!ENTITY goBackCmd.label              "Tilbake">
@@ -74,10 +76,6 @@
 <!ENTITY saveVideoCmd.accesskey       "L">
 <!ENTITY saveAudioCmd.label           "Lagre lyd som …">
 <!ENTITY saveAudioCmd.accesskey       "L">
-<!ENTITY copyCmd.label                "Kopier">
-<!ENTITY copyCmd.accesskey            "K">
-<!ENTITY selectAllCmd.label           "Merk alt">
-<!ENTITY selectAllCmd.accesskey       "M">
 <!ENTITY copyLinkCmd.label            "Kopier lenkemål">
 <!ENTITY copyLinkCmd.accesskey        "K">
 <!ENTITY copyImageCmd.label           "Kopier bildeadresse">
@@ -90,16 +88,6 @@
 <!ENTITY metadataCmd.accesskey        "E">
 <!ENTITY copyEmailCmd.label           "Kopier e-postadresse">
 <!ENTITY copyEmailCmd.accesskey       "A">
-<!ENTITY pasteCmd.label               "Lim inn">
-<!ENTITY pasteCmd.accesskey           "L">
-<!ENTITY cutCmd.label                 "Klipp ut">
-<!ENTITY cutCmd.accesskey             "u">
-<!ENTITY deleteCmd.label              "Slett">
-<!ENTITY deleteCmd.accesskey          "S">
-<!ENTITY undoCmd.label                "Angre">
-<!ENTITY undoCmd.accesskey            "A">
-<!ENTITY redoCmd.label                "Gjenta">
-<!ENTITY redoCmd.accesskey            "G">
 <!ENTITY thisFrameMenu.label          "Denne rammen">
 <!ENTITY thisFrameMenu.accesskey      "D">
 <!ENTITY mediaPlay.label              "Spill av">

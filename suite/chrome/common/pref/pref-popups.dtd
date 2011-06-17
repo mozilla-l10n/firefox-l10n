@@ -5,8 +5,8 @@
 <!ENTITY popupBlock.label               "Blokker ikke-forespurte sprettoppvinduer">
 <!ENTITY popupBlock.accesskey           "B">
 
-<!ENTITY popupExceptions.label          "Tillatte nettsted …">
-<!ENTITY popupExceptions.accesskey      "T">
+<!ENTITY viewPermissions.label          "Behandle tillatelser">
+<!ENTITY viewPermissions.accesskey      "t">
 
 <!ENTITY whenBlock.description          "Når et sprettoppvindu blokkeres:">
 <!ENTITY playSound.label                "Spill av en lyd:">
@@ -18,8 +18,8 @@
 
 <!ENTITY selectSound.label              "Bla gjennom …">
 <!ENTITY selectSound.accesskey          "B">
-<!ENTITY previewSound.label             "Spill av">
-<!ENTITY previewSound.accesskey         "S">
+<!ENTITY playSoundButton.label          "Spill av">
+<!ENTITY playSoundButton.accesskey      "S">
 <!ENTITY selectSound.title              "Velg en sprettoppvindulyd">
 <!ENTITY selectSound.filter             "Lyder">
 

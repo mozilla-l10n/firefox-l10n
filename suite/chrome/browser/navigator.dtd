@@ -40,9 +40,6 @@
 <!ENTITY printCmd.accesskey "u">
 <!ENTITY printCmd.commandkey "p">
 
-<!ENTITY viewMenu.label "Vis">
-<!ENTITY viewMenu.accesskey "V">
-
 <!ENTITY toolbarsCmd.label "Vis/skjul">
 <!ENTITY toolbarsCmd.accesskey "V">
 <!ENTITY navbarCmd.label "Navigasjonslinje">
@@ -109,7 +106,7 @@
 <!ENTITY goHomeCmd.label "Hjem">
 <!ENTITY goHomeCmd.accesskey "H">
 <!ENTITY historyRestoreLastSession.label "Gjenopprett forrige programøkt">
-<!ENTITY historyRestoreLastSessionCmd.accesskey "G">
+<!ENTITY historyRestoreLastSession.accesskey "G">
 
 <!ENTITY bookmarksMenu.label "Bokmerker">
 <!ENTITY bookmarksMenu.accesskey "B">
@@ -152,14 +149,14 @@
 <!ENTITY locationBar.tooltip          "Skriv inn et søkeord, nøkkelord eller en nettadresse her">
 <!ENTITY locationBar.accesskey        "d">
 <!ENTITY locationBar.title            "Adresse">
-
 <!ENTITY proxyIcon.tooltip            "Dra og slipp dette ikonet for å opprette en lenke til siden">
 
-<!-- Toolbar items --> 
-<!ENTITY  bookmarksButton.label       "Bokmerker">
-<!ENTITY  bookmarksButton.tooltip     "Bokmerkeliste">
-<!ENTITY  homeButton.label            "Hjem">
-<!ENTITY  bookmarksToolbarItem.label  "Elementer i bokmerkeverktøylinje">
+<!ENTITY searchItem.title             "Søk">
+
+<!ENTITY bookmarksButton.label        "Bokmerker">
+<!ENTITY bookmarksButton.tooltip      "Bokmerkeliste">
+<!ENTITY homeButton.label             "Hjem">
+<!ENTITY bookmarksToolbarItem.label   "Elementer i bokmerkeverktøylinje">
 <!ENTITY bookmarksToolbarChevron.tooltip "Vis flere bokmerker">
 
 <!-- Statusbar -->
@@ -173,3 +170,6 @@
 
 <!ENTITY bidiSwitchPageDirectionItem.label        "Bytt sideretning">
 <!ENTITY bidiSwitchPageDirectionItem.accesskey    "B">
+
+<!-- LOCALIZATION NOTE (syncTabsMenu.label): This appears in the Go menu -->
+<!ENTITY syncTabsMenu.label         "Faner fra andre datamaskiner">

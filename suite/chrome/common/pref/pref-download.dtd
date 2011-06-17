@@ -32,5 +32,5 @@
 <!ENTITY showAlert.accesskey            "v">
 <!ENTITY browse.label                   "Bla gjennom …">
 <!ENTITY browse.accesskey               "B">
-<!ENTITY preview.label                  "Spill av">
-<!ENTITY preview.accesskey              "v">
+<!ENTITY playButton.label               "Spill av">
+<!ENTITY playButton.accesskey           "v">

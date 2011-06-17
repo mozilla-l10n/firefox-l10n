@@ -145,25 +145,15 @@
 <!ENTITY spellCheckIgnoreWord.accesskey "I">
 <!ENTITY spellCheckAddToDictionary.label "Legg til i ordboken">
 <!ENTITY spellCheckAddToDictionary.accesskey "L">
-<!ENTITY undo.label "Angre">
-<!ENTITY undo.accesskey "A">
-<!ENTITY cut.label "Klipp ut">
-<!ENTITY cut.accesskey "u">
-<!ENTITY copy.label "Kopier">
-<!ENTITY copy.accesskey "K">
-<!ENTITY paste.label "Lim inn">
-<!ENTITY paste.accesskey "L">
 <!ENTITY pasteQuote.label "Lim inn som sitering">
 <!ENTITY pasteQuote.accesskey "t">
 
 <!ENTITY openAttachment.label "Åpne">
 <!ENTITY openAttachment.accesskey "Å">
-<!ENTITY delete.label "Slett">
-<!ENTITY delete.accesskey "S">
 <!ENTITY renameAttachment.label "Endre navn …">
 <!ENTITY renameAttachment.accesskey "E">
-<!ENTITY selectAll.label "Merk alt">
-<!ENTITY selectAll.accesskey "M">
+<!ENTITY deleteAttachment.accesskey "S">
+<!ENTITY selectAllAttachments.accesskey "a">
 <!ENTITY attachFile.label "Legg ved filer …">
 <!ENTITY attachFile.accesskey "L">
 <!ENTITY attachPage.label "Legg ved nettside …">

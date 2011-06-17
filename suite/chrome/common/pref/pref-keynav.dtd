@@ -6,19 +6,11 @@
 <!ENTITY tabNavigationForms.accesskey "K">
 <!ENTITY tabNavigationTextboxes.label "Merk: tekstbokser er alltid en del av rekkefølgen">
 <!ENTITY tabNavigationDesc.label "Når Tab eller Shift+Tab trykkes, flytt mellom:">
-<!ENTITY findAsYouTypeBehavior.label "«Finn mens du skriver»">
-<!ENTITY findAsYouTypeTip.label "For manuelt å starte opp «Finn mens du skriver», trykk / for å finne tekst eller ' for å finne lenker, etterfulgt av teksten du vil finne.">
-<!ENTITY findAsYouTypeTimeout.label "Avslutt søket etter noen sekunders inaktivitet">
-<!ENTITY findAsYouTypeTimeout.accesskey "A">
-<!ENTITY findAsYouTypeSound.label "Spill av en lyd når tekst ikke ble funnet">
-<!ENTITY findAsYouTypeSound.accesskey "S">
-<!ENTITY findAsYouTypeEnableAuto.label "Søk etter følgende elementer på siden mens du skriver:">
-<!ENTITY findAsYouTypeEnableAuto.accesskey "ø">
-<!ENTITY findAsYouTypeAutoText.label "Hvilken som helst tekst på siden">
-<!ENTITY findAsYouTypeAutoText.accesskey "H">
-<!ENTITY findAsYouTypeAutoLinks.label "Bare lenker">
-<!ENTITY findAsYouTypeAutoLinks.accesskey "B">
-
-<!ENTITY findAsYouTypeFindbarEnable.label "Vis søkelinjen når du bruker 'søk mens du skriver'">
-<!ENTITY findAsYouTypeFindbarEnable.accesskey "V">
-<!ENTITY findAsYouTypeFindbarEnableTip.label "Merk: 'Søk mens du skriver' uten søkelinje tillater ikke at du skriver med norske tegn.">
+<!ENTITY accessibilityBrowseWithCaret.label "Nettlesing med tekstmarkør">
+<!ENTITY browseWithCaretDesc.label "Nettlesing med tekstmarkør lar deg navigere og merke innenfor nettsider med piltastene for å flytte en synlig tekstmarkør.">
+<!ENTITY browseWithCaretUse.label "Bruk nettlesing med tekstmarkør">
+<!ENTITY browseWithCaretUse.accesskey "B">
+<!ENTITY browseWithCaretShortCut.label "Bruk F7-snarveien for å slå på eller av nettlesing med tekstmarkør">
+<!ENTITY browseWithCaretShortCut.accesskey "B">
+<!ENTITY browseWithCaretWarn.label "Advar meg før nettlesing med tekstmarkør skrus på">
+<!ENTITY browseWithCaretWarn.accesskey "d">
