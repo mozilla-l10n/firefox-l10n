@@ -68,7 +68,7 @@
 <!ENTITY selectAddressCmd.accesskey "z">
 <!ENTITY checkSpellingCmd2.label "Controlla ortografia…">
 <!ENTITY checkSpellingCmd2.key "p">
-<!ENTITY checkSpellingCmd2.accesskey "o">
+<!ENTITY checkSpellingCmd2.accesskey "C">
 <!ENTITY enableInlineSpellChecker.label "Correggi ortografia in scrittura ">
 <!ENTITY enableInlineSpellChecker.accesskey "u">
 <!ENTITY priorityMenu.label "Priorità">
