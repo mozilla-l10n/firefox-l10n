@@ -10,7 +10,7 @@
 <!ENTITY chooseFoldersButton.label "اختر…">
 <!ENTITY chooseFoldersButton.accesskey "خ">
 
-<!ENTITY searchOnline.label "ابحث على اتصال (يعطي نتائج محدَّثة لـ IMAP و دليل الأخبار لكن يزيد زمن فتح الملف)">
+<!ENTITY searchOnline.label "ابحث على اتصال (يعطي نتائج محدَّثة لـ IMAP و مجلد الأخبار لكن يزيد زمن فتح الملف)">
 <!ENTITY searchOnline.accesskey "ص">
 <!ENTITY newFolderButton.label "أنشئ">
 <!ENTITY newFolderButton.accesskey "ئ">

@@ -22,7 +22,7 @@
 <!ENTITY stopFilters.accesskey "ق">
 <!ENTITY folderPickerPrefix.label "شغّل المرشّح(ات) المختار(ة) على:">
 <!ENTITY folderPickerPrefix.accesskey "م">
-<!ENTITY choosethis.label "اختر هذا الدليل">
+<!ENTITY choosethis.label "اختر هذا المجلد">
 <!ENTITY choosethisnewsserver.label "اختر خادوم الأخبار هذا">
 <!ENTITY helpButton.label "مساعدة">
 <!ENTITY helpButton.accesskey "م">
