@@ -25,7 +25,7 @@
 
 <!-- global informations -->
 <!ENTITY info.plugincheck.label                 "Gwiriañ mard ez eo hizivaet hoc'h enlugelladoù">
-<!ENTITY info.plugincheck.tooltip               "Check to see if your plugins are up to date">
+<!ENTITY info.plugincheck.tooltip               "Gwiriañ mard ez eo hizivaet hoc'h enlugelladoù">
 
 <!-- categories / views -->
 <!ENTITY view.search.label                    "Klask">
