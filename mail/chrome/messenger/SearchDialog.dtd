@@ -20,7 +20,7 @@
 <!ENTITY closeCmd.key "W">
 <!ENTITY openInFolder.label "افتح في مجلد">
 <!ENTITY openInFolder.accesskey "د">
-<!ENTITY saveAsVFButton.label "احفظ كدليل بحث">
+<!ENTITY saveAsVFButton.label "احفظ كمجلد بحث">
 <!ENTITY saveAsVFButton.accesskey "ح">
 <!-- for ABSearchDialog.xul -->
 

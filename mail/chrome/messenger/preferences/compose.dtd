@@ -44,7 +44,7 @@
 <!ENTITY directories.label "خادوم الدليل:">
 <!ENTITY directories.accesskey "د">
 <!ENTITY directoriesNone.label "لا شيء">
-<!ENTITY editDirectories.label "حرّر الأدلة…">
+<!ENTITY editDirectories.label "حرّر المجلدات…">
 <!ENTITY editDirectories.accesskey "ح">
 
 <!ENTITY sendOptionsDescription.label "اضبط سلوك تنسيق النص">
@@ -53,5 +53,5 @@
 
 <!ENTITY attachmentReminder.label "تحقق من المرفقات الناقصة">
 <!ENTITY attachmentReminder.accesskey "ن">
-<!ENTITY attachmentReminderOptions.label "الكلمات الدليلية…">
+<!ENTITY attachmentReminderOptions.label "الكلمات المفتاحية…">
 <!ENTITY attachmentReminderOptions.accesskey "ك">

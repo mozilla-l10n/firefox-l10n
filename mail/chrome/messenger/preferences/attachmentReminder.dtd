@@ -1,4 +1,4 @@
-<!ENTITY attachmentReminderDialog.title "الكلمات الدليلية لمذكِّر المرفقات">
+<!ENTITY attachmentReminderDialog.title "الكلمات المفتاحية لمذكِّر المرفقات">
 <!ENTITY attachKeywordText.label "سوف ينبّهك &brandShortName; إن نسيت إضافة مرفق حين تحاول إرسال رسالة تحوي إحدى هذه الكلمات.">
 <!ENTITY addKeywordButton.label "أضِف">
 <!ENTITY addKeywordButton.accesskey "ف">

@@ -2,9 +2,9 @@
 <!-- LOCALIZATION NOTE (serverDirectory.label): Do not translate "IMAP" -->
 <!ENTITY serverDirectory.label "دليل خادوم IMAP:">
 <!ENTITY serverDirectory.accesskey "د">
-<!ENTITY usingSubscription.label "أظهر الأدلة المشترِكة فقط:">
+<!ENTITY usingSubscription.label "أظهر المجلدات المشترِكة فقط:">
 <!ENTITY usingSubscription.accesskey "ظ">
-<!ENTITY dualUseFolders.label "يدعم الخادوم الأدلة التي تحوي أدلة فرعيّة ورسائل">
+<!ENTITY dualUseFolders.label "يدعم الخادوم المجلدات التي تحوي مجلدات فرعيّة ورسائل">
 <!ENTITY dualUseFolders.accesskey "م">
 <!ENTITY useIdle.label "استخدم الأمر IDLE إذا كان الخادوم يدعمه">
 <!ENTITY useIdle.accesskey "س">
@@ -20,8 +20,8 @@
 <!ENTITY otherUsersNamespace.accesskey "ن">
 <!ENTITY overrideNamespaces.label "اسمح للخادوم بتعديل فضاء التسمية هذا">
 <!ENTITY overrideNamespaces.accesskey "س">
-<!ENTITY pop3Desc.label "عند تنزيل بريد pop من هذا الخادوم، استخدم الدليل التالي للبريد الجديد:">
-<!ENTITY globalInbox.label "صندوق الوارد العام (حساب الأدلة المحليّة)">
+<!ENTITY pop3Desc.label "عند تنزيل بريد pop من هذا الخادوم، استخدم المجلد التالي للبريد الجديد:">
+<!ENTITY globalInbox.label "صندوق الوارد العام (حساب المجلدات المحليّة)">
 <!ENTITY globalInbox.accesskey "ص">
 <!ENTITY accountDirectory.label "صندوق الوارد لحساب الخادوم هذا">
 <!ENTITY accountDirectory.accesskey "ه">

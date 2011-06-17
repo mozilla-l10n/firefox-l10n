@@ -39,7 +39,7 @@
 <!ENTITY downloadOnBiff.accesskey "ل">
 <!ENTITY username.label "اسم الولوج">
 <!ENTITY deleteMessagePrefix.label "عندما أحذِف رسالة:">
-<!ENTITY modelMoveToTrash.label "انقلها إلى دليل المهملات">
+<!ENTITY modelMoveToTrash.label "انقلها إلى مجلد المهملات">
 <!ENTITY modelMoveToTrash.accesskey "ا">
 <!ENTITY modelMarkDeleted.label "أشِّرها كمحذوفة">
 <!ENTITY modelMarkDeleted.accesskey "ف">
@@ -63,8 +63,8 @@
 <!ENTITY alwaysAuthenticate.label "اطلب الاستيثاق دائمًا عند الاتصال بهذا الخادوم">
 <!ENTITY alwaysAuthenticate.accesskey "ط">
 <!ENTITY newsrcFilePath.label "ملف newsrc:">
-<!ENTITY localPath.label "دليل محلي:">
-<!ENTITY abbreviate.label "اعرض أسماء مجموعات الأخبار في لوحة دليل البريد ك‍:">
+<!ENTITY localPath.label "مجلد محلي:">
+<!ENTITY abbreviate.label "اعرض أسماء مجموعات الأخبار في لوحة مجلد البريد ك‍:">
 <!ENTITY abbreviateOn.label "أسماء كاملة (على سبيل المثال، 'netscape.public.mozilla.mail-news')">
 <!ENTITY abbreviateOff.label "أسماء مختصرة (على سبيل المثال،  'n.p.m.mail-news')">
 <!ENTITY advancedButton.label "متقدم…">

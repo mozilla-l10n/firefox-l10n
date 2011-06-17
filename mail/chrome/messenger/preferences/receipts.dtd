@@ -1,10 +1,10 @@
-<!ENTITY dialog.title "عِلْم الوصول">
-<!ENTITY requestReceipt.label "دائمًا اطلب عِلْم الوصول عند إرسال الرسائل">
+<!ENTITY dialog.title "إعلامات الوصول">
+<!ENTITY requestReceipt.label "دائمًا اطلب إعلام الوصول عند إرسال الرسائل">
 <!ENTITY requestReceipt.accesskey "ع">
 <!ENTITY receiptArrive.label "عند وصول الإعلام:">
 <!ENTITY leaveIt.label "اتركه في صندوق الوارد">
 <!ENTITY leaveIt.accesskey "و">
-<!ENTITY moveToSent.label "انقله إلى دليل &quot;المرسَل&quot;">
+<!ENTITY moveToSent.label "انقله إلى مجلد &quot;المرسَلات&quot;">
 <!ENTITY moveToSent.accesskey "ن">
 <!ENTITY requestMDN.label "عند استلامي طلب إعلام الوصول:">
 <!ENTITY never.label "لا ترسل إعلام وصول أبدًا">

@@ -4,7 +4,7 @@
 <!ENTITY sendingPrefix.label "عند إرسال الرسائل، آليًا:">
 <!ENTITY fccMailFolder.label "ضع نسخة في:">
 <!ENTITY fccMailFolder.accesskey "ض">
-<!ENTITY fccReplyFollowsParent.label "ضع الرّدود في دليل الرّسالة التّي يتم الرّد عليها">
+<!ENTITY fccReplyFollowsParent.label "ضع الرّدود في مجلد الرّسالة التّي يتم الرّد عليها">
 <!ENTITY fccReplyFollowsParent.accesskey "ع">
 <!-- LOCALIZATION NOTE (ccAddress.label): do not translate "Cc" in below line -->
 <!ENTITY ccAddress.label "أرسِل Cc للعناوين التالية:">

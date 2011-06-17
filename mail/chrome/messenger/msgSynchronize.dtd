@@ -2,7 +2,7 @@
 
 <!ENTITY MsgSynchronize.label "نزِّل وزامِن الرسائل">
 <!ENTITY MsgSelect.label "عناصر للاستخدام في طور اللا اتصال">
-<!ENTITY MsgSyncDesc.label "إذا كنت قد اخترت مسبقًا أدلة بريد أو مجموعات أخبار لتُستخدم بلا اتصال فيُمكنك تنزيلها و/أو مزامنتها الآن. وإلا فاستخدم زر &quot;اختر&quot; لتختار الأدلة ومجموعات الأخبار التي تريد استخدامها بلا اتصال.">
+<!ENTITY MsgSyncDesc.label "إذا كنت قد اخترت مسبقًا مجلدات بريد أو مجموعات أخبار لتُستخدم بلا اتصال فيُمكنك تنزيلها و/أو مزامنتها الآن. وإلا فاستخدم زر &quot;اختر&quot; لتختار المجلدات ومجموعات الأخبار التي تريد استخدامها بلا اتصال.">
 <!ENTITY MsgSyncDirections.label "نزِّل و/أو زامن التالي:">
 <!ENTITY syncTypeMail.label "رسائل البريد">
 <!ENTITY syncTypeMail.accesskey "ب">
@@ -14,6 +14,6 @@
 <!ENTITY workOffline.accesskey "ع">
 <!ENTITY selectButton.label "اختر…">
 <!ENTITY selectButton.accesskey "خ">
-<!ENTITY MsgSelectDesc.label "اختر أدلة بريد ومجموعات أخبار لتستخدم بلا اتصال.">
+<!ENTITY MsgSelectDesc.label "اختر مجلدات بريد ومجموعات أخبار لتستخدم بلا اتصال.">
 <!ENTITY MsgSelectInd.label "نزِّل">
-<!ENTITY MsgSelectItems.label "الأدلة و مجموعات أخبار">
+<!ENTITY MsgSelectItems.label "المجلدات و مجموعات أخبار">

@@ -39,7 +39,7 @@
 <!ENTITY saveAsFileCmd.key "a">
 <!ENTITY saveAsTemplateCmd.label "قالب">
 <!ENTITY saveAsTemplateCmd.accesskey "ق">
-<!ENTITY getNewMsgForCmd.label "اجلب الرسائل  الجديدة لـ">
+<!ENTITY getNewMsgForCmd.label "اجلب الرسائل  الجديدة ل‍">
 <!ENTITY getNewMsgForCmd.accesskey "ج">
 <!ENTITY getAllNewMsgCmdPopupMenu.label "جميع الحسابات">
 <!ENTITY getAllNewMsgCmdPopupMenu.accesskey "ج">
@@ -56,9 +56,9 @@
 <!ENTITY renameFolder.label "غيّر اسم المجلد…">
 <!ENTITY renameFolder.accesskey "غ">
 <!ENTITY renameFolder.key "VK_F2">
-<!ENTITY compactFolders.label "ادمج المجلدات">
+<!ENTITY compactFolders.label "اضغط المجلدات">
 <!ENTITY compactFolders.accesskey "د">
-<!ENTITY emptyTrashCmd.label "أفرغ المهملات">
+<!ENTITY emptyTrashCmd.label "أفرغ سلة المهملات">
 <!ENTITY emptyTrashCmd.accesskey "ف">
 <!ENTITY offlineMenu.label "غير متصل">
 <!ENTITY offlineMenu.accesskey "م">
@@ -293,25 +293,25 @@ you can use these alternative items. Otherwise, their values should be empty.  -
 
 <!ENTITY goMenu.label "اذهب">
 <!ENTITY goMenu.accesskey "ذ">
-<!ENTITY nextMenu.label "التالي">
+<!ENTITY nextMenu.label "إلى التالي من">
 <!ENTITY nextMenu.accesskey "ت">
-<!ENTITY nextMsgCmd.label "رسالة">
+<!ENTITY nextMsgCmd.label "الرسائل">
 <!ENTITY nextMsgCmd.accesskey "ر">
 <!ENTITY nextMsgCmd.key "f">
-<!ENTITY nextUnreadMsgCmd.label "رسالة غير مقروءة">
+<!ENTITY nextUnreadMsgCmd.label "الرسائل غير المقروءة">
 <!ENTITY nextUnreadMsgCmd.accesskey "غ">
 <!ENTITY nextUnreadMsgCmd.key "n">
-<!ENTITY nextStarredMsgCmd.label "رسالة ذات نجمة">
+<!ENTITY nextStarredMsgCmd.label "الرسالة ذات النجمة">
 <!ENTITY nextStarredMsgCmd.accesskey "ذ">
-<!ENTITY nextUnreadThread.label "نقاش غير مقروء">
+<!ENTITY nextUnreadThread.label "النقاشات غير المقروءة">
 <!ENTITY nextUnreadThread.accesskey "ش">
 <!ENTITY nextUnreadThread.key "t">
-<!ENTITY prevMenu.label "السابق">
+<!ENTITY prevMenu.label "إلى السابق من">
 <!ENTITY prevMenu.accesskey "س">
-<!ENTITY prevMsgCmd.label "رسالة">
+<!ENTITY prevMsgCmd.label "الرسائل">
 <!ENTITY prevMsgCmd.accesskey "ر">
 <!ENTITY prevMsgCmd.key "b">
-<!ENTITY prevUnreadMsgCmd.label "رسالة غير مقروءة">
+<!ENTITY prevUnreadMsgCmd.label "الرسائل غير المقروءة">
 <!ENTITY prevUnreadMsgCmd.accesskey "غ">
 <!ENTITY prevUnreadMsgCmd.key "p">
 <!ENTITY goForwardCmd.label "إلى الأمام">
@@ -320,7 +320,7 @@ you can use these alternative items. Otherwise, their values should be empty.  -
 <!ENTITY goBackCmd.label "إلى الخلف">
 <!ENTITY goBackCmd.accesskey "خ">
 <!ENTITY goBackCmd.commandKey "[">
-<!ENTITY prevStarredMsgCmd.label "رسالة ذات نجمة">
+<!ENTITY prevStarredMsgCmd.label "الرسائل ذات النجمة">
 <!ENTITY prevStarredMsgCmd.accesskey "ذ">
 <!ENTITY folderMenu.label "المجلد">
 <!ENTITY folderMenu.accesskey "د">
@@ -781,7 +781,7 @@ you can use these alternative items. Otherwise, their values should be empty.  -
      to get to the box faster.  If the global indexer is disabled, the search
      box will be collapsed and the user will never see this message.
      -->
-<!ENTITY searchAllMessages.label.base "يبحث في كل الرسائل… #1">
+<!ENTITY searchAllMessages.label.base "ابحث في كل الرسائل… #1">
 <!-- LOCALIZATION NOTE (searchAllMessages.keyLabel.nonmac):
      The description of the key-binding to get into the global search box on
      windows and linux (which use the control key).  We use the key defined in
