@@ -7,7 +7,7 @@
 <!ENTITY feedLocation.label "مسار التلقيمة: ">
 <!ENTITY feedLocation.accesskey "م">
 
-<!ENTITY choosethisfolder.label "اختر هذا الدليل">
+<!ENTITY choosethisfolder.label "اختر هذا المجلد">
 
 <!ENTITY quickMode.label "اعرض ملخّص المقالة عوضا عن تحميل صفحة الوِب">
 <!ENTITY quickMode.accesskey "ع">

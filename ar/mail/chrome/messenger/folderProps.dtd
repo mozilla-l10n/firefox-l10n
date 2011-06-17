@@ -43,7 +43,7 @@
 <!ENTITY generalInfo.label "معلومات عامة">
 <!ENTITY folderCharsetTab.label "ترميز المحارف المبدئي:">
 <!ENTITY folderCharsetTab.accesskey "ت">
-<!ENTITY folderCharsetOverride.label "طبِّق المبدئي على كل الرسائل في الدليل (سيتجاهل إعدادات ترميز المحارف لكل رسالة والتعرّف التلقائي)">
+<!ENTITY folderCharsetOverride.label "طبِّق المبدئي على كل الرسائل في المجلد (سيتجاهل إعدادات ترميز المحارف لكل رسالة والتعرّف التلقائي)">
 <!ENTITY folderCharsetOverride.accesskey "ط">
 <!ENTITY folderRebuildSummaryFileTip2.label "أعد بناء فهرس ملف الملخص">
 <!ENTITY folderRebuildSummaryFile2.label "أصلِح المجلد">
@@ -75,7 +75,7 @@
 <!ENTITY folderCheckForNewMessages2.label "عند الحصول على رسائل جديدة، تحقق من هذا المجلد دائمًا">
 <!ENTITY folderCheckForNewMessages2.accesskey "ق">
 
-<!ENTITY offlineFolder.check.label "اختر هذا الدليل للاستخدام دون اتصال">
+<!ENTITY offlineFolder.check.label "اختر هذا المجلد للاستخدام دون اتصال">
 <!ENTITY offlineFolder.check.accesskey "خ">
 <!ENTITY offlineFolder.button.label "نزِّل الآن">
 <!ENTITY offlineFolder.button.accesskey "ن">
@@ -94,7 +94,7 @@
 <!ENTITY privileges.button.label "الصلاحيات…">
 <!ENTITY privileges.button.accesskey "ص">
 <!ENTITY permissionsDesc.label "لديك الصلاحيات التالية:">
-<!ENTITY folderType.label "نوع الدليل:">
+<!ENTITY folderType.label "نوع المجلد:">
 
 <!ENTITY folderQuotaTab.label "الحصّة">
 <!ENTITY folderQuotaRoot.label "جذر الحصّة:">

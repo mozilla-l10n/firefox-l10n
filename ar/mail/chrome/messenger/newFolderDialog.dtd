@@ -37,14 +37,14 @@
    - ***** END LICENSE BLOCK ***** -->
 <!-- Labels -->
    
-<!ENTITY newFolderDialog.title "دليل جديد">
+<!ENTITY newFolderDialog.title "مجلد جديد">
 <!ENTITY name.label "الاسم:">
 <!ENTITY name.accesskey "س">
-<!ENTITY description.label "أنشئ كدليل فرعي من:">
+<!ENTITY description.label "أنشئ كمجلد فرعي من:">
 <!ENTITY description.accesskey "ف">
-<!ENTITY folderRestriction1.label "يحصر هذا الخادوم الأدلة في نوعين خاصّين.">
-<!ENTITY folderRestriction2.label "اسمح للدليل الجديد أن يحتوي:">
-<!ENTITY foldersOnly.label "أدلة فقط">
+<!ENTITY folderRestriction1.label "يحصر هذا الخادوم المجلدات في نوعين خاصّين.">
+<!ENTITY folderRestriction2.label "اسمح للمجلد الجديد أن يحتوي:">
+<!ENTITY foldersOnly.label "مجلدات فقط">
 <!ENTITY messagesOnly.label "رسائل فقط">
 <!ENTITY accept.label "أنشئ المجلد">
 <!ENTITY accept.accesskey "ش">

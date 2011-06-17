@@ -10,15 +10,15 @@
 <!ENTITY bounceSystemDockIcon.accesskey "ح">
 
 <!ENTITY newMessagesArrive.label "عند وصول رسالة جديدة:">
-<!ENTITY playSound.label "اعزف صوت">
+<!ENTITY playSound.label "شغّل ملفًا صوتيًا">
 <!ENTITY playSound1.accesskey "ت">
-<!ENTITY showAnimatedAlert.label "اعرض تنبيه">
+<!ENTITY showAnimatedAlert.label "اعرض تنبيهًا">
 <!ENTITY showAnimatedAlert.accesskey "ر">
 <!ENTITY customizeMailAlert.label "خصص…">
 <!ENTITY customizeMailAlert.accesskey "خ">
 
-<!ENTITY play.label "اعزف">
-<!ENTITY play.accesskey "ع">
+<!ENTITY play.label "شغّل">
+<!ENTITY play.accesskey "ش">
 <!ENTITY systemsound.label "صوت النظام العادي للبريد الجديد">
 <!ENTITY systemsoundMac.label "صوت تنبيه النظام">
 <!ENTITY systemsoundMac.accesskey "ت">

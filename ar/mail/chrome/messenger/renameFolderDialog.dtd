@@ -36,8 +36,8 @@
    -
    - ***** END LICENSE BLOCK ***** -->
    
-<!ENTITY renameFolderDialog.title "غيّر اسم الدليل">
-<!ENTITY rename.label "أدخل اسمًا جديدًا للدليل:">
+<!ENTITY renameFolderDialog.title "غيّر اسم المجلد">
+<!ENTITY rename.label "أدخل اسمًا جديدًا للمجلد:">
 <!ENTITY rename.accesskey "د">
 <!ENTITY accept.label "أعِد التسمية">
 <!ENTITY accept.accesskey "س">
