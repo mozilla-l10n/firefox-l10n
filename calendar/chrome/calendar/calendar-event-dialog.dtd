@@ -209,8 +209,8 @@
 <!ENTITY task.from.accesskey                              "a">
 <!ENTITY event.to.label                                   "Slutt:" >
 <!ENTITY event.to.accesskey                               "l">
-<!ENTITY task.to.label                                    "Forfallsdato:" >
-<!ENTITY task.to.accesskey                                "o">
+<!ENTITY task.to.label                                    "Innen:" >
+<!ENTITY task.to.accesskey                                "n">
 <!ENTITY task.status.label                                "Status:" >
 <!ENTITY task.status.accesskey                            "a">
 <!ENTITY event.repeat.label                               "Gjenta:" >
@@ -381,7 +381,7 @@
 <!ENTITY read.only.event.start.label     "Startdato:">
 <!ENTITY read.only.task.start.label      "Startdato:">
 <!ENTITY read.only.event.end.label       "Sluttdato:">
-<!ENTITY read.only.task.due.label        "Forfallsdato:">
+<!ENTITY read.only.task.due.label        "Innen:">
 <!ENTITY read.only.repeat.label          "Gjenta:">
 <!ENTITY read.only.location.label        "Sted:">
 <!ENTITY read.only.category.label        "Kategori:">

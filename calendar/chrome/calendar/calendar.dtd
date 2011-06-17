@@ -173,7 +173,7 @@
 <!ENTITY calendar.task-details.repeat.label          "gjenta">
 <!ENTITY calendar.task-details.attachments.label     "vedlegg">
 <!ENTITY calendar.task-details.start.label           "startdato">
-<!ENTITY calendar.task-details.due.label             "forfallsdato">
+<!ENTITY calendar.task-details.due.label             "innen">
 
 <!ENTITY calendar.task.category.button.tooltip  "Kategoriser oppgaver">
 <!ENTITY calendar.task.complete.button.tooltip  "Marker valgte oppgaver som fullførte">
@@ -354,7 +354,7 @@
 <!ENTITY calendar.print.to.label "Til:">
 <!ENTITY calendar.print.settingsGroup.label "Utskriftsoppsett">
 <!ENTITY calendar.print.optionsGroup.label "Innstillinger">
-<!ENTITY calendar.print.taskswithnoduedate.label "Oppgaver med ingen forfallsdato">
+<!ENTITY calendar.print.taskswithnoduedate.label "Oppgaver uten forfallsdato">
 <!ENTITY calendar.print.completedtasks.label "Fullførte oppgaver">
 
 <!-- Error reporting -->
