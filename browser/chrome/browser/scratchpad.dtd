@@ -19,8 +19,8 @@
 <!ENTITY newWindowCmd.accesskey       "N">
 <!ENTITY newWindowCmd.commandkey      "n">
 
-<!ENTITY openFileCmd.label            "Open File…">
-<!ENTITY openFileCmd.accesskey        "O">
+<!ENTITY openFileCmd.label            "Բացել ֆայլ…">
+<!ENTITY openFileCmd.accesskey        "Բ">
 <!ENTITY openFileCmd.commandkey       "o">
 
 <!ENTITY saveFileCmd.label            "Save">
@@ -80,7 +80,7 @@
   -  (browser).
   -->
 <!ENTITY environmentMenu.label        "Environment">
-<!ENTITY environmentMenu.accesskey    "N">
+<!ENTITY environmentMenu.accesskey    "n">
 
 
 <!ENTITY contentContext.label         "Content">
@@ -102,7 +102,7 @@
 <!ENTITY resetContext.accesskey       "R">
 
 <!ENTITY executeMenu.label            "Execute">
-<!ENTITY executeMenu.accesskey        "X">
+<!ENTITY executeMenu.accesskey        "x">
 
 <!ENTITY toolsMenu.label              "Tools">
 <!ENTITY toolsMenu.accesskey          "T">
