@@ -88,7 +88,7 @@
 <!ENTITY limitCacheSizeBefore.label      "Սահմանափակել քեշը">
 <!ENTITY limitCacheSizeBefore.accesskey  "Ս">
 <!ENTITY limitCacheSizeAfter.label       "Մբ տարածք">
-<!ENTITY clearCacheNow.label             "Մաքրել հԻմա">
+<!ENTITY clearCacheNow.label             "Մաքրել հիմա">
 <!ENTITY clearCacheNow.accesskey         "Մ">
 <!ENTITY overrideSmartCacheSize.label    "Override automatic cache management">
 <!ENTITY overrideSmartCacheSize.accesskey "O">

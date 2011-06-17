@@ -63,8 +63,8 @@
 <!ENTITY warning.updatesecurity.enable.tooltip     "Enable add-on update security checking">
 
 <!-- global informations -->
-<!ENTITY info.plugincheck.label                 "Check to see if your plugins are up to date">
-<!ENTITY info.plugincheck.tooltip               "Check to see if your plugins are up to date">
+<!ENTITY info.plugincheck.label                 "Ստուգեք,որպեսզի ճշտեք,որ ձեր պլագինները ժամկետի մեջ են:">
+<!ENTITY info.plugincheck.tooltip               "Ստուգեք,որպեսզի ճշտեք,որ ձեր պլագինները ժամկետի մեջ են:">
 
 <!-- categories / views -->
 <!ENTITY view.search.label                    "Որոնում">
@@ -156,7 +156,7 @@
 
 <!ENTITY detail.updateType                    "Ավտոմատ Թարմացումներ">
 <!ENTITY detail.updateDefault.label           "Հիմնական">
-<!ENTITY detail.updateDefault.tooltip         "Automatically install updates only if that's the default">
+<!ENTITY detail.updateDefault.tooltip         "Ավտոմատ տեղակայեք թարմացումները, միմիայն եթե դա պայմանականորեն է կատարվում:">
 <!ENTITY detail.updateAutomatic.label         "Միացված">
 <!ENTITY detail.updateAutomatic.tooltip       "Տեղակայեք թարմացումները ավտոմատ կերպով:">
 <!ENTITY detail.updateManual.label            "Անջատված">

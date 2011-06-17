@@ -120,7 +120,7 @@
 <!ENTITY cspFrameAncestorBlocked.longDesc "<p>Դիտարկիչը կանխել է այս էջի բացումը, քանզի էջը պարունակում է անվտանգության քաղաքականությունը մերժող բովանդակություն։</p>">
 
 <!ENTITY remoteXUL.title "Remote XUL">
-<!ENTITY remoteXUL.longDesc "<p><ul><li>Please contact the website owners to inform them of this problem.</li></ul></p>">
+<!ENTITY remoteXUL.longDesc "<p><ul><li>Խնդրում ենք, կապնվեք վեբ կայքի սեփականատերերի հետ` այս խնդրի մասին տեղեկացնելու համար:</li></ul></p>">
 
 <!-- Include app-specific error messages - do not change this in localization!
      Some applications might override netErrorApp.dtd with their specific version,
