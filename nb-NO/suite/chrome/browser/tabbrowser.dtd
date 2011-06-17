@@ -13,5 +13,6 @@
 <!ENTITY  bookmarkGroup.accesskey  "B">
 <!ENTITY  closeTabButton.tooltip   "Lukk denne fanen">
 <!ENTITY  newTabButton.tooltip   "Åpne en ny fane">
+<!ENTITY  listAllTabs.tooltip    "List alle faner">
 <!ENTITY  undoCloseTab.label    "Angre lukking av fane">
 <!ENTITY  undoCloseTab.accesskey  "U">

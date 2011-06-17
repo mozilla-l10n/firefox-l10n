@@ -8,14 +8,14 @@
 -->
 <!ENTITY imageDetails                   "Angi hvordan &brandShortName; håndterer bilder.">
 
-<!ENTITY accAllImagesRadio.label        "Aksepter alle bilder">
-<!ENTITY accAllImagesRadio.accesskey    "A">
-<!ENTITY accOrgImagesRadio.label        "Aksepter bare bilder som kommer fra opprinnelig tjener">
-<!ENTITY accOrgImagesRadio.accesskey    "r">
-<!ENTITY disableImages.label            "Ikke last noen bilder">
-<!ENTITY disableImages.accesskey        "I">
-<!ENTITY viewImages.label               "Behandle bildetillatelser">
-<!ENTITY viewImages.accesskey           "B">
+<!ENTITY loadAllImagesRadio.label       "Last alle bilder">
+<!ENTITY loadAllImagesRadio.accesskey   "L">
+<!ENTITY loadOrgImagesRadio.label       "Last bare bilder som kommer fra opprinnelig tjener">
+<!ENTITY loadOrgImagesRadio.accesskey   "r">
+<!ENTITY loadNoImagesRadio.label        "Ikke last noen bilder">
+<!ENTITY loadNoImagesRadio.accesskey    "I">
+<!ENTITY viewPermissions.label          "Behandle tillatelser">
+<!ENTITY viewPermissions.accesskey      "B">
 <!ENTITY animLoopingTitle.label         "Animerte bilder skal gå i løkke">
 <!ENTITY animLoopAsSpecified.label      "Så mange ganger som bildet angir">
 <!ENTITY animLoopAsSpecified.accesskey  "m">
