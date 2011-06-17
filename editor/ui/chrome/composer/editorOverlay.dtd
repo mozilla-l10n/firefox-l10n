@@ -25,7 +25,7 @@
    -   Ryan Cassin (rcassin@supernova.org)
    -   Daniel Glazman (glazman@netscape.com)
    -   Stephen Donner (technutz@netscape.net)
-   -   Giacomo Magnini <giacomo.magnini@mozillaitalia.org>
+   -   
    -
    - Alternatively, the contents of this file may be used under the terms of
    - either of the GNU General Public License Version 2 or later (the "GPL"),
@@ -99,12 +99,12 @@
 <!ENTITY enableInlineSpellChecker.label "Controllo ortografico durante la digitazione">
 <!ENTITY enableInlineSpellChecker.accesskey "z">
 <!ENTITY checkSpellingCmd2.label "Controlla ortografia">
-<!ENTITY checkSpellingCmd2.accesskey "o">
+<!ENTITY checkSpellingCmd2.accesskey "C">
 <!ENTITY checkSpellingCmd2.key "p">
 <!ENTITY insertMenu.label "Inserisci">
 <!ENTITY insertMenu.accesskey "I">
 <!ENTITY insertLinkCmd.label "Collegamento…">
-<!ENTITY insertLinkCmd.accesskey "m">
+<!ENTITY insertLinkCmd.accesskey "C">
 <!ENTITY insertLinkCmd.key "L">
 <!ENTITY insertAnchorCmd.label "Ancora…">
 <!ENTITY insertAnchorCmd.accesskey "A">
@@ -151,7 +151,7 @@
 <!ENTITY fontVarWidth.label "Larghezza variabile">
 <!ENTITY fontVarWidth.accesskey "v">
 <!ENTITY fontFixedWidth.label "Larghezza fissa">
-<!ENTITY fontFixedWidth.accesskey "z">
+<!ENTITY fontFixedWidth.accesskey "L">
 <!ENTITY fontFixedWidth.key "T">
 <!ENTITY fontHelvetica.label "Helvetica, Arial">
 <!ENTITY fontHelvetica.accesskey "H">
@@ -265,7 +265,7 @@
 <!ENTITY bodyTextCmd.label "Corpo del testo">
 <!ENTITY bodyTextCmd.accesskey "C">
 <!ENTITY advancedPropertiesCmd.label "Proprietà avanzate">
-<!ENTITY advancedPropertiesCmd.accesskey "v">
+<!ENTITY advancedPropertiesCmd.accesskey "P">
 <!ENTITY alignMenu.label "Allinea">
 <!ENTITY alignMenu.accesskey "A">
 <!ENTITY alignLeft.label "Sinistra">
@@ -332,8 +332,8 @@
 <!ENTITY tableCellAfter.accesskey "u">
 <!ENTITY tableDeleteMenu.label "Elimina">
 <!ENTITY tableDeleteMenu.accesskey "E">
-<!ENTITY tableJoinCells.label "j">
-<!ENTITY tableJoinCells.accesskey "j">
+<!ENTITY tableJoinCells.label "U">
+<!ENTITY tableJoinCells.accesskey "U">
 <!ENTITY tableSplitCell.label "Dividi cella">
 <!ENTITY tableSplitCell.accesskey "D">
 <!ENTITY convertToTable.label "Crea tabella da selezione">
@@ -342,7 +342,7 @@
 <!ENTITY tableProperties.accesskey "P">
 <!ENTITY menuBar.tooltip "Barra del menu">
 <!ENTITY formatToolbar.tooltip "Barra di formattazione">
-<!ENTITY newToolbarCmd.label "New">
+<!ENTITY newToolbarCmd.label "Nuovo">
 <!ENTITY newToolbarCmd.tooltip "Crea una nuova pagina con Composer">
 <!ENTITY openToolbarCmd.label "Apri">
 <!ENTITY openToolbarCmd.tooltip "Carica una pagina locale">

@@ -6,7 +6,6 @@
 <!ENTITY editBookmarkOverlay.feedLocation.accesskey "r">
 <!ENTITY editBookmarkOverlay.siteLocation.label "Indirizzo:">
 <!ENTITY editBookmarkOverlay.siteLocation.accesskey "I">
-<!ENTITY editBookmarkOverlay.liveTitlesSeparator.label "Titoli live">
 <!ENTITY editBookmarkOverlay.folder.label "Cartella:">
 <!ENTITY editBookmarkOverlay.foldersExpanderDown.tooltip "Mostra tutte le cartelle di segnalibri">
 <!ENTITY editBookmarkOverlay.expanderUp.tooltip "Nascondi">

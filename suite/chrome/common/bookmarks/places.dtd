@@ -56,8 +56,6 @@
 <!ENTITY cmd.new_separator.accesskey "s">
 <!ENTITY cmd.reloadLivebookmark.label "Ricarica segnalibro live">
 <!ENTITY cmd.reloadLivebookmark.accesskey "b">
-<!ENTITY cmd.reloadMicrosummary.label "Ricarica titolo live">
-<!ENTITY cmd.reloadMicrosummary.accesskey "t">
 <!ENTITY cmd.moveBookmarks.label "Sposta…">
 <!ENTITY cmd.moveBookmarks.accesskey "o">
 <!ENTITY col.title.label "Nome">
@@ -83,8 +81,8 @@
 <!ENTITY forwardButton.tooltip "Vai avanti">
 <!ENTITY detailsPane.more.label "Più dati">
 <!ENTITY detailsPane.more.accesskey "d">
-<!ENTITY detailsPane.fewer.label "Fewer">
-<!ENTITY detailsPane.fewer.accesskey "r">
+<!ENTITY detailsPane.fewer.label "Meno">
+<!ENTITY detailsPane.fewer.accesskey "o">
 <!ENTITY detailsPane.selectAnItemText.description "Scegli un elemento per visualizzare e modificare le sue proprietà">
 <!ENTITY editBookmark.done.label "Completato">
 <!ENTITY editBookmark.cancel.label "Annulla">
