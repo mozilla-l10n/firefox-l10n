@@ -69,11 +69,3 @@
 
 <!ENTITY title.label              "Tittel">
 <!ENTITY processing.label         "Importerer …">
-
-<!ENTITY FieldDiscInputText1.label  "Netscape Communicator 4.x har en postadresse for hvert kort, mens &brandShortName; har to (hjem og adresse)">
-<!ENTITY FieldDiscInputText2.label  "Velg kategorien som du vil lagre de importerte e-postadressene i:">
-<!ENTITY FieldDiscWarning.label  "Denne kategorien vil bli brukt for alle elementene i den valgte adresseboka:">
-<!ENTITY importHome.label        "Hjem">
-<!ENTITY importHome.accesskey    "H">
-<!ENTITY importWork.label        "Arbeid">
-<!ENTITY importWork.accesskey    "A">

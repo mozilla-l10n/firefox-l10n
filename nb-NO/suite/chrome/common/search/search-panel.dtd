@@ -38,3 +38,4 @@
 <!ENTITY search.button.label      "Søk">
 <!ENTITY search.placeholder       "Skriv inn søketekst">
 
+<!ENTITY search.engineManager.label "Behandle søkemotorer …">

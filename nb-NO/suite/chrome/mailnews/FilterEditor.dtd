@@ -53,7 +53,7 @@
  ***** END LICENSE BLOCK ***** -->
 
 <!ENTITY window.title "Filterregler">
-
+<!ENTITY filterEditorDialog.dimensions "width: 105ch;">
 <!ENTITY filterName.label "Filternavn:">
 <!ENTITY filterName.accesskey "F">
 
@@ -84,7 +84,6 @@
 <!ENTITY replyWithTemplate.label "Svar med mal">
 <!ENTITY markMessageRead.label "Marker som lest">
 <!ENTITY markMessageStarred.label "Merk med flagg">
-<!ENTITY labelMessage.label "Label Message As">
 <!ENTITY setPriority.label "Sett prioritet til">
 <!ENTITY addTag.label "Tilordne etikett">
 <!ENTITY setJunkScore.label "Sett uønsket-status til">

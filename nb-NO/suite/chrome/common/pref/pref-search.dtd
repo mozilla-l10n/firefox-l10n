@@ -7,9 +7,13 @@
 <!ENTITY defaultSearchEngine.label        "Søk med">
 <!ENTITY defaultSearchEngine.accesskey    "S">
 
+<!ENTITY engineManager.label              "Behandle søkemotorer …">
+
 <!ENTITY searchResults.label              "Søkeresultater">
 
 <!ENTITY openInTab.label                  "Åpne en ny fane for søkeresultater i sidestolpen">
 <!ENTITY openInTab.accesskey              "Å">
+<!ENTITY openContextSearchTab.label       "Åpne en fane istedenfor et vindu for kontekstmenysøk">
+<!ENTITY openContextSearchTab.accesskey   "t">
 <!ENTITY openSidebarSearchPanel.label     "Åpne søkefanen i sidestolpen når et søk gjøres">
 <!ENTITY openSidebarSearchPanel.accesskey "n">

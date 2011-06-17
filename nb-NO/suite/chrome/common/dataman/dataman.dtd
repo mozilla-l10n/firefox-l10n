@@ -39,6 +39,12 @@
 
 <!ENTITY selectAll.key "a">
 
+<!ENTITY select.all.label "Alle datatyper">
+<!ENTITY select.cookies.label "Bare infokapsler">
+<!ENTITY select.permissions.label "Bare tillatelser">
+<!ENTITY select.preferences.label "Bare innstillinger">
+<!ENTITY select.passwords.label "Bare passord">
+
 <!ENTITY domain.search.placeholder "Søk i domener">
 <!ENTITY domain.search.key "S">
 
@@ -93,6 +99,10 @@
 <!ENTITY perm.Allow "Tillat">
 <!ENTITY perm.AllowSession "Tillat for programøkten">
 <!ENTITY perm.Block "Blokker">
+
+<!ENTITY perm.host.placeholder "Skriv inn et tjenernavn">
+<!ENTITY perm.button.add.label "Legg til">
+<!ENTITY perm.button.add.accesskey "L">
 
 <!-- preferences -->
 <!ENTITY prefs.description "Innholdsinnstillinger er en måte som &brandShortName; bruker for å lagre innstillinger som skriftstørrelse, spesifikt for et nettsted.">

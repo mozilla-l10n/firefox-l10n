@@ -27,7 +27,6 @@
 <!ENTITY printSetupCmd.label            "Utskriftsformat …">
 <!ENTITY printSetupCmd.accesskey        "k">
 
-<!ENTITY redoCmd.label                  "Gjenta">  
 <!ENTITY redoCmd.key                    "Z">  
 
 <!ENTITY historyCmd.key                 "H">  

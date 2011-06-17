@@ -23,3 +23,4 @@
 <!ENTITY editBookmarkOverlay.choose.label                    "Velg …">
 <!ENTITY editBookmarkOverlay.newFolderButton.label           "Ny mappe">
 <!ENTITY editBookmarkOverlay.newFolderButton.accesskey       "N">
+<!ENTITY editBookmarkOverlay.newFolderButton.tooltip         "Lag ny mappe">
