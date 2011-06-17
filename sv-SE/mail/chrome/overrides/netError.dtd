@@ -53,9 +53,9 @@
 <!ENTITY netInterrupt.longDesc "&sharedLongDesc;">
 
 <!ENTITY netOffline.title "Nedkopplat läge">
-<!ENTITY netOffline.longDesc "
+<!ENTITY netOffline.longDesc2 "
 <ul>
-  <li>Placera &brandShortName; i nedkopplat läge och försök igen.</li>
+  <li>Klicka på &#8221;Försök igen&#8221; för att koppla upp och hämta om sidan.</li>
 </ul>
 ">
 
@@ -164,6 +164,9 @@
 
 <!ENTITY cspFrameAncestorBlocked.title "Blockerad av säkerhetspolicyn för innehåll">
 <!ENTITY cspFrameAncestorBlocked.longDesc "<p>&brandShortName; förhindrade sidan från att öppnas på detta sätt eftersom sidan har en säkerhetspolicy för innehåll som inte tillåter detta.</p>">
+
+<!ENTITY corruptedContentError.title "Skadat innehåll">
+<!ENTITY corruptedContentError.longDesc "<p>Innehållet du försöker se kan inte visas på grund av att ett fel i dataöverföringen upptäcktes.</p><ul><li>Kontakta ägarna för att informera dem om detta problem.</li></ul>">
 
 <!ENTITY securityOverride.linkText "Eller så kan du lägga till ett undantag…">
 <!ENTITY securityOverride.getMeOutOfHereButton "Ta mig härifrån!">
