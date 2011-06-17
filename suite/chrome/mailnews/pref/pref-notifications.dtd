@@ -46,8 +46,8 @@
 <!ENTITY showTrayIcon.accesskey           "s">
 <!ENTITY bounceSystemDockIcon.label       "Animer startlinje-ikonet">
 <!ENTITY bounceSystemDockIcon.accesskey   "A">
-<!ENTITY preview.label                    "Avspill">
-<!ENTITY preview.accesskey                "A">
+<!ENTITY playButton.label                 "Spill av">
+<!ENTITY playButton.accesskey             "S">
 <!ENTITY systemsound.label                "Systemets e-postlyd">
 <!ENTITY systemsound.accesskey            "M">
 <!ENTITY customsound.label                "Egen WAV-fil">

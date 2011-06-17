@@ -39,6 +39,12 @@
 
 <!ENTITY selectAll.key "a">
 
+<!ENTITY select.all.label "Alle datatyper">
+<!ENTITY select.cookies.label "Bare infokapsler">
+<!ENTITY select.permissions.label "Bare tillatelser">
+<!ENTITY select.preferences.label "Bare innstillinger">
+<!ENTITY select.passwords.label "Bare passord">
+
 <!ENTITY domain.search.placeholder "Søk i domener">
 <!ENTITY domain.search.key "S">
 

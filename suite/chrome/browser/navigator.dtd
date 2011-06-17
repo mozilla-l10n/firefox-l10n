@@ -106,7 +106,7 @@
 <!ENTITY goHomeCmd.label "Hjem">
 <!ENTITY goHomeCmd.accesskey "H">
 <!ENTITY historyRestoreLastSession.label "Gjenopprett forrige programøkt">
-<!ENTITY historyRestoreLastSessionCmd.accesskey "G">
+<!ENTITY historyRestoreLastSession.accesskey "G">
 
 <!ENTITY bookmarksMenu.label "Bokmerker">
 <!ENTITY bookmarksMenu.accesskey "B">
