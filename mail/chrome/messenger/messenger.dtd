@@ -9,9 +9,6 @@
 <!ENTITY closeTabCmd2.accesskey "D">
 <!ENTITY closeOtherTabsCmd2.label "Dún Cluaisíní Eile">
 <!ENTITY closeOtherTabsCmd2.accesskey "E">
-<!-- LOCALIZATION NOTE (undoCloseTabCmd.label):
-     Menu option to attempt to re-open a recently closed tab.
-     -->
 <!ENTITY recentlyClosedTabsCmd.label "Cluaisíní a Dúnadh le Déanaí">
 <!ENTITY recentlyClosedTabsCmd.accesskey "D">
 
