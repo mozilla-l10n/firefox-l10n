@@ -7,10 +7,13 @@
 <!ENTITY defaultSearchEngine.label "Utilitzant:">
 <!ENTITY defaultSearchEngine.accesskey "u">
 
+<!ENTITY engineManager.label              "Gestiona els motors de cerca…">
+
 <!ENTITY  openSidebarSearchPanel.label    "Obre la pestanya de cerca de la barra lateral quan els resultats estiguin disponibles">
+<!ENTITY openContextSearchTab.label       "Obre una pestanya en comptes d'una finestra per a les cerques web des del menú contextual">
+<!ENTITY openContextSearchTab.accesskey   "t">
 <!ENTITY openSidebarSearchPanel.accesskey "O">
 <!ENTITY searchResults.label "Resultats de la cerca">
 
 <!ENTITY openInTab.label                  "Obre noves pestanyes per als resultats de la barra lateral de cerca">
 <!ENTITY openInTab.accesskey              "n">
-

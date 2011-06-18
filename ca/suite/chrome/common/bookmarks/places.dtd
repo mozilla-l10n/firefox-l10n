@@ -94,8 +94,8 @@
 
 <!ENTITY detailsPane.more.label         "Més">
 <!ENTITY detailsPane.more.accesskey "M">
-<!ENTITY detailsPane.less.label         "Menys">
-<!ENTITY detailsPane.less.accesskey "y">
+<!ENTITY detailsPane.fewer.label         "Menys">
+<!ENTITY detailsPane.fewer.accesskey "y">
 <!ENTITY detailsPane.selectAnItemText.description         "Seleccioneu un element per a visualitzar-ne i editar-ne les propietats">
 
 <!ENTITY editBookmark.done.label "Fet">
