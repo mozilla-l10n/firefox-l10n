@@ -20,9 +20,13 @@
 <!ENTITY pluginWizard.finalPage.moreInfo.label               "Hangi rohkem teavet pluginate kohta või otsi puuduvaid pluginaid ise.">
 <!ENTITY pluginWizard.finalPage.restart.label                "&brandShortName; tuleb pluginate töölehakkamiseks taaskäivitada.">
 
-<!ENTITY missingPlugin.label                                 "Plugina tõmbamiseks klõpsa siia.">
-<!ENTITY disabledPlugin.label                                "Plugin seda tüüpi sisu jaoks on keelatud. Klõpsa siia, et hallata oma pluginaid.">
+<!ENTITY missingPlugin                                       "Antud sisu kuvamiseks on vaja pluginat.">
+<!ENTITY disabledPlugin                                      "See plugin on keelatud.">
 <!ENTITY blockedPlugin.label                                 "See plugin on sinu kaitseks blokeeritud.">
+
+<!ENTITY installPlugin                                       "Paigalda plugin…">
+<!ENTITY managePlugins                                       "Halda pluginaid…">
+
 <!-- LOCALIZATION NOTE (reloadPlugin.pre): include a trailing space as needed -->
 <!-- LOCALIZATION NOTE (reloadPlugin.middle): avoid leading/trailing spaces, this text is a link -->
 <!-- LOCALIZATION NOTE (reloadPlugin.post): include a starting space as needed -->

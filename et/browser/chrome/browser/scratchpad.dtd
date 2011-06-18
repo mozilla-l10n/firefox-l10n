@@ -1,0 +1,123 @@
+<!-- LOCALIZATION NOTE : FILE This file contains the Scratchpad window strings -->
+<!-- LOCALIZATION NOTE : FILE Do not translate commandkeys -->
+
+<!-- LOCALIZATION NOTE (scratchpad.title):
+  -  The Scratchpad is intended to provide a simple text editor for creating
+  -  and evaluating bits of JavaScript code for the purposes of function
+  -  prototyping, experimentation and convenient scripting.
+  -
+  -  It's quite possible that you won't have a good analogue for the word
+  -  "Scratchpad" in your locale. You should feel free to find a close
+  -  approximation to it or choose a word (or words) that means
+  -  "simple discardable text editor". -->
+<!ENTITY window.title                 "Töötuba">
+
+<!ENTITY fileMenu.label               "Fail">
+<!ENTITY fileMenu.accesskey           "F">
+
+<!ENTITY newWindowCmd.label           "Uus aken">
+<!ENTITY newWindowCmd.accesskey       "U">
+<!ENTITY newWindowCmd.commandkey      "n">
+
+<!ENTITY openFileCmd.label            "Ava fail…">
+<!ENTITY openFileCmd.accesskey        "A">
+<!ENTITY openFileCmd.commandkey       "o">
+
+<!ENTITY saveFileCmd.label            "Salvesta">
+<!ENTITY saveFileCmd.accesskey        "S">
+<!ENTITY saveFileCmd.commandkey       "s">
+
+<!ENTITY saveFileAsCmd.label          "Salvesta kui…">
+<!ENTITY saveFileAsCmd.accesskey      "l">
+
+<!ENTITY closeCmd.label               "Sulge">
+<!ENTITY closeCmd.key                 "S">
+<!ENTITY closeCmd.accesskey           "u">
+
+<!ENTITY editMenu.label               "Redigeerimine">
+<!ENTITY editMenu.accesskey           "R">
+
+<!ENTITY undoCmd.label                "Võta tagasi">
+<!ENTITY undoCmd.key                  "Z">
+<!ENTITY undoCmd.accesskey            "V">
+
+<!ENTITY redoCmd.label                "Tee uuesti">
+<!ENTITY redoCmd.key                  "Y">
+<!ENTITY redoCmd.accesskey            "T">
+
+<!ENTITY cutCmd.label                 "Lõika">
+<!ENTITY cutCmd.key                   "X">
+<!ENTITY cutCmd.accesskey             "L">
+
+<!ENTITY copyCmd.label                "Kopeeri">
+<!ENTITY copyCmd.key                  "C">
+<!ENTITY copyCmd.accesskey            "K">
+
+<!ENTITY pasteCmd.label               "Aseta">
+<!ENTITY pasteCmd.key                 "V">
+<!ENTITY pasteCmd.accesskey           "A">
+
+<!ENTITY selectAllCmd.label           "Vali kõik">
+<!ENTITY selectAllCmd.key             "A">
+<!ENTITY selectAllCmd.accesskey       "V">
+
+<!ENTITY run.label                    "Käivita">
+<!ENTITY run.accesskey                "K">
+<!ENTITY run.key                      "r">
+
+<!ENTITY inspect.label                "Inspekteeri">
+<!ENTITY inspect.accesskey            "I">
+<!ENTITY inspect.key                  "i">
+
+<!ENTITY display.label                "Kuva">
+<!ENTITY display.accesskey            "u">
+<!ENTITY display.key                  "l">
+
+<!-- LOCALIZATION NOTE (environmentMenu.label, accesskey): This menu item was
+  -  renamed from "Context" to avoid confusion with the right-click context
+  -  menu in the text area. It refers to the JavaScript Environment (or context)
+  -  the user is evaluating against. I.e., Content (current tab) or Chrome
+  -  (browser).
+  -->
+<!ENTITY environmentMenu.label        "Keskkond">
+<!ENTITY environmentMenu.accesskey    "K">
+
+
+<!ENTITY contentContext.label         "Sisu">
+<!ENTITY contentContext.accesskey     "S">
+
+<!-- LOCALIZATION NOTE (browserContext.label, accesskey): This menu item is used
+  -  to select an execution environment for the browser window itself as opposed
+  -  to content. This is a feature for browser and addon developers and only
+  -  enabled via the devtools.chrome.enabled preference. Formerly, this label
+  -  was called "Chrome".
+  -->
+<!ENTITY browserContext.label         "Brauser">
+<!ENTITY browserContext.accesskey     "B">
+
+<!-- LOCALIZATION NOTE (resetContext.label): This command allows the developer
+  -  to reset/clear the global object of the environment where the code executes.
+  -->
+<!ENTITY resetContext.label           "Lähtesta">
+<!ENTITY resetContext.accesskey       "L">
+
+<!ENTITY executeMenu.label            "Käivitamine">
+<!ENTITY executeMenu.accesskey        "K">
+
+<!ENTITY toolsMenu.label              "Tööriistad">
+<!ENTITY toolsMenu.accesskey          "T">
+
+<!ENTITY errorConsoleCmd.label        "Vigade konsool">
+<!ENTITY errorConsoleCmd.accesskey    "i">
+<!ENTITY errorConsoleCmd.commandkey   "j">
+
+<!ENTITY webConsoleCmd.label          "Veebiarendajate konsool">
+<!ENTITY webConsoleCmd.accesskey      "b">
+<!ENTITY webConsoleCmd.commandkey     "k">
+
+<!-- LOCALIZATION NOTE (textbox.placeholder1): This is some placeholder text
+  -  that appears when the Scratchpad's text area is empty and unfocused.
+  -  It should be a one-line JavaScript comment, i.e., preceded by '//'
+  -->
+<!ENTITY textbox.placeholder1         "// Sisesta JavaScripti, vali see, paremklõps ja klõpsa kas Käivita, Inspekteeri või Kuva.">
+

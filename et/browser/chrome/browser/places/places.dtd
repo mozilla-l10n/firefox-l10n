@@ -6,12 +6,9 @@
 <!ENTITY organize.accesskey                       "R">
 <!ENTITY organize.tooltip                         "Redigeeri oma järjehoidjaid">
 
-<!ENTITY file.accesskey                           "F">
 <!ENTITY file.close.label                         "Sulge">
 <!ENTITY file.close.accesskey                     "S">
 <!ENTITY cmd.close.key                            "W">
-<!ENTITY edit.label                               "Redigeerimine">
-<!ENTITY edit.accesskey                           "R">
 <!ENTITY views.label                              "Vaade">
 <!ENTITY views.accesskey                          "V">
 <!ENTITY views.tooltip                            "Muuda oma vaadet">
@@ -76,8 +73,6 @@
 
 <!ENTITY cmd.reloadLivebookmark.label             "Laadi uuenev järjehoidja uuesti">
 <!ENTITY cmd.reloadLivebookmark.accesskey         "L">
-<!ENTITY cmd.reloadMicrosummary.label             "Laadi uuenev pealkiri uuesti">
-<!ENTITY cmd.reloadMicrosummary.accesskey         "p">
 
 <!ENTITY cmd.moveBookmarks.label                  "Liiguta…">
 <!ENTITY cmd.moveBookmarks.accesskey              "L">
@@ -113,17 +108,14 @@
 <!ENTITY maintenance.accesskey                    "I">
 <!ENTITY maintenance.tooltip                      "Impordi ja varunda oma järjehoidjaid">
 
-<!ENTITY backCmd.label                            "Tagasi">
 <!ENTITY backButton.tooltip                       "Mine tagasi">
 
-<!ENTITY forwardCmd.label                         "Edasi">
 <!ENTITY forwardButton.tooltip                    "Mine edasi">
 
 <!ENTITY detailsPane.more.label                   "Rohkem">
 <!ENTITY detailsPane.more.accesskey               "o">
 <!ENTITY detailsPane.less.label                   "Vähem">
 <!ENTITY detailsPane.less.accesskey               "e">
-<!ENTITY detailsPane.noPreviewAvailable.label     "Eelvaade">
 <!ENTITY detailsPane.selectAnItemText.description "Vali element, et vaadata ja muuta selle omadusi">
 
 <!ENTITY find.label                               "Otsi:">
