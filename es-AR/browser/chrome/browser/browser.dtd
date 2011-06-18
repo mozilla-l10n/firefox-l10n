@@ -104,7 +104,7 @@ can reach it easily. -->
 <!ENTITY subscribeToPageMenuitem.label "Suscribirse a esta página…">
 <!ENTITY addCurPagesCmd.label "Marcar todas las pestañas…">
 <!ENTITY showAllBookmarks2.label "Mostrar todos los marcadores">
-<!ENTITY unsortedBookmarksCmd.label "Marcadores desordenados">
+<!ENTITY unsortedBookmarksCmd.label "Marcadores sin ordenar">
 <!ENTITY bookmarksToolbarChevron.tooltip "Mostrar más marcadores">
 
 <!ENTITY backCmd.label "Atrás">
@@ -148,7 +148,7 @@ can reach it easily. -->
 
 <!ENTITY bookmarksMenuButton.label          "Marcadores">
 <!ENTITY bookmarksMenuButton.tooltip        "Mostrar sus marcadores">
-<!ENTITY bookmarksMenuButton.unsorted.label "Marcadores desordenados">
+<!ENTITY bookmarksMenuButton.unsorted.label "Marcadores sin ordenar">
 <!ENTITY viewBookmarksSidebar.label         "Mostrar en barra lateral">
 <!ENTITY viewBookmarksToolbar.label         "Ver barra de marcadores">
 
