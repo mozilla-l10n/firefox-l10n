@@ -1,6 +1,6 @@
-<!ENTITY  engineManager.title       "Gestió de la llista de motors de cerca">
-<!ENTITY  engineManager.style       "min-width: 35em;">
-<!ENTITY  engineManager.intro       "Teniu el següents motors de cerca instaŀlats:">
+<!ENTITY  engineManager.title       "Gestiona la llista de motors de cerca">
+<!ENTITY  engineManager.style       "min-width: 38em;">
+<!ENTITY  engineManager.intro       "Teniu els següents motors de cerca instal·lats:">
 
 <!ENTITY  columnLabel.name          "Nom">
 <!ENTITY  columnLabel.keyword       "Paraula clau">

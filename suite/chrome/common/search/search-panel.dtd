@@ -22,3 +22,4 @@
 <!ENTITY search.button.label "Cerca">
 <!ENTITY search.placeholder       "Introduïu el text de la cerca">
 
+<!ENTITY search.engineManager.label "Gestiona els motors de cerca…">
