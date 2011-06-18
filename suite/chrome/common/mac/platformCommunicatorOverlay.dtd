@@ -27,7 +27,6 @@
 <!ENTITY printSetupCmd.label            "Sivun asetukset…">
 <!ENTITY printSetupCmd.accesskey        "e">
 
-<!ENTITY redoCmd.label                  "Tee uudelleen">  
 <!ENTITY redoCmd.key                    "Z">  
 
 <!ENTITY historyCmd.key                 "H">  
