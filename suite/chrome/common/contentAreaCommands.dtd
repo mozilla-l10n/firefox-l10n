@@ -76,10 +76,6 @@
 <!ENTITY saveVideoCmd.accesskey       "v">
 <!ENTITY saveAudioCmd.label           "名前を付けてオーディオを保存...">
 <!ENTITY saveAudioCmd.accesskey       "v">
-<!ENTITY copyCmd.label                "コピー">
-<!ENTITY copyCmd.accesskey            "C">
-<!ENTITY selectAllCmd.label           "すべて選択">
-<!ENTITY selectAllCmd.accesskey       "A">
 <!ENTITY copyLinkCmd.label            "リンクの URL をコピー">
 <!ENTITY copyLinkCmd.accesskey        "L">
 <!ENTITY copyImageCmd.label           "画像をコピー">
@@ -92,16 +88,6 @@
 <!ENTITY metadataCmd.accesskey        "P">
 <!ENTITY copyEmailCmd.label           "メールアドレスをコピー">
 <!ENTITY copyEmailCmd.accesskey       "s">
-<!ENTITY pasteCmd.label               "貼り付け">
-<!ENTITY pasteCmd.accesskey           "P">
-<!ENTITY cutCmd.label                 "切り取り">
-<!ENTITY cutCmd.accesskey             "t">
-<!ENTITY deleteCmd.label              "削除">
-<!ENTITY deleteCmd.accesskey          "D">
-<!ENTITY undoCmd.label                "元に戻す">
-<!ENTITY undoCmd.accesskey            "U">
-<!ENTITY redoCmd.label                "やり直し">
-<!ENTITY redoCmd.accesskey            "R">
 <!ENTITY thisFrameMenu.label          "このフレーム">
 <!ENTITY thisFrameMenu.accesskey      "h">
 <!ENTITY mediaPlay.label              "再生">
