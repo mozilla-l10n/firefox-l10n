@@ -37,7 +37,7 @@
 # ***** END LICENSE BLOCK *****
 -->
 
-<!ENTITY pageInfoWindow.width                          "630">
+<!ENTITY pageInfoWindow.width                          "670">
 <!ENTITY pageInfoWindow.height                         "500">
 
 <!ENTITY copy.key                                      "C">

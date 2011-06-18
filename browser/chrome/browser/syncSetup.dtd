@@ -43,7 +43,7 @@
 <!ENTITY setup.newSyncKeyPage.description.label "Privaatsuse tagamiseks krüptitakse kõik andmed enne üleslaadimist. Võtit, mis on vajalik andmete dekrüptimiseks, üles ei laadita.">
 <!ENTITY syncKeyEntry.label                 "Synci võti">
 <!ENTITY syncKeyEntry.accesskey             "S">
-<!ENTITY syncKeyGenerate.label              "Genereeri">
+<!ENTITY syncGenerateNewKey.label           "Genereeri uus võti">
 <!ENTITY syncKeyBackup.description          "Synci võti on vajalik &syncBrand.fullName.label;i kasutamisel teistes arvutites. Palun tee varukoopia. Me ei saa sind Synci võtme taastamisel aidata.">
 
 <!ENTITY button.syncKeyBackup.print.label   "Prindi…">

@@ -6,7 +6,6 @@
 <!ENTITY editBookmarkOverlay.feedLocation.accesskey      "U">
 <!ENTITY editBookmarkOverlay.siteLocation.label          "Veebilehe asukoht:">
 <!ENTITY editBookmarkOverlay.siteLocation.accesskey      "V">
-<!ENTITY editBookmarkOverlay.liveTitlesSeparator.label   "Uuenevad pealkirjad">
 <!ENTITY editBookmarkOverlay.folder.label                "Kaust:">
 <!ENTITY editBookmarkOverlay.foldersExpanderDown.tooltip "Näita kõiki järjehoidjate kaustu">
 <!ENTITY editBookmarkOverlay.expanderUp.tooltip          "Peida">
