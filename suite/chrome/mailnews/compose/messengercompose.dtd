@@ -146,24 +146,14 @@
 <!ENTITY spellCheckIgnoreWord.accesskey "I">
 <!ENTITY spellCheckAddToDictionary.label "Afegeix al diccionari">
 <!ENTITY spellCheckAddToDictionary.accesskey "n">
-<!ENTITY undo.label "Desfés">
-<!ENTITY undo.accesskey "D">
-<!ENTITY cut.label "Retalla">
-<!ENTITY cut.accesskey "t">
-<!ENTITY copy.label "Copia">
-<!ENTITY copy.accesskey "C">
-<!ENTITY paste.label "Enganxa">
-<!ENTITY paste.accesskey "x">
 <!ENTITY pasteQuote.label "Enganxa com a cita">
 <!ENTITY pasteQuote.accesskey "i">
 <!ENTITY openAttachment.label "Obre">
 <!ENTITY openAttachment.accesskey "O">
-<!ENTITY delete.label "Suprimeix">
-<!ENTITY delete.accesskey "S">
 <!ENTITY renameAttachment.label "Reanomena…">
 <!ENTITY renameAttachment.accesskey "R">
-<!ENTITY selectAll.label "Selecciona-ho tot">
-<!ENTITY selectAll.accesskey "a">
+<!ENTITY deleteAttachment.accesskey "u">
+<!ENTITY selectAllAttachments.accesskey "A">
 <!ENTITY attachFile.label "Adjunta un fitxer(s)...">
 <!ENTITY attachFile.accesskey "f">
 <!ENTITY attachPage.label "Adjunta una pàgina web...">

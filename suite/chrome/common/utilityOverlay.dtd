@@ -39,11 +39,21 @@
 <!ENTITY pasteGoCmd.label                                       "Enganxa-ho i vés-hi">
 <!ENTITY pasteGoCmd.accesskey                           "G">
 <!ENTITY pasteCmd.accesskey "x">
+
+<!-- LOCALIZATION NOTE (pasteSearchCmd): "Search" is a verb, this is the
+     search bar equivalent to the url bar's "Paste & Go"  -->
+<!ENTITY pasteSearchCmd.label             "Enganxa-ho i cerca-ho">
+<!ENTITY pasteSearchCmd.accesskey         "e">
+
 <!ENTITY deleteCmd.label "Suprimeix">
 <!ENTITY deleteCmd.accesskey "u">
 <!ENTITY selectAllCmd.label "Selecciona-ho tot">
 <!ENTITY selectAllCmd.key "A">
 <!ENTITY selectAllCmd.accesskey "a">
+<!ENTITY clearHistoryCmd.label                          "Neteja l'historial de cerca">  
+<!ENTITY clearHistoryCmd.accesskey                      "h"> 
+<!ENTITY showSuggestionsCmd.label                       "Mostra suggeriments">  
+<!ENTITY showSuggestionsCmd.accesskey           "s"> 
 <!ENTITY preferencesCmd.label "Preferències…">
 <!ENTITY preferencesCmd.key "E">
 <!ENTITY preferencesCmd.accesskey "e">
@@ -66,6 +76,8 @@
 <!ENTITY helpTroubleshootingInfo.accesskey  "r">
 <!ENTITY releaseCmd.label "Notes de la versió">
 <!ENTITY releaseCmd.accesskey "v">
+<!ENTITY helpSafeMode.label                 "Reinicia amb els complements inhabilitats">
+<!ENTITY helpSafeMode.accesskey             "R">
 <!ENTITY updateCmd.label                        "Comprova si hi ha actualitzacions…">
 <!ENTITY updateCmd.accesskey                    "C">
 <!ENTITY aboutCmd.label "Quant al &brandShortName;">

@@ -1,32 +1,32 @@
 <!--LOCALIZATION NOTE : FILE UI for Software Updates prefs -->
-<!ENTITY pref.smartUpdate.title               "Instaŀlació de programari">
-<!ENTITY smartTitle.label "Gestiona les instaŀlacions i actualitzacions de programari">
-<!ENTITY enableSU.label                       "Permet als llocs web instaŀlar extensions i actualitzacions">
-<!ENTITY enableSU.accesskey                   "e">
-<!ENTITY viewPermissions.label                "Gestiona els permisos">
-<!ENTITY viewPermissions.accesskey            "p">
-
-<!ENTITY verifyUpdates.caption                "Actualitzacions">
-<!ENTITY autoUpdates.label                    "Comprova automàticament si hi ha actualitzacions del:">
-<!ENTITY appUpdates.label                     "&brandShortName;">
-<!ENTITY appUpdates.accesskey                 "S">
+<!ENTITY pref.smartUpdate.title               "Instal·lació de programari">
+<!ENTITY addOnsTitle.label                    "Complements">
+<!ENTITY addOnsAllow.label                    "Permet als llocs web baixar i instal·lar les actualitzacions">
+<!ENTITY addOnsAllow.accesskey                "b">
+<!ENTITY allowedSitesLink.label               "Llocs web permesos">
+<!ENTITY autoAddOnsUpdates.label              "Comprova automàticament si hi ha actualitzacions">
+<!ENTITY autoAddOnsUpdates.accesskey          "o">
 <!ENTITY daily.label                          "diàriament">
+<!ENTITY addOnsDaily.accesskey                "d">
 <!ENTITY appDaily.accesskey                   "d">
 <!ENTITY weekly.label                         "setmanalment">
+<!ENTITY addOnsWeekly.accesskey               "t">
 <!ENTITY appWeekly.accesskey                  "t">
-<!ENTITY extensionsUpdates.label              "Complements instaŀlats">
-<!ENTITY extensionsUpdates.accesskey          "n">
-<!ENTITY extensionsDaily.accesskey            "i">
-<!ENTITY extensionsWeekly.accesskey           "m">
-<!ENTITY addonManagerButton.label             "Gestor de complements">
-<!ENTITY addonManagerButton.accesskey         "G">
+<!ENTITY addOnsModeAutomatic.label            "Baixa i instal·la automàticament les actualitzacions">
+<!ENTITY addOnsModeAutomatic.accesskey        "m">
+<!ENTITY enablePersonalized.label             "Personalitza les recomanacions de complements">
+<!ENTITY enablePersonalized.accesskey         "P">
+<!ENTITY addonManagerLink.label               "Gestiona els complements">
 
-<!ENTITY whenUpdatesFound.label               "Quan es trobin actualitzacions del &brandShortName;">
-<!ENTITY askMe.label                          "Pregunta'm què vull fer">
-<!ENTITY askMe.accesskey                      "P">
-<!ENTITY modeAutomatic.label                  "Baixa i instal·la l'actualització automàticament">
-<!ENTITY modeAutomatic.accesskey              "B">
-<!ENTITY modeAutoAddonWarn.label              "Avisa'm si s'inhabilitarà cap dels meus complements">
-<!ENTITY modeAutoAddonWarn.accesskey          "A">
-<!ENTITY updateHistory.label                  "Mostra l'historial d'actualitzacions">
-<!ENTITY updateHistory.accesskey              "h">
+<!ENTITY appUpdates.caption                   "&brandShortName;">
+<!ENTITY autoAppUpdates.label                 "Comprova automàticament si hi ha actualitzacions">
+<!ENTITY autoAppUpdates.accesskey             "t">
+<!ENTITY appDaily.accesskey                   "a">
+<!ENTITY appWeekly.accesskey                  "e">
+<!ENTITY appModeAutomatic.label               "Baixa i instal·la automàticament les actualitzacions">
+<!ENTITY appModeAutomatic.accesskey           "u">
+<!ENTITY appModeAutoAddonWarn.label           "Avisa'm si s'inhabilitarà cap dels meus complements">
+<!ENTITY appModeAutoAddonWarn.accesskey       "n">
+<!ENTITY updateHistoryButton.label            "Mostra l'historial d'actualització…">
+<!ENTITY updateHistoryButton.accesskey        "S">
+

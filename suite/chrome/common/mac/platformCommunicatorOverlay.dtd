@@ -26,7 +26,6 @@
 <!ENTITY printSetupCmd.label "Configuració de la pàgina…">
 <!ENTITY printSetupCmd.accesskey "u">
 
-<!ENTITY redoCmd.label "Refés">
 <!ENTITY redoCmd.key "Z">
 
 <!ENTITY historyCmd.key "H">
