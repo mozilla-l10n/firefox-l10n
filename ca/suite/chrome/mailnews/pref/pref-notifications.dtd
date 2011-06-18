@@ -49,8 +49,8 @@
 <!ENTITY showTrayIcon.accesskey           "t">
 <!ENTITY bounceSystemDockIcon.label       "Anima la icona acoblada">
 <!ENTITY bounceSystemDockIcon.accesskey   "A">
-<!ENTITY preview.label "Previsualització">
-<!ENTITY preview.accesskey "a">
+<!ENTITY playButton.label                 "Reprodueix">
+<!ENTITY playButton.accesskey             "R">
 <!ENTITY systemsound.label                "So «correu nou» del sistema">
 <!ENTITY systemsound.accesskey "S">
 <!ENTITY customsound.label "Fitxer .wav personalitzat">

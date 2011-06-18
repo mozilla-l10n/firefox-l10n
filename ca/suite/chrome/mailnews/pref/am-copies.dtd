@@ -36,7 +36,12 @@
 <!ENTITY templatesFolderOn.accesskey "P">
 <!ENTITY templateInOtherFolder.label "Altres:">
 <!ENTITY templateInOtherFolder.accesskey "r">
-<!ENTITY specialFoldersTitle.label "Esborranys i plantilles">
+<!ENTITY specialFolders.label "Esborranys i plantilles">
 <!ENTITY keepDrafts.label "Conserva els esborranys a:">
 <!ENTITY keepArchives.label "Conserva els arxius a:">
-<!ENTITY keepTempltes.label "Conserva les plantilles a:">
+<!ENTITY archivesTitle.label "Arxius de missatges">
+<!ENTITY keepArchives.accesskey "x">
+<!ENTITY keepTemplates.label "Conserva les plantilles a:">
+<!ENTITY archiveHierarchyButton.label "Opcions d'arxivament…">
+<!ENTITY archiveHierarchyButton.accesskey "n">
+
