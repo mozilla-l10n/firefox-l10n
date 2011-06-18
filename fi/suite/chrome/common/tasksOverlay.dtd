@@ -39,9 +39,9 @@
 <!ENTITY downloadManagerCmd.accesskey "L">
 <!ENTITY downloadManagerCmd.commandkey "j">
 
-<!ENTITY addonsManagerCmd.label "Lisäosat">
-<!ENTITY addonsManagerCmd.accesskey "i">
-<!ENTITY addonsManagerCmd.commandkey "a">
+<!ENTITY addOnsManagerCmd.label "Lisäosat">
+<!ENTITY addOnsManagerCmd.accesskey "i">
+<!ENTITY addOnsManagerCmd.commandkey "a">
 
 <!ENTITY switchProfileCmd.label "Vaihda profiilia…">
 <!ENTITY switchProfileCmd.accesskey "a">
@@ -50,7 +50,7 @@
 <!-- LOCALIZATION NOTE (syncSetup.accesskey, syncSyncNowItem.accesskey):
      Only one of these will show at a time (based on setup state),
      so reusing accesskey is ok. -->
-<!ENTITY syncSetup.label           "Aseta synkronointiasetukset…">
-<!ENTITY syncSetup.accesskey       "s">
+<!ENTITY syncSetup.label           "Määritä synkronointiasetukset…">
+<!ENTITY syncSetup.accesskey       "M">
 <!ENTITY syncSyncNowItem.label     "Synkronoi heti">
 <!ENTITY syncSyncNowItem.accesskey "S">
