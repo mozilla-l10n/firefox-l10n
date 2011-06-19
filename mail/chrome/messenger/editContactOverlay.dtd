@@ -16,3 +16,4 @@
 <!ENTITY editContactPanelDone.label "U bë">
 <!ENTITY editContactPanelDone.accesskey "u">
 
+<!ENTITY contactMoveDisabledWarning.description "Librin e adresave s&apos;e ndryshoni dot, ngaqë kontakti gjendet në një listë postimesh.">

@@ -9,11 +9,10 @@
 <!ENTITY closeTabCmd2.accesskey "M">
 <!ENTITY closeOtherTabsCmd2.label "Mbylli Skedat e Tjera">
 <!ENTITY closeOtherTabsCmd2.accesskey "T">
-<!-- LOCALIZATION NOTE (undoCloseTabCmd.label):
-     Menu option to attempt to re-open a recently closed tab.
-     -->
-<!ENTITY undoCloseTabCmd.label "Zhbëje Mbylljen e Skedave">
-<!ENTITY undoCloseTabCmd.accesskey "Z">
+<!ENTITY recentlyClosedTabsCmd.label "Skeda të Mbyllura Së Fundmi">
+<!ENTITY recentlyClosedTabsCmd.accesskey "F">
+<!ENTITY undoCloseTabCmd.commandkey "Z">
+
 <!-- LOCALIZATION NOTE (moveToNewWindow.label):
      Menu option to cause the current tab to be migrated to a new Thunderbird
      window.
@@ -38,7 +37,6 @@
 <!ENTITY saveAsFileCmd.key "s">
 <!ENTITY saveAsTemplateCmd.label "Gjedhe">
 <!ENTITY saveAsTemplateCmd.accesskey "G">
-<!ENTITY getNewMsgCmd.key "t">
 <!ENTITY getNewMsgForCmd.label "Merr Mesazhe të Rinj për">
 <!ENTITY getNewMsgForCmd.accesskey "e">
 <!ENTITY getAllNewMsgCmdPopupMenu.label "Tërë Llogaritë">
@@ -330,6 +328,7 @@ you can use these alternative items. Otherwise, their values should be empty.  -
 <!ENTITY folderMenu.accesskey "D">
 <!ENTITY thisFolder.label "Këtë Dosje">
 <!ENTITY thisFolder.accesskey "K">
+<!ENTITY goRecentlyClosedTabs.label "Skeda të Mbyllura Së Fundmi">
 <!ENTITY startPageCmd.label "Faqe Fillimi Poste">
 <!ENTITY startPageCmd.accesskey "F">
 
@@ -410,12 +409,11 @@ you can use these alternative items. Otherwise, their values should be empty.  -
 <!ENTITY tagCmd9.key "9">
 <!ENTITY markMenu.label "Shënoje">
 <!ENTITY markMenu.accesskey "S">
+<!ENTITY toggleReadCmd.key "m">
 <!ENTITY markAsReadCmd.label "Si të Lexuar">
 <!ENTITY markAsReadCmd.accesskey "L">
-<!ENTITY markAsReadCmd.key "m">
 <!ENTITY markAsUnreadCmd.label "Si të Palexuar">
 <!ENTITY markAsUnreadCmd.accesskey "P">
-<!ENTITY markAsUnreadCmd.key "m">
 <!ENTITY markThreadAsReadCmd.label "Si Rrjedhë e Lexuar">
 <!ENTITY markThreadAsReadCmd.accesskey "R">
 <!ENTITY markThreadAsReadCmd.key "r">
@@ -526,7 +524,6 @@ you can use these alternative items. Otherwise, their values should be empty.  -
 <!ENTITY getMsgButton.tooltip "Merrni mesazhe të rinj">
 <!ENTITY getAllNewMsgCmd.label "Merri Tërë Mesazhet">
 <!ENTITY getAllNewMsgCmd.accesskey "M">
-<!ENTITY getAllNewMsgCmd.key "t">
 <!ENTITY newMsgButton.tooltip "Krijoni mesazh të ri">
 <!ENTITY replyButton.tooltip "Përgjigjuni mesazhit">
 <!ENTITY replyAllButton.tooltip "Përgjigjuni dërguesit dhe tërë marrësve">
@@ -759,12 +756,14 @@ you can use these alternative items. Otherwise, their values should be empty.  -
 <!-- Phishing Bar -->
 <!ENTITY phishingBarMessage2.label "Ky mesazh mund të jetë mashtrim.">
 <!ENTITY removePhishingBarButton1.label "Shpërfille Sinjalizimin">
+<!ENTITY disablePhishingWarning1.label "Çaktivizoje zbulimin e mashtrimeve për krejt mesazhet">
 <!ENTITY reportPhishingError1.label "Ky mesazh nuk duket të jetë mashtrim.">
 
 <!-- MDN Bar -->
-<!ENTITY mdnBarMessage.label "Dërguesi i këtij mesazhi ka kërkuar që të njoftohet kur e lexoni këtë mesazh. Dëshironi të njoftohet dërguesi?">
-<!ENTITY mdnBarIgnoreButton.label "Shpërfille Kërkesën">
-<!ENTITY mdnBarSendButton.label "Dërgoji Faturë">
+<!ENTITY mdnBarIgnoreButton2.label "Shpërfille">
+<!ENTITY mdnBarIgnoreButton2.accesskey "S">
+<!ENTITY mdnBarSendButton2.label "Dërgoji Faturë Kthimi">
+<!ENTITY mdnBarSendButton2.accesskey "D">
 
 <!-- Quick Search Bar -->
 <!-- LOCALIZATION NOTE (quickSearchCmd.key):
