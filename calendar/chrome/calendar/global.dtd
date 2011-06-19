@@ -84,9 +84,9 @@
 <!ENTITY month.11.name "listopad" >
 <!ENTITY month.12.name "prosinec" >
 
-<!ENTITY onemonthbackward.tooltip "Přejde jeden měsíc zpět" >
-<!ENTITY onemonthforward.tooltip "Přejde jeden měsíc vpřed" >
+<!ENTITY onemonthbackward.tooltip "Přejde o jeden měsíc zpět" >
+<!ENTITY onemonthforward.tooltip "Přejde o jeden měsíc vpřed" >
 <!ENTITY showToday.tooltip "Přejde na dnešní datum">
-<!ENTITY onedayforward.tooltip "Přejde jeden den vpřed">
-<!ENTITY onedaybackward.tooltip "Přejde jeden den zpět">
+<!ENTITY onedayforward.tooltip "Přejde o jeden den vpřed">
+<!ENTITY onedaybackward.tooltip "Přejde o jeden den zpět">
 <!ENTITY showselectedday.tooltip "Zobrazí události pro zvolený den">

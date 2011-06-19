@@ -105,12 +105,12 @@
 <!ENTITY calendar.nextmonth.accesskey "a" >
 <!ENTITY calendar.prevmonth.accesskey "e" >
 
-<!ENTITY calendar.navigation.nextday.tooltip "Jeden den vpřed">
-<!ENTITY calendar.navigation.prevday.tooltip "Jeden den zpět">
-<!ENTITY calendar.navigation.nextweek.tooltip "Jeden týden vpřed">
-<!ENTITY calendar.navigation.prevweek.tooltip "Jeden týden zpět">
-<!ENTITY calendar.navigation.nextmonth.tooltip "Jeden měsíc vpřed">
-<!ENTITY calendar.navigation.prevmonth.tooltip "Jeden měsíc zpět">
+<!ENTITY calendar.navigation.nextday.tooltip "Přejde o jeden den vpřed">
+<!ENTITY calendar.navigation.prevday.tooltip "Přejde o jeden den zpět">
+<!ENTITY calendar.navigation.nextweek.tooltip "Přejde o jeden týden vpřed">
+<!ENTITY calendar.navigation.prevweek.tooltip "Přejde o jeden týden zpět">
+<!ENTITY calendar.navigation.nextmonth.tooltip "Přejde o jeden měsíc vpřed">
+<!ENTITY calendar.navigation.prevmonth.tooltip "Přejde o jeden měsíc zpět">
 
 <!ENTITY calendar.newevent.button.label "Nová událost">
 <!ENTITY calendar.newtask.button.label "Nový úkol">
