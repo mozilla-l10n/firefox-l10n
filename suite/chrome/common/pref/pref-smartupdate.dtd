@@ -8,10 +8,8 @@
 <!ENTITY autoAddOnsUpdates.accesskey          "o">
 <!ENTITY daily.label                          "diàriament">
 <!ENTITY addOnsDaily.accesskey                "d">
-<!ENTITY appDaily.accesskey                   "d">
 <!ENTITY weekly.label                         "setmanalment">
 <!ENTITY addOnsWeekly.accesskey               "t">
-<!ENTITY appWeekly.accesskey                  "t">
 <!ENTITY addOnsModeAutomatic.label            "Baixa i instal·la automàticament les actualitzacions">
 <!ENTITY addOnsModeAutomatic.accesskey        "m">
 <!ENTITY enablePersonalized.label             "Personalitza les recomanacions de complements">
