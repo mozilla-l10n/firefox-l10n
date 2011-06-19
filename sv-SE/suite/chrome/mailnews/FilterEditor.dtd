@@ -87,7 +87,6 @@
 <!ENTITY replyWithTemplate.label "Besvara i enlighet med mall">
 <!ENTITY markMessageRead.label "Märk som läst">
 <!ENTITY markMessageStarred.label "Märk som flaggat">
-<!ENTITY labelMessage.label "Etikettera meddelandet som">
 <!ENTITY setPriority.label "Sätt prioritet till">
 <!ENTITY addTag.label "Förse med etikett">
 <!ENTITY setJunkScore.label "Sätt skräppoststatus till:">
