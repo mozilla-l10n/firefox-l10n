@@ -37,6 +37,11 @@
 <!--LOCALIZATION NOTE : FILE 'Privacy and Security' prefs settings -->
 
 <!ENTITY pref.security.title "Adatvédelem és biztonság">
+
+<!ENTITY tracking.label "User Tracking">
+<!ENTITY doNotTrack.label "Tell web sites I do not want to be tracked">
+<!ENTITY doNotTrack.accesskey "T">
+
 <!ENTITY privateData.label "Személyes adatok">
 
 <!ENTITY alwaysClear.label "Személyes adatok törlése a &brandShortName; bezárásakor">

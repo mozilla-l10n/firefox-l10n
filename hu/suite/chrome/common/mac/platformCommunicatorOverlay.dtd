@@ -27,13 +27,12 @@
 <!ENTITY printSetupCmd.label "Oldalbeállítás...">
 <!ENTITY printSetupCmd.accesskey "O">
 
-<!ENTITY redoCmd.label "Újra">
 <!ENTITY redoCmd.key "Z">
 
 <!ENTITY historyCmd.key "H">
 
-<!ENTITY findTypeTextCmd.key "/">
-<!ENTITY findTypeLinksCmd.key "'">
+<!ENTITY findTypeTextCmd.key "">
+<!ENTITY findTypeLinksCmd.key "">
 
 <!ENTITY accel.emacs_conflict "accel">
 

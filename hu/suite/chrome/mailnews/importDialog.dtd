@@ -58,7 +58,7 @@
 <!ENTITY importDescription2.label "Az importálás után ezek az adatok hozzáférhetők lesznek a  &brandShortName; levelezőben, illetve a címjegyzékben.">
 
 <!ENTITY selectDescription.label "Válassza ki azt a programot, amelyből importálni szeretne:">
-<!ENTITY selectDescription.accesskey "P">
+<!ENTITY selectDescription.accesskey "p">
 
 <!ENTITY back.label "&lt; Vissza">
 <!ENTITY forward.label "Tovább &gt;">
@@ -69,11 +69,3 @@
 
 <!ENTITY title.label "Cím">
 <!ENTITY processing.label "Importálás...">
-
-<!ENTITY FieldDiscInputText1.label "A Netscape Communicator 4.x egy levélcímet kezel egy névjegykártyán, &brandShortName; pedig kettőt (otthoni és munkahelyi).">
-<!ENTITY FieldDiscInputText2.label "Válassza ki, hogy melyik mezőbe kerüljön az importált levélcím:">
-<!ENTITY FieldDiscWarning.label "Ez a beállítás az összes névjegykártyára érvényes lesz: ">
-<!ENTITY importHome.label "Home">
-<!ENTITY importHome.accesskey "H">
-<!ENTITY importWork.label "Work">
-<!ENTITY importWork.accesskey "W">

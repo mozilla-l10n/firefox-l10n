@@ -126,8 +126,6 @@
 <!ENTITY deleteMsgsCmd.accesskey "i">
 <!ENTITY undeleteMsgsCmd.label "Kijelölt üzenetek visszaállítása">
 <!ENTITY undeleteMsgsCmd.accesskey "l">
-<!ENTITY cancelNewsMsgsCmd.label "Kijelölt üzenetek érvénytelenítése">
-<!ENTITY cancelNewsMsgsCmd.accesskey "t">
 <!ENTITY deleteFolderCmd.label "Mappa törlése">
 <!ENTITY deleteFolderCmd.accesskey "l">
 <!ENTITY unsubscribeNewsgroupCmd.label "Leiratkozás">

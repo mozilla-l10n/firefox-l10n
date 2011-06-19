@@ -38,3 +38,4 @@
 <!ENTITY search.button.label "Keresés">
 <!ENTITY search.placeholder "Enter search text">
 
+<!ENTITY search.engineManager.label "Manage Search Engines…">

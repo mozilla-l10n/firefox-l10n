@@ -1,13 +1,7 @@
 <!--LOCALIZATION NOTE msgCompSMIMEOverlay.dtd UI for s/mime hooks in message composition -->
 
-<!ENTITY securityMenu.label "Biztonság">
-<!ENTITY securityMenu.accesskey "B">
-
 <!ENTITY menu_securityEncryptRequire.label "Üzenet titkosítása">
 <!ENTITY menu_securityEncryptRequire.accesskey "i">
-
-<!ENTITY menu_securityNoEncryption.label "Nincs titkosítás">
-<!ENTITY menu_securityNoEncryption.accesskey "N">
 
 <!ENTITY menu_securitySign.label "Üzenet digitális aláírása">
 <!ENTITY menu_securitySign.accesskey "d">
