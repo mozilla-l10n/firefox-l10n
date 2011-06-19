@@ -23,8 +23,8 @@
 <!ENTITY tasksMenu.label			"Verktyg">
 <!ENTITY tasksMenu.accesskey                    "t">
 
-<!ENTITY datamanCmd.label "Data Manager">
-<!ENTITY datamanCmd.accesskey "M">
+<!ENTITY datamanCmd.label "Hantera webbplatsdata">
+<!ENTITY datamanCmd.accesskey "d">
 
 <!ENTITY passwordManagerCmd.label "Lösenordshanteraren">
 <!ENTITY passwordManagerCmd.accesskey "L">
@@ -39,9 +39,9 @@
 <!ENTITY downloadManagerCmd.accesskey "h">
 <!ENTITY downloadManagerCmd.commandkey "j">
 
-<!ENTITY addonsManagerCmd.label "Tilläggshanteraren">
-<!ENTITY addonsManagerCmd.accesskey "ä">
-<!ENTITY addonsManagerCmd.commandkey "a">
+<!ENTITY addOnsManagerCmd.label "Tilläggshanteraren">
+<!ENTITY addOnsManagerCmd.accesskey "ä">
+<!ENTITY addOnsManagerCmd.commandkey "a">
 
 <!ENTITY switchProfileCmd.label "Byt användarprofil…">
 <!ENTITY switchProfileCmd.accesskey "y">
