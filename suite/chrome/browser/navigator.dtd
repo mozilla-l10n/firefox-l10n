@@ -40,9 +40,6 @@
 <!ENTITY printCmd.accesskey "p">
 <!ENTITY printCmd.commandkey "p">
 
-<!ENTITY viewMenu.label "Visualitza">
-<!ENTITY viewMenu.accesskey "s">
-
 <!ENTITY toolbarsCmd.label "Mostra/Amaga">
 <!ENTITY toolbarsCmd.accesskey "M">
 <!ENTITY navbarCmd.label "Barra de navegació">
@@ -154,6 +151,8 @@
 <!ENTITY locationBar.title            "Ubicació">
 
 <!ENTITY proxyIcon.tooltip "Arrossega i deixa anar aquesta icona per crear un enllaç en aquesta pàgina">
+
+<!ENTITY searchItem.title             "Cerca">
 
 <!-- Toolbar items --> 
 <!ENTITY bookmarksButton.label "Adreces d'interès">

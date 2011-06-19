@@ -76,10 +76,6 @@
 <!ENTITY saveVideoCmd.accesskey       "v">
 <!ENTITY saveAudioCmd.label           "Anomena i desa l'àudio…">
 <!ENTITY saveAudioCmd.accesskey       "d">
-<!ENTITY copyCmd.label "Copia">
-<!ENTITY copyCmd.accesskey "c">
-<!ENTITY selectAllCmd.label "Selecciona-ho tot">
-<!ENTITY selectAllCmd.accesskey "l">
 <!ENTITY copyLinkCmd.label "Copia l'enllaç">
 <!ENTITY copyLinkCmd.accesskey "n">
 <!ENTITY copyImageCmd.label "Copia la ubicació de la imatge">
@@ -92,16 +88,6 @@
 <!ENTITY metadataCmd.accesskey "P">
 <!ENTITY copyEmailCmd.label "Copia l'adreça electrònica">
 <!ENTITY copyEmailCmd.accesskey "e">
-<!ENTITY pasteCmd.label "Enganxa">
-<!ENTITY pasteCmd.accesskey "g">
-<!ENTITY cutCmd.label "Retalla">
-<!ENTITY cutCmd.accesskey "t">
-<!ENTITY deleteCmd.label "Suprimeix">
-<!ENTITY deleteCmd.accesskey "u">
-<!ENTITY undoCmd.label "Desfés">
-<!ENTITY undoCmd.accesskey "d">
-<!ENTITY redoCmd.label "Refés">
-<!ENTITY redoCmd.accesskey "R">
 <!ENTITY thisFrameMenu.label "Aquest marc">
 <!ENTITY thisFrameMenu.accesskey "t">
 <!ENTITY mediaPlay.label              "Reprodueix">

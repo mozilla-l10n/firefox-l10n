@@ -40,9 +40,9 @@
 <!ENTITY downloadManagerCmd.accesskey "b">
 <!ENTITY downloadManagerCmd.commandkey "j">
 
-<!ENTITY addonsManagerCmd.label "Gestor de complements">
-<!ENTITY addonsManagerCmd.accesskey "G">
-<!ENTITY addonsManagerCmd.commandkey "a">
+<!ENTITY addOnsManagerCmd.label "Gestor de complements">
+<!ENTITY addOnsManagerCmd.accesskey "G">
+<!ENTITY addOnsManagerCmd.commandkey "a">
 
 <!ENTITY switchProfileCmd.label "Commuta el perfil…">
 <!ENTITY switchProfileCmd.accesskey "p">
