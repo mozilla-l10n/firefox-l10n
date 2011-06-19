@@ -10,9 +10,7 @@
 <!ENTITY quitApplicationCmd.key		"Q"> 
 <!ENTITY quitApplicationCmd.accesskey	"v">
 
-<!ENTITY redoCmd.label			"Gör om">  
 <!ENTITY redoCmd.key			"Y">  
-<!ENTITY redoCmd.accesskey		"G">
 
 <!ENTITY findTypeTextCmd.key            "/">
 <!ENTITY findTypeLinksCmd.key           "'">

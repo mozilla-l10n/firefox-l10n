@@ -27,6 +27,11 @@
 <!ENTITY draftInOtherFolder.label "Annan mapp:">
 <!ENTITY draftInOtherFolder.accesskey "n">
 <!-- LOCALIZATION NOTE (archivesFolderOn.label): OK to translate this, bug #57440 -->
+<!ENTITY archivesTitle.label "Meddelandearkiv">
+<!ENTITY keepArchives.label "Spara arkiv i:">
+<!ENTITY keepArchives.accesskey "k">
+<!ENTITY archiveHierarchyButton.label "Arkiveringsinställningarâ€¦">
+<!ENTITY archiveHierarchyButton.accesskey "n">
 <!ENTITY archivesFolderOn.label "Mappen &quot;Arkiv&quot; i:">
 <!ENTITY archivesFolderOn.accesskey "i">
 <!ENTITY archiveInOtherFolder.label "Annan mapp:">
@@ -36,7 +41,6 @@
 <!ENTITY templatesFolderOn.accesskey "r">
 <!ENTITY templateInOtherFolder.label "Annan mapp:">
 <!ENTITY templateInOtherFolder.accesskey "m">
-<!ENTITY specialFoldersTitle.label "Utkast och mallar">
+<!ENTITY specialFolders.label "Utkast och mallar">
 <!ENTITY keepDrafts.label "Spara utkast i:">
-<!ENTITY keepArchives.label "Spara arkiv i:">
-<!ENTITY keepTempltes.label "Spara mallar i:">
+<!ENTITY keepTemplates.label "Spara mallar i:">
