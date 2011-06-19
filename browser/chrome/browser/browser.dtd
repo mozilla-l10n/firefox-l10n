@@ -229,7 +229,7 @@ can reach it easily. -->
 <!ENTITY inspectObjectButton.label       "ਆਬਜੈਕਟ">
 <!ENTITY inspectObjectButton.accesskey   "O">
 
-<!ENTITY getMoreDevtoolsCmd.label        "Get More Tools">
+<!ENTITY getMoreDevtoolsCmd.label        "ਹੋਰ ਟੂਲ ਲਵੋ">
 <!ENTITY getMoreDevtoolsCmd.accesskey    "M">
 
 <!ENTITY fileMenu.label         "ਫਾਇਲ">
