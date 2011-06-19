@@ -20,7 +20,7 @@
    - the Initial Developer. All Rights Reserved.
    -
    - Contributor(s):
-   -   Giacomo Magnini <giacomo.magnini@mozillaitalia.org>
+   -   
    -
    - Alternatively, the contents of this file may be used under the terms of
    - either of the GNU General Public License Version 2 or later (the "GPL"),
@@ -38,32 +38,32 @@
 <!ENTITY windowTitle.label "Controllo ortografico">
 <!ENTITY misspelledWord.label "Parola errata:">
 <!ENTITY wordEditField.label "Sostituisci con:">
-<!ENTITY wordEditField.accessKey "o">
+<!ENTITY wordEditField.accessKey "S">
 <!ENTITY checkwordButton.label "Controlla vocabolo">
-<!ENTITY checkwordButton.accessKey "n">
+<!ENTITY checkwordButton.accessKey "C">
 <!ENTITY suggestions.label "Suggerimenti:">
-<!ENTITY suggestions.accessKey "u">
+<!ENTITY suggestions.accessKey "S">
 <!ENTITY ignoreButton.label "Ignora">
 <!ENTITY ignoreButton.accessKey "I">
 <!ENTITY ignoreAllButton.label "Ignora tutti">
-<!ENTITY ignoreAllButton.accessKey "g">
+<!ENTITY ignoreAllButton.accessKey "I">
 <!ENTITY replaceButton.label "Sostituisci">
 <!ENTITY replaceButton.accessKey "S">
 <!ENTITY replaceAllButton.label "Sostituisci tutti">
-<!ENTITY replaceAllButton.accessKey "t">
+<!ENTITY replaceAllButton.accessKey "S">
 <!ENTITY stopButton.label "Interrompi">
-<!ENTITY stopButton.accessKey "e">
+<!ENTITY stopButton.accessKey "I">
 <!ENTITY userDictionary.label "Dizionario personale:">
 <!ENTITY moreDictionaries.label "Scarica altri dizionari…">
 <!ENTITY addToUserDictionaryButton.label "Aggiungi vocabolo">
 <!ENTITY addToUserDictionaryButton.accessKey "A">
-<!ENTITY editUserDictionaryButton.label "Modifica…">
+<!ENTITY editUserDictionaryButton.label "Modifica">
 <!ENTITY editUserDictionaryButton.accessKey "M">
 <!ENTITY recheckButton.label "Ricontrolla pagina">
 <!ENTITY recheckButton.accessKey "R">
 <!ENTITY closeButton.label "Chiudi">
 <!ENTITY closeButton.accessKey "C">
 <!ENTITY sendButton.label "Invia">
-<!ENTITY sendButton.accessKey "v">
+<!ENTITY sendButton.accessKey "I">
 <!ENTITY languagePopup.label "Lingua:">
 <!ENTITY languagePopup.accessKey "L">

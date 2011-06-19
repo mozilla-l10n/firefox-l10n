@@ -1,6 +1,6 @@
 <!--null-->
 <!ENTITY emailSectionHdr.label "E-mail">
-<!ENTITY readMsgsLink.label "Leggi">
+<!ENTITY readMsgsLink.label "Messaggi letti">
 <!ENTITY composeMsgLink.label "Componi un nuovo messaggio">
 <!ENTITY newsSectionHdr.label "Gruppi di discussione">
 <!ENTITY subscribeNewsLink.label "Gestione sottoscrizioni gruppi di discussione">

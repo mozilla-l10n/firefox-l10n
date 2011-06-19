@@ -6,15 +6,15 @@
 <!ENTITY proportional.label "Proporzionale:">
 <!ENTITY proportional.accesskey "P">
 <!ENTITY serif.label "Con grazie:">
-<!ENTITY serif.accesskey "z">
+<!ENTITY serif.accesskey "C">
 <!ENTITY sans-serif.label "Senza grazie:">
 <!ENTITY sans-serif.accesskey "S">
 <!ENTITY monospace.label "Spaziatura fissa:">
-<!ENTITY monospace.accesskey "a">
+<!ENTITY monospace.accesskey "S">
 <!ENTITY fantasy.label "Fantasia:">
 <!ENTITY fantasy.accesskey "F">
 <!ENTITY cursive.label "Corsivo:">
-<!ENTITY cursive.accesskey "o">
+<!ENTITY cursive.accesskey "C">
 <!ENTITY font.langGroup.latin1 "Occidentale">
 <!ENTITY font.langGroup.latin2 "Europa Centrale">
 <!ENTITY font.langGroup.japanese "Giapponese">
@@ -44,11 +44,11 @@
 <!ENTITY font.langGroup.malayalam "Malayalam">
 <!ENTITY minSize.label "Dimensione minima caratteri:">
 <!ENTITY minSize.accesskey "D">
-<!ENTITY minSize.none "Nessuna">
+<!ENTITY minSize.none "Nessuno">
 <!ENTITY useDefaultFontSerif.label "Con grazie">
 <!ENTITY useDefaultFontSansSerif.label "Senza grazie">
 <!ENTITY useDocumentFonts.label "Consenti ai documenti di utilizzare altri caratteri">
-<!ENTITY useDocumentFonts.accesskey "n">
+<!ENTITY useDocumentFonts.accesskey "C">
 <!ENTITY header2 "Quando una pagina web specifica i propri caratteri">
 <!ENTITY useDefaultFont.label "Utilizza i caratteri selezionati, ignorando i caratteri specificati dalla pagina">
 <!ENTITY useDefaultFont.accesskey "U">

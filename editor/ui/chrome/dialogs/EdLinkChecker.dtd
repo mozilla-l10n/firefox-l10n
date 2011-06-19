@@ -21,7 +21,7 @@
    -
    - Contributor(s):
    -   Charles Manske (cmanske@netscape.com)
-   -   Giacomo Magnini <giacomo.magnini@mozillaitalia.org>
+   -   
    -
    - Alternatively, the contents of this file may be used under the terms of
    - either of the GNU General Public License Version 2 or later (the "GPL"),
@@ -38,5 +38,5 @@
    - ***** END LICENSE BLOCK ***** -->
 <!ENTITY windowTitle.label "Verifica indirizzi collegamenti e immagine">
 <!ENTITY succeeded.label "Verificato">
-<!ENTITY failed.label "Non trovato">
+<!ENTITY failed.label "Non riuscito">
 <!ENTITY closeButton.label "Chiudi">

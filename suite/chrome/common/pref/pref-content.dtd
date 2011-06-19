@@ -10,8 +10,8 @@
 <!ENTITY useSmoothScroll.label "Utilizza lo scorrimento continuo">
 <!ENTITY useSmoothScroll.accesskey "U">
 <!ENTITY allowHWAccel.label "Utilizza accelerazione hardware se disponibile">
-<!ENTITY allowHWAccel.accesskey "t">
+<!ENTITY allowHWAccel.accesskey "U">
 <!ENTITY textZoomOnly.label "Fai lo zoom del solo testo invece di intere pagine">
 <!ENTITY textZoomOnly.accesskey "F">
 <!ENTITY blockAutoRefresh.label "Avvisami quando i siti web provano a rindirizzare o ricaricare la pagina">
-<!ENTITY blockAutoRefresh.accesskey "v">
+<!ENTITY blockAutoRefresh.accesskey "A">

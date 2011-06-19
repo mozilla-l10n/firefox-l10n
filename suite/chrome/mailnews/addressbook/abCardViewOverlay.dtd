@@ -1,9 +1,9 @@
 <!--null-->
-<!ENTITY contact.heading "Contatti">
+<!ENTITY contact.heading "Contatto">
 <!ENTITY home.heading "Casa">
 <!ENTITY other.heading "Altre">
-<!ENTITY phone.heading "Numeri di telefono">
-<!ENTITY work.heading "Occupazione">
+<!ENTITY phone.heading "Telefono">
+<!ENTITY work.heading "Lavoro">
 <!ENTITY description.heading "Descrizione">
 <!ENTITY addresses.heading "Indirizzi">
 <!ENTITY mapItButton.label "Visualizza mappa">

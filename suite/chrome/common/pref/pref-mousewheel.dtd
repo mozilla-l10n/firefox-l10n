@@ -15,9 +15,9 @@
 <!ENTITY useSystemDefault.accesskey "U">
 <!ENTITY useSystemDefaultHoriz.accesskey "z">
 <!ENTITY scrollPgUpPgDn.label "Scorri di una pagina in su o in giù">
-<!ENTITY scrollPgUpPgDn.accesskey "d">
+<!ENTITY scrollPgUpPgDn.accesskey "S">
 <!ENTITY scrollPgLtPgRt.label "Scorri di una pagina a sinistra o a destra">
-<!ENTITY scrollPgLtPgRt.accesskey "n">
+<!ENTITY scrollPgLtPgRt.accesskey "S">
 <!ENTITY history.label "Muovi avanti/indietro nella cronologia">
 <!ENTITY history.accesskey "M">
 <!ENTITY historyHoriz.accesskey "v">

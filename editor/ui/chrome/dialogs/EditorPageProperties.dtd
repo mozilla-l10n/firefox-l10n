@@ -20,7 +20,7 @@
    - the Initial Developer. All Rights Reserved.
    -
    - Contributor(s):
-   -   Giacomo Magnini <giacomo.magnini@mozillaitalia.org>
+   -   
    -
    - Alternatively, the contents of this file may be used under the terms of
    - either of the GNU General Public License Version 2 or later (the "GPL"),
@@ -38,8 +38,8 @@
 <!ENTITY windowTitle.label "Proprietà pagina">
 <!ENTITY location.label "Posizione:">
 <!ENTITY lastModified.label "Modificato il:">
-<!ENTITY titleInput.label "Titolo:">
-<!ENTITY titleInput.accessKey "T">
+<!ENTITY titleInput.label "Qualifica:">
+<!ENTITY titleInput.accessKey "Q">
 <!ENTITY authorInput.label "Autore:">
 <!ENTITY authorInput.accessKey "A">
 <!ENTITY descriptionInput.label "Descrizione:">

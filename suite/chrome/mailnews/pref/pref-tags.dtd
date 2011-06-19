@@ -39,7 +39,7 @@
 <!ENTITY pref.tags.title "Etichette">
 <!ENTITY pref.tags.caption "Personalizza etichette">
 <!ENTITY pref.tags.description "Le etichette possono essere utilizzate per classificare ed ordinare per priorità i messaggi. Modifica l'aspetto e l'importanza delle etichette usando le impostazioni sottostanti. Le etichette in alto sono più importanti di quelle in basso.">
-<!ENTITY tagColumn.label "Etichetta">
+<!ENTITY tagColumn.label "tag">
 <!ENTITY colorColumn.label "Colore">
 <!ENTITY defaultTagName.label "Etichetta senza nome">
 <!ENTITY addTagButton.label "Aggiungi">
@@ -47,8 +47,8 @@
 <!ENTITY deleteTagButton.label "Elimina">
 <!ENTITY deleteTagButton.accesskey "E">
 <!ENTITY raiseTagButton.label "Aumenta importanza">
-<!ENTITY raiseTagButton.accesskey "u">
+<!ENTITY raiseTagButton.accesskey "A">
 <!ENTITY lowerTagButton.label "Diminuisci importanza">
-<!ENTITY lowerTagButton.accesskey "m">
+<!ENTITY lowerTagButton.accesskey "D">
 <!ENTITY restoreButton.label "Impostazioni predefinite">
-<!ENTITY restoreButton.accesskey "d">
+<!ENTITY restoreButton.accesskey "I">

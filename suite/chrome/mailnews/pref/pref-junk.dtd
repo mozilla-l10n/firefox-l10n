@@ -34,7 +34,7 @@
    - the terms of any one of the MPL, the GPL or the LGPL.
    -
    - ***** END LICENSE BLOCK ***** -->
-<!ENTITY pref.junk.title "Posta spam sospetta">
+<!ENTITY pref.junk.title "Posta spam">
 <!ENTITY junkSettings.caption "Impostazioni globali posta spam">
 <!ENTITY junkMail.intro "Utilizza Configurazione account per configurare le impostazioni di posta spam specifiche per ogni account.">
 <!ENTITY manualMark.label "Quando marco i messaggi come indesiderati:">
@@ -47,7 +47,7 @@
 <!ENTITY autoMarkAsRead.label "Quando &brandShortName; li riconosce come posta spam">
 <!ENTITY autoMarkAsRead.accesskey "u">
 <!ENTITY manualMarkAsRead.label "Quando li marco come indesiderati">
-<!ENTITY manualMarkAsRead.accesskey "d">
+<!ENTITY manualMarkAsRead.accesskey "Q">
 <!ENTITY enableJunkLogging.label "Attiva il log del filtro antispam">
 <!ENTITY enableJunkLogging.accesskey "A">
 <!ENTITY openJunkLog.label "Mostra log">
@@ -57,7 +57,7 @@
 <!ENTITY pref.suspectMail.caption "Mail sospetta">
 <!ENTITY pref.phishing.caption "Frodi via posta">
 <!ENTITY enablePhishingDetector.label "Avvisami se il messaggio che sto leggendo è un possibile tentativo di frode">
-<!ENTITY enablePhishingDetector.accesskey "v">
+<!ENTITY enablePhishingDetector.accesskey "A">
 <!ENTITY pref.antivirus.caption "Antivirus">
 <!ENTITY antiVirus.label "Permetti agli antivirus di analizzare i messaggi in arrivo più facilmente">
 <!ENTITY antiVirus.accesskey "P">

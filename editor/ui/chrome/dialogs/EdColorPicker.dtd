@@ -20,7 +20,7 @@
    - the Initial Developer. All Rights Reserved.
    -
    - Contributor(s):
-   -   Giacomo Magnini <giacomo.magnini@mozillaitalia.org>
+   -   
    -
    - Alternatively, the contents of this file may be used under the terms of
    - either of the GNU General Public License Version 2 or later (the "GPL"),
@@ -40,7 +40,7 @@
 <!ENTITY lastPickedColor.accessKey "U">
 <!ENTITY setColor1.label "Fare clic su un colore oppure">
 <!ENTITY setColor2.label "inserire una stringa colore HTML">
-<!ENTITY setColor2.accessKey "H">
+<!ENTITY setColor2.accessKey "i">
 <!ENTITY setColorExample.label "(es.: &quot;#0000ff&quot; oppure &quot;blue&quot;):">
 <!ENTITY default.label "Predefinito">
 <!ENTITY default.accessKey "P">
@@ -49,7 +49,7 @@
 <!ENTITY webPalette.label "Solo colori web">
 <!ENTITY background.label "Sfondo per:">
 <!ENTITY background.accessKey "S">
-<!ENTITY table.label "Tabella">
-<!ENTITY table.accessKey "T">
+<!ENTITY table.label "tabella">
+<!ENTITY table.accessKey "t">
 <!ENTITY cell.label "Cella/e">
 <!ENTITY cell.accessKey "C">

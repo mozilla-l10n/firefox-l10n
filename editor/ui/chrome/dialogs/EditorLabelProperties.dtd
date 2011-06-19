@@ -19,7 +19,7 @@
    - the Initial Developer. All Rights Reserved.
    -
    - Contributor(s): Neil Rashbrook <neil@parkwaycc.co.uk>
-   -   Giacomo Magnini <giacomo.magnini@mozillaitalia.org>
+   -   
    -
    - Alternatively, the contents of this file may be used under the terms of
    - either the GNU General Public License Version 2 or later (the "GPL"), or
@@ -42,6 +42,6 @@
 <!ENTITY LabelFor.label "Per il controllo:">
 <!ENTITY LabelFor.accesskey "P">
 <!ENTITY AccessKey.label "Scorciatoia tastiera:">
-<!ENTITY AccessKey.accesskey "o">
+<!ENTITY AccessKey.accesskey "S">
 <!ENTITY RemoveLabel.label "Rimuovi etichetta">
 <!ENTITY RemoveLabel.accesskey "R">

@@ -19,7 +19,7 @@
    - the Initial Developer. All Rights Reserved.
    -
    - Contributor(s): Neil Rashbrook <neil@parkwaycc.co.uk>
-   -   Giacomo Magnini <giacomo.magnini@mozillaitalia.org>
+   -   
    -
    - Alternatively, the contents of this file may be used under the terms of
    - either the GNU General Public License Version 2 or later (the "GPL"), or
@@ -39,8 +39,8 @@
 <!ENTITY ButtonType.label "Tipo">
 <!ENTITY ButtonType.accesskey "T">
 <!ENTITY submit.value "Invio">
-<!ENTITY reset.value "Ripristina">
-<!ENTITY button.value "Pulsante">
+<!ENTITY reset.value "Azzera">
+<!ENTITY button.value "pulsante">
 <!ENTITY ButtonName.label "Nome:">
 <!ENTITY ButtonName.accesskey "N">
 <!ENTITY ButtonValue.label "Valore:">
@@ -50,6 +50,6 @@
 <!ENTITY ButtonDisabled.label "Disattivato">
 <!ENTITY ButtonDisabled.accesskey "D">
 <!ENTITY AccessKey.label "Scorciatoia tastiera:">
-<!ENTITY AccessKey.accesskey "o">
+<!ENTITY AccessKey.accesskey "S">
 <!ENTITY RemoveButton.label "Rimuovi pulsante">
 <!ENTITY RemoveButton.accesskey "R">

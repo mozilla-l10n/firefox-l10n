@@ -11,7 +11,7 @@
 <!ENTITY view.groupBy.label "Raggruppa per">
 <!ENTITY view.groupBy.accesskey "R">
 <!ENTITY view.unsorted.label "Nessun ordinamento">
-<!ENTITY view.unsorted.accesskey "o">
+<!ENTITY view.unsorted.accesskey "N">
 <!ENTITY view.sortAscending.label "A > Z">
 <!ENTITY view.sortAscending.accesskey "A">
 <!ENTITY view.sortDescending.label "Z > A">
@@ -20,20 +20,20 @@
 <!ENTITY view.groupNone.accesskey "N">
 <!ENTITY view.groupDay.label "Giorno">
 <!ENTITY view.groupDay.accesskey "G">
-<!ENTITY view.groupSite.label "Sito web">
+<!ENTITY view.groupSite.label "Sito">
 <!ENTITY view.groupSite.accesskey "W">
 <!ENTITY view.groupDayAndSite.label "Giorno e sito">
-<!ENTITY view.groupDayAndSite.accesskey "e">
+<!ENTITY view.groupDayAndSite.accesskey "G">
 <!ENTITY cmd.open.label "Apri">
 <!ENTITY cmd.open.accesskey "A">
 <!ENTITY cmd.open_window.label "Apri collegamento in nuova finestra">
-<!ENTITY cmd.open_window.accesskey "f">
+<!ENTITY cmd.open_window.accesskey "A">
 <!ENTITY cmd.open_tab.label "Apri collegamento in nuova scheda">
-<!ENTITY cmd.open_tab.accesskey "s">
+<!ENTITY cmd.open_tab.accesskey "A">
 <!ENTITY bookmarkLinkCmd.label "Aggiungi link come segnalibro…">
-<!ENTITY bookmarkLinkCmd.accesskey "b">
+<!ENTITY bookmarkLinkCmd.accesskey "A">
 <!ENTITY bookmarkLinksCmd.label "Aggiungi link come segnalibri">
-<!ENTITY bookmarkLinksCmd.accesskey "b">
+<!ENTITY bookmarkLinksCmd.accesskey "A">
 <!ENTITY col.title.label "Qualifica">
 <!ENTITY col.title.accesskey "Q">
 <!ENTITY col.url.label "Tipo">

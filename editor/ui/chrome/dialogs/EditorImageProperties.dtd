@@ -20,7 +20,7 @@
    - the Initial Developer. All Rights Reserved.
    -
    - Contributor(s):
-   -   Giacomo Magnini <giacomo.magnini@mozillaitalia.org>
+   -   
    -
    - Alternatively, the contents of this file may be used under the terms of
    - either of the GNU General Public License Version 2 or later (the "GPL"),
@@ -41,7 +41,7 @@
 <!ENTITY locationEditField.accessKey "I">
 <!ENTITY locationEditField.tooltip "Inserisci il nome del file o l'indirizzo dell'immagine">
 <!ENTITY title.label "Suggerimento:">
-<!ENTITY title.accessKey "u">
+<!ENTITY title.accessKey "S">
 <!ENTITY title.tooltip "L'attributo html 'title' che viene mostrato come suggerimento.">
 <!ENTITY altText.label "Testo alternativo:">
 <!ENTITY altText.accessKey "T">
@@ -54,7 +54,7 @@
 <!ENTITY actualSizeRadio.accessKey "D">
 <!ENTITY actualSizeRadio.tooltip "Torna alle dimensioni reali dell'immagine">
 <!ENTITY customSizeRadio.label "Dimensioni personalizzate">
-<!ENTITY customSizeRadio.accessKey "z">
+<!ENTITY customSizeRadio.accessKey "D">
 <!ENTITY customSizeRadio.tooltip "Modifica le dimensioni di visualizzazione dell'immagine">
 <!ENTITY heightEditField.label "Altezza:">
 <!ENTITY heightEditField.accessKey "A">
@@ -64,9 +64,9 @@
 <!ENTITY constrainCheckbox.accessKey "M">
 <!ENTITY constrainCheckbox.tooltip "Mantieni le proporzioni dell'immagine">
 <!ENTITY imagemapBox.label "Mappa immagine">
-<!ENTITY removeImageMapButton.label "Rimuovi">
-<!ENTITY removeImageMapButton.accessKey "R">
-<!ENTITY editImageMapButton.label "Modifica…">
+<!ENTITY removeImageMapButton.label "Elimina">
+<!ENTITY removeImageMapButton.accessKey "E">
+<!ENTITY editImageMapButton.label "Modifica">
 <!ENTITY editImageMapButton.tooltip "Crea aree attive su questa immagine">
 <!ENTITY alignment.label "Allineamento del testo rispetto all'immagine:">
 <!ENTITY bottomPopup.value "alla base">
@@ -83,8 +83,8 @@
 <!ENTITY borderEditField.accessKey "B">
 <!ENTITY showImageLinkBorder.label "Visualizza un bordo attorno all'immagine per indicare la presenza del collegamento">
 <!ENTITY showImageLinkBorder.accessKey "V">
-<!ENTITY imageInputTab.label "Modulo">
-<!ENTITY imageLocationTab.label "Indirizzo">
+<!ENTITY imageInputTab.label "modulo">
+<!ENTITY imageLocationTab.label "Tipo">
 <!ENTITY imageDimensionsTab.label "Dimensioni">
 <!ENTITY imageAppearanceTab.label "Aspetto">
-<!ENTITY imageLinkTab.label "Collegamento">
+<!ENTITY imageLinkTab.label "collegamento">

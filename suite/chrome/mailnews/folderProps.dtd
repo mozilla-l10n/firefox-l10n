@@ -41,7 +41,7 @@
 <!ENTITY folderProps.windowtitle.label "Proprietà">
 <!ENTITY generalInfo.label "Informazioni generali">
 <!ENTITY folderCharsetTab.label "Codifica caratteri predefinita:">
-<!ENTITY folderCharsetTab.accesskey "e">
+<!ENTITY folderCharsetTab.accesskey "C">
 <!ENTITY folderCharsetOverride.label "Applica le impostazioni predefinite a tutti i messaggi nella cartella (le impostazioni di codifica caratteri e la rilevazione automatica del singolo messaggio verranno ignorate)">
 <!ENTITY folderCharsetOverride.accesskey "A">
 <!ENTITY folderRebuildSummaryFileTip2.label "Ricostruisci l'indice">
@@ -49,12 +49,12 @@
 <!ENTITY folderRebuildSummaryFile2.accesskey "R">
 <!ENTITY folderRebuildSummaryFile.explanation "Talvolta il file indice (.msf) della cartella può rovinarsi e i messaggi possono risultare mancanti o continuano ad essere visibili anche se cancellati. Riparando la cartella si può risolvere il problema.">
 <!ENTITY folderIncludeInGlobalSearch.label "Includi i messaggi di questa cartella nei risultati della ricerca globale">
-<!ENTITY folderIncludeInGlobalSearch.accesskey "b">
+<!ENTITY folderIncludeInGlobalSearch.accesskey "I">
 <!ENTITY retention.label "Politica di conservazione">
 <!ENTITY retentionUseAccount.label "Utilizza le impostazioni dell'account">
 <!ENTITY retentionUseAccount.accesskey "U">
 <!ENTITY daysOld.label "giorni">
-<!ENTITY message.label "messaggi più recenti">
+<!ENTITY message.label "messaggi">
 <!ENTITY retentionCleanup.label "Conserva i messaggi:">
 <!ENTITY retentionCleanupImap.label "Conserva i messaggi, sia le copie locali sia gli originali sul server:">
 <!ENTITY retentionCleanupPop.label "Conserva i messaggi, compresi gli originali sul server:">
@@ -69,7 +69,7 @@
 <!ENTITY retentionApplyToFlagged.accesskey "e">
 <!ENTITY folderSynchronizationTab.label "Sincronizzazione">
 <!ENTITY folderCheckForNewMessages2.label "Quando si ricevono nuovi messaggi per questo account, verificare sempre questa cartella">
-<!ENTITY folderCheckForNewMessages2.accesskey "v">
+<!ENTITY folderCheckForNewMessages2.accesskey "Q">
 <!ENTITY offlineFolder.check.label "Seleziona questa cartella per l'uso non in linea">
 <!ENTITY offlineFolder.check.accesskey "S">
 <!ENTITY offlineFolder.button.label "Scarica ora">

@@ -37,6 +37,6 @@
    - ***** END LICENSE BLOCK ***** -->
 <!ENTITY messageMarkByDate.label "Segna messaggi come letti per data">
 <!ENTITY markByDateLower.label "Segna messaggi come letti dal:">
-<!ENTITY markByDateLower.accesskey "d">
+<!ENTITY markByDateLower.accesskey "S">
 <!ENTITY markByDateUpper.accesskey "a">
 <!ENTITY markByDateUpper.label "al:">

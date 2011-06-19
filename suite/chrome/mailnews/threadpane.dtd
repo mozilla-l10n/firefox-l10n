@@ -13,10 +13,10 @@
 <!ENTITY junkStatusColumn.label "Stato spam">
 <!ENTITY unreadColumn.label "Non letti per l'argomento">
 <!ENTITY totalColumn.label "Totali per l'argomento">
-<!ENTITY readColumn.label "Letto">
+<!ENTITY readColumn.label "Lettura">
 <!ENTITY receivedColumn.label "Ricevuto">
 <!ENTITY flagColumn.label "Spuntato">
-<!ENTITY locationColumn.label "Indirizzo">
+<!ENTITY locationColumn.label "Tipo">
 <!ENTITY idColumn.label "Ordine di ricezione">
 <!ENTITY columnChooser.tooltip "Fare clic per selezionare le colonne da visualizzare">
 <!ENTITY threadColumn.tooltip "Fare clic per raggruppare per argomento">

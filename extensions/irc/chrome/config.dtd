@@ -19,7 +19,7 @@
    -
    - Contributor(s):
    -   James Ross <silver@warwickcompsoc.co.uk>
-   -   Giacomo Magnini <giacomo.magnini@mozillaitalia.org>
+   -   
    -
    - Alternatively, the contents of this file may be used under the terms of
    - either the GNU General Public License Version 2 or later (the "GPL"), or
@@ -46,9 +46,9 @@
 <!ENTITY object.del.accesskey "E">
 <!ENTITY object.reset.label "Azzera">
 <!ENTITY object.reset.hint "Riporta le preferenze di questo oggetto allo stato predefinito">
-<!ENTITY object.reset.accesskey "z">
+<!ENTITY object.reset.accesskey "A">
 <!ENTITY dialog.apply "Applica">
-<!ENTITY network "Rete">
+<!ENTITY network "rete">
 <!ENTITY channel "Canale">
 <!ENTITY user "Utente">
 <!ENTITY config.add.title "Aggiungi oggetto preferenze">
@@ -57,7 +57,7 @@
 <!ENTITY config.type.accesskey "T">
 <!ENTITY config.network.label "Rete:">
 <!ENTITY config.network.hint "Nome conosciuto della rete o nome del server">
-<!ENTITY config.network.accesskey "N">
+<!ENTITY config.network.accesskey "R">
 <!ENTITY config.target.label "Obiettivo:">
 <!ENTITY config.target.hint "Canale o nome utente obiettivo">
-<!ENTITY config.target.accesskey "C">
+<!ENTITY config.target.accesskey "O">

@@ -23,11 +23,11 @@
 <!ENTITY accel.emacs_conflict "accel">
 <!ENTITY minimizeWindowCmd.label "Minimizza">
 <!ENTITY minimizeWindowCmd.key "M">
-<!ENTITY zoomWindowCmd.label "Ridimensiona">
+<!ENTITY zoomWindowCmd.label "Zoom testo">
 <!ENTITY openHelpCmd.label "Guida di &brandShortName;">
 <!ENTITY openHelpCmd.accesskey "G">
 <!ENTITY openHelpCmd.key "?">
 <!ENTITY openHelpCmd.modifiers "accel">
 <!ENTITY ctrlKey.label "Ctrl">
-<!ENTITY altKey.label "Option">
+<!ENTITY altKey.label "Opzioni">
 <!ENTITY shiftKey.label "Maiusc">

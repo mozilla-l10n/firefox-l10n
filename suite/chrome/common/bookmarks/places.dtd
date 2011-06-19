@@ -10,7 +10,7 @@
 <!ENTITY view.sort.label "Ordina per">
 <!ENTITY view.sort.accesskey "O">
 <!ENTITY view.unsorted.label "Nessun ordinamento">
-<!ENTITY view.unsorted.accesskey "o">
+<!ENTITY view.unsorted.accesskey "N">
 <!ENTITY view.sortAscending.label "A > Z">
 <!ENTITY view.sortAscending.accesskey "A">
 <!ENTITY view.sortDescending.label "Z > A">
@@ -38,28 +38,28 @@
 <!ENTITY cmd.open.label "Apri">
 <!ENTITY cmd.open.accesskey "A">
 <!ENTITY cmd.open_window.label "Apri in una nuova finestra">
-<!ENTITY cmd.open_window.accesskey "f">
+<!ENTITY cmd.open_window.accesskey "A">
 <!ENTITY cmd.open_tab.label "Apri in una nuova scheda">
-<!ENTITY cmd.open_tab.accesskey "s">
+<!ENTITY cmd.open_tab.accesskey "A">
 <!ENTITY cmd.open_all_in_tabs.label "Apri tutti in schede">
 <!ENTITY cmd.open_all_in_tabs.accesskey "A">
 <!ENTITY cmd.properties.label "Proprietà">
 <!ENTITY cmd.properties.accesskey "P">
 <!ENTITY cmd.sortby_name.label "Ordina per nome">
-<!ENTITY cmd.sortby_name.accesskey "d">
+<!ENTITY cmd.sortby_name.accesskey "O">
 <!ENTITY cmd.new_bookmark.label "Nuovo segnalibro…">
-<!ENTITY cmd.new_bookmark.accesskey "b">
+<!ENTITY cmd.new_bookmark.accesskey "N">
 <!ENTITY cmd.new_folder.label "Nuova cartella…">
-<!ENTITY cmd.new_folder.accesskey "u">
+<!ENTITY cmd.new_folder.accesskey "N">
 <!ENTITY cmd.context_new_folder.accesskey "N">
 <!ENTITY cmd.new_separator.label "Nuovo separatore">
-<!ENTITY cmd.new_separator.accesskey "s">
+<!ENTITY cmd.new_separator.accesskey "N">
 <!ENTITY cmd.reloadLivebookmark.label "Ricarica segnalibro live">
-<!ENTITY cmd.reloadLivebookmark.accesskey "b">
+<!ENTITY cmd.reloadLivebookmark.accesskey "R">
 <!ENTITY cmd.reloadMicrosummary.label "Ricarica titolo live">
-<!ENTITY cmd.reloadMicrosummary.accesskey "t">
+<!ENTITY cmd.reloadMicrosummary.accesskey "R">
 <!ENTITY cmd.moveBookmarks.label "Sposta…">
-<!ENTITY cmd.moveBookmarks.accesskey "o">
+<!ENTITY cmd.moveBookmarks.accesskey "S">
 <!ENTITY col.title.label "Nome">
 <!ENTITY col.tags.label "Etichette">
 <!ENTITY col.url.label "Tipo">
@@ -71,9 +71,9 @@
 <!ENTITY col.lastmodified.label "Ultima modifica">
 <!ENTITY search.label "Cerca:">
 <!ENTITY search.placeholder "Cerca nei segnalibri">
-<!ENTITY search.in.label "Cerca tra:">
+<!ENTITY search.in.label "Cerca in:">
 <!ENTITY search.scopeFolder.label "Cartella selezionata">
-<!ENTITY search.scopeFolder.accesskey "z">
+<!ENTITY search.scopeFolder.accesskey "C">
 <!ENTITY search.scopeBookmarks.label "Segnalibri">
 <!ENTITY search.scopeBookmarks.accesskey "S">
 <!ENTITY saveSearch.label "Salva">
@@ -81,10 +81,10 @@
 <!ENTITY cmd.find.key "f">
 <!ENTITY backButton.tooltip "Vai indietro">
 <!ENTITY forwardButton.tooltip "Vai avanti">
-<!ENTITY detailsPane.more.label "Più dati">
-<!ENTITY detailsPane.more.accesskey "d">
-<!ENTITY detailsPane.fewer.label "Fewer">
-<!ENTITY detailsPane.fewer.accesskey "r">
+<!ENTITY detailsPane.more.label "Più">
+<!ENTITY detailsPane.more.accesskey "P">
+<!ENTITY detailsPane.fewer.label "Meno">
+<!ENTITY detailsPane.fewer.accesskey "M">
 <!ENTITY detailsPane.selectAnItemText.description "Scegli un elemento per visualizzare e modificare le sue proprietà">
 <!ENTITY editBookmark.done.label "Completato">
 <!ENTITY editBookmark.cancel.label "Annulla">

@@ -3,17 +3,17 @@
 <!ENTITY itemHistory.label "Cronologia di navigazione">
 <!ENTITY itemHistory.accesskey "C">
 <!ENTITY itemUrlBar.label "Cronologia barra degli indirizzi">
-<!ENTITY itemUrlBar.accesskey "b">
+<!ENTITY itemUrlBar.accesskey "C">
 <!ENTITY itemDownloads.label "Cronologia dei download">
-<!ENTITY itemDownloads.accesskey "d">
+<!ENTITY itemDownloads.accesskey "C">
 <!ENTITY itemFormSearchHistory.label "Cronologia moduli salvati e ricerca">
-<!ENTITY itemFormSearchHistory.accesskey "m">
+<!ENTITY itemFormSearchHistory.accesskey "C">
 <!ENTITY itemCache.label "Cache">
 <!ENTITY itemCache.accesskey "h">
 <!ENTITY itemCookies.label "Cookie">
-<!ENTITY itemCookies.accesskey "k">
+<!ENTITY itemCookies.accesskey "C">
 <!ENTITY itemOfflineApps.label "Dati non in linea dei siti web">
-<!ENTITY itemOfflineApps.accesskey "n">
+<!ENTITY itemOfflineApps.accesskey "D">
 <!ENTITY itemPasswords.label "Password salvate">
 <!ENTITY itemPasswords.accesskey "P">
 <!ENTITY itemSessions.label "Sessioni con autenticazione">

@@ -3,13 +3,13 @@
 <!ENTITY treehead.status.label "Stato">
 <!ENTITY remove.label "Rimuovi sito">
 <!ENTITY remove.accesskey "R">
-<!ENTITY removeall.label "Rimuovi tutti i siti">
-<!ENTITY removeall.accesskey "t">
+<!ENTITY removeall.label "Elimina tutti i siti">
+<!ENTITY removeall.accesskey "E">
 <!ENTITY address.label "Indirizzo del sito web:">
 <!ENTITY address.accesskey "d">
 <!ENTITY block.label "Blocca">
 <!ENTITY block.accesskey "B">
 <!ENTITY session.label "Accetta per la sessione">
-<!ENTITY session.accesskey "s">
+<!ENTITY session.accesskey "A">
 <!ENTITY allow.label "Accetta">
 <!ENTITY allow.accesskey "A">

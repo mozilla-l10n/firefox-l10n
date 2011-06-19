@@ -1,21 +1,21 @@
-<!ENTITY pref.editing.title "Impostazioni per la nuova pagina">
+<!ENTITY pref.editing.title "Nuova pagina">
 <!ENTITY authorName.label "Autore:">
 <!ENTITY authorName.accesskey "A">
 <!ENTITY pageColorHeader "Aspetto predefinito della pagina">
 <!ENTITY defaultColors.label "Colori predefiniti utente (non modificare i colori nella pagina)">
-<!ENTITY defaultColors.accesskey "d">
+<!ENTITY defaultColors.accesskey "C">
 <!ENTITY customColors.label "Utilizza colori personalizzati:">
 <!ENTITY customColors.accesskey "U">
 <!ENTITY normalText.label "Testo semplice">
 <!ENTITY normalText.accesskey "T">
 <!ENTITY linkText.label "Testo collegamento">
-<!ENTITY linkText.accesskey "c">
+<!ENTITY linkText.accesskey "T">
 <!ENTITY activeLinkText.label "Testo collegamento attivo">
-<!ENTITY activeLinkText.accesskey "v">
+<!ENTITY activeLinkText.accesskey "T">
 <!ENTITY visitedLinkText.label "Testo collegamento visitato">
-<!ENTITY visitedLinkText.accesskey "m">
+<!ENTITY visitedLinkText.accesskey "T">
 <!ENTITY background.label "Sfondo:">
-<!ENTITY background.accesskey "f">
+<!ENTITY background.accesskey "S">
 <!ENTITY colon.character ":">
 <!ENTITY backgroundImage.label "Immagine di sfondo:">
 <!ENTITY backgroundImage.accesskey "I">
