@@ -1,35 +1,35 @@
-<!ENTITY permissionsManager.title        "Permissions Manager">
+<!ENTITY permissionsManager.title        "ਅਧਿਕਾਰ ਮੈਨੇਜਰ">
 
-<!ENTITY sites.search                    "Search Sites">
-<!ENTITY sites.allSites                  "All Sites">
+<!ENTITY sites.search                    "ਖੋਜ ਸਾਇਟਾਂ">
+<!ENTITY sites.allSites                  "ਸਭ ਸਾਇਟਾਂ">
 
 <!-- LOCALIZATION NOTE (permissions.header.start, permissions.header.end): These strings
      surround the host name of the site to make the header for the permissions page.
      example: "Permissions for mozilla.org" -->
-<!ENTITY header.site.start               "Permissions for">
+<!ENTITY header.site.start               "ਅਧਿਕਾਰ ਇਸ ਲਈ">
 <!ENTITY header.site.end                 "">
 
-<!ENTITY header.defaults                 "Default Permissions for All Sites">
+<!ENTITY header.defaults                 "ਸਭ ਸਾਇਟਾਂ ਲਈ ਡਿਫਾਲਟ ਅਧਿਕਾਰ">
 
-<!ENTITY permissions.forgetSite          "Forget About This Site">
+<!ENTITY permissions.forgetSite          "ਇਹ ਸਾਇਟ ਬਾਰੇ ਭੁੱਲ ਜਾਓ">
 
-<!ENTITY permission.alwaysAsk            "Always Ask">
-<!ENTITY permission.allow                "Allow">
-<!ENTITY permission.allowForSession      "Allow for Session">
-<!ENTITY permission.block                "Block">
+<!ENTITY permission.alwaysAsk            "ਹਮੇਸ਼ਾ ਪੁੱਛੋ">
+<!ENTITY permission.allow                "ਮਨਜ਼ੂਰ">
+<!ENTITY permission.allowForSession      "ਸ਼ੈਸ਼ਨ ਲਈ ਮਨਜ਼ੂਰ">
+<!ENTITY permission.block                "ਪਾਬੰਦੀ">
 
-<!ENTITY password.label                  "Store Passwords">
-<!ENTITY password.manage                 "Manage Passwords…">
+<!ENTITY password.label                  "ਸੰਭਾਲੇ ਪਾਸਵਰਡ">
+<!ENTITY password.manage                 "ਪਾਸਵਰਡ ਪਰਬੰਧ…">
 
-<!ENTITY cookie.label                    "Set Cookies">
-<!ENTITY cookie.clear                    "Clear Cookies">
-<!ENTITY cookie.manage                   "Manage Cookies…">
-<!ENTITY cookie.clearAll                 "Clear All Cookies">
+<!ENTITY cookie.label                    "ਕੂਕੀਜ਼ ਸੈੱਟ">
+<!ENTITY cookie.clear                    "ਕੂਕੀਜ਼ ਸਾਫ਼ ਕਰੋ">
+<!ENTITY cookie.manage                   "ਕੂਕੀਜ਼ ਪਰਬੰਧ…">
+<!ENTITY cookie.clearAll                 "ਸਭ ਕੂਕੀਜ਼ ਸਾਫ਼ ਕਰੋ">
 
-<!ENTITY geo.label                       "Share Location">
+<!ENTITY geo.label                       "ਟਿਕਾਣਾ ਸਾਂਝਾ ਕਰੋ">
 
 <!-- LOCALIZATION NOTE (indexedDB.label): This is describing indexedDB storage
      using the same language used for the permIndexedDB string in browser/pageInfo.dtd -->
-<!ENTITY indexedDB.label                 "Maintain Offline Storage">
+<!ENTITY indexedDB.label                 "ਆਫਲਾਇਨ ਸਟੋਰੇਜ਼ ਪਰਬੰਧ">
 
-<!ENTITY popup.label                     "Open Pop-up Windows">
+<!ENTITY popup.label                     "ਪੋਪਅੱਪ ਵਿੰਡੋਜ਼ ਖੋਲ੍ਹੋ">
