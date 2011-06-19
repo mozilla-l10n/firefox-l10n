@@ -37,9 +37,6 @@
 <!ENTITY printCmd.accesskey "u">
 <!ENTITY printCmd.commandkey "p">
 
-<!ENTITY viewMenu.label "Visa">
-<!ENTITY viewMenu.accesskey "V">
-
 <!ENTITY toolbarsCmd.label "Visa/Dölj">
 <!ENTITY toolbarsCmd.accesskey "i">
 <!ENTITY navbarCmd.label "Navigationsfält">
