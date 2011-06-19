@@ -15,14 +15,6 @@
 <!ENTITY cmd.forward.tooltip                  "Pojdi eno stran naprej">
 
 <!-- global warnings -->
-<!ENTITY warning.safemode.label                    "All add-ons have been disabled by safe mode.">
-<!ENTITY warning.checkcompatibility.label          "Add-on compatibility checking is disabled. You may have incompatible add-ons.">
-<!ENTITY warning.checkcompatibility.enable.label   "Enable">
-<!ENTITY warning.checkcompatibility.enable.tooltip "Enable add-on compatibility checking">
-<!ENTITY warning.updatesecurity.label              "Add-on update security checking is disabled. You may be compromised by updates.">
-<!ENTITY warning.updatesecurity.enable.label       "Enable">
-<!ENTITY warning.updatesecurity.enable.tooltip     "Enable add-on update security checking">
-
 <!ENTITY warning.safemode.label                    "Zaradi dela v varnem načinu so vsi dodatki onemogočeni.">
 <!ENTITY warning.checkcompatibility.label          "Preverjanje združljivosti dodatkov je onemogočeno. Mogoče imate nameščene dodatke, ki niso združljivi.">
 <!ENTITY warning.checkcompatibility.enable.label   "Omogoči">
@@ -31,14 +23,13 @@
 <!ENTITY warning.updatesecurity.enable.label       "Omogoči">
 <!ENTITY warning.updatesecurity.enable.tooltip     "Omogoči preverjanje, ali je posodobitev dodatka varna">
 
+<!-- global informations -->
+<!ENTITY info.plugincheck.label                 "Preverite, da so vsi vaši vstavki posodobljeni">
+<!ENTITY info.plugincheck.tooltip               "Preveri, ali so vsi vaši vstavki posodobljeni">
+
 <!-- categories / views -->
 <!ENTITY view.search.label                    "Iskanje">
 <!ENTITY view.discover.label                  "Prenesi dodatke">
-<!ENTITY view.locales.label                   "Jeziki">
-<!ENTITY view.searchengines.label             "Iskalniki">
-<!ENTITY view.features.label                  "Razširitve">
-<!ENTITY view.appearance2.label               "Videz">
-<!ENTITY view.plugins.label                   "Vstavki">
 <!ENTITY view.recentUpdates.label             "Nedavne posodobitve">
 <!ENTITY view.availableUpdates.label          "Nove posodobitve">
 

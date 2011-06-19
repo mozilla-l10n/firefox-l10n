@@ -75,9 +75,9 @@
 <!ENTITY showOffline.accesskey         "O">
 
 <!ENTITY Diskspace "Prostor na disku">
-<!ENTITY offlineCompact.label "Strni mape,  kadar bo to prihranilo več kot">
+<!ENTITY offlineCompact.label "Strni mape, kadar bo to prihranilo več kot">
 <!ENTITY offlineCompact.accesskey "a">
-<!ENTITY kb.label "kB">
+<!ENTITY mb.label "MB">
 
 <!-- LOCALIZATION NOTE:
   The entities useCacheBefore.label and useCacheAfter.label appear on a single
