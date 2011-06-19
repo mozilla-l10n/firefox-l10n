@@ -3,6 +3,7 @@
 <!ENTITY watchThread.label "Vigila la conversa">
 <!ENTITY forwardTo.label "Reenvia-ho a">
 <!ENTITY replyWithTemplate.label "Reenvia-ho amb plantilla">
+<!ENTITY filterEditorDialog.dimensions "width: 110ch;">
 <!ENTITY filterName.label "Nom del filtre:">
 <!ENTITY filterName.accesskey "i">
 
@@ -30,7 +31,6 @@
 <!ENTITY copyMessage.label "Copia el missatge a">
 <!ENTITY markMessageRead.label "Marca'l com a llegit">
 <!ENTITY markMessageStarred.label "Marca'l com a destacat">
-<!ENTITY labelMessage.label "Etiqueta el missatge com">
 <!ENTITY setPriority.label "Defineix la prioritat a">
 <!ENTITY addTag.label "Etiqueta el missatge">
 <!ENTITY setJunkScore.label "Especifica l'estat del correu brossa com a">

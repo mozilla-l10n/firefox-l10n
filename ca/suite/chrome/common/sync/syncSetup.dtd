@@ -3,7 +3,8 @@
 <!-- First page of the wizard -->
 <!ENTITY setup.pickSetupType.description "Us donem la benvinguda, si mai heu fet servir el &syncBrand.fullName.label; abans, caldrà que creeu primer un nou compte.">
 <!ENTITY button.createNewAccount.label "Crea un compte">
-<!ENTITY button.haveAccount.label "Tinc un compte del &syncBrand.fullName.label;">
+<!ENTITY setup.haveAccount.label "Ja tinc un compte del &syncBrand.fullName.label;">
+<!ENTITY button.connect.label "Connecta">
 
 <!ENTITY setup.choicePage.title.label     "Heu fet servir el &syncBrand.fullName.label; abans?">
 <!ENTITY setup.choicePage.new.label       "Mai abans he fet servir el &syncBrand.shortName.label;">
@@ -11,14 +12,16 @@
 
 <!-- New Account AND Existing Account -->
 <!ENTITY server.label               "Servidor">
+<!ENTITY server.accesskey           "S">
 <!ENTITY serverType.main.label      "Servidor del &syncBrand.fullName.label;">
-<!ENTITY serverType.custom.label    "Utilitza un servidor personalitzat…">
-<!ENTITY signIn.account.label       "Adreça electrònica / Nom d'usuari">
-<!ENTITY signIn.account.accesskey   "e">
+<!ENTITY serverType.custom2.label    "Utilitza un servidor personalitzat…">
+<!ENTITY signIn.account2.label       "Compte">
+<!ENTITY signIn.account2.accesskey   "e">
 <!ENTITY signIn.password.label      "Contrasenya">
 <!ENTITY signIn.password.accesskey  "y">
-<!ENTITY signIn.serverURL.label     "URL del servidor">
-<!ENTITY signIn.serverURL.accesskey "S">
+<!ENTITY signIn.syncKey.label       "Clau de sincronització">
+<!ENTITY signIn.syncKey.accesskey   "c">
+
 
 <!-- New Account Page 1: Basic Account Info -->
 <!ENTITY setup.newAccountDetailsPage.title.label "Detalls del compte">
@@ -43,8 +46,6 @@
 <!ENTITY syncKeyEntry.accesskey    "c">
 <!ENTITY syncKeyGenerate.label     "Genera">
 <!ENTITY syncKeyGenerate.accesskey "G">
-<!ENTITY syncKeyStrength.label     "Fortalesa:">
-<!ENTITY syncKeyHelp.label         "Què vol dir 'fortalesa'?">
 <!ENTITY syncKeyBackup.description "La clau de sincronització és necessària per accedir al &syncBrand.fullName.label; en altres màquines. Creeu-ne una còpia de seguretat. No podem ajudar-vos a recuperar la vostra clau de sincronització.">
 
 <!ENTITY button.syncKeyBackup.print.label     "Imprimeix…">
@@ -55,16 +56,25 @@
 <!-- New Account Page 3: Captcha -->
 <!ENTITY setup.captchaPage2.title.label     "Confirmeu que no sou cap robot">
 
-<!-- Existing Account Page 2: Sync Key -->
-<!ENTITY setup.existingSyncKeyPage.title "Introduïu la clau de sincronització">
-<!ENTITY setup.existingSyncKeyPage.description "Se us ha generat una clau de sincronització, o bé heu introduït una pròpia, quan us vàreu registrar per primera vegada al &syncBrand.fullName.label;. No és el mateix que la contrasenya.">
-<!ENTITY existingSyncKeyHelp.description "Podeu trobar una còpia de la clau sincronització anant al vostre altre ordinador i comprovant les contrasenyes desades a la secció de segureta. Si no podeu recuperar la clau de sincronització correcta, podeu optar per reiniciar-la, però però perdreu totes les dades emmagatzemades al servidor.">
-<!ENTITY lostSyncKey.label            "He perdut la clau de sincronització">
-<!ENTITY verifying.label              "S'està verificant…">
+<!-- Existing Account Page 1: Add Device (incl. Add a Device dialog strings) -->
+<!ENTITY addDevice.title.label              "Afegeix un dispositiu">
+<!ENTITY addDevice.showMeHow.label          "Mostra'm com.">
+<!ENTITY addDevice.dontHaveDevice.label     "No tinc cap dispositiu amb mi">
+<!ENTITY addDevice.setup.description.label  "Per activar-lo, aneu a les opcions del &syncBrand.shortName.label; a l'altre dispositiu i seleccioneu «Afegeix un dispositiu».">
+<!ENTITY addDevice.setup.enterCode.label    "A continuació, introduïu aquest codi:">
+<!ENTITY addDevice.dialog.description.label "Per activar el nou dispositiu, aneu a les opcions del &syncBrand.shortName.label; del dispositiu i seleccioneu «Connecta».">
+<!ENTITY addDevice.dialog.enterCode.label   "Introduïu el codi que proporciona el dispositiu:">
+<!ENTITY addDevice.dialog.tryAgain.label    "Torneu-ho a provar.">
+<!ENTITY addDevice.dialog.successful.label  "S'ha afegit el dispositiu amb èxit. La sincronització inicial pot portar uns quants minuts i finalitzarà en segon pla.">
+<!ENTITY addDevice.dialog.syncKey.label     "Per activar el dispositiu, heu d'introduir la clau de sincronització. Imprimiu o deseu la clau i emporteu-vos-la a sobre sempre.">
+<!ENTITY addDevice.dialog.connected.label   "Dispositiu connectat">
 
-<!ENTITY setup.existingAccount.title.label "Introducció d'informació del compte">
+<!-- Existing Account Page 2: Manual Login -->
+<!ENTITY setup.signInPage.title.label "Inicia una sessió">
+<!ENTITY existingSyncKey.description "Podeu obtenir una còpia de la clau de sincronització anant a les opcions del &syncBrand.shortName.label; del vostre altre dispositiu, seleccioneu «La meva clau de sincronització» a «Gestiona el compte».">
+<!ENTITY verifying.label              "S'està verificant…">
 <!ENTITY resetPassword.label          "Reinicia la contrasenya">
-<!ENTITY connecting.label             "S'està connectant…">
+<!ENTITY resetSyncKey.label           "He perdut el meu altre dispositiu.">
 
 <!-- Sync Options -->
 <!ENTITY setup.optionsPage.title      "Opcions de sincronització">
