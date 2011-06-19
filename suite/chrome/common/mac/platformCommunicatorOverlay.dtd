@@ -27,7 +27,6 @@
 <!ENTITY printSetupCmd.label		"Utskriftsformat…">
 <!ENTITY printSetupCmd.accesskey	"o">
 
-<!ENTITY redoCmd.label			"Gör om">
 <!ENTITY redoCmd.key			"Z">  
 
 <!ENTITY historyCmd.key                 "H">  

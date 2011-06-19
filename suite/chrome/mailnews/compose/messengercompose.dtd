@@ -145,25 +145,15 @@
 <!ENTITY spellCheckIgnoreWord.accesskey "I">
 <!ENTITY spellCheckAddToDictionary.label "Lägg till i ordbok">
 <!ENTITY spellCheckAddToDictionary.accesskey "ä">
-<!ENTITY undo.label "Ångra">
-<!ENTITY undo.accesskey "Å">
-<!ENTITY cut.label "Klipp ut">
-<!ENTITY cut.accesskey "K">
-<!ENTITY copy.label "Kopiera">
-<!ENTITY copy.accesskey "o">
-<!ENTITY paste.label "Klistra in">
-<!ENTITY paste.accesskey "l">
 <!ENTITY pasteQuote.label "Klistra in som citat">
 <!ENTITY pasteQuote.accesskey "c">
 
 <!ENTITY openAttachment.label "Öppna">
 <!ENTITY openAttachment.accesskey "Ö">
-<!ENTITY delete.label "Ta bort">
-<!ENTITY delete.accesskey "T">
 <!ENTITY renameAttachment.label "Byt namn…">
 <!ENTITY renameAttachment.accesskey "n">
-<!ENTITY selectAll.label "Markera allt">
-<!ENTITY selectAll.accesskey "M">
+<!ENTITY deleteAttachment.accesskey "T">
+<!ENTITY selectAllAttachments.accesskey "a">
 <!ENTITY attachFile.label "Bifoga fil(er)…">
 <!ENTITY attachFile.accesskey "f">
 <!ENTITY attachPage.label "Bifoga webbsida…">

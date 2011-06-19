@@ -76,10 +76,6 @@
 <!ENTITY saveVideoCmd.accesskey       "d">
 <!ENTITY saveAudioCmd.label           "Spara audio som…">
 <!ENTITY saveAudioCmd.accesskey       "d">
-<!ENTITY copyCmd.label                "Kopiera">
-<!ENTITY copyCmd.accesskey            "o">
-<!ENTITY selectAllCmd.label           "Markera allt">
-<!ENTITY selectAllCmd.accesskey       "M">
 <!ENTITY copyLinkCmd.label            "Kopiera länkadress">
 <!ENTITY copyLinkCmd.accesskey        "K">
 <!ENTITY copyImageCmd.label           "Kopiera bild">
@@ -92,16 +88,6 @@
 <!ENTITY metadataCmd.accesskey        "E">
 <!ENTITY copyEmailCmd.label           "Kopiera e-postadress">
 <!ENTITY copyEmailCmd.accesskey       "e">
-<!ENTITY pasteCmd.label               "Klistra in">
-<!ENTITY pasteCmd.accesskey           "l">
-<!ENTITY cutCmd.label                 "Klipp ut">
-<!ENTITY cutCmd.accesskey             "K">
-<!ENTITY deleteCmd.label              "Ta bort">
-<!ENTITY deleteCmd.accesskey          "T">
-<!ENTITY undoCmd.label                "Ångra">
-<!ENTITY undoCmd.accesskey            "Å">
-<!ENTITY redoCmd.label                "Gör om">
-<!ENTITY redoCmd.accesskey            "G">
 <!ENTITY thisFrameMenu.label          "Denna ram">
 <!ENTITY thisFrameMenu.accesskey      "d">
 <!ENTITY mediaPlay.label              "Spela">
