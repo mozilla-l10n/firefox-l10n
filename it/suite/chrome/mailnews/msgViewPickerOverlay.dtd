@@ -1,15 +1,15 @@
 <!ENTITY viewPicker.label "Vista:">
-<!ENTITY viewPicker.accesskey "t">
+<!ENTITY viewPicker.accesskey "V">
 <!ENTITY viewAll.label "Tutti">
-<!ENTITY viewAll.accesskey "u">
-<!ENTITY viewUnread.label "Non letti">
+<!ENTITY viewAll.accesskey "T">
+<!ENTITY viewUnread.label "Non letto">
 <!ENTITY viewUnread.accesskey "N">
 <!ENTITY viewNotDeleted.label "Non eliminati">
 <!ENTITY viewNotDeleted.accesskey "N">
-<!ENTITY viewTags.label "Tag">
+<!ENTITY viewTags.label "Etichette">
 <!ENTITY viewTags.accesskey "T">
 <!ENTITY viewCustomViews.label "Viste personalizzate">
-<!ENTITY viewCustomViews.accesskey "e">
+<!ENTITY viewCustomViews.accesskey "V">
 <!ENTITY viewVirtualFolder.label "Salva vista come cartella…">
 <!ENTITY viewVirtualFolder.accesskey "S">
 <!ENTITY viewCustomizeView.label "Personalizza…">

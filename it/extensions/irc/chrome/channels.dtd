@@ -19,7 +19,7 @@
    -
    - Contributor(s):
    -   James Ross <silver@warwickcompsoc.co.uk>
-   -   Giacomo Magnini <giacomo.magnini@mozillaitalia.org>
+   -   
    -
    - Alternatively, the contents of this file may be used under the terms of
    - either the GNU General Public License Version 2 or later (the "GPL"), or
@@ -38,13 +38,13 @@
 <!ENTITY qsearch.label "Ricerca rapida:">
 <!ENTITY qsearch.accesskey "R">
 <!ENTITY topics.label "Ricerca tra gli argomenti oltre ai nomi dei canali">
-<!ENTITY topics.accesskey "a">
+<!ENTITY topics.accesskey "R">
 <!ENTITY join.label "Collegati">
 <!ENTITY join.accesskey "C">
 <!ENTITY minusers.label "Utenti min:">
-<!ENTITY minusers.accesskey "n">
+<!ENTITY minusers.accesskey "U">
 <!ENTITY maxusers.label "Utenti max:">
-<!ENTITY maxusers.accesskey "x">
+<!ENTITY maxusers.accesskey "U">
 <!ENTITY refresh.label "Aggiorna ora">
 <!ENTITY refresh.accesskey "A">
 <!ENTITY col.name "Nome">

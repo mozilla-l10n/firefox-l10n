@@ -37,30 +37,30 @@
    -
    - ***** END LICENSE BLOCK ***** -->
 <!ENTITY linkToolbar.label "Barra navigazione sito">
-<!ENTITY linkToolbar.accesskey "t">
+<!ENTITY linkToolbar.accesskey "B">
 <!ENTITY linkToolbarAlways.label "Mostra sempre">
 <!ENTITY linkToolbarAlways.accesskey "M">
 <!ENTITY linkToolbarAsNeeded.label "Mostra solo se necessario">
-<!ENTITY linkToolbarAsNeeded.accesskey "s">
+<!ENTITY linkToolbarAsNeeded.accesskey "M">
 <!ENTITY linkToolbarNever.label "Nascondi sempre">
 <!ENTITY linkToolbarNever.accesskey "N">
-<!ENTITY topButton.label "Inizio">
-<!ENTITY upButton.label "Sali">
+<!ENTITY topButton.label "In alto">
+<!ENTITY upButton.label "Su">
 <!ENTITY firstButton.label "Primo">
 <!ENTITY prevButton.label "Precedente">
-<!ENTITY nextButton.label "Prossimo">
+<!ENTITY nextButton.label "Successiva">
 <!ENTITY lastButton.label "Ultimo">
 <!ENTITY documentButton.label "Documento">
-<!ENTITY tocButton.label "Indice argomenti">
+<!ENTITY tocButton.label "Indice degli argomenti">
 <!ENTITY chapterButton.label "Capitoli">
 <!ENTITY sectionButton.label "Sezioni">
 <!ENTITY subSectionButton.label "Sottosezioni">
 <!ENTITY appendixButton.label "Appendici">
 <!ENTITY glossaryButton.label "Glossario">
 <!ENTITY indexButton.label "Indice">
-<!ENTITY moreButton.label "Altro">
+<!ENTITY moreButton.label "Più">
 <!ENTITY helpButton.label "Guida">
-<!ENTITY searchButton.label "Ricerca">
+<!ENTITY searchButton.label "Cerca">
 <!ENTITY authorButton.label "Autori">
 <!ENTITY copyrightButton.label "Copyright">
 <!ENTITY bookmarkButton.label "Segnalibri">

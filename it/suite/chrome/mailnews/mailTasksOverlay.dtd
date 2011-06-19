@@ -7,7 +7,7 @@
 <!ENTITY taskMessenger.tooltip "Posta e gruppi di discussione">
 <!ENTITY taskAddressBook.tooltip "Rubrica">
 <!ENTITY searchAddressesCmd.label "Cerca indirizzi…">
-<!ENTITY searchAddressesCmd.accesskey "i">
-<!ENTITY searchMailCmd.label "Cerca messaggi…">
-<!ENTITY searchMailCmd.accesskey "m">
+<!ENTITY searchAddressesCmd.accesskey "C">
+<!ENTITY searchMailCmd.label "Cerca nei messaggi…">
+<!ENTITY searchMailCmd.accesskey "C">
 <!ENTITY searchMailCmd.key "f">

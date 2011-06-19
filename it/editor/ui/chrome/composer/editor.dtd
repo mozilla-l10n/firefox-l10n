@@ -20,7 +20,7 @@
    - the Initial Developer. All Rights Reserved.
    -
    - Contributor(s):
-   -   Giacomo Magnini <giacomo.magnini@mozillaitalia.org>
+   -   
    -
    - Alternatively, the contents of this file may be used under the terms of
    - either of the GNU General Public License Version 2 or later (the "GPL"),
@@ -38,31 +38,31 @@
 <!ENTITY editorWindow.titlemodifier "Composer">
 <!ENTITY editorWindow.titlemodifiermenuseparator " - ">
 <!ENTITY compositionToolbar.tooltip "Barra di composizione">
-<!ENTITY previewToolbarCmd.label "Browse">
-<!ENTITY previewToolbarCmd.tooltip "Load this page in the browser">
-<!ENTITY exportToTextCmd.label "Export to Text…">
-<!ENTITY exportToTextCmd.accesskey "T">
-<!ENTITY previewCmd.label "Browse Page">
-<!ENTITY previewCmd.accesskey "w">
-<!ENTITY sendPageCmd.label "Send Page…">
-<!ENTITY sendPageCmd.accesskey "d">
+<!ENTITY previewToolbarCmd.label "Sfoglia">
+<!ENTITY previewToolbarCmd.tooltip "Carica questa pagina nel browser">
+<!ENTITY exportToTextCmd.label "Esporta come testo…">
+<!ENTITY exportToTextCmd.accesskey "E">
+<!ENTITY previewCmd.label "Sfoglia pagina">
+<!ENTITY previewCmd.accesskey "S">
+<!ENTITY sendPageCmd.label "Spedisci pagina…">
+<!ENTITY sendPageCmd.accesskey "S">
 <!ENTITY compositionToolbarCmd.label "Barra di composizione">
-<!ENTITY compositionToolbarCmd.accesskey "c">
+<!ENTITY compositionToolbarCmd.accesskey "B">
 <!ENTITY formattingToolbarCmd.label "Barra di formattazione">
-<!ENTITY formattingToolbarCmd.accesskey "f">
+<!ENTITY formattingToolbarCmd.accesskey "B">
 <!ENTITY editmodeToolbarCmd.label "Barra in modalità modifica">
-<!ENTITY editmodeToolbarCmd.accesskey "m">
+<!ENTITY editmodeToolbarCmd.accesskey "B">
 <!ENTITY formatMenu.label "Formato">
-<!ENTITY formatMenu.accesskey "o">
+<!ENTITY formatMenu.accesskey "F">
 <!ENTITY grid.label "Griglia di posizionamento">
 <!ENTITY grid.accesskey "G">
 <!ENTITY pageProperties.label "Titolo pagina e proprietà…">
-<!ENTITY pageProperties.accesskey "n">
+<!ENTITY pageProperties.accesskey "T">
 <!ENTITY validateCmd.label "Convalida HTML">
-<!ENTITY validateCmd.accesskey "H">
+<!ENTITY validateCmd.accesskey "C">
 <!ENTITY NormalModeTab.label "Normale">
 <!ENTITY NormalMode.label "Modalità modifica normale">
-<!ENTITY NormalMode.accesskey "n">
+<!ENTITY NormalMode.accesskey "M">
 <!ENTITY NormalMode.tooltip "Mostra i bordi delle tabelle e le ancore">
 <!ENTITY AllTagsModeTab.label "Tag HTML">
 <!ENTITY AllTagsMode.label "Tag HTML">
@@ -71,7 +71,7 @@
 <!ENTITY HTMLSourceModeTab.dir "ltr">
 <!ENTITY HTMLSourceModeTab.label "Origine">
 <!ENTITY HTMLSourceMode.label "Sorgente HTML">
-<!ENTITY HTMLSourceMode.accesskey "H">
+<!ENTITY HTMLSourceMode.accesskey "S">
 <!ENTITY HTMLSourceMode.tooltip "Modifica il sorgente HTML">
 <!ENTITY PreviewModeTab.label "Anteprima">
 <!ENTITY PreviewMode.label "Anteprima">

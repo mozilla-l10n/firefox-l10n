@@ -2,7 +2,7 @@
 <!ENTITY window.title "Modifica filtro">
 <!ENTITY filterEditorDialog.dimensions "width: 105ch;">
 <!ENTITY filterName.label "Nome filtro:">
-<!ENTITY filterName.accesskey "f">
+<!ENTITY filterName.accesskey "N">
 <!ENTITY junk.label "Spam">
 <!ENTITY notJunk.label "Non spam">
 <!ENTITY lowestPriorityCmd.label "Minima">

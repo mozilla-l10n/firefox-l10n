@@ -22,7 +22,7 @@
    -
    - Contributor(s):
    -   Robert Ginda, <rginda@netscape.com>, original author
-   -   Giacomo Magnini <giacomo.magnini@mozillaitalia.org>
+   -   
    -
    - Alternatively, the contents of this file may be used under the terms of
    - either the GNU General Public License Version 2 or later (the "GPL"), or
@@ -73,7 +73,7 @@
 <!ENTITY WatchCol2.header "Valore">
 <!ENTITY WatchCol3.header "Flag">
 <!ENTITY Windows.label "Finestre attive">
-<!ENTITY WindowsCol0.label "File">
+<!ENTITY WindowsCol0.label "Scelta file">
 <!ENTITY BPProps.URL.label "URL">
 <!ENTITY BPProps.Line.label "Riga">
 <!ENTITY BPProps.PC.label "PC">

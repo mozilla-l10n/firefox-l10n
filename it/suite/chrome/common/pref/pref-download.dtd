@@ -3,21 +3,21 @@
 <!ENTITY focusWhenStarting.label "Fai lampeggiare la gestione download se è già aperta, altrimenti:">
 <!ENTITY focusWhenStarting.accesskey "F">
 <!ENTITY openDM.label "Apri Gestione download">
-<!ENTITY openDM.accesskey "d">
+<!ENTITY openDM.accesskey "A">
 <!ENTITY openProgressDialog.label "Apri una finestra con lo stato del download">
 <!ENTITY openProgressDialog.accesskey "A">
 <!ENTITY doNothing.label "Non aprire nulla">
-<!ENTITY doNothing.accesskey "o">
+<!ENTITY doNothing.accesskey "N">
 <!ENTITY downloadLocation.label "Prima di salvare un file">
 <!ENTITY saveTo.label "Salva file in">
 <!ENTITY saveTo.accesskey "v">
 <!ENTITY chooseDownloadFolder.label "Scegli cartella…">
-<!ENTITY chooseDownloadFolder.accesskey "c">
+<!ENTITY chooseDownloadFolder.accesskey "S">
 <!ENTITY alwaysAsk.label "Chiedi sempre dove salvare i file">
-<!ENTITY alwaysAsk.accesskey "h">
+<!ENTITY alwaysAsk.accesskey "C">
 <!ENTITY downloadHistory.label "Cronologia dei download">
 <!ENTITY removeEntries.label "Rimuovi i download fatti">
-<!ENTITY removeEntries.accesskey "w">
+<!ENTITY removeEntries.accesskey "R">
 <!ENTITY whenCompleted.label "Quando sono terminati">
 <!ENTITY whenQuittingApp.label "Alla chiusura di &brandShortName;">
 <!ENTITY neverRemove.label "Mai">
@@ -29,4 +29,4 @@
 <!ENTITY browse.label "Scegli…">
 <!ENTITY browse.accesskey "S">
 <!ENTITY playButton.label "Riproduci">
-<!ENTITY playButton.accesskey "u">
+<!ENTITY playButton.accesskey "R">

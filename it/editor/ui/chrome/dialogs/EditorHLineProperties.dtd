@@ -20,7 +20,7 @@
    - the Initial Developer. All Rights Reserved.
    -
    - Contributor(s):
-   -   Giacomo Magnini <giacomo.magnini@mozillaitalia.org>
+   -   
    -
    - Alternatively, the contents of this file may be used under the terms of
    - either of the GNU General Public License Version 2 or later (the "GPL"),
@@ -45,12 +45,12 @@
 <!ENTITY alignmentBox.label "Allineamento">
 <!ENTITY leftRadio.label "Sinistra">
 <!ENTITY leftRadio.accessKey "S">
-<!ENTITY centerRadio.label "Centra">
+<!ENTITY centerRadio.label "Centro">
 <!ENTITY centerRadio.accessKey "C">
 <!ENTITY rightRadio.label "Destra">
 <!ENTITY rightRadio.accessKey "D">
 <!ENTITY threeDShading.label "In rilievo">
 <!ENTITY threeDShading.accessKey "I">
 <!ENTITY saveSettings.label "Salva impostazioni">
-<!ENTITY saveSettings.accessKey "M">
+<!ENTITY saveSettings.accessKey "S">
 <!ENTITY saveSettings.tooltip "Ricorda le impostazioni correnti per successivi separatori">

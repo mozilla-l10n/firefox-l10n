@@ -4,6 +4,6 @@
 <!ENTITY name.autopick.label "Prendi un nome in automatico per me">
 <!ENTITY name.autopick.accesskey "P">
 <!ENTITY source.label "Sorgente:">
-<!ENTITY source.accesskey "r">
+<!ENTITY source.accesskey "S">
 <!ENTITY browse.label "Scegli…">
 <!ENTITY browse.accesskey "S">

@@ -20,7 +20,7 @@
    -
    - Contributor(s):
    -   Daniel Glazman (glazman@netscape.com) (Original author)
-   -   Giacomo Magnini <giacomo.magnini@mozillaitalia.org>
+   -   
    -
    - Alternatively, the contents of this file may be used under the terms of
    - either the GNU General Public License Version 2 or later (the "GPL"), or
@@ -38,6 +38,6 @@
 <!ENTITY windowTitle.label "Aderenza alla griglia">
 <!ENTITY enableSnapToGrid.label "attiva aderenza alla griglia">
 <!ENTITY enableSnapToGrid.accessKey "a">
-<!ENTITY sizeEditField.label "Dimensione griglia:">
+<!ENTITY sizeEditField.label "Dimensione:">
 <!ENTITY sizeEditField.accessKey "D">
 <!ENTITY pixelsLabel.value "pixel">

@@ -8,16 +8,16 @@
 <!ENTITY disableCookies.accesskey "B">
 <!ENTITY cookieRetentionPolicy.label "Politica di memorizzazione cookie">
 <!ENTITY acceptNormally.label "Accetta i cookie normalmente">
-<!ENTITY acceptNormally.accesskey "k">
+<!ENTITY acceptNormally.accesskey "A">
 <!ENTITY acceptForSession.label "Accetta solo per la sessione attuale">
 <!ENTITY acceptForSession.accesskey "s">
 <!ENTITY acceptforNDays.label "Accetta i cookie per">
-<!ENTITY acceptforNDays.accesskey "e">
+<!ENTITY acceptforNDays.accesskey "A">
 <!ENTITY days.label "giorni">
 <!ENTITY warnAboutCookies.label "Chiedi per ogni cookie">
-<!ENTITY warnAboutCookies.accesskey "h">
+<!ENTITY warnAboutCookies.accesskey "C">
 <!ENTITY forCurrentSession.label "eccetto per i cookie di sessione">
-<!ENTITY forCurrentSession.accesskey "c">
+<!ENTITY forCurrentSession.accesskey "e">
 <!ENTITY manageCookies.label "Gestione cookie e siti">
 <!ENTITY manageCookiesDescription.label "Permette di visualizzare e gestire i cookie memorizzati e le impostazioni per ogni singolo sito per l'accettazione o il blocco dei cookie. Le impostazioni per singolo sito avranno la precedenza sulle impostazioni in alto.">
 <!ENTITY viewCookies.label "Gestione cookie">

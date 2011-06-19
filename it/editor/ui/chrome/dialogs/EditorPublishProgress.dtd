@@ -21,7 +21,7 @@
    -
    - Contributor(s):
    -   Charles Manske (cmanske@netscape.com)
-   -   Giacomo Magnini <giacomo.magnini@mozillaitalia.org>
+   -   
    -
    - Alternatively, the contents of this file may be used under the terms of
    - either of the GNU General Public License Version 2 or later (the "GPL"),
@@ -41,7 +41,7 @@
 <!ENTITY otherSubdir.label "Percorso immagini:">
 <!ENTITY status.label "Pubblicazione in corso…">
 <!ENTITY fileList.label "Stato pubblicazione">
-<!ENTITY succeeded.label "Riuscita">
-<!ENTITY failed.label "Non riuscita">
+<!ENTITY succeeded.label "Verificato">
+<!ENTITY failed.label "Non riuscito">
 <!ENTITY keepOpen "Mantieni aperta questa finestra anche a pubblicazione completata.">
 <!ENTITY closeButton.label "Chiudi">
