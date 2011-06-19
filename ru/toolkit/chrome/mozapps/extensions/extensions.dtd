@@ -146,3 +146,4 @@
 <!ENTITY eula.width "560px">
 <!ENTITY eula.height "400px">
 <!ENTITY eula.accept "Принять и установить…">
+<!ENTITY settings.path.button.label "Обзор…">
