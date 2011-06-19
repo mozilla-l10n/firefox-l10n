@@ -81,10 +81,10 @@
 
 <!ENTITY allowRemoteContent1.label "Allow remote content.">
 <!ENTITY allowRemoteContent1.accesskey "r">
-<!ENTITY allowRemoteContent1.tooltip "In HTML messages it is possible to
-embed content from remote sources. Opening such a message will open a
-connection to this external source. This may allow tracking of the
-message being read. Checking this box will allow such external embedded
+<!ENTITY allowRemoteContent1.tooltip "In HTML messages it is possible to 
+embed content from remote sources. Opening such a message will open a 
+connection to this external source. This may allow tracking of the 
+message being read. Checking this box will allow such external embedded 
 content in HTML messages from this contact.">
 
 <!ENTITY WorkPhone.label "Munkahelyi:">
@@ -102,8 +102,8 @@ content in HTML messages from this contact.">
 <!ENTITY Home.accesskey "O">
 <!ENTITY HomeAddress.label "Cím:">
 <!ENTITY HomeAddress.accesskey "C">
-<!ENTITY HomeAddress2.label "Cím 2:">
-<!ENTITY HomeAddress2.accesskey "C">
+<!ENTITY HomeAddress2.label "">
+<!ENTITY HomeAddress2.accesskey "">
 <!ENTITY HomeCity.label "Város:">
 <!ENTITY HomeCity.accesskey "V">
 <!ENTITY HomeState.label "Állam/tartomány:">
@@ -132,8 +132,8 @@ content in HTML messages from this contact.">
 <!ENTITY Company.accesskey "S">
 <!ENTITY WorkAddress.label "Cím:">
 <!ENTITY WorkAddress.accesskey "C">
-<!ENTITY WorkAddress2.label "Cím 2:">
-<!ENTITY WorkAddress2.accesskey "C">
+<!ENTITY WorkAddress2.label "">
+<!ENTITY WorkAddress2.accesskey "">
 <!ENTITY WorkCity.label "Város:">
 <!ENTITY WorkCity.accesskey "V">
 <!ENTITY WorkState.label "Állam/tartomány:">
@@ -172,4 +172,4 @@ content in HTML messages from this contact.">
 <!ENTITY PhotoURL.accesskey "b">
 <!ENTITY PhotoURL.placeholder "Paste or type the web address of a photo">
 <!ENTITY UpdatePhoto.label "Update">
-<!ENTITY UpdatePhoto.accesskey "u">
+<!ENTITY UpdatePhoto.accesskey "U">

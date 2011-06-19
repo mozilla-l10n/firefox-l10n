@@ -11,5 +11,9 @@
 <!ENTITY enableAutomaticImageResizing.accesskey "N">
 <!ENTITY useSmoothScroll.label "Finom görgetés">
 <!ENTITY useSmoothScroll.accesskey "F">
+<!ENTITY allowHWAccel.label "Use hardware acceleration when available">
+<!ENTITY allowHWAccel.accesskey "e">
 <!ENTITY textZoomOnly.label "csak a szöveg nagyítása a teljes oldal helyett">
 <!ENTITY textZoomOnly.accesskey "c">
+<!ENTITY blockAutoRefresh.label "Warn me when web sites try to redirect or reload the page">
+<!ENTITY blockAutoRefresh.accesskey "W">

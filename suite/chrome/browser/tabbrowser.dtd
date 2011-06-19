@@ -13,5 +13,6 @@
 <!ENTITY bookmarkGroup.accesskey "k">
 <!ENTITY closeTabButton.tooltip "Aktuális lap bezárása">
 <!ENTITY newTabButton.tooltip "Új böngészőlap megnyitása">
+<!ENTITY listAllTabs.tooltip "Minden lap felsorolása">
 <!ENTITY undoCloseTab.label "Lapbezárás visszavonása">
 <!ENTITY undoCloseTab.accesskey "v">

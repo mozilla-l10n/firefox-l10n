@@ -46,8 +46,8 @@
 <!ENTITY col.title.label "Cím">
 <!ENTITY col.title.accesskey "T">
 <!ENTITY col.url.label "Hely">
-<!ENTITY col.url.accesskey "L">
+<!ENTITY col.url.accesskey "l">
 <!ENTITY col.lastvisit.label "Utoljára látogatva">
-<!ENTITY col.lastvisit.accesskey "V">
+<!ENTITY col.lastvisit.accesskey "v">
 <!ENTITY col.visitcount.label "Látogatások száma">
 <!ENTITY col.visitcount.accesskey "C">

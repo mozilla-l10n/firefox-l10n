@@ -22,6 +22,7 @@
 <!ENTITY ssl.label "SSL">
 <!ENTITY certs.label "Certificates">
 <!ENTITY validation.label "Validation">
+<!ENTITY sync.label "Sync">
 <!ENTITY advance.label "Haladó">
 <!ENTITY down.label "Letöltés">
 <!ENTITY cache.label "Gyorsítótár">
@@ -30,6 +31,7 @@
 <!ENTITY smart.label "Szoftvertelepítés">
 <!ENTITY download.label "Letöltések">
 <!ENTITY keynav.label "Navigálás a billentyűzettel">
+<!ENTITY findAsYouType.label "Find As You Type">
 <!ENTITY search.label "Internetes keresés">
 <!ENTITY policies.label "Biztonsági házirend">
 <!ENTITY mousewheel.label "Egérgörgő">

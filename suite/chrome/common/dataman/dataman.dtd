@@ -57,14 +57,14 @@
 
 <!ENTITY data.search.key "k">
 
-<!ENTITY tab.cookies.label "Cookies">
-<!ENTITY tab.permissions.label "Permissions">
-<!ENTITY tab.preferences.label "Preferences">
-<!ENTITY tab.passwords.label "Passwords">
+<!ENTITY tab.cookies.label "Sütik">
+<!ENTITY tab.permissions.label "Engedélyek">
+<!ENTITY tab.preferences.label "Beállítások">
+<!ENTITY tab.passwords.label "Jelszavak">
 <!ENTITY tab.formdata.label "Form Data">
 <!ENTITY tab.forget.label "Forget">
-
 <!-- cookies -->
+
 <!ENTITY cookies.description "This domain has stored the following cookies on your computer:">
 
 <!ENTITY cookies.tree.host.label "Website">
@@ -91,8 +91,8 @@
 
 <!ENTITY cookies.blockOnRemove.label "When removing, block the listed websites from setting future cookies">
 <!ENTITY cookies.blockOnRemove.accesskey "W">
-
 <!-- permissions -->
+
 <!ENTITY perm.UseDefault "Use Default">
 <!ENTITY perm.AskAlways "Always ask">
 <!ENTITY perm.NeverSave "Never save">
@@ -103,8 +103,8 @@
 <!ENTITY perm.host.placeholder "Enter a host name">
 <!ENTITY perm.button.add.label "Add">
 <!ENTITY perm.button.add.accesskey "A">
-
 <!-- preferences -->
+
 <!ENTITY prefs.description "Content preferences are a way for &brandShortName; to save its settings, like zoom levels, specifically for a website.">
 
 <!ENTITY prefs.tree.host.label "Website">
@@ -118,8 +118,8 @@
 
 <!ENTITY prefs.button.remove.label "Remove">
 <!ENTITY prefs.button.remove.accesskey "R">
-
 <!-- passwords -->
+
 <!ENTITY pwd.description "You have the following passwords stored for this domain:">
 
 <!ENTITY pwd.tree.host.label "Website">
@@ -135,8 +135,8 @@
 
 <!ENTITY pwd.button.remove.label "Remove">
 <!ENTITY pwd.button.remove.accesskey "R">
-
 <!-- form data -->
+
 <!ENTITY fdata.search.placeholder "Search Field Data">
 
 <!ENTITY fdata.tree.fieldname.label "Field Name">
@@ -152,8 +152,8 @@
 
 <!ENTITY fdata.button.remove.label "Remove">
 <!ENTITY fdata.button.remove.accesskey "R">
-
 <!-- forget -->
+
 <!ENTITY forget.cookies.label "Cookies">
 <!ENTITY forget.cookies.accesskey "C">
 <!ENTITY forget.permissions.label "Permissions">

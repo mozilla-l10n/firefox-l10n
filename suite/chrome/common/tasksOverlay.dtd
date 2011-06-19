@@ -33,15 +33,24 @@
 <!ENTITY passwordDisplayCmd.accesskey "M">
 
 <!ENTITY passwordExpireCmd.label "Log Out">
-<!ENTITY passwordExpireCmd.accesskey "l">
+<!ENTITY passwordExpireCmd.accesskey "L">
 
 <!ENTITY downloadManagerCmd.label "Letöltéskezelő">
 <!ENTITY downloadManagerCmd.accesskey "L">
 <!ENTITY downloadManagerCmd.commandkey "j">
 
-<!ENTITY addonsManagerCmd.label "Kiegészők">
-<!ENTITY addonsManagerCmd.accesskey "K">
-<!ENTITY addonsManagerCmd.commandkey "a">
+<!ENTITY addOnsManagerCmd.label "Add-ons Manager">
+<!ENTITY addOnsManagerCmd.accesskey "A">
+<!ENTITY addOnsManagerCmd.commandkey "a">
 
 <!ENTITY switchProfileCmd.label "Profilváltás…">
 <!ENTITY switchProfileCmd.accesskey "P">
+
+<!ENTITY syncBrand.shortName.label "Sync">
+<!-- LOCALIZATION NOTE (syncSetup.accesskey, syncSyncNowItem.accesskey):
+     Only one of these will show at a time (based on setup state),
+     so reusing accesskey is ok. -->
+<!ENTITY syncSetup.label "Set Up Sync…">
+<!ENTITY syncSetup.accesskey "S">
+<!ENTITY syncSyncNowItem.label "Sync Now">
+<!ENTITY syncSyncNowItem.accesskey "S">

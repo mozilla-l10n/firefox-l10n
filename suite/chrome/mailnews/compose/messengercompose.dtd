@@ -80,7 +80,7 @@
 <!ENTITY quoteCmd.label "Üzenet idézése">
 <!ENTITY quoteCmd.accesskey "z">
 <!ENTITY selectAddressCmd.label "Címek kiválasztása...">
-<!ENTITY selectAddressCmd.key "C">
+<!ENTITY selectAddressCmd.key "">
 <!ENTITY selectAddressCmd.accesskey "C">
 
 <!ENTITY checkSpellingCmd2.label "Check Spelling…">
@@ -145,25 +145,15 @@
 <!ENTITY spellCheckIgnoreWord.accesskey "k">
 <!ENTITY spellCheckAddToDictionary.label "Hozzáadás a szótárhoz">
 <!ENTITY spellCheckAddToDictionary.accesskey "H">
-<!ENTITY undo.label "Visszavonás">
-<!ENTITY undo.accesskey "V">
-<!ENTITY cut.label "Kivágás">
-<!ENTITY cut.accesskey "K">
-<!ENTITY copy.label "Másolás">
-<!ENTITY copy.accesskey "M">
-<!ENTITY paste.label "Beillesztés">
-<!ENTITY paste.accesskey "B">
 <!ENTITY pasteQuote.label "Beillesztés idézetként">
 <!ENTITY pasteQuote.accesskey "i">
 
 <!ENTITY openAttachment.label "Megnyitás">
 <!ENTITY openAttachment.accesskey "M">
-<!ENTITY delete.label "Törlés">
-<!ENTITY delete.accesskey "T">
 <!ENTITY renameAttachment.label "Átnevezés">
 <!ENTITY renameAttachment.accesskey "n">
-<!ENTITY selectAll.label "Mindet kijelöli">
-<!ENTITY selectAll.accesskey "d">
+<!ENTITY deleteAttachment.accesskey "D">
+<!ENTITY selectAllAttachments.accesskey "A">
 <!ENTITY attachFile.label "Fájl(ok) csatolása...">
 <!ENTITY attachFile.accesskey "F">
 <!ENTITY attachPage.label "Weboldal csatolása...">
