@@ -87,3 +87,10 @@
 <!ENTITY featureConfigurator.previousButton "E mëparshmja">
 <!ENTITY featureConfigurator.nextButton "Pasuesja">
 <!ENTITY featureConfigurator.closeButton "Anuloje">
+
+<!-- LOCALIZATION NOTE (featureConfigurator.addOn.downloading): The text to display while downloading the addon. -->
+<!ENTITY featureConfigurator.addOn.downloading "Po shkarkohet…">
+
+<!-- LOCALIZATION NOTE (featureConfigurator.addOn.failure): The text to display when there is a problem installing the addon. -->
+<!ENTITY featureConfigurator.addOn.failure "Pati një problem me instalimin e këtij zgjerimi!">
+

@@ -24,7 +24,6 @@
 <!ENTITY templatesFolderOn.accesskey "G">
 <!ENTITY templateInOtherFolder.label "Tjetër:">
 <!ENTITY templateInOtherFolder.accesskey "e">
-<!ENTITY specialFoldersTitle.label "Skica dhe Gjedhe">
 <!ENTITY keepTemplates.label "Gjedhet për mesazhe mbaji në:">
 <!ENTITY fccReplyFollowsParent.label "Vendose përgjigjen te dosja e mesazhit të cilit po i përgjigjem">
 <!ENTITY fccReplyFollowsParent.accesskey "V">

@@ -187,19 +187,22 @@
 <!ENTITY spellingButton.label "Drejtshkrim">
 <!ENTITY saveButton.label "Ruaje">
 
-
 <!-- Mail Toolbar Tooltips -->
-<!ENTITY sendButton.tooltip "Dërgoje këtë mesazh tani"> 
-<!ENTITY sendlaterButton.tooltip "Dërgoje këtë mesazh më vonë"> 
-<!ENTITY quoteButton.tooltip "Përmend mesazhin e mëparshëm"> 
+<!ENTITY sendButton.tooltip "Dërgojeni këtë mesazh tani"> 
+<!ENTITY sendlaterButton.tooltip "Dërgojeni këtë mesazh më vonë"> 
+<!ENTITY quoteButton.tooltip "Citoni mesazhin e mëparshëm"> 
 <!ENTITY addressButton.tooltip "Përzgjidhni marrës prej një Libri Adresash"> 
 <!ENTITY attachButton.tooltip "Përfshini një bashkangjitje"> 
-<!ENTITY saveButton.tooltip "Ruaje këtë mesazh"> 
-<!ENTITY cutButton.tooltip              "Prije">
-<!ENTITY copyButton.tooltip             "Kopjoje">
-<!ENTITY pasteButton.tooltip            "Ngjite">
+<!ENTITY spellingButton.tooltip "Kontrolloni drejtshkrimin e përzgjedhjes ose të krejt mesazhit">
+<!ENTITY saveButton.tooltip "Ruajeni këtë mesazh"> 
+<!ENTITY cutButton.tooltip              "Prijeni">
+<!ENTITY copyButton.tooltip             "Kopjojeni">
+<!ENTITY pasteButton.tooltip            "Ngjiteni">
 
 <!-- Headers -->
+<!--LOCALIZATION NOTE headersSpace.style is for aligning  the From:, To: and
+    Subject: rows. It should be larger than the largest Header label  -->
+<!ENTITY headersSpace.style "width: 9em;">
 <!ENTITY fromAddr.label "Prej:">
 <!ENTITY fromAddr.accesskey "r">
 <!ENTITY toAddr.label "Për:"> 
