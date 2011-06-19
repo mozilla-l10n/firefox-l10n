@@ -1,6 +1,6 @@
 <!-- extracted from am-copies.xul -->
 
-<!ENTITY copyAndFolderTitle.label "Copies &amp; Folders">
+<!ENTITY copyAndFolderTitle.label "Kopije &amp; mape">
 <!ENTITY sendingPrefix.label "Ko se pošilja ssporočila, samodejno: ">
 <!ENTITY fccMailFolder.label "Vloži kopijo v:">
 <!ENTITY fccMailFolder.accesskey "V">
@@ -21,21 +21,26 @@
 <!ENTITY sentFolderOn.accesskey "P">
 <!ENTITY sentInOtherFolder.label "Drugo:">
 <!ENTITY sentInOtherFolder.accesskey "O">
+<!-- LOCALIZATION NOTE (archivesFolderOn.label): OK to translate this, bug #57440 -->
+<!ENTITY archivesTitle.label "Arhivi za sporočila">
+<!ENTITY keepArchives.label "Arhive za sporočila hraniti v:">
+<!ENTITY keepArchives.accesskey "H">
+<!ENTITY archiveHierarchyButton.label "Možnosti za arhive…">
+<!ENTITY archiveHierarchyButton.accesskey "M">
+<!ENTITY archivesFolderOn.label "mapa &quot;Arhivi&quot; na:">
+<!ENTITY archivesFolderOn.accesskey "A">
+<!ENTITY archiveInOtherFolder.label "Drugo:">
+<!ENTITY archiveInOtherFolder.accesskey "d">
 <!-- LOCALIZATION NOTE (draftsFolderOn.label): OK to translate this, bug #57440 -->
 <!ENTITY draftsFolderOn.label "mapa &quot;Osnutki&quot; na:">
 <!ENTITY draftsFolderOn.accesskey "O">
 <!ENTITY draftInOtherFolder.label "Drugo:">
 <!ENTITY draftInOtherFolder.accesskey "u">
-<!-- LOCALIZATION NOTE (archivesFolderOn.label): OK to translate this, bug #57440 -->
-<!ENTITY archivesFolderOn.label "mapa &quot;Arhivi&quot; na:">
-<!ENTITY archivesFolderOn.accesskey "A">
-<!ENTITY archiveInOtherFolder.label "Drugo:">
-<!ENTITY archiveInOtherFolder.accesskey "d">
 <!-- LOCALIZATION NOTE (templatesFolderOn.label): OK to translate this, bug #57440 -->
-<!ENTITY templatesFolderOn.label "mapa &quot;Predloge&quot; Folder na:">
-<!ENTITY templatesFolderOn.accesskey "G">
+<!ENTITY templatesFolderOn.label "mapa &quot;Predloge&quot; na:">
+<!ENTITY templatesFolderOn.accesskey "m">
 <!ENTITY templateInOtherFolder.label "Drugo:">
-<!ENTITY templateInOtherFolder.accesskey "s">
+<!ENTITY templateInOtherFolder.accesskey "d">
 <!ENTITY specialFolders.label "Osnutki, arhivi in predloge">
 <!ENTITY keepDrafts.label "Osnutke za sporočila shranjuj v:">
 <!ENTITY keepArchives.label "Arhive za sporočila shranjuj v:">

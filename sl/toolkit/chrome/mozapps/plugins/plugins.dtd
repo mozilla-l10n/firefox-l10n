@@ -20,9 +20,13 @@
 <!ENTITY pluginWizard.finalPage.moreInfo.label "Več o dodatkih in ročnem iskanju.">
 <!ENTITY pluginWizard.finalPage.restart.label "&brandShortName; morate ponovno zagnati, preden bodo novi dodatki začeli delovati.">
   
-<!ENTITY missingPlugin.label "Kliknite tukaj za prenos dodatka.">
-<!ENTITY disabledPlugin.label                                "Vstavek za to vsebino je bil onemogočen. Kliknite tukaj za upravljanje vstavkov.">
-<!ENTITY blockedPlugin.label                                 "Ta vstavek je bil zavrnjen iz varnostnih razlogov.">
+<!ENTITY missingPlugin "Za prikaz te vsebine je potreben vstavek.">
+<!ENTITY disabledPlugin                               "Ta vstavek je onemogočen.">
+<!ENTITY blockedPlugin.label                                 "Ta vstavek se je za vašo varnost onemogočilo.">
+
+<!ENTITY installPlugin                                       "Namesti vstavek…">
+<!ENTITY managePlugins                                       "Urejaj vstavke…">
+
 <!-- LOCALIZATION NOTE (reloadPlugin.pre): include a trailing space as needed -->
 <!-- LOCALIZATION NOTE (reloadPlugin.middle): avoid leading/trailing spaces, this text is a link -->
 <!-- LOCALIZATION NOTE (reloadPlugin.post): include a starting space as needed -->
