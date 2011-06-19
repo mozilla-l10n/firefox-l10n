@@ -50,7 +50,6 @@
 <!ENTITY addonShowPage.label "Přejít na stránku">
 
 <!ENTITY downloadsHeader.label "Stahování">
-
 <!ENTITY downloadShowPage.label "Přejít na stránku">
 <!ENTITY downloadShow2.label "Najít">
 <!ENTITY downloadOpen2.label "Otevřít">
@@ -107,6 +106,7 @@
 <!ENTITY pageactions.saveas.pdf "Uložit jako PDF">
 <!ENTITY pageactions.share.page "Sdílet stránku">
 <!ENTITY pageactions.password.forget "Zapomenout heslo">
+<!ENTITY pageactions.quit "Ukončit">
 <!ENTITY pageactions.reset "Vymazat předvolby serveru">
 <!ENTITY pageactions.findInPage "Hledat ve stránce">
 <!ENTITY pageactions.search.addNew "Přidat vyhledávací modul">
