@@ -1,5 +1,5 @@
-<!ENTITY windowTitle.label "Asistente para cuentas">
-<!ENTITY accountWizard.size "width: 45em; height: 42em;">
+<!ENTITY windowTitle.label "Asistente de cuentas">
+<!ENTITY accountWizard.size "width: 42em; height: 38em;">
 <!ENTITY accountSetupInfo.label "Para poder recibir mensajes, primero tiene que configurar una cuenta de correo o noticias.">
 <!ENTITY accountTypeTitle.label "Configuración de nueva cuenta">
 <!ENTITY accountTypeDesc.label "Este asistente recogerá la información necesaria para configurar una cuenta de correo o noticias. Si desconoce la información que se le pide, por favor póngase en contacto con el administrador del sistema o su proveedor de Internet.">
@@ -9,14 +9,14 @@
 <!ENTITY accountTypeNews.label "Cuenta de noticias">
 <!ENTITY accountTypeNews.accesskey "n">
 <!ENTITY identityTitle.label "Identidad">
-<!ENTITY identityDesc.label "Cada cuenta tiene una identidad, que es la información que le identifica a usted ante otros cuando ellos reciben sus mensajes.">
+<!ENTITY identityDesc.label "Cada cuenta tiene una identidad, que es la información que le identifica a usted ante otros cuando reciben sus mensajes.">
 <!ENTITY fullnameDesc.label "Introduzca el nombre que quiere que aparezca en el campo &quot;De&quot; al enviar mensajes">
 <!ENTITY fullnameExample.label "(por ejemplo, &quot;José Pérez&quot;).">
 <!ENTITY fullnameLabel.label "Su nombre:">
 <!ENTITY fullnameLabel.accesskey "S">
 <!ENTITY emailLabel.label "Dirección de correo electrónico:">
 <!ENTITY emailLabel.accesskey "E">
-<!ENTITY serverTitle.label "Información de servidor">
+<!ENTITY serverTitle.label "Información del servidor">
 <!ENTITY incomingServerTypeDesc.label "Seleccione el tipo de servidor de entrada que está utilizando.">
 <!ENTITY incomingServerNameDesc.label "Introduzca el nombre de su servidor de entrada (por ejemplo, &quot;mail.ejemplo.net&quot;).">
 <!ENTITY incomingServerLabel.label "Servidor de entrada:">
@@ -31,10 +31,8 @@
 <!ENTITY imapType.accesskey "I">
 <!ENTITY popType.label "POP">
 <!ENTITY popType.accesskey "P">
-<!ENTITY leaveMsgsOnSrvr.label "Dejar los mensajes en el servidor">
-<!ENTITY leaveMsgsOnSrvr.accesskey "D">
 <!ENTITY haveSmtp1.prefix "Su servidor de salida (SMTP) existente, &quot;">
-<!ENTITY haveSmtp1.suffix2 "&quot;, se usará. Puede cambiar los servidores de salida en la configuración de las cuentas.">
+<!ENTITY haveSmtp1.suffix2 "&quot; se usará. Puede modificar la configuración del servidor de salida eligiendo Configuración de cuentas de correo y noticias del menú Editar.">
 <!ENTITY loginTitle.label "Nombres de usuario">
 <!ENTITY usernameDesc.label "Introduzca el nombre de usuario entrante facilitado por su proveedor de correo electrónico ">
 <!ENTITY usernameExample.label "(por ejemplo, &quot;jperez&quot;).">
@@ -43,10 +41,10 @@
 <!ENTITY usernameSmtpDesc.label "Introduzca el nombre de usuario saliente facilitado por su proveedor de correo electrónico (normalmente es el mismo que el entrante).">
 <!ENTITY usernameSmtpLabel.label "Nombre de usuario saliente:">
 <!ENTITY usernameSmtpLabel.accesskey "O">
-<!ENTITY haveSmtp2.prefix "Se usará su nombre de usuario saliente (SMTP) existente, &quot;">
-<!ENTITY haveSmtp2.suffix2 "&quot;, se usará. Puede cambiar los servidores de salida en la configuración de las cuentas.">
+<!ENTITY haveSmtp2.prefix "Su nombre de usuario saliente (SMTP) existente, &quot;">
+<!ENTITY haveSmtp2.suffix2 "&quot; se usará. Puede modificar la configuración del servidor de salida eligiendo Configuración de cuentas de correo y noticias del menú Editar.">
 <!ENTITY haveSmtp3.prefix "Su servidor saliente (SMTP), &quot;">
-<!ENTITY haveSmtp3.suffix2 "&quot;, es idéntico a su servidor de entrada, por lo que se usará su nombre de usuario de entrada para acceder a él. Puede cambiar los servidores de salida en la configuración de las cuentas.">
+<!ENTITY haveSmtp3.suffix2 "&quot;, es idéntico a su servidor de entrada, por lo que se usará su nombre de usuario de entrada para acceder a él. Puede modificar la configuración del servidor de salida eligiendo Configuración de cuentas de correo y noticias del menú Editar.">
 <!ENTITY accnameTitle.label "Nombre de la cuenta">
 <!ENTITY accnameDesc.label "Introduzca el nombre por el que desea referirse a esta cuenta (por ejemplo, &quot;Cuenta del trabajo&quot;, &quot;Cuenta de casa&quot; o &quot;Cuenta de noticias&quot;).">
 <!ENTITY accnameLabel.label "Nombre de la cuenta:">
@@ -59,8 +57,8 @@
 <!ENTITY newsServerNamePrefix.label "Nombre del servidor de noticias (NNTP):">
 <!ENTITY downloadOnLogin.label "Descargar mensajes ahora">
 <!ENTITY downloadOnLogin.accesskey "D">
-<!ENTITY deferStorageDesc.label "Desmarque esta casilla para guardar el correo de esta cuenta en su propio directorio. Esto hará que esta cuenta aparezca como una cuenta del nivel principal. Si no, formará parte de la cuenta de la bandeja de entrada global en las carpetas locales.">
-<!ENTITY deferStorage.label "Usar la bandeja de entrada global (almacenar en las carpetas locales)">
+<!ENTITY deferStorageDesc.label "Marque esta casilla para guardar el correo de esta cuenta en la bandeja de entrada global de la cuenta Carpetas locales. En caso contrario aparecerá como una cuenta de nivel superior y su correo se guardará en su propio directorio.">
+<!ENTITY deferStorage.label "Usar band. entrada global (guardar msj. en Carpetas locales)">
 <!ENTITY deferStorage.accesskey "G">
-<!ENTITY clickFinish.label "Pulse el botón Finalizar para guardar estas configuraciones y salir del asistente de cuentas.">
-<!ENTITY clickFinish.labelMac "Pulse Terminado para guardar estos valores y salir del asistente de cuentas.">
+<!ENTITY clickFinish.label "Seleccione Finalizar para guardar estas configuraciones y salir del asistente de cuentas.">
+<!ENTITY clickFinish.labelMac "Seleccione Terminado para guardar estas configuraciones y salir del asistente de cuentas.">
