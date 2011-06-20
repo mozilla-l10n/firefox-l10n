@@ -1,0 +1,35 @@
+<!ENTITY permissionsManager.title        "Рұқсаттарды басқарушысы">
+
+<!ENTITY sites.search                    "Сайттарды іздеу">
+<!ENTITY sites.allSites                  "Барлық сайттар">
+
+<!-- LOCALIZATION NOTE (permissions.header.start, permissions.header.end): These strings
+     surround the host name of the site to make the header for the permissions page.
+     example: "Permissions for mozilla.org" -->
+<!ENTITY header.site.start               "Келесі үшін рұқсаттар">
+<!ENTITY header.site.end                 "">
+
+<!ENTITY header.defaults                 "Барлық сайттар үшін бастапқы рұқсаттар">
+
+<!ENTITY permissions.forgetSite          "Бұл сайт туралы ұмыту">
+
+<!ENTITY permission.alwaysAsk            "Әрқашан сұрау">
+<!ENTITY permission.allow                "Рұқсат ету">
+<!ENTITY permission.allowForSession      "Сессия үшін рұқсат ету">
+<!ENTITY permission.block                "Блоктау">
+
+<!ENTITY password.label                  "Парольдерді сақтау">
+<!ENTITY password.manage                 "Парольдерді басқару…">
+
+<!ENTITY cookie.label                    "Cookies орнату">
+<!ENTITY cookie.clear                    "Cookies тазарту">
+<!ENTITY cookie.manage                   "Cookies басқару…">
+<!ENTITY cookie.clearAll                 "Барлық Cookies өшіру">
+
+<!ENTITY geo.label                       "Орналасуды жариялау">
+
+<!-- LOCALIZATION NOTE (indexedDB.label): This is describing indexedDB storage
+     using the same language used for the permIndexedDB string in browser/pageInfo.dtd -->
+<!ENTITY indexedDB.label                 "Дербес сақтау қорын басқару">
+
+<!ENTITY popup.label                     "Атып шығатын терезерді рұқсат ету">
