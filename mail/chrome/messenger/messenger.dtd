@@ -5,10 +5,15 @@
 <!-- File Menu -->
 <!ENTITY newFolderCmd.label "폴더…">
 <!ENTITY newFolderCmd.accesskey "F">
-<!ENTITY closeTabCmd.label "탭 닫기">
-<!ENTITY closeTabCmd.accesskey "e">
-<!ENTITY closeOtherTabsCmd.label "현재 탭외 모두 닫기">
-<!ENTITY closeOtherTabsCmd.accesskey "L">
+<!ENTITY closeTabCmd2.label "탭 닫기">
+<!ENTITY closeTabCmd2.accesskey "C">
+<!ENTITY closeOtherTabsCmd2.label "다른 탭 닫기">
+<!ENTITY closeOtherTabsCmd2.accesskey "o">
+<!ENTITY recentlyClosedTabsCmd.label "최근에 닫은 탭">
+<!ENTITY recentlyClosedTabsCmd.accesskey "R">
+<!ENTITY undoCloseTabCmd.commandkey "T">
+<!ENTITY moveToNewWindow.label "새로운 창으로 이동">
+<!ENTITY moveToNewWindow.accesskey "W">
 <!ENTITY newVirtualFolderCmd.label "저장된 메시지 검색…">
 <!ENTITY newVirtualFolderCmd.accesskey "S">
 <!ENTITY newOtherAccountsCmd.label "기타 계정…">
@@ -26,7 +31,6 @@
 <!ENTITY saveAsFileCmd.key "s">
 <!ENTITY saveAsTemplateCmd.label "템플릿">
 <!ENTITY saveAsTemplateCmd.accesskey "T">
-<!ENTITY getNewMsgCmd.key "t">
 <!ENTITY getNewMsgForCmd.label "새 메시지 받기">
 <!ENTITY getNewMsgForCmd.accesskey "w">
 <!ENTITY getAllNewMsgCmdPopupMenu.label "모든 계정">
@@ -71,14 +75,12 @@
 <!ENTITY deleteMsgCmd.accesskey "D">
 <!ENTITY undeleteMsgCmd.label "메시지 삭제 취소">
 <!ENTITY undeleteMsgCmd.accesskey "d">
-<!ENTITY cancelNewsMsgCmd.label "메시지 취소">
-<!ENTITY cancelNewsMsgCmd.accesskey "M">
 <!ENTITY deleteMsgsCmd.label "선택한 메시지 삭제">
 <!ENTITY deleteMsgsCmd.accesskey "D">
 <!ENTITY undeleteMsgsCmd.label "선택한 메시지 삭제 취소">
 <!ENTITY undeleteMsgsCmd.accesskey "d">
-<!ENTITY cancelNewsMsgsCmd.label "선택한 메시지 취소">
-<!ENTITY cancelNewsMsgsCmd.accesskey "n">
+<!ENTITY cancelNewsMsgCmd.label "선택한 메시지 취소">
+<!ENTITY cancelNewsMsgCmd.accesskey "n">
 <!ENTITY deleteFolderCmd.label "폴더 삭제">
 <!ENTITY deleteFolderCmd.accesskey "D">
 <!ENTITY unsubscribeNewsgroupCmd.label "구독 해지">
@@ -189,7 +191,7 @@
 <!ENTITY expandAllThreadsCmd.key "*">
 <!ENTITY collapseAllThreadsCmd.label "모든 글타래 감추기">
 <!ENTITY collapseAllThreadsCmd.accesskey "C">
-<!ENTITY collapseAllThreadsCmd.key "\">
+<!ENTITY collapseAllThreadsCmd.key "\\">
 <!ENTITY unreadMsgsCmd.label "읽지 않은 메일">
 <!ENTITY unreadMsgsCmd.accesskey "U">
 <!ENTITY threadsWithUnreadCmd.label "읽지 않은 글타래">
@@ -301,8 +303,13 @@ you can use these alternative items. Otherwise, their values should be empty. --
 <!ENTITY goBackCmd.commandKey "[">
 <!ENTITY prevStarredMsgCmd.label "별표 메시지">
 <!ENTITY prevStarredMsgCmd.accesskey "S">
-<!ENTITY startPageCmd.label "메일 시작 페이지">
-<!ENTITY startPageCmd.accesskey "S">
+<!ENTITY folderMenu.label "폴더">
+<!ENTITY folderMenu.accesskey "O">
+<!ENTITY thisFolder.label "현재 폴더">
+<!ENTITY thisFolder.accesskey "F">
+<!ENTITY goRecentlyClosedTabs.label "최근에 닫은 탭">
+<!ENTITY startPageCmd.label		"시작 페이지">
+<!ENTITY startPageCmd.accesskey		"S">
 
 <!-- Message Menu -->
 <!ENTITY msgMenu.label "메시지">
@@ -377,9 +384,11 @@ you can use these alternative items. Otherwise, their values should be empty. --
 <!ENTITY tagCmd9.key "9">
 <!ENTITY markMenu.label "표시">
 <!ENTITY markMenu.accesskey "k">
+<!ENTITY toggleReadCmd.key		"m">
 <!ENTITY markAsReadCmd.label "읽은 상태로 표시">
 <!ENTITY markAsReadCmd.accesskey "R">
-<!ENTITY markAsReadCmd.key "m">
+<!ENTITY markAsUnreadCmd.label "읽지 않은 상태로 표시">
+<!ENTITY markAsUnreadCmd.accesskey "U">
 <!ENTITY markThreadAsReadCmd.label "글타래 읽음 표시">
 <!ENTITY markThreadAsReadCmd.accesskey "T">
 <!ENTITY markThreadAsReadCmd.key "r">
@@ -450,7 +459,6 @@ you can use these alternative items. Otherwise, their values should be empty. --
 <!ENTITY getMsgButton.tooltip "새 메시지 받기">
 <!ENTITY getAllNewMsgCmd.label "새 메시지 모두 받기">
 <!ENTITY getAllNewMsgCmd.accesskey "G">
-<!ENTITY getAllNewMsgCmd.key "t">
 <!ENTITY newMsgButton.tooltip "새 메시지 쓰기">
 <!ENTITY replyButton.tooltip "메시지 회신">
 <!ENTITY replyAllButton.tooltip "모든 받은 사람에게 회신">
@@ -507,7 +515,7 @@ you can use these alternative items. Otherwise, their values should be empty. --
 <!ENTITY SearchNameOrEmail.accesskey "N">
 
 <!-- Gloda Search Bar -->
-<!ENTITY glodaSearchBar.emptyText "메시지 검색…">
+<!ENTITY glodaSearchBar.placeholder "메시지 검색…">
 
 <!ENTITY searchSubjectMenu.label "제목">
 <!ENTITY searchRecipient.label "받는 사람 또는 참조">
@@ -594,9 +602,11 @@ you can use these alternative items. Otherwise, their values should be empty. --
 <!ENTITY junkInfoButton.label "?">
 
 <!--  MDN Bar  -->
-<!ENTITY mdnBarMessage.label		"보낸 사람이  이 메세지 열람 확인을 받기를 원하고 있습니다. 송신자에게 당신이 읽었다는 확인 정보를 보내시겠습니까?">
-<!ENTITY mdnBarIgnoreButton.label	"무시">
-<!ENTITY mdnBarSendButton.label		"보내기">
+<!ENTITY mdnBarIgnoreButton2.label	"무시">
+<!ENTITY mdnBarIgnoreButton2.accesskey "I">
+<!ENTITY mdnBarSendButton2.label		"읽음 확인 보내기">
+<!ENTITY mdnBarSendButton2.accesskey "S">
+
 <!ENTITY quickSearchCmd.key "k">
 
 <!ENTITY searchAllMessages.label.base	"모든 메세지 검색... #1">
@@ -625,6 +635,8 @@ you can use these alternative items. Otherwise, their values should be empty. --
 <!ENTITY CreateFilterFrom.accesskey "F">
 <!ENTITY reportPhishingURL.label "사기 메일 보고">
 <!ENTITY reportPhishingURL.accesskey "o">
+<!ENTITY spellAddDictionaries.label "맞춤법 사전 추가…">
+<!ENTITY spellAddDictionaries.accesskey "A">
 <!ENTITY statusText.label "문서 완료">
 <!ENTITY minimizeWindow.key "m">
 <!ENTITY minimizeWindow.label "창 최소화">
@@ -705,20 +717,13 @@ you can use these alternative items. Otherwise, their values should be empty. --
 
 <!ENTITY phishingBarMessage2.label "사기 의심 메일 입니다.">
 <!ENTITY removePhishingBarButton1.label "경고 무시">
+<!ENTITY disablePhishingWarning1.label "모든 메시지에 대해 사기 의심 메일 검색 해제">
 <!ENTITY reportPhishingError1.label "사기 메일이 아닙니다.">
 
 <!ENTITY saveLinkAsCmd.label "다른 이름으로 링크 저장…">
 <!ENTITY saveLinkAsCmd.accesskey "k">
 <!ENTITY saveImageAsCmd.label "다른 이름으로 그림 저장…">
 <!ENTITY saveImageAsCmd.accesskey "v">
-<!ENTITY cutCmd.label "잘라내기">
-<!ENTITY cutCmd.accesskey "u">
-<!ENTITY copyCmd.label "복사">
-<!ENTITY copyCmd.accesskey "C">
-<!ENTITY pasteCmd.label "붙여넣기">
-<!ENTITY pasteCmd.accesskey "P">
-<!ENTITY selectAllCmd.label "모두 선택">
-<!ENTITY selectAllCmd.accesskey "A">
 <!ENTITY copyLinkCmd.label "링크 주소 복사">
 <!ENTITY copyLinkCmd.accesskey "C">
 <!ENTITY copyImageAllCmd.label "그림 복사">

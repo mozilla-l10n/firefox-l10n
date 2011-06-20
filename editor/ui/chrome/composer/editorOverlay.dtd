@@ -23,14 +23,8 @@
 <!ENTITY publishCmd.key "S">
 <!ENTITY publishAsCmd.label "다른 이름으로 공개…">
 <!ENTITY publishAsCmd.accesskey "h">
-<!ENTITY exportToTextCmd.label "텍스트로 변환…">
-<!ENTITY exportToTextCmd.accesskey "T">
 <!ENTITY saveAsChangeEncodingCmd.label "문자 인코딩 변경 및 저장">
 <!ENTITY saveAsChangeEncodingCmd.accesskey "E">
-<!ENTITY previewCmd.label "페이지 탐색">
-<!ENTITY previewCmd.accesskey "w">
-<!ENTITY sendPageCmd.label "페이지 보내기…">
-<!ENTITY sendPageCmd.accesskey "d">
 <!ENTITY printSetupCmd.label "인쇄 화면 설정…">
 <!ENTITY printSetupCmd.accesskey "u">
 <!ENTITY printCmd.label "인쇄…">
@@ -68,8 +62,6 @@
 <!ENTITY checkSpellingCmd2.label "맞춤법 검사">
 <!ENTITY checkSpellingCmd2.accesskey "h">
 <!ENTITY checkSpellingCmd2.key "p">
-<!ENTITY validateCmd.label "HTML 검사">
-<!ENTITY validateCmd.accesskey "v">
 <!ENTITY insertMenu.label "삽입">
 <!ENTITY insertMenu.accesskey "i">
 <!ENTITY insertLinkCmd.label "링크…">
@@ -249,6 +241,7 @@
 <!ENTITY alignJustify.label "양쪽 맞춤">
 <!ENTITY alignJustify.accesskey "j">
 <!ENTITY alignJustify.tooltip "양쪽으로 맞춤">
+<!ENTITY alignJustifyButton.tooltip "좌우 여백에 따라 맞춤">
 <!ENTITY layer.tooltip "레이어">
 <!ENTITY layerSendToBack.tooltip "뒤로 보내기">
 <!ENTITY layerBringToFront.tooltip "앞으로 보내기">
@@ -258,10 +251,6 @@
 <!ENTITY decreaseIndent.label "들여쓰기 감소">
 <!ENTITY decreaseIndent.accesskey "D">
 <!ENTITY decreaseIndent.key "-">
-<!ENTITY grid.label "그리드 맞추기">
-<!ENTITY grid.accesskey "t">
-<!ENTITY pageProperties.label "페이지 제목 및 설정…">
-<!ENTITY pageProperties.accesskey "g">
 <!ENTITY colorsAndBackground.label "페이지 색상 및 배경…">
 <!ENTITY colorsAndBackground.accesskey "u">
 <!ENTITY tableMenu.label "표">
@@ -315,15 +304,13 @@
 <!ENTITY tableProperties.label "표 설정…">
 <!ENTITY tableProperties.accesskey "o">
 <!ENTITY menuBar.tooltip "도구 모음">
-<!ENTITY compositionToolbar.tooltip "일반 도구 모음">
 <!ENTITY formatToolbar.tooltip "서식 도구 모음">
 <!ENTITY newToolbarCmd.tooltip "새 편집 페이지 만들기">
+<!ENTITY newToolbarCmd.label "새로 만들기">
 <!ENTITY openToolbarCmd.label "열기">
 <!ENTITY openToolbarCmd.tooltip "로컬 파일 열기">
 <!ENTITY saveToolbarCmd.tooltip "로컬 경로에 파일 저장">
 <!ENTITY publishToolbarCmd.tooltip "외부 경로로 파일 보내기">
-<!ENTITY previewToolbarCmd.label "탐색">
-<!ENTITY previewToolbarCmd.tooltip "현재 페이지 브라우저로 읽기">
 <!ENTITY printToolbarCmd.label "인쇄">
 <!ENTITY printToolbarCmd.tooltip "페이지 인쇄">
 <!ENTITY findToolbarCmd.label "찾기">
@@ -359,20 +346,7 @@
 <!ENTITY alignCenterButton.tooltip "가운데로 맞춤">
 <!ENTITY alignRightButton.tooltip "오른쪽으로 맞춤">
 <!ENTITY alignjustifyButton.tooltip "양쪽으로 맞춤">
-<!ENTITY NormalModeTab.label "기본">
-<!ENTITY NormalMode.label "일반 편집 모드">
-<!ENTITY NormalMode.accesskey "n">
-<!ENTITY NormalMode.tooltip "표 테두리와 내부 링크 보이기">
-<!ENTITY AllTagsMode.label "모든 태그 보이기">
-<!ENTITY AllTagsMode.accesskey "A">
-<!ENTITY AllTagsMode.tooltip "HTML 태그 아이콘 보이기">
-<!ENTITY HTMLSourceMode.label "HTML 소스">
 <!ENTITY SourceMode.label "소스">
-<!ENTITY HTMLSourceMode.accesskey "h">
-<!ENTITY HTMLSourceMode.tooltip "HTML 편집">
-<!ENTITY PreviewMode.label "미리 보기">
-<!ENTITY PreviewMode.accesskey "p">
-<!ENTITY PreviewMode.tooltip "WYSIWYG으로 브라우저에 표시">
 <!ENTITY SourceTabDirection "ltr">
 <!ENTITY structSelect.label "선택">
 <!ENTITY structSelect.accesskey "s">

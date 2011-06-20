@@ -64,14 +64,39 @@
 <!ENTITY openAttachmentCmd.accesskey "O">
 <!ENTITY saveAsAttachmentCmd.label "다른 이름으로 저장…">
 <!ENTITY saveAsAttachmentCmd.accesskey "A">
-<!ENTITY detachAttachmentCmd.label "첨부 삭제…">
+<!ENTITY detachAttachmentCmd.label "첨부 분리…">
+<!ENTITY detachAttachmentCmd.accesskey "T">
 <!ENTITY deleteAttachmentCmd.label "삭제">
+<!ENTITY deleteAttachmentCmd.accesskey "L">
+<!ENTITY openAllAttachmentsCmd.label		"모두 열기…">
+<!ENTITY openAllAttachmentsCmd.accesskey	"O">
 <!ENTITY saveAllAttachmentsCmd.label "모두 저장…">
 <!ENTITY saveAllAttachmentsCmd.accesskey "S">
-<!ENTITY detachAllAttachmentsCmd.label "모든 첨부 삭제…">
+<!ENTITY detachAllAttachmentsCmd.label "모든 첨부 분리…">
 <!ENTITY detachAllAttachmentsCmd.accesskey "D">
 <!ENTITY deleteAllAttachmentsCmd.label "모두 삭제…">
 <!ENTITY deleteAllAttachmentsCmd.accesskey "E">
+
+<!ENTITY saveAttachmentButton.label "저장">
+<!ENTITY saveAttachmentButton.tooltip "첨부 파일을 저장합니다">
+<!ENTITY saveAllAttachmentsButton.label "모두 저장">
+<!ENTITY saveAllAttachmentsButton.tooltip "첨부된 모든 파일을 저장합니다">
+<!ENTITY openAttachmentMenuItem.label "열기">
+<!ENTITY openAttachmentMenuItem.accesskey "o">
+<!ENTITY saveAsAttachmentMenuItem.label "다른 이름으로 저장…">
+<!ENTITY saveAsAttachmentMenuItem.accesskey "s">
+<!ENTITY detachAttachmentMenuItem.label "분리…">
+<!ENTITY detachAttachmentMenuItem.accesskey "d">
+<!ENTITY deleteAttachmentMenuItem.label "삭제">
+<!ENTITY deleteAttachmentMenuItem.accesskey "e">
+<!ENTITY openAllAttachmentsMenuItem.label	"모두 열기…">
+<!ENTITY openAllAttachmentsMenuItem.accesskey	"o">
+<!ENTITY saveAllAttachmentsMenuItem.label "모두 저장…">
+<!ENTITY saveAllAttachmentsMenuItem.accesskey "s">
+<!ENTITY detachAllAttachmentsMenuItem.label "모든 분리…">
+<!ENTITY detachAllAttachmentsMenuItem.accesskey "d">
+<!ENTITY deleteAllAttachmentsMenuItem.label "삭제…">
+<!ENTITY deleteAllAttachmentsMenuItem.accesskey "e">
 
 <!ENTITY copyLinkCmd.label "링크 주소 복사">
 <!ENTITY copyLinkCmd.accesskey "C">
