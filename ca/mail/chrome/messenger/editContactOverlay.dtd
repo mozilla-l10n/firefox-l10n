@@ -15,3 +15,5 @@
 
 <!ENTITY editContactPanelDone.label "Fet">
 <!ENTITY editContactPanelDone.accesskey "F">
+
+<!ENTITY contactMoveDisabledWarning.description "No podeu canviar la llibreta d'adreces perquè el contacte està en una llista de correu.">
