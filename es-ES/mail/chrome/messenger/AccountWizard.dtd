@@ -31,6 +31,8 @@
 <!ENTITY imapType.accesskey "I">
 <!ENTITY popType.label "POP">
 <!ENTITY popType.accesskey "P">
+<!ENTITY leaveMsgsOnSrvr.label "Dejar los mensajes en el servidor">
+<!ENTITY leaveMsgsOnSrvr.accesskey "m">
 <!ENTITY haveSmtp1.prefix "Su servidor de salida (SMTP) existente, &quot;">
 <!ENTITY haveSmtp1.suffix2 "&quot;, se usará. Puede cambiar los servidores de salida en la configuración de las cuentas.">
 <!ENTITY loginTitle.label "Nombres de usuario">
