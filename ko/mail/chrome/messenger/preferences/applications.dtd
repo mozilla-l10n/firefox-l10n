@@ -7,7 +7,7 @@
 <!ENTITY  focusSearch1.key            "f">
 <!ENTITY  focusSearch2.key            "k">
 
-<!ENTITY  filter.emptytext            "검색">
+<!ENTITY  filter.placeholder           "검색하기">
 
 <!ENTITY saveTo.label                 "저장 경로:">
 <!ENTITY saveTo.accesskey             "S">
