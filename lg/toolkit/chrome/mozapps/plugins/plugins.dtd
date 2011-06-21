@@ -19,13 +19,17 @@
 
 <!ENTITY pluginWizard.finalPage.moreInfo.label               "Zuula ebirara ebikwata ku byongerwamu oba wenonyeze ebyongerwamu ebibulamu.">
 <!ENTITY pluginWizard.finalPage.restart.label                "&brandShortName; yetagisa okutandika buto obwongerezebwaako(s) okusobola okukola.">
-  
-<!ENTITY missingPlugin.label                                 "Kona wano okutikula ebyongerwamu.">
-<!ENTITY disabledPlugin.label                                "Ekyongerwamu ekyebiwandiko bino kiziyiziddwa. Koona ku tegeka ebyongerwamu byo.">
+
+<!ENTITY missingPlugin                                       "Ekyongerwako kyetagisa okulaga ebirimuno.">
+<!ENTITY disabledPlugin                                      "Ekyongerwamu kigiddwako.">
 <!ENTITY blockedPlugin.label                                 "Ekyongerwamu kyino kyiziyiziddwa kulw'obukumi bwo.">
+
+<!ENTITY installPlugin                                       "Teeka mu ekyongerwako…">
+<!ENTITY managePlugins                                       "Ddukanya ebyongerwako…">
 <!-- LOCALIZATION NOTE (reloadPlugin.pre): include a trailing space as needed -->
 <!-- LOCALIZATION NOTE (reloadPlugin.middle): avoid leading/trailing spaces, this text is a link -->
 <!-- LOCALIZATION NOTE (reloadPlugin.post): include a starting space as needed -->
+
 <!ENTITY reloadPlugin.pre                                    "">
 <!ENTITY reloadPlugin.middle                                 "Tandika omuko buto">
 <!ENTITY reloadPlugin.post                                   "kuddamu kugezaako">

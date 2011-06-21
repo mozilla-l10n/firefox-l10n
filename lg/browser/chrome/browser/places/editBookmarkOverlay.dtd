@@ -6,7 +6,6 @@
 <!ENTITY editBookmarkOverlay.feedLocation.accesskey          "T">
 <!ENTITY editBookmarkOverlay.siteLocation.label              "Ekifo kye Ekibanja:">
 <!ENTITY editBookmarkOverlay.siteLocation.accesskey          "E">
-<!ENTITY editBookmarkOverlay.liveTitlesSeparator.label       "Emitwe Egiriwo kaakano">
 <!ENTITY editBookmarkOverlay.folder.label                    "Eterekelo lya fayiro:">
 <!ENTITY editBookmarkOverlay.foldersExpanderDown.tooltip     "Laga obulambe bwona obwamabasa">
 <!ENTITY editBookmarkOverlay.expanderUp.tooltip              "Kweeka">

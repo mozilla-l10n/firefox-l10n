@@ -22,15 +22,14 @@
 <!ENTITY warning.updatesecurity.label              "Ebyongerwako okutuukanya eby'okwerinda binafuyiziddwa. Oyinza obutafuna kutuukanya">
 <!ENTITY warning.updatesecurity.enable.label       "Sobozesa">
 <!ENTITY warning.updatesecurity.enable.tooltip     "Sobozesa ebyongerebwako okukebera eby'okwerinda">
+<!-- global informations -->
+
+<!ENTITY info.plugincheck.label                 "Kebera okulaba nti ebyongerako byo bitukiridde">
+<!ENTITY info.plugincheck.tooltip               "Kebera okulaba nti ebyongerako byo bitukiridde">
 <!-- categories / views -->
 
 <!ENTITY view.search.label                    "Noonya">
 <!ENTITY view.discover.label                  "Funa Ebigattibwako">
-<!ENTITY view.locales.label                   "Ennimi">
-<!ENTITY view.searchengines.label             "Yingini Ezinoonya">
-<!ENTITY view.features.label                  "Ekyongezayo">
-<!ENTITY view.appearance2.label               "Ndabika">
-<!ENTITY view.plugins.label                   "Ebigattibwako">
 <!ENTITY view.recentUpdates.label             "Ebituusa ebbipya">
 <!ENTITY view.availableUpdates.label          "Eby'okutuukanya ebiriwo">
 <!-- addon updates -->

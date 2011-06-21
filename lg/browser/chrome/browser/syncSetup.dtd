@@ -43,7 +43,7 @@
 <!ENTITY setup.newSyncKeyPage.description.label "Okukakasa nti ebyekyamabyo bikumiddwa, data wo yena atafutibwa nga tanaba kutikibwa. Akasumuluzo akatusaganya aketagisa okujjamu olufutifuti teka tikibwa.">
 <!ENTITY syncKeyEntry.label        "Akasumuluzo Ko">
 <!ENTITY syncKeyEntry.accesskey    "K">
-<!ENTITY syncKeyGenerate.label     "Fulumya">
+<!ENTITY syncGenerateNewKey.label  "Fulumya akasumuloza akapya">
 <!ENTITY syncKeyBackup.description "Akasumuluzo ko ketagisa okufuna &syncBrand.fullName.label; ku machini endala. Bambi tondawo kopi endala. Tetusoboola kuyamba okuzawo akasumuluzoko.">
 
 <!ENTITY button.syncKeyBackup.print.label     "Fulumya…">
