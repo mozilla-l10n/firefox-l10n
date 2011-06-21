@@ -160,7 +160,7 @@ bandykite prisijungti iš naujo.</li>
 <!ENTITY cspFrameAncestorBlocked.longDesc "<p>Tinklalapis neįkeltas, nes jo saugumo politika neleidžia jo turinio įterpti nurodytuoju būdu.</p>">
 
 <!ENTITY corruptedContentError.title "Klaida: duomenys pažeisti">
-<!ENTITY corruptedContentError.longDesc "<p>Tinklalapio, kurį bandote atverti, parodyti negalima, nes, perduodant duomenis, įvyko klaida.</p><ul><li>Siūlome susisiekti su svetainės savininkais ar valdytojais ir pranešti jiems apie šią problemą.</li></ul>">
+<!ENTITY corruptedContentError.longDesc "<p>Turinio, kurį bandote atverti, parodyti negalima, nes, perduodant duomenis, įvyko klaida.</p><ul><li>Siūlome susisiekti su jo savininkais ar valdytojais ir pranešti jiems apie šią problemą.</li></ul>">
 
 <!ENTITY securityOverride.linkText "Galite sukurti išimtį…">
 <!ENTITY securityOverride.getMeOutOfHereButton "Išeiti">
