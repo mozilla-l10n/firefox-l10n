@@ -22,15 +22,14 @@
 <!ENTITY warning.updatesecurity.label              "Kaho sikuriti ntoso wɔn nhwehwɛmu edum. Etumi ba no sɛ ntoso bɛma wo ho ada hɔ.">
 <!ENTITY warning.updatesecurity.enable.label       "Sɔ">
 <!ENTITY warning.updatesecurity.enable.tooltip     "Sɔ fidie a ɛbɔ wo ho ban firi ntoso ma nkaho a wɔnndi mu">
+<!-- global informations -->
+
+<!ENTITY info.plugincheck.label                 "Check to see if your plugins are up to date">
+<!ENTITY info.plugincheck.tooltip               "Check to see if your plugins are up to date">
 <!-- categories / views -->
 
 <!ENTITY view.search.label                    "Hwehwɛ">
 <!ENTITY view.discover.label                  "Gye Nkaho">
-<!ENTITY view.locales.label                   "Akasa">
-<!ENTITY view.searchengines.label             "Ahwehwɛ mfidie ">
-<!ENTITY view.features.label                  "Ntrɛmu">
-<!ENTITY view.appearance2.label               "Enisoade">
-<!ENTITY view.plugins.label                   "Mplagin">
 <!ENTITY view.recentUpdates.label             "Ntoso a nsa aka no ndansa yi">
 <!ENTITY view.availableUpdates.label          "Ntoso a wɔaba">
 <!-- addon updates -->

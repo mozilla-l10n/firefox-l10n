@@ -43,7 +43,7 @@
 <!ENTITY setup.newSyncKeyPage.description.label "Sɛ wopɛsɛ wo nya wo asiede a, wo data nyinaa ɛnkreptee ansa na epia akɔ. Sync safoa a ehia sɛ wo sian data ano no mpia akɔ.">
 <!ENTITY syncKeyEntry.label        "Wo Sync safoa">
 <!ENTITY syncKeyEntry.accesskey    "s">
-<!ENTITY syncKeyGenerate.label     "Gyɛnɛral">
+<!ENTITY syncGenerateNewKey.label  "Generate a new key">
 <!ENTITY syncKeyBackup.description "Wo Sync safoa no hia akwannya &syncBrand.fullName.label; wɔ afidie foforo so. Me srɛ wo yɛ nsiakyire no bi. Wɛ ntomi mmoa wo nsan nya Sync Key.">
 
 <!ENTITY button.syncKeyBackup.print.label     "Prente…">

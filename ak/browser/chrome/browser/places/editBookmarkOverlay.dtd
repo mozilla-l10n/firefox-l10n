@@ -6,7 +6,6 @@
 <!ENTITY editBookmarkOverlay.feedLocation.accesskey          "F">
 <!ENTITY editBookmarkOverlay.siteLocation.label              "Saet no Lokehyɛn:">
 <!ENTITY editBookmarkOverlay.siteLocation.accesskey          "S">
-<!ENTITY editBookmarkOverlay.liveTitlesSeparator.label       "Ti-asɛm Laev">
 <!ENTITY editBookmarkOverlay.folder.label                    "Folda:">
 <!ENTITY editBookmarkOverlay.foldersExpanderDown.tooltip     "Kyerɛ mbukmaak wɔn mfolda nyinara">
 <!ENTITY editBookmarkOverlay.expanderUp.tooltip              "Suma">

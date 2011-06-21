@@ -6,12 +6,9 @@
 <!ENTITY organize.accesskey    "S">
 <!ENTITY organize.tooltip      "Ɔganaez wo mbukmaak">
 
-<!ENTITY file.accesskey                 "F">
 <!ENTITY file.close.label               "To-mu">
 <!ENTITY file.close.accesskey           "T">
 <!ENTITY cmd.close.key                  "w">
-<!ENTITY edit.label                     "Sesa">
-<!ENTITY edit.accesskey                 "e">
 <!ENTITY views.label                    "Nhwɛ">
 <!ENTITY views.accesskey                "w">
 <!ENTITY views.tooltip                  "Sesa sɛnea wo hwɛ">
@@ -76,8 +73,6 @@
 
 <!ENTITY cmd.reloadLivebookmark.label      "San-loode Bukmaak Laev">
 <!ENTITY cmd.reloadLivebookmark.accesskey  "S">
-<!ENTITY cmd.reloadMicrosummary.label      "San-loode Ti-asɛm Laev">
-<!ENTITY cmd.reloadMicrosummary.accesskey  "S">
 
 <!ENTITY cmd.moveBookmarks.label                  "Soa-kɔ…">
 <!ENTITY cmd.moveBookmarks.accesskey              "S">
@@ -113,17 +108,14 @@
 <!ENTITY maintenance.accesskey  "i">
 <!ENTITY maintenance.tooltip    "Twe wo nsɛm a wo de esie ne wo mbukmaak">
 
-<!ENTITY backCmd.label       "Ekyiri">
 <!ENTITY backButton.tooltip  "Kɔ ekyiri">
 
-<!ENTITY forwardCmd.label       "Enim">
 <!ENTITY forwardButton.tooltip  "Kɔ enim">
 
 <!ENTITY detailsPane.more.label "Bio ka ho">
 <!ENTITY detailsPane.more.accesskey "o">
 <!ENTITY detailsPane.less.label "Kyerɛ ketewa">
 <!ENTITY detailsPane.less.accesskey "e">
-<!ENTITY detailsPane.noPreviewAvailable.label "Hwɛ-ansa">
 <!ENTITY detailsPane.selectAnItemText.description "Fa aetɛm, hwɛ na sesa ne ho nsɛm">
 
 <!ENTITY find.label               "Hwehwɛ:">
