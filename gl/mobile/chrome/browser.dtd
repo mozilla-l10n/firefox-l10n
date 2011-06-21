@@ -107,6 +107,7 @@
 <!ENTITY pageactions.saveas.pdf      "Gardar como PDF">
 <!ENTITY pageactions.share.page      "Compartir páxina">
 <!ENTITY pageactions.password.forget "Esquecer o contrasinal">
+<!ENTITY pageactions.quit            "Saír">
 <!ENTITY pageactions.reset           "Limpar as preferencias do sitio">
 <!ENTITY pageactions.findInPage      "Localizar na páxina">
 <!ENTITY pageactions.search.addNew   "Engadir buscador">
