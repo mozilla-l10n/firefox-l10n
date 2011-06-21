@@ -13,7 +13,7 @@
 <!ENTITY  manualTypeRadio.label         "Manuelle mellomtenar-innstillingar:">
 <!ENTITY  manualTypeRadio.accesskey     "M">
 <!ENTITY  autoTypeRadio.label           "Automatisk oppsettadresse:">
-<!ENTITY  autoTypeRadio.accesskey       "A">
+<!ENTITY  autoTypeRadio.accesskey       "u">
 <!ENTITY  reload.label                  "Oppdater">
 <!ENTITY  reload.accesskey              "O">
 <!ENTITY  ftp.label                     "FTP:">

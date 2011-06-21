@@ -21,12 +21,12 @@
 <!ENTITY  passwords.label               "Passord">
 
 <!ENTITY  rememberPasswords.label       "Hugs passord på nettsider">
-<!ENTITY  rememberPasswords.accesskey   "H">
+<!ENTITY  rememberPasswords.accesskey   "s">
 <!ENTITY  passwordExceptions.label      "Unntak …">
 <!ENTITY  passwordExceptions.accesskey  "n">
 
 <!ENTITY  useMasterPassword.label        "Bruk eit hovudpassord">
-<!ENTITY  useMasterPassword.accesskey    "B">
+<!ENTITY  useMasterPassword.accesskey    "r">
 <!ENTITY  changeMasterPassword.label     "Endre hovudpassord …">
 <!ENTITY  changeMasterPassword.accesskey "d">
 

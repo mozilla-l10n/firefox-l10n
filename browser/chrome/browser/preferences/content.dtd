@@ -9,9 +9,9 @@
 <!ENTITY  exceptions.accesskey        "n">
 
 <!ENTITY  enableJavaScript.label      "Tillat JavaScript">
-<!ENTITY  enableJavaScript.accesskey  "T">
+<!ENTITY  enableJavaScript.accesskey  "J">
 <!ENTITY  advancedJS.label            "Avansert …">
-<!ENTITY  advancedJS.accesskey        "A">
+<!ENTITY  advancedJS.accesskey        "r">
 
 <!ENTITY  enableJava.label            "Tillat Java">
 <!ENTITY  enableJava.accesskey        "J">
@@ -20,12 +20,12 @@
 <!ENTITY  fontsAndColors.label        "Skrifttypar og fargar">
 
 <!ENTITY  defaultFont.label           "Standard skrifttype:">
-<!ENTITY  defaultFont.accesskey       "t">
+<!ENTITY  defaultFont.accesskey       "d">
 <!ENTITY  defaultSize.label           "Storleik:">
 <!ENTITY  defaultSize.accesskey       "S">
 
 <!ENTITY  advancedFonts.label         "Avansert …">
-<!ENTITY  advancedFonts.accesskey     "n">
+<!ENTITY  advancedFonts.accesskey     "A">
 
 <!ENTITY  colors.label                "Fargar …">
 <!ENTITY  colors.accesskey            "F">
