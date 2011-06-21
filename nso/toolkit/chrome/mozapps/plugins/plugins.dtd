@@ -19,13 +19,17 @@
 
 <!ENTITY pluginWizard.finalPage.moreInfo.label               "Hwetša ka botlalo ka ga ditsebišo-koketšo goba ikhweletše ditsebišo-koketšo tšeo di timetšego.">
 <!ENTITY pluginWizard.finalPage.restart.label                "&brandShortName; e swanetše go thongwa gape gore ditsebišo-koketšo di šome.">
-  
-<!ENTITY missingPlugin.label                                 "Kgotla mo go laolla tsebišo-koketšo.">
-<!ENTITY disabledPlugin.label                                "Tsebišo-koketšo ya dikagare tše e šitišitšwe. Kgotla mo gore o laole ditsebišo-koketšo tša gago.">
+
+<!ENTITY missingPlugin                                       "Go nyakega tsebišo-koketšo gore go tsentšwe dikagare tše.">
+<!ENTITY disabledPlugin                                      "Tsebišo-koketšo ye e šitišitšwe.">
 <!ENTITY blockedPlugin.label                                 "Tsebišo-koketšo e thibetšwe bakeng sa tšhireletšo ya gago.">
+
+<!ENTITY installPlugin                                       "Lokela tsebišo-koketšo...">
+<!ENTITY managePlugins                                       "Laola ditsebišo-koketšo...">
 <!-- LOCALIZATION NOTE (reloadPlugin.pre): include a trailing space as needed -->
 <!-- LOCALIZATION NOTE (reloadPlugin.middle): avoid leading/trailing spaces, this text is a link -->
 <!-- LOCALIZATION NOTE (reloadPlugin.post): include a starting space as needed -->
+
 <!ENTITY reloadPlugin.pre                                    "">
 <!ENTITY reloadPlugin.middle                                 "Hlahlela letlakala gape">
 <!ENTITY reloadPlugin.post                                   " gore o leke gape.">

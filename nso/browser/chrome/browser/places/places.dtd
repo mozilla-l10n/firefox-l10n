@@ -6,12 +6,9 @@
 <!ENTITY organize.accesskey    "R">
 <!ENTITY organize.tooltip      "Rulaganya dipukutshwayo tša gago">
 
-<!ENTITY file.accesskey                 "F">
 <!ENTITY file.close.label               "Tswalela">
 <!ENTITY file.close.accesskey           "T">
 <!ENTITY cmd.close.key                  "w">
-<!ENTITY edit.label                     "Lokiša">
-<!ENTITY edit.accesskey                 "L">
 <!ENTITY views.label                    "Ditebelelo">
 <!ENTITY views.accesskey                "b">
 <!ENTITY views.tooltip                  "Fetoša tebelelo ya gago">
@@ -76,8 +73,6 @@
 
 <!ENTITY cmd.reloadLivebookmark.label      "Hlahlela gape pukutshwayo ya thwii">
 <!ENTITY cmd.reloadLivebookmark.accesskey  "H">
-<!ENTITY cmd.reloadMicrosummary.label      "Hlahlela gape thaetlele ya thwii">
-<!ENTITY cmd.reloadMicrosummary.accesskey  "H">
 
 <!ENTITY cmd.moveBookmarks.label                  "Šuthiša…">
 <!ENTITY cmd.moveBookmarks.accesskey              "u">
@@ -113,17 +108,14 @@
 <!ENTITY maintenance.accesskey  "i">
 <!ENTITY maintenance.tooltip    "Amogela le go dira pekapo ya dipukutshwayo tša gago">
 
-<!ENTITY backCmd.label       "Morago">
 <!ENTITY backButton.tooltip  "Boela morago">
 
-<!ENTITY forwardCmd.label       "Pele">
 <!ENTITY forwardButton.tooltip  "Eya pele">
 
 <!ENTITY detailsPane.more.label "Oketšegilego">
 <!ENTITY detailsPane.more.accesskey "e">
 <!ENTITY detailsPane.less.label "Nyenyane">
 <!ENTITY detailsPane.less.accesskey "e">
-<!ENTITY detailsPane.noPreviewAvailable.label "Tebelelo pele">
 <!ENTITY detailsPane.selectAnItemText.description "Kgetha aetheme gore o lebelele le go lokiša dipharologantšho tša yona">
 
 <!ENTITY find.label               "Nyaka:">
