@@ -1,13 +1,8 @@
 <!--LOCALIZATION NOTE msgCompSMIMEOverlay.dtd UI for s/mime hooks in message composition -->
 
-<!ENTITY securityMenu.label "பாதுகாப்பு">
-<!ENTITY securityMenu.accesskey "e">
 
 <!ENTITY menu_securityEncryptRequire.label "இந்த செய்தியை மறைகுறியீடாக்குக">
 <!ENTITY menu_securityEncryptRequire.accesskey "E">
-
-<!ENTITY menu_securityNoEncryption.label "இந்த செய்தியை மறைகுறியீடாக்காதே">
-<!ENTITY menu_securityNoEncryption.accesskey "N">
 
 <!ENTITY menu_securitySign.label "இந்த செய்தியில் டிஜிட்டலாக கையெழுத்திடுக">
 <!ENTITY menu_securitySign.accesskey "S">
