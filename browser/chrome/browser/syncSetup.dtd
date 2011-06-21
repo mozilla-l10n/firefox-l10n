@@ -43,7 +43,7 @@
 <!ENTITY setup.newSyncKeyPage.description.label "Go kgonthišetša bosephiri bja gago ka botlalo, tsebišo ya gago yohle e tla utwa pele ga ge e ka hlahlelwa. Khii ya nyalantšho yeo e hlokegago go utolla tsebišo ya gago ga se ya hlahlelwa.">
 <!ENTITY syncKeyEntry.label        "Khii ya gago ya nyalantšho">
 <!ENTITY syncKeyEntry.accesskey    "K">
-<!ENTITY syncKeyGenerate.label     "Hlagiša">
+<!ENTITY syncGenerateNewKey.label  "Hlagiša khii e mpsha">
 <!ENTITY syncKeyBackup.description "Go nyakega khii ya gago ya nyalantšho gore o tsene go &syncBrand.fullName.label; metšheneng e mengwe. Hle dira kopi ya pekapo. Re ka se go thuše go hwetša khii ya gago ya nyalantšho gape.">
 
 <!ENTITY button.syncKeyBackup.print.label     "Gatiša…">
