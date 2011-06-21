@@ -1,5 +1,5 @@
-<!ENTITY  splash_screen_label "įkeliama">
-<!ENTITY  splash_screen_installing "diegiamos bibliotekos…">
+<!ENTITY  splash_screen_loading "Įkeliama">
+<!ENTITY  splash_screen_installing_libs "Diegiamos bibliotekos…">
 <!ENTITY  splash_firstrun "Įdiegiama programa „&brandShortName;“…">
 <!ENTITY  no_space_to_start_error "Neužtenka laisvos vietos programai „&brandShortName;“ paleisti.">
 <!ENTITY  error_loading_file "Bandant įkelti „&brandShortName;“ darbui būtinus failus, įvyko klaida">

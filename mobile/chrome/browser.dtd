@@ -139,6 +139,7 @@
 <!ENTITY pageactions.saveas.pdf           "Įrašyti PDF formatu">
 <!ENTITY pageactions.share.page           "Dalintis tinklalapiu">
 <!ENTITY pageactions.password.forget      "Užmiršti slaptažodį">
+<!ENTITY pageactions.quit                 "Baigti darbą">
 <!ENTITY pageactions.reset                "Išvalyti svetainės nuostatas">
 <!ENTITY pageactions.findInPage           "Ieškoti tinklalapyje">
 <!ENTITY pageactions.search.addNew        "Pridėti ieškyklę">
