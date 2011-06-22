@@ -54,29 +54,3 @@
       example: Downloading update — 111 KB of 13 MB -->
  <!ENTITY update.downloading.start   "Жаңартуды жүктеп алу — ">
  <!ENTITY update.downloading.end     "">
- 
- <!-- LOCALIZATION NOTE (channel.description.start,channel.description.end): channel.description.start and
-     channel.description.end create one sentence, with the current channel label inserted in between.
-     example: You are currently on the _Stable_ update channel. -->
-<!ENTITY channel.description.start  "Сіз қазір ">
-<!ENTITY channel.description.end    " жаңарту арнадасыз.">
-
-<!ENTITY channel.change             "Өзгерту">
-
-<!ENTITY channel.release.description       "Дүние жүзі бойынша миллиондаған адам қолданатын, тексерілген және сыналған финалды шығарылымды қолданыңыз. Желідегі өміріңізді супер жылдамдық, ыңғайлы баптау мен замаңауи технологияларды қолдауы көмегімен өткізіңіз.">
-<!ENTITY channel.beta.description          "Заман талаптарына сай мүмкіндіктері бар, әрі тұрақтылау нұсқасы. Келе жатқан финалды шығарылымды жақсарту мен сынауға көмектесу үшін кері байланысуды ұмытпаңыз.">
-<!ENTITY channel.aurora.description        "Ең соңғы инновациялары бар, бірақ тұрақсыздау нұсқасы. Мүмкіндіктері мен өнімділігі жөнінде, әрі келесі финалды шығарылымда болатын нәрселерді анықтау үшін бізге кері байланысуды ұмытпаңыз.">
-
-<!-- LOCALIZATION NOTE (channel.selector.start,channel.selector.end): channel.selector.start and
-     channel.selector.end create one sentence, with a channel selection menulist instered in between.
-     This is all in one line, so try to make the localized text short.
-     example: Switch to the [Stable] update channel. -->
-
-<!ENTITY channel.selector.start          "Қазір">
-<!ENTITY channel.selector.end            "жаңарту арнасына ауысу.">
-
-<!-- LOCALIZATION NOTE (channel.selector.applyButton): This button applies the user's choice to switch
-     to a new update channel and starts the application update process. -->
-
-<!ENTITY channel.selector.applyButton    "Іске асыру мен жаңарту">
-<!ENTITY channel.selector.cancelButton   "Бас тарту">
