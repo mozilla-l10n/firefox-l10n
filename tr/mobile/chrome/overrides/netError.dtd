@@ -40,7 +40,7 @@ adres yanlış yazılmış olabilir.</li>
 <!ENTITY netInterrupt.longDesc "&sharedLongDesc;">
 
 <!ENTITY netOffline.title "Çevrim dışı kipi">
-<!ENTITY netOffline.overrideLongDesc "<ul> 
+<!ENTITY netOffline.longDesc2 "<ul> 
 <li>Yeniden deneyin. &brandShortName; bağlantıyı açıp sayfayı tazelemeyi çalışacaktır.</li> 
 </ul>">
 
