@@ -39,9 +39,9 @@
 <!ENTITY downloadManagerCmd.accesskey "b">
 <!ENTITY downloadManagerCmd.commandkey "j">
 
-<!ENTITY addonsManagerCmd.label "Dodatki">
-<!ENTITY addonsManagerCmd.accesskey "D">
-<!ENTITY addonsManagerCmd.commandkey "a">
+<!ENTITY addOnsManagerCmd.label "Dodatki">
+<!ENTITY addOnsManagerCmd.accesskey "D">
+<!ENTITY addOnsManagerCmd.commandkey "a">
 
 <!ENTITY switchProfileCmd.label "Zmień profil…">
 <!ENTITY switchProfileCmd.accesskey "m">

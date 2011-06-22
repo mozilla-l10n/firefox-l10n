@@ -7,7 +7,6 @@
 <!ENTITY defaultSearchEngine.label "Domyślna wyszukiwarka internetowa:">
 <!ENTITY defaultSearchEngine.accesskey "D">
 
-<!-- Will be used by bug 595246 -->
 <!ENTITY engineManager.label "Zarządzaj wyszukiwarkami…">
 
 <!ENTITY searchResults.label "Wyniki wyszukiwania">
