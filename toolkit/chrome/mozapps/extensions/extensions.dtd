@@ -198,3 +198,5 @@ en çok tutulan eklentilerden bazıları öne çıkarılacak.">
 <!ENTITY eula.width "560px">
 <!ENTITY eula.height "400px">
 <!ENTITY eula.accept "Kabul et ve kur...">
+
+<!ENTITY settings.path.button.label "Gözat…">

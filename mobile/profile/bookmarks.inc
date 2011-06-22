@@ -18,16 +18,6 @@
 
 
 
-# LOCALIZATION NOTE (bookmarks_welcome):
-
-
-# link title for about:firstrun
-
-
-#define bookmarks_welcome Firefox: Hoşgeldiniz
-
-
-
 # LOCALIZATION NOTE (bookmarks_aboutBrowser):
 
 

@@ -25,8 +25,7 @@
 <!ENTITY netInterrupt.longDesc "<p>Tarayıcı başarıyla bağlantı kurmasına karşın veri aktarımı sırasında kesinti meydana geldi. Lütfen yeniden deneyin.</p><ul><li>Diğer siteleri de açamıyor olabilirsiniz. Bilgisayarınızın ağ bağlantısını gözden geçirin.</li><li>Hâlâ sorun yaşıyorsanız ağ yöneticinize ya da internet servis sağlayıcınıza başvurun.</li></ul>">
 
 <!ENTITY netOffline.title "Çevrim dışı bağlantı hatası">
-<!ENTITY netOffline.longDesc "<p>Tarayıcı şu an çevrim dışı kipte ve istenen öğeye bağlanamaz.</p><ul><li>Bilgisayarınız etkin bir ağ bağlantısına sahip mi?</li><li>Tarayıcıyı çevrim içi hâle getirdikten sonra sayfayı açmayı yeniden deneyin.</li></ul>">
-<!ENTITY netOffline.overrideLongDesc "<p>Tarayıcı şu an çevrim dışı kipte ve istenen öğeye bağlanamaz.</p><ul><li>Bilgisayarınız etkin bir ağ bağlantısına sahip mi?</li><li>Tarayıcıyı çevrim içi hâle getirdikten sonra sayfayı açmayı yeniden deneyin.</li></ul>">
+<!ENTITY netOffline.longDesc2 "<p>The browser is operating in its offline mode and cannot connect to the requested item.</p><ul><li>Is the computer connected to an active network?</li><li>Press &quot;Try Again&quot; to switch to online mode and reload the page.</li></ul>">
 
 <!ENTITY contentEncodingError.title "İçerik kodlama hatası">
 <!ENTITY contentEncodingError.longDesc "<p>Bakmak istediğiniz sayfa gösterilemiyor, çünkü geçersiz ya da desteklenmeyen sıkıştırma biçimi kullanıyor.</p><ul><li>Site sahipleriyle iletişim kurup onları bu sorundan haberdar edin.</li></ul>">
