@@ -84,10 +84,10 @@
 <!ENTITY contextEditBookmark.label "Изменить">
 <!ENTITY contextRemoveBookmark.label "Удалить">
 <!ENTITY pageactions.saveas.pdf "Сохранить как PDF">
-<!ENTITY pageactions.share.page "Поделиться страницей">
+<!ENTITY pageactions.share.page "Поделиться">
 <!ENTITY pageactions.password.forget "Забыть пароль">
 <!ENTITY pageactions.reset "Сбросить настройки сайта">
-<!ENTITY pageactions.findInPage "Найти на странице">
+<!ENTITY pageactions.findInPage "Найти">
 <!ENTITY pageactions.search.addNew "Добавить поисковую систему">
 <!ENTITY pageactions.charEncoding "Кодировка текста">
-<!ENTITY appMenu.siteOptions "Настройки сайта">
+<!ENTITY appMenu.siteOptions "Меню сайта">
