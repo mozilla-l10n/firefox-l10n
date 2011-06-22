@@ -40,7 +40,7 @@
 <!ENTITY pasteGoCmd.accesskey "W">
 
 <!-- LOCALIZATION NOTE (pasteSearchCmd): "Search" is a verb, this is the
-     search bar equivalent to the url bar's "Paste & Go"  --> 
+     search bar equivalent to the url bar's "Paste & Go"  -->
 <!ENTITY pasteSearchCmd.label "Wklej i szukaj">
 <!ENTITY pasteSearchCmd.accesskey "e">
 <!ENTITY deleteCmd.label "Usuń">
