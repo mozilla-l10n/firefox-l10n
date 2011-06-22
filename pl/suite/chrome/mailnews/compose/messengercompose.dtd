@@ -139,25 +139,15 @@
 <!ENTITY spellCheckIgnoreWord.accesskey "I">
 <!ENTITY spellCheckAddToDictionary.label "Dodaj do słownika">
 <!ENTITY spellCheckAddToDictionary.accesskey "n">
-<!ENTITY undo.label "Cofnij">
-<!ENTITY undo.accesskey "C">
-<!ENTITY cut.label "Wytnij">
-<!ENTITY cut.accesskey "t">
-<!ENTITY copy.label "Kopiuj">
-<!ENTITY copy.accesskey "K">
-<!ENTITY paste.label "Wklej">
-<!ENTITY paste.accesskey "e">
 <!ENTITY pasteQuote.label "Wklej jako cytat">
 <!ENTITY pasteQuote.accesskey "y">
 
 <!ENTITY openAttachment.label "Otwórz">
 <!ENTITY openAttachment.accesskey "O">
-<!ENTITY delete.label "Usuń">
-<!ENTITY delete.accesskey "U">
 <!ENTITY renameAttachment.label "Zmień nazwę…">
 <!ENTITY renameAttachment.accesskey "Z">
-<!ENTITY selectAll.label "Zaznacz wszystko">
-<!ENTITY selectAll.accesskey "w">
+<!ENTITY deleteAttachment.accesskey "U">
+<!ENTITY selectAllAttachments.accesskey "w">
 <!ENTITY attachFile.label "Załącz plik">
 <!ENTITY attachFile.accesskey "p">
 <!ENTITY attachPage.label "Załącz stronę WWW…">

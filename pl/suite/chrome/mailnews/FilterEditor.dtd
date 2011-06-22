@@ -84,7 +84,6 @@
 <!ENTITY replyWithTemplate.label "Odpowiedz używając szablonu">
 <!ENTITY markMessageRead.label "Oznacz jako przeczytaną">
 <!ENTITY markMessageStarred.label "Oznacz flagą">
-<!ENTITY labelMessage.label "Nadaj etykietę">
 <!ENTITY setPriority.label "Ustaw priorytet na">
 <!ENTITY addTag.label "Oznacz etykietą">
 <!ENTITY setJunkScore.label "Ustaw status niechcianej poczty na">

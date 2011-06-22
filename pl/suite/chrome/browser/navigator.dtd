@@ -40,9 +40,6 @@
 <!ENTITY printCmd.accesskey "D">
 <!ENTITY printCmd.commandkey "p">
 
-<!ENTITY viewMenu.label "Widok">
-<!ENTITY viewMenu.accesskey "W">
-
 <!ENTITY toolbarsCmd.label "Pokaż/Ukryj">
 <!ENTITY toolbarsCmd.accesskey "U">
 <!ENTITY navbarCmd.label "Pasek narzędzi nawigacyjnych">

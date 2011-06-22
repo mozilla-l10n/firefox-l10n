@@ -27,7 +27,6 @@
 <!ENTITY printSetupCmd.label "Ustawienia strony…">
 <!ENTITY printSetupCmd.accesskey "u">
 
-<!ENTITY redoCmd.label "Przywróć">
 <!ENTITY redoCmd.key "Z">
 
 <!ENTITY historyCmd.key "H">
