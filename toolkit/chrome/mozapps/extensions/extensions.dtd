@@ -23,15 +23,18 @@
 <!ENTITY warning.updatesecurity.enable.label       "Omogoči">
 <!ENTITY warning.updatesecurity.enable.tooltip     "Omogoči preverjanje, ali je posodobitev dodatka varna">
 
-<!-- global informations -->
-<!ENTITY info.plugincheck.label                 "Preverite, da so vsi vaši vstavki posodobljeni">
-<!ENTITY info.plugincheck.tooltip               "Preveri, ali so vsi vaši vstavki posodobljeni">
-
 <!-- categories / views -->
 <!ENTITY view.search.label                    "Iskanje">
 <!ENTITY view.discover.label                  "Prenesi dodatke">
 <!ENTITY view.recentUpdates.label             "Nedavne posodobitve">
 <!ENTITY view.availableUpdates.label          "Nove posodobitve">
+
+
+<!ENTITY view.locales.label                   "Jeziki">
+<!ENTITY view.searchengines.label             "Iskalniki">
+<!ENTITY view.features.label                  "Razširitve">
+<!ENTITY view.appearance2.label               "Videz">
+<!ENTITY view.plugins.label                   "Vstavki">
 
 <!-- addon updates -->
 <!ENTITY updates.checkForUpdates.label        "Poišči posodobitve">
