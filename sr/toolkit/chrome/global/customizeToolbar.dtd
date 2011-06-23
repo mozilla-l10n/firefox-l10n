@@ -1,12 +1,12 @@
-<!ENTITY text.label "Текст">
-<!ENTITY saveChanges.label "Готово">
-<!ENTITY icons.label "Слике">
+<!ENTITY dialog.title             "Прилагоди алатну траку">
+<!ENTITY dialog.style             "width: 635px; height: 400px;">
 <!ENTITY instructions.description "Можете да додате или уклоните ставке превлачећи их до или од алатне траке.">
-<!ENTITY undoChanges.label "Опозови измене">
-<!ENTITY addNewToolbar.label "Додај нову алатну траку">
-<!ENTITY restoreDefaultSet.label "Врати изворне слике">
-<!ENTITY show.label "Прикажи:">
-<!ENTITY dialog.title "Прилагоди алатну траку">
-<!ENTITY dialog.style "width: 635px; height: 400px;">
-<!ENTITY iconsAndText.label "Слике и текст">
-<!ENTITY useSmallIcons.label "Користи мале слике">
+<!ENTITY show.label               "Прикажи:">
+<!ENTITY iconsAndText.label       "Слике и текст">
+<!ENTITY icons.label              "Слике">
+<!ENTITY text.label               "Текст">
+<!ENTITY useSmallIcons.label      "Користи мале слике">
+<!ENTITY restoreDefaultSet.label  "Врати изворне слике">
+<!ENTITY addNewToolbar.label      "Додај нову алатну траку">
+<!ENTITY saveChanges.label        "Готово">
+<!ENTITY undoChanges.label        "Опозови измене">

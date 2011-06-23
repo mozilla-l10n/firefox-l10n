@@ -1,32 +1,40 @@
-<!ENTITY allpagesRadio.accesskey "С">
+<!-- extracted from printdialog.xul -->
+
+<!ENTITY printButton.label "Штампај">
+
+<!ENTITY printDialog.title "Штампај">
+
+<!ENTITY fpDialog.title "Сними датотеку">
+
+<!ENTITY fileCheck.label "Штампај у датотеку">
+<!ENTITY fileCheck.accesskey "Ш">
+<!ENTITY propertiesButton.label "Особине…">
+<!ENTITY propertiesButton.accesskey "О">
 <!ENTITY descText.label "Опис штампача:">
 <!ENTITY printer.label "Штампач">
-<!ENTITY printrangeGroup.label "Опсег штампе">
-<!ENTITY fileCheck.label "Штампај у датотеку">
-<!ENTITY aslaidoutRadio.label "Као на екрану">
-<!ENTITY printerInput.accesskey "И">
-<!ENTITY printButton.label "Штампај">
-<!ENTITY printDialog.title "Штампај">
-<!ENTITY topageInput.accesskey "д">
-<!ENTITY numCopies.label "Број копија:">
-<!ENTITY propertiesButton.accesskey "О">
-<!ENTITY frompageInput.accesskey "о">
-<!ENTITY fpDialog.title "Сними датотеку">
-<!ENTITY rangeRadio.accesskey "С">
-<!ENTITY frompageInput.label "Организатор:">
-<!ENTITY propertiesButton.label "Особине…">
-<!ENTITY aslaidoutRadio.accesskey "К">
-<!ENTITY eachframesepRadio.label "Сваки оквир засебно">
-<!ENTITY selectionRadio.label "Избор">
-<!ENTITY printframeGroup.label "Штампање оквира">
-<!ENTITY numCopies.accesskey "Б">
 <!ENTITY printerInput.label "Име штампача:">
+<!ENTITY printerInput.accesskey "И">
+
+<!ENTITY printrangeGroup.label "Опсег штампе">
 <!ENTITY allpagesRadio.label "Све стране">
-<!ENTITY rangeRadio.label "Стране">
-<!ENTITY fileCheck.accesskey "Ш">
-<!ENTITY eachframesepRadio.accesskey "С">
+<!ENTITY allpagesRadio.accesskey "С">
+<!ENTITY rangeRadio.label  "Стране">
+<!ENTITY rangeRadio.accesskey  "С">
+<!ENTITY frompageInput.label  "од">
+<!ENTITY frompageInput.accesskey  "о">
+<!ENTITY topageInput.label  "до">
+<!ENTITY topageInput.accesskey  "д">
+<!ENTITY selectionRadio.label "Избор">
 <!ENTITY selectionRadio.accesskey "И">
-<!ENTITY topageInput.label "до">
-<!ENTITY selectedframeRadio.label "Само изабран оквир">
-<!ENTITY selectedframeRadio.accesskey "С">
+
 <!ENTITY copies.label "Копије">
+<!ENTITY numCopies.label "Број копија:">
+<!ENTITY numCopies.accesskey "Б">
+
+<!ENTITY printframeGroup.label "Штампање оквира">
+<!ENTITY aslaidoutRadio.label "Као на екрану">
+<!ENTITY aslaidoutRadio.accesskey "К">
+<!ENTITY selectedframeRadio.label  "Само изабран оквир">
+<!ENTITY selectedframeRadio.accesskey  "С">
+<!ENTITY eachframesepRadio.label  "Сваки оквир засебно">
+<!ENTITY eachframesepRadio.accesskey  "С">

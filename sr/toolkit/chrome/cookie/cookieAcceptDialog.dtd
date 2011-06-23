@@ -1,16 +1,18 @@
-<!ENTITY button.deny.accesskey "З">
-<!ENTITY button.allow.accesskey "Д">
-<!ENTITY props.policy.label "Полиса:">
-<!ENTITY button.deny.label "Забрани">
-<!ENTITY dialog.remember.label "Користи овај избор за све колачиће са овог сајта">
-<!ENTITY props.expires.label "Истек:">
-<!ENTITY dialog.remember.accesskey "К">
-<!ENTITY button.session.label "Дозволи за ову сесију">
-<!ENTITY props.value.label "Садржај:">
-<!ENTITY props.secure.label "Пошаљи за:">
-<!ENTITY button.allow.label "Дозволи">
-<!ENTITY dialog.title "Потврда поставке за колачић">
-<!ENTITY props.path.label "Стаза:">
-<!ENTITY props.name.label "Назив:">
-<!ENTITY props.domain.label "Домен:">
-<!ENTITY button.session.accesskey "Д">
+<!ENTITY     props.name.label               "Назив:">
+<!ENTITY     props.value.label              "Садржај:">
+<!ENTITY     props.domain.label             "Домен:">
+<!ENTITY     props.path.label               "Стаза:">
+<!ENTITY     props.secure.label             "Пошаљи за:">
+<!ENTITY     props.expires.label            "Истек:">
+<!ENTITY     props.policy.label             "Полиса:"> 
+
+<!ENTITY     button.allow.label             "Дозволи">
+<!ENTITY     button.allow.accesskey         "Д">
+<!ENTITY     button.session.label           "Дозволи за ову сесију">
+<!ENTITY     button.session.accesskey       "Д">
+<!ENTITY     button.deny.label              "Забрани">
+<!ENTITY     button.deny.accesskey          "З">
+
+<!ENTITY     dialog.title                   "Потврда поставке за колачић">
+<!ENTITY     dialog.remember.label          "Користи овај избор за све колачиће са овог сајта">
+<!ENTITY     dialog.remember.accesskey      "К">
