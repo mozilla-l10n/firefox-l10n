@@ -22,9 +22,9 @@
 <!ENTITY password.manage                 "Парольдерді басқару…">
 
 <!ENTITY cookie.label                    "Cookies орнату">
-<!ENTITY cookie.clear                    "Cookies тазарту">
+<!ENTITY cookie.remove                   "Cookies өшіру">
 <!ENTITY cookie.manage                   "Cookies басқару…">
-<!ENTITY cookie.clearAll                 "Барлық Cookies өшіру">
+<!ENTITY cookie.removeAll                "Барлық Cookies өшіру">
 
 <!ENTITY geo.label                       "Орналасуды жариялау">
 

@@ -193,10 +193,13 @@ can reach it easily. -->
 <!ENTITY webConsoleCmd.accesskey      "В">
 <!ENTITY webConsoleCmd.commandkey     "c">
 
+<!ENTITY inspectPanelTitle.label      "HTML">
 <!ENTITY inspectMenu.label            "Бақылау">
 <!ENTITY inspectMenu.accesskey        "Б">
 <!ENTITY inspectMenu.commandkey       "i">
 
+<!ENTITY scratchpad.label             "Блокнот">
+<!ENTITY scratchpad.accesskey         "Б">
 <!ENTITY scratchpad.keycode           "VK_F4">
 <!ENTITY scratchpad.keytext           "F4">
 

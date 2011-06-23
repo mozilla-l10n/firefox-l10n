@@ -39,12 +39,12 @@
 <!ENTITY netInterrupt.longDesc "&sharedLongDesc;">
 
 <!ENTITY netOffline.title "Дербес жұмыс істеу режимі">
-<!-- LOCALIZATION NOTE (netOffline.overrideLongDesc) - This string should
+<!-- LOCALIZATION NOTE (netOffline.longDesc2) - This string should
      indicate that "Work Offline" is a menu item without being too specific,
      since it could be in either the normal menu (Mac/Linux) or the Firefox button
      menu (Windows).
 -->
-<!ENTITY netOffline.overrideLongDesc "
+<!ENTITY netOffline.longDesc2 "
 <ul>
   <li>Мәзірде &quot;Дербес жұмыс істеу&quot; жалаушасын алып тастап, қайталап көріңіз.</li>
 </ul>
