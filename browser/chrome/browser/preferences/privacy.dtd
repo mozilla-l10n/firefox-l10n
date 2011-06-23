@@ -57,6 +57,7 @@
 <!ENTITY  dontrememberActions.clearHistory.label "тарихты да тазарту">
 <!ENTITY  dontrememberActions.post.label         ".">
 
+<!ENTITY  privateBrowsingPermanent2.label "Әрқашан жекелік шолу режимін қолдану">
 <!ENTITY  privateBrowsingPermanent2.accesskey "ж">
 
 <!ENTITY  rememberHistory.label      "Менің шолу тарихымды сақтау">
