@@ -34,6 +34,4 @@
 <!ENTITY report.failed                                       "Жіберу сәтсіз.">
 <!ENTITY report.unavailable                                  "Қолжетерлік хабарлаулар жоқ.">
 
-<!ENTITY missingPlugin.label                                 "Плагинді жүктеп алу үшін, осында басыңыз.">
-<!ENTITY disabledPlugin.label                                "Бұл құрамның плагині өшірілген. Плагиндерді реттеу үшін осында басыңыз.">
 <!ENTITY blockedPlugin.label                                 "Плагин сіздің қауіпсіздігіңіз мақсатында өшірілген.">
