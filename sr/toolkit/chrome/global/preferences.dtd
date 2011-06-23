@@ -1,5 +1,5 @@
-<!ENTITY preferencesDefaultTitleWin.title "Могућности">
-<!ENTITY preferencesCloseButton.accesskey "C">
-<!ENTITY windowClose.key "с">
-<!ENTITY preferencesCloseButton.label "Затвори">
-<!ENTITY preferencesDefaultTitleMac.title "Поставке">
+<!ENTITY  windowClose.key                         "с">
+<!ENTITY  preferencesDefaultTitleMac.title        "Подешавања">
+<!ENTITY  preferencesDefaultTitleWin.title        "Могућности">
+<!ENTITY  preferencesCloseButton.label            "Затвори">
+<!ENTITY  preferencesCloseButton.accesskey        "C">
