@@ -4,8 +4,8 @@
 # your locale code, and link to your translated pages as soon as they're 
 # live.
 
-#define bookmarks_title Омиљено
-#define bookmarks_heading Омиљено
+#define bookmarks_title Забелешке
+#define bookmarks_heading Забелешке
 
 #define bookmarks_toolbarfolder Алатна трака са забелешкама
 #define bookmarks_toolbarfolder_description Додајте забелешке у овај директоријум како би биле приказане у алатној траци за забелешке

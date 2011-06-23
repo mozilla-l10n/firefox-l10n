@@ -1,4 +1,5 @@
-<!ENTITY printWindow.title "Преглед пре штампе">
-<!ENTITY progress "Напредак:">
+<!--LOCALIZATION NOTE printPreviewProgress.dtd Main UI for Print Preview Progress Dialog -->
+<!ENTITY printWindow.title "Преглед пре штампе"> 
+<!ENTITY title   "Назив:"> 
 <!ENTITY preparing "Припрема…">
-<!ENTITY title "Назив:">
+<!ENTITY progress "Напредак:">
