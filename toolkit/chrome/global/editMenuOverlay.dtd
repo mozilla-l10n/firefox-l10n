@@ -1,31 +1,31 @@
-<!ENTITY cutCmd.label "Исеци">
-<!ENTITY selectAllCmd.label "Изабери све">
-<!ENTITY findAgainCmd.accesskey "Н">
-<!ENTITY redoCmd.accesskey "П">
-<!ENTITY findAgainCmd.key2 "VK_F3">
-<!ENTITY findCmd.label "Тражење">
-<!ENTITY undoCmd.key "О">
-<!ENTITY findAgainCmd.key "В">
-<!ENTITY redoCmd.key "Д">
-<!ENTITY deleteCmd.label "Уклони ставку">
-<!ENTITY cutCmd.key "с">
-<!ENTITY findCmd.accesskey "Т">
-<!ENTITY pasteCmd.key "Н">
-<!ENTITY redoCmd.label "Понови">
-<!ENTITY editMenu.accesskey "У">
-<!ENTITY cutCmd.accesskey "И">
-<!ENTITY copyCmd.label "Умножи">
-<!ENTITY pasteCmd.label "Налепи">
-<!ENTITY undoCmd.label "Опозови">
-<!ENTITY selectAllCmd.key "П">
-<!ENTITY deleteCmd.accesskey "У">
-<!ENTITY copyCmd.key "К">
-<!ENTITY editMenu.label "Уређивање">
+<!ENTITY editMenu.label            "Уређивање">
+<!ENTITY editMenu.accesskey        "У">
+<!ENTITY undoCmd.label             "Опозови">
+<!ENTITY undoCmd.key               "О">
+<!ENTITY undoCmd.accesskey         "О">
+<!ENTITY redoCmd.label             "Понови">
+<!ENTITY redoCmd.key               "Д">
+<!ENTITY redoCmd.accesskey         "П">
+<!ENTITY cutCmd.label              "Исеци">
+<!ENTITY cutCmd.key                "с">
+<!ENTITY cutCmd.accesskey          "И">
+<!ENTITY copyCmd.label             "Умножи">
+<!ENTITY copyCmd.key               "К">
+<!ENTITY copyCmd.accesskey         "У">
+<!ENTITY pasteCmd.label            "Налепи">
+<!ENTITY pasteCmd.key              "Н">
+<!ENTITY pasteCmd.accesskey        "Н">
+<!ENTITY deleteCmd.label           "Уклони ставку">
+<!ENTITY deleteCmd.accesskey       "У">
+<!ENTITY selectAllCmd.label        "Изабери све">
+<!ENTITY selectAllCmd.key          "П">
+<!ENTITY selectAllCmd.accesskey    "И">
+<!ENTITY findCmd.label             "Тражење">
+<!ENTITY findCmd.key               "З">
+<!ENTITY findCmd.accesskey         "Т">
+<!ENTITY findAgainCmd.label        "Нађи поново">
+<!ENTITY findAgainCmd.key          "В">
+<!ENTITY findAgainCmd.key2         "VK_F3">
+<!ENTITY findAgainCmd.accesskey    "Н">
+<!ENTITY findPreviousCmd.label     "Нађи претходно">
 <!ENTITY findPreviousCmd.accesskey "Н">
-<!ENTITY findAgainCmd.label "Нађи поново">
-<!ENTITY undoCmd.accesskey "О">
-<!ENTITY copyCmd.accesskey "У">
-<!ENTITY findCmd.key "З">
-<!ENTITY pasteCmd.accesskey "Н">
-<!ENTITY selectAllCmd.accesskey "И">
-<!ENTITY findPreviousCmd.label "Нађи претходно">
