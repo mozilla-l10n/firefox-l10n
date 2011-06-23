@@ -25,11 +25,6 @@
 <!-- categories / views -->
 <!ENTITY view.search.label                    "Іздеу">
 <!ENTITY view.discover.label                  "Қосымшаларды алу">
-<!ENTITY view.locales.label                   "Тілдер">
-<!ENTITY view.searchengines.label             "Іздеу сайттары">
-<!ENTITY view.features.label                  "Кеңейтулер">
-<!ENTITY view.appearance2.label               "Сыртқы түрі">
-<!ENTITY view.plugins.label                   "Плагиндер">
 <!ENTITY view.recentUpdates.label             "Соңғы жаңартулар">
 <!ENTITY view.availableUpdates.label          "Қолжетерлік жаңартулар">
 
