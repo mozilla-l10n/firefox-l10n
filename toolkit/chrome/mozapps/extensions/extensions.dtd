@@ -7,7 +7,7 @@
 <!ENTITY listEmpty.findUpdates.label          "Comprova si hi ha actualitzacions">
 <!ENTITY listEmpty.search.label               "No s'ha pogut trobar cap complement que hi coincideixi">
 <!ENTITY listEmpty.button.label               "Més informació dels complements">
-<!ENTITY installAddonFromFile.label           "Instal·la el complement d'un fitxer…">
+<!ENTITY installAddonFromFile.label           "Instal·la un complement d'un fitxer…">
 <!ENTITY installAddonFromFile.accesskey       "I">
 <!ENTITY toolsMenu.tooltip                    "Eines per a tots els complements">
 <!ENTITY cmd.back.tooltip                     "Vés enrere una pàgina">
