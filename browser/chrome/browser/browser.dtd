@@ -105,6 +105,7 @@ can reach it easily. -->
 <!ENTITY subscribeToPageMenuitem.label "Naroči se na to stran …">
 <!ENTITY addCurPagesCmd.label "Dodaj vse zavihke med zaznamke …">
 <!ENTITY showAllBookmarks2.label "Prikaži vse zaznamke">
+<!ENTITY bookmarkAllCmd.label "Dodaj vse zavihke med zaznamke …">
 <!ENTITY bookmarksToolbarChevron.tooltip "Prikaži več zaznamkov">
 
 <!ENTITY backCmd.label "Nazaj">
