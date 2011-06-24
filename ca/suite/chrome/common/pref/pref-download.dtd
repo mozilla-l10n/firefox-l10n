@@ -1,7 +1,7 @@
 <!ENTITY pref.download.title            "Baixades">
 
 <!ENTITY downloadBehavior.label "En iniciar una baixada">
-<!ENTITY focusWhenStarting.label        "Mostra'm el gestor de baixades si ja estava obert, i sinó:">
+<!ENTITY focusWhenStarting.label        "Mostra'm el gestor de baixades si ja estava obert, i si no:">
 <!ENTITY focusWhenStarting.accesskey    "M">
 <!ENTITY openDM.label "Obre el gestor de baixades">
 <!ENTITY openDM.accesskey "b">
