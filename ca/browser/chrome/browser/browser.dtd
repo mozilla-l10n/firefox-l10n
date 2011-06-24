@@ -34,7 +34,7 @@
 <!ENTITY  closeTab.label                     "Tanca la pestanya">
 <!ENTITY  closeTab.accesskey                 "c">
 
-<!ENTITY  listAllTabs.label      "List all tabs">
+<!ENTITY  listAllTabs.label      "Llista totes les pestanyes">
 
 <!ENTITY tabCmd.label "Obre una pestanya">
 <!ENTITY tabCmd.accesskey "T">
