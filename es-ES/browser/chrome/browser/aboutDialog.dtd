@@ -23,3 +23,11 @@
 <!ENTITY update.downloading.end "">
 <!ENTITY channel.description.start "Estás usando el canal ">
 <!ENTITY channel.description.end " para actualizar.">
+<!ENTITY channel.change "Cambiar">
+<!ENTITY channel.release.description "Disfruta de la versión probada final usada por cientos de millones de personas alrededor de todo el mundo. Ten el control de tu experiencia en la red con una velocidad increíble, fácil personalización y las últimas tecnologías web.">
+<!ENTITY channel.beta.description "Experimenta las tecnologías más punteras con más estabilidad. Proporciónanos información y comentarios para ayudar a refinar y pulir lo que esté en la versión final.">
+<!ENTITY channel.aurora.description "Experimenta las últimas novedades en un ambiente inestable que no está hecho para gente con problemas de corazón. Proporciónanos información de las características y el rendimiento para ayudar a determinar qué se incluirá en la versión final.">
+<!ENTITY channel.selector.start "Cambiar al canal">
+<!ENTITY channel.selector.end "para actualizar.">
+<!ENTITY channel.selector.applyButton "Aplicar y actualizar">
+<!ENTITY channel.selector.cancelButton "Cancelar">

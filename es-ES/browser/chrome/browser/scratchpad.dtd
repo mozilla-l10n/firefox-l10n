@@ -1,4 +1,4 @@
-<!ENTITY window.title "Borrador">
+<!ENTITY window.title "Scratchpad">
 <!ENTITY fileMenu.label "Archivo">
 <!ENTITY fileMenu.accesskey "A">
 <!ENTITY newWindowCmd.label "Nueva ventana">

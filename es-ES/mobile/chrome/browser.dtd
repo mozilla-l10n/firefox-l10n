@@ -70,7 +70,7 @@
 <!ENTITY consoleErrFile.label "Archivo de origen:">
 <!ENTITY consoleErrLine.label "Línea:">
 <!ENTITY consoleErrColumn.label "Columna:">
-<!ENTITY contextOpenInNewTab.label "Abrir enlace en otra pestaña">
+<!ENTITY contextOpenInNewTab.label "Abrir en una pestaña nueva">
 <!ENTITY contextSaveLink.label "Guardar enlace">
 <!ENTITY contextSaveImage.label "Guardar imagen">
 <!ENTITY contextShareLink.label "Compartir enlace">
