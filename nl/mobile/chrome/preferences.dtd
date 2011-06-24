@@ -8,7 +8,7 @@
 <!ENTITY enablePlugins.title                       "Plug-ins inschakelen">
 <!ENTITY privacy.title                             "Privacy &amp; beveiliging">
 <!ENTITY allowCookies.title                        "Cookies toestaan">
-<!ENTITY doNotTrack.title                          "Vertel websites mij niet te volgen">
+<!ENTITY doNotTrack.title                          "Websites vertellen mij niet te volgen">
 <!ENTITY clearPrivateData2.title                   "Privégegevens wissen">
 <!ENTITY clearPrivateData.button                   "Wissen">
 <!ENTITY rememberPasswords.title                   "Wachtwoorden onthouden">
