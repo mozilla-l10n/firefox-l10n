@@ -90,12 +90,12 @@
 <!ENTITY consoleErrLine.label      "Regel:">
 <!ENTITY consoleErrColumn.label    "Kolom:">
 
-<!ENTITY contextOpenInNewTab.label    "Koppeling openen in nieuw tabblad">
+<!ENTITY contextOpenInNewTab.label    "Openen in nieuw tabblad">
 <!ENTITY contextSaveLink.label        "Koppeling opslaan">
 <!ENTITY contextSaveImage.label       "Afbeelding opslaan">
 <!ENTITY contextShareLink.label       "Koppeling delen">
 <!ENTITY contextShareImage.label      "Afbeelding delen">
-<!ENTITY contextBookmarkLink.label    "Bladwijzerkoppeling">
+<!ENTITY contextBookmarkLink.label    "Bladwijzer maken">
 <!ENTITY contextSaveVideo.label       "Video opslaan">
 <!ENTITY contextShareVideo.label      "Video delen">
 <!ENTITY contextPlayMedia.label       "Afspelen">
