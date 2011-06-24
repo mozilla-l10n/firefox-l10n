@@ -50,7 +50,6 @@
 <!ENTITY addonShowPage.label       "Ir para a página">
 
 <!ENTITY downloadsHeader.label     "Transferências">
-
 <!ENTITY downloadShowPage.label    "Ir para a página">
 <!ENTITY downloadShow2.label        "Procurar">
 <!ENTITY downloadOpen2.label        "Abrir">
@@ -107,6 +106,7 @@
 <!ENTITY pageactions.saveas.pdf      "Guardar como PDF">
 <!ENTITY pageactions.share.page      "Partilhar página">
 <!ENTITY pageactions.password.forget "Esquecer senha">
+<!ENTITY pageactions.quit            "Sair">
 <!ENTITY pageactions.reset           "Limpar preferências do sítio">
 <!ENTITY pageactions.findInPage      "Procurar na página">
 <!ENTITY pageactions.search.addNew   "Adicionar motor de pesquisa">
