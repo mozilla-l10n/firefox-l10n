@@ -31,7 +31,7 @@
 <!ENTITY importFromEpiphany.accesskey   "E">
 <!ENTITY importFromGaleon.label         "Galeon">
 <!ENTITY importFromGaleon.accesskey     "G">
-<!ENTITY importFromHTMLFile.label       "À partir d'un fichier HTML">
+<!ENTITY importFromHTMLFile.label       "un fichier HTML">
 <!ENTITY importFromHTMLFile.accesskey   "f">
 
 <!ENTITY noMigrationSources.label       "Aucun logiciel contenant des marque-pages, un historique ou des mots de passe enregistrés n'a été trouvé.">
