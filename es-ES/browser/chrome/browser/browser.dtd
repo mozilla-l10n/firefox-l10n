@@ -157,15 +157,6 @@
 <!ENTITY inspectPanelTitle.label "HTML">
 <!ENTITY inspectButton.label "Inspeccionar">
 <!ENTITY inspectButton.accesskey "I">
-<!ENTITY inspectNextButton.label "Siguiente">
-<!ENTITY inspectNextButton.accesskey "n">
-<!ENTITY inspectPreviousButton.label "Anterior">
-<!ENTITY inspectPreviousButton.accesskey "t">
-<!ENTITY inspectStyleButton.label "Estilo">
-<!ENTITY inspectStyleButton.accesskey "s">
-<!ENTITY inspectStylePanelTitle.label "Estilo">
-<!ENTITY inspectObjectButton.label "Objeto">
-<!ENTITY inspectObjectButton.accesskey "O">
 <!ENTITY getMoreDevtoolsCmd.label "Conseguir más herramientas">
 <!ENTITY getMoreDevtoolsCmd.accesskey "M">
 <!ENTITY fileMenu.label "Archivo">
