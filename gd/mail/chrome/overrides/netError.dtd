@@ -22,7 +22,7 @@
 <!ENTITY generic.longDesc "<p>Chan urrainn do &brandShortName; an duilleag seo a luchdadh air sgàth adhbhar air choireigin.</p>">
 
 <!ENTITY malformedURI.title "Chan e seòladh dligheach a tha ann">
-<!ENTITY malformedURI.longDesc "<ul> <li>Bidh seòlaidhean-lìn coltach ris an fhear seo a ghnàth: <strong>http://www.ball-sampaill.com/</strong></li> <li>Dèan cinnteach gu bheil thu a' cleachdadh fiar-sgoraidhean (.i. <strong>/</strong>).</li></ul>">
+<!ENTITY malformedURI.longDesc "<ul> <li>Bidh seòlaidhean-lìn coltach ris an fhear seo a ghnàth: <strong>http://www.ball-sampaill.com/</strong></li> <li>Dèan cinnteach gu bheil thu a' cleachdadh slaisichean (.i. <strong>/</strong>).</li></ul>">
 
 <!ENTITY netInterrupt.title "Bhris rudeigin a-steach air a' cheangal">
 <!ENTITY netInterrupt.longDesc "&sharedLongDesc;">
