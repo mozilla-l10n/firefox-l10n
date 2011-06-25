@@ -28,11 +28,11 @@
 <!ENTITY netInterrupt.longDesc "&sharedLongDesc;">
 
 <!ENTITY netOffline.title "Am modh far loidhne">
-<!ENTITY netOffline.longDesc "
+<!ENTITY netOffline.longDesc2 "
 <ul>
-  <li>Cuir &brandShortName; sa mhodh air loidhne agus feuch ris a-rithist.</li>
+  <li>Briog air &quot;Feuch ris a-rithist&quot; a chum a' mhodh air loidhne agus luchdaich an duilleag a-rithist.</li>
 </ul>
-   ">
+">
 
 <!ENTITY contentEncodingError.title "Mearachad ann an còdachadh na susbaint">
 <!ENTITY contentEncodingError.longDesc "<ul> <li>Nach leig thu fios air an duilgheadas seo gun fheadhainn aig a bheil an làrach-lìn?</li> </ul>">
@@ -85,6 +85,10 @@
 
 <!ENTITY cspFrameAncestorBlocked.title "'Ga chasgadh le poileasaidh tèarainteachd susbainte">
 <!ENTITY cspFrameAncestorBlocked.longDesc "<p>Chuir &brandShortName; casg air luchdadh na duilleige seo air an dòigh seo a chionn 's gu bheil poileasaidh tèarainteachd susbainte ann nach eil 'ga cheadachadh.</p>">
+
+<!ENTITY corruptedContentError.title "Mearachd air sgàth susbaint thruaillte">
+<!ENTITY corruptedContentError.longDesc "<p>Chan fhaic thu an t-susbaint a dh'iarr thu air sgàth mearachd ann an tar-chur an dàta.</p><ul><li>Cuir fios gu seilbheadair na làraich mun duilgheadas seo.</li></ul>">
+
 
 <!ENTITY securityOverride.linkText "No 's urrainn dhut eisgeachd a chur ris…">
 <!ENTITY securityOverride.getMeOutOfHereButton "A-mach às an àite seo leam!">
