@@ -11,6 +11,9 @@
 <!ENTITY installAddonFromFile.accesskey       "й">
 <!ENTITY toolsMenu.tooltip                    "Барлық файлдар үшін саймандар">
 
+<!ENTITY info.plugincheck.label                 "Плагиндеріңіздің барлығы жаңа ма, соны тексеріңіз">
+<!ENTITY info.plugincheck.tooltip               "Плагиндеріңіздің барлығы жаңа ма, соны тексеріңіз">
+
 <!ENTITY cmd.back.tooltip                     "Бір параққа қайту">
 <!ENTITY cmd.forward.tooltip                  "Бір параққа алға бару">
 
