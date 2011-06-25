@@ -29,6 +29,8 @@
 <!ENTITY checkNow.accesskey              "n">
 <!ENTITY submitCrashes.label             "A' cur a-steach aithisgean tuislidh">
 <!ENTITY submitCrashes.accesskey         "s">
+<!ENTITY submitTelemetry.label           "Cuir a-null dàta dèanadais">
+<!ENTITY submitTelemetry.accesskey       "d">
 
 <!ENTITY networkTab.label                "Lìonra">
 
