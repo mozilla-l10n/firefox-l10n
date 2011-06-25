@@ -22,6 +22,8 @@
 <!ENTITY checkNow.accesskey "е">
 <!ENTITY submitCrashes.label "Отправлять сообщения о падениях">
 <!ENTITY submitCrashes.accesskey "т">
+<!ENTITY submitTelemetry.label "Отправлять данные о производительности">
+<!ENTITY submitTelemetry.accesskey "я">
 <!ENTITY networkTab.label "Сеть">
 <!ENTITY connection.label "Соединение">
 <!ENTITY connectionDesc.label "Настройка параметров соединения &brandShortName; с Интернетом">
