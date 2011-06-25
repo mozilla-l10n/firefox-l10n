@@ -44,7 +44,7 @@
 <!ENTITY pref.dateformat.label "Fòrmat teacs nan ceann-là:" >
 <!ENTITY pref.dateformat.accesskey "F">
 <!ENTITY pref.dateformat.long "Fada" >
-<!ENTITY pref.dateformat.short "Short"  >
+<!ENTITY pref.dateformat.short "Goirid"  >
 <!ENTITY pref.defaultlength.label "Faid bhunaiteach de thachartas:" >
 <!ENTITY pref.defaultlength.accesskey "e">
 <!ENTITY pref.defaultsnoozelength.label "Faid bhunaiteach an dùsail:" >
