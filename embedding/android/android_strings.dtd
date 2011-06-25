@@ -1,5 +1,5 @@
-<!ENTITY  splash_screen_loading "Chargement">
-<!ENTITY  splash_screen_installing_libs "Installation des bibliothèques\u2026">
+<!ENTITY  splash_screen_label "Chargement">
+<!ENTITY  splash_screen_installing "Installation des bibliothèques\u2026">
 <!ENTITY  splash_firstrun "configuration de &brandShortName;\u2026">
 <!ENTITY  incompatable_cpu_error "Cet appareil n\u0027atteint pas les prérequis système minimaux pour &brandShortName;.">
 <!ENTITY  no_space_to_start_error "Il n\u0027y a pas assez d\u0027espace disponible pour permettre à &brandShortName; de démarrer.">
