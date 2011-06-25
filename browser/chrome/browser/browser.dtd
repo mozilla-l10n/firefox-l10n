@@ -463,6 +463,13 @@ you can use these alternative items. Otherwise, their values should be empty.  -
 <!ENTITY closeCmd.key                   "W">  
 <!ENTITY closeCmd.accesskey             "Ж">
 
+<!ENTITY unsortedBookmarksCmd.label "Сұрыпталмаған бетбелгілер">
+
+<!ENTITY getMoreDevtoolsCmd.label        "Көбірек саймандарды алу">
+<!ENTITY getMoreDevtoolsCmd.accesskey    "а">
+<!ENTITY webDeveloperMenu.label       "Веб өндіруші">
+<!ENTITY webDeveloperMenu.accesskey   "В">
+
 <!ENTITY pageStyleMenu.label "Парақ стилі">
 <!ENTITY pageStyleMenu.accesskey "с">
 <!ENTITY pageStyleNoStyle.label "Стильсіз">
