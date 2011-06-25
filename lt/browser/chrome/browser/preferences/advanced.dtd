@@ -62,6 +62,8 @@
 <!ENTITY checkNow.accesskey              "d">
 <!ENTITY submitCrashes.label             "Siųsti strigčių pranešimus">
 <!ENTITY submitCrashes.accesskey         "S">
+<!ENTITY submitTelemetry.label           "Siųsti našumo ataskaitas">
+<!ENTITY submitTelemetry.accesskey       "m">
 
 <!ENTITY networkTab.label                "Tinklas">
 
