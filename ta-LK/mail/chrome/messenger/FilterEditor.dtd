@@ -17,10 +17,10 @@
 <!ENTITY contextDesc.label "இதன் போது வடிகட்டியினை பிரயோகிக்க:">
 <!ENTITY contextDesc.accesskey "w">
 <!ENTITY contextIncoming.label "அஞ்சலை சரிபார்க்க">
-<!ENTITY contextManual.label "Manually இயக்குக">
-<!ENTITY contextBoth.label "அஞ்சலை சரிபார்க்க அல்லது Manually இயக்குக">
-<!ENTITY contextPostPlugin.label "அஞ்சல் சரிபார்க்கப்படுகிறது (after classification)">
-<!ENTITY contextPostPluginBoth.label "அஞ்சலை சரிபார்க்க (after classification) அல்லது Manually இயக்குக">
+<!ENTITY contextManual.label "கையால் இயக்குக">
+<!ENTITY contextBoth.label "அஞ்சலை சரிபார்க்க அல்லது கையால் இயக்குக">
+<!ENTITY contextPostPlugin.label "அஞ்சல் சரிபார்க்கப்படுகிறது (வகைப்படுத்தப்பட்ட பிறகு)">
+<!ENTITY contextPostPluginBoth.label "அஞ்சலை சரிபார்க்க (வகைப்படுத்தப்பட்ட பிறகு) அல்லது கையால் இயக்குக">
 <!ENTITY filterActionDesc.label "இந்தச் செயல்களை செய்க:">
 <!ENTITY filterActionDesc.accesskey "P">
 
@@ -39,9 +39,9 @@
 <!ENTITY deleteMessage.label "அஞ்சலை நீக்குக">
 <!ENTITY deleteFromPOP.label "POP சேவையகத்திலிருந்து நீக்குக">
 <!ENTITY fetchFromPOP.label "POP சேவையகத்திலிருந்து கொணர்க">
-<!ENTITY ignoreThread.label "Threadஐ தவிர்க்கவும்">
-<!ENTITY ignoreSubthread.label "Subthread ஐ தவிர்க்கவும்">
-<!ENTITY watchThread.label "Threadஐ கவனிக்கவும்">
+<!ENTITY ignoreThread.label "புரிஉருவை தவிர்க்கவும்">
+<!ENTITY ignoreSubthread.label "உப புரிஉருவை தவிர்க்கவும்">
+<!ENTITY watchThread.label "புரிஉருவை கவனிக்கவும்">
 <!ENTITY stopExecution.label "வடி இயக்கத்தினை நிறுத்துக">
 
 
@@ -51,4 +51,4 @@ Entities below were automatically added by compare-locales,
  based on en-US entities.
 -->
 
-<!ENTITY filterEditorDialog.dimensions "width: 100ch;">
+<!ENTITY filterEditorDialog.dimensions "அகலம்: 100ch;">

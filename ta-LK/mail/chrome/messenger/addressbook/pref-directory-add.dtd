@@ -65,9 +65,9 @@
 <!ENTITY return.accesskey "r">
 <!ENTITY results.label "முடிவுகள்">
 <!ENTITY offlineText.label "இந்த அடைவின் உள்ளூர் பிரதியை நீங்க தரவிறக்கிலாம், இதனால் நீங்க இணைப்பில் இல்லாதப்போதும் அது கிடைக்கும்">
-<!ENTITY saslMechanism.label               "Login method: ">
+<!ENTITY saslMechanism.label               "பொது பதிகை முறை: ">
 <!ENTITY saslMechanism.accesskey           "m">
-<!ENTITY saslOff.label                     "Simple">
+<!ENTITY saslOff.label                     "சாதாரணம்">
 <!ENTITY saslOff.accesskey                 "l">
 <!ENTITY saslGSSAPI.label                  "Kerberos (GSSAPI)">
 <!ENTITY saslGSSAPI.accesskey              "K">

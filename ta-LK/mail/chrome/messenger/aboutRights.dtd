@@ -1,6 +1,6 @@
 <!-- rights.locale-direction instead of the usual local.dir entity, so RTL can skip translating page. -->
 <!ENTITY rights.locale-direction "ltr">
-<!ENTITY rights.title            "About Your Rights">
+<!ENTITY rights.title            "உங்களது உரிமைகள் பற்றியது">
 <!ENTITY rights.intro-header    "உங்களது உரிமைகளைப் பற்றியது">
 <!ENTITY rights.intro "&brandFullName; உலகத்தில் உள்ள ஆயிரக்கணக்கான சமூகத்தினரால் எழுப்பப்பட்ட இலவச திறந்த மூல மென்பொருளாகும்.நீங்கள் அறிய வேண்டியவை சில காணப்படுகின்றன:">
 
@@ -47,7 +47,7 @@
 <!-- intro paragraph for branded builds -->
 <!ENTITY rights.webservices-a "இணையத்தள தகவல் சேவைகளை (&quot;Services&quot;) &brandFullName; பயன்படுத்துகின்றது, அவையாவன பாதுகாப்பு உலாவல் சேவை,கீழே விவரிக்கப்பட்டுள்ளது போல் இது உங்கள் பயன்பாட்டிற்காக &brandShortName; இனுடைய இருமப் பதிப்புடன் காணப்படுகிறது.நீங்கள் சேவைகளைப் பயன்படுத்த விரும்பாவிடின் அல்லது விதிமுறைகள் கீழே ஏற்றுக்கொள்ளப்படாதிருந்தால்,செயலி முன்னுரிமைகளை திறப்பதன் மூலம் SafeBrowsing சேவையை நீங்கள் இயலாமைப்படுத்தலாம். ">
 <!ENTITY rights.webservices-b "உயர்தரம்">
-<!ENTITY rights.webservices-c " பிரிவு, followed by the ">
+<!ENTITY rights.webservices-c " பிரிவு, பின்தொடரப்பட்டது ">
 <!ENTITY rights.webservices-d "இற்றைப்படுத்தல்">
 <!ENTITY rights.webservices-e " தத்தல்,மற்றும் &quot;இற்கான சரிபார்க்காத தெரிவுகள் &quot; இற்றைப்படுத்தல்களுக்காக தானாக சரிபார்க்கும்.">
 
@@ -60,7 +60,7 @@
 <!-- points 1-7 text for branded builds -->
 <!ENTITY rights.webservices-term1 "&vendorShortName; தனனுடைய விருப்பப்படி சேவைகளை மாற்றலாம் அல்லது தொடராமல் விடலாம்.">
 <!ENTITY rights.webservices-term2 "&brandShortName; இனுடைய பதிப்புடன் இந்த சேவைகளைப் பயன்படுத்துவதற்கு நீங்கள் வரவேற்கப்படுவதுடன் இவற்றைச் செய்வதற்குத் தேவையான எல்லா உரிமைகளையும் நீங்கள் கொண்டுள்ளீர்கள்.  &vendorShortName; மற்றும் இதனுடைய licensors இந்த சேவைகளிலுள்ள ஏனைய எல்லா உரிமைகளையும் ஒதுக்கி வைத்துள்ளார்கள்.&brandShortName;இனுடைய corresponding source code பதிப்புகளிற்கு மற்றும் &brandShortName; இற்குப் பொருத்தமான திறந்த மூல அனுமதிப் பத்திரத்தின் கீழ் அளிக்கப்பட்ட ஏதாவது உரிமைகளை வரையறுப்பதற்கு இந்த விதிமுறைகள் அவசியமற்றவை.">
-<!ENTITY rights.webservices-term3 "The Services are provided &quot;as-is.&quot;  &vendorShortName;, its contributors, licensors, and distributors, disclaim all warranties, whether express or implied, including without limitation, warranties that the Services are merchantable and fit for your particular purposes.  You bear the entire risk as to selecting the Services for your purposes and as to the quality and performance of the Services. Some jurisdictions do not allow the exclusion or limitation of implied warranties, so this disclaimer may not apply to you.">
+<!ENTITY rights.webservices-term3 "இந்த சேவைகள் வழங்கப்பட்டது&quot;as-is.&quot;  &vendorShortName;, its contributors, licensors, and distributors, disclaim all warranties, whether express or implied, including without limitation, warranties that the Services are merchantable and fit for your particular purposes.  You bear the entire risk as to selecting the Services for your purposes and as to the quality and performance of the Services. Some jurisdictions do not allow the exclusion or limitation of implied warranties, so this disclaimer may not apply to you.">
 <!ENTITY rights.webservices-term4 "சட்டத்தினால் தேவைப்படுவதைத் தவிர,எந்த வகையிலும் &brandShortName;இனுடைய பயன்பாட்டிற்கும் மற்றும் சேவைகளிற்கும் அல்லது ஏதாவது மறைமுக,விசேட,incidental, consequential, punitive, அல்லது முன்மாதிரியான சேதங்களை ஏற்படுத்துவதற்கும் &vendorShortName;,இதனுடைய பங்காளர்கள், licensors,விநியோகத்தர்கள் பொறுப்பாக இருக்கமாட்டார்கள்.இந்த விதிமுறைகளிற்குக் கீழ்ப்பட்ட கூட்டு பொறுப்புக்கள் $500 (five hundred dollars) தாண்டாது. சில சட்டங்கள் குறிப்பிட்ட சேதங்களை விலக்குதல் அல்லது வரையறுத்தல் போன்றவற்றிற்கு அனுமதிக்கமாட்டாது, ஆகையால் இந்த விலக்குதல் மற்றும் வரையறுத்தல் போன்றவற்றை உங்களுக்கு பிரயோகிக்க இயலாது.">
 <!ENTITY rights.webservices-term5 "தேவை ஏற்படும் பொழுது &vendorShortName; இந்த விதிமுறைகளை இற்றைப்படுத்தலாம்.&vendorShortName; இனுடைய எழுதப்பட்ட ஒப்பந்தமில்லாமல் இந்த விதிமுறைகளை இரத்துச் செய்யவோ அல்லது மாற்றம் செய்யவோ இயலாது.">
 <!ENTITY rights.webservices-term6 "இதனுடைய சட்டவிதிமுறைகளினுடைய குழப்பங்களைத் தவிர்த்து இந்த விதிமுறைகளானது அமெரிக்காவின் கலிபோனியா சட்டங்களினால் முகாமைப்படுத்தப்படுகின்றது. இந்த விதிமுறைகளினுடைய ஏதாவது பகுதி செல்லுபடியற்றதாக அல்லது அமுல்படுத்த இயலாதிருப்பின்,ஏனைய பகுதிகள் பலத்துடனும் திறனுடனும் தொடர்ந்து இருக்கும்.இந்த விதிமுறைகளினுடைய மொழிபெயர்க்கப்பட்ட பதிப்பு மற்றும் ஆங்கில மொழிப் பதிப்பு ஆகியவற்றிற்கிடையில் குழப்பமான நிகழ்ச்சி இருப்பின் அதனை ஆங்கில மொழிப்பதிப்பு கட்டுப்படுத்தும்.">

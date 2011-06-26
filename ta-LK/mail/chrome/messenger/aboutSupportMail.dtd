@@ -5,16 +5,16 @@ Entities below were automatically added by compare-locales,
  based on en-US entities.
 -->
 
-<!ENTITY aboutSupport.accountsDefault "Default?">
-<!ENTITY aboutSupport.appBasicsAppBuildID "Application Build ID">
-<!ENTITY aboutSupport.showPrivateData.mainText "Include account names">
-<!ENTITY aboutSupport.accountsAuthMethod "Authentication method">
-<!ENTITY aboutSupport.accountsOutgoingServers "Outgoing servers">
+<!ENTITY aboutSupport.accountsDefault "பொது இருப்பு?">
+<!ENTITY aboutSupport.appBasicsAppBuildID "செயலியினால் உருவாக்கப்பட்ட ID">
+<!ENTITY aboutSupport.showPrivateData.mainText "கணக்கு பெயர்களும் சேர்க்கப்பட்டது">
+<!ENTITY aboutSupport.accountsAuthMethod "அத்தாட்சிப்படுத்தல் முறைகள்">
+<!ENTITY aboutSupport.accountsOutgoingServers "வெளிச்செல்லும் சேவையகம்">
 <!ENTITY aboutSupport.accountsID "ID">
-<!ENTITY aboutSupport.accountsTitle "Mail and News Accounts">
-<!ENTITY aboutSupport.accountsName "Name">
-<!ENTITY aboutSupport.showPrivateData.explanationText "(possibly identifying information)">
-<!ENTITY aboutSupport.accountsServerName "Name">
-<!ENTITY aboutSupport.sendViaEmail.label "Send via email">
-<!ENTITY aboutSupport.accountsIncomingServer "Incoming server">
-<!ENTITY aboutSupport.accountsConnSecurity "Connection security">
+<!ENTITY aboutSupport.accountsTitle "அஞ்சல் மற்றும் செய்தி கணக்குகள்">
+<!ENTITY aboutSupport.accountsName "பெயர்">
+<!ENTITY aboutSupport.showPrivateData.explanationText "(தகவல்களை அறிவதற்கான சாத்தியக்கூறு)">
+<!ENTITY aboutSupport.accountsServerName "பெயர்">
+<!ENTITY aboutSupport.sendViaEmail.label "மின்னஞ்சல் ஊடாக அனுப்பப்கட்டது.">
+<!ENTITY aboutSupport.accountsIncomingServer "உள்வரும் சேவையகம்">
+<!ENTITY aboutSupport.accountsConnSecurity "பாதுகாப்பு இணைப்பு">

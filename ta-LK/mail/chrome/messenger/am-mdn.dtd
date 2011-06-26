@@ -11,7 +11,7 @@
 <!-- LOCALIZATION NOTE moveToSent.label Translate: 'Sent' according to Netscape glossary -->
 <!ENTITY moveToSent.label "என் &quot;Sent&quot;  கோப்புறைக்கு அதை நகர்த்துக">
 <!ENTITY moveToSent.accesskey "M">
-<!ENTITY requestMDN.label "பெறுதல் Receipt கோரிக்கை எனக்கு கிடைக்கும் போது:">
+<!ENTITY requestMDN.label "பெறுதல் பற்றுச்சீட்டு கோரிக்கை எனக்கு கிடைக்கும் போது:">
 <!ENTITY returnSome.label "சில அஞ்சல்களில் பெறுதல் பற்றுச்சீட்டை அனுமதிக்கவும்.">
 <!ENTITY returnSome.accesskey "e">
 <!ENTITY never.label "பெறுதல் பற்றுச்சீட்டை  எப்பவுமே அனுப்பவேண்டாம்.">

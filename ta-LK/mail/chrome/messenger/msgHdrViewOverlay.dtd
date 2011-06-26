@@ -72,7 +72,7 @@
 <!ENTITY saveAsMenuItem.accesskey "S">
 <!ENTITY viewSourceMenuItem.label "மூலத்தினை நோக்குக…">
 <!ENTITY viewSourceMenuItem.accesskey "V">
-<!ENTITY otherActionsPrint.label "print…">
+<!ENTITY otherActionsPrint.label "அச்சிடுக…">
 <!ENTITY otherActionsPrint.accesskey "p">
 
 <!ENTITY openAttachmentCmd.label    "திறக்க">
@@ -105,46 +105,46 @@ Entities below were automatically added by compare-locales,
 <!ENTITY deleteAttachmentMenuItem.accesskey "e">
 <!ENTITY markAsReadMenuItem.accesskey "r">
 <!ENTITY deleteAllAttachmentsMenuItem.accesskey "e">
-<!ENTITY hdrReplyAllButton.tooltip "reply to sender and all recipients">
-<!ENTITY hdrViewToolbarShowFull.label "Show Icons and Text">
+<!ENTITY hdrReplyAllButton.tooltip "அனுப்புனருக்கும் மற்றும் எல்லா பெறுனருக்கும் பதிலிடுக">
+<!ENTITY hdrViewToolbarShowFull.label "சின்னங்களையும் உரையையும் காட்டுக">
 <!ENTITY detachAllAttachmentsMenuItem.accesskey "d">
-<!ENTITY hdrTrashButton.tooltip "delete this message">
-<!ENTITY openAllAttachmentsMenuItem.label "open all…">
-<!ENTITY deleteAllAttachmentsMenuItem.label "delete all…">
+<!ENTITY hdrTrashButton.tooltip "இந்த செய்தியை அழிக்க">
+<!ENTITY openAllAttachmentsMenuItem.label "எல்லாவற்றையும் திறக்க…">
+<!ENTITY deleteAllAttachmentsMenuItem.label "எல்லாவற்றையும் அழிக்க…">
 <!ENTITY otherActionsOpenConversation.accesskey "c">
 <!ENTITY hdrViewToolbarAlwaysReplySender.accesskey "R">
-<!ENTITY hdrViewToolbarShowText.label "Show Text Only">
-<!ENTITY deleteAttachmentMenuItem.label "delete">
-<!ENTITY hdrReplyButton.tooltip "reply to this message">
-<!ENTITY saveAttachmentButton.tooltip "save the attached file">
-<!ENTITY markAsUnreadMenuItem.label "mark as unread">
+<!ENTITY hdrViewToolbarShowText.label "உரையை மட்டும் காட்டுக">
+<!ENTITY deleteAttachmentMenuItem.label "அழிக்க">
+<!ENTITY hdrReplyButton.tooltip "இந்த செய்திக்கு பதிலிடுக">
+<!ENTITY saveAttachmentButton.tooltip "உடனிணைக்கப்பட்ட கோப்பை சேமிக்க">
+<!ENTITY markAsUnreadMenuItem.label "வாசிக்கப்படாததை குறியிடுக">
 <!ENTITY detachAttachmentCmd.accesskey "T">
-<!ENTITY saveAllAttachmentsButton.label "save all">
+<!ENTITY saveAllAttachmentsButton.label "எல்லாவற்றையும் சேமிக்க">
 <!ENTITY detachAllAttachmentsMenuItem.label "detach all…">
 <!ENTITY detachAttachmentMenuItem.accesskey "d">
 <!ENTITY markAsUnreadMenuItem.accesskey "r">
-<!ENTITY openAttachmentMenuItem.label "open">
+<!ENTITY openAttachmentMenuItem.label "திற்க்க">
 <!ENTITY saveAsAttachmentMenuItem.accesskey "s">
 <!ENTITY openAllAttachmentsMenuItem.accesskey "o">
 <!ENTITY deleteAttachmentCmd.accesskey "L">
-<!ENTITY hdrViewToolbarShowIcons.label "Show Icons Only">
+<!ENTITY hdrViewToolbarShowIcons.label "சின்னங்களை மட்டும் காட்டுக">
 <!ENTITY saveAllAttachmentsMenuItem.accesskey "s">
 <!ENTITY detachAttachmentMenuItem.label "detach…">
-<!ENTITY hdrForwardButton.tooltip "forward this message">
-<!ENTITY openAllAttachmentsCmd.label "Open All…">
+<!ENTITY hdrForwardButton.tooltip "இந்த செய்தியை முன்னனுப்புக">
+<!ENTITY openAllAttachmentsCmd.label "எல்லாவற்றையும் திறக்க…">
 <!ENTITY openAllAttachmentsCmd.accesskey "O">
-<!ENTITY saveAttachmentButton.label "save">
-<!ENTITY hdrArchiveButton.tooltip "archive this message">
+<!ENTITY saveAttachmentButton.label "சேமிக்க">
+<!ENTITY hdrArchiveButton.tooltip "இந்த செய்தியை ஆவணக்காப்பிடுக">
 <!ENTITY hdrViewToolbarShowIcons.accesskey "I">
 <!ENTITY hdrViewToolbarShowFull.accesskey "a">
-<!ENTITY otherActionsOpenConversation.label "open in conversation">
-<!ENTITY markAsReadMenuItem.label "mark as read">
-<!ENTITY hdrViewToolbarAlwaysReplySender.label "Always Show Reply to Sender">
-<!ENTITY saveAsAttachmentMenuItem.label "save as…">
-<!ENTITY hdrJunkButton.tooltip "mark this message as junk">
-<!ENTITY hdrReplyListButton.tooltip "reply to mailing list">
-<!ENTITY hdrTrashButton.label "delete">
-<!ENTITY hdrArchiveButton.label "archive">
+<!ENTITY otherActionsOpenConversation.label "உரையாடலில் திறக்க">
+<!ENTITY markAsReadMenuItem.label "வாசிக்கப்பட்டதாக குறியிடுக">
+<!ENTITY hdrViewToolbarAlwaysReplySender.label "எப்போதும் பதிலிடுவதை அனுப்புனருக்கு காட்டுக">
+<!ENTITY saveAsAttachmentMenuItem.label "என சேமி…">
+<!ENTITY hdrJunkButton.tooltip "இந்த செய்தியை கூளம் என குறிப்படுக">
+<!ENTITY hdrReplyListButton.tooltip "அனுப்படுகிற பட்டியலுக்கு பதிலிடுக">
+<!ENTITY hdrTrashButton.label "அழிக்க">
+<!ENTITY hdrArchiveButton.label "ஆவணகாப்பு">
 <!ENTITY openAttachmentMenuItem.accesskey "o">
-<!ENTITY saveAllAttachmentsButton.tooltip "save all the attached files">
-<!ENTITY saveAllAttachmentsMenuItem.label "save all…">
+<!ENTITY saveAllAttachmentsButton.tooltip "உடனிணைக்கப்பட்ட எல்லா கோப்புகளையும் சேமிக்க">
+<!ENTITY saveAllAttachmentsMenuItem.label "எல்லாவற்றையும் சேமிக்க…">

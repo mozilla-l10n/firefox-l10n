@@ -14,7 +14,7 @@
 <!ENTITY searchMsgsLink.label "செய்திகளை தேடுக">
 <!ENTITY filtersLink.label "செய்தி வடிகட்டிகளை நிர்வகிக்கவும்">
 <!ENTITY junkSettings.label "கூள அஞ்சல் அமைவுகள்">
-<!ENTITY offlineLink.label "Offline அமைவுகள்">
+<!ENTITY offlineLink.label "இணைப்பில்லா நிலை அமைவுகள்">
 
 
 <!ENTITY feedsSectionHdr.label        "பின்னூடடுக்கள்">

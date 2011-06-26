@@ -2,7 +2,7 @@
 <!ENTITY itemAutoComplete.label "பெயருக்கு முன்னுள்ள மரியாதை சொல்">
 <!ENTITY itemSpellCheck.label "சொற்கள்">
 
-<!ENTITY forwardMsg.label " இவ்வாறு அஞ்சல்களை Forward">
+<!ENTITY forwardMsg.label " இவ்வாறு அஞ்சல்களை முன்னனுப்புக">
 <!ENTITY forwardMsg.accesskey "f">
 <!ENTITY inline.label "Inline">
 <!ENTITY asAttachment.label "உடனிணைப்பாக">
@@ -41,7 +41,7 @@
 <!ENTITY autocompleteText.label "அஞ்சல் முகவரிகளுக்கான, ஒத்த பதிவுகளை இதில் தேடுக:">
 <!ENTITY addressingEnable.label "உள்ளக முகவரிப்புத்தகங்கள்">
 <!ENTITY addressingEnable.accesskey "A">
-<!ENTITY directories.label " Directory சேவையகம்">
+<!ENTITY directories.label " அடைவு சேவையகம்">
 <!ENTITY directories.accesskey "D">
 <!ENTITY directoriesNone.label                 "ஒன்றுமில்லை">
 <!ENTITY editDirectories.label " அடைவுகளைச் செவ்வையாக்கு...">
@@ -51,7 +51,7 @@
 <!ENTITY sendOptions.label "அனுப்பும் விருப்பங்கள்">
 <!ENTITY sendOptions.accesskey "S">
 
-<!ENTITY attachmentReminder.label              "தவறவிடப்பட்ட attachments களை சரிபார்க்க">
+<!ENTITY attachmentReminder.label              "தவறவிடப்பட்ட உடனிணைப்புகளை சரிபார்க்க">
 <!ENTITY attachmentReminder.accesskey          "m">
-<!ENTITY attachmentReminderOptions.label       "Keywords…">
+<!ENTITY attachmentReminderOptions.label       "முக்கியச்சொல்…">
 <!ENTITY attachmentReminderOptions.accesskey   "K">

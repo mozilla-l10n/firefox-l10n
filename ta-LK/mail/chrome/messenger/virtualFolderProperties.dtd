@@ -20,6 +20,6 @@ Entities below were automatically added by compare-locales,
 -->
 
 <!ENTITY newFolderButton.accesskey "r">
-<!ENTITY newFolderButton.label "Create">
-<!ENTITY editFolderButton.label "Update">
+<!ENTITY newFolderButton.label "உருவாக்குக">
+<!ENTITY editFolderButton.label "இற்​றைப்படுத்துக">
 <!ENTITY editFolderButton.accesskey "U">

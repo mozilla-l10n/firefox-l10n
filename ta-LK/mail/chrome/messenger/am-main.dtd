@@ -13,16 +13,16 @@
 <!ENTITY replyTo.accesskey "S">
 <!ENTITY organization.label "நிறுவனம்:">
 <!ENTITY organization.accesskey "O">
-<!ENTITY signatureText.label "Signature text:">
+<!ENTITY signatureText.label "கைபொப்ப உரை:">
 <!ENTITY signatureText.accesskey "x">
-<!ENTITY signatureHtml.label "Use HTML (e.g., &lt;b&gt;bold&lt;/b&gt;)">
+<!ENTITY signatureHtml.label "HTML உபயோகிக்க (e.g., &lt;b&gt;bold&lt;/b&gt;)">
 <!ENTITY signatureHtml.accesskey "L">
-<!ENTITY signatureFile.label "Attach the signature from a file instead (text, HTML, or image):">
+<!ENTITY signatureFile.label "கோப்புக்கு பதிலாக கையொப்பத்தை இணைக்கவும்  (text, HTML, or image):">
 <!ENTITY signatureFile.accesskey "t">
 <!ENTITY edit.label "செவ்வையாக்கு...">
 <!ENTITY choose.label "தேர்ந்தெடு...">
 <!ENTITY choose.accesskey "C">
-<!ENTITY editVCard.label "Cardஐ செவ்வையாக்கு....">
+<!ENTITY editVCard.label "அட்டையை செவ்வையாக்கு....">
 <!ENTITY editVCard.accesskey "d">
 <!-- LOCALIZATION NOTE (attachVCard.label) : do not translate "vCard" in below line -->
 <!ENTITY attachVCard.label "அஞ்சல்களில் என் vCard-ஐ இணைக்கவும்">

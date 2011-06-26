@@ -22,9 +22,9 @@
 <!ENTITY draftInOtherFolder.label "வேறு:">
 <!ENTITY draftInOtherFolder.accesskey "R">
 <!-- LOCALIZATION NOTE (archivesFolderOn.label): OK to translate this, bug #57440 -->
-<!ENTITY archivesFolderOn.label "&quot;Archives&quot; Folder on:">
+<!ENTITY archivesFolderOn.label "&quot;Archives&quot; கோப்புறை on:">
 <!ENTITY archivesFolderOn.accesskey "D">
-<!ENTITY archiveInOtherFolder.label "Other:">
+<!ENTITY archiveInOtherFolder.label "மற்றவை:">
 <!ENTITY archiveInOtherFolder.accesskey "t">
 <!-- LOCALIZATION NOTE (templatesFolderOn.label): OK to translate this, bug #57440 -->
 <!ENTITY templatesFolderOn.label "&quot;Templates&quot; கோப்புறை:">
@@ -32,7 +32,7 @@
 <!ENTITY templateInOtherFolder.label "வேறு:">
 <!ENTITY templateInOtherFolder.accesskey "R">
 <!ENTITY keepDrafts.label "அஞ்சல் முதல் வரைபுகளை இங்கே சேமிக்கவும்:">
-<!ENTITY keepArchives.label "Keep message archives in:">
+<!ENTITY keepArchives.label "செய்தி ஆவணக்காப்பை உள்ளே வைக்க:">
 
 
 <!--
@@ -42,11 +42,11 @@ Entities below were automatically added by compare-locales,
 
 <!ENTITY keepArchives.accesskey "K">
 <!ENTITY ccAddress.accesskey "C">
-<!ENTITY archivesTitle.label "Message Archives">
-<!ENTITY ccAddressList.placeholder "Separate addresses with commas">
-<!ENTITY ccAddress.label "Cc these email addresses:">
-<!ENTITY archiveHierarchyButton.label "Archive options…">
-<!ENTITY specialFolders.label "Drafts and Templates">
+<!ENTITY archivesTitle.label "செய்தி ஆவணக்காப்பு">
+<!ENTITY ccAddressList.placeholder "காற்புள்ளிகளால் முகவரியை வேறுப்படுத்துக">
+<!ENTITY ccAddress.label "Cc இந்த மின்னஞ்சல் முகவரிகள்:">
+<!ENTITY archiveHierarchyButton.label "ஆவணக்காப்பு தெரிவுகள்…">
+<!ENTITY specialFolders.label "முதல் வரைவு மற்றும் முன் வடிவு">
 <!ENTITY archiveHierarchyButton.accesskey "A">
-<!ENTITY keepTemplates.label "Keep message templates in:">
-<!ENTITY bccAddressList.placeholder "Separate addresses with commas">
+<!ENTITY keepTemplates.label "முன் வடிவில் செய்தியை வைக்கவும்:">
+<!ENTITY bccAddressList.placeholder "காற்புள்ளிகளால் முகவரியை வேறுப்படுத்துக">

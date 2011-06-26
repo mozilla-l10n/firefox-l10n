@@ -10,35 +10,35 @@ Entities below were automatically added by compare-locales,
 -->
 
 <!ENTITY update.failed.end "">
-<!ENTITY channel.change "Change">
-<!ENTITY channel.aurora.description "Experience the newest innovations in an unstable environment that's not for the faint of heart. Provide feedback on features and performance to help determine what makes the final release.">
-<!ENTITY update.noUpdatesFound "&brandShortName; is up to date">
-<!ENTITY update.downloading.start "Downloading update — ">
+<!ENTITY channel.change "மாற்றுக">
+<!ENTITY channel.aurora.description "நிலையற்ற சூழலில் புதிய முயற்சிகளின் அனுபவங்கள் வலுவற்ற இதயம் அல்ல. இறுதி வெளியீட்டை பற்றி தீர்மானிப்பதற்கு உதவியாக சிறப்பியல்புகள் மற்றும் செயற்றிறன் பற்றிய ஒரு பின்னூட்டலை வழங்குக.">
+<!ENTITY update.noUpdatesFound "&brandShortName; நவீனமான">
+<!ENTITY update.downloading.start "இற்றைப்படுத்தல் பதிவிறக்கப்படுகிறது — ">
 <!ENTITY update.manual.end "">
-<!ENTITY update.checkingForUpdates "Checking for updates…">
-<!ENTITY update.manual.linkText "latest version">
-<!ENTITY channel.selector.end "update channel.">
+<!ENTITY update.checkingForUpdates "இற்றைப்படுத்தல்கள் சரிபார்க்கப்படுகிறது…">
+<!ENTITY update.manual.linkText "சமீபமான பதிப்பு">
+<!ENTITY channel.selector.end "அலைவரிசை இற்றைப்படுத்தல்.">
 <!ENTITY community.middle2 ", a ">
-<!ENTITY update.checkingAddonCompat "Checking Add-on compatibility…">
-<!ENTITY update.manual.start "Download the ">
-<!ENTITY update.failed.start "Update failed. ">
-<!ENTITY bottomLinks.license "Licensing Information">
+<!ENTITY update.checkingAddonCompat "Add-on இசைவை சரிபார்க்க…">
+<!ENTITY update.manual.start "பதிவிறக்கு ">
+<!ENTITY update.failed.start "இற்றைப்படுத்தலில் பிழை. ">
+<!ENTITY bottomLinks.license "தகவலுக்கான அனுமதி">
 <!ENTITY contribute.end "">
-<!ENTITY channel.description.start "You are currently on the ">
-<!ENTITY bottomLinks.privacy "Privacy Policy">
-<!ENTITY update.adminDisabled "Updates disabled by your system administrator">
-<!ENTITY community.end2 " working together to make the Internet better. We believe that the Internet should be open, public, and accessible to everyone without any restrictions.">
+<!ENTITY channel.description.start "நீங்கள் தற்போது இருப்பது">
+<!ENTITY bottomLinks.privacy "பிரத்தியேகக் கொள்கை">
+<!ENTITY update.adminDisabled "அமைப்பு நிர்வாகியால் உங்களுடைய இற்றைப்படுத்தல்கள் முடக்கப்பட்டது.">
+<!ENTITY community.end2 " எல்லோரும் சேர்ந்து வேலை செய்வதால் இணையத்தை சிறந்த முறையில் பேணலாம். நாங்கள் இணையமானது திறந்த, பொதுவான, மற்றும் எல்லோராலும் எந்தவொரு கட்டுப்பாடும் இன்றி அணுகக்கூடியது என்று நினைக்கிறோம்.">
 <!ENTITY channel.release.description "Enjoy the tried and tested final release being used by hundreds of millions around the world. Stay in control of your online experience with super speed, easy customization and the latest Web technologies.">
-<!ENTITY contribute.start "Sound interesting? ">
-<!ENTITY community.creditsLink "global community">
-<!ENTITY update.failed.linkText "Download the latest version">
-<!ENTITY channel.selector.start "Switch to the">
-<!ENTITY channel.description.end " update channel. ">
-<!ENTITY channel.beta.description "Experience cutting edge features with more stability. Provide feedback to help refine and polish what will be in the final release.">
-<!ENTITY channel.selector.applyButton "Apply and Update">
+<!ENTITY contribute.start "ஓரளவு சுவரசியமானது.? ">
+<!ENTITY community.creditsLink "முழு சமூகம்">
+<!ENTITY update.failed.linkText "சமீபமான பதிப்பை பதிவிறக்கு">
+<!ENTITY channel.selector.start "மாற்றுக">
+<!ENTITY channel.description.end " அலைவரிசை இற்றைப்படுத்தல். ">
+<!ENTITY channel.beta.description "Experience cutting edge features with more stability. இறுதி வெளியீட்டன் தன்மை மற்றும் தூய்மை எவ்வாறிருக்க வேண்டும் என்பதற்கான பின்னூட்டலை வழங்குக.">
+<!ENTITY channel.selector.applyButton "பிரயோகிக்க மறறும் இற்​றைப்படுத்துக">
 <!ENTITY update.downloading.end "">
 <!ENTITY community.mozillaLink "&vendorShortName;">
-<!ENTITY contribute.getInvolvedLink "Get involved!">
-<!ENTITY bottomLinks.rights "End User Rights">
-<!ENTITY community.start2 "&brandShortName; is designed by ">
-<!ENTITY channel.selector.cancelButton "Cancel">
+<!ENTITY contribute.getInvolvedLink "ஈடுப்பட்டது!">
+<!ENTITY bottomLinks.rights "இறுதி பாவனையாளரின் உரிமைகள்">
+<!ENTITY community.start2 "&brandShortName; வடிவமைக்கப்பட்டது ">
+<!ENTITY channel.selector.cancelButton "இரத்து செய்க">

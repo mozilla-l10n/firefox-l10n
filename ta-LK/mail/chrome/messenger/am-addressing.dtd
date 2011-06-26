@@ -31,8 +31,8 @@
 <!ENTITY place.accesskey "p">
 <!ENTITY belowText.label "மேற்கோளிற்கு கீழே (பரிந்துரைக்கப்பட்டது)">
 <!ENTITY aboveText.label "என் பதிலிற்கு கீழே (மேற்கோளிற்கு மேலே)">
-<!ENTITY includeSigOnReply.label              "Include signature for replies">
+<!ENTITY includeSigOnReply.label              "பதில்களில் கையொப்பத்தையும் சேர்க்க">
 <!ENTITY includeSigOnReply.accesskey          "s">
-<!ENTITY includeSigOnForward.label            "Include signature for forwards">
+<!ENTITY includeSigOnForward.label            "முன்னோக்குவதிலும் கையொப்பத்தையும் சேர்க்க">
 <!ENTITY includeSigOnForward.accesskey        "w">
 

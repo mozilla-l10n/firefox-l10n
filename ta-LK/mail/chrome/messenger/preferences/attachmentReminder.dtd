@@ -1,5 +1,5 @@
-<!ENTITY attachmentReminderDialog.title   "உடனிணைப்புகள் Reminder Keywords">
-<!ENTITY attachKeywordText.label          "&brandShortName; will warn you about missing attachments if you're about to send an e-mail containing one of these keywords.">
+<!ENTITY attachmentReminderDialog.title   "முக்கியசொல் நி​​னைவூட்டி உடனிணைப்புகள்">
+<!ENTITY attachKeywordText.label          "&brandShortName; நீங்கள் இந்த முக்கியச்சொற்களில் ஏதாவதொன்றை கொண்ட ஒரு மின்னஞ்சலை அனுப்பினால் தவறப்பட்ட உடனிணைப்புகளுக்கு எச்சரிக்கப்படும்.">
 <!ENTITY addKeywordButton.label           "சேர்க்க">
 <!ENTITY addKeywordButton.accesskey       "A">
 <!ENTITY editKeywordButton.label          "தொகுக்க">

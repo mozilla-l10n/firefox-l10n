@@ -6,14 +6,14 @@ Entities below were automatically added by compare-locales,
 -->
 
 <!ENTITY disableAddons.accesskey "D">
-<!ENTITY safeModeDescription2.label "You can make some or all of these changes permanent:">
+<!ENTITY safeModeDescription2.label "நீங்கள் இந்த மாற்றங்களின் சிலவற்றையோ அல்லது எல்லாவற்றையும் நிரந்தரமாக மாற்றலாம்:">
 <!ENTITY changeAndRestartButton.accesskey "M">
-<!ENTITY continueButton.label "Continue in Safe Mode">
-<!ENTITY safeModeDialog.title "&brandShortName; Safe Mode">
-<!ENTITY resetToolbars.label "Reset toolbars and controls">
-<!ENTITY safeModeDescription.label "&brandShortName; is now running in Safe Mode, which temporarily disables your custom settings, themes, and extensions.">
-<!ENTITY disableAddons.label "Disable all add-ons">
+<!ENTITY continueButton.label "பாதுகாப்பான செயற்படுமுறையில் தொடர்க">
+<!ENTITY safeModeDialog.title "&brandShortName; பாதுகாப்பான செயற்படுமுறை">
+<!ENTITY resetToolbars.label "கருவிப்பட்டைகள் மற்றும் கட்டுப்பாடுகளை மீளமைக்க">
+<!ENTITY safeModeDescription.label "&brandShortName; இபபோது பாதுகாப்பான செயற்படுமுறையில் இயங்குகிறது, அது தற்காலிகமாக உங்களுடைய தனிப்பயன் அமைப்புகள், themes, நீட்சிகளை செயலற்றதாக்கக்கூடியது .">
+<!ENTITY disableAddons.label "எல்லா add-ons ஐயும் செயலற்றதாக்குக">
 <!ENTITY resetToolbars.accesskey "R">
-<!ENTITY changeAndRestartButton.label "Make Changes and Restart">
+<!ENTITY changeAndRestartButton.label "மாற்றங்களை உரிவாக்கி மீளத் தொடங்குக">
 <!ENTITY continueButton.accesskey "C">
 <!ENTITY window.width "37em">

@@ -22,8 +22,8 @@
 <!ENTITY migrating.title "இறக்குமதியாகிறது...">
 <!ENTITY migrating.label "கீழ்கண்ட உருப்படிகள் இறக்குமதி செய்யப்படுகிறது...">
 
-<!ENTITY selectProfile.title "Profileஐ தேர்ந்தெடுக்கவும்">
-<!ENTITY selectProfile.label "கீழ்கண்ட profiles இறக்குமதி செய்ய கிடைக்கும் இடம்:">
+<!ENTITY selectProfile.title "விபரக் கோவையை தேர்ந்தெடுக்கவும்">
+<!ENTITY selectProfile.label "கீழ்கண்ட விபரக் கோவைகளை இறக்குமதி செய்ய கிடைக்கும் இடம்:">
 
 <!ENTITY done.title "இறக்குமதி முடிந்தது">
 <!ENTITY done.label "கீழ்கண்ட உருப்படிகள் வெற்றிகரமாக இறக்கப்பட்டது:">

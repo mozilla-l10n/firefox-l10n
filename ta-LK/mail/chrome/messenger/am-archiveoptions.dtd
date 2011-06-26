@@ -6,15 +6,15 @@ Entities below were automatically added by compare-locales,
 -->
 
 <!ENTITY archiveFlat.accesskey "s">
-<!ENTITY archiveExample.label "Example">
-<!ENTITY archiveGranularityPrefix.label "When archiving messages, place them in:">
+<!ENTITY archiveExample.label "உதாரனம்">
+<!ENTITY archiveGranularityPrefix.label "செய்தியின் ஆவணகாப்பெடுக்கும் போது, இவற்றை உள்ளே வைக்க:">
 <!ENTITY inboxFolderName.label "Inbox">
 <!ENTITY keepFolderStructure.accesskey "K">
-<!ENTITY archiveFolderName.label "Archives">
-<!ENTITY archiveFlat.label "A single folder">
+<!ENTITY archiveFolderName.label "ஆவணக்காப்புகள்">
+<!ENTITY archiveFlat.label "ஒரு தனி கோப்புறை">
 <!ENTITY archiveMonthly.accesskey "M">
 <!ENTITY archiveYearly.accesskey "Y">
-<!ENTITY dialogTitle.label "Archive Options">
-<!ENTITY archiveYearly.label "Yearly archived folders">
-<!ENTITY archiveMonthly.label "Monthly archived folders">
-<!ENTITY keepFolderStructure.label "Keep existing folder structure of archived messages">
+<!ENTITY dialogTitle.label "ஆவணக்காப்பு தெரிவு">
+<!ENTITY archiveYearly.label "வருடாந்த ஆவணக்காபெடுத்த கோப்புறைகள்">
+<!ENTITY archiveMonthly.label "மாதாந்த ஆவணக்காபெடுத்த கோப்புறைகள்">
+<!ENTITY keepFolderStructure.label "செய்திகளின் ஆவனக்காப்புகளை கோப்புறைகளின் அமைப்பில் வைக்க">

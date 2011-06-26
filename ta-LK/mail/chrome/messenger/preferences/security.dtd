@@ -47,13 +47,13 @@
 <!ENTITY antiVirus.accesskey "l">
 
 <!-- Cookies -->
-<!ENTITY cookies.intro                  "&brandShortName; lets you specify which blogs, news feeds, and other web sites are allowed to set cookies எவ்வகையான blogs,news feeds மற்றும் ஏனைய இணையத்தளங்கள் cookies இனை அமைப்பதற்கு அனுமதிக்கவேண்டும் என்பதனை குறிப்பிடுக.">
+<!ENTITY cookies.intro                  "&brandShortName; எவ்வகையான வலைப்பு, செய்தி ஊட்டம் மற்றும் ஏனைய இணையத்தளங்கள் cookies இனை அமைப்பதற்கு அனுமதிக்கவேண்டும் என்பதனை குறிப்பிடுக.">
 <!ENTITY acceptCookies.label            "தளங்களிலிருந்து cookies களை அனுமதிக்க">
 <!ENTITY acceptCookies.accesskey        "c">
 <!ENTITY keepUntil.label                "வரை வைத்திருக்குக:">
 <!ENTITY keepUntil.accesskey            "K">
 <!ENTITY expire.label                   "அவை காலவதியாகிவிட்டது">
-<!ENTITY close.label                    "I close &brandShortName;">
+<!ENTITY close.label                    "நான் மூடினேன் &brandShortName;">
 <!ENTITY askEachTime.label              "ஒவ்வொறு தடவையும் என்னை கேட்க">
 <!ENTITY cookieExceptions.label         "விதிவிலக்குகள்…">
 <!ENTITY cookieExceptions.accesskey     "E">

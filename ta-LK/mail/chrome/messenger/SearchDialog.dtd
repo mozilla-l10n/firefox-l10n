@@ -54,8 +54,8 @@
 <!-- Thread Pane Tooltips -->
 
 <!ENTITY columnChooser.tooltip "தெரிவு செய்த நெடுவரிசைகளை காண்பிக்க சொடுக்குக">
-<!ENTITY threadColumn.tooltip "அஞ்சல் Threadகளை நோக்க சொடுக்குக">
-<!ENTITY fromColumn.tooltip "Click to sort by from">
+<!ENTITY threadColumn.tooltip "அஞ்சல் புரிஉருகளை நோக்க சொடுக்குக">
+<!ENTITY fromColumn.tooltip "from ஐ பயன்னடுத்தி ஒழுங்குப்படுத்தலை சொடுக்குக">
 <!ENTITY recipientColumn.tooltip "பெறுநர்வாரியாக வரிசைப்படுத்த சொடுக்குக">
 <!ENTITY subjectColumn.tooltip "தலைப்பு வாரியாக வரிசைப்படுத்த சொடுக்குக">
 <!ENTITY dateColumn.tooltip "தேதிவாரியாக வரிசைப்படுத்த சொடுக்குக">
@@ -65,8 +65,8 @@
 <!ENTITY statusColumn.tooltip "நிலைமைவாரியாக வரிசைப்படுத்த சொடுக்குக">
 <!ENTITY sizeColumn.tooltip "அளவுவாரியாக வரிசைப்படுத்த சொடுக்குக">
 <!ENTITY junkStatusColumn.tooltip "கூளநிலைமைவாரியாக வரிசைப்படுத்த சொடுக்குக">
-<!ENTITY unreadColumn.tooltip " Threadல் உள்ள படிக்காத அஞ்சல்களின் எண்ணிக்கை">
-<!ENTITY totalColumn.tooltip " Threadல் உள்ள மொத்த அஞ்சல்களின் எண்ணிக்கை">
+<!ENTITY unreadColumn.tooltip " புரிஉருயில் உள்ள படிக்காத அஞ்சல்களின் எண்ணிக்கை">
+<!ENTITY totalColumn.tooltip " புரிஉருயில் உள்ள மொத்த அஞ்சல்களின் எண்ணிக்கை">
 <!ENTITY readColumn.tooltip "படித்ததுவாரியாக வரிசைப்படுத்த சொடுக்குக">
 <!ENTITY receivedColumn.tooltip "பெற்றுக் கொண்ட திகதியினடிப்படையில் வரிசைப்படுத்துவதற்குச் சொடுக்குக">
 <!ENTITY starredColumn.tooltip "நிலைமைவாரியாக வரிசைப்படுத்த சொடுக்குக">

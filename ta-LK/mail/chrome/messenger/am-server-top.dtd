@@ -19,10 +19,10 @@
 <!ENTITY biffStart.label "புதிய செய்திகள் வருகிறதா என ஒவ்வொரு">
 <!ENTITY biffStart.accesskey "k">
 <!ENTITY biffEnd.label " நிமிடங்களுக்கொரு தடவை பார்க்கவும்.">
-<!ENTITY connectionSecurity.label "Connection security:">
+<!ENTITY connectionSecurity.label "பாதுகாப்பு இனைப்பு:">
 <!ENTITY connectionSecurity.accesskey "u">
 <!ENTITY connectionSecurityType-0.label "None">
-<!ENTITY connectionSecurityType-1.label "STARTTLS, if available">
+<!ENTITY connectionSecurityType-1.label "STARTTLS, இருந்தால் மட்டும்">
 <!ENTITY connectionSecurityType-2.label "STARTTLS">
 <!ENTITY connectionSecurityType-3.label "SSL/TLS">
 <!ENTITY leaveOnServer.label "சேவையகத்தில் செய்திகளை விடுக">
@@ -83,4 +83,4 @@ Entities below were automatically added by compare-locales,
 -->
 
 <!ENTITY authMethod.accesskey "i">
-<!ENTITY authMethod.label "Authentication method:">
+<!ENTITY authMethod.label "அத்தாட்சிப்படுத்தல் முறைகள்:">
