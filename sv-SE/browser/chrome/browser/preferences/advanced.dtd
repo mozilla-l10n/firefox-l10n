@@ -29,6 +29,8 @@
 <!ENTITY checkNow.accesskey              "o">
 <!ENTITY submitCrashes.label             "Skicka kraschrapporter">
 <!ENTITY submitCrashes.accesskey         "S">
+<!ENTITY submitTelemetry.label           "Skicka prestandadata">
+<!ENTITY submitTelemetry.accesskey       "c">
 
 <!ENTITY networkTab.label                "Nätverk">
 
