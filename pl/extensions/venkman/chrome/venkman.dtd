@@ -79,7 +79,7 @@
 <!ENTITY Source.label "Kod źródłowy">
 <!ENTITY SourceHeader.tip "Pasek narzędzi kodu źródłowego">
 <!ENTITY SourceCol0.display "Margines">
-<!ENTITY SourceCol1.display "Numer linii">
+<!ENTITY SourceCol1.display "Numer wiersza">
 
 <!-- stack view -->
 <!ENTITY Stack.label "Stos wywołań">

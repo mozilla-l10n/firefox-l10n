@@ -11,7 +11,7 @@
 <!ENTITY scroll.label "Przewinięcie dokumentu o">
 <!ENTITY scroll.accesskey "r">
 <!ENTITY scrollHoriz.accesskey "c">
-<!ENTITY scrollLines.label "linie">
+<!ENTITY scrollLines.label "wiersze">
 <!ENTITY scrollChars.label "znaki">
 <!ENTITY useSystemDefault.label "Użyj domyślnych ustawień systemu">
 <!ENTITY useSystemDefault.accesskey "y">
