@@ -29,6 +29,8 @@
 <!ENTITY checkNow.accesskey              "N">
 <!ENTITY submitCrashes.label             "送出錯誤報告">
 <!ENTITY submitCrashes.accesskey         "S">
+<!ENTITY submitTelemetry.label           "送出效能資料">
+<!ENTITY submitTelemetry.accesskey       "p">
 
 <!ENTITY networkTab.label                "網路">
 
