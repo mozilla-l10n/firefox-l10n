@@ -1,0 +1,175 @@
+<!-- extracted from content/navigator.xul -->
+
+<!-- LOCALIZATION NOTE : FILE This file contains the browser main menu items --> 
+<!-- LOCALIZATION NOTE : FILE Do not translate commandkeys --> 
+
+<!-- LOCALIZATION NOTE (mainWindow.title): DONT_TRANSLATE --> 
+<!ENTITY mainWindow.title "&brandShortName;">
+<!-- LOCALIZATION NOTE (mainWindow.titlemodifier) : DONT_TRANSLATE --> 
+<!ENTITY mainWindow.titlemodifier "&brandShortName;">
+<!-- LOCALIZATION NOTE (mainWindow.titlemodifiermenuseparator): DONT_TRANSLATE -->
+<!ENTITY mainWindow.titlemodifiermenuseparator " - ">
+
+<!ENTITY tabCmd.label "Lapela do navegador">
+<!ENTITY tabCmd.accesskey "g">
+<!ENTITY tabCmd.commandkey "t">
+<!ENTITY openCmd.label "Abrir localización web…">
+<!ENTITY openCmd.accesskey "l">
+<!ENTITY openCmd.commandkey "l">
+<!ENTITY openFileCmd.label "Abrir ficheiro…">
+<!ENTITY openFileCmd.accesskey "o">
+<!ENTITY openFileCmd.commandkey "o">
+<!ENTITY recentTabs.label "Lapelas pechadas recentemente">
+<!ENTITY recentTabs.accesskey "r">
+<!ENTITY recentTabs.commandkey "t">
+<!ENTITY recentWindows.label "Xanelas pechadas recentemente">
+<!ENTITY recentWindows.accesskey "X">
+<!ENTITY recentWindows.commandkey "y">
+<!ENTITY editPageCmd.label "Editar páxina">
+<!ENTITY editPageCmd.accesskey "E">
+<!ENTITY editPageCmd.commandkey "e">
+
+<!ENTITY uploadFile.label "Subir ficheiro…">
+<!ENTITY uploadFile.accesskey "f">
+
+<!ENTITY printSetupCmd.label "Configuración da páxina…">
+<!ENTITY printSetupCmd.accesskey "u">
+<!ENTITY printPreviewCmd.label "Previsualización da impresión">
+<!ENTITY printPreviewCmd.accesskey "v">
+<!ENTITY printCmd.label "Imprimir…">
+<!ENTITY printCmd.accesskey "p">
+<!ENTITY printCmd.commandkey "p">
+
+<!ENTITY toolbarsCmd.label "Mostrar/Ocultar">
+<!ENTITY toolbarsCmd.accesskey "u">
+<!ENTITY navbarCmd.label "Barra de navegación">
+<!ENTITY navbarCmd.accesskey "n">
+<!ENTITY personalbarCmd.label "Barra de ferramentas persoal">
+<!ENTITY personalbarCmd.accesskey "p">
+<!ENTITY tabbarCmd.label "Barra de lapelas">
+<!ENTITY tabbarCmd.accesskey "B">
+<!ENTITY taskbarCmd.label "Barra de estado">
+<!ENTITY taskbarCmd.accesskey "s">
+<!ENTITY componentbarCmd.label "Barra de compoñentes">
+<!ENTITY componentbarCmd.accesskey "c">
+
+<!ENTITY useStyleSheetMenu.label "Usar a folla de estilos">
+<!ENTITY useStyleSheetMenu.accesskey "U">
+<!ENTITY useStyleSheetNone.label "Ningunha">
+<!ENTITY useStyleSheetNone.accesskey "N">
+<!ENTITY useStyleSheetPersistentOnly.label "Estilo predefinido">
+<!ENTITY useStyleSheetPersistentOnly.accesskey "d">
+<!ENTITY pageSourceCmd.label "Código da páxina">
+<!ENTITY pageSourceCmd.accesskey "o">
+<!ENTITY pageSourceCmd.commandkey "u">
+<!ENTITY pageInfoCmd.label "Información da páxina">
+<!ENTITY pageInfoCmd.accesskey "I">
+<!ENTITY pageInfoCmd.commandkey "i">
+<!ENTITY fullScreenCmd.label "Pantalla completa">
+<!ENTITY fullScreenCmd.accesskey "P">
+<!ENTITY translateMenu.label "Traducir páxina">
+<!ENTITY translateMenu.accesskey "T">
+
+<!ENTITY closeOtherTabs.label "Pechar as outras lapelas">
+<!ENTITY closeOtherTabs.accesskey "t">
+<!ENTITY closeWindow.label "Pechar xanela">
+<!ENTITY closeWindow.accesskey "P">
+
+<!ENTITY minimizeButton.tooltip       "Minimizar">
+<!ENTITY restoreButton.tooltip        "Restaurar">
+
+<!ENTITY applyTheme.label	"Aplicar tema"> 
+<!ENTITY applyTheme.accesskey	"A"> 
+<!ENTITY getNewThemesCmd.label "Obter novos temas">
+<!ENTITY getNewThemesCmd.accesskey "O">
+<!ENTITY findOnCmd.label "Localizar nesta páxina…">
+<!ENTITY findOnCmd.accesskey "L">
+<!ENTITY findOnCmd.commandkey "f">
+<!ENTITY findAgainCmd.label "Localizar de novo">
+<!ENTITY findAgainCmd.accesskey "L">
+<!ENTITY findAgainCmd.commandkey "g">
+<!ENTITY findPrevCmd.label "Localizar anterior">
+<!ENTITY findPrevCmd.accesskey "a">
+<!ENTITY findPrevCmd.commandkey "g">
+<!ENTITY findAgainCmd.commandkey2 "VK_F3">
+<!ENTITY findPrevCmd.commandkey2 "VK_F3">
+
+<!ENTITY searchInternetCmd.label "Buscar na web">
+<!ENTITY searchInternetCmd.accesskey "s">
+<!ENTITY searchInternet.commandKey "s">
+
+<!ENTITY clearPrivateDataCmd.label "Limpar datos privados…">
+<!ENTITY clearPrivateDataCmd.accesskey "L">
+
+<!ENTITY goMenu.label "Ir">
+<!ENTITY goMenu.accesskey "I">
+<!ENTITY goHomeCmd.label "Inicio">
+<!ENTITY goHomeCmd.accesskey "I">
+<!ENTITY historyRestoreLastSession.label "Restaurar a sesión anterior">
+<!ENTITY historyRestoreLastSession.accesskey "R">
+
+<!ENTITY bookmarksMenu.label "Marcadores">
+<!ENTITY bookmarksMenu.accesskey "M">
+<!ENTITY addCurPageCmd.label "Marcar esta páxina">
+<!ENTITY addCurPageCmd.accesskey "M">
+<!ENTITY addCurPageAsCmd.label "Crear marcador…">
+<!ENTITY addCurPageAsCmd.accesskey "d">
+<!ENTITY addCurPageAsCmd.commandkey "d">
+<!ENTITY addCurTabsAsCmd.label "Marcar este grupo de lapelas…">
+<!ENTITY addCurTabsAsCmd.accesskey "g">
+<!ENTITY manBookmarksCmd.label "Xestionar marcadores…">
+<!ENTITY manBookmarksCmd.accesskey "m">
+<!ENTITY manBookmarksCmd.commandkey "b">
+<!ENTITY feedsMenu.label "Subscribirse a esta páxina">
+<!ENTITY feedsMenu.accesskey "S">
+<!ENTITY emptyItem.label "(Baleiro)">
+
+<!ENTITY menuBar.tooltip                  "Barra de menú">
+<!ENTITY personalToolbar.tooltip          "Barra de ferramentas persoal">
+<!ENTITY navigationToolbar.tooltip        "Barra de navegación">
+
+<!-- Toolbar items --> 
+<!ENTITY backButton.label             "Atrás">
+<!ENTITY backButton.tooltip           "Retroceder unha páxina">
+<!ENTITY forwardButton.label          "Adiante">
+<!ENTITY forwardButton.tooltip        "Avanzar unha páxina">
+<!ENTITY reloadButton.label           "Recargar">
+<!ENTITY reloadButton.tooltip         "Recargar a páxina actual">
+<!ENTITY stopButton.label             "Deter">
+<!ENTITY stopButton.tooltip           "Deter a carga desta páxina">
+<!ENTITY searchButton.label           "Buscar">
+<!ENTITY searchButton.tooltip         "Escriba unha palabara no campo da esquerda e prema Buscar">
+<!ENTITY goButton.label               "Ir">
+<!ENTITY goButton.tooltip             "Escriba unha localización no campo da esquerda e prema Ir">
+<!ENTITY printButton.label            "Imprimir">
+<!ENTITY printButton.tooltip          "Imprimir esta páxina">
+
+<!ENTITY throbber.tooltip             "Ir á páxina de inicio de &vendorShortName;">
+
+<!ENTITY locationBar.tooltip          "Escriba un termo de busca, palabra clave ou enderezo web">
+<!ENTITY locationBar.accesskey        "L">
+<!ENTITY locationBar.title            "Localización">
+<!ENTITY proxyIcon.tooltip            "Arrastre e solte esta icona para crear unha ligazón a esta páxina">
+
+<!ENTITY searchItem.title             "Buscar">
+
+<!ENTITY bookmarksButton.label        "Marcadores">
+<!ENTITY bookmarksButton.tooltip      "Lista de marcadores">
+<!ENTITY homeButton.label             "Inicio">
+<!ENTITY bookmarksToolbarItem.label   "Elementos da barra de marcadores">
+<!ENTITY bookmarksToolbarChevron.tooltip "Mostrar máis marcadores">
+
+<!-- Statusbar -->
+<!ENTITY  statusText.label            "Feito">
+
+<!ENTITY historyCmd.label           "Historial">  
+<!ENTITY historyCmd.accesskey       "i">
+<!ENTITY history.commandKey         "h">
+
+<!ENTITY popupIcon.tooltiptext      "Desbloquear as xanelas emerxentes para este sitio web">
+
+<!ENTITY bidiSwitchPageDirectionItem.label        "Cambiar a orientación da páxina">
+<!ENTITY bidiSwitchPageDirectionItem.accesskey    "C">
+
+<!-- LOCALIZATION NOTE (syncTabsMenu.label): This appears in the Go menu -->
+<!ENTITY syncTabsMenu.label         "As lapelas doutros equipos">
