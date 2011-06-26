@@ -4,7 +4,7 @@
 <!ENTITY proxyTitle.label "இணையத்தை அணுக மாற்று அமைவுகளை கட்டமைக்கவும்">
 <!ENTITY  noProxyTypeRadio.label        "proxy இல்லை">
 <!ENTITY  noProxyTypeRadio.accesskey    "y">
-<!ENTITY  systemTypeRadio.label         "system proxy அமைப்புகளை பயன்படுத்துக">
+<!ENTITY  systemTypeRadio.label         "அமைப்பு proxy அமைப்புகளை பயன்படுத்துக">
 <!ENTITY  systemTypeRadio.accesskey     "u">
 <!ENTITY WPADTypeRadio.label "இந்த வலையத்தின் மாற்று அமைவுகளை தன்னியக்கமாக கண்டுபிடிக்கவும்">
 <!ENTITY WPADTypeRadio.accesskey "w">
@@ -24,7 +24,7 @@
 <!ENTITY socks4.accesskey "k">
 <!ENTITY socks5.label "SOCKS v5">
 <!ENTITY socks5.accesskey "v">
-<!ENTITY  HTTPport.label "Port:">
+<!ENTITY  HTTPport.label "துறை:">
 <!ENTITY HTTPport.accesskey "p">
 <!ENTITY  SSLport.label                 "துறை:">
 <!ENTITY SSLport.accesskey "o">

@@ -70,7 +70,7 @@
      books.
      -->
 <!ENTITY quickFilterBar.inaddrbook.label
-         "Contact">
+         "தொடர்பு">
 
 <!-- LOCALIZATION NOTE (quickFilterBar.inaddrbook.tooltip):
      The tooltip for the filter button that causes us to filter results to only
@@ -92,7 +92,7 @@
      include messages with at least one tag on them.
      -->
 <!ENTITY quickFilterBar.tags.tooltip
-         "Show only messages with tags on them">
+         "சிட்டகளை அவற்றில் கொண்ட செய்திகளை மட்டும் காட்டுக">
 
 <!-- LOCALIZATION NOTE (quickFilterBar.attachment.label):
      The label for the filter button that causes us to filter results to only
@@ -118,7 +118,7 @@
      https://developer.mozilla.org/En/Localization_and_Plurals
      -->
 <!ENTITY quickFilterBar.resultsLabel.some.formatString
-         "#1 message;#1 messages">
+         "#1 செய்தி;#1 செய்திகள்">
 
 <!-- LOCALIZATION NOTE (quickFilterBar.resultsLabel.none):
      The contents of the results box when there is a filter active but there
@@ -148,7 +148,7 @@
      box faster.
      -->
 <!ENTITY quickFilterBar.textbox.emptyText.base
-         "Filter these messages... #1">
+         "இந்த செய்திகளை வடிக்கட்டுக... #1">
 
 <!-- LOCALIZATION NOTE (quickFilterBar.textbox.emptyText.keyLabel.nonmac):
      The description of the key-binding to get into the box on windows and
@@ -193,7 +193,7 @@
      arrow scroll box.)
      -->
 <!ENTITY quickFilterBar.textFilter.explanation.label
-         "Filter messages by:">
+         "செய்திகளை இதனால் வடிக்கட்டுக:">
 
 <!-- LOCALIZATION NOTE (quickFilterBar.textFilter.sender.label):
      The button label that toggles whether the text filter searches the message
@@ -207,7 +207,7 @@
      recipients (to, cc) for the string.
      -->
 <!ENTITY quickFilterBar.textFilter.recipients.label
-         "Recipients">
+         "பெறுனர்">
 
 <!-- LOCALIZATION NOTE (quickFilterBar.textFilter.subject.label):
      The button label that toggles whether the text filter searches the message
@@ -221,18 +221,18 @@
      body for the string.
      -->
 <!ENTITY quickFilterBar.textFilter.body.label
-         "Body">
+         "உடல்">
 
 <!-- LOCALIZATION NOTE (quickFilterBar.glodaUpsell.continueSearch):
      The first line of the panel popup that tells the user we found no matches
      but we can convert to a global search for them.
      -->
 <!ENTITY quickFilterBar.glodaUpsell.continueSearch
-         "Continue this search across all folders">
+         "எல்லா கோப்புறைகளுக்கும் குறுக்காக இந்த தேடலை தொடர்க">
 
 <!-- LOCALIZATION NOTE (quickFilterBar.glodaUpsell.pressEnterAndCurrent):
      The second line of the panel popup that tells the user we found no matches.
      This line will have #1 replaced with what the user has typed so far.
      -->
 <!ENTITY quickFilterBar.glodaUpsell.pressEnterAndCurrent
-         "Press 'Enter' again to continue your search for: #1">
+         "Press 'Enter'ஐ அழுத்துக  மீண்டும் தேடலை தொடர்வதற்காக : #1">

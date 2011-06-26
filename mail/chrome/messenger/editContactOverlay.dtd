@@ -17,7 +17,7 @@ Entities below were automatically added by compare-locales,
 -->
 
 <!ENTITY editContactPanelDeleteContact.accesskey "l">
-<!ENTITY editContactPanelDeleteContact.label "Delete">
-<!ENTITY editContactAddressBook.label "Address Book:">
+<!ENTITY editContactPanelDeleteContact.label "அழிக்குக">
+<!ENTITY editContactAddressBook.label "முகவரிப் புத்தகம்:">
 <!ENTITY editContactAddressBook.accesskey "A">
-<!ENTITY contactMoveDisabledWarning.description "You can't change the address book because the contact is in a mailing list.">
+<!ENTITY contactMoveDisabledWarning.description "உங்களால் முகவரிப் புத்தகத்தை மாற்றமுடியாது ஏனென்றால் தொடர்புகள் அனுப்பப்படும் பட்டியலில் உண்டு.">

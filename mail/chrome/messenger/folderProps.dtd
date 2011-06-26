@@ -101,8 +101,8 @@ Entities below were automatically added by compare-locales,
 <!ENTITY folderIncludeInGlobalSearch.label "Include messages in this folder in Global Search results">
 <!ENTITY folderRebuildSummaryFile.explanation "Sometimes the folder index (.msf) file becomes damaged and messages may appear missing or deleted messages continue showing; repairing the folder may fix these issues.">
 <!ENTITY folderIncludeInGlobalSearch.accesskey "G">
-<!ENTITY folderCheckForNewMessages2.label "When getting new messages for this account, always check this folder">
-<!ENTITY folderRebuildSummaryFile2.label "Repair Folder">
+<!ENTITY folderCheckForNewMessages2.label "இந்த கணக்கிலிருந்து பதிய செய்திகளை பெறும்போதெல்லாம், இந்த கோப்புறையை சரிபார்க்க ">
+<!ENTITY folderRebuildSummaryFile2.label "பாதிக்கப்பட்ட கோப்புறைகள்">
 <!ENTITY folderRebuildSummaryFileTip2.label "Rebuild Summary File Index">
 <!ENTITY folderCheckForNewMessages2.accesskey "c">
 <!ENTITY folderRebuildSummaryFile2.accesskey "R">

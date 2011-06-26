@@ -61,7 +61,7 @@
 
 <!-- fonts in message -->
 <!ENTITY  fontControl.label                       "Font Control">
-<!ENTITY  useFixedWidthForPlainText.label         "plain text செய்திகளுக்காக நிலையான அகலமுடைய font இனை பயன்படுத்துக">
+<!ENTITY  useFixedWidthForPlainText.label         "தனி உறையை மட்டும் கொண்ட செய்திகளுக்காக நிலையான அகலமுடைய font இனை பயன்படுத்துக">
 <!ENTITY  fixedWidth.accesskey                    "x">
 
 <!ENTITY useDocumentFonts.label "அஞ்சல்களில் பிற எழுத்துருக்களை பயன்படுத்த அனுமதிக்கவும்.">

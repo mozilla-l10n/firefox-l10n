@@ -3,11 +3,11 @@
 
 <!ENTITY recipient.label "பெறுனர்களில் சிலர் HTML அஞ்சலைப் பெறுவதற்கு பட்டியல்படுத்தப்படவில்லை.">
 
-<!ENTITY question.label "செய்தியை plain text ஆக நிலைமாற்றுவதற்கு அல்லது ஏதோ ஒரு வழியில் அதனை HTML ஆக அனுப்புவதற்கு நீங்கள் விரும்புகிறீர்களா?">
+<!ENTITY question.label "செய்தியை ​வெற்று உரையாக நிலைமாற்றுவதற்கு அல்லது ஏதோ ஒரு வழியில் அதனை HTML ஆக அனுப்புவதற்கு நீங்கள் விரும்புகிறீர்களா?">
 
-<!ENTITY plainTextAndHtml.label "Plain Text ஆகவும் HTML ஆகவும் அனுப்புக">
+<!ENTITY plainTextAndHtml.label "வெற்று உரை ஆகவும் HTML ஆகவும் அனுப்புக">
 <!ENTITY plainTextAndHtml.accesskey "a">
-<!ENTITY plainTextOnly.label "Plain Text ஆக மட்டும் அனுப்புக">
+<!ENTITY plainTextOnly.label "வெற்று உரையாக மட்டும் அனுப்புக">
 <!ENTITY plainTextOnly.accesskey "P">
 <!ENTITY htmlOnly.label "HTML ஆக மட்டும் அனுப்புக">
 <!ENTITY htmlOnly.accesskey "H">

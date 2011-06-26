@@ -5,7 +5,7 @@
                        for the help button in the menubar but Gnome does not.   -->
 <!ENTITY helpMenuWin.label "உதவி">
 <!ENTITY helpMenuWin.accesskey "H">
-<!ENTITY whatsNewCmd.label "What's New">
+<!ENTITY whatsNewCmd.label "புதியது என்ன">
 <!ENTITY whatsNewCmd.accesskey "W">
 <!ENTITY openHelp.label "உதவி உள்ளடக்கங்கள்">
 <!ENTITY openHelp.accesskey "H">
@@ -23,11 +23,11 @@ Entities below were automatically added by compare-locales,
 
 <!ENTITY aboutMenuCmd.accesskey "A">
 <!ENTITY featureConfiguratorCmd.accesskey "M">
-<!ENTITY releaseCmd2.label "Release Notes">
+<!ENTITY releaseCmd2.label "குறிப்புகள் வெளீயீடு">
 <!ENTITY releaseCmd2.accesskey "N">
 <!ENTITY helpTroubleshootingInfo.accesskey "T">
-<!ENTITY helpSafeMode.label "Restart with Add-ons Disabled…">
-<!ENTITY aboutMenuCmd.label "About &brandShortName;">
+<!ENTITY helpSafeMode.label "Add-ons செயலற்றதாக மீளத் தொடங்குக…">
+<!ENTITY aboutMenuCmd.label "&brandShortName; பற்றி">
 <!ENTITY helpSafeMode.accesskey "R">
-<!ENTITY helpTroubleshootingInfo.label "Troubleshooting Information">
-<!ENTITY featureConfiguratorCmd.label "Migration Assistant">
+<!ENTITY helpTroubleshootingInfo.label "Troubleshooting தகவல்கள்">
+<!ENTITY featureConfiguratorCmd.label "குடிபெயர்வு உதவியாளர்">

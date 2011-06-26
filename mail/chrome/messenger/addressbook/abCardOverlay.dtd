@@ -73,18 +73,17 @@
 <!ENTITY SecondEmail.accesskey          "i">
 <!ENTITY PreferMailFormat.label         "தகவல்களைப் பெற விரும்பும் வடிவமைப்பு:">
 <!ENTITY PreferMailFormat.accesskey     "r">
-<!ENTITY PlainText.label                "Plain Text">
+<!ENTITY PlainText.label                "வெற்று உரை">
 <!ENTITY HTML.label                     "HTML">
 <!ENTITY Unknown.label                  "அறியப்படாதது">
 <!ENTITY ScreenName.label               "திரைப்பெயர்:">
 <!ENTITY ScreenName.accesskey           "S">
 
-<!ENTITY allowRemoteContent1.label      "Allow remote content.">
+<!ENTITY allowRemoteContent1.label      "தொலை உள்ளடக்கத்திற்கு அனுமதிக்கவும்.">
 <!ENTITY allowRemoteContent1.accesskey  "r">
 <!ENTITY allowRemoteContent1.tooltip    "In HTML messages it is possible to
-embed content from remote sources. Opening such a message will open a
-connection to this external source. This may allow tracking of the
-message being read. Checking this box will allow such external embedded
+embed content from remote sources. இம்மாதிரியான செய்திகளை திறக்கும் போது அவை வெளி மூலத்துடன் இணைப்பை திறக்கும். 
+வாசிக்கப்பட்ட செய்திகளின் சுவடுகளை அறிவதற்கு இது அனுமதிக்கும்.  Checking this box will allow such external embedded
 content in HTML messages from this contact.">
 
 <!ENTITY WorkPhone.label                "வேலை:">
@@ -154,22 +153,22 @@ content in HTML messages from this contact.">
 <!ENTITY Custom3.accesskey              "3">
 <!ENTITY Custom4.label                  "தனிப்பயன் 4:">
 <!ENTITY Custom4.accesskey              "4">
-<!ENTITY Notes.label                    "Notes:">
+<!ENTITY Notes.label                    "குறிப்புகள்:">
 <!ENTITY Notes.accesskey                "N">
 
-<!ENTITY Photo.tab                      "Photo">
+<!ENTITY Photo.tab                      "படம்">
 <!ENTITY Photo.accesskey                "o">
-<!ENTITY PhotoDesc.label                "Pick one of the following:">
-<!ENTITY GenericPhoto.label             "Generic Photo">
+<!ENTITY PhotoDesc.label                "இதில் ஒன்றை தெரிவு செய்யவும்:">
+<!ENTITY GenericPhoto.label             "பொதுவான படம்">
 <!ENTITY GenericPhoto.accesskey         "G">
-<!ENTITY DefaultPhoto.label             "Default">
-<!ENTITY PhotoFile.label                "On this Computer">
+<!ENTITY DefaultPhoto.label             "பொது இருப்பு">
+<!ENTITY PhotoFile.label                "இந்த கணணியில்">
 <!ENTITY PhotoFile.accesskey            "n">
-<!ENTITY BrowsePhoto.label              "Browse">
+<!ENTITY BrowsePhoto.label              "உலாவு">
 <!ENTITY BrowsePhoto.accesskey          "r">
-<!ENTITY PhotoURL.label                 "On the Web">
+<!ENTITY PhotoURL.label                 "வலையில்">
 <!ENTITY PhotoURL.accesskey             "b">
-<!ENTITY UpdatePhoto.label              "Update">
+<!ENTITY UpdatePhoto.label              "இற்​றைப்படுத்துக">
 <!ENTITY UpdatePhoto.accesskey          "u">
 
 
@@ -179,7 +178,7 @@ Entities below were automatically added by compare-locales,
 -->
 
 <!ENTITY preferDisplayName.accesskey "y">
-<!ENTITY PhotoURL.placeholder "Paste or type the web address of a photo">
-<!ENTITY Age.placeholder "Age">
-<!ENTITY Year.placeholder "Year">
-<!ENTITY preferDisplayName.label "Always prefer display name over message header">
+<!ENTITY PhotoURL.placeholder "படத்தின் வலை முகவரியை ஒட்டுக அல்லது தட்டச்சுக ">
+<!ENTITY Age.placeholder "வயது">
+<!ENTITY Year.placeholder "வருடம்">
+<!ENTITY preferDisplayName.label "எப்பொழுதிம் செய்தியின் தலையொட்டில் பெயர் காட்சிப்படுத்தப்படுவது விரும்பத்தக்கது.">

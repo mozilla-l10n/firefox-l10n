@@ -19,8 +19,8 @@
 
 <!ENTITY play.label "இயக்குக">
 <!ENTITY play.accesskey "P">
-<!ENTITY systemsound.label "புதிய அஞ்சல் வந்தால் கொடாநிலை System ஒலி">
-<!ENTITY systemsoundMac.label "System எச்சரிக்கை ஒலி">
+<!ENTITY systemsound.label "புதிய அஞ்சல் வந்தால் கொடாநிலை அமைப்பு ஒலி">
+<!ENTITY systemsoundMac.label "அமைப்பு எச்சரிக்கை ஒலி">
 <!ENTITY systemsoundMac.accesskey "Y">
 <!ENTITY systemsound.accesskey "Y">
 <!ENTITY customsound.label "பின்வரும் ஒலிக்கோப்பை பயன்படுத்துக">

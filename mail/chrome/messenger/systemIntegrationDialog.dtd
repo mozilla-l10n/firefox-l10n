@@ -1,11 +1,11 @@
-<!ENTITY systemIntegration.title  "அமைப்பு Integration">
-<!ENTITY defaultClient.intro  "Use &brandShortName; as the default client for:">
+<!ENTITY systemIntegration.title  "அமைப்பு ஒருங்கிணைப்பு ">
+<!ENTITY defaultClient.intro  "உபயோகிக்க &brandShortName; பொது இருப்பு சேவை பயனராக:">
 
 <!ENTITY email.label "மின்னஞ்சல்">
 <!ENTITY newsgroups.label "செய்திக்குழுக்கள்">
 <!ENTITY feeds.label "பின்னூட்டுக்கள்">
 
-<!ENTITY checkOnStartup.label "Always perform this check when starting &brandShortName; ஆரம்பிக்கும் எவ்வேளையிலும் இந்த சரிபார்ப்பை செயற்படுத்துக">
+<!ENTITY checkOnStartup.label "&brandShortName ஐ  ஆரம்பிக்கும் எவ்வேளையிலும் இந்த சரிபார்ப்பை செயற்படுத்துக">
 <!ENTITY checkOnStartup.accesskey "A">
 
 <!ENTITY searchIntegration.label "செய்திகளை தேடுவதற்கு  &searchIntegration.engineName; இனை அனுமதிக்குக">

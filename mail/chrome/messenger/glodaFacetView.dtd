@@ -5,12 +5,12 @@
 
 <!-- LOCALIZATION NOTE (glodaFacetView.loading.label): Label that appears when
      the search results take a long time to appear. -->
-<!ENTITY glodaFacetView.loading.label "Searching&#8230;">
+<!ENTITY glodaFacetView.loading.label "தேடப்படுகிறது&#8230;">
 
 <!-- LOCALIZATION NOTE (glodaFacetView.empty.label): Label that appears when
      there are no results that match the search query. -->
 <!ENTITY glodaFacetView.empty.label "உங்களுடைய தேடலுடன் எந்தவொறு செய்திகளும் பொருந்தவில்லை">
 
-<!-- LOCALIZATION NOTE (glodaFacetView.pageMore.label): பெயர்ச் சிட்டை at the bottom 
+<!-- LOCALIZATION NOTE (glodaFacetView.pageMore.label): பெயர்ச் சிட்டை கடைசியில்
      of the results list to show more hits. -->
-<!ENTITY glodaFacetView.pageMore.label "More &#187;">
+<!ENTITY glodaFacetView.pageMore.label "மேலதிகமாக &#187;">

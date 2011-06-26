@@ -72,7 +72,7 @@
 <!ENTITY swapFirstNameLastNameCmd.accesskey "w">
 <!-- LOCALIZATION NOTE (hideSwapFnLnUI) : DONT_TRANSLATE -->
 <!-- Swap FN/LN UI  Set to "false" to show swap fn/ln UI -->
-<!ENTITY hideSwapFnLnUI "true">
+<!ENTITY hideSwapFnLnUI "உண்மை">
 <!ENTITY propertiesCmd.label "தன்மைகள்...">
 <!-- LOCALIZATION NOTE (propertiesCmd.accesskey) : DONT_TRANSLATE -->
 <!ENTITY propertiesCmd.accesskey "i">

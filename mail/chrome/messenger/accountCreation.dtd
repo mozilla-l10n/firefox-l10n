@@ -1,15 +1,15 @@
-<!ENTITY autoconfigWizard.title          "அஞ்சல் கணக்கு Setup">
+<!ENTITY autoconfigWizard.title          "அஞ்சல் கணக்கு அமைப்பு">
 <!ENTITY name.label                      "உங்களுடைய பெயர்:">
 <!ENTITY name.accesskey                  "n">
-<!ENTITY name.text                       "உங்களுடைய பெயர், as shown to others">
+<!ENTITY name.text                       "உங்களுடைய பெயர், மற்றவர்களுக்கு தென்படுவது">
 <!ENTITY email.label                     "மின்னஞ்சல் முகவரி:">
 <!ENTITY email.accesskey                 "l">
 <!ENTITY password.label                  "கடவுச்சொல்:">
 <!ENTITY password.accesskey              "P">
-<!ENTITY password.text                   "Optional, will only be used to validate the username">
+<!ENTITY password.text                   "விருப்பத் தெரிவு, பயனாளர் பெயரரை உறுதிசெய்வதற்கு மட்டும் பயன்படுத்தமுடியும்">
 
-<!ENTITY incoming.label                  "Incoming:">
-<!ENTITY outgoing.label                  "Outgoing:">
+<!ENTITY incoming.label                  "உள்வரும்:">
+<!ENTITY outgoing.label                  "வெளிசெல்லும்:">
 <!ENTITY noEncryption.label              "None">
 <!ENTITY starttls.label                  "STARTTLS">
 <!ENTITY sslTls.label                    "SSL/TLS">
@@ -31,13 +31,13 @@
 <!ENTITY rememberPassword.accesskey      "m">
 
 <!ENTITY warning.label                   "எச்சரிக்கை!">
-<!ENTITY incomingSettings.label          "Incoming அமைப்புக்கள்:">
-<!ENTITY outgoingSettings.label          "Outgoing அமைப்புக்கள்:">
+<!ENTITY incomingSettings.label          "உள்வரும் அமைப்புக்கள்:">
+<!ENTITY outgoingSettings.label          "வெளிசெல்லும் அமைப்புக்கள்:">
 <!ENTITY technicaldetails.label          "தொழில்நுட்ப விபரங்கள்">
 <!-- LOCALIZATION NOTE (confirmWarning.label): If there is a security
      warning on the outgoing server, then the user will need to check a
      checkbox beside this text before continuing. -->
-<!ENTITY confirmWarning.label            "I understand the risks.">
+<!ENTITY confirmWarning.label            "பிரச்சினைகளை நான் அறிவேன்.">
 <!ENTITY confirmWarning.accesskey        "u">
 <!-- LOCALIZATION NOTE (createAccount.label): If there is a security warning
      on the incoming or outgoing servers, then the page that pops up will
@@ -51,13 +51,13 @@
 <!ENTITY changeSettings.label            "அமைப்புகளை மாற்றுக">
 <!ENTITY changeSettings.accesskey        "S">
 
-<!ENTITY contactYourProvider.description "&brandShortName; can allow you to get to your mail using the provided configurations. However, you should contact your administrator or email provider regarding these improper connections. See the Thunderbird FAQ for more information.">
+<!ENTITY contactYourProvider.description "&brandShortName; வழங்கப்பட்ட அமைவடிவங்களை கொண்டு உங்களுடைய அஞ்சலை பெற அனுமதிக்கின்றதா. எப்படியிருந்தாலும், நீங்கள் சீரற்ற இணைப்பை பற்றி உங்களுடைய நிர்வாகி அல்லது மின்னஞ்சல் வழங்குனரை தொடர்புகொள்ளவும். மேலதிக தகவலுக்கு Thunderbird FAQ ஐ பார்க்கவும்.">
 
-<!ENTITY insecureServer.tooltip.title    "எச்சரிக்கை! This is an insecure server.">
-<!ENTITY insecureServer.tooltip.details  "மேலதிக விபரங்களுக்காக circle மீது சொடுக்குக.">
+<!ENTITY insecureServer.tooltip.title    "எச்சரிக்கை! இது ஒரு பாதுகாப்பற்ற சேவையகம்.">
+<!ENTITY insecureServer.tooltip.details  "மேலதிக விபரங்களுக்காக வட்டத்தின் மீது சொடுக்குக.">
 
-<!ENTITY insecureSelfSigned.description  "The server uses a certificate that we can't trust, so we can't be sure that someone isn't intercepting the traffic between &brandShortName; and your server. &brandShortName; will let you get to your mail, but you should really get your email provider to configure the server with a trusted certificate.">
-<!ENTITY secureServer.description        "வாழ்த்துக்கள்! This is a secure server.">
+<!ENTITY insecureSelfSigned.description  "எங்களால் நம்பமுடியாத சான்றிதழ் ஒன்றை சேவையகம் பயன்படுத்துகின்றது, அதனால் நாங்கள் &brandShortName; இற்கும் உங்களுடைய சேவையகத்துக்கும் இடையில் இருக்கும் தடையை ஒருவரால் வழிமறிக்க முடியும் என்பதை நம்பமுடியாது. நாங்கள். &brandShortName; உங்களுடைய அஞ்சலை பெறுவதற்கு அனுமதிக்கும்,  ஆனால் சேவையகத்தை நம்பிக்கையான சான்றிதழ்லால் தகவமைப்பதற்கு உங்களுடைய மின்னஞ்சல் வழங்குனரை அணுகவும்.">
+<!ENTITY secureServer.description        "வாழ்த்துக்கள்! இது ஒரு பாதுகாப்பான சேவையகம்.">
 
 
 <!--
@@ -65,22 +65,22 @@ Entities below were automatically added by compare-locales,
  based on en-US entities.
 -->
 
-<!ENTITY pop3Long.label "POP3 (keep mail on your computer)">
+<!ENTITY pop3Long.label "POP3 (உங்களுடைய கணணியில் அஞ்சலை வைக்கவும்)">
 <!ENTITY autodetect.label "Autodetect">
-<!ENTITY name.placeholder "First Last">
-<!ENTITY half-manual-test.label "Re-test">
-<!ENTITY username.label "Username:">
+<!ENTITY name.placeholder "முதல் இறுதி">
+<!ENTITY half-manual-test.label "மீண்டும் பருசோதித்தல்">
+<!ENTITY username.label "பயனாளர் பெயர்:">
 <!ENTITY port.label "Port">
 <!ENTITY half-manual-test.accesskey "t">
-<!ENTITY advancedSetup.label "Advanced config">
-<!ENTITY imapLong.label "IMAP (remote folders)">
-<!ENTITY auth.label "Authentication">
-<!ENTITY hostname.label "Server hostname">
-<!ENTITY insecureUnencrypted.description "Your email and authentication are sent unencrypted, so your password (and your message) could easily be read by other people. &brandShortName; will let you get to your mail, but you should contact your email provider about configuring the server with a secure connection.">
+<!ENTITY advancedSetup.label "முன்னேற்றமான தகவமைப்பு">
+<!ENTITY imapLong.label "IMAP (தொலை கோப்புறைகள்)">
+<!ENTITY auth.label "அத்தாட்சிப்படுத்தல்">
+<!ENTITY hostname.label "சேவையகம் ஓம்புனர் பெயர்">
+<!ENTITY insecureUnencrypted.description "உங்களுடைய மின்னஞ்சல் மற்றும் அத்தாட்சிப்படுத்தல்கள் மறைக்குறியீடாக்கப்படாமல் அனுப்பப்பட்டுள்ளது, அதனால் உங்களுடைய கடவுச்சொல் (மற்றும் உங்களுடைய செய்தி) இலகுவாக மற்றவர்களாள் வாசிக்கமுடியும். &brandShortName; உங்களுடைய அஞ்சலை பெறுவதற்கு அனுமதிக்கும், ஆனால் சேவையகத்தை பாதுகாப்பான இணைப்பினால் தகவமைப்பதற்கு உங்களுடைய மின்னஞ்சல் வழங்குனரை அணுகவும்.">
 <!ENTITY advancedSetup.accesskey "A">
-<!ENTITY manual-edit.label "Manual config">
+<!ENTITY manual-edit.label "கைமுறை தகவமைப்பு">
 <!ENTITY ssl.label "SSL">
 <!ENTITY email.placeholder "email@example.com">
-<!ENTITY password.placeholder "Password">
+<!ENTITY password.placeholder "கடவுச்சொல்">
 <!ENTITY pop3.label "POP3">
 <!ENTITY manual-edit.accesskey "M">

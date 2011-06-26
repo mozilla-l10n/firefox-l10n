@@ -19,7 +19,7 @@
 <!ENTITY signingGroupTitle.label "digital கையெழுத்திடல்">
 <!ENTITY signMessage.label "அஞ்சல்களில் digitalஆக கையெழுத்திடுக (பொதுஇருப்பில்)">
 <!ENTITY signMessage.accesskey "D">
-<!ENTITY signingCert.message "நீங்க அனுப்பும் அஞ்சல்களில் digitalஆக கையெழுத்திட இந்த சான்றிதழை பயன்படுத்துக:">
+<!ENTITY signingCert.message "நீங்க அனுப்பும் அஞ்சல்களில் இலக்கமுறையாக கையெழுத்திட இந்த சான்றிதழை பயன்படுத்துக:">
 
 
 <!ENTITY certificates.label "சான்றிதழ்கள்">

@@ -8,10 +8,10 @@
 
 <!ENTITY enableGlodaSearch.label       "Indexer மற்றும் அகிலத் தேடலை இயலுமைப்படுத்துக">
 <!ENTITY enableGlodaSearch.accesskey   "E">
-<!ENTITY systemIntegration.label       "System Integration">
+<!ENTITY systemIntegration.label       "அமைப்பு ஒருங்கிணைப்பு">
 <!ENTITY alwaysCheckDefault.label      "Always check to see if &brandShortName; is the default mail client on startup">
 <!ENTITY alwaysCheckDefault.accesskey  "l">
-<!ENTITY searchIntegration.label       "Allow &searchIntegration.engineName; to search messages">
+<!ENTITY searchIntegration.label       "அனுமதிக்க &searchIntegration.engineName; செய்திகளை தேடுவதற்கு">
 <!ENTITY searchIntegration.accesskey   "S">
 <!ENTITY showCondensedAddresses.label "என் முகவரிப்புத்தகத்தில் பெயரை மட்டும் காண்பிக்கவும்">
 <!ENTITY showCondensedAddresses.accesskey "p">
@@ -23,7 +23,7 @@
      "xxx seconds before marking a message as read", using a number and
      (markAsReadEnd.label). -->
 
-<!ENTITY markAsReadDelay.label         "After displaying for">
+<!ENTITY markAsReadDelay.label         "காட்சிப்படுத்தலுக்கு பிறகு">
 <!ENTITY markAsReadDelay.accesskey     "e">
 <!ENTITY secondsLabel.label            "செக்கன்கள்">
 <!ENTITY openMsgIn.label               "இல் தகவல்களைத் திறக்க:">
@@ -114,4 +114,4 @@ Entities below were automatically added by compare-locales,
 
 <!ENTITY closeMsgOnMoveOrDelete.accesskey "C">
 <!ENTITY mb.label "MB">
-<!ENTITY closeMsgOnMoveOrDelete.label "Close message window/tab on move or delete">
+<!ENTITY closeMsgOnMoveOrDelete.label "செய்தி சாளரத்தை மூடுக /நகர்த்தல் அல்லது அழித்தலுக்கான தத்தல்">
