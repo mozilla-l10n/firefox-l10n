@@ -54,7 +54,7 @@
 <!ENTITY autoSave.accesskey "m">
 <!ENTITY autoSaveEnd.label "minut">
 <!-- LOCALIZATION NOTE (wrapOutMsg.label): This will concatenate with "xxx characters", using a number and (char.label). -->
-<!ENTITY wrapOutMsg.label "Zawijaj linie wiadomości zawierające zwykły tekst o długości powyżej">
+<!ENTITY wrapOutMsg.label "Zawijaj wiersze wiadomości zawierające zwykły tekst o długości powyżej">
 <!ENTITY wrapOutMsg.accesskey "w">
 <!ENTITY char.label "znaków">
 
