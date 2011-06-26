@@ -37,7 +37,8 @@
 <!ENTITY netOffline.title "Modo sin conexión">
 <!ENTITY netOffline.longDesc2 "
 <ul>
-  <li>Pruebe de nuevo. &brandShortName; intentará abrir de nuevo una conexión y recargará la página.</li>">
+  <li>Pruebe de nuevo. &brandShortName; intentará abrir de nuevo una conexión y recargará la página.</li>
+</ul>">
 <!ENTITY contentEncodingError.title "Error de codificación de contenido">
 <!ENTITY contentEncodingError.longDesc "
 <ul>
