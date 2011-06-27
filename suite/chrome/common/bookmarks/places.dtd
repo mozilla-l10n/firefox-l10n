@@ -55,7 +55,7 @@
 <!ENTITY cmd.properties.accesskey "T">
 
 <!ENTITY cmd.sortby_name.label "Rendezés név szerint">
-<!ENTITY cmd.sortby_name.accesskey "r">
+<!ENTITY cmd.sortby_name.accesskey "R">
 
 <!ENTITY cmd.new_bookmark.label "Új könyvjelző...">
 <!ENTITY cmd.new_bookmark.accesskey "k">
