@@ -30,6 +30,8 @@
 <!ENTITY checkNow.accesskey "m">
 <!ENTITY submitCrashes.label "Çökme raporlarını gönder">
 <!ENTITY submitCrashes.accesskey "r">
+<!ENTITY submitTelemetry.label "Submit performance data">
+<!ENTITY submitTelemetry.accesskey "P">
 
 <!ENTITY networkTab.label "Ağ">
 
