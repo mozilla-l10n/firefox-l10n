@@ -36,22 +36,22 @@
 <!ENTITY pasteCmd.label "Beillesztés">
 <!ENTITY pasteCmd.key "V">
 <!ENTITY pasteCmd.accesskey "B">
-<!ENTITY pasteGoCmd.label "Beillesztés és indulás">
-<!ENTITY pasteGoCmd.accesskey "i">
+<!ENTITY pasteGoCmd.label "Paste &amp; Go">
+<!ENTITY pasteGoCmd.accesskey "G">
 <!-- LOCALIZATION NOTE (pasteSearchCmd): "Search" is a verb, this is the
      search bar equivalent to the url bar's "Paste & Go"  -->
 
-<!ENTITY pasteSearchCmd.label "Beillesztés és keresés">
-<!ENTITY pasteSearchCmd.accesskey "B">
+<!ENTITY pasteSearchCmd.label "Paste &amp; Search">
+<!ENTITY pasteSearchCmd.accesskey "e">
 <!ENTITY deleteCmd.label "Törlés">
 <!ENTITY deleteCmd.accesskey "T">
 <!ENTITY selectAllCmd.label "Mindet kijelöli">
 <!ENTITY selectAllCmd.key "A">
 <!ENTITY selectAllCmd.accesskey "d">
-<!ENTITY clearHistoryCmd.label "Keresési előzmények törlése">
-<!ENTITY clearHistoryCmd.accesskey "e">
-<!ENTITY showSuggestionsCmd.label "Javaslatok megjelenítése">
-<!ENTITY showSuggestionsCmd.accesskey "J">
+<!ENTITY clearHistoryCmd.label "Clear Search History">
+<!ENTITY clearHistoryCmd.accesskey "H">
+<!ENTITY showSuggestionsCmd.label "Show Suggestions">
+<!ENTITY showSuggestionsCmd.accesskey "S">
 <!ENTITY preferencesCmd.label "Beállítások...">
 <!ENTITY preferencesCmd.key "E">
 <!ENTITY preferencesCmd.accesskey "B">
@@ -74,8 +74,8 @@
 <!ENTITY helpTroubleshootingInfo.accesskey "T">
 <!ENTITY releaseCmd.label "Verzióinformáció">
 <!ENTITY releaseCmd.accesskey "V">
-<!ENTITY helpSafeMode.label "Újraindítás letiltott kiegészítőkkel">
-<!ENTITY helpSafeMode.accesskey "j">
+<!ENTITY helpSafeMode.label "Restart with Add-ons Disabled">
+<!ENTITY helpSafeMode.accesskey "R">
 <!ENTITY updateCmd.label "Frissítések keresése...">
 <!ENTITY updateCmd.accesskey "F">
 <!ENTITY aboutCmd.label "A &brandShortName; névjegye">
@@ -101,8 +101,8 @@
 <!ENTITY bidiSwitchTextDirectionItem.accesskey "z">
 <!ENTITY bidiSwitchTextDirectionItem.commandkey "X">
 
-<!ENTITY customizeToolbarContext.label "Testreszabás...">
-<!ENTITY customizeToolbarContext.accesskey "T">
+<!ENTITY customizeToolbarContext.label "Customize…">
+<!ENTITY customizeToolbarContext.accesskey "C">
 
 <!ENTITY customizeToolbar.toolbarmode.label "Eszköztár beállításai">
 <!ENTITY customizeToolbar.toolbarmode.accesskey "b">
@@ -126,4 +126,4 @@
 <!ENTITY dontShowMessage.label "Ne jelenjen meg ez az üzenet a felugró ablakok blokkolásakor.">
 <!ENTITY dontShowMessage.accesskey "N">
 
-<!ENTITY syncToolbarButton.label "Szinkronizálás">
+<!ENTITY syncToolbarButton.label "Sync">
