@@ -9,6 +9,6 @@
 <!-- pref-tabs.xul -->
 
 <!ENTITY urlbar.label "&#8984;+Return a Címmezőben">
-<!ENTITY urlbar.accesskey "L">
+<!ENTITY urlbar.accesskey "C">
 <!ENTITY middleClick.label "Középső kattintás, &#8984;+kattintás vagy &#8984;+Return a linkeken a weboldalon">
 <!ENTITY middleClick.accesskey "K">

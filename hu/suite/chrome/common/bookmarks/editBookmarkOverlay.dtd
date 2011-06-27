@@ -10,8 +10,8 @@
 <!ENTITY editBookmarkOverlay.folder.label "Mappa:">
 <!ENTITY editBookmarkOverlay.foldersExpanderDown.tooltip "Minden könyvjelzőmappa megjelenítése">
 <!ENTITY editBookmarkOverlay.expanderUp.tooltip "Elrejtés">
-<!ENTITY editBookmarkOverlay.tags.label "_Címkék:">
-<!ENTITY editBookmarkOverlay.tags.accesskey "a">
+<!ENTITY editBookmarkOverlay.tags.label "Címkék:">
+<!ENTITY editBookmarkOverlay.tags.accesskey "C">
 <!ENTITY editBookmarkOverlay.tagsEmptyDesc.label "A címkéket vesszővel válassza el.">
 <!ENTITY editBookmarkOverlay.description.label "Leírás:">
 <!ENTITY editBookmarkOverlay.description.accesskey "L">

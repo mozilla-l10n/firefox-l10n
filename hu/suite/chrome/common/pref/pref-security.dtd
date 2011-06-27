@@ -38,9 +38,9 @@
 
 <!ENTITY pref.security.title "Adatvédelem és biztonság">
 
-<!ENTITY tracking.label "User Tracking">
-<!ENTITY doNotTrack.label "Tell web sites I do not want to be tracked">
-<!ENTITY doNotTrack.accesskey "T">
+<!ENTITY tracking.label "Felhasználó követése">
+<!ENTITY doNotTrack.label "Nem akarom, hogy a webhelyek kövessenek">
+<!ENTITY doNotTrack.accesskey "N">
 
 <!ENTITY privateData.label "Személyes adatok">
 

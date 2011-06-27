@@ -152,8 +152,8 @@
 <!ENTITY openAttachment.accesskey "M">
 <!ENTITY renameAttachment.label "Átnevezés">
 <!ENTITY renameAttachment.accesskey "n">
-<!ENTITY deleteAttachment.accesskey "D">
-<!ENTITY selectAllAttachments.accesskey "A">
+<!ENTITY deleteAttachment.accesskey "l">
+<!ENTITY selectAllAttachments.accesskey "e">
 <!ENTITY attachFile.label "Fájl(ok) csatolása...">
 <!ENTITY attachFile.accesskey "F">
 <!ENTITY attachPage.label "Weboldal csatolása...">

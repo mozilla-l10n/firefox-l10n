@@ -103,7 +103,7 @@
 <!ENTITY smtpServerNamePrefix.label "Levélküldő kiszolgáló (SMTP) neve:">
 <!ENTITY newsServerNamePrefix.label "Hírcsoport-kiszolgáló (NTTP) neve:">
 <!ENTITY downloadOnLogin.label "Üzenetek letöltése azonnal">
-<!ENTITY downloadOnLogin.accesskey "D">
+<!ENTITY downloadOnLogin.accesskey "l">
 <!ENTITY deferStorageDesc.label "Ha leveszi a jelölést erről a négyzetről, akkor a postafiók levelei a saját könyvtárukban lesznek tárolva. A postafiók legfelső szintű postafiókként jelenik majd meg. Egyébként része lesz a Helyi mappák Globális gyűjtő nevű postafiókjának.">
 <!ENTITY deferStorage.label "A Globális gyűjtő használata (levelek tárolása a Helyi mappákban)">
 <!ENTITY deferStorage.accesskey "G">

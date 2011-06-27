@@ -4,23 +4,23 @@
 <!ENTITY pref.cache.title "Gyorsítótár">
 <!ENTITY pref.cache.caption "Gyorsítótár mérete">
 <!ENTITY cachePara "A gyorsítótár a gyakran látogatott weboldalakról tart egy másolatot a lemezen. Ez csökkenti az internetkapcsolat idejét. (Az oldal legfrissebb változata a 'Frissítés' gombbal tölthető be.)">
-<!ENTITY cacheCheck.label "Let &brandShortName; manage the size of my cache">
-<!ENTITY cacheCheck.accesskey "L">
-<!ENTITY diskCacheUpTo.label "Use up to">
-<!ENTITY diskCacheUpTo.accesskey "U">
-<!ENTITY spaceMbytes "MB of disk space for the cache">
+<!ENTITY cacheCheck.label "A &brandShortName; kezelje a gyorsítótár méretét">
+<!ENTITY cacheCheck.accesskey "g">
+<!ENTITY diskCacheUpTo.label "Maximum">
+<!ENTITY diskCacheUpTo.accesskey "u">
+<!ENTITY spaceMbytes "MB lemezterület használata gyorsítótárként">
 <!ENTITY diskCacheFolder.label "Gyorsítótár mappája:">
 <!ENTITY clearDiskCache.label "Gyorsítótár törlése">
 <!ENTITY clearDiskCache.accesskey "o">
 <!ENTITY chooseDiskCacheFolder.label "Mappa választása...">
 <!ENTITY chooseDiskCacheFolder.accesskey "v">
 <!ENTITY diskCacheFolderExplanation "A gyorsítótár fájljai a megadott mappa &quot;Cache&quot; alkönyvtárában fognak elhelyezkedni. A változások érvénybe lépéséhez újra kell indítani a &brandShortName; programot.">
-<!ENTITY docCache.label "Compare the page in the cache to the page on the network:">
+<!ENTITY docCache.label "A gyorsítótárban található változat összehasonlítása a hálózaton találhatóval:">
 <!ENTITY docCache.accesskey "m">
-<!ENTITY checkOncePerSession.label "Once per session">
-<!ENTITY checkEveryTime.label "Every time I view the page">
-<!ENTITY checkNever.label "Never">
-<!ENTITY checkAutomatically.label "When the page is out of date">
+<!ENTITY checkOncePerSession.label "Munkamenetenként">
+<!ENTITY checkEveryTime.label "Minden oldallátogatáskor">
+<!ENTITY checkNever.label "Soha">
+<!ENTITY checkAutomatically.label "Az oldal elévülésekor">
 
 <!ENTITY prefetchTitle.label "Hivatkozások betöltése">
 <!ENTITY enablePrefetch.label "Előre letölti a weboldalakat a böngészés holtidejében, így az erre felkészített weboldalak hivatkozásai gyorsabban töltődnek majd be.">

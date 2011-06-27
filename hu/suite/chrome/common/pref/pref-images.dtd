@@ -8,14 +8,14 @@
 
 <!ENTITY imageDetails "Adja meg, hogy kezelje a &brandShortName; a képeket.">
 
-<!ENTITY loadAllImagesRadio.label "Load all images">
-<!ENTITY loadAllImagesRadio.accesskey "L">
-<!ENTITY loadOrgImagesRadio.label "Only load images that come from the originating server">
-<!ENTITY loadOrgImagesRadio.accesskey "n">
-<!ENTITY loadNoImagesRadio.label "Do not load any images">
-<!ENTITY loadNoImagesRadio.accesskey "D">
-<!ENTITY viewPermissions.label "Manage Permissions">
-<!ENTITY viewPermissions.accesskey "P">
+<!ENTITY loadAllImagesRadio.label "Összes kép betöltése">
+<!ENTITY loadAllImagesRadio.accesskey "b">
+<!ENTITY loadOrgImagesRadio.label "Csak a webhely kiszolgálójáról származó képek betöltése">
+<!ENTITY loadOrgImagesRadio.accesskey "C">
+<!ENTITY loadNoImagesRadio.label "Képek betöltésének tiltása">
+<!ENTITY loadNoImagesRadio.accesskey "t">
+<!ENTITY viewPermissions.label "Engedélyek kezelése">
+<!ENTITY viewPermissions.accesskey "E">
 <!ENTITY animLoopingTitle.label "Az animált képek lejátszhatóak">
 <!ENTITY animLoopAsSpecified.label "Ahányszor a képben meg van határozva">
 <!ENTITY animLoopAsSpecified.accesskey "A">
