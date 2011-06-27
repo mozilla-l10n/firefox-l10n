@@ -1,4 +1,4 @@
-<!ENTITY windowTitle.label "Strobineller kontoù">
+<!ENTITY windowTitle.label "Skoazeller kontoù">
 <!ENTITY accountWizard.size "width: 50em; height: 40em;">
 <!ENTITY accountSetupInfo.label "Ret eo deoc'h krouiñ ha kefluniañ kontoù posteloù ha kontoù strolladoù-keleier evit bezañ gouest da gas ha da resev kemennadennoù.">
 <!ENTITY accountTypeTitle.label "Aozañ kontoù nevez">
@@ -82,5 +82,5 @@
 <!ENTITY deferStorageDesc.label "Laoskit goullo al log a heul a-benn enrollañ holl bosteloù ar gont-mañ en he c'havlec'hiad arbennik. Evel-se e vo diskouezet ar gont-mañ a-us d'an holl gontoù. Peotramant e vo diskouezet gant an teuliadoù lec'hel eus ar voestad-lizheroù hollek.">
 <!ENTITY deferStorage.label "Ober gant ur voest-lizheroù hollek (enrollañ posteloù en teuliadoù lec'hel)">
 <!ENTITY deferStorage.accesskey "O">
-<!ENTITY clickFinish.label "Klikit war Echuiñ evit enrollañ an arventennoù-mañ ha kuitaat Strobineller ar c'hontoù.">
-<!ENTITY clickFinish.labelMac "Klikit war Graet evit enrollañ an arventennoù-mañ ha kuitaat Strobineller ar c'hontoù.">
+<!ENTITY clickFinish.label "Klikit war Echuiñ evit enrollañ an arventennoù-mañ ha kuitaat Skoazeller ar c'hontoù.">
+<!ENTITY clickFinish.labelMac "Klikit war Graet evit enrollañ an arventennoù-mañ ha kuitaat Skoazeller ar c'hontoù.">

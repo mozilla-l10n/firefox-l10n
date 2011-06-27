@@ -16,7 +16,7 @@
 <!ENTITY importTitle.label "&brandShortName; Skoazeller enporzhiañ posteloù">
 <!ENTITY importShortDesc.label    "Enporzhiañ ar posteloù, karnedoù chomlec'hioù, arventennoù ha siloù diouzh goulevioù all">
 
-<!ENTITY importDescription1.label "Posteloù, enankadoù karned chomlec'hioù, gwellvezioù ha/pe siloù diouzh arloadoù posteloù all ha mentrezhoù boutin karnedoù a enporzhio ar strobineller-mañ e &brandShortName;.">
+<!ENTITY importDescription1.label "Posteloù, enankadoù karned chomlec'hioù, gwellvezioù ha/pe siloù diouzh arloadoù posteloù all ha mentrezhoù boutin karnedoù a enporzhio ar skoazeller-mañ e &brandShortName;.">
 <!ENTITY importDescription2.label "Ur wech enporzhiet e viot barrek d'o zizhout diouzh karned chomlec'hioù ha/pe posteloù &brandShortName;.">
 
 <!ENTITY selectDescription.label "Diuzit ar goulev ma vo enporzhiet dioutañ :">

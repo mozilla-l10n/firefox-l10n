@@ -5,7 +5,7 @@
                        for the help button in the menubar but Gnome does not.   -->
 <!ENTITY helpMenuWin.label "Skoazell">
 <!ENTITY helpMenuWin.accesskey "S">
-<!ENTITY helpTroubleshootingInfo.label     "Stlennoù disac'hañ">
+<!ENTITY helpTroubleshootingInfo.label     "Titouroù disac'hañ">
 <!ENTITY helpTroubleshootingInfo.accesskey "t">
 <!ENTITY helpSafeMode.label     "Adloc'hañ gant an askouezhioù diweredekaet…">
 <!ENTITY helpSafeMode.accesskey "R">
