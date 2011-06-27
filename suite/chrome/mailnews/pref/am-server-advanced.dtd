@@ -1,7 +1,7 @@
 <!ENTITY serverAdvanced.label "Haladó postafiók-beállítások">
 <!-- LOCALIZATION NOTE (serverDirectory.label): DONT_TRANSLATE "IMAP" -->
 <!ENTITY serverDirectory.label "IMAP server directory:">
-<!ENTITY serverDirectory.accesskey "d">
+<!ENTITY serverDirectory.accesskey "m">
 <!ENTITY usingSubscription.label "Csak a feliratkozott mappák megjelenítése">
 <!ENTITY usingSubscription.accesskey "f">
 <!ENTITY dualUseFolders.label "A kiszolgáló támogat olyan mappákat, amelyek további almappákat és leveleket tartalmaznak">

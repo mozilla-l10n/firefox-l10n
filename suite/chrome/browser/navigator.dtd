@@ -106,7 +106,7 @@
 <!ENTITY goHomeCmd.label "Kezdőlap">
 <!ENTITY goHomeCmd.accesskey "K">
 <!ENTITY historyRestoreLastSession.label "Előző munkamenet helyreállítása">
-<!ENTITY historyRestoreLastSession.accesskey "R">
+<!ENTITY historyRestoreLastSession.accesskey "r">
 
 <!ENTITY bookmarksMenu.label "Könyvjelzők">
 <!ENTITY bookmarksMenu.accesskey "K">
