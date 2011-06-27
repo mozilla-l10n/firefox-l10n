@@ -193,3 +193,5 @@ ar papildus funkcionalitāti vai stilu. Izmēģiniet laiku ietaupošo sānu josl
 <!ENTITY eula.width                           "560px">
 <!ENTITY eula.height                          "400px">
 <!ENTITY eula.accept                          "Pieņemt un instalēt…">
+
+<!ENTITY settings.path.button.label           "Pārlūkot…">
