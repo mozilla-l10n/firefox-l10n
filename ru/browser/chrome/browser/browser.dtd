@@ -39,8 +39,6 @@
 <!ENTITY printCmd.label "Печать…">
 <!ENTITY printCmd.accesskey "е">
 <!ENTITY printCmd.commandkey "p">
-<!ENTITY import.label "Импорт…">
-<!ENTITY import.accesskey "И">
 <!ENTITY goOfflineCmd.label "Работать автономно">
 <!ENTITY goOfflineCmd.accesskey "б">
 <!ENTITY menubarCmd.label "Панель меню">
