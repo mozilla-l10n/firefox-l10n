@@ -24,10 +24,12 @@
 <!ENTITY cmd.findInBookmarks.accesskey "й">
 <!ENTITY cmd.findCurrent.label "Найти в текущей коллекции…">
 <!ENTITY cmd.findCurrent.accesskey "а">
-<!ENTITY cmd.exportHTML.label "Экспорт в HTML…">
-<!ENTITY cmd.exportHTML.accesskey "Э">
-<!ENTITY cmd.importHTML.label "Импорт из HTML…">
-<!ENTITY cmd.importHTML.accesskey "И">
+<!ENTITY importBookmarksFromHTML.label "Импорт закладок из HTML-файла…">
+<!ENTITY importBookmarksFromHTML.accesskey "И">
+<!ENTITY exportBookmarksToHTML.label "Экспорт закладок в HTML-файл…">
+<!ENTITY exportBookmarksToHTML.accesskey "Э">
+<!ENTITY importOtherBrowser.label "Импорт данных из другого браузера…">
+<!ENTITY importOtherBrowser.accesskey "п">
 <!ENTITY cmd.backup.label "Резервное копирование…">
 <!ENTITY cmd.backup.accesskey "р">
 <!ENTITY cmd.restore2.label "Восстановить">
