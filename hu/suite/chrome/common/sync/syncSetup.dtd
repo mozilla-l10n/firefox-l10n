@@ -13,7 +13,7 @@
 <!-- New Account AND Existing Account -->
 
 <!ENTITY server.label "Kiszolgáló">
-<!ENTITY server.accesskey "s">
+<!ENTITY server.accesskey "K">
 <!ENTITY serverType.main.label "&syncBrand.fullName.label;-kiszolgáló">
 <!ENTITY serverType.custom2.label "Egyéni kiszolgáló használata...">
 <!ENTITY signIn.account2.label "Fiók">
@@ -45,7 +45,7 @@
 <!ENTITY syncKeyEntry.label "Sync-kulcs">
 <!ENTITY syncKeyEntry.accesskey "k">
 <!ENTITY syncKeyGenerate.label "Létrehozás">
-<!ENTITY syncKeyGenerate.accesskey "L">
+<!ENTITY syncKeyGenerate.accesskey "e">
 <!ENTITY syncKeyBackup.description "A Sync-kulcs kelleni fog, ha más gépekről akarja elérni a &syncBrand.fullName.label; szolgáltatást. Készítsen biztonsági másolatot. Nem tudunk segíteni, ha elveszti a Sync-kulcsát.">
 
 <!ENTITY button.syncKeyBackup.print.label "Nyomtatás...">

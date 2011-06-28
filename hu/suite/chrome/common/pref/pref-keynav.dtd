@@ -6,11 +6,11 @@
 <!ENTITY tabNavigationForms.accesskey "G">
 <!ENTITY tabNavigationTextboxes.label "Megjegyzés: a szövegmezők és a gördíthető régiók mindig részei a bejárási sorrendnek.">
 <!ENTITY tabNavigationDesc.label "A Tab vagy a Shift+Tab lenyomására mozogjon a következők között:">
-<!ENTITY accessibilityBrowseWithCaret.label "Browse With Caret">
-<!ENTITY browseWithCaretDesc.label "Caret browsing enables you to navigate and select within pages using the cursor keys to move a visible caret.">
-<!ENTITY browseWithCaretUse.label "Use caret browsing">
-<!ENTITY browseWithCaretUse.accesskey "U">
-<!ENTITY browseWithCaretShortCut.label "Use the F7 shortcut to toggle caret browsing">
-<!ENTITY browseWithCaretShortCut.accesskey "F">
-<!ENTITY browseWithCaretWarn.label "Warn me before turning on caret browsing">
-<!ENTITY browseWithCaretWarn.accesskey "W">
+<!ENTITY accessibilityBrowseWithCaret.label "Kurzoros böngészés">
+<!ENTITY browseWithCaretDesc.label "Ebben az üzemmódban egy mozgatható kurzor jelenik meg a weboldalakon, lehetővé téve a szöveg kijelölését a billentyűzettel.">
+<!ENTITY browseWithCaretUse.label "Kurzoros böngészés használata">
+<!ENTITY browseWithCaretUse.accesskey "u">
+<!ENTITY browseWithCaretShortCut.label "Az F7 gomb kapcsolja be, illetve ki a kurzoros böngészést.">
+<!ENTITY browseWithCaretShortCut.accesskey "k">
+<!ENTITY browseWithCaretWarn.label "Figyelmeztetés, a kurzoros böngészés bekapcsolásakor">
+<!ENTITY browseWithCaretWarn.accesskey "F">
