@@ -33,6 +33,13 @@
 <!ENTITY cmd.importHTML.label "Importer au format HTML…">
 <!ENTITY cmd.importHTML.accesskey "I">
 
+<!ENTITY importBookmarksFromHTML.label     "Importer des marque-pages au format HTML…">
+<!ENTITY importBookmarksFromHTML.accesskey "I">
+<!ENTITY exportBookmarksToHTML.label       "Exporter des marque-pages au format HTML…">
+<!ENTITY exportBookmarksToHTML.accesskey   "E">
+<!ENTITY importOtherBrowser.label          "Importer des données d'un autre navigateur…">
+<!ENTITY importOtherBrowser.accesskey      "m">
+
 <!ENTITY cmd.backup.label "Sauvegarder…">
 <!ENTITY cmd.backup.accesskey "v">
 <!ENTITY cmd.restore2.label "Restaurer">
