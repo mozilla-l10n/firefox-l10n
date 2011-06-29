@@ -87,6 +87,6 @@
 <!ENTITY smiley16Cmd.label "Lelakatolt szájú">
 <!ENTITY smiley16Cmd.accesskey "a">
 <!ENTITY smiley16Cmd.tooltip "Lelakatolt szájú arc beszúrása">
-<!ENTITY SmileButton.tooltip "Hangulatjel beszúrása">
+<!ENTITY SmileButton.tooltip "Mosolygó arc beszúrása">
 
 
