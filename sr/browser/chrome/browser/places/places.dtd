@@ -94,7 +94,7 @@
 <!ENTITY search.scopeFolder.label                  "Изабрани директоријум">
 <!ENTITY search.scopeFolder.accesskey              "И">
 <!ENTITY search.scopeBookmarks.label               "Забелешке">
-<!ENTITY search.scopeBookmarks.accesskey           "О">
+<!ENTITY search.scopeBookmarks.accesskey           "З">
 <!ENTITY search.scopeDownloads.label               "Пријеми">
 <!ENTITY search.scopeDownloads.accesskey           "П">
 <!ENTITY search.scopeHistory.label                 "Историјат">
