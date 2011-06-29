@@ -1,10 +1,10 @@
 <!ENTITY editMenu.label            "Уређивање">
 <!ENTITY editMenu.accesskey        "У">
 <!ENTITY undoCmd.label             "Опозови">
-<!ENTITY undoCmd.key               "О">
+<!ENTITY undoCmd.key               "Z">
 <!ENTITY undoCmd.accesskey         "О">
 <!ENTITY redoCmd.label             "Понови">
-<!ENTITY redoCmd.key               "Д">
+<!ENTITY redoCmd.key               "Y">
 <!ENTITY redoCmd.accesskey         "П">
 <!ENTITY cutCmd.label              "Исеци">
 <!ENTITY cutCmd.key                "с">
