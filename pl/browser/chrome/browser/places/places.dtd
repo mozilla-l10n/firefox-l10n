@@ -28,10 +28,12 @@
 <!ENTITY cmd.findCurrent.label   "Znajdź w aktualnej kolekcji…">
 <!ENTITY cmd.findCurrent.accesskey   "k">
 
-<!ENTITY cmd.exportHTML.label   "Eksportuj do pliku HTML…">
-<!ENTITY cmd.exportHTML.accesskey   "E">
-<!ENTITY cmd.importHTML.label   "Importuj z pliku HTML…">
-<!ENTITY cmd.importHTML.accesskey   "I">
+<!ENTITY importBookmarksFromHTML.label     "Importuj zakładki z pliku HTML…">
+<!ENTITY importBookmarksFromHTML.accesskey "I">
+<!ENTITY exportBookmarksToHTML.label       "Eksportuj zakładki do pliku HTML…">
+<!ENTITY exportBookmarksToHTML.accesskey   "E">
+<!ENTITY importOtherBrowser.label          "Importuj dane z innej przeglądarki…">
+<!ENTITY importOtherBrowser.accesskey      "d">
 
 <!ENTITY cmd.backup.label   "Utwórz kopię zapasową…">
 <!ENTITY cmd.backup.accesskey   "U">
