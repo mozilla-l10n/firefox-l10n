@@ -28,10 +28,12 @@
 <!ENTITY cmd.findCurrent.label "Hledat v aktuální skupině…">
 <!ENTITY cmd.findCurrent.accesskey "l">
 
-<!ENTITY cmd.exportHTML.label "Exportovat HTML…">
-<!ENTITY cmd.exportHTML.accesskey "E">
-<!ENTITY cmd.importHTML.label "Importovat HTML…">
-<!ENTITY cmd.importHTML.accesskey "I">
+<!ENTITY importBookmarksFromHTML.label "Importovat záložky z HTML…">
+<!ENTITY importBookmarksFromHTML.accesskey "I">
+<!ENTITY exportBookmarksToHTML.label "Exportovat záložky do HTML…">
+<!ENTITY exportBookmarksToHTML.accesskey "E">
+<!ENTITY importOtherBrowser.label "Importovat data z jiného prohlížeče…">
+<!ENTITY importOtherBrowser.accesskey "d">
 
 <!ENTITY cmd.backup.label "Zálohovat…">
 <!ENTITY cmd.backup.accesskey "Z">
