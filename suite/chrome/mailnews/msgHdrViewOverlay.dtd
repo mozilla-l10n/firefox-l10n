@@ -35,25 +35,25 @@
 
  ***** END LICENSE BLOCK ***** -->
 
-<!ENTITY toField.label "vastaanottaja: ">
-<!ENTITY fromField.label "lähettäjä: ">
-<!ENTITY senderField.label "käsittelijä: ">
-<!ENTITY organizationField.label "organisaatio: ">
-<!ENTITY replyToField.label "vastausosoite: ">
+<!ENTITY toField.label "Vastaanottaja: ">
+<!ENTITY fromField.label "Kirjoittanut: ">
+<!ENTITY senderField.label "Lähettäjä: ">
+<!ENTITY organizationField.label "Organisaatio: ">
+<!ENTITY replyToField.label "Vastausosoite: ">
 
-<!ENTITY subjectField.label "aihe: ">
+<!ENTITY subjectField.label "Aihe: ">
 <!--# LOCALIZATION NOTE (ccField.label): DONT_TRANSLATE -->
-<!ENTITY ccField.label "kopio: ">
-<!ENTITY bccField.label "piilokopio: ">
-<!ENTITY newsgroupsField.label "keskusteluryhmät: ">
-<!ENTITY followupToField.label "vastausryhmä: ">
+<!ENTITY ccField.label "Cc: ">
+<!ENTITY bccField.label "Bcc: ">
+<!ENTITY newsgroupsField.label "Keskusteluryhmät: ">
+<!ENTITY followupToField.label "Vastausryhmä: ">
 
-<!ENTITY tagsHdr.label "tunnukset: ">
-<!ENTITY dateField.label "päiväys: ">
-<!ENTITY userAgentField.label "lähettäjän ohjelma: ">
-<!ENTITY referencesField.label "viitteet: ">
-<!ENTITY messageIdField.label "viestin tunnus: ">
-<!ENTITY inReplyToField.label "vastaus viestiin: ">
+<!ENTITY tagsHdr.label "Tunnukset: ">
+<!ENTITY dateField.label "Päiväys: ">
+<!ENTITY userAgentField.label "Lähettäjän ohjelma: ">
+<!ENTITY referencesField.label "Viitteet: ">
+<!ENTITY messageIdField.label "Viestin tunnus: ">
+<!ENTITY inReplyToField.label "Vastaus viestiin: ">
 <!ENTITY originalWebsite.label "Verkkosivusto: ">
 
 <!ENTITY editMessage.label                 "Muokkaa luonnosta…">
