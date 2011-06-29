@@ -30,10 +30,12 @@
 <!ENTITY cmd.findCurrent.label "Meklēt izvēlētajā kolekcijā...">
 <!ENTITY cmd.findCurrent.accesskey "i">
 
-<!ENTITY cmd.exportHTML.label "Eksportēt kā HTML...">
-<!ENTITY cmd.exportHTML.accesskey "E">
-<!ENTITY cmd.importHTML.label "Importēt HTML...">
-<!ENTITY cmd.importHTML.accesskey "I">
+<!ENTITY importBookmarksFromHTML.label     "Importēt grāmatzīmes no HTML…">
+<!ENTITY importBookmarksFromHTML.accesskey "I">
+<!ENTITY exportBookmarksToHTML.label       "Eksportēt grāmatzīmes uz HTML…">
+<!ENTITY exportBookmarksToHTML.accesskey   "E">
+<!ENTITY importOtherBrowser.label          "Importēt datus no cita pārlūka…">
+<!ENTITY importOtherBrowser.accesskey      "A">
 
 <!ENTITY cmd.backup.label "Izveidot rezerves kopiju...">
 <!ENTITY cmd.backup.accesskey "I">

@@ -23,8 +23,6 @@
 <!ENTITY printCmd.label "Drukāt...">
 <!ENTITY printCmd.accesskey "D">
 <!ENTITY printCmd.commandkey "p">
-<!ENTITY import.label "Importēt...">
-<!ENTITY import.accesskey "I">
 <!ENTITY openLinkCmdInCurrent.label     "Atvērt saiti">
 <!ENTITY openLinkCmdInCurrent.accesskey "A">
 
