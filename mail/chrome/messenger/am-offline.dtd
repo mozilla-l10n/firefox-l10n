@@ -15,7 +15,7 @@
 <!ENTITY nntpDownloadMsg.label "Les messages ayant plus de">
 <!ENTITY nntpDownloadMsg.accesskey "e">
 <!ENTITY retentionCleanup.label "Afin de gagner de l'espace disque, les anciens messages peuvent être supprimés définitivement.">
-<!ENTITY retentionCleanupImap.label "Afin de gagner de l'espace disque, les anciens messages peuvent être supprimés définitivement, les copies locales et les originaux sur le serveur distant.">
+<!ENTITY retentionCleanupImap.label "Afin de gagner de l'espace disque, les anciens messages peuvent être supprimés définitivement. Les copies locales et les originaux sur le serveur distant seront supprimés.">
 <!ENTITY retentionCleanupPop.label "Afin de gagner de l'espace disque, les anciens messages peuvent être supprimés définitivement, y compris sur le serveur distant.">
 <!ENTITY retentionKeepMsg.label "Supprimer les messages ayant plus de">
 <!ENTITY retentionKeepMsg.accesskey "S">
