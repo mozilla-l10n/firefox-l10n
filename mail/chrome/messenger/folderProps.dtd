@@ -58,7 +58,7 @@
 <!ENTITY daysOld.label "jours">
 <!ENTITY message.label "messages les plus récents">
 <!ENTITY retentionCleanup.label "Afin de gagner de l'espace disque, les anciens messages peuvent être supprimés définitivement.">
-<!ENTITY retentionCleanupImap.label "Afin de gagner de l'espace disque, les anciens messages peuvent être supprimés définitivement, les copies locales et les originaux sur le serveur distant.">
+<!ENTITY retentionCleanupImap.label "Afin de gagner de l'espace disque, les anciens messages peuvent être supprimés définitivement. Les copies locales et les originaux sur le serveur distant seront supprimés.">
 <!ENTITY retentionCleanupPop.label "Afin de gagner de l'espace disque, les anciens messages peuvent être supprimés définitivement, y compris sur le serveur distant.">
 <!ENTITY retentionDeleteMsg.label "Supprimer les messages ayant plus de">
 <!ENTITY retentionDeleteMsg.accesskey "u">
