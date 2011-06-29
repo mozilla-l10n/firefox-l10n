@@ -28,11 +28,6 @@
 <!ENTITY cmd.findCurrent.label "Rechercher dans la sélection courante…">
 <!ENTITY cmd.findCurrent.accesskey "R">
 
-<!ENTITY cmd.exportHTML.label "Exporter au format HTML…">
-<!ENTITY cmd.exportHTML.accesskey "E">
-<!ENTITY cmd.importHTML.label "Importer au format HTML…">
-<!ENTITY cmd.importHTML.accesskey "I">
-
 <!ENTITY importBookmarksFromHTML.label     "Importer des marque-pages au format HTML…">
 <!ENTITY importBookmarksFromHTML.accesskey "I">
 <!ENTITY exportBookmarksToHTML.label       "Exporter des marque-pages au format HTML…">
