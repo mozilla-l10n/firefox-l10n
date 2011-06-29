@@ -88,8 +88,6 @@ can reach it easily. -->
 <!ENTITY printCmd.label "Skriv ut…">
 <!ENTITY printCmd.accesskey "u">
 <!ENTITY printCmd.commandkey "p">
-<!ENTITY import.label "Importera…">
-<!ENTITY import.accesskey "I">
 
 <!ENTITY goOfflineCmd.label "Arbeta nedkopplad">
 <!ENTITY goOfflineCmd.accesskey "b">
