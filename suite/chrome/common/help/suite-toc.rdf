@@ -400,7 +400,7 @@
   <rdf:Description about="#mail-doc-offline">
     <nc:subheadings>
       <rdf:Seq>
-        <rdf:li> <rdf:Description ID="mail-offline-setup" nc:name=" Configurar &brandShortName; para trabajar sin conexión" nc:link="mailnews_offline.xhtml#setting_up_mozilla_mail_and_newsgroups_to_work_offline"/> </rdf:li>
+        <rdf:li> <rdf:Description ID="mail-offline-setup" nc:name=" Configurar Correo y noticias para trabajar sin conexión" nc:link="mailnews_offline.xhtml#setting_up_mozilla_mail_and_newsgroups_to_work_offline"/> </rdf:li>
         <rdf:li> <rdf:Description ID="mail-offline-inbox" nc:name="Descargar todos los mensajes para su uso sin conexión" nc:link="mailnews_getting_started.xhtml#downloading_all_messages_for_offline_use"/> </rdf:li>
         <rdf:li> <rdf:Description ID="mail-offline-folder" nc:name=" Descargar una carpeta individual para usar sin conexión" nc:link="mailnews_offline.xhtml#downloading_an_individual_folder_for_offline_use"/> </rdf:li>
         <rdf:li> <rdf:Description ID="mail-offline-flagged" nc:name=" Descargar los mensajes seleccionados o marcados para usar sin conexión" nc:link="mailnews_offline.xhtml#downloading_selected_or_flagged_messages_for_offline_use"/> </rdf:li>
@@ -858,8 +858,6 @@
         <rdf:li><rdf:Description ID="cookies_prefs" nc:name="Preferencias de privacidad y seguridad - Cookies" nc:link="using_priv_help.xhtml#cookies"/> </rdf:li>
         <rdf:li><rdf:Description ID="cookies_stored" nc:name="Cookies guardadas" nc:link="using_priv_help.xhtml#stored_cookies"/> </rdf:li>
         <rdf:li><rdf:Description ID="cookie_sites" nc:name="Sitios web que usan cookies" nc:link="using_priv_help.xhtml#cookie_sites"/> </rdf:li>
-        <rdf:li><rdf:Description ID="cookie_notify" nc:name="Notificación de cookies" nc:link="using_priv_help.xhtml#cookie_notification"/> </rdf:li>
-
       </rdf:Seq>
     </nc:subheadings>
   </rdf:Description>
@@ -1158,7 +1156,7 @@
 <rdf:Description about="#shortcuts_mail">
     <nc:subheadings>
       <rdf:Seq>
-        <rdf:li><rdf:Description ID="shortcuts_mail_general" nc:name="Atajos globales para Correo  y noticias" nc:link="shortcuts_mailnews.xhtml#general_mail_and_newsgroups_shortcuts"/> </rdf:li>
+        <rdf:li><rdf:Description ID="shortcuts_mail_general" nc:name="Atajos globales para Correo y noticias" nc:link="shortcuts_mailnews.xhtml#general_mail_and_newsgroups_shortcuts"/> </rdf:li>
         <rdf:li><rdf:Description ID="shortcuts_mail_message_list" nc:name="Atajos para la lista de mensajes" nc:link="shortcuts_mailnews.xhtml#message_list_shortcuts"/> </rdf:li>
         <rdf:li><rdf:Description ID="shortcuts_mail_message_compose" nc:name="Atajos para la redacción de mensajes" nc:link="shortcuts_mailnews.xhtml#message_compose_shortcuts"/> </rdf:li>
       </rdf:Seq>

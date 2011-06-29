@@ -624,28 +624,30 @@
   <ol>
     <li>Abra el menú Editar y elija <q>Buscar en esta página</q>. Si la página
       que está viendo contiene marcos, puede que necesite hacer clic en un
-      marco antes de comenzar la búsqueda. Entonces, aparecerá el cuadro de
-      diálogo <q>Buscar en esta página</q>.</li>
+      marco antes de comenzar la búsqueda. Entonces, aparecerá la <q>barra de
+      búsqueda</q>.</li>
     <li>Escriba el texto que quiera buscar.</li>
-    <li>Elija una de las siguientes opciones de búsqueda:
-      <ul>
-        <li><strong>Coincidencia de mayúsculas/minúsculas</strong>: elija esta
-          opción para buscar un texto que coincida exactamente con la palabra
-          que ha escrito (incluyendo las mayúsculas y las minúsculas).</li>
-        <li><strong>Buscar en todo</strong>: elija esta opción
-          para que el navegador busque desde donde está el cursor hasta el
-          final de la página, y luego continúe buscando desde el principio de
-          la página. Nota: normalmente, la búsqueda comenzará en el lugar donde
-          se hizo clic por última vez hasta el final de la página.</li>
-        <li><strong>Dirección</strong>: elija Arriba para buscar desde la
-          posición del cursor hasta el principio de la página. El valor por
-          defecto es Abajo.</li>
-      </ul>
-    </li>
-    <li>Pulse en Buscar para comenzar la búsqueda.</li>
+    <li>Pulse Siguiente para comenzar la búsqueda desde la posición del cursor
+      hacia delante hasta el final de la página.</li>
+    <li>Pulse Anterior para comenzar la búsqueda desde la posición del cursor
+      hacia atrás hasta el principio de la página.</li>
+    <li>Con <strong>Resaltar todo</strong>, serán resaltadas todas las palabras
+      o frases que cumplan la búsqueda en la página.</li>
+    <li>Use <strong>Coincidencia de mayúsculas/minúsculas</strong> para limitar
+      la búsqueda a palabras o frases que coincidan exactamente con lo que ha
+      escrito (teniendo en consideración las mayúsculas y minúsculas).</li>
   </ol>
 
-  <p>Para volver a buscar el mismo texto:</p>
+  <p>Si la búsqueda alcanza el final (o principio) de la página, continuará
+    desde el otro extremo e indicará en la barra de búsqueda esta
+    circunstancia.</p>
+
+  <p>Para encontrar la misma palabra o frase de nuevo, siga pulsando Enter
+    mientras el foco esté en el campo de búsqueda, o use los atajos de teclado
+    para continuara la búsqueda (vea la sección <q>Usar Encontrar según se
+    escribe</q> más abajo) cuando el foco esté en la página. En ambos casos,
+    se invocará una búsqueda hacia delante, sin importar si se usó o no el
+    botón Anterior la última vez.</p>
 
   <ul>
     <li>Abra el menú Editar y elija Repetir la búsqueda.</li>
@@ -655,27 +657,32 @@
 
   <h2 id="using_find_as_you_type">Usar Encontrar según se escribe</h2>
 
-  <p>Además de buscar texto a través del diálogo Buscar,
-  puede buscar también escribiendo directamente en la página
-  web.</p>
+  <p>Además de buscar texto a través de la barra de búsqueda, puede buscar
+    también escribiendo directamente en la página web.</p>
 
   <ol>
-    <li>
-      <p>Para buscar un enlace, escriba varios caracteres en la ventana del
+    <li>Para buscar un enlace, escriba varios caracteres en la ventana del
       navegador activa para dirigirse a un enlace que contenga ese texto en
-      él.</p>
-      <p>Si repite el mismo carácter, se comenzará un ciclo a
-      través de todos los enlaces que comiencen con ese carácter.
-      Sin embargo, si puede encontrar una coincidencia con la cadena exacta que
-      ha escrito, como por ejemplo <q><tt>rr</tt></q> en
-      <q><tt>corredor</tt></q>, se dirigirá primero allí.</p>
+      él.
+
+      <p>Si repite el mismo carácter, se comenzará un ciclo a través de todos
+        los enlaces que comiencen con ese carácter. Sin embargo, si puede
+        encontrar una coincidencia con la cadena exacta que ha escrito, como
+        por ejemplo <q><tt>rr</tt></q> en <q><tt>corredor</tt></q>, se dirigirá
+        primero allí.</p>
     </li>
     <li>Para buscar en todo el texto (texto normal y texto parte de enlaces),
       teclee <kbd>/</kbd> antes de la cadena a buscar. Por ejemplo, escriba
       <q><kbd>/hola</kbd></q> para buscar cualquier texto que contenga la
       cadena <q>hola</q>.</li>
     <li>La barra de estado (en la parte inferior de la ventana del navegador)
-      muestra su cadena de búsqueda y si ésta está teniendo éxito o no.</li>
+      muestra su cadena de búsqueda y si ésta está teniendo éxito o no. Tenga
+      en cuenta que esto sucede sólo si la casilla <q>Mostrar la barra de
+      búsqueda al encontrar a medida que escribe</q> en el
+      <a href="cs_nav_prefs_advanced.xhtml#fayt">panel Encontrar a medida que
+      escribe</a> no está seleccionada. Si la casilla está seleccionada,
+      entonces se usará la <q>Barra de búsqueda</q> en lugar de cambiar la
+      barra de estado.</li>      
     <li>Use la tecla de borrado para eliminar el último carácter tecleado.</li>
     <li>Para cancelar una búsqueda, cambiar el foco o desplazar la página,
       pulse Escape, o espere a que transcurra el tiempo necesario para que la
