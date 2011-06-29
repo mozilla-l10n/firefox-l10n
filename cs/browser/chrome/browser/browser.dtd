@@ -57,8 +57,6 @@ can reach it easily. -->
 <!ENTITY printCmd.label "Tisk…">
 <!ENTITY printCmd.accesskey "T">
 <!ENTITY printCmd.commandkey "p">
-<!ENTITY import.label "Importovat…">
-<!ENTITY import.accesskey "I">
 
 <!ENTITY goOfflineCmd.label "Pracovat offline">
 <!ENTITY goOfflineCmd.accesskey "l">
