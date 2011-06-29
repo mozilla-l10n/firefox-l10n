@@ -16,7 +16,7 @@
 <!ENTITY testpilot.studiesWindow.finishedStudies.label  "Извештаји су завршени">
 <!ENTITY testpilot.studiesWindow.studyFindings.label    "Налази извештаја">
 <!ENTITY testpilot.studiesWindow.settings.label         "Подешавања">
-<!ENTITY testpilot.studiesWindow.stillLoadingMessage    "Loading, please wait...">
+<!ENTITY testpilot.studiesWindow.stillLoadingMessage    "Учитавам, молимо сачекајте...">
 
 <!-- raw data dialog -->
 <!ENTITY testpilot.rawDataWindow.title                  "Пробни пилот: сирови подаци">
@@ -27,7 +27,7 @@
 <!-- Firefox 4 beta version UI -->
 <!ENTITY testpilot.enable.label                        "Укључи корисничке извештаје">
 <!ENTITY testpilot.feedbackbutton.label                "Повратне информације">
-<!ENTITY testpilot.happy.label        "Firefox Made Me Happy Because...">
-<!ENTITY testpilot.sad.label          "Firefox Made Me Sad Because...">
+<!ENTITY testpilot.happy.label        "Фајерфокс ме је усрећио зато што...">
+<!ENTITY testpilot.sad.label          "Фајерфокс ме растужио зато што...">
 <!ENTITY testpilot.broken.label      "Пријавите да је веб сајт покварен…">
 <!ENTITY testpilot.idea.label        "Пошаљите нам предлог…">
