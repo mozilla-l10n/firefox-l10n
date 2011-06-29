@@ -21,7 +21,7 @@
 <!ENTITY aboutSupport.appBasicsBuildConfig "Build konfiguráció">
 <!ENTITY aboutSupport.appBasicsUserAgent "User Agent">
 
-<!ENTITY aboutSupport.show.label "Megjelenítés">
+<!ENTITY aboutSupport.show.label "Tartalmazó mappa megnyitása">
 
 <!-- LOCALIZATION NOTE (aboutSupport.showMac.label): This is the Mac-specific
 variant of aboutSupport.show.label.  This allows us to use the preferred
