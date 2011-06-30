@@ -40,9 +40,6 @@
 <!ENTITY printCmd.accesskey "N">
 <!ENTITY printCmd.commandkey "p">
 
-<!ENTITY viewMenu.label "Nézet">
-<!ENTITY viewMenu.accesskey "N">
-
 <!ENTITY toolbarsCmd.label "Megjelenítés/Elrejtés">
 <!ENTITY toolbarsCmd.accesskey "E">
 <!ENTITY navbarCmd.label "Böngésző eszköztár">
@@ -108,6 +105,8 @@
 <!ENTITY goMenu.accesskey "U">
 <!ENTITY goHomeCmd.label "Kezdőlap">
 <!ENTITY goHomeCmd.accesskey "K">
+<!ENTITY historyRestoreLastSession.label "Előző munkamenet helyreállítása">
+<!ENTITY historyRestoreLastSession.accesskey "R">
 
 <!ENTITY bookmarksMenu.label "Könyvjelzők">
 <!ENTITY bookmarksMenu.accesskey "K">
@@ -150,15 +149,15 @@
 <!ENTITY locationBar.tooltip "Írja be a keresendő szót, a kulcsszót vagy a webcímet">
 <!ENTITY locationBar.accesskey "d">
 <!ENTITY locationBar.title "Hely">
-
 <!ENTITY proxyIcon.tooltip "Az ikon áthúzásával hivatkozást hozhat létre erre az oldalra">
-<!-- Toolbar items --> 
+
+<!ENTITY searchItem.title "Keresés">
 
 <!ENTITY bookmarksButton.label "Könyvjelzők">
 <!ENTITY bookmarksButton.tooltip "Könyvjelzők listája">
 <!ENTITY homeButton.label "Kezdőlap">
-<!ENTITY bookmarksToolbarItem.label "Bookmarks Toolbar Items">
-<!ENTITY bookmarksToolbarChevron.tooltip "Show more bookmarks">
+<!ENTITY bookmarksToolbarItem.label "Könyvjelző eszköztár elemei">
+<!ENTITY bookmarksToolbarChevron.tooltip "További könyvjelzők megjelenítése">
 <!-- Statusbar -->
 
 <!ENTITY statusText.label "Kész">
@@ -171,3 +170,6 @@
 
 <!ENTITY bidiSwitchPageDirectionItem.label "Oldal irányának átváltása">
 <!ENTITY bidiSwitchPageDirectionItem.accesskey "l">
+<!-- LOCALIZATION NOTE (syncTabsMenu.label): This appears in the Go menu -->
+
+<!ENTITY syncTabsMenu.label "Lapok más számítógépekről">

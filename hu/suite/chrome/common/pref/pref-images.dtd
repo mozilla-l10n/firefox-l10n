@@ -8,14 +8,14 @@
 
 <!ENTITY imageDetails "Adja meg, hogy kezelje a &brandShortName; a képeket.">
 
-<!ENTITY accAllImagesRadio.label "Minden kép elfogadása">
-<!ENTITY accAllImagesRadio.accesskey "i">
-<!ENTITY accOrgImagesRadio.label "Csak a kibocsátó kiszolgálóról származó képek letöltése">
-<!ENTITY accOrgImagesRadio.accesskey "C">
-<!ENTITY disableImages.label "Képek betöltésének tiltása">
-<!ENTITY disableImages.accesskey "K">
-<!ENTITY viewImages.label "Képengedélyezés kezelése">
-<!ENTITY viewImages.accesskey "K">
+<!ENTITY loadAllImagesRadio.label "Összes kép betöltése">
+<!ENTITY loadAllImagesRadio.accesskey "b">
+<!ENTITY loadOrgImagesRadio.label "Csak a webhely kiszolgálójáról származó képek betöltése">
+<!ENTITY loadOrgImagesRadio.accesskey "C">
+<!ENTITY loadNoImagesRadio.label "Képek betöltésének tiltása">
+<!ENTITY loadNoImagesRadio.accesskey "t">
+<!ENTITY viewPermissions.label "Engedélyek kezelése">
+<!ENTITY viewPermissions.accesskey "E">
 <!ENTITY animLoopingTitle.label "Az animált képek lejátszhatóak">
 <!ENTITY animLoopAsSpecified.label "Ahányszor a képben meg van határozva">
 <!ENTITY animLoopAsSpecified.accesskey "A">

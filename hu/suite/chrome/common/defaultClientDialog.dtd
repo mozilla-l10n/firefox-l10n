@@ -4,7 +4,7 @@
 <!ENTITY browser.label "Böngészés">
 <!ENTITY email.label "Levelezés">
 <!ENTITY newsgroups.label "Hírcsoportok">
-<!ENTITY feeds.label "Feeds">
+<!ENTITY feeds.label "Hírforrások">
 
 <!ENTITY checkOnStartup.label "Mindig hajtsa végre ezt az ellenőrzést a &brandShortName; indításakor.">
 <!ENTITY checkOnStartup.accesskey "M">

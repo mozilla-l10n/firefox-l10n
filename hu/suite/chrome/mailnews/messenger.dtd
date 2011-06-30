@@ -126,8 +126,6 @@
 <!ENTITY deleteMsgsCmd.accesskey "i">
 <!ENTITY undeleteMsgsCmd.label "Kijelölt üzenetek visszaállítása">
 <!ENTITY undeleteMsgsCmd.accesskey "l">
-<!ENTITY cancelNewsMsgsCmd.label "Kijelölt üzenetek érvénytelenítése">
-<!ENTITY cancelNewsMsgsCmd.accesskey "t">
 <!ENTITY deleteFolderCmd.label "Mappa törlése">
 <!ENTITY deleteFolderCmd.accesskey "l">
 <!ENTITY unsubscribeNewsgroupCmd.label "Leiratkozás">
@@ -144,7 +142,7 @@
 <!ENTITY folderPropsNewsgroupCmd.label "Hírcsoport tulajdonságai…">
 <!ENTITY folderPropsCmd.accesskey "T">
 <!ENTITY accountManagerCmd.label "Postafiókok beállításai…">
-<!ENTITY accountManagerCmd.accesskey "M">
+<!ENTITY accountManagerCmd.accesskey "P">
 <!ENTITY undoDeleteMsgCmd.label "Üzenettörlés visszavonása">
 <!ENTITY redoDeleteMsgCmd.label "Üzenettörlés visszaállítása">
 <!ENTITY undoMoveMsgCmd.label "Üzenetáthelyezés visszavonása">
@@ -312,13 +310,13 @@
 <!ENTITY prevUnreadMsgCmd.accesskey "O">
 <!ENTITY prevUnreadMsgCmd.key "l">
 <!ENTITY goBackCmd.label "Vissza">
-<!ENTITY goBackCmd.accesskey "B">
+<!ENTITY goBackCmd.accesskey "V">
 <!ENTITY goBackCmd.commandKey "V">
 <!ENTITY goForwardCmd.label "Előre">
-<!ENTITY goForwardCmd.accesskey "F">
+<!ENTITY goForwardCmd.accesskey "E">
 <!ENTITY goForwardCmd.commandKey "E">
 <!ENTITY prevFlaggedMsgCmd.label "Zászlócskával megjelölt üzenet">
-<!ENTITY prevFlaggedMsgCmd.accesskey "F">
+<!ENTITY prevFlaggedMsgCmd.accesskey "Z">
 <!ENTITY startPageCmd.label "Levelező kezdőoldala">
 <!ENTITY startPageCmd.accesskey "k">
 <!-- Message Menu -->

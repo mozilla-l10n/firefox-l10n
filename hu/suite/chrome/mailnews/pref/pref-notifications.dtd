@@ -46,8 +46,8 @@
 <!ENTITY showTrayIcon.accesskey "T">
 <!ENTITY bounceSystemDockIcon.label "Dokkolóikon animálása">
 <!ENTITY bounceSystemDockIcon.accesskey "a">
-<!ENTITY preview.label "Előnézet">
-<!ENTITY preview.accesskey "E">
+<!ENTITY playButton.label "Lejátszás">
+<!ENTITY playButton.accesskey "L">
 <!ENTITY systemsound.label "Új üzenethez tartozó rendszerhang">
 <!ENTITY systemsound.accesskey "z">
 <!ENTITY customsound.label "Saját WAV-fájl">

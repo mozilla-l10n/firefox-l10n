@@ -54,7 +54,7 @@
 <!ENTITY newLDAPDirectoryCmd.accesskey "D">
 <!ENTITY newIM.label "IM">
 <!ENTITY printContactViewCmd.label "Print Contact…">
-<!ENTITY printContactViewCmd.accesskey "p">
+<!ENTITY printContactViewCmd.accesskey "P">
 <!ENTITY printPreviewContactViewCmd.label "Print Preview Contact">
 <!ENTITY printPreviewContactViewCmd.accesskey "v">
 <!ENTITY printContactViewCmd.key "P">

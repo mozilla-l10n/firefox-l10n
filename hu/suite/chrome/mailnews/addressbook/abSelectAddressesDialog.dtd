@@ -55,6 +55,7 @@
 <!ENTITY lookIn.accesskey "K">
 <!ENTITY for.label "keresés erre:">
 <!ENTITY for.accesskey "e">
+<!ENTITY for.placeholder "Név vagy e-mail">
 <!ENTITY addressMessageTo.label "Az üzenet címzettjei:">
 <!-- Tooltips items -->  
 

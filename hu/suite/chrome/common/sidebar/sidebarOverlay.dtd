@@ -63,3 +63,7 @@
 <!ENTITY sidebar.close.tooltip "Bezárás">
 <!ENTITY sidebar.open.tooltip "Megnyitás">
 
+<!ENTITY sidebar.search.label "Keresés">
+<!ENTITY sidebar.client-bookmarks.label "Könyvjelzők">
+<!ENTITY sidebar.client-history.label "Előzmények">
+<!ENTITY sidebar.client-addressbook.label "Címjegyzék">

@@ -12,7 +12,7 @@
 
 <!ENTITY searchOnline.label "Online keresés (naprakész eredményeket az IMAP- és News-mappákhoz, de megnövekszik a mappa megnyitásához szükséges idő)">
 <!ENTITY searchOnline.accesskey "O">
-<!ENTITY newFolderButton.label "Create">
-<!ENTITY newFolderButton.accesskey "r">
-<!ENTITY editFolderButton.label "Update">
-<!ENTITY editFolderButton.accesskey "U">
+<!ENTITY newFolderButton.label "Létrehozás">
+<!ENTITY newFolderButton.accesskey "L">
+<!ENTITY editFolderButton.label "Frissítés">
+<!ENTITY editFolderButton.accesskey "F">

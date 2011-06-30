@@ -61,8 +61,8 @@
 <!ENTITY generalEncoding "Kódolás:">
 <!ENTITY generalMetaName "Név">
 <!ENTITY generalMetaContent "Tartalom">
-<!ENTITY generalSecurityDetails "Details">
-<!ENTITY generalSecurityDetails.accesskey "D">
+<!ENTITY generalSecurityDetails "Részletek">
+<!ENTITY generalSecurityDetails.accesskey "R">
 
 <!ENTITY formsTab "Űrlapok">
 <!ENTITY formsTab.accesskey "r">
@@ -113,7 +113,7 @@
 <!ENTITY permTab "Engedélyek">
 <!ENTITY permTab.accesskey "E">
 <!ENTITY permUseDefault "Alapértelmezés használata">
-<!ENTITY permAskAlways "Always ask">
+<!ENTITY permAskAlways "Mindig megkérdez">
 <!ENTITY permAllow "Engedélyezés">
 <!ENTITY permAllowSession "Engedélyezés a munkamenetben">
 <!ENTITY permBlock "Tiltás">
@@ -122,7 +122,7 @@
 <!ENTITY permPopup "Felugró ablak megnyitása">
 <!ENTITY permCookie "Süti elhelyezése">
 <!ENTITY permInstall "Kiterjesztés vagy téma telepítése">
-<!ENTITY permGeo "Share Location">
+<!ENTITY permGeo "Földrajzi hely adatainak megosztása">
 
 <!ENTITY securityTab "Biztonság">
 <!ENTITY securityTab.accesskey "B">
