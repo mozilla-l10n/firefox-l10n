@@ -39,8 +39,7 @@
 <!ENTITY printCmd.label "Imprentar…">
 <!ENTITY printCmd.accesskey "m">
 <!ENTITY printCmd.commandkey "p">
-<!ENTITY import.label "Importar…">
-<!ENTITY import.accesskey "I">
+
 <!ENTITY goOfflineCmd.label "Trabayar ensin conexón">
 <!ENTITY goOfflineCmd.accesskey "x">
 <!ENTITY menubarCmd.label "Barra de menús">
