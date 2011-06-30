@@ -1,15 +1,35 @@
 <!ENTITY aboutDialog.title "&brandFullName;">
-<!ENTITY aboutButton.label "&lt; Indietro">
-<!ENTITY aboutButton.accesskey "I">
-<!ENTITY aboutVersion "versione">
-<!ENTITY aboutMenu.label "Informazioni su">
-<!ENTITY aboutMenu.accesskey "n">
-<!ENTITY aboutCredits.label "Riconoscimenti">
-<!ENTITY aboutCredits.accesskey "c">
-<!ENTITY aboutRights.label "I tuoi diritti">
-<!ENTITY aboutRights.accesskey "r">
-<!ENTITY aboutContributors.label "Collaboratori">
-<!ENTITY aboutContributors.accesskey "o">
-<!ENTITY aboutLicense.label "Licenza">
-<!ENTITY aboutLicense.accesskey "L">
+<!ENTITY community.start2 "&brandShortName; è stato progettato da ">
+<!ENTITY community.mozillaLink "&vendorShortName;">
+<!ENTITY community.middle2 ", un ">
+<!ENTITY community.creditsLink "comunità globale">
+<!ENTITY community.end2 " lavoriamo insieme per rendere Internet migliore. Noi crediamo che Internet debba essere aperto, pubblico e accessibile a tutti senza alcuna restrizione.">
+<!ENTITY contribute.start "Sembra interessante? ">
+<!ENTITY contribute.getInvolvedLink "Partecipa!">
+<!ENTITY contribute.end "">
+<!ENTITY bottomLinks.license "Informazioni sulla licenza">
+<!ENTITY bottomLinks.rights "Diritti dell'Utente Finale">
+<!ENTITY bottomLinks.privacy "Informativa sulla privacy">
+<!ENTITY update.checkingForUpdates "Controllo aggiornamenti…">
+<!ENTITY update.checkingAddonCompat "Verifica compatibilità componenti aggiuntivi…">
+<!ENTITY update.noUpdatesFound "&brandShortName; è aggiornato">
+<!ENTITY update.adminDisabled "Aggiornamenti disabilitati dall'amministratore di sistema">
+<!ENTITY update.failed.start "Aggiornamento non riuscito. ">
+<!ENTITY update.failed.linkText "Scaricare l'ultima versione">
+<!ENTITY update.failed.end "">
+<!ENTITY update.manual.start "Scaricare la ">
+<!ENTITY update.manual.linkText "l'ultima versione">
+<!ENTITY update.manual.end "">
+<!ENTITY update.downloading.start "Ricezione aggiornamento — ">
+<!ENTITY update.downloading.end "">
+<!ENTITY channel.description.start "Ci si trova nel ">
+<!ENTITY channel.description.end " canale aggiornato. ">
+<!ENTITY channel.change "Cambia">
+<!ENTITY channel.release.description "Godetevi la collaudata versione finale  utilizzata da centinaia di milioni in tutto il mondo. Controllate la vostra esperienza online con velocità, facilità di personalizzazione e le più recenti tecnologie web.">
+<!ENTITY channel.beta.description "Prova le funzionalità all'avanguardia, con una maggiore stabilità. Fornisci un feedback per affinare e pulire ciò che sarà nella versione finale.">
+<!ENTITY channel.aurora.description "Prova le più recenti innovazioni in un ambiente instabile che non è per i deboli di cuore. Fornisci un feedback sulle funzionalità e le prestazioni per aiutare a creare quella che sarà la versione finale.">
+<!ENTITY channel.selector.start "Passa al ">
+<!ENTITY channel.selector.end "aggiorna canale.">
+<!ENTITY channel.selector.applyButton "Applica e aggiorna">
+<!ENTITY channel.selector.cancelButton "Annulla">
 <!ENTITY cmdCloseMac.commandKey "w">

@@ -2,8 +2,8 @@
 <!ENTITY newDirectoryTitle.label "Proprietà rubrica remota">
 <!ENTITY directoryName.label "Nome: ">
 <!ENTITY directoryName.accesskey "o">
-<!ENTITY directoryHostname.label "Nome host: ">
-<!ENTITY directoryHostname.accesskey "h">
+<!ENTITY directoryHostname.label "Nome server: ">
+<!ENTITY directoryHostname.accesskey "o">
 <!ENTITY directoryBaseDN.label "Base DN: ">
 <!ENTITY directoryBaseDN.accesskey "b">
 <!ENTITY findButton.label "Trova">
@@ -29,7 +29,7 @@
 <!ENTITY return.accesskey "N">
 <!ENTITY results.label "risultati">
 <!ENTITY offlineText.label "È possibile scaricare una copia locale di questa cartella, in modo da renderla disponibile anche in modalità non in linea.">
-<!ENTITY saslMechanism.label "Metodo di accesso:">
+<!ENTITY saslMechanism.label "Metodo di accesso: ">
 <!ENTITY saslMechanism.accesskey "m">
 <!ENTITY saslOff.label "Semplice">
 <!ENTITY saslOff.accesskey "l">

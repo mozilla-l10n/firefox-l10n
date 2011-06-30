@@ -1,5 +1,5 @@
 <!ENTITY junkSettings.label "Posta indesiderata">
-<!ENTITY trainingWarning.label "Se si attiva questo filtro si dovrà insegnare a &brandShortName; ad identificare la posta indesiderata utilizzando il pulsante apposito per marcare i messaggi indesiderati o no. L'utente dovrà identificare sia i messaggi indesiderati che quelli non indesiderati.">
+<!ENTITY trainingWarning.label "Se si attiva questo filtro si dovrà insegnare a &brandShortName; ad identificare la posta indesiderata utilizzando il pulsante apposito per segnare i messaggi indesiderati o no. L'utente dovrà identificare sia i messaggi indesiderati che quelli non indesiderati.">
 <!ENTITY level.label "Attiva i controlli incrementali di posta indesiderata per questo account">
 <!ENTITY level.accesskey "v">
 <!ENTITY move.label "Sposta i nuovi messaggi di posta indesiderata in:">
@@ -11,7 +11,7 @@
 <!ENTITY purge1.label "Elimina automaticamente la posta indesiderata più vecchia di">
 <!ENTITY purge1.accesskey "m">
 <!ENTITY purge2.label "giorni">
-<!ENTITY whitelist.label "Non marcare come posta indesiderata se il mittente si trova in: ">
+<!ENTITY whitelist.label "Non segnare come posta indesiderata se il mittente si trova in: ">
 <!ENTITY whitelist.accesskey "o">
 <!ENTITY ispHeaders.label "Fidati se le intestazioni di posta indesiderata sono impostate da: ">
 <!ENTITY ispHeaders.accesskey "t">

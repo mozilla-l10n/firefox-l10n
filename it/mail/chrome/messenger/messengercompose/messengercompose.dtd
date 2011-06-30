@@ -169,10 +169,12 @@
 <!ENTITY quoteButton.tooltip "Cita il messaggio precedente">
 <!ENTITY addressButton.tooltip "Scegli un destinatario dalla Rubrica">
 <!ENTITY attachButton.tooltip "Inserisci un allegato">
+<!ENTITY spellingButton.tooltip "Controlla l'ortografia del testo selezionato o dell'intero messaggio">
 <!ENTITY saveButton.tooltip "Salva questo messaggio">
 <!ENTITY cutButton.tooltip "Taglia">
 <!ENTITY copyButton.tooltip "Copia">
 <!ENTITY pasteButton.tooltip "Incolla">
+<!ENTITY headersSpace.style "width: 9em;">
 <!ENTITY fromAddr.label "Da:">
 <!ENTITY fromAddr.accesskey "a">
 <!ENTITY toAddr.label "A:">
@@ -183,7 +185,6 @@
 <!ENTITY followupAddr.label "Inoltra a:">
 <!ENTITY subject.label "Oggetto:">
 <!ENTITY subject.accesskey "e">
-<!ENTITY attachments.label "Allegati:">
 <!ENTITY attachments.accesskey "g">
 <!ENTITY SmileButton.tooltip "Inserisci una faccina">
 <!ENTITY smiley1Cmd.label "Sorriso">
@@ -231,4 +232,6 @@
 <!ENTITY attachFile.accesskey "f">
 <!ENTITY attachPage.label "Allega pagina web…">
 <!ENTITY attachPage.accesskey "w">
+<!ENTITY spellAddDictionaries.label "Aggiungi dizionari…">
+<!ENTITY spellAddDictionaries.accesskey "A">
 <!ENTITY addressesSidebarTitle.label "Contatti">

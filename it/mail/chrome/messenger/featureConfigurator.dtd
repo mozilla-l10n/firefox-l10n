@@ -8,8 +8,10 @@
 <!ENTITY featureConfigurator.toolbar.original "Mantieni la Barra strumenti originale.">
 <!ENTITY featureConfigurator.toolbar.original.status.explanation "Mantieni tutte le barre strumenti personalizzate in aggiunta ai nuovi bottoni per i messaggi.">
 <!ENTITY featureConfigurator.toolbarBenefits.para "Le azioni relative al messaggio (come Rispondi o Inoltra) sono state spostate dalla barra degli strumenti allo spazio dedicato all'intestazione del messaggio. Spostare i pulsanti di azione direttamente nel messaggio  lascia più spazio al campo di ricerca avanzato e ad eventuali componenti aggiuntivi.">
+<!ENTITY featureConfigurator.addOn.downloading "In ricezione…">
 <!ENTITY featureConfigurator.addOn.installing "Installazione in corso…">
 <!ENTITY featureConfigurator.addOn.installed "Installata">
+<!ENTITY featureConfigurator.addOn.failure "C'è stato un problema ad installare questa estensione!">
 <!ENTITY featureConfigurator.addOn.alreadyInstalled "Estensione già installata.">
 <!ENTITY featureConfigurator.collapsedHeaders.heading "Compact Header">
 <!ENTITY featureConfigurator.collapsedHeaders.para.weak "La modalità di visualizzazione con intestazioni raggruppate è stata integrata in un'estensione con molte più opzioni e possibilità di sviluppo rispetto al passato.">
