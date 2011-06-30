@@ -29,7 +29,7 @@
 <!ENTITY hdrForwardButton.label "Inoltra">
 <!ENTITY hdrForwardButton.tooltip "Inoltra questo messaggio">
 <!ENTITY hdrJunkButton.label "Indesiderata">
-<!ENTITY hdrJunkButton.tooltip "Marca questo messaggio come posta indesiderata">
+<!ENTITY hdrJunkButton.tooltip "Segna questo messaggio come posta indesiderata">
 <!ENTITY hdrTrashButton.label "Elimina">
 <!ENTITY hdrTrashButton.tooltip "Elimina questo messaggio">
 <!ENTITY hdrViewToolbarShowFull.label "Visualizza icone e testo">
@@ -47,9 +47,9 @@
 <!ENTITY otherActionsOpenInNewWindow.accesskey "f">
 <!ENTITY otherActionsOpenInNewTab.label "apri in nuova scheda">
 <!ENTITY otherActionsOpenInNewTab.accesskey "a">
-<!ENTITY markAsReadMenuItem.label "marca come letto">
+<!ENTITY markAsReadMenuItem.label "segna come letto">
 <!ENTITY markAsReadMenuItem.accesskey "r">
-<!ENTITY markAsUnreadMenuItem.label "marca come non letto">
+<!ENTITY markAsUnreadMenuItem.label "segna come non letto">
 <!ENTITY markAsUnreadMenuItem.accesskey "r">
 <!ENTITY saveAsMenuItem.label "salva con nome…">
 <!ENTITY saveAsMenuItem.accesskey "s">
@@ -62,13 +62,37 @@
 <!ENTITY saveAsAttachmentCmd.label "Salva come…">
 <!ENTITY saveAsAttachmentCmd.accesskey "v">
 <!ENTITY detachAttachmentCmd.label "Separa…">
+<!ENTITY detachAttachmentCmd.accesskey "p">
 <!ENTITY deleteAttachmentCmd.label "Elimina">
+<!ENTITY deleteAttachmentCmd.accesskey "L">
+<!ENTITY openAllAttachmentsCmd.label "Apri tutti…">
+<!ENTITY openAllAttachmentsCmd.accesskey "A">
 <!ENTITY saveAllAttachmentsCmd.label "Salva tutti…">
 <!ENTITY saveAllAttachmentsCmd.accesskey "t">
 <!ENTITY detachAllAttachmentsCmd.label "Separa tutto…">
 <!ENTITY detachAllAttachmentsCmd.accesskey "S">
 <!ENTITY deleteAllAttachmentsCmd.label "Elimina tutti…">
 <!ENTITY deleteAllAttachmentsCmd.accesskey "E">
+<!ENTITY saveAttachmentButton.label "salva">
+<!ENTITY saveAttachmentButton.tooltip "salva i file allegati">
+<!ENTITY saveAllAttachmentsButton.label "salvare tutto">
+<!ENTITY saveAllAttachmentsButton.tooltip "salva tutti i file allegati">
+<!ENTITY openAttachmentMenuItem.label "apri">
+<!ENTITY openAttachmentMenuItem.accesskey "a">
+<!ENTITY saveAsAttachmentMenuItem.label "salva con nome…">
+<!ENTITY saveAsAttachmentMenuItem.accesskey "s">
+<!ENTITY detachAttachmentMenuItem.label "separa…">
+<!ENTITY detachAttachmentMenuItem.accesskey "r">
+<!ENTITY deleteAttachmentMenuItem.label "elimina">
+<!ENTITY deleteAttachmentMenuItem.accesskey "e">
+<!ENTITY openAllAttachmentsMenuItem.label "apri tutti…">
+<!ENTITY openAllAttachmentsMenuItem.accesskey "a">
+<!ENTITY saveAllAttachmentsMenuItem.label "salvare tutto…">
+<!ENTITY saveAllAttachmentsMenuItem.accesskey "s">
+<!ENTITY detachAllAttachmentsMenuItem.label "separa tutto…">
+<!ENTITY detachAllAttachmentsMenuItem.accesskey "S">
+<!ENTITY deleteAllAttachmentsMenuItem.label "cancella tutti…">
+<!ENTITY deleteAllAttachmentsMenuItem.accesskey "e">
 <!ENTITY copyLinkCmd.label "Copia indirizzo">
 <!ENTITY copyLinkCmd.accesskey "C">
 <!ENTITY CopyMessageId.label "Copiare identificativo messaggio">

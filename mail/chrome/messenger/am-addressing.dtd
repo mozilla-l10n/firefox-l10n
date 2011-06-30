@@ -13,7 +13,7 @@
 <!ENTITY useHtml.accesskey "C">
 <!ENTITY autoQuote.label "Inserisci automaticamente il messaggio originale nella risposta">
 <!ENTITY autoQuote.accesskey "i">
-<!ENTITY then.label "dopodiché">
+<!ENTITY then.label "dopodiché ">
 <!ENTITY then.accesskey "o">
 <!ENTITY aboveQuote.label "inizia la risposta sopra il testo a cui si risponde">
 <!ENTITY belowQuote.label "inizia la risposta sotto il testo a cui si risponde">

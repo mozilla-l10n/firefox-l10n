@@ -1,4 +1,5 @@
 <!ENTITY window.title "Regole del filtro">
+<!ENTITY filterEditorDialog.dimensions "width: 100ch;">
 <!ENTITY filterName.label "Nome del filtro:">
 <!ENTITY filterName.accesskey "f">
 <!ENTITY junk.label "posta indesiderata">
@@ -21,7 +22,7 @@
 <!ENTITY copyMessage.label "Copia il messaggio in">
 <!ENTITY forwardTo.label "Inoltra il messaggio a">
 <!ENTITY replyWithTemplate.label "Rispondi con un modello">
-<!ENTITY markMessageRead.label "Marca il messaggio come letto">
+<!ENTITY markMessageRead.label "Segna il messaggio come letto">
 <!ENTITY markMessageStarred.label "Aggiungi a Speciali">
 <!ENTITY setPriority.label "Imposta priorità a">
 <!ENTITY addTag.label "Etichetta il messaggio">

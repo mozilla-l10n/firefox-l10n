@@ -34,7 +34,7 @@
 <!ENTITY deleteMessagePrefix.label "Quando si elimina un messaggio:">
 <!ENTITY modelMoveToTrash.label "Spostalo in questa cartella:">
 <!ENTITY modelMoveToTrash.accesskey "o">
-<!ENTITY modelMarkDeleted.label "Marcalo eliminato">
+<!ENTITY modelMarkDeleted.label "Segnalo eliminato">
 <!ENTITY modelMarkDeleted.accesskey "e">
 <!ENTITY modelDeleteImmediately.label "Rimuovilo immediatamente">
 <!ENTITY modelDeleteImmediately.accesskey "R">

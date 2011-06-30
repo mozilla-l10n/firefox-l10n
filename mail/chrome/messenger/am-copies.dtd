@@ -6,29 +6,33 @@
 <!ENTITY fccReplyFollowsParent.accesskey "u">
 <!ENTITY ccAddress.label "Cc questi indirizzi di posta:">
 <!ENTITY ccAddress.accesskey "C">
-<!ENTITY ccAddressList.emptytext "Separare gli indirizzi con virgole">
+<!ENTITY ccAddressList.placeholder "Separare gli indirizzi con virgole">
 <!ENTITY bccAddress.label "Copia nascosta a questi indirizzi di posta:">
 <!ENTITY bccAddress.accesskey "n">
-<!ENTITY bccAddressList.emptytext "Separare gli indirizzi con virgole">
+<!ENTITY bccAddressList.placeholder "Separare gli indirizzi con virgole">
 <!ENTITY saveMessageDlg.label "Chiedi conferma quando si salvano i messaggi">
 <!ENTITY saveMessageDlg.accesskey "h">
 <!ENTITY sentFolderOn.label "cartella &quot;Posta inviata&quot; su:">
 <!ENTITY sentFolderOn.accesskey "o">
 <!ENTITY sentInOtherFolder.label "altra:">
 <!ENTITY sentInOtherFolder.accesskey "t">
-<!ENTITY draftsFolderOn.label "cartella &quot;Bozze&quot; su:">
-<!ENTITY draftsFolderOn.accesskey "B">
-<!ENTITY draftInOtherFolder.label "altra:">
-<!ENTITY draftInOtherFolder.accesskey "l">
+<!ENTITY archivesTitle.label "Archivi messaggi">
+<!ENTITY keepArchives.label "Conserva gli archivi dei messaggi in:">
+<!ENTITY keepArchives.accesskey "C">
+<!ENTITY archiveHierarchyButton.label "Opzioni di archiviazione…">
+<!ENTITY archiveHierarchyButton.accesskey "O">
 <!ENTITY archivesFolderOn.label "Cartella &quot;Archivi&quot; su:">
 <!ENTITY archivesFolderOn.accesskey "v">
 <!ENTITY archiveInOtherFolder.label "altra:">
 <!ENTITY archiveInOtherFolder.accesskey "a">
+<!ENTITY specialFolders.label "Bozze e modelli">
+<!ENTITY keepDrafts.label "Conserva le bozze dei messaggi in:">
+<!ENTITY draftsFolderOn.label "cartella &quot;Bozze&quot; su:">
+<!ENTITY draftsFolderOn.accesskey "B">
+<!ENTITY draftInOtherFolder.label "altra:">
+<!ENTITY draftInOtherFolder.accesskey "l">
+<!ENTITY keepTemplates.label "Tenere i modelli di messaggio in:">
 <!ENTITY templatesFolderOn.label "cartella &quot;Modelli&quot; su:">
 <!ENTITY templatesFolderOn.accesskey "m">
 <!ENTITY templateInOtherFolder.label "altra:">
 <!ENTITY templateInOtherFolder.accesskey "r">
-<!ENTITY specialFoldersTitle.label "Bozze, archivi e modelli">
-<!ENTITY keepDrafts.label "Conserva le bozze dei messaggi in:">
-<!ENTITY keepArchives.label "Conserva gli archivi dei messaggi in:">
-<!ENTITY keepTempltes.label "Conserva i modelli dei messaggi in:">

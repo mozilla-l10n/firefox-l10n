@@ -4,7 +4,10 @@
 <!ENTITY editContactName.accesskey "N">
 <!ENTITY editContactEmail.label "E-mail:">
 <!ENTITY editContactEmail.accesskey "E">
+<!ENTITY editContactAddressBook.label "Rubrica:">
+<!ENTITY editContactAddressBook.accesskey "R">
 <!ENTITY editContactPanelCancel.label "Annulla">
 <!ENTITY editContactPanelCancel.accesskey "A">
 <!ENTITY editContactPanelDone.label "Fatto">
 <!ENTITY editContactPanelDone.accesskey "F">
+<!ENTITY contactMoveDisabledWarning.description "Non è possibile modificare la rubrica, perché il contatto è in una mailing list.">

@@ -12,6 +12,6 @@
 <!ENTITY workOffline.accesskey "c">
 <!ENTITY selectButton.label "Seleziona…">
 <!ENTITY selectButton.accesskey "S">
-<!ENTITY MsgSelectDesc.label "Selezionare le cartelle di posta e dei gruppi di discussione che si desidera utilizzare quando si è non in linea.">
+<!ENTITY MsgSelectDesc.label "Selezionare le cartelle di posta e dei gruppi di discussione che si desiderano utilizzare quando non si è in linea.">
 <!ENTITY MsgSelectInd.label "Da scaricare">
 <!ENTITY MsgSelectItems.label "Cartelle e gruppi di discussione">

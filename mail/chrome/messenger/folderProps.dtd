@@ -48,8 +48,8 @@
 <!ENTITY folderRebuildSummaryFile2.label "Ripara la cartella">
 <!ENTITY folderRebuildSummaryFile2.accesskey "R">
 <!ENTITY folderRebuildSummaryFile.explanation "Può succedere che il file indice delle cartelle risulti danneggiato e qualche messaggio non venga visualizzato o messaggi già cancellati vengano comunque visualizzati; riparare la cartella può risolvere questo tipo di problema.">
-<!ENTITY folderIncludeInGlobalSearch.label "Includere i messaggi in questa cartella nei risultati di Ricerca globale">
-<!ENTITY folderIncludeInGlobalSearch.accesskey "G">
+<!ENTITY folderIncludeInGlobalSearch.label "Includere i messaggi di questa cartella nei risultati di Ricerca globale">
+<!ENTITY folderIncludeInGlobalSearch.accesskey "I">
 <!ENTITY retention.label "Politica di conservazione">
 <!ENTITY retentionUseAccount.label "Usa le impostazioni dell'account">
 <!ENTITY retentionUseAccount.accesskey "U">
