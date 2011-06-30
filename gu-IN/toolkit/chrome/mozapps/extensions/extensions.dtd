@@ -144,15 +144,15 @@
 <!ENTITY updates.updating.label               "ઍડ-ઓનને સુધારી રહ્યા છે">
 <!ENTITY updates.viewUpdates.accesskey        "V">
 <!ENTITY updates.viewUpdates.label            "તાજેતરનાં સુધારાઓને દર્શાવો">
-<!ENTITY view.appearance2.label               "દેખાવ">
+
 <!ENTITY view.availableUpdates.label          "ઉપલબ્ધ સુધારાઓ">
 <!ENTITY view.discover.label                  "ઍડ-ઓનને મેળવો">
-<!ENTITY view.features.label                  "એક્સટેન્શન">
-<!ENTITY view.locales.label                   "ભાષાઓ">
-<!ENTITY view.plugins.label                   "પ્લગઇનો">
+
+
+
 <!ENTITY view.recentUpdates.label             "તાજેતરનાં સુધારાઓ">
 <!ENTITY view.search.label                    "શોધો">
-<!ENTITY view.searchengines.label             "એંજિનોને શોધો">
+
 <!ENTITY warning.checkcompatibility.enable.label   "સક્રિય">
 <!ENTITY warning.checkcompatibility.enable.tooltip "ઍડ-ઓન સુસંગતતા ચકાસણીને સક્રિય કરો">
 <!ENTITY warning.checkcompatibility.label          "ઍડ-ઓન સુસંગતતા ચકાસણી નિષ્ક્રિય થયેલ છે. તમારી પાસે અસુસંગત ઍડ-ઓન હોઇ શકે છે.">

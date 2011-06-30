@@ -6,7 +6,7 @@
 <!ENTITY editBookmarkOverlay.feedLocation.accesskey          "F">
 <!ENTITY editBookmarkOverlay.siteLocation.label              "સાઈટ સ્થાન:">
 <!ENTITY editBookmarkOverlay.siteLocation.accesskey          "S">
-<!ENTITY editBookmarkOverlay.liveTitlesSeparator.label       "જીવંત શીર્ષકો">
+
 <!ENTITY editBookmarkOverlay.folder.label                    "ફોલ્ડર:">
 <!ENTITY editBookmarkOverlay.foldersExpanderDown.tooltip     "બધા બુકમાર્કો ફોલ્ડરો બતાવો">
 <!ENTITY editBookmarkOverlay.expanderUp.tooltip              "છુપાવો">

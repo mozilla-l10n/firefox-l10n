@@ -42,7 +42,7 @@
 <!ENTITY setup.newSyncKeyPage.description.label "તમારી સંપૂર્ણ ખાનગીપણાની ખાતરી કરવા માટે, બધી તમારી માહિતીને અપલોડ કરતા પહેલાં એનક્રિપ્ટ થયેલ છે. સુમેળ કી કે જે તમારી માહિતી અપલોડ થયેલ નથી તેને ડિક્રિપ્ટ કરવાની જરૂર છે.">
 <!ENTITY syncKeyEntry.label        "તમારી સુમેળ કી">
 <!ENTITY syncKeyEntry.accesskey    "K">
-<!ENTITY syncKeyGenerate.label     "ઉત્પન્ન કરો">
+
 
 
 <!ENTITY syncKeyBackup.description "તમારી સુમેળ કીને બીજા મશીનો પર &syncBrand.fullName.label; ને વાપરવાની જરૂર છે. મહેરબાની કરીને બેકઅપ નકલને બનાવો. અમે તમારી સુમેળ કીને પ્રાપ્ત કરવા તમને મદદ કરી શકતા નથી.">
