@@ -29,6 +29,8 @@
 <!ENTITY checkNow.accesskey              "p">
 <!ENTITY submitCrashes.label             "Unviar informes de fallos">
 <!ENTITY submitCrashes.accesskey         "U">
+<!ENTITY submitTelemetry.label           "Unviar datos de rendimientu">
+<!ENTITY submitTelemetry.accesskey       "d">
 
 <!ENTITY networkTab.label                "Rede">
 
