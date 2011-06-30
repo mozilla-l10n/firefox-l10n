@@ -119,7 +119,7 @@
 <!ENTITY cspFrameAncestorBlocked.title "Արգելափակվել է Կոնտենտի Անվտանգության Քաղաքականության կողմից">
 <!ENTITY cspFrameAncestorBlocked.longDesc "<p>Դիտարկիչը կանխել է այս էջի բացումը, քանզի էջը պարունակում է անվտանգության քաղաքականությունը մերժող բովանդակություն։</p>">
 
-<!ENTITY remoteXUL.title "Remote XUL">
+<!ENTITY remoteXUL.title "Հեռավոր XUL">
 <!ENTITY remoteXUL.longDesc "<p><ul><li>Խնդրում ենք, կապնվեք վեբ կայքի սեփականատերերի հետ` այս խնդրի մասին տեղեկացնելու համար:</li></ul></p>">
 
 <!-- Include app-specific error messages - do not change this in localization!
