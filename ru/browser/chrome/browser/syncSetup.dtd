@@ -16,10 +16,12 @@
 <!ENTITY signIn.syncKey.label "Ключ синхронизации">
 <!ENTITY signIn.syncKey.accesskey "л">
 <!ENTITY setup.newAccountDetailsPage.title.label "Данные учётной записи">
-<!ENTITY setup.confirmPassword.label "Подтвердите пароль">
-<!ENTITY setup.confirmPassword.accesskey "д">
 <!ENTITY setup.emailAddress.label "Адрес эл. почты">
 <!ENTITY setup.emailAddress.accesskey "с">
+<!ENTITY setup.choosePassword.label "Выберите пароль">
+<!ENTITY setup.choosePassword.accesskey "б">
+<!ENTITY setup.confirmPassword.label "Подтвердите пароль">
+<!ENTITY setup.confirmPassword.accesskey "д">
 <!ENTITY setup.tosAgree1.label "Я принял">
 <!ENTITY setup.tosAgree1.accesskey "р">
 <!ENTITY setup.tosLink.label "Условия службы">
