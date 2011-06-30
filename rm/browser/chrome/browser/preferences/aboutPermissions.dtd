@@ -26,10 +26,10 @@
 <!ENTITY cookie.manage                   "Administrar ils cookies…">
 <!ENTITY cookie.clearAll                 "Stizzar tut ils cookies">
 
-<!ENTITY geo.label                       "Trametter location">
+<!ENTITY geo.label                       "Cundivider mia posiziun">
 
 <!-- LOCALIZATION NOTE (indexedDB.label): This is describing indexedDB storage
      using the same language used for the permIndexedDB string in browser/pageInfo.dtd -->
-<!ENTITY indexedDB.label                 "Mantegnair ina memoria offline">
+<!ENTITY indexedDB.label                 "Preservar ina memoria offline">
 
 <!ENTITY popup.label                     "Avrir fanestras da popup">

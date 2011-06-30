@@ -19,7 +19,7 @@
 <!ENTITY newWindowCmd.accesskey       "N">
 <!ENTITY newWindowCmd.commandkey      "n">
 
-<!ENTITY openFileCmd.label            "Avrir datoteca…">
+<!ENTITY openFileCmd.label            "Avrir ina datoteca…">
 <!ENTITY openFileCmd.accesskey        "A">
 <!ENTITY openFileCmd.commandkey       "o">
 
@@ -79,7 +79,7 @@
   -  the user is evaluating against. I.e., Content (current tab) or Chrome
   -  (browser).
   -->
-<!ENTITY environmentMenu.label        "Contuorn">
+<!ENTITY environmentMenu.label        "Conturn">
 <!ENTITY environmentMenu.accesskey    "C">
 
 
@@ -101,7 +101,7 @@
 <!ENTITY resetContext.label           "Redefinir">
 <!ENTITY resetContext.accesskey       "R">
 
-<!ENTITY executeMenu.label            "Execuir">
+<!ENTITY executeMenu.label            "Exequir">
 <!ENTITY executeMenu.accesskey        "X">
 
 <!ENTITY toolsMenu.label              "Utensils">
