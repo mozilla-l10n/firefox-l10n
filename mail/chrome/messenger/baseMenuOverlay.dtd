@@ -2,8 +2,12 @@
 <!ENTITY helpMenu.accesskey "u">
 <!ENTITY helpMenuWin.label "Aiuto">
 <!ENTITY helpMenuWin.accesskey "u">
-<!ENTITY releaseCmd.label "Note di versione">
-<!ENTITY releaseCmd.accesskey "N">
+<!ENTITY helpTroubleshootingInfo.label "Informazioni sulla risoluzione dei problemi">
+<!ENTITY helpTroubleshootingInfo.accesskey "f">
+<!ENTITY helpSafeMode.label "Riavvia con i componenti aggiuntivi disabilitati…">
+<!ENTITY helpSafeMode.accesskey "R">
+<!ENTITY releaseCmd2.label "Note di versione">
+<!ENTITY releaseCmd2.accesskey "N">
 <!ENTITY whatsNewCmd.label "Novità">
 <!ENTITY whatsNewCmd.accesskey "o">
 <!ENTITY featureConfiguratorCmd.label "Migrazione guidata">
@@ -14,6 +18,5 @@
 <!ENTITY openHelpMac.label "Aiuto di &brandShortName;">
 <!ENTITY openHelpMac2.commandkey "?">
 <!ENTITY openHelpMac2.modifiers "accel">
-<!ENTITY updateCmd.label "Controlla gli aggiornamenti…">
 <!ENTITY aboutMenuCmd.label "Informazioni su &brandShortName;">
 <!ENTITY aboutMenuCmd.accesskey "I">
