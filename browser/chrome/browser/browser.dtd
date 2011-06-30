@@ -39,8 +39,6 @@
 <!ENTITY printCmd.label "Stampa…">
 <!ENTITY printCmd.accesskey "m">
 <!ENTITY printCmd.commandkey "p">
-<!ENTITY import.label "Importa…">
-<!ENTITY import.accesskey "I">
 <!ENTITY goOfflineCmd.label "Lavora non in linea">
 <!ENTITY goOfflineCmd.accesskey "L">
 <!ENTITY menubarCmd.label "Barra dei menu">
