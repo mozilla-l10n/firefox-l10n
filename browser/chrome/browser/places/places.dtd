@@ -5,12 +5,12 @@
 <!ENTITY organize.label          "આયોજીત કરો">
 <!ENTITY organize.accesskey    "O">
 
-<!ENTITY file.accesskey                 "F">
+
 <!ENTITY file.close.label               "બંધ કરો">
 <!ENTITY file.close.accesskey           "C">
 <!ENTITY cmd.close.key                  "w">
-<!ENTITY edit.label                     "ફેરફાર">
-<!ENTITY edit.accesskey                 "E">
+
+
 <!ENTITY views.label                    "દેખાવો">
 <!ENTITY views.accesskey                "V">
 
@@ -71,8 +71,8 @@
 
 <!ENTITY cmd.reloadLivebookmark.label      "જીવંત બુકમાર્ક પુનઃલાવો">
 <!ENTITY cmd.reloadLivebookmark.accesskey  "R">
-<!ENTITY cmd.reloadMicrosummary.label      "જીવંત શીર્ષક પુનઃલાવો">
-<!ENTITY cmd.reloadMicrosummary.accesskey  "R">
+
+
 
 
 <!ENTITY cmd.moveBookmarks.label                  "ખસેડો...">
@@ -106,17 +106,17 @@
 <!ENTITY maintenance.label   "આયાત અને બેકઅપ">
 <!ENTITY maintenance.accesskey  "I">
 
-<!ENTITY backCmd.label       "પાછળ">
+
 <!ENTITY backButton.tooltip  "પાછળ જાવ">
 
-<!ENTITY forwardCmd.label       "આગળ">
+
 <!ENTITY forwardButton.tooltip  "આગળ જાવ">
 
 <!ENTITY detailsPane.more.label "વધુ">
 <!ENTITY detailsPane.more.accesskey "e">
 <!ENTITY detailsPane.less.label "ઓછું">
 <!ENTITY detailsPane.less.accesskey "e">
-<!ENTITY detailsPane.noPreviewAvailable.label "પૂર્વદર્શન">
+
 <!ENTITY detailsPane.selectAnItemText.description "વસ્તુના ગુણધર્મો જોવા અને તેમાં ફેરફાર કરવા માટે તેને પસંદ કરો">
 
 <!ENTITY cmd.delete.label               "આ પાનું કાઢી નાંખો">

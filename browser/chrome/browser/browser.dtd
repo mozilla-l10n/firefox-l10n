@@ -63,7 +63,7 @@
 <!ENTITY subscribeToPageMenupopup.label "આ પાનાંમાં ઉમેદવારી નોંધાવો">
 <!ENTITY subscribeToPageMenuitem.label "આ પાનાંમાં ઉમેદવારી નોંધાવો...">
 <!ENTITY addCurPagesCmd.label "બધી ટૅબ બુકમાર્ક કરો...">
-<!ENTITY bookmarkAllCmd.label "બધી ટૅબ બુકમાર્ક કરો...">
+
 
 <!ENTITY backCmd.label                "પાછળ">
 <!ENTITY backCmd.accesskey            "B">
