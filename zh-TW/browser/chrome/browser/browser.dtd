@@ -57,8 +57,6 @@ can reach it easily. -->
 <!ENTITY printCmd.label "列印…">
 <!ENTITY printCmd.accesskey "P">
 <!ENTITY printCmd.commandkey "p">
-<!ENTITY import.label "匯入…">
-<!ENTITY import.accesskey "I">
 
 <!ENTITY goOfflineCmd.label "離線模式">
 <!ENTITY goOfflineCmd.accesskey "W">
