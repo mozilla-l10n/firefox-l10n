@@ -1,4 +1,5 @@
 <!-- ***** BEGIN LICENSE BLOCK *****
+#if 0
    - Version: MPL 1.1/GPL 2.0/LGPL 2.1
    -
    - The contents of this file are subject to the Mozilla Public License Version
@@ -11,14 +12,14 @@
    - for the specific language governing rights and limitations under the
    - License.
    -
-   - The Original Code is Mozilla addressbook.
+   - The Original Code is mozilla.org Code.
    -
-   - The Initial Developer of the Original Code is
-   - Seth Spitzer <sspitzer@netscape.com>.
-   - Portions created by the Initial Developer are Copyright (C) 2001
+   - The Initial Developer of the Original Code is Mike Connor.
+   - Portions created by the Initial Developer are Copyright (C) 2005
    - the Initial Developer. All Rights Reserved.
    -
    - Contributor(s):
+   -   Mike Connor <mconnor@steelgryphon.com>
    -   
    -
    - Alternatively, the contents of this file may be used under the terms of
@@ -33,36 +34,17 @@
    - the provisions above, a recipient may use your version of this file under
    - the terms of any one of the MPL, the GPL or the LGPL.
    -
+#endif
    - ***** END LICENSE BLOCK ***** -->
-<!ENTITY GeneratedName.label "Nome">
-<!ENTITY GeneratedName.accesskey "N">
-<!ENTITY PrimaryEmail.label "E-mail">
-<!ENTITY PrimaryEmail.accesskey "E">
-<!ENTITY Company.label "Organizzazione">
-<!ENTITY Company.accesskey "z">
-<!ENTITY _PhoneticName.label "Nome fonetico">
-<!ENTITY _PhoneticName.accesskey "f">
-<!ENTITY NickName.label "Soprannome">
-<!ENTITY NickName.accesskey "S">
-<!ENTITY SecondEmail.label "E-mail aggiuntiva">
-<!ENTITY SecondEmail.accesskey "l">
-<!ENTITY Department.label "Reparto">
-<!ENTITY Department.accesskey "r">
-<!ENTITY JobTitle.label "Titolo">
-<!ENTITY JobTitle.accesskey "T">
-<!ENTITY CellularNumber.label "Cellulare">
-<!ENTITY CellularNumber.accesskey "C">
-<!ENTITY PagerNumber.label "Cercapersone">
-<!ENTITY PagerNumber.accesskey "r">
-<!ENTITY FaxNumber.label "Fax">
-<!ENTITY FaxNumber.accesskey "F">
-<!ENTITY HomePhone.label "Telefono casa">
-<!ENTITY HomePhone.accesskey "T">
-<!ENTITY WorkPhone.label "Telefono lavoro">
-<!ENTITY WorkPhone.accesskey "l">
-<!ENTITY ScreenName.label "Nome Instant Messenger">
-<!ENTITY ScreenName.accesskey "I">
-<!ENTITY sortAscending.label "Crescente">
-<!ENTITY sortAscending.accesskey "r">
-<!ENTITY sortDescending.label "Decrescente">
-<!ENTITY sortDescending.accesskey "D">
+<!ENTITY safeModeDialog.title "Modalità provvisoria di &brandShortName;">
+<!ENTITY window.width "49em">
+<!ENTITY safeModeDescription.label "&brandShortName; è avviato in modalità provvisoria, quindi i componenti aggiuntivi e le impostazioni personali sono stati temporaneamente disattivati.">
+<!ENTITY safeModeDescription2.label "È possibile eseguire in modo definitivo una o più delle seguenti operazioni:">
+<!ENTITY disableAddons.label "Disattiva tutti i Componenti aggiuntivi">
+<!ENTITY disableAddons.accesskey "D">
+<!ENTITY resetToolbars.label "Ripristina le barre degli strumenti e i controlli">
+<!ENTITY resetToolbars.accesskey "R">
+<!ENTITY changeAndRestartButton.label "Applica le modifiche e riavvia">
+<!ENTITY changeAndRestartButton.accesskey "A">
+<!ENTITY continueButton.label "Continua in modalità provvisoria">
+<!ENTITY continueButton.accesskey "C">

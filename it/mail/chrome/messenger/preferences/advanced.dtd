@@ -22,7 +22,7 @@
 <!ENTITY display.caption "Visualizzazione">
 <!ENTITY showCondensedAddresses.label 'Mostra solo il "nome visualizzato" per i contatti presenti nella rubrica'>
 <!ENTITY showCondensedAddresses.accesskey "o">
-<!ENTITY autoMarkAsRead.label "Marca automaticamente i messaggi come letti">
+<!ENTITY autoMarkAsRead.label "Segna automaticamente i messaggi come letti">
 <!ENTITY autoMarkAsRead.accesskey "u">
 <!ENTITY markAsReadNoDelay.label "Appena visualizzati">
 <!ENTITY markAsReadNoDelay.accesskey "A">
@@ -36,14 +36,14 @@
 <!ENTITY reuseExpRadio0.accesskey "n">
 <!ENTITY reuseExpRadio1.label "nella stessa finestra">
 <!ENTITY reuseExpRadio1.accesskey "s">
-<!ENTITY closeMsgWindowOnDelete.label "Chiudi la finestra del messaggio quando viene eliminato">
-<!ENTITY closeMsgWindowOnDelete.accesskey "C">
+<!ENTITY closeMsgOnMoveOrDelete.label "Chiudere la finestra (linguetta) del messaggio quando si sposta o si cancella">
+<!ENTITY closeMsgOnMoveOrDelete.accesskey "C">
 <!ENTITY autoCheck.label "Controlla automaticamente la presenza di aggiornamenti per:">
 <!ENTITY enableAppUpdate.label "&brandShortName;">
 <!ENTITY enableAppUpdate.accesskey "h">
 <!ENTITY enableAddonsUpdate.label "Componenti aggiuntivi installati">
 <!ENTITY enableAddonsUpdate.accesskey "C">
-<!ENTITY whenUpdatesFound.label "Quando viene trovato un aggiornamento per &brandShortName;:">
+<!ENTITY whenUpdatesFound.label "Quando viene trovato un aggiornamento per &brandShortName;,">
 <!ENTITY modeAskMe.label "Chiedi che cosa fare">
 <!ENTITY modeAskMe.accesskey "e">
 <!ENTITY modeAutomatic.label "Scarica ed installa automaticamente l'aggiornamento">
@@ -63,7 +63,7 @@
 <!ENTITY Diskspace "Spazio su disco">
 <!ENTITY offlineCompact.label "Compatta le cartelle solo se si guadagnano più di ">
 <!ENTITY offlineCompact.accesskey "C">
-<!ENTITY kb.label "kB">
+<!ENTITY mb.label "MB">
 <!ENTITY useCacheBefore.label "Utilizza al massimo">
 <!ENTITY useCacheBefore.accesskey "U">
 <!ENTITY useCacheAfter.label "MB di spazio per la cache">

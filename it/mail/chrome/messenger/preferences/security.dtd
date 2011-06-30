@@ -4,13 +4,13 @@
 <!ENTITY itemAntiVirus.label "Antivirus">
 <!ENTITY itemCookies.label "Contenuto web">
 <!ENTITY junkMail.intro "Scegliere le impostazioni predefinite per la posta indesiderata. Le impostazioni di posta indesiderata specifiche possono essere configurate nelle Impostazioni account.">
-<!ENTITY manualMark.label "Quando i messaggi sono marcati come posta indesiderata:">
+<!ENTITY manualMark.label "Quando i messaggi sono segnati come posta indesiderata:">
 <!ENTITY manualMark.accesskey "Q">
 <!ENTITY manualMarkModeMove.label "Spostali nella cartella &quot;Indesiderata&quot; dell'utente">
 <!ENTITY manualMarkModeMove.accesskey "o">
 <!ENTITY manualMarkModeDelete.label "Eliminali">
 <!ENTITY manualMarkModeDelete.accesskey "E">
-<!ENTITY markAsReadOnSpam.label "Marca come letti tutti i messaggi riconosciuti come posta indesiderata">
+<!ENTITY markAsReadOnSpam.label "Segna come letti tutti i messaggi riconosciuti come posta indesiderata">
 <!ENTITY markAsReadOnSpam.accesskey "M">
 <!ENTITY enableJunkLogging.label "Attiva registro attività per la posta indesiderata">
 <!ENTITY enableJunkLogging.accesskey "A">

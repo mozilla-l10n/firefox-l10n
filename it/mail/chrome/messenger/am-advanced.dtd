@@ -13,4 +13,4 @@
 <!ENTITY serverPort.label "Porta: ">
 <!ENTITY userName.label "Nome utente: ">
 <!ENTITY connectionSecurity.label "Sicurezza della connessione: ">
-<!ENTITY authMethod.label "Metodo di autenticazione:">
+<!ENTITY authMethod.label "Metodo di autenticazione: ">

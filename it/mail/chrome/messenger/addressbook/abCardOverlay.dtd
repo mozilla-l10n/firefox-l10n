@@ -14,6 +14,8 @@
 <!ENTITY PhoneticField2.label "Fonetica:">
 <!ENTITY DisplayName.label "Nome visualizzato:">
 <!ENTITY DisplayName.accesskey "z">
+<!ENTITY preferDisplayName.label "Preferire sempre il nome visualizzato all'intestazione del messaggio">
+<!ENTITY preferDisplayName.accesskey "P">
 <!ENTITY NickName.label "Soprannome:">
 <!ENTITY NickName.accesskey "p">
 <!ENTITY PrimaryEmail.label "E-mail:">
@@ -59,9 +61,9 @@
 <!ENTITY Birthday.label "Compleanno:">
 <!ENTITY Birthday.accesskey "m">
 <!ENTITY In.label "">
-<!ENTITY Year.emptytext "Anno">
+<!ENTITY Year.placeholder "Anno">
 <!ENTITY Or.value "o">
-<!ENTITY Age.emptytext "Età">
+<!ENTITY Age.placeholder "Età">
 <!ENTITY YearsOld.label "">
 <!ENTITY Work.tab "Lavoro">
 <!ENTITY Work.accesskey "L">
@@ -109,6 +111,6 @@
 <!ENTITY BrowsePhoto.accesskey "S">
 <!ENTITY PhotoURL.label "sul web">
 <!ENTITY PhotoURL.accesskey "w">
-<!ENTITY PhotoURL.emptytext "Inserire l'indirizzo web di una foto">
+<!ENTITY PhotoURL.placeholder "Incolla o scrivi l'indirizzo internet di una foto">
 <!ENTITY UpdatePhoto.label "Aggiorna">
 <!ENTITY UpdatePhoto.accesskey "A">
