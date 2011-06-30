@@ -13,6 +13,8 @@
 <!ENTITY openFrameCmd.accesskey "a">
 <!ENTITY openFrameCmdInTab.label "Keret megnyitása új lapon">
 <!ENTITY openFrameCmdInTab.accesskey "l">
+<!ENTITY keywordfield.label "Kulcsszó hozzáadása a kereséshez...">
+<!ENTITY keywordfield.accesskey "K">
 <!ENTITY showOnlyThisFrameCmd.label "Csak az aktuális keret megjelenítése">
 <!ENTITY showOnlyThisFrameCmd.accesskey "C">
 <!ENTITY goBackCmd.label "Vissza">
@@ -45,18 +47,18 @@
 <!ENTITY reloadImageCmd.accesskey "j">
 <!ENTITY viewImageCmd.label "Kép megjelenítése">
 <!ENTITY viewImageCmd.accesskey "g">
-<!ENTITY viewVideoCmd.label "View Video">
-<!ENTITY viewVideoCmd.accesskey "i">
+<!ENTITY viewVideoCmd.label "Videó megtekintése">
+<!ENTITY viewVideoCmd.accesskey "m">
 <!ENTITY viewBGImageCmd.label "Háttérkép megjelenítése">
 <!ENTITY viewBGImageCmd.accesskey "H">
 <!ENTITY setWallpaperCmd.label "Beállítás háttérképként">
 <!ENTITY setWallpaperCmd.accesskey "B">
-<!ENTITY bookmarkPageCmd.label "Oldal mentése...">
-<!ENTITY bookmarkPageCmd.accesskey "m">
-<!ENTITY bookmarkLinkCmd.label "Oldal mentése...">
-<!ENTITY bookmarkLinkCmd.accesskey "l">
-<!ENTITY bookmarkFrameCmd.label "Oldal mentése...">
-<!ENTITY bookmarkFrameCmd.accesskey "m">
+<!ENTITY bookmarkPageCmd.label "Oldal hozzáadása a könyvjelzőkhöz">
+<!ENTITY bookmarkPageCmd.accesskey "O">
+<!ENTITY bookmarkLinkCmd.label "Hivatkozás hozzáadása a könyvjelzőkhöz">
+<!ENTITY bookmarkLinkCmd.accesskey "i">
+<!ENTITY bookmarkFrameCmd.label "Keret hozzáadása a könyvjelzőkhöz">
+<!ENTITY bookmarkFrameCmd.accesskey "e">
 <!ENTITY savePageAsCmd.label "Oldal mentése...">
 <!ENTITY savePageCmd.label "Oldal mentése">
 <!ENTITY savePageCmd.accesskey "m">
@@ -74,10 +76,6 @@
 <!ENTITY saveVideoCmd.accesskey "e">
 <!ENTITY saveAudioCmd.label "Hang mentése más néven…">
 <!ENTITY saveAudioCmd.accesskey "a">
-<!ENTITY copyCmd.label "Másolás">
-<!ENTITY copyCmd.accesskey "M">
-<!ENTITY selectAllCmd.label "Mindet kijelöli">
-<!ENTITY selectAllCmd.accesskey "d">
 <!ENTITY copyLinkCmd.label "Hivatkozás címének másolása">
 <!ENTITY copyLinkCmd.accesskey "s">
 <!ENTITY copyImageCmd.label "Kép másolása">
@@ -90,16 +88,6 @@
 <!ENTITY metadataCmd.accesskey "T">
 <!ENTITY copyEmailCmd.label "E-mail cím másolása">
 <!ENTITY copyEmailCmd.accesskey "E">
-<!ENTITY pasteCmd.label "Beillesztés">
-<!ENTITY pasteCmd.accesskey "B">
-<!ENTITY cutCmd.label "Kivágás">
-<!ENTITY cutCmd.accesskey "K">
-<!ENTITY deleteCmd.label "Törlés">
-<!ENTITY deleteCmd.accesskey "T">
-<!ENTITY undoCmd.label "Visszavonás">
-<!ENTITY undoCmd.accesskey "V">
-<!ENTITY redoCmd.label "Újra">
-<!ENTITY redoCmd.accesskey "r">
 <!ENTITY thisFrameMenu.label "Ez a keret">
 <!ENTITY thisFrameMenu.accesskey "z">
 <!ENTITY mediaPlay.label "Lejátszás">
@@ -114,8 +102,8 @@
 <!ENTITY mediaShowControls.accesskey "m">
 <!ENTITY mediaHideControls.label "Kezelőszervek elrejtése">
 <!ENTITY mediaHideControls.accesskey "e">
-<!ENTITY videoFullScreen.label "Full Screen">
-<!ENTITY videoFullScreen.accesskey "F">
+<!ENTITY videoFullScreen.label "Teljes képernyős üzemmód">
+<!ENTITY videoFullScreen.accesskey "T">
 <!ENTITY search.accesskey "W">
 <!ENTITY bidiSwitchPageDirectionItem.label "Oldal irányának átváltása">
 <!ENTITY bidiSwitchPageDirectionItem.accesskey "l">

@@ -11,7 +11,7 @@
 <!ENTITY languages.customize.add.title.label "Nyelvek hozzáadása">
 <!ENTITY languages.customize.available.label "Nyelvek:">
 <!ENTITY languages.customize.active.label "Nyelvek sorrendje:">
-<!ENTITY languages.customize.active.accesskey "L">
+<!ENTITY languages.customize.active.accesskey "l">
 <!ENTITY languages.customize.others.label "Egyéb:">
 <!ENTITY languages.customize.others.accesskey "E">
 <!ENTITY languages.customize.Charset.grouplabel "Karakterkódolás">

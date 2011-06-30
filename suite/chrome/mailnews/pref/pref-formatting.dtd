@@ -50,7 +50,7 @@
 <!-- Html and Plain Text Domains  -->
 
 <!ENTITY domain.title "Küldés normál szövegként és HTML-ben">
-<!ENTITY domaindesc.label "Ha üzenetét az alábbi tartományokhoz tartozó címre küldi, a &brandShortName; automatikusan a helyes formátumban fogja elküldeni (formázott szöveg vagy normál szöveg).">
+<!ENTITY domaindesc.label "Ha üzenetét az alábbi tartományokhoz tartozó címre küldi, a Levelező automatikusan a helyes formátumban fogja elküldeni (formázott szöveg vagy normál szöveg).">
 <!ENTITY HTMLdomaintitle.label "HTML szöveget kérő tartományok">
 <!ENTITY HTMLdomaintitle.accesskey "e">
 <!ENTITY PlainTexttitle.label "Normál szöveget kérő tartományok">
