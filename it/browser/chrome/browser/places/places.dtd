@@ -24,10 +24,12 @@
 <!ENTITY cmd.findInBookmarks.accesskey "T">
 <!ENTITY cmd.findCurrent.label "Cerca nella collezione corrente…">
 <!ENTITY cmd.findCurrent.accesskey "e">
-<!ENTITY cmd.exportHTML.label "Esporta HTML…">
-<!ENTITY cmd.exportHTML.accesskey "E">
-<!ENTITY cmd.importHTML.label "Importa HTML…">
-<!ENTITY cmd.importHTML.accesskey "I">
+<!ENTITY importBookmarksFromHTML.label "Importa segnalibri da HTML…">
+<!ENTITY importBookmarksFromHTML.accesskey "I">
+<!ENTITY exportBookmarksToHTML.label "Esporta segnalibri in HTML…">
+<!ENTITY exportBookmarksToHTML.accesskey "E">
+<!ENTITY importOtherBrowser.label "Importa dati da un altro browser…">
+<!ENTITY importOtherBrowser.accesskey "m">
 <!ENTITY cmd.backup.label "Salva…">
 <!ENTITY cmd.backup.accesskey "S">
 <!ENTITY cmd.restore2.label "Ripristina">
