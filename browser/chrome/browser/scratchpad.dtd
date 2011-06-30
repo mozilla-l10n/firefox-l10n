@@ -12,8 +12,8 @@
   -  "simple discardable text editor". -->
 <!ENTITY window.title                 "Scratchpad">
 
-<!ENTITY fileMenu.label               "File">
-<!ENTITY fileMenu.accesskey           "F">
+<!ENTITY fileMenu.label               "Ֆայլ">
+<!ENTITY fileMenu.accesskey           "Ֆ">
 
 <!ENTITY newWindowCmd.label           "New Window">
 <!ENTITY newWindowCmd.accesskey       "N">

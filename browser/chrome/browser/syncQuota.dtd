@@ -37,7 +37,7 @@
     the terms of any one of the MPL, the GPL or the LGPL.
 
 ******* END LICENSE BLOCK ********** -->
-<!ENTITY quota.dialogTitle.label    "Server Quota">
+<!ENTITY quota.dialogTitle.label    "Սերվերային քվոտա">
 <!ENTITY quota.retrievingInfo.label "Վերստանում է քվոտայի ինֆորմացիան...">
 <!ENTITY quota.typeColumn.label     "Տիպը">
 <!ENTITY quota.sizeColumn.label     "Չափը">

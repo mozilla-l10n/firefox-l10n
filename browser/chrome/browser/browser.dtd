@@ -143,7 +143,7 @@ can reach it easily. -->
 <!ENTITY subscribeToPageMenuitem.label "Բաժանորդագրվել Այս Էջին…">
 <!ENTITY addCurPagesCmd.label "Էջանշել Բոլոր Ներդիրները…">
 <!ENTITY showAllBookmarks2.label "Ցուցադրել բոլոր էջանիշերը">
-<!ENTITY unsortedBookmarksCmd.label "Unsorted Bookmarks">
+<!ENTITY unsortedBookmarksCmd.label "Չկարգավորված Էջանիշեր">
 <!ENTITY bookmarksToolbarChevron.tooltip "Ցույց տալ ավելի շատ էջանիշերի">
 
 <!ENTITY backCmd.label                "Նախորդ">
@@ -218,8 +218,8 @@ can reach it easily. -->
 <!ENTITY addons.accesskey             "A">
 <!ENTITY addons.commandkey            "A">
 
-<!ENTITY webDeveloperMenu.label       "Web Developer">
-<!ENTITY webDeveloperMenu.accesskey   "W">
+<!ENTITY webDeveloperMenu.label       "Վեբ ծրագրավորող">
+<!ENTITY webDeveloperMenu.accesskey   "Վ">
 
 <!ENTITY errorConsoleCmd.label        "Սխալների կոնսոլ">
 <!ENTITY errorConsoleCmd.accesskey    "C">

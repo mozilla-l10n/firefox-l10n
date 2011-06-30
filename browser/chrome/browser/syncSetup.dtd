@@ -117,7 +117,7 @@
 <!ENTITY syncComputerName.label       "Համակարգչի անունը՝">
 <!ENTITY syncComputerName.accesskey   "Հ">
 
-<!ENTITY syncMy.label               "Sync My">
+<!ENTITY syncMy.label               "Իմ Sync">
 <!ENTITY engine.bookmarks.label     "Էջանիշեր">
 <!ENTITY engine.bookmarks.accesskey "Է">
 <!ENTITY engine.tabs.label          "Ներդիրներ">

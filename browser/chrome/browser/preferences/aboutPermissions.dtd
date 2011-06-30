@@ -11,17 +11,17 @@
 
 <!ENTITY header.defaults                 "Պայմանական թույլտվություններ բոլոր կայքերի համար">
 
-<!ENTITY permissions.forgetSite          "Forget About This Site">
+<!ENTITY permissions.forgetSite          "Մոռանալ Այս Կայքի Մասին">
 
 <!ENTITY permission.alwaysAsk            "Always Ask">
-<!ENTITY permission.allow                "Allow">
-<!ENTITY permission.allowForSession      "Allow for Session">
-<!ENTITY permission.block                "Block">
+<!ENTITY permission.allow                "Թույլատրել">
+<!ENTITY permission.allowForSession      "Թույ տալ նիստի ընթացքում">
+<!ENTITY permission.block                "Արգելել">
 
 <!ENTITY password.label                  "Store Passwords">
 <!ENTITY password.manage                 "Manage Passwords…">
 
-<!ENTITY cookie.label                    "Set Cookies">
+<!ENTITY cookie.label                    "Տեղադրել Քուուկի">
 <!ENTITY cookie.clear                    "Clear Cookies">
 <!ENTITY cookie.manage                   "Manage Cookies…">
 <!ENTITY cookie.clearAll                 "Clear All Cookies">
@@ -30,6 +30,6 @@
 
 <!-- LOCALIZATION NOTE (indexedDB.label): This is describing indexedDB storage
      using the same language used for the permIndexedDB string in browser/pageInfo.dtd -->
-<!ENTITY indexedDB.label                 "Maintain Offline Storage">
+<!ENTITY indexedDB.label                 "Պահպանել օֆլայն պահոցը">
 
-<!ENTITY popup.label                     "Open Pop-up Windows">
+<!ENTITY popup.label                     "Բացել Pop-up Պատուհանները">

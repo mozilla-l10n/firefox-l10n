@@ -47,7 +47,7 @@
 
 <!ENTITY  size.label                              "Չափը.">
 <!ENTITY  sizeProportional.accesskey              "z">
-<!ENTITY  sizeMonospace.accesskey                 "e">
+<!ENTITY  sizeMonospace.accesskey                 "ի">
 
 <!ENTITY  proportional.label                      "Բաշխված.">
 <!ENTITY  proportional.accesskey                  "P">

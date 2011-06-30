@@ -103,7 +103,7 @@
 <!ENTITY channel.change             "Փոխել">
 
 <!ENTITY channel.release.description       "Վայելե΄ք փորձված և ստուգված վերջին տարբերակը, որն օգտագործվում է ամբողջ աշխարհում հարյուր միլիոնավոր մարդկանց կողմից:Վերահսկե΄ք Ձեր օնլայն փորձառությունը` գերազանց արագությամբ,հեշտ հարմարեցմամբ և նորագույն Վեբ տեխնոլոգիաներով:">
-<!ENTITY channel.beta.description          "Experience cutting edge features with more stability. Provide feedback to help refine and polish what will be in the final release.">
+<!ENTITY channel.beta.description          "Փորձ՝ ավելի ստաբիլ ձևով կրճատել ավելորդ հոդվածները: Ապահովել հետադարձ կապ՝ օգնելու լավացնել և հղկել այն, ինչ լինելու է վերջին թողարկմանը: ">
 <!ENTITY channel.aurora.description        " Վերջին նորարարությունները փորձարկելը փոփոխական միջավայրում զուտ ցնցում ապրելու համար չէ:Ապահովեք հետադարձ կապը առանձնահատկություններում և գործելու ժամանակ,և դա կօգնի, որ դուք գիտակցեք, թե ինչ հնարավորություններ ունի վերջին տարբերակը:">
 
 <!-- LOCALIZATION NOTE (channel.selector.start,channel.selector.end): channel.selector.start and
