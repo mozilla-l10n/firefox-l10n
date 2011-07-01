@@ -1,0 +1,44 @@
+KillScriptTitle=ચેતવણી: બિનપ્રત્યુત્તરીય સ્ક્રિપ્ટ
+KillScriptMessage=આ પાનાં પરની સ્ક્રિપ્ટ વ્યસ્ત હોઈ શકે, અથવા તેણે પ્રત્યુત્તર આપવાનું બંધ કરી દીધું હશે. તમે સ્ક્રિપ્ટને હમણાં જ બંધ કરી શકો છો, અથવા તમે શું સ્ક્રિપ્ટ પૂર્ણ થઈ જશે કે નહિં તે જોવા માટે ચાલુ રાખી શકો છો.
+KillScriptWithDebugMessage=આ પાનાં પરની સ્ક્રિપ્ટ વ્યસ્ત હોઈ શકે, અથવા તે પ્રત્યુત્તર આપતાં અટકી ગઈ હશે. તમે સ્ક્રિપ્ટ હમણાં અટકાવી શકો છો, સ્ક્રિપ્ટને ડિબગરમાં ખોલો, અથવા સ્ક્રિપ્ટને ચાલુ રહેવા દો.
+StopScriptButton=અટકાવો સ્ક્રિપ્ટ
+DebugScriptButton=સ્ક્રિપ્ટ ડિબગ કરો
+WaitForScriptButton=ચાલુ રાખો
+DontAskAgain=મને ફરી પૂછશો નહિં
+JSURLLoadBlockedWarning=\u0A9C\u0ABE\u0AB5\u0ABE\u0AB8\u0ACD\u0A95\u0ACD\u0AB0\u0AC0\u0AAA\u0ACD\u0A9F \u0AB2\u0ABE\u0AB5\u0AB5\u0ABE\u0AA8\u0ACB \u0AAA\u0ACD\u0AB0\u0AAF\u0AA4\u0ACD\u0AA8 \u0A95\u0AB0\u0AC7 \u0A9B\u0AC7: \u0A85\u0AC7\u0A95 \u0AAF\u0A9C\u0AAE\u0ABE\u0AA8\u0AA8\u0ABE\u0A82 URL \u0AA5\u0AC0\u0AAC\u0AC0\u0A9C\u0ABE \u0AAF\u0A9C\u0AAE\u0ABE\u0AA8 \u0AA6\u0ACD\u0AB0\u0ABE\u0AB0\u0ABE \u0AA6\u0AB0\u0ACD\u0AB6\u0ABE\u0AB5\u0ABE\u0AA4\u0AC0 \u0AB5\u0ABF\u0A97\u0AA4\u0ACB \u0AB8\u0AB2\u0ABE\u0AAE\u0AA4\u0AC0 \u0AB5\u0ACD\u0AAF\u0AB5\u0AB8\u0ACD\u0AA5\u0ABE\u0AAA\u0A95 \u0AA6\u0ACD\u0AB0\u0ABE\u0AB0\u0ABE \u0AB0\u0ACB\u0A95\u0AC0\u0AB0\u0A96\u0ABE\u0A87 \u0A9B\u0AC7.
+WindowCloseBlockedWarning=\u0AB8\u0ACD\u0A95\u0ACD\u0AB0\u0AC0\u0AAA\u0ACD\u0A9F \u0AB5\u0ABF\u0AA8\u0ACD\u0AA1\u0ACB\u0AA8\u0AC7 \u0AAC\u0A82\u0AA7 \u0A95\u0AB0\u0AB6\u0AC7 \u0AA8\u0AB9\u0AC0 \u0A95\u0AC7 \u0A9C\u0AC7 \u0AB8\u0ACD\u0A95\u0ACD\u0AB0\u0AC0\u0AAA\u0ACD\u0A9F \u0AA6\u0ACD\u0AB0\u0ABE\u0AB0\u0ABE \u0A96\u0ACB\u0AB2\u0ABE\u0A87 \u0AA8\u0AB9\u0AC0 \u0AB9\u0ACB\u0AAF.
+
+
+DocumentAllUsed=\u0AAA\u0ACD\u0AB0\u0AAE\u0ABE\u0AA3\u0AAD\u0AC2\u0AA4 \u0AA8\u0AB9\u0ABF \u0AB9\u0ACB\u0AAF \u0AA4\u0AC7\u0AB5\u0ACB document.all \u0A97\u0AC1\u0AA3\u0AA7\u0AB0\u0ACD\u0AAE \u0AB5\u0AAA\u0AB0\u0ABE\u0AAF\u0ACB \u0AB9\u0AA4\u0ACB. W3C \u0AA6\u0ACD\u0AB5\u0ABE\u0AB0\u0ABE \u0AAA\u0ACD\u0AB0\u0AAE\u0ABE\u0AA3\u0AAD\u0AC2\u0AA4 document.getElementById() \u0AB5\u0ABE\u0AAA\u0AB0\u0ACB.
+GlobalScopeElementReference=\u0AB5\u0AB8\u0ACD\u0AA4\u0AC1 \u0AAC\u0AA7\u0AC7 \u0A93\u0AB3\u0A96 \u0A95\u0ACD\u0AB0\u0AAE\u0ABE\u0A82\u0A95/\u0AA8\u0ABE\u0AAE \u0AA6\u0ACD\u0AB5\u0ABE\u0AB0\u0ABE \u0AB8\u0A82\u0AAC\u0A82\u0AA7 \u0AA7\u0AB0\u0ABE\u0AB5\u0AC7 \u0A9B\u0AC7. W3C \u0AA6\u0ACD\u0AB5\u0ABE\u0AB0\u0ABE \u0AAA\u0ACD\u0AB0\u0AAE\u0ABE\u0AA3\u0AAD\u0AC2\u0AA4 document.getElementById() \u0AB5\u0ABE\u0AAA\u0AB0\u0ACB. 
+UseOfCaptureEventsWarning=captureEvents() નો વપરાશ કાઢી નાંખવામાં આવેલ છે, ભૂલ 330494 જુઓ.
+UseOfReleaseEventsWarning=releaseEvents() નો વપરાશ કાઢી નાંખવામાં આવેલ છે, ભૂલ 330494 જુઓ.
+UseOfRouteEventWarning=routeEvent() નો વપરાશ કાઢી નાંખવામાં આવેલ છે, ભૂલ 330494 જુઓ.
+UseOfPreventBubbleWarning=ઘટના=%S, preventBubble() નો વપરાશ કાઢી નાંખવામાં આવેલ છે. W3C પ્રમાણ stopPropagation() ને તેની જગ્યાએ વાપરો.
+UseOfPreventCaptureWarning=ઘટના=%S, preventCapture() નો વપરાશ કાઢી નાંખવામાં આવેલ છે. W3C પ્રમાણ stopPropagation() ને તેની જગ્યાએ વાપરો.
+UnexpectedCanvasVariantStyle=કૅન્વસ: કિંમત માટે strokeStyle અથવા fillStyle સુયોજિત કરવા માટે પ્રયત્ન કે જે ક્યાંતો શબ્દમાળા, CanvasGradient, અથવા   CanvasPattern અવગણેલ ન હતી.
+EmptyGetElementByIdParam=getElementById() ને ખાલી શબ્દમાળા પસાર કરવામાં આવી.
+KillScriptLocation=સ્ક્રિપ્ટ: %S
+
+LowMemoryTitle=ચેતવણી: નીચી મેમરી
+LowMemoryMessage=આ પાનાં પરની સ્ક્રિપ્ટ નીચી મેમરી પરિસ્થિતિને કારણે અટકાવવામાં આવેલ છે.
+
+DocumentWriteIgnored=અનામિક રીતે લોડ થયેલ બહારની સ્ક્રિપ્ટમાંથી document.write() નો કોલ અવગણેલ હતો.
+FormValidationCheckboxMissing=મહેરબાની કરીને આ બોક્સને ચકાસો જો તમે આગળ ધપવા માંગતા હોય.
+FormValidationFileMissing=મહેરબાની કરીને ફાઇલને પસંદ કરો.
+FormValidationInvalidEmail=મહેરબાની કરીને ઇમેલ સરનામાંને દાખલ કરો.
+FormValidationInvalidURL=મહેરબાની કરીને URL ને દાખલ કરો.
+FormValidationPatternMismatch=મહેરબાની કરીને સૂચિત બંધારણને બંધબેસાડો.
+FormValidationPatternMismatchWithTitle=મહેરબાની કરીને સૂચિત બંધારણને બંધબેસાડો: %S.
+FormValidationRadioMissing=મહેરબાની કરીને આ વિકલ્પોમાંના એક ને પસંદ કરો.
+FormValidationSelectMissing=મહેરબાની કરીને યાદીમાં વસ્તુને પસંદ કરો.
+FormValidationTextTooLong=મહેરબાની કરીને %S અક્ષરોનાં આ લખાણને નાનું કરો અથવા ઓછ કરો (તમે હાલમાં %S અક્ષરોને વાપરી રહ્યા છો).
+FormValidationValueMissing=મહેરબાની કરીને આ ક્ષેત્રને ભરો.
+OnBeforeUnloadLeaveButton=પાનાંને છોડી દો
+OnBeforeUnloadMessage=આ પાનું તમને પૂછી રહ્યુ છે કે તમે છોડવા માંગો છો - માહિતી કે જે તમે દાખલ કરેલ છે તે સંગ્રહી શકી ન હોય.
+OnBeforeUnloadStayButton=પાનાં પર રહો
+OnBeforeUnloadTitle=શું તમે ખરેખર છો?
+SpeculationFailed=અસંતુલન ટ્રી પુન:પદચ્છેદન કરવા માટે નેટવર્ક માંથી માહિતીને કારણે document.write() ની મદદથી લખાયેલ હતી. વધારે જાણકારી માટે https://developer.mozilla.org/en/Optimizing_Your_Pages_for_Speculative_Parsing
+UseOfDOM3LoadMethodWarning=Document.load() ને વાપરવાનું  નાપસંદ થયેલ છે. તમારા કોડને સુધારવા માટે, DOM XMLHttpRequest ઑબ્જેક્ટને વાપરો. વધારે મદદ માટે https://developer.mozilla.org/en/XMLHttpRequest
+
+
