@@ -39,9 +39,9 @@
 <!ENTITY downloadManagerCmd.accesskey "t">
 <!ENTITY downloadManagerCmd.commandkey "j">
 
-<!ENTITY addonsManagerCmd.label "Gestor de extras">
-<!ENTITY addonsManagerCmd.accesskey "x">
-<!ENTITY addonsManagerCmd.commandkey "a">
+<!ENTITY addOnsManagerCmd.label "Gestor de extras">
+<!ENTITY addOnsManagerCmd.accesskey "x">
+<!ENTITY addOnsManagerCmd.commandkey "a">
 
 <!ENTITY switchProfileCmd.label "Trocar perfil…">
 <!ENTITY switchProfileCmd.accesskey "o">
