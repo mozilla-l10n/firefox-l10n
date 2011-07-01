@@ -24,8 +24,8 @@
 <!ENTITY warning.updatesecurity.enable.tooltip     "Activează verificarea securității actualizărilor suplimentelor">
 
 <!-- global informations -->
-<!ENTITY info.plugincheck.label                 "Check to see if your plugins are up to date">
-<!ENTITY info.plugincheck.tooltip               "Check to see if your plugins are up to date">
+<!ENTITY info.plugincheck.label                 "Verificați pentru a vedea dacă modulele dumnevoastră sunt actualizate">
+<!ENTITY info.plugincheck.tooltip               "Verificați pentru a vedea dacă modulele dumnevoastră sunt actualizate">
 
 <!-- categories / views -->
 <!ENTITY view.search.label                    "Căutare">

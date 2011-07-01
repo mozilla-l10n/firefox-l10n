@@ -20,12 +20,12 @@
 <!ENTITY pluginWizard.finalPage.moreInfo.label               "Aflați mai multe despre plugin-uri sau căutați manual plugin-uri care vă lipsesc.">
 <!ENTITY pluginWizard.finalPage.restart.label                "&brandShortName; trebuie repornit pentru ca plugin-urile să funcționeze.">
 
-<!ENTITY missingPlugin                                       "A plugin is needed to display this content.">
-<!ENTITY disabledPlugin                                      "This plugin is disabled.">
+<!ENTITY missingPlugin                                       "Este necesar un plugin pentru a afișa acest conținut.">
+<!ENTITY disabledPlugin                                      "Acest plugin este dezactivat.">
 <!ENTITY blockedPlugin.label                                 "Plugin-ul a fost dezactivat pentru protecția dumneavoastră.">
 
-<!ENTITY installPlugin                                       "Install plugin…">
-<!ENTITY managePlugins                                       "Manage plugins…">
+<!ENTITY installPlugin                                       "Instalați pluginul…">
+<!ENTITY managePlugins                                       "Gestionați pluginurile…">
 
 <!-- LOCALIZATION NOTE (reloadPlugin.pre): include a trailing space as needed -->
 <!-- LOCALIZATION NOTE (reloadPlugin.middle): avoid leading/trailing spaces, this text is a link -->

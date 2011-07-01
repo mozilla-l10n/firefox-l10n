@@ -12,60 +12,60 @@
   -  "simple discardable text editor". -->
 <!ENTITY window.title                 "Scratchpad">
 
-<!ENTITY fileMenu.label               "File">
+<!ENTITY fileMenu.label               "Fișier">
 <!ENTITY fileMenu.accesskey           "F">
 
-<!ENTITY newWindowCmd.label           "New Window">
-<!ENTITY newWindowCmd.accesskey       "N">
+<!ENTITY newWindowCmd.label           "Fereastră nouă">
+<!ENTITY newWindowCmd.accesskey       "n">
 <!ENTITY newWindowCmd.commandkey      "n">
 
-<!ENTITY openFileCmd.label            "Open File…">
-<!ENTITY openFileCmd.accesskey        "O">
+<!ENTITY openFileCmd.label            "Deschide un fișier…">
+<!ENTITY openFileCmd.accesskey        "D">
 <!ENTITY openFileCmd.commandkey       "o">
 
-<!ENTITY saveFileCmd.label            "Save">
+<!ENTITY saveFileCmd.label            "Salvează">
 <!ENTITY saveFileCmd.accesskey        "S">
 <!ENTITY saveFileCmd.commandkey       "s">
 
-<!ENTITY saveFileAsCmd.label          "Save As…">
-<!ENTITY saveFileAsCmd.accesskey      "A">
+<!ENTITY saveFileAsCmd.label          "Salvează ca…">
+<!ENTITY saveFileAsCmd.accesskey      "a">
 
-<!ENTITY closeCmd.label               "Close">
+<!ENTITY closeCmd.label               "Închide">
 <!ENTITY closeCmd.key                 "W">
-<!ENTITY closeCmd.accesskey           "C">
+<!ENTITY closeCmd.accesskey           "c">
 
-<!ENTITY editMenu.label               "Edit">
+<!ENTITY editMenu.label               "Editare">
 <!ENTITY editMenu.accesskey           "E">
 
-<!ENTITY undoCmd.label                "Undo">
+<!ENTITY undoCmd.label                "Anulează">
 <!ENTITY undoCmd.key                  "Z">
-<!ENTITY undoCmd.accesskey            "U">
+<!ENTITY undoCmd.accesskey            "u">
 
-<!ENTITY redoCmd.label                "Redo">
+<!ENTITY redoCmd.label                "Refă">
 <!ENTITY redoCmd.key                  "Y">
 <!ENTITY redoCmd.accesskey            "R">
 
-<!ENTITY cutCmd.label                 "Cut">
+<!ENTITY cutCmd.label                 "Taie">
 <!ENTITY cutCmd.key                   "X">
-<!ENTITY cutCmd.accesskey             "t">
+<!ENTITY cutCmd.accesskey             "T">
 
-<!ENTITY copyCmd.label                "Copy">
+<!ENTITY copyCmd.label                "Copiază">
 <!ENTITY copyCmd.key                  "C">
 <!ENTITY copyCmd.accesskey            "C">
 
-<!ENTITY pasteCmd.label               "Paste">
+<!ENTITY pasteCmd.label               "Lipeşte">
 <!ENTITY pasteCmd.key                 "V">
-<!ENTITY pasteCmd.accesskey           "P">
+<!ENTITY pasteCmd.accesskey           "p">
 
-<!ENTITY selectAllCmd.label           "Select All">
+<!ENTITY selectAllCmd.label           "Selectează tot">
 <!ENTITY selectAllCmd.key             "A">
-<!ENTITY selectAllCmd.accesskey       "A">
+<!ENTITY selectAllCmd.accesskey       "a">
 
-<!ENTITY run.label                    "Run">
+<!ENTITY run.label                    "Rulează">
 <!ENTITY run.accesskey                "R">
 <!ENTITY run.key                      "r">
 
-<!ENTITY inspect.label                "Inspect">
+<!ENTITY inspect.label                "Inspectează">
 <!ENTITY inspect.accesskey            "I">
 <!ENTITY inspect.key                  "i">
 
@@ -119,5 +119,5 @@
   -  that appears when the Scratchpad's text area is empty and unfocused.
   -  It should be a one-line JavaScript comment, i.e., preceded by '//'
   -->
-<!ENTITY textbox.placeholder1         "// Enter some JavaScript, select it, right click and select Run, Inspect or Display.">
+<!ENTITY textbox.placeholder1         "// Introduceți niște cod JavaScript, selectați-l, faceți clic dreapta pe el și selectați Rulează, Inspectează sau Afișează.">
 
