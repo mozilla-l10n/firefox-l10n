@@ -1,0 +1,29 @@
+error.login.reason.network    = સર્વરને જોડવાનું નિષ્ફળ
+error.login.reason.synckey    = ખોટી સુમેળ કી
+# error.login.reason.password is deprecated.
+
+error.login.reason.account    = અયોગ્ય ખાતા નામ અથવા પાસવર્ડ
+
+error.login.reason.no_synckey = વાપરવા માટે સંગ્રહ થયેલ સુમેળ કી નથી
+error.login.reason.server     = અયોગ્ય રીતે સર્વર રૂપરેખાંકિત થયેલ છે
+
+error.sync.failed_partial     = એક અથવા વધારે માહિતી પ્રકારોનો સુમેળ કરી શક્યા નહિં
+
+invalid-captcha = અયોગ્ય શબ્દો, ફરીથી પ્રયત્ન કરો
+weak-password   = મજબૂત પાસવર્ડને વાપરો
+
+# this is the fallback, if we hit an error we didn't bother to localize
+error.reason.unknown          = અજ્ઞાત ભૂલ
+
+change.synckey.sameAsSyncKey    = નવી સુમેળ કી તમારી સુમેળ કી જેવી સરખી કરી શકાતી નથી
+change.synckey.sameAsPassword   = સુમેળ કીને તમારા પાસવર્ડનાં જેવુ કરી શકાતુ નથી
+change.synckey.sameAsUsername   = સુમેળ કીને તમારા વપરાશકર્તાનામ જેવુ કરી શકાતુ નથી
+change.synckey.sameAsEmail      = સુમેળ કીને તમારા ઇમેલ જેવુ સરખુ કરી શકાતુ નથી
+change.synckey.tooShort         = દાખલ થયેલ સુમેળ કી ઘણી ટૂંકી છે
+
+change.password.pwSameAsSyncKey      = પાસવર્ડને તમારી સુમેળ કી સાથે બંધબેસતુ કરી શકાતુ નથી
+change.password.pwSameAsPassword     = પાસવર્ડને હાલનાં પાસવર્ડ સાથે બંધબેસતો કરી શકાતો નથી
+change.password.pwSameAsUsername     = પાસવર્ડને તમારા વપરાશકર્તા નામ સાથે બંધબેસતો કરી શકાતો નથી
+change.password.pwSameAsEmail        = પાસવર્ડને તમારા ઇમેલ સરનામાં સાથે બંધબેસતો કરી શકાતો નથી
+change.password.mismatch             = દાખલ થયેલ પાસવર્ડો બંધબેસતા નથી
+change.password.tooShort             = દાખલ થયેલ પાસવર્ડ ઘણો ટૂંકો છે
