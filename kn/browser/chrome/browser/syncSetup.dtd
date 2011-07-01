@@ -120,3 +120,4 @@
 <!ENTITY signIn.account2.label      "ಖಾತೆ">
 <!ENTITY signIn.syncKey.accesskey   "K">
 <!ENTITY signIn.syncKey.label       "ಸಿಂಕ್ ಕೀಲಿ">
+<!ENTITY syncGenerateNewKey.label  "ಒಂದು ಹೊಸ ಕೀಲಿಯನ್ನು ಉತ್ಪಾದಿಸಿ">
