@@ -557,3 +557,14 @@ can reach it easily. -->
 
 <!ENTITY addonBarCloseButton.tooltip  "ಆಡ್‌-ಆನ್ ಪಟ್ಟಿಕೆಯನ್ನು ಮುಚ್ಚು">
 <!ENTITY toggleAddonBarCmd.key        "/">
+
+<!ENTITY getMoreDevtoolsCmd.accesskey    "M">
+<!ENTITY getMoreDevtoolsCmd.label        "ಹೆಚ್ಚಿನ ಉಪಕರಣಗಳನ್ನು ಪಡೆದುಕೊಳ್ಳಿ">
+<!ENTITY scratchpad.label             "ಸ್ಕ್ರಾಚ್‌ಪ್ಯಾಡ್">
+<!ENTITY scratchpad.accesskey         "s">
+<!ENTITY scratchpad.keycode           "VK_F4">
+<!ENTITY scratchpad.keytext           "F4">
+<!ENTITY unsortedBookmarksCmd.label "ವಿಂಗಡಿಸದೆ ಇರುವ ಬುಕ್‌ಮಾರ್ಕುಗಳು">
+<!ENTITY webDeveloperMenu.label       "ಜಾಲ ವಿಕಸನೆಗಾರ">
+<!ENTITY webDeveloperMenu.accesskey   "W">
+
