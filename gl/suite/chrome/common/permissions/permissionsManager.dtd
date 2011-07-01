@@ -1,0 +1,15 @@
+<!ENTITY windowtitle.label              "Excepcións">
+<!ENTITY treehead.sitename.label        "Sitio web">
+<!ENTITY treehead.status.label          "Estado">
+<!ENTITY remove.label                   "Eliminar o sitio web">
+<!ENTITY remove.accesskey               "r">
+<!ENTITY removeall.label                "Eliminar todos os sitios web">
+<!ENTITY removeall.accesskey            "E">
+<!ENTITY address.label                  "Enderezo do sitio web:">
+<!ENTITY address.accesskey              "d">
+<!ENTITY block.label                    "Bloquear">
+<!ENTITY block.accesskey                "B">
+<!ENTITY session.label                  "Permitir nesta sesión">
+<!ENTITY session.accesskey              "s">
+<!ENTITY allow.label                    "Permitir">
+<!ENTITY allow.accesskey                "P">
