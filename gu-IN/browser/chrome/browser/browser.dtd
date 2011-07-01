@@ -523,4 +523,13 @@ just addresses the organization to follow, e.g. "This site is run by " -->
 <!ENTITY showAllBookmarks2.label "બધી બુકમાર્કોને બતાવો">
 <!ENTITY addonBarCloseButton.tooltip  "એડ-ઓન પટ્ટીને બંધ કરો">
 <!ENTITY toggleAddonBarCmd.key        "/">
+<!ENTITY getMoreDevtoolsCmd.accesskey    "M">
+<!ENTITY getMoreDevtoolsCmd.label        "વધારે સાધનો મેળવો">
+<!ENTITY scratchpad.accesskey         "s">
+<!ENTITY scratchpad.keycode           "VK_F4">
+<!ENTITY scratchpad.keytext           "F4">
+<!ENTITY scratchpad.label             "સ્ક્રેચપેડ">
+<!ENTITY unsortedBookmarksCmd.label "ક્રમાંકિત ન થયેલ બુકમાર્કો">
+<!ENTITY webDeveloperMenu.accesskey   "W">
+<!ENTITY webDeveloperMenu.label       "વેબ ડેવલપર">
 
