@@ -179,8 +179,8 @@ can reach it easily. -->
 <!ENTITY addons.accesskey             "S">
 <!ENTITY addons.commandkey            "A">
 
-<!ENTITY webDeveloperMenu.label       "Web Developer">
-<!ENTITY webDeveloperMenu.accesskey   "W">
+<!ENTITY webDeveloperMenu.label       "Dezvoltator web">
+<!ENTITY webDeveloperMenu.accesskey   "w">
 
 <!ENTITY errorConsoleCmd.label        "Consolă de erori">
 <!ENTITY errorConsoleCmd.accesskey    "e">
@@ -226,8 +226,8 @@ can reach it easily. -->
 <!ENTITY inspectObjectButton.label       "Obiect">
 <!ENTITY inspectObjectButton.accesskey   "O">
 
-<!ENTITY getMoreDevtoolsCmd.label        "Get More Tools">
-<!ENTITY getMoreDevtoolsCmd.accesskey    "M">
+<!ENTITY getMoreDevtoolsCmd.label        "Obțineți mai multe unelte">
+<!ENTITY getMoreDevtoolsCmd.accesskey    "m">
 
 <!ENTITY fileMenu.label         "Fișier"> 
 <!ENTITY fileMenu.accesskey       "F">
