@@ -48,8 +48,8 @@
 <!ENTITY resetToolbars.label          "টুলবাৰ আৰু নিয়ন্ত্ৰণসমূহ পুনঃ স্থাপন কৰক">
 <!ENTITY resetToolbars.accesskey      "R">
 
-<!ENTITY resetBookmarks.label         "পত্ৰচিহ্নসমূহক &brandShortName; ৰ অবিকল্পিতলৈ পুনঃ স্থাপন কৰক">
-<!ENTITY resetBookmarks.accesskey     "b">
+<!ENTITY deleteBookmarks.label        "বেকআপসমূহৰ বাবে থকা পত্ৰচিহ্নক এৰি সকলো পত্ৰচিহ্ন মচি দিয়ক">
+<!ENTITY deleteBookmarks.accesskey    "b">
 
 <!ENTITY resetUserPrefs.label         "&brandShortName; ৰ অবিকল্পিতলৈ সকলো ব্যৱহাৰকৰোঁতাৰ পছন্দক পুনঃ স্থাপন কৰক">
 <!ENTITY resetUserPrefs.accesskey     "p">

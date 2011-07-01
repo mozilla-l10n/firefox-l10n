@@ -20,12 +20,21 @@
 <!ENTITY pluginWizard.finalPage.moreInfo.label               "প্লাগ-ইনৰ বিষয়ে আৰু বিচাৰক বা নিজেই হেৰুৱা প্লাগ-ইন বিচাৰক ।">
 <!ENTITY pluginWizard.finalPage.restart.label                "প্লাগ-ইনে(সমূহ) কাম কৰিবলৈ &brandShortName; ক পুনৰাৰম্ভ কৰিব লাগিব ।">
 
-
-
-<!--
-entities below were automatically added by l10nmerge
--->
-
+<!ENTITY missingPlugin.label                                 "প্লাগ-ইন ডাউন্‌লোড কৰিবলৈ ইয়াত টিপক ।">
 <!ENTITY disabledPlugin.label                                "এই বিষয়বস্তুৰ প্লাগ-ইন নিষ্ক্ৰিয় কৰা হৈছে । আপোনাৰ প্লাগ-ইন পৰিচালনা কৰিবলৈ ইয়াত টিপক ।">
 <!ENTITY blockedPlugin.label                                 "আপোনাৰ সুৰক্ষাৰ কাৰণে এই প্লাগ-ইনক বাধা দিয়া হৈছে ।">
-<!ENTITY missingPlugin.label                                 "প্লাগ-ইন ডাউন্‌লোড কৰিবলৈ ইয়াত টিপক ।">
+<!-- LOCALIZATION NOTE (reloadPlugin.pre): include a trailing space as needed -->
+<!-- LOCALIZATION NOTE (reloadPlugin.middle): avoid leading/trailing spaces, this text is a link -->
+<!-- LOCALIZATION NOTE (reloadPlugin.post): include a starting space as needed -->
+<!ENTITY reloadPlugin.pre                                    "">
+<!ENTITY reloadPlugin.middle                                 "পৃষ্ঠা পুনৰ লোড কৰক">
+<!ENTITY reloadPlugin.post                                   " পুনৰ চেষ্টা কৰিবলে।">
+<!-- LOCALIZATION NOTE (report.please): This and the other report.* strings should be as short as possible, ideally 2-3 words. -->
+<!ENTITY report.please                                       "স্খলন সংবাদ পঠাওক">
+<!ENTITY report.submitting                                   "সংবাদ পঠোৱা হৈ আছে…">
+<!ENTITY report.submitted                                    "স্খলন সংবাদ পঠোৱা হল।">
+<!ENTITY report.disabled                                     "স্খলন সংবাদ পঠোৱা অসামৰ্থবান কৰা হৈছে।">
+<!ENTITY report.failed                                       "জমাকৰন ব্যৰ্থ।">
+<!ENTITY report.unavailable                                  "কোনো সংবাদ উপলব্ধ নাই।">
+
+

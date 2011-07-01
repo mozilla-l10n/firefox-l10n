@@ -26,7 +26,7 @@
 
 <!ENTITY netOffline.title "অফলাইন ধৰণ">
 <!ENTITY netOffline.longDesc "<p>চৰক অফলাইন ধৰনত কাম কৰিছে আৰু অনুৰোধ কৰা বস্তুটোলৈ সংযোগ কৰিব নোৱাৰে ।</p><ul><li>এই কম্পিউটাৰ কোনো সক্ৰীয় নে'টৱৰ্কৰ সৈতে সংযোগ কৰা আছে নেকি ?</li><li>চৰকক অন-লাইন ধৰণত ৰাখক আৰু পুনঃ চেষ্টা কৰক ।</li></ul>">
-
+<!ENTITY netOffline.overrideLongDesc "<p>ব্ৰাউছাৰ অফলাইন অৱস্তাত চলি আছে আৰু অনুৰোধিত বস্তুৰ লগত সংযোগ কৰিব নোৱাৰে।</p><ul><li>কমপিউটাৰটো এটা স্কৰিয় নেটৱাৰ্কৰ লগত সংযোগিত নে?</li><li>ব্ৰাউছাৰটোক অফলাইন অৱস্তাত ৰাখক আৰু পুনৰ চেষ্টা কৰক।</li></ul>">
 <!ENTITY contentEncodingError.title "বিষয়বস্তু গুপুতকৰণত ভুল">
 <!ENTITY contentEncodingError.longDesc "<p>আপুনি চাব বিচৰা পৃষ্ঠা দেখুৱাব নোৱাৰি কাৰণ তাত সংকোচনৰ এটা অসমৰ্থিত ধৰণ আছে ।</p><ul><li>এই সমস্যাৰ কথা জনাবলৈ ৱেব ছাইটৰ গৰাকীহঁতৰ সৈতে সম্পৰ্ক কৰক ।</li></ul>">
 
@@ -81,9 +81,14 @@
 <p>এই ধৰণৰ ৱেব জালিয়াতীক স্কেমত ব্যৱহাৰ কৰা হয় যাক ফিশিং আক্ৰমণ কোৱা হয়, য'ত ছল থকা ৱেব পৃষ্ঠা আৰু ঈ-মেইলক আপোনাৰ বিশ্বাসী উৎসৰে নকল কৰা হয় ।</p>
 ">
 
+<!ENTITY cspFrameAncestorBlocked.title "সমল সুৰক্ষা নীতিৰ দ্বাৰা প্ৰতিৰোধিত">
+<!ENTITY cspFrameAncestorBlocked.longDesc "<p>ব্ৰাউছাৰে পৃষ্ঠাটোক এইধৰণে লোড হোৱাৰ পৰা বাধা দিছে কাৰণ পৃষ্ঠাটোৰ এটা সমল সুৰক্ষা নীতি আছে যোনে ইয়াৰ অনুমতি নিদিয়ে।</p>">
+
 <!-- Include app-specific error messages - do not change this in localization!
      Some applications might override netErrorApp.dtd with their specific version,
      this inclusion needs to be intact for that approach to work correctly. -->
 <!ENTITY % netErrorAppDTD SYSTEM "chrome://global/locale/netErrorApp.dtd">
 %netErrorAppDTD;
 
+<!ENTITY remoteXUL.title "দুৰৱৰ্তী  XUL">
+<!ENTITY remoteXUL.longDesc "<p><ul><li>Please contact the website owners to inform them of this problem.</li></ul></p>">

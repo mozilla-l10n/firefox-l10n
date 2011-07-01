@@ -5,8 +5,8 @@
 <!ENTITY startupHomePage.label     "মোৰ ঘৰৰ পৃষ্ঠা দেখুৱাওক">
 <!ENTITY startupBlankPage.label    "ৰিক্ত পৃষ্ঠা দেখুৱাওক">
 <!ENTITY startupLastSession.label  "যোৱা বাৰৰ মোৰ সংযোগক্ষেত্ৰ আৰু টেবসমূহ দেখুৱাওক">
-<!ENTITY location.label            "ঘৰৰ পৃষ্ঠা:">
-<!ENTITY location.accesskey        "H">
+<!ENTITY homepage.label            "ঘৰ পৃষ্ঠা:">
+<!ENTITY homepage.accesskey        "P">
 <!ENTITY useCurrentPage.label      "বৰ্ত্তমানৰ পৃষ্ঠা ব্যৱহাৰ কৰক">
 <!ENTITY useCurrentPage.accesskey  "C">
 <!ENTITY useMultiple.label         "বৰ্ত্তমানৰ পৃষ্ঠাসমূহ ব্যৱহাৰ কৰক">

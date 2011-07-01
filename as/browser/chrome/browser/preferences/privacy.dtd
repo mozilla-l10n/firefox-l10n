@@ -1,96 +1,80 @@
-<!ENTITY  history.label "ইতিহাস">
+<!ENTITY tracking.label                 "অনুসৰণ কৰা হৈ আছে">
 
-<!-- LOCALIZATION NOTE:
-  The entities rememberBefore.label and rememberAfter.label appear on a single
-  line in preferences as follows:
+<!ENTITY doNotTrack.label               "ৱেবছাইঠসমূহক কোৱা মোক অনুসৰণ কৰিব নালাগে">
+<!ENTITY doNotTrack.accesskey           "d">
 
-  &rememberBefore.label  [ textbox for number of days ]   &rememberAfter.label;
--->
-<!ENTITY  rememberDaysBefore.label      "মোৰ ইতিহাস অতি কমেও ৰাখক">
-<!ENTITY  rememberDaysBefore.accesskey  "h">
-<!ENTITY  rememberDaysAfter2.label      "দিনলৈ">
+<!ENTITY  history.label                 "ইতিহাস">
 
-<!ENTITY  rememberForms.label           "ফৰ্ম আৰু বিচৰাৰ বাৰত দিয়া তথ্য মনত ৰাখিব">
-<!ENTITY  rememberForms.accesskey       "f">
+<!ENTITY  locationBar.label             "অৱস্থান বাৰ">
 
-<!ENTITY  rememberDownloads.label       "মই ডাউন্‌লোড কৰা মনত ৰাখিব">
-<!ENTITY  rememberDownloads.accesskey   "d">
+<!ENTITY  locbar.pre.label              "অৱস্থান বাৰ ব্যৱহাৰ কৰি থাকোতে, উপদেশ দিয়ক:">
+<!ENTITY  locbar.pre.accessKey          "u">
+<!ENTITY  locbar.post.label             "">
+<!ENTITY  locbar.both.label             "ইতিহাস আৰু পত্ৰচিহ্নসমূহ">
+<!ENTITY  locbar.history.label          "ইতিহাস">
+<!ENTITY  locbar.bookmarks.label        "পত্ৰচিহ্নসমূহ">
+<!ENTITY  locbar.nothing.label          "একো নাই">
 
 
-<!ENTITY  cookies.label                 "কুকিসমূহ">
+<!ENTITY  acceptCookies.label           "ছাইটসমূহৰ পৰা কুকি গ্ৰহন কৰক">
+<!ENTITY  acceptCookies.accesskey       "A">
 
-<!ENTITY  acceptCookies.label           "ছাইটৰ পটা কুকি গ্ৰহণ কৰিব">
-<!ENTITY  acceptCookies.accesskey       "c">
+<!ENTITY  acceptThirdParty.label        "তৃতিয়-দল কুকিসমূহ গ্ৰহন কৰক">
+<!ENTITY  acceptThirdParty.accesskey    "c">
 
-<!ENTITY  acceptThirdParty.label        "তৃতীয়-পক্ষীয় কুকি গ্ৰহণ কৰক">
-<!ENTITY  acceptThirdParty.accesskey    "p">
-
-<!ENTITY  keepUntil.label               "এই সময়লৈকে ৰাখিব:">
+<!ENTITY  keepUntil.label               "ৰাখক যেতিয়ালৈকে:">
 <!ENTITY  keepUntil.accesskey           "K">
 
-<!ENTITY  expire.label                  "সিহঁত অন্ত নোহোৱালৈকে">
-<!ENTITY  close.label                   "মই &brandShortName; বন্ধ নকৰোঁ">
-<!ENTITY  askEachTime.label             "মোক প্ৰত্যেকবাৰেই সুধিব">
+<!ENTITY  expire.label                  "তেওলোক অস্তিত্বহীন হয়">
+<!ENTITY  close.label                   "মই বন্ধ কৰো &brandShortName;">
+<!ENTITY  askEachTime.label             "মোক প্ৰতিবাৰে সুধিব">
 
-<!ENTITY  cookieExceptions.label        "অব্যাহতি...">
+<!ENTITY  cookieExceptions.label        "ব্যতিক্ৰমসমূহ…">
 <!ENTITY  cookieExceptions.accesskey    "E">
 
-<!ENTITY  showCookies.label             "কুকি দেখুৱাওক...">
+<!ENTITY  showCookies.label             "কুকিসমূহ দেখুৱাওক…">
 <!ENTITY  showCookies.accesskey         "S">
 
-
-<!ENTITY  privateData.label             "ব্যক্তিগত তথ্য">
-
-<!ENTITY  alwaysClear.label              "মোৰ ব্যক্তিগত তথ্য সদায়ে পৰিষ্কাৰ কৰিব যেতিয়া মই &brandShortName; বন্ধ কৰোঁ">
-<!ENTITY  alwaysClear.accesskey          "w">
-
-
-
-<!ENTITY  clearDataSettings.label        "পছন্দ...">
-<!ENTITY  clearDataSettings.accesskey    "t">
-
-<!ENTITY  clearDataNow.label             "এতিয়া পৰিষ্কাৰ কৰক...">
-<!ENTITY  clearDataNow.accesskey         "N">
-
-
-<!--
-entities below were automatically added by l10nmerge
--->
-
-<!ENTITY  locbar.post.label             "">
-<!ENTITY  rememberDownload.label         "ডাউন্‌লোডৰ ইতিহাস মনত ৰাখিব">
-<!ENTITY  locbar.nothing.label          "একো নাই">
-<!ENTITY  locbar.bookmarks.label        "পত্ৰচিহ্ন">
-<!ENTITY  privateBrowsingAutoStart.label "&brandShortName; এট ব্যক্তিগত চৰণ কৰা অধিবেশনত নিজেই নিজেই খুলিব">
-<!ENTITY  rememberActions.middle.label        ", বা ">
-<!ENTITY  historyHeader.post.label         "">
-<!ENTITY  historyHeader.remember.label     "ইতিহাস মনত ৰাখিব">
-<!ENTITY  historyHeader.pre.label          "&brandShortName; এ কৰিব:">
-<!ENTITY  locbar.both.label             "ইতিহাস আৰু পত্ৰচিহ্ন">
-<!ENTITY  rememberHistory.pre.label      "অতি কমেও ইমান সময়ৰ কাৰণে মোৰ চৰণ কৰা ইতিহাস মনত ৰাখিব">
-<!ENTITY  clearOnCloseSettings.accesskey "t">
-<!ENTITY  clearOnClose.label             "&brandShortName; বন্ধ হ'লে চৰণ কৰাৰ ইতিহাস পৰিষ্কাৰ কৰিব">
-<!ENTITY  historyHeader.dontremember.label "ইতিহাস কেতিয়াও মনত নাৰাখিব">
-<!ENTITY  clearOnClose.accesskey         "r">
-<!ENTITY  dontrememberActions.post.label         "।">
-<!ENTITY  locationBar.label             "স্থানৰ বাৰ">
-<!ENTITY  rememberDownload.accesskey     "d">
-<!ENTITY  dontrememberActions.clearHistory.label "বৰ্ত্তমানৰ সকলো ইতিহাস পৰিষ্কাৰ কৰক">
-<!ENTITY  rememberHistory.post.label     "দিন">
-<!ENTITY  rememberDescription.label      "&brandShortName; এ আপোনাৰ চৰণ কৰা, ডাউন্‌লোড, ফৰ্ম আৰু বিচৰাৰ ইতিহাস মনত ৰাখিব, আৰু আপুনি দৰ্শন কৰা ৱেব ছাইটৰ কুকি ৰাখিব ।">
-<!ENTITY  rememberActions.pre.label           "আপুনি ব্যক্তিগত কুকি ">
-<!ENTITY  rememberActions.removeCookies.label "আঁতৰাব খুজিবও পাৰে">
-<!ENTITY  locbar.history.label          "ইতিহাস">
-<!ENTITY  clearOnCloseSettings.label     "পছন্দ…">
-<!ENTITY  rememberSearchForm.accesskey   "f">
+<!ENTITY  historyHeader.pre.label          "&brandShortName; কৰিব:">
 <!ENTITY  historyHeader.pre.accesskey      "w">
-<!ENTITY  dontrememberDescription.label  "&brandShortName; এ ব্যক্তিগত চৰণ কাৰ্য্যৰ সৈতে একেই পছন্দ ব্যৱহাৰ কৰিব, আৰু আপুনি ৱেব চৰণ কৰোঁতে একো ইতিহাস মনত নাৰাখে ।">
-<!ENTITY  locbar.pre.accessKey          "l">
-<!ENTITY  locbar.pre.label              "স্থানৰ বাৰ ব্যৱহাৰ কৰোঁতে, পৰামৰ্শ দিব:">
-<!ENTITY  rememberHistory.pre.accesskey  "b">
-<!ENTITY  rememberActions.post.label          "।">
-<!ENTITY  rememberActions.clearHistory.label  "শেহতীয়া ইতিহাস পৰিষ্কাৰ কৰক">
-<!ENTITY  rememberSearchForm.label       "বিচৰা আৰু ফৰ্মৰ ইতিহাস মনত ৰাখিব">
-<!ENTITY  dontrememberActions.pre.label          "আপুনি এইটোও কৰিব বিচাৰিব পাৰে ">
-<!ENTITY  privateBrowsingAutoStart.accesskey "A">
-<!ENTITY  historyHeader.custom.label       "ইতিহাসৰ বাবে নিজস্ব পছন্দ ব্যৱহাৰ কৰক">
+<!ENTITY  historyHeader.remember.label     "ইতিহাস মনত ৰাখক">
+<!ENTITY  historyHeader.dontremember.label "ইতিহাস কেতিয়াও মনত নাৰাখিব">
+<!ENTITY  historyHeader.custom.label       "ইতিহাসৰ বাবে স্বনিৰ্বাচিত সংহতিসমূহ ব্যৱহাৰ কৰক">
+<!ENTITY  historyHeader.post.label         "">
+
+<!ENTITY  rememberDescription.label      "&brandShortName; -এ আপোনাৰ ব্ৰাউছিং, ডাউনলোড, বিন্যাস আৰু সন্ধান ইতিহাস মনত ৰাখিব আৰু আপুনি চোৱা ছাইটসমূহৰ কুকি ৰাখিব।">
+
+<!-- LOCALIZATION NOTE (rememberActions.pre.label): include a trailing space as needed -->
+<!-- LOCALIZATION NOTE (rememberActions.middle.label): include a starting and trailing space as needed -->
+<!-- LOCALIZATION NOTE (rememberActions.post.label): include a starting space as needed -->
+<!ENTITY  rememberActions.pre.label           "আপুনি হয়তো বিচাৰি পাৰে ">
+<!ENTITY  rememberActions.clearHistory.label  "আপোনাৰ সেহতীয়া ইতিহাস সফা কৰক">
+<!ENTITY  rememberActions.middle.label        ", or ">
+<!ENTITY  rememberActions.removeCookies.label "সুকীয়া কুকিসমূহ আতৰাওক">
+<!ENTITY  rememberActions.post.label          ".">
+
+<!ENTITY  dontrememberDescription.label  "&brandShortName; -এ ব্যক্তিগত ব্ৰাউছিংৰ সংহতিসমূহ ব্যৱহাৰ কৰিব, আৰু আপুনি ৱেব ব্ৰাউছ কৰি থাকোতে কোনো ইতিহাস মনত নাৰাখে।">
+
+<!-- LOCALIZATION NOTE (dontrememberActions.pre.label): include a trailing space as needed -->
+<!-- LOCALIZATION NOTE (dontrememberActions.post.label): include a starting space as needed -->
+<!ENTITY  dontrememberActions.pre.label          "আপুনি হয়তো অতিৰিক্তভাৱে বিচাৰিব পাৰে ">
+<!ENTITY  dontrememberActions.clearHistory.label "সকলো বৰ্তমান ইতিহাস সফা কৰক">
+<!ENTITY  dontrememberActions.post.label         ".">
+
+<!ENTITY  privateBrowsingPermanent.label "চিৰস্থায়ী ব্যক্তিগত ব্ৰাউছিং অৱস্থা">
+<!ENTITY  privateBrowsingPermanent.accesskey "P">
+
+<!ENTITY  rememberHistory.label      "মোৰ ব্ৰাউছিং ইতিহাস মনত ৰাখিব">
+<!ENTITY  rememberHistory.accesskey  "b">
+
+<!ENTITY  rememberDownload.label         "ডাউনলোড ইতিহাস মনত ৰাখিব">
+<!ENTITY  rememberDownload.accesskey     "d">
+
+<!ENTITY  rememberSearchForm.label       "সন্ধান আৰু বিন্যাস ইতিহাস মনত ৰাখিব">
+<!ENTITY  rememberSearchForm.accesskey   "f">
+
+<!ENTITY  clearOnClose.label             "যেতিয়া &brandShortName; বন্ধ হব সেহতীয়া ইতিহাস সফা কৰিব">
+<!ENTITY  clearOnClose.accesskey         "r">
+
+<!ENTITY  clearOnCloseSettings.label     "সংহতিসমূহ…">
+<!ENTITY  clearOnCloseSettings.accesskey "t">

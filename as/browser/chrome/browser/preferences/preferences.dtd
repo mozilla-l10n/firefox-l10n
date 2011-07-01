@@ -3,20 +3,17 @@
 <!ENTITY  prefWindow.titleGNOME   "&brandShortName; পছন্দ">
 <!-- When making changes to prefWindow.styleWin test both Windows Classic and
      Luna since widget heights are different based on the OS theme -->
-<!ENTITY  prefWin.styleMac2       "width: 47em; min-height: 40em;">
-<!ENTITY  prefWin.styleGNOME2     "width: 42em; min-height: 39.5em;">
+<!ENTITY  prefWinMinSize.styleWin2      "প্ৰস্থ: 42em; নূন্যতম-উচ্চতা: 37.5em;">
+<!ENTITY  prefWinMinSize.styleMac       "প্ৰস্থ: 47em; নূন্যতম-উচ্চতা: 40em;">
+<!ENTITY  prefWinMinSize.styleGNOME     "প্ৰস্থ: 45.5em; নূন্যতম-উচ্চতা: 40.5em;">
 
-<!ENTITY  paneMain.title          "প্ৰমুখ">
+<!ENTITY  paneGeneral.title       "General">
 <!ENTITY  paneTabs.title          "টেব">
 <!ENTITY  paneContent.title       "বিষয়বস্তু">
+<!ENTITY  paneApplications.title  "অনুপ্ৰয়োগসমূহ">
 <!ENTITY  panePrivacy.title       "গোপনীয়তা">
 <!ENTITY  paneSecurity.title      "সুৰক্ষা">
 <!ENTITY  paneAdvanced.title      "উন্নত">
 
-
-<!--
-entities below were automatically added by l10nmerge
--->
-
-<!ENTITY  paneApplications.title  "অনুপ্ৰয়েগসমূহ">
-<!ENTITY  prefWin.styleWin3       "width: 42em; min-height: 37.5em;">
+<!-- LOCALIZATION NOTE (paneSync.title): This should match syncBrand.shortName.label in ../syncBrand.dtd -->
+<!ENTITY  paneSync.title          "সংমিহলী">

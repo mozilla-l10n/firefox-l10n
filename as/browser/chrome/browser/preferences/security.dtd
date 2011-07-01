@@ -8,15 +8,11 @@
   useDownloadedList.label convey the meaning "suspected" (and not something like
   "known").
 -->
+<!ENTITY  blockAttackSites.label     "আক্ৰমণৰ ছাইটক বাধা দিয়ক">
+<!ENTITY  blockAttackSites.accesskey "k">
 
-
-
-<!-- LOCALIZATION NOTE (askThirdParty.label):
-  The entities askThirdParty.label and askThirdPartyAfter.label appear on a
-  single line in preferences as follows:
-
-  &askThirdParty.label  [ menulist of phishing list providers ]   &askThirdPartyAfter.label;
--->
+<!ENTITY  blockWebForgeries.label     "প্ৰতিবেদন কৰা ৱেব জালিয়াতিক বাধা দিয়ক">
+<!ENTITY  blockWebForgeries.accesskey "B">
 
 <!ENTITY  addonExceptions.label         "ব্যতিক্ৰম...">
 <!ENTITY  addonExceptions.accesskey     "E">
@@ -36,21 +32,3 @@
 
 <!ENTITY  savedPasswords.label            "সংৰক্ষিত গুপ্তশব্দ…">
 <!ENTITY  savedPasswords.accesskey        "P">
-
-
-<!ENTITY  warnings.label                "সাৱধান সম্বাদ">
-
-<!ENTITY  chooseWarnings.label          "ৱেব চৰণ কৰোঁতে কোনবোৰ সাৱধানৰ সম্বাদ চাব বিচাৰে নিৰ্ব্বাচন কৰক">
-
-<!ENTITY  warningSettings.label         "পছন্দ...">
-<!ENTITY  warningSettings.accesskey     "S">
-
-
-<!--
-entities below were automatically added by l10nmerge
--->
-
-<!ENTITY  blockWebForgeries.label     "প্ৰতিবেদন কৰা ৱেব জালিয়াতিক বাধা দিয়ক">
-<!ENTITY  blockAttackSites.label     "আক্ৰমণৰ ছাইটক বাধা দিয়ক">
-<!ENTITY  blockWebForgeries.accesskey "B">
-<!ENTITY  blockAttackSites.accesskey "k">

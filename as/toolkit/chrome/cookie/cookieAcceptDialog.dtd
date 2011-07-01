@@ -1,4 +1,3 @@
-
 <!ENTITY     props.name.label               "নাম:">
 <!ENTITY     props.value.label              "বিষয়বস্তু:">
 <!ENTITY     props.domain.label             "গৃহস্থ:">
@@ -17,4 +16,3 @@
 <!ENTITY     dialog.title                   "কুকি প্ৰতিষ্ঠা কৰা নিশ্চিত কৰক">
 <!ENTITY     dialog.remember.label          "এই ছাইটৰ সকলো কুকিৰ বাবে মোৰ পছন্দ ব্যৱহাৰ কৰক">
 <!ENTITY     dialog.remember.accesskey      "U">
-

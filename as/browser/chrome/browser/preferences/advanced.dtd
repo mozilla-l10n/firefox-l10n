@@ -1,5 +1,4 @@
-<!-- Note: due to bug 143065, the only remaining accesskeys available to be used
-     in the Advanced pane are: "b", "j", "q", "z" -->
+<!-- Note: each tab panel must contain unique accesskeys -->
 
 <!ENTITY generalTab.label                "সাধাৰণ">
 
@@ -18,6 +17,8 @@
 <!ENTITY useAutoScroll.accesskey         "a">
 <!ENTITY useSmoothScrolling.label        "মিহিকৈ স্ক্ৰ'ল কৰক">
 <!ENTITY useSmoothScrolling.accesskey    "m">
+<!ENTITY allowHWAccel.label              "যেতিয়া উপলব্ধ তেতিয়া হাৰ্ডওৱেৰ ত্বৰণ ব্যৱহাৰ কৰক">
+<!ENTITY allowHWAccel.accesskey          "h">
 <!ENTITY checkSpelling.label             "মই লিখাৰ সময়তে বানান পৰীক্ষা কৰক">
 <!ENTITY checkSpelling.accesskey         "t">
 
@@ -26,6 +27,8 @@
 <!ENTITY alwaysCheckDefault.accesskey    "w">
 <!ENTITY checkNow.label                  "এতিয়া পৰীক্ষা কৰক">
 <!ENTITY checkNow.accesskey              "N">
+<!ENTITY submitCrashes.label             "স্খলন সংবাদ জমা কৰক">
+<!ENTITY submitCrashes.accesskey         "S">
 
 
 <!ENTITY networkTab.label                "নে'টৱৰ্ক">
@@ -44,19 +47,22 @@
 
   &useCacheBefore.label  [ textbox for cache size in MB ]   &useCacheAfter.label;
 -->
-<!ENTITY useCacheBefore.label            "এইটোলৈ ব্যৱহাৰ কৰক">
-<!ENTITY useCacheBefore.accesskey        "U">
-<!ENTITY useCacheAfter.label             "কেছেৰ বাবে ইমান MB ৰ স্থান">
+<!ENTITY limitCacheSizeBefore.label      "ক্যাশক সীমিত কৰক">
+<!ENTITY limitCacheSizeBefore.accesskey  "L">
+<!ENTITY limitCacheSizeAfter.label       "MB স্থান">
 <!ENTITY clearCacheNow.label             "এতিয়া পৰিষ্কাৰ কৰক">
 <!ENTITY clearCacheNow.accesskey         "C">
+<!ENTITY overrideSmartCacheSize.label    "স্বচালিত ক্যাশ ব্যৱস্থাপনা অভাৰৰাইড কৰক">
+<!ENTITY overrideSmartCacheSize.accesskey "O">
+
 
 <!ENTITY updateTab.label                 "উন্নয়ন">
 
 <!ENTITY autoCheck.label                 "ইয়াৰ উন্নয়ন স্বয়ং পৰীক্ষা কৰিব:">
 <!ENTITY enableAppUpdate.label           "&brandShortName;">
 <!ENTITY enableAppUpdate.accesskey       "F">
-<!ENTITY enableAddonsUpdate.label        "সংস্থাপিত অতিৰিক্ত কাৰ্য্যক্ৰম">
-<!ENTITY enableAddonsUpdate.accesskey    "n">
+<!ENTITY enableAddonsUpdate2.label       "এড-অন সমূহ">
+<!ENTITY enableAddonsUpdate2.accesskey   "n">
 <!ENTITY enableSearchUpdate.label        "বিচৰাৰ কলঘৰ">
 <!ENTITY enableSearchUpdate.accesskey    "h">
 <!ENTITY whenUpdatesFound.label          "যেতিয়া &brandShortName; ৰ উন্নয়ন পোৱা যাব:">
