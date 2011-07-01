@@ -164,7 +164,8 @@
 <!ENTITY eula.height                          "400px">
 <!ENTITY eula.title                           "અંતિમ-વપરાશકર્તા લાઇસન્સ સંમતિ">
 <!ENTITY eula.width                           "560px">
-
+<!ENTITY info.plugincheck.label                 "જોવા માટે ચકાસો જો તમારા પ્લગઇનો અદ્યતન છે">
+<!ENTITY info.plugincheck.tooltip               "જોવા માટે ચકાસો જો તમારા પ્લગઇનો અદ્યતન છે">
 
 
 
