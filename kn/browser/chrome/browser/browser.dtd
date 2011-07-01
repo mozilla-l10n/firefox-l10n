@@ -56,7 +56,7 @@
 <!ENTITY subscribeToPageMenupopup.label "ಈ ಪುಟಕ್ಕೆ ಚಂದಾದಾರನಾಗಿಸು">
 <!ENTITY subscribeToPageMenuitem.label "ಈ ಪುಟಕ್ಕೆ ಚಂದಾದಾರನಾಗಿಸು...">
 <!ENTITY addCurPagesCmd.label "ಎಲ್ಲಾ ಹಾಳೆಗಳನ್ನು ಬುಕ್‍ಮಾರ್ಕ್ ಮಾಡು...">
-<!ENTITY bookmarkAllCmd.label "ಎಲ್ಲಾ ಹಾಳೆಗಳನ್ನು ಬುಕ್‍ಮಾರ್ಕ್‍ ಮಾಡು...">
+<!--ENTITY bookmarkAllCmd.label "ಎಲ್ಲಾ ಹಾಳೆಗಳನ್ನು ಬುಕ್‍ಮಾರ್ಕ್‍ ಮಾಡು..."-->
 
 <!ENTITY backCmd.label                "ಹಿಂದಕ್ಕೆ">
 <!ENTITY backCmd.accesskey            "B">

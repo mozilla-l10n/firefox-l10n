@@ -39,7 +39,7 @@
 <!ENTITY setup.newSyncKeyPage.description.label "ನಿಮ್ಮ ಒಟ್ಟು ಖಾಸಗೀತನವನ್ನು ಖಾತ್ರಿಪಡಿಸಲು, ನಿಮ್ಮ ಎಲ್ಲಾ ಮಾಹಿತಿಯನ್ನು ಅಪ್‌ಲೋಡ್ ಮಾಡುವ ಮೊದಲು ಗೂಢಲಿಪೀಕರಿಸಲಾಗುತ್ತದೆ. ಮಾಹಿತಿಯನ್ನು ಡೀಕ್ರಿಪ್ಟ್‍ ಮಾಡಲು ಅಗತ್ಯವಿರುವ ಸಿಂಕ್ ಕೀಲಿಯನ್ನು ಅಪ್‌ಲೋಡ್ ಮಾಡಲಾಗುವುದಿಲ್ಲ.">
 <!ENTITY syncKeyEntry.label        "ನಿಮ್ಮ ಸಿಂಕ್ ಕೀಲಿ">
 <!ENTITY syncKeyEntry.accesskey    "K">
-<!ENTITY syncKeyGenerate.label     "ಉತ್ಪಾದಿಸು">
+<!--ENTITY syncKeyGenerate.label     "ಉತ್ಪಾದಿಸು"-->
 <!ENTITY syncKeyBackup.description "&syncBrand.fullName.label; ಅನ್ನು ಇತರೆ ಗಣಕಗಳಲ್ಲಿ ನಿಲುಕಿಸಿಕೊಳ್ಳಲು ನಿಮ್ಮ ಸಿಂಕ್ ಕೀಲಿಯ ಅಗತ್ಯವಿರುತ್ತದೆ. ದಯವಿಟ್ಟು ಒಂದು ಬ್ಯಾಕ್ಅಪ್ ಪ್ರತಿಯನ್ನು ಇರಿಸಿಕೊಳ್ಳಿ. ನಿಮ್ಮ ಸಿಂಕ್ ಕೀಲಿಯನ್ನು ಹಿಂದಕ್ಕೆ ಪಡೆಯಲು ನಾವು ನೆರವು ನೀಡಲು ಸಾಧ್ಯವಿರುವುದಿಲ್ಲ.">
 
 <!ENTITY button.syncKeyBackup.print.label     "ಮುದ್ರಿಸು…">
