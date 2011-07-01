@@ -76,7 +76,7 @@ can reach it easily. -->
 <!ENTITY pageSourceCmd.label "מקור הדף">
 <!ENTITY pageSourceCmd.accesskey "ר">
 <!ENTITY pageSourceCmd.commandkey "u">
-<!ENTITY pageInfoCmd.label "מידע אודות הדף">
+<!ENTITY pageInfoCmd.label "מידע על הדף">
 <!ENTITY pageInfoCmd.accesskey "מ">
 <!ENTITY pageInfoCmd.commandkey "i">
 <!ENTITY fullScreenCmd.label "מסך מלא">
@@ -98,13 +98,13 @@ can reach it easily. -->
 
 <!ENTITY bookmarksMenu.label "סימניות">
 <!ENTITY bookmarksMenu.accesskey "ס">
-<!ENTITY bookmarkThisPageCmd.label "צור סימניה לדף זה">
+<!ENTITY bookmarkThisPageCmd.label "צור סימנייה לדף זה">
 <!ENTITY bookmarkThisPageCmd.commandkey "d">
 <!ENTITY subscribeToPageMenupopup.label "הירשם לדף זה">
 <!ENTITY subscribeToPageMenuitem.label "הירשם לדף זה...">
 <!ENTITY addCurPagesCmd.label "הוסף סימנייה לכל הלשוניות...">
 <!ENTITY showAllBookmarks2.label "הצג את כל הסימניות">
-<!ENTITY unsortedBookmarksCmd.label "סימניות לא ממויינות">
+<!ENTITY unsortedBookmarksCmd.label "סימניות לא ממוינות">
 <!ENTITY bookmarksToolbarChevron.tooltip "הצג סימניות נוספות">
 
 <!ENTITY backCmd.label                "אחורה">
@@ -148,7 +148,7 @@ can reach it easily. -->
 
 <!ENTITY bookmarksMenuButton.label          "סימניות">
 <!ENTITY bookmarksMenuButton.tooltip        "הצגת הסימניות שלך">
-<!ENTITY bookmarksMenuButton.unsorted.label "סימניות לא ממויינות">
+<!ENTITY bookmarksMenuButton.unsorted.label "סימניות לא ממוינות">
 <!ENTITY viewBookmarksSidebar.label         "הצג בסרגל הצד">
 <!ENTITY viewBookmarksToolbar.label         "הצג סרגל סימניות">
 
@@ -302,7 +302,7 @@ can reach it easily. -->
 <!ENTITY appMenuToolbarLayout.label "פריסת סרגל הכלים…">
 <!ENTITY appMenuSidebars.label "סרגלי צד">
 <!ENTITY appMenuFind.label "מצא…">
-<!ENTITY appMenuUnsorted.label "סימניות לא ממויינות">
+<!ENTITY appMenuUnsorted.label "סימניות לא ממוינות">
 <!ENTITY appMenuWebDeveloper.label "כלי פיתוח">
 <!ENTITY appMenuGettingStarted.label "התחל כאן">
 <!ENTITY appMenuSafeMode.label "הפעלה מחדש עם תוספות מנוטרלות…">
@@ -361,9 +361,9 @@ can reach it easily. -->
 <!ENTITY viewPageSourceCmd.accesskey  "מ">
 <!ENTITY viewFrameSourceCmd.label     "הצג מקור המסגרת">
 <!ENTITY viewFrameSourceCmd.accesskey "מ">
-<!ENTITY viewPageInfoCmd.label        "הצג מידע אודות הדף">
+<!ENTITY viewPageInfoCmd.label        "הצג מידע על הדף">
 <!ENTITY viewPageInfoCmd.accesskey    "ד">
-<!ENTITY viewFrameInfoCmd.label       "הצג מידע אודות המסגרת">
+<!ENTITY viewFrameInfoCmd.label       "הצג מידע על המסגרת">
 <!ENTITY viewFrameInfoCmd.accesskey   "ד">
 <!ENTITY reloadImageCmd.label         "טען מחדש תמונה">
 <!ENTITY reloadImageCmd.accesskey     "ת">
@@ -377,11 +377,11 @@ can reach it easily. -->
 <!ENTITY viewBGImageCmd.accesskey     "ת">
 <!ENTITY setDesktopBackgroundCmd.label      "קבע כתמונת רקע...">
 <!ENTITY setDesktopBackgroundCmd.accesskey  "כ">
-<!ENTITY bookmarkPageCmd2.label       "צור סימניה לדף זה">
+<!ENTITY bookmarkPageCmd2.label       "צור סימנייה לדף זה">
 <!ENTITY bookmarkPageCmd2.accesskey   "ס">
-<!ENTITY bookmarkThisLinkCmd.label      "צור סימניה לקישור זה">
+<!ENTITY bookmarkThisLinkCmd.label      "צור סימנייה לקישור זה">
 <!ENTITY bookmarkThisLinkCmd.accesskey  "ק">
-<!ENTITY bookmarkThisFrameCmd.label      "צור סימניה למסגרת זו">
+<!ENTITY bookmarkThisFrameCmd.label      "צור סימנייה למסגרת זו">
 <!ENTITY bookmarkThisFrameCmd.accesskey  "מ">
 <!ENTITY sendPageCmd.label            "שלח דף...">
 <!ENTITY sendPageCmd.accesskey        "ל">
