@@ -22,9 +22,10 @@
 <!ENTITY password.manage                 "ಗುಪ್ತಪದಗಳನ್ನು ವ್ಯವಸ್ಥಾಪಿಸು…">
 
 <!ENTITY cookie.label                    "ಕುಕಿಗಳನ್ನು ಹೊಂದಿಸು">
-<!ENTITY cookie.remove                   "ಕುಕಿಗಳನ್ನು ತೆಗೆದುಹಾಕು">
+<!ENTITY cookie.clear                    "ಕುಕಿಗಳನ್ನು ಅಳಿಸಿಹಾಕು">
 <!ENTITY cookie.manage                   "ಕುಕಿಗಳನ್ನು ವ್ಯವಸ್ಥಾಪಿಸು…">
-<!ENTITY cookie.removeAll                "ಎಲ್ಲಾ ಕುಕಿಗಳನ್ನು ತೆಗೆದುಹಾಕು">
+<!ENTITY cookie.clearAll                 "ಎಲ್ಲಾ ಕುಕಿಗಳನ್ನು ಅಳಿಸಿಹಾಕು">
+
 
 <!ENTITY geo.label                       "ತಾಣವನ್ನು ಹಂಚಿಕೊ">
 
