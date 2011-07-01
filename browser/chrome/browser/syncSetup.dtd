@@ -43,7 +43,7 @@
 <!ENTITY setup.newSyncKeyPage.description.label "Pentru a asigura total confidențialitatea datelor dumneavoastră, ele sunt criptate înainte de a fi încărcate. Cheia de sincronizare, necesară pentru a decripta datele dumneavoastră, nu este încărcată pe server.">
 <!ENTITY syncKeyEntry.label        "Cheia de sincronizare">
 <!ENTITY syncKeyEntry.accesskey    "C">
-<!ENTITY syncGenerateNewKey.label  "Generate a new key">
+<!ENTITY syncGenerateNewKey.label  "Generează o cheie nouă">
 <!ENTITY syncKeyBackup.description "Cheia dumneavoastră de sincronizare este necesară pentru a folosi &syncBrand.fullName.label; pe alte dispozitive. Vă rugăm să creați o copie de rezervă. Noi nu vă putem ajuta să vă recuperați cheia de sincronizare.">
 
 <!ENTITY button.syncKeyBackup.print.label     "Tipărește…">
