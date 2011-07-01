@@ -3,6 +3,7 @@
 <!ENTITY     cookiesonsystem.label          "নিম্নলিখিত কুকি আপোনাৰ কম্পিউটাৰত আছে:">
 <!ENTITY     cookiename.label               "কুকিৰ নাম">
 <!ENTITY     cookiedomain.label             "ছাইট"> 
+<!ENTITY     button.removecookies.label     "কুকিসমূহ আতৰাওক">
 <!ENTITY     button.removecookie.label      "কুকি আঁতৰাওক">
 <!ENTITY     button.removecookie.accesskey  "R">
 <!ENTITY     button.removeallcookies.label  "সকলো কুকি আঁতৰাওক">
@@ -25,4 +26,3 @@
 
 <!ENTITY     button.close.label             "বন্ধ কৰক">
 <!ENTITY     button.close.accesskey         "C">
-

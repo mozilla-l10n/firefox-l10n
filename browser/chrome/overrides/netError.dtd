@@ -51,7 +51,12 @@
 <!ENTITY netInterrupt.longDesc "&sharedLongDesc;">
 
 <!ENTITY netOffline.title "অফলাইন ধৰণ">
-<!ENTITY netOffline.longDesc "
+<!-- LOCALIZATION NOTE (netOffline.overrideLongDesc) - This string should
+     indicate that "Work Offline" is a menu item without being too specific,
+     since it could be in either the normal menu (Mac/Linux) or the Firefox button
+     menu (Windows).
+-->
+<!ENTITY netOffline.overridelongDesc "
 <ul>
   <li>&quot;অফলাইন হিচাপে কাম কৰক&quot; ক নথিপত্ৰৰ তালিকাত নিৰ্ব্বাচন কৰিব, তাৰ পিছত পুনঃ চেষ্টা কৰক ।</li>
 </ul>
@@ -153,6 +158,9 @@
 <p>এই ধৰণৰ ৱেব জালিয়াতি ফিশ্বিং এটেক নামৰ কেলেংকাৰিত ব্যৱহাৰ হয়, য'ত জালী ৱেব পৃষ্ঠা আৰু ঈ-মেইল ব্যৱহাৰ কৰা হয় আপোনাৰ বিশ্বাসী উৎসক নকল কৰিবলৈ ।</p>
 ">
 
+<!ENTITY cspFrameAncestorBlocked.title "সমল সুৰক্ষা নীতিৰ দবাৰা প্ৰতিৰোধিত">
+<!ENTITY cspFrameAncestorBlocked.longDesc "<p>&brandShortName; পৃষ্ঠাটোক এই ধৰনে লোড হোৱাৰ পৰা প্ৰতিৰোধ কৰিলে কাৰণ পৃষ্ঠাটোৰ এটা সমল সুৰক্ষা নীতি আছে যিটোৱে ইয়াৰ অনুমতি নিদিয়ে</p>">
+
 <!ENTITY securityOverride.linkText "বা আপুনি এটা ব্যতিক্ৰম যোগ কৰিব পাৰে…">
 <!ENTITY securityOverride.getMeOutOfHereButton "মোক ইয়াৰ পৰা লৈ যাওক!">
 <!ENTITY securityOverride.exceptionButtonLabel "ব্যতিক্ৰম যোগ কৰক…">
@@ -165,7 +173,9 @@ netError.xhtml) because it exposes functionality specific to firefox. -->
 <!ENTITY securityOverride.warningText "
 <p>সম্পূৰ্ণ ভাবে বিশ্বাস নথকা ইন্টাৰ্নে'ট সংযোগ  বা এই সেৱকৰ বাবে সকিয়নি চোৱাৰ অভ্যাস নাথাকিলে আপুনি ব্যতিক্ৰম যোগ কৰিব নালাগে ।</p>
 
-<xul:button xmlns:xul='http://www.mozilla.org/keymaster/gatekeeper/there.is.only.xul' id='getMeOutOfHereButton' label='&securityOverride.getMeOutOfHereButton;'/>
-<xul:button xmlns:xul='http://www.mozilla.org/keymaster/gatekeeper/there.is.only.xul' id='exceptionDialogButton' label='&securityOverride.exceptionButtonLabel;'/>
+<button id='getMeOutOfHereButton'>&securityOverride.getMeOutOfHereButton;</button>
+<button id='exceptionDialogButton'>&securityOverride.exceptionButtonLabel;</button>
 ">
 
+<!ENTITY remoteXUL.title "Remote XUL">
+<!ENTITY remoteXUL.longDesc "<p><ul><li>এই সমস্যাৰ বিষয়ে জনাবলে অনুগ্ৰহ কৰি ৱেবছাইটৰ মালিকক যোগাযোগ কৰক।</li></ul></p>">

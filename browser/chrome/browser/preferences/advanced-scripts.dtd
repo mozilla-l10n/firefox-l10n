@@ -46,7 +46,3 @@
 <!ENTITY raiseLowerWindows.accesskey    "R">
 <!ENTITY disableContextMenus.label      "পৰিস্থিতিৰ তালিকা নিষ্ক্ৰীয় বা সলনি কৰক">
 <!ENTITY disableContextMenus.accesskey  "D">
-<!ENTITY hideStatusBar.label            "অৱস্থাৰ বাৰ লুকাওক">
-<!ENTITY hideStatusBar.accesskey        "H">
-<!ENTITY changeStatusBar.label          "অৱস্থাৰ বাৰৰ লিপি সলনি কৰক">
-<!ENTITY changeStatusBar.accesskey      "C">

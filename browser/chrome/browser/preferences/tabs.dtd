@@ -1,4 +1,5 @@
-
+<!ENTITY newWindowsAsTabs.label       "ইয়াৰ সলনি নতুন সংযোগক্ষেত্ৰক নতুন টেবত খোলক">
+<!ENTITY newWindowsAsTabs.accesskey   "t">
 
 <!ENTITY warnCloseMultipleTabs.label  "বহুত টেব একেলগে বন্ধ কৰিলে মোক সতৰ্ক কৰিব">
 <!ENTITY warnCloseMultipleTabs.accesskey  "m">
@@ -12,9 +13,5 @@
 <!ENTITY switchToNewTabs.label        "এটা নতুন টেবত সংযোগ খুলিলে, তৎক্ষণাত সেইটোলৈ যাব">
 <!ENTITY switchToNewTabs.accesskey    "s">
 
-<!--
-entities below were automatically added by l10nmerge
--->
-
-<!ENTITY newWindowsAsTabs.label       "ইয়াৰ সলনি নতুন সংযোগক্ষেত্ৰক নতুন টেবত খোলক">
-<!ENTITY newWindowsAsTabs.accesskey   "t">
+<!ENTITY showTabsInTaskbar.label          "টেবৰ পুৰ্বদৰ্শনসমূহ উইন্ডোসমূহৰ কাৰ্য্যবাৰত দেখুৱাওক">
+<!ENTITY showTabsInTaskbar.accesskey      "k">

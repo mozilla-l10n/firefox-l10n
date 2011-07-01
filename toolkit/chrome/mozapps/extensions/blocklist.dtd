@@ -8,3 +8,6 @@
 
 <!ENTITY blocklist.accept.label      "&brandShortName; পুনৰাৰম্ভ">
 <!ENTITY blocklist.accept.accesskey  "R">
+
+<!ENTITY blocklist.blocked.label     "প্ৰতিৰোধিত">
+<!ENTITY blocklist.checkbox.label    "অসামৰ্থবান কৰক">

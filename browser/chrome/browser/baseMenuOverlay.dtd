@@ -10,39 +10,29 @@
                        for the help button in the menubar but Gnome does not.   -->
 <!ENTITY helpMenuWin.label        "সহায়"> 
 <!ENTITY helpMenuWin.accesskey    "H">
-<!ENTITY aboutCmd.label           "&brandFullName; ৰ বিষয়ে">
-<!ENTITY aboutCmd.accesskey       "A">
-<!ENTITY helpContents.label       "সহায়ৰ বিষয়বস্তু">
-<!ENTITY helpContents.accesskey   "H">
-<!ENTITY helpContentsMac.label    "&brandShortName; সহায়">
-<!ENTITY helpForIEUsers.label     "Internet Explorer ব্যৱহাৰকৰোঁতাসকলৰ বাবে">
-<!ENTITY helpForIEUsers.accesskey "I">
-<!ENTITY openHelp.commandkey      "VK_F1">
-<!ENTITY openHelpMac.commandkey   "/">
-<!-- LOCALIZATION NOTE openHelpMac2.commandkey and openHelpMac2.modifiers
-                       are all the necessary keys to hit OS X's open-help 
-                       keyboard (visible) shortcut (that's Cmd+? for most locales) -->
-<!ENTITY openHelpMac.modifiers            "accel,shift">
-<!ENTITY openHelpMac.frontendCommandkey   "?">
-<!ENTITY openHelpMac.frontendModifiers    "accel">
+<!ENTITY aboutProduct.label       "&brandShortName; -ৰ বিষয়ে">
+<!ENTITY aboutProduct.accesskey   "A">
+<!ENTITY productHelp.label        "&brandShortName; সহায়">
+<!ENTITY productHelp.accesskey    "H">
+<!ENTITY helpMac.commandkey       "?">
+<!ENTITY helpSafeMode.label       "এড-অন সমূহ অসামৰ্থবান থকাকে পুনৰাম্ভ কৰক…">
+<!ENTITY helpSafeMode.accesskey   "R">
 
-<!ENTITY helpReleaseNotes.label         "মুক্তিৰ টোকা">
-<!ENTITY helpReleaseNotes.accesskey     "N">
-<!ENTITY updateCmd.label                "উন্নয়নৰ বাবে পৰীক্ষা কৰক...">
-<!ENTITY updateCmd.accesskey            "o">
+<!ENTITY helpTroubleshootingInfo.label      "তথ্যৰ সমস্যসমূহ ঠিক কৰা হৈ আছে">
+<!ENTITY helpTroubleshootingInfo.accesskey  "T">
+
+<!ENTITY helpFeedbackPage.label      "সঁহাৰি জমা কৰক…">
+<!ENTITY helpFeedbackPage.accesskey  "S">
 
 <!ENTITY preferencesCmdMac.label        "পছন্দসমূহ...">
 <!ENTITY preferencesCmdMac.commandkey   ",">
-<!ENTITY preferencesCmdMac.modifiers    "accel">
 
 <!ENTITY servicesMenuMac.label          "সেৱাসমূহ">
 
 <!ENTITY hideThisAppCmdMac.label        "&brandShortName; লুকাওক">
 <!ENTITY hideThisAppCmdMac.commandkey   "H">
-<!ENTITY hideThisAppCmdMac.modifiers    "accel">
 
 <!ENTITY hideOtherAppsCmdMac.label      "আনবোৰ বস্তুক লুকাওক">
 <!ENTITY hideOtherAppsCmdMac.commandkey "H">
-<!ENTITY hideOtherAppsCmdMac.modifiers  "accel,alt">
 
 <!ENTITY showAllAppsCmdMac.label        "সকলোকে দেখুৱাওক">

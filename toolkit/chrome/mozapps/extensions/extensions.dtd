@@ -1,176 +1,201 @@
-<!ENTITY addons.title                     "এড-অ'নসমূহ">
+<!ENTITY addons.windowTitle                   "এড-অনসমূহৰ ব্যৱস্থাপক">
+<!ENTITY search.placeholder                   "সকলো এড-অন সন্ধান কৰক">
+<!ENTITY loading.label                        "লোড কৰা হৈ আছে…">
+<!ENTITY listEmpty.installed.label            "ইনস্টল হোৱা এই ধৰণৰ বাবে আপোনাৰ কোনো এড-অন নাই">
+<!ENTITY listEmpty.availableUpdates.label     "কোনো আপডেইট পোৱা নগল">
+<!ENTITY listEmpty.recentUpdates.label        "আপুনি সেহতীয়াভাৱে কোনো এড-অন আপডেইট কৰা নাই">
+<!ENTITY listEmpty.findUpdates.label          "আপডেইটসমূহৰ কাৰণে নিৰিক্ষণ কৰক">
+<!ENTITY listEmpty.search.label               "কোনো মিল থকা এড-অন পোৱা নগল">
+<!ENTITY listEmpty.button.label               "এড-অন সমূহুৰ বিষয়ে অধিক জানক">
+<!ENTITY installAddonFromFile.label           "নথিপত্ৰৰ পৰা এড-অন ইনস্টল কৰক…">
+<!ENTITY installAddonFromFile.accesskey       "I">
+<!ENTITY toolsMenu.tooltip                    "সকলো এড-অনৰ পৰা সঁজুলিসমূহ">
 
-<!-- Default window size for the addon manager in pixels -->
-<!ENTITY em.width                         "520">
-<!ENTITY em.height                        "380">
+<!ENTITY cmd.back.tooltip                     "এটা পৃষ্ঠা পিছলে যাওক">
+<!ENTITY cmd.forward.tooltip                  "এটা পৃষ্ঠা আগলে যাওক">
 
-<!ENTITY cmd.info.commandKey              "i">
-<!ENTITY cmd.options.commandKey           ",">
-<!ENTITY cmd.close.commandKey             "w">
+<!-- global warnings -->
+<!ENTITY warning.safemode.label                    "সকলো এড-অন সুৰক্ষীত অৱস্থা দ্বাৰা অসামৰ্থবান">
+<!ENTITY warning.checkcompatibility.label          "এড-অন খাপ খোৱা নিৰিক্ষণ অসামৰ্থবান কৰা আছে। আপোনাৰ খুব সম্ভব খাপ নোখোৱা এড-অনসমূহ আছে">
+<!ENTITY warning.checkcompatibility.enable.label   "সামৰ্থবান কৰক">
+<!ENTITY warning.checkcompatibility.enable.tooltip "এড-অন খাপ খোৱা নিৰিক্ষণ সামৰ্থবান কৰক">
+<!ENTITY warning.updatesecurity.label              "এড-অন আপডেইট সুৰক্ষা নিৰিক্ষণ অসামৰ্থবান কৰা আছে। আপুনি আপডেইটসমূহৰে আপোচ কৰিব লগিয়া হব পাৰে।">
+<!ENTITY warning.updatesecurity.enable.label       "সামৰ্থবান কৰক">
+<!ENTITY warning.updatesecurity.enable.tooltip     "এড-অন আপডেইট সুৰক্ষা নিৰিক্ষন সামৰ্থবান কৰক">
 
-<!-- View labels -->
-<!ENTITY extensions.label                 "সম্প্ৰসাৰণসমূহ">
-<!ENTITY themes.label                     "থিমসমূহ">
-<!ENTITY locales.label                    "ভাষাবোৰ">
-<!ENTITY plugins.label                    "প্লাগ-ইনবোৰ">
-<!ENTITY update.label                     "উন্নয়নবোৰ">
-<!ENTITY install.label                    "সংস্থাপন">
+<!-- categories / views -->
+<!ENTITY view.search.label                    "সন্ধান কৰক">
+<!ENTITY view.discover.label                  "এড-অনসমূহ প্ৰাপ্ত কৰক">
+<!ENTITY view.locales.label                   "ভাষাসমূহ">
+<!ENTITY view.searchengines.label             "সন্ধানী ইঞ্জীনসমূহ">
+<!ENTITY view.features.label                  "প্ৰসাৰনসমূহ">
+<!ENTITY view.appearance2.label               "ৰূপ">
+<!ENTITY view.plugins.label                   "প্লাগিনসমূহ">
+<!ENTITY view.recentUpdates.label             "সেহতীয়া আপডেইটসমূহ">
+<!ENTITY view.availableUpdates.label          "উপলব্ধ আপডেইটসমূহ">
 
-<!-- Command Bar items -->
-<!ENTITY cmd.checkUpdatesAll.label        "উন্নয়ন বিচাৰক">
-<!ENTITY cmd.checkUpdatesAll.accesskey    "F">
-<!ENTITY cmd.checkUpdatesAllAddon.tooltip "আপোনাৰ এড-অ'নৰ কাৰণে উন্নয়ন বিচাৰক">
-<!ENTITY cmd.checkUpdatesAllTheme.tooltip "আপোনাৰ থিমৰ কাৰণে উন্নয়ন বিচাৰক">
-<!ENTITY cmd.installLocalFile.label       "সংস্থাপন...">
-<!ENTITY cmd.installFileAddon.tooltip     "এটা এড-অ'ন সংস্থাপন কৰক">
-<!ENTITY cmd.installFileTheme.tooltip     "এটা থিম সংস্থাপন কৰক">
-<!ENTITY cmd.installUpdatesAll.label      "উন্নয়ন সংস্থাপন কৰক">
-<!ENTITY cmd.installUpdatesAll.accesskey  "I">
-<!ENTITY cmd.installUpdatesAll.tooltip    "নিৰ্বাচিত উন্নয়ন সংস্থাপন কৰে">
-<!ENTITY cmd.skip.label                   "এৰি যাওক">
-<!ENTITY cmd.skip.accesskey               "k">
-<!ENTITY cmd.skip.tooltip                 "এই উন্নয়নসমূহ এৰি যাওক">
-<!ENTITY cmd.continue.label               "আগবাঢ়ক">
-<!ENTITY cmd.continue.accesskey           "C">
-<!ENTITY cmd.continue.tooltip             "&brandShortName; তুলি লোৱাত আগবাঢ়ক">
+<!-- addon updates -->
+<!ENTITY updates.checkForUpdates.label        "আপডেইটসমূহ নিৰিক্ষণ কৰক">
+<!ENTITY updates.checkForUpdates.accesskey    "C">
+<!ENTITY updates.viewUpdates.label            "সেহতীয়া আপডেইটসমূহ দৰ্শন কৰক">
+<!ENTITY updates.viewUpdates.accesskey        "V">
+<!-- LOCALIZATION NOTE (updates.updateAddonsAutomatically.label): This menu item
+     is a checkbox that toggles the default global behavior for add-on update
+     checking. -->
+<!ENTITY updates.updateAddonsAutomatically.label     "স্বচালিতভাৱে এড-অনসমূহ আপডেইট কৰক">
+<!ENTITY updates.updateAddonsAutomatically.accesskey "A">
+<!-- LOCALIZATION NOTE (updates.resetUpdatesToAutomatic.label, updates.resetUpdatesToManual.label):
+     Specific addons can have custom update checking behaviors ("Manually",
+     "Automatically", "Use default global behavior"). These menu items reset the
+     update checking behavior for all add-ons to the default global behavior
+     (which itself is either "Automatically" or "Manually", controlled by the
+     updates.updateAddonsAutomatically.label menu item). -->
+<!ENTITY updates.resetUpdatesToAutomatic.label       "সকলো এড-অন স্বচালিতভাৱে আপডেইট হবলে পুনৰ সংহতি কৰক">
+<!ENTITY updates.resetUpdatesToAutomatic.accesskey   "R">
+<!ENTITY updates.resetUpdatesToManual.label          "সকলো এড-অন হস্তচালিতভাৱে আপডেইট হবলে পুনৰ সংহতি কৰক">
+<!ENTITY updates.resetUpdatesToManual.accesskey      "R">
+<!ENTITY updates.updating.label               "এড-অনসমূহ আপডেইট কৰা হৈ আছে">
+<!ENTITY updates.installed.label              "আপোনাৰ এড-অনসমূহ আপডেইট কৰা হল।">
+<!ENTITY updates.downloaded.label             "আপোনাৰ এড-অন আপডেইটসমূহ ডাউনলোড কৰা হল।">
+<!ENTITY updates.restart.label                "ইনস্টল সম্পূৰ্ণ কৰিবলে পুনৰাম্ভ কৰক">
+<!ENTITY updates.noneFound.label              "কোনো আপডেইট পোৱা নগল">
+<!ENTITY updates.manualUpdatesFound.label     "উপলব্ধ আপডেইটসমূহ দৰ্শন কৰক">
+<!ENTITY updates.updateSelected.label         "আপডেইটসমূহ ইনস্টল কৰক">
+<!ENTITY updates.updateSelected.tooltip       "এই তালিকাত থকা উপলব্ধ আপডেইটসমূহ ইনস্টল কৰক">
 
-<!ENTITY cmd.enableAll.label              "সকলো সক্ৰিয় কৰক">
-<!ENTITY cmd.enableAll.accesskey          "a">
-<!ENTITY cmd.enableAll.tooltip            "প্ৰদৰ্শিত সকলো এড-অ'ন সক্ৰিয় কৰক">
-<!ENTITY cmd.disableAll.label             "সকলো নিষ্ক্ৰিয় কৰক">
-<!ENTITY cmd.disableAll.accesskey         "s">
-<!ENTITY cmd.disableAll.tooltip           "প্ৰদৰ্শিত সকলো এড-অ'ন নিষ্ক্ৰিয় কৰক">
+<!-- addon actions -->
+<!ENTITY cmd.showDetails.label                "অধিক তথ্য দেখুৱাওক">
+<!ENTITY cmd.showDetails.accesskey            "S">
+<!ENTITY cmd.findUpdates.label                "আপডেইটসমূহ বিচাৰক">
+<!ENTITY cmd.findUpdates.accesskey            "F">
+<!ENTITY cmd.preferencesWin.label             "বিকল্পসমূহ">
+<!ENTITY cmd.preferencesWin.accesskey         "O">
+<!ENTITY cmd.preferencesUnix.label            "পছন্দসমূহ">
+<!ENTITY cmd.preferencesUnix.accesskey        "P">
+<!ENTITY cmd.about.label                      "বিষয়ে">
+<!ENTITY cmd.about.accesskey                  "A">
 
-<!-- Displayed in the selected Add-on's richlistitem and context menu -->
-<!ENTITY cmd.useTheme.label               "থিম ব্যৱহাৰ কৰক">
-<!ENTITY cmd.useTheme.accesskey           "T">
-<!ENTITY cmd.useTheme.tooltip             "&brandShortName; ৰ থিম সলনি কৰক">
-<!ENTITY cmd.options.label                "বিকল্প">
-<!ENTITY cmd.options.accesskey            "O">
-<!ENTITY cmd.options.tooltip              "নিৰ্বাচিত সম্প্ৰসাৰণৰ বিকল্প নিৰ্ধাৰণ কৰক">
-<!ENTITY cmd.optionsUnix.label            "পছন্দ">
-<!ENTITY cmd.optionsUnix.accesskey        "r">
-<!ENTITY cmd.optionsUnix.tooltip          "নিৰ্বাচিত সম্প্ৰসাৰণৰ পছন্দ সম্পাদন কৰক">
-<!ENTITY cmd.enable.label                 "সক্ৰিয়">
-<!ENTITY cmd.enable.accesskey             "E">
-<!ENTITY cmd.enable.tooltip               "&brandShortName; পুনৰাৰম্ভ কৰোঁতে এই এড-অ'ন সক্ৰিয় কৰক">
-<!ENTITY cmd.disable.label                "নিষ্ক্ৰিয়">
-<!ENTITY cmd.disable.accesskey            "D">
-<!ENTITY cmd.disable.tooltip              "&brandShortName; পুনৰাৰম্ভ কৰোঁতে এই এড-অ'ন সক্ৰিয় কৰক">
-<!ENTITY cmd.uninstall.label              "আঁতৰাওক">
-<!ENTITY cmd.uninstall2.accesskey         "U">
-<!ENTITY cmd.uninstall2.tooltip           "&brandShortName; পুনৰাৰম্ভ কৰোঁতে এই এড-অ'ন আঁতৰাওক">
-<!ENTITY cmd.cancelUninstall.label        "আঁতৰুৱা বাতিল কৰক">
-<!ENTITY cmd.cancelUninstall.accesskey    "C">
-<!ENTITY cmd.cancelUninstall.tooltip      "এই এড-অ'নৰ আঁতৰুৱা বাতিল কৰক">
-<!ENTITY cmd.installUpdate.label          "উন্নয়ন সংস্থাপন কৰক">
-<!ENTITY cmd.installUpdate.accesskey      "I">
-<!ENTITY cmd.installUpdate.tooltip        "এই এড-অ'নৰ কাৰণে এটা উন্নয়ন সংস্থাপন কৰক">
-<!-- The selected add-on's cancel action button label -->
-<!ENTITY cancel.label                     "বাতিল">
-<!ENTITY cancel.accesskey                 "C">
+<!ENTITY cmd.enableAddon.label                "সামৰ্থবান কৰক">
+<!ENTITY cmd.enableAddon.accesskey            "E">
+<!ENTITY cmd.disableAddon.label               "অসামৰ্থবান কৰক">
+<!ENTITY cmd.disableAddon.accesskey           "D">
+<!ENTITY cmd.enableTheme.label                "থীম পিন্ধক">
+<!ENTITY cmd.enableTheme.accesskey            "W">
+<!ENTITY cmd.disableTheme.label               "থীম পিন্ধোৱা বন্ধ কৰক">
+<!ENTITY cmd.disableTheme.accesskey           "W">
+<!ENTITY cmd.installAddon.label               "ইনস্টল কৰক">
+<!ENTITY cmd.installAddon.accesskey           "I">
+<!ENTITY cmd.uninstallAddon.label             "আতৰাওক">
+<!ENTITY cmd.uninstallAddon.accesskey         "R">
+<!ENTITY cmd.showPreferencesWin.label         "বিকল্পসমূহ">
+<!ENTITY cmd.showPreferencesWin.tooltip       "এই এড-অনৰ বিকল্পসমূহ পৰিৱৰ্তন কৰক">
+<!ENTITY cmd.showPreferencesUnix.label        "পছন্দসমূহ">
+<!ENTITY cmd.showPreferencesUnix.tooltip      "এই এড-অনৰ পছন্দসমূহ পৰিৱৰ্তন কৰক">
+<!ENTITY cmd.contribute.label                 "অৱদান কৰক">
+<!ENTITY cmd.contribute.accesskey             "C">
+<!ENTITY cmd.contribute.tooltip               "এই এড-অনৰ উন্নয়নৰ বাবে অৱদান কৰক">
 
-<!-- Only displayed in the selected Add-on's context menu -->
-<!ENTITY cmd.homepage.label               "ঘৰৰ পৃষ্ঠা চাওক">
-<!ENTITY cmd.homepage.accesskey           "H">
-<!ENTITY cmd.about2.label                 "এই এড-অ'নৰ বিষয়ে">
-<!ENTITY cmd.about.accesskey              "A">
-<!ENTITY cmd.checkUpdate.label            "উন্নয়ন বিচাৰক">
-<!ENTITY cmd.checkUpdate.accesskey        "F">
+<!ENTITY cmd.showReleaseNotes.label           "উন্মোচন টোকাসমূহ দেখুৱাওক">
+<!ENTITY cmd.showReleaseNotes.tooltip         "এই আপডেইটৰ কাৰণে উন্মোচন টোকাসমূহ দেখুৱাওক ">
+<!ENTITY cmd.hideReleaseNotes.label           "উন্মোচন টোকাসমূহ লুকাওক">
+<!ENTITY cmd.hideReleaseNotes.tooltip         "এই আপডেইটৰ কাৰণে উন্মোচন টোকাসমূহ লুকাওক">
 
-<!ENTITY cmd.includeUpdate.label          "উন্নয়ন অন্তৰ্ভুক্ত কৰক">
-<!ENTITY cmd.includeUpdate.accesskey      "n">
-<!ENTITY includeUpdate.label              "এই উন্নয়ন অন্তৰ্ভুক্ত কৰক">
-<!ENTITY includeUpdate.accesskey          "n">
-<!ENTITY includeUpdate.tooltip            "উন্নয়ন সংস্থাপনৰ কৰোঁতে এই এড-অ'ন অন্তৰ্ভুক্ত কৰক">
+<!-- discovery view -->
+<!-- LOCALIZATION NOTE (discover.title,discover.description,discover.footer):
+     Displayed in the center of the Get Add-ons view, see bug 601143 for mockups. -->
+<!ENTITY discover.title                       "এড-অনসমূহ কি?">
+<!ENTITY discover.description2                "এড-অনসমূহ হল কিছুমান অনুপ্ৰয়োগ যিবোৰে আপোনাক &brandShortName; -ক অতিৰিক্ত 
+  কাৰ্য্যকৰীতা অথবা শৈলীৰ হৈতে ব্যক্তিগত ৰূপ দিয়াৰ অনুমতি দিয়ে। &brandShortName; -ক আপোনাৰ নিজাববিয়া বনাবলে এটা সময়-সঞ্চয়ী কাষবাৰ, বতৰ সংকেতক 
+  অথবা এটা থীম ৰূপ প্ৰয়োগ কৰি চাওক।">
+<!ENTITY discover.footer                      "যেতিয়া আপুনি ইন্টাৰনেটৰলগত সংযোগিত থাকিব,  এই পেইনে আপুনি প্ৰয়োগ কৰিবলে কিছুমান 
+শ্ৰেষ্ট আৰু লোকপ্ৰিয় এড-অন দেখাব।">
+<!-- detail view -->
+<!ENTITY detail.version.label                 "সংস্কৰণ">
+<!ENTITY detail.lastupdated.label             "সৰবশেষ আপডেইট কৰা হৈছিল">
+<!ENTITY detail.creator.label                 "উন্নয়ক">
+<!ENTITY detail.homepage.label                "ঘৰপৃষ্ঠা">
+<!ENTITY detail.numberOfDownloads.label       "ডাউনলোডসমূহ">
 
-<!-- Status Messsages -->
-<!ENTITY needsDependencies.label          "অতিৰিক্ত বস্তুৰ প্ৰয়োজন ।">
-<!ENTITY blocklisted.label                "আপোনাৰ সুৰক্ষাৰ কাৰণে নিষ্ক্ৰিয় ।">
-<!ENTITY toBeDisabled.label               "&brandShortName; পুনৰাৰম্ভ কৰোঁতে এই এড-অ'ন নিষ্ক্ৰিয় কৰা হ'ব ।">
-<!ENTITY toBeEnabled.label                "&brandShortName; পুনৰাৰম্ভ কৰোঁতে এই এড-অ'ন সক্ৰিয় কৰা হ'ব ।">
-<!ENTITY toBeInstalled.label              "&brandShortName; পুনৰাৰম্ভ কৰোঁতে এই এড-অ'ন সংস্থাপন কৰা হ'ব ।">
-<!ENTITY toBeUninstalled.label            "&brandShortName; পুনৰাৰম্ভ কৰোঁতে এই এড-অ'ন আঁতৰুৱা হ'ব ।">
+<!ENTITY detail.contributions.description     "এই এড-অনৰ উন্নয়কে বিচাৰে যে আপুনি সৰু এটা বৰঙনি আগবঢ়াই ইয়াৰ উন্নয়ন কাৰ্য্য সমৰ্থন কৰে। ">
 
-<!ENTITY getExtensions.label              "সম্প্ৰসাৰণসমূহ পাওক">
-<!ENTITY getThemes.label                  "থিম পাওক">
-<!ENTITY previewNoThemeSelected.label     "কোনো থিম নিৰ্ব্বাচন কৰা হোৱা নাই">
-<!ENTITY previewNoPreviewImage.label      "এই থিমৰ পূৰ্ব প্ৰদৰ্শনৰ প্ৰতিমূৰ্তি নাই">
-<!ENTITY moreInfo.label                   "অধিক তথ্য">
+<!ENTITY detail.updateType                    "স্বচালিত আপডেইটসমূহ">
+<!ENTITY detail.updateDefault.label           "অবিকল্পিত">
+<!ENTITY detail.updateDefault.tooltip         "আপডেইটসমূহ স্বচালিতভাৱে ইনস্টল কৰিব যদিহে সেইটো অবিকল্পিত হয়">
+<!ENTITY detail.updateAutomatic.label         "অন">
+<!ENTITY detail.updateAutomatic.tooltip       "আপডেইটসমূহ স্বচালিতভাৱে ইনস্টল কৰক">
+<!ENTITY detail.updateManual.label            "অফ">
+<!ENTITY detail.updateManual.tooltip          "আপডেইটসমূহ স্বচালিতভাৱে ইনস্টল নকৰিব">
+<!ENTITY detail.home                          "ঘৰপৃষ্ঠা">
+<!ENTITY detail.repository                    "এড-অন আলেখ্যন">
+<!ENTITY detail.size                          "আকাৰ">
 
-<!ENTITY updateSuccess.label              "উন্নয়ন সফলভাবে সম্পূৰ্ণ ।">
-<!ENTITY installSuccess.label             "সংস্থাপন সফলভাবে সম্পূৰ্ণ ।">
-<!ENTITY installSuccessRestart.label      "সংস্থাপন সম্পূৰ্ণ কৰিবলৈ পুনৰাৰম্ভ কৰক ।">
-<!ENTITY installWaiting.label             "ৰখা হৈছে...">
-<!ENTITY installIncompatibleUpdate.label  "সুসঙ্গত হোৱা পৰীক্ষা কৰা হৈছে...">
-<!ENTITY installFinishing.label           "সংস্থাপন কৰা হৈছে...">
-<!ENTITY installFailure.label             "সংস্থাপন বিফল ।">
-
+<!ENTITY detail.checkForUpdates.label         "আপডেইটসমূহৰ কাৰণে নিৰিক্ষণ কৰক">
+<!ENTITY detail.checkForUpdates.accesskey     "F">
+<!ENTITY detail.checkForUpdates.tooltip       "এই এড-অনৰ কাৰণে আপডেইটসমূহ নিৰিক্ষণ কৰক">
+<!ENTITY detail.showPreferencesWin.label      "বিকল্পসমূহ">
+<!ENTITY detail.showPreferencesWin.accesskey  "O">
+<!ENTITY detail.showPreferencesWin.tooltip    "এই এড-অনৰ বিকল্পসমূহ সলনি কৰক">
+<!ENTITY detail.showPreferencesUnix.label     "পছন্দসমূহ">
+<!ENTITY detail.showPreferencesUnix.accesskey "P">
+<!ENTITY detail.showPreferencesUnix.tooltip   "এই এড-অনৰ পছন্দসমূহ সলনি কৰক">
 
 
-<!--
-entities below were automatically added by l10nmerge
--->
+<!-- ratings -->
+<!ENTITY rating2.label                        "হাৰাংক">
 
-<!ENTITY cmd.hideUpdateInfo.label         "তথ্য লুকাওক">
-<!ENTITY missingThumbnail.label           "কোনো পূৰ্ব দৃশ্য নাই">
-<!ENTITY searchFailed.label               "&brandShortName; এ এড-অ'ন উদ্ধাৰ কৰিব নোৱাৰিলে">
-<!ENTITY progressStatus.label             "উন্নয়নৰ কাৰণে পৰীক্ষা কৰা হৈছে">
-<!ENTITY recommendedHeader.label          "উপদেশিত">
-<!ENTITY searchThrobber.label             "এড-অ'ন বিচৰা হৈছে">
-<!ENTITY searchResultConnecting.label     "সংযোগ কৰা হৈছে…">
-<!ENTITY cmd.cancelInstall.label          "সংস্থাপন বাতিল কৰক">
-<!ENTITY infoUpdateInfoError.label        "এই উন্নয়নৰ কাৰণে তথ্য তুলি লওঁতে এটা ভুল হৈছে">
-<!ENTITY getPlugins.label                 "প্লাগ-ইন পাওক">
-<!ENTITY cancelUpgrade.label              "বাতিল">
-<!ENTITY cmd.restartApp2.accesskey        "R">
-<!ENTITY cancelInstall.label              "বাতিল">
-<!ENTITY cmd.showUpdateInfo.accesskey     "S">
-<!ENTITY cmd.hideUpdateInfo.accesskey     "H">
-<!ENTITY cmd.hideUpdateInfo.tooltip       "এই উন্নয়নসমূহৰ তথ্য লুকাওক">
-<!ENTITY browseAddons.label               "সকলো এড-অ'ন চৰণ কৰক">
-<!ENTITY cmd.restartApp2.label            "&brandShortName; পুনৰাৰম্ভ কৰক">
-<!ENTITY searchBox.label                  "সকলো এড-অ'ন বিচাৰক">
-<!ENTITY cmd.cancelUpgrade.tooltip        "এই এড-অ'নৰ উন্নয়ন বাতিল কৰক">
-<!ENTITY cmd.cancelUpgrade.accesskey      "C">
-<!ENTITY updateSuccessRestart.label       "উন্নয়ন সম্পূৰ্ণ কৰিবলৈ পুনৰাৰম্ভ কৰক ।">
-<!ENTITY cmd.installSearchResult.accesskey "A">
-<!ENTITY eula.title                       "ব্যৱহাৰকৰ্তাৰ অণুজ্ঞা চুক্তি">
-<!ENTITY cancelInstall.accesskey          "C">
-<!ENTITY cmd.cancelInstall.accesskey      "C">
-<!ENTITY cancelUpgrade.accesskey          "C">
-<!ENTITY cancelSearch.button              "বাতিল">
-<!ENTITY infoNoAddonSelected.label        "কোবো উন্নয়ন নিৰ্বাচিত নহয়">
-<!ENTITY cmd.installSearchResult.tooltip   "এই উন্নয়ন ডাউন্‌লোড কৰি সংস্থাপন কৰক">
-<!ENTITY addonTypeTheme.label             "থিম">
-<!ENTITY cmd.showUpdateInfo.label         "তথ্য দেখুৱাওক">
-<!ENTITY cmd.showUpdateInfo.tooltip       "এই উন্নয়নসমূহৰ কাৰণে অধিক তথ্য দেখুৱাওক">
-<!ENTITY search.label                     "এড-অ'ন পাওক">
-<!ENTITY emptySearch.button               "ঠিক আছে">
-<!ENTITY eula.height                      "400px">
-<!ENTITY blocklist.checkbox.label         "নিষ্ক্ৰিয় কৰক">
-<!ENTITY searchResultInstalling.label     "সংস্থাপন কৰা হৈছে…">
-<!ENTITY noRecommendedResults.label       "সকলো উপদেশ ইতিমধ্যে সংস্থাপিত বা অসঙ্গত ।">
-<!ENTITY searchResultInstalled.label      "সংস্থাপন সম্পূৰ্ণ">
-<!ENTITY cmd.cancelUpgrade.label          "উন্নয়ন বাতিল কৰক">
-<!ENTITY searchAddons.label               "সকলো এড-অ'ন বিচাৰক">
-<!ENTITY eula.accept                      "গ্ৰহণ কৰক আৰু সংস্থাপন কৰক…">
-<!ENTITY infoNoUpdateInfo.label           "এই উন্নয়নৰ অতিৰিক্ত তথ্য নাই">
-<!ENTITY cmd.installLocalFile.accesskey   "n">
-<!ENTITY emptySearch.label                "কোনো মিল থকা এড-অ'ন নাই">
-<!ENTITY blocklist.blocked.label          "বাধা দিয়া হৈছে">
-<!ENTITY cmd.installSearchResult.label     "&brandShortName; লৈ যোগ দিয়ক…">
-<!ENTITY searchResultFailed.label         "সংস্থাপন বিফল">
-<!ENTITY resetSearch.label                "ফলাফল পৰিষ্কাৰ কৰক">
-<!ENTITY toBeUpdated.label                "&brandShortName; পুনৰাৰম্ভ কৰোঁতে এই এড-অ'ন উন্নত কৰা হ'ব ।">
-<!ENTITY eula.width                       "560px">
-<!ENTITY softBlocklisted.label            "সুৰক্ষা বা স্থিৰতাৰ সমস্যা কৰিব পৰা জনা যায় ।">
-<!ENTITY cmd.cancelInstall.tooltip        "এই এড-অ'নৰ সংস্থাপন বাতিল কৰক">
-<!ENTITY recommendedResults.label         "সকলো উপদেশিত এড-অ'ন চাওক">
-<!ENTITY insecureUpdate.label             "সুৰক্ষিত উন্নয়ন নিদিয়ে ।">
-<!ENTITY cmd.restartApp2.tooltip          "সলনি প্ৰয়োগ কৰিবলৈ &brandShortName; পুনৰাৰম্ভ কৰক">
-<!ENTITY searchFailed.button              "ঠিক আছে">
-<!ENTITY searchResultHomepage.value       "আৰু জানক">
-<!ENTITY addonTypeExtension.label         "সম্প্ৰসাৰণ">
-<!ENTITY recommendedThrobber.label        "উপদেশিত এড-অ'ন উদ্ধাৰ কৰা হৈছে">
-<!ENTITY noSearchResults.label            "সকলো ফলাফল ইতিমধ্যে সংস্থাপিত বা অসঙ্গত ।">
+<!-- download/install progress -->
+<!ENTITY progress.pause.tooltip               "বিৰতি দিয়ক">
+<!ENTITY progress.cancel.tooltip              "বাতিল কৰক">
+
+
+<!-- list sorting -->
+<!ENTITY sort.name.label                      "নাম">
+<!ENTITY sort.name.tooltip                    "নামেৰে সজাওক">
+<!ENTITY sort.dateUpdated.label               "সৰ্বশেষ আপডেইট কৰা হৈছিল">
+<!ENTITY sort.dateUpdated.tooltip             "আপডেইট কৰা তাৰিখৰে সজাওক">
+<!ENTITY sort.relevance.label                 "শ্ৰেষ্ট মিল">
+<!ENTITY sort.relevance.tooltip               "প্ৰাসংগিকতাৰে সজাওক">
+<!ENTITY sort.price.label                     "মুল্য">
+<!ENTITY sort.price.tooltip                   "মুল্যৰে সজাওক">
+
+<!ENTITY search.filter2.label                 "সন্ধান কৰক:">
+<!ENTITY search.filter2.installed.label       "মোৰ এড-অনসমূহ">
+<!ENTITY search.filter2.installed.tooltip     "ইনস্টল হোৱা এড-অনসমূহ দেখুৱাওক">
+<!ENTITY search.filter2.available.label       "উপলব্ধ এড-অনসমূহ">
+<!ENTITY search.filter2.available.tooltip     "ইনস্টলৰ বাবে উপলব্ধ এড-অনসমূহ দেখুৱাওক">
+
+<!ENTITY addon.homepage                       "ঘৰপৃষ্ঠা">
+<!ENTITY addon.details.label                  "অধিক">
+<!ENTITY addon.details.tooltip                "এই এড-অনৰ বিষয়ে অধিক বিৱৰণ দেখুৱাওক">
+<!ENTITY addon.unknownDate                    "অজ্ঞাত">
+<!-- LOCALIZATION NOTE (addon.disabled.postfix): This is used in a normal list
+     to signify that an add-on is disabled, in the form
+     "<Addon name> <1.0> (disabled)" -->
+<!ENTITY addon.disabled.postfix               "(অসামৰ্থবান)">
+<!-- LOCALIZATION NOTE (addon.update.postfix): This is used in the available
+     updates list to signify that an item is an update, in the form
+     "<Addon name> <1.1> Update". It is fine to use constructs like brackets if
+     necessary -->
+<!ENTITY addon.update.postfix                 "আপডেইট কৰক">
+<!ENTITY addon.undoAction.label               "বাতিল কৰক">
+<!ENTITY addon.undoAction.tooltip             "এই কাৰ্য্য বাতিল কৰক">
+<!ENTITY addon.undoRemove.label               "বাতিল কৰক">
+<!ENTITY addon.undoRemove.tooltip             "এই এড-অন ইনস্টল ৰাখক">
+<!ENTITY addon.restartNow.label               "এতিয়া পুনৰাম্ভ কৰক">
+<!ENTITY addon.install.label                  "ইনস্টল কৰক">
+<!ENTITY addon.install.tooltip                "এই এড-অন ইনস্টল কৰক">
+<!ENTITY addon.updateNow.label                "এতিয়া আপডেইট কৰক">
+<!ENTITY addon.updateNow.tooltip              "এই এড-অনৰ কাৰণে এই আপডেইট ইনস্টল কৰক">
+<!ENTITY addon.includeUpdate.label            "আপডেইটত অন্তৰ্ভুক্ত কৰক">
+<!ENTITY addon.updateAvailable.label          "এটা আপডেইট উপলব্ধ আছে">
+<!ENTITY addon.checkingForUpdates.label       "আপডেইটসমূহ নিৰিক্ষণ কৰা হৈ আছে…">
+<!ENTITY addon.releaseNotes.label             "উন্মোচন টোকাসমূহ:">
+<!ENTITY addon.loadingReleaseNotes.label      "লোড কৰা হৈ আছে…">
+<!ENTITY addon.errorLoadingReleaseNotes.label "ক্ষমা কৰিব, কিন্তু উন্মোচন টোকাসমূহ লোড কৰোতে এটা ত্ৰুটি হৈছিল">
+
+<!ENTITY addon.createdBy.label                "দ্বাৰা ">
+
+<!ENTITY eula.title                           "অন্ত-ব্যৱহাৰকাৰী অনুজ্ঞা চুক্তি">
+<!ENTITY eula.width                           "560px">
+<!ENTITY eula.height                          "400px">
+<!ENTITY eula.accept                          "গ্ৰহন কৰি ইনস্টল কৰক…">

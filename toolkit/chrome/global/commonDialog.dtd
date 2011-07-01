@@ -1,15 +1,9 @@
-<!ENTITY header.label     "চমু উপাধি"> 
-<!ENTITY message.label    "ইয়াত উদাহৰণ লিপি লিখক ।">
-<!ENTITY editfield0.label "ব্যৱহাৰকৰোঁতাৰ নাম:"> 
-<!ENTITY editfield1.label "গুপ্তশব্দ:"> 
-<!ENTITY editfield2.label "গুপ্তশব্দ দৃঢ় কৰক:"> 
-<!ENTITY checkbox.label   "পৰীক্ষা কৰক"> 
-
-<!--
-entities below were automatically added by l10nmerge
--->
-
-<!ENTITY selectAllCmd.label "সকলো নিৰ্ব্বাচন কৰক">
+<!ENTITY header.label     "সমও শীৰ্ষক"> 
+<!ENTITY message.label    "কিছুমান নমুনা লিখনী ইয়াত আহিব">
+<!ENTITY editfield0.label "ব্যৱহাৰকাৰী নাম:"> 
+<!ENTITY editfield1.label "পাছওৱাৰ্ড:"> 
+<!ENTITY checkbox.label   "নিৰীক্ষণ">
+<!ENTITY copyCmd.label    "কপি">
 <!ENTITY copyCmd.accesskey "C">
-<!ENTITY copyCmd.label    "নকল কৰক">
+<!ENTITY selectAllCmd.label "সকলোকে বাচক">
 <!ENTITY selectAllCmd.accesskey "A">

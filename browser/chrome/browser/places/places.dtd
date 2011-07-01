@@ -4,6 +4,7 @@
 <!ENTITY places.library.height "500">
 <!ENTITY organize.label        "সংগঠিত কৰক">
 <!ENTITY organize.accesskey    "O">
+<!ENTITY organize.tooltip      "আপোনাৰ পত্ৰচিহ্নসমূহ সজাওক">
 
 <!ENTITY file.accesskey                 "F">
 <!ENTITY file.close.label               "বন্ধ কৰক">
@@ -13,8 +14,7 @@
 <!ENTITY edit.accesskey                 "E">
 <!ENTITY views.label                    "দৃশ্য">
 <!ENTITY views.accesskey                "V">
-<!ENTITY view.toolbar.label             "টুলবাৰ">
-<!ENTITY view.toolbar.accesskey         "o">
+<!ENTITY views.tooltip                  "আপোনাৰ দৰ্শন সলনি কৰক">
 <!ENTITY view.columns.label             "স্তম্ভ দেখুৱাওক">
 <!ENTITY view.columns.accesskey         "C">
 <!ENTITY view.sort.label                "ছিজিল কৰক">
@@ -25,12 +25,6 @@
 <!ENTITY view.sortAscending.accesskey   "A">
 <!ENTITY view.sortDescending.label      "Z > A Sort Order">
 <!ENTITY view.sortDescending.accesskey  "Z">
-<!ENTITY help.usingBookmarks.label      "পত্ৰচিহ্ন ব্যৱহাৰ কৰি">
-<!ENTITY help.usingBookmarks.accesskey  "B">
-<!ENTITY help.usingHistory.label        "ইতিহাস ব্যৱহাৰ কৰি">
-<!ENTITY help.usingHistory.accesskey    "i">
-<!ENTITY help.advancedTips.label        "উন্নত সঙ্কেত &amp; কিটিপ">
-<!ENTITY help.advancedTips.accesskey    "T">
 
 <!ENTITY cmd.findInBookmarks.label      "পত্ৰচিহ্নত বিচাৰক…">
 <!ENTITY cmd.findInBookmarks.accesskey  "F">
@@ -49,27 +43,13 @@
 <!ENTITY cmd.restoreFromFile.label      "নথিপত্ৰ নিৰ্ব্বাচন কৰক…">
 <!ENTITY cmd.restoreFromFile.accesskey  "C">
 
-<!ENTITY cmd.select_all.label "সকলো নিৰ্ব্বাচন কৰক">
-<!ENTITY cmd.select_all.accesskey "A">
-<!ENTITY cmd.select_all.key "a">
+<!ENTITY cmd.bookmarkLink.label         "এই পৃষ্টা পত্ৰচিহ্নিত কৰক…">
+<!ENTITY cmd.bookmarkLink.accesskey     "B">
+<!ENTITY cmd.delete.label               "এই পৃষ্ঠা মচি পেলাওক">
+<!ENTITY cmd.delete.accesskey           "D">
+<!ENTITY cmd.deleteDomainData.label     "এই ছাইটৰ বিষয়ে পাহৰি যাওক">
+<!ENTITY cmd.deleteDomainData.accesskey "F">
 
-<!ENTITY cmd.edit_cut.label         "কাটক">
-<!ENTITY cmd.edit_cut.accesskey     "t">
-<!ENTITY cmd.edit_cut.key           "x">
-<!ENTITY cmd.edit_copy.label        "নকল কৰক">
-<!ENTITY cmd.edit_copy.accesskey    "C">
-<!ENTITY cmd.edit_copy.key          "c">
-<!ENTITY cmd.edit_paste.label       "আঠা লগাওক">
-<!ENTITY cmd.edit_paste.accesskey   "P">
-<!ENTITY cmd.edit_paste.key         "v">
-<!ENTITY cmd.edit_delete.label      "গুচাওক">
-<!ENTITY cmd.edit_delete.accesskey  "D">
-<!ENTITY cmd.edit_undo.label        "পূৰ্বৰ কাৰ্য্য নিষ্ফল কৰক">
-<!ENTITY cmd.edit_undo.accesskey    "U">
-<!ENTITY cmd.edit_undo.key          "z">
-<!ENTITY cmd.edit_redo.label        "এই কাৰ্য্য পুনঃ কৰক">
-<!ENTITY cmd.edit_redo.accesskey    "R">
-<!ENTITY cmd.edit_redo.key          "y">
 
 <!ENTITY cmd.open.label                  "খোলক">
 <!ENTITY cmd.open.accesskey              "O">
@@ -83,19 +63,12 @@
 <!ENTITY cmd.properties.label      "গুণ">
 <!ENTITY cmd.properties.accesskey  "i">
 
-<!ENTITY cmd.show_info.key  "i">
-
-<!ENTITY cmd.rename.label      "পুনঃ নামকৰণ কৰক">
-<!ENTITY cmd.rename.accesskey  "R">
-
 <!ENTITY cmd.sortby_name.label              "নামেৰে ছিজিল কৰক">
 <!ENTITY cmd.sortby_name.accesskey          "S">
 <!ENTITY cmd.context_sortby_name.accesskey  "r">
 
 <!ENTITY cmd.new_bookmark.label            "নতুন পত্ৰচিহ্ন…">
 <!ENTITY cmd.new_bookmark.accesskey        "B">
-<!ENTITY cmd.new_livemark.label            "নতুন জীৱন্ত পত্ৰচিহ্ন…">
-<!ENTITY cmd.new_livemark.accesskey        "L">
 <!ENTITY cmd.new_folder.label              "নতুন ফোল্ডাৰ…">
 <!ENTITY cmd.new_folder.accesskey          "o">
 <!ENTITY cmd.context_new_folder.accesskey  "F">
@@ -106,15 +79,6 @@
 <!ENTITY cmd.reloadLivebookmark.accesskey  "R">
 <!ENTITY cmd.reloadMicrosummary.label      "জীৱন্ত শিৰোনামা পুনঃ তুলি লওক">
 <!ENTITY cmd.reloadMicrosummary.accesskey  "R">
-
-<!ENTITY cmd.groupby_site.label      "ছাইটৰ মতে সংগঠিত কৰক">
-<!ENTITY cmd.groupby_site.accesskey  "S">
-<!ENTITY cmd.groupby_page.label      "পৃষ্ঠাৰ মতে সংগঠিত কৰক">
-<!ENTITY cmd.groupby_page.accesskey  "P">
-<!ENTITY cmd.groupby_feed.label      "বৰঙনিৰ হিচাপে সংগঠিত কৰক">
-<!ENTITY cmd.groupby_feed.accesskey  "S">
-<!ENTITY cmd.groupby_post.label      "প'স্টৰ মতে সংগঠিত কৰক">
-<!ENTITY cmd.groupby_post.accesskey  "P">
 
 <!ENTITY cmd.moveBookmarks.label                  "লৈ যাওক…">
 <!ENTITY cmd.moveBookmarks.accesskey              "M">
@@ -129,72 +93,28 @@
 <!ENTITY col.dateadded.label     "যোগ কৰা হ'ল">
 <!ENTITY col.lastmodified.label  "অন্তিমবাৰ সাল সলনি কৰা">
 
-<!ENTITY search.label                              "বিচাৰক:">
-<!ENTITY search.accesskey                          "S">
+<!ENTITY search.in.label                           "-ত বিচাৰক:">
 <!ENTITY search.scopeFolder.label                  "নিৰ্ব্বাচিত ফোল্ডাৰ">
 <!ENTITY search.scopeFolder.accesskey              "r">
+<!ENTITY search.scopeBookmarks.label               "Bookmarks">
+<!ENTITY search.scopeBookmarks.accesskey           "k">
 <!ENTITY search.scopeDownloads.label               "ডাউন্‌লোড">
 <!ENTITY search.scopeDownloads.accesskey           "D">
 <!ENTITY search.scopeHistory.label                 "ইতিহাস">
 <!ENTITY search.scopeHistory.accesskey             "H">
-<!ENTITY search.scopeBarExpanderDown.tooltip       "search builder দেখুৱাওক">
-<!ENTITY search.scopeBarExpanderUp.tooltip         "search builder লুকাওক">
 <!ENTITY saveSearch.label                          "ৰক্ষা কৰক">
 <!ENTITY saveSearch.accesskey                      "S">
-<!ENTITY moreCriteria.label                        "+">
-<!ENTITY advancedSearch.onlybookmarked.label       "অকল পত্ৰচিহ্ন বিচাৰক">
-<!ENTITY advancedSearch.match.label                "মিলাওক ">
-<!ENTITY advancedSearch.all.label                  "সকলো">
-<!ENTITY advancedSearch.any.label                  "যিকোনো">
-<!ENTITY advancedSearch.rules.label                "নিম্নলিখিত নিয়মৰ:">
-<!ENTITY advancedSearch.subj_keyword.label         "লিপি থকা">
-<!ENTITY advancedSearch.subj_visited.label         "দৰ্শন কৰা">
-<!ENTITY advancedSearch.subj_location.label        "স্থান">
-<!ENTITY advancedSearch.location_startswith.label  "-এৰে আৰম্ভ হোৱা">
-<!ENTITY advancedSearch.location_is.label          "হয়">
-<!ENTITY advancedSearch.location_onsite.label      "ছাইটত আছে">
-<!ENTITY advancedSearch.time_is.label              "ইয়াত">
-<!ENTITY advancedSearch.time_before.label          "পূৰ্বৰ">
-<!ENTITY advancedSearch.time_after.label           "পিছৰ">
-<!ENTITY advancedSearch.time_inlast.label          "অন্তিম">
-<!ENTITY advancedSearch.last_days.label            "দিন">
-<!ENTITY advancedSearch.last_weeks.label           "সপ্তাহ">
-<!ENTITY advancedSearch.last_months.label          "মাহ">
-<!ENTITY advancedSearch.plus.label                 "+">
-<!ENTITY advancedSearch.minus.label                "-">
-<!ENTITY advancedSearch.groupby.label              "-এৰে সংগঠিত কৰক: ">
-<!ENTITY advancedSearch.groupby_host.label         "গৃহস্থ">
-<!ENTITY advancedSearch.groupby_domain.label       "ডোমেইন">
-<!ENTITY advancedSearch.groupby_folder.label       "ফোল্ডাৰ">
-<!ENTITY advancedSearch.sortby.label               "-এৰে ছিজিল কৰক: ">
-<!ENTITY advancedSearch.sortby_title.label         "শিৰোনামা">
-<!ENTITY advancedSearch.sortby_date.label          "দিন">
-<!ENTITY advancedSearch.sortby_visit.label         "দৰ্শনৰ সংখ্যা">
-<!ENTITY advancedSearch.sortby_url.label           "url">
-<!ENTITY advancedSearch.sortby_asc.label           "উৰ্দ্ধমুখী">
-<!ENTITY advancedSearch.sortby_desc.label          "নিম্নগামী">
-<!ENTITY advancedSearch.max.label                  "সাৰ্বাধিক ফলাফল: ">
 
 <!ENTITY cmd.find.key  "f">
 
-<!ENTITY feed.subscribe.label    "ফীড">
-<!ENTITY feed.subscribe.tooltip  "বৰঙনি দিয়ক">
-
-<!ENTITY view.detailsMacOSX.label  "তালিকা">
-<!ENTITY view.details.label        "বিৱৰণ">
-<!ENTITY view.details.accesskey    "D">
-
-<!ENTITY view.addons.label   "View Add-ons পাওক">
-
-<!ENTITY maintenance.label      "আমদনি কৰক আৰু সংৰক্ষণ কৰক">
+<!ENTITY maintenance.label      "ইমপোৰ্ট কৰক আৰু বেকআপ লওক">
 <!ENTITY maintenance.accesskey  "I">
+<!ENTITY maintenance.tooltip    "ইমপোৰ্ট কৰক আৰু আপোনাৰ পত্ৰচিহ্নসমূহ বেকআপ লওক">
 
 <!ENTITY backCmd.label       "পিছৰ">
-<!ENTITY backCmd.accesskey   "B">
 <!ENTITY backButton.tooltip  "পিছলৈ যাওক">
 
 <!ENTITY forwardCmd.label       "আগলৈ">
-<!ENTITY forwardCmd.accesskey   "F">
 <!ENTITY forwardButton.tooltip  "আগলৈ যাওক">
 
 <!ENTITY detailsPane.more.label "আৰু অধিক">
@@ -204,14 +124,17 @@
 <!ENTITY detailsPane.noPreviewAvailable.label "পূৰ্ব প্ৰদৰ্শন">
 <!ENTITY detailsPane.selectAnItemText.description "গুণসমূহ চাই আৰু তাক সম্পাদন কৰিবলৈ এটা বস্তু নিৰ্ব্বাচন কৰক ।">
 
-
-<!--
-entities below were automatically added by l10nmerge
--->
-
-<!ENTITY cmd.delete.accesskey           "D">
-<!ENTITY search.scopeBookmarks.label               "পত্ৰচিহ্ন">
-<!ENTITY cmd.deleteDomainData.accesskey "F">
-<!ENTITY cmd.deleteDomainData.label     "এই ছাইটৰ কথা পাহৰি যাওক">
-<!ENTITY cmd.delete.label               "এই পৃষ্ঠা আঁতৰাওক">
-<!ENTITY search.scopeBookmarks.accesskey           "k">
+<!ENTITY find.label               "বিচাৰক:">
+<!ENTITY find.accesskey           "S">
+<!ENTITY view.label               "দৰ্শন কৰক">
+<!ENTITY view.accesskey           "w">
+<!ENTITY byDate.label             "তাৰিখৰে">
+<!ENTITY byDate.accesskey         "D">
+<!ENTITY bySite.label             "ছাইটৰে">
+<!ENTITY bySite.accesskey         "S">
+<!ENTITY byMostVisited.label      "বহুবাৰ চোৱা হৈছে">
+<!ENTITY byMostVisited.accesskey  "V">
+<!ENTITY byLastVisited.label      "সেহতীয়াভাৱে চোৱা হৈছে">
+<!ENTITY byLastVisited.accesskey  "L">
+<!ENTITY byDayAndSite.label       "তাৰিখ আৰু ছাইটৰে">
+<!ENTITY byDayAndSite.accesskey   "t">

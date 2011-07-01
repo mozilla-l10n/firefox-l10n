@@ -15,8 +15,8 @@
 <!ENTITY privatebrowsingpage.startPrivateBrowsing.label "ব্যক্তিগত চৰণ কাৰ্য্য আৰম্ভ কৰক">
 <!ENTITY privatebrowsingpage.startPrivateBrowsing.accesskey "P">
 
-<!ENTITY privatebrowsingpage.howToStop                 "ব্যক্তিগত চৰণ কাৰ্য্য বন্ধ কৰিবলৈ, &toolsMenu.label; &gt; &privateBrowsingCmd.stop.label; নিৰ্ব্বাচন কৰক, বা &brandShortName; বন্ধ কৰক ।">
-<!ENTITY privatebrowsingpage.howToStart                "ব্যক্তিগত চৰণ কাৰ্য্য আৰম্ভ কৰিবলৈ, আপুনি &toolsMenu.label; &gt; &privateBrowsingCmd.start.label; ও নিৰ্ব্বাচন কৰিব পাৰে ।">
+<!ENTITY privatebrowsingpage.howToStop2                 "ব্যক্তিগত চৰণ কাৰ্য্য বন্ধ কৰিবলৈ, &basePBMenu.label; &gt; &privateBrowsingCmd.stop.label; নিৰ্ব্বাচন কৰক, বা &brandShortName; বন্ধ কৰক।">
+<!ENTITY privatebrowsingpage.howToStart2                "ব্যক্তিগত চৰণ কাৰ্য্য আৰম্ভ কৰিবলৈ, আপুনি &basePBMenu.label; &gt; &privateBrowsingCmd.start.label; ও নিৰ্ব্বাচন কৰিব পাৰে ।">
 
 <!ENTITY privatebrowsingpage.moreInfo                  "যদিও এই কম্পিউটাৰত আপোনাৰ চৰণৰ ইতিহাসৰ কোনো ৰেকৰ্ড নাথাকিব, আপোনাৰ ইন্টাৰনে'ট সেৱা দিওঁতা বা আপোনাৰ নিয়োগকৰ্তাই আপুনি দৰ্শন কৰা পৃষ্ঠাৰ কথা জানিব পাৰিব ।">
 <!ENTITY privatebrowsingpage.learnMore                 "আৰু অধিক জানক">

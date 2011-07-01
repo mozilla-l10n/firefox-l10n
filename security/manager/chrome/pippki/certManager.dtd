@@ -38,17 +38,24 @@
 <!ENTITY certmgr.title                       "প্ৰমাণপত্ৰৰ পৰিচালক">
 
 <!ENTITY certmgr.tab.mine                     "আপোনাৰ প্ৰমাণপত্ৰ">
+<!ENTITY certmgr.tab.others2                  "মানুহ">
+<!ENTITY certmgr.tab.websites3                "চাৰ্ভাৰসমূহ">
 <!ENTITY certmgr.tab.ca                       "কৰ্ত্তৃপক্ষ">
+<!ENTITY certmgr.tab.orphan2                  "অন্য">
 
 <!ENTITY certmgr.ca.builtins                  "Built-in CAs">
 <!ENTITY certmgr.ca.mycas                     "আপুনি পৰিচালনা কৰা CA">
 
 <!ENTITY certmgr.mine                         "আপোনাৰ চিনি পোৱা এই সংগঠনৰ পৰা প্ৰমাণপত্ৰ আছে:">
 <!ENTITY certmgr.others                       "এই মানুহক চিনি পোৱা প্ৰমাণপত্ৰ নথিপত্ৰ আছে:">
+<!ENTITY certmgr.websites2                    "আপোনাৰ নথিপত্ৰত  এনে প্ৰমাণপত্ৰসমূহ আছে যোনে চাৰ্ভাৰসমূহ চিনাক্ত কৰে:">
 <!ENTITY certmgr.cas                          "এই প্ৰমাণপত্ৰ কৰ্ত্তৃপক্ষক চিনি পোৱা প্ৰমাণপত্ৰ নথিপত্ৰত আছে:">
+<!ENTITY certmgr.orphans                      "আপোনাৰ নথিপত্ৰত এনে প্ৰমাণপত্ৰসমূহ আছে যি অন্য কোনো শৈলীত খাপ নাখায়:">
 
 <!ENTITY certmgr.detail.general_tab.title     "সাধাৰণ">
+<!ENTITY certmgr.detail.general_tab.accesskey "G">
 <!ENTITY certmgr.detail.prettyprint_tab.title "বিৱৰণ">
+<!ENTITY certmgr.detail.prettyprint_tab.accesskey "D">
 
 <!ENTITY certmgr.subjectinfo.label            "-লৈ প্ৰদান কৰা হৈছে">
 <!ENTITY certmgr.issuerinfo.label             "-এ প্ৰদান কৰিছে">
@@ -85,8 +92,9 @@
 <!ENTITY certmgr.deleteusercert.aftername     "আপুনি প্ৰমাণপত্ৰ এবাৰ আঁতৰালে, সেইটোৰে এনক্ৰিপ্ট কৰা মেইল আপুনি পঢ়িব নোৱাৰিব ।">
 
 <!ENTITY certmgr.certname                     "প্ৰমাণপত্ৰৰ নাম">
+<!ENTITY certmgr.certserver                   "চাৰ্ভাৰ">
+<!ENTITY certmgr.override_lifetime            "জীৱনকাল">
 <!ENTITY certmgr.tokenname                    "সুৰক্ষাৰ যন্ত্ৰ">
-<!ENTITY certmgr.purpose                      "উদ্দেশ্য">
 <!ENTITY certmgr.issued                       "-ত প্ৰদান কৰা হৈছে">
 <!ENTITY certmgr.expires                      "শেষ হয়">
 <!ENTITY certmgr.email                        "ঈ-মেইল ঠিকনা">
@@ -94,60 +102,45 @@
 
 <!ENTITY certmgr.close.label                  "বন্ধ কৰক">
 <!ENTITY certmgr.close.accesskey              "C">
+<!ENTITY certmgr.view2.label                  "দৰ্শন কৰক…">
+<!ENTITY certmgr.view2.accesskey              "V">
+<!ENTITY certmgr.edit3.label                  "ভৰষা সম্পাদনা কৰক…">
+<!ENTITY certmgr.edit3.accesskey              "E">
 <!ENTITY certmgr.editca.label                 "CA বিশ্বাস সম্পাদন কৰক">
 <!ENTITY certmgr.editca.accesskey             "d">
 <!ENTITY certmgr.add.label                    "যোগ কৰক">
 <!ENTITY certmgr.add.accesskey                "A">
+<!ENTITY certmgr.export.label                 "এক্সপোৰ্ট কৰক…">
+<!ENTITY certmgr.export.accesskey             "x">
+<!ENTITY certmgr.delete2.label                "মচি দিয়ক…">
+<!ENTITY certmgr.delete2.accesskey            "D">
+<!ENTITY certmgr.delete_builtin.label         "মচি দিয়ক অথবা অবিশ্বাস কৰক…">
+<!ENTITY certmgr.delete_builtin.accesskey     "D">
+<!ENTITY certmgr.backup2.label                "বেকআপ লওক…">
+<!ENTITY certmgr.backup2.accesskey            "B">
+<!ENTITY certmgr.backupall2.label             "কসলোৰ বেকআপ লওক…">
+<!ENTITY certmgr.backupall2.accesskey         "k">
+<!ENTITY certmgr.restore2.label               "ইমপোৰ্ট কৰক…">
+<!ENTITY certmgr.restore2.accesskey           "m">
 <!ENTITY certmgr.details.label                "প্ৰমাণপত্ৰৰ ক্ষেত্ৰবোৰ">
 <!ENTITY certmgr.details.accesskey            "F">
 <!ENTITY certmgr.fields.label                 "ক্ষেত্ৰৰ মান">
 <!ENTITY certmgr.fields.accesskey             "V">
 <!ENTITY certmgr.hierarchy.label              "প্ৰমাণপত্ৰৰ অধিক্ৰম">
 <!ENTITY certmgr.hierarchy.accesskey          "C">
-
-
-
-<!--
-entities below were automatically added by l10nmerge
--->
-
-<!ENTITY certmgr.delete2.label                "আঁতৰাওক…">
-<!ENTITY certmgr.backup2.label                "বেক-আপ…">
-<!ENTITY certmgr.override_lifetime            "গোটেই জীৱন">
-<!ENTITY certmgr.backupall2.label             "সকলো বেক-আপ কৰক…">
-<!ENTITY exceptionMgr.exceptionButtonAccess   "C">
-<!ENTITY certmgr.edit2.accesskey              "E">
-<!ENTITY certmgr.view2.accesskey              "V">
-<!ENTITY exceptionMgr.certlocation.caption2   "সেৱক">
-<!ENTITY certmgr.backup2.accesskey            "B">
-<!ENTITY certmgr.export.accesskey             "x">
-<!ENTITY certmgr.tab.websites3                "সেৱকবোৰ">
-<!ENTITY certmgr.websites2                    "এই সেৱকবোৰক চিনি পোৱা প্ৰমাণপত্ৰ আপোনাৰ নথিপত্ৰত আছে:">
-<!ENTITY certmgr.view2.label                  "প্ৰদৰ্শন…">
-<!ENTITY certmgr.edit2.label                  "সম্পাদন…">
-<!ENTITY certmgr.delete2.accesskey            "D">
-<!ENTITY certmgr.export.label                 "ৰপ্তানি কৰক…">
+<!ENTITY certmgr.addException.label           "ব্যতিক্ৰম যোগ কৰক…">
 <!ENTITY certmgr.addException.accesskey       "x">
-<!ENTITY certmgr.tab.orphan2                  "অন্যবোৰ">
-<!ENTITY certmgr.addException.label           "অব্যাহতি যোগ কৰক…">
-<!ENTITY exceptionMgr.certstatus.accesskey    "V">
-<!ENTITY certmgr.restore2.accesskey           "m">
-<!ENTITY certmgr.backupall2.accesskey         "k">
-<!ENTITY exceptionMgr.exceptionButton         "সুৰক্ষাৰ অব্যাহতি দৃঢ় কৰক">
-<!ENTITY exceptionMgr.certstatus.viewCert     "প্ৰদৰ্শন…">
-<!ENTITY exceptionMgr.supplementalWarning     "বৈধ বেঙ্ক, স্টোৰ, আৰু অন্য জনসাধাৰণৰ ছাইটে আপোনাৰ এইটো কৰিবলৈ নকয় ।">
-<!ENTITY exceptionMgr.certlocation.url        "স্থান:">
-<!ENTITY exceptionMgr.title                   "সুৰক্ষাৰ অব্যাহতি যোগ কৰক">
-<!ENTITY exceptionMgr.certstatus.caption      "প্ৰমাণপত্ৰৰ অৱস্থা">
-<!ENTITY certmgr.orphans                      "আপোনাৰ নথিপত্ৰত প্ৰমাণপত্ৰ আছে যি কোনো বিভাগৰ নহয়:">
+
+<!ENTITY exceptionMgr.title                   "সুৰক্ষা ব্যতিক্ৰম যোগ কৰক">
+<!ENTITY exceptionMgr.exceptionButton.label   "সুৰক্ষা ব্যতিক্ৰম সুনিশ্চিত কৰক">
+<!ENTITY exceptionMgr.exceptionButton.accesskey "C">
+<!ENTITY exceptionMgr.supplementalWarning     "ন্যায্য বেঙ্ক, ভঁৰাল, আৰু অন্য ৰাজহুৱা ছাইটবোৰে আপোনাক এয়া কৰিবলে নোসোধে।">
+<!ENTITY exceptionMgr.certlocation.caption2   "চাৰ্ভাৰ">
+<!ENTITY exceptionMgr.certlocation.url        "অৱস্থান:">
+<!ENTITY exceptionMgr.certlocation.download   "প্ৰমাণপত্ৰ লওক">
 <!ENTITY exceptionMgr.certlocation.accesskey  "G">
-<!ENTITY exceptionMgr.certlocation.download   "প্ৰমাণপত্ৰ পাওক">
-<!ENTITY certmgr.certserver                   "সেৱক">
-<!ENTITY certmgr.pending.label                "প্ৰমাণপত্ৰ বৰ্ত্তমানে পৰীক্ষা কৰা হৈছে…">
-<!ENTITY certmgr.restore2.label               "আমদানি…">
-<!ENTITY certmgr.tab.others2                  "জনসাধাৰণ">
-<!ENTITY certmgr.typesofoverrides             "অব্যাহতিবোৰ">
-<!ENTITY exceptionMgr.permanent.label         "স্থায়ীভাবে এই অব্যাহতি ৰক্ষা কৰক">
+<!ENTITY exceptionMgr.certstatus.caption      "প্ৰমাণপত্ৰৰ অৱস্থা">
+<!ENTITY exceptionMgr.certstatus.viewCert     "দৰ্শন কৰক…">
+<!ENTITY exceptionMgr.certstatus.accesskey    "V">
+<!ENTITY exceptionMgr.permanent.label         "চিৰস্থায়ীভাৱে এই ব্যতিক্ৰম সঞ্চয় কৰক">
 <!ENTITY exceptionMgr.permanent.accesskey     "P">
-<!ENTITY certmgr.detail.general_tab.accesskey "G">
-<!ENTITY certmgr.detail.prettyprint_tab.accesskey "D">

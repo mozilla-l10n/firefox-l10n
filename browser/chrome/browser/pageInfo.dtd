@@ -59,7 +59,8 @@
 <!ENTITY  generalEncoding       "ইনকোডিং:">
 <!ENTITY  generalMetaName       "নাম">
 <!ENTITY  generalMetaContent    "বিষয়বস্তু">
-
+<!ENTITY  generalSecurityDetails   "বিৱৰণসমূহ">
+<!ENTITY  generalSecurityDetails.accesskey "D">
 
 <!ENTITY  mediaTab              "মিডিয়া">
 <!ENTITY  mediaTab.accesskey    "M">
@@ -97,6 +98,10 @@
 <!ENTITY  permInstall           "থিম বা সম্প্ৰসাৰণ সংস্থাপন কৰক">
 <!ENTITY  permGeo               "স্থান অংশীদাৰ কৰক">
 
+<!ENTITY  permIndexedDB              "অফলাইন সংৰক্ষণ অব্যাহত ৰাখক">
+<!ENTITY  permClearStorage           "সংৰক্ষণ সফা কৰক">
+<!ENTITY  permClearStorage.accesskey "C">
+
 <!ENTITY  securityTab           "সুৰক্ষা">
 <!ENTITY  securityTab.accesskey "S">
 <!ENTITY  securityHeader        "এই পৃষ্ঠাৰ বাবে সুৰক্ষাৰ তথ্য">
@@ -120,10 +125,3 @@
 <!ENTITY  securityView.privacy.viewPasswords.accessKey  "w">
 
 <!ENTITY  securityView.technical.header                 "প্ৰযুক্তিবিদ্যাৰ বিৱৰণ">
-
-
-
-
-
-<!ENTITY  generalSecurityDetails   "বিৱৰণ">
-<!ENTITY  generalSecurityDetails.accesskey "D">
