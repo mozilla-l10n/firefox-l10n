@@ -26,8 +26,10 @@
 <!ENTITY button.syncKeyBackup.save.accesskey  "S">
 
 <!-- New Account Page 1: Basic Account Info -->
+<!ENTITY setup.choosePassword.label      "Izvēlieties paroli">
+<!ENTITY setup.choosePassword.accesskey  "P">
 <!ENTITY setup.confirmPassword.label  "Apstipriniet paroli">
-<!ENTITY setup.confirmPassword.accesskey  "p">
+<!ENTITY setup.confirmPassword.accesskey  "r">
 <!ENTITY setup.emailAddress.label     "Epasta adrese">
 <!ENTITY setup.emailAddress.accesskey "E">
 <!-- LOCALIZATION NOTE: tosAgree1, tosLink, tosAgree2, ppLink, tosAgree3 are
