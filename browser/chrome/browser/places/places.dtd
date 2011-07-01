@@ -5,12 +5,12 @@
 <!ENTITY organize.label        "ವ್ವವಸ್ಥಿತಗೊಳಿಸು">
 <!ENTITY organize.accesskey    "O">
 
-<!ENTITY file.accesskey                 "F">
+<!--ENTITY file.accesskey                 "F"-->
 <!ENTITY file.close.label               "ಮುಚ್ಚು">
 <!ENTITY file.close.accesskey           "C">
 <!ENTITY cmd.close.key                  "w">
-<!ENTITY edit.label                     "ಸಂಪಾದನೆ">
-<!ENTITY edit.accesskey                 "E">
+<!--ENTITY edit.label                     "ಸಂಪಾದನೆ"-->
+<!--ENTITY edit.accesskey                 "E"-->
 <!ENTITY views.label                    "ನೋಟಗಳು">
 <!ENTITY views.accesskey                "V">
 <!ENTITY view.columns.label             "ಕಾಲಂಗಳನ್ನು ತೋರಿಸು">
@@ -68,8 +68,8 @@
 
 <!ENTITY cmd.reloadLivebookmark.label      "ಲೈವ್ ಬುಕ್‌ಮಾರ್ಕ್ ಅನ್ನು ಮತ್ತೊಮ್ಮೆ ಲೋಡ್ ಮಾಡು">
 <!ENTITY cmd.reloadLivebookmark.accesskey  "R">
-<!ENTITY cmd.reloadMicrosummary.label      "ಲೈವ್ ಶೀರ್ಷಿಕೆಯನ್ನು ಮತ್ತೊಮ್ಮೆ ಲೋಡ್ ಮಾಡು">
-<!ENTITY cmd.reloadMicrosummary.accesskey  "R">
+<!--ENTITY cmd.reloadMicrosummary.label      "ಲೈವ್ ಶೀರ್ಷಿಕೆಯನ್ನು ಮತ್ತೊಮ್ಮೆ ಲೋಡ್ ಮಾಡು"-->
+<!--ENTITY cmd.reloadMicrosummary.accesskey  "R"-->
 
 
 
@@ -103,17 +103,17 @@
 <!ENTITY maintenance.label      "ಆಮದು ಮಾಡಿಕೋ ಹಾಗು ಬ್ಯಾಕ್ಅಪ್ ತೆಗೆದುಕೋ">
 <!ENTITY maintenance.accesskey  "I">
 
-<!ENTITY backCmd.label       "ಹಿಂದಕ್ಕೆ">
+<!--ENTITY backCmd.label       "ಹಿಂದಕ್ಕೆ"-->
 <!ENTITY backButton.tooltip  "ಹಿಂದಕ್ಕೆ ತೆರಳು">
 
-<!ENTITY forwardCmd.label       "ಮುಂದಕ್ಕೆ">
+<!--ENTITY forwardCmd.label       "ಮುಂದಕ್ಕೆ"-->
 <!ENTITY forwardButton.tooltip  "ಮುಂದಕ್ಕೆ ತೆರಳು">
 
 <!ENTITY detailsPane.more.label "ಹೆಚ್ಚು">
 <!ENTITY detailsPane.more.accesskey "e">
 <!ENTITY detailsPane.less.label "ಕಡಿಮೆ">
 <!ENTITY detailsPane.less.accesskey "e">
-<!ENTITY detailsPane.noPreviewAvailable.label "ಮುನ್ನೋಟ">
+<!--ENTITY detailsPane.noPreviewAvailable.label "ಮುನ್ನೋಟ"-->
 <!ENTITY detailsPane.selectAnItemText.description "ಒಂದು ಅಂಶದ ಗುಣಲಕ್ಷಣಗಳನ್ನು  ನೋಡಲು ಹಾಗು ಸಂಪಾದಿಸಲು ಒಂದು ಅಂಶವನ್ನು ಆರಿಸಿ">
 
 <!ENTITY cmd.delete.label               "ಈ ಪುಟವನ್ನು ಅಳಿಸಿ ಹಾಕು">

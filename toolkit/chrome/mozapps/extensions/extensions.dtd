@@ -1,6 +1,6 @@
 <!ENTITY addons.windowTitle                   "ಆಡ್‌-ಆನ್‌ಗಳ ವ್ಯವಸ್ಥಾಪಕ">
 <!ENTITY search.placeholder                   "ಎಲ್ಲಾ ಆಡ್-ಆನ್‌ಗಳನ್ನು ಹುಡುಕು">
-<!ENTITY loading.label                        "ಲೋಡಿಂಗ್…">
+<!ENTITY loading.label                        "ಲೋಡ್‌ ಆಗುತ್ತಿದೆ…">
 <!ENTITY listEmpty.installed.label            "ಈ ಬಗೆಯ ಆಡ್‌-ಆನ್‌ಗಳು ನಿಮ್ಮಲ್ಲಿ ಅನುಸ್ಥಾಪಿತಗೊಂಡಿಲ್ಲ">
 <!ENTITY listEmpty.availableUpdates.label     "ಯಾವುದೆ ಅಪ್‌ಡೇಟ್‌ಗಳು ಕಂಡುಬಂದಿಲ್ಲ">
 <!ENTITY listEmpty.recentUpdates.label        "ನೀವು ಇತ್ತೀಚೆಗೆ ಯಾವುದೆ ಆಡ್-ಆನ್‌ಗಳನ್ನು ಅಪ್‌ಡೇಟ್ ಮಾಡಿಲ್ಲ">
@@ -26,11 +26,11 @@
 <!-- categories / views -->
 <!ENTITY view.search.label                    "ಹುಡುಕು">
 <!ENTITY view.discover.label                  "ಆಡ್-ಆನ್‌ಗಳನ್ನು ಪಡೆದುಕೊಳ್ಳಿ">
-<!ENTITY view.locales.label                   "ಭಾಷೆಗಳು">
-<!ENTITY view.searchengines.label             "ಹುಡುಕು ಎಂಜಿನ್‌ಗಳು">
-<!ENTITY view.features.label                  "ಎಕ್ಸ್‍ಟೆನ್ಶನ್‌ಗಳು">
-<!ENTITY view.appearance2.label               "ಗೋಚರಿಕೆ">
-<!ENTITY view.plugins.label                   "ಪ್ಲಗ್ಇನ್‌ಗಳು">
+<!--ENTITY view.locales.label                   "ಭಾಷೆಗಳು"-->
+<!--ENTITY view.searchengines.label             "ಹುಡುಕು ಎಂಜಿನ್‌ಗಳು"-->
+<!--ENTITY view.features.label                  "ಎಕ್ಸ್‍ಟೆನ್ಶನ್‌ಗಳು"-->
+<!--ENTITY view.appearance2.label               "ಗೋಚರಿಕೆ"-->
+<!--ENTITY view.plugins.label                   "ಪ್ಲಗ್ಇನ್‌ಗಳು"-->
 <!ENTITY view.recentUpdates.label             "ಇತ್ತೀಚಿನ ಅಪ್‌ಡೇಟ್‌ಗಳು">
 <!ENTITY view.availableUpdates.label          "ಲಭ್ಯವಿರುವ ಅಪ್‌ಡೇಟ್‌ಗಳು">
 
