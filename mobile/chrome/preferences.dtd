@@ -8,7 +8,7 @@
 <!ENTITY enablePlugins.title                       "Slå på programtillegg">
 <!ENTITY privacy.title                             "Personvern og sikkerhet">
 <!ENTITY allowCookies.title                        "Tillat infokapsler">
-<!ENTITY doNotTrack.title                          "Fortell nettsted at jeg ikke ønsker spores">
+<!ENTITY doNotTrack.title                          "Be nettsteder ikke spore meg">
 <!ENTITY clearPrivateData2.title                   "Slett privat data">
 <!ENTITY clearPrivateData.button                   "Slett">
 <!ENTITY rememberPasswords.title                   "Husk passord">
