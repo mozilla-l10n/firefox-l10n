@@ -6,12 +6,9 @@
 <!ENTITY organize.accesskey    "א">
 <!ENTITY organize.tooltip      "ארגן את הסימניות שלך">
 
-<!ENTITY file.accesskey                 "ק">
 <!ENTITY file.close.label               "סגור">
 <!ENTITY file.close.accesskey           "ס">
 <!ENTITY cmd.close.key                  "w">
-<!ENTITY edit.label                     "עריכה">
-<!ENTITY edit.accesskey                 "ע">
 <!ENTITY views.label                    "תצוגות">
 <!ENTITY views.accesskey                "ת">
 <!ENTITY views.tooltip                  "שנה את התצוגה שלך">
@@ -76,8 +73,6 @@
 
 <!ENTITY cmd.reloadLivebookmark.label      "טען מחדש עדכנייה">
 <!ENTITY cmd.reloadLivebookmark.accesskey  "ט">
-<!ENTITY cmd.reloadMicrosummary.label      "טען מחדש מיקרו־תקציר">
-<!ENTITY cmd.reloadMicrosummary.accesskey  "ט">
 
 <!ENTITY cmd.moveBookmarks.label                  "העבר...">
 <!ENTITY cmd.moveBookmarks.accesskey              "ע">
@@ -113,17 +108,14 @@
 <!ENTITY maintenance.accesskey  "י">
 <!ENTITY maintenance.tooltip    "יבא וגבה את הסימניות שלך">
 
-<!ENTITY backCmd.label       "אחורה">
 <!ENTITY backButton.tooltip  "חזור אחורה">
 
-<!ENTITY forwardCmd.label       "קדימה">
 <!ENTITY forwardButton.tooltip  "המשך קדימה">
 
 <!ENTITY detailsPane.more.label "יותר">
 <!ENTITY detailsPane.more.accesskey "י">
 <!ENTITY detailsPane.less.label "פחות">
 <!ENTITY detailsPane.less.accesskey "פ">
-<!ENTITY detailsPane.noPreviewAvailable.label "תצוגה מקדימה">
 <!ENTITY detailsPane.selectAnItemText.description "בחר פריט כדי לצפות ולערוך את המאפיינים שלו">
 
 <!ENTITY find.label               "חפש:">

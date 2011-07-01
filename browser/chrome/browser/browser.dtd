@@ -104,7 +104,7 @@ can reach it easily. -->
 <!ENTITY subscribeToPageMenuitem.label "הירשם לדף זה...">
 <!ENTITY addCurPagesCmd.label "הוסף סימנייה לכל הלשוניות...">
 <!ENTITY showAllBookmarks2.label "הצג את כל הסימניות">
-<!ENTITY bookmarkAllCmd.label "הוסף סימנייה לכל הלשוניות...">
+<!ENTITY unsortedBookmarksCmd.label "סימניות לא ממויינות">
 <!ENTITY bookmarksToolbarChevron.tooltip "הצג סימניות נוספות">
 
 <!ENTITY backCmd.label                "אחורה">
@@ -179,6 +179,9 @@ can reach it easily. -->
 <!ENTITY addons.accesskey             "ת">
 <!ENTITY addons.commandkey            "A">
 
+<!ENTITY webDeveloperMenu.label       "כלי פיתוח">
+<!ENTITY webDeveloperMenu.accesskey   "כ">
+
 <!ENTITY errorConsoleCmd.label        "מסוף שגיאות">
 <!ENTITY errorConsoleCmd.accesskey    "ש">
 <!ENTITY errorConsoleCmd.commandkey   "j">
@@ -190,6 +193,21 @@ can reach it easily. -->
 <!ENTITY inspectMenu.label            "חקור">
 <!ENTITY inspectMenu.accesskey        "ח">
 <!ENTITY inspectMenu.commandkey       "I">
+
+<!-- LOCALIZATION NOTE (scratchpad.label): This menu item label appears
+  -  in the Tools menu. See bug 653093.
+  -  The Scratchpad is intended to provide a simple text editor for creating
+  -  and evaluating bits of JavaScript code for the purposes of function
+  -  prototyping, experimentation and convenient scripting.
+  -
+  -  It's quite possible that you won't have a good analogue for the word
+  -  "Scratchpad" in your locale. You should feel free to find a close
+  -  approximation to it or choose a word (or words) that means
+  -  "simple discardable text editor". -->
+<!ENTITY scratchpad.label             "דף טיוטה">
+<!ENTITY scratchpad.accesskey         "ט">
+<!ENTITY scratchpad.keycode           "VK_F4">
+<!ENTITY scratchpad.keytext           "F4">
 
 <!ENTITY inspectPanelTitle.label      "HTML">
 <!ENTITY inspectButton.label          "חקור">
@@ -207,6 +225,9 @@ can reach it easily. -->
   -  titlebar: object.objectPanelTitle. -->
 <!ENTITY inspectObjectButton.label       "עצם">
 <!ENTITY inspectObjectButton.accesskey   "ע">
+
+<!ENTITY getMoreDevtoolsCmd.label        "קבלת כלים נוספים">
+<!ENTITY getMoreDevtoolsCmd.accesskey    "ק">
 
 <!ENTITY fileMenu.label         "קובץ"> 
 <!ENTITY fileMenu.accesskey       "ק">

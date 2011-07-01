@@ -23,14 +23,13 @@
 <!ENTITY warning.updatesecurity.enable.label       "אפשר">
 <!ENTITY warning.updatesecurity.enable.tooltip     "הפעל בדיקות אבטחה לעדכוני תוספות">
 
+<!-- global informations -->
+<!ENTITY info.plugincheck.label                 "בדיקה שהתוספים החיצוניים שלך מעודכנים">
+<!ENTITY info.plugincheck.tooltip               "בדיקה שהתוספים החיצוניים שלך מעודכנים">
+
 <!-- categories / views -->
 <!ENTITY view.search.label                    "חיפוש">
 <!ENTITY view.discover.label                  "קבל תוספות">
-<!ENTITY view.locales.label                   "שפות">
-<!ENTITY view.searchengines.label             "מנועי חיפוש">
-<!ENTITY view.features.label                  "הרחבות">
-<!ENTITY view.appearance2.label               "מראה">
-<!ENTITY view.plugins.label                   "תוספים חיצוניים">
 <!ENTITY view.recentUpdates.label             "עדכונים אחרונים">
 <!ENTITY view.availableUpdates.label          "עדכונים זמינים">
 
