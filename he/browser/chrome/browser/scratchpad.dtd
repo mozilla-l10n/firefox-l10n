@@ -1,0 +1,123 @@
+<!-- LOCALIZATION NOTE : FILE This file contains the Scratchpad window strings -->
+<!-- LOCALIZATION NOTE : FILE Do not translate commandkeys -->
+
+<!-- LOCALIZATION NOTE (scratchpad.title):
+  -  The Scratchpad is intended to provide a simple text editor for creating
+  -  and evaluating bits of JavaScript code for the purposes of function
+  -  prototyping, experimentation and convenient scripting.
+  -
+  -  It's quite possible that you won't have a good analogue for the word
+  -  "Scratchpad" in your locale. You should feel free to find a close
+  -  approximation to it or choose a word (or words) that means
+  -  "simple discardable text editor". -->
+<!ENTITY window.title                 "דף טיוטה">
+
+<!ENTITY fileMenu.label               "קובץ">
+<!ENTITY fileMenu.accesskey           "ק">
+
+<!ENTITY newWindowCmd.label           "חלון חדש">
+<!ENTITY newWindowCmd.accesskey       "ח">
+<!ENTITY newWindowCmd.commandkey      "n">
+
+<!ENTITY openFileCmd.label            "פתיחת קובץ…">
+<!ENTITY openFileCmd.accesskey        "פ">
+<!ENTITY openFileCmd.commandkey       "o">
+
+<!ENTITY saveFileCmd.label            "שמירה">
+<!ENTITY saveFileCmd.accesskey        "ש">
+<!ENTITY saveFileCmd.commandkey       "s">
+
+<!ENTITY saveFileAsCmd.label          "שמירה בשם…">
+<!ENTITY saveFileAsCmd.accesskey      "ש">
+
+<!ENTITY closeCmd.label               "סגירה">
+<!ENTITY closeCmd.key                 "W">
+<!ENTITY closeCmd.accesskey           "ס">
+
+<!ENTITY editMenu.label               "עריכה">
+<!ENTITY editMenu.accesskey           "ע">
+
+<!ENTITY undoCmd.label                "ביטול">
+<!ENTITY undoCmd.key                  "Z">
+<!ENTITY undoCmd.accesskey            "ב">
+
+<!ENTITY redoCmd.label                "ביצוע חוזר">
+<!ENTITY redoCmd.key                  "Y">
+<!ENTITY redoCmd.accesskey            "ב">
+
+<!ENTITY cutCmd.label                 "גזירה">
+<!ENTITY cutCmd.key                   "X">
+<!ENTITY cutCmd.accesskey             "ג">
+
+<!ENTITY copyCmd.label                "העתקה">
+<!ENTITY copyCmd.key                  "C">
+<!ENTITY copyCmd.accesskey            "ה">
+
+<!ENTITY pasteCmd.label               "הדבקה">
+<!ENTITY pasteCmd.key                 "V">
+<!ENTITY pasteCmd.accesskey           "ה">
+
+<!ENTITY selectAllCmd.label           "בחר הכל">
+<!ENTITY selectAllCmd.key             "A">
+<!ENTITY selectAllCmd.accesskey       "ב">
+
+<!ENTITY run.label                    "הרצה">
+<!ENTITY run.accesskey                "ה">
+<!ENTITY run.key                      "r">
+
+<!ENTITY inspect.label                "חקירה">
+<!ENTITY inspect.accesskey            "ח">
+<!ENTITY inspect.key                  "i">
+
+<!ENTITY display.label                "תצוגה">
+<!ENTITY display.accesskey            "ת">
+<!ENTITY display.key                  "l">
+
+<!-- LOCALIZATION NOTE (environmentMenu.label, accesskey): This menu item was
+  -  renamed from "Context" to avoid confusion with the right-click context
+  -  menu in the text area. It refers to the JavaScript Environment (or context)
+  -  the user is evaluating against. I.e., Content (current tab) or Chrome
+  -  (browser).
+  -->
+<!ENTITY environmentMenu.label        "סביבה">
+<!ENTITY environmentMenu.accesskey    "ס">
+
+
+<!ENTITY contentContext.label         "תוכן">
+<!ENTITY contentContext.accesskey     "ת">
+
+<!-- LOCALIZATION NOTE (browserContext.label, accesskey): This menu item is used
+  -  to select an execution environment for the browser window itself as opposed
+  -  to content. This is a feature for browser and addon developers and only
+  -  enabled via the devtools.chrome.enabled preference. Formerly, this label
+  -  was called "Chrome".
+  -->
+<!ENTITY browserContext.label         "דפדפן">
+<!ENTITY browserContext.accesskey     "ד">
+
+<!-- LOCALIZATION NOTE (resetContext.label): This command allows the developer
+  -  to reset/clear the global object of the environment where the code executes.
+  -->
+<!ENTITY resetContext.label           "איפוס">
+<!ENTITY resetContext.accesskey       "א">
+
+<!ENTITY executeMenu.label            "ביצוע">
+<!ENTITY executeMenu.accesskey        "ב">
+
+<!ENTITY toolsMenu.label              "כלים">
+<!ENTITY toolsMenu.accesskey          "כ">
+
+<!ENTITY errorConsoleCmd.label        "מסוף שגיאות">
+<!ENTITY errorConsoleCmd.accesskey    "מ">
+<!ENTITY errorConsoleCmd.commandkey   "j">
+
+<!ENTITY webConsoleCmd.label          "מסוף רשת">
+<!ENTITY webConsoleCmd.accesskey      "מ">
+<!ENTITY webConsoleCmd.commandkey     "k">
+
+<!-- LOCALIZATION NOTE (textbox.placeholder1): This is some placeholder text
+  -  that appears when the Scratchpad's text area is empty and unfocused.
+  -  It should be a one-line JavaScript comment, i.e., preceded by '//'
+  -->
+<!ENTITY textbox.placeholder1         "// ‫נא להכניס קטע קוד JavaScript, לסמן אותו, ללחוץ על כפתור העכבר הימני ולבחור הרצה, חקירה או תצוגה.‬">
+
