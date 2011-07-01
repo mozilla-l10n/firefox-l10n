@@ -10,7 +10,7 @@
   -  "Scratchpad" in your locale. You should feel free to find a close
   -  approximation to it or choose a word (or words) that means
   -  "simple discardable text editor". -->
-<!ENTITY window.title                 "Scratchpad">
+<!ENTITY window.title                 "Editor JavaScript">
 
 <!ENTITY fileMenu.label               "Fișier">
 <!ENTITY fileMenu.accesskey           "F">
@@ -101,7 +101,7 @@
 <!ENTITY resetContext.label           "Resetează">
 <!ENTITY resetContext.accesskey       "R">
 
-<!ENTITY executeMenu.label            "Execută">
+<!ENTITY executeMenu.label            "Executare">
 <!ENTITY executeMenu.accesskey        "x">
 
 <!ENTITY toolsMenu.label              "Unelte">
