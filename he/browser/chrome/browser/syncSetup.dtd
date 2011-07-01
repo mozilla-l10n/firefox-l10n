@@ -43,7 +43,7 @@
 <!ENTITY setup.newSyncKeyPage.description.label "כדי לדאוג שפרטיותך לא תיפגע, כל הנתונים שלך מוצפנים בטרם ההעלאה. מפתח הסנכרון הנחוץ לפענוח הנתונים שלך לא יועלה.">
 <!ENTITY syncKeyEntry.label        "מפתח הסנכרון שלך">
 <!ENTITY syncKeyEntry.accesskey    "מ">
-<!ENTITY syncKeyGenerate.label     "צור">
+<!ENTITY syncGenerateNewKey.label  "יצירת מפתח חדש">
 <!ENTITY syncKeyBackup.description "מפתח הסנכרון שלך דרוש כדי לגשת אל &syncBrand.fullName.label; במחשבים אחרים. אנא צור עותק גיבוי. לא נוכל לסייע לך לשחזר את מפתח הסנכרון שלך.">
 
 <!ENTITY button.syncKeyBackup.print.label     "הדפסה...">

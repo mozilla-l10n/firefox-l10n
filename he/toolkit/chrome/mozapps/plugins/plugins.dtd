@@ -19,10 +19,14 @@
 
 <!ENTITY pluginWizard.finalPage.moreInfo.label               "מצא עוד אודות תוספים או חפש ידנית תוספים חסרים">
 <!ENTITY pluginWizard.finalPage.restart.label                "יש להפעיל מחדש את &brandShortName; כדי שהתוספים החיצוניים יתפקדו.">
-  
-<!ENTITY missingPlugin.label                                 "לחץ כאן להורדת התוסף.">
-<!ENTITY disabledPlugin.label                                "התוסף לתוכן זה מנוטרל. לחץ כאן כדי לנהל את התוספים שלך.">
+
+<!ENTITY missingPlugin                                       "נחוץ תוסף חיצוני כדי להציג את תוכן זה.">
+<!ENTITY disabledPlugin                                      "תוסף חיצוני זה אינו פעיל.">
 <!ENTITY blockedPlugin.label                                 "תוסף זה נחסם כדי להגן עליך.">
+
+<!ENTITY installPlugin                                       "התקנת תוסף חיצוני…">
+<!ENTITY managePlugins                                       "ניהול תוספים חיצוניים…">
+
 <!-- LOCALIZATION NOTE (reloadPlugin.pre): include a trailing space as needed -->
 <!-- LOCALIZATION NOTE (reloadPlugin.middle): avoid leading/trailing spaces, this text is a link -->
 <!-- LOCALIZATION NOTE (reloadPlugin.post): include a starting space as needed -->
