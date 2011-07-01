@@ -26,3 +26,7 @@
 <!ENTITY report.submitted                                    "ભંગાણ એહેવાલને મોકલી દીધો.">
 <!ENTITY report.submitting                                   "અહેવાલ મોકલી રહ્યા છે…">
 <!ENTITY report.unavailable                                  "ઉપલબ્ધ અહેવાલ નથી.">
+<!ENTITY disabledPlugin                                      "આ પ્લગઇન નિષ્ક્રિય થયેલ છે.">
+<!ENTITY installPlugin                                       "પ્લગઇન સ્થાપિત કરો…">
+<!ENTITY managePlugins                                       "પ્લગઇનને સંચાલિત કરો…">
+<!ENTITY missingPlugin                                       "પ્લગઇન આ સમાવિષ્ટને દર્શાવવા માટે જરૂરી છે.">

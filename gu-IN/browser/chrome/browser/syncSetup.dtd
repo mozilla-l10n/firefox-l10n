@@ -125,3 +125,4 @@
 <!ENTITY signIn.syncKey.accesskey   "K">
 <!ENTITY signIn.syncKey.label       "સુમેળ કી">
 <!ENTITY resetSyncKey.label           "મેં મારુ બીજુ ઉપકરણ ગુમાવ્યુ.">
+<!ENTITY syncGenerateNewKey.label  "નવી કીને ઉત્પન્ન કરો">
