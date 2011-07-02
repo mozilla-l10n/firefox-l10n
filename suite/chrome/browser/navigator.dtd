@@ -82,8 +82,8 @@
 <!ENTITY visiualcontrolstextmodeBidiCmd.label "חזותי">
 <!ENTITY containercontrolstextmodeBidiCmd.label "כמו המסמך המכיל">
 <!ENTITY charactersetBidiMenu.label "אוסף תוים">
-<!ENTITY doccharactersetBidiCmd.label "השתמש באוסף תוים שצויין במסמך">
-<!ENTITY defaultcharactersetBidiCmd.label "השתמש באוסף התוים שבברירת המחדל שלי, תוך עקיפת אוסף התוים שצויין במסמך">
+<!ENTITY doccharactersetBidiCmd.label "השתמש באוסף תוים שצוין במסמך">
+<!ENTITY defaultcharactersetBidiCmd.label "השתמש באוסף התוים שבברירת המחדל שלי, תוך עקיפת אוסף התוים שצוין במסמך">
 <!ENTITY webContentMenu.label "שפות ותוכן רשת">
 <!ENTITY webContentMenu.accesskey "ש">
 <!ENTITY downloadMore.label "הורד עוד">

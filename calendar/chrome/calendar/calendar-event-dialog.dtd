@@ -50,7 +50,7 @@
 
 <!ENTITY newevent.status.label              "מצב" >
 <!ENTITY newevent.status.accesskey          "מ" >
-<!ENTITY newevent.status.none.label         "לא צויין" >
+<!ENTITY newevent.status.none.label         "לא צוין" >
 <!ENTITY newevent.status.cancelled.label    "בוטל" >
 <!ENTITY newevent.status.tentative.label    "טנטטיבי" >
 <!ENTITY newevent.status.confirmed.label    "אושר" >
@@ -122,7 +122,7 @@
 <!ENTITY  event.menu.options.timezone.accesskey               "ז">
 <!ENTITY  event.menu.options.priority2.label                  "דחיפות">
 <!ENTITY  event.menu.options.priority2.accesskey              "ד">
-<!ENTITY  event.menu.options.priority.notspecified.label      "לא צויינה">
+<!ENTITY  event.menu.options.priority.notspecified.label      "לא צוינה">
 <!ENTITY  event.menu.options.priority.notspecified.accesskey  "ל">
 <!ENTITY  event.menu.options.priority.low.label               "נמוכה">
 <!ENTITY  event.menu.options.priority.low.accesskey           "נ">

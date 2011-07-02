@@ -12,9 +12,9 @@
 <!ENTITY promptDownload.accesskey "ש">
 <!ENTITY lastLocation.label "תיקיית ההורדה האחרונה">
 <!ENTITY lastLocation.accesskey "ר">
-<!ENTITY specifiedLocation.label "תיקיית ההורדה שצויינה">
+<!ENTITY specifiedLocation.label "תיקיית ההורדה שצוינה">
 <!ENTITY specifiedLocation.accesskey "נ">
-<!ENTITY autoDownload.label "הורד קבצים אוטומטית לתיקיית ההורדות שצויינה">
+<!ENTITY autoDownload.label "הורד קבצים אוטומטית לתיקיית ההורדות שצוינה">
 <!ENTITY autoDownload.accesskey "ה">
 <!ENTITY downloadFolder.label "תיקיית הורדה נוכחית:">
 <!ENTITY chooseDownloadFolder.label "בחר תיקייה...">

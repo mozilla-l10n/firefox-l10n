@@ -74,7 +74,7 @@
 <!ENTITY featureConfigurator.autoSync.off.explanation "פעולה זו משמעותה טעינה איטית יותר של הודעות, ותוצאות חיפוש חלקיות.">
 
 <!-- LOCALIZATION NOTE (featureConfigurator.autoSync.some): The label for the radio button that will let you customize the synchronize for each account. -->
-<!ENTITY featureConfigurator.autoSync.some "סינכרון לחשבונות מסויימים">
+<!ENTITY featureConfigurator.autoSync.some "סינכרון לחשבונות מסוימים">
 <!ENTITY featureConfigurator.autoSync.some.explanation "ביצוע התאמה אישית לצרכי הסנכרון שלך לפי חשבון ותיקייה.">
 
 <!-- LOCALIZATION NOTE (featureConfigurator.diskSpace.currentSize): The label for the current amount of disk space your accounts are consuming. -->
