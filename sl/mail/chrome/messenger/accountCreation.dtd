@@ -10,42 +10,46 @@
 <!ENTITY password.accesskey              "G">
 <!ENTITY password.placeholder            "Geslo">
 <!ENTITY password.text                   "Po želji, rabilo se bo samo za potrditev vašega uporabniškega imena">
+<!ENTITY rememberPassword.label          "Zapomni si geslo">
+<!ENTITY rememberPassword.accesskey      "m">
 
-<!ENTITY accountInformation.label        "Podatki za račun">
-<!ENTITY username2.label                 "Uporabniško ime:">
+<!ENTITY imapLong.label                  "IMAP (oddaljene mape)">
+<!ENTITY pop3Long.label                  "POP3 (pošta ostane na vašem računalniku)">
+
 <!ENTITY incoming.label                  "Prihajajoča:">
 <!ENTITY outgoing.label                  "Odhajajoča:">
+<!ENTITY username.label                  "Ime uporabnika:">
+<!ENTITY hostname.label                  "Ime strežnika">
+<!ENTITY port.label                      "Port">
+<!ENTITY ssl.label                       "SSL">
+<!ENTITY auth.label                      "Avtentikacija">
+<!ENTITY imap.label                      "IMAP">
+<!ENTITY pop3.label                       "POP3">
+<!ENTITY smtp.label                      "SMTP">
+<!ENTITY autodetect.label                "Autodetect">
+<!-- LOCALIZATION NOTE(noEncryption.label): Neither SSL/TLS nor STARTTLS.
+     Transmission of emails in cleartext over the Internet. -->
 <!ENTITY noEncryption.label              "Brez">
 <!ENTITY starttls.label                  "STARTTLS">
 <!ENTITY sslTls.label                    "SSL/TLS">
 
-<!ENTITY imap.label                      "IMAP">
-<!ENTITY pop.label                       "POP">
-<!ENTITY smtp.label                      "SMTP">
-<!ENTITY imap.description                "IMAP - dostop do sporočil in map z več računalnikov">
-<!ENTITY pop.description                 "POP - prenesi vsa sporočila na ta računalnik, mape so samo lokalne">
-<!ENTITY recommended-appendix.label      "(se priporoča)">
-
-<!ENTITY manualSetup.label               "Ročna nastavitev …">
-<!ENTITY manualSetup.accesskey           "R">
+<!ENTITY advancedSetup.label             "Napredna nastavitev">
+<!ENTITY advancedSetup.accesskey         "A">
 <!ENTITY cancel.label                    "Prekliči">
-<!ENTITY cancel.accesskey                "Q">
+<!ENTITY cancel.accesskey                "P">
 <!ENTITY continue.label                  "Nadaljuj">
 <!ENTITY continue.accesskey              "N">
-<!ENTITY startOver.label                 "Začni znova">
-<!ENTITY startOver.accesskey             "Z">
-<!ENTITY stop.label                      "Ustavi">
-<!ENTITY stop.accesskey                  "U">
-<!-- LOCALIZATION NOTE (retest.label): This is the text that is
-     displayed on the button which will re-guess the account configuration,
-     taking into account the settings the user has changed. -->
+<!ENTITY stop.label                      "Stop">
+<!ENTITY stop.accesskey                  "S">
+<!-- LOCALIZATION NOTE (half-manual-test.label): This is the text that is
+     displayed on the button in manual edit mode which will re-guess
+     the account configuration, taking into account the settings that
+     the user has manually changed. -->
 <!ENTITY retest.label                    "Ponovno preveri konfiguracijo">
 <!ENTITY retest.accesskey                "P">
-<!ENTITY edit.label                      "Uredi">
+<!ENTITY edit.label                      "Uredi ročno">
 <!ENTITY edit.accesskey                  "U">
 
-<!ENTITY rememberPassword.label          "Zapomni si geslo">
-<!ENTITY rememberPassword.accesskey      "Z">
 
 <!ENTITY warning.label                   "Opozorilo!">
 <!ENTITY incomingSettings.label          "Nastavitve za prihajajočo pošto:">
