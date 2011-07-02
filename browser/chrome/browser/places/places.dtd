@@ -6,12 +6,9 @@
 <!ENTITY organize.accesskey    "В">
 <!ENTITY organize.tooltip      "Впорядкувати ваші закладки">
 
-<!ENTITY file.accesskey                 "Ф">
 <!ENTITY file.close.label               "Закрити">
 <!ENTITY file.close.accesskey           "к">
 <!ENTITY cmd.close.key                  "w">
-<!ENTITY edit.label                     "Редагувати">
-<!ENTITY edit.accesskey                 "Р">
 <!ENTITY views.label                    "Вигляд">
 <!ENTITY views.accesskey                "В">
 <!ENTITY views.tooltip                  "Змінити вигляд">
@@ -76,8 +73,6 @@
 
 <!ENTITY cmd.reloadLivebookmark.label      "Оновити живу закладку">
 <!ENTITY cmd.reloadLivebookmark.accesskey  "О">
-<!ENTITY cmd.reloadMicrosummary.label      "Перечитати зведення ">
-<!ENTITY cmd.reloadMicrosummary.accesskey  "з">
 
 <!ENTITY cmd.moveBookmarks.label                  "Перенести…">
 <!ENTITY cmd.moveBookmarks.accesskey              "П">
@@ -113,17 +108,14 @@
 <!ENTITY maintenance.accesskey  "І">
 <!ENTITY maintenance.tooltip    "Імпортування та створення резервних копій ваших закладок">
 
-<!ENTITY backCmd.label       "Назад">
 <!ENTITY backButton.tooltip  "Повернутись назад">
 
-<!ENTITY forwardCmd.label       "Вперед">
 <!ENTITY forwardButton.tooltip  "Перейти вперед">
 
 <!ENTITY detailsPane.more.label "Більше">
 <!ENTITY detailsPane.more.accesskey "Б">
 <!ENTITY detailsPane.less.label "Менше">
 <!ENTITY detailsPane.less.accesskey "М">
-<!ENTITY detailsPane.noPreviewAvailable.label "Попередній перегляд">
 <!ENTITY detailsPane.selectAnItemText.description "Додати елемент до перегляду та редагувати його властивості">
 
 <!ENTITY find.label               "Знайти:">
