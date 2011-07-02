@@ -1,7 +1,7 @@
 <!ENTITY aboutDialog.title "Par &brandFullName;">
 <!ENTITY community.start2            "&brandShortName; veido ">
-<!ENTITY community.mozillaLink      "&vendorShortName;">
-<!ENTITY community.middle2          ", kas">
+<!ENTITY community.mozillaLink      "&vendorShortName; organizācija">
+<!ENTITY community.middle2          ", kuras">
 <!ENTITY community.end2              " kopīgi strādā pie tā, lai padarītu Internetu labāku. Mēs ticam, ka internetam ir jābūt atvērtam, publiskam un brīvi pieejamam ikvienam bez jebkādiem ierobežojumiem.">
 
 <!ENTITY contribute.start           "Izklausās interesanti? ">
