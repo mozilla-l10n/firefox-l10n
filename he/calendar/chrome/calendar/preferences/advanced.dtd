@@ -75,7 +75,7 @@
 <!ENTITY pref.calendar.advanced.update.modeAskMe.accesskey "ש">
 <!ENTITY pref.calendar.advanced.update.modeAuto.label "הורד והתקן את העדכון בצורה אוטומטית">
 <!ENTITY pref.calendar.advanced.update.modeAuto.accesskey "ה">
-<!ENTITY pref.calendar.advanced.update.modeAutoWarn.label "הזהר אותי במידה ועדכון זה ינטרל תוספות מותקנות">
+<!ENTITY pref.calendar.advanced.update.modeAutoWarn.label "הזהר אותי אם עדכון זה ינטרל תוספות מותקנות">
 <!ENTITY pref.calendar.advanced.update.modeAutoWarn.accesskey "ז">
 <!ENTITY pref.calendar.advanced.update.showHistory.label "הצג היסטוריית עדכונים…">
 <!ENTITY pref.calendar.advanced.update.showHistory.accesskey "ה">
