@@ -8,3 +8,4 @@
 <!ENTITY aboutHome.openAllTabs                  "Öppna alla i flikar">
 <!ENTITY aboutHome.noTabs                       "Inga flikar från sist">
 <!ENTITY aboutHome.noAddons                     "Inga rekommenderade tillägg">
+<!ENTITY aboutHome.getLocale                    "Byt språk">
