@@ -1,5 +1,6 @@
 <!ENTITY  splash_screen_label "载入中">
 <!ENTITY  splash_screen_installing "正在安装库文件\u2026">
+<!ENTITY  splash_firstrun "设置 &brandShortName;\u2026">
 <!ENTITY  incompatable_cpu_error "此设备不满足安装 &brandShortName; 的最低要求。">
 <!ENTITY  no_space_to_start_error "无足够的空间以启动 &brandShortName;。">
 <!ENTITY  error_loading_file "载入运行 &brandShortName; 所需的文件时发生错误">

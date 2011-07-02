@@ -1,4 +1,4 @@
-<!ENTITY tracking.label                 "追踪中">
+<!ENTITY tracking.label                 "追踪">
 
 <!ENTITY doNotTrack.label               "告诉网站我不希望被追踪">
 <!ENTITY doNotTrack.accesskey           "d">
