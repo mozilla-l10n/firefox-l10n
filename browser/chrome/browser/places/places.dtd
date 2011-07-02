@@ -16,9 +16,9 @@
 <!ENTITY view.columns.accesskey         "ה">
 <!ENTITY view.sort.label                "מיין">
 <!ENTITY view.sort.accesskey            "מ">
-<!ENTITY view.unsorted.label            "לא ממויין">
+<!ENTITY view.unsorted.label            "לא ממוין">
 <!ENTITY view.unsorted.accesskey        "ל">
-<!ENTITY view.sortAscending.label       "ממויין בסדר עולה">
+<!ENTITY view.sortAscending.label       "ממוין בסדר עולה">
 <!ENTITY view.sortAscending.accesskey   "ע">
 <!ENTITY view.sortDescending.label      "מיון בסדר יורד">
 <!ENTITY view.sortDescending.accesskey  "י">
