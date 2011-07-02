@@ -19,16 +19,16 @@ Entities below were automatically added by compare-locales,
 <!ENTITY aboutSupport.extensionEnabled "බලැති (Enabled)">
 <!ENTITY aboutSupport.appBasicsBuildConfig "Build Configuration">
 <!ENTITY aboutSupport.appBasicsName "නම">
-<!ENTITY aboutSupport.appBasicsProfileDir "Profile Directory">
+<!ENTITY aboutSupport.appBasicsProfileDir "ප්‍රොපයිල ඩිරෙක්ටරිය">
 <!ENTITY aboutSupport.modifiedPrefsValue "අගය">
 <!ENTITY aboutSupport.appBasicsTitle "යෙදුම් මූලිකාංග">
 <!ENTITY aboutSupport.modifiedPrefsName "නම">
-<!ENTITY aboutSupport.graphicsTitle "Graphics">
+<!ENTITY aboutSupport.graphicsTitle "පිංතූර">
 <!ENTITY aboutSupport.appBasicsVersion "නිකුතුව">
 <!ENTITY aboutSupport.show.label "අඩංගු ෆෝල්ඩරය විවෘත කරන්න">
 <!ENTITY aboutSupport.copyToClipboard.label "Copy all to clipboard">
 <!ENTITY aboutSupport.installationHistoryTitle "ස්ථාපන ඉතිහාසය">
 <!ENTITY aboutSupport.extensionName "නම">
-<!ENTITY aboutSupport.showMac.label "Show in Finder">
+<!ENTITY aboutSupport.showMac.label "සෙවීම්තීරය තුළ පෙන්වන්න">
 <!ENTITY aboutSupport.pageTitle "දොස් සෙවීම් තොරතුරු">
 <!ENTITY aboutSupport.modifiedPrefsTitle "වෙනස්කළ මනාපයන්">

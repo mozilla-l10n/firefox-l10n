@@ -53,16 +53,12 @@ Entities below were automatically added by compare-locales,
  based on en-US entities.
 -->
 
-<!ENTITY error.title "Update Failed">
-<!ENTITY genericBackgroundError.label "&brandShortName; is unable to determine if there is an update available. Please
-                                           make sure that you have the latest version of &brandShortName; from:">
-<!ENTITY pluginupdateslink.label "See how to upgrade your plugins.">
-<!ENTITY pluginupdatesfound.title "Found Updates for Plugins">
-<!ENTITY errorCertAttrNoUpdate2.label "Something is preventing &brandShortName; from updating securely.
-                                           Please make sure that you have the latest version of &brandShortName; from:">
-<!ENTITY downloadPage.title "Downloading &brandShortName;">
-<!ENTITY errorCertAttrHasUpdate.label "Something is trying to trick &brandShortName; into accepting an
-                                           insecure update. Please contact your network provider and seek help.">
-<!ENTITY manualUpdate.space.desc "A recommended security and stability update is available, but you do
-                                           not have enough space to install it.">
-<!ENTITY pluginupdatesfound.label "Newer versions of one or more of your plugins were found.">
+<!ENTITY error.title "යාවත්කාලීනය අසාර්ථක විය">
+<!ENTITY genericBackgroundError.label "&brandShortName; සඳහා යාවත්කාලීන තිබේදැයි හරියටම නිශ්චය කරගත නොහැකිය. Please make sure that you have the latest version of &brandShortName; හි නවතම නිකුතුව ශබ සතුව ඇත්දැයි මෙමඟින් තහවුරු කරගන්න:">
+<!ENTITY pluginupdateslink.label "ඔබගේ ප්ලගීන යාවත්කාලීන කරන්නේ කෙසේදැයි බලන්න.">
+<!ENTITY pluginupdatesfound.title "ප්ලගීන සඳහා යාවත්කාලීන හමුවිය">
+<!ENTITY errorCertAttrNoUpdate2.label "&brandShortName; ආරක්ෂීතව යාවත්කාලීන කිරීම කිසිවක් විසින් වළකාලයි. &brandShortName;  හි නවතම නිකුතුව ඔබ සතුව ඇත්දැයි මෙමඟින් තහවුරු කරගන්න:">
+<!ENTITY downloadPage.title "&brandShortName; බාගත කිරීම">
+<!ENTITY errorCertAttrHasUpdate.label "කිසිවක් විසින් අනාරක්ෂිත යාවත්කාලීන කිරීමක් පිළිගැනීම සඳහා  &brandShortName; යොමුකිරීමට උත්සාහ දරයි. උදව් සඳහා ජාල සැපයුම්කරු සම්බන්ධ කරගන්න.">
+<!ENTITY manualUpdate.space.desc "නිර්දේශිත ආරක්ෂිත හා ස්ථායි යාවත්කාලීන කිරීම් ඇති නමුත් ස්ථාපනය සඳහා ඔබ සතුව ප්‍රමාණවත් හිස් ඉඩක් නැත.">
+<!ENTITY pluginupdatesfound.label "ඔබගේ ප්ලගීන එකක් හෝ කිහිපයක් සඳහා නව නිකුතූන් හමුවිය.">
