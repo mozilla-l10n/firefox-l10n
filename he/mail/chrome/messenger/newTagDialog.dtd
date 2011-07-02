@@ -1,3 +1,4 @@
-<!ENTITY newTagDialog.title "צור תווית חדשה">
-<!ENTITY name.label "שם התווית:">
-<!ENTITY name.accesskey "T">
+<!-- New Tag Dialog -->
+<!ENTITY newTagDialog.title      "צור תווית חדשה">
+<!ENTITY name.label              "שם התווית:">
+<!ENTITY name.accesskey          "T">

@@ -1,7 +1,7 @@
 <!ENTITY serverAdvanced.label "הגדרות חשבון מתקדמות">
-
+<!-- LOCALIZATION NOTE (serverDirectory.label): Do not translate "IMAP" -->
 <!ENTITY serverDirectory.label "ספריית שרת IMAP:‏">
-<!ENTITY serverDirectory.accesskey "d">
+<!ENTITY serverDirectory.accesskey "I">
 <!ENTITY usingSubscription.label "הראה רק תיקיות להן אני מנוי">
 <!ENTITY usingSubscription.accesskey "w">
 <!ENTITY dualUseFolders.label "השרת תומך בתיקיות המכילות תת־תיקיות והודעות">
@@ -10,6 +10,7 @@
 <!ENTITY useIdle.accesskey "I">
 <!ENTITY maximumConnectionsNumber.label "מספר מירבי של חיבורי שרת אל המטמון">
 <!ENTITY maximumConnectionsNumber.accesskey "M">
+<!-- LOCALIZATION NOTE (namespaceDesc.label): Do not translate "IMAP" -->
 <!ENTITY namespaceDesc.label "העדפות אלו מציינות את מרחבי השמות על שרת ה־IMAP שלך">
 <!ENTITY personalNamespace.label "מרחב שמות אישי:">
 <!ENTITY personalNamespace.accesskey "P">
@@ -19,8 +20,7 @@
 <!ENTITY otherUsersNamespace.accesskey "O">
 <!ENTITY overrideNamespaces.label "הרשה לשרת לעקוף מרחבי שמות אלה">
 <!ENTITY overrideNamespaces.accesskey "A">
-<!ENTITY pop3Desc.label "בעת הורדת דואר pop3 עבור שרת זה, השתמש בתיקייה הבאה עבור דואר חדש:">
-
+<!ENTITY pop3Desc.label "בעת הורדת דואר pop3 עבור שרת זה, השתמש בתיקייה הבאה עבור דואר חדש:" >
 <!ENTITY globalInbox.label "תיבת דואר נכנס גלובלית (חשבון תיקיות מקומיות)">
 <!ENTITY globalInbox.accesskey "G">
 <!ENTITY accountDirectory.label "תיבת דואר נכנס עבור חשבון של שרת זה">

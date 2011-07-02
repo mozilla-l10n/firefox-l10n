@@ -1,4 +1,4 @@
-<!ENTITY sendWindow.title "שולח הודעות">
-
+<!--LOCALIZATION NOTE sendprogress.dtd Main UI for Send Message Progress Dialog -->
+<!ENTITY sendWindow.title "שולח הודעות"> 
 <!ENTITY status.label "מצב:">
 <!ENTITY progress.label "התקדמות:">

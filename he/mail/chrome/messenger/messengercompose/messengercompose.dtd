@@ -2,7 +2,7 @@
 <!ENTITY msgComposeWindow.title "חבר הודעה: (ללא נושא)">
 
 <!-- File Menu -->
-<!ENTITY fileMenu.label "קובץ">
+<!ENTITY fileMenu.label "קובץ"> 
 <!ENTITY fileMenu.accesskey "ק">
 <!ENTITY newMenu.label "חדש">
 <!ENTITY newMenu.accesskey "ח">
@@ -10,26 +10,26 @@
 <!ENTITY newMessage.key "M">
 <!ENTITY newMessageCmd2.key "N">
 <!ENTITY newMessage.accesskey "ה">
-
 <!ENTITY newContact.label "איש קשר בספר הכתובות…">
 <!ENTITY newContact.accesskey "א">
 <!ENTITY attachMenu.label "צרף">
 <!ENTITY attachMenu.accesskey "ר">
-<!ENTITY attachFileCmd.label "קובץ (קבצים)...">
+<!ENTITY attachFileCmd.label "קובץ (קבצים)…">
 <!ENTITY attachFileCmd.accesskey "ק">
-<!ENTITY attachPageCmd.label "דף אינטרנט...">
+<!ENTITY attachPageCmd.label "דף אינטרנט…">
 <!ENTITY attachPageCmd.accesskey "א">
+<!--LOCALIZATION NOTE attachVCardCmd.label Don't translate the term 'vCard' -->
 <!ENTITY attachVCardCmd.label "כרטיס אישי (vCard)">
 <!ENTITY attachVCardCmd.accesskey "כ">
-<!ENTITY closeCmd.label "סגור">
+<!ENTITY closeCmd.label "סגירה">
 <!ENTITY closeCmd.key "W">
 <!ENTITY closeCmd.accesskey "ג">
-<!ENTITY saveCmd.label "שמור">
+<!ENTITY saveCmd.label "שמירה">
 <!ENTITY saveCmd.key "S">
 <!ENTITY saveCmd.accesskey "ש">
-<!ENTITY saveAsCmd.label "שמור">
+<!ENTITY saveAsCmd.label "שמירה">
 <!ENTITY saveAsCmd.accesskey "מ">
-<!ENTITY saveAsFileCmd.label "כקובץ...">
+<!ENTITY saveAsFileCmd.label "כקובץ…">
 <!ENTITY saveAsFileCmd.accesskey "כ">
 <!ENTITY saveAsDraftCmd.label "כטיוטה">
 <!ENTITY saveAsDraftCmd.accesskey "ט">
@@ -37,31 +37,32 @@
 <!ENTITY saveAsTemplateCmd.accesskey "ת">
 <!ENTITY sendNowCmd.label "שלח כעת">
 <!ENTITY sendCmd.keycode "VK_RETURN">
-<!ENTITY sendNowCmd.accesskey "d">
+<!ENTITY sendNowCmd.accesskey "ע">
 <!ENTITY sendLaterCmd.label "שלח מאוחר יותר">
 <!ENTITY sendLaterCmd.keycode "VK_RETURN">
-<!ENTITY sendLaterCmd.accesskey "L">
-<!ENTITY printSetupCmd.label "הגדרת עמוד...">
+<!ENTITY sendLaterCmd.accesskey "א">
+<!ENTITY printSetupCmd.label "הגדרת עמוד…">
 <!ENTITY printSetupCmd.accesskey "ה">
-<!ENTITY printCmd.label "הדפסה...">
+<!ENTITY printCmd.label "הדפסה…">
 <!ENTITY printCmd.key "P">
 <!ENTITY printCmd.accesskey "ד">
 
-<!ENTITY editMenu.label "עריכה">
+<!-- Edit Menu -->
+<!ENTITY editMenu.label "עריכה"> 
 <!ENTITY editMenu.accesskey "ע">
 <!ENTITY undoCmd.label "בטל">
 <!ENTITY undoCmd.key "Z">
-<!ENTITY undoCmd.accesskey "ט">
+<!ENTITY undoCmd.accesskey "ט"> 
 <!ENTITY redoCmd.label "בצע שוב">
 <!ENTITY redoCmd.key "Y">
-<!ENTITY redoCmd.accesskey "r">
-<!ENTITY cutCmd.label "גזור">
+<!ENTITY redoCmd.accesskey "ש"> 
+<!ENTITY cutCmd.label "גזירה">
 <!ENTITY cutCmd.key "X">
-<!ENTITY cutCmd.accesskey "ג">
-<!ENTITY copyCmd.label "העתק">
+<!ENTITY cutCmd.accesskey "ג"> 
+<!ENTITY copyCmd.label "העתקה">
 <!ENTITY copyCmd.key "C">
-<!ENTITY copyCmd.accesskey "ת">
-<!ENTITY pasteCmd.label "הדבק">
+<!ENTITY copyCmd.accesskey "ת"> 
+<!ENTITY pasteCmd.label "הדבקה">
 <!ENTITY pasteCmd.key "V">
 <!ENTITY pasteCmd.accesskey "ה">
 <!ENTITY pasteNoFormattingCmd.key "V">
@@ -73,8 +74,8 @@
 <!ENTITY deleteCmd.accesskey "ח">
 <!ENTITY selectAllCmd.label "בחר הכל">
 <!ENTITY selectAllCmd.key "A">
-<!ENTITY selectAllCmd.accesskey "ב">
-<!ENTITY findCmd.label "מצא והחלף...">
+<!ENTITY selectAllCmd.accesskey "ב"> 
+<!ENTITY findCmd.label "מצא והחלף…">
 <!ENTITY findCmd.key "F">
 <!ENTITY findCmd.accesskey "F">
 <!ENTITY findAgainCmd.label "מצא שוב">
@@ -84,24 +85,24 @@
 <!ENTITY findPrevCmd.label "מצא את הקודם">
 <!ENTITY findPrevCmd.key "G">
 <!ENTITY findPrevCmd.key2 "VK_F3">
-<!ENTITY findPrevCmd.accesskey "v">
+<!ENTITY findPrevCmd.accesskey "v"> 
 
 <!-- View Menu -->
-<!ENTITY viewMenu.label "תצוגה">
+<!ENTITY viewMenu.label "תצוגה"> 
 <!ENTITY viewMenu.accesskey "ת">
-<!ENTITY viewToolbarsMenuNew.label "סרגלי כלים">
-<!ENTITY viewToolbarsMenuNew.accesskey "כ">
+<!ENTITY viewToolbarsMenuNew.label "סרגלי כלים"> 
+<!ENTITY viewToolbarsMenuNew.accesskey "כ"> 
 <!ENTITY showCompositionToolbarCmd.label "סרגל כלים כתיבה">
 <!ENTITY showCompositionToolbarCmd.accesskey "כ">
 <!ENTITY showFormattingBarCmd.label "סרגל עיצוב">
 <!ENTITY showFormattingBarCmd.accesskey "ע">
 <!ENTITY showTaskbarCmd.label "שורת מצב">
 <!ENTITY showTaskbarCmd.accesskey "ש">
-<!ENTITY customizeToolbar.label "התאמה אישית...">
+<!ENTITY customizeToolbar.label "התאמה אישית…">
 <!ENTITY customizeToolbar.accesskey "ה">
 
-<!ENTITY addressSidebar.label "סרגל צד אנשי קשר">
-<!ENTITY addressSidebar.accesskey "o">
+<!ENTITY addressSidebar.label "סרגל צד אנשי קשר"> 
+<!ENTITY addressSidebar.accesskey "o"> 
 
 <!-- Format Menu -->
 <!ENTITY formatMenu.label "תבנית">
@@ -114,7 +115,6 @@
 <!ENTITY checkSpellingCmd2.key "p">
 <!ENTITY checkSpellingCmd2.key2 "VK_F7">
 <!ENTITY checkSpellingCmd2.accesskey "א">
-
 <!ENTITY enableInlineSpellChecker.label "בדוק איות תוך כדי הקלדה">
 <!ENTITY enableInlineSpellChecker.accesskey "S">
 <!ENTITY quoteCmd.label "לצטט הודעה">
@@ -129,53 +129,57 @@
 <!ENTITY dsnMenu.label "יידוע מצב קבלה">
 <!ENTITY dsnMenu.accesskey "י">
 <!ENTITY outputFormatMenu.label "עיצוב">
-<!ENTITY outputFormatMenu.accesskey "f">
+<!ENTITY outputFormatMenu.accesskey "ע">
 <!ENTITY autoFormatCmd.label "זיהוי אוטומטי">
-<!ENTITY autoFormatCmd.accesskey "a">
+<!ENTITY autoFormatCmd.accesskey "א">
 <!ENTITY plainTextFormatCmd.label "טקסט פשוט בלבד">
-<!ENTITY plainTextFormatCmd.accesskey "p">
+<!ENTITY plainTextFormatCmd.accesskey "פ">
 <!ENTITY htmlFormatCmd.label "טקסט עשיר (HTML) בלבד">
-<!ENTITY htmlFormatCmd.accesskey "r">
+<!ENTITY htmlFormatCmd.accesskey "ע">
 <!ENTITY bothFormatCmd.label "טקסט פשוט וגם עשיר (HTML)">
-<!ENTITY bothFormatCmd.accesskey "l">
+<!ENTITY bothFormatCmd.accesskey "ג">
 <!ENTITY priorityMenu.label "עדיפות">
-<!ENTITY priorityMenu.accesskey "p">
+<!ENTITY priorityMenu.accesskey "ע">
 <!ENTITY priorityButton.label "עדיפות:">
 <!ENTITY lowestPriorityCmd.label "הכי נמוכה">
-<!ENTITY lowestPriorityCmd.accesskey "l">
+<!ENTITY lowestPriorityCmd.accesskey "נ">
 <!ENTITY lowPriorityCmd.label "נמוכה">
-<!ENTITY lowPriorityCmd.accesskey "o">
+<!ENTITY lowPriorityCmd.accesskey "נ">
 <!ENTITY normalPriorityCmd.label "רגילה">
-<!ENTITY normalPriorityCmd.accesskey "n">
+<!ENTITY normalPriorityCmd.accesskey "ר">
 <!ENTITY highPriorityCmd.label "גבוהה">
-<!ENTITY highPriorityCmd.accesskey "i">
+<!ENTITY highPriorityCmd.accesskey "ג">
 <!ENTITY highestPriorityCmd.label "הכי גבוהה">
-<!ENTITY highestPriorityCmd.accesskey "H">
+<!ENTITY highestPriorityCmd.accesskey "ה">
 <!ENTITY fileCarbonCopyCmd.label "שלח עותק אל">
-<!ENTITY fileCarbonCopyCmd.accesskey "d">
+<!ENTITY fileCarbonCopyCmd.accesskey "ע">
 <!ENTITY fileHereMenu.label "תייק כאן">
+
+<!-- Tools Menu -->
 <!ENTITY tasksMenu.label "כלים">
 <!ENTITY tasksMenu.accesskey "כ">
 <!ENTITY messengerCmd.label "דואר וקבוצות דיון">
 <!ENTITY messengerCmd.accesskey "ד">
 <!ENTITY messengerCmd.commandkey "1">
-<!ENTITY addressBookCmd.label "פנקס כתובות">
+<!ENTITY addressBookCmd.label "ספר כתובות">
 <!ENTITY addressBookCmd.accesskey "כ">
 <!ENTITY addressBookCmd.key "B">
-<!ENTITY accountManagerCmd.label "הגדרות חשבון...">
+<!ENTITY accountManagerCmd.label "הגדרות חשבון…">
 <!ENTITY accountManagerCmd.accesskey "ה">
 <!ENTITY accountManagerCmdUnix.accesskey "ה">
-<!ENTITY preferencesCmd.label "אפשרויות...">
-
+<!ENTITY preferencesCmd.label "אפשרויות…">
 <!ENTITY preferencesCmd.accesskey "א">
-<!ENTITY preferencesCmdUnix.label "העדפות">
-<!ENTITY preferencesCmdUnix.accesskey "פ">
+<!ENTITY preferencesCmdUnix.label       "העדפות">
+<!ENTITY preferencesCmdUnix.accesskey   "פ"> 
+
+<!--  Mac OS X Window Menu -->
 <!ENTITY minimizeWindow.key "m">
 <!ENTITY minimizeWindow.label "מזער">
 <!ENTITY bringAllToFront.label "הבא הכל לקידמה">
-<!ENTITY zoomWindow.label "הגדל חלון">
+<!ENTITY zoomWindow.label "הגדל חלון"> 
 <!ENTITY windowMenu.label "חלון">
 
+<!-- Mail Toolbar -->
 <!ENTITY sendButton.label "שלח">
 <!ENTITY quoteButton.label "צטט">
 <!ENTITY addressButton.label "אנשי קשר">
@@ -183,28 +187,37 @@
 <!ENTITY spellingButton.label "איות">
 <!ENTITY saveButton.label "שמור">
 
-<!ENTITY sendButton.tooltip "שלח הודעה זו כעת">
-<!ENTITY sendlaterButton.tooltip "שלח הודעה זו מאוחר יותר">
-<!ENTITY quoteButton.tooltip "צטט הודעה קודמת">
-<!ENTITY addressButton.tooltip "בחר נמען מפנקס כתובות">
-<!ENTITY attachButton.tooltip "צרף נספח">
-<!ENTITY saveButton.tooltip "שמור הודעה זו">
-<!ENTITY cutButton.tooltip "גזור">
-<!ENTITY copyButton.tooltip "העתק">
-<!ENTITY pasteButton.tooltip "הדבק">
+<!-- Mail Toolbar Tooltips -->
+<!ENTITY sendButton.tooltip "שלח הודעה זו כעת"> 
+<!ENTITY sendlaterButton.tooltip "שלח הודעה זו מאוחר יותר"> 
+<!ENTITY quoteButton.tooltip "צטט הודעה קודמת"> 
+<!ENTITY addressButton.tooltip "בחר נמען מפנקס כתובות"> 
+<!ENTITY attachButton.tooltip "צרף נספח"> 
+<!ENTITY spellingButton.tooltip "בדיקת איות בבחירה או בהודעה כולה">
+<!ENTITY saveButton.tooltip "שמור הודעה זו"> 
+<!ENTITY cutButton.tooltip              "גזירה">
+<!ENTITY copyButton.tooltip             "העתקה">
+<!ENTITY pasteButton.tooltip            "הדבקה">
+
+<!-- Headers -->
+<!--LOCALIZATION NOTE headersSpace.style is for aligning  the From:, To: and
+    Subject: rows. It should be larger than the largest Header label  -->
+<!ENTITY headersSpace.style "width: 9em;">
 <!ENTITY fromAddr.label "מאת:">
 <!ENTITY fromAddr.accesskey "r">
-<!ENTITY toAddr.label "אל:">
-<!ENTITY ccAddr.label "עותק:">
-<!ENTITY bccAddr.label "עותק סמוי:">
-<!ENTITY replyAddr.label "השב־אל:">
-<!ENTITY newsgroupsAddr.label "קבוצת דיון:">
-<!ENTITY followupAddr.label "מעקב־אל:">
+<!ENTITY toAddr.label "אל:"> 
+<!ENTITY ccAddr.label "עותק:"> 
+<!ENTITY bccAddr.label "עותק סמוי:"> 
+<!ENTITY replyAddr.label "השב־אל:"> 
+<!ENTITY newsgroupsAddr.label "קבוצת דיון:"> 
+<!ENTITY followupAddr.label "מעקב־אל:"> 
 <!ENTITY subject.label "נושא:">
 <!ENTITY subject.accesskey "נ">
-<!ENTITY attachments.label "קבצים מצורפים:">
+<!-- LOCALIZATION NOTE attachments.accesskey This access key should correspond
+     to the strings in attachmentCount in composeMsgs.properties -->
 <!ENTITY attachments.accesskey "c">
 
+<!-- Format Toolbar, imported from editorAppShell.xul -->
 <!ENTITY SmileButton.tooltip "הכנס פרצוף מחייך">
 <!ENTITY smiley1Cmd.label "חיוך">
 <!ENTITY smiley2Cmd.label "זועף">
@@ -222,23 +235,26 @@
 <!ENTITY smiley14Cmd.label "תמים">
 <!ENTITY smiley15Cmd.label "בכי">
 <!ENTITY smiley16Cmd.label "שפתיים־חתומות">
+
+<!-- Message Pane Context Menu -->
 <!ENTITY spellCheckNoSuggestions.label "לא נמצאו הצעות">
 <!ENTITY spellCheckIgnoreWord.label "התעלם ממילה">
-<!ENTITY spellCheckIgnoreWord.accesskey "I">
+<!ENTITY spellCheckIgnoreWord.accesskey "ת">
 <!ENTITY spellCheckAddToDictionary.label "הוסף למילון">
-<!ENTITY spellCheckAddToDictionary.accesskey "n">
-<!ENTITY undo.label "בטל">
+<!ENTITY spellCheckAddToDictionary.accesskey "ס">
+<!ENTITY undo.label "ביטול">
 <!ENTITY undo.accesskey "ט">
-<!ENTITY cut.label "גזור">
+<!ENTITY cut.label "גזירה">
 <!ENTITY cut.accesskey "ג">
-<!ENTITY copy.label "העתק">
+<!ENTITY copy.label "העתקה">
 <!ENTITY copy.accesskey "ת">
-<!ENTITY paste.label "הדבק">
+<!ENTITY paste.label "הדבקה">
 <!ENTITY paste.accesskey "ה">
-<!ENTITY pasteQuote.label "הדבק כציטוט">
-<!ENTITY pasteQuote.accesskey "Q">
-<!ENTITY openAttachment.label "פתח">
-<!ENTITY openAttachment.accesskey "O">
+<!ENTITY pasteQuote.label "הדבקה כציטוט">
+<!ENTITY pasteQuote.accesskey "צ">
+
+<!ENTITY openAttachment.label "פתיחה">
+<!ENTITY openAttachment.accesskey "פ">
 <!ENTITY delete.label "מחק">
 <!ENTITY delete.accesskey "ח">
 <!ENTITY removeAttachment.label "הסר קובץ מצורף">
@@ -247,8 +263,15 @@
 <!ENTITY renameAttachment.accesskey "ש">
 <!ENTITY selectAll.label "בחר הכל">
 <!ENTITY selectAll.accesskey "ב">
-<!ENTITY attachFile.label "צרף קובץ (קבצים)...">
-<!ENTITY attachFile.accesskey "F">
-<!ENTITY attachPage.label "צרף דף אינטרנט...">
-<!ENTITY attachPage.accesskey "W">
+<!ENTITY attachFile.label "צירוף קובץ או קבצים)…">
+<!ENTITY attachFile.accesskey "ק">
+<!ENTITY attachPage.label "צירוף דף אינטרנט…">
+<!ENTITY attachPage.accesskey "א">
+
+<!-- Spell checker context menu items -->
+<!ENTITY spellAddDictionaries.label "הוספת מילונים…">
+<!ENTITY spellAddDictionaries.accesskey "מ">
+
+<!-- Title for the address picker panel -->
 <!ENTITY addressesSidebarTitle.label "אנשי קשר">
+

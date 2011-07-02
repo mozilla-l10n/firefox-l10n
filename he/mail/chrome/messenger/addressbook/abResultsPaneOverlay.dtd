@@ -19,7 +19,6 @@
    - the Initial Developer. All Rights Reserved.
    -
    - Contributor(s):
-   -   Tomer Cohen <tomerc@gmail.com>
    -
    - Alternatively, the contents of this file may be used under the terms of
    - either the GNU General Public License Version 2 or later (the "GPL"), or
@@ -34,36 +33,36 @@
    - the terms of any one of the MPL, the GPL or the LGPL.
    -
    - ***** END LICENSE BLOCK ***** -->
-<!ENTITY GeneratedName.label "שם">
-<!ENTITY GeneratedName.accesskey "N">
-<!ENTITY PrimaryEmail.label "דוא״ל">
-<!ENTITY PrimaryEmail.accesskey "E">
-<!ENTITY Company.label "ארגון">
-<!ENTITY Company.accesskey "z">
-<!ENTITY _PhoneticName.label "שם פונטי">
-<!ENTITY _PhoneticName.accesskey "o">
-<!ENTITY NickName.label "כינוי">
-<!ENTITY NickName.accesskey "i">
-<!ENTITY SecondEmail.label "דוא״ל נוסף">
-<!ENTITY SecondEmail.accesskey "l">
-<!ENTITY Department.label "מחלקה">
-<!ENTITY Department.accesskey "r">
-<!ENTITY JobTitle.label "תפקיד">
-<!ENTITY JobTitle.accesskey "T">
-<!ENTITY CellularNumber.label "נייד">
-<!ENTITY CellularNumber.accesskey "M">
-<!ENTITY PagerNumber.label "איתורית">
-<!ENTITY PagerNumber.accesskey "P">
-<!ENTITY FaxNumber.label "פקס">
-<!ENTITY FaxNumber.accesskey "F">
-<!ENTITY HomePhone.label "טלפון בבית">
-<!ENTITY HomePhone.accesskey "H">
-<!ENTITY WorkPhone.label "טלפון בעבודה">
-<!ENTITY WorkPhone.accesskey "W">
-<!ENTITY ScreenName.label "שם מסך">
-<!ENTITY ScreenName.accesskey "S">
-<!ENTITY sortAscending.label "עולה">
-<!ENTITY sortAscending.accesskey "A">
-<!ENTITY sortDescending.label "יורד">
-<!ENTITY sortDescending.accesskey "D">
 
+<!ENTITY GeneratedName.label                   "שם">
+<!ENTITY GeneratedName.accesskey               "ש">
+<!ENTITY PrimaryEmail.label                    "דוא״ל">
+<!ENTITY PrimaryEmail.accesskey                "ד">
+<!ENTITY Company.label                         "ארגון">
+<!ENTITY Company.accesskey                     "א">
+<!ENTITY _PhoneticName.label                   "שם פונטי">
+<!ENTITY _PhoneticName.accesskey               "פ">
+<!ENTITY NickName.label                        "כינוי">
+<!ENTITY NickName.accesskey                    "כ">
+<!ENTITY SecondEmail.label                     "דוא״ל נוסף">
+<!ENTITY SecondEmail.accesskey                 "נ">
+<!ENTITY Department.label                      "מחלקה">
+<!ENTITY Department.accesskey                  "מ">
+<!ENTITY JobTitle.label                        "תפקיד">
+<!ENTITY JobTitle.accesskey                    "ת">
+<!ENTITY CellularNumber.label                  "נייד">
+<!ENTITY CellularNumber.accesskey              "נ">
+<!ENTITY PagerNumber.label                     "איתורית">
+<!ENTITY PagerNumber.accesskey                 "א">
+<!ENTITY FaxNumber.label                       "פקס">
+<!ENTITY FaxNumber.accesskey                   "פ">
+<!ENTITY HomePhone.label                       "טלפון בבית">
+<!ENTITY HomePhone.accesskey                   "ב">
+<!ENTITY WorkPhone.label                       "טלפון בעבודה">
+<!ENTITY WorkPhone.accesskey                   "ב">
+<!ENTITY ScreenName.label                      "שם מסך">
+<!ENTITY ScreenName.accesskey                  "מ">
+<!ENTITY sortAscending.label                   "עולה">
+<!ENTITY sortAscending.accesskey               "ע">
+<!ENTITY sortDescending.label                  "יורד">
+<!ENTITY sortDescending.accesskey              "י">

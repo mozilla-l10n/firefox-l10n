@@ -1,37 +1,39 @@
-<!ENTITY itemFormatting.label "עיצוב">
-<!ENTITY itemTags.label "תוויות">
+<!ENTITY itemFormatting.label             "עיצוב">
+<!ENTITY itemTags.label                   "תוויות">
 
-<!ENTITY style.label "סגנון:">
-<!ENTITY style.accesskey "ס">
-<!ENTITY regularStyle.label "רגיל">
-<!ENTITY bold.label "מודגש">
-<!ENTITY italic.label "נטוי">
-<!ENTITY boldItalic.label "נטוי מודגש">
-<!ENTITY size.label "גודל:">
-<!ENTITY size.accesskey "ד">
-<!ENTITY regularSize.label "רגיל">
-<!ENTITY bigger.label "גדול יותר">
-<!ENTITY smaller.label "קטן יותר">
-<!ENTITY color.label "צבע:">
-<!ENTITY color.accesskey "צ">
-<!ENTITY displayWidth.label "הודעות טקסט פשוט">
+<!ENTITY style.label                      "סגנון:">
+<!ENTITY style.accesskey                  "ס">
+<!ENTITY regularStyle.label               "רגיל">
+<!ENTITY bold.label                       "מודגש">
+<!ENTITY italic.label                     "נטוי">
+<!ENTITY boldItalic.label                 "נטוי מודגש">
+<!ENTITY size.label                       "גודל:">
+<!ENTITY size.accesskey                   "ד">
+<!ENTITY regularSize.label                "רגיל">
+<!ENTITY bigger.label                     "גדול יותר">
+<!ENTITY smaller.label                    "קטן יותר">
+<!ENTITY color.label                      "צבע:">
+<!ENTITY color.accesskey                  "צ">
+<!ENTITY displayWidth.label               "הודעות טקסט פשוט">
+<!ENTITY displayText.label                "בעת הצגת הודעות טקסט פשוט מצוטט:">
+<!ENTITY colors.label                     "צבעים">
+<!ENTITY overrideColors.label             "בהצגת הודעות, השתמש בצבעים הבאים:">
+<!ENTITY textColor.label                  "צבע טקסט:">
+<!ENTITY textColor.accesskey              "ט">
+<!ENTITY backgroundColor.label            "צבע רקע:">
+<!ENTITY backgroundColor.accesskey        "ר">
 
-<!ENTITY displayText.label "בעת הצגת הודעות טקסט פשוט מצוטט:">
+<!-- LOCALIZATION NOTE : (emoticonsAndStructs.label) 'Emoticons' are also known as 'Smileys', e.g. :-)   -->
+<!ENTITY convertEmoticons.label        "הצג פרצופונים בצורה גרפית">
+<!ENTITY convertEmoticons.accesskey    "ה">
 
-<!ENTITY colors.label "צבעים">
-<!ENTITY overrideColors.label "בהצגת הודעות, השתמש בצבעים הבאים:">
-<!ENTITY textColor.label "צבע טקסט:">
-<!ENTITY textColor.accesskey "ט">
-<!ENTITY backgroundColor.label "צבע רקע:">
-<!ENTITY backgroundColor.accesskey "ר">
-<!ENTITY convertEmoticons.label "הצג פרצופונים בצורה גרפית">
-<!ENTITY convertEmoticons.accesskey "ה">
-<!ENTITY displayTagsText.label "תוויות משמשות לחלוקה לקטגוריות ותיעדוף ההודעות שלך.">
-<!ENTITY addTagButton.label "הוסף">
-<!ENTITY addTagButton.accesskey "ה">
-<!ENTITY editTagButton.label "ערוך">
-<!ENTITY editTagButton.accesskey "ע">
-<!ENTITY removeTagButton.label "מחק">
+<!-- labels -->
+<!ENTITY displayTagsText.label     "תוויות משמשות לחלוקה לקטגוריות ותיעדוף ההודעות שלך.">
+<!ENTITY addTagButton.label        "הוספה">
+<!ENTITY addTagButton.accesskey    "ה">
+<!ENTITY editTagButton.label       "ערוך">
+<!ENTITY editTagButton.accesskey   "ע">
+<!ENTITY removeTagButton.label     "מחק">
 <!ENTITY removeTagButton.accesskey "מ">
 
 <!-- Fonts -->
@@ -40,5 +42,5 @@
 <!ENTITY defaultFont.accesskey   "ב">
 <!ENTITY defaultSize.label       "גודל:">
 <!ENTITY defaultSize.accesskey   "ג">
-<!ENTITY fontOptions.accesskey "מ">
-<!ENTITY fontOptions.label "מתקדם...">
+<!ENTITY fontOptions.accesskey   "מ">
+<!ENTITY fontOptions.label       "מתקדם…">

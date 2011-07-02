@@ -1,10 +1,8 @@
-<!ENTITY itemGeneral.label "כללי">
+<!ENTITY itemGeneral.label       "כללי">
 <!ENTITY itemDisplay.label       "קריאה ותצוגה">
-<!ENTITY itemUpdate.label "עדכון">
-<!ENTITY itemNetworking.label "רשת ושטח דיסק">
-<!ENTITY itemCertificates.label "אישורים">
-<!ENTITY showCondensedAddresses.label "הצג רק שמות תצוגה לאנשים שבפנקס הכתובות שלי">
-<!ENTITY showCondensedAddresses.accesskey "צ">
+<!ENTITY itemUpdate.label        "עדכון">
+<!ENTITY itemNetworking.label    "רשת ושטח דיסק">
+<!ENTITY itemCertificates.label  "אישורים">
 
 <!-- General Settings -->
 
@@ -12,14 +10,26 @@
 <!ENTITY enableGlodaSearch.accesskey   "ח">
 <!ENTITY systemIntegration.label       "השתלבות במערכת">
 <!ENTITY alwaysCheckDefault.label      "בדוק בכל הפעלה אם &brandShortName; היא תוכנת דואר ברירת המחדל">
+<!ENTITY alwaysCheckDefault.accesskey  "ב">
 <!ENTITY searchIntegration.label       "אפשר ל־&searchIntegration.engineName; לחפש הודעות">
 <!ENTITY searchIntegration.accesskey   "ח">
 <!ENTITY checkNow.label                "בדוק כעת...">
 <!ENTITY checkNow.accesskey            "כ">
-<!ENTITY alwaysCheckDefault.accesskey  "ב">
+<!ENTITY configEditDesc.label          "הגדרות מתקדמות">
+<!ENTITY configEdit.label              "עורך הגדרות...">
+<!ENTITY configEdit.accesskey          "ע">
+<!ENTITY returnReceiptsInfo.label      "קבע כיצד &brandShortName; מטפל בקבלות חוזרות.">
+<!ENTITY showReturnReceipts.label      "קבלות חוזרות...">
+<!ENTITY showReturnReceipts.accesskey  "ז">
+
+<!-- Display and Reading Settings -->
+<!ENTITY reading.caption               "קריאה">
+<!ENTITY display.caption               "תצוגה">
+<!ENTITY showCondensedAddresses.label  "הצג רק שמות תצוגה לאנשים שבפנקס הכתובות שלי">
+<!ENTITY showCondensedAddresses.accesskey "צ">
+
 <!ENTITY autoMarkAsRead.label          "סמן אוטומטית הודעות כנקראו">
 <!ENTITY autoMarkAsRead.accesskey      "א">
-
 <!ENTITY markAsReadNoDelay.label       "מיד עם הצגתה">
 <!ENTITY markAsReadNoDelay.accesskey   "מ">
 <!-- LOCALIZATION NOTE (markAsReadDelay.label): This will concatenate to
@@ -28,60 +38,46 @@
 <!ENTITY markAsReadDelay.label         "לאחר הצגה למשך">
 <!ENTITY markAsReadDelay.accesskey     "ל">
 <!ENTITY secondsLabel.label            "שניות">
-
 <!ENTITY openMsgIn.label               "פתח הודעות">
 <!ENTITY openMsgInNewTab.label         "בלשונית חדשה">
 <!ENTITY openMsgInNewTab.accesskey     "ל">
-<!ENTITY reuseExpRadio0.label "בחלון הודעה חדש">
-<!ENTITY reuseExpRadio0.accesskey "ד">
-<!ENTITY reuseExpRadio1.label "בחלון הודעה קיים">
-<!ENTITY reuseExpRadio1.accesskey "ח">
-
-<!ENTITY configEditDesc.label "הגדרות מתקדמות">
-<!ENTITY configEdit.label "עורך הגדרות...">
-<!ENTITY configEdit.accesskey "ע">
-<!ENTITY returnReceiptsInfo.label "קבע כיצד &brandShortName; מטפל בקבלות חוזרות.">
-<!ENTITY showReturnReceipts.label "קבלות חוזרות...">
-<!ENTITY showReturnReceipts.accesskey "ז">
-
-<!-- Display and Reading Settings -->
-<!ENTITY reading.caption                "קריאה">
-<!ENTITY display.caption                "תצוגה">
-
-<!ENTITY closeMsgWindowOnDelete.label  "סגור חלון במחיקת הודעה">
-<!ENTITY closeMsgWindowOnDelete.accesskey "ס">
+<!ENTITY reuseExpRadio0.label          "בחלון הודעה חדש">
+<!ENTITY reuseExpRadio0.accesskey      "ד">
+<!ENTITY reuseExpRadio1.label          "בחלון הודעה קיים">
+<!ENTITY reuseExpRadio1.accesskey      "ח">
+<!ENTITY closeMsgOnMoveOrDelete.label  "סגירת חלון/לשונית ההודעה לאחר העברה או מחיקה">
+<!ENTITY closeMsgOnMoveOrDelete.accesskey "ס">
 
 <!-- Update -->
-<!ENTITY autoCheck.label "בדוק אוטומטית אם קיימים עדכונים עבור:">
-<!ENTITY enableAppUpdate.label "&brandShortName;">
-<!ENTITY enableAppUpdate.accesskey "T">
-<!ENTITY enableAddonsUpdate.label "תוספות מותקנות">
-<!ENTITY enableAddonsUpdate.accesskey "t">
-
-<!ENTITY whenUpdatesFound.label "כאשר נמצאים עדכונים עבור &brandShortName;,">
-<!ENTITY modeAskMe.label "שאל אותי מה ברצוני לעשות">
-<!ENTITY modeAskMe.accesskey "A">
-<!ENTITY modeAutomatic.label "הורד והתקן את העדכון באופן אוטומטי">
-<!ENTITY modeAutomatic.accesskey "d">
-<!ENTITY modeAutoAddonWarn.label "הזהר אותי אם הדבר ינטרל חלק מהתוספות שלי">
-<!ENTITY modeAutoAddonWarn.accesskey "W">
-<!ENTITY showUpdates.label "הצג היסטוריית עדכונים">
-<!ENTITY showUpdates.accesskey "U">
+<!ENTITY autoCheck.label                "בדוק אוטומטית אם קיימים עדכונים עבור:">
+<!ENTITY enableAppUpdate.label          "&brandShortName;">
+<!ENTITY enableAppUpdate.accesskey      "h">
+<!ENTITY enableAddonsUpdate.label       "תוספות מותקנות">
+<!ENTITY enableAddonsUpdate.accesskey   "מ">
+<!ENTITY whenUpdatesFound.label         "כאשר נמצאים עדכונים עבור &brandShortName;,">
+<!ENTITY modeAskMe.label                "שאל אותי מה ברצוני לעשות">
+<!ENTITY modeAskMe.accesskey            "ש">
+<!ENTITY modeAutomatic.label            "הורד והתקן את העדכון באופן אוטומטי">
+<!ENTITY modeAutomatic.accesskey        "d">
+<!ENTITY modeAutoAddonWarn.label        "הזהר אותי אם הדבר ינטרל חלק מהתוספות שלי">
+<!ENTITY modeAutoAddonWarn.accesskey    "W">
+<!ENTITY showUpdates.label              "הצג היסטוריית עדכונים">
+<!ENTITY showUpdates.accesskey          "U">
 
 <!-- Networking and Disk Space -->
 <!ENTITY showSettings.label            "הגדרות…">
 <!ENTITY showSettings.accesskey        "ה">
+<!ENTITY proxiesConfigure.label        "קבע כיצד &brandShortName; מתחבר לאינטרנט.">
+<!ENTITY connectionsInfo.caption       "חיבור">
+<!ENTITY offlineInfo.caption           "לא־מקוון">
+<!ENTITY offlineInfo.label             "נהל הגדרות לא־מקוון">
+<!ENTITY showOffline.label             "לא־מקוון...">
+<!ENTITY showOffline.accesskey         "מ">
 
-<!ENTITY proxiesConfigure.label "קבע כיצד &brandShortName; מתחבר לאינטרנט.">
-<!ENTITY connectionsInfo.caption "חיבור">
-<!ENTITY offlineInfo.caption "לא־מקוון">
-<!ENTITY offlineInfo.label "נהל הגדרות לא־מקוון">
-<!ENTITY showOffline.label "לא־מקוון...">
-<!ENTITY showOffline.accesskey "מ">
 <!ENTITY Diskspace "שטח דיסק">
 <!ENTITY offlineCompact.label "דחוס תיקיות כאשר זה יחסוך יותר מאשר">
 <!ENTITY offlineCompact.accesskey "ד">
-<!ENTITY kb.label 'ק"ב'>
+<!ENTITY mb.label "מ״ב">
 
 <!-- LOCALIZATION NOTE:
   The entities useCacheBefore.label and useCacheAfter.label appear on a single
@@ -91,10 +87,9 @@
 -->
 <!ENTITY useCacheBefore.label            "השתמש במטמון עד לשטח של">
 <!ENTITY useCacheBefore.accesskey        "ה">
-<!ENTITY useCacheAfter.label             'מ"ב'>
+<!ENTITY useCacheAfter.label             "מ״ב">
 <!ENTITY clearCacheNow.label             "נקה כעת">
 <!ENTITY clearCacheNow.accesskey         "נ">
-
 
 <!-- Certificates -->
 <!ENTITY certSelection.description       "כאשר שרת מבקש את האישור האישי שלי:">
@@ -103,11 +98,11 @@
 <!ENTITY certs.ask                       "שאל אותי תמיד">
 <!ENTITY certs.ask.accesskey             "מ">
 
-<!ENTITY viewCertificates.label "הצג אישורים">
-<!ENTITY viewCertificates.accesskey "צ">
-<!ENTITY viewCRLs.label "רשימות ביטולים">
-<!ENTITY viewCRLs.accesskey "ר">
+<!ENTITY viewCertificates.label         "הצג אישורים">
+<!ENTITY viewCertificates.accesskey     "צ">
+<!ENTITY viewCRLs.label                 "רשימות ביטולים">
+<!ENTITY viewCRLs.accesskey             "ר">
 <!ENTITY validation.label               "אימות">
 <!ENTITY validation.accesskey           "א">
-<!ENTITY viewSecurityDevices.label "התקני אבטחה">
-<!ENTITY viewSecurityDevices.accesskey "ה">
+<!ENTITY viewSecurityDevices.label      "התקני אבטחה">
+<!ENTITY viewSecurityDevices.accesskey  "ה">

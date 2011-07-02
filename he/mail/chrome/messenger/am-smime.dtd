@@ -16,14 +16,12 @@
 <!ENTITY encryption.certificate.accesskey "ח">
 <!ENTITY encryption.certificate_clear.button "מחיקה">
 <!ENTITY encryption.certificate_clear.accesskey "ק">
-
 <!ENTITY signingGroupTitle.label "חתימה דיגיטלית">
 <!ENTITY signMessage.label "חתום על הודעות חתימה דיגיטלית (בברירת מחדל)">
 <!ENTITY signMessage.accesskey "ד">
 <!ENTITY signingCert.message "השתמש באישור זה לחתימה דיגיטלית על הודעות שאתה שולח:">
 
 <!ENTITY certificates.label "אישורים">
-
 <!ENTITY manageCerts.label "הצג אישורים">
 <!ENTITY manageCerts.accesskey "צ">
 <!ENTITY manageDevices.label "התקני אבטחה">

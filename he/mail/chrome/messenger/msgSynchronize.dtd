@@ -1,3 +1,5 @@
+<!-- extracted from MsgSynchronize.xul and msgSelectOffline.xul-->
+
 <!ENTITY MsgSynchronize.label "הורד וסנכרן הודעות">
 <!ENTITY MsgSelect.label "פריטים לשימוש לא־מקוון">
 <!ENTITY MsgSyncDesc.label "אם כבר בחרת תיקיות דואר או קבוצות דיון לשימוש לא־מקוון, אתה יכול להוריד ו/או לסנכרן אותם עכשיו. אחרת, השתמש בכפתור &quot;בחירה&quot; לבחירת תיקיות דואר וקבוצות דיון לשימוש לא־מקוון.">
@@ -13,5 +15,5 @@
 <!ENTITY selectButton.label "בחירה...">
 <!ENTITY selectButton.accesskey "E">
 <!ENTITY MsgSelectDesc.label "בחר את תיקיות הדואר וקבוצות הדיון לשימוש לא־מקוון.">
-<!ENTITY MsgSelectInd.label "הורד">
+<!ENTITY MsgSelectInd.label "הורדה">
 <!ENTITY MsgSelectItems.label "תיקיות וקבוצות דיון">

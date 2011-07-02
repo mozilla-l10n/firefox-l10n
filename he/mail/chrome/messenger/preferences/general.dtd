@@ -1,30 +1,32 @@
-<!ENTITY messengerStartPage.label "דף ההתחלה של &brandShortName;">
-<!ENTITY enableStartPage.label "כאשר &brandShortName; מופעל, הצג את דף ההתחלה באיזור ההודעה">
-<!ENTITY enableStartPage.accesskey "ג">
-<!ENTITY location.label "מיקום:">
-<!ENTITY location1.accesskey "מ">
-<!ENTITY useDefault.label "שחזר ברירת מחדל">
-<!ENTITY useDefault.accesskey "מ">
-<!ENTITY bounceSystemDockIcon.label "הנפש את צלמית העגינה">
-<!ENTITY bounceSystemDockIcon.accesskey "פ">
-<!ENTITY newMessagesArrive.label "כאשר מופיעות הודעות חדשות:">
-<!ENTITY playSound.label "השמע צליל">
-<!ENTITY playSound1.accesskey "צ">
-<!ENTITY showAnimatedAlert.label "הראה התרעה">
-<!ENTITY showAnimatedAlert.accesskey "א">
-<!ENTITY customizeMailAlert.label "התאמה אישית...">
-<!ENTITY customizeMailAlert.accesskey "ה">
+<!ENTITY messengerStartPage.label         "דף ההתחלה של &brandShortName;">
+<!ENTITY enableStartPage.label            "כאשר &brandShortName; מופעל, הצג את דף ההתחלה באיזור ההודעה">
+<!ENTITY enableStartPage.accesskey        "ג">
+<!ENTITY location.label                   "מיקום:">
+<!ENTITY location1.accesskey               "מ">
+<!ENTITY useDefault.label                 "שחזר ברירת מחדל">
+<!ENTITY useDefault.accesskey             "מ">
 
-<!ENTITY play.label "נגן">
-<!ENTITY play.accesskey "נ">
-<!ENTITY systemsound.label "צליל ברירת מחדל של המערכת לדואר חדש">
-<!ENTITY systemsoundMac.label "צליל התראת מערכת">
-<!ENTITY systemsoundMac.accesskey "מ">
-<!ENTITY systemsound.accesskey "ד">
-<!ENTITY customsound.label "השתמש בקובץ צליל הבא">
-<!ENTITY customsound.accesskey "ש">
-<!ENTITY browse.label "עיון...">
-<!ENTITY browse.accesskey "ע">
+<!ENTITY bounceSystemDockIcon.label       "הנפש את צלמית העגינה">
+<!ENTITY bounceSystemDockIcon.accesskey   "פ">
+
+<!ENTITY newMessagesArrive.label          "כאשר מופיעות הודעות חדשות:">
+<!ENTITY playSound.label                  "השמע צליל">
+<!ENTITY playSound1.accesskey              "צ">
+<!ENTITY showAnimatedAlert.label          "הראה התרעה">
+<!ENTITY showAnimatedAlert.accesskey      "א">
+<!ENTITY customizeMailAlert.label         "התאמה אישית…">
+<!ENTITY customizeMailAlert.accesskey     "ה">
+
+<!ENTITY play.label                       "נגן">
+<!ENTITY play.accesskey                   "נ">
+<!ENTITY systemsound.label                "צליל ברירת מחדל של המערכת לדואר חדש">
+<!ENTITY systemsoundMac.label             "צליל התראת מערכת">
+<!ENTITY systemsoundMac.accesskey         "מ">
+<!ENTITY systemsound.accesskey            "ד">
+<!ENTITY customsound.label                "השתמש בקובץ צליל הבא">
+<!ENTITY customsound.accesskey            "ש">
+<!ENTITY browse.label                     "עיון…">
+<!ENTITY browse.accesskey                 "ע">
 
 <!ENTITY addonsMgr.label                  "תוספות">
 <!ENTITY manageAddonsDescWin.label        "שנה אפשרויות של התוספות שלך">

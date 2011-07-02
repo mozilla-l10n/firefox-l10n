@@ -20,7 +20,6 @@
    -
    - Contributor(s):
    -   Frank Schoenheit <frank.schoenheit@gmx.de>
-   -   Tomer Cohen <tomerc@gmail.com>
    -
    - Alternatively, the contents of this file may be used under the terms of
    - either the GNU General Public License Version 2 or later (the "GPL"), or
@@ -35,8 +34,9 @@
    - the terms of any one of the MPL, the GPL or the LGPL.
    -
    - ***** END LICENSE BLOCK ***** -->
+
 <!ENTITY messageMarkByDate.label "סמן הודעות כנקראו לפי תאריך">
 <!ENTITY markByDateLower.label "סמן הודעות כנקראו מתאריך:">
 <!ENTITY markByDateLower.accesskey "F">
-<!ENTITY markByDateUpper.accesskey "T">
 <!ENTITY markByDateUpper.label "עד תאריך:">
+<!ENTITY markByDateUpper.accesskey "T">

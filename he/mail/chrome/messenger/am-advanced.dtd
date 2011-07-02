@@ -6,9 +6,9 @@
 <!-- LOCALIZATION NOTE (smtpDesc.label): do not translate "SMTP" in below line -->
 <!ENTITY smtpDesc.label "למרות שניתן לציין יותר משרת דואר יוצא (SMTP) אחד, הדבר מומלץ רק למשתמשים מתקדמים. הגדרת שרתי SMTP מרובים יכולה לגרום לשגיאות בשליחת הודעות.">
 
-<!ENTITY smtpListAdd.label "הוספה...">
-<!ENTITY smtpListAdd.accesskey "ה">
-<!ENTITY smtpListEdit.label "עריכה...">
+<!ENTITY smtpListAdd.label  "הוספה…">
+<!ENTITY smtpListAdd.accesskey  "ה">
+<!ENTITY smtpListEdit.label "עריכה…">
 <!ENTITY smtpListEdit.accesskey "ע">
 <!ENTITY smtpListDelete.label "הסרה">
 <!ENTITY smtpListDelete.accesskey "ס">
@@ -18,6 +18,6 @@
 <!ENTITY serverDescription.label "תיאור: ">
 <!ENTITY serverName.label "שם השרת: ">
 <!ENTITY serverPort.label "שער: ">
-<!ENTITY userName.label "שם משתמש: ">
+<!ENTITY userName.label   "שם משתמש: ">
 <!ENTITY connectionSecurity.label "קישור מאובטח: ">
 <!ENTITY authMethod.label   "צורת אימות: ">

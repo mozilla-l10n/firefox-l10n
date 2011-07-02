@@ -1,25 +1,34 @@
 <!ENTITY window.title "חוקי מסנן">
-
+<!ENTITY filterEditorDialog.dimensions "width: 100ch;">
 <!ENTITY filterName.label "שם מסנן:">
 <!ENTITY filterName.accesskey "i">
+
 <!ENTITY junk.label "זבל">
 <!ENTITY notJunk.label "לא זבל">
+
 <!ENTITY lowestPriorityCmd.label "הכי נמוכה">
 <!ENTITY lowPriorityCmd.label "נמוכה">
 <!ENTITY normalPriorityCmd.label "רגילה">
 <!ENTITY highPriorityCmd.label "גבוהה">
 <!ENTITY highestPriorityCmd.label "הכי גבוהה">
 
+<!ENTITY contextDesc.label "הפעל מסננים כאשר:">
+<!ENTITY contextDesc.accesskey "כ">
+<!ENTITY contextIncoming.label "בודק דואר">
+<!ENTITY contextManual.label "מורץ ידנית">
+<!ENTITY contextBoth.label "בודק דואר או מורץ ידנית">
+<!ENTITY contextPostPlugin.label "בודק דואר (לאחר סווג)">
+<!ENTITY contextPostPluginBoth.label "בודק דואר (לאחר סווג) או בהפעלה ידנית">
 <!ENTITY filterActionDesc.label "בצע פעולות אלו:">
 <!ENTITY filterActionDesc.accesskey "P">
 
+<!-- New Style Filter Rule Actions -->
 <!ENTITY moveMessage.label "העבר הודעה אל">
 <!ENTITY copyMessage.label "העתק הודעה אל">
 <!ENTITY forwardTo.label "העבר אל:">
 <!ENTITY replyWithTemplate.label "השב עם תבנית:">
 <!ENTITY markMessageRead.label "סמן כנקרא">
 <!ENTITY markMessageStarred.label "הוסף כוכבית">
-
 <!ENTITY setPriority.label "קבע עדיפות ל:">
 <!ENTITY addTag.label "סמן הודעה">
 <!ENTITY setJunkScore.label "קבע מצב דואר זבל ל:">
@@ -27,15 +36,6 @@
 <!ENTITY deleteFromPOP.label "מחק משרת POP">
 <!ENTITY fetchFromPOP.label "טען משרת POP">
 <!ENTITY ignoreThread.label "התעלם מנושא דיון">
-<!ENTITY watchThread.label "עקוב אחר נושא דיון">
-
-<!ENTITY contextBoth.label "בודק דואר או מורץ ידנית">
-<!ENTITY contextPostPlugin.label "בודק דואר (לאחר סווג)">
-<!ENTITY contextPostPluginBoth.label "בודק דואר (לאחר סווג) או בהפעלה ידנית">
-
-<!ENTITY contextDesc.accesskey "כ">
-<!ENTITY contextDesc.label "הפעל מסננים כאשר:">
-<!ENTITY contextIncoming.label "בודק דואר">
-<!ENTITY contextManual.label "מורץ ידנית">
 <!ENTITY ignoreSubthread.label "התעלם מתת שרשור">
+<!ENTITY watchThread.label "עקוב אחר נושא דיון">
 <!ENTITY stopExecution.label "הפסק הפעלת מסננים">
