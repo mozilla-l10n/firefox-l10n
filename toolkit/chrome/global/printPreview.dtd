@@ -76,5 +76,5 @@ Entities below were automatically added by compare-locales,
  based on en-US entities.
 -->
 
-<!ENTITY previousarrow.tooltip "Previous page">
-<!ENTITY nextarrow.tooltip "Next page">
+<!ENTITY previousarrow.tooltip "පෙර පිටුව">
+<!ENTITY nextarrow.tooltip "ඊළඟ පිටුව">

@@ -15,5 +15,5 @@ Entities below were automatically added by compare-locales,
  based on en-US entities.
 -->
 
-<!ENTITY blocklist.checkbox.label "අබල-Disable">
+<!ENTITY blocklist.checkbox.label "අබල">
 <!ENTITY blocklist.blocked.label "අවහිර කළ">

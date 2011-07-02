@@ -1,7 +1,7 @@
 <!ENTITY     props.name.label               "නම:">
 <!ENTITY     props.value.label              "අන්තර්ගත:">
 <!ENTITY     props.domain.label             "ධාරකය:">
-<!ENTITY     props.path.label               "මාර්‍ගය:">
+<!ENTITY     props.path.label               "මාර්ගය:">
 <!ENTITY     props.secure.label             "සඳහා යවන්න:">
 <!ENTITY     props.expires.label            "කල් ඉකුත්වීම:">
 <!ENTITY     props.policy.label             "ප්‍රතිපත්තිය:"> 
