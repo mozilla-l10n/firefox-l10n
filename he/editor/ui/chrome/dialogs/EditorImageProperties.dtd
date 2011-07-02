@@ -1,60 +1,110 @@
-<!-- ###ENTITY MoreFewerButton.tooltip "הצג יותר או פחות מאפיינים לערוך"-->
-<!ENTITY actualSize.label "גודל אמיתי:">
-<!ENTITY actualSizeRadio.accessKey "A">
-<!ENTITY actualSizeRadio.label "גודל אמיתי">
-<!ENTITY actualSizeRadio.tooltip "חזור לגודל אמיתי של התמונה">
-<!ENTITY alignment.label "יישור טקסט ביחס לתמונה">
-<!ENTITY altText.accessKey "A">
-<!ENTITY altText.label "טקסט חלופי:">
-<!ENTITY altTextEditField.tooltip "הקלד טקסט להציג במקום התמונה">
-<!ENTITY borderEditField.accessKey "B">
-<!ENTITY borderEditField.label "גבול עבה:">
-<!ENTITY bottomPopup.value "בתחתית">
-<!ENTITY centerPopup.value "במרכז">
-<!ENTITY constrainCheckbox.accessKey "C">
-<!ENTITY constrainCheckbox.label "שמור יחס אורך לרוחב">
-<!ENTITY constrainCheckbox.tooltip "שמור על יחס גובה לרוחב של התמונה">
-<!ENTITY customSizeRadio.accessKey "S">
-<!ENTITY customSizeRadio.label "גודל מותאם אישית">
-<!ENTITY customSizeRadio.tooltip "שנה את גודל התמונה כפי שהיא מופיעה בדף">
-<!-- ###ENTITY editImageButton.label "ערוך תמונה"-->
-<!-- ###ENTITY editImageButton.tooltip "ערוך קובץ תמונה בתוכנה אחרת"-->
-<!ENTITY editImageMapButton.label "עריכה...">
-<!ENTITY editImageMapButton.tooltip "צור נקודות חמות שניתן ללחוץ עליהן בתמונה זו">
-<!ENTITY heightEditField.accessKey "G">
-<!ENTITY heightEditField.label "גובה:">
-<!ENTITY imageAppearanceTab.label "הופעה">
-<!ENTITY imageDimensionsTab.label "מימדים">
-<!ENTITY imageInputTab.label "טופס">
-<!ENTITY imageLinkTab.label "קישור">
-<!ENTITY imageLocationTab.label "מיקום">
-<!ENTITY imagemapBox.label "מיפוי תמונה">
-<!ENTITY leftRightEditField.accessKey "L">
-<!ENTITY leftRightEditField.label "שמאל וימין:">
-<!ENTITY locationEditField.accessKey "L">
-<!ENTITY locationEditField.label "מיקום התמונה:">
-<!ENTITY locationEditField.tooltip "הקלד את שם קובץ או מיקום התמונה">
-<!-- ###ENTITY makePageBackgroundCheckbox.label "הפוך לרקע לדף"-->
-<!-- ###ENTITY makePageBackgroundCheckbox.tooltip "השתמש בתמונה כרקע לדף שלך"-->
-<!ENTITY noAltText.accessKey "D">
-<!ENTITY noAltText.label "אל תשתמש בטקסט חלופי">
-<!-- ###ENTITY percentPopup.value "אחוז"-->
-<!ENTITY pixelsPopup.value "פיקסלים">
-<!ENTITY previewBox.label "תצוגה מקדימה של התמונה">
-<!ENTITY removeImageMapButton.accessKey "R">
-<!ENTITY removeImageMapButton.label "הסרה">
-<!ENTITY showImageLinkBorder.accessKey "B">
-<!ENTITY showImageLinkBorder.label "הראה גבול סביב תמונה מקושרת">
-<!ENTITY spacingBox.label "ריווח">
-<!-- ###ENTITY spacingBox.tooltip "הקלד מספר לכמות המרווח סביב התמונה"-->
-<!ENTITY title.accessKey "T">
-<!ENTITY title.label "תאור כלי:">
-<!ENTITY title.tooltip "תכונת 'title' של HTML המוצגת כתיאור כלי (tooltip)">
-<!ENTITY topBottomEditField.accessKey "T">
-<!ENTITY topBottomEditField.label "מעל ומתחת:">
-<!ENTITY topPopup.value "בקצה עליון">
-<!ENTITY widthEditField.accessKey "W">
-<!ENTITY widthEditField.label "רוחב:">
+<!-- ***** BEGIN LICENSE BLOCK *****
+   - Version: MPL 1.1/GPL 2.0/LGPL 2.1
+   -
+   - The contents of this file are subject to the Mozilla Public License Version
+   - 1.1 (the "License"); you may not use this file except in compliance with
+   - the License. You may obtain a copy of the License at
+   - http://www.mozilla.org/MPL/
+   -
+   - Software distributed under the License is distributed on an "AS IS" basis,
+   - WITHOUT WARRANTY OF ANY KIND, either express or implied. See the License
+   - for the specific language governing rights and limitations under the
+   - License.
+   -
+   - The Original Code is Mozilla Communicator client code, released
+   - March 31, 1998.
+   -
+   - The Initial Developer of the Original Code is
+   - Netscape Communications Corporation.
+   - Portions created by the Initial Developer are Copyright (C) 1998-2000
+   - the Initial Developer. All Rights Reserved.
+   -
+   - Contributor(s):
+   -
+   - Alternatively, the contents of this file may be used under the terms of
+   - either of the GNU General Public License Version 2 or later (the "GPL"),
+   - or the GNU Lesser General Public License Version 2.1 or later (the "LGPL"),
+   - in which case the provisions of the GPL or the LGPL are applicable instead
+   - of those above. If you wish to allow use of your version of this file only
+   - under the terms of either the GPL or the LGPL, and not to allow others to
+   - use your version of this file under the terms of the MPL, indicate your
+   - decision by deleting the provisions above and replace them with the notice
+   - and other provisions required by the GPL or the LGPL. If you do not delete
+   - the provisions above, a recipient may use your version of this file under
+   - the terms of any one of the MPL, the GPL or the LGPL.
+   -
+   - ***** END LICENSE BLOCK ***** -->
+
+<!-- These strings are for use specifically in the editor's image and form image dialogs. -->
+
+<!-- Window title -->
 <!ENTITY windowTitle.label "מאפייני תמונה">
-<!ENTITY wrapLeftPopup.value "גלישה משמאל">
+
+<!ENTITY pixelsPopup.value "פיקסלים">
+
+<!-- These are in the Location tab panel -->
+<!ENTITY locationEditField.label "מיקום התמונה:">
+<!ENTITY locationEditField.accessKey "מ">
+<!ENTITY locationEditField.tooltip "הקלד את שם קובץ או מיקום התמונה">
+<!ENTITY title.label "תאור כלי:">
+<!ENTITY title.accessKey "ת">
+<!ENTITY title.tooltip "תכונת 'title' של HTML המוצגת כתיאור כלי (tooltip)">
+<!ENTITY altText.label "טקסט חלופי:">
+<!ENTITY altText.accessKey "ח">
+<!ENTITY altTextEditField.tooltip "הקלד טקסט להציג במקום התמונה">
+<!ENTITY noAltText.label "אל תשתמש בטקסט חלופי">
+<!ENTITY noAltText.accessKey "א">
+
+<!ENTITY previewBox.label "תצוגה מקדימה של התמונה">
+
+<!-- These controls are in the Dimensions tab panel -->
+<!-- actualSize.label should be same as actualSizeRadio.label + ":" -->
+<!ENTITY actualSize.label "גודל אמיתי:">
+<!ENTITY actualSizeRadio.label "גודל אמיתי">
+<!ENTITY actualSizeRadio.accessKey "ג">
+<!ENTITY actualSizeRadio.tooltip "חזור לגודל אמיתי של התמונה">
+<!ENTITY customSizeRadio.label "גודל מותאם אישית">
+<!ENTITY customSizeRadio.accessKey "מ">
+<!ENTITY customSizeRadio.tooltip "שנה את גודל התמונה כפי שהיא מופיעה בדף">
+<!ENTITY heightEditField.label "גובה:">
+<!ENTITY heightEditField.accessKey "ב">
+<!ENTITY widthEditField.label "רוחב:">
+<!ENTITY widthEditField.accessKey "ר">
+<!ENTITY constrainCheckbox.label "שמור יחס אורך לרוחב">
+<!ENTITY constrainCheckbox.accessKey "י">
+<!ENTITY constrainCheckbox.tooltip "שמור על יחס גובה לרוחב של התמונה">
+
+<!-- These controls are in the Image Map box of the expanded area -->
+<!ENTITY imagemapBox.label "מיפוי תמונה">
+<!ENTITY removeImageMapButton.label "הסרה">
+<!ENTITY removeImageMapButton.accessKey "ס">
+<!ENTITY editImageMapButton.label "עריכה…">
+<!ENTITY editImageMapButton.tooltip "צור נקודות חמות שניתן ללחוץ עליהן בתמונה זו">
+
+<!-- These are the options for image alignment -->
+<!ENTITY alignment.label "יישור טקסט ביחס לתמונה">
+<!ENTITY bottomPopup.value "בתחתית">
+<!ENTITY topPopup.value "בקצה עליון">
+<!ENTITY centerPopup.value "במרכז">
 <!ENTITY wrapRightPopup.value "גלישה מימין">
+<!ENTITY wrapLeftPopup.value "גלישה משמאל">
+
+<!-- These controls are in the Spacing Box -->
+<!ENTITY spacingBox.label "ריווח">
+<!ENTITY leftRightEditField.label "שמאל וימין:">
+<!ENTITY leftRightEditField.accessKey "ש">
+<!ENTITY topBottomEditField.label "מעל ומתחת:">
+<!ENTITY topBottomEditField.accessKey "נ">
+<!ENTITY borderEditField.label "גבול עבה:">
+<!ENTITY borderEditField.accessKey "ע">
+
+<!-- These controls are in the Link Box -->
+<!ENTITY showImageLinkBorder.label "הראה גבול סביב תמונה מקושרת">
+<!ENTITY showImageLinkBorder.accessKey "ג">
+
+<!-- These tabs are currently used in the image input dialog -->
+<!ENTITY imageInputTab.label "טופס">
+<!ENTITY imageLocationTab.label "מיקום">
+<!ENTITY imageDimensionsTab.label "מימדים">
+<!ENTITY imageAppearanceTab.label "הופעה">
+<!ENTITY imageLinkTab.label "קישור">

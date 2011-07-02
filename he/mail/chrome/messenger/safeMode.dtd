@@ -1,4 +1,5 @@
 <!-- ***** BEGIN LICENSE BLOCK *****
+#if 0
    - Version: MPL 1.1/GPL 2.0/LGPL 2.1
    -
    - The contents of this file are subject to the Mozilla Public License Version
@@ -11,15 +12,14 @@
    - for the specific language governing rights and limitations under the
    - License.
    -
-   - The Original Code is Mozilla.org.
+   - The Original Code is mozilla.org Code.
    -
-   - The Initial Developer of the Original Code is
-   - Netscape Communications Corporation.
-   - Portions created by the Initial Developer are Copyright (C) 2003
+   - The Initial Developer of the Original Code is Mike Connor.
+   - Portions created by the Initial Developer are Copyright (C) 2005
    - the Initial Developer. All Rights Reserved.
    -
    - Contributor(s):
-   -   Daniel Glazman (glazman@netscape.com) (Original author)
+   -   Mike Connor <mconnor@steelgryphon.com>
    -
    - Alternatively, the contents of this file may be used under the terms of
    - either the GNU General Public License Version 2 or later (the "GPL"), or
@@ -33,16 +33,23 @@
    - the provisions above, a recipient may use your version of this file under
    - the terms of any one of the MPL, the GPL or the LGPL.
    -
+#endif
    - ***** END LICENSE BLOCK ***** -->
 
+<!ENTITY safeModeDialog.title             "&brandShortName; מצב בטוח של">
+<!ENTITY window.width                     "37em">
 
-<!-- Window title -->
-<!ENTITY windowTitle.label "הצמד לרשת">
+<!ENTITY safeModeDescription.label        "&brandShortName; פועל כעת במצב בטוח, המנטרל זמנית את ההרחבות, ערכות הנושא, ואת ההגדרות המותאמות אישית שלך.">
+<!ENTITY safeModeDescription2.label       "ביכולתך להגדיר שינוים אלה או חלקם באופן קבוע:">
 
-<!ENTITY enableSnapToGrid.label "אפשר הצמדה לרשת">
-<!ENTITY enableSnapToGrid.accessKey "א">
+<!ENTITY disableAddons.label              "נטרל את כל התוספות">
+<!ENTITY disableAddons.accesskey          "נ">
 
-<!ENTITY sizeEditField.label "גודל:">
-<!ENTITY sizeEditField.accessKey "ת">
+<!ENTITY resetToolbars.label              "שחזר סרגלי כלים ופקדים">
+<!ENTITY resetToolbars.accesskey          "ש">
 
-<!ENTITY pixelsLabel.value "פיקסלים">
+<!ENTITY changeAndRestartButton.label     "בצע שינויים והפעל מחדש">
+<!ENTITY changeAndRestartButton.accesskey "פ">
+
+<!ENTITY continueButton.label             "המשך במצב בטוח">
+<!ENTITY continueButton.accesskey         "מ">

@@ -1,0 +1,28 @@
+<!ENTITY window.width                      "36em">
+
+<!ENTITY cookiesonsystem.label             "העוגיות הבאות מאוחסנות במחשב שלך:">
+<!ENTITY cookiename.label                  "שם עוגיה">
+<!ENTITY cookiedomain.label                "אתר">
+<!ENTITY button.removecookie.label         "הסרת עוגיה">
+<!ENTITY button.removecookie.accesskey     "ע">
+<!ENTITY button.removeallcookies.label     "הסרת כל העוגיות">
+<!ENTITY button.removeallcookies.accesskey "כ">
+
+<!ENTITY props.name.label                  "שם:">
+<!ENTITY props.value.label                 "מידע:">
+<!ENTITY props.domain.label                "שרת מארח:">
+<!ENTITY props.path.label                  "נתיב:">
+<!ENTITY props.secure.label                "שלח עבור:">
+<!ENTITY props.expires.label               "תוקף:">
+
+<!ENTITY window.title                      "עוגיות">
+<!ENTITY windowClose.key                   "w">
+<!ENTITY focusSearch1.key                  "f">
+<!ENTITY focusSearch2.key                  "k">
+
+<!ENTITY filter.label                      "חיפוש:">
+<!ENTITY filter.accesskey                  "י">
+
+<!ENTITY button.close.label                "סגירה">
+<!ENTITY button.close.accesskey            "ס">
+
