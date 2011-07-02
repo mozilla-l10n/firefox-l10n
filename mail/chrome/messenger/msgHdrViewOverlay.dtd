@@ -99,21 +99,48 @@
 <!ENTITY otherActionsPrint.label "הדפסה…">
 <!ENTITY otherActionsPrint.accesskey "ה">
 
+<!-- Attachment context menu items -->
 <!ENTITY openAttachmentCmd.label    "פתח">
 <!ENTITY openAttachmentCmd.accesskey    "פ">
 <!ENTITY saveAsAttachmentCmd.label    "שמור בשם…">
 <!ENTITY saveAsAttachmentCmd.accesskey    "ש">
-<!ENTITY detachAttachmentCmd.label    "נתק …">
+<!ENTITY detachAttachmentCmd.label    "נתק…">
+<!ENTITY detachAttachmentCmd.accesskey    "נ">
 <!ENTITY deleteAttachmentCmd.label    "מחק">
+<!ENTITY deleteAttachmentCmd.accesskey    "l">
+<!ENTITY openAllAttachmentsCmd.label    "פתיחת הכל…">
+<!ENTITY openAllAttachmentsCmd.accesskey    "O">
 <!ENTITY saveAllAttachmentsCmd.label    "שמור הכל…">
 <!ENTITY saveAllAttachmentsCmd.accesskey    "מ">
-<!ENTITY detachAllAttachmentsCmd.label   "נתק הכל…">
+<!ENTITY detachAllAttachmentsCmd.label    "נתק הכל…">
 <!ENTITY detachAllAttachmentsCmd.accesskey    "נ">
-<!ENTITY deleteAllAttachmentsCmd.label  "מחק הכל…">
+<!ENTITY deleteAllAttachmentsCmd.label    "מחק הכל…">
 <!ENTITY deleteAllAttachmentsCmd.accesskey    "ח">
 
-<!ENTITY copyLinkCmd.label     "העתק מיקום קישור">
-<!ENTITY copyLinkCmd.accesskey "ק">
+<!-- Attachment toolbar items -->
+<!ENTITY saveAttachmentButton.label       "שמירה">
+<!ENTITY saveAttachmentButton.tooltip     "שמירת הקובץ המצורף">
+<!ENTITY saveAllAttachmentsButton.label   "שמירת הכול">
+<!ENTITY saveAllAttachmentsButton.tooltip "שמירת כל הקבצים המצורפים">
+<!ENTITY openAttachmentMenuItem.label     "פתיחה">
+<!ENTITY openAttachmentMenuItem.accesskey    "פ">
+<!ENTITY saveAsAttachmentMenuItem.label    "שמירה בשם…">
+<!ENTITY saveAsAttachmentMenuItem.accesskey    "ש">
+<!ENTITY detachAttachmentMenuItem.label    "ניתוק…">
+<!ENTITY detachAttachmentMenuItem.accesskey    "נ">
+<!ENTITY deleteAttachmentMenuItem.label    "מחיקה">
+<!ENTITY deleteAttachmentMenuItem.accesskey    "מ">
+<!ENTITY openAllAttachmentsMenuItem.label    "פתיחת הכל…">
+<!ENTITY openAllAttachmentsMenuItem.accesskey    "ת">
+<!ENTITY saveAllAttachmentsMenuItem.label    "שמירת הכל…">
+<!ENTITY saveAllAttachmentsMenuItem.accesskey    "ר">
+<!ENTITY detachAllAttachmentsMenuItem.label    "ניתוק הכל…">
+<!ENTITY detachAllAttachmentsMenuItem.accesskey    "י">
+<!ENTITY deleteAllAttachmentsMenuItem.label    "מחיקת הכל…">
+<!ENTITY deleteAllAttachmentsMenuItem.accesskey    "ח">
+
+<!ENTITY copyLinkCmd.label        "העתק מיקום קישור">
+<!ENTITY copyLinkCmd.accesskey    "ק">
 
 <!ENTITY CopyMessageId.label "העתק מזהה הודעה">
 <!ENTITY OpenMessageForMsgId.label "פתח הודעה לפי מזהה">

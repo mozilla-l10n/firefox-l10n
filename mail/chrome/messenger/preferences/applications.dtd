@@ -7,7 +7,7 @@
 <!ENTITY  focusSearch1.key            "f">
 <!ENTITY  focusSearch2.key            "k">
 
-<!ENTITY  filter.emptytext            "חיפוש">
+<!ENTITY  filter.placeholder          "חיפוש">
 
 <!ENTITY saveTo.label                 "שמור קבצים אל ">
 <!ENTITY saveTo.accesskey             "ש">
@@ -15,5 +15,5 @@
 <!ENTITY alwaysAsk.accesskey          "ת">
 <!ENTITY chooseFolderWin.label        "סייר…">
 <!ENTITY chooseFolderWin.accesskey    "ס">
-<!ENTITY chooseFolderMac.label        "בחר…">
+<!ENTITY chooseFolderMac.label        "בחירה…">
 <!ENTITY chooseFolderMac.accesskey    "ב">

@@ -63,23 +63,17 @@ LOCALIZATION NOTE : Do not translate any of the occurrences of the word
 <!ENTITY importShortDesc.label    "יבא דואר, פנקסי כתובות, הגדרות ומסננים מתוכנות אחרות">
 
 <!ENTITY importDescription1.label "אשף זה ייבא את כל הודעות הדואר, פריטים מפנקס הכתובות, העדפות ו/או מסננים מתוכנות דואר אחרות ומבני פנקסי כתובות מקובלים לתוך &brandShortName;.">
-
 <!ENTITY importDescription2.label "לאחר שהם ייובאו, תוכל לגשת אליהם מתוך הדואר ו/או פנקס הכתובות של &brandShortName;.">
-<!ENTITY selectDescription.label "אנא בחר את התוכנה שמתוכה ברצונך לייבא:">
+
+<!ENTITY selectDescription.label  "אנא בחר את התוכנה שמתוכה ברצונך לייבא:">
 <!ENTITY selectDescription.accesskey "ב">
 
-<!ENTITY back.label "&lt; הקודם">
-<!ENTITY forward.label "הבא &gt;">
-<!ENTITY finish.label "סיום">
-<!ENTITY cancel.label "ביטול">
-<!ENTITY select.label "בחר סוג חומר ליבוא:">
-<!ENTITY title.label "תפקיד">
-<!ENTITY processing.label "מייבא...">
-<!ENTITY FieldDiscInputText1.label "ל־Netscape Communicator 4.x יש כתובת דואר אחת לכל כרטיס, בעוד של־&brandShortName; יש שתיים (בית ועבודה).">
-<!ENTITY FieldDiscInputText2.label "בחר את הקטגוריה שבה ברצונך לשמור את כתובות הדואר המיובאות:">
-<!ENTITY FieldDiscWarning.label "קטגוריה זו תשמש לכל הרשומות בפנקס הכתובות הנבחר:">
+<!ENTITY back.label               "&lt; הקודם">
+<!ENTITY forward.label            "הבא &gt;">
+<!ENTITY finish.label             "סיום">
+<!ENTITY cancel.label             "ביטול">
 
-<!ENTITY importHome.label        "בית">
-<!ENTITY importHome.accesskey    "ב">
-<!ENTITY importWork.label        "עבודה">
-<!ENTITY importWork.accesskey    "ע">
+<!ENTITY select.label             "בחר סוג חומר ליבוא:">
+
+<!ENTITY title.label              "תפקיד">
+<!ENTITY processing.label         "מייבא...">

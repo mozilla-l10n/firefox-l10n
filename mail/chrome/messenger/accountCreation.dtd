@@ -1,64 +1,65 @@
 <!ENTITY autoconfigWizard.title          "הגדרות חשבון דואר">
 <!ENTITY name.label                      "השם שלך:">
 <!ENTITY name.accesskey                  "ש">
-<!ENTITY name.emptytext                  "שם_פרטי שם_משפחה">
+<!ENTITY name.placeholder                "שם_פרטי שם_משפחה">
 <!ENTITY name.text                       "השם שלך, כפי שיוצג לאחרים">
 <!ENTITY email.label                     "כתובת דוא״ל:">
 <!ENTITY email.accesskey                 "ד">
-<!ENTITY email.emptytext                 "email@example.com">
-<!ENTITY password.label                  "סיסמה:">
+<!ENTITY email.placeholder               "email@example.com">
+<!ENTITY password.label                  "ססמה:">
 <!ENTITY password.accesskey              "ס">
-<!ENTITY password.emptytext              "Password">
+<!ENTITY password.placeholder            "ססמה">
 <!ENTITY password.text                   "רשות, ישמש לאימות שם המשתמש בלבד">
+<!ENTITY rememberPassword.label          "זכור סיסמה">
+<!ENTITY rememberPassword.accesskey      "ז">
 
-<!ENTITY accountInformation.label        "פרטי חשבון">
-<!ENTITY username2.label                  "שם משתמש:">
+<!ENTITY imapLong.label                  "IMAP (תיקיות מרוחקות)">
+<!ENTITY pop3Long.label                  "POP3 (שמירת ההודעות במחשב שלך)">
+
 <!ENTITY incoming.label                  "נכנס:">
 <!ENTITY outgoing.label                  "יוצא:">
-
+<!ENTITY username.label                  "שם משתמש:">
+<!ENTITY hostname.label                  "שם המארח של השרת">
+<!ENTITY port.label                      "שער">
+<!ENTITY ssl.label                       "SSL">
+<!ENTITY auth.label                      "אימות">
+<!ENTITY imap.label                      "IMAP">
+<!ENTITY pop3.label                       "POP3">
+<!ENTITY smtp.label                      "SMTP">
+<!ENTITY autodetect.label                "זיהוי אוטומטי">
+<!-- LOCALIZATION NOTE(noEncryption.label): Neither SSL/TLS nor STARTTLS.
+     Transmission of emails in cleartext over the Internet. -->
 <!ENTITY noEncryption.label              "ללא">
 <!ENTITY starttls.label                  "STARTTLS">
 <!ENTITY sslTls.label                    "SSL/TLS">
 
-<!ENTITY imap.label                      "IMAP">
-<!ENTITY pop.label                       "POP">
-<!ENTITY smtp.label                      "SMTP">
-<!ENTITY imap.description                "IMAP - גישה לתיקיות והודעות ממספר מחשבים">
-<!ENTITY pop.description                 "POP - הורדה של כל ההודעות למחשב זה, תיקיות הן מקומיות בלבד">
-<!ENTITY recommended-appendix.label      "(מומלץ)">
-
-<!ENTITY manualSetup.label               "הגדרה ידנית…">
-<!ENTITY manualSetup.accesskey           "י">
+<!ENTITY advancedSetup.label             "הגדרות מתקדמות">
+<!ENTITY advancedSetup.accesskey         "ה">
 <!ENTITY cancel.label                    "ביטול">
 <!ENTITY cancel.accesskey                "ב">
 <!ENTITY continue.label                  "המשך">
 <!ENTITY continue.accesskey              "ה">
-<!ENTITY startOver.label                 "התחל מחדש">
-<!ENTITY startOver.accesskey             "ח">
 <!ENTITY stop.label                      "עצור">
 <!ENTITY stop.accesskey                  "ע">
-<!-- LOCALIZATION NOTE (retest.label): This is the text that is
-     displayed on the button which will re-guess the account configuration,
-     taking into account the settings the user has changed. -->
-<!ENTITY retest.label                    "בדוק הגדרות">
-<!ENTITY retest.accesskey                "ב">
-<!ENTITY edit.label                      "עריכה">
-<!ENTITY edit.accesskey                  "ע">
+<!-- LOCALIZATION NOTE (half-manual-test.label): This is the text that is
+     displayed on the button in manual edit mode which will re-guess
+     the account configuration, taking into account the settings that
+     the user has manually changed. -->
+<!ENTITY half-manual-test.label          "בדיקה חוזרת">
+<!ENTITY half-manual-test.accesskey      "ב">
+<!ENTITY manual-edit.label               "הגדרות ידניות">
+<!ENTITY manual-edit.accesskey           "ה">
 
-<!ENTITY rememberPassword.label          "זכור סיסמה">
-<!ENTITY rememberPassword.accesskey      "ז">
 
 <!ENTITY warning.label                   "זהירות!">
 <!ENTITY incomingSettings.label          "הגדרות שרת דואר נכנס:">
 <!ENTITY outgoingSettings.label          "הגדרות שרת דואר יוצא:">
-
 <!ENTITY technicaldetails.label          "פרטים טכנים">
 <!-- LOCALIZATION NOTE (confirmWarning.label): If there is a security
      warning on the outgoing server, then the user will need to check a
      checkbox beside this text before continuing. -->
 <!ENTITY confirmWarning.label            "אני מבין את הסיכונים.">
 <!ENTITY confirmWarning.accesskey        "מ">
-
 <!-- LOCALIZATION NOTE (createAccount.label): If there is a security warning
      on the incoming or outgoing servers, then the page that pops up will
      have this text in a button to continue by creating the account. -->
@@ -77,7 +78,5 @@
 <!ENTITY insecureServer.tooltip.details  "לחץ על העיגול לפרטים נוספים.">
 
 <!ENTITY insecureUnencrypted.description "הדואר האלקטרוני וההזדהות שלך נשלחים באופן לא מוצפן, כך שהסיסמה שלך (וגם ההודעות) יכולות להיקרא בקלות על־ידי אנשים אחרים. brandShortName; יאפשר לך לקבל את הדואר שלך, אבל רצוי ליצור קשר עם ספק הדוא״ל שלך כדי שיגדיר חיבור מאובטח לשרת.">
-
 <!ENTITY insecureSelfSigned.description  "השרת משתמש באישור שאינו נסמך, ואיננו יכולים להיות בטוחים שאף־אחד לא מיירט את התעבורה בין &brandShortName; והשרת שלך. &brandShortName; יאפשר לך לקבל את הדואר שלך, אבל מומלץ שתפנה לספק הדואל שלך ותבקש ממנו להגדיר את השרת עם אישור אבטחה נסמך.">
-
 <!ENTITY secureServer.description        "איחולים! זהו שרת מאובטח.">

@@ -1,11 +1,11 @@
 <!ENTITY settings.caption "הגדרות">
 <!ENTITY security.caption "אימות ואבטחה">
 <!ENTITY serverName.label "שם השרת:">
-<!ENTITY serverName.accesskey "S">
+<!ENTITY serverName.accesskey "ש">
 <!ENTITY serverDescription.label "תיאור:">
-<!ENTITY serverDescription.accesskey "D">
+<!ENTITY serverDescription.accesskey "ת">
 <!ENTITY serverPort.label "שער:">
-<!ENTITY serverPort.accesskey "P">
+<!ENTITY serverPort.accesskey "ע">
 <!ENTITY userName.label "שם משתמש:">
 <!ENTITY userName.accesskey "m">
 <!ENTITY connectionSecurity.label "אבטחת קישוריות:">

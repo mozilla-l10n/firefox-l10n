@@ -1,17 +1,12 @@
 <!ENTITY doNotDownloadPop3Movemail.label "כדי לחסוך שטח דיסק, אל תוריד:">
-
 <!ENTITY doNotDownloadNntp.label "כדי לשמור שטח דיסק, אל תוריד לשימוש לא־מקוון:">
 <!ENTITY doNotDownloadImap.label "כדי לשמור שטח דיסק, הורדת הודעות מהשרת ושמירת עותקים מקומיים לשימוש לא מקוון יכולים להיות מוגבלים לפי גיל או גודל הודעה">
-
 <!ENTITY allFoldersOffline.label "שמור הודעות לחשבון זה על מחשב זה">
 <!ENTITY allFoldersOffline.accesskey "ע">
-
 <!ENTITY offlineNotDownload.label "הודעות גדולות מאשר">
 <!ENTITY offlineNotDownload.accesskey "ג">
-
 <!ENTITY autosyncNotDownload.label "אל תוריד הודעות גדולות מ־">
 <!ENTITY autosyncNotDownload.accesskey "ג">
-
 <!ENTITY kb.label "ק״ב">
 <!ENTITY daysOld.label "ימים">
 <!ENTITY message.label "ההודעות האחרונות">
@@ -20,29 +15,21 @@
 <!ENTITY nntpDownloadMsg.label "הודעות מלפני יותר מאשר">
 <!ENTITY nntpDownloadMsg.accesskey "י">
 <!ENTITY retentionCleanup.label "בכדי להשיג שטח דיסק, הודעות ישנות יכולות להמחק לצמיתות">
-<!ENTITY retentionKeepMsg.label "מחק הודעות מלפני">
-
 <!ENTITY retentionCleanupImap.label "כדי לשמר שטח דיסק, הודעות ישנות יכולות להימחק לצמיתות, גם העותק המקומי וגם המקור על השרת המרוחק.">
 <!ENTITY retentionCleanupPop.label "כדי לשמר שטח דיסק, הודעות ישנות יכולות להימחק לצמיתות, כולל הודעות המקור בשרת המרוחק.">
-
+<!ENTITY retentionKeepMsg.label "מחק הודעות מלפני">
 <!ENTITY retentionKeepMsg.accesskey "ל">
 <!ENTITY retentionKeepAll.label "אל תמחק שום הודעה">
 <!ENTITY retentionKeepAll.accesskey "ש">
-
 <!ENTITY retentionKeepRecent.label "מחק הכל מלבד">
 <!ENTITY retentionKeepRecent.accesskey "מ">
-
 <!-- LOCALIZATION NOTE: Unhide with .keepUnreadOnly { display: -moz-box; } -->
 <!ENTITY retentionKeepUnreadHidden.label "מחק תמיד הודעות שנקראו (עוקף הגדרות גיל)">
-
 <!ENTITY retentionApplyToFlagged.label "שמור תמיד הודעות מסומנות">
 <!ENTITY retentionApplyToFlagged.accesskey "ס">
-
 <!ENTITY nntpRemoveMsgBody.label "הסר גוף בהודעות בנות יותר מאשר">
 <!ENTITY nntpRemoveMsgBody.accesskey "י">
-
 <!ENTITY offlineSelectNntp.label "בחר קבוצות דיון לשימוש לא־מקוון">
-
 <!ENTITY offlineSelectNntp.accesskey "ב">
 <!ENTITY offlineImapAdvancedOffline.label "מתקדם…">
 <!ENTITY offlineImapAdvancedOffline.accesskey "מ">
@@ -64,5 +51,4 @@
 <!ENTITY weekAgeInterval.label           "שבועות">
 <!ENTITY monthAgeInterval.label          "חודשים">
 <!ENTITY yearAgeInterval.label           "שנים">
-<!ENTITY ageAutosyncAfter.label          "אחורה">
-
+<!ENTITY ageAutosyncAfter.label          "">
