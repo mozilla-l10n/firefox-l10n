@@ -69,7 +69,7 @@
 <!ENTITY directionRTLBidiCmd.label "ימין לשמאל">
 <!ENTITY directionLTRBidiCmd.label "שמאל לימין">
 <!ENTITY texttypeBidiMenu.label "סוג טקסט">
-<!ENTITY charsettexttypeBidiCmd.label "מבוסס על אוסף תוים">
+<!ENTITY charsettexttypeBidiCmd.label "מבוסס על אוסף תווים">
 <!ENTITY logicaltexttypeBidiCmd.label "לוגי">
 <!ENTITY visualtexttypeBidiCmd.label "חזותי">
 <!ENTITY numeralBidiMenu.label "צורת מספרים">
@@ -81,9 +81,9 @@
 <!ENTITY logicalcontrolstextmodeBidiCmd.label "לוגי">
 <!ENTITY visiualcontrolstextmodeBidiCmd.label "חזותי">
 <!ENTITY containercontrolstextmodeBidiCmd.label "כמו המסמך המכיל">
-<!ENTITY charactersetBidiMenu.label "אוסף תוים">
-<!ENTITY doccharactersetBidiCmd.label "השתמש באוסף תוים שצוין במסמך">
-<!ENTITY defaultcharactersetBidiCmd.label "השתמש באוסף התוים שבברירת המחדל שלי, תוך עקיפת אוסף התוים שצוין במסמך">
+<!ENTITY charactersetBidiMenu.label "אוסף תווים">
+<!ENTITY doccharactersetBidiCmd.label "השתמש באוסף תווים שצוין במסמך">
+<!ENTITY defaultcharactersetBidiCmd.label "השתמש באוסף התווים שבברירת המחדל שלי, תוך עקיפת אוסף התווים שצוין במסמך">
 <!ENTITY webContentMenu.label "שפות ותוכן רשת">
 <!ENTITY webContentMenu.accesskey "ש">
 <!ENTITY downloadMore.label "הורד עוד">

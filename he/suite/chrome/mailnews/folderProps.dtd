@@ -40,9 +40,9 @@
    - ***** END LICENSE BLOCK ***** -->
 <!ENTITY folderProps.windowtitle.label "מאפיינים">
 <!ENTITY generalInfo.label "מידע כללי">
-<!ENTITY folderCharsetTab.label "ברירת מחדל של קידוד תוים:">
+<!ENTITY folderCharsetTab.label "ברירת מחדל לקידוד תווים:">
 <!ENTITY folderCharsetTab.accesskey "ב">
-<!ENTITY folderCharsetOverride.label "הפעל ברירת מחדל לכל ההודעות בתיקייה (התעלם מהגדרות קידוד תוים של הודעות פרטניות וזיהוי אוטומטי)">
+<!ENTITY folderCharsetOverride.label "הפעל ברירת מחדל לכל ההודעות בתיקייה (התעלם מהגדרות קידוד תווים של הודעות פרטניות וזיהוי אוטומטי)">
 <!ENTITY folderCharsetOverride.accesskey "ה">
 <!ENTITY folderRebuildSummaryFile.label "בנה מפתח מחדש">
 <!ENTITY folderRebuildSummaryFile.accesskey "מ">

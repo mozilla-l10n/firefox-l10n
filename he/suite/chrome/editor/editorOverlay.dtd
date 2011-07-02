@@ -66,7 +66,7 @@
 <!ENTITY publishas.accesskey "ם">
 <!ENTITY exportToTextCmd.label "יצוא לטקסט...">
 <!ENTITY fileexporttotext.accesskey "ט">
-<!ENTITY saveAsChangeEncodingCmd.label "שמור ושנה קידוד תוים">
+<!ENTITY saveAsChangeEncodingCmd.label "שמור ושנה קידוד תווים">
 <!ENTITY filesaveandchangeencoding.accesskey "נ">
 <!ENTITY previewCmd.label "דפדף בדף">
 <!ENTITY filepreview.accesskey "ב">
@@ -154,7 +154,7 @@
 <!ENTITY insertformmenu.accesskey "פ">
 <!ENTITY insertHTMLCmd.label "HTML...‎">
 <!ENTITY insertHTMLCmd.accesskey "h">
-<!ENTITY insertCharsCmd.label "תוים וסמלים...">
+<!ENTITY insertCharsCmd.label "תווים וסמלים...">
 <!ENTITY insertchars.accesskey "ס">
 <!ENTITY insertBreakCmd.label "שבירת שורה">
 <!ENTITY insertbreak.accesskey "ש">

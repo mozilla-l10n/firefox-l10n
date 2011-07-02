@@ -43,7 +43,7 @@
 <!ENTITY generalInfo.label                       "מידע כללי">
 <!ENTITY folderCharsetTab.label                  "קידוד תווים בברירת מחדל:">
 <!ENTITY folderCharsetTab.accesskey              "ק">
-<!ENTITY folderCharsetOverride.label             "הפעל ברירת מחדל לכל ההודעות בתיקייה (התעלם מהגדרות קידוד תוים של הודעות פרטניות וזיהוי אוטומטי)">
+<!ENTITY folderCharsetOverride.label             "הפעל ברירת מחדל לכל ההודעות בתיקייה (התעלם מהגדרות קידוד תווים של הודעות פרטניות וזיהוי אוטומטי)">
 <!ENTITY folderCharsetOverride.accesskey         "ה">
 <!ENTITY folderRebuildSummaryFileTip2.label      "בנה מחדש תקציר קובץ אינדקס">
 <!ENTITY folderRebuildSummaryFile2.label         "תקן תיקייה">

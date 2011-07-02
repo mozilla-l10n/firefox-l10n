@@ -63,7 +63,7 @@
 <!ENTITY pageSourceCmd.accesskey "ק">
 <!ENTITY pageInfoCmd.label ".מידע אודות הדף">
 <!ENTITY pageInfoCmd.accesskey "מ">
-<!ENTITY dcharMenu.label "אוסף תוים">
+<!ENTITY dcharMenu.label "אוסף תווים">
 <!ENTITY dcharIso1Cmd.label "מערבי (ISO-8859-1)">
 <!ENTITY dcharIso2Cmd.label "מרכז אירופי (ISO-8859-2)">
 <!ENTITY dcharIso3Cmd.label "דרום אירופי (ISO-8859-3)">
@@ -83,7 +83,7 @@
 <!ENTITY dcharVietViCmd.label "ויאטנמית (VISCII)">
 <!ENTITY dcharThaiCmd.label "תאילנדית (TIS-620)">
 <!ENTITY dcharArmCmd.label "ארמנית (ARMSCII-8)">
-<!ENTITY dcharDEFAULT.label "קבע אוסף תוים ברירת מחדל לשליחת דואר">
+<!ENTITY dcharDEFAULT.label "קבע אוסף תווים ברירת מחדל לשליחת דואר">
 <!ENTITY formatMenu.label "עיצוב">
 <!ENTITY formatMenu.accesskey "צ">
 <!ENTITY optionsMenu.label "אפשרויות">
