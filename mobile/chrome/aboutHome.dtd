@@ -8,3 +8,4 @@
 <!ENTITY aboutHome.openAllTabs                  "Tout ouvrir dans des onglets">
 <!ENTITY aboutHome.noTabs                       "Aucun onglet à restaurer">
 <!ENTITY aboutHome.noAddons                     "Aucun module recommandé">
+<!ENTITY aboutHome.getLocale                    "Changer de langue">
