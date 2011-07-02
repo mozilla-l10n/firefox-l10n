@@ -14,4 +14,6 @@
 <!ENTITY editContactPanelCancel.accesskey "P">
 
 <!ENTITY editContactPanelDone.label "Končano">
-<!ENTITY editContactPanelDone.accesskey "X">
+<!ENTITY editContactPanelDone.accesskey "K">
+
+<!ENTITY contactMoveDisabledWarning.description "Adresarja ne morete spremeniti, ker je stik na poštnem seznamu.">

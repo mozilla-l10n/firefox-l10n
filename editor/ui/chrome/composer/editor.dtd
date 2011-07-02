@@ -56,14 +56,12 @@
 <!ENTITY sendPageCmd.accesskey "s">
 
 <!-- View menu items -->
-<!ENTITY viewMenu.label "Pogled">
-<!ENTITY viewMenu.accesskey "P">
 <!ENTITY compositionToolbarCmd.label "Orodna vrstica za sestavke">
-<!ENTITY compositionToolbarCmd.accesskey "o">
+<!ENTITY compositionToolbarCmd.accesskey "s">
 <!ENTITY formattingToolbarCmd.label "Orodna vrstica za oblikovanje">
 <!ENTITY formattingToolbarCmd.accesskey "o">
 <!ENTITY editmodeToolbarCmd.label "Orodna vrstica za urejevalni način">
-<!ENTITY editmodeToolbarCmd.accesskey "o">
+<!ENTITY editmodeToolbarCmd.accesskey "u">
 
 <!-- Format menu items -->
 <!ENTITY formatMenu.label "Oblikovanje">

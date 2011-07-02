@@ -44,6 +44,10 @@
 
 <!-- File menu items -->
 <!ENTITY fileMenu.label "Datoteka">
+<!ENTITY fileMenu.accesskey "D">
+<!ENTITY newBlankPageCmd.label "Stran Composer">
+<!ENTITY newBlankPageCmd.accesskey "P" >
+<!ENTITY newMenu.label "Novo">
 <!ENTITY openFileCmd.label "Odpri datoteko …">
 <!ENTITY openFileCmd.accesskey "O">
 <!ENTITY openFileCmd.key "O">

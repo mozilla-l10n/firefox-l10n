@@ -20,23 +20,26 @@
 <!ENTITY sentFolderOn.label "mapa &quot;Poslano&quot; na:">
 <!ENTITY sentFolderOn.accesskey "P">
 <!ENTITY sentInOtherFolder.label "Drugo:">
-<!ENTITY sentInOtherFolder.accesskey "O">
+<!ENTITY sentInOtherFolder.accesskey "u">
 <!-- LOCALIZATION NOTE (draftsFolderOn.label): OK to translate this, bug #57440 -->
 <!ENTITY draftsFolderOn.label "mapa &quot;Osnutki&quot; na:">
 <!ENTITY draftsFolderOn.accesskey "O">
 <!ENTITY draftInOtherFolder.label "Drugo:">
 <!ENTITY draftInOtherFolder.accesskey "u">
 <!-- LOCALIZATION NOTE (archivesFolderOn.label): OK to translate this, bug #57440 -->
+<!ENTITY archivesTitle.label "Arhivi za sporočila">
+<!ENTITY keepArchives.label "Arhive za sporočila shranjuj v:">
+<!ENTITY keepArchives.accesskey "S">
+<!ENTITY archiveHierarchyButton.label "Nastavitve za arhive…">
+<!ENTITY archiveHierarchyButton.accesskey "N">
 <!ENTITY archivesFolderOn.label "mapa &quot;Arhivi&quot; na:">
 <!ENTITY archivesFolderOn.accesskey "A">
 <!ENTITY archiveInOtherFolder.label "Drugo:">
-<!ENTITY archiveInOtherFolder.accesskey "d">
+<!ENTITY archiveInOtherFolder.accesskey "u">
+<!ENTITY specialFolders.label "Osnutki in predloge">
+<!ENTITY keepDrafts.label "Osnutke za sporočila shranjuj v:">
 <!-- LOCALIZATION NOTE (templatesFolderOn.label): OK to translate this, bug #57440 -->
 <!ENTITY templatesFolderOn.label "mapa &quot;Predloge&quot; Folder na:">
-<!ENTITY templatesFolderOn.accesskey "G">
+<!ENTITY templatesFolderOn.accesskey "m">
 <!ENTITY templateInOtherFolder.label "Drugo:">
-<!ENTITY templateInOtherFolder.accesskey "s">
-<!ENTITY specialFoldersTitle.label "Osnutki, arhivi in predloge">
-<!ENTITY keepDrafts.label "Osnutke za sporočila shranjuj v:">
-<!ENTITY keepArchives.label "Arhive za sporočila shranjuj v:">
-<!ENTITY keepTempltes.label "Predloge za sporočila shranjuj v:">
+<!ENTITY templateInOtherFolder.accesskey "u">

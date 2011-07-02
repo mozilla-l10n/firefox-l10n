@@ -1,5 +1,5 @@
 <!ENTITY window.title "Pravila za filtriranje">
-
+<!ENTITY filterEditorDialog.dimensions "width: 100ch;">
 <!ENTITY filterName.label "Ime filtra">
 <!ENTITY filterName.accesskey "I">
 
