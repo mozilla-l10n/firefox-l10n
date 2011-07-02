@@ -110,5 +110,5 @@
 <!ENTITY deferStorageDesc.label "Zrušte zaškrtnutí, pokud chcete vytvořit nový samostatný účet s poštou ukládanou v odděleném adresáři. V opačném případě bude tento účet součástí účtu globální Doručené pošty v Místních složkách.">
 <!ENTITY deferStorage.label "Použít globální Doručenou poštu (ukládat poštu v Místních složkách)">
 <!ENTITY deferStorage.accesskey "g">
-<!ENTITY clickFinish.label "Klepněte na Dokončit pro uložení nastavení a ukončení průvodce.">
-<!ENTITY clickFinish.labelMac "Klepněte na Hotovo pro uložení nastavení a ukončení průvodce.">
+<!ENTITY clickFinish.label "Klepnutím na tlačítko Dokončit uložíte nastavení a ukončíte tohoto průvodce.">
+<!ENTITY clickFinish.labelMac "Klepnutím na tlačítko Hotovo uložíte nastavení a ukončíte tohoto průvodce.">

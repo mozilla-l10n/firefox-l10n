@@ -56,7 +56,6 @@
 
 
 <!-- general strings used by several of the finish pages -->
-<!ENTITY clickFinish.label "Klepněte na tlačítko Dokončit pro spuštění aplikace &brandShortName;.">
-<!ENTITY clickFinish.labelMac "Klepněte na tlačítko Hotovo pro spuštění aplikace &brandShortName;.">
+<!ENTITY clickFinish.label "Klepnutím na tlačítko Dokončit spustíte &brandShortName;.">
+<!ENTITY clickFinish.labelMac "Klepnutím na tlačítko Hotovo spustíte &brandShortName;.">
 <!ENTITY enableChecking.label "Povolit aplikaci &brandShortName; kontrolovat dostupnost aktualizací.">
- 
