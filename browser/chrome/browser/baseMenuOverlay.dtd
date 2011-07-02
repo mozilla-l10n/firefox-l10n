@@ -30,9 +30,9 @@
 <!ENTITY servicesMenuMac.label "Služby">
 
 <!ENTITY hideThisAppCmdMac.label "Skrýt &brandShortName;">
-<!ENTITY hideThisAppCmdMac.commandkey "S">
+<!ENTITY hideThisAppCmdMac.commandkey "H">
 
 <!ENTITY hideOtherAppsCmdMac.label "Skrýt ostatní">
-<!ENTITY hideOtherAppsCmdMac.commandkey "k">
+<!ENTITY hideOtherAppsCmdMac.commandkey "H">
 
 <!ENTITY showAllAppsCmdMac.label "Zobrazit vše">
