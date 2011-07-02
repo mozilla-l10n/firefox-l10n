@@ -66,7 +66,7 @@
 <!ENTITY publishCmd.key "S">
 <!ENTITY publishAsCmd.label "פרסם בשם...">
 <!ENTITY publishAsCmd.accesskey "ר">
-<!ENTITY saveAsChangeEncodingCmd.label "שמור ושנה קידוד תוים">
+<!ENTITY saveAsChangeEncodingCmd.label "שמור ושנה קידוד תווים">
 <!ENTITY saveAsChangeEncodingCmd.accesskey "E">
 <!ENTITY printSetupCmd.label "הגדרות דף...">
 <!ENTITY printSetupCmd.accesskey "u">
@@ -124,7 +124,7 @@
 <!ENTITY insertTableCmd.accesskey "t">
 <!ENTITY insertHTMLCmd.label "...HTML">
 <!ENTITY insertHTMLCmd.accesskey "H">
-<!ENTITY insertCharsCmd.label "תוים וסמלים...">
+<!ENTITY insertCharsCmd.label "תווים וסמלים...">
 <!ENTITY insertCharsCmd.accesskey "C">
 <!ENTITY insertBreakAllCmd.label "שבור מתחת לתמונה(ות)">
 <!ENTITY insertBreakAllCmd.accesskey "k">
