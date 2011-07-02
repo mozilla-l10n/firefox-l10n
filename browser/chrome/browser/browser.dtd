@@ -58,7 +58,7 @@
 <!ENTITY openFileCmd.commandkey "o">
 <!ENTITY printSetupCmd.label "පිටු සකසන්න...">
 <!ENTITY printSetupCmd.accesskey "u">
-<!ENTITY printPreviewCmd.label "මුද්‍රණ පෙර දැක්ම">
+<!ENTITY printPreviewCmd.label "මුද්‍රණ පෙරදැක්ම">
 <!ENTITY printPreviewCmd.accesskey "v">
 <!ENTITY printCmd.label "මුද්‍රණය...">
 <!ENTITY printCmd.accesskey "P">
@@ -359,10 +359,6 @@
 <!ENTITY findAgainCmd.commandkey2 "VK_F3">
 
 
-
-
-
-
 <!ENTITY spellAddDictionaries.label "ශබ්ද කෝෂය එක් කරන්න...">
 <!ENTITY spellAddDictionaries.accesskey "A">
 
@@ -459,17 +455,17 @@ Entities below were automatically added by compare-locales,
 <!ENTITY closeTab.label "ටැබ වසන්න">
 <!ENTITY pinAppTab.label "Pin as App Tab">
 <!ENTITY inspectStyleButton.accesskey "S">
-<!ENTITY webConsoleCmd.label "Web Console">
+<!ENTITY webConsoleCmd.label "වෙබ් කොන්සෝලය">
 <!ENTITY viewTabsOnTop.label "මුදුනෙහිම ඇති ටැබ්">
 <!ENTITY viewTabGroups.label "ටැබ් සමූහ">
-<!ENTITY urlbar.switchToTab.label "ටැබට මාරුවෙන්න:">
+<!ENTITY urlbar.switchToTab.label "ටැබයට මාරුවෙන්න:">
 <!ENTITY inspectPreviousButton.label "පෙර">
 <!ENTITY appMenuSafeMode.label "ඇඩෝන අබල (Disable) කර යළි-අරඹන්න…">
 <!ENTITY addons.commandkey "A">
 <!ENTITY tabGroupsButton.tooltip "ඔබගේ ටැබ් සමූහගත කරන්න">
 <!ENTITY allTabs.filter.emptyText "ටැබ් සොයන්න">
 <!ENTITY reloadTab.label "ටැබ් ප්‍රතිපූරණය කරන්න">
-<!ENTITY appMenuWebDeveloper.label "Web Developer">
+<!ENTITY appMenuWebDeveloper.label "වෙබ් සංවර්ධකයා">
 <!ENTITY inspectObjectButton.label "Object">
 <!ENTITY viewTabGroups.accesskey "G">
 <!ENTITY viewTabsOnTop.accesskey "T">

@@ -8,7 +8,7 @@
 <!ENTITY itemCookies.label            "කුකී">
 <!ENTITY itemOfflineApps.label        "නොබැඳි වෙබ් අඩවි දත්ත">
 <!ENTITY itemOfflineApps.accesskey    "O">
-<!ENTITY clearDataSettings2.label     "When I quit &brandShortName;, it should automatically clear all:">
+<!ENTITY clearDataSettings2.label     "මම  &brandShortName; වෙතින් ඉවත්වීමේදී, එය ස්වයංක්‍රීයව හිස් වියයුතුය:">
 
 <!-- XXX rearrange entities to match physical layout when l10n isn't an issue -->
 <!-- LOCALIZATION NOTE (clearTimeDuration.*): "Time range to clear" dropdown.

@@ -33,4 +33,4 @@ Entities below were automatically added by compare-locales,
 <!ENTITY prefs.ppLink.label "පෞද්ගලිකත්ව ප්‍රතිපත්තිය">
 <!ENTITY syncComputerName.label "පරිගණක නම:">
 <!ENTITY engine.passwords.accesskey "P">
-<!ENTITY deactivateDevice.label       "Deactivate This Device">
+<!ENTITY deactivateDevice.label       "මෙම උපාංගය අක්‍රීය කරන්න">

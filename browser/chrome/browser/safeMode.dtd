@@ -11,7 +11,8 @@
 <!ENTITY disableAddons.accesskey      "D">
 
 <!ENTITY resetToolbars.label          "මෙවලම් තීරු සහ පාලක යළි සකස් කරන්න">
-<!ENTITY resetToolbars.accesskey      "R">
+<!ENTITY resetToolbars.accesskey      "R">
+
 
 <!ENTITY resetUserPrefs.label         "&brandShortName; සියලු පරිශීලක අභිප්‍රේත  පෙරනිමි වෙතට සකසන්න">
 <!ENTITY resetUserPrefs.accesskey     "p">
@@ -28,5 +29,5 @@ Entities below were automatically added by compare-locales,
  based on en-US entities.
 -->
 
-<!ENTITY deleteBookmarks.label "Delete all bookmarks except for backups">
+<!ENTITY deleteBookmarks.label "බැක්-අප් සඳහා නොවන නියළු පිටුසළකුණු මකන්න">
 <!ENTITY deleteBookmarks.accesskey "b">

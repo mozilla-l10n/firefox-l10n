@@ -26,4 +26,4 @@ Entities below were automatically added by compare-locales,
 <!ENTITY safeb.blocked.malwarePage.longDesc "<p>Attack pages try to install programs that steal private information, use your computer to attack others, or damage your system.</p><p>Some attack pages intentionally distribute harmful software, but many are compromised without the knowledge or permission of their owners.</p>">
 <!ENTITY safeb.palm.reportPage.label "Why was this page blocked?">
 <!ENTITY safeb.blocked.phishingPage.shortDesc "This web page at <span id='phishing_sitename'/> has been reported as a web forgery and has been blocked based on your security preferences.">
-<!ENTITY safeb.blocked.malwarePage.title "Reported Attack Page!">
+<!ENTITY safeb.blocked.malwarePage.title "ආක්‍රමණික බවට වාර්තාවූ වෙබ් අඩවියක්!">

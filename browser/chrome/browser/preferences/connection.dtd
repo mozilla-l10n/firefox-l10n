@@ -3,7 +3,7 @@
 <!ENTITY  window.width                  "37em">
 <!ENTITY  window.macWidth               "39em">
 
-<!ENTITY  proxyTitle.label              "අන්තර්ජාල ප්‍රවේශට ප්‍රොක්සි සැකසුම්">
+<!ENTITY  proxyTitle.label              "අන්තර්ජාල ප්‍රවේශයට ප්‍රොක්සි සැකසුම්">
 
 <!ENTITY  systemTypeRadio.label         "පද්ධති ප්‍රොක්සි සැකසුම් භාවිතා කරන්න">
 <!ENTITY  systemTypeRadio.accesskey     "U">

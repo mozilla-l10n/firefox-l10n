@@ -47,7 +47,7 @@
 <!ENTITY enableAppUpdate.accesskey       "F">
 <!ENTITY enableSearchUpdate.label        "සෙවුම් යන්ත්‍ර">
 <!ENTITY enableSearchUpdate.accesskey    "h">
-<!ENTITY whenUpdatesFound.label          "&brandShortName; වෙතට යාවත් කරන විට හමුවු දැ:">
+<!ENTITY whenUpdatesFound.label          "&brandShortName; වෙතට යාවත්කරන හමුවු විට දන්වන්න:">
 <!ENTITY askMe.label                     "මට අවශ්‍යදේ විමසන්න">
 <!ENTITY askMe.accesskey                 "k">
 <!ENTITY modeAutomatic.label             "යාවත්කාලීන ස්වයංක්‍රීයව බාගැනීම සහ ස්ථාපනය">
@@ -77,19 +77,19 @@
 <!ENTITY viewSecurityDevices.label       "ආරක්‍ෂක මෙවලම්">
 <!ENTITY viewSecurityDevices.accesskey   "y">
 
-<!ENTITY alwaysCheckDefault.label        "සැම විටම &brandShortName; ඇරඹුම් ගවේශකය ලෙටස පෙරනිමියේ ඇති බවට පරීක්‍ෂා කරන්න"><!--XXX-->
+<!ENTITY alwaysCheckDefault.label        "සැම විටම &brandShortName; ඇරඹුම් ගවේශකය ලෙසට පෙරනිමියේ ඇති බවට පරීක්‍ෂා කරන්න"><!--XXX-->
 <!ENTITY alwaysCheckDefault.accesskey    "w">
 <!ENTITY blockAutoRefresh.label          "වෙබ් අඩවි වෙනතකට පිටුව යොමු කිරීමට හෝ යළි පූරණයට උත්සාහ කරන විට">
 <!ENTITY blockAutoRefresh.accesskey      "b">
 <!ENTITY certSelection.description       "සේවාදායකයක් මාගේ පෞද්ගලික සහතික ඉල්ලා සිටින විට:">
 <!ENTITY checkNow.label                  "දැන් පරීක්‍ෂා කරන්න">
 <!ENTITY checkNow.accesskey              "N">
-<!ENTITY clearCacheNow.label             "දැන් පැහැදිලි කරන්න">
+<!ENTITY clearCacheNow.label             "දැන් හිස් කරන්න">
 <!ENTITY clearCacheNow.accesskey         "C">
 
 <!ENTITY offlineAppsList.label           "පහත වෙබ් අඩවි නොබැඳිව භාවිතා කිරීම සඳහා දත්ත ස්ථාපනය කර ඇත:">
 <!ENTITY offlineAppsList.height          "7em">
-<!ENTITY offlineAppsListRemove.label     "ඉවත් කරන්…">
+<!ENTITY offlineAppsListRemove.label     "ඉවත් කරන්න…">
 <!ENTITY offlineAppsListRemove.accesskey "R">
 <!ENTITY offlineAppRemove.confirm        "නොබැඳි දත්ත ඉවත් කරන්න">
 <!ENTITY offlineStorage.label            "නොබැඳි ගබඩාව">
@@ -109,7 +109,7 @@ Entities below were automatically added by compare-locales,
 <!ENTITY enableAddonsUpdate2.accesskey "n">
 <!ENTITY overrideSmartCacheSize.label "ස්වයංක්‍රීය cache කළමණාකරණයන් ඉක්මවා යන්න">
 <!ENTITY submitCrashes.label "බිඳවැටුම් වාර්තා යවන්න">
-<!ENTITY allowHWAccel.label "ඇත්නම් දෘඩාංග වෙග-උපාංග (acceleration) භාවිතා කරන්න">
+<!ENTITY allowHWAccel.label "ඇත්නම් දෘඩාංග වේග-උපාංග (acceleration) භාවිතා කරන්න">
 <!ENTITY overrideSmartCacheSize.accesskey "O">
 <!ENTITY submitCrashes.accesskey "S">
 <!ENTITY limitCacheSizeBefore.label "cache මෙයට සීමා කරන්න">

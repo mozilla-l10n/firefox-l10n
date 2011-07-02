@@ -12,52 +12,52 @@
   -  "simple discardable text editor". -->
 <!ENTITY window.title                 "Scratchpad">
 
-<!ENTITY fileMenu.label               "File">
+<!ENTITY fileMenu.label               "ගොනු">
 <!ENTITY fileMenu.accesskey           "F">
 
-<!ENTITY newWindowCmd.label           "New Window">
+<!ENTITY newWindowCmd.label           "නව කවුළුවක්">
 <!ENTITY newWindowCmd.accesskey       "N">
 <!ENTITY newWindowCmd.commandkey      "n">
 
-<!ENTITY openFileCmd.label            "Open File…">
+<!ENTITY openFileCmd.label            "ගොනුව වාවෘත කරන්න…">
 <!ENTITY openFileCmd.accesskey        "O">
 <!ENTITY openFileCmd.commandkey       "o">
 
-<!ENTITY saveFileCmd.label            "Save">
+<!ENTITY saveFileCmd.label            "සුරකින්න">
 <!ENTITY saveFileCmd.accesskey        "S">
 <!ENTITY saveFileCmd.commandkey       "s">
 
-<!ENTITY saveFileAsCmd.label          "Save As…">
+<!ENTITY saveFileAsCmd.label          "සුරකින්නේ මෙලෙස…">
 <!ENTITY saveFileAsCmd.accesskey      "A">
 
-<!ENTITY closeCmd.label               "Close">
+<!ENTITY closeCmd.label               "වසන්න">
 <!ENTITY closeCmd.key                 "W">
 <!ENTITY closeCmd.accesskey           "C">
 
-<!ENTITY editMenu.label               "Edit">
+<!ENTITY editMenu.label               "සැකසුම්">
 <!ENTITY editMenu.accesskey           "E">
 
-<!ENTITY undoCmd.label                "Undo">
+<!ENTITY undoCmd.label                "අහෝසි කරන්න">
 <!ENTITY undoCmd.key                  "Z">
 <!ENTITY undoCmd.accesskey            "U">
 
-<!ENTITY redoCmd.label                "Redo">
+<!ENTITY redoCmd.label                "යළි කරන්න">
 <!ENTITY redoCmd.key                  "Y">
 <!ENTITY redoCmd.accesskey            "R">
 
-<!ENTITY cutCmd.label                 "Cut">
+<!ENTITY cutCmd.label                 "කපන්න">
 <!ENTITY cutCmd.key                   "X">
 <!ENTITY cutCmd.accesskey             "t">
 
-<!ENTITY copyCmd.label                "Copy">
+<!ENTITY copyCmd.label                "පිටපත් කරන්න">
 <!ENTITY copyCmd.key                  "C">
 <!ENTITY copyCmd.accesskey            "C">
 
-<!ENTITY pasteCmd.label               "Paste">
+<!ENTITY pasteCmd.label               "අලවන්න">
 <!ENTITY pasteCmd.key                 "V">
 <!ENTITY pasteCmd.accesskey           "P">
 
-<!ENTITY selectAllCmd.label           "Select All">
+<!ENTITY selectAllCmd.label           "සියල්ල තෝරන්න">
 <!ENTITY selectAllCmd.key             "A">
 <!ENTITY selectAllCmd.accesskey       "A">
 
@@ -65,11 +65,11 @@
 <!ENTITY run.accesskey                "R">
 <!ENTITY run.key                      "r">
 
-<!ENTITY inspect.label                "Inspect">
+<!ENTITY inspect.label                "පරීක්ෂා කරන්න">
 <!ENTITY inspect.accesskey            "I">
 <!ENTITY inspect.key                  "i">
 
-<!ENTITY display.label                "Display">
+<!ENTITY display.label                "පෙන්වන්න">
 <!ENTITY display.accesskey            "D">
 <!ENTITY display.key                  "l">
 
@@ -79,11 +79,11 @@
   -  the user is evaluating against. I.e., Content (current tab) or Chrome
   -  (browser).
   -->
-<!ENTITY environmentMenu.label        "Environment">
+<!ENTITY environmentMenu.label        "පරිසරය">
 <!ENTITY environmentMenu.accesskey    "N">
 
 
-<!ENTITY contentContext.label         "Content">
+<!ENTITY contentContext.label         "අන්තර්ගතය">
 <!ENTITY contentContext.accesskey     "C">
 
 <!-- LOCALIZATION NOTE (browserContext.label, accesskey): This menu item is used
@@ -92,7 +92,7 @@
   -  enabled via the devtools.chrome.enabled preference. Formerly, this label
   -  was called "Chrome".
   -->
-<!ENTITY browserContext.label         "Browser">
+<!ENTITY browserContext.label         "බ්‍රව්සරය">
 <!ENTITY browserContext.accesskey     "B">
 
 <!-- LOCALIZATION NOTE (resetContext.label): This command allows the developer
@@ -101,17 +101,17 @@
 <!ENTITY resetContext.label           "Reset">
 <!ENTITY resetContext.accesskey       "R">
 
-<!ENTITY executeMenu.label            "Execute">
+<!ENTITY executeMenu.label            "ක්‍රියාත්මක කරන්න">
 <!ENTITY executeMenu.accesskey        "X">
 
-<!ENTITY toolsMenu.label              "Tools">
+<!ENTITY toolsMenu.label              "මෙවලම්">
 <!ENTITY toolsMenu.accesskey          "T">
 
-<!ENTITY errorConsoleCmd.label        "Error Console">
+<!ENTITY errorConsoleCmd.label        "දෝෂ කොන්සෝලය">
 <!ENTITY errorConsoleCmd.accesskey    "C">
 <!ENTITY errorConsoleCmd.commandkey   "j">
 
-<!ENTITY webConsoleCmd.label          "Web Console">
+<!ENTITY webConsoleCmd.label          "වෙබ් කොන්සෝලය">
 <!ENTITY webConsoleCmd.accesskey      "W">
 <!ENTITY webConsoleCmd.commandkey     "k">
 
@@ -119,5 +119,5 @@
   -  that appears when the Scratchpad's text area is empty and unfocused.
   -  It should be a one-line JavaScript comment, i.e., preceded by '//'
   -->
-<!ENTITY textbox.placeholder1         "// Enter some JavaScript, select it, right click and select Run, Inspect or Display.">
+<!ENTITY textbox.placeholder1         "// JavaScript ය ඇතුළත් කරන්න, එය තෝරන්න, එය මත දකඅණත්-ක්ලික් කර Run තෝරන්න, පරීක්ෂා කරන්න හෝ පෙන්වන්න තෝරන්න.">
 
