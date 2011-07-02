@@ -79,5 +79,5 @@
 <!ENTITY disableContent.accesskey "T">
 <!ENTITY showCondensedAddresses.label "Csak a név megjelenítése a címjegyzékben szereplő személyeknél">
 <!ENTITY showCondensedAddresses.accesskey "k">
-<!ENTITY closeMsgWindowOnDelete.label "Close message window when deleting the message">
+<!ENTITY closeMsgWindowOnDelete.label "Üzenetablak bezárása az üzenet törlésekor">
 <!ENTITY closeMsgWindowOnDelete.accesskey "l">

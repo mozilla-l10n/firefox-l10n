@@ -39,7 +39,7 @@
 <!ENTITY unreadColumn.label "Olvasatlan">
 <!ENTITY totalColumn.label "Összesen">
 <!ENTITY folderSizeColumn.label "Méret">
-<!ENTITY folderLocationToolbarItem.title "Folder Location">
-<!ENTITY mailViewsToolbarItem.title "Mail Views">
-<!ENTITY searchToolbarItem.title "Search">
-<!ENTITY searchSubjectOrAddress.placeholder "Search Subject or Address">
+<!ENTITY folderLocationToolbarItem.title "Mappa helye">
+<!ENTITY mailViewsToolbarItem.title "Üzenetnézetek">
+<!ENTITY searchToolbarItem.title "Keresés">
+<!ENTITY searchSubjectOrAddress.placeholder "Tárgy vagy cím keresése">
