@@ -6,15 +6,15 @@ Entities below were automatically added by compare-locales,
 -->
 
 <!ENTITY archiveFlat.accesskey "s">
-<!ENTITY archiveExample.label "Example">
+<!ENTITY archiveExample.label "උදාහරණ">
 <!ENTITY archiveGranularityPrefix.label "When archiving messages, place them in:">
-<!ENTITY inboxFolderName.label "Inbox">
+<!ENTITY inboxFolderName.label "ලදලිපි">
 <!ENTITY keepFolderStructure.accesskey "K">
-<!ENTITY archiveFolderName.label "Archives">
-<!ENTITY archiveFlat.label "A single folder">
+<!ENTITY archiveFolderName.label "සංරක්ෂිත">
+<!ENTITY archiveFlat.label "තනි ෆෝල්ඩරයක්">
 <!ENTITY archiveMonthly.accesskey "M">
 <!ENTITY archiveYearly.accesskey "Y">
-<!ENTITY dialogTitle.label "Archive Options">
-<!ENTITY archiveYearly.label "Yearly archived folders">
-<!ENTITY archiveMonthly.label "Monthly archived folders">
-<!ENTITY keepFolderStructure.label "Keep existing folder structure of archived messages">
+<!ENTITY dialogTitle.label "සංරක්ෂණ විකල්ප">
+<!ENTITY archiveYearly.label "වාර්ෂික සංරක්ෂිත ෆෝල්ඩර">
+<!ENTITY archiveMonthly.label "මාසික සංරක්ෂිත ෆෝල්ඩර">
+<!ENTITY keepFolderStructure.label "සංරක්ෂිත ලිපි සඳහා පවතින ෆෝල්ඩර ව්‍යුහය එසේම තබන්න">

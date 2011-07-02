@@ -73,7 +73,7 @@ LOCALIZATION NOTE : Do not translate any of the occurances of the word
 <!ENTITY finish.label             "අවසානයි">
 <!ENTITY cancel.label             "එපා">
 
-<!ENTITY select.label             "Select the type of material to import:">
+<!ENTITY select.label             "ආයාත කිරීමට අවශ්‍ය ද්‍රව්‍ය ආකාරය තෝරන්න:">
 
 <!ENTITY title.label              "සිරස්තලය">
 <!ENTITY processing.label         "ආයාත කරමින් සිටියි...">

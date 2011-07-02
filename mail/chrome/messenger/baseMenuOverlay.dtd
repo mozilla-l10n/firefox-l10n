@@ -25,9 +25,9 @@ Entities below were automatically added by compare-locales,
  based on en-US entities.
 -->
 
-<!ENTITY releaseCmd2.label "Release Notes">
+<!ENTITY releaseCmd2.label "නිකුතු සටහන්">
 <!ENTITY releaseCmd2.accesskey "N">
 <!ENTITY helpTroubleshootingInfo.accesskey "T">
-<!ENTITY helpSafeMode.label "Restart with Add-ons Disabled…">
+<!ENTITY helpSafeMode.label "ඇඩෝන අබල (Disable) කර යළි-අරඹන්න…">
 <!ENTITY helpSafeMode.accesskey "R">
-<!ENTITY helpTroubleshootingInfo.label "Troubleshooting Information">
+<!ENTITY helpTroubleshootingInfo.label "සදොස් සෙවීමේ තොරතුරු">

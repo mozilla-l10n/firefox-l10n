@@ -94,5 +94,5 @@ Entities below were automatically added by compare-locales,
  based on en-US entities.
 -->
 
-<!ENTITY featureConfigurator.addOn.failure "There was a problem installing this extension!">
-<!ENTITY featureConfigurator.addOn.downloading "Downloading…">
+<!ENTITY featureConfigurator.addOn.failure "මෙම දිගුකිරීම ස්ථාපනයේදී දෝෂයන් ඇතිවිය!">
+<!ENTITY featureConfigurator.addOn.downloading "බාගත කරයි…">

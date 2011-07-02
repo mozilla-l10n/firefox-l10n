@@ -60,7 +60,7 @@
 <!ENTITY HomePhone.accesskey                   "H">
 <!ENTITY WorkPhone.label                       "දු.ක. (කාර්යාලය)">
 <!ENTITY WorkPhone.accesskey                   "W">
-<!ENTITY ScreenName.label                      "Screen Name">
+<!ENTITY ScreenName.label                      "තිර නම (Screen Name)">
 <!ENTITY ScreenName.accesskey                  "S">
 <!ENTITY sortAscending.label                   "ආරෝහණ පිළිවෙළට">
 <!ENTITY sortAscending.accesskey               "A">

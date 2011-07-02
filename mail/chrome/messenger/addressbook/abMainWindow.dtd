@@ -152,7 +152,7 @@
 <!ENTITY GeneratedName.accesskey                        "N">
 <!ENTITY PrimaryEmail.label                             "වි. තැ. ලිපිනය">
 <!ENTITY PrimaryEmail.accesskey                         "E">
-<!ENTITY ScreenName.label                               "Screen Name">
+<!ENTITY ScreenName.label                               "තිර නම (Screen Name)">
 <!ENTITY ScreenName.accesskey                           "S">
 <!ENTITY Company.label                                  "ආයතනය">
 <!ENTITY Company.accesskey                              "z">

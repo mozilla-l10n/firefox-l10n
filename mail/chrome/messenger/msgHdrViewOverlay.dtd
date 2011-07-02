@@ -129,23 +129,23 @@ Entities below were automatically added by compare-locales,
 <!ENTITY deleteAllAttachmentsMenuItem.accesskey "e">
 <!ENTITY detachAttachmentMenuItem.accesskey "d">
 <!ENTITY detachAllAttachmentsMenuItem.accesskey "d">
-<!ENTITY openAllAttachmentsMenuItem.label "open all…">
-<!ENTITY deleteAllAttachmentsMenuItem.label "delete all…">
-<!ENTITY saveAllAttachmentsButton.label "save all">
-<!ENTITY deleteAttachmentMenuItem.label "delete">
-<!ENTITY saveAttachmentButton.tooltip "save the attached file">
-<!ENTITY detachAllAttachmentsMenuItem.label "detach all…">
-<!ENTITY openAttachmentMenuItem.label "open">
+<!ENTITY openAllAttachmentsMenuItem.label "සියල්ල විවෘත කරන්න…">
+<!ENTITY deleteAllAttachmentsMenuItem.label "සියල්ල මකන්න…">
+<!ENTITY saveAllAttachmentsButton.label "සියල්ල සුරකින්න">
+<!ENTITY deleteAttachmentMenuItem.label "මකන්න">
+<!ENTITY saveAttachmentButton.tooltip "ඇමුණුම් ගොනුව සුරකින්න">
+<!ENTITY detachAllAttachmentsMenuItem.label "සියල්ල වෙන් කරන්න…">
+<!ENTITY openAttachmentMenuItem.label "විවෘත කරන්න">
 <!ENTITY saveAsAttachmentMenuItem.accesskey "s">
 <!ENTITY openAllAttachmentsMenuItem.accesskey "o">
 <!ENTITY deleteAttachmentCmd.accesskey "L">
 <!ENTITY saveAllAttachmentsMenuItem.accesskey "s">
-<!ENTITY detachAttachmentMenuItem.label "detach…">
-<!ENTITY openAllAttachmentsCmd.label "Open All…">
+<!ENTITY detachAttachmentMenuItem.label "වෙන් කරන්න…">
+<!ENTITY openAllAttachmentsCmd.label "සියල්ල විවෘත කරන්න…">
 <!ENTITY openAllAttachmentsCmd.accesskey "O">
-<!ENTITY saveAttachmentButton.label "save">
-<!ENTITY saveAsAttachmentMenuItem.label "save as…">
+<!ENTITY saveAttachmentButton.label "සුරකින්න">
+<!ENTITY saveAsAttachmentMenuItem.label "සුරකින්නේ මෙලෙස…">
 <!ENTITY detachAttachmentCmd.accesskey "T">
 <!ENTITY openAttachmentMenuItem.accesskey "o">
-<!ENTITY saveAllAttachmentsButton.tooltip "save all the attached files">
-<!ENTITY saveAllAttachmentsMenuItem.label "save all…">
+<!ENTITY saveAllAttachmentsButton.tooltip "ඇමුණුම් ගොනු සියල්ල සුරකින්න">
+<!ENTITY saveAllAttachmentsMenuItem.label "සියල්ල සුරකින්න…">
