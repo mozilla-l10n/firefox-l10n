@@ -273,7 +273,7 @@ Entities below were automatically added by compare-locales,
  based on en-US entities.
 -->
 
-<!ENTITY spellAddDictionaries.label "Add Dictionaries…">
+<!ENTITY spellAddDictionaries.label "ශබ්දකෝෂ එක්කරන්න…">
 <!ENTITY headersSpace.style "width: 9em;">
 <!ENTITY spellAddDictionaries.accesskey "A">
-<!ENTITY spellingButton.tooltip "Check spelling of selection or entire message">
+<!ENTITY spellingButton.tooltip "තෝරාගත් කොටසේ හෝ සම්පූර්ණ ලිපියේ අක්ෂර වින්‍යාසය පරීක්ෂා කරන්න">

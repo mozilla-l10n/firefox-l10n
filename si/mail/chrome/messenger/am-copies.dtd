@@ -44,10 +44,10 @@ Entities below were automatically added by compare-locales,
 -->
 
 <!ENTITY keepArchives.accesskey "K">
-<!ENTITY specialFolders.label "Drafts and Templates">
-<!ENTITY archivesTitle.label "Message Archives">
-<!ENTITY ccAddressList.placeholder "Separate addresses with commas">
-<!ENTITY archiveHierarchyButton.label "Archive options…">
+<!ENTITY specialFolders.label "කෙටුම්පත් සහ අචුචු">
+<!ENTITY archivesTitle.label "සංරක්ෂිත ලිපි">
+<!ENTITY ccAddressList.placeholder "කොමා මඟින් ලිපින වෙන් කරන්න">
+<!ENTITY archiveHierarchyButton.label "සංරක්ෂණ විකල්ප…">
 <!ENTITY archiveHierarchyButton.accesskey "A">
-<!ENTITY keepTemplates.label "Keep message templates in:">
-<!ENTITY bccAddressList.placeholder "Separate addresses with commas">
+<!ENTITY keepTemplates.label "මෙතුළ ලිපි අච්චු තබන්න:">
+<!ENTITY bccAddressList.placeholder "කොමා මඟින් ලිපින වෙන් කරන්න">

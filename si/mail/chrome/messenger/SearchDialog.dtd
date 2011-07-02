@@ -18,7 +18,7 @@
 <!ENTITY fileButton.label            "ගොනු">
 <!ENTITY fileButton.accesskey        "i">
 <!ENTITY closeCmd.key                "W"> 
-<!ENTITY openInFolder.label          "Open in Folder">
+<!ENTITY openInFolder.label          "ෆෝල්ඩරය තුළ විවෘත කරන්න">
 <!ENTITY openInFolder.accesskey      "r">
 <!ENTITY saveAsVFButton.label        "සෙවුම් ෆෝල්ඩරයක් සේ සුරකින්න">
 <!ENTITY saveAsVFButton.accesskey    "v">
@@ -48,7 +48,7 @@
 <!ENTITY totalColumn.label "එකතුව">
 <!ENTITY readColumn.label "කියවූ">
 <!ENTITY receivedColumn.label "ලැබුණු">
-<!ENTITY starredColumn.label "Starred">
+<!ENTITY starredColumn.label "තරු යෙදූ">
 <!ENTITY locationColumn.label "ස්ථානය">
 <!ENTITY idColumn.label "ලැබුණු පිළිටවළ">
 
@@ -69,6 +69,6 @@
 <!ENTITY totalColumn.tooltip "සබැඳිලිපි තුළ ඇති මුළු ලිපි ගණන">
 <!ENTITY readColumn.tooltip "කියවීම අනුව පිළිවෙළ කිරීමට ක්ලික් කරන්න">
 <!ENTITY receivedColumn.tooltip "ලැබුණු දිනය අනුව පිළිවෙළ කිරීමට ක්ලික් කරන්න">
-<!ENTITY starredColumn.tooltip "Click to sort by star">
+<!ENTITY starredColumn.tooltip "තරු අනුව පිළිවෙළ කිරීමට ක්ලික් කරන්න">
 <!ENTITY locationColumn.tooltip "ස්ථානය අනුව පිළිවෙළ කිරීමට ක්ලික් කරන්න">
 <!ENTITY idColumn.tooltip "ලැබුණු අනුපිළිවෙළට අනුව පිළිවෙළ කිරීමට ක්ලික් කරන්න">

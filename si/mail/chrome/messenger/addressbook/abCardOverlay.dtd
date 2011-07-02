@@ -77,7 +77,7 @@
 <!ENTITY PlainText.label                "සාමාන්‍ය පාඨ (Plain Text)">
 <!ENTITY HTML.label                     "HTML">
 <!ENTITY Unknown.label                  "නොදන්නා">
-<!ENTITY ScreenName.label               "Screen Name:">
+<!ENTITY ScreenName.label               "තිර නම (Screen Name):">
 <!ENTITY ScreenName.accesskey           "S">
 
 <!ENTITY allowRemoteContent1.label      "දුරස්ථ අන්තර්ගතයන්ට ඉඩ දෙන්න.">
@@ -182,7 +182,7 @@ Entities below were automatically added by compare-locales,
 -->
 
 <!ENTITY preferDisplayName.accesskey "y">
-<!ENTITY PhotoURL.placeholder "Paste or type the web address of a photo">
-<!ENTITY Age.placeholder "Age">
-<!ENTITY Year.placeholder "Year">
-<!ENTITY preferDisplayName.label "Always prefer display name over message header">
+<!ENTITY PhotoURL.placeholder "ඡායාරූපයක වෙබ් ලිපිනය අලවන්න හෝ ටයිප් කරන්න">
+<!ENTITY Age.placeholder "වයස">
+<!ENTITY Year.placeholder "වසර">
+<!ENTITY preferDisplayName.label "සෑමවිටම ලිපි ශිර්ෂයට වඩා නම ප්‍රමුඛ කර සළකන්න">

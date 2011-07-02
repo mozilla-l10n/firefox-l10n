@@ -67,21 +67,21 @@ Entities below were automatically added by compare-locales,
  based on en-US entities.
 -->
 
-<!ENTITY pop3Long.label "POP3 (keep mail on your computer)">
-<!ENTITY autodetect.label "Autodetect">
-<!ENTITY name.placeholder "First Last">
-<!ENTITY half-manual-test.label "Re-test">
-<!ENTITY username.label "Username:">
-<!ENTITY port.label "Port">
+<!ENTITY pop3Long.label "POP3 (ලිපි මගේ පරිගණකයේ තබන්න)">
+<!ENTITY autodetect.label "ස්ව-හැඳුනුම">
+<!ENTITY name.placeholder "පළමු අවසාන">
+<!ENTITY half-manual-test.label "යළි-පරීක්ෂා කරන්න">
+<!ENTITY username.label "පරිශීලක නම:">
+<!ENTITY port.label "වාවරය (Port)">
 <!ENTITY half-manual-test.accesskey "t">
-<!ENTITY advancedSetup.label "Advanced config">
+<!ENTITY advancedSetup.label "වැඩිමනත් මානකිරීම්">
 <!ENTITY imapLong.label "IMAP (remote folders)">
-<!ENTITY auth.label "Authentication">
-<!ENTITY hostname.label "Server hostname">
+<!ENTITY auth.label "සත්‍යාපනය">
+<!ENTITY hostname.label "සේවාදායක ධාරක නම">
 <!ENTITY advancedSetup.accesskey "A">
-<!ENTITY manual-edit.label "Manual config">
+<!ENTITY manual-edit.label "අභිමත මානකිරීම්">
 <!ENTITY ssl.label "SSL">
 <!ENTITY email.placeholder "email@example.com">
-<!ENTITY password.placeholder "Password">
+<!ENTITY password.placeholder "රහස්පදය">
 <!ENTITY pop3.label "POP3">
 <!ENTITY manual-edit.accesskey "M">

@@ -5,16 +5,16 @@ Entities below were automatically added by compare-locales,
  based on en-US entities.
 -->
 
-<!ENTITY aboutSupport.accountsDefault "Default?">
+<!ENTITY aboutSupport.accountsDefault "පෙරනිමි (Default)?">
 <!ENTITY aboutSupport.appBasicsAppBuildID "Application Build ID">
 <!ENTITY aboutSupport.showPrivateData.mainText "Include account names">
-<!ENTITY aboutSupport.accountsAuthMethod "Authentication method">
-<!ENTITY aboutSupport.accountsOutgoingServers "Outgoing servers">
+<!ENTITY aboutSupport.accountsAuthMethod "සත්‍යාපන ආකාරය">
+<!ENTITY aboutSupport.accountsOutgoingServers "යැවුම් සේවාදායන">
 <!ENTITY aboutSupport.accountsID "ID">
-<!ENTITY aboutSupport.accountsTitle "Mail and News Accounts">
-<!ENTITY aboutSupport.accountsName "Name">
-<!ENTITY aboutSupport.showPrivateData.explanationText "(possibly identifying information)">
-<!ENTITY aboutSupport.accountsServerName "Name">
-<!ENTITY aboutSupport.sendViaEmail.label "Send via email">
-<!ENTITY aboutSupport.accountsIncomingServer "Incoming server">
-<!ENTITY aboutSupport.accountsConnSecurity "Connection security">
+<!ENTITY aboutSupport.accountsTitle "ලිපි සහ පුවත්සමූහ ගිණුම්">
+<!ENTITY aboutSupport.accountsName "නම">
+<!ENTITY aboutSupport.showPrivateData.explanationText "(හඳුනාගැනීමේ තොරතුරු විය හැකිය)">
+<!ENTITY aboutSupport.accountsServerName "නම">
+<!ENTITY aboutSupport.sendViaEmail.label "ඉ-තැපැල ඔස්සේ යවන්න">
+<!ENTITY aboutSupport.accountsIncomingServer "ලැබීම් සේවාදායනය">
+<!ENTITY aboutSupport.accountsConnSecurity "සබඳතා ආරක්ෂණය">
