@@ -43,7 +43,7 @@
 <!ENTITY setup.newSyncKeyPage.description.label "Щоб забезпечити вашу повну приватність, всі ваші дані шифруються перед надсиланням. Ключ для дешифровки ваших даних не надсилається.">
 <!ENTITY syncKeyEntry.label        "Ваш ключ синхронізації">
 <!ENTITY syncKeyEntry.accesskey    "К">
-<!ENTITY syncKeyGenerate.label     "Згенерувати">
+<!ENTITY syncGenerateNewKey.label  "Згенерувати новий ключ">
 <!ENTITY syncKeyBackup.description "Ваш ключ синхронізації необхідний для доступу до &syncBrand.fullName.label; з інших машин. Будь ласка створіть його резервну копію. Ми не зможемо допомогти вам відновити ваш ключ синхронізації.">
 
 <!ENTITY button.syncKeyBackup.print.label     "Друк…">
