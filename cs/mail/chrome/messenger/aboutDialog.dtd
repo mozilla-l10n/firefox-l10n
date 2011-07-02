@@ -66,7 +66,7 @@
 
 <!ENTITY channel.release.description "Užívejte si osvědčené finální verze používané stovkami miliónů uživatelů po celém světě. Mějte pod kontrolou své zážitky za pomoci super rychlosti, jednoduché přizpůsobivosti a nejnovějších webových technologií.">
 <!ENTITY channel.beta.description "Vyzkoušejte si nové vlastnosti s větší dávkou stability. Zasílejte zpětnou vazbu a pomáhejte zpřesnit a doladit finální verze.">
-<!ENTITY channel.aurora.description "Vyzkoušejte všechny novinky v nestabilním prostředí, které není pro lidi se slabým srdcem. Zasílejte zpětnou vazbu ohledně výkonosti a pomáhejte určit, které z nových vlastností se dostanou do finální verze.">
+<!ENTITY channel.aurora.description "Vyzkoušejte všechny novinky v nestabilním prostředí, které není pro lidi se slabým srdcem. Zasílejte zpětnou vazbu ohledně výkonnosti a pomáhejte určit, které z nových vlastností se dostanou do finální verze.">
 
 <!-- LOCALIZATION NOTE (channel.selector.start,channel.selector.end): channel.selector.start and
      channel.selector.end create one sentence, with a channel selection menulist instered in between.
