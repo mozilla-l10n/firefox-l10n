@@ -5,10 +5,10 @@
 <!ENTITY aboutPage.rights.label                 "Kend dine rettigheder">
 <!ENTITY aboutPage.relNotes.label               "Udgivelsesnoter">
 <!ENTITY aboutPage.credits.label                "Tak til">
-<!ENTITY aboutPage.checkForUpdates.button       "Kontroller for opdateringer">
-<!ENTITY aboutPage.checkForUpdates.checking     "Kontrollerer for opdateringer…">
-<!ENTITY aboutPage.checkForUpdates.none         "Ingen opdateringer tilgængelige">
-<!ENTITY aboutPage.checkForUpdates.found        "Opdatering tilgængelig">
+<!ENTITY aboutPage.checkForUpdates.button       "Søg efter opdatering">
+<!ENTITY aboutPage.checkForUpdates.checking     "Søger efter opdatering…">
+<!ENTITY aboutPage.checkForUpdates.none         "Ingen opdatering fundet">
+<!ENTITY aboutPage.checkForUpdates.found        "Opdatering klar">
 
 
 <!-- LOCALIZATION NOTE:
