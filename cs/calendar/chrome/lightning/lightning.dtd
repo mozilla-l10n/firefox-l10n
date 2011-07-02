@@ -114,9 +114,9 @@
 <!ENTITY lightning.acctCentral.newCalendar.label "Vytvořit nový kalendář">
 
 <!-- today-pane-specific -->
-<!ENTITY todaypane.showMinimonth.label "Zobrazit mimi-měsíc">
+<!ENTITY todaypane.showMinimonth.label "Zobrazit mini-měsíc">
 <!ENTITY todaypane.showMinimonth.accesskey "m">
-<!ENTITY todaypane.showMiniday.label "Zobrazit mimi-den">
+<!ENTITY todaypane.showMiniday.label "Zobrazit mini-den">
 <!ENTITY todaypane.showMiniday.accesskey  "d">
 <!ENTITY todaypane.showNone.label "Nic nezobrazovat">
 <!ENTITY todaypane.showNone.accesskey "N">
