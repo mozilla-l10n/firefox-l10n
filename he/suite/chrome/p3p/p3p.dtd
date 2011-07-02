@@ -63,13 +63,13 @@
 <!ENTITY p3p.resolve "גישור מחלוקות">
 <!ENTITY p3p.dispute "&nbsp;מחלוקות הקשורות לנוהלי הפרטיות של אתר זה יגושרו על־ידי:">
 <!ENTITY p3p.dispute.service "להתקשר לשירות הלקוחות ב:   ">
-<!ENTITY p3p.dispute.independent 'יצירת קשר עם <a target="_blank" href="{@service}"><xsl:value-of select="@service"/></a> ב:'>
-<!ENTITY p3p.dispute.law 'התייחסות אל <a target="_blank" href="{@service}">חוק</a> הניתן ליישום. ראה:'>
+<!ENTITY p3p.dispute.independent "יצירת קשר עם <a target=&quot;_blank&quot; href=&quot;{@service}&quot;><xsl:value-of select=&quot;@service&quot;/></a> ב:">
+<!ENTITY p3p.dispute.law "התייחסות אל <a target=&quot;_blank&quot; href=&quot;{@service}&quot;>חוק</a> הניתן ליישום. ראה:">
 <!ENTITY p3p.dispute.court "הגשת תביעה כנגד האתר בבית משפט.">
 <!ENTITY p3p.purpose "&nbsp;המידע שאתה מספק לאתר זה יכול לשמש עבור:">
 <!ENTITY p3p.pseudoanalysis.init "ייתכן ונשתמש במידע שסיפקת לנו בכדי להכיר את מנהגיך, שטחי התעניינותך או מאפייניך,  
 מבלי לשייכם אליך אישית, למטרות מחקרים, ניתוחים והפקת דוחות. 
-לדוגמה, לימוד של שטחי ההתעניינות או מנהגים של משתמש מסויים  אך בלתי מזוהה,
+לדוגמה, לימוד של שטחי ההתעניינות או מנהגים של משתמש מסוים אך בלתי מזוהה,
 יכול לעזור לנו להבין טוב יותר איזה שימוש נעשה בחלקים שונים של האתר.">
 <!ENTITY p3p.pseudodecision.init "ייתכן ונשתמש במידע שסיפקת לנו בכדי להכיר את מנהגיך, שטחי התעניינותך או מאפייניך,
 מבלי לשייכם אליך באופן אישי, ובהסתמך על מנהגים, שטחי התעניינות או מאפיינים אלה להגיע להחלטה
@@ -127,14 +127,14 @@
 <!ENTITY p3p.categories "&nbsp; אתר זה אוסף מידע אודות:">
 <!ENTITY p3p.categories.physical "איך ליצור עמך קשר בצורה לא מקוונת כמו למשל שמך, מס׳ הטלפון שלך, וכתובתך.">
 <!ENTITY p3p.categories.online "כיצד ליצור עמך קשר בצורה מקוונת, כמו למשל כתובת הדוא״ל שלך.">
-<!ENTITY p3p.categories.uniqueid "מזהה אותך בתור משתמש מסויים אבל לא משתמש בכתובת הדוא״ל שלך, מס׳  ת.ז. שלך, או שמך בכדי לזהות אותך.">
+<!ENTITY p3p.categories.uniqueid "מזהה אותך בתור משתמש מסוים אבל לא משתמש בכתובת הדוא״ל שלך, מס׳  ת.ז. שלך, או שמך בכדי לזהות אותך.">
 <!ENTITY p3p.categories.purchase "קניות שאתה עושה בצורה מקוונת.">
 <!ENTITY p3p.categories.financial "מצבך הכספי כולל המידע על חשבונך.">
 <!ENTITY p3p.categories.computer "מערכת המחשב בה אתה משתמש לגישה לאינטרנט.">
 <!ENTITY p3p.categories.navigation "התנהלותך הפסיבית באתר האינטרנט, כמו למשל באילו דפים ביקרת.">
 <!ENTITY p3p.categories.interactive "התנהלותך באתר כמו למשל שאילתות במנוע חיפוש.">
 <!ENTITY p3p.categories.demographic "המין, הגיל, וההכנסה שלך.">
-<!ENTITY p3p.categories.content "תוכן מסויים שמסרת לאתר כמו למשל טקסט של דוא״ל.">
+<!ENTITY p3p.categories.content "תוכן מסוים שמסרת לאתר כמו למשל טקסט של דוא״ל.">
 <!ENTITY p3p.categories.state "המחשב או החיבור שלך בכדי לשמור על קשר פעיל איתך.">
 <!ENTITY p3p.categories.political "קשריך לקבוצות דתיות, פוליטיות, מקצועיות, או מסחריות מסוימות.">
 <!ENTITY p3p.categories.health "בריאותך הגופנית או הנפשית, נטיותיך המיניות, והשאילתות שאתה מציג בנושא שירותים או מוצרים רפואיים.">

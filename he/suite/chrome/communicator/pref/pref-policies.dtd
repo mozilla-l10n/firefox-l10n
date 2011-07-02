@@ -1,5 +1,5 @@
 <!ENTITY pref.policies.title "מדיניות אבטחה">
-<!ENTITY zoneIntro.label "&brandShortName; מאפשר לך ליצור חוקי מדיניות הקובעים איזו גישה יש לאתרים מסויימים לתיפקודים שונים, כולל היבטים של סקריפט ו־Java.">
+<!ENTITY zoneIntro.label "&brandShortName; מאפשר לך ליצור חוקי מדיניות הקובעים איזו גישה יש לאתרים מסוימים לתיפקודים שונים, כולל היבטים של סקריפט ו־Java.">
 <!ENTITY policies.label "מדיניות:">
 <!ENTITY default.label "מדיניות ברירת מחדל">
 <!ENTITY allWebsites.label "כל האתרים">
