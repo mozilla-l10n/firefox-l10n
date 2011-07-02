@@ -8,5 +8,5 @@
 <!ENTITY aboutHome.openAllTabs                  "Abrir todos en pestañas">
 <!ENTITY aboutHome.noTabs                       "Sin pestañas de la última vez">
 <!ENTITY aboutHome.noAddons                     "Sin complementos recomendados">
-
+<!ENTITY aboutHome.getLocale                    "Cambiar idioma">
 
