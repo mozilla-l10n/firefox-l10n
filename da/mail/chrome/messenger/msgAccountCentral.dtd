@@ -1,6 +1,6 @@
 <!ENTITY emailSectionHdr.label "Mail">
 <!ENTITY readMsgsLink.label "Læs meddelelser">
-<!ENTITY composeMsgLink.label "Sammensæt en ny meddelelse">
+<!ENTITY composeMsgLink.label "Skriv en ny meddelelse">
 
 <!ENTITY newsSectionHdr.label "Nyhedsgrupper">
 <!ENTITY subscribeNewsLink.label "Håndter abonnementer på nyhedsgrupper">
