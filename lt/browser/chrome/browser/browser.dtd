@@ -88,8 +88,6 @@ can reach it easily. -->
 <!ENTITY printCmd.label "Spausdinti…">
 <!ENTITY printCmd.accesskey "S">
 <!ENTITY printCmd.commandkey "p">
-<!ENTITY import.label "Importuoti…">
-<!ENTITY import.accesskey "m">
 
 <!ENTITY goOfflineCmd.label "Atsijungti nuo tinklo">
 <!ENTITY goOfflineCmd.accesskey "t">
