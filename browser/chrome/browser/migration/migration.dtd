@@ -7,30 +7,14 @@
 
 <!ENTITY importFromIE.label "Microsoft Internet Explorerja">
 <!ENTITY importFromIE.accesskey "M">
-<!ENTITY importFromPhoenix.label "Firefoxa 0.8, Firebirda ali Phoenixa">
-<!ENTITY importFromPhoenix.accesskey "P">
 <!ENTITY importFromNothing.label "Ne uvozi ničesar">
 <!ENTITY importFromNothing.accesskey "N">
 <!ENTITY importFromSeamonkey.label "Netscapea 6, 7 ali Mozille 1.x">
 <!ENTITY importFromSeamonkey.accesskey "N">
-<!ENTITY importFromNetscape4.label "Netscapea 4.x">
-<!ENTITY importFromNetscape4.accesskey "4">
 <!ENTITY importFromOpera.label "Opere">
 <!ENTITY importFromOpera.accesskey "O">
-<!ENTITY importFromCamino.label "Camina">
-<!ENTITY importFromCamino.accesskey "C">
 <!ENTITY importFromSafari.label "Safarija">
 <!ENTITY importFromSafari.accesskey "S">
-<!ENTITY importFromOmniWeb.label "OmniWeba">
-<!ENTITY importFromOmniWeb.accesskey "W">
-<!ENTITY importFromICab.label "iCaba">
-<!ENTITY importFromICab.accesskey "i">
-<!ENTITY importFromKonqueror.label "Konquerorja">
-<!ENTITY importFromKonqueror.accesskey "K">
-<!ENTITY importFromEpiphany.label "Epiphanyja">
-<!ENTITY importFromEpiphany.accesskey "E">
-<!ENTITY importFromGaleon.label "Galeona">
-<!ENTITY importFromGaleon.accesskey "G">
 <!ENTITY importFromHTMLFile.label "Iz datoteke HTML">
 <!ENTITY importFromHTMLFile.accesskey "F">
 

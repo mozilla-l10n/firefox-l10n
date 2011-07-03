@@ -6,12 +6,9 @@
 <!ENTITY organize.accesskey "O">
 <!ENTITY organize.tooltip      "Organizirajte svoje zaznamke">
 
-<!ENTITY file.accesskey "D">
 <!ENTITY file.close.label "Zapri">
 <!ENTITY file.close.accesskey "Z">
 <!ENTITY cmd.close.key "w">
-<!ENTITY edit.label "Urejanje">
-<!ENTITY edit.accesskey "E">
 <!ENTITY views.label "Pogledi">
 <!ENTITY views.accesskey "P">
 <!ENTITY views.tooltip                  "Prilagodite si pogled">
@@ -76,8 +73,6 @@
 
 <!ENTITY cmd.reloadLivebookmark.label "Znova naloži živi zaznamek">
 <!ENTITY cmd.reloadLivebookmark.accesskey "ž">
-<!ENTITY cmd.reloadMicrosummary.label "Znova naloži živi naslov">
-<!ENTITY cmd.reloadMicrosummary.accesskey "ž">
 
 <!ENTITY cmd.moveBookmarks.label "Premakni …">
 <!ENTITY cmd.moveBookmarks.accesskey "P">
@@ -113,17 +108,14 @@
 <!ENTITY maintenance.accesskey "i">
 <!ENTITY maintenance.tooltip    "Uvozite in shranite svoje zaznamke">
 
-<!ENTITY backCmd.label "Nazaj">
 <!ENTITY backButton.tooltip "Nazaj">
 
-<!ENTITY forwardCmd.label "Naprej">
 <!ENTITY forwardButton.tooltip "Pojdi naprej">
 
 <!ENTITY detailsPane.more.label "Več">
 <!ENTITY detailsPane.more.accesskey "e">
 <!ENTITY detailsPane.less.label "Manj">
 <!ENTITY detailsPane.less.accesskey "a">
-<!ENTITY detailsPane.noPreviewAvailable.label "Predogled">
 <!ENTITY detailsPane.selectAnItemText.description "Izberi predmet za prikaz in urejanje njegovih lastnosti">
 
 <!ENTITY find.label               "Išči:">
