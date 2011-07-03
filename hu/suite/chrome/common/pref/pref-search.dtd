@@ -11,9 +11,9 @@
 
 <!ENTITY searchResults.label "Találatok">
 
-<!ENTITY openInTab.label "Open new tabs for sidebar search results">
+<!ENTITY openInTab.label "Oldalsáv keresési eredményeinek megjelnítése új lapon">
 <!ENTITY openInTab.accesskey "n">
-<!ENTITY openContextSearchTab.label "Lap megnyitása új ablak helyett, helyi menüből indított webes kereséskor">
-<!ENTITY openContextSearchTab.accesskey "L">
+<!ENTITY openContextSearchTab.label "Új lap nyitása, új ablak helyett, a helyi menüből indított kereséskor">
+<!ENTITY openContextSearchTab.accesskey "l">
 <!ENTITY openSidebarSearchPanel.label "A Keresés panellap megnyitása az Oldalsávon, amikor a keresés eredménye rendelkezésre áll">
 <!ENTITY openSidebarSearchPanel.accesskey "m">
