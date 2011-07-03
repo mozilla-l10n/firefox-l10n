@@ -1,7 +1,0 @@
-<!ENTITY credit.title     "&brandFullName; 개발자">
-<!ENTITY brandMotto       "Thunderbird 앞으로!">
-<!ENTITY credit.thanks    "감사할 분">
-<!-- localization credits look like this: -->
-<!ENTITY credit.translation "<h3>한국어 번역</h3><ul><li>김정균, Joungkyun Kim(oops)</li><li>윤석찬, Seokchan Yun(Channy)</li></ul><h3>한국어 수정</h3><ul><li>박찬규, Chankyu Park(sushizang)</li></ul>">
-<!ENTITY credit.memory      "기억할 분">
-<!ENTITY credit.poweredByGecko "Powered by Gecko&trade;">

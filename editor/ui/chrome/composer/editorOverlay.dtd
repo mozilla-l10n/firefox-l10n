@@ -1,8 +1,5 @@
 <!ENTITY fileMenu.label "파일">
 <!ENTITY fileMenu.accesskey "f">
-<!ENTITY newBlankPageCmd.label "페이지 편집">
-<!ENTITY newBlankPageCmd.accesskey "P">
-<!ENTITY newMenu.label "새로 만들기">
 <!ENTITY openFileCmd.label "파일 열기…">
 <!ENTITY openFileCmd.accesskey "o">
 <!ENTITY openFileCmd.key "o">
@@ -345,9 +342,6 @@
 <!ENTITY alignLeftButton.tooltip "왼쪽으로 맞춤">
 <!ENTITY alignCenterButton.tooltip "가운데로 맞춤">
 <!ENTITY alignRightButton.tooltip "오른쪽으로 맞춤">
-<!ENTITY alignjustifyButton.tooltip "양쪽으로 맞춤">
-<!ENTITY SourceMode.label "소스">
-<!ENTITY SourceTabDirection "ltr">
 <!ENTITY structSelect.label "선택">
 <!ENTITY structSelect.accesskey "s">
 <!ENTITY structRemoveTag.label "태그 제거">
