@@ -23,14 +23,13 @@
 <!ENTITY warning.updatesecurity.enable.label       "Aktiver">
 <!ENTITY warning.updatesecurity.enable.tooltip     "Aktiver sikkerhedstjek ved opdatering af tilføjelser">
 
+<!-- global informations -->
+<!ENTITY info.plugincheck.label                 "Kontroller om du har de seneste nye plugins">
+<!ENTITY info.plugincheck.tooltip               "Kontroller om du har de seneste nye plugins">
+
 <!-- categories / views -->
 <!ENTITY view.search.label                    "Søg">
 <!ENTITY view.discover.label                  "Find tilføjelser">
-<!ENTITY view.locales.label                   "Sprog">
-<!ENTITY view.searchengines.label             "Søgetjenester">
-<!ENTITY view.features.label                  "Udvidelser">
-<!ENTITY view.appearance2.label               "Temaer">
-<!ENTITY view.plugins.label                   "Plugins">
 <!ENTITY view.recentUpdates.label             "Nylige opdateringer">
 <!ENTITY view.availableUpdates.label          "Tilgængelige opdateringer">
 
@@ -39,8 +38,17 @@
 <!ENTITY updates.checkForUpdates.accesskey    "T">
 <!ENTITY updates.viewUpdates.label            "Vis nylige opdateringer">
 <!ENTITY updates.viewUpdates.accesskey        "V">
+<!-- LOCALIZATION NOTE (updates.updateAddonsAutomatically.label): This menu item
+     is a checkbox that toggles the default global behavior for add-on update
+     checking. -->
 <!ENTITY updates.updateAddonsAutomatically.label     "Opdater tilføjelser automatisk">
 <!ENTITY updates.updateAddonsAutomatically.accesskey "a">
+<!-- LOCALIZATION NOTE (updates.resetUpdatesToAutomatic.label, updates.resetUpdatesToManual.label):
+     Specific addons can have custom update checking behaviors ("Manually",
+     "Automatically", "Use default global behavior"). These menu items reset the
+     update checking behavior for all add-ons to the default global behavior
+     (which itself is either "Automatically" or "Manually", controlled by the
+     updates.updateAddonsAutomatically.label menu item). -->
 <!ENTITY updates.resetUpdatesToAutomatic.label       "Nulstil alle tilføjelser til automatisk opdatering">
 <!ENTITY updates.resetUpdatesToAutomatic.accesskey   "N">
 <!ENTITY updates.resetUpdatesToManual.label          "Nulstil alle tilføjelser til manuel opdatering">

@@ -6,7 +6,6 @@
 <!ENTITY editBookmarkOverlay.feedLocation.accesskey          "f">
 <!ENTITY editBookmarkOverlay.siteLocation.label              "Placering af side:">
 <!ENTITY editBookmarkOverlay.siteLocation.accesskey          "s">
-<!ENTITY editBookmarkOverlay.liveTitlesSeparator.label       "Dynamiske navne">
 <!ENTITY editBookmarkOverlay.folder.label                    "Mappe:">
 <!ENTITY editBookmarkOverlay.foldersExpanderDown.tooltip     "Vis alle bogmærkemapper">
 <!ENTITY editBookmarkOverlay.expanderUp.tooltip              "Skjul">
