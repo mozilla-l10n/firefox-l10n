@@ -4,8 +4,8 @@
 <!ENTITY importFromBookmarks.label "다음으로부터 북마크를 가지고 옵니다:">
 <!ENTITY importFromIE.label "Microsoft Internet Explorer">
 <!ENTITY importFromIE.accesskey "M">
-<!ENTITY importFromPhoenix.label "Firefox 0.8, Firebird 또는 Phoenix	">
-<!ENTITY importFromPhoenix.accesskey "P">
+<!ENTITY importFromNothing.label	"아무것도 가져오지 않기">
+<!ENTITY importFromNothing.accesskey	"D">
 <!ENTITY importFromSeamonkey.label "Netscape 6, 7 또는 Mozilla 1.x	">
 <!ENTITY importFromSeamonkey.accesskey "N">
 <!ENTITY importFromOpera.label "Opera">
