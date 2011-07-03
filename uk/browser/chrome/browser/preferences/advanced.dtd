@@ -8,7 +8,7 @@
 <!ENTITY useCursorNavigation.accesskey   "а">
 <!ENTITY searchStartTyping.label         "Шукати текст на сторінці у міру його набору">
 <!ENTITY searchStartTyping.accesskey     "у">
-<!ENTITY blockAutoRefresh.label          "Попереджати мене коли сайти намагаються переадресувати чи перезавантажити сторінку">
+<!ENTITY blockAutoRefresh.label          "Попереджати мене, коли сайти намагаються переадресувати чи перезавантажити сторінку">
 <!ENTITY blockAutoRefresh.accesskey      "ю">
 
 <!ENTITY browsing.label                  "Перегляд сайтів">
@@ -17,7 +17,7 @@
 <!ENTITY useAutoScroll.accesskey         "и">
 <!ENTITY useSmoothScrolling.label        "Використовувати плавну прокрутку">
 <!ENTITY useSmoothScrolling.accesskey    "и">
-<!ENTITY allowHWAccel.label              "Використовувати апаратне прискорення якщо можливо">
+<!ENTITY allowHWAccel.label              "Використовувати апаратне прискорення, якщо можливо">
 <!ENTITY allowHWAccel.accesskey          "а">
 <!ENTITY checkSpelling.label             "Перевіряти орфографію при наборі тексту">
 <!ENTITY checkSpelling.accesskey         "е">
@@ -73,7 +73,7 @@
 <!ENTITY updateHistory.label             "Показати журнал оновлень">
 <!ENTITY updateHistory.accesskey         "о">
 
-<!ENTITY offlineNotify.label             "Повідомляти мені коли сайт просить дозволу зберегти дані для позамережного використання.">
+<!ENTITY offlineNotify.label             "Повідомляти мені, коли сайт просить дозволу зберегти дані для позамережного використання.">
 <!ENTITY offlineNotify.accesskey         "П">
 <!ENTITY offlineNotifyExceptions.label   "Винятки…">
 <!ENTITY offlineNotifyExceptions.accesskey "н">

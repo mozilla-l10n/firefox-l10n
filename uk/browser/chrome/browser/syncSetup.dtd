@@ -44,7 +44,7 @@
 <!ENTITY syncKeyEntry.label        "Ваш ключ синхронізації">
 <!ENTITY syncKeyEntry.accesskey    "К">
 <!ENTITY syncGenerateNewKey.label  "Згенерувати новий ключ">
-<!ENTITY syncKeyBackup.description "Ваш ключ синхронізації необхідний для доступу до &syncBrand.fullName.label; з інших машин. Будь ласка створіть його резервну копію. Ми не зможемо допомогти вам відновити ваш ключ синхронізації.">
+<!ENTITY syncKeyBackup.description "Ваш ключ синхронізації необхідний для доступу до &syncBrand.fullName.label; з інших машин. Будь ласка, створіть його резервну копію. Ми не зможемо допомогти вам відновити ваш ключ синхронізації.">
 
 <!ENTITY button.syncKeyBackup.print.label     "Друк…">
 <!ENTITY button.syncKeyBackup.print.accesskey "Д">
@@ -60,7 +60,7 @@
 <!ENTITY addDevice.setup.description.label  "Щоб активувати, перейдіть до налаштувань &syncBrand.shortName.label; на вашому іншому пристрою та виберіть «Додати пристрій»">
 <!ENTITY addDevice.setup.enterCode.label    "Тоді, уведіть цей код:">
 <!ENTITY addDevice.dialog.description.label "Щоб активувати ваш новий пристрій, перейдіть до налаштувань &syncBrand.shortName.label; на ньому та виберіть «З’єднатись»">
-<!ENTITY addDevice.dialog.enterCode.label   "Уведіть код що надає пристрій:">
+<!ENTITY addDevice.dialog.enterCode.label   "Уведіть код, що надає пристрій:">
 <!ENTITY addDevice.dialog.tryAgain.label    "Спробуйте ще раз.">
 <!ENTITY addDevice.dialog.successful.label  "Пристрій успішно додано. Початкова синхронізація триватиме кілька хвилин і завершиться на тлі.">
 <!ENTITY addDevice.dialog.syncKey.label     "Щоб активувати ваш пристрій вам треба ввести ключ синхронізації. Надрукуйте чи збережіть цей ключ та візьміть з собою.">
