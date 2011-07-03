@@ -1,50 +1,50 @@
 <!-- The page shown when not logged in... -->
-<!ENTITY setupButton.label "Set Up &syncBrand.fullName.label;">
-<!ENTITY setupButton.accesskey "S">
-<!ENTITY weaveDesc.label "&syncBrand.fullName.label; lets you access your history, bookmarks, passwords and open tabs across all your devices.">
+<!ENTITY setupButton.label "A &syncBrand.fullName.label; beállítása">
+<!ENTITY setupButton.accesskey "A">
+<!ENTITY weaveDesc.label "A &syncBrand.fullName.label; lehetővé teszi az előzmények, könyvjelzők, jelszavak és megnyitott lapok elérését minden eszközön.">
 <!-- The page shown when logged in... -->
 
-<!ENTITY accountGroupboxCaption.label "&syncBrand.fullName.label; Account">
-<!ENTITY accountName.label "Account Name:">
+<!ENTITY accountGroupboxCaption.label "&syncBrand.fullName.label; fiók">
+<!ENTITY accountName.label "Fiók neve:">
 <!-- Login error feedback -->
 
-<!ENTITY updatePass.label "Update">
-<!ENTITY updatePass.accesskey "U">
-<!ENTITY resetPass.label "Reset">
-<!ENTITY resetPass.accesskey "R">
+<!ENTITY updatePass.label "Frissítés">
+<!ENTITY updatePass.accesskey "F">
+<!ENTITY resetPass.label "Visszaállítás">
+<!ENTITY resetPass.accesskey "V">
 <!-- Manage Account -->
 
-<!ENTITY manageAccount.label "Manage Account">
-<!ENTITY manageAccount.accesskey "A">
-<!ENTITY viewQuota.label "View Quota">
-<!ENTITY viewQuota.accesskey "V">
-<!ENTITY changePassword.label "Change Password">
-<!ENTITY changePassword.accesskey "C">
-<!ENTITY mySyncKey.label "My Sync Key">
-<!ENTITY mySyncKey.accesskey "M">
-<!ENTITY resetSync.label "Reset Sync">
-<!ENTITY resetSync.accesskey "R">
-<!ENTITY deactivateDevice.label "Deactivate This Device">
-<!ENTITY deactivateDevice.accesskey "D">
-<!ENTITY addDevice.label "Add a Device">
-<!ENTITY addDevice.accesskey "A">
+<!ENTITY manageAccount.label "Fiók kezelése">
+<!ENTITY manageAccount.accesskey "F">
+<!ENTITY viewQuota.label "Kvóta megtekintése">
+<!ENTITY viewQuota.accesskey "K">
+<!ENTITY changePassword.label "Jelszó megváltoztatása">
+<!ENTITY changePassword.accesskey "l">
+<!ENTITY mySyncKey.label "Saját Sync-kulcs">
+<!ENTITY mySyncKey.accesskey "a">
+<!ENTITY resetSync.label "Sync alaphelyzetbe">
+<!ENTITY resetSync.accesskey "a">
+<!ENTITY deactivateDevice.label "Eszköz deaktiválása">
+<!ENTITY deactivateDevice.accesskey "d">
+<!ENTITY addDevice.label "Eszköz hozzáadása">
+<!ENTITY addDevice.accesskey "h">
 <!-- Sync Settings -->
 
-<!ENTITY syncComputerName.label "Computer Name:">
-<!ENTITY syncComputerName.accesskey "N">
+<!ENTITY syncComputerName.label "Számítógép neve:">
+<!ENTITY syncComputerName.accesskey "S">
 
-<!ENTITY syncMy2.label "Sync My:">
-<!ENTITY engine.bookmarks.label "Bookmarks">
-<!ENTITY engine.bookmarks.accesskey "B">
-<!ENTITY engine.tabs.label "Tabs">
-<!ENTITY engine.tabs.accesskey "T">
-<!ENTITY engine.history.label "History">
-<!ENTITY engine.history.accesskey "r">
-<!ENTITY engine.passwords.label "Passwords">
-<!ENTITY engine.passwords.accesskey "w">
-<!ENTITY engine.prefs.label "Preferences">
-<!ENTITY engine.prefs.accesskey "P">
+<!ENTITY syncMy2.label "Szinkronizálandó:">
+<!ENTITY engine.bookmarks.label "Könyvjelzők">
+<!ENTITY engine.bookmarks.accesskey "K">
+<!ENTITY engine.tabs.label "Lapok">
+<!ENTITY engine.tabs.accesskey "L">
+<!ENTITY engine.history.label "Előzmények">
+<!ENTITY engine.history.accesskey "E">
+<!ENTITY engine.passwords.label "Jelszavak">
+<!ENTITY engine.passwords.accesskey "J">
+<!ENTITY engine.prefs.label "Beállítások">
+<!ENTITY engine.prefs.accesskey "B">
 <!-- Footer stuff -->
 
-<!ENTITY prefs.tosLink.label "Terms of Service">
-<!ENTITY prefs.ppLink.label "Privacy Policy">
+<!ENTITY prefs.tosLink.label "A szolgáltatás feltételei">
+<!ENTITY prefs.ppLink.label "Adatvédelmi irányelvek">
