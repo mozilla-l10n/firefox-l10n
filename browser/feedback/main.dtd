@@ -2,7 +2,7 @@
 <!ENTITY testpilot.settings.label                   "Налаштування">
 <!ENTITY testpilot.settings.dataSubmission.label    "Відсилання даних">
 <!ENTITY testpilot.settings.notifications.label     "Сповіщення">
-<!ENTITY testpilot.settings.notifyWhen.label        "Сповіщати мене коли…">
+<!ENTITY testpilot.settings.notifyWhen.label        "Сповіщати мене, коли…">
 <!ENTITY testpilot.settings.readyToSubmit.label     "Дослід готовий до надсилання">
 <!ENTITY testpilot.settings.newStudy.label          "Є новий Дослід">
 <!ENTITY testpilot.settings.hasNewResults.label     "Дослід має нові результати">
@@ -16,7 +16,7 @@
 <!ENTITY testpilot.studiesWindow.finishedStudies.label  "Завершені Досліди">
 <!ENTITY testpilot.studiesWindow.studyFindings.label    "Знахідки Дослідів">
 <!ENTITY testpilot.studiesWindow.settings.label         "Налаштування">
-<!ENTITY testpilot.studiesWindow.stillLoadingMessage    "Завантаження, будь ласка зачекайте…">
+<!ENTITY testpilot.studiesWindow.stillLoadingMessage    "Завантаження, будь ласка, зачекайте…">
 
 <!-- raw data dialog -->
 <!ENTITY testpilot.rawDataWindow.title                  "Випробувач: сирі дані">

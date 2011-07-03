@@ -5,7 +5,7 @@
 <!ENTITY restorepage.errorTitle     "Гм… Отакої…">
 <!ENTITY restorepage.problemDesc    "&brandShortName; щось не може відновити ваші вікна та вкладки. Причиною часто є недавно відкрита сторінка.">
 <!ENTITY restorepage.tryThis        "Ви можете спробувати:">
-<!ENTITY restorepage.restoreSome    "Вилучити одну чи кілька вкладок що можуть, на вашу думку, спричиняти проблему">
+<!ENTITY restorepage.restoreSome    "Вилучити одну чи кілька вкладок, що можуть, на вашу думку, спричиняти проблему">
 <!ENTITY restorepage.startNew       "Почати цілком новий сеанс перегляду">
 
 <!ENTITY restorepage.tryagainButton "Відновити">
