@@ -23,14 +23,13 @@
 <!ENTITY warning.updatesecurity.enable.label       "Увімкнути">
 <!ENTITY warning.updatesecurity.enable.tooltip     "Увімкнути перевірку безпечності оновлень">
 
+<!-- global informations -->
+<!ENTITY info.plugincheck.label                 "Перевірити, чи не застаріли ваші модулі">
+<!ENTITY info.plugincheck.tooltip               "Перевірити, чи не застаріли ваші модулі">
+
 <!-- categories / views -->
 <!ENTITY view.search.label                    "Пошук">
 <!ENTITY view.discover.label                  "Додати ще">
-<!ENTITY view.locales.label                   "Мови">
-<!ENTITY view.searchengines.label             "Пошуковики">
-<!ENTITY view.features.label                  "Розширення">
-<!ENTITY view.appearance2.label               "Вигляд">
-<!ENTITY view.plugins.label                   "Модулі">
 <!ENTITY view.recentUpdates.label             "Недавні оновлення">
 <!ENTITY view.availableUpdates.label          "Доступні оновлення">
 
