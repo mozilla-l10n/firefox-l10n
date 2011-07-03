@@ -409,7 +409,7 @@ you can use these alternative items. Otherwise, their values should be empty.  -
 <!ENTITY toggleReadCmd.key "m">
 <!ENTITY markAsReadCmd.label "Som læst">
 <!ENTITY markAsReadCmd.accesskey "l">
-<!ENTITY markAsUnreadCmd.label "marker som ulæst">
+<!ENTITY markAsUnreadCmd.label "Som ulæst">
 <!ENTITY markAsUnreadCmd.accesskey "u">
 <!ENTITY markThreadAsReadCmd.label "Tråden som læst">
 <!ENTITY markThreadAsReadCmd.accesskey "T">
