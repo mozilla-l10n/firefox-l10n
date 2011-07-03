@@ -51,8 +51,10 @@
 <!ENTITY NameField2.accesskey           "L">
 <!ENTITY PhoneticField1.label           "이름:">
 <!ENTITY PhoneticField2.label           "성:">
-<!ENTITY DisplayName.label              "표시:">
+<!ENTITY DisplayName.label              "표시명:">
 <!ENTITY DisplayName.accesskey          "D">
+<!ENTITY preferDisplayName.label		"메세지 헤더에는 항상 표시명을 우선">
+<!ENTITY preferDisplayName.accesskey	"y">
 <!ENTITY NickName.label                 "애칭:">
 <!ENTITY NickName.accesskey             "N">
 <!ENTITY PrimaryEmail.label             "기본 메일:">
@@ -122,10 +124,10 @@
 <!ENTITY Birthday.label                 "생일:">
 <!ENTITY Birthday.accesskey             "B">
 <!ENTITY In.label                       "">
-<!ENTITY Year.emptytext                 "태어난 해">
-<!ENTITY Or.value                       "or">
-<!ENTITY Age.emptytext                  "나이">
-<!ENTITY YearsOld.label                 "">
+<!ENTITY Year.placeholder                 "태어난 해">
+<!ENTITY Or.value                       "년생">
+<!ENTITY Age.placeholder                  "나이">
+<!ENTITY YearsOld.label                 "세">
 
 <!ENTITY Custom1.label                  "사용자 정의1:">
 <!ENTITY Custom1.accesskey              "1">
@@ -150,6 +152,6 @@
 <!ENTITY BrowsePhoto.accesskey          "r">
 <!ENTITY PhotoURL.label                 "웹">
 <!ENTITY PhotoURL.accesskey             "b">
-<!ENTITY PhotoURL.emptytext             "사진의 웹 주소를 붙여넣거나 입력 하십시오.">
+<!ENTITY PhotoURL.placeholder             "사진의 웹 주소를 입력 하십시오.">
 <!ENTITY UpdatePhoto.label              "업데이트">
 <!ENTITY UpdatePhoto.accesskey          "u">

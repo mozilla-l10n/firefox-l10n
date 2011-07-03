@@ -12,7 +12,7 @@
 <!ENTITY manageAccount.accesskey      "A">
 <!ENTITY viewQuota.label              "용량 보기">
 <!ENTITY changePassword.label         "암호 변경">
-<!ENTITY mySyncKey.label              "동기화 암호">
+<!ENTITY mySyncKey.label              "동기화키 표시">
 <!ENTITY resetSync.label              "동기화 재설정">
 <!ENTITY addDevice.label              "새 기기 추가">
 

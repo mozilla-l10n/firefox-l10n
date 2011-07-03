@@ -43,7 +43,7 @@
 <!ENTITY setup.newSyncKeyPage.description.label "개인 정보를 완벽히 보호하기 위해 데이터 전송 전 암호화 됩니다. 암호된 자료를 풀기 위한 동기화키는 전송되지 않습니다.">
 <!ENTITY syncKeyEntry.label        "동기화키">
 <!ENTITY syncKeyEntry.accesskey    "K">
-<!ENTITY syncGenerateNewKey.label  "새 키 생성">
+<!ENTITY syncGenerateNewKey.label     "새 동기화키 생성">
 <!ENTITY syncKeyBackup.description "동기화키는 다른 기기에서 &syncBrand.fullName.label; 접속 시 필요합니다. 백업본을 만드시기 바랍니다. 동기화키는 복구할 수 없습니다.">
 
 <!ENTITY button.syncKeyBackup.print.label     "인쇄…">

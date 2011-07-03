@@ -5,8 +5,6 @@
 <!ENTITY importFromNothing.accesskey "D">
 <!ENTITY importFromSeamonkey2.label "넷스케이프 6, 7 또는 모질라 1.x, 또는 씨몽키">
 <!ENTITY importFromSeamonkey2.accesskey "s">
-<!ENTITY importFromNetscape4.label "넷스케이프 4.x">
-<!ENTITY importFromNetscape4.accesskey "4">
 <!ENTITY importFromOExpress.label "아웃룩 익스프레스">
 <!ENTITY importFromOExpress.accesskey "u">
 <!ENTITY importFromOutlook.label "아웃룩">

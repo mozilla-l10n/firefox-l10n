@@ -8,6 +8,7 @@
 <!ENTITY enablePlugins.title                       "플러그인 사용">
 <!ENTITY privacy.title                             "개인 정보 &amp; 보안">
 <!ENTITY allowCookies.title                        "쿠기 허용">
+<!ENTITY doNotTrack.title                          "웹 사이트에 추적 중지 요청">
 <!ENTITY clearPrivateData2.title                   "최근 방문 기록 삭제	">
 <!ENTITY clearPrivateData.button                   "삭제">
 <!ENTITY rememberPasswords.title                   "암호 저장하기">

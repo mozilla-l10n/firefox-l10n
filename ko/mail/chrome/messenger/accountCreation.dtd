@@ -1,51 +1,51 @@
 <!ENTITY autoconfigWizard.title          "메일 계정 설정">
 <!ENTITY name.label                      "이름:">
 <!ENTITY name.accesskey                  "n">
-<!ENTITY name.emptytext                  "First Last">
+<!ENTITY name.placeholder "이름이나 닉네임">
 <!ENTITY name.text                       "다른 사람에게 보여줄 이름">
 <!ENTITY email.label                     "메일 주소:">
 <!ENTITY email.accesskey                 "l">
-<!ENTITY email.emptytext                 "email@example.com">
+<!ENTITY email.placeholder		"email@example.com">
 <!ENTITY password.label                  "암호:">
 <!ENTITY password.accesskey              "P">
-<!ENTITY password.emptytext              "암호">
-<!ENTITY password.text                   "옵션, 계정이름을 검증하기 위해 사용">
+<!ENTITY password.placeholder		"계정 암호 입력">
+<!ENTITY password.text                   "계정 이름을 검증하기 위해 사용">
+<!ENTITY rememberPassword.label "암호 저장">
+<!ENTITY rememberPassword.accesskey "m">
 
-<!ENTITY accountInformation.label        "계정 정보">
-<!ENTITY username2.label                 "계정 이름:">
-<!ENTITY incoming.label                  "받기 서버:">
-<!ENTITY outgoing.label                  "보내기 서버:">
-<!ENTITY noEncryption.label              "없음">
+<!ENTITY half-manual-test.label "다시 테스트">
+<!ENTITY half-manual-test.accesskey "t">
+<!ENTITY manual-edit.label "수동 설정">
+<!ENTITY manual-edit.accesskey "M">
+
+<!ENTITY imapLong.label "IMAP (원격)">
+<!ENTITY pop3Long.label "POP3 (메일을 컴퓨터에 저장)">
+
+<!ENTITY incoming.label                  "송신 서버:">
+<!ENTITY outgoing.label                  "발신 서버:">
+<!ENTITY username.label "아이디:">
+<!ENTITY hostname.label "서버 호스트명">
+<!ENTITY port.label "포트 번호">
+<!ENTITY ssl.label "SSL">
+<!ENTITY auth.label "인증 방법">
+<!ENTITY imap.label "IMAP">
+<!ENTITY pop3.label "POP3">
+<!ENTITY smtp.label "SMTP">
+<!ENTITY autodetect.label "자동 검색">
+
+<!ENTITY noEncryption.label              "암호화 안함">
 <!ENTITY starttls.label                  "STARTTLS">
 <!ENTITY sslTls.label                    "SSL/TLS">
 
-<!ENTITY imap.label                      "IMAP">
-<!ENTITY pop.label                       "POP">
-<!ENTITY smtp.label                      "SMTP">
-<!ENTITY imap.description                "IMAP - 여러 컴퓨터에서 폴더와 메시지에 접근">
-<!ENTITY pop.description                 "POP - 이 컴푸터에 모든 메시지 다운로드하고 폴더는 로컬에만 유지">
-<!ENTITY recommended-appendix.label      "(권장)">
+<!ENTITY advancedSetup.label "고급">
+<!ENTITY advancedSetup.accesskey "A">
 
-<!ENTITY manualSetup.label               "수동 설정…">
-<!ENTITY manualSetup.accesskey           "S">
 <!ENTITY cancel.label                    "취소">
 <!ENTITY cancel.accesskey                "a">
 <!ENTITY continue.label                  "계속">
 <!ENTITY continue.accesskey              "C">
-<!ENTITY startOver.label                 "다시 검사">
-<!ENTITY startOver.accesskey             "o">
 <!ENTITY stop.label                      "중지">
 <!ENTITY stop.accesskey                  "S">
-<!-- LOCALIZATION NOTE (retest.label): This is the text that is
-     displayed on the button which will re-guess the account configuration,
-     taking into account the settings the user has changed. -->
-<!ENTITY retest.label                    "설정 재 테스트">
-<!ENTITY retest.accesskey                "R">
-<!ENTITY edit.label                      "편집">
-<!ENTITY edit.accesskey                  "E">
-
-<!ENTITY rememberPassword.label          "암호 저장">
-<!ENTITY rememberPassword.accesskey      "m">
 
 <!ENTITY warning.label                   "주의!">
 <!ENTITY incomingSettings.label          "받기 설정:">
