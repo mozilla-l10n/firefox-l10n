@@ -34,26 +34,26 @@
    -
    - ***** END LICENSE BLOCK ***** -->
 
-<!ENTITY safeModeDialog.title "&brandShortName; Safe Mode">
+<!ENTITY safeModeDialog.title "&brandShortName; csökkentett mód">
 <!ENTITY window.width "37em">
 
-<!ENTITY safeModeDescription.label "&brandShortName; is now running in Safe Mode, which temporarily disables your custom settings, themes, and extensions.">
-<!ENTITY safeModeDescription2.label "You can make some or all of these changes permanent:">
+<!ENTITY safeModeDescription.label "A &brandShortName; most csökkentett módban fut, ideiglenesen tiltva vannak az egyéni beállítások, témák és kiterjesztések.">
+<!ENTITY safeModeDescription2.label "A változtatások némelyikét vagy mindegyikét állandóvá teheti:">
 
-<!ENTITY disableAddons.label "Disable all add-ons">
-<!ENTITY disableAddons.accesskey "D">
+<!ENTITY disableAddons.label "Minden kiegészítő letiltása">
+<!ENTITY disableAddons.accesskey "M">
 
-<!ENTITY resetToolbars.label "Reset toolbars and window sizes">
-<!ENTITY resetToolbars.accesskey "R">
+<!ENTITY resetToolbars.label "Eszköztárak és ablakméretek visszaállítása">
+<!ENTITY resetToolbars.accesskey "E">
 
-<!ENTITY deleteBookmarks.label "Delete all bookmarks except for backups">
-<!ENTITY deleteBookmarks.accesskey "b">
+<!ENTITY deleteBookmarks.label "A biztonsági mentéseket kivéve minden könyvjelző törlése">
+<!ENTITY deleteBookmarks.accesskey "t">
 
-<!ENTITY resetUserPrefs.label "Reset all user preferences to &brandShortName; defaults">
-<!ENTITY resetUserPrefs.accesskey "p">
+<!ENTITY resetUserPrefs.label "Minden felhasználói beállítás visszaállítása a &brandShortName; alapértelmezéseire">
+<!ENTITY resetUserPrefs.accesskey "f">
 
-<!ENTITY restoreSearch.label "Restore default search engines">
-<!ENTITY restoreSearch.accesskey "s">
+<!ENTITY restoreSearch.label "Alapértelmezett keresők helyreállítása">
+<!ENTITY restoreSearch.accesskey "A">
 
-<!ENTITY changeAndRestartButton.label "Make Changes and Restart">
-<!ENTITY continueButton.label "Continue in Safe Mode">
+<!ENTITY changeAndRestartButton.label "Változtatások végrehajtása és újraindítás">
+<!ENTITY continueButton.label "Folytatás csökkentett módban">
