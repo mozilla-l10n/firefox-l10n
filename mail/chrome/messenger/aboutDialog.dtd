@@ -1,9 +1,9 @@
 <!ENTITY aboutDialog.title          "Tietoja &brandFullName;istä">
 
-<!ENTITY community.start2           "&brandShortName;in on kehittänyt">
+<!ENTITY community.start2           "&brandShortName;in on kehittänyt ">
 <!-- LOCALIZATION NOTE (community.mozillaLink): This is a link title that links to http://www.mozilla.org/. -->
 <!ENTITY community.mozillaLink      "&vendorShortName;">
-<!ENTITY community.middle2          "; ">
+<!ENTITY community.middle2          ", ">
 <!-- LOCALIZATION NOTE (community.creditsLink): This is a link title that links to about:credits. -->
 <!ENTITY community.creditsLink      "kansainvälinen yhteisö">
 <!ENTITY community.end2             ", joka pyrkii kehittämään Internetiä. Uskomme, että Internetin tulisi olla avoin, julkinen ja kaikkien käytettävissä rajoituksitta.">

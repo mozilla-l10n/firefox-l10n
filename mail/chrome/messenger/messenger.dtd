@@ -9,9 +9,6 @@
 <!ENTITY closeTabCmd2.accesskey "S">
 <!ENTITY closeOtherTabsCmd2.label "Sulje muut välilehdet">
 <!ENTITY closeOtherTabsCmd2.accesskey "m">
-<!-- LOCALIZATION NOTE (undoCloseTabCmd.label):
-     Menu option to attempt to re-open a recently closed tab.
-     -->
 <!ENTITY recentlyClosedTabsCmd.label "Suljetut välilehdet">
 <!ENTITY recentlyClosedTabsCmd.accesskey "S">
 
