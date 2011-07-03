@@ -52,7 +52,7 @@
 <!ENTITY netInterrupt.longDesc "&sharedLongDesc;">
 
 <!ENTITY netOffline.title "Brez povezave">
-<!ENTITY netOffline.longDesc "
+<!ENTITY netOffline.longDesc2 "
 <ul>
   <li>Prestavite &brandShortName; v način s povezavo in poskusite potem znova.</li>
 </ul>
@@ -162,6 +162,9 @@ nekdo poskuša predstaviti kot strežnik.</li>
 <!ENTITY cspFrameAncestorBlocked.title "Blokirano zaradi pravil za varnost vsebin">
 <!ENTITY cspFrameAncestorBlocked.longDesc "<p>&brandShortName; je preprečil, da bi se to stran na ta način naložilo, kajti zanjo veljajo pravila o varnosti vsebin, ki tega ne dovoljujejo.</p>">
 
+<!ENTITY corruptedContentError.title "Napaka - okvarjkena vsebina">
+<!ENTITY corruptedContentError.longDesc "<p>Vsebino, ki jo jo želite ogledati, ni mogoče prikazati, ker je pri prenosu podatkov bila zaznana napaka.</p><ul><li>Obrnite se na lastnike in jih obvestite o tem problemu.</li></ul>">
+
 <!ENTITY securityOverride.linkText "Lahko pa dodate izjemo…">
 <!ENTITY securityOverride.getMeOutOfHereButton "Spravi me proč od tod!">
 <!ENTITY securityOverride.exceptionButtonLabel "Dodaj izjemo…">
@@ -177,3 +180,5 @@ netError.xhtml) because it exposes functionality specific to thunderbird. -->
 <button id='getMeOutOfHereButton'>&securityOverride.getMeOutOfHereButton;</button>
 <button id='exceptionDialogButton'>&securityOverride.exceptionButtonLabel;</button>
 ">
+<!ENTITY remoteXUL.title "Daljinski XUL">
+<!ENTITY remoteXUL.longDesc "<p><ul><li>Obrnite se prosim na lastnike in jih obvestite o tem problemu.</li></ul></p>">

@@ -193,6 +193,7 @@
 <!ENTITY quoteButton.tooltip "Navedi prejšnje sporočilo"> 
 <!ENTITY addressButton.tooltip "Izberite prejemnika iz adresarja"> 
 <!ENTITY attachButton.tooltip "Vključi priponko"> 
+<!ENTITY spellingButton.tooltip "Preveri črkovanje izbora ali celotno sporočilo">
 <!ENTITY saveButton.tooltip "Shrani to sporočilo"> 
 <!ENTITY cutButton.tooltip              "Izreži">
 <!ENTITY copyButton.tooltip             "Kopiraj">
@@ -209,7 +210,8 @@
 <!ENTITY followupAddr.label "Nadaljnje delo - Za:"> 
 <!ENTITY subject.label "Zadeva:">
 <!ENTITY subject.accesskey "Z">
-<!ENTITY attachments.label "Priponke:">
+<!-- LOCALIZATION NOTE attachments.accesskey This access key should correspond
+     to the strings in attachmentCount in composeMsgs.properties -->
 <!ENTITY attachments.accesskey "P">
 
 <!-- Format Toolbar, imported from editorAppShell.xul -->
@@ -225,7 +227,7 @@
 <!ENTITY smiley9Cmd.label "Poljub">
 <!ENTITY smiley10Cmd.label "Krik">
 <!ENTITY smiley11Cmd.label "Kul">
-<!ENTITY smiley12Cmd.label "Usta denarja">
+<!ENTITY smiley12Cmd.label "Zlatoust">
 <!ENTITY smiley13Cmd.label "Noga v ustih">
 <!ENTITY smiley14Cmd.label "Nedolžen">
 <!ENTITY smiley15Cmd.label "Jok">
@@ -262,6 +264,10 @@
 <!ENTITY attachFile.accesskey "P">
 <!ENTITY attachPage.label "Pripni spletno stran …">
 <!ENTITY attachPage.accesskey "L">
+
+<!-- Spell checker context menu items -->
+<!ENTITY spellAddDictionaries.label "Dodaj slovarje…">
+<!ENTITY spellAddDictionaries.accesskey "D">
 
 <!-- Title for the address picker panel -->
 <!ENTITY addressesSidebarTitle.label "Stiki">
