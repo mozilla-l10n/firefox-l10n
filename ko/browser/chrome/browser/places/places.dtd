@@ -5,12 +5,9 @@
 <!ENTITY organize.accesskey "O">
 <!ENTITY organize.tooltip  "북마크 관리">
 
-<!ENTITY file.accesskey "F">
 <!ENTITY file.close.label "닫기">
 <!ENTITY file.close.accesskey "C">
 <!ENTITY cmd.close.key "w">
-<!ENTITY edit.label "편집">
-<!ENTITY edit.accesskey "E">
 <!ENTITY views.label "보기">
 <!ENTITY views.accesskey "V">
 <!ENTITY views.tooltip  "보기 형식 변경">
@@ -69,8 +66,6 @@
 <!ENTITY cmd.new_separator.accesskey "S">
 <!ENTITY cmd.reloadLivebookmark.label "라이브 북마크 갱신">
 <!ENTITY cmd.reloadLivebookmark.accesskey "R">
-<!ENTITY cmd.reloadMicrosummary.label "라이브 타이틀 갱신">
-<!ENTITY cmd.reloadMicrosummary.accesskey "R">
 <!ENTITY cmd.moveBookmarks.label "이동…">
 <!ENTITY cmd.moveBookmarks.accesskey "M">
 
@@ -104,16 +99,13 @@
 <!ENTITY maintenance.accesskey  "I">
 <!ENTITY maintenance.tooltip    "북마크 가져오기 및 백업">
 
-<!ENTITY backCmd.label "뒤로">
 <!ENTITY backButton.tooltip "뒤로 가기">
-<!ENTITY forwardCmd.label "앞으로">
 <!ENTITY forwardButton.tooltip "앞으로 가기">
 <!ENTITY detailsPane.more.label "자세히">
 <!ENTITY detailsPane.more.accesskey "e">
 <!ENTITY detailsPane.less.label "닫기">
 <!ENTITY detailsPane.less.accesskey "e">
-<!ENTITY detailsPane.noPreviewAvailable.label "미리 보기">
-<!ENTITY detailsPane.selectAnItemText.description "수정 및 편집할 항목을 선택">
+<!ENTITY detailsPane.selectAnItemText.description "항목을 선택하면 이름과 자세한 정보를 수정 및 편집할 수 있습니다.">
 
 <!ENTITY find.label                "찾기:">
 <!ENTITY find.accesskey            "S">
