@@ -1,4 +1,6 @@
-<!ENTITY msgComposeWindow.title "쓰기: (제목 없음)">
+<!ENTITY msgComposeWindow.title "메일 쓰기: (제목 없음)">
+
+<!-- File menu items -->
 <!ENTITY fileMenu.label "파일">
 <!ENTITY fileMenu.accesskey "f">
 <!ENTITY newMenu.label "새로 만들기">
@@ -42,6 +44,8 @@
 <!ENTITY printCmd.label "인쇄…">
 <!ENTITY printCmd.key "P">
 <!ENTITY printCmd.accesskey "P">
+
+<!-- Edit Menu -->
 <!ENTITY editMenu.label "편집">
 <!ENTITY editMenu.accesskey "e">
 <!ENTITY undoCmd.label "실행 취소">
@@ -79,6 +83,8 @@
 <!ENTITY findPrevCmd.key "G">
 <!ENTITY findPrevCmd.key2 "VK_F3">
 <!ENTITY findPrevCmd.accesskey "v">
+
+<!-- View Menu -->
 <!ENTITY viewMenu.label "보기">
 <!ENTITY viewMenu.accesskey "v">
 <!ENTITY viewToolbarsMenuNew.label "도구 모음">
@@ -93,8 +99,11 @@
 <!ENTITY customizeToolbar.accesskey "C">
 <!ENTITY addressSidebar.label "주소록 탐색창">
 <!ENTITY addressSidebar.accesskey "o">
+
 <!ENTITY formatMenu.label "서식">
 <!ENTITY formatMenu.accesskey "o">
+
+<!-- Options Menu -->
 <!ENTITY optionsMenu.label "설정">
 <!ENTITY optionsMenu.accesskey "p">
 <!ENTITY checkSpellingCmd2.label "맞춤법 검사…">
@@ -135,6 +144,8 @@
 <!ENTITY fileCarbonCopyCmd.label "사본 보내기">
 <!ENTITY fileCarbonCopyCmd.accesskey "d">
 <!ENTITY fileHereMenu.label "현재 파일">
+
+<!-- Tools Menu -->
 <!ENTITY tasksMenu.label "도구">
 <!ENTITY tasksMenu.accesskey "T">
 <!ENTITY messengerCmd.label "메일과 뉴스 그룹">
@@ -159,8 +170,11 @@
 <!ENTITY quoteButton.label "인용">
 <!ENTITY addressButton.label "주소록">
 <!ENTITY attachButton.label "첨부">
-<!ENTITY spellingButton.label "맞춤법">
+<!ENTITY spellingButton.tooltip		"선택한 텍스트 또는 메세지 맞춤법 검사하기">
+<!ENTITY spellingButton.label "맞춤법 검사">
 <!ENTITY saveButton.label "저장">
+
+<!-- Mail Toolbar Tooltips -->
 <!ENTITY sendButton.tooltip "지금 보내기">
 <!ENTITY sendlaterButton.tooltip "나중에 보내기">
 <!ENTITY quoteButton.tooltip "이전 메시지 인용">
@@ -170,6 +184,11 @@
 <!ENTITY cutButton.tooltip "잘라내기">
 <!ENTITY copyButton.tooltip "복사">
 <!ENTITY pasteButton.tooltip "붙여넣기">
+
+<!-- Headers -->
+<!--LOCALIZATION NOTE headersSpace.style is for aligning  the From:, To: and
+    Subject: rows. It should be larger than the largest Header label  -->
+<!ENTITY headersSpace.style		"width: 9em;">
 <!ENTITY fromAddr.label "보내는 사람:">
 <!ENTITY fromAddr.accesskey "r">
 <!ENTITY toAddr.label "받는 사람:">
@@ -180,7 +199,6 @@
 <!ENTITY followupAddr.label "전달:">
 <!ENTITY subject.label "제목:">
 <!ENTITY subject.accesskey "S">
-<!ENTITY attachments.label "첨부:">
 <!ENTITY attachments.accesskey "c">
 <!ENTITY SmileButton.tooltip "표정 아이콘 삽입">
 <!ENTITY smiley1Cmd.label "미소">
@@ -232,3 +250,10 @@
 <!ENTITY editRewrapCmd.key "R">
 <!ENTITY dsnMenu.label "메일 전달 상태 확인">
 <!ENTITY dsnMenu.accesskey "N">
+
+<!-- Spell checker context menu items -->
+<!ENTITY spellAddDictionaries.label	"맞춤법 사전 추가…">
+<!ENTITY spellAddDictionaries.accesskey	"A">
+
+<!-- Title for the address picker panel -->
+<!ENTITY addressesSidebarTitle.label	"메일주소">

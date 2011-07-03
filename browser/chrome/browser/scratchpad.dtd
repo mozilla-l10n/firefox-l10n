@@ -1,0 +1,121 @@
+<!-- LOCALIZATION NOTE : FILE This file contains the Scratchpad window strings -->
+<!-- LOCALIZATION NOTE : FILE Do not translate commandkeys -->
+
+<!-- LOCALIZATION NOTE (scratchpad.title):
+  -  The Scratchpad is intended to provide a simple text editor for creating
+  -  and evaluating bits of JavaScript code for the purposes of function
+  -  prototyping, experimentation and convenient scripting.
+  -
+  -  It's quite possible that you won't have a good analogue for the word
+  -  "Scratchpad" in your locale. You should feel free to find a close
+  -  approximation to it or choose a word (or words) that means
+  -  "simple discardable text editor". -->
+<!ENTITY window.title			"스크래치 패드">
+<!ENTITY fileMenu.label			"파일">
+<!ENTITY fileMenu.accesskey		"F">
+
+<!ENTITY newWindowCmd.label		"새 창">
+<!ENTITY newWindowCmd.accesskey		"N">
+<!ENTITY newWindowCmd.commandkey	"n">
+
+<!ENTITY openFileCmd.label		"파일 열기">
+<!ENTITY openFileCmd.accesskey		"O">
+<!ENTITY openFileCmd.commandkey		"o">
+
+<!ENTITY saveFileCmd.label		"저장">
+<!ENTITY saveFileCmd.accesskey		"S">
+<!ENTITY saveFileCmd.commandkey		"s">
+
+<!ENTITY saveFileAsCmd.label		"다른 이름으로 저장…">
+<!ENTITY saveFileAsCmd.accesskey	"A">
+
+<!ENTITY closeCmd.label			"닫기">
+<!ENTITY closeCmd.key			"W">
+<!ENTITY closeCmd.accesskey		"C">
+
+<!ENTITY editMenu.label			"편집">
+<!ENTITY editMenu.accesskey		"E">
+
+<!ENTITY undoCmd.label			"실행 취소">
+<!ENTITY undoCmd.key			"Z">
+<!ENTITY undoCmd.accesskey		"U">
+
+<!ENTITY redoCmd.label			"재실행">
+<!ENTITY redoCmd.key			"Y">
+<!ENTITY redoCmd.accesskey		"R">
+
+<!ENTITY cutCmd.label			"잘라내기">
+<!ENTITY cutCmd.key			"X">
+<!ENTITY cutCmd.accesskey		"t">
+
+<!ENTITY copyCmd.label			"복사">
+<!ENTITY copyCmd.key			"C">
+<!ENTITY copyCmd.accesskey		"C">
+
+<!ENTITY pasteCmd.label			"붙여넣기">
+<!ENTITY pasteCmd.key			"V">
+<!ENTITY pasteCmd.accesskey		"P">
+
+<!ENTITY selectAllCmd.label		"모두 선택">
+<!ENTITY selectAllCmd.key		"A">
+<!ENTITY selectAllCmd.accesskey		"A">
+
+<!ENTITY run.label			"실행">
+<!ENTITY run.accesskey			"R">
+<!ENTITY run.key			"r">
+
+<!ENTITY inspect.label			"검사">
+<!ENTITY inspect.accesskey		"I">
+<!ENTITY inspect.key			"i">
+
+<!ENTITY display.label			"표시">
+<!ENTITY display.accesskey		"D">
+<!ENTITY display.key			"l">
+
+<!-- LOCALIZATION NOTE (environmentMenu.label, accesskey): This menu item was
+  -  renamed from "Context" to avoid confusion with the right-click context
+  -  menu in the text area. It refers to the JavaScript Environment (or context)
+  -  the user is evaluating against. I.e., Content (current tab) or Chrome
+  -  (browser).
+  -->
+<!ENTITY environmentMenu.label		"실행 환경">
+<!ENTITY environmentMenu.accesskey	"N">
+
+
+<!ENTITY contentContext.label		"웹 페이지">
+<!ENTITY contentContext.accesskey	"C">
+
+<!-- LOCALIZATION NOTE (browserContext.label, accesskey): This menu item is used
+  -  to select an execution environment for the browser window itself as opposed
+  -  to content. This is a feature for browser and addon developers and only
+  -  enabled via the devtools.chrome.enabled preference. Formerly, this label
+  -  was called "Chrome".
+  -->
+<!ENTITY browserContext.label		"브라우저">
+<!ENTITY browserContext.accesskey	"B">
+
+<!-- LOCALIZATION NOTE (resetContext.label): This command allows the developer
+  -  to reset/clear the global object of the environment where the code executes.
+  -->
+<!ENTITY resetContext.label		"재설정">
+<!ENTITY resetContext.accesskey		"R">
+
+<!ENTITY executeMenu.label		"실행 메뉴">
+<!ENTITY executeMenu.accesskey		"X">
+
+<!ENTITY toolsMenu.label		"개발 도구">
+<!ENTITY toolsMenu.accesskey		"T">
+
+<!ENTITY errorConsoleCmd.label		"오류 창">
+<!ENTITY errorConsoleCmd.accesskey	"C">
+<!ENTITY errorConsoleCmd.commandkey	"j">
+
+<!ENTITY webConsoleCmd.label		"웹 콘솔">
+<!ENTITY webConsoleCmd.accesskey	"W">
+<!ENTITY webConsoleCmd.commandkey	"k">
+
+<!-- LOCALIZATION NOTE (textbox.placeholder1): This is some placeholder text
+  -  that appears when the Scratchpad's text area is empty and unfocused.
+  -  It should be a one-line JavaScript comment, i.e., preceded by '//'
+  -->
+<!ENTITY textbox.placeholder1		"// JavaScript를 입력한 후 코드를 선택하여 마우스 오른쪽을 클릭한 후 실행, 검사 또는 표시를 선택해 주세요.">

@@ -176,3 +176,6 @@ netError.xhtml) because it exposes functionality specific to firefox. -->
 <xul:button xmlns:xul='http://www.mozilla.org/keymaster/gatekeeper/there.is.only.xul' id='getMeOutOfHereButton' label='&securityOverride.getMeOutOfHereButton;' /> 
 <xul:button xmlns:xul='http://www.mozilla.org/keymaster/gatekeeper/there.is.only.xul' id='exceptionDialogButton' label='&securityOverride.exceptionButtonLabel;' />
 ">
+
+<!ENTITY remoteXUL.title "원격 XUL">
+<!ENTITY remoteXUL.longDesc "<p><ul><li>현재 문제를 해결하려면 웹 사이트 관리자에게 연락하시기 바랍니다.</li></ul></p>">

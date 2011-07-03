@@ -23,14 +23,13 @@
 <!ENTITY warning.updatesecurity.enable.label       "취소">
 <!ENTITY warning.updatesecurity.enable.tooltip     "부가 기능 업데이트 보안 확인 기능 사용">
 
+<!-- global informations -->
+<!ENTITY info.plugincheck.label "플러그인이 최신 버전인지 확인">
+<!ENTITY info.plugincheck.tooltip "설치된 유효한 플러그인이 최신 버전인지 확인합니다.">
+
 <!-- categories / views -->
 <!ENTITY view.search.label                    "검색">
 <!ENTITY view.discover.label                  "추천">
-<!ENTITY view.locales.label                   "언어">
-<!ENTITY view.searchengines.label             "검색 엔진">
-<!ENTITY view.features.label                  "확장 기능">
-<!ENTITY view.appearance2.label               "외양">
-<!ENTITY view.plugins.label                   "플러그인">
 <!ENTITY view.recentUpdates.label             "최근 항목 보기">
 <!ENTITY view.availableUpdates.label          "업데이트 가능 항목">
 

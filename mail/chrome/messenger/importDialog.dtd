@@ -25,10 +25,3 @@
 <!ENTITY select.label "또는 가져올 형식 선택:">
 <!ENTITY title.label "제목">
 <!ENTITY processing.label "가져오기…">
-<!ENTITY FieldDiscInputText1.label "넷스케이프 4.x는 각 명함에 대하여 하나의 메일 설정이 있지만 &brandShortName;는 두 개의 설정이 있습니다.">
-<!ENTITY FieldDiscInputText2.label "가져온 메일 주소 저장 분류 선택:">
-<!ENTITY FieldDiscWarning.label "이 분류는 선택한 모든 메일 주소에 사용 가능:">
-<!ENTITY importHome.label        "집">
-<!ENTITY importHome.accesskey    "H">
-<!ENTITY importWork.label        "직장">
-<!ENTITY importWork.accesskey    "W">
