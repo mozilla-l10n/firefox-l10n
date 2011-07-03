@@ -103,7 +103,7 @@
 <!ENTITY confirm.merge.label    "&syncBrand.fullName.label; va maintenant fusionner toutes les données du navigateur de cet ordinateur avec votre compte Sync.">
 <!ENTITY confirm.client2.label         "Attention : les données suivantes de &brandShortName; sur cet ordinateur seront supprimées :">
 <!ENTITY confirm.client.moreinfo.label "&brandShortName; copiera ensuite vos données &syncBrand.fullName.label; sur cet ordinateur.">
-<!ENTITY confirm.server2.label         "Attention : les données des appareils suivants seront écrasées par vos données locales :">
+<!ENTITY confirm.server2.label         "Attention : les données des appareils suivants seront remplacées par vos données locales :">
 
 <!-- New & Existing Account: Setup Complete -->
 <!ENTITY setup.successPage.title "Configuration terminée">
