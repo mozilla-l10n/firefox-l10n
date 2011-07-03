@@ -43,7 +43,6 @@
 <!ENTITY setup.newSyncKeyPage.description.label "Za zagotovitev najvišje stopnje zasebnosti se vsi vaši podatki pred prenosom šifrirajo. Sinhronizacijski ključ, ki je potreben za dešifriranje, pa se ne prenaša.">
 <!ENTITY syncKeyEntry.label        "Vaš sinhronizacijski ključ">
 <!ENTITY syncKeyEntry.accesskey    "K">
-<!ENTITY syncKeyGenerate.label     "Ustvari">
 <!ENTITY syncKeyBackup.description "Sinhronizacijski ključ je potreben za dostop do storitve &syncBrand.fullName.label; na drugih napravah. Ustvarite varnostno kopijo, saj vam ga ne moremo obnoviti.">
 
 <!ENTITY button.syncKeyBackup.print.label     "Natisni …">
