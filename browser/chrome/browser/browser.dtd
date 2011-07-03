@@ -64,7 +64,7 @@
 <!ENTITY bookmarkThisPageCmd.label "북마크에 추가">
 <!ENTITY bookmarkThisPageCmd.commandkey "d">
 <!ENTITY showAllBookmarks2.label "북마크 관리…">
-<!ENTITY bookmarkAllCmd.label "모든 탭을 북마크에 추가…">
+<!ENTITY unsortedBookmarksCmd.label "미 분류 북마크">
 <!ENTITY bookmarksToolbarChevron.tooltip "북마크 계속 보기">
 
 <!ENTITY backCmd.label "뒤로">
@@ -382,6 +382,9 @@ can reach it easily. -->
 <!ENTITY addons.accesskey "A">
 <!ENTITY addons.commandkey "A">
 
+<!ENTITY webDeveloperMenu.label "웹 개발 도구">
+<!ENTITY webDeveloperMenu.accesskey "W">
+
 <!ENTITY errorConsoleCmd.label "오류 정보">
 <!ENTITY errorConsoleCmd.accesskey "C">
 <!ENTITY errorConsoleCmd.commandkey   "j">
@@ -393,6 +396,22 @@ can reach it easily. -->
 <!ENTITY inspectMenu.label            "문서 검사">
 <!ENTITY inspectMenu.accesskey        "T">
 <!ENTITY inspectMenu.commandkey       "I">
+
+<!-- LOCALIZATION NOTE (scratchpad.label) : This menu item label appears
+- in the Tools menu. See bug 653093.
+- The Scratchpad is intended to provide a simple text editor for creating
+- and evaluating bits of JavaScript code for the purposes of function
+- prototyping, experimentation and convenient scripting.
+-
+- It 's quite possible that you won't have a good analogue for the word
+- "Scratchpad"in your locale. You should feel free to find a close
+- approximation to it or choose a word (or words) that means
+- "simple discardable text editor"-->
+
+<!ENTITY scratchpad.label "스크래치 패드">
+<!ENTITY scratchpad.accesskey "s">
+<!ENTITY scratchpad.keycode "VK_F4">
+<!ENTITY scratchpad.keytext "F4">
 
 <!ENTITY inspectPanelTitle.label      "HTML">
 <!ENTITY inspectButton.label          "문서 검사">
@@ -406,6 +425,9 @@ can reach it easily. -->
 <!ENTITY inspectStylePanelTitle.label  "스타일">
 <!ENTITY inspectObjectButton.label       "객체">
 <!ENTITY inspectObjectButton.accesskey   "O">
+
+<!ENTITY getMoreDevtoolsCmd.label "기타 도구">
+<!ENTITY getMoreDevtoolsCmd.accesskey "M">
 
 <!ENTITY historyMenu.label "이동">
 <!ENTITY historyMenu.accesskey "s">

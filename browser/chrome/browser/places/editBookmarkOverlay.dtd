@@ -6,7 +6,6 @@
 <!ENTITY editBookmarkOverlay.feedLocation.accesskey          "F">
 <!ENTITY editBookmarkOverlay.siteLocation.label "웹 사이트 주소:">
 <!ENTITY editBookmarkOverlay.siteLocation.accesskey          "S">
-<!ENTITY editBookmarkOverlay.liveTitlesSeparator.label "라이브 타이틀">
 <!ENTITY editBookmarkOverlay.folder.label "폴더:">
 
 <!ENTITY editBookmarkOverlay.foldersExpanderDown.tooltip "북마크 폴더 전체 보기">
