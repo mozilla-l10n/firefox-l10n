@@ -91,6 +91,9 @@
 <!ENTITY submitCrashes.label             "오류 보고서 전송">
 <!ENTITY submitCrashes.accesskey         "S">
 
+<!ENTITY submitTelemetry.label           "성능 보고서 전송">
+<!ENTITY submitTelemetry.accesskey       "P">
+
 <!ENTITY blockAutoRefresh.label "웹 사이트를 새로 고치거나 리다이렉트할 때 경고 표시">
 <!ENTITY blockAutoRefresh.accesskey "b">
 <!ENTITY verify2.label "유효성 확인">

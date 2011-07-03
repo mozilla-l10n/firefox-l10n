@@ -26,8 +26,6 @@
 <!ENTITY printCmd.label "인쇄…">
 <!ENTITY printCmd.accesskey "P">
 <!ENTITY printCmd.commandkey "p">
-<!ENTITY import.label "설정 가져오기…">
-<!ENTITY import.accesskey "I">
 <!ENTITY goOfflineCmd.label "오프라인으로 작업">
 <!ENTITY goOfflineCmd.accesskey "w">
 <!ENTITY menubarCmd.label		"메뉴 모음">
@@ -416,15 +414,6 @@ can reach it easily. -->
 <!ENTITY inspectPanelTitle.label      "HTML">
 <!ENTITY inspectButton.label          "문서 검사">
 <!ENTITY inspectButton.accesskey      "I">
-<!ENTITY inspectNextButton.label      "다음">
-<!ENTITY inspectNextButton.accesskey  "N">
-<!ENTITY inspectPreviousButton.label  "이전">
-<!ENTITY inspectPreviousButton.accesskey "P">
-<!ENTITY inspectStyleButton.label     "스타일">
-<!ENTITY inspectStyleButton.accesskey "S">
-<!ENTITY inspectStylePanelTitle.label  "스타일">
-<!ENTITY inspectObjectButton.label       "객체">
-<!ENTITY inspectObjectButton.accesskey   "O">
 
 <!ENTITY getMoreDevtoolsCmd.label "기타 도구">
 <!ENTITY getMoreDevtoolsCmd.accesskey "M">
