@@ -58,7 +58,7 @@
      channel.description.end create one sentence, with the current channel label inserted in between.
      example: You are currently on the _Stable_ update channel. -->
 
-<!ENTITY channel.description.start  "">
+<!ENTITY channel.description.start  "Une honetan">
 <!ENTITY channel.description.end    " eguneraketa-kanalean zaude.">
 
 <!ENTITY channel.change             "Aldatu">

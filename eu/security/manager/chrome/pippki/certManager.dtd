@@ -60,7 +60,7 @@
 <!ENTITY certmgr.pending.label                "Ziurtagiria egiaztatzen…">
 <!ENTITY certmgr.subjectinfo.label            "Honi emana:">
 <!ENTITY certmgr.issuerinfo.label             "Jaulkitzailea:">
-<!ENTITY certmgr.validity.label               "Balio-epea">
+<!ENTITY certmgr.validity.label               "Balio-epea" >
 <!ENTITY certmgr.fingerprints.label           "Hatz-markak">
 <!ENTITY certmgr.certdetail.title             "Ziurtagiriaren xehetasunak">
 <!ENTITY certmgr.certdetail.cn                "Izen arrunta (IA)">

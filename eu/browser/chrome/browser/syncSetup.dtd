@@ -43,7 +43,7 @@
 <!ENTITY setup.newSyncKeyPage.description.label "Erabateko pribatutasuna ziurtatzeko, igo aurretik zure datu guztiak zifratu egiten dira. Zure datuak deszifratzeko beharrezkoa den Sync gakoa ez da igotzen.">
 <!ENTITY syncKeyEntry.label        "Zure Sync gakoa">
 <!ENTITY syncKeyEntry.accesskey    "k">
-<!ENTITY syncKeyGenerate.label     "Sortu">
+<!ENTITY syncGenerateNewKey.label  "Sortu gako berria">
 <!ENTITY syncKeyBackup.description "Beharrezkoa da zure Sync gakoa beste makinatan &syncBrand.fullName.label; atzitzeko. Egizu babeskopia. Ezin dizugu lagundu zure Sync gakoa berreskuratzen.">
 
 <!ENTITY button.syncKeyBackup.print.label     "Inprimatu…">

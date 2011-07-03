@@ -1,7 +1,7 @@
-<!ENTITY header.label     "Izenburu laburra:">
+<!ENTITY header.label     "Izenburu laburra:"> 
 <!ENTITY message.label    "Hemen lagin-testua doa.">
-<!ENTITY editfield0.label "Erabiltzaile-izena:">
-<!ENTITY editfield1.label "Pasahitza:">
+<!ENTITY editfield0.label "Erabiltzaile-izena:"> 
+<!ENTITY editfield1.label "Pasahitza:"> 
 <!ENTITY checkbox.label   "markatu">
 <!ENTITY copyCmd.label    "Kopiatu">
 <!ENTITY copyCmd.accesskey "K">

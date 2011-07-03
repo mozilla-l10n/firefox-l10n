@@ -56,13 +56,13 @@
 <!ENTITY evaluate.label     "Ebaluatu">
 <!ENTITY evaluate.accesskey "b">
 
-<!ENTITY copyCmd.label       "Kopiatu">
-<!ENTITY copyCmd.accesskey   "K">
-<!ENTITY copyCmd.commandkey  "C">
+<!ENTITY copyCmd.label       "Kopiatu">  
+<!ENTITY copyCmd.accesskey   "K"> 
+<!ENTITY copyCmd.commandkey  "C"> 
 <!ENTITY sortFirst.label     "Lehenengotik > Azkenekora">
 <!ENTITY sortFirst.accesskey "L">
 <!ENTITY sortLast.label      "Azkenekotik > Lehenengora">
 <!ENTITY sortLast.accesskey  "A">
-<!ENTITY closeCmd.commandkey "w">
-<!ENTITY focus1.commandkey   "l">
-<!ENTITY focus2.commandkey   "d">
+<!ENTITY closeCmd.commandkey "w">  
+<!ENTITY focus1.commandkey   "l">  
+<!ENTITY focus2.commandkey   "d">  

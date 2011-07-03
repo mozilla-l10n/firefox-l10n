@@ -11,7 +11,7 @@
 <!ENTITY safeb.palm.accept.label "Eraman hemendik kanpo!">
 <!ENTITY safeb.palm.accept.statustext "Joan hasiera-orrira">
 <!ENTITY safeb.palm.decline.label "Ohar hau alde batetara utzi">
-<!ENTITY safeb.palm.decline.statustext "Oharra itxi">
+<!ENTITY safeb.palm.decline.statustext "Oharra itxi" >
 <!ENTITY safeb.palm.notforgery.label2 "Hau ez da web iruzurra…">
 <!ENTITY safeb.palm.reportPage.label "Zergatik blokeatu da orri hau?">
 

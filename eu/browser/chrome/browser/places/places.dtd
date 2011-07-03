@@ -6,12 +6,9 @@
 <!ENTITY organize.accesskey    "o">
 <!ENTITY organize.tooltip      "Antolatu laster-markak">
 
-<!ENTITY file.accesskey                 "F">
 <!ENTITY file.close.label               "Itxi">
 <!ENTITY file.close.accesskey           "I">
 <!ENTITY cmd.close.key                  "w">
-<!ENTITY edit.label                     "Editatu">
-<!ENTITY edit.accesskey                 "E">
 <!ENTITY views.label                    "Ikuspegiak">
 <!ENTITY views.accesskey                "I">
 <!ENTITY views.tooltip                  "Aldatu ikuspegia">
@@ -76,8 +73,6 @@
 
 <!ENTITY cmd.reloadLivebookmark.label      "Birkargatu laster-marka dinamikoa">
 <!ENTITY cmd.reloadLivebookmark.accesskey  "d">
-<!ENTITY cmd.reloadMicrosummary.label      "Birkargatu izenburu dinamikoa">
-<!ENTITY cmd.reloadMicrosummary.accesskey  "B">
 
 <!ENTITY cmd.moveBookmarks.label                  "Aldatu lekuz…">
 <!ENTITY cmd.moveBookmarks.accesskey              "l">
@@ -113,17 +108,14 @@
 <!ENTITY maintenance.accesskey  "I">
 <!ENTITY maintenance.tooltip    "Inportatu laster-markak eta egin hauen babeskopia">
 
-<!ENTITY backCmd.label       "Atzera">
 <!ENTITY backButton.tooltip  "Joan atzera">
 
-<!ENTITY forwardCmd.label       "Aurrera">
 <!ENTITY forwardButton.tooltip  "Joan aurrera">
 
 <!ENTITY detailsPane.more.label "Gehiago">
 <!ENTITY detailsPane.more.accesskey "e">
 <!ENTITY detailsPane.less.label "Gutxiago">
 <!ENTITY detailsPane.less.accesskey "u">
-<!ENTITY detailsPane.noPreviewAvailable.label "Aurrebista">
 <!ENTITY detailsPane.selectAnItemText.description "Hautatu elementu bat bere propietateak ikusi eta editatzeko">
 
 <!ENTITY find.label               "Bilatu:">
