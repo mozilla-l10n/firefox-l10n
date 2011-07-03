@@ -47,7 +47,7 @@ you can use these alternative items. Otherwise, their values should be empty.  -
 <!ENTITY reloadCmd.label "Birkargatu">
 <!ENTITY reloadCmd.accesskey "r">
 <!ENTITY reloadCmd.commandkey "r">
-<!ENTITY menu_wrapLongLines.title "Itzulbiratu lerro luzeak">
+<!ENTITY menu_wrapLongLines.title "Itzulbiratu lerro luzeak"> 
 <!ENTITY menu_wrapLongLines.accesskey "I">
 <!ENTITY menu_highlightSyntax.label "Sintaxia nabarmentzea">
 <!ENTITY menu_highlightSyntax.accesskey "S">

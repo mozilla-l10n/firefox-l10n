@@ -6,7 +6,6 @@
 <!ENTITY editBookmarkOverlay.feedLocation.accesskey          "J">
 <!ENTITY editBookmarkOverlay.siteLocation.label              "Gunearen kokapena:">
 <!ENTITY editBookmarkOverlay.siteLocation.accesskey          "G">
-<!ENTITY editBookmarkOverlay.liveTitlesSeparator.label       "Izenburu dinamikoak">
 <!ENTITY editBookmarkOverlay.folder.label                    "Karpeta:">
 <!ENTITY editBookmarkOverlay.foldersExpanderDown.tooltip     "Ikusi laster-marka karpeta guztiak">
 <!ENTITY editBookmarkOverlay.expanderUp.tooltip              "Ezkutatu">

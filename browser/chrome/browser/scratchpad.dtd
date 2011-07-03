@@ -1,0 +1,123 @@
+<!-- LOCALIZATION NOTE : FILE This file contains the Scratchpad window strings -->
+<!-- LOCALIZATION NOTE : FILE Do not translate commandkeys -->
+<!-- LOCALIZATION NOTE (scratchpad.title):
+  -  The Scratchpad is intended to provide a simple text editor for creating
+  -  and evaluating bits of JavaScript code for the purposes of function
+  -  prototyping, experimentation and convenient scripting.
+  -
+  -  It's quite possible that you won't have a good analogue for the word
+  -  "Scratchpad" in your locale. You should feel free to find a close
+  -  approximation to it or choose a word (or words) that means
+  -  "simple discardable text editor". -->
+
+<!ENTITY window.title                 "Zirriborroa">
+
+<!ENTITY fileMenu.label               "Fitxategia">
+<!ENTITY fileMenu.accesskey           "F">
+
+<!ENTITY newWindowCmd.label           "Leiho berria">
+<!ENTITY newWindowCmd.accesskey       "L">
+<!ENTITY newWindowCmd.commandkey      "n">
+
+<!ENTITY openFileCmd.label            "Ireki fitxategia…">
+<!ENTITY openFileCmd.accesskey        "I">
+<!ENTITY openFileCmd.commandkey       "o">
+
+<!ENTITY saveFileCmd.label            "Gorde">
+<!ENTITY saveFileCmd.accesskey        "G">
+<!ENTITY saveFileCmd.commandkey       "s">
+
+<!ENTITY saveFileAsCmd.label          "Gorde honela…">
+<!ENTITY saveFileAsCmd.accesskey      "h">
+
+<!ENTITY closeCmd.label               "Itxi">
+<!ENTITY closeCmd.key                 "W">
+<!ENTITY closeCmd.accesskey           "I">
+
+<!ENTITY editMenu.label               "Editatu">
+<!ENTITY editMenu.accesskey           "E">
+
+<!ENTITY undoCmd.label                "Desegin">
+<!ENTITY undoCmd.key                  "Z">
+<!ENTITY undoCmd.accesskey            "D">
+
+<!ENTITY redoCmd.label                "Berregin">
+<!ENTITY redoCmd.key                  "Y">
+<!ENTITY redoCmd.accesskey            "B">
+
+<!ENTITY cutCmd.label                 "Ebaki">
+<!ENTITY cutCmd.key                   "X">
+<!ENTITY cutCmd.accesskey             "E">
+
+<!ENTITY copyCmd.label                "Kopiatu">
+<!ENTITY copyCmd.key                  "C">
+<!ENTITY copyCmd.accesskey            "K">
+
+<!ENTITY pasteCmd.label               "Itsatsi">
+<!ENTITY pasteCmd.key                 "V">
+<!ENTITY pasteCmd.accesskey           "s">
+
+<!ENTITY selectAllCmd.label           "Hautatu dena">
+<!ENTITY selectAllCmd.key             "A">
+<!ENTITY selectAllCmd.accesskey       "a">
+
+<!ENTITY run.label                    "Exekutatu">
+<!ENTITY run.accesskey                "E">
+<!ENTITY run.key                      "r">
+
+<!ENTITY inspect.label                "Ikuskatu">
+<!ENTITY inspect.accesskey            "I">
+<!ENTITY inspect.key                  "i">
+
+<!ENTITY display.label                "Bistaratu">
+<!ENTITY display.accesskey            "B">
+<!ENTITY display.key                  "l">
+<!-- LOCALIZATION NOTE (environmentMenu.label, accesskey): This menu item was
+  -  renamed from "Context" to avoid confusion with the right-click context
+  -  menu in the text area. It refers to the JavaScript Environment (or context)
+  -  the user is evaluating against. I.e., Content (current tab) or Chrome
+  -  (browser).
+  -->
+
+<!ENTITY environmentMenu.label        "Ingurunea">
+<!ENTITY environmentMenu.accesskey    "n">
+
+
+<!ENTITY contentContext.label         "Edukia">
+<!ENTITY contentContext.accesskey     "E">
+<!-- LOCALIZATION NOTE (browserContext.label, accesskey): This menu item is used
+  -  to select an execution environment for the browser window itself as opposed
+  -  to content. This is a feature for browser and addon developers and only
+  -  enabled via the devtools.chrome.enabled preference. Formerly, this label
+  -  was called "Chrome".
+  -->
+
+<!ENTITY browserContext.label         "Nabigatzailea">
+<!ENTITY browserContext.accesskey     "N">
+<!-- LOCALIZATION NOTE (resetContext.label): This command allows the developer
+  -  to reset/clear the global object of the environment where the code executes.
+  -->
+
+<!ENTITY resetContext.label           "Berrezarri">
+<!ENTITY resetContext.accesskey       "r">
+
+<!ENTITY executeMenu.label            "Exekutatu">
+<!ENTITY executeMenu.accesskey        "x">
+
+<!ENTITY toolsMenu.label              "Tresnak">
+<!ENTITY toolsMenu.accesskey          "T">
+
+<!ENTITY errorConsoleCmd.label        "Errore-kontsola">
+<!ENTITY errorConsoleCmd.accesskey    "k">
+<!ENTITY errorConsoleCmd.commandkey   "j">
+
+<!ENTITY webConsoleCmd.label          "Web kontsola">
+<!ENTITY webConsoleCmd.accesskey      "W">
+<!ENTITY webConsoleCmd.commandkey     "k">
+<!-- LOCALIZATION NOTE (textbox.placeholder1): This is some placeholder text
+  -  that appears when the Scratchpad's text area is empty and unfocused.
+  -  It should be a one-line JavaScript comment, i.e., preceded by '//'
+  -->
+
+<!ENTITY textbox.placeholder1         "// Idatzi JavaScript kodea, hautatu kodea, egin eskuin-klika eta hautatu 'Exekutatu', 'Ikuskatu' edo 'Bistaratu'.">
+

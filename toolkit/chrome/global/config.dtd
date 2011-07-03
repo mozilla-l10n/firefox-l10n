@@ -54,8 +54,8 @@
 <!ENTITY valueColumn.label "Balioa">
 <!-- Tooltips -->
 
-<!ENTITY prefColumnHeader.tooltip "Egin klik ordenatzeko">
-<!ENTITY columnChooser.tooltip "Egin klik bistaratuko diren zutabeak hautatzeko">
+<!ENTITY prefColumnHeader.tooltip "Egin klik ordenatzeko"> 
+<!ENTITY columnChooser.tooltip "Egin klik bistaratuko diren zutabeak hautatzeko"> 
 <!-- Context Menu -->
 
 <!ENTITY copyPref.key "C">

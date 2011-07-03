@@ -4,7 +4,7 @@
 <!ENTITY     props.path.label               "Bidea:">
 <!ENTITY     props.secure.label             "Norentzat bidali:">
 <!ENTITY     props.expires.label            "Iraungitzea:">
-<!ENTITY     props.policy.label             "Politika:">
+<!ENTITY     props.policy.label             "Politika:"> 
 
 <!ENTITY     button.allow.label             "Onartu">
 <!ENTITY     button.allow.accesskey         "a">

@@ -2,7 +2,7 @@
 
 <!ENTITY     cookiesonsystem.label          "Honako cookie hauek daude gorderik zure ordenagailuan:">
 <!ENTITY     cookiename.label               "Cookie-aren izena">
-<!ENTITY     cookiedomain.label             "Gunea">
+<!ENTITY     cookiedomain.label             "Gunea"> 
 <!ENTITY     button.removecookies.label     "Kendu cookie-ak">
 <!ENTITY     button.removecookie.label      "Kendu cookie-a">
 <!ENTITY     button.removecookie.accesskey  "K">

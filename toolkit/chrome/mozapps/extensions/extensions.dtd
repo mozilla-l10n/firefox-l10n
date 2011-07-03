@@ -22,15 +22,14 @@
 <!ENTITY warning.updatesecurity.label              "Gehigarrien eguneraketa-segurtasuna egiaztatzea desgaituta dago. Eguneraketek arriskuan jar zaitzakete.">
 <!ENTITY warning.updatesecurity.enable.label       "Gaitu">
 <!ENTITY warning.updatesecurity.enable.tooltip     "Gaitu gehigarrien eguneraketa-segurtasuna egiaztatzea">
+<!-- global informations -->
+
+<!ENTITY info.plugincheck.label                 "Egiaztatu zure pluginak egunean dauden ikusteko">
+<!ENTITY info.plugincheck.tooltip               "Egiaztatu zure pluginak egunean dauden ikusteko">
 <!-- categories / views -->
 
 <!ENTITY view.search.label                    "Bilaketa">
 <!ENTITY view.discover.label                  "Eskuratu gehigarriak">
-<!ENTITY view.locales.label                   "Hizkuntzak">
-<!ENTITY view.searchengines.label             "Bilaketa-motorrak">
-<!ENTITY view.features.label                  "Hedapenak">
-<!ENTITY view.appearance2.label               "Itxura">
-<!ENTITY view.plugins.label                   "Pluginak">
 <!ENTITY view.recentUpdates.label             "Azken eguneraketak">
 <!ENTITY view.availableUpdates.label          "Eguneraketak eskura">
 <!-- addon updates -->
