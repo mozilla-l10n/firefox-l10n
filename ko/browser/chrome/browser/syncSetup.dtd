@@ -27,6 +27,8 @@
 <!ENTITY setup.confirmPassword.accesskey  "m">
 <!ENTITY setup.emailAddress.label     "메일 주소">
 <!ENTITY setup.emailAddress.accesskey "E">
+<!ENTITY setup.choosePassword.label      "암호 선택">
+<!ENTITY setup.choosePassword.accesskey  "P">
 
 <!-- LOCALIZATION NOTE: tosAgree1, tosLink, tosAgree2, ppLink, tosAgree3 are
      joined with implicit white space, so spaces in the strings aren't necessary -->

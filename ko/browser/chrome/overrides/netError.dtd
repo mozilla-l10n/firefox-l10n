@@ -17,8 +17,7 @@
 <!ENTITY netInterrupt.title "연결이 끊어짐">
 <!ENTITY netInterrupt.longDesc "&sharedLongDesc;">
 <!ENTITY netOffline.title "오프라인 모드">
-
-<!ENTITY netOffline.overrideLongDesc "<ul><li>&quot;오프라인으로 작업&quot;을 끄고 재시도하시기 바랍니다.</li></ul>">
+<!ENTITY netOffline.longDesc2 "<ul><li>&quot;오프라인으로 작업&quot;을 끄고 재시도하시기 바랍니다.</li></ul>">
 <!ENTITY netReset.title "연결 초기화">
 <!ENTITY netReset.longDesc "&sharedLongDesc;">
 <!ENTITY netTimeout.title "연결 시간 초과">
@@ -51,6 +50,8 @@
 <!ENTITY cspFrameAncestorBlocked.title "콘텐츠 보안 정책에 의한 차단">
 <!ENTITY cspFrameAncestorBlocked.longDesc "<p>이 페이지는 콘텐츠 보안 정책에서 허락하지 않는 방법으로 로딩되어 &brandShortName;가 차단했습니다.</p>">
 
+<!ENTITY corruptedContentError.title "콘텐츠 전송 오류">
+<!ENTITY corruptedContentError.longDesc "<p>이 페이지는 전송 데이터에 오류가 감지되어서 표시할 수 없습니다.</p><ul><li>웹 사이트 관리자에게 본 문제점을 알려 주시기 바랍니다.</li></ul>">
 <!ENTITY securityOverride.linkText "예외 추가…">
 <!ENTITY securityOverride.getMeOutOfHereButton "페이지 나가기">
 <!ENTITY securityOverride.exceptionButtonLabel "예외 추가…">
