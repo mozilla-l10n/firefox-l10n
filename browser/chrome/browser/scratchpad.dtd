@@ -119,5 +119,5 @@
   -  that appears when the Scratchpad's text area is empty and unfocused.
   -  It should be a one-line JavaScript comment, i.e., preceded by '//'
   -->
-<!ENTITY textbox.placeholder1         "// Indtast noget JavaScript, marker det, højreklik og vælg Kørm Inspicer eller Vis.">
+<!ENTITY textbox.placeholder1         "// Indtast noget JavaScript, marker det, højreklik og vælg Kør, Inspicer eller Vis.">
 

@@ -13,7 +13,7 @@
 
 <!-- Tab context menu -->
 <!ENTITY  reloadTab.label                    "Genindlæs faneblad">
-<!ENTITY  reloadTab.accesskey                "G">
+<!ENTITY  reloadTab.accesskey                "e">
 <!ENTITY  reloadAllTabs.label                "Genindlæs alle faneblade">
 <!ENTITY  reloadAllTabs.accesskey            "a">
 <!ENTITY  closeOtherTabs.label               "Luk øvrige faneblade">
@@ -173,7 +173,7 @@ can reach it easily. -->
 <!ENTITY downloads.label              "Filhentning">
 <!ENTITY downloads.tooltip            "Vis status for filhentning">
 <!ENTITY downloads.accesskey          "F">
-<!ENTITY downloads.commandkey         "y">
+<!ENTITY downloads.commandkey         "j">
 <!ENTITY downloadsUnix.commandkey     "y">
 <!ENTITY addons.label                 "Tilføjelser">
 <!ENTITY addons.accesskey             "t">
@@ -282,7 +282,7 @@ can reach it easily. -->
 <!ENTITY viewSidebarMenu.label "Sidebjælke">
 <!ENTITY viewSidebarMenu.accesskey "b">
 <!ENTITY viewCustomizeToolbar.label       "Tilpas…"> 
-<!ENTITY viewCustomizeToolbar.accesskey     "T">
+<!ENTITY viewCustomizeToolbar.accesskey     "p">
 <!ENTITY viewTabsOnTop.label            "Faneblade øverst">
 <!ENTITY viewTabsOnTop.accesskey        "ø">
 
@@ -565,7 +565,7 @@ just addresses the organization to follow, e.g. "This site is run by " -->
 <!ENTITY syncBrand.shortName.label  "Sync">
 
 <!ENTITY syncSetup.label              "Indstil &syncBrand.shortName.label;…">
-<!ENTITY syncSetup.accesskey          "I">
+<!ENTITY syncSetup.accesskey          "y">
 <!ENTITY syncSyncNowItem.label        "Synkroniser nu">
 <!ENTITY syncSyncNowItem.accesskey    "S">
 <!ENTITY syncToolbarButton.label      "Sync">
