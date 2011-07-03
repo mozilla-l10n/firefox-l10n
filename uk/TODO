@@ -7,3 +7,7 @@ A mail/chrome/messenger/aboutSupportMail.properties
 A mail/chrome/messenger/am-archiveoptions.dtd
 A mail/chrome/messenger/safeMode.dtd
 A mail/chrome/messenger/vCardImportMsgs.properties
+
+M toolkit/chrome/global/headsUpDisplay.properties
+A browser/chrome/browser/scratchpad.dtd
+A browser/chrome/browser/scratchpad.properties
