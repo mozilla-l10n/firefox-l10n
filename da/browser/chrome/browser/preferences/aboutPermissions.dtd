@@ -9,7 +9,7 @@
 <!ENTITY header.site.start               "Tilladelser for">
 <!ENTITY header.site.end                 "">
 
-<!ENTITY header.defaults                 "Standard-tilladelser forr alle websteder">
+<!ENTITY header.defaults                 "Standard-tilladelser for alle websteder">
 
 <!ENTITY permissions.forgetSite          "Glem tilladelser for dette websted">
 
@@ -21,7 +21,7 @@
 <!ENTITY password.label                  "Gem adgangskoder">
 <!ENTITY password.manage                 "Administrer adgangskoder…">
 
-<!ENTITY cookie.label                    "Sæt cookies">
+<!ENTITY cookie.label                    "Gem cookies">
 <!ENTITY cookie.clear                    "Ryd cookies">
 <!ENTITY cookie.manage                   "Administrer cookies…">
 <!ENTITY cookie.clearAll                 "Ryd alle cookies">
@@ -30,6 +30,6 @@
 
 <!-- LOCALIZATION NOTE (indexedDB.label): This is describing indexedDB storage
      using the same language used for the permIndexedDB string in browser/pageInfo.dtd -->
-<!ENTITY indexedDB.label                 "Kan have Offline-lager">
+<!ENTITY indexedDB.label                 "Brug offline-lager">
 
 <!ENTITY popup.label                     "Åbn pop-op-vinduer">
