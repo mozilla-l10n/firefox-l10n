@@ -1,5 +1,6 @@
 <!ENTITY  splash_screen_label "indlæser">
 <!ENTITY  splash_screen_installing "installerer biblioteker\u2026">
+<!ENTITY  splash_firstrun "konfigurerer &brandShortName;\u2026">
 <!ENTITY  incompatable_cpu_error "Denne enhed overholder ikke minimumkrav for &brandShortName;.">
 <!ENTITY  no_space_to_start_error "Der er ikke nok fri plads til at kunne starte &brandShortName;.">
 <!ENTITY  error_loading_file "En fejl opstod under indlæsning af filer nødvendige for at kunne køre &brandShortName;">
