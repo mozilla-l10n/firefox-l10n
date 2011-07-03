@@ -43,7 +43,7 @@
 <!ENTITY setup.newSyncKeyPage.description.label "For at sikre dine private oplysninger bliver alle dine data krypteret før de bliver sendt. Sync-nøglen, som bruges til at dekryptere dine data sendes ikke.">
 <!ENTITY syncKeyEntry.label        "Din Sync-nøgle">
 <!ENTITY syncKeyEntry.accesskey    "n">
-<!ENTITY syncKeyGenerate.label     "Opret">
+<!ENTITY syncGenerateNewKey.label  "Opret en ny nøgle">
 <!ENTITY syncKeyBackup.description "Din Sync-nøgle er nødvendig for at kunne tilgå &syncBrand.fullName.label; på andre maskiner. Vi anbefaler at du laver en sikkerhedskopi. Vi kan ikke hjælpe med at genskabe din Sync-nøgle.">
 
 <!ENTITY button.syncKeyBackup.print.label     "Udskriv…">

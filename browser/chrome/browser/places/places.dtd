@@ -6,12 +6,9 @@
 <!ENTITY organize.accesskey    "O">
 <!ENTITY organize.tooltip      "Hold styr på dine bogmærker">
 
-<!ENTITY file.accesskey                 "F">
 <!ENTITY file.close.label               "Luk">
 <!ENTITY file.close.accesskey           "L">
 <!ENTITY cmd.close.key                  "w">
-<!ENTITY edit.label                     "Rediger">
-<!ENTITY edit.accesskey                 "e">
 <!ENTITY views.label                    "Visning">
 <!ENTITY views.accesskey                "V">
 <!ENTITY views.tooltip                  "Ændr din visning">
@@ -76,8 +73,6 @@
 
 <!ENTITY cmd.reloadLivebookmark.label      "Genindlæs live bogmærke">
 <!ENTITY cmd.reloadLivebookmark.accesskey  "G">
-<!ENTITY cmd.reloadMicrosummary.label      "Genindlæs live titel">
-<!ENTITY cmd.reloadMicrosummary.accesskey  "G">
 
 <!ENTITY cmd.moveBookmarks.label                  "Flyt…">
 <!ENTITY cmd.moveBookmarks.accesskey              "F">
@@ -113,17 +108,14 @@
 <!ENTITY maintenance.accesskey  "u">
 <!ENTITY maintenance.tooltip    "Importer og sikkerhedskopier dine bogmærker">
 
-<!ENTITY backCmd.label       "Tilbage">
 <!ENTITY backButton.tooltip  "Gå tilbage">
 
-<!ENTITY forwardCmd.label       "Frem">
 <!ENTITY forwardButton.tooltip  "Gå frem">
 
 <!ENTITY detailsPane.more.label "Mere">
 <!ENTITY detailsPane.more.accesskey "e">
 <!ENTITY detailsPane.less.label "Mindre">
 <!ENTITY detailsPane.less.accesskey "e">
-<!ENTITY detailsPane.noPreviewAvailable.label "Forhåndsvisning">
 <!ENTITY detailsPane.selectAnItemText.description "Vælg et element til visning og redigering af dets egenskaber">
 
 <!ENTITY find.label               "Søg:">

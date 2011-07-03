@@ -7,30 +7,14 @@
 
 <!ENTITY importFromIE.label             "Microsoft Internet Explorer">
 <!ENTITY importFromIE.accesskey         "M">
-<!ENTITY importFromPhoenix.label        "Firefox 0.8, Firebird eller Phoenix">
-<!ENTITY importFromPhoenix.accesskey    "P">
 <!ENTITY importFromNothing.label        "Importer intet">
 <!ENTITY importFromNothing.accesskey    "I">
 <!ENTITY importFromSeamonkey.label      "Netscape 6, 7 eller Mozilla 1.x">
-<!ENTITY importFromSeamonkey.accesskey  "6">
-<!ENTITY importFromNetscape4.label      "Netscape 4.x">
-<!ENTITY importFromNetscape4.accesskey  "4">
+<!ENTITY importFromSeamonkey.accesskey  "N">
 <!ENTITY importFromOpera.label          "Opera">
 <!ENTITY importFromOpera.accesskey      "O">
-<!ENTITY importFromCamino.label         "Camino">
-<!ENTITY importFromCamino.accesskey     "C">
 <!ENTITY importFromSafari.label         "Safari">
 <!ENTITY importFromSafari.accesskey     "S">
-<!ENTITY importFromOmniWeb.label        "OmniWeb">
-<!ENTITY importFromOmniWeb.accesskey    "W">
-<!ENTITY importFromICab.label           "iCab">
-<!ENTITY importFromICab.accesskey       "b">
-<!ENTITY importFromKonqueror.label      "Konqueror">
-<!ENTITY importFromKonqueror.accesskey  "K">
-<!ENTITY importFromEpiphany.label       "Epiphany">
-<!ENTITY importFromEpiphany.accesskey   "E">
-<!ENTITY importFromGaleon.label         "Galeon">
-<!ENTITY importFromGaleon.accesskey     "G">
 <!ENTITY importFromHTMLFile.label       "en HTML-fil…">
 <!ENTITY importFromHTMLFile.accesskey   "H">
 
