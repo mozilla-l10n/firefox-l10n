@@ -19,10 +19,14 @@
 
 <!ENTITY pluginWizard.finalPage.moreInfo.label               "Дізнатися про модулі докладніше або знайти відсутні модулі вручну.">
 <!ENTITY pluginWizard.finalPage.restart.label                "Для роботи модуля(ів) потрібно перезапустити &brandShortName;. ">
-  
-<!ENTITY missingPlugin.label                                 "Клацніть тут щоб завантажити модуль.">
-<!ENTITY disabledPlugin.label                                "Модуль для цього типу вмісту вимкнений. Клацніть тут щоб керувати вашими модулями.">
+
+<!ENTITY missingPlugin                                       "Для відображення цього вмісту потрібен модуль.">
+<!ENTITY disabledPlugin                                      "Цей модуль вимкнено.">
 <!ENTITY blockedPlugin.label                                 "Цей модуль був блокований задля вашого захисту.">
+
+<!ENTITY installPlugin                                       "Встановити модуль…">
+<!ENTITY managePlugins                                       "Керувати модулями…">
+
 <!-- LOCALIZATION NOTE (reloadPlugin.pre): include a trailing space as needed -->
 <!-- LOCALIZATION NOTE (reloadPlugin.middle): avoid leading/trailing spaces, this text is a link -->
 <!-- LOCALIZATION NOTE (reloadPlugin.post): include a starting space as needed -->
