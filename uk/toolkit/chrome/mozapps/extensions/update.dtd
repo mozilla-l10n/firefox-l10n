@@ -1,7 +1,7 @@
 <!ENTITY  updateWizard.title              "Оновлення &brandShortName;">
 
 <!ENTITY  offline.title                   "&brandShortName; працює в автономному режимі">
-<!ENTITY  offline.description             "&brandShortName; потребує мережевого з’єднання щоб перевірити наявність нових версій встановлених додатків та зробити їх сумісними з цією версією програми.">
+<!ENTITY  offline.description             "&brandShortName; потребує мережевого з’єднання, щоб перевірити наявність нових версій встановлених додатків та зробити їх сумісними з цією версією програми.">
 <!ENTITY  offline.toggleOffline.label     "Під’єднатися до мережі.">
 <!ENTITY  offline.toggleOffline.accesskey "о">
 
@@ -14,7 +14,7 @@
 <!ENTITY  checking.status                 "Це може зайняти кілька хвилин…">
 
 <!ENTITY  found.wizard.title               "Знайдено сумісні додатки">
-<!ENTITY  found.top.label                 "Оберіть додатки котрі бажаєте встановити:">
+<!ENTITY  found.top.label                 "Оберіть додатки, котрі бажаєте встановити:">
 <!ENTITY  found.disabledXPinstall.label   "Оновлення не можуть бути встановлені, оскільки установка програмного забезпечення зараз вимкнена. Ви можете змінити цю настройку, встановивши розташовану нижче галку.">
 <!ENTITY  found.enableXPInstall.label     "Дозволити сайтам встановлювати програмне забезпечення">
 <!ENTITY  found.enableXPInstall.accesskey "р">

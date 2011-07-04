@@ -2,7 +2,7 @@
 <!ENTITY rights.locale-direction "ltr">
 <!ENTITY rights.pagetitle       "about:rights">
 <!ENTITY rights.intro-header    "Про ваші права">
-<!ENTITY rights.intro "&brandFullName; є безплатним програмним продуктом з відкритим джерельним кодом. Він створений багатотисячною спільнотою розробників з усіх куточків земної кулі. Ось кілька речей котрі варто знати:">
+<!ENTITY rights.intro "&brandFullName; є безплатним програмним продуктом з відкритим джерельним кодом. Він створений багатотисячною спільнотою розробників з усіх куточків земної кулі. Ось кілька речей, котрі варто знати:">
 
 <!-- Note on pointa / pointb / pointc form:
      These points each have an embedded link in the HTML, so each point is
