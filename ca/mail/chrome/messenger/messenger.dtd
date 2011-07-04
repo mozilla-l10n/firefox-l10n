@@ -28,7 +28,7 @@
 <!ENTITY newOtherAccountsCmd.accesskey "A">
 <!ENTITY newEmailAccountCmd.label "Compte de correu…">
 <!ENTITY newEmailAccountCmd.accesskey "C">
-<!ENTITY openMessageFileCmd.label "Obre el missatge desat…">
+<!ENTITY openMessageFileCmd.label "Obre un missatge desat…">
 <!ENTITY openMessageFileCmd.accesskey "O">
 <!ENTITY openAttachmentCmd.label "Adjuncions">
 <!ENTITY openAttachmentCmd.accesskey "A">
