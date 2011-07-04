@@ -47,7 +47,7 @@
 <!ENTITY ReplaceButton.label "Ordezkatu">
 <!ENTITY ReplaceButton.accessKey "O">
 <!ENTITY RemoveButton.label "Ezabatu">
-<!ENTITY RemoveButton.accessKey "e">
+<!ENTITY RemoveButton.accessKey "E">
 
 <!ENTITY CloseButton.label "Itxi">
 <!ENTITY CloseButton.accessKey "I">

@@ -1,34 +1,36 @@
 <!-- for SearchDialog.xul -->
-<!ENTITY searchHeading.label "Bilatu mezuak hemen:">
-<!ENTITY searchHeading.accesskey "t">
-<!ENTITY searchSubfolders.label "Bilatu azpikarpetetan">
-<!ENTITY searchSubfolders.accesskey "l">
-<!ENTITY resetButton.label "Garbitu">
-<!ENTITY resetButton.accesskey "G">
-<!ENTITY openButton.label "Ireki">
-<!ENTITY openButton.accesskey "i">
-<!ENTITY deleteButton.label "Ezabatu">
-<!ENTITY deleteButton.accesskey "E">
-<!ENTITY searchDialogTitle.label "Bilatu mezuak">
-<!ENTITY results.label "Emaitzak">
-<!ENTITY fileHereMenu.label "Gorde hemen">
-<!ENTITY fileHereMenu.accesskey "R">
-<!ENTITY fileButton.label "Fitxategia">
-<!ENTITY fileButton.accesskey "f">
-<!ENTITY closeCmd.key "W">
-<!ENTITY goToFolderButton.label "Ireki mezu-karpeta">
-<!ENTITY goToFolderButton.accesskey "k">
-<!ENTITY saveAsVFButton.label "Gorde bilaketa-karpeta bezala">
-<!ENTITY saveAsVFButton.accesskey "o">
+<!ENTITY searchHeading.label         "Bilatu mezuak hemen:">
+<!ENTITY searchHeading.accesskey     "t">
+<!ENTITY searchSubfolders.label      "Bilatu azpikarpetetan">
+<!ENTITY searchSubfolders.accesskey  "l">
+<!ENTITY searchOnServer.label        "Exekutatu bilaketa zerbitzarian">
+<!ENTITY searchOnServer.accesskey    "x">
+<!ENTITY resetButton.label           "Garbitu">
+<!ENTITY resetButton.accesskey       "G">
+<!ENTITY openButton.label            "Ireki">
+<!ENTITY openButton.accesskey        "I">
+<!ENTITY deleteButton.label          "Ezabatu">
+<!ENTITY deleteButton.accesskey      "E">
+<!ENTITY searchDialogTitle.label     "Bilatu mezuak">
+<!ENTITY results.label               "Emaitzak">
+<!ENTITY fileHereMenu.label          "Gorde hemen">
+<!ENTITY fileHereMenu.accesskey      "r">
+<!ENTITY fileButton.label            "Fitxategia">
+<!ENTITY fileButton.accesskey        "F">
+<!ENTITY closeCmd.key                "W"> 
+<!ENTITY openInFolder.label          "Ireki karpetan">
+<!ENTITY openInFolder.accesskey      "r">
+<!ENTITY saveAsVFButton.label        "Gorde bilaketa-karpeta bezala">
+<!ENTITY saveAsVFButton.accesskey    "o">
 <!-- for ABSearchDialog.xul -->
 
-<!ENTITY abSearchHeading.label "Bilatu hemen:">
-<!ENTITY abSearchHeading.accesskey "b">
-<!ENTITY propertiesButton.label "Propietateak">
-<!ENTITY propertiesButton.accesskey "P">
-<!ENTITY composeButton.label "Idatzi">
-<!ENTITY composeButton.accesskey "I">
-<!ENTITY abSearchDialogTitle.label "Bilaketa aurreratua helbide-liburuan">
+<!ENTITY abSearchHeading.label       "Bilatu hemen:">
+<!ENTITY abSearchHeading.accesskey   "B">
+<!ENTITY propertiesButton.label      "Propietateak">
+<!ENTITY propertiesButton.accesskey  "P">
+<!ENTITY composeButton.label         "Idatzi">
+<!ENTITY composeButton.accesskey     "I">
+<!ENTITY abSearchDialogTitle.label   "Bilaketa aurreratua helbide-liburuan">
 <!-- Thread Pane -->
 
 <!ENTITY threadColumn.label "Haria">
@@ -52,7 +54,7 @@
 <!-- Thread Pane Tooltips -->
 
 <!ENTITY columnChooser.tooltip "Egin klik bistaratuko diren zutabeak hautatzeko">
-<!ENTITY threadColumn.tooltip "Egin klik mezuen haria bistaratzeko">
+<!ENTITY threadColumn.tooltip "Egin klik mezuen haria bistaratzeko"> 
 <!ENTITY fromColumn.tooltip "Egin klik bidaltzailearen arabera ordenatzeko">
 <!ENTITY recipientColumn.tooltip "Egin klik hartzailearen arabera ordenatzeko">
 <!ENTITY subjectColumn.tooltip "Egin klik gaiaren arabera ordenatzeko">

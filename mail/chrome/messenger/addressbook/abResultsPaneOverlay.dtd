@@ -34,35 +34,35 @@
    -
    - ***** END LICENSE BLOCK ***** -->
 
-<!ENTITY GeneratedName.label "Izena">
-<!ENTITY GeneratedName.accesskey "I">
-<!ENTITY PrimaryEmail.label "ePosta">
-<!ENTITY PrimaryEmail.accesskey "E">
-<!ENTITY Company.label "Erakundea:">
-<!ENTITY Company.accesskey "k">
-<!ENTITY _PhoneticName.label "Izen fonetikoa">
-<!ENTITY _PhoneticName.accesskey "f">
-<!ENTITY NickName.label "Goitizena">
-<!ENTITY NickName.accesskey "g">
-<!ENTITY SecondEmail.label "ePosta gehigarria">
-<!ENTITY SecondEmail.accesskey "h">
-<!ENTITY Department.label "Saila">
-<!ENTITY Department.accesskey "s">
-<!ENTITY JobTitle.label "Titulua">
-<!ENTITY JobTitle.accesskey "T">
-<!ENTITY CellularNumber.label "Mugikorra">
-<!ENTITY CellularNumber.accesskey "M">
-<!ENTITY PagerNumber.label "Bilagailua">
-<!ENTITY PagerNumber.accesskey "B">
-<!ENTITY FaxNumber.label "Faxa">
-<!ENTITY FaxNumber.accesskey "F">
-<!ENTITY HomePhone.label "Etxeko telefonoa">
-<!ENTITY HomePhone.accesskey "T">
-<!ENTITY WorkPhone.label "Laneko telefonoa">
-<!ENTITY WorkPhone.accesskey "L">
-<!ENTITY ScreenName.label "Pantailako izena">
-<!ENTITY ScreenName.accesskey "P">
-<!ENTITY sortAscending.label "Gorantz">
-<!ENTITY sortAscending.accesskey "O">
-<!ENTITY sortDescending.label "Beherantz">
-<!ENTITY sortDescending.accesskey "B">
+<!ENTITY GeneratedName.label                   "Izena">
+<!ENTITY GeneratedName.accesskey               "I">
+<!ENTITY PrimaryEmail.label                    "Helbide elektronikoa">
+<!ENTITY PrimaryEmail.accesskey                "e">
+<!ENTITY Company.label                         "Erakundea:">
+<!ENTITY Company.accesskey                     "k">
+<!ENTITY _PhoneticName.label                   "Izen fonetikoa">
+<!ENTITY _PhoneticName.accesskey               "f">
+<!ENTITY NickName.label                        "Goitizena">
+<!ENTITY NickName.accesskey                    "G">
+<!ENTITY SecondEmail.label                     "Helbide elektroniko gehigarria">
+<!ENTITY SecondEmail.accesskey                 "H">
+<!ENTITY Department.label                      "Saila">
+<!ENTITY Department.accesskey                  "S">
+<!ENTITY JobTitle.label                        "Titulua">
+<!ENTITY JobTitle.accesskey                    "T">
+<!ENTITY CellularNumber.label                  "Mugikorra">
+<!ENTITY CellularNumber.accesskey              "M">
+<!ENTITY PagerNumber.label                     "Bilagailua">
+<!ENTITY PagerNumber.accesskey                 "B">
+<!ENTITY FaxNumber.label                       "Faxa">
+<!ENTITY FaxNumber.accesskey                   "F">
+<!ENTITY HomePhone.label                       "Etxeko telefonoa">
+<!ENTITY HomePhone.accesskey                   "t">
+<!ENTITY WorkPhone.label                       "Laneko telefonoa">
+<!ENTITY WorkPhone.accesskey                   "L">
+<!ENTITY ScreenName.label                      "Pantailako izena">
+<!ENTITY ScreenName.accesskey                  "P">
+<!ENTITY sortAscending.label                   "Gorantz">
+<!ENTITY sortAscending.accesskey               "o">
+<!ENTITY sortDescending.label                  "Beherantz">
+<!ENTITY sortDescending.accesskey              "B">

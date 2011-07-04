@@ -40,11 +40,11 @@
 <!ENTITY Settings.accesskey "E">
 
 <!ENTITY EditLabelText.label "Editatu testua:">
-<!ENTITY EditLabelText.accesskey "T">
+<!ENTITY EditLabelText.accesskey "t">
 <!ENTITY LabelFor.label "Kontrolarentzat:">
 <!ENTITY LabelFor.accesskey "K">
 <!ENTITY AccessKey.label "Laster-tekla:">
-<!ENTITY AccessKey.accesskey "K">
+<!ENTITY AccessKey.accesskey "k">
 
 <!ENTITY RemoveLabel.label "Ezabatu etiketa">
-<!ENTITY RemoveLabel.accesskey "Z">
+<!ENTITY RemoveLabel.accesskey "z">

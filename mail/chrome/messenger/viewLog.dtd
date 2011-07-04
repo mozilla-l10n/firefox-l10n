@@ -3,6 +3,6 @@
 <!ENTITY clearLog.label "Garbitu loga">
 <!ENTITY clearLog.accesskey "G">
 <!ENTITY enableLog.label "Gaitu iragazkien loga">
-<!ENTITY enableLog.accesskey "A">
+<!ENTITY enableLog.accesskey "a">
 <!ENTITY closeLog.label "Itxi">
 <!ENTITY closeLog.accesskey "t">

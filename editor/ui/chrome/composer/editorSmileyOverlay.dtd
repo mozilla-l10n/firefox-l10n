@@ -52,13 +52,13 @@
 <!ENTITY smiley4Cmd.accesskey "M">
 <!ENTITY smiley4Cmd.tooltip "Txertatu mingaina ateratzen duen aurpegia">
 <!ENTITY smiley5Cmd.label "Barrez">
-<!ENTITY smiley5Cmd.accesskey "R">
+<!ENTITY smiley5Cmd.accesskey "r">
 <!ENTITY smiley5Cmd.tooltip "Txertatu barrezka dagoen aurpegia">
 <!ENTITY smiley6Cmd.label "Lotsatuta">
 <!ENTITY smiley6Cmd.accesskey "L">
 <!ENTITY smiley6Cmd.tooltip "Txertatu lotsatutako aurpegia">
 <!ENTITY smiley7Cmd.label "Zalantzati">
-<!ENTITY smiley7Cmd.accesskey "N">
+<!ENTITY smiley7Cmd.accesskey "n">
 <!ENTITY smiley7Cmd.tooltip "Txertatu zalantzadun aurpegia">
 <!ENTITY smiley8Cmd.label "Ezustea">
 <!ENTITY smiley8Cmd.accesskey "u">
@@ -79,7 +79,7 @@
 <!ENTITY smiley13Cmd.accesskey "i">
 <!ENTITY smiley13Cmd.tooltip "Txertatu oina ahoan duen aurpegia">
 <!ENTITY smiley14Cmd.label "Errugabea">
-<!ENTITY smiley14Cmd.accesskey "G">
+<!ENTITY smiley14Cmd.accesskey "g">
 <!ENTITY smiley14Cmd.tooltip "Txertatu errugabe aurpegia">
 <!ENTITY smiley15Cmd.label "Negarrez">
 <!ENTITY smiley15Cmd.accesskey "r">

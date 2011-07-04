@@ -9,22 +9,22 @@
 <!ENTITY useIdle.label "Erabili IDLE komandoa zerbitzariak onartzen badu">
 <!ENTITY useIdle.accesskey "I">
 <!ENTITY maximumConnectionsNumber.label "Katxean gordeko diren zerbitzari-konexio kopuru maximoa">
-<!ENTITY maximumConnectionsNumber.accesskey "M">
+<!ENTITY maximumConnectionsNumber.accesskey "m">
 <!-- LOCALIZATION NOTE (namespaceDesc.label): Do not translate "IMAP" -->
 <!ENTITY namespaceDesc.label "Hobespen hauek zure IMAP zerbitzariko izen-eremuak zehazten dituzte">
 <!ENTITY personalNamespace.label "Izen-eremu pertsonala:">
-<!ENTITY personalNamespace.accesskey "P">
+<!ENTITY personalNamespace.accesskey "p">
 <!ENTITY publicNamespace.label "Publikoa (partekatua):">
 <!ENTITY publicNamespace.accesskey "u">
 <!ENTITY otherUsersNamespace.label "Beste erabiltzaileak:">
 <!ENTITY otherUsersNamespace.accesskey "B">
 <!ENTITY overrideNamespaces.label "Onartu zerbitzariak izen-eremu hauek gainidaztea">
-<!ENTITY overrideNamespaces.accesskey "A">
-<!ENTITY pop3Desc.label "Zerbitzari honetatik pop posta deskargatzean, erabili hurrengo karpeta posta berriarentzat:">
+<!ENTITY overrideNamespaces.accesskey "a">
+<!ENTITY pop3Desc.label "Zerbitzari honetatik pop posta deskargatzean, erabili hurrengo karpeta posta berriarentzat:" >
 <!ENTITY globalInbox.label "Postakutxa orokorra (karpeta lokalen kontua)">
-<!ENTITY globalInbox.accesskey "O">
+<!ENTITY globalInbox.accesskey "o">
 <!ENTITY accountDirectory.label "Zerbitzari honen kontuaren sarrerako ontzia">
-<!ENTITY accountDirectory.accesskey "H">
+<!ENTITY accountDirectory.accesskey "h">
 <!ENTITY deferToServer.label "Beste kontu baten sarrerako ontzia">
 <!ENTITY deferToServer.accesskey "B">
 <!ENTITY deferGetNewMail.label "Kontuan hartu zerbitzari hau posta berria jasotzerakoan">

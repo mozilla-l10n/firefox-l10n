@@ -1,37 +1,37 @@
 <!-- extracted from am-addressing.xul -->
 
-<!ENTITY addressing.label "Mezuak prestatzea eta helbideratzea">
+<!ENTITY addressing.label          "Mezuak prestatzea eta helbideratzea">
 <!ENTITY addressingGroupTitle.label "Helbideratzea">
-<!ENTITY addressingText.label "Helbideak bilatzean:">
+<!ENTITY addressingText.label      "Helbideak bilatzean:">
 <!-- LOCALIZATION NOTE (override.label) : do not translate "LDAP" in below line -->
-<!ENTITY useGlobal.label "Erabili nire LDAP zerbitzari orokorraren ezarpenak kontu honentzat">
-<!ENTITY useGlobal.accesskey "U">
-<!ENTITY editDirectories.label "Editatu direktorioak…">
+<!ENTITY useGlobal.label           "Erabili nire LDAP zerbitzari orokorraren ezarpenak kontu honentzat">
+<!ENTITY useGlobal.accesskey       "u">
+<!ENTITY editDirectories.label     "Editatu direktorioak…">
 <!ENTITY editDirectories.accesskey "E">
 <!-- LOCALIZATION NOTE (directories.label) : do not translate "LDAP" in below line -->
-<!ENTITY directories.label "Erabili beste LDAP zerbitzari bat:">
-<!ENTITY directories.accesskey "d">
-<!ENTITY directoriesNone.label "Bat ere ez">
+<!ENTITY directories.label         "Erabili beste LDAP zerbitzari bat:">
+<!ENTITY directories.accesskey     "D">
+<!ENTITY directoriesNone.label     "Bat ere ez">
 <!-- am-addressing.xul -->
 
 
 <!ENTITY compositionGroupTitle.label "Mezuak prestatzea">
 <!-- LOCALIZATION NOTE (useHtml.label) : do not translate "html" in below line -->
-<!ENTITY useHtml.label "Prestatu mezuak HTML formatuan">
-<!ENTITY useHtml.accesskey "S">
-<!ENTITY autoQuote.label "Zitatu automatikoki jatorrizko testua erantzutean">
-<!ENTITY autoQuote.accesskey "m">
+<!ENTITY useHtml.label                        "Prestatu mezuak HTML formatuan">
+<!ENTITY useHtml.accesskey                    "s">
+<!ENTITY autoQuote.label                      "Zitatu automatikoki jatorrizko testua erantzutean">
+<!ENTITY autoQuote.accesskey                  "m">
 <!-- LOCALIZATION NOTE (then.label): This will concatenate with the 4 strings that follow. -->
-<!ENTITY then.label "Orduan,">
-<!ENTITY then.accesskey "O">
-<!ENTITY aboveQuote.label "hasi nire erantzuna aipamen-testuaren aurretik">
-<!ENTITY belowQuote.label "hasi nire erantzuna aipamen-testuaren ondoren">
-<!ENTITY selectAndQuote.label "hautatu zita">
-<!ENTITY place.label "eta jarri nire sinadura">
-<!ENTITY place.accesskey "s">
-<!ENTITY belowText.label "zitaren ondoren (gomendatua)">
-<!ENTITY aboveText.label "nire erantzunaren ondoren (zitaren gainean)">
-<!ENTITY includeSigOnReply.label "Include signature for replies">
-<!ENTITY includeSigOnReply.accesskey "s">
-<!ENTITY includeSigOnForward.label "Include signature for forwards">
-<!ENTITY includeSigOnForward.accesskey "w">
+<!ENTITY then.label                           "Orduan,">
+<!ENTITY then.accesskey                       "O">
+<!ENTITY aboveQuote.label                     "hasi nire erantzuna aipamen-testuaren aurretik">
+<!ENTITY belowQuote.label                     "hasi nire erantzuna aipamen-testuaren ondoren">
+<!ENTITY selectAndQuote.label                 "hautatu zita">
+<!ENTITY place.label                          "eta jarri nire sinadura">
+<!ENTITY place.accesskey                      "s">
+<!ENTITY belowText.label                      "zitaren ondoren (gomendatua)">
+<!ENTITY aboveText.label                      "nire erantzunaren ondoren (zitaren gainean)">
+<!ENTITY includeSigOnReply.label              "Txertatu sinadura erantzunetan">
+<!ENTITY includeSigOnReply.accesskey          "s">
+<!ENTITY includeSigOnForward.label            "Txertatu sinadura birbidalketetan">
+<!ENTITY includeSigOnForward.accesskey        "b">

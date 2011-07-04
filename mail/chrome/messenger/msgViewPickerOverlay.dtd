@@ -1,17 +1,17 @@
 <!--LOCALIZATION NOTE msgViewPickerOverlay.dtd UI for showing various views on a folder -->
 
 <!ENTITY viewPicker.label "Ikusi:">
-<!ENTITY viewPicker.accesskey "i">
+<!ENTITY viewPicker.accesskey "I">
 <!ENTITY viewAll.label "Dena">
-<!ENTITY viewAll.accesskey "A">
+<!ENTITY viewAll.accesskey "a">
 <!ENTITY viewUnread.label "Irakurri gabea">
-<!ENTITY viewUnread.accesskey "U">
+<!ENTITY viewUnread.accesskey "u">
 <!ENTITY viewNotDeleted.label "Ez ezabatua">
 <!ENTITY viewNotDeleted.accesskey "E">
 <!ENTITY viewTags.label "Etiketak">
-<!ENTITY viewTags.accesskey "T">
+<!ENTITY viewTags.accesskey "t">
 <!ENTITY viewCustomViews.label "Pertsonalizatutako ikuspegiak">
-<!ENTITY viewCustomViews.accesskey "K">
+<!ENTITY viewCustomViews.accesskey "k">
 <!ENTITY viewVirtualFolder.label "Gorde ikuspegia karpeta bat bezala…">
 <!ENTITY viewVirtualFolder.accesskey "G">
 <!ENTITY viewCustomizeView.label "Pertsonalizatu…">

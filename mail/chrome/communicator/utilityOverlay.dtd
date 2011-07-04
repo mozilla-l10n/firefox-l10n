@@ -2,58 +2,58 @@
 <!-- LOCALIZATION NOTE : FILE This file contains the global menu items -->
 
 
-<!ENTITY fileMenu.label "Fitxategia">
-<!ENTITY fileMenu.accesskey "f">
-<!ENTITY newMenu.label "Berria">
-<!ENTITY newMenu.accesskey "B">
+<!ENTITY fileMenu.label          "Fitxategia">
+<!ENTITY fileMenu.accesskey        "F">
+<!ENTITY newMenu.label            "Berria">
+<!ENTITY newMenu.accesskey          "B">
 
-<!ENTITY editMenu.label "Editatu">
-<!ENTITY editMenu.accesskey "e">
-<!ENTITY undoCmd.label "Desegin">
-<!ENTITY undoCmd.key "Z">
-<!ENTITY undoCmd.accesskey "d">
-<!ENTITY redoCmd.label "Berregin">
-<!ENTITY redoCmd.key "Y">
-<!ENTITY redoCmd.accesskey "r">
-<!ENTITY cutCmd.label "Ebaki">
-<!ENTITY cutCmd.key "X">
-<!ENTITY cutCmd.accesskey "e">
-<!ENTITY copyCmd.label "Kopiatu">
-<!ENTITY copyCmd.key "C">
-<!ENTITY copyCmd.accesskey "k">
-<!ENTITY pasteCmd.label "Itsatsi">
-<!ENTITY pasteCmd.key "V">
-<!ENTITY pasteCmd.accesskey "s">
-<!ENTITY deleteCmd.label "Ezabatu">
-<!ENTITY deleteCmd.accesskey "e">
-<!ENTITY selectAllCmd.label "Hautatu dena">
-<!ENTITY selectAllCmd.key "A">
-<!ENTITY selectAllCmd.accesskey "a">
-<!ENTITY preferencesCmd.label "Aukerak…">
-<!ENTITY preferencesCmd.accesskey "K">
-<!ENTITY preferencesCmdUnix.label "Hobespenak">
-<!ENTITY preferencesCmdUnix.accesskey "n">
+<!ENTITY editMenu.label          "Editatu">
+<!ENTITY editMenu.accesskey        "E">
+<!ENTITY undoCmd.label            "Desegin">
+<!ENTITY undoCmd.key            "Z">
+<!ENTITY undoCmd.accesskey          "D">
+<!ENTITY redoCmd.label            "Berregin">
+<!ENTITY redoCmd.key            "Y">
+<!ENTITY redoCmd.accesskey          "r">
+<!ENTITY cutCmd.label            "Ebaki">
+<!ENTITY cutCmd.key              "X">
+<!ENTITY cutCmd.accesskey          "E">
+<!ENTITY copyCmd.label            "Kopiatu">
+<!ENTITY copyCmd.key            "C">
+<!ENTITY copyCmd.accesskey          "K">
+<!ENTITY pasteCmd.label            "Itsatsi">
+<!ENTITY pasteCmd.key            "V">
+<!ENTITY pasteCmd.accesskey          "s">
+<!ENTITY deleteCmd.label          "Ezabatu">
+<!ENTITY deleteCmd.accesskey        "E">
+<!ENTITY selectAllCmd.label          "Hautatu dena">
+<!ENTITY selectAllCmd.key          "A">
+<!ENTITY selectAllCmd.accesskey        "a">
+<!ENTITY preferencesCmd.label        "Aukerak…">
+<!ENTITY preferencesCmd.accesskey      "k">
+<!ENTITY preferencesCmdUnix.label       "Hobespenak">
+<!ENTITY preferencesCmdUnix.accesskey     "n">
 
-<!ENTITY viewMenu.label "Ikusi">
-<!ENTITY viewMenu.accesskey "i">
-<!ENTITY viewToolbarsMenu.label "Tresna-barrak">
-<!ENTITY viewToolbarsMenu.accesskey "T">
-<!ENTITY showTaskbarCmd.label "Egoera-barra">
-<!ENTITY showTaskbarCmd.accesskey "E">
+<!ENTITY viewMenu.label          "Ikusi">
+<!ENTITY viewMenu.accesskey        "I">
+<!ENTITY viewToolbarsMenu.label        "Tresna-barrak">
+<!ENTITY viewToolbarsMenu.accesskey      "T">
+<!ENTITY showTaskbarCmd.label          "Egoera-barra">
+<!ENTITY showTaskbarCmd.accesskey        "E">
 
-<!ENTITY proxy.label "Proxy-konfigurazioa…">
-<!ENTITY proxy.accesskey "K">
+<!ENTITY proxy.label                                    "Proxy-konfigurazioa…">
+<!ENTITY proxy.accesskey                                "k">
 
-<!ENTITY closeCmd.label "Itxi">
-<!ENTITY closeCmd.key "W">
-<!ENTITY closeCmd.accesskey "x">
+<!ENTITY closeCmd.label      "Itxi">
+<!ENTITY closeCmd.key      "W">
+<!ENTITY closeCmd.accesskey    "x">
 
-<!ENTITY quitApplicationCmd.label "Irten">
-<!ENTITY quitApplicationCmd.key "Q">
-<!ENTITY quitApplicationCmd.accesskey "r">
+<!ENTITY quitApplicationCmd.label  "Irten">
+<!ENTITY quitApplicationCmd.key    "Q">
+<!ENTITY quitApplicationCmd.accesskey  "r">
 
-<!ENTITY quitApplicationCmdUnix.label "Irten">
-<!ENTITY quitApplicationCmdUnix.accesskey "i">
+<!ENTITY quitApplicationCmdUnix.label  "Irten">
+<!ENTITY quitApplicationCmdUnix.accesskey  "I">
 
-<!ENTITY quitApplicationCmdMac.label "Itxi &brandShortName;">
-<!ENTITY quitApplicationCmdMac.accesskey "t">
+<!ENTITY quitApplicationCmdMac.label  "Itxi &brandShortName;">
+<!ENTITY quitApplicationCmdMac.accesskey  "t">

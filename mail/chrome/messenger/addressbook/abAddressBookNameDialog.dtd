@@ -36,5 +36,5 @@
  ***** END LICENSE BLOCK ***** -->
 <!-- Labels -->
 
-<!ENTITY name.label "Helbide-liburuaren izena:">
-<!ENTITY name.accesskey "H">
+<!ENTITY name.label      "Helbide-liburuaren izena:">
+<!ENTITY name.accesskey  "H">

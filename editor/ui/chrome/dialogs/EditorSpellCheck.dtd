@@ -42,7 +42,7 @@
 <!ENTITY wordEditField.label "Ordeztu honekin:">
 <!ENTITY wordEditField.accessKey "h">
 <!ENTITY checkwordButton.label "Egiaztatu hitza">
-<!ENTITY checkwordButton.accessKey "e">
+<!ENTITY checkwordButton.accessKey "E">
 <!ENTITY suggestions.label "Aholkuak:">
 <!ENTITY suggestions.accessKey "h">
 <!ENTITY ignoreButton.label "Baztertu">
@@ -50,11 +50,11 @@
 <!ENTITY ignoreAllButton.label "Baztertu denak">
 <!ENTITY ignoreAllButton.accessKey "d">
 <!ENTITY replaceButton.label "Ordeztu">
-<!ENTITY replaceButton.accessKey "R">
+<!ENTITY replaceButton.accessKey "r">
 <!ENTITY replaceAllButton.label "Ordeztu denak">
-<!ENTITY replaceAllButton.accessKey "A">
+<!ENTITY replaceAllButton.accessKey "a">
 <!ENTITY stopButton.label "Gelditu">
-<!ENTITY stopButton.accessKey "g">
+<!ENTITY stopButton.accessKey "G">
 <!ENTITY userDictionary.label "Hiztegi pertsonala:">
 <!ENTITY moreDictionaries.label "Deskargatu hiztegi gehiago...">
 <!ENTITY addToUserDictionaryButton.label "Hitza gehitu">
@@ -62,7 +62,7 @@
 <!ENTITY editUserDictionaryButton.label "Editatu...">
 <!ENTITY editUserDictionaryButton.accessKey "E">
 <!ENTITY recheckButton.label "Aztertu orria berriro">
-<!ENTITY recheckButton.accessKey "O">
+<!ENTITY recheckButton.accessKey "o">
 <!ENTITY closeButton.label "Itxi">
 <!ENTITY closeButton.accessKey "I">
 <!ENTITY sendButton.label "Bidali">

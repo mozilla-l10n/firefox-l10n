@@ -2,7 +2,7 @@
 
 <!ENTITY textStartUp "Abiaraztean:">
 <!ENTITY radioRememberPrevState.label "Gogoratu aurreko lineako egoera">
-<!ENTITY radioRememberPrevState.accesskey "R">
+<!ENTITY radioRememberPrevState.accesskey "r">
 <!ENTITY radioAskMe.label "Galdetu niri abiaraztean lineako egoeragatik">
 <!ENTITY radioAskMe.accesskey "u">
 <!ENTITY radioAlwaysOnline.label "Abiarazi linean beti">
@@ -21,4 +21,4 @@
 <!ENTITY radioNotDownload.label "Ez">
 <!ENTITY radioNotDownload.accesskey "z">
 <!ENTITY radioAskDownload.label "Galdetu niri">
-<!ENTITY radioAskDownload.accesskey "g">
+<!ENTITY radioAskDownload.accesskey "G">

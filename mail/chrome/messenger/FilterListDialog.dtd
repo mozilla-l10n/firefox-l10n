@@ -8,16 +8,16 @@
 <!ENTITY deleteButton.label "Ezabatu">
 <!ENTITY deleteButton.accesskey "t">
 <!ENTITY reorderUpButton.label "Eraman gorantz">
-<!ENTITY reorderUpButton.accesskey "G">
+<!ENTITY reorderUpButton.accesskey "g">
 <!ENTITY reorderDownButton.label "Eraman beherantz">
-<!ENTITY reorderDownButton.accesskey "B">
+<!ENTITY reorderDownButton.accesskey "b">
 <!ENTITY filterHeader.label "Gaitutako iragazkiak automatikoki exekutatzen dira, behean erakutsitako ordenan.">
 <!ENTITY filtersForPrefix.label "Honen iragazkiak:">
 <!ENTITY filtersForPrefix.accesskey "H">
 <!ENTITY viewLogButton.label "Iragazkien erregistroa">
-<!ENTITY viewLogButton.accesskey "E">
+<!ENTITY viewLogButton.accesskey "e">
 <!ENTITY runFilters.label "Abiarazi orain">
-<!ENTITY runFilters.accesskey "R">
+<!ENTITY runFilters.accesskey "r">
 <!ENTITY stopFilters.label "Gelditu">
 <!ENTITY stopFilters.accesskey "G">
 <!ENTITY folderPickerPrefix.label "Exekutatu eskuz aukeratutako iragazkia(k) karpeta honetan:">
@@ -26,4 +26,4 @@
 <!ENTITY choosethisnewsserver.label "aukeratu berri-talde zerbitzari hau">
 <!ENTITY helpButton.label "Laguntza">
 <!ENTITY helpButton.accesskey "L">
-<!ENTITY closeCmd.key "W">
+<!ENTITY closeCmd.key "W"> 

@@ -2,8 +2,8 @@
 <!ENTITY msgComposeWindow.title "Mezua prestatu: (gairik ez)">
 <!-- File Menu -->
 
-<!ENTITY fileMenu.label "Fitxategia">
-<!ENTITY fileMenu.accesskey "f">
+<!ENTITY fileMenu.label "Fitxategia"> 
+<!ENTITY fileMenu.accesskey "F">
 <!ENTITY newMenu.label "Berria">
 <!ENTITY newMenu.accesskey "B">
 <!ENTITY newMessage.label "Mezua">
@@ -11,7 +11,7 @@
 <!ENTITY newMessageCmd2.key "N">
 <!ENTITY newMessage.accesskey "M">
 <!ENTITY newContact.label "Helbide-liburuko kontaktua…">
-<!ENTITY newContact.accesskey "K">
+<!ENTITY newContact.accesskey "k">
 <!ENTITY attachMenu.label "Erantsi">
 <!ENTITY attachMenu.accesskey "t">
 <!ENTITY attachFileCmd.label "Fitxategia(k)…">
@@ -20,15 +20,15 @@
 <!ENTITY attachPageCmd.accesskey "W">
 <!--LOCALIZATION NOTE attachVCardCmd.label Don't translate the term 'vCard' -->
 <!ENTITY attachVCardCmd.label "Txartel pertsonala (vCard)">
-<!ENTITY attachVCardCmd.accesskey "P">
+<!ENTITY attachVCardCmd.accesskey "p">
 <!ENTITY closeCmd.label "Itxi">
 <!ENTITY closeCmd.key "W">
-<!ENTITY closeCmd.accesskey "i">
+<!ENTITY closeCmd.accesskey "I">
 <!ENTITY saveCmd.label "Gorde">
 <!ENTITY saveCmd.key "S">
-<!ENTITY saveCmd.accesskey "g">
+<!ENTITY saveCmd.accesskey "G">
 <!ENTITY saveAsCmd.label "Gorde honela">
-<!ENTITY saveAsCmd.accesskey "H">
+<!ENTITY saveAsCmd.accesskey "h">
 <!ENTITY saveAsFileCmd.label "Fitxategia…">
 <!ENTITY saveAsFileCmd.accesskey "F">
 <!ENTITY saveAsDraftCmd.label "Zirriborroa">
@@ -40,40 +40,41 @@
 <!ENTITY sendNowCmd.accesskey "d">
 <!ENTITY sendLaterCmd.label "Bidali beranduago">
 <!ENTITY sendLaterCmd.keycode "VK_RETURN">
-<!ENTITY sendLaterCmd.accesskey "L">
+<!ENTITY sendLaterCmd.accesskey "l">
 <!ENTITY printSetupCmd.label "Prestatu orria…">
 <!ENTITY printSetupCmd.accesskey "u">
 <!ENTITY printCmd.label "Inprimatu…">
 <!ENTITY printCmd.key "P">
-<!ENTITY printCmd.accesskey "P">
+<!ENTITY printCmd.accesskey "p">
 <!-- Edit Menu -->
 
-<!ENTITY editMenu.label "Editatu">
-<!ENTITY editMenu.accesskey "e">
+<!ENTITY editMenu.label "Editatu"> 
+<!ENTITY editMenu.accesskey "E">
 <!ENTITY undoCmd.label "Desegin">
 <!ENTITY undoCmd.key "Z">
-<!ENTITY undoCmd.accesskey "d">
+<!ENTITY undoCmd.accesskey "D"> 
 <!ENTITY redoCmd.label "Berregin">
 <!ENTITY redoCmd.key "Y">
-<!ENTITY redoCmd.accesskey "r">
+<!ENTITY redoCmd.accesskey "r"> 
 <!ENTITY cutCmd.label "Ebaki">
 <!ENTITY cutCmd.key "X">
-<!ENTITY cutCmd.accesskey "e">
+<!ENTITY cutCmd.accesskey "E"> 
 <!ENTITY copyCmd.label "Kopiatu">
 <!ENTITY copyCmd.key "C">
-<!ENTITY copyCmd.accesskey "k">
+<!ENTITY copyCmd.accesskey "K"> 
 <!ENTITY pasteCmd.label "Itsatsi">
 <!ENTITY pasteCmd.key "V">
 <!ENTITY pasteCmd.accesskey "s">
 <!ENTITY pasteNoFormattingCmd.key "V">
+<!ENTITY pasteAsQuotationCmd.key "o">
 <!ENTITY editRewrapCmd.label "Berritzulbiratu">
 <!ENTITY editRewrapCmd.key "R">
 <!ENTITY editRewrapCmd.accesskey "z">
 <!ENTITY deleteCmd.label "Ezabatu">
-<!ENTITY deleteCmd.accesskey "e">
+<!ENTITY deleteCmd.accesskey "E">
 <!ENTITY selectAllCmd.label "Hautatu dena">
 <!ENTITY selectAllCmd.key "A">
-<!ENTITY selectAllCmd.accesskey "a">
+<!ENTITY selectAllCmd.accesskey "a"> 
 <!ENTITY findCmd.label "Bilatu eta ordeztu…">
 <!ENTITY findCmd.key "F">
 <!ENTITY findCmd.accesskey "B">
@@ -84,13 +85,13 @@
 <!ENTITY findPrevCmd.label "Bilatu aurrekoa">
 <!ENTITY findPrevCmd.key "G">
 <!ENTITY findPrevCmd.key2 "VK_F3">
-<!ENTITY findPrevCmd.accesskey "o">
+<!ENTITY findPrevCmd.accesskey "o"> 
 <!-- View Menu -->
 
-<!ENTITY viewMenu.label "Ikusi">
-<!ENTITY viewMenu.accesskey "i">
-<!ENTITY viewToolbarsMenuNew.label "Tresna-barrak">
-<!ENTITY viewToolbarsMenuNew.accesskey "T">
+<!ENTITY viewMenu.label "Ikusi"> 
+<!ENTITY viewMenu.accesskey "I">
+<!ENTITY viewToolbarsMenuNew.label "Tresna-barrak"> 
+<!ENTITY viewToolbarsMenuNew.accesskey "T"> 
 <!ENTITY showCompositionToolbarCmd.label "Konposizio tresna-barra">
 <!ENTITY showCompositionToolbarCmd.accesskey "o">
 <!ENTITY showFormattingBarCmd.label "Formatu-barra">
@@ -100,8 +101,8 @@
 <!ENTITY customizeToolbar.label "Pertsonalizatu…">
 <!ENTITY customizeToolbar.accesskey "P">
 
-<!ENTITY addressSidebar.label "Kontaktuen alboko barra">
-<!ENTITY addressSidebar.accesskey "o">
+<!ENTITY addressSidebar.label "Kontaktuen alboko barra"> 
+<!ENTITY addressSidebar.accesskey "o"> 
 <!-- Format Menu -->
 
 <!ENTITY formatMenu.label "Formatua">
@@ -126,31 +127,31 @@
 <!ENTITY returnReceiptMenu.label "Hartu-agiria">
 <!ENTITY returnReceiptMenu.accesskey "t">
 <!ENTITY dsnMenu.label "Banaketa egoeraren jakinarazpena">
-<!ENTITY dsnMenu.accesskey "N">
+<!ENTITY dsnMenu.accesskey "n">
 <!ENTITY outputFormatMenu.label "Formatua">
-<!ENTITY outputFormatMenu.accesskey "f">
+<!ENTITY outputFormatMenu.accesskey "F">
 <!ENTITY autoFormatCmd.label "Auto-detektatu">
-<!ENTITY autoFormatCmd.accesskey "a">
+<!ENTITY autoFormatCmd.accesskey "A">
 <!ENTITY plainTextFormatCmd.label "Testu arrunta soilik">
 <!ENTITY plainTextFormatCmd.accesskey "s">
 <!ENTITY htmlFormatCmd.label "Testu aberatsa (HTML) soilik">
 <!ENTITY htmlFormatCmd.accesskey "r">
 <!ENTITY bothFormatCmd.label "Testu arrunt eta aberatsa (HTML)">
-<!ENTITY bothFormatCmd.accesskey "l">
+<!ENTITY bothFormatCmd.accesskey "L">
 <!ENTITY priorityMenu.label "Lehentasuna">
-<!ENTITY priorityMenu.accesskey "l">
+<!ENTITY priorityMenu.accesskey "L">
 <!ENTITY priorityButton.label "Lehentasuna:">
 <!ENTITY lowestPriorityCmd.label "Baxuena">
-<!ENTITY lowestPriorityCmd.accesskey "b">
+<!ENTITY lowestPriorityCmd.accesskey "B">
 <!ENTITY lowPriorityCmd.label "Baxua">
 <!ENTITY lowPriorityCmd.accesskey "x">
 <!ENTITY normalPriorityCmd.label "Normala">
-<!ENTITY normalPriorityCmd.accesskey "n">
+<!ENTITY normalPriorityCmd.accesskey "N">
 <!ENTITY highPriorityCmd.label "Altua">
 <!ENTITY highPriorityCmd.accesskey "t">
 <!ENTITY highestPriorityCmd.label "Altuena">
 <!ENTITY highestPriorityCmd.accesskey "A">
-<!ENTITY fileCarbonCopyCmd.label "Bidali kopia bat honi:">
+<!ENTITY fileCarbonCopyCmd.label "Bidali kopia bat honi">
 <!ENTITY fileCarbonCopyCmd.accesskey "d">
 <!ENTITY fileHereMenu.label "Gorde hemen">
 <!-- Tools Menu -->
@@ -158,24 +159,24 @@
 <!ENTITY tasksMenu.label "Tresnak">
 <!ENTITY tasksMenu.accesskey "T">
 <!ENTITY messengerCmd.label "Posta eta berri-taldeak">
-<!ENTITY messengerCmd.accesskey "p">
+<!ENTITY messengerCmd.accesskey "P">
 <!ENTITY messengerCmd.commandkey "1">
 <!ENTITY addressBookCmd.label "Helbide-liburua">
 <!ENTITY addressBookCmd.accesskey "a">
 <!ENTITY addressBookCmd.key "B">
 <!ENTITY accountManagerCmd.label "Kontu-ezarpenak…">
-<!ENTITY accountManagerCmd.accesskey "k">
-<!ENTITY accountManagerCmdUnix.accesskey "S">
+<!ENTITY accountManagerCmd.accesskey "K">
+<!ENTITY accountManagerCmdUnix.accesskey "K">
 <!ENTITY preferencesCmd.label "Aukerak…">
 <!ENTITY preferencesCmd.accesskey "A">
-<!ENTITY preferencesCmdUnix.label "Hobespenak">
-<!ENTITY preferencesCmdUnix.accesskey "n">
+<!ENTITY preferencesCmdUnix.label       "Hobespenak">
+<!ENTITY preferencesCmdUnix.accesskey   "n"> 
 <!--  Mac OS X Window Menu -->
 
 <!ENTITY minimizeWindow.key "m">
 <!ENTITY minimizeWindow.label "Txikitu">
 <!ENTITY bringAllToFront.label "Ekarri denak aurrera">
-<!ENTITY zoomWindow.label "Zooma">
+<!ENTITY zoomWindow.label "Zooma"> 
 <!ENTITY windowMenu.label "Leihoa">
 <!-- Mail Toolbar -->
 
@@ -187,28 +188,33 @@
 <!ENTITY saveButton.label "Gorde">
 <!-- Mail Toolbar Tooltips -->
 
-<!ENTITY sendButton.tooltip "Bidali mezua orain">
-<!ENTITY sendlaterButton.tooltip "Bidali mezua beranduago">
-<!ENTITY quoteButton.tooltip "Aipatu aurreko mezua">
-<!ENTITY addressButton.tooltip "Hautatu hartzaile bat helbide-liburuan">
-<!ENTITY attachButton.tooltip "Erantsi fitxategia">
-<!ENTITY saveButton.tooltip "Gorde mezu hau">
-<!ENTITY cutButton.tooltip "Ebaki">
-<!ENTITY copyButton.tooltip "Kopiatu">
-<!ENTITY pasteButton.tooltip "Itsatsi">
+<!ENTITY sendButton.tooltip "Bidali mezua orain"> 
+<!ENTITY sendlaterButton.tooltip "Bidali mezua beranduago"> 
+<!ENTITY quoteButton.tooltip "Aipatu aurreko mezua"> 
+<!ENTITY addressButton.tooltip "Hautatu hartzaile bat helbide-liburuan"> 
+<!ENTITY attachButton.tooltip "Erantsi fitxategia"> 
+<!ENTITY spellingButton.tooltip "Egiaztatu hautapenaren edo orri osoaren ortografia">
+<!ENTITY saveButton.tooltip "Gorde mezu hau"> 
+<!ENTITY cutButton.tooltip              "Ebaki">
+<!ENTITY copyButton.tooltip             "Kopiatu">
+<!ENTITY pasteButton.tooltip            "Itsatsi">
 <!-- Headers -->
+<!--LOCALIZATION NOTE headersSpace.style is for aligning  the From:, To: and
+    Subject: rows. It should be larger than the largest Header label  -->
 
+<!ENTITY headersSpace.style "width: 9em;">
 <!ENTITY fromAddr.label "Nork:">
 <!ENTITY fromAddr.accesskey "r">
-<!ENTITY toAddr.label "Nori:">
-<!ENTITY ccAddr.label "Cc:">
-<!ENTITY bccAddr.label "Bcc:">
-<!ENTITY replyAddr.label "Erantzun honi:">
-<!ENTITY newsgroupsAddr.label "Berri-taldea:">
-<!ENTITY followupAddr.label "Jarraipena honi:">
+<!ENTITY toAddr.label "Nori:"> 
+<!ENTITY ccAddr.label "Cc:"> 
+<!ENTITY bccAddr.label "Bcc:"> 
+<!ENTITY replyAddr.label "Erantzun honi:"> 
+<!ENTITY newsgroupsAddr.label "Berri-taldea:"> 
+<!ENTITY followupAddr.label "Jarraipena honi:"> 
 <!ENTITY subject.label "Gaia:">
 <!ENTITY subject.accesskey "G">
-<!ENTITY attachments.label "Eranskinak:">
+<!-- LOCALIZATION NOTE attachments.accesskey This access key should correspond
+     to the strings in attachmentCount in composeMsgs.properties -->
 <!ENTITY attachments.accesskey "n">
 <!-- Format Toolbar, imported from editorAppShell.xul -->
 
@@ -233,32 +239,38 @@
 
 <!ENTITY spellCheckNoSuggestions.label "Ez da iradokizunik aurkitu">
 <!ENTITY spellCheckIgnoreWord.label "Ezikusi hitza">
-<!ENTITY spellCheckIgnoreWord.accesskey "I">
+<!ENTITY spellCheckIgnoreWord.accesskey "i">
 <!ENTITY spellCheckAddToDictionary.label "Gehitu hiztegira">
-<!ENTITY spellCheckAddToDictionary.accesskey "g">
+<!ENTITY spellCheckAddToDictionary.accesskey "G">
 <!ENTITY undo.label "Desegin">
 <!ENTITY undo.accesskey "D">
 <!ENTITY cut.label "Ebaki">
-<!ENTITY cut.accesskey "e">
+<!ENTITY cut.accesskey "E">
 <!ENTITY copy.label "Kopiatu">
 <!ENTITY copy.accesskey "K">
 <!ENTITY paste.label "Itsatsi">
-<!ENTITY paste.accesskey "S">
+<!ENTITY paste.accesskey "s">
 <!ENTITY pasteQuote.label "Itsatsi aipamen bezala">
-<!ENTITY pasteQuote.accesskey "P">
+<!ENTITY pasteQuote.accesskey "p">
 
 <!ENTITY openAttachment.label "Ireki">
 <!ENTITY openAttachment.accesskey "I">
 <!ENTITY delete.label "Ezabatu">
 <!ENTITY delete.accesskey "E">
+<!ENTITY removeAttachment.label "Kendu eranskinak">
+<!ENTITY removeAttachment.accesskey "K">
 <!ENTITY renameAttachment.label "Berrizendatu…">
-<!ENTITY renameAttachment.accesskey "R">
+<!ENTITY renameAttachment.accesskey "r">
 <!ENTITY selectAll.label "Hautatu dena">
-<!ENTITY selectAll.accesskey "A">
+<!ENTITY selectAll.accesskey "a">
 <!ENTITY attachFile.label "Erantsi fitxategia(k)…">
-<!ENTITY attachFile.accesskey "F">
+<!ENTITY attachFile.accesskey "f">
 <!ENTITY attachPage.label "Erantsi web orria…">
-<!ENTITY attachPage.accesskey "W">
+<!ENTITY attachPage.accesskey "w">
+<!-- Spell checker context menu items -->
+
+<!ENTITY spellAddDictionaries.label "Gehitu hiztegiak…">
+<!ENTITY spellAddDictionaries.accesskey "G">
 <!-- Title for the address picker panel -->
 
 <!ENTITY addressesSidebarTitle.label "Kontaktuak">

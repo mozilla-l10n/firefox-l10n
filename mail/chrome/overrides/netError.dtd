@@ -110,16 +110,22 @@
 <!ENTITY phishingBlocked.title "Ustezko web iruzurra!">
 <!ENTITY phishingBlocked.longDesc "<p>Orri honetan informazio pertsonala idaztean nortasun iruzur bat egiteko aukera dago.</p>s <p>Mota honetako web iruzurrak phishing erasoak bezala ezagutzen dira, konfiantza duzun webgune eta e-posta helbideak imitatzen dira.</p>">
 
+<!ENTITY cspFrameAncestorBlocked.title "Edukien segurtasun-politikak blokeatuta">
+<!ENTITY cspFrameAncestorBlocked.longDesc "<p>&brandShortName;(e)k orri hau modu honetan kargatzea eragotzi du onartzen ez den edukien-segurtasun politika duelako.</p>">
+
 <!ENTITY securityOverride.linkText "Edo salbuespen bat gehitu dezakezu…">
 <!ENTITY securityOverride.getMeOutOfHereButton "Eraman hemendik at!">
 <!ENTITY securityOverride.exceptionButtonLabel "Gehitu salbuespena…">
-<!-- LOCALIZATION NOTE (securityOverride.warningText) - Do not translate the
-contents of the <xul:button> tags.  The only language content is the label= field,
-which uses strings already defined above. The button is included here (instead of
-netError.xhtml) because it exposes functionality specific to thunderbird. -->
+<!-- LOCALIZATION NOTE (securityOverride.warningContent) - Do not translate the
+contents of the <button> tags. It uses strings already defined above. The
+button is included here (instead of netError.xhtml) because it exposes
+functionality specific to thunderbird. -->
 
 
-<!ENTITY securityOverride.warningText "<p>Ez zenuke salbuespen bat gehitu beharko erabiltzen ari zaren konexioaz ez bazara guztiz fidatzen edo ez baduzu zerbitzari honen errorerik ikusteko erabiltzen.</p> 
+<!ENTITY securityOverride.warningContent "<p>Ez zenuke salbuespenik gehitu behar erabat fidatzekoa ez den Internet konexio bat erabiltzen ari bazara edo ez bazaude ohituta zerbitzari honetarako abisuak ikustera.</p> 
  
-<xul:button xmlns:xul='http://www.mozilla.org/keymaster/gatekeeper/there.is.only.xul' id='getMeOutOfHereButton' label='&securityOverride.getMeOutOfHereButton;'/> 
-<xul:button xmlns:xul='http://www.mozilla.org/keymaster/gatekeeper/there.is.only.xul' id='exceptionDialogButton' label='&securityOverride.exceptionButtonLabel;'/>">
+<button id='getMeOutOfHereButton'>&securityOverride.getMeOutOfHereButton;</button> 
+<button id='exceptionDialogButton'>&securityOverride.exceptionButtonLabel;</button>">
+
+<!ENTITY remoteXUL.title "Urruneko XUL">
+<!ENTITY remoteXUL.longDesc "<p><ul><li>Jar zaitez webgunearen jabeekin harremanetan arazo honen berri emateko.</li></ul></p>">

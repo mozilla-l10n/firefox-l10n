@@ -2,9 +2,13 @@
 
 <!ENTITY accountManagerTitle.label "Kontu-ezarpenak">
 
-<!ENTITY addAccountButton.label "Gehitu kontua…">
-<!ENTITY addAccountButton.accesskey "G">
-<!ENTITY setDefaultButton.label "Lehenetsi">
+<!ENTITY accountActionsButton.label "Kontuaren ekintzak">
+<!ENTITY accountActionsButton.accesskey "K">
+<!ENTITY addMailAccountButton.label "Gehitu posta-kontua…">
+<!ENTITY addMailAccountButton.accesskey "G">
+<!ENTITY addOtherAccountButton.label "Gehitu bestelako kontua…">
+<!ENTITY addOtherAccountButton.accesskey "b">
+<!ENTITY setDefaultButton.label "Ezarri lehenetsi gisa">
 <!ENTITY setDefaultButton.accesskey "l">
 <!ENTITY removeButton.label "Ezabatu kontua">
 <!ENTITY removeButton.accesskey "E">
@@ -18,5 +22,5 @@
      XUL/FE DEVELOPERS: DO NOT MODIFY THIS VALUE. It represents the correct size of
      this window for en-US. -->
 
-<!ENTITY accountManager.size "width: 55em; height: 44em;">
-<!ENTITY accountTree.width "width: 17em;">
+<!ENTITY accountManager.size "width: 111ch; height: 55em;">
+<!ENTITY accountTree.width "width: 36ch;">

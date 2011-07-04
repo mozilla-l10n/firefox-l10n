@@ -1,11 +1,11 @@
-<!ENTITY notificationsDialog2.title "Pertsonalizatu posta berriaren alerta">
-<!ENTITY window.width "30em">
+<!ENTITY notificationsDialog2.title       "Pertsonalizatu posta berriaren alerta">
+<!ENTITY window.width                     "30em">
 
-<!ENTITY alertCustomization.intro "Aukeratu zein eremu nahi duzun erakustea jakinarazpen-alertan:">
-<!ENTITY previewText.label "Mezuaren aurreikuspen-testua">
-<!ENTITY previewText.accesskey "M">
-<!ENTITY subject.label "Gaia">
-<!ENTITY subject.accesskey "G">
-<!ENTITY sender.label "Bidaltzailea">
-<!ENTITY sender.accesskey "e">
+<!ENTITY alertCustomization.intro         "Aukeratu zein eremu nahi duzun erakustea jakinarazpen-alertan:">
+<!ENTITY previewText.label                "Mezuaren aurreikuspen-testua">
+<!ENTITY previewText.accesskey            "M">
+<!ENTITY subject.label                    "Gaia">
+<!ENTITY subject.accesskey                "G">
+<!ENTITY sender.label                     "Bidaltzailea">
+<!ENTITY sender.accesskey                 "e">
 

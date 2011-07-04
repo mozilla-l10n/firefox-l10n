@@ -37,12 +37,12 @@
 <!-- Window title -->
 
 
-<!ENTITY windowTitle.label "Taula bihurtu">
-<!ENTITY instructions1.label "Composer-ek taula lerro berri bat sortuko du hautapeneko paragrafo bakoitzarentzat.">
-<!ENTITY instructions2.label "Aukeratu hautapena zutabeetan bereizteko erabiliko den karakterea:">
-<!ENTITY commaRadio.label "Koma">
-<!ENTITY spaceRadio.label "Zuriunea">
-<!ENTITY otherRadio.label "Beste karaktere bat:">
-<!ENTITY deleteCharCheck.label "Karaktere bereizlea ezabatu">
-<!ENTITY collapseSpaces.label "Zuriune gehigarriak albo batetara utzi">
-<!ENTITY collapseSpaces.tooltip "Alboko zuriuneak bereizle bat bihurtu">
+<!ENTITY windowTitle.label "Bihurtu taula">
+<!ENTITY instructions1.label   "Mezu-prestatzaileak taula lerro berri bat sortuko du hautapeneko paragrafo bakoitzarentzat.">
+<!ENTITY instructions2.label   "Aukeratu hautapena zutabeetan bereizteko erabiliko den karakterea:">
+<!ENTITY commaRadio.label      "Koma">
+<!ENTITY spaceRadio.label      "Zuriunea">
+<!ENTITY otherRadio.label      "Beste karaktere bat:">
+<!ENTITY deleteCharCheck.label "Ezabatu karaktere bereizlea">
+<!ENTITY collapseSpaces.label  "Alboratu zuriune gehigarriak">
+<!ENTITY collapseSpaces.tooltip "Bihurtu bereizle alboko zuriuneak">

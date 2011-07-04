@@ -34,7 +34,7 @@
  the terms of any one of the MPL, the GPL or the LGPL.
 
  ***** END LICENSE BLOCK ***** -->
-<!ENTITY nameColumn.label "Izena">
-<!ENTITY unreadColumn.label "Irakurri gabeak">
-<!ENTITY totalColumn.label "Guztira">
-<!ENTITY folderSizeColumn.label "Tamaina">
+<!ENTITY nameColumn.label   "Izena"> 
+<!ENTITY unreadColumn.label "Irakurri gabeak"> 
+<!ENTITY totalColumn.label "Guztira"> 
+<!ENTITY folderSizeColumn.label "Tamaina"> 

@@ -1,0 +1,82 @@
+<!ENTITY autoconfigWizard.title          "Posta-kontuaren konfigurazioa">
+<!ENTITY name.label                      "Zure izena:">
+<!ENTITY name.accesskey                  "n">
+<!ENTITY name.placeholder                "Izena, abizena">
+<!ENTITY name.text                       "Zure izena, besteei erakutsiko zaien bezala">
+<!ENTITY email.label                     "Helbide elektronikoa:">
+<!ENTITY email.accesskey                 "l">
+<!ENTITY email.placeholder               "eposta@adibidea.com">
+<!ENTITY password.label                  "Pasahitza:">
+<!ENTITY password.accesskey              "P">
+<!ENTITY password.placeholder            "Pasahitza">
+<!ENTITY password.text                   "Aukerazkoa, erabiltzaile-izena egiaztatzeko erabiliko da soilik">
+<!ENTITY rememberPassword.label          "Gogoratu pasahitza">
+<!ENTITY rememberPassword.accesskey      "G">
+
+<!ENTITY imapLong.label                  "IMAP (urruneko karpetak)">
+<!ENTITY pop3Long.label                  "POP3 (mantendu posta zure ordenagailuan)">
+
+<!ENTITY incoming.label                  "Sarrerakoa:">
+<!ENTITY outgoing.label                  "Irteerakoa:">
+<!ENTITY username.label                  "Erabiltzaile izena:">
+<!ENTITY hostname.label                  "Zerbitzariaren ostalari-izena">
+<!ENTITY port.label                      "Ataka">
+<!ENTITY ssl.label                       "SSL">
+<!ENTITY auth.label                      "Autentifikazioa">
+<!ENTITY imap.label                      "IMAP">
+<!ENTITY pop3.label                       "POP3">
+<!ENTITY smtp.label                      "SMTP">
+<!ENTITY autodetect.label                "Autodetektatu">
+<!-- LOCALIZATION NOTE(noEncryption.label): Neither SSL/TLS nor STARTTLS.
+     Transmission of emails in cleartext over the Internet. -->
+<!ENTITY noEncryption.label              "Bat ere ez">
+<!ENTITY starttls.label                  "STARTTLS">
+<!ENTITY sslTls.label                    "SSL/TLS">
+
+<!ENTITY advancedSetup.label             "Konfigurazio aurreratua">
+<!ENTITY advancedSetup.accesskey         "a">
+<!ENTITY cancel.label                    "Utzi">
+<!ENTITY cancel.accesskey                "U">
+<!ENTITY continue.label                  "Jarraitu">
+<!ENTITY continue.accesskey              "J">
+<!ENTITY stop.label                      "Gelditu">
+<!ENTITY stop.accesskey                  "G">
+<!-- LOCALIZATION NOTE (half-manual-test.label): This is the text that is
+     displayed on the button in manual edit mode which will re-guess
+     the account configuration, taking into account the settings that
+     the user has manually changed. -->
+<!ENTITY half-manual-test.label          "Birprobatu">
+<!ENTITY half-manual-test.accesskey      "B">
+<!ENTITY manual-edit.label               "Eskuzko konfigurazioa">
+<!ENTITY manual-edit.accesskey           "E">
+
+
+<!ENTITY warning.label                   "Kontuz!">
+<!ENTITY incomingSettings.label          "Sarrerako ezarpenak:">
+<!ENTITY outgoingSettings.label          "Irteerako ezarpenak:">
+<!ENTITY technicaldetails.label          "Xehetasun teknikoak">
+<!-- LOCALIZATION NOTE (confirmWarning.label): If there is a security
+     warning on the outgoing server, then the user will need to check a
+     checkbox beside this text before continuing. -->
+<!ENTITY confirmWarning.label            "Arriskuak ulertzen ditut.">
+<!ENTITY confirmWarning.accesskey        "u">
+<!-- LOCALIZATION NOTE (createAccount.label): If there is a security warning
+     on the incoming or outgoing servers, then the page that pops up will
+     have this text in a button to continue by creating the account. -->
+<!ENTITY createAccount.label             "Sortu kontua">
+<!ENTITY createAccount.accesskey         "S">
+<!-- LOCALIZATION NOTE (changeSettings.label): If there is a security warning on
+     the incoming or outgoing servers, then the page that pops up will have
+     this text in a button to take you back to the previous page to change
+     the settings and try again. -->
+<!ENTITY changeSettings.label            "Aldatu ezarpenak">
+<!ENTITY changeSettings.accesskey        "z">
+
+<!ENTITY contactYourProvider.description "&brandShortName;(e)k dakartzan konfigurazioekin zure posta eskura dezakezu. Halere, konexio desegokiak horiek direla-eta, zure sistemaren kudeatzailearekin jarri behar zenuke harremanetan. Ikusi Thunderbirden FAQa argibide gehiagorako.">
+
+<!ENTITY insecureServer.tooltip.title    "Abisua! Zerbitzari hau ez da segurua.">
+<!ENTITY insecureServer.tooltip.details  "Egin klik zirkuluan xehetasun gehiagorako.">
+
+<!ENTITY insecureUnencrypted.description "Zure mezu elektronikoa eta autentifikazioa zifratu gabe bidaltzen dira, beraz zure pasahitza (eta mezua) beste norbaitek erraz irakur lezake. &brandShortName;(e)k posta eskuratuko du, baina posta-hornitzailearekin jarri beharko zinateke harremanetan zerbitzaria konexio seguru bidez konfiguratzeko.">
+<!ENTITY insecureSelfSigned.description  "Zerbitzariak fida ezin gaitezkeen ziurtagiria erabiltzen du, beraz ezin dugu ziur egon zure inor zerbitzariaren eta &brandShortName;(e)n arteko trafikoa atzematen dabilenik. &brandShortName;(e)k zure posta eskuratuko du, baina zure posta-hornitzaileak fidatzeko moduko ziurtagiria erabiltzea lortu behar zenuke.">
+<!ENTITY secureServer.description        "Zorionak! Zerbitzari segurua da hau.">

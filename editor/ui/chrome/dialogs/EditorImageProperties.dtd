@@ -44,13 +44,13 @@
 <!-- These are in the Location tab panel -->
 
 <!ENTITY locationEditField.label "Irudiaren kokalekua:">
-<!ENTITY locationEditField.accessKey "K">
+<!ENTITY locationEditField.accessKey "k">
 <!ENTITY locationEditField.tooltip "Idatzi irudiaren fitxategi-izena edo kokalekua">
 <!ENTITY title.label "Argibidea:">
 <!ENTITY title.accessKey "A">
 <!ENTITY title.tooltip "Html 'title' atributua erakutsiko da argibide bezala">
 <!ENTITY altText.label "Testu alternatiboa:">
-<!ENTITY altText.accessKey "A">
+<!ENTITY altText.accessKey "a">
 <!ENTITY altTextEditField.tooltip "Idatzi irudiaren ordez ikusiko den testua">
 <!ENTITY noAltText.label "Ez erabili testu alternatiboa">
 <!ENTITY noAltText.accessKey "E">
@@ -64,10 +64,10 @@
 <!ENTITY actualSizeRadio.accessKey "U">
 <!ENTITY actualSizeRadio.tooltip "Itzuli irudiaren uneko tamainara">
 <!ENTITY customSizeRadio.label "Tamaina pertsonalizatua">
-<!ENTITY customSizeRadio.accessKey "S">
+<!ENTITY customSizeRadio.accessKey "s">
 <!ENTITY customSizeRadio.tooltip "Aldatu irudiaren tamaina orrian bistaratu bezala">
 <!ENTITY heightEditField.label "Altuera:">
-<!ENTITY heightEditField.accessKey "T">
+<!ENTITY heightEditField.accessKey "t">
 <!ENTITY widthEditField.label "Zabalera:">
 <!ENTITY widthEditField.accessKey "Z">
 <!ENTITY constrainCheckbox.label "Mantendu">
@@ -100,7 +100,7 @@
 <!-- These controls are in the Link Box -->
 
 <!ENTITY showImageLinkBorder.label "Lotutako irudiaren inguruan ertza erakutsi">
-<!ENTITY showImageLinkBorder.accessKey "E">
+<!ENTITY showImageLinkBorder.accessKey "e">
 <!-- These tabs are currently used in the image input dialog -->
 
 <!ENTITY imageInputTab.label "Inprimakia">

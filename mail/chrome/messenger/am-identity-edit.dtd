@@ -1,6 +1,7 @@
+<!ENTITY identityDialog.style "width: 67ch;">
 <!ENTITY identityTitle.label "Identitate-ezarpenak">
 <!ENTITY identityListDesc.label "Konfiguratu identitate honen ezarpenak:">
 
-<!ENTITY settingsTab.label "Ezarpenak">
+<!ENTITY settingsTab.label       "Ezarpenak">
 <!ENTITY copiesFoldersTab.label "Kopiak eta karpetak">
-<!ENTITY addressingTab.label "Mezuak prestatzea eta helbideratzea">
+<!ENTITY addressingTab.label    "Mezuak prestatzea eta helbideratzea">

@@ -41,17 +41,17 @@
 
 <!ENTITY dimensionsBox.label "Neurriak">
 <!ENTITY heightEditField.label "Altuera:">
-<!ENTITY heightEditField.accessKey "T">
+<!ENTITY heightEditField.accessKey "t">
 <!ENTITY widthEditField.label "Zabalera:">
 <!ENTITY widthEditField.accessKey "Z">
 <!ENTITY pixelsPopup.value "pixel">
 <!ENTITY alignmentBox.label "Lerrokatzea">
 <!ENTITY leftRadio.label "Ezkerra">
-<!ENTITY leftRadio.accessKey "Z">
+<!ENTITY leftRadio.accessKey "z">
 <!ENTITY centerRadio.label "Erdia">
 <!ENTITY centerRadio.accessKey "E">
 <!ENTITY rightRadio.label "Eskuina">
-<!ENTITY rightRadio.accessKey "S">
+<!ENTITY rightRadio.accessKey "s">
 
 <!ENTITY threeDShading.label "3-D Itzal nabarmentzea">
 <!ENTITY threeDShading.accessKey "I">

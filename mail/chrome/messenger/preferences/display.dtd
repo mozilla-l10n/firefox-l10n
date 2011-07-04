@@ -1,48 +1,46 @@
-<!ENTITY itemFormatting.label "Formatua ematea">
-<!ENTITY itemTags.label "Etiketak">
+<!ENTITY itemFormatting.label             "Formatua ematea">
+<!ENTITY itemTags.label                   "Etiketak">
 
-<!ENTITY style.label "Estiloa:">
-<!ENTITY style.accesskey "i">
-<!ENTITY regularStyle.label "Arrunta">
-<!ENTITY bold.label "Lodia">
-<!ENTITY italic.label "Etzana">
-<!ENTITY boldItalic.label "Lodi etzana">
-<!ENTITY size.label "Tamaina:">
-<!ENTITY size.accesskey "i">
-<!ENTITY regularSize.label "Arrunta">
-<!ENTITY bigger.label "Handiagoa">
-<!ENTITY smaller.label "Txikiagoa">
-<!ENTITY color.label "Kolorea:">
-<!ENTITY color.accesskey "k">
-<!ENTITY displayWidth.label "Testu-arrunteko mezuak">
-<!ENTITY plainText.label "Erabili letra-tipo hau:">
-<!ENTITY displayText.label "Zitatutako testu-arrunteko mezuak bistaratzean:">
-<!ENTITY fixedWidth.label "Zabalera finkodun letra-tipoa">
-<!ENTITY fixedWidth.accesskey "f">
-<!ENTITY variableWidth.label "Zabalera aldakorreko letra-tipoa">
-<!ENTITY variableWidth.accesskey "L">
-<!ENTITY colors.label "Koloreak">
-<!ENTITY overrideColors.label "Erabili ondorengo koloreak mezuak bistaratzean:">
-<!ENTITY textColor.label "Testuaren kolorea:">
-<!ENTITY textColor.accesskey "T">
-<!ENTITY backgroundColor.label "Atzeko planoko kolorea:">
-<!ENTITY backgroundColor.accesskey "a">
+<!ENTITY style.label                      "Estiloa:">
+<!ENTITY style.accesskey                  "i">
+<!ENTITY regularStyle.label               "Arrunta">
+<!ENTITY bold.label                       "Lodia">
+<!ENTITY italic.label                     "Etzana">
+<!ENTITY boldItalic.label                 "Lodi etzana">
+<!ENTITY size.label                       "Tamaina:">
+<!ENTITY size.accesskey                   "T">
+<!ENTITY regularSize.label                "Arrunta">
+<!ENTITY bigger.label                     "Handiagoa">
+<!ENTITY smaller.label                    "Txikiagoa">
+<!ENTITY color.label                      "Kolorea:">
+<!ENTITY color.accesskey                  "K">
+<!ENTITY displayWidth.label               "Testu-arrunteko mezuak">
+<!ENTITY displayText.label                "Zitatutako testu-arrunteko mezuak bistaratzean:">
+<!ENTITY colors.label                     "Koloreak">
+<!ENTITY overrideColors.label             "Erabili ondorengo koloreak mezuak bistaratzean:">
+<!ENTITY textColor.label                  "Testuaren kolorea:">
+<!ENTITY textColor.accesskey              "T">
+<!ENTITY backgroundColor.label            "Atzeko planoko kolorea:">
+<!ENTITY backgroundColor.accesskey        "A">
 <!-- LOCALIZATION NOTE : (emoticonsAndStructs.label) 'Emoticons' are also known as 'Smileys', e.g. :-)   -->
 
-<!ENTITY convertEmoticons.label "Bistaratu aurpegierak eta grafikoak">
-<!ENTITY convertEmoticons.accesskey "B">
+<!ENTITY convertEmoticons.label        "Bistaratu aurpegierak eta grafikoak">
+<!ENTITY convertEmoticons.accesskey    "B">
 <!-- labels -->
 
-<!ENTITY displayTagsText.label "Mezuak sailkatu eta lehentasunak zehazteko erabil daitezke etiketak.">
-<!ENTITY addTagButton.label "Gehitu">
-<!ENTITY addTagButton.accesskey "G">
-<!ENTITY editTagButton.label "Editatu">
-<!ENTITY editTagButton.accesskey "E">
-<!ENTITY removeTagButton.label "Ezabatu">
-<!ENTITY removeTagButton.accesskey "Z">
+<!ENTITY displayTagsText.label     "Mezuak sailkatu eta lehentasunak zehazteko erabil daitezke etiketak.">
+<!ENTITY addTagButton.label        "Gehitu">
+<!ENTITY addTagButton.accesskey    "G">
+<!ENTITY editTagButton.label       "Editatu">
+<!ENTITY editTagButton.accesskey   "E">
+<!ENTITY removeTagButton.label     "Ezabatu">
+<!ENTITY removeTagButton.accesskey "z">
 <!-- Fonts -->
 
-<!ENTITY fontAndEncodingsDescription.label "Konfiguratu &brandShortName;(e)k erabiltzen dituen letra-tipo eta kodeketak">
-<!ENTITY fontsAndEncodingsCaption.label "Letra-tipoak eta kodeketak">
-<!ENTITY fontOptions.accesskey "L">
-<!ENTITY fontOptions.label "Letra-tipoak…">
+<!ENTITY fontsAndColors.label    "Letra-tipoak">
+<!ENTITY defaultFont.label       "Lehenetsitako letra-tipoa:">
+<!ENTITY defaultFont.accesskey   "L">
+<!ENTITY defaultSize.label       "Tamaina:">
+<!ENTITY defaultSize.accesskey   "T">
+<!ENTITY fontOptions.accesskey   "L">
+<!ENTITY fontOptions.label       "Letra-tipoak…">

@@ -37,6 +37,6 @@
 
 <!ENTITY messageMarkByDate.label "Markatu mezuak irakurrita dataren arabera">
 <!ENTITY markByDateLower.label "Markatu mezuak irakurrita hemendik:">
-<!ENTITY markByDateLower.accesskey "H">
+<!ENTITY markByDateLower.accesskey "h">
 <!ENTITY markByDateUpper.label "Hona:">
-<!ENTITY markByDateUpper.accesskey "N">
+<!ENTITY markByDateUpper.accesskey "n">

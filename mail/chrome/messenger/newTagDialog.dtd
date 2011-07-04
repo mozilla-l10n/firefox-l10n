@@ -1,4 +1,4 @@
 <!-- New Tag Dialog -->
-<!ENTITY newTagDialog.title "Sortu etiketa berria">
-<!ENTITY name.label "Etiketaren izena:">
-<!ENTITY name.accesskey "E">
+<!ENTITY newTagDialog.title      "Sortu etiketa berria">
+<!ENTITY name.label              "Etiketaren izena:">
+<!ENTITY name.accesskey          "E">

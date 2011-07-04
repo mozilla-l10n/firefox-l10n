@@ -6,12 +6,8 @@
 <!ENTITY serverDescription.accesskey "A">
 <!ENTITY serverPort.label "Ataka:">
 <!ENTITY serverPort.accesskey "A">
-<!ENTITY alwaysUseUsername.label "Erabili izena eta pasahitza">
-<!ENTITY alwaysUseUsername.accesskey "E">
 <!ENTITY userName.label "Erabiltzaile-izena:">
 <!ENTITY userName.accesskey "n">
-<!ENTITY useSecAuth.label "Erabili autentifikazio segurua">
-<!ENTITY useSecAuth.accesskey "k">
 <!ENTITY connectionSecurity.label "Konexioaren segurtasuna:">
 <!ENTITY connectionSecurity.accesskey "n">
 <!ENTITY connectionSecurityType-0.label "Bat ere ez">
@@ -20,3 +16,5 @@
 <!ENTITY connectionSecurityType-3.label "SSL/TLS">
 <!ENTITY smtpEditTitle.label "SMTP zerbitzaria">
 <!ENTITY serverPortDefault.label "Lehenetsia:">
+<!ENTITY authMethod.label "Autentifikazio metodoa:">
+<!ENTITY authMethod.accesskey "i">
