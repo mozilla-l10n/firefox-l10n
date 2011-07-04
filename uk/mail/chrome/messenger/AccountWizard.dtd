@@ -97,7 +97,7 @@
 <!-- Entities for Done (Congratulations) page -->
 
 <!ENTITY completionTitle.label "Вітаємо!">
-<!ENTITY completionText.label "Будь-ласка, перевірте правильність наступної інформації.">
+<!ENTITY completionText.label "Будь ласка, перевірте правильність наступної інформації.">
 <!ENTITY serverTypePrefix.label "Тип сервера вхідних листів:">
 <!ENTITY serverNamePrefix.label "Ім’я сервера вхідних листів:">
 <!ENTITY smtpServerNamePrefix.label "Ім’я сервера вихідних листів (SMTP):">
@@ -108,4 +108,4 @@
 <!ENTITY deferStorage.label "Використовувати Загальний поштовий ящик (зберігати пошту в локальних теках)">
 <!ENTITY deferStorage.accesskey "З">
 <!ENTITY clickFinish.label "Натисніть «Гаразд», щоб зберегти новий обліковий запис та вийти з майстра.">
-<!ENTITY clickFinish.labelMac "Клацніть Готово щоб зберегти ці налаштування та завершити роботу Майстра.">
+<!ENTITY clickFinish.labelMac "Клацніть Готово, щоб зберегти ці налаштування та завершити роботу Майстра.">

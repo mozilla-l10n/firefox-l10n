@@ -127,7 +127,7 @@
 
 <!-- Strings for protectedAuth dialog -->
 <!ENTITY protectedAuth.title "Захищена перевірка жетоном">
-<!ENTITY protectedAuth.msg "Будь ласка засвідчіть жетон. Метод засвідчення залежить від типу вашого жетону.">
+<!ENTITY protectedAuth.msg "Будь ласка, засвідчіть жетон. Метод засвідчення залежить від типу вашого жетону.">
 <!ENTITY protectedAuth.tokenName.label "Жетон:">
 
 <!ENTITY certErrorDlg.title "Не вдалось встановити безпечне з’єднання">

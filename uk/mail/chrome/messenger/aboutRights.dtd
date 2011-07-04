@@ -2,7 +2,7 @@
 <!ENTITY rights.locale-direction "ltr">
 <!ENTITY rights.title            "Про ваші права">
 <!ENTITY rights.intro-header     "Про ваші права">
-<!ENTITY rights.intro "&brandFullName; є безплатним програмним продуктом з відкритим джерельним кодом. Він створений багатотисячною спільнотою розробників з усіх куточків земної кулі. Ось кілька речей котрі вам треба знати:">
+<!ENTITY rights.intro "&brandFullName; є безплатним програмним продуктом з відкритим джерельним кодом. Він створений багатотисячною спільнотою розробників з усіх куточків земної кулі. Ось кілька речей, котрі вам треба знати:">
 
 <!-- Note on pointa / pointb / pointc form:
      These points each have an embedded link in the HTML, so each point is
@@ -29,7 +29,7 @@
 <!ENTITY rights.intro-point3-unbranded "Будь-які чинні для цього продукту угоди мають йти тут.">
 
 <!-- point 4 text for official branded builds -->
-<!ENTITY rights.intro-point4a "&brandShortName; також надає необов’язкові послуги, такі як служба оновлення додатків; однак, ми не можемо гарантувати що вони на 100&#37; точні чи безпомилкові. Додаткові подробиці, включно з інформацією як вимкнути ці служби, ви можете прочитати в ">
+<!ENTITY rights.intro-point4a "&brandShortName; також надає необов’язкові послуги, такі як служба оновлення додатків; однак, ми не можемо гарантувати, що вони на 100&#37; точні чи безпомилкові. Додаткові подробиці, включно з інформацією як вимкнути ці служби, ви можете прочитати в ">
 <!ENTITY rights.intro-point4b "угоді надання послуг">
 <!ENTITY rights.intro-point4c ".">
 
@@ -52,7 +52,7 @@
 <!ENTITY rights.webservices-e ", вимкнувши флажки для опції &quot;Автоматично перевіряти додатки до ...&quot;.">
 
 <!-- intro paragraph for unbranded builds -->
-<!ENTITY rights.webservices-unbranded "Тут має бути опис послуг сайтів що включені в продукт, а також інструкції як їх вимкнути.">
+<!ENTITY rights.webservices-unbranded "Тут має бути опис послуг сайтів, що включені в продукт, а також інструкції, як їх вимкнути.">
 
 <!-- point 1 text for unbranded builds -->
 <!ENTITY rights.webservices-term1-unbranded "Тут мають йти всі придатні умови надання послуг стосовно цього продукту.">
