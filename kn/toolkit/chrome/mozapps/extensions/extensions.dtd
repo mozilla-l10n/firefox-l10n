@@ -191,6 +191,11 @@
 <!ENTITY eula.title                       "ಬಳಕೆದಾರ ಲೈಸೆನ್ಸ್‍  ಅಗ್ರಿಮೆಂಟ್‌">
 <!ENTITY eula.accept                      "ಅಂಗೀಕರಿಸು ಹಾಗು ಅನುಸ್ಥಾಪಿಸು…">
 
+<!-- global informations -->
+<!ENTITY info.plugincheck.label                 "ನಿಮ್ಮ ಪ್ಲಗ್‌ಇನ್‌ಗಳು ಅಪ್‌ ಟು ಡೇಟ್ ಆಗಿದ್ದಾವೆಯೆ ಎಂದು ಪರಿಶೀಲಿಸಿ">
+<!ENTITY info.plugincheck.tooltip               "ನಿಮ್ಮ ಪ್ಲಗ್‌ಇನ್‌ಗಳು ಅಪ್‌ ಟು ಡೇಟ್ ಆಗಿದ್ದಾವೆಯೆ ಎಂದು ಪರಿಶೀಲಿಸಿ">
+
+
 
 <!--ENTITY addons.title                     "ಆಡ್‌ಆನ್‌ಗಳು"-->
 <!-- Default window size for the addon manager in pixels -->

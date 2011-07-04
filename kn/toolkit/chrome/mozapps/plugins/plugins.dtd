@@ -38,3 +38,9 @@
 <!ENTITY report.failed                                       "ಸಲ್ಲಿಸುವಿಕೆಯು ವಿಫಲಗೊಂಡಿದೆ.">
 <!ENTITY report.unavailable                                  "ಯಾವುದೆ ವರದಿಯು ಲಭ್ಯವಿಲ್ಲ.">
 
+<!ENTITY disabledPlugin                                      "ಈ ಪ್ಲಗ್‌ಇನ್ ಅನ್ನು ಅಶಕ್ತಗೊಳಿಸಲಾಗಿದೆ.">
+<!ENTITY installPlugin                                       "ಪ್ಲಗ್‌ಇನ್ ಅನ್ನು ಅನುಸ್ಥಾಪಿಸಿ…">
+<!ENTITY managePlugins                                       "ಪ್ಲಗ್‌ಇನ್‌ಗಳನ್ನು ನಿರ್ವಹಿಸಿ…">
+<!ENTITY missingPlugin                                       "ಈ ವಿಷಯವನ್ನು ತೋರಿಸಲು ಒಂದು ಪ್ಲಗ್‌ಇನ್‌ ಅಗತ್ಯವಿದೆ.">
+
+
