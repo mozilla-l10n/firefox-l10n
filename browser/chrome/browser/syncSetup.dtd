@@ -51,7 +51,8 @@
 <!ENTITY setup.newSyncKeyPage.description.label "তথ্যের গোপনীয়তা বজায় রাখার জন্য, আপলোড করার পূর্বে তা সম্পূর্ণরূপে এনক্রিপ্ট করা হয়। তথ্য ডিক্রিপ্ট করার জন্য ব্যবহারযোগ্য সিংক-কি-টি আপলোড করা হয় না।">
 <!ENTITY syncKeyEntry.label        "আপনার সিংক-কি">
 <!ENTITY syncKeyEntry.accesskey    "K">
-<!ENTITY syncKeyGenerate.label     "নির্মাণ করুন">
+<!-- ENTITY syncKeyGenerate.label     "নির্মাণ করুন" -->
+<!ENTITY syncGenerateNewKey.label  "একটি নতুন কি প্রস্তুত করুন">
 <!-- ENTITY syncKeyStrength.label     "দৃঢ়তা:" -->
 <!-- ENTITY syncKeyHelp.label         "দৃঢ়তার গুরুত্ব কি?" -->
 <!ENTITY syncKeyBackup.description "অন্যান্য মেশিনের মধ্যে  &syncBrand.fullName.label; ব্যবহার করার জন্য সিংক-কি উপস্থিত থাকা আবশ্যক। অনুগ্রহ করে এই কি-র একটি প্রতিলিপি সংরক্ষণ করুন, কারণ সিংক-কি হারিয়ে গেলে তা পুনরুদ্ধার করাতে আমরা সাহায্য করতে পারব না।">
