@@ -9,9 +9,6 @@
 <!ENTITY closeTabCmd2.accesskey "З">
 <!ENTITY closeOtherTabsCmd2.label "Закрити інші вкладки">
 <!ENTITY closeOtherTabsCmd2.accesskey "і">
-<!-- LOCALIZATION NOTE (undoCloseTabCmd.label):
-     Menu option to attempt to re-open a recently closed tab.
-     -->
 <!ENTITY recentlyClosedTabsCmd.label "Недавно закриті вкладки">
 <!ENTITY recentlyClosedTabsCmd.accesskey "в">
 
