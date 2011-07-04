@@ -57,8 +57,6 @@ can reach it easily. -->
 <!ENTITY printCmd.label "Yazdır...">
 <!ENTITY printCmd.accesskey "Y">
 <!ENTITY printCmd.commandkey "p">
-<!ENTITY import.label "İçe aktar…">
-<!ENTITY import.accesskey "a">
 
 <!ENTITY goOfflineCmd.label "Çevrim dışı çalış">
 <!ENTITY goOfflineCmd.accesskey "d">

@@ -28,10 +28,12 @@
 <!ENTITY cmd.findCurrent.label "Geçerli koleksiyonda ara…">
 <!ENTITY cmd.findCurrent.accesskey "i">
 
-<!ENTITY cmd.exportHTML.label "HTML olarak dışa aktar…">
-<!ENTITY cmd.exportHTML.accesskey "d">
-<!ENTITY cmd.importHTML.label "HTML olarak içe aktar…">
-<!ENTITY cmd.importHTML.accesskey "e">
+<!ENTITY importBookmarksFromHTML.label "Import Bookmarks from HTML…">
+<!ENTITY importBookmarksFromHTML.accesskey "I">
+<!ENTITY exportBookmarksToHTML.label "Export Bookmarks to HTML…">
+<!ENTITY exportBookmarksToHTML.accesskey "E">
+<!ENTITY importOtherBrowser.label "Import Data from Another Browser…">
+<!ENTITY importOtherBrowser.accesskey "A">
 
 <!ENTITY cmd.backup.label "Yedekle…">
 <!ENTITY cmd.backup.accesskey "Y">
