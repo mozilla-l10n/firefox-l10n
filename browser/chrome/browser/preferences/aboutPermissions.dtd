@@ -26,7 +26,7 @@
 <!ENTITY cookie.manage                   "Administrar ils cookies…">
 <!ENTITY cookie.clearAll                 "Stizzar tut ils cookies">
 
-<!ENTITY geo.label                       "Cundivider mia posiziun">
+<!ENTITY geo.label                       "Trametter mia posiziun geografica">
 
 <!-- LOCALIZATION NOTE (indexedDB.label): This is describing indexedDB storage
      using the same language used for the permIndexedDB string in browser/pageInfo.dtd -->

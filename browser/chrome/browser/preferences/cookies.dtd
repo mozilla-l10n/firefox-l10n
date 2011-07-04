@@ -14,7 +14,7 @@
 <!ENTITY     props.domain.label             "Host:">
 <!ENTITY     props.path.label               "Percurs:">
 <!ENTITY     props.secure.label             "Trametter per:">
-<!ENTITY     props.expires.label            "Valid fin ils:">
+<!ENTITY     props.expires.label            "Valid enfin:">
 
 <!ENTITY     window.title                   "Cookies">
 <!ENTITY     windowClose.key                "w">

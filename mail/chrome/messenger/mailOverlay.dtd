@@ -1,5 +1,5 @@
-<!ENTITY  newMessageCmd2.key              "D">
-<!ENTITY  newMessageCmd.key               "A">
+<!ENTITY  newMessageCmd2.key              "N">
+<!ENTITY  newMessageCmd.key               "M">
 <!ENTITY  newMessageCmd.label             "Messadi">
 <!ENTITY  newMessageCmd.accesskey         "M">
  

@@ -179,7 +179,7 @@
 <!ENTITY sortBySubjectCmd.accesskey "b">
 <!ENTITY sortByFromCmd.label "Da">
 <!ENTITY sortByFromCmd.accesskey "a">
-<!ENTITY sortByRecipientCmd.label "Receptur">
+<!ENTITY sortByRecipientCmd.label "Destinatur">
 <!ENTITY sortByRecipientCmd.accesskey "c">
 <!ENTITY sortByUnreadCmd.label "Legì">
 <!ENTITY sortByUnreadCmd.accesskey "L">
@@ -608,7 +608,7 @@ you can use these alternative items. Otherwise, their values should be empty.  -
 <!-- Thread Pane -->
 <!ENTITY threadColumn.label "Tema">
 <!ENTITY fromColumn.label "Da">
-<!ENTITY recipientColumn.label "Receptur">
+<!ENTITY recipientColumn.label "Destinatur">
 <!ENTITY subjectColumn.label "Object">
 <!ENTITY dateColumn.label "Data">
 <!ENTITY priorityColumn.label "Prioritad">

@@ -35,7 +35,7 @@
 <!-- Thread Pane -->
 <!ENTITY threadColumn.label "Tema">
 <!ENTITY fromColumn.label "Da">
-<!ENTITY recipientColumn.label "Receptur">
+<!ENTITY recipientColumn.label "Destinatur">
 <!ENTITY subjectColumn.label "Object">
 <!ENTITY dateColumn.label "Data">
 <!ENTITY priorityColumn.label "Prioritad">
