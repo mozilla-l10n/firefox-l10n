@@ -64,7 +64,7 @@
 <!ENTITY closeTabCmd.accesskey "T">
 <!ENTITY newAccountCmd.label "Compte…">
 <!ENTITY newAccountCmd.accesskey "o">
-<!ENTITY openMessageFileCmd.label "Obre el missatge desat…">
+<!ENTITY openMessageFileCmd.label "Obre un missatge desat…">
 <!ENTITY openMessageFileCmd.accesskey "O">
 <!ENTITY openAttachmentCmd.label "Adjuncions">
 <!ENTITY openAttachmentCmd.accesskey "A">

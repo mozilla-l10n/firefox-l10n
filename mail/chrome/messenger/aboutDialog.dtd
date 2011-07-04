@@ -10,7 +10,7 @@
 
 <!ENTITY contribute.start           "Us interessa? ">
 <!-- LOCALIZATION NOTE (contribute.getInvolvedLink): This is a link title that links to http://www.mozilla.org/contribute/. -->
-<!ENTITY contribute.getInvolvedLink "Feu-vos-en!">
+<!ENTITY contribute.getInvolvedLink "Coŀlaboreu-hi!">
 <!ENTITY contribute.end             "">
 
 <!-- LOCALIZATION NOTE (bottomLinks.license): This is a link title that links to about:license. -->
@@ -27,7 +27,7 @@
 <!-- LOCALIZATION NOTE (update.checkingAddonCompat): try to make the localized text short (see bug 596813 for screenshots). -->
 <!ENTITY update.checkingAddonCompat "S'està comprovant la compatibilitat dels complements…">
 <!-- LOCALIZATION NOTE (update.noUpdatesFound): try to make the localized text short (see bug 596813 for screenshots). -->
-<!ENTITY update.noUpdatesFound      "El &brandShortName; està ben actualitzat">
+<!ENTITY update.noUpdatesFound      "El &brandShortName; està actualitzat">
 <!-- LOCALIZATION NOTE (update.adminDisabled): try to make the localized text short (see bug 596813 for screenshots). -->
 <!ENTITY update.adminDisabled       "El vostre administrador ha inhabilitat les actualitzacions">
 
