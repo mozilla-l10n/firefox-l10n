@@ -348,12 +348,16 @@
 <!ENTITY view.search.label                    "অনুসন্ধান">
 <!ENTITY view.discover.label                  "অতিরিক্ত সামগ্রী প্রাপ্ত করুন">
 <!ENTITY view.locales.label                   "ভাষা">
-<!ENTITY view.searchengines.label             "সার্চ ইঞ্জিন">
-<!ENTITY view.features.label                  "এক্সটেনশন">
-<!ENTITY view.appearance2.label               "চেহারা">
-<!ENTITY view.plugins.label                   "প্লাগ-ইন">
+<!-- ENTITY view.searchengines.label             "সার্চ ইঞ্জিন" -->
+<!-- ENTITY view.features.label                  "এক্সটেনশন" -->
+<!-- ENTITY view.appearance2.label               "চেহারা" -->
+<!-- ENTITY view.plugins.label                   "প্লাগ-ইন" -->
 <!ENTITY view.recentUpdates.label             "সর্বশেষ আপডেট">
 <!ENTITY view.availableUpdates.label          "উপলব্ধ আপডেট">
+
+<!-- global informations -->
+<!ENTITY info.plugincheck.label                 "প্লাগ-ইনগুলি আপ-টু-ডেট রয়েছে কি না তা পরীক্ষা করুন">
+<!ENTITY info.plugincheck.tooltip               "প্লাগ-ইনগুলি আপ-টু-ডেট রয়েছে কি না তা পরীক্ষা করুন">
 
 <!-- global warnings -->
 <!ENTITY warning.safemode.label                    "নিরাপদ মোডে সকল অতিরিক্ত সামগ্রী নিষ্ক্রিয় করা হয়েছে।">
