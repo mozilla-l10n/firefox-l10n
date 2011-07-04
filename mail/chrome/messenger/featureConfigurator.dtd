@@ -42,7 +42,7 @@
 <!ENTITY featureConfigurator.collapsedHeaders.para.weak "Режим згорнутих заголовків був винесений у окреме розширення, де йому нині приділяється набагато більше уваги та налаштувань.">
 
 <!-- LOCALIZATION NOTE (featureConfigurator.collapsedHeaders.para.strong): The paragraph to display if the user had previously used the collapsed headers feature. -->
-<!ENTITY featureConfigurator.collapsedHeaders.para.strong "Ми помітили що ви використовували режим згорнутих заголовків. Ця функція була винесена в окреме розширення і ми рекомендуємо його встановити, якщо ви бажаєте й надалі використовувати цей режим.">
+<!ENTITY featureConfigurator.collapsedHeaders.para.strong "Ми помітили, що ви використовували режим згорнутих заголовків. Ця функція була винесена в окреме розширення і ми рекомендуємо його встановити, якщо ви бажаєте й надалі використовувати цей режим.">
 
 <!-- LOCALIZATION NOTE (featureConfigurator.collapsedHeaders.install): The text for the button that will install the Compact Headers addon. -->
 <!ENTITY featureConfigurator.collapsedHeaders.install "Встановити згорнуті заголовки…">
@@ -54,7 +54,7 @@
 <!ENTITY featureConfigurator.folderColumns.para.weak "Розширення Додаткові стовпчики тек замінює собою те, що раніше було додатковим налаштуванням. Якщо ви хочете бути в курсі точної кількості листів та використаного дискового простору, то вам варто встановити це розширення.">
 
 <!-- LOCALIZATION NOTE (featureConfigurator.folderColumns.para.strong): The paragraph to display if the user had previously used the folder columns feature. -->
-<!ENTITY featureConfigurator.folderColumns.para.strong "Ми помітили що ви використовували Додаткові стовпчики тек. Ця функція була винесена у окреме розширення, і ми рекомендуємо його встановити.">
+<!ENTITY featureConfigurator.folderColumns.para.strong "Ми помітили, що ви використовували Додаткові стовпчики тек. Ця функція була винесена у окреме розширення, і ми рекомендуємо його встановити.">
 
 <!-- LOCALIZATION NOTE (featureConfigurator.folderColumns.install): The text for the button that will install the Extra Folder Columns addon. -->
 <!ENTITY featureConfigurator.folderColumns.install "Встановити Додаткові стовпчики…">

@@ -92,7 +92,7 @@
      include messages with at least one tag on them.
      -->
 <!ENTITY quickFilterBar.tags.tooltip
-         "Показувати лише ті листи що мають мітки">
+         "Показувати лише ті листи, що мають мітки">
 
 <!-- LOCALIZATION NOTE (quickFilterBar.attachment.label):
      The label for the filter button that causes us to filter results to only

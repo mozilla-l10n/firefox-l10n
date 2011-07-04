@@ -55,7 +55,7 @@
 <!ENTITY enableAddonsUpdate.label       "встановлених додатків">
 <!ENTITY enableAddonsUpdate.accesskey   "д">
 <!ENTITY whenUpdatesFound.label         "Якщо для &brandShortName; знайдені оновлення:">
-<!ENTITY modeAskMe.label                "Запитати мене що робити">
+<!ENTITY modeAskMe.label                "Запитати мене, що робити">
 <!ENTITY modeAskMe.accesskey            "щ">
 <!ENTITY modeAutomatic.label            "Автоматично завантажувати і встановлювати оновлення">
 <!ENTITY modeAutomatic.accesskey        "А">
