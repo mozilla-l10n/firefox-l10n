@@ -22,7 +22,7 @@
   
 <!ENTITY missingPlugin "Za prikaz te vsebine je potreben vstavek.">
 <!ENTITY disabledPlugin                               "Ta vstavek je onemogočen.">
-<!ENTITY blockedPlugin.label                                 "Ta vstavek se je za vašo varnost onemogočilo.">
+<!ENTITY blockedPlugin.label                                 "Ta vstavek je bil zavrnjen iz varnostnih razlogov.">
 
 <!ENTITY installPlugin                                       "Namesti vstavek…">
 <!ENTITY managePlugins                                       "Urejaj vstavke…">
