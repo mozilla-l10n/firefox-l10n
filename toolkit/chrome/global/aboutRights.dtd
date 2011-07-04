@@ -39,7 +39,7 @@ Entities below were automatically added by compare-locales,
 <!ENTITY rights.intro-header "உங்களுடைய உரிமைகள் பற்றி">
 <!ENTITY rights2.intro-point3a "&vendorShortName; இனுடைய தயாரிப்புகளிற்கான பிரத்தியேக கொள்கைகள் காணப்படலாம் ">
 <!ENTITY rights.intro-point3-unbranded "இந்தத் தயாரிப்புகளிற்கான எந்தவொரு பொருத்தமான தனியார் கொள்கைகளும் இங்கே கட்டாயமாகப் பட்டியலிடப்பட வேண்டும்.">
-<!ENTITY rights.webservices-unbranded "An overview of the web site services the product incorporates, along with instructions on how to disable them, if applicable, should be included here.">
+<!ENTITY rights.webservices-unbranded "இணையதளத்தில் சேவைகள் பற்றிய ஒரு மேற்பார்வை,அவைகளை எவ்வாறு செயலற்றதாக்குவது பற்றிய அறிவுறுத்தல்கள் இருந்தால் இங்கு கட்டாயம் குறிப்பிடப்படவேண்டும்">
 <!ENTITY rights.locationawarebrowsing-term1a "URL bar இன் மேல் தட்டச்சுக. "> 
 <!ENTITY rights.locationawarebrowsing-term1b "about:config">
 <!ENTITY rights.locale-direction "ltr">

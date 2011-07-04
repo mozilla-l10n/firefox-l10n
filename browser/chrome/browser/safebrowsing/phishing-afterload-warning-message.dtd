@@ -23,10 +23,10 @@ Entities below were automatically added by compare-locales,
  based on en-US entities.
 -->
 
-<!ENTITY safeb.blocked.malwarePage.shortDesc "This web page at <span id='malware_sitename'/> has been reported as an attack page and has been blocked based on your security preferences.">
-<!ENTITY safeb.blocked.phishingPage.longDesc "<p>Web forgeries are designed to trick you into revealing personal or financial information by imitating sources you may trust.</p><p>Entering any information on this web page may result in identity theft or other fraud.</p>">
+<!ENTITY safeb.blocked.malwarePage.shortDesc "இந்த <span id='malware_sitename'/> இணைய பக்கம்  attack பக்கமாக முறையிடப்பட்டிருக்கிறது மற்றும் உங்களுடைய பாதுகாப்பு முன்னுரிமைகள் அடிப்படையில் அது தடுக்கப்பட்டிருக்கிறது.">
+<!ENTITY safeb.blocked.phishingPage.longDesc "<p>நிதி தகவல்களை வெளிப்படுத்தும் நீங்கள் நம்பக்கூடிய மாதிரி போலியான ஆதாரங்கள் மூலம்  உங்களை ஏமாற்ற இணைய மோசடிகள் வடிவமைக்கப்பட்டிருக்கலாம்.</p><p>இந்த பக்கத்தில் எந்த தகவலையும் நுழைத்தால் அது  அடையாள திருட்டு அல்லது மற்ற மோசடி விளைவாக இருக்கலாம்.</p>">
 <!ENTITY safeb.blocked.phishingPage.title "இணைய மோசடி அறிக்கைப்படுத்தப்பட்டுள்ளது!">
-<!ENTITY safeb.blocked.malwarePage.longDesc "<p>Attack pages try to install programs that steal private information, use your computer to attack others, or damage your system.</p><p>Some attack pages intentionally distribute harmful software, but many are compromised without the knowledge or permission of their owners.</p>">
+<!ENTITY safeb.blocked.malwarePage.longDesc "<p>தாக்குதல் பக்கங்கள் நிரல்களை நிறுவி  தனியார் தகவல்களை திருட முயற்சிக்கின்றன  அல்லது உங்களுடைய கணினிக்கி சேதத்தை ஏற்படுத்தலாம்.</p><p>சில தாக்குதல் பக்கங்கள் வேண்டுமென்று தீங்கு மென்பொருள் விநியோகிக்கின்றன, ஆனால் பல அவற்றின் உரிமையாளர்களின் அறிவு அல்லது அனுமதி இல்லாமல் சமரசம் ஆகும்.</p>">
 <!ENTITY safeb.palm.reportPage.label "ஏன் இந்தப் பக்கம் தடுக்கப்பட்டிருந்தது?">
-<!ENTITY safeb.blocked.phishingPage.shortDesc "This web page at <span id='phishing_sitename'/> has been reported as a web forgery and has been blocked based on your security preferences.">
+<!ENTITY safeb.blocked.phishingPage.shortDesc "<span id='phishing_sitename'/> இலுள்ள இந்த இணையப்பக்கம் ஒரு இணைய மோசடியாக  முறையிடப்பட்டிருக்கிறது மற்றும் உங்களுடைய பாதுகாப்பு முன்னுரிமைகள் அடிப்படையில் அது தடுக்கப்பட்டிருக்கிறது.">
 <!ENTITY safeb.blocked.malwarePage.title "தாக்குதல் பக்கம் அறிக்கைப்படுத்தப்பட்டுள்ளது!">

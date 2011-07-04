@@ -538,10 +538,10 @@ Entities below were automatically added by compare-locales,
 
 <!ENTITY webDeveloperMenu.accesskey "W">
 <!ENTITY scratchpad.keycode "VK_F4">
-<!ENTITY unsortedBookmarksCmd.label "Unsorted Bookmarks">
+<!ENTITY unsortedBookmarksCmd.label "Unsorted பக்கஅடையாளங்கள்">
 <!ENTITY scratchpad.label "Scratchpad">
-<!ENTITY getMoreDevtoolsCmd.label "Get More Tools">
+<!ENTITY getMoreDevtoolsCmd.label "மேலும் கருவிகளை பெறுக">
 <!ENTITY scratchpad.keytext "F4">
 <!ENTITY getMoreDevtoolsCmd.accesskey "M">
 <!ENTITY scratchpad.accesskey "s">
-<!ENTITY webDeveloperMenu.label "Web Developer">
+<!ENTITY webDeveloperMenu.label "இணைய அபிவிருத்தியாளர்">

@@ -5,17 +5,17 @@ Entities below were automatically added by compare-locales,
  based on en-US entities.
 -->
 
-<!ENTITY testpilot.studiesWindow.finishedStudies.label "Finished Studies">
-<!ENTITY testpilot.settings.readyToSubmit.label "A study is ready to submit">
-<!ENTITY testpilot.settings.newStudy.label "There's a new study">
+<!ENTITY testpilot.studiesWindow.finishedStudies.label "பூர்த்தியாக்கப்பட்ட பாடங்கள்">
+<!ENTITY testpilot.settings.readyToSubmit.label "சமர்ப்பிப்பதற்கு ஒரு பாடம் தயாராகவுள்ளது">
+<!ENTITY testpilot.settings.newStudy.label "புதிய பாடம் இருக்கிறது">
 <!ENTITY testpilot.rawDataWindow.title "Test Pilot: Raw Data">
 <!ENTITY testpilot.brand.label "Test Pilot">
 <!ENTITY testpilot.settings.notifications.label "அறிவுறுத்தல்கள்">
-<!ENTITY testpilot.studiesWindow.currentStudies.label "Current Studies">
+<!ENTITY testpilot.studiesWindow.currentStudies.label "தற்போதைய பாடங்கள்">
 <!ENTITY testpilot.settings.label "அமைப்புகள்">
 <!ENTITY testpilot.settings.dataSubmission.label "தரவு சமர்ப்பித்தல்">
 <!ENTITY testpilot.settings.hasNewResults.label "A study has new results">
-<!ENTITY testpilot.allYourStudies.label "All Your User Studies…">
+<!ENTITY testpilot.allYourStudies.label "உங்களுடைய அனைத்து பயனாளர் பாடங்களும்…">
 <!ENTITY testpilot.sad.label "Firefox என்னை கவலையடையச் செய்துள்ளது ஏனென்றால்...">
 <!ENTITY testpilot.about.label "About Test Pilot">
 <!ENTITY testpilot.studiesWindow.studyFindings.label "Study Findings">
@@ -27,6 +27,6 @@ Entities below were automatically added by compare-locales,
 <!ENTITY testpilot.happy.label "Firefox என்னை சந்தோஷமடையச் செய்துள்ளது ஏனென்றால்...">
 <!ENTITY testpilot.studiesWindow.stillLoadingMessage "ஏற்றப்படுகிறது, தயவு செய்து காத்திருக்கவும்...">
 <!ENTITY testpilot.studiesWindow.settings.label "அமைப்புகள்">
-<!ENTITY testpilot.enable.label "Turn On User Studies">
-<!ENTITY testpilot.broken.label      "Report this website as broken…">
-<!ENTITY testpilot.idea.label        "Give us a suggestion…">
+<!ENTITY testpilot.enable.label "பயனாளர் பாடங்களை ஆரம்பிக்குக ">
+<!ENTITY testpilot.broken.label      "இந்த பக்கம் உடைக்கப்பட்டுள்ளதென முறையிடுக…">
+<!ENTITY testpilot.idea.label        "ஒரு suggestion இனை எங்களுக்கு தாருங்கள்…">

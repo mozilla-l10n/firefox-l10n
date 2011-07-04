@@ -55,7 +55,7 @@ Entities below were automatically added by compare-locales,
 <!ENTITY changeOptions.label "கீழுள்ள ஒத்திசைவுத் தெரிவுகளை தெரிவு செய்வதன் மூலம் இந்த முன்னுரிமைகளை மாற்ற முடியும்.">
 <!ENTITY syncComputerName.label "கணினியின் பெயர்:">
 <!ENTITY setup.choicePage.title.label "நீங்கள் &syncBrand.fullName.label; ஐ முன்னர் பாவித்தீர்களா?">
-<!ENTITY setup.newSyncKeyPage.description.label "To ensure your total privacy, all of your data is encrypted prior to being uploaded. The Sync Key which is necessary to decrypt your data is not uploaded.">
+<!ENTITY setup.newSyncKeyPage.description.label "உங்களுடைய அனைத்து தரவுகளும் பதிவேற்றப்படுவதற்கு முன்னதாக மறைக்குறியீடாக்கபட்டுள்ளன என்பதன் மூலம் உங்களுடைய முழுமையான தனிமையினை உறுதிப்படுத்திக்கொள்க. The Sync Key which is necessary to decrypt your data is not uploaded.">
 <!ENTITY engine.prefs.accesskey "S">
 <!ENTITY engine.passwords.accesskey "P">
 <!ENTITY engine.tabs.label "தத்தல்கள்">
@@ -100,4 +100,4 @@ Entities below were automatically added by compare-locales,
  based on en-US entities.
 -->
 
-<!ENTITY syncGenerateNewKey.label "Generate a new key">
+<!ENTITY syncGenerateNewKey.label "ஒரு புதியவிசையினை உருவாக்குக">
