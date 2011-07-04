@@ -43,6 +43,6 @@
 <!ENTITY  installerrors.intro.label       "&brandShortName;(e)k arazoak izan ditu gehigarri batzuk eguneratzean.">
 <!-- general strings used by several of the finish pages -->
 
-<!ENTITY  clickFinish.label               "Egin klik Amaitu botoian &brandShortName; abiarazten jarraitzeko.">
-<!ENTITY  clickFinish.labelMac            "Egin klik Eginda botoian &brandShortName; abiarazten jarraitzeko.">
+<!ENTITY  clickFinish.label               "Egin klik 'Amaitu' botoian &brandShortName; abiarazten jarraitzeko.">
+<!ENTITY  clickFinish.labelMac            "Egin klik 'Eginda' botoian &brandShortName; abiarazten jarraitzeko.">
 <!ENTITY  enableChecking.label            "Baimendu &brandShortName;(r)i eguneraketak bilatzea.">
