@@ -46,7 +46,7 @@
 <!ENTITY event.title.label "Öğeyi düzenle">
 
 <!ENTITY event.dialog.keepDurationButton.tooltip "Bitiş tarihini değiştirirken süreyi sabit tut">
-<!ENTITY event.dialog.keepDurationButton.accesskey "K">
+<!ENTITY event.dialog.keepDurationButton.accesskey "t">
 
 <!ENTITY newevent.from.label "Gönderen">
 <!ENTITY newevent.to.label "Alıcı">
@@ -378,10 +378,10 @@
 
 <!ENTITY read.only.general.label "Genel">
 <!ENTITY read.only.title.label "Başlık:">
-<!ENTITY read.only.event.start.label "Start Date:">
-<!ENTITY read.only.task.start.label "Start Date:">
-<!ENTITY read.only.event.end.label "End Date:">
-<!ENTITY read.only.task.due.label "Due Date:">
+<!ENTITY read.only.event.start.label "Başlangıç tarihi:">
+<!ENTITY read.only.task.start.label "Başlangıç tarihi:">
+<!ENTITY read.only.event.end.label "Bitiş tarihi:">
+<!ENTITY read.only.task.due.label "Son tarih:">
 <!ENTITY read.only.repeat.label "Tekrarla:">
 <!ENTITY read.only.location.label "Konum:">
 <!ENTITY read.only.category.label "Kategori:">

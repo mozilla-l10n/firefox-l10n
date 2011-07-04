@@ -157,10 +157,10 @@
      separate entry will be shown for each of the occurrences that happen on or
      before today (or the selected date, whichever is later). -->
 
-<!ENTITY calendar.task.filter.current.label "Current Tasks">
-<!ENTITY calendar.task.filter.current.accesskey "u">
-<!ENTITY calendar.task.filter.repeating.label "Repeating Tasks">
-<!ENTITY calendar.task.filter.repeating.accesskey "R">
+<!ENTITY calendar.task.filter.current.label "Mevcut görevler">
+<!ENTITY calendar.task.filter.current.accesskey "M">
+<!ENTITY calendar.task.filter.repeating.label "Tekrarlı görevler">
+<!ENTITY calendar.task.filter.repeating.accesskey "r">
 
 <!ENTITY calendar.task-details.title.label "konu">
 <!ENTITY calendar.task-details.organizer.label "kimden">
@@ -172,8 +172,8 @@
 <!ENTITY calendar.task-details.category.label "kategori">
 <!ENTITY calendar.task-details.repeat.label "tekrarla">
 <!ENTITY calendar.task-details.attachments.label "attachments">
-<!ENTITY calendar.task-details.start.label "start date">
-<!ENTITY calendar.task-details.due.label "due date">
+<!ENTITY calendar.task-details.start.label "başlangıç tarihi">
+<!ENTITY calendar.task-details.due.label "son tarih">
 
 <!ENTITY calendar.task.category.button.tooltip "Görevleri kategorileştir">
 <!ENTITY calendar.task.complete.button.tooltip "Seçili görevleri tamamlanmış olarak işaretle">
@@ -203,8 +203,8 @@
 <!ENTITY calendar.context.pasteevent.accesskey "p">
 <!ENTITY calendar.context.button.label "Bugün paneli">
 <!ENTITY calendar.context.button.accesskey "B">
-<!ENTITY calendar.context.attendance.menu.label "Attendance">
-<!ENTITY calendar.context.attendance.menu.accesskey "d">
+<!ENTITY calendar.context.attendance.menu.label "Katılım">
+<!ENTITY calendar.context.attendance.menu.accesskey "ı">
 <!ENTITY calendar.context.attendance.occurrence.label "This Occurrence">
 <!ENTITY calendar.context.attendance.all.label "All Occurrences">
 <!-- Task Context Menu -->
@@ -305,7 +305,7 @@
      user focuses the "Cancel" button in the "Snooze for..." popup of the alarm
      dialog. -->
 
-<!ENTITY calendar.alarm.snooze.cancel "Cancel Snooze">
+<!ENTITY calendar.alarm.snooze.cancel "Ertelemeyi iptal et">
 <!-- Calendar Server Dialog -->
 
 <!ENTITY calendar.server.dialog.title.edit "Takvimi düzenle">
@@ -318,8 +318,8 @@
 <!ENTITY calendarproperties.wcap.label "Sun Java System Calendar Server (WCAP)">
 <!ENTITY calendarproperties.format.label "Biçem:">
 <!ENTITY calendarproperties.location.label "Konum:">
-<!ENTITY calendarproperties.refreshInterval.label "Refresh Calendar:">
-<!ENTITY calendarproperties.refreshInterval.manual.label "Manually">
+<!ENTITY calendarproperties.refreshInterval.label "Takvimi tazele:">
+<!ENTITY calendarproperties.refreshInterval.manual.label "Elle">
 <!ENTITY calendarproperties.name.label "Adı:">
 <!ENTITY calendarproperties.readonly.label "Salt okunur">
 <!ENTITY calendarproperties.firealarms.label "Uyarıları göster">
