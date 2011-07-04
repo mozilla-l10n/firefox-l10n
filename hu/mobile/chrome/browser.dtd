@@ -1,115 +1,114 @@
-<!ENTITY urlbar.emptytext      "Keresés vagy cím">
+<!ENTITY urlbar.emptytext      "Enter Search or Address">
 
-<!ENTITY back.label            "Vissza">
-<!ENTITY forward.label         "Előre">
-<!ENTITY reload.label          "Frissítés">
-<!ENTITY stop.label            "Leállítás">
-<!ENTITY go.label              "Ugrás">
-<!ENTITY star.label            "Csillag">
+<!ENTITY back.label            "Back">
+<!ENTITY forward.label         "Forward">
+<!ENTITY reload.label          "Reload">
+<!ENTITY stop.label            "Stop">
+<!ENTITY go.label              "Go">
+<!ENTITY star.label            "Star">
 
-<!ENTITY newtab.label          "Új lap">
-<!ENTITY closetab.label        "Lap bezárása">
+<!ENTITY newtab.label          "New Tab">
+<!ENTITY closetab.label        "Close Tab">
 
-<!ENTITY cut.label             "Kivágás">
-<!ENTITY copy.label            "Másolás">
-<!ENTITY copyAll.label         "Mindet másolja">
-<!ENTITY copylink.label        "Hivatkozás címének másolása">
-<!ENTITY paste.label           "Beillesztés">
-<!ENTITY delete.label          "Törlés">
-<!ENTITY selectAll.label       "Minden kijelölése">
-<!ENTITY noSuggestions.label   "(Nincs javaslat)">
-<!ENTITY addToDictionary.label "Hozzáadás a szótárhoz">
-<!ENTITY inputMethod.label     "Beviteli mód választása">
+<!ENTITY cut.label             "Cut">
+<!ENTITY copy.label            "Copy">
+<!ENTITY copyAll.label         "Copy All">
+<!ENTITY copylink.label        "Copy Link Location">
+<!ENTITY paste.label           "Paste">
+<!ENTITY delete.label          "Delete">
+<!ENTITY selectAll.label       "Select All">
+<!ENTITY noSuggestions.label   "(No suggestions)">
+<!ENTITY addToDictionary.label "Add to Dictionary">
+<!ENTITY inputMethod.label     "Select Input Method">
 
-<!ENTITY allPagesHeader.label      "Minden oldal">
-<!ENTITY bookmarksHeader.label     "Könyvjelzők">
-<!ENTITY historyHeader.label       "Előzmények">
-<!ENTITY desktopHeader.label       "Asztal">
+<!ENTITY allPagesHeader.label      "All Pages">
+<!ENTITY bookmarksHeader.label     "Bookmarks">
+<!ENTITY historyHeader.label       "History">
+<!ENTITY desktopHeader.label       "Desktop">
 
-<!ENTITY editBookmarkDialog.title  "Könyvjelző szerkesztése">
-<!ENTITY editBookmarkDone.label    "Kész">
-<!ENTITY editBookmarkTags.label    "Címke hozzáadása">
+<!ENTITY editBookmarkDialog.title  "Edit Bookmark">
+<!ENTITY editBookmarkDone.label    "Done">
+<!ENTITY editBookmarkTags.label    "Add tags here">
 
-<!ENTITY selectHelper.done         "Kész">
+<!ENTITY selectHelper.done         "Done">
 
-<!ENTITY addonsHeader.label        "Kiegészítők">
-<!ENTITY addonsLocal.label         "Kiegészítők">
-<!ENTITY addonsUpdate.label        "Frissítés">
-<!ENTITY addonsRepo.label          "Kiegészítők letöltése">
-<!ENTITY addonsRecommended.label   "Ajánlott">
-<!ENTITY addonsSearch.label        "Keresés">
-<!ENTITY addonsSearch2.emptytext   "Keresés a katalógusban">
-<!ENTITY addonsSearch.recommended  "Ajánlott">
+<!ENTITY addonsHeader.label        "Add-ons">
+<!ENTITY addonsLocal.label         "Your Add-ons">
+<!ENTITY addonsUpdate.label        "Update">
+<!ENTITY addonsRepo.label          "Get Add-ons">
+<!ENTITY addonsRecommended.label   "Recommended">
+<!ENTITY addonsSearch.label        "Search">
+<!ENTITY addonsSearch2.emptytext   "Search Catalog">
+<!ENTITY addonsSearch.recommended  "Recommended">
 
-<!ENTITY addonOptions.label        "Beállítások">
-<!ENTITY addonEnable.label         "Engedélyezés">
-<!ENTITY addonDisable.label        "Letiltás">
-<!ENTITY addonInstall2.label       "Hozzáadás a &brandShortName; programhoz...">
-<!ENTITY addonUninstall.label      "Eltávolítás">
-<!ENTITY addonCancel.label         "Mégse">
-<!ENTITY addonShowPage.label       "Ugrás az oldalra">
+<!ENTITY addonOptions.label        "Options">
+<!ENTITY addonEnable.label         "Enable">
+<!ENTITY addonDisable.label        "Disable">
+<!ENTITY addonInstall2.label       "Add to &brandShortName;">
+<!ENTITY addonUninstall.label      "Uninstall">
+<!ENTITY addonCancel.label         "Cancel">
+<!ENTITY addonShowPage.label       "Go to Page">
 
-<!ENTITY downloadsHeader.label     "Letöltések">
+<!ENTITY downloadsHeader.label     "Downloads">
+<!ENTITY downloadShowPage.label    "Go to Page">
+<!ENTITY downloadShow2.label       "Find">
+<!ENTITY downloadOpen2.label       "Open">
+<!ENTITY downloadCancel.label      "Cancel">
+<!ENTITY downloadPause.label       "Pause">
+<!ENTITY downloadResume.label      "Resume">
+<!ENTITY downloadRetry.label       "Retry">
+<!ENTITY downloadRemove.label      "Remove">
+<!ENTITY downloadDelete.label      "Delete">
+<!ENTITY downloadFailed.label      "Failed">
 
-<!ENTITY downloadShowPage.label    "Ugrás az oldalra">
-<!ENTITY downloadShow2.label       "Keresés">
-<!ENTITY downloadOpen2.label       "Megnyitás">
-<!ENTITY downloadCancel.label      "Mégse">
-<!ENTITY downloadPause.label       "Szünet">
-<!ENTITY downloadResume.label      "Folytatás">
-<!ENTITY downloadRetry.label       "Újra">
-<!ENTITY downloadRemove.label      "Eltávolítás">
-<!ENTITY downloadDelete.label      "Törlés">
-<!ENTITY downloadFailed.label      "Sikertelen">
+<!ENTITY noResults.label           "No results">
+<!ENTITY allBookmarks.label        "See all bookmarks">
 
-<!ENTITY noResults.label           "Nincs eredmény">
-<!ENTITY allBookmarks.label        "Minden könyvjelző">
+<!ENTITY bookmarkPopup.label       "Page Bookmarked">
+<!ENTITY bookmarkRemove.label      "Remove">
+<!ENTITY bookmarkEdit.label        "Edit">
 
-<!ENTITY bookmarkPopup.label       "Oldal könyvjelzőzve">
-<!ENTITY bookmarkRemove.label      "Eltávolítás">
-<!ENTITY bookmarkEdit.label        "Szerkesztés">
-
-<!ENTITY identity.unverifiedsite2 "Ez a webhely nem szolgáltat magáról azonosító információkat.">
-<!ENTITY identity.connectedTo2 "Kapcsolódva:">
+<!ENTITY identity.unverifiedsite2 "This web site does not supply identity information.">
+<!ENTITY identity.connectedTo2 "Connected to">
 <!-- Localization note (identity.runBy2)
  The layout of the identity dialog prevents combining this into a single string with
  substitution variables.  If it is difficult to translate the sense of the string
  with that structure, consider a translation which ignores the preceding domain and
  just addresses the organization to follow, e.g. "This site is run by " -->
-<!ENTITY identity.runBy2 "Üzemelteti:">
+<!ENTITY identity.runBy2 "run by">
 
-<!ENTITY consoleHeader.label       "Hibakonzol">
-<!ENTITY consoleAll.label          "Összes">
-<!ENTITY consoleErrors.label       "Hibák">
-<!ENTITY consoleWarnings.label     "Figyelmeztetések">
-<!ENTITY consoleMessages.label     "Üzenetek">
-<!ENTITY consoleCodeEval.label     "Kód:">
-<!ENTITY consoleClear.label        "Törlés">
+<!ENTITY consoleHeader.label       "Error Console">
+<!ENTITY consoleAll.label          "All">
+<!ENTITY consoleErrors.label       "Errors">
+<!ENTITY consoleWarnings.label     "Warnings">
+<!ENTITY consoleMessages.label     "Messages">
+<!ENTITY consoleCodeEval.label     "Code:">
+<!ENTITY consoleClear.label        "Clear">
 <!ENTITY consoleEvaluate.label     "...">
-<!ENTITY consoleErrFile.label      "Forrásfájl:">
-<!ENTITY consoleErrLine.label      "Sor:">
-<!ENTITY consoleErrColumn.label    "Oszlop:">
+<!ENTITY consoleErrFile.label      "Source File:">
+<!ENTITY consoleErrLine.label      "Line:">
+<!ENTITY consoleErrColumn.label    "Column:">
 
-<!ENTITY contextOpenInNewTab.label    "Megnyitás új lapon">
-<!ENTITY contextSaveLink.label        "Hivatkozás mentése">
-<!ENTITY contextSaveImage.label       "Kép mentése">
-<!ENTITY contextShareLink.label       "Hivatkozás megosztása">
-<!ENTITY contextShareImage.label      "Kép megosztása">
-<!ENTITY contextBookmarkLink.label    "Hivatkozás könyvjelzőzése">
-<!ENTITY contextSaveVideo.label       "Videó mentése">
-<!ENTITY contextShareVideo.label      "Videó megosztása">
-<!ENTITY contextPlayMedia.label       "Lejátszás">
-<!ENTITY contextPauseMedia.label      "Szünet">
-<!ENTITY contextFullScreen.label      "Teljes képernyős üzemmód">
-<!ENTITY contextEditBookmark.label    "Szerkesztés">
-<!ENTITY contextRemoveBookmark.label  "Eltávolítás">
+<!ENTITY contextOpenInNewTab.label    "Open Link in New Tab">
+<!ENTITY contextSaveLink.label        "Save Link">
+<!ENTITY contextSaveImage.label       "Save Image">
+<!ENTITY contextShareLink.label       "Share Link">
+<!ENTITY contextShareImage.label      "Share Image">
+<!ENTITY contextBookmarkLink.label    "Bookmark Link">
+<!ENTITY contextSaveVideo.label       "Save Video">
+<!ENTITY contextShareVideo.label      "Share Video">
+<!ENTITY contextPlayMedia.label       "Play">
+<!ENTITY contextPauseMedia.label      "Pause">
+<!ENTITY contextFullScreen.label      "Full Screen">
+<!ENTITY contextEditBookmark.label    "Edit">
+<!ENTITY contextRemoveBookmark.label  "Remove">
 
-<!ENTITY pageactions.saveas.pdf      "Mentés PDF-ként">
-<!ENTITY pageactions.share.page      "Oldal megosztása">
-<!ENTITY pageactions.password.forget "Jelszó elfelejtése">
-<!ENTITY pageactions.reset           "Webhelybeállítások törlése">
-<!ENTITY pageactions.findInPage      "Keresés az oldalon">
-<!ENTITY pageactions.search.addNew   "Keresőszolgáltatás hozzáadása">
-<!ENTITY pageactions.charEncoding    "Karakterkódolás">
+<!ENTITY pageactions.saveas.pdf      "Save As PDF">
+<!ENTITY pageactions.share.page      "Share Page">
+<!ENTITY pageactions.password.forget "Forget Password">
+<!ENTITY pageactions.reset           "Clear Site Preferences">
+<!ENTITY pageactions.findInPage      "Find In Page">
+<!ENTITY pageactions.search.addNew   "Add Search Engine">
+<!ENTITY pageactions.charEncoding    "Character Encoding">
 
-<!ENTITY appMenu.siteOptions         "Webhely beállításai">
+<!ENTITY appMenu.siteOptions         "Site Options">
