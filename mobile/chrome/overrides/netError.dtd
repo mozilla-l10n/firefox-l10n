@@ -1,171 +1,174 @@
 <!ENTITY % brandDTD SYSTEM "chrome://branding/locale/brand.dtd">
-  %brandDTD;
+%brandDTD;
 
-<!ENTITY loadError.label "Probléma az oldal betöltése közben">
-<!ENTITY retry.label "Próbálja újra">
+<!ENTITY loadError.label "Problem loading page">
+<!ENTITY retry.label "Try Again">
 
 <!-- Specific error messages -->
 
-<!ENTITY connectionFailure.title "A kapcsolódás sikertelen">
+<!ENTITY connectionFailure.title "Unable to connect">
 <!ENTITY connectionFailure.longDesc "&sharedLongDesc;">
 
-<!ENTITY deniedPortAccess.title "Ez a cím tiltva van">
+<!ENTITY deniedPortAccess.title "This address is restricted">
 <!ENTITY deniedPortAccess.longDesc "">
 
-<!ENTITY dnsNotFound.title "A kiszolgáló nem található">
+<!ENTITY dnsNotFound.title "Server not found">
 <!ENTITY dnsNotFound.longDesc "
 <ul>
-  <li>Ellenőrizze a címet, nem gépelte-e el. Például nem írt-e
-    <strong>ww</strong>.valami.hu-t a
-    <strong>www</strong>.valami.hu helyett.</li>
-  <li>Ha semmilyen oldalt nem tud letölteni, ellenőrizze a számítógépe hálózati
-    kapcsolatát.</li>
-  <li>Ha a számítógépet vagy a hálózatot tűzfal vagy proxy védi, ellenőrizze, hogy a
-    &brandShortName; számára engedélyezett-e a webhozzáférés.</li>
+  <li>Check the address for typing errors such as
+    <strong>ww</strong>.example.com instead of
+    <strong>www</strong>.example.com</li>
+  <li>If you are unable to load any pages, check your computer's network
+    connection.</li>
+  <li>If your computer or network is protected by a firewall or proxy, make sure
+    that &brandShortName; is permitted to access the Web.</li>
 </ul>
 ">
 
-<!ENTITY fileNotFound.title "A fájl nem található">
+<!ENTITY fileNotFound.title "File not found">
 <!ENTITY fileNotFound.longDesc "
 <ul>
-  <li>Ellenőrizze a fájlnevet, hogy jól írta-e.</li>
-  <li>Ellenőrizze, hogy a fájlt áthelyezték-e, átnevezték-e vagy eltávolították-e.</li>
+  <li>Check the file name for capitalization or other typing errors.</li>
+  <li>Check to see if the file was moved, renamed or deleted.</li>
 </ul>
 ">
 
 
-<!ENTITY generic.title "Hoppá!">
+<!ENTITY generic.title "Oops.">
 <!ENTITY generic.longDesc "
-<p> A &brandShortName; nem tudja betölteni az oldalt valamilyen okból.</p>
+<p>&brandShortName; can't load this page for some reason.</p>
 ">
 
-<!ENTITY malformedURI.title "A cím érvénytelen">
+<!ENTITY malformedURI.title "The address isn't valid">
 <!ENTITY malformedURI.longDesc "
 <ul>
-  <li>A webcímeket általában
-    <strong>http://www.example.com/</strong> formában írják.</li>
-  <li>Ellenőrizze, hogy előre dőlő perjeleket használ-e (azaz:
+  <li>Web addresses are usually written like
+    <strong>http://www.example.com/</strong></li>
+  <li>Make sure that you're using forward slashes (i.e.
     <strong>/</strong>).</li>
 </ul>
 ">
 
-<!ENTITY netInterrupt.title "A kapcsolat megszakadt">
+<!ENTITY netInterrupt.title "The connection was interrupted">
 <!ENTITY netInterrupt.longDesc "&sharedLongDesc;">
 
-<!ENTITY netOffline.title "Kapcsolat nélküli mód">
+<!ENTITY netOffline.title "Offline mode">
 <!ENTITY netOffline.overrideLongDesc "
 <ul>
-  <li>Próbálja újra. A &brandShortName; megpróbál kapcsolatot nyitni, és újra letölteni az oldalt.</li>
+  <li>Try again. &brandShortName; will attempt to open a connection and reload the page.</li>
 </ul>
 ">
 
-<!ENTITY contentEncodingError.title "Tartalomkódolási hiba">
+<!ENTITY contentEncodingError.title "Content Encoding Error">
 <!ENTITY contentEncodingError.longDesc "
 <ul>
-  <li>Értesítse a webhely tulajdonosait erről a problémáról.</li>
+  <li>Please contact the website owners to inform them of this problem.</li>
 </ul>
 ">
 
-<!ENTITY unsafeContentType.title "Nem biztonságos fájltípus">
+<!ENTITY unsafeContentType.title "Unsafe File Type">
 <!ENTITY unsafeContentType.longDesc "
 <ul>
-  <li>Értesítse a webhely tulajdonosait erről a problémáról.</li>
+  <li>Please contact the website owners to inform them of this problem.</li>
 </ul>
 ">
 
-<!ENTITY netReset.title "A kapcsolat alaphelyzetbe állt">
+<!ENTITY netReset.title "The connection was reset">
 <!ENTITY netReset.longDesc "&sharedLongDesc;">
 
-<!ENTITY netTimeout.title "A kapcsolat időtúllépés miatt megszakadt">
+<!ENTITY netTimeout.title "The connection has timed out">
 <!ENTITY netTimeout.longDesc "&sharedLongDesc;">
 
-<!ENTITY protocolNotFound.title "A cím nem volt érthető">
+<!ENTITY protocolNotFound.title "The address wasn't understood">
 <!ENTITY protocolNotFound.longDesc "
 <ul>
-  <li>Lehet, hogy egyéb szoftvert kell telepítenie a cím megnyitásához.</li>
+  <li>You might need to install other software to open this address.</li>
 </ul>
 ">
 
-<!ENTITY proxyConnectFailure.title "A proxykiszolgáló visszautasította a kapcsolatokat">
+<!ENTITY proxyConnectFailure.title "The proxy server is refusing connections">
 <!ENTITY proxyConnectFailure.longDesc "
 <ul>
-  <li>Ellenőrizze a proxybeállításokat, hogy helyesek-e.</li>
-  <li>Kérdezze meg a hálózati rendszergazdától, hogy a proxykiszolgáló
-    működik-e.</li>
+  <li>Check the proxy settings to make sure that they are correct.</li>
+  <li>Contact your network administrator to make sure the proxy server is
+    working.</li>
 </ul>
 ">
 
-<!ENTITY proxyResolveFailure.title " Nem található a proxykiszolgáló">
+<!ENTITY proxyResolveFailure.title "Unable to find the proxy server">
 <!ENTITY proxyResolveFailure.longDesc "
 <ul>
-  <li>Ellenőrizze a proxybeállításokat, hogy helyesek-e.</li>
-  <li>Ellenőrizze, hogy a számítógép hálózati kapcsolata működik-e.</li>
-  <li>Ha a számítógépet vagy a hálózatot tűzfal vagy proxy védi, ellenőrizze, hogy a
-    &brandShortName; számára engedélyezett-e a webhozzáférés.</li>
+  <li>Check the proxy settings to make sure that they are correct.</li>
+  <li>Check to make sure your computer has a working network connection.</li>
+  <li>If your computer or network is protected by a firewall or proxy, make sure
+    that &brandShortName; is permitted to access the Web.</li>
 </ul>
 ">
 
-<!ENTITY redirectLoop.title "Az oldal nem megfelelően van átirányítva">
+<!ENTITY redirectLoop.title "The page isn't redirecting properly">
 <!ENTITY redirectLoop.longDesc "
 <ul>
-  <li>Ez a probléma sokszor a letiltott vagy visszautasított sütik miatt jelentkezik.</li>
+  <li>This problem can sometimes be caused by disabling or refusing to accept
+    cookies.</li>
 </ul>
 ">
 
-<!ENTITY unknownSocketType.title "Váratlan válasz a kiszolgálótól">
+<!ENTITY unknownSocketType.title "Unexpected response from server">
 <!ENTITY unknownSocketType.longDesc "
 <ul>
-  <li>Ellenőrizze, hogy a rendszerre telepítve van-e a Personal Security Manager
-    modul.</li>
-  <li>A hibát okozhatja a kiszolgáló nem szabványos beállítása is.</li>
+  <li>Check to make sure your system has the Personal Security Manager
+    installed.</li>
+  <li>This might be due to a non-standard configuration on the server.</li>
 </ul>
 ">
 
-<!ENTITY nssFailure2.title "A biztonságos kapcsolat sikertelen">
+<!ENTITY nssFailure2.title "Secure Connection Failed">
 <!ENTITY nssFailure2.longDesc "
 <ul>
-  <li>A megtekinteni kívánt oldal nem jeleníthető meg, mert a kapott adatok hitelesége nem volt ellenőrizhető.</li>
-  <li>Értesítse a webhely tulajdonosait erről a problémáról. A másik lehetőség, hogy a Súgó menü megfelelő menüpontjának segítségével jelentse be ezt a hibás webhelyet.</li>
+  <li>The page you are trying to view can not be shown because the authenticity of the received data could not be verified.</li>
+  <li>Please contact the web site owners to inform them of this problem. Alternatively, use the command found in the help menu to report this broken site.</li>
 </ul>
 ">
 
-<!ENTITY nssBadCert.title "A biztonságos kapcsolat sikertelen">
+<!ENTITY nssBadCert.title "Secure Connection Failed">
 <!ENTITY nssBadCert.longDesc2 "
 <ul>
-<li>Ezt okozhatja a kiszolgáló nem megfelelő beállítása, de az is lehet, hogy valaki megpróbál a kiszolgáló nevében fellépni.</li>
-<li>Ha korábban már sikeresen kapcsolódott ehhez a kiszolgálóhoz, akkor lehet, hogy a hiba csak ideiglenes, és később újra próbálkozhat.</li>
+  <li>This could be a problem with the server's configuration, or it could be
+someone trying to impersonate the server.</li>
+  <li>If you have connected to this server successfully in the past, the error may
+be temporary, and you can try again later.</li>
 </ul>
 ">
 
 <!ENTITY sharedLongDesc "
 <ul>
-  <li>A webhely ideiglenesen nem érhető el vagy túlterhelt. Próbálja újra pár
-    perc múlva.</li>
-  <li>Ha semmilyen oldalt nem tud letölteni, ellenőrizze a számítógépe hálózati
-    kapcsolatát.</li>
-  <li>Ha a számítógépet vagy a hálózatot tűzfal vagy proxy védi, ellenőrizze, hogy a
-    &brandShortName; számára engedélyezett-e a webhozzáférés.</li>
+  <li>The site could be temporarily unavailable or too busy. Try again in a few
+    moments.</li>
+  <li>If you are unable to load any pages, check your computer's network
+    connection.</li>
+  <li>If your computer or network is protected by a firewall or proxy, make sure
+    that &brandShortName; is permitted to access the Web.</li>
 </ul>
 ">
 
-<!ENTITY malwareBlocked.title "Valószínűleg támadó webhely!">
+<!ENTITY malwareBlocked.title "Suspected Attack Site!">
 <!ENTITY malwareBlocked.longDesc "
-<p>A támadó webhelyek megpróbálnak olyan programokat telepíteni, amelyek személyes adatokat lopnak el, a számítógépet mások megtámadására használják, vagy károsítják a rendszert.</p>
-<p>Azok a webhelytulajdonosok, akik szerint a webhelyüket tévedésből azonosították támadó webhelyként, <a href='http://www.stopbadware.org/home/reviewinfo' >felülvizsgálatot kérhetnek</a>.</p>
+<p>Attack sites try to install programs that steal private information, use your computer to attack others, or damage your system.</p>
+<p>Web site owners who believe their site has been reported as an attack site in error may <a href='http://www.stopbadware.org/home/reviewinfo' >request a review</a>.</p>
 ">
 
-<!ENTITY phishingBlocked.title "Valószínűleg hamisított webhely!">
+<!ENTITY phishingBlocked.title "Suspected Web Forgery!">
 <!ENTITY phishingBlocked.longDesc "
-<p>Ha személyes adatot ad meg ezen az oldalon, az a személyazonosságának ellopásához vagy más csaláshoz vezethet.</p>
-<p>Az ilyen típusú hamisított weboldalakat az adathalászat nevű csaláshoz szokták felhasználni, amely során megbízhatónak tűnő weboldalakkal vagy e-mailekkel próbálják a felhasználó becsapni.</p>
+<p>Entering any personal information on this page may result in identity theft or other fraud.</p>
+<p>These types of web forgeries are used in scams known as phishing attacks, in which fraudulent web pages and emails are used to imitate sources you may trust.</p>
 ">
 
-<!ENTITY cspFrameAncestorBlocked.title "Blokkolva a tartalombiztonsági irányelv szerint">
-<!ENTITY cspFrameAncestorBlocked.longDesc "<p>A &brandShortName; nem engedte meg, hogy az oldalt ezen a módon betöltse, mert az oldal tartalombiztonsági irányelve ezt tiltja.</p>">
+<!ENTITY cspFrameAncestorBlocked.title "Blocked by Content Security Policy">
+<!ENTITY cspFrameAncestorBlocked.longDesc "<p>&brandShortName; prevented this page from loading in this way because the page has a content security policy that disallows it.</p>">
 
-<!ENTITY securityOverride.linkText "Vagy hozzáadhat egy kivételt...">
-<!ENTITY securityOverride.getMeOutOfHereButton "Oldal elhagyása">
-<!ENTITY securityOverride.exceptionButtonLabel "Kivétel hozzáadása...">
+<!ENTITY securityOverride.linkText "Or you can add an exception...">
+<!ENTITY securityOverride.getMeOutOfHereButton "Get me out of here!">
+<!ENTITY securityOverride.exceptionButtonLabel "Add Exception...">
 
 <!-- LOCALIZATION NOTE (securityOverride.warningContent) - Do not translate the
 contents of the <xul:button> tags.  The only language content is the label= field,
@@ -173,7 +176,12 @@ which uses strings already defined above. The button is included here (instead o
 netError.xhtml) because it exposes functionality specific to firefox. -->
 
 <!ENTITY securityOverride.warningContent "
-<p>Ne adjon hozzá kivételt, ha nem teljesen megbízható internetkapcsolatot használ, vagy ha nem szokta látni ezt a figyelmeztetést ennél a kiszolgálónál.</p>
+<p>You should not add an exception if you are using an internet connection that you do not trust completely or if you are not used to seeing a warning for this server.</p>
+
 <button id='getMeOutOfHereButton'>&securityOverride.getMeOutOfHereButton;</button>
 <button id='exceptionDialogButton'>&securityOverride.exceptionButtonLabel;</button>
 ">
+
+<!ENTITY remoteXUL.title "Remote XUL">
+<!ENTITY remoteXUL.longDesc "<p><ul><li>Please contact the website owners to inform them of this problem.</li></ul></p>">
+
