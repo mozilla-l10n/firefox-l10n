@@ -9,10 +9,3 @@
 <!ENTITY aboutHome.noTabs                       "ਪਹਿਲਾਂ ਖੋਲ੍ਹੀ ਗਈ ਕੋਈ ਟੈਬ ਨਹੀਂ ਹੈ">
 <!ENTITY aboutHome.noAddons                     "ਕੋਈ ਸਿਫਾਰਸ਼ੀ ਐਡ-ਆਨ ਨਹੀਂ ਹੈ">
 
-
-<!-- LOCALIZATION NOTE: 'Firefox Spark' is the official name of the
-promotion/constest and should not be translated -->
-<!ENTITY aboutHome.promoLabel                   "ਫ਼ਾਇਰਫ਼ਾਕਸ ਸਪਾਰਕ">
-<!-- LOCALIZATION NOTE: 'Play' should be translated in the context of 'playing a
-game' and not 'playing a video' -->
-<!ENTITY aboutHome.promoButton                  "ਚਲਾਓ">
