@@ -1,5 +1,6 @@
 <!ENTITY  splash_screen_label "kargatzen">
 <!ENTITY  splash_screen_installing "liburutegiak instalatzen\u2026">
+<!ENTITY  splash_firstrun "&brandShortName; konfiguratzen\u2026">
 <!ENTITY  incompatable_cpu_error "Gailu honek ez ditu sistemaren gutxieneko beharrak betetzen &brandShortName;(r)entzat.">
 <!ENTITY  no_space_to_start_error "Ez dago toki libre nahikorik &brandShortName; hasteko.">
 <!ENTITY  error_loading_file "Errorea gertatu da &brandShortName; exekutatzeko behar diren fitxategiak kargatzean">
