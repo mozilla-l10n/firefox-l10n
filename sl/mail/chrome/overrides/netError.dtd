@@ -54,7 +54,7 @@
 <!ENTITY netOffline.title "Brez povezave">
 <!ENTITY netOffline.longDesc2 "
 <ul>
-  <li>Prestavite &brandShortName; v način s povezavo in poskusite potem znova.</li>
+  <li>Pritisnite na &quot;Poizkusite znova&quot;, da preklopite v povezan način, in stran naložite znova.</li>
 </ul>
 ">
 
