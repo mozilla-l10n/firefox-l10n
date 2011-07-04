@@ -1,23 +1,23 @@
-<!ENTITY prefsHeader.label                         "Preferences">
-<!ENTITY about.title                               "About &brandShortName;">
-<!ENTITY about.button                              "Go to Page">
-<!ENTITY content.title                             "Content">
-<!ENTITY reflowZoom.title                          "Reformat text on zoom">
-<!ENTITY showImages.title                          "Show images">
-<!ENTITY enableJavaScript.title                    "Enable JavaScript">
-<!ENTITY enablePlugins.title                       "Enable Plugins">
-<!ENTITY privacy.title                             "Privacy &amp; Security">
-<!ENTITY allowCookies.title                        "Allow cookies">
-<!ENTITY doNotTrack.title                          "Tell sites not to track me">
-<!ENTITY clearPrivateData2.title                   "Clear private data">
-<!ENTITY clearPrivateData.button                   "Clear">
-<!ENTITY rememberPasswords.title                   "Remember passwords">
-<!ENTITY language.title                            "Language">
-<!ENTITY language.auto                             "Auto-detect">
-<!ENTITY defaultBrowser.title                      "Default Browser">
-<!ENTITY defaultBrowser.description                "Make &brandShortName; your default browser">
-<!ENTITY homepage.title                            "Start page">
-<!ENTITY homepage.none                             "Blank Page">
-<!ENTITY homepage.default                          "&brandShortName; Start">
-<!ENTITY homepage.currentpage                      "Use Current Page">
-<!ENTITY showCharset.title                         "Show Character Encoding">
+<!ENTITY prefsHeader.label                         "Beállítások">
+<!ENTITY about.title                               "A &brandShortName; névjegye">
+<!ENTITY about.button                              "Ugrás az oldalra">
+<!ENTITY content.title                             "Tartalom">
+<!ENTITY reflowZoom.title                          "Szöveg újraformázása nagyításkor">
+<!ENTITY showImages.title                          "Képek megjelenítése">
+<!ENTITY enableJavaScript.title                    "JavaScript engedélyezése">
+<!ENTITY enablePlugins.title                       "Bővítmények engedélyezése">
+<!ENTITY privacy.title                             "Adatvédelem és biztonság">
+<!ENTITY allowCookies.title                        "Sütik engedélyezése">
+<!ENTITY doNotTrack.title                          "Ne kövessenek a webhelyek">
+<!ENTITY clearPrivateData2.title                   "Személyes adatok törlése">
+<!ENTITY clearPrivateData.button                   "Törlés">
+<!ENTITY rememberPasswords.title                   "Jelszavak megjegyzése">
+<!ENTITY language.title                            "Nyelv">
+<!ENTITY language.auto                             "Automatikus">
+<!ENTITY defaultBrowser.title                      "Alapértelmezett böngésző">
+<!ENTITY defaultBrowser.description                "Legyen a &brandShortName; az alapértelmezett böngésző">
+<!ENTITY homepage.title                            "Kezdőoldal">
+<!ENTITY homepage.none                             "Üres oldal">
+<!ENTITY homepage.default                          "&brandShortName; kezdőoldal">
+<!ENTITY homepage.currentpage                      "Aktuális oldal használata">
+<!ENTITY showCharset.title                         "Karakterkódolás megjelenítése">
