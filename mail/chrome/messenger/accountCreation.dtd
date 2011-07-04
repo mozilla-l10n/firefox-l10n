@@ -45,10 +45,10 @@
      displayed on the button in manual edit mode which will re-guess
      the account configuration, taking into account the settings that
      the user has manually changed. -->
-<!ENTITY retest.label                    "Ponovno preveri konfiguracijo">
-<!ENTITY retest.accesskey                "P">
-<!ENTITY edit.label                      "Uredi ročno">
-<!ENTITY edit.accesskey                  "U">
+<!ENTITY half-manual-test.label                 "Ponovno preveri konfiguracijo">
+<!ENTITY half-manual-test.accesskey             "P">
+<!ENTITY manual-edit.label                      "Uredi ročno">
+<!ENTITY manual-edit.accesskey                  "U">
 
 
 <!ENTITY warning.label                   "Opozorilo!">

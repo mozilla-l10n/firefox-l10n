@@ -403,9 +403,9 @@ you can use these alternative items. Otherwise, their values should be empty.  -
 <!ENTITY tagCmd9.key "9">
 <!ENTITY markMenu.label "Označi">
 <!ENTITY markMenu.accesskey "O">
+<!ENTITY toggleReadCmd.key "m">
 <!ENTITY markAsReadCmd.label "Kot prebrano">
 <!ENTITY markAsReadCmd.accesskey "P">
-<!ENTITY markAsReadCmd.key "p">
 <!ENTITY markAsUnreadCmd.label "Kot neprebrano">
 <!ENTITY markAsUnreadCmd.accesskey "O">
 <!ENTITY markThreadAsReadCmd.label "Nit kot prebrano">
@@ -517,7 +517,6 @@ you can use these alternative items. Otherwise, their values should be empty.  -
 <!ENTITY getMsgButton.tooltip "Dobi nova sporočila">
 <!ENTITY getAllNewMsgCmd.label "Prenesi vsa nova sporočila">
 <!ENTITY getAllNewMsgCmd.accesskey "o">
-<!ENTITY getAllNewMsgCmd.key "T">
 <!ENTITY newMsgButton.tooltip "Ustvari novo sporočilo">
 <!ENTITY replyButton.tooltip "Odgovori na sporočilo">
 <!ENTITY replyAllButton.tooltip "Odgovori pošiljatelju in vsem prejemnikom">
@@ -591,7 +590,7 @@ you can use these alternative items. Otherwise, their values should be empty.  -
 <!ENTITY SearchNameOrEmail.accesskey "I">
 
 <!-- Gloda Search Bar -->
-<!ENTITY glodaSearchBar.placeHolder "Išči po sporočilih …">
+<!ENTITY glodaSearchBar.placeholder "Išči po sporočilih …">
 
 <!-- Quick Search Menu Bar -->
 <!ENTITY searchSubjectMenu.label "Zadeva">
@@ -754,6 +753,7 @@ you can use these alternative items. Otherwise, their values should be empty.  -
 <!-- Phishing Bar -->
 <!ENTITY phishingBarMessage2.label "To sporočilo je morda prevara.">
 <!ENTITY removePhishingBarButton1.label "Prezri opozorilo">
+<!ENTITY disablePhishingWarning1.label "Onemogoči odkrivanje prevar za vsa sporočila">
 <!ENTITY reportPhishingError1.label "Za to sporočilo ni videti, da bi bilo prevara.">
 
 <!-- MDN Bar -->
