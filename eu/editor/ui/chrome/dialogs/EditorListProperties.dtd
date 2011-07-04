@@ -50,4 +50,4 @@
 <!ENTITY changeEntireListRadio.label "Aldatu zerrenda osoa">
 <!ENTITY changeEntireListRadio.accessKey "A">
 <!ENTITY changeSelectedRadio.label "Aldatu hautatutako elementuak soilik">
-<!ENTITY changeSelectedRadio.accessKey "I">
+<!ENTITY changeSelectedRadio.accessKey "i">

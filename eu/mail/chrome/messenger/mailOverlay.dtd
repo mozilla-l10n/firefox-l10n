@@ -1,7 +1,7 @@
-<!ENTITY newMessageCmd2.key "N">
-<!ENTITY newMessageCmd.key "M">
-<!ENTITY newMessageCmd.label "Mezua">
-<!ENTITY newMessageCmd.accesskey "m">
+<!ENTITY  newMessageCmd2.key              "N">
+<!ENTITY  newMessageCmd.key               "M">
+<!ENTITY  newMessageCmd.label             "Mezua">
+<!ENTITY  newMessageCmd.accesskey         "M">
  
-<!ENTITY newContactCmd.label "Helbide-liburu kontaktua…">
-<!ENTITY newContactCmd.accesskey "K">
+<!ENTITY  newContactCmd.label             "Helbide-liburu kontaktua…">
+<!ENTITY  newContactCmd.accesskey         "k">

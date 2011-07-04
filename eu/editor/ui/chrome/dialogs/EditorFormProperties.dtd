@@ -39,13 +39,13 @@
 <!ENTITY Settings.label "Ezarpenak">
 
 <!ENTITY FormName.label "Inprimaki izena:">
-<!ENTITY FormName.accesskey "N">
+<!ENTITY FormName.accesskey "n">
 <!ENTITY FormAction.label "Ekintza URL-a:">
-<!ENTITY FormAction.accesskey "A">
+<!ENTITY FormAction.accesskey "a">
 <!ENTITY FormMethod.label "Metodoa:">
 <!ENTITY FormMethod.accesskey "M">
 <!ENTITY FormEncType.label "Kodeketa:">
-<!ENTITY FormEncType.accesskey "k">
+<!ENTITY FormEncType.accesskey "K">
 <!ENTITY FormTarget.label "Helburu markoa:">
 <!ENTITY FormTarget.accesskey "H">
 

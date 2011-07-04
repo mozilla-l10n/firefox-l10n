@@ -1,12 +1,12 @@
-<!ENTITY systemIntegration.title "Sistemaren integrazioa">
-<!ENTITY defaultClient.intro "Erabili &brandShortName; lehenetsitako bezero gisa honentzat:">
+<!ENTITY systemIntegration.title  "Sistemaren integrazioa">
+<!ENTITY defaultClient.intro  "Erabili &brandShortName; lehenetsitako bezero gisa honentzat:">
 
 <!ENTITY email.label "E-posta">
 <!ENTITY newsgroups.label "Berri-taldeak">
 <!ENTITY feeds.label "Jarioak">
 
 <!ENTITY checkOnStartup.label "Egiaztatu beti &brandShortName; abiaraztean">
-<!ENTITY checkOnStartup.accesskey "A">
+<!ENTITY checkOnStartup.accesskey "a">
 
 <!ENTITY searchIntegration.label "Baimendu &searchIntegration.engineName;(r)i mezuak bilatzea">
 <!ENTITY searchIntegration.accesskey "B">

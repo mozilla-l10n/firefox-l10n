@@ -38,20 +38,23 @@
    -
    - ***** END LICENSE BLOCK ***** -->
 
-<!ENTITY folderProps.windowtitle.label "Propietateak">
+<!ENTITY folderProps.windowtitle.label           "Propietateak">
 
-<!ENTITY generalInfo.label "Argibide orokorrak">
-<!ENTITY folderCharsetTab.label "Karaktere-kodeketa lehenetsia:">
-<!ENTITY folderCharsetTab.accesskey "K">
-<!ENTITY folderCharsetOverride.label "Aplikatu lehenetsitakoa karpetako mezu guztiei (banakako mezuen karaktere-kodeketako ezarpenei eta detekzio automatikoari ezikusi egingo zaie)">
-<!ENTITY folderCharsetOverride.accesskey "A">
-<!ENTITY folderRebuildSummaryFile.label "Berreraiki indizea">
-<!ENTITY folderRebuildSummaryFile.accesskey "B">
-<!ENTITY folderRebuildSummaryFileTip.label "Berreraiki laburpen-fitxategia">
+<!ENTITY generalInfo.label                       "Argibide orokorrak">
+<!ENTITY folderCharsetTab.label                  "Karaktere-kodeketa lehenetsia:">
+<!ENTITY folderCharsetTab.accesskey              "K">
+<!ENTITY folderCharsetOverride.label             "Aplikatu lehenetsitakoa karpetako mezu guztiei (banakako mezuen karaktere-kodeketako ezarpenei eta detekzio automatikoari ezikusi egingo zaie)">
+<!ENTITY folderCharsetOverride.accesskey         "A">
+<!ENTITY folderRebuildSummaryFileTip2.label      "Berreraiki laburpen-fitxategiaren indizea">
+<!ENTITY folderRebuildSummaryFile2.label         "Konpondu karpeta">
+<!ENTITY folderRebuildSummaryFile2.accesskey     "K">
+<!ENTITY folderRebuildSummaryFile.explanation    "Batzutan karpetaren indize-fitxategia (.msf) kaltetu egiten da eta mezuak faltan daudela edo ezabatutako mezuak oraindik erakusten direla eman lezake; karpeta konpontzeak arazo hauek desagerraraz ditzake.">
+<!ENTITY folderIncludeInGlobalSearch.label       "Sartu karpeta honetako mezuak bilaketa globalaren emaitzetan">
+<!ENTITY folderIncludeInGlobalSearch.accesskey   "g">
      
 <!ENTITY retention.label "Gordetze-politika">
-<!ENTITY retentionUseDefault.label "Erabili zerbitzariak lehenetsitakoa">
-<!ENTITY retentionUseDefault.accesskey "l">
+<!ENTITY retentionUseAccount.label  "Erabili nire kontu-ezarpenak">
+<!ENTITY retentionUseAccount.accesskey "E">
 <!ENTITY daysOld.label "egun zahar">
 <!ENTITY message.label "mezu">
 <!ENTITY retentionCleanup.label "Diskoko lekua berreskuratzeko, mezu zaharrak betirako ezaba daitezke.">
@@ -60,40 +63,40 @@
 <!ENTITY retentionDeleteMsg.label "Ezabatu hau baino mezu zaharragoak">
 <!ENTITY retentionDeleteMsg.accesskey "m">
 <!ENTITY retentionKeepAll.label "Ez ezabatu mezurik">
-<!ENTITY retentionKeepAll.accesskey "A">
-<!ENTITY retentionKeepRecent.label "Delete all but the most recent">
-<!ENTITY retentionKeepRecent.accesskey "l">
+<!ENTITY retentionKeepAll.accesskey "a">
+<!ENTITY retentionKeepRecent.label "Ezabatu guztiak azkenaldikoak izan ezik">
+<!ENTITY retentionKeepRecent.accesskey "z">
 <!-- LOCALIZATION NOTE: Unhide with .keepUnreadOnly { display: -moz-box; } -->
-<!ENTITY retentionKeepUnreadHidden.label "Always delete read messages (overrides age settings)">
+<!ENTITY retentionKeepUnreadHidden.label "Ezabatu beti irakurritako mezuak (adin-ezarpenak gainidazten ditu)">
 <!ENTITY retentionApplyToFlagged.label "Mantendu beti mezu izardunak">
 <!ENTITY retentionApplyToFlagged.accesskey "e">
 
-<!ENTITY folderSynchronizationTab.label "Sinkronizazioa">
-<!ENTITY folderCheckForNewMessages.label "Egiaztatu karpeta honek mezu berriak dituen">
-<!ENTITY folderCheckForNewMessages.accesskey "E">
+<!ENTITY folderSynchronizationTab.label          "Sinkronizazioa">
+<!ENTITY folderCheckForNewMessages2.label         "Kontu honetarako mezu berriak eskuratzean, egiaztatu beti karpeta hau">
+<!ENTITY folderCheckForNewMessages2.accesskey     "K">
 
-<!ENTITY offlineFolder.check.label "Hautatu karpeta hau lineaz kanpo erabiltzeko">
-<!ENTITY offlineFolder.check.accesskey "H">
-<!ENTITY offlineFolder.button.label "Deskargatu orain">
-<!ENTITY offlineFolder.button.accesskey "D">
+<!ENTITY offlineFolder.check.label               "Hautatu karpeta hau lineaz kanpo erabiltzeko">
+<!ENTITY offlineFolder.check.accesskey           "H">
+<!ENTITY offlineFolder.button.label              "Deskargatu orain">
+<!ENTITY offlineFolder.button.accesskey          "D">
 
-<!ENTITY selectofflineNewsgroup.check.label "Hautatu berri-talde hau lineaz kanpo erabiltzeko">
-<!ENTITY selectofflineNewsgroup.check.accesskey "l">
-<!ENTITY offlineNewsgroup.button.label "Deskargatu orain">
-<!ENTITY offlineNewsgroup.button.accesskey "D">
+<!ENTITY selectofflineNewsgroup.check.label      "Hautatu berri-talde hau lineaz kanpo erabiltzeko">
+<!ENTITY selectofflineNewsgroup.check.accesskey  "l">
+<!ENTITY offlineNewsgroup.button.label           "Deskargatu orain">
+<!ENTITY offlineNewsgroup.button.accesskey       "D">
 
-<!ENTITY folderProps.name.label "Izena:">
-<!ENTITY folderProps.name.accesskey "I">
-<!ENTITY folderProps.location.label "Kokalekua:">
-<!ENTITY folderProps.location.accesskey "L">
+<!ENTITY folderProps.name.label                  "Izena:">
+<!ENTITY folderProps.name.accesskey              "I">
+<!ENTITY folderProps.location.label              "Kokalekua:">
+<!ENTITY folderProps.location.accesskey          "l">
 
-<!ENTITY folderSharingTab.label "Partekatzea">
-<!ENTITY privileges.button.label "Pribilegioak…">
-<!ENTITY privileges.button.accesskey "P">
-<!ENTITY permissionsDesc.label "Hurrengo baimenak dituzu:">
-<!ENTITY folderType.label "Karpeta mota:">
+<!ENTITY folderSharingTab.label                  "Partekatzea">
+<!ENTITY privileges.button.label                 "Pribilegioak…">
+<!ENTITY privileges.button.accesskey             "P">
+<!ENTITY permissionsDesc.label                   "Hurrengo baimenak dituzu:">
+<!ENTITY folderType.label                        "Karpeta mota:">
 
-<!ENTITY folderQuotaTab.label "Kuota">
-<!ENTITY folderQuotaRoot.label "Kuota-erroa:">
-<!ENTITY folderQuotaUsage.label "Erabilera:">
-<!ENTITY folderQuotaStatus.label "Egoera:">
+<!ENTITY folderQuotaTab.label                    "Kuota">
+<!ENTITY folderQuotaRoot.label                   "Kuota-erroa:">
+<!ENTITY folderQuotaUsage.label                  "Erabilera:">
+<!ENTITY folderQuotaStatus.label                 "Egoera:">

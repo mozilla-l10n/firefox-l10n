@@ -6,18 +6,18 @@
 
 <!ENTITY smtpDesc.label "Nahiz eta posta bidaltzeko zerbitzari (SMTP) bat baino gehiago konfiguratzeko aukera egon, erabiltzaile aurreratuentzako bakarrik gomendatzen da. Hainbat SMTP zerbitzari ezartzeak erroreak ekar ditzake mezuak bidaltzerakoan.">
 
-<!ENTITY smtpListAdd.label "Gehitu…">
-<!ENTITY smtpListAdd.accesskey "g">
+<!ENTITY smtpListAdd.label  "Gehitu…">
+<!ENTITY smtpListAdd.accesskey  "G">
 <!ENTITY smtpListEdit.label "Editatu…">
 <!ENTITY smtpListEdit.accesskey "E">
 <!ENTITY smtpListDelete.label "Ezabatu">
 <!ENTITY smtpListDelete.accesskey "z">
 <!ENTITY smtpListSetDefault.label "Lehenetsi">
-<!ENTITY smtpListSetDefault.accesskey "l">
+<!ENTITY smtpListSetDefault.accesskey "L">
 
 <!ENTITY serverDescription.label "Azalpena: ">
 <!ENTITY serverName.label "Zerbitzari-izena: ">
 <!ENTITY serverPort.label "Ataka: ">
-<!ENTITY userName.label "Erabiltzaile-izena: ">
+<!ENTITY userName.label   "Erabiltzaile-izena: ">
 <!ENTITY connectionSecurity.label "Konexioaren segurtasuna: ">
-<!ENTITY useSecureAuthentication.label "Autentifikazio segurua: ">
+<!ENTITY authMethod.label   "Autentifikazio metodoa: ">

@@ -1,72 +1,76 @@
-<!ENTITY fontsAndEncodingsDialog.title "Letra-tipoak eta kodeketak">
-<!ENTITY window.width "45em">
-<!ENTITY window.macWidth "49em">
-<!ENTITY window.unixWidth "47em">
+<!ENTITY  fontsAndEncodingsDialog.title           "Letra-tipoak eta kodeketak">
+<!ENTITY  window.width                            "45em">
+<!ENTITY  window.macWidth                         "49em">
+<!ENTITY  window.unixWidth                        "47em">
 
-<!ENTITY language.label "Letra-tipoa:">
-<!ENTITY language.accesskey "t">
+<!ENTITY  language.label                          "Letra-tipoa:">
+<!ENTITY  language.accesskey                      "t">
 
-<!ENTITY sizes.label "Tamaina (pixel)">
-<!ENTITY proportionalSize.accesskey "e">
-<!ENTITY monospaceSize.accesskey "x">
+<!ENTITY  size.label                              "Tamaina:">
+<!ENTITY  proportionalSize.accesskey              "e">
+<!ENTITY  sizeMono.accesskey                      "e">
 
-<!ENTITY proportional.label "Proportzionala:">
-<!ENTITY proportional.accesskey "P">
+<!ENTITY  proportional.label                      "Proportzionala:">
+<!ENTITY  proportional.accesskey                  "P">
 
-<!ENTITY serif.label "Serif:">
-<!ENTITY serif.accesskey "s">
-<!ENTITY sans-serif.label "Sans-serif:">
-<!ENTITY sans-serif.accesskey "n">
-<!ENTITY monospace.label "Tarte bakarrekoa:">
-<!ENTITY monospace.accesskey "t">
+<!ENTITY  serif.label                             "Serif:">
+<!ENTITY  serif.accesskey                         "S">
+<!ENTITY  sans-serif.label                        "Sans-serif:">
+<!ENTITY  sans-serif.accesskey                    "n">
+<!ENTITY  monospace.label                         "Tarte bakarrekoa:">
+<!ENTITY  monospace.accesskey                     "T">
 
-<!ENTITY font.langGroup.latin1 "Mendebaldekoa">
-<!ENTITY font.langGroup.latin2 "Europa erdialdekoa">
-<!ENTITY font.langGroup.japanese "Japoniarra">
-<!ENTITY font.langGroup.trad-chinese "Txinatar arrunta (Taiwan)">
-<!ENTITY font.langGroup.simpl-chinese "Txinatar soildua">
-<!ENTITY font.langGroup.trad-chinese-hk "Txinatar arrunta (Hong Kong)">
-<!ENTITY font.langGroup.korean "Koreera">
-<!ENTITY font.langGroup.cyrillic "Zirilikoa">
-<!ENTITY font.langGroup.baltic "Baltikoa">
-<!ENTITY font.langGroup.el "Grekoa">
-<!ENTITY font.langGroup.turkish "Turkiera">
-<!ENTITY font.langGroup.unicode "Beste hizkuntzak">
-<!ENTITY font.langGroup.user-def "Erabiltzaileak definitua">
-<!ENTITY font.langGroup.thai "Thailandiera">
-<!ENTITY font.langGroup.hebrew "Hebreera">
-<!ENTITY font.langGroup.arabic "Arabiera">
-<!ENTITY font.langGroup.devanagari "Devanagariarra">
-<!ENTITY font.langGroup.tamil "Tamilera">
-<!ENTITY font.langGroup.armenian "Armeniera">
-<!ENTITY font.langGroup.bengali "Bengaliera">
-<!ENTITY font.langGroup.canadian "Kanadar Syllabary Batua">
-<!ENTITY font.langGroup.ethiopic "Etiopiera">
-<!ENTITY font.langGroup.georgian "Georgiera">
-<!ENTITY font.langGroup.gujarati "Gujaratiera">
-<!ENTITY font.langGroup.gurmukhi "Gurmukhiera">
-<!ENTITY font.langGroup.khmer "Khmerera">
-<!ENTITY font.langGroup.malayalam "Malayalera">
+<!ENTITY  font.langGroup.latin1                   "Mendebaldekoa">
+<!ENTITY  font.langGroup.latin2                   "Europa erdialdekoa">
+<!ENTITY  font.langGroup.japanese                 "Japoniarra">
+<!ENTITY  font.langGroup.trad-chinese             "Txinatar arrunta (Taiwan)">
+<!ENTITY  font.langGroup.simpl-chinese            "Txinatar soildua">
+<!ENTITY  font.langGroup.trad-chinese-hk          "Txinatar arrunta (Hong Kong)">
+<!ENTITY  font.langGroup.korean                   "Koreera">
+<!ENTITY  font.langGroup.cyrillic                 "Zirilikoa">
+<!ENTITY  font.langGroup.baltic                   "Baltikoa">
+<!ENTITY  font.langGroup.el                       "Grekoa">
+<!ENTITY  font.langGroup.turkish                  "Turkiera">
+<!ENTITY  font.langGroup.unicode                  "Beste hizkuntzak">
+<!ENTITY  font.langGroup.user-def                 "Erabiltzaileak definitua">
+<!ENTITY  font.langGroup.thai                     "Thailandiera">
+<!ENTITY  font.langGroup.hebrew                   "Hebreera">
+<!ENTITY  font.langGroup.arabic                   "Arabiera">
+<!ENTITY  font.langGroup.devanagari               "Devanagariarra">
+<!ENTITY  font.langGroup.tamil                    "Tamilera">
+<!ENTITY  font.langGroup.armenian                 "Armeniera">
+<!ENTITY  font.langGroup.bengali                  "Bengaliera">
+<!ENTITY  font.langGroup.canadian                 "Kanadar Syllabary Batua">
+<!ENTITY  font.langGroup.ethiopic                 "Etiopiera">
+<!ENTITY  font.langGroup.georgian                 "Georgiera">
+<!ENTITY  font.langGroup.gujarati                 "Gujaratiera">
+<!ENTITY  font.langGroup.gurmukhi                 "Gurmukhiera">
+<!ENTITY  font.langGroup.khmer                    "Khmerera">
+<!ENTITY  font.langGroup.malayalam                "Malayalera">
 <!-- Minimum font size -->
 
-<!ENTITY minSize.label "Gutxieneko letra-tamaina:">
-<!ENTITY minSize.accesskey "x">
-<!ENTITY minSize.none "Bat ere ez">
+<!ENTITY minSize.label                            "Gutxieneko letra-tamaina:">
+<!ENTITY minSize.accesskey                        "x">
+<!ENTITY minSize.none                             "Bat ere ez">
 <!-- default font type -->
 
-<!ENTITY useDefaultFontSerif.label "Serif">
-<!ENTITY useDefaultFontSansSerif.label "Sans Serif">
+<!ENTITY  useDefaultFontSerif.label               "Serif">
+<!ENTITY  useDefaultFontSansSerif.label           "Sans Serif">
+<!-- fonts in message -->
 
-<!ENTITY useDocumentFonts.label "Baimendu mezuak beste letra-tipo batzuk erabiltzea">
-<!ENTITY useDocumentFonts.accesskey "o">
+<!ENTITY  fontControl.label                       "Letra-tipoaren kontrola">
+<!ENTITY  useFixedWidthForPlainText.label         "Erabili zabalera finkoko letra-tipoa testu-arrunteko mezuentzat">
+<!ENTITY  fixedWidth.accesskey                    "f">
+<!ENTITY  useDocumentFonts.label                  "Baimendu mezuak beste letra-tipo batzuk erabiltzea">
+<!ENTITY  useDocumentFonts.accesskey              "o">
 <!-- Language settings -->
 
-<!ENTITY sendDefaultCharset.label "Irteerako posta:">
-<!ENTITY sendDefaultCharset.accesskey "r">
-<!ENTITY languagesTitle1.label "Karaktere-kodeketa">
-<!ENTITY composingDescription.label "Ezarri lehenetsitako karaktere-kodeketak posta bidali eta jasotzeko">
+<!ENTITY sendDefaultCharset.label         "Irteerako posta:">
+<!ENTITY sendDefaultCharset.accesskey     "r">
+<!ENTITY languagesTitle1.label            "Karaktere-kodeketa">
+<!ENTITY composingDescription.label       "Ezarri lehenetsitako karaktere-kodeketak posta bidali eta jasotzeko">
 
-<!ENTITY viewDefaultCharsetList.label "Sarrerakoa posta:">
-<!ENTITY viewDefaultCharsetList.accesskey "S">
-<!ENTITY replyInDefaultCharset2.label "Ahal bada, erabili erantzunetan lehenetsitako karaktere-kodeketa">
+<!ENTITY viewDefaultCharsetList.label     "Sarrerakoa posta:">
+<!ENTITY viewDefaultCharsetList.accesskey  "S">
+<!ENTITY replyInDefaultCharset2.label     "Ahal bada, erabili erantzunetan lehenetsitako karaktere-kodeketa">
 <!ENTITY replyInDefaultCharset2.accesskey "h">

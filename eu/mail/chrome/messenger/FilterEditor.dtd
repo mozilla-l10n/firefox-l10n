@@ -1,7 +1,7 @@
 <!ENTITY window.title "Iragazkien arauak">
-
+<!ENTITY filterEditorDialog.dimensions "width: 100ch;">
 <!ENTITY filterName.label "Iragazkiaren izena:">
-<!ENTITY filterName.accesskey "i">
+<!ENTITY filterName.accesskey "I">
 
 <!ENTITY junk.label "Zaborra">
 <!ENTITY notJunk.label "Ez da zaborra">
@@ -17,6 +17,8 @@
 <!ENTITY contextIncoming.label "Posta arakatzean">
 <!ENTITY contextManual.label "Exekutatu eskuz">
 <!ENTITY contextBoth.label "Posta arakatzean edo eskuz exekutatzen">
+<!ENTITY contextPostPlugin.label "Posta egiaztatzea (sailkatu ondoren)">
+<!ENTITY contextPostPluginBoth.label "Posta egiaztatzea (sailkatu ondoren) edo eskuz exekutatzea">
 <!ENTITY filterActionDesc.label "Burutu ekintza hauek:">
 <!ENTITY filterActionDesc.accesskey "B">
 <!-- New Style Filter Rule Actions -->

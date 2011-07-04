@@ -4,7 +4,7 @@
 <!ENTITY encryptionGroupTitle.label "Zifratzea">
 <!ENTITY encryptionChoiceLabel.label "Mezuak bidaltzerakoan lehenetsitako zifratze-ezarpenak:">
 <!ENTITY neverEncrypt.label "Inoiz ez (ez erabili zifratzerik)">
-<!ENTITY neverEncrypt.accesskey "N">
+<!ENTITY neverEncrypt.accesskey "n">
 <!ENTITY alwaysEncryptMessage.label "Beharrezkoa (ezin da mezua bidali hartzaile guztiek ziurtagirik izan ezean)">
 <!ENTITY alwaysEncryptMessage.accesskey "r">
 <!ENTITY encryptionCert.message "Erabili ziurtagiri hau jasotako mezuak zifratu eta deszifratzeko:">
@@ -18,7 +18,7 @@
 <!ENTITY encryption.certificate_clear.accesskey "G">
 <!ENTITY signingGroupTitle.label "Sinadura digitala">
 <!ENTITY signMessage.label "Sinatu mezuak digitalki (lehenetsita)">
-<!ENTITY signMessage.accesskey "D">
+<!ENTITY signMessage.accesskey "d">
 <!ENTITY signingCert.message "Erabili ziurtagiri hau bidalitako mezuak digitalki sinatzeko:">
 
 <!ENTITY certificates.label "Ziurtagiriak">

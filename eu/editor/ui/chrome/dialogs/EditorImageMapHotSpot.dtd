@@ -41,18 +41,18 @@
 
 <!ENTITY windowTitle.label "Bero-gune propietateak">
 
-<!ENTITY link.label "Bero-gune lotura">
-<!ENTITY urlFieldset.label "Bero-gune URL-a:">
-<!ENTITY altFieldset.label "Bero-gune testua:">
-<!ENTITY browseButton.label "Arakatu…">
+<!ENTITY link.label    "Bero-gune lotura">
+<!ENTITY urlFieldset.label  "Bero-gune URL-a:">
+<!ENTITY altFieldset.label  "Bero-gune testua:">
+<!ENTITY browseButton.label  "Arakatu…">
 <!ENTITY targetFieldset.label "Helburu ezarpenak">
-<!ENTITY target.label "Bero-gune helburua">
+<!ENTITY target.label   "Bero-gune helburua">
 <!-- Targets -->
 
 <!ENTITY commonFieldset.label "Helburu bateratuak:">
-<!ENTITY none.value "(bat ere ez)">
-<!ENTITY same.value "Marko berdinean">
-<!ENTITY whole.value "Orri osoa">
-<!ENTITY new.value "Leiho berria">
-<!ENTITY parent.value "Jatorrizko markoa">
+<!ENTITY none.value    "(bat ere ez)">
+<!ENTITY same.value    "Marko berdinean">
+<!ENTITY whole.value   "Orri osoa">
+<!ENTITY new.value    "Leiho berria">
+<!ENTITY parent.value   "Jatorrizko markoa">
 

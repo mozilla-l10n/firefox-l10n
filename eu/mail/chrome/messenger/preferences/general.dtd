@@ -1,35 +1,35 @@
-<!ENTITY messengerStartPage.label "&brandShortName; hasiera-orria">
-<!ENTITY enableStartPage.label "&brandShortName; abiaraztean, erakutsi hasiera-orria mezuaren eremuan">
-<!ENTITY enableStartPage.accesskey "B">
-<!ENTITY location.label "Kokalekua:">
-<!ENTITY location1.accesskey "o">
-<!ENTITY useDefault.label "Berrezarri lehenetsia">
-<!ENTITY useDefault.accesskey "R">
+<!ENTITY messengerStartPage.label         "&brandShortName; hasiera-orria">
+<!ENTITY enableStartPage.label            "&brandShortName; abiaraztean, erakutsi hasiera-orria mezuaren eremuan">
+<!ENTITY enableStartPage.accesskey        "b">
+<!ENTITY location.label                   "Kokalekua:">
+<!ENTITY location1.accesskey               "o">
+<!ENTITY useDefault.label                 "Berrezarri lehenetsia">
+<!ENTITY useDefault.accesskey             "r">
 
-<!ENTITY bounceSystemDockIcon.label "Animatu jakinarazpen-ikonoa">
-<!ENTITY bounceSystemDockIcon.accesskey "i">
+<!ENTITY bounceSystemDockIcon.label       "Animatu jakinarazpen-ikonoa">
+<!ENTITY bounceSystemDockIcon.accesskey   "i">
 
-<!ENTITY newMessagesArrive.label "Mezu berri bat iristerakoan:">
-<!ENTITY playSound.label "Erreproduzitu soinua">
-<!ENTITY playSound1.accesskey "d">
-<!ENTITY showAnimatedAlert.label "Erakutsi abisua">
-<!ENTITY showAnimatedAlert.accesskey "S">
-<!ENTITY customizeMailAlert.label "Pertsonalizatu…">
-<!ENTITY customizeMailAlert.accesskey "P">
+<!ENTITY newMessagesArrive.label          "Mezu berri bat iristerakoan:">
+<!ENTITY playSound.label                  "Erreproduzitu soinua">
+<!ENTITY playSound1.accesskey              "d">
+<!ENTITY showAnimatedAlert.label          "Erakutsi abisua">
+<!ENTITY showAnimatedAlert.accesskey      "s">
+<!ENTITY customizeMailAlert.label         "Pertsonalizatu…">
+<!ENTITY customizeMailAlert.accesskey     "P">
 
-<!ENTITY play.label "Erreproduzitu">
-<!ENTITY play.accesskey "P">
-<!ENTITY systemsound.label "Lehenetsitako sistema-soinua posta berriarentzat">
-<!ENTITY systemsoundMac.label "Sistemaren alerta-soinua">
-<!ENTITY systemsoundMac.accesskey "i">
-<!ENTITY systemsound.accesskey "i">
-<!ENTITY customsound.label "Erabili hurrengo soinu-fitxategia">
-<!ENTITY customsound.accesskey "U">
-<!ENTITY browse.label "Arakatu…">
-<!ENTITY browse.accesskey "A">
+<!ENTITY play.label                       "Erreproduzitu">
+<!ENTITY play.accesskey                   "p">
+<!ENTITY systemsound.label                "Lehenetsitako sistema-soinua posta berriarentzat">
+<!ENTITY systemsoundMac.label             "Sistemaren alerta-soinua">
+<!ENTITY systemsoundMac.accesskey         "i">
+<!ENTITY systemsound.accesskey            "i">
+<!ENTITY customsound.label                "Erabili hurrengo soinu-fitxategia">
+<!ENTITY customsound.accesskey            "u">
+<!ENTITY browse.label                     "Arakatu…">
+<!ENTITY browse.accesskey                 "A">
 
-<!ENTITY addonsMgr.label "Gehigarriak">
-<!ENTITY manageAddonsDescWin.label "Aldatu zure gehigarrien aukerak">
-<!ENTITY manageAddonsDescUnix2.label "Aldatu zure gehigarrien ezarpenak">
-<!ENTITY manageAddons.label "Kudeatu gehigarriak…">
-<!ENTITY manageAddons.accesskey "K">
+<!ENTITY addonsMgr.label                  "Gehigarriak">
+<!ENTITY manageAddonsDescWin.label        "Aldatu zure gehigarrien aukerak">
+<!ENTITY manageAddonsDescUnix2.label      "Aldatu zure gehigarrien ezarpenak">
+<!ENTITY manageAddons.label               "Kudeatu gehigarriak…">
+<!ENTITY manageAddons.accesskey           "K">

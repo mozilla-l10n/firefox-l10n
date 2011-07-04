@@ -42,7 +42,7 @@
 <!ENTITY numRowsEditField.label "Errenkadak:">
 <!ENTITY numRowsEditField.accessKey "E">
 <!ENTITY numColumnsEditField.label "Zutabeak:">
-<!ENTITY numColumnsEditField.accessKey "U">
+<!ENTITY numColumnsEditField.accessKey "u">
 <!ENTITY widthEditField.label "Zabalera:">
 <!ENTITY widthEditField.accessKey "Z">
 <!ENTITY borderEditField.label "Ertza:">

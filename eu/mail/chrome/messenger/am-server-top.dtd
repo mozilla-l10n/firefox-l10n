@@ -6,7 +6,7 @@
 <!ENTITY serverName.label "Zerbitzari-izena:">
 <!ENTITY serverName.accesskey "Z">
 <!ENTITY userName.label "Erabiltzaile-izena:">
-<!ENTITY userName.accesskey "N">
+<!ENTITY userName.accesskey "n">
 <!ENTITY port.label "Ataka:">
 <!ENTITY port.accesskey "A">
 <!ENTITY serverPortDefault.label "Lehenetsia:">
@@ -24,12 +24,12 @@
 <!ENTITY connectionSecurityType-1.label "STARTTLS, erabilgarri badago">
 <!ENTITY connectionSecurityType-2.label "STARTTLS">
 <!ENTITY connectionSecurityType-3.label "SSL/TLS">
-<!ENTITY useSecAuth.label "Erabili autentifikazio segurua">
-<!ENTITY useSecAuth.accesskey "i">
+<!ENTITY authMethod.label "Autentifikazio metodoa:">
+<!ENTITY authMethod.accesskey "i">
 <!ENTITY leaveOnServer.label "Utzi mezuak zerbitzarian">
 <!ENTITY leaveOnServer.accesskey "z">
 <!ENTITY headersOnly.label "Deskargatu goiburuak bakarrik">
-<!ENTITY headersOnly.accesskey "d">
+<!ENTITY headersOnly.accesskey "D">
 <!ENTITY deleteByAgeFromServer.label "Gehienez">
 <!ENTITY deleteByAgeFromServer.accesskey "h">
 <!ENTITY daysEnd.label "egunez">
@@ -47,7 +47,7 @@
 <!ENTITY modelDeleteImmediately.accesskey "h">
 <!-- LOCALIZATION NOTE (expungeOnExit.label) : do not translate two of "&quot;" in below line -->
 <!ENTITY expungeOnExit.label "Garbitu (&quot;Hustu&quot;) sarrerako ontzia irtetean">
-<!ENTITY expungeOnExit.accesskey "E">
+<!ENTITY expungeOnExit.accesskey "e">
 <!ENTITY emptyTrashOnExit.label "Hustu zakarrontzia irtetean">
 <!ENTITY emptyTrashOnExit.accesskey "r">
 <!ENTITY loginAtStartup.label "Egiaztatu mezu berririk dagoen abiaraztean">

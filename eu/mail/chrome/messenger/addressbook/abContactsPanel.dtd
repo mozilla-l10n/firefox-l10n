@@ -1,18 +1,18 @@
-<!ENTITY addressbookPicker.label "Helbide-liburua:">
-<!ENTITY addressbookPicker.accesskey "h">
-<!ENTITY searchInput.label "Bilatu hau:">
-<!ENTITY searchInput.accesskey "b">
-<!ENTITY SearchNameOrEmail.label "Izena edo ePosta">
+<!ENTITY addressbookPicker.label            "Helbide-liburua:">
+<!ENTITY addressbookPicker.accesskey        "H">
+<!ENTITY searchInput.label                  "Bilatu hau:">
+<!ENTITY searchInput.accesskey              "B">
+<!ENTITY SearchNameOrEmail.label            "Izena edo helbide elektronikoa">
 
-<!ENTITY deleteAddrBookCard.label "Ezabatu">
-<!ENTITY addrBookCardProperties.label "Propietateak">
-<!ENTITY addtoToFieldMenu.label "Gehitu Nori eremura">
-<!ENTITY addtoCcFieldMenu.label "Gehitu Kopia eremura">
-<!ENTITY addtoBccFieldMenu.label "Gehitu Ezkutuko Kopia eremura">
+<!ENTITY deleteAddrBookCard.label           "Ezabatu">
+<!ENTITY addrBookCardProperties.label       "Propietateak">
+<!ENTITY addtoToFieldMenu.label             "Gehitu Nori eremura">
+<!ENTITY addtoCcFieldMenu.label             "Gehitu Kopia eremura">
+<!ENTITY addtoBccFieldMenu.label            "Gehitu Ezkutuko Kopia eremura">
 
-<!ENTITY toButton.label "Gehitu Nori eremura:">
-<!ENTITY toButton.accesskey "N">
-<!ENTITY ccButton.label "Gehitu Kopia eremura:">
-<!ENTITY ccButton.accesskey "k">
-<!ENTITY bccButton.label "Gehitu Ezkutuko kopia eremura:">
-<!ENTITY bccButton.accesskey "E">
+<!ENTITY toButton.label                     "Gehitu Nori eremura:">
+<!ENTITY toButton.accesskey                 "N">
+<!ENTITY ccButton.label                     "Gehitu Kopia eremura:">
+<!ENTITY ccButton.accesskey                 "K">
+<!ENTITY bccButton.label                    "Gehitu Ezkutuko kopia eremura:">
+<!ENTITY bccButton.accesskey                "E">

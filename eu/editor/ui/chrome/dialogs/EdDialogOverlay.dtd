@@ -39,13 +39,13 @@
 <!ENTITY AdvancedEditButton.accessKey "E">
 <!ENTITY AdvancedEditButton.tooltip "Gehitu edo aldatu HTML atributuak, estilo-atributuak eta JavaScript">
 <!ENTITY chooseFileButton.label "Aukeratu fitxategia...">
-<!ENTITY chooseFileButton.accessKey "F">
+<!ENTITY chooseFileButton.accessKey "f">
 <!ENTITY chooseFileLinkButton.label "Aukeratu fitxategia...">
-<!ENTITY chooseFileLinkButton.accessKey "a">
+<!ENTITY chooseFileLinkButton.accessKey "A">
 <!ENTITY makeUrlRelative.label "URLa orriaren helbidearekiko erlatiboa da">
-<!ENTITY makeUrlRelative.accessKey "r">
+<!ENTITY makeUrlRelative.accessKey "R">
 <!ENTITY makeUrlRelative.tooltip "URL erlatibo eta absolutuaren artean aldaketak. HAu gordetzeko orria gorde behar duzu lehendabizi.">
 <!-- Shared by Link and Image dialogs -->
 
 <!ENTITY LinkURLEditField.label "Webgune baten kokalekua edo fitxategi lokal bat idatzi, edo zerrendatik izendatutako aingura edo goiburuko bat aukeratu:">
-<!ENTITY LinkURLEditField.accessKey "L">
+<!ENTITY LinkURLEditField.accessKey "l">

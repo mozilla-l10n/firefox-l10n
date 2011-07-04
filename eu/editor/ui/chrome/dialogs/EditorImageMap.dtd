@@ -45,7 +45,7 @@
 <!-- File menu -->
 
 <!ENTITY mapfileMenu.label "Fitxategia">
-<!ENTITY mapfileMenu.accesskey "f">
+<!ENTITY mapfileMenu.accesskey "F">
 <!ENTITY clearCmd.label "Garbitu">
 <!ENTITY clearCmd.accesskey "a">
 <!ENTITY closeCmd.label "Itxi">
@@ -53,26 +53,26 @@
 <!-- Edit menu -->
 
 <!ENTITY mapeditMenu.label "Editatu">
-<!ENTITY mapeditMenu.accesskey "e">
+<!ENTITY mapeditMenu.accesskey "E">
 <!ENTITY cutCmd.label "Ebaki">
-<!ENTITY cutCmd.accesskey "e">
+<!ENTITY cutCmd.accesskey "E">
 <!ENTITY copyCmd.label "Kopiatu">
-<!ENTITY copyCmd.accesskey "k">
+<!ENTITY copyCmd.accesskey "K">
 <!ENTITY pasteCmd.label "Itsatsi">
 <!ENTITY pasteCmd.accesskey "s">
 <!ENTITY selectallCmd.label "Hautatu dena">
 <!ENTITY selectallCmd.accesskey "d">
 <!ENTITY propsCmd.label "Bero-gune propietateak">
-<!ENTITY propsCmd.accesskey "b">
+<!ENTITY propsCmd.accesskey "B">
 <!-- View menu -->
 
 <!ENTITY mapviewMenu.label "Ikusi">
 <!ENTITY mapviewMenu.accesskey "k">
 <!ENTITY showhideTbarCmd.label "Tresna-barra ezkutatu">
-<!ENTITY showhideTbarCmd.accesskey "t">
+<!ENTITY showhideTbarCmd.accesskey "T">
 <!-- Scaling -->
 <!ENTITY mapviewScale.label "Eskala">
-<!ENTITY mapviewScale.accesskey "S">
+<!ENTITY mapviewScale.accesskey "s">
 <!ENTITY apercentCmd.label "100">
 <!ENTITY apercentCmd.accesskey "1">
 <!ENTITY bpercentCmd.label "200">

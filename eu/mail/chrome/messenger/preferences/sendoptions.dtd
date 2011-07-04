@@ -1,31 +1,31 @@
-<!ENTITY dialog.title "Bidalketa-aukerak">
-<!ENTITY sendMail.title "Testuaren formatua">
-<!ENTITY sendMaildesc.label "Mezuak HTML formatuan bidaltzean eta hartzaileetako bat edo gehiago HTML mezuak jasotzeko zerrendan ez daudenean:">
-<!ENTITY askMe.label "Galdetu niri zer egin">
-<!ENTITY askMe.accesskey "t">
-<!ENTITY convertPlain.label "Bihurtu mezua testu arruntera">
-<!ENTITY convertPlain.accesskey "Z">
-<!ENTITY sendHTML.label "Bidali mezua HTML gisa halere">
-<!ENTITY sendHTML.accesskey "S">
-<!ENTITY sendBoth.label "Bidali mezua bai HTML eta testu arrunt gisa ere">
-<!ENTITY sendBoth.accesskey "e">
-<!ENTITY override.label "Oharra: Erabili helbide-liburua hartzaileen lehenetsitako testu-formatua ezartzeko.">
+<!ENTITY dialog.title                 "Bidalketa-aukerak">
+<!ENTITY sendMail.title               "Testuaren formatua">
+<!ENTITY sendMaildesc.label           "Mezuak HTML formatuan bidaltzean eta hartzaileetako bat edo gehiago HTML mezuak jasotzeko zerrendan ez daudenean:">
+<!ENTITY askMe.label                  "Galdetu niri zer egin">
+<!ENTITY askMe.accesskey              "t">
+<!ENTITY convertPlain.label           "Bihurtu mezua testu arruntera">
+<!ENTITY convertPlain.accesskey       "z">
+<!ENTITY sendHTML.label               "Bidali mezua HTML gisa halere">
+<!ENTITY sendHTML.accesskey           "s">
+<!ENTITY sendBoth.label               "Bidali mezua bai HTML eta testu arrunt gisa ere">
+<!ENTITY sendBoth.accesskey           "e">
+<!ENTITY override.label               "Oharra: Erabili helbide-liburua hartzaileen lehenetsitako testu-formatua ezartzeko.">
 
-<!ENTITY domaindesc.label "Behean zerrendatutako domeinu-izen batera mezu bat bidaltzean, &brandShortName;(e)k mezua formatu egokian bidaliko du automatikoki.">
-<!ENTITY HTMLTab.label "HTML domeinuak">
-<!ENTITY HTMLTab.accesskey "H">
-<!ENTITY PlainTextTab.label "Testu arrunteko domeinuak">
-<!ENTITY PlainTextTab.accesskey "R">
-<!ENTITY AddHtmlDomain.label "Gehitu…">
-<!ENTITY AddHtmlDomain.accesskey "G">
-<!ENTITY AddPlainText.label "Gehitu…">
-<!ENTITY AddPlainText.accesskey "G">
-<!ENTITY DeleteHtmlDomain.label "Ezabatu">
-<!ENTITY DeleteHtmlDomain.accesskey "E">
-<!ENTITY DeletePlainText.label "Ezabatu">
-<!ENTITY DeletePlainText.accesskey "E">
+<!ENTITY domaindesc.label             "Behean zerrendatutako domeinu-izen batera mezu bat bidaltzean, &brandShortName;(e)k mezua formatu egokian bidaliko du automatikoki.">
+<!ENTITY HTMLTab.label                "HTML domeinuak">
+<!ENTITY HTMLTab.accesskey            "H">
+<!ENTITY PlainTextTab.label           "Testu arrunteko domeinuak">
+<!ENTITY PlainTextTab.accesskey       "r">
+<!ENTITY AddHtmlDomain.label          "Gehitu…">
+<!ENTITY AddHtmlDomain.accesskey      "G">
+<!ENTITY AddPlainText.label           "Gehitu…">
+<!ENTITY AddPlainText.accesskey       "G">
+<!ENTITY DeleteHtmlDomain.label       "Ezabatu">
+<!ENTITY DeleteHtmlDomain.accesskey   "E">
+<!ENTITY DeletePlainText.label        "Ezabatu">
+<!ENTITY DeletePlainText.accesskey    "E">
 
-<!ENTITY add.htmltitle "Gehitu HTML domeinu-izena">
-<!ENTITY add.htmldomain "HTML domeinu-izena:">
-<!ENTITY add.plaintexttitle "Gehitu testu arrunteko domeinu-izena">
-<!ENTITY add.plaintextdomain "Testu arrunteko domeinu-izena:">
+<!ENTITY add.htmltitle                "Gehitu HTML domeinu-izena">
+<!ENTITY add.htmldomain               "HTML domeinu-izena:">
+<!ENTITY add.plaintexttitle           "Gehitu testu arrunteko domeinu-izena">
+<!ENTITY add.plaintextdomain          "Testu arrunteko domeinu-izena:">

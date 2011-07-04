@@ -36,15 +36,15 @@
  ***** END LICENSE BLOCK ***** -->
 <!-- Box Headings -->
 
-<!ENTITY contact.heading "Kontaktua">
-<!ENTITY home.heading "Etxea">
-<!ENTITY other.heading "Besteak">
-<!ENTITY phone.heading "Telefonoa">
-<!ENTITY work.heading "Lana">
+<!ENTITY contact.heading             "Kontaktua">
+<!ENTITY home.heading                "Etxea">
+<!ENTITY other.heading               "Besteak">
+<!ENTITY phone.heading               "Telefonoa">
+<!ENTITY work.heading                "Lana">
 <!-- Special Box Headings, for mailing lists -->
-<!ENTITY description.heading "Deskribapena">
-<!ENTITY addresses.heading "Helbideak">
+<!ENTITY description.heading         "Deskribapena">
+<!ENTITY addresses.heading           "Helbideak">
 <!-- For Map It! -->
-<!ENTITY mapItButton.label "Lortu mapa">
-<!ENTITY mapIt.tooltip "Bistaratu helbide honen mapa webetik">
+<!ENTITY mapItButton.label           "Lortu mapa">
+<!ENTITY mapIt.tooltip               "Bistaratu helbide honen mapa webetik">
 

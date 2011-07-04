@@ -40,13 +40,13 @@
 <!ENTITY Legend.accesskey "L">
 
 <!ENTITY EditLegendText.label "Editatu legenda:">
-<!ENTITY EditLegendText.accesskey "T">
+<!ENTITY EditLegendText.accesskey "t">
 <!ENTITY LegendAlign.label "Lerrokatu legenda:">
-<!ENTITY LegendAlign.accesskey "A">
+<!ENTITY LegendAlign.accesskey "a">
 <!ENTITY AlignDefault.label "Lehenetsia">
 <!ENTITY AlignLeft.label "Ezkerra">
 <!ENTITY AlignCenter.label "Erdia">
 <!ENTITY AlignRight.label "Eskuina">
 
 <!ENTITY RemoveFieldSet.label "Ezabatu eremu ezarpenak">
-<!ENTITY RemoveFieldSet.accesskey "R">
+<!ENTITY RemoveFieldSet.accesskey "r">

@@ -1,22 +1,22 @@
-<!ENTITY dialog.title "Hartu-agiriak">
-<!ENTITY requestReceipt.label "Eskatu beti hartu-agiria mezuak bidaltzean">
-<!ENTITY requestReceipt.accesskey "H">
-<!ENTITY receiptArrive.label "Hartu-agiri bat iristean:">
-<!ENTITY leaveIt.label "Utzi sarrerako ontzian">
-<!ENTITY leaveIt.accesskey "s">
-<!ENTITY moveToSent.label "Aldatu lekuz &quot;Bidalitakoak&quot; karpetara">
-<!ENTITY moveToSent.accesskey "a">
-<!ENTITY requestMDN.label "Hartu-agiri baten eskaera jasotzen dudanean:">
-<!ENTITY never.label "Inoiz ez bidali hartu-agiria">
-<!ENTITY never.accesskey "n">
-<!ENTITY returnSome.label "Baimendu hartu-agiriak mezu batzuentzat">
-<!ENTITY returnSome.accesskey "r">
-<!ENTITY notInToCc.label "Ez banago mezuaren Nori edo Cc eremuetan:">
-<!ENTITY notInToCc.accesskey "n">
-<!ENTITY outsideDomain.label "Bidaltzailea nire domeinutik kanpo badago:">
-<!ENTITY outsideDomain.accesskey "b">
-<!ENTITY otherCases.label "Beste kasu guztietan:">
-<!ENTITY otherCases.accesskey "b">
-<!ENTITY askMe.label "Galdetu niri">
-<!ENTITY alwaysSend.label "Bidali beti">
-<!ENTITY neverSend.label "Inoiz ez bidali">
+<!ENTITY dialog.title                  "Hartu-agiriak">
+<!ENTITY requestReceipt.label          "Eskatu beti hartu-agiria mezuak bidaltzean">
+<!ENTITY requestReceipt.accesskey      "h">
+<!ENTITY receiptArrive.label           "Hartu-agiri bat iristean:">
+<!ENTITY leaveIt.label                 "Utzi sarrerako ontzian">
+<!ENTITY leaveIt.accesskey             "s">
+<!ENTITY moveToSent.label              "Aldatu lekuz &quot;Bidalitakoak&quot; karpetara">
+<!ENTITY moveToSent.accesskey          "A">
+<!ENTITY requestMDN.label              "Hartu-agiri baten eskaera jasotzen dudanean:">
+<!ENTITY never.label                   "Inoiz ez bidali hartu-agiria">
+<!ENTITY never.accesskey               "n">
+<!ENTITY returnSome.label              "Baimendu hartu-agiriak mezu batzuentzat">
+<!ENTITY returnSome.accesskey          "r">
+<!ENTITY notInToCc.label               "Ez banago mezuaren Nori edo Cc eremuetan:">
+<!ENTITY notInToCc.accesskey           "N">
+<!ENTITY outsideDomain.label           "Bidaltzailea nire domeinutik kanpo badago:">
+<!ENTITY outsideDomain.accesskey       "B">
+<!ENTITY otherCases.label              "Beste kasu guztietan:">
+<!ENTITY otherCases.accesskey          "B">
+<!ENTITY askMe.label                   "Galdetu niri">
+<!ENTITY alwaysSend.label              "Bidali beti">
+<!ENTITY neverSend.label               "Inoiz ez bidali">

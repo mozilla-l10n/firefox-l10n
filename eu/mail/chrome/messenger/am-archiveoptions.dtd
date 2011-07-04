@@ -1,0 +1,19 @@
+<!-- extracted from am-archiveoptions.xul -->
+
+<!ENTITY dialogTitle.label "Artxibatze-aukerak">
+<!ENTITY archiveGranularityPrefix.label "Mezuak artxibatzean, kokatu hemen:">
+<!ENTITY archiveFlat.label "Karpeta bakarrean">
+<!ENTITY archiveFlat.accesskey "b">
+<!ENTITY archiveYearly.label "Urtez urte artxibatutako karpetetan">
+<!ENTITY archiveYearly.accesskey "U">
+<!ENTITY archiveMonthly.label "Hilabetez hilabete artxibatutako karpetetan">
+<!ENTITY archiveMonthly.accesskey "H">
+<!ENTITY keepFolderStructure.label "Mantendu artxibatutako mezuen karpeten uneko egitura">
+<!ENTITY keepFolderStructure.accesskey "M">
+<!ENTITY archiveExample.label "Adibidea">
+<!-- LOCALIZATION NOTE (archiveFolderName.label): this should match the default
+     name for the "Archives" folder -->
+<!ENTITY archiveFolderName.label "Artxiboak">
+<!-- LOCALIZATION NOTE (inboxFolderName.label): this should match the default
+     name for the "Inbox" folder -->
+<!ENTITY inboxFolderName.label "Sarrera">

@@ -1,31 +1,29 @@
 
-<!ENTITY migrationWizard.title "Inportazio morroia">
+<!ENTITY migrationWizard.title          "Inportazio morroia">
 
-<!ENTITY importFromWin.label "Inportatu aukerak, kontu-ezarpenak, helbide-liburua, iragazkiak eta bestelako datuak hemendik:">
-<!ENTITY importFromNonWin.label "Inportatu hobespenak, kontu-ezarpenak, helbide-liburua, iragazkiak eta bestelako datuak hemendik:">
+<!ENTITY importFromWin.label            "Inportatu aukerak, kontu-ezarpenak, helbide-liburua, iragazkiak eta bestelako datuak hemendik:">
+<!ENTITY importFromNonWin.label         "Inportatu hobespenak, kontu-ezarpenak, helbide-liburua, iragazkiak eta bestelako datuak hemendik:">
 
-<!ENTITY importFromNothing.label "Ezer ez inportatu">
-<!ENTITY importFromNothing.accesskey "E">
-<!ENTITY importFromSeamonkey2.label "Netscape 6, 7, Mozilla 1.x edo SeaMonkey">
-<!ENTITY importFromSeamonkey2.accesskey "s">
-<!ENTITY importFromNetscape4.label "Netscape 4.x">
-<!ENTITY importFromNetscape4.accesskey "4">
-<!ENTITY importFromOExpress.label "Outlook Express">
-<!ENTITY importFromOExpress.accesskey "u">
-<!ENTITY importFromOutlook.label "Outlook">
-<!ENTITY importFromOutlook.accesskey "O">
-<!ENTITY importFromEudora.label "Eudora">
-<!ENTITY importFromEudora.accesskey "E">
+<!ENTITY importFromNothing.label        "Ezer ez inportatu">
+<!ENTITY importFromNothing.accesskey    "E">
+<!ENTITY importFromSeamonkey2.label     "Netscape 6, 7, Mozilla 1.x edo SeaMonkey">
+<!ENTITY importFromSeamonkey2.accesskey "S">
+<!ENTITY importFromOExpress.label       "Outlook Express">
+<!ENTITY importFromOExpress.accesskey   "u">
+<!ENTITY importFromOutlook.label        "Outlook">
+<!ENTITY importFromOutlook.accesskey    "O">
+<!ENTITY importFromEudora.label         "Eudora">
+<!ENTITY importFromEudora.accesskey     "E">
 
-<!ENTITY importSource.title "Inportatu hemendik ezarpenak eta posta-karpetak">
-<!ENTITY importItems.title "Inportatzeko elementuak">
-<!ENTITY importItems.label "Hautatu inportatzeko elementuak:">
+<!ENTITY importSource.title             "Inportatu hemendik ezarpenak eta posta-karpetak">
+<!ENTITY importItems.title              "Inportatzeko elementuak">
+<!ENTITY importItems.label              "Hautatu inportatzeko elementuak:">
 
-<!ENTITY migrating.title "Inportatzen…">
-<!ENTITY migrating.label "Ondorengo elementuak ari dira inportatzen…">
+<!ENTITY migrating.title                "Inportatzen…">
+<!ENTITY migrating.label                "Ondorengo elementuak ari dira inportatzen…">
 
-<!ENTITY selectProfile.title "Hautatu profila">
-<!ENTITY selectProfile.label "Ondorengo profilak inporta daitezke:">
+<!ENTITY selectProfile.title            "Hautatu profila">
+<!ENTITY selectProfile.label            "Ondorengo profilak inporta daitezke:">
 
-<!ENTITY done.title "Inportazioa burutu da">
-<!ENTITY done.label "Ondorengo gaiak ondo inportatu dira:">
+<!ENTITY done.title                     "Inportazioa burutu da">
+<!ENTITY done.label                     "Ondorengo gaiak ondo inportatu dira:">

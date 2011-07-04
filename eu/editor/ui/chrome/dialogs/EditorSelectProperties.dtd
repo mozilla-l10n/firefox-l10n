@@ -38,7 +38,7 @@
 
 <!ENTITY Select.label "Hautapen-zerrenda">
 <!ENTITY SelectName.label "Zerrendaren izena:">
-<!ENTITY SelectName.accesskey "N">
+<!ENTITY SelectName.accesskey "n">
 <!ENTITY SelectSize.label "Altuera:">
 <!ENTITY SelectSize.accesskey "A">
 <!ENTITY SelectMultiple.label "Aukera anitza">
@@ -46,7 +46,7 @@
 <!ENTITY SelectDisabled.label "Desgaituta">
 <!ENTITY SelectDisabled.accesskey "D">
 <!ENTITY SelectTabIndex.label "Tabulazio-indizea:">
-<!ENTITY SelectTabIndex.accesskey "I">
+<!ENTITY SelectTabIndex.accesskey "i">
 
 <!ENTITY OptGroup.label "Aukera taldea">
 <!ENTITY OptGroupLabel.label "Etiketa:">
@@ -60,7 +60,7 @@
 <!ENTITY OptionValue.label "Balioa:">
 <!ENTITY OptionValue.accesskey "B">
 <!ENTITY OptionSelected.label "Hasieran hautatua">
-<!ENTITY OptionSelected.accesskey "S">
+<!ENTITY OptionSelected.accesskey "s">
 <!ENTITY OptionDisabled.label "Desgaituta">
 <!ENTITY OptionDisabled.accesskey "D">
 
@@ -75,6 +75,6 @@
 <!ENTITY RemoveElement.label "Ezabatu">
 <!ENTITY RemoveElement.accesskey "E">
 <!ENTITY MoveElementUp.label "Eraman gorantz">
-<!ENTITY MoveElementUp.accesskey "G">
+<!ENTITY MoveElementUp.accesskey "g">
 <!ENTITY MoveElementDown.label "Eraman beherantz">
-<!ENTITY MoveElementDown.accesskey "B">
+<!ENTITY MoveElementDown.accesskey "b">

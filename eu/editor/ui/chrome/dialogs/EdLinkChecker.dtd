@@ -37,7 +37,7 @@
    - ***** END LICENSE BLOCK ***** -->
 <!-- Window title -->
 
-<!ENTITY windowTitle.label "Arakatu irudi eta loturen kokapenak">
-<!ENTITY succeeded.label "Lortua">
-<!ENTITY failed.label "Huts">
-<!ENTITY closeButton.label "Itxi">
+<!ENTITY windowTitle.label     "Arakatu irudi eta loturen kokapenak">
+<!ENTITY succeeded.label       "Lortua">
+<!ENTITY failed.label          "Huts">
+<!ENTITY closeButton.label     "Itxi">

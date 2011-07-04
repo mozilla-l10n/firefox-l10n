@@ -1,3 +1,5 @@
-<!ENTITY brandShortName "Thunderbird">
-<!ENTITY brandFullName "Mozilla Thunderbird">
-<!ENTITY vendorShortName "Mozilla">
+<!ENTITY  brandShortName        "Thunderbird">
+<!ENTITY  brandFullName         "Mozilla Thunderbird">
+<!ENTITY  vendorShortName       "Mozilla">
+<!ENTITY  trademarkInfo.part1   "Mozilla Thunderbird eta Thunderbird logoak 
+Mozilla Fundazioaren marka erregistratuak dira.">

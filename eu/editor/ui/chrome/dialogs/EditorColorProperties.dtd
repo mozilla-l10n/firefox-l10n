@@ -39,18 +39,18 @@
 <!ENTITY windowTitle.label "Orri koloreak eta atzeko planoa">
 <!ENTITY pageColors.label "Orri koloreak">
 <!ENTITY defaultColorsRadio.label "Irakurlearen kolore lehenetsiak (ez ezarri koloreak orrian)">
-<!ENTITY defaultColorsRadio.accessKey "Z">
+<!ENTITY defaultColorsRadio.accessKey "z">
 <!ENTITY defaultColorsRadio.tooltip "Erabili soilik ikustailearen (irakurlearen) arakatzailearen kolore-ezarpenak">
 <!ENTITY customColorsRadio.label "Erabili kolore pertsonalizatuak:">
-<!ENTITY customColorsRadio.accessKey "P">
+<!ENTITY customColorsRadio.accessKey "p">
 <!ENTITY customColorsRadio.tooltip "Kolore-ezarpen hauek ikustailearen arakatzailearen ezarpenen gainetik jartzen dira">
 
 <!ENTITY normalText.label "Testu normala">
-<!ENTITY normalText.accessKey "N">
+<!ENTITY normalText.accessKey "n">
 <!ENTITY linkText.label "Loturaren testua">
 <!ENTITY linkText.accessKey "L">
 <!ENTITY activeLinkText.label "Lotura aktiboen testua">
-<!ENTITY activeLinkText.accessKey "A">
+<!ENTITY activeLinkText.accessKey "a">
 <!ENTITY visitedLinkText.label "Bisitatutako loturen testua">
 <!ENTITY visitedLinkText.accessKey "B">
 <!ENTITY background.label "Atzeko planoa:">

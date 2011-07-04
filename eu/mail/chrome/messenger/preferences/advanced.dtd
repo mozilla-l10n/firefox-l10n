@@ -1,83 +1,83 @@
-<!ENTITY itemGeneral.label "Orokorra">
-<!ENTITY itemDisplay.label "Irakurketa eta bistaratzea">
-<!ENTITY itemUpdate.label "Eguneraketak">
-<!ENTITY itemNetworking.label "Sarea eta diskoko lekua">
-<!ENTITY itemCertificates.label "Ziurtagiriak">
+<!ENTITY itemGeneral.label       "Orokorra">
+<!ENTITY itemDisplay.label       "Irakurketa eta bistaratzea">
+<!ENTITY itemUpdate.label        "Eguneraketak">
+<!ENTITY itemNetworking.label    "Sarea eta diskoko lekua">
+<!ENTITY itemCertificates.label  "Ziurtagiriak">
 <!-- General Settings -->
 
 
-<!ENTITY enableGlodaSearch.label "Gaitu bilaketa orokorra eta indexatzailea">
-<!ENTITY enableGlodaSearch.accesskey "I">
-<!ENTITY systemIntegration.label "System Integration">
-<!ENTITY alwaysCheckDefault.label "Egiaztatu beti &brandShortName; lehenetsitako posta-bezeroa dela abiaraztean">
-<!ENTITY alwaysCheckDefault.accesskey "G">
-<!ENTITY searchIntegration.label "Baimendu &searchIntegration.engineName;(r)i mezuak bilatzea">
-<!ENTITY searchIntegration.accesskey "B">
-<!ENTITY checkNow.label "Egiaztatu orain">
-<!ENTITY checkNow.accesskey "N">
-<!ENTITY configEditDesc.label "Konfigurazio aurreratua">
-<!ENTITY configEdit.label "Konfigurazio-editorea…">
-<!ENTITY configEdit.accesskey "G">
-<!ENTITY returnReceiptsInfo.label "Zehaztu hartu-agiriak nola kudeatzen dituen &brandShortName;(e)k">
-<!ENTITY showReturnReceipts.label "Hartu-agiriak…">
-<!ENTITY showReturnReceipts.accesskey "R">
+<!ENTITY enableGlodaSearch.label       "Gaitu bilaketa orokorra eta indexatzailea">
+<!ENTITY enableGlodaSearch.accesskey   "i">
+<!ENTITY systemIntegration.label       "Sistemaren integrazioa">
+<!ENTITY alwaysCheckDefault.label      "Egiaztatu beti &brandShortName; lehenetsitako posta-bezeroa dela abiaraztean">
+<!ENTITY alwaysCheckDefault.accesskey  "g">
+<!ENTITY searchIntegration.label       "Baimendu &searchIntegration.engineName;(r)i mezuak bilatzea">
+<!ENTITY searchIntegration.accesskey   "B">
+<!ENTITY checkNow.label                "Egiaztatu orain">
+<!ENTITY checkNow.accesskey            "n">
+<!ENTITY configEditDesc.label          "Konfigurazio aurreratua">
+<!ENTITY configEdit.label              "Konfigurazio-editorea…">
+<!ENTITY configEdit.accesskey          "g">
+<!ENTITY returnReceiptsInfo.label      "Zehaztu hartu-agiriak nola kudeatzen dituen &brandShortName;(e)k">
+<!ENTITY showReturnReceipts.label      "Hartu-agiriak…">
+<!ENTITY showReturnReceipts.accesskey  "r">
 <!-- Display and Reading Settings -->
 
-<!ENTITY reading.caption "Irakurketa">
-<!ENTITY display.caption "Bistaratzea">
-<!ENTITY showCondensedAddresses.label "Erakutsi nire helbide-liburuko pertsonen bistarazte-izena bakarrik">
-<!ENTITY showCondensedAddresses.accesskey "P">
+<!ENTITY reading.caption               "Irakurketa">
+<!ENTITY display.caption               "Bistaratzea">
+<!ENTITY showCondensedAddresses.label  "Erakutsi nire helbide-liburuko pertsonen bistarazte-izena bakarrik">
+<!ENTITY showCondensedAddresses.accesskey "p">
 
-<!ENTITY autoMarkAsRead.label "Markatu automatikoki mezuak irakurrita gisa">
-<!ENTITY autoMarkAsRead.accesskey "A">
-<!ENTITY markAsReadNoDelay.label "Bistaratu bezain laster">
-<!ENTITY markAsReadNoDelay.accesskey "b">
+<!ENTITY autoMarkAsRead.label          "Markatu automatikoki mezuak irakurrita gisa">
+<!ENTITY autoMarkAsRead.accesskey      "a">
+<!ENTITY markAsReadNoDelay.label       "Bistaratu bezain laster">
+<!ENTITY markAsReadNoDelay.accesskey   "B">
 <!-- LOCALIZATION NOTE (markAsReadDelay.label): This will concatenate to
      "After displaying for [___] seconds",
      using (markAsReadDelay.label) and a number (secondsLabel.label). -->
-<!ENTITY markAsReadDelay.label "Denbora batez bistaratu eta gero:">
-<!ENTITY markAsReadDelay.accesskey "e">
-<!ENTITY secondsLabel.label "segundoz">
-<!ENTITY openMsgIn.label "Ireki mezuak:">
-<!ENTITY openMsgInNewTab.label "A new tab">
-<!ENTITY openMsgInNewTab.accesskey "t">
-<!ENTITY reuseExpRadio0.label "Mezu-leiho berri batean">
-<!ENTITY reuseExpRadio0.accesskey "h">
-<!ENTITY reuseExpRadio1.label "Dagoen mezu-leihoan">
-<!ENTITY reuseExpRadio1.accesskey "d">
-<!ENTITY closeMsgWindowOnDelete.label "Close message window on delete">
-<!ENTITY closeMsgWindowOnDelete.accesskey "C">
+<!ENTITY markAsReadDelay.label         "Denbora batez bistaratu eta gero:">
+<!ENTITY markAsReadDelay.accesskey     "e">
+<!ENTITY secondsLabel.label            "segundoz">
+<!ENTITY openMsgIn.label               "Ireki mezuak:">
+<!ENTITY openMsgInNewTab.label         "Fitxa berrian">
+<!ENTITY openMsgInNewTab.accesskey     "t">
+<!ENTITY reuseExpRadio0.label          "Mezu-leiho berrian">
+<!ENTITY reuseExpRadio0.accesskey      "h">
+<!ENTITY reuseExpRadio1.label          "Dagoen mezu-leihoan">
+<!ENTITY reuseExpRadio1.accesskey      "D">
+<!ENTITY closeMsgOnMoveOrDelete.label  "Itxi mezu-leihoa/fitxa lekuz aldatzean edo ezabatzean">
+<!ENTITY closeMsgOnMoveOrDelete.accesskey "I">
 <!-- Update -->
 
-<!ENTITY autoCheck.label "Bilatu eguneraketak automatikoki honentzat:">
-<!ENTITY enableAppUpdate.label "&brandShortName;">
-<!ENTITY enableAppUpdate.accesskey "T">
-<!ENTITY enableAddonsUpdate.label "Instalatutako gehigarriak">
-<!ENTITY enableAddonsUpdate.accesskey "T">
-<!ENTITY whenUpdatesFound.label "&brandShortName;(r)en eguneraketak topatzen direnean:">
-<!ENTITY modeAskMe.label "Galdetu zer egin nahi dudan">
-<!ENTITY modeAskMe.accesskey "g">
-<!ENTITY modeAutomatic.label "Deskargatu eta instalatu automatikoki eguneraketa">
-<!ENTITY modeAutomatic.accesskey "d">
-<!ENTITY modeAutoAddonWarn.label "Ohar nazazu nire gehigarriren bat ezgaitzea badakar">
-<!ENTITY modeAutoAddonWarn.accesskey "G">
-<!ENTITY showUpdates.label "Erakutsi eguneraketen historia">
-<!ENTITY showUpdates.accesskey "U">
+<!ENTITY autoCheck.label                "Bilatu eguneraketak automatikoki honentzat:">
+<!ENTITY enableAppUpdate.label          "&brandShortName;">
+<!ENTITY enableAppUpdate.accesskey      "T">
+<!ENTITY enableAddonsUpdate.label       "Instalatutako gehigarriak">
+<!ENTITY enableAddonsUpdate.accesskey   "t">
+<!ENTITY whenUpdatesFound.label         "&brandShortName;(r)en eguneraketak topatzen direnean:">
+<!ENTITY modeAskMe.label                "Galdetu zer egin nahi dudan">
+<!ENTITY modeAskMe.accesskey            "G">
+<!ENTITY modeAutomatic.label            "Deskargatu eta instalatu automatikoki eguneraketa">
+<!ENTITY modeAutomatic.accesskey        "D">
+<!ENTITY modeAutoAddonWarn.label        "Ohar nazazu nire gehigarriren bat ezgaitzea badakar">
+<!ENTITY modeAutoAddonWarn.accesskey    "g">
+<!ENTITY showUpdates.label              "Erakutsi eguneraketen historia">
+<!ENTITY showUpdates.accesskey          "u">
 <!-- Networking and Disk Space -->
 
-<!ENTITY showSettings.label "Ezarpenak…">
-<!ENTITY showSettings.accesskey "N">
-<!ENTITY proxiesConfigure.label "Konfiguratu &brandShortName; Internetera nola konektatzen den">
-<!ENTITY connectionsInfo.caption "Konexioa">
-<!ENTITY offlineInfo.caption "Lineaz kanpo">
-<!ENTITY offlineInfo.label "Konfiguratu lineaz kanpoko ezarpenak">
-<!ENTITY showOffline.label "Lineaz kanpo…">
-<!ENTITY showOffline.accesskey "O">
+<!ENTITY showSettings.label            "Ezarpenak…">
+<!ENTITY showSettings.accesskey        "n">
+<!ENTITY proxiesConfigure.label        "Konfiguratu &brandShortName; Internetera nola konektatzen den">
+<!ENTITY connectionsInfo.caption       "Konexioa">
+<!ENTITY offlineInfo.caption           "Lineaz kanpo">
+<!ENTITY offlineInfo.label             "Konfiguratu lineaz kanpoko ezarpenak">
+<!ENTITY showOffline.label             "Lineaz kanpo…">
+<!ENTITY showOffline.accesskey         "o">
 
 <!ENTITY Diskspace "Diskoko lekua">
 <!ENTITY offlineCompact.label "Trinkotu karpetak hau baino gehiago aurrezten denean:">
 <!ENTITY offlineCompact.accesskey "k">
-<!ENTITY kb.label "KB">
+<!ENTITY mb.label "MB">
 <!-- LOCALIZATION NOTE:
   The entities useCacheBefore.label and useCacheAfter.label appear on a single
   line in preferences as follows:
@@ -85,18 +85,24 @@
   &useCacheBefore.label  [ textbox for cache size in MB ]   &useCacheAfter.label;
 -->
 
-<!ENTITY useCacheBefore.label "Erabili gehienez">
-<!ENTITY useCacheBefore.accesskey "E">
-<!ENTITY useCacheAfter.label "MB katxearentzat">
-<!ENTITY clearCacheNow.label "Garbitu orain">
-<!ENTITY clearCacheNow.accesskey "G">
+<!ENTITY useCacheBefore.label            "Erabili gehienez">
+<!ENTITY useCacheBefore.accesskey        "E">
+<!ENTITY useCacheAfter.label             "MB katxearentzat">
+<!ENTITY clearCacheNow.label             "Garbitu orain">
+<!ENTITY clearCacheNow.accesskey         "G">
 <!-- Certificates -->
 
-<!ENTITY viewCertificates.label "Ikusi ziurtagiriak">
-<!ENTITY viewCertificates.accesskey "A">
-<!ENTITY viewCRLs.label "Baliogabetze zerrendak">
-<!ENTITY viewCRLs.accesskey "E">
-<!ENTITY validation.label "Balidazioa">
-<!ENTITY validation.accesskey "D">
-<!ENTITY viewSecurityDevices.label "Segurtasun-gailuak">
-<!ENTITY viewSecurityDevices.accesskey "U">
+<!ENTITY certSelection.description       "Webgune batek nire ziurtagiri pertsonala eskatzen duenean:">
+<!ENTITY certs.auto                      "Hautatu bat automatikoki">
+<!ENTITY certs.auto.accesskey            "m">
+<!ENTITY certs.ask                       "Galdetu beti">
+<!ENTITY certs.ask.accesskey             "G">
+
+<!ENTITY viewCertificates.label         "Ikusi ziurtagiriak">
+<!ENTITY viewCertificates.accesskey     "a">
+<!ENTITY viewCRLs.label                 "Baliogabetze zerrendak">
+<!ENTITY viewCRLs.accesskey             "e">
+<!ENTITY validation.label               "Balidazioa">
+<!ENTITY validation.accesskey           "d">
+<!ENTITY viewSecurityDevices.label      "Segurtasun-gailuak">
+<!ENTITY viewSecurityDevices.accesskey  "u">

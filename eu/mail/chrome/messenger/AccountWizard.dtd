@@ -12,7 +12,7 @@
 <!ENTITY accountTypeMail.label "E-posta kontua">
 <!ENTITY accountTypeMail.accesskey "p">
 <!ENTITY accountTypeNews.label "Berri-talde kontua">
-<!ENTITY accountTypeNews.accesskey "b">
+<!ENTITY accountTypeNews.accesskey "B">
 <!-- Entities for Identity page -->
 
 
@@ -30,7 +30,7 @@
 <!ENTITY fullnameLabel.accesskey "Z">
 
 <!ENTITY emailLabel.label "Helbide elektronikoa:">
-<!ENTITY emailLabel.accesskey "E">
+<!ENTITY emailLabel.accesskey "e">
 <!-- Entities for Server page -->
 
 
@@ -39,28 +39,28 @@
 <!-- LOCALIZATION NOTE (incomingServerNameDesc.label) : Do not translate "&quot;pop.example.net&quot;" in below line -->
 <!ENTITY incomingServerNameDesc.label "Idatzi posta jasotzeko zerbitzariaren izena (adibidez, &quot;mail.adibide.net&quot;).">
 <!ENTITY incomingServerLabel.label "Posta jasotzeko zerbitzaria:">
-<!ENTITY incomingServerLabel.accesskey "Z">
+<!ENTITY incomingServerLabel.accesskey "z">
 <!-- LOCALIZATION NOTE (newsServerNameDesc.label) : Do not translate "NNTP" or the "&quot;" entities in below line -->
 <!ENTITY newsServerNameDesc.label "Idatzi berri-zerbitzariaren izena (NNTP) (adibidez, &quot;berriak.adibide.net&quot;).">
 <!-- LOCALIZATION NOTE (smtpServerDesc.label) : Do not translate "SMTP" and "&quot;smtp.example.net&quot;" in below line -->
 <!ENTITY smtpServerDesc.label "Idatzi posta bidaltzeko zerbitzariaren izena (SMTP) (adibidez, &quot;smtp.adibide.net&quot;).">
 <!ENTITY smtpServerLabel.label "Posta bidaltzeko zerbitzaria:">
-<!ENTITY smtpServerLabel.accesskey "O">
+<!ENTITY smtpServerLabel.accesskey "o">
 <!ENTITY newsServerLabel.label "Berri-talde zerbitzaria:">
-<!ENTITY newsServerLabel.accesskey "b">
+<!ENTITY newsServerLabel.accesskey "B">
 <!-- LOCALIZATION NOTE (imapType.label) : Do not translate "IMAP" in below line -->
 <!ENTITY imapType.label "IMAP">
 <!ENTITY imapType.accesskey "I">
 <!-- LOCALIZATION NOTE (popType.label) : Do not translate "POP" in below line -->
 <!ENTITY popType.label "POP">
 <!ENTITY popType.accesskey "P">
-<!-- LOCALIZATION NOTE (haveSmtp1.prefix and haveSmtp1.suffix) : Do not translate "SMTP" and "&quot;" in
-     these variables. Also, translate haveSmtp1.prefix and haveSmtp1.suffix as a single sentence, inserting
-     text after the "&quot;" entity in haveSmtp1.suffix, if required grammatically.
+<!-- LOCALIZATION NOTE (haveSmtp1.prefix and haveSmtp1.suffix2) : Do not translate "SMTP" and "&quot;" in
+     these variables. Also, translate haveSmtp1.prefix and haveSmtp1.suffix2 as a single sentence, inserting
+     text after the "&quot;" entity in haveSmtp1.suffix2, if required grammatically.
 -->
 
 <!ENTITY haveSmtp1.prefix "Ezarritako posta bidaltzeko zerbitzaria (SMTP), &quot;">
-<!ENTITY haveSmtp1.suffix "&quot;, erabiliko da. Posta bidaltzeko zerbitzariaren ezarpenak aldatzeko aukeratu Tresnak menuko Kontu-ezarpenak aukera.">
+<!ENTITY haveSmtp1.suffix2 "&quot;, erabiliko da. Irteerako zerbitzariak kontu-ezarpenetan alda ditzakezu.">
 <!-- Entities for Login page -->
 
 
@@ -72,19 +72,19 @@
 <!ENTITY usernameLabel.accesskey "P">
 <!ENTITY usernameSmtpDesc.label "Idatzi zure posta-hornitzaileak emandako posta bidaltzeko erabiltzaile-izena (normalean posta jasotzeko erabiltzailearen berdina izaten da).">
 <!ENTITY usernameSmtpLabel.label "Posta bidaltzeko erabiltzaile-izena:">
-<!ENTITY usernameSmtpLabel.accesskey "O">
-<!-- LOCALIZATION NOTE (haveSmtp2.prefix and haveSmtp2.suffix) : Do not translate "SMTP" and "&quot;" in
-     these variables. Also, translate haveSmtp2.prefix and haveSmtp2.suffix as a single sentence, inserting
-     text after the "&quot;" entity in haveSmtp2.suffix, if required grammatically.
+<!ENTITY usernameSmtpLabel.accesskey "o">
+<!-- LOCALIZATION NOTE (haveSmtp2.prefix and haveSmtp2.suffix2) : Do not translate "SMTP" and "&quot;" in
+     these variables. Also, translate haveSmtp2.prefix and haveSmtp2.suffix2 as a single sentence, inserting
+     text after the "&quot;" entity in haveSmtp2.suffix2, if required grammatically.
 -->
 <!ENTITY haveSmtp2.prefix "Posta bidaltzeko (SMTP) erabiltzaile-izena, &quot;">
-<!ENTITY haveSmtp2.suffix "&quot;, erabiliko da. Posta bidaltzeko zerbitzariaren ezarpenak aldatzeko aukeratu Tresnak menuko Kontu-ezarpenak aukera.">
-<!-- LOCALIZATION NOTE (haveSmtp3.prefix and haveSmtp3.suffix) : Do not translate "SMTP" and "&quot;" in
-     these variables. Also, translate haveSmtp3.prefix and haveSmtp3.suffix as a single sentence, inserting
-     text after the "&quot;" entity in haveSmtp3.suffix, if required grammatically.
+<!ENTITY haveSmtp2.suffix2 "&quot;, erabiliko da. Irteerako zerbitzariak kontu-ezarpenetan alda ditzakezu.">
+<!-- LOCALIZATION NOTE (haveSmtp3.prefix and haveSmtp3.suffix2) : Do not translate "SMTP" and "&quot;" in
+     these variables. Also, translate haveSmtp3.prefix and haveSmtp3.suffix2 as a single sentence, inserting
+     text after the "&quot;" entity in haveSmtp3.suffix2, if required grammatically.
 -->
 <!ENTITY haveSmtp3.prefix "Posta bidaltzeko zerbitzaria (SMTP), &quot;">
-<!ENTITY haveSmtp3.suffix "&quot;, zure posta jasotzeko zerbitzariaren berdina da, zure posta jasotzeko erabiltzaile-izena erabiliko da. Posta bidaltzeko zerbitzariaren ezarpenak aldatzeko aukeratu Tresnak menuko Kontu-ezarpenak aukera.">
+<!ENTITY haveSmtp3.suffix2 "&quot;, zure sarrerako zerbitzariaren berdina da eta atzitzeko zure sarrerako erabiltzaile-izena erabiliko da. Irteerako zerbitzariak kontu-ezarpenetan alda ditzakezu.">
 <!-- Entities for Account name page -->
 
 
@@ -106,6 +106,6 @@
 <!ENTITY downloadOnLogin.accesskey "D">
 <!ENTITY deferStorageDesc.label "Ezgaitu kontrol-lauki hau kontu honen posta bere direktorio propioan gordetzeko. Hau ezarriz gero, goi-mailako kontu bezala agertuko da. Bestela, karpeta lokaletako postakutxa orokorraren parte izango da.">
 <!ENTITY deferStorage.label "Erabili postakutxa orokorra (gorde posta karpeta lokaletan)">
-<!ENTITY deferStorage.accesskey "O">
-<!ENTITY clickFinish.label "Egin klik Amaitu botoian ezarpen hauek gorde eta morroitik irteteko.">
-<!ENTITY clickFinish.labelMac "Egin klik Eginda botoian ezarpen hauek gorde eta morroitik irteteko.">
+<!ENTITY deferStorage.accesskey "o">
+<!ENTITY clickFinish.label "Egin klik 'Amaitu' botoian ezarpen hauek gorde eta morroitik irteteko.">
+<!ENTITY clickFinish.labelMac "Egin klik 'Eginda' botoian ezarpen hauek gorde eta morroitik irteteko.">

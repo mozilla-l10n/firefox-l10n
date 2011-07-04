@@ -1,13 +1,7 @@
 <!--LOCALIZATION NOTE msgCompSMIMEOverlay.dtd UI for s/mime hooks in message composition -->
 
-<!ENTITY securityMenu.label "Segurtasuna">
-<!ENTITY securityMenu.accesskey "e">
-
 <!ENTITY menu_securityEncryptRequire.label "Zifratu mezu hau">
 <!ENTITY menu_securityEncryptRequire.accesskey "Z">
-
-<!ENTITY menu_securityNoEncryption.label "Ez zifratu mezu hau">
-<!ENTITY menu_securityNoEncryption.accesskey "Z">
 
 <!ENTITY menu_securitySign.label "Sinatu digitalki mezu hau">
 <!ENTITY menu_securitySign.accesskey "S">
@@ -19,4 +13,4 @@
 <!ENTITY securityButton.tooltip "Ikusi edo aldatu segurtasun-ezarpenak">
 
 <!ENTITY menu_viewSecurityStatus.label "Mezuaren segurtasun-informazioa">
-<!ENTITY menu_viewSecurityStatus.accesskey "I">
+<!ENTITY menu_viewSecurityStatus.accesskey "i">
