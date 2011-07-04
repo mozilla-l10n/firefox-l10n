@@ -24,7 +24,7 @@
 #define bookmarks_addons Firefox: Testreszabás kiegészítőkkel
 
 # LOCALIZATION NOTE (bookmarks_support):
-# link title for https://mobile.support.mozilla.com
+# link title for https://support.mozilla.com/mobile
 #define bookmarks_support Firefox: Támogatás
 # LOCALIZATION NOTE (bookmarks_aboutHome):
 # link title for about:home
