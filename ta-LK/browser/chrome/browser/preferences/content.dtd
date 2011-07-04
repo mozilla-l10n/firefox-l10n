@@ -8,7 +8,7 @@
 <!ENTITY exceptions.label "விதிவிலக்குகள்">
 <!ENTITY exceptions.accesskey "x">
 
-<!ENTITY enableJavaScript.label "JavaScript-ஐ இயலச்செய்">
+<!ENTITY enableJavaScript.label "JavaScript-ஐ இயலுமைப்படுத்துக">
 <!ENTITY enableJavaScript.accesskey "S">
 <!ENTITY advancedJS.label "உயர்நிலை...">
 <!ENTITY advancedJS.accesskey "v">

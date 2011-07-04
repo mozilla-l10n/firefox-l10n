@@ -90,8 +90,8 @@
 <p>உங்கள் தளங்கள் வழுச் செய்திகளில் அபாயகரமான தளங்கள் என்று தெரிவிக்கப்பட்டும் பட்சத்தில் நீங்கள் <a href='http://www.stopbadware.org/home/reviewinfo' > இல் ஒரு மதிப்பீட்டுக்கு விண்ணப்பிக்கலாம்.</a>.</p>
 ">
 
-<!ENTITY phishingBlocked.title "Suspected Web Forgery!">
-<!ENTITY phishingBlocked.longDesc "<p>These types of web forgeries are used in scams known as phishing attacks, in which fraudulent web pages and emails are used to imitate sources you may trust.</p>">
+<!ENTITY phishingBlocked.title "Suspected இணைய மோசடி!">
+<!ENTITY phishingBlocked.longDesc "<p>இணையப்பக்கத்தில் பயன்படுத்தப்படும் இந்த வகையான  இணையமோசடிகள் phishing தாக்குதல் என்று அறியப்படுகிறது, இதில் மோசடி இணையபக்கங்கள்  மற்றும் மின்னஞ்சல்கள் பயன்படுத்தப்படுகின்றன என்ற நம்பிக்கை இருக்கலாம் .</p>">
 
 <!ENTITY securityOverride.linkText "அல்லது உங்களால் விதிவிலக்குகளைச் சேர்க்க முடியும்…">
 <!ENTITY securityOverride.getMeOutOfHereButton "என்னை இங்கிருந்து வெளியே எடுக்க!">
@@ -121,4 +121,4 @@ Entities below were automatically added by compare-locales,
 <!ENTITY cspFrameAncestorBlocked.longDesc "<p>&brandShortName; ஆனது இப்பக்கத்தை இந்த வழியில் ஏற்றுவதிலிருந்து தடுத்தது, ஏனெனில் இப்பக்கமானது ஒரு உள்ளடக்கப் பாதுகாப்புக் கொள்கையை வைத்திருப்பதனால் இதை அனுமதிக்காது.</p>">
 <!ENTITY cspFrameAncestorBlocked.title "உள்ளடக்க பாதுகாப்புக் கொள்கையால் தடுக்கப்பட்டது">
 <!ENTITY remoteXUL.title "Remote XUL">
-<!ENTITY remoteXUL.longDesc "<p><ul><li>Please contact the website owners to inform them of this problem.</li></ul></p>">
+<!ENTITY remoteXUL.longDesc "<p><ul><li>தயவுசெய்து இந்த பிரச்சனையை தெரிவிப்பதற்கு இணையத்தள உரிமையாளரை தொடர்பு கொள்க.</li></ul></p>">

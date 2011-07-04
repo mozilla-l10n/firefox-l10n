@@ -24,7 +24,7 @@ Entities below were automatically added by compare-locales,
 <!ENTITY mySyncKey.label "என்னுடைய ஒத்திசைவு விசை">
 <!ENTITY engine.passwords.label "கடவுச்சொற்கள்">
 <!ENTITY engine.prefs.label "முன்னுரிமைகள்">
-<!ENTITY weaveDesc.label "&syncBrand.fullName.label; lets you access your history, bookmarks, passwords and open tabs across all your devices.">
+<!ENTITY weaveDesc.label "&syncBrand.fullName.label;  இப்போது நீங்கள் உங்களுடைய அனைத்து சாதனங்களுக்குடாகவும் உங்களுடைய வரலாறு,பக்கஅடையாளங்கள்,கடவுச்சொற்கள் மற்றும் திறக்கப்பட்ட தத்தல்கள்  ஆகியவற்றை அணுகிக்கொள்ளலாம்.">
 <!ENTITY engine.prefs.accesskey "S">
 <!ENTITY engine.tabs.label "தத்தல்கள்">
 <!ENTITY changePassword.label "கடவுச்சொல்லை மாற்றுக">

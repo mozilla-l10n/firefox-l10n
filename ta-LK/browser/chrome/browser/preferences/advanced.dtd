@@ -8,7 +8,7 @@
 <!ENTITY useCursorNavigation.accesskey   "c">
 <!ENTITY searchStartTyping.label         "நான் தட்டச்சு செய்ய தொடங்கும்போது உரையை தேடுக">
 <!ENTITY searchStartTyping.accesskey     "x">
-<!ENTITY blockAutoRefresh.label          "இணையத் தளங்கள் redirect அல்லது reload செய்ய முயலும்போது என்னை எச்சரிக்க">
+<!ENTITY blockAutoRefresh.label          "இணையத் தளங்கள் redirect அல்லது மீளஏற்ற முயலும்போது என்னை எச்சரிக்க">
 <!ENTITY blockAutoRefresh.accesskey      "b">
 
 <!ENTITY browsing.label                  "உலாவல்">
@@ -105,7 +105,7 @@ Entities below were automatically added by compare-locales,
 <!ENTITY enableAddonsUpdate2.label "செருகல்கள்">
 <!ENTITY limitCacheSizeBefore.accesskey "L">
 <!ENTITY enableAddonsUpdate2.accesskey "n">
-<!ENTITY overrideSmartCacheSize.label "Override automatic cache management">
+<!ENTITY overrideSmartCacheSize.label "Override automatic cache முகாமைத்துவம்">
 <!ENTITY submitCrashes.label "முறிவடைதலுக்கான அறிக்கைகளை சமர்ப்பிக்குக">
 <!ENTITY allowHWAccel.label "கிடைக்கும் போது வன்பொருள் ஆர்முடுகலைப் பயன்படுத்துக">
 <!ENTITY overrideSmartCacheSize.accesskey "O">

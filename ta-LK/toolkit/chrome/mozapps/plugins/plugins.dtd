@@ -46,7 +46,7 @@ Entities below were automatically added by compare-locales,
  based on en-US entities.
 -->
 
-<!ENTITY managePlugins "Manage plugins…">
-<!ENTITY missingPlugin "A plugin is needed to display this content.">
-<!ENTITY installPlugin "Install plugin…">
-<!ENTITY disabledPlugin "This plugin is disabled.">
+<!ENTITY managePlugins "உட்செருகல்களை நிர்வகிக்குக…">
+<!ENTITY missingPlugin "இந்த உள்ளடக்கத்தை காட்சிப்படுத்த ஒரு உட்செருகல் தேவை.">
+<!ENTITY installPlugin "உட்செருகலை நிறுவுக…">
+<!ENTITY disabledPlugin "இந்த செருகல் செயலற்றதாக்கப்பட்டுள்ளது.">

@@ -1,6 +1,6 @@
 <!ENTITY tracking.label                 "Tracking">
 
-<!ENTITY doNotTrack.label               "Tell web sites I do not want to be tracked">
+<!ENTITY doNotTrack.label               "நான் tracked செய்வதற்கு விரும்பாத இணையத்தளங்களை சொல்க">
 <!ENTITY doNotTrack.accesskey           "d">
 <!ENTITY  history.label "வரலாறு">
 

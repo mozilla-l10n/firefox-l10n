@@ -2,8 +2,8 @@
 -->
 
 
-<!ENTITY pageInfoWindow.width "425">
-<!ENTITY pageInfoWindow.height "470">
+<!ENTITY pageInfoWindow.height "425">
+<!ENTITY pageInfoWindow.width "470">
 
 <!ENTITY copy.key "C">
 <!ENTITY copy.label "நகல்">

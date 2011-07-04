@@ -193,5 +193,5 @@ Entities below were automatically added by compare-locales,
  based on en-US entities.
 -->
 
-<!ENTITY info.plugincheck.tooltip "Check to see if your plugins are up to date">
-<!ENTITY info.plugincheck.label "Check to see if your plugins are up to date">
+<!ENTITY info.plugincheck.tooltip "உங்களுடைய உட்செருகல்கள் நவீனமானவையா என்பதை சரிபார்க்கவும்">
+<!ENTITY info.plugincheck.label "உங்களுடைய உட்செருகல்கள் நவீனமானவையா என்பதை சரிபார்க்கவும்">

@@ -11,7 +11,7 @@ Entities below were automatically added by compare-locales,
 <!ENTITY networkPanel.requestHeaders "Request தலையொட்டுக்கள்">
 <!ENTITY networkPanel.requestURL "Request URL ">
 <!ENTITY networkPanel.requestMethod "Request Method">
-<!ENTITY networkPanel.statusCode "Status Code">
+<!ENTITY networkPanel.statusCode "நிலை குறி">
 <!ENTITY networkPanel.responseBody "Response Body">
 <!ENTITY networkPanel.responseBodyUnknownType "அறியப்படாத உள்ளடக்க வகை">
 <!ENTITY networkPanel.requestCookie "Cookie இனை அனுப்புக.">
