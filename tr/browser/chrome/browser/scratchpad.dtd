@@ -10,7 +10,7 @@
   -  approximation to it or choose a word (or words) that means
   -  "simple discardable text editor". -->
 
-<!ENTITY window.title "Scratchpad">
+<!ENTITY window.title "Karalama Defteri">
 
 <!ENTITY fileMenu.label "Dosya…">
 <!ENTITY fileMenu.accesskey "o">
