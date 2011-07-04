@@ -43,7 +43,7 @@
 <!ENTITY setup.newSyncKeyPage.description.label "A tökéletes adatvédelem érdekében minden adata titkosítva lesz feltöltés előtt. Az adatok visszafejtéséhez szükséges Sync-kulcs nem lesz feltöltve.">
 <!ENTITY syncKeyEntry.label        "Sync-kulcs">
 <!ENTITY syncKeyEntry.accesskey    "K">
-<!ENTITY syncKeyGenerate.label     "Létrehozás">
+<!ENTITY syncGenerateNewKey.label  "Új kulcs létrehozása">
 <!ENTITY syncKeyBackup.description "A Sync-kulcs kelleni fog, ha más gépekről akarja elérni a &syncBrand.fullName.label; szolgáltatást. Készítsen biztonsági másolatot. Nem tudunk segíteni, ha elveszti a Sync-kulcsát.">
 
 <!ENTITY button.syncKeyBackup.print.label     "Nyomtatás...">
