@@ -114,7 +114,7 @@
 <!-- ENTITY addCurPagesCmd.accesskey "T" -->
 <!-- ENTITY manBookmarksCmd.label "বুকমার্ক সুবিন্যস্ত করুন..." -->
 <!-- ENTITY manBookmarksCmd.accesskey "M" -->
-<!ENTITY bookmarkAllCmd.label "সমস্ত ট্যাব বুকমার্ক করুন...">
+<!-- ENTITY bookmarkAllCmd.label "সমস্ত ট্যাব বুকমার্ক করুন..." -->
 <!-- ENTITY organizeBookmarks.label "বুকমার্ক সুবিন্যস্ত করুন…" -->
 <!-- ENTITY searchBookmarksCmd.label "বুকমার্কে অনুসন্ধান করুন..." -->
 <!-- ENTITY searchBookmarksCmd.accesskey "S" -->
@@ -636,6 +636,25 @@ can reach it easily. -->
 <!ENTITY inspectStyleButton.label     "বিন্যাস">
 <!ENTITY inspectStyleButton.accesskey "S">
 <!ENTITY inspectStylePanelTitle.label  "বিন্যাস">
+
+<!-- LOCALIZATION NOTE (scratchpad.label): This menu item label appears
+  -  in the Tools menu. See bug 653093.
+  -  The Scratchpad is intended to provide a simple text editor for creating
+  -  and evaluating bits of JavaScript code for the purposes of function
+  -  prototyping, experimentation and convenient scripting.
+  -
+  -  It's quite possible that you won't have a good analogue for the word
+  -  "Scratchpad" in your locale. You should feel free to find a close
+  -  approximation to it or choose a word (or words) that means
+  -  "simple discardable text editor". -->
+<!ENTITY scratchpad.label             "খসড়া খাতা">
+<!ENTITY scratchpad.accesskey         "s">
+<!ENTITY scratchpad.keycode           "VK_F4">
+<!ENTITY scratchpad.keytext           "F4">
+
+<!ENTITY getMoreDevtoolsCmd.label        "অতিরিক্ত সরঞ্জাম প্রাপ্ত করুন">
+<!ENTITY getMoreDevtoolsCmd.accesskey    "M">
+
 <!-- LOCALIZATION NOTE (inspectObjectButton.label): This button label
   -  appears on the Inspector's toolbar. It is used to open and close the Object
   -  panel. There is also a label in inspector.properties for the panel
