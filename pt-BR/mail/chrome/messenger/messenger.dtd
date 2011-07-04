@@ -9,9 +9,6 @@
 <!ENTITY closeTabCmd2.accesskey "F">
 <!ENTITY closeOtherTabsCmd2.label "Fechar as outras abas">
 <!ENTITY closeOtherTabsCmd2.accesskey "o">
-<!-- LOCALIZATION NOTE (undoCloseTabCmd.label):
-     Menu option to attempt to re-open a recently closed tab.
-     -->
 <!ENTITY recentlyClosedTabsCmd.label "Reabrir aba">
 <!ENTITY recentlyClosedTabsCmd.accesskey "b">
 
