@@ -206,8 +206,8 @@
 <!ENTITY fromAddr.label "Von:">
 <!ENTITY fromAddr.accesskey "V">
 <!ENTITY toAddr.label "An:">
-<!ENTITY ccAddr.label "CC:">
-<!ENTITY bccAddr.label "BCC:">
+<!ENTITY ccAddr.label "Kopie:">
+<!ENTITY bccAddr.label "Blindkopie:">
 <!ENTITY replyAddr.label "Antwort an:">
 <!ENTITY newsgroupsAddr.label "Newsgruppe:">
 <!ENTITY followupAddr.label "Followup an:">
