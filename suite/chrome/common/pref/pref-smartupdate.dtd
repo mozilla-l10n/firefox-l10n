@@ -13,7 +13,7 @@
 <!ENTITY addOnsModeAutomatic.label "Automaticky aktualizaci stáhnout a nainstalovat">
 <!ENTITY addOnsModeAutomatic.accesskey "o">
 <!ENTITY enablePersonalized.label "Personalizovaná doporučení">
-<!ENTITY enablePersonalized.accesskey "P">
+<!ENTITY enablePersonalized.accesskey "r">
 <!ENTITY addonManagerLink.label "Správce doplňků">
 
 <!ENTITY appUpdates.caption "&brandShortName;">

@@ -2,16 +2,16 @@
 <!ENTITY pref.locationBar.title "Adresní řádek">
 
 <!ENTITY autoComplete.label "Automatické doplňování">
-<!ENTITY enableAutoComplete.label "Při psaní automaticky doplňovat adresy z historie">
-<!ENTITY enableAutoComplete.accesskey "P">
-<!ENTITY autoCompleteAutoFill.label "Při psaní automaticky doplňovat nejlepší odhad">
-<!ENTITY autoCompleteAutoFill.accesskey "d">
+<!ENTITY enableAutoComplete.label "Automaticky při psaní doplňovat adresy z historie">
+<!ENTITY enableAutoComplete.accesskey "A">
+<!ENTITY autoCompleteAutoFill.label "Automaticky při psaní doplňovat nejlepší odhad">
+<!ENTITY autoCompleteAutoFill.accesskey "t">
 <!ENTITY autoCompleteShowPopup.label "Zobrazovat seznam vyhovujících výsledků">
 <!ENTITY autoCompleteShowPopup.accesskey "Z">
 <!ENTITY autoCompleteMatchOnlyTyped.label "Nabízet pouze dříve napsané webové adresy">
-<!ENTITY autoCompleteMatchOnlyTyped.accesskey "N">
-<!ENTITY autoCompleteMatchOnlyURLs.label "Doplňovat pouze adresy, ne titulky webových serverů">
-<!ENTITY autoCompleteMatchOnlyURLs.accesskey "n">
+<!ENTITY autoCompleteMatchOnlyTyped.accesskey "b">
+<!ENTITY autoCompleteMatchOnlyURLs.label "Nedoplňovat titulky webových serverů, pouze adresy">
+<!ENTITY autoCompleteMatchOnlyURLs.accesskey "d">
 <!--LOCALIZATION NOTE (autoCompleteMatch.label): This is the common leading
   part of the menulist items listed below, mainly to make the control available
   via the accesskey
@@ -25,10 +25,10 @@
 
 <!ENTITY searchEngine.label "Vyhledávací moduly">
 <!ENTITY showSearchEngine.label "Zobrazit výchozí modul">
-<!ENTITY showSearchEngine.accesskey "b">
+<!ENTITY showSearchEngine.accesskey "m">
 
 <!ENTITY unknownLocations.label "Neznámá adresa">
 <!ENTITY domainGuessing.label "Pokud není nalezena webová adresa, automaticky přidat k názvu „www.“ a „.cz“">
 <!ENTITY domainGuessing.accesskey "w">
 <!ENTITY keywords.label "Pokud není nalezena webová adresa, provést hledání ve vyhledávači">
-<!ENTITY keywords.accesskey "a">
+<!ENTITY keywords.accesskey "P">

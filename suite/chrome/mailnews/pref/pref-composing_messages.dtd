@@ -40,9 +40,9 @@
 <!ENTITY generalComposing.label "Obecné">
 <!ENTITY forwardMsg.label "Přeposlat zprávy:">
 <!ENTITY inline.label "Vložené">
-<!ENTITY inline.accesskey "v">
+<!ENTITY inline.accesskey "l">
 <!ENTITY asAttachment.label "Jako příloha">
-<!ENTITY asAttachment.accesskey "A">
+<!ENTITY asAttachment.accesskey "p">
 
 <!ENTITY replyQuoteInline.label "Citovat v odpovědích vložené přílohy">
 <!ENTITY replyQuoteInline.accesskey "C">
@@ -51,28 +51,28 @@
 <!-- LOCALIZATION NOTE (autoSave.label): This will concatenate with
      "xxx minutes", using a number and (autoSaveEnd.label). -->
 <!ENTITY autoSave.label "Automaticky uložit zprávu každých">
-<!ENTITY autoSave.accesskey "m">
+<!ENTITY autoSave.accesskey "A">
 <!ENTITY autoSaveEnd.label "minut">
 <!-- LOCALIZATION NOTE (wrapOutMsg.label): This will concatenate with "xxx characters", using a number and (char.label). -->
 <!ENTITY wrapOutMsg.label "Zalamovat odchozí textové zprávy po">
-<!ENTITY wrapOutMsg.accesskey "L">
+<!ENTITY wrapOutMsg.accesskey "m">
 <!ENTITY char.label "znacích">
 
 <!ENTITY spellingHeader.label "Pravopis">
 <!ENTITY spellCheck.label "Při odesílání zpráv kontrolovat pravopis">
-<!ENTITY spellCheck.accesskey "K">
+<!ENTITY spellCheck.accesskey "o">
 <!ENTITY spellCheckInline.label "Kontrolovat pravopis při psaní">
-<!ENTITY spellCheckInline.accesskey "k">
+<!ENTITY spellCheckInline.accesskey "K">
 <!ENTITY languagePopup.label "Jazyk:">
-<!ENTITY languagePopup.accessKey "j">
+<!ENTITY languagePopup.accessKey "J">
 <!ENTITY moreDictionaries.label "Získat další slovníky…">
 
 <!ENTITY defaultMessagesHeader.label "Výchozí nastavení pro HTML zprávy">
 <!ENTITY font.label "Písmo:">
-<!ENTITY font.accesskey "P">
+<!ENTITY font.accesskey "s">
 <!ENTITY size.label "Velikost:">
-<!ENTITY size.accesskey "S">
+<!ENTITY size.accesskey "e">
 <!ENTITY fontColor.label "Text:">
-<!ENTITY fontColor.accesskey "T">
+<!ENTITY fontColor.accesskey "x">
 <!ENTITY bgColor.label "Pozadí:">
-<!ENTITY bgColor.accesskey "P">
+<!ENTITY bgColor.accesskey "z">

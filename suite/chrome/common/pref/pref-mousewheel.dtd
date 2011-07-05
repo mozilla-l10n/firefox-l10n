@@ -15,7 +15,7 @@
 <!ENTITY scrollChars.label " znaků">
 <!ENTITY useSystemDefault.label "Použít nastavení systému">
 <!ENTITY useSystemDefault.accesskey "a">
-<!ENTITY useSystemDefaultHoriz.accesskey "v">
+<!ENTITY useSystemDefaultHoriz.accesskey "s">
 <!ENTITY scrollPgUpPgDn.label "Posunout stránku nahoru, nebo dolů">
 <!ENTITY scrollPgUpPgDn.accesskey "u">
 <!ENTITY scrollPgLtPgRt.label "Posunovat stránku vlevo, nebo vpravo">

@@ -39,19 +39,19 @@
 <!ENTITY notifications.caption "Upozorňování">
 <!ENTITY newMessagesArrive.label "Při příchodu nové zprávy">
 <!ENTITY playSound.label "Přehrát zvukový soubor">
-<!ENTITY playSound.accesskey "P">
+<!ENTITY playSound.accesskey "h">
 <!ENTITY showAnimatedAlert.label "Zobrazit výstrahu">
 <!ENTITY showAnimatedAlert.accesskey "Z">
 <!ENTITY showTrayIcon.label "Zobrazit ikonu v pravé dolní části hlavního panelu">
-<!ENTITY showTrayIcon.accesskey "t">
+<!ENTITY showTrayIcon.accesskey "b">
 <!ENTITY bounceSystemDockIcon.label "Animovat ikonku v doku">
 <!ENTITY bounceSystemDockIcon.accesskey "A">
 <!ENTITY playButton.label "Přehrát">
-<!ENTITY playButton.accesskey "e">
+<!ENTITY playButton.accesskey "P">
 <!ENTITY systemsound.label "Zvuk nové pošty v systému">
-<!ENTITY systemsound.accesskey "M">
+<!ENTITY systemsound.accesskey "n">
 <!ENTITY customsound.label "Vlastní wav soubor">
-<!ENTITY customsound.accesskey "V">
+<!ENTITY customsound.accesskey "w">
 <!ENTITY browse.label "Procházet…">
-<!ENTITY browse.accesskey "O">
+<!ENTITY browse.accesskey "r">
 <!ENTITY browse.title "Výběr souboru">

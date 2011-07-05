@@ -4,7 +4,7 @@
 
 <!-- These are added to the Window menu -->
 <!ENTITY mail.label "Pošta a diskusní skupiny">
-<!ENTITY mail.accesskey "P">
+<!ENTITY mail.accesskey "o">
 <!ENTITY addressbook.label "Adresář">
 <!ENTITY addressbook.accesskey "A">
 
@@ -13,7 +13,7 @@
 <!ENTITY notifications.label "Upozorňování">
 <!ENTITY address.label "Adresování">
 <!ENTITY composingMessages.label "Vytváření zpráv">
-<!ENTITY format.label "Odchozí zprávy">
+<!ENTITY format.label "Formát odesílání">
 <!ENTITY return.label "Potvrzení o přečtení">
 <!ENTITY junk.label "Nevyžádaná pošta">
 <!ENTITY tags.label "Štítky">

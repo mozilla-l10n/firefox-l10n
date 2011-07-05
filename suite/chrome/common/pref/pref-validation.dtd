@@ -48,10 +48,10 @@
 <!ENTITY certOCSP2.label "Ověřovat certifikáty, které mají zadán OCSP server">
 <!ENTITY certOCSP2.accesskey "O">
 <!ENTITY proxyOCSP2.label "Ověřovat všechny certifikáty pomocí tohoto OCSP serveru:">
-<!ENTITY proxyOCSP2.accesskey "v">
+<!ENTITY proxyOCSP2.accesskey "c">
 <!ENTITY serviceURL.label "URL služby:">
 <!ENTITY serviceURL.accesskey "U">
 <!ENTITY signingCA.label "Podpis vydavatele:">
 <!ENTITY signingCA.accesskey "d">
 <!ENTITY validation.requireOCSP.description "Pokud se připojení k OCSP serveru nezdaří, považovat certifikát za neplatný">
-<!ENTITY validation.requireOCSP.accesskey "s">
+<!ENTITY validation.requireOCSP.accesskey "k">

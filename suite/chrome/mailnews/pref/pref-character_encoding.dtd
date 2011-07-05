@@ -40,12 +40,12 @@
 <!ENTITY pref.character.encoding.title "Znaková sada">
 <!ENTITY messageDisplay.caption "Zobrazení zpráv">
 <!ENTITY viewDefaultCharset.label "Výchozí znaková sada:">
-<!ENTITY viewDefaultCharset.accesskey "D">
+<!ENTITY viewDefaultCharset.accesskey "z">
 
 <!ENTITY composingMessages.caption "Vytváření zpráv">
-<!ENTITY useMIME.label "Pro zprávy, které obsahují 8bitové znaky (např. diakritiku) použít MIME kódování 'quoted printable'. Pokud jej ponecháte nezaškrtnuté, zpráva se odešle nezměněna.">
-<!ENTITY useMIME.accesskey "P">
+<!ENTITY useMIME.label "Pro zprávy obsahující osmibitové znaky (např. diakritiku) použít MIME kódování 'quoted printable'. (Není-li zaškrtnuto, zprávy se budou odesílat nezměněny.)">
+<!ENTITY useMIME.accesskey "r">
 <!ENTITY sendDefaultCharset.label "Výchozí znaková sada:">
-<!ENTITY sendDefaultCharset.accesskey "C">
-<!ENTITY replyInDefaultCharset2.label "Pokud je možno, použít u odpovědi výchozí znakovou sadu. (Je-li nezaškrtnuto, bude výchozí sada použita pouze u nových zpráv.)">
-<!ENTITY replyInDefaultCharset2.accesskey "u">
+<!ENTITY sendDefaultCharset.accesskey "n">
+<!ENTITY replyInDefaultCharset2.label "Pokud je možno, použít u odpovědi výchozí znakovou sadu. (Není-li zaškrtnuto, bude výchozí sada použita pouze u nových zpráv.)">
+<!ENTITY replyInDefaultCharset2.accesskey "P">
