@@ -6,9 +6,9 @@
 <!ENTITY pluginWizard.availablePluginsPage.title             "הורדות תוספים זמינים">
 <!ENTITY pluginWizard.availablePluginsPage.description.label "התוספים הבאים זמינים:">
 <!ENTITY pluginWizard.availablePluginsPage.continueMsg.label "להתקנת תוספים חיצוניים אלו יש ללחוץ על &quot;הבא&quot;.">
-<!ENTITY pluginWizard.availablePluginsPage.installerUI       "יתכן שתידרש ממך מידע נוסף במשך ההתקנה עבור תוספים מסוימים.">
+<!ENTITY pluginWizard.availablePluginsPage.installerUI       "ייתכן שיידרש ממך מידע נוסף במשך ההתקנה עבור תוספים מסוימים.">
 
-<!ENTITY pluginWizard.licensePage.title                      "רשיונות תוסף">
+<!ENTITY pluginWizard.licensePage.title                      "רישיונות תוסף">
 <!ENTITY pluginWizard.licensePage.accept.label               "אני מסכים.">
 <!ENTITY pluginWizard.licensePage.deny.label                 "אינני מסכים (התוסף לא יותקן).">
 

@@ -1,7 +1,7 @@
 <!ENTITY aboutSupport.pageTitle "מידע לפתרון בעיות">
 
 <!-- LOCALIZATION NOTE (aboutSupport.pageSubtitle): don't change the 'supportLink' id. -->
-<!ENTITY aboutSupport.pageSubtitle "   דף זה מכיל מידע טכני שיתכן ויהיה שימושי עבורך 
+<!ENTITY aboutSupport.pageSubtitle "   דף זה מכיל מידע טכני שאולי שימושי עבורך 
    כשתנסה לפתור בעיות. אם אתה מחפש תשובות לשאלות נפוצות
    אודות &brandShortName;, עבור ל<a id='supportLink'>אתר התמיכה</a>.">
 

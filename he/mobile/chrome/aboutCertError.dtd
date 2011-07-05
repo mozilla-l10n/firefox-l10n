@@ -16,7 +16,7 @@ was trying to connect. -->
 <!ENTITY certerror.introPara2 "בדרך־כלל, כאשר אתה מנסה להתחבר בצורה מאובטחת, אתרים מציגים הזדהות מוסמכת בכדי להוכיח שאתה אכן מגיע למקום הנכון. למרות זאת, ההזדהות של אתר זה לא ניתנת לוידוא.">
 
 <!ENTITY certerror.whatShouldIDo.heading "מה ברצונך לעשות?">
-<!ENTITY certerror.whatShouldIDo.content "אם אתה בדרך־כלל מתחבר לאתר זה ללא בעיות, יתכן ומישהו מנסה להזדהות בשם האתר, ורצוי שלא תמשיך הלאה לאתר.">
+<!ENTITY certerror.whatShouldIDo.content "אם אתה בדרך־כלל מתחבר לאתר זה ללא בעיות, ייתכן שמישהו מנסה להזדהות בשם האתר, ורצוי שלא תמשיך הלאה לאתר.">
 <!ENTITY certerror.getMeOutOfHere.label "קח אותי מפה!">
 
 <!ENTITY certerror.expert.heading "אני מבין את הסיכונים">
