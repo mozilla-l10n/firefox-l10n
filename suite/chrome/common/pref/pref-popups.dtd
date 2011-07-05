@@ -20,8 +20,6 @@
 <!ENTITY selectSound.accesskey "P">
 <!ENTITY playSoundButton.label "Přehrát">
 <!ENTITY playSoundButton.accesskey "h">
-<!ENTITY selectSound.title "Výběr zvuku">
-<!ENTITY selectSound.filter "Zvuky">
 
 <!ENTITY displayIcon.label "Zobrazit ikonku ve stavovém řádku prohlížeče">
 <!ENTITY displayIcon.accesskey "o">
