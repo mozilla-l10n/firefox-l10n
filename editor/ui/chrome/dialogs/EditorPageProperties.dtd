@@ -47,4 +47,4 @@
 <!ENTITY descriptionInput.accessKey "ת">
 <!ENTITY locationNewPage.label "[דף חדש, לא נשמר עדיין]">
 <!ENTITY EditHEADSource1.label "משתמשים מתקדמים:">
-<!ENTITY EditHEADSource2.label "כדי לערוך תכנים אחרים של איזור ה־&lt;head&gt;, השתמש ב&quot;קוד מקור HTML&quot;  בתפריט תצוגה או סרגל הכלים מצב עריכה.">
+<!ENTITY EditHEADSource2.label "כדי לערוך תכנים אחרים של אזור ה־&lt;head&gt;, השתמש ב&quot;קוד מקור HTML&quot;  בתפריט תצוגה או סרגל הכלים מצב עריכה.">
