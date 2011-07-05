@@ -103,7 +103,8 @@ can reach it easily. -->
 <!ENTITY subscribeToPageMenupopup.label "Aboni tiun ĉi paĝon">
 <!ENTITY subscribeToPageMenuitem.label "Aboni tiun ĉi paĝon…">
 <!ENTITY addCurPagesCmd.label "Aldoni legosignon por ĉiuj folioj…">
-<!ENTITY showAllBookmarks2.label "Montri ĉiujn paĝosignojn">
+<!ENTITY showAllBookmarks2.label "Montri ĉiujn legosignojn">
+<!ENTITY unsortedBookmarksCmd.label "Neordigitaj legosignoj">
 <!ENTITY bookmarksToolbarChevron.tooltip "Montri pliajn legosignojn">
 
 <!ENTITY backCmd.label                "Malantaŭen">
@@ -178,6 +179,9 @@ can reach it easily. -->
 <!ENTITY addons.accesskey             "A">
 <!ENTITY addons.commandkey            "A">
 
+<!ENTITY webDeveloperMenu.label       "TTTa programisto">
+<!ENTITY webDeveloperMenu.accesskey   "P">
+
 <!ENTITY errorConsoleCmd.label        "Konzolo de eraroj">
 <!ENTITY errorConsoleCmd.accesskey    "E">
 <!ENTITY errorConsoleCmd.commandkey   "j">
@@ -189,6 +193,21 @@ can reach it easily. -->
 <!ENTITY inspectMenu.label            "Inspekti">
 <!ENTITY inspectMenu.accesskey        "T">
 <!ENTITY inspectMenu.commandkey       "I">
+
+<!-- LOCALIZATION NOTE (scratchpad.label): This menu item label appears
+  -  in the Tools menu. See bug 653093.
+  -  The Scratchpad is intended to provide a simple text editor for creating
+  -  and evaluating bits of JavaScript code for the purposes of function
+  -  prototyping, experimentation and convenient scripting.
+  -
+  -  It's quite possible that you won't have a good analogue for the word
+  -  "Scratchpad" in your locale. You should feel free to find a close
+  -  approximation to it or choose a word (or words) that means
+  -  "simple discardable text editor". -->
+<!ENTITY scratchpad.label             "Malneta redaktilo">
+<!ENTITY scratchpad.accesskey         "r">
+<!ENTITY scratchpad.keycode           "VK_F4">
+<!ENTITY scratchpad.keytext           "F4">
 
 <!ENTITY inspectPanelTitle.label      "HTML">
 <!ENTITY inspectButton.label          "Inspekti">
@@ -206,6 +225,9 @@ can reach it easily. -->
   -  titlebar: object.objectPanelTitle. -->
 <!ENTITY inspectObjectButton.label       "Objekto">
 <!ENTITY inspectObjectButton.accesskey   "O">
+
+<!ENTITY getMoreDevtoolsCmd.label        "Akiri pli da iloj">
+<!ENTITY getMoreDevtoolsCmd.accesskey    "A">
 
 <!ENTITY fileMenu.label         "Dosiero"> 
 <!ENTITY fileMenu.accesskey       "o">
