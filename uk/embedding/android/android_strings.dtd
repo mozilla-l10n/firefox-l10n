@@ -1,5 +1,6 @@
 <!ENTITY  splash_screen_label "завантаження">
 <!ENTITY  splash_screen_installing "встановлення бібліотек\u2026">
+<!ENTITY  splash_firstrun "Налаштування &brandShortName;\u2026">
 <!ENTITY  incompatable_cpu_error "Цей пристрій не відповідає мінімальним системним вимогам &brandShortName;.">
 <!ENTITY  no_space_to_start_error "Недостатньо місця для запуску &brandShortName;.">
 <!ENTITY  error_loading_file "Сталась помилка під час завантаження файлів, необхідних для запуску &brandShortName;">
