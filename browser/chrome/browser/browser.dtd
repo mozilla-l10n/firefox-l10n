@@ -57,8 +57,6 @@ can reach it easily. -->
 <!ENTITY printCmd.label "Afdrukken…">
 <!ENTITY printCmd.accesskey "d">
 <!ENTITY printCmd.commandkey "p">
-<!ENTITY import.label "Importeren…">
-<!ENTITY import.accesskey "m">
 
 <!ENTITY goOfflineCmd.label "Offline werken">
 <!ENTITY goOfflineCmd.accesskey "f">
