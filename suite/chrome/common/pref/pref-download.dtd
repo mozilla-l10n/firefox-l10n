@@ -1,0 +1,36 @@
+<!ENTITY pref.download.title            "Descargas">
+
+<!ENTITY downloadBehavior.label         "Ao iniciar unha descarga">
+<!ENTITY focusWhenStarting.label        "Facer titilar o xestor de descargas se xa está aberto, noutro caso:">
+<!ENTITY focusWhenStarting.accesskey    "F">
+<!ENTITY openDM.label                   "Abre o xestor de descargas">
+<!ENTITY openDM.accesskey               "b">
+<!ENTITY openProgressDialog.label       "Abre un diálogo de progreso">
+<!ENTITY openProgressDialog.accesskey   "o">
+<!ENTITY doNothing.label                "Non abrir nada">
+<!ENTITY doNothing.accesskey            "d">
+
+<!ENTITY downloadLocation.label         "Ao gardar un ficheiro">
+<!ENTITY saveTo.label                   "Gardar ficheiros en">
+<!ENTITY saveTo.accesskey               "G">
+<!ENTITY chooseDownloadFolder.label     "Escoller cartafol…">
+<!ENTITY chooseDownloadFolder.accesskey "c">
+<!ENTITY alwaysAsk.label                "Preguntar sempre onde gardar os ficheiros">
+<!ENTITY alwaysAsk.accesskey            "a">
+
+<!ENTITY downloadHistory.label          "Historial de descargas">
+<!ENTITY removeEntries.label            "Retirar as entradas de descargas">
+<!ENTITY removeEntries.accesskey        "R">
+<!ENTITY whenCompleted.label            "Cando rematen">
+<!ENTITY whenQuittingApp.label          "Ao saír do &brandShortName;">
+<!ENTITY neverRemove.label              "Nunca">
+
+<!ENTITY finishedBehavior.label         "Ao rematar unha descarga">
+<!ENTITY playSound.label                "Reproducir un son">
+<!ENTITY playSound.accesskey            "p">
+<!ENTITY showAlert.label                "Mostrar un aviso">
+<!ENTITY showAlert.accesskey            "s">
+<!ENTITY browse.label                   "Examinar…">
+<!ENTITY browse.accesskey               "E">
+<!ENTITY playButton.label               "Reproducir">
+<!ENTITY playButton.accesskey           "R">
