@@ -11,7 +11,7 @@
 <!ENTITY importFromNothing.label        "No importar nada">
 <!ENTITY importFromNothing.accesskey    "d">
 <!ENTITY importFromSeamonkey.label      "Netscape 6, 7 o Mozilla 1.x">
-<!ENTITY importFromSeamonkey.accesskey  "N">z  x                
+<!ENTITY importFromSeamonkey.accesskey  "N">                
 <!ENTITY importFromOpera.label          "Opera">
 <!ENTITY importFromOpera.accesskey      "O">
 
