@@ -185,6 +185,9 @@ can reach it easily. -->
 <!ENTITY addons.accesskey             "o">
 <!ENTITY addons.commandkey            "A">
 
+<!ENTITY webDeveloperMenu.label       "Desarrollador web">
+<!ENTITY webDeveloperMenu.accesskey   "w">
+
 <!ENTITY errorConsoleCmd.label        "Consola de errores">
 <!ENTITY errorConsoleCmd.accesskey    "C">
 <!ENTITY errorConsoleCmd.commandkey   "j">
