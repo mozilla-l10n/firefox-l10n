@@ -5,12 +5,12 @@
 <!ENTITY organize.label        "സജ്ജമാക്കുക">
 <!ENTITY organize.accesskey    "O">
 
-<!ENTITY file.accesskey                 "F">
+<!-- ENTITY file.accesskey                 "F" -->
 <!ENTITY file.close.label               "അടയ്ക്കുക">
 <!ENTITY file.close.accesskey           "C">
 <!ENTITY cmd.close.key                  "w">
-<!ENTITY edit.label                     "ചിട്ടപ്പെടുത്തുക">
-<!ENTITY edit.accesskey                 "E">
+<!-- ENTITY edit.label                     "ചിട്ടപ്പെടുത്തുക" -->
+<!-- ENTITY edit.accesskey                 "E" -->
 <!ENTITY views.label                    "കാഴ്ചകള്‍">
 <!ENTITY views.accesskey                "V">
 <!-- ENTITY view.toolbar.label             "ടൂള്‍ബാര്‍" -->
@@ -109,8 +109,8 @@
 
 <!ENTITY cmd.reloadLivebookmark.label      "ലൈവ് അടയാളക്കുറിപ്പു് വീണ്ടും ലഭ്യമാക്കുക">
 <!ENTITY cmd.reloadLivebookmark.accesskey  "R">
-<!ENTITY cmd.reloadMicrosummary.label      "ലൈവ് തലക്കെട്ട് വീണ്ടും ലഭ്യമാക്കുക">
-<!ENTITY cmd.reloadMicrosummary.accesskey  "R">
+<!-- ENTITY cmd.reloadMicrosummary.label      "ലൈവ് തലക്കെട്ട് വീണ്ടും ലഭ്യമാക്കുക" -->
+<!-- ENTITY cmd.reloadMicrosummary.accesskey  "R" -->
 
 <!-- ENTITY cmd.groupby_site.label      "സൈറ്റ് അനുസരിച്ചു് ക്രമികരിക്കുക" -->
 <!-- ENTITY cmd.groupby_site.accesskey  "S" -->
@@ -206,11 +206,11 @@
 <!ENTITY maintenance.label      "ഇംപോര്‍ട്ടും ബാക്കപ്പും">
 <!ENTITY maintenance.accesskey  "I">
 
-<!ENTITY backCmd.label       "പുറകോട്ടു്">
+<!-- ENTITY backCmd.label       "പുറകോട്ടു്" -->
 <!-- ENTITY backCmd.accesskey   "B" -->
 <!ENTITY backButton.tooltip  "പുറകോട്ടു് പോകുക">
 
-<!ENTITY forwardCmd.label       "മുമ്പോട്ടു്">
+<!-- ENTITY forwardCmd.label       "മുമ്പോട്ടു്" -->
 <!-- ENTITY forwardCmd.accesskey   "F" -->
 <!ENTITY forwardButton.tooltip  "മുമ്പോട്ടു് പോകുക">
 
@@ -218,7 +218,7 @@
 <!ENTITY detailsPane.more.accesskey "e">
 <!ENTITY detailsPane.less.label "കുറവു്">
 <!ENTITY detailsPane.less.accesskey "e">
-<!ENTITY detailsPane.noPreviewAvailable.label "തിരനോട്ടം">
+<!-- ENTITY detailsPane.noPreviewAvailable.label "തിരനോട്ടം" -->
 <!ENTITY detailsPane.selectAnItemText.description "ഒരു വസ്തു തെരഞ്ഞെടുത്തു് ഗുണഗണങ്ങള്‍ ചിട്ടപ്പെടുത്തുക">
 <!ENTITY cmd.bookmarkLink.label         "ഈ താള്‍ അടയാളപ്പെടുത്തുക…">
 <!ENTITY cmd.bookmarkLink.accesskey     "B">

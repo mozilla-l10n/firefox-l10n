@@ -363,11 +363,11 @@
 <!-- categories / views -->
 <!ENTITY view.search.label                    "തെരയുക">
 <!ENTITY view.discover.label                  "ആഡ്-ഓണുകള്‍ ലഭ്യമാകുക">
-<!ENTITY view.locales.label                   "ഭാഷകള്‍">
-<!ENTITY view.searchengines.label             "സേര്‍ച്ച് എഞ്ചിനുകള്‍">
-<!ENTITY view.features.label                  "എക്സ്റ്റെന്‍ഷനുകള്‍">
-<!ENTITY view.appearance2.label               "കാഴ്ച">
-<!ENTITY view.plugins.label                   "പ്ലഗിനുകള്‍">
+<!-- ENTITY view.locales.label                   "ഭാഷകള്‍" -->
+<!-- ENTITY view.searchengines.label             "സേര്‍ച്ച് എഞ്ചിനുകള്‍" -->
+<!-- ENTITY view.features.label                  "എക്സ്റ്റെന്‍ഷനുകള്‍" -->
+<!-- ENTITY view.appearance2.label               "കാഴ്ച" -->
+<!-- ENTITY view.plugins.label                   "പ്ലഗിനുകള്‍" -->
 <!ENTITY view.recentUpdates.label             "ഏറ്റവും പുതിയ പരിഷ്കരണങ്ങള്‍">
 <!ENTITY view.availableUpdates.label          "ലഭ്യമായ പരിഷ്കരണങ്ങള്‍">
 
