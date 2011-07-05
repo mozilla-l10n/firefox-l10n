@@ -27,7 +27,7 @@
 <!-- ENTITY importFromEpiphany.label "എപ്പിഫെനി" -->
 <!-- ENTITY importFromEpiphany.accesskey "E" -->
 <!-- ENTITY importFromGaleon.label "ഗാല്യോണ്‍" -->
-<!ENTITY importFromGaleon.accesskey "G">
+<!-- ENTITY importFromGaleon.accesskey "G"-->
 <!ENTITY importFromHTMLFile.label       "ഒരു എച്ടിഎംഎല്‍ ഫയലില്‍ നിന്നും">
 <!ENTITY importFromHTMLFile.accesskey   "F">
 <!-- ENTITY importFromFile.label "ഫയലില്‍ നിന്ന്" -->
