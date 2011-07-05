@@ -9,13 +9,13 @@
 <!ENTITY navCheck.accesskey "P">
 <!ENTITY showToolsLegend.label "Zobrazit lištu navigace jako">
 <!ENTITY picsNtextRadio.label "Obrázky a text">
-<!ENTITY picsNtextRadio.accesskey "O">
+<!ENTITY picsNtextRadio.accesskey "b">
 <!ENTITY picsOnlyRadio.label "Pouze obrázky">
-<!ENTITY picsOnlyRadio.accesskey "b">
+<!ENTITY picsOnlyRadio.accesskey "u">
 <!ENTITY textonlyRadio.label "Pouze text">
-<!ENTITY textonlyRadio.accesskey "x">
+<!ENTITY textonlyRadio.accesskey "t">
 <!ENTITY showHideTooltips.label "Zobrazovat plovoucí tipy">
-<!ENTITY showHideTooltips.accesskey "T">
+<!ENTITY showHideTooltips.accesskey "Z">
 
 <!ENTITY pref.locales.title "Jazyk uživatelského rozhraní">
 <!ENTITY selectLocale.label "Zvolte jazyk, ve kterém se mají zobrazovat texty dialogů, nabídek, nástrojových lišt a tlačítek:">

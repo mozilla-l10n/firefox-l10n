@@ -43,12 +43,12 @@
 <!ENTITY colorColumn.label "Barva">
 <!ENTITY defaultTagName.label "Nepojmenovaný štítek">
 <!ENTITY addTagButton.label "Přidat">
-<!ENTITY addTagButton.accesskey "A">
+<!ENTITY addTagButton.accesskey "P">
 <!ENTITY deleteTagButton.label "Smazat">
-<!ENTITY deleteTagButton.accesskey "S">
+<!ENTITY deleteTagButton.accesskey "m">
 <!ENTITY raiseTagButton.label "Zvýšit prioritu">
 <!ENTITY raiseTagButton.accesskey "Z">
 <!ENTITY lowerTagButton.label "Snížit prioritu">
 <!ENTITY lowerTagButton.accesskey "S">
 <!ENTITY restoreButton.label "Obnovit výchozí">
-<!ENTITY restoreButton.accesskey "o">
+<!ENTITY restoreButton.accesskey "O">

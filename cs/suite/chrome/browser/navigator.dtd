@@ -54,7 +54,7 @@
 <!ENTITY componentbarCmd.accesskey "K">
 
 <!ENTITY useStyleSheetMenu.label "Styl stránky">
-<!ENTITY useStyleSheetMenu.accesskey "s">
+<!ENTITY useStyleSheetMenu.accesskey "y">
 <!ENTITY useStyleSheetNone.label "Žádný">
 <!ENTITY useStyleSheetNone.accesskey "N">
 <!ENTITY useStyleSheetPersistentOnly.label "Základní styl">
@@ -66,9 +66,9 @@
 <!ENTITY pageInfoCmd.accesskey "i">
 <!ENTITY pageInfoCmd.commandkey "i">
 <!ENTITY fullScreenCmd.label "Celá obrazovka">
-<!ENTITY fullScreenCmd.accesskey "l">
+<!ENTITY fullScreenCmd.accesskey "C">
 <!ENTITY translateMenu.label "Přeložit stránku">
-<!ENTITY translateMenu.accesskey "T">
+<!ENTITY translateMenu.accesskey "l">
 
 <!ENTITY closeOtherTabs.label "Zavřít ostatní panely">
 <!ENTITY closeOtherTabs.accesskey "p">
@@ -99,7 +99,7 @@
 <!ENTITY searchInternet.commandKey "f">
 
 <!ENTITY clearPrivateDataCmd.label "Vymazat důvěrná data">
-<!ENTITY clearPrivateDataCmd.accesskey "d">
+<!ENTITY clearPrivateDataCmd.accesskey "m">
 
 <!ENTITY goMenu.label "Přejít">
 <!ENTITY goMenu.accesskey "p">

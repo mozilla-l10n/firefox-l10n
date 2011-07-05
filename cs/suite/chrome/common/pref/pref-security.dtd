@@ -36,7 +36,7 @@
    - ***** END LICENSE BLOCK ***** -->
 
 <!--LOCALIZATION NOTE : FILE 'Privacy and Security' prefs settings -->
-<!ENTITY pref.security.title "Soukromí a Zabezpečení">
+<!ENTITY pref.security.title "Soukromí a zabezpečení">
 
 <!ENTITY tracking.label "Sledování uživatelů">
 <!ENTITY doNotTrack.label "Informovat servery, že nechci být sledován">

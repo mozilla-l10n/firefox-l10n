@@ -38,28 +38,28 @@
 <!ENTITY pref.formatting.title "Formát odesílání">
 <!ENTITY sendMaildesc.label "Při odesílání zpráv ve formátu HTML a jeden nebo více příjemců není podle záznamů schopen přijímat formát HTML:">
 <!ENTITY askMe.label "Zobrazit dotaz, co dělat (je-li zpráva ve formátu HTML)">
-<!ENTITY askMe.accesskey "a">
+<!ENTITY askMe.accesskey "Z">
 <!ENTITY convertPlain.label "Převést zprávu na prostý text (může se ztratit formátování)">
-<!ENTITY convertPlain.accesskey "p">
+<!ENTITY convertPlain.accesskey "e">
 <!ENTITY sendHTML.label "Bez ohledu na uživatele odeslat zprávu ve formátu HTML">
-<!ENTITY sendHTML.accesskey "b">
+<!ENTITY sendHTML.accesskey "B">
 <!ENTITY sendBoth.label "Odeslat zprávu ve formátu prostého textu i HTML">
-<!ENTITY sendBoth.accesskey "e">
+<!ENTITY sendBoth.accesskey "O">
 <!ENTITY override.label "Toto nastavení lze změnit u jednotlivé zprávy pomocí nabídky Formát.">
 
 <!-- Html and Plain Text Domains  -->
 <!ENTITY domain.title "Domény pro zasílání ve formátu HTML a v prostém textu">
 <!ENTITY domaindesc.label "Můžete zadat e-mailové domény (například netscape.net), o kterých víte, že mohou přijímat zprávy ve formátu HTML. Stejně tak můžete zadat i domény, které mohou přijímat pouze prostý text. Když pošlete zprávu na adresu v jedné z domén uvedených níže, bude formát zprávy automaticky upraven.">
 <!ENTITY HTMLdomaintitle.label "Domény pro HTML">
-<!ENTITY HTMLdomaintitle.accesskey "L">
+<!ENTITY HTMLdomaintitle.accesskey "H">
 <!ENTITY PlainTexttitle.label "Domény pro prostý text">
-<!ENTITY PlainTexttitle.accesskey "m">
+<!ENTITY PlainTexttitle.accesskey "D">
 <!ENTITY AddButton.label "Přidat…">
-<!ENTITY AddHtmlDomain.accesskey "a">
-<!ENTITY AddPlainText.accesskey "d">
+<!ENTITY AddHtmlDomain.accesskey "P">
+<!ENTITY AddPlainText.accesskey "a">
 <!ENTITY DeleteButton.label "Smazat">
-<!ENTITY DeleteHtmlDomain.accesskey "s">
-<!ENTITY DeletePlainText.accesskey "t">
+<!ENTITY DeleteHtmlDomain.accesskey "S">
+<!ENTITY DeletePlainText.accesskey "m">
 
 <!-- Add Domain Name -->
 <!ENTITY add.htmltitle "Přidat doménu pro HTML">
