@@ -53,7 +53,7 @@
 <!-- ENTITY addCurPagesCmd.accesskey "T" -->
 <!-- ENTITY manBookmarksCmd.label "അടയാളങ്ങള്‍ ചിട്ടപ്പെടുത്തുക..." -->
 <!-- ENTITY manBookmarksCmd.accesskey "M" -->
-<!ENTITY bookmarkAllCmd.label "എല്ലാ റ്റാബുകളും അടയാളപ്പെടുത്തുക...">
+<!-- ENTITY bookmarkAllCmd.label "എല്ലാ റ്റാബുകളും അടയാളപ്പെടുത്തുക..." -->
 <!-- ENTITY searchBookmarksCmd.label "അടയാളങ്ങളില്‍ തിരയുക..." -->
 <!-- ENTITY searchBookmarksCmd.accesskey "S" -->
 <!-- ENTITY searchBookmarksCmd.commandkey "B" -->
