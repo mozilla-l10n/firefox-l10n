@@ -526,3 +526,23 @@
 <!ENTITY addonBarCloseButton.tooltip  "ആഡ്-ഓണ്‍ ബാര്‍ അടയ്ക്കുക">
 <!ENTITY toggleAddonBarCmd.key        "/">
 
+<!ENTITY getMoreDevtoolsCmd.label        "കൂടുതല്‍ പ്രയോഗങ്ങള്‍ ലഭ്യമാക്കുക">
+
+<!ENTITY getMoreDevtoolsCmd.accesskey    "M">
+
+<!ENTITY scratchpad.label             "സ്ക്രാച്പാഡ്">
+
+<!ENTITY scratchpad.accesskey         "s">
+
+<!ENTITY scratchpad.keycode           "VK_F4">
+
+<!ENTITY scratchpad.keytext           "F4">
+<!ENTITY unsortedBookmarksCmd.label "ക്രമത്തിലല്ലാത്ത അടയാളക്കുറിപ്പുകള്‍">
+
+<!ENTITY webDeveloperMenu.label       "വെബ് ഡവലപ്പര്‍">
+
+<!ENTITY webDeveloperMenu.accesskey   "W">
+
+
+
+
