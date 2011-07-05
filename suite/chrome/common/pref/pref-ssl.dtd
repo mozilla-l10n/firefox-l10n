@@ -48,7 +48,7 @@
 
 <!ENTITY warn.description "Aplikace &brandShortName; vás může upozornit na stav zabezpečení stránky, kterou si prohlížíte. Nastavit aplikaci &brandShortName; tak, aby ukazovala upozornění a zjišťovala pravomoci stránky před:">
 <!ENTITY warn.enteringsecure "Vstupem na stránku, která podporuje šifrování">
-<!ENTITY warn.enteringsecure.accesskey "V">
+<!ENTITY warn.enteringsecure.accesskey "u">
 <!ENTITY warn.enteringweak "Vstupem na stránku, která používá slabou šifru">
 <!ENTITY warn.enteringweak.accesskey "s">
 <!ENTITY warn.insecurepost "Zasláním dat z formuláře na nezabezpečené stránce na nezabezpečenou stránku">

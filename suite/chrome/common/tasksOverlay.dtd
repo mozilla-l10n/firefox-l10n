@@ -24,7 +24,7 @@
 <!ENTITY tasksMenu.accesskey "N">
 
 <!ENTITY datamanCmd.label "Správce dat">
-<!ENTITY datamanCmd.accesskey "d">
+<!ENTITY datamanCmd.accesskey "a">
 
 <!ENTITY passwordManagerCmd.label "Správce hesel">
 <!ENTITY passwordManagerCmd.accesskey "h">
@@ -36,7 +36,7 @@
 <!ENTITY passwordExpireCmd.accesskey "O">
 
 <!ENTITY downloadManagerCmd.label "Správce stahování">
-<!ENTITY downloadManagerCmd.accesskey "S">
+<!ENTITY downloadManagerCmd.accesskey "t">
 <!ENTITY downloadManagerCmd.commandkey "j">
 
 <!ENTITY addOnsManagerCmd.label "Správce doplňků">

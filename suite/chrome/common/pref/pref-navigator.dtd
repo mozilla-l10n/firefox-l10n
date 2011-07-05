@@ -1,34 +1,34 @@
 <!ENTITY pref.navigator.title "Prohlížeč">
 
-<!ENTITY navRadio.label "Zobrazit v">
+<!ENTITY navRadio.label "Zobrazit">
 <!ENTITY navRadio.accesskey "Z">
-<!ENTITY navStartPageMenu.label "spuštění prohlížeče">
-<!ENTITY newWinPageMenu.label "novém okně">
-<!ENTITY newTabPageMenu.label "novém panelu">
+<!ENTITY navStartPageMenu.label "při spuštění">
+<!ENTITY newWinPageMenu.label "v novém okně">
+<!ENTITY newTabPageMenu.label "v novém panelu">
 
 <!ENTITY blankPageRadio.label "Prázdná stránka">
-<!ENTITY blankPageRadio.accesskey "Z">
+<!ENTITY blankPageRadio.accesskey "P">
 <!ENTITY homePageRadio.label "Domovská stránka">
-<!ENTITY homePageRadio.accesskey "m">
+<!ENTITY homePageRadio.accesskey "D">
 <!ENTITY lastPageRadio.label "Naposledy navštívená stránka">
-<!ENTITY lastPageRadio.accesskey "L">
+<!ENTITY lastPageRadio.accesskey "N">
 <!ENTITY restoreSessionRadio.label "Obnovit předchozí relaci">
-<!ENTITY restoreSessionRadio.accesskey "O">
+<!ENTITY restoreSessionRadio.accesskey "r">
 
 <!ENTITY header2.label "Domovská stránka">
 <!ENTITY homePageIntro.label "Na tuto stránku přejdete klepnutím na tlačítko Domů.">
 <!ENTITY useCurrent.label "Použít aktuální stránku">
-<!ENTITY useCurrent.accesskey "N">
+<!ENTITY useCurrent.accesskey "a">
 <!ENTITY useCurrentGroup.label "Použít aktuální skupinu">
-<!ENTITY useCurrentGroup.accesskey "A">
+<!ENTITY useCurrentGroup.accesskey "k">
 <!ENTITY browseFile.label "Vybrat soubor…">
-<!ENTITY browseFile.accesskey "S">
+<!ENTITY browseFile.accesskey "b">
 <!ENTITY useDefault.label "Obnovit výchozí">
 <!ENTITY useDefault.accesskey "O">
 
 <!ENTITY defaultBrowserGroup.label "Výchozí prohlížeč">
 <!ENTITY defaultBrowserButton.label "Nastavit výchozí prohlížeč">
-<!ENTITY defaultBrowserButton.accesskey "N">
+<!ENTITY defaultBrowserButton.accesskey "s">
 <!ENTITY alreadyDefaultText "Aplikace &brandShortName; je již nastavena jako výchozí prohlížeč.">
 <!ENTITY defaultPendingText "Aplikace &brandShortName; bude nastavena jako výchozí prohlížeč po klepnutí na tlačítko OK.">
 <!ENTITY makeDefaultText "Nastavit &brandShortName; jako výchozí prohlížeč">
