@@ -50,7 +50,7 @@
 <!ENTITY calendar.print.window.title "הדפס יומן">
 <!ENTITY calendar.publish.close.button "סגור">
 <!ENTITY calendar.publish.dialog.title "פרסם יומן">
-<!ENTITY calendar.publish.example.url.description "לדוגמא: http://www.myserver.com/webdav/test.ics">
+<!ENTITY calendar.publish.example.url.description "לדוגמה: http://www.myserver.com/webdav/test.ics">
 <!ENTITY calendar.publish.publish.button "פרסם">
 <!ENTITY calendar.publish.url.label "כתובת הפרסום באינטרנט">
 <!ENTITY calendar.search.options.searchfor " המכילים">
