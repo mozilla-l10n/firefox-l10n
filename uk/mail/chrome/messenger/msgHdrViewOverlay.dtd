@@ -103,46 +103,45 @@
 <!ENTITY openAttachmentCmd.label    "Відкрити">
 <!ENTITY openAttachmentCmd.accesskey    "В">
 <!ENTITY saveAsAttachmentCmd.label    "Зберегти як…">
-<!ENTITY saveAsAttachmentCmd.accesskey    "я">
-<!ENTITY detachAttachmentCmd.label    "Відокремити…">
-<!ENTITY detachAttachmentCmd.accesskey    "T">
-<!ENTITY deleteAttachmentCmd.label    "Вилучити">
-<!ENTITY deleteAttachmentCmd.accesskey    "л">
+<!ENTITY saveAsAttachmentCmd.accesskey    "З">
+<!ENTITY detachAttachmentCmd.label    "Викласти…">
+<!ENTITY detachAttachmentCmd.accesskey    "к">
+<!ENTITY deleteAttachmentCmd.label    "Видалити">
+<!ENTITY deleteAttachmentCmd.accesskey    "д">
 <!ENTITY openAllAttachmentsCmd.label    "Відкрити всі…">
-<!ENTITY openAllAttachmentsCmd.accesskey    "в">
-<!ENTITY saveAllAttachmentsCmd.label    "Зберегти все…">
-<!ENTITY saveAllAttachmentsCmd.accesskey    "е">
-<!ENTITY detachAllAttachmentsCmd.label    "Відокремити всі…">
+<!ENTITY openAllAttachmentsCmd.accesskey    "В">
+<!ENTITY saveAllAttachmentsCmd.label    "Зберегти всі…">
+<!ENTITY saveAllAttachmentsCmd.accesskey    "З">
+<!ENTITY detachAllAttachmentsCmd.label    "Викласти всі…">
 <!ENTITY detachAllAttachmentsCmd.accesskey    "д">
-<!ENTITY deleteAllAttachmentsCmd.label    "Вилучити всі…">
-<!ENTITY deleteAllAttachmentsCmd.accesskey    "с">
+<!ENTITY deleteAllAttachmentsCmd.label    "Видалити всі…">
+<!ENTITY deleteAllAttachmentsCmd.accesskey    "д">
 
-<!-- FIXME -->
 <!-- Attachment toolbar items -->
-<!ENTITY saveAttachmentButton.label       "save">
-<!ENTITY saveAttachmentButton.tooltip     "save the attached file">
-<!ENTITY saveAllAttachmentsButton.label   "save all">
-<!ENTITY saveAllAttachmentsButton.tooltip "save all the attached files">
-<!ENTITY openAttachmentMenuItem.label     "open">
-<!ENTITY openAttachmentMenuItem.accesskey    "o">
-<!ENTITY saveAsAttachmentMenuItem.label    "save as…">
-<!ENTITY saveAsAttachmentMenuItem.accesskey    "s">
-<!ENTITY detachAttachmentMenuItem.label    "detach…">
-<!ENTITY detachAttachmentMenuItem.accesskey    "d">
-<!ENTITY deleteAttachmentMenuItem.label    "delete">
-<!ENTITY deleteAttachmentMenuItem.accesskey    "e">
-<!ENTITY openAllAttachmentsMenuItem.label    "open all…">
-<!ENTITY openAllAttachmentsMenuItem.accesskey    "o">
-<!ENTITY saveAllAttachmentsMenuItem.label    "save all…">
-<!ENTITY saveAllAttachmentsMenuItem.accesskey    "s">
-<!ENTITY detachAllAttachmentsMenuItem.label    "detach all…">
-<!ENTITY detachAllAttachmentsMenuItem.accesskey    "d">
-<!ENTITY deleteAllAttachmentsMenuItem.label    "delete all…">
-<!ENTITY deleteAllAttachmentsMenuItem.accesskey    "e">
+<!ENTITY saveAttachmentButton.label       "зберегти">
+<!ENTITY saveAttachmentButton.tooltip     "зберегти владений файл">
+<!ENTITY saveAllAttachmentsButton.label   "зберегти всі">
+<!ENTITY saveAllAttachmentsButton.tooltip "зберегти всі вкладені файли">
+<!ENTITY openAttachmentMenuItem.label     "відкрити">
+<!ENTITY openAttachmentMenuItem.accesskey    "в">
+<!ENTITY saveAsAttachmentMenuItem.label    "зберегти як…">
+<!ENTITY saveAsAttachmentMenuItem.accesskey    "з">
+<!ENTITY detachAttachmentMenuItem.label    "викласти…">
+<!ENTITY detachAttachmentMenuItem.accesskey    "к">
+<!ENTITY deleteAttachmentMenuItem.label    "видалити">
+<!ENTITY deleteAttachmentMenuItem.accesskey    "д">
+<!ENTITY openAllAttachmentsMenuItem.label    "відкрити всі…">
+<!ENTITY openAllAttachmentsMenuItem.accesskey    "в">
+<!ENTITY saveAllAttachmentsMenuItem.label    "зберегти всі…">
+<!ENTITY saveAllAttachmentsMenuItem.accesskey    "з">
+<!ENTITY detachAllAttachmentsMenuItem.label    "викласти всі…">
+<!ENTITY detachAllAttachmentsMenuItem.accesskey    "к">
+<!ENTITY deleteAllAttachmentsMenuItem.label    "видалити всі…">
+<!ENTITY deleteAllAttachmentsMenuItem.accesskey    "д">
 
 <!ENTITY copyLinkCmd.label        "Копіювати посилання">
 <!ENTITY copyLinkCmd.accesskey    "К">
 
-<!ENTITY CopyMessageId.label "Copy Message-ID">
-<!ENTITY OpenMessageForMsgId.label "Open Message For ID">
-<!ENTITY OpenBrowserWithMsgId.label "Open Browser With Message-ID">
+<!ENTITY CopyMessageId.label "Копіювати ідентифікатор">
+<!ENTITY OpenMessageForMsgId.label "Відкрити листа за ідентифікатором">
+<!ENTITY OpenBrowserWithMsgId.label "Відкрити лист у браузері">
