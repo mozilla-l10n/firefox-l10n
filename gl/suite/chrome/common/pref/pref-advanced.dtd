@@ -1,0 +1,16 @@
+<!--LOCALIZATION NOTE : FILE 'Advanced' prefs settings -->
+<!ENTITY pref.advanced.title        "Opcións avanzadas">
+
+<!ENTITY prefEnableJava.caption     "Características que axudan a interpretar as páxinas web">
+
+<!ENTITY enbJavaCheck.label         "Activar Java">
+<!ENTITY enbJavaCheck.accesskey     "J">
+
+<!ENTITY systemPref.caption         "Preferencias do sistema">
+<!ENTITY systemPrefCheck.label      "Usar as preferencias do sistema">
+<!ENTITY systemPrefCheck.accesskey  "U">
+<!ENTITY systemPref.desc            "Con esta opción, &brandShortName; herda as preferencias do sistema. A configuracion do sistema sobrescribirá a configuración do &brandShortName;.">
+
+<!ENTITY prefCheckDefault.caption   "Integración co sistema">
+<!ENTITY prefCheckDefaultClient.label "Comprobar a configuración de aplicativos predeterminados ao iniciar">
+<!ENTITY prefCheckDefaultClient.accesskey "C">

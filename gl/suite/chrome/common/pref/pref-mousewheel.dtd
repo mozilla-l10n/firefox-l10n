@@ -1,0 +1,28 @@
+<!-- LOCALIZATION NOTE : FILE Mouse-wheel management prefs, for those lucky OSes that support mouse wheels -->
+
+<!ENTITY pref.mouseWheel.title           "Roda do rato">
+<!ENTITY mouseWheelPanel.label           "Especifica o comportamento da roda do rato cando se usa con esta tecla modificadora: ">
+<!ENTITY usingJustTheWheel.label         "Sen tecla modificadora">
+<!ENTITY usingWheelAndAlt.label          "&altKey.label;">
+<!ENTITY usingWheelAndCtrl.label         "&ctrlKey.label;">
+<!ENTITY usingWheelAndShft.label         "&shiftKey.label;">
+<!ENTITY mousewheelGroup.label           "Desprazamento vertical">
+<!ENTITY mousewheelHorizGroup.label      "Desprazamento horizontal">
+<!ENTITY scroll.label                    "Desprazar o documento por ">
+<!ENTITY scroll.accesskey                "s">
+<!ENTITY scrollHoriz.accesskey           "c">
+<!ENTITY scrollLines.label               "liñas">
+<!ENTITY scrollChars.label               "caracteres">
+<!ENTITY useSystemDefault.label          "Usar predeterminados do sistema">
+<!ENTITY useSystemDefault.accesskey      "U">
+<!ENTITY useSystemDefaultHoriz.accesskey "d">
+<!ENTITY scrollPgUpPgDn.label            "Mover o documento unha páxina arriba ou abaixo">
+<!ENTITY scrollPgUpPgDn.accesskey        "p">
+<!ENTITY scrollPgLtPgRt.label            "Mover o documento unha páxina á esquerda ou á dereita">
+<!ENTITY scrollPgLtPgRt.accesskey        "r">
+<!ENTITY history.label                   "Moverse adiante ou atrás no historial de navegación">
+<!ENTITY history.accesskey               "M">
+<!ENTITY historyHoriz.accesskey          "b">
+<!ENTITY zoom.label                      "Aumentar ou reducir o tamaño da páxina">
+<!ENTITY zoom.accesskey                  "t">
+<!ENTITY zoomHoriz.accesskey             "e">
