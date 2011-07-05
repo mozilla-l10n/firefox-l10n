@@ -29,6 +29,8 @@
 <!ENTITY checkNow.accesskey              "N">
 <!ENTITY submitCrashes.label             "Crashrapporten verzenden">
 <!ENTITY submitCrashes.accesskey         "C">
+<!ENTITY submitTelemetry.label           "Prestatiegegevens verzenden">
+<!ENTITY submitTelemetry.accesskey       "P">
 
 <!ENTITY networkTab.label                "Netwerk">
 
