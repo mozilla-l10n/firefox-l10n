@@ -347,7 +347,7 @@
 <!-- categories / views -->
 <!ENTITY view.search.label                    "অনুসন্ধান">
 <!ENTITY view.discover.label                  "অতিরিক্ত সামগ্রী প্রাপ্ত করুন">
-<!ENTITY view.locales.label                   "ভাষা">
+<!-- ENTITY view.locales.label                   "ভাষা" -->
 <!-- ENTITY view.searchengines.label             "সার্চ ইঞ্জিন" -->
 <!-- ENTITY view.features.label                  "এক্সটেনশন" -->
 <!-- ENTITY view.appearance2.label               "চেহারা" -->

@@ -111,6 +111,8 @@
 <!ENTITY addCurPagesCmd.label "সমস্ত ট্যাব বুকমার্ক করুন...">
 <!-- ENTITY showAllBookmarks.label "সকল বুকমার্ক প্রদর্শন…" -->
 <!ENTITY showAllBookmarks2.label "সকল বুকমার্ক প্রদর্শন">
+<!ENTITY unsortedBookmarksCmd.label "অবিন্যস্ত বুকমার্ক">
+
 <!-- ENTITY addCurPagesCmd.accesskey "T" -->
 <!-- ENTITY manBookmarksCmd.label "বুকমার্ক সুবিন্যস্ত করুন..." -->
 <!-- ENTITY manBookmarksCmd.accesskey "M" -->
@@ -185,6 +187,9 @@
 <!-- ENTITY bookmarksSidebarWinCmd.commandkey "i" -->
 <!ENTITY addonBarCmd.label "অতিরিক্ত সামগ্রীর বার">
 <!ENTITY addonBarCmd.accesskey "A">
+
+<!ENTITY webDeveloperMenu.label       "ওয়েব ডিভেলপর">
+<!ENTITY webDeveloperMenu.accesskey   "W">
 
 <!-- LOCALIZATION NOTE (bookmarksSidebarGtkCmd.commandkey): This command
   -  key should not contain the letters A-F, since these are reserved
