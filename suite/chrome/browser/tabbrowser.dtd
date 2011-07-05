@@ -14,5 +14,5 @@
 <!ENTITY closeTabButton.tooltip "Zavře aktuální panel">
 <!ENTITY newTabButton.tooltip "Otevře nový panel">
 <!ENTITY  listAllTabs.tooltip "Seznam všech panelů">
-<!ENTITY undoCloseTab.label "Zpět zavření panelu">
-<!ENTITY undoCloseTab.accesskey "Z">
+<!ENTITY undoCloseTab.label "Otevřít zavřený panel">
+<!ENTITY undoCloseTab.accesskey "t">

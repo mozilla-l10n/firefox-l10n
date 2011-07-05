@@ -109,7 +109,7 @@
 <!ENTITY historyRestoreLastSession.accesskey "O">
 
 <!ENTITY bookmarksMenu.label "Záložky">
-<!ENTITY bookmarksMenu.accesskey "Z">
+<!ENTITY bookmarksMenu.accesskey "o">
 <!ENTITY addCurPageCmd.label "Přidat k záložkám">
 <!ENTITY addCurPageCmd.accesskey "P">
 <!ENTITY addCurPageAsCmd.label "Přidat k záložkám jako…">
