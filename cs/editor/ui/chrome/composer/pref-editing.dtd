@@ -1,22 +1,22 @@
 <!ENTITY pref.editing.title "Nastavení nové stránky"> 
 
 <!ENTITY authorName.label "Autor:">
-<!ENTITY authorName.accesskey "u">
+<!ENTITY authorName.accesskey "A">
 <!ENTITY pageColorHeader "Výchozí vzhled stránky">
 <!ENTITY defaultColors.label "Neurčovat barvy (nenastavovat barvy na stránce)">
-<!ENTITY defaultColors.accesskey "n">
+<!ENTITY defaultColors.accesskey "e">
 <!ENTITY customColors.label "Použít vlastní barvy:">
-<!ENTITY customColors.accesskey "p">
+<!ENTITY customColors.accesskey "P">
 <!ENTITY normalText.label "Běžný text">
-<!ENTITY normalText.accesskey "n">
+<!ENTITY normalText.accesskey "t">
 <!ENTITY linkText.label "Odkaz">
 <!ENTITY linkText.accesskey "O">
 <!ENTITY activeLinkText.label "Aktivní odkaz">
-<!ENTITY activeLinkText.accesskey "A">
+<!ENTITY activeLinkText.accesskey "k">
 <!ENTITY visitedLinkText.label "Navštívený odkaz">
-<!ENTITY visitedLinkText.accesskey "v">
+<!ENTITY visitedLinkText.accesskey "N">
 <!ENTITY background.label "Pozadí:">
-<!ENTITY background.accesskey "P">
+<!ENTITY background.accesskey "z">
 <!ENTITY colon.character ":">
 <!ENTITY backgroundImage.label "Obrázek na pozadí:">
 <!ENTITY backgroundImage.accesskey "b">

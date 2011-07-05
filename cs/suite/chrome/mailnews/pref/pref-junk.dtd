@@ -40,24 +40,24 @@
 
 <!-- Junk Mail Controls -->
 <!ENTITY manualMark.label "Pokud ručně označím zprávy jako nevyžádané:">
-<!ENTITY manualMark.accesskey "O">
+<!ENTITY manualMark.accesskey "r">
 <!ENTITY manualMarkModeMove.label "Přesunout je do složky „Nevyžádaná pošta“">
-<!ENTITY manualMarkModeMove.accesskey "P">
+<!ENTITY manualMarkModeMove.accesskey "s">
 <!ENTITY manualMarkModeDelete.label "Smazat">
-<!ENTITY manualMarkModeDelete.accesskey "S">
+<!ENTITY manualMarkModeDelete.accesskey "m">
 
 <!ENTITY markAsRead.intro "Označovat zprávy jako přečtené:">
 <!ENTITY autoMarkAsRead.label "Pokud je &brandShortName; označí jako nevyžádané">
-<!ENTITY autoMarkAsRead.accesskey "u">
+<!ENTITY autoMarkAsRead.accesskey "k">
 <!ENTITY manualMarkAsRead.label "Pokud je označím manuálně jako nevyžádané">
-<!ENTITY manualMarkAsRead.accesskey "k">
+<!ENTITY manualMarkAsRead.accesskey "o">
 
-<!ENTITY enableJunkLogging.label "Povolit žurnálvání nevyžádané pošty.">
-<!ENTITY enableJunkLogging.accesskey "v">
+<!ENTITY enableJunkLogging.label "Povolit žurnál nevyžádané pošty">
+<!ENTITY enableJunkLogging.accesskey "P">
 <!ENTITY openJunkLog.label "Zobrazit žurnál">
 <!ENTITY openJunkLog.accesskey "Z">
 <!ENTITY resetTrainingData.label "Smazat naučená pravidla">
-<!ENTITY resetTrainingData.accesskey "m">
+<!ENTITY resetTrainingData.accesskey "n">
 
 <!ENTITY pref.suspectMail.caption "Podezřelá pošta">
 
@@ -69,4 +69,4 @@
 <!-- Anti Virus -->
 <!ENTITY pref.antivirus.caption "Antivir">
 <!ENTITY antiVirus.label "Povolit antivirovým klientům prohlížet jednotlivé příchozí zprávy">
-<!ENTITY antiVirus.accesskey "P">
+<!ENTITY antiVirus.accesskey "a">
