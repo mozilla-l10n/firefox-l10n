@@ -19,7 +19,7 @@
 
 <!ENTITY divertAll.label "Vždy otevřít do nového panelu">
 <!ENTITY divertAll.accesskey "d">
-<!ENTITY divertNoFeatures.label "Přizpůsobená okna neotvírat do panelu">
+<!ENTITY divertNoFeatures.label "Přizpůsobená okna neotevírat do panelu">
 <!ENTITY divertNoFeatures.accesskey "s">
 <!ENTITY dontDivert.label "Vždy otevřít nové okno">
 <!ENTITY dontDivert.accesskey "t">
