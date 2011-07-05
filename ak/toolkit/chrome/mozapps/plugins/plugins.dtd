@@ -20,12 +20,12 @@
 <!ENTITY pluginWizard.finalPage.moreInfo.label               "Hu ndeɛma a wɔkeka ho fa Mplagin ho anaaso wo ara fa wo nsa hwehwɛ mplagin a wɔayera.">
 <!ENTITY pluginWizard.finalPage.restart.label                "&brandShortName; hia sɛ ɔbɛsan ahyɛ ase ansaana (m)plagin no ayɛ edwuma.">
 
-<!ENTITY missingPlugin                                       "A plugin is needed to display this content.">
-<!ENTITY disabledPlugin                                      "This plugin is disabled.">
+<!ENTITY missingPlugin                                       "Wo hia plagin bi a wo de bɛhwɛ kɔntɛnt yi.">
+<!ENTITY disabledPlugin                                      "Wɔedum plagin yi.">
 <!ENTITY blockedPlugin.label                                 "Wɔesi plagin yi ano kwan de abɔ wo ho ban.">
 
-<!ENTITY installPlugin                                       "Install plugin…">
-<!ENTITY managePlugins                                       "Manage plugins…">
+<!ENTITY installPlugin                                       "Instɔl plagin…">
+<!ENTITY managePlugins                                       "Hwɛ mplagin so…">
 <!-- LOCALIZATION NOTE (reloadPlugin.pre): include a trailing space as needed -->
 <!-- LOCALIZATION NOTE (reloadPlugin.middle): avoid leading/trailing spaces, this text is a link -->
 <!-- LOCALIZATION NOTE (reloadPlugin.post): include a starting space as needed -->

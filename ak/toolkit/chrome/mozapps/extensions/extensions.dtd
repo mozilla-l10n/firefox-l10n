@@ -24,8 +24,8 @@
 <!ENTITY warning.updatesecurity.enable.tooltip     "Sɔ fidie a ɛbɔ wo ho ban firi ntoso ma nkaho a wɔnndi mu">
 <!-- global informations -->
 
-<!ENTITY info.plugincheck.label                 "Check to see if your plugins are up to date">
-<!ENTITY info.plugincheck.tooltip               "Check to see if your plugins are up to date">
+<!ENTITY info.plugincheck.label                 "Hwɛ sɛ wo mplagin enya ntoso a wɔdi ekyiri nyinara a">
+<!ENTITY info.plugincheck.tooltip               "Hwɛ sɛ wo mplagin nyinara enya ntoso a wɔdi ekyiri nyinara a">
 <!-- categories / views -->
 
 <!ENTITY view.search.label                    "Hwehwɛ">

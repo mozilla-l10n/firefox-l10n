@@ -1,32 +1,32 @@
-<!ENTITY permissionsManager.title        "Permissions Manager">
+<!ENTITY permissionsManager.title        "Akwanya hwɛsofo">
 
-<!ENTITY sites.search                    "Search Sites">
-<!ENTITY sites.allSites                  "All Sites">
+<!ENTITY sites.search                    "Hwehwɛ nsaet">
+<!ENTITY sites.allSites                  "Nsaet nyinara">
 <!-- LOCALIZATION NOTE (permissions.header.start, permissions.header.end): These strings
      surround the host name of the site to make the header for the permissions page.
      example: "Permissions for mozilla.org" -->
 
-<!ENTITY header.site.start               "Permissions for">
+<!ENTITY header.site.start               "Akwanya ma:">
 <!ENTITY header.site.end                 "">
 
-<!ENTITY header.defaults                 "Default Permissions for All Sites">
+<!ENTITY header.defaults                 "Akwanya difɔlt ma nsae nyinara">
 
-<!ENTITY permissions.forgetSite          "Forget About This Site">
+<!ENTITY permissions.forgetSite          "Ma wo were mfiri saet Yi">
 
-<!ENTITY permission.alwaysAsk            "Always Ask">
+<!ENTITY permission.alwaysAsk            "Bisa bere biara">
 <!ENTITY permission.allow                "Ma Ho Kwan">
-<!ENTITY permission.allowForSession      "Allow for Session">
-<!ENTITY permission.block                "Block">
+<!ENTITY permission.allowForSession      "Ma ho kwan ma sɛhyɛn yi">
+<!ENTITY permission.block                "Siw-kwan">
 
-<!ENTITY password.label                  "Store Passwords">
-<!ENTITY password.manage                 "Manage Passwords…">
+<!ENTITY password.label                  "Sie ehintasɛnsɛmfua">
+<!ENTITY password.manage                 "Hwɛ ehintansɛmfua so…">
 
 <!ENTITY cookie.label                    "Hyɛ akuki">
-<!ENTITY cookie.clear                    "Clear Cookies">
-<!ENTITY cookie.manage                   "Manage Cookies…">
-<!ENTITY cookie.clearAll                 "Clear All Cookies">
+<!ENTITY cookie.clear                    "Pepa nkuki">
+<!ENTITY cookie.manage                   "Hwɛ nkuki so…">
+<!ENTITY cookie.clearAll                 "Pepa nkuki nyinara">
 
-<!ENTITY geo.label                       "Share Location">
+<!ENTITY geo.label                       "Kyɛ baabi a wo wɔ">
 <!-- LOCALIZATION NOTE (indexedDB.label): This is describing indexedDB storage
      using the same language used for the permIndexedDB string in browser/pageInfo.dtd -->
 
