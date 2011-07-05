@@ -61,8 +61,8 @@
 <!ENTITY  dontrememberActions.clearHistory.label "rensa ut tidigare historik">
 <!ENTITY  dontrememberActions.post.label         ".">
 
-<!ENTITY  privateBrowsingPermanent.label "Använd alltid läget privat surfning">
-<!ENTITY  privateBrowsingPermanent.accesskey "A">
+<!ENTITY  privateBrowsingPermanent2.label "Använd alltid läget privat surfning">
+<!ENTITY  privateBrowsingPermanent2.accesskey "A">
 
 <!ENTITY  rememberHistory.label      "Spara historiken över besökta sidor">
 <!ENTITY  rememberHistory.accesskey  "S">

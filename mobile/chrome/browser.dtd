@@ -106,6 +106,7 @@
 <!ENTITY pageactions.saveas.pdf      "Spara som PDF">
 <!ENTITY pageactions.share.page      "Dela sida">
 <!ENTITY pageactions.password.forget "Radera lösenord">
+<!ENTITY pageactions.quit            "Avsluta">
 <!ENTITY pageactions.reset           "Rensa platsinställningar">
 <!ENTITY pageactions.findInPage      "Sök i sidan">
 <!ENTITY pageactions.search.addNew   "Lägg till sökmotor">

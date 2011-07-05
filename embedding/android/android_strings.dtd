@@ -1,7 +1,8 @@
-<!ENTITY  splash_screen_label "laddar">
-<!ENTITY  splash_screen_installing "installerar bibliotek\u2026">
+
+<!ENTITY  splash_screen_loading "Laddar">
+<!ENTITY  splash_screen_installing_libs "Installerar bibliotek\u2026">
 <!ENTITY  splash_firstrun "Ställer in &brandShortName;\u2026">
-<!ENTITY  incompatable_cpu_error "Den här enheten uppfyller inte systemkraven för &brandShortName;.">
+
 <!ENTITY  no_space_to_start_error "Det finns inte tillräckligt med utrymme för &brandShortName; att starta.">
 <!ENTITY  error_loading_file "Ett fel uppstod vid öppning av filer som behövs för att köra &brandShortName;">
 
@@ -14,5 +15,4 @@
 <!ENTITY  crash_restart_label "Starta om &brandShortName;">
 <!ENTITY  sending_crash_report "Skickar kraschrapport\u2026">
 <!ENTITY  exit_label "Avsluta">
-<!ENTITY  incompatable_device "&brandShortName; stöder inte den här enheten och du kan stöta på problem.">
 <!ENTITY  continue_label "Fortsätt">
