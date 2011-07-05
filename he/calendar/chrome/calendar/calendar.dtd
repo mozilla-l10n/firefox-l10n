@@ -240,7 +240,7 @@
 <!ENTITY calendar.week.button.label             "שבוע" >
 <!ENTITY calendar.week.button.tooltip           "מעבר לתצוגה שבועית" >
 <!ENTITY calendar.weekView.key                 "2" >
-<!ENTITY calendarproperties.cache.label    "מטמון (נסיוני, דורש הפעלה מחדש)">
+<!ENTITY calendarproperties.cache.label    "מטמון (ניסיוני, דורש הפעלה מחדש)">
 <!ENTITY calendarproperties.caldav.label   "CalDAV">
 
 <!-- Calendar Properties -->

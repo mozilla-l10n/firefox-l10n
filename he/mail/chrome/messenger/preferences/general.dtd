@@ -1,5 +1,5 @@
 <!ENTITY messengerStartPage.label         "דף ההתחלה של &brandShortName;">
-<!ENTITY enableStartPage.label            "כאשר &brandShortName; מופעל, הצג את דף ההתחלה באיזור ההודעה">
+<!ENTITY enableStartPage.label            "כאשר &brandShortName; מופעל, הצג את דף ההתחלה באזור ההודעה">
 <!ENTITY enableStartPage.accesskey        "ג">
 <!ENTITY location.label                   "מיקום:">
 <!ENTITY location1.accesskey               "מ">
