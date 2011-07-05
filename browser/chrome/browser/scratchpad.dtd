@@ -10,67 +10,67 @@
   -  "Scratchpad" in your locale. You should feel free to find a close
   -  approximation to it or choose a word (or words) that means
   -  "simple discardable text editor". -->
-<!ENTITY window.title                 "Scratchpad">
+<!ENTITY window.title                 "Чернетка">
 
-<!ENTITY fileMenu.label               "File">
-<!ENTITY fileMenu.accesskey           "F">
+<!ENTITY fileMenu.label               "Файл">
+<!ENTITY fileMenu.accesskey           "Ф">
 
-<!ENTITY newWindowCmd.label           "New Window">
-<!ENTITY newWindowCmd.accesskey       "N">
+<!ENTITY newWindowCmd.label           "Нове вікно">
+<!ENTITY newWindowCmd.accesskey       "Н">
 <!ENTITY newWindowCmd.commandkey      "n">
 
-<!ENTITY openFileCmd.label            "Open File…">
-<!ENTITY openFileCmd.accesskey        "O">
+<!ENTITY openFileCmd.label            "Відкрити файл…">
+<!ENTITY openFileCmd.accesskey        "ф">
 <!ENTITY openFileCmd.commandkey       "o">
 
-<!ENTITY saveFileCmd.label            "Save">
-<!ENTITY saveFileCmd.accesskey        "S">
+<!ENTITY saveFileCmd.label            "Зберегти">
+<!ENTITY saveFileCmd.accesskey        "З">
 <!ENTITY saveFileCmd.commandkey       "s">
 
-<!ENTITY saveFileAsCmd.label          "Save As…">
-<!ENTITY saveFileAsCmd.accesskey      "A">
+<!ENTITY saveFileAsCmd.label          "Зберегти як…">
+<!ENTITY saveFileAsCmd.accesskey      "я">
 
-<!ENTITY closeCmd.label               "Close">
+<!ENTITY closeCmd.label               "Закрити">
 <!ENTITY closeCmd.key                 "W">
-<!ENTITY closeCmd.accesskey           "C">
+<!ENTITY closeCmd.accesskey           "к">
 
-<!ENTITY editMenu.label               "Edit">
-<!ENTITY editMenu.accesskey           "E">
+<!ENTITY editMenu.label               "Правка">
+<!ENTITY editMenu.accesskey           "П">
 
-<!ENTITY undoCmd.label                "Undo">
+<!ENTITY undoCmd.label                "Повернути">
 <!ENTITY undoCmd.key                  "Z">
-<!ENTITY undoCmd.accesskey            "U">
+<!ENTITY undoCmd.accesskey            "е">
 
-<!ENTITY redoCmd.label                "Redo">
+<!ENTITY redoCmd.label                "Повторити">
 <!ENTITY redoCmd.key                  "Y">
-<!ENTITY redoCmd.accesskey            "R">
+<!ENTITY redoCmd.accesskey            "т">
 
-<!ENTITY cutCmd.label                 "Cut">
+<!ENTITY cutCmd.label                 "Вирізати">
 <!ENTITY cutCmd.key                   "X">
-<!ENTITY cutCmd.accesskey             "t">
+<!ENTITY cutCmd.accesskey             "и">
 
-<!ENTITY copyCmd.label                "Copy">
+<!ENTITY copyCmd.label                "Копіювати">
 <!ENTITY copyCmd.key                  "C">
-<!ENTITY copyCmd.accesskey            "C">
+<!ENTITY copyCmd.accesskey            "К">
 
-<!ENTITY pasteCmd.label               "Paste">
+<!ENTITY pasteCmd.label               "Вставити">
 <!ENTITY pasteCmd.key                 "V">
-<!ENTITY pasteCmd.accesskey           "P">
+<!ENTITY pasteCmd.accesskey           "">
 
-<!ENTITY selectAllCmd.label           "Select All">
+<!ENTITY selectAllCmd.label           "Виділити все">
 <!ENTITY selectAllCmd.key             "A">
-<!ENTITY selectAllCmd.accesskey       "A">
+<!ENTITY selectAllCmd.accesskey       "с">
 
-<!ENTITY run.label                    "Run">
-<!ENTITY run.accesskey                "R">
+<!ENTITY run.label                    "Запустити">
+<!ENTITY run.accesskey                "п">
 <!ENTITY run.key                      "r">
 
-<!ENTITY inspect.label                "Inspect">
-<!ENTITY inspect.accesskey            "I">
+<!ENTITY inspect.label                "Дослідити">
+<!ENTITY inspect.accesskey            "Д">
 <!ENTITY inspect.key                  "i">
 
-<!ENTITY display.label                "Display">
-<!ENTITY display.accesskey            "D">
+<!ENTITY display.label                "Відобразити">
+<!ENTITY display.accesskey            "о">
 <!ENTITY display.key                  "l">
 
 <!-- LOCALIZATION NOTE (environmentMenu.label, accesskey): This menu item was
@@ -79,12 +79,12 @@
   -  the user is evaluating against. I.e., Content (current tab) or Chrome
   -  (browser).
   -->
-<!ENTITY environmentMenu.label        "Environment">
-<!ENTITY environmentMenu.accesskey    "N">
+<!ENTITY environmentMenu.label        "Оточення">
+<!ENTITY environmentMenu.accesskey    "О">
 
 
-<!ENTITY contentContext.label         "Content">
-<!ENTITY contentContext.accesskey     "C">
+<!ENTITY contentContext.label         "Контекст">
+<!ENTITY contentContext.accesskey     "К">
 
 <!-- LOCALIZATION NOTE (browserContext.label, accesskey): This menu item is used
   -  to select an execution environment for the browser window itself as opposed
@@ -92,32 +92,31 @@
   -  enabled via the devtools.chrome.enabled preference. Formerly, this label
   -  was called "Chrome".
   -->
-<!ENTITY browserContext.label         "Browser">
-<!ENTITY browserContext.accesskey     "B">
+<!ENTITY browserContext.label         "Браузер">
+<!ENTITY browserContext.accesskey     "Б">
 
 <!-- LOCALIZATION NOTE (resetContext.label): This command allows the developer
   -  to reset/clear the global object of the environment where the code executes.
   -->
-<!ENTITY resetContext.label           "Reset">
-<!ENTITY resetContext.accesskey       "R">
+<!ENTITY resetContext.label           "Скинути">
+<!ENTITY resetContext.accesskey       "С">
 
-<!ENTITY executeMenu.label            "Execute">
-<!ENTITY executeMenu.accesskey        "X">
+<!ENTITY executeMenu.label            "Виконати">
+<!ENTITY executeMenu.accesskey        "В">
 
-<!ENTITY toolsMenu.label              "Tools">
-<!ENTITY toolsMenu.accesskey          "T">
+<!ENTITY toolsMenu.label              "Інструменти">
+<!ENTITY toolsMenu.accesskey          "І">
 
-<!ENTITY errorConsoleCmd.label        "Error Console">
-<!ENTITY errorConsoleCmd.accesskey    "C">
+<!ENTITY errorConsoleCmd.label        "Консоль помилок">
+<!ENTITY errorConsoleCmd.accesskey    "п">
 <!ENTITY errorConsoleCmd.commandkey   "j">
 
-<!ENTITY webConsoleCmd.label          "Web Console">
-<!ENTITY webConsoleCmd.accesskey      "W">
+<!ENTITY webConsoleCmd.label          "Веб-консоль">
+<!ENTITY webConsoleCmd.accesskey      "В">
 <!ENTITY webConsoleCmd.commandkey     "k">
 
 <!-- LOCALIZATION NOTE (textbox.placeholder1): This is some placeholder text
   -  that appears when the Scratchpad's text area is empty and unfocused.
   -  It should be a one-line JavaScript comment, i.e., preceded by '//'
   -->
-<!ENTITY textbox.placeholder1         "// Enter some JavaScript, select it, right click and select Run, Inspect or Display.">
-
+<!ENTITY textbox.placeholder1         "// Введіть трохи JavaScript’у, виділіть, клацніть правою клавішею виберіть Запустити, Дослідити чи Показати.">
