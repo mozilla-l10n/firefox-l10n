@@ -6,7 +6,7 @@
 <!ENTITY askMe.accesskey "ש">
 <!ENTITY convertPlain.label "הסב את ההודעה לטקסט פשוט (חלק מהעיצוב עלול להיעלם)">
 <!ENTITY convertPlain.accesskey "ה">
-<!ENTITY sendHTML.label "שלח את ההודעה כטקסט מעוצב (HTML) בכל מקרה (יתכן ותוכנות דואר מסוימות לא יהיו מסוגלות להציג אותה)">
+<!ENTITY sendHTML.label "שלח את ההודעה כטקסט מעוצב (HTML) בכל מקרה (ייתכן שתוכנות דואר מסוימות לא יהיו מסוגלות להציג אותה)">
 <!ENTITY sendHTML.accesskey "ל">
 <!ENTITY sendBoth.label "שלח את ההודעה גם בטקסט פשוט וגם בתבנית HTML (הודעה גדולה יותר)">
 <!ENTITY sendBoth.accesskey "א">

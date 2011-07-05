@@ -88,7 +88,7 @@
 <!ENTITY misc.title "אישי">
 <!ENTITY miscSS.label "מספר זהות:">
 <!ENTITY miscSS.accesskey "פ">
-<!ENTITY miscLicense.label "מספר רשיון נהיגה:">
+<!ENTITY miscLicense.label "מספר רישיון נהיגה:">
 <!ENTITY miscLicense.accesskey "ר">
 <!ENTITY miscLicenseState.label "מדינה:">
 <!ENTITY miscLicenseState.accesskey "מ">
