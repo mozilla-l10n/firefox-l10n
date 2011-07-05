@@ -115,39 +115,39 @@
 <!ENTITY concatName.label "שם:">
 <!ENTITY concatName.accesskey "ם">
 <!ENTITY concatZipcode.label "מיקוד:">
-<!ENTITY concatPhone.label "טלפון יום עם איזור חיוג:">
+<!ENTITY concatPhone.label "טלפון יום עם אזור חיוג:">
 <!ENTITY concatPhonenumber.label "טלפון יום:">
-<!ENTITY concatAltPhone.label "טלפון ערב עם איזור חיוג:">
+<!ENTITY concatAltPhone.label "טלפון ערב עם אזור חיוג:">
 <!ENTITY concatAltPhonenumber.label "טלפון ערב:">
-<!ENTITY concatFax.label "פקס עם איזור חיוג:">
+<!ENTITY concatFax.label "פקס עם אזור חיוג:">
 <!ENTITY concatFaxnumber.label "פקס:">
-<!ENTITY concatMobile.label "טלפון נייד עם איזור חיוג:">
+<!ENTITY concatMobile.label "טלפון נייד עם אזור חיוג:">
 <!ENTITY concatMobilenumber.label "טלפון נייד:">
-<!ENTITY concatPager.label "איתורית עם איזור חיוג:">
+<!ENTITY concatPager.label "איתורית עם אזור חיוג:">
 <!ENTITY concatPagernumber.label "איתורית:">
 <!ENTITY concatShiptoName.label "שם:">
 <!ENTITY concatShiptoZipcode.label "מיקוד:">
-<!ENTITY concatShiptoPhone.label "טלפון עם איזור חיוג:">
+<!ENTITY concatShiptoPhone.label "טלפון עם אזור חיוג:">
 <!ENTITY concatShiptoPhonenumber.label "טלפון:">
-<!ENTITY concatShiptoAltPhone.label "טלפון ערב עם איזור חיוג:">
+<!ENTITY concatShiptoAltPhone.label "טלפון ערב עם אזור חיוג:">
 <!ENTITY concatShiptoAltPhonenumber.label "טלפון ערב:">
-<!ENTITY concatShiptoFax.label "פקס עם איזור חיוג:">
+<!ENTITY concatShiptoFax.label "פקס עם אזור חיוג:">
 <!ENTITY concatShiptoFaxnumber.label "טלפון פקס:">
-<!ENTITY concatShiptoMobile.label "טלפון נייד עם איזור חיוג:">
+<!ENTITY concatShiptoMobile.label "טלפון נייד עם אזור חיוג:">
 <!ENTITY concatShiptoMobilenumber.label "טלפון נייד:">
-<!ENTITY concatShiptoPager.label "איתורית עם איזור חיוג:">
+<!ENTITY concatShiptoPager.label "איתורית עם אזור חיוג:">
 <!ENTITY concatShiptoPagernumber.label "איתורית:">
 <!ENTITY concatBilltoName.label "שם:">
 <!ENTITY concatBilltoZipcode.label "מיקוד:">
-<!ENTITY concatBilltoPhone.label "טלפון עם איזור חיוג:">
+<!ENTITY concatBilltoPhone.label "טלפון עם אזור חיוג:">
 <!ENTITY concatBilltoPhonenumber.label "טלפון:">
-<!ENTITY concatBilltoAltPhone.label "טלפון ערב עם איזור חיוג:">
+<!ENTITY concatBilltoAltPhone.label "טלפון ערב עם אזור חיוג:">
 <!ENTITY concatBilltoAltPhonenumber.label "טלפון ערב:">
-<!ENTITY concatBilltoFax.label "פקס עם איזור חיוג:">
+<!ENTITY concatBilltoFax.label "פקס עם אזור חיוג:">
 <!ENTITY concatBilltoFaxnumber.label "טלפון פקס:">
-<!ENTITY concatBilltoMobile.label "טלפון נייד עם איזור חיוג:">
+<!ENTITY concatBilltoMobile.label "טלפון נייד עם אזור חיוג:">
 <!ENTITY concatBilltoMobilenumber.label "טלפון נייד:">
-<!ENTITY concatBilltoPager.label "איתורית עם איזור חיוג:">
+<!ENTITY concatBilltoPager.label "איתורית עם אזור חיוג:">
 <!ENTITY concatBilltoPagernumber.label "איתורית:">
 <!ENTITY concatCardExpdate.label "תוקף כרטיס אשראי:">
 <!ENTITY concatSocSec.label "מספר זהות:">

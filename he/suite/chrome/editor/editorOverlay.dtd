@@ -166,7 +166,7 @@
 <!ENTITY insertinputtag.accesskey "ש">
 <!ENTITY insertInputImageCmd.label "תמונת טופס...">
 <!ENTITY insertinputimage.accesskey "ת">
-<!ENTITY insertTextAreaCmd.label "איזור טקסט...">
+<!ENTITY insertTextAreaCmd.label "אזור טקסט...">
 <!ENTITY inserttextarea.accesskey "א">
 <!ENTITY insertSelectCmd.label "רשימת בחירה...">
 <!ENTITY insertselect.accesskey "ר">
@@ -422,7 +422,7 @@
 <!ENTITY toolplaineditor.accesskey "p">
 <!ENTITY toolsetfocus.accesskey "f">
 <!ENTITY debugMenu.label "איתור באגים">
-<!ENTITY newEditorTestPage.label "Composer עם  דף נסיון">
+<!ENTITY newEditorTestPage.label "Composer עם דף ניסיון">
 <!ENTITY textEditorCmd.label "עורך טקסט רגיל">
 <!ENTITY outputTextCmd.label "פלט טקסט">
 <!ENTITY outputHTMLCmd.label "פלט HTML">
