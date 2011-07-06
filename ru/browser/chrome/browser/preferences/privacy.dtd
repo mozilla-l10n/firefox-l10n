@@ -39,8 +39,8 @@
 <!ENTITY dontrememberActions.pre.label "Возможно, вы также захотите  ">
 <!ENTITY dontrememberActions.clearHistory.label "очистить всю текущую историю">
 <!ENTITY dontrememberActions.post.label ".">
-<!ENTITY privateBrowsingPermanent.label "Постоянный режим приватного просмотра">
-<!ENTITY privateBrowsingPermanent.accesskey "о">
+<!ENTITY privateBrowsingPermanent2.label "Всегда работать в режиме приватного просмотра">
+<!ENTITY privateBrowsingPermanent2.accesskey "о">
 <!ENTITY rememberHistory.label "Помнить историю посещений">
 <!ENTITY rememberHistory.accesskey "м">
 <!ENTITY rememberDownload.label "Помнить историю загрузок">

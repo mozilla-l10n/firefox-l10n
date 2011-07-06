@@ -8,3 +8,4 @@
 <!ENTITY aboutHome.openAllTabs "Открыть всё во вкладках">
 <!ENTITY aboutHome.noTabs "Нет вкладок с прошлого раза">
 <!ENTITY aboutHome.noAddons "Нет рекомендуемых дополнений">
+<!ENTITY aboutHome.getLocale "Сменить язык">
