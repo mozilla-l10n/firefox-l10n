@@ -432,7 +432,7 @@
 <!ENTITY alignLeftButton.tooltip "將文字對齊左邊界">
 <!ENTITY alignCenterButton.tooltip "將文字對齊中央">
 <!ENTITY alignRightButton.tooltip "將文字對齊右邊界">
-<!ENTITY alignJustifyButton.tooltip "將文字對齊左右邊界">
+<!ENTITY alignJustifyButton.tooltip "Align text along left and right margins">
 
 <!-- Structure Toolbar Context Menu items -->
 <!ENTITY structSelect.label         "選取">
