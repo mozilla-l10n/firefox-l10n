@@ -47,11 +47,6 @@
 <!ENTITY netInterrupt.longDesc "&sharedLongDesc;">
 
 <!ENTITY netOffline.title "අසම්බන්ධිත ආකාරය">
-<!ENTITY netOffline.longDesc "
-<ul>
-  <li>&brandShortName; සම්බන්ධිතව ක්‍රියාකිරීමට සකසා නැවත උත්සාහ කරන්න.</li>
-</ul>
-">
 
 <!ENTITY contentEncodingError.title "අන්තර්ගත සංකේතාංකන දෝෂය">
 <!ENTITY contentEncodingError.longDesc "
@@ -67,7 +62,7 @@
 </ul>
 ">
 
-<!ENTITY netReset.title "Tසම්බන්ධය යළි සකසන ලදි (reset)">
+<!ENTITY netReset.title "සම්බන්ධය යළි සකසන ලදි (reset)">
 <!ENTITY netReset.longDesc "&sharedLongDesc;">
 
 <!ENTITY netTimeout.title "සම්බන්ධක කාළය ඉකුත් විය">
@@ -80,7 +75,7 @@
 </ul>
 ">
 
-<!ENTITY proxyConnectFailure.title "Tප්‍රොක්සි සේවාදායකය සම්බන්ධතාවය ඉවත දමයි">
+<!ENTITY proxyConnectFailure.title "ප්‍රොක්සි සේවාදායකය සම්බන්ධතාවය ඉවත දමයි">
 <!ENTITY proxyConnectFailure.longDesc "
 <ul>
   <li>ප්‍රොක්සි සේවාදායකයේ සැකසුම් නිවැරදි දැයි පරික්‍ෂා කරන්න.</li>
