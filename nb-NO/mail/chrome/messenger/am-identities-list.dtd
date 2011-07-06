@@ -1,4 +1,4 @@
-<!ENTITY identitiesListDesc.label "Det er mulig å ha flere identiteter i en konto. Her kan du behandle identitetene for den valgte kontoen.">
+<!ENTITY identitiesListDesc.label "Støtte for flere identiteter">
 <!ENTITY identitiesListAdd.label  "Legg til …">
 <!ENTITY identitiesListAdd.accesskey  "L">
 <!ENTITY identitiesListEdit.label "Rediger …">
