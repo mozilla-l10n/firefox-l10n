@@ -21,6 +21,6 @@
 <!ENTITY showSearchEngine.accesskey "V">
 <!ENTITY unknownLocations.label "Indirizzi sconosciuti">
 <!ENTITY domainGuessing.label "Aggiungi &quot;www.&quot; e &quot;.com&quot; all'indirizzo se la pagina web non viene trovata">
-<!ENTITY domainGuessing.accesskey "u">
+<!ENTITY domainGuessing.accesskey "A">
 <!ENTITY keywords.label "Esegui una ricerca sul web quando il testo inserito non è un indirizzo web">
 <!ENTITY keywords.accesskey "E">

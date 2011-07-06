@@ -1,6 +1,6 @@
 <!--null-->
 <!ENTITY caption.label "Allega pagina web">
 <!ENTITY enter.label "Inserire l'indirizzo web (URL), o specificare il file locale da allegare:">
-<!ENTITY enter.accesskey "U">
+<!ENTITY enter.accesskey "I">
 <!ENTITY chooseFile.label "Scegli file…">
-<!ENTITY chooseFile.accesskey "f">
+<!ENTITY chooseFile.accesskey "S">

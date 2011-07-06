@@ -48,4 +48,4 @@
 <!ENTITY tabCSS.label "Stile in linea">
 <!ENTITY tabJSE.label "Eventi JavaScript">
 <!ENTITY editAttribute.label "Selezionare uno degli elementi per modificarne il valore.">
-<!ENTITY removeAttribute.label "Rimuovi">
+<!ENTITY removeAttribute.label "Elimina">

@@ -9,29 +9,29 @@
 <!ENTITY autosyncNotDownload.accesskey "m">
 <!ENTITY kb.label "kB">
 <!ENTITY daysOld.label "giorni">
-<!ENTITY message.label "messaggi più recenti">
+<!ENTITY message.label "messaggi">
 <!ENTITY nntpNotDownloadRead.label "Messaggi letti">
-<!ENTITY nntpNotDownloadRead.accesskey "l">
+<!ENTITY nntpNotDownloadRead.accesskey "M">
 <!ENTITY nntpDownloadMsg.label "Messaggi anteriori a">
-<!ENTITY nntpDownloadMsg.accesskey "t">
+<!ENTITY nntpDownloadMsg.accesskey "M">
 <!ENTITY retentionCleanup.label "Per recuperare spazio su disco, i vecchi messaggi possono essere cancellati definitivamente.">
 <!ENTITY retentionCleanupImap.label "Per recuperare spazio su disco, i vecchi messaggi possono essere cancellati definitivamente, sia in locale sia sul server.">
 <!ENTITY retentionCleanupPop.label "Per recuperare spazio su disco, i vecchi messaggi possono essere cancellati definitivamente, inclusi gli originali sul server.">
-<!ENTITY retentionKeepMsg.label "Cancella i messaggi più vecchi di">
-<!ENTITY retentionKeepMsg.accesskey "v">
+<!ENTITY retentionKeepMsg.label "Elimina i messaggi più vecchi di">
+<!ENTITY retentionKeepMsg.accesskey "E">
 <!ENTITY retentionKeepAll.label "Non cancellare alcun messaggio">
 <!ENTITY retentionKeepAll.accesskey "N">
 <!ENTITY retentionKeepRecent.label "Cancella tutti eccetto i">
-<!ENTITY retentionKeepRecent.accesskey "u">
+<!ENTITY retentionKeepRecent.accesskey "C">
 <!ENTITY retentionKeepUnreadHidden.label "Elimina sempre i messaggi già letti (senza considerare le impostazioni di età)">
 <!ENTITY retentionApplyToFlagged.label "Conserva sempre i messaggi segnati">
-<!ENTITY retentionApplyToFlagged.accesskey "o">
+<!ENTITY retentionApplyToFlagged.accesskey "C">
 <!ENTITY nntpRemoveMsgBody.label "Cancella il corpo del messaggio per messaggi più vecchi di">
-<!ENTITY nntpRemoveMsgBody.accesskey "r">
+<!ENTITY nntpRemoveMsgBody.accesskey "C">
 <!ENTITY offlineSelectNntp.label "Seleziona gruppi di discussione per l'uso non in linea…">
 <!ENTITY offlineSelectNntp.accesskey "S">
 <!ENTITY offlineImapAdvancedOffline.label "Avanzate…">
-<!ENTITY offlineImapAdvancedOffline.accesskey "z">
+<!ENTITY offlineImapAdvancedOffline.accesskey "A">
 <!ENTITY syncGroupTitle.label "Sincronizzazione messaggi">
 <!ENTITY diskspaceGroupTitle.label "Spazio su disco">
 <!ENTITY allAutosync.label "Sincronizza in locale i messaggi di qualunque età">

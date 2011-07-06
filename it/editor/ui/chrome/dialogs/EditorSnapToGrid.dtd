@@ -38,6 +38,6 @@
 <!ENTITY windowTitle.label "Aderenza alla griglia">
 <!ENTITY enableSnapToGrid.label "attiva aderenza alla griglia">
 <!ENTITY enableSnapToGrid.accessKey "a">
-<!ENTITY sizeEditField.label "Dimensione griglia:">
+<!ENTITY sizeEditField.label "Dimensione:">
 <!ENTITY sizeEditField.accessKey "D">
 <!ENTITY pixelsLabel.value "pixel">

@@ -36,7 +36,7 @@
    -
    - ***** END LICENSE BLOCK ***** -->
 <!ENTITY windowTitle.label "Salva e cambia codifica caratteri">
-<!ENTITY documentTitleTitle.label "Titolo pagina">
+<!ENTITY documentTitleTitle.label "Titolo documento">
 <!ENTITY documentCharsetTitle.label "Codifica caratteri">
 <!ENTITY documentCharsetDesc.label "Selezionare la codifica caratteri in cui si vuole salvare un documento:">
 <!ENTITY documentExportToText.label "Esporta come testo">

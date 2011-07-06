@@ -1,7 +1,7 @@
 <!ENTITY no-properties.label "Nessuna proprietà impostata.">
 <!ENTITY caption.label "Proprietà dell'elemento">
 <!ENTITY image-sec.label "Proprietà immagine">
-<!ENTITY image-url.label "Indirizzo:">
+<!ENTITY image-url.label "Posizione:">
 <!ENTITY image-desc.label "Descrizione:">
 <!ENTITY image-alt.label "Testo alternativo:">
 <!ENTITY image-width.label "Larghezza:">
@@ -19,7 +19,7 @@
 <!ENTITY link-rev.label "Relazione inversa:">
 <!ENTITY misc-sec.label "Proprietà varie">
 <!ENTITY misc-lang.label "Lingua del testo:">
-<!ENTITY misc-title.label "Titolo:">
+<!ENTITY misc-title.label "Qualifica:">
 <!ENTITY misc-tblsummary.label "Sommario tabella:">
 <!ENTITY quote-sec.label "Proprietà citazione">
 <!ENTITY quote-cite.label "Informazioni:">

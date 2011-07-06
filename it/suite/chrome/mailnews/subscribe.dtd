@@ -1,17 +1,17 @@
 <!--null-->
-<!ENTITY subscribeDialog.title "Sottoscrizioni">
-<!ENTITY subscribeButton.label "Sottoscrivi">
+<!ENTITY subscribeDialog.title "Abbonati">
+<!ENTITY subscribeButton.label "Abbonati">
 <!ENTITY subscribeButton.accesskey "S">
-<!ENTITY unsubscribeButton.label "Rimuovi sottoscrizione">
-<!ENTITY unsubscribeButton.accesskey "R">
+<!ENTITY unsubscribeButton.label "Annulla sottoscrizione">
+<!ENTITY unsubscribeButton.accesskey "A">
 <!ENTITY newGroupsTab.label "Nuovi gruppi">
 <!ENTITY newGroupsTab.accesskey "N">
 <!ENTITY refreshButton.label "Aggiorna">
 <!ENTITY refreshButton.accesskey "A">
 <!ENTITY stopButton.label "Interrompi">
-<!ENTITY stopButton.accesskey "t">
+<!ENTITY stopButton.accesskey "I">
 <!ENTITY server.label "Account:">
 <!ENTITY server.accesskey "c">
-<!ENTITY subscribedHeader.label "Sottoscritto">
+<!ENTITY subscribedHeader.label "Abbonati">
 <!ENTITY namefield.label "Mostra gli elementi che contengono:">
 <!ENTITY namefield.accesskey "M">

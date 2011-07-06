@@ -38,5 +38,5 @@
    - ***** END LICENSE BLOCK ***** -->
 <!ENTITY windowTitle.label "Verifica indirizzi collegamenti e immagine">
 <!ENTITY succeeded.label "Verificato">
-<!ENTITY failed.label "Non trovato">
+<!ENTITY failed.label "Non riuscito">
 <!ENTITY closeButton.label "Chiudi">

@@ -45,6 +45,6 @@
 <!ENTITY FormEncType.label "Codifica:">
 <!ENTITY FormEncType.accesskey "C">
 <!ENTITY FormTarget.label "Riquadro destinazione:">
-<!ENTITY FormTarget.accesskey "d">
+<!ENTITY FormTarget.accesskey "R">
 <!ENTITY RemoveForm.label "Rimuovi modulo">
 <!ENTITY RemoveForm.accesskey "R">

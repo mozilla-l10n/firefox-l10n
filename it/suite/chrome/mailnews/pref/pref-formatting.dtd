@@ -4,18 +4,18 @@
 <!ENTITY askMe.label "Chiedi cosa fare (Posta chiederà di scegliere un formato)">
 <!ENTITY askMe.accesskey "C">
 <!ENTITY convertPlain.label "Converti il messaggio in testo semplice (può andare persa parte della formattazione)">
-<!ENTITY convertPlain.accesskey "o">
+<!ENTITY convertPlain.accesskey "C">
 <!ENTITY sendHTML.label "Spedisci il messaggio come testo formattato (HTML) in ogni caso (alcuni programmi di posta potrebbero non essere in grado di visualizzarlo)">
-<!ENTITY sendHTML.accesskey "f">
+<!ENTITY sendHTML.accesskey "S">
 <!ENTITY sendBoth.label "Spedisci il messaggio sia in testo semplice che in HTML (maggiori dimensioni)">
 <!ENTITY sendBoth.accesskey "S">
 <!ENTITY override.label "È possibile modificare queste impostazioni individualmente per ciascun messaggio utilizzando il menu Opzioni della finestra di composizione del messaggio.">
 <!ENTITY domain.title "Domini HTML e testo semplice">
 <!ENTITY domaindesc.label "Quando si invia un messaggio ad uno dei domini nell'elenco sottostante, Posta invierà automaticamente il messaggio nel formato preferito (testo formattato o semplice).">
 <!ENTITY HTMLdomaintitle.label "Domini HTML">
-<!ENTITY HTMLdomaintitle.accesskey "H">
+<!ENTITY HTMLdomaintitle.accesskey "D">
 <!ENTITY PlainTexttitle.label "Domini testo semplice">
-<!ENTITY PlainTexttitle.accesskey "t">
+<!ENTITY PlainTexttitle.accesskey "D">
 <!ENTITY AddButton.label "Aggiungi…">
 <!ENTITY AddHtmlDomain.accesskey "a">
 <!ENTITY AddPlainText.accesskey "u">

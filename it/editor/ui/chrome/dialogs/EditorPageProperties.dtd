@@ -38,8 +38,8 @@
 <!ENTITY windowTitle.label "Proprietà pagina">
 <!ENTITY location.label "Posizione:">
 <!ENTITY lastModified.label "Modificato il:">
-<!ENTITY titleInput.label "Titolo:">
-<!ENTITY titleInput.accessKey "T">
+<!ENTITY titleInput.label "Qualifica:">
+<!ENTITY titleInput.accessKey "Q">
 <!ENTITY authorInput.label "Autore:">
 <!ENTITY authorInput.accessKey "A">
 <!ENTITY descriptionInput.label "Descrizione:">

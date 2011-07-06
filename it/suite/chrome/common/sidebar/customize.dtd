@@ -43,14 +43,14 @@
 <!ENTITY sidebar.customize.remove.label "Elimina">
 <!ENTITY sidebar.customize.remove.accesskey "E">
 <!ENTITY sidebar.customize.additional.label "Schede disponibili:">
-<!ENTITY sidebar.customize.additional.accesskey "d">
+<!ENTITY sidebar.customize.additional.accesskey "S">
 <!ENTITY sidebar.customize.add.label "Aggiungi">
 <!ENTITY sidebar.customize.add.accesskey "A">
 <!ENTITY sidebar.customize.preview.label "Anteprima…">
-<!ENTITY sidebar.customize.preview.accesskey "n">
-<!ENTITY sidebar.customize.up.label "Muovi in alto">
-<!ENTITY sidebar.customize.up.accesskey "a">
-<!ENTITY sidebar.customize.down.label "Muovi in basso">
-<!ENTITY sidebar.customize.down.accesskey "b">
+<!ENTITY sidebar.customize.preview.accesskey "A">
+<!ENTITY sidebar.customize.up.label "Muovi su">
+<!ENTITY sidebar.customize.up.accesskey "M">
+<!ENTITY sidebar.customize.down.label "Muovi giù">
+<!ENTITY sidebar.customize.down.accesskey "M">
 <!ENTITY sidebar.more.label "Trova altre schede…">
 <!ENTITY sidebar.more.accesskey "T">

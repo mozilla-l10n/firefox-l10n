@@ -38,43 +38,43 @@
 <!ENTITY GeneratedName.accesskey "N">
 <!ENTITY PrimaryEmail.label "E-mail">
 <!ENTITY PrimaryEmail.accesskey "E">
-<!ENTITY Company.label "Azienda">
+<!ENTITY Company.label "Organizzazione">
 <!ENTITY Company.accesskey "z">
 <!ENTITY _PhoneticName.label "Nome fonetico">
-<!ENTITY _PhoneticName.accesskey "f">
+<!ENTITY _PhoneticName.accesskey "N">
 <!ENTITY NickName.label "Soprannome">
 <!ENTITY NickName.accesskey "S">
-<!ENTITY SecondEmail.label "E-mail secondaria">
-<!ENTITY SecondEmail.accesskey "m">
-<!ENTITY Department.label "Dipartimento">
-<!ENTITY Department.accesskey "p">
+<!ENTITY SecondEmail.label "E-mail aggiuntiva">
+<!ENTITY SecondEmail.accesskey "E">
+<!ENTITY Department.label "Reparto">
+<!ENTITY Department.accesskey "R">
 <!ENTITY JobTitle.label "Qualifica">
 <!ENTITY JobTitle.accesskey "Q">
 <!ENTITY CellularNumber.label "Cellulare">
-<!ENTITY CellularNumber.accesskey "u">
+<!ENTITY CellularNumber.accesskey "C">
 <!ENTITY PagerNumber.label "Cercapersone">
-<!ENTITY PagerNumber.accesskey "r">
+<!ENTITY PagerNumber.accesskey "C">
 <!ENTITY FaxNumber.label "Fax">
 <!ENTITY FaxNumber.accesskey "x">
 <!ENTITY HomePhone.label "Telefono casa">
 <!ENTITY HomePhone.accesskey "T">
-<!ENTITY WorkPhone.label "Telefono lavoro">
-<!ENTITY WorkPhone.accesskey "v">
-<!ENTITY ScreenName.label "Nome IM">
-<!ENTITY ScreenName.accesskey "I">
+<!ENTITY WorkPhone.label "Telefono ufficio">
+<!ENTITY WorkPhone.accesskey "T">
+<!ENTITY ScreenName.label "Nome Instant Messenger">
+<!ENTITY ScreenName.accesskey "N">
 <!ENTITY sortAscending.label "Ascendente">
 <!ENTITY sortAscending.accesskey "A">
 <!ENTITY sortDescending.label "Discendente">
 <!ENTITY sortDescending.accesskey "D">
 <!ENTITY composeEmail.label "Scrivi messaggio a">
-<!ENTITY composeEmail.accesskey "v">
+<!ENTITY composeEmail.accesskey "S">
 <!ENTITY copyAddress.label "Copia indirizzo e-mail">
-<!ENTITY copyAddress.accesskey "m">
+<!ENTITY copyAddress.accesskey "C">
 <!ENTITY deleteAddrBookCard.label "Elimina">
 <!ENTITY deleteAddrBookCard.accesskey "E">
 <!ENTITY newAddrBookCard.label "Nuova scheda…">
-<!ENTITY newAddrBookCard.accesskey "u">
+<!ENTITY newAddrBookCard.accesskey "N">
 <!ENTITY newAddrBookMailingList.label "Nuova lista di distribuzione…">
-<!ENTITY newAddrBookMailingList.accesskey "z">
+<!ENTITY newAddrBookMailingList.accesskey "N">
 <!ENTITY addrBookCardProperties.label "Proprietà">
 <!ENTITY addrBookCardProperties.accesskey "P">

@@ -36,12 +36,12 @@
    -
    - ***** END LICENSE BLOCK ***** -->
 <!ENTITY insertSmiley.label "Smile">
-<!ENTITY insertSmiley.accesskey "m">
+<!ENTITY insertSmiley.accesskey "S">
 <!ENTITY smiley1Cmd.label "Sorriso">
-<!ENTITY smiley1Cmd.accesskey "o">
-<!ENTITY smiley1Cmd.tooltip "Inserisci una faccina sorridente">
+<!ENTITY smiley1Cmd.accesskey "S">
+<!ENTITY smiley1Cmd.tooltip "Inserisce uno smile">
 <!ENTITY smiley2Cmd.label "Broncio">
-<!ENTITY smiley2Cmd.accesskey "n">
+<!ENTITY smiley2Cmd.accesskey "B">
 <!ENTITY smiley2Cmd.tooltip "Inserisci una faccina dispiaciuta">
 <!ENTITY smiley3Cmd.label "Ammicco">
 <!ENTITY smiley3Cmd.accesskey "A">
@@ -53,16 +53,16 @@
 <!ENTITY smiley5Cmd.accesskey "R">
 <!ENTITY smiley5Cmd.tooltip "Inserisci una faccina che ride">
 <!ENTITY smiley6Cmd.label "Imbarazzo">
-<!ENTITY smiley6Cmd.accesskey "m">
+<!ENTITY smiley6Cmd.accesskey "I">
 <!ENTITY smiley6Cmd.tooltip "Inserisci una faccina imbarazzata">
 <!ENTITY smiley7Cmd.label "Dubbio">
 <!ENTITY smiley7Cmd.accesskey "D">
 <!ENTITY smiley7Cmd.tooltip "Inserisci una faccina indecisa">
 <!ENTITY smiley8Cmd.label "Sorpresa">
-<!ENTITY smiley8Cmd.accesskey "e">
+<!ENTITY smiley8Cmd.accesskey "S">
 <!ENTITY smiley8Cmd.tooltip "Inserisci una faccina sorpresa">
 <!ENTITY smiley9Cmd.label "Bacio">
-<!ENTITY smiley9Cmd.accesskey "c">
+<!ENTITY smiley9Cmd.accesskey "B">
 <!ENTITY smiley9Cmd.tooltip "Inserisci una faccina che bacia">
 <!ENTITY smiley10Cmd.label "Urlo">
 <!ENTITY smiley10Cmd.accesskey "U">
@@ -83,6 +83,6 @@
 <!ENTITY smiley15Cmd.accesskey "P">
 <!ENTITY smiley15Cmd.tooltip "Inserisci una faccina che piange">
 <!ENTITY smiley16Cmd.label "Bocca sigillata">
-<!ENTITY smiley16Cmd.accesskey "t">
+<!ENTITY smiley16Cmd.accesskey "B">
 <!ENTITY smiley16Cmd.tooltip "Inserisci una faccina con la bocca chiusa">
 <!ENTITY SmileButton.tooltip "Inserisce uno smile">

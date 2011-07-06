@@ -36,12 +36,12 @@
    -
    - ***** END LICENSE BLOCK ***** -->
 <!ENTITY windowTitle.label "Inserimento tabella">
-<!ENTITY size.label "Dimensioni">
-<!ENTITY numRowsEditField.label "Numero di righe:">
-<!ENTITY numRowsEditField.accessKey "N">
-<!ENTITY numColumnsEditField.label "Numero di colonne:">
-<!ENTITY numColumnsEditField.accessKey "c">
-<!ENTITY widthEditField.label "Larghezza tabella:">
+<!ENTITY size.label "Dimensione">
+<!ENTITY numRowsEditField.label "Righe:">
+<!ENTITY numRowsEditField.accessKey "R">
+<!ENTITY numColumnsEditField.label "Colonne:">
+<!ENTITY numColumnsEditField.accessKey "C">
+<!ENTITY widthEditField.label "Larghezza:">
 <!ENTITY widthEditField.accessKey "L">
 <!ENTITY borderEditField.label "Bordo:">
 <!ENTITY borderEditField.accessKey "B">

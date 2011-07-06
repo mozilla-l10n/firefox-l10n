@@ -4,7 +4,7 @@
 <!ENTITY loadAllImagesRadio.label "Carica tutte le immagini">
 <!ENTITY loadAllImagesRadio.accesskey "C">
 <!ENTITY loadOrgImagesRadio.label "Carica solo le immagini che vengono dal server di origine">
-<!ENTITY loadOrgImagesRadio.accesskey "s">
+<!ENTITY loadOrgImagesRadio.accesskey "C">
 <!ENTITY loadNoImagesRadio.label "Non caricare immagini">
 <!ENTITY loadNoImagesRadio.accesskey "N">
 <!ENTITY viewPermissions.label "Gestione permessi">

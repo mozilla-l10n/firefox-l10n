@@ -1,10 +1,10 @@
 <!ENTITY pref.composer.title "Composer">
 <!ENTITY recentFiles.title "Menu pagine recenti">
 <!ENTITY documentsInMenu.label "Massimo numero di pagine elencate:">
-<!ENTITY documentsInMenu.accesskey "n">
+<!ENTITY documentsInMenu.accesskey "M">
 <!ENTITY savingFiles.title "Salvando o pubblicando le pagine">
 <!ENTITY preserveExisting.label "Mantieni la formattazione originale del sorgente">
-<!ENTITY preserveExisting.accesskey "f">
+<!ENTITY preserveExisting.accesskey "M">
 <!ENTITY preserveExisting.tooltip "Mantiene le interruzioni di riga e la formattazione originale della pagina">
 <!ENTITY saveAssociatedFiles.label "Salva assieme alla pagina immagini e altri file associati ">
 <!ENTITY saveAssociatedFiles.accesskey "S">

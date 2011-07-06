@@ -38,11 +38,11 @@
    - ***** END LICENSE BLOCK ***** -->
 <!ENTITY replaceDialog.title "Trova e sostituisci">
 <!ENTITY findField.label "Trova testo:">
-<!ENTITY findField.accesskey "o">
+<!ENTITY findField.accesskey "T">
 <!ENTITY replaceField.label "Sostituisci con:">
-<!ENTITY replaceField.accesskey "n">
+<!ENTITY replaceField.accesskey "S">
 <!ENTITY caseSensitiveCheckbox.label "Sensibile a maiuscole/minuscole">
-<!ENTITY caseSensitiveCheckbox.accesskey "M">
+<!ENTITY caseSensitiveCheckbox.accesskey "S">
 <!ENTITY wrapCheckbox.label "Riparti dall'inizio dopo la fine del documento">
 <!ENTITY wrapCheckbox.accesskey "R">
 <!ENTITY backwardsCheckbox.label "Cerca a ritroso">
@@ -52,7 +52,7 @@
 <!ENTITY replaceButton.label "Sostituisci">
 <!ENTITY replaceButton.accesskey "S">
 <!ENTITY replaceAndFindButton.label "Trova e sostituisci">
-<!ENTITY replaceAndFindButton.accesskey "v">
+<!ENTITY replaceAndFindButton.accesskey "T">
 <!ENTITY replaceAllButton.label "Sostituisci tutti">
-<!ENTITY replaceAllButton.accesskey "u">
+<!ENTITY replaceAllButton.accesskey "S">
 <!ENTITY closeButton.label "Chiudi">

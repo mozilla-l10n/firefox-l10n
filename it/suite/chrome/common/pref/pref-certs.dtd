@@ -39,11 +39,11 @@
 <!ENTITY managecerts.caption "Gestione certificati">
 <!ENTITY managecerts.text "Utilizza Gestione certificati per gestire i tuoi certificati personali, i certificati di altre persone e le Autorità di Certificazione (CA).">
 <!ENTITY managecerts.button "Gestione certificati…">
-<!ENTITY managecerts.accesskey "c">
+<!ENTITY managecerts.accesskey "G">
 <!ENTITY managedevices.caption "Gestione dispositivi di sicurezza">
 <!ENTITY managedevices.text "Utilizza Gestione dispositivi per gestire i tuoi dispositivi di sicurezza, quali ad esempio le smart card.">
 <!ENTITY managedevices.button "Gestione dispositivi di sicurezza…">
-<!ENTITY managedevices.accesskey "d">
+<!ENTITY managedevices.accesskey "G">
 <!ENTITY ssl.label "SSL">
 <!ENTITY pref.certs.title "Certificati">
 <!ENTITY certs.label "Certificati">

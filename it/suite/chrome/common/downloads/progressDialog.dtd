@@ -45,10 +45,10 @@
 <!ENTITY cmd.open.label "Apri">
 <!ENTITY cmd.open.accesskey "A">
 <!ENTITY cmd.show.label "Apri cartella destinazione">
-<!ENTITY cmd.show.accesskey "c">
+<!ENTITY cmd.show.accesskey "A">
 <!ENTITY cmd.goToDownloadPage.label "Vai alla pagina di download">
 <!ENTITY cmd.goToDownloadPage.accesskey "V">
 <!ENTITY cmd.copyDownloadLink.label "Copia indirizzo di origine">
-<!ENTITY cmd.copyDownloadLink.accesskey "o">
+<!ENTITY cmd.copyDownloadLink.accesskey "C">
 <!ENTITY closeWhenDone.label "Chiudi questa finestra al termine del download.">
 <!ENTITY closeWhenDone.accesskey "w">

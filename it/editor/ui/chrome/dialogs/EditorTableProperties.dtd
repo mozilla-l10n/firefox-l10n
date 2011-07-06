@@ -39,19 +39,19 @@
 <!ENTITY applyButton.label "Applica">
 <!ENTITY applyButton.accesskey "A">
 <!ENTITY closeButton.label "Chiudi">
-<!ENTITY tableTab.label "Tabella">
+<!ENTITY tableTab.label "tabella">
 <!ENTITY cellTab.label "Celle">
 <!ENTITY tableRows.label "Righe:">
 <!ENTITY tableRows.accessKey "R">
 <!ENTITY tableColumns.label "Colonne:">
 <!ENTITY tableColumns.accessKey "C">
 <!ENTITY tableHeight.label "Altezza:">
-<!ENTITY tableHeight.accessKey "z">
+<!ENTITY tableHeight.accessKey "A">
 <!ENTITY tableWidth.label "Larghezza:">
 <!ENTITY tableWidth.accessKey "L">
 <!ENTITY tableBorderSpacing.label "Bordi e spaziatura">
-<!ENTITY tableBorderWidth.label "Larghezza bordo:">
-<!ENTITY tableBorderWidth.accessKey "b">
+<!ENTITY tableBorderWidth.label "Bordo:">
+<!ENTITY tableBorderWidth.accessKey "B">
 <!ENTITY tableSpacing.label "Spaziatura:">
 <!ENTITY tableSpacing.accessKey "S">
 <!ENTITY tablePadding.label "Margini:">
@@ -59,14 +59,14 @@
 <!ENTITY tablePxBetwCells.label "pixel tra le celle">
 <!ENTITY tablePxBetwBrdrCellContent.label "pixel tra i bordi e i contenuti della cella">
 <!ENTITY tableAlignment.label "Allineamento tabella:">
-<!ENTITY tableAlignment.accessKey "n">
+<!ENTITY tableAlignment.accessKey "A">
 <!ENTITY tableCaption.label "Legenda:">
 <!ENTITY tableCaption.accessKey "L">
 <!ENTITY tableCaptionAbove.label "Sopra la tabella">
 <!ENTITY tableCaptionBelow.label "Sotto la tabella">
 <!ENTITY tableCaptionLeft.label "Prima della tabella">
 <!ENTITY tableCaptionRight.label "Dopo della tabella">
-<!ENTITY tableCaptionNone.label "Nessuna">
+<!ENTITY tableCaptionNone.label "Nessuno">
 <!ENTITY tableInheritColor.label "(Colore della pagina visibile in trasparenza)">
 <!ENTITY cellSelection.label "Selezione">
 <!ENTITY cellSelectCell.label "Cella">
@@ -81,13 +81,13 @@
 <!ENTITY cellHorizontal.label "Orizzontale:">
 <!ENTITY cellHorizontal.accessKey "O">
 <!ENTITY cellVertical.label "Verticale:">
-<!ENTITY cellVertical.accessKey "e">
+<!ENTITY cellVertical.accessKey "V">
 <!ENTITY cellStyle.label "Stile cella:">
-<!ENTITY cellStyle.accessKey "t">
+<!ENTITY cellStyle.accessKey "S">
 <!ENTITY cellNormal.label "Normale">
 <!ENTITY cellHeader.label "Intestazione">
 <!ENTITY cellTextWrap.label "A capo testo:">
-<!ENTITY cellTextWrap.accessKey "c">
+<!ENTITY cellTextWrap.accessKey "A">
 <!ENTITY cellWrap.label "Manda a capo">
 <!ENTITY cellNoWrap.label "Mantieni in una riga">
 <!ENTITY cellAlignTop.label "In alto">
@@ -96,10 +96,10 @@
 <!ENTITY cellAlignJustify.label "Giustifica">
 <!ENTITY cellInheritColor.label "(Colore della tabella visibile in trasparenza)">
 <!ENTITY cellUseCheckboxHelp.label "Utilizza le caselle di spunta per determinare quali proprietà saranno applicate alle celle selezionate.">
-<!ENTITY size.label "Dimensioni">
+<!ENTITY size.label "Dimensione">
 <!ENTITY pixels.label "pixel">
 <!ENTITY backgroundColor.label "Colore di sfondo:">
-<!ENTITY backgroundColor.accessKey "r">
+<!ENTITY backgroundColor.accessKey "C">
 <!ENTITY AlignLeft.label "Sinistra">
 <!ENTITY AlignCenter.label "Centro">
 <!ENTITY AlignRight.label "Destra">

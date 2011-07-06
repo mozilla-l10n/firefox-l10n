@@ -46,14 +46,14 @@
 <!ENTITY paste.label "Incolla">
 <!ENTITY print.label "Stampa">
 <!ENTITY find.label "Trova">
-<!ENTITY image.label "Immagine">
+<!ENTITY image.label "immagine">
 <!ENTITY hline.label "Separatore orizzontale">
-<!ENTITY table.label "Tabella">
-<!ENTITY link.label "Collegamento">
+<!ENTITY table.label "tabella">
+<!ENTITY link.label "collegamento">
 <!ENTITY anchor.label "Ancora">
 <!ENTITY formatting.caption "Mostra questi pulsanti nella Barra di formattazione:">
-<!ENTITY smaller.label "Diminuisci dimensione testo">
-<!ENTITY larger.label "Aumenta dimensione testo">
+<!ENTITY smaller.label "Diminuisci">
+<!ENTITY larger.label "Aumenta">
 <!ENTITY bold.label "Grassetto">
 <!ENTITY bullets.label "Lista puntata">
 <!ENTITY numbers.label "Lista numerata">

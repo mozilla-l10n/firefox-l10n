@@ -36,12 +36,12 @@
    -
    - ***** END LICENSE BLOCK ***** -->
 <!ENTITY AdvancedEditButton.label "Composizione avanzata…">
-<!ENTITY AdvancedEditButton.accessKey "v">
+<!ENTITY AdvancedEditButton.accessKey "C">
 <!ENTITY AdvancedEditButton.tooltip "Aggiunge o modifica attributi, stili HTML ed eventi JavaScript per questo oggetto.">
 <!ENTITY chooseFileButton.label "Scegli file…">
-<!ENTITY chooseFileButton.accessKey "f">
+<!ENTITY chooseFileButton.accessKey "S">
 <!ENTITY chooseFileLinkButton.label "Scegli file…">
-<!ENTITY chooseFileLinkButton.accessKey "f">
+<!ENTITY chooseFileLinkButton.accessKey "S">
 <!ENTITY makeUrlRelative.label "L'URL è relativo all'indirizzo della pagina">
 <!ENTITY makeUrlRelative.accessKey "L">
 <!ENTITY makeUrlRelative.tooltip "Cambia tra URL relativo e assoluto. È necessario che la pagina sia stata salvata.">

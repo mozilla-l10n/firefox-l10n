@@ -42,6 +42,6 @@
 <!ENTITY LabelFor.label "Per il controllo:">
 <!ENTITY LabelFor.accesskey "P">
 <!ENTITY AccessKey.label "Scorciatoia tastiera:">
-<!ENTITY AccessKey.accesskey "o">
+<!ENTITY AccessKey.accesskey "S">
 <!ENTITY RemoveLabel.label "Rimuovi etichetta">
 <!ENTITY RemoveLabel.accesskey "R">

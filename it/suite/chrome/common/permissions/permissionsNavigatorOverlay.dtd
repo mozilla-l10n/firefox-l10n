@@ -5,7 +5,7 @@
 <!ENTITY cookieAllowCookiesCmd.accesskey "A">
 <!ENTITY cookieAllowCookiesMsg.label "I cookie da questo sito verranno sempre accettati.">
 <!ENTITY cookieAllowSessionCookiesCmd.label "Accetta cookie di sessione da questo sito">
-<!ENTITY cookieAllowSessionCookiesCmd.accesskey "s">
+<!ENTITY cookieAllowSessionCookiesCmd.accesskey "A">
 <!ENTITY cookieAllowSessionCookiesMsg.label "Questo sito potrà impostare cookie solo per questa sessione.">
 <!ENTITY cookieCookiesDefaultCmd.label "Utilizza i permessi predefiniti per i cookie">
 <!ENTITY cookieCookiesDefaultCmd.accesskey "U">
@@ -30,8 +30,8 @@
 <!ENTITY cookieManagePopups.label "Gestione pop-up">
 <!ENTITY cookieManagePopups.accesskey "G">
 <!ENTITY cookieCookieManager.label "Gestione cookie">
-<!ENTITY cookieCookieManager.accesskey "k">
+<!ENTITY cookieCookieManager.accesskey "G">
 <!ENTITY cookieImageManager.label "Gestione immagini">
-<!ENTITY cookieImageManager.accesskey "m">
+<!ENTITY cookieImageManager.accesskey "G">
 <!ENTITY cookiePopupManager.label "Gestione pop-up">
 <!ENTITY cookiePopupManager.accesskey "o">
