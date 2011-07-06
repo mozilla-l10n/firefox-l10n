@@ -21,10 +21,10 @@
 <!ENTITY col.actionStop.accesskey "A">
 <!ENTITY col.actionStop.tooltip "Annulla/Elimina">
 <!ENTITY col.progress.label "Avanzamento">
-<!ENTITY col.progress.accesskey "A">
+<!ENTITY col.progress.accesskey "z">
 <!ENTITY col.progress.tooltip "Avanzamento">
 <!ENTITY col.timeremaining.label "Tempo rimasto">
-<!ENTITY col.timeremaining.accesskey "T">
+<!ENTITY col.timeremaining.accesskey "e">
 <!ENTITY col.timeremaining.tooltip "Tempo rimasto">
 <!ENTITY col.transferred.label "Trasferito">
 <!ENTITY col.transferred.accesskey "T">
@@ -33,7 +33,7 @@
 <!ENTITY col.transferrate.accesskey "V">
 <!ENTITY col.transferrate.tooltip "Velocità">
 <!ENTITY col.timeelapsed.label "Tempo trascorso">
-<!ENTITY col.timeelapsed.accesskey "T">
+<!ENTITY col.timeelapsed.accesskey "m">
 <!ENTITY col.timeelapsed.tooltip "Tempo trascorso">
 <!ENTITY col.starttime.label "Iniziato">
 <!ENTITY col.starttime.accesskey "I">
@@ -46,34 +46,34 @@
 <!ENTITY col.progresstext.tooltip "Avanzamento (&#037;)">
 <!ENTITY col.source.label "Origine">
 <!ENTITY col.source.accesskey "O">
-<!ENTITY col.source.tooltip "Origine">
+<!ENTITY col.source.tooltip "Sorgente">
 <!ENTITY view.columns.label "Mostra colonne">
 <!ENTITY view.columns.accesskey "M">
 <!ENTITY view.sortBy.label "Ordina per">
 <!ENTITY view.sortBy.accesskey "O">
-<!ENTITY view.unsorted.label "Nessun ordinamento">
-<!ENTITY view.unsorted.accesskey "N">
-<!ENTITY view.sortAscending.label "A > Z">
-<!ENTITY view.sortAscending.accesskey "A">
-<!ENTITY view.sortDescending.label "Z > A">
-<!ENTITY view.sortDescending.accesskey "Z">
+<!ENTITY view.unsorted.label "Nessuno">
+<!ENTITY view.unsorted.accesskey "o">
+<!ENTITY view.sortAscending.label "Ordine alfabetico">
+<!ENTITY view.sortAscending.accesskey "a">
+<!ENTITY view.sortDescending.label "Ordine alfabetico inverso">
+<!ENTITY view.sortDescending.accesskey "r">
 <!ENTITY cmd.pause.label "Pausa">
-<!ENTITY cmd.pause.accesskey "P">
+<!ENTITY cmd.pause.accesskey "u">
 <!ENTITY cmd.resume.label "Riprendi">
 <!ENTITY cmd.resume.accesskey "R">
 <!ENTITY cmd.retry.label "Riprova">
-<!ENTITY cmd.retry.accesskey "R">
+<!ENTITY cmd.retry.accesskey "v">
 <!ENTITY cmd.cancel.label "Annulla">
-<!ENTITY cmd.cancel.accesskey "A">
+<!ENTITY cmd.cancel.accesskey "n">
 <!ENTITY cmd.remove.label "Elimina dall'elenco">
 <!ENTITY cmd.remove.accesskey "E">
 <!ENTITY cmd.open.label "Apri">
 <!ENTITY cmd.open.accesskey "A">
 <!ENTITY cmd.show.label "Apri cartella destinazione">
-<!ENTITY cmd.show.accesskey "A">
+<!ENTITY cmd.show.accesskey "d">
 <!ENTITY cmd.goToDownloadPage.label "Vai alla pagina di download">
 <!ENTITY cmd.goToDownloadPage.accesskey "V">
 <!ENTITY cmd.copyDownloadLink.label "Copia indirizzo di origine">
-<!ENTITY cmd.copyDownloadLink.accesskey "C">
+<!ENTITY cmd.copyDownloadLink.accesskey "o">
 <!ENTITY cmd.properties.label "Proprietà">
 <!ENTITY cmd.properties.accesskey "P">

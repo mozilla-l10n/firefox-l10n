@@ -6,9 +6,9 @@
 <!ENTITY CopyEmailAddress.label "Copia indirizzo e-mail">
 <!ENTITY CopyEmailAddress.accesskey "C">
 <!ENTITY CreateFilterFrom.label "Crea filtro da…">
-<!ENTITY CreateFilterFrom.accesskey "C">
+<!ENTITY CreateFilterFrom.accesskey "d">
 <!ENTITY copyLinkCmd.label "Copia indirizzo collegamento">
-<!ENTITY copyLinkCmd.accesskey "C">
+<!ENTITY copyLinkCmd.accesskey "d">
 <!ENTITY CopyMessageId.label "Copia identificativo del messaggio">
 <!ENTITY OpenMessageForMsgId.label "Apri messaggio con questo ID">
 <!ENTITY OpenBrowserWithMsgId.label "Apri messaggio nel browser con questo ID">

@@ -4,7 +4,7 @@
 <!ENTITY http.label "Proxy HTTP:">
 <!ENTITY http.accesskey "x">
 <!ENTITY ssl.label "Proxy SSL:">
-<!ENTITY ssl.accesskey "P">
+<!ENTITY ssl.accesskey "S">
 <!ENTITY ftp.label "Proxy FTP:">
 <!ENTITY ftp.accesskey "F">
 <!ENTITY reuseProxy.label "Utilizza le impostazioni proxy HTTP per tutti i protocolli">
@@ -16,11 +16,11 @@
 <!ENTITY socks.caption "Proxy generico">
 <!ENTITY socks.description "Un proxy SOCKS è un proxy generico usato talvolta negli ambienti aziendali o simili.">
 <!ENTITY socks.label "Proxy SOCKS:">
-<!ENTITY socks.accesskey "P">
+<!ENTITY socks.accesskey "K">
 <!ENTITY socks4.label "SOCKS v4">
 <!ENTITY socks4.accesskey "4">
 <!ENTITY socks5.label "SOCKS v5">
 <!ENTITY socks5.accesskey "5">
 <!ENTITY socksRemoteDNS.label "Utilizza per risolvere i nomi degli host (raccomandato per SOCKS v5)">
-<!ENTITY socksRemoteDNS.accesskey "U">
+<!ENTITY socksRemoteDNS.accesskey "z">
 <!ENTITY SOCKSport.accesskey "t">

@@ -5,12 +5,12 @@
 <!ENTITY syncTypeMail.label "Messaggi di posta">
 <!ENTITY syncTypeMail.accesskey "M">
 <!ENTITY syncTypeNews.label "Messaggi dei gruppi di discussione">
-<!ENTITY syncTypeNews.accesskey "M">
+<!ENTITY syncTypeNews.accesskey "d">
 <!ENTITY sendMessage.label "Spedisci messaggi da inviare">
 <!ENTITY sendMessage.accesskey "S">
 <!ENTITY workOffline.label "Lavora non in linea una volta scaricati i messaggi">
-<!ENTITY workOffline.accesskey "L">
-<!ENTITY selectButton.label "Scegli…">
+<!ENTITY workOffline.accesskey "c">
+<!ENTITY selectButton.label "Seleziona…">
 <!ENTITY selectButton.accesskey "S">
 <!ENTITY MsgSelectDesc.label "Selezionare le cartelle di posta e dei gruppi di discussione per l'uso non in linea.">
 <!ENTITY MsgSelectInd.label "Da scaricare">

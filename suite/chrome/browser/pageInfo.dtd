@@ -5,7 +5,7 @@
 <!ENTITY copy.accesskey "C">
 <!ENTITY selectall.key "t">
 <!ENTITY selectall.label "Seleziona tutti">
-<!ENTITY selectall.accesskey "S">
+<!ENTITY selectall.accesskey "u">
 <!ENTITY openHelpMac.key "?">
 <!ENTITY closeWindow.key "f">
 <!ENTITY generalTab "Generale">
@@ -19,7 +19,7 @@
 <!ENTITY generalModified "Modificato:">
 <!ENTITY generalEncoding "Codifica:">
 <!ENTITY generalMetaName "Nome">
-<!ENTITY generalMetaContent "Contenuto">
+<!ENTITY generalMetaContent "Oggetto:">
 <!ENTITY generalSecurityDetails "Dettagli">
 <!ENTITY generalSecurityDetails.accesskey "D">
 <!ENTITY formsTab "Moduli">
@@ -28,17 +28,17 @@
 <!ENTITY formMethod "Metodo">
 <!ENTITY formName "Nome">
 <!ENTITY formEncoding "Codifica:">
-<!ENTITY formTarget "Obiettivo:">
+<!ENTITY formTarget "Destinazione:">
 <!ENTITY formFields "Campi:">
 <!ENTITY formLabel "Etichetta">
 <!ENTITY formFName "Nome campo">
 <!ENTITY formType "Tipo">
 <!ENTITY formCValue "Valore corrente">
 <!ENTITY linksTab "Collegamenti">
-<!ENTITY linksTab.accesskey "C">
+<!ENTITY linksTab.accesskey "l">
 <!ENTITY linkNo "N.">
 <!ENTITY linkName "Nome">
-<!ENTITY linkAddress "Destinatari">
+<!ENTITY linkAddress "Indirizzo">
 <!ENTITY linkType "Tipo">
 <!ENTITY linkTarget "Destinazione">
 <!ENTITY linkAccessKey "Scorciatoia tastiera">
@@ -47,13 +47,13 @@
 <!ENTITY mediaURL "Indirizzo:">
 <!ENTITY mediaAlt "Testo alternativo:">
 <!ENTITY mediaAltHeader "Testo alternativo">
-<!ENTITY mediaAddress "Destinatari">
+<!ENTITY mediaAddress "Indirizzo">
 <!ENTITY mediaType "Tipo">
 <!ENTITY mediaSize "Dimensione">
 <!ENTITY mediaCount "Conteggio">
 <!ENTITY mediaDimensions "Dimensioni specificate:">
 <!ENTITY mediaPhysDimensions "Dimensioni attuali:">
-<!ENTITY mediaTitle "Qualifica:">
+<!ENTITY mediaTitle "Titolo:">
 <!ENTITY mediaLongdesc "Descrizione estesa:">
 <!ENTITY mediaBlockImage.accesskey "B">
 <!ENTITY mediaSaveAs "Salva con nome…">
@@ -68,8 +68,8 @@
 <!ENTITY permTab.accesskey "P">
 <!ENTITY permUseDefault "Utilizza predefiniti">
 <!ENTITY permAskAlways "Chiedi ogni volta">
-<!ENTITY permAllow "Accetta">
-<!ENTITY permAllowSession "Accetta per la sessione">
+<!ENTITY permAllow "Permetti">
+<!ENTITY permAllowSession "Permetti per la sessione">
 <!ENTITY permBlock "Blocca">
 <!ENTITY permissionsFor "Permessi per:">
 <!ENTITY permImage "Caricare immagini">

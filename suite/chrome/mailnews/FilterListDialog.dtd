@@ -8,13 +8,13 @@
 <!ENTITY deleteButton.label "Elimina">
 <!ENTITY deleteButton.accesskey "E">
 <!ENTITY reorderUpButton.label "Muovi su">
-<!ENTITY reorderUpButton.accesskey "M">
+<!ENTITY reorderUpButton.accesskey "s">
 <!ENTITY reorderDownButton.label "Muovi giù">
-<!ENTITY reorderDownButton.accesskey "M">
+<!ENTITY reorderDownButton.accesskey "u">
 <!ENTITY filterHeader.label "I filtri attivati verranno applicati automaticamente nell'ordine seguente.">
 <!ENTITY filtersForPrefix.label "Filtri per:">
 <!ENTITY filtersForPrefix.accesskey "F">
-<!ENTITY viewLogButton.label "Registro attività filtri">
+<!ENTITY viewLogButton.label "Rapporto filtri">
 <!ENTITY viewLogButton.accesskey "R">
 <!ENTITY runFilters.label "Avvia ora">
 <!ENTITY runFilters.accesskey "A">

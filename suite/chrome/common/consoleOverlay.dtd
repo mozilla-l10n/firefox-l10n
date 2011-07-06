@@ -4,7 +4,7 @@
 <!ENTITY entryToolbar.tooltip "Barra elemento JavaScript">
 <!ENTITY toolbarsCmd.label "Mostra/Nascondi">
 <!ENTITY toolbarsCmd.accesskey "M">
-<!ENTITY toolbarMode.label "Modo">
+<!ENTITY toolbarMode.label "Modalità">
 <!ENTITY toolbarMode.accesskey "M">
 <!ENTITY toolbarEval.label "Elemento JavaScript">
 <!ENTITY toolbarEval.accesskey "J">

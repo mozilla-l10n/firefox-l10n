@@ -1,4 +1,4 @@
-<!ENTITY toAddr.label "al:">
+<!ENTITY toAddr.label "A:">
 <!ENTITY ccAddr.label "Cc:">
 <!ENTITY bccAddr.label "Ccn:">
 <!ENTITY replyAddr.label "Rispondi-a:">

@@ -42,4 +42,4 @@
 <!ENTITY clearLog.label "Pulisci registro attività">
 <!ENTITY clearLog.accesskey "P">
 <!ENTITY closeLog.label "Chiudi">
-<!ENTITY closeLog.accesskey "C">
+<!ENTITY closeLog.accesskey "h">

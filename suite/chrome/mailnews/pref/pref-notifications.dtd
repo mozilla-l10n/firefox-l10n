@@ -7,13 +7,13 @@
 <!ENTITY showAnimatedAlert.label "Mostra un avviso">
 <!ENTITY showAnimatedAlert.accesskey "M">
 <!ENTITY showTrayIcon.label "Mostra una icona nell'area di notifica">
-<!ENTITY showTrayIcon.accesskey "M">
+<!ENTITY showTrayIcon.accesskey "o">
 <!ENTITY bounceSystemDockIcon.label "Anima l'icona Dock">
-<!ENTITY bounceSystemDockIcon.accesskey "A">
+<!ENTITY bounceSystemDockIcon.accesskey "k">
 <!ENTITY playButton.label "Riproduci">
-<!ENTITY playButton.accesskey "R">
+<!ENTITY playButton.accesskey "u">
 <!ENTITY systemsound.label "Suono predefinito di sistema per la notifica di nuova posta">
-<!ENTITY systemsound.accesskey "S">
+<!ENTITY systemsound.accesskey "d">
 <!ENTITY customsound.label "File .wav personalizzato">
 <!ENTITY customsound.accesskey "F">
 <!ENTITY browse.label "Scegli…">

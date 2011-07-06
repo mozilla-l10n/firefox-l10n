@@ -4,10 +4,10 @@
 <!ENTITY div.cookiesonsystem.label "Visualizza e rimuove cookie memorizzati sul computer.">
 <!ENTITY treehead.cookiename.label "Nome cookie">
 <!ENTITY treehead.cookiedomain.label "Sito">
-<!ENTITY treehead.cookieexpires.label "Scade">
+<!ENTITY treehead.cookieexpires.label "Scadenza">
 <!ENTITY treehead.infoselected.label "Informazioni sul cookie selezionato">
 <!ENTITY button.removecookie.label "Elimina cookie">
-<!ENTITY button.removecookie.accesskey "E">
+<!ENTITY button.removecookie.accesskey "k">
 <!ENTITY button.removeallcookies.label "Elimina tutti i cookie">
 <!ENTITY button.removeallcookies.accesskey "E">
 <!ENTITY search.placeholder "Cerca nei cookie">
@@ -27,13 +27,13 @@
 <!ENTITY buttonaccept.accesskey "C">
 <!ENTITY blockSite.label "Blocca">
 <!ENTITY blockSite.accesskey "B">
-<!ENTITY allowSite.label "Accetta">
-<!ENTITY allowSite.accesskey "A">
+<!ENTITY allowSite.label "Permetti">
+<!ENTITY allowSite.accesskey "P">
 <!ENTITY allowSiteSession.label "Sessione">
 <!ENTITY allowSiteSession.accesskey "S">
 <!ENTITY removepermission.label "Rimuovi sito">
 <!ENTITY removepermission.accesskey "R">
-<!ENTITY removeallpermissions.label "Elimina tutti i siti">
-<!ENTITY removeallpermissions.accesskey "E">
+<!ENTITY removeallpermissions.label "Rimuovi tutti i siti">
+<!ENTITY removeallpermissions.accesskey "t">
 <!ENTITY futureCookies.label "Non permettere ai siti di cui hai rimosso i cookie di impostarne altri in futuro">
 <!ENTITY futureCookies.accesskey "N">

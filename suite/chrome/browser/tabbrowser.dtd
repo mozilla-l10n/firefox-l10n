@@ -4,15 +4,15 @@
 <!ENTITY closeTab.label "Chiudi scheda">
 <!ENTITY closeTab.accesskey "C">
 <!ENTITY closeOtherTabs.label "Chiudi altre schede">
-<!ENTITY closeOtherTabs.accesskey "C">
+<!ENTITY closeOtherTabs.accesskey "a">
 <!ENTITY reloadAllTabs.label "Ricarica tutte le schede">
-<!ENTITY reloadAllTabs.accesskey "R">
+<!ENTITY reloadAllTabs.accesskey "t">
 <!ENTITY reloadTab.label "Ricarica scheda">
 <!ENTITY reloadTab.accesskey "R">
 <!ENTITY bookmarkGroup.label "Crea segnalibro con tutte le schede">
-<!ENTITY bookmarkGroup.accesskey "C">
+<!ENTITY bookmarkGroup.accesskey "s">
 <!ENTITY closeTabButton.tooltip "Chiudi scheda corrente">
 <!ENTITY newTabButton.tooltip "Apre una nuova scheda">
 <!ENTITY listAllTabs.tooltip "Elenca tutte le schede">
 <!ENTITY undoCloseTab.label "Riapri scheda chiusa">
-<!ENTITY undoCloseTab.accesskey "R">
+<!ENTITY undoCloseTab.accesskey "h">

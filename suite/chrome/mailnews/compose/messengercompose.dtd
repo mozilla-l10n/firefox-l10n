@@ -11,7 +11,7 @@
 <!ENTITY saveCmd.key "S">
 <!ENTITY saveCmd.accesskey "S">
 <!ENTITY saveAsCmd.label "Salva come">
-<!ENTITY saveAsCmd.accesskey "S">
+<!ENTITY saveAsCmd.accesskey "v">
 <!ENTITY saveAsFileCmd.label "File…">
 <!ENTITY saveAsFileCmd.accesskey "F">
 <!ENTITY saveAsDraftCmd.label "Bozza">
@@ -23,54 +23,54 @@
 <!ENTITY attachFileCmd.label "File…">
 <!ENTITY attachFileCmd.accesskey "F">
 <!ENTITY attachPageCmd.label "Pagina web…">
-<!ENTITY attachPageCmd.accesskey "P">
+<!ENTITY attachPageCmd.accesskey "w">
 <!ENTITY attachVCardCmd.label "Includi biglietto da visita (vCard)">
-<!ENTITY attachVCardCmd.accesskey "I">
+<!ENTITY attachVCardCmd.accesskey "v">
 <!ENTITY sendNowCmd.label "Spedisci ora">
 <!ENTITY sendCmd.keycode "VK_RETURN">
 <!ENTITY sendNowCmd.accesskey "d">
 <!ENTITY sendLaterCmd.label "Spedisci più tardi">
 <!ENTITY sendLaterCmd.keycode "VK_RETURN">
-<!ENTITY sendLaterCmd.accesskey "S">
-<!ENTITY printSetupCmd.label "Imposta pagina…">
+<!ENTITY sendLaterCmd.accesskey "t">
+<!ENTITY printSetupCmd.label "Impostazioni di stampa…">
 <!ENTITY printSetupCmd.accesskey "I">
 <!ENTITY printCmd.label "Stampa…">
 <!ENTITY printCmd.key "P">
-<!ENTITY printCmd.accesskey "S">
+<!ENTITY printCmd.accesskey "m">
 <!ENTITY editRewrapCmd.label "Riformatta">
 <!ENTITY editRewrapCmd.key "R">
-<!ENTITY editRewrapCmd.accesskey "R">
+<!ENTITY editRewrapCmd.accesskey "m">
 <!ENTITY findCmd.label "Trova e sostituisci…">
 <!ENTITY findCmd.key "F">
-<!ENTITY findCmd.accesskey "T">
+<!ENTITY findCmd.accesskey "v">
 <!ENTITY findAgainCmd.label "Trova successivo">
 <!ENTITY findAgainCmd.key "G">
-<!ENTITY findAgainCmd.accesskey "T">
+<!ENTITY findAgainCmd.accesskey "u">
 <!ENTITY findAgainCmd.key2 "VK_F3">
 <!ENTITY findPrevCmd.label "Trova precedente">
 <!ENTITY findPrevCmd.key "G">
 <!ENTITY findPrevCmd.key2 "VK_F3">
-<!ENTITY findPrevCmd.accesskey "T">
+<!ENTITY findPrevCmd.accesskey "d">
 <!ENTITY accountManagerCmd.label "Configurazione account…">
-<!ENTITY accountManagerCmd.accesskey "C">
-<!ENTITY showComposeToolbarCmd.label "Barra strumenti dei messaggi">
-<!ENTITY showComposeToolbarCmd.accesskey "B">
+<!ENTITY accountManagerCmd.accesskey "n">
+<!ENTITY showComposeToolbarCmd.label "Barra degli strumenti">
+<!ENTITY showComposeToolbarCmd.accesskey "m">
 <!ENTITY showFormatToolbarCmd.label "Barra di formattazione">
-<!ENTITY showFormatToolbarCmd.accesskey "B">
+<!ENTITY showFormatToolbarCmd.accesskey "f">
 <!ENTITY formatMenu.label "Formato">
-<!ENTITY formatMenu.accesskey "F">
+<!ENTITY formatMenu.accesskey "r">
 <!ENTITY optionsMenu.label "Opzioni">
-<!ENTITY optionsMenu.accesskey "O">
+<!ENTITY optionsMenu.accesskey "z">
 <!ENTITY quoteCmd.label "Cita messaggio">
-<!ENTITY quoteCmd.accesskey "C">
+<!ENTITY quoteCmd.accesskey "m">
 <!ENTITY selectAddressCmd.label "Selezione indirizzi…">
 <!ENTITY selectAddressCmd.key "">
-<!ENTITY selectAddressCmd.accesskey "S">
+<!ENTITY selectAddressCmd.accesskey "z">
 <!ENTITY checkSpellingCmd2.label "Controlla ortografia…">
 <!ENTITY checkSpellingCmd2.key "p">
 <!ENTITY checkSpellingCmd2.accesskey "C">
 <!ENTITY enableInlineSpellChecker.label "Correggi ortografia in scrittura ">
-<!ENTITY enableInlineSpellChecker.accesskey "C">
+<!ENTITY enableInlineSpellChecker.accesskey "u">
 <!ENTITY priorityMenu.label "Priorità">
 <!ENTITY priorityMenu.accesskey "P">
 <!ENTITY lowestPriorityCmd.label "Minima">
@@ -82,7 +82,7 @@
 <!ENTITY highPriorityCmd.label "Alta">
 <!ENTITY highPriorityCmd.accesskey "A">
 <!ENTITY highestPriorityCmd.label "Massima">
-<!ENTITY highestPriorityCmd.accesskey "M">
+<!ENTITY highestPriorityCmd.accesskey "s">
 <!ENTITY returnReceiptMenu.label "Ricevuta di ritorno">
 <!ENTITY returnReceiptMenu.accesskey "R">
 <!ENTITY outputFormatMenu.label "Formato">
@@ -92,16 +92,16 @@
 <!ENTITY plainTextFormatCmd.label "Solo testo semplice">
 <!ENTITY plainTextFormatCmd.accesskey "S">
 <!ENTITY htmlFormatCmd.label "Solo HTML">
-<!ENTITY htmlFormatCmd.accesskey "S">
+<!ENTITY htmlFormatCmd.accesskey "H">
 <!ENTITY bothFormatCmd.label "Testo semplice e HTML">
 <!ENTITY bothFormatCmd.accesskey "T">
 <!ENTITY fileCarbonCopyCmd.label "Salva copia in">
-<!ENTITY fileCarbonCopyCmd.accesskey "S">
+<!ENTITY fileCarbonCopyCmd.accesskey "v">
 <!ENTITY fileHereMenu.label "Archivia qua">
-<!ENTITY sendButton.label "Invia">
+<!ENTITY sendButton.label "Spedisci">
 <!ENTITY addressButton.label "Destinatari">
 <!ENTITY attachButton.label "Allega">
-<!ENTITY spellingButton.label "Controllo ortografico">
+<!ENTITY spellingButton.label "Ortografia">
 <!ENTITY saveButton.label "Salva">
 <!ENTITY stopButton.label "Interrompi">
 <!ENTITY addressBar.tooltip "Barra degli indirizzi">
@@ -118,7 +118,7 @@
 <!ENTITY spellCheckAddToDictionary.label "Aggiungi al dizionario">
 <!ENTITY spellCheckAddToDictionary.accesskey "n">
 <!ENTITY pasteQuote.label "Incolla come citazione">
-<!ENTITY pasteQuote.accesskey "I">
+<!ENTITY pasteQuote.accesskey "z">
 <!ENTITY openAttachment.label "Apri">
 <!ENTITY openAttachment.accesskey "A">
 <!ENTITY renameAttachment.label "Rinomina">
@@ -126,6 +126,6 @@
 <!ENTITY deleteAttachment.accesskey "E">
 <!ENTITY selectAllAttachments.accesskey "a">
 <!ENTITY attachFile.label "Allega file…">
-<!ENTITY attachFile.accesskey "A">
+<!ENTITY attachFile.accesskey "f">
 <!ENTITY attachPage.label "Allega pagina web…">
-<!ENTITY attachPage.accesskey "A">
+<!ENTITY attachPage.accesskey "w">

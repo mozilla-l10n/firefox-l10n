@@ -1,9 +1,9 @@
-<!ENTITY zoomEnlargeCmd.label "Aumenta">
-<!ENTITY zoomEnlargeCmd.accesskey "A">
+<!ENTITY zoomEnlargeCmd.label "Più grande">
+<!ENTITY zoomEnlargeCmd.accesskey "r">
 <!ENTITY zoomEnlargeCmd.commandkey "+">
 <!ENTITY zoomEnlargeCmd.commandkey2 "=">
-<!ENTITY zoomReduceCmd.label "Diminuisci">
-<!ENTITY zoomReduceCmd.accesskey "D">
+<!ENTITY zoomReduceCmd.label "Più piccolo">
+<!ENTITY zoomReduceCmd.accesskey "P">
 <!ENTITY zoomReduceCmd.commandkey "-">
 <!ENTITY zoomResetCmd.commandkey "0">
 <!ENTITY zoomMenu.accesskey "Z">

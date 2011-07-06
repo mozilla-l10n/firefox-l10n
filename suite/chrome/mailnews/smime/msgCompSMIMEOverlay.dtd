@@ -3,7 +3,7 @@
 <!ENTITY menu_securitySign.label "Apponi firma digitale">
 <!ENTITY menu_securitySign.accesskey "A">
 <!ENTITY menu_securityStatus.label "Visualizza informazioni sicurezza">
-<!ENTITY menu_securityStatus.accesskey "V">
+<!ENTITY menu_securityStatus.accesskey "S">
 <!ENTITY securityButton.label "Sicurezza">
 <!ENTITY securityButton.tooltip "Visualizza o modifica le impostazioni di sicurezza">
 <!ENTITY menu_viewSecurityStatus.label "Informazioni sicurezza messaggio">

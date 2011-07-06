@@ -1,19 +1,19 @@
 <!ENTITY offlineGoOfflineCmd.label "Lavora non in linea">
 <!ENTITY offlineGoOfflineCmd.accesskey "L">
 <!ENTITY fileMenu.label "File">
-<!ENTITY fileMenu.accesskey "S">
+<!ENTITY fileMenu.accesskey "F">
 <!ENTITY newMenu.label "Nuovo">
 <!ENTITY newMenu.accesskey "N">
 <!ENTITY newBlankPageCmd.label "Composizione pagina">
-<!ENTITY newBlankPageCmd.accesskey "C">
+<!ENTITY newBlankPageCmd.accesskey "o">
 <!ENTITY newBlankPageCmd.key "n">
 <!ENTITY newPageFromTemplateCmd.label "Pagina da modello">
-<!ENTITY newPageFromTemplateCmd.accesskey "P">
+<!ENTITY newPageFromTemplateCmd.accesskey "m">
 <!ENTITY newPageFromDraftCmd.label "Pagina da bozza">
-<!ENTITY newPageFromDraftCmd.accesskey "P">
+<!ENTITY newPageFromDraftCmd.accesskey "b">
 <!ENTITY newNavigatorCmd.label "Finestra browser">
 <!ENTITY newNavigatorCmd.key "N">
-<!ENTITY newNavigatorCmd.accesskey "F">
+<!ENTITY newNavigatorCmd.accesskey "b">
 <!ENTITY editMenu.label "Modifica">
 <!ENTITY editMenu.accesskey "M">
 <!ENTITY undoCmd.label "Annulla">
@@ -32,12 +32,12 @@
 <!ENTITY pasteCmd.key "V">
 <!ENTITY pasteCmd.accesskey "I">
 <!ENTITY pasteGoCmd.label "Incolla e vai">
-<!ENTITY pasteGoCmd.accesskey "I">
+<!ENTITY pasteGoCmd.accesskey "v">
 <!ENTITY pasteSearchCmd.label "Incolla e cerca">
 <!ENTITY pasteSearchCmd.accesskey "I">
 <!ENTITY deleteCmd.label "Elimina">
 <!ENTITY deleteCmd.accesskey "E">
-<!ENTITY selectAllCmd.label "Seleziona tutti">
+<!ENTITY selectAllCmd.label "Seleziona tutto">
 <!ENTITY selectAllCmd.key "A">
 <!ENTITY selectAllCmd.accesskey "S">
 <!ENTITY clearHistoryCmd.label "Pulisci cronologia ricerche">
@@ -48,48 +48,48 @@
 <!ENTITY preferencesCmd.key "E">
 <!ENTITY preferencesCmd.accesskey "P">
 <!ENTITY findTypeTextCmd.label "Trova testo digitato">
-<!ENTITY findTypeTextCmd.accesskey "T">
+<!ENTITY findTypeTextCmd.accesskey "g">
 <!ENTITY findTypeLinksCmd.label "Trova testo digitato nei collegamenti">
-<!ENTITY findTypeLinksCmd.accesskey "T">
+<!ENTITY findTypeLinksCmd.accesskey "m">
 <!ENTITY viewMenu.label "Visualizza">
 <!ENTITY viewMenu.accesskey "V">
 <!ENTITY viewToolbarsMenu.label "Mostra/Nascondi">
 <!ENTITY viewToolbarsMenu.accesskey "M">
 <!ENTITY showTaskbarCmd.label "Barra di stato">
-<!ENTITY showTaskbarCmd.accesskey "B">
+<!ENTITY showTaskbarCmd.accesskey "s">
 <!ENTITY helpMenu.label "Guida">
 <!ENTITY helpMenu.accesskey "G">
 <!ENTITY helpTroubleshootingInfo.label "Informazioni per la risoluzione dei problemi">
-<!ENTITY helpTroubleshootingInfo.accesskey "I">
+<!ENTITY helpTroubleshootingInfo.accesskey "z">
 <!ENTITY releaseCmd.label "Note di versione">
 <!ENTITY releaseCmd.accesskey "N">
 <!ENTITY helpSafeMode.label "Riavvia disattivando i componenti aggiuntivi">
 <!ENTITY helpSafeMode.accesskey "R">
 <!ENTITY updateCmd.label "Controlla gli aggiornamenti…">
-<!ENTITY updateCmd.accesskey "C">
+<!ENTITY updateCmd.accesskey "a">
 <!ENTITY aboutCmd.label "Informazioni su &brandShortName;">
 <!ENTITY aboutCmd.accesskey "I">
 <!ENTITY aboutCommPluginsCmd.label "Informazioni sui plugin">
-<!ENTITY aboutCommPluginsCmd.accesskey "I">
+<!ENTITY aboutCommPluginsCmd.accesskey "u">
 <!ENTITY direct.label "In linea (proxy: nessuno)">
-<!ENTITY direct.accesskey "I">
+<!ENTITY direct.accesskey "n">
 <!ENTITY manual.label "In linea (proxy: manuale)">
-<!ENTITY manual.accesskey "I">
+<!ENTITY manual.accesskey "m">
 <!ENTITY pac.label "In linea (proxy: URL automatico)">
-<!ENTITY pac.accesskey "I">
+<!ENTITY pac.accesskey "a">
 <!ENTITY wpad.label "In linea (proxy: ricerca automatica)">
-<!ENTITY wpad.accesskey "I">
+<!ENTITY wpad.accesskey "r">
 <!ENTITY system.label "In linea (proxy: proxy di sistema)">
-<!ENTITY system.accesskey "I">
+<!ENTITY system.accesskey "d">
 <!ENTITY proxy.label "Configurazione proxy…">
 <!ENTITY proxy.accesskey "C">
 <!ENTITY bidiSwitchTextDirectionItem.label "Cambia direzione testo">
-<!ENTITY bidiSwitchTextDirectionItem.accesskey "C">
+<!ENTITY bidiSwitchTextDirectionItem.accesskey "d">
 <!ENTITY bidiSwitchTextDirectionItem.commandkey "X">
 <!ENTITY customizeToolbarContext.label "Personalizza…">
 <!ENTITY customizeToolbarContext.accesskey "P">
 <!ENTITY customizeToolbar.toolbarmode.label "Impostazioni per questa barra degli strumenti">
-<!ENTITY customizeToolbar.toolbarmode.accesskey "I">
+<!ENTITY customizeToolbar.toolbarmode.accesskey "z">
 <!ENTITY customizeToolbar.iconsAndText.label "Icone e testo">
 <!ENTITY customizeToolbar.iconsAndText.accesskey "I">
 <!ENTITY customizeToolbar.icons.label "Icone">
@@ -97,9 +97,9 @@
 <!ENTITY customizeToolbar.text.label "Testo">
 <!ENTITY customizeToolbar.text.accesskey "T">
 <!ENTITY customizeToolbar.useSmallIcons.label "Utilizza icone piccole">
-<!ENTITY customizeToolbar.useSmallIcons.accesskey "U">
+<!ENTITY customizeToolbar.useSmallIcons.accesskey "z">
 <!ENTITY customizeToolbar.labelAlignEnd.label "Mostra testo accanto icone">
-<!ENTITY customizeToolbar.labelAlignEnd.accesskey "M">
+<!ENTITY customizeToolbar.labelAlignEnd.accesskey "o">
 <!ENTITY customizeToolbar.useDefault.label "Utilizza impostazioni predefinite">
 <!ENTITY customizeToolbar.useDefault.accesskey "U">
 <!ENTITY allowPopups.accesskey "u">

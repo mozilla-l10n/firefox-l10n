@@ -1,27 +1,27 @@
 <!ENTITY searchHeading.label "Cerca tra i messaggi in:">
-<!ENTITY searchHeading.accesskey "C">
+<!ENTITY searchHeading.accesskey "n">
 <!ENTITY searchSubfolders.label "Cerca nelle sottocartelle">
-<!ENTITY searchSubfolders.accesskey "C">
+<!ENTITY searchSubfolders.accesskey "o">
 <!ENTITY searchLocalSystem.label "Ricerca sul sistema">
-<!ENTITY searchLocalSystem.accesskey "R">
-<!ENTITY resetButton.label "Pulisci">
-<!ENTITY resetButton.accesskey "P">
+<!ENTITY searchLocalSystem.accesskey "u">
+<!ENTITY resetButton.label "Cancella">
+<!ENTITY resetButton.accesskey "a">
 <!ENTITY openButton.label "Apri">
-<!ENTITY openButton.accesskey "A">
+<!ENTITY openButton.accesskey "p">
 <!ENTITY deleteButton.label "Elimina">
 <!ENTITY deleteButton.accesskey "E">
 <!ENTITY searchDialogTitle.label "Ricerca messaggi">
 <!ENTITY results.label "Risultati">
-<!ENTITY fileHereMenu.label "Archivia qua">
-<!ENTITY fileHereMenu.accesskey "A">
-<!ENTITY fileButton.label "Scelta file">
+<!ENTITY fileHereMenu.label "Sposta qua">
+<!ENTITY fileHereMenu.accesskey "a">
+<!ENTITY fileButton.label "Sposta in">
 <!ENTITY fileButton.accesskey "S">
 <!ENTITY goToFolderButton.label "Apri cartella messaggi">
-<!ENTITY goToFolderButton.accesskey "A">
+<!ENTITY goToFolderButton.accesskey "l">
 <!ENTITY saveAsVFButton.label "Salva come cartella di ricerca">
 <!ENTITY saveAsVFButton.accesskey "v">
 <!ENTITY abSearchHeading.label "Cerca in:">
-<!ENTITY abSearchHeading.accesskey "C">
+<!ENTITY abSearchHeading.accesskey "n">
 <!ENTITY propertiesButton.label "Proprietà">
 <!ENTITY propertiesButton.accesskey "P">
 <!ENTITY composeButton.label "Componi">

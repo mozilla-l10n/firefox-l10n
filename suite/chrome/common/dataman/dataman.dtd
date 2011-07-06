@@ -46,7 +46,7 @@
 <!ENTITY domain.search.key "d">
 <!ENTITY domain.tree.domain.label "Dominio">
 <!ENTITY domain.ctx.forgetdomain.label "Dimentica questo dominio">
-<!ENTITY domain.ctx.forgetdomain.accesskey "D">
+<!ENTITY domain.ctx.forgetdomain.accesskey "m">
 <!ENTITY domain.ctx.forgetglobal.label "Dimentica dati globali">
 <!ENTITY domain.ctx.forgetglobal.accesskey "D">
 <!ENTITY data.search.key "k">
@@ -75,7 +75,7 @@
 <!ENTITY cookies.button.remove.label "Elimina">
 <!ENTITY cookies.button.remove.accesskey "E">
 <!ENTITY cookies.blockOnRemove.label "Dopo l'eliminazione, impedisci i siti elencati di impostare cookie in futuro">
-<!ENTITY cookies.blockOnRemove.accesskey "D">
+<!ENTITY cookies.blockOnRemove.accesskey "o">
 <!ENTITY perm.UseDefault "Utilizza predefiniti">
 <!ENTITY perm.AskAlways "Chiedi ogni volta">
 <!ENTITY perm.NeverSave "Non salvare mai">
@@ -124,7 +124,7 @@
 <!ENTITY forget.permissions.label "Permessi">
 <!ENTITY forget.permissions.accesskey "P">
 <!ENTITY forget.preferences.label "Preferenze contenuti">
-<!ENTITY forget.preferences.accesskey "P">
+<!ENTITY forget.preferences.accesskey "o">
 <!ENTITY forget.passwords.label "Password">
 <!ENTITY forget.passwords.accesskey "P">
 <!ENTITY forget.formdata.label "Dati moduli">

@@ -1,10 +1,10 @@
 <!--null-->
 <!ENTITY importDialog.windowTitle "Importa">
 <!ENTITY importAll.label "Importa tutto">
-<!ENTITY importAll.accesskey "I">
+<!ENTITY importAll.accesskey "t">
 <!ENTITY importMail.label "Posta">
 <!ENTITY importMail.accesskey "P">
-<!ENTITY importAddressbook.label "Rubrica">
+<!ENTITY importAddressbook.label "Rubriche">
 <!ENTITY importAddressbook.accesskey "R">
 <!ENTITY importSettings.label "Impostazioni">
 <!ENTITY importSettings.accesskey "I">
@@ -23,5 +23,5 @@
 <!ENTITY finish.label "Finito">
 <!ENTITY cancel.label "Annulla">
 <!ENTITY select.label "o seleziona il tipo di materiale da importare:">
-<!ENTITY title.label "Qualifica">
-<!ENTITY processing.label "Importazione in corso">
+<!ENTITY title.label "Titolo">
+<!ENTITY processing.label "Importazione in corso…">

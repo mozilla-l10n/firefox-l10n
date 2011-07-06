@@ -1,30 +1,30 @@
 <!ENTITY accountTitle.label "Impostazioni account">
-<!ENTITY accountName.label "Nome account:">
-<!ENTITY accountName.accesskey "N">
+<!ENTITY accountName.label "Nome dell'account:">
+<!ENTITY accountName.accesskey "c">
 <!ENTITY identityTitle.label "Identità predefinita">
 <!ENTITY identityDesc.label "Ogni account ha una identità, che è l'informazione che le altre persone vedono quando leggono i tuoi messaggi.">
-<!ENTITY name.label "Nome:">
-<!ENTITY name.accesskey "N">
+<!ENTITY name.label "Il tuo nome:">
+<!ENTITY name.accesskey "n">
 <!ENTITY email.label "Indirizzo e-mail:">
-<!ENTITY email.accesskey "I">
+<!ENTITY email.accesskey "m">
 <!ENTITY replyTo.label "Indirizzo per la risposta:">
-<!ENTITY replyTo.accesskey "I">
-<!ENTITY organization.label "Azienda:">
+<!ENTITY replyTo.accesskey "r">
+<!ENTITY organization.label "Organizzazione:">
 <!ENTITY organization.accesskey "O">
 <!ENTITY signatureText.label "Testo per firma:">
 <!ENTITY signatureText.accesskey "T">
 <!ENTITY signatureHtml.label "Utilizza HTML">
-<!ENTITY signatureHtml.accesskey "U">
+<!ENTITY signatureHtml.accesskey "H">
 <!ENTITY signatureFile.label "Allega firma da un file:">
-<!ENTITY signatureFile.accesskey "A">
+<!ENTITY signatureFile.accesskey "f">
 <!ENTITY choose.label "Scegli…">
 <!ENTITY choose.accesskey "S">
 <!ENTITY editVCard.label "Modifica biglietto…">
-<!ENTITY editVCard.accesskey "M">
+<!ENTITY editVCard.accesskey "b">
 <!ENTITY attachVCard.label "Allega biglietto da visita personale ai messaggi">
 <!ENTITY attachVCard.accesskey "v">
 <!ENTITY manageIdentities.label "Gestione identità…">
-<!ENTITY manageIdentities.accesskey "G">
+<!ENTITY manageIdentities.accesskey "d">
 <!ENTITY smtpName.label "Server in uscita (SMTP):">
 <!ENTITY smtpName.accesskey "u">
 <!ENTITY smtpDefaultServer.label "Utilizza il server predefinito">

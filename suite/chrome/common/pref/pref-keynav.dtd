@@ -13,4 +13,4 @@
 <!ENTITY browseWithCaretShortCut.label "Utilizzare F7 per (dis)abilitare la navigazione nel testo">
 <!ENTITY browseWithCaretShortCut.accesskey "F">
 <!ENTITY browseWithCaretWarn.label "Avvisami prima di attivare la navigazione nel testo">
-<!ENTITY browseWithCaretWarn.accesskey "A">
+<!ENTITY browseWithCaretWarn.accesskey "v">

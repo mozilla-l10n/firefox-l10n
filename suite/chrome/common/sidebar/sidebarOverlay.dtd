@@ -60,7 +60,7 @@
 <!ENTITY sidebar.pagenotfound.label "Questa scheda non è al momento disponibile.">
 <!ENTITY sidebar.close.tooltip "Chiudi Sidebar">
 <!ENTITY sidebar.open.tooltip "Apre la Sidebar">
-<!ENTITY sidebar.search.label "Cerca">
+<!ENTITY sidebar.search.label "Ricerca">
 <!ENTITY sidebar.client-bookmarks.label "Segnalibri">
 <!ENTITY sidebar.client-history.label "Cronologia">
 <!ENTITY sidebar.client-addressbook.label "Rubrica">
