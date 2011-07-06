@@ -26,10 +26,14 @@
 <!ENTITY cmd.findInBookmarks.accesskey "F">
 <!ENTITY cmd.findCurrent.label "현재 항목에서 찾기…">
 <!ENTITY cmd.findCurrent.accesskey "i">
-<!ENTITY cmd.exportHTML.label "HTML 내보내기…">
-<!ENTITY cmd.exportHTML.accesskey "E">
-<!ENTITY cmd.importHTML.label "HTML 가져오기…">
-<!ENTITY cmd.importHTML.accesskey "I">
+
+<!ENTITY importBookmarksFromHTML.label     "HTML에서 북마크 가져오기…">
+<!ENTITY importBookmarksFromHTML.accesskey "I">
+<!ENTITY exportBookmarksToHTML.label       "북마크를 HTML으로 내보내기…">
+<!ENTITY exportBookmarksToHTML.accesskey   "E">
+<!ENTITY importOtherBrowser.label          "다른 브라우저에서 가져오기…">
+<!ENTITY importOtherBrowser.accesskey      "A">
+
 <!ENTITY cmd.backup.label "백업하기…">
 <!ENTITY cmd.backup.accesskey "B">
 <!ENTITY cmd.restore2.label "복원하기">

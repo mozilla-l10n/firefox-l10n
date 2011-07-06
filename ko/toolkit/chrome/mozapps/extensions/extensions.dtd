@@ -179,3 +179,5 @@
 <!ENTITY eula.width                           "560px">
 <!ENTITY eula.height                          "400px">
 <!ENTITY eula.accept                          "동의 및 설치…">
+
+<!ENTITY settings.path.button.label           "찾아보기…">

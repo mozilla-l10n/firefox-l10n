@@ -48,8 +48,8 @@
 <!ENTITY  dontrememberActions.clearHistory.label "모든 방문 기록 삭제">
 <!ENTITY  dontrememberActions.post.label         ".">
 
-<!ENTITY  privateBrowsingPermanent.label "항상 사생활 보호 모드로만 이용">
-<!ENTITY  privateBrowsingPermanent.accesskey "P">
+<!ENTITY  privateBrowsingPermanent2.label "사생활 보호 모드로만 이용">
+<!ENTITY  privateBrowsingPermanent2.accesskey "p">
 
 <!ENTITY  rememberHistory.label      "방문 기록 저장">
 <!ENTITY  rememberHistory.accesskey  "h">
