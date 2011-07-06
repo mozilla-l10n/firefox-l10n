@@ -22,9 +22,9 @@
 <!ENTITY password.manage                 "Behandle passord …">
 
 <!ENTITY cookie.label                    "Sett infokapsler">
-<!ENTITY cookie.clear                    "Fjern infokapsler">
+<!ENTITY cookie.remove                   "Fjern infokapsler">
 <!ENTITY cookie.manage                   "Behandle infokapsler …">
-<!ENTITY cookie.clearAll                 "Slett alle infokapsler">
+<!ENTITY cookie.removeAll                "Fjern alle infokapsler">
 
 <!ENTITY geo.label                       "Del plassering">
 
