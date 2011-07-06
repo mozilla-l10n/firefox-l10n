@@ -28,10 +28,12 @@
 <!ENTITY cmd.findCurrent.label          "Finn i denne samlingen …">
 <!ENTITY cmd.findCurrent.accesskey      "i">
 
-<!ENTITY cmd.exportHTML.label           "Eksporter HTML …">
-<!ENTITY cmd.exportHTML.accesskey       "E">
-<!ENTITY cmd.importHTML.label           "Importer HTML …">
-<!ENTITY cmd.importHTML.accesskey       "I">
+<!ENTITY importBookmarksFromHTML.label     "Importer bokmerker fra …">
+<!ENTITY importBookmarksFromHTML.accesskey "I">
+<!ENTITY exportBookmarksToHTML.label       "Eksporter bokmerker til HTML …">
+<!ENTITY exportBookmarksToHTML.accesskey   "E">
+<!ENTITY importOtherBrowser.label          "Importer data fra en annen nettleser …">
+<!ENTITY importOtherBrowser.accesskey      "a">
 
 <!ENTITY cmd.backup.label               "Sikkerhetskopier …">
 <!ENTITY cmd.backup.accesskey           "S">
