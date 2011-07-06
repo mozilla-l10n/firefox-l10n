@@ -22,9 +22,9 @@
 <!ENTITY password.manage		"저장 중인 암호 목록…">
 
 <!ENTITY cookie.label			"쿠키(Cookie) 데이터 저장">
-<!ENTITY cookie.clear			"쿠키 삭제">
+<!ENTITY cookie.remove			"쿠키 제거">
 <!ENTITY cookie.manage			"쿠키 표시…">
-<!ENTITY cookie.clearAll		"모든 쿠키 삭제">
+<!ENTITY cookie.removeAll		"모든 쿠키 제거">
 
 <!ENTITY geo.label			"위치 정보 제공">
 
