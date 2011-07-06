@@ -2,7 +2,7 @@
 <!ENTITY message.label "Пример какого-либо текста.">
 <!ENTITY editfield0.label "Имя пользователя:">
 <!ENTITY editfield1.label "Пароль:">
-<!ENTITY checkbox.label "Установить флажок">
+<!ENTITY checkbox.label "установить">
 <!ENTITY copyCmd.label "Копировать">
 <!ENTITY copyCmd.accesskey "п">
 <!ENTITY selectAllCmd.label "Выделить всё">

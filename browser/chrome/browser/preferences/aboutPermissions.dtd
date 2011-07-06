@@ -12,9 +12,9 @@
 <!ENTITY password.label "Хранить пароли">
 <!ENTITY password.manage "Управление паролями…">
 <!ENTITY cookie.label "Устанавливать куки">
-<!ENTITY cookie.clear "Очистить куки">
+<!ENTITY cookie.remove "Удалить куки">
 <!ENTITY cookie.manage "Управление куками…">
-<!ENTITY cookie.clearAll "Очистить все куки">
+<!ENTITY cookie.removeAll "Удалить все куки">
 <!ENTITY geo.label "Узнавать местоположение">
 <!ENTITY indexedDB.label "Управлять автономным хранилищем">
 <!ENTITY popup.label "Открывать всплывающие окна">
