@@ -1,12 +1,15 @@
 <!-- extracted from content/openLocation.xul -->
 
 <!ENTITY enter.label "Voer de weblocatie (URL) in of specificeer het lokale bestand dat u wilt openen:">
+<!-- LOCALIZATION NOTE (enter.accesskey): should be present in both enter.label
+     as defined above and attachEnterLabel as defined in
+     openLocation.properties -->
 <!ENTITY enter.accesskey "V">
 <!ENTITY chooseFile.label "Bestand kiezen…">
 <!ENTITY chooseFile.accesskey "B">
 <!ENTITY newWindow.label "Nieuw browservenster">
 <!ENTITY newTab.label "Nieuw browsertabblad">
-<!ENTITY topWindow.label "Huidige browservenster">
+<!ENTITY currentTab.label "Huidige browsertabblad">
 <!ENTITY editNewWindow.label "Nieuw Composer-venster">
 <!ENTITY open.label "Openen">
 <!ENTITY caption.label "Weblocatie openen">
