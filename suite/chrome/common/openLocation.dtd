@@ -4,7 +4,7 @@
 <!ENTITY chooseFile.accesskey "ы">
 <!ENTITY newWindow.label "В новом окне браузера">
 <!ENTITY newTab.label "В новой вкладке браузера">
-<!ENTITY topWindow.label "В этом окне браузера">
+<!ENTITY currentTab.label "В этой вкладке браузера">
 <!ENTITY editNewWindow.label "В новом окне Компоновщика">
 <!ENTITY open.label "Открыть">
 <!ENTITY caption.label "Открытие веб-адреса">

@@ -1,6 +1,0 @@
-<!--null-->
-<!ENTITY caption.label "Вложить веб-страницу">
-<!ENTITY enter.label "Введите адрес в Интернете (URL) или укажите файл на диске, который хотите вложить:">
-<!ENTITY enter.accesskey "В">
-<!ENTITY chooseFile.label "Выбрать файл…">
-<!ENTITY chooseFile.accesskey "б">
