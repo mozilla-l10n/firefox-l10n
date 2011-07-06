@@ -106,6 +106,7 @@
 <!ENTITY pageactions.saveas.pdf      "Opslaan als PDF">
 <!ENTITY pageactions.share.page      "Pagina delen">
 <!ENTITY pageactions.password.forget "Wachtwoord vergeten">
+<!ENTITY pageactions.quit            "Afsluiten">
 <!ENTITY pageactions.reset           "Websitevoorkeuren wissen">
 <!ENTITY pageactions.findInPage      "Zoeken op pagina">
 <!ENTITY pageactions.search.addNew   "Zoekmachine toevoegen">
