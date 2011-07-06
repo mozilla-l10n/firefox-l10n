@@ -63,8 +63,6 @@
 <!ENTITY printCmd.label "මුද්‍රණය...">
 <!ENTITY printCmd.accesskey "P">
 <!ENTITY printCmd.commandkey "p">
-<!ENTITY import.label "ආයාත...">
-<!ENTITY import.accesskey "I">
 
 <!ENTITY goOfflineCmd.label "නොබැඳිව ක්‍රියා කරන්න">
 <!ENTITY goOfflineCmd.accesskey "W">
@@ -391,7 +389,6 @@ Entities below were automatically added by compare-locales,
 
 <!ENTITY appMenuCustomize.label "රිසිකරණය">
 <!ENTITY bookmarksGtkCmd.commandkey "o">
-<!ENTITY inspectStylePanelTitle.label "මෝස්තරය">
 <!ENTITY fullScreenButton.tooltip "කවුළුව තිරය පුරා විහිඳුවන්න">
 <!ENTITY addonBarCmd.label "ඇඩෝන තීරය">
 <!ENTITY fullScreenCmd.macCommandKey "f">
@@ -421,7 +418,6 @@ Entities below were automatically added by compare-locales,
 <!ENTITY moveToNewWindow.accesskey "W">
 <!ENTITY viewBookmarksToolbar.label "පිටුලකුණු මෙවලම්තීරුව පෙන්වන්න">
 <!ENTITY menubarCmd.label "මෙනු තීරුව">
-<!ENTITY inspectNextButton.label "ඊළඟ">
 <!ENTITY moveToNewGroup.label "නව සමූහය">
 <!ENTITY showAllTabsCmd.accesskey "A">
 <!ENTITY appMenuButton.tooltip "&brandShortName; මෙනුව විවෘත කරන්න">
@@ -432,7 +428,6 @@ Entities below were automatically added by compare-locales,
 <!ENTITY appMenuSafeMode.accesskey "R">
 <!ENTITY inspectButton.label "පරීක්ෂා කරන්න">
 <!ENTITY backForwardItem.title "පසුපසට/ඉදිරියට">
-<!ENTITY inspectPreviousButton.accesskey "P">
 <!ENTITY historyRestoreLastSession.label "පෙර සැසිය ප්‍රතිස්ථාපනය කරන්න">
 <!ENTITY webConsoleCmd.accesskey "W">
 <!ENTITY clearRecentHistory.accesskey "H">
@@ -454,22 +449,18 @@ Entities below were automatically added by compare-locales,
 <!ENTITY moveToGroup.label "සමූහයට යන්න">
 <!ENTITY closeTab.label "ටැබ වසන්න">
 <!ENTITY pinAppTab.label "Pin as App Tab">
-<!ENTITY inspectStyleButton.accesskey "S">
 <!ENTITY webConsoleCmd.label "වෙබ් කොන්සෝලය">
 <!ENTITY viewTabsOnTop.label "මුදුනෙහිම ඇති ටැබ්">
 <!ENTITY viewTabGroups.label "ටැබ් සමූහ">
 <!ENTITY urlbar.switchToTab.label "ටැබයට මාරුවෙන්න:">
-<!ENTITY inspectPreviousButton.label "පෙර">
 <!ENTITY appMenuSafeMode.label "ඇඩෝන අබල (Disable) කර යළි-අරඹන්න…">
 <!ENTITY addons.commandkey "A">
 <!ENTITY tabGroupsButton.tooltip "ඔබගේ ටැබ් සමූහගත කරන්න">
 <!ENTITY allTabs.filter.emptyText "ටැබ් සොයන්න">
 <!ENTITY reloadTab.label "ටැබ් ප්‍රතිපූරණය කරන්න">
 <!ENTITY appMenuWebDeveloper.label "වෙබ් සංවර්ධකයා">
-<!ENTITY inspectObjectButton.label "Object">
 <!ENTITY viewTabGroups.accesskey "G">
 <!ENTITY viewTabsOnTop.accesskey "T">
-<!ENTITY inspectNextButton.accesskey "N">
 <!ENTITY moveToGroup.accesskey "M">
 <!ENTITY syncTabsMenu.label "වෙනත් පරිගණකයන්ගෙන් ටැබ්">
 <!ENTITY bookmarksMenuButton.tooltip "ඔබගේ පිටුසළකුණු පෙන්වන්න">
@@ -482,14 +473,12 @@ Entities below were automatically added by compare-locales,
 <!ENTITY videoFullScreen.accesskey "F">
 <!ENTITY tabsToolbar.label "ගවේෂක ටැබ්">
 <!ENTITY feedButton.tooltip "මෙම පිටුවට දායකත්වය ලබාගන්න…">
-<!ENTITY inspectStyleButton.label "මෝස්තරය">
 <!ENTITY showAllTabsCmd.label "සියළු ටැබ් පෙන්වන්න">
 <!ENTITY unpinAppTab.label "Unpin Tab">
 <!ENTITY reloadAllTabs.label "සියළු ටැබ් ප්‍රතිපූරණය කරන්න">
 <!ENTITY closeTab.accesskey "c">
 <!ENTITY showAllBookmarks2.label "සියළු පිටුසලකුණු පෙන්වන්න…">
 <!ENTITY inspectMenu.label "පරීක්ෂා කරන්න">
-<!ENTITY inspectObjectButton.accesskey "O">
 <!ENTITY clearRecentHistory.label "මෑතකාලීන මතකය හිස් කරන්න…">
 <!ENTITY zoomOutButton.tooltip "කුඩා කරන්න">
 <!ENTITY bookmarksCmd.commandkey "b">

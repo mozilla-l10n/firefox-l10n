@@ -89,8 +89,6 @@ Entities below were automatically added by compare-locales,
 -->
 
 <!ENTITY rememberHistory.label "මගේ ගවේෂණ ඉතිහාසය මතක තබාගන්න">
-<!ENTITY privateBrowsingPermanent.accesskey "P">
-<!ENTITY privateBrowsingPermanent.label "පෞද්ගලික ගවේෂණාකාරය ස්ථිර ලෙසම">
 <!ENTITY rememberHistory.accesskey "b">
 
 

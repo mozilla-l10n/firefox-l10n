@@ -22,9 +22,7 @@
 <!ENTITY password.manage                 "රයස්පද කළමනාකරණය…">
 
 <!ENTITY cookie.label                    "කුකීස් සකසන්න">
-<!ENTITY cookie.clear                    "කුකීස් හිස් කරන්න">
 <!ENTITY cookie.manage                   "කුකීස් කළමනාකරණය…">
-<!ENTITY cookie.clearAll                 "සියළු කුකීස් හිස් කරන්න">
 
 <!ENTITY geo.label                       "Share Location">
 

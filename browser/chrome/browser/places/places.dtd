@@ -25,11 +25,6 @@
 <!ENTITY cmd.findCurrent.label          "දැනට ඇති එකතුව තුළ සොයන්න…">
 <!ENTITY cmd.findCurrent.accesskey      "i">
 
-<!ENTITY cmd.exportHTML.label      "නිර්යාත…">
-<!ENTITY cmd.exportHTML.accesskey  "E">
-<!ENTITY cmd.importHTML.label      "ආයාත…">
-<!ENTITY cmd.importHTML.accesskey  "I">
-
 <!ENTITY cmd.backup.label               "රක්‍ෂිතය…">
 <!ENTITY cmd.backup.accesskey           "B">
 <!ENTITY cmd.restore2.label              "යාළි පිහිටුවන්න…">
