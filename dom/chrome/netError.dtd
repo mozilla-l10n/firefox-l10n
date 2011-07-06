@@ -25,8 +25,7 @@
 <!ENTITY netInterrupt.longDesc "<p>Nettleseren klarte å koble til tjeneren, men tilkoblingen ble avbrutt ved overføring av informasjon. Prøv igjen.</p><ul><li>Klarer du å åpne andre nettsider? Kontroller datamaskinens nettverkstilkobling.</li><li>Har du fortsatt problem? Henvend deg til nettverksansvarlig eller Internett-tilbyder for mer hjelp.</li></ul>">
 
 <!ENTITY netOffline.title "Frakoblet tilstand">
-<!ENTITY netOffline.longDesc "<p>Nettleseren er i frakoblet modus, og kan ikke koble til tjeneren.</p><ul><li>Er datamaskinen koblet til et aktivt nettverk?</li><li>Sett nettleseren i tilkoblet modus og prøv igjen.</li></ul>">
-<!ENTITY netOffline.overrideLongDesc "<p>Nettleseren er i frakoblet modus, og kan ikke koble til tjeneren.</p><ul><li>Er datamaskinen koblet til et aktivt nettverk?</li><li>Sett nettleseren i tilkoblet modus og prøv igjen.</li></ul>">
+<!ENTITY netOffline.longDesc2 "<p>Nettleseren er i frakoblet modus, og kan ikke koble til tjeneren.</p><ul><li>Er datamaskinen koblet til et aktivt nettverk?</li><li>Trykk «Prøv igjen» for å bytte til tilkoblet modus og laste siden på nytt.</li></ul>">
 
 <!ENTITY contentEncodingError.title "Feil med tegnkoding">
 <!ENTITY contentEncodingError.longDesc "<p>Nettsiden du forsøker å åpne kan ikke vises fordi den bruker en ukjent eller ugyldig komprimeringsmetode.</p><ul><li>Kontakt den ansvarlige for nettstedet og informer dem om problemet.</li></ul>">
