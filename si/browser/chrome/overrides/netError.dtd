@@ -156,11 +156,6 @@ Entities below were automatically added by compare-locales,
  based on en-US entities.
 -->
 
-<!ENTITY netOffline.overrideLongDesc "
-<ul>
-  <li> &quot;අසම්බන්ධිතව වැඩකරන්න&quot; මෙනු අයිතමයේ සළකුණු හැර යළි උත්සාහ කරන්න.</li>
-</ul>
-">
 <!ENTITY securityOverride.warningContent "
 <p>ඔබ පූර්ණ විශ්වාසයක් නොමැති අන්තර්ජාල සම්බන්ධතාවයක් භාවිතා කරයි නම් හෝ ඔබ මෙම අඩවියට අවවාද පණිවිඩ දැක නැත්නම් ඔබ හැරදැමීම් එක් කළ නොකළ යුතුයි.</p>
 

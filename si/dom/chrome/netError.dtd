@@ -25,8 +25,6 @@
 <!ENTITY netInterrupt.longDesc "<p>ගවේෂකය සාර්ථකව සම්බන්ධ වුවත් දත්ත හුවමාරුවේදි සම්බන්ධතාවට බාධා ඇති විය. කරුණාකර යළි උත්සාහ කරන්න.</p><ul><li>ඔබට වෙනත් අඩවි ගවේෂණය කළ නොහැකිද? පරිගණකයේ ජාල සම්බධතාව පරික්‍ෂා කරන්න.</li><li>ගැටලුව තවදුරටත් පවතීද? සහාය සඳහා ඔබගේ ජාල පරිපාලකගේ හෝ අන්තර්ජාල සැපයුම්කරුගේ උපදෙස් පතන්න.</li></ul>">
 
 <!ENTITY netOffline.title "නොබැඳි ආකාරය">
-<!ENTITY netOffline.longDesc "<p>ගවේශකය නොබැඳි ආකාරයේ ක්‍රියාත්මක වන අතර ඉල්ලූ අයිතමය වෙතට සම්බන්ධ විය නොහැක.</p><ul><li>පරිගණකය සක්‍රීය ජාලයකට සම්බන්ධ වී තිබේද?</li><li>ගවේශකය සබැඳි ආකාරයට සකසා යළි උත්සාහ කරන්න.</li></ul>">
-
 <!ENTITY contentEncodingError.title "අන්තර්ගතයේ සංකේතාංකණ දෝෂයක්">
 <!ENTITY contentEncodingError.longDesc "<p>ඔබ බැලීමට උත්සාහ කරන පිටුව පෙන්විය නොහැක, මන්ද එය සාවද්‍ය හෝ සහාය නොදක්වන සංකේතාකන ක්‍රමයක් භාවිත කරයි.</p><ul><li>කරුණාකර අඩවියේ හිමිකරුට මෙම ගැටලුව දන්වා සිටින්න.</li></ul>">
 
@@ -90,7 +88,6 @@ Entities below were automatically added by compare-locales,
  based on en-US entities.
 -->
 
-<!ENTITY netOffline.overrideLongDesc "<p>The browser is operating in its offline mode and cannot connect to the requested item.</p><ul><li>Is the computer connected to an active network?</li><li>Place the browser in online mode and try again.</li></ul>">
 <!ENTITY cspFrameAncestorBlocked.longDesc "<p>The browser prevented this page from loading in this way because the page has a content security policy that disallows it.</p>">
 <!ENTITY cspFrameAncestorBlocked.title "Blocked by Content Security Policy">
 
