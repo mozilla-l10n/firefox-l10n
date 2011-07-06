@@ -116,3 +116,12 @@
 <!ENTITY deferStorage.accesskey "G">
 <!ENTITY clickFinish.label "නිමි ‌බොත්තම මත ක්ලික් කිරී‌මෙන් ‌මෙම ‌තොරතූරු සුරැකීමට හා ගිණුම් විශාරද ක්‍රියාවලියෙන් ඔබට ඉවත්විය හැකිය.">
 <!ENTITY clickFinish.labelMac "කළා බොත්තම මත ක්ලික් කිරී‌මෙන් ‌මෙම ‌තොරතූරු සුරැකීමට හා ගිණුම් විශාරද ක්‍රියාවලියෙන් ඔබට ඉවත්විය හැකිය.">
+
+
+<!--
+Entities below were automatically added by compare-locales,
+ based on en-US entities.
+-->
+
+<!ENTITY leaveMsgsOnSrvr.label "Leave messages on server">
+<!ENTITY leaveMsgsOnSrvr.accesskey "L">

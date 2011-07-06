@@ -180,3 +180,17 @@ Entities below were automatically added by compare-locales,
 <!ENTITY cspFrameAncestorBlocked.longDesc "<p>මේ සඳහා ඉඩ නොදෙන අන්තර්ගත ආරක්ෂක ප්‍රතිපත්තියක් පිටුවේ ඇති නිසා  &brandShortName; මේ ආකාරයෙන් පූරණය කිරීමෙන් වැලකී සිටී.</p>">
 <!ENTITY remoteXUL.longDesc "<p><ul><li>කරුණාකර මෙම ගැටලුව පිළිබද අඩවියේ හිමිකරුට දන්වන්න.</li></ul></p>">
 <!ENTITY cspFrameAncestorBlocked.title "ආරක්ෂක ප්‍රතිපත්තියට අනුව අවහිර කර ඇත">
+
+
+<!--
+Entities below were automatically added by compare-locales,
+ based on en-US entities.
+-->
+
+<!ENTITY corruptedContentError.longDesc "<p>The content you are trying to view cannot be shown because an error in the data transmission was detected.</p><ul><li>Please contact the owners to inform them of this problem.</li></ul>">
+<!ENTITY corruptedContentError.title "Corrupted Content Error">
+<!ENTITY netOffline.longDesc2 "
+<ul>
+  <li>Press &quot;Try Again&quot; to switch to online mode and reload the page.</li>
+</ul>
+">
