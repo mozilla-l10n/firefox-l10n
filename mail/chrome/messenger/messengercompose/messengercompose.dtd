@@ -202,7 +202,7 @@
 <!-- Headers -->
 <!--LOCALIZATION NOTE headersSpace.style is for aligning  the From:, To: and
     Subject: rows. It should be larger than the largest Header label  -->
-<!ENTITY headersSpace.style "width: 12em;">
+<!ENTITY headersSpace.style "width: 10em;">
 <!ENTITY fromAddr.label "Von:">
 <!ENTITY fromAddr.accesskey "V">
 <!ENTITY toAddr.label "An:">
