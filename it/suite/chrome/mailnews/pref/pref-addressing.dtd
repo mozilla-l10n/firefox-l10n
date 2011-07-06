@@ -11,7 +11,7 @@
 <!ENTITY addressingEnable.accesskey "R">
 <!ENTITY autocompleteText.label "Durante l'immissione dei destinatari, cerca indirizzi corrispondenti in:">
 <!ENTITY directories.label "Rubrica remota:">
-<!ENTITY directories.accesskey "R">
+<!ENTITY directories.accesskey "u">
 <!ENTITY directoriesNone.label "Nessuno">
 <!ENTITY editDirectories.label "Modifica rubrica…">
 <!ENTITY editDirectories.accesskey "M">

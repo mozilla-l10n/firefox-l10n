@@ -2,13 +2,13 @@
 <!ENTITY pref.proxies.desc "Un proxy è un servizio di rete che può filtrare e velocizzare la connessione ad Internet.">
 <!ENTITY proxyTitle.label "Configurazione dei proxy per l'accesso ad Internet">
 <!ENTITY directTypeRadio.label "Connessione diretta ad Internet">
-<!ENTITY directTypeRadio.accesskey "C">
+<!ENTITY directTypeRadio.accesskey "d">
 <!ENTITY systemTypeRadio.label "Utilizza le impostazioni proxy di sistema">
 <!ENTITY systemTypeRadio.accesskey "U">
 <!ENTITY manualTypeRadio.label "Configurazione manuale del proxy:">
-<!ENTITY manualTypeRadio.accesskey "C">
+<!ENTITY manualTypeRadio.accesskey "m">
 <!ENTITY wpadTypeRadio.label "Scopri automaticamente la configurazione proxy">
-<!ENTITY wpadTypeRadio.accesskey "S">
+<!ENTITY wpadTypeRadio.accesskey "a">
 <!ENTITY autoTypeRadio.label "Configurazione automatica del proxy (URL):">
 <!ENTITY autoTypeRadio.accesskey "C">
 <!ENTITY reload.label "Ricarica">

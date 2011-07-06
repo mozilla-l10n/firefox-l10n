@@ -12,13 +12,13 @@
 <!ENTITY webDevelopment.label "Strumenti web">
 <!ENTITY webDevelopment.accesskey "S">
 <!ENTITY windowMenu.label "Finestre">
-<!ENTITY windowMenu.accesskey "F">
+<!ENTITY windowMenu.accesskey "n">
 <!ENTITY tasksMenu.label "Strumenti">
 <!ENTITY tasksMenu.accesskey "S">
 <!ENTITY datamanCmd.label "Gestione dati moduli">
-<!ENTITY datamanCmd.accesskey "G">
+<!ENTITY datamanCmd.accesskey "d">
 <!ENTITY passwordManagerCmd.label "Gestione password">
-<!ENTITY passwordManagerCmd.accesskey "G">
+<!ENTITY passwordManagerCmd.accesskey "w">
 <!ENTITY passwordDisplayCmd.label "Gestione password memorizzate">
 <!ENTITY passwordDisplayCmd.accesskey "G">
 <!ENTITY passwordExpireCmd.label "Chiedi nuovamente accesso">
@@ -27,7 +27,7 @@
 <!ENTITY downloadManagerCmd.accesskey "G">
 <!ENTITY downloadManagerCmd.commandkey "j">
 <!ENTITY addOnsManagerCmd.label "Componenti aggiuntivi">
-<!ENTITY addOnsManagerCmd.accesskey "C">
+<!ENTITY addOnsManagerCmd.accesskey "A">
 <!ENTITY addOnsManagerCmd.commandkey "a">
 <!ENTITY switchProfileCmd.label "Passa al profilo…">
 <!ENTITY switchProfileCmd.accesskey "P">
@@ -35,4 +35,4 @@
 <!ENTITY syncSetup.label "Configura Sync…">
 <!ENTITY syncSetup.accesskey "C">
 <!ENTITY syncSyncNowItem.label "Sincronizza adesso">
-<!ENTITY syncSyncNowItem.accesskey "S">
+<!ENTITY syncSyncNowItem.accesskey "z">

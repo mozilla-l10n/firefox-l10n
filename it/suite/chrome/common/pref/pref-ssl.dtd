@@ -48,9 +48,9 @@
 <!ENTITY warn.enteringsecure "Caricare una pagina che gestisce la cifratura">
 <!ENTITY warn.enteringsecure.accesskey "C">
 <!ENTITY warn.enteringweak "Caricare una pagina che usa una cifratura poco efficace">
-<!ENTITY warn.enteringweak.accesskey "C">
+<!ENTITY warn.enteringweak.accesskey "a">
 <!ENTITY warn.insecurepost "Inviare dati di un modulo da una pagina non sicura ad un'altra non sicura">
-<!ENTITY warn.insecurepost.accesskey "I">
+<!ENTITY warn.insecurepost.accesskey "n">
 <!ENTITY warn.leavingsecure "Uscire da una pagina sicura">
 <!ENTITY warn.leavingsecure.accesskey "U">
 <!ENTITY warn.viewmixed "Visualizzare una pagina con parti sicure miste a parti non sicure">
@@ -59,4 +59,4 @@
 <!ENTITY certselect.auto "Seleziona automaticamente">
 <!ENTITY certselect.auto.accesskey "S">
 <!ENTITY certselect.ask "Chiedi ogni volta">
-<!ENTITY certselect.ask.accesskey "C">
+<!ENTITY certselect.ask.accesskey "h">

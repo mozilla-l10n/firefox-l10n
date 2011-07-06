@@ -10,10 +10,10 @@
 <!ENTITY remove.label "Elimina">
 <!ENTITY remove.accesskey "E">
 <!ENTITY edit.label "Modifica parola chiave…">
-<!ENTITY edit.accesskey "M">
+<!ENTITY edit.accesskey "h">
 <!ENTITY addEngine.label "Aggiungi motori di ricerca…">
 <!ENTITY addEngine.accesskey "A">
 <!ENTITY enableSuggest.label "Mostra suggerimenti ricerca">
-<!ENTITY enableSuggest.accesskey "M">
+<!ENTITY enableSuggest.accesskey "s">
 <!ENTITY restoreDefaults.label "Impostazioni predefinite">
 <!ENTITY restoreDefaults.accesskey "I">

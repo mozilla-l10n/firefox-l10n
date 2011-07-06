@@ -14,11 +14,11 @@
 <!ENTITY never.label "Non restituire mai una ricevuta">
 <!ENTITY never.accesskey "N">
 <!ENTITY notInToCc.label "Se il proprio indirizzo non compare in A: o Cc:">
-<!ENTITY notInToCc.accesskey "S">
+<!ENTITY notInToCc.accesskey "o">
 <!ENTITY outsideDomain.label "Se il mittente non appartiene al proprio dominio:">
-<!ENTITY outsideDomain.accesskey "S">
+<!ENTITY outsideDomain.accesskey "e">
 <!ENTITY otherCases.label "Negli altri casi:">
-<!ENTITY otherCases.accesskey "N">
+<!ENTITY otherCases.accesskey "c">
 <!ENTITY askMe.label "Chiedi">
 <!ENTITY alwaysSend.label "Invia sempre">
 <!ENTITY neverSend.label "Non inviare">

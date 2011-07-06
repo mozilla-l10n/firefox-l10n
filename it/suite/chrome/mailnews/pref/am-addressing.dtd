@@ -1,30 +1,30 @@
 <!ENTITY addressing.label "Composizione ed indirizzi">
 <!ENTITY addressingGroupTitle.label "Indirizzi">
 <!ENTITY autocompleteToMyDomain.label "Aggiungere in automatico il proprio dominio agli indirizzi">
-<!ENTITY autocompleteToMyDomain.accesskey "A">
+<!ENTITY autocompleteToMyDomain.accesskey "r">
 <!ENTITY addressingText.label "Per la ricerca di indirizzi:">
 <!ENTITY useGlobal.label "Utilizza le preferenze globali per il server LDAP">
 <!ENTITY useGlobal.accesskey "U">
 <!ENTITY editDirectories.label "Modifica rubrica…">
 <!ENTITY editDirectories.accesskey "M">
 <!ENTITY directories.label "Utilizza un server LDAP differente:">
-<!ENTITY directories.accesskey "U">
+<!ENTITY directories.accesskey "L">
 <!ENTITY directoriesNone.label "Nessuno">
 <!ENTITY compositionGroupTitle.label "Composizione">
 <!ENTITY useHtml.label "Componi i messaggi in formato HTML">
-<!ENTITY useHtml.accesskey "C">
+<!ENTITY useHtml.accesskey "h">
 <!ENTITY autoQuote.label "Alla risposta, cita automaticamente il messaggio originale">
-<!ENTITY autoQuote.accesskey "A">
+<!ENTITY autoQuote.accesskey "c">
 <!ENTITY then.label "Quindi,">
 <!ENTITY then.accesskey "Q">
 <!ENTITY aboveQuote.label "inizia la risposta sopra il testo citato">
 <!ENTITY belowQuote.label "inizia la risposta sotto il testo citato">
 <!ENTITY selectAndQuote.label "seleziona il testo citato">
 <!ENTITY place.label "ed inserisci la mia firma">
-<!ENTITY place.accesskey "e">
+<!ENTITY place.accesskey "f">
 <!ENTITY belowText.label "sotto il testo citato (raccomandato)">
 <!ENTITY aboveText.label "sotto la risposta (sopra il testo citato)">
 <!ENTITY includeSigOnReply.label "Includi la firma nelle risposte">
-<!ENTITY includeSigOnReply.accesskey "I">
+<!ENTITY includeSigOnReply.accesskey "n">
 <!ENTITY includeSigOnForward.label "Includi la firma nei messaggi inoltrati">
-<!ENTITY includeSigOnForward.accesskey "I">
+<!ENTITY includeSigOnForward.accesskey "d">

@@ -8,10 +8,10 @@
 <!ENTITY locationBarHistory.caption "Cronologia barra degli indirizzi">
 <!ENTITY clearLocationBar.label "Elimina la lista di siti memorizzata nel menu della barra degli indirizzi.">
 <!ENTITY clearLocationBarButton.label "Svuota barra degli indirizzi">
-<!ENTITY clearLocationBarButton.accesskey "S">
+<!ENTITY clearLocationBarButton.accesskey "b">
 <!ENTITY formfillHistory.caption "Cronologia moduli e ricerca">
 <!ENTITY enableFormfill.label "Attiva cronologia moduli e ricerca">
 <!ENTITY enableFormfill.accesskey "A">
 <!ENTITY formfillExpire.label "Ricorda cronologia moduli e ricerca per">
-<!ENTITY formfillExpire.accesskey "R">
+<!ENTITY formfillExpire.accesskey "c">
 <!ENTITY formfillDays.label "giorni">

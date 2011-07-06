@@ -43,10 +43,10 @@
 <!ENTITY resetToolbars.label "Ripristina le barre degli strumenti e i controlli">
 <!ENTITY resetToolbars.accesskey "R">
 <!ENTITY deleteBookmarks.label "Elimina tutti i segnalibri ad eccezione dei backup">
-<!ENTITY deleteBookmarks.accesskey "E">
+<!ENTITY deleteBookmarks.accesskey "s">
 <!ENTITY resetUserPrefs.label "Ripristina le preferenze predefinite di &brandShortName;">
-<!ENTITY resetUserPrefs.accesskey "R">
+<!ENTITY resetUserPrefs.accesskey "t">
 <!ENTITY restoreSearch.label "Ripristina i motori di ricerca predefiniti">
-<!ENTITY restoreSearch.accesskey "R">
+<!ENTITY restoreSearch.accesskey "n">
 <!ENTITY changeAndRestartButton.label "Applica le modifiche e riavvia">
 <!ENTITY continueButton.label "Continua in modalità provvisoria">
