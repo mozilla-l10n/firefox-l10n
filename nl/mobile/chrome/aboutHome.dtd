@@ -8,3 +8,4 @@
 <!ENTITY aboutHome.openAllTabs                  "Alle openen in tabbladen">
 <!ENTITY aboutHome.noTabs                       "Geen tabbladen van de vorige keer">
 <!ENTITY aboutHome.noAddons                     "Geen aanbevolen add-ons">
+<!ENTITY aboutHome.getLocale                    "Taal wijzigen">
