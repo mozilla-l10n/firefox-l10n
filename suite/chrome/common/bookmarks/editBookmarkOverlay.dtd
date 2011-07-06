@@ -1,9 +1,9 @@
 <!ENTITY editBookmarkOverlay.name.label "Nome:">
-<!ENTITY editBookmarkOverlay.name.accesskey "o">
+<!ENTITY editBookmarkOverlay.name.accesskey "N">
 <!ENTITY editBookmarkOverlay.location.label "Posizione:">
 <!ENTITY editBookmarkOverlay.location.accesskey "P">
 <!ENTITY editBookmarkOverlay.feedLocation.label "Indirizzo feed:">
-<!ENTITY editBookmarkOverlay.feedLocation.accesskey "r">
+<!ENTITY editBookmarkOverlay.feedLocation.accesskey "I">
 <!ENTITY editBookmarkOverlay.siteLocation.label "Indirizzo:">
 <!ENTITY editBookmarkOverlay.siteLocation.accesskey "I">
 <!ENTITY editBookmarkOverlay.folder.label "Cartella:">
@@ -13,12 +13,12 @@
 <!ENTITY editBookmarkOverlay.tags.accesskey "E">
 <!ENTITY editBookmarkOverlay.tagsEmptyDesc.label "Separare più etichette con una virgola">
 <!ENTITY editBookmarkOverlay.description.label "Descrizione:">
-<!ENTITY editBookmarkOverlay.description.accesskey "z">
+<!ENTITY editBookmarkOverlay.description.accesskey "D">
 <!ENTITY editBookmarkOverlay.keyword.label "Parole chiave">
-<!ENTITY editBookmarkOverlay.keyword.accesskey "h">
+<!ENTITY editBookmarkOverlay.keyword.accesskey "P">
 <!ENTITY editBookmarkOverlay.tagsExpanderDown.tooltip "Mostra tutte le etichette">
 <!ENTITY editBookmarkOverlay.loadInSidebar.label "Carica questo segnalibro nella barra laterale">
-<!ENTITY editBookmarkOverlay.loadInSidebar.accesskey "b">
+<!ENTITY editBookmarkOverlay.loadInSidebar.accesskey "C">
 <!ENTITY editBookmarkOverlay.choose.label "Scegli…">
 <!ENTITY editBookmarkOverlay.newFolderButton.label "Nuova cartella">
 <!ENTITY editBookmarkOverlay.newFolderButton.accesskey "N">

@@ -5,9 +5,9 @@
 <!ENTITY accountTypeDesc.label "Questa creazione guidata raccoglierà le informazioni necessarie alla creazione di un account di posta o per i gruppi di discussione. Se non si fosse a conoscenza di alcune delle informazioni richieste, contattare il proprio amministratore di sistema o fornitore di servizio.">
 <!ENTITY accountTypeDirections.label "Seleziona il tipo di account da configurare:">
 <!ENTITY accountTypeMail.label "Account di posta">
-<!ENTITY accountTypeMail.accesskey "c">
+<!ENTITY accountTypeMail.accesskey "A">
 <!ENTITY accountTypeNews.label "Account gruppi di discussione">
-<!ENTITY accountTypeNews.accesskey "d">
+<!ENTITY accountTypeNews.accesskey "A">
 <!ENTITY identityTitle.label "Identità">
 <!ENTITY identityDesc.label "Ogni account ha una identità che è l'informazione che permette a chi riceve i tuoi messaggi di identificarti.">
 <!ENTITY fullnameDesc.label "Inserire il nome che apparirà nel campo &quot;Da:&quot; dei propri messaggi in uscita">
@@ -15,8 +15,8 @@
 <!ENTITY fullnameLabel.label "Nome:">
 <!ENTITY fullnameLabel.accesskey "N">
 <!ENTITY emailLabel.label "Indirizzo e-mail:">
-<!ENTITY emailLabel.accesskey "e">
-<!ENTITY serverTitle.label "Informazioni sul server">
+<!ENTITY emailLabel.accesskey "I">
+<!ENTITY serverTitle.label "Informazioni server">
 <!ENTITY incomingServerTypeDesc.label "Selezionare il tipo di server in ingresso utilizzato.">
 <!ENTITY incomingServerNameDesc.label "Inserire il nome del server in ingresso (ad esempio, &quot;mail.esempio.it&quot;).">
 <!ENTITY incomingServerLabel.label "Server in ingresso:">
@@ -24,7 +24,7 @@
 <!ENTITY newsServerNameDesc.label "Inserire il nome del server per i gruppi di discussione (NNTP) (ad esempio, &quot;news.esempio.it&quot;).">
 <!ENTITY smtpServerDesc.label "Inserire il nome del server in uscita (SMTP) (ad esempio, &quot;smtp.esempio.it&quot;).">
 <!ENTITY smtpServerLabel.label "Server in uscita:">
-<!ENTITY smtpServerLabel.accesskey "u">
+<!ENTITY smtpServerLabel.accesskey "S">
 <!ENTITY newsServerLabel.label "Server gruppi discussione:">
 <!ENTITY newsServerLabel.accesskey "S">
 <!ENTITY imapType.label "IMAP">
@@ -42,7 +42,7 @@
 <!ENTITY usernameLabel.accesskey "N">
 <!ENTITY usernameSmtpDesc.label "Inserire il nome utente in uscita comunicato dal proprio fornitore di e-mail (di solito è lo stesso del nome utente in ingresso).">
 <!ENTITY usernameSmtpLabel.label "Nome utente in uscita:">
-<!ENTITY usernameSmtpLabel.accesskey "o">
+<!ENTITY usernameSmtpLabel.accesskey "N">
 <!ENTITY haveSmtp2.prefix "L'attuale nome utente per il server in uscita (SMTP), &quot;">
 <!ENTITY haveSmtp2.suffix2 "&quot;, verrà usato. Puoi modificare le impostazioni del server in uscita scegliendo Configurazione account dal menu Modifica di Posta e gruppi di discussione.">
 <!ENTITY haveSmtp3.prefix "Il server in uscita (SMTP), &quot;">

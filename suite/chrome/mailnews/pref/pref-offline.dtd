@@ -16,16 +16,16 @@
 <!ENTITY radioAskUnsent.accesskey "C">
 <!ENTITY textGoingOffline "Scaricare i messaggi per l'uso non in linea quando si va non in linea?">
 <!ENTITY radioAutoDownload "Sì">
-<!ENTITY radioAutoDownload.accesskey "ì">
+<!ENTITY radioAutoDownload.accesskey "S">
 <!ENTITY radioNotDownload "No">
 <!ENTITY radioNotDownload.accesskey "o">
 <!ENTITY radioAskDownload "Chiedi">
-<!ENTITY radioAskDownload.accesskey "h">
+<!ENTITY radioAskDownload.accesskey "C">
 <!ENTITY mailConnections.caption "Connessioni di posta">
 <!ENTITY mailnewsTimeout.label "Tempo limite connessione:">
 <!ENTITY mailnewsTimeout.accesskey "T">
 <!ENTITY mailnewsTimeoutSeconds.label "secondi">
 <!ENTITY Diskspace "Spazio su disco">
 <!ENTITY offlineCompact.label "Compatta le cartelle quando contengono più di">
-<!ENTITY offlineCompact.accesskey "m">
+<!ENTITY offlineCompact.accesskey "C">
 <!ENTITY mb.label "MB">

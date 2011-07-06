@@ -6,7 +6,7 @@
 <!ENTITY preserveThreading.label "Mantieni la divisione per argomenti durante l'ordinamento dei messaggi">
 <!ENTITY preserveThreading.accesskey "M">
 <!ENTITY mailBiffOnNewWindow.label "Controlla i nuovi messaggi solo dopo l'apertura di Posta e gruppi di discussione">
-<!ENTITY mailBiffOnNewWindow.accesskey "o">
+<!ENTITY mailBiffOnNewWindow.accesskey "C">
 <!ENTITY defaultMailSettings.description "Rendi &brandShortName; l'applicazione predefinita per:">
 <!ENTITY setDefaultMail.label "Posta">
 <!ENTITY setDefaultMail.accesskey "P">
@@ -17,9 +17,9 @@
 <!ENTITY messengerStartPage.caption "Pagina di avvio Posta">
 <!ENTITY enableStartPage.label "All'avvio di Posta, visualizza la pagina iniziale nell'area dei messaggi">
 <!ENTITY enableStartPage.accesskey "A">
-<!ENTITY location.label "Indirizzo:">
-<!ENTITY location.accesskey "I">
+<!ENTITY location.label "Posizione:">
+<!ENTITY location.accesskey "P">
 <!ENTITY useDefault.label "Ripristina predefinito">
-<!ENTITY useDefault.accesskey "d">
+<!ENTITY useDefault.accesskey "R">
 <!ENTITY rememberLastMsg.label "Ricorda l'ultimo messaggio selezionato">
 <!ENTITY rememberLastMsg.accesskey "R">

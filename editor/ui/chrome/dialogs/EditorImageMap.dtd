@@ -38,12 +38,12 @@
    -
    - ***** END LICENSE BLOCK ***** -->
 <!ENTITY windowTitle.label "Editor mappa dell'immagine">
-<!ENTITY mapfileMenu.label "File">
-<!ENTITY mapfileMenu.accesskey "F">
+<!ENTITY mapfileMenu.label "Scelta file">
+<!ENTITY mapfileMenu.accesskey "S">
 <!ENTITY clearCmd.label "Pulisci">
 <!ENTITY clearCmd.accesskey "P">
 <!ENTITY closeCmd.label "Chiudi">
-<!ENTITY closeCmd.accesskey "h">
+<!ENTITY closeCmd.accesskey "C">
 <!ENTITY mapeditMenu.label "Modifica">
 <!ENTITY mapeditMenu.accesskey "M">
 <!ENTITY cutCmd.label "Taglia">
@@ -52,14 +52,14 @@
 <!ENTITY copyCmd.accesskey "C">
 <!ENTITY pasteCmd.label "Incolla">
 <!ENTITY pasteCmd.accesskey "I">
-<!ENTITY selectallCmd.label "Seleziona tutto">
+<!ENTITY selectallCmd.label "Seleziona tutti">
 <!ENTITY selectallCmd.accesskey "S">
 <!ENTITY propsCmd.label "Proprietà area collegamento">
-<!ENTITY propsCmd.accesskey "a">
+<!ENTITY propsCmd.accesskey "P">
 <!ENTITY mapviewMenu.label "Visualizza">
 <!ENTITY mapviewMenu.accesskey "V">
 <!ENTITY showhideTbarCmd.label "Nascondi barra strumenti">
-<!ENTITY showhideTbarCmd.accesskey "b">
+<!ENTITY showhideTbarCmd.accesskey "N">
 <!ENTITY mapviewScale.label "Ridimensiona">
 <!ENTITY mapviewScale.accesskey "R">
 <!ENTITY apercentCmd.label "100">

@@ -1,5 +1,5 @@
 <!ENTITY prefWindow.size "width: 60em; height: 41em;">
 <!ENTITY urlbar.label "⌘+Invio nella barra degli indirizzi">
-<!ENTITY urlbar.accesskey "b">
+<!ENTITY urlbar.accesskey "⌘">
 <!ENTITY middleClick.label "Clic col tasto centrale, ⌘+clic o ⌘+Invio sui link nella pagina web">
-<!ENTITY middleClick.accesskey "w">
+<!ENTITY middleClick.accesskey "C">

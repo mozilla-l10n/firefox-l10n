@@ -8,16 +8,16 @@
 <!ENTITY spaceMbytes "MB di spazio su disco per la cache">
 <!ENTITY diskCacheFolder.label "Percorso cartella cache:">
 <!ENTITY clearDiskCache.label "Svuota cache">
-<!ENTITY clearDiskCache.accesskey "c">
+<!ENTITY clearDiskCache.accesskey "S">
 <!ENTITY chooseDiskCacheFolder.label "Scegli cartella…">
 <!ENTITY chooseDiskCacheFolder.accesskey "S">
 <!ENTITY diskCacheFolderExplanation "I file della cache verranno memorizzati in una cartella chiamata &quot;Cache&quot; all'interno della cartella specificata. Riavvia &brandShortName; affinché le modifiche abbiano effetto.">
 <!ENTITY docCache.label "Confronta la pagina in cache con la pagina in rete:">
-<!ENTITY docCache.accesskey "n">
+<!ENTITY docCache.accesskey "C">
 <!ENTITY checkOncePerSession.label "Una volta per sessione">
 <!ENTITY checkEveryTime.label "Ogni olta che visualizzo la pagina">
 <!ENTITY checkNever.label "Mai">
 <!ENTITY checkAutomatically.label "Quando la pagina è scaduta">
 <!ENTITY prefetchTitle.label "Caricamento preventivo collegamenti">
 <!ENTITY enablePrefetch.label "Carica le pagine web collegate durante i tempi morti, in modo che le pagine progettate per la navigazione sequenziale possano essere caricate più agevolmente">
-<!ENTITY enablePrefetch.accesskey "w">
+<!ENTITY enablePrefetch.accesskey "C">

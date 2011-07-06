@@ -8,7 +8,7 @@
 <!ENTITY picsOnlyRadio.label "Solo immagini">
 <!ENTITY picsOnlyRadio.accesskey "S">
 <!ENTITY textonlyRadio.label "Solo testo">
-<!ENTITY textonlyRadio.accesskey "t">
+<!ENTITY textonlyRadio.accesskey "S">
 <!ENTITY showHideTooltips.label "Visualizza i tooltip (brevi descrizioni che appaiono sostando con il puntatore del mouse)">
 <!ENTITY showHideTooltips.accesskey "V">
 <!ENTITY pref.locales.title "Lingua interfaccia utente">

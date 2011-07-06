@@ -49,7 +49,7 @@
 <!ENTITY TextAreaTabIndex.label "Indice tabulazione:">
 <!ENTITY TextAreaTabIndex.accessKey "I">
 <!ENTITY TextAreaAccessKey.label "Scorciatoia tastiera:">
-<!ENTITY TextAreaAccessKey.accessKey "o">
+<!ENTITY TextAreaAccessKey.accessKey "S">
 <!ENTITY InitialText.label "Testo iniziale:">
 <!ENTITY InitialText.accessKey "T">
 <!ENTITY TextAreaWrap.label "A capo:">

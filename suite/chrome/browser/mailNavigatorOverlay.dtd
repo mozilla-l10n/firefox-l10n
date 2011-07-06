@@ -4,13 +4,13 @@
 <!ENTITY newContactCmd.label "Contatto…">
 <!ENTITY newContactCmd.accesskey "C">
 <!ENTITY sendPage.label "Spedisci pagina…">
-<!ENTITY sendPage.accesskey "d">
+<!ENTITY sendPage.accesskey "S">
 <!ENTITY contextSendThisPage.label "Invia questa pagina…">
-<!ENTITY contextSendThisPage.accesskey "u">
+<!ENTITY contextSendThisPage.accesskey "I">
 <!ENTITY contextSendThisLink.label "Invia questo link…">
 <!ENTITY contextSendThisLink.accesskey "k">
 <!ENTITY contextSendImage.label "Spedisci immagine…">
-<!ENTITY contextSendImage.accesskey "e">
+<!ENTITY contextSendImage.accesskey "S">
 <!ENTITY contextSendVideo.label "Invia video…">
 <!ENTITY contextSendVideo.accesskey "n">
 <!ENTITY contextSendAudio.label "Invia audio…">
@@ -18,4 +18,4 @@
 <!ENTITY contextSendFrame.label "Spedisci riquadro…">
 <!ENTITY contextSendFrame.accesskey "d">
 <!ENTITY sendLinkCmd.label "Spedisci link…">
-<!ENTITY sendLinkCmd.accesskey "k">
+<!ENTITY sendLinkCmd.accesskey "S">

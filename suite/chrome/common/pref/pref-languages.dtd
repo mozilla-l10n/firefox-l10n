@@ -4,7 +4,7 @@
 <!ENTITY languages.customize.prefAddLangDescript "Seleziona una o più lingue da aggiungere.">
 <!ENTITY languages.customize.addButton.label "Aggiungi…">
 <!ENTITY languages.customize.addButton.accesskey "A">
-<!ENTITY languages.customize.deleteButton.label "Rimuovi">
+<!ENTITY languages.customize.deleteButton.label "Elimina">
 <!ENTITY languages.customize.deleteButton.accesskey "R">
 <!ENTITY languages.customize.add.title.label "Aggiungi lingua">
 <!ENTITY languages.customize.available.label "Lingue:">
@@ -16,13 +16,13 @@
 <!ENTITY languages.customize.DefaultCharset.label "Codifica caratteri predefinita:">
 <!ENTITY languages.customize.DefaultCharset.accesskey "C">
 <!ENTITY languages.customize.others.examples "es.: en-bz, ar-jo">
-<!ENTITY languages.customize.moveUp.label "Muovi in alto">
+<!ENTITY languages.customize.moveUp.label "Muovi su">
 <!ENTITY languages.customize.moveUp.accesskey "M">
-<!ENTITY languages.customize.moveDown.label "Muovi in basso">
-<!ENTITY languages.customize.moveDown.accesskey "b">
+<!ENTITY languages.customize.moveDown.label "Muovi giù">
+<!ENTITY languages.customize.moveDown.accesskey "M">
 <!ENTITY spelling.label "Controllo ortografico">
 <!ENTITY checkSpelling.label "Controllo ortografico durante la scrittura:">
-<!ENTITY checkSpelling.accesskey "o">
-<!ENTITY dontCheckSpelling.label "Disattivato">
+<!ENTITY checkSpelling.accesskey "C">
+<!ENTITY dontCheckSpelling.label "Mai">
 <!ENTITY multilineCheckSpelling.label "Solo nei campi multilinea">
 <!ENTITY alwaysCheckSpelling.label "In tutti i campi">
