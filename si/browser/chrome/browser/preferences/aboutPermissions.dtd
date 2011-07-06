@@ -33,3 +33,12 @@
 <!ENTITY indexedDB.label                 "අසම්බන්ධිත සංචිතය (Offline Storage) නඩත්තු කරන්න">
 
 <!ENTITY popup.label                     "පැන-නඟින කවුළු විවෘත කරන්න">
+
+
+<!--
+Entities below were automatically added by compare-locales,
+ based on en-US entities.
+-->
+
+<!ENTITY cookie.removeAll "Remove All Cookies">
+<!ENTITY cookie.remove "Remove Cookies">
