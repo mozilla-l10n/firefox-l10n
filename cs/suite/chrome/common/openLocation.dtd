@@ -1,12 +1,15 @@
 <!-- extracted from content/openLocation.xul -->
 
-<!ENTITY enter.label "Zadejte adresu umístění (URL), nebo vyberte soubor, který chcete otevřít:">
-<!ENTITY enter.accesskey "Z">
+<!ENTITY enter.label "Vložte adresu stránky (URL), nebo zadejte místní soubor, který chcete otevřít:">
+<!-- LOCALIZATION NOTE (enter.accesskey): should be present in both enter.label
+     as defined above and attachEnterLabel as defined in
+     openLocation.properties -->
+<!ENTITY enter.accesskey "V">
 <!ENTITY chooseFile.label "Vybrat soubor…">
 <!ENTITY chooseFile.accesskey "S">
 <!ENTITY newWindow.label "Nové okno prohlížeče">
 <!ENTITY newTab.label "Nový panel prohlížeče">
-<!ENTITY topWindow.label "Nynější okno prohlížeče">
+<!ENTITY currentTab.label "Aktuální panel prohlížeče">
 <!ENTITY editNewWindow.label "Nové okno editoru">
 <!ENTITY open.label "Otevřít">
 <!ENTITY caption.label "Otevření adresy">
