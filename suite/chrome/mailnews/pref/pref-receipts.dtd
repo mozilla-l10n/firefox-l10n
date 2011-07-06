@@ -51,7 +51,7 @@
 <!ENTITY never.label                  "Aldri send tilbake">
 <!ENTITY never.accesskey              "d">
 <!ENTITY notInToCc.label              "Dersom jeg ikke er i Til eller Kopi-feltet:">
-<!ENTITY notInToCc.accesskey          "H">
+<!ENTITY notInToCc.accesskey          "k">
 <!ENTITY outsideDomain.label          "Dersom avsenderen er utenfor mitt domene:">
 <!ENTITY outsideDomain.accesskey      "v">
 <!ENTITY otherCases.label             "I andre tilfeller:">
