@@ -202,12 +202,12 @@
 <!-- Headers -->
 <!--LOCALIZATION NOTE headersSpace.style is for aligning  the From:, To: and
     Subject: rows. It should be larger than the largest Header label  -->
-<!ENTITY headersSpace.style "width: 10em;">
+<!ENTITY headersSpace.style "width: 12em;">
 <!ENTITY fromAddr.label "Von:">
 <!ENTITY fromAddr.accesskey "V">
 <!ENTITY toAddr.label "An:">
-<!ENTITY ccAddr.label "Kopie:">
-<!ENTITY bccAddr.label "Blindkopie:">
+<!ENTITY ccAddr.label "Kopie (CC):">
+<!ENTITY bccAddr.label "Blindkopie (BCC):">
 <!ENTITY replyAddr.label "Antwort an:">
 <!ENTITY newsgroupsAddr.label "Newsgruppe:">
 <!ENTITY followupAddr.label "Followup an:">
