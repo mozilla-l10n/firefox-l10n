@@ -138,3 +138,16 @@ Entities below were automatically added by compare-locales,
 <!ENTITY maintenance.tooltip "ඔබගේ පිටුසළකුණු ආයාතකර ආරක්ෂිත (backup) කොපියක් ගන්න">
 <!ENTITY bySite.label "අඩවිය අනුව">
 <!ENTITY byLastVisited.label "අවසන්වර පිවිසුම අනුව">
+
+
+<!--
+Entities below were automatically added by compare-locales,
+ based on en-US entities.
+-->
+
+<!ENTITY importBookmarksFromHTML.accesskey "I">
+<!ENTITY importBookmarksFromHTML.label "Import Bookmarks from HTML…">
+<!ENTITY importOtherBrowser.label "Import Data from Another Browser…">
+<!ENTITY exportBookmarksToHTML.accesskey "E">
+<!ENTITY exportBookmarksToHTML.label "Export Bookmarks to HTML…">
+<!ENTITY importOtherBrowser.accesskey "A">

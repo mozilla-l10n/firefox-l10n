@@ -162,7 +162,7 @@ Entities below were automatically added by compare-locales,
 </ul>
 ">
 <!ENTITY securityOverride.warningContent "
-<p>You should not add an exception if you are using an internet connection that you do not trust completely or if you are not used to seeing a warning for this server.</p>
+<p>ඔබ පූර්ණ විශ්වාසයක් නොමැති අන්තර්ජාල සම්බන්ධතාවයක් භාවිතා කරයි නම් හෝ ඔබ මෙම අඩවියට අවවාද පණිවිඩ දැක නැත්නම් ඔබ හැරදැමීම් එක් කළ නොකළ යුතුයි.</p>
 
 <button id='getMeOutOfHereButton'>&securityOverride.getMeOutOfHereButton;</button>
 <button id='exceptionDialogButton'>&securityOverride.exceptionButtonLabel;</button>
@@ -171,3 +171,17 @@ Entities below were automatically added by compare-locales,
 <!ENTITY cspFrameAncestorBlocked.title "ආරක්ෂක ප්‍රතිපත්තියට අනුව අවහිර කර ඇත">
 <!ENTITY remoteXUL.title "Remote XUL">
 <!ENTITY remoteXUL.longDesc "<p><ul><li>කරුණාකර මෙම ගැටලුව පිළිබද අඩවියේ හිමිකරුට දන්වන්න.</li></ul></p>">
+
+
+<!--
+Entities below were automatically added by compare-locales,
+ based on en-US entities.
+-->
+
+<!ENTITY corruptedContentError.longDesc "<p>The page you are trying to view cannot be shown because an error in the data transmission was detected.</p><ul><li>Please contact the website owners to inform them of this problem.</li></ul>">
+<!ENTITY corruptedContentError.title "Corrupted Content Error">
+<!ENTITY netOffline.longDesc2 "
+<ul>
+  <li>Press &quot;Try Again&quot; to switch to online mode and reload the page.</li>
+</ul>
+">

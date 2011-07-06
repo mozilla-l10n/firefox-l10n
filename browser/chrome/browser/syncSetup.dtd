@@ -92,3 +92,12 @@ Entities below were automatically added by compare-locales,
 <!ENTITY setup.haveAccount.label "මට දැනටම &syncBrand.fullName.label; ගිණුමක් ඇත.">
 <!ENTITY signIn.syncKey.label       "සම්මුහුර්ත යතුර">
 <!ENTITY signIn.syncKey.accesskey   "K">
+
+
+<!--
+Entities below were automatically added by compare-locales,
+ based on en-US entities.
+-->
+
+<!ENTITY setup.choosePassword.label "Choose a Password">
+<!ENTITY setup.choosePassword.accesskey "P">

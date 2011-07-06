@@ -113,3 +113,12 @@ Entities below were automatically added by compare-locales,
 <!ENTITY overrideSmartCacheSize.accesskey "O">
 <!ENTITY submitCrashes.accesskey "S">
 <!ENTITY limitCacheSizeBefore.label "cache මෙයට සීමා කරන්න">
+
+
+<!--
+Entities below were automatically added by compare-locales,
+ based on en-US entities.
+-->
+
+<!ENTITY submitTelemetry.accesskey "P">
+<!ENTITY submitTelemetry.label "Submit performance data">

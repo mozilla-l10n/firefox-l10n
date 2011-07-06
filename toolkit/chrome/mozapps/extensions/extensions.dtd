@@ -159,3 +159,11 @@ Entities below were automatically added by compare-locales,
 <!-- global informations -->
 <!ENTITY info.plugincheck.label                 "ඔබගේ ප්ලගීන යාවත්කාලීනව ඇත්නම් පරීක්ෂා කරන්න">
 <!ENTITY info.plugincheck.tooltip               "ඔබගේ ප්ලගීන යාවත්කාලීනව ඇත්නම් පරීක්ෂා කරන්න">
+
+
+<!--
+Entities below were automatically added by compare-locales,
+ based on en-US entities.
+-->
+
+<!ENTITY settings.path.button.label "Browse…">
