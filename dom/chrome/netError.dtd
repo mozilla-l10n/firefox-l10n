@@ -25,8 +25,6 @@
 <!ENTITY netInterrupt.longDesc "<p>De browser heeft met succes verbinding gemaakt, maar deze werd onderbroken tijdens het overbrengen van informatie. Probeer het opnieuw.</p><ul><li>Kunt u geen andere websites bezoeken? Controleer de netwerkverbinding van de computer.</li><li>Hebt u nog steeds problemen? Raadpleeg uw netwerkbeheerder of internetprovider voor assistentie.</li></ul>">
 
 <!ENTITY netOffline.title "Offlinemodus">
-<!ENTITY netOffline.longDesc "<p>De browser werkt momenteel in offlinemodus en kan niet verbinden met het opgevraagde item.</p><ul><li>Is de computer verbonden met een actief netwerk?</li><li>Zet de browser in onlinemodus en probeer het opnieuw.</li></ul>">
-<!ENTITY netOffline.overrideLongDesc "<p>De browser werkt momenteel in offlinemodus en kan niet verbinden met het opgevraagde item.</p><ul><li>Is de computer verbonden met een actief netwerk?</li><li>Zet de browser in onlinemodus en probeer het opnieuw.</li></ul>">
 <!ENTITY netOffline.longDesc2 "<p>De browser werkt momenteel in offlinemodus en kan niet verbinden met het opgevraagde item.</p><ul><li>Is de computer verbonden met een actief netwerk?</li><li>Druk op &quot;Opnieuw proberen&quot; om naar onlinemodus overte schakelen en vernieuw de pagina.</li></ul>">
 
 <!ENTITY contentEncodingError.title "Inhoudcoderingsfout">
