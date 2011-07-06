@@ -20,8 +20,6 @@
 <!ENTITY selectSound.accesskey          "a">
 <!ENTITY playSoundButton.label          "Afspelen">
 <!ENTITY playSoundButton.accesskey      "l">
-<!ENTITY selectSound.title              "Pop-upblokkeergeluid selecteren">
-<!ENTITY selectSound.filter             "Geluiden">
 
 <!ENTITY displayIcon.label              "Een pictogram weergeven in de browserstatusbalk">
 <!ENTITY displayIcon.accesskey          "p">
