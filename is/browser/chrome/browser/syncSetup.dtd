@@ -20,10 +20,12 @@
 <!ENTITY signIn.syncKey.accesskey "k">
 <!-- New Account Page 1: Basic Account Info -->
 <!ENTITY setup.newAccountDetailsPage.title.label "Aðgangsupplýsingar">
-<!ENTITY setup.confirmPassword.label "Staðfestu lykilorðið">
-<!ENTITY setup.confirmPassword.accesskey "S">
 <!ENTITY setup.emailAddress.label "Tölvupóstfang">
 <!ENTITY setup.emailAddress.accesskey "T">
+<!ENTITY setup.choosePassword.label "Veldu lykilorð">
+<!ENTITY setup.choosePassword.accesskey "l">
+<!ENTITY setup.confirmPassword.label "Staðfestu lykilorðið">
+<!ENTITY setup.confirmPassword.accesskey "S">
 <!-- LOCALIZATION NOTE: tosAgree1, tosLink, tosAgree2, ppLink, tosAgree3 are
      joined with implicit white space, so spaces in the strings aren't necessary -->
 <!ENTITY setup.tosAgree1.label "Ég samþykki">

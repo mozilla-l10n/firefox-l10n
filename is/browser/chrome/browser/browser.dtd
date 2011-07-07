@@ -53,8 +53,6 @@ can reach it easily. -->
 <!ENTITY printCmd.label "Prenta…">
 <!ENTITY printCmd.accesskey "P">
 <!ENTITY printCmd.commandkey "p">
-<!ENTITY import.label "Flytja inn…">
-<!ENTITY import.accesskey "i">
 <!ENTITY goOfflineCmd.label "Vinna án nettengingar">
 <!ENTITY goOfflineCmd.accesskey "g">
 <!ENTITY menubarCmd.label "Valmyndaslá">
@@ -187,19 +185,6 @@ can reach it easily. -->
 <!ENTITY inspectPanelTitle.label "HTML">
 <!ENTITY inspectButton.label "Skoða">
 <!ENTITY inspectButton.accesskey "o">
-<!ENTITY inspectNextButton.label "Áfram">
-<!ENTITY inspectNextButton.accesskey "f">
-<!ENTITY inspectPreviousButton.label "Fyrri">
-<!ENTITY inspectPreviousButton.accesskey "y">
-<!ENTITY inspectStyleButton.label "Stíll">
-<!ENTITY inspectStyleButton.accesskey "S">
-<!ENTITY inspectStylePanelTitle.label "Stíll">
-<!-- LOCALIZATION NOTE (inspectObjectButton.label): This button label
-  -  appears on the Inspector's toolbar. It is used to open and close the Object
-  -  panel. There is also a label in inspector.properties for the panel
-  -  titlebar: object.objectPanelTitle. -->
-<!ENTITY inspectObjectButton.label "Hlutur">
-<!ENTITY inspectObjectButton.accesskey "H">
 <!ENTITY getMoreDevtoolsCmd.label "Ná í fleiri verkfæri">
 <!ENTITY getMoreDevtoolsCmd.accesskey "N">
 <!ENTITY fileMenu.label "Skrá">

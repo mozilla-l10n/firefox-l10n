@@ -25,6 +25,8 @@
 <!ENTITY checkNow.accesskey "n">
 <!ENTITY submitCrashes.label "Senda hrunskýrslur">
 <!ENTITY submitCrashes.accesskey "S">
+<!ENTITY submitTelemetry.label "Senda upplýsingar um afkastagetu">
+<!ENTITY submitTelemetry.accesskey "p">
 <!ENTITY networkTab.label "Netkerfi">
 <!ENTITY connection.label "Tenging">
 <!ENTITY connectionDesc.label "Stilla hvernig &brandShortName; tengist við Internetið">

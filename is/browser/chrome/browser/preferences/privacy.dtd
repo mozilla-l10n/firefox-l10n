@@ -44,8 +44,8 @@
 <!ENTITY dontrememberActions.pre.label "Þú getur líka ">
 <!ENTITY dontrememberActions.clearHistory.label "hreinsað núverandi feril">
 <!ENTITY dontrememberActions.post.label ".">
-<!ENTITY privateBrowsingPermanent.label "Fastsett einkavöfrun">
-<!ENTITY privateBrowsingPermanent.accesskey "F">
+<!ENTITY privateBrowsingPermanent2.label "Nota alltaf einkavöfrun">
+<!ENTITY privateBrowsingPermanent2.accesskey "e">
 <!ENTITY rememberHistory.label "Muna vafraferil">
 <!ENTITY rememberHistory.accesskey "v">
 <!ENTITY rememberDownload.label "Muna niðurhalsferil">

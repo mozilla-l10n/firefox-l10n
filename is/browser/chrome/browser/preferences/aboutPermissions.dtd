@@ -15,9 +15,9 @@
 <!ENTITY password.label "Vista lykilorð">
 <!ENTITY password.manage "Stjórna aðgangsorðum…">
 <!ENTITY cookie.label "Setja smákökur">
-<!ENTITY cookie.clear "Hreinsa smákökur">
+<!ENTITY cookie.remove "Fjarlægja smákökur">
 <!ENTITY cookie.manage "Sýsla með smákökur…">
-<!ENTITY cookie.clearAll "Hreinsa allar smákökur">
+<!ENTITY cookie.removeAll "Fjarlægja allar smákökur">
 <!ENTITY geo.label "Deila staðsetningu">
 <!-- LOCALIZATION NOTE (indexedDB.label): This is describing indexedDB storage
      using the same language used for the permIndexedDB string in browser/pageInfo.dtd -->
