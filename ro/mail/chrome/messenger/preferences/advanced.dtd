@@ -45,8 +45,8 @@
 <!ENTITY reuseExpRadio0.accesskey      "O">
 <!ENTITY reuseExpRadio1.label          "O fereastră de mesaj existentă">
 <!ENTITY reuseExpRadio1.accesskey      "x">
-<!ENTITY closeMsgWindowOnDelete.label  "Închide fereastra cu mesajul după ștergere">
-<!ENTITY closeMsgWindowOnDelete.accesskey "c">
+<!ENTITY closeMsgOnMoveOrDelete.label  "Close message window/tab on move or delete">
+<!ENTITY closeMsgOnMoveOrDelete.accesskey "C">
 
 <!-- Update -->
 <!ENTITY autoCheck.label                "Caută automat actualizări pentru:">
@@ -77,7 +77,7 @@
 <!ENTITY Diskspace "Spațiu pe disc">
 <!ENTITY offlineCompact.label "Compactează dosarele dacă asta economisește peste">
 <!ENTITY offlineCompact.accesskey "C">
-<!ENTITY kb.label "KO">
+<!ENTITY mb.label "MO">
 
 <!-- LOCALIZATION NOTE:
   The entities useCacheBefore.label and useCacheAfter.label appear on a single
