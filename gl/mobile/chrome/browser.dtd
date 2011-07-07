@@ -95,7 +95,7 @@
 <!ENTITY contextSaveImage.label       "Gardar imaxe">
 <!ENTITY contextShareLink.label       "Compartir ligazón">
 <!ENTITY contextShareImage.label      "Compartir imaxe">
-<!ENTITY contextBookmarkLink.label    "Ligazón do marcador">
+<!ENTITY contextBookmarkLink.label    "Marcar ligazón">
 <!ENTITY contextSaveVideo.label       "Gardar vídeo">
 <!ENTITY contextShareVideo.label      "Compartir vídeo">
 <!ENTITY contextPlayMedia.label       "Reproducir">
@@ -107,6 +107,7 @@
 <!ENTITY pageactions.saveas.pdf      "Gardar como PDF">
 <!ENTITY pageactions.share.page      "Compartir páxina">
 <!ENTITY pageactions.password.forget "Esquecer o contrasinal">
+<!ENTITY pageactions.quit            "Saír">
 <!ENTITY pageactions.reset           "Limpar as preferencias do sitio">
 <!ENTITY pageactions.findInPage      "Localizar na páxina">
 <!ENTITY pageactions.search.addNew   "Engadir buscador">
