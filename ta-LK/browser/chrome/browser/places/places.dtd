@@ -27,10 +27,6 @@
 <!ENTITY cmd.findCurrent.label          "தற்போதைய திரட்டில் கண்டுபிடிக்க…">
 <!ENTITY cmd.findCurrent.accesskey      "i">
 
-<!ENTITY cmd.exportHTML.label           "HTML ஆக ஏற்றுமதி செய்க…">
-<!ENTITY cmd.exportHTML.accesskey       "E">
-<!ENTITY cmd.importHTML.label           "HTML ஆக இறக்குமதி செய்க…">
-<!ENTITY cmd.importHTML.accesskey       "I">
 <!ENTITY cmd.restore2.label             "மீளச்சேமிக்க">
 <!ENTITY cmd.restore2.accesskey         "R">
 <!ENTITY cmd.backup.label               "ஆதாரநகல்…">

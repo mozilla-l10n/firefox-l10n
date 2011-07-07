@@ -32,20 +32,3 @@ Entities below were automatically added by compare-locales,
 <!ENTITY channel.description.start  "நீங்கள் தற்போது இருக்கிறீர்கள் இதில்: ">
 <!ENTITY channel.description.end    "மேம்படுத்தும் channel. ">
 
-<!ENTITY channel.change             "மாற்று">
-
-<!ENTITY channel.release.description       "உலகம் முழுவதும் நூற்றுக்கணக்கான மில்லியன் பயன்படுத்தும் முயற்சி மற்றும் சோதனை இறுதி வெளியீட்டினை அனுபவிக்கவும். சிறந்த வேகம், எளிதில் சீரமைக்க மற்றும் சமீபத்திய வலை தொழில்நுட்பங்கள் உங்கள் ஆன்லைன் அனுபவத்தை கட்டுப்பாட்டில் வைத்திருங்கள்.">
-<!ENTITY channel.beta.description          "மேலதிக நிலையானதன்மையுடன் Experience cutting edge அம்சங்கள். இறுதி வெளியீட்டில் என்ன வேண்டும் என்பதை சீர்படுத்துவதற்கும் மெருகூட்டுவதற்கும் பின்னூட்டுகளை வழங்கி உதவுக.">
-<!ENTITY channel.aurora.description        "இதயம் மயக்கம் அற்ற நிலையில் ஒரு நிலையற்ற சூழலில் புதிய கண்டுபிடிப்பு அனுபவம். இறுதி வெளியீடு எது என்பதை தீர்மானிக்க உதவும் அம்சங்கள் மற்றும் செயல்திறன் தொடர்பான பின்னூட்டுகளை வழங்கவும்.">
-
-<!-- LOCALIZATION NOTE (channel.selector.start,channel.selector.end): channel.selector.start and
-     channel.selector.end create one sentence, with a channel selection menulist instered in between.
-     This is all in one line, so try to make the localized text short.
-     example: Switch to the [Stable] update channel. -->
-<!ENTITY channel.selector.start          "Switch to the">
-<!ENTITY channel.selector.end            "மேம்படுத்தும் channel.">
-
-<!-- LOCALIZATION NOTE (channel.selector.applyButton): This button applies the user's choice to switch
-     to a new update channel and starts the application update process. -->
-<!ENTITY channel.selector.applyButton    "பிரயோகிக்கவும் மேம்படுத்திக்கொள்ளவும்">
-<!ENTITY channel.selector.cancelButton   "இரத்து">

@@ -11,12 +11,10 @@ Entities below were automatically added by compare-locales,
 <!ENTITY password.label "கடவுச்சொற்களினை சேமிக்குக">
 <!ENTITY cookie.manage "Cookies இனை நிர்வகிக்க…">
 <!ENTITY indexedDB.label "இணைப்பில்லாநிலை சேமிப்பகத்தை பராமரிக்குக">
-<!ENTITY cookie.clear "Cookies இனை தூய்மையாக்குக">
 <!ENTITY password.manage "கடவுச்சொற்களினை நிர்வகிக்க…">
 <!ENTITY header.defaults " அனைத்து தளங்களுக்குமான பொதுஇருப்பு அனுமதிகள்">
 <!ENTITY sites.allSites "அனைத்து தளங்களும்">
 <!ENTITY sites.search "தளங்களை தேடுக">
-<!ENTITY cookie.clearAll "அனைத்து Cookies களையும் தூய்மையாக்குக">
 <!ENTITY permission.allow "அனுமதிக்க">
 <!ENTITY permission.allowForSession "இந்த அமர்விற்காக அனுமதிக்க">
 <!ENTITY popup.label "Pop-up சாளரத்தை திறக்குக">
