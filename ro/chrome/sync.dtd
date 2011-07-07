@@ -1,0 +1,22 @@
+<!ENTITY sync.title                 "Sincronizare">
+<!ENTITY sync.notconnected          "Neconectat">
+<!ENTITY sync.connect               "Conectare">
+<!ENTITY sync.connected             "Conectat">
+<!ENTITY sync.details               "Detalii">
+<!ENTITY sync.synchronize           "Activează sincronizarea">
+<!ENTITY sync.deviceName            "Acest dispozitiv">
+<!ENTITY sync.disconnect            "Deconectare">
+<!ENTITY sync.syncNow               "Sincronizează acum">
+
+<!ENTITY sync.setup.title           "Conectarea la sincronizare">
+<!ENTITY sync.setup.jpake           "From a Firefox Sync-connected computer, go to Sync options and select &#x0022;Add a device&#x0022;">
+<!ENTITY sync.fallback              "Nu sunt aproape de calculatorul meu…">
+<!ENTITY sync.setup.manual          "Introduceți informațiile contului dumneavoastră de sincronizare">
+<!ENTITY sync.account               "Nume cont">
+<!ENTITY sync.password              "Parolă">
+<!ENTITY sync.syncKey               "Cheia de sincronizare">
+<!ENTITY sync.customServer          "Folosește server personalizat">
+<!ENTITY sync.serverURL             "URL către server">
+<!ENTITY sync.setup.connect         "Conectare">
+<!ENTITY sync.setup.cancel          "Anulare">
+<!ENTITY sync.setup.tutorial        "Show me how">

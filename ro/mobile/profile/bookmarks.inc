@@ -9,23 +9,23 @@
 
 # LOCALIZATION NOTE (bookmarks_title):
 # title for the folder that will contains the default bookmarks
-#define bookmarks_title Mobil
+#define bookmarks_title Mobile
 
 # LOCALIZATION NOTE (bookmarks_welcome):
 # link title for about:firstrun
-#define bookmarks_welcome Firefox: bun venit
+#define bookmarks_welcome Firefox: Welcome
 
 # LOCALIZATION NOTE (bookmarks_aboutBrowser):
 # link title for about:fennec
-#define bookmarks_aboutBrowser Firefox: despre navigatorul dumneavoastră
+#define bookmarks_aboutBrowser Firefox: About your browser
 
 # LOCALIZATION NOTE (bookmarks_addons):
 # link title for https://addons.mozilla.org/en-US/mobile
-#define bookmarks_addons Firefox: personalizare cu suplimente
+#define bookmarks_addons Firefox: Customize with add-ons
 
 # LOCALIZATION NOTE (bookmarks_support):
-# link title for https://mobile.support.mozilla.com
-#define bookmarks_support Firefox: suport
+# link title for https://support.mozilla.com/mobile
+#define bookmarks_support Firefox: Support
 
 # LOCALIZATION NOTE (bookmarks_aboutHome):
 # link title for about:home
