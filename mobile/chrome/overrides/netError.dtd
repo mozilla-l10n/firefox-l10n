@@ -1,108 +1,174 @@
 <!ENTITY % brandDTD SYSTEM "chrome://branding/locale/brand.dtd">
 %brandDTD;
 
-<!ENTITY loadError.label "Problemă la încărcarea paginii">
-<!ENTITY retry.label "Încearcă din nou">
+<!ENTITY loadError.label "Problem loading page">
+<!ENTITY retry.label "Try Again">
 
 <!-- Specific error messages -->
 
-<!ENTITY connectionFailure.title "Conectare imposibilă">
+<!ENTITY connectionFailure.title "Unable to connect">
 <!ENTITY connectionFailure.longDesc "&sharedLongDesc;">
 
-<!ENTITY deniedPortAccess.title "Această adresă este restricționată">
+<!ENTITY deniedPortAccess.title "This address is restricted">
 <!ENTITY deniedPortAccess.longDesc "">
 
-<!ENTITY dnsNotFound.title "Serverul nu a fost găsit">
-<!ENTITY dnsNotFound.longDesc "<ul> <li>Verificați adresa de erori de tastare cum ar fi <strong>ww</strong>.exemplu.ro în loc de <strong>www</strong>.exemplu.ro</li> <li>Dacă nu puteți încărca nicio pagină, verificați conexiunea la rețea a calculatorului dumneavoastră.</li> <li>Dacă sistemul dumneavoastră este protejat de un paravan (firewall) sau proxy, asigurați-vă că &brandShortName; are permisiunea de a accesa internetul.</li> </ul>">
+<!ENTITY dnsNotFound.title "Server not found">
+<!ENTITY dnsNotFound.longDesc "
+<ul>
+  <li>Check the address for typing errors such as
+    <strong>ww</strong>.example.com instead of
+    <strong>www</strong>.example.com</li>
+  <li>If you are unable to load any pages, check your computer's network
+    connection.</li>
+  <li>If your computer or network is protected by a firewall or proxy, make sure
+    that &brandShortName; is permitted to access the Web.</li>
+</ul>
+">
 
-<!ENTITY fileNotFound.title "Fișierul nu a fost găsit">
-<!ENTITY fileNotFound.longDesc "<ul> <li>Verificați ca numele fișierului să nu aibă erori de majuscule/minuscule sau alte erori de tastare.</li> <li>Verificați ca fișierul să nu fi fost mutat, redenumit sau șters.</li> </ul>">
+<!ENTITY fileNotFound.title "File not found">
+<!ENTITY fileNotFound.longDesc "
+<ul>
+  <li>Check the file name for capitalization or other typing errors.</li>
+  <li>Check to see if the file was moved, renamed or deleted.</li>
+</ul>
+">
 
 
-<!ENTITY generic.title "Au.">
-<!ENTITY generic.longDesc "<p>&brandShortName; nu poate încărca pagina dintr-un motiv oarecare.</p>">
+<!ENTITY generic.title "Oops.">
+<!ENTITY generic.longDesc "
+<p>&brandShortName; can't load this page for some reason.</p>
+">
 
-<!ENTITY malformedURI.title "Adresa nu este validă">
-<!ENTITY malformedURI.longDesc "<ul> <li>Adresele web se scriu de obicei așa: <strong>http://www.exemplu.ro/</strong></li> <li>Asigurați-vă că folosiți slash-uri corecte (adică <strong>/</strong>).</li> </ul>">
+<!ENTITY malformedURI.title "The address isn't valid">
+<!ENTITY malformedURI.longDesc "
+<ul>
+  <li>Web addresses are usually written like
+    <strong>http://www.example.com/</strong></li>
+  <li>Make sure that you're using forward slashes (i.e.
+    <strong>/</strong>).</li>
+</ul>
+">
 
-<!ENTITY netInterrupt.title "Conexiunea a fost întreruptă">
+<!ENTITY netInterrupt.title "The connection was interrupted">
 <!ENTITY netInterrupt.longDesc "&sharedLongDesc;">
 
-<!ENTITY netOffline.title "Mod offline">
+<!ENTITY netOffline.title "Offline mode">
 <!ENTITY netOffline.overrideLongDesc "
 <ul>
   <li>Try again. &brandShortName; will attempt to open a connection and reload the page.</li>
 </ul>
 ">
 
-<!ENTITY contentEncodingError.title "Eroare de codare a conținutului">
-<!ENTITY contentEncodingError.longDesc "<ul>
-  <li>Vă rugăm să contactați proprietarii saitului pentru a-i informa despre această problemă.</li>
-</ul>">
+<!ENTITY contentEncodingError.title "Content Encoding Error">
+<!ENTITY contentEncodingError.longDesc "
+<ul>
+  <li>Please contact the website owners to inform them of this problem.</li>
+</ul>
+">
 
-<!ENTITY unsafeContentType.title "Tip de fișier nesigur">
-<!ENTITY unsafeContentType.longDesc "<ul>
-  <li>Vă rugăm să contactați proprietarii saitului pentru a-i informa despre această problemă.</li>
-</ul>">
+<!ENTITY unsafeContentType.title "Unsafe File Type">
+<!ENTITY unsafeContentType.longDesc "
+<ul>
+  <li>Please contact the website owners to inform them of this problem.</li>
+</ul>
+">
 
-<!ENTITY netReset.title "Conexiunea a fost reinițializată">
+<!ENTITY netReset.title "The connection was reset">
 <!ENTITY netReset.longDesc "&sharedLongDesc;">
 
-<!ENTITY netTimeout.title "Timpul conexiunii a expirat">
+<!ENTITY netTimeout.title "The connection has timed out">
 <!ENTITY netTimeout.longDesc "&sharedLongDesc;">
 
-<!ENTITY protocolNotFound.title "Adresa nu a fost înțeleasă">
-<!ENTITY protocolNotFound.longDesc "<ul> <li>Este posibil să trebuiască să instalați alte programe pentru a deschide această adresă.</li> </ul>">
+<!ENTITY protocolNotFound.title "The address wasn't understood">
+<!ENTITY protocolNotFound.longDesc "
+<ul>
+  <li>You might need to install other software to open this address.</li>
+</ul>
+">
 
-<!ENTITY proxyConnectFailure.title "Serverul proxy refuză conexiuni">
-<!ENTITY proxyConnectFailure.longDesc "<ul> <li>Asigurați-vă că parametrii proxy-ului sunt corecți.</li> <li>Luați legătura cu administratorul rețelei pentru a vă asigura că serverul proxy funcționează.</li> </ul>">
+<!ENTITY proxyConnectFailure.title "The proxy server is refusing connections">
+<!ENTITY proxyConnectFailure.longDesc "
+<ul>
+  <li>Check the proxy settings to make sure that they are correct.</li>
+  <li>Contact your network administrator to make sure the proxy server is
+    working.</li>
+</ul>
+">
 
-<!ENTITY proxyResolveFailure.title "Nu se poate găsi serverul proxy">
-<!ENTITY proxyResolveFailure.longDesc "<ul> <li>Asigurați-vă că parametrii proxy-ului sunt corecți.</li> <li>Asigurați-vă că sistemul dumneavoastră are o conexiune funcțională la rețea.</li> <li>Dacă sistemul dumneavoastră este protejat de un paravan (firewall) sau proxy, asigurați-vă că &brandShortName; are permisiunea de a folosi web-ul.</li> </ul>">
+<!ENTITY proxyResolveFailure.title "Unable to find the proxy server">
+<!ENTITY proxyResolveFailure.longDesc "
+<ul>
+  <li>Check the proxy settings to make sure that they are correct.</li>
+  <li>Check to make sure your computer has a working network connection.</li>
+  <li>If your computer or network is protected by a firewall or proxy, make sure
+    that &brandShortName; is permitted to access the Web.</li>
+</ul>
+">
 
-<!ENTITY redirectLoop.title "Pagina nu redirijează corect">
-<!ENTITY redirectLoop.longDesc "<ul> <li>Problema poate apărea dacă dezactivați sau refuzați să acceptați cookie-uri.</li> </ul>">
+<!ENTITY redirectLoop.title "The page isn't redirecting properly">
+<!ENTITY redirectLoop.longDesc "
+<ul>
+  <li>This problem can sometimes be caused by disabling or refusing to accept
+    cookies.</li>
+</ul>
+">
 
-<!ENTITY unknownSocketType.title "Răspuns neașteptat de la server">
-<!ENTITY unknownSocketType.longDesc "<ul> <li>Verificați ca sistemul dumneavoastră să aibă instalat Personal Security Manager.</li> <li>Aceasta se poate întâmpla și datorită unei configurații nestandard a serverului.</li> </ul>">
+<!ENTITY unknownSocketType.title "Unexpected response from server">
+<!ENTITY unknownSocketType.longDesc "
+<ul>
+  <li>Check to make sure your system has the Personal Security Manager
+    installed.</li>
+  <li>This might be due to a non-standard configuration on the server.</li>
+</ul>
+">
 
-<!ENTITY nssFailure2.title "Conexiunea sigură a eșuat">
-<!ENTITY nssFailure2.longDesc "<ul>
-  <li>Pagina pe care încercați să o vedeți nu poate fi afișată pentru că nu s-a putut verifica autenticitatea datelor primite.</li>
-  <li>Vă rugăm să luați legătura cu proprietarii saitului și să-i informați despre această problemă. Ca o alternativă, puteți folos comanda aflată în meniul „Ajutor” pentru a raporta un sait defect.</li>
-</ul>">
+<!ENTITY nssFailure2.title "Secure Connection Failed">
+<!ENTITY nssFailure2.longDesc "
+<ul>
+  <li>The page you are trying to view can not be shown because the authenticity of the received data could not be verified.</li>
+  <li>Please contact the web site owners to inform them of this problem. Alternatively, use the command found in the help menu to report this broken site.</li>
+</ul>
+">
 
-<!ENTITY nssBadCert.title "Conexiunea sigură a eșuat">
-<!ENTITY nssBadCert.longDesc2 "<ul>
-  <li>Acest lucru s-ar putea datora unei probleme în configurația serverului, sau s-ar 
-putea ca cineva să încerce să pretindă că este acest server.</li>
-  <li>Dacă v-ați conectat cu succes în trecut la acest server, eroarea poate fi
-temporară și puteți încerca din nou mai târziu.</li>
-</ul>">
+<!ENTITY nssBadCert.title "Secure Connection Failed">
+<!ENTITY nssBadCert.longDesc2 "
+<ul>
+  <li>This could be a problem with the server's configuration, or it could be
+someone trying to impersonate the server.</li>
+  <li>If you have connected to this server successfully in the past, the error may
+be temporary, and you can try again later.</li>
+</ul>
+">
 
-<!ENTITY sharedLongDesc "<ul>
-  <li>Acest sait poate fi indisponibil temporar sau prea ocupat. Încercați din nou în câteva
-    momente.</li>
-  <li>Dacă nu puteți încărca nicio pagină, verificați legătura la rețea a calculatorului
-    dumneavoastră.</li>
-  <li>Dacă calculatorul dumneavoastră este protejat de un paravan de protecție sau un proxy, asigurați-vă că
-    &brandShortName; are permisiunea de a accesa internetul.</li>
-</ul>">
+<!ENTITY sharedLongDesc "
+<ul>
+  <li>The site could be temporarily unavailable or too busy. Try again in a few
+    moments.</li>
+  <li>If you are unable to load any pages, check your computer's network
+    connection.</li>
+  <li>If your computer or network is protected by a firewall or proxy, make sure
+    that &brandShortName; is permitted to access the Web.</li>
+</ul>
+">
 
-<!ENTITY malwareBlocked.title "Sait suspect de atacuri!">
-<!ENTITY malwareBlocked.longDesc "<p>Saiturile de atac încearcă să instaleze programe sau să fure informații private, folosind calculatorul dumneavoastră pentru a ataca altele sau provocând pagube calculatorului dumneavoastră.</p>
-<p>Proprietarii saiturilor web care cred că saitul lor a fost raportat ca unul de atac dintr-o greșeală pot <a href='http://www.stopbadware.org/home/reviewinfo' >cere o recenzie</a>.</p>">
+<!ENTITY malwareBlocked.title "Suspected Attack Site!">
+<!ENTITY malwareBlocked.longDesc "
+<p>Attack sites try to install programs that steal private information, use your computer to attack others, or damage your system.</p>
+<p>Web site owners who believe their site has been reported as an attack site in error may <a href='http://www.stopbadware.org/home/reviewinfo' >request a review</a>.</p>
+">
 
-<!ENTITY phishingBlocked.title "Sait suspectat de fals!">
-<!ENTITY phishingBlocked.longDesc "<p>Introducerea de informații personale pe această pagină ar putea rezulta în furt de identitate sau altă fraudă.</p>
-<p>Aceste tipuri de falsuri web sunt folosite în păcăleli numite și „phishing”, în care pagini și adrese de email sunt folosite pentru a imita unele în care aveți încredere.</p>">
+<!ENTITY phishingBlocked.title "Suspected Web Forgery!">
+<!ENTITY phishingBlocked.longDesc "
+<p>Entering any personal information on this page may result in identity theft or other fraud.</p>
+<p>These types of web forgeries are used in scams known as phishing attacks, in which fraudulent web pages and emails are used to imitate sources you may trust.</p>
+">
 
-<!ENTITY cspFrameAncestorBlocked.title "Blocat de politica de securitate asupra conținutului">
-<!ENTITY cspFrameAncestorBlocked.longDesc "<p>&brandShortName; a împiedicat această pagină să se încarce în acest mod deoarece pagina are o politică de securitate asupra conținutului ce nu permite asta.</p>">
+<!ENTITY cspFrameAncestorBlocked.title "Blocked by Content Security Policy">
+<!ENTITY cspFrameAncestorBlocked.longDesc "<p>&brandShortName; prevented this page from loading in this way because the page has a content security policy that disallows it.</p>">
 
-<!ENTITY securityOverride.linkText "Sau puteți adăuga o excepție…">
-<!ENTITY securityOverride.getMeOutOfHereButton "Du-mă de aici!">
-<!ENTITY securityOverride.exceptionButtonLabel "Adaugă excepție…">
+<!ENTITY securityOverride.linkText "Or you can add an exception…">
+<!ENTITY securityOverride.getMeOutOfHereButton "Get me out of here!">
+<!ENTITY securityOverride.exceptionButtonLabel "Add Exception…">
 
 <!-- LOCALIZATION NOTE (securityOverride.warningContent) - Do not translate the
 contents of the <xul:button> tags.  The only language content is the label= field,
@@ -115,3 +181,7 @@ netError.xhtml) because it exposes functionality specific to firefox. -->
 <button id='getMeOutOfHereButton'>&securityOverride.getMeOutOfHereButton;</button>
 <button id='exceptionDialogButton'>&securityOverride.exceptionButtonLabel;</button>
 ">
+
+<!ENTITY remoteXUL.title "Remote XUL">
+<!ENTITY remoteXUL.longDesc "<p><ul><li>Please contact the website owners to inform them of this problem.</li></ul></p>">
+

@@ -6,23 +6,32 @@
 a replacement for the standard security certificate errors produced
 by NSS/PSM via netError.xhtml. -->
 
-<!ENTITY certerror.pagetitle  "Conexiune nesigură">
-<!ENTITY certerror.longpagetitle "Conexiunea nu este sigură">
+<!ENTITY certerror.pagetitle  "Untrusted Connection">
+<!ENTITY certerror.longpagetitle "This Connection is Untrusted">
 
 <!-- Localization note (certerror.introPara1) - The string "#1" will
 be replaced at runtime with the name of the server to which the user
 was trying to connect. -->
-<!ENTITY certerror.introPara1 "Ați cerut ca &brandShortName; să se conecteze în mod securizat la <b>#1</b>, dar nu se poate confirma securitatea conexiunii dumneavoastră.">
-<!ENTITY certerror.introPara2 "În mod normal, când încercați să vă conectați securizat, saiturile prezintă identificări de încredere pentru a-și demonstra autenticitatea. Cu toate acestea, identitatea acestui sait nu poate fi verificată.">
+<!ENTITY certerror.introPara1 "You have asked &brandShortName; to connect
+securely to <b>#1</b>, but we can't confirm that your connection is secure.">
+<!ENTITY certerror.introPara2 "Normally, when you try to connect securely,
+sites will present trusted identification to prove that you are
+going to the right place. However, this site's identity can't be verified.">
 
-<!ENTITY certerror.whatShouldIDo.heading "Ce ar trebui să fac?">
-<!ENTITY certerror.whatShouldIDo.content "Dacă de obicei vă conectați la acest sait fără probleme, această eroare ar putea însemna că cineva încearcă să vă păcălească și nu ar trebui să continuați.">
-<!ENTITY certerror.getMeOutOfHere.label "Du-mă de aici!">
+<!ENTITY certerror.whatShouldIDo.heading "What Should I Do?">
+<!ENTITY certerror.whatShouldIDo.content "If you usually connect to
+this site without problems, this error could mean that someone is
+trying to impersonate the site, and you shouldn't continue.">
+<!ENTITY certerror.getMeOutOfHere.label "Get me out of here!">
 
-<!ENTITY certerror.expert.heading "Înțeleg riscurile">
-<!ENTITY certerror.expert.content "Dacă înțelegeți ce se întâmplă, puteți seta &brandShortName; să aibă încredere pe viitor în identificarea acestui sait. <b>Chiar dacă aveți încredere în acest sait, această eroare ar putea însemna că cineva încearcă să vă păcălească.</b>">
-<!ENTITY certerror.expert.contentPara2 "Nu adăugați excepții decât dacă aveți un motiv întemeiat să credeți că acest sait nu folosește o identificare de încredere.">
-<!ENTITY certerror.addTemporaryException.label "Vizitează saitul">
-<!ENTITY certerror.addPermanentException.label "Adaugă o excepție permanentă">
+<!ENTITY certerror.expert.heading "I Understand the Risks">
+<!ENTITY certerror.expert.content "If you understand what's going on, you
+can tell &brandShortName; to start trusting this site's identification.
+<b>Even if you trust the site, this error could mean that someone is
+tampering with your connection.</b>">
+<!ENTITY certerror.expert.contentPara2 "Don't add an exception unless
+you know there's a good reason why this site doesn't use trusted identification.">
+<!ENTITY certerror.addTemporaryException.label "Visit site">
+<!ENTITY certerror.addPermanentException.label "Add permanent exception">
 
-<!ENTITY certerror.technical.heading "Detalii tehnice">
+<!ENTITY certerror.technical.heading "Technical Details">

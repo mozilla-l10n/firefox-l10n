@@ -1,0 +1,10 @@
+<!ENTITY aboutHome.header                       "<span>&brandShortName; </span><span id='header-suffix'>Pornire</span>">
+<!ENTITY aboutHome.recentTabs                   "Filele pe care le aveați deschise">
+<!ENTITY aboutHome.remoteTabs                   "Filele de pe alte calculatoare ale dumneavoastră">
+<!ENTITY aboutHome.recommendedAddons2           "Suplimentele pentru &brandShortName; dumneavoastră">
+<!ENTITY aboutHome.giveFeedback                 "Trimite opinii">
+<!ENTITY aboutHome.getHelp                      "Get Help">
+<!ENTITY aboutHome.footerWidth                  "10em">
+<!ENTITY aboutHome.openAllTabs                  "Open all in tabs">
+<!ENTITY aboutHome.noTabs                       "Nu sunt file deschide anterior">
+<!ENTITY aboutHome.noAddons                     "Niciun supliment recomandat">

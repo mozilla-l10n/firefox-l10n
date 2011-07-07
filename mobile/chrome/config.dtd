@@ -1,12 +1,12 @@
-<!ENTITY empty.label            "Căutare">
-<!ENTITY newpref.label          "Adaugă o preferință nouă">
-<!ENTITY addpref.name           "Nume">
-<!ENTITY addpref.value          "Valoare">
+<!ENTITY empty.label            "Search">
+<!ENTITY newpref.label          "Add a New Preference">
+<!ENTITY addpref.name           "Name">
+<!ENTITY addpref.value          "Value">
 
-<!ENTITY cancel.label           "Renunţă">
-<!ENTITY reset.label            "Resetează">
-<!ENTITY done.label             "Gata">
+<!ENTITY cancel.label           "Cancel">
+<!ENTITY reset.label            "Reset">
+<!ENTITY done.label             "Done">
 
-<!ENTITY integer.label          "Număr">
-<!ENTITY string.label           "Text">
+<!ENTITY integer.label          "Integer">
+<!ENTITY string.label           "String">
 <!ENTITY boolean.label          "Boolean">
