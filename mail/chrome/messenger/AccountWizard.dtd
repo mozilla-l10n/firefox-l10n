@@ -118,3 +118,12 @@
 <!ENTITY deferStorage.accesskey "G">
 <!ENTITY clickFinish.label "இந்த அமைவுகளை சேமிக்க “முடி” என சொடுக்கிவிட்டு, கணக்கு வழிகாட்டியை விட்டு வெளியேறுக.">
 <!ENTITY clickFinish.labelMac "இந்த அமைப்புகளை சேமித்து கணக்கு வழிகாட்டியை விட்டு வெளியேற Done இனைச் சொடுக்குக.">
+
+
+<!--
+Entities below were automatically added by compare-locales,
+ based on en-US entities.
+-->
+
+<!ENTITY leaveMsgsOnSrvr.label "Leave messages on server">
+<!ENTITY leaveMsgsOnSrvr.accesskey "L">
