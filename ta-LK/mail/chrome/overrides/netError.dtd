@@ -52,11 +52,6 @@
 <!ENTITY netInterrupt.longDesc "&sharedLongDesc;">
 
 <!ENTITY netOffline.title "இணைப்பில்லா நிலை செயற்படுமுறைமை">
-<!ENTITY netOffline.longDesc "
-<ul>
-  <li>Place &brandShortName; in online mode, then try again.</li>
-</ul>
-">
 
 <!ENTITY contentEncodingError.title "குறியீடாக்கல் வழுவை கொண்டுள்ளது">
 <!ENTITY contentEncodingError.longDesc "
