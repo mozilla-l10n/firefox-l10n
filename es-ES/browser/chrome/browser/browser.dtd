@@ -39,8 +39,6 @@
 <!ENTITY printCmd.label "Imprimir…">
 <!ENTITY printCmd.accesskey "m">
 <!ENTITY printCmd.commandkey "p">
-<!ENTITY import.label "Importar…">
-<!ENTITY import.accesskey "I">
 <!ENTITY goOfflineCmd.label "Trabajar sin conexión">
 <!ENTITY goOfflineCmd.accesskey "x">
 <!ENTITY menubarCmd.label "Barra de menús">
@@ -157,15 +155,6 @@
 <!ENTITY inspectPanelTitle.label "HTML">
 <!ENTITY inspectButton.label "Inspeccionar">
 <!ENTITY inspectButton.accesskey "I">
-<!ENTITY inspectNextButton.label "Siguiente">
-<!ENTITY inspectNextButton.accesskey "n">
-<!ENTITY inspectPreviousButton.label "Anterior">
-<!ENTITY inspectPreviousButton.accesskey "t">
-<!ENTITY inspectStyleButton.label "Estilo">
-<!ENTITY inspectStyleButton.accesskey "s">
-<!ENTITY inspectStylePanelTitle.label "Estilo">
-<!ENTITY inspectObjectButton.label "Objeto">
-<!ENTITY inspectObjectButton.accesskey "O">
 <!ENTITY getMoreDevtoolsCmd.label "Conseguir más herramientas">
 <!ENTITY getMoreDevtoolsCmd.accesskey "M">
 <!ENTITY fileMenu.label "Archivo">

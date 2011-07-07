@@ -56,8 +56,6 @@
 <!ENTITY cmd.new_separator.accesskey "v">
 <!ENTITY cmd.reloadLivebookmark.label "Recargar marcadores dinámicos">
 <!ENTITY cmd.reloadLivebookmark.accesskey "R">
-<!ENTITY cmd.reloadMicrosummary.label "Recargar título dinámico">
-<!ENTITY cmd.reloadMicrosummary.accesskey "R">
 <!ENTITY cmd.moveBookmarks.label "Mover…">
 <!ENTITY cmd.moveBookmarks.accesskey "M">
 <!ENTITY col.title.label "Nombre">

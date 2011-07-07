@@ -3,9 +3,9 @@
 <!ENTITY community.mozillaLink "&vendorShortName;">
 <!ENTITY community.middle2 ", una ">
 <!ENTITY community.creditsLink "comunidad global">
-<!ENTITY community.end2 " trabajando juntos para hacer mejor Internet. Creemos que Internet debería ser abierta, pública y accesible a todos sin ninguna restricción.">
-<!ENTITY contribute.start "¿Suena interesante?">
-<!ENTITY contribute.getInvolvedLink "¡Involúcrate! ">
+<!ENTITY community.end2 " que trabaja unida para hacer Internet mejor. Creemos que Internet debería ser abierta, pública y accesible a todo el mundo sin restricción alguna.">
+<!ENTITY contribute.start "¿Suena interesante? ">
+<!ENTITY contribute.getInvolvedLink "¡Involúcrese!">
 <!ENTITY contribute.end "">
 <!ENTITY bottomLinks.license "Información de licencia">
 <!ENTITY bottomLinks.rights "Derechos del usuario final">
@@ -13,23 +13,23 @@
 <!ENTITY update.checkingForUpdates "Buscando actualizaciones…">
 <!ENTITY update.checkingAddonCompat "Comprobando compatibilidad de complementos…">
 <!ENTITY update.noUpdatesFound "&brandShortName; está actualizado">
-<!ENTITY update.adminDisabled "Actualizaciones desactivadas por su administrador de sistema">
-<!ENTITY update.failed.start "Actualización fallida.">
+<!ENTITY update.adminDisabled "Actualizaciones desactivada por el administrador de su sistema">
+<!ENTITY update.failed.start "Actualización fallida. ">
 <!ENTITY update.failed.linkText "Descargar la última versión">
 <!ENTITY update.failed.end "">
 <!ENTITY update.manual.start "Descargar la ">
 <!ENTITY update.manual.linkText "última versión">
 <!ENTITY update.manual.end "">
-<!ENTITY update.downloading.start "Descargando actualización -">
+<!ENTITY update.downloading.start "Descargando actualización — ">
 <!ENTITY update.downloading.end "">
-<!ENTITY channel.description.start "Está actualmente en el ">
-<!ENTITY channel.description.end " canal de actualizaciones.">
+<!ENTITY channel.description.start "Está actualmente en el canal de actualizaciones ">
+<!ENTITY channel.description.end ". ">
 <!ENTITY channel.change "Cambiar">
-<!ENTITY channel.release.description "Disfruta la versión final probada y verificada, usada por cientos de millones de personas en todo el mundo. Mantén el control de tu experiencia en línea con una gran velocidad, fácil personalización y las últimas tecnologías web.">
-<!ENTITY channel.beta.description "Experimenta las características más novedosas con más estabilidad. Porporciona tu opinión y ayuda a refinar y pulir lo que estará en la versión final.">
-<!ENTITY channel.aurora.description "Experimenta las últimas innovaciones en un entorno inestable no recomendable para los débiles de corazón. Proporciona tu opinión sobre las características y rendimiento para ayudar a determinar qué llega a la versión final.">
-<!ENTITY channel.selector.start "Cambiar al">
-<!ENTITY channel.selector.end "canal de actualizaciones.">
+<!ENTITY channel.release.description "Disfrute la versión final probada y comprobada, en uso por cientos de millones en todo el mundo. Mantenga el control de su experiencia en línea con una súper velocidad, fácil personalización y las últimas tecnologías web.">
+<!ENTITY channel.beta.description "Experimente las características más recientes con más estabilidad. Dénos su opinión para ayudar a refinar y pulir lo que se incluirá en la versión final.">
+<!ENTITY channel.aurora.description "Experimente las últimas innovaciones en un entorno inestable no apto para los débiles de corazón. Dénos su opinión sobre las características y rendimiento para ayudar a determinar lo que se incluirá en la versión final.">
+<!ENTITY channel.selector.start "Cambiar al canal de actualizaciones ">
+<!ENTITY channel.selector.end ".">
 <!ENTITY channel.selector.applyButton "Aplicar y actualizar">
 <!ENTITY channel.selector.cancelButton "Cancelar">
 <!ENTITY cmdCloseMac.commandKey "w">
