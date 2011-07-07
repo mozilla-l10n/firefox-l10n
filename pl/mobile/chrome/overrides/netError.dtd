@@ -15,12 +15,12 @@
 <!ENTITY dnsNotFound.title "Nie odnaleziono adresu">
 <!ENTITY dnsNotFound.longDesc "
 <ul>
-  <li>Upewnij się, że wprowadzony adres nie zawiera takich literówek jak 
+  <li>Upewnij się, że wprowadzony adres nie zawiera takich literówek, jak 
     <strong>ww</strong>.mozilla.org zamiast
     <strong>www</strong>.mozilla.org</li>
   <li>Jeśli nie możesz otworzyć żadnej strony, sprawdź połączenie sieciowe
     komputera.</li>
-  <li>Jeśli komputer lub sieć jest chroniona przez zaporę sieciową lub serwer proxy, upewnij się,
+  <li>Jeśli komputer lub sieć są chronione przez zaporę sieciową lub serwer proxy, upewnij się,
     że &brandShortName; ma uprawnienia do łączenia się z Internetem.</li>
 </ul>
 ">
@@ -29,7 +29,7 @@
 <!ENTITY fileNotFound.longDesc "
 <ul>
   <li>Sprawdź, czy nazwa pliku nie zawiera dużych liter lub nie ma innych literówek.</li>
-  <li>Sprawdź czy plik nie został przeniesiony, usunięty lub jego nazwa nie została zmieniona.</li>
+  <li>Sprawdź, czy plik nie został przeniesiony, usunięty lub jego nazwa nie została zmieniona.</li>
 </ul>
 ">
 
@@ -44,7 +44,7 @@
 <ul>
   <li>Adresy stron zazwyczaj wyglądają mniej więcej tak  
     <strong>http://www.mozilla.org/</strong></li>
-  <li>Upewnij się, że używasz poprawnych slashy (np. 
+  <li>Upewnij się, że używasz poprawnych ukośników (np. 
     <strong>/</strong>).</li>
 </ul>
 ">
@@ -100,7 +100,7 @@
 <ul>
   <li>Upewnij się, że ustawienia serwera proxy są poprawne.</li>
   <li>Upewnij się, że połączenie sieciowe komputera działa.</li>
-  <li>Jeśli komputer lub sieć jest chroniona przez zaporę sieciową lub serwer proxy, upewnij się,
+  <li>Jeśli komputer lub sieć są chronione przez zaporę sieciową lub serwer proxy, upewnij się,
     że &brandShortName; ma uprawnienia do łączenia się z Internetem.</li>
 </ul>
 ">
@@ -108,7 +108,7 @@
 <!ENTITY redirectLoop.title "Ta strona nie przekierowuje poprawnie">
 <!ENTITY redirectLoop.longDesc "
 <ul>
-  <li>Ten problem może być czasem powodowany przez wyłączenie lub odmowe przyjęcia
+  <li>Ten problem może być czasem powodowany przez wyłączenie lub odmowę przyjęcia
     ciasteczek.</li>
 </ul>
 ">
@@ -124,8 +124,8 @@
 <!ENTITY nssFailure2.title "Nie udało się nawiązać bezpiecznego połączenia">
 <!ENTITY nssFailure2.longDesc "
 <ul>
-  <li>Strona którą próbujesz otworzyć nie może zostać wyświetlona ponieważ nie udało się zweryfikować autentyczności danych.</li>
-  <li>Skontaktuj się z administratorem strony, aby poinformować go o tym problemie lub skorzystaj z opcji w menu pomocy, aby zgłosić niedziałającą stronę.</li>
+  <li>Strona, którą próbujesz otworzyć, nie może zostać wyświetlona, ponieważ nie udało się zweryfikować autentyczności danych.</li>
+  <li>Skontaktuj się z administratorem strony, aby poinformować go o tym problemie, lub skorzystaj z opcji w menu pomocy, aby zgłosić niedziałającą stronę.</li>
 </ul>
 ">
 
@@ -141,7 +141,7 @@
 <ul>
   <li>Strona może być tymczasowo niedostępna lub przeciążona. Spróbuj ponownie za pewien czas.</li>
   <li>Jeśli nie udaje się otworzyć żadnej strony, sprawdź połączenie komputera z siecią.</li>
-  <li>Jeśli komputer lub sieć jest chroniona przez zaporę ogniową lub serwer proxy, upewnij się
+  <li>Jeśli komputer lub sieć są chronione przez zaporę sieciową lub serwer proxy, upewnij się
     że &brandShortName; ma uprawnienia do łączenia się z Internetem.</li>
 </ul>
 ">
@@ -172,7 +172,7 @@ which uses strings already defined above. The button is included here (instead o
 netError.xhtml) because it exposes functionality specific to firefox. -->
 
 <!ENTITY securityOverride.warningContent "
-<p>Nie powinno się dodawać wyjątku jeśli używasz połączenia internetowego, któremu nie możesz w pełni zaufać lub jeśli zazwyczaj nie pokazuje się to ostrzeżenie na tym serwerze.</p>
+<p>Nie powinno się dodawać wyjątku, jeśli używasz połączenia internetowego, któremu nie możesz w pełni zaufać, lub jeśli zazwyczaj nie pokazuje się to ostrzeżenie na tym serwerze.</p>
 
 <button id='getMeOutOfHereButton'>&securityOverride.getMeOutOfHereButton;</button>
 <button id='exceptionDialogButton'>&securityOverride.exceptionButtonLabel;</button>
