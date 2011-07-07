@@ -43,14 +43,9 @@
 <!ENTITY netInterrupt.title "Tenging slitnaði">
 <!ENTITY netInterrupt.longDesc "&sharedLongDesc;">
 <!ENTITY netOffline.title "Ónettengdur hamur">
-<!-- LOCALIZATION NOTE (netOffline.overrideLongDesc) - This string should
-     indicate that "Work Offline" is a menu item without being too specific,
-     since it could be in either the normal menu (Mac/Linux) or the Firefox button
-     menu (Windows).
--->
-<!ENTITY netOffline.overrideLongDesc "
+<!ENTITY netOffline.longDesc2 "
 <ul>
-  <li>Afhakaðu valmyndina &quot;Vinna án nettengingar&quot;, reyndu svo aftur.</li>
+  <li>Smelltu á &quot;Reyna aftur&quot; til að tengjast netinu og endurnýja síðuna.</li>
 </ul>
 ">
 <!ENTITY contentEncodingError.title "Kóðunarvilla">
@@ -139,6 +134,8 @@
 ">
 <!ENTITY cspFrameAncestorBlocked.title "Lokað á vegna öryggisreglu">
 <!ENTITY cspFrameAncestorBlocked.longDesc "<p>&brandShortName; kom í veg fyrir að þessi síða birtist á þennan hátt þar sem síðan inniheldur öryggisreglu sem kemur í veg fyrir það.</p>">
+<!ENTITY corruptedContentError.title "Villa skemmd gögn">
+<!ENTITY corruptedContentError.longDesc "<p>Ekki er hægt að sýna síðuna vegna villu í gagnasendingu.</p><ul><li>Hafðu samband við vefsíðueiganda til að láta hann vita af vandamálinu.</li></ul>">
 <!ENTITY securityOverride.linkText "Eða þú getur bætt við undantekningu…">
 <!ENTITY securityOverride.getMeOutOfHereButton "Hjálpaðu mér héðan út!">
 <!ENTITY securityOverride.exceptionButtonLabel "Bæta við undantekningu…">

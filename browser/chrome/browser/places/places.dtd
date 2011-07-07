@@ -25,10 +25,12 @@
 <!ENTITY cmd.findInBookmarks.accesskey "L">
 <!ENTITY cmd.findCurrent.label "Leita í núverandi safni…">
 <!ENTITY cmd.findCurrent.accesskey "i">
-<!ENTITY cmd.exportHTML.label "Flytja út HTML…">
-<!ENTITY cmd.exportHTML.accesskey "F">
-<!ENTITY cmd.importHTML.label "Flytja inn HTML…">
-<!ENTITY cmd.importHTML.accesskey "i">
+<!ENTITY importBookmarksFromHTML.label "Flytja inn bókamerki frá HTML…">
+<!ENTITY importBookmarksFromHTML.accesskey "i">
+<!ENTITY exportBookmarksToHTML.label "Flytja út bókamerki frá HTML…">
+<!ENTITY exportBookmarksToHTML.accesskey "e">
+<!ENTITY importOtherBrowser.label "Flytja inn gögn frá öðrum vafra…">
+<!ENTITY importOtherBrowser.accesskey "a">
 <!ENTITY cmd.backup.label "Afrita…">
 <!ENTITY cmd.backup.accesskey "A">
 <!ENTITY cmd.restore2.label "Endurheimta">

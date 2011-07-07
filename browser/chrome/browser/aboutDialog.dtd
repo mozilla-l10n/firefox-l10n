@@ -50,17 +50,3 @@
      example: You are currently on the _Stable_ update channel. -->
 <!ENTITY channel.description.start "Þú ert núna á ">
 <!ENTITY channel.description.end " uppfærslu rásinni. ">
-<!ENTITY channel.change "Breyta">
-<!ENTITY channel.release.description "Njóttu lokaútgáfunnar sem hefur verið vel prófuð og er notuð af hundruðum milljóna notenda út um allan heim. Vertu við stjórnvölinn þegar þú vafrar á miklum hraða, með einfalda möguleika á að sérsníða og með nýjustu nettæknina.">
-<!ENTITY channel.beta.description "Upplifðu nýjustu tæknina en með meiri stöðugleika. Sendu inn þínar skoðanir til að hjálpa til við að fínstilla og laga það sem verður í lokaútgáfunni.">
-<!ENTITY channel.aurora.description "Upplifðu nýjustu nýjungarnar í óstöðugu umhverfi, þetta er alls ekki fyrir viðkvæma. Sendu inn þínar skoðanir um eiginleika og hraða til að hjálpa til við að ákveða hvað verður í lokaútgáfunni.">
-<!-- LOCALIZATION NOTE (channel.selector.start,channel.selector.end): channel.selector.start and
-     channel.selector.end create one sentence, with a channel selection menulist instered in between.
-     This is all in one line, so try to make the localized text short.
-     example: Switch to the [Stable] update channel. -->
-<!ENTITY channel.selector.start "Skipta yfir í">
-<!ENTITY channel.selector.end "uppfærslu rásina.">
-<!-- LOCALIZATION NOTE (channel.selector.applyButton): This button applies the user's choice to switch
-     to a new update channel and starts the application update process. -->
-<!ENTITY channel.selector.applyButton "Virkja og uppfæra">
-<!ENTITY channel.selector.cancelButton "Hætta við">
