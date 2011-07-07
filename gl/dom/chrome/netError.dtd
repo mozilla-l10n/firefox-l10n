@@ -27,11 +27,10 @@ de mozilla.org) O explorador cancelou o seu pedido para súa protección e segur
 <!ENTITY malformedURI.longDesc "<p>Non se recoñece o formato do enderezo fornecido. Busque erros na barra de localización e tente de novo.</p>">
 
 <!ENTITY netInterrupt.title "Interrompeuse a transferencia de datos">
-<!ENTITY netInterrupt.longDesc "<p>O navegador conectouse con éxito, mais a conexión interrompeuse durante a tranferencia de información. Tente de novo.</p><ul><li>Non consegue navegar por outros sitios? Verifique a conexión de rede do computador.</li><li>Continúa a ter problemas? Consulte co administrador da rede ou co fornecedor da Internet para obter soporte técnico.</li></ul>">
+<!ENTITY netInterrupt.longDesc "<p>O navegador conectouse con éxito, mais a conexión interrompeuse durante a transferencia de información. Tente de novo.</p><ul><li>Non consegue navegar por outros sitios? Verifique a conexión de rede do computador.</li><li>Continúa a ter problemas? Consulte co administrador da rede ou co fornecedor da Internet para obter soporte técnico.</li></ul>">
 
 <!ENTITY netOffline.title "Modo sen conexión">
-<!ENTITY netOffline.longDesc "<p>O navegador está a funcionar en modo sen conexión e non se pode conectar ao elemento solicitado.</p><ul><li>O computador está conectado a unha rede activa?</li><li>Desactive o modo sen conexión no navegador e tente de novo.</li></ul>">
-<!ENTITY netOffline.overrideLongDesc "<p>O navegador está a funcionar en modo sen conexión e non se pode conectar ao elemento solicitado.</p><ul><li>O computador está conectado a unha rede activa?</li><li>Desactive o modo sen conexión no navegador e tente de novo.</li></ul>">
+<!ENTITY netOffline.longDesc2 "<p>O navegador está a funcionar en modo sen conexión e non é posíbel conectar ao elemento solicitado.</p><ul><li>O computador está conectado a unha rede activa?</li><li>Prema &quot;Tentar de novo&quot; para desactivar o modo sen conexión e recargar a páxina.</li></ul>">
 
 <!ENTITY contentEncodingError.title "Erro de codificación do contido">
 <!ENTITY contentEncodingError.longDesc "<p>Non é posíbel mostrar a páxina a que está a tentar acceder porque utiliza un formulario de compresión non compatíbel.</p><ul><li>Contacte cos propietarios do sitio web para informalos deste problema.</li></ul>">
@@ -83,6 +82,9 @@ servidor.</li>
 
 <!ENTITY cspFrameAncestorBlocked.title "Bloqueado pola política de seguranza de contidos">
 <!ENTITY cspFrameAncestorBlocked.longDesc "<p>O navegador impediu que esta páxina se cargue desta forma porque a páxina ten una política de seguranza de contido que non o permite.</p>">
+
+<!ENTITY corruptedContentError.title "Erro de contido corrupto">
+<!ENTITY corruptedContentError.longDesc "<p>Non é posíbel mostrar a páxina que está a tentar visualizar porque se produciu un erro na transmisión dos datos.</p><ul><li>Contacte cos propietarios do sitio web para informalos deste problema.</li></ul>">
 
 <!ENTITY remoteXUL.title "XUL remoto">
 <!ENTITY remoteXUL.longDesc "<p><ul><li>Contacte cos propietarios do sitio web para informalos deste problema.</li></ul></p>">
