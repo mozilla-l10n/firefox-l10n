@@ -33,11 +33,6 @@
 <!ENTITY cmd.bookmarkLink.label         "Бұл парақты бетбелгілерге қосу…">
 <!ENTITY cmd.bookmarkLink.accesskey     "п">
 
-<!ENTITY cmd.exportHTML.label           "HTML ретінде экспорттау…">
-<!ENTITY cmd.exportHTML.accesskey       "э">
-<!ENTITY cmd.importHTML.label           "HTML-ді импорттау…">
-<!ENTITY cmd.importHTML.accesskey       "и">
-
 <!ENTITY cmd.backup.label               "Резервті көшіру…">
 <!ENTITY cmd.backup.accesskey           "в">
 <!ENTITY cmd.restore2.label             "Қалпына келтіру">
