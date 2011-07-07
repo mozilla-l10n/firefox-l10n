@@ -70,7 +70,7 @@
 <!ENTITY consoleErrFile.label "Archivo de origen:">
 <!ENTITY consoleErrLine.label "Línea:">
 <!ENTITY consoleErrColumn.label "Columna:">
-<!ENTITY contextOpenInNewTab.label "Abrir enlace en otra pestaña">
+<!ENTITY contextOpenInNewTab.label "Abrir en una pestaña nueva">
 <!ENTITY contextSaveLink.label "Guardar enlace">
 <!ENTITY contextSaveImage.label "Guardar imagen">
 <!ENTITY contextShareLink.label "Compartir enlace">
@@ -86,6 +86,7 @@
 <!ENTITY pageactions.saveas.pdf "Guardar como PDF">
 <!ENTITY pageactions.share.page "Compartir página">
 <!ENTITY pageactions.password.forget "Olvidar contraseña">
+<!ENTITY pageactions.quit "Salir">
 <!ENTITY pageactions.reset "Limpiar preferencias del sitio">
 <!ENTITY pageactions.findInPage "Buscar en la página">
 <!ENTITY pageactions.search.addNew "Añadir motor de búsqueda">
