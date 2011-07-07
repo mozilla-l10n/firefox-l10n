@@ -193,3 +193,5 @@
 <!ENTITY eula.width                           "560px">
 <!ENTITY eula.height                          "400px">
 <!ENTITY eula.accept                          "Prijať a nainštalovať…">
+
+<!ENTITY settings.path.button.label           "Prehľadávať…">

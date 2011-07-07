@@ -22,9 +22,9 @@
 <!ENTITY password.manage                 "Správa hesiel…">
 
 <!ENTITY cookie.label                    "Nastavovanie cookies">
-<!ENTITY cookie.clear                    "Vymazať cookies">
+<!ENTITY cookie.remove                   "Odstrániť cookies">
 <!ENTITY cookie.manage                   "Správa cookies…">
-<!ENTITY cookie.clearAll                 "Vymazať všetky cookies">
+<!ENTITY cookie.removeAll                "Odstrániť všetky cookies">
 
 <!ENTITY geo.label                       "Prezradenie polohy">
 
