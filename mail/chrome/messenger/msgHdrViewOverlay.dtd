@@ -61,7 +61,7 @@
 <!ENTITY hdrArchiveButton.tooltip "arhivează acest mesaj">
 <!ENTITY hdrReplyButton.label "răspunde">
 <!ENTITY hdrReplyButton.tooltip "răspunde la acest mesaj">
-<!ENTITY hdrReplyAllButton.label "răspunde la toți">
+<!ENTITY hdrReplyAllButton.label "răspunde tuturor">
 <!ENTITY hdrReplyAllButton.tooltip "răspunde expeditorului și celorlalți destinatari">
 <!ENTITY hdrReplyListButton.label "răspunde listei">
 <!ENTITY hdrReplyListButton.tooltip "răspunde pe lista de discuții">
@@ -82,8 +82,8 @@
 <!ENTITY hdrViewToolbarAlwaysReplySender.accesskey "r">
 
 <!ENTITY otherActionsButton.label "alte acțiuni">
-<!ENTITY otherActionsShowConversation.label "arată ca conversație">
-<!ENTITY otherActionsShowConversation.accesskey "c">
+<!ENTITY otherActionsOpenConversation.label "deschide în conversație">
+<!ENTITY otherActionsOpenConversation.accesskey "c">
 <!ENTITY otherActionsOpenInNewWindow.label "deschide într-o fereastră nouă">
 <!ENTITY otherActionsOpenInNewWindow.accesskey "d">
 <!ENTITY otherActionsOpenInNewTab.label "deschide într-o filă nouă">
@@ -99,18 +99,45 @@
 <!ENTITY otherActionsPrint.label "tipărește…">
 <!ENTITY otherActionsPrint.accesskey "p">
 
+<!-- Attachment context menu items -->
 <!ENTITY openAttachmentCmd.label    "Deschide">
 <!ENTITY openAttachmentCmd.accesskey    "D">
 <!ENTITY saveAsAttachmentCmd.label    "Salvează ca…">
 <!ENTITY saveAsAttachmentCmd.accesskey    "a">
 <!ENTITY detachAttachmentCmd.label    "Elimină anexa…">
+<!ENTITY detachAttachmentCmd.accesskey    "E">
 <!ENTITY deleteAttachmentCmd.label    "Șterge">
+<!ENTITY deleteAttachmentCmd.accesskey    "t">
+<!ENTITY openAllAttachmentsCmd.label    "Open All…">
+<!ENTITY openAllAttachmentsCmd.accesskey    "O">
 <!ENTITY saveAllAttachmentsCmd.label    "Salvează toate…">
 <!ENTITY saveAllAttachmentsCmd.accesskey    "S">
 <!ENTITY detachAllAttachmentsCmd.label    "Elimină toate anexele…">
 <!ENTITY detachAllAttachmentsCmd.accesskey    "l">
 <!ENTITY deleteAllAttachmentsCmd.label    "Șterge toate anexele…">
 <!ENTITY deleteAllAttachmentsCmd.accesskey    "e">
+
+<!-- Attachment toolbar items -->
+<!ENTITY saveAttachmentButton.label       "salvează">
+<!ENTITY saveAttachmentButton.tooltip     "save the attached file">
+<!ENTITY saveAllAttachmentsButton.label   "save all">
+<!ENTITY saveAllAttachmentsButton.tooltip "save all the attached files">
+<!ENTITY openAttachmentMenuItem.label     "open">
+<!ENTITY openAttachmentMenuItem.accesskey    "o">
+<!ENTITY saveAsAttachmentMenuItem.label    "save as…">
+<!ENTITY saveAsAttachmentMenuItem.accesskey    "s">
+<!ENTITY detachAttachmentMenuItem.label    "detach…">
+<!ENTITY detachAttachmentMenuItem.accesskey    "d">
+<!ENTITY deleteAttachmentMenuItem.label    "delete">
+<!ENTITY deleteAttachmentMenuItem.accesskey    "e">
+<!ENTITY openAllAttachmentsMenuItem.label    "open all…">
+<!ENTITY openAllAttachmentsMenuItem.accesskey    "o">
+<!ENTITY saveAllAttachmentsMenuItem.label    "save all…">
+<!ENTITY saveAllAttachmentsMenuItem.accesskey    "s">
+<!ENTITY detachAllAttachmentsMenuItem.label    "detach all…">
+<!ENTITY detachAllAttachmentsMenuItem.accesskey    "d">
+<!ENTITY deleteAllAttachmentsMenuItem.label    "delete all…">
+<!ENTITY deleteAllAttachmentsMenuItem.accesskey    "e">
 
 <!ENTITY copyLinkCmd.label        "Copiază adresa legăturii">
 <!ENTITY copyLinkCmd.accesskey    "C">

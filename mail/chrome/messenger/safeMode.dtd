@@ -1,4 +1,5 @@
 <!-- ***** BEGIN LICENSE BLOCK *****
+#if 0
    - Version: MPL 1.1/GPL 2.0/LGPL 2.1
    -
    - The contents of this file are subject to the Mozilla Public License Version
@@ -11,16 +12,14 @@
    - for the specific language governing rights and limitations under the
    - License.
    -
-   - The Original Code is  Mozilla Communicator client code, released
-   - March 31, 1998.
+   - The Original Code is mozilla.org Code.
    -
-   - The Initial Developer of the Original Code is
-   - Netscape Communications Corporation
-   - Portions created by the Initial Developer are Copyright (C) 1998-1999
+   - The Initial Developer of the Original Code is Mike Connor.
+   - Portions created by the Initial Developer are Copyright (C) 2005
    - the Initial Developer. All Rights Reserved.
    -
    - Contributor(s):
-   -   Fabian Guisset <hidday@geocities.com>
+   -   Mike Connor <mconnor@steelgryphon.com>
    -
    - Alternatively, the contents of this file may be used under the terms of
    - either the GNU General Public License Version 2 or later (the "GPL"), or
@@ -34,17 +33,23 @@
    - the provisions above, a recipient may use your version of this file under
    - the terms of any one of the MPL, the GPL or the LGPL.
    -
+#endif
    - ***** END LICENSE BLOCK ***** -->
-   
-<!-- Labels -->
-<!ENTITY newFolderDialog.title      "Dosar nou">
-<!ENTITY name.label                 "Nume:">
-<!ENTITY name.accesskey             "N">
-<!ENTITY description.label          "Creează ca dosar sub:">
-<!ENTITY description.accesskey      "C">
-<!ENTITY folderRestriction1.label   "Acest server impune restricța ca dosarele să fie doar de două tipuri.">
-<!ENTITY folderRestriction2.label   "Noul dosar va conține:">
-<!ENTITY foldersOnly.label          "Doar dosare">
-<!ENTITY messagesOnly.label         "Doar mesaje">
-<!ENTITY accept.label               "Create Folder">
-<!ENTITY accept.accesskey           "r">
+
+<!ENTITY safeModeDialog.title             "&brandShortName; Safe Mode">
+<!ENTITY window.width                     "37em">
+
+<!ENTITY safeModeDescription.label        "&brandShortName; is now running in Safe Mode, which temporarily disables your custom settings, themes, and extensions.">
+<!ENTITY safeModeDescription2.label       "Puteți face permanente una sau mai multe din aceste schimbări:">
+
+<!ENTITY disableAddons.label              "Disable all add-ons">
+<!ENTITY disableAddons.accesskey          "D">
+
+<!ENTITY resetToolbars.label              "Reset toolbars and controls">
+<!ENTITY resetToolbars.accesskey          "R">
+
+<!ENTITY changeAndRestartButton.label     "Make Changes and Restart">
+<!ENTITY changeAndRestartButton.accesskey "M">
+
+<!ENTITY continueButton.label             "Continue in Safe Mode">
+<!ENTITY continueButton.accesskey         "C">

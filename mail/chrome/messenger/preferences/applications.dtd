@@ -7,7 +7,7 @@
 <!ENTITY  focusSearch1.key            "f">
 <!ENTITY  focusSearch2.key            "k">
 
-<!ENTITY  filter.emptytext            "Căutare">
+<!ENTITY  filter.placeholder          "Căutare">
 
 <!ENTITY saveTo.label                 "Salvează fișierele în">
 <!ENTITY saveTo.accesskey             "S">

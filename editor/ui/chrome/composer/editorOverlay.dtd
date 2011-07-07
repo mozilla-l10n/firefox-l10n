@@ -45,9 +45,6 @@
 <!-- File menu items -->
 <!ENTITY fileMenu.label "Fișier">
 <!ENTITY fileMenu.accesskey "F">
-<!ENTITY newBlankPageCmd.label "Pagină Composer">
-<!ENTITY newBlankPageCmd.accesskey "P" >
-<!ENTITY newMenu.label "Nouă">
 <!ENTITY openFileCmd.label "Deschide fișier…">
 <!ENTITY openFileCmd.accesskey "D">
 <!ENTITY openFileCmd.key "D">
@@ -69,14 +66,8 @@
 <!ENTITY publishCmd.key "S">
 <!ENTITY publishAsCmd.label "Publică ca…">
 <!ENTITY publishAsCmd.accesskey "P">
-<!ENTITY exportToTextCmd.label "Exportă ca text…">
-<!ENTITY exportToTextCmd.accesskey "E">
 <!ENTITY saveAsChangeEncodingCmd.label "Salvează cu schimbarea codării de caractere">
 <!ENTITY saveAsChangeEncodingCmd.accesskey "S">
-<!ENTITY previewCmd.label "Afișează în browser">
-<!ENTITY previewCmd.accesskey "A">
-<!ENTITY sendPageCmd.label "Trimite pagina…">
-<!ENTITY sendPageCmd.accesskey "T">
 <!ENTITY printSetupCmd.label "Aranjare în pagină…">
 <!ENTITY printSetupCmd.accesskey "A">
 <!ENTITY printCmd.label "Imprimă…">
@@ -116,8 +107,6 @@
 <!ENTITY checkSpellingCmd2.label "Verifică ortografia">
 <!ENTITY checkSpellingCmd2.accesskey "V">
 <!ENTITY checkSpellingCmd2.key "o">
-<!ENTITY validateCmd.label "Validează HTML">
-<!ENTITY validateCmd.accesskey "V">
 
 <!-- Insert menu items -->
 <!ENTITY insertMenu.label "Inserare">
@@ -332,11 +321,6 @@
 <!ENTITY decreaseIndent.accesskey "S">
 <!ENTITY decreaseIndent.key "[">
 
-<!ENTITY grid.label "Grid poziționare">
-<!ENTITY grid.accesskey "d">
-
-<!ENTITY pageProperties.label "Titlul și proprietățile paginii…">
-<!ENTITY pageProperties.accesskey "T">
 <!ENTITY colorsAndBackground.label "Culorile și fundalul paginii…">
 <!ENTITY colorsAndBackground.accesskey "C">
 
@@ -405,15 +389,13 @@
 
 <!-- Toolbar-only items -->
 <!ENTITY menuBar.tooltip "Bară meniu">
-<!ENTITY compositionToolbar.tooltip "Bară de redactare">
 <!ENTITY formatToolbar.tooltip "Bară formatare">
+<!ENTITY newToolbarCmd.label "Creează">
 <!ENTITY newToolbarCmd.tooltip "Creează o nouă pagină Composer">
 <!ENTITY openToolbarCmd.label "Deschide">
 <!ENTITY openToolbarCmd.tooltip "Deschide un fișier local">
 <!ENTITY saveToolbarCmd.tooltip "Salvează local fișierul">
 <!ENTITY publishToolbarCmd.tooltip "Încarcă fișierul într-o locație la distanță">
-<!ENTITY previewToolbarCmd.label "Răsfoiește">
-<!ENTITY previewToolbarCmd.tooltip "Încarcă această pagină în navigator">
 <!ENTITY printToolbarCmd.label "Imprimă">
 <!ENTITY printToolbarCmd.tooltip "Imprimă această pagină">
 <!ENTITY findToolbarCmd.label "Caută">
@@ -450,33 +432,7 @@
 <!ENTITY alignLeftButton.tooltip "Aliniază textul la stânga">
 <!ENTITY alignCenterButton.tooltip "Centrează textul">
 <!ENTITY alignRightButton.tooltip "Aliniază textul la dreapta">
-<!ENTITY alignjustifyButton.tooltip "Aliniază textul la stânga și la dreapta">
-
-<!-- Display Mode toolbar and View menu items -->
-<!ENTITY NormalModeTab.label "Normală">
-<!ENTITY NormalMode.label "Mod editare normal">
-<!ENTITY NormalMode.accesskey "n">
-<!ENTITY NormalMode.tooltip "Afișează bordurile tabelelor și ancorele cu nume">
-<!ENTITY AllTagsMode.label "Tag-uri HTML">
-<!ENTITY AllTagsMode.accesskey "a">
-<!ENTITY AllTagsMode.tooltip "Afișează iconuri pentru toate tag-urile HTML">
-
-<!ENTITY HTMLSourceMode.label "Sursă HTML">
-<!-- Toolbar has an image with "HTML" text, so don't include it in the string -->
-<!ENTITY SourceMode.label "Sursă">
-<!ENTITY HTMLSourceMode.accesskey "H">
-<!ENTITY HTMLSourceMode.tooltip "Editează sursa HTML">
-<!ENTITY PreviewMode.label "Previzualizare">
-<!ENTITY PreviewMode.accesskey "P">
-<!ENTITY PreviewMode.tooltip "Afișează ca în navigator">
-
-<!-- LOCALIZATION NOTE: Do NOT translate text for 'SourceTabDirection'
-     Use latin "ltr" if you want the <html> image to left of the 
-     'SourceMode.label' text defined above,
-     or use latin "rtl" if you want this image to the right of text
-     This is the value of the HTML 'dir' attribute
--->
-<!ENTITY SourceTabDirection "ltr">
+<!ENTITY alignJustifyButton.tooltip "Aliniază textul la stânga și la dreapta">
 
 <!-- Structure Toolbar Context Menu items -->
 <!ENTITY structSelect.label         "Selectează">

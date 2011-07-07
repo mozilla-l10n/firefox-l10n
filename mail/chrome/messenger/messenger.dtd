@@ -5,10 +5,20 @@
 <!-- File Menu -->
 <!ENTITY newFolderCmd.label "Dosar…">
 <!ENTITY newFolderCmd.accesskey "D">
-<!ENTITY closeTabCmd.label "Închide fila">
-<!ENTITY closeTabCmd.accesskey "e">
-<!ENTITY closeOtherTabsCmd.label "Închide celelalte file">
-<!ENTITY closeOtherTabsCmd.accesskey "l">
+<!ENTITY closeTabCmd2.label "Close Tab">
+<!ENTITY closeTabCmd2.accesskey "C">
+<!ENTITY closeOtherTabsCmd2.label "Close Other Tabs">
+<!ENTITY closeOtherTabsCmd2.accesskey "o">
+<!ENTITY recentlyClosedTabsCmd.label "Recently Closed Tabs">
+<!ENTITY recentlyClosedTabsCmd.accesskey "R">
+
+<!ENTITY undoCloseTabCmd.commandkey "T">
+<!-- LOCALIZATION NOTE (moveToNewWindow.label):
+     Menu option to cause the current tab to be migrated to a new Thunderbird
+     window.
+     -->
+<!ENTITY moveToNewWindow.label "Move to New Window">
+<!ENTITY moveToNewWindow.accesskey "W">
 <!ENTITY newVirtualFolderCmd.label "Dosar virtual din rezultatele unei căutări">
 <!ENTITY newVirtualFolderCmd.accesskey "s">
 <!ENTITY newOtherAccountsCmd.label "Alte conturi…">
@@ -26,7 +36,6 @@
 <!ENTITY saveAsFileCmd.key "S">
 <!ENTITY saveAsTemplateCmd.label "Șablon">
 <!ENTITY saveAsTemplateCmd.accesskey "l">
-<!ENTITY getNewMsgCmd.key "T">
 <!ENTITY getNewMsgForCmd.label "Adu mesajele noi pentru">
 <!ENTITY getNewMsgForCmd.accesskey "o">
 <!ENTITY getAllNewMsgCmdPopupMenu.label "Toate conturile">
@@ -73,14 +82,10 @@
 <!ENTITY deleteMsgCmd.accesskey "g">
 <!ENTITY undeleteMsgCmd.label "Recuperează mesajul șters">
 <!ENTITY undeleteMsgCmd.accesskey "j">
-<!ENTITY cancelNewsMsgCmd.label "Anulează mesajul">
-<!ENTITY cancelNewsMsgCmd.accesskey "m">
 <!ENTITY deleteMsgsCmd.label "Șterge mesajele selectate">
 <!ENTITY deleteMsgsCmd.accesskey "g">
 <!ENTITY undeleteMsgsCmd.label "Recuperează mesajele selectate">
 <!ENTITY undeleteMsgsCmd.accesskey "j">
-<!ENTITY cancelNewsMsgsCmd.label "Anulează mesajele selectate">
-<!ENTITY cancelNewsMsgsCmd.accesskey "n">
 <!ENTITY deleteFolderCmd.label "Șterge dosar">
 <!ENTITY deleteFolderCmd.accesskey "d">
 <!ENTITY unsubscribeNewsgroupCmd.label "Dezabonare">
@@ -132,8 +137,8 @@
 
 <!ENTITY folderView.label "Dosare">
 <!ENTITY folderView.accesskey "D">
-<!ENTITY smartFolders.label "Isteț">
-<!ENTITY smartFolders.accesskey "s">
+<!ENTITY unifiedFolders.label "Unificate">
+<!ENTITY unifiedFolders.accesskey "n">
 <!ENTITY allFolders.label "Toate">
 <!ENTITY allFolders.accesskey "a">
 <!ENTITY unreadFolders.label "Necitite">
@@ -313,6 +318,11 @@ you can use these alternative items. Otherwise, their values should be empty.  -
 <!ENTITY goBackCmd.commandKey "[">
 <!ENTITY prevStarredMsgCmd.label "Mesaj cu steluță">
 <!ENTITY prevStarredMsgCmd.accesskey "s">
+<!ENTITY folderMenu.label "Folder">
+<!ENTITY folderMenu.accesskey "o">
+<!ENTITY thisFolder.label "This Folder">
+<!ENTITY thisFolder.accesskey "F">
+<!ENTITY goRecentlyClosedTabs.label "File închise recent">
 <!ENTITY startPageCmd.label "Pagina de start a contului">
 <!ENTITY startPageCmd.accesskey "s">
 
@@ -326,6 +336,8 @@ you can use these alternative items. Otherwise, their values should be empty.  -
 <!ENTITY archiveMsgCmd.label "Arhivează">
 <!ENTITY archiveMsgCmd.accesskey "A">
 <!ENTITY archiveMsgCmd.key  "A">
+<!ENTITY cancelNewsMsgCmd.label "Anulează mesajul">
+<!ENTITY cancelNewsMsgCmd.accesskey "m">
 <!ENTITY replyMsgCmd.label "Răspunde">
 <!ENTITY replyMsgCmd.accesskey "R">
 <!ENTITY replyMsgCmd.key  "R">
@@ -391,9 +403,11 @@ you can use these alternative items. Otherwise, their values should be empty.  -
 <!ENTITY tagCmd9.key "9">
 <!ENTITY markMenu.label "Marchează">
 <!ENTITY markMenu.accesskey "M">
+<!ENTITY toggleReadCmd.key "m">
 <!ENTITY markAsReadCmd.label "Ca citit">
 <!ENTITY markAsReadCmd.accesskey "C">
-<!ENTITY markAsReadCmd.key "M">
+<!ENTITY markAsUnreadCmd.label "As Unread">
+<!ENTITY markAsUnreadCmd.accesskey "U">
 <!ENTITY markThreadAsReadCmd.label "Conversația ca citită">
 <!ENTITY markThreadAsReadCmd.accesskey "t">
 <!ENTITY markThreadAsReadCmd.key "R">
@@ -417,6 +431,9 @@ you can use these alternative items. Otherwise, their values should be empty.  -
 <!ENTITY openMessageWindowCmd.label "Deschide mesajul">
 <!ENTITY openMessageWindowCmd.accesskey "D">
 <!ENTITY openMessageWindowCmd.key "O">
+<!ENTITY openConversationCmd.label "Deschide în conversație">
+<!ENTITY openConversationCmd.accesskey "s">
+<!ENTITY openConversationCmd.key "e">
 <!ENTITY openFeedMessage.label "Deschide mesajul de flux">
 <!ENTITY openFeedMessage.accesskey "D">
 <!ENTITY openFeedWebPageInWindow.label "Pagină web în fereastră nouă">
@@ -500,7 +517,6 @@ you can use these alternative items. Otherwise, their values should be empty.  -
 <!ENTITY getMsgButton.tooltip "Ia mesajele noi de pe server">
 <!ENTITY getAllNewMsgCmd.label "Toate conturile">
 <!ENTITY getAllNewMsgCmd.accesskey "T">
-<!ENTITY getAllNewMsgCmd.key "T">
 <!ENTITY newMsgButton.tooltip "Creează un mesaj nou">
 <!ENTITY replyButton.tooltip "Răspunde la acest mesaj">
 <!ENTITY replyAllButton.tooltip "Răspunde expeditorului și tuturor destinatarilor">
@@ -574,7 +590,7 @@ you can use these alternative items. Otherwise, their values should be empty.  -
 <!ENTITY SearchNameOrEmail.accesskey "N">
 
 <!-- Gloda Search Bar -->
-<!ENTITY glodaSearchBar.emptyText "Caută mesaje…">
+<!ENTITY glodaSearchBar.placeholder "Caută mesaje…">
 
 <!-- Quick Search Menu Bar -->
 <!ENTITY searchSubjectMenu.label "Subiect">
@@ -631,8 +647,14 @@ you can use these alternative items. Otherwise, their values should be empty.  -
 <!-- Thread Pane Context Menu -->
 <!ENTITY contextOpenNewWindow.label "Deschide mesajul în fereastră nouă">
 <!ENTITY contextOpenNewWindow.accesskey "f">
+<!-- The key potentially conflicts with cutCmd.accessKey which is defined in
+     textcontext.dtd from toolkit. Right now, both menu items can't be visible
+     at the same time, but should someone enable copy/paste of message, this key
+     would probably need to be changed. -->
 <!ENTITY contextOpenNewTab.label "Deschide mesajul într-o filă nouă">
 <!ENTITY contextOpenNewTab.accesskey "t">
+<!ENTITY contextOpenConversation.label "Deschide mesajul în conversație">
+<!ENTITY contextOpenConversation.accesskey "n">
 <!ENTITY contextEditAsNew.label "Editează ca mesaj nou…">
 <!ENTITY contextEditAsNew.accesskey "E">
 <!ENTITY contextArchive.label "Arhivează">
@@ -662,6 +684,53 @@ you can use these alternative items. Otherwise, their values should be empty.  -
 <!ENTITY contextPrintPreview.label "Previzualizare tipărire">
 <!ENTITY contextPrintPreview.accesskey "v">
 
+<!-- Thread Pane Column Picker -->
+<!-- LOCALIZATION NOTE (columnPicker.resetToInbox.label):
+   This option in the thread pane column picker causes us to reset the
+   customizations for the thread pane columns in this folder to their default.
+  -->
+<!ENTITY columnPicker.resetToInbox.label "Resetează coloanele la starea implicită">
+<!-- LOCALIZATION NOTE (columnPicker.applyTo.label):
+   This option in the thread pane column picker pops up a sub-menu containing
+   the "columnPicker.applyToFolder.label" and
+   "columnPicker.applyToFolderAndChildren.label" options.  This item indicates
+   a desire to apply the currently displayed set of columns to some other
+   folder(s).  The sub-menu items indicate whether we want to apply it to just
+   a folder or also its children.
+  -->
+<!ENTITY columnPicker.applyTo.label "Aplică coloanele la…">
+<!-- LOCALIZATION NOTE (columnPicker.applyToFolder.label):
+   This option in the thread pane column picker is found on a sub-menu beneath
+   the "columnPicker.applyTo.label" alongside
+   "columnPicker.applyToFolderAndChildren.label".  It indicates a desire to
+   apply the currently display thread pane column settings to a single folder
+   that the user selects using the same widget as the move to/copy to
+   mechanism (via a series of popups).
+  -->
+<!ENTITY columnPicker.applyToFolder.label "Dosar...">
+<!-- LOCALIZATION NOTE (columnPicker.applyToFolderAndChildren.label):
+   This option in the thread pane column picker is found on a sub-menu beneath
+   the "columnPicker.applyTo.label" alongside
+   "columnPicker.applyToFolder.label".  It indicates a desire to
+   apply the currently display thread pane column settings to a folder and all
+   of its descendents.  The user selects the folder using the same widget as the
+   move to/copy to mechanism (via a series of popups).
+  -->
+<!ENTITY columnPicker.applyToFolderAndChildren.label "Dosar și copiii lui…">
+<!-- LOCALIZATION NOTE (columnPicker.thisFolder.label):
+   This is used in the folder selection widget for the
+   "columnPicker.applyToFolder.label" and
+   "columnPicker.applyToFolderAndChildren.label" menu options.  Whenever
+   a folder has children, it results in a menu popup; the first menu item
+   in that popup is given this label to indicate that that folder should be
+   selected.  For example, if folder "A" has two children, "B" and "C", then
+   when the user hovers over "A", a new popup menu will be displayed whose
+   items are "This folder", "B", and "C".  This is the equivalent of the
+   "File here" option for the move to/copy to widge.t
+  -->
+<!ENTITY columnPicker.thisFolder.label "Acest dosar">
+
+
 <!-- Media (video/audio) controls -->
 <!ENTITY contextPlay.label "Redare">
 <!ENTITY contextPlay.accesskey "R">
@@ -684,14 +753,43 @@ you can use these alternative items. Otherwise, their values should be empty.  -
 <!-- Phishing Bar -->
 <!ENTITY phishingBarMessage2.label "Mesajul acesta poate fi o înșelătorie.">
 <!ENTITY removePhishingBarButton1.label "Ignoră avertismentul">
+<!ENTITY disablePhishingWarning1.label "Disable scam detection for all messages">
 <!ENTITY reportPhishingError1.label "Acest mesaj nu pare a fi o înșelătorie.">
 
-<!-- Message Header Button Box (to show hidden email addresses) -->
-<!ENTITY more.label "mai multe">
+<!-- MDN Bar -->
+<!ENTITY mdnBarIgnoreButton2.label "Ignore">
+<!ENTITY mdnBarIgnoreButton2.accesskey "I">
+<!ENTITY mdnBarSendButton2.label "Send Return Receipt">
+<!ENTITY mdnBarSendButton2.accesskey "S">
 
 <!-- Quick Search Bar -->
+<!-- LOCALIZATION NOTE (quickSearchCmd.key):
+     This is actually the key used for the global message search box; we have
+     not changed 
+     -->
 <!ENTITY quickSearchCmd.key "K">
-<!ENTITY searchAllMessages.label "Caută în toate mesajele">
+<!-- LOCALIZATION NOTE (searchAllMessages.label.base):
+     This is the base of the empty text for the global search box.  We replace
+     #1 with the contents of the appropriate
+     searchAllMessages.keyLabel2.* value for the platform.
+     The goal is to convey to the user that typing in the box will allow them
+     to search for messages globally and that there is a hotkey they can press
+     to get to the box faster.  If the global indexer is disabled, the search
+     box will be collapsed and the user will never see this message.
+     -->
+<!ENTITY searchAllMessages.label.base "Căutare în toate mesajele… #1">
+<!-- LOCALIZATION NOTE (searchAllMessages.keyLabel.nonmac):
+     The description of the key-binding to get into the global search box on
+     windows and linux (which use the control key).  We use the key defined in
+     the quickSearchCmd.key entity defined above, the letter should match it.
+     -->
+<!ENTITY searchAllMessages.keyLabel2.nonmac "&lt;Ctrl+K&gt;">
+<!-- LOCALIZATION NOTE (searchAllMessages.keyLabel.mac):
+     The description of the key-binding to get into the global search box on mac
+     systems.  We use the key defined in the quickSearchCmd.key entity defined
+     above, the letter should match it.
+     -->
+<!ENTITY searchAllMessages.keyLabel2.mac "&lt;&#x2318;K&gt;">
 
 <!-- Message Header Context Menu -->
 <!ENTITY AddToAddressBook.label "Adaugă la contacte…">
@@ -717,19 +815,15 @@ you can use these alternative items. Otherwise, their values should be empty.  -
 <!ENTITY reportPhishingURL.label "Raportează înșelătorie prin email">
 <!ENTITY reportPhishingURL.accesskey "o">
 
+<!-- Spell checker context menu items -->
+<!ENTITY spellAddDictionaries.label "Add Dictionaries…">
+<!ENTITY spellAddDictionaries.accesskey "A">
+
 <!-- Content Pane Context Menu -->
 <!ENTITY saveLinkAsCmd.label "Salvează legătura ca…">
 <!ENTITY saveLinkAsCmd.accesskey "S">
 <!ENTITY saveImageAsCmd.label "Salvează imaginea ca…">
 <!ENTITY saveImageAsCmd.accesskey "v">
-<!ENTITY cutCmd.label "Taie">
-<!ENTITY cutCmd.accesskey "T">
-<!ENTITY copyCmd.label "Copiază">
-<!ENTITY copyCmd.accesskey "C">
-<!ENTITY pasteCmd.label "Lipește">
-<!ENTITY pasteCmd.accesskey "p">
-<!ENTITY selectAllCmd.label "Selectează tot">
-<!ENTITY selectAllCmd.accesskey "a">
 <!ENTITY copyLinkCmd.label "Copiază adresa legăturii">
 <!ENTITY copyLinkCmd.accesskey "C">
 <!ENTITY copyImageAllCmd.label "Copiază imaginea">

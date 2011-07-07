@@ -1,48 +1,55 @@
 <!ENTITY autoconfigWizard.title          "Setarea contului de email">
 <!ENTITY name.label                      "Numele dumneavoastră:">
 <!ENTITY name.accesskey                  "N">
-<!ENTITY name.emptytext                  "Prenume Nume">
+<!ENTITY name.placeholder                "First Last">
 <!ENTITY name.text                       "Numele dumneavoastră, așa cum e afișat altora">
 <!ENTITY email.label                     "Adresa de email:">
 <!ENTITY email.accesskey                 "l">
-<!ENTITY email.emptytext                 "email@exemplu.ro">
+<!ENTITY email.placeholder               "email@exemplu.ro">
 <!ENTITY password.label                  "Parola:">
 <!ENTITY password.accesskey              "P">
-<!ENTITY password.emptytext              "Parolă">
+<!ENTITY password.placeholder            "Parolă">
 <!ENTITY password.text                   "Opțional, se va folosi doar pentru a valida numele de utilizator">
+<!ENTITY rememberPassword.label          "Memorează parola">
+<!ENTITY rememberPassword.accesskey      "M">
 
-<!ENTITY accountInformation.label        "Informații despre cont">
-<!ENTITY username2.label                 "Nume de utilizator:">
+<!ENTITY imapLong.label                  "IMAP (remote folders)">
+<!ENTITY pop3Long.label                  "POP3 (keep mail on your computer)">
+
 <!ENTITY incoming.label                  "Primire:">
 <!ENTITY outgoing.label                  "Trimitere:">
+<!ENTITY username.label                  "Nume de utilizator:">
+<!ENTITY hostname.label                  "Server hostname">
+<!ENTITY port.label                      "Port">
+<!ENTITY ssl.label                       "SSL">
+<!ENTITY auth.label                      "Autentificare">
+<!ENTITY imap.label                      "IMAP">
+<!ENTITY pop3.label                       "POP3">
+<!ENTITY smtp.label                      "SMTP">
+<!ENTITY autodetect.label                "Autodetect">
+<!-- LOCALIZATION NOTE(noEncryption.label): Neither SSL/TLS nor STARTTLS.
+     Transmission of emails in cleartext over the Internet. -->
 <!ENTITY noEncryption.label              "Fără">
 <!ENTITY starttls.label                  "STARTTLS">
 <!ENTITY sslTls.label                    "SSL/TLS">
 
-<!ENTITY imap.label                      "IMAP">
-<!ENTITY pop.label                       "POP">
-<!ENTITY smtp.label                      "SMTP">
-
-<!ENTITY manualSetup.label               "Setare manuală…">
-<!ENTITY manualSetup.accesskey           "S">
+<!ENTITY advancedSetup.label             "Advanced config">
+<!ENTITY advancedSetup.accesskey         "A">
 <!ENTITY cancel.label                    "Renunță">
 <!ENTITY cancel.accesskey                "R">
 <!ENTITY continue.label                  "Continuă">
 <!ENTITY continue.accesskey              "C">
-<!ENTITY startOver.label                 "Începe de la început">
-<!ENTITY startOver.accesskey             "n">
 <!ENTITY stop.label                      "Oprește">
 <!ENTITY stop.accesskey                  "O">
-<!-- LOCALIZATION NOTE (retest.label): This is the text that is
-     displayed on the button which will re-guess the account configuration,
-     taking into account the settings the user has changed. -->
-<!ENTITY retest.label                    "Testează din nou configurația">
-<!ENTITY retest.accesskey                "r">
-<!ENTITY edit.label                      "Editează">
-<!ENTITY edit.accesskey                  "E">
+<!-- LOCALIZATION NOTE (half-manual-test.label): This is the text that is
+     displayed on the button in manual edit mode which will re-guess
+     the account configuration, taking into account the settings that
+     the user has manually changed. -->
+<!ENTITY half-manual-test.label          "Re-test">
+<!ENTITY half-manual-test.accesskey      "t">
+<!ENTITY manual-edit.label               "Manual config">
+<!ENTITY manual-edit.accesskey           "M">
 
-<!ENTITY rememberPassword.label          "Memorează parola">
-<!ENTITY rememberPassword.accesskey      "M">
 
 <!ENTITY warning.label                   "Avertisment!">
 <!ENTITY incomingSettings.label          "Setări pentru primire:">

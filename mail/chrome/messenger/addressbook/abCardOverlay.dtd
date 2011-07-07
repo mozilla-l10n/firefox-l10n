@@ -64,6 +64,8 @@
 <!ENTITY PhoneticField2.label           "Fonetic:">
 <!ENTITY DisplayName.label              "Afișat ca:">
 <!ENTITY DisplayName.accesskey          "A">
+<!ENTITY preferDisplayName.label        "Always prefer display name over message header">
+<!ENTITY preferDisplayName.accesskey    "y">
 <!ENTITY NickName.label                 "Pseudonim:">
 <!ENTITY NickName.accesskey             "n">
 
@@ -113,9 +115,9 @@
 <!ENTITY Birthday.label                 "Zi de naștere:">
 <!ENTITY Birthday.accesskey             "Z">
 <!ENTITY In.label                       "">
-<!ENTITY Year.emptytext                 "An">
+<!ENTITY Year.placeholder               "Anul">
 <!ENTITY Or.value                       "sau">
-<!ENTITY Age.emptytext                  "Vârsta">
+<!ENTITY Age.placeholder                "Vârsta">
 <!ENTITY YearsOld.label                 "">
 
 <!ENTITY Work.tab                       "Lucru">
@@ -166,6 +168,6 @@
 <!ENTITY BrowsePhoto.accesskey          "R">
 <!ENTITY PhotoURL.label                 "Pe web">
 <!ENTITY PhotoURL.accesskey             "b">
-<!ENTITY PhotoURL.emptytext             "Inserați sau tastați adresa web a pozei">
+<!ENTITY PhotoURL.placeholder           "Inserați sau tastați adresa web a pozei">
 <!ENTITY UpdatePhoto.label              "Actualizează">
 <!ENTITY UpdatePhoto.accesskey          "u">

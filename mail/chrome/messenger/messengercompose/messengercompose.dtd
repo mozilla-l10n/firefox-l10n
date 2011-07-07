@@ -193,12 +193,16 @@
 <!ENTITY quoteButton.tooltip "Citează din mesajul anterior"> 
 <!ENTITY addressButton.tooltip "Selectați destinatarul din agenda de contacte"> 
 <!ENTITY attachButton.tooltip "Anexează un fișier la acest mesaj"> 
+<!ENTITY spellingButton.tooltip "Check spelling of selection or entire message">
 <!ENTITY saveButton.tooltip "Salvează acest mesaj"> 
 <!ENTITY cutButton.tooltip              "Taie">
 <!ENTITY copyButton.tooltip             "Copiază">
 <!ENTITY pasteButton.tooltip            "Inserează">
 
 <!-- Headers -->
+<!--LOCALIZATION NOTE headersSpace.style is for aligning  the From:, To: and
+    Subject: rows. It should be larger than the largest Header label  -->
+<!ENTITY headersSpace.style "width: 9em;">
 <!ENTITY fromAddr.label "De la:">
 <!ENTITY fromAddr.accesskey "D">
 <!ENTITY toAddr.label "Către:"> 
@@ -209,8 +213,9 @@
 <!ENTITY followupAddr.label "Urmare la:"> 
 <!ENTITY subject.label "Subiect:">
 <!ENTITY subject.accesskey "S">
-<!ENTITY attachments.label "Anexe:">
-<!ENTITY attachments.accesskey "A">
+<!-- LOCALIZATION NOTE attachments.accesskey This access key should correspond
+     to the strings in attachmentCount in composeMsgs.properties -->
+<!ENTITY attachments.accesskey "c">
 
 <!-- Format Toolbar, imported from editorAppShell.xul -->
 <!ENTITY SmileButton.tooltip "Inserează o figură zâmbitoare">
@@ -262,6 +267,10 @@
 <!ENTITY attachFile.accesskey "f">
 <!ENTITY attachPage.label "Anexează pagină web…">
 <!ENTITY attachPage.accesskey "w">
+
+<!-- Spell checker context menu items -->
+<!ENTITY spellAddDictionaries.label "Add Dictionaries…">
+<!ENTITY spellAddDictionaries.accesskey "A">
 
 <!-- Title for the address picker panel -->
 <!ENTITY addressesSidebarTitle.label "Adrese">
