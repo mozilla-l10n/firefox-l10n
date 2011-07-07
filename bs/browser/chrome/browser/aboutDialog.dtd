@@ -61,20 +61,3 @@
 <!ENTITY channel.description.start  "Vi ste trenutno na ">
 <!ENTITY channel.description.end    " update kanalu. ">
 
-<!ENTITY channel.change             "Promijeni">
-
-<!ENTITY channel.release.description       "Uživajte u isprobanoj i testiranoj finalnoj verziji koju koristi na stotine miliona ljudi širom svijeta. Zadržite kontrolu nad svojim online iskustvom uz super brzinu, jednostavno prilagođavanje i najmodernije Web tehnologije.">
-<!ENTITY channel.beta.description          "Iskusite najnovije mogućnosti uz više stabilnosti. Pošaljite nam povratnu informaciju kako bismo unaprijedili i ispolirali sve ono što će biti u finalnoj verziji.">
-<!ENTITY channel.aurora.description        "Iskusite najnovije inovacije u nestabilnom okruženju. Pošaljite nam povratnu informaciju o performansama kako bismo odlučili šta će ući u finalnu verziju.">
-
-<!-- LOCALIZATION NOTE (channel.selector.start,channel.selector.end): channel.selector.start and
-     channel.selector.end create one sentence, with a channel selection menulist instered in between.
-     This is all in one line, so try to make the localized text short.
-     example: Switch to the [Stable] update channel. -->
-<!ENTITY channel.selector.start          "Prebaci se na">
-<!ENTITY channel.selector.end            "update kanal.">
-
-<!-- LOCALIZATION NOTE (channel.selector.applyButton): This button applies the user's choice to switch
-     to a new update channel and starts the application update process. -->
-<!ENTITY channel.selector.applyButton    "Primjeni i izvrši update">
-<!ENTITY channel.selector.cancelButton   "Otkaži">

@@ -52,12 +52,7 @@
 <!ENTITY netInterrupt.longDesc "&sharedLongDesc;">
 
 <!ENTITY netOffline.title "Offline režim">
-<!-- LOCALIZATION NOTE (netOffline.overrideLongDesc) - This string should
-     indicate that "Work Offline" is a menu item without being too specific,
-     since it could be in either the normal menu (Mac/Linux) or the Firefox button
-     menu (Windows).
--->
-<!ENTITY netOffline.overrideLongDesc "
+<!ENTITY netOffline.longDesc2 "
 <ul>
   <li>Uklonite oznaku sa &quot;Radi Offline&quot; meni stavke, a zatim pokušajte ponovo.</li>
 </ul>
@@ -165,6 +160,9 @@
 
 <!ENTITY cspFrameAncestorBlocked.title "Blokirano od police za sigurnost sadržaja">
 <!ENTITY cspFrameAncestorBlocked.longDesc "<p>&brandShortName; je spriječio stranicu da se učita na ovaj način pošto stranica sadrži policu za sigurnost sadržaja koja to zabranjuje.</p>">
+
+<!ENTITY corruptedContentError.title "Oštećen sadržaj">
+<!ENTITY corruptedContentError.longDesc "<p>Stranica koju želite pogledati ne može biti prikazana usljed greške u prijenosu.</p><ul><li>Molimo da obavijestite vlasnike web stranice o ovom problemu.</li></ul>">
 
 <!ENTITY securityOverride.linkText "Ili možete dodati izuzetak…">
 <!ENTITY securityOverride.getMeOutOfHereButton "Vodi me odavde!">

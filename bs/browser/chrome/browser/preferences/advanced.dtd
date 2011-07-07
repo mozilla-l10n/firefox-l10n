@@ -29,6 +29,8 @@
 <!ENTITY checkNow.accesskey              "O">
 <!ENTITY submitCrashes.label             "Šalji izvještaje o rušenju">
 <!ENTITY submitCrashes.accesskey         "Š">
+<!ENTITY submitTelemetry.label           "Šalji izvještaje o performansama">
+<!ENTITY submitTelemetry.accesskey       "P">
 
 <!ENTITY networkTab.label                "Mreža">
 

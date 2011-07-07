@@ -25,8 +25,7 @@
 <!ENTITY netInterrupt.longDesc "<p>Browser se uspješno povezao sa stranicom, ali je veza prekinuta pri prijenosu informacija. Molimo vas da pokušate kasnije.</p><ul><li>Da li ste u nemogućnosti otvarati druge stranice? Provjerite mrežnu konekciju računara.</li><li>I dalje imate problem? Obratite se vašem administratoru mreže ili internet provajderu za pomoć.</li></ul>">
 
 <!ENTITY netOffline.title "Offline režim">
-<!ENTITY netOffline.longDesc "<p>Browser radi u offline režimu i ne može se povezati na traženo mjesto.</p><ul><li>Da li je računar povezan na aktivnu mrežu?</li><li>Prebacite browser u online režim i pokušajte ponovo.</li></ul>">
-<!ENTITY netOffline.overrideLongDesc "<p>Browser radi u offline režimu i ne može se povezati na traženo mjesto.</p><ul><li>Da li je računar povezan na aktivnu mrežu?</li><li>Prebacite browser u online režim i pokušajte ponovo.</li></ul>">
+<!ENTITY netOffline.longDesc2 "<p>Browser radi u offline režimu i ne može se povezati na traženo mjesto.</p><ul><li>Da li je računar povezan na aktivnu mrežu?</li><li>Pritisnite &quot;Pokušaj ponovo&quot; da prebacite browser u online režim i ponovo učitate stranicu.</li></ul>">
 
 <!ENTITY contentEncodingError.title "Greška u enkodiranju sadržaja">
 <!ENTITY contentEncodingError.longDesc "<p>Stranica koju pokušavate pogledati ne može biti prikazana jer koristi neispravnu ili nepodržanu formu kompresije.</p><ul><li>Molimo da kontaktirate vlasnike stranica te ih informišete o ovom problemu.</li></ul>">
@@ -92,3 +91,6 @@
 
 <!ENTITY remoteXUL.title "Remote XUL">
 <!ENTITY remoteXUL.longDesc "<p><ul><li>Molimo da obavijestite vlasnike web stranice o ovom problemu.</li></ul></p>">
+
+<!ENTITY corruptedContentError.title "Oštećen sadržaj">
+<!ENTITY corruptedContentError.longDesc "<p>Stranica koju želite pogledati ne može biti prikazana usljed greške u prijenosu.</p><ul><li>Molimo da obavijestite vlasnike web stranice o ovom problemu.</li></ul>">

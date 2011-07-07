@@ -62,8 +62,8 @@
 <!ENTITY  dontrememberActions.clearHistory.label "obrisati svu trenutnu historiju">
 <!ENTITY  dontrememberActions.post.label         ".">
 
-<!ENTITY  privateBrowsingPermanent.label "Trajni režim privatnog surfanja">
-<!ENTITY  privateBrowsingPermanent.accesskey "p">
+<!ENTITY  privateBrowsingPermanent2.label "Uvijek koristi režim privatnog surfanja">
+<!ENTITY  privateBrowsingPermanent2.accesskey "p">
 
 <!ENTITY  rememberHistory.label      "Pamti moju historiju surfanja">
 <!ENTITY  rememberHistory.accesskey  "P">
