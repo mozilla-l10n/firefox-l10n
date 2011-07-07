@@ -1,5 +1,5 @@
-<!ENTITY  splash_screen_label "Načítava sa">
-<!ENTITY  splash_screen_installing "Inštalujú sa knižnice\u2026">
+<!ENTITY  splash_screen_loading "Načítava sa">
+<!ENTITY  splash_screen_installing_libs "Inštalujú sa knižnice\u2026">
 <!ENTITY  splash_firstrun "Nastavuje sa &brandShortName;\u2026">
 <!ENTITY  no_space_to_start_error "Na spustenie prehliadača &brandShortName; nie je dostatok miesta.">
 <!ENTITY  error_loading_file "Pri načítavaní súborov potrebných na spustenie prehliadača &brandShortName; sa vyskytla chyba.">

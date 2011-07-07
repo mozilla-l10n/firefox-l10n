@@ -8,3 +8,4 @@
 <!ENTITY aboutHome.openAllTabs                  "Otvoriť všetko na kartách">
 <!ENTITY aboutHome.noTabs                       "Žiadne karty z posledného spustenia">
 <!ENTITY aboutHome.noAddons                     "Žiadne odporúčané doplnky">
+<!ENTITY aboutHome.getLocale                    "Zmeniť jazyk">

@@ -49,9 +49,9 @@
 <!ENTITY netInterrupt.longDesc "&sharedLongDesc;">
 
 <!ENTITY netOffline.title "Režim offline">
-<!ENTITY netOffline.longDesc "
+<!ENTITY netOffline.longDesc2 "
 <ul>
-  <li>Prepnite &brandShortName; do režimu online a skúste to znova.</li>
+  <li>Ak chcete prejsť do režimu online a opätovne načítať obsah stránky, kliknite na tlačidlo &quot;Skúsiť znova&quot;.</li>
 </ul>
 ">
 
@@ -152,6 +152,9 @@
 
 <!ENTITY cspFrameAncestorBlocked.title "Blokované kvôli zásadám ochrany obsahu">
 <!ENTITY cspFrameAncestorBlocked.longDesc "<p>Program &brandShortName; nepovolil načítanie stránky týmto spôsobom, pretože stránka obsahuje zásady ochrany obsahu, ktoré takéto načítanie neumožňujú.</p>">
+
+<!ENTITY corruptedContentError.title "Poškodený obsah">
+<!ENTITY corruptedContentError.longDesc "<p>Tento obsah nemohol byť zobrazený kvôli chybe pri prenose údajov.</p><ul><li>Kontaktuje poskytovateľa obsahu a informujte ho o tomto probléme.</li></ul>">
 
 <!ENTITY securityOverride.linkText "Alebo môžete pridať výnimku…">
 <!ENTITY securityOverride.getMeOutOfHereButton "Rýchlo odtiaľto preč!">

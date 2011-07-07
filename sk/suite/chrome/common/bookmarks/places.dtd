@@ -66,8 +66,6 @@
 
 <!ENTITY cmd.reloadLivebookmark.label       "Obnoviť aktívnu záložku">
 <!ENTITY cmd.reloadLivebookmark.accesskey   "a">
-<!ENTITY cmd.reloadMicrosummary.label       "Obnoviť aktuálny titulok">
-<!ENTITY cmd.reloadMicrosummary.accesskey   "t">
 
 <!ENTITY cmd.moveBookmarks.label            "Presunúť…">
 <!ENTITY cmd.moveBookmarks.accesskey        "u">
