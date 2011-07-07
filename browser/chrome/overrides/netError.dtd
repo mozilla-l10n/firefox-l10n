@@ -107,11 +107,6 @@ Entities below were automatically added by compare-locales,
  based on en-US entities.
 -->
 
-<!ENTITY netOffline.overrideLongDesc "
-<ul>
-  <li>&quot;Work Offline&quot; பட்டி உருப்படியின் தெரிவை நீக்குக, பின்னர் மீண்டும் முயற்சி செய்க.</li>
-</ul>
-">
 <!ENTITY securityOverride.warningContent "
 <p>You should not add an exception if you are using an internet connection that you do not trust completely or if you are not used to seeing a warning for this server.</p>
 
