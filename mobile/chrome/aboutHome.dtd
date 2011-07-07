@@ -8,3 +8,4 @@
 <!ENTITY aboutHome.openAllTabs                  "Abrir tudo em separadores">
 <!ENTITY aboutHome.noTabs                       "Nenhum separador desde a última vez">
 <!ENTITY aboutHome.noAddons                     "Sem extras recomendados">
+<!ENTITY aboutHome.getLocale                    "Mudar idioma">
