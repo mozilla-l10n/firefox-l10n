@@ -140,3 +140,16 @@ Entities below were automatically added by compare-locales,
 <!ENTITY maintenance.tooltip "உங்களுடைய புத்தகக்குறிகளை படியெடுக்க மற்றும் இறக்குமதி செய்க">
 <!ENTITY bySite.label "தளத்தின் படி"> 
 <!ENTITY byLastVisited.label "இறுதியாக அணுகப்பட்டதன் படி"> 
+
+
+<!--
+Entities below were automatically added by compare-locales,
+ based on en-US entities.
+-->
+
+<!ENTITY importBookmarksFromHTML.accesskey "I">
+<!ENTITY importBookmarksFromHTML.label "Import Bookmarks from HTML…">
+<!ENTITY importOtherBrowser.label "Import Data from Another Browser…">
+<!ENTITY exportBookmarksToHTML.accesskey "E">
+<!ENTITY exportBookmarksToHTML.label "Export Bookmarks to HTML…">
+<!ENTITY importOtherBrowser.accesskey "A">
