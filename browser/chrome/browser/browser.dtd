@@ -193,6 +193,7 @@ can reach it easily. -->
 <!ENTITY webConsoleCmd.accesskey      "В">
 <!ENTITY webConsoleCmd.commandkey     "c">
 
+<!ENTITY inspectPanelTitle.label      "HTML">
 <!ENTITY inspectMenu.label            "Бақылау">
 <!ENTITY inspectMenu.accesskey        "Б">
 <!ENTITY inspectMenu.commandkey       "i">
@@ -202,22 +203,8 @@ can reach it easily. -->
 <!ENTITY scratchpad.keycode           "VK_F4">
 <!ENTITY scratchpad.keytext           "F4">
 
-<!ENTITY inspectPanelTitle.label      "HTML">
 <!ENTITY inspectButton.label          "Бақылау">
 <!ENTITY inspectButton.accesskey      "Б">
-<!ENTITY inspectNextButton.label      "Келесі">
-<!ENTITY inspectNextButton.accesskey  "е">
-<!ENTITY inspectPreviousButton.label  "Алдыңғы">
-<!ENTITY inspectPreviousButton.accesskey "л">
-<!ENTITY inspectStyleButton.label     "Стилі">
-<!ENTITY inspectStyleButton.accesskey "С">
-<!ENTITY inspectStylePanelTitle.label  "Стилі">
-<!-- LOCALIZATION NOTE (inspectObjectButton.label): This button label
-  -  appears on the Inspector's toolbar. It is used to open and close the Object
-  -  panel. There is also a label in inspector.properties for the panel
-  -  titlebar: object.objectPanelTitle. -->
-<!ENTITY inspectObjectButton.label       "Объект">
-<!ENTITY inspectObjectButton.accesskey   "О">
 
 <!ENTITY editMenu.label         "Түзету"> 
 <!ENTITY editMenu.accesskey       "Т"> 

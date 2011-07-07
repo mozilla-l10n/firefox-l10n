@@ -17,6 +17,8 @@
 <!ENTITY cmd.back.tooltip                     "Бір параққа қайту">
 <!ENTITY cmd.forward.tooltip                  "Бір параққа алға бару">
 
+<!ENTITY settings.path.button.label           "Шолу…">
+
 <!-- global warnings -->
 <!ENTITY warning.safemode.label                    "Барлық кеңейтулер қауіпсіз режимімен сөндірілген.">
 <!ENTITY warning.checkcompatibility.label          "Кеңейтулер үйлесімдігін тексеруді сөндіру. Сізде үйлесімсіз кеңейтулер бар болуы мүмкін.">
