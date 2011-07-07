@@ -101,3 +101,12 @@ Entities below were automatically added by compare-locales,
 -->
 
 <!ENTITY syncGenerateNewKey.label "ஒரு புதியவிசையினை உருவாக்குக">
+
+
+<!--
+Entities below were automatically added by compare-locales,
+ based on en-US entities.
+-->
+
+<!ENTITY setup.choosePassword.label "Choose a Password">
+<!ENTITY setup.choosePassword.accesskey "P">

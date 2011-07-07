@@ -25,3 +25,11 @@ Entities below were automatically added by compare-locales,
 <!ENTITY permission.block "தடுக்க">
 <!ENTITY permissionsManager.title "அனுமதி முகாமையாளர்">
 <!ENTITY cookie.label "Cookies இனை அமைக்குக">
+
+<!--
+Entities below were automatically added by compare-locales,
+ based on en-US entities.
+-->
+
+<!ENTITY cookie.removeAll "Remove All Cookies">
+<!ENTITY cookie.remove "Remove Cookies">

@@ -195,3 +195,11 @@ Entities below were automatically added by compare-locales,
 
 <!ENTITY info.plugincheck.tooltip "உங்களுடைய உட்செருகல்கள் நவீனமானவையா என்பதை சரிபார்க்கவும்">
 <!ENTITY info.plugincheck.label "உங்களுடைய உட்செருகல்கள் நவீனமானவையா என்பதை சரிபார்க்கவும்">
+
+
+<!--
+Entities below were automatically added by compare-locales,
+ based on en-US entities.
+-->
+
+<!ENTITY settings.path.button.label "Browse…">

@@ -96,3 +96,13 @@ Entities below were automatically added by compare-locales,
 <!ENTITY netOffline.overrideLongDesc "<p>The browser is operating in its offline mode and cannot connect to the requested item.</p><ul><li>Is the computer connected to an active network?</li><li>Place the browser in online mode and try again.</li></ul>">
 <!ENTITY cspFrameAncestorBlocked.longDesc "<p>உலாவியானது இப்பக்கத்தை இந்த வழியில் ஏற்றுவதிலிருந்து தடுத்தது, ஏனெனில் இப்பக்கமானது ஒரு உள்ளடக்கப் பாதுகாப்புக் கொள்கையை வைத்திருப்பதனால் இதை அனுமதிக்காது.</p>">
 <!ENTITY cspFrameAncestorBlocked.title "உள்ளடக்க பாதுகாப்புகொள்கையால் தடுக்கப்பட்டுள்ளது">
+
+
+<!--
+Entities below were automatically added by compare-locales,
+ based on en-US entities.
+-->
+
+<!ENTITY corruptedContentError.longDesc "<p>The page you are trying to view cannot be shown because an error in the data transmission was detected.</p><ul><li>Please contact the website owners to inform them of this problem.</li></ul>">
+<!ENTITY corruptedContentError.title "Corrupted Content Error">
+<!ENTITY netOffline.longDesc2 "<p>The browser is operating in its offline mode and cannot connect to the requested item.</p><ul><li>Is the computer connected to an active network?</li><li>Press &quot;Try Again&quot; to switch to online mode and reload the page.</li></ul>">
