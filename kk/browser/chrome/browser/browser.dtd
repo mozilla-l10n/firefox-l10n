@@ -59,8 +59,6 @@ can reach it easily. -->
 <!ENTITY printCmd.label "Баспаға шығару…">
 <!ENTITY printCmd.accesskey "ш">
 <!ENTITY printCmd.commandkey "p">
-<!ENTITY import.label "Импорт…">
-<!ENTITY import.accesskey "м">
 
 <!ENTITY goOfflineCmd.label "Дербес жұмыс істеу">
 <!ENTITY goOfflineCmd.accesskey "Д">
