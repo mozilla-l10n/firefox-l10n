@@ -28,10 +28,12 @@
 <!ENTITY cmd.findCurrent.label          "Знайти в поточній колекції…">
 <!ENTITY cmd.findCurrent.accesskey      "і">
 
-<!ENTITY cmd.exportHTML.label           "Експортувати HTML…">
-<!ENTITY cmd.exportHTML.accesskey       "Е">
-<!ENTITY cmd.importHTML.label           "Імпортувати HTML…">
-<!ENTITY cmd.importHTML.accesskey       "І">
+<!ENTITY importBookmarksFromHTML.label     "Імпортувати закладки з HTML…">
+<!ENTITY importBookmarksFromHTML.accesskey "І">
+<!ENTITY exportBookmarksToHTML.label       "Експортувати закладки в HTML…">
+<!ENTITY exportBookmarksToHTML.accesskey   "Е">
+<!ENTITY importOtherBrowser.label          "Імпортувати дані з іншого браузера…">
+<!ENTITY importOtherBrowser.accesskey      "б">
 
 <!ENTITY cmd.backup.label               "Створити резервну копію…">
 <!ENTITY cmd.backup.accesskey           "С">

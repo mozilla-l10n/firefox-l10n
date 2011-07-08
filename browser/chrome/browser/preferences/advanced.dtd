@@ -29,6 +29,8 @@
 <!ENTITY checkNow.accesskey              "з">
 <!ENTITY submitCrashes.label             "Відсилати звіти про аварії">
 <!ENTITY submitCrashes.accesskey         "а">
+<!ENTITY submitTelemetry.label           "Відсилати дані про швидкодію">
+<!ENTITY submitTelemetry.accesskey       "ш">
 
 <!ENTITY networkTab.label                "Мережа">
 
