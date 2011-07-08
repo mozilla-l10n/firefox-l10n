@@ -202,8 +202,8 @@ can reach it easily. -->
   -  "Scratchpad" in your locale. You should feel free to find a close
   -  approximation to it or choose a word (or words) that means
   -  "simple discardable text editor". -->
-<!ENTITY scratchpad.label             "Bloc-notes">
-<!ENTITY scratchpad.accesskey         "B">
+<!ENTITY scratchpad.label             "Ardoise JavaScript">
+<!ENTITY scratchpad.accesskey         "A">
 <!ENTITY scratchpad.keycode           "VK_F4">
 <!ENTITY scratchpad.keytext           "F4">
 
