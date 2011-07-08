@@ -29,6 +29,8 @@
 <!ENTITY checkNow.accesskey              "C">
 <!ENTITY submitCrashes.label             "Trametter annunzias da collaps">
 <!ENTITY submitCrashes.accesskey         "T">
+<!ENTITY submitTelemetry.label           "Trametter datas davart la prestaziun">
+<!ENTITY submitTelemetry.accesskey       "P">
 
 <!ENTITY networkTab.label                "Rait">
 
