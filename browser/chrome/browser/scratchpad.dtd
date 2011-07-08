@@ -10,67 +10,67 @@
   -  "Scratchpad" in your locale. You should feel free to find a close
   -  approximation to it or choose a word (or words) that means
   -  "simple discardable text editor". -->
-<!ENTITY window.title                 "Malneta redaktilo">
+<!ENTITY window.title                 "Scratchpad">
 
-<!ENTITY fileMenu.label               "Dosiero">
-<!ENTITY fileMenu.accesskey           "D">
+<!ENTITY fileMenu.label               "File">
+<!ENTITY fileMenu.accesskey           "F">
 
-<!ENTITY newWindowCmd.label           "Nova fenestro">
+<!ENTITY newWindowCmd.label           "New Window">
 <!ENTITY newWindowCmd.accesskey       "N">
 <!ENTITY newWindowCmd.commandkey      "n">
 
-<!ENTITY openFileCmd.label            "Malfermi dosieron…">
-<!ENTITY openFileCmd.accesskey        "M">
+<!ENTITY openFileCmd.label            "Open File…">
+<!ENTITY openFileCmd.accesskey        "O">
 <!ENTITY openFileCmd.commandkey       "o">
 
-<!ENTITY saveFileCmd.label            "Konservi">
-<!ENTITY saveFileCmd.accesskey        "K">
+<!ENTITY saveFileCmd.label            "Save">
+<!ENTITY saveFileCmd.accesskey        "S">
 <!ENTITY saveFileCmd.commandkey       "s">
 
-<!ENTITY saveFileAsCmd.label          "Konservi kiel…">
-<!ENTITY saveFileAsCmd.accesskey      "i">
+<!ENTITY saveFileAsCmd.label          "Save As…">
+<!ENTITY saveFileAsCmd.accesskey      "A">
 
-<!ENTITY closeCmd.label               "Fermi">
+<!ENTITY closeCmd.label               "Close">
 <!ENTITY closeCmd.key                 "W">
-<!ENTITY closeCmd.accesskey           "F">
+<!ENTITY closeCmd.accesskey           "C">
 
-<!ENTITY editMenu.label               "Redakti">
-<!ENTITY editMenu.accesskey           "R">
+<!ENTITY editMenu.label               "Edit">
+<!ENTITY editMenu.accesskey           "E">
 
-<!ENTITY undoCmd.label                "Malfari">
+<!ENTITY undoCmd.label                "Undo">
 <!ENTITY undoCmd.key                  "Z">
-<!ENTITY undoCmd.accesskey            "M">
+<!ENTITY undoCmd.accesskey            "U">
 
-<!ENTITY redoCmd.label                "Refari">
+<!ENTITY redoCmd.label                "Redo">
 <!ENTITY redoCmd.key                  "Y">
 <!ENTITY redoCmd.accesskey            "R">
 
-<!ENTITY cutCmd.label                 "Eltondi">
+<!ENTITY cutCmd.label                 "Cut">
 <!ENTITY cutCmd.key                   "X">
-<!ENTITY cutCmd.accesskey             "e">
+<!ENTITY cutCmd.accesskey             "t">
 
-<!ENTITY copyCmd.label                "Kopii">
+<!ENTITY copyCmd.label                "Copy">
 <!ENTITY copyCmd.key                  "C">
-<!ENTITY copyCmd.accesskey            "K">
+<!ENTITY copyCmd.accesskey            "C">
 
-<!ENTITY pasteCmd.label               "Alglui">
+<!ENTITY pasteCmd.label               "Paste">
 <!ENTITY pasteCmd.key                 "V">
-<!ENTITY pasteCmd.accesskey           "A">
+<!ENTITY pasteCmd.accesskey           "P">
 
-<!ENTITY selectAllCmd.label           "Elekti ĉion">
+<!ENTITY selectAllCmd.label           "Select All">
 <!ENTITY selectAllCmd.key             "A">
-<!ENTITY selectAllCmd.accesskey       "ĉ">
+<!ENTITY selectAllCmd.accesskey       "A">
 
-<!ENTITY run.label                    "Ruli">
+<!ENTITY run.label                    "Run">
 <!ENTITY run.accesskey                "R">
 <!ENTITY run.key                      "r">
 
-<!ENTITY inspect.label                "Inspekti">
+<!ENTITY inspect.label                "Inspect">
 <!ENTITY inspect.accesskey            "I">
 <!ENTITY inspect.key                  "i">
 
-<!ENTITY display.label                "Montri">
-<!ENTITY display.accesskey            "M">
+<!ENTITY display.label                "Display">
+<!ENTITY display.accesskey            "D">
 <!ENTITY display.key                  "l">
 
 <!-- LOCALIZATION NOTE (environmentMenu.label, accesskey): This menu item was
@@ -79,11 +79,11 @@
   -  the user is evaluating against. I.e., Content (current tab) or Chrome
   -  (browser).
   -->
-<!ENTITY environmentMenu.label        "Medio">
-<!ENTITY environmentMenu.accesskey    "N">
+<!ENTITY environmentMenu.label        "Environment">
+<!ENTITY environmentMenu.accesskey    "n">
 
 
-<!ENTITY contentContext.label         "Enhavo">
+<!ENTITY contentContext.label         "Content">
 <!ENTITY contentContext.accesskey     "C">
 
 <!-- LOCALIZATION NOTE (browserContext.label, accesskey): This menu item is used
@@ -92,32 +92,32 @@
   -  enabled via the devtools.chrome.enabled preference. Formerly, this label
   -  was called "Chrome".
   -->
-<!ENTITY browserContext.label         "Retesplorilo">
-<!ENTITY browserContext.accesskey     "R">
+<!ENTITY browserContext.label         "Browser">
+<!ENTITY browserContext.accesskey     "B">
 
 <!-- LOCALIZATION NOTE (resetContext.label): This command allows the developer
   -  to reset/clear the global object of the environment where the code executes.
   -->
-<!ENTITY resetContext.label           "Rekomenci">
+<!ENTITY resetContext.label           "Reset">
 <!ENTITY resetContext.accesskey       "R">
 
-<!ENTITY executeMenu.label            "Ruli">
-<!ENTITY executeMenu.accesskey        "u">
+<!ENTITY executeMenu.label            "Execute">
+<!ENTITY executeMenu.accesskey        "x">
 
-<!ENTITY toolsMenu.label              "Iloj">
-<!ENTITY toolsMenu.accesskey          "I">
+<!ENTITY toolsMenu.label              "Tools">
+<!ENTITY toolsMenu.accesskey          "T">
 
-<!ENTITY errorConsoleCmd.label        "Konzolo de eraroj">
-<!ENTITY errorConsoleCmd.accesskey    "K">
+<!ENTITY errorConsoleCmd.label        "Error Console">
+<!ENTITY errorConsoleCmd.accesskey    "C">
 <!ENTITY errorConsoleCmd.commandkey   "j">
 
-<!ENTITY webConsoleCmd.label          "Konsolo de TTT">
-<!ENTITY webConsoleCmd.accesskey      "T">
+<!ENTITY webConsoleCmd.label          "Web Console">
+<!ENTITY webConsoleCmd.accesskey      "W">
 <!ENTITY webConsoleCmd.commandkey     "k">
 
 <!-- LOCALIZATION NOTE (textbox.placeholder1): This is some placeholder text
   -  that appears when the Scratchpad's text area is empty and unfocused.
   -  It should be a one-line JavaScript comment, i.e., preceded by '//'
   -->
-<!ENTITY textbox.placeholder1         "// Tajpu ion en JavaScript, elektu ĝin, alklaku per la alia butono kaj poste uzu Ruli, Inspekti aŭ Montri.">
+<!ENTITY textbox.placeholder1         "// Enter some JavaScript, select it, right click and select Run, Inspect or Display.">
 

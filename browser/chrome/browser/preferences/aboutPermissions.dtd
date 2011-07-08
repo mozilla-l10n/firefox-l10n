@@ -1,35 +1,35 @@
-<!ENTITY permissionsManager.title        "Administrado de permesoj">
+<!ENTITY permissionsManager.title        "Permissions Manager">
 
-<!ENTITY sites.search                    "Serĉi retejojn">
-<!ENTITY sites.allSites                  "Ĉiujn retejojn">
+<!ENTITY sites.search                    "Search Sites">
+<!ENTITY sites.allSites                  "All Sites">
 
 <!-- LOCALIZATION NOTE (permissions.header.start, permissions.header.end): These strings
      surround the host name of the site to make the header for the permissions page.
      example: "Permissions for mozilla.org" -->
-<!ENTITY header.site.start               "Permesoj por">
+<!ENTITY header.site.start               "Permissions for">
 <!ENTITY header.site.end                 "">
 
-<!ENTITY header.defaults                 "Normaj permesoj por ĉiuj retejoj">
+<!ENTITY header.defaults                 "Default Permissions for All Sites">
 
-<!ENTITY permissions.forgetSite          "Forgesi tiun ĉi retejon">
+<!ENTITY permissions.forgetSite          "Forget About This Site">
 
-<!ENTITY permission.alwaysAsk            "Ĉiam demandi">
-<!ENTITY permission.allow                "Permesi">
-<!ENTITY permission.allowForSession      "Permesi dum seanco">
-<!ENTITY permission.block                "Bloki">
+<!ENTITY permission.alwaysAsk            "Always Ask">
+<!ENTITY permission.allow                "Allow">
+<!ENTITY permission.allowForSession      "Allow for Session">
+<!ENTITY permission.block                "Block">
 
-<!ENTITY password.label                  "Konservi pasvortojn">
-<!ENTITY password.manage                 "Administri pasvortojn…">
+<!ENTITY password.label                  "Store Passwords">
+<!ENTITY password.manage                 "Manage Passwords…">
 
-<!ENTITY cookie.label                    "Difini kuketojn">
-<!ENTITY cookie.clear                    "Forviŝi kuketojn">
-<!ENTITY cookie.manage                   "Administri kuketojn…">
-<!ENTITY cookie.clearAll                 "Forviŝi ĉiujn kuketojn">
+<!ENTITY cookie.label                    "Set Cookies">
+<!ENTITY cookie.clear                    "Clear Cookies">
+<!ENTITY cookie.manage                   "Manage Cookies…">
+<!ENTITY cookie.clearAll                 "Clear All Cookies">
 
-<!ENTITY geo.label                       "Diskonigi lokon">
+<!ENTITY geo.label                       "Share Location">
 
 <!-- LOCALIZATION NOTE (indexedDB.label): This is describing indexedDB storage
      using the same language used for the permIndexedDB string in browser/pageInfo.dtd -->
-<!ENTITY indexedDB.label                 "Gardi deponejon por malkonektitaĵoj">
+<!ENTITY indexedDB.label                 "Maintain Offline Storage">
 
-<!ENTITY popup.label                     "Malfermi spruĉfenestrojn">
+<!ENTITY popup.label                     "Open Pop-up Windows">

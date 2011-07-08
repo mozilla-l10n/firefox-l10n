@@ -38,27 +38,27 @@
 
  ***** END LICENSE BLOCK ***** -->
 
-<!ENTITY            windowtitle.label      "&brandShortName; - Elekti profilon de uzanto">
+<!ENTITY            windowtitle.label      "&brandShortName; - Choose User Profile">
 
-<!ENTITY            profilename.label      "Nomo de profilo:">
+<!ENTITY            profilename.label      "Profile Name:">
 
 <!ENTITY            start.label            "Start &brandShortName;">
-<!ENTITY            exit.label             "Eliri">
+<!ENTITY            exit.label             "Exit">
 
-<!ENTITY            availprofiles.label    "Disponeblaj profiloj">
+<!ENTITY            availprofiles.label    "Available Profiles">
 
-<!ENTITY            newButton.label        "Krei profilon…">
-<!ENTITY            newButton.accesskey    "K">
-<!ENTITY            renameButton.label     "Renomi profilon…">
+<!ENTITY            newButton.label        "Create Profile…">
+<!ENTITY            newButton.accesskey    "C">
+<!ENTITY            renameButton.label     "Rename Profile…">
 <!ENTITY            renameButton.accesskey "R">
-<!ENTITY            deleteButton.label     "Forviŝi profilon…">
-<!ENTITY            deleteButton.accesskey "F">
+<!ENTITY            deleteButton.label     "Delete Profile…">
+<!ENTITY            deleteButton.accesskey "D">
 
 <!-- manager entities -->
-<!ENTITY            pmDescription.label    "&brandShortName; konservas en via profilo de uzanto informon pri viaj agordoj, preferoj kaj aliaj elementoj de uzanto.">
+<!ENTITY            pmDescription.label    "&brandShortName; stores information about your settings, preferences, and other user items in your user profile.">
 
-<!ENTITY            offlineState.label    "Labori malkonektite">
-<!ENTITY            offlineState.accesskey "a">
+<!ENTITY            offlineState.label    "Work offline">
+<!ENTITY            offlineState.accesskey "o">
 
-<!ENTITY            autoSelect.label       "Ne demandi je la komenciĝo">
-<!ENTITY            autoSelect.accesskey   "d">
+<!ENTITY            autoSelect.label       "Don't ask at startup">
+<!ENTITY            autoSelect.accesskey   "s">

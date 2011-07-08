@@ -1,64 +1,69 @@
-<!ENTITY  updateWizard.title              "Ĝisdatigo de programo">
+<!ENTITY  updateWizard.title              "Software Update">
 
-<!ENTITY  checking.title                  "Kontrolado de ĝisdatigoj">
-<!ENTITY  updateCheck.label               "Serĉado de novaj versioj de &brandShortName;…">
+<!ENTITY  checking.title                  "Checking for Updates">
+<!ENTITY  updateCheck.label               "Looking for newer versions of &brandShortName;…">
 
-<!ENTITY  pluginupdatesfound.title        "Haveblas ĝisdatigoj por aldonaĵoj">
-<!ENTITY  pluginupdatesfound.label        "Haveblas novaj versioj de unu aŭ pluraj el viaj aldonaĵoj.">
-<!ENTITY  pluginupdateslink.label         "Lerni kiel ĝisdatigi viajn aldonaĵojn.">
+<!ENTITY  pluginupdatesfound.title        "Found Updates for Plugins">
+<!ENTITY  pluginupdatesfound.label        "Newer versions of one or more of your plugins were found.">
+<!ENTITY  pluginupdateslink.label         "See how to upgrade your plugins.">
 
-<!ENTITY  noupdatesfound.title            "Neniu ĝisdatigo trovita">
-<!ENTITY  noupdatesautoenabled.intro      "Ne estas ĝisdatigoj disponeblaj. &brandShortName; kontrolos periode ĉu ekzistas ĝisdatigoj.">
-<!ENTITY  noupdatesautodisabled.intro     "Ne estas ĝisdatigoj disponeblaj. Bonvolu kontroli poste aŭ aktivigu la aŭtomatan kontroladon de ĝisdatigoj de 
-&brandShortName;.">
+<!ENTITY  noupdatesfound.title            "No Updates Found">
+<!ENTITY  noupdatesautoenabled.intro      "There are no updates available. &brandShortName; will check
+                                           periodically for updates.">
+<!ENTITY  noupdatesautodisabled.intro     "There are no updates available. Please check again later or enable
+                                           &brandShortName;'s automatic update checking.">
 
-<!ENTITY  manualUpdate.title              "Ne eblas ĝisdatigi">
-<!ENTITY  manualUpdate.desc               "Rekomendata sekureca kaj stabileca ĝisdatigo disponeblas, sed vi ne havas la sistemajn rajtojn por instali ĝin. Bonvolu kontakti vian sisteman administranton aŭ klopodu denove ekde konto kiu rajtas instali programojn en tiu ĉi komputilo.">
+<!ENTITY  manualUpdate.title              "Unable to Update">
+<!ENTITY  manualUpdate.desc               "A recommended security and stability update is available, but you do
+                                           not have the system permissions required to install it. Please contact your
+                                           system administrator, or try again from an account that has permission to
+                                           install software on this computer.">
 <!ENTITY  manualUpdate.space.desc         "A recommended security and stability update is available, but you do
                                            not have enough space to install it.">
-<!ENTITY  manualUpdateGetMsg.label        "Vi povas ĉiam akiri la lastan version de &brandShortName; ĉe:">
+<!ENTITY  manualUpdateGetMsg.label        "You can always get the latest version of &brandShortName; at:">
 
-<!ENTITY  incompatibleCheck.title         "Kontrolado de kongrueco de aldonaĵoj">
-<!ENTITY  incompatibleCheck.label         "Serĉado de novaj versioj de viaj aldonaĵoj…">
+<!ENTITY  incompatibleCheck.title         "Checking Add-on Compatibility">
+<!ENTITY  incompatibleCheck.label         "Looking for newer versions of your add-ons…">
 
-<!ENTITY  clickHere.label                 "Vidi plian informon pri ĉi tiu ĝisdatigo">
+<!ENTITY  clickHere.label                 "View more information about this update">
 
-<!ENTITY  evangelism.desc                 "Estas treege rekomendata apliki tiun ĉi ĝisdatigon de &brandShortName; kiel eble plej frue.">
+<!ENTITY  evangelism.desc                 "It is strongly recommended that you apply this 
+                                           update for &brandShortName; as soon as possible.">
 
-<!ENTITY  license.instructions            "Se vi kunsentas kun la kondiĉoj de tiu ĉi interkonsento alklaku la tekston Mi kunsentas 
-por daŭrigi la instaladon de ĉi tiu ĝisdatigo.">
+<!ENTITY  license.instructions            "If you agree to the terms of this agreement, click I Agree 
+                                           below to continue installing this update.">
 
-<!ENTITY  license.titleText               "Akceptado de la programa permesilo">
-<!ENTITY  license.introText               "Kondiĉoj por la uzado de tiu ĉi programo">
-<!ENTITY  license.instructionText         "Bonvolu legi la jenan permesilan interkonsenton.  Uzu la rulumskalon por vidi la ceteron de tiu ĉi interkonsento.">
-<!ENTITY  license.accept                  "Mi akceptas la kondiĉojn de la permesila interkonsento">
+<!ENTITY  license.titleText               "Software License Agreement">
+<!ENTITY  license.introText               "Terms and conditions for using this software.">
+<!ENTITY  license.instructionText         "Please read the following license agreement. Use the scroll bar to view the rest of this agreement.">
+<!ENTITY  license.accept                  "I accept the terms of the License Agreement">
 <!ENTITY  license.accept.accesskey        "c">
-<!ENTITY  license.decline                 "Mi ne akceptas la kondiĉojn de la permesila interkonsento">
+<!ENTITY  license.decline                 "I do NOT accept the terms of the License Agreement">
 <!ENTITY  license.decline.accesskey       "T">
 
-<!ENTITY  incompatibleList.title          "Nekongruaj aldonaĵoj trovitaj">
+<!ENTITY  incompatibleList.title          "Incompatible Add-ons Found">
 
 <!ENTITY  downloadPage.title              "Downloading &brandShortName;">
-<!ENTITY  downloading.intro               "Elŝutado de ĝisdatigo…">
-<!ENTITY  connecting.label                "Konektado al la ĝisdatiga servilo…">
-<!ENTITY  verificationFailedText.label    "&brandShortName; ne povis kontroli la sanon de la 
-poioma ĝisdatigo kiun ĝi elŝutis kaj 
-do ĝi elŝutas nun la tutan ĝisdatigan pakon.">
+<!ENTITY  downloading.intro               "Downloading the update…">
+<!ENTITY  connecting.label                "Connecting to the update server…">
+<!ENTITY  verificationFailedText.label    "&brandShortName; was unable to verify the integrity of the 
+                                           incremental update it downloaded, so it is now downloading
+                                           the complete update package.">
 
-<!ENTITY  viewDetails.tooltip             "Vidi detalojn pri tiu ĉi ĝisdatigo">
+<!ENTITY  viewDetails.tooltip             "View details for this update">
 
-<!ENTITY  details.link                    "Detaloj">
+<!ENTITY  details.link                    "Details">
 
-<!ENTITY  error.title                     "Ĝisdatigo malsukcesa">
+<!ENTITY  error.title                     "Update Failed">
 
-<!ENTITY  error.label                     "Estis problemoj dum la kontrolado, elŝutado aŭ instalado de tiu ĉi 
-ĝisdatigo. &brandShortName; ne povis esti ĝisdatigita ĉar:">
+<!ENTITY  error.label                     "There were problems checking for, downloading, or installing this 
+                                           update. &brandShortName; could not be updated because:">
                                            
-<!ENTITY  errorManual.label               "Vi povas ĝisdatigi &brandShortName; mem. Vizitu tiun ĉi ligilon 
-kaj elŝutu la lastan version:">
+<!ENTITY  errorManual.label               "You can update &brandShortName; manually by visiting this link
+                                           and downloading the latest version:">
                                            
-<!ENTITY  errorpatching.intro             "La parta ĝisdatigo ne povis esti aplikita. 
-&brandShortName; klopodos denove per elŝutado de kompleta ĝisdatigo.">
+<!ENTITY  errorpatching.intro             "The partial Update could not be applied. 
+                                           &brandShortName; will try again by downloading a complete Update.">
 
 <!ENTITY  genericBackgroundError.label    "&brandShortName; is unable to determine if there is an update available. Please
                                            make sure that you have the latest version of &brandShortName; from:">
@@ -67,21 +72,21 @@ kaj elŝutu la lastan version:">
 <!ENTITY  errorCertAttrHasUpdate.label    "Something is trying to trick &brandShortName; into accepting an
                                            insecure update. Please contact your network provider and seek help.">
 
-<!ENTITY  finishedPage.title              "Preta instali ĝisdatigon">
-<!ENTITY  finishedPage.text               "La ĝisdatigo estos instalita kiam &brandShortName; startos denove. Vi 
-povas restartigi &brandShortName; nun aŭ daŭrigi vian retesploradon kaj restartigi poste.">
+<!ENTITY  finishedPage.title              "Update Ready to Install">
+<!ENTITY  finishedPage.text               "The update will be installed the next time &brandShortName; starts. You 
+                                           can restart &brandShortName; now, or continue working and restart later.">
 
-<!ENTITY  finishedBackgroundPage.text     "Sekureca kaj stabileca ĝisdatigo por &brandShortName; estis 
-elŝutita kaj ĝi pretas esti instalita.">
-<!ENTITY  finishedBackground.name         "Ĝisdatigo:">
+<!ENTITY  finishedBackgroundPage.text     "A security and stability update for &brandShortName; has been
+                                           downloaded and is ready to be installed.">
+<!ENTITY  finishedBackground.name         "Update:">
 <!-- LOCALIZATION NOTE (finishedBackground.more): This string describes the button labels defined by restartNowButton and restartLaterButton in updates.properties. -->
-<!ENTITY  finishedBackground.more         "La ĝisdatigo estis instalita kiam &brandShortName; startos. Vi 
-povas restartigi &brandShortName; nun aŭ daŭrigi la retesploradon kaj restartigi poste.">
+<!ENTITY  finishedBackground.more         "The update will be installed the next time &brandShortName; starts. You
+                                           can restart &brandShortName; now, or continue working and restart later.">
 
-<!ENTITY  installed.title                 "Ĝisdatigo instalita">
-<!ENTITY  installed.intro                 "La ĝisdatigo estis sukcese instalita.">
-<!ENTITY  whatsnew.label                  "Legu pli pri tio kio estas nova…">
+<!ENTITY  installed.title                 "Update Installed">
+<!ENTITY  installed.intro                 "The update was successfully installed.">
+<!ENTITY  whatsnew.label                  "Read more about what's new…">
 
-<!ENTITY  update.details.label            "Detaloj">
-<!ENTITY  update.installedOn.label        "Instalita je:">
-<!ENTITY  update.status.label             "Stato:">
+<!ENTITY  update.details.label            "Details">
+<!ENTITY  update.installedOn.label        "Installed on:">
+<!ENTITY  update.status.label             "Status:">

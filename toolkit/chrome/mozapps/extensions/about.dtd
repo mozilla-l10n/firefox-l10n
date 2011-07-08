@@ -1,5 +1,5 @@
-<!ENTITY  creator.label               "Kreita de:">
-<!ENTITY  developers.label            "Disvolvigantoj:">
-<!ENTITY  translators.label           "Tradukistoj:">
-<!ENTITY  contributors.label          "Kontribuantoj:">
-<!ENTITY  homepage.label              "Viziti ĉefpaĝon">
+<!ENTITY  creator.label               "Created By:">
+<!ENTITY  developers.label            "Developers:">
+<!ENTITY  translators.label           "Translators:">
+<!ENTITY  contributors.label          "Contributors:">
+<!ENTITY  homepage.label              "Visit Home Page">

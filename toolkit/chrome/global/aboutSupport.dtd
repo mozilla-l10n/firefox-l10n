@@ -1,38 +1,40 @@
-<!ENTITY aboutSupport.pageTitle "Informo por solvado de problemoj">
+<!ENTITY aboutSupport.pageTitle "Troubleshooting Information">
 
 <!-- LOCALIZATION NOTE (aboutSupport.pageSubtitle): don't change the 'supportLink' id. -->
 <!ENTITY aboutSupport.pageSubtitle "
-  Tiu ĉi paĝo enhavas teĥnikajn informojn kiuj povas esti utilaj kiam vi klopodas solvi problemon. Se vi serĉas respondojn al oftaj demandoj pri  &brandShortName;, bonvolu viziti nian <a id='supportLink'>helporetejon</a>.
+  This page contains technical information that might be useful when you're
+  trying to solve a problem. If you are looking for answers to common questions
+  about &brandShortName;, check out our <a id='supportLink'>support web site</a>.
 ">
 
-<!ENTITY aboutSupport.extensionsTitle "Etendoprogramoj">
-<!ENTITY aboutSupport.extensionName "Nomo">
-<!ENTITY aboutSupport.extensionEnabled "Aktiva">
-<!ENTITY aboutSupport.extensionVersion "Versio">
+<!ENTITY aboutSupport.extensionsTitle "Extensions">
+<!ENTITY aboutSupport.extensionName "Name">
+<!ENTITY aboutSupport.extensionEnabled "Enabled">
+<!ENTITY aboutSupport.extensionVersion "Version">
 <!ENTITY aboutSupport.extensionId "ID">
 
-<!ENTITY aboutSupport.appBasicsTitle "Bazaj programaj informoj">
-<!ENTITY aboutSupport.appBasicsName "Nomo">
-<!ENTITY aboutSupport.appBasicsVersion "Versio">
-<!ENTITY aboutSupport.appBasicsProfileDir "Profila dosierujo">
-<!ENTITY aboutSupport.appBasicsEnabledPlugins "Aktivigitaj kromprogramoj">
-<!ENTITY aboutSupport.appBasicsBuildConfig "Agordoj de konstruado">
-<!ENTITY aboutSupport.appBasicsUserAgent "Agento de uzanto">
+<!ENTITY aboutSupport.appBasicsTitle "Application Basics">
+<!ENTITY aboutSupport.appBasicsName "Name">
+<!ENTITY aboutSupport.appBasicsVersion "Version">
+<!ENTITY aboutSupport.appBasicsProfileDir "Profile Directory">
+<!ENTITY aboutSupport.appBasicsEnabledPlugins "Enabled Plugins">
+<!ENTITY aboutSupport.appBasicsBuildConfig "Build Configuration">
+<!ENTITY aboutSupport.appBasicsUserAgent "User Agent">
 
-<!ENTITY aboutSupport.show.label "Malfermi entenantan dosierujon">
+<!ENTITY aboutSupport.show.label "Open Containing Folder">
 
 <!-- LOCALIZATION NOTE (aboutSupport.showMac.label): This is the Mac-specific
 variant of aboutSupport.show.label.  This allows us to use the preferred
 "Finder" terminology on Mac. -->
-<!ENTITY aboutSupport.showMac.label "Montri en dosierserĉilo">
+<!ENTITY aboutSupport.showMac.label "Show in Finder">
 
 <!ENTITY aboutSupport.modifiedPrefsTitle "Modified Preferences">
-<!ENTITY aboutSupport.modifiedPrefsName "Nomo">
-<!ENTITY aboutSupport.modifiedPrefsValue "Valoro">
+<!ENTITY aboutSupport.modifiedPrefsName "Name">
+<!ENTITY aboutSupport.modifiedPrefsValue "Value">
 
-<!ENTITY aboutSupport.graphicsTitle "Grafikoj">
+<!ENTITY aboutSupport.graphicsTitle "Graphics">
 
-<!ENTITY aboutSupport.installationHistoryTitle "Historio de instalado">
-<!ENTITY aboutSupport.updateHistoryTitle "Ĝisdatigi historion">
+<!ENTITY aboutSupport.installationHistoryTitle "Installation History">
+<!ENTITY aboutSupport.updateHistoryTitle "Update History">
 
-<!ENTITY aboutSupport.copyToClipboard.label "Kopii ĉion al tondujo">
+<!ENTITY aboutSupport.copyToClipboard.label "Copy all to clipboard">

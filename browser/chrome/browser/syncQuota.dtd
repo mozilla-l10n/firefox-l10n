@@ -1,4 +1,4 @@
-<!ENTITY quota.dialogTitle.label    "Limigo de spaco en servilo">
-<!ENTITY quota.retrievingInfo.label "Ricevado de informo pri limigo de spaco…">
-<!ENTITY quota.typeColumn.label     "Tipo">
-<!ENTITY quota.sizeColumn.label     "Grando">
+<!ENTITY quota.dialogTitle.label    "Server Quota">
+<!ENTITY quota.retrievingInfo.label "Retrieving quota information…">
+<!ENTITY quota.typeColumn.label     "Type">
+<!ENTITY quota.sizeColumn.label     "Size">
