@@ -25,8 +25,7 @@
 <!ENTITY netInterrupt.longDesc "<p>La connexiun è reussida, ella è dentant interrutta durant la transmissiun da datas. Emprova per plaschair anc ina giada.</p><ul><li>Na pos ti era betg chargiar autras websites? Controllescha la configuraziun da la connexiun a la rait da tes computer.</li><li>Na funcziuneschi anc adina betg? Contactescha l'administratur da la rait u il provider e dumonda agid.</li></ul>">
 
 <!ENTITY netOffline.title "Modus offline">
-<!ENTITY netOffline.longDesc "<p>Il navigatur è en il modus offline e na po perquai betg stabilir ina connexiun.</p><ul><li>È il computer collià cun ina rait activa?</li><li>Mida per plaschair l'applicaziun en il modus online ed emprova lura anc ina giada.</li></ul>">
-<!ENTITY netOffline.overrideLongDesc "<p>Il navigatur è en il modus offline e na po perquai betg stabilir ina connexiun.</p><ul><li>È il computer collià cun ina rait activa?</li><li>Mida per plaschair l'applicaziun en il modus online ed emprova lura anc ina giada.</li></ul>">
+<!ENTITY netOffline.longDesc2 "<p>Il navigatur è en il modus offline e na po perquai betg stabilir ina connexiun.</p><ul><li>È il computer collià cun ina rait activa?</li><li>Clicca sin &quot;Empruvar anc ina giada&quot; per midar en il modus online e rechargiar la pagina.</li></ul>">
 
 <!ENTITY contentEncodingError.title "Cuntegns cun codaziun nunvalida">
 <!ENTITY contentEncodingError.longDesc "<p>La pagina dumandada na po betg vegnir mussada, perquai ch'ella utilisescha ina furma da cumpressiun nunvalida u betg cumpatibla.</p><ul><li>Contactescha per plaschair l'administratur da la website per infurmar el davart quest problem.</li></ul>">
@@ -74,6 +73,10 @@
 
 <!ENTITY cspFrameAncestorBlocked.title "Bloccà da las directivas per la segirezza dal cuntegn">
 <!ENTITY cspFrameAncestorBlocked.longDesc "<p>Il navigatur ha impedì che questa pagina chargia en tala maniera perquai che la pagina cuntegna directivas per la segirezza dal cuntegn (content security policy) che scumondan quai.</p>">
+
+<!ENTITY corruptedContentError.title "Errur: Cuntegn donnegià">
+<!ENTITY corruptedContentError.longDesc "<p>La pagina che ti emprovas da contemplar na po betg vegnir mussada pervia d'ina errur en las datas tramessas.</p><ul><li>Contactescha il possessur da la website per l'infurmar davart quest problem.</li></ul>">
+
 
 <!ENTITY remoteXUL.title "Remote-XUL">
 <!ENTITY remoteXUL.longDesc "<p><ul><li>Infurmescha per plaschair il possesur da la website davart quest problem.</li></ul></p>">

@@ -189,4 +189,6 @@
 <!ENTITY eula.title                       "Contract da licenza da l'utilisader">
 <!ENTITY eula.width                       "560px">
 <!ENTITY eula.height                      "400px">
-<!ENTITY eula.accept                      "Acceptar ed installar...">
+<!ENTITY eula.accept                      "Acceptar ed installar…">
+
+<!ENTITY settings.path.button.label       "Tschertgar en…">
