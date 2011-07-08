@@ -39,7 +39,7 @@
 <!ENTITY addonInstall2.label "Добавить в &brandShortName;">
 <!ENTITY addonUninstall.label "Удалить">
 <!ENTITY addonCancel.label "Отмена">
-<!ENTITY addonShowPage.label "На страницу">
+<!ENTITY addonShowPage.label "На сайт">
 <!ENTITY downloadsHeader.label "Загрузки">
 <!ENTITY downloadShowPage.label "На страницу">
 <!ENTITY downloadShow2.label "Найти">
