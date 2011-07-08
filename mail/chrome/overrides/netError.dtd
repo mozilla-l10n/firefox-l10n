@@ -53,9 +53,9 @@
 <!ENTITY netInterrupt.longDesc "&sharedLongDesc;">
 
 <!ENTITY netOffline.title "Fehler: Offline-Modus">
-<!ENTITY netOffline.longDesc "
+<!ENTITY netOffline.longDesc2 "
 <ul>
-  <li>Deaktivieren Sie bitte den Offline-Modus in &brandShortName;, versuchen Sie es dann nochmals.</li>
+  <li>Wählen Sie &quot;Nochmals versuchen&quot;, um in den Online-Modus zu wechseln und die Seite erneut zu laden.</li>
 </ul>
 ">
 
@@ -165,6 +165,12 @@
 
 <!ENTITY cspFrameAncestorBlocked.title "Blockiert durch Inhaltsicherheitsrichtlinie (Content Security Policy)">
 <!ENTITY cspFrameAncestorBlocked.longDesc "<p>Laden dieser Seite in dieser Weise wurde vom Browser verhindert, weil sie eine Sicherheitsrichtlinie hat, die das nicht erlaubt.</p>">
+
+<!ENTITY corruptedContentError.title "Fehler: Beschädigte Inhalte">
+<!ENTITY corruptedContentError.longDesc "
+<p>Die Inhalte, die Sie anzusehen versuchen, können nicht angezeigt werden, da ein Fehler in der Datenübertragung festgestellt wurde.</p>
+<ul><li>Bitte kontaktieren Sie die Eigentümer, um sie über dieses Problem zu verständigen.</li></ul>
+">
 
 <!ENTITY securityOverride.linkText "Oder Sie können eine Ausnahme hinzufügen…">
 <!ENTITY securityOverride.getMeOutOfHereButton "Website verlassen!">
