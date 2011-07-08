@@ -36,26 +36,26 @@
 #endif
    - ***** END LICENSE BLOCK ***** -->
 
-<!ENTITY safeModeDialog.title         "&brandShortName; Safe Mode">
+<!ENTITY safeModeDialog.title         "&brandShortName; sekura reĝimo">
 <!ENTITY window.width                 "37em">
 
-<!ENTITY safeModeDescription.label    "&brandShortName; is now running in Safe Mode, which temporarily disables your custom settings, themes, and extensions.">
-<!ENTITY safeModeDescription2.label   "You can make some or all of these changes permanent:">
+<!ENTITY safeModeDescription.label    "&brandShortName; nun funkcias en sekura reĝimo, kiu tempe malaktivigas viajn personajn agordojn, etosojn kaj etendoprogramojn.">
+<!ENTITY safeModeDescription2.label   "Vi povas igi konstantaj kelkajn aŭ ĉiujn el tiuj ŝanĝoj:">
 
-<!ENTITY disableAddons.label          "Disable all add-ons">
-<!ENTITY disableAddons.accesskey      "D">
+<!ENTITY disableAddons.label          "Malaktivigi ĉiujn aldonaĵojn">
+<!ENTITY disableAddons.accesskey      "M">
 
-<!ENTITY resetToolbars.label          "Reset toolbars and controls">
+<!ENTITY resetToolbars.label          "Redifini ilarojn kaj kontrolojn">
 <!ENTITY resetToolbars.accesskey      "R">
 
-<!ENTITY deleteBookmarks.label        "Delete all bookmarks except for backups">
-<!ENTITY deleteBookmarks.accesskey    "b">
+<!ENTITY deleteBookmarks.label        "Forviŝi ĉiujn legosignojn krom la sekurkopiajn">
+<!ENTITY deleteBookmarks.accesskey    "s">
 
-<!ENTITY resetUserPrefs.label         "Reset all user preferences to &brandShortName; defaults">
+<!ENTITY resetUserPrefs.label         "Anstataŭi ĉiujn preferojn de uzanto per la predeterminitaj de &brandShortName;">
 <!ENTITY resetUserPrefs.accesskey     "p">
 
-<!ENTITY restoreSearch.label          "Restore default search engines">
+<!ENTITY restoreSearch.label          "Rekuperi la predeterminitajn serĉilojn">
 <!ENTITY restoreSearch.accesskey      "s">
 
-<!ENTITY changeAndRestartButton.label "Make Changes and Restart">
-<!ENTITY continueButton.label         "Continue in Safe Mode">
+<!ENTITY changeAndRestartButton.label "Fari ŝanĝojn kaj rekomenci">
+<!ENTITY continueButton.label         "Daŭrigi en sekura reĝimo">

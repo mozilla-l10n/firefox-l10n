@@ -35,14 +35,14 @@
 #endif
    - ***** END LICENSE BLOCK ***** -->
 
-<!ENTITY advancedJSDialog.title         "Advanced JavaScript Settings">
+<!ENTITY advancedJSDialog.title         "Spertaj agordoj de JavaScript">
 <!ENTITY window.width                   "37em">
 
-<!ENTITY allowScripts.label             "Allow scripts to:">
+<!ENTITY allowScripts.label             "Permesi al skizoj:">
 
-<!ENTITY moveResizeWindows.label        "Move or resize existing windows">
+<!ENTITY moveResizeWindows.label        "Movi aŭ ŝanĝi la grandon de ekzistantaj fenestroj">
 <!ENTITY moveResizeWindows.accesskey    "M">
-<!ENTITY raiseLowerWindows.label        "Raise or lower windows">
-<!ENTITY raiseLowerWindows.accesskey    "R">
-<!ENTITY disableContextMenus.label      "Disable or replace context menus">
-<!ENTITY disableContextMenus.accesskey  "D">
+<!ENTITY raiseLowerWindows.label        "Levi aŭ mallevi fenestrojn">
+<!ENTITY raiseLowerWindows.accesskey    "L">
+<!ENTITY disableContextMenus.label      "Malaktivigi aŭ anstataŭigi menuojn de kunteksto">
+<!ENTITY disableContextMenus.accesskey  "M">

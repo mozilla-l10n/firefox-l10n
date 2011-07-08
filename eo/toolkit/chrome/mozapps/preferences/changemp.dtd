@@ -1,9 +1,9 @@
-<!ENTITY setPassword.title                 "Change Master Password">
-<!ENTITY setPassword.tokenName.label       "Security Device">
-<!ENTITY setPassword.oldPassword.label     "Current password:">
-<!ENTITY setPassword.newPassword.label     "Enter new password:">
-<!ENTITY setPassword.reenterPassword.label "Re-enter password:">
-<!ENTITY setPassword.meter.label           "Password quality meter">
-<!ENTITY setPassword.meter.loading         "Loading">
-<!ENTITY masterPasswordDescription.label   "A Master Password is used to protect sensitive information like site passwords.  If you create a Master Password you will be asked to enter it once per session when &brandShortName; retrieves saved information protected by the password.">
-<!ENTITY masterPasswordWarning.label       "Please make sure you remember the Master Password you have set.  If you forget your Master Password, you will be unable to access any of the information protected by it.">
+<!ENTITY setPassword.title                 "Ŝanĝi ĉefan pasvorton">
+<!ENTITY setPassword.tokenName.label       "Sekureca aparato">
+<!ENTITY setPassword.oldPassword.label     "Nuna pasvorto:">
+<!ENTITY setPassword.newPassword.label     "Tajpu novan pasvorton:">
+<!ENTITY setPassword.reenterPassword.label "Retajpu pasvorton:">
+<!ENTITY setPassword.meter.label           "Mezurilo de pasvorta kvalito">
+<!ENTITY setPassword.meter.loading         "Ŝarganta">
+<!ENTITY masterPasswordDescription.label   "Ĉefa pasvorto estas uzata por protekti delikatan informon, kiel retejaj pasvortoj. Se vi kreis ĉefan pasvorton oni petos al vi tajpi ĝin po unu fojo en ĉiu seanco kiam &brandShortName; reprenas konservitan informon protektitan de la pasvorto.">
+<!ENTITY masterPasswordWarning.label       "Bonvolu certiĝu ke vi memoros la ĉefan pasvorton kiun vi ĵus elektis. Se vi forgesas ĝin vi ne povos aliri la informon protektata de ĝi.">

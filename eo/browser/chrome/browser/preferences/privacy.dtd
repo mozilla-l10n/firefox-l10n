@@ -1,80 +1,81 @@
-<!ENTITY tracking.label                 "Tracking">
+<!ENTITY tracking.label                 "Spurado">
 
-<!ENTITY doNotTrack.label               "Tell web sites I do not want to be tracked">
+<!ENTITY doNotTrack.label               "Diri al retejoj ke mi ne volas esti spurita">
 <!ENTITY doNotTrack.accesskey           "d">
 
-<!ENTITY  history.label                 "History">
+<!ENTITY  history.label                 "Historio">
 
-<!ENTITY  locationBar.label             "Location Bar">
+<!ENTITY  locationBar.label             "Retadresa strio">
 
-<!ENTITY  locbar.pre.label              "When using the location bar, suggest:">
-<!ENTITY  locbar.pre.accessKey          "u">
+<!ENTITY  locbar.pre.label              "Dum uzado de la retadresa strio, sugesti el:">
+<!ENTITY  locbar.pre.accessKey          "r">
 <!ENTITY  locbar.post.label             "">
-<!ENTITY  locbar.both.label             "History and Bookmarks">
-<!ENTITY  locbar.history.label          "History">
-<!ENTITY  locbar.bookmarks.label        "Bookmarks">
-<!ENTITY  locbar.nothing.label          "Nothing">
+<!ENTITY  locbar.both.label             "Historio kaj legosignoj">
+<!ENTITY  locbar.history.label          "Historio">
+<!ENTITY  locbar.bookmarks.label        "Legosignoj">
+<!ENTITY  locbar.nothing.label          "Nenio">
 
 
-<!ENTITY  acceptCookies.label           "Accept cookies from sites">
+<!ENTITY  acceptCookies.label           "Akcepti kuketojn el retejoj">
 <!ENTITY  acceptCookies.accesskey       "A">
 
-<!ENTITY  acceptThirdParty.label        "Accept third-party cookies">
+<!ENTITY  acceptThirdParty.label        "Akcepti nerektajn kuketojn">
 <!ENTITY  acceptThirdParty.accesskey    "c">
 
-<!ENTITY  keepUntil.label               "Keep until:">
+<!ENTITY  keepUntil.label               "Konservi ĝis:">
 <!ENTITY  keepUntil.accesskey           "K">
 
-<!ENTITY  expire.label                  "they expire">
-<!ENTITY  close.label                   "I close &brandShortName;">
-<!ENTITY  askEachTime.label             "ask me every time">
+<!ENTITY  expire.label                  "ili senvalidiĝas">
+<!ENTITY  close.label                   "mi finas &brandShortName;">
+<!ENTITY  askEachTime.label             "demandi al mi ĉiun fojon">
 
-<!ENTITY  cookieExceptions.label        "Exceptions…">
+<!ENTITY  cookieExceptions.label        "Esceptoj…">
 <!ENTITY  cookieExceptions.accesskey    "E">
 
-<!ENTITY  showCookies.label             "Show Cookies…">
-<!ENTITY  showCookies.accesskey         "S">
+<!ENTITY  showCookies.label             "Montri kuketojn…">
+<!ENTITY  showCookies.accesskey         "M">
 
-<!ENTITY  historyHeader.pre.label          "&brandShortName; will:">
-<!ENTITY  historyHeader.pre.accesskey      "w">
-<!ENTITY  historyHeader.remember.label     "Remember history">
-<!ENTITY  historyHeader.dontremember.label "Never remember history">
-<!ENTITY  historyHeader.custom.label       "Use custom settings for history">
+
+<!ENTITY  historyHeader.pre.label          "&brandShortName; :">
+<!ENTITY  historyHeader.pre.accesskey      "l">
+<!ENTITY  historyHeader.remember.label     "memoros historion">
+<!ENTITY  historyHeader.dontremember.label "neniam memoros historion">
+<!ENTITY  historyHeader.custom.label       "uzos personajn agordojn por la historio">
 <!ENTITY  historyHeader.post.label         "">
 
-<!ENTITY  rememberDescription.label      "&brandShortName; will remember your browsing, download, form and search history, and keep cookies from Web sites you visit.">
+<!ENTITY  rememberDescription.label      "&brandShortName; memoros la historion de via retesplorado, elŝutado, serĉadoj kaj formularoj, kaj ĝi konservos kuketojn de retejoj kiujn vi vizitas.">
 
 <!-- LOCALIZATION NOTE (rememberActions.pre.label): include a trailing space as needed -->
 <!-- LOCALIZATION NOTE (rememberActions.middle.label): include a starting and trailing space as needed -->
 <!-- LOCALIZATION NOTE (rememberActions.post.label): include a starting space as needed -->
-<!ENTITY  rememberActions.pre.label           "You may want to ">
-<!ENTITY  rememberActions.clearHistory.label  "clear your recent history">
-<!ENTITY  rememberActions.middle.label        ", or ">
-<!ENTITY  rememberActions.removeCookies.label "remove individual cookies">
+<!ENTITY  rememberActions.pre.label           "Vi eble volos ">
+<!ENTITY  rememberActions.clearHistory.label  "forviŝi vian ĵusan historion">
+<!ENTITY  rememberActions.middle.label        ", aŭ ">
+<!ENTITY  rememberActions.removeCookies.label "forviŝi individuajn kuketojn">
 <!ENTITY  rememberActions.post.label          ".">
 
-<!ENTITY  dontrememberDescription.label  "&brandShortName; will use the same settings as private browsing, and will not remember any history as you browse the Web.">
+<!ENTITY  dontrememberDescription.label  "&brandShortName; uzos la samajn agordojn de privata retesplorado, kaj ĝi ne memoros iun historion dum vi esploras la reton.">
 
 <!-- LOCALIZATION NOTE (dontrememberActions.pre.label): include a trailing space as needed -->
 <!-- LOCALIZATION NOTE (dontrememberActions.post.label): include a starting space as needed -->
-<!ENTITY  dontrememberActions.pre.label          "You may also want to ">
-<!ENTITY  dontrememberActions.clearHistory.label "clear all current history">
+<!ENTITY  dontrememberActions.pre.label          "Vi eble volos ankaŭ ">
+<!ENTITY  dontrememberActions.clearHistory.label "forviŝi la tutan aktualan historion">
 <!ENTITY  dontrememberActions.post.label         ".">
 
-<!ENTITY  privateBrowsingPermanent.label "Permanent Private Browsing mode">
+<!ENTITY  privateBrowsingPermanent.label "Konstanta reĝimo de privata retesplorado">
 <!ENTITY  privateBrowsingPermanent.accesskey "P">
 
-<!ENTITY  rememberHistory.label      "Remember my browsing history">
+<!ENTITY  rememberHistory.label      "Memori mian retesploran historion">
 <!ENTITY  rememberHistory.accesskey  "b">
 
-<!ENTITY  rememberDownload.label         "Remember download history">
-<!ENTITY  rememberDownload.accesskey     "d">
+<!ENTITY  rememberDownload.label         "Memori mian elŝutan historion">
+<!ENTITY  rememberDownload.accesskey     "e">
 
-<!ENTITY  rememberSearchForm.label       "Remember search and form history">
-<!ENTITY  rememberSearchForm.accesskey   "f">
+<!ENTITY  rememberSearchForm.label       "Memori historion de serĉadoj kaj formularoj">
+<!ENTITY  rememberSearchForm.accesskey   "s">
 
-<!ENTITY  clearOnClose.label             "Clear history when &brandShortName; closes">
-<!ENTITY  clearOnClose.accesskey         "r">
+<!ENTITY  clearOnClose.label             "Forviŝi historion kiam &brandShortName; finas">
+<!ENTITY  clearOnClose.accesskey         "f">
 
-<!ENTITY  clearOnCloseSettings.label     "Settings…">
-<!ENTITY  clearOnCloseSettings.accesskey "t">
+<!ENTITY  clearOnCloseSettings.label     "Agordoj…">
+<!ENTITY  clearOnCloseSettings.accesskey "a">
