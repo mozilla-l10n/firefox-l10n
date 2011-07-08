@@ -1,5 +1,5 @@
-<!ENTITY window.title              "Choose Folder">
+<!ENTITY window.title              "Elekti dosierujon">
 <!ENTITY window.style              "width: 36em; height: 18em;">
-<!ENTITY moveTo.label              "Move to:">
-<!ENTITY newFolderButton.label     "New Folder">
+<!ENTITY moveTo.label              "Movi al:">
+<!ENTITY newFolderButton.label     "Nova dosierujo">
 <!ENTITY newFolderButton.accesskey "N">

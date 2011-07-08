@@ -37,14 +37,14 @@
    -
    - ***** END LICENSE BLOCK ***** -->
 
-<!ENTITY title.label        "Customize Character Encoding">
-<!ENTITY current.label      "Active Character Encodings:">
-<!ENTITY remove.label       "Remove">
-<!ENTITY remove.accessKey   "R">
-<!ENTITY additional.label   "Available Character Encodings:">
-<!ENTITY add.label          "Add">
+<!ENTITY title.label        "Persone agordi signan enkodigon">
+<!ENTITY current.label      "Aktivaj signaj enkodigoj:">
+<!ENTITY remove.label       "Forigi">
+<!ENTITY remove.accessKey   "F">
+<!ENTITY additional.label   "Disponeblaj signaj enkodigoj:">
+<!ENTITY add.label          "Aldoni">
 <!ENTITY add.accessKey      "A">
-<!ENTITY moveUp.label       "Move Up">
-<!ENTITY moveUp.accessKey   "U">
-<!ENTITY moveDown.label     "Move Down">
-<!ENTITY moveDown.accessKey "D">
+<!ENTITY moveUp.label       "Movi supren">
+<!ENTITY moveUp.accessKey   "S">
+<!ENTITY moveDown.label     "Movi malsupren">
+<!ENTITY moveDown.accessKey "M">

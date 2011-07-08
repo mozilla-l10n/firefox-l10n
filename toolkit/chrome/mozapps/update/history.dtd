@@ -1,12 +1,12 @@
 
-<!ENTITY  history.title             "Update History">
-<!ENTITY  history.intro             "The following updates have been installed:">
-<!ENTITY  closebutton.label         "Close">
+<!ENTITY  history.title             "Ĝisdatigi historion">
+<!ENTITY  history.intro             "La jenaj ĝisdatigoj estis instalitaj:">
+<!ENTITY  closebutton.label         "Fermi">
                                      
-<!ENTITY  noupdates.label           "No updates installed yet">
+<!ENTITY  noupdates.label           "Neniu ĝisdatigo instalita ĝis nun">
 
-<!ENTITY  name.header               "Update Name">
-<!ENTITY  date.header               "Install Date">
-<!ENTITY  type.header               "Type">
-<!ENTITY  state.header              "State">
+<!ENTITY  name.header               "Nomo de ĝisdatigo">
+<!ENTITY  date.header               "Dato de ĝisdatigo">
+<!ENTITY  type.header               "Tipo">
+<!ENTITY  state.header              "ŝtato">
 

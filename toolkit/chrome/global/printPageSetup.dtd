@@ -1,62 +1,62 @@
 <!-- extracted from printjoboptions.xul -->
 
-<!ENTITY printSetup.title    "Page Setup">
+<!ENTITY printSetup.title    "Agordi paĝon">
 
-<!ENTITY basic.tab           "Format &amp; Options">
+<!ENTITY basic.tab           "Formato kaj opcioj">
 
-<!ENTITY formatGroup.label   "Format">
+<!ENTITY formatGroup.label   "Formato">
 
-<!ENTITY orientation.label   "Orientation:">
-<!ENTITY portrait.label      "Portrait">
-<!ENTITY portrait.accesskey  "P">
-<!ENTITY landscape.label     "Landscape">
-<!ENTITY landscape.accesskey "L">
+<!ENTITY orientation.label   "Orientiĝo:">
+<!ENTITY portrait.label      "Vertikala">
+<!ENTITY portrait.accesskey  "V">
+<!ENTITY landscape.label     "Horizontala">
+<!ENTITY landscape.accesskey "H">
 
-<!ENTITY scale.label         "Scale:">
+<!ENTITY scale.label         "Skalo:">
 <!ENTITY scale.accesskey     "S">
 <!ENTITY scalePercent        "&#037;">
 
-<!ENTITY shrinkToFit.label   "Shrink to fit Page Width">
-<!ENTITY shrinkToFit.accesskey "W">
+<!ENTITY shrinkToFit.label   "Adapti grandon al la larĝo de la paĝo">
+<!ENTITY shrinkToFit.accesskey "A">
 
-<!ENTITY optionsGroup.label  "Options">
+<!ENTITY optionsGroup.label  "Opcioj">
 
-<!ENTITY printBG.label       "Print Background (colors &amp; images)">
-<!ENTITY printBG.accesskey   "B">
+<!ENTITY printBG.label       "Presi fonon (kolorojn kaj bildojn)">
+<!ENTITY printBG.accesskey   "F">
 
-<!ENTITY advanced.tab        "Margins &amp; Header/Footer">
+<!ENTITY advanced.tab        "Marĝenoj kaj paĝokapo/paĝopiedo">
 
-<!ENTITY marginGroup.label   "Margins (#1)">
-<!ENTITY marginUnits.inches  "inches">
-<!ENTITY marginUnits.metric  "millimeters">
-<!ENTITY marginTop.label     "Top:">
-<!ENTITY marginTop.accesskey "T">
-<!ENTITY marginBottom.label  "Bottom:">
-<!ENTITY marginBottom.accesskey "B">
-<!ENTITY marginLeft.label    "Left:">
-<!ENTITY marginLeft.accesskey "L">
-<!ENTITY marginRight.label   "Right:">
-<!ENTITY marginRight.accesskey "R">
+<!ENTITY marginGroup.label   "Marĝenoj (#1)">
+<!ENTITY marginUnits.inches  "coloj">
+<!ENTITY marginUnits.metric  "milimetroj">
+<!ENTITY marginTop.label     "Supre:">
+<!ENTITY marginTop.accesskey "S">
+<!ENTITY marginBottom.label  "Malsupre:">
+<!ENTITY marginBottom.accesskey "M">
+<!ENTITY marginLeft.label    "Maldekstre:">
+<!ENTITY marginLeft.accesskey "A">
+<!ENTITY marginRight.label   "Dekstre:">
+<!ENTITY marginRight.accesskey "D">
 
-<!ENTITY headerFooter.label  "Headers &amp; Footers">
+<!ENTITY headerFooter.label  "Paĝokapoj kaj paĝopiedoj">
 
-<!ENTITY hfLeft.label        "Left:">
-<!ENTITY hfCenter.label      "Center:">
-<!ENTITY hfRight.label       "Right:">
-<!ENTITY headerLeft.tip      "Left header">
-<!ENTITY headerCenter.tip    "Center header">
-<!ENTITY headerRight.tip     "Right header">
-<!ENTITY footerLeft.tip      "Left footer">
-<!ENTITY footerCenter.tip    "Center footer">
-<!ENTITY footerRight.tip     "Right footer">
+<!ENTITY hfLeft.label        "Maldekstre:">
+<!ENTITY hfCenter.label      "Centre:">
+<!ENTITY hfRight.label       "Dekstre:">
+<!ENTITY headerLeft.tip      "Maldekstra paĝokapo">
+<!ENTITY headerCenter.tip    "Centra paĝokapo">
+<!ENTITY headerRight.tip     "Dekstra paĝokapo">
+<!ENTITY footerLeft.tip      "Maldekstra paĝokapo">
+<!ENTITY footerCenter.tip    "Centra paĝopiedo">
+<!ENTITY footerRight.tip     "Dekstra paĝopiedo">
 
-<!ENTITY hfTitle             "Title">
+<!ENTITY hfTitle             "Titolo">
 <!ENTITY hfURL               "URL">
-<!ENTITY hfDateAndTime       "Date/Time">
-<!ENTITY hfPage              "Page #">
-<!ENTITY hfPageAndTotal      "Page # of #">
-<!ENTITY hfBlank             "--blank--">
-<!ENTITY hfCustom            "Custom…">
+<!ENTITY hfDateAndTime       "Dato/Horo">
+<!ENTITY hfPage              "Paĝo #">
+<!ENTITY hfPageAndTotal      "Paĝo # de #">
+<!ENTITY hfBlank             "--malplena--">
+<!ENTITY hfCustom            "Persone agordita">
 
-<!ENTITY customPrompt.title  "Custom…">
-<!ENTITY customPrompt.prompt "Enter your custom header/footer text">
+<!ENTITY customPrompt.title  "Persone agordita">
+<!ENTITY customPrompt.prompt "Tajpu vian persone agorditan tekston por kaptitolo aŭ subtitolo">

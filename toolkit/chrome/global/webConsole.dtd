@@ -1,16 +1,16 @@
-<!ENTITY networkPanel.requestURL                  "Request URL">
-<!ENTITY networkPanel.requestMethod               "Request Method">
-<!ENTITY networkPanel.statusCode                  "Status Code">
+<!ENTITY networkPanel.requestURL                  "Peta URL">
+<!ENTITY networkPanel.requestMethod               "Peta metodo">
+<!ENTITY networkPanel.statusCode                  "Stata kodo">
 
-<!ENTITY networkPanel.requestHeaders              "Request Headers">
-<!ENTITY networkPanel.requestCookie               "Sent Cookie">
-<!ENTITY networkPanel.requestBody                 "Request Body">
-<!ENTITY networkPanel.requestFormData             "Sent Form Data">
+<!ENTITY networkPanel.requestHeaders              "Kapo de peto">
+<!ENTITY networkPanel.requestCookie               "Sendita kuketo">
+<!ENTITY networkPanel.requestBody                 "Korpo de peto">
+<!ENTITY networkPanel.requestFormData             "Senditaj formularaj datumoj">
 
-<!ENTITY networkPanel.responseHeaders             "Response Headers">
-<!ENTITY networkPanel.responseBody                "Response Body">
-<!ENTITY networkPanel.responseBodyCached          "Cached Data">
-<!ENTITY networkPanel.responseBodyUnknownType     "Unknown Content Type">
-<!ENTITY networkPanel.responseNoBody              "No Response Body">
-<!ENTITY networkPanel.responseImage               "Received Image">
-<!ENTITY networkPanel.responseImageCached         "Cached Image">
+<!ENTITY networkPanel.responseHeaders             "Kapo de respondo">
+<!ENTITY networkPanel.responseBody                "Korpo de respondo">
+<!ENTITY networkPanel.responseBodyCached          "Staplitaj datumoj">
+<!ENTITY networkPanel.responseBodyUnknownType     "Nekonata tipo de enhavo">
+<!ENTITY networkPanel.responseNoBody              "Neniu korpo de respondo">
+<!ENTITY networkPanel.responseImage               "Ricevita bildo">
+<!ENTITY networkPanel.responseImageCached         "Staplita bildo">

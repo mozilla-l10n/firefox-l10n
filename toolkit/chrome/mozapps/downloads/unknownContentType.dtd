@@ -37,25 +37,25 @@
 # ***** END LICENSE BLOCK *****
 -->
 
-<!ENTITY  intro.label                 "You have chosen to open">
-<!ENTITY  from.label                  "from:">
-<!ENTITY  actionQuestion.label        "What should &brandShortName; do with this file?">
+<!ENTITY  intro.label                 "Vi decidis malfermi">
+<!ENTITY  from.label                  "el:">
+<!ENTITY  actionQuestion.label        "Kion devus fari &brandShortName; kun tiu ĉi dosiero?">
 
-<!ENTITY  openWith.label              "Open with">
-<!ENTITY  openWith.accesskey          "O">
-<!ENTITY  other.label                 "Other…">
+<!ENTITY  openWith.label              "Malfermi per">
+<!ENTITY  openWith.accesskey          "m">
+<!ENTITY  other.label                 "Aliaj…">
 
-<!ENTITY  saveFile.label              "Save File">
-<!ENTITY  saveFile.accesskey          "S">
+<!ENTITY  saveFile.label              "Konservi dosieron">
+<!ENTITY  saveFile.accesskey          "k">
 
-<!ENTITY  rememberChoice.label        "Do this automatically for files like this from now on.">
+<!ENTITY  rememberChoice.label        "Ekde nun aŭtomate fari tion kun ĉi tiaj dosieroj.">
 <!ENTITY  rememberChoice.accesskey    "a">
 
-<!ENTITY  whichIsA.label              "which is a:">
+<!ENTITY  whichIsA.label              "kiu estas:">
 
-<!ENTITY  chooseHandlerMac.label      "Choose…">
-<!ENTITY  chooseHandlerMac.accesskey  "C">
-<!ENTITY  chooseHandler.label         "Browse…">
-<!ENTITY  chooseHandler.accesskey     "B">
+<!ENTITY  chooseHandlerMac.label      "Elekti…">
+<!ENTITY  chooseHandlerMac.accesskey  "E">
+<!ENTITY  chooseHandler.label         "Esplori…">
+<!ENTITY  chooseHandler.accesskey     "E">
 
-<!ENTITY  unknownPromptText.label     "Would you like to save this file?">
+<!ENTITY  unknownPromptText.label     "Ĉu vi ŝatus konservi ĉi tiun dosieron?">

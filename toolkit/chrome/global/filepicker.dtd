@@ -1,17 +1,17 @@
-<!ENTITY lookInMenuList.label   "Look in:">
-<!ENTITY lookInMenuList.accesskey   "L">
-<!ENTITY textInput.label        "File name:">
+<!ENTITY lookInMenuList.label   "Rigardi en:">
+<!ENTITY lookInMenuList.accesskey   "R">
+<!ENTITY textInput.label        "Dosiera nomo:">
 <!ENTITY textInput.accesskey        "n">
-<!ENTITY filterMenuList.label   "Files of type:">
+<!ENTITY filterMenuList.label   "Dosieroj de tipo:">
 <!ENTITY filterMenuList.accesskey   "t">
-<!ENTITY name.label             "Name">
-<!ENTITY size.label             "Size">
-<!ENTITY lastModified.label     "Last Modified">
-<!ENTITY showHiddenFiles.label  "Show hidden files and directories">
-<!ENTITY showHiddenFiles.accesskey  "S">
+<!ENTITY name.label             "Nomo">
+<!ENTITY size.label             "Grando">
+<!ENTITY lastModified.label     "Laste modifita">
+<!ENTITY showHiddenFiles.label  "Montri kaŝitajn dosierojn kaj dosierujojn">
+<!ENTITY showHiddenFiles.accesskey  "M">
 
-<!ENTITY noPermissionError.label "You do not have the permissions necessary to view this directory.">
+<!ENTITY noPermissionError.label "Vi ne rajtas vidi ĉi tiun dosierujon.">
 
-<!ENTITY folderUp.tooltiptext   "Go up a level">
-<!ENTITY folderHome.tooltiptext "Go to home">
-<!ENTITY folderNew.tooltiptext  "Create new directory">
+<!ENTITY folderUp.tooltiptext   "Supreniri nivelon">
+<!ENTITY folderHome.tooltiptext "Iri hejmen">
+<!ENTITY folderNew.tooltiptext  "Krei novan dosierujon">
