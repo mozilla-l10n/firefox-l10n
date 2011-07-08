@@ -1,14 +1,14 @@
 
-<!ENTITY migrationWizard.title          "Asistanto de importado">
+<!ENTITY migrationWizard.title          "Import Wizard">
 
-<!ENTITY importFrom.label               "Importi opciojn, legosignojn, historion, pasvortojn kaj aliajn datumojn el:">
-<!ENTITY importFromUnix.label           "Importi preferojn, legosignojn, historion, pasvortojn kaj aliajn datumojn el:">
-<!ENTITY importFromBookmarks.label      "Importi legosignojn el:">
+<!ENTITY importFrom.label               "Import Options, Bookmarks, History, Passwords and other data from:">
+<!ENTITY importFromUnix.label           "Import Preferences, Bookmarks, History, Passwords and other data from:">
+<!ENTITY importFromBookmarks.label      "Import Bookmarks from:">
 
 <!ENTITY importFromIE.label             "Microsoft Internet Explorer">
 <!ENTITY importFromIE.accesskey         "M">
-<!ENTITY importFromNothing.label        "Importi nenion">
-<!ENTITY importFromNothing.accesskey    "N">
+<!ENTITY importFromNothing.label        "Don't import anything">
+<!ENTITY importFromNothing.accesskey    "D">
 <!ENTITY importFromSeamonkey.label      "Netscape 6, 7 or Mozilla 1.x">
 <!ENTITY importFromSeamonkey.accesskey  "N">
 <!ENTITY importFromOpera.label          "Opera">
@@ -18,18 +18,18 @@
 <!ENTITY importFromHTMLFile.label       "From an HTML File">
 <!ENTITY importFromHTMLFile.accesskey   "F">
 
-<!ENTITY noMigrationSources.label       "Neniu programo, enhavanta legosignojn, historion aŭ pasvortajn datumojn, estis trovita.">
+<!ENTITY noMigrationSources.label       "No programs that contain bookmarks, history or password data could be found.">
 
-<!ENTITY importSource.title             "Importi agordojn kaj datumojn">
-<!ENTITY importItems.title              "Elementoj importotaj">
-<!ENTITY importItems.label              "Elekti elementojn importotajn:">
+<!ENTITY importSource.title             "Import Settings and Data">
+<!ENTITY importItems.title              "Items to Import">
+<!ENTITY importItems.label              "Select which items to import:">
 
-<!ENTITY migrating.title                "Importanta…">
-<!ENTITY migrating.label                "La jenaj elementoj estas nuntempe importataj…">
+<!ENTITY migrating.title                "Importing…">
+<!ENTITY migrating.label                "The following items are currently being imported…">
 
-<!ENTITY selectProfile.title            "Elekti profilon">
-<!ENTITY selectProfile.label            "Eblas importi el la jenaj profiloj:">
+<!ENTITY selectProfile.title            "Select Profile">
+<!ENTITY selectProfile.label            "The following profiles are available to import from:">
 
-<!ENTITY done.title                     "Importado finita">
-<!ENTITY done.label                     "La jenaj elementoj estis sukcese importitaj:">
+<!ENTITY done.title                     "Import Complete">
+<!ENTITY done.label                     "The following items were successfully imported:">
 

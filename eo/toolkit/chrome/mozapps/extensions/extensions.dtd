@@ -1,47 +1,47 @@
-<!ENTITY addons.windowTitle                   "Administranto de aldonaĵoj">
-<!ENTITY search.placeholder                   "Serĉi ĉiujn aldonaĵojn">
-<!ENTITY loading.label                        "Ŝargado…">
-<!ENTITY listEmpty.installed.label            "Vi havas neniun aldonaĵon de tiu tipo instalita">
-<!ENTITY listEmpty.availableUpdates.label     "Neniu ĝisdatigo trovita">
-<!ENTITY listEmpty.recentUpdates.label        "Vi ne ĝisdatigis viajn aldonaĵojn lastatempe">
-<!ENTITY listEmpty.findUpdates.label          "Kontroli ĉu estas ĝisdatigoj">
-<!ENTITY listEmpty.search.label               "Kongruaj aldonaĵoj ne trovitaj">
-<!ENTITY listEmpty.button.label               "Pli da informo pri aldonaĵoj">
-<!ENTITY installAddonFromFile.label           "Instali aldonaĵon el dosiero…">
+<!ENTITY addons.windowTitle                   "Add-ons Manager">
+<!ENTITY search.placeholder                   "Search all add-ons">
+<!ENTITY loading.label                        "Loading…">
+<!ENTITY listEmpty.installed.label            "You don't have any add-ons of this type installed">
+<!ENTITY listEmpty.availableUpdates.label     "No updates found">
+<!ENTITY listEmpty.recentUpdates.label        "You haven't recently updated any add-ons">
+<!ENTITY listEmpty.findUpdates.label          "Check For Updates">
+<!ENTITY listEmpty.search.label               "Could not find any matching add-ons">
+<!ENTITY listEmpty.button.label               "Learn more about add-ons">
+<!ENTITY installAddonFromFile.label           "Install Add-on From File…">
 <!ENTITY installAddonFromFile.accesskey       "I">
-<!ENTITY toolsMenu.tooltip                    "Iloj por ĉiuj aldonaĵoj">
+<!ENTITY toolsMenu.tooltip                    "Tools for all add-ons">
 
-<!ENTITY cmd.back.tooltip                     "Unu paĝo malantaŭen">
-<!ENTITY cmd.forward.tooltip                  "Unu paĝo antaŭen">
+<!ENTITY cmd.back.tooltip                     "Go back one page">
+<!ENTITY cmd.forward.tooltip                  "Go forward one page">
 
 <!-- global warnings -->
-<!ENTITY warning.safemode.label                    "Ĉiuj aldonaĵoj estis malaktivigitaj de la sekura reĝimo.">
-<!ENTITY warning.checkcompatibility.label          "La kontrolado de kongrueco de aldonaĵoj estas malaktiva.  Vi povus havi nekongruajn aldonaĵoj.">
-<!ENTITY warning.checkcompatibility.enable.label   "Aktivigi">
-<!ENTITY warning.checkcompatibility.enable.tooltip "Aktivigi la kontroladon de kongrueco de aldonaĵoj">
-<!ENTITY warning.updatesecurity.label              "La kontrolado de sekurecaj ĝisdatigoj de aldonaĵoj ne estas aktiva.  Vi povus esti komprimitita de ĝisdatigoj.">
-<!ENTITY warning.updatesecurity.enable.label       "Aktivigi">
-<!ENTITY warning.updatesecurity.enable.tooltip     "Aktivigi la kontroladon de sekurecaj ĝisdatigoj de aldonaĵoj">
+<!ENTITY warning.safemode.label                    "All add-ons have been disabled by safe mode.">
+<!ENTITY warning.checkcompatibility.label          "Add-on compatibility checking is disabled. You may have incompatible add-ons.">
+<!ENTITY warning.checkcompatibility.enable.label   "Enable">
+<!ENTITY warning.checkcompatibility.enable.tooltip "Enable add-on compatibility checking">
+<!ENTITY warning.updatesecurity.label              "Add-on update security checking is disabled. You may be compromised by updates.">
+<!ENTITY warning.updatesecurity.enable.label       "Enable">
+<!ENTITY warning.updatesecurity.enable.tooltip     "Enable add-on update security checking">
 
 <!-- global informations -->
-<!ENTITY info.plugincheck.label                 "Kontroli ĉu viaj kromprogramoj estas ĝisdataj">
-<!ENTITY info.plugincheck.tooltip               "Kontroli ĉu viaj kromprogramoj estas ĝisdataj">
+<!ENTITY info.plugincheck.label                 "Check to see if your plugins are up to date">
+<!ENTITY info.plugincheck.tooltip               "Check to see if your plugins are up to date">
 
 <!-- categories / views -->
-<!ENTITY view.search.label                    "Serĉi">
-<!ENTITY view.discover.label                  "Elŝuti aldonaĵojn">
-<!ENTITY view.recentUpdates.label             "Ĵusaj ĝisdatigoj">
-<!ENTITY view.availableUpdates.label          "Haveblaj ĝisdatigoj">
+<!ENTITY view.search.label                    "Search">
+<!ENTITY view.discover.label                  "Get Add-ons">
+<!ENTITY view.recentUpdates.label             "Recent Updates">
+<!ENTITY view.availableUpdates.label          "Available Updates">
 
 <!-- addon updates -->
-<!ENTITY updates.checkForUpdates.label        "Kontroli ĉu estas ĝisdatigoj">
-<!ENTITY updates.checkForUpdates.accesskey    "K">
-<!ENTITY updates.viewUpdates.label            "Vidi ĵusajn ĝisdatigojn">
+<!ENTITY updates.checkForUpdates.label        "Check for Updates">
+<!ENTITY updates.checkForUpdates.accesskey    "C">
+<!ENTITY updates.viewUpdates.label            "View Recent Updates">
 <!ENTITY updates.viewUpdates.accesskey        "V">
 <!-- LOCALIZATION NOTE (updates.updateAddonsAutomatically.label): This menu item
      is a checkbox that toggles the default global behavior for add-on update
      checking. -->
-<!ENTITY updates.updateAddonsAutomatically.label     "Aŭtomate ĝisdatigi aldonaĵojn">
+<!ENTITY updates.updateAddonsAutomatically.label     "Update Add-ons Automatically">
 <!ENTITY updates.updateAddonsAutomatically.accesskey "A">
 <!-- LOCALIZATION NOTE (updates.resetUpdatesToAutomatic.label, updates.resetUpdatesToManual.label):
      Specific addons can have custom update checking behaviors ("Manually",
@@ -49,150 +49,153 @@
      update checking behavior for all add-ons to the default global behavior
      (which itself is either "Automatically" or "Manually", controlled by the
      updates.updateAddonsAutomatically.label menu item). -->
-<!ENTITY updates.resetUpdatesToAutomatic.label       "Igi ĉiujn aldonaĵojn ĝisdatiĝi aŭtomate">
-<!ENTITY updates.resetUpdatesToAutomatic.accesskey   "I">
-<!ENTITY updates.resetUpdatesToManual.label          "Igi ĉiujn aldonaĵojn ĝisdatiĝi malaŭtomate">
-<!ENTITY updates.resetUpdatesToManual.accesskey      "I">
-<!ENTITY updates.updating.label               "Ĝisdatigado de aldonaĵoj">
-<!ENTITY updates.installed.label              "Viaj aldonaĵoj estis ĝisdatigitaj.">
-<!ENTITY updates.downloaded.label             "Viaj aldonaĵoj estis elŝutitaj.">
-<!ENTITY updates.restart.label                "Restartigi por kompletigi la instaladon">
-<!ENTITY updates.noneFound.label              "Neniu ĝisdatigo trovita">
-<!ENTITY updates.manualUpdatesFound.label     "Vidi haveblajn ĝisdatigojn">
-<!ENTITY updates.updateSelected.label         "Instali ĝisdatigojn">
-<!ENTITY updates.updateSelected.tooltip       "Instali haveblajn ĝisdatigojn en tiu ĉi listo">
+<!ENTITY updates.resetUpdatesToAutomatic.label       "Reset All Add-ons to Update Automatically">
+<!ENTITY updates.resetUpdatesToAutomatic.accesskey   "R">
+<!ENTITY updates.resetUpdatesToManual.label          "Reset All Add-ons to Update Manually">
+<!ENTITY updates.resetUpdatesToManual.accesskey      "R">
+<!ENTITY updates.updating.label               "Updating add-ons">
+<!ENTITY updates.installed.label              "Your add-ons have been updated.">
+<!ENTITY updates.downloaded.label             "Your add-on updates have been downloaded.">
+<!ENTITY updates.restart.label                "Restart now to complete installation">
+<!ENTITY updates.noneFound.label              "No updates found">
+<!ENTITY updates.manualUpdatesFound.label     "View Available Updates">
+<!ENTITY updates.updateSelected.label         "Install Updates">
+<!ENTITY updates.updateSelected.tooltip       "Install available updates in this list">
 
 <!-- addon actions -->
-<!ENTITY cmd.showDetails.label                "Montri pli da informo">
-<!ENTITY cmd.showDetails.accesskey            "M">
-<!ENTITY cmd.findUpdates.label                "Serĉi ĝisdatigojn">
-<!ENTITY cmd.findUpdates.accesskey            "S">
-<!ENTITY cmd.preferencesWin.label             "Opcioj">
+<!ENTITY cmd.showDetails.label                "Show More Information">
+<!ENTITY cmd.showDetails.accesskey            "S">
+<!ENTITY cmd.findUpdates.label                "Find Updates">
+<!ENTITY cmd.findUpdates.accesskey            "F">
+<!ENTITY cmd.preferencesWin.label             "Options">
 <!ENTITY cmd.preferencesWin.accesskey         "O">
-<!ENTITY cmd.preferencesUnix.label            "Preferoj">
+<!ENTITY cmd.preferencesUnix.label            "Preferences">
 <!ENTITY cmd.preferencesUnix.accesskey        "P">
-<!ENTITY cmd.about.label                      "Pri">
-<!ENTITY cmd.about.accesskey                  "r">
+<!ENTITY cmd.about.label                      "About">
+<!ENTITY cmd.about.accesskey                  "A">
 
-<!ENTITY cmd.enableAddon.label                "Aktivigi">
-<!ENTITY cmd.enableAddon.accesskey            "A">
-<!ENTITY cmd.disableAddon.label               "Malaktivigi">
-<!ENTITY cmd.disableAddon.accesskey           "M">
-<!ENTITY cmd.enableTheme.label                "Surmeti etoson">
-<!ENTITY cmd.enableTheme.accesskey            "E">
-<!ENTITY cmd.disableTheme.label               "Demeti etoson">
-<!ENTITY cmd.disableTheme.accesskey           "E">
-<!ENTITY cmd.installAddon.label               "Instali">
+<!ENTITY cmd.enableAddon.label                "Enable">
+<!ENTITY cmd.enableAddon.accesskey            "E">
+<!ENTITY cmd.disableAddon.label               "Disable">
+<!ENTITY cmd.disableAddon.accesskey           "D">
+<!ENTITY cmd.enableTheme.label                "Wear Theme">
+<!ENTITY cmd.enableTheme.accesskey            "W">
+<!ENTITY cmd.disableTheme.label               "Stop Wearing Theme">
+<!ENTITY cmd.disableTheme.accesskey           "W">
+<!ENTITY cmd.installAddon.label               "Install">
 <!ENTITY cmd.installAddon.accesskey           "I">
-<!ENTITY cmd.uninstallAddon.label             "Malinstali">
+<!ENTITY cmd.uninstallAddon.label             "Remove">
 <!ENTITY cmd.uninstallAddon.accesskey         "R">
-<!ENTITY cmd.showPreferencesWin.label         "Opcioj">
-<!ENTITY cmd.showPreferencesWin.tooltip       "Ŝanĝi la opciojn de tiu ĉi aldonaĵo">
-<!ENTITY cmd.showPreferencesUnix.label        "Preferoj">
-<!ENTITY cmd.showPreferencesUnix.tooltip      "Ŝanĝi la preferojn de tiu ĉi aldonaĵo">
-<!ENTITY cmd.contribute.label                 "Kontribui">
-<!ENTITY cmd.contribute.accesskey             "K">
-<!ENTITY cmd.contribute.tooltip               "Kontribui al la disvolvigado de tiu ĉi aldonaĵo">
+<!ENTITY cmd.showPreferencesWin.label         "Options">
+<!ENTITY cmd.showPreferencesWin.tooltip       "Change this add-on's options">
+<!ENTITY cmd.showPreferencesUnix.label        "Preferences">
+<!ENTITY cmd.showPreferencesUnix.tooltip      "Change this add-on's preferences">
+<!ENTITY cmd.contribute.label                 "Contribute">
+<!ENTITY cmd.contribute.accesskey             "C">
+<!ENTITY cmd.contribute.tooltip               "Contribute to the development of this add-on">
 
-<!ENTITY cmd.showReleaseNotes.label           "Montri liverajn notojn">
-<!ENTITY cmd.showReleaseNotes.tooltip         "Montri la liverajn notojn de tiu ĉi ĝisdatigo">
-<!ENTITY cmd.hideReleaseNotes.label           "Kaŝi liverajn notojn">
-<!ENTITY cmd.hideReleaseNotes.tooltip         "Kaŝi la liverajn notojn por tiu ĉi ĝisdatigo">
+<!ENTITY cmd.showReleaseNotes.label           "Show Release Notes">
+<!ENTITY cmd.showReleaseNotes.tooltip         "Show the release notes for this update">
+<!ENTITY cmd.hideReleaseNotes.label           "Hide Release Notes">
+<!ENTITY cmd.hideReleaseNotes.tooltip         "Hide the release notes for this update">
 
 <!-- discovery view -->
 <!-- LOCALIZATION NOTE (discover.title,discover.description,discover.footer):
      Displayed in the center of the Get Add-ons view, see bug 601143 for mockups. -->
-<!ENTITY discover.title                       "Kio estas aldonaĵo?">
-<!ENTITY discover.description2                "Aldonaĵo estas programo kiu permesas al vi tajli &brandShortName; per funkcioj aŭ stilaj trajtoj.  Provu tempoŝparan flankan strion, veterinformilon aŭ etosan aspekton por ekposedi &brandShortName;.">
-<!ENTITY discover.footer                      "Se vi havas retaliron vi vidos en tiu ĉi kadro kelkajn el la plej bonaj kaj popularaj aldonaĵoj kiujn vi povus provi.">
+<!ENTITY discover.title                       "What are Add-ons?">
+<!ENTITY discover.description2                "Add-ons are applications that let you personalize &brandShortName; with
+  extra functionality or style. Try a time-saving sidebar, a weather notifier, or a themed look to make &brandShortName;
+  your own.">
+<!ENTITY discover.footer                      "When you're connected to the internet, this pane will feature
+  some of the best and most popular add-ons for you to try out.">
 
 <!-- detail view -->
-<!ENTITY detail.version.label                 "Versio">
-<!ENTITY detail.lastupdated.label             "Laste modifita">
-<!ENTITY detail.creator.label                 "Programisto">
-<!ENTITY detail.homepage.label                "Ĉefpaĝo">
-<!ENTITY detail.numberOfDownloads.label       "Elŝutoj">
+<!ENTITY detail.version.label                 "Version">
+<!ENTITY detail.lastupdated.label             "Last Updated">
+<!ENTITY detail.creator.label                 "Developer">
+<!ENTITY detail.homepage.label                "Homepage">
+<!ENTITY detail.numberOfDownloads.label       "Downloads">
 
-<!ENTITY detail.contributions.description     "La disvolviganto de tiu ĉi aldonaĵo petas al vi subteni la daŭran disvolvigadon pero eta kontribuo.">
+<!ENTITY detail.contributions.description     "The developer of this add-on asks that you help support its continued development by making a small contribution.">
 
-<!ENTITY detail.updateType                    "Aŭtomataj ĝisdatigoj">
-<!ENTITY detail.updateDefault.label           "Ĉefa">
-<!ENTITY detail.updateDefault.tooltip         "Aŭtomate instali ĝisdatigojn nur se tiu estas la normo">
-<!ENTITY detail.updateAutomatic.label         "Ŝaltita">
-<!ENTITY detail.updateAutomatic.tooltip       "Aŭtomate instali ĝisdatigojn">
-<!ENTITY detail.updateManual.label            "Malŝaltita">
-<!ENTITY detail.updateManual.tooltip          "Ne instali ĝisdatigojn aŭtomate">
-<!ENTITY detail.home                          "Ĉefpaĝo">
-<!ENTITY detail.repository                    "Profilo de aldonaĵo">
-<!ENTITY detail.size                          "Grando">
+<!ENTITY detail.updateType                    "Automatic Updates">
+<!ENTITY detail.updateDefault.label           "Default">
+<!ENTITY detail.updateDefault.tooltip         "Automatically install updates only if that's the default">
+<!ENTITY detail.updateAutomatic.label         "On">
+<!ENTITY detail.updateAutomatic.tooltip       "Automatically install updates">
+<!ENTITY detail.updateManual.label            "Off">
+<!ENTITY detail.updateManual.tooltip          "Don't automatically install updates">
+<!ENTITY detail.home                          "Homepage">
+<!ENTITY detail.repository                    "Add-on Profile">
+<!ENTITY detail.size                          "Size">
 
-<!ENTITY detail.checkForUpdates.label         "Kontroli ĉu estas ĝisdatigoj">
-<!ENTITY detail.checkForUpdates.accesskey     "K">
-<!ENTITY detail.checkForUpdates.tooltip       "Kontroli ĉu estas ĝisdatigoj por tiu ĉi aldonaĵo">
-<!ENTITY detail.showPreferencesWin.label      "Opcioj">
+<!ENTITY detail.checkForUpdates.label         "Check for Updates">
+<!ENTITY detail.checkForUpdates.accesskey     "f">
+<!ENTITY detail.checkForUpdates.tooltip       "Check for updates for this add-on">
+<!ENTITY detail.showPreferencesWin.label      "Options">
 <!ENTITY detail.showPreferencesWin.accesskey  "O">
-<!ENTITY detail.showPreferencesWin.tooltip    "Ŝanĝi la opciojn de tiu ĉi aldonaĵo">
-<!ENTITY detail.showPreferencesUnix.label     "Preferoj">
+<!ENTITY detail.showPreferencesWin.tooltip    "Change this add-on's options">
+<!ENTITY detail.showPreferencesUnix.label     "Preferences">
 <!ENTITY detail.showPreferencesUnix.accesskey "P">
-<!ENTITY detail.showPreferencesUnix.tooltip   "Ŝanĝi la preferojn de tiu ĉi aldonaĵo">
+<!ENTITY detail.showPreferencesUnix.tooltip   "Change this add-on's preferences">
 
 
 <!-- ratings -->
-<!ENTITY rating2.label                        "Taksado">
+<!ENTITY rating2.label                        "Rating">
 
 <!-- download/install progress -->
-<!ENTITY progress.pause.tooltip               "Paŭzigi">
-<!ENTITY progress.cancel.tooltip              "Nuligi">
+<!ENTITY progress.pause.tooltip               "Pause">
+<!ENTITY progress.cancel.tooltip              "Cancel">
 
 
 <!-- list sorting -->
-<!ENTITY sort.name.label                      "Nomo">
-<!ENTITY sort.name.tooltip                    "Ordigi laŭ nomo">
-<!ENTITY sort.dateUpdated.label               "Laste ĝisdatigita">
-<!ENTITY sort.dateUpdated.tooltip             "Ordigi laŭ dato de ĝisdatigo">
-<!ENTITY sort.relevance.label                 "Plej bona trovo">
-<!ENTITY sort.relevance.tooltip               "Ordigi laŭ taŭgeco">
-<!ENTITY sort.price.label                     "Prezo">
-<!ENTITY sort.price.tooltip                   "Ordigi laŭ prezo">
+<!ENTITY sort.name.label                      "Name">
+<!ENTITY sort.name.tooltip                    "Sort by name">
+<!ENTITY sort.dateUpdated.label               "Last Updated">
+<!ENTITY sort.dateUpdated.tooltip             "Sort by date updated">
+<!ENTITY sort.relevance.label                 "Best match">
+<!ENTITY sort.relevance.tooltip               "Sort by relevance">
+<!ENTITY sort.price.label                     "Price">
+<!ENTITY sort.price.tooltip                   "Sort by price">
 
-<!ENTITY search.filter2.label                 "Serĉi">
-<!ENTITY search.filter2.installed.label       "Miaj aldonaĵoj">
-<!ENTITY search.filter2.installed.tooltip     "Montri instalitajn aldonaĵojn">
-<!ENTITY search.filter2.available.label       "Haveblaj aldonaĵoj">
-<!ENTITY search.filter2.available.tooltip     "Montri aldonaĵoj kiuj povas esti instalitaj">
+<!ENTITY search.filter2.label                 "Search:">
+<!ENTITY search.filter2.installed.label       "My Add-ons">
+<!ENTITY search.filter2.installed.tooltip     "Show installed add-ons">
+<!ENTITY search.filter2.available.label       "Available Add-ons">
+<!ENTITY search.filter2.available.tooltip     "Show add-ons available to install">
 
-<!ENTITY addon.homepage                       "Ĉefpaĝo">
-<!ENTITY addon.details.label                  "Pli">
-<!ENTITY addon.details.tooltip                "Montri pli da detaloj pri tiu ĉi aldonaĵo">
-<!ENTITY addon.unknownDate                    "Nekonata">
+<!ENTITY addon.homepage                       "Homepage">
+<!ENTITY addon.details.label                  "More">
+<!ENTITY addon.details.tooltip                "Show more details about this add-on">
+<!ENTITY addon.unknownDate                    "Unknown">
 <!-- LOCALIZATION NOTE (addon.disabled.postfix): This is used in a normal list
      to signify that an add-on is disabled, in the form
      "<Addon name> <1.0> (disabled)" -->
-<!ENTITY addon.disabled.postfix               "(ne aktiva)">
+<!ENTITY addon.disabled.postfix               "(disabled)">
 <!-- LOCALIZATION NOTE (addon.update.postfix): This is used in the available
      updates list to signify that an item is an update, in the form
      "<Addon name> <1.1> Update". It is fine to use constructs like brackets if
      necessary -->
-<!ENTITY addon.update.postfix                 "Ĝisdatigi">
-<!ENTITY addon.undoAction.label               "Malfari">
-<!ENTITY addon.undoAction.tooltip             "Malfari tiun ĉi agon">
-<!ENTITY addon.undoRemove.label               "Malfari">
-<!ENTITY addon.undoRemove.tooltip             "Konservi tiun ĉi aldonaĵon instalita">
-<!ENTITY addon.restartNow.label               "Restartigi nun">
-<!ENTITY addon.install.label                  "Instali">
-<!ENTITY addon.install.tooltip                "Instali ĉi tiun aldonaĵon">
-<!ENTITY addon.updateNow.label                "Ĝisdatigi nun">
-<!ENTITY addon.updateNow.tooltip              "Instali la ĝisdatigon por tiu ĉi aldonaĵo">
-<!ENTITY addon.includeUpdate.label            "Inkluzivi en ĝisdatigo">
-<!ENTITY addon.updateAvailable.label          "Estas ĝisdatigo havebla">
-<!ENTITY addon.checkingForUpdates.label       "Kontrolado de ĝisdatigoj…">
-<!ENTITY addon.releaseNotes.label             "Liveraj notoj:">
-<!ENTITY addon.loadingReleaseNotes.label      "Ŝargado…">
-<!ENTITY addon.errorLoadingReleaseNotes.label "Pardonon, okazis eraro dum la ŝargado de la liveraj notoj.">
+<!ENTITY addon.update.postfix                 "Update">
+<!ENTITY addon.undoAction.label               "Undo">
+<!ENTITY addon.undoAction.tooltip             "Undo this action">
+<!ENTITY addon.undoRemove.label               "Undo">
+<!ENTITY addon.undoRemove.tooltip             "Keep this add-on installed">
+<!ENTITY addon.restartNow.label               "Restart now">
+<!ENTITY addon.install.label                  "Install">
+<!ENTITY addon.install.tooltip                "Install this add-on">
+<!ENTITY addon.updateNow.label                "Update Now">
+<!ENTITY addon.updateNow.tooltip              "Install the update for this add-on">
+<!ENTITY addon.includeUpdate.label            "Include in Update">
+<!ENTITY addon.updateAvailable.label          "An update is available">
+<!ENTITY addon.checkingForUpdates.label       "Checking for updates…">
+<!ENTITY addon.releaseNotes.label             "Release Notes:">
+<!ENTITY addon.loadingReleaseNotes.label      "Loading…">
+<!ENTITY addon.errorLoadingReleaseNotes.label "Sorry, but there was an error loading the release notes.">
 
-<!ENTITY addon.createdBy.label                "De ">
+<!ENTITY addon.createdBy.label                "By ">
 
-<!ENTITY eula.title                           "Permesila interkonsento por fina uzanto">
+<!ENTITY eula.title                           "End-User License Agreement">
 <!ENTITY eula.width                           "560px">
 <!ENTITY eula.height                          "400px">
-<!ENTITY eula.accept                          "Akcepti kaj instali…">
+<!ENTITY eula.accept                          "Accept and Install…">

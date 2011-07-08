@@ -6,22 +6,22 @@
 <!ENTITY mainWindow.titlemodifier "&brandFullName;">
 <!-- LOCALIZATION NOTE (mainWindow.titlemodifierseparator) : DONT_TRANSLATE -->
 <!ENTITY mainWindow.titlemodifierseparator " - ">
-<!ENTITY mainWindow.preface "Fonto de: ">
+<!ENTITY mainWindow.preface "Source of: ">
 
-<!ENTITY fileMenu.label "Dosiero">
-<!ENTITY fileMenu.accesskey "o">
-<!ENTITY savePageCmd.label "Konservi paĝon kiel…">
-<!ENTITY savePageCmd.accesskey "K">
+<!ENTITY fileMenu.label "File">
+<!ENTITY fileMenu.accesskey "F">
+<!ENTITY savePageCmd.label "Save Page As…">
+<!ENTITY savePageCmd.accesskey "A">
 <!ENTITY savePageCmd.commandkey "S">
-<!ENTITY pageSetupCmd.label "Agordi paĝon…">
-<!ENTITY pageSetupCmd.accesskey "a">
-<!ENTITY printPreviewCmd.label "Antaŭvidi presadon">
-<!ENTITY printPreviewCmd.accesskey "s">
-<!ENTITY printCmd.label "Presi…">
+<!ENTITY pageSetupCmd.label "Page Setup…">
+<!ENTITY pageSetupCmd.accesskey "u">
+<!ENTITY printPreviewCmd.label "Print Preview">
+<!ENTITY printPreviewCmd.accesskey "v">
+<!ENTITY printCmd.label "Print…">
 <!ENTITY printCmd.accesskey "P">
 <!ENTITY printCmd.commandkey "P">
-<!ENTITY closeCmd.label "Fermi">
-<!ENTITY closeCmd.accesskey "F">
+<!ENTITY closeCmd.label "Close">
+<!ENTITY closeCmd.accesskey "C">
 <!ENTITY closeCmd.commandkey "W">
 
 <!-- LOCALIZATION NOTE :
@@ -38,39 +38,39 @@ you can use these alternative items. Otherwise, their values should be empty.  -
 <!ENTITY textReset.commandkey "0">
 <!ENTITY textReset.commandkey2 "">
 
-<!ENTITY goToLineCmd.label "Iri al linio…">
-<!ENTITY goToLineCmd.accesskey "I">
+<!ENTITY goToLineCmd.label "Go to Line…">
+<!ENTITY goToLineCmd.accesskey "G">
 <!ENTITY goToLineCmd.commandkey "l">
 
-<!ENTITY viewMenu.label           "Vidi">
+<!ENTITY viewMenu.label           "View">
 <!ENTITY viewMenu.accesskey       "V">
-<!ENTITY reloadCmd.label "Reŝargi">
+<!ENTITY reloadCmd.label "Reload">
 <!ENTITY reloadCmd.accesskey "R">
 <!ENTITY reloadCmd.commandkey "r">
-<!ENTITY menu_wrapLongLines.title "Faldi longajn liniojn"> 
-<!ENTITY menu_wrapLongLines.accesskey "F">
-<!ENTITY menu_highlightSyntax.label "Emfazado de sintakso">
-<!ENTITY menu_highlightSyntax.accesskey "S">
-<!ENTITY menu_textSize.label "Grando de teksto">
-<!ENTITY menu_textSize.accesskey "T">
-<!ENTITY menu_textEnlarge.label "Pligrandigi">
-<!ENTITY menu_textEnlarge.accesskey "P">
-<!ENTITY menu_textReduce.label "Malpligrandigi">
-<!ENTITY menu_textReduce.accesskey "M">
-<!ENTITY menu_textReset.label "Normala">
+<!ENTITY menu_wrapLongLines.title "Wrap Long Lines"> 
+<!ENTITY menu_wrapLongLines.accesskey "W">
+<!ENTITY menu_highlightSyntax.label "Syntax Highlighting">
+<!ENTITY menu_highlightSyntax.accesskey "H">
+<!ENTITY menu_textSize.label "Text Size">
+<!ENTITY menu_textSize.accesskey "z">
+<!ENTITY menu_textEnlarge.label "Increase">
+<!ENTITY menu_textEnlarge.accesskey "I">
+<!ENTITY menu_textReduce.label "Decrease">
+<!ENTITY menu_textReduce.accesskey "D">
+<!ENTITY menu_textReset.label "Normal">
 <!ENTITY menu_textReset.accesskey "N">
 
-<!ENTITY findOnCmd.label     "Serĉi en tiu ĉi paĝo …">
-<!ENTITY findOnCmd.accesskey "S">
+<!ENTITY findOnCmd.label     "Find in This Page…">
+<!ENTITY findOnCmd.accesskey "F">
 <!ENTITY findOnCmd.commandkey "f">
-<!ENTITY findAgainCmd.label  "Serĉi denove">
-<!ENTITY findAgainCmd.accesskey "e">
+<!ENTITY findAgainCmd.label  "Find Again">
+<!ENTITY findAgainCmd.accesskey "g">
 <!ENTITY findAgainCmd.commandkey "g">
 <!ENTITY findAgainCmd.commandkey2 "VK_F3">
 
-<!ENTITY backCmd.label "Malantaŭen">
-<!ENTITY backCmd.accesskey "M">
-<!ENTITY forwardCmd.label "Antaŭen">
-<!ENTITY forwardCmd.accesskey "A">
+<!ENTITY backCmd.label "Back">
+<!ENTITY backCmd.accesskey "B">
+<!ENTITY forwardCmd.label "Forward">
+<!ENTITY forwardCmd.accesskey "F">
 <!ENTITY goBackCmd.commandKey "[">
 <!ENTITY goForwardCmd.commandKey "]">

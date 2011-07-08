@@ -1,5 +1,5 @@
 <!ENTITY  windowClose.key                         "w">
-<!ENTITY  preferencesDefaultTitleMac.title        "Preferoj">
-<!ENTITY  preferencesDefaultTitleWin.title        "Opcioj">
-<!ENTITY  preferencesCloseButton.label            "Fermi">
-<!ENTITY  preferencesCloseButton.accesskey        "F">
+<!ENTITY  preferencesDefaultTitleMac.title        "Preferences">
+<!ENTITY  preferencesDefaultTitleWin.title        "Options">
+<!ENTITY  preferencesCloseButton.label            "Close">
+<!ENTITY  preferencesCloseButton.accesskey        "C">

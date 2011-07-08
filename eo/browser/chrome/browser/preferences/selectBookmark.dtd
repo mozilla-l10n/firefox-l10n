@@ -1,5 +1,5 @@
 <!ENTITY selectBookmark.title
-  "Difini la ekan paĝon">
+  "Set Home Page">
 <!ENTITY selectBookmark.label
-  "Elekti legosignon kiel ekan paĝon.  Se vi elektas dosierujon ĉiuj legosignoj en tiu dosierujo estos malfermitaj en folioj.">
+  "Choose a Bookmark to be your Home Page. If you choose a folder, the Bookmarks in that folder will be opened in Tabs.">
 

@@ -1,41 +1,41 @@
 <!-- extracted from printjoboptions.xul -->
 
-<!ENTITY printJobOptions.title "Atributoj de presilo">
+<!ENTITY printJobOptions.title "Printer Properties">
 
-<!ENTITY paperInput.label "Grando de papero:">
+<!ENTITY paperInput.label "Paper Size:">
 <!ENTITY paperInput.accesskey "P">
 
-<!ENTITY plexInput.label "Plex reĝimo:">
-<!ENTITY plexInput.accesskey "r">
+<!ENTITY plexInput.label "Plex mode:">
+<!ENTITY plexInput.accesskey "m">
 
-<!ENTITY resolutionInput.label "Kvalito/detalebleco:">
-<!ENTITY resolutionInput.accesskey "k">
+<!ENTITY resolutionInput.label "Resolution/Quality:">
+<!ENTITY resolutionInput.accesskey "e">
 
-<!ENTITY cmdInput.label "Presa komando:">
+<!ENTITY cmdInput.label "Print Command:">
 <!ENTITY cmdInput.accesskey "o">
 
-<!ENTITY jobTitleInput.label "Titolo de tasko:">
-<!ENTITY jobTitleInput.accesskey "T">
+<!ENTITY jobTitleInput.label "Job Title:">
+<!ENTITY jobTitleInput.accesskey "J">
 
-<!ENTITY colorGroup.label "Koloro:">
-<!ENTITY grayRadio.label "Grizoj">
+<!ENTITY colorGroup.label "Color:">
+<!ENTITY grayRadio.label "Grayscale">
 <!ENTITY grayRadio.accesskey "G">
-<!ENTITY colorRadio.label "Koloroj">
-<!ENTITY colorRadio.accesskey "K">
+<!ENTITY colorRadio.label "Color">
+<!ENTITY colorRadio.accesskey "C">
 
-<!ENTITY colorspaceInput.label "Spaco de koloroj">
+<!ENTITY colorspaceInput.label "Colorspace:">
 <!ENTITY colorspaceInput.accesskey "s">
 
-<!ENTITY fontsGroup.label "Tiparoj:">
-<!ENTITY downloadFonts.label "Alŝuti tiparojn al la presilo?">
-<!ENTITY downloadFonts.accesskey "A">
+<!ENTITY fontsGroup.label "Fonts:">
+<!ENTITY downloadFonts.label "Download fonts to printer">
+<!ENTITY downloadFonts.accesskey "D">
 
-<!ENTITY edgeMarginInput.label "Distanco inter la rando de la papero kaj la marĝeno">
-<!ENTITY topInput.label "Supre:">
-<!ENTITY topInput.accesskey "S">
-<!ENTITY bottomInput.label "Malsupre:">
-<!ENTITY bottomInput.accesskey "M">
-<!ENTITY leftInput.label "Maldekstre:">
-<!ENTITY leftInput.accesskey "A">
-<!ENTITY rightInput.label "Dekstre:">
-<!ENTITY rightInput.accesskey "D">
+<!ENTITY edgeMarginInput.label "Gap from edge of paper to Margin">
+<!ENTITY topInput.label "Top:">
+<!ENTITY topInput.accesskey "T">
+<!ENTITY bottomInput.label "Bottom:">
+<!ENTITY bottomInput.accesskey "B">
+<!ENTITY leftInput.label "Left:">
+<!ENTITY leftInput.accesskey "L">
+<!ENTITY rightInput.label "Right:">
+<!ENTITY rightInput.accesskey "R">

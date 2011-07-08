@@ -1,14 +1,14 @@
-<!ENTITY syncKey.page.title               "Via ŝlosilo de &syncBrand.fullName.label;">
-<!ENTITY syncKey.page.description         "Tiu ĉi ŝlosilo estas uzata por malĉifri la datumojn en via konto de &syncBrand.fullName.label;. Vi devos tajpi la ŝlosilon ĉiufoje kiam vi agordas &syncBrand.fullName.label; en nova komputilo aŭ aparato.">
-<!ENTITY syncKey.keepItSecret.heading     "Tenu ĝin sekreta">
-<!ENTITY syncKey.keepItSecret.description "Via konto de &syncBrand.fullName.label; estas ĉifrita por protekti vian privatecon. Sen tiu ĉi ŝlosilo la malĉifrado de vian personaj datumoj postulus jarojn al iu ajn. Vi estas la ununura persono kiu tenas tiun ĉi ŝlosilon. Tio signifas ke viestas la ununura kiu povas aliri viajn datumojn de &syncBrand.fullName.label;.">
-<!ENTITY syncKey.keepItSafe.heading       "Tenu ĝin sekura">
-<!ENTITY syncKey.keepItSafe1.description  "Ne pertu tiun ĉi ŝlosilon.">
-<!ENTITY syncKey.keepItSafe2.description  " Ni ne konservas kopion de via ŝlosilo (se ni tion farus ĝi ne estus sekreta!) do ">
-<!ENTITY syncKey.keepItSafe3.description  "ni ne povas helpi vin rehavi ĝin">
-<!ENTITY syncKey.keepItSafe4.description  " se ĝi estas perdita. Vi bezonos tiun ĉi ŝlosilon kiam ajn vi volos konekti novan komputilon aŭ aparaton al &syncBrand.fullName.label;.">
-<!ENTITY syncKey.findOutMore1.label       "Vi povas scii pli pri &syncBrand.fullName.label; kaj via privateco ĉe ">
+<!ENTITY syncKey.page.title               "Your &syncBrand.fullName.label; Key">
+<!ENTITY syncKey.page.description         "This key is used to decode the data in your &syncBrand.fullName.label; account. You will need to enter the key each time you configure &syncBrand.fullName.label; on a new computer or device.">
+<!ENTITY syncKey.keepItSecret.heading     "Keep it secret">
+<!ENTITY syncKey.keepItSecret.description "Your &syncBrand.fullName.label; account is encrypted to protect your privacy. Without this key, it would take years for anyone to decode your personal information. You are the only person who holds this key. This means you're the only one who can access your &syncBrand.fullName.label; data.">
+<!ENTITY syncKey.keepItSafe.heading       "Keep it safe">
+<!ENTITY syncKey.keepItSafe1.description  "Do not lose this key.">
+<!ENTITY syncKey.keepItSafe2.description  " We don't keep a copy of your key (that wouldn't be keeping it secret!) so ">
+<!ENTITY syncKey.keepItSafe3.description  "we can't help you recover it">
+<!ENTITY syncKey.keepItSafe4.description  " if it's lost. You'll need to use this key any time you connect a new computer or device to &syncBrand.fullName.label;.">
+<!ENTITY syncKey.findOutMore1.label       "Find out more about &syncBrand.fullName.label; and your privacy at ">
 <!ENTITY syncKey.findOutMore2.label       ".">
-<!ENTITY syncKey.footer1.label            "La kondiĉoj de la servo &syncBrand.fullName.label; haveblas ĉe ">
-<!ENTITY syncKey.footer2.label            ". La politiko pri privateco haveblas ĉe ">
+<!ENTITY syncKey.footer1.label            "&syncBrand.fullName.label; Terms of Service are available at ">
+<!ENTITY syncKey.footer2.label            ". The Privacy Policy is available at ">
 <!ENTITY syncKey.footer3.label            ".">
