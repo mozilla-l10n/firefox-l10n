@@ -54,6 +54,13 @@
 <!ENTITY cmd.open_all_in_tabs.label      "Әрқайсысын жаңа бетте ашу">
 <!ENTITY cmd.open_all_in_tabs.accesskey  "с">
 
+<!ENTITY importBookmarksFromHTML.label     "Бетбелгілерді HTML ішінен импорттау…">
+<!ENTITY importBookmarksFromHTML.accesskey "и">
+<!ENTITY exportBookmarksToHTML.label       "Бетбелгілерді HTML ішіне экспорттау…">
+<!ENTITY exportBookmarksToHTML.accesskey   "э">
+<!ENTITY importOtherBrowser.label          "Мәліметті басқа браузерден импорттау…">
+<!ENTITY importOtherBrowser.accesskey      "М">
+
 <!ENTITY cmd.properties.label      "Қасиеттері">
 <!ENTITY cmd.properties.accesskey  "е">
 

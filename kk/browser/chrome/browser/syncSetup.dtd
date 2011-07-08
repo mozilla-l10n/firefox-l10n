@@ -24,8 +24,10 @@
 
 <!-- New Account Page 1: Basic Account Info -->
 <!ENTITY setup.newAccountDetailsPage.title.label "Тіркелгі ақпараты">
-<!ENTITY setup.confirmPassword.label  "Парольді растау">
-<!ENTITY setup.confirmPassword.accesskey  "л">
+<!ENTITY setup.confirmPassword.label  "Парольді растаңыз">
+<!ENTITY setup.confirmPassword.accesskey  "р">
+<!ENTITY setup.choosePassword.label  "Парольді таңдаңыз">
+<!ENTITY setup.choosePassword.accesskey  "т">
 <!ENTITY setup.emailAddress.label     "Эл. поштау адресі">
 <!ENTITY setup.emailAddress.accesskey "Э">
 <!-- LOCALIZATION NOTE: tosAgree1, tosLink, tosAgree2, ppLink, tosAgree3 are
