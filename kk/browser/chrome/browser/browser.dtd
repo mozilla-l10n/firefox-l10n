@@ -267,11 +267,11 @@ can reach it easily. -->
 
 <!ENTITY appMenuEdit.label "Түзету">
 <!ENTITY appMenuCustomize.label "Баптау">
-<!ENTITY appMenuToolbarLayout.label "Панельдер орналасуу…">
+<!ENTITY appMenuToolbarLayout.label "Панельдер орналасуы…">
 <!ENTITY appMenuSidebars.label "Бүйір панельдер">
 <!ENTITY appMenuFind.label "Табу…">
 <!ENTITY appMenuUnsorted.label "Сұрыпталмаған бетбелгілер">
-<!ENTITY appMenuWebDeveloper.label "Кеб өңдеуіші">
+<!ENTITY appMenuWebDeveloper.label "Веб өңдеуіші">
 <!ENTITY appMenuGettingStarted.label "Бастау үшін">
 <!ENTITY appMenuSafeMode.label "Сөндірілген кеңейтулермен қайта қосу…">
 <!ENTITY appMenuSafeMode.accesskey "с">
