@@ -16,3 +16,6 @@
 <!ENTITY sending_crash_report "Odesílání hlášení o pádu\u2026">
 <!ENTITY exit_label "Ukončit">
 <!ENTITY continue_label "Pokračovat">
+
+<!ENTITY  launcher_shortcuts_title "&brandShortName; aplikace">
+<!ENTITY  launcher_shortcuts_empty "Nebyla nalezena žádná webová aplikace">
