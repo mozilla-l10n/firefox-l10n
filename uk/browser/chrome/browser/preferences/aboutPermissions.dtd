@@ -22,9 +22,9 @@
 <!ENTITY password.manage                 "Керувати паролями…">
 
 <!ENTITY cookie.label                    "Встановлювати куки">
-<!ENTITY cookie.clear                    "Очистити куки">
+<!ENTITY cookie.remove                   "Вилучити куки">
 <!ENTITY cookie.manage                   "Керувати куками…">
-<!ENTITY cookie.clearAll                 "Очистити всі куки">
+<!ENTITY cookie.removeAll                "Вилучити всі куки">
 
 <!ENTITY geo.label                       "Дізнаватись місцезнаходження">
 
