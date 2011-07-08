@@ -91,4 +91,5 @@
 <!ENTITY pageactions.findInPage "Найти">
 <!ENTITY pageactions.search.addNew "Добавить поисковую систему">
 <!ENTITY pageactions.charEncoding "Кодировка текста">
+<!ENTITY pageactions.webapps.install "Установить как приложение">
 <!ENTITY appMenu.siteOptions "Меню сайта">
