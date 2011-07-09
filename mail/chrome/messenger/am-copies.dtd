@@ -9,11 +9,11 @@
 <!-- LOCALIZATION NOTE (ccAddress.label): do not translate "Cc" in below line -->
 <!ENTITY ccAddress.label "Cc những địa chỉ email này:">
 <!ENTITY ccAddress.accesskey "C">
-<!ENTITY ccAddressList.emptytext "Ngăn cách các địa chỉ bằng dấu phẩy">
+<!ENTITY ccAddressList.placeholder "Ngăn cách các địa chỉ bằng dấu phẩy">
 <!-- LOCALIZATION NOTE (bccAddress.label): do not translate "Bcc" in below line -->
 <!ENTITY bccAddress.label "Bcc những địa chỉ email này:">
 <!ENTITY bccAddress.accesskey "B">
-<!ENTITY bccAddressList.emptytext "Ngăn cách các địa chỉ bằng dấu phẩy">
+<!ENTITY bccAddressList.placeholder "Ngăn cách các địa chỉ bằng dấu phẩy">
 <!ENTITY saveMessageDlg.label "Hiện hộp thoại xác nhận khi thư được lưu">
 <!ENTITY saveMessageDlg.accesskey "o">
 <!-- LOCALIZATION NOTE (sentFolderOn.label): OK to translate this, bug #57440 -->
@@ -21,22 +21,26 @@
 <!ENTITY sentFolderOn.accesskey "g">
 <!ENTITY sentInOtherFolder.label "Khác:">
 <!ENTITY sentInOtherFolder.accesskey "K">
+<!-- LOCALIZATION NOTE (archivesFolderOn.label): OK to translate this, bug #57440 -->
+<!ENTITY archivesTitle.label "Thư Lưu Trữ">
+<!ENTITY keepArchives.label "Giữ thư lưu trữ trong:">
+<!ENTITY keepArchives.accesskey "G">
+<!ENTITY archiveHierarchyButton.label "Tùy chọn lưu trữ…">
+<!ENTITY archiveHierarchyButton.accesskey "y">
+<!ENTITY archivesFolderOn.label "Thư mục &quot;Lưu trữ&quot; trên:">
+<!ENTITY archivesFolderOn.accesskey "L">
+<!ENTITY archiveInOtherFolder.label "Khác:">
+<!ENTITY archiveInOtherFolder.accesskey "h">
+<!ENTITY specialFolders.label "Nháp và Mẫu">
+<!ENTITY keepDrafts.label "Giữ thư nháp trong:">
 <!-- LOCALIZATION NOTE (draftsFolderOn.label): OK to translate this, bug #57440 -->
 <!ENTITY draftsFolderOn.label "Thư mục &quot;Thư nháp&quot; trên:">
 <!ENTITY draftsFolderOn.accesskey "n">
 <!ENTITY draftInOtherFolder.label "Khác:">
 <!ENTITY draftInOtherFolder.accesskey "h">
-<!-- LOCALIZATION NOTE (archivesFolderOn.label): OK to translate this, bug #57440 -->
-<!ENTITY archivesFolderOn.label "Thư mục &quot;Lưu trữ&quot; trên:">
-<!ENTITY archivesFolderOn.accesskey "L">
-<!ENTITY archiveInOtherFolder.label "Khác:">
-<!ENTITY archiveInOtherFolder.accesskey "h">
+<!ENTITY keepTemplates.label "Giữ thư mẫu trong:">
 <!-- LOCALIZATION NOTE (templatesFolderOn.label): OK to translate this, bug #57440 -->
 <!ENTITY templatesFolderOn.label "Thư mục &quot;Thư mẫu&quot; trên:">
 <!ENTITY templatesFolderOn.accesskey "m">
 <!ENTITY templateInOtherFolder.label "Khác:">
 <!ENTITY templateInOtherFolder.accesskey "c">
-<!ENTITY specialFoldersTitle.label "Nháp, Lưu trữ, và Mẫu">
-<!ENTITY keepDrafts.label "Giữ thư nháp trong:">
-<!ENTITY keepArchives.label "Giữ thư lưu trữ trong:">
-<!ENTITY keepTempltes.label "Giữ thư mẫu trong:">

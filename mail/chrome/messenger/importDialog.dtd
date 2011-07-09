@@ -77,11 +77,3 @@ LOCALIZATION NOTE : Do not translate any of the occurrences of the word
 
 <!ENTITY title.label              "Chức vụ">
 <!ENTITY processing.label         "Đang nhập…">
-
-<!ENTITY FieldDiscInputText1.label  "Netscape Communicator 4.x có một địa chỉ thư cho mỗi thẻ card, trong khi &brandShortName; lại có hai (Nhà và Công ty).">
-<!ENTITY FieldDiscInputText2.label  "Chọn phân mục mà bạn muốn lưu trữ các địa chỉ thư được nhập:">
-<!ENTITY FieldDiscWarning.label  "Phân mục này sẽ được dùng cho tất cả các mục của sổ địa chỉ đã chọn: ">
-<!ENTITY importHome.label        "Nhà">
-<!ENTITY importHome.accesskey    "N">
-<!ENTITY importWork.label        "Công ty">
-<!ENTITY importWork.accesskey    "C">
