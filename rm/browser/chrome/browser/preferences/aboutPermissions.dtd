@@ -22,9 +22,9 @@
 <!ENTITY password.manage                 "Administrar ils pleds-clav…">
 
 <!ENTITY cookie.label                    "Definir cookies">
-<!ENTITY cookie.clear                    "Stizzar ils cookies">
+<!ENTITY cookie.remove                   "Stizzar ils cookies">
 <!ENTITY cookie.manage                   "Administrar ils cookies…">
-<!ENTITY cookie.clearAll                 "Stizzar tut ils cookies">
+<!ENTITY cookie.removeAll                "Stizzar tut ils cookies">
 
 <!ENTITY geo.label                       "Trametter mia posiziun geografica">
 
