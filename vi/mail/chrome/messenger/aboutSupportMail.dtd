@@ -1,0 +1,15 @@
+<!ENTITY aboutSupport.appBasicsAppBuildID "ID Bản xây dựng Chương trình">
+
+<!ENTITY aboutSupport.accountsTitle "Tài khoản Thư và Tin tức">
+<!ENTITY aboutSupport.showPrivateData.mainText "Bao gồm tên tài khoản">
+<!ENTITY aboutSupport.showPrivateData.explanationText "(thông tin có thể nhận diện cá nhân)">
+<!ENTITY aboutSupport.accountsID "ID">
+<!ENTITY aboutSupport.accountsName "Tên">
+<!ENTITY aboutSupport.accountsIncomingServer "Máy chủ nhận thư">
+<!ENTITY aboutSupport.accountsOutgoingServers "Máy chủ thư đi">
+<!ENTITY aboutSupport.accountsServerName "Tên">
+<!ENTITY aboutSupport.accountsConnSecurity "Bảo mật kết nối">
+<!ENTITY aboutSupport.accountsAuthMethod "Phương thức xác thực">
+<!ENTITY aboutSupport.accountsDefault "Mặc định?">
+
+<!ENTITY aboutSupport.sendViaEmail.label "Gửi qua email">

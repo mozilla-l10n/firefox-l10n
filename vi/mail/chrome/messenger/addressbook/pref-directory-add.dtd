@@ -40,14 +40,14 @@
 <!ENTITY directoryName.accesskey           "T">
 <!ENTITY directoryHostname.label           "Tên máy chủ: ">
 <!ENTITY directoryHostname.accesskey       "c">
-<!ENTITY directoryBaseDN.label             "Base DN: ">
-<!ENTITY directoryBaseDN.accesskey         "B">
+<!ENTITY directoryBaseDN.label             "Tên phân biệt gốc: ">
+<!ENTITY directoryBaseDN.accesskey         "g">
 <!ENTITY findButton.label                  "Tìm">
 <!ENTITY findButton.accesskey              "m">
 <!ENTITY directorySecure.label             "Dùng kết nối an toàn (SSL)">
 <!ENTITY directorySecure.accesskey         "D">
-<!ENTITY directoryLogin.label              "Bind DN: ">
-<!ENTITY directoryLogin.accesskey          "i">
+<!ENTITY directoryLogin.label              "Tên phân biệt liên kết: ">
+<!ENTITY directoryLogin.accesskey          "l">
 <!ENTITY General.tab                       "Tổng quát">
 <!ENTITY Offline.tab                       "Ngoại tuyến">
 <!ENTITY Advanced.tab                      "Nâng cao">

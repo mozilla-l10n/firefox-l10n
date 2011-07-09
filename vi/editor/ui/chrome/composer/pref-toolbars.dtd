@@ -52,7 +52,7 @@
 <!ENTITY hline.label            "Đ. Ngang">
 <!ENTITY table.label            "Bảng">
 <!ENTITY link.label             "Liên kết">
-<!ENTITY anchor.label           "Anchor">
+<!ENTITY anchor.label           "Thẻ Neo">
 
 <!ENTITY formatting.caption     "Hiện những nút này trong Thẻ Định Dạng:">
 

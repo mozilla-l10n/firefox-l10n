@@ -12,3 +12,7 @@
 
 <!ENTITY searchOnline.label "Tìm Trực Tuyến (các thư mục IMAP và Tin tức có kết quả hiện đại nhưng mở chậm hơn)">
 <!ENTITY searchOnline.accesskey "T">
+<!ENTITY newFolderButton.label       "Tạo">
+<!ENTITY newFolderButton.accesskey   "o">
+<!ENTITY editFolderButton.label      "Cập nhật">
+<!ENTITY editFolderButton.accesskey  "p">
