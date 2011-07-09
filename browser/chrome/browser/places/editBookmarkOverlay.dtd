@@ -6,7 +6,6 @@
 <!ENTITY editBookmarkOverlay.feedLocation.accesskey          "F">
 <!ENTITY editBookmarkOverlay.siteLocation.label              "Địa chỉ Trang:">
 <!ENTITY editBookmarkOverlay.siteLocation.accesskey          "r">
-<!ENTITY editBookmarkOverlay.liveTitlesSeparator.label       "Tiêu đề Động">
 <!ENTITY editBookmarkOverlay.folder.label                    "Thư mục:">
 <!ENTITY editBookmarkOverlay.foldersExpanderDown.tooltip     "Hiện tất cả các thư mục chứa trang đánh dấu">
 <!ENTITY editBookmarkOverlay.expanderUp.tooltip              "Ẩn">
