@@ -106,6 +106,7 @@
 <!ENTITY pageactions.saveas.pdf      "保存为 PDF">
 <!ENTITY pageactions.share.page      "分享页面">
 <!ENTITY pageactions.password.forget "忘记密码">
+<!ENTITY pageactions.quit            "退出">
 <!ENTITY pageactions.reset           "清除网站首选设置">
 <!ENTITY pageactions.findInPage      "页内查找">
 <!ENTITY pageactions.search.addNew   "添加搜索引擎">
