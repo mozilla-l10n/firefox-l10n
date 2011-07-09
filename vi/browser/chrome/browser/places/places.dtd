@@ -6,12 +6,9 @@
 <!ENTITY organize.accesskey    "Q">
 <!ENTITY organize.tooltip      "Tổ chức trang đánh dấu của bạn">
 
-<!ENTITY file.accesskey                 "T">
 <!ENTITY file.close.label               "Đóng">
 <!ENTITY file.close.accesskey           "g">
 <!ENTITY cmd.close.key                  "w">
-<!ENTITY edit.label                     "Chỉnh sửa">
-<!ENTITY edit.accesskey                 "C">
 <!ENTITY views.label                    "Xem">
 <!ENTITY views.accesskey                "X">
 <!ENTITY views.tooltip                  "Thay đổi góc nhìn của bạn">
@@ -76,8 +73,6 @@
 
 <!ENTITY cmd.reloadLivebookmark.label      "Tải lại Đánh Dấu Động">
 <!ENTITY cmd.reloadLivebookmark.accesskey  "l">
-<!ENTITY cmd.reloadMicrosummary.label      "Tải lại Tiêu đề Động">
-<!ENTITY cmd.reloadMicrosummary.accesskey  "l">
 
 <!ENTITY cmd.moveBookmarks.label                  "Di chuyển…">
 <!ENTITY cmd.moveBookmarks.accesskey              "y">
@@ -113,17 +108,14 @@
 <!ENTITY maintenance.accesskey  "v">
 <!ENTITY maintenance.tooltip    "Nhập và sao lưu trang đánh dấu của bạn">
 
-<!ENTITY backCmd.label       "Lùi">
 <!ENTITY backButton.tooltip  "Quay lại">
 
-<!ENTITY forwardCmd.label       "Tiến">
 <!ENTITY forwardButton.tooltip  "Tiến tới">
 
 <!ENTITY detailsPane.more.label "Thêm">
 <!ENTITY detailsPane.more.accesskey "m">
 <!ENTITY detailsPane.less.label "Bớt">
 <!ENTITY detailsPane.less.accesskey "B">
-<!ENTITY detailsPane.noPreviewAvailable.label "Xem trước">
 <!ENTITY detailsPane.selectAnItemText.description "Chọn một mục để xem và chỉnh sửa thuộc tính của nó">
 
 <!ENTITY find.label               "Tìm:">
