@@ -45,9 +45,6 @@
 <!-- File menu items -->
 <!ENTITY fileMenu.label "文件">
 <!ENTITY fileMenu.accesskey "F">
-<!ENTITY newBlankPageCmd.label "编写页">
-<!ENTITY newBlankPageCmd.accesskey "P" >
-<!ENTITY newMenu.label "新建">
 <!ENTITY openFileCmd.label "打开文件…">
 <!ENTITY openFileCmd.accesskey "O">
 <!ENTITY openFileCmd.key "O">
@@ -69,14 +66,8 @@
 <!ENTITY publishCmd.key "S">
 <!ENTITY publishAsCmd.label "发布为…">
 <!ENTITY publishAsCmd.accesskey "h">
-<!ENTITY exportToTextCmd.label "导出至文本…">
-<!ENTITY exportToTextCmd.accesskey "T">
 <!ENTITY saveAsChangeEncodingCmd.label "保存并改变字符编码">
 <!ENTITY saveAsChangeEncodingCmd.accesskey "E">
-<!ENTITY previewCmd.label "浏览页面">
-<!ENTITY previewCmd.accesskey "w">
-<!ENTITY sendPageCmd.label "发送页面…">
-<!ENTITY sendPageCmd.accesskey "d">
 <!ENTITY printSetupCmd.label "页面设置…">
 <!ENTITY printSetupCmd.accesskey "u">
 <!ENTITY printCmd.label "打印…">
@@ -90,7 +81,7 @@
 <!ENTITY editMenu.label "编辑">
 <!ENTITY editMenu.accesskey "E">
 <!ENTITY pasteNoFormatting.label "粘贴为无格式文本">
-<!ENTITY pasteNoFormatting.accesskey "o">
+<!ENTITY pasteNoFormatting.accesskey "n">
 <!ENTITY pasteNoFormatting.key "V">
 <!ENTITY pasteAs.label "粘贴为">
 <!ENTITY pasteAs.accesskey "a">
@@ -116,8 +107,6 @@
 <!ENTITY checkSpellingCmd2.label "拼写检查">
 <!ENTITY checkSpellingCmd2.accesskey "h">
 <!ENTITY checkSpellingCmd2.key "p">
-<!ENTITY validateCmd.label "验证 HTML">
-<!ENTITY validateCmd.accesskey "V">
 
 <!-- Insert menu items -->
 <!ENTITY insertMenu.label "插入">
@@ -332,11 +321,6 @@
 <!ENTITY decreaseIndent.accesskey "D">
 <!ENTITY decreaseIndent.key "[">
 
-<!ENTITY grid.label "定位表格">
-<!ENTITY grid.accesskey "t">
-
-<!ENTITY pageProperties.label "页面标题和特性…">
-<!ENTITY pageProperties.accesskey "g">
 <!ENTITY colorsAndBackground.label "页面颜色和背景…">
 <!ENTITY colorsAndBackground.accesskey "u">
 
@@ -405,16 +389,14 @@
 
 <!-- Toolbar-only items -->
 <!ENTITY menuBar.tooltip "菜单栏">
-<!ENTITY compositionToolbar.tooltip "编写工具栏">
 <!ENTITY formatToolbar.tooltip "格式化工具栏">
+<!ENTITY newToolbarCmd.label "新建">
 <!ENTITY newToolbarCmd.tooltip "创建一个新编写窗口">
 <!ENTITY openToolbarCmd.label "打开
 ">
 <!ENTITY openToolbarCmd.tooltip "打开本地文件">
 <!ENTITY saveToolbarCmd.tooltip "将文件保存在本地">
 <!ENTITY publishToolbarCmd.tooltip "上载文件到远端地址">
-<!ENTITY previewToolbarCmd.label "浏览">
-<!ENTITY previewToolbarCmd.tooltip "将此页面载入浏览器">
 <!ENTITY printToolbarCmd.label "打印">
 <!ENTITY printToolbarCmd.tooltip "打印此页面">
 <!ENTITY findToolbarCmd.label "查找">
@@ -451,33 +433,7 @@
 <!ENTITY alignLeftButton.tooltip "向左对齐文本">
 <!ENTITY alignCenterButton.tooltip "文本居中对齐">
 <!ENTITY alignRightButton.tooltip "向右对齐文本">
-<!ENTITY alignjustifyButton.tooltip "左右对齐文本">
-
-<!-- Display Mode toolbar and View menu items -->
-<!ENTITY NormalModeTab.label "常规">
-<!ENTITY NormalMode.label "常规编辑模式">
-<!ENTITY NormalMode.accesskey "n">
-<!ENTITY NormalMode.tooltip "显示表格边界和锚标">
-<!ENTITY AllTagsMode.label "HTML 标记符">
-<!ENTITY AllTagsMode.accesskey "A">
-<!ENTITY AllTagsMode.tooltip "显示所有 HTML 标记符的图标">
-
-<!ENTITY HTMLSourceMode.label "HTML 源代码">
-<!-- Toolbar has an image with "HTML" text, so don't include it in the string -->
-<!ENTITY SourceMode.label "源代码">
-<!ENTITY HTMLSourceMode.accesskey "h">
-<!ENTITY HTMLSourceMode.tooltip "编辑 HTML 源代码">
-<!ENTITY PreviewMode.label "预览">
-<!ENTITY PreviewMode.accesskey "p">
-<!ENTITY PreviewMode.tooltip "显示为 WYSIWYG（同浏览器中显示）">
-
-<!-- LOCALIZATION NOTE: Do NOT translate text for 'SourceTabDirection'
-     Use latin "ltr" if you want the <html> image to left of the 
-     'SourceMode.label' text defined above,
-     or use latin "rtl" if you want this image to the right of text
-     This is the value of the HTML 'dir' attribute
--->
-<!ENTITY SourceTabDirection "ltr">
+<!ENTITY alignJustifyButton.tooltip "左右对齐文本">
 
 <!-- Structure Toolbar Context Menu items -->
 <!ENTITY structSelect.label         "选择">

@@ -193,12 +193,16 @@
 <!ENTITY quoteButton.tooltip "引用上一条消息"> 
 <!ENTITY addressButton.tooltip "从通讯录中选择一个收件人"> 
 <!ENTITY attachButton.tooltip "添加附件"> 
+<!ENTITY spellingButton.tooltip "检查选定的或整个消息的拼写">
 <!ENTITY saveButton.tooltip "保存此消息"> 
 <!ENTITY cutButton.tooltip              "剪切">
 <!ENTITY copyButton.tooltip             "复制">
 <!ENTITY pasteButton.tooltip            "粘贴">
 
 <!-- Headers -->
+<!--LOCALIZATION NOTE headersSpace.style is for aligning  the From:, To: and
+    Subject: rows. It should be larger than the largest Header label  -->
+<!ENTITY headersSpace.style "width: 9em;">
 <!ENTITY fromAddr.label "发件人:">
 <!ENTITY fromAddr.accesskey "r">
 <!ENTITY toAddr.label "收件人："> 
@@ -209,7 +213,8 @@
 <!ENTITY followupAddr.label "后续地址："> 
 <!ENTITY subject.label "主题:">
 <!ENTITY subject.accesskey "S">
-<!ENTITY attachments.label "附件:">
+<!-- LOCALIZATION NOTE attachments.accesskey This access key should correspond
+     to the strings in attachmentCount in composeMsgs.properties -->
 <!ENTITY attachments.accesskey "c">
 
 <!-- Format Toolbar, imported from editorAppShell.xul -->
@@ -262,6 +267,10 @@
 <!ENTITY attachFile.accesskey "F">
 <!ENTITY attachPage.label "附加网页…">
 <!ENTITY attachPage.accesskey "W">
+
+<!-- Spell checker context menu items -->
+<!ENTITY spellAddDictionaries.label "添加词典…">
+<!ENTITY spellAddDictionaries.accesskey "A">
 
 <!-- Title for the address picker panel -->
 <!ENTITY addressesSidebarTitle.label "地址">
