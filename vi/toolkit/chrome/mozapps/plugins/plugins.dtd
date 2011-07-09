@@ -19,10 +19,14 @@
 
 <!ENTITY pluginWizard.finalPage.moreInfo.label               "Tìm hiểu thêm về các Phần bổ trợ hoặc tìm các phần bổ trợ còn thiếu một cách thủ công.">
 <!ENTITY pluginWizard.finalPage.restart.label                "&brandShortName; cần phải được khởi động lại để (các) phần bổ trợ hoạt động.">
-  
-<!ENTITY missingPlugin.label                                 "Nhấp vào đây để tải phần bổ trợ xuống.">
-<!ENTITY disabledPlugin.label                                "Phần bổ trợ cho nội dung này đã bị vô hiệu hóa. Nhấn vào đây để quản lí các phần bổ trợ của bạn.">
+
+<!ENTITY missingPlugin                                       "Cần có một phần bổ trợ để hiển thị nội dung này.">
+<!ENTITY disabledPlugin                                      "Phần bổ trợ này đã bị vô hiệu hóa.">
 <!ENTITY blockedPlugin.label                                 "Phần bổ trợ này đã bị chặn để bảo vệ bạn.">
+
+<!ENTITY installPlugin                                       "Cài phần bổ trợ…">
+<!ENTITY managePlugins                                       "Quản lí phần bổ trợ…">
+
 <!-- LOCALIZATION NOTE (reloadPlugin.pre): include a trailing space as needed -->
 <!-- LOCALIZATION NOTE (reloadPlugin.middle): avoid leading/trailing spaces, this text is a link -->
 <!-- LOCALIZATION NOTE (reloadPlugin.post): include a starting space as needed -->

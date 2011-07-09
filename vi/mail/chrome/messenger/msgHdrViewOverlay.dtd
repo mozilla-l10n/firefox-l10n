@@ -99,18 +99,45 @@
 <!ENTITY otherActionsPrint.label "in…">
 <!ENTITY otherActionsPrint.accesskey "i">
 
+<!-- Attachment context menu items -->
 <!ENTITY openAttachmentCmd.label    "Mở">
 <!ENTITY openAttachmentCmd.accesskey    "M">
 <!ENTITY saveAsAttachmentCmd.label    "Lưu Thành…">
 <!ENTITY saveAsAttachmentCmd.accesskey    "L">
 <!ENTITY detachAttachmentCmd.label    "Tách rời…">
+<!ENTITY detachAttachmentCmd.accesskey    "T">
 <!ENTITY deleteAttachmentCmd.label    "Xóa">
+<!ENTITY deleteAttachmentCmd.accesskey    "X">
+<!ENTITY openAllAttachmentsCmd.label    "Mở Tất Cả…">
+<!ENTITY openAllAttachmentsCmd.accesskey    "M">
 <!ENTITY saveAllAttachmentsCmd.label    "Lưu Toàn Bộ…">
 <!ENTITY saveAllAttachmentsCmd.accesskey    "L">
 <!ENTITY detachAllAttachmentsCmd.label    "Tách rời Toàn bộ…">
 <!ENTITY detachAllAttachmentsCmd.accesskey    "b">
 <!ENTITY deleteAllAttachmentsCmd.label    "Xóa Toàn Bộ…">
 <!ENTITY deleteAllAttachmentsCmd.accesskey    "B">
+
+<!-- Attachment toolbar items -->
+<!ENTITY saveAttachmentButton.label       "lưu">
+<!ENTITY saveAttachmentButton.tooltip     "lưu tập tin đính kèm">
+<!ENTITY saveAllAttachmentsButton.label   "lưu toàn bộ">
+<!ENTITY saveAllAttachmentsButton.tooltip "lưu tất cả tập tin đính kèm">
+<!ENTITY openAttachmentMenuItem.label     "mở">
+<!ENTITY openAttachmentMenuItem.accesskey    "m">
+<!ENTITY saveAsAttachmentMenuItem.label    "lưu thành…">
+<!ENTITY saveAsAttachmentMenuItem.accesskey    "l">
+<!ENTITY detachAttachmentMenuItem.label    "tháo gỡ…">
+<!ENTITY detachAttachmentMenuItem.accesskey    "g">
+<!ENTITY deleteAttachmentMenuItem.label    "xóa">
+<!ENTITY deleteAttachmentMenuItem.accesskey    "x">
+<!ENTITY openAllAttachmentsMenuItem.label    "mở tất cả…">
+<!ENTITY openAllAttachmentsMenuItem.accesskey    "m">
+<!ENTITY saveAllAttachmentsMenuItem.label    "lưu toàn bộ…">
+<!ENTITY saveAllAttachmentsMenuItem.accesskey    "l">
+<!ENTITY detachAllAttachmentsMenuItem.label    "tháo gỡ toàn bộ…">
+<!ENTITY detachAllAttachmentsMenuItem.accesskey    "b">
+<!ENTITY deleteAllAttachmentsMenuItem.label    "xóa toàn bộ…">
+<!ENTITY deleteAllAttachmentsMenuItem.accesskey    "x">
 
 <!ENTITY copyLinkCmd.label        "Chép Địa Chỉ Liên Kết">
 <!ENTITY copyLinkCmd.accesskey    "a">

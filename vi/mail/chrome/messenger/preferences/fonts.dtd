@@ -17,7 +17,7 @@
 <!ENTITY  serif.accesskey                         "S">
 <!ENTITY  sans-serif.label                        "Sans-serif:">
 <!ENTITY  sans-serif.accesskey                    "a">
-<!ENTITY  monospace.label                         "Giãn cách đơn:">
+<!ENTITY  monospace.label                         "Giãn Cách Đơn:">
 <!ENTITY  monospace.accesskey                     "G">
 
 <!ENTITY  font.langGroup.latin1                   "Phương Tây">

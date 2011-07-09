@@ -23,14 +23,13 @@
 <!ENTITY warning.updatesecurity.enable.label       "Bật">
 <!ENTITY warning.updatesecurity.enable.tooltip     "Kích hoạt kiểm tra tính bảo mật của cập nhật cho tiện ích">
 
+<!-- global informations -->
+<!ENTITY info.plugincheck.label                 "Kiểm tra xem phần bổ trợ của bạn đã là mới nhất chưa">
+<!ENTITY info.plugincheck.tooltip               "Kiểm tra xem phần bổ trợ của bạn đã là mới nhất chưa">
+
 <!-- categories / views -->
 <!ENTITY view.search.label                    "Tìm kiếm">
 <!ENTITY view.discover.label                  "Lấy thêm Tiện ích">
-<!ENTITY view.locales.label                   "Ngôn ngữ">
-<!ENTITY view.searchengines.label             "Máy tìm kiếm">
-<!ENTITY view.features.label                  "Phần mở rộng">
-<!ENTITY view.appearance2.label               "Diện mạo">
-<!ENTITY view.plugins.label                   "Phần bổ trợ">
 <!ENTITY view.recentUpdates.label             "Cập nhật Gần đây">
 <!ENTITY view.availableUpdates.label          "Cập nhật Khả thi">
 

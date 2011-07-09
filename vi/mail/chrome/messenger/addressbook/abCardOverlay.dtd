@@ -64,6 +64,8 @@
 <!ENTITY PhoneticField2.label           "Kí âm:">
 <!ENTITY DisplayName.label              "Hiển thị:">
 <!ENTITY DisplayName.accesskey          "i">
+<!ENTITY preferDisplayName.label        "Luôn hiển thị tên trên đầu đề tin nhắn">
+<!ENTITY preferDisplayName.accesskey    "u">
 <!ENTITY NickName.label                 "Tên hiệu (nick):">
 <!ENTITY NickName.accesskey             "u">
 
@@ -113,9 +115,9 @@
 <!ENTITY Birthday.label                 "Ngày sinh:">
 <!ENTITY Birthday.accesskey             "s">
 <!ENTITY In.label                       "">
-<!ENTITY Year.emptytext                 "Năm">
+<!ENTITY Year.placeholder               "Năm">
 <!ENTITY Or.value                       "hoặc">
-<!ENTITY Age.emptytext                  "Tuổi">
+<!ENTITY Age.placeholder                "Tuổi">
 <!ENTITY YearsOld.label                 "">
 
 <!ENTITY Work.tab                       "Công ty">
@@ -166,6 +168,6 @@
 <!ENTITY BrowsePhoto.accesskey          "u">
 <!ENTITY PhotoURL.label                 "Trên web">
 <!ENTITY PhotoURL.accesskey             "w">
-<!ENTITY PhotoURL.emptytext             "Dán hoặc gõ địa chỉ web của ảnh">
+<!ENTITY PhotoURL.placeholder           "Dán hoặc gõ địa chỉ web của ảnh">
 <!ENTITY UpdatePhoto.label              "Cập nhật">
 <!ENTITY UpdatePhoto.accesskey          "p">
