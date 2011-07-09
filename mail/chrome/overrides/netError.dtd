@@ -50,6 +50,11 @@
 <!ENTITY netInterrupt.longDesc "&sharedLongDesc;">
 
 <!ENTITY netOffline.title "Chế độ ngoại tuyến">
+<!ENTITY netOffline.longDesc "
+<ul>
+  <li>Đặt &brandShortName; vào chế độ trực tuyến, rồi thử lại.</li>
+</ul>
+">
 <!ENTITY netOffline.longDesc2 "<ul>
  <li>Bấm &quot;Thử lại&quot; để vào chế độ trực tuyến và tải lại trang.</li>
 </ul>
