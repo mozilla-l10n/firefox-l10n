@@ -7,7 +7,7 @@
 <!ENTITY  focusSearch1.key            "f">
 <!ENTITY  focusSearch2.key            "k">
 
-<!ENTITY  filter.emptytext            "Tìm kiếm">
+<!ENTITY  filter.placeholder          "Tìm kiếm">
 
 <!ENTITY saveTo.label                 "Lưu các tập tin vào">
 <!ENTITY saveTo.accesskey             "L">

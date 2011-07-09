@@ -14,9 +14,9 @@
 <!ENTITY  autoTypeRadio.accesskey       "U">
 <!ENTITY  reload.label                  "Tải lại">
 <!ENTITY  reload.accesskey              "i">
-<!ENTITY  http.label                    "HTTP Proxy:">
+<!ENTITY  http.label                    "Proxy HTTP:">
 <!ENTITY  http.accesskey                "H">
-<!ENTITY  ssl.label                     "SSL Proxy:">
+<!ENTITY  ssl.label                     "Proxy SSL:">
 <!ENTITY  ssl.accesskey                 "S">
 <!ENTITY  socks.label                   "Máy chủ SOCKS:">
 <!ENTITY  socks.accesskey               "O">

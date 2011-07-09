@@ -193,12 +193,16 @@
 <!ENTITY quoteButton.tooltip "Trích dẫn thư trước"> 
 <!ENTITY addressButton.tooltip "Chọn một người nhận từ Sổ Địa Chỉ"> 
 <!ENTITY attachButton.tooltip "Thêm một tập tin đính kèm"> 
+<!ENTITY spellingButton.tooltip "Kiểm tra chính tả của phần đã chọn hoặc toàn bộ thư">
 <!ENTITY saveButton.tooltip "Lưu thư này"> 
 <!ENTITY cutButton.tooltip              "Cắt">
 <!ENTITY copyButton.tooltip             "Chép">
 <!ENTITY pasteButton.tooltip            "Dán">
 
 <!-- Headers -->
+<!--LOCALIZATION NOTE headersSpace.style is for aligning  the From:, To: and
+    Subject: rows. It should be larger than the largest Header label  -->
+<!ENTITY headersSpace.style "width: 9em;">
 <!ENTITY fromAddr.label "Gửi Từ:">
 <!ENTITY fromAddr.accesskey "i">
 <!ENTITY toAddr.label "Tới:"> 
@@ -209,7 +213,8 @@
 <!ENTITY followupAddr.label "Trả lời Tin tại:"> 
 <!ENTITY subject.label "Tiêu đề:">
 <!ENTITY subject.accesskey "u">
-<!ENTITY attachments.label "Phần đính kèm:">
+<!-- LOCALIZATION NOTE attachments.accesskey This access key should correspond
+     to the strings in attachmentCount in composeMsgs.properties -->
 <!ENTITY attachments.accesskey "k">
 
 <!-- Format Toolbar, imported from editorAppShell.xul -->
@@ -262,6 +267,10 @@
 <!ENTITY attachFile.accesskey "k">
 <!ENTITY attachPage.label "Đính kèm Trang Web…">
 <!ENTITY attachPage.accesskey "W">
+
+<!-- Spell checker context menu items -->
+<!ENTITY spellAddDictionaries.label "Thêm Từ Điển…">
+<!ENTITY spellAddDictionaries.accesskey "m">
 
 <!-- Title for the address picker panel -->
 <!ENTITY addressesSidebarTitle.label "Danh bạ">

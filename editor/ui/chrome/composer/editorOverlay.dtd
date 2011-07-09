@@ -45,9 +45,6 @@
 <!-- File menu items -->
 <!ENTITY fileMenu.label "Tập tin">
 <!ENTITY fileMenu.accesskey "T">
-<!ENTITY newBlankPageCmd.label "Trang Soạn Thảo">
-<!ENTITY newBlankPageCmd.accesskey "T" >
-<!ENTITY newMenu.label "Mới">
 <!ENTITY openFileCmd.label "Mở Tập tin...">
 <!ENTITY openFileCmd.accesskey "M">
 <!ENTITY openFileCmd.key "O">
@@ -69,14 +66,8 @@
 <!ENTITY publishCmd.key "S">
 <!ENTITY publishAsCmd.label "Xuất bản Thành…">
 <!ENTITY publishAsCmd.accesskey "h">
-<!ENTITY exportToTextCmd.label "Xuất thành Văn bản…">
-<!ENTITY exportToTextCmd.accesskey "t">
 <!ENTITY saveAsChangeEncodingCmd.label "Lưu và Thay đổi Bảng mã">
 <!ENTITY saveAsChangeEncodingCmd.accesskey "B">
-<!ENTITY previewCmd.label "Duyệt Trang">
-<!ENTITY previewCmd.accesskey "D">
-<!ENTITY sendPageCmd.label "Gửi Trang…">
-<!ENTITY sendPageCmd.accesskey "G">
 <!ENTITY printSetupCmd.label "Thiết lập Trang…">
 <!ENTITY printSetupCmd.accesskey "p">
 <!ENTITY printCmd.label "In…">
@@ -116,8 +107,6 @@
 <!ENTITY checkSpellingCmd2.label "Kiểm tra Chính tả">
 <!ENTITY checkSpellingCmd2.accesskey "a">
 <!ENTITY checkSpellingCmd2.key "p">
-<!ENTITY validateCmd.label "Phê chuẩn HTML">
-<!ENTITY validateCmd.accesskey "P">
 
 <!-- Insert menu items -->
 <!ENTITY insertMenu.label "Chèn">
@@ -134,7 +123,7 @@
 <!ENTITY insertTableCmd.label "Bảng…">
 <!ENTITY insertTableCmd.accesskey "B">
 <!ENTITY insertHTMLCmd.label "HTML…">
-<!ENTITY insertHTMLCmd.accesskey "T">
+<!ENTITY insertHTMLCmd.accesskey "H">
 <!ENTITY insertCharsCmd.label "Kí tự và Kí hiệu…">
 <!ENTITY insertCharsCmd.accesskey "K">
 <!ENTITY insertBreakAllCmd.label "Ngắt Đoạn Sau Hình">
@@ -332,11 +321,6 @@
 <!ENTITY decreaseIndent.accesskey "G">
 <!ENTITY decreaseIndent.key "[">
 
-<!ENTITY grid.label "Lưới định vị">
-<!ENTITY grid.accesskey "L">
-
-<!ENTITY pageProperties.label "Tựa và Thuộc tính Trang…">
-<!ENTITY pageProperties.accesskey "v">
 <!ENTITY colorsAndBackground.label "Nền và Màu Trang…">
 <!ENTITY colorsAndBackground.accesskey "u">
 
@@ -405,15 +389,13 @@
 
 <!-- Toolbar-only items -->
 <!ENTITY menuBar.tooltip "Thanh Trình Đơn">
-<!ENTITY compositionToolbar.tooltip "Thanh Soạn Thảo">
 <!ENTITY formatToolbar.tooltip "Thanh Định Dạng">
+<!ENTITY newToolbarCmd.label "Mới">
 <!ENTITY newToolbarCmd.tooltip "Tạo trang Soạn thảo mới">
 <!ENTITY openToolbarCmd.label "Mở">
 <!ENTITY openToolbarCmd.tooltip "Mở một tập tin trong máy">
 <!ENTITY saveToolbarCmd.tooltip "Lưu tập tin vào thư mục trong máy">
 <!ENTITY publishToolbarCmd.tooltip "Tải tập tin lên một địa chỉ từ xa">
-<!ENTITY previewToolbarCmd.label "Duyệt">
-<!ENTITY previewToolbarCmd.tooltip "Tải trang này trong trình duyệt">
 <!ENTITY printToolbarCmd.label "In">
 <!ENTITY printToolbarCmd.tooltip "In trang này">
 <!ENTITY findToolbarCmd.label "Tìm">
@@ -428,7 +410,7 @@
 <!ENTITY tableToolbarCmd.tooltip "Chèn bảng mới hoặc chỉnh sửa thuộc tính của bảng">
 <!ENTITY linkToolbarCmd.label "Liên kết">
 <!ENTITY linkToolbarCmd.tooltip "Chèn liên kết mới hoặc chỉnh sửa thuộc tính của liên kết đã chọn">
-<!ENTITY anchorToolbarCmd.label "Anchor">
+<!ENTITY anchorToolbarCmd.label "Thẻ Neo">
 <!ENTITY anchorToolbarCmd.tooltip "Chèn thẻ neo anchor mới hoặc chỉnh sửa thuộc tính của anchor">
 <!ENTITY TextColorButton.tooltip "Chọn màu chữ">
 <!ENTITY BackgroundColorButton.tooltip "Chọn màu nền">
@@ -450,33 +432,7 @@
 <!ENTITY alignLeftButton.tooltip "Căn theo lề trái">
 <!ENTITY alignCenterButton.tooltip "Căn vào giữa">
 <!ENTITY alignRightButton.tooltip "Căn theo lề phải">
-<!ENTITY alignjustifyButton.tooltip "Căn theo hai bên lề">
-
-<!-- Display Mode toolbar and View menu items -->
-<!ENTITY NormalModeTab.label "Bình thường">
-<!ENTITY NormalMode.label "Chế độ Chỉnh sửa Bình thường">
-<!ENTITY NormalMode.accesskey "B">
-<!ENTITY NormalMode.tooltip "Hiện đường viền bảng và thẻ neo anchor">
-<!ENTITY AllTagsMode.label "Thẻ HTML">
-<!ENTITY AllTagsMode.accesskey "H">
-<!ENTITY AllTagsMode.tooltip "Hiện biểu tượng cho tất cả thẻ HTML">
-
-<!ENTITY HTMLSourceMode.label "Nguồn HTML">
-<!-- Toolbar has an image with "HTML" text, so don't include it in the string -->
-<!ENTITY SourceMode.label "Nguồn">
-<!ENTITY HTMLSourceMode.accesskey "N">
-<!ENTITY HTMLSourceMode.tooltip "Chỉnh sửa nguồn HTML">
-<!ENTITY PreviewMode.label "Xem trước">
-<!ENTITY PreviewMode.accesskey "X">
-<!ENTITY PreviewMode.tooltip "Hiển thị WYSIWYG (giống trình duyệt)">
-
-<!-- LOCALIZATION NOTE: Do NOT translate text for 'SourceTabDirection'
-     Use latin "ltr" if you want the <html> image to left of the 
-     'SourceMode.label' text defined above,
-     or use latin "rtl" if you want this image to the right of text
-     This is the value of the HTML 'dir' attribute
--->
-<!ENTITY SourceTabDirection "ltr">
+<!ENTITY alignJustifyButton.tooltip "Căn theo hai bên lề">
 
 <!-- Structure Toolbar Context Menu items -->
 <!ENTITY structSelect.label         "Chọn">

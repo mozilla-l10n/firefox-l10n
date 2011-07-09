@@ -42,16 +42,59 @@
 
 <!-- Menu items:  the . means that the menu item isn't implemented yet -->
 
+<!-- Toolbar-only items -->
+<!ENTITY compositionToolbar.tooltip "Thanh công cụ Soạn thảo">
+<!ENTITY previewToolbarCmd.label "Duyệt">
+<!ENTITY previewToolbarCmd.tooltip "Tải trang này trong trình duyệt">
+
+<!-- File menu items -->
+<!ENTITY exportToTextCmd.label "Xuất thành Văn bản…">
+<!ENTITY exportToTextCmd.accesskey "X">
+<!ENTITY previewCmd.label "Duyệt Trang">
+<!ENTITY previewCmd.accesskey "D">
+<!ENTITY sendPageCmd.label "Gửi Trang…">
+<!ENTITY sendPageCmd.accesskey "G">
+
 <!-- View menu items -->
-<!ENTITY viewMenu.label "Hiển thị">
-<!ENTITY viewMenu.accesskey "H">
 <!ENTITY compositionToolbarCmd.label "Thanh công cụ Soạn thảo">
 <!ENTITY compositionToolbarCmd.accesskey "T">
 <!ENTITY formattingToolbarCmd.label "Thanh công cụ Định dạng">
 <!ENTITY formattingToolbarCmd.accesskey "T">
-<!ENTITY editmodeToolbarCmd.label "Thanh công cụ Chế độ Soạn thảo">
+<!ENTITY editmodeToolbarCmd.label "Thanh công cụ Chế độ Chỉnh sửa">
 <!ENTITY editmodeToolbarCmd.accesskey "T">
 
 <!-- Format menu items -->
 <!ENTITY formatMenu.label "Định dạng">
 <!ENTITY formatMenu.accesskey "d">
+<!ENTITY grid.label "Lưới định vị">
+<!ENTITY grid.accesskey "L">
+<!ENTITY pageProperties.label "Tựa và Thuộc tính Trang…">
+<!ENTITY pageProperties.accesskey "v">
+
+<!-- Tools menu items -->
+<!ENTITY validateCmd.label "Phê chuẩn HTML">
+<!ENTITY validateCmd.accesskey "P">
+
+<!-- Display Mode toolbar and View menu items -->
+<!ENTITY NormalModeTab.label "Bình thường">
+<!ENTITY NormalMode.label "Chế độ Chỉnh sửa Bình thường">
+<!ENTITY NormalMode.accesskey "B">
+<!ENTITY NormalMode.tooltip "Hiện đường viền bảng và thẻ neo anchor">
+<!ENTITY AllTagsModeTab.label "Thẻ HTML">
+<!ENTITY AllTagsMode.label "Thẻ HTML">
+<!ENTITY AllTagsMode.accesskey "H">
+<!ENTITY AllTagsMode.tooltip "Hiện biểu tượng cho tất cả thẻ HTML">
+<!-- LOCALIZATION NOTE: (HTMLSourceModeTab.dir, HTMLSourceModeTab.label)
+     Do NOT translate text for 'HTMLSourceModeTab.dir', use latin "ltr" if
+     you want the <html> image to left of the 'HTMLSourceModeTab.label' text,
+     or use latin "rtl" if you want this image to the right of text. You do
+     not need to include HTML in the label 'HTMLSourceModeTab.label' -->
+<!ENTITY HTMLSourceModeTab.dir "ltr">
+<!ENTITY HTMLSourceModeTab.label "Nguồn">
+<!ENTITY HTMLSourceMode.label "Nguồn HTML">
+<!ENTITY HTMLSourceMode.accesskey "u">
+<!ENTITY HTMLSourceMode.tooltip "Chỉnh sửa nguồn HTML">
+<!ENTITY PreviewModeTab.label "Xem trước">
+<!ENTITY PreviewMode.label "Xem trước">
+<!ENTITY PreviewMode.accesskey "e">
+<!ENTITY PreviewMode.tooltip "Hiển thị WYSIWYG (giống trình duyệt)">

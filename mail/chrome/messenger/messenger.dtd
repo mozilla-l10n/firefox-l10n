@@ -5,10 +5,20 @@
 <!-- File Menu -->
 <!ENTITY newFolderCmd.label "Thư mục…">
 <!ENTITY newFolderCmd.accesskey "h">
-<!ENTITY closeTabCmd.label "Đóng Thẻ">
-<!ENTITY closeTabCmd.accesskey "g">
-<!ENTITY closeOtherTabsCmd.label "Đóng Các Thẻ Khác">
-<!ENTITY closeOtherTabsCmd.accesskey "K">
+<!ENTITY closeTabCmd2.label "Đóng Thẻ">
+<!ENTITY closeTabCmd2.accesskey "g">
+<!ENTITY closeOtherTabsCmd2.label "Đóng Các Thẻ Khác">
+<!ENTITY closeOtherTabsCmd2.accesskey "K">
+<!ENTITY recentlyClosedTabsCmd.label "Các thẻ Đã đóng Gần đây">
+<!ENTITY recentlyClosedTabsCmd.accesskey "y">
+
+<!ENTITY undoCloseTabCmd.commandkey "T">
+<!-- LOCALIZATION NOTE (moveToNewWindow.label):
+     Menu option to cause the current tab to be migrated to a new Thunderbird
+     window.
+     -->
+<!ENTITY moveToNewWindow.label "Di chuyển sang Cửa Sổ Mới">
+<!ENTITY moveToNewWindow.accesskey "a">
 <!ENTITY newVirtualFolderCmd.label "Tìm kiếm Được lưu…">
 <!ENTITY newVirtualFolderCmd.accesskey "m">
 <!ENTITY newOtherAccountsCmd.label "Tài khoản Khác…">
@@ -26,7 +36,6 @@
 <!ENTITY saveAsFileCmd.key "s">
 <!ENTITY saveAsTemplateCmd.label "Thư mẫu">
 <!ENTITY saveAsTemplateCmd.accesskey "m">
-<!ENTITY getNewMsgCmd.key "t">
 <!ENTITY getNewMsgForCmd.label "Lấy Thư Mới cho">
 <!ENTITY getNewMsgForCmd.accesskey "c">
 <!ENTITY getAllNewMsgCmdPopupMenu.label "Tất cả Tài khoản">
@@ -73,14 +82,10 @@
 <!ENTITY deleteMsgCmd.accesskey "X">
 <!ENTITY undeleteMsgCmd.label "Không Xóa Thư">
 <!ENTITY undeleteMsgCmd.accesskey "X">
-<!ENTITY cancelNewsMsgCmd.label "Hủy Thư">
-<!ENTITY cancelNewsMsgCmd.accesskey "y">
 <!ENTITY deleteMsgsCmd.label "Xóa Thư Đã Chọn">
 <!ENTITY deleteMsgsCmd.accesskey "X">
 <!ENTITY undeleteMsgsCmd.label "Không Xóa Thư Đã Chọn">
 <!ENTITY undeleteMsgsCmd.accesskey "X">
-<!ENTITY cancelNewsMsgsCmd.label "Hủy Chọn Thư">
-<!ENTITY cancelNewsMsgsCmd.accesskey "y">
 <!ENTITY deleteFolderCmd.label "Xóa Thư Mục">
 <!ENTITY deleteFolderCmd.accesskey "X">
 <!ENTITY unsubscribeNewsgroupCmd.label "Dừng đăng kí">
@@ -313,6 +318,11 @@ you can use these alternative items. Otherwise, their values should be empty.  -
 <!ENTITY goBackCmd.commandKey "[">
 <!ENTITY prevStarredMsgCmd.label "Thư gắn sao">
 <!ENTITY prevStarredMsgCmd.accesskey "s">
+<!ENTITY folderMenu.label "Thư mục">
+<!ENTITY folderMenu.accesskey "T">
+<!ENTITY thisFolder.label "Thư Mục Này">
+<!ENTITY thisFolder.accesskey "T">
+<!ENTITY goRecentlyClosedTabs.label "Các thẻ Đã đóng Gần đây">
 <!ENTITY startPageCmd.label "Trang Bắt Đầu">
 <!ENTITY startPageCmd.accesskey "B">
 
@@ -326,6 +336,8 @@ you can use these alternative items. Otherwise, their values should be empty.  -
 <!ENTITY archiveMsgCmd.label "Lưu trữ">
 <!ENTITY archiveMsgCmd.accesskey "L">
 <!ENTITY archiveMsgCmd.key  "a">
+<!ENTITY cancelNewsMsgCmd.label "Hủy Thư">
+<!ENTITY cancelNewsMsgCmd.accesskey "y">
 <!ENTITY replyMsgCmd.label "Trả lời">
 <!ENTITY replyMsgCmd.accesskey "i">
 <!ENTITY replyMsgCmd.key  "r">
@@ -391,9 +403,11 @@ you can use these alternative items. Otherwise, their values should be empty.  -
 <!ENTITY tagCmd9.key "9">
 <!ENTITY markMenu.label "Đánh dấu">
 <!ENTITY markMenu.accesskey "u">
+<!ENTITY toggleReadCmd.key "m">
 <!ENTITY markAsReadCmd.label "Đã Đọc">
 <!ENTITY markAsReadCmd.accesskey "c">
-<!ENTITY markAsReadCmd.key "m">
+<!ENTITY markAsUnreadCmd.label "Chưa Đọc">
+<!ENTITY markAsUnreadCmd.accesskey "C">
 <!ENTITY markThreadAsReadCmd.label "Chủ đề là Đã Đọc">
 <!ENTITY markThreadAsReadCmd.accesskey "h">
 <!ENTITY markThreadAsReadCmd.key "r">
@@ -503,7 +517,6 @@ you can use these alternative items. Otherwise, their values should be empty.  -
 <!ENTITY getMsgButton.tooltip "Lấy thư mới">
 <!ENTITY getAllNewMsgCmd.label "Lấy Tất Cả Thư Mới">
 <!ENTITY getAllNewMsgCmd.accesskey "y">
-<!ENTITY getAllNewMsgCmd.key "t">
 <!ENTITY newMsgButton.tooltip "Viết một thư mới">
 <!ENTITY replyButton.tooltip "Trả lời thư">
 <!ENTITY replyAllButton.tooltip "Trả lời người gửi và tất cả người nhận">
@@ -577,7 +590,7 @@ you can use these alternative items. Otherwise, their values should be empty.  -
 <!ENTITY SearchNameOrEmail.accesskey "o">
 
 <!-- Gloda Search Bar -->
-<!ENTITY glodaSearchBar.emptyText "Tìm kiếm Thư…">
+<!ENTITY glodaSearchBar.placeholder "Tìm kiếm Thư…">
 
 <!-- Quick Search Menu Bar -->
 <!ENTITY searchSubjectMenu.label "Tiêu đề">
@@ -634,6 +647,10 @@ you can use these alternative items. Otherwise, their values should be empty.  -
 <!-- Thread Pane Context Menu -->
 <!ENTITY contextOpenNewWindow.label "Mở Thư trong Cửa Sổ Mới">
 <!ENTITY contextOpenNewWindow.accesskey "M">
+<!-- The key potentially conflicts with cutCmd.accessKey which is defined in
+     textcontext.dtd from toolkit. Right now, both menu items can't be visible
+     at the same time, but should someone enable copy/paste of message, this key
+     would probably need to be changed. -->
 <!ENTITY contextOpenNewTab.label "Mở Thư trong Thẻ Mới">
 <!ENTITY contextOpenNewTab.accesskey "T">
 <!ENTITY contextOpenConversation.label "Mở Thư trong Hội thoại">
@@ -736,12 +753,14 @@ you can use these alternative items. Otherwise, their values should be empty.  -
 <!-- Phishing Bar -->
 <!ENTITY phishingBarMessage2.label "Thư này có thể là lừa đảo.">
 <!ENTITY removePhishingBarButton1.label "Bỏ qua Cảnh báo">
+<!ENTITY disablePhishingWarning1.label "Vô hiệu hóa báo động lừa đảo cho tất cả thư">
 <!ENTITY reportPhishingError1.label "Thư này có vẻ không phải là lừa đảo.">
 
 <!-- MDN Bar -->
-<!ENTITY mdnBarMessage.label "Người gửi thư tin này đã yêu cầu được thông báo khi bạn đọc nó. Bạn có muốn thông báo cho người gửi không?">
-<!ENTITY mdnBarIgnoreButton.label "Bỏ qua Yêu cầu">
-<!ENTITY mdnBarSendButton.label "Gửi Hồi Báo">
+<!ENTITY mdnBarIgnoreButton2.label "Bỏ qua">
+<!ENTITY mdnBarIgnoreButton2.accesskey "B">
+<!ENTITY mdnBarSendButton2.label "Gửi Chứng nhận Hồi báo">
+<!ENTITY mdnBarSendButton2.accesskey "o">
 
 <!-- Quick Search Bar -->
 <!-- LOCALIZATION NOTE (quickSearchCmd.key):
@@ -796,22 +815,18 @@ you can use these alternative items. Otherwise, their values should be empty.  -
 <!ENTITY reportPhishingURL.label "Báo cáo Thư lừa đảo">
 <!ENTITY reportPhishingURL.accesskey "o">
 
+<!-- Spell checker context menu items -->
+<!ENTITY spellAddDictionaries.label "Thêm Từ Điển…">
+<!ENTITY spellAddDictionaries.accesskey "m">
+
 <!-- Content Pane Context Menu -->
 <!ENTITY saveLinkAsCmd.label "Lưu Liên Kết dưới dạng…">
 <!ENTITY saveLinkAsCmd.accesskey "K">
 <!ENTITY saveImageAsCmd.label "Lưu Ảnh dưới dạng…">
 <!ENTITY saveImageAsCmd.accesskey "L">
-<!ENTITY cutCmd.label "Cắt">
-<!ENTITY cutCmd.accesskey "t">
-<!ENTITY copyCmd.label "Chép">
-<!ENTITY copyCmd.accesskey "C">
-<!ENTITY pasteCmd.label "Dán">
-<!ENTITY pasteCmd.accesskey "D">
-<!ENTITY selectAllCmd.label "Chọn Toàn Bộ">
-<!ENTITY selectAllCmd.accesskey "B">
 <!ENTITY copyLinkCmd.label "Chép Địa Chỉ Liên Kết">
 <!ENTITY copyLinkCmd.accesskey "a">
-<!ENTITY copyImageAllCmd.label "Chép Địa Chỉ Ảnh">
+<!ENTITY copyImageAllCmd.label "Chép Ảnh">
 <!ENTITY copyImageAllCmd.accesskey "p">
 <!ENTITY copyEmailCmd.label "Chép Địa Chỉ Email">
 <!ENTITY copyEmailCmd.accesskey "E">

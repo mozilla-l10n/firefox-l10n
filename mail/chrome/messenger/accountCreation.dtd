@@ -1,51 +1,55 @@
 <!ENTITY autoconfigWizard.title          "Thiết lập Tài khoản Thư">
 <!ENTITY name.label                      "Tên của bạn:">
 <!ENTITY name.accesskey                  "T">
-<!ENTITY name.emptytext                  "Tên, Họ">
+<!ENTITY name.placeholder                "Tên, Họ">
 <!ENTITY name.text                       "Tên của bạn, cho người khác thấy">
 <!ENTITY email.label                     "Địa chỉ email:">
 <!ENTITY email.accesskey                 "l">
-<!ENTITY email.emptytext                 "email@vidu.com">
+<!ENTITY email.placeholder               "email@example.com">
 <!ENTITY password.label                  "Mật khẩu:">
 <!ENTITY password.accesskey              "M">
-<!ENTITY password.emptytext              "Mật khẩu">
+<!ENTITY password.placeholder            "Mật khẩu">
 <!ENTITY password.text                   "Phụ, chỉ sẽ được dùng để kiểm tra tên đăng nhập">
+<!ENTITY rememberPassword.label          "Ghi nhớ mật khẩu">
+<!ENTITY rememberPassword.accesskey      "G">
 
-<!ENTITY accountInformation.label        "Thông tin Tài khoản">
-<!ENTITY username2.label                 "Tên đăng nhập:">
+<!ENTITY imapLong.label                  "IMAP (các thư mục từ xa)">
+<!ENTITY pop3Long.label                  "POP3 (giữ thư trên máy tính của bạn)">
+
 <!ENTITY incoming.label                  "Đến:">
 <!ENTITY outgoing.label                  "Đi:">
+<!ENTITY username.label                  "Tên đăng nhập:">
+<!ENTITY hostname.label                  "Tên máy chủ">
+<!ENTITY port.label                      "Cổng">
+<!ENTITY ssl.label                       "SSL">
+<!ENTITY auth.label                      "Xác minh">
+<!ENTITY imap.label                      "IMAP">
+<!ENTITY pop3.label                       "POP3">
+<!ENTITY smtp.label                      "SMTP">
+<!ENTITY autodetect.label                "Tự động nhận diện">
+<!-- LOCALIZATION NOTE(noEncryption.label): Neither SSL/TLS nor STARTTLS.
+     Transmission of emails in cleartext over the Internet. -->
 <!ENTITY noEncryption.label              "Không">
 <!ENTITY starttls.label                  "STARTTLS">
 <!ENTITY sslTls.label                    "SSL/TLS">
 
-<!ENTITY imap.label                      "IMAP">
-<!ENTITY pop.label                       "POP">
-<!ENTITY smtp.label                      "SMTP">
-<!ENTITY imap.description                "IMAP - Truy cập thư mục và thư tin từ nhiều máy tính">
-<!ENTITY pop.description                 "POP - Tải xuống tất cả thư tin vào máy tính này, theo thư mục có sẵn trong máy">
-<!ENTITY recommended-appendix.label      "(khuyên dùng)">
-
-<!ENTITY manualSetup.label               "Thiết lập Thủ công…">
-<!ENTITY manualSetup.accesskey           "i">
+<!ENTITY advancedSetup.label             "Cấu hình nâng cao">
+<!ENTITY advancedSetup.accesskey         "n">
 <!ENTITY cancel.label                    "Hủy bỏ">
 <!ENTITY cancel.accesskey                "H">
 <!ENTITY continue.label                  "Tiếp tục">
 <!ENTITY continue.accesskey              "p">
-<!ENTITY startOver.label                 "Bắt đầu lại">
-<!ENTITY startOver.accesskey             "B">
 <!ENTITY stop.label                      "Dừng">
 <!ENTITY stop.accesskey                  "D">
-<!-- LOCALIZATION NOTE (retest.label): This is the text that is
-     displayed on the button which will re-guess the account configuration,
-     taking into account the settings the user has changed. -->
-<!ENTITY retest.label                    "Kiểm tra lại Cấu hình">
-<!ENTITY retest.accesskey                "K">
-<!ENTITY edit.label                      "Chỉnh sửa">
-<!ENTITY edit.accesskey                  "C">
+<!-- LOCALIZATION NOTE (half-manual-test.label): This is the text that is
+     displayed on the button in manual edit mode which will re-guess
+     the account configuration, taking into account the settings that
+     the user has manually changed. -->
+<!ENTITY half-manual-test.label          "Kiểm tra lại">
+<!ENTITY half-manual-test.accesskey      "K">
+<!ENTITY manual-edit.label               "Cấu hình thủ công">
+<!ENTITY manual-edit.accesskey           "t">
 
-<!ENTITY rememberPassword.label          "Ghi nhớ mật khẩu">
-<!ENTITY rememberPassword.accesskey      "G">
 
 <!ENTITY warning.label                   "Cảnh báo!">
 <!ENTITY incomingSettings.label          "Thiết lập nhận thư:">

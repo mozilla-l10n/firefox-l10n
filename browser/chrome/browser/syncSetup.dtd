@@ -43,7 +43,7 @@
 <!ENTITY setup.newSyncKeyPage.description.label "Để đảm bảo sự riêng tư của bạn, tất cả dữ liệu của bạn sẽ được mã hóa trước khi tải lên. Khóa Đồng Bộ, phần cần thiết để giải mã dữ liệu của bạn, sẽ không bị tải lên.">
 <!ENTITY syncKeyEntry.label        "Khóa Đồng Bộ của Bạn">
 <!ENTITY syncKeyEntry.accesskey    "K">
-<!ENTITY syncKeyGenerate.label     "Khởi tạo">
+<!ENTITY syncGenerateNewKey.label  "Tạo một khóa mới">
 <!ENTITY syncKeyBackup.description "Yêu cầu có Khóa Đồng Bộ của bạn để truy cập &syncBrand.fullName.label; trên các máy khác. Vui lòng tạo một bản sao lưu. Chúng tôi không thể giúp bạn khôi phục Khóa Đồng Bộ của mình.">
 
 <!ENTITY button.syncKeyBackup.print.label     "In…">

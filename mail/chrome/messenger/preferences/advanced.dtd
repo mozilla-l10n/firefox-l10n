@@ -45,8 +45,8 @@
 <!ENTITY reuseExpRadio0.accesskey      "s">
 <!ENTITY reuseExpRadio1.label          "Một cửa sổ đang mở sẵn">
 <!ENTITY reuseExpRadio1.accesskey      "a">
-<!ENTITY closeMsgWindowOnDelete.label  "Đóng cửa sổ khi xóa thư">
-<!ENTITY closeMsgWindowOnDelete.accesskey "g">
+<!ENTITY closeMsgOnMoveOrDelete.label  "Đóng cửa sổ/thẻ khi xóa hoặc di chuyển thư">
+<!ENTITY closeMsgOnMoveOrDelete.accesskey "g">
 
 <!-- Update -->
 <!ENTITY autoCheck.label                "Tự động kiểm tra phiên bản mới của:">
@@ -77,7 +77,7 @@
 <!ENTITY Diskspace "Dung lượng Đĩa">
 <!ENTITY offlineCompact.label "Làm gọn thư mục khi nó lưu hơn">
 <!ENTITY offlineCompact.accesskey "L">
-<!ENTITY kb.label "KB">
+<!ENTITY mb.label "MB">
 
 <!-- LOCALIZATION NOTE:
   The entities useCacheBefore.label and useCacheAfter.label appear on a single

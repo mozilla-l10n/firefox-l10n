@@ -1,5 +1,5 @@
 <!ENTITY window.title "Quy luật Bộ lọc">
-
+<!ENTITY filterEditorDialog.dimensions "width: 100ch;">
 <!ENTITY filterName.label "Tên bộ lọc:">
 <!ENTITY filterName.accesskey "b">
 
