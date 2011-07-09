@@ -99,12 +99,15 @@
 <!ENTITY otherActionsPrint.label "打印…">
 <!ENTITY otherActionsPrint.accesskey "p">
 
+<!-- Attachment context menu items -->
 <!ENTITY openAttachmentCmd.label    "打开">
 <!ENTITY openAttachmentCmd.accesskey    "O">
 <!ENTITY saveAsAttachmentCmd.label    "另存为…">
 <!ENTITY saveAsAttachmentCmd.accesskey    "A">
 <!ENTITY detachAttachmentCmd.label    "移除…">
+<!ENTITY detachAttachmentCmd.accesskey    "T">
 <!ENTITY deleteAttachmentCmd.label    "删除">
+<!ENTITY deleteAttachmentCmd.accesskey    "L">
 <!ENTITY openAllAttachmentsCmd.label    "全部打开…">
 <!ENTITY openAllAttachmentsCmd.accesskey    "O">
 <!ENTITY saveAllAttachmentsCmd.label    "全部保存…">
@@ -113,6 +116,28 @@
 <!ENTITY detachAllAttachmentsCmd.accesskey    "D">
 <!ENTITY deleteAllAttachmentsCmd.label    "全部删除…">
 <!ENTITY deleteAllAttachmentsCmd.accesskey    "E">
+
+<!-- Attachment toolbar items -->
+<!ENTITY saveAttachmentButton.label       "保存">
+<!ENTITY saveAttachmentButton.tooltip     "保存附加的文件">
+<!ENTITY saveAllAttachmentsButton.label   "保存全部">
+<!ENTITY saveAllAttachmentsButton.tooltip "保存全部附加的文件">
+<!ENTITY openAttachmentMenuItem.label     "打开">
+<!ENTITY openAttachmentMenuItem.accesskey    "o">
+<!ENTITY saveAsAttachmentMenuItem.label    "另存为…">
+<!ENTITY saveAsAttachmentMenuItem.accesskey    "s">
+<!ENTITY detachAttachmentMenuItem.label    "卸下…">
+<!ENTITY detachAttachmentMenuItem.accesskey    "d">
+<!ENTITY deleteAttachmentMenuItem.label    "删除">
+<!ENTITY deleteAttachmentMenuItem.accesskey    "e">
+<!ENTITY openAllAttachmentsMenuItem.label    "打开全部…">
+<!ENTITY openAllAttachmentsMenuItem.accesskey    "o">
+<!ENTITY saveAllAttachmentsMenuItem.label    "保存全部…">
+<!ENTITY saveAllAttachmentsMenuItem.accesskey    "s">
+<!ENTITY detachAllAttachmentsMenuItem.label    "卸下全部…">
+<!ENTITY detachAllAttachmentsMenuItem.accesskey    "d">
+<!ENTITY deleteAllAttachmentsMenuItem.label    "删除全部…">
+<!ENTITY deleteAllAttachmentsMenuItem.accesskey    "e">
 
 <!ENTITY copyLinkCmd.label        "复制链接地址">
 <!ENTITY copyLinkCmd.accesskey    "C">

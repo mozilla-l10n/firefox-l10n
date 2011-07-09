@@ -77,7 +77,7 @@
 <!ENTITY Diskspace "磁盘空间">
 <!ENTITY offlineCompact.label "压缩文件夹，当它的内容大于">
 <!ENTITY offlineCompact.accesskey "a">
-<!ENTITY kb.label "千字节">
+<!ENTITY mb.label "MB">
 
 <!-- LOCALIZATION NOTE:
   The entities useCacheBefore.label and useCacheAfter.label appear on a single
