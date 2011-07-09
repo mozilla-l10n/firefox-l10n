@@ -61,8 +61,8 @@
 <!ENTITY  dontrememberActions.clearHistory.label "清空当前所有历史记录">
 <!ENTITY  dontrememberActions.post.label         "。">
 
-<!ENTITY  privateBrowsingPermanent.label "永久隐私浏览模式">
-<!ENTITY  privateBrowsingPermanent.accesskey "P">
+<!ENTITY  privateBrowsingPermanent2.label "总是使用隐私浏览模式">
+<!ENTITY  privateBrowsingPermanent2.accesskey "p">
 
 <!ENTITY  rememberHistory.label      "记住我的浏览历史">
 <!ENTITY  rememberHistory.accesskey  "b">

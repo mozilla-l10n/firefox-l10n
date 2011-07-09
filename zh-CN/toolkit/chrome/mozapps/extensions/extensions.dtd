@@ -196,3 +196,5 @@
 <!ENTITY eula.width                           "560px">
 <!ENTITY eula.height                          "400px">
 <!ENTITY eula.accept                          "接受并安装…">
+
+<!ENTITY settings.path.button.label           "浏览…">

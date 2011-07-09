@@ -15,7 +15,7 @@
 <!ENTITY robots.errorLongDesc1 "机器人不能伤害人类，或者放任人类被伤害。">
 <!-- Movie: Blade Runner. Batty: "I've seen things you people wouldn't believe..." -->
 <!ENTITY robots.errorLongDesc2 "机器人看见人们无法相信的事情。">
-<!-- Book: Hitchiker's Guide To The Galaxy. What the Sirius Cybernetics Corporation calls robots. -->
+<!-- Book: Hitchhiker's Guide To The Galaxy. What the Sirius Cybernetics Corporation calls robots. -->
 <!ENTITY robots.errorLongDesc3 "机器人是有趣的塑料好友。">
 <!-- TV: Futurama. Bender's first line is "Bite my shiny metal ass." -->
 <!ENTITY robots.errorLongDesc4 "机器人有咬不得的闪亮的金属屁股。">
@@ -23,5 +23,5 @@
 <!ENTITY robots.errorTrailerDescText "他们有一个计划。">
 <!-- TV: Battlestar Galactica (2004 series). Common expletive referring to Cylons. -->
 <!ENTITY robots.imgtitle "Frakkin' Toasters">
-<!-- Book: Hitchiker's Guide To The Galaxy. Arthur presses a button and it warns him. -->
+<!-- Book: Hitchhiker's Guide To The Galaxy. Arthur presses a button and it warns him. -->
 <!ENTITY robots.dontpress "请不要重复点击此按钮。">
