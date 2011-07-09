@@ -8,3 +8,4 @@
 <!ENTITY aboutHome.openAllTabs                  "打开所有的标签">
 <!ENTITY aboutHome.noTabs                       "上次未打开任何标签页">
 <!ENTITY aboutHome.noAddons                     "无被推荐的附加组件">
+<!ENTITY aboutHome.getLocale                    "更改语言">
