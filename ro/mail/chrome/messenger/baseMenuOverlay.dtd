@@ -5,11 +5,11 @@
                        for the help button in the menubar but Gnome does not.   -->
 <!ENTITY helpMenuWin.label "Ajutor">
 <!ENTITY helpMenuWin.accesskey "A">
-<!ENTITY helpTroubleshootingInfo.label     "Troubleshooting Information">
-<!ENTITY helpTroubleshootingInfo.accesskey "T">
-<!ENTITY helpSafeMode.label     "Restart with Add-ons Disabled…">
+<!ENTITY helpTroubleshootingInfo.label     "Informații de depanare">
+<!ENTITY helpTroubleshootingInfo.accesskey "I">
+<!ENTITY helpSafeMode.label     "Repornește cu suplimentele dezactivate…">
 <!ENTITY helpSafeMode.accesskey "R">
-<!ENTITY releaseCmd2.label "Release Notes">
+<!ENTITY releaseCmd2.label "Note asupra ediției">
 <!ENTITY releaseCmd2.accesskey "N">
 <!ENTITY whatsNewCmd.label "Ce e nou">
 <!ENTITY whatsNewCmd.accesskey "C">

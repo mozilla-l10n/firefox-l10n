@@ -8,7 +8,7 @@
 <!ENTITY aboutSupport.accountsIncomingServer "Incoming server">
 <!ENTITY aboutSupport.accountsOutgoingServers "Outgoing servers">
 <!ENTITY aboutSupport.accountsServerName "Nume">
-<!ENTITY aboutSupport.accountsConnSecurity "Connection security">
+<!ENTITY aboutSupport.accountsConnSecurity "Securitatea conexiunii">
 <!ENTITY aboutSupport.accountsAuthMethod "Authentication method">
 <!ENTITY aboutSupport.accountsDefault "Default?">
 

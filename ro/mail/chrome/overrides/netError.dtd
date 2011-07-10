@@ -98,7 +98,7 @@ temporară și puteți încerca din nou mai târziu.</li>
 <p>Aceste tipuri de falsuri web sunt folosite în păcăleli numite și „phishing”, în care pagini și adrese de email sunt folosite pentru a imita unele în care aveți încredere.</p>">
 
 <!ENTITY cspFrameAncestorBlocked.title "Blocat de politica de securitate asupra conținutului">
-<!ENTITY cspFrameAncestorBlocked.longDesc "<p>&brandShortName; prevented this page from loading in this way because the page has a content security policy that disallows it.</p>">
+<!ENTITY cspFrameAncestorBlocked.longDesc "<p>&brandShortName; a împiedicat această pagină să se încarce în acest mod deoarece pagina are o politică de securitate asupra conținutului ce nu permite asta.</p>">
 
 <!ENTITY corruptedContentError.title "Corrupted Content Error">
 <!ENTITY corruptedContentError.longDesc "<p>The content you are trying to view cannot be shown because an error in the data transmission was detected.</p><ul><li>Please contact the owners to inform them of this problem.</li></ul>">
@@ -112,9 +112,7 @@ contents of the <button> tags. It uses strings already defined above. The
 button is included here (instead of netError.xhtml) because it exposes
 functionality specific to thunderbird. -->
 
-<!ENTITY securityOverride.warningContent "
-<p>You should not add an exception if you are using an internet connection that you do not trust completely or if you are not used to seeing a warning for this server.</p>
-
+<!ENTITY securityOverride.warningContent "<p>Nu ar trebui să adăugați o excepție, dacă utilizați o conexiune la internet în care nu aveți încredere în întregime sau dacă nu sunteți obișnuit să vedeți un avertisment pentru acest server. </p>
 <button id='getMeOutOfHereButton'>&securityOverride.getMeOutOfHereButton;</button>
 <button id='exceptionDialogButton'>&securityOverride.exceptionButtonLabel;</button>
 ">

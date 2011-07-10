@@ -5,20 +5,20 @@
 <!-- File Menu -->
 <!ENTITY newFolderCmd.label "Dosar…">
 <!ENTITY newFolderCmd.accesskey "D">
-<!ENTITY closeTabCmd2.label "Close Tab">
-<!ENTITY closeTabCmd2.accesskey "C">
-<!ENTITY closeOtherTabsCmd2.label "Close Other Tabs">
-<!ENTITY closeOtherTabsCmd2.accesskey "o">
-<!ENTITY recentlyClosedTabsCmd.label "Recently Closed Tabs">
-<!ENTITY recentlyClosedTabsCmd.accesskey "R">
+<!ENTITY closeTabCmd2.label "Închide fila">
+<!ENTITY closeTabCmd2.accesskey "c">
+<!ENTITY closeOtherTabsCmd2.label "Închide celelalte file">
+<!ENTITY closeOtherTabsCmd2.accesskey "Î">
+<!ENTITY recentlyClosedTabsCmd.label "File închise recent">
+<!ENTITY recentlyClosedTabsCmd.accesskey "r">
 
 <!ENTITY undoCloseTabCmd.commandkey "T">
 <!-- LOCALIZATION NOTE (moveToNewWindow.label):
      Menu option to cause the current tab to be migrated to a new Thunderbird
      window.
      -->
-<!ENTITY moveToNewWindow.label "Move to New Window">
-<!ENTITY moveToNewWindow.accesskey "W">
+<!ENTITY moveToNewWindow.label "Mută într-o fereastră nouă">
+<!ENTITY moveToNewWindow.accesskey "M">
 <!ENTITY newVirtualFolderCmd.label "Dosar virtual din rezultatele unei căutări">
 <!ENTITY newVirtualFolderCmd.accesskey "s">
 <!ENTITY newOtherAccountsCmd.label "Alte conturi…">
@@ -318,10 +318,10 @@ you can use these alternative items. Otherwise, their values should be empty.  -
 <!ENTITY goBackCmd.commandKey "[">
 <!ENTITY prevStarredMsgCmd.label "Mesaj cu steluță">
 <!ENTITY prevStarredMsgCmd.accesskey "s">
-<!ENTITY folderMenu.label "Folder">
+<!ENTITY folderMenu.label "Dosar">
 <!ENTITY folderMenu.accesskey "o">
-<!ENTITY thisFolder.label "This Folder">
-<!ENTITY thisFolder.accesskey "F">
+<!ENTITY thisFolder.label "Acest dosar">
+<!ENTITY thisFolder.accesskey "A">
 <!ENTITY goRecentlyClosedTabs.label "File închise recent">
 <!ENTITY startPageCmd.label "Pagina de start a contului">
 <!ENTITY startPageCmd.accesskey "s">
@@ -406,8 +406,8 @@ you can use these alternative items. Otherwise, their values should be empty.  -
 <!ENTITY toggleReadCmd.key "m">
 <!ENTITY markAsReadCmd.label "Ca citit">
 <!ENTITY markAsReadCmd.accesskey "C">
-<!ENTITY markAsUnreadCmd.label "As Unread">
-<!ENTITY markAsUnreadCmd.accesskey "U">
+<!ENTITY markAsUnreadCmd.label "Ca necitit">
+<!ENTITY markAsUnreadCmd.accesskey "C">
 <!ENTITY markThreadAsReadCmd.label "Conversația ca citită">
 <!ENTITY markThreadAsReadCmd.accesskey "t">
 <!ENTITY markThreadAsReadCmd.key "R">
@@ -753,14 +753,14 @@ you can use these alternative items. Otherwise, their values should be empty.  -
 <!-- Phishing Bar -->
 <!ENTITY phishingBarMessage2.label "Mesajul acesta poate fi o înșelătorie.">
 <!ENTITY removePhishingBarButton1.label "Ignoră avertismentul">
-<!ENTITY disablePhishingWarning1.label "Disable scam detection for all messages">
+<!ENTITY disablePhishingWarning1.label "Dezactivează detecția de mesaje falsificate global">
 <!ENTITY reportPhishingError1.label "Acest mesaj nu pare a fi o înșelătorie.">
 
 <!-- MDN Bar -->
-<!ENTITY mdnBarIgnoreButton2.label "Ignore">
+<!ENTITY mdnBarIgnoreButton2.label "Ignoră">
 <!ENTITY mdnBarIgnoreButton2.accesskey "I">
-<!ENTITY mdnBarSendButton2.label "Send Return Receipt">
-<!ENTITY mdnBarSendButton2.accesskey "S">
+<!ENTITY mdnBarSendButton2.label "Trimite confirmare de primire">
+<!ENTITY mdnBarSendButton2.accesskey "T">
 
 <!-- Quick Search Bar -->
 <!-- LOCALIZATION NOTE (quickSearchCmd.key):
@@ -816,7 +816,7 @@ you can use these alternative items. Otherwise, their values should be empty.  -
 <!ENTITY reportPhishingURL.accesskey "o">
 
 <!-- Spell checker context menu items -->
-<!ENTITY spellAddDictionaries.label "Add Dictionaries…">
+<!ENTITY spellAddDictionaries.label "Adaugă dicționare">
 <!ENTITY spellAddDictionaries.accesskey "A">
 
 <!-- Content Pane Context Menu -->

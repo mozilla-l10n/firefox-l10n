@@ -48,12 +48,12 @@
 <!ENTITY previewToolbarCmd.tooltip "Încarcă această pagină în navigator">
 
 <!-- File menu items -->
-<!ENTITY exportToTextCmd.label "Export to Text…">
-<!ENTITY exportToTextCmd.accesskey "T">
-<!ENTITY previewCmd.label "Browse Page">
+<!ENTITY exportToTextCmd.label "Exportă ca text…">
+<!ENTITY exportToTextCmd.accesskey "t">
+<!ENTITY previewCmd.label "Afișează în browser">
 <!ENTITY previewCmd.accesskey "w">
-<!ENTITY sendPageCmd.label "Send Page…">
-<!ENTITY sendPageCmd.accesskey "d">
+<!ENTITY sendPageCmd.label "Trimite pagina…">
+<!ENTITY sendPageCmd.accesskey "T">
 
 <!-- View menu items -->
 <!ENTITY compositionToolbarCmd.label "Bară de redactare">
@@ -66,22 +66,22 @@
 <!-- Format menu items -->
 <!ENTITY formatMenu.label "Formatare">
 <!ENTITY formatMenu.accesskey "F">
-<!ENTITY grid.label "Positioning grid">
-<!ENTITY grid.accesskey "t">
-<!ENTITY pageProperties.label "Page Title and Properties…">
+<!ENTITY grid.label "Grilă de poziționare">
+<!ENTITY grid.accesskey "G">
+<!ENTITY pageProperties.label "Titlul și proprietățile paginii…">
 <!ENTITY pageProperties.accesskey "g">
 
 <!-- Tools menu items -->
-<!ENTITY validateCmd.label "Validate HTML">
+<!ENTITY validateCmd.label "Validează HTML">
 <!ENTITY validateCmd.accesskey "V">
 
 <!-- Display Mode toolbar and View menu items -->
 <!ENTITY NormalModeTab.label "Normal">
-<!ENTITY NormalMode.label "Normal Edit Mode">
-<!ENTITY NormalMode.accesskey "N">
+<!ENTITY NormalMode.label "Mod de editare normal">
+<!ENTITY NormalMode.accesskey "n">
 <!ENTITY NormalMode.tooltip "Afișează bordurile tabelelor și ancorele cu nume">
 <!ENTITY AllTagsModeTab.label "Tag-uri HTML">
-<!ENTITY AllTagsMode.label "HTML Tags">
+<!ENTITY AllTagsMode.label "Taguri HTML">
 <!ENTITY AllTagsMode.accesskey "a">
 <!ENTITY AllTagsMode.tooltip "Afișează iconuri pentru toate tag-urile HTML">
 <!-- LOCALIZATION NOTE: (HTMLSourceModeTab.dir, HTMLSourceModeTab.label)
@@ -91,10 +91,10 @@
      not need to include HTML in the label 'HTMLSourceModeTab.label' -->
 <!ENTITY HTMLSourceModeTab.dir "ltr">
 <!ENTITY HTMLSourceModeTab.label "Sursă">
-<!ENTITY HTMLSourceMode.label "HTML Source">
+<!ENTITY HTMLSourceMode.label "Sursă HTML">
 <!ENTITY HTMLSourceMode.accesskey "H">
 <!ENTITY HTMLSourceMode.tooltip "Editează sursa HTML">
 <!ENTITY PreviewModeTab.label "Previzualizează">
-<!ENTITY PreviewMode.label "Preview">
+<!ENTITY PreviewMode.label "Previzualizare">
 <!ENTITY PreviewMode.accesskey "P">
 <!ENTITY PreviewMode.tooltip "Afișează ca în navigator">
