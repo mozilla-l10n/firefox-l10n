@@ -1,7 +1,7 @@
 <!-- extracted from am-archiveoptions.xul -->
 
 <!ENTITY dialogTitle.label "Archive Options">
-<!ENTITY archiveGranularityPrefix.label "When archiving messages, place them in:">
+<!ENTITY archiveGranularityPrefix.label "Când se arhivează mesaje, plasează-le în:">
 <!ENTITY archiveFlat.label "A single folder">
 <!ENTITY archiveFlat.accesskey "s">
 <!ENTITY archiveYearly.label "Yearly archived folders">
