@@ -61,13 +61,13 @@
 <!ENTITY rights.safebrowsing-term4 "已停用 Safe Browsing">
 
 <!-- location aware browsing points for branded builds -->
-<!ENTITY rights.locationawarebrowsing-a "地理資訊瀏覽: ">
+<!ENTITY rights.locationawarebrowsing-a "位置感知瀏覽: ">
 <!ENTITY rights.locationawarebrowsing-b "是永遠可選的。沒有任何資訊會在您同意前被送出。如果您想要完全停用這些功能，請依照以下步驟:">
 <!ENTITY rights.locationawarebrowsing-term1a "請在網址列輸入 ">
 <!ENTITY rights.locationawarebrowsing-term1b "about:config">
 <!ENTITY rights.locationawarebrowsing-term2 "輸入 geo.enabled">
 <!ENTITY rights.locationawarebrowsing-term3 "雙擊 geo.enabled 這個項目">
-<!ENTITY rights.locationawarebrowsing-term4 "地理資訊瀏覽就會被停用">
+<!ENTITY rights.locationawarebrowsing-term4 "位置感知瀏覽就會被停用">
 
 <!-- intro paragraph for unbranded builds -->
 <!ENTITY rights.webservices-unbranded "此產品包含的網站資訊服務，和停用這些服務的方法（若有的話），應該要寫在這裡。">
