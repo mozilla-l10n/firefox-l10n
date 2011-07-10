@@ -74,7 +74,7 @@
 <!ENTITY featureConfigurator.autoSync.off.explanation "Aceasta va însemna încărcarea mai lentă a mesajului și rezultate incomplete la căutare.">
 
 <!-- LOCALIZATION NOTE (featureConfigurator.autoSync.some): The label for the radio button that will let you customize the synchronize for each account. -->
-<!ENTITY featureConfigurator.autoSync.some "Per Account Synchronization">
+<!ENTITY featureConfigurator.autoSync.some "Sincronizare per cont">
 <!ENTITY featureConfigurator.autoSync.some.explanation "Customize your synchronization needs per account and folder.">
 
 <!-- LOCALIZATION NOTE (featureConfigurator.diskSpace.currentSize): The label for the current amount of disk space your accounts are consuming. -->
