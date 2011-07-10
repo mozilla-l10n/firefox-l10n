@@ -199,3 +199,5 @@ einige der besten und populärsten Add-ons zum Ausprobieren anbieten.">
 <!ENTITY eula.width                           "560px">
 <!ENTITY eula.height                          "400px">
 <!ENTITY eula.accept                          "Akzeptieren und installieren…">
+
+<!ENTITY settings.path.button.label           "Durchsuchen…">
