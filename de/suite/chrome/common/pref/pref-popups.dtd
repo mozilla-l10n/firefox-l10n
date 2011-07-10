@@ -20,8 +20,6 @@
 <!ENTITY selectSound.accesskey          "D">
 <!ENTITY playSoundButton.label          "Wiedergabe">
 <!ENTITY playSoundButton.accesskey      "W">
-<!ENTITY selectSound.title              "Pop-up-Blockier-Klang auswählen">
-<!ENTITY selectSound.filter             "Klänge">
 
 <!ENTITY displayIcon.label              "Ein Symbol in der Browser-Statusleiste anzeigen">
 <!ENTITY displayIcon.accesskey          "E">
