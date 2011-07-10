@@ -23,14 +23,13 @@
 <!ENTITY warning.updatesecurity.enable.label       "Aktivieren">
 <!ENTITY warning.updatesecurity.enable.tooltip     "Überprüfung auf Sicherheitsupdates für Add-ons aktivieren">
 
+<!-- global informations -->
+<!ENTITY info.plugincheck.label                 "Überprüfen Sie, ob Ihre Plugins aktuell sind">
+<!ENTITY info.plugincheck.tooltip               "Überprüfen Sie, ob Ihre Plugins aktuell sind">
+
 <!-- categories / views -->
 <!ENTITY view.search.label                    "Suchen">
 <!ENTITY view.discover.label                  "Add-ons suchen">
-<!ENTITY view.locales.label                   "Sprachen">
-<!ENTITY view.searchengines.label             "Suchmaschinen">
-<!ENTITY view.features.label                  "Erweiterungen">
-<!ENTITY view.appearance2.label               "Erscheinungsbild">
-<!ENTITY view.plugins.label                   "Plugins">
 <!ENTITY view.recentUpdates.label             "Zuletzt durchgeführte Updates">
 <!ENTITY view.availableUpdates.label          "Verfügbare Updates">
 
@@ -39,8 +38,17 @@
 <!ENTITY updates.checkForUpdates.accesskey    "A">
 <!ENTITY updates.viewUpdates.label            "Kürzlich durchgeführte Updates anzeigen">
 <!ENTITY updates.viewUpdates.accesskey        "K">
+<!-- LOCALIZATION NOTE (updates.updateAddonsAutomatically.label): This menu item
+     is a checkbox that toggles the default global behavior for add-on update
+     checking. -->
 <!ENTITY updates.updateAddonsAutomatically.label     "Add-ons automatisch aktualisieren">
 <!ENTITY updates.updateAddonsAutomatically.accesskey "a">
+<!-- LOCALIZATION NOTE (updates.resetUpdatesToAutomatic.label, updates.resetUpdatesToManual.label):
+     Specific addons can have custom update checking behaviors ("Manually",
+     "Automatically", "Use default global behavior"). These menu items reset the
+     update checking behavior for all add-ons to the default global behavior
+     (which itself is either "Automatically" or "Manually", controlled by the
+     updates.updateAddonsAutomatically.label menu item). -->
 <!ENTITY updates.resetUpdatesToAutomatic.label       "Alle Add-ons umstellen auf automatische Aktualisierung">
 <!ENTITY updates.resetUpdatesToAutomatic.accesskey   "u">
 <!ENTITY updates.resetUpdatesToManual.label          "Alle Add-ons umstellen auf manuelle Aktualisierung">
@@ -191,4 +199,3 @@ einige der besten und populärsten Add-ons zum Ausprobieren anbieten.">
 <!ENTITY eula.width                           "560px">
 <!ENTITY eula.height                          "400px">
 <!ENTITY eula.accept                          "Akzeptieren und installieren…">
-
