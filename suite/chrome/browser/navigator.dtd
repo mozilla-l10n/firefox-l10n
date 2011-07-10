@@ -65,7 +65,9 @@
 <!ENTITY applyTheme.label "Aplicar tema">
 <!ENTITY applyTheme.accesskey "A">
 <!ENTITY getNewThemesCmd.label "Descargar nuevos temas">
-<!ENTITY getNewThemesCmd.accesskey "O">
+<!ENTITY getNewThemesCmd.accesskey "t">
+<!ENTITY getPersonasCmd.label "Descargar Personas">
+<!ENTITY getPersonasCmd.accesskey "P">
 <!ENTITY findOnCmd.label "Buscar en esta página…">
 <!ENTITY findOnCmd.accesskey "b">
 <!ENTITY findOnCmd.commandkey "f">
