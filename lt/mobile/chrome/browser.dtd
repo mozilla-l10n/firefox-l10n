@@ -144,5 +144,6 @@
 <!ENTITY pageactions.findInPage           "Ieškoti tinklalapyje">
 <!ENTITY pageactions.search.addNew        "Pridėti ieškyklę">
 <!ENTITY pageactions.charEncoding         "Koduotė">
+<!ENTITY pageactions.webapps.install      "Įdiegti kaip programėlę">
 
 <!ENTITY appMenu.siteOptions              "Svetainės nuostatos">
