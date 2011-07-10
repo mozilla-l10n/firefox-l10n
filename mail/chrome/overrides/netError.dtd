@@ -52,9 +52,9 @@
 <!ENTITY netInterrupt.longDesc "&sharedLongDesc;">
 
 <!ENTITY netOffline.title "Brez povezave">
-<!ENTITY netOffline.longDesc "
+<!ENTITY netOffline.longDesc2 "
 <ul>
-  <li>Prestavite &brandShortName; v način s povezavo in poskusite potem znova.</li>
+  <li>Pritisnite na &quot;Poizkusi znova&quot;, da preklopite v mrežni način in ponovno naložite stran.</li>
 </ul>
 ">
 
@@ -115,7 +115,8 @@
 <!ENTITY unknownSocketType.title "Nepričakovan odgovor strežnika">
 <!ENTITY unknownSocketType.longDesc "
 <ul>
-  <li>Preverite, ali je na vašem sistemu Skrbnik za Osebno Zaščito nameščen.</li>
+  <li>Preverite, ali je na vašem sistemu Skrbnik za Osebno Zaščito 
+    nameščen.</li>
   <li>To je lahko posledica ne-standardne konfiguracije na strežniku.</li>
 </ul>
 ">
@@ -133,13 +134,15 @@
 <ul>
   <li>To je lahko težava s konfiguracijo strežnika, ali pa se
 nekdo poskuša predstaviti kot strežnik.</li>
-  <li>Če ste se s tem strežnikom uspešno povezovali v preteklosti, gre lahko da začasno napako, tako da lahko ponovno poskusite kasneje.</li>
+  <li>Če ste se s tem strežnikom uspešno povezovali v preteklosti, gre lahko 
+    da začasno napako, tako da lahko ponovno poskusite kasneje.</li>
 </ul>
 ">
 
 <!ENTITY sharedLongDesc "
 <ul>
-  <li>Spletna stran je trenutno nedosegljiva ali pa zasedena. Poizkusite malo kasneje.</li>
+  <li>Spletna stran je trenutno nedosegljiva ali pa zasedena. Poizkusite malo 
+    kasneje.</li>
   <li>Če ni mogoče naložiti ničesar, preverite povezavo svojega računalnika
     z mrežo.</li>
   <li>Če se vaš računalnik nahaja za požarno steno ali pa če uporablja proxy, se prepričajte,
@@ -161,6 +164,9 @@ nekdo poskuša predstaviti kot strežnik.</li>
 
 <!ENTITY cspFrameAncestorBlocked.title "Blokirano zaradi pravil za varnost vsebin">
 <!ENTITY cspFrameAncestorBlocked.longDesc "<p>&brandShortName; je preprečil, da bi se to stran na ta način naložilo, kajti zanjo veljajo pravila o varnosti vsebin, ki tega ne dovoljujejo.</p>">
+
+<!ENTITY corruptedContentError.title "Napaka - okvarjena vsebina">
+<!ENTITY corruptedContentError.longDesc "<p>Vsebine, ki jo želite videti, zaradi napake pri prenosu podatkov ni mogoče prikazati.</p><ul><li>Obrnite se prosim na lastnike strani in jih obvestite o problemu.</li></ul>">
 
 <!ENTITY securityOverride.linkText "Lahko pa dodate izjemo…">
 <!ENTITY securityOverride.getMeOutOfHereButton "Spravi me proč od tod!">
