@@ -25,8 +25,7 @@
 <!ENTITY netInterrupt.longDesc "<p>Die Verbindung wurde erfolgreich aufgebaut, aber während der Datenübertragung unterbrochen.  Bitte versuchen Sie es nochmals.</p><ul><li>Können Sie auch andere Websites nicht aufrufen? Überprüfen Sie die Netzwerkverbindung des Computers.</li><li>Treten auch weiterhin Probleme auf? Kontaktieren Sie Ihren Netzwerkadministrator oder Internetprovider zur Unterstützung.</li></ul>">
 
 <!ENTITY netOffline.title "Offline-Modus">
-<!ENTITY netOffline.longDesc "<p>Die Anwendung arbeitet im Offline-Modus und kann daher keine Verbindung aufbauen.</p><ul><li>Ist der Computer mit einem aktiven Netzwerk verbunden?</li><li>Schalten Sie die Anwendung bitte in den Online-Modus und versuchen Sie es dann nochmals.</li></ul>">
-<!ENTITY netOffline.overrideLongDesc "<p>Der Browser arbeitet im Offline-Modus und kann keine Verbindung mit dem gewünschten Eintrag herstellen.</p><ul><li>Ist der Computer mit einem aktiven Netzwerk verbunden?</li><li>Setzen Sie den Browser in den Online-Modus und versuchen Sie es nochmals.</li></ul>">
+<!ENTITY netOffline.longDesc2 "<p>Der Browser arbeitet im Offline-Modus und kann daher keine Verbindung mit dem angefragten Element aufbauen.</p><ul><li>Ist der Computer mit einem aktiven Netzwerk verbunden?</li><li>Wählen Sie &quot;Nochmals versuchen&quot;, um in den Online-Modus zu wechseln und die Seite erneut zu laden.</li></ul>">
 
 <!ENTITY contentEncodingError.title "Fehlerhafte Kodierung der Inhalte">
 <!ENTITY contentEncodingError.longDesc "<p>Die aufgerufene Seite kann nicht angezeigt werden, da sie eine ungültige oder nicht unterstützte Form der Kompression verwendet.</p><ul><li>Bitte kontaktieren Sie die Website-Betreiber, um sie über dieses Problem zu informieren.</li></ul>">
@@ -84,11 +83,15 @@
 <!ENTITY cspFrameAncestorBlocked.title "Blockiert durch Inhaltsicherheitsrichtlinie (Content Security Policy)">
 <!ENTITY cspFrameAncestorBlocked.longDesc "<p>Laden dieser Seite in dieser Weise wurde vom Browser verhindert, weil sie eine Sicherheitsrichtlinie hat, die das nicht erlaubt.</p>">
 
+<!ENTITY corruptedContentError.title "Fehler: Beschädigte Inhalte">
+<!ENTITY corruptedContentError.longDesc "<p>Die Seite, die Sie anzusehen versuchen, kann nicht angezeigt werden, da ein Fehler in der Datenübertragung festgestellt wurde.</p><ul><li>Bitte kontaktieren Sie die Website-Betreiber, um sie über dieses Problem zu verständigen.</li></ul>">
+
+<!ENTITY remoteXUL.title "Externes XUL">
+<!ENTITY remoteXUL.longDesc "<p><ul><li>Bitte kontaktieren Sie die Inhaber der Website, um Sie über dieses Problem zu informieren.</li></ul></p>">
+
 <!-- Include app-specific error messages - do not change this in localization!
      Some applications might override netErrorApp.dtd with their specific version,
-     this inclusion needs to be intact for that approach to work correctly. -->
+     this inclusion needs to be intact for that approach to work correctly.
+     Please, try to keep this at the end of the file. -->
 <!ENTITY % netErrorAppDTD SYSTEM "chrome://global/locale/netErrorApp.dtd">
 %netErrorAppDTD;
-
-<!ENTITY remoteXUL.title "Remote-XUL">
-<!ENTITY remoteXUL.longDesc "<p><ul><li>Bitte informieren Sie den Website-Inhaber über dieses Problem.</li></ul></p>">
