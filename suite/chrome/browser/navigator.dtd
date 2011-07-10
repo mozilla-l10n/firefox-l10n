@@ -112,8 +112,10 @@
 
 <!ENTITY applyTheme.label	"Grafinis apvalkalas"> 
 <!ENTITY applyTheme.accesskey	"a"> 
-<!ENTITY getNewThemesCmd.label "Atsiųsti apvalkalą…">
+<!ENTITY getNewThemesCmd.label "Atsiųsti apvalkalų">
 <!ENTITY getNewThemesCmd.accesskey "A">
+<!ENTITY getPersonasCmd.label "Atsiųsti kaukių">
+<!ENTITY getPersonasCmd.accesskey "k">
 <!ENTITY findOnCmd.label "Ieškoti šiame tinklalapyje…">
 <!ENTITY findOnCmd.accesskey "I">
 <!ENTITY findOnCmd.commandkey "f">
