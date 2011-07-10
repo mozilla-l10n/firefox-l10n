@@ -209,3 +209,5 @@
 <!ENTITY eula.width                           "560px">
 <!ENTITY eula.height                          "400px">
 <!ENTITY eula.accept                          "Sutikti su licencija ir įdiegti priedą…">
+
+<!ENTITY settings.path.button.label           "Parinkti…">

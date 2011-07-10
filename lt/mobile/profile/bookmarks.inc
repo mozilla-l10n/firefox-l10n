@@ -11,10 +11,6 @@
 # title for the folder that will contains the default bookmarks
 #define bookmarks_title Mobile
 
-# LOCALIZATION NOTE (bookmarks_welcome):
-# link title for about:firstrun
-#define bookmarks_welcome Firefox: pradžia
-
 # LOCALIZATION NOTE (bookmarks_about):
 # link title for about:fennec
 #define bookmarks_aboutBrowser Firefox: apie Jūsų naršyklę

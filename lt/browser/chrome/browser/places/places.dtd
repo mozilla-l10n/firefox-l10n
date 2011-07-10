@@ -60,10 +60,12 @@
 <!ENTITY cmd.findCurrent.label          "Rasti šiame rinkinyje…">
 <!ENTITY cmd.findCurrent.accesskey      "a">
 
-<!ENTITY cmd.exportHTML.label           "Eksportuoti HTML…">
-<!ENTITY cmd.exportHTML.accesskey       "E">
-<!ENTITY cmd.importHTML.label           "Importuoti HTML…">
-<!ENTITY cmd.importHTML.accesskey       "I">
+<!ENTITY importBookmarksFromHTML.label     "Importuoti adresyną iš HTML failo…">
+<!ENTITY importBookmarksFromHTML.accesskey "I">
+<!ENTITY exportBookmarksToHTML.label       "Eksportuoti adresyną į HTML failą…">
+<!ENTITY exportBookmarksToHTML.accesskey   "E">
+<!ENTITY importOtherBrowser.label          "Importuoti duomenis iš kitos naršyklės…">
+<!ENTITY importOtherBrowser.accesskey      "m">
 
 <!ENTITY cmd.backup.label               "Kurti atsarginę kopiją…">
 <!ENTITY cmd.backup.accesskey           "K">

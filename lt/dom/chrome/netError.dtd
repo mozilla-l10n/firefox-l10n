@@ -57,8 +57,7 @@
 <!ENTITY netInterrupt.longDesc "<p>Naršyklei pavyko užmegzti ryšį, tačiau ryšys buvo nutrauktas persiunčiant duomenis. Prašom bandyti vėliau.</p><ul><li>Jei nepavyksta įkelti ir kitų tinklalapių, tai patikrinkite Jūsų kompiuterio ryšį su tinklu.</li><li>Jei nesklandumo pašalinti nepavyksta, tai prašom kreiptis į tinklo administratorių ar interneto paslaugų teikėją.</li></ul>">
 
 <!ENTITY netOffline.title "Dirbama atsijungus nuo tinklo">
-<!ENTITY netOffline.longDesc "<p>Naršyklė yra atjungta nuo tinklo ir negali užmegzti ryšio su užklaustu objektu.</p><ul><li>Prašom patikrinti, ar kompiuteris yra prijungtas prie veikiančio tinklo.</li><li>Prašom prisijungti (pašalinti meniu elemento „Atsijungti nuo tinklo“ žymėjimą) ir bandyti vėl.</li></ul>">
-<!ENTITY netOffline.overrideLongDesc "<p>Naršyklė yra atjungta nuo tinklo ir negali užmegzti ryšio su užklaustu objektu.</p><ul><li>Prašom patikrinti, ar kompiuteris yra prijungtas prie veikiančio tinklo.</li><li>Prašom prisijungti (pašalinti meniu elemento „Atsijungti nuo tinklo“ žymėjimą) ir bandyti vėl.</li></ul>">
+<!ENTITY netOffline.longDesc2 "<p>Naršyklė yra atjungta nuo tinklo ir negali užmegzti ryšio su užklaustu objektu.</p><ul><li>Patikrinkite, ar kompiuteris prijungtas prie veikiančio tinklo.</li><li>Spustelėkite „Bandyti dar kartą“, kad būtų prisijungta prie tinklo ir pabandyta įkelti tinklalapį iš naujo.</li></ul>">
 
 <!ENTITY contentEncodingError.title "Kodavimo klaida">
 <!ENTITY contentEncodingError.longDesc "<p>Tinklalapis, kurį bandote atverti, negali būti parodytas, nes naudoja nežinomą arba nepalaikomą suspaudimo būdą.</p><ul><li>Prašome pranešti apie tai svetainės savininkams.</li></ul>">
@@ -115,6 +114,9 @@
 
 <!ENTITY cspFrameAncestorBlocked.title "Užblokuota dėl saugumo politikos">
 <!ENTITY cspFrameAncestorBlocked.longDesc "<p>Tinklalapis neįkeltas, nes jo saugumo politika neleidžia jo turinio įterpti nurodytuoju būdu.</p>">
+
+<!ENTITY corruptedContentError.title "Klaida: duomenys pažeisti">
+<!ENTITY corruptedContentError.longDesc "<p>Tinklalapio, kurį bandote atverti, parodyti negalima, nes, perduodant duomenis, įvyko klaida.</p><ul><li>Siūlome susisiekti su svetainės savininkais ar valdytojais ir pranešti jiems apie šią problemą.</li></ul>">
 
 <!ENTITY remoteXUL.title "XUL iš tinklo">
 <!ENTITY remoteXUL.longDesc "<p><ul><li>Siūlome susisiekti su svetainės savininkais ar valdytojais ir pranešti jiems apie šią problemą.</li></ul></p>">
