@@ -15,30 +15,21 @@
 <!ENTITY cmd.forward.tooltip                  "Pojdi eno stran naprej">
 
 <!-- global warnings -->
-<!ENTITY warning.safemode.label                    "All add-ons have been disabled by safe mode.">
-<!ENTITY warning.checkcompatibility.label          "Add-on compatibility checking is disabled. You may have incompatible add-ons.">
-<!ENTITY warning.checkcompatibility.enable.label   "Enable">
-<!ENTITY warning.checkcompatibility.enable.tooltip "Enable add-on compatibility checking">
-<!ENTITY warning.updatesecurity.label              "Add-on update security checking is disabled. You may be compromised by updates.">
-<!ENTITY warning.updatesecurity.enable.label       "Enable">
-<!ENTITY warning.updatesecurity.enable.tooltip     "Enable add-on update security checking">
+<!ENTITY warning.safemode.label                    "Varni način je vse dodatke onesposobil.">
+<!ENTITY warning.checkcompatibility.label          "Preverjanje združljivosti dodatkov je onesposobljeno. Lahko da imate nezdružljive dodatke.">
+<!ENTITY warning.checkcompatibility.enable.label   "Aktiviraj">
+<!ENTITY warning.checkcompatibility.enable.tooltip "Aktiviraj preverjanje združljivosti dodatkov ">
+<!ENTITY warning.updatesecurity.label              "Preverjanje varnosti je onesposobljeno. Posodobitve vas bodo lahko da kompromitirale.">
+<!ENTITY warning.updatesecurity.enable.label       "Aktiviraj">
+<!ENTITY warning.updatesecurity.enable.tooltip     "Aktiviraj preverjanje varnosti posodobitev">
 
-<!ENTITY warning.safemode.label                    "Zaradi dela v varnem načinu so vsi dodatki onemogočeni.">
-<!ENTITY warning.checkcompatibility.label          "Preverjanje združljivosti dodatkov je onemogočeno. Mogoče imate nameščene dodatke, ki niso združljivi.">
-<!ENTITY warning.checkcompatibility.enable.label   "Omogoči">
-<!ENTITY warning.checkcompatibility.enable.tooltip "Omogoči preverjanje združljivosti dodatkov">
-<!ENTITY warning.updatesecurity.label              "Preverjanje, ali je posodobitev dodatkov varna, je onemogočeno. Posodobitve lahko ogrozijo vaš sistem.">
-<!ENTITY warning.updatesecurity.enable.label       "Omogoči">
-<!ENTITY warning.updatesecurity.enable.tooltip     "Omogoči preverjanje, ali je posodobitev dodatka varna">
+<!-- global informations -->
+<!ENTITY info.plugincheck.label                 "Preveri, da so vsi vstavki sodobni">
+<!ENTITY info.plugincheck.tooltip               "Preveri, da so vsi vstavki sodobni">
 
 <!-- categories / views -->
 <!ENTITY view.search.label                    "Iskanje">
 <!ENTITY view.discover.label                  "Prenesi dodatke">
-<!ENTITY view.locales.label                   "Jeziki">
-<!ENTITY view.searchengines.label             "Iskalniki">
-<!ENTITY view.features.label                  "Razširitve">
-<!ENTITY view.appearance2.label               "Videz">
-<!ENTITY view.plugins.label                   "Vstavki">
 <!ENTITY view.recentUpdates.label             "Nedavne posodobitve">
 <!ENTITY view.availableUpdates.label          "Nove posodobitve">
 
@@ -47,8 +38,17 @@
 <!ENTITY updates.checkForUpdates.accesskey    "P">
 <!ENTITY updates.viewUpdates.label            "Pokaži nedavne posodobitve">
 <!ENTITY updates.viewUpdates.accesskey        "n">
+<!-- LOCALIZATION NOTE (updates.updateAddonsAutomatically.label): This menu item
+     is a checkbox that toggles the default global behavior for add-on update
+     checking. -->
 <!ENTITY updates.updateAddonsAutomatically.label     "Samodejno posodobi dodatke">
 <!ENTITY updates.updateAddonsAutomatically.accesskey "d">
+<!-- LOCALIZATION NOTE (updates.resetUpdatesToAutomatic.label, updates.resetUpdatesToManual.label):
+     Specific addons can have custom update checking behaviors ("Manually",
+     "Automatically", "Use default global behavior"). These menu items reset the
+     update checking behavior for all add-ons to the default global behavior
+     (which itself is either "Automatically" or "Manually", controlled by the
+     updates.updateAddonsAutomatically.label menu item). -->
 <!ENTITY updates.resetUpdatesToAutomatic.label       "Ponastavi vse dodatke na samodejno posodabljanje">
 <!ENTITY updates.resetUpdatesToAutomatic.accesskey   "S">
 <!ENTITY updates.resetUpdatesToManual.label          "Ponastavi vse dodatke na ročno posodabljanje">
@@ -104,7 +104,8 @@
      Displayed in the center of the Get Add-ons view, see bug 601143 for mockups. -->
 <!ENTITY discover.title                       "Kaj so dodatki?">
 <!ENTITY discover.description2                "Dodatki so programi, ki omogočajo prilagajanje brskalnika &brandShortName; vašim potrebam
-  z dodajanjem zmogljivosti in spreminjanjem izgleda. Poskusite stranske vrstice, prikaz vremena ali tematsko obarvan &brandShortName;.">
+  z dodajanjem zmogljivosti in spreminjanjem izgleda. Poskusite stranske vrstice, prikaz vremena ali 
+  tematsko obarvan &brandShortName;.">
 <!ENTITY discover.footer                      "Ko ste povezani na internet, vam ta odsek ponuja
   nekatere izbrane in najbolj priljubljene dodatke.">
 
@@ -167,8 +168,14 @@
 <!ENTITY addon.details.label                  "Več">
 <!ENTITY addon.details.tooltip                "Prikaži več podrobnosti o tem dodatku">
 <!ENTITY addon.unknownDate                    "Neznano">
+<!-- LOCALIZATION NOTE (addon.disabled.postfix): This is used in a normal list
+     to signify that an add-on is disabled, in the form
+     "<Addon name> <1.0> (disabled)" -->
 <!ENTITY addon.disabled.postfix               "(onemogočeno)">
-<!-- LOCALIZATION NOTE (addon.update.postfix): This is used to signify that an item is an update, in the form "Addon v1.0 Update" -->
+<!-- LOCALIZATION NOTE (addon.update.postfix): This is used in the available
+     updates list to signify that an item is an update, in the form
+     "<Addon name> <1.1> Update". It is fine to use constructs like brackets if
+     necessary -->
 <!ENTITY addon.update.postfix                 "Posodobitev">
 <!ENTITY addon.undoAction.label               "Razveljavi">
 <!ENTITY addon.undoAction.tooltip             "Razveljavi to dejanje">
