@@ -38,7 +38,6 @@
 <!ENTITY editBookmarkOverlay.feedLocation.accesskey          "K">
 <!ENTITY editBookmarkOverlay.siteLocation.label              "Svetainės adresas:">
 <!ENTITY editBookmarkOverlay.siteLocation.accesskey          "S">
-<!ENTITY editBookmarkOverlay.liveTitlesSeparator.label       "Kaičiosios antraštės">
 <!ENTITY editBookmarkOverlay.folder.label                    "Aplankas:">
 <!ENTITY editBookmarkOverlay.foldersExpanderDown.tooltip     "Rodyti visus adresyno aplankus">
 <!ENTITY editBookmarkOverlay.expanderUp.tooltip              "Nerodyti">

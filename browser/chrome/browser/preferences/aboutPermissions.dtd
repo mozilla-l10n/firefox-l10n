@@ -22,9 +22,9 @@
 <!ENTITY password.manage                 "Tvarkyti slaptažodžius…">
 
 <!ENTITY cookie.label                    "Slapukų įrašymas">
-<!ENTITY cookie.clear                    "Pašalinti slapukus">
+<!ENTITY cookie.remove                   "Pašalinti slapukus">
 <!ENTITY cookie.manage                   "Tvarkyti slapukus…">
-<!ENTITY cookie.clearAll                 "Pašalinti visus slapukus">
+<!ENTITY cookie.removeAll                "Pašalinti visus slapukus">
 
 <!ENTITY geo.label                       "Jūsų buvimo vietos nustatymas">
 

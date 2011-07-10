@@ -92,8 +92,8 @@
 <!ENTITY  dontrememberActions.clearHistory.label "visiškai išvalyti žurnalą">
 <!ENTITY  dontrememberActions.post.label         ".">
 
-<!ENTITY  privateBrowsingPermanent.label         "Visuomet naršyti privačiojo naršymo veiksenoje">
-<!ENTITY  privateBrowsingPermanent.accesskey     "V">
+<!ENTITY  privateBrowsingPermanent2.label        "Visuomet naršyti privačiojo naršymo veiksenoje">
+<!ENTITY  privateBrowsingPermanent2.accesskey    "V">
 
 <!ENTITY  rememberHistory.label                  "Žurnale įsiminti lankytus tinklalapius">
 <!ENTITY  rememberHistory.accesskey              "m">

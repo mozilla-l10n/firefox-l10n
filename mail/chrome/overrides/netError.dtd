@@ -52,9 +52,9 @@
 <!ENTITY netInterrupt.longDesc "&sharedLongDesc;">
 
 <!ENTITY netOffline.title "Dirbama atsijungus nuo tinklo">
-<!ENTITY netOffline.longDesc "
+<!ENTITY netOffline.longDesc2 "
 <ul>
-  <li>Prašom prisijungti ir bandyti vėl.</li>
+  <li>Spustelėkite „Bandyti dar kartą“, kad būtų prisijungta prie tinklo ir pabandyta įkelti tinklalapį iš naujo.</li>
 </ul>
 ">
 
@@ -158,6 +158,9 @@ bandykite prisijungti iš naujo.</li>
 
 <!ENTITY cspFrameAncestorBlocked.title "Užblokuota dėl saugumo politikos">
 <!ENTITY cspFrameAncestorBlocked.longDesc "<p>Tinklalapis neįkeltas, nes jo saugumo politika neleidžia jo turinio įterpti nurodytuoju būdu.</p>">
+
+<!ENTITY corruptedContentError.title "Klaida: duomenys pažeisti">
+<!ENTITY corruptedContentError.longDesc "<p>Turinio, kurį bandote atverti, parodyti negalima, nes, perduodant duomenis, įvyko klaida.</p><ul><li>Siūlome susisiekti su jo savininkais ar valdytojais ir pranešti jiems apie šią problemą.</li></ul>">
 
 <!ENTITY securityOverride.linkText "Galite sukurti išimtį…">
 <!ENTITY securityOverride.getMeOutOfHereButton "Išeiti">
