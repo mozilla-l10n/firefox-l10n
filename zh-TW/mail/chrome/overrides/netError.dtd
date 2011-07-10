@@ -43,9 +43,11 @@
 <!ENTITY netInterrupt.longDesc "&sharedLongDesc;">
 
 <!ENTITY netOffline.title "離線模式">
-<!ENTITY netOffline.longDesc "<ul>
-  <li>請將 &brandShortName; 切換到連線模式再試一次。</li>
-</ul>">
+<!ENTITY netOffline.longDesc2 "
+<ul>
+  <li>請按下「重試」以切換到連線模式並重新載入頁面。</li>
+</ul>
+">
 
 <!ENTITY contentEncodingError.title "內容編碼錯誤">
 <!ENTITY contentEncodingError.longDesc "
@@ -138,6 +140,9 @@
 
 <!ENTITY cspFrameAncestorBlocked.title "被內容安全政策封鎖">
 <!ENTITY cspFrameAncestorBlocked.longDesc "<p>&brandShortName; 阻止了這個頁面載入，因為這個頁面的內容安全政策不允許其以這種方式被載入。</p>">
+
+<!ENTITY corruptedContentError.title "內容毀損錯誤">
+<!ENTITY corruptedContentError.longDesc "<p>因為在資料傳輸過程當中偵測到錯誤，無法顯示您正要檢視的內容。</p><ul><li>請通知管理者以讓他們知道這個問題。</li></ul>">
 
 <!ENTITY securityOverride.linkText "或者您也可以新增例外網站…">
 <!ENTITY securityOverride.getMeOutOfHereButton "帶我離開這裡！">
