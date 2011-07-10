@@ -52,8 +52,6 @@
 <!ENTITY selectSound.accesskey          "P">
 <!ENTITY playSoundButton.label          "Perklausyti">
 <!ENTITY playSoundButton.accesskey      "k">
-<!ENTITY selectSound.title              "Signalo garso failo parinkimas">
-<!ENTITY selectSound.filter             "Garso įrašai">
 
 <!ENTITY displayIcon.label              "Rodyti įspėjamajį ženkliuką naršyklės būsenos juostoje">
 <!ENTITY displayIcon.accesskey          "ž">
