@@ -26,6 +26,8 @@
 <!ENTITY setup.newAccountDetailsPage.title.label "Mion-fhiosrachadh a' chunntais">
 <!ENTITY setup.confirmPassword.label  "Dearbhaich am facal-faire">
 <!ENTITY setup.confirmPassword.accesskey  "m">
+<!ENTITY setup.choosePassword.label      "Tagh facal-faire">
+<!ENTITY setup.choosePassword.accesskey  "T">
 <!ENTITY setup.emailAddress.label     "Seòladh puist-dhealain">
 <!ENTITY setup.emailAddress.accesskey "e">
 <!-- LOCALIZATION NOTE: tosAgree1, tosLink, tosAgree2, ppLink, tosAgree3 are
