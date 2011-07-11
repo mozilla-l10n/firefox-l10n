@@ -1,19 +1,18 @@
-<!ENTITY  splash_screen_label "loading">
-<!ENTITY  splash_screen_installing "installing libraries\u2026">
-<!ENTITY  splash_firstrun "Setting up &brandShortName;\u2026">
-<!ENTITY  incompatable_cpu_error "This device does not meet the minimum system requirements for &brandShortName;.">
-<!ENTITY  no_space_to_start_error "There is not enough space available for &brandShortName; to start.">
-<!ENTITY  error_loading_file "An error occurred when trying to load files required to run &brandShortName;">
 
-<!ENTITY  crash_reporter_title "&brandShortName; Crash Reporter">
-<!ENTITY  crash_message "&brandShortName; has crashed. Your tabs should be listed on the &brandShortName; Start page when you restart.">
-<!ENTITY  crash_help_message "Please help us fix this problem!">
+<!ENTITY  splash_screen_loading "Se încarcă">
+<!ENTITY  splash_screen_installing_libs "Se instalează biblioteci\u2026">
+<!ENTITY  splash_firstrun "Se setează &brandShortName;\u2026">
+
+<!ENTITY  no_space_to_start_error "Nu este spațiu disponibil suficient pentru ca &brandShortName; să poată porni.">
+<!ENTITY  error_loading_file "A intervenit o eroare în timpul încărcării fișierelor necesare pentru a rula &brandShortName;">
+
+<!ENTITY  crash_reporter_title "Raportor de defecte în &brandShortName;">
+<!ENTITY  crash_message "&brandShortName; s-a terminat neașteptat. Filele dumneavoastră ar trebui să fie afișate în pagina de start a &brandShortName; după ce reporniți programul.">
+<!ENTITY  crash_help_message "Vă rugăm să ne ajutați să reparăm problema!">
 <!ENTITY  crash_send_report_message "Trimite raportul de eroare la Mozilla">
-<!ENTITY  crash_include_url "Include page address">
+<!ENTITY  crash_include_url "Include adresa paginii">
 <!ENTITY  crash_close_label "Închide">
 <!ENTITY  crash_restart_label "Repornește &brandShortName;">
-<!ENTITY  sending_crash_report "Sending crash report\u2026">
+<!ENTITY  sending_crash_report "Se trimite raportul de defect\u2026">
 <!ENTITY  exit_label "Ieșire">
-<!ENTITY  incompatable_device "&brandShortName; does not support this device and you may experience
-problems.">
 <!ENTITY  continue_label "Continuă">

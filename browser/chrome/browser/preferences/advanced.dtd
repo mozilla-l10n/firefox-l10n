@@ -29,6 +29,8 @@
 <!ENTITY checkNow.accesskey              "a">
 <!ENTITY submitCrashes.label             "Raportează defecțiunile">
 <!ENTITY submitCrashes.accesskey         "R">
+<!ENTITY submitTelemetry.label           "Trimite datele despre performanță">
+<!ENTITY submitTelemetry.accesskey       "p">
 
 <!ENTITY networkTab.label                "Rețea">
 

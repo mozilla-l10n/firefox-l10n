@@ -22,9 +22,9 @@
 <!ENTITY password.manage                 "Gestionare parole…">
 
 <!ENTITY cookie.label                    "Seteze cookie-uri">
-<!ENTITY cookie.clear                    "Curăță cookie-urile">
+<!ENTITY cookie.remove                   "Șterge cookie-uri">
 <!ENTITY cookie.manage                   "Gestionare cookie-uri…">
-<!ENTITY cookie.clearAll                 "Curăță toate cookie-urile">
+<!ENTITY cookie.removeAll                "Șterge toate cookie-urile">
 
 <!ENTITY geo.label                       "Împărtășește locația">
 
