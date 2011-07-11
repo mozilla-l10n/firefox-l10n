@@ -45,15 +45,11 @@
 <!ENTITY netInterrupt.longDesc "&sharedLongDesc;">
 
 <!ENTITY netOffline.title "Неповезан рад">
-<!-- LOCALIZATION NOTE (netOffline.overrideLongDesc) - This string should
-     indicate that "Work Offline" is a menu item without being too specific,
-     since it could be in either the normal menu (Mac/Linux) or the Firefox button
-     menu (Windows).
--->
-<!ENTITY netOffline.overrideLongDesc "<ul>
- <li>Искључите &quot;Рад ван мреже&quot; у менију Датотека, па покушајте поново.</li>
+<!ENTITY netOffline.longDesc2 "
+<ul>
+  <li>Изаберите „Пробај опет“ да почнете повезан начин рада и поново учитате страну.</li>
 </ul>
-">
+   ">
 
 <!ENTITY contentEncodingError.title "Грешка у кодирању садржаја">
 <!ENTITY contentEncodingError.longDesc "<ul> 
@@ -124,6 +120,10 @@
 
 <!ENTITY cspFrameAncestorBlocked.title "Блокирала политика безбедности садржаја">
 <!ENTITY cspFrameAncestorBlocked.longDesc "<p>&brandShortName; је спречио учитавање ове странице на овај начин, јер садржи полису о безбедности садржаја која то онемогућава.</p>">
+
+<!ENTITY corruptedContentError.title "Грешка услед оштећеног садржаја">
+<!ENTITY corruptedContentError.longDesc "<p>Страна коју желите да погледате не може бити приказана услед грешке у преносу података.</p><ul><li>Молимо да се обратите власницима веб стране и обавестите их о проблему.</li></ul>">
+
 
 <!ENTITY securityOverride.linkText "Или можете додати изузетак…">
 <!ENTITY securityOverride.getMeOutOfHereButton "Alisin ako dito!">

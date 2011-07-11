@@ -1,0 +1,18 @@
+
+<!ENTITY  splash_screen_loading "Учитавање">
+<!ENTITY  splash_screen_installing_libs "Инсталација библиотека\u2026">
+<!ENTITY  splash_firstrun "Успостављање програма &brandShortName;\u2026">
+
+<!ENTITY  no_space_to_start_error "Нема довољно простора да би се програм &brandShortName; покренуо.">
+<!ENTITY  error_loading_file "Дошло је до грешке при учитавању датотека неопходних за рад програма &brandShortName;">
+
+<!ENTITY  crash_reporter_title "Извештач о рушењу програма &brandShortName;">
+<!ENTITY  crash_message "Програм &brandShortName; се срушио. Језичци који су били отворени биће приказани на почетној страни програма &brandShortName; при поновном покретању.">
+<!ENTITY  crash_help_message "Молимо да нам помогнете да решимо овај проблем!">
+<!ENTITY  crash_send_report_message "Пошаљи извештај о рушењу Мозили">
+<!ENTITY  crash_include_url "Приложи адресу стране">
+<!ENTITY  crash_close_label "Затвори">
+<!ENTITY  crash_restart_label "Поново покрени програм &brandShortName;">
+<!ENTITY  sending_crash_report "Извештај о рушењу се шаље\u2026">
+<!ENTITY  exit_label "Крај">
+<!ENTITY  continue_label "Даље">

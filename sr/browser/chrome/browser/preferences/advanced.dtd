@@ -8,8 +8,8 @@
 <!ENTITY useCursorNavigation.accesskey   "У">
 <!ENTITY searchStartTyping.label         "Тражи текст када почнем да куцам">
 <!ENTITY searchStartTyping.accesskey     "Т">
-<!ENTITY blockAutoRefresh.label          "Thoir rabhadh dhomh nuair a dh'fheuchas làraichean-lìn ri m' ath-sheòladh no ris an duilleag ath-luchdadh.">
-<!ENTITY blockAutoRefresh.accesskey      "T">
+<!ENTITY blockAutoRefresh.label          "Упозори ме када веб сајтови пробају да преусмере или поново учитају страну">
+<!ENTITY blockAutoRefresh.accesskey      "У">
 
 <!ENTITY browsing.label                  "Преглед">
 
@@ -29,6 +29,8 @@
 <!ENTITY checkNow.accesskey              "П">
 <!ENTITY submitCrashes.label             "Пошаљи извештај о рушењу">
 <!ENTITY submitCrashes.accesskey         "П">
+<!ENTITY submitTelemetry.label           "Слање података о перформансама">
+<!ENTITY submitTelemetry.accesskey       "С">
 
 <!ENTITY networkTab.label                "Мрежа">
 
