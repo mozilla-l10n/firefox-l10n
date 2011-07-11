@@ -35,7 +35,6 @@
 <!ENTITY importOtherBrowser.label          "Ion-phortaich dàta o bhraibhsair eile…">
 <!ENTITY importOtherBrowser.accesskey      "d">
 
-
 <!ENTITY cmd.backup.label               "Dèan lethbhreac glèidhidh…">
 <!ENTITY cmd.backup.accesskey           "b">
 <!ENTITY cmd.restore2.label             "Aisig">
