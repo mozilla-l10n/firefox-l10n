@@ -200,3 +200,5 @@
 <!ENTITY eula.width                           "560px">
 <!ENTITY eula.height                          "400px">
 <!ENTITY eula.accept                          "Gabh ris is stàlaich e…">
+
+<!ENTITY settings.path.button.label           "Brabhsaich...">
