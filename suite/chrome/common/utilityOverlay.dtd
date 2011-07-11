@@ -5,7 +5,7 @@
 <!-- LOCALIZATION NOTE : FILE This file contains the global menu items -->
 
 <!ENTITY fileMenu.label                   "Súbor">
-<!ENTITY fileMenu.accesskey               "F">
+<!ENTITY fileMenu.accesskey               "S">
 <!ENTITY newMenu.label                    "Nový objekt">
 <!ENTITY newMenu.accesskey                "b">
 <!ENTITY newBlankPageCmd.label            "Stránka v Composeri">

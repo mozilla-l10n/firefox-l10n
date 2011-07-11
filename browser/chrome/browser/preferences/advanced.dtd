@@ -29,6 +29,8 @@
 <!ENTITY checkNow.accesskey              "S">
 <!ENTITY submitCrashes.label             "Odosielať správy o zlyhaní">
 <!ENTITY submitCrashes.accesskey         "d">
+<!ENTITY submitTelemetry.label           "Odosielať údaje o výkonnosti">
+<!ENTITY submitTelemetry.accesskey       "n">
 
 <!ENTITY networkTab.label                "Sieť">
 

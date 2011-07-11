@@ -1,8 +1,8 @@
 <!-- extracted from am-copies.xul -->
 
 <!ENTITY copyAndFolderTitle.label "Kópie a priečinky">
-<!ENTITY sendingPrefix.label "Pri odosielaní správ automaticky:">
-<!ENTITY fccMailFolder.label "Uložiť kópiu do:">
+<!ENTITY sendingPrefix.label "Pri odosielaní správ:">
+<!ENTITY fccMailFolder.label "Automaticky uložiť kópiu do:">
 <!ENTITY fccMailFolder.accesskey "l">
 <!ENTITY fccReplyFollowsParent.label "Umiestniť odpovede v priečinku, v ktorom sa nachádza pôvodná správa">
 <!ENTITY fccReplyFollowsParent.accesskey "U">

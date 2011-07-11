@@ -20,8 +20,6 @@
 <!ENTITY selectSound.accesskey          "r">
 <!ENTITY playSoundButton.label          "Prehrať">
 <!ENTITY playSoundButton.accesskey      "h">
-<!ENTITY selectSound.title              "Výber zvuku pre blokovanie okien">
-<!ENTITY selectSound.filter             "Zvuky">
 
 <!ENTITY displayIcon.label              "Zobraziť ikonu v stavovom riadku prehliadača">
 <!ENTITY displayIcon.accesskey          "Z">

@@ -483,25 +483,25 @@ Obchody atď.), ktoré vás zaujímajú. Ak sa chcete na takú stránku dostať,
 <ol>
   <li>Otvorte ponuku Upraviť a zvoľte položku <q>Hľadať na tejto stránke</q>. Ak práve zobrazená
     stránka obsahuje rámce, pred začatím vyhľadávania kliknite do požadovaného rámca.
-    Zobrazí sa okno <q>Hľadanie na tejto stránke</q>.</li>
+    Zobrazí sa <q>Panel vyhľadávania</q>.</li>
   <li>Zadajte text, ktorý chcete vyhľadať.</li>
-  <li>Vyberte si z nasledujúcich možností: 
-    <ul>
-      <li><strong>Rozlišovať malé a veľké písmená</strong>: zvoľte, či chcete vyhľadať slovo alebo
-        frázu presne tak, ako ste ju zadali (teda vrátane rozlišovania malých a veľkých písmen).</li>
-      <li><strong>V celom dokumente</strong>: zvoľte, ak chcete prehliadaču umožniť
-        hľadať od aktuálnej pozície kurzora nadol a potom od začiatku stránky po aktuálnu pozíciu kurzora.
-        Poznámka: aktuálna pozícia kurzora je miesto, kam ste naposledy klikli myšou. Predvolené vyhľadávanie je
-        smerom nadol od tohto bodu.</li>
-      <li><strong>Smer hľadania</strong>: zvoľte Nahor, ak chcete vyhľadávať
-        smerom nahor od aktuálnej pozície kurzora. Predvolený smer je
-        Nadol.</li>
-    </ul>
-  </li>
-  <li>Vyhľadávanie spustíte kliknutím na tlačidlo Hľadať.</li>
+  <li>Kliknite na tlačidlo Ďalšie a prehliadač spustí vyhľadávanie smerom nadol od miesta, kde sa
+    aktuálne nachádza kurzor.</li>
+  <li>Kliknite na tlačidlo Predchádzajúce a prehliadač spustí vyhľadávanie smerom nahor od miesta, kde sa
+    aktuálne nachádza kurzor.</li>
+  <li>Pomocou voľby <strong>Zvýrazniť</strong> zvýrazníte všetky slová a frázy na stránke, ktoré sa zhodujú
+    so zadanou frázou vyhľadávania.</li>
+  <li>Pomocou voľby <strong>Rozlišovať malé/veľké písmená</strong> obmedzíte vyhľadávanie na slová alebo frázy,
+    ktoré sa presne zhodujú so zadanou frázou vyhľadávania (berú sa do úvahy aj malé a veľké písmená).</li>
 </ol>
 
-<p>Ak chcete nájsť ďalší výskyt zadaného slova alebo frázy:</p>
+<p>Ak vyhľadávanie dorazí na koniec (alebo začiatok) stránky, bude pokračovať
+  z druhého konca a zvýrazní túto skutočnosť v paneli vyhľadávania.</p>
+
+<p>Ak chcete vyhľadať zadané slovo alebo frázu ešte raz, stláčajte kláves Enter, ak sa kurzor stále nachádza
+  v paneli vyhľadávania alebo použité klávesové skratky pre príkaz Hľadať znova (viď
+  sekciu <q>Vyhľadávanie počas písania</q> nižšie), ak sa kurzor nachádza na stránke.
+  V oboch prípadoch sa bude vyhľadávať nadol, nezáleží na tom, či bolo naposledy použité vyhľadávanie nahor.</p>
 
 <ul>
   <li>Otvorte ponuku Upraviť a zvoľte položku Hľadať ďalej.</li>
@@ -511,7 +511,7 @@ Obchody atď.), ktoré vás zaujímajú. Ak sa chcete na takú stránku dostať,
 
 <h2 id="using_find_as_you_type">Použitie funkcie Hľadať počas písania</h2>
 
-<p>Okrem vyhľadávania textu cez dialógové okno Vyhľadávanie môžete hľadať aj priamo a to napísaním textu do webovej stránky.</p>
+<p>Okrem vyhľadávania textu cez panel Vyhľadávanie môžete hľadať aj priamo a to napísaním textu do webovej stránky.</p>
 
 <ol>
   <li>Pokiaľ chcete nájsť odkaz, zadajte niekoľko znakov do aktívneho okna prehliadača a prejdete na najbližší odkaz obsahujúci
@@ -522,7 +522,10 @@ Obchody atď.), ktoré vás zaujímajú. Ak sa chcete na takú stránku dostať,
       zobrazí sa najskôr toto slovo.</p></li>
   <li>Ak chcete hľadať v celom texte (normálny text a odkazy), začnite zadaním znaku <kbd>/</kbd>. Napríklad, zadajte
     <q><kbd>/ahoj</kbd></q>, ak chcete nájsť slovo <q>ahoj</q> v texte stránky.</li>
-  <li>Stavový riadok (v dolnej časti okna prehliadača) zobrazuje hľadaný text v prípade, že je hľadanie úspešné.</li>
+  <li>Stavový riadok (v dolnej časti okna prehliadača) zobrazuje hľadaný text v prípade, že hľadanie bolo úspešné. Pamätajte,
+    že toto nastáva len prípade, že voľba <q>Zobraziť vyhľadávací panel v režime Hľadať počas písania</q>
+    na paneli nastavení <a href="cs_nav_prefs_advanced.xhtml#fayt">Hľadanie počas písania</a> nie je označená. Ak je táto voľba
+    označená, namiesto stavového riadku je použitý <q>panel Vyhľadávanie</q>.</li>
   <li>Klávesou Backspace môžete vymazať naposledy zadaný znak.</li>
   <li>Vyhľadávanie sa ukončí zmenou kritérií, posunutím textu, klávesou Escape alebo po niekoľkých sekundách nečinnosti.</li>
   <li>Stlačením klávesovej skratky <kbd class="mac">Cmd</kbd><kbd class="noMac">Ctrl</kbd>+<kbd>G</kbd> alebo <kbd>F3</kbd>

@@ -6,7 +6,6 @@
 <!ENTITY editBookmarkOverlay.feedLocation.accesskey          "d">
 <!ENTITY editBookmarkOverlay.siteLocation.label              "Adresa stránky:">
 <!ENTITY editBookmarkOverlay.siteLocation.accesskey          "s">
-<!ENTITY editBookmarkOverlay.liveTitlesSeparator.label       "Aktuálne titulky">
 <!ENTITY editBookmarkOverlay.folder.label                    "Priečinok:">
 <!ENTITY editBookmarkOverlay.foldersExpanderDown.tooltip     "Zobraziť všetky priečinky záložiek">
 <!ENTITY editBookmarkOverlay.expanderUp.tooltip              "Skryť">
