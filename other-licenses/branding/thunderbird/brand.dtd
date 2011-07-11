@@ -1,5 +1,5 @@
 <!ENTITY  brandShortName        "Thunderbird">
 <!ENTITY  brandFullName         "Mozilla Thunderbird">
 <!ENTITY  vendorShortName       "Mozilla">
-<!ENTITY  logoTrademark         "Mozilla Thunderbird and the Thunderbird logos
-                                 are trademarks of the Mozilla Foundation.">
+<!ENTITY  trademarkInfo.part1   "Logotipi Mozilla Thunderbird in Thunderbird
+                                 so blagovne znamke Mozilla Foundation.">
