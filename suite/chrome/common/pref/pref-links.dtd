@@ -4,12 +4,15 @@
 <!ENTITY newWindowRestriction.label "Quan els scripts vulguin obrir una finestra nova:">
 <!ENTITY external.label "Enllaços d'altres aplicacions">
 <!ENTITY externalDescription.label "Obre els enllaços d'altres aplicacions en">
+
 <!ENTITY openCurrent.label "La pestanya/finestra actual">
 <!ENTITY newWindowGroupCurrent.accesskey "c">
 <!ENTITY externalGroupCurrent.accesskey "u">
+
 <!ENTITY openTab.label "Una nova pestanya en la finestra actual">
 <!ENTITY newWindowGroupTab.accesskey "n">
 <!ENTITY externalGroupTab.accesskey "e">
+
 <!ENTITY openWindow.label "Una nova finestra">
 <!ENTITY newWindowGroupWindow.accesskey "f">
 <!ENTITY externalGroupWindow.accesskey "o">

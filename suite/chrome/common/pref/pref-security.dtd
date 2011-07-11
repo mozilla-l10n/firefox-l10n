@@ -34,11 +34,8 @@
    - the terms of any one of the MPL, the GPL or the LGPL.
    -
    - ***** END LICENSE BLOCK ***** -->
-
-<!-- Catalan Translation: Projecte Mozilla en català - Softcatalà - http://www.softcatala.org/projectes/mozilla/ -->
-
-
 <!--LOCALIZATION NOTE : FILE 'Privacy and Security' prefs settings -->
+
 <!ENTITY pref.security.title              "Privadesa i seguretat">
 
 <!ENTITY tracking.label                   "Seguiment de l'usuari">
@@ -54,11 +51,11 @@
 <!ENTITY askBeforeClear.accesskey         "D">
 
 <!ENTITY clearDataSettings.label          "Quan demani al &brandShortName; les meves dades privades, hauria d'esborrar:">
-
 <!--LOCALIZATION NOTE (clearDataDialog.label, clearDataSilent.label, clearDataDialog.accesskey):
   The only difference bettween the two labels is that one calls a dialog, the other doesn't.
   The same accesskey is used for both labels.
 -->
+
 <!ENTITY clearDataDialog.label            "Neteja-ho ara…">
 <!ENTITY clearDataSilent.label            "Neteja-ho ara">
 <!ENTITY clearDataDialog.accesskey        "N">

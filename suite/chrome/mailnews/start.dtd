@@ -35,12 +35,9 @@
    -
    - ***** END LICENSE BLOCK ***** -->
 
-<!-- Catalan Translation: Projecte Mozilla en català - Softcatalà - http://www.softcatala.org/projectes/mozilla/ -->
-
-
 <!ENTITY startpage.title "Us donem la benvinguda a la Missatgeria del &brandShortName;">
-<!ENTITY headline.label
-'Us donem la benvinguda a la Missatgeria del <a id="vendorURL" href="">&brandShortName;</a>!'>
+<!--# LOCALIZATION NOTE (headline.label): the URL for <a id="vendorURL"> is fetched from brand.properties -->
+<!ENTITY headline.label 'Us donem la benvinguda a la Missatgeria del <a id="vendorURL" href="">&brandShortName;</a>!'>
 <!ENTITY description.label "La Missatgeria del &brandShortName; és un potent client de correu i grups de discussió lliure. S'hi implementa una avançada detecció del correu brossa i altres característiques pioneres.">
 <!ENTITY features.title "Característiques">
 <!ENTITY feat_multiacc.label "Múltiples comptes">
@@ -54,12 +51,10 @@
 <!ENTITY dict.title "Diccionaris">
 <!ENTITY dict_intro.label "Els diccionaris serveixen per a comprovar l'ortografia dels vostres missatges.">
 <!--# LOCALIZATION NOTE (dict_info.label): the URL for <a id="dictURL"> is fetched from brand.properties -->
-<!ENTITY dict_info.label
-'Es poden instal·lar llengües addicionals de la secció de
-<a id="dictURL" href="">diccionaris</a> del
+<!ENTITY dict_info.label 'Es poden instal·lar llengües addicionals de la secció de 
+<a id="dictURL" href="">diccionaris</a> del 
 <a href="https://addons.mozilla.org/seamonkey/">Mozilla Add-ons</a>.'>
 <!ENTITY info.title "Més informació">
 <!--# LOCALIZATION NOTE (info_bugs.label): the URL for <a id="releaseNotesURL"> is fetched from brand.properties -->
-<!ENTITY info_bugs.label
-'<a href="http://www.mozilla.org/mailnews/">Agraïm</a> informes sobre errors i sol·licituds de noves característiques, però abans de res llegiu les <a id="releaseNotesURL" href="">notes de la versió</a> i consulteu el
+<!ENTITY info_bugs.label '<a href="http://www.mozilla.org/mailnews/">Agraïm</a> informes sobre errors i sol·licituds de noves característiques, però abans de res llegiu les <a id="releaseNotesURL" href="">notes de la versió</a> i consulteu el 
 <a href="https://bugzilla.mozilla.org/query.cgi">Bugzilla</a>.'>

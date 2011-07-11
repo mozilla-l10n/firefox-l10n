@@ -1,7 +1,8 @@
-<!ENTITY newMessageCmd.key "M">
-<!ENTITY newMessageCmd.label "Missatge">
-<!ENTITY newMessageCmd.accesskey "M">
+
+<!ENTITY  newMessageCmd.key               "M">
+<!ENTITY  newMessageCmd.label             "Missatge">
+<!ENTITY  newMessageCmd.accesskey         "M">
  
 <!ENTITY  newContactCmd.label             "Contacte de la llibreta d'adreces…">
 <!ENTITY  newContactCmd.accesskey         "C">
- 
+

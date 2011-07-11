@@ -54,9 +54,9 @@
 <!ENTITY netInterrupt.longDesc "&sharedLongDesc;">
 
 <!ENTITY netOffline.title "Mode fora de línia">
-<!ENTITY netOffline.longDesc "
+<!ENTITY netOffline.longDesc2 "
 <ul>
-  <li>Poseu el &brandShortName; en mode en línia i torneu-ho a intentar.</li>
+  <li>Premeu «Torna-ho a provar» per a canviar a mode en línia i recarregar la pàgina.</li>
 </ul>
 ">
 
@@ -182,6 +182,9 @@ imitar fonts en què podeu confiar-hi.</p>">
 
 <!ENTITY cspFrameAncestorBlocked.title "Bloquejada segons les normes de seguretat del contingut">
 <!ENTITY cspFrameAncestorBlocked.longDesc "<p>El &brandShortName; ha evitat que aquesta pàgina es carregués d'aquesta forma perquè la pàgina conté unes normes de seguretat del contingut que ho impedeixen.</p>">
+
+<!ENTITY corruptedContentError.title "Error de contingut corromput">
+<!ENTITY corruptedContentError.longDesc "<p>El contingut que intenteu visualitzar no es pot mostrar perquè s'ha detectat un error en la transmissió de dades.</p><ul><li>Contacteu amb els propietaris de la pàgina web per informar-los d'aquest problema.s</li></ul>">
 
 <!ENTITY securityOverride.linkText "O podeu afegir-hi una excepció…">
 <!ENTITY securityOverride.getMeOutOfHereButton "Treu-me d'aquí!">
