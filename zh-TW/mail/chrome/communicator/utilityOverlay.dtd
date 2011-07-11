@@ -4,7 +4,7 @@
 
 <!ENTITY fileMenu.label          "檔案">
 <!ENTITY fileMenu.accesskey        "F">
-<!ENTITY newMenu.label            "開新檔案">
+<!ENTITY newMenu.label            "新增">
 <!ENTITY newMenu.accesskey          "N">
 
 <!ENTITY editMenu.label          "編輯">
