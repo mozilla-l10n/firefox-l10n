@@ -61,8 +61,8 @@
 <!ENTITY  dontrememberActions.clearHistory.label "curățați tot istoricul recent">
 <!ENTITY  dontrememberActions.post.label         ".">
 
-<!ENTITY  privateBrowsingPermanent.label "Navigare fără urme în mod permanent">
-<!ENTITY  privateBrowsingPermanent.accesskey "p">
+<!ENTITY  privateBrowsingPermanent2.label "Folosește mereu modul de navigare fără urme">
+<!ENTITY  privateBrowsingPermanent2.accesskey "F">
 
 <!ENTITY  rememberHistory.label      "Memorează istoricul navigării mele">
 <!ENTITY  rememberHistory.accesskey  "M">
