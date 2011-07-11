@@ -25,8 +25,7 @@
 <!ENTITY netInterrupt.longDesc "<p>Prehliadač sa úspešne pripojil k serveru, no spojenie počas prenosu informácií zlyhalo.</p><ul><li>Môže to byť zlyhanie siete medzi vašim počítačom a serverom</li><li>Prosím skúste to neskôr. Ak problémy pretrvávajú, kontaktujte, prosím, svojho správcu siete alebo poskytovateľa Internetu.</li></ul>">
 
 <!ENTITY netOffline.title "Chyba: Režim offline">
-<!ENTITY netOffline.longDesc "<p>Prehliadač je momentálne v režime offline a nemôže sa pripojiť na požadovaný server. Prepnite prehliadač do režimu online a skúste to znova.</p>">
-<!ENTITY netOffline.overrideLongDesc "<p>Prehliadač je momentálne v režime offline a nemôže sa pripojiť na požadovaný server.</p><ul><li>Je počítač pripojený k aktívnej sieti?</li><li>Prepnite prehliadač o režimu online a skúste to znova.</li></ul>">
+<!ENTITY netOffline.longDesc2 "<p>Prehliadač je momentálne v režime offline a nemôže sa pripojiť na požadovaný server.</p><ul><li>Je počítač pripojený k aktívnej sieti?</li><li>Kliknutím na tlačidlo &quot;Skúsiť znova&quot; prejdete do režimu online a opätovne načítate obsah stránky.</li></ul>">
 
 <!ENTITY contentEncodingError.title "Chyba kódovania obsahu">
 <!ENTITY contentEncodingError.longDesc "<p>Stránka nemôže byť zobrazená, pretože používa neplatné, alebo nepodporované formátovanie.</p><ul><li>Prosím, kontaktujte majiteľov stránky a informujte ich o tomto probléme.</li></ul>">
@@ -83,6 +82,9 @@
 
 <!ENTITY cspFrameAncestorBlocked.title "Blokované kvôli zásadám ochrany obsahu">
 <!ENTITY cspFrameAncestorBlocked.longDesc "<p>Prehliadač nepovolil načítanie stránky týmto spôsobom, pretože stránka obsahuje zásady ochrany obsahu, ktoré takéto načítanie neumožňujú.</p>">
+
+<!ENTITY corruptedContentError.title "Poškodený obsah stránky">
+<!ENTITY corruptedContentError.longDesc "<p>Táto stránka nemohla byť zobrazená kvôli chybe pri prenose údajov.</p><ul><li>Kontaktuje prevádzkovateľa webovej stránky a informujte ho o tomto probléme.</li></ul>">
 
 <!ENTITY remoteXUL.title "Vzdialené XUL">
 <!ENTITY remoteXUL.longDesc "<p><ul><li>Kontaktujte správcu webovej stránky a informujte ho o tomto probléme.</li></ul></p>">

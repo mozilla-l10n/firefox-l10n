@@ -106,6 +106,7 @@
 <!ENTITY pageactions.saveas.pdf      "Uložiť ako PDF">
 <!ENTITY pageactions.share.page      "Zdieľať stránku">
 <!ENTITY pageactions.password.forget "Zabudnúť heslo">
+<!ENTITY pageactions.quit            "Koniec">
 <!ENTITY pageactions.reset           "Vymazať nastavenia stránky">
 <!ENTITY pageactions.findInPage      "Hľadať na stránke">
 <!ENTITY pageactions.search.addNew   "Pridať vyhľadávací modul">
