@@ -77,14 +77,14 @@
 <!ENTITY phishingBlocked.title "Sum spletne prevare!">
 <!ENTITY phishingBlocked.longDesc "
 <p>Vnos osebnih podatkov na tej strani lahko pripelje do kraje identitete ali drugih zlorab.</p> 
-<p>Tovrstne spletne prevare se uporabljajo v zlorabah, znanih kot ribarjenje, kjer zlonamerne spletne strani ali elektronska pošta oponašajo vire, ki jim zaupate.
-/p>">
+<p>Tovrstne spletne prevare se uporabljajo v zlorabah, znanih kot ribarjenje, kjer zlonamerne spletne strani ali elektronska pošta oponašajo vire, ki jim zaupate.</p>
+">
 
 <!ENTITY cspFrameAncestorBlocked.title "Zavrnjeno zaradi varnostne politike vsebine">
 <!ENTITY cspFrameAncestorBlocked.longDesc "<p>Brskalnik je preprečil nalaganje strani v taki obliki, ker tako določa varnostna politika vsebine.</p>">
 
 <!ENTITY corruptedContentError.title "Napaka - okvarjena vsebina">
-<!ENTITY corruptedContentError.longDesc "<p>Strani, ki si jo želite ogledati, ni mogoče prikazati, ker je pri prenosu podatkov  bila zaznana napaka. </p> <li>Obrnite na prosim na lastnike spletni strani in jih obvestite o tem problemu.</li></ul>">
+<!ENTITY corruptedContentError.longDesc "<p>Strani, ki si jo želite ogledati, ni mogoče prikazati, ker je pri prenosu podatkov  bila zaznana napaka. </p> <ul><li>Obrnite na prosim na lastnike spletni strani in jih obvestite o tem problemu.</li></ul>">
 
 <!ENTITY remoteXUL.title "Oddaljeni XUL">
 <!ENTITY remoteXUL.longDesc "<p><ul><li>Obrnite se na lastnike spletne strani in jih obvestite o težavi.</li></ul></p>">
