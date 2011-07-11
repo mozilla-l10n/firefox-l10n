@@ -22,9 +22,9 @@
 <!ENTITY password.manage                 "Управљање лозинкама…">
 
 <!ENTITY cookie.label                    "Постави колачиће">
-<!ENTITY cookie.clear                    "Очисти колачиће">
+<!ENTITY cookie.remove                   "Уклони колачиће">
 <!ENTITY cookie.manage                   "Управљање колачићима…">
-<!ENTITY cookie.clearAll                 "Очисти све колачиће">
+<!ENTITY cookie.removeAll                "Уклони све колачиће">
 
 <!ENTITY geo.label                       "Објави локацију">
 

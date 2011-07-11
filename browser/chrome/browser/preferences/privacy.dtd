@@ -61,8 +61,8 @@
 <!ENTITY  dontrememberActions.clearHistory.label "очистите тренутни историјат">
 <!ENTITY  dontrememberActions.post.label         ".">
 
-<!ENTITY  privateBrowsingPermanent.label "Трајно поверљиво читање">
-<!ENTITY  privateBrowsingPermanent.accesskey "Т">
+<!ENTITY  privateBrowsingPermanent2.label "Увек користи поверљиво читање">
+<!ENTITY  privateBrowsingPermanent2.accesskey "У">
 
 <!ENTITY  rememberHistory.label      "Запамти мој историјат прегледања">
 <!ENTITY  rememberHistory.accesskey  "З">
