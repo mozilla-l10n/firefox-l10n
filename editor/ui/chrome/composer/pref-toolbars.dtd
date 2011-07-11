@@ -38,7 +38,7 @@
 
 <!ENTITY composition.caption    "在編輯工具列上顯示這些按鈕:">
 
-<!ENTITY new.label              "開新檔案">
+<!ENTITY new.label              "新增">
 <!ENTITY open.label             "開啟舊檔">
 <!ENTITY save.label             "儲存">
 <!ENTITY publish.label          "發表">
