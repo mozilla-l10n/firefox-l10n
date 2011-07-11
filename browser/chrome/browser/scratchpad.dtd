@@ -58,19 +58,19 @@
 <!ENTITY pasteCmd.accesskey           "x">
 
 <!ENTITY selectAllCmd.label           "Selecciona-ho tot">
-<!ENTITY selectAllCmd.key             "A">
+<!ENTITY selectAllCmd.key             "a">
 <!ENTITY selectAllCmd.accesskey       "A">
 
 <!ENTITY run.label                    "Executa">
-<!ENTITY run.accesskey                "R">
-<!ENTITY run.key                      "E">
+<!ENTITY run.accesskey                "E">
+<!ENTITY run.key                      "e">
 
 <!ENTITY inspect.label                "Inspecciona">
 <!ENTITY inspect.accesskey            "I">
 <!ENTITY inspect.key                  "i">
 
 <!ENTITY display.label                "Mostra">
-<!ENTITY display.accesskey            "D">
+<!ENTITY display.accesskey            "M">
 <!ENTITY display.key                  "s">
 
 <!-- LOCALIZATION NOTE (environmentMenu.label, accesskey): This menu item was

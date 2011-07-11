@@ -22,9 +22,9 @@
 <!ENTITY password.manage                 "Gestiona les contrasenyes…">
 
 <!ENTITY cookie.label                    "Defineix les galetes">
-<!ENTITY cookie.clear                    "Neteja les galetes">
+<!ENTITY cookie.remove                    "Suprimeix les galetes">
 <!ENTITY cookie.manage                   "Gestiona les galetes…">
-<!ENTITY cookie.clearAll                 "Neteja totes les galetes">
+<!ENTITY cookie.removeAll                 "Suprimeix totes les galetes">
 
 <!ENTITY geo.label                       "Comparteix la ubicació">
 

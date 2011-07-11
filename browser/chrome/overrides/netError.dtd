@@ -2,7 +2,7 @@
 %brandDTD;
 
 <!ENTITY loadError.label "S'ha produït un problema en carregar la pàgina">
-<!ENTITY retry.label "Torneu-ho a provar">
+<!ENTITY retry.label "Torna-ho a provar">
 
 <!-- Specific error messages -->
 
@@ -53,9 +53,9 @@
 <!ENTITY netInterrupt.longDesc "&sharedLongDesc;">
 
 <!ENTITY netOffline.title "Mode fora de línia">
-<!ENTITY netOffline.overrideLongDesc "
+<!ENTITY netOffline.longDesc2 "
 <ul>
-  <li>Desactiveu l'element del menú «Treballa fora de línia», i llavors torneu-ho a provar.</li>
+  <li>Cliqueu «Torna-ho a provar» per tornar el mode en línia i actualitzar la pàgina.</li>
 </ul>
 ">
 
@@ -164,6 +164,9 @@ ser temporal, i podeu provar-ho de nou més tard.</li>
 
 <!ENTITY cspFrameAncestorBlocked.title "Blocat per la política de seguretat de continguts">
 <!ENTITY cspFrameAncestorBlocked.longDesc "<p>El &brandShortName; ha impedit que la pàgina es carregui d'aquesta manera perquè té una política de seguretat de continguts que no ho permet.</p>">
+
+<!ENTITY corruptedContentError.title "Error en el contingut de la pàgina">
+<!ENTITY corruptedContentError.longDesc "<p>La pàgina que esteu intentant veure no es pot mostrar perquè s'ha produït un error en la transmissió de les dades.</p><ul><li>Contacteu amb els propietaris del web per informar-los del problema.</li></ul>">
 
 <!ENTITY securityOverride.linkText "O podeu afegir-hi una excepció…">
 <!ENTITY securityOverride.getMeOutOfHereButton "Treu-me d'aquí!">

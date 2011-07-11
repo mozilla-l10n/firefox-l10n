@@ -51,8 +51,6 @@
 <!ENTITY printCmd.label "Imprimeix…">
 <!ENTITY printCmd.accesskey "p">
 <!ENTITY printCmd.commandkey "p">
-<!ENTITY import.label "Importa…">
-<!ENTITY import.accesskey "I">
 
 <!ENTITY goOfflineCmd.label "Treballa fora de línia">
 <!ENTITY goOfflineCmd.accesskey "b">
@@ -113,7 +111,6 @@
 <!ENTITY stopCmd.macCommandKey        ".">
 <!ENTITY stopButton.tooltip "Atura la càrrega d'aquesta pàgina">
 <!ENTITY goEndCap.tooltip "Es va a l'adreça en la barra d'ubicació">
-<!ENTITY feedButton.tooltip           "Subscriu-me a aquesta pàgina…">
 <!ENTITY printButton.label "Imprimeix">
 <!ENTITY printButton.tooltip "Imprimeix aquesta pàgina">
 
@@ -206,19 +203,6 @@
 <!ENTITY inspectPanelTitle.label      "HTML">
 <!ENTITY inspectButton.label          "Inspecciona">
 <!ENTITY inspectButton.accesskey      "I">
-<!ENTITY inspectNextButton.label      "Següent">
-<!ENTITY inspectNextButton.accesskey  "n">
-<!ENTITY inspectPreviousButton.label  "Anterior">
-<!ENTITY inspectPreviousButton.accesskey "r">
-<!ENTITY inspectStyleButton.label     "Estil">
-<!ENTITY inspectStyleButton.accesskey "s">
-<!ENTITY inspectStylePanelTitle.label  "Estil">
-<!-- LOCALIZATION NOTE (inspectObjectButton.label): This button label
-  -  appears on the Inspector's toolbar. It is used to open and close the Object
-  -  panel. There is also a label in inspector.properties for the panel
-  -  titlebar: object.objectPanelTitle. -->
-<!ENTITY inspectObjectButton.label       "Objecte">
-<!ENTITY inspectObjectButton.accesskey   "O">
 
 <!ENTITY getMoreDevtoolsCmd.label        "Aconsegueix més eines">
 <!ENTITY getMoreDevtoolsCmd.accesskey    "m">
@@ -395,9 +379,9 @@
 <!ENTITY saveImageCmd.label "Anomena i desa la imatge…">
 <!ENTITY saveImageCmd.accesskey "a">
 <!ENTITY saveVideoCmd.label           "Anomena i desa el vídeo…">
-<!ENTITY saveVideoCmd.accesskey       "d">
+<!ENTITY saveVideoCmd.accesskey       "v">
 <!ENTITY saveAudioCmd.label           "Anomena i desa l'àudio…">
-<!ENTITY saveAudioCmd.accesskey       "v">
+<!ENTITY saveAudioCmd.accesskey       "u">
 <!ENTITY sendImageCmd.label "Envia la imatge…">
 <!ENTITY sendImageCmd.accesskey "n">
 <!ENTITY sendVideoCmd.label           "Envia el vídeo…">

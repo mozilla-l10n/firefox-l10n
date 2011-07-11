@@ -35,6 +35,8 @@
 <!ENTITY checkNow.accesskey         "h">
 <!ENTITY submitCrashes.label             "Tramet informes d'error">
 <!ENTITY submitCrashes.accesskey         "s">
+<!ENTITY submitTelemetry.label           "Tramet informació del rendiment">
+<!ENTITY submitTelemetry.accesskey       "r">
 
 <!ENTITY networkTab.label                "Xarxa">
 
