@@ -66,6 +66,8 @@
 <!ENTITY applyTheme.accesskey "т">
 <!ENTITY getNewThemesCmd.label "Загрузить новые темы">
 <!ENTITY getNewThemesCmd.accesskey "т">
+<!ENTITY getPersonasCmd.label "Получить обои">
+<!ENTITY getPersonasCmd.accesskey "б">
 <!ENTITY findOnCmd.label "Найти на этой странице…">
 <!ENTITY findOnCmd.accesskey "Н">
 <!ENTITY findOnCmd.commandkey "f">
