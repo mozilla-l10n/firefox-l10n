@@ -89,7 +89,6 @@
 <!ENTITY corruptedContentError.title "Mearachd air sgàth susbaint thruaillte">
 <!ENTITY corruptedContentError.longDesc "<p>Chan fhaic thu an t-susbaint a dh'iarr thu air sgàth mearachd ann an tar-chur an dàta.</p><ul><li>Cuir fios gu seilbheadair na làraich mun duilgheadas seo.</li></ul>">
 
-
 <!ENTITY securityOverride.linkText "No 's urrainn dhut eisgeachd a chur ris…">
 <!ENTITY securityOverride.getMeOutOfHereButton "A-mach às an àite seo leam!">
 <!ENTITY securityOverride.exceptionButtonLabel "Cuir eisgeachd ris…">
