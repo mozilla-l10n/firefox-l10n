@@ -11,10 +11,6 @@
 # title for the folder that will contains the default bookmarks
 #define bookmarks_title Fòn-làimhe
 
-# LOCALIZATION NOTE (bookmarks_welcome):
-# link title for about:firstrun
-#define bookmarks_welcome Firefox: Fàilte ort
-
 # LOCALIZATION NOTE (bookmarks_aboutBrowser):
 # link title for about:fennec
 #define bookmarks_aboutBrowser Firefox: Mun bhrabhsair agad

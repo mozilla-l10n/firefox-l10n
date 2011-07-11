@@ -107,6 +107,7 @@
 <!ENTITY pageactions.saveas.pdf      "Sàbhail mar PDF">
 <!ENTITY pageactions.share.page      "Co-roinn an duilleag">
 <!ENTITY pageactions.password.forget "Dìochuimhnich am facal-faire">
+<!ENTITY pageactions.quit            "Fàg an-seo">
 <!ENTITY pageactions.reset           "Falamhaich roghainnean na làraich">
 <!ENTITY pageactions.findInPage      "Lorg san duilleag">
 <!ENTITY pageactions.search.addNew   "Cuir einnsean-luirg ris">

@@ -8,3 +8,4 @@
 <!ENTITY aboutHome.openAllTabs                  "Fosgail gach aon dhiubh ann an taba">
 <!ENTITY aboutHome.noTabs                       "Chan eil tabaichean ann on turas mu dheireadh">
 <!ENTITY aboutHome.noAddons                     "Chan eil tuilleadan molta ann">
+<!ENTITY aboutHome.getLocale                    "Atharraich an cànan">
