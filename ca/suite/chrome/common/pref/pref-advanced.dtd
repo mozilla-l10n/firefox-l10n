@@ -1,17 +1,16 @@
 <!--LOCALIZATION NOTE : FILE 'Advanced' prefs settings -->
-<!ENTITY pref.advanced.title          "Avançat">
+<!ENTITY pref.advanced.title        "Avançat">
 
-<!ENTITY prefEnableJava.caption        "Característiques que ajuden a interpretar les pàgines web">
+<!ENTITY prefEnableJava.caption     "Característiques que ajuden a interpretar les pàgines web">
 
-<!ENTITY enbJavaCheck.label "Habilita el Java">
-<!ENTITY enbJavaCheck.accesskey "J">
+<!ENTITY enbJavaCheck.label         "Habilita el Java">
+<!ENTITY enbJavaCheck.accesskey     "J">
 
-<!ENTITY systemPref.caption "Preferències del sistema">
-<!ENTITY systemPrefCheck.label "Utilitza les preferències des del sistema">
-<!ENTITY systemPrefCheck.accesskey "s">
-<!ENTITY systemPref.desc "Marqueu aquest opció per a què el &brandShortName; hereti les preferències del sistema. Els paràmetres del sistema substituiran les preferències del &brandShortName;.">
+<!ENTITY systemPref.caption         "Preferències del sistema">
+<!ENTITY systemPrefCheck.label      "Utilitza les preferències des del sistema">
+<!ENTITY systemPrefCheck.accesskey  "s">
+<!ENTITY systemPref.desc            "Marqueu aquest opció per a què el &brandShortName; hereti les preferències del sistema. Els paràmetres del sistema substituiran les preferències del &brandShortName;.">
 
 <!ENTITY prefCheckDefault.caption   "Integració al sistema">
 <!ENTITY prefCheckDefaultClient.label "Comproveu els paràmetres d'aplicació per defecte a l'inici">
 <!ENTITY prefCheckDefaultClient.accesskey "C">
-

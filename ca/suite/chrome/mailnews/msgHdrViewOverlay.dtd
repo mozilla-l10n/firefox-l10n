@@ -22,8 +22,8 @@
  Contributor(s):
 
  Alternatively, the contents of this file may be used under the terms of
- either the GNU General Public License Version 2 or later (the "GPL"), or
- the GNU Lesser General Public License Version 2.1 or later (the "LGPL"),
+ either of the GNU General Public License Version 2 or later (the "GPL"),
+ or the GNU Lesser General Public License Version 2.1 or later (the "LGPL"),
  in which case the provisions of the GPL or the LGPL are applicable instead
  of those above. If you wish to allow use of your version of this file only
  under the terms of either the GPL or the LGPL, and not to allow others to
@@ -35,9 +35,6 @@
 
  ***** END LICENSE BLOCK ***** -->
 
-<!-- Catalan Translation: Projecte Mozilla en català - Softcatalà - http://www.softcatala.org/projectes/mozilla/ -->
-
-
 <!ENTITY toField.label "A:">
 <!ENTITY fromField.label "De:">
 <!ENTITY senderField.label "Remitent: ">
@@ -46,10 +43,11 @@
 
 <!ENTITY subjectField.label "Assumpte">
 <!--# LOCALIZATION NOTE (ccField.label): DONT_TRANSLATE -->
-<!ENTITY ccField.label "Cc:">
+<!ENTITY ccField.label "Cc: ">
 <!ENTITY bccField.label "Cco:">
 <!ENTITY newsgroupsField.label "Grups de discussió:">
 <!ENTITY followupToField.label "Seguiment a:">
+
 <!ENTITY tagsHdr.label "Etiquetes: ">
 <!ENTITY dateField.label "Data:">
 <!ENTITY userAgentField.label "Agent d'usuari:">
@@ -58,28 +56,24 @@
 <!ENTITY inReplyToField.label "En resposta a: ">
 <!ENTITY originalWebsite.label "Lloc web:">
 
-<!ENTITY editMessage.label "Edita l'esborrany">
+<!ENTITY editMessage.label                 "Edita l'esborrany">
 <!ENTITY editMessage.accesskey             "E">
 
-
-<!ENTITY attachmentsTree.label "Adjuncions:">
+<!ENTITY attachmentsTree.label             "Adjuncions:">
 <!ENTITY attachmentsTree.accesskey         "A">
-<!ENTITY openAttachmentCmd.label "Obre">
-<!ENTITY openAttachmentCmd.accesskey "O">
+<!ENTITY openAttachmentCmd.label           "Obre">
+<!ENTITY openAttachmentCmd.accesskey       "O">
 <!ENTITY viewAttachmentCmd.label           "Visualitza el codi font">
 <!ENTITY viewAttachmentCmd.accesskey       "V">
-<!ENTITY saveAsAttachmentCmd.label "Anomena i desa…">
-<!ENTITY saveAsAttachmentCmd.accesskey "A">
-<!ENTITY detachAttachmentCmd.label    "Separa…">  
+<!ENTITY saveAsAttachmentCmd.label         "Anomena i desa…">
+<!ENTITY saveAsAttachmentCmd.accesskey     "A">
+<!ENTITY detachAttachmentCmd.label         "Separa…">
 <!ENTITY detachAttachmentCmd.accesskey     "S">
-<!ENTITY deleteAttachmentCmd.label    "Suprimeix">
+<!ENTITY deleteAttachmentCmd.label         "Suprimeix">
 <!ENTITY deleteAttachmentCmd.accesskey     "x">
-<!ENTITY saveAllAttachmentsCmd.label "Desa-ho tot…">
-<!ENTITY saveAllAttachmentsCmd.accesskey "D">
-<!ENTITY detachAllAttachmentsCmd.label    "Separa-ho tot…">  
-<!ENTITY detachAllAttachmentsCmd.accesskey    "h">  
-<!ENTITY deleteAllAttachmentsCmd.label    "Suprimeix-ho tot…">  
-<!ENTITY deleteAllAttachmentsCmd.accesskey    "u">  
-
-
-
+<!ENTITY saveAllAttachmentsCmd.label       "Desa-ho tot…">
+<!ENTITY saveAllAttachmentsCmd.accesskey   "D">
+<!ENTITY detachAllAttachmentsCmd.label     "Separa-ho tot…">
+<!ENTITY detachAllAttachmentsCmd.accesskey "h">
+<!ENTITY deleteAllAttachmentsCmd.label     "Suprimeix-ho tot…">
+<!ENTITY deleteAllAttachmentsCmd.accesskey "u">

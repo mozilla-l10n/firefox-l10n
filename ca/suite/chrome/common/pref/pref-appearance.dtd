@@ -1,25 +1,21 @@
-<!-- extracted from content/pref-appearance.xul -->
-
 <!--LOCALIZATION NOTE : FILE The Appearance prefs dialog.  -->
+
 <!ENTITY pref.appearance.title "Aparença">
 <!--LOCALIZATION NOTE (onStartLegend.label): Don't translate "&brandShortName;".
-    Place &brandShortName; in the phrase where the name of the application should
-	 appear
+    Place &brandShortName; in the phrase where the name of the application should appear
 -->
-<!ENTITY onStartLegend.label "En iniciar el &brandShortName;, obre">
-<!--LOCALIZATION NOTE (navCheck.label): DONT_TRANSLATE -->
-<!ENTITY navCheck.label "Navegador">
-<!ENTITY navCheck.accesskey "n">
-<!--LOCALIZATION NOTE (compCheck.label): DONT_TRANSLATE -->
-<!ENTITY showToolsLegend.label "Mostra les barres d'eines com a">
-<!ENTITY picsNtextRadio.label "Imatges i text">
-<!ENTITY picsNtextRadio.accesskey "g">
-<!ENTITY picsOnlyRadio.label "Només imatges">
-<!ENTITY picsOnlyRadio.accesskey "o">
-<!ENTITY textonlyRadio.label "Només text">
-<!ENTITY textonlyRadio.accesskey "x">
-<!ENTITY showHideTooltips.label "Mostra els rètols indicadors de funció">
-<!ENTITY showHideTooltips.accesskey "t">
+<!ENTITY onStartLegend.label                    "En iniciar el &brandShortName;, obre">
+<!ENTITY navCheck.label                         "n">
+<!ENTITY navCheck.accesskey                     "B">
+<!ENTITY showToolsLegend.label                  "Mostra les barres d'eines com a">
+<!ENTITY picsNtextRadio.label                   "Imatges i text">
+<!ENTITY picsNtextRadio.accesskey               "g">
+<!ENTITY picsOnlyRadio.label                    "Només imatges">
+<!ENTITY picsOnlyRadio.accesskey                "o">
+<!ENTITY textonlyRadio.label                    "Només text">
+<!ENTITY textonlyRadio.accesskey                "x">
+<!ENTITY showHideTooltips.label                 "Mostra els rètols indicadors de funció">
+<!ENTITY showHideTooltips.accesskey             "t">
 
 <!ENTITY pref.locales.title                     "Llengua de la interfície d'usuari">
 <!ENTITY selectLocale.label                     "Seleccioneu la llengua que apareix en els quadres de diàleg, menús, barres d'eines, i etiquetes dels botons:">
@@ -27,3 +23,4 @@
     Place &brandShortName; in the phrase where the name of the application should appear
 -->
 <!ENTITY restartOnLangChange.label              "Les preferències lingüístiques tindran efecte quan reinicieu el &brandShortName;.">
+

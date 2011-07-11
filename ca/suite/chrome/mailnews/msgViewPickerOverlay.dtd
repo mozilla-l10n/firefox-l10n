@@ -2,7 +2,6 @@
 
 <!ENTITY viewPicker.label "Visualitza:">
 <!ENTITY viewPicker.accesskey "i">
-
 <!ENTITY viewAll.label "Tot">
 <!ENTITY viewAll.accesskey "o">
 <!ENTITY viewUnread.label "Per llegir">
@@ -17,4 +16,3 @@
 <!ENTITY viewVirtualFolder.accesskey "s">
 <!ENTITY viewCustomizeView.label "Personalitza...">
 <!ENTITY viewCustomizeView.accesskey "P">
-

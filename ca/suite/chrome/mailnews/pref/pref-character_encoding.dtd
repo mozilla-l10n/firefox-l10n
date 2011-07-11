@@ -48,4 +48,4 @@
 <!ENTITY sendDefaultCharset.label        "Codificació de caràcters per defecte:">
 <!ENTITY sendDefaultCharset.accesskey    "C">
 <!ENTITY replyInDefaultCharset2.label    "Sempre que sigui possible, utilitzeu aquesta codificació per defecte en les respostes. (Quan estigui desmarcat, només els missatges nous la utilitzaran.)">
-<!ENTITY replyInDefaultCharset2.accesskey "U">
+<!ENTITY replyInDefaultCharset2.accesskey "u">

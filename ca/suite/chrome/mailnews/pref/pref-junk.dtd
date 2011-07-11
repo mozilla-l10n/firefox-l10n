@@ -37,8 +37,8 @@
 <!ENTITY pref.junk.title "Correu brossa">
 <!ENTITY junkSettings.caption "Paràmetres globals del correu brossa">
 <!ENTITY junkMail.intro "Aneu als paràmetres dels comptes per a configurar els paràmetres de correu brossa específics de cada compte.">
-
 <!-- Junk Mail Controls -->
+
 <!ENTITY manualMark.label               "En marcar els missatges com a correu brossa:">
 <!ENTITY manualMark.accesskey           "b">
 <!ENTITY manualMarkModeMove.label       "Mou-los a la carpeta &quot;Correu brossa&quot; del compte">
@@ -60,13 +60,13 @@
 <!ENTITY resetTrainingData.accesskey    "t">
 
 <!ENTITY pref.suspectMail.caption       "Correu sospitós">
-
 <!-- Phishing Detector -->
+
 <!ENTITY pref.phishing.caption            "Correu fraudulent">
 <!ENTITY enablePhishingDetector.label     "Avisa'm si el missatge que estic llegint és sospitós de ser fraudulent">
 <!ENTITY enablePhishingDetector.accesskey "A">
-
 <!-- Anti Virus -->
+
 <!ENTITY pref.antivirus.caption           "AntiVirus">
 <!ENTITY antiVirus.label                  "Permet que els clients antivirus analitzin els missatges entrants més fàcilment">
 <!ENTITY antiVirus.accesskey              "P">

@@ -35,24 +35,21 @@
 
  ***** END LICENSE BLOCK ***** -->
 
-<!-- Catalan Translation: Projecte Mozilla en català - Softcatalà - http://www.softcatala.org/projectes/mozilla/ -->
-
-
-<!ENTITY pref.addressing.title "Adreçament">
-<!ENTITY emailCollectiontitle.label "Recollida d'adreces electròniques">
-<!ENTITY emailCollectionPicker.label "Afegeix les adreces electròniques al meu:">
-<!ENTITY emailCollectionPicker.accesskey "a">
-<!ENTITY emailCollectiontext.label "Les adreces electròniques dels missatges es poden afegir a una llibreta d'adreces local, «Adreces recollides». Afegeix les adreces electròniques de:">
-
+<!ENTITY pref.addressing.title                 "Adreçament">
+<!ENTITY emailCollectiontitle.label            "Recollida d'adreces electròniques">
+<!ENTITY emailCollectionPicker.label           "Afegeix les adreces electròniques al meu:">
+<!ENTITY emailCollectionPicker.accesskey       "A">
+<!ENTITY emailCollectiontext.label             "Les adreces electròniques dels missatges es poden afegir a una llibreta d'adreces local, «Adreces recollides». Afegeix les adreces electròniques de:">
 <!-- Autocompletion -->
-<!ENTITY addressingTitle.label "Compleció automàtica d'adreces">
+
+<!ENTITY addressingTitle.label                 "Compleció automàtica d'adreces">
 <!ENTITY highlightNonMatches.label             "Ressalta les adreces que no se completen automàticament">
 <!ENTITY highlightNonMatches.accesskey         "a">
-<!ENTITY addressingEnable.label "Llibretes d'adreces locals">
-<!ENTITY addressingEnable.accesskey "L">
-<!ENTITY autocompleteText.label "En adreçar missatges, cerca entrades coincidents a:">
-<!ENTITY directories.label "Servidor de directori">
-<!ENTITY directories.accesskey "S">
+<!ENTITY addressingEnable.label                "Llibretes d'adreces locals">
+<!ENTITY addressingEnable.accesskey            "L">
+<!ENTITY autocompleteText.label                "En adreçar missatges, cerca entrades coincidents a:">
+<!ENTITY directories.label                     "Servidor de directori">
+<!ENTITY directories.accesskey                 "S">
 <!ENTITY directoriesNone.label                 "Cap">
-<!ENTITY editDirectories.label "Edita els directoris…">
-<!ENTITY editDirectories.accesskey "E">
+<!ENTITY editDirectories.label                 "Edita els directoris…">
+<!ENTITY editDirectories.accesskey             "E">

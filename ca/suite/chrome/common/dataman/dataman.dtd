@@ -63,8 +63,8 @@
 <!ENTITY tab.passwords.label "Contrasenyes">
 <!ENTITY tab.formdata.label "Dades de formulari">
 <!ENTITY tab.forget.label "Oblida-ho">
-
 <!-- cookies -->
+
 <!ENTITY cookies.description "Aquest domini ha emmagatzemat les galetes següent al vostre ordinador:">
 
 <!ENTITY cookies.tree.host.label "Lloc web">
@@ -91,8 +91,8 @@
 
 <!ENTITY cookies.blockOnRemove.label "En suprimir, impideix als llocs web llistats deixar galetes en un futur">
 <!ENTITY cookies.blockOnRemove.accesskey "w">
-
 <!-- permissions -->
+
 <!ENTITY perm.UseDefault "Utilitza els predeterminats">
 <!ENTITY perm.AskAlways "Demana-m'ho sempre">
 <!ENTITY perm.NeverSave "Mai ho desis">
@@ -103,8 +103,8 @@
 <!ENTITY perm.host.placeholder "Introduïu un nom de servidor central">
 <!ENTITY perm.button.add.label "Afegeix">
 <!ENTITY perm.button.add.accesskey "A">
-
 <!-- preferences -->
+
 <!ENTITY prefs.description "Les preferències de contingut són un mecanisme del &brandShortName; per desar les preferències de l'aplicació, com ara els nivells de zoom, de forma específica per a un lloc web.">
 
 <!ENTITY prefs.tree.host.label "Lloc web">
@@ -118,8 +118,8 @@
 
 <!ENTITY prefs.button.remove.label "Suprimeix">
 <!ENTITY prefs.button.remove.accesskey "r">
-
 <!-- passwords -->
+
 <!ENTITY pwd.description "You have the following passwords stored for this domain:">
 
 <!ENTITY pwd.tree.host.label "Lloc web">
@@ -135,8 +135,8 @@
 
 <!ENTITY pwd.button.remove.label "Suprimeix">
 <!ENTITY pwd.button.remove.accesskey "r">
-
 <!-- form data -->
+
 <!ENTITY fdata.search.placeholder "Cerca de les dades dels camps">
 
 <!ENTITY fdata.tree.fieldname.label "Nom del camp">
@@ -152,8 +152,8 @@
 
 <!ENTITY fdata.button.remove.label "Suprimeix">
 <!ENTITY fdata.button.remove.accesskey "r">
-
 <!-- forget -->
+
 <!ENTITY forget.cookies.label "Galetes">
 <!ENTITY forget.cookies.accesskey "G">
 <!ENTITY forget.permissions.label "Permisos">
