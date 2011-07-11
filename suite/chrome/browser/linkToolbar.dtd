@@ -35,23 +35,20 @@
    - the terms of any one of the MPL, the GPL or the LGPL.
    -
    - ***** END LICENSE BLOCK ***** -->
-
-<!-- Catalan Translation: Projecte Mozilla en català - Softcatalà - http://www.softcatala.org/projectes/mozilla/ -->
-
-
 <!-- Link Toolbar Title -->
-<!ENTITY linkToolbar.label "Barra de navegació del lloc">
-<!ENTITY linkToolbar.accesskey "b">
 
+<!ENTITY linkToolbar.label "Barra de navegació del lloc">
+<!ENTITY linkToolbar.accesskey "B">
 <!-- Link Toolbar visibility options -->
+
 <!ENTITY linkToolbarAlways.label "Mostra sempre">
 <!ENTITY linkToolbarAlways.accesskey "o">
 <!ENTITY linkToolbarAsNeeded.label "Mostra només quan calgui">
 <!ENTITY linkToolbarAsNeeded.accesskey "o">
 <!ENTITY linkToolbarNever.label "Amaga sempre">
 <!ENTITY linkToolbarNever.accesskey "m">
-
 <!-- Toolbar buttons, menus, and menuitems -->
+
 <!ENTITY topButton.label "Part superior">
 <!ENTITY upButton.label "Amunt">
 <!ENTITY firstButton.label "Primer">
@@ -82,4 +79,3 @@
 <!ENTITY alternateButton.label "Altres versions">
 
 <!ENTITY feedButton.label "Subscriu-m'hi">
-

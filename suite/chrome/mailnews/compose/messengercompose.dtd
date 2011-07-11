@@ -2,22 +2,22 @@
 <!ENTITY msgComposeWindow.title "Redacta: (sense assumpte)">
 
 <!ENTITY fromAddr.label "Des de:">
-<!ENTITY fromAddr.accesskey "d">
-<!ENTITY subject.label "Assumpte:">
+<!ENTITY fromAddr.accesskey "D">
+<!ENTITY subject.label  "Assumpte:">
 <!ENTITY subject.accesskey "s">
 <!ENTITY attachments.label "Adjuncions:">
 <!ENTITY attachments.accesskey "j">
-
 <!-- menu items:  the . means that the menu item isn't implemented yet -->
-
 <!-- File menu items -->
+
+
 <!ENTITY newMessage.label "Missatge">
 <!ENTITY newMessage.accesskey "M">
 <!ENTITY saveCmd.label "Desa">
 <!ENTITY saveCmd.key "S">
 <!ENTITY saveCmd.accesskey "s">
 <!ENTITY saveAsCmd.label "Anomena i desa">
-<!ENTITY saveAsCmd.accesskey "a">
+<!ENTITY saveAsCmd.accesskey "A">
 <!ENTITY saveAsFileCmd.label "Fitxer...">
 <!ENTITY saveAsFileCmd.accesskey "F">
 <!ENTITY saveAsDraftCmd.label "Esborrany">
@@ -44,11 +44,11 @@
 <!ENTITY printCmd.label "Imprimeix...">
 <!ENTITY printCmd.key "P">
 <!ENTITY printCmd.accesskey "p">
-
 <!-- Edit menu items -->
+
 <!ENTITY editRewrapCmd.label "Torna a ajustar">
 <!ENTITY editRewrapCmd.key "r">
-<!ENTITY editRewrapCmd.accesskey "j">
+<!ENTITY editRewrapCmd.accesskey  "j">
 <!ENTITY findCmd.label "Cerca i reemplaça...">
 <!ENTITY findCmd.key "F">
 <!ENTITY findCmd.accesskey "m">
@@ -62,18 +62,18 @@
 <!ENTITY findPrevCmd.accesskey "n">
 <!ENTITY accountManagerCmd.label "Paràmetres dels comptes">
 <!ENTITY accountManagerCmd.accesskey "P">
-
 <!-- View menu items -->
+
 <!ENTITY showComposeToolbarCmd.label "Barra d'eines de la Missatgeria">
 <!ENTITY showComposeToolbarCmd.accesskey "r">
 <!ENTITY showFormatToolbarCmd.label "Barra de format">
 <!ENTITY showFormatToolbarCmd.accesskey "f">
-
 <!-- Format menu items -->
+
 <!ENTITY formatMenu.label "Format">
 <!ENTITY formatMenu.accesskey "o">
-
 <!-- Options menu items -->
+
 <!ENTITY optionsMenu.label "Opcions">
 <!ENTITY optionsMenu.accesskey "p">
 
@@ -105,7 +105,7 @@
 <!ENTITY returnReceiptMenu.label "Confirmació de recepció">
 <!ENTITY returnReceiptMenu.accesskey "r">
 <!ENTITY outputFormatMenu.label "Format">
-<!ENTITY outputFormatMenu.accesskey "F">
+<!ENTITY outputFormatMenu.accesskey  "F">
 <!ENTITY autoFormatCmd.label "Detecció automàtica">
 <!ENTITY autoFormatCmd.accesskey "a">
 <!ENTITY plainTextFormatCmd.label "Només text net">
@@ -113,24 +113,23 @@
 <!ENTITY htmlFormatCmd.label "Només text enriquit (HTML)">
 <!ENTITY htmlFormatCmd.accesskey "r">
 <!ENTITY bothFormatCmd.label "Text senzill i enriquit (HTML)">
-<!ENTITY bothFormatCmd.accesskey "l">
-
+<!ENTITY bothFormatCmd.accesskey "L">
 
 <!ENTITY fileCarbonCopyCmd.label "Envia una còpia a">
 <!ENTITY fileCarbonCopyCmd.accesskey "i">
 <!ENTITY fileHereMenu.label "Arxiva'l aquí">
-
 <!--LOCALIZATION NOTE Toolbar items Don't change any "chrome://" URLs -->
 <!-- Toolbar items -->
+
 <!ENTITY sendButton.label "Envia">
 <!ENTITY addressButton.label "Adreça">
 <!ENTITY attachButton.label "Adjunta">
 <!ENTITY spellingButton.label "Ortografia">
 <!ENTITY saveButton.label "Desa">
 <!ENTITY stopButton.label "Atura">
-
 <!--tooltips-->
 <!-- We already inherit &menuBar.tooltip and &mailToolbar.tooltip from messenger.dtd -->
+
 <!ENTITY addressBar.tooltip "Barra d'adreces">
 <!ENTITY formatToolbar.tooltip "Barra de format">
 <!ENTITY sendButton.tooltip "Envia ara aquest missatge">
@@ -138,9 +137,9 @@
 <!ENTITY addressButton.tooltip "Seleccioneu un destinatari d'una Llibreta d'adreces">
 <!ENTITY attachButton.tooltip "Adjunta un fitxer a aquest missatge">
 <!ENTITY saveButton.tooltip "Desa aquest missatge">
-<!ENTITY stopButton.tooltip "Atura la transferència actual"> 
-
+<!ENTITY stopButton.tooltip "Atura la transferència actual">
 <!-- context menu items -->
+
 <!ENTITY spellCheckNoSuggestions.label "No s'ha trobat cap suggeriment">
 <!ENTITY spellCheckIgnoreWord.label "Ignora la paraula">
 <!ENTITY spellCheckIgnoreWord.accesskey "I">
@@ -148,6 +147,7 @@
 <!ENTITY spellCheckAddToDictionary.accesskey "n">
 <!ENTITY pasteQuote.label "Enganxa com a cita">
 <!ENTITY pasteQuote.accesskey "i">
+
 <!ENTITY openAttachment.label "Obre">
 <!ENTITY openAttachment.accesskey "O">
 <!ENTITY renameAttachment.label "Reanomena…">

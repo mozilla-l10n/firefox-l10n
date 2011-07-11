@@ -4,8 +4,8 @@
 
 <!ENTITY  columnLabel.name          "Nom">
 <!ENTITY  columnLabel.keyword       "Paraula clau">
-
 <!-- Buttons -->
+
 <!ENTITY  up.label                  "Mou amunt">
 <!ENTITY  up.accesskey              "u">
 <!ENTITY  dn.label                  "Mou avall">

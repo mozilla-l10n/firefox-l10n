@@ -1,12 +1,15 @@
 <!-- extracted from content/openLocation.xul -->
 
 <!ENTITY enter.label "Introduïu la ubicació web (URL) o indiqueu el fitxer local que voleu obrir:">
+<!-- LOCALIZATION NOTE (enter.accesskey): should be present in both enter.label
+     as defined above and attachEnterLabel as defined in
+     openLocation.properties -->
 <!ENTITY enter.accesskey "I">
 <!ENTITY chooseFile.label "Trieu un fitxer...">
 <!ENTITY chooseFile.accesskey "T">
 <!ENTITY newWindow.label "Nova finestra del Navegador">
 <!ENTITY newTab.label "Nova pestanya del navegador">
-<!ENTITY topWindow.label "Finestra actual del Mozilla">
+<!ENTITY currentTab.label "Pestanya actual del navegador">
 <!ENTITY editNewWindow.label "Nova finestra del redactor">
 <!ENTITY open.label "Obre">
 <!ENTITY caption.label "Obre una ubicació web">

@@ -35,9 +35,5 @@
    -
    - ***** END LICENSE BLOCK ***** -->
 
-<!-- Catalan Translation: Projecte Mozilla en català - Softcatalà - http://www.softcatala.org/projectes/mozilla/ -->
-
-
-<!-- hopefully this will become view zoom, not just text zoom -->
 <!ENTITY askViewZoom.title "Zoom del text">
 <!ENTITY selectZoom.label "Seleccioneu el zoom del text (&#37;):">

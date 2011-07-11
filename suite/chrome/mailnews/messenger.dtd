@@ -22,6 +22,7 @@
  Contributor(s):
     Karsten Düsterloh <mnyromyr@tprac.de>
     Jeremy Morton <bugzilla@game-point.net>
+    Ian Neal <iann_bugzilla@blueyonder.co.uk>
 
  Alternatively, the contents of this file may be used under the terms of
  either of the GNU General Public License Version 2 or later (the "GPL"),
@@ -40,17 +41,17 @@
 <!ENTITY messengerWindow.title "Missatgeria">
 <!ENTITY titleModifier.label "&brandShortName;">
 <!ENTITY titleSeparator.label " - ">
-
 <!-- tabmail -->
+
 <!ENTITY tabmailClose.label "Tanca la pestanya">
 <!ENTITY tabmailClose.tooltip "Tanca la pestanya">
 <!ENTITY tabmailNewButton.tooltip "Duplica la pestanya actual">
 <!ENTITY tabmailCloseButton.tooltip "Tanca la pestanya actual">
 <!ENTITY tabmailAllTabs.tooltip "Llista totes les pestanyes">
-
 <!-- menu items:  the . means that the menu item isn't implemented yet -->
+<!-- File menu items -->
 
-<!-- File Menu -->
+
 <!ENTITY newMessage.label "Missatge nou">
 <!ENTITY newMessage.accesskey "n">
 <!ENTITY newFolderCmd.label "Carpeta…">
@@ -91,13 +92,11 @@
 <!ENTITY subscribeCmd.label "Subscriu-me a un grup de discussió…">
 <!ENTITY subscribeCmd.accesskey "b">
 <!ENTITY renameFolder.label "Reanomena la carpeta…">
-<!ENTITY renameFolder.accesskey "r">
+<!ENTITY renameFolder.accesskey "R">
 <!ENTITY compactFolders.label "Compacta les carpetes">
-<!ENTITY compactFolders.accesskey "t">
+<!ENTITY compactFolders.accesskey  "t">
 <!ENTITY emptyTrashCmd.label "Buida la paperera">
-<!ENTITY emptyTrashCmd.accesskey "d">
-<!ENTITY importCmd.label "Importa…">
-<!ENTITY importCmd.accesskey "I">
+<!ENTITY emptyTrashCmd.accesskey  "d">
 <!ENTITY offlineMenu.label "Fora de línia">
 <!ENTITY offlineMenu.accesskey "F">
 <!ENTITY synchronizeOfflineCmd.label "Baixa/sincronitza ara…">
@@ -115,23 +114,18 @@
 <!ENTITY printPreviewCmd.accesskey "l">
 <!ENTITY printSetupCmd.label "Configuració de la pàgina…">
 <!ENTITY printSetupCmd.accesskey "g">
-
-<!-- Folder Pane -->
-<!ENTITY nameColumn.label "Nom">
-<!ENTITY unreadColumn.label "Per llegir">
-<!ENTITY totalColumn.label "Total">
-
 <!-- Edit Menu -->
+
 <!ENTITY deleteMsgCmd.label "Suprimeix el missatge">
 <!ENTITY deleteMsgCmd.accesskey "u">
 <!ENTITY undeleteMsgCmd.label "Recupera el missatge esborrat">
 <!ENTITY undeleteMsgCmd.accesskey "b">
+<!ENTITY cancelNewsMsgCmd.label "Canceŀla el missatge">
+<!ENTITY cancelNewsMsgCmd.accesskey "C">
 <!ENTITY deleteMsgsCmd.label "Suprimeix els missatges seleccionats">
 <!ENTITY deleteMsgsCmd.accesskey "u">
 <!ENTITY undeleteMsgsCmd.label "Recupera els missatges esborrats seleccionats">
 <!ENTITY undeleteMsgsCmd.accesskey "m">
-<!ENTITY cancelNewsMsgCmd.label "Canceŀla el missatge">
-<!ENTITY cancelNewsMsgCmd.accesskey "C">
 <!ENTITY deleteFolderCmd.label "Suprimeix la carpeta">
 <!ENTITY deleteFolderCmd.accesskey "x">
 <!ENTITY unsubscribeNewsgroupCmd.label "Canceŀla la subscripció">
@@ -146,7 +140,7 @@
 <!ENTITY folderPropsCmd.label "Propietats…">
 <!ENTITY folderPropsFolderCmd.label "Propietats de la carpeta…">
 <!ENTITY folderPropsNewsgroupCmd.label "Propietats del grup de discussió…">
-<!ENTITY folderPropsCmd.accesskey "p">
+<!ENTITY folderPropsCmd.accesskey "P">
 <!ENTITY accountManagerCmd.label "Paràmetres dels comptes…">
 <!ENTITY accountManagerCmd.accesskey "P">
 <!ENTITY undoDeleteMsgCmd.label "Desfés Suprimeix el missatge">
@@ -159,12 +153,11 @@
 <!ENTITY redoMarkAllCmd.label "Refés marcar-ho tot com a llegit">
 <!ENTITY undoDefaultCmd.label "Desfés">
 <!ENTITY redoDefaultCmd.label "Refés">
-
 <!-- View Menu -->
+
 <!ENTITY showMessengerToolbarCmd.label "Barra d'eines de la Missatgeria">
 <!ENTITY showMessengerToolbarCmd.accesskey "r">
-
-<!ENTITY showSearchToolbarCmd.label             "Barra de cerca">
+<!ENTITY showSearchToolbarCmd.label "Barra de cerca">
 <!ENTITY showSearchToolbarCmd.accesskey "e">
 
 <!ENTITY messagePaneLayoutStyle.label "Format">
@@ -181,20 +174,19 @@
 <!ENTITY showThreadPaneCmd.accesskey "c">
 <!ENTITY showFolderPaneCmd.label "Subfinestra de les carpetes">
 <!ENTITY showFolderPaneCmd.accesskey "f">
+<!-- sortMenu is also used by addressbook -->
 
-<!-- Sort Menu -->
 <!ENTITY sortMenu.label "Ordena">
 <!ENTITY sortMenu.accesskey "d">
+
 <!ENTITY sortByDateCmd.label "Data">
 <!ENTITY sortByDateCmd.accesskey "t">
 <!ENTITY sortByReceivedCmd.label "Recepció">
 <!ENTITY sortByReceivedCmd.accesskey "R">
-<!ENTITY sortByAttachmentsCmd.label "Adjuncions">
-<!ENTITY sortByAttachmentsCmd.accesskey "j">
-<!ENTITY sortByPriorityCmd.label "Prioritat">
-<!ENTITY sortByPriorityCmd.accesskey "P">
 <!ENTITY sortByFlagCmd.label "Destacat">
 <!ENTITY sortByFlagCmd.accesskey "s">
+<!ENTITY sortByPriorityCmd.label "Prioritat">
+<!ENTITY sortByPriorityCmd.accesskey "P">
 <!ENTITY sortBySizeCmd.label "Mida">
 <!ENTITY sortBySizeCmd.accesskey "M">
 <!ENTITY sortByStatusCmd.label "Estat">
@@ -213,6 +205,8 @@
 <!ENTITY sortByUnreadCmd.accesskey "l">
 <!ENTITY sortByOrderReceivedCmd.label "Ordre de recepció">
 <!ENTITY sortByOrderReceivedCmd.accesskey "r">
+<!ENTITY sortByAttachmentsCmd.label "Adjuncions">
+<!ENTITY sortByAttachmentsCmd.accesskey "j">
 <!ENTITY sortAscending.label "Ascendent">
 <!ENTITY sortAscending.accesskey "A">
 <!ENTITY sortDescending.label "Descendent">
@@ -230,7 +224,7 @@
 <!ENTITY allMsgsCmd.label "Tots">
 <!ENTITY allMsgsCmd.accesskey "o">
 <!ENTITY expandAllThreadsCmd.label "Expandeix totes les cadenes">
-<!ENTITY expandAllThreadsCmd.accesskey "e">
+<!ENTITY expandAllThreadsCmd.accesskey "E">
 <!ENTITY expandAllThreadsCmd.key "*">
 <!ENTITY collapseAllThreadsCmd.label "Redueix totes les cadenes">
 <!ENTITY collapseAllThreadsCmd.accesskey "c">
@@ -243,6 +237,7 @@
 <!ENTITY watchedThreadsWithUnreadCmd.accesskey "v">
 <!ENTITY ignoredThreadsCmd.label "Cadenes ignorades">
 <!ENTITY ignoredThreadsCmd.accesskey "i">
+
 <!ENTITY headersMenu.label "Capçaleres">
 <!ENTITY headersMenu.accesskey "l">
 <!ENTITY headersAllCmd.label "Totes">
@@ -258,9 +253,6 @@
 <!ENTITY bodyAsPlaintext.label "Text net">
 <!ENTITY bodyAsPlaintext.accesskey "T">
 
-<!ENTITY viewAttachmentsInlineCmd.label "Visualitza les adjuncions en línia">
-<!ENTITY viewAttachmentsInlineCmd.accesskey "V">
-
 <!ENTITY bodyMenuFeed.label "Cos del missatge del canal">
 <!ENTITY bodyMenuFeed.accesskey "C">
 <!ENTITY viewFeedWebPage.label "Pàgina web">
@@ -270,7 +262,8 @@
 <!ENTITY viewFeedSummaryFeedPropsPref.label "Format per defecte">
 <!ENTITY viewFeedSummaryFeedPropsPref.accesskey "d">
 
-
+<!ENTITY viewAttachmentsInlineCmd.label "Visualitza les adjuncions en línia">
+<!ENTITY viewAttachmentsInlineCmd.accesskey "V">
 <!ENTITY reloadCmd.label "Actualitza">
 <!ENTITY reloadCmd.accesskey "z">
 <!ENTITY stopCmd.label "Atura">
@@ -290,13 +283,9 @@
 <!ENTITY findPrevCmd.accesskey "n">
 <!ENTITY findPrevCmd.key "g">
 <!ENTITY findPrevCmd.key2 "VK_F3">
-<!ENTITY searchMailCmd.label "Cerca els missatges…">
-<!ENTITY searchMailCmd.accesskey "e">
-<!ENTITY searchMailCmd.key "f">
-<!ENTITY searchAddressesCmd.label "Cerca les adreces…">
-<!ENTITY searchAddressesCmd.accesskey "d">
-
 <!-- Go Menu -->
+
+
 <!ENTITY goMenu.label "Vés">
 <!ENTITY goMenu.accesskey "s">
 <!ENTITY nextMenu.label "Següent">
@@ -320,16 +309,18 @@
 <!ENTITY prevUnreadMsgCmd.label "Missatge per llegir">
 <!ENTITY prevUnreadMsgCmd.accesskey "p">
 <!ENTITY prevUnreadMsgCmd.key "p">
-<!ENTITY goForwardCmd.label "Endavant">
-<!ENTITY goForwardCmd.accesskey "d">
-<!ENTITY goForwardCmd.commandKey "]">
 <!ENTITY goBackCmd.label "Enrere">
 <!ENTITY goBackCmd.accesskey "r">
 <!ENTITY goBackCmd.commandKey "[">
+<!ENTITY goForwardCmd.label "Endavant">
+<!ENTITY goForwardCmd.accesskey "d">
+<!ENTITY goForwardCmd.commandKey "]">
 <!ENTITY prevFlaggedMsgCmd.label "Missatge destacat">
 <!ENTITY prevFlaggedMsgCmd.accesskey "s">
 <!ENTITY startPageCmd.label "Pàgina d'inici de la Missatgeria">
 <!ENTITY startPageCmd.accesskey "s">
+<!-- Message Menu -->
+
 <!ENTITY msgMenu.label "Missatge">
 <!ENTITY msgMenu.accesskey "M">
 <!ENTITY newMsgCmd.label "Missatge nou">
@@ -340,7 +331,7 @@
 <!ENTITY replyMsgCmd.accesskey "R">
 <!ENTITY replyMsgCmd.key "r">
 <!ENTITY replySenderCmd.label "Respon només al remitent">
-<!ENTITY replySenderCmd.accesskey "r">
+<!ENTITY replySenderCmd.accesskey "R">
 <!ENTITY replyNewsgroupCmd.label "Respon al grup de discussió">
 <!ENTITY replyNewsgroupCmd.accesskey "g">
 <!ENTITY replyToAllMsgCmd.label "Respon a tots">
@@ -362,18 +353,19 @@
 <!ENTITY editMsgAsNewCmd.label "Edita el missatge com si fos nou">
 <!ENTITY editMsgAsNewCmd.accesskey "d">
 <!ENTITY editMsgAsNewCmd.key "e">
-<!ENTITY contextArchive.label "Arxiu">
-<!ENTITY contextArchive.accesskey "A">
 <!ENTITY createFilter.label "Crea un filtre…">
 <!ENTITY createFilter.accesskey "a">
+<!ENTITY archiveMsgCmd.label "Arxiu">
+<!ENTITY archiveMsgCmd.accesskey "A">
+<!ENTITY archiveMsgCmd.key "a">
 <!ENTITY moveMsgToMenu.label "Mou">
 <!ENTITY moveMsgToMenu.accesskey "u">
-<!ENTITY moveCopyMsgRecentMenu.label "Recent">
-<!ENTITY moveCopyMsgRecentMenu.accesskey "R">
 <!ENTITY copyMessageLocation.label "Copia la ubicació del missatge">
 <!ENTITY copyMessageLocation.accesskey "m">
 <!ENTITY copyMsgToMenu.label "Copia a">
 <!ENTITY copyMsgToMenu.accesskey "C">
+<!ENTITY moveCopyMsgRecentMenu.label "Recent">
+<!ENTITY moveCopyMsgRecentMenu.accesskey "R">
 <!ENTITY killThreadMenu.label "Ignora la conversa">
 <!ENTITY killThreadMenu.accesskey "g">
 <!ENTITY killThreadMenu.key "k">
@@ -443,12 +435,13 @@
 <!ENTITY openFeedSummaryInWindow.accesskey "R">
 <!ENTITY openFeedWebPageInMP.label "Commuta la pàgina web i el resum en el quadre de missatges">
 <!ENTITY openFeedWebPageInMP.accesskey "q">
-
 <!-- Tools Menu -->
-<!ENTITY runJunkControls.label "Executa els controls de brossa a la carpeta">
-<!ENTITY runJunkControls.accesskey "u">
-<!ENTITY deleteJunk.label "Suprimeix la brossa de la carpeta">
-<!ENTITY deleteJunk.accesskey "x">
+
+<!ENTITY searchMailCmd.label "Cerca els missatges…">
+<!ENTITY searchMailCmd.accesskey "e">
+<!ENTITY searchMailCmd.key "f">
+<!ENTITY searchAddressesCmd.label "Cerca les adreces…">
+<!ENTITY searchAddressesCmd.accesskey "d">
 <!ENTITY filtersCmd.label "Filtres de missatge…">
 <!ENTITY filtersCmd.accesskey "F">
 <!ENTITY filtersApply.label "Executa els filtres en la carpeta">
@@ -457,17 +450,25 @@
 <!ENTITY filtersApplyToSelection.accesskey "s">
 <!ENTITY filtersApplyToMessage.label "Executa els filtres en el missatge">
 <!ENTITY filtersApplyToMessage.accesskey "s">
+<!ENTITY runJunkControls.label "Executa els controls de brossa a la carpeta">
+<!ENTITY runJunkControls.accesskey "u">
+<!ENTITY deleteJunk.label "Suprimeix la brossa de la carpeta">
+<!ENTITY deleteJunk.accesskey "x">
+<!ENTITY importCmd.label "Importa…">
+<!ENTITY importCmd.accesskey "I">
+<!-- Folder Pane -->
 
-<!-- Mail Toolbar -->
+<!ENTITY nameColumn.label "Nom">
+<!ENTITY unreadColumn.label "Per llegir">
+<!ENTITY totalColumn.label "Total">
+<!-- Toolbar items -->
+
 <!ENTITY getMsgButton.label "Recupera">
 <!ENTITY newMsgButton.label "Redacta">
 <!ENTITY newHTMLMessageCmd.label "Redacta-ho amb HTML">
 <!ENTITY newHTMLMessageCmd.accesskey "H">
 <!ENTITY newPlainTextMessageCmd.label "Redacta-ho amb text clar">
 <!ENTITY newPlainTextMessageCmd.accesskey "c">
-<!ENTITY archiveMsgCmd.label "Arxiu">
-<!ENTITY archiveMsgCmd.accesskey "A">
-<!ENTITY archiveMsgCmd.key "a">
 <!ENTITY replyButton.label "Respon">
 <!ENTITY replyAllButton.label "Respon a tots">
 <!ENTITY forwardButton.label "Reenvia">
@@ -483,8 +484,8 @@
 <!ENTITY junkButton.label "Correu brossa">
 <!ENTITY notJunkButton.label "És correu legítim">
 <!ENTITY searchButton.title "Cerca avançada">
+<!-- Tooltips -->
 
-<!-- Mail Toolbar Tooltips-->
 <!ENTITY menuBar.tooltip "Barra del menú">
 <!ENTITY mailToolbar.tooltip "Barra del correu">
 <!ENTITY searchToolbar.tooltip "Barra de cerca">
@@ -497,8 +498,8 @@
 <!ENTITY forwardButton.tooltip "Reenvia el missatge seleccionat">
 <!ENTITY fileButton.tooltip "Arxiva el missatge seleccionat">
 <!ENTITY nextButton.tooltip "Vés al següent missatge per llegir">
-<!ENTITY goForwardButton.tooltip "Vés endavant un missatge">
 <!ENTITY goBackButton.tooltip "Vés enrere un missatge">
+<!ENTITY goForwardButton.tooltip "Vés endavant un missatge">
 <!ENTITY deleteButton.tooltip "Suprimeix el missatge o carpeta seleccionada">
 <!ENTITY undeleteButton.tooltip "Recupera els missatges suprimits seleccionats">
 <!ENTITY markButton.tooltip "Marca els missatges">
@@ -507,11 +508,45 @@
 <!ENTITY throbber.tooltip "Vés a la pàgina d'inici de &vendorShortName;">
 <!ENTITY junkButton.tooltip "Marca els missatges seleccionats com a brossa">
 <!ENTITY notJunkButton.tooltip "Marca els missatges seleccionats com a legítims">
-
 <!-- Statusbar -->
-<!ENTITY  statusText.label "Fet">
 
+<!ENTITY  statusText.label "Fet">
+<!-- Thread Pane Context Menu -->
+
+<!ENTITY contextOpenNewWindow.label "Obre el missatge en una finestra nova">
+<!ENTITY contextOpenNewWindow.accesskey "f">
+<!ENTITY contextOpenNewTab.label "Obre els missatges en una nova pestanya">
+<!ENTITY contextOpenNewTab.accesskey "p">
+<!ENTITY contextEditAsNew.label "Edita'l com si fos nou…">
+<!ENTITY contextEditAsNew.accesskey "E">
+<!ENTITY contextReplySender.label "Respon només al remitent">
+<!ENTITY contextReplySender.accesskey "R">
+<!ENTITY contextReplyNewsgroup.label "Respon al grup de discussió">
+<!ENTITY contextReplyNewsgroup.accesskey "g">
+<!ENTITY contextReplyAll.label "Respon a tots">
+<!ENTITY contextReplyAll.accesskey "p">
+<!ENTITY contextReplySenderAndNewsgroup.label "Respon al remitent i al grup de discussió">
+<!ENTITY contextReplySenderAndNewsgroup.accesskey "p">
+<!ENTITY contextForward.label "Reenvia">
+<!ENTITY contextForward.accesskey "v">
+<!ENTITY contextForwardAsAttachment.label "Reenvia com a adjuncions">
+<!ENTITY contextForwardAsAttachment.accesskey "e">
+<!ENTITY contextArchive.label "Arxiu">
+<!ENTITY contextArchive.accesskey "A">
+<!ENTITY contextMoveMsgMenu.label "Mou a">
+<!ENTITY contextMoveMsgMenu.accesskey "o">
+<!ENTITY contextCopyMsgMenu.label "Copia a">
+<!ENTITY contextCopyMsgMenu.accesskey "C">
+<!ENTITY contextMoveCopyMsgRecentMenu.label "Recent">
+<!ENTITY contextMoveCopyMsgRecentMenu.accesskey "R">
+<!ENTITY contextSaveAs.label "Anomena i desa…">
+<!ENTITY contextSaveAs.accesskey "s">
+<!ENTITY contextPrint.label "Imprimeix…">
+<!ENTITY contextPrint.accesskey "I">
+<!ENTITY contextPrintPreview.label "Exemple d'impressió">
+<!ENTITY contextPrintPreview.accesskey "E">
 <!-- Folder Pane Context Menu -->
+
 <!ENTITY folderContextGetMessages.label "Obté els missatges del compte">
 <!ENTITY folderContextGetMessages.accesskey "m">
 <!ENTITY folderContextOpenNewWindow.label "Obre">
@@ -527,7 +562,7 @@
 <!ENTITY folderContextEmptyTrash.label "Buida la paperera">
 <!ENTITY folderContextEmptyTrash.accesskey "d">
 <!ENTITY folderContextEmptyJunk.label "Buida la brossa">
-<!ENTITY folderContextEmptyJunk.accesskey "b">
+<!ENTITY folderContextEmptyJunk.accesskey "B">
 <!ENTITY folderContextSendUnsentMessages.label "Envia els missatges per enviar">
 <!ENTITY folderContextSendUnsentMessages.accesskey "v">
 <!ENTITY folderContextUnsubscribe.label "Canceŀla la subscripció">
@@ -543,46 +578,12 @@
 <!ENTITY folderContextSearchMessages.label "Cerca…">
 <!ENTITY folderContextSearchMessages.accesskey "e">
 <!ENTITY folderContextProperties.label "Propietats…">
-<!ENTITY folderContextProperties.accesskey "p">
+<!ENTITY folderContextProperties.accesskey "P">
 <!ENTITY folderContextSettings.label "Paràmetres…">
 <!ENTITY folderContextSettings.accesskey "e">
-
-
-<!-- Thread Pane Context Menu -->
-<!ENTITY contextOpenNewWindow.label "Obre el missatge en una finestra nova">
-<!ENTITY contextOpenNewWindow.accesskey "f">
-<!ENTITY contextOpenNewTab.label "Obre els missatges en una nova pestanya">
-<!ENTITY contextOpenNewTab.accesskey "p">
-<!ENTITY contextEditAsNew.label "Edita'l com si fos nou…">
-<!ENTITY contextEditAsNew.accesskey "E">
-<!ENTITY contextReplySender.label "Respon només al remitent">
-<!ENTITY contextReplySender.accesskey "r">
-<!ENTITY contextReplyNewsgroup.label "Respon al grup de discussió">
-<!ENTITY contextReplyNewsgroup.accesskey "g">
-<!ENTITY contextReplyAll.label "Respon a tots">
-<!ENTITY contextReplyAll.accesskey "p">
-<!ENTITY contextReplySenderAndNewsgroup.label "Respon al remitent i al grup de discussió">
-<!ENTITY contextReplySenderAndNewsgroup.accesskey "p">
-<!ENTITY contextForward.label "Reenvia">
-<!ENTITY contextForward.accesskey "v">
-<!ENTITY contextForwardAsAttachment.label "Reenvia com a adjuncions">
-<!ENTITY contextForwardAsAttachment.accesskey "e">
-<!ENTITY contextMoveMsgMenu.label "Mou a">
-<!ENTITY contextMoveMsgMenu.accesskey "o">
-<!ENTITY contextMoveCopyMsgRecentMenu.label "Recent">
-<!ENTITY contextMoveCopyMsgRecentMenu.accesskey "R">
-<!ENTITY contextCopyMsgMenu.label "Copia a">
-<!ENTITY contextCopyMsgMenu.accesskey "C">
-<!ENTITY contextSaveAs.label "Anomena i desa…">
-<!ENTITY contextSaveAs.accesskey "s">
-<!ENTITY contextPrint.label "Imprimeix…">
-<!ENTITY contextPrint.accesskey "I">
-<!ENTITY contextPrintPreview.label "Exemple d'impressió">
-<!ENTITY contextPrintPreview.accesskey "e">
-
 <!-- focusSearchInput.key also used by addressbook -->
-<!ENTITY focusSearchInput.key "k">
 
+<!ENTITY focusSearchInput.key "k">
 <!ENTITY advancedButton.label "Avançat…">
 <!ENTITY advancedButton.accesskey "A">
 <!ENTITY searchButton.label "Cerca missatges…">
@@ -590,21 +591,21 @@
 
 <!ENTITY all.label "Tot">
 <!ENTITY all.accesskey "T">
-
 <!-- Junk Bar -->
+
 <!ENTITY junkBarMessage.label "El &brandShortName; pensa que es tracta de correu brossa.">
 <!ENTITY junkBarButton.label "No és cap correu brossa">
 <!ENTITY junkInfoButton.label "?">
-
 <!-- Remote Content Bar -->
+
 <!ENTITY remoteContentMessage.label "Per a protegir la vostra privadesa, el &brandShortName; ha blocat el contingut remot d'aquest missatge.">
 <!ENTITY loadRemoteContentButton.label "Mostra el contingut remot">
-
 <!-- Phishing Bar -->
+
 <!ENTITY phishingBarMessage.label "El &brandShortName; pensa que Aquest missatge podria ser fradulent.">
 <!ENTITY removePhishingBarButton.label "No és cap missatge fraudulent">
-
 <!-- MDN Bar -->
+
 <!ENTITY mdnBarMessage.label "El remitent d'aquest missatge ha demanat que se li enviï una notificació quan hàgiu llegit aquest missatge. Voleu que se li enviï la notificació?">
 <!ENTITY mdnBarIgnoreButton.label "Ignora la petició">
 <!ENTITY mdnBarSendButton.label "Envia la notificació">
