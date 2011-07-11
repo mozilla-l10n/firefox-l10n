@@ -111,5 +111,6 @@
 <!ENTITY pageactions.findInPage      "Hľadať na stránke">
 <!ENTITY pageactions.search.addNew   "Pridať vyhľadávací modul">
 <!ENTITY pageactions.charEncoding    "Kódovanie">
+<!ENTITY pageactions.webapps.install "Nainštalovať ako aplikáciu">
 
 <!ENTITY appMenu.siteOptions         "Nastavenia stránky">
