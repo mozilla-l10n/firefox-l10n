@@ -22,9 +22,7 @@
 <!ENTITY password.manage                 "Rianaich na faclan-faire…">
 
 <!ENTITY cookie.label                    "Suidhich briosgaidean">
-<!ENTITY cookie.clear                    "Falamhaich na briosgaidean">
 <!ENTITY cookie.manage                   "Rianaich na briosgaidean…">
-<!ENTITY cookie.clearAll                 "Falamhaich a h-uile briosgaid">
 
 <!ENTITY geo.label                       "Nochd d' àite">
 

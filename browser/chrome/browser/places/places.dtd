@@ -28,10 +28,12 @@
 <!ENTITY cmd.findCurrent.label          "Lorg sa chruinneachadh làithreach…">
 <!ENTITY cmd.findCurrent.accesskey      "i">
 
-<!ENTITY cmd.exportHTML.label           "Às-phortaich HTML…">
-<!ENTITY cmd.exportHTML.accesskey       "s">
-<!ENTITY cmd.importHTML.label           "Ion-phortaich HTML…">
-<!ENTITY cmd.importHTML.accesskey       "I">
+<!ENTITY importBookmarksFromHTML.label     "Ion-phortaich comharran-lìn o HTML…">
+<!ENTITY importBookmarksFromHTML.accesskey "I">
+<!ENTITY exportBookmarksToHTML.label       "Às-phortaich comharran-lìn ann an HTML…">
+<!ENTITY exportBookmarksToHTML.accesskey   "o">
+<!ENTITY importOtherBrowser.label          "Ion-phortaich dàta o bhraibhsair eile…">
+<!ENTITY importOtherBrowser.accesskey      "d">
 
 <!ENTITY cmd.backup.label               "Dèan lethbhreac glèidhidh…">
 <!ENTITY cmd.backup.accesskey           "b">

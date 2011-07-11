@@ -29,15 +29,6 @@
 <!ENTITY netInterrupt.longDesc "&sharedLongDesc;">
 
 <!ENTITY netOffline.title "Am modh far loidhne">
-<!-- LOCALIZATION NOTE (netOffline.overrideLongDesc) - This string should
-     indicate that "Work Offline" is a menu item without being too specific,
-     since it could be in either the normal menu (Mac/Linux) or the Firefox button
-     menu (Windows).
--->
-<!ENTITY netOffline.overrideLongDesc "<ul>
-  <li>Thoir a' chromag o &quot;Obraich far loidhne&quot; is feuch ris a-rithist an uairsin.</li>
-</ul>
-">
 
 <!ENTITY contentEncodingError.title "Mearachd le còdachadh na susbaint">
 <!ENTITY contentEncodingError.longDesc "<ul> <li>Nach leig thu fios air an duilgheadas seo gun fheadhainn aig a bheil an làrach-lìn?</li> </ul>">
