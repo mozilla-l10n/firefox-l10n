@@ -4,7 +4,6 @@
 <!ENTITY rights.pagetitle       "about:rights">
 <!ENTITY rights.intro-header    "Conegueu els vostres drets">
 <!ENTITY rights.intro "El &brandFullName; és un programa de codi lliure desenvolupat per una comunitat de milers de persones d'arreu del món. En aquest sentit, hi ha unes quantes coses que cal que conegueu:">
-
 <!-- Note on pointa / pointb / pointc form:
      These points each have an embedded link in the HTML, so each point is
      split into chunks for text before the link, the link text, and the text
@@ -13,6 +12,7 @@
 
      Also note the leading/trailing whitespace in strings here, which is
      deliberate for formatting around the embedded links. -->
+
 <!ENTITY rights.intro-point1a "Podeu disposar del &brandShortName; sota els termes de la llicència ">
 <!ENTITY rights.intro-point1b "Mozilla Public License">
 <!ENTITY rights.intro-point1c ". Això vol dir que podeu utilitzar, copiar i distribuir el &brandShortName; a altres persones. També podeu modificar el codi del &brandShortName; com desitgeu. La llicència Mozilla Public License us dóna el dret de distribuir les versions modificades.">
@@ -20,33 +20,31 @@
 <!ENTITY rights.intro-point2a "Però Mozilla no us dóna cap dret sobre les marques Mozilla o Thunderbird o els seus logotips. Per a més informació sobre les marques consulteu  ">
 <!ENTITY rights.intro-point2b "aquí">
 <!ENTITY rights.intro-point2c ".">
-
 <!-- point 3 text for official branded builds -->
+
 <!ENTITY rights.intro-point3a "Les normes de privadesa dels productes &vendorShortName; les podeu trobar ">
 <!ENTITY rights.intro-point3b "aquí">
 <!ENTITY rights.intro-point3c ".">
-
-
 <!-- point 4 text for official branded builds -->
+
 <!ENTITY rights.intro-point4a "El &brandShortName; també ofereix serveis addicionals, com per exemple un servei d'actualització de complements; tot i així, no podem garantir tot funcioni el 100&#037; o que estigui lliure d'errors. Podeu trobar més detalls, inclosa la informació de com inhabilitar els serveis, en ">
 <!ENTITY rights.intro-point4b "els termes del servei">
 <!ENTITY rights.intro-point4c ".">
 
-
 <!ENTITY rights.webservices-header "Serveis del lloc web del &brandFullName;">
-
 <!-- Note that this paragraph references a couple of entities from
      preferences/security.dtd, so that we can refer to text the user sees in
      the UI, without this page being forgotten every time those strings are
      updated.  -->
 <!-- intro paragraph for branded builds -->
+
 <!ENTITY rights.webservices-a "El &brandFullName; ofereix serveis opcionals (&quot;Serveis&quot;), com el servei d'actualització de complements, que teniu disponible per a utilitzar-lo amb aquesta versió binària del &brandShortName; tal com es descriu a continuació. Si no voleu utilitzar els Serveis o no trobeu acceptables els termes següents, podeu inhabilitar el servei d'actualització de complements obrint les preferències de l'aplicació, i anant a la secció ">
 <!ENTITY rights.webservices-b "Avançat">
 <!ENTITY rights.webservices-c ", a continuació a la pestanya ">
 <!ENTITY rights.webservices-d "Actualització">
 <!ENTITY rights.webservices-e ", cal desmarcar les caselles de &quot;Comprova automàticament s'hi ha actualitzacions de&quot;.">
+<!-- points 1-6 text for branded builds -->
 
-<!-- points 1-7 text for branded builds -->
 <!ENTITY rights.webservices-term1 "&vendorShortName; pot discontinuar o canviar els Serveis en qualsevol moment.">
 <!ENTITY rights.webservices-term2 "Sou benvingut d'utilitzar aquests Serveis amb la versió corresponent del &brandShortName;, i teniu tot el dret de fer-ho. &vendorShortName; i els llicenciadors es reserven tots els demés drets del Servei. Aquests termes no intenten limitar cap dels drets que s'han donat amb la llicència de codi lliure aplicable al &brandShortName; i al corresponent codi font de les versions del &brandShortName;.">
 <!ENTITY rights.webservices-term3 "Els Serveis es presenten &quot;tal com són.&quot; &vendorShortName;, els seus col·laboradors, llicenciadors, i distribuïdors rebutgen donar qualsevol garantia, ja sigui expressa o implícita, inclosa qualsevol limitació o garantia comercial del Servei que responguin els vostres propòsit particulars. Així us feu el càrrec de tot el risc d'haver seleccionat els Serveis per als vostres propòsits, tant per la qualitat com pel rendiment del Servei. Algunes jurisdiccions no permeten l'exclusió o limitacions de les garanties implícites, per tant aquesta norma potser no us afecta.">

@@ -1,25 +1,24 @@
 <!-- extracted from tasksOverlay.xul -->
-<!-- LOCALIZATION NOTE (navigatorCmd.label): DONT_TRANSLATE -->  
-<!ENTITY navigatorCmd.label "Navegador">
-<!ENTITY navigatorCmd.accesskey "n">
+<!ENTITY navigatorCmd.label "n">
+<!ENTITY navigatorCmd.accesskey "B">
 <!ENTITY navigatorCmd.commandkey "1">
 <!-- LOCALIZATION NOTE (editorCmd.label): DONT_TRANSLATE -->
-<!ENTITY editorCmd.label "Redactor">
-<!ENTITY editorCmd.accesskey "c">
-<!ENTITY editorCmd.commandkey "4">
+<!ENTITY editorCmd.label     "Composer">
+<!ENTITY editorCmd.accesskey    "c">
+<!ENTITY editorCmd.commandkey    "4">
 
-<!ENTITY errorConsoleCmd.label "Consola d'errors">
-<!ENTITY errorConsoleCmd.accesskey "C">
-<!ENTITY errorConsoleCmd.commandkey				"j">
+<!ENTITY errorConsoleCmd.label                                  "Consola d'errors">
+<!ENTITY errorConsoleCmd.accesskey    "C">
+<!ENTITY errorConsoleCmd.commandkey    "j">
 
-<!ENTITY taskNavigator.tooltip "Navegador">
-<!ENTITY taskComposer.tooltip "Redactor">
+<!ENTITY taskNavigator.tooltip  "Navegador">
+<!ENTITY taskComposer.tooltip  "Redactor">
 
 <!ENTITY webDevelopment.label "Desenvolupament web">
-<!ENTITY webDevelopment.accesskey "W">
+<!ENTITY webDevelopment.accesskey "w">
 
 <!ENTITY windowMenu.label "Finestra">
-<!ENTITY windowMenu.accesskey "N">
+<!ENTITY windowMenu.accesskey "n">
 
 <!ENTITY tasksMenu.label "Eines">
 <!ENTITY tasksMenu.accesskey "n">

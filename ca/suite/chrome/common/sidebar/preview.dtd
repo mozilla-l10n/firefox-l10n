@@ -35,7 +35,4 @@
    -
    - ***** END LICENSE BLOCK ***** -->
 
-<!-- Catalan Translation: Projecte Mozilla en català - Softcatalà - http://www.softcatala.org/projectes/mozilla/ -->
-
-
-<!ENTITY sidebar.preview.title.label "Previsualització de la pestanya">
+<!ENTITY sidebar.preview.title.label          "Previsualització de la pestanya">

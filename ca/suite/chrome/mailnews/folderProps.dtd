@@ -38,15 +38,12 @@
    -
    - ***** END LICENSE BLOCK ***** -->
 
-<!-- Catalan Translation: Projecte Mozilla en català - Softcatalà - http://www.softcatala.org/projectes/mozilla/ -->
+<!ENTITY folderProps.windowtitle.label           "Propietats">
 
-
-<!ENTITY folderProps.windowtitle.label "Propietats">
-
-<!ENTITY generalInfo.label "Informació general">
-<!ENTITY folderCharsetTab.label "Codificació de caràcters per defecte:">
+<!ENTITY generalInfo.label                       "Informació general">
+<!ENTITY folderCharsetTab.label                  "Codificació de caràcters per defecte:">
 <!ENTITY folderCharsetTab.accesskey              "e">
-<!ENTITY folderCharsetOverride.label "Aplica el valor per defecte a tots els missatges (ignora el joc de caràcters indicat a la capçalera MIME)">
+<!ENTITY folderCharsetOverride.label             "Aplica el valor per defecte a tots els missatges (ignora el joc de caràcters indicat a la capçalera MIME)">
 <!ENTITY folderCharsetOverride.accesskey         "A">
 <!ENTITY folderRebuildSummaryFileTip2.label      "Reconstrueix el fitxer de resum">
 <!ENTITY folderRebuildSummaryFile2.label         "Repara la carpeta">
@@ -56,7 +53,7 @@
 <!ENTITY folderIncludeInGlobalSearch.accesskey   "g">
 
 <!ENTITY retention.label "Política de retenció">
-<!ENTITY retentionUseAccount.label  "Utilitza les meves opcions del compte">
+<!ENTITY retentionUseAccount.label "Utilitza les meves opcions del compte">
 <!ENTITY retentionUseAccount.accesskey "U">
 <!ENTITY daysOld.label "dies d'antiguitat">
 <!ENTITY message.label "missatges">
@@ -78,29 +75,28 @@
 <!ENTITY folderCheckForNewMessages2.label        "Quan es cerquin missatges nous per aquest compte, comprova sempre aquesta carpeta">
 <!ENTITY folderCheckForNewMessages2.accesskey    "c">
 
-<!ENTITY offlineFolder.check.label "Selecciona aquesta carpeta per al seu ús fora de línia">
+<!ENTITY offlineFolder.check.label               "Selecciona aquesta carpeta per al seu ús fora de línia">
 <!ENTITY offlineFolder.check.accesskey           "S">
-<!ENTITY offlineFolder.button.label "Baixa-ho ara">
+<!ENTITY offlineFolder.button.label              "Baixa-ho ara">
 <!ENTITY offlineFolder.button.accesskey          "B">
 
-<!ENTITY selectofflineNewsgroup.check.label "Selecciona aquest grup de discussió per al seu ús fora de línia">
+<!ENTITY selectofflineNewsgroup.check.label      "Selecciona aquest grup de discussió per al seu ús fora de línia">
 <!ENTITY selectofflineNewsgroup.check.accesskey  "o">
-<!ENTITY offlineNewsgroup.button.label "Baixa-ho ara">
+<!ENTITY offlineNewsgroup.button.label           "Baixa-ho ara">
 <!ENTITY offlineNewsgroup.button.accesskey       "B">
 
-<!ENTITY folderProps.name.label "Nom:">
+<!ENTITY folderProps.name.label                  "Nom:">
 <!ENTITY folderProps.name.accesskey              "N">
 <!ENTITY folderProps.location.label              "Ubicació:">
 <!ENTITY folderProps.location.accesskey          "U">
 
-
-<!ENTITY folderSharingTab.label "Compartició">
-<!ENTITY privileges.button.label "Privilegis">
+<!ENTITY folderSharingTab.label                  "Compartició">
+<!ENTITY privileges.button.label                 "Privilegis">
 <!ENTITY privileges.button.accesskey             "P">
-<!ENTITY permissionsDesc.label "Teniu els permisos següents:">
-<!ENTITY folderType.label "Tipus de carpeta:">
+<!ENTITY permissionsDesc.label                   "Teniu els permisos següents:">
+<!ENTITY folderType.label                        "Tipus de carpeta:">
 
-<!ENTITY folderQuotaTab.label "Quota">
-<!ENTITY folderQuotaRoot.label "Arrel de la quota:">
-<!ENTITY folderQuotaUsage.label "Utilització:">
-<!ENTITY folderQuotaStatus.label "Estat">
+<!ENTITY folderQuotaTab.label                    "Quota">
+<!ENTITY folderQuotaRoot.label                   "Arrel de la quota:">
+<!ENTITY folderQuotaUsage.label                  "Utilització:">
+<!ENTITY folderQuotaStatus.label                 "Estat">

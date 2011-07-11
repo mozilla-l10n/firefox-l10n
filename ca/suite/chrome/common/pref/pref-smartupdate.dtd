@@ -26,5 +26,4 @@
 <!ENTITY appModeAutoAddonWarn.label           "Avisa'm si s'inhabilitarà cap dels meus complements">
 <!ENTITY appModeAutoAddonWarn.accesskey       "n">
 <!ENTITY updateHistoryButton.label            "Mostra l'historial d'actualització…">
-<!ENTITY updateHistoryButton.accesskey        "S">
-
+<!ENTITY updateHistoryButton.accesskey        "s">

@@ -1,14 +1,15 @@
-<!ENTITY zoomEnlargeCmd.label "Més gran">
-<!ENTITY zoomEnlargeCmd.accesskey "g">
-<!ENTITY zoomEnlargeCmd.commandkey "+">
+<!ENTITY zoomEnlargeCmd.label       "Més gran">
+<!ENTITY zoomEnlargeCmd.accesskey   "g">
+<!ENTITY zoomEnlargeCmd.commandkey  "+">
+<!-- + is above this key on many keyboards -->
 <!ENTITY zoomEnlargeCmd.commandkey2 "=">
 
-<!ENTITY zoomReduceCmd.label "Més petit">
-<!ENTITY zoomReduceCmd.accesskey "e">
-<!ENTITY zoomReduceCmd.commandkey "-">
+<!ENTITY zoomReduceCmd.label        "Més petit">
+<!ENTITY zoomReduceCmd.accesskey    "e">
+<!ENTITY zoomReduceCmd.commandkey   "-">
 
-<!ENTITY zoomResetCmd.commandkey "0">
-
+<!ENTITY zoomResetCmd.commandkey    "0">
 <!-- see zoomOtherLabel in viewZoomOverlay.properties -->
-<!ENTITY zoomMenu.accesskey "t">
-<!ENTITY zoomOtherCmd.accesskey "t">
+
+<!ENTITY zoomMenu.accesskey         "t">
+<!ENTITY zoomOtherCmd.accesskey     "t">

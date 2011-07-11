@@ -1,7 +1,7 @@
 <!ENTITY serverAdvanced.label "Paràmetres avançats del compte">
 <!-- LOCALIZATION NOTE (serverDirectory.label): DONT_TRANSLATE "IMAP" -->
-<!ENTITY serverDirectory.label "Directori del servidor IMAP:">
-<!ENTITY serverDirectory.accesskey "D">
+<!ENTITY serverDirectory.label "IMAP server directory:">
+<!ENTITY serverDirectory.accesskey "d">
 <!ENTITY usingSubscription.label "Mostra només les carpetes subscrites">
 <!ENTITY usingSubscription.accesskey "o">
 <!ENTITY dualUseFolders.label "El servidor permet l'ús de carpetes que contenen subcarpetes i missatges">
@@ -11,7 +11,7 @@
 <!ENTITY maximumConnectionsNumber.label "Nombre màxim de connexions del servidor per posar a la memòria cau">
 <!ENTITY maximumConnectionsNumber.accesskey "m">
 <!-- LOCALIZATION NOTE (namespaceDesc.label): DONT_TRANSLATE "IMAP" -->
-<!ENTITY namespaceDesc.label "Aquestes preferències indiquen els espais de noms del servidor IMAP">
+<!ENTITY namespaceDesc.label "These preferences specify the namespaces on your IMAP server">
 <!ENTITY personalNamespace.label "Espai de noms personals:">
 <!ENTITY personalNamespace.accesskey "p">
 <!ENTITY publicNamespace.label "Públic (compartit):">
