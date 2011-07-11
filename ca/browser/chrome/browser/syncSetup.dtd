@@ -23,6 +23,8 @@
 
 <!-- New Account Page 1: Basic Account Info -->
 <!ENTITY setup.newAccountDetailsPage.title.label "Detalls del compte">
+<!ENTITY setup.choosePassword.label      "Escolliu una contrasenya">
+<!ENTITY setup.choosePassword.accesskey  "E">
 <!ENTITY setup.confirmPassword.label  "Confirmeu la contrasenya">
 <!ENTITY setup.confirmPassword.accesskey  "m">
 <!ENTITY setup.emailAddress.label     "Adreça electrònica">

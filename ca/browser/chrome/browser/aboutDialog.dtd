@@ -61,20 +61,4 @@
 <!ENTITY channel.description.start  "Esteu actualment al canal ">
 <!ENTITY channel.description.end    " d'actualitzacions. ">
 
-<!ENTITY channel.change             "Canvia">
 
-<!ENTITY channel.release.description       "Gaudiu de la provada i comprovada versió final que centenars de milions de persones utilitzen arreu del món. Tingueu control de l'experiència en línia amb alta velocitat, fàcil personalització i les darreres tecnologies web.">
-<!ENTITY channel.beta.description          "Experimenteu funcions d'avantguarda amb més estabilitat. Feu-ne comentaris per ajudar a refinar i polir el que serà la versió final.">
-<!ENTITY channel.aurora.description        "Experimenteu les darreres innovacions en un entorn inestable, tot i que no és per a patidors. Feu comentaris sobre les funcions i el rendiment per ajudar a determinar què s'inclourà a la versió final.">
-
-<!-- LOCALIZATION NOTE (channel.selector.start,channel.selector.end): channel.selector.start and
-     channel.selector.end create one sentence, with a channel selection menulist instered in between.
-     This is all in one line, so try to make the localized text short.
-     example: Switch to the [Stable] update channel. -->
-<!ENTITY channel.selector.start          "Canvia al canal">
-<!ENTITY channel.selector.end            "d'actualitzacions.">
-
-<!-- LOCALIZATION NOTE (channel.selector.applyButton): This button applies the user's choice to switch
-     to a new update channel and starts the application update process. -->
-<!ENTITY channel.selector.applyButton    "Aplica i actualitza">
-<!ENTITY channel.selector.cancelButton   "Cancel·la">

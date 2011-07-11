@@ -36,8 +36,6 @@
 <!-- addon updates -->
 <!ENTITY updates.checkForUpdates.label        "Comprova si hi ha actualitzacions">
 <!ENTITY updates.checkForUpdates.accesskey    "C">
-<!ENTITY updates.viewUpdates.label            "Visualitza les actualitzacions recents">
-<!ENTITY updates.viewUpdates.accesskey        "V">
 <!ENTITY updates.updateAddonsAutomatically.label        "Actualitza els complements automàticament">
 <!ENTITY updates.updateAddonsAutomatically.accesskey    "a">
 <!ENTITY updates.resetUpdatesToAutomatic.label       "Reinicia tots els complements perquè s'actualitzin automàticament">
@@ -182,3 +180,5 @@
 <!ENTITY eula.width                           "560px">
 <!ENTITY eula.height                          "400px">
 <!ENTITY eula.accept                          "Accepta'l i instal·la'l…">
+
+<!ENTITY settings.path.button.label           "Navega…">

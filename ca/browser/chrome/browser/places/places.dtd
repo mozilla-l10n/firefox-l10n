@@ -27,10 +27,14 @@
 <!ENTITY cmd.findInBookmarks.accesskey "r">
 <!ENTITY cmd.findCurrent.label "Cerca a la coŀlecció actual…">
 <!ENTITY cmd.findCurrent.accesskey "i">
-<!ENTITY cmd.exportHTML.label           "Exporta en HTML…">
-<!ENTITY cmd.exportHTML.accesskey       "E">
-<!ENTITY cmd.importHTML.label           "Importa en HTML…">
-<!ENTITY cmd.importHTML.accesskey       "I">
+
+<!ENTITY importBookmarksFromHTML.label     "Importa en HTML les adreces d'interès…">
+<!ENTITY importBookmarksFromHTML.accesskey "I">
+<!ENTITY exportBookmarksToHTML.label       "Export en HTML les adreces d'interès…">
+<!ENTITY exportBookmarksToHTML.accesskey   "E">
+<!ENTITY importOtherBrowser.label          "Importa les dades d'un altre navegador…">
+<!ENTITY importOtherBrowser.accesskey      "n">
+
 <!ENTITY cmd.backup.label  "Fes una còpia de seguretat…">
 <!ENTITY cmd.backup.accesskey  "g">
 <!ENTITY cmd.restore2.label  "Restaura una còpia de seguretat">
