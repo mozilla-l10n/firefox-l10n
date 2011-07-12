@@ -22,9 +22,9 @@
 <!ENTITY password.manage                 "Upravljanje gesel…">
 
 <!ENTITY cookie.label                    "Shranjevanje piškotov">
-<!ENTITY cookie.clear                    "Počisti piškote">
+<!ENTITY cookie.remove                   "Odstrani piškote">
 <!ENTITY cookie.manage                   "Upravljanje piškotov…">
-<!ENTITY cookie.clearAll                 "Počisti vse piškote">
+<!ENTITY cookie.removeAll                "Odstrani vse piškote">
 
 <!ENTITY geo.label                       "Objava položaja">
 

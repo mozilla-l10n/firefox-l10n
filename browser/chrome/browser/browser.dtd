@@ -58,8 +58,6 @@ can reach it easily. -->
 <!ENTITY printCmd.label "Natisni …">
 <!ENTITY printCmd.accesskey "N">
 <!ENTITY printCmd.commandkey "p">
-<!ENTITY import.label "Uvozi …">
-<!ENTITY import.accesskey "I">
 
 <!ENTITY goOfflineCmd.label "Nepovezan način">
 <!ENTITY goOfflineCmd.accesskey "n">
@@ -213,19 +211,6 @@ can reach it easily. -->
 <!ENTITY inspectPanelTitle.label      "HTML">
 <!ENTITY inspectButton.label          "Preglej">
 <!ENTITY inspectButton.accesskey      "P">
-<!ENTITY inspectNextButton.label      "Naprej">
-<!ENTITY inspectNextButton.accesskey  "N">
-<!ENTITY inspectPreviousButton.label  "Nazaj">
-<!ENTITY inspectPreviousButton.accesskey "z">
-<!ENTITY inspectStyleButton.label     "Slog">
-<!ENTITY inspectStyleButton.accesskey "S">
-<!ENTITY inspectStylePanelTitle.label  "Slog">
-<!-- LOCALIZATION NOTE (inspectObjectButton.label): This button label
-  -  appears on the Inspector's toolbar. It is used to open and close the Object
-  -  panel. There is also a label in inspector.properties for the panel
-  -  titlebar: object.objectPanelTitle. -->
-<!ENTITY inspectObjectButton.label       "Objekt">
-<!ENTITY inspectObjectButton.accesskey   "O">
 
 <!ENTITY getMoreDevtoolsCmd.label        "Prenesi več orodij">
 <!ENTITY getMoreDevtoolsCmd.accesskey    "r">
