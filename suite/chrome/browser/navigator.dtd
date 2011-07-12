@@ -40,9 +40,6 @@
 <!ENTITY printCmd.accesskey "p">
 <!ENTITY printCmd.commandkey "p">
 
-<!ENTITY viewMenu.label "查看">
-<!ENTITY viewMenu.accesskey "v">
-
 <!ENTITY toolbarsCmd.label "显示／隐藏 (w)">
 <!ENTITY toolbarsCmd.accesskey "w">
 <!ENTITY navbarCmd.label "导航工具栏">
@@ -152,14 +149,14 @@
 <!ENTITY locationBar.tooltip          "输入搜索条件、关键词或web地址">
 <!ENTITY locationBar.accesskey        "d">
 <!ENTITY locationBar.title            "地点">
-
 <!ENTITY proxyIcon.tooltip            "拖放这个图标来建立一个对此页的链接">
 
-<!-- Toolbar items --> 
-<!ENTITY  bookmarksButton.label       "书签">
-<!ENTITY  bookmarksButton.tooltip     "书签列表">
-<!ENTITY  homeButton.label            "主页">
-<!ENTITY  bookmarksToolbarItem.label  "书签工具栏项">
+<!ENTITY searchItem.title             "查找">
+
+<!ENTITY bookmarksButton.label        "书签">
+<!ENTITY bookmarksButton.tooltip      "书签列表">
+<!ENTITY homeButton.label             "主页">
+<!ENTITY bookmarksToolbarItem.label   "书签工具栏项">
 <!ENTITY bookmarksToolbarChevron.tooltip "显示更多书签">
 
 <!-- Statusbar -->

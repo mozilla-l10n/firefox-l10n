@@ -6,3 +6,11 @@
 <!ENTITY tabNavigationForms.accesskey "B">
 <!ENTITY tabNavigationTextboxes.label "注意：文本框以及滚动条通常在切换顺序中。">
 <!ENTITY tabNavigationDesc.label "按下 Tab 或 Shift+Tab时的切换顺序:">
+<!ENTITY accessibilityBrowseWithCaret.label "光标浏览">
+<!ENTITY browseWithCaretDesc.label "光标浏览让您可以使用光标键，在页面里移动可见光标以导航和选择。">
+<!ENTITY browseWithCaretUse.label "使用光标浏览">
+<!ENTITY browseWithCaretUse.accesskey "U">
+<!ENTITY browseWithCaretShortCut.label "使用快捷键 F7，切换到光标浏览">
+<!ENTITY browseWithCaretShortCut.accesskey "F">
+<!ENTITY browseWithCaretWarn.label "启用光标浏览前警告我">
+<!ENTITY browseWithCaretWarn.accesskey "W">

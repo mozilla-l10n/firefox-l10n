@@ -46,8 +46,8 @@
 <!ENTITY showTrayIcon.accesskey           "t">
 <!ENTITY bounceSystemDockIcon.label       "激活Dock图标">
 <!ENTITY bounceSystemDockIcon.accesskey   "A">
-<!ENTITY preview.label                    "预览">
-<!ENTITY preview.accesskey                "v">
+<!ENTITY playButton.label                 "播放">
+<!ENTITY playButton.accesskey             "l">
 <!ENTITY systemsound.label                "新信息系统提示音">
 <!ENTITY systemsound.accesskey            "M">
 <!ENTITY customsound.label                "自定义声音">

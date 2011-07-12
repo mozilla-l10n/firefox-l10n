@@ -39,9 +39,9 @@
 <!ENTITY downloadManagerCmd.accesskey "D">
 <!ENTITY downloadManagerCmd.commandkey "j">
 
-<!ENTITY addonsManagerCmd.label "管理附加组件">
-<!ENTITY addonsManagerCmd.accesskey "A">
-<!ENTITY addonsManagerCmd.commandkey "a">
+<!ENTITY addOnsManagerCmd.label "附加组件管理器">
+<!ENTITY addOnsManagerCmd.accesskey "A">
+<!ENTITY addOnsManagerCmd.commandkey "a">
 
 <!ENTITY switchProfileCmd.label "切换配置文件…">
 <!ENTITY switchProfileCmd.accesskey "h">

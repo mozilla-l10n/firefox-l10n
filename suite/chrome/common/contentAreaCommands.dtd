@@ -77,10 +77,6 @@
 <!ENTITY saveVideoCmd.accesskey       "v">
 <!ENTITY saveAudioCmd.label           "音频另存为…">
 <!ENTITY saveAudioCmd.accesskey       "v">
-<!ENTITY copyCmd.label                "复制">
-<!ENTITY copyCmd.accesskey            "C">
-<!ENTITY selectAllCmd.label           "选择全部">
-<!ENTITY selectAllCmd.accesskey       "A">
 <!ENTITY copyLinkCmd.label            "复制链接地址">
 <!ENTITY copyLinkCmd.accesskey        "L">
 <!ENTITY copyImageCmd.label           "复制图像">
@@ -93,16 +89,6 @@
 <!ENTITY metadataCmd.accesskey        "P">
 <!ENTITY copyEmailCmd.label           "复制邮件地址">
 <!ENTITY copyEmailCmd.accesskey       "s">
-<!ENTITY pasteCmd.label               "粘贴">
-<!ENTITY pasteCmd.accesskey           "P">
-<!ENTITY cutCmd.label                 "剪切">
-<!ENTITY cutCmd.accesskey             "t">
-<!ENTITY deleteCmd.label              "删除">
-<!ENTITY deleteCmd.accesskey          "D">
-<!ENTITY undoCmd.label                "还原">
-<!ENTITY undoCmd.accesskey            "U">
-<!ENTITY redoCmd.label                "重复">
-<!ENTITY redoCmd.accesskey            "R">
 <!ENTITY thisFrameMenu.label          "本帧">
 <!ENTITY thisFrameMenu.accesskey      "h">
 <!ENTITY mediaPlay.label              "播放">

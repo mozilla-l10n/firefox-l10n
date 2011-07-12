@@ -67,8 +67,6 @@
 
 <!ENTITY cmd.reloadLivebookmark.label      "重新载入实时书签">
 <!ENTITY cmd.reloadLivebookmark.accesskey  "R">
-<!ENTITY cmd.reloadMicrosummary.label      "重新载入实时标题">
-<!ENTITY cmd.reloadMicrosummary.accesskey  "R">
 
 <!ENTITY cmd.moveBookmarks.label                  "移动…">
 <!ENTITY cmd.moveBookmarks.accesskey              "M">
@@ -88,9 +86,9 @@
 
 <!ENTITY search.in.label                           "搜索范围：">
 <!ENTITY search.scopeFolder.label                  "已选中文件夹">
-<!ENTITY search.scopeFolder.accesskey              "r">
+<!ENTITY search.scopeFolder.accesskey              "m">
 <!ENTITY search.scopeBookmarks.label               "书签">
-<!ENTITY search.scopeBookmarks.accesskey           "k">
+<!ENTITY search.scopeBookmarks.accesskey           "B">
 <!ENTITY saveSearch.label                          "保存">
 <!ENTITY saveSearch.accesskey                      "S">
 
@@ -100,9 +98,9 @@
 <!ENTITY forwardButton.tooltip  "前进">
 
 <!ENTITY detailsPane.more.label "更多">
-<!ENTITY detailsPane.more.accesskey "e">
-<!ENTITY detailsPane.less.label "精简">
-<!ENTITY detailsPane.less.accesskey "e">
+<!ENTITY detailsPane.more.accesskey "r">
+<!ENTITY detailsPane.fewer.label "很少">
+<!ENTITY detailsPane.fewer.accesskey "r">
 <!ENTITY detailsPane.selectAnItemText.description "选择一个条目来查看或编辑其属性">
 
 <!ENTITY editBookmark.done.label "完成">
