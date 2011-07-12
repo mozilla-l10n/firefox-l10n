@@ -121,7 +121,7 @@
 <!ENTITY find.label               "Etsi:">
 <!ENTITY find.accesskey           "E">
 <!ENTITY view.label               "Näytä">
-<!ENTITY view.accesskey           "w">
+<!ENTITY view.accesskey           "N">
 <!ENTITY byDate.label             "Päivämäärän mukaan">
 <!ENTITY byDate.accesskey         "P">
 <!ENTITY bySite.label             "Sivuston mukaan">
