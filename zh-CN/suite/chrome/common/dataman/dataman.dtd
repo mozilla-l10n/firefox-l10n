@@ -57,7 +57,7 @@
 
 <!ENTITY data.search.key "k">
 
-<!ENTITY tab.cookies.label "Cookies">
+<!ENTITY tab.cookies.label "Cookie">
 <!ENTITY tab.permissions.label "权限">
 <!ENTITY tab.preferences.label "首选项">
 <!ENTITY tab.passwords.label "密码">

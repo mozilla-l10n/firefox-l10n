@@ -145,26 +145,16 @@
 <!ENTITY spellCheckIgnoreWord.accesskey "I">
 <!ENTITY spellCheckAddToDictionary.label "添加至字典">
 <!ENTITY spellCheckAddToDictionary.accesskey "n">
-<!ENTITY undo.label "还原">
-<!ENTITY undo.accesskey "U">
-<!ENTITY cut.label "剪切">
-<!ENTITY cut.accesskey "t">
-<!ENTITY copy.label "复制">
-<!ENTITY copy.accesskey "C">
-<!ENTITY paste.label "粘贴">
-<!ENTITY paste.accesskey "P">
 <!ENTITY pasteQuote.label "粘贴为引文">
 <!ENTITY pasteQuote.accesskey "Q">
 
 <!ENTITY openAttachment.label "打开
 ">
 <!ENTITY openAttachment.accesskey "O">
-<!ENTITY delete.label "删除">
-<!ENTITY delete.accesskey "D">
 <!ENTITY renameAttachment.label "重命名…">
 <!ENTITY renameAttachment.accesskey "R">
-<!ENTITY selectAll.label "选择全部">
-<!ENTITY selectAll.accesskey "A">
+<!ENTITY deleteAttachment.accesskey "D">
+<!ENTITY selectAllAttachments.accesskey "A">
 <!ENTITY attachFile.label "附件…">
 <!ENTITY attachFile.accesskey "F">
 <!ENTITY attachPage.label "附加网页…">

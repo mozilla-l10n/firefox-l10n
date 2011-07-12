@@ -6,12 +6,11 @@
 <!ENTITY editBookmarkOverlay.feedLocation.accesskey          "F">
 <!ENTITY editBookmarkOverlay.siteLocation.label              "站点地址：">
 <!ENTITY editBookmarkOverlay.siteLocation.accesskey          "S">
-<!ENTITY editBookmarkOverlay.liveTitlesSeparator.label       "实时标题">
 <!ENTITY editBookmarkOverlay.folder.label                    "文件夹:">
 <!ENTITY editBookmarkOverlay.foldersExpanderDown.tooltip     "显示全部书签文件夹">
 <!ENTITY editBookmarkOverlay.expanderUp.tooltip              "隐藏">
 <!ENTITY editBookmarkOverlay.tags.label                      "标签：">
-<!ENTITY editBookmarkOverlay.tags.accesskey                  "T">
+<!ENTITY editBookmarkOverlay.tags.accesskey                  "a">
 <!ENTITY editBookmarkOverlay.tagsEmptyDesc.label             "使用逗号分隔标签">
 <!ENTITY editBookmarkOverlay.description.label               "描述：">
 <!ENTITY editBookmarkOverlay.description.accesskey           "D">
@@ -19,7 +18,7 @@
 <!ENTITY editBookmarkOverlay.keyword.accesskey               "K">
 <!ENTITY editBookmarkOverlay.tagsExpanderDown.tooltip        "显示所有标签">
 <!ENTITY editBookmarkOverlay.loadInSidebar.label             "在侧栏中载入此书签">
-<!ENTITY editBookmarkOverlay.loadInSidebar.accesskey         "h">
+<!ENTITY editBookmarkOverlay.loadInSidebar.accesskey         "o">
 <!ENTITY editBookmarkOverlay.choose.label                    "选择…">
 <!ENTITY editBookmarkOverlay.newFolderButton.label           "新建文件夹">
 <!ENTITY editBookmarkOverlay.newFolderButton.accesskey       "o">

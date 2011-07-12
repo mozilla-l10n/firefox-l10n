@@ -4,7 +4,8 @@
 
 <!ENTITY setup.pickSetupType.description "欢迎，如果您以前从未使用过 &syncBrand.fullName.label;，您将需要创建一个新帐户。">
 <!ENTITY button.createNewAccount.label "创建一个新帐户">
-<!ENTITY button.haveAccount.label "我有一个 &syncBrand.fullName.label; 帐户">
+<!ENTITY setup.haveAccount.label "我已经有一个 &syncBrand.fullName.label; 帐户。">
+<!ENTITY button.connect.label "连接">
 
 <!ENTITY setup.choicePage.title.label     "您以前是否使用过 &syncBrand.fullName.label;？">
 <!ENTITY setup.choicePage.new.label       "我以前从未使用过 &syncBrand.shortName.label;">
@@ -12,14 +13,15 @@
 
 <!-- New Account AND Existing Account -->
 <!ENTITY server.label               "服务器">
+<!ENTITY server.accesskey           "S">
 <!ENTITY serverType.main.label      "&syncBrand.fullName.label; 服务器">
-<!ENTITY serverType.custom.label    "使用自定义服务器">
-<!ENTITY signIn.account.label       "电子邮箱地址 / 用户名">
-<!ENTITY signIn.account.accesskey   "E">
+<!ENTITY serverType.custom2.label   "使用自定义服务器…">
+<!ENTITY signIn.account2.label      "帐户">
+<!ENTITY signIn.account2.accesskey  "A">
 <!ENTITY signIn.password.label      "密码">
 <!ENTITY signIn.password.accesskey  "P">
-<!ENTITY signIn.serverURL.label     "服务器网址">
-<!ENTITY signIn.serverURL.accesskey "S">
+<!ENTITY signIn.syncKey.label       "同步密钥">
+<!ENTITY signIn.syncKey.accesskey   "K">
 
 <!-- New Account Page 1: Basic Account Info -->
 <!ENTITY setup.newAccountDetailsPage.title.label "帐户资料">
@@ -44,8 +46,6 @@
 <!ENTITY syncKeyEntry.accesskey    "K">
 <!ENTITY syncKeyGenerate.label     "生成">
 <!ENTITY syncKeyGenerate.accesskey "G">
-<!ENTITY syncKeyStrength.label     "强度：">
-<!ENTITY syncKeyHelp.label         "强度意味着什么？">
 <!ENTITY syncKeyBackup.description "在其他机器访问 &syncBrand.fullName.label; 您的同步密钥是必须的。请创建一个备份副本。我们不能帮助您恢复您的同步密钥。">
 
 <!ENTITY button.syncKeyBackup.print.label     "打印…">
@@ -56,17 +56,25 @@
 <!-- New Account Page 3: Captcha -->
 <!ENTITY setup.captchaPage2.title.label     "请确认您不是机器人">
 
-<!-- Existing Account Page 1: Login -->
-<!ENTITY setup.existingAccount.title.label "输入帐户信息">
-<!ENTITY resetPassword.label          "重置密码">
-<!ENTITY connecting.label             "正在连接...">
+<!-- Existing Account Page 1: Add Device (incl. Add a Device dialog strings) -->
+<!ENTITY addDevice.title.label              "添加设备">
+<!ENTITY addDevice.showMeHow.label          "告诉我该怎么办。">
+<!ENTITY addDevice.dontHaveDevice.label     "该设备不在我身边">
+<!ENTITY addDevice.setup.description.label  "要激活，在您的其他设备上转到 &syncBrand.shortName.label; 首选项/选项，然后选择 “添加设备”">
+<!ENTITY addDevice.setup.enterCode.label    "然后，输入此代码：">
+<!ENTITY addDevice.dialog.description.label "要激活您的新设备，在设备上转到 &syncBrand.shortName.label; 首选项/选项，然后选择“连接”">
+<!ENTITY addDevice.dialog.enterCode.label   "请输入该设备提供的代码：">
+<!ENTITY addDevice.dialog.tryAgain.label    "请重试。">
+<!ENTITY addDevice.dialog.successful.label  "已成功添加该设备。初次的数据同步可能会长达数分钟，且该工作会在后台自动完成。">
+<!ENTITY addDevice.dialog.syncKey.label     "要激活您的设备，您需要输入您的同步密钥。请打印或保存此密钥并随身携带它。">
+<!ENTITY addDevice.dialog.connected.label   "设备已连接">
 
-<!-- Existing Account Page 2: Sync Key -->
-<!ENTITY setup.existingSyncKeyPage.title "请输入您的同步密钥">
-<!ENTITY setup.existingSyncKeyPage.description "当您第一次登录到 &syncBrand.fullName.label; 时，会为您生成同步密钥，或者您输入自己的。不能与密码相同。">
-<!ENTITY existingSyncKeyHelp.description "通过使用其它电脑您能找到已保存的同步密匙并在安全的状态下检查您曾保存的密码。如果您仍不能获得正确的同步密匙，您可以选择重置，但您将丢失服务器上所有已储存的资料.">
-<!ENTITY lostSyncKey.label            "我已经丢失我的同步密钥">
+<!-- Existing Account Page 2: Manual Login -->
+<!ENTITY setup.signInPage.title.label "登录">
+<!ENTITY existingSyncKey.description  "你可以从其他设备上查看 &syncBrand.shortName.label; 的首选项/选项，在 “管理帐户”下“我的同步密钥”中，复制一份您的同步密钥。">
 <!ENTITY verifying.label              "正在校验…">
+<!ENTITY resetPassword.label          "重置密码">
+<!ENTITY resetSyncKey.label           "我丢失了其它设备。">
 
 <!-- Sync Options -->
 <!ENTITY setup.optionsPage.title      "同步选项">

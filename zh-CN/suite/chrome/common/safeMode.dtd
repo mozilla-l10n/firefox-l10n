@@ -11,15 +11,14 @@
    - for the specific language governing rights and limitations under the
    - License.
    -
-   - The Original Code is SeaMonkey search panel.
+   - The Original Code is mozilla.org Code.
    -
-   - The Initial Developer of the Original Code is
-   - the Mozilla Foundation.
-   - Portions created by the Initial Developer are Copyright (C) 2010
+   - The Initial Developer of the Original Code is Mike Connor.
+   - Portions created by the Initial Developer are Copyright (C) 2005
    - the Initial Developer. All Rights Reserved.
    -
    - Contributor(s):
-   -   Robert Kaiser <kairo@kairo.at>
+   -   Mike Connor <mconnor@steelgryphon.com>
    -
    - Alternatively, the contents of this file may be used under the terms of
    - either the GNU General Public License Version 2 or later (the "GPL"), or
@@ -29,13 +28,32 @@
    - under the terms of either the GPL or the LGPL, and not to allow others to
    - use your version of this file under the terms of the MPL, indicate your
    - decision by deleting the provisions above and replace them with the notice
-   - and other provisions required by the GPL or the LGPL. If you do not delete
+   - and other provisions required by the LGPL or the GPL. If you do not delete
    - the provisions above, a recipient may use your version of this file under
    - the terms of any one of the MPL, the GPL or the LGPL.
    -
    - ***** END LICENSE BLOCK ***** -->
 
-<!ENTITY search.button.label      "查找">
-<!ENTITY search.placeholder       "输入搜索文本">
+<!ENTITY safeModeDialog.title         "&brandShortName; 安全模式">
+<!ENTITY window.width                 "37em">
 
-<!ENTITY search.engineManager.label "管理搜索引擎…">
+<!ENTITY safeModeDescription.label    "&brandShortName; 正在以安全模式运行，这将临时禁用您的设定、主题以及扩展。">
+<!ENTITY safeModeDescription2.label   "您可以永久更改它们：">
+
+<!ENTITY disableAddons.label          "禁用全部附加组件">
+<!ENTITY disableAddons.accesskey      "D">
+
+<!ENTITY resetToolbars.label          "重置工具栏和窗口大小">
+<!ENTITY resetToolbars.accesskey      "R">
+
+<!ENTITY deleteBookmarks.label        "删除全部书签（备份除外）">
+<!ENTITY deleteBookmarks.accesskey    "b">
+
+<!ENTITY resetUserPrefs.label         "重置 &brandShortName; 所有用户的首选项为默认">
+<!ENTITY resetUserPrefs.accesskey     "p">
+
+<!ENTITY restoreSearch.label          "恢复默认搜索引擎">
+<!ENTITY restoreSearch.accesskey      "s">
+
+<!ENTITY changeAndRestartButton.label "保存改动并重新开始">
+<!ENTITY continueButton.label         "继续使用安全模式">
