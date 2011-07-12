@@ -23,13 +23,14 @@
 <!ENTITY checkSpelling.accesskey "b">
 
 <!ENTITY systemDefaults.label "Privzete vrednosti">
-<!--XXX-->
 <!ENTITY alwaysCheckDefault.label "Ob zagonu vedno preveri, ali je &brandShortName; privzeti brskalnik">
 <!ENTITY alwaysCheckDefault.accesskey "v">
 <!ENTITY checkNow.label "Preveri zdaj">
 <!ENTITY checkNow.accesskey "E">
 <!ENTITY submitCrashes.label             "Pošlji poročila o sesutju">
 <!ENTITY submitCrashes.accesskey         "S">
+<!ENTITY submitTelemetry.label           "Pošlji podatke o zmogljivosti">
+<!ENTITY submitTelemetry.accesskey       "P">
 
 <!ENTITY networkTab.label "Mreža">
 
