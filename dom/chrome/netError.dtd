@@ -83,8 +83,8 @@
 <!ENTITY cspFrameAncestorBlocked.title "Zavrnjeno zaradi varnostne politike vsebine">
 <!ENTITY cspFrameAncestorBlocked.longDesc "<p>Brskalnik je preprečil nalaganje strani v taki obliki, ker tako določa varnostna politika vsebine.</p>">
 
-<!ENTITY corruptedContentError.title "Napaka - okvarjena vsebina">
-<!ENTITY corruptedContentError.longDesc "<p>Strani, ki si jo želite ogledati, ni mogoče prikazati, ker je pri prenosu podatkov  bila zaznana napaka. </p> <ul><li>Obrnite na prosim na lastnike spletni strani in jih obvestite o tem problemu.</li></ul>">
+<!ENTITY corruptedContentError.title "Okvara vsebine">
+<!ENTITY corruptedContentError.longDesc "<p>Strani, ki si jo želite ogledati, ni mogoče prikazati, ker je bila med prenosom podatkov odkrita napaka.</p> <ul><li>O napaki obvestite lastnike spletne strani.</li></ul>">
 
 <!ENTITY remoteXUL.title "Oddaljeni XUL">
 <!ENTITY remoteXUL.longDesc "<p><ul><li>Obrnite se na lastnike spletne strani in jih obvestite o težavi.</li></ul></p>">
