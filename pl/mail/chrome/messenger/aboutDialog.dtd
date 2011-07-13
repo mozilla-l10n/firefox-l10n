@@ -33,16 +33,4 @@
 <!ENTITY channel.description.start     "Obecnie korzystasz z kanału aktualizacji ">
 <!ENTITY channel.description.end       ". ">
 
-<!ENTITY channel.change                "Zmień">
-
-<!ENTITY channel.release.description   "Korzystaj ze sprawdzonych i przetestowanych wydań finalnych, używanych przez miliony użytkowników na całym świecie. Dzięki niesamowitej szybkości, łatwemu dostosowaniu do Twoich potrzeb i najnowszym technologiom WWW masz swój Internet pod kontrolą.">
-<!ENTITY channel.beta.description      "Poznaj awangardowe funkcje o większej stabilności. Pomóż nam ulepszyć to, co pojawi się w wersji finalnej, przekazując swoje opinie.">
-<!ENTITY channel.aurora.description    "Poznaj najnowsze innowacje w niestabilnym środowisku dla zaawansowanych użytkowników. Pomóż nam określić, co powinno pojawić się w wersji finalnej, przekazując opinie o funkcjach i wydajności.">
-
-<!ENTITY channel.selector.start        "Przełącz na kanał aktualizacji">
-<!ENTITY channel.selector.end          "">
-
-<!ENTITY channel.selector.applyButton  "Zastosuj i zaktualizuj">
-<!ENTITY channel.selector.cancelButton "Anuluj">
-
 <!ENTITY cmdCloseMac.commandKey "w">
