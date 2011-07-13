@@ -6,7 +6,7 @@
 
 <!-- Specific error messages -->
 
-<!ENTITY connectionFailure.title "כשלון בהתחברות">
+<!ENTITY connectionFailure.title "כישלון בהתחברות">
 <!ENTITY connectionFailure.longDesc "&sharedLongDesc;">
 
 <!ENTITY deniedPortAccess.title "כתובת זו מוגבלת">
@@ -18,7 +18,7 @@
   <li>בדוק כי הכתובת הוקלדה ללא שגיאות כגון
     <strong>ww</strong>.example.com במקום <strong>www</strong>.example.com</li>
   <li>במידה ואינך יכול לטעון כל דף, בדוק את החיבור לרשת של המחשב.</li>
-  <li>אם המחשב או הרשת מוגנים בחומת אש או שרת מתווך, וודאי כי &brandShortName; מורשה לגישה לרשת.</li>
+  <li>אם המחשב או הרשת מוגנים בחומת אש או שרת מתווך, ודאי כי &brandShortName; מורשה לגישה לרשת.</li>
 </ul>
 ">
 
@@ -40,7 +40,7 @@
 <!ENTITY malformedURI.longDesc "<ul>
   <li>כתובות אתרים מכתבות בדרך־כלל בתבנית של 
     <strong>http://www.example.com/</strong></li>
-  <li>וודא שאתה משתמש בלוכסן קדמי (&quot;<strong>/</strong>&quot;).</li>
+  <li>ודא שאתה משתמש בלוכסן קדמי (&quot;<strong>/</strong>&quot;).</li>
 </ul>
              ">
 
@@ -57,7 +57,7 @@
 <!ENTITY contentEncodingError.title "שגיאה בקידוד תוכן">
 <!ENTITY contentEncodingError.longDesc "
 <ul>
-  <li>אנא צור קשר עם בעלי האתר בכדי ליידע אותם על בעיה זו.</li>
+  <li>אנא צור קשר עם בעלי האתר כדי ליידע אותם על בעיה זו.</li>
 </ul>">
 
 <!ENTITY unsafeContentType.title "סוג קובץ מסוכן">
@@ -83,15 +83,15 @@
 <!ENTITY proxyConnectFailure.longDesc "
 <ul>
   <li>בדוק כי הגדרות השרת המתווך שלך נכונות.</li>
-  <li>צור קשר עם מנהל הרשת שלך וודא כי השרת המתווך מתפקד</li>
+  <li>צור קשר עם מנהל הרשת שלך ודא כי השרת המתווך מתפקד</li>
 </ul>">
 
 <!ENTITY proxyResolveFailure.title "שרת מתווך לא נמצא">
 <!ENTITY proxyResolveFailure.longDesc "
 <ul>
   <li>בדוק כי הגדרות השרת המתווך שלך נכונות.</li>
-  <li>וודא כי חיבור המחשב שלך לרשת פעיל.</li>
-  <li>אם המחשב או הרשת שלך מוגנים באמצעות חומת אש או שרת מתווך, וודא כי &brandShortName; מורשה לגישה לרשת.</li>
+  <li>ודא כי חיבור המחשב שלך לרשת פעיל.</li>
+  <li>אם המחשב או הרשת שלך מוגנים באמצעות חומת אש או שרת מתווך, ודא כי &brandShortName; מורשה לגישה לרשת.</li>
 </ul>
 ">
 
@@ -105,7 +105,7 @@
 <!ENTITY unknownSocketType.title "תגובה לא צפויה מהשרת">
 <!ENTITY unknownSocketType.longDesc "
 <ul>
-  <li>וודא כי מותקן על המערכת שלך מנהל האבטחה האישי.</li>
+  <li>ודא כי מותקן על המערכת שלך מנהל האבטחה האישי.</li>
   <li>ייכתן וההגדרות השרת אינן תקניות</li>
 </ul>
 ">
@@ -129,7 +129,7 @@
 <ul>
   <li>האתר איננו זמין כרגע או שהוא עמוס מידי. אנא נסה שוב בעוד מספר רגעים.</li>
   <li>אם אינך מצליח לטעון דפים כלשהם, בדוק את הקישוריות של המחשב שלך לרשת.</li>
-  <li>במידה והמחשב או הרשת שלך מוגנים באמצעות חומת אש או שרת מתווך, וודא כי &brandShortName; מורשה לגישה לרשת.</li>
+  <li>אם המחשב או הרשת שלך מוגנים באמצעות חומת אש או שרת מתווך, ודא כי &brandShortName; מורשה לגישה לרשת.</li>
 </ul>
 ">
 

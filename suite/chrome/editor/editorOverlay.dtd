@@ -341,7 +341,7 @@
 <!ENTITY BlockquoteAbbr.label "פסקת ציטוט">
 <!ENTITY AddressAbbr.label "כתובת">
 <!ENTITY PreformatAbbr.label "מעוצב מראש">
-<!ENTITY stylesheetMenu.label "החל גליון עיצוב">
+<!ENTITY stylesheetMenu.label "החל גיליון עיצוב">
 <!ENTITY formatstylesheetmenu.accesskey "ת">
 <!ENTITY alignMenu.label "ישור">
 <!ENTITY formatalignmenu.accesskey "ש">

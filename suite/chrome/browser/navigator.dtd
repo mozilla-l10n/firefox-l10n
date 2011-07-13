@@ -52,7 +52,7 @@
 <!ENTITY pageSourceCmd.label "מקור של הדף">
 <!ENTITY pageSourceCmd.accesskey "מ">
 <!ENTITY pageSourceCmd.commandkey "u">
-<!ENTITY pageInfoCmd.label "מידע אודות הדף">
+<!ENTITY pageInfoCmd.label "מידע על הדף">
 <!ENTITY pageInfoCmd.accesskey "ד">
 <!ENTITY pageInfoCmd.commandkey "i">
 <!ENTITY fullScreenCmd.label "מסך מלא">

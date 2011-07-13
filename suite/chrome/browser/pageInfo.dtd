@@ -34,8 +34,8 @@
    -
    - ***** END LICENSE BLOCK ***** -->
 <!ENTITY preface "מידע עבור:">
-<!ENTITY title "מידע אודות הדף">
-<!ENTITY description "מידע אודות הדף הנוכחי">
+<!ENTITY title "מידע על הדף">
+<!ENTITY description "מידע על הדף הנוכחי">
 <!ENTITY pageInfoWindow.width "425">
 <!ENTITY pageInfoWindow.height "470">
 <!ENTITY copy.key "C">

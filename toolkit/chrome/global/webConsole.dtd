@@ -3,7 +3,7 @@
 <!ENTITY networkPanel.statusCode                  "קוד מצב">
 
 <!ENTITY networkPanel.requestHeaders              "כותרות בקשה">
-<!ENTITY networkPanel.requestCookie               "נשלחה עוגיה">
+<!ENTITY networkPanel.requestCookie               "נשלחה עוגייה">
 <!ENTITY networkPanel.requestBody                 "גוף הבקשה">
 <!ENTITY networkPanel.requestFormData             "נתוני טופס שנשלח">
 

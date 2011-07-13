@@ -44,7 +44,7 @@
 <!ENTITY status.label          "מפרסם...">
 <!ENTITY fileList.label        "מצב פרסום">
 <!ENTITY succeeded.label       "הצלחה">
-<!ENTITY failed.label          "כשלון">
+<!ENTITY failed.label          "כישלון">
 
 <!ENTITY keepOpen              "שמור חלון זה פתוח לאחר סיום הפרסום.">
 <!ENTITY closeButton.label     "סגירה">

@@ -1,13 +1,13 @@
 <!ENTITY tab.cookiesonsystem.label "עוגיות מאוחסנות">
-<!ENTITY tab.bannedservers.label "אתרי עוגיה">
+<!ENTITY tab.bannedservers.label "אתרי עוגייה">
 <!ENTITY div.bannedservers.label "נהל אתרים שיכולים ולא יכולים לאחסן עוגיות על המחשב שלך.">
 <!ENTITY div.cookiesonsystem.label "הצג והסר עוגיות שמאוחסנות על המחשב שלך.">
-<!ENTITY treehead.cookiename.label "שם עוגיה">
+<!ENTITY treehead.cookiename.label "שם עוגייה">
 <!ENTITY treehead.cookiedomain.label "אתר">
 <!ENTITY treehead.cookiestatus.label "מצב">
 <!ENTITY treehead.cookieexpires.label "פג תוקף">
-<!ENTITY treehead.infoselected.label "מידע אודות העוגיה הנבחרת">
-<!ENTITY button.removecookie.label "הסר עוגיה">
+<!ENTITY treehead.infoselected.label "מידע על העוגייה הנבחרת">
+<!ENTITY button.removecookie.label "הסר עוגייה">
 <!ENTITY button.removeallcookies.label "הסר את כל העוגיות">
 <!ENTITY props.name.label "שם:">
 <!ENTITY props.value.label "תוכן:">

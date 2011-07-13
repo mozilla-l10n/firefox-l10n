@@ -1,9 +1,9 @@
 <!ENTITY window.width                      "36em">
 
 <!ENTITY cookiesonsystem.label             "העוגיות הבאות מאוחסנות במחשב שלך:">
-<!ENTITY cookiename.label                  "שם עוגיה">
+<!ENTITY cookiename.label                  "שם עוגייה">
 <!ENTITY cookiedomain.label                "אתר">
-<!ENTITY button.removecookie.label         "הסרת עוגיה">
+<!ENTITY button.removecookie.label         "הסרת עוגייה">
 <!ENTITY button.removecookie.accesskey     "ע">
 <!ENTITY button.removeallcookies.label     "הסרת כל העוגיות">
 <!ENTITY button.removeallcookies.accesskey "כ">

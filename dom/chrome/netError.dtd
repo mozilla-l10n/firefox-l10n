@@ -3,7 +3,7 @@
 
 <!-- Specific error messages -->
 
-<!ENTITY connectionFailure.title "כשלון בהתחברות">
+<!ENTITY connectionFailure.title "כישלון בהתחברות">
 <!ENTITY connectionFailure.longDesc "<p>למרות שהאתר נראה תקף, הדפדפן לא הצליח ליצור התחברות.</p><ul><li>האם האתר אינו זמין כעת? נסה שוב מאוחר יותר.</li><li>האם אין באפשרותך לגלוש באתרים אחרים? בדוק את הגדרות החיבור לרשת של המחשב.</li><li>האם המחשב או הרשת מוגנים על־ידי חומת אש או שרת מתווך? הגדרות לא נכונות יכולות להפריע לגלישה באינטרנט.</li></ul>">
 
 <!ENTITY deniedPortAccess.title "השער נחסם מסיבות אבטחה">
@@ -16,7 +16,7 @@
 <!ENTITY fileNotFound.longDesc "<ul><li>האם ייתכן שהפריט הוסר, שינה מיקום, או שינה שם?</li><li>האם ישנה שגיאת איות, שגיאת רישיות, או שגיאות טופוגרפיות אחרות בכתובת?</li><li>האם יש לך הרשאות גישה מספיקות אל הפריט המבוקש?</li></ul>">
 
 <!ENTITY generic.title "לא ניתן להשלים את הבקשה">
-<!ENTITY generic.longDesc "<p>מידע נוסף אודות בעיה או שגיאה זו אינו זמין כעת.</p>">
+<!ENTITY generic.longDesc "<p>מידע נוסף על בעיה או שגיאה זו אינו זמין כעת.</p>">
 
 <!ENTITY malformedURI.title "כתובת לא חוקית">
 <!ENTITY malformedURI.longDesc "<p>הכתובת המסופקת אינה בתבנית מזוהה. אנא בדוק את שורת המיקום עבור שגיאות ונסה שוב.</p>">
@@ -29,7 +29,7 @@
 <!ENTITY netOffline.overrideLongDesc "<p>הדפדפן עובד במצב לא־מקוון ואינו יכול להתחבר לפריט המבוקש.</p><ul><li>האם המחשב מחובר לרשת פעילה?</li><li>העבר את הדפדפן למצב מקוון ונסה שוב.</li></ul>">
 
 <!ENTITY contentEncodingError.title "שגיאה בקידוד תוכן">
-<!ENTITY contentEncodingError.longDesc "<p>לא ניתן להציג את הדף שאתה מנסה לראות מכיוון שהוא משתמש בסוג דחיסה לא חוקי או לא ידוע.</p><ul><li> אנא צור  קשר עם בעלי האתר בכדי ליידע אותם אודות בעיה זו.</li></ul>">
+<!ENTITY contentEncodingError.longDesc "<p>לא ניתן להציג את הדף שאתה מנסה לראות מכיוון שהוא משתמש בסוג דחיסה לא חוקי או לא ידוע.</p><ul><li> אנא צור קשר עם בעלי האתר ככדי ליידע אותם על בעיה זו.</li></ul>">
 
 <!ENTITY unsafeContentType.title "קובץ מסוכן לפתיחה">
 <!ENTITY unsafeContentType.longDesc "

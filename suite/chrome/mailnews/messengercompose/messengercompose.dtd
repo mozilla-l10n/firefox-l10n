@@ -61,7 +61,7 @@
 <!ENTITY showParagraphMarksCmd.label ".הצג סימני פסקה">
 <!ENTITY pageSourceCmd.label ".קוד מקור של הדף">
 <!ENTITY pageSourceCmd.accesskey "ק">
-<!ENTITY pageInfoCmd.label ".מידע אודות הדף">
+<!ENTITY pageInfoCmd.label ".מידע על הדף">
 <!ENTITY pageInfoCmd.accesskey "מ">
 <!ENTITY dcharMenu.label "אוסף תווים">
 <!ENTITY dcharIso1Cmd.label "מערבי (ISO-8859-1)">

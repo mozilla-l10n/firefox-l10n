@@ -39,5 +39,5 @@
 <!-- Window title -->
 <!ENTITY windowTitle.label     "בדוק מיקומי תמונות וקישורים">
 <!ENTITY succeeded.label       "הצליח">
-<!ENTITY failed.label          "כשלון">
+<!ENTITY failed.label          "כישלון">
 <!ENTITY closeButton.label     "סגירה">

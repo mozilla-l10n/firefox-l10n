@@ -36,9 +36,9 @@
 <!ENTITY viewPageSourceCmd.accesskey "ג">
 <!ENTITY viewFrameSourceCmd.label "הצג מקור המסגרת">
 <!ENTITY viewFrameSourceCmd.accesskey "ק">
-<!ENTITY viewPageInfoCmd.label "הצג מידע אודות הדף">
+<!ENTITY viewPageInfoCmd.label "הצג מידע על הדף">
 <!ENTITY viewPageInfoCmd.accesskey "צ">
-<!ENTITY viewFrameInfoCmd.label "הצג מידע אודות המסגרת">
+<!ENTITY viewFrameInfoCmd.label "הצג מידע על המסגרת">
 <!ENTITY viewFrameInfoCmd.accesskey "צ">
 <!ENTITY fitImageCmd.label "התאם תמונה לחלון">
 <!ENTITY fitImageCmd.accesskey "א">

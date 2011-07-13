@@ -19,7 +19,7 @@
 <!ENTITY  incompatibleCheck.title         "בודק תאימות תוספות">
 <!ENTITY  incompatibleCheck.label         "מחפש גירסאות עדכניות לתוספות שלך…">
 
-<!ENTITY  clickHere.label                 "הצג מידע נוסף אודות עדכון זה">
+<!ENTITY  clickHere.label                 "הצג מידע נוסף על עדכון זה">
 
 <!ENTITY  evangelism.desc                 "מומלץ כי תפעיל את עדכון זה עבור &brandShortName; בהקדם האפשרי.">
 
@@ -73,7 +73,7 @@
 
 <!ENTITY  installed.title                 "העדכון הותקן">
 <!ENTITY  installed.intro                 "העדכון הותקן בהצלחה.">
-<!ENTITY  whatsnew.label                  "קרא עוד אודות מה חדש…">
+<!ENTITY  whatsnew.label                  "קרא עוד על מה חדש…">
 
 <!ENTITY  update.details.label            "פרטים">
 <!ENTITY  update.installedOn.label        "הותקן בתאריך:">
