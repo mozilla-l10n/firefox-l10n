@@ -111,7 +111,7 @@
 <!ENTITY certmgr.editca.accesskey             "א">
 <!ENTITY certmgr.add.label                    "הוסף">
 <!ENTITY certmgr.add.accesskey                "ה">
-<!ENTITY certmgr.export.label                 "ייצא…">
+<!ENTITY certmgr.export.label                 "יצא…">
 <!ENTITY certmgr.export.accesskey             "י">
 <!ENTITY certmgr.delete2.label                "מחק…">
 <!ENTITY certmgr.delete2.accesskey            "מ">
@@ -121,7 +121,7 @@
 <!ENTITY certmgr.backup2.accesskey            "ג">
 <!ENTITY certmgr.backupall2.label             "גבה הכל…">
 <!ENTITY certmgr.backupall2.accesskey         "כ">
-<!ENTITY certmgr.restore2.label               "ייבא…">
+<!ENTITY certmgr.restore2.label               "יבא…">
 <!ENTITY certmgr.restore2.accesskey           "י">
 <!ENTITY certmgr.details.label                "שדות האישור">
 <!ENTITY certmgr.details.accesskey            "פ">

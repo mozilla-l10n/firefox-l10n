@@ -16,7 +16,7 @@
 <!ENTITY acceptforNDays.label "קבל עוגיות למשך">
 <!ENTITY acceptforNDays.accesskey "ל">
 <!ENTITY days.label "ימים">
-<!ENTITY warnAboutCookies.label "שאל לגבי כל עוגיה">
+<!ENTITY warnAboutCookies.label "שאל לגבי כל עוגייה">
 <!ENTITY warnAboutCookies.accesskey "ש">
 <!ENTITY forCurrentSession.label "למעט עוגיות למשך ההפעלה">
 <!ENTITY forCurrentSession.accesskey "ט">

@@ -14,7 +14,7 @@
 <!ENTITY nntpNotDownloadRead.accesskey "נ">
 <!ENTITY nntpDownloadMsg.label "הודעות מלפני יותר מאשר">
 <!ENTITY nntpDownloadMsg.accesskey "י">
-<!ENTITY retentionCleanup.label "בכדי להשיג שטח דיסק, הודעות ישנות יכולות להמחק לצמיתות">
+<!ENTITY retentionCleanup.label "כדי להשיג שטח דיסק, הודעות ישנות יכולות להימחק לצמיתות">
 <!ENTITY retentionCleanupImap.label "כדי לשמר שטח דיסק, הודעות ישנות יכולות להימחק לצמיתות, גם העותק המקומי וגם המקור על השרת המרוחק.">
 <!ENTITY retentionCleanupPop.label "כדי לשמר שטח דיסק, הודעות ישנות יכולות להימחק לצמיתות, כולל הודעות המקור בשרת המרוחק.">
 <!ENTITY retentionKeepMsg.label "מחק הודעות מלפני">

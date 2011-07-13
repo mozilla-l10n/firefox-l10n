@@ -87,7 +87,7 @@
 <!ENTITY privileges.button.accesskey "א">
 <!ENTITY permissionsDesc.label "יש לך את ההרשאות הבאות:">
 <!ENTITY folderType.label "סוג תיקייה:">
-<!ENTITY folderQuotaTab.label "מיכסה">
+<!ENTITY folderQuotaTab.label "מכסה">
 <!ENTITY folderQuotaRoot.label "שורש (root) ההקצאה:">
 <!ENTITY folderQuotaUsage.label "שימוש:">
 <!ENTITY folderQuotaStatus.label "מצב:">

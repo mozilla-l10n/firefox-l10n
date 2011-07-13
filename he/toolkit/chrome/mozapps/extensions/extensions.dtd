@@ -6,7 +6,7 @@
 <!ENTITY listEmpty.recentUpdates.label        "לא עדכנת תוספות כלשהן לאחרונה">
 <!ENTITY listEmpty.findUpdates.label          "בדוק אם ישנם עדכונים">
 <!ENTITY listEmpty.search.label               "לא ניתן למצוא תוספת תואמת">
-<!ENTITY listEmpty.button.label               "למד עוד אודות תוספות">
+<!ENTITY listEmpty.button.label               "למד עוד על תוספות">
 <!ENTITY installAddonFromFile.label           "התקנת תוספת מקובץ…">
 <!ENTITY installAddonFromFile.accesskey       "ה">
 <!ENTITY toolsMenu.tooltip                    "כלים עבור כל התוספות">

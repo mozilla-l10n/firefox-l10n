@@ -24,7 +24,7 @@
 
 <!-- New Account Page 1: Basic Account Info -->
 <!ENTITY setup.newAccountDetailsPage.title.label "פרטי החשבון">
-<!ENTITY setup.confirmPassword.label  "וודא ססמה">
+<!ENTITY setup.confirmPassword.label  "אימות ססמה">
 <!ENTITY setup.confirmPassword.accesskey  "ו">
 <!ENTITY setup.emailAddress.label     "כתובת דוא״ל">
 <!ENTITY setup.emailAddress.accesskey "כ">

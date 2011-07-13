@@ -28,9 +28,9 @@
 <!ENTITY cmd.findCurrent.label          "מצא באוסף הנוכחי...">
 <!ENTITY cmd.findCurrent.accesskey      "א">
 
-<!ENTITY cmd.exportHTML.label           "ייצא HTML…">
+<!ENTITY cmd.exportHTML.label           "יצא HTML…">
 <!ENTITY cmd.exportHTML.accesskey       "צ">
-<!ENTITY cmd.importHTML.label           "ייבא HTML…">
+<!ENTITY cmd.importHTML.label           "יבא HTML…">
 <!ENTITY cmd.importHTML.accesskey       "ב">
 
 <!ENTITY cmd.backup.label               "גיבוי...">

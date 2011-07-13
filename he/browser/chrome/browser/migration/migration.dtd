@@ -3,7 +3,7 @@
 
 <!ENTITY importFrom.label               "יבא אפשרויות, סימניות, היסטוריה, סיסמאות ונתונים נוספים מ:">
 <!ENTITY importFromUnix.label           "יבא העדפות, סימניות, היסטוריה, סיסמאות ונתונים נוספים:">
-<!ENTITY importFromBookmarks.label      "ייבא סימניות מ:">
+<!ENTITY importFromBookmarks.label      "יבא סימניות מ:">
 
 <!ENTITY importFromIE.label             "Microsoft Internet Explorer">
 <!ENTITY importFromIE.accesskey         "M">
