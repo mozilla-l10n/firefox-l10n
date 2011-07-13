@@ -35,7 +35,7 @@
 <!ENTITY  showCookies.accesskey         "S">
 
 <!ENTITY  historyHeader.pre.label          "&brandShortName;:">
-<!ENTITY  historyHeader.pre.accesskey      "r">
+<!ENTITY  historyHeader.pre.accesskey      "F">
 <!ENTITY  historyHeader.remember.label     "recordará el historial">
 <!ENTITY  historyHeader.dontremember.label "nunca recordará el historial">
 <!ENTITY  historyHeader.custom.label       "usará la configuración personalizada para el historial">
@@ -60,8 +60,8 @@
 <!ENTITY  dontrememberActions.clearHistory.label "eliminar el historial actual">
 <!ENTITY  dontrememberActions.post.label         ".">
 
-<!ENTITY  privateBrowsingPermanent.label "Modo de navegación privada permanente">
-<!ENTITY  privateBrowsingPermanent.accesskey "p">
+<!ENTITY  privateBrowsingPermanent2.label "Siempre usar el modo de navegación privada">
+<!ENTITY  privateBrowsingPermanent2.accesskey "p">
 
 <!ENTITY  rememberHistory.label      "Recordar mi historial de navegación">
 <!ENTITY  rememberHistory.accesskey  "v">
