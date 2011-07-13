@@ -62,22 +62,4 @@
 <!ENTITY channel.description.start  "Actualmente está usando o canal de actualización ">
 <!ENTITY channel.description.end    ".">
 
-<!ENTITY channel.change             "Cambiar">
-
-<!ENTITY channel.release.description       "Goza da versión final probada por centos de millóns de persoas ao redor do mundo. Manteña o control da súa experiencia na rede cunha velocidade incríbel, facilidade de personalización e as últimas tecnoloxías web.">
-<!ENTITY channel.beta.description          "Experimente as últimas funcionalidades nun entorno estábel. Déanos a súa opinión para axudarnos a refinar e pulir a versión final.">
-<!ENTITY channel.aurora.description        "Experimente as últimas innovacións nun entorno inestábel --non apto para todos. Déanos a súa opinión das características e o rendemento para axudarnos a decidir que incluirá a versión final.">
-
-<!-- LOCALIZATION NOTE (channel.selector.start,channel.selector.end): channel.selector.start and
-     channel.selector.end create one sentence, with a channel selection menulist instered in between.
-     This is all in one line, so try to make the localized text short.
-     example: Switch to the [Stable] update channel. -->
-<!ENTITY channel.selector.start          "Cambiar ao canal de actualización ">
-<!ENTITY channel.selector.end            ".">
-
-<!-- LOCALIZATION NOTE (channel.selector.applyButton): This button applies the user's choice to switch
-     to a new update channel and starts the application update process. -->
-<!ENTITY channel.selector.applyButton    "Aplicar e actualizar">
-<!ENTITY channel.selector.cancelButton   "Cancelar">
-
 <!ENTITY cmdCloseMac.commandKey "w">
