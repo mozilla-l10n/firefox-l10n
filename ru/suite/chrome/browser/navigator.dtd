@@ -1,110 +1,24 @@
 <!ENTITY mainWindow.title "&brandShortName;">
 <!ENTITY mainWindow.titlemodifier "&brandShortName;">
 <!ENTITY mainWindow.titlemodifiermenuseparator " - ">
-<!ENTITY tabCmd.label "Новая вкладка">
-<!ENTITY tabCmd.accesskey "в">
-<!ENTITY tabCmd.commandkey "t">
-<!ENTITY openCmd.label "Открыть адрес в Интернете…">
-<!ENTITY openCmd.accesskey "И">
-<!ENTITY openCmd.commandkey "l">
-<!ENTITY openFileCmd.label "Открыть файл…">
-<!ENTITY openFileCmd.accesskey "О">
-<!ENTITY openFileCmd.commandkey "o">
-<!ENTITY recentTabs.label "Недавно закрытые вкладки">
-<!ENTITY recentTabs.accesskey "е">
-<!ENTITY recentTabs.commandkey "t">
-<!ENTITY recentWindows.label "Недавно закрытые окна">
-<!ENTITY recentWindows.accesskey "д">
-<!ENTITY recentWindows.commandkey "y">
 <!ENTITY editPageCmd.label "Редактировать страницу">
 <!ENTITY editPageCmd.accesskey "Р">
 <!ENTITY editPageCmd.commandkey "e">
-<!ENTITY uploadFile.label "Загрузить файл на сервер…">
-<!ENTITY uploadFile.accesskey "ф">
-<!ENTITY printSetupCmd.label "Параметры страницы…">
-<!ENTITY printSetupCmd.accesskey "П">
 <!ENTITY printPreviewCmd.label "Предварительный просмотр">
 <!ENTITY printPreviewCmd.accesskey "р">
 <!ENTITY printCmd.label "Печать…">
 <!ENTITY printCmd.accesskey "е">
 <!ENTITY printCmd.commandkey "p">
-<!ENTITY toolbarsCmd.label "Показать/скрыть">
-<!ENTITY toolbarsCmd.accesskey "П">
 <!ENTITY navbarCmd.label "Панель навигации">
 <!ENTITY navbarCmd.accesskey "П">
 <!ENTITY personalbarCmd.label "Личная панель">
 <!ENTITY personalbarCmd.accesskey "Л">
-<!ENTITY tabbarCmd.label "Панель вкладок">
-<!ENTITY tabbarCmd.accesskey "в">
-<!ENTITY taskbarCmd.label "Строка состояния">
-<!ENTITY taskbarCmd.accesskey "т">
-<!ENTITY componentbarCmd.label "Панель компонентов">
-<!ENTITY componentbarCmd.accesskey "к">
-<!ENTITY useStyleSheetMenu.label "Использовать стиль">
-<!ENTITY useStyleSheetMenu.accesskey "И">
-<!ENTITY useStyleSheetNone.label "Нет">
-<!ENTITY useStyleSheetNone.accesskey "Н">
-<!ENTITY useStyleSheetPersistentOnly.label "Основной стиль страницы">
-<!ENTITY useStyleSheetPersistentOnly.accesskey "О">
-<!ENTITY pageSourceCmd.label "Исходный код страницы">
-<!ENTITY pageSourceCmd.accesskey "х">
-<!ENTITY pageSourceCmd.commandkey "u">
-<!ENTITY pageInfoCmd.label "Информация о странице">
-<!ENTITY pageInfoCmd.accesskey "И">
-<!ENTITY pageInfoCmd.commandkey "i">
-<!ENTITY fullScreenCmd.label "Полный экран">
-<!ENTITY fullScreenCmd.accesskey "э">
-<!ENTITY translateMenu.label "Перевести страницу">
-<!ENTITY translateMenu.accesskey "р">
-<!ENTITY closeOtherTabs.label "Закрыть другие вкладки">
-<!ENTITY closeOtherTabs.accesskey "к">
 <!ENTITY closeWindow.label "Закрыть окно">
 <!ENTITY closeWindow.accesskey "о">
 <!ENTITY minimizeButton.tooltip "Свернуть">
 <!ENTITY restoreButton.tooltip "Восстановить">
-<!ENTITY applyTheme.label "Применить тему">
-<!ENTITY applyTheme.accesskey "т">
-<!ENTITY getNewThemesCmd.label "Загрузить новые темы">
-<!ENTITY getNewThemesCmd.accesskey "т">
-<!ENTITY getPersonasCmd.label "Получить обои">
-<!ENTITY getPersonasCmd.accesskey "б">
-<!ENTITY findOnCmd.label "Найти на этой странице…">
-<!ENTITY findOnCmd.accesskey "Н">
-<!ENTITY findOnCmd.commandkey "f">
-<!ENTITY findAgainCmd.label "Найти следующее">
-<!ENTITY findAgainCmd.accesskey "й">
-<!ENTITY findAgainCmd.commandkey "g">
-<!ENTITY findPrevCmd.label "Найти предыдущее">
-<!ENTITY findPrevCmd.accesskey "щ">
-<!ENTITY findPrevCmd.commandkey "g">
-<!ENTITY findAgainCmd.commandkey2 "VK_F3">
-<!ENTITY findPrevCmd.commandkey2 "VK_F3">
-<!ENTITY searchInternetCmd.label "Поиск в Интернете">
-<!ENTITY searchInternetCmd.accesskey "П">
-<!ENTITY searchInternet.commandKey "s">
-<!ENTITY clearPrivateDataCmd.label "Стереть личные данные…">
-<!ENTITY clearPrivateDataCmd.accesskey "т">
-<!ENTITY goMenu.label "Переход">
-<!ENTITY goMenu.accesskey "е">
-<!ENTITY goHomeCmd.label "Домашняя страница">
-<!ENTITY goHomeCmd.accesskey "Д">
-<!ENTITY historyRestoreLastSession.label "Восстановить предыдущую сессию">
-<!ENTITY historyRestoreLastSession.accesskey "с">
-<!ENTITY bookmarksMenu.label "Закладки">
-<!ENTITY bookmarksMenu.accesskey "З">
-<!ENTITY addCurPageCmd.label "Добавить в закладки">
-<!ENTITY addCurPageCmd.accesskey "Д">
-<!ENTITY addCurPageAsCmd.label "Добавить страницу в закладки…">
-<!ENTITY addCurPageAsCmd.accesskey "Д">
-<!ENTITY addCurPageAsCmd.commandkey "d">
-<!ENTITY addCurTabsAsCmd.label "Сделать закладку на группу страниц…">
-<!ENTITY addCurTabsAsCmd.accesskey "г">
-<!ENTITY manBookmarksCmd.label "Управление закладками…">
-<!ENTITY manBookmarksCmd.accesskey "У">
-<!ENTITY manBookmarksCmd.commandkey "b">
 <!ENTITY feedsMenu.label "Подписаться на ленты новостей">
 <!ENTITY feedsMenu.accesskey "д">
-<!ENTITY emptyItem.label "(Пусто)">
 <!ENTITY menuBar.tooltip "Панель меню">
 <!ENTITY personalToolbar.tooltip "Личная панель">
 <!ENTITY navigationToolbar.tooltip "Панель навигации">
@@ -134,10 +48,4 @@
 <!ENTITY bookmarksToolbarItem.label "Элементы панели закладок">
 <!ENTITY bookmarksToolbarChevron.tooltip "Показать больше закладок">
 <!ENTITY statusText.label "Готово">
-<!ENTITY historyCmd.label "Журнал посещений">
-<!ENTITY historyCmd.accesskey "Ж">
-<!ENTITY history.commandKey "h">
 <!ENTITY popupIcon.tooltiptext "Разрешать открытие всплывающих окон с этих веб-сайтов">
-<!ENTITY bidiSwitchPageDirectionItem.label "Переключить направление текста на странице">
-<!ENTITY bidiSwitchPageDirectionItem.accesskey "н">
-<!ENTITY syncTabsMenu.label "Вкладки с других компьютеров">
