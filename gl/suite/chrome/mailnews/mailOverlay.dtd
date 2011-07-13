@@ -1,0 +1,8 @@
+
+<!ENTITY  newMessageCmd.key               "M">
+<!ENTITY  newMessageCmd.label             "Mensaxe">
+<!ENTITY  newMessageCmd.accesskey         "M">
+ 
+<!ENTITY  newContactCmd.label             "Contacto…">
+<!ENTITY  newContactCmd.accesskey         "C">
+ 
