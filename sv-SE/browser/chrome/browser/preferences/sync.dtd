@@ -33,7 +33,7 @@
 <!-- Device Settings -->
 <!ENTITY syncComputerName.label       "Datorns namn:">
 <!ENTITY syncComputerName.accesskey   "D">
-<!ENTITY deactivateDevice.label       "Inaktivera enheten">
+<!ENTITY unlinkDevice.label           "Avregistrera enheten">
 
 <!-- Footer stuff -->
 <!ENTITY prefs.tosLink.label        "Tjänstevillkor">
