@@ -6,9 +6,9 @@
 <!ENTITY manageAccount.label "Управление учётной записью">
 <!ENTITY manageAccount.accesskey "п">
 <!ENTITY viewQuota.label "Просмотреть квоту">
-<!ENTITY changePassword.label "Сменить пароль">
+<!ENTITY changePassword2.label "Сменить пароль…">
 <!ENTITY mySyncKey.label "Мой ключ синхронизации">
-<!ENTITY resetSync.label "Заменить или объединить данные Sync">
+<!ENTITY resetSync2.label "Заменить или объединить данные Sync…">
 <!ENTITY addDevice.label "Добавить устройство">
 <!ENTITY syncMy.label "Синхронизировать мои">
 <!ENTITY engine.bookmarks.label "Закладки">
@@ -23,6 +23,6 @@
 <!ENTITY engine.prefs.accesskey "о">
 <!ENTITY syncComputerName.label "Имя компьютера:">
 <!ENTITY syncComputerName.accesskey "м">
-<!ENTITY deactivateDevice.label "Деактивировать это устройство">
+<!ENTITY unlinkDevice.label "Отсоединить это устройство">
 <!ENTITY prefs.tosLink.label "Условия службы">
 <!ENTITY prefs.ppLink.label "Политика приватности">
