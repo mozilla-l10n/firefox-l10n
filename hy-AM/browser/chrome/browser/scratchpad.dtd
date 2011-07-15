@@ -27,8 +27,8 @@
 <!ENTITY saveFileCmd.accesskey        "S">
 <!ENTITY saveFileCmd.commandkey       "s">
 
-<!ENTITY saveFileAsCmd.label          "Save As…">
-<!ENTITY saveFileAsCmd.accesskey      "A">
+<!ENTITY saveFileAsCmd.label          "Պահել որպես…">
+<!ENTITY saveFileAsCmd.accesskey      "Պ">
 
 <!ENTITY closeCmd.label               "Close">
 <!ENTITY closeCmd.key                 "W">

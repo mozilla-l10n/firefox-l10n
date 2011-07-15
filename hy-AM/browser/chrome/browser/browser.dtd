@@ -96,8 +96,6 @@ can reach it easily. -->
 <!ENTITY printCmd.label "Տպել…">
 <!ENTITY printCmd.accesskey "P">
 <!ENTITY printCmd.commandkey "p">
-<!ENTITY import.label "Ներմուծել…">
-<!ENTITY import.accesskey "I">
 
 <!ENTITY goOfflineCmd.label "Աշխատել Օֆլայն">
 <!ENTITY goOfflineCmd.accesskey "W">
@@ -251,19 +249,6 @@ can reach it easily. -->
 <!ENTITY inspectPanelTitle.label      "HTML">
 <!ENTITY inspectButton.label          "Հսկել">
 <!ENTITY inspectButton.accesskey      "Հ">
-<!ENTITY inspectNextButton.label      "Հաջորդ">
-<!ENTITY inspectNextButton.accesskey  "Հ">
-<!ENTITY inspectPreviousButton.label  "Նախորդ">
-<!ENTITY inspectPreviousButton.accesskey "Ն">
-<!ENTITY inspectStyleButton.label     "Ոճը">
-<!ENTITY inspectStyleButton.accesskey "Ո">
-<!ENTITY inspectStylePanelTitle.label  "Ոճը">
-<!-- LOCALIZATION NOTE (inspectObjectButton.label): This button label
-  -  appears on the Inspector's toolbar. It is used to open and close the Object
-  -  panel. There is also a label in inspector.properties for the panel
-  -  titlebar: object.objectPanelTitle. -->
-<!ENTITY inspectObjectButton.label       "Օբյեկտ">
-<!ENTITY inspectObjectButton.accesskey   "Օ">
 
 <!ENTITY getMoreDevtoolsCmd.label        "Get More Tools">
 <!ENTITY getMoreDevtoolsCmd.accesskey    "M">

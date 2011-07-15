@@ -60,7 +60,7 @@
 <!ENTITY warning.checkcompatibility.enable.tooltip "Միացնել հավելման համատեղելիության ստուգումը">
 <!ENTITY warning.updatesecurity.label              "Հավելումների թարմացման անվտանգության ստուգումը պասիվացված է: Թարմացումները կարող են վտանգավոր լինել ձեր համար:">
 <!ENTITY warning.updatesecurity.enable.label       "Միացնել">
-<!ENTITY warning.updatesecurity.enable.tooltip     "Enable add-on update security checking">
+<!ENTITY warning.updatesecurity.enable.tooltip     "Միացնել հավելման թարմացման անվտանգության ստուգումը">
 
 <!-- global informations -->
 <!ENTITY info.plugincheck.label                 "Ստուգեք,որպեսզի ճշտեք,որ ձեր պլագինները ժամկետի մեջ են:">
@@ -235,3 +235,5 @@
 <!ENTITY eula.width                           "560px">
 <!ENTITY eula.height                          "400px">
 <!ENTITY eula.accept                          "Ընդունել և տեղակայել">
+
+<!ENTITY settings.path.button.label           "Զննել…">

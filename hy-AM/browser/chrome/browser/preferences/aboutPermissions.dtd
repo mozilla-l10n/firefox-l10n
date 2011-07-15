@@ -1,7 +1,7 @@
 <!ENTITY permissionsManager.title        "Permissions Manager">
 
 <!ENTITY sites.search                    "Search Sites">
-<!ENTITY sites.allSites                  "All Sites">
+<!ENTITY sites.allSites                  "Բոլոր կայքերը">
 
 <!-- LOCALIZATION NOTE (permissions.header.start, permissions.header.end): These strings
      surround the host name of the site to make the header for the permissions page.
@@ -22,9 +22,9 @@
 <!ENTITY password.manage                 "Manage Passwords…">
 
 <!ENTITY cookie.label                    "Տեղադրել Քուուկի">
-<!ENTITY cookie.clear                    "Clear Cookies">
+<!ENTITY cookie.remove                   "Հեռացնել կուկերը">
 <!ENTITY cookie.manage                   "Manage Cookies…">
-<!ENTITY cookie.clearAll                 "Clear All Cookies">
+<!ENTITY cookie.removeAll                "Remove All Cookies">
 
 <!ENTITY geo.label                       "Հայտնել գտնվելու վայրը">
 

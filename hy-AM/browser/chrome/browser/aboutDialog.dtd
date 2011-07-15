@@ -99,21 +99,3 @@
      example: You are currently on the _Stable_ update channel. -->
 <!ENTITY channel.description.start  "Դուք այժմ գտնվում եք՝ ">
 <!ENTITY channel.description.end    " թարմացնել աղբյուրը.  ">
-
-<!ENTITY channel.change             "Փոխել">
-
-<!ENTITY channel.release.description       "Վայելե΄ք փորձված և ստուգված վերջին տարբերակը, որն օգտագործվում է ամբողջ աշխարհում հարյուր միլիոնավոր մարդկանց կողմից:Վերահսկե΄ք Ձեր օնլայն փորձառությունը` գերազանց արագությամբ,հեշտ հարմարեցմամբ և նորագույն Վեբ տեխնոլոգիաներով:">
-<!ENTITY channel.beta.description          "Փորձ՝ ավելի ստաբիլ ձևով կրճատել ավելորդ հոդվածները: Ապահովել հետադարձ կապ՝ օգնելու լավացնել և հղկել այն, ինչ լինելու է վերջին թողարկմանը: ">
-<!ENTITY channel.aurora.description        " Վերջին նորարարությունները փորձարկելը փոփոխական միջավայրում զուտ ցնցում ապրելու համար չէ:Ապահովեք հետադարձ կապը առանձնահատկություններում և գործելու ժամանակ,և դա կօգնի, որ դուք գիտակցեք, թե ինչ հնարավորություններ ունի վերջին տարբերակը:">
-
-<!-- LOCALIZATION NOTE (channel.selector.start,channel.selector.end): channel.selector.start and
-     channel.selector.end create one sentence, with a channel selection menulist instered in between.
-     This is all in one line, so try to make the localized text short.
-     example: Switch to the [Stable] update channel. -->
-<!ENTITY channel.selector.start          "Անցնել դեպի">
-<!ENTITY channel.selector.end            "թարմացնել աղբյուրը:">
-
-<!-- LOCALIZATION NOTE (channel.selector.applyButton): This button applies the user's choice to switch
-     to a new update channel and starts the application update process. -->
-<!ENTITY channel.selector.applyButton    "Կիրառել և թարմացնել">
-<!ENTITY channel.selector.cancelButton   "Չեղարկել">
