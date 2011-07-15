@@ -20,8 +20,6 @@
 <!ENTITY selectSound.accesskey "P">
 <!ENTITY playSoundButton.label "Jouer le son">
 <!ENTITY playSoundButton.accesskey "u">
-<!ENTITY selectSound.title "Sélectionnez le son pour le blocage d'une fenêtre popup">
-<!ENTITY selectSound.filter "Sons">
 
 <!ENTITY displayIcon.label "Afficher une icône dans la barre d'état du navigateur">
 <!ENTITY displayIcon.accesskey "c">
