@@ -10,121 +10,29 @@
 <!-- LOCALIZATION NOTE (mainWindow.titlemodifiermenuseparator): DONT_TRANSLATE -->
 <!ENTITY mainWindow.titlemodifiermenuseparator " - ">
 
-<!ENTITY tabCmd.label "Panel prohlížeče">
-<!ENTITY tabCmd.accesskey "P">
-<!ENTITY tabCmd.commandkey "t">
-<!ENTITY openCmd.label "Otevřít adresu…">
-<!ENTITY openCmd.accesskey "o">
-<!ENTITY openCmd.commandkey "l">
-<!ENTITY openFileCmd.label "Otevřít soubor…">
-<!ENTITY openFileCmd.accesskey "s">
-<!ENTITY openFileCmd.commandkey "o">
-<!ENTITY recentTabs.label "Naposledy zavřené panely">
-<!ENTITY recentTabs.accesskey "p">
-<!ENTITY recentTabs.commandkey "t">
-<!ENTITY recentWindows.label "Naposledy zavřená okna">
-<!ENTITY recentWindows.accesskey "d">
-<!ENTITY recentWindows.commandkey "y">
 <!ENTITY editPageCmd.label "Upravit stránku">
 <!ENTITY editPageCmd.accesskey "U">
 <!ENTITY editPageCmd.commandkey "e">
 
-<!ENTITY uploadFile.label "Nahrát soubor…">
-<!ENTITY uploadFile.accesskey "S">
-
-<!ENTITY printSetupCmd.label "Vzhled stránky…">
-<!ENTITY printSetupCmd.accesskey "v">
 <!ENTITY printPreviewCmd.label "Náhled tisku">
 <!ENTITY printPreviewCmd.accesskey "h">
 <!ENTITY printCmd.label "Tisk…">
 <!ENTITY printCmd.accesskey "t">
 <!ENTITY printCmd.commandkey "p">
 
-<!ENTITY toolbarsCmd.label "Nástrojové lišty">
-<!ENTITY toolbarsCmd.accesskey "N">
 <!ENTITY navbarCmd.label "Lišta navigace">
 <!ENTITY navbarCmd.accesskey "N">
 <!ENTITY personalbarCmd.label "Osobní lišta">
 <!ENTITY personalbarCmd.accesskey "o">
-<!ENTITY tabbarCmd.label "Lišta s panely">
-<!ENTITY tabbarCmd.accesskey "T">
-<!ENTITY taskbarCmd.label "Stavový řádek">
-<!ENTITY taskbarCmd.accesskey "S">
-<!ENTITY componentbarCmd.label "Lišta komponent">
-<!ENTITY componentbarCmd.accesskey "K">
 
-<!ENTITY useStyleSheetMenu.label "Styl stránky">
-<!ENTITY useStyleSheetMenu.accesskey "y">
-<!ENTITY useStyleSheetNone.label "Žádný">
-<!ENTITY useStyleSheetNone.accesskey "N">
-<!ENTITY useStyleSheetPersistentOnly.label "Základní styl">
-<!ENTITY useStyleSheetPersistentOnly.accesskey "z">
-<!ENTITY pageSourceCmd.label "Zdrojový kód stránky">
-<!ENTITY pageSourceCmd.accesskey "j">
-<!ENTITY pageSourceCmd.commandkey "u">
-<!ENTITY pageInfoCmd.label "Informace o stránce">
-<!ENTITY pageInfoCmd.accesskey "i">
-<!ENTITY pageInfoCmd.commandkey "i">
-<!ENTITY fullScreenCmd.label "Celá obrazovka">
-<!ENTITY fullScreenCmd.accesskey "C">
-<!ENTITY translateMenu.label "Přeložit stránku">
-<!ENTITY translateMenu.accesskey "l">
-
-<!ENTITY closeOtherTabs.label "Zavřít ostatní panely">
-<!ENTITY closeOtherTabs.accesskey "p">
 <!ENTITY closeWindow.label "Zavřít okno">
 <!ENTITY closeWindow.accesskey "o">
 
 <!ENTITY minimizeButton.tooltip "Minimalizuje">
 <!ENTITY restoreButton.tooltip "Obnovit">
 
-<!ENTITY applyTheme.label "Motivy vzhledu">
-<!ENTITY applyTheme.accesskey "M">
-<!ENTITY getNewThemesCmd.label "Získat nový motiv">
-<!ENTITY getNewThemesCmd.accesskey "Z">
-<!ENTITY getPersonasCmd.label "Získat Personas">
-<!ENTITY getPersonasCmd.accesskey "P">
-<!ENTITY findOnCmd.label "Najít na této stránce…">
-<!ENTITY findOnCmd.accesskey "j">
-<!ENTITY findOnCmd.commandkey "f">
-<!ENTITY findAgainCmd.label "Najít další">
-<!ENTITY findAgainCmd.accesskey "t">
-<!ENTITY findAgainCmd.commandkey "g">
-<!ENTITY findPrevCmd.label "Najít předchozí">
-<!ENTITY findPrevCmd.accesskey "c">
-<!ENTITY findPrevCmd.commandkey "g">
-<!ENTITY findAgainCmd.commandkey2 "VK_F3">
-<!ENTITY findPrevCmd.commandkey2 "VK_F3">
-
-<!ENTITY searchInternetCmd.label "Hledání na webu">
-<!ENTITY searchInternetCmd.accesskey "W">
-<!ENTITY searchInternet.commandKey "f">
-
-<!ENTITY clearPrivateDataCmd.label "Vymazat důvěrná data">
-<!ENTITY clearPrivateDataCmd.accesskey "m">
-
-<!ENTITY goMenu.label "Přejít">
-<!ENTITY goMenu.accesskey "p">
-<!ENTITY goHomeCmd.label "Domů">
-<!ENTITY goHomeCmd.accesskey "d">
-<!ENTITY historyRestoreLastSession.label "Obnovit předchozí relaci">
-<!ENTITY historyRestoreLastSession.accesskey "O">
-
-<!ENTITY bookmarksMenu.label "Záložky">
-<!ENTITY bookmarksMenu.accesskey "o">
-<!ENTITY addCurPageCmd.label "Přidat k záložkám">
-<!ENTITY addCurPageCmd.accesskey "P">
-<!ENTITY addCurPageAsCmd.label "Přidat k záložkám jako…">
-<!ENTITY addCurPageAsCmd.accesskey "J">
-<!ENTITY addCurPageAsCmd.commandkey "d">
-<!ENTITY addCurTabsAsCmd.label "Přidat skupinu panelů k záložkám…">
-<!ENTITY addCurTabsAsCmd.accesskey "K">
-<!ENTITY manBookmarksCmd.label "Správce záložek…">
-<!ENTITY manBookmarksCmd.accesskey "S">
-<!ENTITY manBookmarksCmd.commandkey "b">
 <!ENTITY feedsMenu.label "Odebírat tuto stránku">
 <!ENTITY feedsMenu.accesskey "O">
-<!ENTITY emptyItem.label "(Prázdná)">
 
 <!ENTITY menuBar.tooltip "Hlavní nabídka">
 <!ENTITY personalToolbar.tooltip "Osobní lišta">
@@ -164,14 +72,4 @@
 <!-- Statusbar -->
 <!ENTITY statusText.label "Hotovo">
 
-<!ENTITY historyCmd.label "Historie">
-<!ENTITY historyCmd.accesskey "h">
-<!ENTITY history.commandKey "h">
-
 <!ENTITY popupIcon.tooltiptext "Odblokuje vyskakovací okna z tohoto serveru">
-
-<!ENTITY bidiSwitchPageDirectionItem.label "Přepnout orientaci stránky">
-<!ENTITY bidiSwitchPageDirectionItem.accesskey "o">
-
-<!-- LOCALIZATION NOTE (syncTabsMenu.label): This appears in the Go menu -->
-<!ENTITY syncTabsMenu.label "Panely z jiných počítačů">
