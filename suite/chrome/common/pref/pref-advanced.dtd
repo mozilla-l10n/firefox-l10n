@@ -1,11 +1,6 @@
 <!--LOCALIZATION NOTE : FILE 'Advanced' prefs settings -->
 <!ENTITY pref.advanced.title "Rozšířené">
 
-<!ENTITY prefEnableJava.caption "Vlastnosti pomáhající interpretovat webové stránky">
-
-<!ENTITY enbJavaCheck.label "Povolit Javu">
-<!ENTITY enbJavaCheck.accesskey "J">
-
 <!ENTITY systemPref.caption "Systémové předvolby">
 <!ENTITY systemPrefCheck.label "Použít předvolby ze systému">
 <!ENTITY systemPrefCheck.accesskey "U">
