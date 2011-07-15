@@ -7,7 +7,7 @@
      <rdf:Seq><rdf:li>
        <rdf:Description ID="Account_Settings"
          nc:name="Account Settings"
-         nc:link="mail_help.xhtml#changing_the_settings_for_an_account"/>
+         nc:link="mailnews_getting_started.xhtml#changing_the_settings_for_an_account"/>
      </rdf:li>
      <rdf:li>
        <rdf:Description ID="adding"
@@ -26,7 +26,7 @@
      <rdf:li>
        <rdf:Description ID="attaching_files_to_messages"
          nc:name="attaching files to messages"
-         nc:link="mail_help.xhtml#attaching_a_file_or_web_page"/>
+         nc:link="mailnews_using_mail.xhtml#attaching_a_file_or_web_page"/>
      </rdf:li></rdf:Seq>
    </nc:subheadings>
 </rdf:Description>
@@ -41,17 +41,17 @@
      <rdf:li>
        <rdf:Description ID="adding:blog_account"
          nc:name="creating a new blog account"
-         nc:link="mail_help.xhtml#setting_up_additional_mail_and_news_accounts"/>
+         nc:link="mailnews_getting_started.xhtml#setting_up_additional_mail_and_news_accounts"/>
      </rdf:li>
      <rdf:li>
        <rdf:Description ID="adding:mail_account"
          nc:name="creating a new mail account"
-         nc:link="mail_help.xhtml#setting_up_additional_mail_and_news_accounts"/>
+         nc:link="mailnews_getting_started.xhtml#setting_up_additional_mail_and_news_accounts"/>
      </rdf:li>
      <rdf:li>
        <rdf:Description ID="adding:newsgroup_account"
          nc:name="adding a new newsgroup account"
-         nc:link="mail_help.xhtml#setting_up_additional_mail_and_news_accounts"/>
+         nc:link="mailnews_getting_started.xhtml#setting_up_additional_mail_and_news_accounts"/>
      </rdf:li>
      <rdf:li>
        <rdf:Description ID="adding:table_elements"
@@ -304,6 +304,11 @@
          nc:link="nav_help.xhtml#changing_cache_settings"/>
      </rdf:li>
      <rdf:li>
+       <rdf:Description ID="caret_browsing"
+         nc:name="caret browsing"
+         nc:link="cs_nav_prefs_advanced.xhtml#keyboard_navigation"/>
+     </rdf:li>
+     <rdf:li>
        <rdf:Description ID="Certificates"
          nc:name="Certificates"
          nc:link="using_certs_help.xhtml#using_certificates"/>
@@ -322,7 +327,8 @@
        <rdf:Description ID="cookies"
          nc:name="cookies"
          nc:link="using_priv_help.xhtml#using_the_cookie_manager"/>
-     </rdf:li><rdf:li>
+     </rdf:li>
+     <rdf:li>
        <rdf:Description ID="copy web pages"
          nc:name="copy"
          nc:link="nav_help.xhtml#copying_saving_and_printing_pages"/>
@@ -563,11 +569,6 @@
          nc:link="using_priv_help.xhtml#managing_cookies_site-by-site"/>
      </rdf:li>
      <rdf:li>
-       <rdf:Description ID="cookies:notification_icon"
-         nc:name="notification icon"
-         nc:link="using_priv_help.xhtml#cookie_notification"/>
-     </rdf:li>
-     <rdf:li>
        <rdf:Description ID="cookies:preferences"
          nc:name="cookie preferences"
          nc:link="using_priv_help.xhtml#cookies"/>
@@ -618,6 +619,11 @@
 <rdf:Description about="help-indexAZ.rdf#d">
    <nc:subheadings>
      <rdf:Seq><rdf:li>
+       <rdf:Description ID="default_account"
+         nc:name="default account"
+         nc:link="mailnews_getting_started.xhtml#set_as_default"/>
+     </rdf:li>
+     <rdf:li>
        <rdf:Description ID="device_manager"
          nc:name="Device Manager"
          nc:link="using_certs_help.xhtml#about_security_devices_and_modules"/>
@@ -654,7 +660,7 @@
      <rdf:li>
        <rdf:Description ID="encryption"
          nc:name="encryption"
-         nc:link="mail_sec_help.xhtml#signing_and_encrypting_messages"/>
+         nc:link="mailnews_security.xhtml#signing_and_encrypting_messages"/>
      </rdf:li>
      <rdf:li>
        <rdf:Description ID="JSConsole"
@@ -679,7 +685,7 @@
      <rdf:li>
        <rdf:Description ID="email_addresses:in_mail_messages"
          nc:name="e-mail address in messages"
-         nc:link="mail_help.xhtml#addressing_a_message"/>
+         nc:link="mailnews_using_mail.xhtml#addressing_a_message"/>
      </rdf:li></rdf:Seq>
    </nc:subheadings>
 </rdf:Description>
@@ -689,12 +695,12 @@
      <rdf:Seq><rdf:li>
        <rdf:Description ID="encryption:about"
          nc:name="about encryption and signing"
-         nc:link="mail_sec_help.xhtml#about_digital_signatures_and_encryption"/>
+         nc:link="mailnews_security.xhtml#about_digital_signatures_and_encryption"/>
      </rdf:li>
      <rdf:li>
        <rdf:Description ID="encryption:of_email_messages"
          nc:name="encrypted e-mail messages"
-         nc:link="mail_sec_help.xhtml#signing_and_encrypting_messages"/>
+         nc:link="mailnews_security.xhtml#signing_and_encrypting_messages"/>
      </rdf:li>
      <rdf:li>
        <rdf:Description ID="encryption:of_stored_sensitive_information"
@@ -704,7 +710,7 @@
      <rdf:li>
        <rdf:Description ID="encryption:settings_for_email"
          nc:name="encryption settings"
-         nc:link="mail_sec_help.xhtml#configuring_security_settings"/>
+         nc:link="mailnews_security.xhtml#configuring_security_settings"/>
      </rdf:li>
      <rdf:li>
        <rdf:Description ID="encryption:status_of_web_page"
@@ -734,12 +740,12 @@
      <rdf:li>
        <rdf:Description ID="Find_Links_As_You_Type"
          nc:name="Find Links As You Type"
-         nc:link="cs_nav_prefs_advanced.xhtml#keyboard_navigation"/>
+         nc:link="cs_nav_prefs_advanced.xhtml#fayt"/>
      </rdf:li>
      <rdf:li>
        <rdf:Description ID="Find_Text_As_You_Type"
          nc:name="Find Text As You Type"
-         nc:link="cs_nav_prefs_advanced.xhtml#keyboard_navigation"/>
+         nc:link="cs_nav_prefs_advanced.xhtml#fayt"/>
      </rdf:li>
      <rdf:li>
        <rdf:Description ID="FIPS_mode"
@@ -812,7 +818,7 @@
      <rdf:Seq><rdf:li>
        <rdf:Description ID="HTML:editing_in_mail_messages"
          nc:name="editing HTML in mail messages"
-         nc:link="mail_help.xhtml#editing_or_inserting_html_elements"/>
+         nc:link="mailnews_using_mail.xhtml#editing_or_inserting_html_elements"/>
      </rdf:li>
      <rdf:li>
        <rdf:Description ID="HTML:using_in_Composer"
@@ -822,7 +828,7 @@
      <rdf:li>
        <rdf:Description ID="HTML:using_in_mail_messages"
          nc:name="using HTML in mail messages"
-         nc:link="mail_help.xhtml#using_html_in_your_messages"/>
+         nc:link="mailnews_using_mail.xhtml#using_html_in_your_messages"/>
      </rdf:li></rdf:Seq>
    </nc:subheadings>
 </rdf:Description>
@@ -921,7 +927,7 @@
      <rdf:li>
        <rdf:Description ID="import:mail"
          nc:name="import mail or settings from other programs"
-         nc:link="mail_help.xhtml#importing_mail_from_other_programs"/>
+         nc:link="mailnews_getting_started.xhtml#importing_mail_from_other_programs"/>
      </rdf:li></rdf:Seq>
    </nc:subheadings>
 </rdf:Description>
@@ -1075,7 +1081,7 @@
      <rdf:li>
        <rdf:Description ID="Mail_and_Newsgroups"
          nc:name="Mail and Newsgroups"
-         nc:link="mail_help.xhtml"/>
+         nc:link="mailnews_getting_started.xhtml"/>
      </rdf:li>
      <rdf:li>
        <rdf:Description ID="master_password"
@@ -1095,12 +1101,12 @@
      <rdf:Seq><rdf:li>
        <rdf:Description ID="Mail_and_Newsgroups:Account_Setup_Wizard"
          nc:name="Account Setup Wizard"
-         nc:link="mail_help.xhtml#using_the_mail_account_setup_wizard"/>
+         nc:link="mailnews_getting_started.xhtml#using_the_mail_account_setup_wizard"/>
      </rdf:li>
      <rdf:li>
        <rdf:Description ID="Mail_and_Newsgroups:adding_accounts"
          nc:name="adding accounts"
-         nc:link="mail_help.xhtml#setting_up_additional_mail_and_news_accounts"/>
+         nc:link="mailnews_getting_started.xhtml#setting_up_additional_mail_and_news_accounts"/>
      </rdf:li>
      <rdf:li>
        <rdf:Description ID="Mail_and_Newsgroups:address_autocompletion"
@@ -1110,7 +1116,7 @@
      <rdf:li>
        <rdf:Description ID="Mail_and_Newsgroups:addressing_messages"
          nc:name="addressing messages"
-         nc:link="mail_help.xhtml#addressing_a_message"/>
+         nc:link="mailnews_using_mail.xhtml#addressing_a_message"/>
      </rdf:li>
      <rdf:li>
        <rdf:Description ID="Mail_and_Newsgroups:addressing_preferences"
@@ -1125,12 +1131,12 @@
      <rdf:li>
        <rdf:Description ID="Mail_and_Newsgroups:attaching_files"
          nc:name="attaching files"
-         nc:link="mail_help.xhtml#attaching_a_file_or_web_page"/>
+         nc:link="mailnews_using_mail.xhtml#attaching_a_file_or_web_page"/>
      </rdf:li>
      <rdf:li>
        <rdf:Description ID="Mail_and_Newsgroups:changing_account_settings"
          nc:name="changing account settings"
-         nc:link="mail_help.xhtml#changing_the_settings_for_an_account"/>
+         nc:link="mailnews_getting_started.xhtml#changing_the_settings_for_an_account"/>
      </rdf:li>
      <rdf:li>
        <rdf:Description ID="Mail_and_Newsgroups:Character_Encoding"
@@ -1140,12 +1146,12 @@
      <rdf:li>
        <rdf:Description ID="Mail_and_Newsgroups:Compose_window"
          nc:name="Compose window"
-         nc:link="mail_help.xhtml#using_the_message_composition_window"/>
+         nc:link="mailnews_using_mail.xhtml#using_the_message_composition_window"/>
      </rdf:li>
      <rdf:li>
        <rdf:Description ID="Mail_and_Newsgroups:composing_messages"
          nc:name="composing messages"
-         nc:link="mail_help.xhtml#composing_mail_and_newsgroup_messages"/>
+         nc:link="mailnews_using_mail.xhtml#composing_mail_and_newsgroup_messages"/>
      </rdf:li>
      <rdf:li>
        <rdf:Description ID="Mail_and_Newsgroups:copies_and_folder_settings"
@@ -1170,7 +1176,7 @@
      <rdf:li>
        <rdf:Description ID="Mail_and_Newsgroups:creating_HTML_mail_messages"
          nc:name="creating HTML mail messages"
-         nc:link="mail_help.xhtml#creating_html_mail_messages"/>
+         nc:link="mailnews_using_mail.xhtml#creating_html_mail_messages"/>
      </rdf:li>
      <rdf:li>
        <rdf:Description ID="Mail_and_Newsgroups:disk_space_and_storage_settings"
@@ -1185,7 +1191,7 @@
      <rdf:li>
        <rdf:Description ID="Mail_and_Newsgroups:forwarding_messages"
          nc:name="forwarding messages"
-         nc:link="mail_help.xhtml#forwarding_a_message"/>
+         nc:link="mailnews_using_mail.xhtml#forwarding_a_message"/>
      </rdf:li>
      <rdf:li>
        <rdf:Description ID="Mail_and_Newsgroups:general_preferences"
@@ -1195,22 +1201,22 @@
      <rdf:li>
        <rdf:Description ID="Mail_and_Newsgroups:getting_new_messages"
          nc:name="getting new messages"
-         nc:link="mail_help.xhtml#getting_new_messages"/>
+         nc:link="mailnews_using_mail.xhtml#getting_new_messages"/>
      </rdf:li>
      <rdf:li>
        <rdf:Description ID="Mail_and_Newsgroups:HTML_mail_recipients"
          nc:name="HTML mail recipients"
-         nc:link="mail_help.xhtml#specifying_recipients_for_html_messages"/>
+         nc:link="mailnews_using_mail.xhtml#specifying_recipients_for_html_messages"/>
      </rdf:li>
      <rdf:li>
        <rdf:Description ID="Mail_and_Newsgroups:HTML_mail_sending_options"
          nc:name="HTML mail sending options"
-         nc:link="mail_help.xhtml#choosing_html_mail_sending_options"/>
+         nc:link="mailnews_using_mail.xhtml#choosing_html_mail_sending_options"/>
      </rdf:li>
      <rdf:li>
        <rdf:Description ID="Mail_and_Newsgroups:HTML_Message_Source"
          nc:name="HTML Message Source"
-         nc:link="mail_help.xhtml#viewing_the_message_source_for_html_messages"/>
+         nc:link="mailnews_using_mail.xhtml#viewing_the_message_source_for_html_messages"/>
      </rdf:li>
      <rdf:li>
        <rdf:Description ID="Mail_and_Newsgroups:identity_settings"
@@ -1220,7 +1226,7 @@
      <rdf:li>
        <rdf:Description ID="Mail_and_Newsgroups:mail_window_layout"
          nc:name="mail window layout"
-         nc:link="mail_help.xhtml#choosing_how_you_view_the_mail_window"/>
+         nc:link="mailnews_using_mail.xhtml#choosing_how_you_view_the_mail_window"/>
      </rdf:li>
      <rdf:li>
        <rdf:Description ID="Mail_and_Newsgroups:message_searching"
@@ -1250,32 +1256,32 @@
      <rdf:li>
        <rdf:Description ID="Mail_and_Newsgroups:replying_to_messages"
          nc:name="replying to messages"
-         nc:link="mail_help.xhtml#replying_to_a_message"/>
+         nc:link="mailnews_using_mail.xhtml#replying_to_a_message"/>
      </rdf:li>
      <rdf:li>
        <rdf:Description ID="Mail_and_Newsgroups:saving_and_printing_messages"
          nc:name="saving and printing messages"
-         nc:link="mail_help.xhtml#saving_and_printing_messages"/>
+         nc:link="mailnews_using_mail.xhtml#saving_and_printing_messages"/>
      </rdf:li>
      <rdf:li>
        <rdf:Description ID="Mail_and_Newsgroups:saving_attachments"
          nc:name="saving attachments"
-         nc:link="mail_help.xhtml#saving_attachments"/>
+         nc:link="mailnews_using_mail.xhtml#saving_attachments"/>
      </rdf:li>
      <rdf:li>
        <rdf:Description ID="Mail_and_Newsgroups:saving_messages_drafts"
          nc:name="saving messages drafts"
-         nc:link="mail_help.xhtml#saving_and_editing_a_message_draft"/>
+         nc:link="mailnews_using_mail.xhtml#saving_and_editing_a_message_draft"/>
      </rdf:li>
      <rdf:li>
        <rdf:Description ID="Mail_and_Newsgroups:sending_messages"
          nc:name="sending messages"
-         nc:link="mail_help.xhtml#sending_messages"/>
+         nc:link="mailnews_using_mail.xhtml#sending_messages"/>
      </rdf:li>
      <rdf:li>
        <rdf:Description ID="Mail_and_Newsgroups:sending_options"
          nc:name="sending options"
-         nc:link="mail_help.xhtml#selecting_message_sending_options"/>
+         nc:link="mailnews_using_mail.xhtml#selecting_message_sending_options"/>
      </rdf:li>
      <rdf:li>
        <rdf:Description ID="Mail_and_Newsgroups:SMTP_settings"
@@ -1285,7 +1291,7 @@
      <rdf:li>
        <rdf:Description ID="Mail_and_Newsgroups:sorting_and_threading_messages"
          nc:name="sorting and threading messages"
-         nc:link="mail_help.xhtml#sorting_and_threading_messages"/>
+         nc:link="mailnews_using_mail.xhtml#sorting_and_threading_messages"/>
      </rdf:li>
      <rdf:li>
        <rdf:Description ID="Mail_and_Newsgroups:using_address_books"
@@ -1295,17 +1301,17 @@
      <rdf:li>
        <rdf:Description ID="Mail_and_Newsgroups:using_attachments"
          nc:name="using attachments"
-         nc:link="mail_help.xhtml#using_attachments"/>
+         nc:link="mailnews_using_mail.xhtml#using_attachments"/>
      </rdf:li>
      <rdf:li>
        <rdf:Description ID="Mail_and_Newsgroups:using_HTML_in_messages"
          nc:name="using HTML in messages"
-         nc:link="mail_help.xhtml#using_html_in_your_messages"/>
+         nc:link="mailnews_using_mail.xhtml#using_html_in_your_messages"/>
      </rdf:li>
      <rdf:li>
        <rdf:Description ID="Mail_and_Newsgroups:viewing_attachments"
          nc:name="viewing attachments"
-         nc:link="mail_help.xhtml#viewing_and_opening_attachments"/>
+         nc:link="mailnews_using_mail.xhtml#viewing_and_opening_attachments"/>
      </rdf:li>
      <rdf:li>
        <rdf:Description ID="Mail_and_Newsgroups:working_offline"
@@ -1803,7 +1809,7 @@
      </rdf:li><rdf:li>
        <rdf:Description ID="return_receipts:using"
          nc:name="using return receipts"
-         nc:link="mail_help.xhtml#confirming_that_your_message_was_opened"/>
+         nc:link="mailnews_using_mail.xhtml#confirming_that_your_message_was_opened"/>
      </rdf:li></rdf:Seq>
    </nc:subheadings>
 </rdf:Description>
@@ -1845,7 +1851,7 @@
      <rdf:li>
        <rdf:Description ID="signing_email_messages"
          nc:name="signing e-mail messages"
-         nc:link="mail_sec_help.xhtml#signing_and_encrypting_messages"/>
+         nc:link="mailnews_security.xhtml#signing_and_encrypting_messages"/>
      </rdf:li>
      <rdf:li>
        <rdf:Description ID="smart_cards"
@@ -1880,7 +1886,7 @@
      <rdf:li>
        <rdf:Description ID="save:messages"
          nc:name="saving and printing messages"
-         nc:link="mail_help.xhtml#saving_and_printing_messages"/>
+         nc:link="mailnews_using_mail.xhtml#saving_and_printing_messages"/>
      </rdf:li></rdf:Seq>
    </nc:subheadings>
 </rdf:Description>
@@ -1910,7 +1916,7 @@
      <rdf:Seq><rdf:li>
        <rdf:Description ID="security:checking_before_sending_message"
          nc:name="checking security before sending message"
-         nc:link="mail_sec_help.xhtml#message_security_compose_window"/>
+         nc:link="mailnews_security.xhtml#message_security_compose_window"/>
      </rdf:li>
      <rdf:li>
        <rdf:Description ID="security:checking_for_a_web_page"
@@ -1920,7 +1926,7 @@
      <rdf:li>
        <rdf:Description ID="security:checking_for_received_messages"
          nc:name="checking security for received messages"
-         nc:link="mail_sec_help.xhtml#reading_signed_and_encrypted_messages"/>
+         nc:link="mailnews_security.xhtml#reading_signed_and_encrypted_messages"/>
      </rdf:li>
      <rdf:li>
        <rdf:Description ID="security:preferences"
