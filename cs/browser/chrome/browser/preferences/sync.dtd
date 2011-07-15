@@ -34,7 +34,7 @@
 <!-- Device Settings -->
 <!ENTITY syncComputerName.label "Název počítače:">
 <!ENTITY syncComputerName.accesskey "N">
-<!ENTITY deactivateDevice.label "Odpojit zařízení">
+<!ENTITY unlinkDevice.label "Odpojit zařízení">
 
 <!-- Footer stuff -->
 <!ENTITY prefs.tosLink.label "Podmínky služby">
