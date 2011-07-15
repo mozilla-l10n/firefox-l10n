@@ -33,7 +33,6 @@
 
 <!ENTITY feedsMenu.label "S'abonner à cette page">
 <!ENTITY feedsMenu.accesskey "S">
-<!ENTITY emptyItem.label "(Vide)">
 
 <!ENTITY menuBar.tooltip "Barre de menu">
 <!ENTITY personalToolbar.tooltip "Barre d'outils personnelle">
