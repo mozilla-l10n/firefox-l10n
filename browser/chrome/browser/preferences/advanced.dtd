@@ -68,6 +68,8 @@
 <!ENTITY checkNow.accesskey              "N">
 <!ENTITY submitCrashes.label             "Տեղեկացնել վթարների մասին">
 <!ENTITY submitCrashes.accesskey         "t">
+<!ENTITY submitTelemetry.label           "Submit performance data">
+<!ENTITY submitTelemetry.accesskey       "p">
 
 <!ENTITY networkTab.label                "Ցանց">
 

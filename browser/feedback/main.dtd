@@ -53,7 +53,7 @@
 <!ENTITY testpilot.studiesWindow.title                  "Ձեր փորձարարական ուսումնասիրությունները">
 <!ENTITY testpilot.studiesWindow.currentStudies.label   "Ընթացիկ ուսումնասիրություններ">
 <!ENTITY testpilot.studiesWindow.finishedStudies.label  "Ավարտված հետաղոտություններ">
-<!ENTITY testpilot.studiesWindow.studyFindings.label    "Study Findings">
+<!ENTITY testpilot.studiesWindow.studyFindings.label    "Ուսումնասիրության արդյունքները">
 <!ENTITY testpilot.studiesWindow.settings.label         "Հատկանիշներ">
 <!ENTITY testpilot.studiesWindow.stillLoadingMessage    "Loading, please wait...">
 
