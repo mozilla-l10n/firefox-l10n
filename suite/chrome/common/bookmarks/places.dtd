@@ -67,8 +67,6 @@
 
 <!ENTITY cmd.reloadLivebookmark.label      "Ladda om aktiva bokmärken">
 <!ENTITY cmd.reloadLivebookmark.accesskey  "L">
-<!ENTITY cmd.reloadMicrosummary.label      "Ladda om aktiva rubriker">
-<!ENTITY cmd.reloadMicrosummary.accesskey  "R">
 
 <!ENTITY cmd.moveBookmarks.label                  "Flytta…">
 <!ENTITY cmd.moveBookmarks.accesskey              "F">
