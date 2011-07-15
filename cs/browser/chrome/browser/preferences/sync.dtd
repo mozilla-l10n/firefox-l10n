@@ -13,9 +13,10 @@
 <!ENTITY manageAccount.label "Správa účtu">
 <!ENTITY manageAccount.accesskey "S">
 <!ENTITY viewQuota.label "Zobrazit kvótu">
-<!ENTITY changePassword.label "Změnit heslo">
+<!ENTITY changePassword2.label "Změnit heslo…">
 <!ENTITY mySyncKey.label "Můj klíč">
-<!ENTITY resetSync.label "Změnit typ synchronizace">
+<!ENTITY resetSync2.label "Změnit typ synchronizace…">
+
 <!ENTITY addDevice.label "Přidat zařízení">
 
 <!ENTITY syncMy.label "Synchronizovat">
