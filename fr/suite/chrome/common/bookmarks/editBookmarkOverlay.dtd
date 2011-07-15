@@ -7,6 +7,7 @@
 <!ENTITY editBookmarkOverlay.siteLocation.label              "Adresse du site :">
 <!ENTITY editBookmarkOverlay.siteLocation.accesskey          "d">
 <!ENTITY editBookmarkOverlay.folder.label                    "Dossier :">
+<!ENTITY editBookmarkOverlay.folder.accesskey                "o">
 <!ENTITY editBookmarkOverlay.foldersExpanderDown.tooltip     "Afficher tous les dossiers de marque-pages">
 <!ENTITY editBookmarkOverlay.expanderUp.tooltip              "Masquer">
 <!ENTITY editBookmarkOverlay.tags.label                      "Étiquettes :">
