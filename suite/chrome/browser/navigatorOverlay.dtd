@@ -1,4 +1,110 @@
-<!-- the following is for the task menu overlay -->
+<!-- File Menu -->
+<!ENTITY tabCmd.label "Panel prohlížeče">
+<!ENTITY tabCmd.accesskey "P">
+<!ENTITY tabCmd.commandkey "t">
+<!ENTITY openCmd.label "Otevřít adresu…">
+<!ENTITY openCmd.accesskey "o">
+<!ENTITY openCmd.commandkey "l">
+<!ENTITY openFileCmd.label "Otevřít soubor…">
+<!ENTITY openFileCmd.accesskey "s">
+<!ENTITY openFileCmd.commandkey "o">
+
+<!ENTITY closeOtherTabs.label "Zavřít ostatní panely">
+<!ENTITY closeOtherTabs.accesskey "p">
+
+<!ENTITY uploadFile.label "Nahrát soubor…">
+<!ENTITY uploadFile.accesskey "S">
+
+<!ENTITY printSetupCmd.label "Vzhled stránky…">
+<!ENTITY printSetupCmd.accesskey "v">
+
+<!-- Edit Menu -->
+<!ENTITY findOnCmd.label "Najít na této stránce…">
+<!ENTITY findOnCmd.accesskey "j">
+<!ENTITY findOnCmd.commandkey "f">
+<!ENTITY findAgainCmd.label "Najít další">
+<!ENTITY findAgainCmd.accesskey "t">
+<!ENTITY findAgainCmd.commandkey "g">
+<!ENTITY findPrevCmd.label "Najít předchozí">
+<!ENTITY findPrevCmd.accesskey "c">
+<!ENTITY findPrevCmd.commandkey "g">
+<!ENTITY findAgainCmd.commandkey2 "VK_F3">
+<!ENTITY findPrevCmd.commandkey2 "VK_F3">
+
+<!-- View Menu -->
+<!ENTITY toolbarsCmd.label "Nástrojové lišty">
+<!ENTITY toolbarsCmd.accesskey "N">
+<!ENTITY tabbarCmd.label "Lišta s panely">
+<!ENTITY tabbarCmd.accesskey "T">
+<!ENTITY taskbarCmd.label "Stavový řádek">
+<!ENTITY taskbarCmd.accesskey "S">
+<!ENTITY componentbarCmd.label "Lišta komponent">
+<!ENTITY componentbarCmd.accesskey "K">
+
+<!ENTITY fullScreenCmd.label "Celá obrazovka">
+<!ENTITY fullScreenCmd.accesskey "C">
+
+<!ENTITY useStyleSheetMenu.label "Styl stránky">
+<!ENTITY useStyleSheetMenu.accesskey "y">
+<!ENTITY useStyleSheetNone.label "Žádný">
+<!ENTITY useStyleSheetNone.accesskey "N">
+<!ENTITY useStyleSheetPersistentOnly.label "Základní styl">
+<!ENTITY useStyleSheetPersistentOnly.accesskey "z">
+<!ENTITY bidiSwitchPageDirectionItem.label "Přepnout orientaci stránky">
+<!ENTITY bidiSwitchPageDirectionItem.accesskey "o">
+<!ENTITY pageSourceCmd.label "Zdrojový kód stránky">
+<!ENTITY pageSourceCmd.accesskey "j">
+<!ENTITY pageSourceCmd.commandkey "u">
+<!ENTITY pageInfoCmd.label "Informace o stránce">
+<!ENTITY pageInfoCmd.accesskey "i">
+<!ENTITY pageInfoCmd.commandkey "i">
+
+<!ENTITY applyTheme.label "Motivy vzhledu">
+<!ENTITY applyTheme.accesskey "M">
+<!ENTITY getNewThemesCmd.label "Získat nový motiv">
+<!ENTITY getNewThemesCmd.accesskey "Z">
+<!ENTITY getPersonasCmd.label "Získat Personas">
+<!ENTITY getPersonasCmd.accesskey "P">
+
+<!-- Go Menu -->
+<!ENTITY goMenu.label "Přejít">
+<!ENTITY goMenu.accesskey "p">
+<!ENTITY goHomeCmd.label "Domů">
+<!ENTITY goHomeCmd.accesskey "d">
+<!ENTITY historyCmd.label "Historie">
+<!ENTITY historyCmd.accesskey "h">
+<!ENTITY history.commandKey "h">
+<!ENTITY recentTabs.label "Naposledy zavřené panely">
+<!ENTITY recentTabs.accesskey "p">
+<!ENTITY recentTabs.commandkey "t">
+<!ENTITY recentWindows.label "Naposledy zavřená okna">
+<!ENTITY recentWindows.accesskey "d">
+<!ENTITY recentWindows.commandkey "y">
+<!ENTITY historyRestoreLastSession.label "Obnovit předchozí relaci">
+<!ENTITY historyRestoreLastSession.accesskey "O">
+<!ENTITY syncTabsMenu.label "Panely z jiných počítačů">
+<!ENTITY syncTabsMenu.accesskey "P">
+
+<!-- Bookmarks Menu -->
+<!ENTITY bookmarksMenu.label "Záložky">
+<!ENTITY bookmarksMenu.accesskey "o">
+<!ENTITY addCurPageCmd.label "Přidat k záložkám">
+<!ENTITY addCurPageCmd.accesskey "P">
+<!ENTITY addCurPageAsCmd.label "Přidat k záložkám jako…">
+<!ENTITY addCurPageAsCmd.accesskey "J">
+<!ENTITY addCurPageAsCmd.commandkey "d">
+<!ENTITY addCurTabsAsCmd.label "Přidat skupinu panelů k záložkám…">
+<!ENTITY addCurTabsAsCmd.accesskey "K">
+<!ENTITY manBookmarksCmd.label "Správce záložek…">
+<!ENTITY manBookmarksCmd.accesskey "S">
+<!ENTITY manBookmarksCmd.commandkey "b">
+
+<!-- Tools Menu -->
+<!ENTITY searchInternetCmd.label "Hledání na webu">
+<!ENTITY searchInternetCmd.accesskey "W">
+<!ENTITY searchInternet.commandKey "f">
+<!ENTITY translateMenu.label "Přeložit stránku">
+<!ENTITY translateMenu.accesskey "l">
 
 <!ENTITY cookieMessageTitle.label "Oprávnění ke cookies bylo změněno">
 <!ENTITY cookieDisplayCookiesCmd.label "Správa cookies">
@@ -40,3 +146,6 @@
 <!ENTITY cookieImageManager.accesskey "o">
 <!ENTITY cookiePopupManager.label "Správce vyskakovacích oken">
 <!ENTITY cookiePopupManager.accesskey "v">
+
+<!ENTITY clearPrivateDataCmd.label "Vymazat důvěrná data">
+<!ENTITY clearPrivateDataCmd.accesskey "m">
