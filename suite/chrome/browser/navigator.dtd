@@ -82,6 +82,8 @@
 <!ENTITY applyTheme.accesskey "M">
 <!ENTITY getNewThemesCmd.label "Získat nový motiv">
 <!ENTITY getNewThemesCmd.accesskey "Z">
+<!ENTITY getPersonasCmd.label "Získat Personas">
+<!ENTITY getPersonasCmd.accesskey "P">
 <!ENTITY findOnCmd.label "Najít na této stránce…">
 <!ENTITY findOnCmd.accesskey "j">
 <!ENTITY findOnCmd.commandkey "f">
