@@ -30,7 +30,7 @@
 <!ENTITY archivesTitle.label "Meddelandearkiv">
 <!ENTITY keepArchives.label "Spara arkiv i:">
 <!ENTITY keepArchives.accesskey "k">
-<!ENTITY archiveHierarchyButton.label "Arkiveringsinställningarâ€¦">
+<!ENTITY archiveHierarchyButton.label "Arkiveringsinställningar">
 <!ENTITY archiveHierarchyButton.accesskey "n">
 <!ENTITY archivesFolderOn.label "Mappen &quot;Arkiv&quot; i:">
 <!ENTITY archivesFolderOn.accesskey "i">
