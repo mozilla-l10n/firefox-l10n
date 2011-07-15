@@ -20,8 +20,6 @@
 <!ENTITY selectSound.accesskey          "ä">
 <!ENTITY playSoundButton.label          "Spela">
 <!ENTITY playSoundButton.accesskey      "l">
-<!ENTITY selectSound.title              "Välj ljud för fönsterblockering">
-<!ENTITY selectSound.filter             "Ljud">
 
 <!ENTITY displayIcon.label              "Visa en ikon i statusfältet">
 <!ENTITY displayIcon.accesskey          "V">
