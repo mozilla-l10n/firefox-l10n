@@ -6,8 +6,10 @@
 <!ENTITY stop.label            "Zatrzymaj">
 <!ENTITY go.label              "Przejdź">
 <!ENTITY star.label            "Gwiazdka">
+
 <!ENTITY newtab.label          "Nowa karta">
 <!ENTITY closetab.label        "Zamknij kartę">
+
 <!ENTITY cut.label             "Wytnij">
 <!ENTITY copy.label            "Skopiuj">
 <!ENTITY copyAll.label         "Skopiuj wszystko">
@@ -107,9 +109,11 @@ just addresses the organization to follow, e.g. "This site is run by " -->
 <!ENTITY pageactions.saveas.pdf      "Zapisz jako PDF">
 <!ENTITY pageactions.share.page      "Podziel się stroną">
 <!ENTITY pageactions.password.forget "Zapomnij hasło">
+<!ENTITY pageactions.quit            "Zakończ">
 <!ENTITY pageactions.reset           "Wyczyść preferencje witryny">
 <!ENTITY pageactions.findInPage      "Znajdź na stronie">
 <!ENTITY pageactions.search.addNew   "Dodaj wyszukiwarkę">
 <!ENTITY pageactions.charEncoding    "Kodowanie znaków">
+<!ENTITY pageactions.webapps.install "Zainstaluj jako aplikację">
 
 <!ENTITY appMenu.siteOptions         "Informacje o stronie">

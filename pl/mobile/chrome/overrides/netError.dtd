@@ -53,7 +53,7 @@
 <!ENTITY netInterrupt.longDesc "&sharedLongDesc;">
 
 <!ENTITY netOffline.title "Tryb offline">
-<!ENTITY netOffline.overrideLongDesc "
+<!ENTITY netOffline.longDesc2 "
 <ul>
   <li>Spróbuj ponownie. &brandShortName; powtórzy próbę otwarcia połączenia i przeładuje stronę.</li>
 </ul>
@@ -160,6 +160,9 @@
 
 <!ENTITY cspFrameAncestorBlocked.title "Zablokowane przez politykę bezpieczeństwa treści">
 <!ENTITY cspFrameAncestorBlocked.longDesc "<p>Przeglądarka uniemożliwiła tej stronie wczytanie treści w ten sposób, ponieważ strona posiada politykę bezpieczeństwa treści, która na to nie pozwala.</p>">
+
+<!ENTITY corruptedContentError.title "Błąd: treść uszkodzona">
+<!ENTITY corruptedContentError.longDesc "<p>Strona, którą próbujesz obejrzeć, nie może być wyświetlona, ponieważ wykryto błąd w transmisji danych.</p><ul><li>Prosimy poinformować właścicieli witryny o tym problemie.</li></ul>">
 
 
 <!ENTITY securityOverride.linkText "Lub dodaj wyjątek…">
