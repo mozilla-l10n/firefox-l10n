@@ -34,7 +34,7 @@
    - the terms of any one of the MPL, the GPL or the LGPL.
    -
    - ***** END LICENSE BLOCK ***** -->
-<!ENTITY windowTitle.label "תכונות תוית">
+<!ENTITY windowTitle.label "תכונות תווית">
 <!ENTITY Settings.label "הגדרות">
 <!ENTITY Settings.accesskey "ג">
 <!ENTITY EditLabelText.label "ערוך טקסט:">
@@ -43,5 +43,5 @@
 <!ENTITY LabelFor.accesskey "פ">
 <!ENTITY AccessKey.label "מקש גישה:">
 <!ENTITY AccessKey.accesskey "מ">
-<!ENTITY RemoveLabel.label "הסר תוית">
+<!ENTITY RemoveLabel.label "הסר תווית">
 <!ENTITY RemoveLabel.accesskey "ה">

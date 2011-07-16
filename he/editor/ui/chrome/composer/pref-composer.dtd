@@ -5,7 +5,7 @@
 <!--LOCALIZATION NOTE (pref.composer.title): DONT_TRANSLATE -->
 <!ENTITY  pref.composer.title           "Composer">
 <!ENTITY  recentFiles.title             "תפריט דפים אחרונים">
-<!ENTITY  documentsInMenu.label         "מספר מירבי של דפים רשומים:">
+<!ENTITY  documentsInMenu.label         "מספר מרבי של דפים רשומים:">
 <!ENTITY  documentsInMenu.accesskey     "ר">
 <!ENTITY  savingFiles.title             "בעת שמירת או פרסום דפים">
 <!ENTITY  preserveExisting.label        "שמור על עיצוב מקור">

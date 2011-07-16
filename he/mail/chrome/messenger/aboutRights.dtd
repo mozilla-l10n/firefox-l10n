@@ -45,7 +45,7 @@
      the UI, without this page being forgotten every time those strings are
      updated.  -->
 <!-- intro paragraph for branded builds -->
-<!ENTITY rights.webservices-a "&brandFullName; מציע שירותים אופציונליים (&quot;שירותים&quot;), כגון שירות עדכון התוספות. שירותים אלו זמינים לשימוש בגרסה זו של &brandShortName; כפי שמפורט בהמשך. במידה ואינך מעוניין להשתמש בשירותים אלו או שהתנאים המצוינים מטה אינם מתאימים לך, את יכול לבטל את מנגנון עדכטו התוספות באמצעות פתיחה של מסך ההעדפות של התוכנה, בחירה בלשונית ">
+<!ENTITY rights.webservices-a "&brandFullName; מציע שירותים אופציונליים (&quot;שירותים&quot;), כגון שירות עדכון התוספות. שירותים אלו זמינים לשימוש בגרסה זו של &brandShortName; כפי שמפורט בהמשך. אם אינך מעוניין להשתמש בשירותים אלו או שהתנאים המצוינים מטה אינם מתאימים לך, את יכול לבטל את מנגנון עדכטו התוספות באמצעות פתיחה של מסך ההעדפות של התוכנה, בחירה בלשונית ">
 <!ENTITY rights.webservices-b "מתקדם">
 <!ENTITY rights.webservices-c "ואז בלשונית">
 <!ENTITY rights.webservices-d "עדכון">

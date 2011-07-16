@@ -172,7 +172,7 @@
 <!ENTITY insertselect.accesskey "ר">
 <!ENTITY insertButtonCmd.label "הגדר כפתור...">
 <!ENTITY insertbutton.accesskey "כ">
-<!ENTITY insertLabelCmd.label "הגדר תוית">
+<!ENTITY insertLabelCmd.label "הגדר תווית">
 <!ENTITY insertlabel.accesskey "ה">
 <!ENTITY insertFieldSetCmd.label "הגדר אוסף שדות...">
 <!ENTITY insertfieldset.accesskey "ט">

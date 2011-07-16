@@ -38,7 +38,7 @@
 <!ENTITY rights.intro-point4c ".">
 
 <!-- point 4 text for unbranded builds -->
-<!ENTITY rights.intro-point4a-unbranded "במידה שמוצר זה כולל שירותי רשת, יש לקשר כל תנאי שירות ישים עבור השירות(ים) אל הסעיף ">
+<!ENTITY rights.intro-point4a-unbranded "אם מוצר זה כולל שירותי רשת, יש לקשר כל תנאי שירות ישים עבור השירות(ים) אל הסעיף ">
 <!ENTITY rights.intro-point4b-unbranded "שירותי אתרים">
 <!ENTITY rights.intro-point4c-unbranded ".">
 
@@ -46,12 +46,12 @@
 
 <!-- intro paragraph for branded builds -->
 <!-- XXX Edited this section to remove the specific reference to Firefox UI (see bug 514817) -->
-<!ENTITY rights.webservices-a "&brandFullName; משתמש בשירותי מידע על אתרים (&quot;שירותים&quot;), כגון שירות גלישה בטוחה, אשר זמינים לשימושך בגרסה בינארית זו של &brandShortName; כמתואר להלן. במידה שאינך רוצה להשתמש בשירותים, או שהתנאים שלהלן אינם מקובלים עליך, תוכל לבטל את שירות גלישה בטוחה, על ידי פתיחת חלון ההעדפות של היישום. ">
+<!ENTITY rights.webservices-a "&brandFullName; משתמש בשירותי מידע על אתרים (&quot;שירותים&quot;), כגון שירות גלישה בטוחה, אשר זמינים לשימושך בגרסה בינארית זו של &brandShortName; כמתואר להלן. אם אינך רוצה להשתמש בשירותים, או שהתנאים שלהלן אינם מקובלים עליך, תוכל לבטל את שירות גלישה בטוחה, על ידי פתיחת חלון ההעדפות של היישום. ">
 <!ENTITY rights.webservices-b "">
 <!ENTITY rights.webservices-c "">
 
 <!-- intro paragraph for unbranded builds -->
-<!ENTITY rights.webservices-unbranded "סקירה של שירותי האתרים שהמוצר מכיל, יחד עם הוראות כיצד לבטל אותם, במידה שהדבר ישים, צריכה להיכלל כאן.">
+<!ENTITY rights.webservices-unbranded "סקירה של שירותי האתרים שהמוצר מכיל, יחד עם הוראות כיצד לבטל אותם, אם הדבר ישים, צריכה להיכלל כאן.">
 
 <!-- point 1 text for unbranded builds -->
 <!ENTITY rights.webservices-term1-unbranded "יש לרשום כאן כל תנאי שירות ישימים עבור מוצר זה.">

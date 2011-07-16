@@ -70,7 +70,7 @@
 <!ENTITY formEncoding "קידוד:">
 <!ENTITY formTarget "מטרה:">
 <!ENTITY formFields "שדות:">
-<!ENTITY formLabel "תוית">
+<!ENTITY formLabel "תווית">
 <!ENTITY formFName "שם שדה">
 <!ENTITY formType "סוג">
 <!ENTITY formCValue "ערך נוכחי">
