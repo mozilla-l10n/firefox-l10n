@@ -67,8 +67,6 @@
 
 <!ENTITY cmd.reloadLivebookmark.label      "Päivitä live-kirjanmerkki">
 <!ENTITY cmd.reloadLivebookmark.accesskey  "r">
-<!ENTITY cmd.reloadMicrosummary.label      "Päivitä muuttuva otsikko">
-<!ENTITY cmd.reloadMicrosummary.accesskey  "P">
 
 <!ENTITY cmd.moveBookmarks.label                  "Siirrä…">
 <!ENTITY cmd.moveBookmarks.accesskey              "S">
