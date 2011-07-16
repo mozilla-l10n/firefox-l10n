@@ -47,7 +47,7 @@
 <!ENTITY SelectTabIndex.label "מפתח טאב:">
 <!ENTITY SelectTabIndex.accesskey "מ">
 <!ENTITY OptGroup.label "קבוצת אפשרויות">
-<!ENTITY OptGroupLabel.label "תוית:">
+<!ENTITY OptGroupLabel.label "תווית:">
 <!ENTITY OptGroupLabel.accesskey "ת">
 <!ENTITY OptGroupDisabled.label "לא מאופשר">
 <!ENTITY OptGroupDisabled.accesskey "ל">

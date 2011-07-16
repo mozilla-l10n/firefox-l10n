@@ -34,7 +34,7 @@
    -
    - ***** END LICENSE BLOCK ***** -->
 
-<!ENTITY windowTitle.label "תכונות תוית">
+<!ENTITY windowTitle.label "תכונות תווית">
 
 <!ENTITY Settings.label "הגדרות">
 <!ENTITY Settings.accesskey "S">
@@ -46,5 +46,5 @@
 <!ENTITY AccessKey.label "מקש גישה:">
 <!ENTITY AccessKey.accesskey "K">
 
-<!ENTITY RemoveLabel.label "הסר תוית">
+<!ENTITY RemoveLabel.label "הסר תווית">
 <!ENTITY RemoveLabel.accesskey "R">
