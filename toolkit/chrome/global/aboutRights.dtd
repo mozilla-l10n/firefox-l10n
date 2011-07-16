@@ -8,8 +8,8 @@
 <!ENTITY rights.intro-point2-a "Вам не предоставляются никакие права или лицензии на товарные знаки Mozilla Foundation или любой другой стороны, в том числе на название или логотип Firefox. Дополнительная информация о товарных знаках приведена по ">
 <!ENTITY rights.intro-point2-b "следующему адресу">
 <!ENTITY rights.intro-point2-c ".">
-<!ENTITY rights.intro-point2.5 "Некоторые функции в &brandShortName;, такие как Crash Reporter, дают вам возможность отправки сообщения в &vendorShortName;. Решив отправить сообщение, вы даёте &vendorShortName; разрешение на использование этого сообщения в целях улучшения его продуктов, публикования сообщения на его веб-сайтах и распространения этого сообщения.">
-<!ENTITY rights2.intro-point3a "То, как мы используем вашу персональную информацию и сообщения, отправленные в &vendorShortName; через &brandShortName;, описано в ">
+<!ENTITY rights.intro-point2.5 "Некоторые функции &brandShortName;, такие как Crash Reporter, позволяют вам отправлять отзывы в &vendorShortName;. Отправляя отзыв, вы разрешаете &vendorShortName; использовать отзыв для улучшения его продуктов, размещать отзыв на его веб-сайтах и распространять отзывы любыми другими способами.">
+<!ENTITY rights2.intro-point3a "То, как мы используем вашу персональную информацию и отзывы, отправленные в &vendorShortName; через &brandShortName;, описано в ">
 <!ENTITY rights2.intro-point3b "Политике приватности &brandShortName;">
 <!ENTITY rights.intro-point3c ".">
 <!ENTITY rights.intro-point3-unbranded "Любые применимые политики приватности для этого продукта должны быть перечислены здесь.">
