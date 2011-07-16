@@ -13,9 +13,10 @@
 <!ENTITY manageAccount.label          "管理帳號">
 <!ENTITY manageAccount.accesskey      "a">
 <!ENTITY viewQuota.label              "檢視配額">
-<!ENTITY changePassword.label         "變更密碼">
+<!ENTITY changePassword2.label         "變更密碼…">
 <!ENTITY mySyncKey.label              "我的同步金鑰">
-<!ENTITY resetSync.label              "重設同步">
+<!ENTITY resetSync2.label              "重設 Sync…">
+
 <!ENTITY addDevice.label              "新增裝置">
 
 <!ENTITY syncMy.label               "同步我的">
@@ -33,7 +34,7 @@
 <!-- Device Settings -->
 <!ENTITY syncComputerName.label       "電腦名稱:">
 <!ENTITY syncComputerName.accesskey   "C">
-<!ENTITY deactivateDevice.label       "停止同步此裝置">
+<!ENTITY unlinkDevice.label           "解除此裝置的連結">
 
 <!-- Footer stuff -->
 <!ENTITY prefs.tosLink.label        "服務條款">
