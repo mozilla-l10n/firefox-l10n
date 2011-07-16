@@ -28,10 +28,12 @@
 <!ENTITY cmd.findCurrent.label			"表示中の項目から検索...">
 <!ENTITY cmd.findCurrent.accesskey		"i">
 
-<!ENTITY cmd.exportHTML.label			"HTML として書き出す...">
-<!ENTITY cmd.exportHTML.accesskey		"E">
-<!ENTITY cmd.importHTML.label			"HTML から読み込む...">
-<!ENTITY cmd.importHTML.accesskey		"I">
+<!ENTITY importBookmarksFromHTML.label		"HTML から読み込む...">
+<!ENTITY importBookmarksFromHTML.accesskey	"I">
+<!ENTITY exportBookmarksToHTML.label		"HTML として書き出す...">
+<!ENTITY exportBookmarksToHTML.accesskey	"E">
+<!ENTITY importOtherBrowser.label			"他のブラウザからデータを読み込む...">
+<!ENTITY importOtherBrowser.accesskey		"A">
 
 <!ENTITY cmd.backup.label			"バックアップ...">
 <!ENTITY cmd.backup.accesskey			"B">
