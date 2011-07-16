@@ -8,3 +8,4 @@
 <!ENTITY aboutHome.openAllTabs                  "Otwórz wszystkie">
 <!ENTITY aboutHome.noTabs                       "Brak kart z poprzedniej sesji">
 <!ENTITY aboutHome.noAddons                     "Brak polecanych dodatków">
+<!ENTITY aboutHome.getLocale                    "Zmień język">
