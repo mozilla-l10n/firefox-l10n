@@ -107,6 +107,7 @@
 <!ENTITY pageactions.saveas.pdf      "PDF ਵਜੋਂ ਸੰਭਾਲੋ">
 <!ENTITY pageactions.share.page      "ਸਫ਼ਾ ਸਾਂਝਾ ਕਰੋ">
 <!ENTITY pageactions.password.forget "ਪਾਸਵਰਡ ਭੁੱਲ ਗਿਆ/ਗਈ">
+<!ENTITY pageactions.quit            "Quit">
 <!ENTITY pageactions.reset           "ਸਾਈਟ ਪਸੰਦ ਸਾਫ਼ ਕਰੋ">
 <!ENTITY pageactions.findInPage      "ਸਫ਼ੇ 'ਚ ਲੱਭੋ">
 <!ENTITY pageactions.search.addNew   "ਖੋਜ ਇੰਜਣ ਸ਼ਾਮਲ">

@@ -53,7 +53,7 @@
 <!ENTITY netInterrupt.longDesc "&sharedLongDesc;">
 
 <!ENTITY netOffline.title "ਆਫਲਾਈਨ ਮੋਡ">
-<!ENTITY netOffline.overrideLongDesc "
+<!ENTITY netOffline.longDesc2 "
 <ul>
   <li>Try again. &brandShortName; will attempt to open a connection and reload the page.</li>
 </ul>
@@ -163,6 +163,9 @@ be temporary, and you can try again later.</li>
 
 <!ENTITY cspFrameAncestorBlocked.title "ਸਮਗੱਰੀ ਸੁਰੱਖਿਆ ਨੀਤੀ ਰਾਹੀਂ ਪਾਬੰਦੀ ਲਾਈ">
 <!ENTITY cspFrameAncestorBlocked.longDesc "<p>&brandShortName; prevented this page from loading in this way because the page has a content security policy that disallows it.</p>">
+
+<!ENTITY corruptedContentError.title "Corrupted Content Error">
+<!ENTITY corruptedContentError.longDesc "<p>The page you are trying to view cannot be shown because an error in the data transmission was detected.</p><ul><li>Please contact the website owners to inform them of this problem.</li></ul>">
 
 <!ENTITY securityOverride.linkText "ਜਾਂ ਤੁਸੀਂ ਛੋਟ ਦੇ ਸਕਦੇ ਹੋ…">
 <!ENTITY securityOverride.getMeOutOfHereButton "ਮੈਨੂੰ ਇੱਥੋਂ ਬਾਹਰ ਲੈ ਜਾਓ!">

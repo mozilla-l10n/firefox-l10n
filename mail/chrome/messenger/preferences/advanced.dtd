@@ -37,9 +37,8 @@
 <!ENTITY reuseExpRadio0.accesskey      "n">
 <!ENTITY reuseExpRadio1.label          "ਮੌਜੂਦਾ ਸੁਨੇਹਾ ਵਿੰਡੋ ਵਿੱਚ">
 <!ENTITY reuseExpRadio1.accesskey      "e">
-<!ENTITY closeMsgWindowOnMoveOrDelete.label  "Close message window on move or delete">
-<!ENTITY closeMsgWindowOnDelete.accesskey "C">
-
+<!ENTITY closeMsgOnMoveOrDelete.label  "Close message window/tab on move or delete">
+<!ENTITY closeMsgOnMoveOrDelete.accesskey "C">
 
 <!ENTITY configEditDesc.label          "ਤਕਨੀਕੀ ਸੰਰਚਨਾ">
 <!ENTITY configEdit.label              "ਸੰਰਚਨਾ ਐਡੀਟਰ…">
@@ -81,7 +80,8 @@
 <!ENTITY Diskspace "ਡਿਸਕ ਥਾਂ">
 <!ENTITY offlineCompact.label "ਜਦੋਂ ਫੋਲਡਰ ਸੰਭਾਲੇ ਜਾਣ ਤਾਂ ਇਨ੍ਹਾਂ ਨੂੰ ਸੁੰਘੜੋ">
 <!ENTITY offlineCompact.accesskey "v">
-<!ENTITY kb.label "KB">
+<!ENTITY mb.label "MB">
+
 
 <!-- LOCALIZATION NOTE:
   The entities useCacheBefore.label and useCacheAfter.label appear on a single

@@ -192,13 +192,15 @@
 <!ENTITY sendlaterButton.tooltip "ਇਹ ਸੁਨੇਹਾ ਬਾਅਦ ਵਿੱਚ ਭੇਜੋ"> 
 <!ENTITY quoteButton.tooltip "ਪਿਛਲੇ ਸੁਨੇਹਾ ਦਾ ਹਵਾਲਾ"> 
 <!ENTITY addressButton.tooltip "ਪ੍ਰਾਪਤ ਕਰਤਾ ਨੂੰ ਐਡਰੈਸ ਬੁੱਕ ਤੋਂ ਚੁਣੋ"> 
-<!ENTITY attachButton.tooltip "ਅਟੈਚਮੈਂਟ ਸਮੇਤ"> 
-<!ENTITY saveButton.tooltip "ਇਹ ਸੁਨੇਹਾ ਸੰਭਾਲੋ"> 
+<!ENTITY attachButton.tooltip "ਅਟੈਚਮੈਂਟ ਸਮੇਤ">
+<!ENTITY saveButton.tooltip "ਇਹ ਸੁਨੇਹਾ ਸੰਭਾਲੋ">
+<!ENTITY spellingButton.tooltip "Check spelling of selection or entire message">
 <!ENTITY cutButton.tooltip              "ਕੱਟੋ">
 <!ENTITY copyButton.tooltip             "ਕਾਪੀ ਕਰੋ">
 <!ENTITY pasteButton.tooltip            "ਚੇਪੋ">
 
 <!-- Headers -->
+<!ENTITY headersSpace.style "width: 9em;">
 <!ENTITY fromAddr.label "ਵਲੋਂ:">
 <!ENTITY fromAddr.accesskey "r">
 <!ENTITY toAddr.label "ਵੱਲ:"> 
@@ -209,7 +211,7 @@
 <!ENTITY followupAddr.label "Followup-To:"> 
 <!ENTITY subject.label "ਵਿਸ਼ਾ:">
 <!ENTITY subject.accesskey "S">
-<!ENTITY attachments.label "ਅਟੈਚਮੈਂਟ:">
+
 <!ENTITY attachments.accesskey "c">
 
 <!-- Format Toolbar, imported from editorAppShell.xul -->
@@ -262,6 +264,10 @@
 <!ENTITY attachFile.accesskey "F">
 <!ENTITY attachPage.label "ਵੈੱਬ ਪੇਜ਼ ਅਟੈਚ…">
 <!ENTITY attachPage.accesskey "W">
+
+<!-- Spell checker context menu items -->
+<!ENTITY spellAddDictionaries.label "Add Dictionaries…">
+<!ENTITY spellAddDictionaries.accesskey "A">
 
 <!-- Title for the address picker panel -->
 <!ENTITY addressesSidebarTitle.label "ਸੰਪਰਕ">
