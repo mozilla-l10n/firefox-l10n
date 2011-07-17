@@ -51,14 +51,9 @@
 <!ENTITY netInterrupt.longDesc "&sharedLongDesc;">
 
 <!ENTITY netOffline.title "ਆਫ਼-ਲਾਈਨ ਮੋਡ">
-<!-- LOCALIZATION NOTE (netOffline.overrideLongDesc) - This string should
-     indicate that "Work Offline" is a menu item without being too specific,
-     since it could be in either the normal menu (Mac/Linux) or the Firefox button
-     menu (Windows).
--->
-<!ENTITY netOffline.overrideLongDesc "
+<!ENTITY netOffline.longDesc2 "
 <ul>
-  <li>&quot;ਆਫਲਾਈਨ ਕੰਮ ਕਰੋ&quot; ਮੇਨੂ ਆਈਟਮ ਚੋਣ ਹਟਾ ਕੇ ਫੇਰ ਕੋਸ਼ਿਸ਼ ਕਰੋ ਜੀ।</li>
+  <li>Press &quot;Try Again&quot; to switch to online mode and reload the page.</li>
 </ul>
 ">
 
@@ -158,6 +153,9 @@
 
 <!ENTITY cspFrameAncestorBlocked.title "ਸਮੱਗਰੀ ਸੁਰੱਖਿਆ ਪਾਲਸੀ ਰਾਹੀਂ ਪਾਬੰਦੀ">
 <!ENTITY cspFrameAncestorBlocked.longDesc "<p>&brandShortName; ਨੇ ਇਹ ਸਫ਼ੇ ਨੂੰ ਇਸ ਢੰਗ ਨਾਲ ਲੋਡ ਹੋਣ ਤੋਂ ਰੋਕ ਦਿੱਤਾ ਹੈ, ਕਿਉਂਕਿ ਸਫ਼ੇ ਉੱਤੇ ਸਮੱਗਰੀ ਸਮੱਗਰੀ ਨੀਤੀ ਹੈ, ਜੋ ਇਸ ਤੋਂ ਰੋਕਦੀ ਹੈ।</p>">
+
+<!ENTITY corruptedContentError.title "Corrupted Content Error">
+<!ENTITY corruptedContentError.longDesc "<p>The page you are trying to view cannot be shown because an error in the data transmission was detected.</p><ul><li>Please contact the website owners to inform them of this problem.</li></ul>">
 
 <!ENTITY securityOverride.linkText "ਜਾਂ ਤੁਸੀਂ ਇੱਕ ਛੋਟ ਸ਼ਾਮਲ ਕਰ ਸਕਦੇ ਹੋ...">
 <!ENTITY securityOverride.getMeOutOfHereButton "ਮੈਨੂੰ ਇੱਥੋਂ ਬਾਹਰ ਕੱਢੋ">

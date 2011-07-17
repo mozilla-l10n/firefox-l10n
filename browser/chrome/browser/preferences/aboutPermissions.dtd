@@ -23,7 +23,10 @@
 
 <!ENTITY cookie.label                    "ਕੂਕੀਜ਼ ਸੈੱਟ">
 <!ENTITY cookie.clear                    "ਕੂਕੀਜ਼ ਸਾਫ਼ ਕਰੋ">
-<!ENTITY cookie.manage                   "ਕੂਕੀਜ਼ ਪਰਬੰਧ…">
+<!ENTITY cookie.remove                   "Remove Cookies">
+<!ENTITY cookie.manage                   "Manage Cookies…">
+<!ENTITY cookie.removeAll                "Remove All Cookies">
+
 <!ENTITY cookie.clearAll                 "ਸਭ ਕੂਕੀਜ਼ ਸਾਫ਼ ਕਰੋ">
 
 <!ENTITY geo.label                       "ਟਿਕਾਣਾ ਸਾਂਝਾ ਕਰੋ">

@@ -32,6 +32,7 @@
 <!ENTITY draftsFolderOn.accesskey "D">
 <!ENTITY draftInOtherFolder.label "ਹੋਰ:">
 <!ENTITY draftInOtherFolder.accesskey "t">
+<!ENTITY keepTemplates.label "Keep message templates in:">
 <!-- LOCALIZATION NOTE (archivesFolderOn.label): OK to translate this, bug #57440 -->
 <!ENTITY archivesFolderOn.label "&quot;ਅਕਾਇਵ&quot; ਫੋਲਡਰ ਉੱਤੇ:">
 <!ENTITY archivesFolderOn.accesskey "D">
