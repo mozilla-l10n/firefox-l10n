@@ -38,9 +38,9 @@
 <!ENTITY AdvancedEditButton.label "Napredno spreminjanje …">
 <!ENTITY AdvancedEditButton.accessKey "N">
 <!ENTITY AdvancedEditButton.tooltip "Dodaj ali spremeni atribute HTML, slogovne atribute in JavaScript">
-<!ENTITY chooseFileButton.label "Izberi datoteko …">
+<!ENTITY chooseFileButton.label "Izberite datoteko …">
 <!ENTITY chooseFileButton.accessKey "I">
-<!ENTITY chooseFileLinkButton.label "Izberi datoteko …">
+<!ENTITY chooseFileLinkButton.label "Izberite datoteko …">
 <!ENTITY chooseFileLinkButton.accessKey "I">
 <!ENTITY makeUrlRelative.label "URL je relativen glede na lokacijo strani">
 <!ENTITY makeUrlRelative.accessKey "R">

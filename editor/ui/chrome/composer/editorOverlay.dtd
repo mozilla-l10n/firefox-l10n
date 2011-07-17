@@ -53,7 +53,7 @@
 <!ENTITY openRemoteCmd.key "s">
 <!ENTITY fileRecentMenu.label "Nedavne strani">
 <!ENTITY fileRecentMenu.accesskey "N">
-<!ENTITY fileRevert.label "Povrni se">
+<!ENTITY fileRevert.label "Povrni">
 <!ENTITY fileRevert.accesskey "P">
 <!ENTITY saveCmd.label "Shrani">
 <!ENTITY saveCmd.accesskey "S">
@@ -68,7 +68,7 @@
 <!ENTITY publishAsCmd.accesskey "j">
 <!ENTITY saveAsChangeEncodingCmd.label "Shrani in spremeni nabor znakov">
 <!ENTITY saveAsChangeEncodingCmd.accesskey "h">
-<!ENTITY printSetupCmd.label "Priprava strani …">
+<!ENTITY printSetupCmd.label "Nastavitve strani …">
 <!ENTITY printSetupCmd.accesskey "r">
 <!ENTITY printCmd.label "Natisni …">
 <!ENTITY printCmd.accesskey "N">
@@ -87,7 +87,7 @@
 <!ENTITY pasteAs.accesskey "k">
 <!ENTITY publishSettings.label "Objavi nastavitve strani …">
 <!ENTITY publishSettings.accesskey "O">
-<!ENTITY pasteAsQuotationCmd.label "Prilepi kot citat">
+<!ENTITY pasteAsQuotationCmd.label "Prilepi kot navedek">
 <!ENTITY pasteAsQuotationCmd.accesskey "r">
 <!ENTITY pasteAsQuotationCmd.key "o">
 <!ENTITY findCmd.label "Išči in zamenjaj …">
@@ -152,8 +152,8 @@
 <!ENTITY pasteCmd.accesskey "r">
 <!ENTITY deleteCmd.label "Izbriši">
 <!ENTITY deleteCmd.accesskey "z">
-<!ENTITY clearCmd.label "Pobriši">
-<!ENTITY clearCmd.accesskey "b">
+<!ENTITY clearCmd.label "Počisti">
+<!ENTITY clearCmd.accesskey "č">
 <!ENTITY selectAllCmd.label "Izberi vse">
 <!ENTITY selectAllCmd.accesskey "v">
 
@@ -336,7 +336,7 @@
 <!ENTITY tableSelectMenu2.accesskey "I">
 <!ENTITY tableInsertMenu2.label "Vstavi tabelo">
 <!ENTITY tableInsertMenu2.accesskey "V">
-<!ENTITY tableDeleteMenu2.label "Zbriši tabelo">
+<!ENTITY tableDeleteMenu2.label "Izbriši tabelo">
 <!ENTITY tableDeleteMenu2.accesskey "Z">
 
 <!-- Insert SubMenu -->
@@ -344,8 +344,8 @@
 <!ENTITY tableInsertMenu.accesskey "V">
 <!ENTITY tableTable.label "Tabela">
 <!ENTITY tableTable.accesskey "T">
-<!ENTITY tableRow.label "Vrsta">
-<!ENTITY tableRows.label "Vrsta(e)">
+<!ENTITY tableRow.label "Vrstica">
+<!ENTITY tableRows.label "Vrstica(e)">
 <!ENTITY tableRow.accesskey "r">
 <!ENTITY tableRowAbove.label "Vrsta nad">
 <!ENTITY tableRowAbove.accesskey "n">
@@ -384,7 +384,7 @@
 <!ENTITY tableSplitCell.accesskey "D">
 <!ENTITY convertToTable.label "Ustvari tabelo iz izbire">
 <!ENTITY convertToTable.accesskey "U">
-<!ENTITY tableProperties.label "Nastavitve tabele …">
+<!ENTITY tableProperties.label "Lastnosti tabele …">
 <!ENTITY tableProperties.accesskey "N">
 
 <!-- Toolbar-only items -->
@@ -396,7 +396,7 @@
 <!ENTITY openToolbarCmd.tooltip "Odpri krajevno datoteko">
 <!ENTITY saveToolbarCmd.tooltip "Shrani datoteko na krajevno mesto">
 <!ENTITY publishToolbarCmd.tooltip "Prenesi datoteko na oddaljeno mesto">
-<!ENTITY printToolbarCmd.label "Natisni ">
+<!ENTITY printToolbarCmd.label "Tiskanje">
 <!ENTITY printToolbarCmd.tooltip "Natisni to stran">
 <!ENTITY findToolbarCmd.label "Poišči">
 <!ENTITY findToolbarCmd.tooltip "Poišči besedilo v strani">
@@ -445,7 +445,7 @@
 <!-- TOC manipulation -->
 <!ENTITY insertTOC.label          "Vstavi">
 <!ENTITY insertTOC.accesskey      "V">
-<!ENTITY updateTOC.label          "Obnovi">
+<!ENTITY updateTOC.label          "Posodobi">
 <!ENTITY updateTOC.accesskey      "b">
 <!ENTITY removeTOC.label          "Odstrani">
 <!ENTITY removeTOC.accesskey      "O">
