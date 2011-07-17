@@ -339,7 +339,7 @@
 <!ENTITY calendar.print.layout.label          "Layout:">
 <!ENTITY calendar.print.range.label           "Druckauswahl">
 <!ENTITY calendar.print.currentView2.label    "Aktuelle Ansicht">
-<!ENTITY calendar.print.selectedEventsAndTasks.label "Markierte Termin/Aufgaben">
+<!ENTITY calendar.print.selectedEventsAndTasks.label "Markierte Termine/Aufgaben">
 <!ENTITY calendar.print.tasks.label           "Aufgaben">
 <!ENTITY calendar.print.events.label          "Termine">
 <!ENTITY calendar.print.selected.label        "Markierte Termine">
