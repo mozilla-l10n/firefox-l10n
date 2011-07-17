@@ -92,7 +92,7 @@
 <!ENTITY username.tooltip             "שם המשתמש המשמש אותך להתחברות אל ספק הגישה שלך או שירות איחסון האתרים">
 <!ENTITY password.label               "ססמה:">
 <!ENTITY password.accesskey           "ס">
-<!ENTITY password.tooltip             "הסיסמה המקושרת אל שם המשתמש שלך">
-<!ENTITY savePassword.label           "שמור סיסמה">
+<!ENTITY password.tooltip             "הססמה המקושרת אל שם המשתמש שלך">
+<!ENTITY savePassword.label           "שמור ססמה">
 <!ENTITY savePassword.accesskey       "ר">
-<!ENTITY savePassword.tooltip         "בחר זאת כדי לשמור את סיסמתך באופן מאובטח על־ידי מנהל הסיסמאות">
+<!ENTITY savePassword.tooltip         "בחר זאת כדי לשמור את ססמתך באופן מאובטח על־ידי מנהל הססמאות">
