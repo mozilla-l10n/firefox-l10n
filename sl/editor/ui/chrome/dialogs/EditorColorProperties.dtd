@@ -43,7 +43,7 @@
 <!ENTITY defaultColorsRadio.tooltip "Uporabljaj samo barve, ki jih gledalec (bralec) uporablja v brskalniku">
 <!ENTITY customColorsRadio.label "Uporabi barve po meri:">
 <!ENTITY customColorsRadio.accessKey "M">
-<!ENTITY customColorsRadio.tooltip "Te barvne nastavitve nadomestijo vrednosti iz gledalčevega brskalnika">
+<!ENTITY customColorsRadio.tooltip "Te barvne nastavitve preglasijo vrednosti iz prikazovalnika v brskalniku">
 
 <!ENTITY normalText.label "Običajno besedilo">
 <!ENTITY normalText.accessKey "O">

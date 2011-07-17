@@ -48,7 +48,7 @@
 <!ENTITY previewToolbarCmd.tooltip "Naloži to stran v brskalnik">
 
 <!-- File menu items -->
-<!ENTITY exportToTextCmd.label "Izvozi v besedilo…">
+<!ENTITY exportToTextCmd.label "Izvozi v besedilo …">
 <!ENTITY exportToTextCmd.accesskey "I">
 <!ENTITY previewCmd.label "Brskaj po strani">
 <!ENTITY previewCmd.accesskey "B">
@@ -80,11 +80,11 @@
 <!ENTITY NormalModeTab.label "Normalno">
 <!ENTITY NormalMode.label "Normalni način urejanja">
 <!ENTITY NormalMode.accesskey "N">
-<!ENTITY NormalMode.tooltip "Prikaži robove tabel in sidra">
-<!ENTITY AllTagsModeTab.label "Zavihki HTML">
-<!ENTITY AllTagsMode.label "Zavihki HTML">
+<!ENTITY NormalMode.tooltip "Prikaži robove tabel in sidra z imenom">
+<!ENTITY AllTagsModeTab.label "Oznake HTML">
+<!ENTITY AllTagsMode.label "Oznake HTML">
 <!ENTITY AllTagsMode.accesskey "Z">
-<!ENTITY AllTagsMode.tooltip "Display icons for all HTML tags">
+<!ENTITY AllTagsMode.tooltip "Prikaži ikone za vse oznake HTML">
 <!-- LOCALIZATION NOTE: (HTMLSourceModeTab.dir, HTMLSourceModeTab.label)
      Do NOT translate text for 'HTMLSourceModeTab.dir', use latin "ltr" if
      you want the <html> image to left of the 'HTMLSourceModeTab.label' text,
