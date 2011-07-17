@@ -212,7 +212,7 @@
 <!ENTITY task.to.label                                    "Fällig:">
 <!ENTITY task.to.accesskey                                "F">
 <!ENTITY task.status.label                                "Status:">
-<!ENTITY task.status.accesskey                            "u">
+<!ENTITY task.status.accesskey                            "S">
 <!ENTITY event.repeat.label                               "Wiederholen:">
 <!ENTITY event.repeat.accesskey                           "W">
 <!ENTITY event.reminder.label                             "Erinnerung:">
