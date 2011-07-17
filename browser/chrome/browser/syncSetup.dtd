@@ -16,10 +16,12 @@
 <!ENTITY signIn.syncKey.label "Ключ Sync">
 <!ENTITY signIn.syncKey.accesskey "К">
 <!ENTITY setup.newAccountDetailsPage.title.label "Падрабязнасці рахунку">
-<!ENTITY setup.confirmPassword.label "Пацвердзіць пароль">
-<!ENTITY setup.confirmPassword.accesskey "ц">
 <!ENTITY setup.emailAddress.label "Э-паштовы адрас">
 <!ENTITY setup.emailAddress.accesskey "Э">
+<!ENTITY setup.choosePassword.label "Выберыце пароль">
+<!ENTITY setup.choosePassword.accesskey "п">
+<!ENTITY setup.confirmPassword.label "Пацвердзіць пароль">
+<!ENTITY setup.confirmPassword.accesskey "ц">
 <!ENTITY setup.tosAgree1.label "Я згодны з">
 <!ENTITY setup.tosAgree1.accesskey "з">
 <!ENTITY setup.tosLink.label "умовамі абслугоўвання">
@@ -31,7 +33,7 @@
 <!ENTITY setup.newSyncKeyPage.description.label "Каб забяспечыць ваша адасабленне, усе вашы здаткі шыфруюцца перад зацягваннем на паслугач. Ключ Sync, неабходны для расшыфравання, не зацягваецца.">
 <!ENTITY syncKeyEntry.label "Ваш ключ Sync">
 <!ENTITY syncKeyEntry.accesskey "к">
-<!ENTITY syncKeyGenerate.label "Вырабіць">
+<!ENTITY syncGenerateNewKey.label "Вырабіць новы ключ">
 <!ENTITY syncKeyBackup.description "Ключ Sync неабходны вам для доступу да &syncBrand.fullName.label; з іншых машынаў. Стварыце, калі ласка, яго адноўную копію. Мы не зможам дапамагчы вам аднавіць ваш ключ Sync.">
 <!ENTITY button.syncKeyBackup.print.label "Друкаваць…">
 <!ENTITY button.syncKeyBackup.print.accesskey "Д">

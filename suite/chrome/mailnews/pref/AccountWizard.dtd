@@ -31,6 +31,8 @@
 <!ENTITY imapType.accesskey "I">
 <!ENTITY popType.label "POP">
 <!ENTITY popType.accesskey "P">
+<!ENTITY leaveMsgsOnSrvr.label "Пакідаць лісты на паслугачы">
+<!ENTITY leaveMsgsOnSrvr.accesskey "п">
 <!ENTITY haveSmtp1.prefix "Ваш існы выходны паслугач (SMTP), &quot;">
 <!ENTITY haveSmtp1.suffix2 " &quot;, будзе выкарыстоўвацца. Вы можаце змяніць наладжванні выходнага паслугача, калі выбераце Наладжванні Рахунку Пошты і Навінакупаў у меню Праўка.">
 <!ENTITY loginTitle.label "Імёны карыстальнікаў">

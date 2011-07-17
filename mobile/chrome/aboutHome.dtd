@@ -8,5 +8,4 @@
 <!ENTITY aboutHome.openAllTabs "Адкрыць усе ў устаўках">
 <!ENTITY aboutHome.noTabs "Няма адчыненых раней уставак">
 <!ENTITY aboutHome.noAddons "Няма параеных дадаткаў">
-<!ENTITY aboutHome.promoLabel "Firefox Spark">
-<!ENTITY aboutHome.promoButton "Граць">
+<!ENTITY aboutHome.getLocale "Змена мовы">

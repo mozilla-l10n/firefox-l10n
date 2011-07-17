@@ -39,9 +39,9 @@
 <!ENTITY netInterrupt.title "Злучэнне перарвана">
 <!ENTITY netInterrupt.longDesc "&sharedLongDesc;">
 <!ENTITY netOffline.title "Пазасеткавы рэжым">
-<!ENTITY netOffline.overrideLongDesc "
+<!ENTITY netOffline.longDesc2 "
 <ul>
-  <li>Прыміце адзнаку з адзінкі меню &quot;Праца па-за сеткаю&quot; і паспрабуйце зноў.</li>
+  <li>Націсніце &quot;Паспрабаваць зноў&quot;, каб перключыцца ў сеткавы рэжым і абнавіць старонку.</li>
 </ul>
 ">
 <!ENTITY contentEncodingError.title "Памылка кадавання змесціва">
@@ -134,6 +134,8 @@
 ">
 <!ENTITY cspFrameAncestorBlocked.title "Затрымана палітыкай бяспекі змесціва">
 <!ENTITY cspFrameAncestorBlocked.longDesc "<p>&brandShortName; прадухіліў загрузку гэтай старонкі такім спосабам, бо палітыка бяспекі змесціва старонкі не дазваляе карыстацца ім.</p>">
+<!ENTITY corruptedContentError.title "Пашкоджанае змесціва">
+<!ENTITY corruptedContentError.longDesc "<p>Старонка, якую вы спрабуеце прагледзець, не будзе паказана, бо падчас перадачы здарылася памылка.</p><ul><li>Паведамце, калі ласка, уладальнікам пляцоўкі пра гэтую праблему.</li></ul>">
 <!ENTITY securityOverride.linkText "Ці вы можаце дадаць выключэнне…">
 <!ENTITY securityOverride.getMeOutOfHereButton "Пакінуць гэтае месца!">
 <!ENTITY securityOverride.exceptionButtonLabel "Дадаць выключэнне…">

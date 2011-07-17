@@ -22,6 +22,8 @@
 <!ENTITY checkNow.accesskey "П">
 <!ENTITY submitCrashes.label "Дасыланне справаздачаў пра крахі">
 <!ENTITY submitCrashes.accesskey "Д">
+<!ENTITY submitTelemetry.label "Падаць звесткі пра працавыніковасць ">
+<!ENTITY submitTelemetry.accesskey "п">
 <!ENTITY networkTab.label "Сетка">
 <!ENTITY connection.label "Злучэнне">
 <!ENTITY connectionDesc.label "Наладзіць, як &brandShortName; мусіць злучацца з Інтэрнэтам">

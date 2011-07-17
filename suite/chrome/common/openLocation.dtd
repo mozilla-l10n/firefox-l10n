@@ -4,7 +4,7 @@
 <!ENTITY chooseFile.accesskey "В">
 <!ENTITY newWindow.label "Новае акно азіральніка">
 <!ENTITY newTab.label "Новая ўстаўка азіральніка">
-<!ENTITY topWindow.label "Цяперашняе акно азіральніка">
+<!ENTITY currentTab.label "Цяперашняя ўстаўка азіральніка">
 <!ENTITY editNewWindow.label "Новае акно Ўкладальніка">
 <!ENTITY open.label "Адчыніць">
 <!ENTITY caption.label "Адчыніць месца ў Сеціве">

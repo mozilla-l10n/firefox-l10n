@@ -1,0 +1,65 @@
+<!ENTITY window.title "Scratchpad">
+<!ENTITY fileMenu.label "Файл">
+<!ENTITY fileMenu.accesskey "Ф">
+<!ENTITY newWindowCmd.label "Новае акно">
+<!ENTITY newWindowCmd.accesskey "Н">
+<!ENTITY newWindowCmd.commandkey "n">
+<!ENTITY openFileCmd.label "Адчыніць файл…">
+<!ENTITY openFileCmd.accesskey "ч">
+<!ENTITY openFileCmd.commandkey "o">
+<!ENTITY saveFileCmd.label "Захаваць">
+<!ENTITY saveFileCmd.accesskey "З">
+<!ENTITY saveFileCmd.commandkey "s">
+<!ENTITY saveFileAsCmd.label "Захаваць як…">
+<!ENTITY saveFileAsCmd.accesskey "я">
+<!ENTITY closeCmd.label "Зачыніць">
+<!ENTITY closeCmd.key "W">
+<!ENTITY closeCmd.accesskey "ы">
+<!ENTITY editMenu.label "Праўка">
+<!ENTITY editMenu.accesskey "П">
+<!ENTITY undoCmd.label "Адмяніць">
+<!ENTITY undoCmd.key "Z">
+<!ENTITY undoCmd.accesskey "А">
+<!ENTITY redoCmd.label "Вярнуць">
+<!ENTITY redoCmd.key "Y">
+<!ENTITY redoCmd.accesskey "В">
+<!ENTITY cutCmd.label "Выразаць">
+<!ENTITY cutCmd.key "X">
+<!ENTITY cutCmd.accesskey "р">
+<!ENTITY copyCmd.label "Капіяваць">
+<!ENTITY copyCmd.key "C">
+<!ENTITY copyCmd.accesskey "К">
+<!ENTITY pasteCmd.label "Уставіць">
+<!ENTITY pasteCmd.key "V">
+<!ENTITY pasteCmd.accesskey "У">
+<!ENTITY selectAllCmd.label "Вылучыць усё">
+<!ENTITY selectAllCmd.key "A">
+<!ENTITY selectAllCmd.accesskey "ё">
+<!ENTITY run.label "Выканаць">
+<!ENTITY run.accesskey "к">
+<!ENTITY run.key "r">
+<!ENTITY inspect.label "Даследаваць">
+<!ENTITY inspect.accesskey "Д">
+<!ENTITY inspect.key "i">
+<!ENTITY display.label "Адлюстраваць">
+<!ENTITY display.accesskey "ю">
+<!ENTITY display.key "l">
+<!ENTITY environmentMenu.label "Асяроддзе">
+<!ENTITY environmentMenu.accesskey "А">
+<!ENTITY contentContext.label "Змесціва">
+<!ENTITY contentContext.accesskey "З">
+<!ENTITY browserContext.label "Азіральнік">
+<!ENTITY browserContext.accesskey "А">
+<!ENTITY resetContext.label "Узнавіць">
+<!ENTITY resetContext.accesskey "У">
+<!ENTITY executeMenu.label "Выканаць">
+<!ENTITY executeMenu.accesskey "В">
+<!ENTITY toolsMenu.label "Прылады">
+<!ENTITY toolsMenu.accesskey "П">
+<!ENTITY errorConsoleCmd.label "Кансоль памылак">
+<!ENTITY errorConsoleCmd.accesskey "К">
+<!ENTITY errorConsoleCmd.commandkey "j">
+<!ENTITY webConsoleCmd.label "Кансоль Сеціва">
+<!ENTITY webConsoleCmd.accesskey "С">
+<!ENTITY webConsoleCmd.commandkey "k">
+<!ENTITY textbox.placeholder1 "// Увядзіце які JavaScript, вылучыце яго, правы пстрык і выберыце Выканаць, Даследаваць або Адлюстраваць.">
