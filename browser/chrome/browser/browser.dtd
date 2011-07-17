@@ -80,7 +80,7 @@
 <!ENTITY subscribeToPageMenuitem.label "Падпісацца на гэтую старонку…">
 <!ENTITY addCurPagesCmd.label "Дадаць закладкі да ўсіх уставак…">
 <!ENTITY showAllBookmarks2.label "Паказаць усе закладкі">
-<!ENTITY bookmarkAllCmd.label "Дадаць закладкі да ўсіх уставак…">
+<!ENTITY unsortedBookmarksCmd.label "Неразмеркаваныя закладкі">
 <!ENTITY bookmarksToolbarChevron.tooltip "Паказаць больш закладак">
 <!ENTITY backCmd.label "Назад">
 <!ENTITY backCmd.accesskey "з">
@@ -139,6 +139,8 @@
 <!ENTITY addons.label "Дадаткі">
 <!ENTITY addons.accesskey "Д">
 <!ENTITY addons.commandkey "A">
+<!ENTITY webDeveloperMenu.label "Распрацаўнік Сеціва">
+<!ENTITY webDeveloperMenu.accesskey "Р">
 <!ENTITY errorConsoleCmd.label "Кансоль памылак">
 <!ENTITY errorConsoleCmd.accesskey "К">
 <!ENTITY errorConsoleCmd.commandkey "j">
@@ -148,18 +150,24 @@
 <!ENTITY inspectMenu.label "Даследаваць">
 <!ENTITY inspectMenu.accesskey "Д">
 <!ENTITY inspectMenu.commandkey "I">
+<!ENTITY scratchpad.label "Scratchpad">
+<!ENTITY scratchpad.accesskey "s">
+<!ENTITY scratchpad.keycode "VK_F4">
+<!ENTITY scratchpad.keytext "F4">
 <!ENTITY inspectPanelTitle.label "HTML">
 <!ENTITY inspectButton.label "Даследаваць">
 <!ENTITY inspectButton.accesskey "Д">
-<!ENTITY inspectNextButton.label "Наступны">
-<!ENTITY inspectNextButton.accesskey "Н">
-<!ENTITY inspectPreviousButton.label "Папярэдні">
-<!ENTITY inspectPreviousButton.accesskey "П">
+<!ENTITY inspectNextButton.label "Далей">
+<!ENTITY inspectNextButton.accesskey "Д">
+<!ENTITY inspectPreviousButton.label "Назад">
+<!ENTITY inspectPreviousButton.accesskey "Н">
 <!ENTITY inspectStyleButton.label "Стыль">
 <!ENTITY inspectStyleButton.accesskey "С">
 <!ENTITY inspectStylePanelTitle.label "Стыль">
 <!ENTITY inspectObjectButton.label "Аб'ект">
 <!ENTITY inspectObjectButton.accesskey "А">
+<!ENTITY getMoreDevtoolsCmd.label "Атрымаць больш прыладаў">
+<!ENTITY getMoreDevtoolsCmd.accesskey "б">
 <!ENTITY fileMenu.label "Файл">
 <!ENTITY fileMenu.accesskey "Ф">
 <!ENTITY newNavigatorCmd.label "Новае акно">

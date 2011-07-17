@@ -41,7 +41,7 @@
 <!ENTITY netOffline.title "Пазасеткавы рэжым">
 <!ENTITY netOffline.overrideLongDesc "
 <ul>
-  <li>Прыміце адзнаку з адзінкі меню &quot;Праца па-за сеткаю&quot; і паспрабуйце зноў.</li>
+  <li>Зніміце адзнаку з адзінкі меню &quot;Праца па-за сеткай&quot; і паспрабуйце зноў.</li>
 </ul>
 ">
 <!ENTITY contentEncodingError.title "Памылка кадавання змесціва">

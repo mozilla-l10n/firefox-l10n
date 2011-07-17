@@ -4,9 +4,7 @@
 <!ENTITY quitApplicationCmd.label "Выйсці">
 <!ENTITY quitApplicationCmd.key "Q">
 <!ENTITY quitApplicationCmd.accesskey "В">
-<!ENTITY redoCmd.label "Вярнуць">
 <!ENTITY redoCmd.key "Y">
-<!ENTITY redoCmd.accesskey "В">
 <!ENTITY findTypeTextCmd.key "/">
 <!ENTITY findTypeLinksCmd.key "'">
 <!ENTITY accel.emacs_conflict "accel,shift">

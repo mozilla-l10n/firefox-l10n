@@ -75,10 +75,6 @@
 <!ENTITY saveVideoCmd.accesskey "З">
 <!ENTITY saveAudioCmd.label "Захаваць гук як…">
 <!ENTITY saveAudioCmd.accesskey "З">
-<!ENTITY copyCmd.label "Капіяваць">
-<!ENTITY copyCmd.accesskey "К">
-<!ENTITY selectAllCmd.label "Вылучыць усё">
-<!ENTITY selectAllCmd.accesskey "ё">
 <!ENTITY copyLinkCmd.label "Капіяваць месцазнаходжанне спасылкі">
 <!ENTITY copyLinkCmd.accesskey "М">
 <!ENTITY copyImageCmd.label "Капіяваць выяву">
@@ -91,16 +87,6 @@
 <!ENTITY metadataCmd.accesskey "У">
 <!ENTITY copyEmailCmd.label "Капіяваць адрас э-пошты">
 <!ENTITY copyEmailCmd.accesskey "э">
-<!ENTITY pasteCmd.label "Уставіць">
-<!ENTITY pasteCmd.accesskey "У">
-<!ENTITY cutCmd.label "Выразаць">
-<!ENTITY cutCmd.accesskey "р">
-<!ENTITY deleteCmd.label "Выдаліць">
-<!ENTITY deleteCmd.accesskey "д">
-<!ENTITY undoCmd.label "Адмяніць">
-<!ENTITY undoCmd.accesskey "м">
-<!ENTITY redoCmd.label "Вярнуць">
-<!ENTITY redoCmd.accesskey "р">
 <!ENTITY thisFrameMenu.label "Гэтая рамка">
 <!ENTITY thisFrameMenu.accesskey "Р">
 <!ENTITY mediaPlay.label "Граць">

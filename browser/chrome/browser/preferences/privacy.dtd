@@ -39,7 +39,7 @@
 <!ENTITY dontrememberActions.pre.label "Ці вы можаце">
 <!ENTITY dontrememberActions.clearHistory.label "ачысціць усю цяперашнюю гісторыю">
 <!ENTITY dontrememberActions.post.label ".">
-<!ENTITY privateBrowsingPermanent.label "Заўсёдны рэжым адасобленага азірання">
+<!ENTITY privateBrowsingPermanent.label "Заўсёды ў рэжыме адасобленага азірання">
 <!ENTITY privateBrowsingPermanent.accesskey "З">
 <!ENTITY rememberHistory.label "Памятаць маю гісторыю азірання">
 <!ENTITY rememberHistory.accesskey "м">

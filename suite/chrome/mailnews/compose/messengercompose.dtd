@@ -117,24 +117,14 @@
 <!ENTITY spellCheckIgnoreWord.accesskey "І">
 <!ENTITY spellCheckAddToDictionary.label "Дадаць у слоўнік">
 <!ENTITY spellCheckAddToDictionary.accesskey "с">
-<!ENTITY undo.label "Адмяніць">
-<!ENTITY undo.accesskey "м">
-<!ENTITY cut.label "Выразаць">
-<!ENTITY cut.accesskey "р">
-<!ENTITY copy.label "Капіяваць">
-<!ENTITY copy.accesskey "К">
-<!ENTITY paste.label "Уставіць">
-<!ENTITY paste.accesskey "У">
 <!ENTITY pasteQuote.label "Уставіць як вытрымку">
 <!ENTITY pasteQuote.accesskey "В">
 <!ENTITY openAttachment.label "Адчыніць">
 <!ENTITY openAttachment.accesskey "А">
-<!ENTITY delete.label "Выдаліць">
-<!ENTITY delete.accesskey "д">
 <!ENTITY renameAttachment.label "Змяніць назву…">
 <!ENTITY renameAttachment.accesskey "З">
-<!ENTITY selectAll.label "Вылучыць усё">
-<!ENTITY selectAll.accesskey "У">
+<!ENTITY deleteAttachment.accesskey "д">
+<!ENTITY selectAllAttachments.accesskey "у">
 <!ENTITY attachFile.label "Далучыць файл(ы)…">
 <!ENTITY attachFile.accesskey "Ф">
 <!ENTITY attachPage.label "Далучыць старонку Сеціва…">

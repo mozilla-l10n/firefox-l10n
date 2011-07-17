@@ -41,7 +41,7 @@
 <!ENTITY netOffline.title "Пазасеткавы рэжым">
 <!ENTITY netOffline.overrideLongDesc "
 <ul>
-  <li>Паспрабуйце зноў. &brandShortName; паспрабуе адкрыць злучэнне і перазагрузіць старонку.</li>
+  <li>Паспрабуйце зноў. &brandShortName; паспрабуе злучыцца і абнавіць старонку.</li>
 </ul>
 ">
 <!ENTITY contentEncodingError.title "Памылка кадавання змесціва">

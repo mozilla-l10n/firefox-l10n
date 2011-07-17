@@ -1,6 +1,7 @@
 <!ENTITY splash_screen_label "загрузка">
-<!ENTITY splash_screen_installing "усталяванне бібліятэкаў\u2026">
-<!ENTITY incompatable_cpu_error "Гэтая збудова не задавальняе найменшым сістэмным патрабаванням &brandShortName;.">
+<!ENTITY splash_screen_installing "усталяванне бібліятэк\u2026">
+<!ENTITY splash_firstrun "Наладжванне &brandShortName;\u2026">
+<!ENTITY incompatable_cpu_error "Гэта сістэма не задавальняе мінімальным сістэмным патрэбам &brandShortName;.">
 <!ENTITY no_space_to_start_error "Няма прасторы, неабходнай &brandShortName; для запуску.">
 <!ENTITY error_loading_file "Здарылася памылка падчас загрузкі файлаў, патрэбных для выканання &brandShortName;">
 <!ENTITY crash_reporter_title "Паведамляльнік пра крахі &brandShortName;">
@@ -12,6 +13,5 @@
 <!ENTITY crash_restart_label "Перазапусціць &brandShortName;">
 <!ENTITY sending_crash_report "Дасыланне справаздачы пра крах\u2026">
 <!ENTITY exit_label "Выйсці">
-<!ENTITY incompatable_device "&brandShortName; не падтрымлівае гэтую збудову і таму вы можаце зазнаць
-праблемы.">
+<!ENTITY incompatable_device "&brandShortName; не падтрымлівае гэтую збудову і вы можаце зазнаць праблемы.">
 <!ENTITY continue_label "Працягнуць">
