@@ -30,6 +30,8 @@
 <!ENTITY checkNow.accesskey              "N">
 <!ENTITY submitCrashes.label             "ਕਰੈਸ਼ ਰਿਪੋਰਟਾਂ ਭੇਜੋ">
 <!ENTITY submitCrashes.accesskey         "S">
+<!ENTITY submitTelemetry.label           "Submit performance data">
+<!ENTITY submitTelemetry.accesskey       "P">
 <!ENTITY networkTab.label                "ਨੈੱਟਵਰਕ">
 
 <!ENTITY connection.label                "ਕੁਨੈਕਸ਼ਨ">

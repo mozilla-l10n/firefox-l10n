@@ -61,8 +61,8 @@
 <!ENTITY  dontrememberActions.clearHistory.label "ਸਭ ਮੌਜੂਦਾ ਅਤੀਤ ਸਾਫ਼ ਕਰਨਾ">
 <!ENTITY  dontrememberActions.post.label         "।">
 
-<!ENTITY  privateBrowsingPermanent.label "ਪੱਕੇ ਤੌਰ ਉੱਤੇ ਪ੍ਰਾਈਵੇਟ ਬਰਾਊਜ਼ਿੰਗ ਮੋਡ ਵਰਤੋਂ">
-<!ENTITY  privateBrowsingPermanent.accesskey "P">
+<!ENTITY  privateBrowsingPermanent2.label "Always use private browsing mode">
+<!ENTITY  privateBrowsingPermanent2.accesskey "p">
 
 <!ENTITY  rememberHistory.label      "ਮੇਰੀ ਬਰਾਊਜ਼ਿੰਗ ਅਤੀਤ ਨੂੰ ਯਾਦ ਰੱਖੋ">
 <!ENTITY  rememberHistory.accesskey  "b">
