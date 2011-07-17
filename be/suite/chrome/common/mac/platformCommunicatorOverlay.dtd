@@ -16,7 +16,6 @@
 <!ENTITY closeCmd.key "W">
 <!ENTITY printSetupCmd.label "Усталяванне старонкі…">
 <!ENTITY printSetupCmd.accesskey "У">
-<!ENTITY redoCmd.label "Вярнуць">
 <!ENTITY redoCmd.key "Z">
 <!ENTITY historyCmd.key "H">
 <!ENTITY findTypeTextCmd.key "">

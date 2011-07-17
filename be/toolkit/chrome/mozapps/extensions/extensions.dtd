@@ -19,13 +19,10 @@
 <!ENTITY warning.updatesecurity.label "Праверка бяспечнасці дадаткаў забаронена. Вы можаце быць падведзены пад рызыку абнаўленнямі.">
 <!ENTITY warning.updatesecurity.enable.label "Дазволіць">
 <!ENTITY warning.updatesecurity.enable.tooltip "Дазволіць праверку бяспечнасці абнаўленняў дадаткаў">
+<!ENTITY info.plugincheck.label "Праверыць абноўленнаць убудоваў">
+<!ENTITY info.plugincheck.tooltip "Праверыць абноўленнаць убудоваў">
 <!ENTITY view.search.label "Пошук">
 <!ENTITY view.discover.label "Атрымаць дадаткі">
-<!ENTITY view.locales.label "Мовы">
-<!ENTITY view.searchengines.label "Машыны пошуку">
-<!ENTITY view.features.label "Пашырэнні">
-<!ENTITY view.appearance2.label "Выгляд">
-<!ENTITY view.plugins.label "Убудовы">
 <!ENTITY view.recentUpdates.label "Нядаўнія абнаўленні">
 <!ENTITY view.availableUpdates.label "Даступныя абнаўленні">
 <!ENTITY updates.checkForUpdates.label "Праверка існавання абнаўленняў">
@@ -152,3 +149,4 @@
 <!ENTITY eula.width "560px">
 <!ENTITY eula.height "400px">
 <!ENTITY eula.accept "Пагадзіцца і ўсталяваць…">
+<!ENTITY settings.path.button.label "Агляд…">

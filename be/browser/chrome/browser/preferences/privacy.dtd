@@ -39,8 +39,8 @@
 <!ENTITY dontrememberActions.pre.label "Ці вы можаце">
 <!ENTITY dontrememberActions.clearHistory.label "ачысціць усю цяперашнюю гісторыю">
 <!ENTITY dontrememberActions.post.label ".">
-<!ENTITY privateBrowsingPermanent.label "Заўсёдны рэжым адасобленага азірання">
-<!ENTITY privateBrowsingPermanent.accesskey "З">
+<!ENTITY privateBrowsingPermanent2.label "Заўсёды ўжываць адасоблены рэжым азірання">
+<!ENTITY privateBrowsingPermanent2.accesskey "д">
 <!ENTITY rememberHistory.label "Памятаць маю гісторыю азірання">
 <!ENTITY rememberHistory.accesskey "м">
 <!ENTITY rememberDownload.label "Памятаць гісторыю загрузак">

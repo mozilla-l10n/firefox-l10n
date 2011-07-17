@@ -56,8 +56,6 @@
 <!ENTITY cmd.new_separator.accesskey "р">
 <!ENTITY cmd.reloadLivebookmark.label "Абнавіць жывую закладку">
 <!ENTITY cmd.reloadLivebookmark.accesskey "А">
-<!ENTITY cmd.reloadMicrosummary.label "Абнавіць жывую закладку">
-<!ENTITY cmd.reloadMicrosummary.accesskey "А">
 <!ENTITY cmd.moveBookmarks.label "Рухаць…">
 <!ENTITY cmd.moveBookmarks.accesskey "Р">
 <!ENTITY col.title.label "Назва">

@@ -13,9 +13,11 @@
 <!ENTITY pluginWizard.finalPage.description.label "&brandShortName; скончыў усталяванне адсутных убудоваў:">
 <!ENTITY pluginWizard.finalPage.moreInfo.label "Знайсці больш звестак пра ўбудовы або знайсці адсутныя ўбудовы ўручную.">
 <!ENTITY pluginWizard.finalPage.restart.label "Трэба перазапусціць &brandShortName;, каб убудова(ы) пачала(і) працаваць.">
-<!ENTITY missingPlugin.label "Пстрыкніце тут, каб загрузіць убудову.">
-<!ENTITY disabledPlugin.label "Убудова для гэтага змесціва забаронена. Пстрыкніце тут, каб кіраваць вашымі ўбудовамі.">
+<!ENTITY missingPlugin "Для адлюстравання гэтага змесціва патрэбна ўбудова.">
+<!ENTITY disabledPlugin "Гэтая ўбудова забароненая.">
 <!ENTITY blockedPlugin.label "Гэтая ўбудова заблакавана для вашай абароны.">
+<!ENTITY installPlugin "Усталяваць убудову…">
+<!ENTITY managePlugins "Кіраваць убудовамі…">
 <!ENTITY reloadPlugin.pre "">
 <!ENTITY reloadPlugin.middle "Абнавіць старонку">
 <!ENTITY reloadPlugin.post " , каб паспрабаваць зноў.">
