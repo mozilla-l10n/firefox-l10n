@@ -191,7 +191,7 @@
 <!ENTITY task.to.accesskey                                "ס">
 <!ENTITY task.status.label                                "מצב:" >
 <!ENTITY task.status.accesskey                            "מ">
-<!ENTITY newevent.attendees.notify.label    "יידע מוזמנים">
+<!ENTITY newevent.attendees.notify.label    "ידע מוזמנים">
 <!ENTITY event.repeat.label                               "חזרה:" >
 <!ENTITY event.repeat.accesskey                           "ח">
 <!ENTITY event.reminder.label                             "תזכורת:" >

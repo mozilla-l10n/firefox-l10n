@@ -43,9 +43,9 @@
 <!ENTITY initialpage.network.label  "ברשת">
 
 <!ENTITY locationpage.description         "הכנסת מידע על הדרישות לגישה ללוח שנה מרוחק" >
-<!ENTITY locationpage.login.description   "רשות: הכנס שם משתמש וסיסמה" >
+<!ENTITY locationpage.login.description   "רשות: הכנס שם משתמש וססמה" >
 <!ENTITY locationpage.username.label      "שם משתמש:" >
-<!ENTITY locationpage.password.label      "סיסמה:" >
+<!ENTITY locationpage.password.label      "ססמה:" >
 
 <!ENTITY custompage.shortdescription  "התאמה אישית של לוח השנה" >
 <!ENTITY custompage.longdescription   "באפשרותך לתת ללוח השנה שלך כינוי ולצבוע את האירועים בלוח שנה זה." >

@@ -70,7 +70,7 @@
 <!ENTITY setup.signInPage.title.label "התחברות">
 <!ENTITY existingSyncKey.description "ניתן לקבל עותק של מפתח הסנכרון במסך האפשרויות של &syncBrand.shortName.label; בהתקן, ובחירה באפשרות &#x0022;מפתח הסנכרון שלי&#x0022; תחת &#x0022;ניהול חשבון&#x0022;.">
 <!ENTITY verifying.label              "מאמת…">
-<!ENTITY resetPassword.label          "אפס סיסמה">
+<!ENTITY resetPassword.label          "אפס ססמה">
 <!ENTITY resetSyncKey.label           "איבדתי את ההתקן הנוסף שלי.">
 
 <!-- Sync Options -->

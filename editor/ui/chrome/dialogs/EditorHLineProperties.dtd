@@ -39,7 +39,7 @@
 <!-- Window title -->
 <!ENTITY windowTitle.label "מאפייני קו אופקי">
 
-<!ENTITY dimensionsBox.label "מימדים">
+<!ENTITY dimensionsBox.label "ממדים">
 <!ENTITY heightEditField.label "גובה:">
 <!ENTITY heightEditField.accessKey "ג">
 <!ENTITY widthEditField.label "רוחב:">
@@ -53,7 +53,7 @@
 <!ENTITY rightRadio.label "ימין">
 <!ENTITY rightRadio.accessKey "י">
 
-<!ENTITY threeDShading.label "הצללה תלת מימדית">
+<!ENTITY threeDShading.label "הצללה תלת ממדית">
 <!ENTITY threeDShading.accessKey "ת">
 <!ENTITY saveSettings.label "השתמש כברירת מחדל">
 <!ENTITY saveSettings.accessKey "ה">

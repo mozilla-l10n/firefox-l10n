@@ -36,23 +36,23 @@
    - ***** END LICENSE BLOCK ***** -->
 
 <!-- Values for changepassword.xul -->
-<!ENTITY setPassword.title  "שינוי סיסמה ראשית">
+<!ENTITY setPassword.title  "שינוי ססמה ראשית">
 <!ENTITY setPassword.tokenName.label "התקן אבטחה">
-<!ENTITY setPassword.oldPassword.label "סיסמה נוכחית:">
-<!ENTITY setPassword.newPassword.label "סיסמה חדשה:">
-<!ENTITY setPassword.reenterPassword.label "סיסמה חדשה (שוב):">
-<!ENTITY setPassword.meter.label "מד איכות סיסמה">
+<!ENTITY setPassword.oldPassword.label "ססמה נוכחית:">
+<!ENTITY setPassword.newPassword.label "ססמה חדשה:">
+<!ENTITY setPassword.reenterPassword.label "ססמה חדשה (שוב):">
+<!ENTITY setPassword.meter.label "מד איכות ססמה">
 <!ENTITY setPassword.meter.loading "טוען">
 
 <!-- Values for resetpassword.xul -->
 <!ENTITY resetPasswordButtonLabel "אתחול">
-<!ENTITY resetPassword.title  "אפס סיסמה ראשית">
-<!ENTITY resetPassword.text  "אם תאפס את הסיסמה הראשית שלך, כל הסיסמאות לאתרים ולדוא״ל, נתוני טפסים, האישורים האישיים והמפתחות הפרטיים המאוחסנים ישכחו. האם אתה בטוח שברצונך לאפס את הסיסמה הראשית שלך?">
+<!ENTITY resetPassword.title  "אפס ססמה ראשית">
+<!ENTITY resetPassword.text  "אם תאפס את הססמה הראשית שלך, כל הססמאות לאתרים ולדוא״ל, נתוני טפסים, האישורים האישיים והמפתחות הפרטיים המאוחסנים ישכחו. האם אתה בטוח שברצונך לאפס את הססמה הראשית שלך?">
 
 <!-- Values for getpassword.xul -->
-<!ENTITY getPassword.title  "הכנס סיסמה ראשית">
+<!ENTITY getPassword.title  "הכנס ססמה ראשית">
 <!ENTITY getPassword.tokenName2.label "התקן אבטחה:">
-<!ENTITY getPassword.password.label "סיסמה:">
+<!ENTITY getPassword.password.label "ססמה:">
 
 <!-- These should be common -->
 <!ENTITY piperror.title "שגיאה">
@@ -94,14 +94,14 @@
 <!ENTITY certPicker.info  "אישור:">
 <!ENTITY certPicker.detailsLabel "פרטי האישור שנבחר:">
 
-<!ENTITY pkcs12.setpassword.title  "בחר סיסמה לגיבוי אישור">
-<!ENTITY pkcs12.setpassword.message  "הסיסמה לגיבוי אישור שתקבע כאן מגינה על קובץ הגיבוי שאתה עומד ליצור. עליך לקבוע סיסמה זו כדי להמשיך בגיבוי.">
-<!ENTITY pkcs12.setpassword.label1 "סיסמה לגיבוי אישור:">
-<!ENTITY pkcs12.setpassword.label2 "סיסמה לגיבוי אישור (שוב):">
-<!ENTITY pkcs12.setpassword.reminder "חשוב: אם תשכח את הסיסמה לגיבוי האישור שלך, לא תוכל לשחזר גיבוי זה מאוחר יותר. אנא רשום אותה במקום בטוח.">
+<!ENTITY pkcs12.setpassword.title  "בחר ססמה לגיבוי אישור">
+<!ENTITY pkcs12.setpassword.message  "הססמה לגיבוי אישור שתקבע כאן מגינה על קובץ הגיבוי שאתה עומד ליצור. עליך לקבוע ססמה זו כדי להמשיך בגיבוי.">
+<!ENTITY pkcs12.setpassword.label1 "ססמה לגיבוי אישור:">
+<!ENTITY pkcs12.setpassword.label2 "ססמה לגיבוי אישור (שוב):">
+<!ENTITY pkcs12.setpassword.reminder "חשוב: אם תשכח את הססמה לגיבוי האישור שלך, לא תוכל לשחזר גיבוי זה מאוחר יותר. אנא רשום אותה במקום בטוח.">
 
-<!ENTITY pkcs12.getpassword.title  "דו־שיח להכנסת סיסמה">
-<!ENTITY pkcs12.getpassword.message "אנא הכנס את הסיסמה ששימשה להצפנת גיבוי אישור זה.">
+<!ENTITY pkcs12.getpassword.title  "דו־שיח להכנסת ססמה">
+<!ENTITY pkcs12.getpassword.message "אנא הכנס את הססמה ששימשה להצפנת גיבוי אישור זה.">
 
 <!ENTITY chooseToken.title  "דו־שיח בחירת אסימון">
 <!ENTITY chooseToken.message1 "אנא בחר אסימון.">
@@ -123,7 +123,7 @@
 <!-- Form Signing confirmation prompt -->
 <!ENTITY formSigning.title "בקשה לחתימה על טקסט">
 <!ENTITY formSigning.cert "אישור חתימה">
-<!ENTITY formSigning.confirmPassword "כדי לאשר שאתה מסכים לחתום על הודעת טקסט זו בעזרת האישור שבחרת, אנא אשר על־ידי הכנסת הסיסמה הראשית:">
+<!ENTITY formSigning.confirmPassword "כדי לאשר שאתה מסכים לחתום על הודעת טקסט זו בעזרת האישור שבחרת, אנא אשר על־ידי הכנסת הססמה הראשית:">
 
 <!-- Strings for protectedAuth dialog -->
 <!ENTITY protectedAuth.title "הזדהות לאסימון מוגן">
