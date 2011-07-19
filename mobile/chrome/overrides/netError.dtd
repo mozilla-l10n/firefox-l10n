@@ -3,15 +3,16 @@
 <!ENTITY loadError.label "Problema al cargar la página">
 <!ENTITY retry.label "Reintentar">
 <!ENTITY connectionFailure.title "No se puede conectar">
-<!ENTITY connectionFailure.longDesc "&sharedLongDesc;">
+<!ENTITY connectionFailure.longDesc "&sharedLongDesc2;">
 <!ENTITY deniedPortAccess.title "Esta dirección está restringida">
 <!ENTITY deniedPortAccess.longDesc "">
 <!ENTITY dnsNotFound.title "Servidor no encontrado">
-<!ENTITY dnsNotFound.longDesc "
+<!ENTITY dnsNotFound.longDesc2 "
 <ul>
-  <li>Compruebe que la dirección no tiene errores de escritura del tipo <strong>ww</strong>.ejemplo.com en lugar de <strong>www</strong>.ejemplo.com</li>
-  <li>Si no puede cargar ninguna página, compruebe la conexión de red de su dispositivo.</li>
-  <li>Si su dispositivo o red están protegidos por un cortafuegos o proxy, asegúrese de que &brandShortName; tiene permiso para acceder a la web.</li>
+  <li>Compruebe la dirección por errores de escritura como
+    <strong>ww</strong>.ejemplo.com en vez de
+    <strong>www</strong>.ejemplo.com</li>
+  <li>Si aún no es capaz de cargar ninguna página, compruebe los datos de su dispositivo o su conexión WiFi.</li>
 </ul>
 ">
 <!ENTITY fileNotFound.title "Archivo no encontrado">
@@ -33,7 +34,7 @@
 </ul>
 ">
 <!ENTITY netInterrupt.title "La conexión ha sido interrumpida">
-<!ENTITY netInterrupt.longDesc "&sharedLongDesc;">
+<!ENTITY netInterrupt.longDesc "&sharedLongDesc2;">
 <!ENTITY netOffline.title "Modo sin conexión">
 <!ENTITY netOffline.longDesc2 "
 <ul>
@@ -52,9 +53,9 @@
 </ul>
 ">
 <!ENTITY netReset.title "La conexión ha sido reiniciada">
-<!ENTITY netReset.longDesc "&sharedLongDesc;">
+<!ENTITY netReset.longDesc "&sharedLongDesc2;">
 <!ENTITY netTimeout.title "La conexión ha caducado">
-<!ENTITY netTimeout.longDesc "&sharedLongDesc;">
+<!ENTITY netTimeout.longDesc "&sharedLongDesc2;">
 <!ENTITY protocolNotFound.title "La dirección no resulta comprensible">
 <!ENTITY protocolNotFound.longDesc "
 <ul>
@@ -69,11 +70,10 @@
 </ul>
 ">
 <!ENTITY proxyResolveFailure.title "No se puede encontrar el servidor proxy">
-<!ENTITY proxyResolveFailure.longDesc "
+<!ENTITY proxyResolveFailure.longDesc2 "
 <ul>
-  <li>Compruebe la configuración de proxy para asegurarse de que es correcta.</li>
-  <li>Compruebe que su dispositivo tiene una conexión de red operativa.</li>
-  <li>Si su dispositivo o red está protegida por un cortafuegos o proxy, asegúrese de que &brandShortName; tiene permiso para acceder a la web.</li>
+  <li>Compruebe la configuración del proxy para comprobar que es correcta.</li>
+  <li>Comrpuebe que su dispositivo tiene una conexión de datos o WiFi funcional.</li>
 </ul>
 ">
 <!ENTITY redirectLoop.title "La página no está redirigiendo adecuadamente">
@@ -103,20 +103,12 @@
   <li>Si está seguro de que se ha conectado anteriomente a este servidor con éxito, el error puede ser temporal por lo que se puede intentar nuevamente dentro de un tiempo.</li>
 </ul>
 ">
-<!ENTITY sharedLongDesc "
+<!ENTITY sharedLongDesc2 "
 <ul>
-  <li>El sitio podría estar no disponible temporalmente o demasiado ocupado. Vuelva a intentarlo en unos momentos.</li>
-  <li>Si no puede cargar ninguna página, compruebe la conexión de red de su dispositivo.</li>
-  <li>Si su dispositivo o red están protegidos por un cortafuegos o proxy, asegúrese de que &brandShortName; tiene permiso para acceder a la web.</li>
+  <li>El sitio puede estar temporalmente no disponible o demasiado ocupado. Pruebe en unos momentos.</li>
+  <li>Si es incapaz de cargar ninguna página, compruebe los datos de su dispositivo o su conexión WiFi.</li>
 </ul>
 ">
-<!ENTITY malwareBlocked.title "¡Posible sitio atacante!">
-<!ENTITY malwareBlocked.longDesc "<p>Los sitios atacantes intentan instalar programas que pueden robar información privada, usar su dispositivo para atacar otros o dañar su sistema.</p>
-<p>Los propietarios de sitios web que crean que han sido reportados como un sitio atacante pueden <a href='http://www.stopbadware.org/home/reviewinfo' >pedir una revisión</a>.</p>
-">
-<!ENTITY phishingBlocked.title "¡Posible sitio web fraudulento!">
-<!ENTITY phishingBlocked.longDesc "<p>Introducir cualquier información personal en esta página puede resultar en un robo de identidad u otro fraude.</p>
-<p>Estos tipos de webs fraudulentas son usadas en ataques de phishing, en los cuales páginas y correos electrónicos fraudulentos se utilizan para imitar fuentes en las que confías.</p>">
 <!ENTITY cspFrameAncestorBlocked.title "Bloqueado por la política de seguridad de contenido">
 <!ENTITY cspFrameAncestorBlocked.longDesc "<p>&brandShortName; ha impedido que esta página se cargue de esta forma porque la página tiene una política de seguridad de contenido que no lo permite.</p>">
 <!ENTITY corruptedContentError.title "Error de contenido corrupto">
