@@ -34,11 +34,6 @@
 <!-- LOCALIZATION NOTE : FILE 'Advanced' prefs settings -->
 <!ENTITY pref.advanced.title        "Kitkas">
 
-<!ENTITY prefEnableJava.caption     "Tinklalapių interpretavimas">
-
-<!ENTITY enbJavaCheck.label         "Leisti naudoti Javą">
-<!ENTITY enbJavaCheck.accesskey     "J">
-
 <!ENTITY systemPref.caption         "Sistemos nuostatos">
 <!ENTITY systemPrefCheck.label      "Naudoti operacinės sistemos nuostatas">
 <!ENTITY systemPrefCheck.accesskey  "N">

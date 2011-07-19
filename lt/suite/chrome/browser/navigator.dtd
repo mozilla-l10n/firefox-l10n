@@ -42,121 +42,29 @@
 <!-- LOCALIZATION NOTE (mainWindow.titlemodifiermenuseparator): DONT_TRANSLATE -->
 <!ENTITY mainWindow.titlemodifiermenuseparator " - ">
 
-<!ENTITY tabCmd.label "Naršyklės kortelė">
-<!ENTITY tabCmd.accesskey "o">
-<!ENTITY tabCmd.commandkey "T">
-<!ENTITY openCmd.label "Atverti tinklavietę…">
-<!ENTITY openCmd.accesskey "v">
-<!ENTITY openCmd.commandkey "l">
-<!ENTITY openFileCmd.label "Atverti failą…">
-<!ENTITY openFileCmd.accesskey "A">
-<!ENTITY openFileCmd.commandkey "o">
-<!ENTITY recentTabs.label "Paskiausiai užvertos kortelės">
-<!ENTITY recentTabs.accesskey "P">
-<!ENTITY recentTabs.commandkey "t">
-<!ENTITY recentWindows.label "Paskiausiai užverti langai">
-<!ENTITY recentWindows.accesskey "l">
-<!ENTITY recentWindows.commandkey "y">
 <!ENTITY editPageCmd.label "Taisyti tinklalapį">
 <!ENTITY editPageCmd.accesskey "T">
 <!ENTITY editPageCmd.commandkey "e">
 
-<!ENTITY uploadFile.label "Išsiųsti failą…">
-<!ENTITY uploadFile.accesskey "I">
-
-<!ENTITY printSetupCmd.label "Puslapio nuostatos…">
-<!ENTITY printSetupCmd.accesskey "P">
 <!ENTITY printPreviewCmd.label "Spaudinio peržiūra">
 <!ENTITY printPreviewCmd.accesskey "ž">
 <!ENTITY printCmd.label "Spausdinti…">
 <!ENTITY printCmd.accesskey "S">
 <!ENTITY printCmd.commandkey "P">
 
-<!ENTITY toolbarsCmd.label "Priemonių juostos">
-<!ENTITY toolbarsCmd.accesskey "o">
 <!ENTITY navbarCmd.label "Naršymo juosta">
 <!ENTITY navbarCmd.accesskey "N">
 <!ENTITY personalbarCmd.label "Asmeninė mygtukų juosta">
 <!ENTITY personalbarCmd.accesskey "A">
-<!ENTITY tabbarCmd.label "Kortelių juosta">
-<!ENTITY tabbarCmd.accesskey "K">
-<!ENTITY taskbarCmd.label "Būsenos juosta">
-<!ENTITY taskbarCmd.accesskey "B">
-<!ENTITY componentbarCmd.label "Darbų mygtukų juosta">
-<!ENTITY componentbarCmd.accesskey "D">
 
-<!ENTITY useStyleSheetMenu.label "Tinklalapio stilius">
-<!ENTITY useStyleSheetMenu.accesskey "s">
-<!ENTITY useStyleSheetNone.label "Nėra">
-<!ENTITY useStyleSheetNone.accesskey "N">
-<!ENTITY useStyleSheetPersistentOnly.label "Pagrindinis tinklalapio stilius">
-<!ENTITY useStyleSheetPersistentOnly.accesskey "P">
-<!ENTITY pageSourceCmd.label "Pirminis tekstas">
-<!ENTITY pageSourceCmd.accesskey "t">
-<!ENTITY pageSourceCmd.commandkey "u">
-<!ENTITY pageInfoCmd.label "Informacija apie tinklalapį">
-<!ENTITY pageInfoCmd.accesskey "I">
-<!ENTITY pageInfoCmd.commandkey "i">
-<!ENTITY fullScreenCmd.label "Visas ekranas">
-<!ENTITY fullScreenCmd.accesskey "V">
-<!ENTITY translateMenu.label "Išversti tinklalapį">
-<!ENTITY translateMenu.accesskey "v">
-
-<!ENTITY closeOtherTabs.label "Užverti kitas korteles">
-<!ENTITY closeOtherTabs.accesskey "k">
 <!ENTITY closeWindow.label "Užverti langą">
 <!ENTITY closeWindow.accesskey "l">
 
 <!ENTITY minimizeButton.tooltip       "Suskleisti">
 <!ENTITY restoreButton.tooltip        "Normalioji veiksena">
 
-<!ENTITY applyTheme.label	"Grafinis apvalkalas"> 
-<!ENTITY applyTheme.accesskey	"a"> 
-<!ENTITY getNewThemesCmd.label "Atsiųsti apvalkalų">
-<!ENTITY getNewThemesCmd.accesskey "A">
-<!ENTITY getPersonasCmd.label "Atsiųsti kaukių">
-<!ENTITY getPersonasCmd.accesskey "k">
-<!ENTITY findOnCmd.label "Ieškoti šiame tinklalapyje…">
-<!ENTITY findOnCmd.accesskey "I">
-<!ENTITY findOnCmd.commandkey "f">
-<!ENTITY findAgainCmd.label "Ieškoti toliau">
-<!ENTITY findAgainCmd.accesskey "e">
-<!ENTITY findAgainCmd.commandkey "g">
-<!ENTITY findPrevCmd.label "Ieškoti ankstesnio">
-<!ENTITY findPrevCmd.accesskey "o">
-<!ENTITY findPrevCmd.commandkey "g">
-<!ENTITY findAgainCmd.commandkey2 "VK_F3">
-<!ENTITY findPrevCmd.commandkey2 "VK_F3">
-
-<!ENTITY searchInternetCmd.label "Paieška internete">
-<!ENTITY searchInternetCmd.accesskey "n">
-<!ENTITY searchInternet.commandKey "s">
-
-<!ENTITY clearPrivateDataCmd.label "Pašalinti privačius duomenis…">
-<!ENTITY clearPrivateDataCmd.accesskey "š">
-
-<!ENTITY goMenu.label "Eiti">
-<!ENTITY goMenu.accesskey "E">
-<!ENTITY goHomeCmd.label "Į pradžios tinklalapį">
-<!ENTITY goHomeCmd.accesskey "r">
-<!ENTITY historyRestoreLastSession.label "Atkurti paskiausiąjį seansą">
-<!ENTITY historyRestoreLastSession.accesskey "A">
-
-<!ENTITY bookmarksMenu.label "Adresynas">
-<!ENTITY bookmarksMenu.accesskey "A">
-<!ENTITY addCurPageCmd.label "Įrašyti į adresyną">
-<!ENTITY addCurPageCmd.accesskey "r">
-<!ENTITY addCurPageAsCmd.label "Įrašyti į adresyną kaip…">
-<!ENTITY addCurPageAsCmd.accesskey "a">
-<!ENTITY addCurPageAsCmd.commandkey "d">
-<!ENTITY addCurTabsAsCmd.label "Įrašyti į adresyną šią kortelių grupę…">
-<!ENTITY addCurTabsAsCmd.accesskey "k">
-<!ENTITY manBookmarksCmd.label "Tvarkyti adresyną…">
-<!ENTITY manBookmarksCmd.accesskey "T">
-<!ENTITY manBookmarksCmd.commandkey "b">
 <!ENTITY feedsMenu.label "Prenumeruoti šio tinklalapio naujienas">
 <!ENTITY feedsMenu.accesskey "P">
-<!ENTITY emptyItem.label "(Tuščias)">
 
 <!ENTITY menuBar.tooltip                  "Meniu juosta">
 <!ENTITY personalToolbar.tooltip          "Asmeninė mygtukų juosta">
@@ -197,14 +105,4 @@
 <!-- Statusbar -->
 <!ENTITY statusText.label           "Dokumentas baigtas">
 
-<!ENTITY historyCmd.label           "Į žurnalą">  
-<!ENTITY historyCmd.accesskey       "ž">
-<!ENTITY history.commandKey         "h">
-
 <!ENTITY popupIcon.tooltiptext      "Leisti šios svetainės iškylančiuosius langus">
-
-<!ENTITY bidiSwitchPageDirectionItem.label        "Pakeisti puslapio kryptį">
-<!ENTITY bidiSwitchPageDirectionItem.accesskey    "P">
-
-<!-- LOCALIZATION NOTE (syncTabsMenu.label): This appears in the Go menu -->
-<!ENTITY syncTabsMenu.label         "Kortelės iš kitų kompiuterių">
