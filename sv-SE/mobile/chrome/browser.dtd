@@ -92,6 +92,7 @@
 <!ENTITY contextOpenInNewTab.label    "Öppna länk i ny flik">
 <!ENTITY contextSaveLink.label        "Spara länk">
 <!ENTITY contextSaveImage.label       "Spara bild">
+<!ENTITY contextCopyLink.label        "Kopiera länk">
 <!ENTITY contextShareLink.label       "Dela länk">
 <!ENTITY contextShareImage.label      "Dela bild">
 <!ENTITY contextBookmarkLink.label    "Bokmärk länk">
