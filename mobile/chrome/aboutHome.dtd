@@ -8,3 +8,4 @@
 <!ENTITY aboutHome.openAllTabs "Tümünü sekmelerde aç">
 <!ENTITY aboutHome.noTabs "Son kullanımdan sekme yok">
 <!ENTITY aboutHome.noAddons "Önerilen eklenti yok">
+<!ENTITY aboutHome.getLocale "Change Language">
