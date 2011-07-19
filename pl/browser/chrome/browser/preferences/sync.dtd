@@ -31,7 +31,7 @@
 <!-- Sync Settings -->
 <!ENTITY syncComputerName.label       "Nazwa komputera:">
 <!ENTITY syncComputerName.accesskey   "N">
-<!ENTITY deactivateDevice.label       "Zdezaktywuj to urządzenie">
+<!ENTITY unlinkDevice.label           "Odłącz to urządzenie">
 
 <!-- Footer stuff -->
 <!ENTITY prefs.tosLink.label        "Warunki korzystania z usługi">
