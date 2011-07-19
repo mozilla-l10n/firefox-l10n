@@ -119,5 +119,5 @@
   -  It should be a one-line JavaScript comment, i.e., preceded by '//'
   -->
 
-<!ENTITY textbox.placeholder1 "// Enter some JavaScript, select it, right click and select Run, Inspect or Display.">
+<!ENTITY textbox.placeholder1 "// Cuir roinnt JavaScript isteach, roghnaigh é, cliceáil ar dheis, ansin roghnaigh Rith, Scrúdaigh, nó Taispeáin.">
 

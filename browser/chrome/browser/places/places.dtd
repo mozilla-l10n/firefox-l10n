@@ -28,10 +28,12 @@
 <!ENTITY cmd.findCurrent.label "Aimsigh sa Bhailiúchán Reatha…">
 <!ENTITY cmd.findCurrent.accesskey "i">
 
-<!ENTITY cmd.exportHTML.label "Easpórtáil HTML…">
-<!ENTITY cmd.exportHTML.accesskey "E">
-<!ENTITY cmd.importHTML.label "Iompórtáil HTML…">
-<!ENTITY cmd.importHTML.accesskey "I">
+<!ENTITY importBookmarksFromHTML.label "Iompórtáil Leabharmharcanna ó HTML…">
+<!ENTITY importBookmarksFromHTML.accesskey "I">
+<!ENTITY exportBookmarksToHTML.label "Easpórtáil Leabharmharcanna mar HTML…">
+<!ENTITY exportBookmarksToHTML.accesskey "E">
+<!ENTITY importOtherBrowser.label "Iompórtáil Sonraí ó Bhrabhsálaí Eile…">
+<!ENTITY importOtherBrowser.accesskey "E">
 
 <!ENTITY cmd.backup.label "Cúltaca…">
 <!ENTITY cmd.backup.accesskey "C">

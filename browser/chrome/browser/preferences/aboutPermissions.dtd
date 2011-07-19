@@ -22,9 +22,9 @@
 <!ENTITY password.manage "Bainistigh Focail Fhaire…">
 
 <!ENTITY cookie.label "Socraigh Fianáin">
-<!ENTITY cookie.clear "Glan Fianáin">
+<!ENTITY cookie.remove "Bain Fianáin">
 <!ENTITY cookie.manage "Bainistigh Fianáin…">
-<!ENTITY cookie.clearAll "Glan Gach Fianán">
+<!ENTITY cookie.removeAll "Bain Gach Fianán">
 
 <!ENTITY geo.label "Ceadaigh">
 <!-- LOCALIZATION NOTE (indexedDB.label): This is describing indexedDB storage

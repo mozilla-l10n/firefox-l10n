@@ -30,6 +30,8 @@
 <!ENTITY checkNow.accesskey "n">
 <!ENTITY submitCrashes.label "Seol tuairiscí ar thuairteáil">
 <!ENTITY submitCrashes.accesskey "S">
+<!ENTITY submitTelemetry.label "Seol sonraí a bhaineann le luas">
+<!ENTITY submitTelemetry.accesskey "l">
 
 <!ENTITY networkTab.label "Líonra">
 

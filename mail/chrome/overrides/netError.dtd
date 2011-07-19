@@ -28,8 +28,8 @@
 <!ENTITY netInterrupt.longDesc "&sharedLongDesc;">
 
 <!ENTITY netOffline.title "Mód as líne">
-<!ENTITY netOffline.longDesc "<ul> 
-<li>Cuir &brandShortName; sa mhód ar líne, agus bain triail eile as.</li> 
+<!ENTITY netOffline.longDesc2 "<ul> 
+<li>Brúigh &quot;Déan Iarracht Arís&quot; chun dul ar líne agus an leathanach a luchtú arís.</li> 
 </ul>">
 
 <!ENTITY contentEncodingError.title "Earráid ionchódaithe inneachair">
@@ -79,6 +79,9 @@
 
 <!ENTITY cspFrameAncestorBlocked.title "Bactha ag an Polasaí Slándala Inneachair">
 <!ENTITY cspFrameAncestorBlocked.longDesc "<p>Chuir &brandShortName; stad ar luchtú an leathanaigh seo toisc go bhfuil polasaí slándála inneachair ag an leathanach a dhícheadaíonn é.</p>">
+
+<!ENTITY corruptedContentError.title "Earráid: Ábhar Truaillithe">
+<!ENTITY corruptedContentError.longDesc "<p>An t-ábhar atá tú ag iarraidh a amharc, ní féidir é a thaispeáint toisc gur tharla earráid agus na sonraí á seoladh.</p><ul><li>Téigh i dteagmháil le húinéir an tsuímh agus inis dóibh faoin fhadhb seo.</li></ul>">
 
 <!ENTITY securityOverride.linkText "Nó is féidir leat eisceacht a chruthú…">
 <!ENTITY securityOverride.getMeOutOfHereButton "Amach as seo liom!">

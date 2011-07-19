@@ -197,3 +197,5 @@ na breiseáin is fearr agus is mó éilimh orthu sa phána seo.">
 <!ENTITY eula.width "560px">
 <!ENTITY eula.height "400px">
 <!ENTITY eula.accept "Glac Leis agus Suiteáil…">
+
+<!ENTITY settings.path.button.label "Brabhsáil…">
