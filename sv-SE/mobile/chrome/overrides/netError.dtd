@@ -7,21 +7,18 @@
 <!-- Specific error messages -->
 
 <!ENTITY connectionFailure.title "Anslutningen misslyckades">
-<!ENTITY connectionFailure.longDesc "&sharedLongDesc;">
+<!ENTITY connectionFailure.longDesc "&sharedLongDesc2;">
 
 <!ENTITY deniedPortAccess.title "Adressen har säkerhetsrestriktioner">
 <!ENTITY deniedPortAccess.longDesc "">
 
 <!ENTITY dnsNotFound.title "Servern hittades inte">
-<!ENTITY dnsNotFound.longDesc "
+<!ENTITY dnsNotFound.longDesc2 "
 <ul>
   <li>Kontrollera om det finns något skrivfel i adressen, som
     <strong>ww</strong>.example.com i stället för
     <strong>www</strong>.example.com</li>
-  <li>Om du inte kan hämta någon sida alls, kontrollera datorns
-    nätverksanslutning.</li>
-  <li>Om datorn eller nätverket skyddas av en brandvägg eller proxy, kontrollera
-    att &brandShortName; har tillstånd att ansluta till webben.</li>
+  <li>Om du inte kan hämta någon sida alls, kontrollera din enhets data- eller Wi-Fi-anslutning.</li>
 </ul>
 ">
 
@@ -51,7 +48,7 @@
 ">
 
 <!ENTITY netInterrupt.title "Anslutningen avbröts">
-<!ENTITY netInterrupt.longDesc "&sharedLongDesc;">
+<!ENTITY netInterrupt.longDesc "&sharedLongDesc2;">
 
 <!ENTITY netOffline.title "Nedkopplat läge">
 <!ENTITY netOffline.longDesc2 "
@@ -75,10 +72,10 @@
 ">
 
 <!ENTITY netReset.title "Anslutningen avbröts">
-<!ENTITY netReset.longDesc "&sharedLongDesc;">
+<!ENTITY netReset.longDesc "&sharedLongDesc2;">
 
 <!ENTITY netTimeout.title "Anslutningen avbröts">
-<!ENTITY netTimeout.longDesc "&sharedLongDesc;">
+<!ENTITY netTimeout.longDesc "&sharedLongDesc2;">
 
 <!ENTITY protocolNotFound.title "Adressen förstods inte">
 <!ENTITY protocolNotFound.longDesc "
@@ -97,12 +94,10 @@
 ">
 
 <!ENTITY proxyResolveFailure.title "Kan inte hitta proxyservern">
-<!ENTITY proxyResolveFailure.longDesc "
+<!ENTITY proxyResolveFailure.longDesc2 "
 <ul>
   <li>Kontrollera att proxyinställningarna är riktiga.</li>
-  <li>Kontrollera att datorn har en fungerande nätverksanslutning.</li>
-  <li>Om datorn eller nätverket skyddas av en brandvägg eller proxy, kontrollera
-    att &brandShortName; har tillstånd att ansluta till webben.</li>
+  <li>Kontrollera att enheten har en fungerande data- eller Wi-Fi-anslutning.</li>
 </ul>
 ">
 
@@ -140,27 +135,11 @@
 </ul>
 ">
 
-<!ENTITY sharedLongDesc "
+<!ENTITY sharedLongDesc2 "
 <ul>
-  <li>Platsen kan tillfälligt vara nere eller upptagen. Försök igen om en
-    stund.</li>
-  <li>Om du inte kan öppna någon sida alls, kontrollera datorns
-    nätverksanslutning.</li>
-  <li>Om datorn eller nätverket skyddas av en brandvägg eller proxy, kontrollera
-    att &brandShortName; har tillstånd att ansluta till webben.</li>
+  <li>Platsen kan tillfälligt vara nere eller upptagen. Försök igen om en stund.</li>
+  <li>Om du inte kan öppna någon sida alls, kontrollera enhetens data- eller Wi-Fi-anslutning.</li>
 </ul>
-">
-
-<!ENTITY malwareBlocked.title "Misstänkt skadlig webbplats!">
-<!ENTITY malwareBlocked.longDesc "
-<p>Skadliga webbplatser försöker installera program för att stjäla privata uppgifter, använda din dator för att angripa andras, eller för att skada ditt system.</p>
-<p>Ägare till webbplatser som anser att deras webbplats felaktigt har rapporterats som skadlig kan <a href='http://www.stopbadware.org/home/reviewinfo'>begära en omprövning</a>.</p>
-">
-
-<!ENTITY phishingBlocked.title "Misstänkt webbförfalskning!">
-<!ENTITY phishingBlocked.longDesc "
-<p>Personliga uppgifter som lämnas på den där sidan kan resultera i identitetsstöld eller annat bedrägeri.</p>
-<p>Den här typen av webbförfalskningar används i något som kallas nätfiske där falska webbsidor och e-postmeddelanden används för att imitera källor du kanske litar på.</p>
 ">
 
 <!ENTITY cspFrameAncestorBlocked.title "Blockerad av säkerhetspolicyn för innehåll">
