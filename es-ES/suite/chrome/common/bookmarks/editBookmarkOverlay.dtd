@@ -7,6 +7,7 @@
 <!ENTITY editBookmarkOverlay.siteLocation.label "Dirección del sitio:">
 <!ENTITY editBookmarkOverlay.siteLocation.accesskey "i">
 <!ENTITY editBookmarkOverlay.folder.label "Carpeta:">
+<!ENTITY editBookmarkOverlay.folder.accesskey "r">
 <!ENTITY editBookmarkOverlay.foldersExpanderDown.tooltip "Mostrar todas las carpetas de marcadores">
 <!ENTITY editBookmarkOverlay.expanderUp.tooltip "Ocultar">
 <!ENTITY editBookmarkOverlay.tags.label "Etiquetas:">
