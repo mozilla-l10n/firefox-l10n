@@ -6,5 +6,3 @@
 <!ENTITY zoomReduceCmd.accesskey "n">
 <!ENTITY zoomReduceCmd.commandkey "-">
 <!ENTITY zoomResetCmd.commandkey "0">
-<!ENTITY zoomMenu.accesskey "T">
-<!ENTITY zoomOtherCmd.accesskey "O">
