@@ -93,22 +93,4 @@
 <!ENTITY channel.description.start  "Šiuo metu naudojamas ">
 <!ENTITY channel.description.end    " naujinimų kanalas. ">
 
-<!ENTITY channel.change             "Keisti">
-
-<!ENTITY channel.release.description       "Su milijonais kitų naudotojų mėgaukitės testuotojų jau išbandyta ir galutinai išleista paskiausia programos laida, pasižyminčia sparta, paprastu individualizavimu ir naujausiomis saityno technologijomis.">
-<!ENTITY channel.beta.description          "Išbandykite dar „kepamas“, tačiau jau įgavusias stabilumo, programos savybes ir savo atsiliepimais padėkite mums ją tobulinti prieš galutinai išleidžiant.">
-<!ENTITY channel.aurora.description        "Šviežiausios naujovės, dar neiškeliavusios iš mūsų virtuvės. Ši parinktis – ryžtingiausiems. Siųskite atsiliepimus apie naujas savybes bei programos spartą ir padėkite spręsti, kas pateks į galutinę laidą.">
-
-<!-- LOCALIZATION NOTE (channel.selector.start,channel.selector.end): channel.selector.start and
-     channel.selector.end create one sentence, with a channel selection menulist instered in between.
-     This is all in one line, so try to make the localized text short.
-     example: Switch to the [Stable] update channel. -->
-<!ENTITY channel.selector.start          "Keisti naujinimų kanalą į: ">
-<!ENTITY channel.selector.end            "">
-
-<!-- LOCALIZATION NOTE (channel.selector.applyButton): This button applies the user's choice to switch
-     to a new update channel and starts the application update process. -->
-<!ENTITY channel.selector.applyButton    "Pakeisti ir atnaujinti">
-<!ENTITY channel.selector.cancelButton   "Atsisakyti">
-
 <!ENTITY cmdCloseMac.commandKey          "w">
