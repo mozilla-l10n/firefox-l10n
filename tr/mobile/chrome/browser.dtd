@@ -106,6 +106,7 @@
 <!ENTITY pageactions.saveas.pdf "PDF olarak kaydet">
 <!ENTITY pageactions.share.page "Sayfayı paylaş">
 <!ENTITY pageactions.password.forget "Parolayı unut">
+<!ENTITY pageactions.quit "Quit">
 <!ENTITY pageactions.reset "Site tercihlerini temizle">
 <!ENTITY pageactions.findInPage "Sayfada bul">
 <!ENTITY pageactions.search.addNew "Arama motoru ekleme">

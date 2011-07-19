@@ -22,9 +22,9 @@
 <!ENTITY password.manage "Parolaları yönet...">
 
 <!ENTITY cookie.label "Çerez bırak">
-<!ENTITY cookie.clear "Çerezleri temizle">
+<!ENTITY cookie.remove "Çerezleri sil">
 <!ENTITY cookie.manage "Çerezleri yönet...">
-<!ENTITY cookie.clearAll "Bütün çerezleri temizle">
+<!ENTITY cookie.removeAll "Tüm çerezleri sil">
 
 <!ENTITY geo.label "Konumu paylaş">
 <!-- LOCALIZATION NOTE (indexedDB.label): This is describing indexedDB storage
