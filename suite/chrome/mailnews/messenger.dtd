@@ -367,9 +367,9 @@
 <!ENTITY openMessageWindowCmd.key "o">
 <!ENTITY openFeedMessage.label "Abrir mensaje del canal">
 <!ENTITY openFeedMessage.accesskey "b">
-<!ENTITY openFeedWebPageInWindow.label "Página web en ventana nueva">
+<!ENTITY openFeedWebPageInWindow.label "Página web en una ventana nueva">
 <!ENTITY openFeedWebPageInWindow.accesskey "W">
-<!ENTITY openFeedSummaryInWindow.label "Resumen en ventana nueva">
+<!ENTITY openFeedSummaryInWindow.label "Resumen en una ventana nueva">
 <!ENTITY openFeedSummaryInWindow.accesskey "R">
 <!ENTITY openFeedWebPageInMP.label "Alternar el resumen y la página web en el panel de mensajes">
 <!ENTITY openFeedWebPageInMP.accesskey "T">
@@ -441,7 +441,7 @@
 <!ENTITY statusText.label "Hecho">
 <!ENTITY contextOpenNewWindow.label "Abrir el mensaje en una ventana nueva">
 <!ENTITY contextOpenNewWindow.accesskey "v">
-<!ENTITY contextOpenNewTab.label "Abrir el mensaje en pestaña nueva">
+<!ENTITY contextOpenNewTab.label "Abrir el mensaje en una pestaña nueva">
 <!ENTITY contextOpenNewTab.accesskey "T">
 <!ENTITY contextEditAsNew.label "Editar como nuevo…">
 <!ENTITY contextEditAsNew.accesskey "e">
@@ -473,9 +473,9 @@
 <!ENTITY contextPrintPreview.accesskey "v">
 <!ENTITY folderContextGetMessages.label "Recibir mensajes de la cuenta">
 <!ENTITY folderContextGetMessages.accesskey "j">
-<!ENTITY folderContextOpenNewWindow.label "Abrir en ventana nueva">
+<!ENTITY folderContextOpenNewWindow.label "Abrir en una ventana nueva">
 <!ENTITY folderContextOpenNewWindow.accesskey "v">
-<!ENTITY folderContextOpenNewTab.label "Abrir en pestaña nueva">
+<!ENTITY folderContextOpenNewTab.label "Abrir en una pestaña nueva">
 <!ENTITY folderContextOpenNewTab.accesskey "T">
 <!ENTITY folderContextRename.label "Renombrar">
 <!ENTITY folderContextRename.accesskey "r">
