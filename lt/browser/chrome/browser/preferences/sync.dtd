@@ -43,9 +43,10 @@
 <!ENTITY manageAccount.label          "Tvarkyti paskyrą">
 <!ENTITY manageAccount.accesskey      "T">
 <!ENTITY viewQuota.label              "Kvota">
-<!ENTITY changePassword.label         "Keisti slaptažodį">
+<!ENTITY changePassword2.label        "Keisti slaptažodį…">
 <!ENTITY mySyncKey.label              "Mano sinchronizavimo raktas">
-<!ENTITY resetSync.label              "Iš naujo sinchronizuoti duomenis">
+<!ENTITY resetSync2.label             "Iš naujo sinchronizuoti duomenis…">
+
 <!ENTITY addDevice.label              "Pridėti įrenginį">
 
 <!ENTITY syncMy.label               "Sinchronizuoti:">
@@ -63,7 +64,7 @@
 <!-- Device Settings -->
 <!ENTITY syncComputerName.label       "Kompiuterio vardas:">
 <!ENTITY syncComputerName.accesskey   "v">
-<!ENTITY deactivateDevice.label       "Nebesinchronizuoti šio įrenginio">
+<!ENTITY unlinkDevice.label           "Atsieti šį įrenginį">
 
 <!-- Footer stuff -->
 <!ENTITY prefs.tosLink.label          "Paslaugos teikimo nuostatai">
