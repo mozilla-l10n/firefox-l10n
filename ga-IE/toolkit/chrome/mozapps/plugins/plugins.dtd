@@ -20,7 +20,7 @@
 <!ENTITY pluginWizard.finalPage.moreInfo.label "Tuilleadh eolais maidir le Forlíontáin nó cuardach láimhe na bhforlíontán atá ar iarraidh.">
 <!ENTITY pluginWizard.finalPage.restart.label "Ní mór &brandShortName; a atosú chun an forlíontán (na forlíontáin) a chur ag obair.">
 
-<!ENTITY missingPlugin "A plugin is needed to display this content.">
+<!ENTITY missingPlugin "Teastaíonn breiseán uait chun an t-ábhar seo a chur ar taispeáint.">
 <!ENTITY disabledPlugin "Tá an forlíontán seo díchumasaithe.">
 <!ENTITY blockedPlugin.label "Tá cosc curtha ar an bhforlíontán seo le tú a chosaint.">
 

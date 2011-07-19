@@ -30,13 +30,8 @@
 <!ENTITY netInterrupt.longDesc "&sharedLongDesc;">
 
 <!ENTITY netOffline.title "Mód as líne">
-<!-- LOCALIZATION NOTE (netOffline.overrideLongDesc) - This string should
-     indicate that "Work Offline" is a menu item without being too specific,
-     since it could be in either the normal menu (Mac/Linux) or the Firefox button
-     menu (Windows).
--->
-<!ENTITY netOffline.overrideLongDesc "<ul> 
-<li>Díroghnaigh &quot;Oibrigh As Líne&quot;, agus ansin bain triail eile as.</li> 
+<!ENTITY netOffline.longDesc2 "<ul> 
+<li>Brúigh &quot;Déan Iarracht Arís&quot; chun dul ar líne agus an leathanach a luchtú arís.</li> 
 </ul>">
 
 <!ENTITY contentEncodingError.title "Earráid Ionchódaithe Inneachair">
@@ -82,6 +77,10 @@
 
 <!ENTITY cspFrameAncestorBlocked.title "Bactha ag an Polasaí Slándala Inneachair">
 <!ENTITY cspFrameAncestorBlocked.longDesc "<p>Chuir &brandShortName; stad ar luchtú an leathanaigh seo toisc go bhfuil polasaí slándála inneachair ag an leathanach a dhícheadaíonn é.</p>">
+
+<!ENTITY corruptedContentError.title "Earráid: Ábhar Truaillithe">
+<!ENTITY corruptedContentError.longDesc "<p>An leathanach atá tú ag iarraidh a amharc, ní féidir é a thaispeáint toisc gur tharla earráid agus na sonraí á seoladh.</p><ul><li>Téigh i dteagmháil le húinéir an tsuímh agus inis dóibh faoin fhadhb seo.</li></ul>">
+
 
 <!ENTITY securityOverride.linkText "Nó is féidir leat eisceacht a chruthú…">
 <!ENTITY securityOverride.getMeOutOfHereButton "Amach as seo liom!">

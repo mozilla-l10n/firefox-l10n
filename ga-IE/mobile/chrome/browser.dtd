@@ -106,6 +106,7 @@
 <!ENTITY pageactions.saveas.pdf "Sábháil mar PDF">
 <!ENTITY pageactions.share.page "Comhroinn an Leathanach">
 <!ENTITY pageactions.password.forget "Déan Dearmad ar Fhocal Faire">
+<!ENTITY pageactions.quit "Scoir">
 <!ENTITY pageactions.reset "Glan Sainroghanna an tSuímh">
 <!ENTITY pageactions.findInPage "Aimsigh sa Leathanach">
 <!ENTITY pageactions.search.addNew "Inneall Cuardaigh Nua">

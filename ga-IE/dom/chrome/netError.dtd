@@ -25,8 +25,7 @@
 <!ENTITY netInterrupt.longDesc "<p>D'éirigh leis an mbrabhsálaí ceangal a bhunú ach idirbhriseadh an ceangal le linn traschur na faisnéise. Triail arís é le do thoil.</p><ul><li>Mura bhfuil tú in ann suímh eile a bhrabhsáil, déan seiceáil ar cheangal líonra do ríomhaire.</li><li>An bhfuil fadhbanna agat fós? Téigh i dteagmháil le do riarthóir líonra nó le do sholáthraí Idirlín le haghaidh cabhrach.</li></ul>">
 
 <!ENTITY netOffline.title "Mód As Líne">
-<!ENTITY netOffline.longDesc "<p>Tá an brabhsálaí sa mhód as líne agus ní féidir ceangal leis an mhír iarrtha.</p><ul><li>An bhfuil an ríomhaire ceangailte le líonra gníomhach?</li><li>Cuir an brabhsálaí sa mhód ar líne agus triail arís é.</li></ul>">
-<!ENTITY netOffline.overrideLongDesc "<p>Tá an brabhsálaí sa mhód as líne agus ní féidir ceangal leis an mhír iarrtha.</p><ul><li>An bhfuil an ríomhaire ceangailte le líonra gníomhach?</li><li>Cuir an brabhsálaí sa mhód ar líne agus triail arís é.</li></ul>">
+<!ENTITY netOffline.longDesc2 "<p>Tá an brabhsálaí sa mhód as líne agus ní féidir ceangal leis an mhír iarrtha.</p><ul><li>An bhfuil an ríomhaire ceangailte le líonra beo?</li><li>Brúigh 'Déan Iarracht Arís' chun dul ar líne agus an leathanach a luchtú arís.</li></ul>">
 
 <!ENTITY contentEncodingError.title "Earráid Ionchódaithe Inneachair">
 <!ENTITY contentEncodingError.longDesc "<p>An leathanach atá tú ag iarraidh a amharc, ní féidir é a thaispeáint, agus comhbhrú ann nach bhfuil bailí nó nach bhfuil tacaíocht leis.</p><ul><li>Téigh i dteagmháil le húinéirí an tsuímh ghréasáin leis an bhfadhb a chur in iúl dóibh, le do thoil.</li></ul>">
@@ -69,6 +68,9 @@
 
 <!ENTITY cspFrameAncestorBlocked.title "Bactha ag an Polasaí Slándala Inneachair">
 <!ENTITY cspFrameAncestorBlocked.longDesc "<p>Chuir an brabhsálaí stad ar luchtú an leathanaigh seo toisc go bhfuil polasaí slándála inneachair ag an leathanach a dhícheadaíonn é.</p>">
+
+<!ENTITY corruptedContentError.title "Earráid: Ábhar Truaillithe">
+<!ENTITY corruptedContentError.longDesc "<p>An leathanach atá tú ag iarraidh a amharc, ní féidir é a thaispeáint toisc gur tharla earráid agus na sonraí á seoladh.</p><ul><li>Téigh i dteagmháil le húinéir an tsuímh agus inis dóibh faoin fhadhb seo.</li></ul>">
 
 <!ENTITY remoteXUL.title "XUL Cianda">
 <!ENTITY remoteXUL.longDesc "<p><ul><li>Téigh i dteagmháil le húinéir an tsuímh agus inis dóibh faoin fhadhb seo.</li></ul></p>">
