@@ -6,7 +6,8 @@
 <!ENTITY editBookmarkOverlay.feedLocation.accesskey "B">
 <!ENTITY editBookmarkOverlay.siteLocation.label "Site konumu:">
 <!ENTITY editBookmarkOverlay.siteLocation.accesskey "S">
-<!ENTITY editBookmarkOverlay.folder.label "Dizin:">
+<!ENTITY editBookmarkOverlay.folder.label "Folder:">
+<!ENTITY editBookmarkOverlay.folder.accesskey "F">
 <!ENTITY editBookmarkOverlay.foldersExpanderDown.tooltip "Tüm yer imi dizinlerini gösterir">
 <!ENTITY editBookmarkOverlay.expanderUp.tooltip "Gizler">
 <!ENTITY editBookmarkOverlay.tags.label "Tags:">
