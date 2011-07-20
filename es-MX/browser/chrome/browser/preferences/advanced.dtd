@@ -22,6 +22,8 @@
 <!ENTITY checkNow.accesskey "C">
 <!ENTITY submitCrashes.label "Enviar reporte de fallos">
 <!ENTITY submitCrashes.accesskey "E">
+<!ENTITY submitTelemetry.label "Presentar datos de rendimiento">
+<!ENTITY submitTelemetry.accesskey "P">
 <!ENTITY networkTab.label "Red">
 <!ENTITY connection.label "Conexión">
 <!ENTITY connectionDesc.label "Configurar cómo se conecta &brandShortName; a internet">
