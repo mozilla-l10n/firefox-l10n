@@ -16,10 +16,12 @@
 <!ENTITY signIn.syncKey.label "Clave de Sync">
 <!ENTITY signIn.syncKey.accesskey "C">
 <!ENTITY setup.newAccountDetailsPage.title.label "Detalles de la cuenta">
-<!ENTITY setup.confirmPassword.label "Confirmar contraseña">
-<!ENTITY setup.confirmPassword.accesskey "m">
 <!ENTITY setup.emailAddress.label "Dirección de correo electrónico">
 <!ENTITY setup.emailAddress.accesskey "E">
+<!ENTITY setup.choosePassword.label "Elije una contraseña">
+<!ENTITY setup.choosePassword.accesskey "P">
+<!ENTITY setup.confirmPassword.label "Confirmar contraseña">
+<!ENTITY setup.confirmPassword.accesskey "m">
 <!ENTITY setup.tosAgree1.label "Acepto los">
 <!ENTITY setup.tosAgree1.accesskey "a">
 <!ENTITY setup.tosLink.label "Términos de Servicio">

@@ -39,8 +39,8 @@
 <!ENTITY dontrememberActions.pre.label "También puedes ">
 <!ENTITY dontrememberActions.clearHistory.label "borrar todo el historial">
 <!ENTITY dontrememberActions.post.label ".">
-<!ENTITY privateBrowsingPermanent.label "Modo permanente de navegación privada">
-<!ENTITY privateBrowsingPermanent.accesskey "P">
+<!ENTITY privateBrowsingPermanent2.label "Siempre usar modo de navegación privada">
+<!ENTITY privateBrowsingPermanent2.accesskey "p">
 <!ENTITY rememberHistory.label "Recordar mi historial de navegación">
 <!ENTITY rememberHistory.accesskey "n">
 <!ENTITY rememberDownload.label "Recordar el historial de descargas">

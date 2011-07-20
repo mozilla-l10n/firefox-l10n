@@ -12,9 +12,9 @@
 <!ENTITY password.label "Guardar contraseñas">
 <!ENTITY password.manage "Administrar contraseñas…">
 <!ENTITY cookie.label "Establecer Cookies">
-<!ENTITY cookie.clear "Borrar Cookies">
+<!ENTITY cookie.remove "Eliminar cookies">
 <!ENTITY cookie.manage "Administrar Cookies…">
-<!ENTITY cookie.clearAll "Borrar todas las Cookies">
+<!ENTITY cookie.removeAll "Eliminar todo">
 <!ENTITY geo.label "Compartir">
 <!ENTITY indexedDB.label "Mantener el almacenamiento fuera de línea">
 <!ENTITY popup.label "Abrir ventanas emergentes">
