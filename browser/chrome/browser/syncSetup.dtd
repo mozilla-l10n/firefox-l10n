@@ -20,6 +20,8 @@
 <!ENTITY setup.confirmPassword.accesskey "m">
 <!ENTITY setup.emailAddress.label "Direición d'email">
 <!ENTITY setup.emailAddress.accesskey "e">
+<!ENTITY setup.choosePassword.label "Esbillar una contraseña">
+<!ENTITY setup.choosePassword.accesskey "ñ">
 <!ENTITY setup.tosAgree1.label "Aceuto los">
 <!ENTITY setup.tosAgree1.accesskey "a">
 <!ENTITY setup.tosLink.label "Términos del Serviciu">
