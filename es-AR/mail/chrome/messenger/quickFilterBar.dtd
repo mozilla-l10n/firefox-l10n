@@ -150,6 +150,11 @@
 <!ENTITY quickFilterBar.textbox.emptyText.base
          "Filtrar estos mensajes... #1">
 
+<!-- LOCALIZATION NOTE (quickFilterBar.show.key2):
+     This is the key used to show the quick filter bar. -->
+<!ENTITY quickFilterBar.show.key2
+         "k">
+
 <!-- LOCALIZATION NOTE (quickFilterBar.textbox.emptyText.keyLabel.nonmac):
      The description of the key-binding to get into the box on windows and
      linux (which use the control key).  We use the keybinding for cmd_find
