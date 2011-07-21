@@ -28,10 +28,12 @@
 <!ENTITY cmd.findCurrent.label          "Tìm trong Bộ sưu tập hiện tại…">
 <!ENTITY cmd.findCurrent.accesskey      "r">
 
-<!ENTITY cmd.exportHTML.label           "Xuất HTML…">
-<!ENTITY cmd.exportHTML.accesskey       "X">
-<!ENTITY cmd.importHTML.label           "Nhập HTML…">
-<!ENTITY cmd.importHTML.accesskey       "N">
+<!ENTITY importBookmarksFromHTML.label     "Nhập trang đánh dấu từ HTML…">
+<!ENTITY importBookmarksFromHTML.accesskey "a">
+<!ENTITY exportBookmarksToHTML.label       "Xuất trang đánh dấu từ HTML…">
+<!ENTITY exportBookmarksToHTML.accesskey   "X">
+<!ENTITY importOtherBrowser.label          "Nhập dữ liệu từ Trình duyệt khác…">
+<!ENTITY importOtherBrowser.accesskey      "y">
 
 <!ENTITY cmd.backup.label               "Sao lưu…">
 <!ENTITY cmd.backup.accesskey           "S">

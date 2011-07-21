@@ -51,16 +51,10 @@
 <!ENTITY netInterrupt.longDesc "&sharedLongDesc;">
 
 <!ENTITY netOffline.title "Chế độ ngoại tuyến">
-<!-- LOCALIZATION NOTE (netOffline.overrideLongDesc) - This string should
-     indicate that "Work Offline" is a menu item without being too specific,
-     since it could be in either the normal menu (Mac/Linux) or the Firefox button
-     menu (Windows).
--->
-<!ENTITY netOffline.overrideLongDesc "
-<ul>
-  <li>Bỏ chọn &quot;Duyệt web Ngoại tuyến&quot;, rồi thử lại.</li>
+<!ENTITY netOffline.longDesc2 "<ul>
+ <li>Bấm &quot;Thử lại&quot; để vào chế độ trực tuyến và tải lại trang.</li>
 </ul>
-   ">
+">
 
 <!ENTITY contentEncodingError.title "Lỗi Bảng Mã">
 <!ENTITY contentEncodingError.longDesc "
@@ -158,6 +152,10 @@
 
 <!ENTITY cspFrameAncestorBlocked.title "Bị chặn bởi Chính sách Bảo vệ Nội dung">
 <!ENTITY cspFrameAncestorBlocked.longDesc "<p>&brandShortName; không tải trang này vì nó có một chính sách bảo vệ nội dung không cho phép việc tải theo cách này.</p>">
+
+<!ENTITY corruptedContentError.title "Lỗi Nội dung Hư">
+<!ENTITY corruptedContentError.longDesc "<p>Trang mà bạn đang cố xem không thể hiển thị được vì một lỗi trong truyền tải dữ liệu.</p><ul><li>Vui lòng liên hệ chủ trang web để báo họ về vấn đề này.</li></ul>">
+
 
 <!ENTITY securityOverride.linkText "Hoặc bạn có thể thêm một ngoại lệ…">
 <!ENTITY securityOverride.getMeOutOfHereButton "Đưa tôi ra khỏi đây!">

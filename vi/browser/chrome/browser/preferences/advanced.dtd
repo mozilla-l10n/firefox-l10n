@@ -29,6 +29,8 @@
 <!ENTITY checkNow.accesskey              "N">
 <!ENTITY submitCrashes.label             "Gửi báo cáo việc hỏng">
 <!ENTITY submitCrashes.accesskey         "b">
+<!ENTITY submitTelemetry.label           "Gửi dữ liệu về hiệu suất">
+<!ENTITY submitTelemetry.accesskey       "G">
 
 <!ENTITY networkTab.label                "Mạng">
 
