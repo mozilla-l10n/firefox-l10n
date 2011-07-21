@@ -22,9 +22,9 @@
 <!ENTITY password.manage                 "Quản lí Mật khẩu…">
 
 <!ENTITY cookie.label                    "Đặt Cookie">
-<!ENTITY cookie.clear                    "Xóa cookie">
+<!ENTITY cookie.remove                   "Xóa Cookie">
 <!ENTITY cookie.manage                   "Quản lí Cookie…">
-<!ENTITY cookie.clearAll                 "Xóa toàn bộ Cookie">
+<!ENTITY cookie.removeAll                "Xóa Toàn Bộ Cookie">
 
 <!ENTITY geo.label                       "Chia sẻ Vị trí">
 
