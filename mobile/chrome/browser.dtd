@@ -92,7 +92,6 @@
 <!ENTITY contextOpenInNewTab.label "Otevřít odkaz v novém panelu">
 <!ENTITY contextSaveLink.label "Uložit odkaz">
 <!ENTITY contextSaveImage.label "Uložit obrázek">
-<!ENTITY contextCopyLink.label "Kopírovat odkaz">
 <!ENTITY contextShareLink.label "Sdílet odkaz">
 <!ENTITY contextShareImage.label "Sdílet obrázek">
 <!ENTITY contextBookmarkLink.label "Přidat odkaz do záložek">
