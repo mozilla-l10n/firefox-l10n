@@ -1,7 +1,6 @@
 <!ENTITY splash_screen_label "Загрузка">
 <!ENTITY splash_screen_installing "Установка библиотек\u2026">
 <!ENTITY splash_firstrun "Настройка &brandShortName;\u2026">
-<!ENTITY incompatable_cpu_error "Это устройство не удовлетворяет минимальным системным требованиям для &brandShortName;.">
 <!ENTITY no_space_to_start_error "Недостаточно свободного места для запуска &brandShortName;.">
 <!ENTITY error_loading_file "При попытке загрузки файлов, требуемых для запуска &brandShortName;, произошла ошибка.">
 <!ENTITY crash_reporter_title "&brandShortName; Crash Reporter">
@@ -13,5 +12,4 @@
 <!ENTITY crash_restart_label "Перезапустить &brandShortName;">
 <!ENTITY sending_crash_report "Отправка сообщения о падении\u2026">
 <!ENTITY exit_label "Выйти">
-<!ENTITY incompatable_device "&brandShortName; не поддерживает это устройство и у вас могут возникнуть проблемы.">
 <!ENTITY continue_label "Продолжить">
