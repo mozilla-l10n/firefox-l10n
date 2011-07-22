@@ -227,6 +227,8 @@
 <!ENTITY bodySanitized.accesskey "s">
 <!ENTITY bodyAsPlaintext.label "Texte seul">
 <!ENTITY bodyAsPlaintext.accesskey "x">
+<!ENTITY bodyAllParts.label "Tous les éléments">
+<!ENTITY bodyAllParts.accesskey "T">
 
 <!ENTITY bodyMenuFeed.label "Corps de message du flux">
 <!ENTITY bodyMenuFeed.accesskey "C">
