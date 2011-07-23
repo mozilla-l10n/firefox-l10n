@@ -165,6 +165,9 @@ midlertidig, og du kan prøve igjen senere.</li>
 <!ENTITY cspFrameAncestorBlocked.title "Blokkert av sikkerhetsregel">
 <!ENTITY cspFrameAncestorBlocked.longDesc "<p>&brandShortName; forhindret dette nettstedet fra å lastes inn på denne måten fordi siden har en sikkerhetsbegrensing som forhindrer det.</p>">
 
+<!ENTITY corruptedContentError.title "Ødelagt innhold">
+<!ENTITY corruptedContentError.longDesc "<p>Innholdet du forsøker å vise kan ikke vises på grunn av en feil i dataoverføringen.</p><ul><li>Kontakt eierne og informer dem om dette problemet.</li></ul>">
+
 <!ENTITY securityOverride.linkText "Eller du kan lage en unntaksregel …">
 <!ENTITY securityOverride.getMeOutOfHereButton "Få meg bort herfra">
 <!ENTITY securityOverride.exceptionButtonLabel "Lag et unntak …">
