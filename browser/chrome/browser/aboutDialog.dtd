@@ -60,21 +60,3 @@
      example: You are currently on the _Stable_ update channel. -->
 <!ENTITY channel.description.start  "Anda sedang menggunakan kanal pembaruan ">
 <!ENTITY channel.description.end    ". ">
-
-<!ENTITY channel.change             "Ubah">
-
-<!ENTITY channel.release.description       "Nikmati rilis final yang telah diuji dan dikaji, yang digunakan beratus juta orang di seluruh dunia. Dapatkan selalu pengalaman daring dengan kecepatan super, pengubahsuaian nan mudah, serta teknologi Web terbaru.">
-<!ENTITY channel.beta.description          "Dapatkan fitur terbaru dengan kestabilan yang lebih baik. Kirimkan umpan balik untuk membantu memperhalus dan membesut apa yang akan disertakan dalam rilis final.">
-<!ENTITY channel.aurora.description        "    Dapatkan inovasi terbaru dalam lingkungan yang tidak stabil, bukan untuk yang suka uji nyali. Kirimkan umpan balik tentang fitur dan kinerja untuk menentukan apa yang akan disertakan dalam rilis final.">
-
-<!-- LOCALIZATION NOTE (channel.selector.start,channel.selector.end): channel.selector.start and
-     channel.selector.end create one sentence, with a channel selection menulist instered in between.
-     This is all in one line, so try to make the localized text short.
-     example: Switch to the [Stable] update channel. -->
-<!ENTITY channel.selector.start          "Ubah ke kanal pembaruan">
-<!ENTITY channel.selector.end            ".">
-
-<!-- LOCALIZATION NOTE (channel.selector.applyButton): This button applies the user's choice to switch
-     to a new update channel and starts the application update process. -->
-<!ENTITY channel.selector.applyButton    "Terapkan dan Perbarui">
-<!ENTITY channel.selector.cancelButton   "Batal">

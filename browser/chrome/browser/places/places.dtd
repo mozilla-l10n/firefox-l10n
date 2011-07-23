@@ -28,10 +28,12 @@
 <!ENTITY cmd.findCurrent.label          "Cari di Kelompok Ini…">
 <!ENTITY cmd.findCurrent.accesskey      "K">
 
-<!ENTITY cmd.exportHTML.label           "Ekspor ke HTML…">
-<!ENTITY cmd.exportHTML.accesskey       "E">
-<!ENTITY cmd.importHTML.label           "Impor dari HTML…">
-<!ENTITY cmd.importHTML.accesskey       "I">
+<!ENTITY importBookmarksFromHTML.label     "Impor Markah dari HTML…">
+<!ENTITY importBookmarksFromHTML.accesskey "I">
+<!ENTITY exportBookmarksToHTML.label       "Ekspor Markah ke HTML…">
+<!ENTITY exportBookmarksToHTML.accesskey   "E">
+<!ENTITY importOtherBrowser.label          "Impor Data dari Peramban Lain…">
+<!ENTITY importOtherBrowser.accesskey      "A">
 
 <!ENTITY cmd.backup.label               "Buat Cadangan…">
 <!ENTITY cmd.backup.accesskey           "C">
