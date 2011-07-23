@@ -12,7 +12,7 @@
 <!ENTITY useSmoothScrolling.label "Usar desplazamiento suave">
 <!ENTITY useSmoothScrolling.accesskey "v">
 <!ENTITY allowHWAccel.label "Usar aceleración de hardware cuando esté disponible">
-<!ENTITY allowHWAccel.accesskey "h">
+<!ENTITY allowHWAccel.accesskey "r">
 <!ENTITY checkSpelling.label "Comprobar la ortografía mientras se escribe">
 <!ENTITY checkSpelling.accesskey "t">
 <!ENTITY systemDefaults.label "Por defecto">
