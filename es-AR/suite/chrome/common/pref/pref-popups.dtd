@@ -20,8 +20,6 @@
 <!ENTITY selectSound.accesskey          "E">
 <!ENTITY playSoundButton.label          "Reproducir">
 <!ENTITY playSoundButton.accesskey      "R">
-<!ENTITY selectSound.title              "Seleccione el sonido de bloqueo de ventana emergente">
-<!ENTITY selectSound.filter             "Sonidos">
 
 <!ENTITY displayIcon.label              "Mostrar un ícono en la barra de estado del navegador">
 <!ENTITY displayIcon.accesskey          "d">
