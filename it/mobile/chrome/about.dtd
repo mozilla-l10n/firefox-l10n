@@ -7,7 +7,7 @@
 <!ENTITY aboutPage.credits.label "Riconoscimenti">
 <!ENTITY aboutPage.checkForUpdates.button "Cerca aggiornamenti">
 <!ENTITY aboutPage.checkForUpdates.checking "Ricerca aggiornamenti…">
-<!ENTITY aboutPage.checkForUpdates.none "Nessun aggiornamento disponibile">
+<!ENTITY aboutPage.checkForUpdates.none "Nessun agg. disponibile">
 <!ENTITY aboutPage.checkForUpdates.found "Aggiornamento disponibile">
 <!ENTITY aboutPage.licenseLink "Informazioni sulla licenza">
 <!ENTITY aboutPage.licenseLinkSuffix ".">
