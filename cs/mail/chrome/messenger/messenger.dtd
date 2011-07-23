@@ -9,9 +9,6 @@
 <!ENTITY closeTabCmd2.accesskey "Z">
 <!ENTITY closeOtherTabsCmd2.label "Zavřít ostatní panely">
 <!ENTITY closeOtherTabsCmd2.accesskey "v">
-<!-- LOCALIZATION NOTE (undoCloseTabCmd.label):
-     Menu option to attempt to re-open a recently closed tab.
-     -->
 <!ENTITY recentlyClosedTabsCmd.label "Naposledy zavřené panely">
 <!ENTITY recentlyClosedTabsCmd.accesskey "N">
 
@@ -227,6 +224,8 @@
 <!ENTITY bodySanitized.accesskey "J">
 <!ENTITY bodyAsPlaintext.label "Prostý text">
 <!ENTITY bodyAsPlaintext.accesskey "P">
+<!ENTITY bodyAllParts.label "Všechny části těla">
+<!ENTITY bodyAllParts.accesskey "e">
 
 <!ENTITY bodyMenuFeed.label "Tělo zprávy kanálu jako">
 <!ENTITY bodyMenuFeed.accesskey "z">
