@@ -6,7 +6,6 @@
 <!ENTITY editBookmarkOverlay.feedLocation.accesskey          "N">
 <!ENTITY editBookmarkOverlay.siteLocation.label              "Nettsted:">
 <!ENTITY editBookmarkOverlay.siteLocation.accesskey          "e">
-<!ENTITY editBookmarkOverlay.liveTitlesSeparator.label       "Levende titler">
 <!ENTITY editBookmarkOverlay.folder.label                    "Mappe:">
 <!ENTITY editBookmarkOverlay.foldersExpanderDown.tooltip     "Vis alle bokmerkemapper">
 <!ENTITY editBookmarkOverlay.expanderUp.tooltip              "Skjul">

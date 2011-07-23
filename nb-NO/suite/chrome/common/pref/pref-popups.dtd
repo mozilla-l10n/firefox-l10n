@@ -20,8 +20,6 @@
 <!ENTITY selectSound.accesskey          "B">
 <!ENTITY playSoundButton.label          "Spill av">
 <!ENTITY playSoundButton.accesskey      "S">
-<!ENTITY selectSound.title              "Velg en sprettoppvindulyd">
-<!ENTITY selectSound.filter             "Lyder">
 
 <!ENTITY displayIcon.label              "Vis et ikon i statuslinjen til nettleseren">
 <!ENTITY displayIcon.accesskey          "V">
