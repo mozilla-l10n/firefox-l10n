@@ -1,12 +1,15 @@
 <!-- extracted from content/openLocation.xul -->
 
 <!ENTITY enter.label "Skriv inn adressen (URL), eller angi en lokal fil du vil åpne:">  
+<!-- LOCALIZATION NOTE (enter.accesskey): should be present in both enter.label
+     as defined above and attachEnterLabel as defined in
+     openLocation.properties -->
 <!ENTITY enter.accesskey "S">
 <!ENTITY chooseFile.label "Velg fil …">
 <!ENTITY chooseFile.accesskey "V">
 <!ENTITY newWindow.label "Nytt vindu">
 <!ENTITY newTab.label "Ny fane">
-<!ENTITY topWindow.label "Dette vinduet">
+<!ENTITY currentTab.label "Aktiv nettleserfane">
 <!ENTITY editNewWindow.label "Åpne for redigering">
 <!ENTITY open.label "Åpne">
 <!ENTITY caption.label "Åpne nettadresse">
