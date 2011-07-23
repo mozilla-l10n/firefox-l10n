@@ -24,6 +24,8 @@
 
 <!-- New Account Page 1: Basic Account Info -->
 <!ENTITY setup.newAccountDetailsPage.title.label "Detail Akun">
+<!ENTITY setup.choosePassword.label      "Tentukan Sandi">
+<!ENTITY setup.choosePassword.accesskey  "T">
 <!ENTITY setup.confirmPassword.label  "Konfirmasi Sandi">
 <!ENTITY setup.confirmPassword.accesskey  "m">
 <!ENTITY setup.emailAddress.label     "Alamat Email">

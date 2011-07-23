@@ -22,9 +22,9 @@
 <!ENTITY password.manage                 "Kelola Sandi…">
 
 <!ENTITY cookie.label                    "Setel Kuki">
-<!ENTITY cookie.clear                    "Bersihkan Kuki">
+<!ENTITY cookie.remove                   "Hapus Kuki">
 <!ENTITY cookie.manage                   "Kelola Kuki…">
-<!ENTITY cookie.clearAll                 "Hapus Semua Kuki">
+<!ENTITY cookie.removeAll                "Hapus Semua Kuki">
 
 <!ENTITY geo.label                       "Berbagi Lokasi">
 

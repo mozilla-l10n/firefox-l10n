@@ -29,6 +29,8 @@
 <!ENTITY checkNow.accesskey              "T">
 <!ENTITY submitCrashes.label             "Kirim laporan crash">
 <!ENTITY submitCrashes.accesskey         "c">
+<!ENTITY submitTelemetry.label           "Kirim data kinerja">
+<!ENTITY submitTelemetry.accesskey       "j">
 
 <!ENTITY networkTab.label                "Jaringan">
 
