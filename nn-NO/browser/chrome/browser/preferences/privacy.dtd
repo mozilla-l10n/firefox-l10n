@@ -61,8 +61,8 @@
 <!ENTITY  dontrememberActions.clearHistory.label "slette all historikk">
 <!ENTITY  dontrememberActions.post.label         ".">
 
-<!ENTITY  privateBrowsingPermanent.label "Permanent privat nettlesing-modus">
-<!ENTITY  privateBrowsingPermanent.accesskey "P">
+<!ENTITY  privateBrowsingPermanent2.label "Alltid bruk moduset privat nettlesing">
+<!ENTITY  privateBrowsingPermanent2.accesskey "A">
 
 <!ENTITY  rememberHistory.label      "Hugs nettlesarhistorikk">
 <!ENTITY  rememberHistory.accesskey  "H">

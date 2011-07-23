@@ -57,8 +57,6 @@ can reach it easily. -->
 <!ENTITY printCmd.label "Skriv ut …">
 <!ENTITY printCmd.accesskey "u">
 <!ENTITY printCmd.commandkey "p">
-<!ENTITY import.label "Importer …">
-<!ENTITY import.accesskey "I">
 
 <!ENTITY goOfflineCmd.label "Arbeid fråkopla">
 <!ENTITY goOfflineCmd.accesskey "r">
@@ -104,7 +102,7 @@ can reach it easily. -->
 <!ENTITY subscribeToPageMenuitem.label "Abonnér på denne sida …">
 <!ENTITY addCurPagesCmd.label "Bokmerk alle fanene …">
 <!ENTITY showAllBookmarks2.label "Vis alle bokmerka">
-<!ENTITY bookmarkAllCmd.label "Bokmerk alle fanene …">
+<!ENTITY unsortedBookmarksCmd.label "Usorterte bokmerke">
 <!ENTITY bookmarksToolbarChevron.tooltip "Vis fleire bokmerke">
 
 <!ENTITY backCmd.label                "Tilbake">
@@ -179,6 +177,9 @@ can reach it easily. -->
 <!ENTITY addons.accesskey             "U">
 <!ENTITY addons.commandkey            "A">
 
+<!ENTITY webDeveloperMenu.label       "Nettsideutvikling">
+<!ENTITY webDeveloperMenu.accesskey   "N">
+
 <!ENTITY errorConsoleCmd.label        "Feilmeldingar">
 <!ENTITY errorConsoleCmd.accesskey    "F">
 <!ENTITY errorConsoleCmd.commandkey   "j">
@@ -191,22 +192,27 @@ can reach it easily. -->
 <!ENTITY inspectMenu.accesskey        "r">
 <!ENTITY inspectMenu.commandkey       "I">
 
+<!-- LOCALIZATION NOTE (scratchpad.label): This menu item label appears
+  -  in the Tools menu. See bug 653093.
+  -  The Scratchpad is intended to provide a simple text editor for creating
+  -  and evaluating bits of JavaScript code for the purposes of function
+  -  prototyping, experimentation and convenient scripting.
+  -
+  -  It's quite possible that you won't have a good analogue for the word
+  -  "Scratchpad" in your locale. You should feel free to find a close
+  -  approximation to it or choose a word (or words) that means
+  -  "simple discardable text editor". -->
+<!ENTITY scratchpad.label             "Kladdebok">
+<!ENTITY scratchpad.accesskey         "K">
+<!ENTITY scratchpad.keycode           "VK_F4">
+<!ENTITY scratchpad.keytext           "F4">
+
 <!ENTITY inspectPanelTitle.label      "HTML">
 <!ENTITY inspectButton.label          "Inspiser">
 <!ENTITY inspectButton.accesskey      "I">
-<!ENTITY inspectNextButton.label      "Neste">
-<!ENTITY inspectNextButton.accesskey  "N">
-<!ENTITY inspectPreviousButton.label  "Førre">
-<!ENTITY inspectPreviousButton.accesskey "F">
-<!ENTITY inspectStyleButton.label     "Stil">
-<!ENTITY inspectStyleButton.accesskey "S">
-<!ENTITY inspectStylePanelTitle.label  "Stil">
-<!-- LOCALIZATION NOTE (inspectObjectButton.label): This button label
-  -  appears on the Inspector's toolbar. It is used to open and close the Object
-  -  panel. There is also a label in inspector.properties for the panel
-  -  titlebar: object.objectPanelTitle. -->
-<!ENTITY inspectObjectButton.label       "Objekt">
-<!ENTITY inspectObjectButton.accesskey   "O">
+
+<!ENTITY getMoreDevtoolsCmd.label        "Hent fleire verktøy">
+<!ENTITY getMoreDevtoolsCmd.accesskey    "H">
 
 <!ENTITY fileMenu.label         "Fil"> 
 <!ENTITY fileMenu.accesskey       "F">
