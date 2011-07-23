@@ -6,12 +6,9 @@
 <!ENTITY organize.accesskey    "O">
 <!ENTITY organize.tooltip      "Organiser bokmerka">
 
-<!ENTITY file.accesskey                 "F">
 <!ENTITY file.close.label               "Lat att">
 <!ENTITY file.close.accesskey           "L">
 <!ENTITY cmd.close.key                  "w">
-<!ENTITY edit.label                     "Endre">
-<!ENTITY edit.accesskey                 "E">
 <!ENTITY views.label                    "Vis">
 <!ENTITY views.accesskey                "V">
 <!ENTITY views.tooltip                  "Endre vising">
@@ -31,14 +28,16 @@
 <!ENTITY cmd.findCurrent.label          "Finn i denne samlinga …">
 <!ENTITY cmd.findCurrent.accesskey      "i">
 
-<!ENTITY cmd.exportHTML.label           "Eksporter HTML …">
-<!ENTITY cmd.exportHTML.accesskey       "E">
-<!ENTITY cmd.importHTML.label           "Importer HTML …">
-<!ENTITY cmd.importHTML.accesskey       "I">
+<!ENTITY importBookmarksFromHTML.label     "Importer bokmerke frå …">
+<!ENTITY importBookmarksFromHTML.accesskey "I">
+<!ENTITY exportBookmarksToHTML.label       "Eksporter bokmerke til HTML …">
+<!ENTITY exportBookmarksToHTML.accesskey   "E">
+<!ENTITY importOtherBrowser.label          "Importer data frå ein annan nettlesar …">
+<!ENTITY importOtherBrowser.accesskey      "a">
 
 <!ENTITY cmd.backup.label               "Reservekopi …">
 <!ENTITY cmd.backup.accesskey           "R">
-<!ENTITY cmd.restore2.label             "Still tilbake …">
+<!ENTITY cmd.restore2.label             "Bygg oppatt …">
 <!ENTITY cmd.restore2.accesskey         "S">
 <!ENTITY cmd.restoreFromFile.label      "Vel fil …">
 <!ENTITY cmd.restoreFromFile.accesskey  "V">
@@ -76,14 +75,12 @@
 
 <!ENTITY cmd.reloadLivebookmark.label      "Oppdater levande bokmerke">
 <!ENTITY cmd.reloadLivebookmark.accesskey  "O">
-<!ENTITY cmd.reloadMicrosummary.label      "Oppdater levande titlar">
-<!ENTITY cmd.reloadMicrosummary.accesskey  "O">
 
 <!ENTITY cmd.moveBookmarks.label                  "Flytt …">
 <!ENTITY cmd.moveBookmarks.accesskey              "F">
 
 <!ENTITY col.name.label          "Namn">
-<!ENTITY col.tags.label          "Merkelappar">
+<!ENTITY col.tags.label          "Stikkord">
 <!ENTITY col.url.label           "Adresse">
 <!ENTITY col.lastvisit.label     "Sist vitja">
 <!ENTITY col.visitcount.label    "Tal på vitjingar">
@@ -113,17 +110,14 @@
 <!ENTITY maintenance.accesskey  "I">
 <!ENTITY maintenance.tooltip    "Importer og tryggleikskopier bokmerka">
 
-<!ENTITY backCmd.label       "Tilbake">
 <!ENTITY backButton.tooltip  "Gå tilbake">
 
-<!ENTITY forwardCmd.label       "Fram">
 <!ENTITY forwardButton.tooltip  "Gå fram">
 
 <!ENTITY detailsPane.more.label "Meir">
 <!ENTITY detailsPane.more.accesskey "e">
 <!ENTITY detailsPane.less.label "Mindre">
 <!ENTITY detailsPane.less.accesskey "i">
-<!ENTITY detailsPane.noPreviewAvailable.label "Førehandsvising">
 <!ENTITY detailsPane.selectAnItemText.description "Vel elementet du vil vise og endre">
 
 <!ENTITY find.label               "Søk:">

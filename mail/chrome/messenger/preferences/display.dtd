@@ -1,5 +1,5 @@
 <!ENTITY itemFormatting.label             "Formatering">
-<!ENTITY itemTags.label                   "Merkelappar">
+<!ENTITY itemTags.label                   "Stikkord">
 
 <!ENTITY style.label                      "Stil:">
 <!ENTITY style.accesskey                  "S">
@@ -28,7 +28,7 @@
 <!ENTITY convertEmoticons.accesskey    "V">
 
 <!-- labels -->
-<!ENTITY displayTagsText.label     "Merkelappar kan brukast for å kategorisere og prioritere meldingane dine.">
+<!ENTITY displayTagsText.label     "Stikkord kan brukast for å kategorisere og prioritere meldingane dine.">
 <!ENTITY addTagButton.label        "Legg til">
 <!ENTITY addTagButton.accesskey    "L">
 <!ENTITY editTagButton.label       "Endre">

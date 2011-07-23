@@ -24,10 +24,12 @@
 
 <!-- New Account Page 1: Basic Account Info -->
 <!ENTITY setup.newAccountDetailsPage.title.label "Kontodetaljar">
-<!ENTITY setup.confirmPassword.label  "Stadfest passord">
-<!ENTITY setup.confirmPassword.accesskey  "a">
 <!ENTITY setup.emailAddress.label     "E-postadresse">
 <!ENTITY setup.emailAddress.accesskey "E">
+<!ENTITY setup.choosePassword.label      "Vel eit passord">
+<!ENTITY setup.choosePassword.accesskey  "V">
+<!ENTITY setup.confirmPassword.label     "Stadfest passord">
+<!ENTITY setup.confirmPassword.accesskey "a">
 <!-- LOCALIZATION NOTE: tosAgree1, tosLink, tosAgree2, ppLink, tosAgree3 are
      joined with implicit white space, so spaces in the strings aren't necessary -->
 <!ENTITY setup.tosAgree1.label      "Eg godtar">
@@ -43,7 +45,7 @@
 <!ENTITY setup.newSyncKeyPage.description.label "For å ta vare på personvernet ditt vil alle data verte krypterte før dei vert lasta opp. Sync-nøkkelen som er nødvendig for å dekryptere dine data vert ikkje lasta opp.">
 <!ENTITY syncKeyEntry.label        "Sync-nøkkel">
 <!ENTITY syncKeyEntry.accesskey    "S">
-<!ENTITY syncKeyGenerate.label     "Generer">
+<!ENTITY syncGenerateNewKey.label  "Generer ny nøkkel">
 <!ENTITY syncKeyBackup.description "Sync-nøkkelen din er påkravd for å få tilgang til &syncBrand.fullName.label; på fleire maskiner. Lag ein tryggingskopi. Vi kan ikkje hjelpe deg med å finne tilbake ein gløymd Sync-nøkkel.">
 
 <!ENTITY button.syncKeyBackup.print.label     "Skriv ut …">

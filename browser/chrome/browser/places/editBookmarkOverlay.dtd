@@ -6,18 +6,17 @@
 <!ENTITY editBookmarkOverlay.feedLocation.accesskey          "N">
 <!ENTITY editBookmarkOverlay.siteLocation.label              "Nettstad:">
 <!ENTITY editBookmarkOverlay.siteLocation.accesskey          "e">
-<!ENTITY editBookmarkOverlay.liveTitlesSeparator.label       "Levande titlar">
 <!ENTITY editBookmarkOverlay.folder.label                    "Mappe:">
 <!ENTITY editBookmarkOverlay.foldersExpanderDown.tooltip     "Vis alle bokmerkemappene">
 <!ENTITY editBookmarkOverlay.expanderUp.tooltip              "Skjul">
-<!ENTITY editBookmarkOverlay.tags.label                      "Merkelappar:">
-<!ENTITY editBookmarkOverlay.tags.accesskey                  "M">
-<!ENTITY editBookmarkOverlay.tagsEmptyDesc.label             "Skil merkelappar med komma">
+<!ENTITY editBookmarkOverlay.tags.label                      "Stikkord:">
+<!ENTITY editBookmarkOverlay.tags.accesskey                  "t">
+<!ENTITY editBookmarkOverlay.tagsEmptyDesc.label             "Skil stikkord med komma">
 <!ENTITY editBookmarkOverlay.description.label               "Skildring:">
 <!ENTITY editBookmarkOverlay.description.accesskey           "S">
 <!ENTITY editBookmarkOverlay.keyword.label                   "Nøkkelord:">
 <!ENTITY editBookmarkOverlay.keyword.accesskey               "k">
-<!ENTITY editBookmarkOverlay.tagsExpanderDown.tooltip        "Vis alle merkelappar">
+<!ENTITY editBookmarkOverlay.tagsExpanderDown.tooltip        "Vis alle stikkorda">
 <!ENTITY editBookmarkOverlay.loadInSidebar.label             "Last dette bokmerket i sidestolpen">
 <!ENTITY editBookmarkOverlay.loadInSidebar.accesskey         "L">
 <!ENTITY editBookmarkOverlay.choose.label                    "Vel …">

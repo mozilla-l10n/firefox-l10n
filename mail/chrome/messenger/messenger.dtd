@@ -9,9 +9,6 @@
 <!ENTITY closeTabCmd2.accesskey "L">
 <!ENTITY closeOtherTabsCmd2.label "Lat att dei andre fanene">
 <!ENTITY closeOtherTabsCmd2.accesskey "a">
-<!-- LOCALIZATION NOTE (undoCloseTabCmd.label):
-     Menu option to attempt to re-open a recently closed tab.
-     -->
 <!ENTITY recentlyClosedTabsCmd.label "Nyleg attlatne faner">
 <!ENTITY recentlyClosedTabsCmd.accesskey "N">
 
@@ -168,8 +165,8 @@
 <!ENTITY sortBySizeCmd.accesskey "t">
 <!ENTITY sortByStatusCmd.label "Status">
 <!ENTITY sortByStatusCmd.accesskey "u">
-<!ENTITY sortByTagsCmd.label "Merkelappar">
-<!ENTITY sortByTagsCmd.accesskey "M">
+<!ENTITY sortByTagsCmd.label "Stikkord">
+<!ENTITY sortByTagsCmd.accesskey "t">
 <!ENTITY sortByJunkStatusCmd.label "Uønskt-status">
 <!ENTITY sortByJunkStatusCmd.accesskey "U">
 <!ENTITY sortBySubjectCmd.label "Emne">
@@ -392,8 +389,8 @@ you can use these alternative items. Otherwise, their values should be empty.  -
 <!ENTITY fileHereMenu.accesskey "A">
 <!ENTITY copyHereMenu.label "Kopier hit">
 <!ENTITY copyHereMenu.accesskey "K">
-<!ENTITY tagMenu.label "Merkelapp">
-<!ENTITY tagMenu.accesskey "M">
+<!ENTITY tagMenu.label "Stikkord">
+<!ENTITY tagMenu.accesskey "t">
 <!ENTITY tagCmd0.key "0">
 <!ENTITY tagCmd1.key "1">
 <!ENTITY tagCmd2.key "2">
@@ -512,7 +509,7 @@ you can use these alternative items. Otherwise, their values should be empty.  -
 <!ENTITY searchItem.title "Snøggsøk">
 <!ENTITY mailViewsToolbarItem.title "Meldingsoversyn">
 <!ENTITY folderLocationToolbarItem.title "Mappeplassering">
-<!ENTITY tagButton.label "Merkelapp">
+<!ENTITY tagButton.label "Stikkord">
 <!ENTITY compactButton.label "Komprimer">
 
 <!-- Mail Toolbar Tooltips-->
@@ -543,7 +540,7 @@ you can use these alternative items. Otherwise, their values should be empty.  -
 <!ENTITY compactButton.tooltip "Fjern sletta meldingar frå vald mappe">
 
 <!-- Tags Menu Popup -->
-<!ENTITY addNewTag.label "Ny merkelapp …">
+<!ENTITY addNewTag.label "Nytt stikkord …">
 <!ENTITY addNewTag.accesskey "N">
 
 <!-- Folder Pane -->
@@ -611,7 +608,7 @@ you can use these alternative items. Otherwise, their values should be empty.  -
 <!ENTITY subjectColumn.label "Emne">
 <!ENTITY dateColumn.label "Dato">
 <!ENTITY priorityColumn.label "Prioritet">
-<!ENTITY tagsColumn.label "Merkelapp">
+<!ENTITY tagsColumn.label "Stikkord">
 <!ENTITY accountColumn.label "Konto">
 <!ENTITY statusColumn.label "Status">
 <!ENTITY sizeColumn.label "Storleik">
@@ -633,7 +630,7 @@ you can use these alternative items. Otherwise, their values should be empty.  -
 <!ENTITY subjectColumn.tooltip "Trykk her for å sortere etter emne">
 <!ENTITY dateColumn.tooltip "Trykk her for å sortere etter dato">
 <!ENTITY priorityColumn.tooltip "Trykk her for å sortere etter prioritet">
-<!ENTITY tagsColumn.tooltip "Trykk her for å sortere etter merkelapp">
+<!ENTITY tagsColumn.tooltip "Trykk her for å sortere etter stikkord">
 <!ENTITY accountColumn.tooltip "Trykk her for å sortere etter konto">
 <!ENTITY statusColumn.tooltip "Trykk her for å sortere etter status">
 <!ENTITY sizeColumn.tooltip "Trykk her for å sortere etter storleik">

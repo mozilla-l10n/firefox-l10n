@@ -38,7 +38,9 @@
 <!ENTITY netInterrupt.longDesc "&sharedLongDesc;">
 
 <!ENTITY netOffline.title "Fråkopla modus">
-<!ENTITY netOffline.longDesc "<ul>  <li>Set &brandShortName; i tilkopla modus, og prøv ein gong til.</li> </ul> 
+<!ENTITY netOffline.longDesc2 "<ul>
+  <li>Trykk &quot;Try Again&quot; for å skifte til pålogga modus og oppdatere sida.</li>
+</ul>
 ">
 
 <!ENTITY contentEncodingError.title "Feil med teiknkoding">
@@ -133,6 +135,9 @@ mellombels, og du kan prøve på nytt seinare.</li>
 
 <!ENTITY cspFrameAncestorBlocked.title "Blokkert av tryggingsregel">
 <!ENTITY cspFrameAncestorBlocked.longDesc "<p>&brandShortName; forhindra denne nettstaden frå å lastast inn på denne måten fordi sida har ei tryggingsavgrensing som hindrar det.</p>">
+
+<!ENTITY corruptedContentError.title "Feil - øydelagd innhald">
+<!ENTITY corruptedContentError.longDesc "<p>Innhaldet du prøvar å sjå kan ikkje visast fordi det vart oppdaga ein feil i dataoverføringa.</p><ul><li>Kontakt eigarane for å informere dei om problemet.</li></ul>">
 
 <!ENTITY securityOverride.linkText "eller du kan leggje til eit unntak …">
 <!ENTITY securityOverride.getMeOutOfHereButton "Få meg ut herifrå!">

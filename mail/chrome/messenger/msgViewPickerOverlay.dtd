@@ -8,8 +8,8 @@
 <!ENTITY viewUnread.accesskey "U">
 <!ENTITY viewNotDeleted.label "Ikkje sletta">
 <!ENTITY viewNotDeleted.accesskey "I">
-<!ENTITY viewTags.label "Merkelappar">
-<!ENTITY viewTags.accesskey "M">
+<!ENTITY viewTags.label "Stikkord">
+<!ENTITY viewTags.accesskey "t">
 <!ENTITY viewCustomViews.label "Eigendefinerte visingar">
 <!ENTITY viewCustomViews.accesskey "E">
 <!ENTITY viewVirtualFolder.label "Lagre vising som mappe …">

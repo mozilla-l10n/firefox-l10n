@@ -47,7 +47,7 @@
 <!ENTITY bccField2.label "blindkopi">
 <!ENTITY newsgroupsField2.label "nyhendegrupper">
 <!ENTITY followupToField2.label "oppfølging">
-<!ENTITY tagsHdr2.label "merkelappar">
+<!ENTITY tagsHdr2.label "stikkord">
 <!ENTITY dateField2.label "dato ">
 <!ENTITY userAgentField2.label "brukarprogram">
 <!ENTITY referencesField2.label "referansar">
@@ -67,8 +67,8 @@
 <!ENTITY hdrReplyListButton.tooltip "svar til e-postliste">
 <!ENTITY hdrForwardButton.label "vidaresend">
 <!ENTITY hdrForwardButton.tooltip "vidaresend denne meldinga">
-<!ENTITY hdrJunkButton.label "uønskt">
-<!ENTITY hdrJunkButton.tooltip "merk denne meldinga som uønskt">
+<!ENTITY hdrJunkButton.label "søppel">
+<!ENTITY hdrJunkButton.tooltip "merk denne meldinga som søppel">
 <!ENTITY hdrTrashButton.label "slett">
 <!ENTITY hdrTrashButton.tooltip "slett denne meldinga">
 
