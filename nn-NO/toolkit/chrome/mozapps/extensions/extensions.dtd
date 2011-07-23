@@ -198,3 +198,5 @@
 <!ENTITY eula.width                           "560px">
 <!ENTITY eula.height                          "400px">
 <!ENTITY eula.accept                          "Godta og installer …">
+
+<!ENTITY settings.path.button.label           "Bla gjennom …">
