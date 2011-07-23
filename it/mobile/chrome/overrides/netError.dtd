@@ -66,7 +66,7 @@
 <!ENTITY proxyResolveFailure.longDesc2 "
 <ul>
   <li>Verificare la correttezza delle impostazioni del proxy.</li>
-  <li>Verificare se il dispositivo ha una connessione dati o wireless funzionante.</li>
+  <li>Verificare se il dispositivo ha una connessione dati o wireless funzionanti.</li>
 </ul>">
 <!ENTITY redirectLoop.title "Questa pagina non reindirizza in modo corretto">
 <!ENTITY redirectLoop.longDesc "
