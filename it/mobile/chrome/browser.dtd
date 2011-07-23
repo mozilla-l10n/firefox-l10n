@@ -73,6 +73,7 @@
 <!ENTITY contextOpenInNewTab.label "Apri in una nuova scheda">
 <!ENTITY contextSaveLink.label "Salva link">
 <!ENTITY contextSaveImage.label "Salva immagine">
+<!ENTITY contextCopyLink.label "Copia link">
 <!ENTITY contextShareLink.label "Condividi link">
 <!ENTITY contextShareImage.label "Condividi immagine">
 <!ENTITY contextBookmarkLink.label "Aggiungi link nei segnalibri">
