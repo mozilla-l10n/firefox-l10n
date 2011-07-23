@@ -25,8 +25,7 @@
 <!ENTITY netInterrupt.longDesc "<p>Program peramban tersambung dengan sukses tetapi sambungan terganggu saat sedang mentransfer informasi. Silakan coba lagi.</p><ul><li>Apakah Anda tidak bisa menjelajah situs lain? Periksa sambungan jaringan komputer Anda.</li><li>Masih bermasalah? Tanyakan pada administrator jaringan Anda atau Penyedia Jasa Layanan Internet (Internet Service Provider).</li></ul>">
 
 <!ENTITY netOffline.title "Mode Luring">
-<!ENTITY netOffline.longDesc "<p>Program peramban sedang berjalan dalam mode luring dan tidak dapat tersambung pada objek yang diminta.</p><ul><li>Apakah komputer tersambung pada jaringan yang berfungsi?</li><li>Kembalikan peramban ke mode daring dan coba lagi.</li></ul>">
-<!ENTITY netOffline.overrideLongDesc "<p>Peramban sedang berjalan dalam mode luring dan tidak dapat tersambung pada objek yang diminta.</p><ul><li>Apakah komputer tersambung pada jaringan yang berfungsi?</li><li>Kembalikan peramban ke mode daring dan coba lagi.</li></ul>">
+<!ENTITY netOffline.longDesc2 "<p>Program peramban sedang berjalan dalam mode luring dan tidak dapat tersambung pada objek yang diminta.</p><ul><li>Apakah komputer tersambung pada jaringan yang berfungsi?</li><li>Tekan &quot;Coba Lagi&quot; untuk kembali ke mode daring dan memuat ulang lamannya.</li></ul>">
 
 <!ENTITY contentEncodingError.title "Kesalahan Pengodean Isi">
 <!ENTITY contentEncodingError.longDesc "<p>Laman yang ingin dibuka tidak bisa ditampilkan karena menggunakan format kompresi yang tidak didukung atau tidak dikenali.</p><ul><li>Mohon hubungi pemilik situs web mengenai masalah ini.</li></ul>">
@@ -89,6 +88,9 @@
 
 <!ENTITY cspFrameAncestorBlocked.title "Diblokir oleh Kebijakan Keamanan Konten">
 <!ENTITY cspFrameAncestorBlocked.longDesc "<p>Peramban mencegah pemuatan laman dengan cara ini karena laman mengandung kebijakan keamanan konten yang tidak mengizinkan hal ini.</p>">
+
+<!ENTITY corruptedContentError.title "Galat Konten Rusak">
+<!ENTITY corruptedContentError.longDesc "<p>Laman yang akan dibuka tidak dapat ditampilkan karena ada terdeteksi galat pada pengiriman data.</p><ul><li>Mohon hubungi pemilik situs web mengenai masalah ini.</li></ul>">
 
 <!ENTITY remoteXUL.title "XUL Daring">
 <!ENTITY remoteXUL.longDesc "<p><ul><li>Hubungi pemilik situs web untuk memberitahukan masalah ini.</li></ul></p>">
