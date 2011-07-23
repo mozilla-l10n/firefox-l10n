@@ -12,7 +12,7 @@
   <li>Compruebe la dirección por errores de escritura como
     <strong>ww</strong>.ejemplo.com en vez de
     <strong>www</strong>.ejemplo.com</li>
-  <li>Si aún no es capaz de cargar ninguna página, compruebe los datos de su dispositivo o su conexión WiFi.</li>
+  <li>Si aún no es capaz de cargar ninguna página, compruebe los datos de su dispositivo o su conexión Wi-Fi.</li>
 </ul>
 ">
 <!ENTITY fileNotFound.title "Archivo no encontrado">
@@ -73,7 +73,7 @@
 <!ENTITY proxyResolveFailure.longDesc2 "
 <ul>
   <li>Compruebe la configuración del proxy para comprobar que es correcta.</li>
-  <li>Comrpuebe que su dispositivo tiene una conexión de datos o WiFi funcional.</li>
+  <li>Comrpuebe que su dispositivo tiene una conexión de datos o Wi-Fi funcional.</li>
 </ul>
 ">
 <!ENTITY redirectLoop.title "La página no está redirigiendo adecuadamente">
@@ -106,7 +106,7 @@
 <!ENTITY sharedLongDesc2 "
 <ul>
   <li>El sitio puede estar temporalmente no disponible o demasiado ocupado. Pruebe en unos momentos.</li>
-  <li>Si es incapaz de cargar ninguna página, compruebe los datos de su dispositivo o su conexión WiFi.</li>
+  <li>Si es incapaz de cargar ninguna página, compruebe los datos de su dispositivo o su conexión Wi-Fi.</li>
 </ul>
 ">
 <!ENTITY cspFrameAncestorBlocked.title "Bloqueado por la política de seguridad de contenido">
