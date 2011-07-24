@@ -10,8 +10,6 @@
 <!-- LOCALIZATION NOTE (mainWindow.titlePrivateBrowsingSuffix): This will be appended to the window's title
                                                                 inside the private browsing mode -->
 <!ENTITY mainWindow.titlePrivateBrowsingSuffix "(Хувийн зорчилт)">
-<!-- LOCALIZATION NOTE (mainWindowPrivateBrowsing.titlemodifier): DONT_TRANSLATE -->
-<!ENTITY mainWindow.titlemodifierPrivateBrowsing "&mainWindow.titlemodifier; &mainWindow.titlePrivateBrowsingSuffix;">
 
 <!ENTITY tabCmd.label "Хөтлөгч самбар">
 <!ENTITY tabCmd.accesskey "Х">
@@ -28,8 +26,6 @@
 <!ENTITY printCmd.label "Хэвлэ…">
 <!ENTITY printCmd.accesskey "л">
 <!ENTITY printCmd.commandkey "p">
-<!ENTITY import.label "Импорт…">
-<!ENTITY import.accesskey "И">
 
 <!ENTITY goOfflineCmd.label "Салангид ажиллах">
 <!ENTITY goOfflineCmd.accesskey "С">
@@ -39,8 +35,6 @@
 <!ENTITY personalbarCmd.label "Хаягийн Багажит самбар">
 <!ENTITY personalbarCmd.accesskey "м">
 <!ENTITY bookmarksToolbarItem.label "Хаягийн багажит самбарын зүйлс">
-<!ENTITY taskbarCmd.label "Төлвийн самбар">
-<!ENTITY taskbarCmd.accesskey "М">
 
 <!ENTITY pageSourceCmd.label "Хуудасны эх бичлэг">
 <!ENTITY pageSourceCmd.accesskey "ч">
@@ -69,8 +63,6 @@
 <!ENTITY subscribeToPageMenupopup.label "Энэ хуудсанд бүртгүүл">
 <!ENTITY subscribeToPageMenuitem.label "Энэ хуудсанд бүртгүүл…">
 <!ENTITY addCurPagesCmd.label "Бүх самбарын хаягийг хадгал…">
-<!ENTITY organizeBookmarks.label    "Хаягнуудыг зохицуулах…">
-<!ENTITY bookmarkAllCmd.label "Бүх самбарын хаягийг хадгал…">
 <!ENTITY bookmarksToolbarChevron.tooltip "Нэмэлт хаягнуудыг харуул">
 
 <!ENTITY backCmd.label                "Буц">
@@ -79,7 +71,6 @@
 <!ENTITY forwardCmd.label             "Урагш">
 <!ENTITY forwardCmd.accesskey         "р">
 <!ENTITY forwardButton.tooltip        "Нэг хуудас урагш">
-<!ENTITY backForwardMenu.tooltip      "Сүүлд зорчсон хуудаснууд">
 <!ENTITY reloadCmd.label              "Дахин дууд">
 <!ENTITY reloadCmd.accesskey          "Д">
 <!ENTITY reloadButton.tooltip         "Уг хуудсыг дахин дууд">
@@ -101,13 +92,6 @@
 
 <!ENTITY bookmarksButton.label          "Хаягнууд">
 <!ENTITY bookmarksButton.tooltip        "Хаягийн жагсаалт">
-<!ENTITY bookmarksSidebarCmd.accesskey  "я">
-<!ENTITY bookmarksSidebarCmd.commandkey "b">
-<!-- LOCALIZATION NOTE (bookmarksSidebarGtkCmd.commandkey): This command
-  -  key should not contain the letters A-F, since these are reserved
-  -  shortcut keys on Linux. -->
-<!ENTITY bookmarksSidebarGtkCmd.commandkey "o">
-<!ENTITY bookmarksSidebarWinCmd.commandkey "i">
 
 <!ENTITY historyButton.label            "Түүх">
 <!ENTITY historyButton.tooltip          "Сүүлд зорчсон хуудсуудыг харуул">
@@ -127,7 +111,6 @@
 <!ENTITY downloads.commandkey         "j">
 <!ENTITY downloadsUnix.commandkey     "y">
 <!ENTITY addons.label                 "Нэмэгдлүүд">
-<!ENTITY addons.tooltip               "Суугдсан нэмэгдлүүдийг харуулах ба зохицуулах">
 <!ENTITY addons.accesskey             "Н">
 
 <!ENTITY errorConsoleCmd.label        "Гарсан алдааг харуулах цонх">
@@ -163,13 +146,8 @@
 <!ENTITY selectAllCmd.label         "Бүгдийг сонго">
 <!ENTITY selectAllCmd.key         "A">
 <!ENTITY selectAllCmd.accesskey       "Б">
-<!ENTITY preferencesCmd.label       "Сонголт…">
-<!ENTITY preferencesCmd.accesskey     "С">
 <!ENTITY preferencesCmdUnix.label       "Тохируулга">
 <!ENTITY preferencesCmdUnix.accesskey     "Т">
-
-<!ENTITY clearRecentHistoryCmd.label            "Сүүлд зорчсон түүхийг устга">
-<!ENTITY clearRecentHistoryCmd.accesskey        "г">
 
 <!-- LOCALIZATION NOTE : These two strings can share an access key beause they never appear together on the menu -->
 <!ENTITY privateBrowsingCmd.start.label         "Хувийн зорчилтыг эхлүүл">
@@ -199,11 +177,6 @@
 <!ENTITY showAllHistoryCmd.commandkey "H">
 
 <!ENTITY openCmd.commandkey           "l">
-<!ENTITY urlbar.emptyText             "Хадгалсан хаяг болон зорчсон түүхэнд хайх">
-<!ENTITY urlbar.bookmarkhistory.emptyText "Хаяг болон зорчсон түүхэнд хайх">
-<!ENTITY urlbar.bookmark.emptyText    "Хадгалсан хаяганд хайх">
-<!ENTITY urlbar.history.emptyText     "Зорчсон түүхэнд хайх">
-<!ENTITY urlbar.none.emptyText        "Вэб хаягаа энд бич">
 <!ENTITY urlbar.accesskey             "я">
 
 <!--
@@ -228,7 +201,6 @@
 
  -->
 <!ENTITY searchFocus.commandkey       "k">
-<!ENTITY searchFocus.commandkey2      "e">
 <!ENTITY searchFocusUnix.commandkey   "j">
 
 <!ENTITY openLinkCmd.label            "Холбоосыг шинэ цонхонд нээ">
@@ -300,8 +272,6 @@
 <!ENTITY sendAudioCmd.accesskey       "э">
 <!ENTITY copyLinkCmd.label            "Холбоос хаягийг сануул">
 <!ENTITY copyLinkCmd.accesskey        "Х">
-<!ENTITY copyLinkTextCmd.label        "Холбоос текстийг сануул">
-<!ENTITY copyLinkTextCmd.accesskey    "а">
 <!ENTITY copyImageCmd.label           "Зургийн байрлалыг сануул">
 <!ENTITY copyImageCmd.accesskey       "З">
 <!ENTITY copyImageContentsCmd.label   "Зургийг сануул">
@@ -310,9 +280,6 @@
 <!ENTITY copyVideoURLCmd.accesskey    "л">
 <!ENTITY copyAudioURLCmd.label        "Дуут файлын байрлалыг сануул">
 <!ENTITY copyAudioURLCmd.accesskey    "н">
-<!ENTITY blockImageCmd.accesskey       "о">
-<!ENTITY metadataCmd.label            "Шинж чанар">
-<!ENTITY metadataCmd.accesskey        "Ш">
 <!ENTITY copyEmailCmd.label           "Захианы хаягийг сана">
 <!ENTITY copyEmailCmd.accesskey       "З">
 <!ENTITY thisFrameMenu.label              "Энэ хүрээ">
@@ -421,10 +388,6 @@ you can use these alternative items. Otherwise, their values should be empty.  -
 <!ENTITY editBookmark.done.label                     "Гүйцэтгэ">
 <!ENTITY editBookmark.cancel.label                   "Цуцал">
 <!ENTITY editBookmark.removeBookmark.accessKey       "я">
-<!ENTITY editBookmark.undo.label                     "Буцаж үйлд">
-<!ENTITY editBookmark.undo.accessKey                 "й">
-<!ENTITY editBookmark.edit.label                     "Засварла…">
-<!ENTITY editBookmark.edit.accessKey                 "в">
 
 <!ENTITY identity.unverifiedsite2 "Та итгэмж байхгүй хуудсанд холбогдсон байна.">
 <!ENTITY identity.connectedTo "Таны холбогдсон хуудас">
@@ -444,5 +407,3 @@ just addresses the organization to follow, e.g. "This site is run by " -->
 <!ENTITY identity.moreInfoLinkText "Нэмэлт мэдээлэл…">
 
 <!ENTITY downloadMonitor2.tooltip "Үүн дээр дарж татаж авалт хийж буй цонхыг нээнэ.">
-
-<!ENTITY ctrlTab.search.emptyText "Хайлт хийгч самбарууд">

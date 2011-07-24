@@ -1,44 +1,29 @@
-<!ENTITY aboutCmd.accesskey "т">
-<!ENTITY aboutCmd.label "&brandFullName;-н тухай">
-<!ENTITY bringAllToFront.label "Бүгдийг өмнө авчир">
-<!ENTITY helpContents.accesskey "Т">
-<!ENTITY helpContents.label "Тусламжийн бүтэц">
-<!ENTITY helpContentsMac.label "&brandShortName; тусламж">
-<!ENTITY helpForIEUsers.accesskey "I">
-<!ENTITY helpForIEUsers.label "Internet Explorer хэрэглэгчдэд">
-<!ENTITY helpMenu.accesskey "Т">
-<!ENTITY helpMenu.label "Тусламж">
-<!ENTITY helpMenuWin.accesskey "Т">
-<!ENTITY helpMenuWin.label "Тусламж">
-<!ENTITY helpReleaseNotes.accesskey "Х">
-<!ENTITY helpReleaseNotes.label "Хувилбарын тэмдэглэл">
 <!ENTITY minimizeWindow.key "m">
-<!ENTITY minimizeWindow.label "Хураа">
-<!ENTITY openHelp.commandkey "VK_F1">
-<!-- LOCALIZATION NOTE openHelpMac.commandkey and openHelpMac.modifiers
-                       are all the necessary keys to hit OS X's open-help 
-                       keyboard (visible) shortcut (that's Cmd+? for most locales) -->
-<!ENTITY openHelpMac.commandkey "/">
-<!ENTITY openHelpMac.frontendCommandkey "?">
-<!ENTITY openHelpMac.frontendModifiers "accel">
-<!ENTITY openHelpMac.modifiers "accel,shift">
-<!ENTITY updateCmd.accesskey "Ш">
-<!ENTITY updateCmd.label "Шинэчлэлийг шалга…">
+<!ENTITY minimizeWindow.label "Цонх багасгах">
+<!ENTITY bringAllToFront.label "Бүгдийг урд авчрах">
+<!ENTITY zoomWindow.label "Цонх томруулах">
 <!ENTITY windowMenu.label "Цонх">
-<!ENTITY zoomWindow.label "Тэлэлт">
+<!ENTITY helpMenu.label "Тусламж">
+<!ENTITY helpMenu.accesskey "H">
+<!ENTITY helpMenuWin.label "Тусламжийн цонх">
+<!ENTITY helpMenuWin.accesskey "H">
+<!ENTITY aboutProduct.label "&brandShortName; мэдээлэл">
+<!ENTITY aboutProduct.accesskey "A">
+<!ENTITY productHelp.label		"&brandShortName; тусламж">
+<!ENTITY productHelp.accesskey		"H">
+<!ENTITY helpMac.commandkey		"?">
+<!ENTITY helpSafeMode.label       "Аюулгүй горимд эхлүүлэх…">
+<!ENTITY helpSafeMode.accesskey   "R">
 
-<!ENTITY preferencesCmdMac.label        "Тохируулга…">
-<!ENTITY preferencesCmdMac.commandkey   ",">
-<!ENTITY preferencesCmdMac.modifiers    "accel">
-  
-<!ENTITY servicesMenuMac.label          "Үйлчилгээнүүд">
-
-<!ENTITY hideThisAppCmdMac.label        "&brandShortName;-г нуу">
-<!ENTITY hideThisAppCmdMac.commandkey   "H">
-<!ENTITY hideThisAppCmdMac.modifiers    "accel">
-
-<!ENTITY hideOtherAppsCmdMac.label      "Бусдыг нь нуу">
+<!ENTITY helpTroubleshootingInfo.label	"Асуудалыг шийдвэрлэх мэдээлэл…">
+<!ENTITY helpTroubleshootingInfo.accesskey	"T">
+<!ENTITY helpFeedbackPage.label      "Санал бодол илгээх…">
+<!ENTITY helpFeedbackPage.accesskey  "S">
+<!ENTITY preferencesCmdMac.label "Тохируулга хийх…">
+<!ENTITY preferencesCmdMac.commandkey ",">
+<!ENTITY servicesMenuMac.label "Үйлчилгээнүүд">
+<!ENTITY hideThisAppCmdMac.label "&brandShortName; ыг/ийг нуух">
+<!ENTITY hideThisAppCmdMac.commandkey "H">
+<!ENTITY hideOtherAppsCmdMac.label "Бүгдийг нуух">
 <!ENTITY hideOtherAppsCmdMac.commandkey "H">
-<!ENTITY hideOtherAppsCmdMac.modifiers  "accel,alt">
-
-<!ENTITY showAllAppsCmdMac.label        "Бүгдийг харуул">
+<!ENTITY showAllAppsCmdMac.label "Бүгдийг харуулах">
