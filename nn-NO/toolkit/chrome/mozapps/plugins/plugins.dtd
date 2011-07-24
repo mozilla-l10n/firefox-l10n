@@ -20,13 +20,9 @@
 <!ENTITY pluginWizard.finalPage.moreInfo.label               "Finn ut meir om programtillegg eller finn dei manglande programtillegga manuelt.">
 <!ENTITY pluginWizard.finalPage.restart.label                "&brandShortName; må startast på nytt for at programtillegget/a skal fungere.">
 
-<!ENTITY missingPlugin                                       "Eit programtillegg trengs for å vise dette innhaldet.">
-<!ENTITY disabledPlugin                                      "Dette programtillegget er avslått.">
+<!ENTITY missingPlugin.label                                 "Trykk her for å laste ned programtillegget.">
+<!ENTITY disabledPlugin.label                                "Programtillegget for dette innhaldet er slått av. Trykk her for å handsame programtillegga dine.">
 <!ENTITY blockedPlugin.label                                 "Dette programtillegget er blokkert for å verne deg.">
-
-<!ENTITY installPlugin                                       "Installer programtillegg …">
-<!ENTITY managePlugins                                       "Behandle programtillegg …">
-
 <!-- LOCALIZATION NOTE (reloadPlugin.pre): include a trailing space as needed -->
 <!-- LOCALIZATION NOTE (reloadPlugin.middle): avoid leading/trailing spaces, this text is a link -->
 <!-- LOCALIZATION NOTE (reloadPlugin.post): include a starting space as needed -->
