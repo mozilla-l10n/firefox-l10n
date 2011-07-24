@@ -213,7 +213,7 @@
 <!ENTITY followupAddr.label "Kas en-dro-da :">
 <!ENTITY subject.label "Danvez :">
 <!ENTITY subject.accesskey "d">
-<!ENTITY attachments.accesskey "k">
+<!ENTITY attachments.accesskey "e">
 <!ENTITY SmileButton.tooltip "Enlakaat ur fromarlun">
 <!ENTITY smiley1Cmd.label "Mousc'hoarzhiñ">
 <!ENTITY smiley2Cmd.label "Krizañ e dal">
