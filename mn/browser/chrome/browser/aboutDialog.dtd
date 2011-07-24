@@ -1,4 +1,4 @@
-boutDialog.title          "&brandFullName; Мэдээлэл">
+<!ENTITY aboutDialog.title          "&brandFullName; Мэдээлэл">
 
 <!ENTITY community.start2           "&brandShortName;нь интэрнэтийг илүү сайжруулахын тулд ">
 <!-- LOCALIZATION NOTE (community.mozillaLink): This is a link title that links to http://www.mozilla.org/. -->
