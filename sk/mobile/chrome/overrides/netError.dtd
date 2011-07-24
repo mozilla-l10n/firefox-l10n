@@ -7,19 +7,18 @@
 <!-- Specific error messages -->
 
 <!ENTITY connectionFailure.title "Nedá sa pripojiť">
-<!ENTITY connectionFailure.longDesc "&sharedLongDesc;">
+<!ENTITY connectionFailure.longDesc "&sharedLongDesc2;">
 
 <!ENTITY deniedPortAccess.title "Táto adresa je zakázaná">
 <!ENTITY deniedPortAccess.longDesc "">
 
 <!ENTITY dnsNotFound.title "Server sa nenašiel">
-<!ENTITY dnsNotFound.longDesc "
+<!ENTITY dnsNotFound.longDesc2 "
 <ul>
   <li>Skontrolujte, či ste nezadali napr.
     <strong>ww</strong>.priklad.com namiesto
     <strong>www</strong>.priklad.com</li>
-  <li>Ak sa nedá načítať žiadna stránka, skontrolujte pripojenie počítača k sieti.</li>
-  <li>Ak sú počítač alebo sieť chránené bránou firewall alebo serverom proxy, uistite sa, či má &brandShortName; povolený prístup k webu.</li>
+  <li>Ak sa nedá načítať žiadna stránka, skontrolujte pripojenie počítača k sieti alebo bezdrôtové pripojenie.</li>
 </ul>
 ">
 
@@ -47,7 +46,7 @@
 ">
 
 <!ENTITY netInterrupt.title "Pripojenie bolo prerušené">
-<!ENTITY netInterrupt.longDesc "&sharedLongDesc;">
+<!ENTITY netInterrupt.longDesc "&sharedLongDesc2;">
 
 <!ENTITY netOffline.title "Režim offline">
 <!ENTITY netOffline.longDesc2 "
@@ -71,10 +70,10 @@
 ">
 
 <!ENTITY netReset.title "Výpadok pripojenia">
-<!ENTITY netReset.longDesc "&sharedLongDesc;">
+<!ENTITY netReset.longDesc "&sharedLongDesc2;">
 
 <!ENTITY netTimeout.title "Čas pripojenia vypršal">
-<!ENTITY netTimeout.longDesc "&sharedLongDesc;">
+<!ENTITY netTimeout.longDesc "&sharedLongDesc2;">
 
 <!ENTITY protocolNotFound.title "Adresa nebola rozpoznaná">
 <!ENTITY protocolNotFound.longDesc "
@@ -92,11 +91,10 @@
 ">
 
 <!ENTITY proxyResolveFailure.title "Server proxy nemožno nájsť">
-<!ENTITY proxyResolveFailure.longDesc "
+<!ENTITY proxyResolveFailure.longDesc2 "
 <ul>
   <li>Skontrolujte, či je nastavenie servera proxy správne.</li>
-  <li>Skontrolujte, či funguje pripojenie počítača k sieti.</li>
-  <li>Ak sú počítač alebo sieť chránené bránou firewall alebo serverom proxy, uistite sa, či má &brandShortName; povolený prístup k webu.</li>
+  <li>Skontrolujte, či funguje pripojenie počítača k sieti alebo bezdrôtové pripojenie.</li>
 </ul>
 ">
 
@@ -131,24 +129,11 @@
 </ul>
 ">
 
-<!ENTITY sharedLongDesc "
+<!ENTITY sharedLongDesc2 "
 <ul>
   <li>Server môže byť dočasne nedostupný alebo zaneprázdnený. Svoj pokus opakujte neskôr.</li>
-  <li>Ak sa nedá načítať žiadna stránka, skontrolujte pripojenie počítača k sieti.</li>
-  <li>Ak sú počítač alebo sieť chránené bránou firewall alebo serverom proxy, uistite sa, či má &brandShortName; povolený prístup k webu.</li>
+  <li>Ak sa nedá načítať žiadna stránka, skontrolujte pripojenie počítača k sieti alebo bezdrôtové pripojenie.</li>
 </ul>
-">
-
-<!ENTITY malwareBlocked.title "Podozrivá škodlivá stránka!">
-<!ENTITY malwareBlocked.longDesc "
-<p>Škodlivé stránky sa pokúšajú nainštalovať programy, ktoré kradnú súkromné údaje, používajú počítač na útoky na iné počítače alebo poškodzujú systém.</p>
-<p>Vlastníci stránok, ktorí si myslia, že ich stránky boli označené ako škodlivé neprávom, môžu <a href='http://www.stopbadware.org/home/reviewinfo' >požiadať o prehodnotenie</a>.</p>
-">
-
-<!ENTITY phishingBlocked.title "Podozrivá stránka!">
-<!ENTITY phishingBlocked.longDesc "
-<p>Ak na tejto stránke zadáte nejaké osobné údaje, môžu byť použité na krádež identity alebo inak zneužité.</p>
-<p>Tieto typy falošných stránok sa používajú na podvody, pri ktorých sa kombináciou webovej stránky a e-mailových správ napodobňujú dôveryhodné zdroje.</p>
 ">
 
 <!ENTITY cspFrameAncestorBlocked.title "Blokované kvôli zásadám ochrany obsahu">

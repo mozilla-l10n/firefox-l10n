@@ -92,6 +92,7 @@
 <!ENTITY contextOpenInNewTab.label    "Otvoriť odkaz na novej karte">
 <!ENTITY contextSaveLink.label        "Uložiť odkaz">
 <!ENTITY contextSaveImage.label       "Uložiť obrázok">
+<!ENTITY contextCopyLink.label        "Kopírovať odkaz">
 <!ENTITY contextShareLink.label       "Zdieľať odkaz">
 <!ENTITY contextShareImage.label      "Zdieľať obrázok">
 <!ENTITY contextBookmarkLink.label    "Pridať medzi záložky">
