@@ -178,7 +178,7 @@ can reach it easily. -->
 <!ENTITY addons.accesskey             "A">
 <!ENTITY addons.commandkey            "A">
 
-<!ENTITY webDeveloperMenu.label       "Web Developer">
+<!ENTITY webDeveloperMenu.label       "ਵੈੱਬ ਡਿਵੈਲਪਰ">
 <!ENTITY webDeveloperMenu.accesskey   "W">
 
 <!ENTITY errorConsoleCmd.label        "ਗਲਤੀ ਕਨਸੋਂਲ">
@@ -204,7 +204,7 @@ can reach it easily. -->
   -  "Scratchpad" in your locale. You should feel free to find a close
   -  approximation to it or choose a word (or words) that means
   -  "simple discardable text editor". -->
-<!ENTITY scratchpad.label             "Scratchpad">
+<!ENTITY scratchpad.label             "ਸਕਰੈਚਪੈਡ">
 <!ENTITY scratchpad.accesskey         "s">
 <!ENTITY scratchpad.keycode           "VK_F4">
 <!ENTITY scratchpad.keytext           "F4">

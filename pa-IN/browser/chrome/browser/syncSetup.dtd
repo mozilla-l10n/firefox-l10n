@@ -27,7 +27,7 @@
 <!ENTITY setup.confirmPassword.accesskey  "m">
 <!ENTITY setup.emailAddress.label     "ਈਮੇਲ ਐਡਰੈੱਸ">
 <!ENTITY setup.emailAddress.accesskey "E">
-<!ENTITY setup.choosePassword.label      "Choose a Password">
+<!ENTITY setup.choosePassword.label      "ਪਾਸਵਰਡ ਚੁਣੋ">
 <!ENTITY setup.choosePassword.accesskey  "P">
 <!-- LOCALIZATION NOTE: tosAgree1, tosLink, tosAgree2, ppLink, tosAgree3 are
      joined with implicit white space, so spaces in the strings aren't necessary -->
