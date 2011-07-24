@@ -7,6 +7,7 @@
 <!ENTITY editBookmarkOverlay.siteLocation.label              "Adresa stránky:">
 <!ENTITY editBookmarkOverlay.siteLocation.accesskey          "s">
 <!ENTITY editBookmarkOverlay.folder.label                    "Priečinok:">
+<!ENTITY editBookmarkOverlay.folder.accesskey                "P">
 <!ENTITY editBookmarkOverlay.foldersExpanderDown.tooltip     "Zobraziť všetky priečinky záložiek">
 <!ENTITY editBookmarkOverlay.expanderUp.tooltip              "Skryť">
 <!ENTITY editBookmarkOverlay.tags.label                      "Značky:">
