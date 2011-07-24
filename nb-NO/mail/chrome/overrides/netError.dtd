@@ -52,9 +52,9 @@
 <!ENTITY netInterrupt.longDesc "&sharedLongDesc;">
 
 <!ENTITY netOffline.title "Frakoblet modus">
-<!ENTITY netOffline.longDesc "
+<!ENTITY netOffline.longDesc2 "
 <ul>
-  <li>Sett &brandShortName; i tilkoblet modus, og prøv igjen.</li>
+  <li>Trykk &quot;Prøv igjen&quot; for å bytte til tilkoblet modus og laste siden på nytt.</li>
 </ul>
 ">
 

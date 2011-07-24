@@ -53,7 +53,7 @@
 <!ENTITY netInterrupt.longDesc "&sharedLongDesc;">
 
 <!ENTITY netOffline.title "Frakoblet modus">
-<!ENTITY netOffline.overrideLongDesc "
+<!ENTITY netOffline.longDesc2 "
 <ul>
   <li>Prøv igjen. &brandShortName; vil forsøke åpne en tilkobling og laste inn siden på nytt.</li>
 </ul>
