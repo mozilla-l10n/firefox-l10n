@@ -29,6 +29,8 @@
 <!ENTITY checkNow.accesskey              "n">
 <!ENTITY submitCrashes.label             "Send fejlrapporter">
 <!ENTITY submitCrashes.accesskey         "f">
+<!ENTITY submitTelemetry.label           "Send ydelsesdata">
+<!ENTITY submitTelemetry.accesskey       "y">
 
 <!ENTITY networkTab.label                "Netværk">
 
