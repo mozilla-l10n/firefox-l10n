@@ -4,35 +4,35 @@
 <!ENTITY fccMailFolder.accesskey "ν">
 <!ENTITY fccReplyFollowsParent.label "Τοποθέτηση απαντήσεων στον ίδιο φάκελο όπου είναι το αρχικό μήνυμα">
 <!ENTITY fccReplyFollowsParent.accesskey "θ">
+<!ENTITY ccAddress.label "Cc σε αυτές τις διευθύνσεις:">
+<!ENTITY ccAddress.accesskey "C">
+<!ENTITY ccAddressList.placeholder "Διαχωρίστε τις διευθύνσεις με κόμματα">
 <!ENTITY bccAddress.label "Bcc σε άλλη διεύθυνση">
 <!ENTITY bccAddress.accesskey "θ">
+<!ENTITY bccAddressList.placeholder "Separate addresses with commas">
 <!ENTITY saveMessageDlg.label "Προβολή διαλόγου επιβεβαίωσης κατά την αποθήκευση μηνυμάτων">
 <!ENTITY saveMessageDlg.accesskey "β">
 <!ENTITY sentFolderOn.label "φάκελο &quot;Απεσταλμένα&quot; στο:">
 <!ENTITY sentFolderOn.accesskey "ε">
 <!ENTITY sentInOtherFolder.label "Άλλο:">
 <!ENTITY sentInOtherFolder.accesskey "λ">
-<!ENTITY draftsFolderOn.label "φάκελο &quot;Προσχέδια&quot; στο:">
-<!ENTITY draftsFolderOn.accesskey "σ">
-<!ENTITY draftInOtherFolder.label "άλλο:">
-<!ENTITY draftInOtherFolder.accesskey "λ">
+<!ENTITY archivesTitle.label "Αρχείο μηνυμάτων">
+<!ENTITY keepArchives.label "Διατήρηση αρχείου μηνυμάτων σε:">
+<!ENTITY keepArchives.accesskey "Δ">
+<!ENTITY archiveHierarchyButton.label "Επιλογές αρχειοθέτησης">
+<!ENTITY archiveHierarchyButton.accesskey "χ">
 <!ENTITY archivesFolderOn.label "φάκελο &quot;Αρχείο&quot; στο:">
 <!ENTITY archivesFolderOn.accesskey "χ">
 <!ENTITY archiveInOtherFolder.label "άλλο:">
 <!ENTITY archiveInOtherFolder.accesskey "λ">
+<!ENTITY specialFolders.label "Προσχέδια και πρότυπα">
+<!ENTITY keepDrafts.label "Αποθήκευση πρόχειρων μηνυμάτων σε:">
+<!ENTITY draftsFolderOn.label "φάκελο &quot;Προσχέδια&quot; στο:">
+<!ENTITY draftsFolderOn.accesskey "σ">
+<!ENTITY draftInOtherFolder.label "άλλο:">
+<!ENTITY draftInOtherFolder.accesskey "λ">
+<!ENTITY keepTemplates.label "Keep message templates in:">
 <!ENTITY templatesFolderOn.label "φάκελο &quot;Πρότυπα&quot; στο:">
 <!ENTITY templatesFolderOn.accesskey "κ">
 <!ENTITY templateInOtherFolder.label "άλλο:">
 <!ENTITY templateInOtherFolder.accesskey "ο">
-<!ENTITY specialFoldersTitle.label "Προσχέδια και πρότυπα">
-<!ENTITY keepDrafts.label "Αποθήκευση πρόχειρων μηνυμάτων σε:">
-<!ENTITY keepArchives.label "Αποθήκευση αρχείου μηνυμάτων σε:">
-<!ENTITY keepTempltes.label "Αποθήκευση προτύπων μηνυμάτων σε:">
-
-<!ENTITY bccAddressList.emptytext "Διευθύνσεις διαχωρισμένες με κόμματα">
-<!-- LOCALIZATION NOTE (ccAddress.label): do not translate "Cc" in below line -->
-<!ENTITY ccAddress.label "Cc σε αυτές τις διευθύνσεις:">
-<!ENTITY ccAddress.accesskey "C">
-<!ENTITY ccAddressList.emptytext "Διευθύνσεις διαχωρισμένες με κόμματα">
-
-

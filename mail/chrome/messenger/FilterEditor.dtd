@@ -1,4 +1,5 @@
 <!ENTITY window.title "Κανόνες φίλτρου">
+<!ENTITY filterEditorDialog.dimensions "width: 100ch;">
 <!ENTITY filterName.label "Όνομα φίλτρου:">
 <!ENTITY filterName.accesskey "ν">
 <!ENTITY junk.label "Ανεπιθύμητη αλληλογραφία">
