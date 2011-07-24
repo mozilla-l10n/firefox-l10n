@@ -14,6 +14,8 @@
 <!ENTITY PhoneticField2.label "Φωνητικό:">
 <!ENTITY DisplayName.label "Εμφάνιση:">
 <!ENTITY DisplayName.accesskey "ν">
+<!ENTITY preferDisplayName.label "Να εμφανίζεται πάντα το όνομα πάνω απο τη κεφαλίδα μηνύματος">
+<!ENTITY preferDisplayName.accesskey "φ">
 <!ENTITY NickName.label "Προσωνύμιο:">
 <!ENTITY NickName.accesskey "μ">
 <!ENTITY PrimaryEmail.label "Email:">
@@ -63,9 +65,9 @@
 <!ENTITY Birthday.label "Γενέθλια">
 <!ENTITY Birthday.accesskey "θ">
 <!ENTITY In.label "">
-<!ENTITY Year.emptytext "Έτος">
+<!ENTITY Year.placeholder "Year">
 <!ENTITY Or.value "ή">
-<!ENTITY Age.emptytext "Ηλικία">
+<!ENTITY Age.placeholder "Age">
 <!ENTITY YearsOld.label "">
 <!ENTITY Work.tab "Εργασία">
 <!ENTITY Work.accesskey "γ">
@@ -113,6 +115,6 @@
 <!ENTITY BrowsePhoto.accesskey "ρ">
 <!ENTITY PhotoURL.label "Στον ιστό">
 <!ENTITY PhotoURL.accesskey "σ">
-<!ENTITY PhotoURL.emptytext "Επικολλήστε ή πληκτρολογήστε την διεύθυνση της φωτογραφίας">
+<!ENTITY PhotoURL.placeholder "Επικολλήστε ή πληκτρολογήστε την διαδικτυαλή διεύθυνση της φωτογραφίας">
 <!ENTITY UpdatePhoto.label "Ενημέρωση">
 <!ENTITY UpdatePhoto.accesskey "ν">

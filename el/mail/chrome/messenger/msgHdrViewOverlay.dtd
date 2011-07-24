@@ -41,6 +41,8 @@
 <!ENTITY hdrViewToolbarAlwaysReplySender.label "Πάντα προβολή του Απάντηση στον αποστολέα">
 <!ENTITY hdrViewToolbarAlwaysReplySender.accesskey "ν">
 <!ENTITY otherActionsButton.label "άλλες ενέργειες">
+<!ENTITY otherActionsOpenConversation.label "άνοιγμα σε συζήτηση">
+<!ENTITY otherActionsOpenConversation.accesskey "υ">
 <!ENTITY otherActionsOpenInNewWindow.label "άνοιγμα σε νέο παράθυρο">
 <!ENTITY otherActionsOpenInNewWindow.accesskey "π">
 <!ENTITY otherActionsOpenInNewTab.label "άνοιγμα σε νέα καρτέλα">
@@ -60,22 +62,39 @@
 <!ENTITY saveAsAttachmentCmd.label "Αποθήκευση ως....">
 <!ENTITY saveAsAttachmentCmd.accesskey "σ">
 <!ENTITY detachAttachmentCmd.label "Απόσπαση ...">
+<!ENTITY detachAttachmentCmd.accesskey "π">
 <!ENTITY deleteAttachmentCmd.label "Διαγραφή">
+<!ENTITY deleteAttachmentCmd.accesskey "γ">
+<!ENTITY openAllAttachmentsCmd.label "Άνοιγμα όλων…">
+<!ENTITY openAllAttachmentsCmd.accesskey "λ">
 <!ENTITY saveAllAttachmentsCmd.label "Αποθήκευση όλων...">
 <!ENTITY saveAllAttachmentsCmd.accesskey "λ">
 <!ENTITY detachAllAttachmentsCmd.label "Απόσπαση όλων...">
 <!ENTITY detachAllAttachmentsCmd.accesskey "σ">
 <!ENTITY deleteAllAttachmentsCmd.label "Διαγραφή όλων...">
 <!ENTITY deleteAllAttachmentsCmd.accesskey "α">
+<!ENTITY saveAttachmentButton.label "αποθήκευση">
+<!ENTITY saveAttachmentButton.tooltip "αποθήκευση του συνημμένου αρχείου">
+<!ENTITY saveAllAttachmentsButton.label "αποθήκευση όλων">
+<!ENTITY saveAllAttachmentsButton.tooltip "αποθήκευση όλων των συνημμένων αρχείων">
+<!ENTITY openAttachmentMenuItem.label "άνοιγμα">
+<!ENTITY openAttachmentMenuItem.accesskey "ο">
+<!ENTITY saveAsAttachmentMenuItem.label "αποθήκευση ως">
+<!ENTITY saveAsAttachmentMenuItem.accesskey "ς">
+<!ENTITY detachAttachmentMenuItem.label "απόσπαση">
+<!ENTITY detachAttachmentMenuItem.accesskey "π">
+<!ENTITY deleteAttachmentMenuItem.label "διαγραφή">
+<!ENTITY deleteAttachmentMenuItem.accesskey "φ">
+<!ENTITY openAllAttachmentsMenuItem.label "άνοιγμα όλων...">
+<!ENTITY openAllAttachmentsMenuItem.accesskey "λ">
+<!ENTITY saveAllAttachmentsMenuItem.label "αποθήκευση όλων...">
+<!ENTITY saveAllAttachmentsMenuItem.accesskey "σ">
+<!ENTITY detachAllAttachmentsMenuItem.label "απόσπαση όλων...">
+<!ENTITY detachAllAttachmentsMenuItem.accesskey "α">
+<!ENTITY deleteAllAttachmentsMenuItem.label "διαγραφή όλων...">
+<!ENTITY deleteAllAttachmentsMenuItem.accesskey "γ">
 <!ENTITY copyLinkCmd.label "Αντιγραφή τοποθεσίας δεσμού">
 <!ENTITY copyLinkCmd.accesskey "γ">
 <!ENTITY CopyMessageId.label "Αντιγραφή Message-ID">
 <!ENTITY OpenMessageForMsgId.label "Άνοιγμα Message για ID">
 <!ENTITY OpenBrowserWithMsgId.label "Άνοιγμα Browser με Message-ID">
-
-<!ENTITY otherActionsOpenConversation.label "άνοιγμα σε συζήτηση">
-<!ENTITY otherActionsOpenConversation.accesskey "υ">
-<!ENTITY openAllAttachmentsCmd.label    "Άνοιγμα όλων…">
-<!ENTITY openAllAttachmentsCmd.accesskey    "λ">
-
-

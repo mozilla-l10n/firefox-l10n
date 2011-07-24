@@ -16,7 +16,5 @@
 <!ENTITY connectionSecurityType-3.label "SSL/TLS">
 <!ENTITY smtpEditTitle.label "Διακομιστής SMTP">
 <!ENTITY serverPortDefault.label "Προεπιλογή">
-
 <!ENTITY authMethod.label "Μέθοδος πιστοποίησης:">
 <!ENTITY authMethod.accesskey "δ">
-

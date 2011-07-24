@@ -169,10 +169,12 @@
 <!ENTITY quoteButton.tooltip "Παράθεση προηγούμενου μηνύματος">
 <!ENTITY addressButton.tooltip "Επιλογή παραλήπτη από το Ευρετήριο Διευθύνσεων">
 <!ENTITY attachButton.tooltip "Εισαγωγή ενός συνημμένου">
+<!ENTITY spellingButton.tooltip "Check spelling of selection or entire message">
 <!ENTITY saveButton.tooltip "Αποθήκευση του μηνύματος">
 <!ENTITY cutButton.tooltip "Αποκοπή">
 <!ENTITY copyButton.tooltip "Αντιγραφή">
 <!ENTITY pasteButton.tooltip "Επικόλληση">
+<!ENTITY headersSpace.style "width: 9em;">
 <!ENTITY fromAddr.label "Από:">
 <!ENTITY fromAddr.accesskey "π">
 <!ENTITY toAddr.label "Προς:">
@@ -183,7 +185,6 @@
 <!ENTITY followupAddr.label "Συνέχεια σε:">
 <!ENTITY subject.label "Θέμα:">
 <!ENTITY subject.accesskey "Θ">
-<!ENTITY attachments.label "Συνημμένα:">
 <!ENTITY attachments.accesskey "ν">
 <!ENTITY SmileButton.tooltip "Εισαγωγή φατσούλας">
 <!ENTITY smiley1Cmd.label "Smile">
@@ -231,4 +232,6 @@
 <!ENTITY attachFile.accesskey "σ">
 <!ENTITY attachPage.label "Επισύναψη ιστοσελίδας...">
 <!ENTITY attachPage.accesskey "ι">
+<!ENTITY spellAddDictionaries.label "Προσθήκη λεξικών">
+<!ENTITY spellAddDictionaries.accesskey "θ">
 <!ENTITY addressesSidebarTitle.label "Επαφές">

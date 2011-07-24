@@ -4,7 +4,7 @@
 <!ENTITY actionColumn2.accesskey "ν">
 <!ENTITY focusSearch1.key "f">
 <!ENTITY focusSearch2.key "k">
-<!ENTITY filter.emptytext "Αναζήτηση">
+<!ENTITY filter.placeholder "Αναζήτηση">
 <!ENTITY saveTo.label "Αποθήκευση αρχείων σε">
 <!ENTITY saveTo.accesskey "θ">
 <!ENTITY alwaysAsk.label "Πάντα ερώτηση για την τοποθεσία αποθήκευσης">

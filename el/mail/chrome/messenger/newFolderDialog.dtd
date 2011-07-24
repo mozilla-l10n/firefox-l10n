@@ -22,6 +22,7 @@
    - Contributor(s):
    -   Fabian Guisset <hidday@geocities.com>
    -   
+   -   
    -
    - Alternatively, the contents of this file may be used under the terms of
    - either the GNU General Public License Version 2 or later (the "GPL"), or
@@ -45,6 +46,5 @@
 <!ENTITY folderRestriction2.label "Καθορίστε αν ο νέος φάκελος θα περιέχει:">
 <!ENTITY foldersOnly.label "Μόνο φάκελους">
 <!ENTITY messagesOnly.label "Μόνο μηνύματα">
-<!ENTITY accept.label               "Δημιουργία φακέλου">
-<!ENTITY accept.accesskey           "μ">
-
+<!ENTITY accept.label "Δημιουργία φακέλου">
+<!ENTITY accept.accesskey "μ">
