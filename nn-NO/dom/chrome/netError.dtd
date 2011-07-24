@@ -25,8 +25,7 @@
 <!ENTITY netInterrupt.longDesc "<p>Nettlesaren klarte å kople til tenaren, men tilkoplinga vart avbroten ved overføring av informasjon. Prøv igjen.</p><ul><li>Klarer du ikkje å lese andre nettsider? Kontroller nettverkstilkoplinga åt datamaskina.</li><li>Har du framleis problem? Vend deg til nettverksansvarleg eller Internettleverandøren din for meir hjelp.</li></ul>">
 
 <!ENTITY netOffline.title "Feil i fråkopla tilstand">
-<!ENTITY netOffline.longDesc "<p>Nettlesaren arbeider i fråkopla-modus, og kan ikkje kople til den oppgjevne adressa.</p><ul><li>Er datamaskina kopla til eit aktivt nettverk?</li><li>Kople til og prøv igjen.</li></ul>">
-<!ENTITY netOffline.overrideLongDesc "<p>Nettlesaren er i fråkopla modus, og kan ikkje kople til tenaren.</p><ul><li>Er datamaskina kopla til eit aktivt nettverk?</li><li>Sett nettlesaren i tilkopla modus og prøv igjen.</li></ul>">
+<!ENTITY netOffline.longDesc2 "<p>Nettlesaren er i fråkopla modus, og kan ikkje kople til tenaren.</p><ul><li>Er datamaskina kopla til eit aktivt nettverk?</li><li>Trykk «Prøv igjen» for å byte til tilkopla modus og laste sida på nytt.</li></ul>">
 
 <!ENTITY contentEncodingError.title "Feil med tegnkoding">
 <!ENTITY contentEncodingError.longDesc "<p>Nettsida du prøver å opne,kan ikkje visast fordi ho brukar ein ukjent eller ugyldig komprimeringsmetode.</p><ul><li>Kontakt eigarane av nettstaden og informer dei om problemet.</li></ul>">
@@ -71,6 +70,9 @@
 
 <!ENTITY cspFrameAncestorBlocked.title "Blokkert av tryggingsregel">
 <!ENTITY cspFrameAncestorBlocked.longDesc "<p>Nettlesaren hindra denne sida frå å lastast inn på denne måten, fordi nettsida har ein tryggingsregel som forbyr det.</p>">
+
+<!ENTITY corruptedContentError.title "Feil - øydelagd innhald">
+<!ENTITY corruptedContentError.longDesc "<p>Sida du freistar å vise kan ikkje opnast fordi ein feil i dataoverføringa vart oppdaga.</p><ul><li>Kontakt eigarane av nettstaden og informer dei om problemet.</li></ul>">
 
 <!ENTITY remoteXUL.title "Remote XUL">
 <!ENTITY remoteXUL.longDesc "<p><ul><li>Kontakt nettstadseigarane og informer dei om dette problemet.</li></ul></p>">
