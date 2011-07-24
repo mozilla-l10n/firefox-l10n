@@ -22,9 +22,9 @@
 <!ENTITY password.manage                 "Ardeiñ ar gerioù-tremen…">
 
 <!ENTITY cookie.label                    "Arventenniñ an toupinoù">
-<!ENTITY cookie.clear                    "Skarzhañ an toupinoù">
+<!ENTITY cookie.remove                   "Remove Cookies">
 <!ENTITY cookie.manage                   "Ardeiñ an toupinoù…">
-<!ENTITY cookie.clearAll                 "Skarzhañ an holl doupinoù">
+<!ENTITY cookie.removeAll                "Remove All Cookies">
 
 <!ENTITY geo.label                       "Rannañ ho lec'hiadur">
 

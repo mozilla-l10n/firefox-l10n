@@ -53,7 +53,7 @@
 <!ENTITY  rememberActions.removeCookies.label "dilemel un toupin">
 <!ENTITY  rememberActions.post.label          ".">
 
-<!ENTITY  dontrememberDescription.label  "&brandShortName; a implijo ar memes arventennoù evel ar merdeiñ prevez, ha ne zalc'ho ket soñj ar roll istor.">
+<!ENTITY  dontrememberDescription.label  "&brandShortName; a implijo ar memes arventennoù hag ar merdeiñ prevez, ha ne zalc'ho ket soñj ar roll istor.">
 
 <!-- LOCALIZATION NOTE (dontrememberActions.pre.label): include a trailing space as needed -->
 <!-- LOCALIZATION NOTE (dontrememberActions.post.label): include a starting space as needed -->
@@ -61,8 +61,8 @@
 <!ENTITY  dontrememberActions.clearHistory.label "skarzhañ ar roll istor a-bezh">
 <!ENTITY  dontrememberActions.post.label         ".">
 
-<!ENTITY  privateBrowsingPermanent.label "Mod merdeiñ prevez padel">
-<!ENTITY  privateBrowsingPermanent.accesskey "o">
+<!ENTITY  privateBrowsingPermanent2.label "Atav arverañ mod merdeiñ prevez">
+<!ENTITY  privateBrowsingPermanent2.accesskey "p">
 
 <!ENTITY  rememberHistory.label      "Derc'hel soñj ma roll istor">
 <!ENTITY  rememberHistory.accesskey  "r">

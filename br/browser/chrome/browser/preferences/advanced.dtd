@@ -29,6 +29,8 @@
 <!ENTITY checkNow.accesskey              "i">
 <!ENTITY submitCrashes.label             "Kas an danevelloù sac'hadenn">
 <!ENTITY submitCrashes.accesskey         "n">
+<!ENTITY submitTelemetry.label           "Treuzkas roadennoù a-fet digonusted">
+<!ENTITY submitTelemetry.accesskey       "T">
 
 <!ENTITY networkTab.label                "Rouedad">
 

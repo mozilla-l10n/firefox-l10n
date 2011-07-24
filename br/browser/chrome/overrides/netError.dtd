@@ -29,15 +29,11 @@
 <!ENTITY netInterrupt.longDesc "<p>Kennasket mat e oa ar merdeer met troc'het eo bet ar c'hennask e-pad ma oa o treuzkas stlennoù. Klaskit en-dro, mar plij.</p><ul><li>N'oc'h ket evit merdeiñ war lec'hiennoù all ? Gwiriit kennask roueded hoc'h urzhiataer.</li><li>Trubuilhoù c'hoazh ? Goulennit digant ardoer ar rouedad pe ho pourchaser Internet evit kaout skoazell.</li></ul> ">
 
 <!ENTITY netOffline.title "Mod ezlinenn">
-<!-- LOCALIZATION NOTE (netOffline.overrideLongDesc) - This string should
-     indicate that "Work Offline" is a menu item without being too specific,
-     since it could be in either the normal menu (Mac/Linux) or the Firefox button
-     menu (Windows).
--->
-<!ENTITY netOffline.overrideLongDesc "<ul>
-  <li>Digevaskañ elfenn al lañser &quot;Labourat ezlinenn&quot; ha neuze klask en-dro.</li>
+<!ENTITY netOffline.longDesc2 "
+<ul>
+  <li>Press &quot;Try Again&quot; to switch to online mode and reload the page.</li>
 </ul>
- ">
+">
 
 <!ENTITY contentEncodingError.title "Fazi enrinegañ an endalc'had">
 <!ENTITY contentEncodingError.longDesc "<p>Ar bajennad emaoc'h o klask gwelout n'hall ket bezañ diskouezet rak ur doare koazhañ anskor pe didalvoudek zo arveret ganti.</p><ul><li>Kit e darempred gant perc'hennerion al lec'hienn evit kas keloù dezho a-zivout ar gudenn-mañ.</li></ul>">
@@ -95,6 +91,10 @@
 
 <!ENTITY cspFrameAncestorBlocked.title "Harzet gant ur reolenn diogelroez a-fet endalc'hadoù">
 <!ENTITY cspFrameAncestorBlocked.longDesc "<p>&brandShortName; en deus miret ar bajennad-mañ ouzh bezañ pellgarget gant an doare-mañ rak reolennoù a-fet diogelroez ez eus er bajennad o tisaotren d'henn ober.</p>">
+
+<!ENTITY corruptedContentError.title "Fazi a-fet endalc'had bet kontronet">
+<!ENTITY corruptedContentError.longDesc "<p>Ar bajenn emaoc'h o klask gweladenniñ n'hall ket bezañ skrammet rak degouezhet ez eus bet ur fazi e-pad treuzkas ar roadennoù.</p><ul><li>Mar plij, kit e darempred gant perc'henned al lec'hienn a-benn kelaouiñ anezho eus ar gudenn-mañ.</li></ul>">
+
 
 <!ENTITY securityOverride.linkText "Pe un nemedenn a vez ouzhpennet ganeoc'h…">
 <!ENTITY securityOverride.getMeOutOfHereButton "Lamit kuit ac'hanon deus amañ !">

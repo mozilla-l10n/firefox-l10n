@@ -28,10 +28,12 @@
 <!ENTITY cmd.findCurrent.label          "Kavout en dastumadeg vremanel…">
 <!ENTITY cmd.findCurrent.accesskey      "K">
 
-<!ENTITY cmd.exportHTML.label           "Ezporzhiañ HTML…">
-<!ENTITY cmd.exportHTML.accesskey       "E">
-<!ENTITY cmd.importHTML.label           "Enporzhiañ HTML…">
-<!ENTITY cmd.importHTML.accesskey       "i">
+<!ENTITY importBookmarksFromHTML.label     "Enporzhiañ sinedoù diouzh ar mentrezh HTML…">
+<!ENTITY importBookmarksFromHTML.accesskey "i">
+<!ENTITY exportBookmarksToHTML.label       "Ezporzhiañ sinedoù etrezek ar mentrezh HTML…">
+<!ENTITY exportBookmarksToHTML.accesskey   "z">
+<!ENTITY importOtherBrowser.label          "Enporzhiañ roadennoù diouzh ur merdeer all…">
+<!ENTITY importOtherBrowser.accesskey      "p">
 
 <!ENTITY cmd.backup.label               "Gwarediñ…">
 <!ENTITY cmd.backup.accesskey           "r">

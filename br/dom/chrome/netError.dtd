@@ -25,8 +25,7 @@
 <!ENTITY netInterrupt.longDesc "<p>Kennasket mat e oa ar merdeer met troc'het eo bet ar c'hennask e-pad ma oa o treuzkas stlennoù. Klaskit en-dro, mar plij.</p><ul><li>N'oc'h ket evit merdeiñ war lec'hiennoù all ? Gwiriit kennask roueded hoc'h urzhiataer.</li><li>Trubuilhoù c'hoazh ? Goulennit digant ardoer ar rouedad pe ho pourchaser Internet evit kaout skoazell.</li></ul> ">
 
 <!ENTITY netOffline.title "Mod ezlinenn">
-<!ENTITY netOffline.longDesc " <p>Emañ ar merdeer o labourat gant e vod ezlinenn ha n'hall ket kennaskañ ouzh an ergorenn bet goulennet.</p><ul><li>Ha kennasket eo an urzhiataer ouzh ur rouedad oberiant ?</li><li>Lakaat ar merdeer war e vod enlinenn ha klask en-dro.</li></ul>">
-<!ENTITY netOffline.overrideLongDesc " <p>Emañ ar merdeer o labourat gant e vod ezlinenn ha n'hall ket kennaskañ ouzh an ergorenn bet goulennet.</p><ul><li>Ha kennasket eo an urzhiataer ouzh ur rouedad oberiant ?</li><li>Lakaat ar merdeer war e vod enlinenn ha klask en-dro.</li></ul>">
+<!ENTITY netOffline.longDesc2 "<p>Emañ ar merdeer o labourat gant e vod ezlinenn ha n'hall ket kennaskañ ouzh an ergorenn bet goulennet.</p><ul><li>Ha kennasket eo an urzhiataer ouzh ur rouedad oberiant ?</li><li>Pouezit war &quot;Klask en-dro&quot; evit trec'haoliñ etrezek ar mod enlinenn hag adkargañ ar bajennad.</li></ul>">
 
 <!ENTITY contentEncodingError.title "Fazi enrinegañ an endalc'had">
 <!ENTITY contentEncodingError.longDesc "<p>Ar bajennad emaoc'h o klask gwelout n'hall ket bezañ diskouezet rak ur doare koazhañ anskor pe didalvoudek zo arveret ganti.</p><ul><li>Kit e darempred gant perc'hennerion al lec'hienn evit kas keloù dezho a-zivout ar gudenn-mañ.</li></ul>">
@@ -79,6 +78,9 @@
 
 <!ENTITY cspFrameAncestorBlocked.title "Harzet gant ur reolenn diogelroez a-fet endalc'hadoù">
 <!ENTITY cspFrameAncestorBlocked.longDesc "<p>Ar merdeer en deus harzet kargadur ar bajennad-mañ gant an doare-mañ rak difennet eo gant ur reolenn diogelroez a-fet endalc'hadoù eus ar bajennad.</p>">
+
+<!ENTITY corruptedContentError.title "Fazi a-fet endalc'had bet kontronet">
+<!ENTITY corruptedContentError.longDesc "<p>The page you are trying to view cannot be shown because an error in the data transmission was detected.</p><ul><li>Please contact the website owners to inform them of this problem.</li></ul>">
 
 <!ENTITY remoteXUL.title "XUL a-bell">
 <!ENTITY remoteXUL.longDesc "<p><ul><li>Mar plij, kit e darempred gant perc'henned al lec'hienn evit kelaouiñ anezho diwar-benn ar gudenn-mañ.</li></ul></p>">
