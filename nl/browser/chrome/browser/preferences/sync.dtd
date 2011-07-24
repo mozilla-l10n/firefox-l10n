@@ -12,9 +12,9 @@
 <!-- Manage Account -->
 <!ENTITY manageAccount.label          "Account beheren">
 <!ENTITY manageAccount.accesskey      "A">
-<!ENTITY viewQuota2.label              "Quota bekijken…">
+<!ENTITY viewQuota.label              "Quota bekijken">
 <!ENTITY changePassword2.label         "Wachtwoord wijzigen…">
-<!ENTITY mySyncKey2.label              "Mijn Sync-sleutel…">
+<!ENTITY mySyncKey.label              "Mijn Sync-sleutel">
 <!ENTITY resetSync2.label              "Sync herinitialiseren…">
 
 <!ENTITY addDevice.label              "Een apparaat toevoegen">
