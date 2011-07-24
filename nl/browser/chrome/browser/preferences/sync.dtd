@@ -33,7 +33,7 @@
 <!-- Device Settings -->
 <!ENTITY syncComputerName.label       "Computernaam:">
 <!ENTITY syncComputerName.accesskey   "C">
-<!ENTITY deactivateDevice.label       "Dit apparaat deactiveren">
+<!ENTITY unlinkDevice.label           "Dit apparaat ontkoppelen">
 
 <!-- Footer stuff -->
 <!ENTITY prefs.tosLink.label        "Servicevoorwaarden (en)">
