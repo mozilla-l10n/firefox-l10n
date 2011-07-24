@@ -106,6 +106,7 @@
 <!ENTITY contextFullScreen.label      "Pantalla completa">
 <!ENTITY contextEditBookmark.label    "Edita">
 <!ENTITY contextRemoveBookmark.label  "Suprimeix">
+<!ENTITY pageactions.quit            "Surt">
 
 <!ENTITY pageactions.saveas.pdf      "Desa com a PDF">
 <!ENTITY pageactions.share.page      "Comparteix la pàgina">
