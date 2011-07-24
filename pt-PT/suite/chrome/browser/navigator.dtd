@@ -10,119 +10,29 @@
 <!-- LOCALIZATION NOTE (mainWindow.titlemodifiermenuseparator): DONT_TRANSLATE -->
 <!ENTITY mainWindow.titlemodifiermenuseparator " - ">
 
-<!ENTITY tabCmd.label "Separador de navegação">
-<!ENTITY tabCmd.accesskey "S">
-<!ENTITY tabCmd.commandkey "p">
-<!ENTITY openCmd.label "Abrir localização Web…">
-<!ENTITY openCmd.accesskey "l">
-<!ENTITY openCmd.commandkey "l">
-<!ENTITY openFileCmd.label "Abrir Ficheiro…">
-<!ENTITY openFileCmd.accesskey "o">
-<!ENTITY openFileCmd.commandkey "o">
-<!ENTITY recentTabs.label "Separadores fechados recentemente">
-<!ENTITY recentTabs.accesskey "r">
-<!ENTITY recentTabs.commandkey "t">
-<!ENTITY recentWindows.label "Janelas fechadas recentemente">
-<!ENTITY recentWindows.accesskey "l">
-<!ENTITY recentWindows.commandkey "l">
 <!ENTITY editPageCmd.label "Editar Página">
 <!ENTITY editPageCmd.accesskey "E">
 <!ENTITY editPageCmd.commandkey "e">
 
-<!ENTITY uploadFile.label "Carregar ficheiro…">
-<!ENTITY uploadFile.accesskey "F">
-
-<!ENTITY printSetupCmd.label "Configuração de página…">
-<!ENTITY printSetupCmd.accesskey "u">
 <!ENTITY printPreviewCmd.label "Pré-visualizar impressão">
 <!ENTITY printPreviewCmd.accesskey "v">
 <!ENTITY printCmd.label "Imprimir…">
 <!ENTITY printCmd.accesskey "I">
 <!ENTITY printCmd.commandkey "p">
 
-<!ENTITY toolbarsCmd.label "Mostrar/Ocultar">
-<!ENTITY toolbarsCmd.accesskey "c">
 <!ENTITY navbarCmd.label "Barra de ferramentas de navegação">
 <!ENTITY navbarCmd.accesskey "n">
 <!ENTITY personalbarCmd.label "Barra de ferramentas pessoal">
 <!ENTITY personalbarCmd.accesskey "p">
-<!ENTITY tabbarCmd.label "Barra de Separadores">
-<!ENTITY tabbarCmd.accesskey "S">
-<!ENTITY taskbarCmd.label "Barra de estado">
-<!ENTITY taskbarCmd.accesskey "B">
-<!ENTITY componentbarCmd.label "Barra de componentes">
-<!ENTITY componentbarCmd.accesskey "o">
 
-<!ENTITY useStyleSheetMenu.label "Usar estilo">
-<!ENTITY useStyleSheetMenu.accesskey "U">
-<!ENTITY useStyleSheetNone.label "Nenhum">
-<!ENTITY useStyleSheetNone.accesskey "N">
-<!ENTITY useStyleSheetPersistentOnly.label "Estilo pré-definido">
-<!ENTITY useStyleSheetPersistentOnly.accesskey "d">
-<!ENTITY pageSourceCmd.label "Ver código fonte da página">
-<!ENTITY pageSourceCmd.accesskey "o">
-<!ENTITY pageSourceCmd.commandkey "u">
-<!ENTITY pageInfoCmd.label "Info da página">
-<!ENTITY pageInfoCmd.accesskey "I">
-<!ENTITY pageInfoCmd.commandkey "i">
-<!ENTITY fullScreenCmd.label "Ecrã inteiro">
-<!ENTITY fullScreenCmd.accesskey "E">
-<!ENTITY translateMenu.label "Traduzir Página">
-<!ENTITY translateMenu.accesskey "T">
-
-<!ENTITY closeOtherTabs.label "Fechar outros separadores">
-<!ENTITY closeOtherTabs.accesskey "t">
 <!ENTITY closeWindow.label "Fechar janela">
 <!ENTITY closeWindow.accesskey "e">
 
 <!ENTITY minimizeButton.tooltip       "Minimizar">
 <!ENTITY restoreButton.tooltip        "Restaurar">
 
-<!ENTITY applyTheme.label	"Aplicar tema"> 
-<!ENTITY applyTheme.accesskey	"A"> 
-<!ENTITY getNewThemesCmd.label "Obter novos temas">
-<!ENTITY getNewThemesCmd.accesskey "O">
-<!ENTITY findOnCmd.label "Procurar nesta página…">
-<!ENTITY findOnCmd.accesskey "r">
-<!ENTITY findOnCmd.commandkey "f">
-<!ENTITY findAgainCmd.label "Procurar de novo">
-<!ENTITY findAgainCmd.accesskey "n">
-<!ENTITY findAgainCmd.commandkey "g">
-<!ENTITY findPrevCmd.label "Procura anterior">
-<!ENTITY findPrevCmd.accesskey "o">
-<!ENTITY findPrevCmd.commandkey "g">
-<!ENTITY findAgainCmd.commandkey2 "VK_F3">
-<!ENTITY findPrevCmd.commandkey2 "VK_F3">
-
-<!ENTITY searchInternetCmd.label "Pesquisar na Web">
-<!ENTITY searchInternetCmd.accesskey "s">
-<!ENTITY searchInternet.commandKey "s">
-
-<!ENTITY clearPrivateDataCmd.label "Limpar dados privados…">
-<!ENTITY clearPrivateDataCmd.accesskey "i">
-
-<!ENTITY goMenu.label "Ir">
-<!ENTITY goMenu.accesskey "I">
-<!ENTITY goHomeCmd.label "Página inicial">
-<!ENTITY goHomeCmd.accesskey "g">
-<!ENTITY historyRestoreLastSession.label "Restaurar a sessão anterior">
-<!ENTITY historyRestoreLastSession.accesskey "R">
-
-<!ENTITY bookmarksMenu.label "Marcadores">
-<!ENTITY bookmarksMenu.accesskey "M">
-<!ENTITY addCurPageCmd.label "Adicionar aos marcadores">
-<!ENTITY addCurPageCmd.accesskey "i">
-<!ENTITY addCurPageAsCmd.label "Adicionar ficheiro aos marcadores…">
-<!ENTITY addCurPageAsCmd.accesskey "f">
-<!ENTITY addCurPageAsCmd.commandkey "d">
-<!ENTITY addCurTabsAsCmd.label "Adicionar separadores…">
-<!ENTITY addCurTabsAsCmd.accesskey "s">
-<!ENTITY manBookmarksCmd.label "Gerir marcadores…">
-<!ENTITY manBookmarksCmd.accesskey "m">
-<!ENTITY manBookmarksCmd.commandkey "b">
 <!ENTITY feedsMenu.label "Subscrever esta página">
 <!ENTITY feedsMenu.accesskey "S">
-<!ENTITY emptyItem.label "(Vazio)">
 
 <!ENTITY menuBar.tooltip                  "Barra de Menus">
 <!ENTITY personalToolbar.tooltip          "Barra de ferramentas pessoal">
@@ -162,14 +72,4 @@
 <!-- Statusbar -->
 <!ENTITY  statusText.label            "Feito">
 
-<!ENTITY historyCmd.label           "Histórico">  
-<!ENTITY historyCmd.accesskey       "i">
-<!ENTITY history.commandKey         "h">
-
 <!ENTITY popupIcon.tooltiptext      "Desbloquear os popups do sítio">
-
-<!ENTITY bidiSwitchPageDirectionItem.label        "Mudar a direcção da página">
-<!ENTITY bidiSwitchPageDirectionItem.accesskey    "g">
-
-<!-- LOCALIZATION NOTE (syncTabsMenu.label): This appears in the Go menu -->
-<!ENTITY syncTabsMenu.label         "Separadores De Outros Computadores">
