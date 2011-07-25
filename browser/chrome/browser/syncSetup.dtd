@@ -28,6 +28,9 @@
 <!ENTITY signIn.syncKey.label       "Sync ključ">
 <!ENTITY signIn.syncKey.accesskey   "S">
 
+<!ENTITY setup.choosePassword.label      "Odaberite lozinku">
+<!ENTITY setup.choosePassword.accesskey  "z">
+
 
 <!-- New Account Page 1: Basic Account Info -->
 <!ENTITY setup.newAccountDetailsPage.title.label "Detalji korisničkog računa">
