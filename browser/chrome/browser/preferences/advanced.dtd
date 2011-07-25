@@ -29,6 +29,8 @@
 <!ENTITY checkNow.accesskey              "k">
 <!ENTITY submitCrashes.label             "Ungelokrapport yntsjinje">
 <!ENTITY submitCrashes.accesskey         "U">
+<!ENTITY submitTelemetry.label           "Stoer prestaasjegegevens">
+<!ENTITY submitTelemetry.accesskey       "P">
 
 <!ENTITY networkTab.label                "Netwurk">
 

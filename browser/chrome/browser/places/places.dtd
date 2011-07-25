@@ -28,10 +28,12 @@
 <!ENTITY cmd.findCurrent.label  				"Sykje yn aktuele kolleksje...">
 <!ENTITY cmd.findCurrent.accesskey  			"y">
 
-<!ENTITY cmd.exportHTML.label  					"Eksportearje HTML...">
-<!ENTITY cmd.exportHTML.accesskey  				"E">
-<!ENTITY cmd.importHTML.label  					"Ymportearje HTML...">
-<!ENTITY cmd.importHTML.accesskey  				"Y">
+<!ENTITY importBookmarksFromHTML.label     		"Ymportearje blêdwizers út HTML…">
+<!ENTITY importBookmarksFromHTML.accesskey 		"Y">
+<!ENTITY exportBookmarksToHTML.label       		"Eksportearje blêdwizers nei HTML…">
+<!ENTITY exportBookmarksToHTML.accesskey   		"E">
+<!ENTITY importOtherBrowser.label          		"Ymportearje gegevens út in oare browser…">
+<!ENTITY importOtherBrowser.accesskey      		"o">
 
 <!ENTITY cmd.backup.label  						"Reservekopy...">
 <!ENTITY cmd.backup.accesskey  					"R">
