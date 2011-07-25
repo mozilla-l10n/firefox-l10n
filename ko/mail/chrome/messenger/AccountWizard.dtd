@@ -31,6 +31,9 @@
 <!ENTITY imapType.accesskey "I">
 <!ENTITY popType.label "POP">
 <!ENTITY popType.accesskey "P">
+<!ENTITY leaveMsgsOnSrvr.label "서버에 메일 남기기">
+<!ENTITY leaveMsgsOnSrvr.accesskey "L">
+
 <!ENTITY haveSmtp1.prefix "메일 서버 (SMTP) &quot;">
 <!ENTITY haveSmtp1.suffix2 "&quot;은(는) 사용 중. 메일과 뉴스 그룹 프로그램의 편집 메뉴의 계정 설정에서 메일 서버를 수정할 수 있습니다.">
 <!ENTITY loginTitle.label "사용자 이름">
