@@ -90,14 +90,15 @@
 
 <!ENTITY detailsPane.selectAnItemText.description "Επιλέξτε ένα αντικείμενο για προβολή ή επεξεργασία των ιδιοτήτων του">
 
-
-<!ENTITY cmd.exportHTML.label           "Εξαγωγή HTML…">
-<!ENTITY cmd.exportHTML.accesskey       "Ε">
-<!ENTITY cmd.importHTML.label           "Εισαγωγή HTML…">
-<!ENTITY cmd.importHTML.accesskey       "ι">
 <!ENTITY cmd.restore2.label             "Επαναφορά">
 
 
+<!ENTITY importBookmarksFromHTML.label     "Εισαγωγή σελιδοδεικτών από HTML…">
+<!ENTITY importBookmarksFromHTML.accesskey "ι">
+<!ENTITY exportBookmarksToHTML.label       "Εξαγωγή σελιδοδεικτών σε HTML…">
+<!ENTITY exportBookmarksToHTML.accesskey   "ξ">
+<!ENTITY importOtherBrowser.label          "Εισαγωγή δεδομένων από άλλο περιηγητή…">
+<!ENTITY importOtherBrowser.accesskey      "λ">
 
 
 <!ENTITY cmd.open.label

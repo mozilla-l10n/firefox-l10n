@@ -27,9 +27,6 @@
 
 
 
-<!ENTITY  privateBrowsingPermanent.label "Μόνιμη λειτουργία ιδιωτικής περιήγησης">
-<!ENTITY  privateBrowsingPermanent.accesskey "Μ">
-
 <!ENTITY  rememberHistory.label      "Διατήρηση ιστορικού περιήγησης">
 <!ENTITY  rememberHistory.accesskey  "τ">
 
@@ -99,5 +96,9 @@
 
 <!ENTITY  rememberSearchForm.label       "Διατήρηση ιστορικού αναζήτησης και συμπλήρωσης φορμών">
 <!ENTITY  rememberSearchForm.accesskey   "φ">
+
+<!ENTITY  privateBrowsingPermanent2.label "Μόνιμη λειτουργία ιδιωτικής περιήγησης">
+<!ENTITY  privateBrowsingPermanent2.accesskey "Μ">
+
 
 

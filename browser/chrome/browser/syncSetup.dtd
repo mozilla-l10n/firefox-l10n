@@ -93,6 +93,9 @@
 <!ENTITY engine.prefs.label         "Προτιμήσεις">
 <!ENTITY engine.prefs.accesskey     "Π">
 
+<!ENTITY setup.choosePassword.label      "Επιλέξτε έναν κωδικό">
+<!ENTITY setup.choosePassword.accesskey  "ξ">
+
 <!ENTITY choice2.merge.main.label      "Συγχώνευση των δεδομένων αυτού του υπολογιστή με τα δεδομένα του &syncBrand.shortName.label; σας">
 <!ENTITY choice2.merge.recommended.label "Συστήνεται:">
 <!ENTITY choice2.client.main.label     "Αντικατάσταση όλων των δεδομένων αυτού του υπολογιστή με τα δεδομένα του &syncBrand.shortName.label;">
