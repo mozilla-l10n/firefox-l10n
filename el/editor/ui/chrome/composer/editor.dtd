@@ -62,7 +62,7 @@
 <!ENTITY validateCmd.label "Επικύρωση HTML">
 <!ENTITY validateCmd.accesskey "ω">
 <!ENTITY NormalModeTab.label "Τυπική">
-<!ENTITY NormalMode.label "Τυπική λειτουργία επεργασίας">
+<!ENTITY NormalMode.label "Τυπική λειτουργία επεξεργασίας">
 <!ENTITY NormalMode.accesskey "υ">
 <!ENTITY NormalMode.tooltip "Προβολή περιγραμμάτων πινάκων και αγκυρών">
 <!ENTITY AllTagsModeTab.label "Ετικέτες HTML">
