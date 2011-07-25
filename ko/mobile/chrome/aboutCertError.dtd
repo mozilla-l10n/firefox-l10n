@@ -13,7 +13,6 @@ by NSS/PSM via netError.xhtml. -->
 be replaced at runtime with the name of the server to which the user
 was trying to connect. -->
 <!ENTITY certerror.introPara1 "&brandShortName;이  <b>#1</b>로  안전하게 연결하도록 요청했습니다. 그러나 해당 연결이 안전한지 확인할 수 없습니다.">
-<!ENTITY certerror.introPara2 "일반적으로, 안전하게 연결을 시도할 때, 사용자가 안전한  웹 사이트에 접속하는 것을 입증하기 위해 신원 정보를 제공해야 하는데, 이 웹 사이트의 신원은 확인할 수 없습니다..">
 
 <!ENTITY certerror.whatShouldIDo.heading "무엇을 해야 하나요?">
 <!ENTITY certerror.whatShouldIDo.content "이 웹사이트에 문제없이 연결하려면, 
