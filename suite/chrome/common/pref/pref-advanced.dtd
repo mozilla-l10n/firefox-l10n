@@ -1,11 +1,6 @@
 <!--LOCALIZATION NOTE : FILE 'Advanced' prefs settings -->
 <!ENTITY pref.advanced.title        "Avançado">
 
-<!ENTITY prefEnableJava.caption     "Funcionalidades que ajudam a interpretar páginas web">
-
-<!ENTITY enbJavaCheck.label         "Activar Java">
-<!ENTITY enbJavaCheck.accesskey     "J">
-
 <!ENTITY systemPref.caption         "Preferências do Sistema">
 <!ENTITY systemPrefCheck.label      "Usar as Preferências do Sistema">
 <!ENTITY systemPrefCheck.accesskey  "U">
