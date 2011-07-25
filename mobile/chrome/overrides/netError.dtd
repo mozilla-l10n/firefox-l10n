@@ -3,7 +3,7 @@
 <!ENTITY loadError.label "페이지 읽기 오류">
 <!ENTITY retry.label "재시도">
 <!ENTITY connectionFailure.title "연결 실패">
-<!ENTITY connectionFailure.longDesc "&sharedLongDesc;">
+<!ENTITY connectionFailure.longDesc "&sharedLongDesc2;">
 <!ENTITY deniedPortAccess.title "제한된 주소">
 <!ENTITY deniedPortAccess.longDesc "">
 <!ENTITY dnsNotFound.title "서버를 찾을 수 없음">
@@ -15,13 +15,13 @@
 <!ENTITY malformedURI.title "주소가 유효하지 않음">
 <!ENTITY malformedURI.longDesc "<ul><li>웹 주소는 보통 <strong>http://www.example.com/</strong>과 같이 작성됩니다.</li><li>오른쪽 위에서 왼쪽 아래로 그어진 슬래쉬(<strong>/</strong>)를 사용했는지 확인해 보시기 바랍니다.</li></ul>">
 <!ENTITY netInterrupt.title "연결이 끊어짐">
-<!ENTITY netInterrupt.longDesc "&sharedLongDesc;">
+<!ENTITY netInterrupt.longDesc "&sharedLongDesc2;">
 <!ENTITY netOffline.title "오프라인 모드">
 <!ENTITY netOffline.longDesc2 "<ul><li>온라인 모드로 바꾸고 페이지를 새로 고침하려면 &quot;다시 시도&quot;를 눌러 주십시오.</li></ul>">
 <!ENTITY netReset.title "연결 초기화">
-<!ENTITY netReset.longDesc "&sharedLongDesc;">
+<!ENTITY netReset.longDesc "&sharedLongDesc2;">
 <!ENTITY netTimeout.title "연결 시간 초과">
-<!ENTITY netTimeout.longDesc "&sharedLongDesc;">
+<!ENTITY netTimeout.longDesc "&sharedLongDesc2;">
 <!ENTITY protocolNotFound.title "인식할 수 없는 주소">
 <!ENTITY protocolNotFound.longDesc "<ul><li>이 주소를 열기 위해서는 다른 프로그램을 설치할 필요가 있습니다.</li></ul>">
 <!ENTITY proxyConnectFailure.title "프록시 서버가 연결을 거부함">
