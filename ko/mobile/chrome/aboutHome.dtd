@@ -8,3 +8,4 @@
 <!ENTITY aboutHome.openAllTabs                  "모든 탭 열기 ">
 <!ENTITY aboutHome.noTabs                       "마지막 종료 시 탭 없음">
 <!ENTITY aboutHome.noAddons                     "추천 부가 기능 없음">
+<!ENTITY aboutHome.getLocale                    "언어 선택">

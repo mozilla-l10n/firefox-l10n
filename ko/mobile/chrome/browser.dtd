@@ -107,6 +107,7 @@
 <!ENTITY pageactions.saveas.pdf      "PDF로 저장">
 <!ENTITY pageactions.share.page      "페이지 공유">
 <!ENTITY pageactions.password.forget "암호 찾기">
+<!ENTITY pageactions.quit            "종료">
 <!ENTITY pageactions.reset           "사이트 설정 제거">
 <!ENTITY pageactions.findInPage      "찾기">
 <!ENTITY pageactions.search.addNew   "검색 엔진 추가">

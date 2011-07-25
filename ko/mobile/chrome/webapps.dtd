@@ -1,0 +1,6 @@
+<!ENTITY webapps.title.placeholder "제목 입력">
+<!ENTITY webapps.permissions "접근 권한:">
+<!ENTITY webapps.perm.geolocation "위치 정보 얻기">
+<!ENTITY webapps.perm.offline "오프라인 저장소">
+<!ENTITY webapps.perm.notifications "데스크톱 알림">
+<!ENTITY webapps.perm.requested "요청함">
