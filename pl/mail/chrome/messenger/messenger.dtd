@@ -225,9 +225,11 @@
 <!ENTITY bodyAllowHTML.label            "Oryginalny HTML">
 <!ENTITY bodyAllowHTML.accesskey        "H">
 <!ENTITY bodySanitized.label            "Uproszczony HTML">
-<!ENTITY bodySanitized.accesskey        "s">
+<!ENTITY bodySanitized.accesskey        "U">
 <!ENTITY bodyAsPlaintext.label          "Zwykły tekst">
 <!ENTITY bodyAsPlaintext.accesskey      "Z">
+<!ENTITY bodyAllParts.label             "Wszystkie części treści wiadomości">
+<!ENTITY bodyAllParts.accesskey         "W">
 
 <!ENTITY bodyMenuFeed.label                     "Wyświetlaj artykuły jako">
 <!ENTITY bodyMenuFeed.accesskey                 "W">
