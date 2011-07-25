@@ -51,11 +51,10 @@
 <!ENTITY netInterrupt.longDesc "&sharedLongDesc;">
 
 <!ENTITY netOffline.title "Offline mode">
-<!ENTITY netOffline.longDesc "
+<!ENTITY netOffline.longDesc2 "
 <ul>
-  <li>Åbn menuen 'Filer', klik på 'Offline' og afmarker 'Arbejd offline'</li>
-<li>Forsøg igen</li>
-  </ul>
+  <li>Klik på &quot;Prøv igen&quot; for at skifte til online mode og genindlæse siden.</li>
+</ul>
 ">
 
 <!ENTITY contentEncodingError.title "Indholdskodningsfejl">
@@ -149,6 +148,9 @@
 
 <!ENTITY cspFrameAncestorBlocked.title "Blokeret grundet indholdssikkerhedshedspolitik">
 <!ENTITY cspFrameAncestorBlocked.longDesc "<p>&brandShortName; forhindrede denne side i at blive indlæst på denne måde, da den har en indholdssikkerhedspolitik der forbyder dette.</p>">
+
+<!ENTITY corruptedContentError.title "Fejl i indhold">
+<!ENTITY corruptedContentError.longDesc "<p>Indholdet kan ikke vises på grund af en fejl under overførslen.</p><ul><li>Kontakt afsenderen for at informere om fejlen.</li></ul>">
 
 <!ENTITY securityOverride.linkText "Eller du kan tilføje en undtagelse…">
 <!ENTITY securityOverride.getMeOutOfHereButton "Få mig væk herfra!">
