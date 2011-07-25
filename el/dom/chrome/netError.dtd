@@ -76,7 +76,7 @@
 <!ENTITY remoteXUL.title "Απομακρυσμένο XUL">
 <!ENTITY remoteXUL.longDesc "<p><ul><li>Παρακαλούμε επικοινωνήστε με τους ιδιοκτήτες της ιστοσελίδας για να τους πληροφορήσετε για το πρόβλημα.</li></ul></p>">
 
-<!ENTITY netOffline.longDesc2 "<p>TΟ περιηγητής είναι χωρίς σύνδεση και δεν μπορεί να συνδεθεί με τη σελίδα.</p><ul><li>Είναι ο υπολογιστής σας συνδεδένος σε ένα ενεργο δίκτυο;</li><li>Πατήστε&quot;Προσπάθεια ξανά&quot; για να μεταβείτε σε εργασία μέ σύνδεση και να ξαναφορτώσετε την σελίδα.</li></ul>">
+<!ENTITY netOffline.longDesc2 "<p>Ο περιηγητής είναι χωρίς σύνδεση και δεν μπορεί να συνδεθεί με τη σελίδα.</p><ul><li>Είναι ο υπολογιστής σας συνδεδένος σε ένα ενεργο δίκτυο;</li><li>Πατήστε&quot;Προσπάθεια ξανά&quot; για να μεταβείτε σε εργασία μέ σύνδεση και να ξαναφορτώσετε την σελίδα.</li></ul>">
 
 <!-- Include app-specific error messages - do not change this in localization!
      Some applications might override netErrorApp.dtd with their specific version,
