@@ -92,6 +92,7 @@
 <!ENTITY contextOpenInNewTab.label    "Abrir a ligazón nunha nova lapela">
 <!ENTITY contextSaveLink.label        "Gardar ligazón">
 <!ENTITY contextSaveImage.label       "Gardar imaxe">
+<!ENTITY contextCopyLink.label        "Copiar ligazón">
 <!ENTITY contextShareLink.label       "Compartir ligazón">
 <!ENTITY contextShareImage.label      "Compartir imaxe">
 <!ENTITY contextBookmarkLink.label    "Marcar ligazón">
