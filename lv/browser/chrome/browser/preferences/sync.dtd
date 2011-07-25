@@ -11,8 +11,8 @@
 <!-- Manage Account -->
 <!ENTITY manageAccount.label          "Pārvaldīt kontu">
 <!ENTITY manageAccount.accesskey      "P">
-<!ENTITY changePassword.label         "Mainīt paroli…">
-<!ENTITY resetSync.label              "Atiestatīt sinhronizāciju…">
+<!ENTITY changePassword2.label         "Mainīt paroli…">
+<!ENTITY resetSync2.label              "Atiestatīt sinhronizāciju…">
 <!ENTITY viewQuota.label              "Aplūkot kvotu">
 <!ENTITY addDevice.label              "Pievienot ierīci">
 
