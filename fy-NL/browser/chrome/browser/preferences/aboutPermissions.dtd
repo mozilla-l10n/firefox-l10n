@@ -22,10 +22,10 @@
 <!ENTITY password.manage                 "Behear wachtwurden…">
 
 <!ENTITY cookie.label                    "Cookies pleatse">
-<!ENTITY cookie.clear                    "Cookies wiskje">
+<!ENTITY cookie.remove                   "Cookies fuortsmite">
 <!ENTITY cookie.manage                   "Cookies beheare…">
-<!ENTITY cookie.clearAll                 "Alle Cookies wiskje">
-
+<!ENTITY cookie.removeAll                "Alle Cookies fuortsmite">
+                                                            
 <!ENTITY geo.label                       "Diel lokaasje">
 
 <!-- LOCALIZATION NOTE (indexedDB.label): This is describing indexedDB storage

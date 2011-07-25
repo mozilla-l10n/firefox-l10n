@@ -62,8 +62,8 @@
 <!ENTITY  dontrememberActions.clearHistory.label "alle aktuele skiednis wiskje">
 <!ENTITY  dontrememberActions.post.label         ".">
 
-<!ENTITY  privateBrowsingPermanent.label "Permaninte privee sneupsesje">
-<!ENTITY  privateBrowsingPermanent.accesskey "P">
+<!ENTITY  privateBrowsingPermanent2.label "Altyd permaninte privee sneupsesje brûke">
+<!ENTITY  privateBrowsingPermanent2.accesskey "P">
 
 <!-- LOCALIZATION NOTE:
   The entities rememberHistory.pre.label and rememberHistory.post.label appear on a single
