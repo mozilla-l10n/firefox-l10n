@@ -62,3 +62,5 @@
 <!ENTITY deferStorage.accesskey "Γ">
 <!ENTITY clickFinish.label "Πατήστε Τέλος για να αποθηκευτούν οι ρυθμίσεις και να εγκαταλείψετε τον Οδηγό Λογαριασμού.">
 <!ENTITY clickFinish.labelMac "Πατήστε Ολοκλήρωση για να αποθηκεύσετε αυτές τις ρυθμίσεις και να κλείσετε τον οδηγό.">
+<!ENTITY leaveMsgsOnSrvr.label "Διατήρηση μηνυμάτων στον διακομιστή">
+<!ENTITY leaveMsgsOnSrvr.accesskey "Δ">

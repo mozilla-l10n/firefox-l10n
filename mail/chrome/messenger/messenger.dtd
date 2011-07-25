@@ -235,7 +235,7 @@
 <!ENTITY fullZoomToggleCmd.accesskey "κ">
 <!ENTITY fullZoom.label "Μεγέθυνση">
 <!ENTITY fullZoom.accesskey "θ">
-<!ENTITY pageSourceCmd.label "Kώδικας μηνύματος">
+<!ENTITY pageSourceCmd.label "Κώδικας μηνύματος">
 <!ENTITY pageSourceCmd.accesskey "κ">
 <!ENTITY pageSourceCmd.key "u">
 <!ENTITY findMenu.label "Εύρεση">
@@ -426,7 +426,7 @@
 <!ENTITY filtersCmd.accesskey "Φ">
 <!ENTITY filtersApply.label "Εκτέλεση φίλτρων στο φάκελο">
 <!ENTITY filtersApply.accesskey "κ">
-<!ENTITY filtersApplyToSelection.label "Εκτέλεση φίλτρων στα επιλεγμέμα μηνύματα">
+<!ENTITY filtersApplyToSelection.label "Εκτέλεση φίλτρων στα επιλεγμένα μηνύματα">
 <!ENTITY filtersApplyToSelection.accesskey "κ">
 <!ENTITY filtersApplyToMessage.label "Εκτέλεση φίλτρων στο μήνυμα">
 <!ENTITY filtersApplyToMessage.accesskey "σ">
