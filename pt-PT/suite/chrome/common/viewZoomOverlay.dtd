@@ -9,6 +9,3 @@
 
 <!ENTITY zoomResetCmd.commandkey    "0">
 
-<!-- see zoomOtherLabel in viewZoomOverlay.properties -->
-<!ENTITY zoomMenu.accesskey         "A">
-<!ENTITY zoomOtherCmd.accesskey     "o">
