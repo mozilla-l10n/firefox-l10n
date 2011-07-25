@@ -93,16 +93,6 @@
 
 <!ENTITY netOffline.title "Λειτουργία εργασίας χωρίς σύνδεση">
 
-<!-- LOCALIZATION NOTE (netOffline.overrideLongDesc) - This string should
-     indicate that "Work Offline" is a menu item without being too specific,
-     since it could be in either the normal menu (Mac/Linux) or the Firefox button
-     menu (Windows).
--->
-<!ENTITY netOffline.overrideLongDesc "
-<ul>
-  <li>Αποεπιλέξτε το &quot;Εργασία χωρίς σύνδεση&quot; από το μενού, και προσπαθήστε ξανά.</li>
-</ul>
-">
 
 
 <!ENTITY netReset.title "Έγινε διακοπή της σύνδεσης με τη σελίδα">
@@ -186,7 +176,11 @@ netError.xhtml) because it exposes functionality specific to firefox. -->
 <button id='getMeOutOfHereButton'>&securityOverride.getMeOutOfHereButton;</button>
 <button id='exceptionDialogButton'>&securityOverride.exceptionButtonLabel;</button>
 ">
-
+<!ENTITY netOffline.longDesc2 "
+<ul>
+  <li>Πατήστε&quot;Προσπάθεια ξανά&quot; για να μεταβείτε σε εργασία μέ σύνδεση και να ξαναφορτώσετε την σελίδα.</li>
+</ul>
+">
 
 
 <!ENTITY cspFrameAncestorBlocked.title "Έχει φραγεί από την πολιτική προστασίας περιεχομένου">
@@ -194,5 +188,9 @@ netError.xhtml) because it exposes functionality specific to firefox. -->
 
 <!ENTITY remoteXUL.title "Απομακρυσμένο XUL">
 <!ENTITY remoteXUL.longDesc "<p><ul><li>Παρακαλούμε επικοινωνήστε με τους ιδιοκτήτες της ιστοσελίδας για να τους ενημερώσετε για αυτό το πρόβλημα.</li></ul></p>">
+
+<!ENTITY corruptedContentError.title "Σφάλμα κατεστραμμένου περιεχομένου">
+<!ENTITY corruptedContentError.longDesc "<p>Δεν είναι δυνατή η εμφάνιση αυτής της σελίδας επειδή υπήρξε ένα σφάλμα στην μεταγωγή δεδομένων.</p><ul><li>Επικοινωνήστε με τους ιδιοκτήτες της ιστοσελίδας για να τους ενημερώσετε για το πρόβλημα.</li></ul>">
+
 
 

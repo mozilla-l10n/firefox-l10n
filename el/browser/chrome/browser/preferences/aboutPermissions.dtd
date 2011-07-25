@@ -22,10 +22,9 @@
 <!ENTITY password.manage                 "Διαχείριση κωδικών…">
 
 <!ENTITY cookie.label                    "Τοποθέτηση Cookies">
-<!ENTITY cookie.clear                    "Εκκαθάριση Cookies">
 <!ENTITY cookie.manage                   "Διαχείριση Cookies…">
-<!ENTITY cookie.clearAll                 "Εκκαθάριση όλων των Cookies">
-
+<!ENTITY cookie.remove                   "Διαγραφή Cookies">
+<!ENTITY cookie.removeAll                "Διαγραφή όλων των Cookies">
 <!ENTITY geo.label                       "Γνωστοποίηση τοποθεσίας">
 
 <!-- LOCALIZATION NOTE (indexedDB.label): This is describing indexedDB storage
