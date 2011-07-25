@@ -11,10 +11,6 @@
 # title for the folder that will contains the default bookmarks
 #define bookmarks_title 모바일
 
-# LOCALIZATION NOTE (bookmarks_welcome):
-# link title for about:firstrun
-#define bookmarks_welcome Firefox: 시작페이지
-
 # LOCALIZATION NOTE (bookmarks_aboutBrowser):
 # link title for about:fennec
 #define bookmarks_aboutBrowser Firefox 소개
