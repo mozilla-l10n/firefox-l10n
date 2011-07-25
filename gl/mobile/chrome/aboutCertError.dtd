@@ -13,9 +13,6 @@ by NSS/PSM via netError.xhtml. -->
 be replaced at runtime with the name of the server to which the user
 was trying to connect. -->
 <!ENTITY certerror.introPara1 "Vostede solicitou que &brandShortName; se conecte de forma segura a <b>#1</b>, pero non é posíbel confirmar que a súa conexión é segura.">
-<!ENTITY certerror.introPara2 "Normalmente, cando vostede tenta conectarse de forma segura,
-as páxinas web presentan un certificado de seguranza para garantir que vostede está indo ao lugar correcto.
-Porén, tras analizar o certificado desta páxina, a súa identidade non pode ser confirmada.">
 
 <!ENTITY certerror.whatShouldIDo.heading "Que debería facer?">
 <!ENTITY certerror.whatShouldIDo.content "Se vostede adoita conectarse sen problemas a esta páxina, entón este erro podería ser síntoma dalgún problema de seguranza, e nese caso non debería continuar.">
