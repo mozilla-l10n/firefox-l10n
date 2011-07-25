@@ -5,6 +5,10 @@
 <!ENTITY aboutPage.rights.label "Μάθετε τα δικαιώματά σας">
 <!ENTITY aboutPage.relNotes.label "Σημειώσεις έκδοσης">
 <!ENTITY aboutPage.credits.label "Μνεία">
-<!ENTITY aboutPage.copyrightInfo1 "©1998-2009 Συνεργάτες. Με την επιφύλαξη παντός δικαιώματος. (">
+
+<!ENTITY aboutPage.checkForUpdates.button       "Έλεγχος για ενημερώσεις">
+<!ENTITY aboutPage.checkForUpdates.checking     "Αναζήτηση για ενημερώσεις…">
+<!ENTITY aboutPage.checkForUpdates.none         "Δεν βρέθηκαν ενημερώσεις">
+<!ENTITY aboutPage.checkForUpdates.found        "Υπάρχει διαθέσιμη ενημέρωση">
 <!ENTITY aboutPage.licenseLink "Πληροφορίες αδειοδότησης">
-<!ENTITY aboutPage.copyrightInfo2 ").">
+<!ENTITY aboutPage.licenseLinkSuffix            ".">

@@ -5,7 +5,6 @@
 <!ENTITY reload.label "Ανανέωση">
 <!ENTITY stop.label "Διακοπή">
 <!ENTITY go.label "Μετάβαση">
-<!ENTITY openLocation.label "Άνοιγμα τοποθεσίας">
 <!ENTITY star.label "Αστέρι">
 <!ENTITY newtab.label "Νέα καρτέλα">
 <!ENTITY closetab.label "Κλείσιμο καρτέλας">
@@ -79,4 +78,30 @@
 
 <!ENTITY contextOpenInNewTab.label "Άνοιγμα δεσμού σε νέα καρτέλα">
 <!ENTITY contextSaveImage.label    "Αποθήκευση εικόνας">
+
+<!ENTITY allPagesHeader.label      "Όλες οι σελίδες">
+<!ENTITY appMenu.siteOptions         "Επιλογές σελίδας">
+<!ENTITY contextBookmarkLink.label    "Προσθήκη δεσμού ως σελιδοδείκτη">
+<!ENTITY contextFullScreen.label      "Πλήρης οθόνη">
+<!ENTITY contextSaveVideo.label       "Αποθήκευση βίντεο">
+<!ENTITY contextShareVideo.label      "Κοινοποίηση βίντεο">
+<!ENTITY contextPlayMedia.label       "Αναπαραγωγή">
+<!ENTITY contextPauseMedia.label      "Παύση">
+<!ENTITY copyAll.label         "Αντιγραφή όλων">
+<!ENTITY historyHeader.label       "Ιστορικό">
+<!ENTITY desktopHeader.label       "Επιφάνεια εργασίας">
+<!ENTITY downloadDelete.label      "Διαγραφή">
+<!ENTITY editBookmarkDialog.title  "Επεξεργασία σελιδοδείκτη">
+<!ENTITY inputMethod.label     "Επιλογή μεθόδου εισαγωγής">
+
+<!ENTITY pageactions.saveas.pdf      "Αποθήκευση ως PDF">
+<!ENTITY pageactions.share.page      "Κοινοποίηση σελίδας">
+<!ENTITY pageactions.password.forget "Διαγραφή κωδικού">
+<!ENTITY pageactions.reset           "Εκκαθάριση προτιμήσεων σελίδας">
+<!ENTITY pageactions.findInPage      "Εύρεση στη σελίδα">
+<!ENTITY pageactions.search.addNew   "Προσθήκη μηχανής αναζήτησης">
+<!ENTITY pageactions.charEncoding    "Κωδικοποίηση χαρακτήρων">
+
+
+
 
