@@ -46,8 +46,6 @@
 <!ENTITY  moveToGroup.label                  "Pārvietot uz grupu">
 <!ENTITY  moveToGroup.accesskey              "P">
 <!ENTITY  moveToNewGroup.label               "Jauna grupa">
-<!ENTITY inspectObjectButton.label       "Objekts">
-<!ENTITY inspectObjectButton.accesskey   "O">
 <!ENTITY historyRestoreLastSession.label "Atjaunot iepriekšējo sesiju">
 <!ENTITY tabGroupsButton.label        "Ciļņu grupas">
 <!ENTITY tabGroupsButton.tooltip      "Grupējiet savas cilnes">

@@ -24,6 +24,8 @@
 <!ENTITY checkSpelling.accesskey "t">
 <!ENTITY submitCrashes.label             "Nosūtīt avārijas ziņojumus">
 <!ENTITY submitCrashes.accesskey         "S">
+<!ENTITY submitTelemetry.label           "Nosūtīt veiktspējas datus">
+<!ENTITY submitTelemetry.accesskey       "V">
 
 <!ENTITY systemDefaults.label "Noklusētie iestatījumi">
 <!--XXX-->
