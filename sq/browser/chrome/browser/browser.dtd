@@ -24,8 +24,6 @@
 <!ENTITY printCmd.label "Shtypni…">
 <!ENTITY printCmd.accesskey "y">
 <!ENTITY printCmd.commandkey "p">
-<!ENTITY import.label "Importoni…">
-<!ENTITY import.accesskey "I">
 
 <!ENTITY goOfflineCmd.label "Puno i Palidhur">
 <!ENTITY goOfflineCmd.accesskey "o">
@@ -448,17 +446,9 @@
 <!ENTITY inspectMenu.accesskey        "S">
 <!ENTITY inspectMenu.commandkey       "I">
 
-
 <!ENTITY inspectPanelTitle.label      "HTML">
 <!ENTITY inspectButton.label          "Shqyrtoje">
 <!ENTITY inspectButton.accesskey      "q">
-<!ENTITY inspectNextButton.label      "Pasuesi">
-<!ENTITY inspectNextButton.accesskey  "P">
-<!ENTITY inspectPreviousButton.label  "I mëparshmi">
-<!ENTITY inspectPreviousButton.accesskey "m">
-<!ENTITY inspectStyleButton.label     "Stil">
-<!ENTITY inspectStyleButton.accesskey "S">
-<!ENTITY inspectStylePanelTitle.label  "Stil">
 <!ENTITY  listAllTabs.label      "Paraqit krejt skedat">
 <!ENTITY  reloadTab.label                    "Ringarkoje Skedën">
 <!ENTITY  reloadTab.accesskey                "R">
@@ -506,14 +496,6 @@
 <!ENTITY appMenuGettingStarted.label "Si T&apos;ia Fillohet">
 <!ENTITY appMenuSafeMode.label "Riniseni me Shtesa të Çaktivizuara…">
 <!ENTITY appMenuSafeMode.accesskey "R">
-
-<!-- LOCALIZATION NOTE (inspectObjectButton.label): This button label
-  -  appears on the Inspector's toolbar. It is used to open and close the Object
-  -  panel. There is also a label in inspector.properties for the panel
-  -  titlebar: object.objectPanelTitle. -->
-<!ENTITY inspectObjectButton.label       "Objekt">
-<!ENTITY inspectObjectButton.accesskey   "O">
-
 
 <!ENTITY historyRestoreLastSession.label "Rikthe Sesionin e Mëparshëm">
 
