@@ -383,7 +383,7 @@
 <!ENTITY alignLeftButton.tooltip "Στοίχιση κειμένου μαζί με αριστερό περιθώριο">
 <!ENTITY alignCenterButton.tooltip "Στοίχιση κειμένου στο κέντρο">
 <!ENTITY alignRightButton.tooltip "Στοίχιση κειμένου μαζί με δεξιό περιθώριο">
-<!ENTITY alignJustifyButton.tooltip "Align text along left and right margins">
+<!ENTITY alignJustifyButton.tooltip "Στοίχιση κειμένου μαζί με δεξιό και αριστερό περιθώριο">
 <!ENTITY structSelect.label "Επιλογή">
 <!ENTITY structSelect.accesskey "λ">
 <!ENTITY structRemoveTag.label "Απομάκρυνση ετικέτας">

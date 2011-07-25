@@ -5,7 +5,7 @@
 <!ENTITY savingFiles.title "Κατά την αποθήκευση ή δημοσίευση σελίδων">
 <!ENTITY preserveExisting.label "Διατήρηση μορφοποίησης αρχικού κώδικα">
 <!ENTITY preserveExisting.accesskey "τ">
-<!ENTITY preserveExisting.tooltip "Διατηρεί τα  line breaks και την αρχική μορφοποίηση της σελίδας">
+<!ENTITY preserveExisting.tooltip "Διατηρεί τις αλλαγές γραμμών και την αρχική μορφοποίηση της σελίδας">
 <!ENTITY saveAssociatedFiles.label "Να αποθηκεύονται εικόνες και άλλα σχετικά αρχεία κατά την αποθήκευση σελίδων">
 <!ENTITY saveAssociatedFiles.accesskey "θ">
 <!ENTITY showPublishDialog.label "Να εμφανίζεται πάντα ο διάλογος δημοσίευσης κατά τη δημοσίευση σελίδων">
