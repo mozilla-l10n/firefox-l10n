@@ -1,0 +1,6 @@
+<!ENTITY server.label "Conta: ">
+<!ENTITY server.accesskey "a">
+<!ENTITY virtualFolderListTitle.title        "Seleccionar cartafol(es)">
+<!ENTITY virtualFolderDesc.label       "Seleccione os cartafoles en que buscar: ">
+
+
