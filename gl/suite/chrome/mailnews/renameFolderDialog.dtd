@@ -1,0 +1,5 @@
+<!ENTITY renameFolderDialog.title          "Renomear cartafol">
+<!ENTITY rename.label                      "Introduza o novo nome para o cartafol:">
+<!ENTITY rename.accesskey                  "e">
+<!ENTITY accept.label                      "Renomear">
+<!ENTITY accept.accesskey                  "R">

@@ -1,0 +1,7 @@
+<!ENTITY identityDialog.style "width: 67ch;">
+<!ENTITY identityTitle.label "Configuración das identidades">
+<!ENTITY identityListDesc.label "Configure esta identidade:">
+
+<!ENTITY settingsTab.label       "Configuración">
+<!ENTITY copiesFoldersTab.label "Copias e cartafoles">
+<!ENTITY addressingTab.label    "Edición e enderezos">
