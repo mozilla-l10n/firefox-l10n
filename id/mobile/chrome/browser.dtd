@@ -102,6 +102,7 @@
 <!ENTITY pageactions.saveas.pdf      "Simpan sebagai PDF">
 <!ENTITY pageactions.share.page      "Bagi Laman">
 <!ENTITY pageactions.password.forget "Lupa Sandi">
+<!ENTITY pageactions.quit            "Keluar">
 <!ENTITY pageactions.reset           "Hapus Pengaturan Situs">
 <!ENTITY pageactions.findInPage      "Temukan di Laman">
 <!ENTITY pageactions.search.addNew   "Tambah Mesin Pencari">

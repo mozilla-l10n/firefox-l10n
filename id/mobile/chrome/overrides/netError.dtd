@@ -45,18 +45,13 @@
 <!ENTITY netInterrupt.title "Sambungan terputus">
 <!ENTITY netInterrupt.longDesc "&sharedLongDesc;">
 
-<!-- LOCALIZATION NOTE (netOffline.overrideLongDesc) - This string should
-     indicate that "Work Offline" is a menu item without being too specific,
-     since it could be in either the normal menu (Mac/Linux) or the Firefox button
-     menu (Windows).
--->
-<!ENTITY netOffline.overrideLongDesc "
+<!ENTITY netOffline.title "Mode luring">
+<!ENTITY netOffline.longDesc2 "
 <ul>
   <li>Coba lagi.&brandShortName; akan mencoba untuk membuat sambungan dan memuat ulang laman.</li>
 </ul>
 ">
 
-<!ENTITY netOffline.title "Mode luring">
 <!ENTITY contentEncodingError.title "Kesalahan Pengodean Isi (Content Encoding)">
 <!ENTITY contentEncodingError.longDesc "
 <ul>
@@ -140,6 +135,9 @@
 '>
 <!ENTITY cspFrameAncestorBlocked.title "Diblokir oleh Kebijakan Keamanan Konten">
 <!ENTITY cspFrameAncestorBlocked.longDesc "<p>&brandShortName; mencegah pemuatan laman dengan cara ini karena laman mengandung kebijakan keamanan konten yang tidak mengizinkan hal ini.</p>">
+
+<!ENTITY corruptedContentError.title "Galat Konten Rusak">
+<!ENTITY corruptedContentError.longDesc "<p>Laman yang akan dibuka tidak dapat ditampilkan karena ada terdeteksi galat pada pengiriman data.</p><ul><li>Mohon hubungi pemilik situs web mengenai masalah ini.</li></ul>">
 
 <!ENTITY securityOverride.linkText "Atau dapat ditambahkan pada pengecualian…">
 <!ENTITY securityOverride.getMeOutOfHereButton "Kabur!">
