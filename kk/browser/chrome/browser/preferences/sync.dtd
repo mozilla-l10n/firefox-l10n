@@ -13,11 +13,11 @@
 <!ENTITY manageAccount.label          "Тіркелгіні басқару">
 <!ENTITY manageAccount.accesskey      "к">
 <!ENTITY viewQuota.label              "Квотаны қарау">
-<!ENTITY changePassword.label         "Парольді өзгерту">
+<!ENTITY changePassword2.label        "Парольді өзгерту…">
 <!ENTITY mySyncKey.label              "Менің синхрондау кілтім">
-<!ENTITY resetSync.label              "Синхрондауды тастау">
+<!ENTITY resetSync2.label             "Синхрондауды тастау…">
+
 <!ENTITY addDevice.label              "Құрылғыны қосу">
-<!ENTITY deactivateDevice.label       "Бұл құрылғыны белсенді емес қылу">
 
 <!-- Sync Settings -->
 <!ENTITY syncComputerName.label       "Компьютер аты:">
