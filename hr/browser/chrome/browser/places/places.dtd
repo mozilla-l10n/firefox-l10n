@@ -39,10 +39,12 @@
 <!ENTITY cmd.findCurrent.label          "Potraži u trenutnoj kolekciji…">
 <!ENTITY cmd.findCurrent.accesskey      "k">
 
-<!ENTITY cmd.exportHTML.label           "Izvezi HTML…">
-<!ENTITY cmd.exportHTML.accesskey       "I">
-<!ENTITY cmd.importHTML.label           "Uvezi HTML…">
-<!ENTITY cmd.importHTML.accesskey       "U">
+<!ENTITY exportBookmarksToHTML.label       "Izvezi zabilješke u HTML…">
+<!ENTITY exportBookmarksToHTML.accesskey   "E">
+<!ENTITY importOtherBrowser.label          "Uvezi podatke iz drugog web preglednika…">
+<!ENTITY importOtherBrowser.accesskey      "a">
+<!ENTITY importBookmarksFromHTML.label     "Uvezi zabilješke iz HTML-a…">
+<!ENTITY importBookmarksFromHTML.accesskey "I">
 
 <!ENTITY cmd.backup.label               "Kopija…">
 <!ENTITY cmd.backup.accesskey           "K">

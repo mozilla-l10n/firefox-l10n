@@ -36,10 +36,11 @@
 <!ENTITY netInterrupt.longDesc "&sharedLongDesc;">
 
 <!ENTITY netOffline.title "Izvanmrežni rad">
-<!ENTITY netOffline.longDesc "
+<!ENTITY netOffline.longDesc2 "
 <ul>
-  <li>Odznačite &quot;Izvanmrežni rad&quot; u Datoteka izborniku i pokušajte ponovo.</li>
-</ul>">
+  <li>Kliknite na &quot;Pokušaj ponovno&quot; da biste uključili mrežni način rada i ponovno učitali stranicu.</li>
+</ul>
+">
 
 <!-- LOCALIZATION NOTE (netOffline.overrideLongDesc) - This string should
      indicate that "Work Offline" is a menu item without being too specific,
@@ -151,6 +152,9 @@ netError.xhtml) because it exposes functionality specific to firefox. -->
 <xul:button xmlns:xul='http://www.mozilla.org/keymaster/gatekeeper/there.is.only.xul' id='getMeOutOfHereButton' label='&securityOverride.getMeOutOfHereButton;'/>
 <xul:button xmlns:xul='http://www.mozilla.org/keymaster/gatekeeper/there.is.only.xul' id='exceptionDialogButton' label='&securityOverride.exceptionButtonLabel;'/>
 ">
+
+<!ENTITY corruptedContentError.title "Greška oštećenog sadržajaCorrupted Content Error">
+<!ENTITY corruptedContentError.longDesc "<p>Stranicu kojoj pokušavate pristupiti nije moguće prikazati zbog greške u prijenosu podataka.</p><ul><li>Obavijestite vlasnike web stranice o ovom problemu.</li></ul>">
 
 <!-- LOCALIZATION NOTE (securityOverride.warningContent) - Do not translate the
 contents of the <button> tags. It uses strings already defined above. The

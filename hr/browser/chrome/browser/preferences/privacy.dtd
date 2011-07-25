@@ -49,8 +49,8 @@
 <!ENTITY  rememberActions.removeCookies.label "ukloniti osobne kolačiće">
 <!ENTITY  rememberActions.post.label          ".">
 
-<!ENTITY  privateBrowsingPermanent.label "Trajni privatni način pretraživanja">
-<!ENTITY  privateBrowsingPermanent.accesskey "T">
+<!ENTITY  privateBrowsingPermanent2.label "Uvijek koristi privatni način pretraživanja">
+<!ENTITY  privateBrowsingPermanent2.accesskey "p">
 
 <!ENTITY  rememberHistory.label      "Zapamti povijest pretraživanja">
 <!ENTITY  rememberHistory.accesskey  "p">

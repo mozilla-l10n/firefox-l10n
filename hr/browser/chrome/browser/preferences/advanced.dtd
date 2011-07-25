@@ -29,6 +29,8 @@
 <!ENTITY alwaysCheckDefault.accesskey    "z">
 <!ENTITY checkNow.label                  "Provjeri sada">
 <!ENTITY checkNow.accesskey              "s">
+<!ENTITY submitTelemetry.label           "Pošalji informacije o performansama">
+<!ENTITY submitTelemetry.accesskey       "P">
 
 <!ENTITY networkTab.label                "Mreža">
 
