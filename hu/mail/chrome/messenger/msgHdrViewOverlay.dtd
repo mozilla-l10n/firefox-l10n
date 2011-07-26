@@ -99,20 +99,45 @@
 <!ENTITY otherActionsPrint.label "nyomtatás...">
 <!ENTITY otherActionsPrint.accesskey "n">
 
+<!-- Attachment context menu items -->
 <!ENTITY openAttachmentCmd.label    "Megnyitás">
 <!ENTITY openAttachmentCmd.accesskey    "M">
 <!ENTITY saveAsAttachmentCmd.label    "Mentés másként...">
 <!ENTITY saveAsAttachmentCmd.accesskey    "e">
 <!ENTITY detachAttachmentCmd.label    "Leválasztás...">
+<!ENTITY detachAttachmentCmd.accesskey    "L">
 <!ENTITY deleteAttachmentCmd.label    "Törlés">
+<!ENTITY deleteAttachmentCmd.accesskey    "T">
 <!ENTITY openAllAttachmentsCmd.label    "Összes megnyitása...">
 <!ENTITY openAllAttachmentsCmd.accesskey    "m">
 <!ENTITY saveAllAttachmentsCmd.label    "Összes mentése...">
 <!ENTITY saveAllAttachmentsCmd.accesskey    "e">
 <!ENTITY detachAllAttachmentsCmd.label    "Összes leválasztása...">
-<!ENTITY detachAllAttachmentsCmd.accesskey    "l">
+<!ENTITY detachAllAttachmentsCmd.accesskey    "s">
 <!ENTITY deleteAllAttachmentsCmd.label    "Összes törlése...">
 <!ENTITY deleteAllAttachmentsCmd.accesskey    "t">
+
+<!-- Attachment toolbar items -->
+<!ENTITY saveAttachmentButton.label       "mentés">
+<!ENTITY saveAttachmentButton.tooltip     "csatolt fálj mentése">
+<!ENTITY saveAllAttachmentsButton.label   "összes mentése">
+<!ENTITY saveAllAttachmentsButton.tooltip "összes csatolt fájl mentése">
+<!ENTITY openAttachmentMenuItem.label     "megnyitás">
+<!ENTITY openAttachmentMenuItem.accesskey    "m">
+<!ENTITY saveAsAttachmentMenuItem.label    "mentés másként...">
+<!ENTITY saveAsAttachmentMenuItem.accesskey    "s">
+<!ENTITY detachAttachmentMenuItem.label    "leválasztás...">
+<!ENTITY detachAttachmentMenuItem.accesskey    "l">
+<!ENTITY deleteAttachmentMenuItem.label    "törlés">
+<!ENTITY deleteAttachmentMenuItem.accesskey    "t">
+<!ENTITY openAllAttachmentsMenuItem.label    "összes megnyitása...">
+<!ENTITY openAllAttachmentsMenuItem.accesskey    "z">
+<!ENTITY saveAllAttachmentsMenuItem.label    "összes mentése...">
+<!ENTITY saveAllAttachmentsMenuItem.accesskey    "n">
+<!ENTITY detachAllAttachmentsMenuItem.label    "összes leválasztása...">
+<!ENTITY detachAllAttachmentsMenuItem.accesskey    "v">
+<!ENTITY deleteAllAttachmentsMenuItem.label    "összes törlése...">
+<!ENTITY deleteAllAttachmentsMenuItem.accesskey    "r">
 
 <!ENTITY copyLinkCmd.label        "Hivatkozás címének másolása">
 <!ENTITY copyLinkCmd.accesskey    "v">
