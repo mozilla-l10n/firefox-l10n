@@ -1,0 +1,14 @@
+<!ENTITY feedbackHeader2.label          "Εργαλεία αποστολής σχολίων">
+
+<!ENTITY feedback.communicate.title     "Επικοινωνήστε μαζί μας!">
+<!ENTITY feedback.feedback.title        "Στείλτε σχόλια">
+<!ENTITY feedback.feedback.good         "Καλή">
+<!ENTITY feedback.feedback.bad          "Κακή">
+
+<!ENTITY feedback.information.title     "Περισσότερες πληροφορίες">
+<!ENTITY feedback.about.title           "Πληροφορίες για αυτή την Beta">
+<!ENTITY feedback.about.button          "Μετάβαση σε σελίδα">
+
+<!ENTITY feedback.tools.title           "Εργαλεία">
+<!ENTITY feedback.forceCompat.title     "Εξαναγκασμός συμβατότητας προσθέτων">
+<!ENTITY feedback.errorConsole.title    "Ενεργοποίηση της κονσόλας σφαλμάτων">

@@ -102,6 +102,7 @@
 <!ENTITY pageactions.search.addNew   "Προσθήκη μηχανής αναζήτησης">
 <!ENTITY pageactions.charEncoding    "Κωδικοποίηση χαρακτήρων">
 
-
+<!ENTITY contextSaveLink.label        "Αποθήκευση δεσμού">
+<!ENTITY pageactions.quit            "Κλείσιμο">
 
 
