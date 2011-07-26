@@ -48,7 +48,10 @@
 <!ENTITY CreateFilterFrom.label            "Sukurti filtrą…">
 <!ENTITY CreateFilterFrom.accesskey        "f">
 <!ENTITY copyLinkCmd.label                 "Kopijuoti saito adresą">
-<!ENTITY copyLinkCmd.accesskey             "a">
+<!ENTITY copyLinkCmd.accesskey             "K">
 <!ENTITY CopyMessageId.label               "Kopijuoti laiško ID">
+<!ENTITY CopyMessageId.accesskey           "K">
 <!ENTITY OpenMessageForMsgId.label         "Atverti laišką su šiuo ID">
+<!ENTITY OpenMessageForMsgId.accesskey     "A">
 <!ENTITY OpenBrowserWithMsgId.label        "Atverti naršyklę su laišku, kurio ID">
+<!ENTITY OpenBrowserWithMsgId.accesskey    "n">
