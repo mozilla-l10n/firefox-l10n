@@ -193,12 +193,16 @@
 <!ENTITY quoteButton.tooltip "Előző üzenet idézése"> 
 <!ENTITY addressButton.tooltip "Egy címzett kiválasztása a címjegyzékből"> 
 <!ENTITY attachButton.tooltip "Melléklet hozzáadása"> 
+<!ENTITY spellingButton.tooltip "A kijelölt rész vagy az egész üzenet helyesírásának ellenőrzése">
 <!ENTITY saveButton.tooltip "Az üzenet mentése"> 
 <!ENTITY cutButton.tooltip              "Kivágás">
 <!ENTITY copyButton.tooltip             "Másolás">
 <!ENTITY pasteButton.tooltip            "Beillesztés">
 
 <!-- Headers -->
+<!--LOCALIZATION NOTE headersSpace.style is for aligning  the From:, To: and
+    Subject: rows. It should be larger than the largest Header label  -->
+<!ENTITY headersSpace.style "width: 16em;">
 <!ENTITY fromAddr.label "Feladó:">
 <!ENTITY fromAddr.accesskey "a">
 <!ENTITY toAddr.label "Címzett:"> 
@@ -263,6 +267,10 @@
 <!ENTITY attachFile.accesskey "F">
 <!ENTITY attachPage.label "Weboldal csatolása...">
 <!ENTITY attachPage.accesskey "W">
+
+<!-- Spell checker context menu items -->
+<!ENTITY spellAddDictionaries.label "Szótárak hozzáadása...">
+<!ENTITY spellAddDictionaries.accesskey "S">
 
 <!-- Title for the address picker panel -->
 <!ENTITY addressesSidebarTitle.label "Kapcsolatok">

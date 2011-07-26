@@ -53,7 +53,7 @@
 <!ENTITY netInterrupt.longDesc "&sharedLongDesc;">
 
 <!ENTITY netOffline.title "Kapcsolat nélküli mód">
-<!ENTITY netOffline.overrideLongDesc "
+<!ENTITY netOffline.longDesc2 "
 <ul>
   <li>Próbálja újra. A &brandShortName; megpróbál kapcsolatot nyitni, és újra letölteni az oldalt.</li>
 </ul>
@@ -162,6 +162,9 @@
 
 <!ENTITY cspFrameAncestorBlocked.title "Blokkolva a tartalombiztonsági irányelv szerint">
 <!ENTITY cspFrameAncestorBlocked.longDesc "<p>A &brandShortName; nem engedte meg, hogy az oldalt ezen a módon betöltse, mert az oldal tartalombiztonsági irányelve ezt tiltja.</p>">
+
+<!ENTITY corruptedContentError.title "Sérült tartalom hiba">
+<!ENTITY corruptedContentError.longDesc "<p>A megtekinteni kívánt oldal nem jeleníthető meg, mert az adatátvitel közben hiba történt.</p><ul><li>Lépjen kapcsolatba a webhely üzemeltetőjével, és értesítse a problémáról.</li></ul>">
 
 <!ENTITY securityOverride.linkText "Vagy hozzáadhat egy kivételt...">
 <!ENTITY securityOverride.getMeOutOfHereButton "Oldal elhagyása">

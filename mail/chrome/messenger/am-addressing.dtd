@@ -32,6 +32,6 @@
 <!ENTITY belowText.label                      "az idézet alá (javasolt)">
 <!ENTITY aboveText.label                      "a válasz alá (az idézet fölé)">
 <!ENTITY includeSigOnReply.label              "Aláírás a válaszoknál">
-<!ENTITY includeSigOnReply.accesskey          "v">
+<!ENTITY includeSigOnReply.accesskey          "A">
 <!ENTITY includeSigOnForward.label            "Aláírás a továbbításoknál">
 <!ENTITY includeSigOnForward.accesskey        "t">

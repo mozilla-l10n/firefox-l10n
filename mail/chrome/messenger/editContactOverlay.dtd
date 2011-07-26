@@ -15,3 +15,5 @@
 
 <!ENTITY editContactPanelDone.label "Kész">
 <!ENTITY editContactPanelDone.accesskey "K">
+
+<!ENTITY contactMoveDisabledWarning.description "Nem módosíthatja a címjegyzéket, mert a név egy levelezőlistán is rajta van.">

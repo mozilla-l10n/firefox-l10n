@@ -25,8 +25,7 @@
 <!ENTITY netInterrupt.longDesc "<p>A böngésző sikeresen csatlakozott, de a kapcsolat megszakadt az adatátvitel közben. Próbálja újra később.</p><ul><li>Más webhelyeket sem képes elérni? Ellenőrizze a számítógép hálózati kapcsolatát.</li><li>Továbbra is fennáll a probléma? Kérjen segítséget a rendszergazdától vagy az internetszolgáltatójától.</li></ul>">
 
 <!ENTITY netOffline.title "Kapcsolat nélküli mód">
-<!ENTITY netOffline.longDesc "<p>A böngésző kapcsolat nélküli módban van, ezért nem tud csatlakozni a kért elemhez.</p><ul><li>Csatlakoztatva van a számítógép a hálózathoz?</li><li>Lépjen ki a kapcsolat nélküli üzemmódból, és próbálja meg újra.</li></ul>">
-<!ENTITY netOffline.overrideLongDesc "<p>A böngésző kapcsolat nélküli módban van, ezért nem tud csatlakozni a kért elemhez.</p><ul><li>Csatlakoztatva van a számítógép a hálózathoz?</li><li>Lépjen ki a kapcsolat nélküli üzemmódból, és próbálja meg újra.</li></ul>">
+<!ENTITY netOffline.longDesc2 "<p>A böngésző kapcsolat nélküli módban van, ezért nem tud csatlakozni a kért elemhez.</p><ul><li>Csatlakoztatva van a számítógép a hálózathoz?</li><li>Nyomja meg a &quot;Próbálja újra&quot; gombot az online módba váltáshoz és az oldal újratöltéséhez.</li></ul>">
 
 <!ENTITY contentEncodingError.title "Tartalomkódolási hiba">
 <!ENTITY contentEncodingError.longDesc "<p>A megtekinteni kívánt oldal nem jeleníthető meg, mert érvénytelen vagy nem támogatott tömörítési formátumot használ.</p><ul><li>Lépjen kapcsolatba a webhely üzemeltetőjével, és értesítse a problémáról.</li></ul>">
@@ -83,6 +82,9 @@
 
 <!ENTITY cspFrameAncestorBlocked.title "Blokkolva a tartalombiztonsági irányelv szerint">
 <!ENTITY cspFrameAncestorBlocked.longDesc "<p>A böngésző nem engedte meg, hogy az oldalt ezen a módon betöltse, mert az oldal tartalombiztonsági irányelve ezt tiltja.</p>">
+
+<!ENTITY corruptedContentError.title "Sérült tartalom hiba">
+<!ENTITY corruptedContentError.longDesc "<p>A megtekinteni kívánt oldal nem jeleníthető meg, mert az adatátvitel közben hiba történt.</p><ul><li>Lépjen kapcsolatba a webhely üzemeltetőjével, és értesítse a problémáról.</li></ul>">
 
 <!ENTITY remoteXUL.title "Távoli XUL">
 <!ENTITY remoteXUL.longDesc "<p><ul><li>Értesítse a webhely tulajdonosait erről a problémáról.</li></ul></p>">

@@ -28,10 +28,12 @@
 <!ENTITY cmd.findCurrent.label          "Keresés az aktuális gyűjteményben...">
 <!ENTITY cmd.findCurrent.accesskey      "e">
 
-<!ENTITY cmd.exportHTML.label           "HTML exportálása...">
-<!ENTITY cmd.exportHTML.accesskey       "e">
-<!ENTITY cmd.importHTML.label           "HTML importálása...">
-<!ENTITY cmd.importHTML.accesskey       "i">
+<!ENTITY importBookmarksFromHTML.label     "Könyvjelzők importálása HTML-ből...">
+<!ENTITY importBookmarksFromHTML.accesskey "i">
+<!ENTITY exportBookmarksToHTML.label       "Könyvjelzők exportálása HTML-be...">
+<!ENTITY exportBookmarksToHTML.accesskey   "e">
+<!ENTITY importOtherBrowser.label          "Adatok importálása másik böngészőből...">
+<!ENTITY importOtherBrowser.accesskey      "A">
 
 <!ENTITY cmd.backup.label               "Mentés...">
 <!ENTITY cmd.backup.accesskey           "M">
