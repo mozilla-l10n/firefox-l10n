@@ -15,3 +15,5 @@
 <!ENTITY textZoomOnly.accesskey "s">
 <!ENTITY blockAutoRefresh.label "Advertirme cuando los sitios web intenten redirigir o recargar la página">
 <!ENTITY blockAutoRefresh.accesskey "A">
+<!ENTITY siteSpecific.label "Recordar los niveles de ampliación para cada sitio">
+<!ENTITY siteSpecific.accesskey "d">
