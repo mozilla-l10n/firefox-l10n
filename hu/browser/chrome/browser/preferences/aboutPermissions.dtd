@@ -22,9 +22,9 @@
 <!ENTITY password.manage                 "Jelszókezelő...">
 
 <!ENTITY cookie.label                    "Süti elhelyezése">
-<!ENTITY cookie.clear                    "Sütik törlése">
+<!ENTITY cookie.remove                   "Sütik törlése">
 <!ENTITY cookie.manage                   "Sütikezelő...">
-<!ENTITY cookie.clearAll                 "Összes süti törlése">
+<!ENTITY cookie.removeAll                "Összes süti törlése">
 
 <!ENTITY geo.label                       "Földrajzi hely adatainak megosztása">
 

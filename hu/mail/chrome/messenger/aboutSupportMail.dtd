@@ -7,6 +7,7 @@
 <!ENTITY aboutSupport.accountsName "Név">
 <!ENTITY aboutSupport.accountsIncomingServer "Bejövő üzeneteket kezelő kiszolgáló">
 <!ENTITY aboutSupport.accountsOutgoingServers "Kimenő üzeneteket kezelő kiszolgálók">
+<!ENTITY aboutSupport.accountsServerName "Név">
 <!ENTITY aboutSupport.accountsConnSecurity "Kapcsolat biztonsága">
 <!ENTITY aboutSupport.accountsAuthMethod "Hitelesítési módszer">
 <!ENTITY aboutSupport.accountsDefault "Alapbeállítás?">

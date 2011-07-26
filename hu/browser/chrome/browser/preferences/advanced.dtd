@@ -29,6 +29,8 @@
 <!ENTITY checkNow.accesskey              "E">
 <!ENTITY submitCrashes.label             "Hibajelentés küldése">
 <!ENTITY submitCrashes.accesskey         "H">
+<!ENTITY submitTelemetry.label           "Teljesítményadatok küldése">
+<!ENTITY submitTelemetry.accesskey       "T">
 
 <!ENTITY networkTab.label                "Hálózat">
 

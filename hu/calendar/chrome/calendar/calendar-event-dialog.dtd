@@ -378,6 +378,10 @@
 <!-- Read-Only dialog -->
 <!ENTITY read.only.general.label         "Általános">
 <!ENTITY read.only.title.label           "Cím:">
+<!ENTITY read.only.event.start.label     "Kezdési dátum:">
+<!ENTITY read.only.task.start.label      "Kezdési dátum:">
+<!ENTITY read.only.event.end.label       "Befejezési dátum:">
+<!ENTITY read.only.task.due.label        "Határidő:">
 <!ENTITY read.only.repeat.label          "Ismétlés:">
 <!ENTITY read.only.location.label        "Hely:">
 <!ENTITY read.only.category.label        "Kategória:">
