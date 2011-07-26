@@ -52,9 +52,9 @@
 <!ENTITY netInterrupt.longDesc "&sharedLongDesc;">
 
 <!ENTITY netOffline.title "Modo desligado">
-<!ENTITY netOffline.longDesc "
+<!ENTITY netOffline.longDesc2 "
 <ul>
-  <li>Coloque o &brandShortName; no modo ligado, e tente de novo.</li>
+  <li>>Pressione &quot;Tentar de novo&quot; para ficar ligado e recarregar a página.</li>
 </ul>
 ">
 
@@ -165,14 +165,17 @@ temporário e pode tentar mais tarde.</li>
 <!ENTITY cspFrameAncestorBlocked.title "Bloqueado pela política de segurança de conteúdos">
 <!ENTITY cspFrameAncestorBlocked.longDesc "O <p>&brandShortName; impediu o carregamento da página desta maneira porque a página tem uma política de segurança de conteúdos que a impede.</p>">
 
+<!ENTITY corruptedContentError.title "Erro de conteúdo corrompido">
+<!ENTITY corruptedContentError.longDesc "<p>O conteúdo que está a tentar visualizar não pode ser apresentado porque foi detectado um erro na transmissão de dados.</p><ul><li>Por favor contacte os donos para os informar sobre este problema.</li></ul>">
+
 <!ENTITY securityOverride.linkText "Ou pode adicionar uma excepção...">
 <!ENTITY securityOverride.getMeOutOfHereButton "Tirem-me daqui!">
 <!ENTITY securityOverride.exceptionButtonLabel "Adicionar excepção...">
 
-<!-- LOCALIZATION NOTE (securityOverride.warningText) - Do not translate the
-contents of the <xul:button> tags.  The only language content is the label= field,
-which uses strings already defined above. The button is included here (instead of
-netError.xhtml) because it exposes functionality specific to thunderbird. -->
+<!-- LOCALIZATION NOTE (securityOverride.warningContent) - Do not translate the
+contents of the <button> tags. It uses strings already defined above. The
+button is included here (instead of netError.xhtml) because it exposes
+functionality specific to thunderbird. -->
 
 <!ENTITY securityOverride.warningContent "
 <p>Não deve adicionar uma excepção se estiver a utilizar uma ligação à Internet em que não confie plenamente ou se não está habituado a ver um aviso deste servidor.</p>
