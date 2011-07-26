@@ -38,9 +38,9 @@
 <!ENTITY netInterrupt.title "La connessione è stata interrotta">
 <!ENTITY netInterrupt.longDesc "&sharedLongDesc;">
 <!ENTITY netOffline.title "Non in linea">
-<!ENTITY netOffline.longDesc "
+<!ENTITY netOffline.longDesc2 "
 <ul>
-  <li>Rimettere  &brandShortName; in modalità in linea quindi riprovare.</li>
+  <li>Premere &quot;Riprovare&quot; per passare alla modalità online e ricaricare la pagina.</li>
 </ul>
 ">
 <!ENTITY contentEncodingError.title "Errore di codifica del contenuto">
@@ -111,6 +111,8 @@
 <!ENTITY phishingBlocked.longDesc "<p>L'inserimento di informazioni personali in questa pagina può dare origine a furti d'identità o altre frodi.</p><p>Questo tipo di contraffazione viene sfruttato nei cosiddetti attacchi phishing, dove vengono utilizzate in modo fraudolento pagine web ed e-mail per imitare fonti di cui solitamente ci si fida.</p>">
 <!ENTITY cspFrameAncestorBlocked.title "Bloccato dai criteri di protezione dei contenuti">
 <!ENTITY cspFrameAncestorBlocked.longDesc "<p>&brandShortName; ha impedito a questa pagina di caricarsi in questo modo perché la pagina ha una politica di contenuti di sicurezza che lo impedisce. </p>">
+<!ENTITY corruptedContentError.title "Errore: contenuto corrotto">
+<!ENTITY corruptedContentError.longDesc "<p>Il contenuto che si sta cercando di visualizzare non può essere mostrato a causa di un errore di trasmissione dati.</p><ul><li>Contattare i proprietari per informarli del problema.</li></ul>">
 <!ENTITY securityOverride.linkText "Oppure è possibile aggiungere un'eccezione">
 <!ENTITY securityOverride.getMeOutOfHereButton "Allontanarsi da questo sito">
 <!ENTITY securityOverride.exceptionButtonLabel "Aggiungi eccezione…">
