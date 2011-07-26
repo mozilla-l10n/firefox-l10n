@@ -4,7 +4,7 @@
 <!-- Specific error messages -->
 
 <!ENTITY connectionFailure.title "Falhou ao ligar">
-<!ENTITY connectionFailure.longDesc "<p>Apesar do sítio parecer válido, o navegador foi incapaz de estabelecer uma ligação.</p><ul><li>Pode o sítio estar temporariamente indisponível? Tente novamente mais tarde.</li><li>Não consegue navegar em outros sítios? Verifique a ligação do computador à  rede.</li><li>O seu computador ou rede estão protegidos por uma firewall ou proxy? Definições incorrectas podem interferir com a navegação Web.</li></ul>">
+<!ENTITY connectionFailure.longDesc "<p>Apesar do sítio parecer válido, o navegador foi incapaz de estabelecer uma ligação.</p><ul><li>Pode o sítio estar temporariamente indisponível? Tente novamente mais tarde.</li><li>Não consegue navegar em outros sítios? Verifique a ligação do computador à  rede.</li><li>O seu computador ou rede estão protegidos por uma firewall ou proxy? Definições incorrectas podem interferir com a navegação Web.</li></ul>">
 
 <!ENTITY deniedPortAccess.title "Porta restringida por razões de segurança">
 <!ENTITY deniedPortAccess.longDesc "<p>O endereço especifica uma porta (exemplo: <q>mozilla.org:80</q> para a porta 80 no mozilla.org) normalmente utilizada para <em>outros</em> fins para além de navegação Web. O navegador cancelou o pedido para sua protecção e segurança.</p>">
@@ -25,8 +25,7 @@
 <!ENTITY netInterrupt.longDesc "<p>O navegador ligou-se com sucesso, mas a ligação foi interrompida enquanto a informação estava a ser transferida. Por favor tente novamente.</p><ul><li>Não consegue navegar em outros sítios? Verifique a ligação do computador à rede.</li><li>Continua a ter problemas? Consulte o seu administrador de rede ou fornecedor de Internet para assistência.</li></ul>">
 
 <!ENTITY netOffline.title "Modo desligado">
-<!ENTITY netOffline.longDesc "<p>O navegador está a operar no modo desligado e não pode ligar ao item requerido.</p><ul><li>O computador está ligado a uma rede activa?</li><li>Coloque o navegador no modo ligado e tente novamente.</li></ul>">
-<!ENTITY netOffline.overrideLongDesc "<p>O navegador está a funcionar no modo desligado e não pode ligar-se ao item pedido.</p><ul><li>O computador está ligado a uma rede?</li><li>Coloque o navegador no modo ligado e tente novamente.</li></ul>">
+<!ENTITY netOffline.longDesc2 "<p>O navegador está a operar no modo desligado e não pode ligar ao item requerido.</p><ul><li>O computador está ligado a uma rede activa?</li><li>Coloque o navegador no modo ligado e tente novamente.</li></ul>">
 
 <!ENTITY contentEncodingError.title "Erro de Codificação de Conteúdo">
 <!ENTITY contentEncodingError.longDesc "<p>A página que está a tentar ver não pode ser mostrado porque utiliza uma forma de compressão inválida ou não suportada.</p><ul><li>Por favor contacte os donos do sítio web para os informar deste problemas.</li></ul>">
@@ -42,7 +41,7 @@
 <!ENTITY netReset.longDesc "<p>A ligação à rede foi interrompida enquanto era negociada uma ligação. Por favor tente novamente.</p>">
 
 <!ENTITY netTimeout.title "Tempo de rede excedido">
-<!ENTITY netTimeout.longDesc "<p>O sítio requerido não respondeu ao pedido de ligação e o navegador deixou de esperar por uma resposta.</p><ul><li>O servidor poderá estar sobrecarregado ou temporariamente indisponível? Tente novamente mais tarde.</li><li>Não consegue navegar noutros sítios? Verifique a ligação do computador à rede.</li><li>Está o seu computador ou rede protegido por uma firewall ou proxy? Definições incorrectas podem interferir com a navegação Web.</li><li>Continua a ter problemas? Consulte o seu administrador de rede ou fornecedor de Internet para assistência.</li></ul>">
+<!ENTITY netTimeout.longDesc "<p>O sítio requerido não respondeu ao pedido de ligação e o navegador deixou de esperar por uma resposta.</p><ul><li>O servidor poderá estar sobrecarregado ou temporariamente indisponível? Tente novamente mais tarde.</li><li>Não consegue navegar noutros sítios? Verifique a ligação do computador à rede.</li><li>Está o seu computador ou rede protegido por uma firewall ou proxy? Definições incorrectas podem interferir com a navegação Web.</li><li>Continua a ter problemas? Consulte o seu administrador de rede ou fornecedor de Internet para assistência.</li></ul>">
 
 <!ENTITY protocolNotFound.title "Protocolo desconhecido">
 <!ENTITY protocolNotFound.longDesc "<p>O endereço especifica um protocolo (exemplo: <q>wxyz://</q>) que o navegador não reconhece, logo o navegador é incapaz de se ligar correctamente ao sítio.</p><ul><li>Está a tentar aceder a multimédia ou outros serviços não baseados em texto? Procure por requisitos extra no sítio.</li><li>Alguns protocolos podem necessitar de software de terceiros ou de plugins antes de o navegador os poder reconhecer.</li></ul>">
@@ -84,11 +83,15 @@
 <!ENTITY cspFrameAncestorBlocked.title "Bloqueado pela política de segurança de conteúdo">
 <!ENTITY cspFrameAncestorBlocked.longDesc "<p>O navegador preveniu esta página de carregar desta maneira porque a página tem uma política de segurança de conteúdos que a desactiva.</p>">
 
-<!-- Include app-specific error messages - do not change this in localization!
-     Some applications might override netErrorApp.dtd with their specific version,
-     this inclusion needs to be intact for that approach to work correctly. -->
-<!ENTITY % netErrorAppDTD SYSTEM "chrome://global/locale/netErrorApp.dtd">
-%netErrorAppDTD;
+<!ENTITY corruptedContentError.title "Erro de conteúdo corrompido">
+<!ENTITY corruptedContentError.longDesc "<p>A página que está a tentar visualizar não pode ser apresentada porque foi detectado um erro na transmissão de dados.</p><ul><li>Por favor, contacte o dono do sítio web para o informar sobre este problema.</li></ul>">
 
 <!ENTITY remoteXUL.title "XUL remoto">
 <!ENTITY remoteXUL.longDesc "<p><ul><li>Por favor contacte os responsáveis do sítio web para os informar sobre este problema.</li></ul></p>">
+
+<!-- Include app-specific error messages - do not change this in localization!
+     Some applications might override netErrorApp.dtd with their specific version,
+     this inclusion needs to be intact for that approach to work correctly.
+     Please, try to keep this at the end of the file. -->
+<!ENTITY % netErrorAppDTD SYSTEM "chrome://global/locale/netErrorApp.dtd">
+%netErrorAppDTD;
