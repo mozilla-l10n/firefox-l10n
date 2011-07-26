@@ -208,6 +208,8 @@
 <!ENTITY bodySanitized.accesskey "S">
 <!ENTITY bodyAsPlaintext.label "Texto sin formato">
 <!ENTITY bodyAsPlaintext.accesskey "T">
+<!ENTITY bodyAllParts.label "Todas las partes del cuerpo">
+<!ENTITY bodyAllParts.accesskey "T">
 <!ENTITY bodyMenuFeed.label "Descargar cuerpo del mensaje como">
 <!ENTITY bodyMenuFeed.accesskey "u">
 <!ENTITY viewFeedWebPage.label "Página web">
