@@ -7,7 +7,6 @@
 <!ENTITY editBookmarkOverlay.siteLocation.label              "Localização do Sítio:">
 <!ENTITY editBookmarkOverlay.siteLocation.accesskey          "S">
 <!ENTITY editBookmarkOverlay.folder.label                    "Pasta:">
-<!ENTITY editBookmarkOverlay.folder.accesskey                "P">
 <!ENTITY editBookmarkOverlay.foldersExpanderDown.tooltip     "Mostrar todas as pastas de marcadores">
 <!ENTITY editBookmarkOverlay.expanderUp.tooltip              "Esconder">
 <!ENTITY editBookmarkOverlay.tags.label                      "Etiquetas:">
