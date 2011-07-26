@@ -1,4 +1,4 @@
-﻿<!-- Entities for AccountWizard -->
+<!-- Entities for AccountWizard -->
 
 <!ENTITY windowTitle.label "Assistente de Configuração de Conta">
 <!ENTITY accountWizard.size "width: 55em; height: 44em;">
@@ -54,6 +54,8 @@
 <!-- LOCALIZATION NOTE (popType.label) : Do not translate "POP" in below line -->
 <!ENTITY popType.label "POP">
 <!ENTITY popType.accesskey "P">
+<!ENTITY leaveMsgsOnSrvr.label "Deixar mensagens no servidor">
+<!ENTITY leaveMsgsOnSrvr.accesskey "x">
 
 <!-- LOCALIZATION NOTE (haveSmtp1.prefix and haveSmtp1.suffix) : Do not translate "SMTP" and "&quot;" in
      these variables. Also, translate haveSmtp1.prefix and haveSmtp1.suffix as a single sentence, inserting
