@@ -17,3 +17,5 @@
 <!ENTITY textZoomOnly.accesskey                 "Z">
 <!ENTITY blockAutoRefresh.label                 "Avertir lorsque des sites essaient de rediriger ou recharger la page">
 <!ENTITY blockAutoRefresh.accesskey             "v">
+<!ENTITY siteSpecific.label                     "Retenir les niveaux de zoom pour chaque site">
+<!ENTITY siteSpecific.accesskey                 "x">
