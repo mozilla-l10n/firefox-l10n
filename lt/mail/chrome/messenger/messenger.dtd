@@ -260,6 +260,8 @@
 <!ENTITY bodySanitized.accesskey "a">
 <!ENTITY bodyAsPlaintext.label "Grynasis">
 <!ENTITY bodyAsPlaintext.accesskey "G">
+<!ENTITY bodyAllParts.label "Visos laiško dalys">
+<!ENTITY bodyAllParts.accesskey "V">
 
 <!ENTITY bodyMenuFeed.label "Sklaidos kanalo pranešimo tekstas">
 <!ENTITY bodyMenuFeed.accesskey "t">
