@@ -1,5 +1,5 @@
 <!ENTITY window.title "Szűrés szabályai">
-
+<!ENTITY filterEditorDialog.dimensions "width: 100ch;">
 <!ENTITY filterName.label "Szűrő neve:">
 <!ENTITY filterName.accesskey "z">
 
