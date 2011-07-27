@@ -57,6 +57,8 @@ can reach it easily. -->
 <!ENTITY printCmd.label "Skriv ut …">
 <!ENTITY printCmd.accesskey "u">
 <!ENTITY printCmd.commandkey "p">
+<!ENTITY import.label "Importer …">
+<!ENTITY import.accesskey "I">
 
 <!ENTITY goOfflineCmd.label "Arbeid fråkopla">
 <!ENTITY goOfflineCmd.accesskey "r">
@@ -210,6 +212,19 @@ can reach it easily. -->
 <!ENTITY inspectPanelTitle.label      "HTML">
 <!ENTITY inspectButton.label          "Inspiser">
 <!ENTITY inspectButton.accesskey      "I">
+<!ENTITY inspectNextButton.label      "Neste">
+<!ENTITY inspectNextButton.accesskey  "N">
+<!ENTITY inspectPreviousButton.label  "Førre">
+<!ENTITY inspectPreviousButton.accesskey "F">
+<!ENTITY inspectStyleButton.label     "Stil">
+<!ENTITY inspectStyleButton.accesskey "S">
+<!ENTITY inspectStylePanelTitle.label  "Stil">
+<!-- LOCALIZATION NOTE (inspectObjectButton.label): This button label
+  -  appears on the Inspector's toolbar. It is used to open and close the Object
+  -  panel. There is also a label in inspector.properties for the panel
+  -  titlebar: object.objectPanelTitle. -->
+<!ENTITY inspectObjectButton.label       "Objekt">
+<!ENTITY inspectObjectButton.accesskey   "O">
 
 <!ENTITY getMoreDevtoolsCmd.label        "Hent fleire verktøy">
 <!ENTITY getMoreDevtoolsCmd.accesskey    "H">
