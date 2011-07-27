@@ -93,6 +93,7 @@
 <!ENTITY contextOpenInNewTab.label    "Fosgail an ceangal ann an taba ùr">
 <!ENTITY contextSaveLink.label        "Sàbhail an ceangal">
 <!ENTITY contextSaveImage.label       "Sàbhail an dealbh">
+<!ENTITY contextCopyLink.label        "Dèan lethbhreac dhen dealbh">
 <!ENTITY contextShareLink.label       "Co-roinn an ceangal">
 <!ENTITY contextShareImage.label      "Co-roinn an dealbh">
 <!ENTITY contextBookmarkLink.label    "Dèan comharra-lìn dhen cheangal">
