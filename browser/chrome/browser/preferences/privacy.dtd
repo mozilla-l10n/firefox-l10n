@@ -61,8 +61,8 @@
 <!ENTITY  dontrememberActions.clearHistory.label "uneko historia osoa garbitu">
 <!ENTITY  dontrememberActions.post.label         " nahi duzu.">
 
-<!ENTITY  privateBrowsingPermanent.label "Nabigatze pribatuko modu iraunkorra">
-<!ENTITY  privateBrowsingPermanent.accesskey "b">
+<!ENTITY  privateBrowsingPermanent2.label "Erabili beti nabigatze pribatuko modua">
+<!ENTITY  privateBrowsingPermanent2.accesskey "a">
 
 <!ENTITY  rememberHistory.label      "Gogoratu nabigatze-historia">
 <!ENTITY  rememberHistory.accesskey  "r">

@@ -106,6 +106,7 @@
 <!ENTITY pageactions.saveas.pdf      "Gorde PDF gisa">
 <!ENTITY pageactions.share.page      "Partekatu orria">
 <!ENTITY pageactions.password.forget "Ahaztu pasahitza">
+<!ENTITY pageactions.quit            "Irten">
 <!ENTITY pageactions.reset           "Garbitu gunearen hobespenak">
 <!ENTITY pageactions.findInPage      "Bilatu orrian">
 <!ENTITY pageactions.search.addNew   "Gehitu bilaketa-motorra">

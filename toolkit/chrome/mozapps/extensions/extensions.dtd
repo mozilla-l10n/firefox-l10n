@@ -199,3 +199,5 @@ gehigarri on eta ezagunenetako batzuk agertuko dira proba ditzazun.">
 <!ENTITY eula.width                           "560px">
 <!ENTITY eula.height                          "400px">
 <!ENTITY eula.accept                          "Onartu eta instalatu…">
+
+<!ENTITY settings.path.button.label           "Arakatu…">

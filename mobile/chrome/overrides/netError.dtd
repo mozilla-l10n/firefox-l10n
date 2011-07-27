@@ -41,7 +41,7 @@
 <!ENTITY netInterrupt.longDesc "&sharedLongDesc;">
 
 <!ENTITY netOffline.title "Lineaz kanpo">
-<!ENTITY netOffline.overrideLongDesc "<ul> 
+<!ENTITY netOffline.longDesc2 "<ul> 
 <li>Saiatu berriro. &brandShortName; konexioa irekitzen saiatuko da eta orria berrituko du.</li> 
 </ul>">
 
@@ -118,6 +118,9 @@
 
 <!ENTITY cspFrameAncestorBlocked.title "Edukien segurtasun-politikak blokeatuta">
 <!ENTITY cspFrameAncestorBlocked.longDesc "<p>&brandShortName;(e)k orri hau modu honetan kargatzea eragotzi du onartzen ez den edukien-segurtasun politika duelako.</p>">
+
+<!ENTITY corruptedContentError.title "Hondatutako edukiaren errorea">
+<!ENTITY corruptedContentError.longDesc "<p>Ikusten saiatzen ari zaren orria ezin da erakutsi errore bat detektatu delako datu-transmisioan.</p><ul><li>Jarri harremanetan gunearen arduradunarekin arazo honen berri emateko.</li></ul>">
 
 <!ENTITY securityOverride.linkText "Edo salbuespen bat gehi dezakezu…">
 <!ENTITY securityOverride.getMeOutOfHereButton "Eraman hemendik at!">

@@ -28,10 +28,12 @@
 <!ENTITY cmd.findCurrent.label          "Bilatu uneko bilduman…">
 <!ENTITY cmd.findCurrent.accesskey      "i">
 
-<!ENTITY cmd.exportHTML.label           "Esportatu HTMLa…">
-<!ENTITY cmd.exportHTML.accesskey       "E">
-<!ENTITY cmd.importHTML.label           "Inportatu HTMLa…">
-<!ENTITY cmd.importHTML.accesskey       "I">
+<!ENTITY importBookmarksFromHTML.label     "Inportatu laster-markak HTMLtik…">
+<!ENTITY importBookmarksFromHTML.accesskey "I">
+<!ENTITY exportBookmarksToHTML.label       "Esportatu laster-markak HTMLra…">
+<!ENTITY exportBookmarksToHTML.accesskey   "E">
+<!ENTITY importOtherBrowser.label          "Inportatu datuak beste nabigatzaile batetik…">
+<!ENTITY importOtherBrowser.accesskey      "b">
 
 <!ENTITY cmd.backup.label               "Babeskopia…">
 <!ENTITY cmd.backup.accesskey           "B">

@@ -16,7 +16,10 @@
 <!ENTITY dnsNotFound.longDesc "<ul> <li>Helbidea ondo begiratu mota honetako erroreak ekiditeko: <strong>ww</strong>.adibidea.net <strong>www</strong>.adibidea.net-en ordez</li> <li>Ezin baduzu inolako orririk kargatu, zure ordenagailuaren sare konexioa begiratu.</li> <li>Zure ordenagailua edo sarea firewall edo proxy baten bitartez babestuta badago, ziurtatu &brandShortName; -(e)k Weba nabigatzeko baimenik daukan.</li> </ul>">
 
 <!ENTITY fileNotFound.title "Fitxategia ez da aurkitu">
-<!ENTITY fileNotFound.longDesc "<ul> <li>Fitxategiaren izena birbegiratu ia errorerik daukan.</li> <li>Begiratu ia fitxategia lekuz mugitu, izena aldatu edo ezabatu duten.</li> </ul>">
+<!ENTITY fileNotFound.longDesc "<ul>
+<li>Egiaztatu fitxategi-izenaren kapitalizazioa edo bestelako idazketa-erroreak.</li>
+<li>Egiaztatu ea fitxategia lekuz aldatu, berrizendatu edo ezabatu egin duten.</li>
+</ul>">
 
 
 <!ENTITY generic.title "Iepa.">
@@ -29,21 +32,18 @@
 <!ENTITY netInterrupt.longDesc "&sharedLongDesc;">
 
 <!ENTITY netOffline.title "Lineaz-kanpo">
-<!-- LOCALIZATION NOTE (netOffline.overrideLongDesc) - This string should
-     indicate that "Work Offline" is a menu item without being too specific,
-     since it could be in either the normal menu (Mac/Linux) or the Firefox button
-     menu (Windows).
--->
-<!ENTITY netOffline.overrideLongDesc "<ul> 
-<li>Desgaitu &quot;Lan egin lineaz kanpo&quot; menu-elementua eta saiatu berriz.</li> 
- 
+<!ENTITY netOffline.longDesc2 "<ul> 
+<li>Sakatu &quot;Saiatu berriz&quot; linean jarri eta orria berritzeko.</li> </ul>">
+
+<!ENTITY contentEncodingError.title "Edukien kodeketa-errorea">
+<!ENTITY contentEncodingError.longDesc "<ul>
+<li>Jar zaitez harremanetan webgunearen jabeekin arazo honen berri emateko.</li>
 </ul>">
 
-<!ENTITY contentEncodingError.title "Eduki kodeketa errorea">
-<!ENTITY contentEncodingError.longDesc "<ul> <li>Ipini zaitez webguenaren jabeekin harremanetan arazo honen berri emateko. </li> </ul>">
-
 <!ENTITY unsafeContentType.title "Fitxategi mota EZ-segurua">
-<!ENTITY unsafeContentType.longDesc "<ul> <li>Mesedez harremanetan ipini webgune jabeekin arazo honen berri emateko.</li> </ul>">
+<!ENTITY unsafeContentType.longDesc "<ul>
+<li>Jar zaitez harremanetan webgunearen jabeekin arazo honen berri emateko.</li>
+</ul>">
 
 <!ENTITY netReset.title "Konexioa berrezarri egin da">
 <!ENTITY netReset.longDesc "&sharedLongDesc;">
@@ -83,7 +83,11 @@
 <!ENTITY cspFrameAncestorBlocked.title "Edukien segurtasun-politikak blokeatuta">
 <!ENTITY cspFrameAncestorBlocked.longDesc "<p>&brandShortName;(e)k orri hau modu honetan kargatzea eragotzi du onartzen ez den edukien-segurtasun politika duelako.</p>">
 
-<!ENTITY securityOverride.linkText "Edo salbuespen bat gehitu dezakezu...">
+<!ENTITY corruptedContentError.title "Hondatutako edukiaren errorea">
+<!ENTITY corruptedContentError.longDesc "<p>Ikusten saiatzen ari zaren orria ezin da erakutsi errore bat detektatu delako datu-transmisioan.</p><ul><li>Jar zaitez harremanetan webgunearen jabeekin arazo honen berri emateko.</li></ul>">
+
+
+<!ENTITY securityOverride.linkText "Edo salbuespen bat gehi dezakezu…">
 <!ENTITY securityOverride.getMeOutOfHereButton "Eraman hemendik at!">
 <!ENTITY securityOverride.exceptionButtonLabel "Gehitu salbuespena…">
 <!-- LOCALIZATION NOTE (securityOverride.warningContent) - Do not translate the
