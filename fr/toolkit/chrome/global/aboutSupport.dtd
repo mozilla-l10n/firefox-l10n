@@ -20,6 +20,7 @@
 <!ENTITY aboutSupport.appBasicsEnabledPlugins "Plugins activés">
 <!ENTITY aboutSupport.appBasicsBuildConfig "Configuration de compilation">
 <!ENTITY aboutSupport.appBasicsUserAgent "Agent utilisateur">
+<!ENTITY aboutSupport.appBasicsCrashIDs "Rapports de plantage">
 
 <!ENTITY aboutSupport.show.label "Ouvrir le dossier correspondant">
 
