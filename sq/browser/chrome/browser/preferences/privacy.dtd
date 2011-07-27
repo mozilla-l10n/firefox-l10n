@@ -73,8 +73,8 @@
 
 <!ENTITY  rememberDescription.label      "&brandShortName;-i do të mbajë mend historikun e shfletimeve tuaja, shkarkimeve, kërkimeve dhe formularëve, dhe do të depozitojë &quot;cookies&quot; prej &quot;site&quot;-eve Web që vizitoni.">
 
-<!ENTITY  privateBrowsingPermanent.label "Mënyrë Shfletim Vetjak i Përhershëm">
-<!ENTITY  privateBrowsingPermanent.accesskey "V">
+<!ENTITY  privateBrowsingPermanent2.label "Përdor përherë mënyrëm e shfletimit vetjak">
+<!ENTITY  privateBrowsingPermanent2.accesskey "P">
 
 <!ENTITY  rememberHistory.label      "Mba mend historikun tim të shfletimit">
 <!ENTITY  rememberHistory.accesskey  "t">
