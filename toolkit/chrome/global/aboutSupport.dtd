@@ -16,6 +16,7 @@
 <!ENTITY aboutSupport.appBasicsEnabledPlugins "Engadidos activados">
 <!ENTITY aboutSupport.appBasicsBuildConfig "Configuración da compilación">
 <!ENTITY aboutSupport.appBasicsUserAgent "User Agent">
+<!ENTITY aboutSupport.appBasicsCrashIDs "Informes de erro">
 
 <!ENTITY aboutSupport.show.label "Abrir o cartafol contedor">
 
