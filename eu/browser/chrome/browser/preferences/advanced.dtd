@@ -30,6 +30,8 @@
 <!ENTITY checkNow.accesskey              "n">
 <!ENTITY submitCrashes.label             "Bidali hutsegite-txostenak">
 <!ENTITY submitCrashes.accesskey         "d">
+<!ENTITY submitTelemetry.label           "Bidali errendimenduaren inguruko datuak">
+<!ENTITY submitTelemetry.accesskey       "e">
 
 <!ENTITY networkTab.label                "Sarea">
 

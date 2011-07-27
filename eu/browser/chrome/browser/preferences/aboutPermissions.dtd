@@ -22,9 +22,9 @@
 <!ENTITY password.manage                 "Kudeatu pasahitzak…">
 
 <!ENTITY cookie.label                    "Ezarri cookie-ak">
-<!ENTITY cookie.clear                    "Garbitu cookie-ak">
+<!ENTITY cookie.remove                   "Kendu cookie-ak">
 <!ENTITY cookie.manage                   "Kudeatu cookie-ak…">
-<!ENTITY cookie.clearAll                 "Garbitu cookie guztiak">
+<!ENTITY cookie.removeAll                "Kendu cookie guztiak">
 
 <!ENTITY geo.label                       "Partekatu kokapena">
 <!-- LOCALIZATION NOTE (indexedDB.label): This is describing indexedDB storage

@@ -8,3 +8,4 @@
 <!ENTITY aboutHome.openAllTabs                  "Ireki guztiak fitxetan">
 <!ENTITY aboutHome.noTabs                       "Azken aldiko fitxarik ez">
 <!ENTITY aboutHome.noAddons                     "Gomendatutako gehigarririk ez">
+<!ENTITY aboutHome.getLocale                    "Aldatu hizkuntza">
