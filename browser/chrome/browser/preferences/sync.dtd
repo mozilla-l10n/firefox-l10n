@@ -33,7 +33,7 @@
 <!-- Device Settings -->
 <!ENTITY syncComputerName.label       "Nome do computador:">
 <!ENTITY syncComputerName.accesskey   "c">
-<!ENTITY deactivateDevice.label       "Desactivar este dispositivo">
+<!ENTITY unlinkDevice.label           "Desligar este dispositivo">
 
 <!-- Footer stuff -->
 <!ENTITY prefs.tosLink.label        "Termos do serviço">
