@@ -29,6 +29,9 @@
 <!ENTITY checkNow.accesskey              "T">
 <!ENTITY submitCrashes.label             "Parashtro njoftime vithisjesh">
 <!ENTITY submitCrashes.accesskey         "a">
+<!ENTITY submitTelemetry.label           "Parashtro të dhëna funksionimi">
+<!ENTITY submitTelemetry.accesskey       "P">
+
 
 <!ENTITY networkTab.label                "Rrjet">
 

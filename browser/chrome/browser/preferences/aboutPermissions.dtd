@@ -22,9 +22,9 @@
 <!ENTITY password.manage                 "Administroni Fjalëkalime…">
 
 <!ENTITY cookie.label                    "Depozito &quot;Cookies&quot;">
-<!ENTITY cookie.clear                    "Pastroji &quot;Cookie&quot;-t">
+<!ENTITY cookie.remove                    "Hiqi &quot;Cookie&quot;-t">
 <!ENTITY cookie.manage                   "Administroni &quot;Cookie&quot;-t…">
-<!ENTITY cookie.clearAll                 "Pastroji Krejt &quot;Cookie&quot;-t">
+<!ENTITY cookie.removeAll                 "Hiqi Krejt &quot;Cookie&quot;-t">
 
 <!ENTITY geo.label                       "Tregojua Vendndodhjen">
 

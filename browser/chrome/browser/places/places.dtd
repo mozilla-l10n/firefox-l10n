@@ -18,10 +18,13 @@
 <!ENTITY cmd.findCurrent.label          "Gjeni në Përmbledhjen e Tanishme…">
 <!ENTITY cmd.findCurrent.accesskey      "i">
 
-<!ENTITY cmd.exportHTML.label           "Eksportoni HTML…">
-<!ENTITY cmd.exportHTML.accesskey       "E">
-<!ENTITY cmd.importHTML.label           "Importoni HTML…">
-<!ENTITY cmd.importHTML.accesskey       "I">
+<!ENTITY importBookmarksFromHTML.label     "Importoni Faqerojtësa prej HTML-je…">
+<!ENTITY importBookmarksFromHTML.accesskey "I">
+<!ENTITY exportBookmarksToHTML.label       "Eksportoni Faqerojtësa si HTML…">
+<!ENTITY exportBookmarksToHTML.accesskey   "E">
+<!ENTITY importOtherBrowser.label          "Importoni Të dhëna prej Tjetër Shfletuesi…">
+<!ENTITY importOtherBrowser.accesskey      "T">
+
 <!ENTITY cmd.backup.label               "Kopjeruajtje…">
 <!ENTITY cmd.backup.accesskey           "K">
 <!ENTITY cmd.restore2.label             "Riktheji">
@@ -38,8 +41,6 @@
 <!ENTITY cmd.open_all_in_tabs.accesskey  "T">
 <!ENTITY cmd.properties.label      "Veti">
 <!ENTITY cmd.properties.accesskey  "V">
-
-
 
 <!ENTITY cmd.sortby_name.label              "Renditi Sipas Emrash">
 <!ENTITY cmd.sortby_name.accesskey          "R">
