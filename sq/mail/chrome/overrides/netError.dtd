@@ -52,9 +52,9 @@
 <!ENTITY netInterrupt.longDesc "&sharedLongDesc;">
 
 <!ENTITY netOffline.title "Mënyra &quot;offline&quot;">
-<!ENTITY netOffline.longDesc "
+<!ENTITY netOffline.longDesc2 "
 <ul>
-  <li>Kalojeni &brandShortName;-in në mënyrën &quot;online&quot;, mandej riprovoni.</li>
+  <li>Shtypni &quot;Riprovoni&quot; që të kaloni nën mënyrën &quot;online&quot; dhe të ringarkohet faqja.</li>
 </ul>
 ">
 
@@ -157,6 +157,9 @@
 
 <!ENTITY cspFrameAncestorBlocked.title "U bllokua nga Rregullat e Sigurisë së Lëndës">
 <!ENTITY cspFrameAncestorBlocked.longDesc "<p>&brandShortName;-i e pengoi këtë faqe të ngarkohej sipas kësaj mënyre, ngaqë për faqen ka rregulla sigurie të lëndës që nuk ia lejojnë këtë.</p>">
+
+<!ENTITY corruptedContentError.title "Gabim nga Lëndë e Dëmtuar">
+<!ENTITY corruptedContentError.longDesc "<p>Faqja që po përpiqeni të shihni nuk mund të shfaqet, ngaqë u kap një gabim në transmetimin e të dhënave.</p><ul><li>Ju lutem, lidhuni me të zotët e site-it web për t&apos;u njoftuar këtë problem.</li></ul>">
 
 <!ENTITY securityOverride.linkText "Ose mund të shtoni një përjashtim…">
 <!ENTITY securityOverride.getMeOutOfHereButton "Hiqmë prej këtej!">
