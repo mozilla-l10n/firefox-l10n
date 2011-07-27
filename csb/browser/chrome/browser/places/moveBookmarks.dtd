@@ -1,0 +1,5 @@
+<!ENTITY window.title              "Wëbierzë katalog">
+<!ENTITY window.style              "szérzô: 36em; wizô: 18em;">
+<!ENTITY moveTo.label              "Przesënie do:">
+<!ENTITY newFolderButton.label     "Nowi katalog">
+<!ENTITY newFolderButton.accesskey "N">

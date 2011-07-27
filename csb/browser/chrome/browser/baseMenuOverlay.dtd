@@ -1,0 +1,38 @@
+<!ENTITY minimizeWindow.key       "m">
+<!ENTITY minimizeWindow.label     "Minimalizacëjô">
+<!ENTITY bringAllToFront.label    "Wëskrzëni wszëtkò z przódkù">
+<!ENTITY zoomWindow.label         "Zwikszenié">
+<!ENTITY windowMenu.label         "Òkno">
+
+<!ENTITY helpMenu.label           "Pòmòc"> 
+<!ENTITY helpMenu.accesskey       "P"> 
+<!-- LOCALIZATION NOTE some localizations of Windows (ex:french, german) use "?"
+                       for the help button in the menubar but Gnome does not.   -->
+<!ENTITY helpMenuWin.label        "Pòmòc"> 
+<!ENTITY helpMenuWin.accesskey    "P">
+<!ENTITY aboutProduct.label       "Ò programie &brandShortName;">
+<!ENTITY aboutProduct.accesskey   "a">
+<!ENTITY productHelp.label        "&brandShortName; Pòmòc">
+<!ENTITY productHelp.accesskey    "P">
+<!ENTITY helpMac.commandkey       "?">
+<!ENTITY helpSafeMode.label       "Zrëszë znowa z wëłączonéma dodôwkama…">
+<!ENTITY helpSafeMode.accesskey   "r">
+
+<!ENTITY helpTroubleshootingInfo.label      "Wëdowiédzô ò felach">
+<!ENTITY helpTroubleshootingInfo.accesskey  "W">
+
+<!ENTITY helpFeedbackPage.label      "Wëslë òpiniã…">
+<!ENTITY helpFeedbackPage.accesskey  "s">
+
+<!ENTITY preferencesCmdMac.label        "Preferencëje…">
+<!ENTITY preferencesCmdMac.commandkey   ",">
+
+<!ENTITY servicesMenuMac.label          "Ùsłëżnotë">
+
+<!ENTITY hideThisAppCmdMac.label        "Zatacë &brandShortName;">
+<!ENTITY hideThisAppCmdMac.commandkey   "H">
+
+<!ENTITY hideOtherAppsCmdMac.label      "Zatacë resztã">
+<!ENTITY hideOtherAppsCmdMac.commandkey "H">
+
+<!ENTITY showAllAppsCmdMac.label        "Wëskrzëni wszëtczé">

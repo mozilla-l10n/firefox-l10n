@@ -1,0 +1,19 @@
+<!ENTITY restorepage.tabtitle       "Doprowôdzanié sesëji nazôd">
+
+<!-- LOCALIZATION NOTE: The title is intended to be apologetic and disarming, expressing dismay
+     and regret that we are unable to restore the session for the user -->
+<!ENTITY restorepage.errorTitle     "Przeprôszómë!">
+<!ENTITY restorepage.problemDesc    "Programa &brandShortName; napôtka problémë przë nôprawie òknów i załóżków. Zwëkòwò pòwòdã je slédno òtemkłô internetowô starna.">
+<!ENTITY restorepage.tryThis        "Mòże spróbòwac:">
+<!ENTITY restorepage.restoreSome    "rëmnąc jedną abò wicy kôrtów, chtërné mògą bëc przëczëną ti problemë">
+<!ENTITY restorepage.startNew       "zrëszëc nową sesëjã przezéraniô">
+
+<!ENTITY restorepage.tryagainButton "Doprowôdzë nazôd">
+<!ENTITY restorepage.restore.access "R">
+<!ENTITY restorepage.cancelButton   "Zrëszë nową sesëjã">
+<!ENTITY restorepage.cancel.access  "S">
+
+<!ENTITY restorepage.restoreHeader  "Doprowôdzë nazôd">
+<!ENTITY restorepage.listHeader     "Òkna ë kôrtë">
+<!-- LOCALIZATION NOTE: &#37;S will be replaced with a number. -->
+<!ENTITY restorepage.windowLabel    "Òkno &#037;S">

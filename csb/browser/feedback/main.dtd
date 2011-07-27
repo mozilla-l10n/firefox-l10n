@@ -1,0 +1,33 @@
+<!ENTITY testpilot.brand.label                      "Test Pilot">
+<!ENTITY testpilot.settings.label                   "Nastôwë">
+<!ENTITY testpilot.settings.dataSubmission.label    "Dodanié pòdôwków">
+<!ENTITY testpilot.settings.notifications.label     "Wiadła">
+<!ENTITY testpilot.settings.notifyWhen.label        "Dôj mie wiadło czedë…">
+<!ENTITY testpilot.settings.readyToSubmit.label     "Anczéta je parôt do wësłaniô">
+<!ENTITY testpilot.settings.newStudy.label          "Je nowô anczéta">
+<!ENTITY testpilot.settings.hasNewResults.label     "Anczéta mô nowé wińdzenia">
+<!ENTITY testpilot.settings.alwaysSubmitData.label  "Aùtomatno wëslë mòje pòdôwczi (nie pëtôj mie)">
+<!ENTITY testpilot.allYourStudies.label             "Twòjé anczétë brëkòwnika…">
+<!ENTITY testpilot.about.label                      "Ò Test Piloce">
+
+<!-- all studies window -->
+<!ENTITY testpilot.studiesWindow.title                  "Twòjé anczétë Test Pilota">
+<!ENTITY testpilot.studiesWindow.currentStudies.label   "Terczasné anczétë">
+<!ENTITY testpilot.studiesWindow.finishedStudies.label  "Zakùńczoné anczétë">
+<!ENTITY testpilot.studiesWindow.studyFindings.label    "Szëkba anczétów">
+<!ENTITY testpilot.studiesWindow.settings.label         "Nastôwë">
+<!ENTITY testpilot.studiesWindow.stillLoadingMessage    "Ladowanié, proszã żdac…">
+
+<!-- raw data dialog -->
+<!ENTITY testpilot.rawDataWindow.title                  "Test Pilot: Sëré pòdôwczi">
+
+<!-- notification -->
+<!ENTITY testpilot.notification.close.tooltip            "Zamkni">
+
+<!-- Firefox 4 beta version UI -->
+<!ENTITY testpilot.enable.label                        "Włączë anczétë brëkòwników">
+<!ENTITY testpilot.feedbackbutton.label                "Òpinia">
+<!ENTITY testpilot.happy.label        "Firefox ùredowôł mie, bò…">
+<!ENTITY testpilot.sad.label          "Firefox zasmùcëł mie, bò…">
+<!ENTITY testpilot.broken.label      "Zgłoszë awarëjã starnë…">
+<!ENTITY testpilot.idea.label        "Sugerëjë nama…">

@@ -1,0 +1,12 @@
+
+<!ENTITY  history.title             "Historëjô aktualizacëji">
+<!ENTITY  history.intro             "Winstalowóno ùniższé aktualizacëje:">
+<!ENTITY  closebutton.label         "Zamkni">
+                                     
+<!ENTITY  noupdates.label           "Jesz nié winstalowóno niżódnych aktualizacëjów">
+
+<!ENTITY  name.header               "Miono aktualizacëji">
+<!ENTITY  date.header               "Datum instalacëji">
+<!ENTITY  type.header               "Ôrt">
+<!ENTITY  state.header              "Stón">
+

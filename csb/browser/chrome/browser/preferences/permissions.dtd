@@ -1,0 +1,22 @@
+<!ENTITY window.title                 "Wëjimczi">
+<!ENTITY window.width                 "36em">
+
+<!ENTITY treehead.sitename.label      "Starna">
+<!ENTITY treehead.status.label        "Stón">
+<!ENTITY removepermission.label       "Rëmôj starnã">
+<!ENTITY removepermission.accesskey   "R">
+<!ENTITY removeallpermissions.label   "Rëmôj wszëtczé starnë">
+<!ENTITY removeallpermissions.accesskey "w">
+<!ENTITY address.label                "Adresa internetowi starnë:">
+<!ENTITY address.accesskey            "d">
+<!ENTITY block.label                  "Blokùjë">
+<!ENTITY block.accesskey              "B">
+<!ENTITY session.label                "Zezwòlë dlô sesëji">
+<!ENTITY session.accesskey            "s">
+<!ENTITY allow.label                  "Zezwòlë">
+<!ENTITY allow.accesskey              "z">
+<!ENTITY windowClose.key              "w">
+
+<!ENTITY button.close.label           "Zamkni">
+<!ENTITY button.close.accesskey       "Z">
+

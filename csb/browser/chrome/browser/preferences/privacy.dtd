@@ -1,0 +1,76 @@
+<!ENTITY  history.label                 "Historëjô">
+
+<!ENTITY  locationBar.label             "Listew adresë">
+
+<!ENTITY  locbar.pre.label              "Pòdpòwiescë w listwie adresë òpierôj na:">
+<!ENTITY  locbar.pre.accessKey          "u">
+<!ENTITY  locbar.post.label             "">
+<!ENTITY  locbar.both.label             "historëji ë załóżkach">
+<!ENTITY  locbar.history.label          "historëji">
+<!ENTITY  locbar.bookmarks.label        "załóżkach">
+<!ENTITY  locbar.nothing.label          "nié pòdpòwiadôj">
+
+
+<!ENTITY  acceptCookies.label           "Akceptëjë kùszczi">
+<!ENTITY  acceptCookies.accesskey       "A">
+
+<!ENTITY  acceptThirdParty.label        "Akceptëjë kùszczi z jinszich starnów">
+<!ENTITY  acceptThirdParty.accesskey    "k">
+
+<!ENTITY  keepUntil.label               "Trzëmôj:">
+<!ENTITY  keepUntil.accesskey           "T">
+
+<!ENTITY  expire.label                  "aż wëgasną">
+<!ENTITY  close.label                   "aż zamknã programã &brandShortName;">
+<!ENTITY  askEachTime.label             "pëtôj wiedno">
+
+<!ENTITY  cookieExceptions.label        "Wëjimczi...">
+<!ENTITY  cookieExceptions.accesskey    "W">
+
+<!ENTITY  showCookies.label             "Wëskrzëni kùszczi...">
+<!ENTITY  showCookies.accesskey         "k">
+
+
+<!ENTITY  historyHeader.pre.label          "Programa &brandShortName;:">
+<!ENTITY  historyHeader.pre.accesskey      "m">
+<!ENTITY  historyHeader.remember.label     "Pamiãtôj historëjã">
+<!ENTITY  historyHeader.dontremember.label "Nié pamiãtôj historëji">
+<!ENTITY  historyHeader.custom.label       "Brëkùjë swòjich nastôwów historëji">
+<!ENTITY  historyHeader.post.label         "">
+
+<!ENTITY  rememberDescription.label      "&brandShortName; spamiãtô historëjã przezéraniô, szëkbë, zladënkù lopków ë pòdôwków fòrmùlôrzów, bãdze trzëmôł téż kùszczi z òdwiedzónych starnów,">
+
+<!-- LOCALIZATION NOTE (rememberActions.pre.label): include a trailing space as needed -->
+<!-- LOCALIZATION NOTE (rememberActions.middle.label): include a starting and trailing space as needed -->
+<!-- LOCALIZATION NOTE (rememberActions.post.label): include a starting space as needed -->
+<!ENTITY  rememberActions.pre.label           "Mòże">
+<!ENTITY  rememberActions.clearHistory.label  "wëczëszczëc slédną historëjã">
+<!ENTITY  rememberActions.middle.label        "abò">
+<!ENTITY  rememberActions.removeCookies.label "rëmnąc pòjedińcze kùszczi">
+<!ENTITY  rememberActions.post.label          ".">
+
+<!ENTITY  dontrememberDescription.label  "Programa &brandShortName; bãdze brëkòwa tich sómëch nastôwów co w priwatnym tribie ë nié bãdze pamiãta historëji przë przezéraniu starnów WWW.">
+
+<!-- LOCALIZATION NOTE (dontrememberActions.pre.label): include a trailing space as needed -->
+<!-- LOCALIZATION NOTE (dontrememberActions.post.label): include a starting space as needed -->
+<!ENTITY  dontrememberActions.pre.label          "Mòże téż">
+<!ENTITY  dontrememberActions.clearHistory.label "wëczëszczëc całowną aktualną historëjã">
+<!ENTITY  dontrememberActions.post.label         ".">
+
+<!ENTITY  privateBrowsingPermanent.label "Stójny trib priwatnégò przezéraniô séce">
+<!ENTITY  privateBrowsingPermanent.accesskey "p">
+
+<!ENTITY  rememberHistory.label      "Pamiãtôj historëjã mòjégò przezéraniô">
+<!ENTITY  rememberHistory.accesskey  "P">
+
+<!ENTITY  rememberDownload.label         "Spamiãtôj historëjã zladënkù lopków">
+<!ENTITY  rememberDownload.accesskey     "z">
+
+<!ENTITY  rememberSearchForm.label       "Spamiãtôj historëjã szëkbë ë fòrmùlôrzów">
+<!ENTITY  rememberSearchForm.accesskey   "f">
+
+<!ENTITY  clearOnClose.label             "Wëczëszczë historëjã przë zamëkaniu programë &brandShortName;">
+<!ENTITY  clearOnClose.accesskey         "W">
+
+<!ENTITY  clearOnCloseSettings.label     "Nastôwë...">
+<!ENTITY  clearOnCloseSettings.accesskey "t">

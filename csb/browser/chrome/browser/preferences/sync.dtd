@@ -1,0 +1,40 @@
+<!-- The page shown when not logged in... -->
+<!ENTITY setupButton.label          "Ùstawi &syncBrand.fullName.label;">
+<!ENTITY setupButton.accesskey      "s">
+<!ENTITY weaveDesc.label            "&syncBrand.fullName.label; dôwô Tobie przëstãp do Twòji historëji, załóżkòw, parolów ë òtmëkô kôrtë na wszëtczëch Twòjëch ùrządzeniach.">
+
+<!-- The page shown when logged in... -->
+
+<!-- Login error feedback -->
+<!ENTITY updatePass.label             "Aktualizacëjô">
+<!ENTITY resetPass.label              "Doprowôdzë nazôd">
+
+<!-- Manage Account -->
+<!ENTITY manageAccount.label          "Sprôwiôj kòntã">
+<!ENTITY manageAccount.accesskey      "S">
+<!ENTITY viewQuota.label              "Òbaczë limitë">
+<!ENTITY changePassword.label         "Zmieni parolã">
+<!ENTITY mySyncKey.label              "Mój klucz synchronizacëji">
+<!ENTITY resetSync.label              "Wëczëszczë Sync">
+<!ENTITY addDevice.label              "Dodôj ùrzãdzenié">
+
+<!ENTITY syncMy.label               "Synchronizëjë mòjé">
+<!ENTITY engine.bookmarks.label     "Załóżczi">
+<!ENTITY engine.bookmarks.accesskey "Z">
+<!ENTITY engine.tabs.label          "Kôrtë">
+<!ENTITY engine.tabs.accesskey      "t">
+<!ENTITY engine.history.label       "Historëjô">
+<!ENTITY engine.history.accesskey   "r">
+<!ENTITY engine.passwords.label     "Parole">
+<!ENTITY engine.passwords.accesskey "P">
+<!ENTITY engine.prefs.label         "Preferencëje">
+<!ENTITY engine.prefs.accesskey     "P">
+
+<!-- Device Settings -->
+<!ENTITY syncComputerName.label       "Miono kòmpùtra:">
+<!ENTITY syncComputerName.accesskey   "M">
+<!ENTITY deactivateDevice.label       "Wëłączë no ùrządzenié">
+
+<!-- Footer stuff -->
+<!ENTITY prefs.tosLink.label        "Leżnoscë brëkòwaniô serwisu">
+<!ENTITY prefs.ppLink.label         "Pòlitika priwatnoscë">

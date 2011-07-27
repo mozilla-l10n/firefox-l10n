@@ -1,0 +1,51 @@
+
+<!ENTITY migrationWizard.title          "Asystenta impòrtu">
+
+<!ENTITY importFrom.label               "Impòrtëjë òptacëje, załóżczi, historëjã, parole ë jinszé pòdôwczi z:">
+<!ENTITY importFromUnix.label           "Impòrtëjë òptacëje, załóżczi, historëjã, parole ë jinszé pòdôwczi z:">
+<!ENTITY importFromBookmarks.label      "Impòrtëjë załóżczi z:">
+
+<!ENTITY importFromIE.label             "Microsoft Internet Explorera">
+<!ENTITY importFromIE.accesskey         "M">
+<!ENTITY importFromPhoenix.label        "Firefox 0.8, Firebird abò Phoenix">
+<!ENTITY importFromPhoenix.accesskey    "P">
+<!ENTITY importFromNothing.label        "Nick nie impòrtëjë">
+<!ENTITY importFromNothing.accesskey    "N">
+<!ENTITY importFromSeamonkey.label      "Netscape 6, 7 abò Mozilla 1.x">
+<!ENTITY importFromSeamonkey.accesskey  "N">
+<!ENTITY importFromNetscape4.label      "Netscape 4.x">
+<!ENTITY importFromNetscape4.accesskey  "4">
+<!ENTITY importFromOpera.label          "Opera">
+<!ENTITY importFromOpera.accesskey      "O">
+<!ENTITY importFromCamino.label         "Camino">
+<!ENTITY importFromCamino.accesskey     "C">
+<!ENTITY importFromSafari.label         "Safari">
+<!ENTITY importFromSafari.accesskey     "S">
+<!ENTITY importFromOmniWeb.label        "OmniWeb">
+<!ENTITY importFromOmniWeb.accesskey    "W">
+<!ENTITY importFromICab.label           "iCab">
+<!ENTITY importFromICab.accesskey       "i">
+<!ENTITY importFromKonqueror.label      "Konqueror">
+<!ENTITY importFromKonqueror.accesskey  "K">
+<!ENTITY importFromEpiphany.label       "Epiphany">
+<!ENTITY importFromEpiphany.accesskey   "E">
+<!ENTITY importFromGaleon.label         "Galeon">
+<!ENTITY importFromGaleon.accesskey     "G">
+<!ENTITY importFromHTMLFile.label       "Z lopka HTML">
+<!ENTITY importFromHTMLFile.accesskey   "Z">
+
+<!ENTITY noMigrationSources.label       "To nie dô programów z jaczéch bë sã dało zaimpòrtowac załóżczi, historëjã czë parole.">
+
+<!ENTITY importSource.title             "Impòrtëjë nastôwë ë pòdôwczi">
+<!ENTITY importItems.title              "Impòrtowóné elementë">
+<!ENTITY importItems.label              "Wëbierzë elementë do impòrtowaniô">
+
+<!ENTITY migrating.title                "Impòrtëjë...">
+<!ENTITY migrating.label                "Nôslédné elementë są impòrtowóne...">
+
+<!ENTITY selectProfile.title            "Wëbierzë profil">
+<!ENTITY selectProfile.label            "Nôslédné profile dô sã impòrtowac:">
+
+<!ENTITY done.title                     "Impòrtowanié je zakùńczóné">
+<!ENTITY done.label                     "Nôslédné elementë są ùdało zaimpòrtowóné:">
+

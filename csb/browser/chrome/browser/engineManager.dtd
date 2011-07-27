@@ -1,0 +1,25 @@
+<!ENTITY  engineManager.title       "Menadżera lëstë mòtorów szëkbë">
+<!ENTITY  engineManager.style       "min-width: 35em;">
+<!ENTITY  engineManager.intro       "Winstalowóné môsz pòstãpné mòtórë szëkbë">
+
+<!ENTITY  columnLabel.name          "Miono">
+<!ENTITY  columnLabel.keyword       "Kluczowé słowò">
+
+<!-- Buttons -->
+<!ENTITY  up.label                  "W górã">
+<!ENTITY  up.accesskey              "g">
+<!ENTITY  dn.label                  "W dół">
+<!ENTITY  dn.accesskey              "d">
+<!ENTITY  remove.label              "Rëmôj">
+<!ENTITY  remove.accesskey          "R">
+<!ENTITY  edit.label                "Editëjë kluczowé słowò...">
+<!ENTITY  edit.accesskey            "E">
+
+<!ENTITY  addEngine.label           "Nalézë wicy mòtórów szëkbë...">
+<!ENTITY  addEngine.accesskey       "a">
+
+<!ENTITY  enableSuggest.label       "Wëskrzëni pòdpòwiescë szëkbë">
+<!ENTITY  enableSuggest.accesskey   "W">
+
+<!ENTITY  restoreDefaults.label     "Doprowôdzë nazôd domëslné">
+<!ENTITY  restoreDefaults.accesskey "D">

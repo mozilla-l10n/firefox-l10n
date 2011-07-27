@@ -1,0 +1,52 @@
+<!ENTITY printCmd.commandkey            "p">
+
+<!ENTITY findOnCmd.commandkey           "F">
+<!ENTITY findAgainCmd.commandkey        "G">
+<!ENTITY findAgainCmd.commandkey2       "VK_F3">
+
+<!ENTITY backButton.label               "Nazôd">
+<!ENTITY backButton.accesskey           "N">
+<!ENTITY backButton.tooltip             "Biéj jedną starnã nazôd">
+<!ENTITY forwardButton.label            "Do przódkù">
+<!ENTITY forwardButton.accesskey        "D">
+<!ENTITY forwardButton.tooltip          "Biéj jedna starnã do przódkù">
+<!ENTITY copyCmd.label                  "Kòpérëjë">
+<!ENTITY copyCmd.accesskey              "K">
+<!ENTITY selectAllCmd.label             "Wëbierzë wszëtkò">
+<!ENTITY selectAllCmd.accesskey         "W">
+<!ENTITY goBackCmd.commandkey           "[">
+<!ENTITY goForwardCmd.commandkey        "]">
+<!ENTITY homeButton.label               "Domôcô starna">
+<!ENTITY homeButton.tooltip             "Biéj do startowy starnë pòmòcë">
+<!ENTITY printButton.label              "Drëkòwanié">
+<!ENTITY printButton.tooltip            "Drëkùjë tã starnã">
+<!ENTITY closeWindow.commandkey         "W">
+
+<!ENTITY search.emptytext               "Szëkba">
+<!ENTITY searchHeader.label             "Skùtczi szëkbë">
+<!ENTITY toctab.label                   "Zamkłosc">
+<!ENTITY toctab.accesskey               "c">
+
+<!-- LOCALIZATION NOTE :
+fullZoomEnlargeCmd.commandkey3, fullZoomReduceCmd.commandkey2 and
+fullZoomResetCmd.commandkey2 are alternative acceleration keys for zoom.
+If shift key is needed with your locale popular keyboard for them,
+you can use these alternative items. Otherwise, their values should be empty.  -->
+
+<!ENTITY fullZoomReduceCmd.commandkey   "-">
+<!ENTITY fullZoomReduceCmd.commandkey2  "">
+<!ENTITY fullZoomEnlargeCmd.commandkey  "+">
+<!ENTITY fullZoomEnlargeCmd.commandkey2 "="> <!-- + is above this key on many keyboards -->
+<!ENTITY fullZoomEnlargeCmd.commandkey3 "">
+<!ENTITY fullZoomResetCmd.commandkey    "0">
+<!ENTITY fullZoomResetCmd.commandkey2   "">
+
+<!ENTITY helpSearch.commandkey          "k">
+
+<!ENTITY zLevel.label                   "Wiedno ne wiérzkù">
+<!ENTITY zLevel.accesskey               "W">
+
+<!ENTITY fullZoomReduceBtn.label        "Zmiészë">
+<!ENTITY fullZoomReduceBtn.accesskey    "Z">
+<!ENTITY fullZoomEnlargeBtn.label       "Zwikszë">
+<!ENTITY fullZoomEnlargeBtn.accesskey   "i">

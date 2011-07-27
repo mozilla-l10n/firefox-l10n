@@ -1,0 +1,37 @@
+<!ENTITY startup.label             "Zrëszanié">
+
+<!ENTITY startupPage.label         "Pò zrëszeniu programë &brandShortName;:">
+<!ENTITY startupPage.accesskey     "z">
+<!ENTITY startupHomePage.label     "wëskrzëni domôcą starnã">
+<!ENTITY startupBlankPage.label    "wëskrzeni pùstą starnã">
+<!ENTITY startupLastSession.label  "wëskrzëni òkna ë kôrtë z pòprzédny sesëji">
+<!ENTITY homepage.label            "Domôcô starna:">
+<!ENTITY homepage.accesskey        "D">
+<!ENTITY useCurrentPage.label      "Brëkùjë aktualny starnë">
+<!ENTITY useCurrentPage.accesskey  "a">
+<!ENTITY useMultiple.label         "Brëkùjë ti starnë">
+<!ENTITY useBookmark.label         "Brëkùjë załóżczi">
+<!ENTITY useBookmark.accesskey     "B">
+<!ENTITY restoreDefault.label      "Doprowôdzë domëslną nazôd">
+<!ENTITY restoreDefault.accesskey  "D">
+
+<!ENTITY downloads.label     "Zladënczi">
+
+<!ENTITY showWhenDownloading.label     "Wëskrzëniôj òkno zladënkù przë zladënkù lopka">
+<!ENTITY showWhenDownloading.accesskey "W">
+<!ENTITY closeWhenDone.label "Zamkni òkno pò skùńczeniu zladënkù">
+<!ENTITY closeWhenDone.accesskey "k">
+<!ENTITY saveTo.label "Zapiszë lopczi do">
+<!ENTITY saveTo.accesskey "o">
+<!ENTITY chooseFolderWin.label        "Przezérôj...">
+<!ENTITY chooseFolderWin.accesskey    "r">
+<!ENTITY chooseFolderMac.label        "Wëbierzë...">
+<!ENTITY chooseFolderMac.accesskey    "b">
+<!ENTITY alwaysAsk.label "Pëtôj dze zapisac kòżdi lopk">
+<!ENTITY alwaysAsk.accesskey "t">
+
+<!ENTITY addonsMgr.label               "Przëdôwczi">
+<!ENTITY manageAddonsDescWin.label     "Zmieni òptacëje winstalowónych przëdôwków">
+<!ENTITY manageAddonsDescUnix2.label   "Zmieni preferencëje winstalowónych przëdôwków">
+<!ENTITY manageAddons.label            "Sprôwiôj przëdôwkama...">
+<!ENTITY manageAddons.accesskey        "S">

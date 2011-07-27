@@ -1,0 +1,18 @@
+<!-- extracted from finddialog.xul -->
+
+<!ENTITY findDialog.title "Nalezë na ti starnie">
+<!ENTITY findField.label "Nalezë tekst">
+<!ENTITY findField.accesskey "N">
+<!ENTITY caseSensitiveCheckbox.label "Rozeznôwôj miarã lëterów">
+<!ENTITY caseSensitiveCheckbox.accesskey "R">
+<!ENTITY wrapCheckbox.label "W całownym dokùmence">
+<!ENTITY wrapCheckbox.accesskey "c">
+<!ENTITY findButton.label "Nalezë nôslédny">
+<!ENTITY findButton.accesskey "z">
+<!ENTITY cancelButton.label "Òprzestóń">
+<!ENTITY closeButton.label "Zamkni">
+<!ENTITY up.label "W górã">
+<!ENTITY up.accesskey "g">
+<!ENTITY down.label "W dół">
+<!ENTITY down.accesskey "d">
+<!ENTITY direction.label "Czérënk">
