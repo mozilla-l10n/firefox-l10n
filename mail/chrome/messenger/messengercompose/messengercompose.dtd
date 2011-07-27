@@ -118,7 +118,7 @@
 <!ENTITY autoFormatCmd.accesskey "A">
 <!ENTITY plainTextFormatCmd.label "Solo testo">
 <!ENTITY plainTextFormatCmd.accesskey "T">
-<!ENTITY htmlFormatCmd.label "Solo Rich Text (HTML)">
+<!ENTITY htmlFormatCmd.label "Solo testo formattato (HTML)">
 <!ENTITY htmlFormatCmd.accesskey "H">
 <!ENTITY bothFormatCmd.label "Sia testo semplice sia testo formattato (HTML)">
 <!ENTITY bothFormatCmd.accesskey "f">

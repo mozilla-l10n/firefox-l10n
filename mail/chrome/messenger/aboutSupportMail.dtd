@@ -7,7 +7,7 @@
 <!ENTITY aboutSupport.accountsIncomingServer "Server in entrata">
 <!ENTITY aboutSupport.accountsOutgoingServers "Server in uscita">
 <!ENTITY aboutSupport.accountsServerName "Nome">
-<!ENTITY aboutSupport.accountsConnSecurity "Sicurezza di collegamento">
+<!ENTITY aboutSupport.accountsConnSecurity "Sicurezza della connessione">
 <!ENTITY aboutSupport.accountsAuthMethod "Metodo di autenticazione">
 <!ENTITY aboutSupport.accountsDefault "Predefinito?">
 <!ENTITY aboutSupport.sendViaEmail.label "Manda via mail">
