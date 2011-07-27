@@ -25,8 +25,8 @@
 <!ENTITY netInterrupt.longDesc "<p>Shfletuesi u lidh me sukses, por gjatë shpërnguljes së të dhënave lidhja u ndërpre.  Ju lutem, riprovoni.</p><ul><li>Nuk jeni në gjendje të shfletoni faqe të tjera? Kontrolloni lidhjen në rrjet të kompjuterit.</li><li>Keni ende vështirësi? Për ndihmë, lidhuni me administruesin e rrjetit tuaj ose me mundësuesin e Internetit.</li></ul>">
 
 <!ENTITY netOffline.title "Mënyrë &quot;Offline&quot;">
-<!ENTITY netOffline.longDesc "<p>Shfletuesi po punon në mënyrën &quot;offline&quot; dhe nuk lidhet dot te objekti i kërkuar.</p><ul><li>A është kompjuteri i lidhur te një rrjet aktiv?</li><li>Kalojeni shfletuesin në mënyrën &quot;online&quot; dhe riprovoni.</li></ul>">
-<!ENTITY netOffline.overrideLongDesc "<p>Shfletuesi po punon në mënyrën &quot;offline&quot; dhe nuk lidhet dot te objekti i kërkuar.</p><ul><li>A është kompjuteri i lidhur te një rrjet aktiv?</li><li>Kalojeni shfletuesin në mënyrën &quot;online&quot; dhe riprovoni.</li></ul>">
+<!ENTITY netOffline.longDesc2 "<p>Shfletuesi po punon në mënyrën &quot;offline&quot; dhe nuk lidhet dot te objekti i kërkuar.</p><ul><li>A është kompjuteri i lidhur te një rrjet aktiv?</li><li>Shtypni &quot;Riprovoni&quot; që të kaloni nën mënyrën &quot;online&quot; dhe të ringarkoni faqen.</li></ul>">
+
 <!ENTITY contentEncodingError.title "Gabim Kodimi i Përmbajtjes">
 <!ENTITY contentEncodingError.longDesc "<p>Faqja që po provoni të shihni nuk shfaqet dot sepse përdor një formë ngjeshjeje të mangët ose të pambuluar.</p><ul><li>Ju lutem, lidhuni me të zotët e &quot;site&quot;-it web për t&apos;u bërë të ditur këtë problem.</li></ul>">
 
@@ -92,5 +92,8 @@
 <!ENTITY % netErrorAppDTD SYSTEM "chrome://global/locale/netErrorApp.dtd">
 %netErrorAppDTD;
 
-<!ENTITY cspFrameAncestorBlocked.title "Bllokuar nga njw Rregull Sigurie Lënde">
-<!ENTITY cspFrameAncestorBlocked.longDesc "<p>Shfletuesi pengoi ngarkimin e kësaj faqeje në këtë mënyrë ngaqë faqja përmban një rregull sigurie lënde që e pengon.</p>">
+<!ENTITY cspFrameAncestorBlocked.title "Bllokuar nga një Rregull Sigurie Lënde">
+<!ENTITY cspFrameAncestorBlocked.longDesc "<p>Shfletuesi pengoi ngarkimin e kësaj faqeje në këtë mënyrë, ngaqë faqja përmban një rregull sigurie lënde që e pengon këtë.</p>">
+
+<!ENTITY corruptedContentError.title "Gabim nga Lëndë e Dëmtuar">
+<!ENTITY corruptedContentError.longDesc "<p>Faqja që po përpiqeni të shihni nuk mund të shfaqet, ngaqë u kap një gabim në transmetimin e të dhënave.</p><ul><li>Ju lutem, lidhuni me të zotët e &quot;site&quot;-it web që t'i njoftoni për këtë problem.</li></ul>">
