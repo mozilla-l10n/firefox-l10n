@@ -13,7 +13,7 @@
 
 <!ENTITY browsing.label                  "Nettlesing">
 
-<!ENTITY useAutoScroll.label             "Bruk autorulling">
+<!ENTITY useAutoScroll.label             "Bruk automatisk rulling">
 <!ENTITY useAutoScroll.accesskey         "B">
 <!ENTITY useSmoothScrolling.label        "Bruk jamn rulling">
 <!ENTITY useSmoothScrolling.accesskey    "u">
@@ -29,8 +29,6 @@
 <!ENTITY checkNow.accesskey              "n">
 <!ENTITY submitCrashes.label             "Send inn krasjrapportar">
 <!ENTITY submitCrashes.accesskey         "e">
-<!ENTITY submitTelemetry.label           "Send ytingsdata">
-<!ENTITY submitTelemetry.accesskey       "n">
 
 <!ENTITY networkTab.label                "Nettverk">
 
@@ -101,7 +99,7 @@
 <!ENTITY certs.ask.accesskey             "S">
 <!ENTITY viewCerts.label                 "Vis sertifikata">
 <!ENTITY viewCerts.accesskey             "V">
-<!ENTITY viewCRLs.label                  "Tilbakekallingslister">
+<!ENTITY viewCRLs.label                  "Tilbakekalling">
 <!ENTITY viewCRLs.accesskey              "T">
 <!ENTITY verify2.label                   "Validering">
 <!ENTITY verify2.accesskey               "a">

@@ -48,12 +48,17 @@
 <!ENTITY netInterrupt.longDesc "&sharedLongDesc;">
 
 <!ENTITY netOffline.title "Fråkopla modus">
-<!ENTITY netOffline.longDesc2 "<ul> 
-  <li>Trykk «Prøv igjen» for å byte til tilkopla modus og laste sida på nytt.</li> 
+<!-- LOCALIZATION NOTE (netOffline.overrideLongDesc) - This string should
+     indicate that "Work Offline" is a menu item without being too specific,
+     since it could be in either the normal menu (Mac/Linux) or the Firefox button
+     menu (Windows).
+-->
+<!ENTITY netOffline.overrideLongDesc "<ul>
+  <li>Fjern avkryssinga frå &quot;Arbeid fråkopla&quot; og prøv igjen.</li>
 </ul>
 ">
 
-<!ENTITY contentEncodingError.title "Feilkoding av innhald">
+<!ENTITY contentEncodingError.title "Feil med teiknkoding">
 <!ENTITY contentEncodingError.longDesc "<ul>
   <li>Kontakt eigarane av nettstaden og informer om problemet.</li>
 </ul>
@@ -146,10 +151,6 @@ mellombels, og du kan prøve på nytt seinare.</li>
 
 <!ENTITY cspFrameAncestorBlocked.title "Blokkert av tryggingsregel">
 <!ENTITY cspFrameAncestorBlocked.longDesc "<p>&brandShortName; hindra nettsida frå å verte vist på denne måten fordi nettsidaa har ein tryggingsregel som hindra det.</p>">
-
-<!ENTITY corruptedContentError.title "Feil - øydelagd innhald">
-<!ENTITY corruptedContentError.longDesc "<p>Sida du freistar å vise kan ikkje opnast fordi ein feil i dataoverføringa vart oppdaga.</p><ul><li>Kontakt eigarane av nettstaden og informer dei om dette problemet.</li></ul>">
-
 
 <!ENTITY securityOverride.linkText "eller du kan leggje til eit unntak …">
 <!ENTITY securityOverride.getMeOutOfHereButton "Få meg ut herifrå!">
