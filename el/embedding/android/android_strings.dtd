@@ -1,0 +1,18 @@
+<!ENTITY  splash_screen_loading "Φόρτωση">
+<!ENTITY  splash_screen_installing_libs "Γίνεται εγκατάσταση βιβλιοθηκών\u2026">
+<!ENTITY  splash_firstrun "Ρύθμιση &brandShortName;\u2026">
+
+<!ENTITY  no_space_to_start_error "Δεν υπάρχει αρκετός ελεύθερος χώρος για να ξεκινήσει ο &brandShortName;.">
+<!ENTITY  error_loading_file "Σφάλμα κατά την φόρτωση των απαραίτητων αρχείων για την εκτέλεση του &brandShortName;">
+
+<!ENTITY  crash_reporter_title "Αναφορά σφαλμάτων &brandShortName;">
+<!ENTITY  crash_message "Ο &brandShortName; κατέρευσε. Οι ανοικτές καρτέλες θα παρουσιαστούν στην αρχική σελίδα του &brandShortName; όταν επανεκκινήσετε.">
+<!ENTITY  crash_help_message "Βοηθήστε μας να διορθώσουμε το πρόβλημα!">
+<!ENTITY  crash_send_report_message "Στείλτε μια αναφορά σφάλματος στον Mozilla">
+<!ENTITY  crash_include_url "Να συμπεριληφθεί και η διεύθυνση της σελίδας">
+<!ENTITY  crash_close_label "Κλείσιμο">
+<!ENTITY  crash_restart_label "Επανεκκίνηση &brandShortName;">
+<!ENTITY  sending_crash_report "Γίνεται αποστολή αναφοράς σφάλματος\u2026">
+<!ENTITY  exit_label "Έξοδος">
+<!ENTITY  continue_label "Συνέχεια">
+
