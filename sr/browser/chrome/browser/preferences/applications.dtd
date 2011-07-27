@@ -1,7 +1,10 @@
-<!ENTITY focusSearch2.key "П">
-<!ENTITY typeColumn.accesskey "В">
-<!ENTITY filter.emptytext "Потражи…">
-<!ENTITY actionColumn2.accesskey "Д">
-<!ENTITY typeColumn.label "Врста садржаја">
-<!ENTITY actionColumn2.label "Дејство">
-<!ENTITY focusSearch1.key "с">
+<!ENTITY  typeColumn.label        "Врста садржаја">
+<!ENTITY  typeColumn.accesskey    "В">
+
+<!ENTITY  actionColumn2.label     "Дејство">
+<!ENTITY  actionColumn2.accesskey "Д">
+
+<!ENTITY  focusSearch1.key        "с">
+<!ENTITY  focusSearch2.key        "П">
+
+<!ENTITY  filter.emptytext        "Потражи…">

@@ -1,16 +1,18 @@
-<!ENTITY findButton.accesskey "Н">
+<!-- extracted from finddialog.xul -->
+
+<!ENTITY findDialog.title "Пронађи на овој страни">
+<!ENTITY findField.label "Пронађи:">
+<!ENTITY findField.accesskey "П">
+<!ENTITY caseSensitiveCheckbox.label "Разликуј величину слова">
+<!ENTITY caseSensitiveCheckbox.accesskey "Р">
 <!ENTITY wrapCheckbox.label "Преламај">
 <!ENTITY wrapCheckbox.accesskey "П">
-<!ENTITY closeButton.label "Затвори">
-<!ENTITY caseSensitiveCheckbox.label "Разликуј величину слова">
-<!ENTITY findField.label "Пронађи:">
-<!ENTITY caseSensitiveCheckbox.accesskey "Р">
-<!ENTITY findField.accesskey "П">
-<!ENTITY up.label "Нагоре">
-<!ENTITY cancelButton.label "Одустани">
 <!ENTITY findButton.label "Нађи следеће">
+<!ENTITY findButton.accesskey "Н">
+<!ENTITY cancelButton.label "Одустани">
+<!ENTITY closeButton.label "Затвори">
+<!ENTITY up.label "Нагоре">
 <!ENTITY up.accesskey "Н">
-<!ENTITY direction.label "Смер">
-<!ENTITY findDialog.title "Пронађи на овој страни">
-<!ENTITY down.accesskey "Н">
 <!ENTITY down.label "Надоле">
+<!ENTITY down.accesskey "Н">
+<!ENTITY direction.label "Смер">

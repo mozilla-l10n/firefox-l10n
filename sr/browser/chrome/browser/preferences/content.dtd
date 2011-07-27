@@ -1,27 +1,37 @@
-<!ENTITY languages.label "Језици">
-<!ENTITY loadImages.accesskey "А">
-<!ENTITY defaultSize.label "Величина:">
-<!ENTITY enableJava.accesskey "У">
-<!ENTITY chooseLanguage.label "Изаберите омиљени језик за приказ страна">
-<!ENTITY advancedFonts.accesskey "П">
-<!ENTITY blockPopups.label "Блокирај искачуће прозоре">
-<!ENTITY blockPopups.accesskey "Б">
-<!ENTITY defaultFont.label "Изворно писмо:">
-<!ENTITY advancedJS.accesskey "П">
-<!ENTITY advancedJS.label "Писма…">
-<!ENTITY enableJava.label "Укључи јаву">
-<!ENTITY loadImages.label "Аутоматски учитај слике">
-<!ENTITY enableJavaScript.label "Укључи јаваскрипт (JavaScript)">
-<!ENTITY advancedFonts.label "Писма…">
-<!ENTITY defaultFont.accesskey "И">
-<!ENTITY colors.label "Боје…">
-<!ENTITY chooseButton.label "Избор…">
-<!ENTITY enableJavaScript.accesskey "У">
-<!ENTITY chooseButton.accesskey "И">
-<!ENTITY exceptions.accesskey "И">
-<!ENTITY exceptions.label "Изузеци">
-<!ENTITY colors.accesskey "Б">
-<!ENTITY defaultSize.accesskey "В">
-<!ENTITY fontsAndColors.label "Писма и боје">
-<!ENTITY popupExceptions.label "Изузеци">
-<!ENTITY popupExceptions.accesskey "И">
+<!ENTITY  blockPopups.label           "Блокирај искачуће прозоре">
+<!ENTITY  blockPopups.accesskey       "Б">
+<!ENTITY  popupExceptions.label       "Изузеци">
+<!ENTITY  popupExceptions.accesskey   "И">
+
+<!ENTITY  loadImages.label            "Аутоматски учитај слике">
+<!ENTITY  loadImages.accesskey        "А">
+<!ENTITY  exceptions.label            "Изузеци">
+<!ENTITY  exceptions.accesskey        "И">
+
+<!ENTITY  enableJavaScript.label      "Укључи јаваскрипт (JavaScript)">
+<!ENTITY  enableJavaScript.accesskey  "У">
+<!ENTITY  advancedJS.label            "Писма…">
+<!ENTITY  advancedJS.accesskey        "П">
+
+<!ENTITY  enableJava.label            "Укључи јаву">
+<!ENTITY  enableJava.accesskey        "У">
+
+
+<!ENTITY  fontsAndColors.label        "Писма и боје">
+
+<!ENTITY  defaultFont.label           "Изворно писмо:">
+<!ENTITY  defaultFont.accesskey       "И">
+<!ENTITY  defaultSize.label           "Величина:">
+<!ENTITY  defaultSize.accesskey       "В">
+
+<!ENTITY  advancedFonts.label         "Писма…">
+<!ENTITY  advancedFonts.accesskey     "П">
+
+<!ENTITY  colors.label                "Боје…">
+<!ENTITY  colors.accesskey            "Б">
+
+
+<!ENTITY languages.label              "Језици">
+<!ENTITY chooseLanguage.label         "Изаберите омиљени језик за приказ страна">
+<!ENTITY chooseButton.label           "Избор…">
+<!ENTITY chooseButton.accesskey       "И">
