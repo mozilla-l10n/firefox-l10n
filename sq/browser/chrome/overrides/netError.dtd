@@ -157,7 +157,7 @@
 <!ENTITY cspFrameAncestorBlocked.title "Bllokuar nga një Rregull mbi Sigurinë e Lëndës">
 <!ENTITY cspFrameAncestorBlocked.longDesc "<p>&brandShortName;-i e pengoi ngarkimin prej kësaj faqeje në këtë mënyrë ngaqë faqja përmban një rregull sigurie që nuk e lejon.</p>">
 
-<!ENTITY corruptedContentError.title "Gabim Lënde të Dëmtuar">
+<!ENTITY corruptedContentError.title "Gabim nga Lëndë e Dëmtuar">
 <!ENTITY corruptedContentError.longDesc "<p>Faqja që po përpiqeni të shihni nuk mund të shfaqet, ngaqë u kap një gabim në transmetimin e të dhënave.</p><ul><li>Ju lutem, lidhuni me të zotët e site-it web për t&apos;u njoftuar këtë problem.</li></ul>">
 
 <!ENTITY securityOverride.linkText "Ose mund të shtoni një përjashtim…">
