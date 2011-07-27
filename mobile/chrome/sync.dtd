@@ -1,53 +1,23 @@
-<!-- The page shown when not logged in... -->
-<!ENTITY setupButton.label          "Ρύθμιση &syncBrand.fullName.label;">
-<!ENTITY setupButton.accesskey      "θ">
-<!ENTITY weaveDesc.label            "Με τον &syncBrand.fullName.label; μπορείτε να έχετε πρόσβαση στο ιστορικό, τους σελιδοδείκτες, τους κωδικούς και τις ανοικτές καρτέλες σας, μέσω όλων των συσκευών σας.">
+<!ENTITY sync.title                 "Sync">
+<!ENTITY sync.notconnected          "Χωρίς σύνδεση">
+<!ENTITY sync.connect               "Σύνδεση">
+<!ENTITY sync.connected             "Συνδεδεμένο">
+<!ENTITY sync.details               "Λεπτομέρειες">
+<!ENTITY sync.synchronize           "Ενεργοποίηση Sync">
+<!ENTITY sync.deviceName            "Αυτή η συσκευή">
+<!ENTITY sync.disconnect            "Αποσύνδεση">
+<!ENTITY sync.syncNow               "Sync Τώρα">
 
-
-
-
-<!-- Login error feedback -->
-<!ENTITY updatePass.label             "Ενημέρωση">
-<!ENTITY resetPass.label              "Εκκαθάριση">
-
-<!-- Manage Account -->
-<!ENTITY manageAccount.label          "Διαχείριση λογαριασμού">
-<!ENTITY manageAccount.accesskey      "χ">
-<!ENTITY changePassword.label         "Αλλαγή κωδικού">
-
-<!ENTITY resetSync.label              "Εκκαθάριση συγχρονισμού">
-
-
-<!-- Sync Settings -->
-<!ENTITY syncComputerName.label       "Όνομα υπολογιστή:">
-<!ENTITY syncComputerName.accesskey   "υ">
-<!ENTITY addDevice.label              "Προσθήκη συσκευής">
-
-
-<!-- Footer stuff -->
-<!ENTITY prefs.tosLink.label        "Όροι υπηρεσίας">
-<!ENTITY prefs.ppLink.label         "Πολιτική απορρήτου">
-
-<!ENTITY engine.bookmarks.label     "Σελιδοδείκτες">
-<!ENTITY engine.bookmarks.accesskey "δ">
-
-<!ENTITY engine.history.label       "Ιστορικό">
-<!ENTITY engine.history.accesskey   "ρ">
-
-<!ENTITY engine.passwords.label     "Κωδικοί">
-<!ENTITY engine.passwords.accesskey "δ">
-
-<!ENTITY engine.prefs.label         "Προτιμήσεις">
-<!ENTITY engine.prefs.accesskey     "ρ">
-
-<!ENTITY engine.tabs.label          "Καρτέλες">
-<!ENTITY engine.tabs.accesskey      "τ">
-
-<!ENTITY mySyncKey.label              "Το κλειδί συγχρονισμού μου">
-<!ENTITY syncMy.label               "Συγχρονισμός σε">
-<!ENTITY deactivateDevice.label       "Απενεργοποίηση αυτής της συσκευής">
-
-
-
-<!ENTITY viewQuota.label              "Προβολή ορίων">
+<!ENTITY sync.setup.title           "Σύνδεση στο Sync">
+<!ENTITY sync.setup.jpake           "Από έναν υπολογιστή με Firefox που είναι συνδεδεμένος με το Sync, πηγαίνετε στις επιλογές Sync και επιλέξτε &#x0022;Προσθήκη συσκευής&#x0022;">
+<!ENTITY sync.fallback              "Δεν είμαι κοντά στον υπολογιστή μου…">
+<!ENTITY sync.setup.manual          "Εισάγετε τις πληροφορίες λογαριασμού σας στο Sync">
+<!ENTITY sync.account               "Όνομα λογαριασμού">
+<!ENTITY sync.password              "Κωδικός">
+<!ENTITY sync.syncKey               "Κλειδί Sync">
+<!ENTITY sync.customServer          "Χρήση προσαρμοσμένου εξυπηρετητή">
+<!ENTITY sync.serverURL             "URL  εξυπηρετητή">
+<!ENTITY sync.setup.connect         "Σύνδεση">
+<!ENTITY sync.setup.cancel          "Ακύρωση">
+<!ENTITY sync.setup.tutorial        "Δείξτε μου πως">
 
