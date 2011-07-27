@@ -6,7 +6,6 @@
 <!ENTITY editBookmarkOverlay.feedLocation.accesskey          "й">
 <!ENTITY editBookmarkOverlay.siteLocation.label              "Хуудасны байршил:">
 <!ENTITY editBookmarkOverlay.siteLocation.accesskey          "д">
-<!ENTITY editBookmarkOverlay.liveTitlesSeparator.label       "Амьд гарчиг">
 <!ENTITY editBookmarkOverlay.folder.label                    "Сан:">
 <!ENTITY editBookmarkOverlay.foldersExpanderDown.tooltip     "Хаягийн бүх санг харуул">
 <!ENTITY editBookmarkOverlay.expanderUp.tooltip              "Нуу">
