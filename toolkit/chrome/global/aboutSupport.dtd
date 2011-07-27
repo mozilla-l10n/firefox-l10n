@@ -19,6 +19,7 @@
 <!ENTITY aboutSupport.appBasicsEnabledPlugins "Plugain a tha an comas">
 <!ENTITY aboutSupport.appBasicsBuildConfig "Rèiteachadh na togalach">
 <!ENTITY aboutSupport.appBasicsUserAgent "UserAgent">
+<!ENTITY aboutSupport.appBasicsCrashIDs "Aithisgean tuislidh">
 
 <!ENTITY aboutSupport.show.label "Fosgail am pasgan far a bheil e">
 

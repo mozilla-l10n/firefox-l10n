@@ -63,7 +63,7 @@
 <!ENTITY hdrReplyButton.tooltip "freagair an teachdaireachd seo">
 <!ENTITY hdrReplyAllButton.label "freagair a h-uile">
 <!ENTITY hdrReplyAllButton.tooltip "freagair a h-uile seòladair is faightear">
-<!ENTITY hdrReplyListButton.label "liosta nam freagairt">
+<!ENTITY hdrReplyListButton.label "freagair an liosta">
 <!ENTITY hdrReplyListButton.tooltip "freagair ri liosta puist">
 <!ENTITY hdrForwardButton.label "sìn air adhart">
 <!ENTITY hdrForwardButton.tooltip "sìn an teachdaireachd air adhart gu">
