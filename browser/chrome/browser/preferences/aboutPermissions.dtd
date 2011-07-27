@@ -38,5 +38,5 @@ Entities below were automatically added by compare-locales,
  based on en-US entities.
 -->
 
-<!ENTITY cookie.removeAll "Remove All Cookies">
-<!ENTITY cookie.remove "Remove Cookies">
+<!ENTITY cookie.removeAll "සියළු කුකීන් ඉවත් කරන්න">
+<!ENTITY cookie.remove "කුකීන් ඉවත් කරන්න">
