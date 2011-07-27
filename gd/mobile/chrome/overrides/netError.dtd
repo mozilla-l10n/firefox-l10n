@@ -7,7 +7,7 @@
 <!-- Specific error messages -->
 
 <!ENTITY connectionFailure.title "Cha ghabh ceangal a dhèanamh ris">
-<!ENTITY connectionFailure.longDesc "&sharedLongDesc;">
+<!ENTITY connectionFailure.longDesc "&sharedLongDesc2;">
 
 <!ENTITY deniedPortAccess.title "Tha an seòladh seo cuingichte">
 <!ENTITY deniedPortAccess.longDesc "">
@@ -33,7 +33,7 @@
 <!ENTITY malformedURI.longDesc "<ul> <li>Bidh seòlaidhean-lìn coltach ris an fhear seo a ghnàth: <strong>http://www.ball-sampaill.com/</strong></li> <li>Dèan cinnteach gu bheil thu a' cleachdadh fiar-sgoraidhean (.i. <strong>/</strong>).</li></ul>">
 
 <!ENTITY netInterrupt.title "Bhris rudeigin a-steach air a' cheangal">
-<!ENTITY netInterrupt.longDesc "&sharedLongDesc;">
+<!ENTITY netInterrupt.longDesc "&sharedLongDesc2;">
 
 <!ENTITY netOffline.title "Am modh far loidhne">
 <!ENTITY netOffline.longDesc2 "
@@ -49,10 +49,10 @@
 <!ENTITY unsafeContentType.longDesc "<ul> <li>Nach leig thu fios air an duilgheadas seo gun fheadhainn aig a bheil an làrach-lìn?</li> </ul>">
 
 <!ENTITY netReset.title "Chaidh an ceangal ath-shuidheachadh">
-<!ENTITY netReset.longDesc "&sharedLongDesc;">
+<!ENTITY netReset.longDesc "&sharedLongDesc2;">
 
 <!ENTITY netTimeout.title "Dh'fhalbh an ùine air a' cheangal">
-<!ENTITY netTimeout.longDesc "&sharedLongDesc;">
+<!ENTITY netTimeout.longDesc "&sharedLongDesc2;">
 
 <!ENTITY protocolNotFound.title "Cha deach an seòladh a thuigsinn">
 <!ENTITY protocolNotFound.longDesc "<ul> <li>Dh'fhaodadh gum bi agad bathar-bog a bharrachd a stàladh mus fosgail thu an seòladh seo.</li></ul>">
