@@ -22,7 +22,7 @@
 <!ENTITY display.caption "Visualizzazione">
 <!ENTITY showCondensedAddresses.label 'Mostra solo il "nome visualizzato" per i contatti presenti nella rubrica'>
 <!ENTITY showCondensedAddresses.accesskey "o">
-<!ENTITY autoMarkAsRead.label "Segna automaticamente i messaggi come letti">
+<!ENTITY autoMarkAsRead.label "Segna automaticamente i messaggi come già letti">
 <!ENTITY autoMarkAsRead.accesskey "u">
 <!ENTITY markAsReadNoDelay.label "Appena visualizzati">
 <!ENTITY markAsReadNoDelay.accesskey "A">

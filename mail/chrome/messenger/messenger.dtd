@@ -367,9 +367,9 @@
 <!ENTITY tagCmd8.key "8">
 <!ENTITY tagCmd9.key "9">
 <!ENTITY markMenu.label "Segna">
-<!ENTITY markMenu.accesskey "M">
+<!ENTITY markMenu.accesskey "S">
 <!ENTITY toggleReadCmd.key "m">
-<!ENTITY markAsReadCmd.label "Letto">
+<!ENTITY markAsReadCmd.label "Già letto">
 <!ENTITY markAsReadCmd.accesskey "e">
 <!ENTITY markAsUnreadCmd.label "Non letto">
 <!ENTITY markAsUnreadCmd.accesskey "N">
@@ -397,7 +397,7 @@
 <!ENTITY openMessageWindowCmd.accesskey "A">
 <!ENTITY openMessageWindowCmd.key "o">
 <!ENTITY openConversationCmd.label "Apri nella conversazione">
-<!ENTITY openConversationCmd.accesskey "p">
+<!ENTITY openConversationCmd.accesskey "z">
 <!ENTITY openConversationCmd.key "A">
 <!ENTITY openFeedMessage.label "Apri il messaggio">
 <!ENTITY openFeedMessage.accesskey "A">
@@ -519,9 +519,9 @@
 <!ENTITY folderContextSendUnsentMessages.accesskey "S">
 <!ENTITY folderContextUnsubscribe.label "Annulla Sottoscrizione">
 <!ENTITY folderContextUnsubscribe.accesskey "A">
-<!ENTITY folderContextMarkNewsgroupRead.label "Segna il gruppo di discussione come letto">
+<!ENTITY folderContextMarkNewsgroupRead.label "Segna il gruppo di discussione come già letto">
 <!ENTITY folderContextMarkNewsgroupRead.accesskey "c">
-<!ENTITY folderContextMarkMailFolderRead.label "Segna la cartella come letta">
+<!ENTITY folderContextMarkMailFolderRead.label "Segna la cartella come già letta">
 <!ENTITY folderContextMarkMailFolderRead.accesskey "M">
 <!ENTITY folderContextSubscribe.label "Sottoscrivi…">
 <!ENTITY folderContextSubscribe.accesskey "v">
