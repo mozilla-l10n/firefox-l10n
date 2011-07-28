@@ -25,8 +25,7 @@
 <!ENTITY netInterrupt.longDesc "<p>De browser hat mei súkses ferbining makke, mar dizze wurde ûnderbrutsen tiidens it oerbringen fan ynformaasje. Probearje it op 'e nij.</p><ul><li>Kin jo gjin oare websteeën besykje? Kontrolearje de netwurkferbining fan de kompjûter.</li><li>Ha jo nog hieltyd problemen? Freegje jo netwurkbehearder of ynternetprovider foar assistinsje.</li></ul>">
 
 <!ENTITY netOffline.title "Netwurk sûnder ferbining">
-<!ENTITY netOffline.longDesc "<p>De browser wurket op dit stuit sûnder ferbining en kin net ferbine mei de opfrege webstee.</p><ul><li>Is de kompjûter ferbûn mei in aktyf netwurk?</li><li> Set jo browser yn de online moadus om it nochris te besykjen.</li></ul>">  
-<!ENTITY netOffline.overrideLongDesc "<p>De browser wurket op dit stuit sûnder ferbining en kin net ferbine mei it frege ûnderdiel.</p><ul><li>Is de kompjûter ferbûn mei in aktyf netwurk?</li><li>Set jo browser yn de online moadus om it nochris te besykjen.</li></ul>">
+<!ENTITY netOffline.longDesc2 "<p>De browser wurket op dit stuit sûnder ferbining en kin net ferbine mei it frege ûnderdiel.</p><ul><li>Is de kompjûter ferbûn mei in aktyf netwurk?</li><li>Klik &quot;Probearje opnij&quot; om nij online moadus te gean en laad de side opnij.</li></ul>">
 
 <!ENTITY contentEncodingError.title "Ynhâld Kodearings Flater">
 <!ENTITY contentEncodingError.longDesc "<p>De side dy't jo probearje te besjen kin net toant wurde, want it brûkt in flater of net stipe foarm fan kompresje.</p><ul><li>Nim kontakt op mei de webstee-eigners om se te ynformearjen oer dit probleem.</li></ul>">
@@ -80,6 +79,10 @@
 
 <!ENTITY cspFrameAncestorBlocked.title "Blokkearre troch ynhâldsfeilichheidsbelied">
 <!ENTITY cspFrameAncestorBlocked.longDesc "<p>De browser hat foarkommen dat dizze side laden op dizze wize wurdt, omdat de side in ynhâldsfeilichheidsbelied hat dy't dat net tastiet.</p>">
+
+<!ENTITY corruptedContentError.title "Korruptearre ynhâldsflater">
+<!ENTITY corruptedContentError.longDesc "<p>De side dy't jo probearje te besjen kin net toand wurde omdat der in flater yn de gegevensoerdracht ûntdekt waard.</p><ul><li>Nim kontakt op mei de webstee-eigners om se te ynformearjen oer dit probleem.</li></ul>">
+
 
 <!-- Include app-specific error messages - do not change this in localization!
      Some applications might override netErrorApp.dtd with their specific version,
