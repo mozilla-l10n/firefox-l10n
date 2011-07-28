@@ -25,10 +25,3 @@
 <!ENTITY select.label "Επιλογή είδους υλικού για εισαγωγή:">
 <!ENTITY title.label "Τίτλος">
 <!ENTITY processing.label "Εισαγωγή...">
-<!ENTITY FieldDiscInputText1.label "Ο Netscape Communicator 4.x  έχει μια διεύθυνση αλληλογραφίας για κάθε καρτέλα ενώ ο  &brandShortName; έχει δύο (Οικίας και Εργασίας). ">
-<!ENTITY FieldDiscInputText2.label "Επιλέξτε την κατηγορία στην οποία θέλετε να αποθηκεύσετε τις εισηγμένες διευθύνσεις αλληλογραφίας:">
-<!ENTITY FieldDiscWarning.label "Αυτή η κατηγορία θα χρησιμοποιηθεί για όλες τις εγγραφές του επιλεγμένου ευρετηρίου διευθύνσεων:">
-<!ENTITY importHome.label "Οικία">
-<!ENTITY importHome.accesskey "Ο">
-<!ENTITY importWork.label "Εργασία">
-<!ENTITY importWork.accesskey "γ">

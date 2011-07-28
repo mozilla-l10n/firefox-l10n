@@ -21,6 +21,7 @@
    -
    - Contributor(s):
    -   
+   -   
    -
    - Alternatively, the contents of this file may be used under the terms of
    - either of the GNU General Public License Version 2 or later (the "GPL"),
@@ -37,8 +38,15 @@
    - ***** END LICENSE BLOCK ***** -->
 <!ENTITY editorWindow.titlemodifier "Composer">
 <!ENTITY editorWindow.titlemodifiermenuseparator " - ">
-<!ENTITY viewMenu.label "Προβολή">
-<!ENTITY viewMenu.accesskey "β">
+<!ENTITY compositionToolbar.tooltip "Εργαλειοθήκη σύνταξης">
+<!ENTITY previewToolbarCmd.label "Περιήγηση">
+<!ENTITY previewToolbarCmd.tooltip "Φόρτωση της σελίδας στον περιηγητή">
+<!ENTITY exportToTextCmd.label "Εξαγωγή σε κείμενο...">
+<!ENTITY exportToTextCmd.accesskey "μ">
+<!ENTITY previewCmd.label "Περιήγηση σελίδας">
+<!ENTITY previewCmd.accesskey "γ">
+<!ENTITY sendPageCmd.label "Αποστολή σελίδας">
+<!ENTITY sendPageCmd.accesskey "τ">
 <!ENTITY compositionToolbarCmd.label "Εργαλειοθήκη σύνταξης">
 <!ENTITY compositionToolbarCmd.accesskey "γ">
 <!ENTITY formattingToolbarCmd.label "Εργαλειοθήκη μορφοποίησης">
@@ -47,3 +55,26 @@
 <!ENTITY editmodeToolbarCmd.accesskey "Ε">
 <!ENTITY formatMenu.label "Μορφοποίηση">
 <!ENTITY formatMenu.accesskey "φ">
+<!ENTITY grid.label "Πλέγμα τοποθέτησης">
+<!ENTITY grid.accesskey "τ">
+<!ENTITY pageProperties.label "Τίτλος σελίδας και ιδιότητες">
+<!ENTITY pageProperties.accesskey "λ">
+<!ENTITY validateCmd.label "Επικύρωση HTML">
+<!ENTITY validateCmd.accesskey "ω">
+<!ENTITY NormalModeTab.label "Τυπική">
+<!ENTITY NormalMode.label "Τυπική λειτουργία επεξεργασίας">
+<!ENTITY NormalMode.accesskey "υ">
+<!ENTITY NormalMode.tooltip "Προβολή περιγραμμάτων πινάκων και αγκυρών">
+<!ENTITY AllTagsModeTab.label "Ετικέτες HTML">
+<!ENTITY AllTagsMode.label "Ετικέτες HTML">
+<!ENTITY AllTagsMode.accesskey "ι">
+<!ENTITY AllTagsMode.tooltip "Προβολή εικονιδίων για όλες τις ετικέτες HTML">
+<!ENTITY HTMLSourceModeTab.dir "ltr">
+<!ENTITY HTMLSourceModeTab.label "Κώδικας">
+<!ENTITY HTMLSourceMode.label "Κώδικας HTML">
+<!ENTITY HTMLSourceMode.accesskey "H">
+<!ENTITY HTMLSourceMode.tooltip "Επεξεργασία κώδικα HTML">
+<!ENTITY PreviewModeTab.label "Προεπισκόπηση">
+<!ENTITY PreviewMode.label "Προεπισκόπηση">
+<!ENTITY PreviewMode.accesskey "Π">
+<!ENTITY PreviewMode.tooltip "Προβολή ως WYSIWYG (όπως στον περιηγητή)">

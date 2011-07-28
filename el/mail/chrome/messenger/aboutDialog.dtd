@@ -1,15 +1,36 @@
 <!ENTITY aboutDialog.title "Περί &brandFullName;">
-<!ENTITY aboutButton.label "&lt; Πίσω">
-<!ENTITY aboutButton.accesskey "Π">
-<!ENTITY aboutVersion "έκδοση">
-<!ENTITY aboutMenu.label "Περί">
-<!ENTITY aboutMenu.accesskey "ε">
-<!ENTITY aboutCredits.label "Μνεία">
-<!ENTITY aboutCredits.accesskey "Μ">
-<!ENTITY aboutRights.label "Τα δικαιώματα σας">
-<!ENTITY aboutRights.accesskey "δ">
-<!ENTITY aboutContributors.label "Συντελεστές">
-<!ENTITY aboutContributors.accesskey "λ">
-<!ENTITY aboutLicense.label "Άδεια χρήσης">
-<!ENTITY aboutLicense.accesskey "δ">
+<!ENTITY community.start2 "Ο &brandShortName; έχει σχεδιαστεί από το ">
+<!ENTITY community.mozillaLink "&vendorShortName;">
+<!ENTITY community.middle2 ", μια">
+<!ENTITY community.creditsLink " παγκόσμια κοινότητα">
+<!ENTITY community.end2 " που συνεργάζεται για να κάνει το διαδίκτυο έναν καλύτερο κόσμο. Βασική μας αρχή είναι ότι το διαδίκτυο θα πρέπει να είναι ανοικτό, ελεύθερο και προσβάσιμο από όλους χωρίς κανένα περιορισμό.">
+<!ENTITY contribute.start "Ακούγεται ενδιαφέρον; ">
+<!ENTITY contribute.getInvolvedLink "Αναμιχθείτε και εσείς!">
+<!ENTITY contribute.end "">
+<!ENTITY bottomLinks.license "Πληροφορίες αδειοδότησης">
+<!ENTITY bottomLinks.rights "Δικαιώματα χρήστη">
+<!ENTITY bottomLinks.privacy "Πολιτική απορρήτου">
+<!ENTITY update.checkingForUpdates "Γίνεται έλεγχος για ενημερώσεις…">
+<!ENTITY update.checkingAddonCompat "Γίνεται έλεγχος συμβατότητας προσθέτου…">
+<!ENTITY update.noUpdatesFound "Ο &brandShortName; είναι ενημερωμένος">
+<!ENTITY update.adminDisabled "Οι ενημερώσεις έχουν απενεργοποιηθεί από τον διαχειριστή του συστήματος σας">
+<!ENTITY update.failed.start "Αποτυχία ενημέρωσης.">
+<!ENTITY update.failed.linkText "Κατεβάστε την τελευταία έκδοση">
+<!ENTITY update.failed.end "">
+<!ENTITY update.manual.start "Κάντε λήψη της">
+<!ENTITY update.manual.linkText "τελευταίας έκδοσης">
+<!ENTITY update.manual.end "">
+<!ENTITY update.downloading.start "Λήψη ενημέρωσης σε εξέλιξη -">
+<!ENTITY update.downloading.end "">
+<!ENTITY channel.description.start "Βρίσκεστε στο κανάλι ενημερώσεων της έκδοσης ">
+<!ENTITY channel.description.end " .">
+<!ENTITY channel.change "Αλλαγή">
+<!ENTITY channel.release.description "Απολαύστε την τελική έκδοση που έχει δοκιμαστεί και χρησιμοποιείται από εκατοντάδες εκατομμύρια χρήστες . Η απίστευτη ταχύτητα, η ευκολία στην παραμετροποίηση και οι σύγχρονες τεχνολογίες του παγκόσμιου ιστού, θα είναι κάτω από τον έλεγχο σας.">
+<!ENTITY channel.beta.description "Απολαύστε την τεχνολογία και τις λειτουργίες αιχμής με περισσότερη σταθερότητα. Τα σχόλια σας θα μας είναι πολύτιμα για τον έλεγχο και την βελτίωση της επικειμενης τελικής έκδοσης.">
+<!ENTITY channel.aurora.description "Απολαύστε τους πιο πρόσφατους νεωτερισμούς και λειτουργίες σε ένα μη σταθερό περιβάλλον, ακατάλληλο για καρδιακούς. Τα σχόλια σας πάνω στις νέες λειτουργίες και την εφαρμογή θα μας είναι απαραίτητα για να αποφασίσουμε από το τι θα απαρτίζεται η μελλοντική τελική έκδοση.">
+<!ENTITY channel.selector.start "Μετάβαση στο κανάλι ενημερώσεων της ">
+<!ENTITY channel.selector.end " έκδοσης.">
+<!ENTITY channel.selector.applyButton "Εφαρμογή και ενημέρωση">
+<!ENTITY channel.selector.cancelButton "Ακύρωση">
 <!ENTITY cmdCloseMac.commandKey "w">
+
