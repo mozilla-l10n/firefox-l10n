@@ -1,9 +1,0 @@
-<!ENTITY defaultClient.title  "Alapértelmezett kliens">
-<!ENTITY defaultClient.intro  "A &brandShortName; beállítása alapértelmezett kliensként:">
-
-<!ENTITY email.label "Levelezés">
-<!ENTITY newsgroups.label "Hírcsoportok">
-<!ENTITY rss.label "RSS-hírforrások kezelése">
-
-<!ENTITY checkOnStartup.label "Ellenőrzés elvégzése a &brandShortName; minden indításakor">
-<!ENTITY checkOnStartup.accesskey "E">
