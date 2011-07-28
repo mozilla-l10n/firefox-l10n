@@ -58,7 +58,7 @@
 <!ENTITY setup.captchaPage2.title.label     "Potwierdź, że nie jesteś robotem">
 <!-- Existing Account Page 1: Add Device (incl. Add a Device dialog strings) -->
 <!ENTITY addDevice.title.label              "Dodaj urządzenie">
-<!ENTITY addDevice.showMeHow.label          "Pokaż jak to zrobić">
+<!ENTITY addDevice.showMeHow.label          "Pokaż, jak to zrobić">
 <!ENTITY addDevice.dontHaveDevice.label     "Nie mam tego urządzenia przy sobie">
 <!ENTITY addDevice.setup.description.label  "Aby aktywować, przejdź do opcji &syncBrand.shortName.label; na innym urządzeniu i wybierz &#x0022;Dodaj urządzenie&#x0022;.">
 
