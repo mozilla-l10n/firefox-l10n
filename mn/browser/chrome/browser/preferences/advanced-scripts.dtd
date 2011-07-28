@@ -41,12 +41,8 @@
 <!ENTITY allowScripts.label            "Дараах нөхцөлд скриптийг зөвшөөр:">
 
 <!ENTITY moveResizeWindows.label        "Байгаа цонхоо хөдөлгөх эсвэл хэмжээг нь өөрчлөх">
-<!ENTITY moveResizeWindows.accesskey    "й">
+<!ENTITY moveResizeWindows.accesskey    "M">
 <!ENTITY raiseLowerWindows.label        "Цонх дэлгэх эсвэл хураах">
-<!ENTITY raiseLowerWindows.accesskey    "Ц">
+<!ENTITY raiseLowerWindows.accesskey    "R">
 <!ENTITY disableContextMenus.label      "Цэсийг хорих эсвэл бүтцийг нь орлуулах">
-<!ENTITY disableContextMenus.accesskey  "с">
-<!ENTITY hideStatusBar.label            "Төлвийн самбарыг нуух">
-<!ENTITY hideStatusBar.accesskey        "Т">
-<!ENTITY changeStatusBar.label          "Төлвийн самбарын текстийг өөрчлөх">
-<!ENTITY changeStatusBar.accesskey      "ө">
+<!ENTITY disableContextMenus.accesskey  "D">
