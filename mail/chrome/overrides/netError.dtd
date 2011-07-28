@@ -176,9 +176,9 @@ netError.xhtml) because it exposes functionality specific to firefox. -->
 <button id='getMeOutOfHereButton'>&securityOverride.getMeOutOfHereButton;</button>
 <button id='exceptionDialogButton'>&securityOverride.exceptionButtonLabel;</button>
 ">
-<!ENTITY netOffline.longDesc2 "
+<!ENTITY netOffline.longDesc "
 <ul>
-  <li>Πατήστε&quot;Προσπάθεια ξανά&quot; για να μεταβείτε σε εργασία μέ σύνδεση και να ξαναφορτώσετε την σελίδα.</li>
+  <li>Αποεπιλέξτε &quot;το Εργασία χωρίς σύνδεση&quot; από το μενού Αρχείο, και προσπαθήστε ξανά.</li>
 </ul>
 ">
 
@@ -189,8 +189,7 @@ netError.xhtml) because it exposes functionality specific to firefox. -->
 <!ENTITY remoteXUL.title "Απομακρυσμένο XUL">
 <!ENTITY remoteXUL.longDesc "<p><ul><li>Παρακαλούμε επικοινωνήστε με τους ιδιοκτήτες της ιστοσελίδας για να τους ενημερώσετε για αυτό το πρόβλημα.</li></ul></p>">
 
-<!ENTITY corruptedContentError.title "Σφάλμα κατεστραμμένου περιεχομένου">
-<!ENTITY corruptedContentError.longDesc "<p>Δεν είναι δυνατή η εμφάνιση αυτής της σελίδας επειδή υπήρξε ένα σφάλμα στην μεταγωγή δεδομένων.</p><ul><li>Επικοινωνήστε με τους ιδιοκτήτες της ιστοσελίδας για να τους ενημερώσετε για το πρόβλημα.</li></ul>">
+
 
 
 
