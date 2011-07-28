@@ -20,6 +20,7 @@
 <!ENTITY aboutSupport.appBasicsEnabledPlugins "Ynskeakele ynstekkers">
 <!ENTITY aboutSupport.appBasicsBuildConfig "Utjeftekonfiguraasje">
 <!ENTITY aboutSupport.appBasicsUserAgent "User Agent">
+<!ENTITY aboutSupport.appBasicsCrashIDs "Ungelokrapporten">
 
 <!ENTITY aboutSupport.show.label "Byhearrende map iepenje">
 
