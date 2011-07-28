@@ -5,8 +5,6 @@
 <!ENTITY startupHomePage.label     "Миний эхлэл хуудсыг харуул">
 <!ENTITY startupBlankPage.label    "Хоосон хуудас харуул">
 <!ENTITY startupLastSession.label  "Миний сүүлд зорчиж байсан цонх ба самбаруудыг харуул">
-<!ENTITY location.label            "Эхлэл хуудас:">
-<!ENTITY location.accesskey        "х">
 <!ENTITY useCurrentPage.label      "Одоогийн хуудсыг хэрэглэ">
 <!ENTITY useCurrentPage.accesskey  "д">
 <!ENTITY useMultiple.label         "Одоогийн хуудаснуудыг хэрэглэ">

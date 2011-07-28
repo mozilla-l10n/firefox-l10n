@@ -10,58 +10,7 @@
 <!ENTITY  locbar.bookmarks.label        "Хадгалсан хаягнаас">
 <!ENTITY  locbar.nothing.label          "Юуг ч санал болгохгүй">
 <!-- LOCALIZATION NOTE:
-  The entities rememberDaysBefore.label and rememberDaysAfter.label appear on a single
-  line in preferences as follows:
-
-  &rememberDaysBefore.label  [ textbox for number of days ]   &rememberDaysAfter.label;
--->
-<!ENTITY  rememberDaysBefore.label      "Миний түүхийг хамгийн багадаа">
-<!ENTITY  rememberDaysBefore.accesskey  "й">
-<!ENTITY  rememberDaysAfter2.label       "өдөр хадгал">
-
-<!ENTITY  rememberForms.label           "Миний хүснэгт болон хайх самбарт оруулсан мэдээллийг хадгал.">
-<!ENTITY  rememberForms.accesskey       "М">
-
-<!ENTITY  rememberDownloads.label       "Миний юу татаж авсныг сана">
-<!ENTITY  rememberDownloads.accesskey   "с">
-
-<!ENTITY  cookies.label                 "Күүки">
-
-<!ENTITY  acceptCookies.label           "Хуудсанд күүкиг зөвшөөр">
-<!ENTITY  acceptCookies.accesskey       "в">
-
-<!ENTITY  acceptThirdParty.label        "Гуравдагч нийлүүлэгчийн күүкиг зөвшөөр">
-<!ENTITY  acceptThirdParty.accesskey    "у">
-
-<!ENTITY  keepUntil.label               "Байлгах хугацаа:">
-<!ENTITY  keepUntil.accesskey           "й">
-
-<!ENTITY  expire.label                  "тэдний хугацаа нь дуустал">
-<!ENTITY  close.label                   "намайг &brandShortName;-г хаатал">
-<!ENTITY  askEachTime.label             "тухай бүрд надаас асуу">
-
-<!ENTITY  cookieExceptions.label        "Зөвшөөрөгдсөн хуудас…">
-<!ENTITY  cookieExceptions.accesskey    "ш">
-
-<!ENTITY  showCookies.label             "Күүкиг харуул…">
-<!ENTITY  showCookies.accesskey         "а">
-
-<!ENTITY  privateData.label             "Хувийн өгөгдөл">
-
-<!ENTITY  alwaysClear.label              "Намайг &brandShortName;-г хаах үед үргэлж миний хувийн өгөгдлийг устга">
-<!ENTITY  alwaysClear.accesskey          "Н">
-
-<!ENTITY  clearDataSettings.label        "Тохиргоо…">
-<!ENTITY  clearDataSettings.accesskey    "х">
-
-<!ENTITY  historyHeader.pre.label          "&brandShortName; :">
-<!ENTITY  historyHeader.pre.accesskey      "F">
-<!ENTITY  historyHeader.remember.label     "Зорчсон түүхийг хадгална">
-<!ENTITY  historyHeader.dontremember.label "Зорчсон түүхийг хадгалахгүй">
-<!ENTITY  historyHeader.custom.label       "Зорчсон түүхэнд дурын тохиргоо хэрэглэнэ">
-<!ENTITY  historyHeader.post.label         "">
-
-<!ENTITY  rememberDescription.label      "&brandShortName; таны зорчсон түүх, татаж авалт, хүснэгт болон хайлт хийсэн түүх болон зорчсон вэб хуудсанд байсан күүки мэдээллүүдийг хадгалах болно.">
+  The entities rememberDescription.label      "&brandShortName; таны зорчсон түүх, татаж авалт, хүснэгт болон хайлт хийсэн түүх болон зорчсон вэб хуудсанд байсан күүки мэдээллүүдийг хадгалах болно.">
 
 <!-- LOCALIZATION NOTE (rememberActions.pre.label): include a trailing space as needed -->
 <!-- LOCALIZATION NOTE (rememberActions.middle.label): include a starting and trailing space as needed -->
@@ -80,22 +29,6 @@
 <!ENTITY  dontrememberActions.clearHistory.label "одоо байгаа бүх зорчсон түүхийг арилгаж">
 <!ENTITY  dontrememberActions.post.label         "болно.">
 
-<!ENTITY  privateBrowsingAutoStart.label "&brandShortName;-г автоматаар хувийн зорчих хэсэгтэй эхлүүл">
-<!ENTITY  privateBrowsingAutoStart.accesskey "в">
-
-<!-- LOCALIZATION NOTE:
-  The entities rememberHistory.pre.label and rememberHistory.post.label appear on a single
-  line in preferences as follows:
-
-  &rememberHistory.pre.label  [ textbox for number of days ]  &rememberHistory.post.label;
--->
-<!ENTITY  rememberHistory.pre.label      "Миний зорчсон түүхийг хамгийн багадаа">
-<!ENTITY  rememberHistory.pre.accesskey  "г">
-<!ENTITY  rememberHistory.post.label     "өдөр хадгал">
-
-<!ENTITY  rememberDownload.label         "Татаж авсан түүхийг хадгал">
-<!ENTITY  rememberDownload.accesskey     "л">
-
 <!ENTITY  rememberSearchForm.label       "Хүснэгт оруулга болон хайлт хийсэн түүхийг хадгал">
 <!ENTITY  rememberSearchForm.accesskey   "д">
 
@@ -104,7 +37,3 @@
 
 <!ENTITY  clearOnCloseSettings.label     "Тохируулга…">
 <!ENTITY  clearOnCloseSettings.accesskey "р">
-
-<!ENTITY  clearDataNow.label             "Одоо арилга…">
-<!ENTITY  clearDataNow.accesskey         "а">
-

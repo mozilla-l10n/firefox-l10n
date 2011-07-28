@@ -20,6 +20,6 @@
 <!ENTITY pluginWizard.finalPage.moreInfo.label               "Плагины тухай мэдэх эсвэл гар аргаар дутагдаж байгаа плагиныг олох.">
 <!ENTITY pluginWizard.finalPage.restart.label                "Плагиныг ажиллуулахын тулд &brandShortName;-г шинээр ачаалах хэрэгтэй.">
 
-<!ENTITY missingPlugin.label                                 "Энд дарж плагиныг татаж авна уу.">
-<!ENTITY disabledPlugin.label                                "Энэ бүтцэд зориулсан плагиныг зөвшөөрөөгүй. Энд дарж плагинуудаа зохицуулна уу.">
+<!ENTITY missingPlugin                                 "Энд дарж плагиныг татаж авна уу.">
+<!ENTITY disabledPlugin                                "Энэ бүтцэд зориулсан плагиныг зөвшөөрөөгүй. Энд дарж плагинуудаа зохицуулна уу.">
 <!ENTITY blockedPlugin.label                                 "Таныг хамгаалах үүднээс энэ плагиныг хорисон.">

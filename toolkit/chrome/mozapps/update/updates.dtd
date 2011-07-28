@@ -1,6 +1,4 @@
 <!ENTITY  updateWizard.title              "Програм шинэчлэл">
-<!ENTITY  window.width                    "36em">
-<!ENTITY  window.macWidth                 "39em">
 
 <!ENTITY  checking.title                  "Шинэчлэл шалгаж байна">
 <!ENTITY  updateCheck.label               "&brandShortName;-н шинэ хувилбарыг шалгаж байна…">
@@ -36,7 +34,7 @@
 
 <!ENTITY  incompatibleList.title          "Нийцгүй нэмэгдлүүд олдлоо">
 
-<!ENTITY  downloading.title               "Шинэчлэлийг татаж авч байна">
+<!ENTITY  downloadPage.title               "Шинэчлэлийг татаж авч байна">
 <!ENTITY  downloading.intro               "Шинэчлэлийг татаж авч байна…">
 <!ENTITY  connecting.label                "Шинэчлэх сервертэй холбогдож байна…">
 <!ENTITY  verificationFailedText.label    "&brandShortName; татаж авсан шинэчлэлийн нягтыг
@@ -50,7 +48,6 @@
 <!ENTITY  error.label                     "Энэ шинэчлэлийг суулгахад алдаа гарлаа. &brandShortName; шинэчилж чадахгүй байгаа шалтгаан нь:">
 
 <!ENTITY  errorManual.label               "Та &brandShortName;-г гар аргаар энэ холбоосд зорчиж сүүлийн хувилбарыг татаж авч шинэчилж болно:">
-<!ENTITY  errorpatching.title             "Шинэчлэлд алдаа гарсан">
 <!ENTITY  errorpatching.intro             "Зарим шинэчлэлүүд хэрэгжиж чадсангүй.
                                            &brandShortName; шинэчлэлийг бүхлээр нь дахин татаж авахыг оролдох болно.">
 
