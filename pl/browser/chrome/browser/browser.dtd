@@ -121,6 +121,8 @@ can reach it easily. -->
 <!ENTITY forwardCmd.label "Do przodu" >
 <!ENTITY forwardCmd.accesskey "P" >
 <!ENTITY forwardButton.tooltip "Przejdź do następnej strony" >
+<!ENTITY backForwardButtonMenu.tooltip "Kliknij prawym przyciskiem lub rozwiń, by wyświetlić historię">
+<!ENTITY backForwardButtonMenuMac.tooltip "Rozwiń, by wyświetlić historię">
 <!ENTITY reloadCmd.label "Odśwież" >
 <!ENTITY reloadCmd.accesskey "O" >
 <!ENTITY reloadButton.tooltip "Odśwież bieżącą stronę" >
