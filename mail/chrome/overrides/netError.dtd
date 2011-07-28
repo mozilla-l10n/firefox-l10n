@@ -92,11 +92,8 @@
 <!ENTITY netInterrupt.longDesc "&sharedLongDesc;">
 
 <!ENTITY netOffline.title "Λειτουργία εργασίας χωρίς σύνδεση">
-<!ENTITY netOffline.longDesc "
-<ul>
-  <li>Αποεπιλέξτε &quot;το Εργασία χωρίς σύνδεση&quot; από το μενού Αρχείο, και προσπαθήστε ξανά.</li>
-</ul>
-">
+
+
 
 <!ENTITY netReset.title "Έγινε διακοπή της σύνδεσης με τη σελίδα">
 <!ENTITY netReset.longDesc "&sharedLongDesc;">
@@ -168,20 +165,32 @@
 <!ENTITY securityOverride.getMeOutOfHereButton "Να φύγω από εδώ!">
 <!ENTITY securityOverride.exceptionButtonLabel "Προσθήκη εξαίρεσης">
 
-
-<!ENTITY cspFrameAncestorBlocked.title "Έχει φραγεί από την πολιτική προστασίας περιεχομένου">
-<!ENTITY cspFrameAncestorBlocked.longDesc "<p>Ο &brandShortName; εμπόδισε τη φόρτωση της σελίδας με αυτό τον τρόπο, επειδή η σελίδα έχει μια πολιτική προστασίας περιεχομένου που δεν το επιτρέπει.</p>">
-
 <!-- LOCALIZATION NOTE (securityOverride.warningText) - Do not translate the
 contents of the <xul:button> tags.  The only language content is the label= field,
 which uses strings already defined above. The button is included here (instead of
 netError.xhtml) because it exposes functionality specific to firefox. -->
 
-<!ENTITY securityOverride.warningText "
+<!ENTITY securityOverride.warningContent "
 <p>Δεν πρέπει να προσθέσετε μια εξαίρεση αν χρησιμοποιείτε μια σύνδεση στο διαδίκτυο που δεν εμπιστεύεστε πλήρως, ή αν δεν έχετε ξαναδεί προειδοποίηση για αυτόν τον εξυπηρετητή.</p>
 
-<xul:button xmlns:xul='http://www.mozilla.org/keymaster/gatekeeper/there.is.only.xul' id='getMeOutOfHereButton' label='&securityOverride.getMeOutOfHereButton;'/>
-<xul:button xmlns:xul='http://www.mozilla.org/keymaster/gatekeeper/there.is.only.xul' id='exceptionDialogButton' label='&securityOverride.exceptionButtonLabel;'/>
+<button id='getMeOutOfHereButton'>&securityOverride.getMeOutOfHereButton;</button>
+<button id='exceptionDialogButton'>&securityOverride.exceptionButtonLabel;</button>
 ">
+<!ENTITY netOffline.longDesc2 "
+<ul>
+  <li>Πατήστε&quot;Προσπάθεια ξανά&quot; για να μεταβείτε σε εργασία μέ σύνδεση και να ξαναφορτώσετε την σελίδα.</li>
+</ul>
+">
+
+
+<!ENTITY cspFrameAncestorBlocked.title "Έχει φραγεί από την πολιτική προστασίας περιεχομένου">
+<!ENTITY cspFrameAncestorBlocked.longDesc "<p>Ο &brandShortName; εμπόδισε τη φόρτωση της σελίδας με αυτό τον τρόπο, επειδή η σελίδα έχει μια πολιτική προστασίας περιεχομένου που δεν το επιτρέπει.</p>">
+
+<!ENTITY remoteXUL.title "Απομακρυσμένο XUL">
+<!ENTITY remoteXUL.longDesc "<p><ul><li>Παρακαλούμε επικοινωνήστε με τους ιδιοκτήτες της ιστοσελίδας για να τους ενημερώσετε για αυτό το πρόβλημα.</li></ul></p>">
+
+<!ENTITY corruptedContentError.title "Σφάλμα κατεστραμμένου περιεχομένου">
+<!ENTITY corruptedContentError.longDesc "<p>Δεν είναι δυνατή η εμφάνιση αυτής της σελίδας επειδή υπήρξε ένα σφάλμα στην μεταγωγή δεδομένων.</p><ul><li>Επικοινωνήστε με τους ιδιοκτήτες της ιστοσελίδας για να τους ενημερώσετε για το πρόβλημα.</li></ul>">
+
 
 

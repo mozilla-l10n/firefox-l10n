@@ -1,0 +1,13 @@
+<!ENTITY dialogTitle.label "Επιλογές αρχειοθέτησης">
+<!ENTITY archiveGranularityPrefix.label "Κατά την αρχειοθέτηση μηνυμάτων, να τοποθετούνται σε:">
+<!ENTITY archiveFlat.label "Έναν μοναδικό φάκελο">
+<!ENTITY archiveFlat.accesskey "μ">
+<!ENTITY archiveYearly.label "Σε ετήσιους φάκελους αρχειοθέτησης">
+<!ENTITY archiveYearly.accesskey "σ">
+<!ENTITY archiveMonthly.label "Σε μηνιαίους φάκελους αρχειοθέτησης">
+<!ENTITY archiveMonthly.accesskey "η">
+<!ENTITY keepFolderStructure.label "Διατήρηση υπάρχουσας δομής φακέλων των αρχειοθετημένων μηνυμάτων">
+<!ENTITY keepFolderStructure.accesskey "Δ">
+<!ENTITY archiveExample.label "Παράδειγμα">
+<!ENTITY archiveFolderName.label "Αρχειοθετημένα">
+<!ENTITY inboxFolderName.label "Εισερχόμενα">

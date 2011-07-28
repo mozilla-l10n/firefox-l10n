@@ -36,8 +36,8 @@
 <!ENTITY reuseExpRadio0.accesskey "ο">
 <!ENTITY reuseExpRadio1.label "Ένα υπάρχον παράθυρο μηνύματος">
 <!ENTITY reuseExpRadio1.accesskey "π">
-<!ENTITY closeMsgWindowOnMoveOrDelete.label  "Κλείσιμο παραθύρου μηνύματος στη μετακίνηση ή διαγραφή">
-<!ENTITY closeMsgWindowOnDelete.accesskey "λ">
+<!ENTITY closeMsgOnMoveOrDelete.label "Κλείσιμο παραθύρου/καρτέλας μηνύματος στο κλείσιμο ή διαγραφή">
+<!ENTITY closeMsgOnMoveOrDelete.accesskey "Κ">
 <!ENTITY autoCheck.label "Να γίνεται αυτόματος έλεγχος για ενημερώσεις για:">
 <!ENTITY enableAppUpdate.label "&brandShortName;">
 <!ENTITY enableAppUpdate.accesskey "h">
@@ -63,7 +63,7 @@
 <!ENTITY Diskspace "Αποθηκευτικός χώρος">
 <!ENTITY offlineCompact.label "Συμπίεση φακέλων πάνω από">
 <!ENTITY offlineCompact.accesskey "π">
-<!ENTITY kb.label "KB">
+<!ENTITY mb.label "MB">
 <!ENTITY useCacheBefore.label "Χρήση μέχρι">
 <!ENTITY useCacheBefore.accesskey "μ">
 <!ENTITY useCacheAfter.label "MB χώρου για την προσωρινή μνήμη">
