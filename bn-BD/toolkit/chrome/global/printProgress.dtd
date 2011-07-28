@@ -1,6 +1,6 @@
 <!--LOCALIZATION NOTE printProgress.dtd Main UI for Print Progress Dialog -->
 <!ENTITY printWindow.title "মুদ্রণ করা হচ্ছে">
-<!ENTITY title "শিরোনাম:">
+<!ENTITY title    "শিরোনাম:">
 <!ENTITY progress "অগ্রগতি:">
 <!ENTITY preparing "প্রস্তুতি নেয়া হচ্ছে…">
 <!ENTITY printComplete "মুদ্রণ সম্পন্ন।">

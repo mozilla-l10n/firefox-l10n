@@ -42,13 +42,13 @@
   &ageAutosyncBefore.label [textbox for autosync value] &ageAutosyncMiddle.label; [dropdown for autosync interval] &ageAutosyncAfter.label;
 -->
 
-<!ENTITY allAutosync.label "স্থানীয়ভাবে সকল বার্তা সমকালীন করা হবে (c)">
-<!ENTITY allAutosync.accesskey "c">
-<!ENTITY ageAutosyncBefore.label "সাম্প্রতিক বিষয়সমূহ সমকালীন করা হবে">
-<!ENTITY ageAutosync.accesskey "z">
-<!ENTITY ageAutosyncMiddle.label "">
-<!ENTITY dayAgeInterval.label "দিন">
-<!ENTITY weekAgeInterval.label "সপ্তাহ">
-<!ENTITY monthAgeInterval.label "মাস">
-<!ENTITY yearAgeInterval.label "বছর">
-<!ENTITY ageAutosyncAfter.label "">
+<!ENTITY allAutosync.label               "স্থানীয়ভাবে সকল বার্তা সমকালীন করা হবে (c)">
+<!ENTITY allAutosync.accesskey           "c">
+<!ENTITY ageAutosyncBefore.label         "সাম্প্রতিক বিষয়সমূহ সমকালীন করা হবে">
+<!ENTITY ageAutosync.accesskey           "z">
+<!ENTITY ageAutosyncMiddle.label         "">
+<!ENTITY dayAgeInterval.label            "দিন">
+<!ENTITY weekAgeInterval.label           "সপ্তাহ">
+<!ENTITY monthAgeInterval.label          "মাস">
+<!ENTITY yearAgeInterval.label           "বছর">
+<!ENTITY ageAutosyncAfter.label          "">

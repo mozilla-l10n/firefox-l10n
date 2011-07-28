@@ -1,31 +1,31 @@
-<!ENTITY printCmd.commandkey "p">
+<!ENTITY printCmd.commandkey            "p">
 
-<!ENTITY findOnCmd.commandkey "F">
-<!ENTITY findAgainCmd.commandkey "G">
-<!ENTITY findAgainCmd.commandkey2 "VK_F3">
+<!ENTITY findOnCmd.commandkey           "F">
+<!ENTITY findAgainCmd.commandkey        "G">
+<!ENTITY findAgainCmd.commandkey2       "VK_F3">
 
-<!ENTITY backButton.label "পূর্ববর্তী (B)">
-<!ENTITY backButton.accesskey "B">
-<!ENTITY backButton.tooltip "পূর্ববর্তী পৃষ্ঠায় যান">
-<!ENTITY forwardButton.label "পরবর্তী (F)">
-<!ENTITY forwardButton.accesskey "F">
-<!ENTITY forwardButton.tooltip "পরবর্তী পৃষ্ঠায় যান">
-<!ENTITY copyCmd.label "অনুলিপি (C)">
-<!ENTITY copyCmd.accesskey "C">
-<!ENTITY selectAllCmd.label "সব নির্বাচন (A)">
-<!ENTITY selectAllCmd.accesskey "A">
-<!ENTITY goBackCmd.commandkey "[">
-<!ENTITY goForwardCmd.commandkey "]">
-<!ENTITY homeButton.label "হোম">
-<!ENTITY homeButton.tooltip "সহায়তার প্রথম পৃষ্ঠায় যান">
-<!ENTITY printButton.label "মুদ্রণ">
-<!ENTITY printButton.tooltip "এই পৃষ্ঠা মুদ্রণ">
-<!ENTITY closeWindow.commandkey "W">
+<!ENTITY backButton.label               "পূর্ববর্তী (B)">
+<!ENTITY backButton.accesskey           "B">
+<!ENTITY backButton.tooltip             "পূর্ববর্তী পৃষ্ঠায় যান">
+<!ENTITY forwardButton.label            "পরবর্তী (F)">
+<!ENTITY forwardButton.accesskey        "F">
+<!ENTITY forwardButton.tooltip          "পরবর্তী পৃষ্ঠায় যান">
+<!ENTITY copyCmd.label                  "অনুলিপি (C)">
+<!ENTITY copyCmd.accesskey              "C">
+<!ENTITY selectAllCmd.label             "সব নির্বাচন (A)">
+<!ENTITY selectAllCmd.accesskey         "A">
+<!ENTITY goBackCmd.commandkey           "[">
+<!ENTITY goForwardCmd.commandkey        "]">
+<!ENTITY homeButton.label               "হোম">
+<!ENTITY homeButton.tooltip             "সহায়তার প্রথম পৃষ্ঠায় যান">
+<!ENTITY printButton.label              "মুদ্রণ">
+<!ENTITY printButton.tooltip            "এই পৃষ্ঠা মুদ্রণ">
+<!ENTITY closeWindow.commandkey         "W">
 
-<!ENTITY search.emptytext "অনুসন্ধান">
-<!ENTITY searchHeader.label "অনুসন্ধানের ফলাফল">
-<!ENTITY toctab.label "বিষয়বস্তু (C)">
-<!ENTITY toctab.accesskey "C">
+<!ENTITY search.emptytext               "অনুসন্ধান">
+<!ENTITY searchHeader.label             "অনুসন্ধানের ফলাফল">
+<!ENTITY toctab.label                   "বিষয়বস্তু (C)">
+<!ENTITY toctab.accesskey               "C">
 <!-- LOCALIZATION NOTE :
 fullZoomEnlargeCmd.commandkey3, fullZoomReduceCmd.commandkey2 and
 fullZoomResetCmd.commandkey2 are alternative acceleration keys for zoom.
@@ -33,21 +33,21 @@ If shift key is needed with your locale popular keyboard for them,
 you can use these alternative items. Otherwise, their values should be empty.  -->
 
 
-<!ENTITY fullZoomReduceCmd.commandkey "-">
-<!ENTITY fullZoomReduceCmd.commandkey2 "">
-<!ENTITY fullZoomEnlargeCmd.commandkey "+">
+<!ENTITY fullZoomReduceCmd.commandkey   "-">
+<!ENTITY fullZoomReduceCmd.commandkey2  "">
+<!ENTITY fullZoomEnlargeCmd.commandkey  "+">
 <!-- + is above this key on many keyboards -->
 <!ENTITY fullZoomEnlargeCmd.commandkey2 "=">
 <!ENTITY fullZoomEnlargeCmd.commandkey3 "">
-<!ENTITY fullZoomResetCmd.commandkey "0">
-<!ENTITY fullZoomResetCmd.commandkey2 "">
+<!ENTITY fullZoomResetCmd.commandkey    "0">
+<!ENTITY fullZoomResetCmd.commandkey2   "">
 
-<!ENTITY helpSearch.commandkey "k">
+<!ENTITY helpSearch.commandkey          "k">
 
-<!ENTITY zLevel.label "সর্বদা উপরে থাকবে (T)">
-<!ENTITY zLevel.accesskey "T">
+<!ENTITY zLevel.label                   "সর্বদা উপরে থাকবে (T)">
+<!ENTITY zLevel.accesskey               "T">
 
-<!ENTITY fullZoomReduceBtn.label "ছোট আকারে প্রদর্শন (O)">
-<!ENTITY fullZoomReduceBtn.accesskey "O">
-<!ENTITY fullZoomEnlargeBtn.label "বড় আকারে প্রদর্শন (I)">
-<!ENTITY fullZoomEnlargeBtn.accesskey "I">
+<!ENTITY fullZoomReduceBtn.label        "ছোট আকারে প্রদর্শন (O)">
+<!ENTITY fullZoomReduceBtn.accesskey    "O">
+<!ENTITY fullZoomEnlargeBtn.label       "বড় আকারে প্রদর্শন (I)">
+<!ENTITY fullZoomEnlargeBtn.accesskey   "I">

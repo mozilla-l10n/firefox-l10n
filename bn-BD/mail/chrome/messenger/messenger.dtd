@@ -1,14 +1,24 @@
 <!ENTITY messengerWindow.title "মেইল ও নিউজগ্রুপ">
-<!ENTITY titledefault.label "&brandFullName;">
+<!ENTITY titledefault.label    "&brandFullName;">
 <!ENTITY titleSeparator.label " - ">
 <!-- File Menu -->
 
 <!ENTITY newFolderCmd.label "ফোল্ডার… (F)">
 <!ENTITY newFolderCmd.accesskey "F">
-<!ENTITY closeTabCmd.label "ট্যাব বন্ধ (e)">
-<!ENTITY closeTabCmd.accesskey "e">
-<!ENTITY closeOtherTabsCmd.label "অন্যান্য ট্যাব বন্ধ (l)">
-<!ENTITY closeOtherTabsCmd.accesskey "l">
+<!ENTITY closeTabCmd2.label "Close Tab">
+<!ENTITY closeTabCmd2.accesskey "C">
+<!ENTITY closeOtherTabsCmd2.label "Close Other Tabs">
+<!ENTITY closeOtherTabsCmd2.accesskey "o">
+<!ENTITY recentlyClosedTabsCmd.label "Recently Closed Tabs">
+<!ENTITY recentlyClosedTabsCmd.accesskey "R">
+
+<!ENTITY undoCloseTabCmd.commandkey "T">
+<!-- LOCALIZATION NOTE (moveToNewWindow.label):
+     Menu option to cause the current tab to be migrated to a new Thunderbird
+     window.
+     -->
+<!ENTITY moveToNewWindow.label "Move to New Window">
+<!ENTITY moveToNewWindow.accesskey "W">
 <!ENTITY newVirtualFolderCmd.label "সংরক্ষিত অনুসন্ধান… (S)">
 <!ENTITY newVirtualFolderCmd.accesskey "S">
 <!ENTITY newOtherAccountsCmd.label "অন্যান্য অ্যাকাউন্ট… (O)">
@@ -26,7 +36,6 @@
 <!ENTITY saveAsFileCmd.key "s">
 <!ENTITY saveAsTemplateCmd.label "ফর্মা (T)">
 <!ENTITY saveAsTemplateCmd.accesskey "T">
-<!ENTITY getNewMsgCmd.key "t">
 <!ENTITY getNewMsgForCmd.label "নতুন বার্তা সংগ্রহ (w)">
 <!ENTITY getNewMsgForCmd.accesskey "w">
 <!ENTITY getAllNewMsgCmdPopupMenu.label "সব অ্যাকাউন্ট (A)">
@@ -45,9 +54,9 @@
 <!ENTITY renameFolder.accesskey "R">
 <!ENTITY renameFolder.key "VK_F2">
 <!ENTITY compactFolders.label "ফোল্ডার সংকোচন (F)">
-<!ENTITY compactFolders.accesskey "F">
+<!ENTITY compactFolders.accesskey    "F">
 <!ENTITY emptyTrashCmd.label "আবর্জনার বাক্স খালি করা (y)">
-<!ENTITY emptyTrashCmd.accesskey "y">
+<!ENTITY emptyTrashCmd.accesskey    "y">
 <!ENTITY offlineMenu.label "অফলাইন (l)">
 <!ENTITY offlineMenu.accesskey "l">
 <!ENTITY offlineGoOfflineCmd.label "অফলাইনে কাজ করা (W)">
@@ -234,27 +243,27 @@ If shift key is needed with your locale popular keyboard for them,
 you can use these alternative items. Otherwise, their values should be empty.  -->
 
 
-<!ENTITY fullZoomEnlargeCmd.label "বড় আকারে প্রদর্শন (I)">
-<!ENTITY fullZoomEnlargeCmd.accesskey "I">
-<!ENTITY fullZoomEnlargeCmd.commandkey "+">
+<!ENTITY fullZoomEnlargeCmd.label       "বড় আকারে প্রদর্শন (I)">
+<!ENTITY fullZoomEnlargeCmd.accesskey   "I">
+<!ENTITY fullZoomEnlargeCmd.commandkey  "+">
 <!-- + is above this key on many keyboards -->
 <!ENTITY fullZoomEnlargeCmd.commandkey2 "=">
 <!ENTITY fullZoomEnlargeCmd.commandkey3 "">
 
-<!ENTITY fullZoomReduceCmd.label "ছোট আকারে প্রদর্শন (O)">
-<!ENTITY fullZoomReduceCmd.accesskey "O">
-<!ENTITY fullZoomReduceCmd.commandkey "-">
-<!ENTITY fullZoomReduceCmd.commandkey2 "">
+<!ENTITY fullZoomReduceCmd.label        "ছোট আকারে প্রদর্শন (O)">
+<!ENTITY fullZoomReduceCmd.accesskey    "O">
+<!ENTITY fullZoomReduceCmd.commandkey   "-">
+<!ENTITY fullZoomReduceCmd.commandkey2  "">
 
-<!ENTITY fullZoomResetCmd.label "পুনঃনির্ধারণ (R)">
-<!ENTITY fullZoomResetCmd.accesskey "R">
-<!ENTITY fullZoomResetCmd.commandkey "0">
-<!ENTITY fullZoomResetCmd.commandkey2 "">
+<!ENTITY fullZoomResetCmd.label         "পুনঃনির্ধারণ (R)">
+<!ENTITY fullZoomResetCmd.accesskey     "R">
+<!ENTITY fullZoomResetCmd.commandkey    "0">
+<!ENTITY fullZoomResetCmd.commandkey2   "">
 
-<!ENTITY fullZoomToggleCmd.label "শুধুমাত্র লেখা বড় আকারে প্রদর্শন (T)">
-<!ENTITY fullZoomToggleCmd.accesskey "T">
-<!ENTITY fullZoom.label "বড় আকারে প্রদর্শন (Z)">
-<!ENTITY fullZoom.accesskey "Z">
+<!ENTITY fullZoomToggleCmd.label        "শুধুমাত্র লেখা বড় আকারে প্রদর্শন (T)">
+<!ENTITY fullZoomToggleCmd.accesskey    "T">
+<!ENTITY fullZoom.label                 "বড় আকারে প্রদর্শন (Z)">
+<!ENTITY fullZoom.accesskey             "Z">
 
 <!ENTITY pageSourceCmd.label "বার্তার উৎস (o)">
 <!ENTITY pageSourceCmd.accesskey "o">
@@ -314,6 +323,7 @@ you can use these alternative items. Otherwise, their values should be empty.  -
 <!ENTITY folderMenu.accesskey "o">
 <!ENTITY thisFolder.label "এই ফোল্ডার (F)">
 <!ENTITY thisFolder.accesskey "F">
+<!ENTITY goRecentlyClosedTabs.label "Recently Closed Tabs">
 <!ENTITY startPageCmd.label "প্রথম পৃষ্ঠা (S)">
 <!ENTITY startPageCmd.accesskey "S">
 <!-- Message Menu -->
@@ -326,25 +336,25 @@ you can use these alternative items. Otherwise, their values should be empty.  -
 <!ENTITY newNewMsgCmd.accesskey "M">
 <!ENTITY archiveMsgCmd.label "আর্কাইভ (A)">
 <!ENTITY archiveMsgCmd.accesskey "A">
-<!ENTITY archiveMsgCmd.key "a">
+<!ENTITY archiveMsgCmd.key  "a">
 <!ENTITY cancelNewsMsgCmd.label "বার্তা বাতিল করা (M)">
 <!ENTITY cancelNewsMsgCmd.accesskey "M">
 <!ENTITY replyMsgCmd.label "উত্তর (R)">
 <!ENTITY replyMsgCmd.accesskey "R">
-<!ENTITY replyMsgCmd.key "r">
+<!ENTITY replyMsgCmd.key  "r">
 <!ENTITY replySenderCmd.label "শুধুমাত্র প্রেরককে উত্তর দেয়া (R)">
 <!ENTITY replySenderCmd.accesskey "R">
 <!ENTITY replyNewsgroupCmd.label "নিউজগ্রুপে উত্তর দেয়া (y)">
-<!ENTITY replyNewsgroupCmd.accesskey "y">
+<!ENTITY replyNewsgroupCmd.accesskey  "y">
 <!ENTITY replyToAllMsgCmd.label "সকলকে উত্তর দেয়া (p)">
-<!ENTITY replyToAllMsgCmd.accesskey "p">
-<!ENTITY replyToAllMsgCmd.key "r">
+<!ENTITY replyToAllMsgCmd.accesskey  "p">
+<!ENTITY replyToAllMsgCmd.key  "r">
 <!ENTITY replyToListMsgCmd.label "তালিকায় উত্তর দেয়া (L)">
-<!ENTITY replyToListMsgCmd.accesskey "L">
-<!ENTITY replyToListMsgCmd.key "l">
+<!ENTITY replyToListMsgCmd.accesskey  "L">
+<!ENTITY replyToListMsgCmd.key  "l">
 <!ENTITY forwardMsgCmd.label "ফরওয়ার্ড (F)">
 <!ENTITY forwardMsgCmd.accesskey "F">
-<!ENTITY forwardMsgCmd.key "l">
+<!ENTITY forwardMsgCmd.key  "l">
 <!ENTITY forwardAsMenu.label "এভাবে ফরওয়ার্ড করা হবে (w)">
 <!ENTITY forwardAsMenu.accesskey "w">
 <!ENTITY forwardAsInline.label "ইনলাইন (I)">
@@ -394,12 +404,11 @@ you can use these alternative items. Otherwise, their values should be empty.  -
 <!ENTITY tagCmd9.key "9">
 <!ENTITY markMenu.label "চিহ্নিত করা (k)">
 <!ENTITY markMenu.accesskey "k">
+<!ENTITY toggleReadCmd.key "m">
 <!ENTITY markAsReadCmd.label "পঠিত হিসেবে (R)">
 <!ENTITY markAsReadCmd.accesskey "R">
-<!ENTITY markAsReadCmd.key "m">
 <!ENTITY markAsUnreadCmd.label "As Unread">
 <!ENTITY markAsUnreadCmd.accesskey "U">
-<!ENTITY markAsUnreadCmd.key "m">
 <!ENTITY markThreadAsReadCmd.label "পঠিত থ্রেড হিসেবে (T)">
 <!ENTITY markThreadAsReadCmd.accesskey "T">
 <!ENTITY markThreadAsReadCmd.key "r">
@@ -509,7 +518,6 @@ you can use these alternative items. Otherwise, their values should be empty.  -
 <!ENTITY getMsgButton.tooltip "নতুন বার্তা গ্রহণ">
 <!ENTITY getAllNewMsgCmd.label "সব নতুন বার্তা গ্রহণ করা হবে (G)">
 <!ENTITY getAllNewMsgCmd.accesskey "G">
-<!ENTITY getAllNewMsgCmd.key "t">
 <!ENTITY newMsgButton.tooltip "নতুন বার্তা তৈরি করা হবে">
 <!ENTITY replyButton.tooltip "বার্তার উত্তর দেয়া হবে">
 <!ENTITY replyAllButton.tooltip "প্রেরক এবং সকল প্রাপককে উত্তর দেয়া হবে">
@@ -640,6 +648,10 @@ you can use these alternative items. Otherwise, their values should be empty.  -
 
 <!ENTITY contextOpenNewWindow.label "বার্তাটি নতুন উইন্ডোতে খুলুন (W)">
 <!ENTITY contextOpenNewWindow.accesskey "W">
+<!-- The key potentially conflicts with cutCmd.accessKey which is defined in
+     textcontext.dtd from toolkit. Right now, both menu items can't be visible
+     at the same time, but should someone enable copy/paste of message, this key
+     would probably need to be changed. -->
 <!ENTITY contextOpenNewTab.label "বার্তাটি নতুন ট্যাবে খুলুন (T)">
 <!ENTITY contextOpenNewTab.accesskey "T">
 <!ENTITY contextOpenConversation.label "কথোপকথনে বার্তা খোলা হবে (n)">
@@ -742,12 +754,14 @@ you can use these alternative items. Otherwise, their values should be empty.  -
 
 <!ENTITY phishingBarMessage2.label "এই বার্তাটি একটি জালিয়াতি হতে পারে।">
 <!ENTITY removePhishingBarButton1.label "বার্তা উপেক্ষা করা হবে">
+<!ENTITY disablePhishingWarning1.label "Disable scam detection for all messages">
 <!ENTITY reportPhishingError1.label "এই বার্তাটি জালিয়াতি বলে মনে হচ্ছে না।">
 <!-- MDN Bar -->
 
-<!ENTITY mdnBarMessage.label "বার্তাটি পঠিত হলে প্রেরককে জানানো হবে। আপনি কি প্রেরককে জানাতে চান?">
-<!ENTITY mdnBarIgnoreButton.label "অনুরোধ উপেক্ষা করা হবে">
-<!ENTITY mdnBarSendButton.label "প্রাপ্তিপত্র পাঠানো হবে">
+<!ENTITY mdnBarIgnoreButton2.label "Ignore">
+<!ENTITY mdnBarIgnoreButton2.accesskey "I">
+<!ENTITY mdnBarSendButton2.label "Send Return Receipt">
+<!ENTITY mdnBarSendButton2.accesskey "S">
 <!-- Quick Search Bar -->
 <!-- LOCALIZATION NOTE (quickSearchCmd.key):
      This is actually the key used for the global message search box; we have
@@ -801,20 +815,16 @@ you can use these alternative items. Otherwise, their values should be empty.  -
 <!ENTITY CreateFilterFrom.accesskey "F">
 <!ENTITY reportPhishingURL.label "ইমেইল জালিয়াতি রিপোর্ট করা হবে (o)">
 <!ENTITY reportPhishingURL.accesskey "o">
+<!-- Spell checker context menu items -->
+
+<!ENTITY spellAddDictionaries.label "Add Dictionaries…">
+<!ENTITY spellAddDictionaries.accesskey "A">
 <!-- Content Pane Context Menu -->
 
 <!ENTITY saveLinkAsCmd.label "লিংকে এভাবে সংরক্ষণ করা হবে… (k)">
 <!ENTITY saveLinkAsCmd.accesskey "k">
 <!ENTITY saveImageAsCmd.label "ছবি এভাবে সংরক্ষণ করা হবে… (v)">
 <!ENTITY saveImageAsCmd.accesskey "v">
-<!ENTITY cutCmd.label "কাটা (u)">
-<!ENTITY cutCmd.accesskey "u">
-<!ENTITY copyCmd.label "অনুলিপি (C)">
-<!ENTITY copyCmd.accesskey "C">
-<!ENTITY pasteCmd.label "প্রতিলেপন (P)">
-<!ENTITY pasteCmd.accesskey "P">
-<!ENTITY selectAllCmd.label "সব নির্বাচন (A)">
-<!ENTITY selectAllCmd.accesskey "A">
 <!ENTITY copyLinkCmd.label "লিংকের অবস্থান অনুলিপি (C)">
 <!ENTITY copyLinkCmd.accesskey "C">
 <!ENTITY copyImageAllCmd.label "ছবি অনুলিপি করা হবে (I)">
@@ -840,14 +850,14 @@ you can use these alternative items. Otherwise, their values should be empty.  -
 <!ENTITY zoomWindow.label "বড় করে প্রদর্শন">
 <!-- Mac OS X Application Menu (Cocoa widgets) -->
 
-<!ENTITY preferencesCmdMac.label "পছন্দসমূহ…">
-<!ENTITY preferencesCmdMac.commandkey ",">
-<!ENTITY preferencesCmdMac.modifiers "accel">
-<!ENTITY servicesMenuMac.label "সেবা">
-<!ENTITY hideThisAppCmdMac.label "&brandShortName; লুকানো হবে">
-<!ENTITY hideThisAppCmdMac.commandkey "H">
-<!ENTITY hideThisAppCmdMac.modifiers "accel">
-<!ENTITY hideOtherAppsCmdMac.label "অন্যান্য লুকানো হবে">
+<!ENTITY preferencesCmdMac.label        "পছন্দসমূহ…">
+<!ENTITY preferencesCmdMac.commandkey   ",">
+<!ENTITY preferencesCmdMac.modifiers    "accel">
+<!ENTITY servicesMenuMac.label          "সেবা">
+<!ENTITY hideThisAppCmdMac.label        "&brandShortName; লুকানো হবে">
+<!ENTITY hideThisAppCmdMac.commandkey   "H">
+<!ENTITY hideThisAppCmdMac.modifiers    "accel">
+<!ENTITY hideOtherAppsCmdMac.label      "অন্যান্য লুকানো হবে">
 <!ENTITY hideOtherAppsCmdMac.commandkey "H">
-<!ENTITY hideOtherAppsCmdMac.modifiers "accel,alt">
-<!ENTITY showAllAppsCmdMac.label "সব প্রদর্শিত হবে">
+<!ENTITY hideOtherAppsCmdMac.modifiers  "accel,alt">
+<!ENTITY showAllAppsCmdMac.label        "সব প্রদর্শিত হবে">

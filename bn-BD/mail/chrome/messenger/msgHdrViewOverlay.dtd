@@ -98,24 +98,49 @@
 <!ENTITY viewSourceMenuItem.accesskey "v">
 <!ENTITY otherActionsPrint.label "মুদ্রণ… (p)">
 <!ENTITY otherActionsPrint.accesskey "p">
+<!-- Attachment context menu items -->
 
-<!ENTITY openAttachmentCmd.label "খুলুন (O)">
-<!ENTITY openAttachmentCmd.accesskey "O">
-<!ENTITY saveAsAttachmentCmd.label "নতুনভাবে সংরক্ষণ... (A)">
-<!ENTITY saveAsAttachmentCmd.accesskey "A">
-<!ENTITY detachAttachmentCmd.label "আলাদা করা…">
-<!ENTITY deleteAttachmentCmd.label "মুছে ফেলা">
-<!ENTITY openAllAttachmentsCmd.label "সব খুলুন...(O)">
-<!ENTITY openAllAttachmentsCmd.accesskey "O">
-<!ENTITY saveAllAttachmentsCmd.label "সব সংরক্ষণ... (S)">
-<!ENTITY saveAllAttachmentsCmd.accesskey "S">
-<!ENTITY detachAllAttachmentsCmd.label "সব আলাদা করা... (D)">
-<!ENTITY detachAllAttachmentsCmd.accesskey "D">
-<!ENTITY deleteAllAttachmentsCmd.label "সব মুছে ফেলা... (e)">
-<!ENTITY deleteAllAttachmentsCmd.accesskey "e">
+<!ENTITY openAttachmentCmd.label    "খুলুন (O)">
+<!ENTITY openAttachmentCmd.accesskey    "O">
+<!ENTITY saveAsAttachmentCmd.label    "নতুনভাবে সংরক্ষণ... (A)">
+<!ENTITY saveAsAttachmentCmd.accesskey    "A">
+<!ENTITY detachAttachmentCmd.label    "আলাদা করা…">
+<!ENTITY detachAttachmentCmd.accesskey    "T">
+<!ENTITY deleteAttachmentCmd.label    "মুছে ফেলা">
+<!ENTITY deleteAttachmentCmd.accesskey    "L">
+<!ENTITY openAllAttachmentsCmd.label    "সব খুলুন...(O)">
+<!ENTITY openAllAttachmentsCmd.accesskey    "O">
+<!ENTITY saveAllAttachmentsCmd.label    "সব সংরক্ষণ... (S)">
+<!ENTITY saveAllAttachmentsCmd.accesskey    "S">
+<!ENTITY detachAllAttachmentsCmd.label    "সব আলাদা করা... (D)">
+<!ENTITY detachAllAttachmentsCmd.accesskey    "D">
+<!ENTITY deleteAllAttachmentsCmd.label    "সব মুছে ফেলা... (e)">
+<!ENTITY deleteAllAttachmentsCmd.accesskey    "e">
+<!-- Attachment toolbar items -->
 
-<!ENTITY copyLinkCmd.label "লিংকের অবস্থান অনুলিপি করা (C)">
-<!ENTITY copyLinkCmd.accesskey "C">
+<!ENTITY saveAttachmentButton.label       "save">
+<!ENTITY saveAttachmentButton.tooltip     "save the attached file">
+<!ENTITY saveAllAttachmentsButton.label   "save all">
+<!ENTITY saveAllAttachmentsButton.tooltip "save all the attached files">
+<!ENTITY openAttachmentMenuItem.label     "open">
+<!ENTITY openAttachmentMenuItem.accesskey    "o">
+<!ENTITY saveAsAttachmentMenuItem.label    "save as…">
+<!ENTITY saveAsAttachmentMenuItem.accesskey    "s">
+<!ENTITY detachAttachmentMenuItem.label    "detach…">
+<!ENTITY detachAttachmentMenuItem.accesskey    "d">
+<!ENTITY deleteAttachmentMenuItem.label    "delete">
+<!ENTITY deleteAttachmentMenuItem.accesskey    "e">
+<!ENTITY openAllAttachmentsMenuItem.label    "open all…">
+<!ENTITY openAllAttachmentsMenuItem.accesskey    "o">
+<!ENTITY saveAllAttachmentsMenuItem.label    "save all…">
+<!ENTITY saveAllAttachmentsMenuItem.accesskey    "s">
+<!ENTITY detachAllAttachmentsMenuItem.label    "detach all…">
+<!ENTITY detachAllAttachmentsMenuItem.accesskey    "d">
+<!ENTITY deleteAllAttachmentsMenuItem.label    "delete all…">
+<!ENTITY deleteAllAttachmentsMenuItem.accesskey    "e">
+
+<!ENTITY copyLinkCmd.label        "লিংকের অবস্থান অনুলিপি করা (C)">
+<!ENTITY copyLinkCmd.accesskey    "C">
 
 <!ENTITY CopyMessageId.label "বার্তার ID অনুলিপি করা হবে">
 <!ENTITY OpenMessageForMsgId.label "ID এর জন্য বার্তা খোলা হবে">

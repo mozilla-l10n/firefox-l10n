@@ -35,9 +35,9 @@
 
  ***** END LICENSE BLOCK ***** -->
 
-<!ENTITY Contact.tab "পরিচিতি">
-<!ENTITY Contact.accesskey "C">
-<!ENTITY Name.box "নাম">
+<!ENTITY Contact.tab                     "পরিচিতি">
+<!ENTITY Contact.accesskey               "C">
+<!ENTITY Name.box                        "নাম">
 <!-- LOCALIZATION NOTE:
  NameField1, NameField2, PhoneticField1, PhoneticField2
  those fields are either LN or FN depends on the target country.
@@ -48,130 +48,130 @@
 <!-- LOCALIZATION NOTE (NameField1.id) : DONT_TRANSLATE -->
 
 
-<!ENTITY NameField1.id "FirstName">
+<!ENTITY NameField1.id                  "FirstName">
 <!-- LOCALIZATION NOTE (NameField2.id) : DONT_TRANSLATE -->
-<!ENTITY NameField2.id "LastName">
+<!ENTITY NameField2.id                  "LastName">
 <!-- LOCALIZATION NOTE (PhoneticField1.id) : DONT_TRANSLATE -->
-<!ENTITY PhoneticField1.id "PhoneticFirstName">
+<!ENTITY PhoneticField1.id              "PhoneticFirstName">
 <!-- LOCALIZATION NOTE (PhoneticField2.id) : DONT_TRANSLATE -->
-<!ENTITY PhoneticField2.id "PhoneticLastName">
+<!ENTITY PhoneticField2.id              "PhoneticLastName">
 
-<!ENTITY NameField1.label "নামের প্রথমাংশ (F):">
-<!ENTITY NameField1.accesskey "F">
-<!ENTITY NameField2.label "নামের শেষাংশ (L):">
-<!ENTITY NameField2.accesskey "L">
-<!ENTITY PhoneticField1.label "ফনেটিক:">
-<!ENTITY PhoneticField2.label "ফনেটিক:">
-<!ENTITY DisplayName.label "প্রদর্শন (D):">
-<!ENTITY DisplayName.accesskey "D">
-<!ENTITY preferDisplayName.label "বার্তার শীর্ষচরণে নাম প্রদর্শন সর্বদা পছন্দ করা হয়">
-<!ENTITY preferDisplayName.accesskey "y">
-<!ENTITY NickName.label "ডাকনাম (N):">
-<!ENTITY NickName.accesskey "N">
+<!ENTITY NameField1.label               "নামের প্রথমাংশ (F):">
+<!ENTITY NameField1.accesskey           "F">
+<!ENTITY NameField2.label               "নামের শেষাংশ (L):">
+<!ENTITY NameField2.accesskey           "L">
+<!ENTITY PhoneticField1.label           "ফনেটিক:">
+<!ENTITY PhoneticField2.label           "ফনেটিক:">
+<!ENTITY DisplayName.label              "প্রদর্শন (D):">
+<!ENTITY DisplayName.accesskey          "D">
+<!ENTITY preferDisplayName.label        "বার্তার শীর্ষচরণে নাম প্রদর্শন সর্বদা পছন্দ করা হয়">
+<!ENTITY preferDisplayName.accesskey    "y">
+<!ENTITY NickName.label                 "ডাকনাম (N):">
+<!ENTITY NickName.accesskey             "N">
 
-<!ENTITY PrimaryEmail.label "ই-মেইল (E):">
-<!ENTITY PrimaryEmail.accesskey "E">
-<!ENTITY SecondEmail.label "অতিরিক্ত ই-মেইল (i):">
-<!ENTITY SecondEmail.accesskey "i">
-<!ENTITY PreferMailFormat.label "পছন্দসই বার্তার বিন্যাস (v):">
-<!ENTITY PreferMailFormat.accesskey "v">
-<!ENTITY PlainText.label "সাধারন টেক্সট">
-<!ENTITY HTML.label "HTML">
-<!ENTITY Unknown.label "অজানা">
-<!ENTITY ScreenName.label "পর্দার নাম (S):">
-<!ENTITY ScreenName.accesskey "S">
+<!ENTITY PrimaryEmail.label             "ই-মেইল (E):">
+<!ENTITY PrimaryEmail.accesskey         "E">
+<!ENTITY SecondEmail.label              "অতিরিক্ত ই-মেইল (i):">
+<!ENTITY SecondEmail.accesskey          "i">
+<!ENTITY PreferMailFormat.label         "পছন্দসই বার্তার বিন্যাস (v):">
+<!ENTITY PreferMailFormat.accesskey     "v">
+<!ENTITY PlainText.label                "সাধারন টেক্সট">
+<!ENTITY HTML.label                     "HTML">
+<!ENTITY Unknown.label                  "অজানা">
+<!ENTITY ScreenName.label               "পর্দার নাম (S):">
+<!ENTITY ScreenName.accesskey           "S">
 
-<!ENTITY allowRemoteContent1.label "দূরবর্তী বিষয়বস্তু অনুমোদন করা হবে (r)।">
-<!ENTITY allowRemoteContent1.accesskey "r">
-<!ENTITY allowRemoteContent1.tooltip "HTML বার্তায়, দূরবর্তী উৎস হতে বিষয়বস্তু 
+<!ENTITY allowRemoteContent1.label      "দূরবর্তী বিষয়বস্তু অনুমোদন করা হবে (r)।">
+<!ENTITY allowRemoteContent1.accesskey  "r">
+<!ENTITY allowRemoteContent1.tooltip    "HTML বার্তায়, দূরবর্তী উৎস হতে বিষয়বস্তু 
 সংযুক্ত করা সম্ভব। এই ধরনের বার্তা খোলা হলে, 
 এই বহিঃস্থ উৎসের সংযোগ খুলে যাবে। এটা হয়তো বার্তা পঠন 
 অনুসরণ করতে অনুমোদন করবে। এই বাক্সটি নির্বাচন করলে, এই ধরনের বহিঃস্থ সন্নিবেশিত বিষয়বস্তু 
 এই পরিচিতি হতে HTML বার্তায় আনা যাবে।">
 
-<!ENTITY WorkPhone.label "অফিস (k):">
-<!ENTITY WorkPhone.accesskey "k">
-<!ENTITY HomePhone.label "বাসা (m):">
-<!ENTITY HomePhone.accesskey "m">
-<!ENTITY FaxNumber.label "ফ্যাক্স (x):">
-<!ENTITY FaxNumber.accesskey "x">
-<!ENTITY PagerNumber.label "পেজার (g):">
-<!ENTITY PagerNumber.accesskey "g">
-<!ENTITY CellularNumber.label "মোবাইল (b):">
-<!ENTITY CellularNumber.accesskey "b">
+<!ENTITY WorkPhone.label                "অফিস (k):">
+<!ENTITY WorkPhone.accesskey            "k">
+<!ENTITY HomePhone.label                "বাসা (m):">
+<!ENTITY HomePhone.accesskey            "m">
+<!ENTITY FaxNumber.label                "ফ্যাক্স (x):">
+<!ENTITY FaxNumber.accesskey            "x">
+<!ENTITY PagerNumber.label              "পেজার (g):">
+<!ENTITY PagerNumber.accesskey          "g">
+<!ENTITY CellularNumber.label           "মোবাইল (b):">
+<!ENTITY CellularNumber.accesskey       "b">
 
-<!ENTITY Home.tab "ব্যক্তিগত">
-<!ENTITY Home.accesskey "P">
-<!ENTITY HomeAddress.label "ঠিকানা (A):">
-<!ENTITY HomeAddress.accesskey "A">
-<!ENTITY HomeAddress2.label "">
-<!ENTITY HomeAddress2.accesskey "">
-<!ENTITY HomeCity.label "শহর (y):">
-<!ENTITY HomeCity.accesskey "y">
-<!ENTITY HomeState.label "রাষ্ট্র/প্রদেশ (S):">
-<!ENTITY HomeState.accesskey "S">
-<!ENTITY HomeZipCode.label "জিপ/পোস্টাল কোড (Z):">
-<!ENTITY HomeZipCode.accesskey "Z">
-<!ENTITY HomeCountry.label "দেশ (u):">
-<!ENTITY HomeCountry.accesskey "u">
-<!ENTITY HomeWebPage.label "ওয়েব পেজ (e):">
-<!ENTITY HomeWebPage.accesskey "e">
-<!ENTITY Birthday.label "জন্মদিন (B):">
-<!ENTITY Birthday.accesskey "B">
-<!ENTITY In.label "">
-<!ENTITY Year.placeholder "বছর">
-<!ENTITY Or.value "বা">
-<!ENTITY Age.placeholder "বয়স">
-<!ENTITY YearsOld.label "">
+<!ENTITY Home.tab                       "ব্যক্তিগত">
+<!ENTITY Home.accesskey                 "P">
+<!ENTITY HomeAddress.label              "ঠিকানা (A):">
+<!ENTITY HomeAddress.accesskey          "A">
+<!ENTITY HomeAddress2.label             "">
+<!ENTITY HomeAddress2.accesskey         "">
+<!ENTITY HomeCity.label                 "শহর (y):">
+<!ENTITY HomeCity.accesskey             "y">
+<!ENTITY HomeState.label                "রাষ্ট্র/প্রদেশ (S):">
+<!ENTITY HomeState.accesskey            "S">
+<!ENTITY HomeZipCode.label              "জিপ/পোস্টাল কোড (Z):">
+<!ENTITY HomeZipCode.accesskey          "Z">
+<!ENTITY HomeCountry.label              "দেশ (u):">
+<!ENTITY HomeCountry.accesskey          "u">
+<!ENTITY HomeWebPage.label              "ওয়েব পেজ (e):">
+<!ENTITY HomeWebPage.accesskey          "e">
+<!ENTITY Birthday.label                 "জন্মদিন (B):">
+<!ENTITY Birthday.accesskey             "B">
+<!ENTITY In.label                       "">
+<!ENTITY Year.placeholder               "বছর">
+<!ENTITY Or.value                       "বা">
+<!ENTITY Age.placeholder                "বয়স">
+<!ENTITY YearsOld.label                 "">
 
-<!ENTITY Work.tab "অফিস">
-<!ENTITY Work.accesskey "W">
-<!ENTITY JobTitle.label "শিরোনাম (i):">
-<!ENTITY JobTitle.accesskey "i">
-<!ENTITY Department.label "বিভাগ (m):">
-<!ENTITY Department.accesskey "m">
-<!ENTITY Company.label "প্রতিষ্ঠান (O):">
-<!ENTITY Company.accesskey "O">
-<!ENTITY WorkAddress.label "ঠিকানা (A):">
-<!ENTITY WorkAddress.accesskey "A">
-<!ENTITY WorkAddress2.label "">
-<!ENTITY WorkAddress2.accesskey "">
-<!ENTITY WorkCity.label "শহর (y):">
-<!ENTITY WorkCity.accesskey "y">
-<!ENTITY WorkState.label "রাষ্ট্র/প্রদেশ (S):">
-<!ENTITY WorkState.accesskey "S">
-<!ENTITY WorkZipCode.label "জিপ/পোস্টাল কোড (Z):">
-<!ENTITY WorkZipCode.accesskey "Z">
-<!ENTITY WorkCountry.label "দেশ (u):">
-<!ENTITY WorkCountry.accesskey "u">
-<!ENTITY WorkWebPage.label "ওয়েব পেজ (e):">
-<!ENTITY WorkWebPage.accesskey "e">
+<!ENTITY Work.tab                       "অফিস">
+<!ENTITY Work.accesskey                 "W">
+<!ENTITY JobTitle.label                 "শিরোনাম (i):">
+<!ENTITY JobTitle.accesskey             "i">
+<!ENTITY Department.label               "বিভাগ (m):">
+<!ENTITY Department.accesskey           "m">
+<!ENTITY Company.label                  "প্রতিষ্ঠান (O):">
+<!ENTITY Company.accesskey              "O">
+<!ENTITY WorkAddress.label              "ঠিকানা (A):">
+<!ENTITY WorkAddress.accesskey          "A">
+<!ENTITY WorkAddress2.label             "">
+<!ENTITY WorkAddress2.accesskey         "">
+<!ENTITY WorkCity.label                 "শহর (y):">
+<!ENTITY WorkCity.accesskey             "y">
+<!ENTITY WorkState.label                "রাষ্ট্র/প্রদেশ (S):">
+<!ENTITY WorkState.accesskey            "S">
+<!ENTITY WorkZipCode.label              "জিপ/পোস্টাল কোড (Z):">
+<!ENTITY WorkZipCode.accesskey          "Z">
+<!ENTITY WorkCountry.label              "দেশ (u):">
+<!ENTITY WorkCountry.accesskey          "u">
+<!ENTITY WorkWebPage.label              "ওয়েব পেজ (e):">
+<!ENTITY WorkWebPage.accesskey          "e">
 
-<!ENTITY Other.tab "অন্যান্য">
-<!ENTITY Other.accesskey "h">
-<!ENTITY Custom1.label "স্বনির্বাচন ১ (1):">
-<!ENTITY Custom1.accesskey "1">
-<!ENTITY Custom2.label "স্বনির্বাচন ২ (2):">
-<!ENTITY Custom2.accesskey "2">
-<!ENTITY Custom3.label "স্বনির্বাচন ৩ (3)">
-<!ENTITY Custom3.accesskey "3">
-<!ENTITY Custom4.label "স্বনির্বাচন ৪ (4):">
-<!ENTITY Custom4.accesskey "4">
-<!ENTITY Notes.label "নোট (N):">
-<!ENTITY Notes.accesskey "N">
+<!ENTITY Other.tab                      "অন্যান্য">
+<!ENTITY Other.accesskey                "h">
+<!ENTITY Custom1.label                  "স্বনির্বাচন ১ (1):">
+<!ENTITY Custom1.accesskey              "1">
+<!ENTITY Custom2.label                  "স্বনির্বাচন ২ (2):">
+<!ENTITY Custom2.accesskey              "2">
+<!ENTITY Custom3.label                  "স্বনির্বাচন ৩ (3)">
+<!ENTITY Custom3.accesskey              "3">
+<!ENTITY Custom4.label                  "স্বনির্বাচন ৪ (4):">
+<!ENTITY Custom4.accesskey              "4">
+<!ENTITY Notes.label                    "নোট (N):">
+<!ENTITY Notes.accesskey                "N">
 
-<!ENTITY Photo.tab "ছবি">
-<!ENTITY Photo.accesskey "o">
-<!ENTITY PhotoDesc.label "নিচের যেকোনো একটি বেছে নিন:">
-<!ENTITY GenericPhoto.label "সাধারণ ছবি (G)">
-<!ENTITY GenericPhoto.accesskey "G">
-<!ENTITY DefaultPhoto.label "ডিফল্ট">
-<!ENTITY PhotoFile.label "এই কম্পিউটারে (n)">
-<!ENTITY PhotoFile.accesskey "n">
-<!ENTITY BrowsePhoto.label "ব্রাউজ (r)">
-<!ENTITY BrowsePhoto.accesskey "r">
-<!ENTITY PhotoURL.label "ওয়েবে (b)">
-<!ENTITY PhotoURL.accesskey "b">
-<!ENTITY PhotoURL.placeholder "ছবির ওয়েব ঠিকানাটি প্রতিলেপন অথবা টাইপ">
-<!ENTITY UpdatePhoto.label "হালনাগাদ (U)">
-<!ENTITY UpdatePhoto.accesskey "U">
+<!ENTITY Photo.tab                      "ছবি">
+<!ENTITY Photo.accesskey                "o">
+<!ENTITY PhotoDesc.label                "নিচের যেকোনো একটি বেছে নিন:">
+<!ENTITY GenericPhoto.label             "সাধারণ ছবি (G)">
+<!ENTITY GenericPhoto.accesskey         "G">
+<!ENTITY DefaultPhoto.label             "ডিফল্ট">
+<!ENTITY PhotoFile.label                "এই কম্পিউটারে (n)">
+<!ENTITY PhotoFile.accesskey            "n">
+<!ENTITY BrowsePhoto.label              "ব্রাউজ (r)">
+<!ENTITY BrowsePhoto.accesskey          "r">
+<!ENTITY PhotoURL.label                 "ওয়েবে (b)">
+<!ENTITY PhotoURL.accesskey             "b">
+<!ENTITY PhotoURL.placeholder           "ছবির ওয়েব ঠিকানাটি প্রতিলেপন অথবা টাইপ">
+<!ENTITY UpdatePhoto.label              "হালনাগাদ (U)">
+<!ENTITY UpdatePhoto.accesskey          "U">

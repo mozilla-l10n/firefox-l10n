@@ -1,8 +1,8 @@
-<!ENTITY itemJunk.label "অপ্রয়োজনীয়">
-<!ENTITY itemPhishing.label "ইমেইল জালিয়াতি">
-<!ENTITY itemPasswords.label "পাসওয়ার্ড">
-<!ENTITY itemAntiVirus.label "এন্টি-ভাইরাস">
-<!ENTITY itemCookies.label "ওয়েবের বিষয়বস্তু">
+<!ENTITY itemJunk.label          "অপ্রয়োজনীয়">
+<!ENTITY itemPhishing.label      "ইমেইল জালিয়াতি">
+<!ENTITY itemPasswords.label     "পাসওয়ার্ড">
+<!ENTITY itemAntiVirus.label     "এন্টি-ভাইরাস">
+<!ENTITY itemCookies.label       "ওয়েবের বিষয়বস্তু">
 <!-- Junk Mail Controls -->
 
 <!ENTITY junkMail.intro "আপনার ডিফল্ট অপ্রয়োজনীয় মেইলের সেটিং নির্ধারণ করুন। অ্যাকাউন্ট অনুযায়ী অপ্রয়োজনীয় মেইলের বৈশিষ্ট্য নির্ধারণ করতে  অ্যাকাউন্ট সেটিং এ যান।">
@@ -22,38 +22,38 @@
 <!ENTITY resetTrainingData.accesskey "R">
 <!-- Phishing Detector -->
 
-<!ENTITY phishingDetector1.intro "সাধারণভাবে ব্যবহৃত ইমেইল জালিয়াতি চিহ্নিত করার লক্ষ্যে &brandShortName;  বার্তাসমূহ বিশ্লেষণ করতে পারে।">
-<!ENTITY enablePhishingDetector1.label "আমি যে বার্তাটি পড়ছি, তা যদি সন্দেহজনক ইমেইল জালিয়াতি হয়, আমাকে বলা হবে (T)">
-<!ENTITY enablePhishingDetector1.accesskey "T">
+<!ENTITY phishingDetector1.intro  "সাধারণভাবে ব্যবহৃত ইমেইল জালিয়াতি চিহ্নিত করার লক্ষ্যে &brandShortName;  বার্তাসমূহ বিশ্লেষণ করতে পারে।">
+<!ENTITY enablePhishingDetector1.label    "আমি যে বার্তাটি পড়ছি, তা যদি সন্দেহজনক ইমেইল জালিয়াতি হয়, আমাকে বলা হবে (T)">
+<!ENTITY enablePhishingDetector1.accesskey  "T">
 <!ENTITY useDownloadedList.label "সন্দেহজনক ইমেইল জালিয়াতির ডাউনলোডকৃত তালিকা ব্যবহার করা হবে (U)">
 <!ENTITY useDownloadedList.accesskey "U">
 <!-- Passwords -->
 
-<!ENTITY savedPasswords.intro "সকল অ্যাকাউন্টের পাসওয়ার্ড &brandShortName; মনে রাখতে পারে।">
-<!ENTITY useMasterPassword.label "মাস্টার পাসওয়ার্ড ব্যবহার করুন (U)">
-<!ENTITY useMasterPassword.accesskey "U">
-<!ENTITY masterPassword.intro "মাস্টার পাসওয়ার্ড আপনার সকল পাসওয়ার্ড সুরক্ষিত রাখে, কিন্তু প্রতিটি সেশনে তা কমপক্ষে একবার প্রবেশ করাতে হবে।">
-<!ENTITY changeMasterPassword.label "মাস্টার পাসওয়ার্ড পরিবর্তন... (C)">
+<!ENTITY savedPasswords.intro           "সকল অ্যাকাউন্টের পাসওয়ার্ড &brandShortName; মনে রাখতে পারে।">
+<!ENTITY useMasterPassword.label        "মাস্টার পাসওয়ার্ড ব্যবহার করুন (U)">
+<!ENTITY useMasterPassword.accesskey    "U">
+<!ENTITY masterPassword.intro           "মাস্টার পাসওয়ার্ড আপনার সকল পাসওয়ার্ড সুরক্ষিত রাখে, কিন্তু প্রতিটি সেশনে তা কমপক্ষে একবার প্রবেশ করাতে হবে।">
+<!ENTITY changeMasterPassword.label     "মাস্টার পাসওয়ার্ড পরিবর্তন... (C)">
 <!ENTITY changeMasterPassword.accesskey "C">
-<!ENTITY savedPasswords.label "সংরক্ষিত পাসওয়ার্ড… (S)">
-<!ENTITY savedPasswords.accesskey "S">
+<!ENTITY savedPasswords.label           "সংরক্ষিত পাসওয়ার্ড… (S)">
+<!ENTITY savedPasswords.accesskey       "S">
 <!-- Anti Virus -->
 
-<!ENTITY antiVirus.intro "&brandShortName; আসন্ন মেইল বার্তাসমূহ স্থানীয়ভাবে সংরক্ষণ করার পূর্বে, তারা ভাইরাস যুক্ত কিনা তা পরীক্ষা করতে, এন্টি-ভাইরাস সফটওয়্যারকে সাহায্য করে।">
-<!ENTITY antiVirus.label "এন্টি-ভাইরাস ক্লায়েন্টকে আসন্ন বার্তা আটকে রাখতে অনুমোদন করা হবে (A)">
-<!ENTITY antiVirus.accesskey "A">
+<!ENTITY antiVirus.intro      "&brandShortName; আসন্ন মেইল বার্তাসমূহ স্থানীয়ভাবে সংরক্ষণ করার পূর্বে, তারা ভাইরাস যুক্ত কিনা তা পরীক্ষা করতে, এন্টি-ভাইরাস সফটওয়্যারকে সাহায্য করে।">
+<!ENTITY antiVirus.label      "এন্টি-ভাইরাস ক্লায়েন্টকে আসন্ন বার্তা আটকে রাখতে অনুমোদন করা হবে (A)">
+<!ENTITY antiVirus.accesskey  "A">
 <!-- Cookies -->
 
-<!ENTITY cookies.intro "&brandShortName; দিয়ে আপনি  ব্লগ, নিউজ ফিড, অন্যান্য ওয়েব সাইটে কুকি সেট করতে পারেন।">
-<!ENTITY acceptCookies.label "সাইট থেকে কুকি গ্রহণ (c)">
-<!ENTITY acceptCookies.accesskey "c">
-<!ENTITY keepUntil.label "ধরে রাখুন (K):">
-<!ENTITY keepUntil.accesskey "K">
-<!ENTITY expire.label "মেয়াদ শেষ হবে">
-<!ENTITY close.label "&brandShortName; বন্ধ করেছি">
-<!ENTITY askEachTime.label "প্রতিবার জিজ্ঞেস করা হবে">
-<!ENTITY cookieExceptions.label "এক্সেপশন… (E)">
-<!ENTITY cookieExceptions.accesskey "E">
-<!ENTITY showCookies.label "কুকি প্রদর্শন… (S)">
-<!ENTITY showCookies.accesskey "S">
+<!ENTITY cookies.intro                  "&brandShortName; দিয়ে আপনি  ব্লগ, নিউজ ফিড, অন্যান্য ওয়েব সাইটে কুকি সেট করতে পারেন।">
+<!ENTITY acceptCookies.label            "সাইট থেকে কুকি গ্রহণ (c)">
+<!ENTITY acceptCookies.accesskey        "c">
+<!ENTITY keepUntil.label                "ধরে রাখুন (K):">
+<!ENTITY keepUntil.accesskey            "K">
+<!ENTITY expire.label                   "মেয়াদ শেষ হবে">
+<!ENTITY close.label                    "&brandShortName; বন্ধ করেছি">
+<!ENTITY askEachTime.label              "প্রতিবার জিজ্ঞেস করা হবে">
+<!ENTITY cookieExceptions.label         "এক্সেপশন… (E)">
+<!ENTITY cookieExceptions.accesskey     "E">
+<!ENTITY showCookies.label              "কুকি প্রদর্শন… (S)">
+<!ENTITY showCookies.accesskey          "S">
 

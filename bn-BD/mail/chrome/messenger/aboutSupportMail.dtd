@@ -7,6 +7,7 @@
 <!ENTITY aboutSupport.accountsName "নাম">
 <!ENTITY aboutSupport.accountsIncomingServer "ইনকামিং সার্ভার">
 <!ENTITY aboutSupport.accountsOutgoingServers "আউটগোয়িং সার্ভার">
+<!ENTITY aboutSupport.accountsServerName "Name">
 <!ENTITY aboutSupport.accountsConnSecurity "সংযোগ নিরাপত্তা">
 <!ENTITY aboutSupport.accountsAuthMethod "প্রমানীকরণ পদ্ধতি">
 <!ENTITY aboutSupport.accountsDefault "পূর্বনির্ধারিত?">
