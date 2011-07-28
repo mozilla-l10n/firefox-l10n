@@ -104,7 +104,9 @@
 <!ENTITY saveAsAttachmentCmd.label    "Simpan dengan Nama…">
 <!ENTITY saveAsAttachmentCmd.accesskey    "a">
 <!ENTITY detachAttachmentCmd.label    "Pisahkan…">
+<!ENTITY detachAttachmentCmd.accesskey    "p…">
 <!ENTITY deleteAttachmentCmd.label    "Hapus">
+<!ENTITY deleteAttachmentCmd.accesskey    "H">
 <!ENTITY openAllAttachmentsCmd.label    "Buka Semua…">
 <!ENTITY openAllAttachmentsCmd.accesskey    "m">
 <!ENTITY saveAllAttachmentsCmd.label    "Simpan Semua…">
@@ -113,6 +115,28 @@
 <!ENTITY detachAllAttachmentsCmd.accesskey    "s">
 <!ENTITY deleteAllAttachmentsCmd.label    "Hapus Semua…">
 <!ENTITY deleteAllAttachmentsCmd.accesskey    "e">
+
+<!-- Attachment toolbar items -->
+<!ENTITY saveAttachmentButton.label       "simpan">
+<!ENTITY saveAttachmentButton.tooltip     "simpan berkas terlampir">
+<!ENTITY saveAllAttachmentsButton.label   "simpan semua">
+<!ENTITY saveAllAttachmentsButton.tooltip "simpan semua berkas terlampir">
+<!ENTITY openAttachmentMenuItem.label     "buka">
+<!ENTITY openAttachmentMenuItem.accesskey    "b">
+<!ENTITY saveAsAttachmentMenuItem.label    "simpan dengan nama…">
+<!ENTITY saveAsAttachmentMenuItem.accesskey    "s">
+<!ENTITY detachAttachmentMenuItem.label    "pisahkan…">
+<!ENTITY detachAttachmentMenuItem.accesskey    "n">
+<!ENTITY deleteAttachmentMenuItem.label    "hapus">
+<!ENTITY deleteAttachmentMenuItem.accesskey    "h">
+<!ENTITY openAllAttachmentsMenuItem.label    "buka semua…">
+<!ENTITY openAllAttachmentsMenuItem.accesskey    "m">
+<!ENTITY saveAllAttachmentsMenuItem.label    "simpan semua…">
+<!ENTITY saveAllAttachmentsMenuItem.accesskey    "s">
+<!ENTITY detachAllAttachmentsMenuItem.label    "pisahkan semua…">
+<!ENTITY detachAllAttachmentsMenuItem.accesskey    "p">
+<!ENTITY deleteAllAttachmentsMenuItem.label    "hapus semua…">
+<!ENTITY deleteAllAttachmentsMenuItem.accesskey    "u">
 
 <!ENTITY copyLinkCmd.label        "Salin Lokasi Tautan">
 <!ENTITY copyLinkCmd.accesskey    "S">

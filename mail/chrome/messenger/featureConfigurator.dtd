@@ -20,11 +20,17 @@
 
 <!ENTITY featureConfigurator.toolbarBenefits.para "Aksi untuk pesan seperti misalnya balas dan teruskan telah dipindahkan dari bilah alat ke bagian atas pesan itu sendiri. Pemindahan ini berguna untuk menyesuaikan tempat tombol aksi kepada tempat yang lebih cocok serta melebarkan tempat pada bilah alat untuk kotak pencarian yang lebih canggih, serta mungkin tombol untuk pengaya.">
 
+<!-- LOCALIZATION NOTE (featureConfigurator.addOn.downloading): The text to display while downloading the addon. -->
+<!ENTITY featureConfigurator.addOn.downloading "Mengunduh…">
+
 <!-- LOCALIZATION NOTE (featureConfigurator.addOn.installing): The text to display while installing the addon. -->
 <!ENTITY featureConfigurator.addOn.installing "Memasang…">
 
 <!-- LOCALIZATION NOTE (featureConfigurator.addOn.installed): The text to display after the user installs the addon from the configurator. -->
 <!ENTITY featureConfigurator.addOn.installed "Terpasang">
+
+<!-- LOCALIZATION NOTE (featureConfigurator.addOn.failure): The text to display when there is a problem installing the addon. -->
+<!ENTITY featureConfigurator.addOn.failure "Ada masalah saat memasang ekstensi ini!">
 
 <!-- LOCALIZATION NOTE (featureConfigurator.addOn.alreadyInstalled): The label to display when the addon is already installed. -->
 <!ENTITY featureConfigurator.addOn.alreadyInstalled "Ekstensi ini telah terpasang.">

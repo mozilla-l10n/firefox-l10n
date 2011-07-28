@@ -1,5 +1,5 @@
 <!ENTITY  brandShortName        "Thunderbird">
 <!ENTITY  brandFullName         "Mozilla Thunderbird">
 <!ENTITY  vendorShortName       "Mozilla">
-<!ENTITY  logoTrademark         "Mozilla Thunderbird dan logo Thunderbird
+<!ENTITY  trademarkInfo.part1   "Mozilla Thunderbird dan logo Thunderbird
                                  merupakan merek dagang Mozilla Foundation.">
