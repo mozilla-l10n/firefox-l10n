@@ -52,9 +52,9 @@
 <!ENTITY netInterrupt.longDesc "&sharedLongDesc;">
 
 <!ENTITY netOffline.title "Mode luring">
-<!ENTITY netOffline.longDesc "
+<!ENTITY netOffline.longDesc2 "
 <ul>
-  <li>Setel &brandShortName; ke mode daring, lalu coba lagi.</li>
+  <li>Tekan &quot;Coba Lagi&quot; untuk kembali ke mode daring dan memuat ulang lamannya.</li>
 </ul>
 ">
 
@@ -155,6 +155,9 @@
 
 <!ENTITY cspFrameAncestorBlocked.title "Diblokir oleh Kebijakan Keamanan Konten">
 <!ENTITY cspFrameAncestorBlocked.longDesc "<p>&brandShortName; mencegah pemuatan laman dengan cara ini karena laman mengandung kebijakan keamanan konten yang tidak mengizinkan hal ini.</p>">
+
+<!ENTITY corruptedContentError.title "Galat Konten Rusak">
+<!ENTITY corruptedContentError.longDesc "<p>Laman yang akan dibuka tidak dapat ditampilkan karena ada terdeteksi galat pada pengiriman data.</p><ul><li>Mohon hubungi pemilik situs web mengenai masalah ini.</li></ul>">
 
 <!ENTITY securityOverride.linkText "Atau dapat ditambahkan pada pengecualian…">
 <!ENTITY securityOverride.getMeOutOfHereButton "Kabur!">
