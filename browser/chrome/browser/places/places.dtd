@@ -78,6 +78,7 @@
 <!ENTITY cmd.new_separator.accesskey		"т">
 <!ENTITY cmd.reloadLivebookmark.label		"Амьд хаягийг дахин дууд">
 <!ENTITY cmd.reloadLivebookmark.accesskey		"д">
+<!ENTITY cmd.moveBookmarks.label                  "Хөдлөх…">
 <!ENTITY cmd.moveBookmarks.accesskey		"З">
 
 <!ENTITY col.name.label          "Нэр">
@@ -103,7 +104,6 @@
 <!ENTITY search.accesskey		"й">
 <!ENTITY saveSearch.label		"Хадгал">
 <!ENTITY saveSearch.accesskey		"Х">
-<!ENTITY moreCriteria.label		"+">
 
 <!ENTITY cmd.find.key		"f">
 
