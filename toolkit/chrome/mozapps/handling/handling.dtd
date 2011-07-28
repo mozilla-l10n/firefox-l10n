@@ -1,5 +1,5 @@
-<!ENTITY ChooseApp.description "Избор програма">
-<!ENTITY window.emHeight "26em">
-<!ENTITY ChooseApp.accessKey "К">
 <!ENTITY window.emWidth "26em">
+<!ENTITY window.emHeight "26em">
+<!ENTITY ChooseApp.description "Избор програма">
 <!ENTITY ChooseApp.label "Избор…">
+<!ENTITY ChooseApp.accessKey "К">
