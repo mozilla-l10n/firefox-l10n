@@ -47,10 +47,10 @@
 <!ENTITY otherActionsOpenInNewWindow.accesskey "f">
 <!ENTITY otherActionsOpenInNewTab.label "apri in nuova scheda">
 <!ENTITY otherActionsOpenInNewTab.accesskey "a">
-<!ENTITY markAsReadMenuItem.label "segna come letto">
-<!ENTITY markAsReadMenuItem.accesskey "r">
+<!ENTITY markAsReadMenuItem.label "segna come già letto">
+<!ENTITY markAsReadMenuItem.accesskey "e">
 <!ENTITY markAsUnreadMenuItem.label "segna come non letto">
-<!ENTITY markAsUnreadMenuItem.accesskey "r">
+<!ENTITY markAsUnreadMenuItem.accesskey "o">
 <!ENTITY saveAsMenuItem.label "salva con nome…">
 <!ENTITY saveAsMenuItem.accesskey "s">
 <!ENTITY viewSourceMenuItem.label "visualizza sorgente">
