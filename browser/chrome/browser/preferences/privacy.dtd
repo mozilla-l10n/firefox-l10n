@@ -60,8 +60,9 @@
 <!ENTITY  dontrememberActions.pre.label          "Tamién podría interesa-y ">
 <!ENTITY  dontrememberActions.clearHistory.label "llimpiar tol historial">
 <!ENTITY  dontrememberActions.post.label         ".">
-<!ENTITY privateBrowsingPermanent.label "Mou permanente de navegación privao">
-<!ENTITY privateBrowsingPermanent.accesskey "M">
+<!ENTITY  privateBrowsingPermanent2.label "Usar siempre'l mou de navegación privao">
+<!ENTITY  privateBrowsingPermanent2.accesskey "p">
+
 <!ENTITY rememberHistory.label "Remembrar el mio historial de navegación">
 <!ENTITY rememberHistory.accesskey "v">
 

@@ -12,9 +12,9 @@
 <!ENTITY password.label "Guardar contraseñes">
 <!ENTITY password.manage "Xestionar contraseñes…">
 <!ENTITY cookie.label "Afitar cookies">
-<!ENTITY cookie.clear "Llimpiar cookies">
+<!ENTITY cookie.remove "Desaniciar Cookies">
 <!ENTITY cookie.manage "Xestionar cookies…">
-<!ENTITY cookie.clearAll "Llimpiar toles cookies">
+<!ENTITY cookie.removeAll "Desaniciar toles Cookies">
 <!ENTITY geo.label "Compartir llocalización">
 <!ENTITY indexedDB.label "Caltener almacenamientu en mou ensin conexón">
 <!ENTITY popup.label "Abrir ventanes emerxentes">
