@@ -193,12 +193,16 @@
 <!ENTITY quoteButton.tooltip "Kutip pesan sebelumnya"> 
 <!ENTITY addressButton.tooltip "Pilih penerima dari Buku Alamat"> 
 <!ENTITY attachButton.tooltip "Sertakan lampiran"> 
+<!ENTITY spellingButton.tooltip "Periksa ejaan pada teks yang dipilih atau isi pesan keseluruhan">
 <!ENTITY saveButton.tooltip "Simpan pesan ini"> 
 <!ENTITY cutButton.tooltip              "Potong">
 <!ENTITY copyButton.tooltip             "Salin">
 <!ENTITY pasteButton.tooltip            "Tempel">
 
 <!-- Headers -->
+<!--LOCALIZATION NOTE headersSpace.style is for aligning  the From:, To: and
+    Subject: rows. It should be larger than the largest Header label  -->
+<!ENTITY headersSpace.style "width: 9em;">
 <!ENTITY fromAddr.label "Dari:">
 <!ENTITY fromAddr.accesskey "r">
 <!ENTITY toAddr.label "Kepada:"> 
@@ -261,6 +265,10 @@
 <!ENTITY attachFile.accesskey "L">
 <!ENTITY attachPage.label "Lampirkan Laman Web…">
 <!ENTITY attachPage.accesskey "W">
+
+<!-- Spell checker context menu items -->
+<!ENTITY spellAddDictionaries.label "Tambah Kamus…">
+<!ENTITY spellAddDictionaries.accesskey "K">
 
 <!-- Title for the address picker panel -->
 <!ENTITY addressesSidebarTitle.label "Kenalan">

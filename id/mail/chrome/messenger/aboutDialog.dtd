@@ -1,16 +1,83 @@
-<!ENTITY aboutDialog.title      "Tentang &brandFullName;">
-<!ENTITY aboutButton.label      "&lt; Kembali">
-<!ENTITY aboutButton.accesskey  "K">
-<!ENTITY aboutVersion           "versi">
-<!ENTITY aboutMenu.label        "Tentang">
-<!ENTITY aboutMenu.accesskey    "T">
-<!ENTITY aboutCredits.label     "Kredit">
-<!ENTITY aboutCredits.accesskey "K">
-<!ENTITY aboutRights.label      "Hak Anda">
-<!ENTITY aboutRights.accesskey  "H">
-<!ENTITY aboutContributors.label "Kontributor">
-<!ENTITY aboutContributors.accesskey "K">
-<!ENTITY aboutLicense.label      "Lisensi">
-<!ENTITY aboutLicense.accesskey  "L">
+<!ENTITY aboutDialog.title          "Tentang &brandFullName;">
+
+<!ENTITY community.start2           "&brandShortName; didesain oleh ">
+<!-- LOCALIZATION NOTE (community.mozillaLink): This is a link title that links to http://www.mozilla.org/. -->
+<!ENTITY community.mozillaLink      "&vendorShortName;">
+<!ENTITY community.middle2          ", sebuah ">
+<!-- LOCALIZATION NOTE (community.creditsLink): This is a link title that links to about:credits. -->
+<!ENTITY community.creditsLink      "komunitas global">
+<!ENTITY community.end2             " yang bekerja sama untuk Internet yang lebih baik. Kami percaya bahwa Internet harus bersifat terbuka, untuk publik, dan dapat diakses oleh semua orang tanpa batasan.">
+
+<!ENTITY contribute.start           "Tertarik? ">
+<!-- LOCALIZATION NOTE (contribute.getInvolvedLink): This is a link title that links to http://www.mozilla.org/contribute/. -->
+<!ENTITY contribute.getInvolvedLink "Ikutan Yuk!">
+<!ENTITY contribute.end             "">
+
+<!-- LOCALIZATION NOTE (bottomLinks.license): This is a link title that links to about:license. -->
+<!ENTITY bottomLinks.license        "Informasi Lisensi">
+
+<!-- LOCALIZATION NOTE (bottomLinks.rights): This is a link title that links to about:rights. -->
+<!ENTITY bottomLinks.rights         "Hak Pengguna Akhir">
+
+<!-- LOCALIZATION NOTE (bottomLinks.privacy): This is a link title that links to http://www.mozilla.com/legal/privacy/. -->
+<!ENTITY bottomLinks.privacy        "Kebijakan Privasi">
+
+<!-- LOCALIZATION NOTE (update.checkingForUpdates): try to make the localized text short (see bug 596813 for screenshots). -->
+<!ENTITY update.checkingForUpdates  "Memeriksa versi baru…">
+<!-- LOCALIZATION NOTE (update.checkingAddonCompat): try to make the localized text short (see bug 596813 for screenshots). -->
+<!ENTITY update.checkingAddonCompat "Memeriksa kompatibilitas pengaya…">
+<!-- LOCALIZATION NOTE (update.noUpdatesFound): try to make the localized text short (see bug 596813 for screenshots). -->
+<!ENTITY update.noUpdatesFound      "&brandShortName; sudah dalam versi terbaru">
+<!-- LOCALIZATION NOTE (update.adminDisabled): try to make the localized text short (see bug 596813 for screenshots). -->
+<!ENTITY update.adminDisabled       "Pemutakhiran dinonaktifkan oleh administrator sistem">
+
+<!-- LOCALIZATION NOTE (update.failed.start,update.failed.linkText,update.failed.end):
+     update.failed.start, update.failed.linkText, and update.failed.end all go into
+     one line with linkText being wrapped in an anchor that links to a site to download
+     the latest version of Firefox (e.g. http://www.firefox.com). As this is all in
+     one line, try to make the localized text short (see bug 596813 for screenshots). -->
+<!ENTITY update.failed.start        "Pemutakhiran gagal. ">
+<!ENTITY update.failed.linkText     "Unduh versi terbaru">
+<!ENTITY update.failed.end          "">
+
+<!-- LOCALIZATION NOTE (update.manual.start,update.manual.end): update.manual.start and update.manual.end
+     all go into one line and have an anchor in between with text that is the same as the link to a site
+     to download the latest version of Firefox (e.g. http://www.firefox.com). As this is all in one line,
+     try to make the localized text short (see bug 596813 for screenshots). -->
+<!ENTITY update.manual.start        "Unduh ">
+<!ENTITY update.manual.linkText     "versi terbaru">
+<!ENTITY update.manual.end          "">
+
+<!-- LOCALIZATION NOTE (update.downloading.start,update.downloading.end): update.downloading.start and 
+     update.downloading.end all go into one line, with the amount downloaded inserted in between. As this
+     is all in one line, try to make the localized text short (see bug 596813 for screenshots). The — is
+     the "em dash" (long dash).
+     example: Downloading update — 111 KB of 13 MB -->
+<!ENTITY update.downloading.start   "Mengunduh versi baru — ">
+<!ENTITY update.downloading.end     "">
+
+<!-- LOCALIZATION NOTE (channel.description.start,channel.description.end): channel.description.start and
+     channel.description.end create one sentence, with the current channel label inserted in between.
+     example: You are currently on the _Stable_ update channel. -->
+<!ENTITY channel.description.start  "Anda sedang menggunakan kanal pembaruan ">
+<!ENTITY channel.description.end    ". ">
+
+<!ENTITY channel.change             "Ubah">
+
+<!ENTITY channel.release.description       "Nikmati rilis final yang telah diuji dan dikaji, yang digunakan beratus juta orang di seluruh dunia. Dapatkan selalu pengalaman daring dengan kecepatan super, pengubahsuaian nan mudah, serta teknologi Web terbaru.">
+<!ENTITY channel.beta.description          "Dapatkan fitur terbaru dengan kestabilan yang lebih baik. Kirimkan umpan balik untuk membantu memperhalus dan membesut apa yang akan disertakan dalam rilis final.">
+<!ENTITY channel.aurora.description        "    Dapatkan inovasi terbaru dalam lingkungan yang tidak stabil, bukan untuk yang suka uji nyali. Kirimkan umpan balik tentang fitur dan kinerja untuk menentukan apa yang akan disertakan dalam rilis final.">
+
+<!-- LOCALIZATION NOTE (channel.selector.start,channel.selector.end): channel.selector.start and
+     channel.selector.end create one sentence, with a channel selection menulist instered in between.
+     This is all in one line, so try to make the localized text short.
+     example: Switch to the [Stable] update channel. -->
+<!ENTITY channel.selector.start          "Ubah ke kanal pembaruan">
+<!ENTITY channel.selector.end            ".">
+
+<!-- LOCALIZATION NOTE (channel.selector.applyButton): This button applies the user's choice to switch
+     to a new update channel and starts the application update process. -->
+<!ENTITY channel.selector.applyButton    "Terapkan dan Perbarui">
+<!ENTITY channel.selector.cancelButton   "Batal">
 
 <!ENTITY cmdCloseMac.commandKey "w">
