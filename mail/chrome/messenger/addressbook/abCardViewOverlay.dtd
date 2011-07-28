@@ -36,15 +36,15 @@
  ***** END LICENSE BLOCK ***** -->
 <!-- Box Headings -->
 
-<!ENTITY contact.heading "পরিচিতি">
-<!ENTITY home.heading "বাসা">
-<!ENTITY other.heading "অন্যান্য">
-<!ENTITY phone.heading "ফোন">
-<!ENTITY work.heading "অফিস">
+<!ENTITY contact.heading             "পরিচিতি">
+<!ENTITY home.heading                "বাসা">
+<!ENTITY other.heading               "অন্যান্য">
+<!ENTITY phone.heading               "ফোন">
+<!ENTITY work.heading                "অফিস">
 <!-- Special Box Headings, for mailing lists -->
-<!ENTITY description.heading "বিবরণ">
-<!ENTITY addresses.heading "ঠিকানা">
+<!ENTITY description.heading         "বিবরণ">
+<!ENTITY addresses.heading           "ঠিকানা">
 <!-- For Map It! -->
-<!ENTITY mapItButton.label "মানচিত্র দেখুন">
-<!ENTITY mapIt.tooltip "ওয়েব থেকে এই ঠিকানার মানচিত্র প্রদর্শন করা হবে">
+<!ENTITY mapItButton.label           "মানচিত্র দেখুন">
+<!ENTITY mapIt.tooltip               "ওয়েব থেকে এই ঠিকানার মানচিত্র প্রদর্শন করা হবে">
 

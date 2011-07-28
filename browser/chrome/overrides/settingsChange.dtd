@@ -38,5 +38,5 @@
 # ***** END LICENSE BLOCK *****
 -->
 
-<!ENTITY settingsChangePreferences.label "&brandShortName; এর পছন্দসমূহের অ্যাপ্লিকেশন ট্যাব থেকে সেটিং পরিবর্তন করা সম্ভব।">
-<!ENTITY settingsChangeOptions.label "&brandShortName; এর অপশনের অ্যাপ্লিকেশন ট্যাব থেকে সেটিং পরিবর্তন করা সম্ভব।">
+<!ENTITY  settingsChangePreferences.label  "&brandShortName; এর পছন্দসমূহের অ্যাপ্লিকেশন ট্যাব থেকে সেটিং পরিবর্তন করা সম্ভব।">
+<!ENTITY  settingsChangeOptions.label      "&brandShortName; এর অপশনের অ্যাপ্লিকেশন ট্যাব থেকে সেটিং পরিবর্তন করা সম্ভব।">

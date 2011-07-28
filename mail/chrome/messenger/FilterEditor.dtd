@@ -1,5 +1,5 @@
 <!ENTITY window.title "পরিশোধক নিয়মাবলী">
-
+<!ENTITY filterEditorDialog.dimensions "width: 100ch;">
 <!ENTITY filterName.label "পরিশোধকের নাম: (i)">
 <!ENTITY filterName.accesskey "i">
 

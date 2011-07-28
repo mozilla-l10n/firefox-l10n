@@ -19,12 +19,18 @@
 <!ENTITY featureConfigurator.toolbar.original.status.explanation "নতুন বার্তার বোতাম ছাড়াও যেকোনো স্বনির্ধারিত টুলবার বোতাম রাখতে পারেন।">
 
 <!ENTITY featureConfigurator.toolbarBenefits.para "বার্তা অ্যাকশন, যেমন জবাব এবং ফরওয়ার্ড, টুলবার থেকে সরিয়ে বার্তা শীর্ষচরণে নেয়া হয়েছে। এটি বার্তার সাথে অ্যাকশন বোতামকে সরাসরি যুক্ত করে, ফলে টুলবারে বেশি গুরুত্বপূর্ণ টেক্সটবক্স এবং অ্যাড-অনের জন্যও স্থান পাওয়া যায়।">
+<!-- LOCALIZATION NOTE (featureConfigurator.addOn.downloading): The text to display while downloading the addon. -->
+
+<!ENTITY featureConfigurator.addOn.downloading "Downloading…">
 <!-- LOCALIZATION NOTE (featureConfigurator.addOn.installing): The text to display while installing the addon. -->
 
 <!ENTITY featureConfigurator.addOn.installing "ইনস্টল করা হচ্ছে…">
 <!-- LOCALIZATION NOTE (featureConfigurator.addOn.installed): The text to display after the user installs the addon from the configurator. -->
 
 <!ENTITY featureConfigurator.addOn.installed "ইনস্টল করা হয়েছে">
+<!-- LOCALIZATION NOTE (featureConfigurator.addOn.failure): The text to display when there is a problem installing the addon. -->
+
+<!ENTITY featureConfigurator.addOn.failure "There was a problem installing this extension!">
 <!-- LOCALIZATION NOTE (featureConfigurator.addOn.alreadyInstalled): The label to display when the addon is already installed. -->
 
 <!ENTITY featureConfigurator.addOn.alreadyInstalled "এই এক্সটেনশনটি ইতিমধ্যেই ইনস্টল করা হয়েছে।">

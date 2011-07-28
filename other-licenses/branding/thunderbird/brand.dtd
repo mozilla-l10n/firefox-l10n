@@ -1,5 +1,5 @@
-<!ENTITY brandShortName "থান্ডারবার্ড">
-<!ENTITY brandFullName "মোজিলা থান্ডারবার্ড">
-<!ENTITY vendorShortName "মোজিলা">
-<!ENTITY logoTrademark "মোজিলা থান্ডারবার্ড এবং থান্ডারবার্ড লোগো 
-মোজিলা ফাউন্ডেশনের ট্রেডমার্ক।">
+<!ENTITY  brandShortName        "থান্ডারবার্ড">
+<!ENTITY  brandFullName         "মোজিলা থান্ডারবার্ড">
+<!ENTITY  vendorShortName       "মোজিলা">
+<!ENTITY  trademarkInfo.part1   "Mozilla Thunderbird and the Thunderbird logos
+                                 are trademarks of the Mozilla Foundation.">

@@ -34,7 +34,7 @@
  the terms of any one of the MPL, the GPL or the LGPL.
 
  ***** END LICENSE BLOCK ***** -->
-<!ENTITY nameColumn.label "নাম">
+<!ENTITY nameColumn.label   "নাম">
 <!ENTITY unreadColumn.label "অপঠিত">
 <!ENTITY totalColumn.label "সর্বমোট">
 <!ENTITY folderSizeColumn.label "আকার">

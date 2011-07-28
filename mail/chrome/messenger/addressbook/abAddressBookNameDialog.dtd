@@ -36,5 +36,5 @@
  ***** END LICENSE BLOCK ***** -->
 <!-- Labels -->
 
-<!ENTITY name.label "ঠিকানা বইয়ের নাম (A):">
-<!ENTITY name.accesskey "A">
+<!ENTITY name.label      "ঠিকানা বইয়ের নাম (A):">
+<!ENTITY name.accesskey  "A">

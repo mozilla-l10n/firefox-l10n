@@ -5,7 +5,7 @@ a replacement for the standard security certificate errors produced
 by NSS/PSM via netError.xhtml. -->
 
 
-<!ENTITY certerror.pagetitle "অনির্ভরযোগ্য সংযোগ">
+<!ENTITY certerror.pagetitle  "অনির্ভরযোগ্য সংযোগ">
 <!ENTITY certerror.longpagetitle "এই সংযোগটি অনির্ভরযোগ্য">
 <!-- Localization note (certerror.introPara1) - The string "#1" will
 be replaced at runtime with the name of the server to which the user

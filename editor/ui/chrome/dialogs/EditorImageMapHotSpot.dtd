@@ -41,18 +41,18 @@
 
 <!ENTITY windowTitle.label "হটস্পট বৈশিষ্ট্য">
 
-<!ENTITY link.label "হটস্পট লিংক">
-<!ENTITY urlFieldset.label "হটস্পট URL:">
-<!ENTITY altFieldset.label "হটস্পট Alt পাঠ্য:">
-<!ENTITY browseButton.label "ব্রাউজ...">
+<!ENTITY link.label    "হটস্পট লিংক">
+<!ENTITY urlFieldset.label  "হটস্পট URL:">
+<!ENTITY altFieldset.label  "হটস্পট Alt পাঠ্য:">
+<!ENTITY browseButton.label  "ব্রাউজ...">
 <!ENTITY targetFieldset.label "লক্ষ্য সেটিং">
-<!ENTITY target.label "হটস্পট লক্ষ্য">
+<!ENTITY target.label   "হটস্পট লক্ষ্য">
 <!-- Targets -->
 
 <!ENTITY commonFieldset.label "সাধারণ লক্ষ্য:">
-<!ENTITY none.value "(কোনোটি নয়)">
-<!ENTITY same.value "একই ফ্রেম">
-<!ENTITY whole.value "সম্পূর্ণ পৃষ্ঠা">
-<!ENTITY new.value "নতুন উইন্ডো">
-<!ENTITY parent.value "প্যারেন্ট ফ্রেম">
+<!ENTITY none.value    "(কোনোটি নয়)">
+<!ENTITY same.value    "একই ফ্রেম">
+<!ENTITY whole.value   "সম্পূর্ণ পৃষ্ঠা">
+<!ENTITY new.value    "নতুন উইন্ডো">
+<!ENTITY parent.value   "প্যারেন্ট ফ্রেম">
 

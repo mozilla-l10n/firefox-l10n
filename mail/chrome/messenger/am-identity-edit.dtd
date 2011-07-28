@@ -2,6 +2,6 @@
 <!ENTITY identityTitle.label "পরিচয় সেটিংসমূহ">
 <!ENTITY identityListDesc.label "এই পরিচয়ের জন্য সেটিংসমূহ কনফিগার করা হবে:">
 
-<!ENTITY settingsTab.label "সেটিংসমূহ">
+<!ENTITY settingsTab.label       "সেটিংসমূহ">
 <!ENTITY copiesFoldersTab.label "অনুলিপি ও ফোল্ডার">
-<!ENTITY addressingTab.label "রচনা ও সম্বোধন">
+<!ENTITY addressingTab.label    "রচনা ও সম্বোধন">

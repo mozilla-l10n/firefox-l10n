@@ -36,8 +36,8 @@
    -
    - ***** END LICENSE BLOCK ***** -->
    
-<!ENTITY renameFolderDialog.title "ফোল্ডারের নাম পরিবর্তন করা হবে">
-<!ENTITY rename.label "আপনার ফোল্ডারের নতুন নাম দেয়া হবে (E):">
-<!ENTITY rename.accesskey "E">
-<!ENTITY accept.label "পুনরায় নামকরণ (R)">
-<!ENTITY accept.accesskey "R">
+<!ENTITY renameFolderDialog.title          "ফোল্ডারের নাম পরিবর্তন করা হবে">
+<!ENTITY rename.label                      "আপনার ফোল্ডারের নতুন নাম দেয়া হবে (E):">
+<!ENTITY rename.accesskey                  "E">
+<!ENTITY accept.label                      "পুনরায় নামকরণ (R)">
+<!ENTITY accept.accesskey                  "R">

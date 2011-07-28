@@ -1,46 +1,46 @@
-<!ENTITY itemFormatting.label "বিন্যাস">
-<!ENTITY itemTags.label "ট্যাগ">
+<!ENTITY itemFormatting.label             "বিন্যাস">
+<!ENTITY itemTags.label                   "ট্যাগ">
 
-<!ENTITY style.label "শৈলী (y):">
-<!ENTITY style.accesskey "y">
-<!ENTITY regularStyle.label "স্বাভাবিক">
-<!ENTITY bold.label "গাঢ়">
-<!ENTITY italic.label "তীর্যক">
-<!ENTITY boldItalic.label "গাঢ় তীর্যক">
-<!ENTITY size.label "আকার (S):">
-<!ENTITY size.accesskey "S">
-<!ENTITY regularSize.label "স্বাভাবিক">
-<!ENTITY bigger.label "অপেক্ষাকৃত বড়">
-<!ENTITY smaller.label "অপেক্ষাকৃত ছোট">
-<!ENTITY color.label "রং (C):">
-<!ENTITY color.accesskey "C">
-<!ENTITY displayWidth.label "সরল টেক্সট বার্তা">
-<!ENTITY displayText.label "উদ্ধৃতি চিহ্ন যুক্ত সরল টেক্সট বার্তা প্রদর্শনে:">
-<!ENTITY colors.label "রং">
-<!ENTITY overrideColors.label "বার্তা প্রদর্শনের সময় নিম্নের রং ব্যবহার করা হবে:">
-<!ENTITY textColor.label "টেক্সটের রং (T):">
-<!ENTITY textColor.accesskey "T">
-<!ENTITY backgroundColor.label "পটভূমির রং (B):">
-<!ENTITY backgroundColor.accesskey "B">
+<!ENTITY style.label                      "শৈলী (y):">
+<!ENTITY style.accesskey                  "y">
+<!ENTITY regularStyle.label               "স্বাভাবিক">
+<!ENTITY bold.label                       "গাঢ়">
+<!ENTITY italic.label                     "তীর্যক">
+<!ENTITY boldItalic.label                 "গাঢ় তীর্যক">
+<!ENTITY size.label                       "আকার (S):">
+<!ENTITY size.accesskey                   "S">
+<!ENTITY regularSize.label                "স্বাভাবিক">
+<!ENTITY bigger.label                     "অপেক্ষাকৃত বড়">
+<!ENTITY smaller.label                    "অপেক্ষাকৃত ছোট">
+<!ENTITY color.label                      "রং (C):">
+<!ENTITY color.accesskey                  "C">
+<!ENTITY displayWidth.label               "সরল টেক্সট বার্তা">
+<!ENTITY displayText.label                "উদ্ধৃতি চিহ্ন যুক্ত সরল টেক্সট বার্তা প্রদর্শনে:">
+<!ENTITY colors.label                     "রং">
+<!ENTITY overrideColors.label             "বার্তা প্রদর্শনের সময় নিম্নের রং ব্যবহার করা হবে:">
+<!ENTITY textColor.label                  "টেক্সটের রং (T):">
+<!ENTITY textColor.accesskey              "T">
+<!ENTITY backgroundColor.label            "পটভূমির রং (B):">
+<!ENTITY backgroundColor.accesskey        "B">
 <!-- LOCALIZATION NOTE : (emoticonsAndStructs.label) 'Emoticons' are also known as 'Smileys', e.g. :-)   -->
 
-<!ENTITY convertEmoticons.label "ইমোটিকন গ্রাফিক্স হিসেবে প্রদর্শন করা হবে (D)">
-<!ENTITY convertEmoticons.accesskey "D">
+<!ENTITY convertEmoticons.label        "ইমোটিকন গ্রাফিক্স হিসেবে প্রদর্শন করা হবে (D)">
+<!ENTITY convertEmoticons.accesskey    "D">
 <!-- labels -->
 
-<!ENTITY displayTagsText.label "আপনার বার্তা শ্রেনীবিভক্ত এবং অগ্রাধিকারভুক্ত করতে ট্যাগ ব্যবহার করা যায়।">
-<!ENTITY addTagButton.label "যোগ (A)">
-<!ENTITY addTagButton.accesskey "A">
-<!ENTITY editTagButton.label "সম্পাদনা (E)">
-<!ENTITY editTagButton.accesskey "E">
-<!ENTITY removeTagButton.label "অপসারণ (D)">
+<!ENTITY displayTagsText.label     "আপনার বার্তা শ্রেনীবিভক্ত এবং অগ্রাধিকারভুক্ত করতে ট্যাগ ব্যবহার করা যায়।">
+<!ENTITY addTagButton.label        "যোগ (A)">
+<!ENTITY addTagButton.accesskey    "A">
+<!ENTITY editTagButton.label       "সম্পাদনা (E)">
+<!ENTITY editTagButton.accesskey   "E">
+<!ENTITY removeTagButton.label     "অপসারণ (D)">
 <!ENTITY removeTagButton.accesskey "D">
 <!-- Fonts -->
 
-<!ENTITY fontsAndColors.label "ফন্ট">
-<!ENTITY defaultFont.label "ডিফল্ট ফন্ট (D):">
-<!ENTITY defaultFont.accesskey "D">
-<!ENTITY defaultSize.label "আকার ‌(S):">
-<!ENTITY defaultSize.accesskey "S">
-<!ENTITY fontOptions.accesskey "F">
-<!ENTITY fontOptions.label "ফন্ট... (F)">
+<!ENTITY fontsAndColors.label    "ফন্ট">
+<!ENTITY defaultFont.label       "ডিফল্ট ফন্ট (D):">
+<!ENTITY defaultFont.accesskey   "D">
+<!ENTITY defaultSize.label       "আকার ‌(S):">
+<!ENTITY defaultSize.accesskey   "S">
+<!ENTITY fontOptions.accesskey   "F">
+<!ENTITY fontOptions.label       "ফন্ট... (F)">

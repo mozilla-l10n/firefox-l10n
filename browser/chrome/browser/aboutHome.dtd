@@ -4,9 +4,6 @@
 
 
 <!ENTITY abouthome.pageTitle "&brandFullName; শুরুর পৃষ্ঠা">
-<!-- LOCALIZATION NOTE (abouthome.brandStart):
-     brandShortName must be in a <span/>
--->
 
 <!ENTITY abouthome.searchEngineButton.label "অনুসন্ধান">
 

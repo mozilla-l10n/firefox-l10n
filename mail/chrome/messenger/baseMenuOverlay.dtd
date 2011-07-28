@@ -5,10 +5,12 @@
                        for the help button in the menubar but Gnome does not.   -->
 <!ENTITY helpMenuWin.label "সহায়তা (H)">
 <!ENTITY helpMenuWin.accesskey "H">
-<!ENTITY helpTroubleshootingInfo.label "Troubleshooting Information">
+<!ENTITY helpTroubleshootingInfo.label     "Troubleshooting Information">
 <!ENTITY helpTroubleshootingInfo.accesskey "T">
-<!ENTITY releaseCmd.label "রিলিজ নোট (R)">
-<!ENTITY releaseCmd.accesskey "R">
+<!ENTITY helpSafeMode.label     "Restart with Add-ons Disabled…">
+<!ENTITY helpSafeMode.accesskey "R">
+<!ENTITY releaseCmd2.label "Release Notes">
+<!ENTITY releaseCmd2.accesskey "N">
 <!ENTITY whatsNewCmd.label "নতুন কি আছে (W)">
 <!ENTITY whatsNewCmd.accesskey "W">
 <!ENTITY featureConfiguratorCmd.label "মাইগ্রেশন এসিস্ট্যান্ট (M)">
@@ -17,9 +19,8 @@
 <!ENTITY openHelp.accesskey "H">
 <!ENTITY openHelp.commandkey "VKF1 (_F)">
 <!ENTITY openHelpMac.label "&brandShortName; সহায়তা">
-<!ENTITY openHelpMac2.commandkey "?">
-<!ENTITY openHelpMac2.modifiers "একসেল">
+<!ENTITY openHelpMac2.commandkey   "?">
+<!ENTITY openHelpMac2.modifiers    "একসেল">
 
-<!ENTITY updateCmd.label "হালনাগাদের জন্য পরীক্ষা…">
 <!ENTITY aboutMenuCmd.label "&brandShortName; পরিচিতি (A)">
 <!ENTITY aboutMenuCmd.accesskey "A">

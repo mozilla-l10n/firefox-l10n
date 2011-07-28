@@ -34,35 +34,35 @@
    -
    - ***** END LICENSE BLOCK ***** -->
 
-<!ENTITY GeneratedName.label "নাম (N)">
-<!ENTITY GeneratedName.accesskey "N">
-<!ENTITY PrimaryEmail.label "ইমেইল (E)">
-<!ENTITY PrimaryEmail.accesskey "E">
-<!ENTITY Company.label "প্রতিষ্ঠান (z)">
-<!ENTITY Company.accesskey "z">
-<!ENTITY _PhoneticName.label "ফনেটিক নাম (o)">
-<!ENTITY _PhoneticName.accesskey "o">
-<!ENTITY NickName.label "ডাকনাম (i)">
-<!ENTITY NickName.accesskey "i">
-<!ENTITY SecondEmail.label "অতিরিক্ত ইমেইল (l)">
-<!ENTITY SecondEmail.accesskey "l">
-<!ENTITY Department.label "বিভাগ (r)">
-<!ENTITY Department.accesskey "r">
-<!ENTITY JobTitle.label "পদবী (T)">
-<!ENTITY JobTitle.accesskey "T">
-<!ENTITY CellularNumber.label "মোবাইল (M)">
-<!ENTITY CellularNumber.accesskey "M">
-<!ENTITY PagerNumber.label "পেজার (P)">
-<!ENTITY PagerNumber.accesskey "P">
-<!ENTITY FaxNumber.label "ফ্যাক্স (F)">
-<!ENTITY FaxNumber.accesskey "F">
-<!ENTITY HomePhone.label "বাসার ফোন (H)">
-<!ENTITY HomePhone.accesskey "H">
-<!ENTITY WorkPhone.label "অফিসের ফোন (W)">
-<!ENTITY WorkPhone.accesskey "W">
-<!ENTITY ScreenName.label "পর্দার নাম (S)">
-<!ENTITY ScreenName.accesskey "S">
-<!ENTITY sortAscending.label "আরোহী (A)">
-<!ENTITY sortAscending.accesskey "A">
-<!ENTITY sortDescending.label "অবরোহী (D)">
-<!ENTITY sortDescending.accesskey "D">
+<!ENTITY GeneratedName.label                   "নাম (N)">
+<!ENTITY GeneratedName.accesskey               "N">
+<!ENTITY PrimaryEmail.label                    "ইমেইল (E)">
+<!ENTITY PrimaryEmail.accesskey                "E">
+<!ENTITY Company.label                         "প্রতিষ্ঠান (z)">
+<!ENTITY Company.accesskey                     "z">
+<!ENTITY _PhoneticName.label                   "ফনেটিক নাম (o)">
+<!ENTITY _PhoneticName.accesskey               "o">
+<!ENTITY NickName.label                        "ডাকনাম (i)">
+<!ENTITY NickName.accesskey                    "i">
+<!ENTITY SecondEmail.label                     "অতিরিক্ত ইমেইল (l)">
+<!ENTITY SecondEmail.accesskey                 "l">
+<!ENTITY Department.label                      "বিভাগ (r)">
+<!ENTITY Department.accesskey                  "r">
+<!ENTITY JobTitle.label                        "পদবী (T)">
+<!ENTITY JobTitle.accesskey                    "T">
+<!ENTITY CellularNumber.label                  "মোবাইল (M)">
+<!ENTITY CellularNumber.accesskey              "M">
+<!ENTITY PagerNumber.label                     "পেজার (P)">
+<!ENTITY PagerNumber.accesskey                 "P">
+<!ENTITY FaxNumber.label                       "ফ্যাক্স (F)">
+<!ENTITY FaxNumber.accesskey                   "F">
+<!ENTITY HomePhone.label                       "বাসার ফোন (H)">
+<!ENTITY HomePhone.accesskey                   "H">
+<!ENTITY WorkPhone.label                       "অফিসের ফোন (W)">
+<!ENTITY WorkPhone.accesskey                   "W">
+<!ENTITY ScreenName.label                      "পর্দার নাম (S)">
+<!ENTITY ScreenName.accesskey                  "S">
+<!ENTITY sortAscending.label                   "আরোহী (A)">
+<!ENTITY sortAscending.accesskey               "A">
+<!ENTITY sortDescending.label                  "অবরোহী (D)">
+<!ENTITY sortDescending.accesskey              "D">
