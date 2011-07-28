@@ -5,10 +5,20 @@
 <!-- File Menu -->
 <!ENTITY newFolderCmd.label "Folder…">
 <!ENTITY newFolderCmd.accesskey "F">
-<!ENTITY closeTabCmd.label "Tutup Tab">
-<!ENTITY closeTabCmd.accesskey "u">
-<!ENTITY closeOtherTabsCmd.label "Tutup Tab Lainnya">
-<!ENTITY closeOtherTabsCmd.accesskey "L">
+<!ENTITY closeTabCmd2.label "Tutup Tab">
+<!ENTITY closeTabCmd2.accesskey "u">
+<!ENTITY closeOtherTabsCmd2.label "Tutup Tab Lainnya">
+<!ENTITY closeOtherTabsCmd2.accesskey "L">
+<!ENTITY recentlyClosedTabsCmd.label "Tab yang Baru Ditutup">
+<!ENTITY recentlyClosedTabsCmd.accesskey "B">
+
+<!ENTITY undoCloseTabCmd.commandkey "T">
+<!-- LOCALIZATION NOTE (moveToNewWindow.label):
+     Menu option to cause the current tab to be migrated to a new Thunderbird
+     window.
+     -->
+<!ENTITY moveToNewWindow.label "Pindahkan ke Jendela Baru">
+<!ENTITY moveToNewWindow.accesskey "J">
 <!ENTITY newVirtualFolderCmd.label "Pencarian Tersimpan…">
 <!ENTITY newVirtualFolderCmd.accesskey "c">
 <!ENTITY newOtherAccountsCmd.label "Akun Lainnya…">
@@ -26,7 +36,6 @@
 <!ENTITY saveAsFileCmd.key "s">
 <!ENTITY saveAsTemplateCmd.label "Templat">
 <!ENTITY saveAsTemplateCmd.accesskey "T">
-<!ENTITY getNewMsgCmd.key "t">
 <!ENTITY getNewMsgForCmd.label "Ambil Pesan Baru untuk">
 <!ENTITY getNewMsgForCmd.accesskey "A">
 <!ENTITY getAllNewMsgCmdPopupMenu.label "Semua Akun">
@@ -315,6 +324,7 @@ you can use these alternative items. Otherwise, their values should be empty.  -
 <!ENTITY folderMenu.accesskey "O">
 <!ENTITY thisFolder.label "Folder Ini">
 <!ENTITY thisFolder.accesskey "F">
+<!ENTITY goRecentlyClosedTabs.label "Tab yang Baru Saja Ditutup">
 <!ENTITY startPageCmd.label "Laman Beranda">
 <!ENTITY startPageCmd.accesskey "L">
 
@@ -393,12 +403,11 @@ you can use these alternative items. Otherwise, their values should be empty.  -
 <!ENTITY tagCmd9.key "9">
 <!ENTITY markMenu.label "Tandai">
 <!ENTITY markMenu.accesskey "T">
+<!ENTITY toggleReadCmd.key "m">
 <!ENTITY markAsReadCmd.label "Sudah Dibaca">
 <!ENTITY markAsReadCmd.accesskey "d">
-<!ENTITY markAsReadCmd.key "m">
 <!ENTITY markAsUnreadCmd.label "Belum Dibaca">
 <!ENTITY markAsUnreadCmd.accesskey "u">
-<!ENTITY markAsUnreadCmd.key "m">
 <!ENTITY markThreadAsReadCmd.label "Utas Dibaca">
 <!ENTITY markThreadAsReadCmd.accesskey "b">
 <!ENTITY markThreadAsReadCmd.key "r">
@@ -508,7 +517,6 @@ you can use these alternative items. Otherwise, their values should be empty.  -
 <!ENTITY getMsgButton.tooltip "Ambil pesan baru">
 <!ENTITY getAllNewMsgCmd.label "Ambil Semua Pesan Baru">
 <!ENTITY getAllNewMsgCmd.accesskey "A">
-<!ENTITY getAllNewMsgCmd.key "t">
 <!ENTITY newMsgButton.tooltip "Buat pesan baru">
 <!ENTITY replyButton.tooltip "Balas pesan ini">
 <!ENTITY replyAllButton.tooltip "Balas kepada pengirim dan semua penerima">
@@ -740,12 +748,14 @@ you can use these alternative items. Otherwise, their values should be empty.  -
 <!-- Phishing Bar -->
 <!ENTITY phishingBarMessage2.label "Pesan ini mungkin berisi penipuan (scam).">
 <!ENTITY removePhishingBarButton1.label "Abaikan Peringatan">
+<!ENTITY disablePhishingWarning1.label "Nonaktifkan deteksi penipuan untuk semua pesan">
 <!ENTITY reportPhishingError1.label "Tampaknya pesan ini bukan pesan berisi penipuan.">
 
 <!-- MDN Bar -->
-<!ENTITY mdnBarMessage.label "Pengirim pesan telah meminta untuk diberitahu ketika Anda membaca pesan ini. Anda ingin memberi tahu pengirim?">
-<!ENTITY mdnBarIgnoreButton.label "Abaikan Permintaan">
-<!ENTITY mdnBarSendButton.label "Kirimkan Pemberitahuan">
+<!ENTITY mdnBarIgnoreButton2.label "Abaikan">
+<!ENTITY mdnBarIgnoreButton2.accesskey "i">
+<!ENTITY mdnBarSendButton2.label "Kirimkan Pemberitahuan Telah Dibaca">
+<!ENTITY mdnBarSendButton2.accesskey "n">
 
 <!-- Quick Search Bar -->
 <!-- LOCALIZATION NOTE (quickSearchCmd.key):
@@ -800,19 +810,16 @@ you can use these alternative items. Otherwise, their values should be empty.  -
 <!ENTITY reportPhishingURL.label "Laporkan Email Penipuan (Scam)">
 <!ENTITY reportPhishingURL.accesskey "o">
 
+<!-- Spell checker context menu items -->
+<!ENTITY spellAddDictionaries.label "Tambah Kamus…">
+<!ENTITY spellAddDictionaries.accesskey "K">
+
+
 <!-- Content Pane Context Menu -->
 <!ENTITY saveLinkAsCmd.label "Simpan Tautan dengan Nama…">
 <!ENTITY saveLinkAsCmd.accesskey "T">
 <!ENTITY saveImageAsCmd.label "Simpan Gambar dengan Nama…">
 <!ENTITY saveImageAsCmd.accesskey "G">
-<!ENTITY cutCmd.label "Potong">
-<!ENTITY cutCmd.accesskey "P">
-<!ENTITY copyCmd.label "Salin">
-<!ENTITY copyCmd.accesskey "S">
-<!ENTITY pasteCmd.label "Tempel">
-<!ENTITY pasteCmd.accesskey "T">
-<!ENTITY selectAllCmd.label "Pilih Semua">
-<!ENTITY selectAllCmd.accesskey "a">
 <!ENTITY copyLinkCmd.label "Salin Lokasi Tautan">
 <!ENTITY copyLinkCmd.accesskey "S">
 <!ENTITY copyImageAllCmd.label "Salin Gambar">

@@ -11,41 +11,43 @@
 <!ENTITY password.placeholder            "Sandi">
 <!ENTITY password.text                   "Opsional, akan digunakan untuk memvalidasi nama pengguna">
 
-<!ENTITY accountInformation.label        "Informasi Akun">
-<!ENTITY username2.label                 "Nama pengguna:">
+<!ENTITY username.label                 "Nama pengguna:">
+<!ENTITY hostname.label                  "Nama host server">
+<!ENTITY port.label                      "Port">
+<!ENTITY ssl.label                       "SSL">
 <!ENTITY incoming.label                  "Terima:">
 <!ENTITY outgoing.label                  "Keluar:">
 <!ENTITY noEncryption.label              "Tanpa">
 <!ENTITY starttls.label                  "STARTTLS">
 <!ENTITY sslTls.label                    "SSL/TLS">
+<!ENTITY auth.label                      "Autentikasi">
 
+<!ENTITY advancedSetup.label             "Konfigurasi lanjut">
+<!ENTITY advancedSetup.accesskey         "a">
+<!-- LOCALIZATION NOTE (half-manual-test.label): This is the text that is
+     displayed on the button in manual edit mode which will re-guess
+     the account configuration, taking into account the settings that
+     the user has manually changed. -->
+<!ENTITY half-manual-test.label          "Uji ulang">
+<!ENTITY half-manual-test.accesskey      "l">
+<!ENTITY manual-edit.label               "Konfigurasi manual">
+<!ENTITY manual-edit.accesskey           "M">
 <!ENTITY imap.label                      "IMAP">
-<!ENTITY pop.label                       "POP">
+<!ENTITY pop3.label                      "POP">
 <!ENTITY smtp.label                      "SMTP">
-<!ENTITY imap.description                "IMAP - Akses pesan dan folder dari berbagai komputer">
-<!ENTITY pop.description                 "POP - Unduh semua pesan ke komputer ini. Folder hanya bersifat lokal">
-<!ENTITY recommended-appendix.label      "(direkomendasikan)">
+<!ENTITY autodetect.label                "Deteksi otomatis">
 
-<!ENTITY manualSetup.label               "Setup Manual…">
-<!ENTITY manualSetup.accesskey           "S">
 <!ENTITY cancel.label                    "Batal">
 <!ENTITY cancel.accesskey                "B">
 <!ENTITY continue.label                  "Lanjutkan">
 <!ENTITY continue.accesskey              "L">
-<!ENTITY startOver.label                 "Ulangi dari Awal">
-<!ENTITY startOver.accesskey             "U">
 <!ENTITY stop.label                      "Stop">
 <!ENTITY stop.accesskey                  "S">
-<!-- LOCALIZATION NOTE (retest.label): This is the text that is
-     displayed on the button which will re-guess the account configuration,
-     taking into account the settings the user has changed. -->
-<!ENTITY retest.label                    "Ulangi Uji Konfigurasi">
-<!ENTITY retest.accesskey                "U">
-<!ENTITY edit.label                      "Sunting">
-<!ENTITY edit.accesskey                  "S">
 
 <!ENTITY rememberPassword.label          "Ingat sandi">
 <!ENTITY rememberPassword.accesskey      "I">
+<!ENTITY imapLong.label                  "IMAP (folder daring)">
+<!ENTITY pop3Long.label                  "POP3 (simpan email di komputer Anda)">
 
 <!ENTITY warning.label                   "Peringatan!">
 <!ENTITY incomingSettings.label          "Pengaturan terima:">

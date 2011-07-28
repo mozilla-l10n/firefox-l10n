@@ -15,3 +15,5 @@
 
 <!ENTITY editContactPanelDone.label "Selesai">
 <!ENTITY editContactPanelDone.accesskey "S">
+
+<!ENTITY contactMoveDisabledWarning.description "Anda tidak dapat mengubah buku alamat karena kontak ada dalam milis.">

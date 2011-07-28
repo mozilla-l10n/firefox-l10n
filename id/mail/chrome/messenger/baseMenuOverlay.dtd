@@ -7,8 +7,10 @@
 <!ENTITY helpMenuWin.accesskey "n">
 <!ENTITY helpTroubleshootingInfo.label      "Informasi Pemecahan Masalah…">
 <!ENTITY helpTroubleshootingInfo.accesskey  "m">
-<!ENTITY releaseCmd.label "Catatan Rilis">
-<!ENTITY releaseCmd.accesskey "R">
+<!ENTITY helpSafeMode.label     "Mulai Ulang dengan Pengaya Dinonaktifkan…">
+<!ENTITY helpSafeMode.accesskey "n">
+<!ENTITY releaseCmd2.label "Catatan Rilis">
+<!ENTITY releaseCmd2.accesskey "R">
 <!ENTITY whatsNewCmd.label "Kabar Terbaru">
 <!ENTITY whatsNewCmd.accesskey "K">
 <!ENTITY featureConfiguratorCmd.label "Asisten Migrasi">
@@ -20,6 +22,5 @@
 <!ENTITY openHelpMac2.commandkey   "?">
 <!ENTITY openHelpMac2.modifiers    "accel">
 
-<!ENTITY updateCmd.label "Periksa Versi Baru…">
 <!ENTITY aboutMenuCmd.label "Tentang &brandShortName;">
 <!ENTITY aboutMenuCmd.accesskey "T">

@@ -1,4 +1,5 @@
 <!ENTITY window.title "Aturan Filter">
+<!ENTITY filterEditorDialog.dimensions "width: 100ch;">
 
 <!ENTITY filterName.label "Nama filter:">
 <!ENTITY filterName.accesskey "i">
