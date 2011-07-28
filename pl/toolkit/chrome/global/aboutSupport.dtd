@@ -23,6 +23,7 @@
 <!ENTITY aboutSupport.appBasicsBuildConfig "Konfiguracja kompilacji">
 
 <!ENTITY aboutSupport.appBasicsUserAgent "Identyfikator programu">
+<!ENTITY aboutSupport.appBasicsCrashIDs "Zgłoszenia awarii">
 
 <!ENTITY aboutSupport.show.label "Pokaż zawartość folderu">
 <!-- LOCALIZATION NOTE (aboutSupport.showMac.label): This is the Mac-specific
