@@ -36,7 +36,11 @@
 <!ENTITY templatesFolderOn.accesskey "m">
 <!ENTITY templateInOtherFolder.label "Lainnya:">
 <!ENTITY templateInOtherFolder.accesskey "a">
-<!ENTITY specialFoldersTitle.label "Konsep dan Templat">
+<!ENTITY specialFolders.label "Konsep dan Templat">
 <!ENTITY keepDrafts.label "Letakkan pesan konsep di:">
 <!ENTITY keepArchives.label "Letakkan arsip pesan di:">
-<!ENTITY keepTempltes.label "Letakkan pesan templat di:">
+<!ENTITY keepArchives.accesskey "a">
+<!ENTITY keepTemplates.label "Letakkan pesan templat di:">
+<!ENTITY archiveHierarchyButton.label "Opsi pengarsipan…">
+<!ENTITY archiveHierarchyButton.accesskey "a">
+<!ENTITY archivesTitle.label "Arsip Pesan">
