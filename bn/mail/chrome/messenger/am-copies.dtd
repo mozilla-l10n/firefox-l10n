@@ -21,22 +21,26 @@
 <!ENTITY sentFolderOn.accesskey "S">
 <!ENTITY sentInOtherFolder.label "অন্যান্য: (O)">
 <!ENTITY sentInOtherFolder.accesskey "O">
+<!-- LOCALIZATION NOTE (archivesFolderOn.label): OK to translate this, bug #57440 -->
+<!ENTITY archivesTitle.label "Message Archives">
+<!ENTITY keepArchives.label "বার্তার আর্কাইভ রাখা হবে:">
+<!ENTITY keepArchives.accesskey "K">
+<!ENTITY archiveHierarchyButton.label "Archive options…">
+<!ENTITY archiveHierarchyButton.accesskey "A">
+<!ENTITY archivesFolderOn.label "&quot;আর্কাইভ&quot; ফোল্ডারে: (n)">
+<!ENTITY archivesFolderOn.accesskey "n">
+<!ENTITY archiveInOtherFolder.label "অন্যান্য: (h)">
+<!ENTITY archiveInOtherFolder.accesskey "h">
+<!ENTITY specialFolders.label "Drafts and Templates">
+<!ENTITY keepDrafts.label "বার্তার খসড়া রাখা হবে:">
 <!-- LOCALIZATION NOTE (draftsFolderOn.label): OK to translate this, bug #57440 -->
 <!ENTITY draftsFolderOn.label "&quot;খসড়া&quot; ফোল্ডারে: (D)">
 <!ENTITY draftsFolderOn.accesskey "D">
 <!ENTITY draftInOtherFolder.label "অন্যান্য: (t)">
 <!ENTITY draftInOtherFolder.accesskey "t">
-<!-- LOCALIZATION NOTE (archivesFolderOn.label): OK to translate this, bug #57440 -->
-<!ENTITY archivesFolderOn.label "&quot;আর্কাইভ&quot; ফোল্ডারে: (n)">
-<!ENTITY archivesFolderOn.accesskey "n">
-<!ENTITY archiveInOtherFolder.label "অন্যান্য: (h)">
-<!ENTITY archiveInOtherFolder.accesskey "h">
+<!ENTITY keepTemplates.label "Keep message templates in:">
 <!-- LOCALIZATION NOTE (templatesFolderOn.label): OK to translate this, bug #57440 -->
 <!ENTITY templatesFolderOn.label "&quot;ফর্মা&quot; ফোল্ডারে: (m)">
 <!ENTITY templatesFolderOn.accesskey "m">
 <!ENTITY templateInOtherFolder.label "অন্যান্য: (e)">
 <!ENTITY templateInOtherFolder.accesskey "e">
-<!ENTITY specialFoldersTitle.label "খসড়া, আর্কাইভ, এবং ফর্মা">
-<!ENTITY keepDrafts.label "বার্তার খসড়া রাখা হবে:">
-<!ENTITY keepArchives.label "বার্তার আর্কাইভ রাখা হবে:">
-<!ENTITY keepTempltes.label "বার্তার ফর্মা রাখা হবে:">

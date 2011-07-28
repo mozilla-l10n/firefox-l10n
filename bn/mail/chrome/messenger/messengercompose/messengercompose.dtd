@@ -169,8 +169,8 @@
 <!ENTITY accountManagerCmdUnix.accesskey "S">
 <!ENTITY preferencesCmd.label "অপশন… (O)">
 <!ENTITY preferencesCmd.accesskey "O">
-<!ENTITY preferencesCmdUnix.label "পছন্দসমূহ (n)">
-<!ENTITY preferencesCmdUnix.accesskey "n">
+<!ENTITY preferencesCmdUnix.label       "পছন্দসমূহ (n)">
+<!ENTITY preferencesCmdUnix.accesskey   "n">
 <!--  Mac OS X Window Menu -->
 
 <!ENTITY minimizeWindow.key "m">
@@ -193,12 +193,16 @@
 <!ENTITY quoteButton.tooltip "পূর্ববর্তী বার্তার উদ্ধৃতি দিন">
 <!ENTITY addressButton.tooltip "একটি ঠিকানা বই থেকে প্রাপক নির্বাচন করা হবে">
 <!ENTITY attachButton.tooltip "একটি সংযুক্তি অন্তর্ভূক্ত করুন">
+<!ENTITY spellingButton.tooltip "Check spelling of selection or entire message">
 <!ENTITY saveButton.tooltip "এই বার্তাটি সংরক্ষণ করুন">
-<!ENTITY cutButton.tooltip "কাটা">
-<!ENTITY copyButton.tooltip "অনুলিপি">
-<!ENTITY pasteButton.tooltip "প্রতিলেপন">
+<!ENTITY cutButton.tooltip              "কাটা">
+<!ENTITY copyButton.tooltip             "অনুলিপি">
+<!ENTITY pasteButton.tooltip            "প্রতিলেপন">
 <!-- Headers -->
+<!--LOCALIZATION NOTE headersSpace.style is for aligning  the From:, To: and
+    Subject: rows. It should be larger than the largest Header label  -->
 
+<!ENTITY headersSpace.style "width: 9em;">
 <!ENTITY fromAddr.label "প্রেরক (r):">
 <!ENTITY fromAddr.accesskey "r">
 <!ENTITY toAddr.label "প্রাপক:">
@@ -263,6 +267,10 @@
 <!ENTITY attachFile.accesskey "F">
 <!ENTITY attachPage.label "ওয়েব পেজ সংযুক্ত করুন… (W)">
 <!ENTITY attachPage.accesskey "W">
+<!-- Spell checker context menu items -->
+
+<!ENTITY spellAddDictionaries.label "Add Dictionaries…">
+<!ENTITY spellAddDictionaries.accesskey "A">
 <!-- Title for the address picker panel -->
 
 <!ENTITY addressesSidebarTitle.label "পরিচিতি">

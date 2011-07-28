@@ -1,5 +1,5 @@
-<!ENTITY systemIntegration.title "সিস্টেম ইন্টিগ্রেশন">
-<!ENTITY defaultClient.intro "যার জন্য ডিফল্ট ক্লায়েন্ট হিসেবে &brandShortName; ব্যবহার করা হবে:">
+<!ENTITY systemIntegration.title  "সিস্টেম ইন্টিগ্রেশন">
+<!ENTITY defaultClient.intro  "যার জন্য ডিফল্ট ক্লায়েন্ট হিসেবে &brandShortName; ব্যবহার করা হবে:">
 
 <!ENTITY email.label "ইমেইল">
 <!ENTITY newsgroups.label "নিউজগ্রুপ">

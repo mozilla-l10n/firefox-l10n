@@ -1,7 +1,7 @@
 <!-- rights.locale-direction instead of the usual local.dir entity, so RTL can skip translating page. -->
 <!ENTITY rights.locale-direction "ltr">
-<!ENTITY rights.title "আপনার অধিকার সম্পর্কিত">
-<!ENTITY rights.intro-header "আপনার অধিকার সম্পর্কিত">
+<!ENTITY rights.title            "আপনার অধিকার সম্পর্কিত">
+<!ENTITY rights.intro-header     "আপনার অধিকার সম্পর্কিত">
 <!ENTITY rights.intro "&brandFullName; একটি মুক্ত এবং ওপেন সোর্স সফটওয়্যার, যা সারা বিশ্বের হাজার হাজার মানুষের কমিউনিটি দ্বারা তৈরি করা হয়েছে। কিছু জিনিস আপনার জানা প্রয়োজন:">
 <!-- Note on pointa / pointb / pointc form:
      These points each have an embedded link in the HTML, so each point is

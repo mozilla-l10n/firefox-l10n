@@ -45,9 +45,6 @@
 
 <!ENTITY fileMenu.label "ফাইল (F)">
 <!ENTITY fileMenu.accesskey "F">
-<!ENTITY newBlankPageCmd.label "রচনাকারক পৃষ্ঠা (P)">
-<!ENTITY newBlankPageCmd.accesskey "P">
-<!ENTITY newMenu.label "নতুন">
 <!ENTITY openFileCmd.label "ফাইল খুলুন... (O)">
 <!ENTITY openFileCmd.accesskey "O">
 <!ENTITY openFileCmd.key "O">
@@ -69,14 +66,8 @@
 <!ENTITY publishCmd.key "S">
 <!ENTITY publishAsCmd.label "এভাবে প্রকাশ করুন... (h)">
 <!ENTITY publishAsCmd.accesskey "h">
-<!ENTITY exportToTextCmd.label "পাঠ্যে এক্সপোর্ট করুন... (T)">
-<!ENTITY exportToTextCmd.accesskey "T">
 <!ENTITY saveAsChangeEncodingCmd.label "অক্ষরের এনকোডিং সংরক্ষণ এবং পরিবর্তন করুন (E)">
 <!ENTITY saveAsChangeEncodingCmd.accesskey "E">
-<!ENTITY previewCmd.label "পৃষ্ঠা ব্রাউজ করুন (w)">
-<!ENTITY previewCmd.accesskey "w">
-<!ENTITY sendPageCmd.label "পৃষ্ঠা পাঠানো... (d)">
-<!ENTITY sendPageCmd.accesskey "d">
 <!ENTITY printSetupCmd.label "পৃষ্ঠার সেটআপ... (u)">
 <!ENTITY printSetupCmd.accesskey "u">
 <!ENTITY printCmd.label "মুদ্রণ... (P)">
@@ -116,8 +107,6 @@
 <!ENTITY checkSpellingCmd2.label "বানান পরীক্ষা (h)">
 <!ENTITY checkSpellingCmd2.accesskey "h">
 <!ENTITY checkSpellingCmd2.key "p">
-<!ENTITY validateCmd.label "HTML যাচাই (V)">
-<!ENTITY validateCmd.accesskey "V">
 <!-- Insert menu items -->
 
 <!ENTITY insertMenu.label "প্রবেশ (I)">
@@ -333,11 +322,6 @@
 <!ENTITY decreaseIndent.accesskey "D">
 <!ENTITY decreaseIndent.key "[">
 
-<!ENTITY grid.label "অবস্থান নির্ণয়কারী গ্রিড (t)">
-<!ENTITY grid.accesskey "t">
-
-<!ENTITY pageProperties.label "পৃষ্ঠার শিরোনাম এবং বৈশিষ্ট্য... (g)">
-<!ENTITY pageProperties.accesskey "g">
 <!ENTITY colorsAndBackground.label "পৃষ্ঠার রং এবং পটভূমি... (u)">
 <!ENTITY colorsAndBackground.accesskey "u">
 <!-- Table Menu -->
@@ -406,15 +390,13 @@
 <!-- Toolbar-only items -->
 
 <!ENTITY menuBar.tooltip "মেনু বার">
-<!ENTITY compositionToolbar.tooltip "মেইল রচনা টুলবার">
 <!ENTITY formatToolbar.tooltip "ফরম্যাট টুলবার">
+<!ENTITY newToolbarCmd.label "New">
 <!ENTITY newToolbarCmd.tooltip "একটি নতুন রচনাকারক পৃষ্ঠা তৈরি করুন">
 <!ENTITY openToolbarCmd.label "খুলুন">
 <!ENTITY openToolbarCmd.tooltip "একটি স্থানীয় ফাইল খুলুন">
 <!ENTITY saveToolbarCmd.tooltip "একটি স্থানীয় অবস্থানে ফাইল সংরক্ষণ করুন">
 <!ENTITY publishToolbarCmd.tooltip "একটি দূরবর্তী অবস্থানে ফাইল আপলোড করুন">
-<!ENTITY previewToolbarCmd.label "ব্রাউজ">
-<!ENTITY previewToolbarCmd.tooltip "এই পৃষ্ঠাটি ব্রাউজারে লোড করুন">
 <!ENTITY printToolbarCmd.label "মুদ্রণ">
 <!ENTITY printToolbarCmd.tooltip "এই পৃষ্ঠাটি মুদ্রণ করুন">
 <!ENTITY findToolbarCmd.label "অনুসন্ধান">
@@ -451,48 +433,22 @@
 <!ENTITY alignLeftButton.tooltip "পাঠ্যকে বাম মার্জিনের সাথে মেলানো হবে">
 <!ENTITY alignCenterButton.tooltip "পাঠ্যকে মাঝ বরাবর সাজানো হবে">
 <!ENTITY alignRightButton.tooltip "পাঠ্যকে ডান মার্জিনের সাথে মেলানো হবে">
-<!ENTITY alignjustifyButton.tooltip "পাঠ্যকে ডান এবং বামের মার্জিনের সাথে সাজানো হবে">
-<!-- Display Mode toolbar and View menu items -->
-
-<!ENTITY NormalModeTab.label "সাধারণ">
-<!ENTITY NormalMode.label "সাধারণ সম্পাদন মোড (N)">
-<!ENTITY NormalMode.accesskey "N">
-<!ENTITY NormalMode.tooltip "সারণির সীমানা এবং নামসহ নোঙ্গর দেখানো হবে">
-<!ENTITY AllTagsMode.label "HTML ট্যাগ (a)">
-<!ENTITY AllTagsMode.accesskey "a">
-<!ENTITY AllTagsMode.tooltip "সব HTML ট্যাগের আইকন দেখানো হবে">
-
-<!ENTITY HTMLSourceMode.label "HTML সোর্স (H)">
-<!-- Toolbar has an image with "HTML" text, so don't include it in the string -->
-<!ENTITY SourceMode.label "সোর্স">
-<!ENTITY HTMLSourceMode.accesskey "H">
-<!ENTITY HTMLSourceMode.tooltip "HTML সোর্স সম্পাদনা করুন">
-<!ENTITY PreviewMode.label "প্রাকদর্শন (P)">
-<!ENTITY PreviewMode.accesskey "P">
-<!ENTITY PreviewMode.tooltip "WYSIWYG হিসেবে দেখানো হবে (ব্রাউজারের মত)">
-<!-- LOCALIZATION NOTE: Do NOT translate text for 'SourceTabDirection'
-     Use latin "ltr" if you want the <html> image to left of the 
-     'SourceMode.label' text defined above,
-     or use latin "rtl" if you want this image to the right of text
-     This is the value of the HTML 'dir' attribute
--->
-
-<!ENTITY SourceTabDirection "ltr">
+<!ENTITY alignJustifyButton.tooltip "Align text along left and right margins">
 <!-- Structure Toolbar Context Menu items -->
 
-<!ENTITY structSelect.label "নির্বাচন করুন (S)">
-<!ENTITY structSelect.accesskey "S">
-<!ENTITY structRemoveTag.label "ট্যাগ মুছে দিন (R)">
-<!ENTITY structRemoveTag.accesskey "R">
-<!ENTITY structChangeTag.label "ট্যাগ পরিবর্তন করুন (C)">
-<!ENTITY structChangeTag.accesskey "C">
+<!ENTITY structSelect.label         "নির্বাচন করুন (S)">
+<!ENTITY structSelect.accesskey     "S">
+<!ENTITY structRemoveTag.label      "ট্যাগ মুছে দিন (R)">
+<!ENTITY structRemoveTag.accesskey  "R">
+<!ENTITY structChangeTag.label      "ট্যাগ পরিবর্তন করুন (C)">
+<!ENTITY structChangeTag.accesskey  "C">
 <!-- TOC manipulation -->
 
-<!ENTITY insertTOC.label "প্রবেশ (I)">
-<!ENTITY insertTOC.accesskey "I">
-<!ENTITY updateTOC.label "হালনাগাদ (U)">
-<!ENTITY updateTOC.accesskey "U">
-<!ENTITY removeTOC.label "মুছে দিন (R)">
-<!ENTITY removeTOC.accesskey "R">
-<!ENTITY tocMenu.label "সূচীপত্র... (b)">
-<!ENTITY tocMenu.accesskey "b">
+<!ENTITY insertTOC.label          "প্রবেশ (I)">
+<!ENTITY insertTOC.accesskey      "I">
+<!ENTITY updateTOC.label          "হালনাগাদ (U)">
+<!ENTITY updateTOC.accesskey      "U">
+<!ENTITY removeTOC.label          "মুছে দিন (R)">
+<!ENTITY removeTOC.accesskey      "R">
+<!ENTITY tocMenu.label            "সূচীপত্র... (b)">
+<!ENTITY tocMenu.accesskey        "b">
