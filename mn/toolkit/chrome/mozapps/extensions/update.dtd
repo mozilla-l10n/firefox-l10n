@@ -46,5 +46,3 @@
 <!ENTITY  clickFinish.label               "Дуусга товч дээр дарж &brandShortName;-г ачаалалтыг үргэлжлүүлнэ.">
 <!ENTITY  clickFinish.labelMac            "Гүйцэтгэсэн товч дээр дарж &brandShortName;-г үргэлжлүүлнэ үү.">
 <!ENTITY  enableChecking.label            "&brandShortName; шинэчлэл шалгахыг нь зөвшөөр.">
-<!ENTITY  details.label                   "Тодорхой мэдээлэл…">
-<!ENTITY  details.accesskey               "й">
