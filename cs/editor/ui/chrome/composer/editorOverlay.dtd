@@ -139,23 +139,6 @@
 <!ENTITY createLinkCmd.accesskey "k">
 <!ENTITY editLinkCmd.label "Upravit odkaz v editoru">
 <!ENTITY editLinkCmd.accesskey "i">
-<!-- (Toplevel Edit menu uses utilityOverlay) -->
-<!ENTITY undoCmd.label "Zpět">
-<!ENTITY undoCmd.accesskey "Z">
-<!ENTITY redoCmd.label "Znovu">
-<!ENTITY redoCmd.accesskey "o">
-<!ENTITY cutCmd.label "Vyjmout">
-<!ENTITY cutCmd.accesskey "y">
-<!ENTITY copyCmd.label "Kopírovat">
-<!ENTITY copyCmd.accesskey "K">
-<!ENTITY pasteCmd.label "Vložit">
-<!ENTITY pasteCmd.accesskey "l">
-<!ENTITY deleteCmd.label "Smazat">
-<!ENTITY deleteCmd.accesskey "m">
-<!ENTITY clearCmd.label "Vyčistit">
-<!ENTITY clearCmd.accesskey "V">
-<!ENTITY selectAllCmd.label "Vybrat vše">
-<!ENTITY selectAllCmd.accesskey "a">
 
 <!-- Font Face SubMenu -->
 <!ENTITY FontFaceSelect.tooltip "Výběr písma">
@@ -396,6 +379,9 @@
 <!ENTITY openToolbarCmd.tooltip "Otevře uložený soubor">
 <!ENTITY saveToolbarCmd.tooltip "Uloží stránku do souboru">
 <!ENTITY publishToolbarCmd.tooltip "Umístí soubor na vzdálený server">
+<!ENTITY cutToolbarCmd.tooltip "Vyjme">
+<!ENTITY copyToolbarCmd.tooltip "Zkopíruje">
+<!ENTITY pasteToolbarCmd.tooltip "Vloží">
 <!ENTITY printToolbarCmd.label "Tisknout">
 <!ENTITY printToolbarCmd.tooltip "Vytiskne tuto stránku">
 <!ENTITY findToolbarCmd.label "Hledat">
