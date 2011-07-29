@@ -22,10 +22,10 @@
 <!ENTITY malformedURI.longDesc "<p>Het opgegeven adres heeft geen herkenbaar formaat. Controleer de locatiebalk op fouten en probeer het opnieuw.</p>">
 
 <!ENTITY netInterrupt.title "Gegevensoverdracht onderbroken">
-<!ENTITY netInterrupt.longDesc "<p>De browser heeft met succes verbinding gemaakt, maar deze werd onderbroken tijdens het overbrengen van informatie. Probeer het opnieuw.</p><ul><li>Kunt u geen andere websites bezoeken? Controleer de netwerkverbinding van de computer.</li><li>Hebt u nog steeds problemen? Raadpleeg uw netwerkbeheerder of internetprovider voor assistentie.</li></ul>">
+<!ENTITY netInterrupt.longDesc "<p>De browser heeft met succes verbinding gemaakt, maar deze werd onderbroken tijdens het overbrengen van gegevens. Probeer het opnieuw.</p><ul><li>Kunt u geen andere websites bezoeken? Controleer de netwerkverbinding van de computer.</li><li>Hebt u nog steeds problemen? Raadpleeg uw netwerkbeheerder of internetprovider voor assistentie.</li></ul>">
 
 <!ENTITY netOffline.title "Offlinemodus">
-<!ENTITY netOffline.longDesc2 "<p>De browser werkt momenteel in offlinemodus en kan niet verbinden met het opgevraagde item.</p><ul><li>Is de computer verbonden met een actief netwerk?</li><li>Druk op &quot;Opnieuw proberen&quot; om naar onlinemodus overte schakelen en vernieuw de pagina.</li></ul>">
+<!ENTITY netOffline.longDesc2 "<p>De browser werkt momenteel in offlinemodus en kan niet verbinden met het opgevraagde item.</p><ul><li>Is de computer verbonden met een actief netwerk?</li><li>Druk op “Opnieuw proberen” om naar onlinemodus over te schakelen en vernieuw de pagina.</li></ul>">
 
 <!ENTITY contentEncodingError.title "Inhoudcoderingsfout">
 <!ENTITY contentEncodingError.longDesc "<p>De pagina die u wilt bekijken kan niet worden weergegeven, omdat deze gebruikmaakt van een ongeldige of niet-ondersteunde vorm van compressie.</p><ul><li>Neem contact op met de website-eigenaars om ze te informeren over dit probleem.</li></ul>">
@@ -70,27 +70,28 @@
 
 <!ENTITY malwareBlocked.title "Vermoedelijke aanvalsite!">
 <!ENTITY malwareBlocked.longDesc "
-<p>Aanvalsites proberen programma’s te installeren die privéinformatie stelen, uw computer gebruiken om anderen aan te vallen, of uw systeem beschadigen.</p>
+<p>Aanvalsites proberen programma’s te installeren die privégegevens stelen, uw computer gebruiken om anderen aan te vallen, of uw systeem beschadigen.</p>
 <p>Website-eigenaars die menen dat hun website ten onrechte is gerapporteerd als een aanvalsite kunnen om een <a href='http://www.stopbadware.org/home/reviewinfo'>herbeoordeling vragen</a>.</p>
 ">
 
 <!ENTITY phishingBlocked.title "Vermoedelijke webvervalsing!">
 <!ENTITY phishingBlocked.longDesc "
-<p>Het invoeren van persoonlijke informatie op deze pagina kan leiden tot diefstal van identiteitsgegevens of andere fraude.</p>
+<p>Het invoeren van persoonlijke gegevens op deze pagina kan leiden tot diefstal van identiteitsgegevens of andere fraude.</p>
 <p>Dit soort webvervalsingen wordt gebruikt in e-mailscams die bekend staan als phishingaanvallen, waarbij frauduleuze webpagina’s en e-mails worden gebruikt om bronnen die u misschien vertrouwt na te bootsen.</p>
 ">
 
 <!ENTITY cspFrameAncestorBlocked.title "Geblokkeerd door inhoudbeveiligingsbeleid">
 <!ENTITY cspFrameAncestorBlocked.longDesc "<p>De browser voorkomt dat de pagina op deze manier wordt geladen, omdat de pagina een inhoudbeveiligingsbeleid heeft dat dit niet toestaat.</p>">
 
-<!ENTITY corruptedContentError.title "Beschadigde inhoudfout">
-<!ENTITY corruptedContentError.longDesc "<p>De pagina die u wilt bekijken kan niet worden weergegeven, omdat er een fout in de dataverzending is gedetecteerd.</p><ul><li>Neem contact op met de website-eigenaars om ze te informeren over dit probleem.</li></ul>">
-
-<!-- Include app-specific error messages - do not change this in localization!
-     Some applications might override netErrorApp.dtd with their specific version,
-     this inclusion needs to be intact for that approach to work correctly. -->
-<!ENTITY % netErrorAppDTD SYSTEM "chrome://global/locale/netErrorApp.dtd">
-%netErrorAppDTD;
+<!ENTITY corruptedContentError.title "Beschadigde-inhoudsfout">
+<!ENTITY corruptedContentError.longDesc "<p>De pagina die u wilt bekijken kan niet worden weergegeven, omdat er een fout in de gegevensoverdracht is gedetecteerd.</p><ul><li>Neem contact op met de website-eigenaars om ze te informeren over dit probleem.</li></ul>">
 
 <!ENTITY remoteXUL.title "Remote XUL">
 <!ENTITY remoteXUL.longDesc "<p><ul><li>Neem contact op met de website-eigenaars om ze te informeren over dit probleem.</li></ul></p>">
+
+<!-- Include app-specific error messages - do not change this in localization!
+     Some applications might override netErrorApp.dtd with their specific version,
+     this inclusion needs to be intact for that approach to work correctly.
+     Please, try to keep this at the end of the file. -->
+<!ENTITY % netErrorAppDTD SYSTEM "chrome://global/locale/netErrorApp.dtd">
+%netErrorAppDTD;
