@@ -80,10 +80,10 @@
 <!ENTITY NormalMode.label "Normal redigeringsmodus">
 <!ENTITY NormalMode.accesskey "N">
 <!ENTITY NormalMode.tooltip "Vis tabellkantar og namngjevne anker">
-<!ENTITY AllTagsModeTab.label "HTML-merkelappar">
-<!ENTITY AllTagsMode.label "HTML-merkelapper">
+<!ENTITY AllTagsModeTab.label "HTML-taggar">
+<!ENTITY AllTagsMode.label "HTML-taggar">
 <!ENTITY AllTagsMode.accesskey "a">
-<!ENTITY AllTagsMode.tooltip "Vis ikon for alle HTML-merkelappane">
+<!ENTITY AllTagsMode.tooltip "Vis ikon for alle HTML-taggar">
 <!-- LOCALIZATION NOTE: (HTMLSourceModeTab.dir, HTMLSourceModeTab.label)
      Do NOT translate text for 'HTMLSourceModeTab.dir', use latin "ltr" if
      you want the <html> image to left of the 'HTMLSourceModeTab.label' text,
