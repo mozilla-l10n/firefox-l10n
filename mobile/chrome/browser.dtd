@@ -99,6 +99,7 @@
 <!ENTITY pageactions.share.page      "Ndajeni Faqen">
 <!ENTITY pageactions.password.forget "Harroje Fjalëkalimin">
 <!ENTITY pageactions.reset           "Pastro Parapëlqimet për Site-in">
+<!ENTITY pageactions.quit            "Dil">
 <!ENTITY pageactions.findInPage      "Gjeni Tek Faqja">
 <!ENTITY pageactions.search.addNew   "Shtoni Motor Kërkimi">
 <!ENTITY pageactions.charEncoding    "Kodim Shkronjash">
