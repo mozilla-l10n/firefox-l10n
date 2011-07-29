@@ -86,6 +86,8 @@
 <!ENTITY forwardCmd.label "Avanti">
 <!ENTITY forwardCmd.accesskey "A">
 <!ENTITY forwardButton.tooltip "Vai avanti di una pagina">
+<!ENTITY backForwardButtonMenu.tooltip "Per visualizzare la cronologia fare clic con il tasto destro o trascinare verso il basso il puntatore del mouse">
+<!ENTITY backForwardButtonMenuMac.tooltip "Per visualizzare la cronologia trascinare verso il basso il puntatore del mouse">
 <!ENTITY reloadCmd.label "Ricarica">
 <!ENTITY reloadCmd.accesskey "R">
 <!ENTITY reloadButton.tooltip "Ricarica la pagina corrente">
