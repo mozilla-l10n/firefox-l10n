@@ -12,6 +12,7 @@
 <!ENTITY aboutSupport.appBasicsEnabledPlugins "Plugin attivi">
 <!ENTITY aboutSupport.appBasicsBuildConfig "Configurazione build">
 <!ENTITY aboutSupport.appBasicsUserAgent "User agent">
+<!ENTITY aboutSupport.appBasicsCrashIDs "Segnalazioni di errore">
 <!ENTITY aboutSupport.show.label "Apri cartella">
 <!ENTITY aboutSupport.showMac.label "Mostra nel Finder">
 <!ENTITY aboutSupport.modifiedPrefsTitle "Preferenze modificate">
