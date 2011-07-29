@@ -150,7 +150,7 @@ can reach it easily. -->
 <!ENTITY bookmarksMenuButton.tooltip        "Vis bokmerka mine">
 <!ENTITY bookmarksMenuButton.unsorted.label "Usorterte bokmerke">
 <!ENTITY viewBookmarksSidebar.label         "Vis i sidestolpen">
-<!ENTITY viewBookmarksToolbar.label         "Vis bokmerkeverktøylinje">
+<!ENTITY viewBookmarksToolbar.label         "Vis bokmerkeverktøylinja">
 
 <!-- LOCALIZATION NOTE (bookmarksSidebarGtkCmd.commandkey): This command
   -  key should not contain the letters A-F, since these are reserved
@@ -159,7 +159,7 @@ can reach it easily. -->
 <!ENTITY bookmarksWinCmd.commandkey "i">
 
 <!ENTITY historyButton.label            "Historikk">
-<!ENTITY historyButton.tooltip          "Vis sider du har vitja i det siste">
+<!ENTITY historyButton.tooltip          "Vis sider du har besøkt i det siste">
 <!ENTITY historySidebarCmd.accesskey    "h">
 <!ENTITY historySidebarCmd.commandKey   "h">
 
@@ -383,9 +383,9 @@ can reach it easily. -->
 <!ENTITY bookmarkThisLinkCmd.accesskey  "L">
 <!ENTITY bookmarkThisFrameCmd.label      "Bokmerk denne ramma">
 <!ENTITY bookmarkThisFrameCmd.accesskey  "B">
-<!ENTITY sendPageCmd.label            "Send lenkjeadressa …">
+<!ENTITY sendPageCmd.label            "Send lenkjeadresse …">
 <!ENTITY sendPageCmd.accesskey        "S">
-<!ENTITY savePageCmd.label            "Lagre sida som …">
+<!ENTITY savePageCmd.label            "Lagre side som …">
 <!ENTITY savePageCmd.accesskey        "a">
 <!-- alternate for content area context menu -->
 <!ENTITY savePageCmd.accesskey2       "r">
@@ -396,9 +396,9 @@ can reach it easily. -->
 <!ENTITY printFrameCmd.accesskey      "k">
 <!ENTITY saveLinkCmd.label            "Lagre lenkje som …">
 <!ENTITY saveLinkCmd.accesskey        "L">
-<!ENTITY sendLinkCmd.label            "Send lenkjeadressa …"> 
+<!ENTITY sendLinkCmd.label            "Send lenkjeadresse …"> 
 <!ENTITY sendLinkCmd.accesskey        "S">
-<!ENTITY saveImageCmd.label           "Lagre biletet som …">
+<!ENTITY saveImageCmd.label           "Lagre bilete som …">
 <!ENTITY saveImageCmd.accesskey       "b">
 <!ENTITY saveVideoCmd.label           "Lagre video som …">
 <!ENTITY saveVideoCmd.accesskey       "a">
@@ -410,7 +410,7 @@ can reach it easily. -->
 <!ENTITY sendVideoCmd.accesskey       "n">
 <!ENTITY sendAudioCmd.label           "Send lyd …">
 <!ENTITY sendAudioCmd.accesskey       "n">
-<!ENTITY copyLinkCmd.label            "Kopier lenkjeadressa">
+<!ENTITY copyLinkCmd.label            "Kopier lenkjeadresse">
 <!ENTITY copyLinkCmd.accesskey        "K">
 <!ENTITY copyImageCmd.label           "Kopier biletadresse">
 <!ENTITY copyImageCmd.accesskey       "o">
@@ -535,7 +535,7 @@ you can use these alternative items. Otherwise, their values should be empty.  -
 <!ENTITY editBookmark.cancel.label                   "Avbryt">
 <!ENTITY editBookmark.removeBookmark.accessKey       "S">
 
-<!ENTITY identity.unverifiedsite2 "Denne nettsida har ingen opplysningar om identitet.">
+<!ENTITY identity.unverifiedsite2 "Denne nettsida har ingen identitetsinformasjon.">
 <!ENTITY identity.connectedTo "Du er kopla til">
 <!-- Localization note (identity.runBy) : This string appears between a
 domain name (above) and an organization name (below). E.g.
@@ -548,9 +548,9 @@ The layout of the identity dialog prevents combining this into a single string w
 substitution variables.  If it is difficult to translate the sense of the string
 with that structure, consider a translation which ignores the preceding domain and
 just addresses the organization to follow, e.g. "This site is run by " -->
-<!ENTITY identity.runBy "som er driven av">
+<!ENTITY identity.runBy "som høyrer til">
 
-<!ENTITY identity.moreInfoLinkText "Meir info …">
+<!ENTITY identity.moreInfoLinkText "Meir informasjon …">
 
 <!ENTITY downloadMonitor2.tooltip "Trykk for å opne nedlastingsvindauget">
 
