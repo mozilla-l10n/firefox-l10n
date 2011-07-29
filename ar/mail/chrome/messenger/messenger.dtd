@@ -227,6 +227,8 @@
 <!ENTITY bodySanitized.accesskey "ب">
 <!ENTITY bodyAsPlaintext.label "نص صِرْف">
 <!ENTITY bodyAsPlaintext.accesskey "ن">
+<!ENTITY bodyAllParts.label "كافة أجزاء المتن">
+<!ENTITY bodyAllParts.accesskey "ف">
 
 <!ENTITY bodyMenuFeed.label "تلقيم متن الرسالة كـ">
 <!ENTITY bodyMenuFeed.accesskey "ت">
