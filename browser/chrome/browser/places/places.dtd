@@ -106,7 +106,7 @@
 
 <!ENTITY maintenance.label      "Importeren en reservekopie maken">
 <!ENTITY maintenance.accesskey  "I">
-<!ENTITY maintenance.tooltip    "Uw bladwijzers importeren en reservekopie maken">
+<!ENTITY maintenance.tooltip    "Uw bladwijzers importeren en een reservekopie maken">
 
 <!ENTITY backButton.tooltip  "Terug gaan">
 

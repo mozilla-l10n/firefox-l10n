@@ -1,7 +1,7 @@
 <!ENTITY tracking.label                 "Volgen">
 
 <!ENTITY doNotTrack.label               "Websites laten weten dat ik niet gevolgd wil worden">
-<!ENTITY doNotTrack.accesskey           "d">
+<!ENTITY doNotTrack.accesskey           "v">
 
 <!ENTITY  history.label                 "Geschiedenis">
 
@@ -34,7 +34,6 @@
 
 <!ENTITY  showCookies.label             "Cookies tonen…">
 <!ENTITY  showCookies.accesskey         "t">
-
 
 <!ENTITY  historyHeader.pre.label          "&brandShortName; zal:">
 <!ENTITY  historyHeader.pre.accesskey      "z">
