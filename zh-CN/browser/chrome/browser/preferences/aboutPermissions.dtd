@@ -22,9 +22,9 @@
 <!ENTITY password.manage                 "管理密码…">
 
 <!ENTITY cookie.label                    "设置 Cookie">
-<!ENTITY cookie.remove                   "移除 Cookie">
+<!ENTITY cookie.clear                    "清除 Cookie">
 <!ENTITY cookie.manage                   "管理 Cookies…">
-<!ENTITY cookie.removeAll                "移除所有 Cookie">
+<!ENTITY cookie.clearAll                 "清除所有 Cookie">
 
 <!ENTITY geo.label                       "共享位置信息">
 

@@ -29,8 +29,6 @@
 <!ENTITY checkNow.accesskey              "N">
 <!ENTITY submitCrashes.label             "提交崩溃报告">
 <!ENTITY submitCrashes.accesskey         "S">
-<!ENTITY submitTelemetry.label           "提交性能数据">
-<!ENTITY submitTelemetry.accesskey       "P">
 
 <!ENTITY networkTab.label                "网络">
 
