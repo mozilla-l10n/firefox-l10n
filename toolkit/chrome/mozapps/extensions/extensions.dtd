@@ -199,3 +199,5 @@
 <!ENTITY eula.width                           "560px">
 <!ENTITY eula.height                          "400px">
 <!ENTITY eula.accept                          "Hyväksy ja asenna…">
+
+<!ENTITY settings.path.button.label           "Selaa…">
