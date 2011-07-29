@@ -41,10 +41,10 @@
 <!ENTITY netInterrupt.longDesc "&sharedLongDesc;">
 
 <!ENTITY netOffline.title "脱机模式">
-<!ENTITY netOffline.longDesc2 "<ul>
-  <li>请重试。 &brandShortName; 将会尝试打开一个链接并重新载入页面。</li>
+<!ENTITY netOffline.overrideLongDesc "<ul>
+  <li>请重试。&brandShortName; 将会尝试打开一个连接并重新载入页面。</li>
 </ul>
- ">
+">
 
 <!ENTITY contentEncodingError.title "内容编码错误">
 <!ENTITY contentEncodingError.longDesc " <ul>   <li>请联系网站所有者并告知该问题。</li> </ul> ">
@@ -113,9 +113,6 @@
 
 <!ENTITY cspFrameAncestorBlocked.title "由于内容安全策略而被阻止">
 <!ENTITY cspFrameAncestorBlocked.longDesc "<p>页面的内容安全策略导致 &brandShortName; 阻止以该方式载入此页。</p>">
-
-<!ENTITY corruptedContentError.title "内容损坏错误">
-<!ENTITY corruptedContentError.longDesc "<p>您要查看的该页面无法显示，因为检测到数据传输错误。</p><ul><li>请联系网站所有者通知他们这个问题。</li></ul>">
 
 <!ENTITY securityOverride.linkText "或者，您可以添加一个例外…">
 <!ENTITY securityOverride.getMeOutOfHereButton "立即离开！">
