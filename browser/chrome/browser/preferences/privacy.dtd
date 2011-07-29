@@ -61,8 +61,8 @@
 <!ENTITY dontrememberActions.clearHistory.label "تمسح تأريخك الحالي كله">
 <!ENTITY dontrememberActions.post.label ".">
 
-<!ENTITY privateBrowsingPermanent.label "نمط التصفح الخاص دائم">
-<!ENTITY privateBrowsingPermanent.accesskey "ئ">
+<!ENTITY  privateBrowsingPermanent2.label "استخدم نمط التصفح الخاص دائمًا">
+<!ENTITY  privateBrowsingPermanent2.accesskey "ئ">
 
 <!ENTITY rememberHistory.label "تذكّر تأريخ تصفحي">
 <!ENTITY rememberHistory.accesskey "ص">

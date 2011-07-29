@@ -30,6 +30,8 @@
 <!ENTITY checkNow.accesskey "ن">
 <!ENTITY submitCrashes.label "أرسِل بلاغًا بالانهيار">
 <!ENTITY submitCrashes.accesskey "غ">
+<!ENTITY submitTelemetry.label           "أرسِل بيانات الأداء">
+<!ENTITY submitTelemetry.accesskey       "ء">
 
 <!ENTITY networkTab.label "الشبكة">
 
