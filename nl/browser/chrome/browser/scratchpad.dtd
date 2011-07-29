@@ -24,18 +24,18 @@
 <!ENTITY openFileCmd.commandkey       "o">
 
 <!ENTITY saveFileCmd.label            "Opslaan">
-<!ENTITY saveFileCmd.accesskey        "s">
+<!ENTITY saveFileCmd.accesskey        "p">
 <!ENTITY saveFileCmd.commandkey       "s">
 
 <!ENTITY saveFileAsCmd.label          "Opslaan als…">
-<!ENTITY saveFileAsCmd.accesskey      "a">
+<!ENTITY saveFileAsCmd.accesskey      "l">
 
 <!ENTITY closeCmd.label               "Sluiten">
 <!ENTITY closeCmd.key                 "W">
 <!ENTITY closeCmd.accesskey           "S">
 
 <!ENTITY editMenu.label               "Bewerken">
-<!ENTITY editMenu.accesskey           "W">
+<!ENTITY editMenu.accesskey           "w">
 
 <!ENTITY undoCmd.label                "Ongedaan maken">
 <!ENTITY undoCmd.key                  "Z">
@@ -43,7 +43,7 @@
 
 <!ENTITY redoCmd.label                "Opnieuw uitvoeren">
 <!ENTITY redoCmd.key                  "Y">
-<!ENTITY redoCmd.accesskey            "U">
+<!ENTITY redoCmd.accesskey            "u">
 
 <!ENTITY cutCmd.label                 "Knippen">
 <!ENTITY cutCmd.key                   "X">
@@ -69,8 +69,8 @@
 <!ENTITY inspect.accesskey            "I">
 <!ENTITY inspect.key                  "i">
 
-<!ENTITY display.label                "Tonen">
-<!ENTITY display.accesskey            "T">
+<!ENTITY display.label                "Weergeven">
+<!ENTITY display.accesskey            "W">
 <!ENTITY display.key                  "l">
 
 <!-- LOCALIZATION NOTE (environmentMenu.label, accesskey): This menu item was
@@ -81,6 +81,7 @@
   -->
 <!ENTITY environmentMenu.label        "Omgeving">
 <!ENTITY environmentMenu.accesskey    "O">
+
 
 <!ENTITY contentContext.label         "Inhoud">
 <!ENTITY contentContext.accesskey     "I">
@@ -98,7 +99,7 @@
   -  to reset/clear the global object of the environment where the code executes.
   -->
 <!ENTITY resetContext.label           "Herinitialiseren">
-<!ENTITY resetContext.accesskey       "h">
+<!ENTITY resetContext.accesskey       "H">
 
 <!ENTITY executeMenu.label            "Uitvoeren">
 <!ENTITY executeMenu.accesskey        "U">
@@ -118,4 +119,4 @@
   -  that appears when the Scratchpad's text area is empty and unfocused.
   -  It should be a one-line JavaScript comment, i.e., preceded by '//'
   -->
-<!ENTITY textbox.placeholder1         "// Voer wat JavaScript in, selecteer het, rechterklik en selecteer Uitvoeren, Inspecteren of Tonen.">
+<!ENTITY textbox.placeholder1         "// Voer wat JavaScript in, selecteer het, klik met de rechtermuisknop en selecteer Uitvoeren, Inspecteren of Weergeven.">
