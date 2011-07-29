@@ -437,9 +437,9 @@
 <!-- Structure Toolbar Context Menu items -->
 <!ENTITY structSelect.label         "Vel">
 <!ENTITY structSelect.accesskey     "V">
-<!ENTITY structRemoveTag.label      "Fjern merkelapp">
+<!ENTITY structRemoveTag.label      "Fjern tagg">
 <!ENTITY structRemoveTag.accesskey  "F">
-<!ENTITY structChangeTag.label      "Endre merkelapp">
+<!ENTITY structChangeTag.label      "Endre tagg">
 <!ENTITY structChangeTag.accesskey  "E">
 
 <!-- TOC manipulation -->
