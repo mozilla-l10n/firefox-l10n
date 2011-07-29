@@ -28,12 +28,10 @@
 <!ENTITY cmd.findCurrent.label          "在当前集合中查找…">
 <!ENTITY cmd.findCurrent.accesskey      "i">
 
-<!ENTITY importBookmarksFromHTML.label     "从 HTML 导入书签…">
-<!ENTITY importBookmarksFromHTML.accesskey "I">
-<!ENTITY exportBookmarksToHTML.label       "导出书签到 HTML…">
-<!ENTITY exportBookmarksToHTML.accesskey   "E">
-<!ENTITY importOtherBrowser.label          "从另一个浏览器导入数据…">
-<!ENTITY importOtherBrowser.accesskey      "A">
+<!ENTITY cmd.exportHTML.label           "导出 HTML…">
+<!ENTITY cmd.exportHTML.accesskey       "E">
+<!ENTITY cmd.importHTML.label           "导入 HTML…">
+<!ENTITY cmd.importHTML.accesskey       "I">
 
 <!ENTITY cmd.backup.label               "备份…">
 <!ENTITY cmd.backup.accesskey           "B">

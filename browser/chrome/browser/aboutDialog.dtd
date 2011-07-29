@@ -60,3 +60,21 @@
      example: You are currently on the _Stable_ update channel. -->
 <!ENTITY channel.description.start  "您目前在 ">
 <!ENTITY channel.description.end    " 更新通道。 ">
+
+<!ENTITY channel.change             "更改">
+
+<!ENTITY channel.release.description       "享受经过世界各地许许多多人试验和测试过的最终发布版本。保证您的超级速度、易于定制以及最新的 Web 技术的在线体验。">
+<!ENTITY channel.beta.description          "体验更稳定的前沿特性。提供反馈来帮助完善和修改最终版本。">
+<!ENTITY channel.aurora.description        "在一个不稳定的环境中体验最新的改进，不建议胆小的人尝试它。在特性和性能上提供反馈，来帮助我们决定最终版本。">
+
+<!-- LOCALIZATION NOTE (channel.selector.start,channel.selector.end): channel.selector.start and
+     channel.selector.end create one sentence, with a channel selection menulist instered in between.
+     This is all in one line, so try to make the localized text short.
+     example: Switch to the [Stable] update channel. -->
+<!ENTITY channel.selector.start          "切换到">
+<!ENTITY channel.selector.end            "更新通道。">
+
+<!-- LOCALIZATION NOTE (channel.selector.applyButton): This button applies the user's choice to switch
+     to a new update channel and starts the application update process. -->
+<!ENTITY channel.selector.applyButton    "应用并更新">
+<!ENTITY channel.selector.cancelButton   "取消">

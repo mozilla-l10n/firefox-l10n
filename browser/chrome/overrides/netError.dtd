@@ -41,8 +41,13 @@
 <!ENTITY netInterrupt.longDesc "&sharedLongDesc;">
 
 <!ENTITY netOffline.title "脱机模式">
-<!ENTITY netOffline.longDesc2 "<ul>
-  <li>按“重试”切换到在线模式并重新加载此页面。</li>
+<!-- LOCALIZATION NOTE (netOffline.overrideLongDesc) - This string should
+     indicate that "Work Offline" is a menu item without being too specific,
+     since it could be in either the normal menu (Mac/Linux) or the Firefox button
+     menu (Windows).
+-->
+<!ENTITY netOffline.overrideLongDesc "<ul>
+  <li>请取消选中 &quot;脱机工作&quot; 菜单项，然后重试。</li>
 </ul>
 ">
 
@@ -117,10 +122,6 @@
 
 <!ENTITY cspFrameAncestorBlocked.title "由于内容安全策略而被阻止">
 <!ENTITY cspFrameAncestorBlocked.longDesc "<p>页面的内容安全策略导致 &brandShortName; 阻止以该方式载入此页。</p>">
-
-<!ENTITY corruptedContentError.title "内容损坏错误">
-<!ENTITY corruptedContentError.longDesc "<p>您要查看的该页面无法显示，因为检测到数据传输错误。</p><ul><li>请联系网站所有者通知他们这个问题。</li></ul>">
-
 
 <!ENTITY securityOverride.linkText "或者，您可以添加一个例外…">
 <!ENTITY securityOverride.getMeOutOfHereButton "离开这里！">
