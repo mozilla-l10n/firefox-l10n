@@ -1,7 +1,7 @@
 <!ENTITY tracking.label                 "Volgen">
 
 <!ENTITY doNotTrack.label               "Websites laten weten dat ik niet gevolgd wil worden">
-<!ENTITY doNotTrack.accesskey           "d">
+<!ENTITY doNotTrack.accesskey           "v">
 
 <!ENTITY  history.label                 "Geschiedenis">
 
@@ -35,7 +35,6 @@
 <!ENTITY  showCookies.label             "Cookies tonen…">
 <!ENTITY  showCookies.accesskey         "t">
 
-
 <!ENTITY  historyHeader.pre.label          "&brandShortName; zal:">
 <!ENTITY  historyHeader.pre.accesskey      "z">
 <!ENTITY  historyHeader.remember.label     "Geschiedenis onthouden">
@@ -62,7 +61,7 @@
 <!ENTITY  dontrememberActions.clearHistory.label "alle huidige geschiedenis wissen">
 <!ENTITY  dontrememberActions.post.label         ".">
 
-<!ENTITY  privateBrowsingPermanent2.label "Privénavigatiemodus altijd gebruiken">
+<!ENTITY  privateBrowsingPermanent2.label "Altijd privénavigatiemodus gebruiken">
 <!ENTITY  privateBrowsingPermanent2.accesskey "p">
 
 <!ENTITY  rememberHistory.label      "Mijn navigatiegeschiedenis onthouden">
