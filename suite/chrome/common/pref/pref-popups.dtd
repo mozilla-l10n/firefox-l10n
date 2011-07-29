@@ -20,6 +20,8 @@
 <!ENTITY selectSound.accesskey          "o">
 <!ENTITY playSoundButton.label          "播放">
 <!ENTITY playSoundButton.accesskey      "l">
+<!ENTITY selectSound.title              "阻挡弹出窗口声音">
+<!ENTITY selectSound.filter             "选择声音">
 
 <!ENTITY displayIcon.label              "在状态栏显示图标">
 <!ENTITY displayIcon.accesskey          "D">
