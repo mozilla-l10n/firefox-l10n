@@ -28,10 +28,12 @@
 <!ENTITY cmd.findCurrent.label "ابحث في المجموعة الحالية…">
 <!ENTITY cmd.findCurrent.accesskey "ث">
 
-<!ENTITY cmd.exportHTML.label "صدّر HTML…">
-<!ENTITY cmd.exportHTML.accesskey "ص">
-<!ENTITY cmd.importHTML.label "استورِد HTML…">
-<!ENTITY cmd.importHTML.accesskey "س">
+<!ENTITY importBookmarksFromHTML.label     "استورد العلامات من HTML…">
+<!ENTITY importBookmarksFromHTML.accesskey "و">
+<!ENTITY exportBookmarksToHTML.label       "صدّر العلامات إلى HTML…">
+<!ENTITY exportBookmarksToHTML.accesskey   "ر">
+<!ENTITY importOtherBrowser.label          "استورد البيانات من متصفح آخر…">
+<!ENTITY importOtherBrowser.accesskey      "خ">
 
 <!ENTITY cmd.backup.label "احفظ احتياطيًا…">
 <!ENTITY cmd.backup.accesskey "ط">

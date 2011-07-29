@@ -8,3 +8,4 @@
 <!ENTITY aboutHome.openAllTabs "افتح الكل في ألسنة">
 <!ENTITY aboutHome.noTabs "لا يوجد ألسنة من المرة السابقة">
 <!ENTITY aboutHome.noAddons "لا يوجد إضافات مزكّاة">
+<!ENTITY aboutHome.getLocale                    "غيّر اللغة">
