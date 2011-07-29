@@ -8,3 +8,4 @@
 <!ENTITY aboutHome.openAllTabs                  "Avaa kaikki välilehtiin">
 <!ENTITY aboutHome.noTabs                       "Ei välilehtiä viime kerralta">
 <!ENTITY aboutHome.noAddons                     "Ei suositeltuja lisäosia">
+<!ENTITY aboutHome.getLocale                    "Vaihda kieltä">
