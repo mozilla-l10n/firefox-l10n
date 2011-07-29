@@ -53,7 +53,7 @@
 <!ENTITY netInterrupt.longDesc "&sharedLongDesc;">
 
 <!ENTITY netOffline.title "Yhteydettömässä tilassa">
-<!ENTITY netOffline.overrideLongDesc "
+<!ENTITY netOffline.longDesc2 "
 <ul>
   <li>Yritä uudelleen. &brandShortName; yrittää avata yhteyden ja ladata sivun uudelleen.</li>
 </ul>
@@ -165,6 +165,9 @@
 
 <!ENTITY cspFrameAncestorBlocked.title "Sisällön turvallisuuskäytännön estämä">
 <!ENTITY cspFrameAncestorBlocked.longDesc "<p>&brandShortName; esti sivua latautumasta tällä tavalla, koska sivulle asetettu sisällön turvallisuuskäytäntö estää sen.</p>">
+
+<!ENTITY corruptedContentError.title "Sisältö vioittunut virhe">
+<!ENTITY corruptedContentError.longDesc "<p>Avattavaa sivua ei voida näyttää, koska tiedonsiirrossa tapahtui virhe.</p><ul><li>Ilmoitathan ongelmasta sivuston omistajalle.</li></ul>">
 
 <!ENTITY securityOverride.linkText "Tai lisää poikkeussääntö…">
 <!ENTITY securityOverride.getMeOutOfHereButton "Siirry pois sivulta">

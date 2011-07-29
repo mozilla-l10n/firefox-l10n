@@ -106,6 +106,7 @@
 <!ENTITY pageactions.saveas.pdf      "Tallenna PDF-tiedostona">
 <!ENTITY pageactions.share.page      "Jaa sivu">
 <!ENTITY pageactions.password.forget "Unohda salasana">
+<!ENTITY pageactions.quit            "Lopeta">
 <!ENTITY pageactions.reset           "Unohda sivun asetukset">
 <!ENTITY pageactions.findInPage      "Etsi sivulta">
 <!ENTITY pageactions.search.addNew   "Lisää hakukone">
