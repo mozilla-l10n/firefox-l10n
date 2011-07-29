@@ -1,17 +1,18 @@
-<!ENTITY  splash_screen_label "po ngarkohet">
-<!ENTITY  splash_screen_installing "po instalohen libraritë\u2026">
-<!ENTITY  incompatable_cpu_error "Kjo pajisje nuk plotëson minimumin e sistemit të domosdoshëm për &brandShortName;.">
-<!ENTITY  no_space_to_start_error "Nuk ka vend të mjaftueshëm për nisjen e &brandShortName;.">
-<!ENTITY  error_loading_file "Ndodhi një gabim gjatë kur po provohej të ngarkoheshin kartela të domosdoshme për xhirimin e &brandShortName;">
 
-<!ENTITY  crash_reporter_title "Njoftues Vithisjesh për &brandShortName;">
-<!ENTITY  crash_message "&brandShortName; u vithis. Skedat tuaja do të duhej t\'i shihnit te faqja e fillimit të &brandShortName;, kur ta rinisni.">
+<!ENTITY  splash_screen_loading "Po ngarkohet">
+<!ENTITY  splash_screen_installing_libs "Po instalohen libraritë\u2026">
+<!ENTITY  splash_firstrun "Po rregullohet &brandShortName;-u\u2026">
+
+<!ENTITY  no_space_to_start_error "Nuk ka vend të mjaftueshëm për nisjen e &brandShortName;-ut.">
+<!ENTITY  error_loading_file "Ndodhi një gabim kur po provohej të ngarkoheshin kartela të domosdoshme për xhirimin e &brandShortName;-ut">
+
+<!ENTITY  crash_reporter_title "Njoftues Vithisjesh për &brandShortName;-un">
+<!ENTITY  crash_message "&brandShortName;-u u vithis. Skedat tuaja do të duhej t&apos;i shihnit te faqja e fillimit të &brandShortName;-ut, kur ta rinisni.">
 <!ENTITY  crash_help_message "Ju lutem, na ndihmoni ta ndreqim këtë problem!">
 <!ENTITY  crash_send_report_message "Dërgojini Mozilla-s një njoftim vithisjeje">
-<!ENTITY  crash_include_url "Përfshini adresën e faqes">
+<!ENTITY  crash_include_url "Përfshije adresën e faqes">
 <!ENTITY  crash_close_label "Mbylle">
 <!ENTITY  crash_restart_label "Rinise &brandShortName;-un">
 <!ENTITY  sending_crash_report "Po dërgohet njoftimi i vithisjes\u2026">
 <!ENTITY  exit_label "Dil">
-<!ENTITY  incompatable_device "&brandShortName;-u nuk e mbulon këtë pajisje dhe mund të hasni probleme.">
 <!ENTITY  continue_label "Vazhdo">
