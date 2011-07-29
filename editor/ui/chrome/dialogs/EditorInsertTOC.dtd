@@ -37,7 +37,7 @@
 
 <!ENTITY Window.title        "Innhaldsliste">
 <!ENTITY buildToc.label      "Bygg opp innhaldsliste frå:">
-<!ENTITY tag.label           "Merkelapp:">
+<!ENTITY tag.label           "Taggar:">
 <!ENTITY class.label         "Klasse:">
 <!ENTITY header1.label       "Nivå 1">
 <!ENTITY header2.label       "Nivå 2">
