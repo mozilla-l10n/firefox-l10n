@@ -50,7 +50,6 @@
 <!ENTITY addonShowPage.label       "Gå til sida">
 
 <!ENTITY downloadsHeader.label     "Nedlastingar">
-
 <!ENTITY downloadShowPage.label    "Gå til sida">
 <!ENTITY downloadShow2.label       "Finn">
 <!ENTITY downloadOpen2.label       "Opne">
@@ -95,6 +94,7 @@
 <!ENTITY contextSaveImage.label       "Lagre bilete">
 <!ENTITY contextShareLink.label       "Del lenkje">
 <!ENTITY contextShareImage.label      "Del bilete">
+<!ENTITY contextBookmarkLink.label    "Bokmerk lenkje">
 <!ENTITY contextSaveVideo.label       "Lagre video">
 <!ENTITY contextShareVideo.label      "Del video">
 <!ENTITY contextPlayMedia.label       "Spel av">
