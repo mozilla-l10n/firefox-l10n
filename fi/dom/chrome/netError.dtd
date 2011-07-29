@@ -25,8 +25,7 @@
 <!ENTITY netInterrupt.longDesc "<p>Selain muodosti yhteyden onnistuneesti, mutta yhteys katkesi siirrettäessä tietoa. Yritä myöhemmin uudestaan.</p><ul><li>Jos muutkaan sivustot eivät toimi, tarkista tietokoneen verkkoasetukset.</li><li>Jos ongelmat jatkuvat, ota yhteyttä verkon ylläpitoon tai verkkoyhteyden palveluntarjoajaan.</li></ul>">
 
 <!ENTITY netOffline.title  "Yhteydettömässä tilassa">
-<!ENTITY netOffline.longDesc "<p>Selain on verkkoyhteydettömässä tilassa eikä voi muodostaa yhteyttä pyydettyyn kohteeseen.</p><ul><li>Onko tietokoneen verkkoyhteys toiminnassa?</li><li>Aseta selain yhteystilaan ja yritä uudelleen.</li></ul>">
-<!ENTITY netOffline.overrideLongDesc "<p>Selain on verkkoyhteydettömässä tilassa eikä voi muodostaa yhteyttä pyydettyyn kohteeseen.</p><ul><li>Onko tietokoneen verkkoyhteys toiminnassa?</li><li>Aseta selain yhteystilaan ja yritä uudelleen.</li></ul>">
+<!ENTITY netOffline.longDesc2 "<p>Selain on verkkoyhteydettömässä tilassa eikä voi muodostaa yhteyttä pyydettyyn kohteeseen.</p><ul><li>Onko tietokoneen verkkoyhteys toiminnassa?</li><li>Aseta selain yhteystilaan ja yritä uudelleen.</li></ul>">
 
 <!ENTITY contentEncodingError.title "Sisällön koodausvirhe">
 <!ENTITY contentEncodingError.longDesc "<p>Avattavaa sivua ei voida näyttää, koska se on pakattu virheellisesti tai muodossa, joka ei ole tuettu.</p><ul><li>Ilmoitathan sivuston omistajalle tästä ongelmasta.</li></ul>">
@@ -83,6 +82,9 @@
 
 <!ENTITY cspFrameAncestorBlocked.title "Sisällön tietosuojakäytännön estämä">
 <!ENTITY cspFrameAncestorBlocked.longDesc "<p>Selain esti tämän sivun latautumisen tässä yhteydessä, koska sivun sisällön tietosuojakäytäntö kieltää sen.</p>">
+
+<!ENTITY corruptedContentError.title "Sisältö vioittunut virhe">
+<!ENTITY corruptedContentError.longDesc "<p>Avattavaa sivua ei voida näyttää, koska tiedonsiirrossa tapahtui virhe.</p><ul><li>Ilmoitathan ongelmasta sivuston omistajalle.</li></ul>">
 
 <!ENTITY remoteXUL.title "XUL-koodia etänä">
 <!ENTITY remoteXUL.longDesc "<p><ul><li>Ilmoitathan ongelmasta sivuston omistajalle.</li></ul></p>">
