@@ -28,7 +28,11 @@
 <!ENTITY netInterrupt.longDesc "&sharedLongDesc;">
 
 <!ENTITY netOffline.title "وضع بدون اتصال">
-<!ENTITY netOffline.longDesc "<ul> <li>انقل &brandShortName; إلى وضع الاتصال، ثم حاول مجددًا.</li> </ul>">
+<!ENTITY netOffline.longDesc2 "
+<ul>
+  <li>اضغط على &quot;حاول مجددًا&quot; للتبديل إلى وضع الاتصال وإعادة تحميل الصفحة.</li>
+</ul>
+">
 
 <!ENTITY contentEncodingError.title "خطأ في ترميز المحتوى">
 <!ENTITY contentEncodingError.longDesc "<ul> <li>من فضلك اتصل بمالكي الموقع لإعلامهم بهذه المشكلة.</li> </ul>">
@@ -73,6 +77,9 @@
 
 <!ENTITY cspFrameAncestorBlocked.title "منعته سياسة أمن المحتوى">
 <!ENTITY cspFrameAncestorBlocked.longDesc "<p>منع &brandShortName; هذه الصفحة من التحميل بهذه الطريقة لأن الصفحة تحتوي سياسة أمن محتوى تمنع ذلك.</p>">
+
+<!ENTITY corruptedContentError.title "خطأ محتوى فاسد">
+<!ENTITY corruptedContentError.longDesc "<p>تعذر عرض المحتوى الذي تحاول مشاهدته بسبب خطأ في نقل البيانات.</p><ul><li>الرجاء تبليغ مالك الموقع بهذه المشكلة.</li></ul>">
 
 <!ENTITY securityOverride.linkText "أو يمكنك إضافة استثناء…">
 <!ENTITY securityOverride.getMeOutOfHereButton "أخرجني من هنا!">
