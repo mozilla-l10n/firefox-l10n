@@ -20,7 +20,7 @@
 <!ENTITY pluginWizard.finalPage.moreInfo.label               "Lees meer over plug-ins of zoek handmatig naar ontbrekende plug-ins.">
 <!ENTITY pluginWizard.finalPage.restart.label                "&brandShortName; moet opnieuw worden opgestart om de plug-in(s) te laten werken.">
 
-<!ENTITY missingPlugin                                       "Een plug-in is nodig om deze inhoud te tonen.">
+<!ENTITY missingPlugin                                       "Er is een plug-in nodig om deze inhoud weer te geven.">
 <!ENTITY disabledPlugin                                      "Deze plug-in is uitgeschakeld.">
 <!ENTITY blockedPlugin.label                                 "Deze plug-in is geblokkeerd voor uw bescherming.">
 

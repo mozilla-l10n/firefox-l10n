@@ -15,10 +15,10 @@
 <!ENTITY dnsNotFound.title "Server niet gevonden">
 <!ENTITY dnsNotFound.longDesc "
 <ul>
-  <li>Controleer het adres op typefouten zoals
+  <li>Controleer het adres op typefouten, zoals
     <strong>ww</strong>.voorbeeld.com in plaats van
-    <strong>www</strong>.voorbeeld.com</li>
-  <li>Controleer uw netwerkverbinding indien u geen enkele pagina kunt
+    <strong>www</strong>.voorbeeld.com</li>.
+  <li>Controleer uw netwerkverbinding als u geen enkele pagina kunt
     laden.</li>
   <li>Verzeker u ervan dat &brandShortName; toegang heeft tot het web als uw 
     computer of netwerk is beveiligd door een firewall of proxyserver.</li>
@@ -55,7 +55,7 @@
 <!ENTITY netOffline.title "Offlinemodus">
 <!ENTITY netOffline.longDesc2 "
 <ul>
-  <li>Druk op &quot;Opnieuw proberen&quot; om naar onlinemodus overte schakelen en vernieuw de pagina.</li>
+  <li>Druk op “Opnieuw proberen” om naar onlinemodus over te schakelen en vernieuw de pagina.</li>
 </ul>
 ">
 
@@ -144,7 +144,7 @@
 <ul>
   <li>Misschien is de website tijdelijk niet beschikbaar of overbelast. Probeer het 
     over enkele ogenblikken opnieuw.</li>
-  <li>Controleer uw netwerkverbinding indien u geen enkele pagina kunt laden.</li>
+  <li>Controleer uw netwerkverbinding als u geen enkele pagina kunt laden.</li>
   <li>Verzeker u ervan dat &brandShortName; toegang heeft tot het web als uw 
     computer of netwerk is beveiligd door een firewall of proxyserver.</li>
 </ul>
@@ -152,21 +152,21 @@
 
 <!ENTITY malwareBlocked.title "Vermoedelijke aanvalsite!">
 <!ENTITY malwareBlocked.longDesc "
-<p>Aanvalsites proberen programma’s te installeren die privéinformatie stelen, uw computer gebruiken om anderen aan te vallen, of uw systeem beschadigen.</p>
+<p>Aanvalsites proberen programma’s te installeren die privégegevens stelen, uw computer gebruiken om anderen aan te vallen, of uw systeem beschadigen.</p>
 <p>Website-eigenaars die menen dat hun website ten onrechte is gerapporteerd als een aanvalsite kunnen om een <a href='http://www.stopbadware.org/home/reviewinfo' >herbeoordeling vragen</a>.</p>
 ">
 
 <!ENTITY phishingBlocked.title "Vermoedelijke webvervalsing!">
 <!ENTITY phishingBlocked.longDesc "
-<p>Het invoeren van persoonlijke informatie op deze pagina kan leiden tot diefstal van identiteitsgegevens of andere fraude.</p>
+<p>Het invoeren van persoonlijke gegevens op deze pagina kan leiden tot diefstal van identiteitsgegevens of andere fraude.</p>
 <p>Dit soort webvervalsingen wordt gebruikt in e-mailscams die bekend staan als phishingaanvallen, waarbij frauduleuze webpagina’s en e-mails worden gebruikt om bronnen die u misschien vertrouwt na te bootsen.</p>
 ">
 
 <!ENTITY cspFrameAncestorBlocked.title "Geblokkeerd door inhoudbeveiligingsbeleid">
-<!ENTITY cspFrameAncestorBlocked.longDesc "<p>De browser voorkomt dat deze pagina op deze manier wordt geladen, omdat de pagina een inhoudbeveiligingsbeleid heeft dat dit niet toestaat.</p>">
+<!ENTITY cspFrameAncestorBlocked.longDesc "<p>&brandShortName; heeft voorkomen dat de pagina op deze manier werd geladen, omdat de pagina een inhoudbeveiligingsbeleid heeft dat dit niet toestaat.</p>">
 
-<!ENTITY corruptedContentError.title "Beschadigde inhoudfout">
-<!ENTITY corruptedContentError.longDesc "<p>De pagina die u wilt bekijken kan niet worden weergegeven, omdat er een fout in de dataverzending is gedetecteerd.</p><ul><li>Neem contact op met de website-eigenaars om ze te informeren over dit probleem.</li></ul>">
+<!ENTITY corruptedContentError.title "Beschadigde-inhoudsfout">
+<!ENTITY corruptedContentError.longDesc "<p>De pagina die u wilt bekijken kan niet worden weergegeven, omdat er een fout in de gegevensoverdracht is gedetecteerd.</p><ul><li>Neem contact op met de website-eigenaars om ze te informeren over dit probleem.</li></ul>">
 
 
 <!ENTITY securityOverride.linkText "Of u kunt een uitzondering toevoegen…">
