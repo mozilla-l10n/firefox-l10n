@@ -2,7 +2,6 @@
 <!ENTITY  splash_screen_installing "bibliotheken installeren\u2026">
 <!ENTITY  splash_firstrun "&brandShortName; instellen\u2026">
 
-<!ENTITY  incompatable_cpu_error "Dit apparaat voldoet niet aan de minimale systeemvereisten voor &brandShortName;.">
 <!ENTITY  no_space_to_start_error "Er is niet genoeg ruimte beschikbaar om &brandShortName; te starten.">
 <!ENTITY  error_loading_file "Er is een fout opgetreden bij het laden van de benodigde bestanden voor &brandShortName;.">
 
@@ -15,5 +14,4 @@
 <!ENTITY  crash_restart_label "&brandShortName; herstarten">
 <!ENTITY  sending_crash_report "Crashrapport verzenden\u2026">
 <!ENTITY  exit_label "Afsluiten">
-<!ENTITY  incompatable_device "&brandShortName; ondersteunt dit apparaat niet en u kunt problemen ondervinden.">
 <!ENTITY  continue_label "Doorgaan">
