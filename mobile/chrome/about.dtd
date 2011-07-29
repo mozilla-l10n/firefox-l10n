@@ -1,7 +1,7 @@
 <!ENTITY aboutPage.title                        "关于 &brandShortName;">
 <!ENTITY aboutPage.faq.label                    "常见问题">
 <!ENTITY aboutPage.support.label                "支持">
-<!ENTITY aboutPage.privacyPolicy.label          "隐私条款">
+<!ENTITY aboutPage.privacyPolicy.label          "隐私权政策">
 <!ENTITY aboutPage.rights.label                 "了解您的权利">
 <!ENTITY aboutPage.relNotes.label               "发行说明">
 <!ENTITY aboutPage.credits.label                "贡献者">

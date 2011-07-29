@@ -11,6 +11,10 @@
 # title for the folder that will contains the default bookmarks
 #define bookmarks_title 移动电话
 
+# LOCALIZATION NOTE (bookmarks_welcome):
+# link title for about:firstrun
+#define bookmarks_welcome Firefox：欢迎
+
 # LOCALIZATION NOTE (bookmarks_aboutBrowser):
 # link title for about:fennec
 #define bookmarks_aboutBrowser Firefox ：关于您的浏览器
