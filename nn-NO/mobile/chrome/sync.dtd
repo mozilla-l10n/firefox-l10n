@@ -1,0 +1,22 @@
+<!ENTITY sync.title                 "Sync">
+<!ENTITY sync.notconnected          "Ikkje tilkopla">
+<!ENTITY sync.connect               "Kople til">
+<!ENTITY sync.connected             "Tilkopla">
+<!ENTITY sync.details               "Detaljar">
+<!ENTITY sync.synchronize           "Slå på Sync">
+<!ENTITY sync.deviceName            "Denne eininga">
+<!ENTITY sync.disconnect            "Kople frå">
+<!ENTITY sync.syncNow               "Sync no">
+
+<!ENTITY sync.setup.title           "Kople til Sync">
+<!ENTITY sync.setup.jpake           "Frå ei datamaskin med Firefox Sync, gå til Sync-innstillingar og vel &#x0022;Legg til ei eining&#x0022;">
+<!ENTITY sync.fallback              "Eg er ikkje nær datamaskina mi …">
+<!ENTITY sync.setup.manual          "Skriv inn Sync-kontodetaljar">
+<!ENTITY sync.account               "Kontonamn">
+<!ENTITY sync.password              "Passord">
+<!ENTITY sync.syncKey               "Sync-nøkkel">
+<!ENTITY sync.customServer          "Bruk eigendefinert tenar">
+<!ENTITY sync.serverURL             "Tenar-URL">
+<!ENTITY sync.setup.connect         "Kople til">
+<!ENTITY sync.setup.cancel          "Avbryt">
+<!ENTITY sync.setup.tutorial        "Vis meg korleis">

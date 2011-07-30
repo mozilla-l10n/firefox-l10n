@@ -38,8 +38,8 @@
 
 <!-- about:config warning page -->
 <!-- LOCALIZATION NOTE: aboutWarningTitle.label should be attention grabbing and playful -->
-<!ENTITY aboutWarningTitle.label "Vis varsemd. Du kan bryte garantien!">
-<!ENTITY aboutWarningText.label "about:config gjev deg tilgang til avanserte innstillingar. Endringar av desse innstillingane kan lage uønskte biverknader, spesielt for tryggleik og stabilitet. Du bør berre halde fram om du er sikker på at du veit kva du gjer, eller om du følgjer råd som du stolar på.">
+<!ENTITY aboutWarningTitle.label "Hald fram med varsemd. Du kan bryte garantien!">
+<!ENTITY aboutWarningText.label "Dersom du endrar disse avanserte innstillingane kan det verke negativt på tryggleik, stabilitet og yting i dette programmet. Hald fram bare dersom du veit kva du gjer.">
 <!ENTITY aboutWarningButton.label "Ja, eg lovar å vere forsiktig!">
 <!ENTITY aboutWarningCheckbox.label "Vis denne åtvaringa neste gong òg">
 
@@ -48,7 +48,7 @@
 <!ENTITY focusFilter.key "f">
 
 <!-- Columns -->
-<!ENTITY prefColumn.label "Namn på innstiling">
+<!ENTITY prefColumn.label "Innstiling">
 <!ENTITY lockColumn.label "Status">
 <!ENTITY typeColumn.label "Type">
 <!ENTITY valueColumn.label "Verdi">
@@ -75,7 +75,7 @@
 <!ENTITY new.accesskey "N">
 <!ENTITY string.label "Streng">
 <!ENTITY string.accesskey "S">
-<!ENTITY integer.label "Tal">
-<!ENTITY integer.accesskey "a">
+<!ENTITY integer.label "Heiltal">
+<!ENTITY integer.accesskey "H">
 <!ENTITY boolean.label "Boolsk">
 <!ENTITY boolean.accesskey "B">
