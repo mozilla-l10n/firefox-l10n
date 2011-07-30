@@ -10,121 +10,29 @@
 <!-- LOCALIZATION NOTE (mainWindow.titlemodifiermenuseparator): DONT_TRANSLATE -->
 <!ENTITY mainWindow.titlemodifiermenuseparator " - ">
 
-<!ENTITY tabCmd.label "Browser-Tab">
-<!ENTITY tabCmd.accesskey "T">
-<!ENTITY tabCmd.commandkey "t">
-<!ENTITY openCmd.label "Web-Adresse öffnen…">
-<!ENTITY openCmd.accesskey "f">
-<!ENTITY openCmd.commandkey "l">
-<!ENTITY openFileCmd.label "Datei öffnen…">
-<!ENTITY openFileCmd.accesskey "ö">
-<!ENTITY openFileCmd.commandkey "o">
-<!ENTITY recentTabs.label "Zuletzt geschlossene Tabs">
-<!ENTITY recentTabs.accesskey "u">
-<!ENTITY recentTabs.commandkey "t">
-<!ENTITY recentWindows.label "Zuletzt geschlossene Fenster">
-<!ENTITY recentWindows.accesskey "z">
-<!ENTITY recentWindows.commandkey "y">
 <!ENTITY editPageCmd.label "Seite bearbeiten">
 <!ENTITY editPageCmd.accesskey "r">
 <!ENTITY editPageCmd.commandkey "e">
 
-<!ENTITY uploadFile.label "Datei hochladen…">
-<!ENTITY uploadFile.accesskey "h">
-
-<!ENTITY printSetupCmd.label "Seite einrichten…">
-<!ENTITY printSetupCmd.accesskey "t">
 <!ENTITY printPreviewCmd.label "Druckvorschau">
 <!ENTITY printPreviewCmd.accesskey "v">
 <!ENTITY printCmd.label "Drucken…">
 <!ENTITY printCmd.accesskey "D">
 <!ENTITY printCmd.commandkey "p">
 
-<!ENTITY toolbarsCmd.label "Anzeigen/Verstecken">
-<!ENTITY toolbarsCmd.accesskey "g">
 <!ENTITY navbarCmd.label "Navigations-Symbolleiste">
 <!ENTITY navbarCmd.accesskey "N">
 <!ENTITY personalbarCmd.label "Persönliche Symbolleiste">
 <!ENTITY personalbarCmd.accesskey "P">
-<!ENTITY tabbarCmd.label "Tab-Leiste">
-<!ENTITY tabbarCmd.accesskey "T">
-<!ENTITY taskbarCmd.label "Statusleiste">
-<!ENTITY taskbarCmd.accesskey "S">
-<!ENTITY componentbarCmd.label "Komponentenleiste">
-<!ENTITY componentbarCmd.accesskey "K">
 
-<!ENTITY useStyleSheetMenu.label "Style verwenden">
-<!ENTITY useStyleSheetMenu.accesskey "y">
-<!ENTITY useStyleSheetNone.label "Keinen">
-<!ENTITY useStyleSheetNone.accesskey "K">
-<!ENTITY useStyleSheetPersistentOnly.label "Standard-Style">
-<!ENTITY useStyleSheetPersistentOnly.accesskey "S">
-<!ENTITY pageSourceCmd.label "Seitenquelltext">
-<!ENTITY pageSourceCmd.accesskey "u">
-<!ENTITY pageSourceCmd.commandkey "u">
-<!ENTITY pageInfoCmd.label "Seiteninformationen">
-<!ENTITY pageInfoCmd.accesskey "i">
-<!ENTITY pageInfoCmd.commandkey "i">
-<!ENTITY fullScreenCmd.label "Vollbild">
-<!ENTITY fullScreenCmd.accesskey "V">
-<!ENTITY translateMenu.label "Seite übersetzen">
-<!ENTITY translateMenu.accesskey "b">
-
-<!ENTITY closeOtherTabs.label "Andere Tabs schließen">
-<!ENTITY closeOtherTabs.accesskey "T">
 <!ENTITY closeWindow.label "Fenster schließen">
 <!ENTITY closeWindow.accesskey "F">
 
 <!ENTITY minimizeButton.tooltip       "Minimieren">
 <!ENTITY restoreButton.tooltip        "Wiederherstellen">
 
-<!ENTITY applyTheme.label	"Theme anwenden"> 
-<!ENTITY applyTheme.accesskey	"a"> 
-<!ENTITY getNewThemesCmd.label "Neue Themes herunterladen">
-<!ENTITY getNewThemesCmd.accesskey "N">
-<!ENTITY getPersonasCmd.label "Personas holen">
-<!ENTITY getPersonasCmd.accesskey "P">
-<!ENTITY findOnCmd.label "Seite durchsuchen…">
-<!ENTITY findOnCmd.accesskey "S">
-<!ENTITY findOnCmd.commandkey "f">
-<!ENTITY findAgainCmd.label "Weitersuchen">
-<!ENTITY findAgainCmd.accesskey "t">
-<!ENTITY findAgainCmd.commandkey "g">
-<!ENTITY findPrevCmd.label "Vorheriges suchen">
-<!ENTITY findPrevCmd.accesskey "V">
-<!ENTITY findPrevCmd.commandkey "g">
-<!ENTITY findAgainCmd.commandkey2 "VK_F3">
-<!ENTITY findPrevCmd.commandkey2 "VK_F3">
-
-<!ENTITY searchInternetCmd.label "Das Web durchsuchen">
-<!ENTITY searchInternetCmd.accesskey "s">
-<!ENTITY searchInternet.commandKey "s">
-
-<!ENTITY clearPrivateDataCmd.label "Private Daten löschen…">
-<!ENTITY clearPrivateDataCmd.accesskey "v">
-
-<!ENTITY goMenu.label "Gehe">
-<!ENTITY goMenu.accesskey "G">
-<!ENTITY goHomeCmd.label "Startseite">
-<!ENTITY goHomeCmd.accesskey "a">
-<!ENTITY historyRestoreLastSession.label "Vorherige Sitzung wiederherstellen">
-<!ENTITY historyRestoreLastSession.accesskey "V">
-
-<!ENTITY bookmarksMenu.label "Lesezeichen">
-<!ENTITY bookmarksMenu.accesskey "L">
-<!ENTITY addCurPageCmd.label "Lesezeichen für diese Seite hinzufügen">
-<!ENTITY addCurPageCmd.accesskey "L">
-<!ENTITY addCurPageAsCmd.label "Lesezeichen ablegen…">
-<!ENTITY addCurPageAsCmd.accesskey "h">
-<!ENTITY addCurPageAsCmd.commandkey "d">
-<!ENTITY addCurTabsAsCmd.label "Lesezeichen für diese Gruppe von Tabs ablegen…">
-<!ENTITY addCurTabsAsCmd.accesskey "G">
-<!ENTITY manBookmarksCmd.label "Lesezeichen bearbeiten…">
-<!ENTITY manBookmarksCmd.accesskey "b">
-<!ENTITY manBookmarksCmd.commandkey "b">
 <!ENTITY feedsMenu.label "Diese Seite abonnieren">
 <!ENTITY feedsMenu.accesskey "D">
-<!ENTITY emptyItem.label "(Leer)">
 
 <!ENTITY menuBar.tooltip                  "Menüleiste">
 <!ENTITY personalToolbar.tooltip          "Persönliche Symbolleiste">
@@ -164,14 +72,4 @@
 <!-- Statusbar -->
 <!ENTITY  statusText.label            "Fertig">
 
-<!ENTITY historyCmd.label           "Chronik">  
-<!ENTITY historyCmd.accesskey       "C">
-<!ENTITY history.commandKey         "h">
-
 <!ENTITY popupIcon.tooltiptext      "Pop-ups von dieser Website nicht mehr blockieren">
-
-<!ENTITY bidiSwitchPageDirectionItem.label        "Seitenrichtung umschalten">
-<!ENTITY bidiSwitchPageDirectionItem.accesskey    "u">
-
-<!-- LOCALIZATION NOTE (syncTabsMenu.label): This appears in the Go menu -->
-<!ENTITY syncTabsMenu.label         "Tabs von anderen Computern">

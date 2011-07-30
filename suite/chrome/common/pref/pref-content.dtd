@@ -17,3 +17,5 @@
 <!ENTITY textZoomOnly.accesskey                 "T">
 <!ENTITY blockAutoRefresh.label                 "Warnen, wenn Websites versuchen, weiterzuleiten oder die Seite neu zu laden">
 <!ENTITY blockAutoRefresh.accesskey             "n">
+<!ENTITY siteSpecific.label                     "Zoom-Tiefe auf Website-Ebene merken">
+<!ENTITY siteSpecific.accesskey                 "Z">
