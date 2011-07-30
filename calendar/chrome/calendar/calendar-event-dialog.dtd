@@ -43,9 +43,9 @@
    -
    - ***** END LICENSE BLOCK ***** -->
 
-<!ENTITY event.title.label                  "Endre hending" >
+<!ENTITY event.title.label                  "Rediger hending" >
 
-<!ENTITY event.dialog.keepDurationButton.tooltip   "Behald tidslengd når du endrar datoen">
+<!ENTITY event.dialog.keepDurationButton.tooltip   "Behald tidslengd når du endrar sluttdatoen">
 <!ENTITY event.dialog.keepDurationButton.accesskey "B">
 
 <!ENTITY newevent.from.label                "Frå" >
@@ -110,8 +110,8 @@
 <!ENTITY  event.menu.item.print.label                     "Skriv ut">
 <!ENTITY  event.menu.item.print.accesskey                 "k">
 
-<!ENTITY  event.menu.edit.label                           "Endre">
-<!ENTITY  event.menu.edit.accesskey                       "E">
+<!ENTITY  event.menu.edit.label                           "Rediger">
+<!ENTITY  event.menu.edit.accesskey                       "R">
 <!ENTITY  event.menu.edit.undo.label                      "Angre">
 <!ENTITY  event.menu.edit.undo.accesskey                  "A">
 <!ENTITY  event.menu.edit.redo.label                      "Gjer om">
@@ -248,7 +248,7 @@
 <!ENTITY event.reminder.multiple.label                    "Fleire påminningar …" >
 
 <!-- Recurrence dialog -->
-<!ENTITY recurrence.title.label                         "Endre gjentaking">
+<!ENTITY recurrence.title.label                         "Rediger oppattaking">
 
 <!ENTITY event.repeat.does.not.repeat.label             "Vert ikkje gjenteke">
 <!ENTITY event.repeat.daily.label                       "Kvar dag">

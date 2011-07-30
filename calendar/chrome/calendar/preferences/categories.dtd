@@ -43,9 +43,9 @@
 <!ENTITY pref.categories.add.title "Legg til kategori">
 <!ENTITY pref.categories.addButton.label "Legg til …">
 <!ENTITY pref.categories.addButton.accesskey "L">
-<!ENTITY pref.categories.edit.title "Endre kategori">
-<!ENTITY pref.categories.editButton.label "Endre …">
-<!ENTITY pref.categories.editButton.accesskey "E">
+<!ENTITY pref.categories.edit.title "Rediger kategori">
+<!ENTITY pref.categories.editButton.label "Rediger …">
+<!ENTITY pref.categories.editButton.accesskey "R">
 <!ENTITY pref.categories.removeButton.label "Slett">
 <!ENTITY pref.categories.removeButton.accesskey "S">
 <!ENTITY pref.categories.name.label "Namn">

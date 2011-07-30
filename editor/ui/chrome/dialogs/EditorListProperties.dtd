@@ -49,5 +49,5 @@
 <!ENTITY definitionList.value "Definisjonsliste">
 <!ENTITY changeEntireListRadio.label "Endra heile lista">
 <!ENTITY changeEntireListRadio.accessKey "h">
-<!ENTITY changeSelectedRadio.label "Berre endre merkte element">
+<!ENTITY changeSelectedRadio.label "Endre berre merkte element">
 <!ENTITY changeSelectedRadio.accessKey "E">

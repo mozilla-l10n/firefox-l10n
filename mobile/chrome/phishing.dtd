@@ -1,0 +1,28 @@
+<!ENTITY safeb.palm.warning.title "Mistenkt nettsvindel">
+
+<!ENTITY safeb.palm.message.p1 "Denne siden er rapportert som ein nettsvindel som er bygd for å lure brukarar til å dele personleg eller økonomisk informasjon. Dersom du skriv inn informasjon på denne nettstaden kan det føre til identitetstjuveri eller annan svindel. &#160;
+">
+<!ENTITY safeb.palm.message.p1.linkText "Les meir &#187;">
+<!ENTITY safeb.palm.p1.linkStatusText "Les meir &#133;">
+
+<!ENTITY safeb.palm.message.p2.start "Desse typene nettsvindel vert brukt i svindelforsøk som phishing-åtak, der falske nettsider og e-postar vert brukt for å imitere kjelder som du stolar på. Du kan finne ut meir om   ">
+<!ENTITY safeb.palm.message.p2.linkText "korleis &brandShortName; vernar deg">
+<!ENTITY safeb.palm.message.p2.end " frå phishing-åtak.">
+
+<!ENTITY safeb.palm.accept.label "Få meg vekk herifrå!">
+<!ENTITY safeb.palm.accept.statustext "Gå til startsida">
+<!ENTITY safeb.palm.decline.label "Ignorer denne åtvaringa">
+<!ENTITY safeb.palm.decline.statustext "Lat att åtvaring" >
+<!ENTITY safeb.palm.notforgery.label2 "Dette er ikkje ein nettsvindel …">
+<!ENTITY safeb.palm.reportPage.label "Kvifor vart denne nettstaden blokkert?">
+
+<!ENTITY safeb.blocked.malwarePage.title "Rapportert som åtaksnettstad!">
+<!-- Localization note (safeb.blocked.malware.shortDesc) - Please don't translate the contents of the <span id="malware_sitename"/> tag.  It will be replaced at runtime with a domain name (e.g. www.badsite.com) -->
+<!ENTITY safeb.blocked.malwarePage.shortDesc "Denne nettstaden på <span id='malware_sitename'/> er rapportert som ein åtaksnettstad, og er blokkert basert på tryggings-innstillingane dine.">
+<!ENTITY safeb.blocked.malwarePage.longDesc "<p>Åtaksnettstader prøver å installere program som stel privat informasjon, brukar datamaskina di for å angripe andre eller skade systemet ditt.</p><p>Nokre åtaksnettstader spreier med vilje program som er skadelege, og mange kan få programma installerte utan at dei veit om det, eller gjev løyve til det.</p>">
+
+<!ENTITY safeb.blocked.phishingPage.title "Rapportert som nettsvindel!">
+<!-- Localization note (safeb.blocked.phishing.shortDesc) - Please don't translate the contents of the <span id="phishing_sitename"/> tag. It will be replaced at runtime with a domain name (e.g. www.badsite.com) -->
+<!ENTITY safeb.blocked.phishingPage.shortDesc "Denne nettstaden på <span id='phishing_sitename'/> er rapportert som ein nettsvindel, og er blokkert basert på tryggingsinnstillingane dine.">
+<!ENTITY safeb.blocked.phishingPage.longDesc "<p>Nettsvindel er laga for å prøve å lure deg til å gje opp personleg eller finansiell informasjon ved å imitere kjelder som du stolar på.</p><p>Dersom du skriv inn informasjon på denne nettsida kan det føre til identitetstjuveri eller annan svindel.</p>
+">

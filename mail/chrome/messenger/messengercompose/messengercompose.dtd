@@ -48,8 +48,8 @@
 <!ENTITY printCmd.accesskey "u">
 
 <!-- Edit Menu -->
-<!ENTITY editMenu.label "Endre"> 
-<!ENTITY editMenu.accesskey "E">
+<!ENTITY editMenu.label "Rediger"> 
+<!ENTITY editMenu.accesskey "R">
 <!ENTITY undoCmd.label "Angre">
 <!ENTITY undoCmd.key "Z">
 <!ENTITY undoCmd.accesskey "A"> 
@@ -259,8 +259,8 @@
 <!ENTITY delete.accesskey "S">
 <!ENTITY removeAttachment.label "Fjern vedlegg">
 <!ENTITY removeAttachment.accesskey "v">
-<!ENTITY renameAttachment.label "Byt namn …">
-<!ENTITY renameAttachment.accesskey "B">
+<!ENTITY renameAttachment.label "Endre navn …">
+<!ENTITY renameAttachment.accesskey "E">
 <!ENTITY selectAll.label "Merk alt">
 <!ENTITY selectAll.accesskey "M">
 <!ENTITY attachFile.label "Legg ved fil(er) …">

@@ -39,8 +39,8 @@
 <!ENTITY Legend.label "Legend">
 <!ENTITY Legend.accesskey "L">
 
-<!ENTITY EditLegendText.label "Endre legende:">
-<!ENTITY EditLegendText.accesskey "E">
+<!ENTITY EditLegendText.label "Rediger legende:">
+<!ENTITY EditLegendText.accesskey "R">
 <!ENTITY LegendAlign.label "Aligneringslegende">
 <!ENTITY LegendAlign.accesskey "A">
 <!ENTITY AlignDefault.label "Standard">

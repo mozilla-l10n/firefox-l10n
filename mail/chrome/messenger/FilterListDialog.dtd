@@ -3,8 +3,8 @@
 <!ENTITY activeColumn.label "Slått på">
 <!ENTITY newButton.label "Nytt …">
 <!ENTITY newButton.accesskey "N">
-<!ENTITY editButton.label "Endre …">
-<!ENTITY editButton.accesskey "E">
+<!ENTITY editButton.label "Rediger …">
+<!ENTITY editButton.accesskey "R">
 <!ENTITY deleteButton.label "Slett">
 <!ENTITY deleteButton.accesskey "S">
 <!ENTITY reorderUpButton.label "Flytt opp">
