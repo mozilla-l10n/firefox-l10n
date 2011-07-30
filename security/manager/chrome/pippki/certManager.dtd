@@ -70,18 +70,18 @@
 <!ENTITY certmgr.certdetail.sha1fingerprint   "SHA1 fingeravtrykk">
 <!ENTITY certmgr.certdetail.md5fingerprint    "MD5 fingeravtrykk">
 
-<!ENTITY certmgr.editcert.title               "Endre innstillingar for tryggingssertifikat">
-<!ENTITY certmgr.editcacert.title             "Endre tiltru for CA-sertifikatet">
-<!ENTITY certmgr.editsslcert.title            "Endre tiltru for nettstadsertifikatet">
-<!ENTITY certmgr.editcert.edittrust           "Endre tiltru:">
+<!ENTITY certmgr.editcert.title               "Rediger innstillingar for tryggingssertifikat">
+<!ENTITY certmgr.editcacert.title             "Rediger tiltru for CA-sertifikatet">
+<!ENTITY certmgr.editsslcert.title            "Rediger tiltru for nettstadsertifikatet">
+<!ENTITY certmgr.editcert.edittrust           "Rediger tiltru:">
 <!ENTITY certmgr.editcert.trustssl            "Dette sertifikatet kan identifisere nettsider.">
 <!ENTITY certmgr.editcert.trustemail          "Dette sertifikatet kan identifisere e-postbrukarar.">
 <!ENTITY certmgr.editcert.trustobjsign        "Dette sertifikatet kan identifisere programutviklarar.">
-<!ENTITY certmgr.editsslcert.edittrust        "Endre tiltru til sertifikatet:">
+<!ENTITY certmgr.editsslcert.edittrust        "Rediger tiltru til sertifikatet:">
 <!ENTITY certmgr.editsslcert.dotrust          "Stol på sertifikatet.">
 <!ENTITY certmgr.editsslcert.donttrust        "Ikkje stol på sertifikatet.">
-<!ENTITY certmgr.editemailcert.title          "Endre tiltru">
-<!ENTITY certmgr.editemailcert.edittrust      "Endre tiltru:">
+<!ENTITY certmgr.editemailcert.title          "Rediger tiltru">
+<!ENTITY certmgr.editemailcert.edittrust      "Rediger tiltru:">
 <!ENTITY certmgr.editemailcert.dotrust        "Stol på sertifikatet.">
 <!ENTITY certmgr.editemailcert.donttrust      "Ikkje stol på sertifikatet.">
 
@@ -107,7 +107,7 @@
 <!ENTITY certmgr.view2.accesskey              "V">
 <!ENTITY certmgr.edit3.label                  "Rediger tiltro …">
 <!ENTITY certmgr.edit3.accesskey              "R">
-<!ENTITY certmgr.editca.label                 "Endre CA tiltru">
+<!ENTITY certmgr.editca.label                 "Rediger CA tiltru">
 <!ENTITY certmgr.editca.accesskey             "e">
 <!ENTITY certmgr.add.label                    "Legg til">
 <!ENTITY certmgr.add.accesskey                "L">
