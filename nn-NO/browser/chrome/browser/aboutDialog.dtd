@@ -61,20 +61,3 @@
 <!ENTITY channel.description.start  "Du nyttar no   ">
 <!ENTITY channel.description.end    "-oppdateringskanalen. ">
 
-<!ENTITY channel.change             "Endre">
-
-<!ENTITY channel.release.description       "Bruk utprøvde og testa utgjevingar som vert nytta av fleire hundre millionar brukarar over heile verda. Hald kontrollen på nettopplevinga di med super fart, enkle tillpassingsmoglegheiter på og det nyaste av webteknologiar.">
-<!ENTITY channel.beta.description          "Opplev dei aller nyaste funksjonane med meir stabilitet. Gje tilbakemeldingar for å vere med å ferdigstille det som blir bed i den endelege utgjevinga.">
-<!ENTITY channel.aurora.description        "Opplev nyskapning i eit ustabilt miljø som ikkje er for dei lettskremde. Gje tilbakemelding på funksjonar og yting for å bidra til avgjersla om kva som blir med i den endelege utgjevinga.">
-
-<!-- LOCALIZATION NOTE (channel.selector.start,channel.selector.end): channel.selector.start and
-     channel.selector.end create one sentence, with a channel selection menulist instered in between.
-     This is all in one line, so try to make the localized text short.
-     example: Switch to the [Stable] update channel. -->
-<!ENTITY channel.selector.start          "Byt til oppdateringskanalen">
-<!ENTITY channel.selector.end            ".">
-
-<!-- LOCALIZATION NOTE (channel.selector.applyButton): This button applies the user's choice to switch
-     to a new update channel and starts the application update process. -->
-<!ENTITY channel.selector.applyButton    "Bruk og oppdater">
-<!ENTITY channel.selector.cancelButton   "Avbryt">
