@@ -7,6 +7,7 @@
 <!ENTITY editBookmarkOverlay.siteLocation.label              "Website-Adresse:">
 <!ENTITY editBookmarkOverlay.siteLocation.accesskey          "W">
 <!ENTITY editBookmarkOverlay.folder.label                    "Ordner:">
+<!ENTITY editBookmarkOverlay.folder.accesskey                "O">
 <!ENTITY editBookmarkOverlay.foldersExpanderDown.tooltip     "Alle Lesezeichenordner anzeigen">
 <!ENTITY editBookmarkOverlay.expanderUp.tooltip              "Verstecken">
 <!ENTITY editBookmarkOverlay.tags.label                      "Tags:">
@@ -21,5 +22,5 @@
 <!ENTITY editBookmarkOverlay.loadInSidebar.accesskey         "D">
 <!ENTITY editBookmarkOverlay.choose.label                    "Wählen…">
 <!ENTITY editBookmarkOverlay.newFolderButton.label           "Neuer Ordner">
-<!ENTITY editBookmarkOverlay.newFolderButton.accesskey       "O">
+<!ENTITY editBookmarkOverlay.newFolderButton.accesskey       "d">
 <!ENTITY editBookmarkOverlay.newFolderButton.tooltip         "Neuen Ordner erstellen">
