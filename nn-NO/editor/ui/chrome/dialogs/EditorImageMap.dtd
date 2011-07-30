@@ -52,8 +52,8 @@
 <!ENTITY closeCmd.accesskey "c">
 
 <!-- Edit menu -->
-<!ENTITY mapeditMenu.label "Endre">
-<!ENTITY mapeditMenu.accesskey "E">
+<!ENTITY mapeditMenu.label "Rediger">
+<!ENTITY mapeditMenu.accesskey "R">
 <!ENTITY cutCmd.label "Klipp ut">
 <!ENTITY cutCmd.accesskey "t">
 <!ENTITY copyCmd.label "Kopier">
