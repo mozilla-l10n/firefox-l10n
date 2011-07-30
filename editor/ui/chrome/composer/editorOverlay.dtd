@@ -129,22 +129,6 @@
 <!ENTITY createLinkCmd.accesskey "с">
 <!ENTITY editLinkCmd.label "Редактировать объект в новом окне Компоновщика">
 <!ENTITY editLinkCmd.accesskey "д">
-<!ENTITY undoCmd.label "Отменить">
-<!ENTITY undoCmd.accesskey "м">
-<!ENTITY redoCmd.label "Повторить">
-<!ENTITY redoCmd.accesskey "в">
-<!ENTITY cutCmd.label "Вырезать">
-<!ENTITY cutCmd.accesskey "ы">
-<!ENTITY copyCmd.label "Копировать">
-<!ENTITY copyCmd.accesskey "п">
-<!ENTITY pasteCmd.label "Вставить">
-<!ENTITY pasteCmd.accesskey "с">
-<!ENTITY deleteCmd.label "Удалить">
-<!ENTITY deleteCmd.accesskey "д">
-<!ENTITY clearCmd.label "Очистить">
-<!ENTITY clearCmd.accesskey "ч">
-<!ENTITY selectAllCmd.label "Выделить всё">
-<!ENTITY selectAllCmd.accesskey "в">
 <!ENTITY FontFaceSelect.tooltip "Выбор шрифта">
 <!ENTITY fontfaceMenu.label "Шрифт">
 <!ENTITY fontfaceMenu.accesskey "р">
@@ -348,6 +332,9 @@
 <!ENTITY openToolbarCmd.tooltip "Открыть локальный файл">
 <!ENTITY saveToolbarCmd.tooltip "Сохранить файл локально">
 <!ENTITY publishToolbarCmd.tooltip "Загрузить файл на удалённый сервер">
+<!ENTITY cutToolbarCmd.tooltip "Вырезать">
+<!ENTITY copyToolbarCmd.tooltip "Копировать">
+<!ENTITY pasteToolbarCmd.tooltip "Вставить">
 <!ENTITY printToolbarCmd.label "Печать">
 <!ENTITY printToolbarCmd.tooltip "Напечатать эту страницу">
 <!ENTITY findToolbarCmd.label "Найти">
