@@ -10,15 +10,15 @@
 <!-- LOCALIZATION NOTE (featureConfigurator.para.2): This paragraph explains that this page is active (the buttons change the UI), and that they can get back to it if they change their mind later.-->
 <!ENTITY featureConfigurator.para.2 "Bruk denne sida for å konfigurere desse nye innstillingane. Du kan òg seinare hente fram denne migrasjonsassistenten igjen frå Hjelp-menyen.">
 
-<!ENTITY featureConfigurator.toolbar.heading "Ny verktøylinje i meldingar">
-<!ENTITY featureConfigurator.toolbar.new "Verktøylinje for meldingsknappar">
-<!ENTITY featureConfigurator.toolbar.new.status.explanation "Ei rein verktøylinje med alle meldingsknappane enkelt tilgjengelieg.">
+<!ENTITY featureConfigurator.toolbar.heading "Ny verktylinje i meldingar">
+<!ENTITY featureConfigurator.toolbar.new "Verktylinje for meldingsknappar">
+<!ENTITY featureConfigurator.toolbar.new.status.explanation "Ei rein verktylinje med alle meldingsknappane enkelt tilgjengelieg.">
 
 <!-- LOCALIZATION NOTE (featureConfigurator.toolbar.original): The word 'original' is chosen deliberately to be neutral, vs. 'old' which in English at least had a negative connotation.-->
-<!ENTITY featureConfigurator.toolbar.original "Behald opphavlege verktøylinjeknappar">
+<!ENTITY featureConfigurator.toolbar.original "Behald opphavlege verktylinjeknappar">
 <!ENTITY featureConfigurator.toolbar.original.status.explanation "Behald eigendefinerte knappar i tillegg til nye meldingsknappar.">
 
-<!ENTITY featureConfigurator.toolbarBenefits.para "Meldingshandlingar som svar og vidaresend er flytta frå verktøylinja til sjølve meldingshovudet. Dette knyter handlingsknappane direkte til meldinga, og lagar plass til tekstboks for avansert søk i verktøylinja, samt utvidingar.">
+<!ENTITY featureConfigurator.toolbarBenefits.para "Meldingshandlingar som svar og vidaresend er flytta frå verktylinja til sjølve meldingshovudet. Dette knyter handlingsknappane direkte til meldinga, og lagar plass til tekstboks for avansert søk i verktylinja, samt utvidingar.">
 
 <!-- LOCALIZATION NOTE (featureConfigurator.addOn.downloading): The text to display while downloading the addon. -->
 <!ENTITY featureConfigurator.addOn.downloading "Lastar ned …">

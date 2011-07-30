@@ -119,8 +119,8 @@
 <!ENTITY redoDefaultCmd.accesskey "G">
 
 <!-- View Menu -->
-<!ENTITY showMessengerToolbarCmd.label "Verktøylinje for meldingar">
-<!ENTITY showMessengerToolbarCmd.accesskey "V">
+<!ENTITY showMessengerToolbarCmd.label "Meldingslinje">
+<!ENTITY showMessengerToolbarCmd.accesskey "e">
 <!ENTITY customizeToolbar.label "Tilpass …">
 <!ENTITY customizeToolbar.accesskey "T">
 
@@ -447,7 +447,7 @@ you can use these alternative items. Otherwise, their values should be empty.  -
 <!ENTITY windowMenu.label "Vindauge">
 
 <!-- Tools Menu -->
-<!ENTITY tasksMenu.label "Verktøy">
+<!ENTITY tasksMenu.label "Verkty">
 <!ENTITY tasksMenu.accesskey "e">
 <!ENTITY messengerCmd.label "E-post og nyhendegrupper">
 <!ENTITY messengerCmd.accesskey "E">

@@ -389,7 +389,7 @@
 
 <!-- Toolbar-only items -->
 <!ENTITY menuBar.tooltip "Menylinje">
-<!ENTITY formatToolbar.tooltip "Formateringsverktøylinje">
+<!ENTITY formatToolbar.tooltip "Formateringsverktylinje">
 <!ENTITY newToolbarCmd.label "Ny">
 <!ENTITY newToolbarCmd.tooltip "Lag ei ny nettsideutviklar-side">
 <!ENTITY openToolbarCmd.label "Opne">

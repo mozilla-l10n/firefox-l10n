@@ -77,9 +77,9 @@
 <!-- View Menu -->
 <!ENTITY viewMenu.label                                 "Vis">
 <!ENTITY viewMenu.accesskey                             "V">
-<!ENTITY viewToolbarsMenu.label                         "Verktøylinjer">
+<!ENTITY viewToolbarsMenu.label                         "Verktylinjer">
 <!ENTITY viewToolbarsMenu.accesskey                     "e"> 
-<!ENTITY showAbToolbarCmd.label                         "Verktøylinje for adressebok">
+<!ENTITY showAbToolbarCmd.label                         "Verktylinje for adressebok">
 <!ENTITY showAbToolbarCmd.accesskey                     "r">
 <!ENTITY showTaskbarCmd.label                           "Statuslinje">
 <!ENTITY showTaskbarCmd.accesskey                       "t">
@@ -99,7 +99,7 @@
 <!ENTITY sortMenu.accesskey                             "S">
 
 <!-- Tools Menu -->
-<!ENTITY tasksMenu.label                                "Verktøy">
+<!ENTITY tasksMenu.label                                "Verkty">
 <!ENTITY tasksMenu.accesskey                            "r">
 <!ENTITY messengerCmd.label                             "E-post og nyhendegrupper">
 <!ENTITY messengerCmd.accesskey                         "E">

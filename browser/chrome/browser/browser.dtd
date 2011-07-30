@@ -86,7 +86,7 @@ can reach it easily. -->
 <!ENTITY fullScreenMinimize.tooltip "Minimer">
 <!ENTITY fullScreenRestore.tooltip "Bygg opp att">
 <!ENTITY fullScreenClose.tooltip "Lat att">
-<!ENTITY fullScreenAutohide.label "Skjul verktøylinjene">
+<!ENTITY fullScreenAutohide.label "Skjul verktylinjene">
 <!ENTITY fullScreenAutohide.accesskey "S">
 <!ENTITY fullScreenExit.label "Avslutt fullskjermmodus">
 <!ENTITY fullScreenExit.accesskey "v">
@@ -148,7 +148,7 @@ can reach it easily. -->
 <!ENTITY bookmarksMenuButton.tooltip        "Vis bokmerka mine">
 <!ENTITY bookmarksMenuButton.unsorted.label "Usorterte bokmerke">
 <!ENTITY viewBookmarksSidebar.label         "Vis i sidestolpen">
-<!ENTITY viewBookmarksToolbar.label         "Vis bokmerkeverktøylinja">
+<!ENTITY viewBookmarksToolbar.label         "Vis bokmerkeverktylinja">
 
 <!-- LOCALIZATION NOTE (bookmarksSidebarGtkCmd.commandkey): This command
   -  key should not contain the letters A-F, since these are reserved
@@ -161,7 +161,7 @@ can reach it easily. -->
 <!ENTITY historySidebarCmd.accesskey    "h">
 <!ENTITY historySidebarCmd.commandKey   "h">
 
-<!ENTITY toolsMenu.label              "Verktøy">
+<!ENTITY toolsMenu.label              "Verkty">
 <!ENTITY toolsMenu.accesskey          "e"> 
 
 <!ENTITY keywordfield.label           "Lag nøkkelord for dette søket …">
@@ -211,7 +211,7 @@ can reach it easily. -->
 <!ENTITY inspectButton.label          "Inspiser">
 <!ENTITY inspectButton.accesskey      "I">
 
-<!ENTITY getMoreDevtoolsCmd.label        "Hent fleire verktøy">
+<!ENTITY getMoreDevtoolsCmd.label        "Hent fleire verkty">
 <!ENTITY getMoreDevtoolsCmd.accesskey    "H">
 
 <!ENTITY fileMenu.label         "Fil"> 
@@ -262,7 +262,7 @@ can reach it easily. -->
 <!ENTITY viewMenu.accesskey       "V"> 
 <!ENTITY viewTabGroups.label            "Fanegrupper">
 <!ENTITY viewTabGroups.accesskey        "F">
-<!ENTITY viewToolbarsMenu.label       "Verktøylinjer"> 
+<!ENTITY viewToolbarsMenu.label       "Verktylinjer"> 
 <!ENTITY viewToolbarsMenu.accesskey     "V"> 
 <!ENTITY viewSidebarMenu.label "Sidestolpe">
 <!ENTITY viewSidebarMenu.accesskey "d">
@@ -284,7 +284,7 @@ can reach it easily. -->
 
 <!ENTITY appMenuEdit.label "Rediger">
 <!ENTITY appMenuCustomize.label "Tilpass">
-<!ENTITY appMenuToolbarLayout.label "Verktøylinjeutsjånad …">
+<!ENTITY appMenuToolbarLayout.label "Verktylinjeutsjånad …">
 <!ENTITY appMenuSidebars.label "Sidestolpar">
 <!ENTITY appMenuFind.label "Finn …">
 <!ENTITY appMenuUnsorted.label "Usorterte bokmerke">

@@ -91,9 +91,9 @@
 <!-- customizable toolbars -->
 <!ENTITY sunbird.context.customize.label                   "Tilpass …">
 <!ENTITY sunbird.context.customize.accesskey               "T">
-<!ENTITY sunbird.menu.customize.label                      "Tilpass verktøylinja …">
+<!ENTITY sunbird.menu.customize.label                      "Tilpass verktylinja …">
 <!ENTITY sunbird.menu.customize.accesskey                  "T">
-<!ENTITY sunbird.maintoolbar.name                          "Hovudverktøylinje">
+<!ENTITY sunbird.maintoolbar.name                          "Hovudverktylinje">
 <!ENTITY sunbird.maintoolbar.accesskey                     "H">
 
 <!-- Sunbird Help -->
