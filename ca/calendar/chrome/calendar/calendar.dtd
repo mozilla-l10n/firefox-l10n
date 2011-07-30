@@ -326,7 +326,7 @@
 <!ENTITY calendarproperties.name.label     "Nom:">
 <!ENTITY calendarproperties.readonly.label "Només de lectura">
 <!ENTITY calendarproperties.firealarms.label "Mostra les alertes">
-<!ENTITY calendarproperties.cache.label    "Memòria cau (EXPERIMENTAL, cal tornar a engegar)">
+<!ENTITY calendarproperties.cache.label    "Memòria cau (EXPERIMENTAL, cal reiniciar)">
 <!ENTITY calendarproperties.enabled.label  "Mostra aquest calendari">
 <!ENTITY calendarproperties.forceDisabled.label            "No s'ha pogut trobar el proveïdor d'aquest calendari. Això sol passar quan s'han inhabilitat o s'han desinstal·lat complements.">
 <!ENTITY calendarproperties.unsubscribe.label              "Cancel·la la subscripció">
