@@ -20,6 +20,7 @@
 <!ENTITY aboutSupport.appBasicsEnabledPlugins "Plugins habilitados">
 <!ENTITY aboutSupport.appBasicsBuildConfig "Configuración de compilación">
 <!ENTITY aboutSupport.appBasicsUserAgent "Agente de usuario">
+<!ENTITY aboutSupport.appBasicsCrashIDs "Informes de fallos">
 
 <!ENTITY aboutSupport.show.label "Abrir carpeta contenedora">
 
