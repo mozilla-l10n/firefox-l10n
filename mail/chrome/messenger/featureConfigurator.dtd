@@ -51,7 +51,7 @@
 <!ENTITY featureConfigurator.folderColumns.heading "Columnas avanzadas de carpeta">
 
 <!-- LOCALIZATION NOTE (featureConfigurator.folderColumns.para.weak): The paragraph to display if the user hadn't previously used the folder columns feature. -->
-<!ENTITY featureConfigurator.folderColumns.para.weak "La extensión Extra Folder Columns reemplaza lo que originalmente era una preferencia avanzada.  To keep tabs on the exact count of messages and disk space each folder is using you'll want to install this extension.">
+<!ENTITY featureConfigurator.folderColumns.para.weak "La extensión Extra Folder Columns reemplaza lo que originalmente era una preferencia avanzada.  Para controlar la cantidad exacta de mensajes y el espacio disco que está usando cada carpeta podría instalar esta extensión.">
 
 <!-- LOCALIZATION NOTE (featureConfigurator.folderColumns.para.strong): The paragraph to display if the user had previously used the folder columns feature. -->
 <!ENTITY featureConfigurator.folderColumns.para.strong "Notamos que está usando las columnas avanzadas de carpeta.  Esta característica ha sido movida a su propia extensión, así que recomendamos instalarla aquí.">
