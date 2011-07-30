@@ -111,6 +111,9 @@ can reach it easily. -->
 <!ENTITY forwardCmd.label "Adelante">
 <!ENTITY forwardCmd.accesskey "d">
 <!ENTITY forwardButton.tooltip "Avanzar una página">
+<!ENTITY backForwardButtonMenu.tooltip "Botón derecho o descolgar para mostrar historial">
+<!ENTITY backForwardButtonMenuMac.tooltip "Descolgar para mostrar historial">
+
 <!ENTITY reloadCmd.label "Recargar">
 <!ENTITY reloadCmd.accesskey "R">
 <!ENTITY reloadButton.tooltip "Recargar la página actual">
