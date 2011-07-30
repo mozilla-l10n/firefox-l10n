@@ -167,8 +167,8 @@
 <!ENTITY sortByStatusCmd.accesskey "u">
 <!ENTITY sortByTagsCmd.label "Stikkord">
 <!ENTITY sortByTagsCmd.accesskey "t">
-<!ENTITY sortByJunkStatusCmd.label "Uønskt-status">
-<!ENTITY sortByJunkStatusCmd.accesskey "U">
+<!ENTITY sortByJunkStatusCmd.label "Søppel-status">
+<!ENTITY sortByJunkStatusCmd.accesskey "ø">
 <!ENTITY sortBySubjectCmd.label "Emne">
 <!ENTITY sortBySubjectCmd.accesskey "E">
 <!ENTITY sortByFromCmd.label "Frå">
@@ -360,10 +360,10 @@ you can use these alternative items. Otherwise, their values should be empty.  -
 <!ENTITY forwardAsInline.accesskey "I">
 <!ENTITY forwardAsAttachmentCmd.label "Vedlegg">
 <!ENTITY forwardAsAttachmentCmd.accesskey "V">
-<!ENTITY editMsgAsNewCmd.label "Endre melding som ny">
-<!ENTITY editMsgAsNewCmd.accesskey "E">
+<!ENTITY editMsgAsNewCmd.label "Rediger meldinga som ny">
+<!ENTITY editMsgAsNewCmd.accesskey "R">
 <!ENTITY editMsgAsNewCmd.key "e">
-<!ENTITY createFilter.label "Lag filter frå melding">
+<!ENTITY createFilter.label "Lag filter på meldinga">
 <!ENTITY createFilter.accesskey "L">
 <!ENTITY moveMsgToMenu.label "Flytt til">
 <!ENTITY moveMsgToMenu.accesskey "F">
@@ -420,13 +420,13 @@ you can use these alternative items. Otherwise, their values should be empty.  -
 <!ENTITY markStarredCmd.label "Merk med stjerne">
 <!ENTITY markStarredCmd.accesskey "s">
 <!ENTITY markStarredCmd.key "S">
-<!ENTITY markAsJunkCmd.label "Som uønskt">
+<!ENTITY markAsJunkCmd.label "Som søppel">
 <!ENTITY markAsJunkCmd.accesskey "o">
 <!ENTITY markAsJunkCmd.key "j">
 <!ENTITY markAsNotJunkCmd.label "Som ønskt">
 <!ENTITY markAsNotJunkCmd.accesskey "m">
 <!ENTITY markAsNotJunkCmd.key "j">
-<!ENTITY recalculateJunkScoreCmd.label "Køyr kontroll av uønskt e-post">
+<!ENTITY recalculateJunkScoreCmd.label "Køyr kontroll av søppel e-post">
 <!ENTITY recalculateJunkScoreCmd.accesskey "K">
 <!ENTITY openMessageWindowCmd.label "Opne melding">
 <!ENTITY openMessageWindowCmd.accesskey "O">
@@ -469,9 +469,9 @@ you can use these alternative items. Otherwise, their values should be empty.  -
 <!ENTITY filtersApplyToSelection.accesskey "f">
 <!ENTITY filtersApplyToMessage.label "Køyr filter på meldingar">
 <!ENTITY filtersApplyToMessage.accesskey "ø">
-<!ENTITY runJunkControls.label "Køyr kontroll av uønskt e-post på mappe">
+<!ENTITY runJunkControls.label "Køyr kontroll av søppel e-post på mappe">
 <!ENTITY runJunkControls.accesskey "r">
-<!ENTITY deleteJunk.label "Slett all uønskt e-post i denne mappa">
+<!ENTITY deleteJunk.label "Slett all e-post merkt som søppel i denne mappa">
 <!ENTITY deleteJunk.accesskey "S">
 <!ENTITY importCmd.label "Importer …">
 <!ENTITY importCmd.accesskey "m">
@@ -502,8 +502,8 @@ you can use these alternative items. Otherwise, their values should be empty.  -
 <!ENTITY printButton.label "Skriv ut">
 <!ENTITY stopButton.label "Stopp">
 <!ENTITY throbberItem.title "Aktivitetsindikator">
-<!ENTITY junkButton.label "Uønskt">
-<!ENTITY notJunkButton.label "Ønskt">
+<!ENTITY junkButton.label "Søppel">
+<!ENTITY notJunkButton.label "ønskt">
 <!ENTITY addressBookButton.label "Adressebok">
 <!ENTITY glodaSearch.title "Globalt søk">
 <!ENTITY searchItem.title "Snøggsøk">
@@ -533,7 +533,7 @@ you can use these alternative items. Otherwise, their values should be empty.  -
 <!ENTITY markButton.tooltip "Merk meldingar">
 <!ENTITY printButton.tooltip "Skriv ut denne meldinga">
 <!ENTITY stopButton.tooltip "Stopp denne overføringa">
-<!ENTITY junkButton.tooltip "Merk dei valde meldingane som uønskt">
+<!ENTITY junkButton.tooltip "Merk dei valde meldingane som søppel">
 <!ENTITY notJunkButton.tooltip "Merk den valde meldinga som ønskt">
 <!ENTITY addressBookButton.tooltip "Gå til adresseboka">
 <!ENTITY tagButton.tooltip "Merk meldingar">
@@ -612,7 +612,7 @@ you can use these alternative items. Otherwise, their values should be empty.  -
 <!ENTITY accountColumn.label "Konto">
 <!ENTITY statusColumn.label "Status">
 <!ENTITY sizeColumn.label "Storleik">
-<!ENTITY junkStatusColumn.label "Uønskt-status">
+<!ENTITY junkStatusColumn.label "Søppel-status">
 <!ENTITY unreadColumn.label "Ulesen">
 <!ENTITY totalColumn.label "Totalt">
 <!ENTITY readColumn.label "Lesen">
@@ -634,7 +634,7 @@ you can use these alternative items. Otherwise, their values should be empty.  -
 <!ENTITY accountColumn.tooltip "Trykk her for å sortere etter konto">
 <!ENTITY statusColumn.tooltip "Trykk her for å sortere etter status">
 <!ENTITY sizeColumn.tooltip "Trykk her for å sortere etter storleik">
-<!ENTITY junkStatusColumn.tooltip "Trykk her for å sortere etter uønskt-status">
+<!ENTITY junkStatusColumn.tooltip "Trykk her for å sortere etter søppel-status">
 <!ENTITY unreadColumn.tooltip "Tal på ulesne meldingar i tråden">
 <!ENTITY totalColumn.tooltip "Totalt tal på meldingar i tråden">
 <!ENTITY readColumn.tooltip "Trykk her for å sortere etter lesen-tilstand">
@@ -655,8 +655,8 @@ you can use these alternative items. Otherwise, their values should be empty.  -
 <!ENTITY contextOpenNewTab.accesskey "n">
 <!ENTITY contextOpenConversation.label "Opne melding i samtale">
 <!ENTITY contextOpenConversation.accesskey "n">
-<!ENTITY contextEditAsNew.label "Endre som ny …">
-<!ENTITY contextEditAsNew.accesskey "E">
+<!ENTITY contextEditAsNew.label "Rediger som ny …">
+<!ENTITY contextEditAsNew.accesskey "R">
 <!ENTITY contextArchive.label "Arkiv">
 <!ENTITY contextArchive.accesskey "A">
 <!ENTITY contextReplySender.label "Svar til avsendar">
@@ -742,8 +742,8 @@ you can use these alternative items. Otherwise, their values should be empty.  -
 <!ENTITY contextUnmute.accesskey "å">
 
 <!-- Junk Bar -->
-<!ENTITY junkBarMessage1.label "Uønskt">
-<!ENTITY junkBarButton1.label "Ønskt">
+<!ENTITY junkBarMessage1.label "Søppel e-post">
+<!ENTITY junkBarButton1.label "ønskt">
 <!ENTITY junkInfoButton.label "?">
 
 <!-- Remote Content Bar -->
@@ -796,8 +796,8 @@ you can use these alternative items. Otherwise, their values should be empty.  -
 <!ENTITY AddToAddressBook.accesskey "L">
 <!ENTITY AddDirectlyToAddressBook.label "Legg til i adresseboka">
 <!ENTITY AddDirectlyToAddressBook.accesskey "L">
-<!ENTITY EditContact.label "Endre kontakt …">
-<!ENTITY EditContact.accesskey "E">
+<!ENTITY EditContact.label "Rediger kontakt …">
+<!ENTITY EditContact.accesskey "R">
 <!ENTITY ViewContact.label "Vis kontakt">
 <!ENTITY ViewContact.accesskey "V">
 <!ENTITY SubscribeToNewsgroup.label "Abonner på nyhendegruppe">

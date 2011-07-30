@@ -44,8 +44,8 @@
 <!ENTITY directories.label                     "Katalogtenar:">
 <!ENTITY directories.accesskey                 "K">
 <!ENTITY directoriesNone.label                 "Ingen">
-<!ENTITY editDirectories.label                 "Endre katalogar …">
-<!ENTITY editDirectories.accesskey             "E">
+<!ENTITY editDirectories.label                 "Rediger katalogar …">
+<!ENTITY editDirectories.accesskey             "R">
 
 <!ENTITY sendOptionsDescription.label          "Konfigurer åtferda til tekstformatet">
 <!ENTITY sendOptions.label                     "Sendeinnstillingar …">
