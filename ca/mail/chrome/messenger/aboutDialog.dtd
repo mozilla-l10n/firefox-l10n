@@ -5,8 +5,8 @@
 <!ENTITY community.mozillaLink      "&vendorShortName;">
 <!ENTITY community.middle2          ", una ">
 <!-- LOCALIZATION NOTE (community.creditsLink): This is a link title that links to about:credits. -->
-<!ENTITY community.creditsLink      "comunitat glogal">
-<!ENTITY community.end2             " que treballa per fer l'Internet millor. Nosaltres creiem que Internet hauria de ser oberta, pública i accessible a tothom sense restriccions de cap mena.">
+<!ENTITY community.creditsLink      "comunitat global">
+<!ENTITY community.end2             " que treballa per fer d'Internet un lloc millor. Creiem que Internet ha de ser un espai obert, públic i accessible a tothom i sense restriccions de cap mena.">
 
 <!ENTITY contribute.start           "Us interessa? ">
 <!-- LOCALIZATION NOTE (contribute.getInvolvedLink): This is a link title that links to http://www.mozilla.org/contribute/. -->
