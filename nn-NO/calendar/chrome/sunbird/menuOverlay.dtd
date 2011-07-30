@@ -46,9 +46,9 @@
 <!ENTITY calendar.open.file.key                            "O">
 <!ENTITY calendar.open.file.accesskey                      "a">
 
-<!ENTITY event.edit.event                                  "Endre utval …">
+<!ENTITY event.edit.event                                  "Rediger …">
 <!ENTITY event.edit.event.key                              "E">
-<!ENTITY event.edit.event.accesskey                        "E">
+<!ENTITY event.edit.event.accesskey                        "R">
 
 <!ENTITY event.delete.event                                "Slett valde hendingar">
 <!ENTITY event.delete.event.accesskey                      "S">
@@ -140,8 +140,8 @@
 <!ENTITY fileMenu.label                                    "Fil">
 <!ENTITY fileMenu.accesskey                                "F">
 
-<!ENTITY editMenu.label                                    "Endre">
-<!ENTITY editMenu.accesskey                                "E">
+<!ENTITY editMenu.label                                    "Rediger">
+<!ENTITY editMenu.accesskey                                "R">
 
 <!ENTITY optionsCmd.label                                  "Innstillingar …">
 <!ENTITY optionsCmd.accesskey                              "I">

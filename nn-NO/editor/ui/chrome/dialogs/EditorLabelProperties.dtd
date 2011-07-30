@@ -34,17 +34,17 @@
    -
    - ***** END LICENSE BLOCK ***** -->
 
-<!ENTITY windowTitle.label "Merkelappeigenskapar">
+<!ENTITY windowTitle.label "Stikkordeigenskapar">
 
 <!ENTITY Settings.label "Innstillingar">
 <!ENTITY Settings.accesskey "S">
 
-<!ENTITY EditLabelText.label "Endre tekst:">
-<!ENTITY EditLabelText.accesskey "T">
+<!ENTITY EditLabelText.label "Rediger tekst:">
+<!ENTITY EditLabelText.accesskey "R">
 <!ENTITY LabelFor.label "For kontroll:">
 <!ENTITY LabelFor.accesskey "F">
 <!ENTITY AccessKey.label "Tilgjengetast:">
 <!ENTITY AccessKey.accesskey "T">
 
-<!ENTITY RemoveLabel.label "Fjern merkelapp">
-<!ENTITY RemoveLabel.accesskey "R">
+<!ENTITY RemoveLabel.label "Fjern stikkord">
+<!ENTITY RemoveLabel.accesskey "e">

@@ -78,8 +78,8 @@
 <!ENTITY closeCmd.key "W">
 
 <!-- Edit menu items -->
-<!ENTITY editMenu.label "Endre">
-<!ENTITY editMenu.accesskey "E">
+<!ENTITY editMenu.label "Rediger">
+<!ENTITY editMenu.accesskey "R">
 <!ENTITY pasteNoFormatting.label "Lim inn utan formatering">
 <!ENTITY pasteNoFormatting.accesskey "o">
 <!ENTITY pasteNoFormatting.key "V">
@@ -137,7 +137,7 @@
 <!ENTITY spellCheckAddToDictionary.accesskey "e">
 <!ENTITY createLinkCmd.label "Lag lenkje …">
 <!ENTITY createLinkCmd.accesskey "l">
-<!ENTITY editLinkCmd.label "Endre lenkje i nytt nettsideutviklar-vindauge">
+<!ENTITY editLinkCmd.label "Rediger lenkje i nytt nettsideutviklar-vindauge">
 <!ENTITY editLinkCmd.accesskey "i">
 <!-- (Toplevel Edit menu uses utilityOverlay) -->
 <!ENTITY undoCmd.label "Angre">
@@ -403,15 +403,15 @@
 <!ENTITY spellToolbarCmd.label "Stavekontroll">
 <!ENTITY spellToolbarCmd.tooltip "Kontroller merkt område eller heile sida for stavefeil">
 <!ENTITY imageToolbarCmd.label "Bilete">
-<!ENTITY imageToolbarCmd.tooltip "Set inn nytt bilete eller endre eigenskapane til det valde biletet">
+<!ENTITY imageToolbarCmd.tooltip "Set inn nytt bilete eller rediger eigenskapane til det valde biletet">
 <!ENTITY hruleToolbarCmd.label "Horisontal linje">
-<!ENTITY hruleToolbarCmd.tooltip "Set inn horisontal linje eller endre eigenskapane til den valde linja">
+<!ENTITY hruleToolbarCmd.tooltip "Set inn horisontal linje eller rediger eigenskapane til den valde linja">
 <!ENTITY tableToolbarCmd.label "Tabell">
-<!ENTITY tableToolbarCmd.tooltip "Set inn ny tabell eller endre eigenskapane til den valde tabellen">
+<!ENTITY tableToolbarCmd.tooltip "Set inn ny tabell eller rediger eigenskapane til den valde tabellen">
 <!ENTITY linkToolbarCmd.label "Lenkje">
-<!ENTITY linkToolbarCmd.tooltip "Set inn ny lenkje eller endre eigenskapane til den valde lenkja">
+<!ENTITY linkToolbarCmd.tooltip "Set inn ny lenkje eller rediger eigenskapane til den valde lenkja">
 <!ENTITY anchorToolbarCmd.label "Anker">
-<!ENTITY anchorToolbarCmd.tooltip "Set inn nytt namngjeve anker eller endre eigenskapane til det valde ankeret">
+<!ENTITY anchorToolbarCmd.tooltip "Set inn nytt namngjeve anker eller rediger eigenskapane til det valde ankeret">
 <!ENTITY TextColorButton.tooltip "Vel tekstfarge">
 <!ENTITY BackgroundColorButton.tooltip "Vel bakgrunnsfarge">
 <!ENTITY throbber.tooltip "Gå til heimesida til &vendorShortName;">
@@ -437,9 +437,9 @@
 <!-- Structure Toolbar Context Menu items -->
 <!ENTITY structSelect.label         "Vel">
 <!ENTITY structSelect.accesskey     "V">
-<!ENTITY structRemoveTag.label      "Fjern merkelapp">
+<!ENTITY structRemoveTag.label      "Fjern tagg">
 <!ENTITY structRemoveTag.accesskey  "F">
-<!ENTITY structChangeTag.label      "Endre merkelapp">
+<!ENTITY structChangeTag.label      "Endre tagg">
 <!ENTITY structChangeTag.accesskey  "E">
 
 <!-- TOC manipulation -->

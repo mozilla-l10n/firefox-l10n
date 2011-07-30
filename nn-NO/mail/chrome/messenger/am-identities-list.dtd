@@ -1,7 +1,7 @@
 <!ENTITY identitiesListDesc.label "Det er mogleg å ha fleire identitetar i ein konto. Her kan du handsame identitetane for den valde kontoen.">
 <!ENTITY identitiesListAdd.label  "Legg til …">
 <!ENTITY identitiesListAdd.accesskey  "L">
-<!ENTITY identitiesListEdit.label "Endre …">
-<!ENTITY identitiesListEdit.accesskey "E">
+<!ENTITY identitiesListEdit.label "Rediger …">
+<!ENTITY identitiesListEdit.accesskey "R">
 <!ENTITY identitiesListDelete.label "Slett">
 <!ENTITY identitiesListDelete.accesskey "S">

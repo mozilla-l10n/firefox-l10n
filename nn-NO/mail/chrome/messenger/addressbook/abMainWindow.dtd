@@ -36,8 +36,8 @@
 <!ENTITY printAddressBook.accesskey                     "k">
 
 <!-- Edit Menu -->
-<!ENTITY editMenu.label                                 "Endre">
-<!ENTITY editMenu.accesskey                             "E">
+<!ENTITY editMenu.label                                 "Rediger">
+<!ENTITY editMenu.accesskey                             "R">
 <!ENTITY undoCmd.label                                  "Angre">
 <!ENTITY undoCmd.key                                    "Z">
 <!ENTITY undoCmd.accesskey                              "A">
@@ -132,7 +132,7 @@
 <!-- Address Book Toolbar Tooltips -->
 <!ENTITY newContactButton.tooltip                       "Opprett eit nytt adressekort">
 <!ENTITY newlistButton.tooltip                          "Opprett ei ny liste">
-<!ENTITY editButton2.tooltip                            "Endre valde element">
+<!ENTITY editButton2.tooltip                            "Rediger valde element">
 <!ENTITY newmsgButton.tooltip                           "Send ein e-post">
 <!ENTITY newIM.tooltip                                  "Send ei melding eller chat">
 <!ENTITY deleteButton2.tooltip                           "Slett valde element">

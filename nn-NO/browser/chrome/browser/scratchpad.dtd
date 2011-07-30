@@ -34,8 +34,8 @@
 <!ENTITY closeCmd.key                 "W">
 <!ENTITY closeCmd.accesskey           "a">
 
-<!ENTITY editMenu.label               "Endre">
-<!ENTITY editMenu.accesskey           "E">
+<!ENTITY editMenu.label               "Rediger">
+<!ENTITY editMenu.accesskey           "R">
 
 <!ENTITY undoCmd.label                "Angre">
 <!ENTITY undoCmd.key                  "Z">
