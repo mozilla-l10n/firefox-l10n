@@ -116,7 +116,7 @@
 <!ENTITY detailsPane.more.accesskey "e">
 <!ENTITY detailsPane.less.label "Mindre">
 <!ENTITY detailsPane.less.accesskey "i">
-<!ENTITY detailsPane.selectAnItemText.description "Vel elementet du vil vise og endre">
+<!ENTITY detailsPane.selectAnItemText.description "Vel elementet du vil vise og redigere">
 
 <!ENTITY find.label               "Søk:">
 <!ENTITY find.accesskey           "S">

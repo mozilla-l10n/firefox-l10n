@@ -60,7 +60,7 @@
 <!ENTITY pref.calendar.advanced.useMasterPassword.accesskey "p">
 <!ENTITY pref.calendar.advanced.masterPassword.intro "Når det er lagt inn vil hovudpassordet verne alle passorda dine, men du må leggje det inn for kvar ny økt.">
 <!ENTITY pref.calendar.advanced.changeMasterPassword.label "Endre hovudpassord …">
-<!ENTITY pref.calendar.advanced.changeMasterPassword.accesskey "M">
+<!ENTITY pref.calendar.advanced.changeMasterPassword.accesskey "E">
 <!ENTITY pref.calendar.advanced.viewPasswords.label "Vis lagra passord …">
 <!ENTITY pref.calendar.advanced.viewPasswords.accesskey "V">
 

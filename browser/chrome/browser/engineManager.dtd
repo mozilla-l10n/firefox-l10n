@@ -12,8 +12,8 @@
 <!ENTITY  dn.accesskey              "n">
 <!ENTITY  remove.label              "Slett">
 <!ENTITY  remove.accesskey          "S">
-<!ENTITY  edit.label                "Endre nøkkelord">
-<!ENTITY  edit.accesskey            "E">
+<!ENTITY  edit.label                "Rediger nøkkelord">
+<!ENTITY  edit.accesskey            "R">
 
 <!ENTITY  addEngine.label           "Hent fleire søkjemotorar …">
 <!ENTITY  addEngine.accesskey       "H">

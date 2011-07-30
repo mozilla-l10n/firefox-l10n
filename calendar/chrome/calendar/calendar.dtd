@@ -307,7 +307,7 @@
 <!ENTITY calendar.alarm.snooze.cancel               "Avbryt slumring">
 
 <!-- Calendar Server Dialog -->
-<!ENTITY calendar.server.dialog.title.edit          "Endre kalenderen">
+<!ENTITY calendar.server.dialog.title.edit          "Rediger kalenderen">
 <!ENTITY calendar.server.dialog.name.label          "Kalendernamn:">
 
 <!-- Calendar Properties -->

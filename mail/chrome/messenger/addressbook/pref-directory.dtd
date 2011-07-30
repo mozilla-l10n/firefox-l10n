@@ -44,7 +44,7 @@
 <!ENTITY directoriesText.accesskey "V">
 <!ENTITY addDirectory.label        "Legg til">
 <!ENTITY addDirectory.accesskey    "L">
-<!ENTITY editDirectory.label       "Endre">
-<!ENTITY editDirectory.accesskey   "E">
+<!ENTITY editDirectory.label       "Rediger">
+<!ENTITY editDirectory.accesskey   "R">
 <!ENTITY deleteDirectory.label     "Slett">
 <!ENTITY deleteDirectory.accesskey "S">
