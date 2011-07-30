@@ -40,7 +40,7 @@
 <!-- These strings are for use specifically in the editor's image map dialog. -->
 
 <!-- Window title -->
-<!ENTITY windowTitle.label "Endring av biletkart">
+<!ENTITY windowTitle.label "Redigering av biletkart">
 
 <!-- Menu Items -->
 <!-- File menu -->
@@ -68,7 +68,7 @@
 <!-- View menu -->
 <!ENTITY mapviewMenu.label "Vis">
 <!ENTITY mapviewMenu.accesskey "v">
-<!ENTITY showhideTbarCmd.label "Skjul verktøylinje">
+<!ENTITY showhideTbarCmd.label "Skjul verktylinje">
 <!ENTITY showhideTbarCmd.accesskey "t">
 <!-- Scaling -->
 <!ENTITY mapviewScale.label "Skaler">
