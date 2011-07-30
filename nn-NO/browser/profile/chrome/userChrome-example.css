@@ -1,5 +1,5 @@
 /*
- * Endre denne fila og kopier henne som userChrome.css til
+ * Rediger denne fila og kopier henne som userChrome.css til
  * di profilmappe/chrome/
  */
 
@@ -12,7 +12,7 @@
 /*
  * Ikkje fjern @namespace-linja, ho må vere tilstades for at ting skal fungere.
  */
-@namespace url("http://www.mozilla.org/keymaster/gatekeeper/there.is.only.xul"); /* set default namespace to XUL */
+@namespace url(&quot;http://www.mozilla.org/keymaster/gatekeeper/there.is.only.xul&quot;); /* set default namespace to XUL */
 
 
 /*
@@ -28,7 +28,7 @@
 /*
  * Gjer skriftstorleiken i alle menyar om til 15 punkt
  *
- * menupopup > * {
+ * menupopup &gt; * {
  *   font-size: 15pt !important
  * }
  */

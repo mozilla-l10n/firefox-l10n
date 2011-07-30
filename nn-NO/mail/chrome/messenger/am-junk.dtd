@@ -1,5 +1,5 @@
 <!ENTITY junkSettings.label "Innstillingar for søppel e-post">
-<!ENTITY trainingWarning.label "Dersom denne funksjonen er slått på, må du først trene opp &brandShortName; til å oppdage søppel e-post (t.d. reklame du ikkje vil ha) ved å bruke verktøylinja for å merke meldingar som er søppel. Du må identifisere både ønskte meldingar og  søppelmeldingar. ">
+<!ENTITY trainingWarning.label "Dersom denne funksjonen er slått på, må du først trene opp &brandShortName; til å oppdage søppel e-post (t.d. reklame du ikkje vil ha) ved å bruke verktylinja for å merke meldingar som er søppel. Du må identifisere både ønskte meldingar og  søppelmeldingar. ">
 <!ENTITY level.label "Tillat adaptivt filter for søppel e-post på denne kontoen">
 <!ENTITY level.accesskey "T">
 

@@ -1,4 +1,4 @@
-<!ENTITY feedbackHeader2.label          "Tilbakemeldingsverktøy">
+<!ENTITY feedbackHeader2.label          "Tilbakemeldingsverkty">
 
 <!ENTITY feedback.communicate.title     "Kommuniser med oss!">
 <!ENTITY feedback.feedback.title        "Gje tilbakemelding">
@@ -9,6 +9,6 @@
 <!ENTITY feedback.about.title           "Om denne betaen">
 <!ENTITY feedback.about.button          "Gå til sida">
 
-<!ENTITY feedback.tools.title           "Verktøy">
+<!ENTITY feedback.tools.title           "Verkty">
 <!ENTITY feedback.forceCompat.title     "Tving kompatibilitet med utvidingar">
 <!ENTITY feedback.errorConsole.title    "Slå på feilkonsollet">

@@ -1,5 +1,5 @@
 /*
- * Endre denne fila og kopier henne til userContent.css i di
+ * Rediger denne fila og kopier henne til userContent.css i di
  * profilmappe/chrome/
  */
 
@@ -10,7 +10,7 @@
  */
 
 /*
- * døme: skru av blinkinga til "blink"-elementet
+ * døme: skru av blinkinga til &quot;blink&quot;-elementet
  *
  * blink { text-decoration: none ! important; }
  *
@@ -23,7 +23,7 @@
  */
 
 /*
- * døme: skrua av "marquee"-elementet
+ * døme: skrua av &quot;marquee&quot;-elementet
  *
  * marquee { -moz-binding: none; }
  *

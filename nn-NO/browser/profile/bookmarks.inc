@@ -7,8 +7,8 @@
 #define bookmarks_title Bokmerke
 #define bookmarks_heading Bokmerke
 
-#define bookmarks_toolbarfolder Personleg verktøymappe
-#define bookmarks_toolbarfolder_description Legg til bokmerke i denne mappa for å sjå dei i verktøylinja for bokmerke
+#define bookmarks_toolbarfolder Personleg verktymappe
+#define bookmarks_toolbarfolder_description Legg til bokmerke i denne mappa for å sjå dei i verktylinja for bokmerke
 
 # LOCALIZATION NOTE (getting_started):
 # link title for http://en-US.www.mozilla.com/en-US/firefox/central/
