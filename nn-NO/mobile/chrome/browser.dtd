@@ -26,7 +26,7 @@
 <!ENTITY historyHeader.label       "Historikk">
 <!ENTITY desktopHeader.label       "Skrivebord">
 
-<!ENTITY editBookmarkDialog.title  "Endre bokmerke">
+<!ENTITY editBookmarkDialog.title  "Rediger bokmerke">
 <!ENTITY editBookmarkDone.label    "Fullført">
 <!ENTITY editBookmarkTags.label    "Legg til stikkord her">
 
@@ -66,7 +66,7 @@
 
 <!ENTITY bookmarkPopup.label       "Sida er bokmerka">
 <!ENTITY bookmarkRemove.label      "Fjern">
-<!ENTITY bookmarkEdit.label        "Endre">
+<!ENTITY bookmarkEdit.label        "Rediger">
 
 <!ENTITY identity.unverifiedsite2 "Denne sida har ingen identitetsinformasjon.">
 <!ENTITY identity.connectedTo2 "Du er tilkopla">
@@ -100,7 +100,7 @@
 <!ENTITY contextPlayMedia.label       "Spel av">
 <!ENTITY contextPauseMedia.label      "Pause">
 <!ENTITY contextFullScreen.label      "Fullskjerm">
-<!ENTITY contextEditBookmark.label    "Endre">
+<!ENTITY contextEditBookmark.label    "Rediger">
 <!ENTITY contextRemoveBookmark.label  "Slett">
 
 <!ENTITY pageactions.saveas.pdf      "Lagre som PDF">

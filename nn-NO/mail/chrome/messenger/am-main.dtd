@@ -19,10 +19,10 @@
 <!ENTITY signatureHtml.accesskey "T">
 <!ENTITY signatureFile.label "Legg ved signaturen frå ei fil i staden (tekst, HTML, eller bilete):">
 <!ENTITY signatureFile.accesskey "L">
-<!ENTITY edit.label "Endre …">
+<!ENTITY edit.label "Rediger …">
 <!ENTITY choose.label "Vel …">
 <!ENTITY choose.accesskey "V">
-<!ENTITY editVCard.label "Endre adressekort …">
+<!ENTITY editVCard.label "Rediger adressekort …">
 <!ENTITY editVCard.accesskey "E">
 <!-- LOCALIZATION NOTE (attachVCard.label) : do not translate "vCard" in below line -->
 <!ENTITY attachVCard.label "Legg ved adressekortet mitt (vCard)">

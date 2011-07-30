@@ -59,8 +59,8 @@
 <!ENTITY moreDictionaries.label "Last ned fleire">
 <!ENTITY addToUserDictionaryButton.label "Legg til ord">
 <!ENTITY addToUserDictionaryButton.accessKey "g">
-<!ENTITY editUserDictionaryButton.label "Endre …">
-<!ENTITY editUserDictionaryButton.accessKey "E">
+<!ENTITY editUserDictionaryButton.label "Rediger …">
+<!ENTITY editUserDictionaryButton.accessKey "R">
 <!ENTITY recheckButton.label "Kontroller sida på nytt">
 <!ENTITY recheckButton.accessKey "o">
 <!ENTITY closeButton.label "Lat att">

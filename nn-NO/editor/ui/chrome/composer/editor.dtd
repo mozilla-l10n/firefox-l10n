@@ -93,7 +93,7 @@
 <!ENTITY HTMLSourceModeTab.label "Kjelde">
 <!ENTITY HTMLSourceMode.label "HTML-kjeldekode">
 <!ENTITY HTMLSourceMode.accesskey "H">
-<!ENTITY HTMLSourceMode.tooltip "Endre HTML-kjeldekode">
+<!ENTITY HTMLSourceMode.tooltip "Rediger HTML-kjeldekode">
 <!ENTITY PreviewModeTab.label "Førehandsvis">
 <!ENTITY PreviewMode.label "Førehandsvis">
 <!ENTITY PreviewMode.accesskey "F">

@@ -235,8 +235,8 @@ can reach it easily. -->
 <!ENTITY newNavigatorCmd.key        "N">
 <!ENTITY newNavigatorCmd.accesskey      "N">
 
-<!ENTITY editMenu.label         "Endre"> 
-<!ENTITY editMenu.accesskey       "E"> 
+<!ENTITY editMenu.label         "Rediger"> 
+<!ENTITY editMenu.accesskey       "R"> 
 <!ENTITY undoCmd.label            "Angre">  
 <!ENTITY undoCmd.key            "Z">  
 <!ENTITY undoCmd.accesskey          "A"> 
@@ -297,7 +297,7 @@ can reach it easily. -->
 <!ENTITY showAllHistoryCmd2.label "Vis all historikk">
 <!ENTITY showAllHistoryCmd.commandkey "h">
 
-<!ENTITY appMenuEdit.label "Endre">
+<!ENTITY appMenuEdit.label "Rediger">
 <!ENTITY appMenuCustomize.label "Tilpass">
 <!ENTITY appMenuToolbarLayout.label "Verktøylinjeutsjånad …">
 <!ENTITY appMenuSidebars.label "Sidestolpar">
