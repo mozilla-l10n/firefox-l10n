@@ -14,6 +14,8 @@
 <!ENTITY allowHWAccel.label "Použít hardwarovou akceleraci, je-li dostupná">
 <!ENTITY allowHWAccel.accesskey "h">
 <!ENTITY textZoomOnly.label "Měnit velikost pouze textu místo celé stránky">
-<!ENTITY textZoomOnly.accesskey "M">
+<!ENTITY textZoomOnly.accesskey "n">
 <!ENTITY blockAutoRefresh.label "Upozornit, pokud se stránka pokusí přesměrovat nebo obnovit">
 <!ENTITY blockAutoRefresh.accesskey "U">
+<!ENTITY siteSpecific.label "Pamatovat si velikost stránky pro jednotlivé weby">
+<!ENTITY siteSpecific.accesskey "P">
