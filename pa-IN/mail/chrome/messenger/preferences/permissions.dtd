@@ -1,22 +1,22 @@
-<!ENTITY window.title                 "Exceptions">
+<!ENTITY window.title                 "ਛੋਟ">
 <!ENTITY window.width                 "36em">
 
-<!ENTITY treehead.sitename.label      "Site">
-<!ENTITY treehead.status.label        "Status">
-<!ENTITY removepermission.label       "Remove Site">
+<!ENTITY treehead.sitename.label      "ਸਾਈਟ">
+<!ENTITY treehead.status.label        "ਹਾਲਤ">
+<!ENTITY removepermission.label       "ਸਾਈਟ ਹਟਾਓ">
 <!ENTITY removepermission.accesskey   "R">
-<!ENTITY removeallpermissions.label   "Remove All Sites">
+<!ENTITY removeallpermissions.label   "ਸਭ ਸਾਈਟਾਂ ਹਟਾਓ">
 <!ENTITY removeallpermissions.accesskey "e">
-<!ENTITY address.label                "Address of web site:">
+<!ENTITY address.label                "ਵੈੱਬ ਸਾਈਟ ਦਾ ਐਡਰੈਸ:">
 <!ENTITY address.accesskey            "d">
-<!ENTITY block.label                  "Block">
+<!ENTITY block.label                  "ਪਾਬੰਦੀ">
 <!ENTITY block.accesskey              "B">
-<!ENTITY session.label                "Allow for Session">
+<!ENTITY session.label                "ਸ਼ੈਸ਼ਨ ਲਈ ਮਨਜ਼ੂਰ">
 <!ENTITY session.accesskey            "S">
-<!ENTITY allow.label                  "Allow">
+<!ENTITY allow.label                  "ਮਨਜ਼ੂਰ">
 <!ENTITY allow.accesskey              "A">
 <!ENTITY windowClose.key              "w">
 
-<!ENTITY button.close.label           "Close">
+<!ENTITY button.close.label           "ਬੰਦ ਕਰੋ">
 <!ENTITY button.close.accesskey       "C">
 

@@ -22,11 +22,11 @@
 <!ENTITY sentInOtherFolder.label "ਹੋਰ:">
 <!ENTITY sentInOtherFolder.accesskey "O">
 <!-- LOCALIZATION NOTE (draftsFolderOn.label): OK to translate this, bug #57440 -->
-<!ENTITY archivesTitle.label "Message Archives">
-<!ENTITY archivesTitle.label "Message Archives">
+<!ENTITY archivesTitle.label "ਸੁਨੇਹਾ ਅਕਾਇਵ">
+<!ENTITY archivesTitle.label "ਸੁਨੇਹਾ ਅਕਾਇਵ">
 <!ENTITY keepArchives.label "Keep message archives in:">
 <!ENTITY keepArchives.accesskey "K">
-<!ENTITY archiveHierarchyButton.label "Archive options…">
+<!ENTITY archiveHierarchyButton.label "ਅਕਾਇਵ ਚੋਣਾਂ…">
 <!ENTITY archiveHierarchyButton.accesskey "A">
 <!ENTITY draftsFolderOn.label "&quot;ਡਰਾਫਟ&quot; ਫੋਲਡਰ ਉੱਤੇ:">
 <!ENTITY draftsFolderOn.accesskey "D">
@@ -38,7 +38,7 @@
 <!ENTITY archivesFolderOn.accesskey "D">
 <!ENTITY archiveInOtherFolder.label "ਹੋਰ:">
 <!ENTITY archiveInOtherFolder.accesskey "h">
-<!ENTITY specialFolders.label "Drafts and Templates">
+<!ENTITY specialFolders.label "Drafts and ਟੈਪਲੇਟ">
 
 <!-- LOCALIZATION NOTE (templatesFolderOn.label): OK to translate this, bug #57440 -->
 <!ENTITY templatesFolderOn.label "&quot;ਟੈਪਲੇਟ&quot; ਫੋਲਡਰ ਉੱਤੇ:">

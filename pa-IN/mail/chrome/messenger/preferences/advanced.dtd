@@ -37,7 +37,7 @@
 <!ENTITY reuseExpRadio0.accesskey      "n">
 <!ENTITY reuseExpRadio1.label          "ਮੌਜੂਦਾ ਸੁਨੇਹਾ ਵਿੰਡੋ ਵਿੱਚ">
 <!ENTITY reuseExpRadio1.accesskey      "e">
-<!ENTITY closeMsgOnMoveOrDelete.label  "Close message window/tab on move or delete">
+<!ENTITY closeMsgOnMoveOrDelete.label  "ਹਿਲਾਉਣ ਜਾਂ ਹਟਾਉਣ ਨਾਲ ਸੁਨੇਹਾ ਵਿੰਡੋ/ਟੈਬ ਬੰਦ ਕਰੋ">
 <!ENTITY closeMsgOnMoveOrDelete.accesskey "C">
 
 <!ENTITY configEditDesc.label          "ਤਕਨੀਕੀ ਸੰਰਚਨਾ">
@@ -97,9 +97,9 @@
 
 <!-- Certificates -->
 <!ENTITY certSelection.description       "When a server requests my personal certificate:">
-<!ENTITY certs.auto                      "Select one automatically">
+<!ENTITY certs.auto                      "ਇੱਕ ਆਟੋਮੈਟਿਖ ਚੁਣੋ">
 <!ENTITY certs.auto.accesskey            "m">
-<!ENTITY certs.ask                       "Ask me every time">
+<!ENTITY certs.ask                       "ਮੈਨੂੰ ਹਰ ਵਾਰ ਪੁੱਛੋ">
 <!ENTITY certs.ask.accesskey             "A">
 
 <!ENTITY viewCertificates.label         "ਸਰਟੀਫਿਕੇਟ ਵੇਖੋ">

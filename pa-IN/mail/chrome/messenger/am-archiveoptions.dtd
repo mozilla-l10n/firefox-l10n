@@ -1,8 +1,8 @@
 <!-- extracted from am-archiveoptions.xul -->
 
-<!ENTITY dialogTitle.label "Archive Options">
+<!ENTITY dialogTitle.label "ਅਕਾਇਵ ਚੋਣਾਂ">
 <!ENTITY archiveGranularityPrefix.label "When archiving messages, place them in:">
-<!ENTITY archiveFlat.label "A single folder">
+<!ENTITY archiveFlat.label "ਇੱਕ ਇੱਕਲਾ ਫੋਲਡਰ">
 <!ENTITY archiveFlat.accesskey "s">
 <!ENTITY archiveYearly.label "Yearly archived folders">
 <!ENTITY archiveYearly.accesskey "Y">
@@ -10,10 +10,10 @@
 <!ENTITY archiveMonthly.accesskey "M">
 <!ENTITY keepFolderStructure.label "Keep existing folder structure of archived messages">
 <!ENTITY keepFolderStructure.accesskey "K">
-<!ENTITY archiveExample.label "Example">
+<!ENTITY archiveExample.label "ਉਦਾਹਰਨ">
 <!-- LOCALIZATION NOTE (archiveFolderName.label): this should match the default
      name for the "Archives" folder -->
-<!ENTITY archiveFolderName.label "Archives">
+<!ENTITY archiveFolderName.label "ਅਕਾਇਵਤ">
 <!-- LOCALIZATION NOTE (inboxFolderName.label): this should match the default
      name for the "Inbox" folder -->
 <!ENTITY inboxFolderName.label "Inbox">

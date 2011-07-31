@@ -1,16 +1,16 @@
 <!-- extracted from AccountManager.xul -->
 
-<!ENTITY accountManagerTitle.label "Account Settings">
+<!ENTITY accountManagerTitle.label "ਅਕਾਊਂਟ ਸੈਟਿੰਗ">
 
-<!ENTITY accountActionsButton.label "Account Actions">
+<!ENTITY accountActionsButton.label "ਅਕਾਊਂਟ ਐਕਸ਼ਨ">
 <!ENTITY accountActionsButton.accesskey "A">
-<!ENTITY addMailAccountButton.label "Add Mail Account…">
+<!ENTITY addMailAccountButton.label "ਮੇਲ ਅਕਾਊਂਟ ਜੋੜੋ…">
 <!ENTITY addMailAccountButton.accesskey "A">
-<!ENTITY addOtherAccountButton.label "Add Other Account…">
+<!ENTITY addOtherAccountButton.label "ਹੋਰ ਅਕਾਊਂਟ ਜੋੜੋ…">
 <!ENTITY addOtherAccountButton.accesskey "O">
-<!ENTITY setDefaultButton.label "Set as Default">
+<!ENTITY setDefaultButton.label "ਡਿਫਾਲਟ ਵਜੋਂ ਸੈੱਟ ਕਰੋ">
 <!ENTITY setDefaultButton.accesskey "D">
-<!ENTITY removeButton.label "Remove Account">
+<!ENTITY removeButton.label "ਅਕਾਊਂਟ ਹਟਾਓ">
 <!ENTITY removeButton.accesskey "R">
 
 <!-- AccountManager.xul -->
