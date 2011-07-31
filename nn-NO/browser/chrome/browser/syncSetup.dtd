@@ -2,8 +2,8 @@
 
 <!-- First page of the wizard -->
 
-<!ENTITY setup.pickSetupType.description "Velkomen, dersom du ikkje har brukt &syncBrand.fullName.label; før, må du opprette ein ny konto.">
-<!ENTITY button.createNewAccount.label "Opprett ny konto">
+<!ENTITY setup.pickSetupType.description "Velkomen, om du ikkje har brukt &syncBrand.fullName.label; før, må du lage ein ny konto.">
+<!ENTITY button.createNewAccount.label "Lag ein ny konto">
 <!ENTITY setup.haveAccount.label "Eg har allereie ein &syncBrand.fullName.label;-konto">
 <!ENTITY button.connect.label    "Kople til">
 
@@ -46,7 +46,7 @@
 <!ENTITY syncKeyEntry.label        "Sync-nøkkel">
 <!ENTITY syncKeyEntry.accesskey    "S">
 <!ENTITY syncGenerateNewKey.label  "Generer ny nøkkel">
-<!ENTITY syncKeyBackup.description "Sync-nøkkelen din er påkravd for å få tilgang til &syncBrand.fullName.label; på fleire maskiner. Lag ein tryggingskopi. Vi kan ikkje hjelpe deg med å finne tilbake ein gløymd Sync-nøkkel.">
+<!ENTITY syncKeyBackup.description "Sync-nøkkelen din er påkravd for å få tilgang til &syncBrand.fullName.label; på andre maskiner. Lag ein tryggingskopi. Vi kan ikkje hjelpe deg med å finne tilbake ein gløymd Sync-nøkkel.">
 
 <!ENTITY button.syncKeyBackup.print.label     "Skriv ut …">
 <!ENTITY button.syncKeyBackup.print.accesskey "S">
@@ -58,14 +58,14 @@
 <!-- Existing Account Page 1: Add Device (incl. Add a Device dialog strings) -->
 <!ENTITY addDevice.title.label              "Legg til ei eining">
 <!ENTITY addDevice.showMeHow.label          "Vis meg korleis.">
-<!ENTITY addDevice.dontHaveDevice.label     "Eg har ikkje eininga med meg.">
+<!ENTITY addDevice.dontHaveDevice.label     "Eg har ikkje eininga med meg">
 <!ENTITY addDevice.setup.description.label  "For å aktivere, gå til &syncBrand.shortName.label; Innstillingar på den andre eininga, og vel &#x0022;Legg til eining&#x0022;.">
 <!ENTITY addDevice.setup.enterCode.label    "Skriv deretter inn denne koden:">
 <!ENTITY addDevice.dialog.description.label "For å aktivere den nye eininga, gå til &syncBrand.shortName.label; Innstillingar på eininga og vel &#x0022;Kople til.&#x0022;">
 <!ENTITY addDevice.dialog.enterCode.label   "Skriv inn koden som eininga gjev opp:">
 <!ENTITY addDevice.dialog.tryAgain.label    "Prøv igjen.">
 <!ENTITY addDevice.dialog.successful.label  "Eininga vart lagt til. Den første synkroniseringa kan ta fleire minutt, og vil fullføre i bakgrunnen.">
-<!ENTITY addDevice.dialog.syncKey.label     "For å aktivere eininga må du skrive inn Sync-nøkkelen. Skriv gjerne ut eller lagre denne nøkkelen og ta han med deg.">
+<!ENTITY addDevice.dialog.syncKey.label     "For å aktivere eininga må du skrive inn Sync-nøkkelen. Gjerne skriv ut eller lagre denne nøkkelen og ta han med deg.">
 <!ENTITY addDevice.dialog.connected.label   "Eining tilkopla">
 
 <!-- Existing Account Page 2: Manual Login -->
@@ -92,14 +92,14 @@
 <!ENTITY engine.prefs.label         "Innstillingar">
 <!ENTITY engine.prefs.accesskey     "n">
 
-<!ENTITY choice2.merge.main.label      "Flett saman data til denne datamaskina med &syncBrand.shortName.label; sine data">
+<!ENTITY choice2.merge.main.label      "Flett saman data på denne datamaskina med &syncBrand.shortName.label; sine data">
 <!ENTITY choice2.merge.recommended.label "Tilrådd:">
 <!ENTITY choice2.client.main.label     "Byt ut alle data på denne datamaskina med data fra &syncBrand.shortName.label;">
 <!ENTITY choice2.server.main.label     "Byt ut data på alle andre einingar med data på denne datamaskina">
 
 <!-- Confirm Merge Options -->
 <!ENTITY setup.optionsConfirmPage.title "Stadfest">
-<!ENTITY confirm.merge.label    "Du har valt å flette saman data fra denne datamaskina med data i Sync-kontoen.">
+<!ENTITY confirm.merge.label    "Du har valt å flette saman data frå denne datamaskina med data i Sync-kontoen.">
 <!ENTITY confirm.client2.label         "Åtvaring: Følgjande &brandShortName;-data på denne datamaskina vert sletta:">
 <!ENTITY confirm.client.moreinfo.label "&brandShortName; vil deretter kopiere dine &syncBrand.fullName.label;-data til denne datamaskina.">
 <!ENTITY confirm.server2.label         "Åtvaring: Følgjande einingar vert overskrivne med lokale data:">
