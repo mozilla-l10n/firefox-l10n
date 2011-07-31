@@ -107,6 +107,7 @@
 <!ENTITY pageactions.saveas.pdf    "Salvesta PDFina">
 <!ENTITY pageactions.share.page    "Jaga lehte">
 <!ENTITY pageactions.password.forget "Unusta parool">
+<!ENTITY pageactions.quit          "Välju">
 <!ENTITY pageactions.reset         "Kustuta lehe eelistused">
 <!ENTITY pageactions.findInPage    "Otsi lehelt">
 <!ENTITY pageactions.search.addNew "Lisa otsingumootor">
