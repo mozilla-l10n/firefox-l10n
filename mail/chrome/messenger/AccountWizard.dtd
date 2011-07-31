@@ -56,7 +56,7 @@
 <!-- LOCALIZATION NOTE (popType.label) : Do not translate "POP" in below line -->
 <!ENTITY popType.label "POP">
 <!ENTITY popType.accesskey "P">
-<!ENTITY leaveMsgsOnSrvr.label "Leave messages on server">
+<!ENTITY leaveMsgsOnSrvr.label "ਸੁਨੇਹੇ ਸਰਵਰ ਉੱਤੇ ਰਹਿਣ ਦਿਓ">
 <!ENTITY leaveMsgsOnSrvr.accesskey "L">
 
 <!-- for when the user has an SMTP server pre-configured -->
