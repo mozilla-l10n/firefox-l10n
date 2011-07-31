@@ -52,14 +52,9 @@
 <!ENTITY netInterrupt.longDesc                 "&sharedLongDesc;">
 
 <!ENTITY netOffline.title                      "Võrguta režiim">
-<!-- LOCALIZATION NOTE (netOffline.overrideLongDesc) - This string should
-     indicate that "Work Offline" is a menu item without being too specific,
-     since it could be in either the normal menu (Mac/Linux) or the Firefox button
-     menu (Windows).
--->
-<!ENTITY netOffline.overrideLongDesc           "
+<!ENTITY netOffline.longDesc2                  "
 <ul>
-  <li>Lülita &quot;Tööta võrguta&quot; menüüst välja ning proovi siis uuesti.</li>
+  <li>Vajuta &quot;Proovi uuesti&quot;, et lülituda võrgurežiimi ning laadida leht uuesti.</li>
 </ul>
 ">
 
@@ -169,6 +164,9 @@ ja sa võid hiljem uuesti proovida.</li>
 
 <!ENTITY cspFrameAncestorBlocked.title         "Blokeeritud sisu turvalisuse reegliga">
 <!ENTITY cspFrameAncestorBlocked.longDesc      "<p>&brandShortName; keeldus selle lehe laadimisest antud kujul, sest leht on kaitstud sisu turvalisuse reegliga, mis selle keelab.</p>">
+
+<!ENTITY corruptedContentError.title           "Vigane sisu">
+<!ENTITY corruptedContentError.longDesc        "<p>Lehte, mida üritad vaadata, ei saa kuvada, sest andmete edastamisel tuvastati viga.</p><ul><li>Palun võta ühendust veebilehe omanikega, et teavitada neid sellest probleemist.</li></ul>">
 
 <!ENTITY securityOverride.linkText             "Või võid ka lisada erandi...">
 <!ENTITY securityOverride.getMeOutOfHereButton "Aita mind siit välja!">

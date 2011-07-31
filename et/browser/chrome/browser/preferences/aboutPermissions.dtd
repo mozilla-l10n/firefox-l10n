@@ -22,9 +22,9 @@
 <!ENTITY password.manage                 "Halda paroole…">
 
 <!ENTITY cookie.label                    "Küpsiste salvestamine">
-<!ENTITY cookie.clear                    "Kustuta küpsised">
+<!ENTITY cookie.remove                   "Kustuta küpsised">
 <!ENTITY cookie.manage                   "Halda küpsiseid…">
-<!ENTITY cookie.clearAll                 "Kustuta kõik küpsised">
+<!ENTITY cookie.removeAll                "Kustuta kõik küpsised">
 
 <!ENTITY geo.label                       "Asukoha avaldamine">
 

@@ -27,8 +27,7 @@ muidu kasutatakse <em>muul</em> otstarbel kui veebilehitsemine. Veebilehitseja k
 <!ENTITY netInterrupt.longDesc "<p>Veebilehitsejal õnnestus edukalt ühenduda, kuid ühendust segati keset andmete edastamist.  Palun proovi uuesti.</p><ul><li>Kas ka teiste lehtede vaatamine ei õnnestu? Kontrolli arvuti võrguühendust.</li><li>Endiselt probleemid? Konsulteeri oma võrguadministraatoriga või interneti teenusepakkujaga.</li></ul>">
 
 <!ENTITY netOffline.title "Võrguta režiim">
-<!ENTITY netOffline.longDesc "<p>Veebilehitseja on võrguta režiimis ega saa soovitud aadressiga ühenduda.</p><ul><li>Kas arvuti võrguühendus on aktiivne?</li><li>Lülita veebilehitseja võrgurežiimi ja proovi uuesti.</li></ul>">
-<!ENTITY netOffline.overrideLongDesc "<p>Veebilehitseja on võrguta režiimis ega saa soovitud aadressiga ühenduda.</p><ul><li>Kas arvuti võrguühendus on aktiivne?</li><li>Lülita veebilehitseja võrgurežiimi ja proovi uuesti.</li></ul>">
+<!ENTITY netOffline.longDesc2 "<p>Veebilehitseja on võrguta režiimis ega saa soovitud aadressiga ühenduda.</p><ul><li>Kas arvuti võrguühendus on aktiivne?</li><li>Vajuta &quot;Proovi uuesti&quot;, et lülituda võrgurežiimi ning laadida leht uuesti.</li></ul>">
 
 <!ENTITY contentEncodingError.title "Sisu kodeeringu viga">
 <!ENTITY contentEncodingError.longDesc "<p>Lehte, mida soovid vaadata, ei saa näidata, kuna see kasutab vigast või mittetoetatud pakkimise vormingut.</p><ul><li>Palun võta ühendust veebilehe omanikuga, et informeerida teda antud probleemist.</li></ul>">
@@ -85,6 +84,9 @@ muidu kasutatakse <em>muul</em> otstarbel kui veebilehitsemine. Veebilehitseja k
 
 <!ENTITY cspFrameAncestorBlocked.title "Blokeeritud sisu turvalisuse reegliga">
 <!ENTITY cspFrameAncestorBlocked.longDesc "<p>Brauser keeldus selle lehe laadimisest antud kujul, sest leht on kaitstud sisu turvalisuse reegliga, mis selle keelab.</p>">
+
+<!ENTITY corruptedContentError.title           "Vigane sisu">
+<!ENTITY corruptedContentError.longDesc        "<p>Lehte, mida üritad vaadata, ei saa kuvada, sest andmete edastamisel tuvastati viga.</p><ul><li>Palun võta ühendust veebilehe omanikega, et teavitada neid sellest probleemist.</li></ul>">
 
 <!ENTITY remoteXUL.title "Remote XUL">
 <!ENTITY remoteXUL.longDesc "<p><ul><li>Palun kontakteeru veebilehe omanikega, et teavitada neid sellest probleemist.</li></ul></p>">

@@ -28,10 +28,12 @@
 <!ENTITY cmd.findCurrent.label                    "Leia käesolevast kogust…">
 <!ENTITY cmd.findCurrent.accesskey                "e">
 
-<!ENTITY cmd.exportHTML.label                     "Ekspordi HTML-failina…">
-<!ENTITY cmd.exportHTML.accesskey                 "E">
-<!ENTITY cmd.importHTML.label                     "Impordi HTML-failist…">
-<!ENTITY cmd.importHTML.accesskey                 "I">
+<!ENTITY importBookmarksFromHTML.label            "Impordi HTML-failist…">
+<!ENTITY importBookmarksFromHTML.accesskey        "I">
+<!ENTITY exportBookmarksToHTML.label              "Ekspordi HTML-failina…">
+<!ENTITY exportBookmarksToHTML.accesskey          "E">
+<!ENTITY importOtherBrowser.label                 "Impordi andmed teisest brauserist…">
+<!ENTITY importOtherBrowser.accesskey             "I">
 
 <!ENTITY cmd.backup.label                         "Varunda…">
 <!ENTITY cmd.backup.accesskey                     "V">

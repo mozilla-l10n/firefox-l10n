@@ -56,8 +56,6 @@ can reach it easily. -->
 <!ENTITY printCmd.label                          "Prindi...">
 <!ENTITY printCmd.accesskey                      "P">
 <!ENTITY printCmd.commandkey                     "p">
-<!ENTITY import.label                            "Impordi...">
-<!ENTITY import.accesskey                        "I">
 
 <!ENTITY goOfflineCmd.label                      "Tööta võrguta">
 <!ENTITY goOfflineCmd.accesskey                  "T">
@@ -211,19 +209,6 @@ can reach it easily. -->
 <!ENTITY inspectPanelTitle.label                 "HTML">
 <!ENTITY inspectButton.label                     "Inspekteeri">
 <!ENTITY inspectButton.accesskey                 "I">
-<!ENTITY inspectNextButton.label                 "Järgmine">
-<!ENTITY inspectNextButton.accesskey             "J">
-<!ENTITY inspectPreviousButton.label             "Eelmine">
-<!ENTITY inspectPreviousButton.accesskey         "E">
-<!ENTITY inspectStyleButton.label                "Stiilid">
-<!ENTITY inspectStyleButton.accesskey            "S">
-<!ENTITY inspectStylePanelTitle.label            "Stiilid">
-<!-- LOCALIZATION NOTE (inspectObjectButton.label): This button label
-  -  appears on the Inspector's toolbar. It is used to open and close the Object
-  -  panel. There is also a label in inspector.properties for the panel
-  -  titlebar: object.objectPanelTitle. -->
-<!ENTITY inspectObjectButton.label               "Objekt">
-<!ENTITY inspectObjectButton.accesskey           "O">
 
 <!ENTITY getMoreDevtoolsCmd.label                "Hangi rohkem tööriistu">
 <!ENTITY getMoreDevtoolsCmd.accesskey            "H">

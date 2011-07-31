@@ -24,10 +24,12 @@
 
 <!-- New Account Page 1: Basic Account Info -->
 <!ENTITY setup.newAccountDetailsPage.title.label "Konto andmed">
-<!ENTITY setup.confirmPassword.label        "Korda parooli">
-<!ENTITY setup.confirmPassword.accesskey    "o">
 <!ENTITY setup.emailAddress.label           "E-posti aadress">
 <!ENTITY setup.emailAddress.accesskey       "E">
+<!ENTITY setup.choosePassword.label         "Määra parool">
+<!ENTITY setup.choosePassword.accesskey     "M">
+<!ENTITY setup.confirmPassword.label        "Korda parooli">
+<!ENTITY setup.confirmPassword.accesskey    "o">
 <!-- LOCALIZATION NOTE: tosAgree1, tosLink, tosAgree2, ppLink, tosAgree3 are
      joined with implicit white space, so spaces in the strings aren't necessary -->
 <!ENTITY setup.tosAgree1.label              "Ma nõustun">
