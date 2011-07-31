@@ -8,3 +8,4 @@
 <!ENTITY aboutHome.openAllTabs                  "Ava kõik kaartidel">
 <!ENTITY aboutHome.noTabs                       "Kaarte eelmisest korrast pole">
 <!ENTITY aboutHome.noAddons                     "Lisade soovitusi pole">
+<!ENTITY aboutHome.getLocale                    "Muuda keelt">

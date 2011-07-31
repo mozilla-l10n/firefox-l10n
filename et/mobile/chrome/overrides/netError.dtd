@@ -52,9 +52,9 @@
 <!ENTITY netInterrupt.longDesc                 "&sharedLongDesc;">
 
 <!ENTITY netOffline.title                      "Võrguta režiim">
-<!ENTITY netOffline.overrideLongDesc                   "
+<!ENTITY netOffline.longDesc2                  "
 <ul>
-  <li>Proovi uuesti. &brandShortName; üritab ühenduse taastada ja lehe uuesti laadida.</li>
+  <li>Vajuta &quot;Proovi uuesti&quot;, et lülituda võrgurežiimi ning laadida leht uuesti.</li>
 </ul>
 ">
 
@@ -164,6 +164,9 @@ ja sa võid hiljem uuesti proovida.</li>
 
 <!ENTITY cspFrameAncestorBlocked.title "Blokeeritud sisu turvalisuse reegliga">
 <!ENTITY cspFrameAncestorBlocked.longDesc "<p>&brandShortName; keeldus selle lehe laadimisest antud kujul, sest leht on kaitstud sisu turvalisuse reegliga, mis selle keelab.</p>">
+
+<!ENTITY corruptedContentError.title           "Vigane sisu">
+<!ENTITY corruptedContentError.longDesc        "<p>Lehte, mida üritad vaadata, ei saa kuvada, sest andmete edastamisel tuvastati viga.</p><ul><li>Palun võta ühendust veebilehe omanikega, et teavitada neid sellest probleemist.</li></ul>">
 
 <!ENTITY securityOverride.linkText             "Või võid ka lisada erandi...">
 <!ENTITY securityOverride.getMeOutOfHereButton "Aita mind siit välja!">
