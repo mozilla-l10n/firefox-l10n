@@ -29,6 +29,8 @@
 <!ENTITY checkNow.accesskey                "K">
 <!ENTITY submitCrashes.label               "Lubatakse vearaportite saatmine">
 <!ENTITY submitCrashes.accesskey           "L">
+<!ENTITY submitTelemetry.label             "Lubatakse sooritusvõimsuse raportite saatmine">
+<!ENTITY submitTelemetry.accesskey         "b">
 
 <!ENTITY networkTab.label                  "Võrk">
 

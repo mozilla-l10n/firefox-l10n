@@ -60,8 +60,8 @@
 <!ENTITY  dontrememberActions.clearHistory.label "kustutada ka kogu praeguse ajaloo">
 <!ENTITY  dontrememberActions.post.label         ".">
 
-<!ENTITY  privateBrowsingPermanent.label         "Pidev privaatse veebilehitsemise režiim">
-<!ENTITY  privateBrowsingPermanent.accesskey     "P">
+<!ENTITY  privateBrowsingPermanent2.label        "Alati kasutatakse privaatse veebilehitsemise režiimi">
+<!ENTITY  privateBrowsingPermanent2.accesskey    "p">
 
 <!ENTITY  rememberHistory.label                  "Lehitsemise ajalugu säilitatakse">
 <!ENTITY  rememberHistory.accesskey              "L">
