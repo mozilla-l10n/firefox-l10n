@@ -1,7 +1,7 @@
 <!-- The page shown when not logged in... -->
 <!ENTITY setupButton.label          "Konfigurer &syncBrand.fullName.label;">
 <!ENTITY setupButton.accesskey      "K">
-<!ENTITY weaveDesc.label            "&syncBrand.fullName.label; lèt deg få tilgang til historikk, bokmerke, passord og opne faner på tvers av alle einingar.">
+<!ENTITY weaveDesc.label            "&syncBrand.fullName.label; lèt deg få tilgang til historikk, bokmerke, passord og opne faner på tvers av alle einingane dine.">
 
 <!-- The page shown when logged in... -->
 
