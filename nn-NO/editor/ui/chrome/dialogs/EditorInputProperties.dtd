@@ -65,7 +65,7 @@
 <!ENTITY InputSelected.accesskey "O">
 <!ENTITY InputReadOnly.label "Berre lesetilgang">
 <!ENTITY InputReadOnly.accesskey "B">
-<!ENTITY InputDisabled.label "Slått av">
+<!ENTITY InputDisabled.label "Avslått">
 <!ENTITY InputDisabled.accesskey "å">
 <!ENTITY tabIndex.label "Tabulatorindeks">
 <!ENTITY tabIndex.accesskey "I">

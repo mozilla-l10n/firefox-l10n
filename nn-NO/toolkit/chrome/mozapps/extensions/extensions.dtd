@@ -15,7 +15,7 @@
 <!ENTITY cmd.forward.tooltip                  "Gå fram ei side">
 
 <!-- global warnings -->
-<!ENTITY warning.safemode.label                    "Alle utvidingar er slått av av trygg modus.">
+<!ENTITY warning.safemode.label                    "Alle utvidingar er avslått av trygg modus.">
 <!ENTITY warning.checkcompatibility.label          "Kompatiblitetskonroll er slått av. Du kan ha ikkje-kompatible utvidingar.">
 <!ENTITY warning.checkcompatibility.enable.label   "Slå på">
 <!ENTITY warning.checkcompatibility.enable.tooltip "Slå på kompatibilitetskontroll">
@@ -170,7 +170,7 @@
 <!-- LOCALIZATION NOTE (addon.disabled.postfix): This is used in a normal list
      to signify that an add-on is disabled, in the form
      "<Addon name> <1.0> (disabled)" -->
-<!ENTITY addon.disabled.postfix               "(slått av)">
+<!ENTITY addon.disabled.postfix               "(avslått)">
 <!-- LOCALIZATION NOTE (addon.update.postfix): This is used in the available
      updates list to signify that an item is an update, in the form
      "<Addon name> <1.1> Update". It is fine to use constructs like brackets if
