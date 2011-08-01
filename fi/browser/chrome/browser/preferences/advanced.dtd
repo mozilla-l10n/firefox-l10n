@@ -29,6 +29,8 @@
 <!ENTITY checkNow.accesskey              "T">
 <!ENTITY submitCrashes.label             "Lähetä kaatumisilmoitus">
 <!ENTITY submitCrashes.accesskey         "ä">
+<!ENTITY submitTelemetry.label           "Lähetä suorityskykytietoja">
+<!ENTITY submitTelemetry.accesskey       "h">
 
 <!ENTITY networkTab.label                "Verkko">
 

@@ -61,8 +61,8 @@
 <!ENTITY  dontrememberActions.clearHistory.label "poistaa kaikki kerätyt historiatiedot">
 <!ENTITY  dontrememberActions.post.label         ".">
 
-<!ENTITY  privateBrowsingPermanent.label "Pysyvä yksityinen selaus -tila">
-<!ENTITY  privateBrowsingPermanent.accesskey "s">
+<!ENTITY  privateBrowsingPermanent2.label "Selaa aina yksityinen selaus -tilassa">
+<!ENTITY  privateBrowsingPermanent2.accesskey "S">
 
 <!ENTITY  rememberHistory.label      "Säilytä selaushistoriani">
 <!ENTITY  rememberHistory.accesskey  "e">

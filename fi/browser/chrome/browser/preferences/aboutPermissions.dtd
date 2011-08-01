@@ -22,9 +22,9 @@
 <!ENTITY password.manage                 "Tallennetut salasanat…">
 
 <!ENTITY cookie.label                    "Aseta evästeitä">
-<!ENTITY cookie.clear                    "Poista evästeitä">
+<!ENTITY cookie.remove                   "Poista evästeitä">
 <!ENTITY cookie.manage                   "Näytä evästeet…">
-<!ENTITY cookie.clearAll                 "Poista kaikki evästeet">
+<!ENTITY cookie.removeAll                "Poista kaikki evästeet">
 
 <!ENTITY geo.label                       "Kerro sijainti">
 

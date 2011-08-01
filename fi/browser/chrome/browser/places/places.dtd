@@ -28,10 +28,12 @@
 <!ENTITY cmd.findCurrent.label          "Etsi valitusta kokoelmasta…">
 <!ENTITY cmd.findCurrent.accesskey      "t">
 
-<!ENTITY cmd.exportHTML.label           "Vie HTML-tiedosto…">
-<!ENTITY cmd.exportHTML.accesskey       "V">
-<!ENTITY cmd.importHTML.label           "Tuo HTML-tiedosto…">
-<!ENTITY cmd.importHTML.accesskey       "T">
+<!ENTITY importBookmarksFromHTML.label     "Tuo kirjanmerkit HTML-tiedostosta…">
+<!ENTITY importBookmarksFromHTML.accesskey "T">
+<!ENTITY exportBookmarksToHTML.label       "Vie kirjanmerkit HTML-tiedostoon…">
+<!ENTITY exportBookmarksToHTML.accesskey   "V">
+<!ENTITY importOtherBrowser.label          "Tuo tietoja toisesta selaimesta…">
+<!ENTITY importOtherBrowser.accesskey      "u">
 
 <!ENTITY cmd.backup.label               "Varmuuskopioi…">
 <!ENTITY cmd.backup.accesskey           "V">

@@ -15,13 +15,13 @@
 <!ENTITY robots.errorLongDesc1 "Robotti ei saa vahingoittaa ihmistä, eikä laiminlyönnin johdosta saattaa tätä vahingoittumaan.">
 <!-- Movie: Blade Runner. Batty: "I've seen things you people wouldn't believe..." -->
 <!ENTITY robots.errorLongDesc2 "Robotit ovat nähneet asioita, joita te ihmiset ette uskoisi.">
-<!-- Book: Hitchiker's Guide To The Galaxy. What the Sirius Cybernetics Corporation calls robots. -->
+<!-- Book: Hitchhiker's Guide To The Galaxy. What the Sirius Cybernetics Corporation calls robots. -->
 <!ENTITY robots.errorLongDesc3 "Robotit ovat muovikavereita, joiden kanssa viihtyy">
 <!-- TV: Futurama. Bender's first line is "Bite my shiny metal ass." -->
 <!ENTITY robots.errorLongDesc4 "Roboteilla on kiiltävä metallinen takamus, jota ei saa purra.">
 <!-- TV: Battlestar Galactica (2004 series). From the opening text. -->
 <!ENTITY robots.errorTrailerDescText "Ja heillä on suunnitelma.">
 <!-- TV: Battlestar Galactica (2004 series). Common expletive referring to Cylons. -->
-<!ENTITY robots.imgtitle "Frakkin leivänpaahtimet">
-<!-- Book: Hitchiker's Guide To The Galaxy. Arthur presses a button and it warns him. -->
+<!ENTITY robots.imgtitle "Frakin' leivänpaahtimet">
+<!-- Book: Hitchhiker's Guide To The Galaxy. Arthur presses a button and it warns him. -->
 <!ENTITY robots.dontpress "Älä paina tätä nappia uudestaan.">
