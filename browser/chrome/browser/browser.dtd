@@ -25,8 +25,8 @@
 <!ENTITY printCmd.label "ಮುದ್ರಿಸು...">
 <!ENTITY printCmd.accesskey "P">
 <!ENTITY printCmd.commandkey "p">
-<!ENTITY import.label "ಆಮದು ಮಾಡಿಕೊ...">
-<!ENTITY import.accesskey "I">
+<!--ENTITY import.label "ಆಮದು ಮಾಡಿಕೊ..."-->
+<!--ENTITY import.accesskey "I"-->
 
 <!ENTITY goOfflineCmd.label "ಆಫ್‍ಲೈನ್‍ನಲ್ಲಿ ಕೆಲಸ ಮಾಡು">
 <!ENTITY goOfflineCmd.accesskey "w">
@@ -438,23 +438,23 @@
 <!ENTITY inspectMenu.label            "ಪರಿಶೀಲಿಸು">
 <!ENTITY inspectMenu.accesskey        "T">
 <!ENTITY inspectMenu.commandkey       "I">
-<!ENTITY inspectNextButton.label      "ಮುಂದಿನ">
-<!ENTITY inspectNextButton.accesskey  "N">
-<!ENTITY inspectPreviousButton.label  "ಹಿಂದಿನ">
-<!ENTITY inspectPreviousButton.accesskey "P">
-<!ENTITY inspectStylePanelTitle.label  "ಶೈಲಿ">
+<!--ENTITY inspectNextButton.label      "ಮುಂದಿನ"-->
+<!--ENTITY inspectNextButton.accesskey  "N"-->
+<!--ENTITY inspectPreviousButton.label  "ಹಿಂದಿನ"-->
+<!--ENTITY inspectPreviousButton.accesskey "P"-->
+<!--ENTITY inspectStylePanelTitle.label  "ಶೈಲಿ"-->
 <!-- LOCALIZATION NOTE (inspectObjectButton.label): This button label
   -  appears on the Inspector's toolbar. It is used to open and close the Object
   -  panel. There is also a label in inspector.properties for the panel
   -  titlebar: object.objectPanelTitle. -->
-<!ENTITY inspectObjectButton.label       "ವಸ್ತು">
-<!ENTITY inspectObjectButton.accesskey   "O">
+<!--ENTITY inspectObjectButton.label       "ವಸ್ತು"-->
+<!--ENTITY inspectObjectButton.accesskey   "O"-->
 
 <!ENTITY inspectPanelTitle.label      "HTML">
 
-<!ENTITY inspectStyleButton.label     "ಶೈಲಿ">
-<!ENTITY inspectStyleButton.accesskey "S">
-<!ENTITY inspectStylePanelTitle.label  "ಶೈಲಿ">
+<!--ENTITY inspectStyleButton.label     "ಶೈಲಿ"-->
+<!--ENTITY inspectStyleButton.accesskey "S"-->
+<!--ENTITY inspectStylePanelTitle.label  "ಶೈಲಿ"-->
 
 <!ENTITY  listAllTabs.label      "ಎಲ್ಲಾ ಹಾಳೆಗಳನ್ನು ಪಟ್ಟಿ ಮಾಡು">
 
