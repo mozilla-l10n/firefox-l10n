@@ -51,6 +51,7 @@
 <!ENTITY  font.langGroup.telugu                   "Тэлүгү">
 <!ENTITY  font.langGroup.kannada                  "Канада">
 <!ENTITY  font.langGroup.sinhala                  "Синхала">
+<!ENTITY  font.langGroup.tibetan                  "Төвд">
 <!-- Minimum font size -->
 <!ENTITY minSize.label                            "Үсгийн бага хэмжээ:">
 <!ENTITY minSize.accesskey                        "ж">

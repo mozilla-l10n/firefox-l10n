@@ -13,3 +13,5 @@
 <!ENTITY  panePrivacy.title       "Хувийн нууц">
 <!ENTITY  paneSecurity.title     "Нууцлал">
 <!ENTITY  paneAdvanced.title      "Нэмэлт">
+
+<!ENTITY  paneSync.title          "Ижилсүүлэх">
