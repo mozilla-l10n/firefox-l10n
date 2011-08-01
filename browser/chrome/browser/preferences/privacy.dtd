@@ -63,8 +63,8 @@
 <!ENTITY  dontrememberActions.clearHistory.label "бүх үзсэн вэб хуудасын жагсаалтыг арилгаж">
 <!ENTITY  dontrememberActions.post.label         "болно.">
 
-<!ENTITY  privateBrowsingPermanent.label "Түр хувийн мэдээлэл хамгаалах горим">
-<!ENTITY  privateBrowsingPermanent.accesskey "P">
+<!ENTITY  privateBrowsingPermanent2.label "Түр хувийн мэдээлэл хамгаалах горим">
+<!ENTITY  privateBrowsingPermanent2.accesskey "P">
 
 <!ENTITY  rememberHistory.label      "Үзсэн вэб хуудасын жагсаалт санах">
 <!ENTITY  rememberHistory.accesskey  "b">
