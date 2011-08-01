@@ -1,0 +1,5 @@
+<!ENTITY quota.dialogTitle.label    "Серверийн хэмжээ">
+<!ENTITY quota.retrievingInfo.label "Серверийн хэмжээний мэдээлэл…">
+<!ENTITY quota.typeColumn.label     "Төрөл">
+<!ENTITY quota.sizeColumn.label     "Хэмжээ">
+
