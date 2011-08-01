@@ -18,16 +18,6 @@
 
 
 
-# LOCALIZATION NOTE (bookmarks_welcome):
-
-
-# link title for about:firstrun
-
-
-#define bookmarks_welcome فَيَرفُكس: مرحبًا
-
-
-
 # LOCALIZATION NOTE (bookmarks_aboutBrowser):
 
 

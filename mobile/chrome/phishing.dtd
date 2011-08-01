@@ -20,7 +20,9 @@
 <!ENTITY safeb.blocked.malwarePage.shortDesc "أُبلغ عن صفحة الوب في <span id='malware_sitename'/> أنها صفحة هجوم، وقد حُظرت بناءً على تفضيلات متصفحك الأمنية.">
 <!ENTITY safeb.blocked.malwarePage.longDesc "<p>تحاول صفحات الهجوم تثبيت برامج على جهازك تسرق المعلومات الحساسة، أو تستخدم جهازك لمهاجمة الآخرين، أو تخرب نظامك.</p><p>بعض صفحات الهجوم تقدم البرامج الخبيثة عمدًا، ولكن معظمها يفعل ذلك دون علم أو إذن من أصحابها الأصليين لأنها تكون مخترقة.</p>">
 
-<!ENTITY safeb.blocked.phishingPage.title2 "تزوير وب مشتبه به!">
-<!ENTITY safeb.blocked.phishingPage.shortDesc2 "إدخالك لمعلومات شخصية في هذه الصفحة قد يؤدي إلى سرقة هويتك وانتحال شخصيتك أو أنواع أخرى من الاحتيالات.">
-<!ENTITY safeb.blocked.phishingPage.longDesc2 "<p>تُعرف تزويرات الوب هذه بهجمات التصيّد، حيث تحاول صفحات الوب والرسائل البريدية المخادعة تقليد المؤسسات والشركات التي تثق بها أنت.</p>">
+<!ENTITY safeb.blocked.phishingPage.title "صفحة وب مزوّرة مُبلّغ عنها!">
+<!-- Localization note (safeb.blocked.phishing.shortDesc) - Please don't translate the contents of the <span id="phishing_sitename"/> tag. It will be replaced at runtime with a domain name (e.g. www.badsite.com) -->
+<!ENTITY safeb.blocked.phishingPage.shortDesc "بُلّغ عن الصفحة في <span id='phishing_sitename'/> أنها صفحة وب مُزوّرة، وقد حُظرت بناءً على تفضيلات متصفحك الأمنية.">
+<!ENTITY safeb.blocked.phishingPage.longDesc "<p>تهدف الصفحات المزوّرة إلى خداعك وجعلك تكشف عن معلومات شخصية أو مالية، وذلك من خلال تقليد المصادر التي تثق بها.</p><p>إدخال أي معلومات على هذه الصفحة قد يؤدي إلى انتحال الهوية أو عمليات احتيال أخرى.</p>">
+
 

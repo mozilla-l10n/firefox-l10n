@@ -13,6 +13,8 @@ was trying to connect. -->
 
 <!ENTITY certerror.introPara1 "لقد طلبتَ من &brandShortName; الاتصال بأمان إلى 
 <b>#1</b>، ولكن لا شيء يؤكد أن اتصالك سيكون آمنًا.">
+<!ENTITY certerror.introPara2 "في العادة عندما تحاول إنشاء اتصال آمن، تقدّم المواقع تعريفًا موثوقًا لإثبات أنك ذاهب إلى المكان الصحيح، إلا أنّه تعذر التحقق من هوية هذا النوقع.">
+
 
 <!ENTITY certerror.whatShouldIDo.heading "ماذا ينبغي أن أفعل؟">
 <!ENTITY certerror.whatShouldIDo.content "إن كنتَ تتصل عادة بهذا الموقع دون مشكلات، فهذا يعني أن أحدًا يحاول تقمص هوية الموقع، وينبغي عليك ألا تتابع.">
