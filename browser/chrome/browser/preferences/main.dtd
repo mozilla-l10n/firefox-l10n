@@ -32,3 +32,6 @@
 <!ENTITY manageAddonsDescUnix2.label   "Нэмэгдлүүдийн тохиргоог өөрчлөх">
 <!ENTITY manageAddons.label            "Нэмэгдлүүдийг зохицуул…">
 <!ENTITY manageAddons.accesskey        "з">
+
+<!ENTITY homepage.label            "Нүүр хуудас:">
+<!ENTITY homepage.accesskey        "P">

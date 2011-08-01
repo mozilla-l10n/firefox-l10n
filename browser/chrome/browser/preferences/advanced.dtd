@@ -82,3 +82,19 @@
 <!ENTITY viewSecurityDevices.label       "Нууцлалын төхөөрөмж">
 <!ENTITY viewSecurityDevices.accesskey   "ц">
 
+<!ENTITY allowHWAccel.label              "Боломжтой бол hardware хурдасгал ашиглах">
+<!ENTITY allowHWAccel.accesskey          "v">
+
+<!ENTITY enableAddonsUpdate2.label       "Нэмэгдэл зүйлс">
+<!ENTITY enableAddonsUpdate2.accesskey   "A">
+
+<!ENTITY limitCacheSizeAfter.label       "MB зай">
+
+<!ENTITY limitCacheSizeBefore.label      "Хэмжээний хязгаарлалт">
+<!ENTITY limitCacheSizeBefore.accesskey  "L">
+<!ENTITY overrideSmartCacheSize.label    "Автомат cache хэмжээг зохицуулах">
+<!ENTITY overrideSmartCacheSize.accesskey "O">
+<!ENTITY submitCrashes.label             "Алдааны мэдээлэлийг илгээх">
+<!ENTITY submitCrashes.accesskey         "r">
+
+
