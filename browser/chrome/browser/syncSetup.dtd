@@ -36,7 +36,6 @@
 <!ENTITY setup.newSyncKeyPage.description.label "За да се осигура Вашата целосна приватност, сите податоци се шифрираат пред да бидат испратени. Клучот за Sync кој е неопходен за дешифрирање на Вашите податоци не се испраќа до серверот.">
 <!ENTITY syncKeyEntry.label "Вашиот клуч Sync">
 <!ENTITY syncKeyEntry.accesskey "к">
-<!ENTITY syncKeyGenerate.label "Генерирај">
 <!ENTITY syncKeyBackup.description "Вашиот клуч за Sync е потребен за да се пристапи до &syncBrand.fullName.label; на другите машини. Ве молиме креирајте резрвна копија. Не можеме да Ви помогнеме да го добиете назад.">
 
 <!ENTITY button.syncKeyBackup.print.label "Печати…">
@@ -111,3 +110,5 @@
 <!ENTITY signIn.account2.label      "Сметка">
 <!ENTITY signIn.syncKey.accesskey   "К">
 <!ENTITY signIn.syncKey.label       "Клуч за Sync">
+
+<!ENTITY syncGenerateNewKey.label  "Генерирај нов клуч">

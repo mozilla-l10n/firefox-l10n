@@ -26,11 +26,6 @@
 
 <!ENTITY view.search.label "Барај…">
 <!ENTITY view.discover.label "Земи додатоци">
-<!ENTITY view.locales.label "Јазици">
-<!ENTITY view.searchengines.label "Сервиси за пребарување">
-<!ENTITY view.features.label "Проширувања">
-<!ENTITY view.appearance2.label "Изглед">
-<!ENTITY view.plugins.label "Приклучоци">
 <!ENTITY view.recentUpdates.label "Скорешни надградби">
 <!ENTITY view.availableUpdates.label "Достапни надградби">
 <!-- addon updates -->
@@ -189,3 +184,8 @@
 
 <!ENTITY eula.title                           "Лиценца за крајниот корисник">
 <!ENTITY eula.width                           "560px">
+
+
+<!-- global informations -->
+<!ENTITY info.plugincheck.label                 "Проверете дали Вашите приклучоци се најнова верзија">
+<!ENTITY info.plugincheck.tooltip               "Проверете дали Вашите приклучоци се најнова верзија">

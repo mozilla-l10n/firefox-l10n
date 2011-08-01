@@ -19,9 +19,7 @@
 
 <!ENTITY pluginWizard.finalPage.moreInfo.label "Дознајте повеќе за приклучоците или рачно побарајте ги оние кои недостасуваат.">
 <!ENTITY pluginWizard.finalPage.restart.label "&brandShortName; треба да се рестартира за приклучоците да работат.">
-  
-<!ENTITY missingPlugin.label "Кликнете овде за да го преземете приклучокот">
-<!ENTITY disabledPlugin.label "Приклучокот за оваа содржина е оневозможен. Кликете овде за да управувате со Вашите приклучоци.">
+
 <!ENTITY blockedPlugin.label "Овој приклучок е блокиран заради Ваша заштита.">
 <!-- LOCALIZATION NOTE (reloadPlugin.pre): include a trailing space as needed -->
 <!-- LOCALIZATION NOTE (reloadPlugin.middle): avoid leading/trailing spaces, this text is a link -->
@@ -36,3 +34,10 @@
 <!ENTITY report.disabled "Праќањето извештаи е исклучено.">
 <!ENTITY report.failed "Праќањето не успеа.">
 <!ENTITY report.unavailable "Не е достапен извештај.">
+
+<!ENTITY disabledPlugin                  "Овој приклучок е оневозможен.">
+
+<!ENTITY installPlugin                                       "Инсталирај приклучок…">
+<!ENTITY managePlugins                                       "Уредување на приклучоците…">
+
+<!ENTITY missingPlugin                                       "За да се прикаже оваа содржина потребен е приклучок.">
