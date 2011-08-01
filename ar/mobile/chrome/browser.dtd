@@ -92,7 +92,6 @@
 <!ENTITY contextOpenInNewTab.label "افتح الوصلة في لسان جديد">
 <!ENTITY contextSaveLink.label "احفظ الوصلة">
 <!ENTITY contextSaveImage.label "احفظ الصورة">
-<!ENTITY contextCopyLink.label        "انسخ الوصلة">
 <!ENTITY contextShareLink.label "تشارك الوصلة">
 <!ENTITY contextShareImage.label "تشارك الصورة">
 <!ENTITY contextBookmarkLink.label "علّم الوصلة">
@@ -112,6 +111,5 @@
 <!ENTITY pageactions.findInPage "ابحث في الصفحة">
 <!ENTITY pageactions.search.addNew "أضِف محرك بحث">
 <!ENTITY pageactions.charEncoding "ترميز المحارف">
-<!ENTITY pageactions.webapps.install "ثبّت كتطبيق">
 
 <!ENTITY appMenu.siteOptions "خيارات الموقع">

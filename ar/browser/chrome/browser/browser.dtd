@@ -111,8 +111,6 @@ can reach it easily. -->
 <!ENTITY forwardCmd.label "للأمام">
 <!ENTITY forwardCmd.accesskey "م">
 <!ENTITY forwardButton.tooltip "اذهب للأمام صفحة واحدة">
-<!ENTITY backForwardButtonMenu.tooltip "انقر بالزر الأيمن أو اسحب إلى الأسفل لإظهار التأريخ">
-<!ENTITY backForwardButtonMenuMac.tooltip "اسحب إلى الأسفل لإظهار التأريخ">
 <!ENTITY reloadCmd.label "أعِد التحميل">
 <!ENTITY reloadCmd.accesskey "ع">
 <!ENTITY reloadButton.tooltip "أعِد تحميل الصفحة الحاليّة">

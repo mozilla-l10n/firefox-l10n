@@ -17,6 +17,4 @@
 <!ENTITY exit_label "اخرج">
 <!ENTITY continue_label "استمر">
 
-<!ENTITY  launcher_shortcuts_title "تطبيقات وب &brandShortName;">
-<!ENTITY  launcher_shortcuts_empty "لم يُعثر على أي تطبيق وب">
 
