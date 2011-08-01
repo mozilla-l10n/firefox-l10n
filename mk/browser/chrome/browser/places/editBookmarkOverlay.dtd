@@ -6,7 +6,6 @@
 <!ENTITY editBookmarkOverlay.feedLocation.accesskey "к">
 <!ENTITY editBookmarkOverlay.siteLocation.label "Локација на местото:">
 <!ENTITY editBookmarkOverlay.siteLocation.accesskey "с">
-<!ENTITY editBookmarkOverlay.liveTitlesSeparator.label "Активни наслови">
 <!ENTITY editBookmarkOverlay.folder.label "Папка:">
 <!ENTITY editBookmarkOverlay.foldersExpanderDown.tooltip "Ги прикажува сите папки со обележувачи">
 <!ENTITY editBookmarkOverlay.expanderUp.tooltip "Крие">

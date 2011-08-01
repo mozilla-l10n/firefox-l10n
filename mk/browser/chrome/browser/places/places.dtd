@@ -6,12 +6,9 @@
 <!ENTITY organize.accesskey "О">
 <!ENTITY organize.tooltip "Ораганизирајте ги Вашите обележувачи">
 
-<!ENTITY file.accesskey "Д">
 <!ENTITY file.close.label "Затвори">
 <!ENTITY file.close.accesskey "З">
 <!ENTITY cmd.close.key "w">
-<!ENTITY edit.label "Уреди">
-<!ENTITY edit.accesskey "е">
 <!ENTITY views.label "Поглед">
 <!ENTITY views.accesskey "П">
 <!ENTITY views.tooltip "Смени го погледот">
@@ -76,8 +73,6 @@
 
 <!ENTITY cmd.reloadLivebookmark.label "Превчитај го активниот обележувач">
 <!ENTITY cmd.reloadLivebookmark.accesskey "р">
-<!ENTITY cmd.reloadMicrosummary.label "Превчитај го активниот наслов">
-<!ENTITY cmd.reloadMicrosummary.accesskey "р">
 
 <!ENTITY cmd.moveBookmarks.label "Премести…">
 <!ENTITY cmd.moveBookmarks.accesskey "м">
@@ -111,17 +106,14 @@
 <!ENTITY maintenance.accesskey "з">
 <!ENTITY maintenance.tooltip "Увезее ги и направете резерва од Вашите обележувачи">
 
-<!ENTITY backCmd.label "Назад">
 <!ENTITY backButton.tooltip "Оди назад">
 
-<!ENTITY forwardCmd.label "Напред">
 <!ENTITY forwardButton.tooltip "Оди напред">
 
 <!ENTITY detailsPane.more.label "Повеќе">
 <!ENTITY detailsPane.more.accesskey "е">
 <!ENTITY detailsPane.less.label "Помалку">
 <!ENTITY detailsPane.less.accesskey "о">
-<!ENTITY detailsPane.noPreviewAvailable.label "Преглед">
 <!ENTITY detailsPane.selectAnItemText.description "Одберете ставка за преглед и уредете ги нејзините својства">
 
 <!ENTITY byDate.accesskey         "Д">
