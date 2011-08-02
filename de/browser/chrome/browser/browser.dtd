@@ -104,7 +104,7 @@ can reach it easily. -->
 <!ENTITY subscribeToPageMenuitem.label "Diese Seite abonnieren…">
 <!ENTITY addCurPagesCmd.label "Lesezeichen für alle Tabs hinzufügen…">
 <!ENTITY showAllBookmarks2.label "Alle Lesezeichen anzeigen">
-<!ENTITY bookmarkAllCmd.label "Lesezeichen für alle Tabs hinzufügen…">
+<!ENTITY unsortedBookmarksCmd.label "Unsortierte Lesezeichen">
 <!ENTITY bookmarksToolbarChevron.tooltip "Weitere Lesezeichen anzeigen">
 
 <!ENTITY backCmd.label                "Zurück">
