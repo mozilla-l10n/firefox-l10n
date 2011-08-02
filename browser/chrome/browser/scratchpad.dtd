@@ -94,7 +94,7 @@
   -->
 <!ENTITY browserContext.label         "Прелистувач">
 <!ENTITY browserContext.accesskey     "ч">
-4
+
 <!-- LOCALIZATION NOTE (resetContext.label): This command allows the developer
   -  to reset/clear the global object of the environment where the code executes.
   -->
