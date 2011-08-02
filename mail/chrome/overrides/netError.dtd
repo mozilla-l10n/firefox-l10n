@@ -53,9 +53,9 @@
 <!ENTITY netInterrupt.longDesc "&sharedLongDesc;">
 
 <!ENTITY netOffline.title "Offline-moadus">
-<!ENTITY netOffline.longDesc "
+<!ENTITY netOffline.longDesc2 "
 <ul>
-  <li>Finkje &quot;Offline werken&quot; yn it menu Bestân út en besykje it op 'e nij.</li>
+  <li>Klik &quot;Probearje opnij&quot; om nij online moadus te gean en laad de side opnij.</li>
 </ul>
 ">
 
@@ -162,6 +162,10 @@ Oanfal sides probearje om programmatuer te ynstallearjen dy't privee-ynformaasje
 
 <!ENTITY cspFrameAncestorBlocked.title "Blokkearre troch ynhâldsfeilichheidsbelied">
 <!ENTITY cspFrameAncestorBlocked.longDesc "<p>&brandShortName; hat foarkommen dat dizze side laden op dizze wize wurdt, omdat de side in ynhâldsfeilichheidsbelied hat dy't dat net tastiet.</p>">
+
+<!ENTITY corruptedContentError.title "Korruptearre ynhâldsflater">
+<!ENTITY corruptedContentError.longDesc "<p>De side dy't jo probearje te besjen kin net toand wurde omdat der in flater yn de gegevensoerdracht ûntdekt waard.</p><ul><li>Nim kontakt op mei de webstee-eigners om se te ynformearjen oer dit probleem.</li></ul>">
+
 
 <!ENTITY securityOverride.linkText "Of jo kinne in útsûndering tafoegje...">
 <!ENTITY securityOverride.getMeOutOfHereButton "Helje My Hjir út!">
