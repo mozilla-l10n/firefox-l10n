@@ -26,7 +26,7 @@
 
 <!ENTITY netOffline.title "Рад ван мреже">
 <!ENTITY netOffline.longDesc "<ul> <li>Дештиклирај &quot;Рад ван мреже&quot; у менију Датотека, па покушајте поново.</li> </ul>">
-<!ENTITY netOffline.overrideLongDesc "<p>The browser is operating in its offline mode and cannot connect to the requested item.</p><ul><li>Is the computer connected to an active network?</li><li>Place the browser in online mode and try again.</li></ul>">
+<!ENTITY netOffline.overrideLongDesc "<p>Читач није повезан на мрежу и не може да добави захтевану ставку.</p><ul><li>Да ли је рачунар прикључен на активну мрежу?</li><li>Прикључите читач на мрежу и пробајте поново.</li></ul>">
 
 <!ENTITY contentEncodingError.title "Грешка у кодирању садржаја">
 <!ENTITY contentEncodingError.longDesc "<p>Страна коју покушавате да прегледате не може бити приказана јер користи неисправан или неподржан вид компресије.</p><ul><li>Молимо да се обратите власницима сајта и обавестите их о овом проблему.</li></ul>">

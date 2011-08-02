@@ -1,6 +1,6 @@
 <!ENTITY  splash_screen_label "учитава се">
 <!ENTITY  splash_screen_installing "инсталација библиотека\u2026">
-<!ENTITY  incompatable_cpu_error "This device does not meet the minimum system requirements for &brandShortName;.">
+<!ENTITY  incompatable_cpu_error "Овај уређај не испуњава минималне системске захтеве програма &brandShortName;.">
 <!ENTITY  no_space_to_start_error "Нема довољно простора да би се програм &brandShortName; покренуо.">
 <!ENTITY  error_loading_file "Дошло је до грешке при учитавању датотека неопходних за рад програма &brandShortName;">
 
@@ -13,6 +13,5 @@
 <!ENTITY  crash_restart_label "Поново покрени програм &brandShortName;">
 <!ENTITY  sending_crash_report "Извештај о рушењу се шаље\u2026">
 <!ENTITY  exit_label "Крај">
-<!ENTITY  incompatable_device "&brandShortName; does not support this device and you may experience
-problems.">
+<!ENTITY  incompatable_device "Програм &brandShortName; не подржава овај уређај и стога можете имати проблема у употреби.">
 <!ENTITY  continue_label "Даље">

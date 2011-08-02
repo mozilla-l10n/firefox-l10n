@@ -6,10 +6,10 @@
 
 <!-- Specific error messages -->
 
-<!ENTITY connectionFailure.title "Subukan muli">
+<!ENTITY connectionFailure.title "Повезивање није успело">
 <!ENTITY connectionFailure.longDesc "&sharedLongDesc;">
 
-<!ENTITY deniedPortAccess.title "Ang address na ito ay may restriksyon">
+<!ENTITY deniedPortAccess.title "Приступ овој адреси је ограничен">
 <!ENTITY deniedPortAccess.longDesc "">
 
 <!ENTITY dnsNotFound.title "Сервер није пронађен">
@@ -31,15 +31,8 @@
 <!ENTITY generic.title "Ay!">
 <!ENTITY generic.longDesc "<p>Програм &brandShortName; из неког разлога не може да учита ову страну.</p>">
 
-<!ENTITY malformedURI.title "Ang address ay hindi tama">
-<!ENTITY malformedURI.longDesc "
-<ul>
-  <li>Địa chỉ Web thường được viết như sau
-    <strong>http://www.example.com/</strong></li>
-  <li>Hãy chắc rằng bạn đang dùng dấu chéo lên (vd.
-    <strong>/</strong>).</li>
-</ul>
-">
+<!ENTITY malformedURI.title "Адреса је неважећа">
+<!ENTITY malformedURI.longDesc "<ul> <li>Интернет адресе су обично типа <strong>http://www.example.com/</strong></li> <li>Проберите да ли користите исправне знакове (нпр.<strong>/</strong>).</li> </ul>">
 
 <!ENTITY netInterrupt.title "Веза је прекинута">
 <!ENTITY netInterrupt.longDesc "&sharedLongDesc;">
@@ -126,7 +119,7 @@
 <!ENTITY cspFrameAncestorBlocked.longDesc "<p>&brandShortName; је спречио учитавање ове странице на овај начин, јер садржи полису о безбедности садржаја која то онемогућава.</p>">
 
 <!ENTITY securityOverride.linkText "Или можете додати изузетак…">
-<!ENTITY securityOverride.getMeOutOfHereButton "Alisin ako dito!">
+<!ENTITY securityOverride.getMeOutOfHereButton "Води ме одавде!">
 <!ENTITY securityOverride.exceptionButtonLabel "Додај изузетак…">
 
 <!-- LOCALIZATION NOTE (securityOverride.warningContent) - Do not translate the
