@@ -29,10 +29,9 @@
 <!ENTITY cmd.findCurrent.label          "ಈಗಿನ ಸಂಗ್ರಹದಲ್ಲಿ ಹುಡುಕು…">
 <!ENTITY cmd.findCurrent.accesskey      "i">
 
-<!ENTITY cmd.exportHTML.label           "ಎಚ್‌ಟಿಎಂಲ್ ಅನ್ನು ಕಳುಹಿಸು…">
-<!ENTITY cmd.exportHTML.accesskey       "E">
-<!ENTITY cmd.importHTML.label           "ಎಚ್‌ಟಿಎಂಲ್ ಅನ್ನು ಪಡೆದುಕೊ…">
-<!ENTITY cmd.importHTML.accesskey       "I">
+<!--ENTITY cmd.exportHTML.label           "ಎಚ್‌ಟಿಎಂಲ್ ಅನ್ನು ಕಳುಹಿಸು…"-->
+<!--ENTITY cmd.importHTML.label           "ಎಚ್‌ಟಿಎಂಲ್ ಅನ್ನು ಪಡೆದುಕೊ…"-->
+<!--ENTITY cmd.importHTML.accesskey       "I"-->
 
 <!ENTITY cmd.backup.label               "ಬ್ಯಾಕ್ಅಪ್…">
 <!ENTITY cmd.backup.accesskey           "B">
@@ -143,3 +142,12 @@
 <!ENTITY byLastVisited.accesskey  "L">
 <!ENTITY byDayAndSite.label       "ದಿನಾಂಕ ಹಾಗು ತಾಣದ ಆಧಾರದಲ್ಲಿ">
 <!ENTITY byDayAndSite.accesskey   "t">
+
+<!ENTITY importBookmarksFromHTML.label     "ಎಚ್‌ಟಿಎಮ್‌ಎಲ್ ಅನ್ನು ಇಲ್ಲಿಂದ ಆಮದು ಮಾಡಿ…">
+<!ENTITY importBookmarksFromHTML.accesskey "I">
+<!ENTITY exportBookmarksToHTML.label       "ಎಚ್‌ಟಿಎಮ್‌ಎಲ್ ಅನ್ನು ಇಲ್ಲಿಂದ ರಫ್ತು ಮಾಡಿ…">
+<!ENTITY exportBookmarksToHTML.accesskey   "E">
+<!ENTITY importOtherBrowser.label          "ಇನ್ನೊಂದು ವೀಕ್ಷಕದಿಂದ ಮಾಹಿತಿಯನ್ನು ಆಮದು ಮಾಡಿ…">
+<!ENTITY importOtherBrowser.accesskey      "A">
+
+

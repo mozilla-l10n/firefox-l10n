@@ -119,3 +119,6 @@
 
 <!ENTITY allowHWAccel.label              "ಲಭ್ಯವಿದ್ದಾಗ ಯಂತ್ರಾಂಶ ವೇಗವರ್ಧನೆಯನ್ನು ಬಳಸು">
 <!ENTITY enableAddonsUpdate2.label       "ಆಡ್-ಆನ್‌ಗಳು">
+<!ENTITY submitTelemetry.label           "ಕಾರ್ಯನಿರ್ವಹಣೆಯ ಮಾಹಿತಿಯನ್ನು ಸಲ್ಲಿಸು">
+<!ENTITY submitTelemetry.accesskey       "P">
+
