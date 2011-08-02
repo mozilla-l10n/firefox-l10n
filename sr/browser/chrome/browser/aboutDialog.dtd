@@ -63,9 +63,9 @@
 
 <!ENTITY channel.change             "Промени">
 
-<!ENTITY channel.release.description       "Enjoy the tried and tested final release being used by hundreds of millions around the world. Stay in control of your online experience with super speed, easy customization and the latest Web technologies.">
-<!ENTITY channel.beta.description          "Experience cutting edge features with more stability. Provide feedback to help refine and polish what will be in the final release.">
-<!ENTITY channel.aurora.description        "Experience the newest innovations in an unstable environment that's not for the faint of heart. Provide feedback on features and performance to help determine what makes the final release.">
+<!ENTITY channel.release.description       "Уживајте у опробаном завршном издању кога користе стотине милиона људи широм света.  Останите под контролом свог мрежног доживљаја користећи изванредну брзину, лако подешавање и најновије веб технологије.">
+<!ENTITY channel.beta.description          "Искусите најновије могућности и бољу стабилност.  Пошаљите повратне информације како бисмо побољшали и усавршили коначно издање.">
+<!ENTITY channel.aurora.description        "Искусите најновија достигнућа у развојној средини само за најхрабрије.  Пошаљите повратне информације о могућностима и перформансама како бисте одлучили шта ће ићи у коначно издање.">
 
 <!-- LOCALIZATION NOTE (channel.selector.start,channel.selector.end): channel.selector.start and
      channel.selector.end create one sentence, with a channel selection menulist instered in between.
