@@ -7,21 +7,18 @@
 <!-- Specific error messages -->
 
 <!ENTITY connectionFailure.title "Kin gjin ferbining meitsje">
-<!ENTITY connectionFailure.longDesc "&sharedLongDesc;">
+<!ENTITY connectionFailure.longDesc "&sharedLongDesc2;">
 
 <!ENTITY deniedPortAccess.title "Dit adres hat in beheinde tagong">
 <!ENTITY deniedPortAccess.longDesc "">
 
 <!ENTITY dnsNotFound.title "Tsjinner net fûn">
-<!ENTITY dnsNotFound.longDesc "
+<!ENTITY dnsNotFound.longDesc2 "
 <ul>
   <li>Kontrolearje it adres op typflaters as
     <strong>ww</strong>.foarbyld.com yn stee fan
     <strong>www</strong>.foarbyld.com</li>
-  <li>Kontrolearje jo netwurkferbining as jo gjin inkele side lade
-    kinne.</li>
-  <li>Gean nei oft &brandShortName; tagong hat ta it web of jo 
-    kompjûter of netwurk befeilige is troch in brânmuorre of proxytsjinner.</li>
+  <li>As jo gjin inkele side lade kinne, kontrolearje de data- of Wi-Fi-ferbining fan jo apparaat.</li>
 </ul>
 ">
 
@@ -50,12 +47,12 @@
 ">
 
 <!ENTITY netInterrupt.title "De ferbining waard ferbrutsen">
-<!ENTITY netInterrupt.longDesc "&sharedLongDesc;">
+<!ENTITY netInterrupt.longDesc "&sharedLongDesc2;">
 
 <!ENTITY netOffline.title "Offline-moadus">
-<!ENTITY netOffline.overrideLongDesc "
+<!ENTITY netOffline.longDesc2 "
 <ul>
-  <li>Probearje op 'e nij. &brandShortName; sil probearje om in ferbining te iepenjen en de side opnij te laden.</li>
+  <li>Klik &quot;Probearje opnij&quot; om nij online moadus te gean en laad de side opnij.</li>
 </ul>
 ">
 
@@ -74,10 +71,10 @@
 ">
 
 <!ENTITY netReset.title "De ferbining waard op 'e nij inisjalisearre">
-<!ENTITY netReset.longDesc "&sharedLongDesc;">
+<!ENTITY netReset.longDesc "&sharedLongDesc2;">
 
 <!ENTITY netTimeout.title "De wachttiid foar de ferbining is ferstrutsen">
-<!ENTITY netTimeout.longDesc "&sharedLongDesc;">
+<!ENTITY netTimeout.longDesc "&sharedLongDesc2;">
 
 <!ENTITY protocolNotFound.title "It adres waard net begrepen">
 <!ENTITY protocolNotFound.longDesc "
@@ -96,12 +93,10 @@
 ">
 
 <!ENTITY proxyResolveFailure.title "Kin de proxytsjinner net fine">
-<!ENTITY proxyResolveFailure.longDesc "
+<!ENTITY proxyResolveFailure.longDesc2 "
 <ul>
   <li>Kontrolearje oft jo proxy-ynstellings goed binne.</li>
-  <li>Gean nei oft jo kompjûter op in wurkjend netwurk oansletten is.</li>
-  <li>Gean nei oft &brandShortName; tagong hat ta it web of jo 
-    kompjûter of netwurk befeilige is troch in brânmuorre of proxytsjinner.</li>
+  <li>Kontrolearje oft jo apparaat in wurkjende data- of Wififerbining hat.</li>
 </ul>
 ">
 
@@ -138,30 +133,19 @@
 </ul>
 ">
 
-<!ENTITY sharedLongDesc "
+<!ENTITY sharedLongDesc2 "
 <ul>
-  <li>Miskien is it webstee tydlik net beskikber. Besykje it letter 
-    nochris.</li>
-  <li>Kontrolearje jo netwurkferbining as jo gjin inkele side lade kinne.</li>
-  <li>Gean nei oft &brandShortName; tagong hat ta it web, of dat jo 
-    kompjûter of netwurk befeilige is troch in brânmuorre of proxytsjinner.</li>
+  <li>Miskien is it webstee tydlik net beskikber. Besykje it letter nochris.</li>
+  <li>As jo gjin inkele side lade kinne, kontrolearje de data- of Wi-Fi-ferbining fan jo mobile apparaat.</li>
 </ul>
-">
-
-<!ENTITY malwareBlocked.title "Fertochte Oanfal Side!">
-<!ENTITY malwareBlocked.longDesc "<p>
-Oanfal sides probearje om programmatuer te ynstallearjen dy't privee-ynformaasje stêle kinne, jo komjûter brûke om oaren oan te fallen, of jo systeem skansearje.</p>
-<p>Jo soenen dizze side net besykje!</p>
-">
-
-<!ENTITY phishingBlocked.title "Fertochte Web Ferfalsking!">
-<!ENTITY phishingBlocked.longDesc "
-<p>It ynfieren fan persoanlike ynformaasje op dizze side kin resultearje yn identeitsstellerij of oare fraude.</p>
-<p>Dizze typen fan webferfalsking wurde brûkt yn scams bekend as phishing oanfallen, weryn frauduleuse websides en emails brûkt wurde om boarnes dy't jo fertrouwe te imitearjen.</p>
 ">
 
 <!ENTITY cspFrameAncestorBlocked.title "Blokkearre troch ynhâldsfeilichheidsbelied">
 <!ENTITY cspFrameAncestorBlocked.longDesc "<p>&brandShortName; hat foarkommen dat dizze side laden op dizze wize wurdt, omdat de side in ynhâldsfeilichheidsbelied hat dy't dat net tastiet.</p>">
+
+<!ENTITY corruptedContentError.title "Korruptearre ynhâldsflater">
+<!ENTITY corruptedContentError.longDesc "<p>De side dy't jo probearje te besjen kin net toand wurde omdat der in flater yn de gegevensoerdracht ûntdekt waard.</p><ul><li>Nim kontakt op mei de webstee-eigners om se te ynformearjen oer dit probleem.</li></ul>">
+
 
 <!ENTITY securityOverride.linkText "Of jo kinne in útsûndering tafoegje...">
 <!ENTITY securityOverride.getMeOutOfHereButton "Helje My Hjir út!">

@@ -14,9 +14,6 @@ be replaced at runtime with the name of the server to which the user
 was trying to connect. -->
 <!ENTITY certerror.introPara1 "Jo hawwe &brandShortName; frege om feilich 
 te ferbinen mei <b>#1</b>, mar wy kinne net befestigje dat de ferbining feilich is.">
-<!ENTITY certerror.introPara2 "Normaal, as jo besykje om feilich te ferbinen,
-sille sides fertroude identifikaasje presentearje om te bewizjen dat jo
-nei it goede plak geane. Dizze side syn identiteit kin echter net ferifiearre wurde.">
 
 <!ENTITY certerror.whatShouldIDo.heading "Wat moat ik dwaan?">
 <!ENTITY certerror.whatShouldIDo.content "As jo normaal ferbine mei

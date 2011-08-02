@@ -93,6 +93,7 @@
 <!ENTITY contextOpenInNewTab.label "Iepenje keppeling yn nij ljepblêd">
 <!ENTITY contextSaveLink.label     "Bearje keppeling">
 <!ENTITY contextSaveImage.label    "Bewarje ôfbylding">
+<!ENTITY contextCopyLink.label        "Kopiearje keppeling">
 <!ENTITY contextShareLink.label       "Diel keppeling">
 <!ENTITY contextShareImage.label      "Diel ôfbylding">
 <!ENTITY contextBookmarkLink.label    "Blêdwizerkeppeling">
@@ -107,9 +108,11 @@
 <!ENTITY pageactions.saveas.pdf      "Bewarje as PDF">
 <!ENTITY pageactions.share.page      "Diel side">
 <!ENTITY pageactions.password.forget "Ferjit wachtwurd">
+<!ENTITY pageactions.quit            "Slute">
 <!ENTITY pageactions.reset           "Wiskje websteefoarkarren">
 <!ENTITY pageactions.findInPage      "Fyn yn side">
 <!ENTITY pageactions.search.addNew   "Sykmasine tafoegje">
 <!ENTITY pageactions.charEncoding    "Karakterdekodearring">
+<!ENTITY pageactions.webapps.install "Ynstallearje as App">
 
 <!ENTITY appMenu.siteOptions         "Webstee-opsjes">
