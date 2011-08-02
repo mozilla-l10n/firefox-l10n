@@ -194,6 +194,7 @@
 <!-- global informations -->
 <!ENTITY info.plugincheck.label                 "ನಿಮ್ಮ ಪ್ಲಗ್‌ಇನ್‌ಗಳು ಅಪ್‌ ಟು ಡೇಟ್ ಆಗಿದ್ದಾವೆಯೆ ಎಂದು ಪರಿಶೀಲಿಸಿ">
 <!ENTITY info.plugincheck.tooltip               "ನಿಮ್ಮ ಪ್ಲಗ್‌ಇನ್‌ಗಳು ಅಪ್‌ ಟು ಡೇಟ್ ಆಗಿದ್ದಾವೆಯೆ ಎಂದು ಪರಿಶೀಲಿಸಿ">
+<!ENTITY settings.path.button.label           "ವೀಕ್ಷಿಸಿ…">
 
 
 

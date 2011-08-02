@@ -157,11 +157,11 @@
      since it could be in either the normal menu (Mac/Linux) or the Firefox button
      menu (Windows).
 -->
-<!ENTITY netOffline.overrideLongDesc "
+<!--ENTITY netOffline.overrideLongDesc "
 <ul>
   <li>ಕಡತದ ಮೆನುವಿನಲ್ಲಿ  &quot;ಆಫ್‍ಲೈನಿನಲ್ಲಿ ಕೆಲಸಮಾಡು&quot; ನಲ್ಲಿ ಗುರುತು ಹಾಕಿದ್ದನ್ನು ತೆಗೆದು ಮರಳಿ ಪ್ರಯತ್ನಿಸಿ.</li>
 </ul>
-">
+"-->
 
 <!-- LOCALIZATION NOTE (securityOverride.warningContent) - Do not translate the
 contents of the <button> tags. It uses strings already defined above. The
@@ -178,3 +178,10 @@ functionality specific to firefox. -->
 <!ENTITY remoteXUL.title "ದೂರಸ್ಥ XUL">
 <!ENTITY remoteXUL.longDesc "<p><ul><li>ಈ ತೊಂದರೆಯ ಬಗ್ಗೆ ಜಾಲತಾಣದ ಮಾಲಿಕರಿಗೆ ತಿಳಿಸಲು ದಯವಿಟ್ಟು ಅವರನ್ನು ಸಂಪರ್ಕಿಸಿ.</li></ul></p>">
 
+<!ENTITY corruptedContentError.title "ವಿಷಯ ಹಾಳಾದ ದೋಷ">
+<!ENTITY corruptedContentError.longDesc "<p>ನೀವು ನೋಡಲು ಬಯಸುವ ಪುಟವನ್ನು ತೋರಿಸಲು ಸಾಧ್ಯವಿಲ್ಲ ಏಕೆಂದರೆ ಮಾಹಿತಿ ವರ್ಗಾವಣೆಯಲ್ಲಿ ಒಂದು ದೋಷವು ಕಂಡು ಬಂದಿದೆ.</p><ul><li>ಈ ತೊಂದರೆಯನ್ನು ವರದಿ ಮಾಡಲು ಜಾಲತಾಣದ ಮಾಲಿಕರನ್ನು ಸಂಪರ್ಕಿಸಿ.</li></ul>">
+<!ENTITY netOffline.longDesc2 "
+<ul>
+  <li>ಆನ್‌ಲೈನ್ ಕ್ರಮಕ್ಕೆ ಬದಲಾಯಿಸಿ ನಂತರ ಪುಟವನ್ನು ಮರಳಿ ಲೋಡ್ ಮಾಡಲು &quot;ಇನ್ನೊಮ್ಮೆ ಪ್ರಯತ್ನಿಸು&quot; ಅನ್ನು ಒತ್ತಿ.</li>
+</ul>
+">
