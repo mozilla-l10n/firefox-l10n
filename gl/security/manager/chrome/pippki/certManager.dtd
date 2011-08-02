@@ -139,7 +139,7 @@
 <!ENTITY exceptionMgr.certlocation.caption2   "Servidor">
 <!ENTITY exceptionMgr.certlocation.url        "Localización:">
 <!ENTITY exceptionMgr.certlocation.download   "Obter certificado">
-<!ENTITY exceptionMgr.certlocation.accesskey  "G">
+<!ENTITY exceptionMgr.certlocation.accesskey  "O">
 <!ENTITY exceptionMgr.certstatus.caption      "Estado do certificado">
 <!ENTITY exceptionMgr.certstatus.viewCert     "Ver…">
 <!ENTITY exceptionMgr.certstatus.accesskey    "V">
