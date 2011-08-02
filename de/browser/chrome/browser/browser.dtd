@@ -208,6 +208,9 @@ can reach it easily. -->
 <!ENTITY inspectObjectButton.label       "Objekt">
 <!ENTITY inspectObjectButton.accesskey   "O">
 
+<!ENTITY getMoreDevtoolsCmd.label        "Weitere Tools laden">
+<!ENTITY getMoreDevtoolsCmd.accesskey    "W">
+
 <!ENTITY fileMenu.label         "Datei"> 
 <!ENTITY fileMenu.accesskey       "D">
 <!ENTITY newNavigatorCmd.label        "Neues Fenster">
