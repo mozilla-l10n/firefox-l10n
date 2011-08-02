@@ -21,6 +21,5 @@
 <!ENTITY safeb.blocked.malwarePage.longDesc "<p>有害網頁會嘗試安裝能竊取隱私資訊、利用您的電腦攻擊他人或破壞作業系統等的惡意軟體到您的電腦上。</p><p>某些有害網頁會故意安裝有害軟體到電腦上，但更多網頁是在連網頁擁有者都不知情的情況下，成為有害軟體散佈的溫床。</p>">
 
 <!ENTITY safeb.blocked.phishingPage.title2 "可能是偽造網站！">
-<!-- Localization note (safeb.blocked.phishing.shortDesc) - Please don't translate the contents of the <span id="phishing_sitename"/> tag. It will be replaced at runtime with a domain name (e.g. www.badsite.com) -->
 <!ENTITY safeb.blocked.phishingPage.shortDesc2 "在此網頁上輸入任何個人資訊可能會導致身分被盜用或遭受其他詐騙行為。">
 <!ENTITY safeb.blocked.phishingPage.longDesc2 "<p>這些類型的偽造網頁含有常見的詐騙攻擊特徵，可能是罪犯所製作用來模仿您信任的合法來源之詐騙網頁。</p>">

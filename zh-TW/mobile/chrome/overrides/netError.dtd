@@ -17,7 +17,7 @@
   <li>請檢查有沒有打錯網址，像是不小心把
     <strong>www</strong>.example.com 打成
     <strong>ww</strong>.example.com</li>
-  <li>若您還是無法載入任何頁面，請檢查您裝置的數據或 Wifi 連線。</li>
+  <li>若您還是無法載入任何頁面，請檢查您裝置的數據或 Wi-Fi 連線。</li>
 </ul>
 ">
 
@@ -83,7 +83,7 @@
 <!ENTITY proxyResolveFailure.title "找不到 Proxy 伺服器">
 <!ENTITY proxyResolveFailure.longDesc2 "<ul>
   <li>請檢查代理伺服器設定是否正確。</li>
-  <li>請確定您的裝置有可用的數據或 WiFi 連線。</li>
+  <li>請確定您的裝置有可用的數據或 Wi-Fi 連線。</li>
 </ul>
 ">
 
@@ -120,7 +120,7 @@
 
 <!ENTITY sharedLongDesc2 "<ul>
   <li>網站可能太忙碌或暫時無法使用。請稍候再試一次。</li>
-  <li>若您無法載入任何頁面，請檢查您的數據或 Wifi 連線。</li>
+  <li>若您無法載入任何頁面，請檢查您的數據或 Wi-Fi 連線。</li>
 </ul>
 ">
 
