@@ -139,23 +139,6 @@
 <!ENTITY createLinkCmd.accesskey "l">
 <!ENTITY editLinkCmd.label "Keppeling yn in nij finster bewurkje">
 <!ENTITY editLinkCmd.accesskey "i">
-<!-- (Toplevel Edit menu uses utilityOverlay) -->
-<!ENTITY undoCmd.label "Ungedien meitsje">
-<!ENTITY undoCmd.accesskey "U">
-<!ENTITY redoCmd.label "Op 'e nij útfiere">
-<!ENTITY redoCmd.accesskey "H">
-<!ENTITY cutCmd.label "Knippe">
-<!ENTITY cutCmd.accesskey "n">
-<!ENTITY copyCmd.label "Kopiearje">
-<!ENTITY copyCmd.accesskey "K">
-<!ENTITY pasteCmd.label "Plakke">
-<!ENTITY pasteCmd.accesskey "P">
-<!ENTITY deleteCmd.label "Fuortsmite">
-<!ENTITY deleteCmd.accesskey "F">
-<!ENTITY clearCmd.label "Wiskje">
-<!ENTITY clearCmd.accesskey "W">
-<!ENTITY selectAllCmd.label "Alles selektearje">
-<!ENTITY selectAllCmd.accesskey "A">
 
 <!-- Font Face SubMenu -->
 <!ENTITY FontFaceSelect.tooltip "Lettertype kieze">
@@ -396,6 +379,9 @@
 <!ENTITY openToolbarCmd.tooltip "In lokaal bestân iepenje">
 <!ENTITY saveToolbarCmd.tooltip "Bestân bewarje op in lokale lokaasje">
 <!ENTITY publishToolbarCmd.tooltip "Bestân oplade nei in lokaasje op ôfstân">
+<!ENTITY cutToolbarCmd.tooltip "Knippe">
+<!ENTITY copyToolbarCmd.tooltip "Kopiearje">
+<!ENTITY pasteToolbarCmd.tooltip "Plakke">
 <!ENTITY printToolbarCmd.label "Ofdrukke">
 <!ENTITY printToolbarCmd.tooltip "Dizze side ôfdrukke">
 <!ENTITY findToolbarCmd.label "Sykje">
