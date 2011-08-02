@@ -59,8 +59,8 @@
 <!ENTITY updateTab.label                 "Обнављања">
 
 <!ENTITY autoCheck.label                 "Самостално проверавај доступност унапређења за:">
-<!ENTITY enableAppUpdate.label           "&brandShortName;">
-<!ENTITY enableAppUpdate.accesskey       "b">
+<!ENTITY enableAppUpdate.label           "Програм &brandShortName;">
+<!ENTITY enableAppUpdate.accesskey       "П">
 <!ENTITY enableAddonsUpdate2.label       "Додаци">
 <!ENTITY enableAddonsUpdate2.accesskey   "Д">
 <!ENTITY enableSearchUpdate.label        "Механизме претраге">
