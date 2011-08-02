@@ -143,23 +143,6 @@
 <!ENTITY createLinkCmd.accesskey             "W">
 <!ENTITY editLinkCmd.label                   "Edytuj odnośnik w nowym oknie Kompozytora Stron">
 <!ENTITY editLinkCmd.accesskey               "E">
-<!-- (Toplevel Edit menu uses utilityOverlay) -->
-<!ENTITY undoCmd.label            "Cofnij">
-<!ENTITY undoCmd.accesskey        "C">
-<!ENTITY redoCmd.label            "Przywróć">
-<!ENTITY redoCmd.accesskey        "r">
-<!ENTITY cutCmd.label             "Wytnij">
-<!ENTITY cutCmd.accesskey         "t">
-<!ENTITY copyCmd.label            "Kopiuj">
-<!ENTITY copyCmd.accesskey        "K">
-<!ENTITY pasteCmd.label           "Wklej">
-<!ENTITY pasteCmd.accesskey       "e">
-<!ENTITY deleteCmd.label          "Usuń">
-<!ENTITY deleteCmd.accesskey      "U">
-<!ENTITY clearCmd.label           "Wyczyść">
-<!ENTITY clearCmd.accesskey       "c">
-<!ENTITY selectAllCmd.label       "Zaznacz wszystko">
-<!ENTITY selectAllCmd.accesskey   "a">
 
 <!-- Font Face SubMenu -->
 <!ENTITY FontFaceSelect.tooltip       "Wybierz czcionkę">
@@ -396,6 +379,9 @@
 <!ENTITY openToolbarCmd.tooltip        "Otwórz lokalny plik">
 <!ENTITY saveToolbarCmd.tooltip        "Zapisz plik na lokalnym dysku">
 <!ENTITY publishToolbarCmd.tooltip     "Prześlij plik na zdalny serwer">
+<!ENTITY cutToolbarCmd.tooltip         "Wytnij">
+<!ENTITY copyToolbarCmd.tooltip        "Kopiuj">
+<!ENTITY pasteToolbarCmd.tooltip       "Wklej">
 <!ENTITY printToolbarCmd.label         "Drukuj">
 <!ENTITY printToolbarCmd.tooltip       "Drukuj bieżącą stronę">
 <!ENTITY findToolbarCmd.label          "Znajdź">
