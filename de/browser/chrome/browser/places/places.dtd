@@ -7,12 +7,9 @@
 <!ENTITY organize.tooltip      "Lesezeichen verwalten">
 
 
-<!ENTITY file.accesskey                 "D">
 <!ENTITY file.close.label               "Schließen">
 <!ENTITY file.close.accesskey           "c">
 <!ENTITY cmd.close.key                  "w">
-<!ENTITY edit.label                     "Bearbeiten">
-<!ENTITY edit.accesskey                 "B">
 <!ENTITY views.label                    "Ansichten">
 <!ENTITY views.accesskey                 "A">
 <!ENTITY views.tooltip                  "Ansicht ändern">
@@ -115,17 +112,14 @@
 <!ENTITY maintenance.tooltip    "Lesezeichen importieren und sichern">
 
 
-<!ENTITY backCmd.label       "Zurück">
 <!ENTITY backButton.tooltip  "Eine Seite zurück">
 
-<!ENTITY forwardCmd.label       "Vorwärts">
 <!ENTITY forwardButton.tooltip  "Eine Seite vor">
 
 <!ENTITY detailsPane.more.label  "Mehr">
 <!ENTITY detailsPane.more.accesskey "e">
 <!ENTITY detailsPane.less.label  "Weniger">
 <!ENTITY detailsPane.less.accesskey "e">
-<!ENTITY detailsPane.noPreviewAvailable.label  "Vorschau">
 <!ENTITY detailsPane.selectAnItemText.description "Wählen Sie einen Eintrag, um seine Eigenschaften zu sehen und zu bearbeiten">
 
 <!ENTITY find.label               "Suchen:">
