@@ -6,7 +6,7 @@
 <!ENTITY editBookmarkOverlay.feedLocation.accesskey          "F">
 <!ENTITY editBookmarkOverlay.siteLocation.label              "సైటు స్థానము:">
 <!ENTITY editBookmarkOverlay.siteLocation.accesskey          "S">
-<!ENTITY editBookmarkOverlay.liveTitlesSeparator.label       "లైవ్ శీర్షికలు">
+
 <!ENTITY editBookmarkOverlay.folder.label                    "సంచయం:">
 <!ENTITY editBookmarkOverlay.foldersExpanderDown.tooltip     "అన్ని ఇష్టాంశముల సంచయాలను చూపుము">
 <!ENTITY editBookmarkOverlay.expanderUp.tooltip              "మరుగుపరచుము">
