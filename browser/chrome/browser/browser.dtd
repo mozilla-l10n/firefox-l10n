@@ -200,8 +200,6 @@
 <!ENTITY subscribeToPageMenuitem.label "इस पृष्ठ की सदस्यता लें…">
 <!ENTITY addCurPagesCmd.label "सभी टैब पुस्तचिह्नित करें…">
 
-<!ENTITY bookmarkAllCmd.label "सभी टैब पुस्तचिह्नित करें…">
-
 <!ENTITY copyAudioURLCmd.accesskey    "o">
 <!ENTITY copyAudioURLCmd.label        "ऑडियो स्थान की नक़ल लें">
 <!ENTITY copyVideoURLCmd.accesskey    "o">
