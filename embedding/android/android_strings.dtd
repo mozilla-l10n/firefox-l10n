@@ -17,5 +17,7 @@
 <!ENTITY exit_label "Ukončit">
 <!ENTITY continue_label "Pokračovat">
 
-<!ENTITY  launcher_shortcuts_title "&brandShortName; aplikace">
-<!ENTITY  launcher_shortcuts_empty "Nebyla nalezena žádná webová aplikace">
+<!ENTITY launcher_shortcuts_title "&brandShortName; aplikace">
+<!ENTITY launcher_shortcuts_empty "Nebyla nalezena žádná webová aplikace">
+
+<!ENTITY choose_file "Volba souboru">
