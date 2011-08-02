@@ -55,6 +55,6 @@
 <!ENTITY junkSettings.label "Levélszemét kezelése">
 <!ENTITY offlineLink.label "Kapcsolat nélküli munka beállításai">
 
-<!ENTITY feedsSectionHdr.label "Feeds">
-<!ENTITY subscribeFeeds.label "Manage subscriptions">
+<!ENTITY feedsSectionHdr.label        "Hírforrások">
+<!ENTITY subscribeFeeds.label         "Feliratkozások kezelése">
 
