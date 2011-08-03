@@ -139,23 +139,6 @@
 <!ENTITY createLinkCmd.accesskey "C">
 <!ENTITY editLinkCmd.label "Deasaich an ceangal ann an cumadair ùr">
 <!ENTITY editLinkCmd.accesskey "i">
-<!-- (Toplevel Edit menu uses utilityOverlay) -->
-<!ENTITY undoCmd.label "Neo-dhèan">
-<!ENTITY undoCmd.accesskey "N">
-<!ENTITY redoCmd.label "Ath-dhèan">
-<!ENTITY redoCmd.accesskey "A">
-<!ENTITY cutCmd.label "Gearr às">
-<!ENTITY cutCmd.accesskey "G">
-<!ENTITY copyCmd.label "Dèan lethbhreac">
-<!ENTITY copyCmd.accesskey "c">
-<!ENTITY pasteCmd.label "Cuir ann">
-<!ENTITY pasteCmd.accesskey "C">
-<!ENTITY deleteCmd.label "Sguab às">
-<!ENTITY deleteCmd.accesskey "S">
-<!ENTITY clearCmd.label "Falamhaich">
-<!ENTITY clearCmd.accesskey "l">
-<!ENTITY selectAllCmd.label "Tagh a h-uile">
-<!ENTITY selectAllCmd.accesskey "a">
 
 <!-- Font Face SubMenu -->
 <!ENTITY FontFaceSelect.tooltip "Tagh cruth-clò">
@@ -396,6 +379,9 @@
 <!ENTITY openToolbarCmd.tooltip "Fosgail faidhle ionadail">
 <!ENTITY saveToolbarCmd.tooltip "Sàbhail faidhle gu h-ionadail">
 <!ENTITY publishToolbarCmd.tooltip "Luchdaich suas faidhle gu àite cèin">
+<!ENTITY cutToolbarCmd.tooltip "Gearr às">
+<!ENTITY copyToolbarCmd.tooltip "Dèan lethbhreac">
+<!ENTITY pasteToolbarCmd.tooltip "Cuir ann">
 <!ENTITY printToolbarCmd.label "Clò-bhuail">
 <!ENTITY printToolbarCmd.tooltip "Clò-bhuail an duilleag seo">
 <!ENTITY findToolbarCmd.label "Lorg">

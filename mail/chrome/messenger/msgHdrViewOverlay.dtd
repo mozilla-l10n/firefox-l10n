@@ -59,6 +59,7 @@
 <!ENTITY editMessageButton.label "Deasaich…">
 <!ENTITY hdrArchiveButton.label "tasg-lann">
 <!ENTITY hdrArchiveButton.tooltip "cuir an teachdaireachd seo san tasg-lann">
+<!ENTITY hdrSmartReplyButton.label "freagairt ghlic">
 <!ENTITY hdrReplyButton.label "freagair">
 <!ENTITY hdrReplyButton.tooltip "freagair an teachdaireachd seo">
 <!ENTITY hdrReplyAllButton.label "freagair a h-uile">
