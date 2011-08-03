@@ -35,10 +35,10 @@
 <!ENTITY report.unavailable                                  "कोई रिपोर्ट उपलब्ध नहीं.">
 
 
-<!ENTITY installPlugin                                       "Install plugin…">
-<!ENTITY managePlugins                                       "Manage plugins…">
-<!ENTITY missingPlugin                                       "A plugin is needed to display this content.">
-<!ENTITY disabledPlugin                                      "This plugin is disabled.">
+<!ENTITY installPlugin                                       "प्लगइन संस्थापित करें…">
+<!ENTITY managePlugins                                       "प्लगइन प्रबंधित करें…">
+<!ENTITY missingPlugin                                       "एक प्लगइन इस सामग्री को दिखाने के जरूरी है.">
+<!ENTITY disabledPlugin                                      "यह प्लगइन निष्क्रिय किया गया है.">
 
 
 
