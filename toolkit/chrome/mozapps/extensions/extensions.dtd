@@ -26,11 +26,14 @@
 <!-- categories / views -->
 <!ENTITY view.search.label                    "खोजें">
 <!ENTITY view.discover.label                  "सहयुक्तियाँ पाएँ">
-<!ENTITY view.locales.label                   "भाषाएँ">
-<!ENTITY view.searchengines.label             "खोज ईंजन">
-<!ENTITY view.features.label                  "विस्तार">
-<!ENTITY view.appearance2.label               "प्रकटन">
-<!ENTITY view.plugins.label                   "प्लगिन">
+
+<!-- global informations -->
+<!ENTITY info.plugincheck.label                 "Check to see if your plugins are up to date">
+<!ENTITY info.plugincheck.tooltip               "Check to see if your plugins are up to date">
+
+
+
+
 <!ENTITY view.recentUpdates.label             "हालिया अद्यतन">
 <!ENTITY view.availableUpdates.label          "उपलब्ध अद्यतन">
 

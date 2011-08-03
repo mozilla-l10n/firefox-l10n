@@ -42,7 +42,7 @@
 <!ENTITY setup.newSyncKeyPage.description.label "आपकी समग्र गोपनीयता बनाए रखने के लिए, आपके सभी आँकड़े अपलोड किए जाने के पहले सभी आँकड़े गोपित हैं. सिंक कुंजी आपके आँकड़े को विगोपित करने के लिए जरूरी हैं कि वे अपलोड नहीं किए गए हैं.">
 <!ENTITY syncKeyEntry.label        "आपकी सिंक कुंजी">
 <!ENTITY syncKeyEntry.accesskey    "K">
-<!ENTITY syncKeyGenerate.label     "उत्पन्न करें">
+<!ENTITY syncGenerateNewKey.label  "एक नयी कुंजी उत्पन्न करें">
 
 
 <!ENTITY syncKeyBackup.description "आपकी सिंक कुंजी दूसरे मशीन पर &syncBrand.fullName.label; की पहुँच के लिए जरूरी है. कृपया एक बैकअप कॉपी बनाएँ. हम आपकी सिंक कुंजी को वापस पाने आपकी मदद कर सकते हैं.">
