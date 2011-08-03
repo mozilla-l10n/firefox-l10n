@@ -50,7 +50,6 @@
 <!ENTITY addonShowPage.label       "Ir para a página">
 
 <!ENTITY downloadsHeader.label     "Transferências">
-
 <!ENTITY downloadShowPage.label    "Ir para a página">
 <!ENTITY downloadShow2.label        "Procurar">
 <!ENTITY downloadOpen2.label        "Abrir">
@@ -93,6 +92,7 @@
 <!ENTITY contextOpenInNewTab.label    "Abrir ligação em novo separador">
 <!ENTITY contextSaveLink.label        "Guardar ligação">
 <!ENTITY contextSaveImage.label       "Guardar imagem">
+<!ENTITY contextCopyLink.label        "Copiar ligação">
 <!ENTITY contextShareLink.label       "Partilhar ligação">
 <!ENTITY contextShareImage.label      "Partilhar imagem">
 <!ENTITY contextBookmarkLink.label    "Adicionar ligação aos marcadores">
@@ -107,9 +107,11 @@
 <!ENTITY pageactions.saveas.pdf      "Guardar como PDF">
 <!ENTITY pageactions.share.page      "Partilhar página">
 <!ENTITY pageactions.password.forget "Esquecer senha">
+<!ENTITY pageactions.quit            "Sair">
 <!ENTITY pageactions.reset           "Limpar preferências do sítio">
 <!ENTITY pageactions.findInPage      "Procurar na página">
 <!ENTITY pageactions.search.addNew   "Adicionar motor de pesquisa">
 <!ENTITY pageactions.charEncoding    "Codificação de Caracteres">
+<!ENTITY pageactions.webapps.install "Instalar como App">
 
 <!ENTITY appMenu.siteOptions         "Opções do sítio">
