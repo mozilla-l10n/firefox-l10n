@@ -20,6 +20,7 @@
 <!ENTITY editMessageButton.label "Изменить…">
 <!ENTITY hdrArchiveButton.label "архивировать">
 <!ENTITY hdrArchiveButton.tooltip "архивировать это сообщение">
+<!ENTITY hdrSmartReplyButton.label "умный ответ">
 <!ENTITY hdrReplyButton.label "ответить">
 <!ENTITY hdrReplyButton.tooltip "ответить на это сообщение">
 <!ENTITY hdrReplyAllButton.label "ответить всем">
