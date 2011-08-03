@@ -23,14 +23,13 @@
 <!ENTITY warning.updatesecurity.enable.label       "Укључи">
 <!ENTITY warning.updatesecurity.enable.tooltip     "Омогући проверавање безбедности додатка">
 
+<!-- global informations -->
+<!ENTITY info.plugincheck.label                 "Проверите да ли су прикључци ажурни">
+<!ENTITY info.plugincheck.tooltip               "Проверите да ли су прикључци ажурни">
+
 <!-- categories / views -->
 <!ENTITY view.search.label                    "Тражи">
 <!ENTITY view.discover.label                  "Набави додатке">
-<!ENTITY view.locales.label                   "Језици">
-<!ENTITY view.searchengines.label             "Претраживачи">
-<!ENTITY view.features.label                  "Проширења">
-<!ENTITY view.appearance2.label               "Изглед">
-<!ENTITY view.plugins.label                   "Прикључци">
 <!ENTITY view.recentUpdates.label             "Недавна ажурирања">
 <!ENTITY view.availableUpdates.label          "Доступна ажурирања">
 
