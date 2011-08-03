@@ -106,6 +106,7 @@
 <!ENTITY pageactions.saveas.pdf      "Als PDF speichern">
 <!ENTITY pageactions.share.page      "Seite teilen">
 <!ENTITY pageactions.password.forget "Passwort entfernen">
+<!ENTITY pageactions.quit            "Beenden">
 <!ENTITY pageactions.reset           "Website-Einstellungen löschen">
 <!ENTITY pageactions.findInPage      "In Seite suchen">
 <!ENTITY pageactions.search.addNew   "Suchmaschine hinzufügen">
