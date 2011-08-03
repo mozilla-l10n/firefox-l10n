@@ -2,6 +2,7 @@
 <!ENTITY  splash_screen_loading "a carregar">
 <!ENTITY  splash_screen_installing_libs "a instalar bibliotecas\u2026">
 <!ENTITY  splash_firstrun "A configurar o &brandShortName;\u2026">
+
 <!ENTITY  no_space_to_start_error "Não existe espaço suficiente disponível para iniciar o &brandShortName;.">
 <!ENTITY  error_loading_file "Ocorreu um erro ao tentar carregar ficheiros necessários para executar o &brandShortName;">
 
@@ -15,3 +16,8 @@
 <!ENTITY  sending_crash_report "A enviar relatório de erro \u2026">
 <!ENTITY  exit_label "Sair">
 <!ENTITY  continue_label "Continuar">
+
+<!ENTITY  launcher_shortcuts_title "&brandShortName; Web Apps">
+<!ENTITY  launcher_shortcuts_empty "Nenhumas web apps encontradas">
+
+<!ENTITY choose_file "Escolher ficheiro">
