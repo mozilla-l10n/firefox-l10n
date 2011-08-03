@@ -57,8 +57,9 @@
 
 <!ENTITY editMessageDescription.label "Esta mensagem é um rascunho">
 <!ENTITY editMessageButton.label "Editar…">
-<!ENTITY hdrArchiveButton.label "Arquivar">
-<!ENTITY hdrArchiveButton.tooltip "Arquiva esta mensagem">
+<!ENTITY hdrArchiveButton.label "arquivar">
+<!ENTITY hdrArchiveButton.tooltip "arquiva esta mensagem">
+<!ENTITY hdrSmartReplyButton.label "resposta inteligente">
 <!ENTITY hdrReplyButton.label "Responder">
 <!ENTITY hdrReplyButton.tooltip "Responde a esta mensagem">
 <!ENTITY hdrReplyAllButton.label "Responder a todos">
