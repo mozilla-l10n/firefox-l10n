@@ -43,7 +43,7 @@
 <!ENTITY setup.newSyncKeyPage.description.label "Um den kompletten Schutz Ihrer Daten zu gewährleisten, werden alle Daten verschlüsselt, bevor Sie hochgeladen werden. Der Schlüssel, um Ihre Daten zu entschlüsseln, wird nicht hochgeladen.">
 <!ENTITY syncKeyEntry.label        "Ihr Sync-Schlüssel">
 <!ENTITY syncKeyEntry.accesskey    "S">
-<!ENTITY syncKeyGenerate.label     "Generieren">
+<!ENTITY syncGenerateNewKey.label  "Einen neuen Schlüssel generieren">
 <!ENTITY syncKeyBackup.description "Sie benötigen den Sync-Schlüssel, um auf anderen Geräten auf &syncBrand.fullName.label; zuzugreifen. Bitte hinterlegen Sie eine Sicherheitskopie des Schlüssels. Wir können Ihnen nicht dabei helfen, den Sync-Schlüssel wieder zu erlangen.">
 
 <!ENTITY button.syncKeyBackup.print.label     "Drucken…">
