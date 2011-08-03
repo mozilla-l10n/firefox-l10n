@@ -111,6 +111,8 @@ can reach it easily. -->
 <!ENTITY forwardCmd.label             "Vooruit">
 <!ENTITY forwardCmd.accesskey         "V">
 <!ENTITY forwardButton.tooltip        "Een pagina vooruit gaan">
+<!ENTITY backForwardButtonMenu.tooltip "Rechterklik of pull down om de geschiedenis te tonen">
+<!ENTITY backForwardButtonMenuMac.tooltip "Pull down om de geschiedenis te tonen">
 <!ENTITY reloadCmd.label              "Vernieuwen">
 <!ENTITY reloadCmd.accesskey          "n">
 <!ENTITY reloadButton.tooltip         "Huidige pagina vernieuwen">
