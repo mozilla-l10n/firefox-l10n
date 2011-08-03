@@ -161,3 +161,5 @@
 -->
 <!ENTITY addon.install.label                  "प्रतिष्ठापन">
 <!ENTITY addon.includeUpdate.label            "सुधारणामध्ये समाविष्ट करा">
+<!ENTITY info.plugincheck.label                 "प्लगईन्स् अद्ययावत आहे याची खात्री करा">
+<!ENTITY info.plugincheck.tooltip               "प्लगईन्स् अद्ययावत आहे याची खात्री करा">
