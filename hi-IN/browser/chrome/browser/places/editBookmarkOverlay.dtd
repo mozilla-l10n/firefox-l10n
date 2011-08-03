@@ -6,7 +6,6 @@
 <!ENTITY editBookmarkOverlay.feedLocation.accesskey          "F">
 <!ENTITY editBookmarkOverlay.siteLocation.label              "साइट स्थान:">
 <!ENTITY editBookmarkOverlay.siteLocation.accesskey          "S">
-<!ENTITY editBookmarkOverlay.liveTitlesSeparator.label       "जीवंत शीर्षक">
 <!ENTITY editBookmarkOverlay.folder.label                    "फ़ोल्डर:">
 <!ENTITY editBookmarkOverlay.foldersExpanderDown.tooltip     "सभी पुस्तचिह्न फ़ोल्डर दिखाएँ">
 <!ENTITY editBookmarkOverlay.expanderUp.tooltip              "छिपाएँ">

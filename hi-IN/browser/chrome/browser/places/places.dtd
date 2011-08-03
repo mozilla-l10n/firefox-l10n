@@ -6,11 +6,11 @@
 <!ENTITY organize.accesskey    "O">
 <!ENTITY organize.tooltip      "अपने पुस्तचिह्नों को व्यवस्थित करें">
 
-<!ENTITY file.accesskey                 "F">
 <!ENTITY file.close.label               "बंद करें">
 <!ENTITY file.close.accesskey           "C">
 <!ENTITY cmd.close.key                  "w">
 
+<!ENTITY cmd.restoreFromFile.accesskey  "C">
 
 <!ENTITY views.label                    "दृश्य">
 <!ENTITY views.accesskey                "V">
