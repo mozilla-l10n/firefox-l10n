@@ -17,3 +17,5 @@
 
 <!ENTITY  launcher_shortcuts_title "&brandShortName; web app">
 <!ENTITY  launcher_shortcuts_empty "Nessuna web app trovata">
+
+<!ENTITY choose_file "Scelta file">
