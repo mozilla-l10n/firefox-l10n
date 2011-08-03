@@ -59,6 +59,7 @@
 <!ENTITY editMessageButton.label "Modifier…">
 <!ENTITY hdrArchiveButton.label "archiver">
 <!ENTITY hdrArchiveButton.tooltip "archiver ce message">
+<!ENTITY hdrSmartReplyButton.label "répondre (contextuel)">
 <!ENTITY hdrReplyButton.label "répondre">
 <!ENTITY hdrReplyButton.tooltip "répondre à ce message">
 <!ENTITY hdrReplyAllButton.label "répondre à tous">
