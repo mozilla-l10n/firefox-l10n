@@ -139,23 +139,6 @@
 <!ENTITY createLinkCmd.accesskey "ç">
 <!ENTITY editLinkCmd.label "Editar Ligação num novo Compositor">
 <!ENTITY editLinkCmd.accesskey "i">
-<!-- (Toplevel Edit menu uses utilityOverlay) -->
-<!ENTITY undoCmd.label "Anular">
-<!ENTITY undoCmd.accesskey "u">
-<!ENTITY redoCmd.label "Refazer">
-<!ENTITY redoCmd.accesskey "f">
-<!ENTITY cutCmd.label "Cortar">
-<!ENTITY cutCmd.accesskey "t">
-<!ENTITY copyCmd.label "Copiar">
-<!ENTITY copyCmd.accesskey "C">
-<!ENTITY pasteCmd.label "Colar">
-<!ENTITY pasteCmd.accesskey "l">
-<!ENTITY deleteCmd.label "Eliminar">
-<!ENTITY deleteCmd.accesskey "a">
-<!ENTITY clearCmd.label "Limpar">
-<!ENTITY clearCmd.accesskey "r">
-<!ENTITY selectAllCmd.label "Seleccionar Tudo">
-<!ENTITY selectAllCmd.accesskey "o">
 
 <!-- Font Face SubMenu -->
 <!ENTITY FontFaceSelect.tooltip "Escolha uma letra">
@@ -396,6 +379,9 @@
 <!ENTITY openToolbarCmd.tooltip "Abrir um ficheiro Local">
 <!ENTITY saveToolbarCmd.tooltip "Guardar ficheiro para uma localização remota">
 <!ENTITY publishToolbarCmd.tooltip "Carregar ficheiro para uma localização remota">
+<!ENTITY cutToolbarCmd.tooltip "Cortar">
+<!ENTITY copyToolbarCmd.tooltip "Copiar">
+<!ENTITY pasteToolbarCmd.tooltip "Colar">
 <!ENTITY printToolbarCmd.label "Imprimir">
 <!ENTITY printToolbarCmd.tooltip "Imprimir esta página">
 <!ENTITY findToolbarCmd.label "Procurar">
