@@ -226,3 +226,4 @@
 <!ENTITY continueUsing.label "तुम्ही आत्ता &brandShortName;चा वापर चालू ठेवू शकता.">
 
 <!ENTITY resetSyncKey.label           "माझे इतर साधन हरवले आहे.">
+<!ENTITY syncGenerateNewKey.label  "नवीन कि निर्माण करा">

@@ -566,3 +566,11 @@
 
 <!ENTITY addonBarCloseButton.tooltip  "ॲडऑन पट्टी बंद करा">
 <!ENTITY toggleAddonBarCmd.key        "/">
+<!ENTITY webDeveloperMenu.label       "वेब डेव्हलपर">
+<!ENTITY webDeveloperMenu.accesskey   "W">
+<!ENTITY scratchpad.label             "स्क्रॅचपॅड">
+<!ENTITY scratchpad.accesskey         "s">
+<!ENTITY scratchpad.keycode           "VK_F4">
+<!ENTITY scratchpad.keytext           "F4">
+<!ENTITY getMoreDevtoolsCmd.label        "अधिक साधने प्राप्त करा">
+<!ENTITY getMoreDevtoolsCmd.accesskey    "M">
