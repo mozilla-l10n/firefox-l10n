@@ -7,7 +7,7 @@
 
 <!ENTITY importFromIE.label             "Microsoft Internet Explorer">
 <!ENTITY importFromIE.accesskey         "M">
-<!ENTITY importFromPhoenix.label        "Firefox 0.8, Firebird କିମ୍ବା Phoenix">
+
 <!ENTITY importFromNothing.accesskey    "D">
 <!ENTITY importFromSeamonkey.label      "Netscape 6, 7 କିମ୍ବା Mozilla 1.x">
 <!ENTITY importFromSeamonkey.accesskey  "N">
@@ -32,4 +32,6 @@
 
 <!ENTITY done.title                     "ଆମଦାନୀ ସମ୍ପୂର୍ଣ୍ଣ ହେଲା">
 <!ENTITY done.label                     "ନିମ୍ନଲିଖିତ ବସ୍ତୁଗୁଡ଼ିକ ସଫଳତାରସହିତ ଆମଦାନୀ ହୋଇସାରିଛି:">
+<!ENTITY importFromNothing.label        "କିଛି ଆମଦାନୀ କରନ୍ତୁ ନାହିଁ">
+
 
