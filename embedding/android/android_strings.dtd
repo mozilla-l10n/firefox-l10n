@@ -19,3 +19,5 @@
 
 <!ENTITY  launcher_shortcuts_title "Aplicativos web para &brandShortName;">
 <!ENTITY  launcher_shortcuts_empty "Non se atoparon aplicativos web">
+
+<!ENTITY choose_file "Escoller ficheiro">
