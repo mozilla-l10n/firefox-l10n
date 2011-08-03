@@ -211,7 +211,6 @@ can reach it easily. -->
 
 <!ENTITY inspectButton.label          "Untersuchen">
 <!ENTITY inspectButton.accesskey      "U">
-<!ENTITY inspectNextButton.label      "Nächster">
 
 <!ENTITY getMoreDevtoolsCmd.label        "Weitere Tools laden">
 <!ENTITY getMoreDevtoolsCmd.accesskey    "W">
