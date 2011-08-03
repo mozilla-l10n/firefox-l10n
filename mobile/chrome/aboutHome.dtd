@@ -8,4 +8,5 @@
 <!ENTITY aboutHome.openAllTabs                  "Alle in Tabs öffnen">
 <!ENTITY aboutHome.noTabs                       "Keine Tabs vom letzten Mal">
 <!ENTITY aboutHome.noAddons                     "Keine empfohlenen Add-ons">
+<!ENTITY aboutHome.getLocale                    "Sprache wechseln">
 
