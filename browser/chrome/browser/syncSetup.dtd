@@ -41,7 +41,7 @@
 <!ENTITY setup.newSyncKeyPage.description.label "ଆପଣଙ୍କର ସମସ୍ତ ଗୋପନୀୟତାକୁ ନିଶ୍ଚିତ କରିବା ପାଇଁ, ଆପଣଙ୍କର ସମସ୍ତ ତଥ୍ଯ ଧାରଣ ହେବା ପୂର୍ବରୁ ସଂଗୁପ୍ତ ହୋଇଥାଏ। Sync କି ଯାହାକି ଆପଣଙ୍କର ସଂଗୁପ୍ତ ତଥ୍ୟକୁ ଖୋଲିବା ପାଇଁ ଆବଶ୍ୟକ ତାହା ଧାରଣ ହୋଇନଥାଏ।">
 <!ENTITY syncKeyEntry.label        "ଆପଣ  Sync କି">
 <!ENTITY syncKeyEntry.accesskey    "K">
-<!ENTITY syncKeyGenerate.label     "ସୃଷ୍ଟି କରନ୍ତୁ">
+
 <!ENTITY syncKeyBackup.description "ଆପଣଙ୍କର Sync କି &syncBrand.fullName.label; କୁ ଅନ୍ୟ ଯନ୍ତ୍ରରେ  ଅଭିଗମ୍ୟ କରିବା ପାଇଁ ଆବଶ୍ୟକ ହୋଇଥାଏ। ଦୟାକରି ଗୋଟିଏ ନକଲ ସଂରକ୍ଷଣ ପ୍ରସ୍ତୁତ କରନ୍ତୁ। ଆମେ ଆପଣଙ୍କର Sync କି କୁ ପୁନରୁଦ୍ଧାର କରିବାରେ ସହାୟତା କରିପାରିବୁ ନାହିଁ।">
 
 <!ENTITY button.syncKeyBackup.print.label     "ମୁଦ୍ରଣ କରନ୍ତୁ…">
@@ -118,3 +118,5 @@
 <!ENTITY signIn.account2.label      "ଖାତା">
 <!ENTITY signIn.syncKey.accesskey   "K">
 <!ENTITY signIn.syncKey.label       "Sync କି">
+
+<!ENTITY syncGenerateNewKey.label  "ନୂତନ କି ସୃଷ୍ଠି କରନ୍ତୁ">
