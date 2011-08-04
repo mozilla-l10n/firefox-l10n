@@ -25,7 +25,7 @@
 <!ENTITY netInterrupt.longDesc "<p>Tarayıcı başarıyla bağlantı kurmasına karşın veri aktarımı sırasında kesinti meydana geldi. Lütfen yeniden deneyin.</p><ul><li>Diğer siteleri de açamıyor olabilirsiniz. Bilgisayarınızın ağ bağlantısını gözden geçirin.</li><li>Hâlâ sorun yaşıyorsanız ağ yöneticinize ya da internet servis sağlayıcınıza başvurun.</li></ul>">
 
 <!ENTITY netOffline.title "Çevrim dışı bağlantı hatası">
-<!ENTITY netOffline.longDesc2 "<p>The browser is operating in its offline mode and cannot connect to the requested item.</p><ul><li>Is the computer connected to an active network?</li><li>Press &quot;Try Again&quot; to switch to online mode and reload the page.</li></ul>">
+<!ENTITY netOffline.longDesc2 "<p>Tarayıcı şu an çevrim dışı kipte ve istenen öğeye bağlanamaz.</p><ul><li>Bilgisayarınız etkin bir ağ bağlantısına sahip mi?</li><li>Tarayıcıyı çevrim içi hâle getirdikten sonra sayfayı açmayı yeniden deneyin.</li></ul>">
 
 <!ENTITY contentEncodingError.title "İçerik kodlama hatası">
 <!ENTITY contentEncodingError.longDesc "<p>Bakmak istediğiniz sayfa gösterilemiyor, çünkü geçersiz ya da desteklenmeyen sıkıştırma biçimi kullanıyor.</p><ul><li>Site sahipleriyle iletişim kurup onları bu sorundan haberdar edin.</li></ul>">
@@ -79,7 +79,7 @@ Saldırı siteleri, özel bilgilerinizi çalan, bilgisayarınızı başkalarına
 <!ENTITY cspFrameAncestorBlocked.longDesc "<p>The browser prevented this page from loading in this way because the page has a content security policy that disallows it.</p>">
 
 <!ENTITY corruptedContentError.title "Hasarlı İçerik Hatası">
-<!ENTITY corruptedContentError.longDesc "<p>The page you are trying to view cannot be shown because an error in the data transmission was detected.</p><ul><li>Please contact the website owners to inform them of this problem.</li></ul>">
+<!ENTITY corruptedContentError.longDesc "<p>Bakmak istediğiniz sayfa gösterilemiyor, çünkü dosya aktarımı sırasında bir hata saptandı.</p><ul><li>Site sahipleriyle iletişim kurup onları bu sorundan haberdar edin.</li></ul>">
 
 <!ENTITY remoteXUL.title "Uzak XUL">
 <!ENTITY remoteXUL.longDesc "<ul> 
