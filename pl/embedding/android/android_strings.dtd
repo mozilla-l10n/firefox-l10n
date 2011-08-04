@@ -18,3 +18,5 @@
 
 <!ENTITY  launcher_shortcuts_title "&brandShortName; – Aplikacje sieciowe">
 <!ENTITY  launcher_shortcuts_empty "Nie znaleziono aplikacji sieciowych">
+
+<!ENTITY choose_file "Wybierz plik">
