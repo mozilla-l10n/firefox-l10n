@@ -45,8 +45,8 @@
 <!ENTITY reuseExpRadio0.accesskey "i">
 <!ENTITY reuseExpRadio1.label "Mevcut bir iletinin içinde aç">
 <!ENTITY reuseExpRadio1.accesskey "c">
-<!ENTITY closeMsgOnMoveOrDelete.label "Close message window/tab on move or delete">
-<!ENTITY closeMsgOnMoveOrDelete.accesskey "C">
+<!ENTITY closeMsgOnMoveOrDelete.label "İleti taşınınca ve ya silinince ileti penceresini/sekmesini kapat">
+<!ENTITY closeMsgOnMoveOrDelete.accesskey "k">
 <!-- Update -->
 
 <!ENTITY autoCheck.label "Periyodik olarak güncellemeleri kontrol edilecekler:">
