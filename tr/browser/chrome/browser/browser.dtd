@@ -24,7 +24,7 @@ left edge of the tabstrip. Really we just want the string to express the idea
 that this is a lightweight and reversible action that keeps your tab where you
 can reach it easily. -->
 
-<!ENTITY pinAppTab.label "Uygulama sekmesine dönüştür">
+<!ENTITY pinAppTab.label "Uygulama sekmesi olarak sabitle">
 <!ENTITY pinAppTab.accesskey "U">
 <!ENTITY unpinAppTab.label "Normal sekmeye dönüştür">
 <!ENTITY unpinAppTab.accesskey "N">

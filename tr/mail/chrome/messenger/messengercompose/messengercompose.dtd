@@ -193,7 +193,7 @@
 <!ENTITY quoteButton.tooltip "Önceki iletiden alıntı yap">
 <!ENTITY addressButton.tooltip "Alıcıyı adres defterinden seç">
 <!ENTITY attachButton.tooltip "Bu iletiye dosya ekle">
-<!ENTITY spellingButton.tooltip "Check spelling of selection or entire message">
+<!ENTITY spellingButton.tooltip "Tüm iletide ve ya seçili metinde yazım hatalarını denetler">
 <!ENTITY saveButton.tooltip "Bu iletiyi kaydet">
 <!ENTITY cutButton.tooltip "Kes">
 <!ENTITY copyButton.tooltip "Kopyala">
