@@ -64,7 +64,7 @@
 <!ENTITY PhoneticField2.label "Okunuşu:">
 <!ENTITY DisplayName.label "Gösterilen:">
 <!ENTITY DisplayName.accesskey "ö">
-<!ENTITY preferDisplayName.label "Always prefer display name over message header">
+<!ENTITY preferDisplayName.label "Mesaj başlığında gösterilen ismi tercih et">
 <!ENTITY preferDisplayName.accesskey "y">
 <!ENTITY NickName.label "Takma isim:">
 <!ENTITY NickName.accesskey "T">
