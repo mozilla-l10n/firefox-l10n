@@ -63,6 +63,7 @@
 <!ENTITY editMessageButton.label      "Edytuj…">
 <!ENTITY hdrArchiveButton.label       "Archiwizuj">
 <!ENTITY hdrArchiveButton.tooltip     "Archiwizuj tę wiadomość">
+<!ENTITY hdrSmartReplyButton.label    "Adaptatywny przycisk odpowiedzi">
 <!ENTITY hdrReplyButton.label         "Odpowiedz">
 <!ENTITY hdrReplyButton.tooltip       "Odpowiedz na tę wiadomość">
 <!ENTITY hdrReplyAllButton.label      "Odpowiedz wszystkim">
