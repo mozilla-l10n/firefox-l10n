@@ -13,9 +13,6 @@ was trying to connect. -->
 
 <!ENTITY certerror.introPara1 "&brandShortName; uygulamasının güvenli olarak 
 <b>#1</b> konumuna bağlanmasını istediniz, ancak bağlantınızın güvenli olup olmadığını doğrulayamıyoruz.">
-<!ENTITY certerror.introPara2 "Normalde, güvenli olarak bağlanmayı denediğinizde, 
-bağlanılmak istenen site gerçekten doğru yere gittiğinizi kanıtlayacak 
-olan güvenilebilir kimlik bilgisi sunar. Ancak bu sitenin kimliği doğrulanamıyor.">
 
 <!ENTITY certerror.whatShouldIDo.heading "Ne yapmalıyım?">
 <!ENTITY certerror.whatShouldIDo.content "Genelde bu siteye hiçbir sorun 
