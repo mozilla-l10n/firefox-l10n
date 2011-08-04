@@ -224,6 +224,8 @@
 <!ENTITY bodySanitized.accesskey "B">
 <!ENTITY bodyAsPlaintext.label "Düz metin">
 <!ENTITY bodyAsPlaintext.accesskey "D">
+<!ENTITY bodyAllParts.label "All Body Parts">
+<!ENTITY bodyAllParts.accesskey "A">
 
 <!ENTITY bodyMenuFeed.label "Canlı yer imi gövdesi gösterimi">
 <!ENTITY bodyMenuFeed.accesskey "y">

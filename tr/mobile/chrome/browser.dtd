@@ -92,6 +92,7 @@
 <!ENTITY contextOpenInNewTab.label "Bağlantıyı yeni sekmede aç">
 <!ENTITY contextSaveLink.label "Bağlantıyı kaydet">
 <!ENTITY contextSaveImage.label "Resmi kaydet">
+<!ENTITY contextCopyLink.label "Copy Link">
 <!ENTITY contextShareLink.label "Bağlantıyı paylaş">
 <!ENTITY contextShareImage.label "Resmi paylaş">
 <!ENTITY contextBookmarkLink.label "Bookmark Link">
