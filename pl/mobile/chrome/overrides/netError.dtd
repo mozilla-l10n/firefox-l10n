@@ -7,21 +7,18 @@
 <!-- Specific error messages -->
 
 <!ENTITY connectionFailure.title "Nie udało się nawiązać połączenia">
-<!ENTITY connectionFailure.longDesc "&sharedLongDesc;">
+<!ENTITY connectionFailure.longDesc "&sharedLongDesc2;">
 
 <!ENTITY deniedPortAccess.title "Port zastrzeżony z przyczyn bezpieczeństwa">
 <!ENTITY deniedPortAccess.longDesc "">
 
 <!ENTITY dnsNotFound.title "Nie odnaleziono adresu">
-<!ENTITY dnsNotFound.longDesc "
+<!ENTITY dnsNotFound.longDesc2 "
 <ul>
   <li>Upewnij się, że wprowadzony adres nie zawiera takich literówek, jak 
     <strong>ww</strong>.mozilla.org zamiast
     <strong>www</strong>.mozilla.org</li>
-  <li>Jeśli nie możesz otworzyć żadnej strony, sprawdź połączenie sieciowe
-    komputera.</li>
-  <li>Jeśli komputer lub sieć są chronione przez zaporę sieciową lub serwer proxy, upewnij się,
-    że &brandShortName; ma uprawnienia do łączenia się z Internetem.</li>
+  <li>Jeśli nie możesz otworzyć żadnej strony, sprawdź połączenie komórkowe lub sieciowe urządzenia.</li>
 </ul>
 ">
 
@@ -50,7 +47,7 @@
 ">
 
 <!ENTITY netInterrupt.title "Przerwano przesyłanie danych">
-<!ENTITY netInterrupt.longDesc "&sharedLongDesc;">
+<!ENTITY netInterrupt.longDesc "&sharedLongDesc2;">
 
 <!ENTITY netOffline.title "Tryb offline">
 <!ENTITY netOffline.longDesc2 "
@@ -74,10 +71,10 @@
 ">
 
 <!ENTITY netReset.title "Przerwane połączenie">
-<!ENTITY netReset.longDesc "&sharedLongDesc;">
+<!ENTITY netReset.longDesc "&sharedLongDesc2;">
 
 <!ENTITY netTimeout.title "Przekroczono limit czasu połączenia">
-<!ENTITY netTimeout.longDesc "&sharedLongDesc;">
+<!ENTITY netTimeout.longDesc "&sharedLongDesc2;">
 
 <!ENTITY protocolNotFound.title "Nieznany protokół">
 <!ENTITY protocolNotFound.longDesc "
@@ -96,12 +93,10 @@
 ">
 
 <!ENTITY proxyResolveFailure.title "Unable to find the proxy server">
-<!ENTITY proxyResolveFailure.longDesc "
+<!ENTITY proxyResolveFailure.longDesc2 "
 <ul>
   <li>Upewnij się, że ustawienia serwera proxy są poprawne.</li>
-  <li>Upewnij się, że połączenie sieciowe komputera działa.</li>
-  <li>Jeśli komputer lub sieć są chronione przez zaporę sieciową lub serwer proxy, upewnij się,
-    że &brandShortName; ma uprawnienia do łączenia się z Internetem.</li>
+  <li>Upewnij się, że połączenie komórkowe lub sieciowe urządzenia działa poprawnie.</li>
 </ul>
 ">
 
@@ -137,25 +132,11 @@
 </ul>
 ">
 
-<!ENTITY sharedLongDesc "
+<!ENTITY sharedLongDesc2 "
 <ul>
   <li>Strona może być tymczasowo niedostępna lub przeciążona. Spróbuj ponownie za pewien czas.</li>
-  <li>Jeśli nie udaje się otworzyć żadnej strony, sprawdź połączenie komputera z siecią.</li>
-  <li>Jeśli komputer lub sieć są chronione przez zaporę sieciową lub serwer proxy, upewnij się
-    że &brandShortName; ma uprawnienia do łączenia się z Internetem.</li>
+  <li>Jeśli nie udaje się otworzyć żadnej strony, sprawdź połączenie komórkowe lub sieciowe urządzenia.</li>
 </ul>
-">
-
-<!ENTITY malwareBlocked.title "Witryna podejrzewana o dokonywanie ataków!">
-<!ENTITY malwareBlocked.longDesc "
-<p>Tego rodzaju witryny mogą próbować instalować oprogramowanie wykradające poufne dane, używające komputera do pośredniczenia w atakach lub uszkadzające system.</p>
-<p>Właściciele witryn, które zostały błędnie uznane za podejrzane, mogą <a href='http://www.stopbadware.org/home/reviewinfo'>poprosić o ponowne ich sprawdzenie</a>.</p>
-">
-
-<!ENTITY phishingBlocked.title "Prawdopodobne oszustwo!">
-<!ENTITY phishingBlocked.longDesc "
-<p>Wprowadzanie jakichkolwiek informacji osobistych na tej stronie może skutkować kradzieżą tożsamości lub inną malwersacją.</p>
-<p>Tego rodzaju fałszerstwa określa się mianem phishingu. Atak ten polega na utworzeniu przez przestępców podrobionej strony lub wiadomości udającej źródło godne zaufania.</p>
 ">
 
 <!ENTITY cspFrameAncestorBlocked.title "Zablokowane przez politykę bezpieczeństwa treści">
