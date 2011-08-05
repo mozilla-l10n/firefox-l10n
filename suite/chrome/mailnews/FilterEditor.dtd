@@ -71,8 +71,8 @@
 <!ENTITY contextIncoming.label "Üzenetek beérkezésekor">
 <!ENTITY contextManual.label "Kézi futtatáskor">
 <!ENTITY contextBoth.label "Levelek ellenőrzése vagy kézi futtatás">
-<!ENTITY contextPostPlugin.label "Checking Mail (after classification)">
-<!ENTITY contextPostPluginBoth.label "Checking Mail (after classification) or Manually Run">
+<!ENTITY contextPostPlugin.label "Levelek ellenőrzésekor (osztályozás után)">
+<!ENTITY contextPostPluginBoth.label "Levelek ellenőrzésekor (osztályozás után) vagy kézzel futtatva">
 
 <!ENTITY filterActionDesc.label "Műveletek végrehajtása:">
 <!ENTITY filterActionDesc.accesskey "v">

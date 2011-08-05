@@ -291,7 +291,7 @@
 <!ENTITY nextMenu.label "Következő">
 <!ENTITY nextMenu.accesskey "K">
 <!ENTITY nextMsgCmd.label "Üzenet">
-<!ENTITY nextMsgCmd.accesskey "Ü">
+<!ENTITY nextMsgCmd.accesskey "z">
 <!ENTITY nextMsgCmd.key "f">
 <!ENTITY nextUnreadMsgCmd.label "Olvasatlan üzenet">
 <!ENTITY nextUnreadMsgCmd.accesskey "O">
@@ -304,8 +304,8 @@
 <!ENTITY prevMenu.label "Előző">
 <!ENTITY prevMenu.accesskey "E">
 <!ENTITY prevMsgCmd.label "Üzenet">
-<!ENTITY prevMsgCmd.accesskey "Ü">
-<!ENTITY prevMsgCmd.key "Ü">
+<!ENTITY prevMsgCmd.accesskey "z">
+<!ENTITY prevMsgCmd.key "z">
 <!ENTITY prevUnreadMsgCmd.label "Olvasatlan üzenet">
 <!ENTITY prevUnreadMsgCmd.accesskey "O">
 <!ENTITY prevUnreadMsgCmd.key "l">
@@ -322,11 +322,11 @@
 <!-- Message Menu -->
 
 <!ENTITY msgMenu.label "Üzenet">
-<!ENTITY msgMenu.accesskey "Ü">
+<!ENTITY msgMenu.accesskey "z">
 <!ENTITY newMsgCmd.label "Új üzenet">
-<!ENTITY newMsgCmd.accesskey "z">
+<!ENTITY newMsgCmd.accesskey "j">
 <!ENTITY newNewMsgCmd.label "Üzenet">
-<!ENTITY newNewMsgCmd.accesskey "Ü">
+<!ENTITY newNewMsgCmd.accesskey "z">
 <!ENTITY replyMsgCmd.label "Válasz">
 <!ENTITY replyMsgCmd.accesskey "V">
 <!ENTITY replyMsgCmd.key "V">
@@ -355,7 +355,7 @@
 <!ENTITY editMsgAsNewCmd.key "z">
 <!ENTITY createFilter.label "Áthelyezés">
 <!ENTITY createFilter.accesskey "h">
-<!ENTITY archiveMsgCmd.label "Archive">
+<!ENTITY archiveMsgCmd.label "Archív">
 <!ENTITY archiveMsgCmd.accesskey "A">
 <!ENTITY archiveMsgCmd.key "a">
 <!ENTITY moveMsgToMenu.label "Áthelyezés máshová">
@@ -487,7 +487,7 @@
 <!-- Tooltips -->
 
 <!ENTITY menuBar.tooltip "Menüsor">
-<!ENTITY mailToolbar.tooltip "Hely eszköztár">
+<!ENTITY mailToolbar.tooltip "Levelezés eszköztár">
 <!ENTITY searchToolbar.tooltip "Keresősáv">
 <!ENTITY advancedButton.tooltip "Keresés az üzenetekben…">
 <!ENTITY getMsgButton.tooltip "Új üzenetek letöltése">

@@ -38,65 +38,65 @@
    -
    - ***** END LICENSE BLOCK ***** -->
 
-<!ENTITY folderProps.windowtitle.label "Tulajdonságok">
+<!ENTITY folderProps.windowtitle.label           "Tulajdonságok">
 
-<!ENTITY generalInfo.label "Általános információk">
-<!ENTITY folderCharsetTab.label "Alapértelmezett karakterkódolás:">
-<!ENTITY folderCharsetTab.accesskey "A">
-<!ENTITY folderCharsetOverride.label "Az alapértelmezés alkalmazása a mappa összes üzeneténél (az üzenet egyedi karakterkódolás-beállításai és az automatikus felismerés figyelmen kívül hagyása)">
-<!ENTITY folderCharsetOverride.accesskey "A">
-<!ENTITY folderRebuildSummaryFileTip2.label "Rebuild Summary File Index">
-<!ENTITY folderRebuildSummaryFile2.label "Repair Folder">
-<!ENTITY folderRebuildSummaryFile2.accesskey "R">
-<!ENTITY folderRebuildSummaryFile.explanation "Sometimes the folder index (.msf) file becomes damaged and messages may appear missing or deleted messages continue showing; repairing the folder may fix these issues.">
-<!ENTITY folderIncludeInGlobalSearch.label "Include messages in this folder in Global Search results">
-<!ENTITY folderIncludeInGlobalSearch.accesskey "G">
-
+<!ENTITY generalInfo.label                       "Általános információk">
+<!ENTITY folderCharsetTab.label                  "Alapértelmezett karakterkódolás:">
+<!ENTITY folderCharsetTab.accesskey              "A">
+<!ENTITY folderCharsetOverride.label             "Az alapértelmezés alkalmazása a mappa összes üzeneténél (az üzenet egyedi karakterkódolás-beállításai és az automatikus felismerés figyelmen kívül hagyása)">
+<!ENTITY folderCharsetOverride.accesskey         "A">
+<!ENTITY folderRebuildSummaryFileTip2.label      "Összefoglaló fájlindex újraépítése">
+<!ENTITY folderRebuildSummaryFile2.label         "Mappa javítása">
+<!ENTITY folderRebuildSummaryFile2.accesskey     "M">
+<!ENTITY folderRebuildSummaryFile.explanation    "Néha a mappaindex (.msf) fájlja megsérül, és az üzenetek nem jelennek meg, vagy a törölt üzenetek megjelennek; a mappa javítása megszüntetheti ezeket a problémákat.">
+<!ENTITY folderIncludeInGlobalSearch.label       "A mappa üzeneteinek megjelenítése a globális keresés eredményei között">
+<!ENTITY folderIncludeInGlobalSearch.accesskey   "G">
+     
 <!ENTITY retention.label "Megőrzési házirend">
-<!ENTITY retentionUseAccount.label "Use my account settings">
-<!ENTITY retentionUseAccount.accesskey "U">
+<!ENTITY retentionUseAccount.label  "A postafiók beállításainak megfelelően">
+<!ENTITY retentionUseAccount.accesskey "p">
 <!ENTITY daysOld.label "nap">
 <!ENTITY message.label "üzenet">
-<!ENTITY retentionCleanup.label "Megtartás:">
-<!ENTITY retentionCleanupImap.label "Keep messages, both the local copies and their originals on the server:">
-<!ENTITY retentionCleanupPop.label "Keep messages, including their originals on the server:">
+<!ENTITY retentionCleanup.label "Lemezhely felszabadítása céljából a régi üzenetek véglegesen törölhetők.">
+<!ENTITY retentionCleanupImap.label "Lemezhely felszabadítása céljából a régi üzenetek véglegesen törölhetők, a helyi másolatok és a távoli kiszolgálón lévők egyaránt.">
+<!ENTITY retentionCleanupPop.label "Lemezhely felszabadítása céljából a régi üzenetek véglegesen törölhetők, beleértve a távoli kiszolgálón lévő eredetieket is.">
 <!ENTITY retentionDeleteMsg.label "Üzenetek törlése, ha régebbiek, mint">
-<!ENTITY retentionDeleteMsg.accesskey "r">
-<!ENTITY retentionKeepAll.label "Minden üzenet">
+<!ENTITY retentionDeleteMsg.accesskey "z">
+<!ENTITY retentionKeepAll.label "Minden üzenet megtartása">
 <!ENTITY retentionKeepAll.accesskey "M">
-<!ENTITY retentionKeepRecent.label "The newest">
-<!ENTITY retentionKeepRecent.accesskey "n">
+<!ENTITY retentionKeepRecent.label "Minden üzenet törlése, kivéve az utolsó">
+<!ENTITY retentionKeepRecent.accesskey "u">
 <!-- LOCALIZATION NOTE: Unhide with .keepUnreadOnly { display: -moz-box; } -->
-<!ENTITY retentionKeepUnreadHidden.label "Always delete read messages (overrides age settings)">
-<!ENTITY retentionApplyToFlagged.label "Always keep flagged messages">
-<!ENTITY retentionApplyToFlagged.accesskey "e">
+<!ENTITY retentionKeepUnreadHidden.label "Olvasott üzenetek törlése mindig (kor nem számít)">
+<!ENTITY retentionApplyToFlagged.label "Csillagozott üzenetek megtartása">
+<!ENTITY retentionApplyToFlagged.accesskey "C">
 
-<!ENTITY folderSynchronizationTab.label "Synchronization">
-<!ENTITY folderCheckForNewMessages2.label "When getting new messages for this account, always check this folder">
-<!ENTITY folderCheckForNewMessages2.accesskey "c">
+<!ENTITY folderSynchronizationTab.label          "Szinkronizálás">
+<!ENTITY folderCheckForNewMessages2.label         "Ha új üzenetet érkezik ebbe a postafiókba, mindig nézze meg ezt a mappát.">
+<!ENTITY folderCheckForNewMessages2.accesskey     "h">
 
-<!ENTITY offlineFolder.check.label "Mappa kiválasztása kapcsolat nélküli munkához">
-<!ENTITY offlineFolder.check.accesskey "M">
-<!ENTITY offlineFolder.button.label "Letöltés">
-<!ENTITY offlineFolder.button.accesskey "L">
+<!ENTITY offlineFolder.check.label               "Mappa kiválasztása kapcsolat nélküli munkához">
+<!ENTITY offlineFolder.check.accesskey           "M">
+<!ENTITY offlineFolder.button.label              "Letöltés">
+<!ENTITY offlineFolder.button.accesskey          "L">
 
-<!ENTITY selectofflineNewsgroup.check.label "Hírcsoport kiválasztása kapcsolat nélküli munkához">
-<!ENTITY selectofflineNewsgroup.check.accesskey "H">
-<!ENTITY offlineNewsgroup.button.label "Letöltés">
-<!ENTITY offlineNewsgroup.button.accesskey "L">
+<!ENTITY selectofflineNewsgroup.check.label      "Hírcsoport kiválasztása kapcsolat nélküli munkához">
+<!ENTITY selectofflineNewsgroup.check.accesskey  "H">
+<!ENTITY offlineNewsgroup.button.label           "Letöltés">
+<!ENTITY offlineNewsgroup.button.accesskey       "L">
 
-<!ENTITY folderProps.name.label "Név:">
-<!ENTITY folderProps.name.accesskey "N">
-<!ENTITY folderProps.location.label "Hely:">
-<!ENTITY folderProps.location.accesskey "H">
+<!ENTITY folderProps.name.label                  "Név:">
+<!ENTITY folderProps.name.accesskey              "N">
+<!ENTITY folderProps.location.label              "Hely:">
+<!ENTITY folderProps.location.accesskey          "H">
 
-<!ENTITY folderSharingTab.label "Megosztás">
-<!ENTITY privileges.button.label "Jogosultságok...">
-<!ENTITY privileges.button.accesskey "J">
-<!ENTITY permissionsDesc.label "A következő jogosultságokkal rendelkezik:">
-<!ENTITY folderType.label "Mappatípus:">
+<!ENTITY folderSharingTab.label                  "Megosztás">
+<!ENTITY privileges.button.label                 "Jogosultságok...">
+<!ENTITY privileges.button.accesskey             "J">
+<!ENTITY permissionsDesc.label                   "A következő jogosultságai vannak:">
+<!ENTITY folderType.label                        "Mappatípus:">
 
-<!ENTITY folderQuotaTab.label "Kvóta">
-<!ENTITY folderQuotaRoot.label "Kvótagyökér:">
-<!ENTITY folderQuotaUsage.label "Használat:">
-<!ENTITY folderQuotaStatus.label "Állapot:">
+<!ENTITY folderQuotaTab.label                    "Kvóta">
+<!ENTITY folderQuotaRoot.label                   "Kvótagyökér:">
+<!ENTITY folderQuotaUsage.label                  "Használat:">
+<!ENTITY folderQuotaStatus.label                 "Állapot:">

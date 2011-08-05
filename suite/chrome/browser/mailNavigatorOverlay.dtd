@@ -1,5 +1,5 @@
 <!ENTITY newMessageCmd.label "Üzenet">
-<!ENTITY newMessageCmd.accesskey "Ü">
+<!ENTITY newMessageCmd.accesskey "z">
 <!ENTITY newMessageCmd.key "M">
 
 <!ENTITY newContactCmd.label "Névjegykártya...">
