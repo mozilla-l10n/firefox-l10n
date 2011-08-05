@@ -18,7 +18,7 @@
   <li>Upewnij się, że wprowadzony adres nie zawiera takich literówek, jak 
     <strong>ww</strong>.mozilla.org zamiast
     <strong>www</strong>.mozilla.org</li>
-  <li>Jeśli nie możesz otworzyć żadnej strony, sprawdź połączenie komórkowe lub sieciowe urządzenia.</li>
+  <li>Jeśli nie możesz otworzyć żadnej strony, sprawdź połączenie sieciowe.</li>
 </ul>
 ">
 
@@ -96,7 +96,7 @@
 <!ENTITY proxyResolveFailure.longDesc2 "
 <ul>
   <li>Upewnij się, że ustawienia serwera proxy są poprawne.</li>
-  <li>Upewnij się, że połączenie komórkowe lub sieciowe urządzenia działa poprawnie.</li>
+  <li>Upewnij się, że połączenie sieciowe działa poprawnie.</li>
 </ul>
 ">
 
@@ -135,7 +135,7 @@
 <!ENTITY sharedLongDesc2 "
 <ul>
   <li>Strona może być tymczasowo niedostępna lub przeciążona. Spróbuj ponownie za pewien czas.</li>
-  <li>Jeśli nie udaje się otworzyć żadnej strony, sprawdź połączenie komórkowe lub sieciowe urządzenia.</li>
+  <li>Jeśli nie udaje się otworzyć żadnej strony, sprawdź połączenie sieciowe.</li>
 </ul>
 ">
 
