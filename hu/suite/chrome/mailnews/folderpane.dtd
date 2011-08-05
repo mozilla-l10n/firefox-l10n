@@ -42,4 +42,4 @@
 <!ENTITY folderLocationToolbarItem.title "Mappa helye">
 <!ENTITY mailViewsToolbarItem.title "Üzenetnézetek">
 <!ENTITY searchToolbarItem.title "Keresés">
-<!ENTITY searchSubjectOrAddress.placeholder "Tárgy vagy cím keresése">
+<!ENTITY searchSubjectOrAddress.placeholder "Tárgy vagy cím">

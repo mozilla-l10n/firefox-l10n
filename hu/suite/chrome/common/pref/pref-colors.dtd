@@ -1,7 +1,7 @@
 <!-- extracted from content/pref-colors.xul -->
 <!-- LOCALIZATION NOTE : FILE Color management prefs -->
 
-<!ENTITY pref.colors.title "színek használata minden alkalommal">
+<!ENTITY pref.colors.title "Színek">
 <!ENTITY color "Szöveg és háttér">
 <!ENTITY textColor.label "Szöveg:">
 <!ENTITY textColor.accesskey "S">

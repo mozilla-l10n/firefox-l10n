@@ -46,7 +46,7 @@
 <!ENTITY bccButton.label "Rejtett másolat:">
 <!ENTITY bccButton.accesskey "R">
 <!ENTITY newButton.label "Új...">
-<!ENTITY newButton.accesskey "Ú">
+<!ENTITY newButton.accesskey "j">
 <!ENTITY editButton.label "Szerkesztés...">
 <!ENTITY editButton.accesskey "S">
 <!ENTITY removeButton.label "Eltávolítás">
