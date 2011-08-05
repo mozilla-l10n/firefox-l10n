@@ -38,7 +38,7 @@
 
 <!ENTITY pref.tags.title "Címkék">
 <!ENTITY pref.tags.caption "Címkék testreszabása">
-<!ENTITY pref.tags.description "A címkék használatával kategórizálhatja üzeneteit és megadhatja azok fontosságát. Ezen a párbeszédablakon megváltoztathatja az egyes címkék megjelenését és fontosságát. A felső címkék a fontosabbakat jelölik mint az alattuk lévők.">
+<!ENTITY pref.tags.description "A címkék használatával kategorizálhatja üzeneteit és megadhatja azok fontosságát. Ezen a párbeszédablakon megváltoztathatja az egyes címkék megjelenését és fontosságát. A felső címkék a fontosabbakat jelölik mint az alattuk lévők.">
 <!ENTITY tagColumn.label "Címke">
 <!ENTITY colorColumn.label "Szín">
 <!ENTITY defaultTagName.label "Névtelen címke">
