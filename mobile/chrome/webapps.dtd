@@ -1,6 +1,6 @@
 <!ENTITY webapps.title.placeholder "Введите заголовок">
-<!ENTITY webapps.permissions "Разрешить доступ:">
-<!ENTITY webapps.perm.geolocation "Определение местоположения">
-<!ENTITY webapps.perm.offline "Хранилище автономных данных">
-<!ENTITY webapps.perm.notifications "Уведомления на десктопе">
-<!ENTITY webapps.perm.requested "запрошено">
+<!ENTITY webapps.permissions "Разрешить доступ к:">
+<!ENTITY webapps.perm.geolocation "Определению местоположения">
+<!ENTITY webapps.perm.offline "Хранилищу автономных данных">
+<!ENTITY webapps.perm.notifications "Уведомлениям на десктопе">
+<!ENTITY webapps.perm.requested "запрошено приложением">
