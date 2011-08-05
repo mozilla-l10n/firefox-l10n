@@ -70,4 +70,4 @@
 
 <!ENTITY domainnameError.title "Hibás tartománynév">
 <!-- LOCALIZATION NOTE: do not translate @string@ -->
-<!ENTITY invalidEntryError.label "@string@ tartománynév érvénytelen és figyelmen kívül lesz hagyva. Az érvényes tartománynevek legalább egy pontot (.) tartalmaznak amely karakterekkel vannak körülvéve.">
+<!ENTITY invalidEntryError.label "@string@ tartománynév érvénytelen és figyelmen kívül lesz hagyva. Az érvényes tartománynevek legalább egy pontot (.) tartalmaznak amelyek karakterekkel vannak körülvéve.">
