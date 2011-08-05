@@ -19,3 +19,5 @@
 
 <!ENTITY  launcher_shortcuts_title "&brandShortName; 行動網頁應用程式">
 <!ENTITY  launcher_shortcuts_empty "找不到任何行動網頁應用程式">
+
+<!ENTITY choose_file "選擇檔案">
