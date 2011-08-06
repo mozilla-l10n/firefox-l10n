@@ -27,7 +27,7 @@
 <!ENTITY alwaysCheckDefault.accesskey    "B">
 <!ENTITY checkNow.label                  "Jetzt überprüfen">
 <!ENTITY checkNow.accesskey              "J">
-<!ENTITY submitCrashes.label             "Absturzmeldungen senden">
+<!ENTITY submitCrashes.label             "Absturzberichte senden">
 <!ENTITY submitCrashes.accesskey         "A">
 <!ENTITY submitTelemetry.label           "Performanz-Daten senden">
 <!ENTITY submitTelemetry.accesskey       "P">
