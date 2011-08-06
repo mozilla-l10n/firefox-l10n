@@ -3,4 +3,4 @@
 <!ENTITY webapps.perm.geolocation "Определению местоположения">
 <!ENTITY webapps.perm.offline "Хранилищу автономных данных">
 <!ENTITY webapps.perm.notifications "Уведомлениям на десктопе">
-<!ENTITY webapps.perm.requested "запрошено приложением">
+<!ENTITY webapps.perm.requestedHint "(запрошено)">
