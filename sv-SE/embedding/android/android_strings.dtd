@@ -19,3 +19,5 @@
 
 <!ENTITY  launcher_shortcuts_title "&brandShortName; webbappar">
 <!ENTITY  launcher_shortcuts_empty "Hittade inga webbappar">
+
+<!ENTITY choose_file "Välj fil">
