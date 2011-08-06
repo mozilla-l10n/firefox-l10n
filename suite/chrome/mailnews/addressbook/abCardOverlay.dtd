@@ -63,32 +63,32 @@
 <!ENTITY PhoneticField1.label           "Phonetisch:">
 <!ENTITY PhoneticField2.label           "Phonetisch:">
 <!ENTITY DisplayName.label              "Anzeigename:">
-<!ENTITY DisplayName.accesskey          "A">
+<!ENTITY DisplayName.accesskey          "z">
 <!ENTITY NickName.label                 "Spitzname:">
 <!ENTITY NickName.accesskey             "S">
 
 <!ENTITY PrimaryEmail.label             "E-Mail:">
 <!ENTITY PrimaryEmail.accesskey         "E">
-<!ENTITY SecondEmail.label              "Zusätzliche E-Mail:">
-<!ENTITY SecondEmail.accesskey          "Z">
+<!ENTITY SecondEmail.label              "Weitere E-Mail:">
+<!ENTITY SecondEmail.accesskey          "W">
 <!ENTITY PreferMailFormat.label         "Bevorzugt folgendes Nachrichten-Format:">
 <!ENTITY PreferMailFormat.accesskey     "B">
 <!ENTITY PlainText.label                "Reiner Text">
 <!ENTITY HTML.label                     "HTML">
 <!ENTITY Unknown.label                  "Unbekannt">
-<!ENTITY ScreenName.label               "Anzeigename:">
-<!ENTITY ScreenName.accesskey           "I">
+<!ENTITY ScreenName.label               "AOL-Name:">
+<!ENTITY ScreenName.accesskey           "O">
 
 <!ENTITY allowRemoteContent1.label      "Externe Inhalte erlauben.">
 <!ENTITY allowRemoteContent1.accesskey  "x">
 <!ENTITY allowRemoteContent1.tooltip    "In HTML-Nachrichten können Inhalte von externen Quellen eingebunden sein. Beim Anzeigen dieser Nachrichten wird eine Verbindung zur externen Quelle hergestellt. Dadurch könnte zurückverfolgt werden, dass die Nachricht gelesen wird. Durch Aktivieren dieser Option erlauben Sie das Laden der Inhalte von externen Quellen bei Nachrichten dieses Absenders.">
 
 <!ENTITY WorkPhone.label                "Dienstlich:">
-<!ENTITY WorkPhone.accesskey            "D">
+<!ENTITY WorkPhone.accesskey            "h">
 <!ENTITY HomePhone.label                "Privat:">
-<!ENTITY HomePhone.accesskey            "P">
+<!ENTITY HomePhone.accesskey            "v">
 <!ENTITY FaxNumber.label                "Fax:">
-<!ENTITY FaxNumber.accesskey            "F">
+<!ENTITY FaxNumber.accesskey            "a">
 <!ENTITY PagerNumber.label              "Pager:">
 <!ENTITY PagerNumber.accesskey          "g">
 <!ENTITY CellularNumber.label           "Mobiltelefon:">
@@ -97,7 +97,7 @@
 <!ENTITY Home.tab                       "Privat">
 <!ENTITY Home.accesskey                 "P">
 <!ENTITY HomeAddress.label              "Adresse:">
-<!ENTITY HomeAddress.accesskey          "d">
+<!ENTITY HomeAddress.accesskey          "A">
 <!ENTITY HomeAddress2.label             "">
 <!ENTITY HomeAddress2.accesskey         "">
 <!ENTITY HomeCity.label                 "Ort:">
@@ -105,7 +105,7 @@
 <!ENTITY HomeState.label                "Bundesland:">
 <!ENTITY HomeState.accesskey            "B">
 <!ENTITY HomeZipCode.label              "PLZ:">
-<!ENTITY HomeZipCode.accesskey          "P">
+<!ENTITY HomeZipCode.accesskey          "Z">
 <!ENTITY HomeCountry.label              "Land:">
 <!ENTITY HomeCountry.accesskey          "L">
 <!ENTITY HomeWebPage.label              "Web-Seite:">
@@ -121,13 +121,13 @@
 <!ENTITY Work.tab                       "Dienstlich">
 <!ENTITY Work.accesskey                 "D">
 <!ENTITY JobTitle.label                 "Titel:">
-<!ENTITY JobTitle.accesskey             "i">
+<!ENTITY JobTitle.accesskey             "T">
 <!ENTITY Department.label               "Abteilung:">
-<!ENTITY Department.accesskey           "g">
+<!ENTITY Department.accesskey           "e">
 <!ENTITY Company.label                  "Organisation:">
-<!ENTITY Company.accesskey              "n">
+<!ENTITY Company.accesskey              "s">
 <!ENTITY WorkAddress.label              "Adresse:">
-<!ENTITY WorkAddress.accesskey          "d">
+<!ENTITY WorkAddress.accesskey          "A">
 <!ENTITY WorkAddress2.label             "">
 <!ENTITY WorkAddress2.accesskey         "">
 <!ENTITY WorkCity.label                 "Ort:">
@@ -135,7 +135,7 @@
 <!ENTITY WorkState.label                "Bundesland:">
 <!ENTITY WorkState.accesskey            "B">
 <!ENTITY WorkZipCode.label              "PLZ:">
-<!ENTITY WorkZipCode.accesskey          "P">
+<!ENTITY WorkZipCode.accesskey          "Z">
 <!ENTITY WorkCountry.label              "Land:">
 <!ENTITY WorkCountry.accesskey          "L">
 <!ENTITY WorkWebPage.label              "Web-Seite:">
@@ -152,7 +152,7 @@
 <!ENTITY Custom4.label                  "Benutzerdef. 4:">
 <!ENTITY Custom4.accesskey              "4">
 <!ENTITY Notes.label                    "Anmerkungen:">
-<!ENTITY Notes.accesskey                "m">
+<!ENTITY Notes.accesskey                "A">
 
 <!ENTITY Photo.tab                      "Foto">
 <!ENTITY Photo.accesskey                "F">
@@ -163,7 +163,7 @@
 <!ENTITY PhotoFile.label                "Auf diesem Computer">
 <!ENTITY PhotoFile.accesskey            "C">
 <!ENTITY BrowsePhoto.label              "Durchsuchen">
-<!ENTITY BrowsePhoto.accesskey          "D">
+<!ENTITY BrowsePhoto.accesskey          "u">
 <!ENTITY PhotoURL.label                 "Im Web">
 <!ENTITY PhotoURL.accesskey             "W">
 <!ENTITY PhotoURL.placeholder           "Fügen Sie die Web-Adresse eines Fotos ein oder geben Sie diese ein">

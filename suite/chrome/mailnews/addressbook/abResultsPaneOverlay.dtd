@@ -44,7 +44,7 @@
 <!ENTITY _PhoneticName.accesskey               "P">
 <!ENTITY NickName.label                        "Spitzname">
 <!ENTITY NickName.accesskey                    "S">
-<!ENTITY SecondEmail.label                     "Zusätzliche E-Mail">
+<!ENTITY SecondEmail.label                     "Weitere E-Mail">
 <!ENTITY SecondEmail.accesskey                 "Z">
 <!ENTITY Department.label                      "Abteilung">
 <!ENTITY Department.accesskey                  "A">
@@ -60,7 +60,7 @@
 <!ENTITY HomePhone.accesskey                   "T">
 <!ENTITY WorkPhone.label                       "Tel. dienstlich">
 <!ENTITY WorkPhone.accesskey                   "T">
-<!ENTITY ScreenName.label                      "Anzeigename">
+<!ENTITY ScreenName.label                      "AOL-Name">
 <!ENTITY ScreenName.accesskey                  "A">
 <!ENTITY sortAscending.label                   "Aufsteigend">
 <!ENTITY sortAscending.accesskey               "A">
