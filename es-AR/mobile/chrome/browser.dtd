@@ -7,6 +7,7 @@
 <!ENTITY go.label              "Ir">
 <!ENTITY star.label            "Destacado">
 
+<!ENTITY showTabs.label        "Mostrar pestañas">
 <!ENTITY newtab.label          "Nueva pestaña">
 <!ENTITY closetab.label        "Cerrar pestaña">
 
