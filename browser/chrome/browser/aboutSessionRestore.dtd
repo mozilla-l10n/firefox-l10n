@@ -4,7 +4,7 @@
      and regret that we are unable to restore the session for the user -->
 <!ENTITY restorepage.errorTitle     "Entschuldigung, das hätte nicht passieren dürfen.">
 <!ENTITY restorepage.problemDesc    "&brandShortName; hat Schwierigkeiten, die Tabs und Fenster Ihrer letzten Sitzung wiederherzustellen. Häufig liegt das an einer kürzlich geöffneten Webseite.">
-<!ENTITY restorepage.tryThis        "Sie können folgendes versuchen:">
+<!ENTITY restorepage.tryThis        "Sie können Folgendes versuchen:">
 <!ENTITY restorepage.restoreSome    "Einen oder mehrere Tabs schließen, die womöglich das Problem verursachen."> 
 <!ENTITY restorepage.startNew       "Eine komplett neue Sitzung starten">
 
