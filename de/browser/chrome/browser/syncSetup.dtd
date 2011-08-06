@@ -44,7 +44,7 @@
 <!ENTITY syncKeyEntry.label        "Ihr Sync-Schlüssel">
 <!ENTITY syncKeyEntry.accesskey    "S">
 <!ENTITY syncGenerateNewKey.label  "Einen neuen Schlüssel generieren">
-<!ENTITY syncKeyBackup.description "Sie benötigen den Sync-Schlüssel, um auf anderen Geräten auf &syncBrand.fullName.label; zuzugreifen. Bitte hinterlegen Sie eine Sicherheitskopie des Schlüssels. Wir können Ihnen nicht dabei helfen, den Sync-Schlüssel wieder zu erlangen.">
+<!ENTITY syncKeyBackup.description "Sie benötigen den Sync-Schlüssel, um auf anderen Geräten auf &syncBrand.fullName.label; zuzugreifen. Bitte hinterlegen Sie eine Sicherheitskopie des Schlüssels. Wir können Ihnen nicht dabei helfen, den Sync-Schlüssel wiederzuerlangen.">
 
 <!ENTITY button.syncKeyBackup.print.label     "Drucken…">
 <!ENTITY button.syncKeyBackup.print.accesskey "D">
