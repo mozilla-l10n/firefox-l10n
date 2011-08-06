@@ -1,6 +1,6 @@
-<!ENTITY crashes.title              "Gesendete Absturzmeldungen">
+<!ENTITY crashes.title              "Gesendete Absturzberichte">
 <!ENTITY id.heading                 "Meldungs-ID">
 <!ENTITY date.heading               "Sendedatum">
-<!ENTITY noReports.label            "Es wurden noch keine Absturzmeldungen versendet.">
-<!ENTITY noConfig.label             "Diese Anwendung wurde nicht für die Anzeige von Absturzmeldungen konfiguriert. Die Einstellung <code>breakpad.reportURL</code> muss gesetzt werden.">
+<!ENTITY noReports.label            "Es wurden noch keine Absturzberichte versendet.">
+<!ENTITY noConfig.label             "Diese Anwendung wurde nicht für die Anzeige von Absturzberichten konfiguriert. Die Einstellung <code>breakpad.reportURL</code> muss gesetzt werden.">
 <!ENTITY clearAllReports.label      "Alle Meldungen entfernen">

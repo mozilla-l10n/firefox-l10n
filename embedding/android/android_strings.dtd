@@ -6,11 +6,11 @@
 <!ENTITY  crash_reporter_title "&brandShortName;-Absturz-Melder">
 <!ENTITY  crash_message "&brandShortName; ist abgestürzt. Ihre Tabs sollten auf der &brandShortName;-Startseite angezeigt werden, wenn Sie neu starten.">
 <!ENTITY  crash_help_message "Bitte helfen Sie uns, dieses Problem zu beheben!">
-<!ENTITY  crash_send_report_message "Absturzmeldung an Mozilla senden">
+<!ENTITY  crash_send_report_message "Absturzbericht an Mozilla senden">
 <!ENTITY  crash_include_url "Seitenadresse einfügen">
 <!ENTITY  crash_close_label "Schließen">
 <!ENTITY  crash_restart_label "&brandShortName; neu starten">
-<!ENTITY  sending_crash_report "Absturzmeldung wird versandt\u2026">
+<!ENTITY  sending_crash_report "Absturzbericht wird versandt\u2026">
 <!ENTITY  exit_label "Beenden">
 <!ENTITY  incompatable_device "Dieses Gerät wird von &brandShortName; nicht unterstützt. Sie könnten auf unerwartete Probleme stoßen.">
 <!ENTITY  continue_label "Fortsetzen">
