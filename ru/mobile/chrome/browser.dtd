@@ -5,6 +5,7 @@
 <!ENTITY stop.label "Остановить">
 <!ENTITY go.label "Перейти">
 <!ENTITY star.label "Звёздочка">
+<!ENTITY showTabs.label "Показать вкладки">
 <!ENTITY newtab.label "Новая вкладка">
 <!ENTITY closetab.label "Закрыть вкладку">
 <!ENTITY cut.label "Вырезать">
