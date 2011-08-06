@@ -59,6 +59,7 @@
 <!ENTITY editMessageButton.label "Upravit…">
 <!ENTITY hdrArchiveButton.label "archivovat">
 <!ENTITY hdrArchiveButton.tooltip "archivuje tuto zprávu">
+<!ENTITY hdrSmartReplyButton.label "odpovědět chytře">
 <!ENTITY hdrReplyButton.label "odpovědět">
 <!ENTITY hdrReplyButton.tooltip "odpoví na tuto zprávu">
 <!ENTITY hdrReplyAllButton.label "odpovědět všem">
