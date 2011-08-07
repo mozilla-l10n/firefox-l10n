@@ -53,7 +53,7 @@
 <!ENTITY netInterrupt.longDesc "&sharedLongDesc;">
 
 <!ENTITY netOffline.title "Салангид горим">
-<!ENTITY netOffline.longDesc "
+<!ENTITY netOffline.longDesc2 "
 <ul>
   <li>Файл цэсэнд буй &quot;Салангид ажиллах&quot; цэсийн чагтыг болиулаад дахин оролдоно уу.</li>
 </ul>
@@ -167,9 +167,16 @@ contents of the <xul:button> tags.  The only language content is the label= fiel
 which uses strings already defined above. The button is included here (instead of
 netError.xhtml) because it exposes functionality specific to firefox. -->
 
-<!ENTITY securityOverride.warningText "
+<!ENTITY securityOverride.warningContent "
 <p>Хэрэв та интернэт холболттой бөгөөд уг хуудсанд тэр чигээр нь итгээгүй юмуу эсвэл уг сервер дээр урьд нь ийм алдаа харж байгаагүй бол онцгой тохиолдол нэмэх шаардлагаггүй.</p>
 
 <xul:button xmlns:xul='http://www.mozilla.org/keymaster/gatekeeper/there.is.only.xul' id='getMeOutOfHereButton' label='&securityOverride.getMeOutOfHereButton;'/>
 <xul:button xmlns:xul='http://www.mozilla.org/keymaster/gatekeeper/there.is.only.xul' id='exceptionDialogButton' label='&securityOverride.exceptionButtonLabel;'/>
 ">
+
+<!ENTITY cspFrameAncestorBlocked.title "Контенц хамгаалах бодлогын дагуу хаасан байна.">
+<!ENTITY cspFrameAncestorBlocked.longDesc "<p>Энэ хуудас нь контенц хамгаалах бодлогоор зөвшөөрөгдөөгүй аргаар ажиллаж буй болохоор &brandShortName; нь хаасан байна.</p>">
+
+<!ENTITY remoteXUL.title "Холын XUL">
+<!ENTITY remoteXUL.longDesc "<p><ul><li>Энэ асуудалын талаар вэб сайт эрхлэгчд мэдэгдэнэ үү.</li></ul></p>">
+
