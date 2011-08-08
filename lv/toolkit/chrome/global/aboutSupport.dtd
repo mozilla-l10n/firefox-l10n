@@ -20,6 +20,7 @@
 <!ENTITY aboutSupport.appBasicsEnabledPlugins "Aktivizētie spraudņi">
 <!ENTITY aboutSupport.appBasicsBuildConfig "Būvējuma konfigurācija">
 <!ENTITY aboutSupport.appBasicsUserAgent "Lietotāja aģents">
+<!ENTITY aboutSupport.appBasicsCrashIDs "Avārijas ziņojumi">
 
 <!ENTITY aboutSupport.show.label "Atvērt saturošo mapi">
 
