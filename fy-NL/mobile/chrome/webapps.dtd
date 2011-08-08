@@ -3,4 +3,4 @@
 <!ENTITY webapps.perm.geolocation "Lokaasje-bewust sneupe">
 <!ENTITY webapps.perm.offline "Offline gegevensûnthâld">
 <!ENTITY webapps.perm.notifications "Buro-PC notifikaasjes">
-<!ENTITY webapps.perm.requested "frege">
+<!ENTITY webapps.perm.requestedHint "(frege)">
