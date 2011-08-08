@@ -48,9 +48,9 @@
 <!ENTITY netInterrupt.longDesc "&sharedLongDesc;">
 
 <!ENTITY netOffline.title "Modo offline">
-<!ENTITY netOffline.overrideLongDesc "
+<!ENTITY netOffline.longDesc2 "
 <ul>
-  <li>Tente de novo. O &brandShortName; tentará abrir uma conexão e recarregar a página.</li>
+  <li>Tente de novo. O &brandShortName; vai abrir uma conexão e recarregar a página.</li>
 </ul>
 ">
 
@@ -149,6 +149,9 @@
 
 <!ENTITY cspFrameAncestorBlocked.title "Bloqueado pela política de segurança de conteúdo">
 <!ENTITY cspFrameAncestorBlocked.longDesc "<p>O &brandShortName; impediu esta página de carregar desta forma porque a política de segurança de conteúdo da página não permite.</p>">
+
+<!ENTITY corruptedContentError.title "Conteúdo corrompido">
+<!ENTITY corruptedContentError.longDesc "<p>A página que você está tentando abrir não pôde ser exibida porque foi detectado um erro na transmissão.</p><ul><li>Por favor, contate os responsáveis pelo site para informá-los deste problema.</li></ul>">
 
 <!ENTITY securityOverride.linkText "Ou você pode adicionar uma exceção…">
 <!ENTITY securityOverride.getMeOutOfHereButton "Me tire daqui!">
