@@ -67,8 +67,6 @@
 
 <!ENTITY cmd.reloadLivebookmark.label "Odśwież dynamiczną zakładkę">
 <!ENTITY cmd.reloadLivebookmark.accesskey "d">
-<!ENTITY cmd.reloadMicrosummary.label "Odśwież dynamiczny tytuł">
-<!ENTITY cmd.reloadMicrosummary.accesskey "d">
 
 <!ENTITY cmd.moveBookmarks.label "Przenieś…">
 <!ENTITY cmd.moveBookmarks.accesskey "P">
