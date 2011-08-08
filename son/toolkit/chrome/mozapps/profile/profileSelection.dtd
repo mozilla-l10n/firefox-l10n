@@ -55,7 +55,7 @@
 <!ENTITY            deleteButton.accesskey "t">
 <!-- manager entities -->
 
-<!ENTITY            pmDescription.label    "&brandShortName; ga alhabar jiši war kayandiyaney, ibaayey se, nda goy-mise hayiize tana fooyaŋ war goykaw alhaaloo ra.">
+<!ENTITY            pmDescription.label    "&brandShortName; ga alhabar jiši war kayandiyaney, ibaayey še, nda goy-mise hayiize tana fooyaŋ war goykaw alhaaloo ra.">
 
 <!ENTITY            offlineState.label    "Goy bila nda ciyari">
 <!ENTITY            offlineState.accesskey "G">

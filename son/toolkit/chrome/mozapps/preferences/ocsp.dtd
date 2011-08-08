@@ -1,7 +1,7 @@
 <!ENTITY ocspDialog.title             "Tabatiyan-tiira alkakiikandiyan">
-<!ENTITY enableOCSP.label             "Ciyari assariya berehaw (OCSP) goyandi ka cimandi kaŋ sohõda tabatiyan-tiira ga boor.">
+<!ENTITY enableOCSP.label             "Ciyari assariya berehaw (OCSP) goyandi ka cimandi kaŋ sohõda tabatiyan-tiira ga boori.">
 <!ENTITY enableOCSP.accesskey         "g">
-<!ENTITY certOCSP2.label              "Tabatiyan-tiira foo alhakiikandi nda a ga OCSP feršikaw foo tabatandi">
+<!ENTITY certOCSP2.label              "Tabatiyan-tiira foo alhakiikandi nd'a ga OCSP feršikaw foo tabatandi">
 <!ENTITY certOCSP2.accesskey          "a">
 <!ENTITY proxyOCSP2.label             "Tabatiyan-tiirawey kul alhakiikandi nda OCSP feršikaa woo:">
 <!ENTITY proxyOCSP2.accesskey         "a">

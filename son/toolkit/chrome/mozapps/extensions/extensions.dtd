@@ -198,3 +198,5 @@ tontoni kul ihenney nda bayrantey war šiiyanoo se.">
 <!ENTITY eula.width                           "560px">
 <!ENTITY eula.height                          "400px">
 <!ENTITY eula.accept                          "Yadda nd'a sinji…">
+
+<!ENTITY settings.path.button.label           "Browse…">

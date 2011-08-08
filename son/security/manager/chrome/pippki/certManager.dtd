@@ -58,7 +58,7 @@
 <!ENTITY certmgr.detail.prettyprint_tab.accesskey "b">
 
 <!ENTITY certmgr.pending.label                "Goo ma tabatiyan-tiiraa koroši sohõda…">
-<!ENTITY certmgr.subjectinfo.label            "Wallafi woo se">
+<!ENTITY certmgr.subjectinfo.label            "Wallafi woo še">
 <!ENTITY certmgr.issuerinfo.label             "Woo n'a wallafi">
 <!ENTITY certmgr.validity.label               "Ga boori hala" >
 <!ENTITY certmgr.fingerprints.label           "Kabežeerey">

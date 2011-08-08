@@ -5,14 +5,14 @@ file names and tall enough to hint that there are more downloads in the list -->
 <!ENTITY window.height                    "300"> 
 
 <!ENTITY starting.label                   "Goo ma šintin…">
-<!ENTITY scanning.label                   "Laasaabu wiirisey se…">
+<!ENTITY scanning.label                   "Laasaabu wiirisey še…">
 
 <!ENTITY downloads.title                  "Zumandey">
 
 <!ENTITY cmd.pause.label                  "Hunanzam">
 <!ENTITY cmd.pause.accesskey              "H">
-<!ENTITY cmd.resume.label                 "Sintin taaga">
-<!ENTITY cmd.resume.accesskey             "S">
+<!ENTITY cmd.resume.label                 "Šintin taaga">
+<!ENTITY cmd.resume.accesskey             "Š">
 <!ENTITY cmd.cancel.label                 "Naŋ">
 <!ENTITY cmd.cancel.accesskey             "N">
 <!ENTITY cmd.show.label                   "Feeri foolo kaŋ goo nda">

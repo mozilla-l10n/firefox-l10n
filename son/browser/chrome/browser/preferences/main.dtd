@@ -1,4 +1,4 @@
-<!ENTITY startup.label             "Tunandiri">
+<!ENTITY startup.label             "Tunandi">
 
 <!ENTITY startupPage.label         "Waati kaŋ &brandShortName; ga tun:">
 <!ENTITY startupPage.accesskey     "t">
@@ -31,7 +31,7 @@
 <!ENTITY alwaysAsk.accesskey "w">
 
 <!ENTITY addonsMgr.label               "Tontoney">
-<!ENTITY manageAddonsDescWin.label     "Suubarey barmay war tontoney se">
-<!ENTITY manageAddonsDescUnix2.label   "Ibaayey barmay war tontoney se">
+<!ENTITY manageAddonsDescWin.label     "Suubarey barmay war tontoney še">
+<!ENTITY manageAddonsDescUnix2.label   "Ibaayey barmay war tontoney še">
 <!ENTITY manageAddons.label            "Tontoney juwal…">
 <!ENTITY manageAddons.accesskey        "T">

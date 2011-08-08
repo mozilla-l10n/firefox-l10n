@@ -24,7 +24,7 @@ ciyari.</li>
 
 <!ENTITY fileNotFound.title "Tuku mana diyandi">
 <!ENTITY fileNotFound.longDesc "<ul> 
-<li>Tuku maɲoo guna harfu beerandiyan wala hantum firkayaŋ se.</li> 
+<li>Tuku maɲoo guna harfu beerandiyan wala hantum firkayaŋ še.</li> 
 <li>Guna ka dii wala tukooo mana ganandi, maa-barmandi, wala tuusandi.</li> 
 </ul>">
 
@@ -36,7 +36,7 @@ ciyari.</li>
 <!ENTITY malformedURI.longDesc "<ul> 
 <li>Tataaru aderesey ši doona ka hantumandi sanda 
 <strong>http://www.example.com/</strong></li> 
-<li>War m'alhakiika kaŋ jine žeeri šiirante ši war hantumoo ra (himakašine 
+<li>War m'alhakiika kaŋ jine žeeri šiirante ši war hantumoo ra (maana ti 
 <strong>/</strong>).</li> 
 </ul>">
 
@@ -44,23 +44,20 @@ ciyari.</li>
 <!ENTITY netInterrupt.longDesc "&sharedLongDesc;">
 
 <!ENTITY netOffline.title "Bila nda ciyari alhaali">
-<!-- LOCALIZATION NOTE (netOffline.overrideLongDesc) - This string should
-     indicate that "Work Offline" is a menu item without being too specific,
-     since it could be in either the normal menu (Mac/Linux) or the Firefox button
-     menu (Windows).
--->
-<!ENTITY netOffline.overrideLongDesc "<ul> 
-<li>Tammaasa kaa &quot;Work Offline&quot; tukušilbayboŋoo ga, de m'a tee koyne.</li> 
-</ul>">
+<!ENTITY netOffline.longDesc2 "
+<ul>
+  <li>Press &quot;Try Again&quot; to switch to online mode and reload the page.</li>
+</ul>
+">
 
 <!ENTITY contentEncodingError.title "Gundekuna harfu-hawyan firka">
 <!ENTITY contentEncodingError.longDesc "<ul> 
-<li>Taare wa šendaa woo alhabar tee war nungoo koyey se.</li> 
+<li>Taare wa šendaa woo alhabar tee war nungoo koyey še.</li> 
 </ul>">
 
 <!ENTITY unsafeContentType.title "Tuku dumi kaŋ ši nda naanay">
 <!ENTITY unsafeContentType.longDesc "<ul> 
-<li>Taare wa šendaa woo alhabar tee war nungoo koyey se.</li> 
+<li>Taare wa šendaa woo alhabar tee war nungoo koyey še.</li> 
 </ul>">
 
 <!ENTITY netReset.title "Ciyaroo willi lasaloo ga">
@@ -134,6 +131,10 @@ goo &brandShortName; nda fondo ka huru tataaroo ra.</li>
 <!ENTITY cspFrameAncestorBlocked.title "Gagayandi gundekuna saajaw alhukum bande">
 <!ENTITY cspFrameAncestorBlocked.longDesc "<p>&brandShortName; ganji moɲoo woo ma zunbu takaa woo zama moɲoo goo nda gundekuna kaŋ saajaw alhukumoo ši yadda a ga.</p>">
 
+<!ENTITY corruptedContentError.title "Corrupted Content Error">
+<!ENTITY corruptedContentError.longDesc "<p>The page you are trying to view cannot be shown because an error in the data transmission was detected.</p><ul><li>Please contact the website owners to inform them of this problem.</li></ul>">
+
+
 <!ENTITY securityOverride.linkText "Wala war ga hin ka hasaraw foo tonton…">
 <!ENTITY securityOverride.getMeOutOfHereButton "Ay kaataray ne!">
 <!ENTITY securityOverride.exceptionButtonLabel "Hasaraw tonton…">
@@ -143,10 +144,10 @@ button is included here (instead of netError.xhtml) because it exposes
 functionality specific to firefox. -->
 
 
-<!ENTITY securityOverride.warningContent "<p>War ši hima ka hasaraw tonton nda war ga goy nda Interneti ciyari kaŋ ši nda naanay gumo wala war mana doona ka dii yaamaroo woo feršikaa woo se.</p>  
+<!ENTITY securityOverride.warningContent "<p>War ši hima ka hasaraw tonton nda war ga goy nda Interneti ciyari kaŋ ši nda naanay gumo wala war mana doona ka dii yaamaroo woo feršikaa woo še.</p>  
  
 <button id='getMeOutOfHereButton'>&securityOverride.getMeOutOfHereButton;</button> 
 <button id='exceptionDialogButton'>&securityOverride.exceptionButtonLabel;</button>">
 
 <!ENTITY remoteXUL.title "XUL moora">
-<!ENTITY remoteXUL.longDesc "<p><ul><li>Taare wa šendaa woo bayrandi Interneti nungoo koyey se.</li></ul></p>">
+<!ENTITY remoteXUL.longDesc "<p><ul><li>Taare wa šendaa woo bayrandi Interneti nungoo koyey še.</li></ul></p>">

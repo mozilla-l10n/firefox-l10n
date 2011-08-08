@@ -52,7 +52,7 @@
 <!ENTITY deleteBookmarks.accesskey    "D">
 
 <!ENTITY resetUserPrefs.label         "Wa goykaw ibaayey kul willi &brandShortName; lasal tilasey ga">
-<!ENTITY resetUserPrefs.accesskey     "p">
+<!ENTITY resetUserPrefs.accesskey     "b">
 
 <!ENTITY restoreSearch.label          "Tilasu ceecijinawey willi">
 <!ENTITY restoreSearch.accesskey      "w">

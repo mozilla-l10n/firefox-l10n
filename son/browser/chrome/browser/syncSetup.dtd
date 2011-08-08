@@ -24,10 +24,12 @@
 <!-- New Account Page 1: Basic Account Info -->
 
 <!ENTITY setup.newAccountDetailsPage.title.label "Kontu šilbayhayey">
-<!ENTITY setup.confirmPassword.label  "Šennikufal tabatandi">
-<!ENTITY setup.confirmPassword.accesskey  "a">
 <!ENTITY setup.emailAddress.label     "Bataga aderesu">
 <!ENTITY setup.emailAddress.accesskey "B">
+<!ENTITY setup.choosePassword.label      "Choose a Password">
+<!ENTITY setup.choosePassword.accesskey  "P">
+<!ENTITY setup.confirmPassword.label     "Šennikufal tabatandi">
+<!ENTITY setup.confirmPassword.accesskey "a">
 <!-- LOCALIZATION NOTE: tosAgree1, tosLink, tosAgree2, ppLink, tosAgree3 are
      joined with implicit white space, so spaces in the strings aren't necessary -->
 <!ENTITY setup.tosAgree1.label      "Ay yadda">
@@ -57,7 +59,7 @@
 <!ENTITY addDevice.title.label              "Jinay foo tonton">
 <!ENTITY addDevice.showMeHow.label          "Ay cebe takaa.">
 <!ENTITY addDevice.dontHaveDevice.label     "Goyjinaa ši ay kone sohõda">
-<!ENTITY addDevice.setup.description.label  "K'a tunandi, koy &syncBrand.shortName.label; Suubarey do war jinay jerey ga nda &#x0022;Add a Device&#x0022; suuba.">
+<!ENTITY addDevice.setup.description.label  'K&apos;a tunandi, koy &syncBrand.shortName.label; Suubarey do war jinay faa ga nda wa "Jinay foo tonton" suuba.'>
 <!ENTITY addDevice.setup.enterCode.label    "Ašariyaa woo dam waati din:">
 <!ENTITY addDevice.dialog.description.label "Ka war jinay taagaa tunandi, koy &syncBrand.shortName.label; Suubarey do jinaa ga nda &#x0022;Connect.&#x0022; suuba">
 <!ENTITY addDevice.dialog.enterCode.label   "Ašariya kaŋ jinaa n'a noo dam:">
@@ -68,7 +70,7 @@
 <!-- Existing Account Page 2: Manual Login -->
 
 <!ENTITY setup.signInPage.title.label "Huru">
-<!ENTITY existingSyncKey.description "War ga hin ka duu war Sync kufaloo celle nda war koy &syncBrand.shortName.label; Suubarey do war jinay faa ga, nda wa  &#x0022;My Sync Key&#x0022; suuba &#x0022;Manage Account&#x0022; cire.">
+<!ENTITY existingSyncKey.description 'War ga hin ka duu war Sync kufaloo celle nda war koy &syncBrand.shortName.label; Suubarey do war jinay faa ga, nda wa "Ay Sync kufaloo" suuba war "Kontu juwaloo" ra.'>
 <!ENTITY verifying.label              "Goo ma koroši…">
 <!ENTITY resetPassword.label          "Šennikufaloo yeeti">
 <!ENTITY resetSyncKey.label           "Ay jinay foo tanaa dere yane.">

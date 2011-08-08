@@ -3,7 +3,7 @@
 <!ENTITY testpilot.settings.dataSubmission.label    "Bayhaya sanbari">
 <!ENTITY testpilot.settings.notifications.label     "Bangandiyaney">
 <!ENTITY testpilot.settings.notifyWhen.label        "Ay bangandi waati kaŋ…">
-<!ENTITY testpilot.settings.readyToSubmit.label     "Cawyan foo soolu sanbayan se">
+<!ENTITY testpilot.settings.readyToSubmit.label     "Cawyan foo soolu sanbayan še">
 <!ENTITY testpilot.settings.newStudy.label          "Cawyan taaga foo goo no">
 <!ENTITY testpilot.settings.hasNewResults.label     "Cawyan foo ga haya taagayaŋ cebe">
 <!ENTITY testpilot.settings.alwaysSubmitData.label  "Naŋ ay bayhayey ma sanbandi ngi boŋše (ma ši ay hãa)">

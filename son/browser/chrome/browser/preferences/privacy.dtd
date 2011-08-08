@@ -61,8 +61,8 @@
 <!ENTITY  dontrememberActions.clearHistory.label "taariki taagante kul koonandi">
 <!ENTITY  dontrememberActions.post.label         ".">
 
-<!ENTITY  privateBrowsingPermanent.label "Sutura naarumi yaayi duumante">
-<!ENTITY  privateBrowsingPermanent.accesskey "d">
+<!ENTITY  privateBrowsingPermanent2.label "Always use private browsing mode">
+<!ENTITY  privateBrowsingPermanent2.accesskey "p">
 
 <!ENTITY  rememberHistory.label      "Honga ay naarumi taarikoo">
 <!ENTITY  rememberHistory.accesskey  "g">

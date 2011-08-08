@@ -44,7 +44,7 @@
 
 # link title for http://en-US.www.mozilla.com/en-US/firefox/help/
 
-#define firefox_help Faanda nda fahamitiirawey
+#define firefox_help Faaba nda fahamitiirawey
 
 
 # LOCALIZATION NOTE (firefox_customize):

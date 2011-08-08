@@ -50,7 +50,7 @@
 <!ENTITY  validation.advanced.accesskey           "K">
 
 <!ENTITY  validation.crl.autoupdate.title         "Duɲe kaddasu-yeeri šeede taagandiri ibaayey">
-<!ENTITY  validation.crl.autoupdate.enable.label  "Boŋ taagandiri tunandi duɲe kaddasu-yeeri šeedaa woo se">
+<!ENTITY  validation.crl.autoupdate.enable.label  "Boŋ taagandiri tunandi duɲe kaddasu-yeeri šeedaa woo še">
 <!ENTITY  validation.crl.autoupdate.time.label1   "Taagandiri">
 <!ENTITY  validation.crl.autoupdate.time.label2   "Zaari(ey) hala hiinoo taagandiroo">
 <!ENTITY  validation.crl.autoupdate.freq.label1   "Taagandi foo kul">

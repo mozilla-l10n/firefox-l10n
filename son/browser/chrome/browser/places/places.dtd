@@ -28,10 +28,12 @@
 <!ENTITY cmd.findCurrent.label          "Ceeci sohõda kuunayano ra…">
 <!ENTITY cmd.findCurrent.accesskey      "C">
 
-<!ENTITY cmd.exportHTML.label           "HTML fattandi…">
-<!ENTITY cmd.exportHTML.accesskey       "f">
-<!ENTITY cmd.importHTML.label           "HTML cendi ka dam…">
-<!ENTITY cmd.importHTML.accesskey       "c">
+<!ENTITY importBookmarksFromHTML.label     "Import Bookmarks from HTML…">
+<!ENTITY importBookmarksFromHTML.accesskey "I">
+<!ENTITY exportBookmarksToHTML.label       "Export Bookmarks to HTML…">
+<!ENTITY exportBookmarksToHTML.accesskey   "E">
+<!ENTITY importOtherBrowser.label          "Import Data from Another Browser…">
+<!ENTITY importOtherBrowser.accesskey      "A">
 
 <!ENTITY cmd.backup.label               "Banda-gaabu…">
 <!ENTITY cmd.backup.accesskey           "B">

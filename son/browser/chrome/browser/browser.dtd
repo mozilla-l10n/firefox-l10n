@@ -57,8 +57,6 @@ can reach it easily. -->
 <!ENTITY printCmd.label "Kar…">
 <!ENTITY printCmd.accesskey "K">
 <!ENTITY printCmd.commandkey "p">
-<!ENTITY import.label "Cendi ka dam…">
-<!ENTITY import.accesskey "C">
 
 <!ENTITY goOfflineCmd.label "Bila nda ciyari goy">
 <!ENTITY goOfflineCmd.accesskey "B">
@@ -139,7 +137,7 @@ can reach it easily. -->
 <!ENTITY tabGroupsButton.tooltip      "War nor lokey marga">
 
 <!ENTITY feedButton.label             "Boŋ-maa hantum">
-<!ENTITY feedButton.tooltip           "Boŋ-maa hantum moɲoo woo se…">
+<!ENTITY feedButton.tooltip           "Boŋ-maa hantum moɲoo woo še…">
 
 <!ENTITY bookmarksButton.label          "Doo-šilbawey">
 <!ENTITY bookmarksButton.tooltip        "War doo-šilbawey cebe">
@@ -159,14 +157,14 @@ can reach it easily. -->
 <!ENTITY bookmarksWinCmd.commandkey "i">
 
 <!ENTITY historyButton.label            "Taariki">
-<!ENTITY historyButton.tooltip          "Moɲey kaŋ war kokor ka dii'yey cebe">
+<!ENTITY historyButton.tooltip          "Moɲey kaŋ war kokor ka dii yey cebe">
 <!ENTITY historySidebarCmd.accesskey    "s">
 <!ENTITY historySidebarCmd.commandKey   "h">
 
 <!ENTITY toolsMenu.label              "Goyjinawey">
 <!ENTITY toolsMenu.accesskey          "G"> 
 
-<!ENTITY keywordfield.label           "Kufalkalima foo tonton ceeciroo woo se…">
+<!ENTITY keywordfield.label           "Kufalkalima foo tonton ceeciroo woo še…">
 <!ENTITY keywordfield.accesskey       "K">
 <!ENTITY search.label                 "Tataaru ceeci">
 <!ENTITY search.accesskey             "c">
@@ -212,19 +210,6 @@ can reach it easily. -->
 <!ENTITY inspectPanelTitle.label      "HTML">
 <!ENTITY inspectButton.label          "Hawgay">
 <!ENTITY inspectButton.accesskey      "g">
-<!ENTITY inspectNextButton.label      "Jine">
-<!ENTITY inspectNextButton.accesskey  "J">
-<!ENTITY inspectPreviousButton.label  "Ibisante">
-<!ENTITY inspectPreviousButton.accesskey "I">
-<!ENTITY inspectStyleButton.label     "Fasal">
-<!ENTITY inspectStyleButton.accesskey "F">
-<!ENTITY inspectStylePanelTitle.label  "Fasal">
-<!-- LOCALIZATION NOTE (inspectObjectButton.label): This button label
-  -  appears on the Inspector's toolbar. It is used to open and close the Object
-  -  panel. There is also a label in inspector.properties for the panel
-  -  titlebar: object.objectPanelTitle. -->
-<!ENTITY inspectObjectButton.label       "Haya">
-<!ENTITY inspectObjectButton.accesskey   "H">
 
 <!ENTITY getMoreDevtoolsCmd.label        "Duu goyjinay tontoniyaŋ">
 <!ENTITY getMoreDevtoolsCmd.accesskey    "n">
@@ -281,7 +266,7 @@ can reach it easily. -->
 <!ENTITY viewToolbarsMenu.accesskey     "G"> 
 <!ENTITY viewSidebarMenu.label "Cerawžeeri">
 <!ENTITY viewSidebarMenu.accesskey "C">
-<!ENTITY viewCustomizeToolbar.label       "Hanse war boŋ se…"> 
+<!ENTITY viewCustomizeToolbar.label       "Hanse war boŋ še…"> 
 <!ENTITY viewCustomizeToolbar.accesskey     "H">
 <!ENTITY viewTabsOnTop.label            "Nor lokey beene here">
 <!ENTITY viewTabsOnTop.accesskey        "N">
@@ -298,7 +283,7 @@ can reach it easily. -->
 <!ENTITY showAllHistoryCmd.commandkey "H">
 
 <!ENTITY appMenuEdit.label "Fasal">
-<!ENTITY appMenuCustomize.label "Hanse war boŋ se">
+<!ENTITY appMenuCustomize.label "Hanse war boŋ še">
 <!ENTITY appMenuToolbarLayout.label "Goyjinay zuu-žeeri kanandi…">
 <!ENTITY appMenuSidebars.label "Cerawžeerey">
 <!ENTITY appMenuFind.label "Ceeci…">
@@ -375,7 +360,7 @@ can reach it easily. -->
 <!ENTITY viewVideoCmd.accesskey       "W">
 <!ENTITY viewBGImageCmd.label         "Bandafaari bii guna">
 <!ENTITY viewBGImageCmd.accesskey     "B">
-<!ENTITY setDesktopBackgroundCmd.label      "Suuba goytaabal bandafaari se…">
+<!ENTITY setDesktopBackgroundCmd.label      "Suuba goytaabal bandafaari še…">
 <!ENTITY setDesktopBackgroundCmd.accesskey  "S">
 <!ENTITY bookmarkPageCmd2.label       "Moɲoo woo šilbay">
 <!ENTITY bookmarkPageCmd2.accesskey   "M">
@@ -504,7 +489,7 @@ you can use these alternative items. Otherwise, their values should be empty.  -
 <!ENTITY pageStylePersistentOnly.label "Moo fasal faala">
 <!ENTITY pageStylePersistentOnly.accesskey "f">
 
-<!ENTITY pageReportIcon.tooltip            "Biiboŋ bata kayandiyaney barmay nungoo woo se">
+<!ENTITY pageReportIcon.tooltip            "Biiboŋ bata kayandiyaney barmay nungoo woo še">
 
 <!ENTITY allowPopups.accesskey "p">
 <!-- On Windows we use the term "Options" to describe settings, but

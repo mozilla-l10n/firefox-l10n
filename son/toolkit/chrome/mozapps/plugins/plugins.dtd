@@ -1,5 +1,5 @@
 <!ENTITY pluginWizard.title                                  "Sukari ceecikoy">
-<!ENTITY pluginWizard.firstPage.title                        "Kubayni &pluginWizard.title; doo">
+<!ENTITY pluginWizard.firstPage.title                        "Kubayni &pluginWizard.title; do">
 
 <!ENTITY pluginWizard.checkingForPlugins.description.label   "&brandShortName; ga sukari barantey ceeci sohõ…">
 
@@ -20,9 +20,9 @@
 <!ENTITY pluginWizard.finalPage.moreInfo.label               "Bay ka tonton sukarey ga wala wa sukari jeccantey ceeci.">
 <!ENTITY pluginWizard.finalPage.restart.label                "&brandShortName; ga hima ka tunandi taaga hala sukarey ma duu ka goy.">
 
-<!ENTITY missingPlugin                                       "Sukari ga waažibi ka gundekunaa woo cebe. ">
+<!ENTITY missingPlugin                                       "Sukari ga waažibi ka gundekunaa woo cebe.">
 <!ENTITY disabledPlugin                                      "Sukaroo n' ka hun goy.">
-<!ENTITY blockedPlugin.label                                 "Sukaroo woo gagayandi war da boŋ-daabaa se.">
+<!ENTITY blockedPlugin.label                                 "Sukaroo woo gagayandi war da boŋ-daabaa še.">
 
 <!ENTITY installPlugin                                       "Sukari sinji...">
 <!ENTITY managePlugins                                       "Sukarey juwal...">

@@ -22,9 +22,9 @@
 <!ENTITY password.manage                 "Šennikufaley juwal...">
 
 <!ENTITY cookie.label                    "Aleewawey kayandi">
-<!ENTITY cookie.clear                    "Aleewawey derandi">
+<!ENTITY cookie.remove                   "Aleewawey kaa">
 <!ENTITY cookie.manage                   "Aleewawey juwal...">
-<!ENTITY cookie.clearAll                 "Aleewawey kul derandi">
+<!ENTITY cookie.removeAll                "Remove All Cookies">
 
 <!ENTITY geo.label                       "Gorodoo žemna">
 <!-- LOCALIZATION NOTE (indexedDB.label): This is describing indexedDB storage

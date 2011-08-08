@@ -60,8 +60,8 @@
 <!-- Prefs panel strings -->
 
 <!ENTITY pref.security.general.lHeader "Saajaw">
-<!ENTITY pref.security.general.rHeader "Hankul saajaw kayandiyaney se">
-<!ENTITY pref.security.general.header "Hankul saajaw kayandiyaney se">
+<!ENTITY pref.security.general.rHeader "Hankul saajaw kayandiyaney še">
+<!ENTITY pref.security.general.header "Hankul saajaw kayandiyaney še">
 <!ENTITY pref.security.general.level.title "Saajaw dimma">
 <!ENTITY pref.security.general.paranoid.label "Huulete saajaw kayandiyaney goyandi">
 <!ENTITY pref.security.general.certificates.title "Tabatiyan-tiirawey">
@@ -107,8 +107,8 @@
 <!ENTITY chooseToken.message1 "Taare tammaasa suuba">
 
 <!ENTITY escrowWarn.title "Tuguyan kufal berandi">
-<!ENTITY escrowWarn.message1 "Hawgay: Tabatiyan-tiira hinoo woo hãa ka banda-gaabu tee war tuguyan sutura kufaloo se.">
-<!ENTITY escrowWarn.benefit1 "Nafaa ti kaŋ nda war ši hin ka huru nda war tuguyan sutura kufaloo koyne, war ga hin ka berandi foo wiri tabatiyan-tiira hinoo woo se.">
+<!ENTITY escrowWarn.message1 "Hawgay: Tabatiyan-tiira hinoo woo hãa ka banda-gaabu tee war tuguyan sutura kufaloo še.">
+<!ENTITY escrowWarn.benefit1 "Nafaa ti kaŋ nda war ši hin ka huru nda war tuguyan sutura kufaloo koyne, war ga hin ka berandi foo wiri tabatiyan-tiira hinoo woo še.">
 <!ENTITY escrowWarn.message2 "Amma, war tuguyan sutura kufaloo ga jisandi war tabatiyan-tiira hinoo doo, nda a ga hin ka zaandi ka war bataga wala takadda tugantey caw bila nda duɲeyan.">
 <!ENTITY examineCert.label "Tabatiyan-tiira guna">
 <!ENTITY examineCert.accesskey "g">
