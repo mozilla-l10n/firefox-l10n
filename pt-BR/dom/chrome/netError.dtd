@@ -25,8 +25,7 @@
 <!ENTITY netInterrupt.longDesc "<p>A conexão foi efetuada com êxito, mas foi interrompida durante a transferência de dados. Por favor, tente de novo.</p><ul><li>Não consegue abrir outros sites? Verifique a conexão de rede do computador.</li><li>O problema persiste? Consulte seu administrador de rede ou o suporte do provedor internet.</li></ul>">
 
 <!ENTITY netOffline.title "Modo offline">
-<!ENTITY netOffline.longDesc "<p>O navegador está no modo offline e não pode conectar-se ao item solicitado.</p><ul><li>O computador está conectado a uma rede ativa?</li><li>Saia do modo offline e tente de novo.</li></ul>">
-<!ENTITY netOffline.overrideLongDesc "<p>O navegador está no modo offline e não pode conectar-se ao item solicitado.</p><ul><li>O computador está conectado a uma rede ativa?</li><li>Saia do modo offline e tente de novo.</li></ul>">
+<!ENTITY netOffline.longDesc2 "<p>O navegador está no modo offline e não pode conectar-se ao item solicitado.</p><ul><li>O computador está conectado a uma rede ativa?</li><li>Pressione “Tentar de novo” para sair do modo offline e recarregar a página.</li></ul>">
 
 <!ENTITY contentEncodingError.title "Erro na codificação do conteúdo">
 <!ENTITY contentEncodingError.longDesc "<p>A página que você está tentando abrir não pode ser exibida porque usa uma forma não suportada ou inválida de compactação.</p><ul><li>Por favor, contate os responsáveis pelo site para informá-los deste problema.</li></ul>">
@@ -82,6 +81,9 @@
 
 <!ENTITY cspFrameAncestorBlocked.title "Bloqueado pela política de segurança de conteúdo">
 <!ENTITY cspFrameAncestorBlocked.longDesc "<p>O navegador impediu esta página de carregar desta forma porque a política de segurança de conteúdo da página não permite.</p>">
+
+<!ENTITY corruptedContentError.title "Conteúdo corrompido">
+<!ENTITY corruptedContentError.longDesc "<p>A página que você está tentando abrir não pôde ser exibida porque foi detectado um erro na transmissão.</p><ul><li>Por favor, contate os responsáveis pelo site para informá-los deste problema.</li></ul>">
 
 <!ENTITY remoteXUL.title "XUL remoto">
 <!ENTITY remoteXUL.longDesc "<p><ul><li>Por favor, contate os responsáveis pelo site para informá-los deste problema.</li></ul></p>">
