@@ -20,8 +20,6 @@
 <!ENTITY selectSound.accesskey "e">
 <!ENTITY playSoundButton.label "Odtwórz">
 <!ENTITY playSoundButton.accesskey "O">
-<!ENTITY selectSound.title "Wybierz dźwięk odgrywany podczas blokowania wyskakującego okna ">
-<!ENTITY selectSound.filter "Dźwięki">
 
 <!ENTITY displayIcon.label "Wyświetl ikonę na pasku stanu przeglądarki">
 <!ENTITY displayIcon.accesskey "y">
