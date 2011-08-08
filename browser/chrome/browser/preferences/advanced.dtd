@@ -29,6 +29,8 @@
 <!ENTITY checkNow.accesskey              "V">
 <!ENTITY submitCrashes.label             "Enviar relatórios de travamento">
 <!ENTITY submitCrashes.accesskey         "n">
+<!ENTITY submitTelemetry.label           "Enviar dados sobre desempenho">
+<!ENTITY submitTelemetry.accesskey       "d">
 
 <!ENTITY networkTab.label                "Rede">
 
