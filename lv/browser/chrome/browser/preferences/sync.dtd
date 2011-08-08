@@ -11,15 +11,15 @@
 <!-- Manage Account -->
 <!ENTITY manageAccount.label          "Pārvaldīt kontu">
 <!ENTITY manageAccount.accesskey      "P">
-<!ENTITY changePassword.label         "Mainīt paroli">
-<!ENTITY resetSync.label              "Atiestatīt sinhronizāciju">
+<!ENTITY changePassword2.label         "Mainīt paroli…">
+<!ENTITY resetSync2.label              "Atiestatīt sinhronizāciju…">
 <!ENTITY viewQuota.label              "Aplūkot kvotu">
 <!ENTITY addDevice.label              "Pievienot ierīci">
 
 <!-- Sync Settings -->
 <!ENTITY syncComputerName.label       "Datora nosaukums:">
 <!ENTITY syncComputerName.accesskey   "d">
-<!ENTITY deactivateDevice.label       "Deaktivizēt šo ierīci">
+<!ENTITY unlinkDevice.label           "Atvienot šo ierīci">
 
 <!ENTITY syncMy.label               "Sinhronizēt manas">
 <!ENTITY engine.bookmarks.label     "Grāmatzīmes">
