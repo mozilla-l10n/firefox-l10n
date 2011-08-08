@@ -3,7 +3,7 @@
      should go into netError.dtd -->
 
 <!ENTITY securityOverride.linkText "Эсвэл та онцгой тохиолдол нэмж болох юм…">
-<!ENTITY securityOverride.warningText "
+<!ENTITY securityOverride.warningContent"
 <p>Хэрэв та урьд нь энэ серверээс ийм алдаа харж байгаагүй бөгөөд энэ хуудсанд итгэдэг бол онцгой тохиолдол нэмэх шаардлагаггүй.</p>
 <p>Хэрэв та онцгой тохиолдол нэмэхийг үнэхээр хүсэж байгаа бол нэмэлт нууцлалын хувиргуур хийх тохируулгадаа хийж болно.</p>
 ">
