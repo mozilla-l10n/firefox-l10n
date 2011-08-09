@@ -22,9 +22,9 @@
 <!ENTITY password.manage                 "Administri pasvortojn…">
 
 <!ENTITY cookie.label                    "Difini kuketojn">
-<!ENTITY cookie.clear                    "Forviŝi kuketojn">
+<!ENTITY cookie.remove                   "Forviŝi kuketojn">
 <!ENTITY cookie.manage                   "Administri kuketojn…">
-<!ENTITY cookie.clearAll                 "Forviŝi ĉiujn kuketojn">
+<!ENTITY cookie.removeAll                "Forviŝi ĉiujn kuketojn">
 
 <!ENTITY geo.label                       "Diskonigi lokon">
 
