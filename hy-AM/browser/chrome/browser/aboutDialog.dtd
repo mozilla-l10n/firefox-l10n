@@ -39,13 +39,13 @@
 ******* END LICENSE BLOCK ********** -->
 <!ENTITY aboutDialog.title          "&brandFullName;­ի մասին">
 
-<!ENTITY community.start2           "&brandShortName;-ը ձևավորվել է ">
+<!ENTITY community.start2           "&brandShortName;-ը ձևավորել է ">
 <!-- LOCALIZATION NOTE (community.mozillaLink): This is a link title that links to http://www.mozilla.org/. -->
 <!ENTITY community.mozillaLink      "&vendorShortName;">
 <!ENTITY community.middle2          ", ">
 <!-- LOCALIZATION NOTE (community.creditsLink): This is a link title that links to about:credits. -->
 <!ENTITY community.creditsLink      "գլոբալ համայնք">
-<!ENTITY community.end2             " Միասին աշխատել ինտերնետը բարելավելու նպատակով:Մենք կարծում ենք, որ ինտերնետը պետք է լինի բաց, հանրամատչելի և հասանելի յուրաքանչյուրի համար` առանց սահմանափակումների:">
+<!ENTITY community.end2             "աշխատելով միասին ինտերնետը բարելավելու նպատակով։ Մենք հավատում ենք, որ ինտերնետը պետք է լինի բաց, հանրամատչելի և հասանելի յուրաքանչյուրի համար՝ առանց սահմանափակումների։">
 
 <!ENTITY contribute.start           "Հետաքրքրե՞ց: ">
 <!-- LOCALIZATION NOTE (contribute.getInvolvedLink): This is a link title that links to http://www.mozilla.org/contribute/. -->

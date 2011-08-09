@@ -13,7 +13,7 @@
 
 <!ENTITY permissions.forgetSite          "Մոռանալ Այս Կայքի Մասին">
 
-<!ENTITY permission.alwaysAsk            "Always Ask">
+<!ENTITY permission.alwaysAsk            "Միշտ հարցնել">
 <!ENTITY permission.allow                "Թույլատրել">
 <!ENTITY permission.allowForSession      "Թույ տալ նիստի ընթացքում">
 <!ENTITY permission.block                "Արգելել">
