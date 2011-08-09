@@ -9,6 +9,12 @@ by NSS/PSM via netError.xhtml. -->
 <!ENTITY certerror.pagetitle  "Ligação não segura">
 <!ENTITY certerror.longpagetitle "Esta ligação é segura">
 
+<!-- Localization note (certerror.introPara1) - The string "#1" will
+be replaced at runtime with the name of the server to which the user
+was trying to connect. -->
+<!ENTITY certerror.introPara1 "Pediu ao &brandShortName; para ligar
+em segurança a <b>#1</b>, mas não podemos confirmar se a sua ligação é segura.">
+
 <!ENTITY certerror.whatShouldIDo.heading "O que devo fazer?">
 <!ENTITY certerror.whatShouldIDo.content "se costuma ligar-se a este sítio
 sem problemas, este erro pode significar que alguém está a tentar
