@@ -91,17 +91,6 @@
 <!ENTITY pasteAsQuotationCmd.accesskey "m">
 <!ENTITY pasteAsQuotationCmd.key "o">
 <!ENTITY findCmd.label "Procurar e Substituir...">
-<!ENTITY findCmd.accesskey "u">
-<!ENTITY findCmd.key "f">
-<!ENTITY findCmd.key2 "VK_F19">
-<!ENTITY findAgainCmd.label "Procurar de novo">
-<!ENTITY findAgainCmd.accesskey "r">
-<!ENTITY findAgainCmd.key "g">
-<!ENTITY findAgainCmd.key2 "VK_F3">
-<!ENTITY findPrevCmd.label "Procura anterior">
-<!ENTITY findPrevCmd.accesskey "e">
-<!ENTITY findPrevCmd.key "g">
-<!ENTITY findPrevCmd.key2 "VK_F3">
 <!ENTITY enableInlineSpellChecker.label "Verificar escrita enquanto escreve">
 <!ENTITY enableInlineSpellChecker.accesskey "S">
 <!ENTITY checkSpellingCmd2.label "Verificar Escrita">
@@ -435,5 +424,5 @@
 <!ENTITY updateTOC.accesskey      "a">
 <!ENTITY removeTOC.label          "Remover">
 <!ENTITY removeTOC.accesskey      "r">
-<!ENTITY tocMenu.label            "Tabela de Conteúdo...">
+<!ENTITY tocMenu.label            "Tabela de Conteúdos...">
 <!ENTITY tocMenu.accesskey        "t">
