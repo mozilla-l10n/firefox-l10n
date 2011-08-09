@@ -15,27 +15,27 @@
 <!ENTITY fileMenu.label               "Ֆայլ">
 <!ENTITY fileMenu.accesskey           "Ֆ">
 
-<!ENTITY newWindowCmd.label           "New Window">
-<!ENTITY newWindowCmd.accesskey       "N">
+<!ENTITY newWindowCmd.label           "Նոր պատուհան">
+<!ENTITY newWindowCmd.accesskey       "Ն">
 <!ENTITY newWindowCmd.commandkey      "n">
 
 <!ENTITY openFileCmd.label            "Բացել ֆայլ…">
 <!ENTITY openFileCmd.accesskey        "Բ">
 <!ENTITY openFileCmd.commandkey       "o">
 
-<!ENTITY saveFileCmd.label            "Save">
-<!ENTITY saveFileCmd.accesskey        "S">
+<!ENTITY saveFileCmd.label            "Պահպանել">
+<!ENTITY saveFileCmd.accesskey        "Պ">
 <!ENTITY saveFileCmd.commandkey       "s">
 
 <!ENTITY saveFileAsCmd.label          "Պահել որպես…">
 <!ENTITY saveFileAsCmd.accesskey      "Պ">
 
-<!ENTITY closeCmd.label               "Close">
+<!ENTITY closeCmd.label               "Փակել">
 <!ENTITY closeCmd.key                 "W">
-<!ENTITY closeCmd.accesskey           "C">
+<!ENTITY closeCmd.accesskey           "Փ">
 
-<!ENTITY editMenu.label               "Edit">
-<!ENTITY editMenu.accesskey           "E">
+<!ENTITY editMenu.label               "Խմբագրել">
+<!ENTITY editMenu.accesskey           "Խ">
 
 <!ENTITY undoCmd.label                "Undo">
 <!ENTITY undoCmd.key                  "Z">
@@ -57,9 +57,9 @@
 <!ENTITY pasteCmd.key                 "V">
 <!ENTITY pasteCmd.accesskey           "P">
 
-<!ENTITY selectAllCmd.label           "Select All">
+<!ENTITY selectAllCmd.label           "Նշել բոլորը">
 <!ENTITY selectAllCmd.key             "A">
-<!ENTITY selectAllCmd.accesskey       "A">
+<!ENTITY selectAllCmd.accesskey       "Ն">
 
 <!ENTITY run.label                    "Run">
 <!ENTITY run.accesskey                "R">
@@ -98,8 +98,8 @@
 <!-- LOCALIZATION NOTE (resetContext.label): This command allows the developer
   -  to reset/clear the global object of the environment where the code executes.
   -->
-<!ENTITY resetContext.label           "Reset">
-<!ENTITY resetContext.accesskey       "R">
+<!ENTITY resetContext.label           "Բերել նախնականի">
+<!ENTITY resetContext.accesskey       "Բ">
 
 <!ENTITY executeMenu.label            "Execute">
 <!ENTITY executeMenu.accesskey        "x">

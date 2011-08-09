@@ -98,7 +98,7 @@
 <!ENTITY addDevice.title.label              "Ավելացրեք սարք">
 <!ENTITY addDevice.showMeHow.label          "Ցույց տվեք, թե ինչպես:">
 <!ENTITY addDevice.dontHaveDevice.label     "Սարքը ինձ հետ չի">
-<!ENTITY addDevice.setup.description.label  "To activate, go to &syncBrand.shortName.label; Options on your other device and select &#x0022;Add a Device&#x0022;.">
+<!ENTITY addDevice.setup.description.label  "Ակտիվացնելու համար գնացե΄ք &syncBrand.shortName.label; Ընտրանքներ ձեր մյուս սարքում և ընտրե΄ք &#x0022;ը,Ավելացրե΄ք Device&#x0022;ը:">
 <!ENTITY addDevice.setup.enterCode.label    "Այնուհետև մուտքագրեք հետևյալ ծածկագիրը">
 <!ENTITY addDevice.dialog.description.label "Ձեր նոր սարքը ակտիվացնելու համար գնացեք &syncBrand.shortName.label; Ընտրանքներ` ձեր սարքում և ընտրեք &#x0022;ը, միացեք &#x0022;ին">
 <!ENTITY addDevice.dialog.enterCode.label   "Մուտքագրեք գաղտնաբառը, որը սարքը տրամադրում է">
