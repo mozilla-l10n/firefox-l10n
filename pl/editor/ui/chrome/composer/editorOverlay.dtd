@@ -95,17 +95,6 @@
 <!ENTITY pasteAsQuotationCmd.accesskey "y">
 <!ENTITY pasteAsQuotationCmd.key  "o">
 <!ENTITY findCmd.label            "Znajdź i zamień…">
-<!ENTITY findCmd.accesskey        "m">
-<!ENTITY findCmd.key              "F">
-<!ENTITY findCmd.key2             "VK_F19">
-<!ENTITY findAgainCmd.label       "Znajdź następne">
-<!ENTITY findAgainCmd.accesskey   "n">
-<!ENTITY findAgainCmd.key         "G">
-<!ENTITY findAgainCmd.key2        "VK_F3">
-<!ENTITY findPrevCmd.label        "Znajdź poprzednie">
-<!ENTITY findPrevCmd.accesskey    "o">
-<!ENTITY findPrevCmd.key          "G">
-<!ENTITY findPrevCmd.key2         "VK_F3">
 <!ENTITY enableInlineSpellChecker.label     "Sprawdzaj pisownię podczas wprowadzania tekstu">
 <!ENTITY enableInlineSpellChecker.accesskey "S">
 <!ENTITY checkSpellingCmd2.label            "Sprawdź pisownię">
