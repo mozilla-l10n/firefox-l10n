@@ -7,21 +7,19 @@
 <!-- Specific error messages -->
 
 <!ENTITY connectionFailure.title "Kan geen verbinding maken">
-<!ENTITY connectionFailure.longDesc "&sharedLongDesc;">
+<!ENTITY connectionFailure.longDesc "&sharedLongDesc2;">
 
 <!ENTITY deniedPortAccess.title "Dit adres heeft beperkte toegang">
 <!ENTITY deniedPortAccess.longDesc "">
 
 <!ENTITY dnsNotFound.title "Server niet gevonden">
-<!ENTITY dnsNotFound.longDesc "
+<!ENTITY dnsNotFound.longDesc2 "
 <ul>
   <li>Controleer het adres op typefouten, zoals
     <strong>ww</strong>.voorbeeld.com in plaats van
     <strong>www</strong>.voorbeeld.com</li>.
-  <li>Controleer uw netwerkverbinding als u geen enkele pagina kunt
+  <li>Controleer uw apparaat data- of wifiverbinding als u geen enkele pagina kunt
     laden.</li>
-  <li>Verzeker u ervan dat &brandShortName; toegang heeft tot het web als uw 
-    computer of netwerk is beveiligd door een firewall of proxyserver.</li>
 </ul>
 ">
 
@@ -50,7 +48,7 @@
 ">
 
 <!ENTITY netInterrupt.title "De verbinding werd onderbroken">
-<!ENTITY netInterrupt.longDesc "&sharedLongDesc;">
+<!ENTITY netInterrupt.longDesc "&sharedLongDesc2;">
 
 <!ENTITY netOffline.title "Offlinemodus">
 <!ENTITY netOffline.longDesc2 "
@@ -74,10 +72,10 @@
 ">
 
 <!ENTITY netReset.title "De verbinding werd geherinitialiseerd">
-<!ENTITY netReset.longDesc "&sharedLongDesc;">
+<!ENTITY netReset.longDesc "&sharedLongDesc2;">
 
 <!ENTITY netTimeout.title "De wachttijd voor de verbinding is verstreken">
-<!ENTITY netTimeout.longDesc "&sharedLongDesc;">
+<!ENTITY netTimeout.longDesc "&sharedLongDesc2;">
 
 <!ENTITY protocolNotFound.title "Het adres werd niet begrepen">
 <!ENTITY protocolNotFound.longDesc "
@@ -96,12 +94,9 @@
 ">
 
 <!ENTITY proxyResolveFailure.title "Kan de proxyserver niet vinden">
-<!ENTITY proxyResolveFailure.longDesc "
+<!ENTITY proxyResolveFailure.longDesc2 "
 <ul>
-  <li>Controleer of uw proxyinstellingen juist zijn.</li>
-  <li>Verzeker u ervan dat uw computer op een werkend netwerk is aangesloten.</li>
-  <li>Verzeker u ervan dat &brandShortName; toegang heeft tot het web als uw 
-    computer of netwerk is beveiligd door een firewall of proxyserver.</li>
+  <li>Verzeker u ervan dat uw apparaat een werkende data- of wifiverbinding heeft.</li>
 </ul>
 ">
 
@@ -140,26 +135,13 @@
 </ul>
 ">
 
-<!ENTITY sharedLongDesc "
+<!ENTITY sharedLongDesc2 "
 <ul>
   <li>Misschien is de website tijdelijk niet beschikbaar of overbelast. Probeer het 
     over enkele ogenblikken opnieuw.</li>
-  <li>Controleer uw netwerkverbinding als u geen enkele pagina kunt laden.</li>
-  <li>Verzeker u ervan dat &brandShortName; toegang heeft tot het web als uw 
-    computer of netwerk is beveiligd door een firewall of proxyserver.</li>
+  <li>Controleer uw apparaat data- of wifiverbinding als u geen enkele pagina kunt
+    laden.</li>
 </ul>
-">
-
-<!ENTITY malwareBlocked.title "Vermoedelijke aanvalsite!">
-<!ENTITY malwareBlocked.longDesc "
-<p>Aanvalsites proberen programma’s te installeren die privégegevens stelen, uw computer gebruiken om anderen aan te vallen, of uw systeem beschadigen.</p>
-<p>Website-eigenaars die menen dat hun website ten onrechte is gerapporteerd als een aanvalsite kunnen om een <a href='http://www.stopbadware.org/home/reviewinfo' >herbeoordeling vragen</a>.</p>
-">
-
-<!ENTITY phishingBlocked.title "Vermoedelijke webvervalsing!">
-<!ENTITY phishingBlocked.longDesc "
-<p>Het invoeren van persoonlijke gegevens op deze pagina kan leiden tot identiteitsdiefstal of andere fraude.</p>
-<p>Dit soort webvervalsingen wordt gebruikt in e-mailscams die bekend staan als phishingaanvallen, waarbij frauduleuze webpagina’s en e-mails worden gebruikt om bronnen die u misschien vertrouwt na te bootsen.</p>
 ">
 
 <!ENTITY cspFrameAncestorBlocked.title "Geblokkeerd door inhoudbeveiligingsbeleid">
