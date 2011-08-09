@@ -35,7 +35,6 @@
 <!ENTITY  showCookies.label             "Vis cookies…">
 <!ENTITY  showCookies.accesskey         "V">
 
-
 <!ENTITY  historyHeader.pre.label          "&brandShortName; vil:">
 <!ENTITY  historyHeader.pre.accesskey      "F">
 <!ENTITY  historyHeader.remember.label     "Gemme historik">
@@ -62,8 +61,8 @@
 <!ENTITY  dontrememberActions.clearHistory.label "rydde al din historik">
 <!ENTITY  dontrememberActions.post.label         ".">
 
-<!ENTITY  privateBrowsingPermanent.label "Gør Private browsing-tilstand permanent">
-<!ENTITY  privateBrowsingPermanent.accesskey "P">
+<!ENTITY  privateBrowsingPermanent2.label "Brug altid Privat browsing-tilstand">
+<!ENTITY  privateBrowsingPermanent2.accesskey "P">
 
 <!ENTITY  rememberHistory.label      "Husk min browserhistorik">
 <!ENTITY  rememberHistory.accesskey  "b">
