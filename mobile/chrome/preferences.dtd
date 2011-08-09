@@ -5,7 +5,6 @@
 <!ENTITY reflowZoom.title                          "Reformatar texto ao aumentar">
 <!ENTITY showImages.title                          "Mostrar imagens">
 <!ENTITY enableJavaScript.title                    "Activar JavaScript">
-<!ENTITY enablePlugins.title                       "Activar Plugins">
 <!ENTITY privacy.title                             "Privacidade &amp; Segurança">
 <!ENTITY allowCookies.title                        "Permitir cookies">
 <!ENTITY doNotTrack.title                          "Dizer aos sítios para não me seguirem">
@@ -20,4 +19,4 @@
 <!ENTITY homepage.none                             "Branco">
 <!ENTITY homepage.default                          "Início do &brandShortName;">
 <!ENTITY homepage.currentpage                      "Usar página actual">
-<!ENTITY showCharset.title                         "Mostrar Codificação de Caracteres">
+<!ENTITY showCharsetEncoding.title                 "Mostrar Codificação de Caracteres">
