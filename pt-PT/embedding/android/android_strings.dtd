@@ -17,7 +17,3 @@
 <!ENTITY  exit_label "Sair">
 <!ENTITY  continue_label "Continuar">
 
-<!ENTITY  launcher_shortcuts_title "&brandShortName; Web Apps">
-<!ENTITY  launcher_shortcuts_empty "Nenhumas web apps encontradas">
-
-<!ENTITY choose_file "Escolher ficheiro">
