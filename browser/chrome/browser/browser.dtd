@@ -233,6 +233,7 @@
 <!ENTITY urlbar.accesskey "d">
 <!ENTITY urlbar.switchToTab.label "Перейти на вкладку:">
 <!ENTITY searchFocus.commandkey "k">
+<!ENTITY searchFocus.commandkey2 "e">
 <!ENTITY searchFocusUnix.commandkey "j">
 <!ENTITY tabView.commandkey "e">
 <!ENTITY openLinkCmdInTab.label "Открыть в новой вкладке">

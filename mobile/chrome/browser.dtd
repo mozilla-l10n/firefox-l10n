@@ -85,6 +85,7 @@
 <!ENTITY contextFullScreen.label "Полный экран">
 <!ENTITY contextEditBookmark.label "Изменить">
 <!ENTITY contextRemoveBookmark.label "Удалить">
+<!ENTITY contextShortcutBookmark.label "Добавить на домашний экран">
 <!ENTITY pageactions.saveas.pdf "Сохранить как PDF">
 <!ENTITY pageactions.share.page "Поделиться">
 <!ENTITY pageactions.password.forget "Забыть пароль">

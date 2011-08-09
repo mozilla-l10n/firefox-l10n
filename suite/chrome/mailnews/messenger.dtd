@@ -216,16 +216,6 @@
 <!ENTITY pageSourceCmd.accesskey "х">
 <!ENTITY pageSourceCmd.key "u">
 <!ENTITY findCmd.label "Найти в этом сообщении…">
-<!ENTITY findCmd.accesskey "Н">
-<!ENTITY findCmd.key "f">
-<!ENTITY findAgainCmd.label "Найти ещё раз">
-<!ENTITY findAgainCmd.accesskey "а">
-<!ENTITY findAgainCmd.key "g">
-<!ENTITY findAgainCmd.key2 "VK_F3">
-<!ENTITY findPrevCmd.label "Найти предыдущее">
-<!ENTITY findPrevCmd.accesskey "щ">
-<!ENTITY findPrevCmd.key "g">
-<!ENTITY findPrevCmd.key2 "VK_F3">
 <!ENTITY goMenu.label "Переход">
 <!ENTITY goMenu.accesskey "П">
 <!ENTITY nextMenu.label "Следующее…">
