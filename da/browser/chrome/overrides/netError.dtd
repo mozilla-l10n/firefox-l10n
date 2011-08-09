@@ -51,14 +51,9 @@
 <!ENTITY netInterrupt.longDesc "&sharedLongDesc;">
 
 <!ENTITY netOffline.title "Offline mode">
-<!-- LOCALIZATION NOTE (netOffline.overrideLongDesc) - This string should
-     indicate that "Work Offline" is a menu item without being too specific,
-     since it could be in either the normal menu (Mac/Linux) or the Firefox button
-     menu (Windows).
--->
-<!ENTITY netOffline.overrideLongDesc "
+<!ENTITY netOffline.longDesc2 "
 <ul>
-  <li>Afmarker menupunket &quot;Arbejd offline&quot;, og forsøg igen.</li>
+  <li>Vælg &quot;Prøv igen&quot; for at skifte til online-tilstand og genindlæse siden.</li>
 </ul>
 ">
 
@@ -153,6 +148,10 @@
 
 <!ENTITY cspFrameAncestorBlocked.title "Blokeret grundet Content Security Policy">
 <!ENTITY cspFrameAncestorBlocked.longDesc "<p>&brandShortName; forhindrede denne side i at blive indlæst på denne måde da den har en Content Security Policy der forbyder dette.</p>">
+
+<!ENTITY corruptedContentError.title "Fejlbehæftet indhold">
+<!ENTITY corruptedContentError.longDesc "<p>Siden, du forsøger at se, kan ikke vises, da der er fundet en fejl i overførslen af data.</p><ul><li>Kontakt venligst ejerne af webstedet omkring dette problem.</li></ul>">
+
 
 <!ENTITY securityOverride.linkText "Eller du kan tilføje en undtagelse…">
 <!ENTITY securityOverride.getMeOutOfHereButton "Få mig væk herfra!">

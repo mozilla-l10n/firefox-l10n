@@ -25,8 +25,7 @@
 <!ENTITY netInterrupt.longDesc "<p>Browseren oprettede forbindelsen korrekt, men blev afbrudt under overførsel af informationen. Forsøg venligst igen.</p><ul><li> Er du ikke i stand til at browse andre sider? Undersøg computerens netværksforbindelse.</li><li>Har du stadig problemer? Konsulter din netværksadministrator eller internetudbyder for assistance.</li></ul>">
 
 <!ENTITY netOffline.title "Browseren er offline">
-<!ENTITY netOffline.longDesc "<p>Browseren er sat i Offline-tilstand og kan ikke forbinde til nettet.</p><ul><li>Er computeren forbundet til et aktivt netværk?</li><li>Sæt browseren i Online-tilstand og prøv igen.</li></ul>">
-<!ENTITY netOffline.overrideLongDesc "<p>Browseren er sat i Offline-tilstand og kan ikke forbinde til nettet.</p><ul><li>Er computeren forbundet til et aktivt netværk?</li><li>Sæt browseren i Online-tilstand og prøv igen.</li></ul>">
+<!ENTITY netOffline.longDesc2 "<p>Browseren er sat i Offline-tilstand og kan ikke forbinde til nettet.</p><ul><li>Er computeren forbundet til et aktivt netværk?</li><li>Vælg &quot;Prøv igen&quot; for at skifte til online-tilstand og genindlæse siden.</li></ul>">
 
 <!ENTITY contentEncodingError.title "Indholdskodningsfejl">
 <!ENTITY contentEncodingError.longDesc "<p>Siden kunne ikke vises da den bruger en ugyldig eller usupporteret form for komprimering.</p><ul><li>Kontakt venligst webstedets ejer og informer dem om dette problem.</li></ul>">
@@ -83,6 +82,9 @@
 
 <!ENTITY cspFrameAncestorBlocked.title "Blokeret grundet indholdssikkerhedshedspolitik">
 <!ENTITY cspFrameAncestorBlocked.longDesc "<p>Browseren forhindrede denne side i at blive indlæst på denne måde da da den har en indholdssikkerhedspolitik der forbyder dette.</p>">
+
+<!ENTITY corruptedContentError.title "Fejlbehæftet indhold">
+<!ENTITY corruptedContentError.longDesc "<p>Siden, du forsøger at se, kan ikke vises, da der er fundet en fejl i overførslen af data.</p><ul><li>Kontakt venligst ejerne af webstedet omkring dette problem.</li></ul>">
 
 <!ENTITY remoteXUL.title "Remote XUL">
 <!ENTITY remoteXUL.longDesc "<p><ul><li>Kontakt venligst ejerne af webstedet omkring dette problem.</li></ul></p>">
