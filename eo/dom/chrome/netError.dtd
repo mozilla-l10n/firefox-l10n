@@ -25,8 +25,7 @@
 <!ENTITY netInterrupt.longDesc "<p>La retlegilo bone konektiĝis, sed la konekto estis haltigita dum la transmetado de informo. Bonvolu klopodi denove.</p><ul><li>Ĉu aliajn retejojn vi povas esplori? Kontrolu la konekton de via komputilo.</li><li>Ĉu ankoraŭ estas problemoj? Serĉu asistadon ĉe via reta administranto aŭ retprovizanto.</li></ul>">
 
 <!ENTITY netOffline.title "Malkonektita reĝimo">
-<!ENTITY netOffline.longDesc "<p>La retlegilo nun funkcias en malkonektita reĝimo kaj ne povas konektiĝi al la petita elemento.</p><ul><li>Ĉu la komputilo estas konektata al aktiva reto?</li><li>Metu la retlegilon en konektitan reĝimon kaj klopodu denove.</li></ul>">
-<!ENTITY netOffline.overrideLongDesc "<p>La retlegilo nun funkcias en malkonektita reĝimo kaj ne povas konektiĝi al la petita elemento.</p><ul><li>Ĉu la komputilo estas konektata al aktiva reto?</li><li>Metu la retlegilon en konektitan reĝimon kaj klopodu denove.</li></ul>">
+<!ENTITY netOffline.longDesc2 "<p>La restesplorilo funkcias en sia malkonektita reĝimo kaj ne povas konektiĝi al la petita elemento.</p><ul><li>Ĉu la komputilo estas konektita al aktiva reto?</li><li>Premu &quot;Klopodi denove&quot; por baskuli al la konektita reĝimo kaj reŝargi la paĝon.</li></ul>">
 
 <!ENTITY contentEncodingError.title "Eraro de enkodigo de enhavo">
 <!ENTITY contentEncodingError.longDesc "<p>The page you are trying to view cannot be shown because it uses an invalid or unsupported form of compression.</p><ul><li>Please contact the website owners to inform them of this problem.</li></ul>">
