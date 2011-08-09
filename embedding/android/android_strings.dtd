@@ -16,3 +16,6 @@
 <!ENTITY  sending_crash_report "Crashrapport verzenden\u2026">
 <!ENTITY  exit_label "Afsluiten">
 <!ENTITY  continue_label "Doorgaan">
+
+<!ENTITY  launcher_shortcuts_title "&brandShortName; web-apps">
+<!ENTITY  launcher_shortcuts_empty "Geen web-apps gevonden">
