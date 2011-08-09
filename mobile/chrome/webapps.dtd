@@ -3,4 +3,4 @@
 <!ENTITY webapps.perm.geolocation "Navegación basada en la ubicación">
 <!ENTITY webapps.perm.offline "Almacenamiento de datos sin conexión">
 <!ENTITY webapps.perm.notifications "Notificaciones de escritorio">
-<!ENTITY webapps.perm.requested "requerido">
+<!ENTITY webapps.perm.requestedHint "(necesario)">
