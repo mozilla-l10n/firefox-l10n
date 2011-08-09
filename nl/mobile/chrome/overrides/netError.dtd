@@ -18,7 +18,7 @@
   <li>Controleer het adres op typefouten, zoals
     <strong>ww</strong>.voorbeeld.com in plaats van
     <strong>www</strong>.voorbeeld.com</li>.
-  <li>Controleer uw apparaat data- of wifiverbinding als u geen enkele pagina kunt
+  <li>Controleer uw apparaat data- of Wi-Fi-verbinding als u geen enkele pagina kunt
     laden.</li>
 </ul>
 ">
@@ -96,7 +96,7 @@
 <!ENTITY proxyResolveFailure.title "Kan de proxyserver niet vinden">
 <!ENTITY proxyResolveFailure.longDesc2 "
 <ul>
-  <li>Verzeker u ervan dat uw apparaat een werkende data- of wifiverbinding heeft.</li>
+  <li>Verzeker u ervan dat uw apparaat een werkende data- of Wi-Fi-verbinding heeft.</li>
 </ul>
 ">
 
@@ -139,7 +139,7 @@
 <ul>
   <li>Misschien is de website tijdelijk niet beschikbaar of overbelast. Probeer het 
     over enkele ogenblikken opnieuw.</li>
-  <li>Controleer uw apparaat data- of wifiverbinding als u geen enkele pagina kunt
+  <li>Controleer uw apparaat data- of Wi-Fi-verbinding als u geen enkele pagina kunt
     laden.</li>
 </ul>
 ">
