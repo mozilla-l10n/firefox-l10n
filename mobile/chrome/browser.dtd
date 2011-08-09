@@ -7,6 +7,7 @@
 <!ENTITY go.label              "衝">
 <!ENTITY star.label            "星號">
 
+<!ENTITY showTabs.label        "顯示分頁標籤">
 <!ENTITY newtab.label          "開新分頁">
 <!ENTITY closetab.label        "關閉分頁">
 

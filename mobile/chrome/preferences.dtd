@@ -5,7 +5,6 @@
 <!ENTITY reflowZoom.title                          "縮放時重新編排文字">
 <!ENTITY showImages.title                          "顯示圖片">
 <!ENTITY enableJavaScript.title                    "啟用 JavaScript">
-<!ENTITY enablePlugins.title                       "啟用外掛程式">
 <!ENTITY privacy.title                             "個人隱私與安全">
 <!ENTITY allowCookies.title                        "接受 Cookie">
 <!ENTITY doNotTrack.title                          "告訴網站我不想被追蹤">
@@ -20,4 +19,4 @@
 <!ENTITY homepage.none                             "空白頁面">
 <!ENTITY homepage.default                          "&brandShortName; 首頁">
 <!ENTITY homepage.currentpage                      "使用目前頁面">
-<!ENTITY showCharset.title                         "顯示字元編碼">
+<!ENTITY showCharsetEncoding.title                 "顯示字元編碼">
