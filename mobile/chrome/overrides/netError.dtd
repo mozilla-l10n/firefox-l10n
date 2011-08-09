@@ -51,7 +51,7 @@
 <!ENTITY netInterrupt.longDesc "&sharedLongDesc;">
 
 <!ENTITY netOffline.title "Offline mode">
-<!ENTITY netOffline.overrideLongDesc "
+<!ENTITY netOffline.longDesc2 "
 <ul>
   <li>Prøv igen. &brandShortName; vil forsøge at genindlæse siden.</li>
 </ul>
@@ -154,6 +154,9 @@
 
 <!ENTITY cspFrameAncestorBlocked.title "Blokeret grundet Content Security Policy">
 <!ENTITY cspFrameAncestorBlocked.longDesc "<p>&brandShortName; forhindrede denne side i at blive indlæst på denne måde da den har en Content Security Policy der forbyder dette.</p>">
+
+<!ENTITY corruptedContentError.title "Fejlbehæftet indhold">
+<!ENTITY corruptedContentError.longDesc "<p>Siden, du forsøger at se, kan ikke vises, da der er fundet en fejl i overførslen af data.</p><ul><li>Kontakt venligst ejerne af webstedet omkring dette problem.</li></ul>">
 
 <!ENTITY securityOverride.linkText "Eller du kan tilføje en undtagelse…">
 <!ENTITY securityOverride.getMeOutOfHereButton "Få mig væk herfra!">
