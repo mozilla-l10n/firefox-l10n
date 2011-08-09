@@ -20,16 +20,6 @@
 
 <!-- Edit Menu -->
 <!ENTITY findOnCmd.label "Procurar nesta página…">
-<!ENTITY findOnCmd.accesskey "r">
-<!ENTITY findOnCmd.commandkey "f">
-<!ENTITY findAgainCmd.label "Procurar de novo">
-<!ENTITY findAgainCmd.accesskey "n">
-<!ENTITY findAgainCmd.commandkey "g">
-<!ENTITY findPrevCmd.label "Procura anterior">
-<!ENTITY findPrevCmd.accesskey "o">
-<!ENTITY findPrevCmd.commandkey "g">
-<!ENTITY findAgainCmd.commandkey2 "VK_F3">
-<!ENTITY findPrevCmd.commandkey2 "VK_F3">
 
 <!-- View Menu -->
 <!ENTITY toolbarsCmd.label "Mostrar/Ocultar">
