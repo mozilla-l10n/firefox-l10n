@@ -5,7 +5,6 @@
 <!ENTITY reflowZoom.title "Текст по ширине экрана">
 <!ENTITY showImages.title "Показывать изображения">
 <!ENTITY enableJavaScript.title "Использовать JavaScript">
-<!ENTITY enablePlugins.title "Использовать плагины">
 <!ENTITY privacy.title "Приватность и защита">
 <!ENTITY allowCookies.title "Принимать куки">
 <!ENTITY doNotTrack.title "Просить сайты не следить">
@@ -20,4 +19,4 @@
 <!ENTITY homepage.none "Пустой страницы">
 <!ENTITY homepage.default "Страницы &brandShortName;">
 <!ENTITY homepage.currentpage "Текущей страницы">
-<!ENTITY showCharset.title "Меню выбора кодировки">
+<!ENTITY showCharsetEncoding.title "Меню выбора кодировки">

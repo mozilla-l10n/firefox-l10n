@@ -14,16 +14,6 @@
 <!ENTITY printSetupCmd.label "Параметры страницы…">
 <!ENTITY printSetupCmd.accesskey "м">
 <!ENTITY findOnCmd.label "Найти на этой странице…">
-<!ENTITY findOnCmd.accesskey "а">
-<!ENTITY findOnCmd.commandkey "f">
-<!ENTITY findAgainCmd.label "Найти следующее">
-<!ENTITY findAgainCmd.accesskey "й">
-<!ENTITY findAgainCmd.commandkey "g">
-<!ENTITY findPrevCmd.label "Найти предыдущее">
-<!ENTITY findPrevCmd.accesskey "и">
-<!ENTITY findPrevCmd.commandkey "g">
-<!ENTITY findAgainCmd.commandkey2 "VK_F3">
-<!ENTITY findPrevCmd.commandkey2 "VK_F3">
 <!ENTITY toolbarsCmd.label "Показать/скрыть">
 <!ENTITY toolbarsCmd.accesskey "о">
 <!ENTITY tabbarCmd.label "Панель вкладок">

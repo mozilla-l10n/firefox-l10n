@@ -47,6 +47,16 @@
 <!ENTITY preferencesCmd.label "Настройки…">
 <!ENTITY preferencesCmd.key "E">
 <!ENTITY preferencesCmd.accesskey "о">
+<!ENTITY findCmd.key "F">
+<!ENTITY findCmd.accesskey "а">
+<!ENTITY findAgainCmd.label "Найти ещё раз">
+<!ENTITY findAgainCmd.key "G">
+<!ENTITY findAgainCmd.accesskey "щ">
+<!ENTITY findAgainCmd.key2 "VK_F3">
+<!ENTITY findPrevCmd.label "Найти предыдущее">
+<!ENTITY findPrevCmd.key "G">
+<!ENTITY findPrevCmd.key2 "VK_F3">
+<!ENTITY findPrevCmd.accesskey "п">
 <!ENTITY findTypeTextCmd.label "Поиск текста по мере набора">
 <!ENTITY findTypeTextCmd.accesskey "и">
 <!ENTITY findTypeLinksCmd.label "Поиск ссылок по мере набора">
