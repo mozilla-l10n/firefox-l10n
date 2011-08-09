@@ -223,8 +223,8 @@ can reach it easily. -->
 <!ENTITY errorConsoleCmd.accesskey    "C">
 <!ENTITY errorConsoleCmd.commandkey   "j">
 
-<!ENTITY webConsoleCmd.label          "Web Console">
-<!ENTITY webConsoleCmd.accesskey      "W">
+<!ENTITY webConsoleCmd.label          "Վեբ կոնսոլ">
+<!ENTITY webConsoleCmd.accesskey      "Վ">
 <!ENTITY webConsoleCmd.commandkey     "k">
 
 <!ENTITY inspectMenu.label            "Հսկել">
