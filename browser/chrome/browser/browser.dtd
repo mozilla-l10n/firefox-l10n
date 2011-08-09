@@ -297,19 +297,20 @@ shortcut keys on Linux. -->
 
 <!ENTITY openCmd.commandkey 		  "l">
 <!ENTITY urlbar.placeholder           "Ir para o sítio web">
-<!ENTITY urlbar.accesskey 			  "A">
+<!ENTITY urlbar.accesskey 			  "a">
 <!ENTITY urlbar.switchToTab.label     "Mudar para separador:">
 
 <!-- 
   Comment duplicated from browser-sets.inc:
 
   Search Command Key Logic works like this:
-  
+
   Unix: Ctrl+J (0.8, 0.9 support)
         Ctrl+K (cross platform binding)
   Mac:  Cmd+K (cross platform binding)
         Cmd+Opt+F (platform convention)
   Win:  Ctrl+K (cross platform binding)
+        Ctrl+E (IE compat)
 
   We support Ctrl+K on all platforms now and advertise it in the menu since it is
   our standard - it is a "safe" choice since it is near no harmful keys like "W" as
@@ -320,6 +321,7 @@ shortcut keys on Linux. -->
 
  -->
 <!ENTITY searchFocus.commandkey       "k">
+<!ENTITY searchFocus.commandkey2      "e">
 <!ENTITY searchFocusUnix.commandkey   "j">
 
 <!ENTITY tabView.commandkey           "e">
