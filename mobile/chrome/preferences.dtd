@@ -5,7 +5,6 @@
 <!ENTITY reflowZoom.title                          "Tekst opnieuw opmaken na zoomen">
 <!ENTITY showImages.title                          "Afbeeldingen tonen">
 <!ENTITY enableJavaScript.title                    "JavaScript inschakelen">
-<!ENTITY enablePlugins.title                       "Plug-ins inschakelen">
 <!ENTITY privacy.title                             "Privacy &amp; beveiliging">
 <!ENTITY allowCookies.title                        "Cookies toestaan">
 <!ENTITY doNotTrack.title                          "Websites vertellen mij niet te volgen">
@@ -20,4 +19,4 @@
 <!ENTITY homepage.none                             "Lege pagina">
 <!ENTITY homepage.default                          "&brandShortName; Start">
 <!ENTITY homepage.currentpage                      "Huidige pagina gebruiken">
-<!ENTITY showCharset.title                         "Tekenset tonen">
+<!ENTITY showCharsetEncoding.title                 "Tekenset tonen">
