@@ -29,6 +29,8 @@
 <!ENTITY checkNow.accesskey              "K">
 <!ENTITY submitCrashes.label             "Sendi raportojn pri paneoj">
 <!ENTITY submitCrashes.accesskey         "S">
+<!ENTITY submitTelemetry.label           "Sendi informon pri efikeco">
+<!ENTITY submitTelemetry.accesskey       "e">
 
 <!ENTITY networkTab.label                "Reto">
 
