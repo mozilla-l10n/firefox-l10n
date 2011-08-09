@@ -5,6 +5,7 @@
 <!ENTITY stop.label "Parar">
 <!ENTITY go.label "Ir">
 <!ENTITY star.label "Marcar">
+<!ENTITY showTabs.label "Mostrar pestañas">
 <!ENTITY newtab.label "Pestaña nueva">
 <!ENTITY closetab.label "Cerrar pestaña">
 <!ENTITY cut.label "Cortar">
@@ -84,6 +85,7 @@
 <!ENTITY contextFullScreen.label "Pantalla completa">
 <!ENTITY contextEditBookmark.label "Editar">
 <!ENTITY contextRemoveBookmark.label "Eliminar">
+<!ENTITY contextShortcutBookmark.label "Añadir a la pantalla de inicio">
 <!ENTITY pageactions.saveas.pdf "Guardar como PDF">
 <!ENTITY pageactions.share.page "Compartir página">
 <!ENTITY pageactions.password.forget "Olvidar contraseña">
