@@ -6,8 +6,8 @@
 <!ENTITY blocklist.softandhard       "The add-ons that have a high risk of causing stability or security problems have been blocked. The others are lower risk, but it is highly recommended that you restart with them disabled.">
 <!ENTITY blocklist.moreinfo          "More information">
 
-<!ENTITY blocklist.accept.label      "Qala &brandShortName;">
-<!ENTITY blocklist.accept.accesskey  "R">
+<!ENTITY blocklist.accept.label      "Anzisha upya &brandShortName;">
+<!ENTITY blocklist.accept.accesskey  "A">
 
 <!ENTITY blocklist.blocked.label     "khiyiwe">
-<!ENTITY blocklist.checkbox.label    "Yenza Kungasebenzi">
+<!ENTITY blocklist.checkbox.label    "Lemaza">

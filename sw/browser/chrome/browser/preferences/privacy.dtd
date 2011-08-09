@@ -53,7 +53,7 @@
 <!ENTITY  rememberActions.removeCookies.label "ondoa vidakuzi vya kibinafsi">
 <!ENTITY  rememberActions.post.label          ".">
 
-<!ENTITY  dontrememberDescription.label  "&brandShortName; itatumia mipangilio hiyo hiyo kama kuvinjari kwa kibinafsi, na haitakumbuka historia yoyote unapovinjari Tovuti.">
+<!ENTITY  dontrememberDescription.label  "&brandShortName; Itatumia mipangilio sawa kama kuvinjari kwa kibinafsi, na haitakumbuka historia yoyote unapovinjari Tovuti.">
 <!-- LOCALIZATION NOTE (dontrememberActions.pre.label): include a trailing space as needed -->
 <!-- LOCALIZATION NOTE (dontrememberActions.post.label): include a starting space as needed -->
 
@@ -61,8 +61,8 @@
 <!ENTITY  dontrememberActions.clearHistory.label "ondoa historia yote iliyopo">
 <!ENTITY  dontrememberActions.post.label         ".">
 
-<!ENTITY  privateBrowsingPermanent.label "Modi ya Kudumu ya Kuvinjari kwa Binafsi">
-<!ENTITY  privateBrowsingPermanent.accesskey "M">
+<!ENTITY  privateBrowsingPermanent2.label "Kila mara tumia modi ya kuvinjari ya ufaragha">
+<!ENTITY  privateBrowsingPermanent2.accesskey "m">
 
 <!ENTITY  rememberHistory.label      "Kumbuka historia yangu ya kuvinjari">
 <!ENTITY  rememberHistory.accesskey  "k">

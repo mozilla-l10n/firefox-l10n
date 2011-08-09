@@ -1,7 +1,7 @@
 <!ENTITY syncKey.page.title               "Ufunguo wako wa &syncBrand.fullName.label;">
 <!ENTITY syncKey.page.description         "Ufunguo huu unatumiwa kufumbua data ambayo &syncBrand.fullName.label; iko kwenye akaunti yako. Utahitajika kuingiza ufunguo huu kila mara unaposanidi &syncBrand.fullName.label; kwa kompyuta mpya au kifaa.">
 <!ENTITY syncKey.keepItSecret.heading     "Iweke siri">
-<!ENTITY syncKey.keepItSecret.description "Akaunti yako ya &syncBrand.fullName.label; imefichika kukinga faragha yako. Bila ufunguo huu, itachukua miaka kwa mtu kufichua maelezo yako ya kibinafsi. Ni wewe pekee yako uliye na ufunguo huu. Hii ni kumaanisha kuwa ni wewe tu uliye na ufikivu wa data yako ya syncBrand.fullName.label.">
+<!ENTITY syncKey.keepItSecret.description "Akaunti yako ya &syncBrand.fullName.label; imefichika kukinga faragha yako. Bila ufunguo huu, itachukua miaka kwa mtu kufichua maelezo yako ya kibinafsi. Ni wewe pekee yako uliye na ufunguo huu. Hii ni kumaanisha kuwa ni wewe tu uliye na ufikivu wa data yako ya &syncBrand.fullName.label;.">
 <!ENTITY syncKey.keepItSafe.heading       "Iweke salama">
 <!ENTITY syncKey.keepItSafe1.description  "Usipoteze ufunguo huu.">
 <!ENTITY syncKey.keepItSafe2.description  " Hatuhitaji kuweka nakala ya ufunguo wako (hiyo haingekuwa kuweka siri!) kwa hivyo ">

@@ -15,16 +15,16 @@
 <!ENTITY productHelp.label        "&brandShortName; Msaada">
 <!ENTITY productHelp.accesskey    "M">
 <!ENTITY helpMac.commandkey       "?">
-<!ENTITY helpSafeMode.label       "Anza tena na Vifaa vya Nyongeza Vilivyolemazwa...">
+<!ENTITY helpSafeMode.label       "Anzisha tena na Vifaa vya Nyongeza Vilivyolemazwa...">
 <!ENTITY helpSafeMode.accesskey   "A">
 
 <!ENTITY helpTroubleshootingInfo.label      "Kusuluhisha Maelezo">
 <!ENTITY helpTroubleshootingInfo.accesskey  "K">
 
-<!ENTITY helpFeedbackPage.label      "Fikisha Maoni...">
-<!ENTITY helpFeedbackPage.accesskey  "F">
+<!ENTITY helpFeedbackPage.label      "Wasilisha Maoni...">
+<!ENTITY helpFeedbackPage.accesskey  "W">
 
-<!ENTITY preferencesCmdMac.label        "Mapendeleo">
+<!ENTITY preferencesCmdMac.label        "Mapendeleo...">
 <!ENTITY preferencesCmdMac.commandkey   ",">
 
 <!ENTITY servicesMenuMac.label          "Huduma">

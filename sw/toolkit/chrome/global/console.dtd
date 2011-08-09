@@ -35,20 +35,20 @@
    -
    - ***** END LICENSE BLOCK ***** -->
 
-<!ENTITY errorConsole.title "Error Console">
+<!ENTITY errorConsole.title "Kiweko cha Kosa">
 
 <!ENTITY errFile.label   "Source File:">
 <!ENTITY errLine.label   "Line:">
 <!ENTITY errColumn.label "Column:">
 
-<!ENTITY all.label          "All">
-<!ENTITY all.accesskey      "A">
-<!ENTITY errors.label       "Errors">
-<!ENTITY errors.accesskey   "E">
-<!ENTITY warnings.label     "Warnings">
-<!ENTITY warnings.accesskey "W">
-<!ENTITY messages.label     "Messages">
-<!ENTITY messages.accesskey "M">
+<!ENTITY all.label          "Zote">
+<!ENTITY all.accesskey      "Z">
+<!ENTITY errors.label       "Makosa">
+<!ENTITY errors.accesskey   "M">
+<!ENTITY warnings.label     "Onyo">
+<!ENTITY warnings.accesskey "O">
+<!ENTITY messages.label     "Ujumbe">
+<!ENTITY messages.accesskey "U">
 <!ENTITY clear.label        "Clear">
 <!ENTITY clear.accesskey    "C">
 <!ENTITY codeEval.label     "Code:">
@@ -56,8 +56,8 @@
 <!ENTITY evaluate.label     "Evaluate">
 <!ENTITY evaluate.accesskey "v">
 
-<!ENTITY copyCmd.label       "Copy">  
-<!ENTITY copyCmd.accesskey   "C"> 
+<!ENTITY copyCmd.label       "Nakili">  
+<!ENTITY copyCmd.accesskey   "N"> 
 <!ENTITY copyCmd.commandkey  "C"> 
 <!ENTITY sortFirst.label     "First > Last Sort Order">
 <!ENTITY sortFirst.accesskey "f">

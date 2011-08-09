@@ -3,7 +3,7 @@
 <!-- These strings are used in the about:home page -->
 
 
-<!ENTITY abouthome.pageTitle "&brandShortName; Ukurasa wa Kuanza">
+<!ENTITY abouthome.pageTitle "&brandFullName; Ukurasa wa Kuanza">
 
 <!ENTITY abouthome.searchEngineButton.label "Tafutiza">
 

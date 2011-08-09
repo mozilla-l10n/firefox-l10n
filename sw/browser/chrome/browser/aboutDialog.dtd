@@ -3,9 +3,9 @@
 <!ENTITY community.start2           "&brandShortName; imeundwa na ">
 <!-- LOCALIZATION NOTE (community.mozillaLink): This is a link title that links to http://www.mozilla.org/. -->
 <!ENTITY community.mozillaLink      "&vendorShortName;">
-<!ENTITY community.middle2          ", jamii">
+<!ENTITY community.middle2          ", a">
 <!-- LOCALIZATION NOTE (community.creditsLink): This is a link title that links to about:credits. -->
-<!ENTITY community.creditsLink      "ya dunia">
+<!ENTITY community.creditsLink      "jamii ya ulimwengu">
 <!ENTITY community.end2             "inayofanya kazi kwa pamoja ili kufanya wavuti kuwa bora zaidi. Tunaamini kwamba wavuti inapaswa kuwa wazi, ya umma, na inayoweza kufikiwa na kila mtu bila vizuizi vyovyote.">
 
 <!ENTITY contribute.start           "Inakupendeza?">
@@ -14,18 +14,18 @@
 <!ENTITY contribute.end             "">
 <!-- LOCALIZATION NOTE (bottomLinks.license): This is a link title that links to about:license. -->
 
-<!ENTITY bottomLinks.license        "Maelezo ya leseni">
+<!ENTITY bottomLinks.license        "Maelezo ya Leseni">
 <!-- LOCALIZATION NOTE (bottomLinks.rights): This is a link title that links to about:rights. -->
 
-<!ENTITY bottomLinks.rights         "Haki za mtumiaji">
+<!ENTITY bottomLinks.rights         "Haki za Mtumiaji wa Mwisho">
 <!-- LOCALIZATION NOTE (bottomLinks.privacy): This is a link title that links to http://www.mozilla.com/legal/privacy/. -->
 
-<!ENTITY bottomLinks.privacy        "Sera ya faragha">
+<!ENTITY bottomLinks.privacy        "Sera ya Faragha">
 <!-- LOCALIZATION NOTE (update.checkingForUpdates): try to make the localized text short (see bug 596813 for screenshots). -->
 
 <!ENTITY update.checkingForUpdates  "Inakagua visasisho...">
 <!-- LOCALIZATION NOTE (update.checkingAddonCompat): try to make the localized text short (see bug 596813 for screenshots). -->
-<!ENTITY update.checkingAddonCompat "Inakagua utangamano wa kifaa cha nyongeza">
+<!ENTITY update.checkingAddonCompat "Inakagua utangamano wa kifaa cha nyongeza...">
 <!-- LOCALIZATION NOTE (update.noUpdatesFound): try to make the localized text short (see bug 596813 for screenshots). -->
 <!ENTITY update.noUpdatesFound      "&brandShortName; imesasishwa">
 <!-- LOCALIZATION NOTE (update.adminDisabled): try to make the localized text short (see bug 596813 for screenshots). -->
@@ -60,21 +60,3 @@
 
 <!ENTITY channel.description.start  "Kwa sasa uko kwenye">
 <!ENTITY channel.description.end    " sasisha idhaa. ">
-
-<!ENTITY channel.change             "Badilisha">
-
-<!ENTITY channel.release.description       "Furahiya tleo la mwisho lililojaribiuwa na kupimwa linalotumiw na mamia ya mamilioni duniani kote. Dhibiti uzoefu wako wa mtandoani kwa kasi sana, ubinafsishaji rahisi na teknolojia mpya za wavuti.">
-<!ENTITY channel.beta.description          "Zoea vipengele vya kisasa vyenye udhabiti zaidi. Toa maoni ili kusaidia kufasili upya na kuboresha kitakachokuwa katika toleo la mwisho.">
-<!ENTITY channel.aurora.description        "Zoea uvumbuzi mpya zaidi katika mazingira dhabiti yasiyo ya waoga. Toa maoni juu ya vipengele na utendajikazi ili kusaidia kubainisha kitakachokuwa katika toleo la mwisho.">
-<!-- LOCALIZATION NOTE (channel.selector.start,channel.selector.end): channel.selector.start and
-     channel.selector.end create one sentence, with a channel selection menulist instered in between.
-     This is all in one line, so try to make the localized text short.
-     example: Switch to the [Stable] update channel. -->
-
-<!ENTITY channel.selector.start          "Badilisha kuwa">
-<!ENTITY channel.selector.end            "sasisha idhaa.">
-<!-- LOCALIZATION NOTE (channel.selector.applyButton): This button applies the user's choice to switch
-     to a new update channel and starts the application update process. -->
-
-<!ENTITY channel.selector.applyButton    "Tekeleza na Sasisha">
-<!ENTITY channel.selector.cancelButton   "Ghairi">

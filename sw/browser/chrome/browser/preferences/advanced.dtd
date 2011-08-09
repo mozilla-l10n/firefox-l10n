@@ -30,6 +30,8 @@
 <!ENTITY checkNow.accesskey              "S">
 <!ENTITY submitCrashes.label             "Fikisha ripoti za kukwama">
 <!ENTITY submitCrashes.accesskey         "F">
+<!ENTITY submitTelemetry.label           "Wasilisha data ya utendakazi">
+<!ENTITY submitTelemetry.accesskey       "u">
 
 <!ENTITY networkTab.label                "Mtandao">
 

@@ -1,5 +1,5 @@
 <!ENTITY setPassword.title                 "Change Master Password">
-<!ENTITY setPassword.tokenName.label       "Security Device">
+<!ENTITY setPassword.tokenName.label       "Kifaa cha Usalama">
 <!ENTITY setPassword.oldPassword.label     "Current password:">
 <!ENTITY setPassword.newPassword.label     "Enter new password:">
 <!ENTITY setPassword.reenterPassword.label "Re-enter password:">

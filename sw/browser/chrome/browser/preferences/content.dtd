@@ -1,16 +1,16 @@
 <!ENTITY  blockPopups.label           "Zuia dirisha ibukizi">
 <!ENTITY  blockPopups.accesskey       "Z">
-<!ENTITY  popupExceptions.label       "Mambo ya pekee...">
+<!ENTITY  popupExceptions.label       "Mambo ya kipekee...">
 <!ENTITY  popupExceptions.accesskey   "M">
 
 <!ENTITY  loadImages.label            "Pakia picha kiotomatiki">
 <!ENTITY  loadImages.accesskey        "p">
-<!ENTITY  exceptions.label            "Mambo ya pekee...">
+<!ENTITY  exceptions.label            "Mambo ya kipekee...">
 <!ENTITY  exceptions.accesskey        "m">
 
 <!ENTITY  enableJavaScript.label      "Wezesha HatiJava">
 <!ENTITY  enableJavaScript.accesskey  "H">
-<!ENTITY  advancedJS.label            "Iliyoendelea...">
+<!ENTITY  advancedJS.label            "Yaliyopandishwa daraja...">
 <!ENTITY  advancedJS.accesskey        "y">
 
 <!ENTITY  enableJava.label            "Wezesha Java">
@@ -24,8 +24,8 @@
 <!ENTITY  defaultSize.label           "Ukubwa:">
 <!ENTITY  defaultSize.accesskey       "U">
 
-<!ENTITY  advancedFonts.label         "Iliyoendelea...">
-<!ENTITY  advancedFonts.accesskey     "I">
+<!ENTITY  advancedFonts.label         "Yaliyopandishwa daraja...">
+<!ENTITY  advancedFonts.accesskey     "Y">
 
 <!ENTITY  colors.label                "Rangi...">
 <!ENTITY  colors.accesskey            "R">

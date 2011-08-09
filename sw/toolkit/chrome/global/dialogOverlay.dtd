@@ -40,6 +40,6 @@
 -->
 <!-- OK Cancel Buttons -->
 
-<!ENTITY okButton.label      "Kulungile">
-<!ENTITY cancelButton.label  "Katiza">
+<!ENTITY okButton.label      "Sawa">
+<!ENTITY cancelButton.label  "Ghairi">
 <!ENTITY helpButton.label    "Msaada">

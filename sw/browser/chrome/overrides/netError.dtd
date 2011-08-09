@@ -27,13 +27,13 @@ kuwa &brandShortName; imeruhusiwa ufikivu kwa Wavuti.</li>
 <!ENTITY fileNotFound.longDesc "<ul> 
 <li>Kagua jina la faili utumizi wa herufi kubwa na makosa mengine ya kuchapa.</li> 
 <li>Kaguo kuona kama faili iliondolewa, imepewa jina upya au kufutwa.</li> 
-<li>">
+</ul>">
 
 
 <!ENTITY generic.title "Lo.">
 <!ENTITY generic.longDesc "<p>&brandShortName; haiwezi kupakia ukurasa huu kwa sababu fulani.</p>">
 
-<!ENTITY malformedURI.title "Anwani  hii sio sahihi">
+<!ENTITY malformedURI.title "Anwani sio sahihi">
 <!ENTITY malformedURI.longDesc "<ul> 
 <li>Anwani za tovuti kawaida huandikwa kama 
 <strong>http://.example.com/</strong></li> 
@@ -45,13 +45,8 @@ kuwa &brandShortName; imeruhusiwa ufikivu kwa Wavuti.</li>
 <!ENTITY netInterrupt.longDesc "&sharedLongDesc;">
 
 <!ENTITY netOffline.title "Modi ya nje ya mtandao">
-<!-- LOCALIZATION NOTE (netOffline.overrideLongDesc) - This string should
-     indicate that "Work Offline" is a menu item without being too specific,
-     since it could be in either the normal menu (Mac/Linux) or the Firefox button
-     menu (Windows).
--->
-<!ENTITY netOffline.overrideLongDesc "<ul> 
-<li>Batilisha uteuzi &quote;Fanya kazi nje ya mtandao&quot; kipengee cha menyu, kisha jaribu tena.</li> 
+<!ENTITY netOffline.longDesc2 "<ul> 
+<li>Bofya &quot;Jaribu Tena&quot; kuswichi kwenye modi ya mtandaoni na upakie ukurasa.</li> 
 </ul>">
 
 <!ENTITY contentEncodingError.title "Kosa la Usimbuaji Yaliyomo">
@@ -127,8 +122,10 @@ kuwa &brandShortName; imeruhusiwa kufikia Wavuti.</li>
 </ul>">
 
 <!ENTITY malwareBlocked.title "Inashukiwa kuwa Wavuti Shambulizi!">
-<!ENTITY malwareBlocked.longDesc "<p>Wavuti shambulizi hujaribu kusakinisha programu zinazoiba maelezo ya kibinafsi, kutumia tarakilishi yako kushambulia zingine, au kudhuru mfumo wako.</p> 
-<p>Wamiliki wa wavuti wanaoamini wavuti zao zimeripotiwa kama wavuti shambulizi kimakosa waweza omba kuangalia tena<a href='http://www.stopbadware.org/home/reviewinfo' ><a href='http://www.stopbadware.org/home/reviewinfo' ></a>.</p>">
+<!ENTITY malwareBlocked.longDesc "
+<p>Attack sites try to install programs that steal private information, use your computer to attack others, or damage your system.</p>
+<p>Web site owners who believe their site has been reported as an attack site in error may <a href='http://www.stopbadware.org/home/reviewinfo' >request a review</a>.</p>
+">
 
 <!ENTITY phishingBlocked.title "Inashukiwa kuwa Wavuti Ughushi!">
 <!ENTITY phishingBlocked.longDesc "<p>Kuinigiza maelezo yoyote ya kibinafsi kwenye ukurasa huu kwaweza kusababisha wizi wa utambulishi au aina nyingine za udanganyifu.</p> 
@@ -136,6 +133,10 @@ kuwa &brandShortName; imeruhusiwa kufikia Wavuti.</li>
 
 <!ENTITY cspFrameAncestorBlocked.title "Imezuiliwa na Sera ya Usalama wa Maudhui">
 <!ENTITY cspFrameAncestorBlocked.longDesc "<p>&brandShortName; imzuia ukurasa huu kupakiwa kwa njia hii kwa sababu ukurasa una sera ya usalama wa maudhui ambayo haiiruhusu.</p>">
+
+<!ENTITY corruptedContentError.title "Kosa la Kuharibika kwa Maudhui ">
+<!ENTITY corruptedContentError.longDesc "<p>Ukurasa unaojaribu kuangalia hauwezi kuonyeswha kwa sababu unatumia mfanyizo batili au usioauniwa.</p><ul><li>Tafadhali wasiliana na wamiliki wa wavuti kuwajulisha kuhusu shida hii.</li></ul>">
+
 
 <!ENTITY securityOverride.linkText "Au unaweza kuongeza jambo la pekee...">
 <!ENTITY securityOverride.getMeOutOfHereButton "Niondoe hapa!">

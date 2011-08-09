@@ -25,8 +25,7 @@
 <!ENTITY netInterrupt.longDesc "<p>Kivinjari kimefaulu kuunganishwa, lakini muungano umesitishwa wakati wa kuhamisha maelezo.  Tafadhali jaribu tena.</p><ul><li>Je,umeshindwa kuvinjari tovuti zingine?  Kagua muungano wa mtandao wa tarakilishi yako.</li><li>Bado unapata shida? Wasiliana na msimamizi wa mtandao au mtoaji Mtandao kwa usaidizi.</li></ul>">
 
 <!ENTITY netOffline.title "Hali tumizi ya Nje ya Mtandao">
-<!ENTITY netOffline.longDesc "<p>Kivinjari kinafanya kazi nje ya mtandao na hakiwezi kuunganishwa kwa kipengee kilichoombwa.</p><ul><li>Tarakilishi imeunganishwa kwa mtandao amilifu?</li><li>Weka kivinjari kwenye mtandao na ujaribu tena.</li></ul>">
-<!ENTITY netOffline.overrideLongDesc "<p>Kivinjari kinafanya kazi nje ya mtandao na hakiwezi kuunganishwa kwa kipengee kilichoombwa.</p><ul><li>Tarakilishi imeunganishwa kwa mtandao amilifu?</li><li>Weka kivinjari kwenye mtandao na ujaribu tena.</li></ul>">
+<!ENTITY netOffline.longDesc2 "<p>The browser is operating in its offline mode and cannot connect to the requested item.</p><ul><li>Is the computer connected to an active network?</li><li>Press &quot;Try Again&quot; to switch to online mode and reload the page.</li></ul>">
 
 <!ENTITY contentEncodingError.title "Kosa la Usimbaji Maudhui">
 <!ENTITY contentEncodingError.longDesc "<p>Ukurasa unaojaribu kuangalia hauwezi kuonyeswha kwa sababu unatumia mfanyizo batili au usioauniwa.</p><ul><li>Tafadhali wasiliana na wamiliki wa wavuti kuwajulisha kuhusu shida hii.</li></ul>">
@@ -46,10 +45,10 @@
 <!ENTITY protocolNotFound.longDesc "<p>Anwani inaainisha itifaki (k.m. <q>wxyz://</q>) kivinjari hakitambui, kwa hivyo kivinjari hakiwezi kuungana vema kwenye tovuti.</p><ul><li>Unajaribu kupata ufikivu wa midia-anuwai au huduma zingine zisizo za matini? Kagua wavuti kwa mahitaji ya ziada.</li><li>Itifaki zingine zaweza kuhitaji programu za nafsi ya tatu au  programu jalizi kabla ya kivinjari kuvitambua.</li></ul>">
 
 <!ENTITY proxyConnectFailure.title "Sava ya Mbadala Imekataa Muungano">
-<!ENTITY proxyConnectFailure.longDesc "<p>Kivinjari kimesanidiwa kutumia sava mbadala, lakini mbadala umekataa muungano.</p><ul><li>Je, usanidi wa kivinjari mbadala ni sahihi? Kagua mipangilio na ujaribu tena.</p><li>Huduma ya mbadala inaruhusu muungano kutoka kwa mtandao huu?</li><li>Bado una shida? Wasiliana na msimamizi wa mtandao au mtoaji mtandao kwa usaidizi.</li></ul>">
+<!ENTITY proxyConnectFailure.longDesc "<p>Kivinjari kimesanidiwa kutumia sava mbadala, lakini mbadala umekataa muungano.</p><ul><li>Je, usanidi wa kivinjari mbadala ni sahihi? Kagua mipangilio na ujaribu tena.</li><li>Huduma ya mbadala inaruhusu muungano kutoka kwa mtandao huu?</li><li>Bado una shida? Wasiliana na msimamizi wa mtandao au mtoaji mtandao kwa usaidizi.</li></ul>">
 
 <!ENTITY proxyResolveFailure.title "Sava Mbadala Haikupatikana">
-<!ENTITY proxyResolveFailure.longDesc "p>Kivinjari kimesanidiwa kutumia sava mbadala, lakini mbadala haupatikani.</p><ul><li>Je, usanidi wa kivinjari mbadala ni sahihi? Kagua mipangilio na ujaribu tena.</p><li>Tarakilishi imeunganishwa kwa mtandao amilifu?</li><li>Bado una shida? Wasiliana na msimamizi wa mtandao au mtoaji mtandao kwa usaidizi.</li></ul>">
+<!ENTITY proxyResolveFailure.longDesc "p>Kivinjari kimesanidiwa kutumia sava mbadala, lakini mbadala haupatikani.</p><ul><li>Je, usanidi wa kivinjari mbadala ni sahihi? Kagua mipangilio na ujaribu tena.</li><li>Tarakilishi imeunganishwa kwa mtandao amilifu?</li><li>Bado una shida? Wasiliana na msimamizi wa mtandao au mtoaji mtandao kwa usaidizi.</li></ul>">
 
 <!ENTITY redirectLoop.title "Elekeza tena Kitanzi">
 <!ENTITY redirectLoop.longDesc "<p>Kivinjari kimekoma kujaribu kurejesha kipengee kilichoombwa. Tovuti inaelekeza tena kwa njia ambayo haitakamilisha.</p><ul><li>Umelemaza au kuzuia vidakuzi vinavyohitajika kwa tovuti hii?</li><li><em>ZINGATIA</em>:Kama kukubali vidakuzi vya tovuti hakusuluhishi tatizo, huenda kuwa shida ni usanidi wa sava na sio tarakilishi.</li></ul>">
@@ -76,6 +75,9 @@
 
 <!ENTITY cspFrameAncestorBlocked.title "Imezuiliwa na Sera ya Usalama wa Maudhui">
 <!ENTITY cspFrameAncestorBlocked.longDesc "<p>Kivinjari kimezuia ukurasa huu kupakia katika njia hii kwa sababu ukurasa una sera ya usalama wa maudhui ambayo inakataza hili.</p>">
+
+<!ENTITY corruptedContentError.title "Kosa la Kuharibika kwa Maudhui">
+<!ENTITY corruptedContentError.longDesc "<p>Ukurasa unaojaribu kuangalia hauwezi kuonyeswha kwa sababu unatumia mfanyizo batili au usioauniwa.</p><ul><li>Tafadhali wasiliana na wamiliki wa wavuti kuwajulisha kuhusu shida hii.</li></ul>">
 
 <!ENTITY remoteXUL.title "XUL ya Mbali">
 <!ENTITY remoteXUL.longDesc "<p><ul><li>Tafadhali wasiliana na wamiliki wa tovuti ili kuwafahamisha juu ya tatizo hili.</li></ul></p>">

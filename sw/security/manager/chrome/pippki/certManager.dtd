@@ -95,14 +95,14 @@
 <!ENTITY certmgr.certname                     "Certificate Name">
 <!ENTITY certmgr.certserver                   "Server">
 <!ENTITY certmgr.override_lifetime            "Lifetime">
-<!ENTITY certmgr.tokenname                    "Security Device">
+<!ENTITY certmgr.tokenname                    "Kifaa cha Usalama">
 <!ENTITY certmgr.issued                       "Issued On">
 <!ENTITY certmgr.expires                      "Expires On">
 <!ENTITY certmgr.email                        "E-Mail Address">
 <!ENTITY certmgr.serial                       "Serial Number">
 
-<!ENTITY certmgr.close.label                  "Close">
-<!ENTITY certmgr.close.accesskey              "C">
+<!ENTITY certmgr.close.label                  "Funga">
+<!ENTITY certmgr.close.accesskey              "F">
 <!ENTITY certmgr.view2.label                  "View…">
 <!ENTITY certmgr.view2.accesskey              "V">
 <!ENTITY certmgr.edit3.label                  "Edit Trust…">
@@ -137,7 +137,7 @@
 <!ENTITY exceptionMgr.exceptionButton.accesskey "C">
 <!ENTITY exceptionMgr.supplementalWarning     "Legitimate banks, stores, and other public sites will not ask you to do this.">
 <!ENTITY exceptionMgr.certlocation.caption2   "Server">
-<!ENTITY exceptionMgr.certlocation.url        "Location:">
+<!ENTITY exceptionMgr.certlocation.url        "Mahali:">
 <!ENTITY exceptionMgr.certlocation.download   "Get Certificate">
 <!ENTITY exceptionMgr.certlocation.accesskey  "G">
 <!ENTITY exceptionMgr.certstatus.caption      "Certificate Status">

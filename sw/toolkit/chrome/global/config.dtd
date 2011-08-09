@@ -34,7 +34,7 @@
    -
    - ***** END LICENSE BLOCK ***** -->
 
-<!ENTITY window.title "about:config">
+<!ENTITY window.title "kuhusu:usanidi">
 <!-- about:config warning page -->
 <!-- LOCALIZATION NOTE: aboutWarningTitle.label should be attention grabbing and playful -->
 
@@ -43,8 +43,8 @@
 <!ENTITY aboutWarningButton.label "I'll be careful, I promise!">
 <!ENTITY aboutWarningCheckbox.label "Show this warning next time">
 
-<!ENTITY filterPrefs.label "Filter:">
-<!ENTITY filterPrefs.accesskey "F">
+<!ENTITY filterPrefs.label "Kichujio:">
+<!ENTITY filterPrefs.accesskey "K">
 <!ENTITY focusFilter.key "f">
 <!-- Columns -->
 
@@ -59,8 +59,8 @@
 <!-- Context Menu -->
 
 <!ENTITY copyPref.key "C">
-<!ENTITY copyPref.label "Copy">
-<!ENTITY copyPref.accesskey "C">
+<!ENTITY copyPref.label "Nakili">
+<!ENTITY copyPref.accesskey "N">
 <!ENTITY copyName.label "Copy Name">
 <!ENTITY copyName.accesskey "N">
 <!ENTITY copyValue.label "Copy Value">

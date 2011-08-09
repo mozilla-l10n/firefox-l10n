@@ -22,15 +22,14 @@
 <!ENTITY warning.updatesecurity.label              "Ukaguzi wa usalama wa kisasaisho cha vifaa vya nyongeza. Waweza kuwa umeafikiwa na visasaisho.">
 <!ENTITY warning.updatesecurity.enable.label       "Wezesha">
 <!ENTITY warning.updatesecurity.enable.tooltip     "Wezesha ukaguzi wa usalama wa visasaisho vya vifaa vya nyongeza">
+<!-- global informations -->
+
+<!ENTITY info.plugincheck.label                 "Kagua kona ilkiwa grogramu-jalizi zako zimesasishwa">
+<!ENTITY info.plugincheck.tooltip               "Kagua kona ilkiwa grogramu-jalizi zako zimesasishwa">
 <!-- categories / views -->
 
 <!ENTITY view.search.label                    "Tafutiza">
 <!ENTITY view.discover.label                  "Pata Vifaa vya nyongeza">
-<!ENTITY view.locales.label                   "Lugha">
-<!ENTITY view.searchengines.label             "Injini Tatuti">
-<!ENTITY view.features.label                  "Viendelezi">
-<!ENTITY view.appearance2.label               "Muonekano">
-<!ENTITY view.plugins.label                   "Programu-jalizi">
 <!ENTITY view.recentUpdates.label             "Visasaisho vya hivi karibuni">
 <!ENTITY view.availableUpdates.label          "Visasaisho Vinavyopatikana">
 <!-- addon updates -->
@@ -200,3 +199,5 @@ vifaa vya nyongeza bora zaidi na vinavyojulikana zaidi kwako ili uvijaribu.">
 <!ENTITY eula.width                           "560px">
 <!ENTITY eula.height                          "400px">
 <!ENTITY eula.accept                          "Kubali na Sakinisha...">
+
+<!ENTITY settings.path.button.label           "Vinjari...">

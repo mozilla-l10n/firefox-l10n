@@ -1,5 +1,5 @@
 <!-- The page shown when not logged in... -->
-<!ENTITY setupButton.label          "Sanidi &syncBrand.jinaKamili.lebo;">
+<!ENTITY setupButton.label          "Set Up &syncBrand.fullName.label;">
 <!ENTITY setupButton.accesskey      "S">
 <!ENTITY weaveDesc.label            "&syncBrand.fullName.label; hukuruhusu kufikia historia yako, alamisho na kufungua vichupa kote kwenye vifaa vyako vyote.">
 <!-- The page shown when logged in... -->
