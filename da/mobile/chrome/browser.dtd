@@ -107,6 +107,7 @@
 <!ENTITY pageactions.saveas.pdf      "Gem som PDF">
 <!ENTITY pageactions.share.page      "Del side">
 <!ENTITY pageactions.password.forget "Glem adgangskode">
+<!ENTITY pageactions.quit            "Afslut">
 <!ENTITY pageactions.reset           "Ryd webstedsindstillinger">
 <!ENTITY pageactions.findInPage      "Find på siden">
 <!ENTITY pageactions.search.addNew   "Tilføj søgetjeneste">

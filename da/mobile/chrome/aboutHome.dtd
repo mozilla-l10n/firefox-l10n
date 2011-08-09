@@ -8,3 +8,4 @@
 <!ENTITY aboutHome.openAllTabs                  "Åbn alle i faneblade">
 <!ENTITY aboutHome.noTabs                       "Ingen faneblade fra sidste gang">
 <!ENTITY aboutHome.noAddons                     "Ingen anbefalede tilføjelser">
+<!ENTITY aboutHome.getLocale                    "Skift sprog">
