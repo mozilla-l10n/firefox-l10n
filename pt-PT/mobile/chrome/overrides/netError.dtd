@@ -53,7 +53,7 @@
 <!ENTITY netInterrupt.longDesc "&sharedLongDesc;">
 
 <!ENTITY netOffline.title "Modo desligado">
-<!ENTITY netOffline.overrideLongDesc "
+<!ENTITY netOffline.longDesc2 "
 <ul>
   <li>Tente novamente. O &brandShortName; vai tentar abrir uma ligação e recarregar a página.</li>
 </ul>
