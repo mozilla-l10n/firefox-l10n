@@ -48,7 +48,7 @@
 <!ENTITY proxyConnectFailure.longDesc "<p>Kivinjari kimesanidiwa kutumia sava mbadala, lakini mbadala umekataa muungano.</p><ul><li>Je, usanidi wa kivinjari mbadala ni sahihi? Kagua mipangilio na ujaribu tena.</li><li>Huduma ya mbadala inaruhusu muungano kutoka kwa mtandao huu?</li><li>Bado una shida? Wasiliana na msimamizi wa mtandao au mtoaji mtandao kwa usaidizi.</li></ul>">
 
 <!ENTITY proxyResolveFailure.title "Sava Mbadala Haikupatikana">
-<!ENTITY proxyResolveFailure.longDesc "p>Kivinjari kimesanidiwa kutumia sava mbadala, lakini mbadala haupatikani.</p><ul><li>Je, usanidi wa kivinjari mbadala ni sahihi? Kagua mipangilio na ujaribu tena.</li><li>Tarakilishi imeunganishwa kwa mtandao amilifu?</li><li>Bado una shida? Wasiliana na msimamizi wa mtandao au mtoaji mtandao kwa usaidizi.</li></ul>">
+<!ENTITY proxyResolveFailure.longDesc "<p>Kivinjari kimesanidiwa kutumia sava mbadala, lakini mbadala haupatikani.</p><ul><li>Je, usanidi wa kivinjari mbadala ni sahihi? Kagua mipangilio na ujaribu tena.</li><li>Tarakilishi imeunganishwa kwa mtandao amilifu?</li><li>Bado una shida? Wasiliana na msimamizi wa mtandao au mtoaji mtandao kwa usaidizi.</li></ul>">
 
 <!ENTITY redirectLoop.title "Elekeza tena Kitanzi">
 <!ENTITY redirectLoop.longDesc "<p>Kivinjari kimekoma kujaribu kurejesha kipengee kilichoombwa. Tovuti inaelekeza tena kwa njia ambayo haitakamilisha.</p><ul><li>Umelemaza au kuzuia vidakuzi vinavyohitajika kwa tovuti hii?</li><li><em>ZINGATIA</em>:Kama kukubali vidakuzi vya tovuti hakusuluhishi tatizo, huenda kuwa shida ni usanidi wa sava na sio tarakilishi.</li></ul>">
