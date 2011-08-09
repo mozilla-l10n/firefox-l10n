@@ -92,6 +92,7 @@
 <!ENTITY contextOpenInNewTab.label    "Openen in nieuw tabblad">
 <!ENTITY contextSaveLink.label        "Koppeling opslaan">
 <!ENTITY contextSaveImage.label       "Afbeelding opslaan">
+<!ENTITY contextCopyLink.label        "Koppeling kopiëren">
 <!ENTITY contextShareLink.label       "Koppeling delen">
 <!ENTITY contextShareImage.label      "Afbeelding delen">
 <!ENTITY contextBookmarkLink.label    "Bladwijzer maken">
