@@ -20,16 +20,6 @@
 
 <!-- Edit Menu -->
 <!ENTITY findOnCmd.label "Localizar nesta páxina…">
-<!ENTITY findOnCmd.accesskey "L">
-<!ENTITY findOnCmd.commandkey "f">
-<!ENTITY findAgainCmd.label "Localizar de novo">
-<!ENTITY findAgainCmd.accesskey "L">
-<!ENTITY findAgainCmd.commandkey "g">
-<!ENTITY findPrevCmd.label "Localizar anterior">
-<!ENTITY findPrevCmd.accesskey "L">
-<!ENTITY findPrevCmd.commandkey "g">
-<!ENTITY findAgainCmd.commandkey2 "VK_F3">
-<!ENTITY findPrevCmd.commandkey2 "VK_F3">
 
 <!-- View Menu -->
 <!ENTITY toolbarsCmd.label "Mostrar/Ocultar">
