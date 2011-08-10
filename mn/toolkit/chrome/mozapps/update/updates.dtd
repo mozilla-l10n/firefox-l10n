@@ -68,4 +68,12 @@
 <!ENTITY  update.installedOn.label        "Суугдсан газар:">
 <!ENTITY  update.status.label             "Төлөв:">
 
+<!ENTITY error.title       "Шинэчлэл хийж чадсангүй">
+<!ENTITY  errorCertAttrHasUpdate.label    "Гадны програм &brandShortName;-д аюултай байж болох холболт хийсэн байна. Сүлжээний байдлыг шалгаад тусламж хүснэ үү.">
+<!ENTITY  errorCertAttrNoUpdate2.label     "Аюулгүй байдлаар шинэчлэл хийж байх явцад &brandShortName; нь зогсоогдлоо. &brandShortName; сүүлийн хувилбараас шалгаж үзнэ үү:">
+<!ENTITY  genericBackgroundError.label    "&brandShortName;-д шинэчлэл байгаа эсэхийг шалгах боломжгүй байна. &brandShortName; сүүлийн хувилбараас шалгаж үзнэ үү.:">
+<!ENTITY  manualUpdate.space.desc         "Санал болгож буй аюулгүйн байдлын шинэчлэл байгаа боловч суулгах боломжтой хангалттай хадгалах зай байхгүй байна.">
 
+<!ENTITY  pluginupdatesfound.label	"Plug-in-ы шинэ хувилбар байна.">
+<!ENTITY  pluginupdatesfound.title	"Plug-in-ы шинэ хувилбар оллоо">
+<!ENTITY  pluginupdateslink.label	"Plug-in-г хэрхэн суулгахыг харах">
