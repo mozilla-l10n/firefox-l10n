@@ -7,6 +7,7 @@
 <!ENTITY go.label              "Gå till">
 <!ENTITY star.label            "Märk">
 
+<!ENTITY showTabs.label        "Visa flikar">
 <!ENTITY newtab.label          "Ny flik">
 <!ENTITY closetab.label        "Stäng flik">
 
