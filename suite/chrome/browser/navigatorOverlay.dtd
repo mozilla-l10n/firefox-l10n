@@ -18,19 +18,6 @@
 <!ENTITY printSetupCmd.label "Configuración de página…">
 <!ENTITY printSetupCmd.accesskey "u">
 
-<!-- Edit Menu -->
-<!ENTITY findOnCmd.label "Buscar en esta página…">
-<!ENTITY findOnCmd.accesskey "B">
-<!ENTITY findOnCmd.commandkey "f">
-<!ENTITY findAgainCmd.label "Buscar de nuevo">
-<!ENTITY findAgainCmd.accesskey "B">
-<!ENTITY findAgainCmd.commandkey "g">
-<!ENTITY findPrevCmd.label "Buscar anterior">
-<!ENTITY findPrevCmd.accesskey "B">
-<!ENTITY findPrevCmd.commandkey "g">
-<!ENTITY findAgainCmd.commandkey2 "VK_F3">
-<!ENTITY findPrevCmd.commandkey2 "VK_F3">
-
 <!-- View Menu -->
 <!ENTITY toolbarsCmd.label "Mostrar/Ocultar">
 <!ENTITY toolbarsCmd.accesskey "M">

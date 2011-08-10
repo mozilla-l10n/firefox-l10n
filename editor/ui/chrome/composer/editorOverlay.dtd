@@ -90,18 +90,6 @@
 <!ENTITY pasteAsQuotationCmd.label "Pegar como cita">
 <!ENTITY pasteAsQuotationCmd.accesskey "g">
 <!ENTITY pasteAsQuotationCmd.key "o">
-<!ENTITY findCmd.label "Buscar y reemplazar…">
-<!ENTITY findCmd.accesskey "A">
-<!ENTITY findCmd.key "A">
-<!ENTITY findCmd.key2 "VK_F19">
-<!ENTITY findAgainCmd.label "Repetir la búsqueda">
-<!ENTITY findAgainCmd.accesskey "q">
-<!ENTITY findAgainCmd.key "q">
-<!ENTITY findAgainCmd.key2 "VK_F3">
-<!ENTITY findPrevCmd.label "Buscar anterior">
-<!ENTITY findPrevCmd.accesskey "e">
-<!ENTITY findPrevCmd.key "q">
-<!ENTITY findPrevCmd.key2 "VK_F3">
 <!ENTITY enableInlineSpellChecker.label "Ortografía mientras tipea">
 <!ENTITY enableInlineSpellChecker.accesskey "O">
 <!ENTITY checkSpellingCmd2.label "Revisar ortografía">
