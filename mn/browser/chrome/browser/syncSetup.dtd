@@ -1,0 +1,114 @@
+<!ENTITY accountSetupTitle.label    "&syncBrand.fullName.label; тохируулга">
+
+<!-- First page of the wizard -->
+<!ENTITY setup.pickSetupType.description "Тавтай морилно уу. &syncBrand.fullName.label;-г анх удаа хэрэглэж үзэж байгаа бол эхлээд данс нээнэ үү.">
+<!ENTITY button.createNewAccount.label "шинэ данс нээх">
+<!ENTITY setup.haveAccount.label "&syncBrand.fullName.label; энэ дансыг өөр хүн эзэмшиж байна.">
+<!ENTITY button.connect.label    "Холбох">
+
+<!ENTITY setup.choicePage.title.label     "&syncBrand.fullName.label; ашиглаж үзсэн удаа бий юу?">
+<!ENTITY setup.choicePage.new.label       "&syncBrand.shortName.label; анх удаа ашиглаж байна.">
+<!ENTITY setup.choicePage.existing.label  "&syncBrand.shortName.label; ашиглаж байна.">
+
+<!-- New Account AND Existing Account -->
+<!ENTITY server.label               "Сервер"> 
+<!ENTITY serverType.main.label      "&syncBrand.fullName.label; сервер">
+<!ENTITY serverType.custom2.label    "Серверийн тохируулга хийх…">
+<!ENTITY signIn.account2.label       "дансны нэр">
+<!ENTITY signIn.account2.accesskey   "A">
+<!ENTITY signIn.password.label      "Нууц үг">
+<!ENTITY signIn.password.accesskey  "P">
+<!ENTITY signIn.syncKey.label       "Ижилсүүлэх түлхүүр">
+<!ENTITY signIn.syncKey.accesskey   "K">
+
+<!-- New Account Page 1: Basic Account Info -->
+<!ENTITY setup.newAccountDetailsPage.title.label "Дансны талаархи дэлгэрэнгүй мэдээлэл">
+<!ENTITY setup.confirmPassword.label  "Нууц үг шалгах">
+<!ENTITY setup.confirmPassword.accesskey  "m">
+<!ENTITY setup.emailAddress.label     "Имэйл хаяг">
+<!ENTITY setup.emailAddress.accesskey "E">
+
+<!-- LOCALIZATION NOTE: tosAgree1, tosLink, tosAgree2, ppLink, tosAgree3 are
+     joined with implicit white space, so spaces in the strings aren't necessary -->
+<!ENTITY setup.tosAgree1.label      "">
+<!ENTITY setup.tosAgree1.accesskey  "Би">
+<!ENTITY setup.tosLink.label        "Үйлчилгээ ашиглах нөхцөл">
+<!ENTITY setup.tosAgree2.label      "болон">
+<!ENTITY setup.ppLink.label         "Хувийн мэдээлэл хамгаалах бодлого">
+<!ENTITY setup.tosAgree3.label      "зөвшөөрч">
+<!ENTITY setup.tosAgree2.accesskey  "байна">
+
+<!-- New Account Page 2: Sync Key -->
+<!ENTITY setup.newSyncKeyPage.title.label "&brandShortName; хувийн мэдээлэл хамгаална">
+<!ENTITY setup.newSyncKeyPage.description.label "Хувийн мэдээллийг хамгаалахын тулд өгөгдөлийг илгээхээс өмнө кодлох болно. Кодыг тайлах ижилсүүлэх түлхүүр үг хамт илгээгдэргүй.">
+<!ENTITY syncKeyEntry.label        "Ижилсүүлэх түлхүүр">
+<!ENTITY syncKeyEntry.accesskey    "K">
+<!ENTITY syncGenerateNewKey.label     "Шинэ ижилсүүлэх түлхүүр хийх">
+<!ENTITY syncKeyBackup.description "Ижилсүүлэх түлхүүр нь өөр төхөөрөмжөөс &syncBrand.fullName.label; нэврэх үед хэрэгтэй. Сэргээх хуулбар хийж хадгалахыг хүсье. Ижилсүүлэх түлхүүрийг дахин сэргээх боломжгүй.">
+<!ENTITY button.syncKeyBackup.print.label     "Хэвлэх…">
+<!ENTITY button.syncKeyBackup.print.accesskey "P">
+<!ENTITY button.syncKeyBackup.save.label      "Хадгалах…">
+<!ENTITY button.syncKeyBackup.save.accesskey  "S">
+
+<!-- New Account Page 3: Captcha -->
+<!ENTITY setup.captchaPage2.title.label     "Зураг дээрх үгийг бичин оруулна уу.">
+<!-- Existing Account Page 1: Add Device (incl. Add a Device dialog strings) -->
+<!ENTITY addDevice.title.label              "Шинэ төхөөрөмж нэмэх">
+<!ENTITY addDevice.showMeHow.label          "Хэрэглэх заавар">
+<!ENTITY addDevice.dontHaveDevice.label     "Нэмэр төхөөрөмж байхгүй">
+<!ENTITY addDevice.setup.description.label  "Идэвхижүүлэхээр бол өөр төхөөрөмжөөс&syncBrand.shortName.label; тохируулгын &#x0022; шинэ төхөөрөмж нэмэх &#x0022;-г сонгоно уу.">
+<!ENTITY addDevice.setup.enterCode.label    "Мөн доорхи кодыг бичин оруулна уу:">
+<!ENTITY addDevice.dialog.description.label "Шинэ төхөөрөмжийг идэвхижүүлэхээр бол өөр төхөөрөмжийн &syncBrand.shortName.label; тохируулгаас &#x0022; холбох &#x0022;-г сонгоно уу.">
+<!ENTITY addDevice.dialog.enterCode.label   "Төхөөрөмжийн кодыг бичин оруулна уу:">
+<!ENTITY addDevice.dialog.tryAgain.label    "Дахин оролдно уу.">
+<!ENTITY addDevice.dialog.successful.label  "Шинэ төхөөрөмж нэмэгдлээ. Ижилсүүлэлтийг анх удаа хийж байгаа тохиолдолд хугацаа багагүй зарцуулагдах боловч арын нүүрэнд явагдах болно.">
+<!ENTITY addDevice.dialog.syncKey.label     "Та төхөөрөмжөө идэвхижүүлхээр бол ижилсүүлэх түлхүүрээ оруулах хэрэгтэй. Доорхи түлхүүрийг хадгалах юмуу өөр газар бичин хадгална уу.">
+<!ENTITY addDevice.dialog.connected.label   "Шинэ төхөөрөмж холбох">
+
+<!-- New Account Page 3: Sync Type Options -->
+<!ENTITY syncComputerName.label       "Компьютерын нэр:">
+<!ENTITY syncComputerName.accesskey   "c">
+
+<!-- Existing Account Page 2: Manual Login -->
+<!ENTITY setup.signInPage.title.label "Логин">
+<!ENTITY existingSyncKey.description "Өөр төхөөрөмжөөс &syncBrand.shortName.label; тохируулга дундаас &#x0022; данс хянах &#x0022; доторхи &#x0022; миний ижилсүүлэх түлхүүр 
+
+&#x0022;-с ижилсүүлэх түлхүүрээ олж болно.">
+<!ENTITY resetSyncKey.label           "Ижилсүүлэх түлхүүр дахин тохируулах">
+<!ENTITY resetPassword.label          "Нууц үг дахин тохируулах">
+<!ENTITY verifying.label              "Шалгаж байна…">
+
+<!-- Sync Options -->
+<!ENTITY setup.optionsPage.title      "Ижилсүүлгийг тохируулах">
+<!ENTITY syncComputerName.label       "Компьютерын нэр:">
+<!ENTITY syncComputerName.accesskey   "c">
+
+<!ENTITY syncMy.label               "Ижилсүүлэх зүйлс">
+<!ENTITY engine.bookmarks.label     "Вэб хуудасын тэмдэглэл">
+<!ENTITY engine.bookmarks.accesskey "m">
+<!ENTITY engine.tabs.label          "Тэйб жагсаалт">
+<!ENTITY engine.tabs.accesskey      "T">
+<!ENTITY engine.history.label       "Үзсэн вэб хуудасын жагсаалт">
+<!ENTITY engine.history.accesskey   "r">
+<!ENTITY engine.passwords.label     "Хадгалсан нууц үг">
+<!ENTITY engine.passwords.accesskey "P">
+<!ENTITY engine.prefs.label         "Тохируулга">
+<!ENTITY engine.prefs.accesskey     "S">
+
+<!ENTITY choice2.merge.main.label      "Энэ компьютерын болон миний &syncBrand.shortName.label; мэдээллийг нэгтгэх">
+<!ENTITY choice2.merge.recommended.label "Санал болгож байна:">
+<!ENTITY choice2.client.main.label     "&syncBrand.shortName.label; мэдээлээр энэ компьютерын бүх мэдээллийг солих">
+<!ENTITY choice2.server.main.label     "Энэ компьютерын мэдээллээр өөр төхөөрөмжийн бүх мэдээллийг солих">
+<!-- Confirm Merge Options -->
+<!ENTITY setup.optionsConfirmPage.title "Батлах"> 
+<!ENTITY confirm.merge.label          "&syncBrand.fullName.label; нь энэ компьютер дэхь мэдээллийг таны ижилсүүлэх дансны мэдээлэлтэй нэгтгэх болно..">
+<!ENTITY confirm.client2.label         "Анхааруулга: Энэ компьютерын дараахи бүх &brandShortName; мэдээлэл устгагдах болно :">
+<!ENTITY confirm.client.moreinfo.label "&brandShortName; нь &syncBrand.fullName.label; мэдээллийг энэ компьютерт хуулах болно.">
+<!ENTITY confirm.server2.label         "Анхааруулга: Доорхи төхөөрөмж нь локал мэдээллээр дарагдаж бичигдэх болно:">
+
+<!-- New & Existing Account: Setup Complete -->
+<!ENTITY setup.successPage.title   "Тохилуулга хийгдэв">
+<!ENTITY changeOptions.label "Энэ тохируулгыг доорхи Sync Option-г сонгосноор өөрчлөх боломжтой.">
+<!ENTITY continueUsing.label "&brandShortName;-г үргэлжилүүлэн ашиглах боломжтой.">
+<!ENTITY setup.choosePassword.label      "Нууц үг сонгох">
+<!ENTITY setup.choosePassword.accesskey  "P">

@@ -1,0 +1,20 @@
+<!ENTITY % brandDTD
+	SYSTEM "chrome://branding/locale/brand.dtd">
+  %brandDTD;
+
+<!-- These strings are used in the about:home page -->
+
+<!ENTITY abouthome.pageTitle "&brandFullName; Нїїр хуудас">
+
+<!ENTITY abouthome.searchEngineButton.label "Хайх">
+
+<!ENTITY abouthome.aboutMozilla "Mozilla-ийн талаархи танилцуулга">
+
+<!-- LOCALIZATION NOTE (abouthome.defaultSnippet1.v1):
+     text in <a/> will be linked to the Firefox features page on mozilla.com
+-->
+<!ENTITY abouthome.defaultSnippet1.v1 "Firefox-ийг сонгосон явдалд баярлалаа. Илїї гоё интэрнэт аялал хийхийг хїсвэл <a>гол їилдэл</a> ийг їзнэ її.">
+<!-- LOCALIZATION NOTE (abouthome.defaultSnippet2.v1):
+     text in <a/> will be linked to the featured add-ons on addons.mozilla.org
+-->
+<!ENTITY abouthome.defaultSnippet2.v1 "Та бїгд єєрийн  сонирхолдоо нийцїїлэн  Firefox-ийг єєрчилєх боломжтой. <a>Мянга мянган нэмэгдэл їйлдэл</a>ээс сонгож їзнэ її.">

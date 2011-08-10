@@ -1,14 +1,62 @@
-<!ENTITY aboutDialog.title        "&brandFullName;-н тухай">
-<!ENTITY copyright                "Бүтээгчид">
-<!ENTITY copyright.accesskey      "Б">
-<!ENTITY copyrightGNOME.accesskey "Б">
-<!ENTITY aboutLink                "&lt; &brandFullName;-н тухай">
-<!ENTITY aboutLink.accesskey      "й">
-<!ENTITY aboutVersion             "хувилбар">
-<!ENTITY closeCmdGNOME.label      "Хаа">
-<!ENTITY closeCmdGNOME.accesskey  "а">
-<!ENTITY copyrightInfo1           "&#169;1998-2009 Туслан дэмжигчид. Бүх эрх хуулиар хамгаалагдсан. (">
-<!ENTITY licenseLink              "about:license">
-<!ENTITY licenseLinkText          "Лицензтэй холбогдолтой мэдээлэл">
-<!ENTITY copyrightInfo2           ").">
+<!ENTITY aboutDialog.title          "&brandFullName; Мэдээлэл">
 
+<!ENTITY community.start2           "&brandShortName;нь интэрнэтийг илүү сайжруулахын тулд ">
+<!-- LOCALIZATION NOTE (community.mozillaLink): This is a link title that links to http://www.mozilla.org/. -->
+<!ENTITY community.mozillaLink      "&vendorShortName;">
+<!ENTITY community.middle2          "гэдэг нийт дэлхийн хэмжээний сайн дурын ажил ">
+<!-- LOCALIZATION NOTE (community.creditsLink): This is a link title that links to about:credits. -->
+<!ENTITY community.creditsLink      "Нэгдэл">
+<!ENTITY community.end2             "тай хамт хийж байгаа. бид интэрнэтийг ямар нэгэн хязгаарлалтгїигээр хэн бїхэн ашиглаж болох нээлттэй орчин болж чадна гэж итгэдэг.">
+
+<!ENTITY contribute.start           "Хамттай оролцохыг хїсэж байна уу? ">
+<!-- LOCALIZATION NOTE (contribute.getInvolvedLink): This is a link title that links to http://www.mozilla.org/contribute/. -->
+<!ENTITY contribute.getInvolvedLink "Дэлгэрэнгїиг їзэх">
+<!ENTITY contribute.end             "">
+
+<!-- LOCALIZATION NOTE (bottomLinks.license): This is a link title that links to about:license. -->
+<!ENTITY bottomLinks.license        "Лицэнзийн талаархи мэдээлэл">
+
+<!-- LOCALIZATION NOTE (bottomLinks.rights): This is a link title that links to about:rights. -->
+<!ENTITY bottomLinks.rights         "Хэрэглэгчийн эрх">
+
+<!-- LOCALIZATION NOTE (bottomLinks.privacy): This is a link title that links to http://www.mozilla.com/legal/privacy/. -->
+<!ENTITY bottomLinks.privacy        "Хувийн мэдээлэлийн бодлого">
+
+<!-- LOCALIZATION NOTE (update.checkingForUpdates): try to make the localized text short (see bug 596813 for screenshots). -->
+<!ENTITY update.checkingForUpdates  "Шинэчлэл байгаа їгїйг шалгах">
+<!-- LOCALIZATION NOTE (update.checkingAddonCompat): try to make the localized text short (see bug 596813 for screenshots). -->
+<!ENTITY update.checkingAddonCompat "Нэмэгдэл їилдэл байгаа їгїйг шалгах">
+<!-- LOCALIZATION NOTE (update.noUpdatesFound): try to make the localized text short (see bug 596813 for screenshots). -->
+<!ENTITY update.noUpdatesFound      "&brandShortName; Хамгийн сїїлийн хувилбар">
+<!-- LOCALIZATION NOTE (update.adminDisabled): try to make the localized text short (see bug 596813 for screenshots). -->
+<!ENTITY update.adminDisabled       "Системийг хариуцагч  нь шинэчлэл хийх боломжгїй">
+
+<!-- LOCALIZATION NOTE (update.failed.start,update.failed.linkText,update.failed.end):
+     update.failed.start, update.failed.linkText, and update.failed.end all go into
+     one line with linkText being wrapped in an anchor that links to a site to download
+     the latest version of Firefox (e.g. http://www.firefox.com). As this is all in
+     one line, try to make the localized text short (see bug 596813 for screenshots). -->
+<!ENTITY update.failed.start        "Шинэчлэл амжилтгїи болов.">
+<!ENTITY update.failed.linkText     "Хамгийн сїїлийн хувилбар татах">
+<!ENTITY update.failed.end          "">
+
+<!-- LOCALIZATION NOTE (update.manual.start,update.manual.end): update.manual.start and update.manual.end
+     all go into one line and have an anchor in between with text that is the same as the link to a site
+     to download the latest version of Firefox (e.g. http://www.firefox.com). As this is all in one line,
+     try to make the localized text short (see bug 596813 for screenshots). -->
+<!ENTITY update.manual.start        "Шинэчлэл хийх байршил ">
+<!ENTITY update.manual.end          "">
+
+<!-- LOCALIZATION NOTE (update.downloading.start,update.downloading.end): update.downloading.start and 
+     update.downloading.end all go into one line, with the amount downloaded inserted in between. As this
+     is all in one line, try to make the localized text short (see bug 596813 for screenshots). The — is
+     the "em dash" (long dash).
+     example: Downloading update — 111 KB of 13 MB -->
+<!ENTITY update.downloading.start   "Шинэчлэл хийх файлыг татаж байна. — ">
+<!ENTITY update.downloading.end     "">
+
+<!-- LOCALIZATION NOTE (channel.description.start,channel.description.end): channel.description.start and
+     channel.description.end create one sentence, with the current channel label inserted in between.
+     example: You are currently on the _Stable_ update channel. -->
+<!ENTITY channel.description.start  "Одоо ашиглаж байгаа шинэчлэлийн суваг нь ">
+<!ENTITY channel.description.end    " юм.">

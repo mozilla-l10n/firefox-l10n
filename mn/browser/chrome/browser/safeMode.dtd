@@ -48,9 +48,6 @@
 <!ENTITY resetToolbars.label          "Багажит самбар ба хяналтыг шинээр сэргээ">
 <!ENTITY resetToolbars.accesskey      "ж">
 
-<!ENTITY resetBookmarks.label         "Хаягнуудыг &brandShortName;-н анхны хаягаар сэргээ">
-<!ENTITY resetBookmarks.accesskey     "я">
-
 <!ENTITY resetUserPrefs.label         "Бүх хэрэглэгчийн тохируулгыг &brandShortName;-н анхных руу шинээр сэргээ">
 <!ENTITY resetUserPrefs.accesskey     "и">
 
@@ -59,3 +56,7 @@
 
 <!ENTITY changeAndRestartButton.label "Өөрчлөлтийг хэрэгжүүлээд шинээр ачаал">
 <!ENTITY continueButton.label         "Хамгаалалтын горимонд үргэлжлүүл">
+
+<!ENTITY deleteBookmarks.label        "Сэргээх вэб хуудасын тэмдэглэлээс бусад бүх вэб хуудасын тэмдэглэлийг устгах">
+<!ENTITY deleteBookmarks.accesskey    "b">
+

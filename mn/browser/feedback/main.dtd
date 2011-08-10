@@ -1,0 +1,36 @@
+<!ENTITY testpilot.brand.label                      "Test Pilot">
+<!-- browser window: menu and status bar -->
+<!ENTITY testpilot.settings.label                   "Тохируулга">
+<!ENTITY testpilot.settings.dataSubmission.label    "Мэдээлэл илгээх">
+<!ENTITY testpilot.settings.notifications.label     "Сонордуулга">
+<!ENTITY testpilot.settings.notifyWhen.label        "Сонордуулга тохируулах…">
+<!ENTITY testpilot.settings.readyToSubmit.label     "Даалгавар өгөхөд бэлэн болох үед">
+<!ENTITY testpilot.settings.newStudy.label          "Шинэ даалгавар гарах үед">
+<!ENTITY testpilot.settings.hasNewResults.label     "Шинэ хариу гарах үед">
+<!ENTITY testpilot.settings.alwaysSubmitData.label  "Автоматаар мэдээлэл илгээх (бүү асуу)">
+<!ENTITY testpilot.allYourStudies.label                 "Хэрэглэгчийн тестийн нийт жагсаалт">
+<!ENTITY testpilot.about.label                      "Test Pilot танилцуулга">
+
+<!-- all studies window -->
+<!ENTITY testpilot.studiesWindow.title                  "Test Pilot даалгавар">
+<!ENTITY testpilot.studiesWindow.currentStudies.label   "Одоогийн даалгавар">
+<!ENTITY testpilot.studiesWindow.finishedStudies.label  "Дууссан даалгавар">
+<!ENTITY testpilot.studiesWindow.studyFindings.label    "Даалгавар хайх">
+<!ENTITY testpilot.studiesWindow.settings.label         "Тохируулах">
+<!ENTITY testpilot.studiesWindow.stillLoadingMessage    "Уншиж байна түр хүлээнэ үү…">
+
+<!-- raw data dialog -->
+<!ENTITY testpilot.rawDataWindow.title                  "Test Pilot: боловсруулаагүй өгөгдөл">
+
+<!-- notification -->
+<!ENTITY testpilot.notification.close.tooltip            "Хаах">
+
+<!-- Firefox 4 beta version UI -->
+<!ENTITY testpilot.enable.label                        "Даалгавар хийж эхлэх">
+<!ENTITY testpilot.feedbackbutton.label                "Санал бодол илгээх">
+<!ENTITY testpilot.happy.label        "Firefox-н сайн талыг илгээх…">
+<!ENTITY testpilot.sad.label          "Firefox-н муу талыг илгээх…">
+<!ENTITY testpilot.broken.label      "Вэб хуудсанд асуудал гарсныг мэдэгдэх…">
+<!ENTITY testpilot.idea.label        "Зөвөлгөө илгээх…">
+
+

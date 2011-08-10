@@ -1,0 +1,87 @@
+<!-- rights.locale-direction instead of the usual local.dir entity, so RTL can skip translating page. -->
+<!ENTITY rights.locale-direction "ltr">
+<!ENTITY rights.pagetitle       "about:rights">
+<!ENTITY rights.intro-header    "Таны эрхийн талаар">
+<!ENTITY rights.intro "&brandFullName; нь үнэгүй software бөгөөд, Дэлхий даяанд суугаа олон мянган холбоодын хамтран бүтээгчидийн ач тусаар бүтээгдэж байгаа билээ. Та бүгдийн мэдвэл зохих хэдэн зүйлийг сонордуулъя.:">
+
+<!-- Note on pointa / pointb / pointc form:
+     These points each have an embedded link in the HTML, so each point is
+     split into chunks for text before the link, the link text, and the text
+     after the link. If a localized grammar doesn't need the before or after
+     chunk, it can be left blank.
+
+     Also note the leading/trailing whitespace in strings here, which is
+     deliberate for formatting around the embedded links. -->
+<!ENTITY rights.intro-point1a "&brandShortName; нь дараах лицензийн нөхцөлийн дор ашиглах боломжтой - ">
+
+<!ENTITY rights.intro-point1b "Mozilla Public License">
+<!ENTITY rights.intro-point1c "Уг лиценз нь &brandShortName;-г өөр хүнд хэрэглүүлэх, хувилах, тараан өгч болно. Мөн, &brandShortName;-н кодыг хүссэн шаардлагын дагуу өөрчилж болно. Mozilla Public License нь мөн засварласан хувилбарыг дахин тараан өгч болно. ">
+
+<!ENTITY rights.intro-point2-a "Mozilla нь Mozilla болон Firefox компанийн тэмдэг болон логог ашиглахыг зөвшөөрдөггүй. Дэлгэрэнгүйг компанийн тэмдэг ашиглах эрх хэсэгээс харна уу.">
+<!ENTITY rights.intro-point2-b "Дэлгэрэнгүй">
+<!ENTITY rights.intro-point2-c ".">
+
+<!-- point 2.5 text for official branded builds -->
+<!ENTITY rights.intro-point2.5 "&brandShortName; дахь эвдрэл мэдэгдэгч чадвар нь &vendorShortName;-д feedback илгээх боломж олгодог. Санал бодол илгээх гэсэн товчыг дарвал &vendorShortName;-д илүү сайн бүтээгдэхүүн хийх боломжийг олгох болно.">
+
+<!-- point 3 text for official branded builds -->
+<!ENTITY rights2.intro-point3a "&vendorShortName;-н хувийн мэдээлэл хамгаалах бодлогын талаар үзэх бол доорхийг харна уу.">
+
+<!ENTITY rights2.intro-point3b "&brandShortName; хувийн мэдээлэл хамгаалах ">
+<!ENTITY rights.intro-point3c ".">
+
+<!-- point 3 text for unbranded builds -->
+<!ENTITY rights.intro-point3-unbranded "Бүх хэрэгжүүлэх боломжтой хувийн мэдээлэл хамгаалах бодлого нь доор бичигдсэн байна.">
+
+<!-- point 4 text for official branded builds -->
+<!ENTITY rights2.intro-point4a "Зарим &brandShortName; чадвар нь вэб мэдээллийн үйлчилгээг үзүүлж байгаа боловч бид 100&#37; эсвэл алдаагүй гэж батлаж чадахгүй байгаа билээ. Дэлгэрэнгүй мэдээллийг авахыг хүсвэл үйлчилгээний гэрээг үзнэ үү.">
+
+<!ENTITY rights.intro-point4b "Үйлчилгээний гэрээ">
+<!ENTITY rights.intro-point4c ".">
+
+<!-- point 4 text for unbranded builds -->
+<!ENTITY rights.intro-point4a-unbranded "Хэрэв энэ бүтээгдэхүүн нь вэб үйлчилгээг багтаагаагүй байвал уг үйлчилгээний үйлчилгээний нөхцөл линк дээр дарж үзэж болно.">
+<!ENTITY rights.intro-point4b-unbranded "Дэлгэрэнгүй">
+<!ENTITY rights.intro-point4c-unbranded " Үзэх">
+
+<!ENTITY rights2.webservices-header "&brandFullName; Вэб мэдээллийн үйлчилгээ">
+
+<!-- Note that this paragraph references a couple of entities from
+     preferences/security.dtd, so that we can refer to text the user sees in
+     the UI, without this page being forgotten every time those strings are
+     updated.  -->
+<!-- intro paragraph for branded builds -->
+<!ENTITY rights2.webservices-a "&brandFullName; нь хэрэглэгчийн нөхцлөөс хамаараад &brandShortName; вэб үйлчилгээ(&quot;Үйлчилгээнүүд&quot;)г үзүүлдэг. Үйлчилгээг ашиглахыг хүсэхгүй байвал үүнийг зогсоох боломжтой. Дараах онцгой үйлчилгээ зогсоох гэснийг харна уу.:">
+
+
+<!ENTITY rights2.webservices-b "Дэлгэрэнгүй үзэх">
+<!ENTITY rights2.webservices-c ".">
+
+<!-- safe browsing points for branded builds -->
+<!ENTITY rights.safebrowsing-a "Хувийн мэдээлэл хамгаалах горим: ">
+<!ENTITY rights.safebrowsing-b "Аюултай вэб хуудасд нэвтрэхээс сэргийлж хувийн мэдээлэл хамгаалах горимыг ашиглахыг зөвлөж байна. Хэрэв ашиглахыг хүсэхгүй байвал доорхи алхамуудыг дагана уу.:">
+
+<!ENTITY rights.safebrowsing-term1 "Програмын тохиргоог нээх">
+<!ENTITY rights.safebrowsing-term2 "Хамгаалалтын тохиргоог сонгох">
+<!ENTITY rights.safebrowsing-term3 "&quot;&blockAttackSites.label;&quot; болон &quot;&blockWebForgeries.label;&quot; тохиргоог сонгохгүй байх">
+<!ENTITY rights.safebrowsing-term4 "Хувийн мэдээлэл хамгаалах горимыг зогсоох">
+<!-- location aware browsing points for branded builds -->
+<!ENTITY rights.locationawarebrowsing-a "Байрлалын талаарх мэдээллийн үйлчилгээ: ">
+<!ENTITY rights.locationawarebrowsing-b "Энэ үйлчилгээг ашиглах үгүйг үргэлж таниач асуух болно. Зөвшөөрөлгүйгээр ямарч байрлалын талаарх мэдээллийг илгээхгүй. Үйлчилгээг зогсоохыг хүсвэл доорхи алхамуудыг дагана уу.:">
+<!ENTITY rights.locationawarebrowsing-term1a "Хаяг бичих цонхонд about:config -г бичин оруулах ">
+<!ENTITY rights.locationawarebrowsing-term1b "Хайх хэсэгт geo.enabled -г бичин оруулах ">
+<!ENTITY rights.locationawarebrowsing-term2 "geo.enabled -г хоёр дарах">
+<!ENTITY rights.locationawarebrowsing-term3 "geo.enabled -н утгыг false-руу өөрчлөх">
+<!ENTITY rights.locationawarebrowsing-term4 "Байрлалын талаарх мэдээллийн үйлчилгээг зогсоох">
+<!-- intro paragraph for unbranded builds -->
+<!ENTITY rights.webservices-unbranded "Уг бүтээгдэхүүний вэб сайтын үйлчилгээг ашиглах боломжгүй бүтээгдэхүүн байна. Үйлчилгээг зогсоох боломжтой.">
+<!-- point 1 text for unbranded builds -->
+<!ENTITY rights.webservices-term1-unbranded "Бүх ашиглах боломжтой үйлчилгээний нөхцөлийг доор гаргасан байна.">
+<!-- points 1-7 text for branded builds -->
+<!ENTITY rights2.webservices-term1 "&vendorShortName; болон ид, лиценз нийлүүлэгчид болон хамтрагч байгууллагууд нь аль болох хамгийн сайн үйлчилгээ үзүүлэхийг зорьж байгаа боловч бүх мэдээллийг алдаагүй хүргэнэ гэж амлах нь бэрх билээ. Жишээ нь, Хувийн мэдээлэл хамгаалах горим нь хамгаалалтын аюултай сайт байхад аюулгүй сайт гэж харуулж болох бөгөөд байрлалын мэдээлэл хангах үйлчилгээ нь та бүгдийн байрлалыг бага зэрэг алдаатай зааж болох юм.">
+<!ENTITY rights.webservices-term2 "&vendorShortName; нь үйлчилгээг зогсоох юмуу өөрчлөх боломжтой.">
+<!ENTITY rights2.webservices-term3 "&brandShortName;-тай хамт үзүүлж байгаа үйлчилгээг ашигласанд баярлалаа. Та бүгдийн хамтын зүтгэлээр &vendorShortName; болон лиценз нийлүүлэгч нь үйлчилгээн дэхь бусад баталгаагч гэсэн баталгаажуулж байгаа билээ. Эдгээр нөхцөл нь &brandShortName; болон кодын хувилбарт таарах OpenSource лицензид баталгаажсан нөхцөлийг үзүүлэхийн тулд биш юм.">
+<!ENTITY rights.webservices-term4 "Уг үйлчилгээ нь &vendorShortName; болон хамтран бүтээгчид, лиценз нийлүүлэгчдэд &quot;as-is.&quot; хангадаг бөгөөд онцгой зорилгоор нийлүүлэх юмуу худалдаалах боломжтой үйлчилгээний баталгааны талаар хязгаарлалтгүйгээр бүх баталгаатай хугацааны талаарх эрхийг шаардахгүй. Та бүгд үйлчилгээг сонгохдоо өөртөө нийцсэн үйлчилгээг сонгох юмуу онцгой зорилгод нийцэхээр худалдаалхаар бол бүх хариуцлагыг та өөрөө хүлээх болно. Хуулиар шийдвэрлэх асуудал нь хязгаарлалт юмуу хамааралгүй зүйлийг хүлээн  зөвшөөрөхгүй бөгөөд татгалзал нь таньд хэрэгжихгүй.">
+<!ENTITY rights.webservices-term5 "Хуулийн шаардлагаас бусад &vendorShortName; болон хамтран бүтээгчид, лиценз нийлүүлэгчид, таараагч нь &brandShortName; болон үйлчилгээний ашиглалтын талаар шууд бус, онцгой, үр дагавар, шийтгэл, хохирол гэх мэтэд хариуцлага хүлээхгүй. Энэ нөхцөл доорхи хамтын хариуцлага нь 500 доллароос хэтрэхгүй. Зарим нэг хуулийн асуудал нь онцгой хохиролын талаарх хязгаарлалтыг хүлээн зөвшөөрөхгүй бөгөөд иймэрхүү тусгаар зүйл болон хязгаарлалт нь та бүгдэд хэрэгжихгүй.">
+<!ENTITY rights.webservices-term6 "&vendorShortName; нь хугацаанаас шалтгаалаад нөхцөлүүдийг өөрчилж болно. Гэвч &vendorShortName;-н гарын үсэг юмуу зөвшөөрөлгүйгээр цуцлах юмуу өөрчлөгдөргүй.">
+<!ENTITY rights.webservices-term7 "Хуулийн гэрээнд харшлах нөхцлөөс бусад нөхцөл нь Америкийн Нэгдсэн Улсын Калифорни мужийн хуулийн дагуу хийгдсэн болно. Нөхцөлийн зүйл анги дахь нэг хэсэг нь хүчингүй байх юмуу хэрэгжүүлэх боломжгүй байж болох ч гэсэн бусад зүйл анги нь хүчинтэй болно. Нөхцөлийг өөр хэлрүү орчуулсан тохиолдолд эх хувь болон орчуулсан хувьд зөрүү гарах тохиолдолд эх хувийг дагана.">

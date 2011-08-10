@@ -1,0 +1,35 @@
+<!ENTITY permissionsManager.title        "Вэб сайт бүрийн тохируулгыг зохицуулагч">
+
+<!ENTITY sites.search                    "Вэб сайт хайх">
+<!ENTITY sites.allSites                  "Бүх вэб сайт">
+
+<!-- LOCALIZATION NOTE (permissions.header.start, permissions.header.end): These strings
+     surround the host name of the site to make the header for the permissions page.
+     example: "Permissions for mozilla.org" -->
+<!ENTITY header.site.start               "">
+<!ENTITY header.site.end                 "вэб сайт бүрийн тохируулга">
+
+<!ENTITY header.defaults                 "Бүх вэб сайтад үндсэн тохируулга хийх">
+
+<!ENTITY permissions.forgetSite          "Одоогийн вэб сайтын тохируулгыг устгах">
+
+<!ENTITY permission.alwaysAsk            "Үргэлж асуух">
+<!ENTITY permission.allow                "Зөвшөөрөх">
+<!ENTITY permission.allowForSession      "Браузор ашиглаж байх үед л зөвшөөрөх">
+<!ENTITY permission.block                "Хаах">
+
+<!ENTITY password.label                  "Нууц үг хадгалах">
+<!ENTITY password.manage                 "Нууц үг зохицуулах…">
+
+<!ENTITY cookie.label                    "Күүки өгөгдөл хадгалах">
+<!ENTITY cookie.remove                   "Күүки өгөгдөл устгах">
+<!ENTITY cookie.manage                   "Күүкиг зохицуулах…">
+<!ENTITY cookie.removeAll                "Бүх күүкиг устгах">
+
+<!ENTITY geo.label                       "Байрлалын мэдээлэл өгөх">
+
+<!-- LOCALIZATION NOTE (indexedDB.label): This is describing indexedDB storage
+     using the same language used for the permIndexedDB string in browser/pageInfo.dtd -->
+<!ENTITY indexedDB.label                 "Сүлжээнд холбогдоогүй байх үеийн хадгалах газар">
+
+<!ENTITY popup.label                     "Поп-ап цонх нээх">
