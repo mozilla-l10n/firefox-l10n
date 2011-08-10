@@ -49,17 +49,6 @@
 <!ENTITY editRewrapCmd.label "Reajuste de línea">
 <!ENTITY editRewrapCmd.key "R">
 <!ENTITY editRewrapCmd.accesskey  "R">
-<!ENTITY findCmd.label "Buscar y reemplazar…">
-<!ENTITY findCmd.key "F">
-<!ENTITY findCmd.accesskey "B">
-<!ENTITY findAgainCmd.label "Buscar de nuevo">
-<!ENTITY findAgainCmd.key "G">
-<!ENTITY findAgainCmd.accesskey "B">
-<!ENTITY findAgainCmd.key2 "VK_F3">
-<!ENTITY findPrevCmd.label "Buscar anterior">
-<!ENTITY findPrevCmd.key "G">
-<!ENTITY findPrevCmd.key2 "VK_F3">
-<!ENTITY findPrevCmd.accesskey "B">
 <!ENTITY accountManagerCmd.label "Opciones de cuentas de correo y noticias…">
 <!ENTITY accountManagerCmd.accesskey "O">
 
