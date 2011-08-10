@@ -1,0 +1,15 @@
+<!-- LOCALIZATION NOTE (tabs.otherComputers.label): Keep this in sync with syncTabsMenu.label from browser.dtd -->
+<!ENTITY tabs.otherComputers.label               "Өөр компьютэрт хадгалагдсан тэйбийн жагсаалт">
+<!ENTITY tabs.searchText.label                   "Тэйб жагсаалт хайх…">
+<!-- LOCALIZATION NOTE (tabs.context.openTab.accesskey, tabs.context.openMultipleTabs.accesskey):
+     Only one of these will show at a time (based on selection), so reusing accesskey is ok. -->
+<!ENTITY tabs.context.openTab.label                   "Одоогийн тэйбийг нээх">
+<!ENTITY tabs.context.openTab.accesskey               "O">
+<!ENTITY tabs.context.openMultipleTabs.label          "Сонгосон тэйб бүгдийг нээх">
+<!ENTITY tabs.context.openMultipleTabs.accesskey      "O">
+<!ENTITY tabs.context.bookmarkSingleTab.label         "Одоогийн тэйбийг вэб хуудас үзсэн тэмдэглэлд хадгалах…">
+<!ENTITY tabs.context.bookmarkSingleTab.accesskey     "B">
+<!ENTITY tabs.context.bookmarkMultipleTabs.label      "Сонгосон тэйбийг вэб хуудас үзсэн тэмдэглэлд хадгалах…">
+<!ENTITY tabs.context.bookmarkMultipleTabs.accesskey  "B">
+<!ENTITY tabs.context.refreshList.label               "Сэргээх тэйбийн жагсаалт">
+<!ENTITY tabs.context.refreshList.accesskey           "R">

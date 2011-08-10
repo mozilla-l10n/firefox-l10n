@@ -1,5 +1,5 @@
 <!-- LOCALIZATION NOTE : FILE This file contains the browser main menu items -->
-<!-- LOCALIZATION NOTE : FILE Do not translate commandkeys -->
+<!-- LOCALIZATION NOTE : FILE Do not translate commandkeys --> 
 
 <!-- LOCALIZATION NOTE (mainWindow.title): DONT_TRANSLATE -->
 <!ENTITY mainWindow.title "&brandFullName;">
@@ -9,213 +9,307 @@
 <!ENTITY mainWindow.titlemodifiermenuseparator " - ">
 <!-- LOCALIZATION NOTE (mainWindow.titlePrivateBrowsingSuffix): This will be appended to the window's title
                                                                 inside the private browsing mode -->
-<!ENTITY mainWindow.titlePrivateBrowsingSuffix "(Хувийн зорчилт)">
-<!-- LOCALIZATION NOTE (mainWindowPrivateBrowsing.titlemodifier): DONT_TRANSLATE -->
-<!ENTITY mainWindow.titlemodifierPrivateBrowsing "&mainWindow.titlemodifier; &mainWindow.titlePrivateBrowsingSuffix;">
+<!ENTITY mainWindow.titlePrivateBrowsingSuffix "(Хувийн мэдээлэл хамгаалах горим)">
 
-<!ENTITY tabCmd.label "Хөтлөгч самбар">
-<!ENTITY tabCmd.accesskey "Х">
+<!-- Tab context menu -->
+<!ENTITY  reloadTab.label                    "Одоогийн тэйбийг сэргээх">
+<!ENTITY  reloadTab.accesskey                "R">
+<!ENTITY  reloadAllTabs.label                "Бүх тэйбүүдийг сэргээх">
+<!ENTITY  reloadAllTabs.accesskey            "A">
+<!ENTITY  closeOtherTabs.label               "Бусад тэйбүүдийг хаах">
+<!ENTITY  closeOtherTabs.accesskey           "O">
+
+<!-- LOCALIZATION NOTE (pinAppTab.label, unpinAppTab.label): "Pin" is being
+used as a metaphor for expressing the fact that these tabs are "pinned" to the
+left edge of the tabstrip. Really we just want the string to express the idea
+that this is a lightweight and reversible action that keeps your tab where you
+can reach it easily. -->
+<!ENTITY  pinAppTab.label                    "Эйп тэйбээр тогтоох">
+<!ENTITY  pinAppTab.accesskey                "P">
+<!ENTITY  unpinAppTab.label                  "Тогтоосон тэйбийг болиулах">
+<!ENTITY  unpinAppTab.accesskey              "b">
+<!ENTITY  moveToGroup.label                  "Грүппруу шилжүүлэх">
+<!ENTITY  moveToGroup.accesskey              "M">
+<!ENTITY  moveToNewGroup.label               "Шинэ грүпп">
+<!ENTITY  moveToNewWindow.label              "Шинэ цонхруу шилжүүлэх">
+<!ENTITY  moveToNewWindow.accesskey          "W">
+<!ENTITY  bookmarkAllTabs.label              "Бүх тэйбийг вэб хуудас үзсэн тэмдэглэлд бүртгэх…">
+<!ENTITY  bookmarkAllTabs.accesskey          "T">
+<!ENTITY  undoCloseTab.label                 "Хаасан тэйбийг дахин нээх">
+<!ENTITY  undoCloseTab.accesskey             "U">
+<!ENTITY  closeTab.label                     "Тэйбийг хаах">
+<!ENTITY  closeTab.accesskey                 "C">
+
+<!ENTITY  listAllTabs.label      "Бүх тэйбийг жагсаах">
+
+<!ENTITY tabCmd.label "Шинэ тэйб">
+<!ENTITY tabCmd.accesskey "T">
 <!ENTITY tabCmd.commandkey "t">
-<!ENTITY openLocationCmd.label "Хаяг нээ…">
-<!ENTITY openLocationCmd.accesskey "я">
-<!ENTITY openFileCmd.label "Файл нээ…">
-<!ENTITY openFileCmd.accesskey "н">
+<!ENTITY openLocationCmd.label "Хаяг нээх…">
+<!ENTITY openLocationCmd.accesskey "L">
+<!ENTITY openFileCmd.label "Файл нээх…">
+<!ENTITY openFileCmd.accesskey "O">
 <!ENTITY openFileCmd.commandkey "o">
-<!ENTITY printSetupCmd.label "Хуудасны тохиргоо">
-<!ENTITY printSetupCmd.accesskey "и">
-<!ENTITY printPreviewCmd.label "Хэвлэх харагдац">
-<!ENTITY printPreviewCmd.accesskey "р">
-<!ENTITY printCmd.label "Хэвлэ…">
-<!ENTITY printCmd.accesskey "л">
+<!ENTITY printSetupCmd.label "Хуудасны тохиргоо хийх…">
+<!ENTITY printSetupCmd.accesskey "u">
+<!ENTITY printPreviewCmd.label "Хэвлэхээс өмнө харах">
+<!ENTITY printPreviewCmd.accesskey "v">
+<!ENTITY printCmd.label "Хэвлэх…">
+<!ENTITY printCmd.accesskey "P">
 <!ENTITY printCmd.commandkey "p">
-<!ENTITY import.label "Импорт…">
-<!ENTITY import.accesskey "И">
 
-<!ENTITY goOfflineCmd.label "Салангид ажиллах">
-<!ENTITY goOfflineCmd.accesskey "С">
+<!ENTITY goOfflineCmd.label "Сүлжээгүй байхад ажиллах">
+<!ENTITY goOfflineCmd.accesskey "W">
 
-<!ENTITY navbarCmd.label "Хөтлөгч багажит самбар">
-<!ENTITY navbarCmd.accesskey "ж">
-<!ENTITY personalbarCmd.label "Хаягийн Багажит самбар">
-<!ENTITY personalbarCmd.accesskey "м">
-<!ENTITY bookmarksToolbarItem.label "Хаягийн багажит самбарын зүйлс">
-<!ENTITY taskbarCmd.label "Төлвийн самбар">
-<!ENTITY taskbarCmd.accesskey "М">
+<!ENTITY menubarCmd.label "Цэсний самбар">
+<!ENTITY menubarCmd.accesskey "M">
+<!ENTITY navbarCmd.label "Хаягны самбар">
+<!ENTITY navbarCmd.accesskey "N">
+<!ENTITY personalbarCmd.label "Вэб хуудас үзсэн тэмдэглэлийн самбар">
+<!ENTITY personalbarCmd.accesskey "B">
+<!ENTITY bookmarksToolbarItem.label "Вэб хуудас үзсэн тэмдэглэлийн самбарын зүйлс">
+<!ENTITY addonBarCmd.label "Нэмэгдэл зүйлсийн самбар">
+<!ENTITY addonBarCmd.accesskey "A">
 
 <!ENTITY pageSourceCmd.label "Хуудасны эх бичлэг">
-<!ENTITY pageSourceCmd.accesskey "ч">
+<!ENTITY pageSourceCmd.accesskey "o">
 <!ENTITY pageSourceCmd.commandkey "u">
-<!ENTITY pageInfoCmd.label "Хуудасны мэдээлэл">
-<!ENTITY pageInfoCmd.accesskey "м">
+<!ENTITY pageInfoCmd.label "Page Info">
+<!ENTITY pageInfoCmd.accesskey "I">
 <!ENTITY pageInfoCmd.commandkey "i">
 <!ENTITY fullScreenCmd.label "Дэлгэц дүүрэн">
-<!ENTITY fullScreenCmd.accesskey "ц">
+<!ENTITY fullScreenCmd.accesskey "F">
+<!ENTITY fullScreenCmd.macCommandKey "f">
+<!ENTITY showAllTabsCmd.label "Бүх тэйбийг үзэх">
+<!ENTITY showAllTabsCmd.accesskey "A">
 
-<!ENTITY fullScreenMinimize.tooltip "Багасга">
-<!ENTITY fullScreenRestore.tooltip "Сэргээ">
-<!ENTITY fullScreenClose.tooltip "Хаа">
-<!ENTITY fullScreenAutohide.label "Самбарыг нуу">
-<!ENTITY fullScreenAutohide.accesskey "н">
+<!ENTITY fullScreenMinimize.tooltip "Багасгах">
+<!ENTITY fullScreenRestore.tooltip "Сэргээх">
+<!ENTITY fullScreenClose.tooltip "Хаах">
+<!ENTITY fullScreenAutohide.label "Самбаруудыг хаах">
+<!ENTITY fullScreenAutohide.accesskey "H">
 <!ENTITY fullScreenExit.label "Дэлгэц дүүрэм горимоос гарах">
-<!ENTITY fullScreenExit.accesskey "и">
+<!ENTITY fullScreenExit.accesskey "F">
 
-<!ENTITY closeWindow.label "Цонх хаа">
-<!ENTITY closeWindow.accesskey "х">
+<!ENTITY closeWindow.label "Цонх хаах">
+<!ENTITY closeWindow.accesskey "d">
 
-<!ENTITY bookmarksMenu.label "Хаягнууд">
-<!ENTITY bookmarksMenu.accesskey "я">
-<!ENTITY bookmarkThisPageCmd.label "Энэ хуудасны хаягийг хадгал">
+<!ENTITY bookmarksMenu.label "Вэб хуудас үзсэн тэмдэглэл">
+<!ENTITY bookmarksMenu.accesskey "B">
+<!ENTITY bookmarkThisPageCmd.label "Энэ хуудасыг вэб хуудас үзсэн тэмдэглэлд бүртгэх">
 <!ENTITY bookmarkThisPageCmd.commandkey "d">
-<!ENTITY subscribeToPageMenupopup.label "Энэ хуудсанд бүртгүүл">
-<!ENTITY subscribeToPageMenuitem.label "Энэ хуудсанд бүртгүүл…">
-<!ENTITY addCurPagesCmd.label "Бүх самбарын хаягийг хадгал…">
-<!ENTITY organizeBookmarks.label    "Хаягнуудыг зохицуулах…">
-<!ENTITY bookmarkAllCmd.label "Бүх самбарын хаягийг хадгал…">
-<!ENTITY bookmarksToolbarChevron.tooltip "Нэмэлт хаягнуудыг харуул">
+<!ENTITY subscribeToPageMenupopup.label "Энэ хуудсанд бүртгүүлэх">
+<!ENTITY subscribeToPageMenuitem.label "Энэ хуудсанд бүртгүүлэх…">
+<!ENTITY addCurPagesCmd.label "Бүх тэйбийг вэб хуудас үзсэн тэмдэглэлд бүртгэх…">
+<!ENTITY showAllBookmarks2.label "Бүх вэб хуудас үзсэн тэмдэглэлийг харуулах">
+<!ENTITY unsortedBookmarksCmd.label "Ангилаагүй вэб хуудас үзсэн тэмдэглэл">
+<!ENTITY bookmarksToolbarChevron.tooltip "Үргэлжилүүлэн вэб хуудас үзсэн тэмдэглэлийг харуулах">
 
-<!ENTITY backCmd.label                "Буц">
-<!ENTITY backCmd.accesskey            "Б">
-<!ENTITY backButton.tooltip           "Нэг хуудас буц">
-<!ENTITY forwardCmd.label             "Урагш">
-<!ENTITY forwardCmd.accesskey         "р">
-<!ENTITY forwardButton.tooltip        "Нэг хуудас урагш">
-<!ENTITY backForwardMenu.tooltip      "Сүүлд зорчсон хуудаснууд">
-<!ENTITY reloadCmd.label              "Дахин дууд">
-<!ENTITY reloadCmd.accesskey          "Д">
-<!ENTITY reloadButton.tooltip         "Уг хуудсыг дахин дууд">
-<!ENTITY stopCmd.label                "Зогс">
-<!ENTITY stopCmd.accesskey            "З">
+<!ENTITY backCmd.label                "Буцах">
+<!ENTITY backCmd.accesskey            "B">
+<!ENTITY backButton.tooltip           "Нэг хуудас буцах">
+<!ENTITY forwardCmd.label             "Урагшлах">
+<!ENTITY forwardCmd.accesskey         "F">
+<!ENTITY forwardButton.tooltip        "Нэг хуудас урагшлах">
+<!ENTITY reloadCmd.label              "Дахин сэргээх">
+<!ENTITY reloadCmd.accesskey          "R">
+<!ENTITY reloadButton.tooltip         "Одоогийн хуудасыг дахин сэргээх">
+<!ENTITY stopCmd.label                "Зогсоох">
+<!ENTITY stopCmd.accesskey            "S">
 <!ENTITY stopCmd.macCommandKey        ".">
-<!ENTITY stopButton.tooltip           "Энэ хуудасны дуудалтыг зогсоо">
-<!ENTITY goEndCap.tooltip             "Хаягийн самбарын хаяг бичих газар очно">
-<!ENTITY printButton.label            "Хэвлэ">
-<!ENTITY printButton.tooltip          "Энэ хуудсыг хэвлэ">
+<!ENTITY stopButton.tooltip           "Энэ хуудасыг ачааллуулахыг зогсоох">
+<!ENTITY goEndCap.tooltip             "Хаягийн самбарын хаяг бичих газар очих">
+<!ENTITY printButton.label            "Хэвлэх">
+<!ENTITY printButton.tooltip          "Энэ хуудасыг хэвлэх">
 
+<!ENTITY backForwardItem.title        "Буцах/Урагшлах">
 <!ENTITY locationItem.title           "Байрлал">
 <!ENTITY searchItem.title             "Хайх">
-<!ENTITY throbberItem.title           "Идэвхижлийн заалт">
-<!ENTITY bookmarksItem.title          "Хаягнууд">
+<!ENTITY throbberItem.title           "Идэвхижилтийн заагч">
+<!ENTITY bookmarksItem.title          "Вэб хуудас үзсэн тэмдэглэлүүд">
 
-<!-- Toolbar items -->
-<!ENTITY  homeButton.label            "Эхлэл">
+<!-- Toolbar items --> 
+<!ENTITY appMenuButton.label          "Цэс">
+<!ENTITY appMenuButton.tooltip        "&brandShortName;  цэсийг нээх">
+<!ENTITY homeButton.label             "Эхлэл">
 
-<!ENTITY bookmarksButton.label          "Хаягнууд">
-<!ENTITY bookmarksButton.tooltip        "Хаягийн жагсаалт">
-<!ENTITY bookmarksSidebarCmd.accesskey  "я">
-<!ENTITY bookmarksSidebarCmd.commandkey "b">
+<!ENTITY tabGroupsButton.label        "Тэйбийн грүппүүд">
+<!ENTITY tabGroupsButton.tooltip      "Тэйбүүдийг грүпплэх">
+
+<!ENTITY feedButton.label             "Бүртгүүлэх">
+<!ENTITY feedButton.tooltip           "Энэ хуудаснд бүртгүүлэх…">
+
+<!ENTITY bookmarksButton.label          "Вэб хуудас үзсэн тэмдэглэлүүд">
+<!ENTITY bookmarksButton.tooltip        "Вэб хуудас үзсэн тэмдэглэлүүдийг харуулах">
+<!ENTITY bookmarksButton.accesskey      "B">
+<!ENTITY bookmarksCmd.commandkey        "b">
+
+<!ENTITY bookmarksMenuButton.label          "Вэб хуудас үзсэн тэмдэглэлүүд">
+<!ENTITY bookmarksMenuButton.tooltip        "Вэб хуудас үзсэн тэмдэглэлүүдийг харуулах">
+<!ENTITY bookmarksMenuButton.unsorted.label "Ангилаагүй Вэб хуудас үзсэн тэмдэглэлүүд">
+<!ENTITY viewBookmarksSidebar.label         "Хажуугийн самбарт үзүүлэх">
+<!ENTITY viewBookmarksToolbar.label         "Вэб хуудас үзсэн тэмдэглэлийн самбар харах">
+
 <!-- LOCALIZATION NOTE (bookmarksSidebarGtkCmd.commandkey): This command
   -  key should not contain the letters A-F, since these are reserved
   -  shortcut keys on Linux. -->
-<!ENTITY bookmarksSidebarGtkCmd.commandkey "o">
-<!ENTITY bookmarksSidebarWinCmd.commandkey "i">
+<!ENTITY bookmarksGtkCmd.commandkey     "o">
+<!ENTITY bookmarksWinCmd.commandkey     "i">
 
-<!ENTITY historyButton.label            "Түүх">
-<!ENTITY historyButton.tooltip          "Сүүлд зорчсон хуудсуудыг харуул">
-<!ENTITY historySidebarCmd.accesskey    "х">
+<!ENTITY historyButton.label            "Үзсэн вэб хуудас">
+<!ENTITY historyButton.tooltip          "Сүүлд үзсэн хуудасуудыг харуулах">
+<!ENTITY historySidebarCmd.accesskey    "s">
 <!ENTITY historySidebarCmd.commandKey   "h">
 
 <!ENTITY toolsMenu.label              "Багаж">
-<!ENTITY toolsMenu.accesskey          "Б">
+<!ENTITY toolsMenu.accesskey          "T"> 
 
-<!ENTITY keywordfield.label           "Энэ хайлтад түлхүүр үг нэм…">
-<!ENTITY keywordfield.accesskey       "ү">
+<!ENTITY keywordfield.label           "Энэ хайлтад түлхүүр үг нэмэх…">
+<!ENTITY keywordfield.accesskey       "K">
 <!ENTITY search.label                 "Вэб хайлт">
-<!ENTITY search.accesskey             "а">
+<!ENTITY search.accesskey             "S">
 <!ENTITY downloads.label              "Татаж авсан файлууд">
-<!ENTITY downloads.tooltip            "Татаж авалтын явцыг харуулна">
-<!ENTITY downloads.accesskey          "Т">
+<!ENTITY downloads.tooltip            "Татаж авч буй явцыг харуулах">
+<!ENTITY downloads.accesskey          "D">
 <!ENTITY downloads.commandkey         "j">
 <!ENTITY downloadsUnix.commandkey     "y">
-<!ENTITY addons.label                 "Нэмэгдлүүд">
-<!ENTITY addons.tooltip               "Суугдсан нэмэгдлүүдийг харуулах ба зохицуулах">
-<!ENTITY addons.accesskey             "Н">
+<!ENTITY addons.label                 "Нэмэгдэл">
+<!ENTITY addons.accesskey             "A">
+<!ENTITY addons.commandkey            "A">
+
+<!ENTITY webDeveloperMenu.label       "Вэб зохиогч">
+<!ENTITY webDeveloperMenu.accesskey   "W">
 
 <!ENTITY errorConsoleCmd.label        "Гарсан алдааг харуулах цонх">
-<!ENTITY errorConsoleCmd.accesskey    "ц">
+<!ENTITY errorConsoleCmd.accesskey    "C">
 <!ENTITY errorConsoleCmd.commandkey   "j">
 
-<!ENTITY fileMenu.label         "Файл">
-<!ENTITY fileMenu.accesskey       "Ф">
+<!ENTITY webConsoleCmd.label          "Вэб хуудас харуулах цонх">
+<!ENTITY webConsoleCmd.accesskey      "W">
+<!ENTITY webConsoleCmd.commandkey     "k">
+
+<!ENTITY inspectMenu.label            "Шалгах">
+<!ENTITY inspectMenu.accesskey        "t">
+<!ENTITY inspectMenu.commandkey       "I">
+
+<!-- LOCALIZATION NOTE (scratchpad.label): This menu item label appears
+  -  in the Tools menu. See bug 653093.
+  -  The Scratchpad is intended to provide a simple text editor for creating
+  -  and evaluating bits of JavaScript code for the purposes of function
+  -  prototyping, experimentation and convenient scripting.
+  -
+  -  It's quite possible that you won't have a good analogue for the word
+  -  "Scratchpad" in your locale. You should feel free to find a close
+  -  approximation to it or choose a word (or words) that means
+  -  "simple discardable text editor". -->
+<!ENTITY scratchpad.label             "Scratchpad">
+<!ENTITY scratchpad.accesskey         "s">
+<!ENTITY scratchpad.keycode           "VK_F4">
+<!ENTITY scratchpad.keytext           "F4">
+
+<!ENTITY inspectPanelTitle.label      "HTML">
+<!ENTITY inspectButton.label          "Шалгах">
+<!ENTITY inspectButton.accesskey      "I">
+
+<!ENTITY getMoreDevtoolsCmd.label        "Бусад багаж">
+<!ENTITY getMoreDevtoolsCmd.accesskey    "M">
+
+<!ENTITY fileMenu.label         "Файл"> 
+<!ENTITY fileMenu.accesskey       "F">
 <!ENTITY newNavigatorCmd.label        "Шинэ цонх">
 <!ENTITY newNavigatorCmd.key        "N">
-<!ENTITY newNavigatorCmd.accesskey      "Ш">
+<!ENTITY newNavigatorCmd.accesskey      "N">
 
-<!ENTITY editMenu.label         "Засварла">
-<!ENTITY editMenu.accesskey       "З">
-<!ENTITY undoCmd.label            "Буцаж үйлд">
-<!ENTITY undoCmd.key            "Z">
-<!ENTITY undoCmd.accesskey          "Б">
-<!ENTITY redoCmd.label            "Дахин үйлд">
-<!ENTITY redoCmd.key            "Y">
-<!ENTITY redoCmd.accesskey          "Д">
-<!ENTITY cutCmd.label           "Тасдаж сана">
-<!ENTITY cutCmd.key             "X">
-<!ENTITY cutCmd.accesskey         "Т">
-<!ENTITY copyCmd.label            "Сануул">
-<!ENTITY copyCmd.key            "C">
-<!ENTITY copyCmd.accesskey          "С">
-<!ENTITY pasteCmd.label           "Санамж буулга">
-<!ENTITY pasteCmd.key           "V">
-<!ENTITY pasteCmd.accesskey         "С">
-<!ENTITY deleteCmd.label          "Устга">
-<!ENTITY deleteCmd.key            "D">
-<!ENTITY deleteCmd.accesskey        "У">
-<!ENTITY selectAllCmd.label         "Бүгдийг сонго">
-<!ENTITY selectAllCmd.key         "A">
-<!ENTITY selectAllCmd.accesskey       "Б">
-<!ENTITY preferencesCmd.label       "Сонголт…">
-<!ENTITY preferencesCmd.accesskey     "С">
+<!ENTITY editMenu.label         "Засварлах"> 
+<!ENTITY editMenu.accesskey       "E"> 
+<!ENTITY undoCmd.label            "Буцаах">  
+<!ENTITY undoCmd.key            "Z">  
+<!ENTITY undoCmd.accesskey          "U"> 
+<!ENTITY redoCmd.label            "Дахих">  
+<!ENTITY redoCmd.key            "Y">  
+<!ENTITY redoCmd.accesskey          "R"> 
+<!ENTITY cutCmd.label           "Таслаж авах">  
+<!ENTITY cutCmd.key             "X">  
+<!ENTITY cutCmd.accesskey         "t"> 
+<!ENTITY copyCmd.label            "Хуулах">  
+<!ENTITY copyCmd.key            "C">  
+<!ENTITY copyCmd.accesskey          "C"> 
+<!ENTITY pasteCmd.label           "Наах">  
+<!ENTITY pasteCmd.key           "V">  
+<!ENTITY pasteCmd.accesskey         "P"> 
+<!ENTITY deleteCmd.label          "Устгах">  
+<!ENTITY deleteCmd.key            "D">  
+<!ENTITY deleteCmd.accesskey        "D"> 
+<!ENTITY selectAllCmd.label         "Бүгдийг сонгох">  
+<!ENTITY selectAllCmd.key         "A">  
+<!ENTITY selectAllCmd.accesskey       "A"> 
+<!ENTITY preferencesCmd2.label       "Сонголт">
+<!ENTITY preferencesCmd2.accesskey     "O">
 <!ENTITY preferencesCmdUnix.label       "Тохируулга">
-<!ENTITY preferencesCmdUnix.accesskey     "Т">
+<!ENTITY preferencesCmdUnix.accesskey     "n"> 
 
-<!ENTITY clearRecentHistoryCmd.label            "Сүүлд зорчсон түүхийг устга">
-<!ENTITY clearRecentHistoryCmd.accesskey        "г">
+<!ENTITY clearRecentHistory.label               "Сүүлд үзсэн вэб хуудасны жагсаалт арилгах…">
+<!ENTITY clearRecentHistory.accesskey           "H">
 
-<!-- LOCALIZATION NOTE : These two strings can share an access key beause they never appear together on the menu -->
-<!ENTITY privateBrowsingCmd.start.label         "Хувийн зорчилтыг эхлүүл">
-<!ENTITY privateBrowsingCmd.start.accesskey     "э">
-<!ENTITY privateBrowsingCmd.stop.label          "Хувийн зорчилтыг зогсоо">
-<!ENTITY privateBrowsingCmd.stop.accesskey      "з">
+<!-- LOCALIZATION NOTE : These two strings can share an access key beause they never appear together on 
+
+the menu -->
+<!ENTITY privateBrowsingCmd.start.label         "Хувийн мэдээлэл хамгаалах горимыг эхлүүлэх">
+<!ENTITY privateBrowsingCmd.start.accesskey     "P">
+<!ENTITY privateBrowsingCmd.stop.label          "Хувийн мэдээлэл хамгаалах горимыг зогсоох">
+<!ENTITY privateBrowsingCmd.stop.accesskey      "P">
 <!ENTITY privateBrowsingCmd.commandkey          "P">
 
-<!ENTITY viewMenu.label         "Харагдац">
-<!ENTITY viewMenu.accesskey       "ц">
-<!ENTITY viewToolbarsMenu.label       "Багажит самбарууд">
-<!ENTITY viewToolbarsMenu.accesskey     "Б">
-<!ENTITY viewSidebarMenu.label "Хажуу самбарт">
-<!ENTITY viewSidebarMenu.accesskey "Х">
-<!ENTITY viewCustomizeToolbar.label       "Өөрчлөх…">
-<!ENTITY viewCustomizeToolbar.accesskey     "Ө">
+<!ENTITY viewMenu.label         "Харах"> 
+<!ENTITY viewMenu.accesskey       "V"> 
+<!ENTITY viewTabGroups.label            "Тэйб грүпп">
+<!ENTITY viewTabGroups.accesskey        "G">
+<!ENTITY viewToolbarsMenu.label       "Багаж"> 
+<!ENTITY viewToolbarsMenu.accesskey     "T"> 
+<!ENTITY viewSidebarMenu.label "Хажуугийн самбар">
+<!ENTITY viewSidebarMenu.accesskey "e">
+<!ENTITY viewCustomizeToolbar.label       "Өөрчлөх…"> 
+<!ENTITY viewCustomizeToolbar.accesskey     "C">
+<!ENTITY viewTabsOnTop.label            "Тэйбийг үргэлж дээгүүр">
+<!ENTITY viewTabsOnTop.accesskey        "T">
 
-<!-- XXX historyMenu entities are used with or without places (bug 336058) -->
-<!ENTITY historyMenu.label "Түүх">
-<!ENTITY historyMenu.accesskey "х">
-<!ENTITY historyUndoMenu.label "Сүүлд хаагдсан самбарууд">
+<!ENTITY historyMenu.label "Үзсэн вэб хуудас">
+<!ENTITY historyMenu.accesskey "s">
+<!ENTITY historyUndoMenu.label "Сүүлд хаасан тэйбүүд">
 <!-- LOCALIZATION NOTE (historyUndoWindowMenu): see bug 394759 -->
-<!ENTITY historyUndoWindowMenu.label "Сүүлд хаагдсан самбарууд">
+<!ENTITY historyUndoWindowMenu.label "Сүүлд хаасан цонхнууд">
+<!ENTITY historyRestoreLastSession.label "Өмнөх сэшшёнийг сэргээх">
 
 <!ENTITY historyHomeCmd.label "Эхлэл">
-<!ENTITY showAllHistoryCmd2.label "Бүх зорчсон түүхийг харуул">
+<!ENTITY showAllHistoryCmd2.label "Үзсэн вэб хуудасын бүх жагсаалтыг харуулах">
 <!ENTITY showAllHistoryCmd.commandkey "H">
 
-<!ENTITY openCmd.commandkey           "l">
-<!ENTITY urlbar.emptyText             "Хадгалсан хаяг болон зорчсон түүхэнд хайх">
-<!ENTITY urlbar.bookmarkhistory.emptyText "Хаяг болон зорчсон түүхэнд хайх">
-<!ENTITY urlbar.bookmark.emptyText    "Хадгалсан хаяганд хайх">
-<!ENTITY urlbar.history.emptyText     "Зорчсон түүхэнд хайх">
-<!ENTITY urlbar.none.emptyText        "Вэб хаягаа энд бич">
-<!ENTITY urlbar.accesskey             "я">
+<!ENTITY appMenuEdit.label "Засварлах">
+<!ENTITY appMenuCustomize.label "Тохируулга">
+<!ENTITY appMenuToolbarLayout.label "Багаж байрлуулах…">
+<!ENTITY appMenuSidebars.label "Хажуугийн самбар">
+<!ENTITY appMenuFind.label "Хайх…">
+<!ENTITY appMenuUnsorted.label "Ангилаагүй вэб хуудас үзсэн тэмдэглэл">
+<!ENTITY appMenuWebDeveloper.label "Вэб зохиогч">
+<!ENTITY appMenuGettingStarted.label "Эхлэх">
+<!ENTITY appMenuSafeMode.label "Аюулгүй горимоор эхлүүлэх…">
+<!ENTITY appMenuSafeMode.accesskey "R">
 
-<!--
+<!ENTITY openCmd.commandkey           "l">
+<!ENTITY urlbar.placeholder           "Вэб хуудасруу явах">
+<!ENTITY urlbar.accesskey             "d">
+<!ENTITY urlbar.switchToTab.label     "Тэйб солих:">
+
+<!-- 
   Comment duplicated from browser-sets.inc:
 
   Search Command Key Logic works like this:
 
   Unix: Ctrl+J (0.8, 0.9 support)
         Ctrl+K (cross platform binding)
-  Mac:  Ctrl+K (cross platform binding)
+  Mac:  Cmd+K (cross platform binding)
+        Cmd+Opt+F (platform convention)
   Win:  Ctrl+K (cross platform binding)
-        Ctrl+E (IE compat)
 
   We support Ctrl+K on all platforms now and advertise it in the menu since it is
   our standard - it is a "safe" choice since it is near no harmful keys like "W" as
@@ -224,113 +318,115 @@
   is a fundamental keybinding and we are maintaining a XP binding so that it is easy
   for people to switch to Linux.
 
-  Do *not* tamper with these values without talking to ben@mozilla.org
-
  -->
 <!ENTITY searchFocus.commandkey       "k">
-<!ENTITY searchFocus.commandkey2      "e">
 <!ENTITY searchFocusUnix.commandkey   "j">
 
-<!ENTITY openLinkCmd.label            "Холбоосыг шинэ цонхонд нээ">
-<!ENTITY openLinkCmd.accesskey        "Х">
-<!ENTITY openLinkCmdInTab.label       "Холбоосыг шинэ самбарт нээ">
-<!ENTITY openLinkCmdInTab.accesskey   "Х">
-<!ENTITY openFrameCmd.label           "Хүрээг шинэ цонхонд нээ">
-<!ENTITY openFrameCmd.accesskey       "Х">
-<!ENTITY openFrameCmdInTab.label      "Хүрээг шинэ самбарт нээ">
-<!ENTITY openFrameCmdInTab.accesskey  "Х">
+<!ENTITY tabView.commandkey           "e">
+
+<!ENTITY openLinkCmdInTab.label       "Линкийг шинэ тэйб дээр нээх">
+<!ENTITY openLinkCmdInTab.accesskey   "T">
+<!ENTITY openLinkCmd.label            "Линкийг шинэ цонх дээр нээх">
+<!ENTITY openLinkCmd.accesskey        "W">
+<!ENTITY openLinkCmdInCurrent.label     "Линкийг нээх">
+<!ENTITY openLinkCmdInCurrent.accesskey "O">
+<!ENTITY openFrameCmdInTab.label      "Хүрээг шинэ тэйб дээр нээх">
+<!ENTITY openFrameCmdInTab.accesskey  "T">
+<!ENTITY openFrameCmd.label           "Хүрээг шинэ цонх дээр нээх">
+<!ENTITY openFrameCmd.accesskey       "W">
 <!ENTITY showOnlyThisFrameCmd.label     "Зөвхөн энэ хүрээг харах">
-<!ENTITY showOnlyThisFrameCmd.accesskey "З">
+<!ENTITY showOnlyThisFrameCmd.accesskey "S">
 <!ENTITY reloadCmd.commandkey         "r">
-<!ENTITY reloadFrameCmd.label         "Хүрээг дахин дууд">
-<!ENTITY reloadFrameCmd.accesskey     "Х">
+<!ENTITY reloadFrameCmd.label         "Хүрээг дахин дуудах">
+<!ENTITY reloadFrameCmd.accesskey     "R">
 <!ENTITY viewPartialSourceForSelectionCmd.label "Сонгосон хэсгийн эх бичлэгийг харах">
 <!ENTITY viewPartialSourceForMathMLCmd.label    "MathML эх бичлэгийг харах">
-<!ENTITY viewPartialSourceCmd.accesskey "ч">
+<!-- LOCALIZATION NOTE (viewPartialSourceCmd.accesskey): This accesskey is used for both 
+         viewPartialSourceForSelectionCmd.label and viewPartialSourceForMathMLCmd.label -->
+<!ENTITY viewPartialSourceCmd.accesskey "e">
 <!ENTITY viewPageSourceCmd.label      "Хуудасны эх бичлэгийг харах">
-<!ENTITY viewPageSourceCmd.accesskey  "Х">
+<!ENTITY viewPageSourceCmd.accesskey  "V">
 <!ENTITY viewFrameSourceCmd.label     "Хүрээний эх бичлэгийг харах">
-<!ENTITY viewFrameSourceCmd.accesskey "Х">
-<!ENTITY viewPageInfoCmd.label        "Хуудасны мэдэгдлийг харах">
-<!ENTITY viewPageInfoCmd.accesskey    "Х">
-<!ENTITY viewFrameInfoCmd.label       "Хүрээний мэдэгдлийг харах">
-<!ENTITY viewFrameInfoCmd.accesskey   "Х">
-<!ENTITY reloadImageCmd.label         "Зургийг дахин дууд">
-<!ENTITY reloadImageCmd.accesskey     "д">
+<!ENTITY viewFrameSourceCmd.accesskey "V">
+<!ENTITY viewPageInfoCmd.label        "Хуудасны мэдээлэлийг харах">
+<!ENTITY viewPageInfoCmd.accesskey    "I">
+<!ENTITY viewFrameInfoCmd.label       "Хүрээний мэдээлэлийг харах">
+<!ENTITY viewFrameInfoCmd.accesskey   "I">
+<!ENTITY reloadImageCmd.label         "Зургийг дахин дуудах">
+<!ENTITY reloadImageCmd.accesskey     "R">
 <!ENTITY viewImageCmd.label           "Зургийг харах">
-<!ENTITY viewImageCmd.accesskey       "З">
+<!ENTITY viewImageCmd.accesskey       "I">
+<!ENTITY viewImageInfoCmd.label       "Зурагны мэдээлэлийг харах">
+<!ENTITY viewImageInfoCmd.accesskey   "f">
 <!ENTITY viewVideoCmd.label           "Видеог харах">
-<!ENTITY viewVideoCmd.accesskey       "В">
+<!ENTITY viewVideoCmd.accesskey       "I">
 <!ENTITY viewBGImageCmd.label         "Арын дэвсгэр зураг харах">
-<!ENTITY viewBGImageCmd.accesskey     "А">
-<!ENTITY setDesktopBackgroundCmd.label      "Арын дэвсгэр зураг болго…">
-<!ENTITY setDesktopBackgroundCmd.accesskey  "А">
-<!ENTITY bookmarkPageCmd2.label       "Энэ хуудасны хаягийг хадгал">
-<!ENTITY bookmarkPageCmd2.accesskey   "д">
-<!ENTITY bookmarkThisLinkCmd.label        "Энэ холбоосыг хаяганд нэм">
-<!ENTITY bookmarkThisLinkCmd.accesskey    "х">
-<!ENTITY bookmarkThisFrameCmd.label       "Энэ хүрээний хаягийг хадгал">
-<!ENTITY bookmarkThisFrameCmd.accesskey   "л">
-<!ENTITY sendPageCmd.label            "Холбоосыг захиагаар илгээ…">
-<!ENTITY sendPageCmd.accesskey        "Х">
-<!ENTITY savePageCmd.label            "Хуудсанд нэр өгч хадгал…">
-<!ENTITY savePageCmd.accesskey        "Х">
+<!ENTITY viewBGImageCmd.accesskey     "w">
+<!ENTITY setDesktopBackgroundCmd.label      "Арын дэвсгэр зураг болгох…">
+<!ENTITY setDesktopBackgroundCmd.accesskey  "S">
+<!ENTITY bookmarkPageCmd2.label       "Энэ хуудасыг вэб хуудас үзсэн тэмдэглэлд хадгалах">
+<!ENTITY bookmarkPageCmd2.accesskey   "m">
+<!ENTITY bookmarkThisLinkCmd.label      "Энэ линкийг вэб хуудас үзсэн тэмдэглэлд хадгалах">
+<!ENTITY bookmarkThisLinkCmd.accesskey  "L">
+<!ENTITY bookmarkThisFrameCmd.label      "Энэ хүрээг вэб хуудас үзсэн тэмдэглэлд хадгалах">
+<!ENTITY bookmarkThisFrameCmd.accesskey  "m">
+<!ENTITY sendPageCmd.label            "Линкийг илгээх…">
+<!ENTITY sendPageCmd.accesskey        "e">
+<!ENTITY savePageCmd.label            "Хуудсанд нэр өгч хадгалах…">
+<!ENTITY savePageCmd.accesskey        "A">
 <!-- alternate for content area context menu -->
-<!ENTITY savePageCmd.accesskey2       "р">
+<!ENTITY savePageCmd.accesskey2       "P">
 <!ENTITY savePageCmd.commandkey       "s">
-<!ENTITY saveFrameCmd.label           "Хүрээнд нэр өгч хадгал…">
-<!ENTITY saveFrameCmd.accesskey       "Х">
-<!ENTITY printFrameCmd.label          "Хүрээг хэвлэ…">
-<!ENTITY printFrameCmd.accesskey      "в">
-<!ENTITY saveLinkCmd.label            "Холбогдсон файлд нэр өгч хадгал">
-<!ENTITY saveLinkCmd.accesskey        "ө">
-<!ENTITY sendLinkCmd.label            "Холбоосыг захиагаар илгээ…">
-<!ENTITY sendLinkCmd.accesskey        "Х">
-<!ENTITY saveImageCmd.label           "Зурганд нэр өгч хадгал…">
-<!ENTITY saveImageCmd.accesskey       "З">
-<!ENTITY saveVideoCmd.label           "Видеонд нэр өгч хадгал…">
-<!ENTITY saveVideoCmd.accesskey       "е">
-<!ENTITY saveAudioCmd.label           "Дуут файлд нэр өгч хадгал…">
-<!ENTITY saveAudioCmd.accesskey       "н">
-<!ENTITY sendImageCmd.label           "Зургийг илгээ…">
-<!ENTITY sendImageCmd.accesskey       "З">
-<!ENTITY sendVideoCmd.label           "Видеог илгээ…">
-<!ENTITY sendVideoCmd.accesskey       "и">
-<!ENTITY sendAudioCmd.label           "Дуут файлыг илгээ…">
-<!ENTITY sendAudioCmd.accesskey       "э">
-<!ENTITY copyLinkCmd.label            "Холбоос хаягийг сануул">
-<!ENTITY copyLinkCmd.accesskey        "Х">
-<!ENTITY copyLinkTextCmd.label        "Холбоос текстийг сануул">
-<!ENTITY copyLinkTextCmd.accesskey    "а">
-<!ENTITY copyImageCmd.label           "Зургийн байрлалыг сануул">
-<!ENTITY copyImageCmd.accesskey       "З">
-<!ENTITY copyImageContentsCmd.label   "Зургийг сануул">
-<!ENTITY copyImageContentsCmd.accesskey  "у">
-<!ENTITY copyVideoURLCmd.label        "Видеоны байрлалыг сануул">
-<!ENTITY copyVideoURLCmd.accesskey    "л">
-<!ENTITY copyAudioURLCmd.label        "Дуут файлын байрлалыг сануул">
-<!ENTITY copyAudioURLCmd.accesskey    "н">
-<!ENTITY blockImageCmd.accesskey       "о">
-<!ENTITY metadataCmd.label            "Шинж чанар">
-<!ENTITY metadataCmd.accesskey        "Ш">
-<!ENTITY copyEmailCmd.label           "Захианы хаягийг сана">
-<!ENTITY copyEmailCmd.accesskey       "З">
+<!ENTITY saveFrameCmd.label           "Хүрээнд нэр өгч хадгалах…">
+<!ENTITY saveFrameCmd.accesskey       "F">
+<!ENTITY printFrameCmd.label          "Хүрээг хэвлэх…">
+<!ENTITY printFrameCmd.accesskey      "P">
+<!ENTITY saveLinkCmd.label            "Линкд нэр өгч хадгалах…">
+<!ENTITY saveLinkCmd.accesskey        "k">
+<!ENTITY sendLinkCmd.label            "Линкийг илгээх…"> 
+<!ENTITY sendLinkCmd.accesskey        "d">
+<!ENTITY saveImageCmd.label           "Зурганд нэр өгч хадгалах…">
+<!ENTITY saveImageCmd.accesskey       "v">
+<!ENTITY saveVideoCmd.label           "Видеонд нэр өгч хадгалах…">
+<!ENTITY saveVideoCmd.accesskey       "v">
+<!ENTITY saveAudioCmd.label           "Дуут файлд нэр өгч хадгалах…">
+<!ENTITY saveAudioCmd.accesskey       "v">
+<!ENTITY sendImageCmd.label           "Зургийг илгээх…">
+<!ENTITY sendImageCmd.accesskey       "n">
+<!ENTITY sendVideoCmd.label           "Видеог илгээх…">
+<!ENTITY sendVideoCmd.accesskey       "n">
+<!ENTITY sendAudioCmd.label           "Дуут файлыг илгээх…">
+<!ENTITY sendAudioCmd.accesskey       "n">
+<!ENTITY copyLinkCmd.label            "Линкийн байрлалыг хуулах">
+<!ENTITY copyLinkCmd.accesskey        "a">
+<!ENTITY copyImageCmd.label           "Зурагны байрлалыг хуулах">
+<!ENTITY copyImageCmd.accesskey       "o">
+<!ENTITY copyImageContentsCmd.label   "Зургийг хуулах">
+<!ENTITY copyImageContentsCmd.accesskey  "y"> 
+<!ENTITY copyVideoURLCmd.label        "Видеоны байрлалыг хуулах">
+<!ENTITY copyVideoURLCmd.accesskey    "o">
+<!ENTITY copyAudioURLCmd.label        "Дуут файлын байрлалыг хуулах">
+<!ENTITY copyAudioURLCmd.accesskey    "o">
+<!ENTITY copyEmailCmd.label           "Имэйл хаягийг хуулах">
+<!ENTITY copyEmailCmd.accesskey       "E">
 <!ENTITY thisFrameMenu.label              "Энэ хүрээ">
-<!ENTITY thisFrameMenu.accesskey          "Э">
+<!ENTITY thisFrameMenu.accesskey          "h">
 
 <!-- Media (video/audio) controls -->
-<!ENTITY mediaPlay.label             "Тоглуул">
-<!ENTITY mediaPlay.accesskey         "о">
-<!ENTITY mediaPause.label            "Завсарла">
-<!ENTITY mediaPause.accesskey        "в">
-<!ENTITY mediaMute.label             "Дуугүй">
-<!ENTITY mediaMute.accesskey         "ү">
-<!ENTITY mediaUnmute.label           "Дуутай">
-<!ENTITY mediaUnmute.accesskey       "й">
-<!ENTITY mediaShowControls.label     "Удирдлагыг харуул">
-<!ENTITY mediaShowControls.accesskey "д">
-<!ENTITY mediaHideControls.label     "Удирдлагыг нуу">
-<!ENTITY mediaHideControls.accesskey "ы">
+<!ENTITY mediaPlay.label             "Тоглуулах">
+<!ENTITY mediaPlay.accesskey         "P">
+<!ENTITY mediaPause.label            "Завсарлах">
+<!ENTITY mediaPause.accesskey        "P">
+<!ENTITY mediaMute.label             "Дуугүй болгох">
+<!ENTITY mediaMute.accesskey         "M">
+<!ENTITY mediaUnmute.label           "Дуутай болгох">
+<!ENTITY mediaUnmute.accesskey       "m">
+<!ENTITY mediaShowControls.label     "Удирдлагыг харуулах">
+<!ENTITY mediaShowControls.accesskey "C">
+<!ENTITY mediaHideControls.label     "Удирдлагыг нуух">
+<!ENTITY mediaHideControls.accesskey "C">
+<!ENTITY videoFullScreen.label       "Дэлгэц дүүрэн болгох">
+<!ENTITY videoFullScreen.accesskey   "F">
 
 
 <!-- LOCALIZATION NOTE :
@@ -339,94 +435,94 @@ fullZoomResetCmd.commandkey2 are alternative acceleration keys for zoom.
 If shift key is needed with your locale popular keyboard for them,
 you can use these alternative items. Otherwise, their values should be empty.  -->
 
-
-<!ENTITY fullZoomEnlargeCmd.label       "Томруул">
-<!ENTITY fullZoomEnlargeCmd.accesskey   "о">
+<!ENTITY fullZoomEnlargeCmd.label       "Томруулах">
+<!ENTITY fullZoomEnlargeCmd.accesskey   "I">
 <!ENTITY fullZoomEnlargeCmd.commandkey  "+">
 <!ENTITY fullZoomEnlargeCmd.commandkey2 "="> <!-- + is above this key on many keyboards -->
 <!ENTITY fullZoomEnlargeCmd.commandkey3 "">
 
-<!ENTITY fullZoomReduceCmd.label        "Багасга">
-<!ENTITY fullZoomReduceCmd.accesskey    "г">
+<!ENTITY fullZoomReduceCmd.label        "Багасгах">
+<!ENTITY fullZoomReduceCmd.accesskey    "O">
 <!ENTITY fullZoomReduceCmd.commandkey   "-">
 <!ENTITY fullZoomReduceCmd.commandkey2  "">
 
-<!ENTITY fullZoomResetCmd.label         "Энгийн">
-<!ENTITY fullZoomResetCmd.accesskey     "Э">
+<!ENTITY fullZoomResetCmd.label         "Урьдын хэвэнд оруулах">
+<!ENTITY fullZoomResetCmd.accesskey     "R">
 <!ENTITY fullZoomResetCmd.commandkey    "0">
 <!ENTITY fullZoomResetCmd.commandkey2   "">
 
-<!ENTITY fullZoomToggleCmd.label        "Зөвхөн текст томруул">
-<!ENTITY fullZoomToggleCmd.accesskey    "м">
-<!ENTITY fullZoom.label                 "Харуулах хэмжээ">
-<!ENTITY fullZoom.accesskey             "ж">
+<!ENTITY fullZoomToggleCmd.label        "Зөвхөн текст томруулах">
+<!ENTITY fullZoomToggleCmd.accesskey    "T">
+<!ENTITY fullZoom.label                 "Zoom">
+<!ENTITY fullZoom.accesskey             "Z">
 
-<!ENTITY newTabButton.tooltip           "Шинэ самбар нээ">
-<!ENTITY newWindowButton.tooltip        "Шинэ цонх нээ">
-<!ENTITY sidebarCloseButton.tooltip     "Хажуу самбарыг хаана">
+<!ENTITY newTabButton.tooltip           "Шинэ тэйб нээх">
+<!ENTITY newWindowButton.tooltip        "Шинэ цонх нээх">
+<!ENTITY sidebarCloseButton.tooltip     "Хажуу самбарыг хаах">
 
-<!ENTITY cutButton.tooltip              "Тасдаж сана">
-<!ENTITY copyButton.tooltip             "Сануул">
-<!ENTITY pasteButton.tooltip            "Санамж буулга">
+<!ENTITY cutButton.tooltip              "Тасдаж санах">
+<!ENTITY copyButton.tooltip             "Хуулах">
+<!ENTITY pasteButton.tooltip            "Наах">
 
-<!ENTITY quitApplicationCmdWin.label       "Гарах">
-<!ENTITY quitApplicationCmdWin.accesskey   "Г">
+<!ENTITY fullScreenButton.tooltip       "Цонхыг дэлгэц дүүрэн болгох">
+
+<!ENTITY zoomOutButton.tooltip          "Багасгах">
+<!ENTITY zoomInButton.tooltip           "Томруулах">
+<!ENTITY zoomControls.label             "Хэмжээ тохируулах">
+
+<!ENTITY quitApplicationCmdWin.label       "Гарах"> 
+<!ENTITY quitApplicationCmdWin.accesskey   "x">
 <!ENTITY goBackCmd.commandKey "[">
 <!ENTITY goForwardCmd.commandKey "]">
-<!ENTITY quitApplicationCmd.label       "Гарах">
-<!ENTITY quitApplicationCmd.accesskey   "Г">
-<!ENTITY quitApplicationCmdMac.label    "Quit &brandShortName;">
+<!ENTITY quitApplicationCmd.label       "Гарах"> 
+<!ENTITY quitApplicationCmd.accesskey   "Q">
+<!ENTITY quitApplicationCmdMac.label    "Гарах &brandShortName;">
 <!ENTITY quitApplicationCmdMac.key      "Q">
 
-<!ENTITY closeCmd.label                 "Хаа">
-<!ENTITY closeCmd.key                   "W">
-<!ENTITY closeCmd.accesskey             "Х">
+<!ENTITY closeCmd.label                 "Хаах">  
+<!ENTITY closeCmd.key                   "W">  
+<!ENTITY closeCmd.accesskey             "C">
 
-<!ENTITY pageStyleMenu.label "Хуудасны маяг">
-<!ENTITY pageStyleMenu.accesskey "д">
-<!ENTITY pageStyleNoStyle.label "Маяггүй">
-<!ENTITY pageStyleNoStyle.accesskey "я">
+<!ENTITY pageStyleMenu.label "Хуудасны загвар">
+<!ENTITY pageStyleMenu.accesskey "y">
+<!ENTITY pageStyleNoStyle.label "Загваргүй болгох">
+<!ENTITY pageStyleNoStyle.accesskey "n">
 <!ENTITY pageStylePersistentOnly.label "Хуудасны үндсэн загвар">
-<!ENTITY pageStylePersistentOnly.accesskey "Х">
+<!ENTITY pageStylePersistentOnly.accesskey "b">
 
-<!ENTITY pageReportIcon.tooltip            "Энэ хуудсанд жижиг цонх хорих тохиргоог өөрчилнө">
+<!ENTITY pageReportIcon.tooltip            "Энэ хуудсанд жижиг цонх хорих тохиргоог өөрчлөх">
 
 <!ENTITY allowPopups.accesskey "p">
 <!-- On Windows we use the term "Options" to describe settings, but
      on Linux and Mac OS X we use "Preferences" - carry that distinction
      over into this string, which is used in the "popup blocked" info bar . -->
-<!ENTITY editPopupSettingsUnix.label "Жижиг цонх хоригчийн тохируулгыг засварла…">
-<!ENTITY editPopupSettings.label "Жижиг цонх хоригчийг засварла…">
-<!ENTITY editPopupSettings.accesskey "и">
+<!ENTITY editPopupSettingsUnix.label "Жижиг цонх хоригчийн тохируулгыг өөрчлөх…">
+<!ENTITY editPopupSettings.label "Жижиг цонх хоригчийн тохируулгыг сонгох…">
+<!ENTITY editPopupSettings.accesskey "E">
 <!ENTITY dontShowMessage.accesskey "D">
 
-<!ENTITY bidiSwitchPageDirectionItem.label        "Хуудасны чиглэлийг сэлгэ">
-<!ENTITY bidiSwitchPageDirectionItem.accesskey    "у">
-<!ENTITY bidiSwitchTextDirectionItem.label        "Текстийн чиглэлд сэлгэ">
-<!ENTITY bidiSwitchTextDirectionItem.accesskey    "ч">
+<!ENTITY bidiSwitchPageDirectionItem.label        "Хуудасны чиглэлийг өөрчлөх">
+<!ENTITY bidiSwitchPageDirectionItem.accesskey    "D">
+<!ENTITY bidiSwitchTextDirectionItem.label        "Текстийн чиглэлийг өөрчлөх">
+<!ENTITY bidiSwitchTextDirectionItem.accesskey    "w">
 <!ENTITY bidiSwitchTextDirectionItem.commandkey   "X">
 
-<!ENTITY findOnCmd.label     "Энэ хуудсанд ол">
-<!ENTITY findOnCmd.accesskey "о">
+<!ENTITY findOnCmd.label     "Энэ хуудсанд хайх…">
+<!ENTITY findOnCmd.accesskey "F">
 <!ENTITY findOnCmd.commandkey "f">
-<!ENTITY findAgainCmd.label  "Ахиад ол">
-<!ENTITY findAgainCmd.accesskey "о">
+<!ENTITY findAgainCmd.label  "Дахин хайх">
+<!ENTITY findAgainCmd.accesskey "g">
 <!ENTITY findAgainCmd.commandkey "g">
 <!ENTITY findAgainCmd.commandkey2 "VK_F3">
 
-<!ENTITY spellAddDictionaries.label "Толь бичиг нэм…">
-<!ENTITY spellAddDictionaries.accesskey "м">
+<!ENTITY spellAddDictionaries.label "Толь бичиг нэмэх…">
+<!ENTITY spellAddDictionaries.accesskey "A">
 
+<!ENTITY editBookmark.done.label                     "Дуусгах">
+<!ENTITY editBookmark.cancel.label                   "Цуцлах">
+<!ENTITY editBookmark.removeBookmark.accessKey       "R">
 
-<!ENTITY editBookmark.done.label                     "Гүйцэтгэ">
-<!ENTITY editBookmark.cancel.label                   "Цуцал">
-<!ENTITY editBookmark.removeBookmark.accessKey       "я">
-<!ENTITY editBookmark.undo.label                     "Буцаж үйлд">
-<!ENTITY editBookmark.undo.accessKey                 "й">
-<!ENTITY editBookmark.edit.label                     "Засварла…">
-<!ENTITY editBookmark.edit.accessKey                 "в">
-
-<!ENTITY identity.unverifiedsite2 "Та итгэмж байхгүй хуудсанд холбогдсон байна.">
+<!ENTITY identity.unverifiedsite2 "Энэ хуудас нь итгэмжлэлийн мэдээлэлийг нууцалдаг.">
 <!ENTITY identity.connectedTo "Таны холбогдсон хуудас">
 <!-- Localization note (identity.runBy) : This string appears between a
 domain name (above) and an organization name (below). E.g.
@@ -439,10 +535,29 @@ The layout of the identity dialog prevents combining this into a single string w
 substitution variables.  If it is difficult to translate the sense of the string
 with that structure, consider a translation which ignores the preceding domain and
 just addresses the organization to follow, e.g. "This site is run by " -->
-<!ENTITY identity.runBy "ашиглаж буй сервер">
+<!ENTITY identity.runBy "which is run by">
 
 <!ENTITY identity.moreInfoLinkText "Нэмэлт мэдээлэл…">
 
-<!ENTITY downloadMonitor2.tooltip "Үүн дээр дарж татаж авалт хийж буй цонхыг нээнэ.">
+<!ENTITY downloadMonitor2.tooltip "Файл татаж авалт хийж буй цонхыг нээх">
 
-<!ENTITY ctrlTab.search.emptyText "Хайлт хийгч самбарууд">
+<!ENTITY allTabs.filter.emptyText "Тэйб хайх">
+<!-- Name for the tabs toolbar as spoken by screen readers.
+     The word "toolbar" is appended automatically and should not be contained below! -->
+<!ENTITY tabsToolbar.label "Браузор тэйб">
+
+<!-- LOCALIZATION NOTE (syncTabsMenu.label): This appears in the history menu -->
+<!ENTITY syncTabsMenu.label     "Өөр компьютэрт хадгалсан тэйбийн мэдээлэл ">
+
+<!ENTITY syncBrand.shortName.label    "Ижилсүүлэх">
+
+<!ENTITY syncSetup.label              "Тохируулах &syncBrand.shortName.label;…">
+<!ENTITY syncSetup.accesskey          "Y">
+<!ENTITY syncSyncNowItem.label        "Одоо ижилсүүлэх">
+<!ENTITY syncSyncNowItem.accesskey    "S">
+<!ENTITY syncToolbarButton.label      "Ижилсүүлэх">
+
+<!ENTITY addonBarCloseButton.tooltip  "Нэмэлтийн самбар хаах">
+<!ENTITY toggleAddonBarCmd.key        "/">
+
+

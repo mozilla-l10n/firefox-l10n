@@ -1,0 +1,15 @@
+<!ENTITY syncKey.page.title               "&syncBrand.fullName.label; Ижилсүүлэх түлхүүр үг">
+<!ENTITY syncKey.page.description         "Одоогын ижилсүүлэх түлхүүр үг нь &syncBrand.fullName.label;  дансны өгөгдлийг ашиглах үел хэрэгтэй. Шинэ компьютер юмуу өөр төхөөрөмжөөс &syncBrand.fullName.label; тохируулга хийхээр бол түлхүүр үгийг оруулах хэрэгтэй.">
+<!ENTITY syncKey.keepItSecret.heading     "Ижилсүүлэх түлхүүр үг нууцлах">
+<!ENTITY syncKey.keepItSecret.description "&syncBrand.fullName.label; дансыг хувийн мэдээлэл нууцлахад ашигладаг. Түлхүүр үггүйгээр хэн ч таны мэдээллийг тайлж унших боломжгүй. Таниас өөр энэ түлхүүр үгийг эзэмшиж байгаа хүн байхгүй. Тиймээс таны &syncBrand.fullName.label; өгөгдөлд таниас өөр хэн ч нэвтэрч чадахгүй.">
+<!ENTITY syncKey.keepItSafe.heading       "Ижилсүүлэх түлхүүр үгийг хамгаалах">
+<!ENTITY syncKey.keepItSafe1.description  " Энэ түлхүүр үгийг алдаж болохгүй.">
+<!ENTITY syncKey.keepItSafe2.description  " Бид түлхүүр үгийн хуулбарыг хадгалаж үлдээдэггүй. (Түлхүүр үгээ сайн хадгалана уу)">
+<!ENTITY syncKey.keepItSafe3.description  " Алдсан тохиолдолд дахин сэргээх боломжгүй">
+<!ENTITY syncKey.keepItSafe4.description  " Хэзээч, ямарч компьютер болон төхөөрөмжөөс &syncBrand.fullName.label; өгөгдлийг ашиглаж болно..">
+
+<!ENTITY syncKey.findOutMore1.label       "&syncBrand.fullName.label; мэдээлэл болон хувийн мэдээллийн хамгаалалт харах">
+<!ENTITY syncKey.findOutMore2.label       ".">
+<!ENTITY syncKey.footer1.label            "&syncBrand.fullName.label; үйлчилгээний нөхцөл харах">
+<!ENTITY syncKey.footer2.label            ". Хувийн мэдээлэл хамгаалах бодлого">
+<!ENTITY syncKey.footer3.label            ".">
