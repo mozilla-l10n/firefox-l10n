@@ -13,6 +13,7 @@
         <rdf:li> <rdf:Description nc:name="CA" nc:link="glossary.xhtml#ca"/> </rdf:li>
         <rdf:li> <rdf:Description nc:name="CA certificate" nc:link="glossary.xhtml#ca_certificate"/> </rdf:li>
         <rdf:li> <rdf:Description nc:name="cache" nc:link="glossary.xhtml#cache"/> </rdf:li>
+        <rdf:li> <rdf:Description nc:name="caret browsing" nc:link="glossary.xhtml#caret_browsing"/> </rdf:li>
         <rdf:li> <rdf:Description nc:name="certificate" nc:link="glossary.xhtml#certificate"/> </rdf:li>
         <rdf:li> <rdf:Description nc:name="certificate authority (CA)" nc:link="glossary.xhtml#certificate_authority"/> </rdf:li>
         <rdf:li> <rdf:Description nc:name="certificate backup password" nc:link="glossary.xhtml#certificate_backup_password"/> </rdf:li>
@@ -48,7 +49,6 @@
         <rdf:li> <rdf:Description nc:name="foreign cookie" nc:link="glossary.xhtml#foreign_cookie"/> </rdf:li>
         <rdf:li> <rdf:Description nc:name="frame" nc:link="glossary.xhtml#frame"/> </rdf:li>
         <rdf:li> <rdf:Description nc:name="FTP" nc:link="glossary.xhtml#ftp"/> </rdf:li>
-        <rdf:li> <rdf:Description nc:name="Gopher" nc:link="glossary.xhtml#gopher"/> </rdf:li>
         <rdf:li> <rdf:Description nc:name="helper application" nc:link="glossary.xhtml#helper_application"/> </rdf:li>
         <rdf:li> <rdf:Description nc:name="home page" nc:link="glossary.xhtml#home_page"/> </rdf:li>
         <rdf:li> <rdf:Description nc:name="HTML" nc:link="glossary.xhtml#html"/> </rdf:li>
