@@ -104,6 +104,7 @@
 <!ENTITY contextFullScreen.label      "Helskärm">
 <!ENTITY contextEditBookmark.label    "Redigera">
 <!ENTITY contextRemoveBookmark.label  "Ta bort">
+<!ENTITY contextShortcutBookmark.label "Lägg till i startskärm">
 
 <!ENTITY pageactions.saveas.pdf      "Spara som PDF">
 <!ENTITY pageactions.share.page      "Dela sida">
