@@ -1,0 +1,37 @@
+<!ENTITY aboutSupport.pageTitle "Асуудал шийдвэрлэх мэдээлэл">
+
+<!-- LOCALIZATION NOTE (aboutSupport.pageSubtitle): don't change the 'supportLink' id. -->
+<!ENTITY aboutSupport.pageSubtitle " Энэ хуудас нь танд тулгарсан асуудалыг шийдвэрлэхэд чинь тус болох мэдээллийг агуулсан байгаа. Хэрэв та &brandShortName;-н асуудалыг шийдвэрлэхээр хариу хайж байгаа бол <a id='supportLink'> хэрэглэгчийг дэмжих сайт</a>д хандахыг хүсье.">
+
+
+<!ENTITY aboutSupport.extensionsTitle "Өргөтгөх чадвар">
+<!ENTITY aboutSupport.extensionName "Нэр">
+<!ENTITY aboutSupport.extensionEnabled "Ашиглах">
+<!ENTITY aboutSupport.extensionVersion "Хувилбар">
+<!ENTITY aboutSupport.extensionId "ID">
+
+<!ENTITY aboutSupport.appBasicsTitle "Хэрэглээгий програмын үндсэн мэдээлэл">
+<!ENTITY aboutSupport.appBasicsName "Нэр">
+<!ENTITY aboutSupport.appBasicsVersion "Хувилбар">
+<!ENTITY aboutSupport.appBasicsProfileDir "Хувийн тохиргоо хадгалах хавтас">
+<!ENTITY aboutSupport.appBasicsEnabledPlugins "Ашиглаж буй plug-in">
+<!ENTITY aboutSupport.appBasicsBuildConfig "Хөрвүүлэлтийн тохиргоо">
+<!ENTITY aboutSupport.appBasicsUserAgent "Хэрэглэгчийн зууч">
+
+<!ENTITY aboutSupport.show.label "Хавтас нээх">
+
+<!-- LOCALIZATION NOTE (aboutSupport.showMac.label): This is the Mac-specific
+variant of aboutSupport.show.label.  This allows us to use the preferred
+"Finder" terminology on Mac. -->
+<!ENTITY aboutSupport.showMac.label "Хавтасд харуулах">
+
+<!ENTITY aboutSupport.modifiedPrefsTitle "Өөрчлөлт тохируулах жагсаалт">
+<!ENTITY aboutSupport.modifiedPrefsName "Нэр">
+<!ENTITY aboutSupport.modifiedPrefsValue "Утга">
+<!ENTITY aboutSupport.graphicsTitle "График">
+
+<!-- LOCALIZATION NOTE In the following string, "Direct2D" is a proper noun and should not be translated -->
+<!ENTITY aboutSupport.installationHistoryTitle "Суулгалт тэмдэглэх">
+<!ENTITY aboutSupport.updateHistoryTitle "Шинэчлэл тэмдэглэх">
+
+<!ENTITY aboutSupport.copyToClipboard.label "Clipboard-д хуулах">

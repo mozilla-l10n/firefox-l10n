@@ -1,19 +1,17 @@
-<!ENTITY about.version                "хувилбар">
-<!ENTITY about.copy.beforeLink        "&copy; Зохиогчийн эрх хуулиар 1998-2008 онд ">
-<!ENTITY about.copy.linkTitle        "Mozilla төсөлд">
-<!ENTITY about.copy.afterLink        "хамтран оролцогсдоор хамгаалагдсан.">
-
-<!ENTITY about.license.beforeLink     "Үүнийг уншина уу">
-
-<!ENTITY about.license.linkTitle      "энэ бүтээгдэхүүний">
-<!ENTITY about.license.afterLink      "лицензийн мэдээлэл.">
-
-<!ENTITY about.relnotes.beforeLink    "Үүнийг уншина уу">
-<!ENTITY about.relnotes.linkTitle     "энэ хувилбарт зориулсан">
-<!ENTITY about.relnotes.afterLink     "хувилбарын мэдээлэл.">
-
-<!ENTITY about.buildconfig.beforeLink "Үүнийг харна уу">
-<!ENTITY about.buildconfig.linkTitle  "энэ хувилбарт зориулсан">
-<!ENTITY about.buildconfig.afterLink  "хөрвүүлэлтийн тохируулга.">
-
-<!ENTITY about.buildIdentifier        "Хөрвүүлэлтийн таних тэмдэг: ">
+<!ENTITY about.version "Хувилбар">
+<!-- LOCALIZATION NOTE (about.credits.beforeLink): note that there is no space between this phrase and the linked about.credits.linkTitle phrase, so if your locale needs a space between words, add it at the end of this 
+entity. -->
+<!ENTITY about.credits.beforeLink     "Mozilla төсөл ">
+<!ENTITY about.credits.linkTitle      "Дэмжигч">
+<!-- LOCALIZATION NOTE (about.credits.afterLink): note that there is no space between the linked about.credits.linkTitle phrase and this phrase, so if your locale needs a space between words, add it at the start of this entity. -->
+<!ENTITY about.credits.afterLink      " Жагсаалт">
+<!ENTITY about.license.beforeTheLink "Бүтээлийн талаархи дэлгэрэнгүй мэдээлэлийг">
+<!ENTITY about.license.linkTitle "Лицензийн мэдээлэл">
+<!ENTITY about.license.afterTheLink "ээс авна уу">
+<!ENTITY about.relnotes.beforeTheLink "Одоогийн хувилбарын талаар">
+<!ENTITY about.relnotes.linkTitle "Бүтээлийн танилцуулга">
+<!ENTITY about.relnotes.afterTheLink "ас харна уу">
+<!ENTITY about.buildconfig.beforeTheLink "Одоогийн хувилбарын талаар">
+<!ENTITY about.buildconfig.linkTitle "хөрвүүлэлтийн тохируулга">
+<!ENTITY about.buildconfig.afterTheLink "ас харна уу.">
+<!ENTITY about.buildIdentifier "Хөрвүүлэлтийн таних тэмдэг: ">

@@ -62,14 +62,11 @@
 <!ENTITY certmgr.certdetail.title                   "Гэрчилгээний нарийн мэдээлэл">
 <!ENTITY certmgr.certname                           "Гэрчилгээний нэр">
 <!ENTITY certmgr.certserver                   "Сервер">
-<!ENTITY certmgr.typesofoverrides             "Зааж өгөх">
 <!ENTITY certmgr.override_lifetime            "Үргэлж">
 <!ENTITY certmgr.close.label                        "Хаа">
 <!ENTITY certmgr.close.accesskey                    "Х">
 <!ENTITY certmgr.view2.label                  "Харагдац…">
 <!ENTITY certmgr.view2.accesskey              "ц">
-<!ENTITY certmgr.edit2.label                  "Завсарла…">
-<!ENTITY certmgr.edit2.accesskey              "в">
 <!ENTITY certmgr.deletecert.aftername               "Та энэ гэрчилгээг устгахдаа итгэлтэй байна уу?">
 <!ENTITY certmgr.deletecert.beforename              "Та энэ гэрчилгээг устгахыг асуугдсан байна:">
 <!ENTITY certmgr.deletecert.title                   "Гэрчилгээ устгах">
@@ -110,7 +107,6 @@
 <!ENTITY certmgr.mine                               "Танд таныг таних дараах байгууллагын гэрчилгээ байна:">
 <!ENTITY certmgr.others                             "Танд дараах хүмүүсийг таних файлд буй гэрчилгээ байна:">
 <!ENTITY certmgr.websites2                    "Танд эдгээр серверүүдийг таних гэрчилгээнүүдийг хадгалсан файл бий:">
-<!ENTITY certmgr.purpose                            "Зориулалт">
 <!ENTITY certmgr.serial                             "Цуврал дугаар">
 <!ENTITY certmgr.pending.label                "Шалгаж байгаа гэрчилгээнүүд…">
 <!ENTITY certmgr.subjectinfo.label                  "Зориулагдсан">
@@ -124,8 +120,6 @@
 <!ENTITY certmgr.addException.accesskey       "ж">
 
 <!ENTITY exceptionMgr.title                   "Нууцлалын нэмэлт заалт">
-<!ENTITY exceptionMgr.exceptionButton         "Нууцлалын нэмэлт заалтыг батал">
-<!ENTITY exceptionMgr.exceptionButtonAccess   "б">
 <!ENTITY exceptionMgr.supplementalWarning     "Банкны эрх, худалдаа хийгч болон олон нийтийн хуудаснууд танаас үүнийг хийхийг асуухгүй байх болно.">
 <!ENTITY exceptionMgr.certlocation.caption2   "Сервер">
 <!ENTITY exceptionMgr.certlocation.url        "Байршил:">
@@ -136,3 +130,12 @@
 <!ENTITY exceptionMgr.certstatus.accesskey    "р">
 <!ENTITY exceptionMgr.permanent.label         "Энэ заалтыг үргэлж хадгал">
 <!ENTITY exceptionMgr.permanent.accesskey     "х">
+
+<!ENTITY certmgr.delete_builtin.label         "Устгах эсвэл итгэхгүй байх…">
+<!ENTITY certmgr.delete_builtin.accesskey     "D">
+
+<!ENTITY certmgr.edit3.accesskey "E">
+<!ENTITY certmgr.edit3.label "Итгэлд засвар хийх…">
+
+<!ENTITY exceptionMgr.exceptionButton.accesskey  "C">
+<!ENTITY exceptionMgr.exceptionButton.label "Хамгаалалтын тусгай жагсаалт шалгах">

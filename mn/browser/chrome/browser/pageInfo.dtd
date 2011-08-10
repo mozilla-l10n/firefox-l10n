@@ -99,6 +99,10 @@
 <!ENTITY  permInstall           "Өргөтгөл болон маяг суулга">
 <!ENTITY  permGeo               "Байршлаа мэдэгдэх">
 
+<!ENTITY  permIndexedDB         "Сүлжээнээс гарсан үеийн хадгалах газар зохицуулах">
+<!ENTITY  permClearStorage      "Хадгалах газар цэвэрлэх">
+<!ENTITY  permClearStorage.accesskey "C">
+
 <!ENTITY  securityTab           "Нууцлал">
 <!ENTITY  securityTab.accesskey "ц">
 <!ENTITY  securityHeader        "Энэ хуудасны нууцлалын мэдээлэл">

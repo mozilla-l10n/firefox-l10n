@@ -26,7 +26,6 @@
 <!ENTITY netInterrupt.title "Өгөгдлийн дамжуулалт тасарсан">
 <!ENTITY netInterrupt.longDesc "<p>Хөтлөгч амжилттай холбогдсон боловч өгөгдөл дамжуулж байх явцад холбоо тасарсан. Дахин оролдоно уу.</p><ul><li>Та өөр хуудас руу зорчиж чадаж байна уу? Компьютерийн сүлжээг шалгана уу.</li><li>Тэгээд ч хэвээрээ юу? Сүлжээ зохицуулагч эсвэл интернэт хангагч байгууллагаас тусламж авна уу.</li></ul>">
 
-<!ENTITY netOffline.longDesc "Хөтлөгч одоогоор салангид байгаагаас шаардсан хуудсанд холбогдож чадахгүй байна. Дахиж оролдохоосоо өмнө хөтлөгчийг холбогдсон горимд шилжүүлнэ үү.">
 <!ENTITY netOffline.title "Салангид байна Алдаа">
 
 <!ENTITY contentEncodingError.title "Бүтцийн хөрвүүлэлтийн алдаа">
@@ -76,11 +75,23 @@
 <!ENTITY phishingBlocked.title "Вэб хууралт хийгч сэжигтэй хуудас!">
 <!ENTITY phishingBlocked.longDesc "
 <p>Энэ хуудсанд хувийн мэдээллээ оруулбал хулгайлагдах юмуу буруу хэрэглэгдэх аюултай байж болзошгүй.</p>
-<p>Ийм хуудаснууд нь таны итгэлийг ашиглаж захианы хаяг юмуу хуудас хэрэглэж таныг хуурдаг.</p>
-">
+<p>Ийм хуудаснууд нь таны итгэлийг ашиглаж захианы хаяг юмуу хуудас хэрэглэж таныг хуурдаг.</p>">
 
 <!-- Include app-specific error messages - do not change this in localization!
      Some applications might override netErrorApp.dtd with their specific version,
      this inclusion needs to be intact for that approach to work correctly. -->
 <!ENTITY % netErrorAppDTD SYSTEM "chrome://global/locale/netErrorApp.dtd">
 %netErrorAppDTD;
+
+<!ENTITY cspFrameAncestorBlocked.title "Контенц хамгаалах бодлогын дагуу хаасан байна.">
+<!ENTITY cspFrameAncestorBlocked.longDesc "<p>Энэ хуудас нь контенц хамгаалах бодлогоор зөвшөөрөгдөөгүй аргаар ажиллаж буй болохоор хаасан байна.</p>">
+
+<!ENTITY remoteXUL.title "Холын XUL">
+<!ENTITY remoteXUL.longDesc "<p><ul><li>Энэ асуудалын талаар вэб сайт эрхлэгчд мэдэгдэнэ үү.</li></ul></p>">
+
+<!ENTITY corruptedContentError.title "Контенц илгээхэд гарсан алдаа">
+<!ENTITY corruptedContentError.longDesc "<p>Энэ хуудас нь илгээж байгаа өгөгдөлд алдаа илэрсний улмаас үзэх боломжшүй байна.</p><ul><li>Вэб сайтын эзэмшигчтэй хобоо барьж энэ асуудлын талаар мэдэгдэнэ үү.</li></ul>">
+
+<!ENTITY netOffline.longDesc2 "<p>Браузор нь сүлжээнд ороогүй байдлаас ажиллаж бөгөөд холбогдохыг хүссэн зүйлд холбох боломжгүй байна.</p><ul><li>Компьютер тань идэвхитэй сүлжээнд холбоотой байгаа юу?</li><li>Дахин оролдох гэсэн товч дээр дараад сүлжээнд холбогдоод хуудасыг дахин сэргээнэ үү.</li></ul>">
+
+
