@@ -5,6 +5,7 @@
 <!ENTITY stop.label "Stop">
 <!ENTITY go.label "Vai">
 <!ENTITY star.label "Stella">
+<!ENTITY showTabs.label "Visualizza schede">
 <!ENTITY newtab.label "Nuova scheda">
 <!ENTITY closetab.label "Chiudi scheda">
 <!ENTITY cut.label "Taglia">
@@ -56,6 +57,7 @@
 <!ENTITY bookmarkPopup.label "Segnalibro salvato">
 <!ENTITY bookmarkRemove.label "Elimina">
 <!ENTITY bookmarkEdit.label "Modifica">
+<!ENTITY bookmarkShortcut.label "Aggiungi alla schermata iniziale">
 <!ENTITY identity.unverifiedsite2 "Questo sito web non fornisce informazioni relative all'identità.">
 <!ENTITY identity.connectedTo2 "Connesso con">
 <!ENTITY identity.runBy2 "Gestito da">
@@ -84,6 +86,7 @@
 <!ENTITY contextFullScreen.label "A tutto schermo">
 <!ENTITY contextEditBookmark.label "Modifica">
 <!ENTITY contextRemoveBookmark.label "Elimina">
+<!ENTITY contextShortcutBookmark.label "Aggiungi alla schermata iniziale">
 <!ENTITY pageactions.saveas.pdf "Salva come PDF">
 <!ENTITY pageactions.share.page "Condividi pagina">
 <!ENTITY pageactions.password.forget "Dimentica password">
