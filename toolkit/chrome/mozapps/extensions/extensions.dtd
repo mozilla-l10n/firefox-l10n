@@ -1,14 +1,191 @@
-<!-- View labels -->
+<!ENTITY addons.windowTitle                   "Нэмэгдэл зүйлс зохицуулагч">
+<!ENTITY search.placeholder                   "Нийтэд нь хайх">
+<!ENTITY loading.label                        "Уншиж байна…">
+<!ENTITY listEmpty.installed.label            "Суулгасан нэмэгдэл зүйл байхгүй байна">
+<!ENTITY listEmpty.availableUpdates.label     "Шинэчлэл байхгүй байна">
+<!ENTITY listEmpty.recentUpdates.label        "Нэмэгдэл зүйлсийн шинэчлэл байхгүй байна.">
+<!ENTITY listEmpty.findUpdates.label          "Шинэчлэл байгаа эсэхийг шалгах">
+<!ENTITY listEmpty.search.label               "Таарах нэмэгдэл чадвар байхгүй байна">
+<!ENTITY listEmpty.button.label               "Нэмэгдэл чадварын талаар дэлгэрэнгүй харах">
+<!ENTITY installAddonFromFile.label           "Файлаас нэмэгдэл чадвах суулгах…">
+<!ENTITY installAddonFromFile.accesskey       "I">
+<!ENTITY toolsMenu.tooltip                    "Нэмэгдэл чадварын багаж">
 
-<!ENTITY cmd.disable.label                "Хорих">
-<!ENTITY cmd.disable.accesskey            "Х">
-<!ENTITY cmd.disable.tooltip              "&brandShortName; шинээр ачаалагдсан үед энэ нэмэгдлийг хорино">
+<!ENTITY cmd.back.tooltip                     "Хойшоо">
+<!ENTITY cmd.forward.tooltip                  "Урагшаа">
 
-<!-- Only displayed in the selected Add-on's context menu -->
-<!ENTITY cmd.about2.label                 "Энэ нэмэгдлийн тухай">
-<!ENTITY cmd.about.accesskey              "й">
+<!-- global warnings -->
+<!ENTITY warning.safemode.label                    "Аюулгүйн горимоос нэмэгдэл чадварыг нийтэд нь ашиглах боломжгүй.">
+<!ENTITY warning.checkcompatibility.label          "Нэмэгдэл чадвар шалгагчийг зогсоосон байна. Таарахгүй нэмэгдэл чадвар ашигласан байж магадгүй юм.">
 
-<!ENTITY eula.title                       "Хэрэглэгчийн ашиглах нөхцөл">
-<!ENTITY eula.width                       "560px">
-<!ENTITY eula.height                      "400px">
-<!ENTITY eula.accept                      "Зөвшөөрөөд суулга…">
+<!ENTITY warning.checkcompatibility.enable.label   "Цуцлах">
+<!ENTITY warning.checkcompatibility.enable.tooltip "Нэмэгдэл чадварын таарамжийг шалгагч чадварыг ашиглах">
+
+<!ENTITY warning.updatesecurity.label              "Нэмэгдэл чадварын шинэчлэлийн аюулгүй байдлыг шалгагч чадварыг ашиглаагүй байна. Нэмэгдэл чадварын шинэчлэл нь аюулгүй байдалд асуудал үүсгэж болзошгүй.">
+
+
+<!ENTITY warning.updatesecurity.enable.label       "Цуцлах">
+<!ENTITY warning.updatesecurity.enable.tooltip     "Нэмэгдэл чадварын шинэчлэлийн аюулгүй байдлыг шалгагч чадварыг ашиглах">
+
+<!-- global informations -->
+<!ENTITY info.plugincheck.label "Plug-in-ны сүүлийн хувилбар байгаа эсэхийг шалгах">
+<!ENTITY info.plugincheck.tooltip "Plug-in-ны сүүлийн хувилбар байгаа эсэхийг шалгах">
+
+
+<!-- categories / views -->
+<!ENTITY view.search.label                    "Хайх">
+<!ENTITY view.discover.label                  "Нэмэгдэл чадвар авах">
+<!ENTITY view.recentUpdates.label             "Сүүлд хийсэн шинэчлэл">
+<!ENTITY view.availableUpdates.label          "Хийгдэх боломжтой шинэчлэл">
+
+<!-- addon updates -->
+<!ENTITY updates.checkForUpdates.label        "Шинэчлэл шалгах">
+<!ENTITY updates.checkForUpdates.accesskey    "C">
+<!ENTITY updates.viewUpdates.label            "Сүүлийн үеийн шинэчлэл харах">
+<!ENTITY updates.viewUpdates.accesskey        "V">
+<!ENTITY updates.updateAddonsAutomatically.label     "Автомат шинэчлэл хийх">
+<!ENTITY updates.updateAddonsAutomatically.accesskey "A">
+<!ENTITY updates.resetUpdatesToAutomatic.label       "Шинэчлэлийг автоматаар хийхээр тохируулах">
+<!ENTITY updates.resetUpdatesToAutomatic.accesskey   "R">
+<!ENTITY updates.resetUpdatesToManual.label          "Шинэчлэлийг автоматаар бус хийхээр тохируулах">
+<!ENTITY updates.resetUpdatesToManual.accesskey      "R">
+<!ENTITY updates.updating.label               "Шинэчлэл хийгдэж байна">
+<!ENTITY updates.installed.label              "Шинэчлэл хийгдэж дуусав.">
+<!ENTITY updates.downloaded.label             "Нэмэгдэл чадварын шинэчлэлийг татан авч дууслаа.">
+
+<!ENTITY updates.restart.label                "Суулгацыг дуусгахын тулд дахин эхлүүлнэ үү.">
+
+<!ENTITY updates.noneFound.label              "Шинэчлэл байхгүй байна">
+<!ENTITY updates.manualUpdatesFound.label     "Суулгах боломжтой шинэчлэлийг харах">
+<!ENTITY updates.updateSelected.label         "Шинэчлэл суулгах">
+<!ENTITY updates.updateSelected.tooltip       "Жагсаалтанд байгаа суулгах боломжтой шинэчлэлийг суулгах">
+
+<!-- addon actions -->
+<!ENTITY cmd.showDetails.label                "Дэлгэрэнгүйг харах">
+<!ENTITY cmd.showDetails.accesskey            "S">
+<!ENTITY cmd.findUpdates.label                "Шинэчлэл хайх">
+<!ENTITY cmd.findUpdates.accesskey            "F">
+<!ENTITY cmd.preferencesWin.label             "Тохируулга">
+<!ENTITY cmd.preferencesWin.accesskey         "O">
+<!ENTITY cmd.preferencesUnix.label            "Тохируулга">
+<!ENTITY cmd.preferencesUnix.accesskey        "P">
+<!ENTITY cmd.about.label                      "Мэдээлэл">
+<!ENTITY cmd.about.accesskey                  "A">
+
+<!ENTITY cmd.enableAddon.label                "Ашиглах">
+<!ENTITY cmd.enableAddon.accesskey            "E">
+<!ENTITY cmd.disableAddon.label               "Ашиглахгүй байх">
+<!ENTITY cmd.disableAddon.accesskey           "D">
+<!ENTITY cmd.enableTheme.label                "Theme ашиглах">
+<!ENTITY cmd.enableTheme.accesskey            "W">
+<!ENTITY cmd.disableTheme.label               "Theme ашиглахгүй байх">
+<!ENTITY cmd.disableTheme.accesskey           "W">
+<!ENTITY cmd.installAddon.label               "Суулгах">
+<!ENTITY cmd.installAddon.accesskey           "I">
+<!ENTITY cmd.uninstallAddon.label             "Арилгах">
+<!ENTITY cmd.uninstallAddon.accesskey         "R">
+<!ENTITY cmd.showPreferencesWin.label         "Тохируулга">
+<!ENTITY cmd.showPreferencesWin.tooltip       "Нэмэгдэл чадварын тохиргоо өөрчлөх">
+<!ENTITY cmd.showPreferencesUnix.label        "Тохируулга">
+<!ENTITY cmd.showPreferencesUnix.tooltip      "Нэмэгдэл чадварын тохиргоо өөрчлөх">
+<!ENTITY cmd.contribute.label                 "Оролцох">
+<!ENTITY cmd.contribute.accesskey             "C">
+<!ENTITY cmd.contribute.tooltip               "Нэмэгдэл чадвар бүтээхэд оролцох">
+
+<!ENTITY cmd.showReleaseNotes.label           "Бүтээгдэхүүний танилцуулга харах">
+<!ENTITY cmd.showReleaseNotes.tooltip         "Энэ шинэчлэлийн танилцуулга харах">
+<!ENTITY cmd.hideReleaseNotes.label           "Бүтээгдэхүүний танилцуулга харагдахгүй болгох">
+<!ENTITY cmd.hideReleaseNotes.tooltip         "Энэ шинэчлэлийн танилцуулга харагдахгүй болгох">
+
+<!-- discovery view -->
+<!-- LOCALIZATION NOTE (discover.title,discover.description,discover.footer):
+     Displayed in the center of the Get Add-ons view, see bug 601143 for mockups. -->
+<!ENTITY discover.title                       "Нэмэгдэл чадварын танилцуулга">
+<!ENTITY discover.description2                "Нэмэгдэл чадвар нь &brandShortName;-г та бүгд сонирхолдоо нийцүүлэн өөрчилж болох чадварыг хангаж өгдөг програм буюу theme юм.">
+
+<!ENTITY discover.footer                      "Интернэтд холбоотой байх үед хамгийн сүүлийн үеийн санал болгож байгаа нэмэгдэл чадварын танилцуулгыг өгөх болно.">
+<!-- detail view -->
+<!ENTITY detail.version.label                 "Хувилбар">
+<!ENTITY detail.lastupdated.label             "Сүүлд шинэчилсэн өдөр">
+<!ENTITY detail.creator.label                 "Бүтээгч">
+<!ENTITY detail.homepage.label                "Homepage">
+<!ENTITY detail.numberOfDownloads.label       "Татац">
+
+<!ENTITY detail.contributions.description     "Энэ нэмэгдэл чадварыг бүтээсэн бүтээгчид цаашдын бүтээлд нь туслалцаа үзүүлэх боломжтой.">
+
+<!ENTITY detail.updateType                    "Автоматаар шинэчлэл хийх">
+<!ENTITY detail.updateDefault.label           "Үндсэн тохиргоо">
+<!ENTITY detail.updateDefault.tooltip         "Үндсэн тохиргоонд байх үед шинэчлэлийг автоматаах суулгах">
+<!ENTITY detail.updateAutomatic.label         "Ашиглах">
+<!ENTITY detail.updateAutomatic.tooltip       "Шинэчлэлийн автоматаар суулгахаар тохируулах">
+<!ENTITY detail.updateManual.label            "Зогсоох">
+<!ENTITY detail.updateManual.tooltip          "Шинэчлэлийн автоматаар суухгүй байхаар тохируулах">
+<!ENTITY detail.home                          "Homepage">
+<!ENTITY detail.repository                    "Нэмэгдэл чадварын хувийн тохируулга">
+<!ENTITY detail.size                          "Хэмжээ">
+
+<!ENTITY detail.checkForUpdates.label         "Шинэчлэл шалгах">
+<!ENTITY detail.checkForUpdates.accesskey     "F">
+<!ENTITY detail.checkForUpdates.tooltip       "Одоогийн нэмэгдэл чадварын шинэчлэл шалгах">
+<!ENTITY detail.showPreferencesWin.label      "Тохиргоо">
+<!ENTITY detail.showPreferencesWin.accesskey  "O">
+<!ENTITY detail.showPreferencesWin.tooltip    "Нэмэгдэл чадварын тохиргоо өөрчлөх">
+<!ENTITY detail.showPreferencesUnix.label     "Тохиргоо">
+<!ENTITY detail.showPreferencesUnix.accesskey "P">
+<!ENTITY detail.showPreferencesUnix.tooltip   "Нэмэгдэл чадварын тохиргоо өөрчлөх">
+
+<!-- ratings -->
+<!ENTITY rating2.label                         "Үнэлгээ">
+
+<!-- download/install progress -->
+<!ENTITY progress.pause.tooltip               "Зогсоох">
+<!ENTITY progress.cancel.tooltip              "Цуцлах">
+
+<!-- list sorting -->
+<!ENTITY sort.name.label                      "Нэр">
+<!ENTITY sort.name.tooltip                    "Нэрийн дарааллаар жагсаах">
+<!ENTITY sort.dateUpdated.label               "Хамгийн сүүлд шинэчилсэн өдөр">
+<!ENTITY sort.dateUpdated.tooltip             "Хамгийн сүүлд шинэчилсэн өдрийн дарааллаар жагсаах">
+<!ENTITY sort.relevance.label                 "Хайлтын үр дүн">
+<!ENTITY sort.relevance.tooltip               "Хамгийн тохиромжтой үр дүн">
+<!ENTITY sort.price.label                     "Үнэ">
+<!ENTITY sort.price.tooltip                   "Үнийн дарааллаар жагсаах">
+
+<!ENTITY search.filter2.label                 "Хайх:">
+<!ENTITY search.filter2.installed.label       "Суулгагдсан зүйлсийн жагсаалт">
+<!ENTITY search.filter2.installed.tooltip     "Суулгагдсан нэмэгдэл чадварын жагсаалт">
+<!ENTITY search.filter2.available.label       "Ашиглах боломжтой нэмэгдэл чадварын жагсаалт">
+<!ENTITY search.filter2.available.tooltip     "Суулгах боломжтой нэмэгдэл чадварын жагсаалт">
+
+<!ENTITY addon.homepage                       "Homepage">
+<!ENTITY addon.details.label                  "Дэлгэрэнгүйг харах">
+<!ENTITY addon.details.tooltip                "Нэмэгдэл чадварын талаарх дэлгэрэнгүй мэдээлэл харах">
+
+<!ENTITY addon.unknownDate                    "Үл мэдэгдэл">
+<!ENTITY addon.disabled.postfix               "(Ашиглагдаагүй)">
+<!-- LOCALIZATION NOTE (addon.update.postfix): This is used to signify that an item is an update, in the form "Addon v1.0 Update" -->
+<!ENTITY addon.update.postfix                 "Шинэчлэх">
+<!ENTITY addon.undoAction.label               "Хийхийг болих">
+<!ENTITY addon.undoAction.tooltip             "Энэ үйлдэлийг хийхийг болиулах">
+<!ENTITY addon.undoRemove.label               "Хийхийг цуцлах">
+<!ENTITY addon.undoRemove.tooltip             "Энэ нэмэгдэл чадварын суултыг хадгалах">
+<!ENTITY addon.restartNow.label               "Дахин эхлүүлэх">
+<!ENTITY addon.install.label                  "Суулгах">
+<!ENTITY addon.install.tooltip                "Энэ нэмэгдэл чадварыг суулгах">
+<!ENTITY addon.updateNow.label                "Шинэчлэх">
+<!ENTITY addon.updateNow.tooltip              "Энэ нэмэгдэл чадварыг шинэчлэх">
+<!ENTITY addon.includeUpdate.label            "Шинэчлэлд багтаж буй зүйлс">
+<!ENTITY addon.updateAvailable.label          "Шинэчлэлийг ашиглах боломжтой">
+<!ENTITY addon.checkingForUpdates.label       "Шинэчлэлийг шалгах…">
+<!ENTITY addon.releaseNotes.label             "Бүтээгдэхүүний танилцуулга:">
+<!ENTITY addon.loadingReleaseNotes.label      "Уншиж байна…">
+<!ENTITY addon.errorLoadingReleaseNotes.label "Уучилаарай. Бүтээгдэхүүний танилцуулга унших явцад алдаа гарлаа.">
+
+<!ENTITY addon.createdBy.label                "- ">
+
+<!ENTITY eula.title                           "Энгийн хэрэглэгчийн гэрээ">
+<!ENTITY eula.width                           "560px">
+<!ENTITY eula.height                          "400px">
+<!ENTITY eula.accept                          "Зөвшөөрөх болон суулгах…">
+
+<!ENTITY settings.path.button.label           "Хайж үзэх…">
