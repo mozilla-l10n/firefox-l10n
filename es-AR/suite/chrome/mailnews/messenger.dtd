@@ -274,6 +274,8 @@
 <!ENTITY pageSourceCmd.accesskey "u">
 <!ENTITY pageSourceCmd.key "u">
 
+<!ENTITY findCmd.label "Buscar en este mensaje…">
+
 <!-- Go Menu -->
 
 <!ENTITY goMenu.label "Ir">
