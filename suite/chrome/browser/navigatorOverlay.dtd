@@ -18,6 +18,9 @@
 <!ENTITY printSetupCmd.label "Configuración de página…">
 <!ENTITY printSetupCmd.accesskey "u">
 
+<!-- Edit Menu -->
+<!ENTITY findOnCmd.label "Buscar en esta página…">
+
 <!-- View Menu -->
 <!ENTITY toolbarsCmd.label "Mostrar/Ocultar">
 <!ENTITY toolbarsCmd.accesskey "M">
