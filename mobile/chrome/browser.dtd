@@ -57,6 +57,7 @@
 <!ENTITY bookmarkPopup.label "Página añadida a marcadores">
 <!ENTITY bookmarkRemove.label "Eliminar">
 <!ENTITY bookmarkEdit.label "Editar">
+<!ENTITY bookmarkShortcut.label "Añadir a la pantalla de inicio">
 <!ENTITY identity.unverifiedsite2 "Este sitio web no proporciona información de identidad.">
 <!ENTITY identity.connectedTo2 "Conectado a">
 <!ENTITY identity.runBy2 "que pertenece a">
