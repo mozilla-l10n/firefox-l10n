@@ -31,9 +31,3 @@
 
 <!ENTITY  savedPasswords.label            "Нууц үгсийг харуул…">
 <!ENTITY  savedPasswords.accesskey        "х">
-
-<!ENTITY  warnings.label                "Анхааруулах мэдэгдэл">
-
-<!ENTITY  chooseWarnings.label          "Таныг вэб хуудсанд зорчих үед харуулах анхааруулгын мэдэгдлийг сонгоно уу">
-<!ENTITY  warningSettings.label         "Тохируулга…">
-<!ENTITY  warningSettings.accesskey     "о">

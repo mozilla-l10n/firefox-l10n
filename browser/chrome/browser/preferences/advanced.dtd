@@ -29,15 +29,7 @@
 <!ENTITY connectionSettings.label        "Тохируулга…">
 <!ENTITY connectionSettings.accesskey    "а">
 <!ENTITY offlineStorage.label            "Салангид үеийн хадгалалт">
-<!-- LOCALIZATION NOTE:                                   
-  The entities useCacheBefore.label and useCacheAfter.label appear on a single
-  line in preferences as follows:
-  &useCacheBefore.label  [ textbox for cache size in MB ]   &useCacheAfter.label;
--->
 
-<!ENTITY useCacheBefore.label            "Түр хадгалагчид">
-<!ENTITY useCacheBefore.accesskey        "р">
-<!ENTITY useCacheAfter.label             "MБ хэмжээ зориул">
 <!ENTITY clearCacheNow.label             "Одоо цэвэрлэ">
 <!ENTITY clearCacheNow.accesskey         "д">
 
@@ -45,8 +37,6 @@
 <!ENTITY autoCheck.label                 "Автоматаар шалгах зүйлс:">
 <!ENTITY enableAppUpdate.label           "&brandShortName;">
 <!ENTITY enableAppUpdate.accesskey       "F">
-<!ENTITY enableAddonsUpdate.label         "Суугдсан нэмэгдлүүд">
-<!ENTITY enableAddonsUpdate.accesskey    "э">
 <!ENTITY enableSearchUpdate.label        "Интернэтэд хайлт хийгчид">
 <!ENTITY enableSearchUpdate.accesskey    "р">
 
@@ -92,3 +82,20 @@
 <!ENTITY viewSecurityDevices.label       "Нууцлалын төхөөрөмж">
 <!ENTITY viewSecurityDevices.accesskey   "ц">
 
+<!ENTITY allowHWAccel.label              "Боломжтой бол hardware хурдасгал ашиглах">
+<!ENTITY allowHWAccel.accesskey          "v">
+
+<!ENTITY enableAddonsUpdate2.label       "Нэмэгдэл зүйлс">
+<!ENTITY enableAddonsUpdate2.accesskey   "A">
+
+<!ENTITY limitCacheSizeAfter.label       "MB зай">
+
+<!ENTITY limitCacheSizeBefore.label      "Хэмжээний хязгаарлалт">
+<!ENTITY limitCacheSizeBefore.accesskey  "L">
+<!ENTITY overrideSmartCacheSize.label    "Автомат cache хэмжээг зохицуулах">
+<!ENTITY overrideSmartCacheSize.accesskey "O">
+<!ENTITY submitCrashes.label             "Алдааны мэдээлэлийг илгээх">
+<!ENTITY submitCrashes.accesskey         "r">
+
+<!ENTITY submitTelemetry.label           "Үзүүлэлтийн мэдээллийг илгээх">
+<!ENTITY submitTelemetry.accesskey       "P">

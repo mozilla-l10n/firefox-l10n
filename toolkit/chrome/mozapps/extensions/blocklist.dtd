@@ -8,3 +8,5 @@
 
 <!ENTITY blocklist.accept.label      "&brandShortName;-г шинээр ачаал">
 <!ENTITY blocklist.accept.accesskey  "ш">
+<!ENTITY blocklist.blocked.label     "Хорьсон байна">
+<!ENTITY blocklist.checkbox.label    "Ашиглахгүй">
