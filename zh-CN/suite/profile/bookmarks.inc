@@ -8,7 +8,7 @@
 
 #define personal_toolbarfolder 个人工具栏文件夹
 
-#define seamonkey_and_mozilla SeaMonkey 与 Mozilla
+#define seamonkey_and_mozilla SeaMonkey 与 Mozilla
 
 # LOCALIZATION NOTE (seamonkey):
 # link title for http://www.seamonkey-project.org/ (in the personal toolbar)
@@ -16,7 +16,7 @@
 
 # LOCALIZATION NOTE (seamonkey_long):
 # link title for http://www.seamonkey-project.org/ (in normal bookmarks)
-#define seamonkey_long SeaMonkey 项目
+#define seamonkey_long SeaMonkey 项目
 
 # LOCALIZATION NOTE (mozilla_org):
 # link title for http://www.mozilla.org/ (in the personal toolbar)
@@ -24,25 +24,25 @@
 
 # LOCALIZATION NOTE (mozilla_org_long):
 # link title for http://www.mozilla.org/ (in normal bookmarks)
-#define mozilla_org_long Mozilla 组织
+#define mozilla_org_long Mozilla 组织
 
 # LOCALIZATION NOTE (mozilla_projects):
 # link title for http://www.mozilla.org/projects/
-#define mozilla_projects Mozilla 项目
+#define mozilla_projects Mozilla 项目
 
 # LOCALIZATION NOTE (mozilla_about):
 # link title for http://www.mozilla.org/about/
-#define mozilla_about 关于 Mozilla
+#define mozilla_about 关于 Mozilla
 
-#define extend_seamonkey 扩展 SeaMonkey
+#define extend_seamonkey 扩展 SeaMonkey
 
 # LOCALIZATION NOTE (seamonkey_addons):
 # link title for https://addons.mozilla.org/en-US/seamonkey/
-#define seamonkey_addons SeaMonkey 附加组件
+#define seamonkey_addons SeaMonkey 附加组件
 
 # LOCALIZATION NOTE (seamonkey_themes):
 # link title for https://addons.mozilla.org/en-US/seamonkey/themes
-#define seamonkey_themes SeaMonkey 主题
+#define seamonkey_themes SeaMonkey 主题
 
 # LOCALIZATION NOTE (seamonkey_dictionaries):
 # link title for https://addons.mozilla.org/en-US/seamonkey/dictionaries
@@ -50,7 +50,7 @@
 
 # LOCALIZATION NOTE (seamonkey_plugins):
 # link title for https://addons.mozilla.org/en-US/seamonkey/plugins
-#define seamonkey_plugins SeaMonkey 插件
+#define seamonkey_plugins SeaMonkey 插件
 
 # LOCALIZATION NOTE (mozdev):
 # link title for http://www.mozdev.org/
@@ -58,13 +58,13 @@
 
 # LOCALIZATION NOTE (mozdev_seamonkey):
 # link title for http://www.mozdev.org/projects/applications/SeaMonkey.html
-#define mozdev_seamonkey 来自 mozdev.org 的 SeaMonkey 扩展
+#define mozdev_seamonkey mozdev.org 上的 SeaMonkey 扩展
 
-#define community_support 社区&amp;支持
+#define community_support 社区与支持
 
 # LOCALIZATION NOTE (seamonkey_community):
 # link title for http://www.seamonkey-project.org/community
-#define seamonkey_community SeaMonkey 社区
+#define seamonkey_community SeaMonkey 社区
 
 # LOCALIZATION NOTE (mozillazine):
 # link title for http://www.mozillazine.org/
@@ -72,7 +72,7 @@
 
 # LOCALIZATION NOTE (seamonkey_support):
 # link title for the mozillaZine SeaMonkey Support forum
-#define seamonkey_support SeaMonkey 支持论坛 (mozillaZine)
+#define seamonkey_support mozillaZine 上的 SeaMonkey 支持论坛
 
 # LOCALIZATION NOTE (seamonkey_l10n):
 # insert full bookmark line for localized SeaMonkey page (personal toolbar)

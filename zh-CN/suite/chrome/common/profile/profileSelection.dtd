@@ -38,7 +38,7 @@
 
  ***** END LICENSE BLOCK ***** -->
 
-<!ENTITY            windowTitle.label    "选择用户分布图">
+<!ENTITY            windowTitle.label    "选择用户配置文件">
 <!ENTITY            profileManager.title "&brandShortName; 配置文件管理器">
 
 <!ENTITY            manage.label     "管理配置文件">
