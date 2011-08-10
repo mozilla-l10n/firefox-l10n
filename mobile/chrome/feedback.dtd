@@ -5,10 +5,7 @@
 <!ENTITY feedback.feedback.good         "Boa">
 <!ENTITY feedback.feedback.bad          "Mala">
 
-<!ENTITY feedback.information.title     "Máis información">
-<!ENTITY feedback.about.title           "Sobre esta beta">
-<!ENTITY feedback.about.button          "Ir á páxina">
-
 <!ENTITY feedback.tools.title           "Ferramentas">
+<!ENTITY feedback.allowTelemetry.title  "Enviar os datos de rendemento">
 <!ENTITY feedback.forceCompat.title     "Forzar a compatibilidade dos complementos">
 <!ENTITY feedback.errorConsole.title    "Activar a consola de erros">
