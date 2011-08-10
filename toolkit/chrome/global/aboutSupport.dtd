@@ -1,7 +1,7 @@
 <!ENTITY aboutSupport.pageTitle "Асуудал шийдвэрлэх мэдээлэл">
 
 <!-- LOCALIZATION NOTE (aboutSupport.pageSubtitle): don't change the 'supportLink' id. -->
-<!ENTITY aboutSupport.pageSubtitle " Энэ хуудас нь танд тулгарсан асуудалыг шийдвэрлэхэд чинь тус болох мэдээллийг агуулсан байгаа. Хэрэв та &brandShortName;-н асуудалыг шийдвэрлэхээр хариу хайж байгаа бол <a id='supportLink'> хэрэглэгчийг дэмжих сайт</a>д хандахыг хүсье.
+<!ENTITY aboutSupport.pageSubtitle " Энэ хуудас нь танд тулгарсан асуудалыг шийдвэрлэхэд чинь тус болох мэдээллийг агуулсан байгаа. Хэрэв та &brandShortName;-н асуудалыг шийдвэрлэхээр хариу хайж байгаа бол <a id='supportLink'> хэрэглэгчийг дэмжих сайт</a>д хандахыг хүсье.">
 
 
 <!ENTITY aboutSupport.extensionsTitle "Өргөтгөх чадвар">
