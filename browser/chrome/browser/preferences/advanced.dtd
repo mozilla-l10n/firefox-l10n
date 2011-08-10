@@ -97,4 +97,5 @@
 <!ENTITY submitCrashes.label             "Алдааны мэдээлэлийг илгээх">
 <!ENTITY submitCrashes.accesskey         "r">
 
-
+<!ENTITY submitTelemetry.label           "Үзүүлэлтийн мэдээллийг илгээх">
+<!ENTITY submitTelemetry.accesskey       "P">

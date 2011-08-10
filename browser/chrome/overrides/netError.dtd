@@ -179,4 +179,5 @@ netError.xhtml) because it exposes functionality specific to firefox. -->
 
 <!ENTITY remoteXUL.title "Холын XUL">
 <!ENTITY remoteXUL.longDesc "<p><ul><li>Энэ асуудалын талаар вэб сайт эрхлэгчд мэдэгдэнэ үү.</li></ul></p>">
-
+<!ENTITY corruptedContentError.title "Контенц илгээхэд гарсан алдаа">
+<!ENTITY corruptedContentError.longDesc "<p>Энэ хуудас нь илгээж байгаа өгөгдөлд алдаа илэрсний улмаас үзэх боломжшүй байна.</p><ul><li>Вэб сайтын эзэмшигчтэй хобоо барьж энэ асуудлын талаар мэдэгдэнэ үү.</li></ul>">
