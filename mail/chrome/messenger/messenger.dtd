@@ -258,6 +258,8 @@
 <!ENTITY bodySanitized.accesskey "E">
 <!ENTITY bodyAsPlaintext.label "Vanlig text">
 <!ENTITY bodyAsPlaintext.accesskey "V">
+<!ENTITY bodyAllParts.label "Alla meddelandedelar">
+<!ENTITY bodyAllParts.accesskey "A">
 
 <!ENTITY bodyMenuFeed.label "Flödesmeddelandetext som">
 <!ENTITY bodyMenuFeed.accesskey "F">
