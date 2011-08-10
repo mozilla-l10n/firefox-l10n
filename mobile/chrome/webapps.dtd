@@ -3,4 +3,4 @@
 <!ENTITY webapps.perm.geolocation "Navigazione geolocalizzata">
 <!ENTITY webapps.perm.offline "Archiviazione dati non in linea">
 <!ENTITY webapps.perm.notifications "Notifiche desktop">
-<!ENTITY webapps.perm.requested "richiesto">
+<!ENTITY webapps.perm.requestedHint "(richiesto)">

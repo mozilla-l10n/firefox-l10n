@@ -3,9 +3,7 @@
 <!ENTITY feedback.feedback.title "Invia feedback">
 <!ENTITY feedback.feedback.good "Bene">
 <!ENTITY feedback.feedback.bad "Male">
-<!ENTITY feedback.information.title "Ulteriori informazioni">
-<!ENTITY feedback.about.title "Su questa beta">
-<!ENTITY feedback.about.button "Vai alla pagina">
 <!ENTITY feedback.tools.title "Strumenti">
+<!ENTITY feedback.allowTelemetry.title "Invia dati sulle prestazioni">
 <!ENTITY feedback.forceCompat.title "Forza compatibilità comp.agg.">
 <!ENTITY feedback.errorConsole.title "Attiva console errori">
