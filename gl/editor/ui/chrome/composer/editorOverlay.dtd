@@ -91,17 +91,6 @@
 <!ENTITY pasteAsQuotationCmd.accesskey "r">
 <!ENTITY pasteAsQuotationCmd.key "o">
 <!ENTITY findCmd.label "Localizar e substituír…">
-<!ENTITY findCmd.accesskey "L">
-<!ENTITY findCmd.key "F">
-<!ENTITY findCmd.key2 "VK_F19">
-<!ENTITY findAgainCmd.label "Localizar de novo">
-<!ENTITY findAgainCmd.accesskey "n">
-<!ENTITY findAgainCmd.key "G">
-<!ENTITY findAgainCmd.key2 "VK_F3">
-<!ENTITY findPrevCmd.label "Localizar anterior">
-<!ENTITY findPrevCmd.accesskey "a">
-<!ENTITY findPrevCmd.key "G">
-<!ENTITY findPrevCmd.key2 "VK_F3">
 <!ENTITY enableInlineSpellChecker.label "Verificar ortografía mentres escribe">
 <!ENTITY enableInlineSpellChecker.accesskey "e">
 <!ENTITY checkSpellingCmd2.label "Verificación ortográfica">
