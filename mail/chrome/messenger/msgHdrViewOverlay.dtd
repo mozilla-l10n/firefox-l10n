@@ -62,6 +62,7 @@
 <!ENTITY editMessageButton.label "Redigera…">
 <!ENTITY hdrArchiveButton.label "arkivera">
 <!ENTITY hdrArchiveButton.tooltip "arkivera meddelandet">
+<!ENTITY hdrSmartReplyButton.label "svara smart">
 <!ENTITY hdrReplyButton.label "svara">
 <!ENTITY hdrReplyButton.tooltip "besvara meddelandet">
 <!ENTITY hdrReplyAllButton.label "svara alla">
