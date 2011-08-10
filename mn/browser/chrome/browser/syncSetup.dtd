@@ -110,4 +110,5 @@
 <!ENTITY setup.successPage.title   "Тохилуулга хийгдэв">
 <!ENTITY changeOptions.label "Энэ тохируулгыг доорхи Sync Option-г сонгосноор өөрчлөх боломжтой.">
 <!ENTITY continueUsing.label "&brandShortName;-г үргэлжилүүлэн ашиглах боломжтой.">
-
+<!ENTITY setup.choosePassword.label      "Нууц үг сонгох">
+<!ENTITY setup.choosePassword.accesskey  "P">
