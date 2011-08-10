@@ -68,6 +68,7 @@
 <!ENTITY bookmarkPopup.label       "Bokmärkt sida">
 <!ENTITY bookmarkRemove.label      "Ta bort">
 <!ENTITY bookmarkEdit.label        "Redigera">
+<!ENTITY bookmarkShortcut.label    "Lägg till i startskärm">
 
 <!ENTITY identity.unverifiedsite2 "Webbplatsen har inte presenterat några identitetsuppgifter.">
 <!ENTITY identity.connectedTo2 "Ansluten till">
