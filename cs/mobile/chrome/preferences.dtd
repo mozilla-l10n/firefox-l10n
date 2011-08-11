@@ -5,7 +5,6 @@
 <!ENTITY reflowZoom.title "Přeformátovat text při změně velikosti">
 <!ENTITY showImages.title "Zobrazit obrázky">
 <!ENTITY enableJavaScript.title "Povolit JavaScript">
-<!ENTITY enablePlugins.title "Povolit moduly">
 <!ENTITY privacy.title "Soukromí a bezpečnost">
 <!ENTITY allowCookies.title "Povolit cookies">
 <!ENTITY doNotTrack.title "Informovat servery, že nechci být sledován">
@@ -20,4 +19,4 @@
 <!ENTITY homepage.none "Prázná stránka">
 <!ENTITY homepage.default "&brandShortName; start">
 <!ENTITY homepage.currentpage "Aktuální stránka">
-<!ENTITY showCharset.title "Zobrazit znakovou sadu">
+<!ENTITY showCharsetEncoding.title "Zobrazit znakovou sadu">
