@@ -64,7 +64,7 @@
 <!ENTITY enableAddonsUpdate2.label       "附加元件">
 <!ENTITY enableAddonsUpdate2.accesskey   "n">
 <!ENTITY enableSearchUpdate.label        "搜尋引擎">
-<!ENTITY enableSearchUpdate.accesskey    "h">
+<!ENTITY enableSearchUpdate.accesskey    "e">
 <!ENTITY whenUpdatesFound.label          "找到 &brandShortName; 的更新檔時:">
 <!ENTITY askMe.label                     "詢問我要怎麼處理">
 <!ENTITY askMe.accesskey                 "k">
