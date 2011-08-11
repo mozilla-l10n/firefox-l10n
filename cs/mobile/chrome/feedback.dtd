@@ -5,10 +5,6 @@
 <!ENTITY feedback.feedback.good "Dobrý">
 <!ENTITY feedback.feedback.bad "Špatný">
 
-<!ENTITY feedback.information.title "Více informací">
-<!ENTITY feedback.about.title "O této betě">
-<!ENTITY feedback.about.button "Přejít na stránku">
-
 <!ENTITY feedback.tools.title "Nástroje">
 <!ENTITY feedback.allowTelemetry.title "Odesílat data o výkonnosti">
 <!ENTITY feedback.forceCompat.title "Vynutit kompatibilitu doplňků">
