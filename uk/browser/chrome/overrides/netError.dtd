@@ -39,14 +39,9 @@
 <!ENTITY netInterrupt.longDesc "&sharedLongDesc;">
 
 <!ENTITY netOffline.title "Автономний режим">
-<!-- LOCALIZATION NOTE (netOffline.overrideLongDesc) - This string should
-     indicate that "Work Offline" is a menu item without being too specific,
-     since it could be in either the normal menu (Mac/Linux) or the Firefox button
-     menu (Windows).
--->
-<!ENTITY netOffline.overrideLongDesc "
+<!ENTITY netOffline.longDesc2 "
 <ul>
-  <li>Зніміть пташку з пункту меню «Працювати Автономно» та спробуйте знову.</li>
+  <li>Натисніть «Спробувати знову» щоб перемкнутись в онлайновий режим і перезавантажити сторінку.</li>
 </ul>
 ">
 
@@ -123,6 +118,11 @@
 
 <!ENTITY cspFrameAncestorBlocked.title "Блоковано політикою безпеки вмісту">
 <!ENTITY cspFrameAncestorBlocked.longDesc "<p>&brandShortName; не дозволив цій сторінці завантажитись цим чином, бо вона має політику безпеки вмісту котра це забороняє.</p>">
+
+<!ENTITY corruptedContentError.title "Пошкоджений вміст">
+<!ENTITY corruptedContentError.longDesc "
+<p>Сторінка, котру ви намагаєтесь переглянути, не може бути показана — у передачі даних помічена помилка.</p>
+<ul><li>Будь ласка, повідомте власнику сайта про цю проблему.</li></ul>">
 
 <!ENTITY securityOverride.linkText "Або ви можете зробити виняток…">
 <!ENTITY securityOverride.getMeOutOfHereButton "Заберіть мене звідси">
