@@ -50,7 +50,7 @@
 <!ENTITY object.del.accesskey   "o">
 
 <!ENTITY object.reset.label     "Palauta oletusarvot">
-<!ENTITY object.reset.hint      "Palauttaa tämän kohteen asetukset oletuksiinsa">
+<!ENTITY object.reset.hint      "Palauttaa tämän kohteen asetukset oletusarvoihinsa">
 <!ENTITY object.reset.accesskey "a">
 
 <!ENTITY dialog.apply   "Käytä">
