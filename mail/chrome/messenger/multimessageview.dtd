@@ -1,4 +1,4 @@
-<!ENTITY window.title             "Message Summary">
-<!ENTITY selectedmessages.label   "Selected Messages">
-<!ENTITY archive.label            "archive">
-<!ENTITY delete.label             "delete">
+<!ENTITY window.title             "ਸੁਨੇਹਾ ਸੰਖੇਪ">
+<!ENTITY selectedmessages.label   "ਚੁਣੇ ਸੁਨੇਹੇ">
+<!ENTITY archive.label            "ਅਕਾਇਵ ਕਰੋ">
+<!ENTITY delete.label             "ਹਟਾਓ">

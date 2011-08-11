@@ -34,10 +34,10 @@
    -
    - ***** END LICENSE BLOCK ***** -->
 
-<!ENTITY providerUninstall.title                           "Uninstall a Provider">
+<!ENTITY providerUninstall.title                           "ਪਰੋਵਾਇਡਰ ਅਣ-ਇੰਸਟਾਲ ਕਰੋ">
 <!ENTITY providerUninstall.accept.label                    "Unsubscribe Selected">
 <!ENTITY providerUninstall.accept.accesskey                "U">
-<!ENTITY providerUninstall.cancel.label                    "Keep Addon">
+<!ENTITY providerUninstall.cancel.label                    "ਐਡ-ਆਨ ਰੱਖੋ">
 <!ENTITY providerUninstall.cancel.accesskey                "K">
 <!ENTITY providerUninstall.preName.label                   "You have requested to uninstall or disable:">
 <!ENTITY providerUninstall.postName.label                  "This will cause the calendars below to be disabled.">

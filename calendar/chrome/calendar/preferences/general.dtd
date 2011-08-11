@@ -49,6 +49,3 @@
 <!ENTITY pref.defaultlength.accesskey "E">
 <!ENTITY pref.defaultsnoozelength.label "ਮੂਲ ਸ਼ਾਂਤ (snooze) ਲੰਬਾਈ:" >
 <!ENTITY pref.defaultsnoozelength.accesskey "S">
-<!ENTITY pref.refreshbox.label "ਸੈਟਿੰਗ ਤਾਜ਼ਾ" >
-<!ENTITY pref.autorefresh.label "ਕੈਲੰਡਰ ਤਾਜ਼ਾ ਹਰੇਕ" >
-<!ENTITY pref.autorefresh.accesskey "R" >
