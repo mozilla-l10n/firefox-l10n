@@ -80,12 +80,12 @@
 <!ENTITY pref.calendar.advanced.update.showHistory.accesskey "U">
 
 <!-- Encryption -->
-<!ENTITY pref.calendar.advanced.encryption.protocols.label "Protocols">
+<!ENTITY pref.calendar.advanced.encryption.protocols.label "ਪਰੋਟੋਕਾਲ">
 <!ENTITY pref.calendar.advanced.encryption.useSSL3.label "Use SSL 3.0">
 <!ENTITY pref.calendar.advanced.encryption.useSSL3.accesskey "3">
 <!ENTITY pref.calendar.advanced.encryption.useTLS1.label "Use TLS 1.0">
 <!ENTITY pref.calendar.advanced.encryption.useTLS1.accesskey "1">
-<!ENTITY pref.calendar.advanced.encryption.certificates.label "Certificates">
+<!ENTITY pref.calendar.advanced.encryption.certificates.label "ਸਰਟੀਫਿਕੇਟ">
 <!ENTITY pref.calendar.advanced.encryption.certSelection.description "When a server requests my personal certificate:">
 <!ENTITY pref.calendar.advanced.encryption.certs.auto "Select one automatically">
 <!ENTITY pref.calendar.advanced.encryption.certs.auto.accesskey "l">
