@@ -61,8 +61,8 @@
 <!ENTITY  dontrememberActions.clearHistory.label "вичистити всю поточну історію">
 <!ENTITY  dontrememberActions.post.label         ".">
 
-<!ENTITY  privateBrowsingPermanent.label "Завжди використовувати потайливий режим">
-<!ENTITY  privateBrowsingPermanent.accesskey "З">
+<!ENTITY  privateBrowsingPermanent2.label "Завжди використовувати потайливий режим">
+<!ENTITY  privateBrowsingPermanent2.accesskey "З">
 
 <!ENTITY  rememberHistory.label      "Пам’ятати мою історію переглядів">
 <!ENTITY  rememberHistory.accesskey  "п">
