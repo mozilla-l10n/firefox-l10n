@@ -525,6 +525,9 @@ you can use these alternative items. Otherwise, their values should be empty.  -
 <!ENTITY bidiSwitchTextDirectionItem.accesskey    "w">
 <!ENTITY bidiSwitchTextDirectionItem.commandkey   "X">
 
+<!ENTITY getMoreDevtoolsCmd.label        "और औज़ार पाएँ">
+<!ENTITY getMoreDevtoolsCmd.accesskey    "M">
+
 <!ENTITY findOnCmd.label     "इस पृष्ठ में ढूँढ़ें…">
 <!ENTITY findOnCmd.accesskey "F">
 <!ENTITY findOnCmd.commandkey "f">
