@@ -7,7 +7,7 @@
 <!ENTITY go.label "Přejít">
 <!ENTITY star.label "Hvězda">
 
-
+<!ENTITY showTabs.label "Zobrazit panely">
 <!ENTITY newtab.label "Nový panel">
 <!ENTITY closetab.label "Zavřít panel">
 
