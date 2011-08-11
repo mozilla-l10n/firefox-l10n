@@ -103,6 +103,7 @@
 <!ENTITY contextFullScreen.label "Celá obrazovka">
 <!ENTITY contextEditBookmark.label "Upravit">
 <!ENTITY contextRemoveBookmark.label "Odebrat">
+<!ENTITY contextShortcutBookmark.label "Přidat na úvodní obrazovku">
 
 <!ENTITY pageactions.saveas.pdf "Uložit jako PDF">
 <!ENTITY pageactions.share.page "Sdílet stránku">
