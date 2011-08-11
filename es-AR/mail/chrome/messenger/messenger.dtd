@@ -460,7 +460,7 @@ you can use these alternative items. Otherwise, their values should be empty.  -
 <!ENTITY addressBookCmd.accesskey "a">
 <!ENTITY addressBookCmd.key "B">
 <!ENTITY addons.label "Complementos">
-<!ENTITY addons.accesskey "d">
+<!ENTITY addons.accesskey "C">
 <!ENTITY activitymanager.label "Administrador de actividades">
 <!ENTITY activitymanager.accesskey "a">
 <!ENTITY savedFiles.label "Archivos guardados">
