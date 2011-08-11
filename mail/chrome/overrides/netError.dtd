@@ -40,11 +40,10 @@
 <!ENTITY netInterrupt.longDesc "&sharedLongDesc;">
 
 <!ENTITY netOffline.title "Автономний режим">
-<!ENTITY netOffline.longDesc "
+<!ENTITY netOffline.longDesc2 "
 <ul>
-  <li>Переведіть &brandShortName; в онлайновий режим та спробуйте знову.</li>
-</ul>
-">
+  <li>Натисніть «Спробувати знову» щоб перемкнутись в онлайновий режим і перезавантажити сторінку.</li>
+</ul>">
 
 <!ENTITY contentEncodingError.title "Помилка кодування вмісту">
 <!ENTITY contentEncodingError.longDesc "<p>Сторінка, котру ви намагаєтесь переглянути, не може бути відображена через те, що використовує неправильну чи невідому форму стискання даних.</p> 
@@ -119,6 +118,10 @@
 
 <!ENTITY cspFrameAncestorBlocked.title "Блоковано політикою безпеки вмісту">
 <!ENTITY cspFrameAncestorBlocked.longDesc "<p>&brandShortName; не дозволив цій сторінці завантажитись цим чином, бо вона має політику безпеки вмісту котра це забороняє.</p>">
+
+<!ENTITY corruptedContentError.title "Пошкоджений вміст">
+<!ENTITY corruptedContentError.longDesc "<p>Вміст, котрий ви намагаєтесь переглянути, не може бути показаний — у передачі даних помічена помилка.</p>
+<ul><li>Будь ласка, повідомте власникам вмісту про цю проблему.</li></ul>">
 
 <!ENTITY securityOverride.linkText "Або ви можете зробити виняток…">
 <!ENTITY securityOverride.getMeOutOfHereButton "Заберіть мене звідси">
