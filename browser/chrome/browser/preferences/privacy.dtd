@@ -61,8 +61,8 @@
 <!ENTITY  dontrememberActions.clearHistory.label "alle huidige geskiedenis skrap">
 <!ENTITY  dontrememberActions.post.label         ".">
 
-<!ENTITY  privateBrowsingPermanent.label "Permanente privateblaai-modus">
-<!ENTITY  privateBrowsingPermanent.accesskey "P">
+<!ENTITY  privateBrowsingPermanent2.label "Gebruik altyd privaatblaai-modus">
+<!ENTITY  privateBrowsingPermanent2.accesskey "p">
 
 <!ENTITY  rememberHistory.label      "Onthou my blaaiergeskiedenis">
 <!ENTITY  rememberHistory.accesskey  "b">

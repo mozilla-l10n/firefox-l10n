@@ -30,6 +30,8 @@
 <!ENTITY checkNow.accesskey              "n">
 <!ENTITY submitCrashes.label             "Dien omvalverslae in">
 <!ENTITY submitCrashes.accesskey         "D">
+<!ENTITY submitTelemetry.label           "Dien werkverrigtingdata in">
+<!ENTITY submitTelemetry.accesskey       "w">
 
 <!ENTITY networkTab.label                "Netwerk">
 

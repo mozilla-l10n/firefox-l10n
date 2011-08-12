@@ -199,3 +199,5 @@ beste en gewildste byvoegings bevat wat jy kan probeer.">
 <!ENTITY eula.width                           "560px">
 <!ENTITY eula.height                          "400px">
 <!ENTITY eula.accept                          "Aanvaar en installeer…">
+
+<!ENTITY settings.path.button.label           "Blaai…">
