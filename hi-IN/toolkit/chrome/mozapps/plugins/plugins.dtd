@@ -1,4 +1,4 @@
-<!ENTITY missingPlugin.label                                 "प्लगिन डाउनलोड करने के लिए क्लिक करें.">
+
 <!ENTITY pluginWizard.title "प्लग-इन खोजने की सेवा">
 <!ENTITY pluginWizard.firstPage.title                        "&pluginWizard.title; में स्वागत है">
 
@@ -17,7 +17,7 @@
 <!ENTITY pluginWizard.finalPage.restart.label "प्लग-इन को कार्य करने के लिये &brandShortName;. को पुनःआरम्भ करने की आवश्यकता है।">
 
 <!ENTITY blockedPlugin.label                                 "यह प्लगिन आपकी सुरक्षा के लिए रोका गया है.">
-<!ENTITY disabledPlugin.label                                "इस सामग्री के लिए प्लगिन निष्क्रिय किया गया है. अपने प्लगिन के प्रबंधन के लिए यहाँ क्लिक करें.">
+
 
 <!-- LOCALIZATION NOTE (reloadPlugin.pre): include a trailing space as needed -->
 <!-- LOCALIZATION NOTE (reloadPlugin.middle): avoid leading/trailing spaces, this text is a link -->
@@ -33,4 +33,10 @@
 <!ENTITY report.failed                                       "सुपुर्दगी विफल.">
 <!ENTITY report.unavailable                                  "कोई रिपोर्ट उपलब्ध नहीं.">
 
+
+<!ENTITY missingPlugin                                       "इस सामग्री को दिखाने के लिए डिसप्ले जरूरी है.">
+<!ENTITY disabledPlugin                                      "यह प्लगइन निष्क्रिय किया गया है.">
+
+<!ENTITY installPlugin                                       "प्लगइन संस्थापित करें…">
+<!ENTITY managePlugins                                       "प्लगइन प्रबंधित करें…">
 
