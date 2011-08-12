@@ -63,10 +63,4 @@
 <!ENTITY channel.description.end    " चैनल अद्यतन करें. ">
 
 
-<!-- LOCALIZATION NOTE (channel.selector.start,channel.selector.end): channel.selector.start and
-     channel.selector.end create one sentence, with a channel selection menulist instered in between.
-     This is all in one line, so try to make the localized text short.
-     example: Switch to the [Stable] update channel. -->
-<!ENTITY channel.selector.start          "स्विच करें">
-<!ENTITY channel.selector.end            "अद्यतन चैनल में.">
 
