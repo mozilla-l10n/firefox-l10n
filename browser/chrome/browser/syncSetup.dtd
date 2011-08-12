@@ -42,7 +42,11 @@
 <!ENTITY setup.newSyncKeyPage.description.label "अहाँक समग्र गोपनीयता बनाबैक लेल, अहाँक सबहि आँकड़ा अपलोड कएल जाएबाक पहिने सबहि आँकड़ा गोपित अछि. सिंक कुँजी अहाँक आँकड़ाकेँ विगोपित करबाक लेल जरूरी अछि जे ओ अपलोड नहि कएल गेल अछि.">
 <!ENTITY syncKeyEntry.label        "अहाँक सिंक कुंजी">
 <!ENTITY syncKeyEntry.accesskey    "K">
-<!ENTITY syncKeyGenerate.label     "उत्पन्न  करू ">
+
+
+<!ENTITY setup.choosePassword.label      "कोनो कूटशब्द चुनू">
+<!ENTITY setup.choosePassword.accesskey  "P">
+<!ENTITY syncGenerateNewKey.label  "एकगोट नयी कुँजी उत्पन्न करू">
 
 
 <!ENTITY syncKeyBackup.description "अहाँक सिंक कुँजी दोसर मशीन पर &syncBrand.fullName.label; क पहुँचाबैक लेल जरूरी अछि. कृप्या एकटा बैकअप कापी बनाउ. हम अहाँक सिंक कुँजी केँ वापस पाबैमे अहाँक मदति कए सकैत छी.">
