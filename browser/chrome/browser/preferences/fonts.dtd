@@ -23,7 +23,7 @@
 <!ENTITY  font.langGroup.latin1                   "Occidental">
 <!ENTITY  font.langGroup.latin2                   "Centroeuropeo">
 <!ENTITY  font.langGroup.japanese                 "Japonés">
-<!ENTITY  font.langGroup.trad-chinese             "Chino Tradicional (Taiwan)">
+<!ENTITY  font.langGroup.trad-chinese             "Chino tradicional (Taiwán)">
 <!ENTITY  font.langGroup.simpl-chinese            "Chino simplificado">
 <!ENTITY  font.langGroup.trad-chinese-hk          "Chino tradicional (Hong Kong)">
 <!ENTITY  font.langGroup.korean                   "Coreano">
