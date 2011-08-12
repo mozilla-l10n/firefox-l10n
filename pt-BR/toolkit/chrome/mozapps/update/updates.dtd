@@ -16,7 +16,7 @@
 <!ENTITY  manualUpdate.space.desc         "Uma atualização recomendada de segurança e estabilidade está disponível. Entretanto, não há espaço em disco suficiente para instalá-la.">
 <!ENTITY  manualUpdateGetMsg.label        "Você sempre pode baixar a versão mais recente do &brandShortName; em:">
 
-<!ENTITY  incompatibleCheck.title         "Verificando compatibilidade de extensões e temas">
+<!ENTITY  incompatibleCheck.title         "Verificando compatibilidade dos complementos">
 <!ENTITY  incompatibleCheck.label         "Localizando novas versões de suas extensões e temas…">
 
 <!ENTITY  clickHere.label                 "Mais informações sobre esta atualização">
