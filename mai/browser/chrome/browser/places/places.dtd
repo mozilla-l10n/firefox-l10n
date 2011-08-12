@@ -31,19 +31,23 @@
 <!ENTITY cmd.findCurrent.label          " मोजुदा संग्रह मे ताकू…">
 <!ENTITY cmd.findCurrent.accesskey      "i">
 
-<!ENTITY cmd.exportHTML.label           "HTML निर्यात  करू …">
-<!ENTITY cmd.exportHTML.accesskey       "E">
-<!ENTITY cmd.importHTML.label           "HTML आयात  करू …">
-<!ENTITY cmd.importHTML.accesskey       "I">
 
 <!ENTITY cmd.backup.label               "बैकअप…">
 <!ENTITY cmd.backup.accesskey           "B">
 <!ENTITY cmd.restore2.label             "पुनर्संग्रहित  करू ">
 <!ENTITY cmd.restore2.accesskey         "R">
 <!ENTITY cmd.restoreFromFile.label      "फाइल चुनू…">
+
+<!ENTITY importBookmarksFromHTML.label     "HTML मे पुस्तकचिह्न आयात करू…">
+<!ENTITY importBookmarksFromHTML.accesskey "I">
+<!ENTITY exportBookmarksToHTML.label       "HTML मे पुस्तकचिह्न निर्यात करू…">
+<!ENTITY exportBookmarksToHTML.accesskey   "E">
+<!ENTITY importOtherBrowser.label          "दोसर ब्राउजर सँ आँकड़ा आयात करू…">
+<!ENTITY importOtherBrowser.accesskey      "A">
 <!ENTITY cmd.restoreFromFile.accesskey  "C">
 
-<!ENTITY cmd.bookmarkLink.label         "ई पृष्ठ केँ पुस्तचिह्नित  करू …">
+
+<!ENTITY cmd.bookmarkLink.label         "ई पृष्ठ केँ पुस्तचिह्नित करू …">
 <!ENTITY cmd.bookmarkLink.accesskey     "B">
 <!ENTITY cmd.delete.label               "ई पृष्ठ केँ मेटाउ">
 <!ENTITY cmd.delete.accesskey           "D">

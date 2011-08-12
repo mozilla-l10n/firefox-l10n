@@ -26,13 +26,18 @@
 <!-- categories / views -->
 <!ENTITY view.search.label                    "खोजू">
 <!ENTITY view.discover.label                  "सहयुक्ति पाउ">
-<!ENTITY view.locales.label                   "भाषा">
-<!ENTITY view.searchengines.label             "खोज ईंजन">
-<!ENTITY view.features.label                  "विस्तार">
-<!ENTITY view.appearance2.label               "प्रकटन">
-<!ENTITY view.plugins.label                   "प्लगिन">
+
 <!ENTITY view.recentUpdates.label             "हालिया अद्यतन">
 <!ENTITY view.availableUpdates.label          "उपलब्ध अद्यतन">
+
+
+<!ENTITY info.plugincheck.label                 "देखबाक लेल जाँचू जे अहाँक प्लगइन अद्यतन अछि अथवा नहि">
+<!ENTITY info.plugincheck.tooltip               "देखबाक लेल जाँचू जे अहाँक प्लगइन अद्यतन अछि अथवा नहि">
+
+<!ENTITY settings.path.button.label           "ब्राउज करू…">
+
+
+
 
 <!-- addon updates -->
 <!ENTITY updates.checkForUpdates.label        "अद्यतनकएल जाएँच  करू ">

@@ -5,6 +5,9 @@
 <!ENTITY accessibility.label             "पहुँच">
 
 
+<!ENTITY submitTelemetry.label           "प्रदर्शन आंकड़ा सौंपू">
+<!ENTITY submitTelemetry.accesskey       "P">
+
 
 
 <!ENTITY useCursorNavigation.label       "पृष्ठक अंदर संचरणक लेल हरदम कर्सरक प्रयोग करू ">

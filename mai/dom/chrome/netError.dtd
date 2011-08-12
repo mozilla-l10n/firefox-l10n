@@ -17,6 +17,9 @@
 <!ENTITY deniedPortAccess.title "सुरक्षा कारणसँ प्रतिबंधित पोर्ट">
 <!ENTITY deniedPortAccess.longDesc "<p>निवेदित पता एकटा पोर्ट निर्दिष्ट कएलक (उदाहरण  कलेल . <q>mozilla.org:80</q> 80 पर mozilla.org कलेल  पोर्ट) सामान्यतः वेब ब्राउजिंग सँ <em> आन </em> उद्देश्य  कलेल . ब्राउजर अहाँक सुरक्षा आ रक्षा कलेल आग्रह रद्द कए देलक.</p>">
 
+<!ENTITY netOffline.longDesc2 "<p>ब्राउजर अखन आफलाइन विधि मे अछि आओर निवेदित साइटसँ संपर्क नहि भ' सकैत अछि. </p><ul><li>की कंप्यूटर इंटरनेट सँ एकटा सक्रिय संजाल मे कनेक्टेड अछि?</li><li>&quot;फेर कोशिश करू&quot; केँ आनलाइन विधि मे आबै आओर पृष्ठक फेर लोड कएल जाएबाक लेल दबाउ.</li></ul>">
+
+
 
 <!ENTITY netTimeout.title "पूर्ण समय समाप्त त्रुटि">
 <!ENTITY netTimeout.longDesc "ब्राउजर निर्देशित साइट क संपर्क स्थापित करते समय ब्राउजर क समय पूरा भेल. साइट ज्यादा लोड क अनुभव क कारण मन्द हो गई अथवा सँजाल समस्या क कारण समय सँ डेटा पहुँच नही पा रहल  अछि .  जँ  साइट व्यस्त लग रही हो तँ पुनः निवेदन करब सँ पहले किछु समय  कलेल  इन्तजार  करू .">
@@ -77,7 +80,6 @@
 
 <!ENTITY cspFrameAncestorBlocked.title "Blocked by Content Security Policy">
 
-<!ENTITY netOffline.overrideLongDesc "<p>The browser is operating in its offline mode and cannot connect to the requested item.</p><ul><li>Is the computer connected to an active network?</li><li>Place the browser in online mode and try again.</li></ul>">
 
 
 <!-- Include app-specific error messages - do not change this in localization!
