@@ -22,9 +22,9 @@
 <!ENTITY password.manage                 "Bestuur wagwoorde…">
 
 <!ENTITY cookie.label                    "Stel koekies">
-<!ENTITY cookie.clear                    "Wis koekies">
+<!ENTITY cookie.remove                   "Verwyder koekies">
 <!ENTITY cookie.manage                   "Bestuur koekies…">
-<!ENTITY cookie.clearAll                 "Wis alle koekies">
+<!ENTITY cookie.removeAll                "Verwyder alle koekies">
 
 <!ENTITY geo.label                       "Deel ligging">
 <!-- LOCALIZATION NOTE (indexedDB.label): This is describing indexedDB storage

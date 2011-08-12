@@ -10,7 +10,7 @@
   -  approximation to it or choose a word (or words) that means
   -  "simple discardable text editor". -->
 
-<!ENTITY window.title                 "Scratchpad">
+<!ENTITY window.title                 "Rofwerk">
 
 <!ENTITY fileMenu.label               "Lêer">
 <!ENTITY fileMenu.accesskey           "L">
@@ -30,9 +30,9 @@
 <!ENTITY saveFileAsCmd.label          "Stoor as…">
 <!ENTITY saveFileAsCmd.accesskey      "a">
 
-<!ENTITY closeCmd.label               "Close">
+<!ENTITY closeCmd.label               "Sluit">
 <!ENTITY closeCmd.key                 "W">
-<!ENTITY closeCmd.accesskey           "C">
+<!ENTITY closeCmd.accesskey           "S">
 
 <!ENTITY editMenu.label               "Redigeer">
 <!ENTITY editMenu.accesskey           "e">
@@ -43,7 +43,7 @@
 
 <!ENTITY redoCmd.label                "Herdoen">
 <!ENTITY redoCmd.key                  "Y">
-<!ENTITY redoCmd.accesskey            "H">
+<!ENTITY redoCmd.accesskey            "r">
 
 <!ENTITY cutCmd.label                 "Knip">
 <!ENTITY cutCmd.key                   "X">
@@ -61,16 +61,16 @@
 <!ENTITY selectAllCmd.key             "A">
 <!ENTITY selectAllCmd.accesskey       "a">
 
-<!ENTITY run.label                    "Run">
-<!ENTITY run.accesskey                "R">
+<!ENTITY run.label                    "Voer uit">
+<!ENTITY run.accesskey                "r">
 <!ENTITY run.key                      "r">
 
 <!ENTITY inspect.label                "Inspekteer">
 <!ENTITY inspect.accesskey            "I">
 <!ENTITY inspect.key                  "i">
 
-<!ENTITY display.label                "Display">
-<!ENTITY display.accesskey            "D">
+<!ENTITY display.label                "Vertoon">
+<!ENTITY display.accesskey            "V">
 <!ENTITY display.key                  "l">
 <!-- LOCALIZATION NOTE (environmentMenu.label, accesskey): This menu item was
   -  renamed from "Context" to avoid confusion with the right-click context
@@ -101,8 +101,8 @@
 <!ENTITY resetContext.label           "Teruglaai">
 <!ENTITY resetContext.accesskey       "T">
 
-<!ENTITY executeMenu.label            "Execute">
-<!ENTITY executeMenu.accesskey        "X">
+<!ENTITY executeMenu.label            "Uitvoering">
+<!ENTITY executeMenu.accesskey        "v">
 
 <!ENTITY toolsMenu.label              "Nutsgoed">
 <!ENTITY toolsMenu.accesskey          "u">
@@ -119,5 +119,5 @@
   -  It should be a one-line JavaScript comment, i.e., preceded by '//'
   -->
 
-<!ENTITY textbox.placeholder1         "// Enter some JavaScript, select it, right click and select Run, Inspect or Display.">
+<!ENTITY textbox.placeholder1         "// Tik bietjie JavaScript, merk dit, klik regs en kies Voer uit, Inspekteer of Vertoon.">
 

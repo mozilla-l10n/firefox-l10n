@@ -28,10 +28,12 @@
 <!ENTITY cmd.findCurrent.label          "Vind in huidige versameling…">
 <!ENTITY cmd.findCurrent.accesskey      "i">
 
-<!ENTITY cmd.exportHTML.label           "Voer HTML uit…">
-<!ENTITY cmd.exportHTML.accesskey       "u">
-<!ENTITY cmd.importHTML.label           "Voer HTML in…">
-<!ENTITY cmd.importHTML.accesskey       "i">
+<!ENTITY importBookmarksFromHTML.label     "Voer boekmerke in vanaf HTML…">
+<!ENTITY importBookmarksFromHTML.accesskey "i">
+<!ENTITY exportBookmarksToHTML.label       "Voer boekmerke uit na HTML…">
+<!ENTITY exportBookmarksToHTML.accesskey   "u">
+<!ENTITY importOtherBrowser.label          "Voer boekmerke in vanaf 'n ander blaaier…">
+<!ENTITY importOtherBrowser.accesskey      "a">
 
 <!ENTITY cmd.backup.label               "Rugsteun…">
 <!ENTITY cmd.backup.accesskey           "R">
