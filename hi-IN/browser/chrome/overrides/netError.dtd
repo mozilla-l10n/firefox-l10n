@@ -152,7 +152,7 @@
 <!ENTITY securityOverride.exceptionButtonLabel "अपवाद जोड़ें…">
 
 
-<!ENTITY corruptedContentError.title "Corrupted Content Error">
+<!ENTITY corruptedContentError.title "खराब अंतर्वस्तु त्रुटि">
 <!ENTITY corruptedContentError.longDesc "<p>The page you are trying to view cannot be shown because an error in the data transmission was detected.</p><ul><li>Please contact the website owners to inform them of this problem.</li></ul>">
 <!ENTITY netOffline.title "Offline mode">
 <!ENTITY netOffline.longDesc2 "

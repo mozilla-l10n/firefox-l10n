@@ -23,7 +23,7 @@
 <!ENTITY printCmd.label "छापें…">
 <!ENTITY printCmd.accesskey "P">
 <!ENTITY printCmd.commandkey "p">
-<!ENTITY import.accesskey "I">
+
 
 <!ENTITY toggleAddonBarCmd.key        "/">
 
@@ -95,7 +95,7 @@
 
 
 
-<!ENTITY inspectStylePanelTitle.label  "शैली">
+
 
 
 <!ENTITY  listAllTabs.label      "सभी टैब सूचीबद्ध करें">
