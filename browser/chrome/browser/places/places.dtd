@@ -6,10 +6,18 @@
 <!ENTITY organize.accesskey    "O">
 <!ENTITY organize.tooltip      "अपने पुस्तचिह्नों को व्यवस्थित करें">
 
-<!ENTITY file.accesskey                 "F">
+
 <!ENTITY file.close.label               "बंद करें">
 <!ENTITY file.close.accesskey           "C">
 <!ENTITY cmd.close.key                  "w">
+
+<!ENTITY importBookmarksFromHTML.label     "HTML में पुस्तचिह्न आयात करें…">
+<!ENTITY importBookmarksFromHTML.accesskey "I">
+<!ENTITY exportBookmarksToHTML.label       "HTML में पुस्तचिह्न निर्यात करें…">
+<!ENTITY exportBookmarksToHTML.accesskey   "E">
+<!ENTITY importOtherBrowser.label          "दूसरे ब्राउज़र से आँकड़ा आयात करें…">
+<!ENTITY importOtherBrowser.accesskey      "A">
+<!ENTITY cmd.restoreFromFile.accesskey  "C">
 
 
 <!ENTITY views.label                    "दृश्य">
@@ -31,10 +39,6 @@
 <!ENTITY cmd.findCurrent.label          "मौजूदा संग्रह में ढूँढ़ें…">
 <!ENTITY cmd.findCurrent.accesskey      "i">
 
-<!ENTITY cmd.exportHTML.label           "HTML निर्यात करें…">
-<!ENTITY cmd.exportHTML.accesskey       "E">
-<!ENTITY cmd.importHTML.label           "HTML आयात करें…">
-<!ENTITY cmd.importHTML.accesskey       "I">
 
 <!ENTITY cmd.backup.label               "बैकअप…">
 <!ENTITY cmd.backup.accesskey           "B">

@@ -23,7 +23,6 @@
 <!ENTITY printCmd.label "छापें…">
 <!ENTITY printCmd.accesskey "P">
 <!ENTITY printCmd.commandkey "p">
-<!ENTITY import.label "आयात करें…">
 <!ENTITY import.accesskey "I">
 
 <!ENTITY toggleAddonBarCmd.key        "/">
@@ -72,19 +71,33 @@
 <!ENTITY inspectPanelTitle.label      "HTML">
 <!ENTITY inspectButton.label          "जाँचें">
 <!ENTITY inspectButton.accesskey      "I">
-<!ENTITY inspectNextButton.label      "आगे">
-<!ENTITY inspectNextButton.accesskey  "N">
-<!ENTITY inspectPreviousButton.label  "पीछे">
-<!ENTITY inspectPreviousButton.accesskey "P">
-<!ENTITY inspectStyleButton.label     "शैली">
-<!ENTITY inspectStyleButton.accesskey "S">
+
+<!-- LOCALIZATION NOTE (scratchpad.label): This menu item label appears
+  -  in the Tools menu. See bug 653093.
+  -  The Scratchpad is intended to provide a simple text editor for creating
+  -  and evaluating bits of JavaScript code for the purposes of function
+  -  prototyping, experimentation and convenient scripting.
+  -
+  -  It's quite possible that you won't have a good analogue for the word
+  -  "Scratchpad" in your locale. You should feel free to find a close
+  -  approximation to it or choose a word (or words) that means
+  -  "simple discardable text editor". -->
+<!ENTITY scratchpad.label             "स्क्रैचपैड">
+<!ENTITY scratchpad.accesskey         "s">
+<!ENTITY scratchpad.keycode           "VK_F4">
+<!ENTITY scratchpad.keytext           "F4">
+
+<!ENTITY unsortedBookmarksCmd.label "बिनछाँटा पुस्तचिह्न">
+<!ENTITY webDeveloperMenu.label       "वेब डेवलेपर">
+<!ENTITY webDeveloperMenu.accesskey   "W">
+
+
+
+
+
 <!ENTITY inspectStylePanelTitle.label  "शैली">
-<!-- LOCALIZATION NOTE (inspectObjectButton.label): This button label
-  -  appears on the Inspector's toolbar. It is used to open and close the Object
-  -  panel. There is also a label in inspector.properties for the panel
-  -  titlebar: object.objectPanelTitle. -->
-<!ENTITY inspectObjectButton.label       "वस्तु">
-<!ENTITY inspectObjectButton.accesskey   "O">
+
+
 <!ENTITY  listAllTabs.label      "सभी टैब सूचीबद्ध करें">
 
 <!ENTITY menubarCmd.label "मेन्यू पट्टी">
@@ -200,7 +213,7 @@
 <!ENTITY subscribeToPageMenuitem.label "इस पृष्ठ की सदस्यता लें…">
 <!ENTITY addCurPagesCmd.label "सभी टैब पुस्तचिह्नित करें…">
 
-<!ENTITY bookmarkAllCmd.label "सभी टैब पुस्तचिह्नित करें…">
+
 
 <!ENTITY copyAudioURLCmd.accesskey    "o">
 <!ENTITY copyAudioURLCmd.label        "ऑडियो स्थान की नक़ल लें">

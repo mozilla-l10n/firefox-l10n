@@ -112,6 +112,10 @@
 <!ENTITY limitCacheSizeBefore.accesskey  "L">
 <!ENTITY limitCacheSizeAfter.label       "MB स्थान">
 
+<!ENTITY submitTelemetry.label           "प्रदर्शन आंकड़ा सौंपें">
+<!ENTITY submitTelemetry.accesskey       "P">
+
+
 <!ENTITY overrideSmartCacheSize.label    "स्वचालित कैश प्रबंधन को अधिरोहित करें">
 <!ENTITY overrideSmartCacheSize.accesskey "O">
 

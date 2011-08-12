@@ -33,7 +33,17 @@
 
 
 <!ENTITY netOffline.title "ऑफलाइन त्रुटि">
-<!ENTITY netOffline.longDesc "ब्राउज़र अभी ऑफलाइन है एवं निवेदित साइट से संपर्क नहीं हो सकता. पुनः प्रयास करने से पहले अपने ब्राउज़र को ऑनलाइन माध्यम में रखें.">
+
+
+<!ENTITY netOffline.longDesc2 "<p>ब्राउज़र अभी ऑफलाइन विधि में है एवं निवेदित साइट से संपर्क नहीं हो सकता. </p><ul><li>क्या कंप्यूटर इंटरनेट से एक सक्रिय संजाल में कनेक्टेड है?</li><li>&quot;फिर कोशिश करें&quot; को ऑनलाइन विधि में आने और पृष्ठ के फिर लोड किए जाने के लिए दबाएँ.</li></ul>">
+
+
+<!ENTITY corruptedContentError.title "Corrupted Content Error">
+<!ENTITY corruptedContentError.longDesc "<p>The page you are trying to view cannot be shown because an error in the data transmission was detected.</p><ul><li>Please contact the website owners to inform them of this problem.</li></ul>">
+
+<!ENTITY netOffline.longDesc2 "<p>The browser is operating in its offline mode and cannot connect to the requested item.</p><ul><li>Is the computer connected to an active network?</li><li>Press &quot;Try Again&quot; to switch to online mode and reload the page.</li></ul>">
+
+
 
 <!ENTITY redirectLoop.title "पुनः दिशा लूप त्रुटि">
 <!ENTITY redirectLoop.longDesc "ब्राउज़र ने कनैक्शन बन्द किया क्योंकि साइट स्वयं को इस तरह पुनः निर्देशित निवेदन करती है जो इसे संपूर्ण करने से रोकता है.">
