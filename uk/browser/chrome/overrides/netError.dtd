@@ -124,6 +124,7 @@
 <p>Сторінка, котру ви намагаєтесь переглянути, не може бути показана — у передачі даних помічена помилка.</p>
 <ul><li>Будь ласка, повідомте власнику сайта про цю проблему.</li></ul>">
 
+
 <!ENTITY securityOverride.linkText "Або ви можете зробити виняток…">
 <!ENTITY securityOverride.getMeOutOfHereButton "Заберіть мене звідси">
 <!ENTITY securityOverride.exceptionButtonLabel "Зробити виняток">

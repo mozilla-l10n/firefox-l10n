@@ -105,7 +105,6 @@
 <!ENTITY certmgr.close.accesskey              "а">
 <!ENTITY certmgr.view2.label                  "Переглянути…">
 <!ENTITY certmgr.view2.accesskey              "П">
-
 <!ENTITY certmgr.edit3.label                  "Зміна Довіри…">
 <!ENTITY certmgr.edit3.accesskey              "Д">
 <!ENTITY certmgr.editca.label                 "Змінити довіру центру">
@@ -116,7 +115,6 @@
 <!ENTITY certmgr.export.accesskey             "Е">
 <!ENTITY certmgr.delete2.label                "Стерти…">
 <!ENTITY certmgr.delete2.accesskey            "С">
-
 <!ENTITY certmgr.delete_builtin.label         "Видалити або Не довіряти…">
 <!ENTITY certmgr.delete_builtin.accesskey     "В">
 <!ENTITY certmgr.backup2.label                "Створити резервну копію…">

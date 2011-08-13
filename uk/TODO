@@ -1,2 +1,9 @@
+dom/chrome/dom/dom.properties
+dom/chrome/layout/css.properties (grep keyframe)
+dom/chrome/layout/xbl.properties
+
+security/manager/chrome/pipnss/nsserrors.properties (grep SSL_ERROR_RX_UNEXPECTED_NEW_SESSION_TICKET, SEC_ERROR_OUT_OF_SEARCH_LIMITS )
+security/manager/chrome/pipnss/pipnss.properties (grep Surname)
+
 A mail/chrome/messenger/aboutSupportMail.dtd
 A mail/chrome/messenger/aboutSupportMail.properties
