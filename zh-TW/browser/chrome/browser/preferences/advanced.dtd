@@ -68,7 +68,7 @@
 <!ENTITY whenUpdatesFound.label          "找到 &brandShortName; 的更新檔時:">
 <!ENTITY askMe.label                     "詢問我要怎麼處理">
 <!ENTITY askMe.accesskey                 "k">
-<!ENTITY modeAutomatic.label             "自動下載與安裝更新檔案">
+<!ENTITY modeAutomatic.label             "自動下載並安裝更新檔案">
 <!ENTITY modeAutomatic.accesskey         "d">
 <!ENTITY modeAutoAddonWarn.label         "若需要停用任何已安裝的附加元件時先警告我">
 <!ENTITY modeAutoAddonWarn.accesskey     "W">
