@@ -1,6 +1,6 @@
 <!ENTITY junkSettings.label "垃圾郵件設定">
 <!ENTITY trainingWarning.label "啟用本功能後，您必須先使用「垃圾信」按鈕訓練 &brandShortName; 辨識垃圾郵件。注意您必須清楚標出垃圾郵件和正常郵件。">
-<!ENTITY level.label "此帳號啟用漸進式垃圾郵件控制">
+<!ENTITY level.label "對此帳號啟用漸進式垃圾郵件控制">
 <!ENTITY level.accesskey "E">
 
 <!ENTITY move.label "移動新垃圾郵件到:">
