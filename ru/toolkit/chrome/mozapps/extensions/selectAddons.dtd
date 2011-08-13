@@ -1,7 +1,7 @@
 <!ENTITY upgrade.style "width: 93ch; height: 448px;">
 <!ENTITY checking.heading "Проверка ваших дополнений">
 <!ENTITY checking.progress.label "Проверка ваших дополнений на предмет совместимости с этой версией &brandShortName;.">
-<!ENTITY select.heading "Выберите свои дополнения">
+<!ENTITY select.heading "Выберите ваши дополнения">
 <!ENTITY select.description "Сделайте &brandShortName; ещё быстрее, отключив более не используемые вами дополнения. Дополнения, уже установленные другими программами, будут автоматически отключены, если вы не отметите их в списке.">
 <!ENTITY select.keep "Оставить">
 <!ENTITY select.keep.style "width: 10ch;">
@@ -10,7 +10,7 @@
 <!ENTITY select.source "Установлено">
 <!ENTITY select.name "Название">
 <!ENTITY select.name.style "width: 33ch;">
-<!ENTITY confirm.heading "Выберите свои дополнения">
+<!ENTITY confirm.heading "Выберите ваши дополнения">
 <!ENTITY confirm.description "Сделайте &brandShortName; ещё быстрее, отключив более не используемые вами дополнения. Дополнения, уже установленные другими программами, будут автоматически отключены, если вы не отметите их в списке.">
 <!ENTITY action.disable.heading "Следующие дополнения будут отключены:">
 <!ENTITY action.incompatible.heading "Следующие дополнения сейчас отключены, но будут включены, как только они станут совместимыми:">
