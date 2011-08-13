@@ -61,7 +61,7 @@
 <!ENTITY offlineMenu.accesskey "l">
 <!ENTITY offlineGoOfflineCmd.label "離線模式">
 <!ENTITY offlineGoOfflineCmd.accesskey "W">
-<!ENTITY synchronizeOfflineCmd.label "立刻下載或同步">
+<!ENTITY synchronizeOfflineCmd.label "立刻下載／同步…">
 <!ENTITY synchronizeOfflineCmd.accesskey "S">
 <!ENTITY settingsOfflineCmd.label "離線模式設定…">
 <!ENTITY settingsOfflineCmd.accesskey "e">
