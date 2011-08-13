@@ -1,0 +1,11 @@
+<!ENTITY title "Instalace doplòku">
+<!ENTITY intro "Nìkterý z programù na vašem poèítaèi by rád upravil &brandShortName; pomocí následujícího doplòku:">
+
+<!ENTITY warning "Instalujte pouze doplòky od dùvìryhodných autorù.">
+<!ENTITY allow "Povolit instalaci">
+<!ENTITY later "Své rozhodnutí mùžete vždy zmìnit pomocí Správce doplòkù.">
+
+<!ENTITY continue "Pokraèovat">
+<!ENTITY restartMessage "Pro dokonèení instalace doplòku je nutno restartovat &brandShortName;">
+<!ENTITY restartButton "Restartovat &brandShortName;">
+<!ENTITY cancelButton "Zrušit">
