@@ -1,12 +1,12 @@
 <!ENTITY upgrade.style "width: 93ch; height: 448px;">
 
-<!ENTITY checking.heading "Kontrola doplòkù">
-<!ENTITY checking.progress.label "Kontrola kompatibility doplòkù s verzí aplikace &brandShortName;.">
+<!ENTITY checking.heading "Kontrola doplÅˆkÅ¯">
+<!ENTITY checking.progress.label "Kontrola kompatibility doplÅˆkÅ¯ s verzÃ­ aplikace &brandShortName;.">
 
-<!ENTITY select.heading "Výbìr doplòkù">
+<!ENTITY select.heading "VÃ½bÄ›r doplÅˆkÅ¯">
 <!-- LOCALIZATION NOTE (select.description): The term used for "third parties"
      here should match the string source.other in selectAddons.properties. -->
-<!ENTITY select.description "Zrychlete &brandShortName; zakázáním již nepoužívaných doplòkù. Doplòky tøetích stran budou automaticky zakázány, pokud je níže nevyberete.">
+<!ENTITY select.description "Zrychlete &brandShortName; zakÃ¡zÃ¡nÃ­m jiÅ¾ nepouÅ¾Ã­vanÃ½ch doplÅˆkÅ¯. DoplÅˆky tÅ™etÃ­ch stran budou automaticky zakÃ¡zÃ¡ny, pokud je nÃ­Å¾e nevyberete.">
 <!ENTITY select.keep "Ponechat">
 <!-- LOCALIZATION NOTE (select.keep.style): Should be a width wide enough for
      the string in select.keep above. -->
@@ -15,31 +15,31 @@
 <!-- LOCALIZATION NOTE (select.action.style): Should be a width wide enough for
      the action strings in selectAddons.properties or brandShortName. -->
 <!ENTITY select.action.style "width: 35ch;">
-<!ENTITY select.source "Instalováno aplikací">
-<!ENTITY select.name "Název">
+<!ENTITY select.source "InstalovÃ¡no aplikacÃ­">
+<!ENTITY select.name "NÃ¡zev">
 <!-- LOCALIZATION NOTE (select.name.style): Should be a width small enough so
      the source column still has enough room for the source strings in
      selectAddons.properties. -->
 <!ENTITY select.name.style "width: 33ch;">
 
-<!ENTITY confirm.heading "Výbìr doplòkù">
+<!ENTITY confirm.heading "VÃ½bÄ›r doplÅˆkÅ¯">
 <!-- LOCALIZATION NOTE (confirm.description): The term used for "third parties"
      here should match the string source.other in selectAddons.properties. -->
-<!ENTITY confirm.description "Zrychlete &brandShortName; zakázáním již nepoužívaných doplòkù. Doplòky tøetích stran budou automaticky zakázány, pokud je níže nevyberete.">
+<!ENTITY confirm.description "Zrychlete &brandShortName; zakÃ¡zÃ¡nÃ­m jiÅ¾ nepouÅ¾Ã­vanÃ½ch doplÅˆkÅ¯. DoplÅˆky tÅ™etÃ­ch stran budou automaticky zakÃ¡zÃ¡ny, pokud je nÃ­Å¾e nevyberete.">
 
-<!ENTITY action.disable.heading "Následující doplòky budou zakázány:">
-<!ENTITY action.incompatible.heading "Následující doplòky budou zakázány, ale budou povoleny, jakmile budou kompatibilní:">
-<!ENTITY action.update.heading "Následující doplòky budou aktualizovány:">
-<!ENTITY action.enable.heading "Následující doplòky budou povoleny:">
+<!ENTITY action.disable.heading "NÃ¡sledujÃ­cÃ­ doplÅˆky budou zakÃ¡zÃ¡ny:">
+<!ENTITY action.incompatible.heading "NÃ¡sledujÃ­cÃ­ doplÅˆky budou zakÃ¡zÃ¡ny, ale budou povoleny, jakmile budou kompatibilnÃ­:">
+<!ENTITY action.update.heading "NÃ¡sledujÃ­cÃ­ doplÅˆky budou aktualizovÃ¡ny:">
+<!ENTITY action.enable.heading "NÃ¡sledujÃ­cÃ­ doplÅˆky budou povoleny:">
 
-<!ENTITY update.heading "Aktualizace doplòkù">
-<!ENTITY update.progress.label "Stahovéní a instalace vámi vybraných doplòkù.">
+<!ENTITY update.heading "Aktualizace doplÅˆkÅ¯">
+<!ENTITY update.progress.label "StahovÃ©nÃ­ a instalace vÃ¡mi vybranÃ½ch doplÅˆkÅ¯.">
 
-<!ENTITY errors.heading "Aplikaci &brandShortName; se nepodaøilo aktualizovat nìkteré doplòky.">
-<!ENTITY errors.description "Instalace aktualizací nìkterých doplòkù se nezdaøila. &brandShortName; je bude automaticky aktualizovat pozdìji.">
+<!ENTITY errors.heading "Aplikaci &brandShortName; se nepodaÅ™ilo aktualizovat nÄ›kterÃ© doplÅˆky.">
+<!ENTITY errors.description "Instalace aktualizacÃ­ nÄ›kterÃ½ch doplÅˆkÅ¯ se nezdaÅ™ila. &brandShortName; je bude automaticky aktualizovat pozdÄ›ji.">
 
-<!ENTITY footer.label "Své doplòky mùžete vždy zmìnit pomocí Správce doplòkù.">
-<!ENTITY cancel.label "Zrušit">
-<!ENTITY back.label "Zpìt">
-<!ENTITY next.label "Vpøed">
+<!ENTITY footer.label "SvÃ© doplÅˆky mÅ¯Å¾ete vÅ¾dy zmÄ›nit pomocÃ­ SprÃ¡vce doplÅˆkÅ¯.">
+<!ENTITY cancel.label "ZruÅ¡it">
+<!ENTITY back.label "ZpÄ›t">
+<!ENTITY next.label "VpÅ™ed">
 <!ENTITY done.label "Hotovo">
