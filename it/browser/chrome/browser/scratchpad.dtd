@@ -62,4 +62,3 @@
 <!ENTITY webConsoleCmd.label "Console web">
 <!ENTITY webConsoleCmd.accesskey "w">
 <!ENTITY webConsoleCmd.commandkey "k">
-<!ENTITY textbox.placeholder1 "// Inserire del codice JavaScript, selezionarlo, fare clic con il tasto destro e selezionare Esegui, Ispeziona o Visualizza.">
