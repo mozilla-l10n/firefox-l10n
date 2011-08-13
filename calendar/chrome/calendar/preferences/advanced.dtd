@@ -75,7 +75,7 @@
 <!ENTITY pref.calendar.advanced.update.modeAskMe.accesskey "k">
 <!ENTITY pref.calendar.advanced.update.modeAuto.label "自動下載並安裝更新檔案">
 <!ENTITY pref.calendar.advanced.update.modeAuto.accesskey "d">
-<!ENTITY pref.calendar.advanced.update.modeAutoWarn.label "若需要停用任何已安裝的附加元件時，請先警告我">
+<!ENTITY pref.calendar.advanced.update.modeAutoWarn.label "若需要停用任何已安裝的附加元件時先警告我">
 <!ENTITY pref.calendar.advanced.update.modeAutoWarn.accesskey "W">
 <!ENTITY pref.calendar.advanced.update.showHistory.label "顯示更新記錄…">
 <!ENTITY pref.calendar.advanced.update.showHistory.accesskey "U">

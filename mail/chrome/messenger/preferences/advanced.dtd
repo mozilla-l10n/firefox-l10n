@@ -59,7 +59,7 @@
 <!ENTITY modeAskMe.accesskey            "m">
 <!ENTITY modeAutomatic.label            "自動下載並安裝更新檔案">
 <!ENTITY modeAutomatic.accesskey        "d">
-<!ENTITY modeAutoAddonWarn.label        "若需要停用任何已安裝的附加元件時，請先警告我">
+<!ENTITY modeAutoAddonWarn.label        "若需要停用任何已安裝的附加元件時先警告我">
 <!ENTITY modeAutoAddonWarn.accesskey    "W">
 <!ENTITY showUpdates.label              "顯示更新記錄">
 <!ENTITY showUpdates.accesskey          "S">
