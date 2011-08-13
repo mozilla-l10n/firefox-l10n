@@ -39,7 +39,7 @@
 <!ENTITY netInterrupt.longDesc "&sharedLongDesc;">
 
 <!ENTITY netOffline.title "Автономний режим">
-<!ENTITY netOffline.overrideLongDesc "
+<!ENTITY netOffline.longDesc2 "
 <ul>
   <li>Спробуйте ще раз. &brandShortName; спробує відкрити з’єднання та перезавантажити сторінку.</li>
 </ul>
@@ -118,6 +118,10 @@
 
 <!ENTITY cspFrameAncestorBlocked.title "Блоковано політикою безпеки вмісту">
 <!ENTITY cspFrameAncestorBlocked.longDesc "<p>&brandShortName; не дозволив цій сторінці завантажитись цим чином, бо вона має політику безпеки вмісту котра це забороняє.</p>">
+
+<!ENTITY corruptedContentError.title "Пошкоджений вміст">
+<!ENTITY corruptedContentError.longDesc "<p>Сторінка, котру ви намагаєтесь переглянути, не може бути показана — у передачі даних помічена помилка.</p>
+<ul><li>Будь ласка, повідомте власнику сайта про цю проблему.</li></ul>">
 
 <!ENTITY securityOverride.linkText "Або ви можете зробити виняток…">
 <!ENTITY securityOverride.getMeOutOfHereButton "Заберіть мене звідси">
