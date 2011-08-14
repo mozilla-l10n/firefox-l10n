@@ -14,7 +14,7 @@
 <!ENTITY spellAddToDictionary.label "Přidat do slovníku">
 <!ENTITY spellAddToDictionary.accesskey "P">
 <!ENTITY spellCheckEnable.label "Kontrolovat pravopis">
-<!ENTITY spellCheckEnable.accesskey "K">
+<!ENTITY spellCheckEnable.accesskey "o">
 <!ENTITY spellNoSuggestions.label "(Žádné návrhy nenalezeny)">
 <!ENTITY spellDictionaries.label "Jazyky">
 <!ENTITY spellDictionaries.accesskey "J">
