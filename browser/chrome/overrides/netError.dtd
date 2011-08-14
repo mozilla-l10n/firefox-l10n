@@ -48,13 +48,9 @@
 <!ENTITY netInterrupt.longDesc "&sharedLongDesc;">
 
 <!ENTITY netOffline.title "מצב לא־מקוון">
-<!-- LOCALIZATION NOTE (netOffline.overrideLongDesc) - This string should
-     indicate that "Work Offline" is a menu item without being too specific,
-     since it could be in either the normal menu (Mac/Linux) or the Firefox button
-     menu (Windows).
--->
-<!ENTITY netOffline.overrideLongDesc "<ul>
- <li>הסר את הסימון מהאפשרות &quot;עבוד לא־מקוון&quot;, ואז נסה שוב.</li>
+<!ENTITY netOffline.longDesc2 "
+<ul>
+  <li>לחץ על &quot;נסה שוב&quot; כדי לעבור למצב מקוון ולטעון מחדש את הדף.</li>
 </ul>
 ">
 
@@ -131,7 +127,7 @@
 
 <!ENTITY sharedLongDesc "
 <ul>
-  <li>האתר איננו זמין כרגע או שהוא עמוס מדי. אנא נסה שוב בעוד מספר רגעים.</li>
+  <li>האתר איננו זמין כרגע או שהוא עמוס מידי. אנא נסה שוב בעוד מספר רגעים.</li>
   <li>אם אינך מצליח לטעון דפים כלשהם, בדוק את הקישוריות של המחשב שלך לרשת.</li>
   <li>אם המחשב או הרשת שלך מוגנים באמצעות חומת אש או שרת מתווך, ודא כי &brandShortName; מורשה לגישה לרשת.</li>
 </ul>
@@ -150,6 +146,10 @@
 
 <!ENTITY cspFrameAncestorBlocked.title "נחסם בהתאם למדיניות האבטחה של התוכן">
 <!ENTITY cspFrameAncestorBlocked.longDesc "<p>&brandShortName; מונע מדף זה להיטען בצורה זו מאחר שהדף כולל מדיניות אבטחת תוכן שמונעת זאת.</p>">
+
+<!ENTITY corruptedContentError.title "שגיאת תוכן פגום">
+<!ENTITY corruptedContentError.longDesc "<p>הדף שאתה מנסה לצפות בו אינו יכול להיות מוצג בגלל שהתגלתה שגיאה בהעברת הנתונים.</p><ul><li>אנא צור קשר עם בעלי האתר והודע על הבעיה הזאת.</li></ul>">
+
 
 <!ENTITY securityOverride.linkText "באפשרותך גם להוסיף חריגה…">
 <!ENTITY securityOverride.getMeOutOfHereButton "תוציא אותי מכאן!">

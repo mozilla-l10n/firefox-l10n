@@ -22,9 +22,9 @@
 <!ENTITY password.manage                 "ניהול ססמאות…">
 
 <!ENTITY cookie.label                    "קביעת עוגיות">
-<!ENTITY cookie.clear                    "ניקוי עוגיות">
+<!ENTITY cookie.remove                   "הסרת עוגיות">
 <!ENTITY cookie.manage                   "ניהול עוגיות…">
-<!ENTITY cookie.clearAll                 "ניקוי כל העוגיות">
+<!ENTITY cookie.removeAll                "הסרת כל העוגיות">
 
 <!ENTITY geo.label                       "שיתוף מיקום">
 

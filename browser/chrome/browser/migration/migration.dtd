@@ -1,8 +1,8 @@
 
 <!ENTITY migrationWizard.title          "אשף היבוא">
 
-<!ENTITY importFrom.label               "יבא אפשרויות, סימניות, היסטוריה, ססמאות ונתונים נוספים מ:">
-<!ENTITY importFromUnix.label           "יבא העדפות, סימניות, היסטוריה, ססמאות ונתונים נוספים:">
+<!ENTITY importFrom.label               "יבא אפשרויות, סימניות, היסטוריה, סיסמאות ונתונים נוספים מ:">
+<!ENTITY importFromUnix.label           "יבא העדפות, סימניות, היסטוריה, סיסמאות ונתונים נוספים:">
 <!ENTITY importFromBookmarks.label      "יבא סימניות מ:">
 
 <!ENTITY importFromIE.label             "Microsoft Internet Explorer">
@@ -18,17 +18,17 @@
 <!ENTITY importFromHTMLFile.label       "מקובץ HTML">
 <!ENTITY importFromHTMLFile.accesskey   "ק">
 
-<!ENTITY noMigrationSources.label       "לא נמצאו תוכנות שמכילות סימניות, היסטוריה, או מידע ססמאות.">
+<!ENTITY noMigrationSources.label       "לא נמצאו תוכנות שמכילות סימניות, היסטוריה, או מידע סיסמאות.">
 
 <!ENTITY importSource.title             "יבא נתונים והגדרות:">
 <!ENTITY importItems.title              "פריטים ליבוא">
-<!ENTITY importItems.label              "בחר אלו פריטים לייבא:">
+<!ENTITY importItems.label              "בחר אלו פריטים ליבא:">
 
 <!ENTITY migrating.title                "מייבא...">
 <!ENTITY migrating.label                "הפריטים הבאים מיובאים כעת...">
 
 <!ENTITY selectProfile.title            "בחר פרופיל">
-<!ENTITY selectProfile.label            "ניתן לייבא מהפרופילים הבאים:">
+<!ENTITY selectProfile.label            "ניתן ליבא מהפרופילים הבאים:">
 
 <!ENTITY done.title                     "היבוא הושלם">
 <!ENTITY done.label                     "הפריטים הבאים יובאו בהצלחה:">

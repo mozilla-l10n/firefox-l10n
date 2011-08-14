@@ -28,10 +28,12 @@
 <!ENTITY cmd.findCurrent.label          "מצא באוסף הנוכחי...">
 <!ENTITY cmd.findCurrent.accesskey      "א">
 
-<!ENTITY cmd.exportHTML.label           "יצא HTML…">
-<!ENTITY cmd.exportHTML.accesskey       "צ">
-<!ENTITY cmd.importHTML.label           "יבא HTML…">
-<!ENTITY cmd.importHTML.accesskey       "ב">
+<!ENTITY importBookmarksFromHTML.label     "ייבוא סימניות מקובץ HTML…">
+<!ENTITY importBookmarksFromHTML.accesskey "י">
+<!ENTITY exportBookmarksToHTML.label       "ייצוא סימניות לקובץ HTML…">
+<!ENTITY exportBookmarksToHTML.accesskey   "י">
+<!ENTITY importOtherBrowser.label          "ייבוא מידע מדפדפן אחר…">
+<!ENTITY importOtherBrowser.accesskey      "י">
 
 <!ENTITY cmd.backup.label               "גיבוי...">
 <!ENTITY cmd.backup.accesskey           "ג">

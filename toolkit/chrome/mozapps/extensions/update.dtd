@@ -7,7 +7,7 @@
 
 <!ENTITY  mismatch.win.title              "תוספת לא תואמת">
 <!ENTITY  mismatch.top.label              "התוספות הבאות אינן תואמות עם גרסה זו של &brandShortName; ולכן נוטרלו:">
-<!ENTITY  mismatch.bottom.label           "&brandShortName; יכול לבדוק אם ישנן גרסאות תואמות של תוספות אלו זמינות.">
+<!ENTITY  mismatch.bottom.label           "&brandShortName; יכול לבדוק אם ישנן גירסאות תואמות של תוספות אלו זמינות.">
 
 <!ENTITY  checking.wizard.title           "בודק עבור תוספות תואמות">
 <!ENTITY  checking.top.label              "בודק עדכונים עבור תוספות לא תואמות…">

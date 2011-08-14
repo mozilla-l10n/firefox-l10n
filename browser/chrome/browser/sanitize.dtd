@@ -38,7 +38,7 @@ that require it.  -->
 <!ENTITY itemBrowsingHistory.accesskey     "ה">
 <!ENTITY itemFormSearchHistory.label       "היסטורית טפסים וחיפוש">
 <!ENTITY itemFormSearchHistory.accesskey   "ט">
-<!ENTITY itemPasswords.label               "ססמאות שמורות">
+<!ENTITY itemPasswords.label               "סיסמאות שמורות">
 <!ENTITY itemPasswords.accesskey           "ס">
 <!ENTITY itemCookies.label                 "עוגיות">
 <!ENTITY itemCookies.accesskey             "ע">
