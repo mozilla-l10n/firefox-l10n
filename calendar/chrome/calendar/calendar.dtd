@@ -50,7 +50,7 @@
 <!ENTITY calendar.print.window.title "הדפס יומן">
 <!ENTITY calendar.publish.close.button "סגור">
 <!ENTITY calendar.publish.dialog.title "פרסם יומן">
-<!ENTITY calendar.publish.example.url.description "לדוגמא: http://www.myserver.com/webdav/test.ics">
+<!ENTITY calendar.publish.example.url.description "לדוגמה: http://www.myserver.com/webdav/test.ics">
 <!ENTITY calendar.publish.publish.button "פרסם">
 <!ENTITY calendar.publish.url.label "כתובת הפרסום באינטרנט">
 <!ENTITY calendar.search.options.searchfor " המכילים">
@@ -142,7 +142,7 @@
 <!ENTITY calendar.context.findcalendar.label           "מצא לוח שנה…" >
 <!ENTITY calendar.context.markcompleted.accesskey "ש">
 
-<!ENTITY calendar.context.markcompleted.label     "סמן כהושלם">
+<!ENTITY calendar.context.markcompleted.label     "סמן שהושלמה">
 <!ENTITY calendar.context.modifyitem.accesskey        "ע">
 <!ENTITY calendar.context.modifyitem.label            "עריכת פריט…">
 <!ENTITY calendar.context.modifyorviewitem.accesskey  "פ">
@@ -199,7 +199,7 @@
 <!ENTITY calendar.soon.button.label           "בקרוב">
 
 <!ENTITY calendar.task.category.button.tooltip  "חלק משימות לקטגוריות">
-<!ENTITY calendar.task.complete.button.tooltip  "סמן כהושלמו את המשימות שנבחרו">
+<!ENTITY calendar.task.complete.button.tooltip  "סמן שהמשימות שנבחרו הושלמו">
 
 <!ENTITY calendar.task.filter.all.accesskey         "כ">
 <!ENTITY calendar.task.filter.all.label             "הכל">
@@ -240,7 +240,7 @@
 <!ENTITY calendar.week.button.label             "שבוע" >
 <!ENTITY calendar.week.button.tooltip           "מעבר לתצוגה שבועית" >
 <!ENTITY calendar.weekView.key                 "2" >
-<!ENTITY calendarproperties.cache.label    "מטמון (נסיוני, דורש הפעלה מחדש)">
+<!ENTITY calendarproperties.cache.label    "מטמון (ניסיוני, דורש הפעלה מחדש)">
 <!ENTITY calendarproperties.caldav.label   "CalDAV">
 
 <!-- Calendar Properties -->

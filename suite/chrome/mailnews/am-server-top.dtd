@@ -67,7 +67,7 @@
 <!ENTITY abbreviateOn.label "שמות מלאים (לדוגמה, 'netscape.public.mozilla.mail-news')">
 <!ENTITY abbreviateOff.label "שמות מקוצרים (לדוגמה, 'n.p.m.mail-news')">
 <!ENTITY advancedButton.label "מתקדם...">
-<!ENTITY serverDefaultCharset.label "קידוד תוים ברירת מחדל:">
+<!ENTITY serverDefaultCharset.label "ברירת מחדל לקידוד תווים:">
 <!ENTITY advancedButton.accesskey "מ">
 <!ENTITY localFolderPicker.label "בחר ספרייה מקומית">
 <!ENTITY browseFolder.label "עיין...">

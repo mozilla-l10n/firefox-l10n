@@ -34,7 +34,7 @@
 <!ENTITY replyWithTemplate.label "השב עם תבנית">
 <!ENTITY markMessageRead.label "סמן כנקראה">
 <!ENTITY markMessageStarred.label "סמן כמסומנת בדגל">
-<!ENTITY labelMessage.label "הוסף להודעה תוית">
+<!ENTITY labelMessage.label "הוסף להודעה תווית">
 <!ENTITY setPriority.label "שנה עדיפות ל...">
 <!ENTITY addTag.label "תייג הודעה">
 <!ENTITY setJunkScore.label "קבע מצב זבל:">

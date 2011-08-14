@@ -7,7 +7,7 @@
 <!ENTITY imageeditor "תמונות:">
 <!ENTITY chooseButton.label "בחר">
 <!ENTITY recentFiles.title "תפריט דפים אחרונים">
-<!ENTITY documentsInMenu.label "מספר מירבי של דפים ברשימה:">
+<!ENTITY documentsInMenu.label "מספר מרבי של דפים ברשימה:">
 <!ENTITY documentsInMenu.accesskey "מ">
 <!ENTITY savingFiles.title "בעת שמירת או פרסום דפים">
 <!ENTITY preserveExisting.label "שמר עיצוב קוד מקור מקורי">

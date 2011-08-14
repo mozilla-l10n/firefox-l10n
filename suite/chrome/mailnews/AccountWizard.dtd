@@ -1,8 +1,8 @@
 <!ENTITY windowTitle.label "אשף החשבונות">
 <!ENTITY accountWizard.size "width: 40em; height: 38em;">
-<!ENTITY accountSetupInfo.label "בכדי לקבל הודעות, עליך תחילה להגדיר חשבון דואר או קבוצות דיון.">
+<!ENTITY accountSetupInfo.label "כדי לקבל הודעות, עליך תחילה להגדיר חשבון דואר או קבוצות דיון.">
 <!ENTITY accountTypeTitle.label "התקנת חשבון חדש">
-<!ENTITY accountTypeDesc.label "אשף זה יאסוף את המידע הנחוץ בכדי ליצור חשבון דואר או חשבון קבוצות דיון. אם אינך יודע את המידע הנדרש, אנא צור קשר עם מנהל המערכת או ספק האינטרנט שלך.">
+<!ENTITY accountTypeDesc.label "אשף זה יאסוף את המידע הנחוץ כדי ליצור חשבון דואר או חשבון קבוצות דיון. אם אינך יודע את המידע הנדרש, אנא צור קשר עם מנהל המערכת או ספק האינטרנט שלך.">
 <!ENTITY accountTypeDirections.label "בחר בסוג החשבון שברצונך להגדיר:">
 <!ENTITY accountTypeMail.label "חשבון דוא״ל">
 <!ENTITY accountTypeMail.accesskey "ד">

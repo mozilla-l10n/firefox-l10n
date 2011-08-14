@@ -42,7 +42,7 @@
 <!ENTITY copyright.accesskey    "ת">
 <!ENTITY aboutLink.label        "&lt; אודות &brandFullName;">
 <!ENTITY aboutLink.accesskey    "א">
-<!ENTITY aboutVersion           "גירסה">
+<!ENTITY aboutVersion           "גרסה">
 <!ENTITY copyrightText          "&#169;1998-2008 תורמים. 
 כל הזכויות שמורות. Mozilla Sunbird, Sunbird והסמלים של Sunbird הם סימנים מסחריים של קרן Mozilla. כל הזכויות שמורות.">
 

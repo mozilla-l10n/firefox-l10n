@@ -1,4 +1,5 @@
 <!ENTITY offlineDialog.title "הגדרות לא־מקוון">
+
 <!ENTITY textStartUp "בהפעלה:">
 <!ENTITY radioRememberPrevState.label "זכור מצב מקוון קודם">
 <!ENTITY radioRememberPrevState.accesskey "ז">
@@ -6,6 +7,7 @@
 <!ENTITY radioAskMe.accesskey "מ">
 <!ENTITY radioAlwaysOnline.label "התחל תמיד במצב מקוון">
 <!ENTITY radioAlwaysOnline.accesskey "ה">
+
 <!ENTITY textGoingOnline "לשלוח הודעות שלא נשלחו במעבר למצב מקוון?">
 <!ENTITY radioAutoSend.label "כן">
 <!ENTITY radioAutoSend.accesskey "כ">

@@ -6,7 +6,7 @@
 
 <!-- Specific error messages -->
 
-<!ENTITY connectionFailure.title "כשלון בהתחברות">
+<!ENTITY connectionFailure.title "כישלון בהתחברות">
 <!ENTITY connectionFailure.longDesc "&sharedLongDesc;">
 
 <!ENTITY deniedPortAccess.title "כתובת זו מוגבלת">
@@ -17,8 +17,8 @@
 <ul>
   <li>בדוק כי הכתובת הוקלדה ללא שגיאות כגון
     <strong>ww</strong>.example.com במקום <strong>www</strong>.example.com</li>
-  <li>במידה ואינך יכול לטעון כל דף, בדוק את החיבור לרשת של המחשב.</li>
-  <li>אם המחשב או הרשת מוגנים בחומת אש או שרת מתווך, וודאי כי &brandShortName; מורשה לגישה לרשת.</li>
+  <li>אם אינך יכול לטעון שום דף, בדוק את החיבור לרשת של המחשב.</li>
+  <li>אם המחשב או הרשת מוגנים בחומת אש או שרת מתווך, ודא כי &brandShortName; מורשה לגישה לרשת.</li>
 </ul>
 ">
 
@@ -41,7 +41,7 @@
 <ul>
   <li>כתובות אתרים מכתבות בדרך־כלל בתבנית של 
     <strong>http://www.example.com/</strong></li>
-  <li>וודא שאתה משתמש בלוכסן קדמי
+  <li>ודא שאתה משתמש בלוכסן קדמי
 ("
     <strong>/</strong>").</li>
 </ul>
@@ -65,7 +65,7 @@ to pickup this string change. Please update netOffline.longDesc too -->
 <!ENTITY contentEncodingError.title "שגיאה בקידוד תוכן">
 <!ENTITY contentEncodingError.longDesc "
 <ul>
-  <li>אנא צור קשר עם בעלי האתר בכדי ליידע אותם על בעיה זו.</li>
+  <li>אנא צור קשר עם בעלי האתר כדי ליידע אותם על בעיה זו.</li>
 </ul>">
 
 
@@ -93,15 +93,15 @@ to pickup this string change. Please update netOffline.longDesc too -->
 <!ENTITY proxyConnectFailure.longDesc "
 <ul>
   <li>בדוק כי הגדרות השרת המתווך שלך נכונות.</li>
-  <li>צור קשר עם מנהל הרשת שלך וודא כי השרת המתווך מתפקד</li>
+  <li>צור קשר עם מנהל הרשת שלך ודא כי השרת המתווך מתפקד</li>
 </ul>">
 
 <!ENTITY proxyResolveFailure.title "שרת מתווך לא נמצא">
 <!ENTITY proxyResolveFailure.longDesc "
 <ul>
   <li>בדוק כי הגדרות השרת המתווך שלך נכונות.</li>
-  <li>וודא כי חיבור המחשב שלך לרשת פעיל.</li>
-  <li>אם המחשב או הרשת שלך מוגנים באמצעות חומת אש או שרת מתווך, וודא כי &brandShortName; מורשה לגישה לרשת.</li>
+  <li>ודא כי חיבור המחשב שלך לרשת פעיל.</li>
+  <li>אם המחשב או הרשת שלך מוגנים באמצעות חומת אש או שרת מתווך, ודא כי &brandShortName; מורשה לגישה לרשת.</li>
 </ul>
 ">
 
@@ -115,7 +115,7 @@ to pickup this string change. Please update netOffline.longDesc too -->
 <!ENTITY unknownSocketType.title "תגובה לא צפויה מהשרת">
 <!ENTITY unknownSocketType.longDesc "
 <ul>
-  <li>וודא כי מותקן על המערכת שלך מנהל האבטחה האישי.</li>
+  <li>ודא כי מותקן על המערכת שלך מנהל האבטחה האישי.</li>
   <li>ייתכן וההגדרות השרת אינן תקניות</li>
 </ul>
 ">
@@ -137,9 +137,9 @@ to pickup this string change. Please update netOffline.longDesc too -->
 
 <!ENTITY sharedLongDesc "
 <ul>
-  <li>האתר איננו זמין כרגע או שהוא עמוס מידי. אנא נסה שוב בעוד מספר רגעים.</li>
+  <li>האתר איננו זמין כרגע או שהוא עמוס מדי. אנא נסה שוב בעוד מספר רגעים.</li>
   <li>אם אינך מצליח לטעון דפים כלשהם, בדוק את הקישוריות של המחשב שלך לרשת.</li>
-  <li>במידה והמחשב או הרשת שלך מוגנים באמצעות חומת אש או שרת מתווך, וודא כי &brandShortName; מורשה לגישה לרשת.</li>
+  <li>אם המחשב או הרשת שלך מוגנים באמצעות חומת אש או שרת מתווך, ודא כי &brandShortName; מורשה לגישה לרשת.</li>
 </ul>
 ">
 
@@ -164,7 +164,7 @@ which uses strings already defined above. The button is included here (instead o
 netError.xhtml) because it exposes functionality specific to firefox. -->
 
 <!ENTITY securityOverride.warningText "
-<p>אתה לא אמור להוסיף חריגה אם אתה משתמש בחיבור שאינך בוטח בו לחלוטין או במידה ואתה לא רגיל לראות התראות עבור אתר זה.</p>
+<p>אתה לא אמור להוסיף חריגה אם אתה משתמש בחיבור שאינך בוטח בו לחלוטין או אם אתה לא רגיל לראות התראות עבור אתר זה.</p>
 
 <xul:button xmlns:xul='http://www.mozilla.org/keymaster/gatekeeper/there.is.only.xul' id='getMeOutOfHereButton' label='&securityOverride.getMeOutOfHereButton;'/>
 <xul:button xmlns:xul='http://www.mozilla.org/keymaster/gatekeeper/there.is.only.xul' id='exceptionDialogButton' label='&securityOverride.exceptionButtonLabel;'/>

@@ -17,4 +17,4 @@
 <!ENTITY plugins.label "שירות מאתר התוספים">
 <!ENTITY pluginFinder.label "השתמש תמיד בשירות איתור התוספים של Netscape כדי להשיג תוספים.">
 <!ENTITY pluginFinder.accesskey "ש">
-<!ENTITY pluginFinderDesc.label "אם אפשרות זו אינה מסומנת, יעשה שימוש בשירות איתור התוספים רק אם מיקום התוסף אינו מצויין על־ידי האתר שדורש את התוסף.">
+<!ENTITY pluginFinderDesc.label "אם אפשרות זו אינה מסומנת, יעשה שימוש בשירות איתור התוספים רק אם מיקום התוסף אינו מצוין על־ידי האתר שדורש את התוסף.">

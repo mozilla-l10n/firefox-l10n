@@ -5,10 +5,12 @@
 
 <!ENTITY menu_securitySign.label "חתום הודעה זו חתימה דיגיטלית">
 <!ENTITY menu_securitySign.accesskey "ח">
+
 <!ENTITY menu_securityStatus.label "הצג מידע על אבטחה">
 <!ENTITY menu_securityStatus.accesskey "מ">
 
 <!ENTITY securityButton.label "אבטחה">
 <!ENTITY securityButton.tooltip "הצגה או שינוי הגדרות אבטחה">
+
 <!ENTITY menu_viewSecurityStatus.label "מידע על אבטחת הודעה">
 <!ENTITY menu_viewSecurityStatus.accesskey "מ">

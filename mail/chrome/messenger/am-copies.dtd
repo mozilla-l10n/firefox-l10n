@@ -9,12 +9,11 @@
 <!-- LOCALIZATION NOTE (ccAddress.label): do not translate "Cc" in below line -->
 <!ENTITY ccAddress.label "שלח עותק לכתובות אלו:">
 <!ENTITY ccAddress.accesskey "ע">
-<!ENTITY ccAddressList.emptytext "הפרד בין כתובות עם פסיק">
+<!ENTITY ccAddressList.placeholder "הפרד בין כתובות עם פסיקים">
 <!-- LOCALIZATION NOTE (bccAddress.label): do not translate "Bcc" in below line -->
 <!ENTITY bccAddress.label "עותק סמוי לכתובות אלו:">
 <!ENTITY bccAddress.accesskey "מ">
-<!ENTITY bccAddressList.emptytext "הפרד בין כתובות עם פסיק">
-
+<!ENTITY bccAddressList.placeholder "הפרד בין כתובות עם פסיקים">
 <!ENTITY saveMessageDlg.label "הצג בקשה לאישור כאשר הודעות נשמרות">
 <!ENTITY saveMessageDlg.accesskey "נ">
 <!-- LOCALIZATION NOTE (sentFolderOn.label): OK to translate this, bug #57440 -->
@@ -22,22 +21,26 @@
 <!ENTITY sentFolderOn.accesskey "נ">
 <!ENTITY sentInOtherFolder.label "אחר:">
 <!ENTITY sentInOtherFolder.accesskey "א">
-<!ENTITY draftsFolderOn.label "תיקיית &quot;טיוטות&quot; על:">
-<!ENTITY draftsFolderOn.accesskey "ט">
-<!ENTITY draftInOtherFolder.label "אחר:">
-
-<!ENTITY draftInOtherFolder.accesskey "א">
 <!-- LOCALIZATION NOTE (archivesFolderOn.label): OK to translate this, bug #57440 -->
+<!ENTITY archivesTitle.label "ארכיוני הודעות">
+<!ENTITY keepArchives.label "שמור ארכיון הודעות בתוך:">
+<!ENTITY keepArchives.accesskey "ש">
+<!ENTITY archiveHierarchyButton.label "אפשרויות הארכיון…">
+<!ENTITY archiveHierarchyButton.accesskey "א">
 <!ENTITY archivesFolderOn.label "תיקיית &quot;ארכיון&quot; על:">
 <!ENTITY archivesFolderOn.accesskey "ר">
 <!ENTITY archiveInOtherFolder.label "אחר:">
 <!ENTITY archiveInOtherFolder.accesskey "ח">
-
+<!ENTITY specialFolders.label "טיוטות ותבניות">
+<!ENTITY keepDrafts.label "שמור טיוטות הודעות בתוך:">
+<!-- LOCALIZATION NOTE (draftsFolderOn.label): OK to translate this, bug #57440 -->
+<!ENTITY draftsFolderOn.label "תיקיית &quot;טיוטות&quot; על:">
+<!ENTITY draftsFolderOn.accesskey "ט">
+<!ENTITY draftInOtherFolder.label "אחר:">
+<!ENTITY draftInOtherFolder.accesskey "א">
+<!ENTITY keepTemplates.label "שמור תבניות הודעה בתוך:">
+<!-- LOCALIZATION NOTE (templatesFolderOn.label): OK to translate this, bug #57440 -->
 <!ENTITY templatesFolderOn.label "תיקיית &quot;תבניות&quot; על:">
 <!ENTITY templatesFolderOn.accesskey "ב">
 <!ENTITY templateInOtherFolder.label "אחר:">
 <!ENTITY templateInOtherFolder.accesskey "א">
-<!ENTITY specialFoldersTitle.label "טיוטות ותבניות">
-<!ENTITY keepDrafts.label "שמור טיוטות הודעות בתוך:">
-<!ENTITY keepArchives.label "שמור ארכיון הודעות בתוך:">
-<!ENTITY keepTempltes.label "שמור תבניות הודעה בתוך:">

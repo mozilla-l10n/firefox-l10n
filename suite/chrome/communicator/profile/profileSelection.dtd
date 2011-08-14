@@ -16,7 +16,7 @@
 <!ENTITY renameButton.accesskey "ש">
 <!ENTITY newButton.label "צור פרופיל...">
 <!ENTITY newButton.accesskey "צ">
-<!ENTITY pmTextA.label "&brandShortName; מאכסן מידע אודות ההגדרות, ההעדפות, הסימניות, ההודעות השמורות ופריטי משתמש אחרים שלך בפרופיל המשתמש שלך.">
+<!ENTITY pmTextA.label "&brandShortName; מאכסן מידע על ההגדרות, ההעדפות, הסימניות, ההודעות השמורות ופריטי משתמש אחרים שלך בפרופיל המשתמש שלך.">
 <!ENTITY pmTextC.label "אתה חייב לבחור פרופיל, או ליצור פרופיל חדש, בפעם הראשונה שאתה מפעיל את &brandShortName;.">
 <!ENTITY pmTextB.label "מציין פרופיל שנוצר עם גרסה קודמת של Netscape. יש להעתיק ולהמיר פרופילים אלה לפני שניתן יהיה לטעון אותם עם &brandShortName;. זהו תהליך אוטומטי.">
 <!ENTITY offlineState.label "עבוד לא־מקוון">

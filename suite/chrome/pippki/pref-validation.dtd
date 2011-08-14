@@ -66,7 +66,7 @@
 <!ENTITY crl.issuer.orgunit.label "יחידה:">
 <!ENTITY crl.import.nextupdate.label "העדכון הבא בתאריך:">
 <!ENTITY crl.autoupdate.fail.cnt.label "כשלונות עדכון רצופים קודמים:">
-<!ENTITY crl.autoupdate.fail.reason.label "פרטי כשלון עדכון אחרון:">
+<!ENTITY crl.autoupdate.fail.reason.label "פרטי כישלון עדכון אחרון:">
 <!ENTITY edit.button "הגדרות">
 <!ENTITY validation.ocsp.caption "פרוטוקול מצב אישור מקוון">
 <!ENTITY validation.ocsp.description "&brandShortName; יכול להשתמש בפרוטוקול מצב אישור מקוון (OCSP) כדי לאמת אישורים. הגדר ש־&brandShortName; ישתמש ב־OCSP באופן הבא:">

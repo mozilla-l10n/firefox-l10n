@@ -6,12 +6,9 @@
 <!ENTITY organize.accesskey    "א">
 <!ENTITY organize.tooltip      "ארגן את הסימניות שלך">
 
-<!ENTITY file.accesskey                 "ק">
 <!ENTITY file.close.label               "סגור">
 <!ENTITY file.close.accesskey           "ס">
 <!ENTITY cmd.close.key                  "w">
-<!ENTITY edit.label                     "עריכה">
-<!ENTITY edit.accesskey                 "ע">
 <!ENTITY views.label                    "תצוגות">
 <!ENTITY views.accesskey                "ת">
 <!ENTITY views.tooltip                  "שנה את התצוגה שלך">
@@ -19,9 +16,9 @@
 <!ENTITY view.columns.accesskey         "ה">
 <!ENTITY view.sort.label                "מיין">
 <!ENTITY view.sort.accesskey            "מ">
-<!ENTITY view.unsorted.label            "לא ממויין">
+<!ENTITY view.unsorted.label            "לא ממוין">
 <!ENTITY view.unsorted.accesskey        "ל">
-<!ENTITY view.sortAscending.label       "ממויין בסדר עולה">
+<!ENTITY view.sortAscending.label       "ממוין בסדר עולה">
 <!ENTITY view.sortAscending.accesskey   "ע">
 <!ENTITY view.sortDescending.label      "מיון בסדר יורד">
 <!ENTITY view.sortDescending.accesskey  "י">
@@ -31,10 +28,12 @@
 <!ENTITY cmd.findCurrent.label          "מצא באוסף הנוכחי...">
 <!ENTITY cmd.findCurrent.accesskey      "א">
 
-<!ENTITY cmd.exportHTML.label           "ייצא HTML…">
-<!ENTITY cmd.exportHTML.accesskey       "צ">
-<!ENTITY cmd.importHTML.label           "ייבא HTML…">
-<!ENTITY cmd.importHTML.accesskey       "ב">
+<!ENTITY importBookmarksFromHTML.label     "ייבוא סימניות מקובץ HTML…">
+<!ENTITY importBookmarksFromHTML.accesskey "י">
+<!ENTITY exportBookmarksToHTML.label       "ייצוא סימניות לקובץ HTML…">
+<!ENTITY exportBookmarksToHTML.accesskey   "י">
+<!ENTITY importOtherBrowser.label          "ייבוא מידע מדפדפן אחר…">
+<!ENTITY importOtherBrowser.accesskey      "י">
 
 <!ENTITY cmd.backup.label               "גיבוי...">
 <!ENTITY cmd.backup.accesskey           "ג">
@@ -76,8 +75,6 @@
 
 <!ENTITY cmd.reloadLivebookmark.label      "טען מחדש עדכנייה">
 <!ENTITY cmd.reloadLivebookmark.accesskey  "ט">
-<!ENTITY cmd.reloadMicrosummary.label      "טען מחדש מיקרו־תקציר">
-<!ENTITY cmd.reloadMicrosummary.accesskey  "ט">
 
 <!ENTITY cmd.moveBookmarks.label                  "העבר...">
 <!ENTITY cmd.moveBookmarks.accesskey              "ע">
@@ -113,17 +110,14 @@
 <!ENTITY maintenance.accesskey  "י">
 <!ENTITY maintenance.tooltip    "יבא וגבה את הסימניות שלך">
 
-<!ENTITY backCmd.label       "אחורה">
 <!ENTITY backButton.tooltip  "חזור אחורה">
 
-<!ENTITY forwardCmd.label       "קדימה">
 <!ENTITY forwardButton.tooltip  "המשך קדימה">
 
 <!ENTITY detailsPane.more.label "יותר">
 <!ENTITY detailsPane.more.accesskey "י">
 <!ENTITY detailsPane.less.label "פחות">
 <!ENTITY detailsPane.less.accesskey "פ">
-<!ENTITY detailsPane.noPreviewAvailable.label "תצוגה מקדימה">
 <!ENTITY detailsPane.selectAnItemText.description "בחר פריט כדי לצפות ולערוך את המאפיינים שלו">
 
 <!ENTITY find.label               "חפש:">

@@ -24,7 +24,7 @@
 
 <!ENTITY  noupdates.wizard.title          "לא נמצאו תוספות תואמות">
 <!ENTITY  noupdates.intro.desc            "&brandShortName; לא הצליח לחפש עדכונים להרחבות הלא תואמות שברשותך.">
-<!ENTITY  noupdates.error.desc            "בעיה כלשהי אירעה בנסיון לחפש עדכונים.">
+<!ENTITY  noupdates.error.desc            "בעיה כלשהי אירעה בניסיון לחפש עדכונים.">
 <!ENTITY  noupdates.checkEnabled.desc     "&brandShortName; יבדוק באופן תדיר ויודיע לך כאשר עדכונים תואמים להרחבות אלו זמינים.">
 
 <!ENTITY  finished.wizard.title           "תוספות תואמות עודכנו">

@@ -1,3 +1,5 @@
+<!--LOCALIZATION NOTE msgViewPickerOverlay.dtd UI for showing various views on a folder -->
+
 <!ENTITY viewPicker.label "הצג:">
 <!ENTITY viewPicker.accesskey "צ">
 <!ENTITY viewAll.label "הכל">
@@ -10,7 +12,7 @@
 <!ENTITY viewTags.accesskey "ת">
 <!ENTITY viewCustomViews.label "תצוגות מותאמות אישית">
 <!ENTITY viewCustomViews.accesskey "א">
-<!ENTITY viewVirtualFolder.label "שמור תצוגה כתיקייה...">
+<!ENTITY viewVirtualFolder.label "שמור תצוגה כתיקייה…">
 <!ENTITY viewVirtualFolder.accesskey "ש">
-<!ENTITY viewCustomizeView.label "התאמה אישית...">
+<!ENTITY viewCustomizeView.label "התאמה אישית…">
 <!ENTITY viewCustomizeView.accesskey "ה">

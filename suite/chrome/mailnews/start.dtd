@@ -48,7 +48,7 @@
 <!ENTITY feat_integration.label "שילוב הדוק עם חבילת היישומים של &brandShortName;">
 <!ENTITY dict.title "מילונים">
 <!ENTITY dict_intro.label "מילונים משמשים לבדיקת האיות של ההודעות שלך.">
-<!ENTITY dict_info.label 'ניתן להתקין שפות רבות נוספות מאיזור
+<!ENTITY dict_info.label 'ניתן להתקין שפות רבות נוספות מאזור
 <a href="https://en-us.add-ons.mozilla.org/en-US/seamonkey/1.1/dictionaries/">המילונים</a> של <a href="http://addons.mozilla.org/">Mozilla Add-ons</a>.'>
 <!ENTITY info.title "מידע נוסף">
 <!ENTITY info_bugs.label '<a href="http://www.mozilla.org/mailnews/">אנחנו</a> מזמינים דיווחים על באגים ובקשות לתכונות, אך אנא קרא את <a href="&releaseURL;">הערות ההפצה</a> וחפש ב־

@@ -5,8 +5,12 @@
                        for the help button in the menubar but Gnome does not.   -->
 <!ENTITY helpMenuWin.label "עזרה">
 <!ENTITY helpMenuWin.accesskey "ע">
-<!ENTITY releaseCmd.label "הערות שחרור">
-<!ENTITY releaseCmd.accesskey "ש">
+<!ENTITY helpTroubleshootingInfo.label     "מידע לפתרון בעיות">
+<!ENTITY helpTroubleshootingInfo.accesskey "מ">
+<!ENTITY helpSafeMode.label     "הפעלה מחדש עם תוספות מנוטרלות…">
+<!ENTITY helpSafeMode.accesskey "ה">
+<!ENTITY releaseCmd2.label "הערות שחרור">
+<!ENTITY releaseCmd2.accesskey "ה">
 <!ENTITY whatsNewCmd.label "מה חדש">
 <!ENTITY whatsNewCmd.accesskey "מ">
 <!ENTITY featureConfiguratorCmd.label "מסייע המעבר">
@@ -18,6 +22,5 @@
 <!ENTITY openHelpMac2.commandkey   "?">
 <!ENTITY openHelpMac2.modifiers    "accel">
 
-<!ENTITY updateCmd.label "בדוק אם ישנם עדכונים…">
 <!ENTITY aboutMenuCmd.label "אודות &brandShortName;">
 <!ENTITY aboutMenuCmd.accesskey "א">

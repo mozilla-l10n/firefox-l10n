@@ -21,7 +21,6 @@
    -
    - Contributor(s):
    -   Fabian Guisset <hidday@geocities.com>
-   -   Tomer Cohen <tomerc@gmail.com>
    -
    - Alternatively, the contents of this file may be used under the terms of
    - either the GNU General Public License Version 2 or later (the "GPL"), or
@@ -36,8 +35,9 @@
    - the terms of any one of the MPL, the GPL or the LGPL.
    -
    - ***** END LICENSE BLOCK ***** -->
-<!ENTITY renameFolderDialog.title "שנה שם תיקייה">
-<!ENTITY rename.label "הכנס את השם החדש לתיקייה שלך:">
-<!ENTITY rename.accesskey "נ">
+   
+<!ENTITY renameFolderDialog.title          "שנה שם תיקייה">
+<!ENTITY rename.label                      "הכנס את השם החדש לתיקייה שלך:">
+<!ENTITY rename.accesskey                  "נ">
 <!ENTITY accept.label                      "שנה שם">
 <!ENTITY accept.accesskey                  "ש">

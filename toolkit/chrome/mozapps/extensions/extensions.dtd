@@ -6,7 +6,7 @@
 <!ENTITY listEmpty.recentUpdates.label        "לא עדכנת תוספות כלשהן לאחרונה">
 <!ENTITY listEmpty.findUpdates.label          "בדוק אם ישנם עדכונים">
 <!ENTITY listEmpty.search.label               "לא ניתן למצוא תוספת תואמת">
-<!ENTITY listEmpty.button.label               "למד עוד אודות תוספות">
+<!ENTITY listEmpty.button.label               "למד עוד על תוספות">
 <!ENTITY installAddonFromFile.label           "התקנת תוספת מקובץ…">
 <!ENTITY installAddonFromFile.accesskey       "ה">
 <!ENTITY toolsMenu.tooltip                    "כלים עבור כל התוספות">
@@ -23,14 +23,13 @@
 <!ENTITY warning.updatesecurity.enable.label       "אפשר">
 <!ENTITY warning.updatesecurity.enable.tooltip     "הפעל בדיקות אבטחה לעדכוני תוספות">
 
+<!-- global informations -->
+<!ENTITY info.plugincheck.label                 "בדיקה שהתוספים החיצוניים שלך מעודכנים">
+<!ENTITY info.plugincheck.tooltip               "בדיקה שהתוספים החיצוניים שלך מעודכנים">
+
 <!-- categories / views -->
 <!ENTITY view.search.label                    "חיפוש">
 <!ENTITY view.discover.label                  "קבל תוספות">
-<!ENTITY view.locales.label                   "שפות">
-<!ENTITY view.searchengines.label             "מנועי חיפוש">
-<!ENTITY view.features.label                  "הרחבות">
-<!ENTITY view.appearance2.label               "מראה">
-<!ENTITY view.plugins.label                   "תוספים חיצוניים">
 <!ENTITY view.recentUpdates.label             "עדכונים אחרונים">
 <!ENTITY view.availableUpdates.label          "עדכונים זמינים">
 
@@ -197,3 +196,5 @@
 <!ENTITY eula.width                           "560px">
 <!ENTITY eula.height                          "400px">
 <!ENTITY eula.accept                          "קבל תנאים והתקן…">
+
+<!ENTITY settings.path.button.label           "עיון…‏">

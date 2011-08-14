@@ -61,8 +61,8 @@
 <!ENTITY  dontrememberActions.clearHistory.label "לנקות את כל ההיסטוריה הנוכחית">
 <!ENTITY  dontrememberActions.post.label         ".">
 
-<!ENTITY  privateBrowsingPermanent.label "מצב גלישה פרטית קבוע">
-<!ENTITY  privateBrowsingPermanent.accesskey "מ">
+<!ENTITY  privateBrowsingPermanent2.label "השתמש תמיד במצב גלישה פרטית">
+<!ENTITY  privateBrowsingPermanent2.accesskey "ה">
 
 <!ENTITY  rememberHistory.label      "שמור את היסטורית הגלישה שלי">
 <!ENTITY  rememberHistory.accesskey  "ש">

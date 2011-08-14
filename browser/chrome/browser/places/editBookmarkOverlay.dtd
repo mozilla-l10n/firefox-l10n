@@ -6,7 +6,6 @@
 <!ENTITY editBookmarkOverlay.feedLocation.accesskey          "ז">
 <!ENTITY editBookmarkOverlay.siteLocation.label              "כתובת אתר:">
 <!ENTITY editBookmarkOverlay.siteLocation.accesskey          "א">
-<!ENTITY editBookmarkOverlay.liveTitlesSeparator.label       "כותרות חיות">
 <!ENTITY editBookmarkOverlay.folder.label                    "תיקייה:">
 <!ENTITY editBookmarkOverlay.foldersExpanderDown.tooltip     "הצג את כל תיקיות הסימניות">
 <!ENTITY editBookmarkOverlay.expanderUp.tooltip              "הסתר">

@@ -1,6 +1,9 @@
+
+<!--LOCALIZATION NOTE (editorCheck.label): DONT_TRANSLATE -->
+<!ENTITY editorCheck.label "Composer">
+<!ENTITY editorCheck.accesskey "C">
+
 <!ENTITY compose.label "Composer">
 <!ENTITY editing.label "הגדרות דף חדש">
-<!ENTITY editorCheck.accesskey "c">
-<!ENTITY editorCheck.label "Composer">
-<!ENTITY publish.label "פרסום">
 <!ENTITY toolbars.label "סרגלי כלים">
+<!ENTITY publish.label "פרסום">

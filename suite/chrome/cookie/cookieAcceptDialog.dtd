@@ -1,4 +1,4 @@
-<!ENTITY props.box.label "אודות עוגיה זו">
+<!ENTITY props.box.label "אודות עוגייה זו">
 <!ENTITY props.name.label "שם:">
 <!ENTITY props.value.label "מידע:">
 <!ENTITY props.domain.label "שרת מארח:">
@@ -12,6 +12,6 @@
 <!ENTITY button.session.accesskey "ל">
 <!ENTITY button.deny.label "דחה">
 <!ENTITY button.deny.accesskey "ד">
-<!ENTITY dialog.title "אשר קביעת עוגיה">
+<!ENTITY dialog.title "אשר קביעת עוגייה">
 <!ENTITY dialog.remember.label "השתמש בבחירתי עבור כל העוגיות מאתר זה">
 <!ENTITY dialog.remember.accesskey "ש">

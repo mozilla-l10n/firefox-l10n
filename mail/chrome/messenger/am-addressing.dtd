@@ -1,28 +1,36 @@
-<!ENTITY addressing.label "חיבור ומיעון הודעה">
+<!-- extracted from am-addressing.xul -->
+
+<!ENTITY addressing.label          "חיבור ומיעון הודעה">
 <!ENTITY addressingGroupTitle.label "מיעון">
-<!ENTITY addressingText.label "בעת חיפוש כתובות:">
-<!ENTITY useGlobal.label "השתמש בהעדפות שרת LDAP הכלליות שלי עבור חשבון זה">
-<!ENTITY useGlobal.accesskey "U">
-<!ENTITY editDirectories.label "ערוך מדריכים...">
-<!ENTITY editDirectories.accesskey "E">
-<!ENTITY directories.label "השתמש בשרת LDAP אחר:">
-<!ENTITY directories.accesskey "d">
-<!ENTITY compositionGroupTitle.label "חיבור הודעה">
-<!ENTITY useHtml.label "חבר הודעות בתבנית HTML">
-<!ENTITY useHtml.accesskey "C">
-<!ENTITY autoQuote.label "צטט אוטומטית הודעה מקורית בעת מענה">
-<!ENTITY autoQuote.accesskey "q">
-<!ENTITY then.label "ואז,">
-<!ENTITY then.accesskey "t">
-<!ENTITY aboveQuote.label "התחל את תשובתי מעל הציטוט">
-<!ENTITY belowQuote.label "התחל את תשובתי מתחת לציטוט">
-<!ENTITY selectAndQuote.label "בחר את הציטוט">
-<!ENTITY place.label "והוסף את חתימתי">
-<!ENTITY place.accesskey "p">
-<!ENTITY belowText.label "מתחת לציטוט (מומלץ)">
-<!ENTITY aboveText.label "מתחת לתשובתי (מעל הציטוט)">
+<!ENTITY addressingText.label      "בעת חיפוש כתובות:">
+<!-- LOCALIZATION NOTE (override.label) : do not translate "LDAP" in below line -->
+<!ENTITY useGlobal.label           "השתמש בהעדפות שרת LDAP הכלליות שלי עבור חשבון זה">
+<!ENTITY useGlobal.accesskey       "L">
+<!ENTITY editDirectories.label     "עריכת מדריכים…">
+<!ENTITY editDirectories.accesskey "ע">
+<!-- LOCALIZATION NOTE (directories.label) : do not translate "LDAP" in below line -->
+<!ENTITY directories.label         "השתמש בשרת LDAP אחר:">
+<!ENTITY directories.accesskey     "ש">
 <!ENTITY directoriesNone.label     "ללא">
 
+<!-- am-addressing.xul -->
+
+<!ENTITY compositionGroupTitle.label "חיבור הודעה">
+<!-- LOCALIZATION NOTE (useHtml.label) : do not translate "html" in below line -->
+<!ENTITY useHtml.label                        "חבר הודעות בתבנית HTML">
+<!ENTITY useHtml.accesskey                    "ת">
+<!ENTITY autoQuote.label                      "צטט אוטומטית הודעה מקורית בעת מענה">
+<!ENTITY autoQuote.accesskey                  "צ">
+<!-- LOCALIZATION NOTE (then.label): This will concatenate with the 4 strings that follow. -->
+<!ENTITY then.label                           "ואז,">
+<!ENTITY then.accesskey                       "ז">
+<!ENTITY aboveQuote.label                     "התחל את תשובתי מעל הציטוט">
+<!ENTITY belowQuote.label                     "התחל את תשובתי מתחת לציטוט">
+<!ENTITY selectAndQuote.label                 "בחר את הציטוט">
+<!ENTITY place.label                          "והוסף את חתימתי">
+<!ENTITY place.accesskey                      "ח">
+<!ENTITY belowText.label                      "מתחת לציטוט (מומלץ)">
+<!ENTITY aboveText.label                      "מתחת לתשובתי (מעל הציטוט)">
 <!ENTITY includeSigOnReply.label              "כלול חתימה בתגובות">
 <!ENTITY includeSigOnReply.accesskey          "ת">
 <!ENTITY includeSigOnForward.label            "כלול חתימה בהעברות">

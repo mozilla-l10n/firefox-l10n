@@ -6,7 +6,7 @@
 
 <!-- Specific error messages -->
 
-<!ENTITY connectionFailure.title "כשלון בהתחברות">
+<!ENTITY connectionFailure.title "כישלון בהתחברות">
 <!ENTITY connectionFailure.longDesc "&sharedLongDesc;">
 
 <!ENTITY deniedPortAccess.title "כתובת זו מוגבלת">
@@ -17,8 +17,8 @@
 <ul>
   <li>בדוק כי הכתובת הוקלדה ללא שגיאות כגון
     <strong>ww</strong>.example.com במקום <strong>www</strong>.example.com</li>
-  <li>במידה ואינך יכול לטעון כל דף, בדוק את החיבור לרשת של המחשב.</li>
-  <li>אם המחשב או הרשת מוגנים בחומת אש או שרת מתווך, וודאי כי &brandShortName; מורשה לגישה לרשת.</li>
+  <li>אם אינך יכול לטעון כל דף, בדוק את החיבור לרשת של המחשב.</li>
+  <li>אם המחשב או הרשת מוגנים בחומת אש או שרת מתווך, ודא כי &brandShortName; מורשה לגישה לרשת.</li>
 </ul>
 ">
 
@@ -40,7 +40,7 @@
 <!ENTITY malformedURI.longDesc "<ul>
   <li>כתובות אתרים מכתבות בדרך־כלל בתבנית של 
     <strong>http://www.example.com/</strong></li>
-  <li>וודא שאתה משתמש בלוכסן קדמי (&quot;<strong>/</strong>&quot;).</li>
+  <li>ודא שאתה משתמש בלוכסן קדמי (&quot;<strong>/</strong>&quot;).</li>
 </ul>
              ">
 
@@ -48,20 +48,16 @@
 <!ENTITY netInterrupt.longDesc "&sharedLongDesc;">
 
 <!ENTITY netOffline.title "מצב לא־מקוון">
-<!-- LOCALIZATION NOTE (netOffline.overrideLongDesc) - This string should
-     indicate that "Work Offline" is a menu item without being too specific,
-     since it could be in either the normal menu (Mac/Linux) or the Firefox button
-     menu (Windows).
--->
-<!ENTITY netOffline.overrideLongDesc "<ul>
- <li>הסר את הסימון מהאפשרות &quot;עבוד לא־מקוון&quot;, ואז נסה שוב.</li>
+<!ENTITY netOffline.longDesc2 "
+<ul>
+  <li>לחץ על &quot;נסה שוב&quot; כדי לעבור למצב מקוון ולטעון מחדש את הדף.</li>
 </ul>
 ">
 
 <!ENTITY contentEncodingError.title "שגיאה בקידוד תוכן">
 <!ENTITY contentEncodingError.longDesc "
 <ul>
-  <li>אנא צור קשר עם בעלי האתר בכדי ליידע אותם על בעיה זו.</li>
+  <li>אנא צור קשר עם בעלי האתר כדי ליידע אותם על בעיה זו.</li>
 </ul>">
 
 <!ENTITY unsafeContentType.title "סוג קובץ מסוכן">
@@ -94,8 +90,8 @@
 <!ENTITY proxyResolveFailure.longDesc "
 <ul>
   <li>בדוק כי הגדרות השרת המתווך שלך נכונות.</li>
-  <li>וודא כי חיבור המחשב שלך לרשת פעיל.</li>
-  <li>אם המחשב או הרשת שלך מוגנים באמצעות חומת אש או שרת מתווך, וודא כי &brandShortName; מורשה לגישה לרשת.</li>
+  <li>ודא כי חיבור המחשב שלך לרשת פעיל.</li>
+  <li>אם המחשב או הרשת שלך מוגנים באמצעות חומת אש או שרת מתווך, ודא כי &brandShortName; מורשה לגישה לרשת.</li>
 </ul>
 ">
 
@@ -109,7 +105,7 @@
 <!ENTITY unknownSocketType.title "תגובה לא צפויה מהשרת">
 <!ENTITY unknownSocketType.longDesc "
 <ul>
-  <li>וודא כי מותקן על המערכת שלך מנהל האבטחה האישי.</li>
+  <li>ודא כי מותקן על המערכת שלך מנהל האבטחה האישי.</li>
   <li>ייכתן וההגדרות השרת אינן תקניות</li>
 </ul>
 ">
@@ -117,7 +113,7 @@
 <!ENTITY nssFailure2.title "קישור מאובטח נכשל">
 <!ENTITY nssFailure2.longDesc "
 <ul>
-  <li>האתר שאתה מנסה לגשת אליו לא ניתן להצגה מאחר ולא ניתן לוודא את האותנטיות של המידע שהתקבל.</li>
+  <li>האתר שאתה מנסה לגשת אליו לא ניתן להצגה כי לא ניתן לוודא את האותנטיות של המידע שהתקבל.</li>
   <li>בבקשה צור קשר עם בעלי האתר ודווח להם על בעיה זו. ניתן גם להשתמש בפקודת הדיווח על אתרים פגומים הממוקמת בתפריט העזרה.</li>
 </ul>">
 
@@ -133,7 +129,7 @@
 <ul>
   <li>האתר איננו זמין כרגע או שהוא עמוס מידי. אנא נסה שוב בעוד מספר רגעים.</li>
   <li>אם אינך מצליח לטעון דפים כלשהם, בדוק את הקישוריות של המחשב שלך לרשת.</li>
-  <li>במידה והמחשב או הרשת שלך מוגנים באמצעות חומת אש או שרת מתווך, וודא כי &brandShortName; מורשה לגישה לרשת.</li>
+  <li>אם המחשב או הרשת שלך מוגנים באמצעות חומת אש או שרת מתווך, ודא כי &brandShortName; מורשה לגישה לרשת.</li>
 </ul>
 ">
 
@@ -150,6 +146,10 @@
 
 <!ENTITY cspFrameAncestorBlocked.title "נחסם בהתאם למדיניות האבטחה של התוכן">
 <!ENTITY cspFrameAncestorBlocked.longDesc "<p>&brandShortName; מונע מדף זה להיטען בצורה זו מאחר שהדף כולל מדיניות אבטחת תוכן שמונעת זאת.</p>">
+
+<!ENTITY corruptedContentError.title "שגיאת תוכן פגום">
+<!ENTITY corruptedContentError.longDesc "<p>הדף שאתה מנסה לצפות בו אינו יכול להיות מוצג בגלל שהתגלתה שגיאה בהעברת הנתונים.</p><ul><li>אנא צור קשר עם בעלי האתר והודע על הבעיה הזאת.</li></ul>">
+
 
 <!ENTITY securityOverride.linkText "באפשרותך גם להוסיף חריגה…">
 <!ENTITY securityOverride.getMeOutOfHereButton "תוציא אותי מכאן!">
