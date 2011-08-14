@@ -165,7 +165,7 @@ can reach it easily. -->
 <!ENTITY toolsMenu.accesskey "N">
 
 <!ENTITY keywordfield.label "K vyhledávání přiřadit klíčové slovo">
-<!ENTITY keywordfield.accesskey "K">
+<!ENTITY keywordfield.accesskey "h">
 <!ENTITY search.label "Hledání na webu">
 <!ENTITY search.accesskey "w">
 <!ENTITY downloads.label "Správce stahování">
