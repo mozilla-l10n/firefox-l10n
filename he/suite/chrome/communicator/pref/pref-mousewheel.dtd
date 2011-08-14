@@ -11,7 +11,7 @@
 <!ENTITY scroll.accesskey "ג">
 <!ENTITY scrollHoriz.accesskey "א">
 <!ENTITY scrollLines.label " שורות.">
-<!ENTITY scrollChars.label " תוים.">
+<!ENTITY scrollChars.label " תווים.">
 <!ENTITY useSystemDefault.label "השתמש בברירת המחדל של המערכת">
 <!ENTITY useSystemDefault.accesskey "ש">
 <!ENTITY useSystemDefaultHoriz.accesskey "ת">

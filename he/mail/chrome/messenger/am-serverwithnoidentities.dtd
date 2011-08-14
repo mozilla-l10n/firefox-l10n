@@ -6,7 +6,6 @@
 <!ENTITY emptyTrashOnExit.label "רוקן אשפה ביציאה">
 <!ENTITY emptyTrashOnExit.accesskey "י">
 <!ENTITY localPath.label "ספרייה מקומית:">
-
 <!ENTITY localFolderPicker.label "בחר ספרייה מקומית">
-<!ENTITY browseFolder.label "עיין...">
+<!ENTITY browseFolder.label "עיין…">
 <!ENTITY browseFolder.accesskey "ע">

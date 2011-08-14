@@ -11,7 +11,7 @@
 <!ENTITY uninstallButton.label "הסר התקנה">
 <!ENTITY uninstallButton.accesskey "ס">
 <!ENTITY updateNotifications.label "הודעות עדכונים">
-<!ENTITY updateNotifications.desc "בדוק אם קיימות גרסאות חדשות של תוכנה זו. שום מידע אודותיך או אודות המחשב שלך לא יחשף בזמן פעולה זו.">
+<!ENTITY updateNotifications.desc "בדוק אם קיימות גרסאות חדשות של תוכנה זו. שום מידע עליך או על המחשב שלך לא ייחשף בזמן פעולה זו.">
 <!ENTITY enableUN.label "בדוק אם קיימים עדכונים באופן:">
 <!ENTITY enableUN.accesskey "ד">
 <!ENTITY weekly.label "שבועי">

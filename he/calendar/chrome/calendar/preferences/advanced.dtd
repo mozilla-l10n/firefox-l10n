@@ -42,7 +42,7 @@
   -->
 
 <!ENTITY pref.calendar.advanced.generalTab.label "כללי">
-<!ENTITY pref.calendar.advanced.passwordsTab.label "סיסמאות">
+<!ENTITY pref.calendar.advanced.passwordsTab.label "ססמאות">
 <!ENTITY pref.calendar.advanced.updateTab.label "עדכונים">
 <!ENTITY pref.calendar.advanced.encryptionTab.label "הצפנה">
 
@@ -55,13 +55,13 @@
 <!ENTITY pref.calendar.advanced.configEdit.accesskey "ע">
 
 <!-- Passwords -->
-<!ENTITY pref.calendar.advanced.savedPasswords.intro "&brandShortName; יכול לזכור את הסיסמאות לכל לוחות השנה שלך, כך שלא תצטרך להכניס שוב את פרטי ההתחברות שלך.">
-<!ENTITY pref.calendar.advanced.useMasterPassword.label "השתמש בסיסמה ראשית כדי להצפין את הסיסמאות השמורות">
+<!ENTITY pref.calendar.advanced.savedPasswords.intro "&brandShortName; יכול לזכור את הססמאות לכל לוחות השנה שלך, כך שלא תצטרך להכניס שוב את פרטי ההתחברות שלך.">
+<!ENTITY pref.calendar.advanced.useMasterPassword.label "השתמש בססמה ראשית כדי להצפין את הססמאות השמורות">
 <!ENTITY pref.calendar.advanced.useMasterPassword.accesskey "ס">
-<!ENTITY pref.calendar.advanced.masterPassword.intro "כאשר נקבעת, הסיסמה הראשית מגנה על כל הסיסמאות שלך, אבל אתה תצטרך להכניס אותה מחדש בכל הפעלה של התוכנה.">
-<!ENTITY pref.calendar.advanced.changeMasterPassword.label "שנה סיסמה ראשית…">
+<!ENTITY pref.calendar.advanced.masterPassword.intro "כאשר נקבעת, הססמה הראשית מגנה על כל הססמאות שלך, אבל אתה תצטרך להכניס אותה מחדש בכל הפעלה של התוכנה.">
+<!ENTITY pref.calendar.advanced.changeMasterPassword.label "שנה ססמה ראשית…">
 <!ENTITY pref.calendar.advanced.changeMasterPassword.accesskey "ש">
-<!ENTITY pref.calendar.advanced.viewPasswords.label "הצג סיסמאות שמורות…">
+<!ENTITY pref.calendar.advanced.viewPasswords.label "הצג ססמאות שמורות…">
 <!ENTITY pref.calendar.advanced.viewPasswords.accesskey "ה">
 
 <!-- Update -->
@@ -75,7 +75,7 @@
 <!ENTITY pref.calendar.advanced.update.modeAskMe.accesskey "ש">
 <!ENTITY pref.calendar.advanced.update.modeAuto.label "הורד והתקן את העדכון בצורה אוטומטית">
 <!ENTITY pref.calendar.advanced.update.modeAuto.accesskey "ה">
-<!ENTITY pref.calendar.advanced.update.modeAutoWarn.label "הזהר אותי במידה ועדכון זה ינטרל תוספות מותקנות">
+<!ENTITY pref.calendar.advanced.update.modeAutoWarn.label "הזהר אותי אם עדכון זה ינטרל תוספות מותקנות">
 <!ENTITY pref.calendar.advanced.update.modeAutoWarn.accesskey "ז">
 <!ENTITY pref.calendar.advanced.update.showHistory.label "הצג היסטוריית עדכונים…">
 <!ENTITY pref.calendar.advanced.update.showHistory.accesskey "ה">

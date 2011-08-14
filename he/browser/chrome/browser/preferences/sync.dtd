@@ -12,7 +12,7 @@
 <!-- Manage Account -->
 <!ENTITY manageAccount.label          "ניהול חשבון">
 <!ENTITY manageAccount.accesskey      "נ">
-<!ENTITY viewQuota.label              "הצג מיכסה">
+<!ENTITY viewQuota.label              "הצג מכסה">
 <!ENTITY changePassword.label         "שינוי ססמה">
 <!ENTITY mySyncKey.label              "מפתח הסנכרון שלי">
 <!ENTITY resetSync.label              "איפוס Sync">

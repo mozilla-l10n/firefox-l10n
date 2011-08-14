@@ -8,7 +8,7 @@
 <!ENTITY dualUseFolders.accesskey "ש">
 <!ENTITY useIdle.label "השתמש בפקודת IDLE אם השרת תומך בה">
 <!ENTITY useIdle.accesskey "פ">
-<!ENTITY maximumConnectionsNumber.label "מספר מירבי של חיבורי שרת לשמור במטמון">
+<!ENTITY maximumConnectionsNumber.label "מספר מרבי של חיבורי שרת לשמור במטמון">
 <!ENTITY maximumConnectionsNumber.accesskey "מ">
 <!ENTITY namespaceDesc.label "העדפות אלו מציינות את מרחבי השמות על שרת ה־IMAP שלך">
 <!ENTITY personalNamespace.label "מרחב שמות אישי:">

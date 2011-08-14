@@ -37,7 +37,7 @@
    - ***** END LICENSE BLOCK ***** -->
 <!ENTITY pageInfo.p3pTab.label "פרטיות">
 <!ENTITY pageInfo.p3pTab.accesskey "פ">
-<!ENTITY pageInfo.instruction "בחר את הכתובת של דף זה או של אחד ממרכיביו, ולחץ על הכפתורים למטה בכדי לראות מידע על הפרטיות עבור הפריט הנבחר">
+<!ENTITY pageInfo.instruction "בחר את הכתובת של דף זה או של אחד ממרכיביו, ולחץ על הכפתורים למטה כדי לראות מידע על הפרטיות עבור הפריט הנבחר">
 <!ENTITY pageInfo.linkTypes "רכיבי דף">
 <!ENTITY pageInfo.type.links "קישורים">
 <!ENTITY pageInfo.type.applets "יישומוני Java">

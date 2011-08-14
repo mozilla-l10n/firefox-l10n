@@ -4,5 +4,5 @@
 <!ENTITY clearLog.accesskey "C">
 <!ENTITY enableLog.label "אפשר רישום יומן למסנן">
 <!ENTITY enableLog.accesskey "E">
-<!ENTITY closeLog.label "סגור">
+<!ENTITY closeLog.label "סגירה">
 <!ENTITY closeLog.accesskey "o">

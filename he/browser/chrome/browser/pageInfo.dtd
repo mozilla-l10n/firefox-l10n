@@ -43,10 +43,10 @@
 <!ENTITY  copy.key              "C">
 <!ENTITY  copy.label            "העתק">
 <!ENTITY  copy.accesskey        "ה">
-<!ENTITY    selectall.key         "A">
+<!ENTITY  selectall.key         "A">
 <!ENTITY  selectall.label       "בחר הכל">
 <!ENTITY  selectall.accesskey   "ב">
-<!ENTITY    closeWindow.key       "w">
+<!ENTITY  closeWindow.key       "w">
 
 <!ENTITY  generalTab            "כללי">
 <!ENTITY  generalTab.accesskey  "כ">
@@ -66,7 +66,7 @@
 <!ENTITY  mediaTab              "מדיה">
 <!ENTITY  mediaTab.accesskey    "מ">
 <!ENTITY  mediaLocation         "מיקום:">
-<!ENTITY  mediaText             "מלל משוייך:">
+<!ENTITY  mediaText             "מלל משויך:">
 <!ENTITY  mediaAltHeader        "מלל חלופי">
 <!ENTITY  mediaAddress          "כתובת">
 <!ENTITY  mediaType             "סוג">

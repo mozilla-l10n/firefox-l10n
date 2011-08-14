@@ -10,7 +10,7 @@
 <!ENTITY preserveThreading.label "שמור על נושאי דיון בעת סידור הודעות">
 <!ENTITY preserveThreading.accesskey "ש">
 <!ENTITY messengerStartPage.caption "דף ההתחלה של הדואר">
-<!ENTITY enableStartPage.label "כאשר תוכנת הדואר מופעלת, הצג את דף ההתחלה באיזור ההודעה">
+<!ENTITY enableStartPage.label "כאשר תוכנת הדואר מופעלת, הצג את דף ההתחלה באזור ההודעה">
 <!ENTITY enableStartPage.accesskey "כ">
 <!ENTITY location.label "מיקום:">
 <!ENTITY location.accesskey "מ">

@@ -7,8 +7,13 @@
 <!ENTITY editContactEmail.label "דוא״ל:">
 <!ENTITY editContactEmail.accesskey "ד">
 
+<!ENTITY editContactAddressBook.label "פנקס כתובות">
+<!ENTITY editContactAddressBook.accesskey "פ">
+
 <!ENTITY editContactPanelCancel.label "ביטול">
 <!ENTITY editContactPanelCancel.accesskey "ב">
 
 <!ENTITY editContactPanelDone.label "סיום">
 <!ENTITY editContactPanelDone.accesskey "ס">
+
+<!ENTITY contactMoveDisabledWarning.description "אין באפשרותך לשנות את ספר הכתובת כיוון שאיש הקשר הוא ברשימת דיוור.">

@@ -37,8 +37,4 @@
 #filter substitution
 
 pref("general.useragent.locale", "@AB_CD@");
-
-// remove access keys until they are translated
-
-pref("ui.key.generalAccessKey", 0);
-pref("ui.key.menuAccessKey", 0);
+pref("spellchecker.dictionary", "@AB_CD@");

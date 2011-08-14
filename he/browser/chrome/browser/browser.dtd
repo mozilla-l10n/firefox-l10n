@@ -57,8 +57,6 @@ can reach it easily. -->
 <!ENTITY printCmd.label "הדפסה...">
 <!ENTITY printCmd.accesskey "ד">
 <!ENTITY printCmd.commandkey "p">
-<!ENTITY import.label "יבוא...">
-<!ENTITY import.accesskey "י">
 
 <!ENTITY goOfflineCmd.label "עבוד לא־מקוון">
 <!ENTITY goOfflineCmd.accesskey "ע">
@@ -76,7 +74,7 @@ can reach it easily. -->
 <!ENTITY pageSourceCmd.label "מקור הדף">
 <!ENTITY pageSourceCmd.accesskey "ר">
 <!ENTITY pageSourceCmd.commandkey "u">
-<!ENTITY pageInfoCmd.label "מידע אודות הדף">
+<!ENTITY pageInfoCmd.label "מידע על הדף">
 <!ENTITY pageInfoCmd.accesskey "מ">
 <!ENTITY pageInfoCmd.commandkey "i">
 <!ENTITY fullScreenCmd.label "מסך מלא">
@@ -98,13 +96,13 @@ can reach it easily. -->
 
 <!ENTITY bookmarksMenu.label "סימניות">
 <!ENTITY bookmarksMenu.accesskey "ס">
-<!ENTITY bookmarkThisPageCmd.label "צור סימניה לדף זה">
+<!ENTITY bookmarkThisPageCmd.label "צור סימנייה לדף זה">
 <!ENTITY bookmarkThisPageCmd.commandkey "d">
 <!ENTITY subscribeToPageMenupopup.label "הירשם לדף זה">
 <!ENTITY subscribeToPageMenuitem.label "הירשם לדף זה...">
 <!ENTITY addCurPagesCmd.label "הוסף סימנייה לכל הלשוניות...">
 <!ENTITY showAllBookmarks2.label "הצג את כל הסימניות">
-<!ENTITY bookmarkAllCmd.label "הוסף סימנייה לכל הלשוניות...">
+<!ENTITY unsortedBookmarksCmd.label "סימניות לא ממוינות">
 <!ENTITY bookmarksToolbarChevron.tooltip "הצג סימניות נוספות">
 
 <!ENTITY backCmd.label                "אחורה">
@@ -148,7 +146,7 @@ can reach it easily. -->
 
 <!ENTITY bookmarksMenuButton.label          "סימניות">
 <!ENTITY bookmarksMenuButton.tooltip        "הצגת הסימניות שלך">
-<!ENTITY bookmarksMenuButton.unsorted.label "סימניות לא ממויינות">
+<!ENTITY bookmarksMenuButton.unsorted.label "סימניות לא ממוינות">
 <!ENTITY viewBookmarksSidebar.label         "הצג בסרגל הצד">
 <!ENTITY viewBookmarksToolbar.label         "הצג סרגל סימניות">
 
@@ -179,6 +177,9 @@ can reach it easily. -->
 <!ENTITY addons.accesskey             "ת">
 <!ENTITY addons.commandkey            "A">
 
+<!ENTITY webDeveloperMenu.label       "כלי פיתוח">
+<!ENTITY webDeveloperMenu.accesskey   "כ">
+
 <!ENTITY errorConsoleCmd.label        "מסוף שגיאות">
 <!ENTITY errorConsoleCmd.accesskey    "ש">
 <!ENTITY errorConsoleCmd.commandkey   "j">
@@ -191,22 +192,27 @@ can reach it easily. -->
 <!ENTITY inspectMenu.accesskey        "ח">
 <!ENTITY inspectMenu.commandkey       "I">
 
+<!-- LOCALIZATION NOTE (scratchpad.label): This menu item label appears
+  -  in the Tools menu. See bug 653093.
+  -  The Scratchpad is intended to provide a simple text editor for creating
+  -  and evaluating bits of JavaScript code for the purposes of function
+  -  prototyping, experimentation and convenient scripting.
+  -
+  -  It's quite possible that you won't have a good analogue for the word
+  -  "Scratchpad" in your locale. You should feel free to find a close
+  -  approximation to it or choose a word (or words) that means
+  -  "simple discardable text editor". -->
+<!ENTITY scratchpad.label             "דף טיוטה">
+<!ENTITY scratchpad.accesskey         "ט">
+<!ENTITY scratchpad.keycode           "VK_F4">
+<!ENTITY scratchpad.keytext           "F4">
+
 <!ENTITY inspectPanelTitle.label      "HTML">
 <!ENTITY inspectButton.label          "חקור">
 <!ENTITY inspectButton.accesskey      "ח">
-<!ENTITY inspectNextButton.label      "הבא">
-<!ENTITY inspectNextButton.accesskey  "ה">
-<!ENTITY inspectPreviousButton.label  "קודם">
-<!ENTITY inspectPreviousButton.accesskey "ק">
-<!ENTITY inspectStyleButton.label     "סגנון">
-<!ENTITY inspectStyleButton.accesskey "ס">
-<!ENTITY inspectStylePanelTitle.label  "סגנון">
-<!-- LOCALIZATION NOTE (inspectObjectButton.label): This button label
-  -  appears on the Inspector's toolbar. It is used to open and close the Object
-  -  panel. There is also a label in inspector.properties for the panel
-  -  titlebar: object.objectPanelTitle. -->
-<!ENTITY inspectObjectButton.label       "עצם">
-<!ENTITY inspectObjectButton.accesskey   "ע">
+
+<!ENTITY getMoreDevtoolsCmd.label        "קבלת כלים נוספים">
+<!ENTITY getMoreDevtoolsCmd.accesskey    "ק">
 
 <!ENTITY fileMenu.label         "קובץ"> 
 <!ENTITY fileMenu.accesskey       "ק">
@@ -281,7 +287,7 @@ can reach it easily. -->
 <!ENTITY appMenuToolbarLayout.label "פריסת סרגל הכלים…">
 <!ENTITY appMenuSidebars.label "סרגלי צד">
 <!ENTITY appMenuFind.label "מצא…">
-<!ENTITY appMenuUnsorted.label "סימניות לא ממויינות">
+<!ENTITY appMenuUnsorted.label "סימניות לא ממוינות">
 <!ENTITY appMenuWebDeveloper.label "כלי פיתוח">
 <!ENTITY appMenuGettingStarted.label "התחל כאן">
 <!ENTITY appMenuSafeMode.label "הפעלה מחדש עם תוספות מנוטרלות…">
@@ -340,9 +346,9 @@ can reach it easily. -->
 <!ENTITY viewPageSourceCmd.accesskey  "מ">
 <!ENTITY viewFrameSourceCmd.label     "הצג מקור המסגרת">
 <!ENTITY viewFrameSourceCmd.accesskey "מ">
-<!ENTITY viewPageInfoCmd.label        "הצג מידע אודות הדף">
+<!ENTITY viewPageInfoCmd.label        "הצג מידע על הדף">
 <!ENTITY viewPageInfoCmd.accesskey    "ד">
-<!ENTITY viewFrameInfoCmd.label       "הצג מידע אודות המסגרת">
+<!ENTITY viewFrameInfoCmd.label       "הצג מידע על המסגרת">
 <!ENTITY viewFrameInfoCmd.accesskey   "ד">
 <!ENTITY reloadImageCmd.label         "טען מחדש תמונה">
 <!ENTITY reloadImageCmd.accesskey     "ת">
@@ -356,11 +362,11 @@ can reach it easily. -->
 <!ENTITY viewBGImageCmd.accesskey     "ת">
 <!ENTITY setDesktopBackgroundCmd.label      "קבע כתמונת רקע...">
 <!ENTITY setDesktopBackgroundCmd.accesskey  "כ">
-<!ENTITY bookmarkPageCmd2.label       "צור סימניה לדף זה">
+<!ENTITY bookmarkPageCmd2.label       "צור סימנייה לדף זה">
 <!ENTITY bookmarkPageCmd2.accesskey   "ס">
-<!ENTITY bookmarkThisLinkCmd.label      "צור סימניה לקישור זה">
+<!ENTITY bookmarkThisLinkCmd.label      "צור סימנייה לקישור זה">
 <!ENTITY bookmarkThisLinkCmd.accesskey  "ק">
-<!ENTITY bookmarkThisFrameCmd.label      "צור סימניה למסגרת זו">
+<!ENTITY bookmarkThisFrameCmd.label      "צור סימנייה למסגרת זו">
 <!ENTITY bookmarkThisFrameCmd.accesskey  "מ">
 <!ENTITY sendPageCmd.label            "שלח דף...">
 <!ENTITY sendPageCmd.accesskey        "ל">

@@ -4,7 +4,7 @@
 <!ENTITY tabNavigationLinks.accesskey "ק">
 <!ENTITY tabNavigationForms.label "כפתורים, כפתורי רדיו, תיבות סימון ורשימות בחירה">
 <!ENTITY tabNavigationForms.accesskey "כ">
-<!ENTITY tabNavigationTextboxes.label "שים לב: תיבות טקסט ואיזורים נגללים הם תמיד חלק מסדר המעבר.">
+<!ENTITY tabNavigationTextboxes.label "שים לב: תיבות טקסט ואזורים נגללים הם תמיד חלק מסדר המעבר.">
 <!ENTITY tabNavigationDesc.label "כאשר Tab או Shift+Tab נלחצים, עבור בין:">
 <!ENTITY findAsYouTypeBehavior.label "מצא תוך הקלדה">
 <!ENTITY findAsYouTypeTip.label "עצה: כדי להפעיל ידנית את &quot;מצא תוך הקלדה&quot;, הקש / כדי למצוא טקסט, או  '  כדי למצוא קישורים, ואחריהם הטקסט שברצונך למצוא.">

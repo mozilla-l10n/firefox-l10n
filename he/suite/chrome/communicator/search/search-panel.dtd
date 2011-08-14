@@ -47,7 +47,7 @@
 <!ENTITY checkbox.column.label "השתמש">
 <!ENTITY stop.button.label "עצור">
 <!ENTITY customize.menuitem.label "ערוך קטגוריות...">
-<!ENTITY savesearch.button.label "הוסף סימניה לחיפוש זה">
+<!ENTITY savesearch.button.label "הוסף סימנייה לחיפוש זה">
 <!ENTITY next.button.label "הבא">
 <!ENTITY previous.button.label "הקודם">
 <!ENTITY next.button.tooltip "הראה את תוצאות החיפוש הבאות">

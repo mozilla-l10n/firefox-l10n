@@ -38,14 +38,14 @@
 <!ENTITY wizard.label             "צור לוח שנה חדש" >
 <!ENTITY wizard.description       "אתר את לוח השנה שלך" >
 
-<!ENTITY initialpage.description    "לוח השנה שלך יכול להישמר על המחשב שלך או על שרת בכדי לאפשר גישה מרחוק ושיתופו עם חברים או עמיתים לעבודה." >
+<!ENTITY initialpage.description    "לוח השנה שלך יכול להישמר על המחשב שלך או על שרת כדי לאפשר גישה מרחוק ושיתופו עם חברים או עמיתים לעבודה." >
 <!ENTITY initialpage.computer.label  "במחשב שלי">
 <!ENTITY initialpage.network.label  "ברשת">
 
 <!ENTITY locationpage.description         "הכנסת מידע על הדרישות לגישה ללוח שנה מרוחק" >
-<!ENTITY locationpage.login.description   "רשות: הכנס שם משתמש וסיסמה" >
+<!ENTITY locationpage.login.description   "רשות: הכנס שם משתמש וססמה" >
 <!ENTITY locationpage.username.label      "שם משתמש:" >
-<!ENTITY locationpage.password.label      "סיסמה:" >
+<!ENTITY locationpage.password.label      "ססמה:" >
 
 <!ENTITY custompage.shortdescription  "התאמה אישית של לוח השנה" >
 <!ENTITY custompage.longdescription   "באפשרותך לתת ללוח השנה שלך כינוי ולצבוע את האירועים בלוח שנה זה." >

@@ -9,7 +9,7 @@
 <!ENTITY allowCookies.title                        "אפשר עוגיות">
 <!ENTITY clearPrivateData2.title                   "מחק נתונים פרטיים">
 <!ENTITY clearPrivateData.button                   "מחיקה">
-<!ENTITY rememberPasswords.title                   "זכור סיסמאות">
+<!ENTITY rememberPasswords.title                   "זכור ססמאות">
 <!ENTITY language.title                            "שפה">
 <!ENTITY language.auto                             "זיהוי אוטומטי">
 <!ENTITY defaultBrowser.title                      "דפדפן ברירת מחדל">

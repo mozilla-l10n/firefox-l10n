@@ -15,5 +15,5 @@
 <!ENTITY disk.label "שטח דיסק">
 <!ENTITY junk.label "דואר זבל">
 <!ENTITY tags.label "תגיות">
-<!ENTITY characterEncoding.label "קידוד תוים">
+<!ENTITY characterEncoding.label "קידוד תווים">
 <!ENTITY offline.label "לא־מקוון ושטח דיסק">

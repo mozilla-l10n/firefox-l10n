@@ -11,18 +11,18 @@
 <!ENTITY languages.customize.deleteButton.accesskey "ס">
 <!ENTITY languages.customize.title.label "התאמה אישית של שפות">
 <!ENTITY languages.customize.add.title.label "הוסף שפות">
-<!ENTITY languages.customize.left.header "קידוד תוים">
-<!ENTITY charset.customize.right.header "בחר קידודי תוים נתמכים">
+<!ENTITY languages.customize.left.header "קידוד תווים">
+<!ENTITY charset.customize.right.header "בחר קידודי תווים נתמכים">
 <!ENTITY languages.customize.available.label "שפות:">
 <!ENTITY languages.customize.active.label "שפות לפי סדר עדיפות:">
 <!ENTITY languages.customize.reorder.label "סדר מחדש">
 <!ENTITY languages.customize.remove.label "הסרה">
-<!ENTITY languages.customize.additional.label "אוספים זמינים של תוים">
+<!ENTITY languages.customize.additional.label "אוספי תווים זמינים">
 <!ENTITY languages.customize.add.label "הוספה">
 <!ENTITY languages.customize.others.label "אחרים:">
 <!ENTITY languages.customize.others.accesskey "ח">
-<!ENTITY languages.customize.Charset.grouplabel "קידוד תוים">
-<!ENTITY languages.customize.DefaultCharset.label "ברירת מחדל של קידוד תוים:">
+<!ENTITY languages.customize.Charset.grouplabel "קידוד תווים">
+<!ENTITY languages.customize.DefaultCharset.label "ברירת מחדל לקידוד תווים:">
 <!ENTITY languages.customize.DefaultCharset.accesskey "ר">
 <!ENTITY languages.customize.others.examples "דוגמה: en-bz,‏ ar-jo">
 <!ENTITY languages.customize.cancel.label "ביטול">

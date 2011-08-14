@@ -35,19 +35,21 @@
 
  ***** END LICENSE BLOCK ***** -->
 
-<!ENTITY subscribeDialog.title "הירשם כמנוי">
-<!ENTITY subscribeButton.label "הירשם כמנוי">
-<!ENTITY subscribeButton.accesskey "ה">
-<!ENTITY unsubscribeButton.label "בטל מנוי">
-<!ENTITY unsubscribeButton.accesskey "ב">
+<!ENTITY subscribeDialog.title        "הירשם כמנוי">
+<!ENTITY subscribeButton.label        "הירשם כמנוי">
+<!ENTITY subscribeButton.accesskey    "ה">
+<!ENTITY unsubscribeButton.label      "בטל מנוי">
+<!ENTITY unsubscribeButton.accesskey  "ב">
 <!ENTITY newGroupsTab.label           "קבוצות חדשות">
 <!ENTITY newGroupsTab.accesskey       "ח">
-<!ENTITY refreshButton.label "רענן">
-<!ENTITY refreshButton.accesskey "ר">
-<!ENTITY stopButton.label "עצור">
-<!ENTITY stopButton.accesskey "ע">
-<!ENTITY server.label "חשבון:">
-<!ENTITY server.accesskey "ח">
-<!ENTITY subscribedHeader.label "רישום כמנוי">
-<!ENTITY namefield.label "הראה פריטים המכילים:">
-<!ENTITY namefield.accesskey "ה">
+<!ENTITY refreshButton.label          "רענן">
+<!ENTITY refreshButton.accesskey      "ר">
+<!ENTITY stopButton.label             "עצור">
+<!ENTITY stopButton.accesskey         "ע">
+<!ENTITY server.label                 "חשבון:">
+<!ENTITY server.accesskey             "ח">
+<!ENTITY subscribedHeader.label       "רישום כמנוי">
+<!-- commenting out until bug 38906 is fixed 
+<!ENTITY messagesHeader.label         "Messages"> -->
+<!ENTITY namefield.label              "הראה פריטים המכילים:">
+<!ENTITY namefield.accesskey          "ה">

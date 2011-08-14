@@ -55,7 +55,7 @@
 <!ENTITY            deleteButton.accesskey "ח">
 
 <!-- manager entities -->
-<!ENTITY            pmDescription.label    "&brandShortName; מאכסן מידע אודות ההגדרות, ההעדפות, ופריטי משתמש אחרים שלך בפרופיל המשתמש שלך.">
+<!ENTITY            pmDescription.label    "&brandShortName; מאכסן מידע על ההגדרות, ההעדפות, ופריטי משתמש אחרים שלך בפרופיל המשתמש שלך.">
 
 <!ENTITY            offlineState.label    "עבוד לא־מקוון">
 <!ENTITY            offlineState.accesskey "ע">

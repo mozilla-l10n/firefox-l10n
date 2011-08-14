@@ -1,6 +1,6 @@
 <!ENTITY itemJunk.label          "זבל">
 <!ENTITY itemPhishing.label      "הונאות דוא״ל">
-<!ENTITY itemPasswords.label     "סיסמאות">
+<!ENTITY itemPasswords.label     "ססמאות">
 <!ENTITY itemAntiVirus.label     "אנטי-וירוס">
 <!ENTITY itemCookies.label       "תוכן רשת">
 
@@ -23,36 +23,37 @@
 
 <!-- Phishing Detector -->
 <!ENTITY phishingDetector1.intro  "&brandShortName; יכול לנתח הודעות ולבדוק אם הן מכילות הונאות דוא״ל חשודות על־ידי חיפוש שיטות נפוצות המשמשות להטעות אותך.">
-<!ENTITY enablePhishingDetector1.label "אמור לי אם ההודעה שאני קורא חשודה כתרמית דוא״ל">
-<!ENTITY enablePhishingDetector1.accesskey "א">
+<!ENTITY enablePhishingDetector1.label    "אמור לי אם ההודעה שאני קורא חשודה כתרמית דוא״ל">
+<!ENTITY enablePhishingDetector1.accesskey  "א">
 <!ENTITY useDownloadedList.label "השתמש ברשימה שהורדה של הונאות דוא״ל חשודות">
 <!ENTITY useDownloadedList.accesskey "ה">
 
 <!-- Passwords -->
-<!ENTITY savedPasswords.intro "&brandShortName; יכול לזכור מידע סיסמאות עבור כל החשבונות שלך כדי שלא תצטרך להכניס שוב את מידע ההתחברות.">
-<!ENTITY useMasterPassword.label        "השתמש בסיסמה ראשית">
+<!ENTITY savedPasswords.intro           "&brandShortName; יכול לזכור מידע סיסמאות עבור כל החשבונות שלך כדי שלא תצטרך להכניס שוב את מידע ההתחברות.">
+<!ENTITY useMasterPassword.label        "השתמש בססמה ראשית">
 <!ENTITY useMasterPassword.accesskey    "ר">
-<!ENTITY masterPassword.intro "כאשר נקבעה, הסיסמה הראשית מגינה על כל סיסמאותיך - אולם תצטרך להקליד אותה פעם אחת בכל הפעלה.">
-<!ENTITY changeMasterPassword.label     "שנה סיסמה ראשית…">
+<!ENTITY masterPassword.intro           "כאשר נקבעה, הסיסמה הראשית מגינה על כל סיסמאותיך - אולם תצטרך להקליד אותה פעם אחת בכל הפעלה.">
+<!ENTITY changeMasterPassword.label     "שנה ססמה ראשית…">
 <!ENTITY changeMasterPassword.accesskey "ש">
-<!ENTITY savedPasswords.label           "שמור סיסמאות…">
+<!ENTITY savedPasswords.label           "ססמאות שמורות…">
 <!ENTITY savedPasswords.accesskey       "מ">
 
 <!-- Anti Virus -->
-<!ENTITY antiVirus.intro "&brandShortName; יכול לגרום לתוכנות אנטי-וירוס לנתח בקלות הודעות דואר נכנס עבור וירוסים לפני שהן מאוכסנות באופן מקומי.">
-<!ENTITY antiVirus.label "אפשר ללקוחות אנטי וירוס לבודד הודעות יחידות מתוך ההודעות הנכנסות">
-<!ENTITY antiVirus.accesskey "ב">
+<!ENTITY antiVirus.intro      "&brandShortName; יכול לגרום לתוכנות אנטי-וירוס לנתח בקלות הודעות דואר נכנס עבור וירוסים לפני שהן מאוכסנות באופן מקומי.">
+<!ENTITY antiVirus.label      "אפשר ללקוחות אנטי וירוס לבודד הודעות יחידות מתוך ההודעות הנכנסות">
+<!ENTITY antiVirus.accesskey  "ב">
 
 <!-- Cookies -->
 <!ENTITY cookies.intro                  "&brandShortName; מאפשר לך לקבוע איזה בלוגים, הזנות חדשות ואתרים אחרים מורשים להגדיר עוגיות.">
-<!ENTITY  acceptCookies.label           "קבל עוגיות מאתרים">
-<!ENTITY  acceptCookies.accesskey       "ע">
-<!ENTITY  keepUntil.label               "שמור עד ש:">
-<!ENTITY  keepUntil.accesskey           "מ">
-<!ENTITY  expire.label                  "הן פגות">
-<!ENTITY  close.label                   "אני סוגר את &brandShortName;">
-<!ENTITY  askEachTime.label             "שאל אותי בכל פעם">
-<!ENTITY  cookieExceptions.label        "חריגות…">
-<!ENTITY  cookieExceptions.accesskey    "ח">
-<!ENTITY  showCookies.label             "הצג עוגיות…">
-<!ENTITY  showCookies.accesskey         "צ">
+<!ENTITY acceptCookies.label            "קבל עוגיות מאתרים">
+<!ENTITY acceptCookies.accesskey        "ע">
+<!ENTITY keepUntil.label                "שמור עד ש:">
+<!ENTITY keepUntil.accesskey            "מ">
+<!ENTITY expire.label                   "הן פגות">
+<!ENTITY close.label                    "אני סוגר את &brandShortName;">
+<!ENTITY askEachTime.label              "שאל אותי בכל פעם">
+<!ENTITY cookieExceptions.label         "חריגות…">
+<!ENTITY cookieExceptions.accesskey     "ח">
+<!ENTITY showCookies.label              "הצג עוגיות…">
+<!ENTITY showCookies.accesskey          "צ">
+

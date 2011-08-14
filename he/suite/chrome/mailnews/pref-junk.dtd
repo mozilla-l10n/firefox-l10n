@@ -36,7 +36,7 @@
    - ***** END LICENSE BLOCK ***** -->
 <!ENTITY pref.junk.title "דואר זבל">
 <!ENTITY junkSettings.caption "הגדרות דואר זבל כלליות">
-<!ENTITY junkMail.intro "עבור אל הגדרות חשבון כדי לקבוע הגדרות תצורה של דואר זבל לחשבון מסויים.">
+<!ENTITY junkMail.intro "עבור אל הגדרות חשבון כדי לקבוע הגדרות תצורה של דואר זבל לחשבון מסוים.">
 <!ENTITY manualMark.label "כאשר אני מסמן הודעות כזבל:">
 <!ENTITY manualMark.accesskey "כ">
 <!ENTITY manualMarkModeMove.label "העבר אותן אל תיקיית &quot;דואר זבל&quot; של החשבון">

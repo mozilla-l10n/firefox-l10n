@@ -1,16 +1,83 @@
-<!ENTITY aboutDialog.title      "אודות &brandFullName;">
-<!ENTITY aboutButton.label      "&lt; חזרה">
-<!ENTITY aboutButton.accesskey  "ח">
-<!ENTITY aboutVersion           "גרסה">
-<!ENTITY aboutMenu.label        "אודות">
-<!ENTITY aboutMenu.accesskey    "א">
-<!ENTITY aboutCredits.label     "תודות">
-<!ENTITY aboutCredits.accesskey "ת">
-<!ENTITY aboutRights.label      "הזכויות שלך">
-<!ENTITY aboutRights.accesskey  "ז">
-<!ENTITY aboutContributors.label "תורמים">
-<!ENTITY aboutContributors.accesskey "ת">
-<!ENTITY aboutLicense.label      "רישיון">
-<!ENTITY aboutLicense.accesskey  "ר">
+<!ENTITY aboutDialog.title          "אודות &brandFullName;">
+
+<!ENTITY community.start2           "&brandShortName; תוכנן על־ידי ">
+<!-- LOCALIZATION NOTE (community.mozillaLink): This is a link title that links to http://www.mozilla.org/. -->
+<!ENTITY community.mozillaLink      "&vendorShortName;">
+<!ENTITY community.middle2          ", ">
+<!-- LOCALIZATION NOTE (community.creditsLink): This is a link title that links to about:credits. -->
+<!ENTITY community.creditsLink      "קהילה עולמית">
+<!ENTITY community.end2             " שעובדת בשיתוף פעולה כדי להפוך את האינטרנט למקום יותר טוב. אנו מאמינים כי האינטרנט צריך להיות פתוח, חופשי ונגיש לכולם, ללא שום מגבלות.">
+
+<!ENTITY contribute.start           "נשמע מעניין? ">
+<!-- LOCALIZATION NOTE (contribute.getInvolvedLink): This is a link title that links to http://www.mozilla.org/contribute/. -->
+<!ENTITY contribute.getInvolvedLink "היה מעורב!">
+<!ENTITY contribute.end             "">
+
+<!-- LOCALIZATION NOTE (bottomLinks.license): This is a link title that links to about:license. -->
+<!ENTITY bottomLinks.license        "מידע רישוי">
+
+<!-- LOCALIZATION NOTE (bottomLinks.rights): This is a link title that links to about:rights. -->
+<!ENTITY bottomLinks.rights         "זכויות משתמש קצה">
+
+<!-- LOCALIZATION NOTE (bottomLinks.privacy): This is a link title that links to http://www.mozilla.com/legal/privacy/. -->
+<!ENTITY bottomLinks.privacy        "מדיניות הפרטיות">
+
+<!-- LOCALIZATION NOTE (update.checkingForUpdates): try to make the localized text short (see bug 596813 for screenshots). -->
+<!ENTITY update.checkingForUpdates  "בודק אם ישנם עדכונים חדשים…">
+<!-- LOCALIZATION NOTE (update.checkingAddonCompat): try to make the localized text short (see bug 596813 for screenshots). -->
+<!ENTITY update.checkingAddonCompat "בודק תאימות תוספות…">
+<!-- LOCALIZATION NOTE (update.noUpdatesFound): try to make the localized text short (see bug 596813 for screenshots). -->
+<!ENTITY update.noUpdatesFound      "&brandShortName; עדכני">
+<!-- LOCALIZATION NOTE (update.adminDisabled): try to make the localized text short (see bug 596813 for screenshots). -->
+<!ENTITY update.adminDisabled       "עדכונים נוטרלו על־ידי מנהל המערכת שלך">
+
+<!-- LOCALIZATION NOTE (update.failed.start,update.failed.linkText,update.failed.end):
+     update.failed.start, update.failed.linkText, and update.failed.end all go into
+     one line with linkText being wrapped in an anchor that links to a site to download
+     the latest version of Firefox (e.g. http://www.firefox.com). As this is all in
+     one line, try to make the localized text short (see bug 596813 for screenshots). -->
+<!ENTITY update.failed.start        "העדכון נכשל. ">
+<!ENTITY update.failed.linkText     "הורד את הגרסה האחרונה">
+<!ENTITY update.failed.end          "">
+
+<!-- LOCALIZATION NOTE (update.manual.start,update.manual.end): update.manual.start and update.manual.end
+     all go into one line and have an anchor in between with text that is the same as the link to a site
+     to download the latest version of Firefox (e.g. http://www.firefox.com). As this is all in one line,
+     try to make the localized text short (see bug 596813 for screenshots). -->
+<!ENTITY update.manual.start        "הורדת ">
+<!ENTITY update.manual.linkText     "הגרסה העדכנית ביותר">
+<!ENTITY update.manual.end          "">
+
+<!-- LOCALIZATION NOTE (update.downloading.start,update.downloading.end): update.downloading.start and 
+     update.downloading.end all go into one line, with the amount downloaded inserted in between. As this
+     is all in one line, try to make the localized text short (see bug 596813 for screenshots). The — is
+     the "em dash" (long dash).
+     example: Downloading update — 111 KB of 13 MB -->
+<!ENTITY update.downloading.start   "מוריד עדכון — ">
+<!ENTITY update.downloading.end     "">
+
+<!-- LOCALIZATION NOTE (channel.description.start,channel.description.end): channel.description.start and
+     channel.description.end create one sentence, with the current channel label inserted in between.
+     example: You are currently on the _Stable_ update channel. -->
+<!ENTITY channel.description.start  "הנך נמצא כרגע על ערוץ העדכונים ">
+<!ENTITY channel.description.end    ".  ">
+
+<!ENTITY channel.change             "שינוי">
+
+<!ENTITY channel.release.description       "להנות מגרסה סופית ובדוקה שבשימוש בידי מאות מליוני משתמשים מסביב לעולם. הישארו בשליטה על החוויה המקוונת שלכם עם מהירות שיא, התאמה אישית פשוטה וטכנולוגיות הרשת החדשות ביותר.">
+<!ENTITY channel.beta.description          "חוו תכונות מתקדמות עם יציבות רבה יותר. ספקו משוב כדי לשפר ולהבריק את מה שיהיה בגרסה הסופית.">
+<!ENTITY channel.aurora.description        "להנות מהמיזמים החדשים ביותר בסביבה לא יציבה שאינה מיועדת לבעלי לב חלש. ספקו משוב על תכונות וביצועים כדי לעזור לקבוע מה יכנס לגרסה הסופית.">
+
+<!-- LOCALIZATION NOTE (channel.selector.start,channel.selector.end): channel.selector.start and
+     channel.selector.end create one sentence, with a channel selection menulist instered in between.
+     This is all in one line, so try to make the localized text short.
+     example: Switch to the [Stable] update channel. -->
+<!ENTITY channel.selector.start          "מעבר אל ערוץ העדכונים">
+<!ENTITY channel.selector.end            ".">
+
+<!-- LOCALIZATION NOTE (channel.selector.applyButton): This button applies the user's choice to switch
+     to a new update channel and starts the application update process. -->
+<!ENTITY channel.selector.applyButton    "החל ועדכן">
+<!ENTITY channel.selector.cancelButton   "ביטול">
 
 <!ENTITY cmdCloseMac.commandKey "w">
