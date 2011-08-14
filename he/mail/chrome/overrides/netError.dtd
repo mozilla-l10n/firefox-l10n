@@ -48,11 +48,11 @@
 <!ENTITY netInterrupt.longDesc "&sharedLongDesc;">
 
 <!ENTITY netOffline.title "מצב לא־מקוון">
-<!ENTITY netOffline.longDesc "
+<!ENTITY netOffline.longDesc2 "
 <ul>
-  <li>העבר את &brandShortName; למצב מקוון ונסה שוב.</li>
+ <li>לחץ &quot;נסה שוב&quot; כדי לעבור למצב מקוון ולטעון מחדש את הדף.</li>
 </ul>
-">
+"> 
 
 <!ENTITY contentEncodingError.title "שגיאה בקידוד תוכן">
 <!ENTITY contentEncodingError.longDesc "
@@ -146,6 +146,9 @@
 
 <!ENTITY cspFrameAncestorBlocked.title "נחסם בהתאם למדיניות האבטחה של התוכן">
 <!ENTITY cspFrameAncestorBlocked.longDesc "<p>&brandShortName; מונע מדף זה להיטען בצורה זו מאחר שהדף כולל מדיניות אבטחת תוכן שמונעת זאת.</p>">
+
+<!ENTITY corruptedContentError.title "שגיאת תוכן פגום">
+<!ENTITY corruptedContentError.longDesc "<p>התוכן בו אתה מנסה לצפות בו אינו ניתן להצגה בגלל שהתגלתה שגיאה בהעברת הנתונים.</p><ul><li>אנא צור קשר עם בעלי התוכן והודע על בעיה זו.</li></ul>">
 
 <!ENTITY securityOverride.linkText "באפשרותך גם להוסיף חריגה…">
 <!ENTITY securityOverride.getMeOutOfHereButton "תוציא אותי מכאן!">
