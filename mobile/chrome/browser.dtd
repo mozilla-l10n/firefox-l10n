@@ -13,6 +13,7 @@
 <!ENTITY copyAll.label "Копировать всё">
 <!ENTITY copylink.label "Копировать адрес ссылки">
 <!ENTITY paste.label "Вставить">
+<!ENTITY pasteAndGo.label "Вставить и перейти">
 <!ENTITY delete.label "Удалить">
 <!ENTITY selectAll.label "Выделить всё">
 <!ENTITY noSuggestions.label "(нет предложений)">
