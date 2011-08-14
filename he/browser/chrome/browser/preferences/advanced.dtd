@@ -29,6 +29,8 @@
 <!ENTITY checkNow.accesskey              "כ">
 <!ENTITY submitCrashes.label             "שלח דיווחי קריסה">
 <!ENTITY submitCrashes.accesskey         "ש">
+<!ENTITY submitTelemetry.label           "שליחת נתוני ביצועים">
+<!ENTITY submitTelemetry.accesskey       "ש">
 
 <!ENTITY networkTab.label                "רשת">
 

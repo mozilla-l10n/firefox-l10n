@@ -1,7 +1,7 @@
 <!ENTITY header.label     "כותרת מקוצרת"> 
 <!ENTITY message.label    "טקסט דוגמה בא כאן.">
 <!ENTITY editfield0.label "שם משתמש:"> 
-<!ENTITY editfield1.label "ססמה:"> 
+<!ENTITY editfield1.label "סיסמה:"> 
 <!ENTITY checkbox.label   "סמן">
 <!ENTITY copyCmd.label    "העתק">
 <!ENTITY copyCmd.accesskey "ה">
