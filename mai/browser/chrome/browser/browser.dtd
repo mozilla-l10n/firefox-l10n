@@ -23,7 +23,7 @@
 <!ENTITY printCmd.label "छापू…">
 <!ENTITY printCmd.accesskey "P">
 <!ENTITY printCmd.commandkey "p">
-<!ENTITY import.label "आयात  करू …">
+
 
 
 <!ENTITY goOfflineCmd.label "आफलाइन काज करू ">
@@ -71,17 +71,13 @@
 <!ENTITY inspectButton.label          "जाँचू">
 <!ENTITY inspectButton.accesskey      "I">
 
-<!ENTITY inspectNextButton.accesskey  "N">
-<!ENTITY inspectPreviousButton.label  "पाछाँ">
 
-<!ENTITY inspectStyleButton.label     "शैली">
 
-<!ENTITY inspectStylePanelTitle.label  "शैली">
-<!-- LOCALIZATION NOTE (inspectObjectButton.label): This button label
-  -  appears on the Inspector's toolbar. It is used to open and close the Object
-  -  panel. There is also a label in inspector.properties for the panel
-  -  titlebar: object.objectPanelTitle. -->
-<!ENTITY inspectObjectButton.label       "वस्तु">
+
+
+
+
+
 
 <!ENTITY  listAllTabs.label      "सभटा टैब सूचीबद्ध  करू ">
 
@@ -695,10 +691,10 @@ just addresses the organization to follow, e.g. "This site is run by " -->
 <!ENTITY inspectPanelTitle.label      "HTML">
 <!ENTITY inspectButton.label          "जाँचू">
 <!ENTITY inspectButton.accesskey      "I">
-<!ENTITY inspectNextButton.label      "आगाँ">
 
 
-<!ENTITY inspectPreviousButton.accesskey "P">
+
+
 
 
 <!-- LOCALIZATION NOTE (scratchpad.label): This menu item label appears
@@ -720,7 +716,7 @@ just addresses the organization to follow, e.g. "This site is run by " -->
 <!ENTITY webDeveloperMenu.label       "वेब डेवलेपर">
 <!ENTITY webDeveloperMenu.accesskey   "W">
 
-<!ENTITY inspectObjectButton.accesskey   "O">
+
 <!ENTITY  listAllTabs.label      "सभटा टैब सूचीबद्ध करू">
 
 <!ENTITY menubarCmd.label "मेन्यू पट्टी">
@@ -836,7 +832,7 @@ just addresses the organization to follow, e.g. "This site is run by " -->
 <!ENTITY subscribeToPageMenuitem.label "ई पृष्ठ क सदस्यता लिअ'…">
 <!ENTITY addCurPagesCmd.label "सभटा टैब पुस्तकचिह्नित करू…">
 
-<!ENTITY bookmarkAllCmd.label "सभटा टैब पुस्तकचिह्नित करू…">
+
 
 <!ENTITY copyAudioURLCmd.accesskey    "o">
 <!ENTITY copyAudioURLCmd.label        "आडियो स्थान क नकल लिअ' ">
