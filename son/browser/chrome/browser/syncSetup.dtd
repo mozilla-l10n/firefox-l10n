@@ -26,8 +26,8 @@
 <!ENTITY setup.newAccountDetailsPage.title.label "Kontu šilbayhayey">
 <!ENTITY setup.emailAddress.label     "Bataga aderesu">
 <!ENTITY setup.emailAddress.accesskey "B">
-<!ENTITY setup.choosePassword.label      "Choose a Password">
-<!ENTITY setup.choosePassword.accesskey  "P">
+<!ENTITY setup.choosePassword.label      "Šennikufal foo suuba">
+<!ENTITY setup.choosePassword.accesskey  "f">
 <!ENTITY setup.confirmPassword.label     "Šennikufal tabatandi">
 <!ENTITY setup.confirmPassword.accesskey "a">
 <!-- LOCALIZATION NOTE: tosAgree1, tosLink, tosAgree2, ppLink, tosAgree3 are
@@ -41,12 +41,12 @@
 <!ENTITY setup.tosAgree2.accesskey  "">
 <!-- New Account Page 2: Sync Key -->
 
-<!ENTITY setup.newSyncKeyPage.title.label "&brandShortName; ga joote nda war suturaroo">
+<!ENTITY setup.newSyncKeyPage.title.label "&brandShortName; ga joote nda war suturaa">
 <!ENTITY setup.newSyncKeyPage.description.label "Ka war suturaa tabatandi, war bayhayey kul n'ka tugandi jina kaŋ i ga zijandi. Sync kufaloo kaŋ ga waažibi ka war bayhayey kufal-kaa mana zijandi.">
 <!ENTITY syncKeyEntry.label        "War Sync kufaloo">
-<!ENTITY syncKeyEntry.accesskey    "K">
+<!ENTITY syncKeyEntry.accesskey    "k">
 <!ENTITY syncGenerateNewKey.label  "Kufal taaga kaataray">
-<!ENTITY syncKeyBackup.description "War Sync kufaloo ga waažibandi ka duu &syncBrand.fullName.label; maršin waaniyaŋ ga. Taare banda-gaadu celle tee. Ir ši hin ka war gaa ka war Sync kufaloo kurma.">
+<!ENTITY syncKeyBackup.description "War Sync kufaloo ga waažibandi ka duu &syncBrand.fullName.label; maršin waaniyaŋ ga. Taare banda-gaadu celle tee. Ir ši hin ka war gaa ka war Sync kufaloo willi.">
 
 <!ENTITY button.syncKeyBackup.print.label     "Kar…">
 <!ENTITY button.syncKeyBackup.print.accesskey "r">
@@ -57,9 +57,9 @@
 <!ENTITY setup.captchaPage2.title.label     "Taare tabatandi kaŋ war manti goy-maršin">
 <!-- Existing Account Page 1: Add Device (incl. Add a Device dialog strings) -->
 <!ENTITY addDevice.title.label              "Jinay foo tonton">
-<!ENTITY addDevice.showMeHow.label          "Ay cebe takaa.">
+<!ENTITY addDevice.showMeHow.label          "Takaa cebe yane.">
 <!ENTITY addDevice.dontHaveDevice.label     "Goyjinaa ši ay kone sohõda">
-<!ENTITY addDevice.setup.description.label  'K&apos;a tunandi, koy &syncBrand.shortName.label; Suubarey do war jinay faa ga nda wa "Jinay foo tonton" suuba.'>
+<!ENTITY addDevice.setup.description.label  'K&apos;a tunandi, koy &syncBrand.shortName.label; suubarey do war jinay faa ga nda wa "Jinay foo tonton" suuba.'>
 <!ENTITY addDevice.setup.enterCode.label    "Ašariyaa woo dam waati din:">
 <!ENTITY addDevice.dialog.description.label "Ka war jinay taagaa tunandi, koy &syncBrand.shortName.label; Suubarey do jinaa ga nda &#x0022;Connect.&#x0022; suuba">
 <!ENTITY addDevice.dialog.enterCode.label   "Ašariya kaŋ jinaa n'a noo dam:">
@@ -80,7 +80,7 @@
 <!ENTITY syncComputerName.label       "Ordinater maa:">
 <!ENTITY syncComputerName.accesskey   "O">
 
-<!ENTITY syncMy.label               "Sync My">
+<!ENTITY syncMy.label               "Hangandi">
 <!ENTITY engine.bookmarks.label     "Doo-šilbawey">
 <!ENTITY engine.bookmarks.accesskey "D">
 <!ENTITY engine.tabs.label          "Nor lokey">

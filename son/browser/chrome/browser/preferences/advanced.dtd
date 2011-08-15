@@ -30,8 +30,8 @@
 <!ENTITY checkNow.accesskey              "s">
 <!ENTITY submitCrashes.label             "Kaŋyan bayrandiyaney sanba">
 <!ENTITY submitCrashes.accesskey         "s">
-<!ENTITY submitTelemetry.label           "Submit performance data">
-<!ENTITY submitTelemetry.accesskey       "P">
+<!ENTITY submitTelemetry.label           "Teeyan bayhayey sanba">
+<!ENTITY submitTelemetry.accesskey       "T">
 
 <!ENTITY networkTab.label                "Sankay">
 
