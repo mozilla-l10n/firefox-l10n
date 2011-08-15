@@ -30,9 +30,9 @@
 
 <!ENTITY importBookmarksFromHTML.label     "Importar segnapaginas da HTML…">
 <!ENTITY importBookmarksFromHTML.accesskey "I">
-<!ENTITY exportBookmarksToHTML.label       "Exportar segnapaginas a HTML…">
+<!ENTITY exportBookmarksToHTML.label       "Exportar segnapaginas sco HTML…">
 <!ENTITY exportBookmarksToHTML.accesskey   "E">
-<!ENTITY importOtherBrowser.label          "Importar datas d'in auter navigatur…">
+<!ENTITY importOtherBrowser.label          "Importar datas dad in auter navigatur…">
 <!ENTITY importOtherBrowser.accesskey      "A">
 
 <!ENTITY cmd.backup.label               "Copia da segirezza…">

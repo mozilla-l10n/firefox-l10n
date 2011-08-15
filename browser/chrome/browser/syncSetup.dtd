@@ -26,7 +26,7 @@
 <!ENTITY setup.newAccountDetailsPage.title.label "Detagls dal conto">
 <!ENTITY setup.emailAddress.label     "Adressa dad e-mail">
 <!ENTITY setup.emailAddress.accesskey "E">
-<!ENTITY setup.choosePassword.label      "Tscherna in pled-clav">
+<!ENTITY setup.choosePassword.label      "Tscherner in pled-clav">
 <!ENTITY setup.choosePassword.accesskey  "p">
 <!ENTITY setup.confirmPassword.label  "Confermar il pled-clav">
 <!ENTITY setup.confirmPassword.accesskey  "m">
