@@ -644,7 +644,9 @@ just addresses the organization to follow, e.g. "This site is run by " -->
 <!ENTITY printCmd.label "छापू…">
 <!ENTITY printCmd.accesskey "P">
 <!ENTITY printCmd.commandkey "p">
-<!ENTITY import.label "आयात करू…">
+
+<!ENTITY getMoreDevtoolsCmd.label        "आओर बेसी अओजार आनू">
+<!ENTITY getMoreDevtoolsCmd.accesskey    "M">
 
 
 <!ENTITY goOfflineCmd.label "ऑफ़लाइन काम करू">

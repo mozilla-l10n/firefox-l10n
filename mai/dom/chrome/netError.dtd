@@ -35,7 +35,6 @@
 
 
 <!ENTITY netOffline.title "आफलाइन त्रुटि">
-<!ENTITY netOffline.longDesc "ब्राउजर अखन आफलाइन अछि अथवा निवेदित साइट सँ संपर्क नहि भए सकैत अछि. पुनः प्रयास करबासँ पहिने अपन ब्राउजर केँ आनलाइन माध्यममे राखू.">
 
 <!ENTITY redirectLoop.title "पुनः दिशा लूप त्रुटि">
 <!ENTITY redirectLoop.longDesc "ब्राउजर कनैक्शन बन्न कएलक किएक साइट स्वयं केँ एहि तरह फेर निर्देशित निवेदन करैत अछि जे एकटा  संपूर्ण करब सँ रोकैत अछि .">
@@ -89,4 +88,11 @@
 
 <!ENTITY remoteXUL.title "दूरस्थ XUL">
 <!ENTITY remoteXUL.longDesc "<p><ul><li>कृपया वेबसाइट मालिककेँ ई समस्याक संबंधमे सूचित करबाक लेल संपर्क करू.</li></ul></p>">
+
+<!ENTITY corruptedContentError.title "खराब सामग्री त्रुटि">
+<!ENTITY corruptedContentError.longDesc "<p>The page you are trying to view cannot be shown because an error in the data transmission was detected.</p><ul><li>Please contact the website owners to inform them of this problem.</li></ul>">
+
+<!ENTITY netOffline.longDesc2 "<p>ब्राउजर अखन आफलाइन विधिमे अछि अथवा निवेदित मदसँ संपर्क नहि भए सकैत अछि.</p><ul><li>की कंप्यूटर कोनो सक्रिय संजालसँ जुड़ल अछि?</li><li>&quot;फेनु कोशिश करू&quot; दबाउ आनलाइन विधिमे आबैक लेल आओर फेनु पृष्ठक लोड करबाक लेल.</li></ul>">
+
+<!ENTITY netOffline.longDesc "ब्राउजर अखन आफलाइन अछि अथवा निवेदित साइट सँ संपर्क नहि भए सकैत अछि. पुनः प्रयास करबासँ पहिने अपन ब्राउजर केँ आनलाइन माध्यममे राखू.">
 
