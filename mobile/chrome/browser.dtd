@@ -16,6 +16,7 @@
 <!ENTITY copyAll.label         "Kopiera alla">
 <!ENTITY copylink.label        "Kopiera länkadress">
 <!ENTITY paste.label           "Klistra in">
+<!ENTITY pasteAndGo.label      "Klistra in och öppna">
 <!ENTITY delete.label          "Ta bort">
 <!ENTITY selectAll.label       "Markera allt">
 <!ENTITY noSuggestions.label   "(Inga förslag)">
