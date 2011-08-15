@@ -6,7 +6,8 @@
 <!ENTITY organize.accesskey    "O">
 <!ENTITY organize.tooltip      "अपन पुस्तकचिह्न केँ व्यवस्थित करू ">
 
-<!ENTITY file.accesskey                 "F">
+<!ENTITY cmd.restoreFromFile.accesskey  "C">
+
 <!ENTITY file.close.label               "बन्न  करू ">
 <!ENTITY file.close.accesskey           "C">
 <!ENTITY cmd.close.key                  "w">
