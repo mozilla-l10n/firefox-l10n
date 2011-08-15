@@ -22,9 +22,9 @@
 <!ENTITY password.manage                 "Laola mantšuphetišo...">
 
 <!ENTITY cookie.label                    "Beakanya dikhukhi">
-<!ENTITY cookie.clear                    "Tloša dikhuki">
+<!ENTITY cookie.remove                   "Tloša dikhukhi">
 <!ENTITY cookie.manage                   "Laola dikhuki...">
-<!ENTITY cookie.clearAll                 "Tloša dikhuki tšohle">
+<!ENTITY cookie.removeAll                "Tloša dikhukhi tšohle">
 
 <!ENTITY geo.label                       "Abelana lefelo">
 <!-- LOCALIZATION NOTE (indexedDB.label): This is describing indexedDB storage
