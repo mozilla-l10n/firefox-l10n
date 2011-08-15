@@ -30,6 +30,8 @@
 <!ENTITY checkNow.accesskey              "n">
 <!ENTITY submitCrashes.label             "Romela dipego tša go pšhatlega">
 <!ENTITY submitCrashes.accesskey         "m">
+<!ENTITY submitTelemetry.label           "Romela tsebišo ya tsela ya go šoma">
+<!ENTITY submitTelemetry.accesskey       "o">
 
 <!ENTITY networkTab.label                "Neteweke">
 

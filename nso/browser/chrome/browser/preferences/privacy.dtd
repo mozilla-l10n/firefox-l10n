@@ -61,8 +61,8 @@
 <!ENTITY  dontrememberActions.clearHistory.label "tloša histori yohle ya ga bjale">
 <!ENTITY  dontrememberActions.post.label         ".">
 
-<!ENTITY  privateBrowsingPermanent.label "Mokgwa wa go praosa wa praebete wa go ya go ile">
-<!ENTITY  privateBrowsingPermanent.accesskey "l">
+<!ENTITY  privateBrowsingPermanent2.label "Ka mehla diriša mokgwa wa go praosa wa praebete">
+<!ENTITY  privateBrowsingPermanent2.accesskey "p">
 
 <!ENTITY  rememberHistory.label      "Gopola histori yaka ya go praosa">
 <!ENTITY  rememberHistory.accesskey  "o">

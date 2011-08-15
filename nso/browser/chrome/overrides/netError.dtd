@@ -45,13 +45,8 @@ gore &brandShortName; e dumeletšwe go tsena wepeng.</li>
 <!ENTITY netInterrupt.longDesc "&sharedLongDesc;">
 
 <!ENTITY netOffline.title "Mokgwa wa go se be inthaneteng">
-<!-- LOCALIZATION NOTE (netOffline.overrideLongDesc) - This string should
-     indicate that "Work Offline" is a menu item without being too specific,
-     since it could be in either the normal menu (Mac/Linux) or the Firefox button
-     menu (Windows).
--->
-<!ENTITY netOffline.overrideLongDesc "<ul> 
-<li>Swayolla &quot;Work Offline&quot; go lelokelelo la diteng, gomme o leke gape.</li> 
+<!ENTITY netOffline.longDesc2 "<ul> 
+<li>Gatelela &quot;Leka gape&quot; gore o fetogele go mokgwa wa inthaneteng gomme o hlahlele letlakala gape.</li> 
 </ul>">
 
 <!ENTITY contentEncodingError.title "Phošo ya phetošo ya dikagare">
@@ -136,6 +131,10 @@ gore &brandShortName; e dumeletšwe go tsena wepeng.</li>
 
 <!ENTITY cspFrameAncestorBlocked.title "Thibetšwe ke pholisi ya tšhireletšego ya dikagare">
 <!ENTITY cspFrameAncestorBlocked.longDesc "<p>&brandShortName; e thibetše letlakala le go hlahlela ka tsela ye ka gobane letlakala le le nale pholisi ya tšhireletšego ya dikagare yeo e sa go dumelelego.</p>">
+
+<!ENTITY corruptedContentError.title "Phošo ya dikagare tšeo di senyegilego">
+<!ENTITY corruptedContentError.longDesc "<p>Letlakala leo o lekago go le lebelela le ka se laetšwe ka gobane go lemogilwe phošo go phetišetšo ya tsebišo.</p><ul><li>Hle ikopanye le beng ba wepesaete gore o ba tsebiše ka bothata bjo.</li></ul>">
+
 
 <!ENTITY securityOverride.linkText "Goba o ka oketša tše sa akaretšwego…">
 <!ENTITY securityOverride.getMeOutOfHereButton "Joo! Ntšhe mo!">

@@ -28,10 +28,12 @@
 <!ENTITY cmd.findCurrent.label          "Hwetša go kgoboketšo ya bjale…">
 <!ENTITY cmd.findCurrent.accesskey      "w">
 
-<!ENTITY cmd.exportHTML.label           "Romela HTML ntle…">
-<!ENTITY cmd.exportHTML.accesskey       "n">
-<!ENTITY cmd.importHTML.label           "Amogela HTML ka gare…">
-<!ENTITY cmd.importHTML.accesskey       "a">
+<!ENTITY importBookmarksFromHTML.label     "Amogela dipukutshwayo go tšwa go HTML...">
+<!ENTITY importBookmarksFromHTML.accesskey "A">
+<!ENTITY exportBookmarksToHTML.label       "Romela dipukutshwayo go HTML...">
+<!ENTITY exportBookmarksToHTML.accesskey   "e">
+<!ENTITY importOtherBrowser.label          "Amogela tsebišo go tšwa go praosara e nngwe...">
+<!ENTITY importOtherBrowser.accesskey      "e">
 
 <!ENTITY cmd.backup.label               "Dikopišwa…">
 <!ENTITY cmd.backup.accesskey           "D">

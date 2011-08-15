@@ -1,13 +1,13 @@
-<!ENTITY ocspDialog.title             "Certificate Validation">
-<!ENTITY enableOCSP.label             "Use the Online Certificate Status Protocol (OCSP) to confirm the current validity of certificates">
-<!ENTITY enableOCSP.accesskey         "U">
-<!ENTITY certOCSP2.label              "Validate a certificate if it specifies an OCSP server">
-<!ENTITY certOCSP2.accesskey          "V">
-<!ENTITY proxyOCSP2.label             "Validate all certificates using the following OCSP server:">
+<!ENTITY ocspDialog.title             "Tiišetšo ya setifikeiti">
+<!ENTITY enableOCSP.label             "Diriša Porotokole ya Boemo bja Setifikeiti ya Inthaneteng (OCSP) gore o netefatše tiišetšo ya bjale ya ditifikeiti">
+<!ENTITY enableOCSP.accesskey         "D">
+<!ENTITY certOCSP2.label              "Tiišetša setifikeiti ge e ba se laetša seabi sa OCSP">
+<!ENTITY certOCSP2.accesskey          "T">
+<!ENTITY proxyOCSP2.label             "Tiišetša ditifikeiti tšohle o diriša seabi se latelago sa OCSP:">
 <!ENTITY proxyOCSP2.accesskey         "a">
-<!ENTITY serviceURL.label             "Tirelo ya URL:">
+<!ENTITY serviceURL.label             "URL ya Tirelo:">
 <!ENTITY serviceURL.accesskey         "T">
 <!ENTITY signingCA.label              "Mosaena-Phetolo:">
 <!ENTITY signingCA.accesskey          "M">
-<!ENTITY requireOCSP.label            "When an OCSP server connection fails, treat the certificate as invalid">
-<!ENTITY requireOCSP.accesskey        "W">
+<!ENTITY requireOCSP.label            "Ge kgokaganyo ya seabi sa OCSP e palelwa, tšea ditifikeiti e le tše sa šomego">
+<!ENTITY requireOCSP.accesskey        "G">
