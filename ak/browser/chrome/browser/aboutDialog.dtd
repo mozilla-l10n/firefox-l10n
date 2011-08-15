@@ -3,14 +3,14 @@
 <!ENTITY community.start2           "&brandShortName; Eyi na osiesie no">
 <!-- LOCALIZATION NOTE (community.mozillaLink): This is a link title that links to http://www.mozilla.org/. -->
 <!ENTITY community.mozillaLink      "&vendorShortName;">
-<!ENTITY community.middle2          ", a">
+<!ENTITY community.middle2          ", a ɛyɛ ">
 <!-- LOCALIZATION NOTE (community.creditsLink): This is a link title that links to about:credits. -->
-<!ENTITY community.creditsLink      "afana nyinara mpotam">
-<!ENTITY community.end2             "reyɛ adwuma abomu sɛ Intanɛt bɛyɛ yiye. Yegyidi sɛ ɛwɔ sɛ Intanɛt nda hɔ mma obiara na ɛwɔ sɛ obiara nya ho kwan a hwee nsi wɔn kwan.">
+<!ENTITY community.creditsLink      "wiade fɛkuw">
+<!ENTITY community.end2             "reyɛ edwuma abɔ mu sɛ Intanɛt bɛyɛ yie. Yɛ gye di sɛ ɛwɔ sɛ Intanɛt da hɔ ma obiara na ɛwɔ sɛ obiara nya ho kwan a hwee nnsiw wɔn kwan.">
 
 <!ENTITY contribute.start           "Ɛyɛ wo anigye anaa?">
 <!-- LOCALIZATION NOTE (contribute.getInvolvedLink): This is a link title that links to http://www.mozilla.org/contribute/. -->
-<!ENTITY contribute.getInvolvedLink "ka woho hyɛ mu!">
+<!ENTITY contribute.getInvolvedLink "Fa wo ho hyɛ mu!">
 <!ENTITY contribute.end             "">
 <!-- LOCALIZATION NOTE (bottomLinks.license): This is a link title that links to about:license. -->
 
@@ -60,21 +60,3 @@
 
 <!ENTITY channel.description.start  "Seisei wo wɔ">
 <!ENTITY channel.description.end    "kyanɛl a wɔde yɛ ntoso no so.">
-
-<!ENTITY channel.change             "Sesa">
-
-<!ENTITY channel.release.description       "Fa reliis a wɔatwe mu ayɛ no yie a ɛtwa to, na amanfo mpempem de redi dwuma wɔ wiase afandaa nyinara, gye wo eni. Di wo ɔnlaen dwumadi nyinara so hene na brawse ntɛm ntɛmara.">
-<!ENTITY channel.beta.description          "Fa mfikya mono koraa a wɔetimtim di dwuma. Ma yɛn aso nte nea wo wɔ ka ama wɔde aboa ayɛ biribiara yie wɔ reliis a ɛtwa to koraa no mu.">
-<!ENTITY channel.aurora.description        "Fa akɔenim amono koraa a wɔaba na wɔnnsii pi yie di dwuma sɛ wo wɔ akokoduru a. Ma yɛn aso nte nea wo wɔ ka fa mfikya ne sɔftwɛɛ no ne mbɔdenbɔ ama yɛ ehu nea ɛbɛkɔ reliis a etwa to koraa no mu.">
-<!-- LOCALIZATION NOTE (channel.selector.start,channel.selector.end): channel.selector.start and
-     channel.selector.end create one sentence, with a channel selection menulist instered in between.
-     This is all in one line, so try to make the localized text short.
-     example: Switch to the [Stable] update channel. -->
-
-<!ENTITY channel.selector.start          "Swekye kɔ">
-<!ENTITY channel.selector.end            "kyanɛl a wɔde yɛ ntoso.">
-<!-- LOCALIZATION NOTE (channel.selector.applyButton): This button applies the user's choice to switch
-     to a new update channel and starts the application update process. -->
-
-<!ENTITY channel.selector.applyButton    "Fa hyɛ so na to so">
-<!ENTITY channel.selector.cancelButton   "Twa-mu">

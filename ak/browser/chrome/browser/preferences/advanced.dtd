@@ -30,6 +30,8 @@
 <!ENTITY checkNow.accesskey              "s">
 <!ENTITY submitCrashes.label             "Bɔ yɛn amande fa ngyae-yɛ ho">
 <!ENTITY submitCrashes.accesskey         "B">
+<!ENTITY submitTelemetry.label           "Fa dwumadi data ɛmane">
+<!ENTITY submitTelemetry.accesskey       "d">
 
 <!ENTITY networkTab.label                "Nɛtwɛɛke">
 

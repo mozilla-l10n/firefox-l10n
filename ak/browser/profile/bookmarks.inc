@@ -58,7 +58,7 @@
 
 # link title for http://en-US.www.mozilla.com/en-US/firefox/community/
 
-#define firefox_community ka woho hyɛ mu
+#define firefox_community Fa wo ho hyɛ mu
 
 
 # LOCALIZATION NOTE (firefox_about):

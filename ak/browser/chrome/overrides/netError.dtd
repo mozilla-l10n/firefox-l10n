@@ -45,13 +45,8 @@ sɛ &brandShortName; wɔ ho kwan sɛ ɔbɛkɔ Wɛb ne so.</li>
 <!ENTITY netInterrupt.longDesc "&sharedLongDesc;">
 
 <!ENTITY netOffline.title "Ɔflaen tebea">
-<!-- LOCALIZATION NOTE (netOffline.overrideLongDesc) - This string should
-     indicate that "Work Offline" is a menu item without being too specific,
-     since it could be in either the normal menu (Mac/Linux) or the Firefox button
-     menu (Windows).
--->
-<!ENTITY netOffline.overrideLongDesc "<ul> 
-<li>Yi ahyɛnsew firi &quot;Di Dwuma Ɔflaen&quot; wɔ Fael menu no mu,  na san sɔ hwɛ.</li> 
+<!ENTITY netOffline.longDesc2 "<ul> 
+<li>Mia &quot;San-sɔ-hwɛ&quot; fa kɔ ɔnlaen tebea mu na san bue krataafa no.</li> 
 </ul>">
 
 <!ENTITY contentEncodingError.title "Mu-asɛm Ndanee Mfomso">
@@ -135,6 +130,10 @@ yɛ biribi ɛto betwa a ɛrennkyɛ koraa, anaaso wo pɛ a san sɔ hwɛ ekyiri yi
 
 <!ENTITY cspFrameAncestorBlocked.title "Kɔntɛnt Sikuriti Mbra esi no kwan">
 <!ENTITY cspFrameAncestorBlocked.longDesc "<p>&brandShortName; sii krataafa yi kwan sɛ ɔbeloode wɔ kwan yi so efiri sɛ krataafa no wɔ sikuriti mbra bi a ɔmma biribi te sɛ yi ho kwan.</p>">
+
+<!ENTITY corruptedContentError.title "Mfomso a ɛkyerɛ kɔntent a ne ho atɔ kyima">
+<!ENTITY corruptedContentError.longDesc "<p>Wo renntumi nnhu krataafa a wo pɛ sɛ wo hwɛ no ɛsian sɛ wɔhuu mfomso bi wɔ data nsoma no mu.</p><ul><li>Yɛ srɛ wo sɛ bisa wɔn a wɛbsaet no yɛ wɔn de ma wɔ wɔnhwɛ ho asɛm nka.</li></ul>">
+
 
 <!ENTITY securityOverride.linkText "Anaaso wobetumi eyi wɛbsaet yi efiri mu…">
 <!ENTITY securityOverride.getMeOutOfHereButton "Ma me nyew mfiri ha oo!">

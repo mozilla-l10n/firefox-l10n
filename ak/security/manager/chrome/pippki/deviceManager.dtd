@@ -39,9 +39,9 @@
 
 <!ENTITY devmgr.devlist.label                   "Security Modules and Devices">
 <!ENTITY devmgr.details.title                   "nhunumu">
-<!ENTITY devmgr.details.title2                  "aba">
+<!ENTITY devmgr.details.title2                  "Value">
 <!ENTITY devmgr.status.label                    "Status">
-<!ENTITY devmgr.version.label                   "vɛɛhyen">
+<!ENTITY devmgr.version.label                   "Vɛɛhyen">
 
 <!ENTITY devmgr.button.changeslotname.label     "Kyusa erinya dya poti">
 <!ENTITY devmgr.button.changeslotname.accesskey "K">

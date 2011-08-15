@@ -27,50 +27,50 @@
 <!ENTITY saveFileCmd.accesskey        "S">
 <!ENTITY saveFileCmd.commandkey       "s">
 
-<!ENTITY saveFileAsCmd.label          "Save As…">
-<!ENTITY saveFileAsCmd.accesskey      "A">
+<!ENTITY saveFileAsCmd.label          "Fa sie sɛ…">
+<!ENTITY saveFileAsCmd.accesskey      "F">
 
-<!ENTITY closeCmd.label               "Close">
+<!ENTITY closeCmd.label               "To mu">
 <!ENTITY closeCmd.key                 "W">
-<!ENTITY closeCmd.accesskey           "C">
+<!ENTITY closeCmd.accesskey           "T">
 
 <!ENTITY editMenu.label               "Sesa">
 <!ENTITY editMenu.accesskey           "e">
 
-<!ENTITY undoCmd.label                "NNyɛ">
+<!ENTITY undoCmd.label                "Nnyɛ">
 <!ENTITY undoCmd.key                  "Z">
 <!ENTITY undoCmd.accesskey            "y">
 
-<!ENTITY redoCmd.label                "Redo">
+<!ENTITY redoCmd.label                "San yɛ">
 <!ENTITY redoCmd.key                  "Y">
-<!ENTITY redoCmd.accesskey            "R">
+<!ENTITY redoCmd.accesskey            "y">
 
-<!ENTITY cutCmd.label                 "Cut">
+<!ENTITY cutCmd.label                 "Twa">
 <!ENTITY cutCmd.key                   "X">
-<!ENTITY cutCmd.accesskey             "t">
+<!ENTITY cutCmd.accesskey             "w">
 
-<!ENTITY copyCmd.label                "Copy">
+<!ENTITY copyCmd.label                "Fa">
 <!ENTITY copyCmd.key                  "C">
-<!ENTITY copyCmd.accesskey            "C">
+<!ENTITY copyCmd.accesskey            "F">
 
-<!ENTITY pasteCmd.label               "Paste">
+<!ENTITY pasteCmd.label               "Tare">
 <!ENTITY pasteCmd.key                 "V">
-<!ENTITY pasteCmd.accesskey           "P">
+<!ENTITY pasteCmd.accesskey           "r">
 
-<!ENTITY selectAllCmd.label           "Select All">
+<!ENTITY selectAllCmd.label           "Paw no nyinara">
 <!ENTITY selectAllCmd.key             "A">
-<!ENTITY selectAllCmd.accesskey       "A">
+<!ENTITY selectAllCmd.accesskey       "P">
 
-<!ENTITY run.label                    "Run">
-<!ENTITY run.accesskey                "R">
+<!ENTITY run.label                    "Him">
+<!ENTITY run.accesskey                "H">
 <!ENTITY run.key                      "r">
 
-<!ENTITY inspect.label                "Inspɛkt">
-<!ENTITY inspect.accesskey            "I">
+<!ENTITY inspect.label                "Hwɛhwɛ">
+<!ENTITY inspect.accesskey            "w">
 <!ENTITY inspect.key                  "i">
 
-<!ENTITY display.label                "Display">
-<!ENTITY display.accesskey            "D">
+<!ENTITY display.label                "Da-edi">
+<!ENTITY display.accesskey            "i">
 <!ENTITY display.key                  "l">
 <!-- LOCALIZATION NOTE (environmentMenu.label, accesskey): This menu item was
   -  renamed from "Context" to avoid confusion with the right-click context
@@ -79,12 +79,12 @@
   -  (browser).
   -->
 
-<!ENTITY environmentMenu.label        "Environment">
-<!ENTITY environmentMenu.accesskey    "N">
+<!ENTITY environmentMenu.label        "Mpɔtam">
+<!ENTITY environmentMenu.accesskey    "ɔ">
 
 
-<!ENTITY contentContext.label         "Content">
-<!ENTITY contentContext.accesskey     "C">
+<!ENTITY contentContext.label         "Emu nsɛm">
+<!ENTITY contentContext.accesskey     "s">
 <!-- LOCALIZATION NOTE (browserContext.label, accesskey): This menu item is used
   -  to select an execution environment for the browser window itself as opposed
   -  to content. This is a feature for browser and addon developers and only
@@ -92,17 +92,17 @@
   -  was called "Chrome".
   -->
 
-<!ENTITY browserContext.label         "Browser">
+<!ENTITY browserContext.label         "Brawsa">
 <!ENTITY browserContext.accesskey     "B">
 <!-- LOCALIZATION NOTE (resetContext.label): This command allows the developer
   -  to reset/clear the global object of the environment where the code executes.
   -->
 
-<!ENTITY resetContext.label           "Reset">
-<!ENTITY resetContext.accesskey       "R">
+<!ENTITY resetContext.label           "San hyɛ">
+<!ENTITY resetContext.accesskey       "n">
 
-<!ENTITY executeMenu.label            "Execute">
-<!ENTITY executeMenu.accesskey        "X">
+<!ENTITY executeMenu.label            "Yɛ">
+<!ENTITY executeMenu.accesskey        "Y">
 
 <!ENTITY toolsMenu.label              "Mfidie">
 <!ENTITY toolsMenu.accesskey          "i">
@@ -119,5 +119,5 @@
   -  It should be a one-line JavaScript comment, i.e., preceded by '//'
   -->
 
-<!ENTITY textbox.placeholder1         "// Enter some JavaScript, select it, right click and select Run, Inspect or Display.">
+<!ENTITY textbox.placeholder1         "// Bɔ JavaScript bi gu mu, paw no, kleke nifa na paw Him, Hwehwɛ anaa Da-edi.">
 

@@ -28,10 +28,12 @@
 <!ENTITY cmd.findCurrent.label          "Hu wɔ Kɔlɛkhyɛn a Ɛwɔ Hɔ Seisei…">
 <!ENTITY cmd.findCurrent.accesskey      "u">
 
-<!ENTITY cmd.exportHTML.label           "Tu Kɔ HTML Mu…">
-<!ENTITY cmd.exportHTML.accesskey       "T">
-<!ENTITY cmd.importHTML.label           "Gye HTML Bra Mu…">
-<!ENTITY cmd.importHTML.accesskey       "G">
+<!ENTITY importBookmarksFromHTML.label     "Twe Mbukmaak firi HTML bra mu…">
+<!ENTITY importBookmarksFromHTML.accesskey "T">
+<!ENTITY exportBookmarksToHTML.label       "Mane mbukmaak kɔ HTML…">
+<!ENTITY exportBookmarksToHTML.accesskey   "M">
+<!ENTITY importOtherBrowser.label          "Twe data firi brawsa foforo bra mu…">
+<!ENTITY importOtherBrowser.accesskey      "f">
 
 <!ENTITY cmd.backup.label               "Sie-bio…">
 <!ENTITY cmd.backup.accesskey           "S">
