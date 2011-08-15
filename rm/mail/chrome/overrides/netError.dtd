@@ -93,7 +93,7 @@
 <!ENTITY cspFrameAncestorBlocked.longDesc "<p>&brandShortName; ha impedì che questa pagina chargia en tala maniera perquai che la pagina cuntegna directivas per la segirezza dal cuntegn (content security policy) che scumondan quai.</p>">
 
 <!ENTITY corruptedContentError.title "Errur: Cuntegn donnegià">
-<!ENTITY corruptedContentError.longDesc "<p>Il cuntegn che ti emprovas da contemplar na po betg vegnir mussà pervia d'ina errur en las datas tramessas.</p><ul><li>Contactescha il possessur per l'infurmar davart quest problem.</li></ul>">
+<!ENTITY corruptedContentError.longDesc "<p>Il cuntegn che ti emprovas da contemplar na po betg vegnir mussà pervia dad ina errur en las datas tramessas.</p><ul><li>Contactescha per plaschair il possessur per l'infurmar davart quest problem.</li></ul>">
 <!ENTITY securityOverride.linkText "Ti pos era agiuntar ina regla d'excepziun...">
 <!ENTITY securityOverride.getMeOutOfHereButton "Bandunar questa pagina">
 <!ENTITY securityOverride.exceptionButtonLabel "Agiuntar in'excepziun...">
