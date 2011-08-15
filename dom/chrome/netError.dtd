@@ -25,8 +25,7 @@
 <!ENTITY netInterrupt.longDesc "<p>Okokubheka kuxhume ngempumelelo, kodwa ukuxhumeka kuphazamiseke ngesikhathi kudluliswa ukwaziswa.  Sicela uphinde uzame.</p><ul><li>Awukwazi yini ukubheka ezinye izingosi? Hlola ukuthi ikhompyutha yakho ixhumekile yini kunethiwekhi.</li><li>Usenenkinga namanje? Thintana nomqondisi wenethiwekhi yakho noma we-Inthanethi ukuze uthole usizo.</li></ul>">
 
 <!ENTITY netOffline.title "Ayikho ku-inthanethi">
-<!ENTITY netOffline.longDesc "<p>Okokubheka kusebenza ungaxhumile ku-Inthanethi futhi akukwazi ukuthola le nto oyicelile.</p><ul><li>Ikhompyutha ixhunywe kunethiwekhi esebenzayo yini?</li><li>Xhuma ku-Inthanethi ubeke okokubheka uphinde uzame.</li></ul>">
-<!ENTITY netOffline.overrideLongDesc "<p>Okokubheka kusebenza ungaxhumile ku-Inthanethi futhi akukwazi ukuthola le nto oyicelile.</p><ul><li>Ikhompyutha ixhunywe kunethiwekhi esebenzayo yini?</li><li>Xhuma ku-Inthanethi ubeke okokubheka uphinde uzame.</li></ul>">
+<!ENTITY netOffline.longDesc2 "<p>Okokubheka kusebenza ungaxhumile ku-inthanethi futhi akukwazi ukuthola le nto oyicelile.</p><ul><li>Ikhompyutha ixhunywe kunethiwekhi esebenzayo yini?</li><li>Cindezela &quot; Zama futhi&quot; ukushintshela kundlela eku-inthanethi ukuze ulayishe kabusha ikhasi.</li></ul>">
 
 <!ENTITY contentEncodingError.title "Iphutha lokubhala ngokufihla okuqukethwe">
 <!ENTITY contentEncodingError.longDesc "<p>Le khasi ozama ukulibuka alikwazi ukuboniswa ngoba lisebenzisa indlela yokuminyanisa engavumelekile noma engasekelwanga.</p><ul><li>Sicela uxhumane nabanikazi bewebhusayithi ukubazisa ngalenkinga.</li></ul>">
@@ -76,6 +75,9 @@
 
 <!ENTITY cspFrameAncestorBlocked.title "Kuvinjelwe inqubomgomo yokuqukethwe yezokuphepha">
 <!ENTITY cspFrameAncestorBlocked.longDesc "<p>Isiphequluli sivimbele leli khasi ukuba lilayishwe ngalendlela ngoba ikhasi linenqubomgomo yokuqukethwe kwezokuvikela okungalivumeli.</p>">
+
+<!ENTITY corruptedContentError.title "Iphutha lokumosheka kokuqukethwe">
+<!ENTITY corruptedContentError.longDesc "<p>Le khasi ozama ukulibuka alikwazi ukuboniswa ngoba lisebenzisa indlela yokuminyanisa engavumelekile noma engasekelwanga.</p><ul><li>Sicela uxhumane nabanikazi bewebhusayithi ukubazisa ngalenkinga.</li></ul>">
 
 <!ENTITY remoteXUL.title "Isilawuli-kude se-XUL">
 <!ENTITY remoteXUL.longDesc "<p><ul><li>Sicela uxhumane nabanikazi bewebhusayithi ukubazisa ngale nkinga.</li></ul></p>">

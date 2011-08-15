@@ -199,3 +199,5 @@ okwengezwayo okuhle kakhulu futhi nokwaziwayo ukuze ukuzame.">
 <!ENTITY eula.width                           "560px">
 <!ENTITY eula.height                          "400px">
 <!ENTITY eula.accept                          "Amukela bese ufake…">
+
+<!ENTITY settings.path.button.label           "Bheka…">

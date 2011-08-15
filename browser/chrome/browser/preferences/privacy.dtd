@@ -61,8 +61,8 @@
 <!ENTITY  dontrememberActions.clearHistory.label "ukususa wonke umlando wamanje">
 <!ENTITY  dontrememberActions.post.label         ".">
 
-<!ENTITY  privateBrowsingPermanent.label "Indlela engunaphakade yokuphequlula okuyimfihlo">
-<!ENTITY  privateBrowsingPermanent.accesskey "e">
+<!ENTITY  privateBrowsingPermanent2.label "Sebenzisa njalo indlela yangasese yokudlulisa amehlo">
+<!ENTITY  privateBrowsingPermanent2.accesskey "n">
 
 <!ENTITY  rememberHistory.label      "Khumbula umlando wami wokudlulisa amehlo">
 <!ENTITY  rememberHistory.accesskey  "u">
