@@ -28,12 +28,14 @@
 <!ENTITY cmd.findCurrent.label          "Zuula mu Byakakuŋanyizibwa…">
 <!ENTITY cmd.findCurrent.accesskey      "u">
 
-<!ENTITY cmd.exportHTML.label           "Fulumya HTML…">
-<!ENTITY cmd.exportHTML.accesskey       "F">
-<!ENTITY cmd.importHTML.label           "Leeta okuva awalala HTML…">
-<!ENTITY cmd.importHTML.accesskey       "L">
+<!ENTITY importBookmarksFromHTML.label     "Leeta Obulambe okuvamu HTML…">
+<!ENTITY importBookmarksFromHTML.accesskey "e">
+<!ENTITY exportBookmarksToHTML.label       "Weereza Obulambe mu HTML…">
+<!ENTITY exportBookmarksToHTML.accesskey   "W">
+<!ENTITY importOtherBrowser.label          "Noona Data okuva mu Nonyeso Endala…">
+<!ENTITY importOtherBrowser.accesskey      "N">
 
-<!ENTITY cmd.backup.label               "Tereka awekusifu…">
+<!ENTITY cmd.backup.label               "Tereka…">
 <!ENTITY cmd.backup.accesskey           "T">
 <!ENTITY cmd.restore2.label             "Zz'obujja">
 <!ENTITY cmd.restore2.accesskey         "Z">
@@ -78,7 +80,7 @@
 <!ENTITY cmd.moveBookmarks.accesskey              "T">
 
 <!ENTITY col.name.label          "Erinnya">
-<!ENTITY col.tags.label          "Taaga">
+<!ENTITY col.tags.label          "Ta'aga">
 <!ENTITY col.url.label           "Ekifo">
 <!ENTITY col.lastvisit.label     "Ennaku z'omwezi Kw'Okeberedde">
 <!ENTITY col.visitcount.label    "Okukyala bw'Enkebera">

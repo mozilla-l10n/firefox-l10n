@@ -30,6 +30,8 @@
 <!ENTITY checkNow.accesskey              "K">
 <!ENTITY submitCrashes.label             "Wayo alipota zo kuzikirira">
 <!ENTITY submitCrashes.accesskey         "W">
+<!ENTITY submitTelemetry.label           "Wwayo data we'enkola">
+<!ENTITY submitTelemetry.accesskey       "P">
 
 <!ENTITY networkTab.label                "Omukutu">
 

@@ -57,17 +57,15 @@ can reach it easily. -->
 <!ENTITY printCmd.label "Fulumya…">
 <!ENTITY printCmd.accesskey "F">
 <!ENTITY printCmd.commandkey "p">
-<!ENTITY import.label "Leeta okuva awalala…">
-<!ENTITY import.accesskey "L">
 
 <!ENTITY goOfflineCmd.label "Kola nga toli ku Mpewo">
 <!ENTITY goOfflineCmd.accesskey "K">
 
 <!ENTITY menubarCmd.label "Akabawo Ke'bilondebwako">
 <!ENTITY menubarCmd.accesskey "A">
-<!ENTITY navbarCmd.label "Akabaawo kebinkozesesa Akakulambuza">
+<!ENTITY navbarCmd.label "Akabaawo Kokulagirira">
 <!ENTITY navbarCmd.accesskey "A">
-<!ENTITY personalbarCmd.label "Akalambe Akabawo kebikola">
+<!ENTITY personalbarCmd.label "Akabawo Kobulambe">
 <!ENTITY personalbarCmd.accesskey "A">
 <!ENTITY bookmarksToolbarItem.label "Obulambe bw'Akabawo kebikozesa Ebintu">
 <!ENTITY addonBarCmd.label "Olubawo lwebigatibwako">
@@ -76,8 +74,8 @@ can reach it easily. -->
 <!ENTITY pageSourceCmd.label "Ensibuko y'Omuko">
 <!ENTITY pageSourceCmd.accesskey "n">
 <!ENTITY pageSourceCmd.commandkey "u">
-<!ENTITY pageInfoCmd.label "Obubaka bw'Omuko">
-<!ENTITY pageInfoCmd.accesskey "O">
+<!ENTITY pageInfoCmd.label "Ebikwata ku'muko">
+<!ENTITY pageInfoCmd.accesskey "b">
 <!ENTITY pageInfoCmd.commandkey "i">
 <!ENTITY fullScreenCmd.label "Sikulini mu Bujjuvu">
 <!ENTITY fullScreenCmd.accesskey "S">
@@ -212,19 +210,6 @@ can reach it easily. -->
 <!ENTITY inspectPanelTitle.label      "HTML">
 <!ENTITY inspectButton.label          "Lambula">
 <!ENTITY inspectButton.accesskey      "L">
-<!ENTITY inspectNextButton.label      "Kirala">
-<!ENTITY inspectNextButton.accesskey  "K">
-<!ENTITY inspectPreviousButton.label  "Ekiyise">
-<!ENTITY inspectPreviousButton.accesskey "E">
-<!ENTITY inspectStyleButton.label     "Nkola">
-<!ENTITY inspectStyleButton.accesskey "N">
-<!ENTITY inspectStylePanelTitle.label  "Nkola">
-<!-- LOCALIZATION NOTE (inspectObjectButton.label): This button label
-  -  appears on the Inspector's toolbar. It is used to open and close the Object
-  -  panel. There is also a label in inspector.properties for the panel
-  -  titlebar: object.objectPanelTitle. -->
-<!ENTITY inspectObjectButton.label       "Ekintu">
-<!ENTITY inspectObjectButton.accesskey   "E">
 
 <!ENTITY getMoreDevtoolsCmd.label        "Funna Ebikola Ebisingawo">
 <!ENTITY getMoreDevtoolsCmd.accesskey    "b">
@@ -288,7 +273,7 @@ can reach it easily. -->
 
 <!ENTITY historyMenu.label "Ebyafayo">
 <!ENTITY historyMenu.accesskey "f">
-<!ENTITY historyUndoMenu.label "Awadirira Egyakaggalibwawo">
+<!ENTITY historyUndoMenu.label "Awadirira Awakaggalwawo">
 <!-- LOCALIZATION NOTE (historyUndoWindowMenu): see bug 394759 -->
 <!ENTITY historyUndoWindowMenu.label "Amadiriisa Agakaggalibwawo">
 <!ENTITY historyRestoreLastSession.label "Zzaawo ebyabaddewo">
@@ -300,7 +285,7 @@ can reach it easily. -->
 <!ENTITY appMenuEdit.label "Longoosa">
 <!ENTITY appMenuCustomize.label "Fula">
 <!ENTITY appMenuToolbarLayout.label "Endabika y'omulabba gw'ebikozesebwa">
-<!ENTITY appMenuSidebars.label "Olusangiro lw'emabbali">
+<!ENTITY appMenuSidebars.label "Obubawobwokubali">
 <!ENTITY appMenuFind.label "Zuula...">
 <!ENTITY appMenuUnsorted.label "Obulambe Obutannasosolwa">
 <!ENTITY appMenuWebDeveloper.label "Omuzimbi w'emitimbagano">

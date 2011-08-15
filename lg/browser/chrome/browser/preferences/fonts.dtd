@@ -53,7 +53,7 @@
 <!ENTITY  font.langGroup.sinhala                  "Aba sinhala">
 <!ENTITY  font.langGroup.tibetan                  "Abatibetani">
 <!-- Minimum font size -->
-<!ENTITY minSize.label                            "Olupimo lwewasi mubu nene bwe ennukuta:">
+<!ENTITY minSize.label                            "Olupimo lwawansi olwe'ennukuta:">
 <!ENTITY minSize.accesskey                        "w">
 <!ENTITY minSize.none                             "Tewali">
 <!-- default font type -->
@@ -61,7 +61,7 @@
 <!ENTITY  useDefaultFontSerif.label               "Serifa">
 <!ENTITY  useDefaultFontSansSerif.label           "Sans Serifa">
 
-<!ENTITY  allowPagesToUse.label                   "Kkiriza emiko kulondako ennukuta, mukyifuu kyo keberwamu ewagulu">
+<!ENTITY  allowPagesToUse.label                   "Kkiriza emiko okwelonderamu ennukuta zaazo, mukyifo kyezo zenonzeko wagulu">
 <!ENTITY  allowPagesToUse.accesskey               "K">
 
 <!ENTITY languages.customize.Charset.grouplabel         "Ennyukuta Enkusike">

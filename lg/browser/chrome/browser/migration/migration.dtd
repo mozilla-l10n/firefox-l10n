@@ -21,8 +21,8 @@
 <!ENTITY noMigrationSources.label       "Ttewali pulogulamu ezirina obulabe, ebyafayo oba akasumulizzo ka wiinoenyiza ku labikwa.">
 
 <!ENTITY importSource.title             "Leeta Etegeka ne Bwiino">
-<!ENTITY importItems.title              "Obuntu obuva Ewalala">
-<!ENTITY importItems.label              "Londako obuntu bwo Leeta:">
+<!ENTITY importItems.title              "Ebyokuleta okuva Ewalala">
+<!ENTITY importItems.label              "Londako ebinaletebwa:">
 
 <!ENTITY migrating.title                "Okuleeta…">
 <!ENTITY migrating.label                "Obuntu obundirira kakano bunjjirwa ewalala…">

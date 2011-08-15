@@ -45,13 +45,8 @@ nti &brandShortName; bukkiriziddwa okuyingira ku Omukuttu.</li>
 <!ENTITY netInterrupt.longDesc "&sharedLongDesc;">
 
 <!ENTITY netOffline.title "Toli ku lutimbe">
-<!-- LOCALIZATION NOTE (netOffline.overrideLongDesc) - This string should
-     indicate that "Work Offline" is a menu item without being too specific,
-     since it could be in either the normal menu (Mac/Linux) or the Firefox button
-     menu (Windows).
--->
-<!ENTITY netOffline.overrideLongDesc "<ul> 
-<li>Tekirondedwa &quot;Kola emirimu nga toli kulutimbe&quot; Ku bintu ebiri munteresi nate oddemu ogezeeko.</li> 
+<!ENTITY netOffline.longDesc2 "<ul> 
+<li>Nyiiga &quot;Gezako Natte&quot; okudda yungibwa nate odemu otike omuko.</li> 
 </ul>">
 
 <!ENTITY contentEncodingError.title "Ensobi mu kulongoosa Ebirimu">
@@ -135,6 +130,10 @@ eyinza obutaba yaluberera era oyinza okugezako edda.okuba yakaseera katono, osob
 
 <!ENTITY cspFrameAncestorBlocked.title "Kiziyiziddwa Eteka Elifuga  Ebyokwerinda Ebyomunda">
 <!ENTITY cspFrameAncestorBlocked.longDesc "<p>&brandShortName; eziyiza omuko guno okutika mungeri eno kubanga omuko guno gulina amateka agafuga ebyokwerinda byomunda elitagikiriza.</p>">
+
+<!ENTITY corruptedContentError.title "Ensobi Mubyomunda Ebicupudwa">
+<!ENTITY corruptedContentError.longDesc "<p>Omuko gw'ogezaako okulaba tegusobola kulagibwa kubanga gukozesa ennyiga yo lugo etewagiddwa oba tekkirizidwa.</p><ul><li>Bambi tegeeza bannannyini mukutu gw'ekyapa obabuulire obuzibu buno.</li></ul>">
+
 
 <!ENTITY securityOverride.linkText "Oba oyinza okugattako ekyensuso…">
 <!ENTITY securityOverride.getMeOutOfHereButton "Nzijja wano!">

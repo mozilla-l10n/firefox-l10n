@@ -9,14 +9,14 @@
 <!ENTITY editBookmarkOverlay.folder.label                    "Eterekelo lya fayiro:">
 <!ENTITY editBookmarkOverlay.foldersExpanderDown.tooltip     "Laga obulambe bwona obwamabasa">
 <!ENTITY editBookmarkOverlay.expanderUp.tooltip              "Kweeka">
-<!ENTITY editBookmarkOverlay.tags.label                      "Taaga:">
+<!ENTITY editBookmarkOverlay.tags.label                      "Ta'aga:">
 <!ENTITY editBookmarkOverlay.tags.accesskey                  "T">
-<!ENTITY editBookmarkOverlay.tagsEmptyDesc.label             "Yawula taaga n'obuwunzika">
+<!ENTITY editBookmarkOverlay.tagsEmptyDesc.label             "Yawula ta'aga n'obuwunzika">
 <!ENTITY editBookmarkOverlay.description.label               "Okunyonyola:">
 <!ENTITY editBookmarkOverlay.description.accesskey           "O">
 <!ENTITY editBookmarkOverlay.keyword.label                   "Ekigambo ekikulu:">
 <!ENTITY editBookmarkOverlay.keyword.accesskey               "E">
-<!ENTITY editBookmarkOverlay.tagsExpanderDown.tooltip        "Laga taaga zonna">
+<!ENTITY editBookmarkOverlay.tagsExpanderDown.tooltip        "Laga ta'aga zonna">
 <!ENTITY editBookmarkOverlay.loadInSidebar.label             "Tikka akalambe kano mu mabali">
 <!ENTITY editBookmarkOverlay.loadInSidebar.accesskey         "a">
 <!ENTITY editBookmarkOverlay.choose.label                    "Londako…">

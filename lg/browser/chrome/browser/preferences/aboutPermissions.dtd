@@ -22,9 +22,9 @@
 <!ENTITY password.manage                 "Ddukanya Obusumuluzo…">
 
 <!ENTITY cookie.label                    "Tegeka Kuki">
-<!ENTITY cookie.clear                    "Jjawo bu Cookies">
+<!ENTITY cookie.remove                   "Jjawo Kkuki">
 <!ENTITY cookie.manage                   "Ddukanya bu Cookies…">
-<!ENTITY cookie.clearAll                 "Jjawo bu Cookies bwoona">
+<!ENTITY cookie.removeAll                "Jjawo Kkuki Zonna">
 
 <!ENTITY geo.label                       "Ggabana Ekifo">
 <!-- LOCALIZATION NOTE (indexedDB.label): This is describing indexedDB storage
