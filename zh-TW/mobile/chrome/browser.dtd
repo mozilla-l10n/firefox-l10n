@@ -16,6 +16,7 @@
 <!ENTITY copyAll.label         "全部複製">
 <!ENTITY copylink.label        "複製鏈結網址">
 <!ENTITY paste.label           "貼上">
+<!ENTITY pasteAndGo.label      "貼上並瀏覽">
 <!ENTITY delete.label          "刪除">
 <!ENTITY selectAll.label       "全選">
 <!ENTITY noSuggestions.label   "(沒有建議)">
