@@ -13,6 +13,7 @@
 <!ENTITY copyAll.label "Copia tutto">
 <!ENTITY copylink.label "Copia indirizzo">
 <!ENTITY paste.label "Incolla">
+<!ENTITY pasteAndGo.label "Incolla e vai">
 <!ENTITY delete.label "Elimina">
 <!ENTITY selectAll.label "Seleziona tutto">
 <!ENTITY noSuggestions.label "(nessun suggerimento)">
