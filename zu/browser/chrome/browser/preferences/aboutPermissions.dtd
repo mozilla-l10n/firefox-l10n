@@ -6,7 +6,7 @@
      surround the host name of the site to make the header for the permissions page.
      example: "Permissions for mozilla.org" -->
 
-<!ENTITY header.site.start               "Izimvume ze:">
+<!ENTITY header.site.start               "Izimvume ze">
 <!ENTITY header.site.end                 "">
 
 <!ENTITY header.defaults                 "Izimvume zangokwakhona zamasayithi wonke">
@@ -22,9 +22,9 @@
 <!ENTITY password.manage                 "Phatha amaphasiwedi…">
 
 <!ENTITY cookie.label                    "Bheka amakhukhi">
-<!ENTITY cookie.clear                    "Sula amakhukhi">
+<!ENTITY cookie.remove                   "Susa amakhukhi">
 <!ENTITY cookie.manage                   "Phatha amakhukhi…">
-<!ENTITY cookie.clearAll                 "Sula wonke amakhukhi">
+<!ENTITY cookie.removeAll                "Susa wonke amakhukhi">
 
 <!ENTITY geo.label                       "Aba indawo">
 <!-- LOCALIZATION NOTE (indexedDB.label): This is describing indexedDB storage

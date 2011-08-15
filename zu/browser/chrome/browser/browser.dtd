@@ -57,8 +57,6 @@ can reach it easily. -->
 <!ENTITY printCmd.label "Printa…">
 <!ENTITY printCmd.accesskey "P">
 <!ENTITY printCmd.commandkey "p">
-<!ENTITY import.label "Yamukela…">
-<!ENTITY import.accesskey "Y">
 
 <!ENTITY goOfflineCmd.label "Sebenza ngaphandle kwe-inthanethi">
 <!ENTITY goOfflineCmd.accesskey "S">
@@ -102,9 +100,9 @@ can reach it easily. -->
 <!ENTITY bookmarkThisPageCmd.commandkey "d">
 <!ENTITY subscribeToPageMenupopup.label "Bhalisa kuleli khasi">
 <!ENTITY subscribeToPageMenuitem.label "Bhalisa kuleli khasi…">
-<!ENTITY addCurPagesCmd.label "Bookmark All Tabs…">
+<!ENTITY addCurPagesCmd.label "Phawula wonke amathebhu…">
 <!ENTITY showAllBookmarks2.label "Bonisa wonke amaphawu wokubekisa">
-<!ENTITY unsortedBookmarksCmd.label "Unsorted Bookmarks">
+<!ENTITY unsortedBookmarksCmd.label "Izimpawu zokubekisa ezingahlelwanga">
 <!ENTITY bookmarksToolbarChevron.tooltip "Bonisa ukuphawulwa kokubonisa okungaphezulu">
 
 <!ENTITY backCmd.label                "Emuva">
@@ -179,8 +177,8 @@ can reach it easily. -->
 <!ENTITY addons.accesskey             "N">
 <!ENTITY addons.commandkey            "A">
 
-<!ENTITY webDeveloperMenu.label       "Web Developer">
-<!ENTITY webDeveloperMenu.accesskey   "W">
+<!ENTITY webDeveloperMenu.label       "Umthuthukisi wewebhu">
+<!ENTITY webDeveloperMenu.accesskey   "w">
 
 <!ENTITY errorConsoleCmd.label        "Iphutha Console">
 <!ENTITY errorConsoleCmd.accesskey    "C">
@@ -204,30 +202,17 @@ can reach it easily. -->
   -  approximation to it or choose a word (or words) that means
   -  "simple discardable text editor". -->
 
-<!ENTITY scratchpad.label             "Scratchpad">
-<!ENTITY scratchpad.accesskey         "s">
+<!ENTITY scratchpad.label             "i-Scratchpad">
+<!ENTITY scratchpad.accesskey         "S">
 <!ENTITY scratchpad.keycode           "VK_F4">
 <!ENTITY scratchpad.keytext           "F4">
 
 <!ENTITY inspectPanelTitle.label      "i-HTML">
 <!ENTITY inspectButton.label          "Hlola">
 <!ENTITY inspectButton.accesskey      "H">
-<!ENTITY inspectNextButton.label      "Okulandelayo">
-<!ENTITY inspectNextButton.accesskey  "O">
-<!ENTITY inspectPreviousButton.label  "Okwandulelayo">
-<!ENTITY inspectPreviousButton.accesskey "O">
-<!ENTITY inspectStyleButton.label     "Isitayela">
-<!ENTITY inspectStyleButton.accesskey "I">
-<!ENTITY inspectStylePanelTitle.label  "Isitayela">
-<!-- LOCALIZATION NOTE (inspectObjectButton.label): This button label
-  -  appears on the Inspector's toolbar. It is used to open and close the Object
-  -  panel. There is also a label in inspector.properties for the panel
-  -  titlebar: object.objectPanelTitle. -->
-<!ENTITY inspectObjectButton.label       "Into">
-<!ENTITY inspectObjectButton.accesskey   "I">
 
-<!ENTITY getMoreDevtoolsCmd.label        "Get More Tools">
-<!ENTITY getMoreDevtoolsCmd.accesskey    "M">
+<!ENTITY getMoreDevtoolsCmd.label        "Thola amathuluzi amaningi">
+<!ENTITY getMoreDevtoolsCmd.accesskey    "m">
 
 <!ENTITY fileMenu.label         "Ifayela"> 
 <!ENTITY fileMenu.accesskey       "I">

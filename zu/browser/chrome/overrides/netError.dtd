@@ -15,10 +15,10 @@
 <!ENTITY dnsNotFound.title "Iseva Ayitholakali">
 <!ENTITY dnsNotFound.longDesc "<ul> 
 <li>Hlola ukuthi ikheli alinawo amaphutha okubhala njengokuthi 
-   <strong>ww</strong>.isibonelo.com esikhundleni sokuthi 
-    <strong>www</strong>.isibonelo.com</li>
+ <strong>ww</strong>.isibonelo.com esikhundleni sokuthi 
+<strong>www</strong>.isibonelo.com</li> 
 <li>Uma ungakwazi ukulayisha noma iliphi ikhasi, hlola ukuxhuma 
- kunethiwekhi yekhompyutha yakho.</li> 
+kunethiwekhi yekhompyutha yakho.</li> 
 <li>Uma ikhompyutha yakho noma inethiwekhi ivikelwe isivikeli noma i-proxy, qiniseka 
 ukuthi i-&brandShortName; ivunyelwe ukungena kuwebhu.</li>
 </ul>">
@@ -45,13 +45,8 @@ ukuthi i-&brandShortName; ivunyelwe ukungena kuwebhu.</li>
 <!ENTITY netInterrupt.longDesc "&sharedLongDesc;">
 
 <!ENTITY netOffline.title "Ayikho ku-inthanethi">
-<!-- LOCALIZATION NOTE (netOffline.overrideLongDesc) - This string should
-     indicate that "Work Offline" is a menu item without being too specific,
-     since it could be in either the normal menu (Mac/Linux) or the Firefox button
-     menu (Windows).
--->
-<!ENTITY netOffline.overrideLongDesc "<ul> 
-  <li>Susa uqhwishi &quot;Sebenza Ngaphandle Kwe-Inthanethi&quot; ohlwini lokukhona eFayeleni, bese uphinda uzame.</li> 
+<!ENTITY netOffline.longDesc2 "<ul> 
+<li>Chofoza i-&quot; Zama futhi&quot; ukushintshela kundlela eku-inthanethi futhi ulayishe kabusha ikhasi.</li> 
 </ul>">
 
 <!ENTITY contentEncodingError.title "Iphutha lokubhala ngemfihlo okuqukethwe">
@@ -86,34 +81,34 @@ ukuthi i-&brandShortName; ivunyelwe ukungena kuwebhu.</li>
 <li>Hlola ukuhlelwa kwe-proxy ukuze uqiniseke ukuthi kuyikho.</li> 
 <li>Hlola ukuze uqiniseka ukuthi ikhompyutha yakho ixhume kunethiwekhi esebenzayo.</li> 
 <li>Uma ikhompyutha yakho noma inethiwekhi ivikelwe isivikeli noma 
- i-proxy, qiniseka ukuthi &brandShortName; livunyelwe ukungena kuwebhu</li>
+i-proxy, qiniseka ukuthi &brandShortName; livunyelwe ukungena kuwebhu</li> 
 </ul>">
 
 <!ENTITY redirectLoop.title "Leli khasi aliqondile kahle kwenye indawo">
 <!ENTITY redirectLoop.longDesc "<ul>  
 <li>Le nkinga ngezinye izikhathi ingase ibangelwe ukwenza angasebenzi noma ukwenqaba ukwamukela
- amakukizi.</li>
- </ul>">
+ amakukizi.</li> 
+</ul>">
 
 <!ENTITY unknownSocketType.title "Impendulo engalindelekile evela kwi seva">
 <!ENTITY unknownSocketType.longDesc "<ul> 
-<li>Hlola ukuze uqiniseke ukuthi uhlelo lwakho lunoMqondisi wokuvikela
+<li>Hlola ukuze uqiniseke ukuthi uhlelo lwakho lunoMqondisi wokuvikela 
 Okungowakho ofakelwe.</li> 
-<li>Lokhu kungase kubangelwe isimo esingafani nezinye esikuseva.</li>
+<li>Lokhu kungase kubangelwe isimo esingafani nezinye esikuseva.</li> 
 </ul>">
 
 <!ENTITY nssFailure2.title "Uxhumo oluvikelekile luhlulekile">
 <!ENTITY nssFailure2.longDesc "<ul> 
 <li>Le khasi ozama ukulibuka alikwazi ukuboniswa ngoba ukuqinisekiswa kwedatha etholiwe ayikwazanga ukuqinisekiswa.</li> 
-<li>Sicela uxhumane nabanikazi bewebhusayithi ukuze ubazise ngale nkinga.Okunye, sebenzisa impoqo etholakala ku-menu yosizo ukuze ubike le sayithi eliphukile.</li> 
+<li>Sicela uxhumane nabanikazi bewebhusayithi ukuze ubazise ngale nkinga. Okunye, sebenzisa impoqo etholakala ku-menu yosizo ukuze ubike le sayithi eliphukile.</li> 
 </ul>">
 
 <!ENTITY nssBadCert.title "Uxhumo oluvikelekile luhlulekile">
 <!ENTITY nssBadCert.longDesc2 "<ul> 
 <li>Lokhu kungaba yinkinga nezimiso zeseva, noma kungaba 
 ukuthi omunye umuntu ozama ukuzenza omunye umuntu kuseva.</li> 
-<li>Uma uke waxhumeka kule seva ngempumelelo ngaphambilini, iphutha lingaba ngelesikhashana 
-,futhi ungabuye uzame kamuva.</li> 
+<li>Uma uke waxhumeka kule seva ngempumelelo ngaphambilini, iphutha lingaba 
+ ngalesi sikhashana, futhi ungabuye uzame kamuva.</li> 
 </ul>">
 
 <!ENTITY sharedLongDesc "<ul> 
@@ -127,7 +122,7 @@ kwesikhashana.</li>
 
 <!ENTITY malwareBlocked.title "Isayithi lokuhlasela elisolwayo!">
 <!ENTITY malwareBlocked.longDesc "<p>Amasayithi wokuhlasela angazama ukufaka izinhlelo zokuntshontsha imininingwane eyimfihlo, asebenzise ikhompyutha yakho ukuhlasela amanye, noma amoshe uhlelo lwakho.</p> 
-<p>Abanikazi bama webhusayithi abakholelwa ukuthi isayithi labo libikwe ngokuthi lingumhlaseli ngephutha <a href='http://www.stopbadware.org/home/reviewinfo'> bangacela isibuyekezo</a>.</p>">
+<p>Abanikazi bama webhusayithi abakholelwa ukuthi isayithi labo libikwe ngokuthi lingumhlaseli ngephutha <a href='http://www.stopbadware.org/home/reviewinfo' > bangacela isibuyekezo</a>.</p>">
 
 <!ENTITY phishingBlocked.title "Ukusolwa kokubhumbuluwa kwe webhu!">
 <!ENTITY phishingBlocked.longDesc "<p>Ukufaka noma iyiphi imininingwane yakho kule khasi kungaholela ekuntshontshweni kobunikazi noma kokuye ukukhohlisa.</p> 
@@ -135,6 +130,10 @@ kwesikhashana.</li>
 
 <!ENTITY cspFrameAncestorBlocked.title "Kuvinjelwe yinqubomgomo yokuphepha okuqukethwe">
 <!ENTITY cspFrameAncestorBlocked.longDesc "<p>&brandShortName; ivimbele le khasi ekulayisheni ngale ndlela ngoba ikhasi linenqubomgomo yokuphepha kokuqukethwe okuyinqabelayo.</p>">
+
+<!ENTITY corruptedContentError.title "Iphutha lokuqukethwe elimoshekile">
+<!ENTITY corruptedContentError.longDesc "<p>Le khasi ozama ukulibuka alikwazi ukuboniswa ngoba lisebenzisa indlela yokuminyanisa engavumelekile noma engasekelwanga.</p><ul><li>Sicela uxhumane nabanikazi bewebhusayithi ukubazisa ngalenkinga.</li></ul>">
+
 
 <!ENTITY securityOverride.linkText "Noma ungangeza okungaphandle…">
 <!ENTITY securityOverride.getMeOutOfHereButton "Ngikhiphe lapha!">
@@ -151,4 +150,4 @@ functionality specific to firefox. -->
 <button id='exceptionDialogButton'>&securityOverride.exceptionButtonLabel;</button>">
 
 <!ENTITY remoteXUL.title "Isilawuli-kude se-XUL">
-<!ENTITY remoteXUL.longDesc "<p><ul><li>Please contact the website owners to inform them of this problem.</li></ul></p>">
+<!ENTITY remoteXUL.longDesc "<p><ul><li>Sicela uxhumane nabanikazi bewebhusayithi ukuze ubazise ngalenkinga.</li></ul></p>">

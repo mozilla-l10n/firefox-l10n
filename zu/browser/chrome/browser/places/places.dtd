@@ -28,10 +28,12 @@
 <!ENTITY cmd.findCurrent.label          "Thola kuqoqo lamanje…">
 <!ENTITY cmd.findCurrent.accesskey      "a">
 
-<!ENTITY cmd.exportHTML.label           "Khipha i-HTML…">
-<!ENTITY cmd.exportHTML.accesskey       "i">
-<!ENTITY cmd.importHTML.label           "Faka i-HTML…">
-<!ENTITY cmd.importHTML.accesskey       "F">
+<!ENTITY importBookmarksFromHTML.label     "Ngenisa amagama okubekisa kusuka ku-HTML...">
+<!ENTITY importBookmarksFromHTML.accesskey "i">
+<!ENTITY exportBookmarksToHTML.label       "Hambisa izimpawu zokubekisa ku-HTML...">
+<!ENTITY exportBookmarksToHTML.accesskey   "e">
+<!ENTITY importOtherBrowser.label          "Ngenisa idatha kusuka kwisiphequluli esinye...">
+<!ENTITY importOtherBrowser.accesskey      "a">
 
 <!ENTITY cmd.backup.label               "Isipele…">
 <!ENTITY cmd.backup.accesskey           "p">
@@ -67,7 +69,7 @@
 <!ENTITY cmd.new_bookmark.accesskey        "l">
 <!ENTITY cmd.new_folder.label              "Ifolda entsha…">
 <!ENTITY cmd.new_folder.accesskey          "n">
-<!ENTITY cmd.context_new_folder.accesskey  "F">
+<!ENTITY cmd.context_new_folder.accesskey  "f">
 <!ENTITY cmd.new_separator.label           "Isehlukanisi esisha">
 <!ENTITY cmd.new_separator.accesskey       "h">
 

@@ -30,6 +30,8 @@
 <!ENTITY checkNow.accesskey              "m">
 <!ENTITY submitCrashes.label             "Thumela imibiko yokuhluleka">
 <!ENTITY submitCrashes.accesskey         "T">
+<!ENTITY submitTelemetry.label           "Thumela idatha yokusebenza">
+<!ENTITY submitTelemetry.accesskey       "k">
 
 <!ENTITY networkTab.label                "Inethiwekhi">
 
