@@ -5,7 +5,7 @@
 <!ENTITY  offline.toggleOffline.label     "Sair do modo offline agora">
 <!ENTITY  offline.toggleOffline.accesskey "S">
 
-<!ENTITY  mismatch.win.title              "Extensões e temas incompatíveis">
+<!ENTITY  mismatch.win.title              "Complementos incompatíveis">
 <!ENTITY  mismatch.top.label              "Algumas extensões ou temas não são compatíveis com esta versão do &brandShortName; e foram desativadas:">
 <!ENTITY  mismatch.bottom.label           "O &brandShortName; pode verificar se há versões compatíveis destes complementos.">
 
@@ -13,16 +13,16 @@
 <!ENTITY  checking.top.label              "Verificando atualizações de extensões e temas incompatíveis…">
 <!ENTITY  checking.status                 "Isto pode levar alguns minutos…">
 
-<!ENTITY  found.wizard.title               "Encontradas extensões e temas compatíveis">
+<!ENTITY  found.wizard.title               "Encontrados complementos compatíveis">
 <!ENTITY  found.top.label                 "Selecione as extensões e temas que deseja instalar:">
 <!ENTITY  found.disabledXPinstall.label   "As atualizações não puderam ser instaladas porque a instalação de extensões e temas está desativada. Abaixo, você pode alterar esta opção.">
 <!ENTITY  found.enableXPInstall.label     "Permitir que sites instalem extensões e temas">
 <!ENTITY  found.enableXPInstall.accesskey "P">
 
-<!ENTITY  installing.wizard.title         "Instalando extensões e temas compatíveis">
+<!ENTITY  installing.wizard.title         "Instalando complementos compatíveis">
 <!ENTITY  installing.top.label            "Recebendo e instalando atualizações das extensões e temas…">
 
-<!ENTITY  noupdates.wizard.title          "Não encontradas extensões ou temas compatíveis">
+<!ENTITY  noupdates.wizard.title          "Não encontrados complementos compatíveis">
 <!ENTITY  noupdates.intro.desc            "O &brandShortName; não pôde localizar atualizações para as extensões e temas incompatíveis.">
 <!ENTITY  noupdates.error.desc            "Alguns problemas foram encontrados ao tentar localizar atualizações.">
 <!ENTITY  noupdates.checkEnabled.desc     "O &brandShortName; verificará periodicamente e notificará você quando encontrar atualizações compatíveis destes complementos.">
