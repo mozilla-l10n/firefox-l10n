@@ -5,28 +5,23 @@
 <!ENTITY importFromBookmarks.label "पुस्तकचिह्न एतय सँ आयात  करू :">
 <!ENTITY importFromIE.label "माइक्रोसाफ़्ट इंटरनेट एक्सप्लोरर">
 <!ENTITY importFromIE.accesskey "M">
-<!ENTITY importFromPhoenix.label "फायरफाक्स 0.8, फ़ायरबर्ड अथवा फीनिक्स">
-<!ENTITY importFromPhoenix.accesskey "P">
 <!ENTITY importFromNothing.label "किछु आयात नहि करू (D)">
 <!ENTITY importFromNothing.accesskey "D">
 <!ENTITY importFromSeamonkey.label "नेटस्केप 6, 7 अथवा मोज़िला 1.x">
 <!ENTITY importFromSeamonkey.accesskey "N">
-<!ENTITY importFromNetscape4.label "नेटस्केप 4.x">
-<!ENTITY importFromNetscape4.accesskey "4">
+
 <!ENTITY importFromOpera.label "ओपेरा">
 <!ENTITY importFromOpera.accesskey "O">
-<!ENTITY importFromCamino.label "कैमिनो">
+
 <!ENTITY importFromSafari.label "सफारी">
-<!ENTITY importFromOmniWeb.label "ओम्नीवेब">
-<!ENTITY importFromOmniWeb.accesskey "W">
-<!ENTITY importFromICab.label "iCab">
-<!ENTITY importFromICab.accesskey "i">
-<!ENTITY importFromKonqueror.label "कोंकरर">
-<!ENTITY importFromKonqueror.accesskey "K">
-<!ENTITY importFromEpiphany.label "एपीफेनी">
-<!ENTITY importFromEpiphany.accesskey "E">
-<!ENTITY importFromGaleon.label "गैलियन">
-<!ENTITY importFromGaleon.accesskey "G">
+
+
+
+
+
+
+
+
 <!ENTITY importSource.title "सेटिंग आओर आँकड़ा एतय सँ आयात करू ">
 <!ENTITY importItems.title "आयातक वस्तुसभ">
 <!ENTITY importItems.label "आयातक वस्तुक चयन  करू ">
@@ -40,4 +35,4 @@
 <!ENTITY importFromHTMLFile.accesskey   "F">
 
 <!ENTITY importFromSafari.accesskey     "S">
-<!ENTITY importFromCamino.accesskey     "C">
+

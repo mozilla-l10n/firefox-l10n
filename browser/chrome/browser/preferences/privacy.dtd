@@ -106,8 +106,6 @@
 <!ENTITY  locbar.bookmarks.label        "पुस्तकचिह्न">
 <!ENTITY  locbar.nothing.label          "किछु नहि">
 
-<!ENTITY  privateBrowsingPermanent.label "स्थायी निज ब्राउजिंग विधि">
-<!ENTITY  privateBrowsingPermanent.accesskey "P">
 
 <!ENTITY  rememberHistory.label      "हमर ब्राउजिंग इतिहास याद राखू">
 <!ENTITY  rememberHistory.accesskey  "b">
