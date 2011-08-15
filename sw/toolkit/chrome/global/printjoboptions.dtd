@@ -5,7 +5,7 @@
 <!ENTITY paperInput.label "Ukubwa wa Karatasi:">
 <!ENTITY paperInput.accesskey "U">
 
-<!ENTITY plexInput.label "Hali tumizi ya plexi">
+<!ENTITY plexInput.label "Modi ya pleksi:">
 <!ENTITY plexInput.accesskey "p">
 
 <!ENTITY resolutionInput.label "Mwonekano/Ubora:">

@@ -21,10 +21,10 @@
 
 <!ENTITY optionsGroup.label  "Chaguo">
 
-<!ENTITY printBG.label       "Chapisha Mandharinyuma (rangi&amp; picha)">
+<!ENTITY printBG.label       "Chapisha Mandharinyuma (rangi&amp; taswira)">
 <!ENTITY printBG.accesskey   "M">
 
-<!ENTITY advanced.tab        "Pambizo &amp; Kichwa/Kijachini">
+<!ENTITY advanced.tab        "Pambizo &amp; Kijajuu/Kijachini">
 
 <!ENTITY marginGroup.label   "Pambizo (#1)">
 <!ENTITY marginUnits.inches  "inchi">
@@ -43,9 +43,9 @@
 <!ENTITY hfLeft.label        "Kushoto:">
 <!ENTITY hfCenter.label      "Kati:">
 <!ENTITY hfRight.label       "Kulia:">
-<!ENTITY headerLeft.tip      "Kichwa cha kushoto">
-<!ENTITY headerCenter.tip    "Kichwa cha kati">
-<!ENTITY headerRight.tip     "Kichwa cha kulia">
+<!ENTITY headerLeft.tip      "Kijajuu cha kushoto">
+<!ENTITY headerCenter.tip    "Kijajuu cha kati">
+<!ENTITY headerRight.tip     "Kijajuu cha kulia">
 <!ENTITY footerLeft.tip      "Kijachini cha kushoto">
 <!ENTITY footerCenter.tip    "Kijachini cha kati">
 <!ENTITY footerRight.tip     "Kijachini cha kulia">
@@ -56,7 +56,7 @@
 <!ENTITY hfPage              "Ukurasa #">
 <!ENTITY hfPageAndTotal      "Ukurasa # wa #">
 <!ENTITY hfBlank             "--tupu--">
-<!ENTITY hfCustom            "Maalum...">
+<!ENTITY hfCustom            "Maalum…">
 
-<!ENTITY customPrompt.title  "Maalum...">
-<!ENTITY customPrompt.prompt "Ingiza matini yako maalum ya kichwa/kijachini">
+<!ENTITY customPrompt.title  "Maalum…">
+<!ENTITY customPrompt.prompt "Ingiza matini yako maalum ya kijajuu/kijachini">

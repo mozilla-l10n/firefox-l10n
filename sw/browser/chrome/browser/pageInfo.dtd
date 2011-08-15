@@ -75,7 +75,7 @@
 <!ENTITY  mediaDimension        "Vipimo:">
 <!ENTITY  mediaLongdesc         "Maelezo Marefu:">
 <!ENTITY  mediaBlockImage.accesskey "B">
-<!ENTITY  mediaSaveAs           "Hifadhi Kama...">
+<!ENTITY  mediaSaveAs           "Hifadhi Kama…">
 <!ENTITY  mediaSaveAs.accesskey "A">
 <!ENTITY  mediaSaveAs2.accesskey "e">
 <!ENTITY  mediaPreview          "Kihakiki Midia:">
@@ -113,7 +113,7 @@
 
 <!ENTITY  securityView.identity.header   "Utambulisho wa Wavuti">
 <!ENTITY  securityView.identity.owner    "Mmiliki:">
-<!ENTITY  securityView.identity.domain   "Wavuti">
+<!ENTITY  securityView.identity.domain   "Wavuti:">
 <!ENTITY  securityView.identity.verifier "Umedhibitishwa na:">
 
 <!ENTITY  securityView.privacy.header                   "Faragha &amp; Historia">

@@ -1,7 +1,7 @@
 <!-- extracted from content/openLocation.xul -->
 
 <!ENTITY enter.label "Ingiza mahali pa tovuti (URL), au ainisha faili ya kienyeji ambayo ungependa kufungua:">  
-<!ENTITY chooseFile.label "Chagua Faili...">
+<!ENTITY chooseFile.label "Chagua Faili…">
 <!ENTITY newTab.label "Kichupo Kipya">
 <!ENTITY newWindow.label "Dirisha Mpya">
 <!ENTITY topTab.label "Kichupo cha Sasa">

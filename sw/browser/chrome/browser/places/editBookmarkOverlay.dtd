@@ -4,7 +4,7 @@
 <!ENTITY editBookmarkOverlay.location.accesskey              "M">
 <!ENTITY editBookmarkOverlay.feedLocation.label              "Kilishi cha Mahali:">
 <!ENTITY editBookmarkOverlay.feedLocation.accesskey          "K">
-<!ENTITY editBookmarkOverlay.siteLocation.label              "Mahali pa Tovuti">
+<!ENTITY editBookmarkOverlay.siteLocation.label              "Mahali pa Tovuti:">
 <!ENTITY editBookmarkOverlay.siteLocation.accesskey          "M">
 <!ENTITY editBookmarkOverlay.folder.label                    "Kabrasha:">
 <!ENTITY editBookmarkOverlay.foldersExpanderDown.tooltip     "Onyesha kabrasha zote za alamisho">
@@ -19,6 +19,6 @@
 <!ENTITY editBookmarkOverlay.tagsExpanderDown.tooltip        "Onyesha lebo zote">
 <!ENTITY editBookmarkOverlay.loadInSidebar.label             "Pakia alamisho hili katika mwambaa upande">
 <!ENTITY editBookmarkOverlay.loadInSidebar.accesskey         "m">
-<!ENTITY editBookmarkOverlay.choose.label                    "Chagua...">
+<!ENTITY editBookmarkOverlay.choose.label                    "Chagua…">
 <!ENTITY editBookmarkOverlay.newFolderButton.label           "Kabrasha Mpya">
 <!ENTITY editBookmarkOverlay.newFolderButton.accesskey       "p">

@@ -33,10 +33,10 @@ can reach it easily. -->
 <!ENTITY  moveToNewGroup.label               "Kikundi Kipya">
 <!ENTITY  moveToNewWindow.label              "Hamisha kwa Dirisha Mpya">
 <!ENTITY  moveToNewWindow.accesskey          "M">
-<!ENTITY  bookmarkAllTabs.label              "Alamisha Vichupo Vyote...">
+<!ENTITY  bookmarkAllTabs.label              "Alamisha Vichupo Vyote…">
 <!ENTITY  bookmarkAllTabs.accesskey          "V">
-<!ENTITY  undoCloseTab.label                 "fanyua Funga Kichupo">
-<!ENTITY  undoCloseTab.accesskey             "f">
+<!ENTITY  undoCloseTab.label                 "Fanyua Funga Kichupo">
+<!ENTITY  undoCloseTab.accesskey             "F">
 <!ENTITY  closeTab.label                     "Funga Kichupo">
 <!ENTITY  closeTab.accesskey                 "F">
 
@@ -45,16 +45,16 @@ can reach it easily. -->
 <!ENTITY tabCmd.label "Kichupo Kipya">
 <!ENTITY tabCmd.accesskey "K">
 <!ENTITY tabCmd.commandkey "t">
-<!ENTITY openLocationCmd.label "Fungua Mahali...">
+<!ENTITY openLocationCmd.label "Fungua Mahali…">
 <!ENTITY openLocationCmd.accesskey "M">
-<!ENTITY openFileCmd.label "Fungua Faili...">
+<!ENTITY openFileCmd.label "Fungua Faili…">
 <!ENTITY openFileCmd.accesskey "F">
 <!ENTITY openFileCmd.commandkey "o">
-<!ENTITY printSetupCmd.label "Sanidi Ukurasaa...">
+<!ENTITY printSetupCmd.label "Sanidi Ukurasa…">
 <!ENTITY printSetupCmd.accesskey "k">
 <!ENTITY printPreviewCmd.label "Kihakiki Chapa">
 <!ENTITY printPreviewCmd.accesskey "p">
-<!ENTITY printCmd.label "Chapa...">
+<!ENTITY printCmd.label "Chapisha…">
 <!ENTITY printCmd.accesskey "C">
 <!ENTITY printCmd.commandkey "p">
 
@@ -67,7 +67,7 @@ can reach it easily. -->
 <!ENTITY navbarCmd.accesskey "M">
 <!ENTITY personalbarCmd.label "Mwamba zana wa Alamisho">
 <!ENTITY personalbarCmd.accesskey "M">
-<!ENTITY bookmarksToolbarItem.label "Vifaa vya Mwamba zana wa Alamisho">
+<!ENTITY bookmarksToolbarItem.label "Vipengee vya Mwamba zana wa Alamisho">
 <!ENTITY addonBarCmd.label "Upau wa Kifaa cha nyongeza">
 <!ENTITY addonBarCmd.accesskey "U">
 
@@ -86,7 +86,7 @@ can reach it easily. -->
 <!ENTITY fullScreenMinimize.tooltip "Punguza">
 <!ENTITY fullScreenRestore.tooltip "Rejesha">
 <!ENTITY fullScreenClose.tooltip "Funga">
-<!ENTITY fullScreenAutohide.label "Funga Mwamba zana ">
+<!ENTITY fullScreenAutohide.label "Funga Mwamba zana">
 <!ENTITY fullScreenAutohide.accesskey "F">
 <!ENTITY fullScreenExit.label "Aga Hali tumizi ya Skrini Nzima">
 <!ENTITY fullScreenExit.accesskey "H">
@@ -99,10 +99,10 @@ can reach it easily. -->
 <!ENTITY bookmarkThisPageCmd.label "Alamisha Ukurasa Huu">
 <!ENTITY bookmarkThisPageCmd.commandkey "d">
 <!ENTITY subscribeToPageMenupopup.label "Jiunge na Ukurasa Huu">
-<!ENTITY subscribeToPageMenuitem.label "Jiunge kwa Ukurasa Huu...">
-<!ENTITY addCurPagesCmd.label "Alamisha Vichupo Vyote...">
+<!ENTITY subscribeToPageMenuitem.label "Jisajili katika Ukurasa Huu…">
+<!ENTITY addCurPagesCmd.label "Alamisha Vichupo Vyote…">
 <!ENTITY showAllBookmarks2.label "Onyesha Alamisho Zote">
-<!ENTITY unsortedBookmarksCmd.label " Alamisho Zisizopangwa">
+<!ENTITY unsortedBookmarksCmd.label "Alamisho Zisizopangwa">
 <!ENTITY bookmarksToolbarChevron.tooltip "Onyesha alamisho zaidi">
 
 <!ENTITY backCmd.label                "Nyuma">
@@ -137,7 +137,7 @@ can reach it easily. -->
 <!ENTITY tabGroupsButton.tooltip      "Kundisha vichupo vyako">
 
 <!ENTITY feedButton.label             "Andikisha">
-<!ENTITY feedButton.tooltip           "Jiunge na ukurasa huu...">
+<!ENTITY feedButton.tooltip           "Jisajili kwa ukurasa huu…">
 
 <!ENTITY bookmarksButton.label          "Alamisho">
 <!ENTITY bookmarksButton.tooltip        "Onyesha alamisho zako">
@@ -146,9 +146,9 @@ can reach it easily. -->
 
 <!ENTITY bookmarksMenuButton.label          "Alamisho">
 <!ENTITY bookmarksMenuButton.tooltip        "Onyesha alamisho zako">
-<!ENTITY bookmarksMenuButton.unsorted.label " Alamisho Zisizopangwa">
+<!ENTITY bookmarksMenuButton.unsorted.label "Alamisho Zisizopangwa">
 <!ENTITY viewBookmarksSidebar.label         "Onyesha Mwambaa Upande">
-<!ENTITY viewBookmarksToolbar.label         "Tazama Mwambaa zana  wa Alamisho">
+<!ENTITY viewBookmarksToolbar.label         "Tazama Mwambaa zana wa Alamisho">
 <!-- LOCALIZATION NOTE (bookmarksSidebarGtkCmd.commandkey): This command
   -  key should not contain the letters A-F, since these are reserved
   -  shortcut keys on Linux. -->
@@ -164,7 +164,7 @@ can reach it easily. -->
 <!ENTITY toolsMenu.label              "Zana">
 <!ENTITY toolsMenu.accesskey          "Z"> 
 
-<!ENTITY keywordfield.label           "Ongeza Neno Msingi la Tafutizo hili...">
+<!ENTITY keywordfield.label           "Ongeza Neno Msingi la Tafutizo hili…">
 <!ENTITY keywordfield.accesskey       "N">
 <!ENTITY search.label                 "Wavuti Tafutizo">
 <!ENTITY search.accesskey             "T">
@@ -190,7 +190,7 @@ can reach it easily. -->
 
 <!ENTITY inspectMenu.label            "Kagua">
 <!ENTITY inspectMenu.accesskey        "a">
-<!ENTITY inspectMenu.commandkey       "l">
+<!ENTITY inspectMenu.commandkey       "I">
 <!-- LOCALIZATION NOTE (scratchpad.label): This menu item label appears
   -  in the Tools menu. See bug 653093.
   -  The Scratchpad is intended to provide a simple text editor for creating
@@ -248,7 +248,7 @@ can reach it easily. -->
 <!ENTITY preferencesCmdUnix.label       "Mapendeleo">
 <!ENTITY preferencesCmdUnix.accesskey     "l"> 
 
-<!ENTITY clearRecentHistory.label               "Futa Historia ya Hivi karibuni...">
+<!ENTITY clearRecentHistory.label               "Futa Historia ya Hivi karibuni…">
 <!ENTITY clearRecentHistory.accesskey           "H">
 <!-- LOCALIZATION NOTE : These two strings can share an access key beause they never appear together on the menu -->
 
@@ -266,7 +266,7 @@ can reach it easily. -->
 <!ENTITY viewToolbarsMenu.accesskey     "M"> 
 <!ENTITY viewSidebarMenu.label "Mwambaa upande">
 <!ENTITY viewSidebarMenu.accesskey "u">
-<!ENTITY viewCustomizeToolbar.label       "Geuza kukufaa..."> 
+<!ENTITY viewCustomizeToolbar.label       "Geuza kukufaa…"> 
 <!ENTITY viewCustomizeToolbar.accesskey     "G">
 <!ENTITY viewTabsOnTop.label            "Vichupo vilivyo Juu">
 <!ENTITY viewTabsOnTop.accesskey        "V">
@@ -284,13 +284,13 @@ can reach it easily. -->
 
 <!ENTITY appMenuEdit.label "Hariri">
 <!ENTITY appMenuCustomize.label "Geuza kukufaa">
-<!ENTITY appMenuToolbarLayout.label "Mpangilio wa Mwambaa Zana...">
-<!ENTITY appMenuSidebars.label "Mwambaa Upande">
-<!ENTITY appMenuFind.label "Tafuta...">
+<!ENTITY appMenuToolbarLayout.label "Mpangilio wa Mwambaa Zana…">
+<!ENTITY appMenuSidebars.label "Mwambaa upande">
+<!ENTITY appMenuFind.label "Tafuta…">
 <!ENTITY appMenuUnsorted.label "Alamisho Zisizopangwa">
 <!ENTITY appMenuWebDeveloper.label "Mwendelezaji Wavuti">
 <!ENTITY appMenuGettingStarted.label "Kuanza">
-<!ENTITY appMenuSafeMode.label "Anza tena na Vifaa vya nyongeza Vikilemazwa...">
+<!ENTITY appMenuSafeMode.label "Anza tena na Vifaa vya nyongeza Vilivyolemazwa…">
 <!ENTITY appMenuSafeMode.accesskey "A">
 
 <!ENTITY openCmd.commandkey           "l">
@@ -360,7 +360,7 @@ can reach it easily. -->
 <!ENTITY viewVideoCmd.accesskey       "n">
 <!ENTITY viewBGImageCmd.label         "Angalia Picha ya Mandharinyuma">
 <!ENTITY viewBGImageCmd.accesskey     "l">
-<!ENTITY setDesktopBackgroundCmd.label      "Seti Kama Mandharinyuma ya Eneo kazi...">
+<!ENTITY setDesktopBackgroundCmd.label      "Seti Kama Mandharinyuma ya Eneo kazi…">
 <!ENTITY setDesktopBackgroundCmd.accesskey  "S">
 <!ENTITY bookmarkPageCmd2.label       "Alamisha Ukurasa Huu">
 <!ENTITY bookmarkPageCmd2.accesskey   "m">
@@ -368,42 +368,42 @@ can reach it easily. -->
 <!ENTITY bookmarkThisLinkCmd.accesskey  "H">
 <!ENTITY bookmarkThisFrameCmd.label      "Alamisha Fremu Hii">
 <!ENTITY bookmarkThisFrameCmd.accesskey  "i">
-<!ENTITY sendPageCmd.label            "Tuma Kiungo...">
-<!ENTITY sendPageCmd.accesskey        "m">
-<!ENTITY savePageCmd.label            "Hifadhi Ukurasa Kama...">
+<!ENTITY sendPageCmd.label            "Tuma Kiungo…">
+<!ENTITY sendPageCmd.accesskey        "u">
+<!ENTITY savePageCmd.label            "Hifadhi Ukurasa Kama…">
 <!ENTITY savePageCmd.accesskey        "K">
 <!-- alternate for content area context menu -->
 <!ENTITY savePageCmd.accesskey2       "P">
 <!ENTITY savePageCmd.commandkey       "s">
-<!ENTITY saveFrameCmd.label           "Hifadhi Fremu Kama...">
+<!ENTITY saveFrameCmd.label           "Hifadhi Fremu Kama…">
 <!ENTITY saveFrameCmd.accesskey       "F">
-<!ENTITY printFrameCmd.label          "Chapisha Fremu...">
+<!ENTITY printFrameCmd.label          "Chapisha Fremu…">
 <!ENTITY printFrameCmd.accesskey      "C">
-<!ENTITY saveLinkCmd.label            "Hifadhi Kiungo Kama...">
+<!ENTITY saveLinkCmd.label            "Hifadhi Kiungo Kama…">
 <!ENTITY saveLinkCmd.accesskey        "n">
-<!ENTITY sendLinkCmd.label            "Tuma Kiungo..."> 
+<!ENTITY sendLinkCmd.label            "Tuma Kiungo…"> 
 <!ENTITY sendLinkCmd.accesskey        "m">
-<!ENTITY saveImageCmd.label           "Hifadhi Picha Kama...">
+<!ENTITY saveImageCmd.label           "Hifadhi Taswira Kama…">
 <!ENTITY saveImageCmd.accesskey       "d">
-<!ENTITY saveVideoCmd.label           "Hifadhi Video Kama...">
+<!ENTITY saveVideoCmd.label           "Hifadhi Video Kama…">
 <!ENTITY saveVideoCmd.accesskey       "V">
-<!ENTITY saveAudioCmd.label           "Hifadhi Sikizi Kama...">
+<!ENTITY saveAudioCmd.label           "Hifadhi Sauti Kama…">
 <!ENTITY saveAudioCmd.accesskey       "d">
-<!ENTITY sendImageCmd.label           "Tuma Picha...">
+<!ENTITY sendImageCmd.label           "Tuma Taswira…">
 <!ENTITY sendImageCmd.accesskey       "m">
-<!ENTITY sendVideoCmd.label           "Tuma Video...">
+<!ENTITY sendVideoCmd.label           "Tuma Video…">
 <!ENTITY sendVideoCmd.accesskey       "m">
-<!ENTITY sendAudioCmd.label           "Tuma Sikizi...">
+<!ENTITY sendAudioCmd.label           "Tuma Sauti…">
 <!ENTITY sendAudioCmd.accesskey       "m">
 <!ENTITY copyLinkCmd.label            "Nakili Mahali pa Kiungo">
 <!ENTITY copyLinkCmd.accesskey        "u">
-<!ENTITY copyImageCmd.label           "Nakili Mahali pa Picha">
+<!ENTITY copyImageCmd.label           "Nakili Mahali pa Taswira">
 <!ENTITY copyImageCmd.accesskey       "k">
-<!ENTITY copyImageContentsCmd.label   "Nakili Picha">
+<!ENTITY copyImageContentsCmd.label   "Nakili Taswira">
 <!ENTITY copyImageContentsCmd.accesskey  "l"> 
 <!ENTITY copyVideoURLCmd.label        "Nakili Mahali pa Video">
 <!ENTITY copyVideoURLCmd.accesskey    "k">
-<!ENTITY copyAudioURLCmd.label        "Nakili Mahali pa Sikizi">
+<!ENTITY copyAudioURLCmd.label        "Nakili Mahali pa Sauti">
 <!ENTITY copyAudioURLCmd.accesskey    "k">
 <!ENTITY copyEmailCmd.label           "Nakili Anwani ya Baruapepe">
 <!ENTITY copyEmailCmd.accesskey       "A">
@@ -419,9 +419,9 @@ can reach it easily. -->
 <!ENTITY mediaMute.accesskey         "N">
 <!ENTITY mediaUnmute.label           "Nyamazishua">
 <!ENTITY mediaUnmute.accesskey       "z">
-<!ENTITY mediaShowControls.label     "Onyesha Vithibiti">
+<!ENTITY mediaShowControls.label     "Onyesha Vidhibiti">
 <!ENTITY mediaShowControls.accesskey "V">
-<!ENTITY mediaHideControls.label     "Ficha Vithibiti">
+<!ENTITY mediaHideControls.label     "Ficha Vidhibiti">
 <!ENTITY mediaHideControls.accesskey "V">
 <!ENTITY videoFullScreen.label       "Skrini Nzima">
 <!ENTITY videoFullScreen.accesskey   "S">
@@ -465,9 +465,9 @@ you can use these alternative items. Otherwise, their values should be empty.  -
 
 <!ENTITY fullScreenButton.tooltip       "Onyesha dirisha katika skrini nzima">
 
-<!ENTITY zoomOutButton.tooltip          "Fifiza">
-<!ENTITY zoomInButton.tooltip           "Kuza zaidi">
-<!ENTITY zoomControls.label             "Vithibiti vya Kukuza">
+<!ENTITY zoomOutButton.tooltip          "Kuza nje">
+<!ENTITY zoomInButton.tooltip           "Kuza ndani">
+<!ENTITY zoomControls.label             "Vidhibiti vya Kukuza">
 
 <!ENTITY quitApplicationCmdWin.label       "Aga"> 
 <!ENTITY quitApplicationCmdWin.accesskey   "g">
@@ -484,7 +484,7 @@ you can use these alternative items. Otherwise, their values should be empty.  -
 
 <!ENTITY pageStyleMenu.label "Ukurasa Mtindo">
 <!ENTITY pageStyleMenu.accesskey "n">
-<!ENTITY pageStyleNoStyle.label "Hakuna  Mtindo">
+<!ENTITY pageStyleNoStyle.label "Hakuna Mtindo">
 <!ENTITY pageStyleNoStyle.accesskey "H">
 <!ENTITY pageStylePersistentOnly.label "Mtindo wa Kimsingi wa Ukurasa">
 <!ENTITY pageStylePersistentOnly.accesskey "M">
@@ -495,8 +495,8 @@ you can use these alternative items. Otherwise, their values should be empty.  -
 <!-- On Windows we use the term "Options" to describe settings, but
      on Linux and Mac OS X we use "Preferences" - carry that distinction
      over into this string, which is used in the "popup blocked" info bar . -->
-<!ENTITY editPopupSettingsUnix.label "Hariri Mapendeleo ya Uzuizi wa Uibukizi...">
-<!ENTITY editPopupSettings.label "Hariri Chaguo za Uzuizi wa Uibukizi...">
+<!ENTITY editPopupSettingsUnix.label "Hariri Mapendeleo ya Kizuizi cha Ibukizi…">
+<!ENTITY editPopupSettings.label "Hariri Chaguo za Kizuizi cha Ibukizi…">
 <!ENTITY editPopupSettings.accesskey "H">
 <!ENTITY dontShowMessage.accesskey "D">
 
@@ -506,7 +506,7 @@ you can use these alternative items. Otherwise, their values should be empty.  -
 <!ENTITY bidiSwitchTextDirectionItem.accesskey    "d">
 <!ENTITY bidiSwitchTextDirectionItem.commandkey   "X">
 
-<!ENTITY findOnCmd.label     "Tafuta katika Ukurasa Huu...">
+<!ENTITY findOnCmd.label     "Tafuta kwenye Ukurasa Huu…">
 <!ENTITY findOnCmd.accesskey "T">
 <!ENTITY findOnCmd.commandkey "f">
 <!ENTITY findAgainCmd.label  "Tafuta Tena">
@@ -514,7 +514,7 @@ you can use these alternative items. Otherwise, their values should be empty.  -
 <!ENTITY findAgainCmd.commandkey "g">
 <!ENTITY findAgainCmd.commandkey2 "VK_F3">
 
-<!ENTITY spellAddDictionaries.label "Ongeza Mipangilio Orodha...">
+<!ENTITY spellAddDictionaries.label "Ongeza Kamusi…">
 <!ENTITY spellAddDictionaries.accesskey "O">
 
 <!ENTITY editBookmark.done.label                     "Imekamilika">
@@ -536,7 +536,7 @@ with that structure, consider a translation which ignores the preceding domain a
 just addresses the organization to follow, e.g. "This site is run by " -->
 <!ENTITY identity.runBy "ambayo inaendeshwa na">
 
-<!ENTITY identity.moreInfoLinkText "Maelezo Zaidi...">
+<!ENTITY identity.moreInfoLinkText "Maelezo Zaidi…">
 
 <!ENTITY downloadMonitor2.tooltip "Bofya kufungua dirisha ya kupakia">
 
@@ -550,11 +550,11 @@ just addresses the organization to follow, e.g. "This site is run by " -->
 
 <!ENTITY syncBrand.shortName.label    "Ulandanishi">
 
-<!ENTITY syncSetup.label              "Sanidi &syncBrand.shortName.label;...">
+<!ENTITY syncSetup.label              "Sanidi &syncBrand.shortName.label;…">
 <!ENTITY syncSetup.accesskey          "Y">
-<!ENTITY syncSyncNowItem.label        "Landanisha Sasa">
-<!ENTITY syncSyncNowItem.accesskey    "L">
-<!ENTITY syncToolbarButton.label      "Landanisha">
+<!ENTITY syncSyncNowItem.label        "Sync Sasa">
+<!ENTITY syncSyncNowItem.accesskey    "S">
+<!ENTITY syncToolbarButton.label      "Sync">
 
-<!ENTITY addonBarCloseButton.tooltip  "Funga Upau wa Vifaa vya nyongeza">
+<!ENTITY addonBarCloseButton.tooltip  "Funga Mwambaa wa Vifaa-nyongeza">
 <!ENTITY toggleAddonBarCmd.key        "/">

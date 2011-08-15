@@ -7,10 +7,10 @@
 <!ENTITY connectionFailure.longDesc "<p>Ingawa wavuti yaonekana kuwa sahihi, kivinjari kimeshindwa kuanzisha muungano.</p><ul><li>Huenda tovuti haipatikani kwa muda? Jaribu tena baadaye.</li><li>Umeshindwa kuvinjari wavuti zingine?  Kagua muungano wa mtandao wa tarakilishi.</li><li>Tarakilishi au mtandao wako umelindwa na ngome au mbadala? Mipangilio isiyo sahihi yaweza kuingilia kuvinjari Wavuti.</li></ul>">
 
 <!ENTITY deniedPortAccess.title "Kituo Kimzuiliwa kwa Sababu za Usalama">
-<!ENTITY deniedPortAccess.longDesc "<p>Anwani iliyoombwa imeainisha poti (k.m.<q>mozilla.org:80</q> kwa poti 80 kwa mozilla.org) kwa kawaida hutumiwa kwa madhumuni <em>mengine</em>isipokuwa kuvinjari Wavuti. Kivinjari kimekatiza ombi lako la ulinzi na usalama.</p>">
+<!ENTITY deniedPortAccess.longDesc "<p>Anwani iliyoombwa imeainisha poti (k.m. <q>mozilla.org:80</q> kwa poti 80 kwa mozilla.org) kwa kawaida hutumiwa kwa madhumuni <em>mengine</em> isipokuwa kuvinjari Wavuti. Kivinjari kimekatiza ombi lako la ulinzi na usalama.</p>">
 
 <!ENTITY dnsNotFound.title "Anwani Haikupatikana">
-<!ENTITY dnsNotFound.longDesc "<p>Kivinjari hakingepata sava ya anwani iliyotolewa.</p><ul><li>Ulifanya makosa wakati wa kuchapa kikoa? (k.m. <q><strong>ww</strong> .mozilla.org</q> badala ya <q><strong>www</strong>.mozilla.org</q>)</li><li>Una uhakika kuwa anwani hii ya kiko ipo?  Wakati wake wa uandikishaji wake huenda umekwisha.</li><li>Umeshindwa kuvinjari wavuti zingine?  Kagua muungano wa mtandao na mipangilio ya sava ya DNS.</li><li>Tarakilishi au mtandao wako umelindwa na ngome au mbadala?  Mipangilio isiyo sahahi yaweza kuingilia uvinjari wa Wavuti.</li></ul>">
+<!ENTITY dnsNotFound.longDesc "<p>Kivinjari hakingepata sava ya anwani iliyotolewa.</p><ul><li>Ulifanya makosa wakati wa kuchapa kikoa? (k.m. <q><strong>ww</strong> .mozilla.org</q> badala ya <q><strong>www</strong>.mozilla.org</q>)</li><li>Una uhakika kuwa anwani hii ya kiko ipo?  Wakati wake wa uandikishaji wake huenda umekwisha.</li><li>Umeshindwa kuvinjari wavuti zingine?   Kagua muungano wa mtandao na mipangilio ya sava ya DNS.</li><li>Tarakilishi au mtandao wako umelindwa na ngome au mbadala?   Mipangilio isiyo sahahi yaweza kuingilia uvinjari wa Wavuti.</li></ul>">
 
 <!ENTITY fileNotFound.title "Faili Haiptikani">
 <!ENTITY fileNotFound.longDesc "<ul><li>Huenda kipengee kimepewa jina jipya, kimeondolewa, au kimehamishwa?</li><li>Kuna kosa la uendelezo, matumizi ya herufi kubwa, au makosa mengine ya uchapaji katika anwani?</li><li>Una ruhusa za ufikivu za kutosha kwa vipengee vilivyoombwa?</li></ul>">
@@ -22,10 +22,10 @@
 <!ENTITY malformedURI.longDesc "<p>Anwani iliyotolewa hijawekwa kwa fomati inayotambulika. Tafadhali kagua upao wa mahali kuangalia makosa na ujaribu tena.</p>">
 
 <!ENTITY netInterrupt.title "Uhamishaji wa Data Umekatizwa">
-<!ENTITY netInterrupt.longDesc "<p>Kivinjari kimefaulu kuunganishwa, lakini muungano umesitishwa wakati wa kuhamisha maelezo.  Tafadhali jaribu tena.</p><ul><li>Je,umeshindwa kuvinjari tovuti zingine?  Kagua muungano wa mtandao wa tarakilishi yako.</li><li>Bado unapata shida? Wasiliana na msimamizi wa mtandao au mtoaji Mtandao kwa usaidizi.</li></ul>">
+<!ENTITY netInterrupt.longDesc "<p>Kivinjari kimefaulu kuunganishwa, lakini muungano umesitishwa wakati wa kuhamisha maelezo.  Tafadhali jaribu tena.</p><ul><li>Je,umeshindwa kuvinjari tovuti zingine? Kagua muungano wa mtandao wa tarakilishi yako.</li><li>Bado unapata shida? Wasiliana na msimamizi wa mtandao au mtoaji Mtandao kwa usaidizi.</li></ul>">
 
 <!ENTITY netOffline.title "Hali tumizi ya Nje ya Mtandao">
-<!ENTITY netOffline.longDesc2 "<p>The browser is operating in its offline mode and cannot connect to the requested item.</p><ul><li>Is the computer connected to an active network?</li><li>Press &quot;Try Again&quot; to switch to online mode and reload the page.</li></ul>">
+<!ENTITY netOffline.longDesc2 "<p>Kivinjari kinafanya kazi nje ya mtandao na hakiwezi kuunganishwa kwa kipengee kilichoombwa.</p><ul><li>Tarakilishi imeunganishwa kwa mtandao amilifu?</li><li>Bonyeza &quot; Jaribu tena &quot; ili kuwasha modi ya mtandao na kupakia ukurasa.</li></ul>">
 
 <!ENTITY contentEncodingError.title "Kosa la Usimbaji Maudhui">
 <!ENTITY contentEncodingError.longDesc "<p>Ukurasa unaojaribu kuangalia hauwezi kuonyeswha kwa sababu unatumia mfanyizo batili au usioauniwa.</p><ul><li>Tafadhali wasiliana na wamiliki wa wavuti kuwajulisha kuhusu shida hii.</li></ul>">
@@ -42,7 +42,7 @@
 <!ENTITY netTimeout.longDesc "<p>Tovuti iliyoombwa haikuitikia ombi la muungano na kivinjari kimesimama kikisubiri majibu.</p><ul><li>Huenda sava inakabililana na matakwa ya juu au ukosefu wa nguvu za umeme kwa muda?  Jaribu tena baadaye.</li><li>Unashindwa kuvinjari tovuti zingine? Kagua muungano wa mtandao wa tarakilishi yako.</li><li>Tarakilishi au mtandao wako unalindwa na ngome au mbadala?  Mipangilio isiyo sahihi inaingilia uvinjari wako wa Wavuti.</li><li>Bado una shida? Wasiliana naye msimamizi wa mtandao au mtoaji mtandao kwa usaidizo.</li></ul>">
 
 <!ENTITY protocolNotFound.title "Itifaki Isiyotambulika">
-<!ENTITY protocolNotFound.longDesc "<p>Anwani inaainisha itifaki (k.m. <q>wxyz://</q>) kivinjari hakitambui, kwa hivyo kivinjari hakiwezi kuungana vema kwenye tovuti.</p><ul><li>Unajaribu kupata ufikivu wa midia-anuwai au huduma zingine zisizo za matini? Kagua wavuti kwa mahitaji ya ziada.</li><li>Itifaki zingine zaweza kuhitaji programu za nafsi ya tatu au  programu jalizi kabla ya kivinjari kuvitambua.</li></ul>">
+<!ENTITY protocolNotFound.longDesc "<p>Anwani inaainisha itifaki (k.m.<q>wxyz://</q>) kivinjari hakitambui, kwa hivyo kivinjari hakiwezi kuungana vema kwenye tovuti.</p><ul><li>Unajaribu kupata ufikivu wa midia-anuwai au huduma zingine zisizo za matini? Kagua wavuti kwa mahitaji ya ziada.</li><li>Itifaki zingine zaweza kuhitaji programu za nafsi ya tatu au programu jalizi kabla ya kivinjari kuvitambua.</li></ul>">
 
 <!ENTITY proxyConnectFailure.title "Sava ya Mbadala Imekataa Muungano">
 <!ENTITY proxyConnectFailure.longDesc "<p>Kivinjari kimesanidiwa kutumia sava mbadala, lakini mbadala umekataa muungano.</p><ul><li>Je, usanidi wa kivinjari mbadala ni sahihi? Kagua mipangilio na ujaribu tena.</li><li>Huduma ya mbadala inaruhusu muungano kutoka kwa mtandao huu?</li><li>Bado una shida? Wasiliana na msimamizi wa mtandao au mtoaji mtandao kwa usaidizi.</li></ul>">
@@ -51,7 +51,7 @@
 <!ENTITY proxyResolveFailure.longDesc "<p>Kivinjari kimesanidiwa kutumia sava mbadala, lakini mbadala haupatikani.</p><ul><li>Je, usanidi wa kivinjari mbadala ni sahihi? Kagua mipangilio na ujaribu tena.</li><li>Tarakilishi imeunganishwa kwa mtandao amilifu?</li><li>Bado una shida? Wasiliana na msimamizi wa mtandao au mtoaji mtandao kwa usaidizi.</li></ul>">
 
 <!ENTITY redirectLoop.title "Elekeza tena Kitanzi">
-<!ENTITY redirectLoop.longDesc "<p>Kivinjari kimekoma kujaribu kurejesha kipengee kilichoombwa. Tovuti inaelekeza tena kwa njia ambayo haitakamilisha.</p><ul><li>Umelemaza au kuzuia vidakuzi vinavyohitajika kwa tovuti hii?</li><li><em>ZINGATIA</em>:Kama kukubali vidakuzi vya tovuti hakusuluhishi tatizo, huenda kuwa shida ni usanidi wa sava na sio tarakilishi.</li></ul>">
+<!ENTITY redirectLoop.longDesc "<p>Kivinjari kimekoma kujaribu kurejesha kipengee kilichoombwa. Tovuti inaelekeza tena kwa njia ambayo haitakamilisha.</p><ul><li>Umelemaza au kuzuia vidakuzi vinavyohitajika kwa tovuti hii?</li><li><em>ZINGATIA</em>: Kama kukubali vidakuzi vya tovuti hakusuluhishi tatizo, huenda kuwa shida ni usanidi wa sava na sio tarakilishi.</li></ul>">
 
 <!ENTITY unknownSocketType.title "Mwitikio Usiosahihi">
 <!ENTITY unknownSocketType.longDesc "<p>Tovuti iliitikia ombi la mtandao katika njia ambayo haikutarajiwa na kivinjari hakiwezi kuendelea.</p>">

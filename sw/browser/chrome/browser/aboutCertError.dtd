@@ -15,7 +15,7 @@ was trying to connect. -->
 kwa usalama kwa <b>#1</b>, lakini hatuwezi kuthibitisha kuwa muungao wako ni salama.">
 <!ENTITY certerror.introPara2 "Kwa kawaida, wakati unajaribu kuunganisha kwa usalama, 
 wavuti zitatoa kitambulisho kuonyesha kuwa 
-unaenda mahali kunakofaa.  Hata hivyo, kitambulisho cha tovuti hakiwezi kudhibitishwa.">
+unaenda mahali kunakofaa. Hata hivyo, kitambulisho cha tovuti hakiwezi kudhibitishwa.">
 
 <!ENTITY certerror.whatShouldIDo.heading "Ninafaa Kufanya Nini?">
 <!ENTITY certerror.whatShouldIDo.content "Kama umezoea kuunganisha kwa 
@@ -30,6 +30,6 @@ waweza kuambia &brandShortName; kuanza kuamini kitambulisho cha tovuti hii.
 anaingilia muungano wako.</b>">
 <!ENTITY certerror.expert.contentPara2 "Usiongeze utengo isipokuwa tu 
 unajua kuna sababu nzuri ya tovuti hii kutotumia utambulisho unaoaminika.">
-<!ENTITY certerror.addException.label "Ongeza Utengo...">
+<!ENTITY certerror.addException.label "Ongeza Utengo…">
 
 <!ENTITY certerror.technical.heading "Maelezo ya Kiufundi">

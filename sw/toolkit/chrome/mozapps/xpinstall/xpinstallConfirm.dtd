@@ -1,7 +1,7 @@
 <!-- extracted from institems.xul -->
 
 <!ENTITY dialog.title            "Kusakinisha Programu">
-<!ENTITY dialog.style            "upana: 45em">
+<!ENTITY dialog.style            "width: 45em">
 <!ENTITY warningPrimary.label    "Sakinisha vifaa vya nyongeza pekee kutoka kwa waandishi unaowaamini.">
 <!ENTITY warningSecondary.label  "Programu haribifu zaweza kudhuru tarakilishi yako au kuvunja faragha yako.">
 

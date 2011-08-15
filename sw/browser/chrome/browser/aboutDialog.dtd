@@ -3,12 +3,12 @@
 <!ENTITY community.start2           "&brandShortName; imeundwa na ">
 <!-- LOCALIZATION NOTE (community.mozillaLink): This is a link title that links to http://www.mozilla.org/. -->
 <!ENTITY community.mozillaLink      "&vendorShortName;">
-<!ENTITY community.middle2          ", a">
+<!ENTITY community.middle2          ", a ">
 <!-- LOCALIZATION NOTE (community.creditsLink): This is a link title that links to about:credits. -->
 <!ENTITY community.creditsLink      "jamii ya ulimwengu">
-<!ENTITY community.end2             "inayofanya kazi kwa pamoja ili kufanya wavuti kuwa bora zaidi. Tunaamini kwamba wavuti inapaswa kuwa wazi, ya umma, na inayoweza kufikiwa na kila mtu bila vizuizi vyovyote.">
+<!ENTITY community.end2             " kufanya kazi kwa pamoja ili kufanya wavuti kuwa bora zaidi. Tunaamini kwamba wavuti inapaswa kuwa wazi, ya umma, na inayoweza kufikiwa na kila mtu bila vizuizi vyovyote.">
 
-<!ENTITY contribute.start           "Inakupendeza?">
+<!ENTITY contribute.start           "Inakupendeza? ">
 <!-- LOCALIZATION NOTE (contribute.getInvolvedLink): This is a link title that links to http://www.mozilla.org/contribute/. -->
 <!ENTITY contribute.getInvolvedLink "Husika!">
 <!ENTITY contribute.end             "">
@@ -23,9 +23,9 @@
 <!ENTITY bottomLinks.privacy        "Sera ya Faragha">
 <!-- LOCALIZATION NOTE (update.checkingForUpdates): try to make the localized text short (see bug 596813 for screenshots). -->
 
-<!ENTITY update.checkingForUpdates  "Inakagua visasisho...">
+<!ENTITY update.checkingForUpdates  "Inakagua visasisho…">
 <!-- LOCALIZATION NOTE (update.checkingAddonCompat): try to make the localized text short (see bug 596813 for screenshots). -->
-<!ENTITY update.checkingAddonCompat "Inakagua utangamano wa kifaa cha nyongeza...">
+<!ENTITY update.checkingAddonCompat "Inakagua utangamano wa kifaa cha nyongeza…">
 <!-- LOCALIZATION NOTE (update.noUpdatesFound): try to make the localized text short (see bug 596813 for screenshots). -->
 <!ENTITY update.noUpdatesFound      "&brandShortName; imesasishwa">
 <!-- LOCALIZATION NOTE (update.adminDisabled): try to make the localized text short (see bug 596813 for screenshots). -->
@@ -36,7 +36,7 @@
      the latest version of Firefox (e.g. http://www.firefox.com). As this is all in
      one line, try to make the localized text short (see bug 596813 for screenshots). -->
 
-<!ENTITY update.failed.start        "Imeshindwa kusasisha.">
+<!ENTITY update.failed.start        "Imeshindwa kusasisha. ">
 <!ENTITY update.failed.linkText     "Pakua toleo jipya">
 <!ENTITY update.failed.end          "">
 <!-- LOCALIZATION NOTE (update.manual.start,update.manual.end): update.manual.start and update.manual.end
@@ -44,7 +44,7 @@
      to download the latest version of Firefox (e.g. http://www.firefox.com). As this is all in one line,
      try to make the localized text short (see bug 596813 for screenshots). -->
 
-<!ENTITY update.manual.start        "Visasisho vinapatikana kwa">
+<!ENTITY update.manual.start        "Visasisho vinapatikana kwa ">
 <!ENTITY update.manual.end          "">
 <!-- LOCALIZATION NOTE (update.downloading.start,update.downloading.end): update.downloading.start and 
      update.downloading.end all go into one line, with the amount downloaded inserted in between. As this
@@ -58,5 +58,5 @@
      channel.description.end create one sentence, with the current channel label inserted in between.
      example: You are currently on the _Stable_ update channel. -->
 
-<!ENTITY channel.description.start  "Kwa sasa uko kwenye">
+<!ENTITY channel.description.start  "Kwa sasa uko kwenye ">
 <!ENTITY channel.description.end    " sasisha idhaa. ">

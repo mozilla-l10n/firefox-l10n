@@ -38,7 +38,7 @@
 <!ENTITY connection.label                "Muunganisho">
 
 <!ENTITY connectionDesc.label            "Sanidi jinsi &brandShortName; inaunganishwa kwenye Wavuti">
-<!ENTITY connectionSettings.label        "Mipangilio...">
+<!ENTITY connectionSettings.label        "Mipangilio…">
 <!ENTITY connectionSettings.accesskey    "i">
 
 <!ENTITY offlineStorage.label            "Uhifadhi Nje ya Mtandao">
@@ -59,7 +59,7 @@
 
 <!ENTITY updateTab.label                 "Sasaisha">
 
-<!ENTITY autoCheck.label                 "Angalia visasaisho kiotomatiki kwa;">
+<!ENTITY autoCheck.label                 "Angalia visasaisho kiotomatiki kwa:">
 <!ENTITY enableAppUpdate.label           "&brandShortName;">
 <!ENTITY enableAppUpdate.accesskey       "F">
 <!ENTITY enableAddonsUpdate2.label       "Vifaa vya nyongeza">
@@ -78,12 +78,12 @@
 
 <!ENTITY offlineNotify.label             "Niambie wakati wavuti inauliza kuhifadhi data kwa matumizi ya nje ya mtandao">
 <!ENTITY offlineNotify.accesskey         "N">
-<!ENTITY offlineNotifyExceptions.label   "Mambo ya pekee..">
+<!ENTITY offlineNotifyExceptions.label   "Mambo ya pekee…">
 <!ENTITY offlineNotifyExceptions.accesskey "m">
 
 <!ENTITY offlineAppsList.label           "Wavuti zifuatazo zimehifadhi data ya matumizi ya nje ya mtandao:">
 <!ENTITY offlineAppsList.height          "7em">
-<!ENTITY offlineAppsListRemove.label     "Ondoa">
+<!ENTITY offlineAppsListRemove.label     "Ondoa…">
 <!ENTITY offlineAppsListRemove.accesskey "O">
 <!ENTITY offlineAppRemove.confirm        "Ondoa data ya nje ya mtandao">
 
@@ -97,7 +97,7 @@
 <!ENTITY certificates.label              "Vyeti">
 <!ENTITY certSelection.description       "Wakati seva inaomba cheti changu cha binafsi:">
 <!ENTITY certs.auto                      "Chagua moja kiotomatiki">
-<!ENTITY certs.auto.accesskey            "I">
+<!ENTITY certs.auto.accesskey            "l">
 <!ENTITY certs.ask                       "Niulize kila wakati">
 <!ENTITY certs.ask.accesskey             "i">
 <!ENTITY viewCerts.label                 "Angalia Vyeti">

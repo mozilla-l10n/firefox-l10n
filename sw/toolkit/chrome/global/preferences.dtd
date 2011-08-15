@@ -1,4 +1,4 @@
-<!ENTITY  windowClose.key                         "W">
+<!ENTITY  windowClose.key                         "w">
 <!ENTITY  preferencesDefaultTitleMac.title        "Mapendeleo">
 <!ENTITY  preferencesDefaultTitleWin.title        "Chaguo">
 <!ENTITY  preferencesCloseButton.label            "Funga">

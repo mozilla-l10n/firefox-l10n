@@ -13,7 +13,7 @@
 <!ENTITY clearTimeDuration.last2Hours     "Masaa Mawili ya Mwisho">
 <!ENTITY clearTimeDuration.last4Hours     "Masaa Manne ya Mwisho">
 <!ENTITY clearTimeDuration.today          "Leo">
-<!ENTITY clearTimeDuration.everything     "Kila Kitu">
+<!ENTITY clearTimeDuration.everything     "Kila kitu">
 <!-- Localization note (clearTimeDuration.suffix) - trailing entity for languages
 that require it.  -->
 <!ENTITY clearTimeDuration.suffix         "">

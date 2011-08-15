@@ -1,16 +1,16 @@
 <!ENTITY  blockPopups.label           "Zuia dirisha ibukizi">
 <!ENTITY  blockPopups.accesskey       "Z">
-<!ENTITY  popupExceptions.label       "Mambo ya kipekee...">
+<!ENTITY  popupExceptions.label       "Mambo ya kipekee…">
 <!ENTITY  popupExceptions.accesskey   "M">
 
 <!ENTITY  loadImages.label            "Pakia picha kiotomatiki">
 <!ENTITY  loadImages.accesskey        "p">
-<!ENTITY  exceptions.label            "Mambo ya kipekee...">
+<!ENTITY  exceptions.label            "Mambo ya kipekee…">
 <!ENTITY  exceptions.accesskey        "m">
 
 <!ENTITY  enableJavaScript.label      "Wezesha HatiJava">
 <!ENTITY  enableJavaScript.accesskey  "H">
-<!ENTITY  advancedJS.label            "Yaliyopandishwa daraja...">
+<!ENTITY  advancedJS.label            "Yaliyopandishwa daraja…">
 <!ENTITY  advancedJS.accesskey        "y">
 
 <!ENTITY  enableJava.label            "Wezesha Java">
@@ -19,19 +19,19 @@
 
 <!ENTITY  fontsAndColors.label        "Fonti &amp; Rangi">
 
-<!ENTITY  defaultFont.label           "Chaguo msingi ya fonti:">
+<!ENTITY  defaultFont.label           "Chaguo-msingi ya fonti:">
 <!ENTITY  defaultFont.accesskey       "C">
 <!ENTITY  defaultSize.label           "Ukubwa:">
 <!ENTITY  defaultSize.accesskey       "U">
 
-<!ENTITY  advancedFonts.label         "Yaliyopandishwa daraja...">
+<!ENTITY  advancedFonts.label         "Yaliyopandishwa daraja…">
 <!ENTITY  advancedFonts.accesskey     "Y">
 
-<!ENTITY  colors.label                "Rangi...">
+<!ENTITY  colors.label                "Rangi…">
 <!ENTITY  colors.accesskey            "R">
 
 
 <!ENTITY languages.label              "Lugha">
-<!ENTITY chooseLanguage.label         "Chagua lugha unayopendelea ya kuonyeshea kurasa">
-<!ENTITY chooseButton.label           "Chagua...">
+<!ENTITY chooseLanguage.label         "Chagua lugha unayopendelea ya kuonyesha kurasa">
+<!ENTITY chooseButton.label           "Chagua…">
 <!ENTITY chooseButton.accesskey       "a">

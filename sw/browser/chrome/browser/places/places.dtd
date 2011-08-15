@@ -18,35 +18,35 @@
 <!ENTITY view.sort.accesskey            "P">
 <!ENTITY view.unsorted.label            "Hazijapangwa">
 <!ENTITY view.unsorted.accesskey        "H">
-<!ENTITY view.sortAscending.label       "Mpangilio wa Kupanga A>Z">
+<!ENTITY view.sortAscending.label       "A>Z Mpangilio wa Kupanga">
 <!ENTITY view.sortAscending.accesskey   "A">
-<!ENTITY view.sortDescending.label      "Mpangilio wa Kupanga Z<A">
-<!ENTITY view.sortDescending.accesskey  "M">
+<!ENTITY view.sortDescending.label      "Z>A Mpangilio wa Kupanga">
+<!ENTITY view.sortDescending.accesskey  "Z">
 
-<!ENTITY cmd.findInBookmarks.label      "Tafuta kwa Vialamisho...">
+<!ENTITY cmd.findInBookmarks.label      "Tafuta kwa Vialamisho…">
 <!ENTITY cmd.findInBookmarks.accesskey  "T">
-<!ENTITY cmd.findCurrent.label          "Tafuta kwa Mkusanyiko wa Sasa...">
+<!ENTITY cmd.findCurrent.label          "Tafuta kwa Mkusanyiko wa Sasa…">
 <!ENTITY cmd.findCurrent.accesskey      "f">
 
-<!ENTITY importBookmarksFromHTML.label     "Leta Vialamisho kutoka HTML...">
+<!ENTITY importBookmarksFromHTML.label     "Leta Vialamisho kutoka HTML…">
 <!ENTITY importBookmarksFromHTML.accesskey "L">
-<!ENTITY exportBookmarksToHTML.label       "Hamisha Vialamisho kutoka HTML...">
+<!ENTITY exportBookmarksToHTML.label       "Hamisha Vialamisho kutoka HTML…">
 <!ENTITY exportBookmarksToHTML.accesskey   "H">
-<!ENTITY importOtherBrowser.label          "Leta data kutoka Kivinjari Kingine...">
+<!ENTITY importOtherBrowser.label          "Leta data kutoka Kivinjari Kingine…">
 <!ENTITY importOtherBrowser.accesskey      "K">
 
-<!ENTITY cmd.backup.label               "Cheleza...">
+<!ENTITY cmd.backup.label               "Cheleza…">
 <!ENTITY cmd.backup.accesskey           "C">
 <!ENTITY cmd.restore2.label             "Rejesha">
 <!ENTITY cmd.restore2.accesskey         "R">
-<!ENTITY cmd.restoreFromFile.label      "Chagua Faili...">
+<!ENTITY cmd.restoreFromFile.label      "Chagua Faili…">
 <!ENTITY cmd.restoreFromFile.accesskey  "C">
 
-<!ENTITY cmd.bookmarkLink.label         "Alamisha Ukurasa Huu...">
+<!ENTITY cmd.bookmarkLink.label         "Alamisha Ukurasa Huu…">
 <!ENTITY cmd.bookmarkLink.accesskey     "A">
 <!ENTITY cmd.delete.label               "Futa Ukurasa Huu">
 <!ENTITY cmd.delete.accesskey           "F">
-<!ENTITY cmd.deleteDomainData.label     "Sahau Kuhusu Toovuti Hii">
+<!ENTITY cmd.deleteDomainData.label     "Sahau Kuhusu Tovuti Hii">
 <!ENTITY cmd.deleteDomainData.accesskey "S">
 
 <!ENTITY cmd.open.label                  "Fungua">
@@ -55,7 +55,7 @@
 <!ENTITY cmd.open_window.accesskey       "D">
 <!ENTITY cmd.open_tab.label              "Fungua katika Kichupo Kipya">
 <!ENTITY cmd.open_tab.accesskey          "c">
-<!ENTITY cmd.open_all_in_tabs.label      "Fungua Yote kwa vichupo">
+<!ENTITY cmd.open_all_in_tabs.label      "Fungua Zote kwa vichupo">
 <!ENTITY cmd.open_all_in_tabs.accesskey  "F">
 
 <!ENTITY cmd.properties.label      "Sifa">
@@ -65,9 +65,9 @@
 <!ENTITY cmd.sortby_name.accesskey          "P">
 <!ENTITY cmd.context_sortby_name.accesskey  "r">
 
-<!ENTITY cmd.new_bookmark.label            "Alamisho Mpya...">
+<!ENTITY cmd.new_bookmark.label            "Alamisho Mpya…">
 <!ENTITY cmd.new_bookmark.accesskey        "M">
-<!ENTITY cmd.new_folder.label              "Kabrasha Mpya...">
+<!ENTITY cmd.new_folder.label              "Kabrasha Mpya…">
 <!ENTITY cmd.new_folder.accesskey          "p">
 <!ENTITY cmd.context_new_folder.accesskey  "F">
 <!ENTITY cmd.new_separator.label           "Kitenganishi Kipya">
@@ -76,7 +76,7 @@
 <!ENTITY cmd.reloadLivebookmark.label      "Pakia tena Alamisho Moja kwa moja">
 <!ENTITY cmd.reloadLivebookmark.accesskey  "P">
 
-<!ENTITY cmd.moveBookmarks.label                  "Hamisha...">
+<!ENTITY cmd.moveBookmarks.label                  "Hamisha…">
 <!ENTITY cmd.moveBookmarks.accesskey              "H">
 
 <!ENTITY col.name.label          "Jina">
@@ -93,8 +93,8 @@
 <!ENTITY search.accesskey                          "T">
 
 <!ENTITY search.in.label                           "Tafutiza katika:">
-<!ENTITY search.scopeFolder.label                  "Kabrasha Iliyochaguliwa">
-<!ENTITY search.scopeFolder.accesskey              "y">
+<!ENTITY search.scopeFolder.label                  "Kabrasha Iililochaguliwa">
+<!ENTITY search.scopeFolder.accesskey              "l">
 <!ENTITY search.scopeBookmarks.label               "Vialamisho">
 <!ENTITY search.scopeBookmarks.accesskey           "s">
 <!ENTITY search.scopeDownloads.label               "Vipakuzi">
@@ -122,8 +122,8 @@
 
 <!ENTITY find.label               "Tafutiza:">
 <!ENTITY find.accesskey           "T">
-<!ENTITY view.label               "Angalila">
-<!ENTITY view.accesskey           "a">
+<!ENTITY view.label               "Onyesha">
+<!ENTITY view.accesskey           "s">
 <!ENTITY byDate.label             "Kwa Tarehe">
 <!ENTITY byDate.accesskey         "T">
 <!ENTITY bySite.label             "Kwa Tovuti">

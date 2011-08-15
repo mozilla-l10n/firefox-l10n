@@ -19,12 +19,12 @@
 <!ENTITY permission.block                "Zuia">
 
 <!ENTITY password.label                  "Hifadhi Nywila">
-<!ENTITY password.manage                 "Simamia Nywila...">
+<!ENTITY password.manage                 "Simamia Nywila…">
 
 <!ENTITY cookie.label                    "Weka Vidakuzi">
 <!ENTITY cookie.remove                   "Ondoa Vidakuzi">
-<!ENTITY cookie.manage                   "Simamia Cookies...">
-<!ENTITY cookie.removeAll                "Remove All Cookies">
+<!ENTITY cookie.manage                   "Simamia Cookies…">
+<!ENTITY cookie.removeAll                "Ondoa Vidakuzi Vyote">
 
 <!ENTITY geo.label                       "Gawiza Mahali">
 <!-- LOCALIZATION NOTE (indexedDB.label): This is describing indexedDB storage

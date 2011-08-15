@@ -1,4 +1,4 @@
-<!ENTITY  updateWizard.title              "Kisasaisho cha &brandShortName;">
+<!ENTITY  updateWizard.title              "&brandShortName; Kisasaisho">
 
 <!ENTITY  offline.title                   "&brandShortName; inafanya kazi nje ya mtandao">
 <!ENTITY  offline.description             "&brandShortName; huhitaji kwenda mtandaoni ili kuona kama visasaisho 
@@ -14,8 +14,8 @@ hili.">
 kati ya vifaa hivi vya nyongeza vinavyopatikana.">
 
 <!ENTITY  checking.wizard.title           "Kukagua kwa Vifaa vya nyongeza Tangamanifu">
-<!ENTITY  checking.top.label              "Kukagua vifaa vya nyongeza vyako sitangamanifu kwa visasaisho...">
-<!ENTITY  checking.status                 "Hii yaweza kuchukua dakika chache...">
+<!ENTITY  checking.top.label              "Kukagua vifaa vya nyongeza vyako sitangamanifu kwa visasaisho…">
+<!ENTITY  checking.status                 "Hii yaweza kuchukua dakika chache…">
 
 <!ENTITY  found.wizard.title               "Imepata Vifaa vya nyongeza Tangamanifu">
 <!ENTITY  found.top.label                 "Chagua vifaa vya nyongeza ungependa kusakinisha:">
@@ -25,7 +25,7 @@ umelemazwa. Unaweza kubadilisha mpangiliio huu hapa chini.">
 <!ENTITY  found.enableXPInstall.accesskey "R">
 
 <!ENTITY  installing.wizard.title         "Kusakinisha Vifaa vya nyongeza Tangamanifu">
-<!ENTITY  installing.top.label            "Kupakua na kusakinisha visasaisho vya vifaa vyako vya nyongeza...">
+<!ENTITY  installing.top.label            "Kupakua na kusakinisha visasaisho vya vifaa vyako vya nyongeza…">
 
 <!ENTITY  noupdates.wizard.title          "Hakuna Vifaa vya nyongeza Tangamanifi Vimepatikana">
 <!ENTITY  noupdates.intro.desc            "&brandShortName; imeshindwa kupata visasaisho vya 
@@ -48,14 +48,14 @@ Tafadhali wasiliana na Msimamizi wa Mfumo kwa usaidizi.">
 
 <!ENTITY  versioninfo.wizard.title        "Kukagua Utangamanifu wa Vifaa vya nyongeza">
 <!ENTITY  versioninfo.top.label           "Kukagua utangamanifu wa vifaa vya nyongeza na toleo 
-hili la &brandShortName;">
-<!ENTITY  versioninfo.waiting             "Hili laweza kuchukua dakika chache...">
+hili la &brandShortName;.">
+<!ENTITY  versioninfo.waiting             "Hili laweza kuchukua dakika chache…">
 
 <!ENTITY  installerrors.wizard.title      "Matatizo Kusakinisha Visasaisho">
 <!ENTITY  installerrors.intro.label       "&brandShortName; imepata matatizo wakati wa kusasaisha 
 visasaisho vyako vingine.">
 <!-- general strings used by several of the finish pages -->
 
-<!ENTITY  clickFinish.label               "Bofya Maliza kuendela kuanzisha &brandShortName;">
-<!ENTITY  clickFinish.labelMac            "Bofya Maliza kuendelea kuanza &brandShortName;">
+<!ENTITY  clickFinish.label               "Bofya Maliza kuendela kuanzisha &brandShortName;.">
+<!ENTITY  clickFinish.labelMac            "Bofya Maliza kuendelea kuanza &brandShortName;.">
 <!ENTITY  enableChecking.label            "Ruhusu &brandShortName; kukagua visasaisho.">

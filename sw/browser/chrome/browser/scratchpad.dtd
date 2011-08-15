@@ -19,7 +19,7 @@
 <!ENTITY newWindowCmd.accesskey       "D">
 <!ENTITY newWindowCmd.commandkey      "n">
 
-<!ENTITY openFileCmd.label            "Fungua Faili...">
+<!ENTITY openFileCmd.label            "Fungua Faili…">
 <!ENTITY openFileCmd.accesskey        "F">
 <!ENTITY openFileCmd.commandkey       "o">
 
@@ -27,7 +27,7 @@
 <!ENTITY saveFileCmd.accesskey        "H">
 <!ENTITY saveFileCmd.commandkey       "s">
 
-<!ENTITY saveFileAsCmd.label          "Hifadhi Kama...">
+<!ENTITY saveFileAsCmd.label          "Hifadhi Kama…">
 <!ENTITY saveFileAsCmd.accesskey      "K">
 
 <!ENTITY closeCmd.label               "Funga">
@@ -92,7 +92,7 @@
   -  was called "Chrome".
   -->
 
-<!ENTITY browserContext.label         "Kivinjari...">
+<!ENTITY browserContext.label         "Kivinjari">
 <!ENTITY browserContext.accesskey     "K">
 <!-- LOCALIZATION NOTE (resetContext.label): This command allows the developer
   -  to reset/clear the global object of the environment where the code executes.

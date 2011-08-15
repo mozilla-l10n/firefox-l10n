@@ -23,9 +23,9 @@
 <!ENTITY closeWhenDone.accesskey "w">
 <!ENTITY saveTo.label "Hifadhi faili kwa">
 <!ENTITY saveTo.accesskey "f">
-<!ENTITY chooseFolderWin.label        "Vinjari...">
+<!ENTITY chooseFolderWin.label        "Vinjari…">
 <!ENTITY chooseFolderWin.accesskey    "n">
-<!ENTITY chooseFolderMac.label        "Chagua...">
+<!ENTITY chooseFolderMac.label        "Chagua…">
 <!ENTITY chooseFolderMac.accesskey    "a">
 <!ENTITY alwaysAsk.label "Kila mara niulize mahali pa kuhifadhi faili">
 <!ENTITY alwaysAsk.accesskey "K">
@@ -33,5 +33,5 @@
 <!ENTITY addonsMgr.label               "Vifaa vya nyongeza">
 <!ENTITY manageAddonsDescWin.label     "Badilisha chaguo kwa vifaa vyako vya nyongeza">
 <!ENTITY manageAddonsDescUnix2.label   "Badilisha upendeleo wa vifaa vyako vya nyongeza">
-<!ENTITY manageAddons.label            "Simamia Vifaa vya nyongeza...">
+<!ENTITY manageAddons.label            "Simamia Vifaa vya nyongeza…">
 <!ENTITY manageAddons.accesskey        "S">

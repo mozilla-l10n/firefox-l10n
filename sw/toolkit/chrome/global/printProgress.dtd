@@ -2,7 +2,7 @@
 <!ENTITY printWindow.title "Kuchapisha"> 
 <!ENTITY title    "Kichwa:"> 
 <!ENTITY progress "Maendeleo:">
-<!ENTITY preparing "Kutayarisha...">
+<!ENTITY preparing "Kutayarisha…">
 <!ENTITY printComplete "Kuchapisha Kumekamilika.">
 
 <!ENTITY dialogCancel.label "Katiza"> 

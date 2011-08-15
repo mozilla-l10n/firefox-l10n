@@ -1,7 +1,7 @@
 <!ENTITY pluginWizard.title                                  "Huduma ya Kitafutizi cha Programu-jalizi">
 <!ENTITY pluginWizard.firstPage.title                        "Karibu kwenye &pluginWizard.title;">
 
-<!ENTITY pluginWizard.checkingForPlugins.description.label   "&brandShortName; sasa inakagua programu jalizi zinazopatikana...">
+<!ENTITY pluginWizard.checkingForPlugins.description.label   "&brandShortName; sasa inakagua programu jalizi zinazopatikana…">
 
 <!ENTITY pluginWizard.availablePluginsPage.title             "Vipakuzi Vya Programu-jalizi Vinavyopatikana">
 <!ENTITY pluginWizard.availablePluginsPage.description.label "Programu-jalizi zifuatazo zinapatikana:">
@@ -13,7 +13,7 @@
 <!ENTITY pluginWizard.licensePage.deny.label                 "Sikubali (programu-jalizi hautasakinishwa).">
 
 <!ENTITY pluginWizard.installPluginsPage.title               "Kusakinisha Programu-jalizi">
-<!ENTITY pluginWizard.installPluginsPage.description.label   "&brandShortName; inasakinisha programu-jalizi...">
+<!ENTITY pluginWizard.installPluginsPage.description.label   "&brandShortName; inasakinisha programu-jalizi…">
 
 <!ENTITY pluginWizard.finalPage.description.label            "&brandShortName; imemaliza kusakinisha programu-jalizi ambazo hazikuwepo:">
 
@@ -24,8 +24,8 @@
 <!ENTITY disabledPlugin                                      "Programu-jalizi hii imelemazwa.">
 <!ENTITY blockedPlugin.label                                 "Programu-jalizi hii imezuiliwa kwa ulinzi wako.">
 
-<!ENTITY installPlugin                                       "Sakinisha programu-jalizi...">
-<!ENTITY managePlugins                                       "Simamia programu-jalizi...">
+<!ENTITY installPlugin                                       "Sakinisha programu-jaliz…">
+<!ENTITY managePlugins                                       "Simamia programu-jalizi…">
 <!-- LOCALIZATION NOTE (reloadPlugin.pre): include a trailing space as needed -->
 <!-- LOCALIZATION NOTE (reloadPlugin.middle): avoid leading/trailing spaces, this text is a link -->
 <!-- LOCALIZATION NOTE (reloadPlugin.post): include a starting space as needed -->
@@ -35,7 +35,7 @@
 <!ENTITY reloadPlugin.post                                   "kujaribu tena.">
 <!-- LOCALIZATION NOTE (report.please): This and the other report.* strings should be as short as possible, ideally 2-3 words. -->
 <!ENTITY report.please                                       "Tuma ripoti ya kukwama">
-<!ENTITY report.submitting                                   "Kutuma ripoti...">
+<!ENTITY report.submitting                                   "Kutuma ripoti…">
 <!ENTITY report.submitted                                    "Ripoti ya kukwama imetumwa.">
 <!ENTITY report.disabled                                     "Kutuma ripoti ya kukwama kumelemazwa.">
 <!ENTITY report.failed                                       "Ufikishaji umeshindwa.">

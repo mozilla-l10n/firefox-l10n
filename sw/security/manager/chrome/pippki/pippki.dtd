@@ -36,21 +36,21 @@
    - ***** END LICENSE BLOCK ***** -->
 <!-- Values for changepassword.xul -->
 
-<!ENTITY setPassword.title  "Change Master Password">
+<!ENTITY setPassword.title  "Badilisha Nywila Kuu">
 <!ENTITY setPassword.tokenName.label "Kifaa cha Usalama">
 <!ENTITY setPassword.oldPassword.label "Current password:">
 <!ENTITY setPassword.newPassword.label "New password:">
 <!ENTITY setPassword.reenterPassword.label "New password (again):">
 <!ENTITY setPassword.meter.label "Password quality meter">
-<!ENTITY setPassword.meter.loading "Loading">
+<!ENTITY setPassword.meter.loading "Kupakia">
 <!-- Values for resetpassword.xul -->
 
 <!ENTITY resetPasswordButtonLabel "Weka upya">
-<!ENTITY resetPassword.title  "Reset Master Password">
+<!ENTITY resetPassword.title  "Weka Upya Nywila Kuu">
 <!ENTITY resetPassword.text  "If you reset your master password, all your stored web and e-mail passwords, form data, personal certificates, and private keys will be forgotten. Are you sure you want to reset your master password?">
 <!-- Values for getpassword.xul -->
 
-<!ENTITY getPassword.title  "Enter Master Password">
+<!ENTITY getPassword.title  "Ingiza Nywila Kuu">
 <!ENTITY getPassword.tokenName2.label "Kifaa cha Usalama:">
 <!ENTITY getPassword.password.label "Nywila:">
 <!-- These should be common -->
@@ -75,7 +75,7 @@
 <!ENTITY downloadCert.trustObjSign "Trust this CA to identify software developers.">
 <!ENTITY downloadCert.message3 "Before trusting this CA for any purpose, you should examine its certificate and its policy and procedures (if available).">
 <!ENTITY downloadCert.viewCert.label "Bheka">
-<!ENTITY downloadCert.viewPolicy.label "Policy">
+<!ENTITY downloadCert.viewPolicy.label "Sera">
 <!ENTITY downloadCert.viewCert.text "Examine CA certificate">
 <!ENTITY downloadCert.viewPolicy.text "Examine CA policies and procedures">
 <!-- Certificate Exists in database -->
@@ -91,7 +91,7 @@
 <!-- Strings for the cert picker dialog -->
 
 <!ENTITY certPicker.title "Select Certificate">
-<!ENTITY certPicker.info  "Certificate:">
+<!ENTITY certPicker.info  "Vyeti:">
 <!ENTITY certPicker.detailsLabel "Details of selected certificate:">
 
 <!ENTITY pkcs12.setpassword.title  "Choose a Certificate Backup Password">
@@ -118,7 +118,7 @@
 
 <!ENTITY createCertInfo.title "Generating A Private Key">
 <!ENTITY createCertInfo.msg1 "Key Generation in progress… This may take a few minutes….">
-<!ENTITY createCertInfo.msg2 "Please wait…">
+<!ENTITY createCertInfo.msg2 "Tafadhali subiri…">
 <!-- Form Signing confirmation prompt -->
 
 <!ENTITY formSigning.title "Text Signing Request">

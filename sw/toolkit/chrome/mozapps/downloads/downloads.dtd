@@ -4,8 +4,8 @@ file names and tall enough to hint that there are more downloads in the list -->
 <!ENTITY window.width2                    "485">
 <!ENTITY window.height                    "300"> 
 
-<!ENTITY starting.label                   "Kuanza...">
-<!ENTITY scanning.label                   "Kutambaza virusi...">
+<!ENTITY starting.label                   "Inaanza…">
+<!ENTITY scanning.label                   "Kutambaza virusi…">
 
 <!ENTITY downloads.title                  "Vipakuzi">
 
@@ -21,7 +21,7 @@ file names and tall enough to hint that there are more downloads in the list -->
 <!ENTITY cmd.showMac.accesskey            "K">
 <!ENTITY cmd.open.label                   "Fungua">
 <!ENTITY cmd.open.accesskey               "F">
-<!ENTITY cmd.openWith.label               "Fungua Na...">
+<!ENTITY cmd.openWith.label               "Fungua Na…">
 <!ENTITY cmd.openWith.accesskey           "a">
 <!ENTITY cmd.retry.label                  "Jaribu tena">
 <!ENTITY cmd.retry.accesskey              "J">
@@ -45,4 +45,4 @@ file names and tall enough to hint that there are more downloads in the list -->
 <!ENTITY closeWhenDone.tooltip            "Funga dirisha la Upakuzi wakati faili zote zimemaliza kupakua">
 
 <!ENTITY showFolder.label                 "Onyesha Kabrasha hii">
-<!ENTITY searchBox.label                  "Tafutiza...">
+<!ENTITY searchBox.label                  "Tafutiza…">

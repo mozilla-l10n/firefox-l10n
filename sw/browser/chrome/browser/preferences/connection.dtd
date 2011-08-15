@@ -4,7 +4,7 @@
 <!ENTITY  window.macWidth               "39em">
 
 <!ENTITY  proxyTitle.label              "Sanidi Proxi Kufikia Wavuti">
-<!ENTITY  noProxyTypeRadio.label        "Hakuna Proxi">
+<!ENTITY  noProxyTypeRadio.label        "Hakuna proksi">
 <!ENTITY  noProxyTypeRadio.accesskey    "i">
 <!ENTITY  systemTypeRadio.label         "Tumia mipangilio ya mfumo wa proxi">
 <!ENTITY  systemTypeRadio.accesskey     "T">
@@ -12,7 +12,7 @@
 <!ENTITY  WPADTypeRadio.accesskey       "n">
 <!ENTITY  manualTypeRadio.label         "Kusanidi proxi kwa mikono:">
 <!ENTITY  manualTypeRadio.accesskey     "K">
-<!ENTITY  autoTypeRadio.label           "Usanidi wa URL wa proxi kwa mikono;">
+<!ENTITY  autoTypeRadio.label           "Usanidi wa URL wa proxi kwa mikono:">
 <!ENTITY  autoTypeRadio.accesskey       "U">
 <!ENTITY  reload.label                  "Pakia tena">
 <!ENTITY  reload.accesskey              "k">

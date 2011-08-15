@@ -6,18 +6,18 @@
 <!ENTITY mainWindow.titlemodifier "&brandFullName;">
 <!-- LOCALIZATION NOTE (mainWindow.titlemodifierseparator) : DONT_TRANSLATE -->
 <!ENTITY mainWindow.titlemodifierseparator " - ">
-<!ENTITY mainWindow.preface "Chanzo cha:">
+<!ENTITY mainWindow.preface "Chanzo cha: ">
 
 <!ENTITY fileMenu.label "Faili">
 <!ENTITY fileMenu.accesskey "F">
-<!ENTITY savePageCmd.label "Hifadhi Ukurasa Kama...">
+<!ENTITY savePageCmd.label "Hifadhi Ukurasa Kama…">
 <!ENTITY savePageCmd.accesskey "K">
 <!ENTITY savePageCmd.commandkey "S">
-<!ENTITY pageSetupCmd.label "Usanidi wa Ukurasa...">
+<!ENTITY pageSetupCmd.label "Usanidi wa Ukurasa…">
 <!ENTITY pageSetupCmd.accesskey "u">
 <!ENTITY printPreviewCmd.label "Kihakiki Uchapishaji">
 <!ENTITY printPreviewCmd.accesskey "a">
-<!ENTITY printCmd.label "Chapisha...">
+<!ENTITY printCmd.label "Chapisha…">
 <!ENTITY printCmd.accesskey "C">
 <!ENTITY printCmd.commandkey "P">
 <!ENTITY closeCmd.label "Funga">
@@ -38,7 +38,7 @@ you can use these alternative items. Otherwise, their values should be empty.  -
 <!ENTITY textReset.commandkey "0">
 <!ENTITY textReset.commandkey2 "">
 
-<!ENTITY goToLineCmd.label "Nenda kwa Msitari...">
+<!ENTITY goToLineCmd.label "Nenda kwa Msitar…">
 <!ENTITY goToLineCmd.accesskey "N">
 <!ENTITY goToLineCmd.commandkey "l">
 
@@ -60,7 +60,7 @@ you can use these alternative items. Otherwise, their values should be empty.  -
 <!ENTITY menu_textReset.label "Kawaida">
 <!ENTITY menu_textReset.accesskey "K">
 
-<!ENTITY findOnCmd.label     "Tafuta kwenye Ukurasa Huu...">
+<!ENTITY findOnCmd.label     "Tafuta kwenye Ukurasa Huu…">
 <!ENTITY findOnCmd.accesskey "T">
 <!ENTITY findOnCmd.commandkey "f">
 <!ENTITY findAgainCmd.label  "Tafuta Tena">

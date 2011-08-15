@@ -35,9 +35,9 @@
    -
    - ***** END LICENSE BLOCK ***** -->
 
-<!ENTITY print.label          "Chapisha...">
+<!ENTITY print.label          "Chapisha…">
 <!ENTITY print.accesskey      "C">
-<!ENTITY pageSetup.label      "Usanidi wa Ukurasa...">
+<!ENTITY pageSetup.label      "Usanidi wa Ukurasa…">
 <!ENTITY pageSetup.accesskey  "u">
 <!ENTITY page.label           "Ukurasa:">
 <!ENTITY page.accesskey       "k">
@@ -62,9 +62,9 @@
 <!ENTITY p150.label           "150&#037;">
 <!ENTITY p175.label           "175&#037;">
 <!ENTITY p200.label           "200&#037;">
-<!ENTITY Custom.label         "Maalum...">
+<!ENTITY Custom.label         "Maalum…">
 <!ENTITY ShrinkToFit.label    "Nywea Ili Kutoshea">
-<!ENTITY customPrompt.title   "Kipimo Maalum...">
+<!ENTITY customPrompt.title   "Kipimo Maalum…">
 
 <!ENTITY homearrow.tooltip    "Ukurasa wa kwanza">
 <!ENTITY endarrow.tooltip     "Ukurasa wa mwisho">

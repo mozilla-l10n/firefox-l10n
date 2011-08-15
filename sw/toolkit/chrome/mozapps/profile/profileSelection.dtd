@@ -47,11 +47,11 @@
 
 <!ENTITY            availprofiles.label    "Maelezo Mafupi Yanayopatikana">
 
-<!ENTITY            newButton.label        "Unda Maelezo Mafupi...">
+<!ENTITY            newButton.label        "Unda Maelezo Mafupi…">
 <!ENTITY            newButton.accesskey    "U">
-<!ENTITY            renameButton.label     "Ita Tena Maelezo Mafupi...">
+<!ENTITY            renameButton.label     "Ita Tena Maelezo Mafupi…">
 <!ENTITY            renameButton.accesskey "I">
-<!ENTITY            deleteButton.label     "Futa Maelezo Mafupi...">
+<!ENTITY            deleteButton.label     "Futa Maelezo Mafupi…">
 <!ENTITY            deleteButton.accesskey "F">
 <!-- manager entities -->
 

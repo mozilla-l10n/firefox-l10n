@@ -22,8 +22,8 @@
 <!ENTITY printButton.tooltip            "Chapisha ukurasa huu">
 <!ENTITY closeWindow.commandkey         "W">
 
-<!ENTITY search.emptytext               "Utafutaji...">
-<!ENTITY searchHeader.label             "Matokeo ya Utaftaji">
+<!ENTITY search.emptytext               "Utafutaji">
+<!ENTITY searchHeader.label             "Matokeo ya utaftaji">
 <!ENTITY toctab.label                   "Maudhui">
 <!ENTITY toctab.accesskey               "M">
 <!-- LOCALIZATION NOTE :

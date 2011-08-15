@@ -49,8 +49,8 @@
 <!ENTITY warnings.accesskey "O">
 <!ENTITY messages.label     "Ujumbe">
 <!ENTITY messages.accesskey "U">
-<!ENTITY clear.label        "Clear">
-<!ENTITY clear.accesskey    "C">
+<!ENTITY clear.label        "Ondoa">
+<!ENTITY clear.accesskey    "O">
 <!ENTITY codeEval.label     "Code:">
 <!ENTITY codeEval.accesskey "o">
 <!ENTITY evaluate.label     "Evaluate">

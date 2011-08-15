@@ -9,7 +9,7 @@ kuhusu &brandShortName;, angalia kiungo chetu <a id='supportLink'>wavuti wa kuau
 <!ENTITY aboutSupport.extensionName "Jina">
 <!ENTITY aboutSupport.extensionEnabled "Imewezeshwa">
 <!ENTITY aboutSupport.extensionVersion "Toleo">
-<!ENTITY aboutSupport.extensionId "Kitambulisho">
+<!ENTITY aboutSupport.extensionId "ID">
 
 <!ENTITY aboutSupport.appBasicsTitle "Misingi ya Programu">
 <!ENTITY aboutSupport.appBasicsName "Jina">

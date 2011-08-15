@@ -24,8 +24,8 @@
 <!ENTITY importItems.title              "Vipengee vya Kuleta">
 <!ENTITY importItems.label              "Chagua ni vipengee vipi utaleta:">
 
-<!ENTITY migrating.title                "Kuleta...">
-<!ENTITY migrating.label                "Vipengee vifuatavyo kwa sasa vinaletwa...">
+<!ENTITY migrating.title                "Kuleta…">
+<!ENTITY migrating.label                "Vipengee vifuatavyo kwa sasa vinaletwa…">
 
 <!ENTITY selectProfile.title            "Chagua Profaili">
 <!ENTITY selectProfile.label            "Maelezo mafupi yafuatayo yanapatikana kuletwa kutoka kwa:">

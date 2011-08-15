@@ -8,14 +8,14 @@
 
 <!ENTITY fileCheck.label "Chapisha kwa Faili">
 <!ENTITY fileCheck.accesskey "F">
-<!ENTITY propertiesButton.label "Sifa...">
+<!ENTITY propertiesButton.label "Sifa…">
 <!ENTITY propertiesButton.accesskey "f">
 <!ENTITY descText.label "Maelezo ya Kichapishi:">
 <!ENTITY printer.label "Kichapishi">
 <!ENTITY printerInput.label "Jina la Kichapishi:">
 <!ENTITY printerInput.accesskey "K">
 
-<!ENTITY printrangeGroup.label "Mfiko wa Kuchapish">
+<!ENTITY printrangeGroup.label "Mfiko wa Kuchapisha">
 <!ENTITY allpagesRadio.label "Kurasa Zote">
 <!ENTITY allpagesRadio.accesskey "K">
 <!ENTITY rangeRadio.label  "Kurasa">

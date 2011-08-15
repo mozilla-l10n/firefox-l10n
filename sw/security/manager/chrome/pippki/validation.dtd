@@ -59,9 +59,9 @@
 <!ENTITY  crl.import.status.title                 "Hadhi ya Kupeleka CRL">
 <!ENTITY  crl.import.success.message              "Orodha ya Ufutaji wa Vyeti (CRL) umefanikiwa kupelekwa.">
 <!ENTITY  crl.issuer.label                        "CRL Imetolewa Na:">
-<!ENTITY  crl.issuer.org.label                    "Shirika:">
-<!ENTITY  crl.issuer.orgunit.label                "Kisio:">
-<!ENTITY  crl.import.nextupdate.label             "Usasaisho Ujao:">
-<!ENTITY  crl.autoupdate.fail.cnt.label           "Kushindwa kwa Usasaisho Uliopita:">
-<!ENTITY  crl.autoupdate.fail.reason.label        "Maelezo ya Ushindwaji wa Usasaisho wa Mwisho:">
+<!ENTITY  crl.issuer.org.label                    "Shirika: ">
+<!ENTITY  crl.issuer.orgunit.label                "Kisio: ">
+<!ENTITY  crl.import.nextupdate.label             "Usasaisho Ujao: ">
+<!ENTITY  crl.autoupdate.fail.cnt.label           "Kushindwa kwa Usasaisho Uliopita: ">
+<!ENTITY  crl.autoupdate.fail.reason.label        "Maelezo ya Ushindwaji wa Usasaisho wa Mwisho: ">
 <!ENTITY  edit.button                             "Mipangilio">

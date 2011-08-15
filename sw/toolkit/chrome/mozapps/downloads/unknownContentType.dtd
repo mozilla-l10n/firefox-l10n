@@ -39,11 +39,11 @@
 
 <!ENTITY  intro.label                 "Umechagua kufungua">
 <!ENTITY  from.label                  "kutoka:">
-<!ENTITY  actionQuestion.label        "&brandShortName; inafaa kufanya nini na faili hii?">
+<!ENTITY  actionQuestion.label        "Je hii &brandShortName; inafaa kufanya nini na faili hii?">
 
 <!ENTITY  openWith.label              "Fungua na">
 <!ENTITY  openWith.accesskey          "F">
-<!ENTITY  other.label                 "Nyingine...">
+<!ENTITY  other.label                 "Nyingine…">
 
 <!ENTITY  saveFile.label              "Hifadhi Faili">
 <!ENTITY  saveFile.accesskey          "H">
@@ -53,9 +53,9 @@
 
 <!ENTITY  whichIsA.label              "ambayo ni:">
 
-<!ENTITY  chooseHandlerMac.label      "Chagua...">
+<!ENTITY  chooseHandlerMac.label      "Chagua…">
 <!ENTITY  chooseHandlerMac.accesskey  "C">
-<!ENTITY  chooseHandler.label         "Vinjari...">
+<!ENTITY  chooseHandler.label         "Vinjari…">
 <!ENTITY  chooseHandler.accesskey     "V">
 
 <!ENTITY  unknownPromptText.label     "Ungetaka kuhifadhi faili hii?">

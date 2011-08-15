@@ -25,17 +25,17 @@
 <!ENTITY  keepUntil.label               "Weka mpaka:">
 <!ENTITY  keepUntil.accesskey           "W">
 
-<!ENTITY  expire.label                  "Zinaisha">
+<!ENTITY  expire.label                  "zinaisha">
 <!ENTITY  close.label                   "Ninafunga &brandShortName;">
 <!ENTITY  askEachTime.label             "niulize kila wakati">
 
-<!ENTITY  cookieExceptions.label        "Mambo ya pekee...">
+<!ENTITY  cookieExceptions.label        "Mambo ya pekee…">
 <!ENTITY  cookieExceptions.accesskey    "M">
 
-<!ENTITY  showCookies.label             "Onyesha Vidakuzi...">
+<!ENTITY  showCookies.label             "Onyesha Vidakuzi…">
 <!ENTITY  showCookies.accesskey         "O">
 
-<!ENTITY  historyHeader.pre.label          "&brandShortName; matakwa">
+<!ENTITY  historyHeader.pre.label          "&brandShortName; matakwa:">
 <!ENTITY  historyHeader.pre.accesskey      "m">
 <!ENTITY  historyHeader.remember.label     "Kumbuka historia">
 <!ENTITY  historyHeader.dontremember.label "Kamwe usikumbuke historia">
@@ -53,7 +53,7 @@
 <!ENTITY  rememberActions.removeCookies.label "ondoa vidakuzi vya kibinafsi">
 <!ENTITY  rememberActions.post.label          ".">
 
-<!ENTITY  dontrememberDescription.label  "&brandShortName; Itatumia mipangilio sawa kama kuvinjari kwa kibinafsi, na haitakumbuka historia yoyote unapovinjari Tovuti.">
+<!ENTITY  dontrememberDescription.label  "&brandShortName; itatumia mipangilio sawa kama kuvinjari kwa kibinafsi, na haitakumbuka historia yoyote unapovinjari Tovuti.">
 <!-- LOCALIZATION NOTE (dontrememberActions.pre.label): include a trailing space as needed -->
 <!-- LOCALIZATION NOTE (dontrememberActions.post.label): include a starting space as needed -->
 
@@ -76,5 +76,5 @@
 <!ENTITY  clearOnClose.label             "Ondoa historia wakati &brandShortName; ikifunga">
 <!ENTITY  clearOnClose.accesskey         "a">
 
-<!ENTITY  clearOnCloseSettings.label     "Mipangilio...">
+<!ENTITY  clearOnCloseSettings.label     "Mipangilio…">
 <!ENTITY  clearOnCloseSettings.accesskey "p">

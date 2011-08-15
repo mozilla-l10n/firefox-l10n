@@ -1,13 +1,13 @@
 <!ENTITY addons.windowTitle                   "Msimamizi Kifaa cha Nyongeza">
 <!ENTITY search.placeholder                   "Tafutiza vifaa vyote vya nyongeza">
-<!ENTITY loading.label                        "Kupakia...">
+<!ENTITY loading.label                        "Kupakia…">
 <!ENTITY listEmpty.installed.label            "Huna vifaa vya nyongeza vya aina hii vilivyosakinishwa">
 <!ENTITY listEmpty.availableUpdates.label     "Hakuna visasaisho vilivyopatikana">
 <!ENTITY listEmpty.recentUpdates.label        "Hivi karibuni hujasasaisha vifaa vyovyote vya nyongeza">
 <!ENTITY listEmpty.findUpdates.label          "Kagua Visasaisho">
 <!ENTITY listEmpty.search.label               "Haingepata vifaa vya nyongeza vyovyote vinavyooana">
 <!ENTITY listEmpty.button.label               "Jifunze zaidi kuhusu vifaa vya nyongeza">
-<!ENTITY installAddonFromFile.label           "Sakinisha Vifaa vya nyongeza Kutoka kwa Faili...">
+<!ENTITY installAddonFromFile.label           "Sakinisha Vifaa vya nyongeza Kutoka kwa Fail…">
 <!ENTITY installAddonFromFile.accesskey       "S">
 <!ENTITY toolsMenu.tooltip                    "Zana za vifaa vyote vya nyongeza">
 
@@ -113,7 +113,7 @@ vifaa vya nyongeza bora zaidi na vinavyojulikana zaidi kwako ili uvijaribu.">
 <!ENTITY detail.version.label                 "Toleo">
 <!ENTITY detail.lastupdated.label             "Ilisasaishwa Mwisho">
 <!ENTITY detail.creator.label                 "Mwendelezaji">
-<!ENTITY detail.homepage.label                "Ukurasa Maskani">
+<!ENTITY detail.homepage.label                "Ukurasa wa nyumbani">
 <!ENTITY detail.numberOfDownloads.label       "Vipakuzi">
 
 <!ENTITY detail.contributions.description     "Mwendelezaji wa vifaa hivi vya nyongeza huuliza usaidie kuauni uendelezaji wa kwendelea kwa kufanya mchango kidogo.">
@@ -188,16 +188,16 @@ vifaa vya nyongeza bora zaidi na vinavyojulikana zaidi kwako ili uvijaribu.">
 <!ENTITY addon.updateNow.tooltip              "Sakinisha kisasaisho cha kifaa hiki cha nyongeza">
 <!ENTITY addon.includeUpdate.label            "Ambatanisha katika Kisasaisho">
 <!ENTITY addon.updateAvailable.label          "Kisasaisho kinapatikana">
-<!ENTITY addon.checkingForUpdates.label       "Kukagua kwa visasaisho...">
+<!ENTITY addon.checkingForUpdates.label       "Kukagua kwa visasaisho…">
 <!ENTITY addon.releaseNotes.label             "Achilia Vidokezo:">
-<!ENTITY addon.loadingReleaseNotes.label      "Kupakia...">
+<!ENTITY addon.loadingReleaseNotes.label      "Kupakia…">
 <!ENTITY addon.errorLoadingReleaseNotes.label "Samahani, lakini kulikuwa na kosa kupakia kiachilizi vidokezi.">
 
-<!ENTITY addon.createdBy.label                "Kwa">
+<!ENTITY addon.createdBy.label                "Kwa ">
 
 <!ENTITY eula.title                           "Leseni ya Makubaliano ya Mtumiaji wa Hatima">
 <!ENTITY eula.width                           "560px">
 <!ENTITY eula.height                          "400px">
-<!ENTITY eula.accept                          "Kubali na Sakinisha...">
+<!ENTITY eula.accept                          "Kubali na Sakinisha…">
 
-<!ENTITY settings.path.button.label           "Vinjari...">
+<!ENTITY settings.path.button.label           "Vinjari…">

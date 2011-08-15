@@ -1,7 +1,7 @@
 <!ENTITY  updateWizard.title              "Kisasaisho cha Programu">
 
 <!ENTITY  checking.title                  "Kukagua visasaisho">
-<!ENTITY  updateCheck.label               "Kutafuta matoleo mapya ya &brandShortName;...">
+<!ENTITY  updateCheck.label               "Kutafuta matoleo mapya ya &brandShortName;…">
 
 <!ENTITY  pluginupdatesfound.title        "Imepata Visasaisho vya Vifaa vya Nyongeza">
 <!ENTITY  pluginupdatesfound.label        "Matoleo mapya zaidi ya moja au zaidi ya vifaa vya nyongeza yamepatikana.">
@@ -15,7 +15,7 @@ kikaguzi cha kiotomatiki cha &brandShortName;.">
 
 <!ENTITY  manualUpdate.title              "Imeshindwa Kusasaisha">
 <!ENTITY  manualUpdate.desc               "Kisasaisho cha usalama na uthabiti kimepatikana, lakini huna 
-ruhusa za mfumo unaohitajika kukisakisakinisha.  Tafadhali wasiliana na 
+ruhusa za mfumo unaohitajika kukisakisakinisha. Tafadhali wasiliana na 
 msimamizi wako wa mfumo, au jaribu tena kutoka kwa akaunti ambayo ina ruhusa ya 
 kusakinisha programu kwenye tarakilishi hii.">
 <!ENTITY  manualUpdate.space.desc         "Kisasaisho cha usalama na uthabiti kinapatikana, lakini huna 
@@ -23,11 +23,11 @@ nafasi ya kutosha kukisakinisha.">
 <!ENTITY  manualUpdateGetMsg.label        "Unaweza pata kila mara toleo jipya zaidi la &brandShortName; kwa:">
 
 <!ENTITY  incompatibleCheck.title         "Kukagua Utangamanifu wa Kifaa cha nyongeza">
-<!ENTITY  incompatibleCheck.label         "Kuangalia matoleo mapya zaidiya vifaa vyako vya nyongeza...">
+<!ENTITY  incompatibleCheck.label         "Kuangalia matoleo mapya zaidiya vifaa vyako vya nyongeza…">
 
 <!ENTITY  clickHere.label                 "Angalia maelezo zaidi kuhusu kisasaisho hiki">
 
-<!ENTITY  evangelism.desc                 "Inapendekezwa sana sana kuwa utekeleze 
+<!ENTITY  evangelism.desc                 "Inapendekezwa sana kuwa utekeleze 
 kisasaisho hiki cha &brandShortName; haraka iwezekanavyo.">
 
 <!ENTITY  license.instructions            "Kama unakubaliana na masharti ya makubaliano haya, bofya Ninakubali 
@@ -38,14 +38,14 @@ hapa chini na uendelee kusakinisha kisasaisho hiki.">
 <!ENTITY  license.instructionText         "Tafadhali soma makubaliano yafuatayo ya leseni. Tumia mwambaa bigirizi kuangalia makubaliano mengine.">
 <!ENTITY  license.accept                  "Ninakubali masharti ya Makubaliano ya Leseni">
 <!ENTITY  license.accept.accesskey        "c">
-<!ENTITY  license.decline                 "Sikubali masharti ya Makubaliano ya Leseni">
+<!ENTITY  license.decline                 "SIKUBALI masharti ya Makubaliano ya Leseni">
 <!ENTITY  license.decline.accesskey       "T">
 
 <!ENTITY  incompatibleList.title          "Vifaa vya nyongeza Sitangamanifu Vimepatikana">
 
 <!ENTITY  downloadPage.title              "Kupakua &brandShortName;">
-<!ENTITY  downloading.intro               "Kupakua kisasaisho...">
-<!ENTITY  connecting.label                "Kuunganisha kwenye sava ya kisasaisho...">
+<!ENTITY  downloading.intro               "Kupakua kisasaisho…">
+<!ENTITY  connecting.label                "Kuunganisha kwenye sava ya kisasaisho…">
 <!ENTITY  verificationFailedText.label    "&brandShortName; imeshindwa kudhibitisha uadlilifu wa 
 kisasaisho cha ongezeko kilichopakuliwa, kwa hivyo sasa kinapakua 
 furushi kamilifu la kisasaisho.">
@@ -85,7 +85,7 @@ Unaweza kuwasha upya &brandShortName; sasa, au endelea kufanya kazi na uwashe up
 
 <!ENTITY  installed.title                 "Kisasaisho Kimesakinishwa">
 <!ENTITY  installed.intro                 "Kisasaisho kimefanikiwa kusakinishwa.">
-<!ENTITY  whatsnew.label                  "Soma zaidi kuhusu ni nini kipya...">
+<!ENTITY  whatsnew.label                  "Soma zaidi kuhusu ni nini kipya…">
 
 <!ENTITY  update.details.label            "Maelezo">
 <!ENTITY  update.installedOn.label        "Ilisakinishwa:">
