@@ -191,3 +191,4 @@
 <!ENTITY eula.height                      "400px">
 <!ENTITY eula.accept                      "Aceptar e Instalar…">
 
+<!ENTITY settings.path.button.label           "Examinar…">
