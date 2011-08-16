@@ -4,6 +4,8 @@
 <!ENTITY startupHomePage.label "Показать домашнюю страницу">
 <!ENTITY startupBlankPage.label "Показать пустую страницу">
 <!ENTITY startupLastSession.label "Показать окна и вкладки, открытые в прошлый раз">
+<!ENTITY restoreOnDemand.label "Не загружать вкладки без запроса">
+<!ENTITY restoreOnDemand.accesskey "ж">
 <!ENTITY homepage.label "Домашняя страница:">
 <!ENTITY homepage.accesskey "м">
 <!ENTITY useCurrentPage.label "Использовать текущую страницу">

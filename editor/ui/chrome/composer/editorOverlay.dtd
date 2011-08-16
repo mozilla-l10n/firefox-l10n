@@ -69,9 +69,6 @@
 <!ENTITY printCmd.label "Печать…">
 <!ENTITY printCmd.accesskey "ч">
 <!ENTITY printCmd.key "P">
-<!ENTITY closeCmd.label "Закрыть">
-<!ENTITY closeCmd.accesskey "к">
-<!ENTITY closeCmd.key "W">
 <!ENTITY editMenu.label "Правка">
 <!ENTITY editMenu.accesskey "р">
 <!ENTITY pasteNoFormatting.label "Вставить без форматирования">
