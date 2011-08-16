@@ -20,6 +20,7 @@
 <!ENTITY aboutSupport.appBasicsEnabledPlugins "Aktiva insticksmoduler">
 <!ENTITY aboutSupport.appBasicsBuildConfig "Byggkonfiguration">
 <!ENTITY aboutSupport.appBasicsUserAgent "Användaragent">
+<!ENTITY aboutSupport.appBasicsCrashIDs "Kraschrapporter">
 
 <!ENTITY aboutSupport.show.label "Öppna mapp">
 

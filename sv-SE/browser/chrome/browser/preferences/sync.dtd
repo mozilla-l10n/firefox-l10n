@@ -13,9 +13,10 @@
 <!ENTITY manageAccount.label          "Hantera konto">
 <!ENTITY manageAccount.accesskey      "k">
 <!ENTITY viewQuota.label              "Visa kvot">
-<!ENTITY changePassword.label         "Byt lösenord">
+<!ENTITY changePassword2.label         "Byt lösenord…">
 <!ENTITY mySyncKey.label              "Min Sync-nyckel">
-<!ENTITY resetSync.label              "Återställ Sync">
+<!ENTITY resetSync2.label              "Återställ Sync…">
+
 <!ENTITY addDevice.label              "Lägg till enhet">
 
 <!ENTITY syncMy.label               "Synka">
@@ -33,7 +34,7 @@
 <!-- Device Settings -->
 <!ENTITY syncComputerName.label       "Datorns namn:">
 <!ENTITY syncComputerName.accesskey   "D">
-<!ENTITY deactivateDevice.label       "Inaktivera enheten">
+<!ENTITY unlinkDevice.label           "Avregistrera enheten">
 
 <!-- Footer stuff -->
 <!ENTITY prefs.tosLink.label        "Tjänstevillkor">
