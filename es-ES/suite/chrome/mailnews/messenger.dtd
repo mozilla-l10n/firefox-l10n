@@ -64,11 +64,8 @@
 <!ENTITY downloadFlaggedCmd.accesskey "O">
 <!ENTITY printCmd.label "Imprimir…">
 <!ENTITY printCmd.accesskey "I">
-<!ENTITY printCmd.key "p">
 <!ENTITY printPreviewCmd.label "Vista preliminar">
 <!ENTITY printPreviewCmd.accesskey "v">
-<!ENTITY printSetupCmd.label "Configurar página…">
-<!ENTITY printSetupCmd.accesskey "u">
 <!ENTITY deleteMsgCmd.label "Eliminar mensaje">
 <!ENTITY deleteMsgCmd.accesskey "r">
 <!ENTITY undeleteMsgCmd.label "Restaurar mensaje">
@@ -198,6 +195,8 @@
 <!ENTITY bodySanitized.accesskey "S">
 <!ENTITY bodyAsPlaintext.label "Texto sin formato">
 <!ENTITY bodyAsPlaintext.accesskey "T">
+<!ENTITY bodyAllParts.label "Todas las partes del cuerpo">
+<!ENTITY bodyAllParts.accesskey "T">
 <!ENTITY bodyMenuFeed.label "Descargar cuerpo del mensaje como">
 <!ENTITY bodyMenuFeed.accesskey "c">
 <!ENTITY viewFeedWebPage.label "Página web">
@@ -216,16 +215,6 @@
 <!ENTITY pageSourceCmd.accesskey "F">
 <!ENTITY pageSourceCmd.key "u">
 <!ENTITY findCmd.label "Buscar en este mensaje…">
-<!ENTITY findCmd.accesskey "B">
-<!ENTITY findCmd.key "f">
-<!ENTITY findAgainCmd.label "Repetir la búsqueda">
-<!ENTITY findAgainCmd.accesskey "q">
-<!ENTITY findAgainCmd.key "g">
-<!ENTITY findAgainCmd.key2 "VK_F3">
-<!ENTITY findPrevCmd.label "Encontrar anterior">
-<!ENTITY findPrevCmd.accesskey "i">
-<!ENTITY findPrevCmd.key "g">
-<!ENTITY findPrevCmd.key2 "VK_F3">
 <!ENTITY goMenu.label "Ir">
 <!ENTITY goMenu.accesskey "i">
 <!ENTITY nextMenu.label "Siguiente">

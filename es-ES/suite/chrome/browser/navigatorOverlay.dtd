@@ -14,16 +14,6 @@
 <!ENTITY printSetupCmd.label "Configurar página…">
 <!ENTITY printSetupCmd.accesskey "u">
 <!ENTITY findOnCmd.label "Buscar en esta página…">
-<!ENTITY findOnCmd.accesskey "b">
-<!ENTITY findOnCmd.commandkey "f">
-<!ENTITY findAgainCmd.label "Repetir la búsqueda">
-<!ENTITY findAgainCmd.accesskey "q">
-<!ENTITY findAgainCmd.commandkey "g">
-<!ENTITY findPrevCmd.label "Encontrar anterior">
-<!ENTITY findPrevCmd.accesskey "n">
-<!ENTITY findPrevCmd.commandkey "g">
-<!ENTITY findAgainCmd.commandkey2 "VK_F3">
-<!ENTITY findPrevCmd.commandkey2 "VK_F3">
 <!ENTITY toolbarsCmd.label "Mostrar/Ocultar">
 <!ENTITY toolbarsCmd.accesskey "m">
 <!ENTITY tabbarCmd.label "Barra de pestañas">
