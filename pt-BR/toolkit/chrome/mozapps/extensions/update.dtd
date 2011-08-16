@@ -9,7 +9,7 @@
 <!ENTITY  mismatch.top.label              "Algumas extensões ou temas não são compatíveis com esta versão do &brandShortName; e foram desativadas:">
 <!ENTITY  mismatch.bottom.label           "O &brandShortName; pode verificar se há versões compatíveis destes complementos.">
 
-<!ENTITY  checking.wizard.title           "Verificando extensões e temas incompatíveis">
+<!ENTITY  checking.wizard.title           "Verificando complementos incompatíveis">
 <!ENTITY  checking.top.label              "Verificando atualizações de extensões e temas incompatíveis…">
 <!ENTITY  checking.status                 "Isto pode levar alguns minutos…">
 
