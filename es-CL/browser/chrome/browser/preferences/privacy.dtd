@@ -67,8 +67,8 @@
 <!ENTITY  dontrememberActions.clearHistory.label "limpiar todo el historial actual">
 <!ENTITY  dontrememberActions.post.label         ".">
 
-<!ENTITY  privateBrowsingPermanent.label "Modo de navegación privada permanente">
-<!ENTITY  privateBrowsingPermanent.accesskey "p">
+<!ENTITY  privateBrowsingPermanent2.label "Siempre usar el modo de navegación privada">
+<!ENTITY  privateBrowsingPermanent2.accesskey "p">
 
 
 <!-- LOCALIZATION NOTE:
