@@ -24,8 +24,8 @@
 <!ENTITY warning.updatesecurity.enable.tooltip     "Увімкнути перевірку безпечності оновлень">
 
 <!-- global informations -->
-<!ENTITY info.plugincheck.label                 "Перевірити, чи не застаріли ваші модулі">
-<!ENTITY info.plugincheck.tooltip               "Перевірити, чи не застаріли ваші модулі">
+<!ENTITY info.plugincheck.label                 "Перевірити, чи не застаріли ваші плагіни">
+<!ENTITY info.plugincheck.tooltip               "Перевірити, чи не застаріли ваші плагіни">
 
 <!-- categories / views -->
 <!ENTITY view.search.label                    "Пошук">

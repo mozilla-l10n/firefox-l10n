@@ -17,7 +17,7 @@
 <!ENTITY aboutSupport.appBasicsName "Назва">
 <!ENTITY aboutSupport.appBasicsVersion "Версія">
 <!ENTITY aboutSupport.appBasicsProfileDir "Тека профілю">
-<!ENTITY aboutSupport.appBasicsEnabledPlugins "Увімкнені модулі">
+<!ENTITY aboutSupport.appBasicsEnabledPlugins "Увімкнені плагіни">
 <!ENTITY aboutSupport.appBasicsBuildConfig "Конфігурація збірки">
 <!ENTITY aboutSupport.appBasicsUserAgent "User Agent">
 
