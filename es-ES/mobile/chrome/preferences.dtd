@@ -8,6 +8,7 @@
 <!ENTITY privacy.title "Privacidad y seguridad">
 <!ENTITY allowCookies.title "Permitir cookies">
 <!ENTITY doNotTrack.title "No quiero ser rastreado">
+<!ENTITY masterPassword.title "Usar contraseña maestra">
 <!ENTITY clearPrivateData2.title "Limpiar datos privados">
 <!ENTITY clearPrivateData.button "Limpiar">
 <!ENTITY rememberPasswords.title "Recordar contraseñas">
