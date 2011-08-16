@@ -5,10 +5,7 @@
 <!ENTITY feedback.feedback.good         "Bra">
 <!ENTITY feedback.feedback.bad          "Dåligt">
 
-<!ENTITY feedback.information.title     "Mer information">
-<!ENTITY feedback.about.title           "Om denna beta">
-<!ENTITY feedback.about.button          "Gå till sida">
-
 <!ENTITY feedback.tools.title           "Verktyg">
+<!ENTITY feedback.allowTelemetry.title  "Skicka prestandadata">
 <!ENTITY feedback.forceCompat.title     "Gör alla tillägg kompatibla">
 <!ENTITY feedback.errorConsole.title    "Aktivera felkonsolen">

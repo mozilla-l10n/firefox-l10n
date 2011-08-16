@@ -14,9 +14,6 @@ be replaced at runtime with the name of the server to which the user
 was trying to connect. -->
 <!ENTITY certerror.introPara1 "Du har instruerat &brandShortName; att ansluta
 till <b>#1</b> på ett säkert sätt, men det går inte att bekräfta att anslutningen verkligen är säker.">
-<!ENTITY certerror.introPara2 "När du i normala fall försöker ansluta på ett säkert sätt
-kommer webbplatser att presentera tillförlitlig identifikation som bevisar att
-du kommit till rätt plats. Den här webbplatsens identitet kan däremot inte verifieras.">
 
 <!ENTITY certerror.whatShouldIDo.heading "Vad bör jag göra?">
 <!ENTITY certerror.whatShouldIDo.content "Om du vanligtvis utan problem ansluter

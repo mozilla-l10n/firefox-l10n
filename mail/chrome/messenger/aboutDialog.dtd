@@ -62,22 +62,4 @@
 <!ENTITY channel.description.start  "Du finns för närvarande på uppdateringskanalen ">
 <!ENTITY channel.description.end    ". ">
 
-<!ENTITY channel.change             "Byt">
-
-<!ENTITY channel.release.description       "Använd den beprövade och testade officiella versionen som hundratals miljoner andra världen över. För en snabb och säker surfning, som är enkel att anpassa och med de senaste webbteknikerna.">
-<!ENTITY channel.beta.description          "Upptäck nya och spännande funktioner som är tämligen stabila. Ge feedback för att hjälpa till att förfina och slutföra det som ska komma i den officiella versionen.">
-<!ENTITY channel.aurora.description        "Upptäck de senaste innovationerna i en instabil miljö som främst riktar sig till de våghalsiga. Ge feedback på funktioner och prestanda för att hjälpa oss att besluta vad som ska komma med i den officiella versionen.">
-
-<!-- LOCALIZATION NOTE (channel.selector.start,channel.selector.end): channel.selector.start and
-     channel.selector.end create one sentence, with a channel selection menulist instered in between.
-     This is all in one line, so try to make the localized text short.
-     example: Switch to the [Stable] update channel. -->
-<!ENTITY channel.selector.start          "Byt till uppdateringskanalen">
-<!ENTITY channel.selector.end            "">
-
-<!-- LOCALIZATION NOTE (channel.selector.applyButton): This button applies the user's choice to switch
-     to a new update channel and starts the application update process. -->
-<!ENTITY channel.selector.applyButton    "Verkställ och uppdatera">
-<!ENTITY channel.selector.cancelButton   "Avbryt">
-
 <!ENTITY cmdCloseMac.commandKey "w">

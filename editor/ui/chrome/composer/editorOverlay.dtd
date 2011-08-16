@@ -94,17 +94,6 @@
 <!ENTITY pasteAsQuotationCmd.accesskey "c">
 <!ENTITY pasteAsQuotationCmd.key "o">
 <!ENTITY findCmd.label "Sök och ersätt...">
-<!ENTITY findCmd.accesskey "S">
-<!ENTITY findCmd.key "F">
-<!ENTITY findCmd.key2 "VK_F19">
-<!ENTITY findAgainCmd.label "Sök nästa">
-<!ENTITY findAgainCmd.accesskey "ä">
-<!ENTITY findAgainCmd.key "G">
-<!ENTITY findAgainCmd.key2 "VK_F3">
-<!ENTITY findPrevCmd.label "Sök föregående">
-<!ENTITY findPrevCmd.accesskey "f">
-<!ENTITY findPrevCmd.key "G">
-<!ENTITY findPrevCmd.key2 "VK_F3">
 <!ENTITY enableInlineSpellChecker.label "Stavningskontrollera medan du skriver">
 <!ENTITY enableInlineSpellChecker.accesskey "v">
 <!ENTITY checkSpellingCmd2.label "Stavningskontroll">
@@ -142,23 +131,6 @@
 <!ENTITY createLinkCmd.accesskey "p">
 <!ENTITY editLinkCmd.label "Redigera länk i nytt Composer-fönster">
 <!ENTITY editLinkCmd.accesskey "ä">
-<!-- (Toplevel Edit menu uses utilityOverlay) -->
-<!ENTITY undoCmd.label "Ångra">
-<!ENTITY undoCmd.accesskey "n">
-<!ENTITY redoCmd.label "Gör om">
-<!ENTITY redoCmd.accesskey "r">
-<!ENTITY cutCmd.label "Klipp ut">
-<!ENTITY cutCmd.accesskey "t">
-<!ENTITY copyCmd.label "Kopiera">
-<!ENTITY copyCmd.accesskey "K">
-<!ENTITY pasteCmd.label "Klistra in">
-<!ENTITY pasteCmd.accesskey "i">
-<!ENTITY deleteCmd.label "Ta bort">
-<!ENTITY deleteCmd.accesskey "b">
-<!ENTITY clearCmd.label "Rensa">
-<!ENTITY clearCmd.accesskey "R">
-<!ENTITY selectAllCmd.label "Markera allt">
-<!ENTITY selectAllCmd.accesskey "a">
 
 <!-- Font Face SubMenu -->
 <!ENTITY FontFaceSelect.tooltip "Välj teckensnitt">
@@ -398,6 +370,9 @@
 <!ENTITY openToolbarCmd.tooltip "Öppna en lokal fil">
 <!ENTITY saveToolbarCmd.tooltip "Spara filen lokalt">
 <!ENTITY publishToolbarCmd.tooltip "Publicera fil">
+<!ENTITY cutToolbarCmd.tooltip "Klipp ut">
+<!ENTITY copyToolbarCmd.tooltip "Kopiera">
+<!ENTITY pasteToolbarCmd.tooltip "Klistra in">
 <!ENTITY printToolbarCmd.label "Skriv ut">
 <!ENTITY printToolbarCmd.tooltip "Skriv ut den här sidan">
 <!ENTITY findToolbarCmd.label "Sök">

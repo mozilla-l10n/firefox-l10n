@@ -5,10 +5,10 @@
 <!ENTITY reflowZoom.title                          "Formatera om zoomad text">
 <!ENTITY showImages.title                          "Visa bilder">
 <!ENTITY enableJavaScript.title                    "Aktivera JavaScript">
-<!ENTITY enablePlugins.title                       "Aktivera insticksmoduler">
 <!ENTITY privacy.title                             "Sekretess och säkerhet">
 <!ENTITY allowCookies.title                        "Tillåt kakor">
 <!ENTITY doNotTrack.title                          "Be platser att inte spåra mig">
+<!ENTITY masterPassword.title                      "Använd huvudlösenord">
 <!ENTITY clearPrivateData2.title                   "Rensa ut känslig data">
 <!ENTITY clearPrivateData.button                   "Rensa">
 <!ENTITY rememberPasswords.title                   "Spara lösenord">
@@ -20,4 +20,4 @@
 <!ENTITY homepage.none                             "Tom sida">
 <!ENTITY homepage.default                          "&brandShortName; Start">
 <!ENTITY homepage.currentpage                      "Använd aktuell sida">
-<!ENTITY showCharset.title                         "Visa teckenkodning">
+<!ENTITY showCharsetEncoding.title                 "Visa teckenkodning">

@@ -7,6 +7,7 @@
 <!ENTITY go.label              "Gå till">
 <!ENTITY star.label            "Märk">
 
+<!ENTITY showTabs.label        "Visa flikar">
 <!ENTITY newtab.label          "Ny flik">
 <!ENTITY closetab.label        "Stäng flik">
 
@@ -15,6 +16,7 @@
 <!ENTITY copyAll.label         "Kopiera alla">
 <!ENTITY copylink.label        "Kopiera länkadress">
 <!ENTITY paste.label           "Klistra in">
+<!ENTITY pasteAndGo.label      "Klistra in och öppna">
 <!ENTITY delete.label          "Ta bort">
 <!ENTITY selectAll.label       "Markera allt">
 <!ENTITY noSuggestions.label   "(Inga förslag)">
@@ -67,6 +69,7 @@
 <!ENTITY bookmarkPopup.label       "Bokmärkt sida">
 <!ENTITY bookmarkRemove.label      "Ta bort">
 <!ENTITY bookmarkEdit.label        "Redigera">
+<!ENTITY bookmarkShortcut.label    "Lägg till i startskärm">
 
 <!ENTITY identity.unverifiedsite2 "Webbplatsen har inte presenterat några identitetsuppgifter.">
 <!ENTITY identity.connectedTo2 "Ansluten till">
@@ -92,6 +95,7 @@
 <!ENTITY contextOpenInNewTab.label    "Öppna länk i ny flik">
 <!ENTITY contextSaveLink.label        "Spara länk">
 <!ENTITY contextSaveImage.label       "Spara bild">
+<!ENTITY contextCopyLink.label        "Kopiera länk">
 <!ENTITY contextShareLink.label       "Dela länk">
 <!ENTITY contextShareImage.label      "Dela bild">
 <!ENTITY contextBookmarkLink.label    "Bokmärk länk">
@@ -102,6 +106,7 @@
 <!ENTITY contextFullScreen.label      "Helskärm">
 <!ENTITY contextEditBookmark.label    "Redigera">
 <!ENTITY contextRemoveBookmark.label  "Ta bort">
+<!ENTITY contextShortcutBookmark.label "Lägg till i startskärm">
 
 <!ENTITY pageactions.saveas.pdf      "Spara som PDF">
 <!ENTITY pageactions.share.page      "Dela sida">
@@ -111,5 +116,6 @@
 <!ENTITY pageactions.findInPage      "Sök i sidan">
 <!ENTITY pageactions.search.addNew   "Lägg till sökmotor">
 <!ENTITY pageactions.charEncoding    "Teckenkodning">
+<!ENTITY pageactions.webapps.install "Installera som app">
 
 <!ENTITY appMenu.siteOptions         "Platsalternativ">
