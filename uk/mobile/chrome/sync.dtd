@@ -10,7 +10,7 @@
 
 <!ENTITY sync.setup.title           "З’єднатись з Sync">
 <!ENTITY sync.setup.jpake           "На під’єднаному до Firefox Sync комп’ютері, перейдіть у налаштування синхронізації та виберіть «Додати пристрій»">
-<!ENTITY sync.fallback              "Я не біля мого комп’ютера…">
+<!ENTITY sync.fallback              "Я не біля свого комп’ютера…">
 <!ENTITY sync.setup.manual          "Введіть дані вашого облікового запису Sync">
 <!ENTITY sync.account               "Назва обл. запису">
 <!ENTITY sync.password              "Пароль">
