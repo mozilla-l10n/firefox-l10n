@@ -64,14 +64,8 @@
 <!ENTITY publishAsCmd.accesskey "m">
 <!ENTITY saveAsChangeEncodingCmd.label "Guardar y cambiar codif. de caracteres">
 <!ENTITY saveAsChangeEncodingCmd.accesskey "E">
-<!ENTITY printSetupCmd.label "Configurar página…">
-<!ENTITY printSetupCmd.accesskey "u">
 <!ENTITY printCmd.label "Imprimir…">
 <!ENTITY printCmd.accesskey "P">
-<!ENTITY printCmd.key "P">
-<!ENTITY closeCmd.label "Cerrar">
-<!ENTITY closeCmd.accesskey "C">
-<!ENTITY closeCmd.key "W">
 <!ENTITY editMenu.label "Editar">
 <!ENTITY editMenu.accesskey "E">
 <!ENTITY pasteNoFormatting.label "Pegar sin formato">
@@ -85,17 +79,6 @@
 <!ENTITY pasteAsQuotationCmd.accesskey "i">
 <!ENTITY pasteAsQuotationCmd.key "o">
 <!ENTITY findCmd.label "Buscar y reemplazar…">
-<!ENTITY findCmd.accesskey "B">
-<!ENTITY findCmd.key "F">
-<!ENTITY findCmd.key2 "VK_F19">
-<!ENTITY findAgainCmd.label "Repetir la búsqueda">
-<!ENTITY findAgainCmd.accesskey "q">
-<!ENTITY findAgainCmd.key "G">
-<!ENTITY findAgainCmd.key2 "VK_F3">
-<!ENTITY findPrevCmd.label "Buscar anterior">
-<!ENTITY findPrevCmd.accesskey "i">
-<!ENTITY findPrevCmd.key "G">
-<!ENTITY findPrevCmd.key2 "VK_F3">
 <!ENTITY enableInlineSpellChecker.label "Revisar ortografía según escribe">
 <!ENTITY enableInlineSpellChecker.accesskey "R">
 <!ENTITY checkSpellingCmd2.label "Revisar ortografía">
