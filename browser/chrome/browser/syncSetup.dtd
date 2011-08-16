@@ -24,6 +24,8 @@
 
 <!-- New Account Page 1: Basic Account Info -->
 <!ENTITY setup.newAccountDetailsPage.title.label "Detalles de cuenta">
+<!ENTITY setup.choosePassword.label      "Seleccione una contraseña">
+<!ENTITY setup.choosePassword.accesskey  "e">
 <!ENTITY setup.confirmPassword.label "Confirmar contraseña">
 <!ENTITY setup.confirmPassword.accesskey "C">
 <!ENTITY setup.emailAddress.label "Correo electrónico">
