@@ -77,9 +77,6 @@
 <!ENTITY printCmd.label           "Drukuj…">
 <!ENTITY printCmd.accesskey       "D">
 <!ENTITY printCmd.key             "P">
-<!ENTITY closeCmd.label           "Zamknij">
-<!ENTITY closeCmd.accesskey       "Z">
-<!ENTITY closeCmd.key             "W">
 
 <!-- Edit menu items -->
 <!ENTITY editMenu.label              "Edycja">
