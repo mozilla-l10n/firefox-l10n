@@ -5,7 +5,7 @@
 <!ENTITY reflowZoom.title                          "Текст за шириною екрана">
 <!ENTITY showImages.title                          "Показувати малюнки">
 <!ENTITY enableJavaScript.title                    "Дозволити JavaScript">
-<!ENTITY enablePlugins.title                       "Дозволити модулі">
+<!ENTITY enablePlugins.title                       "Дозволити плагіни">
 <!ENTITY privacy.title                             "Приватність та безпека">
 <!ENTITY allowCookies.title                        "Дозволити куки">
 <!ENTITY doNotTrack.title                          "Казати сайтам не відслідковувати мене">
