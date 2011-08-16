@@ -9,7 +9,7 @@
 
 <!ENTITY setup.choicePage.title.label     "Umetumia &syncBrand.fullName.label; awali?">
 <!ENTITY setup.choicePage.new.label       "Sijatumia &syncBrand.shortName.label; hapo awali">
-<!ENTITY setup.choicePage.existing.label  "Tayari ninatumia &syncBrand.fullName.label; kwenye tarakilishi nyingine">
+<!ENTITY setup.choicePage.existing.label  "Tayari ninatumia &syncBrand.shortName.label; kwenye tarakilishi nyingine">
 <!-- New Account AND Existing Account -->
 
 <!ENTITY server.label               "Sava">
@@ -99,7 +99,7 @@
 <!-- Confirm Merge Options -->
 
 <!ENTITY setup.optionsConfirmPage.title "Thibitisha">
-<!ENTITY confirm.merge.label    "&syncBrand.shortName.label; sasa itachanganya data ya kivinjari chote cha tarakilishi hii na akaunti yako ya Ulandanishi.">
+<!ENTITY confirm.merge.label    "&syncBrand.fullName.label; sasa itachanganya data ya kivinjari chote cha tarakilishi hii na akaunti yako ya Ulandanishi.">
 <!ENTITY confirm.client2.label         "Onyo: Data ya &brandShortName; ifuatayo kwenye tarakilishi hii itafutwa:">
 <!ENTITY confirm.client.moreinfo.label "&brandShortName; itafungua &syncBrand.fullName.label; data kwa tarakilishi hii.">
 <!ENTITY confirm.server2.label         "Onyo: Vifaa vifuatavyo vitaandikwa juu na data yako ya kienyeji:">
