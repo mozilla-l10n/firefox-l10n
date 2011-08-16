@@ -39,4 +39,4 @@
 <!ENTITY report.submitted                                    "Звіт відіслано.">
 <!ENTITY report.disabled                                     "Звітування вимкнене.">
 <!ENTITY report.failed                                       "Відіслати не вдалось.">
-Д<!ENTITY report.unavailable                                  "Звіт недоступний.">
+<!ENTITY report.unavailable                                  "Звіт недоступний.">
