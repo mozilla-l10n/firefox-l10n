@@ -8,6 +8,7 @@
 <!ENTITY privacy.title "Приватность и защита">
 <!ENTITY allowCookies.title "Принимать куки">
 <!ENTITY doNotTrack.title "Просить сайты не следить">
+<!ENTITY masterPassword.title "Использовать мастер-пароль">
 <!ENTITY clearPrivateData2.title "Очистка личных данных">
 <!ENTITY clearPrivateData.button "Очистить">
 <!ENTITY rememberPasswords.title "Запоминать пароли">
