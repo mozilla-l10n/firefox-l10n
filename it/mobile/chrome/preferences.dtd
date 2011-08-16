@@ -8,6 +8,7 @@
 <!ENTITY privacy.title "Privacy e sicurezza">
 <!ENTITY allowCookies.title "Permetti cookie">
 <!ENTITY doNotTrack.title "Attiva anti-tracciamento">
+<!ENTITY masterPassword.title "Usa password principale">
 <!ENTITY clearPrivateData2.title "Elimina dati personali">
 <!ENTITY clearPrivateData.button "Elimina">
 <!ENTITY rememberPasswords.title "Ricorda password">
