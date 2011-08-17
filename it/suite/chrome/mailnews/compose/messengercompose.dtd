@@ -32,11 +32,6 @@
 <!ENTITY sendLaterCmd.label "Spedisci più tardi">
 <!ENTITY sendLaterCmd.keycode "VK_RETURN">
 <!ENTITY sendLaterCmd.accesskey "t">
-<!ENTITY printSetupCmd.label "Impostazioni di stampa…">
-<!ENTITY printSetupCmd.accesskey "I">
-<!ENTITY printCmd.label "Stampa…">
-<!ENTITY printCmd.key "P">
-<!ENTITY printCmd.accesskey "m">
 <!ENTITY editRewrapCmd.label "Riformatta">
 <!ENTITY editRewrapCmd.key "R">
 <!ENTITY editRewrapCmd.accesskey "m">

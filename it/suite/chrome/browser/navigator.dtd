@@ -27,7 +27,6 @@
 <!ENTITY printPreviewCmd.accesskey "p">
 <!ENTITY printCmd.label "Stampa…">
 <!ENTITY printCmd.accesskey "m">
-<!ENTITY printCmd.commandkey "p">
 <!ENTITY toolbarsCmd.label "Mostra/Nascondi">
 <!ENTITY toolbarsCmd.accesskey "M">
 <!ENTITY navbarCmd.label "Barra di navigazione">
