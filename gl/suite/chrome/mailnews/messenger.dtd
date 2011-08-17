@@ -109,11 +109,8 @@
 <!ENTITY downloadFlaggedCmd.accesskey "b">
 <!ENTITY printCmd.label "Imprimir…">
 <!ENTITY printCmd.accesskey "p">
-<!ENTITY printCmd.key "p">
 <!ENTITY printPreviewCmd.label "Previsualización da impresión">
 <!ENTITY printPreviewCmd.accesskey "v">
-<!ENTITY printSetupCmd.label "Configuración da páxina…">
-<!ENTITY printSetupCmd.accesskey "u">
 
 <!-- Edit Menu -->
 <!ENTITY deleteMsgCmd.label "Eliminar mensaxe">
@@ -252,6 +249,8 @@
 <!ENTITY bodySanitized.accesskey "s">
 <!ENTITY bodyAsPlaintext.label "Texto sen formato">
 <!ENTITY bodyAsPlaintext.accesskey "T">
+<!ENTITY bodyAllParts.label "Todas as partes do corpo">
+<!ENTITY bodyAllParts.accesskey "a">
 
 <!ENTITY bodyMenuFeed.label "Descargar corpo da mensaxe como">
 <!ENTITY bodyMenuFeed.accesskey "D">
