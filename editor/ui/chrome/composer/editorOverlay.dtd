@@ -60,6 +60,7 @@
 <!ENTITY saveCmd.key "S">
 <!ENTITY saveAsCmd.label "Gardar como…">
 <!ENTITY saveAsCmd.accesskey "c">
+
 <!ENTITY publishCmd.label "Publicar">
 <!ENTITY publishCmd.accesskey "b">
 <!ENTITY publishCmd.key "S">
@@ -72,9 +73,6 @@
 <!ENTITY printCmd.label "Imprimir…">
 <!ENTITY printCmd.accesskey "I">
 <!ENTITY printCmd.key "P">
-<!ENTITY closeCmd.label "Pechar">
-<!ENTITY closeCmd.accesskey "P">
-<!ENTITY closeCmd.key "W">
 
 <!-- Edit menu items -->
 <!ENTITY editMenu.label "Editar">
@@ -90,17 +88,6 @@
 <!ENTITY pasteAsQuotationCmd.accesskey "r">
 <!ENTITY pasteAsQuotationCmd.key "o">
 <!ENTITY findCmd.label "Localizar e substituír…">
-<!ENTITY findCmd.accesskey "L">
-<!ENTITY findCmd.key "F">
-<!ENTITY findCmd.key2 "VK_F19">
-<!ENTITY findAgainCmd.label "Localizar de novo">
-<!ENTITY findAgainCmd.accesskey "n">
-<!ENTITY findAgainCmd.key "G">
-<!ENTITY findAgainCmd.key2 "VK_F3">
-<!ENTITY findPrevCmd.label "Localizar anterior">
-<!ENTITY findPrevCmd.accesskey "a">
-<!ENTITY findPrevCmd.key "G">
-<!ENTITY findPrevCmd.key2 "VK_F3">
 <!ENTITY enableInlineSpellChecker.label "Verificar ortografía mentres escribe">
 <!ENTITY enableInlineSpellChecker.accesskey "e">
 <!ENTITY checkSpellingCmd2.label "Verificación ortográfica">
@@ -138,23 +125,6 @@
 <!ENTITY createLinkCmd.accesskey "z">
 <!ENTITY editLinkCmd.label "Editar ligazón no novo Composer">
 <!ENTITY editLinkCmd.accesskey "i">
-<!-- (Toplevel Edit menu uses utilityOverlay) -->
-<!ENTITY undoCmd.label "Desfacer">
-<!ENTITY undoCmd.accesskey "D">
-<!ENTITY redoCmd.label "Refacer">
-<!ENTITY redoCmd.accesskey "R">
-<!ENTITY cutCmd.label "Cortar">
-<!ENTITY cutCmd.accesskey "C">
-<!ENTITY copyCmd.label "Copiar">
-<!ENTITY copyCmd.accesskey "C">
-<!ENTITY pasteCmd.label "Pegar">
-<!ENTITY pasteCmd.accesskey "P">
-<!ENTITY deleteCmd.label "Borrar">
-<!ENTITY deleteCmd.accesskey "o">
-<!ENTITY clearCmd.label "Limpar">
-<!ENTITY clearCmd.accesskey "L">
-<!ENTITY selectAllCmd.label "Seleccionar todo">
-<!ENTITY selectAllCmd.accesskey "o">
 
 <!-- Font Face SubMenu -->
 <!ENTITY FontFaceSelect.tooltip "Escoller un tipo de letra">
@@ -395,11 +365,14 @@
 <!ENTITY openToolbarCmd.tooltip "Abrir un ficheiro local">
 <!ENTITY saveToolbarCmd.tooltip "Gardar o ficheiro nunha localización local">
 <!ENTITY publishToolbarCmd.tooltip "Cargar ficheiro nunha localización remota">
+<!ENTITY cutToolbarCmd.tooltip "Cortar">
+<!ENTITY copyToolbarCmd.tooltip "Copiar">
+<!ENTITY pasteToolbarCmd.tooltip "Pegar">
 <!ENTITY printToolbarCmd.label "Imprimir">
 <!ENTITY printToolbarCmd.tooltip "Imprimir esta páxina">
 <!ENTITY findToolbarCmd.label "Localizar">
 <!ENTITY findToolbarCmd.tooltip "Localizar texto na páxina">
-<!ENTITY spellToolbarCmd.label "Ortografia">
+<!ENTITY spellToolbarCmd.label "Ortografía">
 <!ENTITY spellToolbarCmd.tooltip "Verificación ortográfica da selección ou da páxina enteira">
 <!ENTITY imageToolbarCmd.label "Imaxe">
 <!ENTITY imageToolbarCmd.tooltip "Inserir imaxe ou editar as propiedades das imaxes seleccionadas">

@@ -227,6 +227,8 @@
 <!ENTITY bodySanitized.accesskey "s">
 <!ENTITY bodyAsPlaintext.label "Texto sen formato">
 <!ENTITY bodyAsPlaintext.accesskey "f">
+<!ENTITY bodyAllParts.label "Todas as partes do corpo">
+<!ENTITY bodyAllParts.accesskey "a">
 
 <!ENTITY bodyMenuFeed.label "Descargar corpo da mensaxe como">
 <!ENTITY bodyMenuFeed.accesskey "c">
