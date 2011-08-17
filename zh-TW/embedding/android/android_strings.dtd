@@ -16,3 +16,8 @@
 <!ENTITY  sending_crash_report "正在傳送錯誤報告\u2026">
 <!ENTITY  exit_label "結束">
 <!ENTITY  continue_label "繼續">
+
+<!ENTITY  launcher_shortcuts_title "&brandShortName; 行動網頁應用程式">
+<!ENTITY  launcher_shortcuts_empty "找不到任何行動網頁應用程式">
+
+<!ENTITY choose_file "選擇檔案">

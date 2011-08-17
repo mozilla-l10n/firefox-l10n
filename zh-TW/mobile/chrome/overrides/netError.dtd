@@ -7,20 +7,19 @@
 <!-- Specific error messages -->
 
 <!ENTITY connectionFailure.title "連線失敗">
-<!ENTITY connectionFailure.longDesc "&sharedLongDesc;">
+<!ENTITY connectionFailure.longDesc "&sharedLongDesc2;">
 
 <!ENTITY deniedPortAccess.title "此網址已被限制">
 <!ENTITY deniedPortAccess.longDesc "">
 
 <!ENTITY dnsNotFound.title "找不到伺服器">
-<!ENTITY dnsNotFound.longDesc "<ul>
-   <li>請檢查網址是否有打錯？例如把
-   <strong>www</strong>.example.com 打成
-   <strong>ww</strong>.example.com</li>
-   <li>若無法載入任何網站，請檢查您的網路連線狀態。</li>
-   <li>若電腦或網路被防火牆或 Proxy 保護，請確定
-   &brandShortName; 被允許存取網路。</li> </ul>
-                    ">
+<!ENTITY dnsNotFound.longDesc2 "<ul>
+  <li>請檢查有沒有打錯網址，像是不小心把
+    <strong>www</strong>.example.com 打成
+    <strong>ww</strong>.example.com</li>
+  <li>若您還是無法載入任何頁面，請檢查您裝置的數據或 Wi-Fi 連線。</li>
+</ul>
+">
 
 <!ENTITY fileNotFound.title "找不到檔案">
 <!ENTITY fileNotFound.longDesc "
@@ -46,7 +45,7 @@
                 ">
 
 <!ENTITY netInterrupt.title "資料傳輸中斷">
-<!ENTITY netInterrupt.longDesc "&sharedLongDesc;">
+<!ENTITY netInterrupt.longDesc "&sharedLongDesc2;">
 
 <!ENTITY netOffline.title "離線模式">
 <!ENTITY netOffline.longDesc2 "<ul>
@@ -61,10 +60,10 @@
 <!ENTITY unsafeContentType.longDesc "<ul> <li>請向網站擁有者回報此問題。</li> </ul>">
 
 <!ENTITY netReset.title "連線被重設">
-<!ENTITY netReset.longDesc "&sharedLongDesc;">
+<!ENTITY netReset.longDesc "&sharedLongDesc2;">
 
 <!ENTITY netTimeout.title "連線已逾時">
-<!ENTITY netTimeout.longDesc "&sharedLongDesc;">
+<!ENTITY netTimeout.longDesc "&sharedLongDesc2;">
 
 <!ENTITY protocolNotFound.title "看不懂網址">
 <!ENTITY protocolNotFound.longDesc "
@@ -82,12 +81,9 @@
 ">
 
 <!ENTITY proxyResolveFailure.title "找不到 Proxy 伺服器">
-<!ENTITY proxyResolveFailure.longDesc "
-<ul>
-  <li>請檢查 Proxy 設定是否正確。</li>
-  <li>請檢查您的網路連線狀態。</li>
-  <li>若電腦或網路被防火牆或 Proxy 保護，請確定
-    &brandShortName; 被允許存取網路。</li>
+<!ENTITY proxyResolveFailure.longDesc2 "<ul>
+  <li>請檢查代理伺服器設定是否正確。</li>
+  <li>請確定您的裝置有可用的數據或 Wi-Fi 連線。</li>
 </ul>
 ">
 
@@ -122,20 +118,11 @@
 </ul>
 ">
 
-<!ENTITY sharedLongDesc "
-<ul>
-  <li>該網站可能暫時無法使用或太過忙碌，請過幾分鐘後再試試。</li>
-  <li>若無法載入任何網站，請檢查您的網路連線狀態。</li>
-  <li>若電腦或網路被防火牆或 Proxy 保護，請確定
-    &brandShortName; 被允許存取網路。</li>
+<!ENTITY sharedLongDesc2 "<ul>
+  <li>網站可能太忙碌或暫時無法使用。請稍候再試一次。</li>
+  <li>若您無法載入任何頁面，請檢查您的數據或 Wi-Fi 連線。</li>
 </ul>
 ">
-
-<!ENTITY malwareBlocked.title "可能是有害網站！">
-<!ENTITY malwareBlocked.longDesc "<p>有害網站會嘗試安裝能竊取隱私資訊、利用您的電腦攻擊他人或破壞作業系統等的惡意軟體到您的電腦上。</p> <p>如果您是網頁擁有者，發現您的網站被誤認為有害網站時可以 <a href='http://www.stopbadware.org/home/reviewinfo' >請求重新審核</a>。</p>">
-
-<!ENTITY phishingBlocked.title "可能是偽造網站！">
-<!ENTITY phishingBlocked.longDesc "<p>在此網頁上輸入的任何個人資訊可能會導致身分被盜用或遭受其他詐騙行為。</p> <p>這些類型的偽造網頁含有常見的詐騙攻擊特徵，可能是罪犯所製作用來模仿您信任的合法來源之詐騙網頁。</p>">
 
 <!ENTITY cspFrameAncestorBlocked.title "被內容安全政策封鎖">
 <!ENTITY cspFrameAncestorBlocked.longDesc "<p>&brandShortName; 阻止了這個頁面載入，因為這個頁面的內容安全政策不允許其以這種方式被載入。</p>">

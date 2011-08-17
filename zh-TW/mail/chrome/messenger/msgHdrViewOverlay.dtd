@@ -59,6 +59,7 @@
 <!ENTITY editMessageButton.label "編輯…">
 <!ENTITY hdrArchiveButton.label "備存">
 <!ENTITY hdrArchiveButton.tooltip "備存此郵件">
+<!ENTITY hdrSmartReplyButton.label "智慧回覆">
 <!ENTITY hdrReplyButton.label "回覆">
 <!ENTITY hdrReplyButton.tooltip "回覆此郵件">
 <!ENTITY hdrReplyAllButton.label "全部回覆">

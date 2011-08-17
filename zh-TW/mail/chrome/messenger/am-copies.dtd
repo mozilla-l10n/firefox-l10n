@@ -5,7 +5,7 @@
 <!ENTITY fccMailFolder.label "複製一份到:">
 <!ENTITY fccMailFolder.accesskey "P">
 <!ENTITY fccReplyFollowsParent.label "將回信與原信放在同一郵件匣 (像 Gmail 那樣)">
-<!ENTITY fccReplyFollowsParent.accesskey "c">
+<!ENTITY fccReplyFollowsParent.accesskey "r">
 <!-- LOCALIZATION NOTE (ccAddress.label): do not translate "Cc" in below line -->
 <!ENTITY ccAddress.label "寄送副本 (Cc) 至:">
 <!ENTITY ccAddress.accesskey "C">

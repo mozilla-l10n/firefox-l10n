@@ -73,9 +73,6 @@
 <!ENTITY printCmd.label "列印…">
 <!ENTITY printCmd.accesskey "P">
 <!ENTITY printCmd.key "P">
-<!ENTITY closeCmd.label "關閉">
-<!ENTITY closeCmd.accesskey "C">
-<!ENTITY closeCmd.key "W">
 
 <!-- Edit menu items -->
 <!ENTITY editMenu.label "編輯">
@@ -91,17 +88,6 @@
 <!ENTITY pasteAsQuotationCmd.accesskey "Q">
 <!ENTITY pasteAsQuotationCmd.key "o">
 <!ENTITY findCmd.label "尋找及取代…">
-<!ENTITY findCmd.accesskey "F">
-<!ENTITY findCmd.key "F">
-<!ENTITY findCmd.key2 "VK_F19">
-<!ENTITY findAgainCmd.label "找下一個">
-<!ENTITY findAgainCmd.accesskey "g">
-<!ENTITY findAgainCmd.key "G">
-<!ENTITY findAgainCmd.key2 "VK_F3">
-<!ENTITY findPrevCmd.label "找前一個">
-<!ENTITY findPrevCmd.accesskey "v">
-<!ENTITY findPrevCmd.key "G">
-<!ENTITY findPrevCmd.key2 "VK_F3">
 <!ENTITY enableInlineSpellChecker.label "即時拼字檢查">
 <!ENTITY enableInlineSpellChecker.accesskey "S">
 <!ENTITY checkSpellingCmd2.label "檢查拼字">
@@ -139,23 +125,6 @@
 <!ENTITY createLinkCmd.accesskey "k">
 <!ENTITY editLinkCmd.label "用新編輯器視窗編輯此鏈結">
 <!ENTITY editLinkCmd.accesskey "i">
-<!-- (Toplevel Edit menu uses utilityOverlay) -->
-<!ENTITY undoCmd.label "復原">
-<!ENTITY undoCmd.accesskey "U">
-<!ENTITY redoCmd.label "取消「復原」">
-<!ENTITY redoCmd.accesskey "R">
-<!ENTITY cutCmd.label "剪下">
-<!ENTITY cutCmd.accesskey "t">
-<!ENTITY copyCmd.label "複製">
-<!ENTITY copyCmd.accesskey "C">
-<!ENTITY pasteCmd.label "貼上">
-<!ENTITY pasteCmd.accesskey "P">
-<!ENTITY deleteCmd.label "刪除項目">
-<!ENTITY deleteCmd.accesskey "D">
-<!ENTITY clearCmd.label "清除">
-<!ENTITY clearCmd.accesskey "l">
-<!ENTITY selectAllCmd.label "全選">
-<!ENTITY selectAllCmd.accesskey "A">
 
 <!-- Font Face SubMenu -->
 <!ENTITY FontFaceSelect.tooltip "選擇字型">
@@ -396,6 +365,9 @@
 <!ENTITY openToolbarCmd.tooltip "開啟本機檔案">
 <!ENTITY saveToolbarCmd.tooltip "儲存到本機位置">
 <!ENTITY publishToolbarCmd.tooltip "上傳檔案到遠端位址">
+<!ENTITY cutToolbarCmd.tooltip "剪下">
+<!ENTITY copyToolbarCmd.tooltip "複製">
+<!ENTITY pasteToolbarCmd.tooltip "貼上">
 <!ENTITY printToolbarCmd.label "列印">
 <!ENTITY printToolbarCmd.tooltip "列印頁面">
 <!ENTITY findToolbarCmd.label "搜尋">

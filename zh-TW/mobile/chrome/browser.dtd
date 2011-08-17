@@ -7,6 +7,7 @@
 <!ENTITY go.label              "衝">
 <!ENTITY star.label            "星號">
 
+<!ENTITY showTabs.label        "顯示分頁標籤">
 <!ENTITY newtab.label          "開新分頁">
 <!ENTITY closetab.label        "關閉分頁">
 
@@ -15,6 +16,7 @@
 <!ENTITY copyAll.label         "全部複製">
 <!ENTITY copylink.label        "複製鏈結網址">
 <!ENTITY paste.label           "貼上">
+<!ENTITY pasteAndGo.label      "貼上並瀏覽">
 <!ENTITY delete.label          "刪除">
 <!ENTITY selectAll.label       "全選">
 <!ENTITY noSuggestions.label   "(沒有建議)">
@@ -67,6 +69,7 @@
 <!ENTITY bookmarkPopup.label       "此頁已加入書籤">
 <!ENTITY bookmarkRemove.label      "移除">
 <!ENTITY bookmarkEdit.label        "編輯">
+<!ENTITY bookmarkShortcut.label    "新增至首頁畫面">
 
 <!ENTITY identity.unverifiedsite2 "此網站沒有提供身分識別資訊。">
 <!ENTITY identity.connectedTo2 "連線到">
@@ -92,6 +95,7 @@
 <!ENTITY contextOpenInNewTab.label    "用新分頁開啟鏈結">
 <!ENTITY contextSaveLink.label        "儲存鏈結">
 <!ENTITY contextSaveImage.label       "儲存圖片">
+<!ENTITY contextCopyLink.label        "複製鏈結">
 <!ENTITY contextShareLink.label       "分享鏈結">
 <!ENTITY contextShareImage.label      "分享圖片">
 <!ENTITY contextBookmarkLink.label    "書籤鏈結">
@@ -102,6 +106,7 @@
 <!ENTITY contextFullScreen.label      "全螢幕">
 <!ENTITY contextEditBookmark.label    "編輯">
 <!ENTITY contextRemoveBookmark.label  "移除">
+<!ENTITY contextShortcutBookmark.label "新增至首頁畫面">
 
 <!ENTITY pageactions.saveas.pdf      "另存成 PDF">
 <!ENTITY pageactions.share.page      "分享頁面">
@@ -111,5 +116,6 @@
 <!ENTITY pageactions.findInPage      "尋找">
 <!ENTITY pageactions.search.addNew   "新增搜尋引擎">
 <!ENTITY pageactions.charEncoding    "語言及字元編碼">
+<!ENTITY pageactions.webapps.install "安裝為行動應用程式">
 
 <!ENTITY appMenu.siteOptions         "網站選項">
