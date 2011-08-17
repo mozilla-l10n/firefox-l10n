@@ -10,7 +10,7 @@
 <!ENTITY manualMarkModeMove.accesskey "o">
 <!ENTITY manualMarkModeDelete.label "Eliminali">
 <!ENTITY manualMarkModeDelete.accesskey "E">
-<!ENTITY markAsReadOnSpam.label "Segna come letti tutti i messaggi riconosciuti come posta indesiderata">
+<!ENTITY markAsReadOnSpam.label "Segna come già letti tutti i messaggi riconosciuti come posta indesiderata">
 <!ENTITY markAsReadOnSpam.accesskey "M">
 <!ENTITY enableJunkLogging.label "Attiva registro attività per la posta indesiderata">
 <!ENTITY enableJunkLogging.accesskey "A">

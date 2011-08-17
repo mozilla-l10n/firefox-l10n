@@ -2,9 +2,9 @@
 <!ENTITY helpMenu.accesskey "u">
 <!ENTITY helpMenuWin.label "Aiuto">
 <!ENTITY helpMenuWin.accesskey "u">
-<!ENTITY helpTroubleshootingInfo.label "Informazioni sulla risoluzione dei problemi">
-<!ENTITY helpTroubleshootingInfo.accesskey "f">
-<!ENTITY helpSafeMode.label "Riavvia con i componenti aggiuntivi disabilitati…">
+<!ENTITY helpTroubleshootingInfo.label "Risoluzione dei problemi">
+<!ENTITY helpTroubleshootingInfo.accesskey "s">
+<!ENTITY helpSafeMode.label "Riavvia disattivando i componenti aggiuntivi">
 <!ENTITY helpSafeMode.accesskey "R">
 <!ENTITY releaseCmd2.label "Note di versione">
 <!ENTITY releaseCmd2.accesskey "N">

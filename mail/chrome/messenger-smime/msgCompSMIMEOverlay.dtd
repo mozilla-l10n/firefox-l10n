@@ -1,5 +1,5 @@
 <!ENTITY menu_securityEncryptRequire.label "Cifra questo messaggio">
-<!ENTITY menu_securityEncryptRequire.accesskey "R">
+<!ENTITY menu_securityEncryptRequire.accesskey "C">
 <!ENTITY menu_securitySign.label "Apponi firma digitale">
 <!ENTITY menu_securitySign.accesskey "A">
 <!ENTITY menu_securityStatus.label "Sicurezza messaggio">

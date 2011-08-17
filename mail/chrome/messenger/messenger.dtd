@@ -331,7 +331,7 @@
 <!ENTITY createFilter.label "Crea un filtro dal messaggio…">
 <!ENTITY createFilter.accesskey "f">
 <!ENTITY moveMsgToMenu.label "Sposta in">
-<!ENTITY moveMsgToMenu.accesskey "S">
+<!ENTITY moveMsgToMenu.accesskey "p">
 <!ENTITY moveCopyMsgRecentMenu.label "Cartelle recenti">
 <!ENTITY moveCopyMsgRecentMenu.accesskey "r">
 <!ENTITY copyMessageLocation.label "Copia l'ubicazione del messaggio">
@@ -367,37 +367,37 @@
 <!ENTITY tagCmd8.key "8">
 <!ENTITY tagCmd9.key "9">
 <!ENTITY markMenu.label "Segna">
-<!ENTITY markMenu.accesskey "M">
+<!ENTITY markMenu.accesskey "S">
 <!ENTITY toggleReadCmd.key "m">
-<!ENTITY markAsReadCmd.label "Letto">
-<!ENTITY markAsReadCmd.accesskey "e">
+<!ENTITY markAsReadCmd.label "Già letto">
+<!ENTITY markAsReadCmd.accesskey "G">
 <!ENTITY markAsUnreadCmd.label "Non letto">
 <!ENTITY markAsUnreadCmd.accesskey "N">
-<!ENTITY markThreadAsReadCmd.label "Discussione letta">
-<!ENTITY markThreadAsReadCmd.accesskey "A">
+<!ENTITY markThreadAsReadCmd.label "Discussione già letta">
+<!ENTITY markThreadAsReadCmd.accesskey "D">
 <!ENTITY markThreadAsReadCmd.key "r">
 <!ENTITY markReadByDateCmd.label "Letto per data">
-<!ENTITY markReadByDateCmd.accesskey "D">
+<!ENTITY markReadByDateCmd.accesskey "L">
 <!ENTITY markReadByDateCmd.key "c">
 <!ENTITY markAllReadCmd.label "Tutti letti">
-<!ENTITY markAllReadCmd.accesskey "u">
+<!ENTITY markAllReadCmd.accesskey "T">
 <!ENTITY markAllReadCmd.key "c">
 <!ENTITY markStarredCmd.label "Aggiungi a Speciali">
-<!ENTITY markStarredCmd.accesskey "S">
+<!ENTITY markStarredCmd.accesskey "A">
 <!ENTITY markStarredCmd.key "S">
 <!ENTITY markAsJunkCmd.label "Indesiderato">
 <!ENTITY markAsJunkCmd.accesskey "I">
 <!ENTITY markAsJunkCmd.key "j">
 <!ENTITY markAsNotJunkCmd.label "Rimuovi indesiderato">
-<!ENTITY markAsNotJunkCmd.accesskey "n">
+<!ENTITY markAsNotJunkCmd.accesskey "R">
 <!ENTITY markAsNotJunkCmd.key "j">
 <!ENTITY recalculateJunkScoreCmd.label "Eseguire i controlli di posta indesiderata">
-<!ENTITY recalculateJunkScoreCmd.accesskey "C">
+<!ENTITY recalculateJunkScoreCmd.accesskey "E">
 <!ENTITY openMessageWindowCmd.label "Apri messaggio">
 <!ENTITY openMessageWindowCmd.accesskey "A">
 <!ENTITY openMessageWindowCmd.key "o">
 <!ENTITY openConversationCmd.label "Apri nella conversazione">
-<!ENTITY openConversationCmd.accesskey "p">
+<!ENTITY openConversationCmd.accesskey "z">
 <!ENTITY openConversationCmd.key "A">
 <!ENTITY openFeedMessage.label "Apri il messaggio">
 <!ENTITY openFeedMessage.accesskey "A">
@@ -519,9 +519,9 @@
 <!ENTITY folderContextSendUnsentMessages.accesskey "S">
 <!ENTITY folderContextUnsubscribe.label "Annulla Sottoscrizione">
 <!ENTITY folderContextUnsubscribe.accesskey "A">
-<!ENTITY folderContextMarkNewsgroupRead.label "Segna il gruppo di discussione come letto">
+<!ENTITY folderContextMarkNewsgroupRead.label "Segna il gruppo di discussione come già letto">
 <!ENTITY folderContextMarkNewsgroupRead.accesskey "c">
-<!ENTITY folderContextMarkMailFolderRead.label "Segna la cartella come letta">
+<!ENTITY folderContextMarkMailFolderRead.label "Segna la cartella come già letta">
 <!ENTITY folderContextMarkMailFolderRead.accesskey "M">
 <!ENTITY folderContextSubscribe.label "Sottoscrivi…">
 <!ENTITY folderContextSubscribe.accesskey "v">
@@ -605,7 +605,7 @@
 <!ENTITY contextForwardAsAttachment.label "Inoltra come allegato">
 <!ENTITY contextForwardAsAttachment.accesskey "I">
 <!ENTITY contextMoveMsgMenu.label "Sposta in">
-<!ENTITY contextMoveMsgMenu.accesskey "S">
+<!ENTITY contextMoveMsgMenu.accesskey "p">
 <!ENTITY contextMoveCopyMsgRecentMenu.label "Recenti">
 <!ENTITY contextMoveCopyMsgRecentMenu.accesskey "r">
 <!ENTITY contextCopyMsgMenu.label "Copia in">

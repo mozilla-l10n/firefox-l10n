@@ -47,10 +47,10 @@
 <!ENTITY otherActionsOpenInNewWindow.accesskey "f">
 <!ENTITY otherActionsOpenInNewTab.label "apri in nuova scheda">
 <!ENTITY otherActionsOpenInNewTab.accesskey "a">
-<!ENTITY markAsReadMenuItem.label "segna come letto">
-<!ENTITY markAsReadMenuItem.accesskey "r">
+<!ENTITY markAsReadMenuItem.label "segna come già letto">
+<!ENTITY markAsReadMenuItem.accesskey "e">
 <!ENTITY markAsUnreadMenuItem.label "segna come non letto">
-<!ENTITY markAsUnreadMenuItem.accesskey "r">
+<!ENTITY markAsUnreadMenuItem.accesskey "o">
 <!ENTITY saveAsMenuItem.label "salva con nome…">
 <!ENTITY saveAsMenuItem.accesskey "s">
 <!ENTITY viewSourceMenuItem.label "visualizza sorgente">
@@ -75,7 +75,7 @@
 <!ENTITY deleteAllAttachmentsCmd.accesskey "E">
 <!ENTITY saveAttachmentButton.label "salva">
 <!ENTITY saveAttachmentButton.tooltip "salva i file allegati">
-<!ENTITY saveAllAttachmentsButton.label "salvare tutto">
+<!ENTITY saveAllAttachmentsButton.label "salva tutto">
 <!ENTITY saveAllAttachmentsButton.tooltip "salva tutti i file allegati">
 <!ENTITY openAttachmentMenuItem.label "apri">
 <!ENTITY openAttachmentMenuItem.accesskey "a">
@@ -87,7 +87,7 @@
 <!ENTITY deleteAttachmentMenuItem.accesskey "e">
 <!ENTITY openAllAttachmentsMenuItem.label "apri tutti…">
 <!ENTITY openAllAttachmentsMenuItem.accesskey "a">
-<!ENTITY saveAllAttachmentsMenuItem.label "salvare tutto…">
+<!ENTITY saveAllAttachmentsMenuItem.label "salva tutto…">
 <!ENTITY saveAllAttachmentsMenuItem.accesskey "s">
 <!ENTITY detachAllAttachmentsMenuItem.label "separa tutto…">
 <!ENTITY detachAllAttachmentsMenuItem.accesskey "S">

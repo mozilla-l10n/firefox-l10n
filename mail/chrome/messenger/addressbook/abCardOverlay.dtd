@@ -17,7 +17,7 @@
 <!ENTITY preferDisplayName.label "Preferire sempre il nome visualizzato all'intestazione del messaggio">
 <!ENTITY preferDisplayName.accesskey "P">
 <!ENTITY NickName.label "Soprannome:">
-<!ENTITY NickName.accesskey "p">
+<!ENTITY NickName.accesskey "S">
 <!ENTITY PrimaryEmail.label "E-mail:">
 <!ENTITY PrimaryEmail.accesskey "-">
 <!ENTITY SecondEmail.label "E-mail aggiuntiva:">
@@ -35,7 +35,7 @@
 <!ENTITY WorkPhone.label "Lavoro:">
 <!ENTITY WorkPhone.accesskey "v">
 <!ENTITY HomePhone.label "Casa:">
-<!ENTITY HomePhone.accesskey "s">
+<!ENTITY HomePhone.accesskey "C">
 <!ENTITY FaxNumber.label "Fax:">
 <!ENTITY FaxNumber.accesskey "x">
 <!ENTITY PagerNumber.label "Cerca persone:">
