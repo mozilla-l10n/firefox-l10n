@@ -5,7 +5,7 @@
 <!ENTITY fccMailFolder.label "保留副本到：">
 <!ENTITY fccMailFolder.accesskey "P">
 <!ENTITY fccReplyFollowsParent.label "将回复的邮件放入被回复邮件同一文件夹中">
-<!ENTITY fccReplyFollowsParent.accesskey "c">
+<!ENTITY fccReplyFollowsParent.accesskey "R">
 <!-- LOCALIZATION NOTE (ccAddress.label): do not translate "Cc" in below line -->
 <!ENTITY ccAddress.label "Cc 这些邮件地址：">
 <!ENTITY ccAddress.accesskey "C">

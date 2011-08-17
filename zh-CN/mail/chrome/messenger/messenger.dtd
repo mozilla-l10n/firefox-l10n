@@ -224,6 +224,8 @@
 <!ENTITY bodySanitized.accesskey "S">
 <!ENTITY bodyAsPlaintext.label "纯文本">
 <!ENTITY bodyAsPlaintext.accesskey "P">
+<!ENTITY bodyAllParts.label "所有主体部分">
+<!ENTITY bodyAllParts.accesskey "A">
 
 <!ENTITY bodyMenuFeed.label "用邮件正文作为">
 <!ENTITY bodyMenuFeed.accesskey "B">
