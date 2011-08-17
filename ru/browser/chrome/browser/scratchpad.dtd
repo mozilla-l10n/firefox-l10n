@@ -62,4 +62,3 @@
 <!ENTITY webConsoleCmd.label "Веб-консоль">
 <!ENTITY webConsoleCmd.accesskey "б">
 <!ENTITY webConsoleCmd.commandkey "k">
-<!ENTITY textbox.placeholder1 "// Введите JavaScript, выделите его, щёлкните правой кнопкой и выберите Запустить, Исследовать или Отобразить.">

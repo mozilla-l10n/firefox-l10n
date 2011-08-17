@@ -86,6 +86,8 @@
 <!ENTITY forwardCmd.label "Вперёд">
 <!ENTITY forwardCmd.accesskey "В">
 <!ENTITY forwardButton.tooltip "На следующую страницу">
+<!ENTITY backForwardButtonMenu.tooltip "Щёлкните правой кнопкой или потяните вниз для показа истории">
+<!ENTITY backForwardButtonMenuMac.tooltip "Потяните вниз для показа истории">
 <!ENTITY reloadCmd.label "Обновить">
 <!ENTITY reloadCmd.accesskey "н">
 <!ENTITY reloadButton.tooltip "Обновить текущую страницу">
@@ -231,6 +233,7 @@
 <!ENTITY urlbar.accesskey "d">
 <!ENTITY urlbar.switchToTab.label "Перейти на вкладку:">
 <!ENTITY searchFocus.commandkey "k">
+<!ENTITY searchFocus.commandkey2 "e">
 <!ENTITY searchFocusUnix.commandkey "j">
 <!ENTITY tabView.commandkey "e">
 <!ENTITY openLinkCmdInTab.label "Открыть в новой вкладке">

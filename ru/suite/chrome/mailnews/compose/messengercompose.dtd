@@ -41,16 +41,6 @@
 <!ENTITY editRewrapCmd.key "R">
 <!ENTITY editRewrapCmd.accesskey "е">
 <!ENTITY findCmd.label "Найти и заменить…">
-<!ENTITY findCmd.key "F">
-<!ENTITY findCmd.accesskey "Н">
-<!ENTITY findAgainCmd.label "Найти ещё раз">
-<!ENTITY findAgainCmd.key "G">
-<!ENTITY findAgainCmd.accesskey "а">
-<!ENTITY findAgainCmd.key2 "VK_F3">
-<!ENTITY findPrevCmd.label "Найти предыдущее">
-<!ENTITY findPrevCmd.key "G">
-<!ENTITY findPrevCmd.key2 "VK_F3">
-<!ENTITY findPrevCmd.accesskey "щ">
 <!ENTITY accountManagerCmd.label "Параметры учётной записи…">
 <!ENTITY accountManagerCmd.accesskey "м">
 <!ENTITY showComposeToolbarCmd.label "Панель инструментов почты">

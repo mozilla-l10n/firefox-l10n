@@ -1,7 +1,7 @@
 <!ENTITY fileMenu.label "Файл">
 <!ENTITY fileMenu.accesskey "Ф">
 <!ENTITY newMenu.label "Создать">
-<!ENTITY newMenu.accesskey "С">
+<!ENTITY newMenu.accesskey "з">
 <!ENTITY editMenu.label "Правка">
 <!ENTITY editMenu.accesskey "П">
 <!ENTITY undoCmd.label "Отменить">
@@ -9,7 +9,7 @@
 <!ENTITY undoCmd.accesskey "О">
 <!ENTITY redoCmd.label "Повторить">
 <!ENTITY redoCmd.key "Y">
-<!ENTITY redoCmd.accesskey "П">
+<!ENTITY redoCmd.accesskey "р">
 <!ENTITY cutCmd.label "Вырезать">
 <!ENTITY cutCmd.key "X">
 <!ENTITY cutCmd.accesskey "В">
@@ -23,7 +23,7 @@
 <!ENTITY deleteCmd.accesskey "У">
 <!ENTITY selectAllCmd.label "Выделить всё">
 <!ENTITY selectAllCmd.key "A">
-<!ENTITY selectAllCmd.accesskey "ы">
+<!ENTITY selectAllCmd.accesskey "д">
 <!ENTITY preferencesCmd.label "Настройки…">
 <!ENTITY preferencesCmd.accesskey "Н">
 <!ENTITY preferencesCmdUnix.label "Настройки">

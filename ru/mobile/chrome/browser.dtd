@@ -5,6 +5,7 @@
 <!ENTITY stop.label "Остановить">
 <!ENTITY go.label "Перейти">
 <!ENTITY star.label "Звёздочка">
+<!ENTITY showTabs.label "Показать вкладки">
 <!ENTITY newtab.label "Новая вкладка">
 <!ENTITY closetab.label "Закрыть вкладку">
 <!ENTITY cut.label "Вырезать">
@@ -12,6 +13,7 @@
 <!ENTITY copyAll.label "Копировать всё">
 <!ENTITY copylink.label "Копировать адрес ссылки">
 <!ENTITY paste.label "Вставить">
+<!ENTITY pasteAndGo.label "Вставить и перейти">
 <!ENTITY delete.label "Удалить">
 <!ENTITY selectAll.label "Выделить всё">
 <!ENTITY noSuggestions.label "(нет предложений)">
@@ -56,6 +58,7 @@
 <!ENTITY bookmarkPopup.label "Добавлена в закладки">
 <!ENTITY bookmarkRemove.label "Удалить">
 <!ENTITY bookmarkEdit.label "Изменить">
+<!ENTITY bookmarkShortcut.label "Добавить на домашний экран">
 <!ENTITY identity.unverifiedsite2 "Информация о подлинности этого веб-сайта отсутствует.">
 <!ENTITY identity.connectedTo2 "Соединён с">
 <!ENTITY identity.runBy2 "управляется">
@@ -73,6 +76,7 @@
 <!ENTITY contextOpenInNewTab.label "Открыть ссылку в новой вкладке">
 <!ENTITY contextSaveLink.label "Сохранить ссылку">
 <!ENTITY contextSaveImage.label "Сохранить изображение">
+<!ENTITY contextCopyLink.label "Копировать ссылку">
 <!ENTITY contextShareLink.label "Поделиться ссылкой">
 <!ENTITY contextShareImage.label "Поделиться изображением">
 <!ENTITY contextBookmarkLink.label "Заложить ссылку">
@@ -83,6 +87,7 @@
 <!ENTITY contextFullScreen.label "Полный экран">
 <!ENTITY contextEditBookmark.label "Изменить">
 <!ENTITY contextRemoveBookmark.label "Удалить">
+<!ENTITY contextShortcutBookmark.label "Добавить на домашний экран">
 <!ENTITY pageactions.saveas.pdf "Сохранить как PDF">
 <!ENTITY pageactions.share.page "Поделиться">
 <!ENTITY pageactions.password.forget "Забыть пароль">
@@ -91,4 +96,5 @@
 <!ENTITY pageactions.findInPage "Найти">
 <!ENTITY pageactions.search.addNew "Добавить поисковую систему">
 <!ENTITY pageactions.charEncoding "Кодировка текста">
+<!ENTITY pageactions.webapps.install "Установить как приложение">
 <!ENTITY appMenu.siteOptions "Меню сайта">

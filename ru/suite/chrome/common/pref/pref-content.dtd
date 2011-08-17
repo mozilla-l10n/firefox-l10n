@@ -15,3 +15,5 @@
 <!ENTITY textZoomOnly.accesskey "в">
 <!ENTITY blockAutoRefresh.label "Предупреждать при попытке веб-сайтов перенаправить или перезагрузить страницу">
 <!ENTITY blockAutoRefresh.accesskey "р">
+<!ENTITY siteSpecific.label "Запоминать масштаб для каждого сайта">
+<!ENTITY siteSpecific.accesskey "п">

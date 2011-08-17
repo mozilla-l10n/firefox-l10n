@@ -1,7 +1,4 @@
 <!ENTITY pref.advanced.title "Дополнительно">
-<!ENTITY prefEnableJava.caption "Функции помогающие в работе с веб-сайтами">
-<!ENTITY enbJavaCheck.label "Использовать Java">
-<!ENTITY enbJavaCheck.accesskey "И">
 <!ENTITY systemPref.caption "Системные настройки">
 <!ENTITY systemPrefCheck.label "Использовать настройки системы">
 <!ENTITY systemPrefCheck.accesskey "с">
