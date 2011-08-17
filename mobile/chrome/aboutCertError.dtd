@@ -13,7 +13,6 @@ by NSS/PSM via netError.xhtml. -->
 be replaced at runtime with the name of the server to which the user
 was trying to connect. -->
 <!ENTITY certerror.introPara1 "您想使用 &brandShortName; 来安全连接至 <b>#1</b>，但是我们无法确认此连接为安全的。">
-<!ENTITY certerror.introPara2 "通常，当您尝试安全连接时，站点会出示受信任的标识，以证明您访问的是正确的地址。然而，现在无法验证此网站的标识。">
 
 <!ENTITY certerror.whatShouldIDo.heading "怎么办？">
 <!ENTITY certerror.whatShouldIDo.content "如果您过去连接到此网站并且没有发现问题，那么此错误信息表示可能有人想冒充该网站，所以您应该停止浏览。">
