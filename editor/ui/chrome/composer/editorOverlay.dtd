@@ -68,14 +68,8 @@
 <!ENTITY publishAsCmd.accesskey "h">
 <!ENTITY saveAsChangeEncodingCmd.label "另存新檔並修改字元編碼">
 <!ENTITY saveAsChangeEncodingCmd.accesskey "e">
-<!ENTITY printSetupCmd.label "頁面設定…">
-<!ENTITY printSetupCmd.accesskey "u">
 <!ENTITY printCmd.label "列印…">
 <!ENTITY printCmd.accesskey "P">
-<!ENTITY printCmd.key "P">
-<!ENTITY closeCmd.label "關閉">
-<!ENTITY closeCmd.accesskey "C">
-<!ENTITY closeCmd.key "W">
 
 <!-- Edit menu items -->
 <!ENTITY editMenu.label "編輯">
