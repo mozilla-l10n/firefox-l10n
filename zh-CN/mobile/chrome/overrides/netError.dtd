@@ -7,7 +7,7 @@
 <!-- Specific error messages -->
 
 <!ENTITY connectionFailure.title "无法连接">
-<!ENTITY connectionFailure.longDesc "&sharedLongDesc;">
+<!ENTITY connectionFailure.longDesc "&sharedLongDesc2;">
 
 <!ENTITY deniedPortAccess.title "此地址访问受限">
 <!ENTITY deniedPortAccess.longDesc "">
@@ -44,7 +44,7 @@
 ">
 
 <!ENTITY netInterrupt.title "连接被中断">
-<!ENTITY netInterrupt.longDesc "&sharedLongDesc;">
+<!ENTITY netInterrupt.longDesc "&sharedLongDesc2;">
 
 <!ENTITY netOffline.title "脱机模式">
 <!ENTITY netOffline.longDesc2 "<ul>
@@ -59,10 +59,10 @@
 <!ENTITY unsafeContentType.longDesc " <ul>   <li>请联系网站所有者并告知该问题。</li> </ul> ">
 
 <!ENTITY netReset.title "连接被重置">
-<!ENTITY netReset.longDesc "&sharedLongDesc;">
+<!ENTITY netReset.longDesc "&sharedLongDesc2;">
 
 <!ENTITY netTimeout.title "连接超时">
-<!ENTITY netTimeout.longDesc "&sharedLongDesc;">
+<!ENTITY netTimeout.longDesc "&sharedLongDesc2;">
 
 <!ENTITY protocolNotFound.title "无法理解该地址">
 <!ENTITY protocolNotFound.longDesc "
