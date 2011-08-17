@@ -252,6 +252,8 @@
 <!ENTITY bodySanitized.accesskey "J">
 <!ENTITY bodyAsPlaintext.label "Prostý text">
 <!ENTITY bodyAsPlaintext.accesskey "P">
+<!ENTITY bodyAllParts.label "Všechny části těla">
+<!ENTITY bodyAllParts.accesskey "e">
 
 <!ENTITY bodyMenuFeed.label "Tělo zprávy kanálu jako">
 <!ENTITY bodyMenuFeed.accesskey "z">
