@@ -5,6 +5,7 @@
 <!ENTITY quitApplicationCmd.key "Q">
 <!ENTITY quitApplicationCmd.accesskey "S">
 <!ENTITY redoCmd.key "Y">
+<!ENTITY findCmd.key2 "VK_F19">
 <!ENTITY findTypeTextCmd.key "/">
 <!ENTITY findTypeLinksCmd.key "'">
 <!ENTITY accel.emacs_conflict "accel,shift">
@@ -13,4 +14,4 @@
 <!ENTITY openHelpCmd.key "VK_F1">
 <!ENTITY ctrlKey.label "Ctrl">
 <!ENTITY altKey.label "Alt">
-<!ENTITY shiftKey.label "Mayús.">
+<!ENTITY shiftKey.label "Mayús">
