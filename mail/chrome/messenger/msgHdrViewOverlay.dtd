@@ -59,6 +59,7 @@
 <!ENTITY editMessageButton.label "编辑…">
 <!ENTITY hdrArchiveButton.label "归档">
 <!ENTITY hdrArchiveButton.tooltip "将该信息归档">
+<!ENTITY hdrSmartReplyButton.label "智能回复">
 <!ENTITY hdrReplyButton.label "回复">
 <!ENTITY hdrReplyButton.tooltip "回复该信息">
 <!ENTITY hdrReplyAllButton.label "全部回复">
