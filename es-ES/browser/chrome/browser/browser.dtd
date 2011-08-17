@@ -151,7 +151,7 @@
 <!ENTITY inspectMenu.accesskey "r">
 <!ENTITY inspectMenu.commandkey "I">
 <!ENTITY scratchpad.label "Borrador">
-<!ENTITY scratchpad.accesskey "s">
+<!ENTITY scratchpad.accesskey "b">
 <!ENTITY scratchpad.keycode "VK_F4">
 <!ENTITY scratchpad.keytext "F4">
 <!ENTITY inspectPanelTitle.label "HTML">
