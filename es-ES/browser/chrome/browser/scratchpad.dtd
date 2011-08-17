@@ -19,7 +19,7 @@
 <!ENTITY editMenu.accesskey "E">
 <!ENTITY undoCmd.label "Deshacer">
 <!ENTITY undoCmd.key "Z">
-<!ENTITY undoCmd.accesskey "U">
+<!ENTITY undoCmd.accesskey "h">
 <!ENTITY redoCmd.label "Rehacer">
 <!ENTITY redoCmd.key "Y">
 <!ENTITY redoCmd.accesskey "R">
