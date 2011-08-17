@@ -8,6 +8,7 @@
 <!ENTITY privacy.title "Soukromí a bezpečnost">
 <!ENTITY allowCookies.title "Povolit cookies">
 <!ENTITY doNotTrack.title "Informovat servery, že nechci být sledován">
+<!ENTITY masterPassword.title "Použít hlavní heslo">
 <!ENTITY clearPrivateData2.title "Smazání důvěrných dat">
 <!ENTITY clearPrivateData.button "Smazat">
 <!ENTITY rememberPasswords.title "Pamatovat si hesla">
