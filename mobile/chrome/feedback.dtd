@@ -3,9 +3,7 @@
 <!ENTITY feedback.feedback.title "Отправьте отзыв">
 <!ENTITY feedback.feedback.good "Хороший">
 <!ENTITY feedback.feedback.bad "Плохой">
-<!ENTITY feedback.information.title "Подробнее">
-<!ENTITY feedback.about.title "Об этой Бете">
-<!ENTITY feedback.about.button "Перейти на страницу">
 <!ENTITY feedback.tools.title "Инструменты">
+<!ENTITY feedback.allowTelemetry.title "Отправлять данные производительности">
 <!ENTITY feedback.forceCompat.title "Не проверять совместимость">
 <!ENTITY feedback.errorConsole.title "Включить консоль ошибок">

@@ -17,8 +17,9 @@
 <!ENTITY quickFilterBar.resultsLabel.none "Не найдено">
 <!ENTITY quickFilterBar.resultsLabel.minWidth "100">
 <!ENTITY quickFilterBar.textbox.emptyText.base "Фильтр сообщений… #1">
-<!ENTITY quickFilterBar.textbox.emptyText.keyLabel.nonmac "&lt;Ctrl+F&gt;">
-<!ENTITY quickFilterBar.textbox.emptyText.keyLabel1.mac "&lt;⌘F&gt;">
+<!ENTITY quickFilterBar.show.key2 "k">
+<!ENTITY quickFilterBar.textbox.emptyText.keyLabel2.nonmac "&lt;Ctrl+Shift+K&gt;">
+<!ENTITY quickFilterBar.textbox.emptyText.keyLabel2.mac "&lt;⇧⌘K&gt;">
 <!ENTITY quickFilterBar.textbox.idealWidth "320">
 <!ENTITY quickFilterBar.textbox.minWidth "280">
 <!ENTITY quickFilterBar.textFilter.explanation.label "Фильтр сообщений по:">
