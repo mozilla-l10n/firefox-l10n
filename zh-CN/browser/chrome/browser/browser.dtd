@@ -111,6 +111,8 @@ can reach it easily. -->
 <!ENTITY forwardCmd.label             "前进">
 <!ENTITY forwardCmd.accesskey         "F">
 <!ENTITY forwardButton.tooltip        "转到下一页">
+<!ENTITY backForwardButtonMenu.tooltip "右击或下拉显示历史">
+<!ENTITY backForwardButtonMenuMac.tooltip "下拉显示历史">
 <!ENTITY reloadCmd.label              "重新载入">
 <!ENTITY reloadCmd.accesskey          "R">
 <!ENTITY reloadButton.tooltip         "重新载入当前页面">
@@ -188,7 +190,7 @@ can reach it easily. -->
 <!ENTITY webConsoleCmd.accesskey      "W">
 <!ENTITY webConsoleCmd.commandkey     "k">
 
-<!ENTITY inspectMenu.label            "查看">
+<!ENTITY inspectMenu.label            "检查">
 <!ENTITY inspectMenu.accesskey        "T">
 <!ENTITY inspectMenu.commandkey       "I">
 
@@ -208,7 +210,7 @@ can reach it easily. -->
 <!ENTITY scratchpad.keytext           "F4">
 
 <!ENTITY inspectPanelTitle.label      "HTML">
-<!ENTITY inspectButton.label          "查看">
+<!ENTITY inspectButton.label          "检查">
 <!ENTITY inspectButton.accesskey      "I">
 
 <!ENTITY getMoreDevtoolsCmd.label        "获取更多工具">
@@ -308,6 +310,7 @@ can reach it easily. -->
   Mac:  Cmd+K (cross platform binding)
         Cmd+Opt+F (platform convention)
   Win:  Ctrl+K (cross platform binding)
+        Ctrl+E (IE compat)
 
   We support Ctrl+K on all platforms now and advertise it in the menu since it is
   our standard - it is a "safe" choice since it is near no harmful keys like "W" as
@@ -318,6 +321,7 @@ can reach it easily. -->
 
  -->
 <!ENTITY searchFocus.commandkey       "k">
+<!ENTITY searchFocus.commandkey2      "e">
 <!ENTITY searchFocusUnix.commandkey   "j">
 
 <!ENTITY tabView.commandkey           "e">

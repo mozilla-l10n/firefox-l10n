@@ -13,9 +13,10 @@
 <!ENTITY manageAccount.label          "管理帐户">
 <!ENTITY manageAccount.accesskey      "A">
 <!ENTITY viewQuota.label              "查看配额">
-<!ENTITY changePassword.label         "修改密码">
+<!ENTITY changePassword2.label         "修改密码…">
 <!ENTITY mySyncKey.label              "我的同步密钥">
-<!ENTITY resetSync.label              "重置同步">
+<!ENTITY resetSync2.label              "重设同步…">
+
 <!ENTITY addDevice.label              "添加设备">
 
 <!ENTITY syncMy.label               "同步我的">
@@ -33,7 +34,7 @@
 <!-- Device Settings -->
 <!ENTITY syncComputerName.label       "计算机名：">
 <!ENTITY syncComputerName.accesskey   "c">
-<!ENTITY deactivateDevice.label       "停用此设备">
+<!ENTITY unlinkDevice.label           "断开此设备">
 
 <!-- Footer stuff -->
 <!ENTITY prefs.tosLink.label        "服务条款">
