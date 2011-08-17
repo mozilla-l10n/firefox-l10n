@@ -252,6 +252,8 @@
 <!ENTITY bodySanitized.accesskey "s">
 <!ENTITY bodyAsPlaintext.label "Texto sen formato">
 <!ENTITY bodyAsPlaintext.accesskey "T">
+<!ENTITY bodyAllParts.label "Todas as partes do corpo">
+<!ENTITY bodyAllParts.accesskey "a">
 
 <!ENTITY bodyMenuFeed.label "Descargar corpo da mensaxe como">
 <!ENTITY bodyMenuFeed.accesskey "D">
@@ -273,16 +275,6 @@
 <!ENTITY pageSourceCmd.key "u">
 
 <!ENTITY findCmd.label "Localizar nesta mensaxe…">
-<!ENTITY findCmd.accesskey "L">
-<!ENTITY findCmd.key "f">
-<!ENTITY findAgainCmd.label "Localizar de novo">
-<!ENTITY findAgainCmd.accesskey "L">
-<!ENTITY findAgainCmd.key "g">
-<!ENTITY findAgainCmd.key2 "VK_F3">
-<!ENTITY findPrevCmd.label "Localizar anterior">
-<!ENTITY findPrevCmd.accesskey "L">
-<!ENTITY findPrevCmd.key "g">
-<!ENTITY findPrevCmd.key2 "VK_F3">
 
 <!-- Go Menu -->
 
