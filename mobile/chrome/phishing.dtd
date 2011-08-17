@@ -20,7 +20,7 @@
 <!ENTITY safeb.blocked.malwarePage.shortDesc "La página web en <span id='malware_sitename'/> ha sido informada como una página de ataque y ha sido bloqueada según sus preferencias de seguridad.">
 <!ENTITY safeb.blocked.malwarePage.longDesc "<p>Las páginas de ataque tratan de instalar programas que roban información privada, usan su computadora para atacar otras o dañan su sistema.</p><p>Algunas páginas de ataque intencionalmente distribuyen software dañino, pero muchos están comprometidos sin el conocimiento o permiso de sus dueños.</p>">
 
-<!ENTITY safeb.blocked.phishingPage.title "¡Fraude web informado!">
-<!-- Localization note (safeb.blocked.phishing.shortDesc) - Please don't translate the contents of the <span id="phishing_sitename"/> tag. It will be replaced at runtime with a domain name (e.g. www.badsite.com) -->
-<!ENTITY safeb.blocked.phishingPage.shortDesc "Esta página web en <span id='phishing_sitename'/> ha sido informada como fraudulenta y ha sido bloqueada según sus preferencias de seguridad.">
-<!ENTITY safeb.blocked.phishingPage.longDesc "<p>Los fraudes web imitan fuentes en las que confía y tratan de engañarlo para que revele información personal o financiera.</p><p>Ingresar cualquier información en esta página web puede resultar en robo de identidad o algún otro fraude.</p>">
+<!ENTITY safeb.blocked.phishingPage.title2 "¡Sospecha de fraude web!">
+<!ENTITY safeb.blocked.phishingPage.shortDesc2 "Ingresando cualquier información personal en esta ágina puede resultar en robo de identidad o algún otro fraude.">
+<!ENTITY safeb.blocked.phishingPage.longDesc2 "<p>Este tipo de fraudes web se usan en estafas conocidas como phishing, en las que páginas web y correos electrónicos fraudulentos son usados para imitar fuentes en las que vos podés confiar.</p>">
+
