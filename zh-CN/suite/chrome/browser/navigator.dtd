@@ -10,119 +10,29 @@
 <!-- LOCALIZATION NOTE (mainWindow.titlemodifiermenuseparator): DONT_TRANSLATE -->
 <!ENTITY mainWindow.titlemodifiermenuseparator " - ">
 
-<!ENTITY tabCmd.label "浏览器标签页 (T)">
-<!ENTITY tabCmd.accesskey "T">
-<!ENTITY tabCmd.commandkey "t">
-<!ENTITY openCmd.label "打开网站地址…">
-<!ENTITY openCmd.accesskey "l">
-<!ENTITY openCmd.commandkey "l">
-<!ENTITY openFileCmd.label "打开文件…">
-<!ENTITY openFileCmd.accesskey "o">
-<!ENTITY openFileCmd.commandkey "o">
-<!ENTITY recentTabs.label "最近关闭的标签页">
-<!ENTITY recentTabs.accesskey "R">
-<!ENTITY recentTabs.commandkey "t">
-<!ENTITY recentWindows.label "最近关闭窗口">
-<!ENTITY recentWindows.accesskey "y">
-<!ENTITY recentWindows.commandkey "y">
 <!ENTITY editPageCmd.label "编辑页面">
 <!ENTITY editPageCmd.accesskey "E">
 <!ENTITY editPageCmd.commandkey "e">
 
-<!ENTITY uploadFile.label "上传文件…">
-<!ENTITY uploadFile.accesskey "F">
-
-<!ENTITY printSetupCmd.label "打印设置…">
-<!ENTITY printSetupCmd.accesskey "u">
 <!ENTITY printPreviewCmd.label "打印预览">
 <!ENTITY printPreviewCmd.accesskey "v">
 <!ENTITY printCmd.label "打印…">
 <!ENTITY printCmd.accesskey "p">
 <!ENTITY printCmd.commandkey "p">
 
-<!ENTITY toolbarsCmd.label "显示／隐藏 (w)">
-<!ENTITY toolbarsCmd.accesskey "w">
 <!ENTITY navbarCmd.label "导航工具栏">
 <!ENTITY navbarCmd.accesskey "N">
 <!ENTITY personalbarCmd.label "个人工具栏">
-<!ENTITY personalbarCmd.accesskey "p">
-<!ENTITY tabbarCmd.label "标签页栏 (T)">
-<!ENTITY tabbarCmd.accesskey "T">
-<!ENTITY taskbarCmd.label "状态栏">
-<!ENTITY taskbarCmd.accesskey "S">
-<!ENTITY componentbarCmd.label "组件栏">
-<!ENTITY componentbarCmd.accesskey "C">
+<!ENTITY personalbarCmd.accesskey "P">
 
-<!ENTITY useStyleSheetMenu.label "使用式样">
-<!ENTITY useStyleSheetMenu.accesskey "u">
-<!ENTITY useStyleSheetNone.label "无">
-<!ENTITY useStyleSheetNone.accesskey "N">
-<!ENTITY useStyleSheetPersistentOnly.label "缺省类型">
-<!ENTITY useStyleSheetPersistentOnly.accesskey "d">
-<!ENTITY pageSourceCmd.label "页面源代码">
-<!ENTITY pageSourceCmd.accesskey "o">
-<!ENTITY pageSourceCmd.commandkey "u">
-<!ENTITY pageInfoCmd.label "页面信息">
-<!ENTITY pageInfoCmd.accesskey "i">
-<!ENTITY pageInfoCmd.commandkey "i">
-<!ENTITY fullScreenCmd.label "全屏">
-<!ENTITY fullScreenCmd.accesskey "f">
-<!ENTITY translateMenu.label "翻译页面">
-<!ENTITY translateMenu.accesskey "T">
-
-<!ENTITY closeOtherTabs.label "关闭其他标签页">
-<!ENTITY closeOtherTabs.accesskey "T">
 <!ENTITY closeWindow.label "关闭窗口">
 <!ENTITY closeWindow.accesskey "W">
 
 <!ENTITY minimizeButton.tooltip       "最小化">
 <!ENTITY restoreButton.tooltip        "恢复">
 
-<!ENTITY applyTheme.label	"应用主题"> 
-<!ENTITY applyTheme.accesskey	"A"> 
-<!ENTITY getNewThemesCmd.label "获得新的主题">
-<!ENTITY getNewThemesCmd.accesskey "G">
-<!ENTITY findOnCmd.label "在当前页查找…">
-<!ENTITY findOnCmd.accesskey "f">
-<!ENTITY findOnCmd.commandkey "f">
-<!ENTITY findAgainCmd.label "再次查找">
-<!ENTITY findAgainCmd.accesskey "g">
-<!ENTITY findAgainCmd.commandkey "g">
-<!ENTITY findPrevCmd.label "查找前一个">
-<!ENTITY findPrevCmd.accesskey "v">
-<!ENTITY findPrevCmd.commandkey "g">
-<!ENTITY findAgainCmd.commandkey2 "VK_F3">
-<!ENTITY findPrevCmd.commandkey2 "VK_F3">
-
-<!ENTITY searchInternetCmd.label "搜索互联网 (S)">
-<!ENTITY searchInternetCmd.accesskey "S">
-<!ENTITY searchInternet.commandKey "s">
-
-<!ENTITY clearPrivateDataCmd.label "清除隐私数据…">
-<!ENTITY clearPrivateDataCmd.accesskey "e">
-
-<!ENTITY goMenu.label "转到">
-<!ENTITY goMenu.accesskey "g">
-<!ENTITY goHomeCmd.label "主页">
-<!ENTITY goHomeCmd.accesskey "h">
-<!ENTITY historyRestoreLastSession.label "恢复上一次会话">
-<!ENTITY historyRestoreLastSession.accesskey "R">
-
-<!ENTITY bookmarksMenu.label "书签">
-<!ENTITY bookmarksMenu.accesskey "B">
-<!ENTITY addCurPageCmd.label "将此标签页设为书签">
-<!ENTITY addCurPageCmd.accesskey "B">
-<!ENTITY addCurPageAsCmd.label "文件书签…">
-<!ENTITY addCurPageAsCmd.accesskey "F">
-<!ENTITY addCurPageAsCmd.commandkey "d">
-<!ENTITY addCurTabsAsCmd.label "将此标签组加为书签…">
-<!ENTITY addCurTabsAsCmd.accesskey "G">
-<!ENTITY manBookmarksCmd.label "管理书签">
-<!ENTITY manBookmarksCmd.accesskey "M">
-<!ENTITY manBookmarksCmd.commandkey "b">
 <!ENTITY feedsMenu.label "订阅此页">
 <!ENTITY feedsMenu.accesskey "S">
-<!ENTITY emptyItem.label "(空)">
 
 <!ENTITY menuBar.tooltip                  "菜单栏">
 <!ENTITY personalToolbar.tooltip          "个人工具栏">
@@ -162,14 +72,4 @@
 <!-- Statusbar -->
 <!ENTITY  statusText.label            "完成">
 
-<!ENTITY historyCmd.label           "历史记录">  
-<!ENTITY historyCmd.accesskey       "i">
-<!ENTITY history.commandKey         "h">
-
 <!ENTITY popupIcon.tooltiptext      "解锁这个站点的弹出内容">
-
-<!ENTITY bidiSwitchPageDirectionItem.label        "切换页面方向">
-<!ENTITY bidiSwitchPageDirectionItem.accesskey    "g">
-
-<!-- LOCALIZATION NOTE (syncTabsMenu.label): This appears in the Go menu -->
-<!ENTITY syncTabsMenu.label         "来自其他计算机的标签页">

@@ -47,5 +47,8 @@
 <!ENTITY copyLinkCmd.label                 "复制链接地址">
 <!ENTITY copyLinkCmd.accesskey             "C">
 <!ENTITY CopyMessageId.label               "复制 消息-ID">
+<!ENTITY CopyMessageId.accesskey           "C">
 <!ENTITY OpenMessageForMsgId.label         "打开消息 ID 为">
+<!ENTITY OpenMessageForMsgId.accesskey     "O">
 <!ENTITY OpenBrowserWithMsgId.label        "使用浏览器打开消息 ID 为">
+<!ENTITY OpenBrowserWithMsgId.accesskey    "B">
