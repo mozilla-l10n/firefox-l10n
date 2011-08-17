@@ -208,6 +208,8 @@
 <!ENTITY bodySanitized.accesskey "S">
 <!ENTITY bodyAsPlaintext.label "Texto sin formato">
 <!ENTITY bodyAsPlaintext.accesskey "T">
+<!ENTITY bodyAllParts.label "Todas las partes del cuerpo">
+<!ENTITY bodyAllParts.accesskey "T">
 <!ENTITY bodyMenuFeed.label "Descargar cuerpo del mensaje como">
 <!ENTITY bodyMenuFeed.accesskey "u">
 <!ENTITY viewFeedWebPage.label "Página web">
@@ -401,9 +403,9 @@
 <!ENTITY openConversationCmd.key "o">
 <!ENTITY openFeedMessage.label "Abrir mensaje del canal">
 <!ENTITY openFeedMessage.accesskey "A">
-<!ENTITY openFeedWebPageInWindow.label "Página web en ventana nueva">
+<!ENTITY openFeedWebPageInWindow.label "Página web en una ventana nueva">
 <!ENTITY openFeedWebPageInWindow.accesskey "W">
-<!ENTITY openFeedSummaryInWindow.label "Resumen en ventana nueva">
+<!ENTITY openFeedSummaryInWindow.label "Resumen en una ventana nueva">
 <!ENTITY openFeedSummaryInWindow.accesskey "S">
 <!ENTITY openFeedWebPageInMP.label "Alternar el resumen y la página web en el panel de mensajes">
 <!ENTITY openFeedWebPageInMP.accesskey "T">
@@ -501,7 +503,7 @@
 <!ENTITY folderContextGetMessages.accesskey "R">
 <!ENTITY folderContextOpenNewWindow.label "Abrir">
 <!ENTITY folderContextOpenNewWindow.accesskey "A">
-<!ENTITY folderContextOpenNewTab.label "Abrir en pestaña nueva">
+<!ENTITY folderContextOpenNewTab.label "Abrir en una pestaña nueva">
 <!ENTITY folderContextOpenNewTab.accesskey "b">
 <!ENTITY folderContextNew.label "Nueva subcarpeta…">
 <!ENTITY folderContextNew.accesskey "N">
@@ -584,7 +586,7 @@
 <!ENTITY attachmentColumn.tooltip "Pulse para ordenar por adjuntos">
 <!ENTITY contextOpenNewWindow.label "Abrir el mensaje en una ventana nueva">
 <!ENTITY contextOpenNewWindow.accesskey "A">
-<!ENTITY contextOpenNewTab.label "Abrir el mensaje en pestaña nueva">
+<!ENTITY contextOpenNewTab.label "Abrir el mensaje en una pestaña nueva">
 <!ENTITY contextOpenNewTab.accesskey "b">
 <!ENTITY contextOpenConversation.label "Abrir mensaje en la conversación">
 <!ENTITY contextOpenConversation.accesskey "c">
