@@ -7,6 +7,7 @@
 <!ENTITY go.label "Ar Aghaidh">
 <!ENTITY star.label "Réiltín">
 
+<!ENTITY showTabs.label "Taispeáin Cluaisíní">
 <!ENTITY newtab.label "Cluaisín Nua">
 <!ENTITY closetab.label "Dún Cluaisín">
 
@@ -15,6 +16,7 @@
 <!ENTITY copyAll.label "Cóipeáil Uile">
 <!ENTITY copylink.label "Cóipeáil Suíomh an Naisc">
 <!ENTITY paste.label "Greamaigh">
+<!ENTITY pasteAndGo.label "Greamaigh agus Téigh">
 <!ENTITY delete.label "Scrios">
 <!ENTITY selectAll.label "Roghnaigh Uile">
 <!ENTITY noSuggestions.label "(Gan moltaí)">
@@ -67,6 +69,7 @@
 <!ENTITY bookmarkPopup.label "Cruthaíodh Leabharmharc">
 <!ENTITY bookmarkRemove.label "Bain">
 <!ENTITY bookmarkEdit.label "Eagar">
+<!ENTITY bookmarkShortcut.label "Cuir leis an Scáileán Baile">
 
 <!ENTITY identity.unverifiedsite2 "Ní sholáthraíonn an suíomh seo faisnéis maidir lena aitheantas.">
 <!ENTITY identity.connectedTo2 "Ceangailte le">
@@ -92,6 +95,7 @@
 <!ENTITY contextOpenInNewTab.label "Oscail an Nasc i gCluaisín Nua">
 <!ENTITY contextSaveLink.label "Sábháil an Nasc">
 <!ENTITY contextSaveImage.label "Sábháil an Íomhá">
+<!ENTITY contextCopyLink.label "Cóipeáil an Nasc">
 <!ENTITY contextShareLink.label "Comhroinn an Nasc">
 <!ENTITY contextShareImage.label "Comhroinn an Íomhá">
 <!ENTITY contextBookmarkLink.label "Cruthaigh Leabharmharc le Nasc">
@@ -102,6 +106,7 @@
 <!ENTITY contextFullScreen.label "Lánscáileán">
 <!ENTITY contextEditBookmark.label "Eagar">
 <!ENTITY contextRemoveBookmark.label "Bain">
+<!ENTITY contextShortcutBookmark.label "Cuir leis an Scáileán Baile">
 
 <!ENTITY pageactions.saveas.pdf "Sábháil mar PDF">
 <!ENTITY pageactions.share.page "Comhroinn an Leathanach">
@@ -111,5 +116,6 @@
 <!ENTITY pageactions.findInPage "Aimsigh sa Leathanach">
 <!ENTITY pageactions.search.addNew "Inneall Cuardaigh Nua">
 <!ENTITY pageactions.charEncoding "Ionchódú Carachtar">
+<!ENTITY pageactions.webapps.install "Suiteáil mar Fheidhmchlár">
 
 <!ENTITY appMenu.siteOptions "Roghanna an tSuímh">

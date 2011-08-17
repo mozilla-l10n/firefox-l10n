@@ -224,6 +224,8 @@
 <!ENTITY bodySanitized.accesskey "S">
 <!ENTITY bodyAsPlaintext.label "Gnáth-Théacs">
 <!ENTITY bodyAsPlaintext.accesskey "G">
+<!ENTITY bodyAllParts.label "Gach Cuid den Chorp">
+<!ENTITY bodyAllParts.accesskey "a">
 
 <!ENTITY bodyMenuFeed.label "Fothaigh corp na teachtaireachta mar">
 <!ENTITY bodyMenuFeed.accesskey "c">

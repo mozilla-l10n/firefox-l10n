@@ -73,9 +73,6 @@
 <!ENTITY printCmd.label "Priontáil…">
 <!ENTITY printCmd.accesskey "P">
 <!ENTITY printCmd.key "R">
-<!ENTITY closeCmd.label "Dún">
-<!ENTITY closeCmd.accesskey "D">
-<!ENTITY closeCmd.key "W">
 <!-- Edit menu items -->
 
 <!ENTITY editMenu.label "Eagar">
@@ -91,17 +88,6 @@
 <!ENTITY pasteAsQuotationCmd.accesskey "A">
 <!ENTITY pasteAsQuotationCmd.key "o">
 <!ENTITY findCmd.label "Aimsigh agus Ionadaigh…">
-<!ENTITY findCmd.accesskey "A">
-<!ENTITY findCmd.key "F">
-<!ENTITY findCmd.key2 "VK_F19">
-<!ENTITY findAgainCmd.label "Aimsigh Arís">
-<!ENTITY findAgainCmd.accesskey "m">
-<!ENTITY findAgainCmd.key "G">
-<!ENTITY findAgainCmd.key2 "VK_F3">
-<!ENTITY findPrevCmd.label "Roimhe Seo">
-<!ENTITY findPrevCmd.accesskey "R">
-<!ENTITY findPrevCmd.key "G">
-<!ENTITY findPrevCmd.key2 "VK_F3">
 <!ENTITY enableInlineSpellChecker.label "Litriú Beo">
 <!ENTITY enableInlineSpellChecker.accesskey "L">
 <!ENTITY checkSpellingCmd2.label "Seiceáil Litriú">
@@ -139,23 +125,6 @@
 <!ENTITY createLinkCmd.accesskey "N">
 <!ENTITY editLinkCmd.label "Cuir Nasc in Eagar i gCumadóir Nua">
 <!ENTITY editLinkCmd.accesskey "i">
-<!-- (Toplevel Edit menu uses utilityOverlay) -->
-<!ENTITY undoCmd.label "Cealaigh">
-<!ENTITY undoCmd.accesskey "l">
-<!ENTITY redoCmd.label "Athfheidhmigh">
-<!ENTITY redoCmd.accesskey "f">
-<!ENTITY cutCmd.label "Gearr">
-<!ENTITY cutCmd.accesskey "G">
-<!ENTITY copyCmd.label "Cóipeáil">
-<!ENTITY copyCmd.accesskey "C">
-<!ENTITY pasteCmd.label "Greamaigh">
-<!ENTITY pasteCmd.accesskey "r">
-<!ENTITY deleteCmd.label "Scrios">
-<!ENTITY deleteCmd.accesskey "S">
-<!ENTITY clearCmd.label "Bánaigh">
-<!ENTITY clearCmd.accesskey "B">
-<!ENTITY selectAllCmd.label "Roghnaigh Uile">
-<!ENTITY selectAllCmd.accesskey "U">
 <!-- Font Face SubMenu -->
 
 <!ENTITY FontFaceSelect.tooltip "Roghnaigh cló">
@@ -397,6 +366,9 @@
 <!ENTITY openToolbarCmd.tooltip "Oscail comhad logánta">
 <!ENTITY saveToolbarCmd.tooltip "Sábháil comhad i suíomh logánta">
 <!ENTITY publishToolbarCmd.tooltip "Uasluchtaigh comhad go suíomh cianda">
+<!ENTITY cutToolbarCmd.tooltip "Gearr">
+<!ENTITY copyToolbarCmd.tooltip "Cóipeáil">
+<!ENTITY pasteToolbarCmd.tooltip "Greamaigh">
 <!ENTITY printToolbarCmd.label "Priontáil">
 <!ENTITY printToolbarCmd.tooltip "Priontáil an leathanach seo">
 <!ENTITY findToolbarCmd.label "Aimsigh">
