@@ -14,6 +14,13 @@
 <!ENTITY newNavigatorCmd.label "Окно браузера">
 <!ENTITY newNavigatorCmd.key "N">
 <!ENTITY newNavigatorCmd.accesskey "к">
+<!ENTITY printSetupCmd.label "Параметры страницы…">
+<!ENTITY printSetupCmd.accesskey "м">
+<!ENTITY printPreviewCmd.label "Предварительный просмотр">
+<!ENTITY printPreviewCmd.accesskey "д">
+<!ENTITY printCmd.label "Печать…">
+<!ENTITY printCmd.accesskey "е">
+<!ENTITY printCmd.key "P">
 <!ENTITY editMenu.label "Правка">
 <!ENTITY editMenu.accesskey "П">
 <!ENTITY undoCmd.label "Отменить">

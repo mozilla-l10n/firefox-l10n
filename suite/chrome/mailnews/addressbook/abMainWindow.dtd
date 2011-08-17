@@ -18,8 +18,6 @@
 <!ENTITY printAddressBook.accesskey "а">
 <!ENTITY printPreviewAddressBook.label "Предварительный просмотр адресной книги">
 <!ENTITY printPreviewAddressBook.accesskey "а">
-<!ENTITY printSetupCmd.label "Параметры страницы…">
-<!ENTITY printSetupCmd.accesskey "а">
 <!ENTITY deleteAbCmd.label "Удалить адресную книгу">
 <!ENTITY deleteContactCmd.label "Удалить контакт">
 <!ENTITY deleteContactsCmd.label "Удалить выбранные контакты">
