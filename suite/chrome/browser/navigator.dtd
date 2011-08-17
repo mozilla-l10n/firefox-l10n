@@ -47,7 +47,7 @@
 <!ENTITY stopButton.label             "Deter">
 <!ENTITY stopButton.tooltip           "Deter a carga desta páxina">
 <!ENTITY searchButton.label           "Buscar">
-<!ENTITY searchButton.tooltip         "Escriba unha palabara no campo da esquerda e prema Buscar">
+<!ENTITY searchButton.tooltip         "Escriba unha palabra no campo da esquerda e prema Buscar">
 <!ENTITY goButton.label               "Ir">
 <!ENTITY goButton.tooltip             "Escriba unha localización no campo da esquerda e prema Ir">
 <!ENTITY printButton.label            "Imprimir">
