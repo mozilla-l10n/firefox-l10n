@@ -5,6 +5,9 @@
 <!ENTITY startupHomePage.label "Zobrazit domovskou stránku">
 <!ENTITY startupBlankPage.label "Zobrazit prázdnou stránku">
 <!ENTITY startupLastSession.label "Zobrazit okna a panely z minula">
+<!ENTITY restoreOnDemand.label "Nenahrávat panely, dokud nejsou vybrány">
+<!ENTITY restoreOnDemand.accesskey "N">
+
 <!ENTITY homepage.label "Domovská stránka:">
 <!ENTITY homepage.accesskey "m">
 <!ENTITY useCurrentPage.label "Použít aktuální stránku">
