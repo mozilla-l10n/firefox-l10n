@@ -319,6 +319,7 @@
 <!ENTITY tabView.commandkey           "e">
 
 <!ENTITY searchFocus.commandkey "k">
+<!ENTITY searchFocus.commandkey2   "e">
 <!ENTITY searchFocusUnix.commandkey "j">
 
 <!ENTITY openLinkCmd.label "Atvērt saiti jaunā logā">
