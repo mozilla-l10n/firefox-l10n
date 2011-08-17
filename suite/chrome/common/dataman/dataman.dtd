@@ -45,14 +45,14 @@
 <!ENTITY select.preferences.label "Vain asetukset">
 <!ENTITY select.passwords.label "Vain salasanat">
 
-<!ENTITY domain.search.placeholder "Etsi">
+<!ENTITY domain.search.placeholder "Etsi verkkoalueista">
 <!ENTITY domain.search.key "f">
 
 <!ENTITY domain.tree.domain.label "Verkkoalue">
 
 <!ENTITY domain.ctx.forgetdomain.label "Unohda tämä verkkoalue">
 <!ENTITY domain.ctx.forgetdomain.accesskey "U">
-<!ENTITY domain.ctx.forgetglobal.label "Unohda yleiset tiedot">
+<!ENTITY domain.ctx.forgetglobal.label "Unohda globaalit tiedot">
 <!ENTITY domain.ctx.forgetglobal.accesskey "U">
 
 <!ENTITY data.search.key "k">
@@ -65,7 +65,7 @@
 <!ENTITY tab.forget.label "Unohda">
 
 <!-- cookies -->
-<!ENTITY cookies.description "Seuraavat tätä verkkoaluetta koskevat evästeet on tallennettu tälle tietokoneelle:">
+<!ENTITY cookies.description "Tietokoneellasi on seuraavat tämän verkkoalueen asettamat evästeet:">
 
 <!ENTITY cookies.tree.host.label "Sivusto">
 <!ENTITY cookies.tree.name.label "Evästeen nimi">
@@ -141,7 +141,7 @@
 
 <!ENTITY fdata.tree.fieldname.label "Kentän nimi">
 <!ENTITY fdata.tree.value.label "Kirjoitettu arvo">
-<!ENTITY fdata.tree.usecount.label "Käyttökertoja">
+<!ENTITY fdata.tree.usecount.label "Käyttökerrat">
 <!ENTITY fdata.tree.firstused.label "Käytetty ensimmäisen kerran">
 <!ENTITY fdata.tree.lastused.label "Käytetty viimeksi">
 
