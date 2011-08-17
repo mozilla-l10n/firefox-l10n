@@ -9,5 +9,5 @@
 <!ENTITY setDefaultButton.accesskey "D">
 <!ENTITY removeButton.label "Eliminar cuenta">
 <!ENTITY removeButton.accesskey "R">
-<!ENTITY accountManager.size "width: 120ch; height: 50em;">
+<!ENTITY accountManager.size "width: 120ch; height: 56em;">
 <!ENTITY accountTree.width "width: 31ch;">
