@@ -5,10 +5,7 @@
 <!ENTITY feedback.feedback.good         "好">
 <!ENTITY feedback.feedback.bad          "坏">
 
-<!ENTITY feedback.information.title     "更多信息">
-<!ENTITY feedback.about.title           "关于该测试版">
-<!ENTITY feedback.about.button          "转至页面">
-
 <!ENTITY feedback.tools.title           "工具">
+<!ENTITY feedback.allowTelemetry.title  "发送性能数据">
 <!ENTITY feedback.forceCompat.title     "强制兼容附加组件">
 <!ENTITY feedback.errorConsole.title    "启用错误控制台">

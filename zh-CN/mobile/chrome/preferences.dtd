@@ -5,10 +5,10 @@
 <!ENTITY reflowZoom.title                          "缩放时重排文本格式">
 <!ENTITY showImages.title                          "显示图片">
 <!ENTITY enableJavaScript.title                    "启用 JavaScript">
-<!ENTITY enablePlugins.title                       "启用插件">
 <!ENTITY privacy.title                             "隐私 &amp; 安全">
 <!ENTITY allowCookies.title                        "允许 cookies">
 <!ENTITY doNotTrack.title                          "告诉网站不要追踪我">
+<!ENTITY masterPassword.title                      "使用主密码">
 <!ENTITY clearPrivateData2.title                   "清除隐私数据">
 <!ENTITY clearPrivateData.button                   "清空">
 <!ENTITY rememberPasswords.title                   "记住密码">
@@ -20,4 +20,4 @@
 <!ENTITY homepage.none                             "Blank">
 <!ENTITY homepage.default                          "&brandShortName; 开始">
 <!ENTITY homepage.currentpage                      "使用当前页">
-<!ENTITY showCharset.title                         "显示字符编码">
+<!ENTITY showCharsetEncoding.title                 "显示字符编码">

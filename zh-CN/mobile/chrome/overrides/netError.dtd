@@ -13,7 +13,13 @@
 <!ENTITY deniedPortAccess.longDesc "">
 
 <!ENTITY dnsNotFound.title "未找到服务器">
-<!ENTITY dnsNotFound.longDesc "<ul> <li>请检查该站点名称没有错误，例如将  <q><strong>www</strong>.example.com</q> 写成  <q><strong>ww</strong>.example.com</q></li><li>如果您无法载入任何页面，请检查您计算机的网络连接。</li><li>您的计算机或网络是否被防火墙、代理服务器保护，请确认 &brandShortName; 得到授权可以访问网页。</li></ul>">
+<!ENTITY dnsNotFound.longDesc2 "<ul>
+  <li>检查看看网址有没有输入错误，比如把
+    <strong>www</strong>.example.com 输入成了
+    <strong>ww</strong>.example.com</li>
+  <li>如果您无法载入任何页面，请检查您设备的数据或者 Wi-Fi 连接。</li>
+</ul>
+">
 
 <!ENTITY fileNotFound.title "未找到文件">
 <!ENTITY fileNotFound.longDesc "
@@ -69,7 +75,11 @@
 <!ENTITY proxyConnectFailure.longDesc "<ul><li>请检查浏览器的代理服务器设置是否正确。</li><li>请联系您的网络管理员以确认代理服务器工作正常。</li></ul>">
 
 <!ENTITY proxyResolveFailure.title "无法找到代理服务器">
-<!ENTITY proxyResolveFailure.longDesc "<ul><li>请检查浏览器的代理服务器设置是否正确。</li><li>请检查您的计算机连到了可用网络。</li><li>如果您的计算机受到防火墙的保护，请确认 &brandShortName; 可以访问网页。</li></ul>">
+<!ENTITY proxyResolveFailure.longDesc2 "<ul>
+  <li>检查代理服务器设置确保正确。</li>
+  <li>检查你的设备是否有正常的数据或者 Wi-Fi 连接。</li>
+</ul>
+ ">
 
 <!ENTITY redirectLoop.title "此页面重定向不正确">
 <!ENTITY redirectLoop.longDesc "<ul><li>此问题可能是因为禁用或拒绝 Cookie 导致。</li></ul>">
@@ -96,20 +106,11 @@
 </ul>
 ">
 
-<!ENTITY sharedLongDesc "
-<ul>
-  <li>此站点暂时不可用或者太忙。请稍后重试。</li>
-  <li>如果您无法载入任何页面，请检查您计算机的网络连接。</li>
-  <li>如果您的计算机受到防火墙或代理服务器的保护，请确认 &brandShortName;  被授权访问网页。</li>
+<!ENTITY sharedLongDesc2 "<ul>
+  <li>该网站可能暂时不可用或者太忙。请在几分钟后重试。</li>
+  <li>如果您无法载入任何页面，请检查您的移动设备数据或者 Wi-Fi 连接。</li>
 </ul>
 ">
-
-<!ENTITY malwareBlocked.title "可疑的攻击站点！">
-<!ENTITY malwareBlocked.longDesc " <p>攻击站点尝试通过安装程序来盗取隐私数据、使用您的计算机攻击他人或者破坏您的系统。</p> <p>网站所有者若认为自己的站点被错误地报告为攻击站点，可以<a href='http://www.stopbadware.org/home/reviewinfo' >请求评审</a>。</p> ">
-
-<!ENTITY phishingBlocked.title "嫌疑欺诈网站！">
-<!ENTITY phishingBlocked.longDesc "<p>在本页面输入个人信息可能会导致帐号被窃或其他欺诈。</p>
-<p>这些欺诈网站均用于钓鱼攻击，在这些攻击中，伪装的网页或邮件地址可能用来假冒您信任的源地址。</p>">
 
 <!ENTITY cspFrameAncestorBlocked.title "由于内容安全策略而被阻止">
 <!ENTITY cspFrameAncestorBlocked.longDesc "<p>页面的内容安全策略导致 &brandShortName; 阻止以该方式载入此页。</p>">

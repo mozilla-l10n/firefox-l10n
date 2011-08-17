@@ -7,6 +7,7 @@
 <!ENTITY go.label              "转到">
 <!ENTITY star.label            "星标">
 
+<!ENTITY showTabs.label        "显示标签页">
 <!ENTITY newtab.label          "新建标签页">
 <!ENTITY closetab.label        "关闭标签页">
 
@@ -15,6 +16,7 @@
 <!ENTITY copyAll.label         "复制全部">
 <!ENTITY copylink.label        "复制链接地址">
 <!ENTITY paste.label           "粘贴">
+<!ENTITY pasteAndGo.label      "粘贴并转到">
 <!ENTITY delete.label          "删除">
 <!ENTITY selectAll.label       "全选">
 <!ENTITY noSuggestions.label   "(无建议)">
@@ -67,6 +69,7 @@
 <!ENTITY bookmarkPopup.label       "页面已加为书签">
 <!ENTITY bookmarkRemove.label      "移除">
 <!ENTITY bookmarkEdit.label        "编辑">
+<!ENTITY bookmarkShortcut.label    "添加到主屏幕">
 
 <!ENTITY identity.unverifiedsite2 "此网站未提供标识信息.">
 <!ENTITY identity.connectedTo2 "已连接至">
@@ -92,6 +95,7 @@
 <!ENTITY contextOpenInNewTab.label    "在新标签页中打开">
 <!ENTITY contextSaveLink.label        "保存链接">
 <!ENTITY contextSaveImage.label       "保存图片">
+<!ENTITY contextCopyLink.label        "复制链接">
 <!ENTITY contextShareLink.label       "分享链接">
 <!ENTITY contextShareImage.label      "分享图片">
 <!ENTITY contextBookmarkLink.label    "将链接加为书签">
@@ -102,6 +106,7 @@
 <!ENTITY contextFullScreen.label      "全屏">
 <!ENTITY contextEditBookmark.label    "编辑">
 <!ENTITY contextRemoveBookmark.label  "删除">
+<!ENTITY contextShortcutBookmark.label "添加到主屏幕">
 
 <!ENTITY pageactions.saveas.pdf      "保存为 PDF">
 <!ENTITY pageactions.share.page      "分享页面">
@@ -111,5 +116,6 @@
 <!ENTITY pageactions.findInPage      "页内查找">
 <!ENTITY pageactions.search.addNew   "添加搜索引擎">
 <!ENTITY pageactions.charEncoding    "字符编码">
+<!ENTITY pageactions.webapps.install "安装为应用">
 
 <!ENTITY appMenu.siteOptions         "站点选项">
