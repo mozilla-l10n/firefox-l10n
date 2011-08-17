@@ -17,3 +17,5 @@
 <!ENTITY textZoomOnly.accesskey                 "Z">
 <!ENTITY blockAutoRefresh.label                 "当网站尝试重定向或者重新载入页面时发出警告">
 <!ENTITY blockAutoRefresh.accesskey             "W">
+<!ENTITY siteSpecific.label                     "记住每个站点上的缩放等级">
+<!ENTITY siteSpecific.accesskey                 "m">

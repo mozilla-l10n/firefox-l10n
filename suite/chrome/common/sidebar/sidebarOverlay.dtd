@@ -47,7 +47,7 @@
 <!ENTITY sidebar.hide.accesskey         "H">
 <!ENTITY sidebar.switch.label           "切换至标签页">
 <!ENTITY sidebar.switch.accesskey       "T">
-<!ENTITY sidebarCmd.label               "边栏">
+<!ENTITY sidebarCmd.label               "侧栏 (b)">
 <!ENTITY sidebarCmd.accesskey           "b">
 <!ENTITY sidebar.loading.label          "载入中…">
 <!ENTITY sidebar.loadstopped.label      "停止载入">
