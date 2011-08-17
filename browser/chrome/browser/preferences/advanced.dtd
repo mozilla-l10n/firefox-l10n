@@ -18,7 +18,7 @@
 <!ENTITY useSmoothScrolling.label        "使用平滑滚动">
 <!ENTITY useSmoothScrolling.accesskey    "m">
 <!ENTITY allowHWAccel.label              "自动启用硬件加速">
-<!ENTITY allowHWAccel.accesskey          "h">
+<!ENTITY allowHWAccel.accesskey          "r">
 <!ENTITY checkSpelling.label             "输入时即检查拼写">
 <!ENTITY checkSpelling.accesskey         "t">
 
@@ -64,7 +64,7 @@
 <!ENTITY enableAddonsUpdate2.label       "附加组件">
 <!ENTITY enableAddonsUpdate2.accesskey   "n">
 <!ENTITY enableSearchUpdate.label        "搜索引擎">
-<!ENTITY enableSearchUpdate.accesskey    "h">
+<!ENTITY enableSearchUpdate.accesskey    "E">
 <!ENTITY whenUpdatesFound.label          "当找到 &brandShortName; 的更新时:">
 <!ENTITY askMe.label                     "询问要做什么">
 <!ENTITY askMe.accesskey                 "k">

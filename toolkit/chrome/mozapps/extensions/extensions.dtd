@@ -92,7 +92,7 @@
 <!ENTITY cmd.showPreferencesUnix.tooltip      "更改本附加件的首选项">
 <!ENTITY cmd.contribute.label                 "贡献">
 <!ENTITY cmd.contribute.accesskey             "C">
-<!ENTITY cmd.contribute.tooltip               "对此附加组件的开发做出贡献">
+<!ENTITY cmd.contribute.tooltip               "捐助此附加组件的开发">
 
 <!ENTITY cmd.showReleaseNotes.label           "显示发行说明">
 <!ENTITY cmd.showReleaseNotes.tooltip         "显示此更新的发行说明">

@@ -1,4 +1,4 @@
-<!ENTITY permissionsManager.title        "权限管理">
+<!ENTITY permissionsManager.title        "权限管理器">
 
 <!ENTITY sites.search                    "搜索站点">
 <!ENTITY sites.allSites                  "所有站点">
@@ -23,7 +23,7 @@
 
 <!ENTITY cookie.label                    "设置 Cookie">
 <!ENTITY cookie.remove                   "移除 Cookie">
-<!ENTITY cookie.manage                   "管理 Cookies…">
+<!ENTITY cookie.manage                   "管理 Cookie…">
 <!ENTITY cookie.removeAll                "移除所有 Cookie">
 
 <!ENTITY geo.label                       "共享位置信息">
