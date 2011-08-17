@@ -1,0 +1,142 @@
+ <!-- File Menu -->
+<!ENTITY tabCmd.label "Pestaña de navegador">
+<!ENTITY tabCmd.accesskey "t">
+<!ENTITY tabCmd.commandkey "t">
+<!ENTITY openCmd.label "Abrir dirección…">
+<!ENTITY openCmd.accesskey "A">
+<!ENTITY openCmd.commandkey "l">
+<!ENTITY openFileCmd.label "Abrir archivo…">
+<!ENTITY openFileCmd.accesskey "o">
+<!ENTITY openFileCmd.commandkey "o">
+
+<!ENTITY closeOtherTabs.label "Cerrar las otras pestañas">
+<!ENTITY closeOtherTabs.accesskey "t">
+
+<!ENTITY uploadFile.label "Subir archivo…">
+<!ENTITY uploadFile.accesskey "S">
+
+<!ENTITY printSetupCmd.label "Configuración de página…">
+<!ENTITY printSetupCmd.accesskey "u">
+
+<!-- Edit Menu -->
+<!ENTITY findOnCmd.label "Buscar en esta página…">
+
+<!-- View Menu -->
+<!ENTITY toolbarsCmd.label "Mostrar/Ocultar">
+<!ENTITY toolbarsCmd.accesskey "M">
+<!ENTITY tabbarCmd.label "Barra de pestañas">
+<!ENTITY tabbarCmd.accesskey "t">
+<!ENTITY taskbarCmd.label "Barra de estado">
+<!ENTITY taskbarCmd.accesskey "s">
+<!ENTITY componentbarCmd.label "Barra de componentes">
+<!ENTITY componentbarCmd.accesskey "c">
+
+<!ENTITY fullScreenCmd.label "Pantalla completa">
+<!ENTITY fullScreenCmd.accesskey "P">
+
+<!ENTITY useStyleSheetMenu.label "Usar estilo">
+<!ENTITY useStyleSheetMenu.accesskey "U">
+<!ENTITY useStyleSheetNone.label "Ninguna">
+<!ENTITY useStyleSheetNone.accesskey "N">
+<!ENTITY useStyleSheetPersistentOnly.label "Estilo predefinido">
+<!ENTITY useStyleSheetPersistentOnly.accesskey "d">
+<!ENTITY bidiSwitchPageDirectionItem.label        "Cambiar dirección de la página">
+<!ENTITY bidiSwitchPageDirectionItem.accesskey    "g">
+<!ENTITY pageSourceCmd.label "Código fuente de la página">
+<!ENTITY pageSourceCmd.accesskey "o">
+<!ENTITY pageSourceCmd.commandkey "u">
+<!ENTITY pageInfoCmd.label "Información de la página">
+<!ENTITY pageInfoCmd.accesskey "p">
+<!ENTITY pageInfoCmd.commandkey "i">
+
+<!ENTITY applyTheme.label	"Aplicar tema"> 
+<!ENTITY applyTheme.accesskey	"A"> 
+<!ENTITY getNewThemesCmd.label "Obtener nuevos temas">
+<!ENTITY getNewThemesCmd.accesskey "O">
+<!ENTITY getPersonasCmd.label "Obtener Personas">
+<!ENTITY getPersonasCmd.accesskey "P">
+
+<!-- Go Menu -->
+<!ENTITY goMenu.label "Ir">
+<!ENTITY goMenu.accesskey "I">
+<!ENTITY goHomeCmd.label "Inicio">
+<!ENTITY goHomeCmd.accesskey "I">
+<!ENTITY historyCmd.label           "Historial">  
+<!ENTITY historyCmd.accesskey       "i">
+<!ENTITY history.commandKey         "h">
+<!ENTITY recentTabs.label "Pestañas cerradas recientemente">
+<!ENTITY recentTabs.accesskey "r">
+<!ENTITY recentTabs.commandkey "t">
+<!ENTITY recentWindows.label "Ventanas recientemente cerradas">
+<!ENTITY recentWindows.accesskey "V">
+<!ENTITY recentWindows.commandkey "y">
+<!ENTITY historyRestoreLastSession.label "Restaurar sesión previa">
+<!ENTITY historyRestoreLastSession.accesskey "R">
+<!ENTITY syncTabsMenu.label         "Pestañas de otras computadoras">
+<!ENTITY syncTabsMenu.accesskey "o">
+
+<!-- Bookmarks Menu -->
+<!ENTITY bookmarksMenu.label "Marcadores">
+<!ENTITY bookmarksMenu.accesskey "M">
+<!ENTITY addCurPageCmd.label "Marcar esta página">
+<!ENTITY addCurPageCmd.accesskey "M">
+<!ENTITY addCurPageAsCmd.label "Marcar esta página…">
+<!ENTITY addCurPageAsCmd.accesskey "M">
+<!ENTITY addCurPageAsCmd.commandkey "d">
+<!ENTITY addCurTabsAsCmd.label "Marcar este grupo de pestañas…">
+<!ENTITY addCurTabsAsCmd.accesskey "g">
+<!ENTITY manBookmarksCmd.label "Organizar marcadores…">
+<!ENTITY manBookmarksCmd.accesskey "m">
+<!ENTITY manBookmarksCmd.commandkey "b">
+
+<!-- Tools Menu -->
+<!ENTITY searchInternetCmd.label "Buscar en la web">
+<!ENTITY searchInternetCmd.accesskey "s">
+<!ENTITY searchInternet.commandKey "s">
+<!ENTITY translateMenu.label "Traducir página">
+<!ENTITY translateMenu.accesskey "T">
+
+<!ENTITY cookieMessageTitle.label "Cookie Permissions Changed">
+<!ENTITY cookieDisplayCookiesCmd.label "Manage Stored Cookies">
+<!ENTITY cookieDisplayCookiesCmd.accesskey "M">
+<!ENTITY cookieAllowCookiesCmd.label "Allow Cookies from This Website">
+<!ENTITY cookieAllowCookiesCmd.accesskey "A">
+<!ENTITY cookieAllowCookiesMsg.label "Cookies from this website will always be allowed.">
+<!ENTITY cookieAllowSessionCookiesCmd.label "Allow Session Cookies from This Website">
+<!ENTITY cookieAllowSessionCookiesCmd.accesskey "S">
+<!ENTITY cookieAllowSessionCookiesMsg.label "This website will be able to set cookies for the current session only.">
+<!ENTITY cookieCookiesDefaultCmd.label "Use Default Cookie Permissions">
+<!ENTITY cookieCookiesDefaultCmd.accesskey "U">
+<!ENTITY cookieCookiesDefaultMsg.label "Cookies from this website will be accepted or rejected based on default settings.">
+<!ENTITY cookieBlockCookiesCmd.label "Block Cookies from This Website">
+<!ENTITY cookieBlockCookiesCmd.accesskey "B">
+<!ENTITY cookieBlockCookiesMsg.label "Cookies from this website will always be rejected.">
+
+<!ENTITY cookieImageMessageTitle.label "Image Permissions Changed">
+<!ENTITY cookieDisplayImagesCmd.label "Manage Image Permissions">
+<!ENTITY cookieDisplayImagesCmd.accesskey "M">
+<!ENTITY cookieAllowImagesCmd.label "Allow Images from This Website">
+<!ENTITY cookieAllowImagesCmd.accesskey "A">
+<!ENTITY cookieAllowImagesMsg.label "Images from this website will always be downloaded.">
+<!ENTITY cookieImagesDefaultCmd.label "Use Default Image Permissions">
+<!ENTITY cookieImagesDefaultCmd.accesskey "U">
+<!ENTITY cookieImagesDefaultMsg.label "Images from this website will be downloaded based on default settings.">
+<!ENTITY cookieBlockImagesCmd.label "Block Images from This Website">
+<!ENTITY cookieBlockImagesCmd.accesskey "B">
+<!ENTITY cookieBlockImagesMsg.label "Images from this website will never be downloaded.">
+
+<!ENTITY cookieAllowPopupsCmd.label "Allow Popups from This Website">
+<!ENTITY cookieAllowPopupsCmd.accesskey "A">
+<!ENTITY cookieManagePopups.label "Manage Popups">
+<!ENTITY cookieManagePopups.accesskey "M">
+
+<!ENTITY cookieCookieManager.label "Administrador de cookies">
+<!ENTITY cookieCookieManager.accesskey "c">
+<!ENTITY cookieImageManager.label "Administrador de imágenes">
+<!ENTITY cookieImageManager.accesskey "i">
+<!ENTITY cookiePopupManager.label "Administrador de ventanas emergentes">
+<!ENTITY cookiePopupManager.accesskey "o">
+
+<!ENTITY clearPrivateDataCmd.label "Borrar datos privados…">
+<!ENTITY clearPrivateDataCmd.accesskey "B">
+

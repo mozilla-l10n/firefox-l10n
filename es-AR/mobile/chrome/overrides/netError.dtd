@@ -7,22 +7,20 @@
 <!-- Specific error messages -->
 
 <!ENTITY connectionFailure.title "No se puede conectar">
-<!ENTITY connectionFailure.longDesc "&sharedLongDesc;">
+<!ENTITY connectionFailure.longDesc "&sharedLongDesc2;">
 
 <!ENTITY deniedPortAccess.title "Esta dirección está restringida">
 <!ENTITY deniedPortAccess.longDesc "">
 
 <!ENTITY dnsNotFound.title "Servidor no encontrado">
-<!ENTITY dnsNotFound.longDesc "<ul>
+<!ENTITY dnsNotFound.longDesc2 "
+<ul>
   <li>Verificá si la dirección no tiene errores de tipeo como
   <strong>ww</strong>.ejemplo.com en lugar de
   <strong>www</strong>.ejemplo.com</li>
-  <li>Si no podés cargar ninguna página, verificá la conexión a la red de yu
-  computadora.</li>
-  <li>Si tu computadora o red está protegida por un firewall o proxy, asegurate
-  que &brandShortName; tenga permiso de acceder a la Web.</li>
+  <li>Si no podés cargar ninguna página, verificá la conexión de datos o Wi-Fi de tu dispositivo.</li>
 </ul>
- ">
+">
 
 <!ENTITY fileNotFound.title "Archivo no encontrado">
 <!ENTITY fileNotFound.longDesc "<ul>
@@ -45,7 +43,7 @@
 ">
 
 <!ENTITY netInterrupt.title "La conexión fue interrumpida">
-<!ENTITY netInterrupt.longDesc "&sharedLongDesc;">
+<!ENTITY netInterrupt.longDesc "&sharedLongDesc2;">
 
 <!ENTITY netOffline.title "Modo sin conexión a la red">
 <!ENTITY netOffline.longDesc2 "
@@ -67,10 +65,10 @@
 ">
 
 <!ENTITY netReset.title "La conexión fue restablecida">
-<!ENTITY netReset.longDesc "&sharedLongDesc;">
+<!ENTITY netReset.longDesc "&sharedLongDesc2;">
 
 <!ENTITY netTimeout.title "La conexión tardó demasiado tiempo">
-<!ENTITY netTimeout.longDesc "&sharedLongDesc;">
+<!ENTITY netTimeout.longDesc "&sharedLongDesc2;">
 
 <!ENTITY protocolNotFound.title "La dirección no fue comprendida">
 <!ENTITY protocolNotFound.longDesc "<ul>
@@ -87,11 +85,10 @@
 ">
 
 <!ENTITY proxyResolveFailure.title "No se puede encontrar el servidor proxy">
-<!ENTITY proxyResolveFailure.longDesc "<ul>
+<!ENTITY proxyResolveFailure.longDesc2 "
+<ul>
   <li>Verificá las opciones de proxy para confirmar que sean correctas.</li>
-  <li>Asegurate que tu computadora tenga una conexión de red en funcionamiento.</li>
-  <li>Si tu computadora o red están protegidas por un firewall o proxy, asegurate de
-    que &brandShortName; tenga permiso de acceder a la Web.</li>
+  <li>Asegurate que tu dispositivo tenga una conexión de datos o Wi-Fi en funcionamiento.</li>
 </ul>
 ">
 
@@ -124,24 +121,11 @@ alguien tratando de hacerse pasar por el servidor.</li>
 </ul>
 ">
 
-<!ENTITY sharedLongDesc "<ul>
-  <li>uizás el sitio no está disponible temporalmente o está sobrecargado. Intentá nuevamente dentro de unos
-    momentos.</li>
-  <li>Si no podés cargar ninguna página, verificá la conexión de tu computadora
-    a la red.</li>
-  <li>Si tu computadora o red están protegidas por un firewall o proxy, asegurate de
-     que &brandShortName; tenga permiso para acceder a la Web.</li>
+<!ENTITY sharedLongDesc2 "
+<ul>
+  <li>Quizás el sitio no está disponible temporalmente o está sobrecargado. Intentá nuevamente dentro de unos momentos.</li>
+  <li>Si no podés cargar ninguna página, verificá la conexión de datos o Wi-Fi de tu dispositivo móvil.</li>
 </ul>
-">
-
-<!ENTITY malwareBlocked.title "¡Sitio sospechoso de ataque!">
-<!ENTITY malwareBlocked.longDesc "<p>Los sitios de ataque tratan de instalar programas que roban información privada, usan tu computadora para atacar otras o dañan tu sistema.</p>
-<p>Los dueños de sitios web que creen que su sitio ha sido reportado como un sitio de ataque por error pueden <a href='http://www.stopbadware.org/home/reviewinfo' >pedir una revisión</a>.</p>
-">
-
-<!ENTITY phishingBlocked.title "¡Sitio sospechoso de ser fraude!">
-<!ENTITY phishingBlocked.longDesc "<p>Si ingresás información personal en esta página, podés ser víctima de un robo de identidad o algún otro fraude.</p>
-<p>Estos métodos de falsificación web son usados en estafas conocidas como ataques de <i>phishing</i>. En dichos ataques, las páginas web y los correos electrónicos fraudulentos se emplean para imitar sitios en los que podés confiar.</p>
 ">
 
 <!ENTITY cspFrameAncestorBlocked.title "Bloqueado por política de seguridad de contenido">
