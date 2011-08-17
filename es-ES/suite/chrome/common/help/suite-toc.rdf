@@ -55,6 +55,7 @@
         <rdf:li> <rdf:Description ID="nav-doc-move" nc:name="Ir a otra página" nc:link="nav_help.xhtml#moving_to_another_page"/> </rdf:li>
         <rdf:li> <rdf:Description ID="nav-doc-link" nc:name="Pulsar un enlace" nc:link="nav_help.xhtml#clicking_a_link"/> </rdf:li>
         <rdf:li> <rdf:Description ID="nav-doc-steps" nc:name="Retroceder nuestros pasos" nc:link="nav_help.xhtml#retracing_your_steps"/> </rdf:li>
+        <rdf:li> <rdf:Description ID="nav-doc-reopen" nc:name="Reabrir pestañas o ventanas cerradas" nc:link="nav_help.xhtml#reopening_closed_tabs_windows"/> </rdf:li>
         <rdf:li> <rdf:Description ID="nav-doc-reload" nc:name="Parada y recarga de páginas" nc:link="nav_help.xhtml#stopping_and_reloading"/> </rdf:li>
         <rdf:li> <rdf:Description ID="nav-doc-bmark" nc:name="Visitar páginas de los marcadores" nc:link="nav_help.xhtml#visiting_bookmarked_pages"/> </rdf:li>
         <rdf:li> <rdf:Description ID="nav-doc-tabbed" nc:name="Usar la navegación con pestañas" nc:link="nav_help.xhtml#using_tabbed_browsing"/> </rdf:li>
