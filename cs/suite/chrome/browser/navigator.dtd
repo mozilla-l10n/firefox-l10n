@@ -18,7 +18,6 @@
 <!ENTITY printPreviewCmd.accesskey "h">
 <!ENTITY printCmd.label "Tisk…">
 <!ENTITY printCmd.accesskey "t">
-<!ENTITY printCmd.commandkey "p">
 
 <!ENTITY navbarCmd.label "Lišta navigace">
 <!ENTITY navbarCmd.accesskey "N">
