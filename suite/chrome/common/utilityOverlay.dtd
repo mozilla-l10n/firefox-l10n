@@ -18,6 +18,13 @@
 <!ENTITY newNavigatorCmd.label "Xanela do navegador">
 <!ENTITY newNavigatorCmd.key "N">
 <!ENTITY newNavigatorCmd.accesskey "X">
+<!ENTITY printSetupCmd.label "Configuración da páxina…">
+<!ENTITY printSetupCmd.accesskey "u">
+<!ENTITY printPreviewCmd.label "Previsualización da impresión">
+<!ENTITY printPreviewCmd.accesskey "v">
+<!ENTITY printCmd.label "Imprimir…">
+<!ENTITY printCmd.accesskey "p">
+<!ENTITY printCmd.key "P">
 
 <!ENTITY editMenu.label                   "Editar">
 <!ENTITY editMenu.accesskey               "E">

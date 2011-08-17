@@ -39,11 +39,6 @@
 <!ENTITY sendLaterCmd.label "Enviar máis tarde">
 <!ENTITY sendLaterCmd.keycode "VK_RETURN">
 <!ENTITY sendLaterCmd.accesskey "E">
-<!ENTITY printSetupCmd.label "Configuración da páxina…">
-<!ENTITY printSetupCmd.accesskey "u">
-<!ENTITY printCmd.label "Imprimir…">
-<!ENTITY printCmd.key "P">
-<!ENTITY printCmd.accesskey "p">
 
 <!-- Edit menu items -->
 <!ENTITY editRewrapCmd.label "Reaxustar">
