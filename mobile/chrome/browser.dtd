@@ -7,6 +7,7 @@
 <!ENTITY go.label              "Ir">
 <!ENTITY star.label            "Estrela">
 
+<!ENTITY showTabs.label        "Mostrar lapelas">
 <!ENTITY newtab.label          "Nova lapela">
 <!ENTITY closetab.label        "Pechar lapela">
 
@@ -15,6 +16,7 @@
 <!ENTITY copyAll.label         "Copiar todo">
 <!ENTITY copylink.label        "Copiar a localización da ligazón">
 <!ENTITY paste.label           "Pegar">
+<!ENTITY pasteAndGo.label      "Pegar e Ir">
 <!ENTITY delete.label          "Borrar">
 <!ENTITY selectAll.label       "Seleccionar todo">
 <!ENTITY noSuggestions.label   "(Sen suxestións)">
@@ -50,7 +52,6 @@
 <!ENTITY addonShowPage.label       "Ir á páxina">
 
 <!ENTITY downloadsHeader.label     "Descargas">
-
 <!ENTITY downloadShowPage.label    "Ir á páxina">
 <!ENTITY downloadShow2.label       "Encontrar">
 <!ENTITY downloadOpen2.label       "Abrir">
@@ -68,6 +69,7 @@
 <!ENTITY bookmarkPopup.label       "Páxina marcada">
 <!ENTITY bookmarkRemove.label      "Eliminar">
 <!ENTITY bookmarkEdit.label        "Editar">
+<!ENTITY bookmarkShortcut.label    "Engadir á pantalla de inicio">
 
 <!ENTITY identity.unverifiedsite2 "Este sitio web non fornece información de identidade.">
 <!ENTITY identity.connectedTo2 "Conectado a">
@@ -93,6 +95,7 @@
 <!ENTITY contextOpenInNewTab.label    "Abrir a ligazón nunha nova lapela">
 <!ENTITY contextSaveLink.label        "Gardar ligazón">
 <!ENTITY contextSaveImage.label       "Gardar imaxe">
+<!ENTITY contextCopyLink.label        "Copiar ligazón">
 <!ENTITY contextShareLink.label       "Compartir ligazón">
 <!ENTITY contextShareImage.label      "Compartir imaxe">
 <!ENTITY contextBookmarkLink.label    "Marcar ligazón">
@@ -103,6 +106,7 @@
 <!ENTITY contextFullScreen.label      "Pantalla completa">
 <!ENTITY contextEditBookmark.label    "Editar">
 <!ENTITY contextRemoveBookmark.label  "Eliminar">
+<!ENTITY contextShortcutBookmark.label "Engadir á pantalla de inicio">
 
 <!ENTITY pageactions.saveas.pdf      "Gardar como PDF">
 <!ENTITY pageactions.share.page      "Compartir páxina">
@@ -112,5 +116,6 @@
 <!ENTITY pageactions.findInPage      "Localizar na páxina">
 <!ENTITY pageactions.search.addNew   "Engadir buscador">
 <!ENTITY pageactions.charEncoding    "Codificación de caracteres">
+<!ENTITY pageactions.webapps.install "Instalar como un aplicativo">
 
 <!ENTITY appMenu.siteOptions         "Opcións do sitio">
