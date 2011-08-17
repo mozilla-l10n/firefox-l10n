@@ -102,6 +102,3 @@
 <!ENTITY webConsoleCmd.label          "Tīmekļa konsole">
 <!ENTITY webConsoleCmd.accesskey      "m">
 <!ENTITY webConsoleCmd.commandkey     "k">
-
-<!ENTITY textbox.placeholder1         "// Ievadiet JavaScript kodu, iezīmējiet to, uzklikšķiniet ar labo peles taustiņu un izvēlieties Izpildīt, Inspicēt vai Attēlot.">
-

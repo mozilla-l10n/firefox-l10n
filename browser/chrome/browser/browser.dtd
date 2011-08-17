@@ -25,6 +25,9 @@
 <!ENTITY printCmd.commandkey "p">
 <!ENTITY openLinkCmdInCurrent.label     "Atvērt saiti">
 <!ENTITY openLinkCmdInCurrent.accesskey "A">
+<!ENTITY backForwardButtonMenu.tooltip "Uzklikšķiniet ar labo taustiņu un pavelciet uz leju, lai redzētu vēsturi">
+<!ENTITY backForwardButtonMenuMac.tooltip "Pavelciet uz leju, lai redzētu vēsturi">
+<!ENTITY searchFocus.commandkey2   "e">
 
 <!ENTITY bookmarksMenuButton.unsorted.label "Nešķirotās grāmatzīmes">
 <!ENTITY bookmarkAllTabs.label "Saglabāt visas cilnes grāmatzīmēs...">
