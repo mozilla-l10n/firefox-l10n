@@ -7,6 +7,7 @@
 <!ENTITY editBookmarkOverlay.siteLocation.label              "Sivuston osoite:">
 <!ENTITY editBookmarkOverlay.siteLocation.accesskey          "S">
 <!ENTITY editBookmarkOverlay.folder.label                    "Kansio:">
+<!ENTITY editBookmarkOverlay.folder.accesskey                "a">
 <!ENTITY editBookmarkOverlay.foldersExpanderDown.tooltip     "Näytä kaikki kirjanmerkkikansiot">
 <!ENTITY editBookmarkOverlay.expanderUp.tooltip              "Piilota">
 <!ENTITY editBookmarkOverlay.tags.label                      "Avainsanat:">
