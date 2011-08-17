@@ -108,3 +108,10 @@
 <!ENTITY dontShowMessage.label "Non mostrare questo messaggio quando i pop-up sono bloccati">
 <!ENTITY dontShowMessage.accesskey "N">
 <!ENTITY syncToolbarButton.label "Sync">
+<!ENTITY printSetupCmd.label "Imposta pagina…">
+<!ENTITY printSetupCmd.accesskey "I">
+<!ENTITY printPreviewCmd.label "Anteprima di stampa">
+<!ENTITY printPreviewCmd.accesskey "A">
+<!ENTITY printCmd.label "Stampa…">
+<!ENTITY printCmd.accesskey "S">
+<!ENTITY printCmd.key "P">

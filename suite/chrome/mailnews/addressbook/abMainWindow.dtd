@@ -18,8 +18,6 @@
 <!ENTITY printAddressBook.accesskey "r">
 <!ENTITY printPreviewAddressBook.label "Anteprima di stampa rubrica">
 <!ENTITY printPreviewAddressBook.accesskey "u">
-<!ENTITY printSetupCmd.label "Imposta pagina…">
-<!ENTITY printSetupCmd.accesskey "I">
 <!ENTITY deleteAbCmd.label "Elimina rubrica">
 <!ENTITY deleteContactCmd.label "Elimina il contatto">
 <!ENTITY deleteContactsCmd.label "Elimina contatti selezionati">
