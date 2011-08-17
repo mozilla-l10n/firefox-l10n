@@ -114,10 +114,3 @@
 <!ENTITY webConsoleCmd.label          "網頁主控台">
 <!ENTITY webConsoleCmd.accesskey      "W">
 <!ENTITY webConsoleCmd.commandkey     "k">
-
-<!-- LOCALIZATION NOTE (textbox.placeholder1): This is some placeholder text
-  -  that appears when the Scratchpad's text area is empty and unfocused.
-  -  It should be a one-line JavaScript comment, i.e., preceded by '//'
-  -->
-<!ENTITY textbox.placeholder1         "//輸入一些 JavaScript，反白起來按右鍵，並選擇執行、檢測，或是顯示。">
-

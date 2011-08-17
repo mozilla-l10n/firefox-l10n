@@ -5,10 +5,7 @@
 <!ENTITY feedback.feedback.good         "讚">
 <!ENTITY feedback.feedback.bad          "糟糕">
 
-<!ENTITY feedback.information.title     "更多資訊">
-<!ENTITY feedback.about.title           "關於此 Beta">
-<!ENTITY feedback.about.button          "更多資訊">
-
 <!ENTITY feedback.tools.title           "工具">
+<!ENTITY feedback.allowTelemetry.title  "傳送效能資料">
 <!ENTITY feedback.forceCompat.title     "強迫套用附加元件相容性">
 <!ENTITY feedback.errorConsole.title    "啟用錯誤主控台">
