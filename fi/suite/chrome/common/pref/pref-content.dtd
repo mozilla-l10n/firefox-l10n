@@ -17,3 +17,5 @@
 <!ENTITY textZoomOnly.accesskey                 "M">
 <!ENTITY blockAutoRefresh.label                 "Varoita, jos sivusto yrittää päivittää sivua tai uudelleenohjata toiselle sivulle">
 <!ENTITY blockAutoRefresh.accesskey             "a">
+<!ENTITY siteSpecific.label                     "Muista sivunsuurennustasot sivustokohtaisesti">
+<!ENTITY siteSpecific.accesskey                 "u">
