@@ -5,10 +5,10 @@
 <!ENTITY reflowZoom.title "Reformatear el texto al acercar">
 <!ENTITY showImages.title "Mostrar imágenes">
 <!ENTITY enableJavaScript.title "Activar JavaScript">
-<!ENTITY enablePlugins.title "Activar plugins">
 <!ENTITY privacy.title "Privacidad y seguridad">
 <!ENTITY allowCookies.title "Permitir cookies">
 <!ENTITY doNotTrack.title "No quiero ser rastreado">
+<!ENTITY masterPassword.title "Usar contraseña maestra">
 <!ENTITY clearPrivateData2.title "Limpiar datos privados">
 <!ENTITY clearPrivateData.button "Limpiar">
 <!ENTITY rememberPasswords.title "Recordar contraseñas">
@@ -20,4 +20,4 @@
 <!ENTITY homepage.none "Página en blanco">
 <!ENTITY homepage.default "Inicio de &brandShortName;">
 <!ENTITY homepage.currentpage "Usar página actual">
-<!ENTITY showCharset.title "Mostrar codif. caracteres">
+<!ENTITY showCharsetEncoding.title "Mostrar codificación de caracteres">

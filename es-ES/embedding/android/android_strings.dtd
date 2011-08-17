@@ -13,3 +13,6 @@
 <!ENTITY sending_crash_report "Enviando reporte de fallo\u2026">
 <!ENTITY exit_label "Salir">
 <!ENTITY continue_label "Continuar">
+<!ENTITY launcher_shortcuts_title "Aplicaciones web de &brandShortName;">
+<!ENTITY launcher_shortcuts_empty "No se encontraron aplicaciones web">
+<!ENTITY choose_file "Elegir archivo">
