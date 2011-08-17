@@ -32,11 +32,6 @@
 <!ENTITY sendLaterCmd.label "Отправить позже">
 <!ENTITY sendLaterCmd.keycode "VK_RETURN">
 <!ENTITY sendLaterCmd.accesskey "з">
-<!ENTITY printSetupCmd.label "Параметры страницы…">
-<!ENTITY printSetupCmd.accesskey "а">
-<!ENTITY printCmd.label "Печать…">
-<!ENTITY printCmd.key "P">
-<!ENTITY printCmd.accesskey "П">
 <!ENTITY editRewrapCmd.label "Переформатировать">
 <!ENTITY editRewrapCmd.key "R">
 <!ENTITY editRewrapCmd.accesskey "е">

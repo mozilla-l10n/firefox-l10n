@@ -64,11 +64,8 @@
 <!ENTITY downloadFlaggedCmd.accesskey "ф">
 <!ENTITY printCmd.label "Печать…">
 <!ENTITY printCmd.accesskey "е">
-<!ENTITY printCmd.key "p">
 <!ENTITY printPreviewCmd.label "Предварительный просмотр">
 <!ENTITY printPreviewCmd.accesskey "д">
-<!ENTITY printSetupCmd.label "Параметры страницы…">
-<!ENTITY printSetupCmd.accesskey "а">
 <!ENTITY deleteMsgCmd.label "Удалить сообщение">
 <!ENTITY deleteMsgCmd.accesskey "У">
 <!ENTITY undeleteMsgCmd.label "Восстановить сообщение">
