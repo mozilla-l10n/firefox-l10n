@@ -62,8 +62,6 @@
 <!ENTITY printAddressBook.accesskey "O">
 <!ENTITY printPreviewAddressBook.label "Náhled tisku složky kontaktů">
 <!ENTITY printPreviewAddressBook.accesskey "L">
-<!ENTITY printSetupCmd.label "Nastavení stránky…">
-<!ENTITY printSetupCmd.accesskey "s">
 
 <!-- Edit Menu -->
 <!ENTITY deleteAbCmd.label "Odstranit">

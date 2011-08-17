@@ -39,11 +39,6 @@
 <!ENTITY sendLaterCmd.label "Odeslat později">
 <!ENTITY sendLaterCmd.keycode "VK_RETURN">
 <!ENTITY sendLaterCmd.accesskey "P">
-<!ENTITY printSetupCmd.label "Vzhled stránky…">
-<!ENTITY printSetupCmd.accesskey "v">
-<!ENTITY printCmd.label "Tisk…">
-<!ENTITY printCmd.key "P">
-<!ENTITY printCmd.accesskey "T">
 
 <!-- Edit menu items -->
 <!ENTITY editRewrapCmd.label "Zalomit">
