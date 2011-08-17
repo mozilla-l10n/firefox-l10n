@@ -73,9 +73,6 @@
 <!ENTITY printCmd.label "Tisk…">
 <!ENTITY printCmd.accesskey "t">
 <!ENTITY printCmd.key "p">
-<!ENTITY closeCmd.label "Zavřít">
-<!ENTITY closeCmd.accesskey "z">
-<!ENTITY closeCmd.key "w">
 
 <!-- Edit menu items -->
 <!ENTITY editMenu.label "Úpravy">
