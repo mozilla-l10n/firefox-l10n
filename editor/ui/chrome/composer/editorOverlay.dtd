@@ -76,9 +76,6 @@
 <!ENTITY printCmd.label "Skriv ut...">
 <!ENTITY printCmd.accesskey "u">
 <!ENTITY printCmd.key "P">
-<!ENTITY closeCmd.label "Stäng">
-<!ENTITY closeCmd.accesskey "t">
-<!ENTITY closeCmd.key "W">
 
 <!-- Edit menu items -->
 <!ENTITY editMenu.label "Redigera">
