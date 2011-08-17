@@ -18,3 +18,8 @@ Cabhraigh linn, le do thoil, chun an fhadhb a réiteach!">
 <!ENTITY sending_crash_report "Tuairisc ar thuairteáil á seoladh\u2026">
 <!ENTITY exit_label "Scoir">
 <!ENTITY continue_label "Ar Aghaidh">
+
+<!ENTITY launcher_shortcuts_title "Feidhmchláir Ghréasáin &brandShortName;">
+<!ENTITY launcher_shortcuts_empty "Níor aimsíodh aon fheidhmchláir Ghréasáin">
+
+<!ENTITY choose_file "Roghnaigh Comhad">

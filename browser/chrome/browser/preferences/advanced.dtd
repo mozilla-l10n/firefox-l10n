@@ -18,7 +18,7 @@
 <!ENTITY useSmoothScrolling.label "Úsáid mínscrollú">
 <!ENTITY useSmoothScrolling.accesskey "m">
 <!ENTITY allowHWAccel.label "Úsáid luasghéarú crua-earraí más féidir">
-<!ENTITY allowHWAccel.accesskey "h">
+<!ENTITY allowHWAccel.accesskey "r">
 <!ENTITY checkSpelling.label "Litriú beo">
 <!ENTITY checkSpelling.accesskey "b">
 
@@ -65,7 +65,7 @@
 <!ENTITY enableAddonsUpdate2.label "Breiseáin">
 <!ENTITY enableAddonsUpdate2.accesskey "n">
 <!ENTITY enableSearchUpdate.label "Innill Chuardaigh">
-<!ENTITY enableSearchUpdate.accesskey "h">
+<!ENTITY enableSearchUpdate.accesskey "I">
 <!ENTITY whenUpdatesFound.label "Agus nuashonruithe do &brandShortName; aimsithe:">
 <!ENTITY askMe.label "Fiafraigh díom cad atá le déanamh">
 <!ENTITY askMe.accesskey "c">

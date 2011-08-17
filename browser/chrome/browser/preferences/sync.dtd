@@ -13,9 +13,10 @@
 <!ENTITY manageAccount.label "Bainistigh Do Chuntas">
 <!ENTITY manageAccount.accesskey "C">
 <!ENTITY viewQuota.label "Féach ar Chuóta">
-<!ENTITY changePassword.label "Athraigh an Focal Faire">
+<!ENTITY changePassword2.label "Athraigh an Focal Faire…">
 <!ENTITY mySyncKey.label "M'Eochair Sync">
-<!ENTITY resetSync.label "Athshocraigh Sync">
+<!ENTITY resetSync2.label "Athshocraigh Sync…">
+
 <!ENTITY addDevice.label "Cuir Gléas Leis">
 
 <!ENTITY syncMy.label "Sioncrónaigh Mo Chuid">
@@ -33,7 +34,7 @@
 
 <!ENTITY syncComputerName.label "Ainm an Ríomhaire:">
 <!ENTITY syncComputerName.accesskey "A">
-<!ENTITY deactivateDevice.label "Díghníomhachtaigh an Gléas Seo">
+<!ENTITY unlinkDevice.label "Dínasc an Gléas Seo">
 <!-- Footer stuff -->
 
 <!ENTITY prefs.tosLink.label "Téarmaí Seirbhíse">

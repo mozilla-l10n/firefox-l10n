@@ -20,7 +20,6 @@
 <!ENTITY safeb.blocked.malwarePage.shortDesc "Tuairiscíodh gur leathanach ionsaithe é an leathanach Gréasáin <span id='malware_sitename'/> agus tá cosc curtha air de bharr do roghanna slándála.">
 <!ENTITY safeb.blocked.malwarePage.longDesc "<p>Déanann leathanaigh ionsaithe iarracht ríomhchláir a shuiteáil a ghoideann faisnéis phríobháideach nó a dhéanann dochar do do ríomhaire.</p><p>Scaipeann leathanaigh ionsaithe áirithe bogearraí dochracha d'aonturas, ach is minic suímh a bheith contúirteach i nganfhios dá n-úinéirí agus gan a gcead.</p>">
 
-<!ENTITY safeb.blocked.phishingPage.title "Tuairiscíodh gur Falsaíocht Ghréasáin an suíomh seo!">
-<!-- Localization note (safeb.blocked.phishing.shortDesc) - Please don't translate the contents of the <span id="phishing_sitename"/> tag. It will be replaced at runtime with a domain name (e.g. www.badsite.com) -->
-<!ENTITY safeb.blocked.phishingPage.shortDesc "Tuairiscíodh gur Falsaíocht Ghreásáin é an leathanach <span id='phishing_sitename'/> agus tá cosc curtha air de bharr do roghanna slándála.">
-<!ENTITY safeb.blocked.phishingPage.longDesc "<p>Tá falsaíochtaí Gréasáin ceaptha le mearbhall a chur ort le go dtabharfaidh tú eolas pearsanta nó airgeadais trí aithris a dhéanamh ar fhoinsí a bhfuil muinín agat astu. </p><p>D'fhéadfadh goid aitheantais nó calaois eile teacht mar thoradh ar fhaisnéis ar bith a chur isteach sa leathanach seo.</p>">
+<!ENTITY safeb.blocked.phishingPage.title2 "Falsaíocht Ghréasáin!">
+<!ENTITY safeb.blocked.phishingPage.shortDesc2 "Má chuireann tú aon fhaisnéis phearsanta isteach ar an leathanach seo, d'fhéadfadh a bheith goid aitheantas nó calaois eile mar thoradh air.">
+<!ENTITY safeb.blocked.phishingPage.longDesc2 '<p>Úsáidtear suímh den chineál seo i gcamscéimeanna ar a dtugtar "bréagbhrandáil", ina gcruthaíonn coirpigh leathanaigh agus ríomhphoist chalaoiseacha chun aithris a dhéanamh ar fhoinsí dlisteanacha a bhfuil muinín agat astu.</p>'>

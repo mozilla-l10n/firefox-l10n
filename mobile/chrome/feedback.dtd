@@ -5,10 +5,7 @@
 <!ENTITY feedback.feedback.good "Go Maith">
 <!ENTITY feedback.feedback.bad "Go Dona">
 
-<!ENTITY feedback.information.title "Tuilleadh Eolais">
-<!ENTITY feedback.about.title "Maidir leis an leagan béite seo">
-<!ENTITY feedback.about.button "Téigh go Leathanach">
-
 <!ENTITY feedback.tools.title "Uirlisí">
+<!ENTITY feedback.allowTelemetry.title "Seol sonraí feidhmíochta">
 <!ENTITY feedback.forceCompat.title "Bíodh comhoiriúnacht na mbreiseán riachtanach">
 <!ENTITY feedback.errorConsole.title "Cumasaigh an Consól Earráide">

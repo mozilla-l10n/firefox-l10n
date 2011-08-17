@@ -59,6 +59,7 @@
 <!ENTITY editMessageButton.label "Eagar…">
 <!ENTITY hdrArchiveButton.label "Cuir sa chartlann">
 <!ENTITY hdrArchiveButton.tooltip "Cuir an teachtaireacht seo sa chartlann">
+<!ENTITY hdrSmartReplyButton.label "freagra cliste">
 <!ENTITY hdrReplyButton.label "Freagair">
 <!ENTITY hdrReplyButton.tooltip "Freagair an teachtaireacht seo">
 <!ENTITY hdrReplyAllButton.label "Freagair cách">
