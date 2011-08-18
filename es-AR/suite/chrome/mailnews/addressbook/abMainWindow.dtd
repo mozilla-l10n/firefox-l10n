@@ -63,8 +63,6 @@
 <!ENTITY printAddressBook.accesskey                     "a"> 
 <!ENTITY printPreviewAddressBook.label                  "Vista preliminar de la libreta de direcciones"> 
 <!ENTITY printPreviewAddressBook.accesskey              "b">
-<!ENTITY printSetupCmd.label                            "Configurar página…">
-<!ENTITY printSetupCmd.accesskey                        "u">
 
 <!-- Edit Menu -->
 <!ENTITY deleteAbCmd.label                              "Borrar libreta de direcciones">  
