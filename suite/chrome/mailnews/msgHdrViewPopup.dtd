@@ -10,5 +10,8 @@
 <!ENTITY copyLinkCmd.label "Copia indirizzo collegamento">
 <!ENTITY copyLinkCmd.accesskey "d">
 <!ENTITY CopyMessageId.label "Copia identificativo del messaggio">
+<!ENTITY CopyMessageId.accesskey "C">
 <!ENTITY OpenMessageForMsgId.label "Apri messaggio con questo ID">
+<!ENTITY OpenMessageForMsgId.accesskey "O">
 <!ENTITY OpenBrowserWithMsgId.label "Apri messaggio nel browser con questo ID">
+<!ENTITY OpenBrowserWithMsgId.accesskey "B">

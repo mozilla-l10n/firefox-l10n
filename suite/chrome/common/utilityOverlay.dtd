@@ -14,6 +14,13 @@
 <!ENTITY newNavigatorCmd.label "Finestra browser">
 <!ENTITY newNavigatorCmd.key "N">
 <!ENTITY newNavigatorCmd.accesskey "b">
+<!ENTITY printSetupCmd.label "Imposta pagina…">
+<!ENTITY printSetupCmd.accesskey "I">
+<!ENTITY printPreviewCmd.label "Anteprima di stampa">
+<!ENTITY printPreviewCmd.accesskey "A">
+<!ENTITY printCmd.label "Stampa…">
+<!ENTITY printCmd.accesskey "S">
+<!ENTITY printCmd.key "P">
 <!ENTITY editMenu.label "Modifica">
 <!ENTITY editMenu.accesskey "M">
 <!ENTITY undoCmd.label "Annulla">
@@ -47,6 +54,16 @@
 <!ENTITY preferencesCmd.label "Preferenze…">
 <!ENTITY preferencesCmd.key "E">
 <!ENTITY preferencesCmd.accesskey "P">
+<!ENTITY findCmd.key "F">
+<!ENTITY findCmd.accesskey "F">
+<!ENTITY findAgainCmd.label "Find Again">
+<!ENTITY findAgainCmd.key "G">
+<!ENTITY findAgainCmd.accesskey "g">
+<!ENTITY findAgainCmd.key2 "VK_F3">
+<!ENTITY findPrevCmd.label "Find Previous">
+<!ENTITY findPrevCmd.key "G">
+<!ENTITY findPrevCmd.key2 "VK_F3">
+<!ENTITY findPrevCmd.accesskey "v">
 <!ENTITY findTypeTextCmd.label "Trova testo digitato">
 <!ENTITY findTypeTextCmd.accesskey "g">
 <!ENTITY findTypeLinksCmd.label "Trova testo digitato nei collegamenti">
@@ -108,10 +125,3 @@
 <!ENTITY dontShowMessage.label "Non mostrare questo messaggio quando i pop-up sono bloccati">
 <!ENTITY dontShowMessage.accesskey "N">
 <!ENTITY syncToolbarButton.label "Sync">
-<!ENTITY printSetupCmd.label "Imposta pagina…">
-<!ENTITY printSetupCmd.accesskey "I">
-<!ENTITY printPreviewCmd.label "Anteprima di stampa">
-<!ENTITY printPreviewCmd.accesskey "A">
-<!ENTITY printCmd.label "Stampa…">
-<!ENTITY printCmd.accesskey "S">
-<!ENTITY printCmd.key "P">
