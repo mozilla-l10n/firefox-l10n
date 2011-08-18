@@ -12,6 +12,6 @@
 <!ENTITY CopyMessageId.label "Copia identificativo del messaggio">
 <!ENTITY CopyMessageId.accesskey "C">
 <!ENTITY OpenMessageForMsgId.label "Apri messaggio con questo ID">
-<!ENTITY OpenMessageForMsgId.accesskey "O">
+<!ENTITY OpenMessageForMsgId.accesskey "r">
 <!ENTITY OpenBrowserWithMsgId.label "Apri messaggio nel browser con questo ID">
-<!ENTITY OpenBrowserWithMsgId.accesskey "B">
+<!ENTITY OpenBrowserWithMsgId.accesskey "m">
