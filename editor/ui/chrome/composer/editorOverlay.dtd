@@ -72,9 +72,6 @@
 <!ENTITY printCmd.label "Prenta…">
 <!ENTITY printCmd.accesskey "P">
 <!ENTITY printCmd.key "P">
-<!ENTITY closeCmd.label "Loka">
-<!ENTITY closeCmd.accesskey "L">
-<!ENTITY closeCmd.key "W">
 <!-- Edit menu items -->
 <!ENTITY editMenu.label "Breyta">
 <!ENTITY editMenu.accesskey "e">
@@ -89,17 +86,6 @@
 <!ENTITY pasteAsQuotationCmd.accesskey "t">
 <!ENTITY pasteAsQuotationCmd.key "o">
 <!ENTITY findCmd.label "Leita og breyta…">
-<!ENTITY findCmd.accesskey "L">
-<!ENTITY findCmd.key "F">
-<!ENTITY findCmd.key2 "VK_F19">
-<!ENTITY findAgainCmd.label "Leita aftur">
-<!ENTITY findAgainCmd.accesskey "i">
-<!ENTITY findAgainCmd.key "G">
-<!ENTITY findAgainCmd.key2 "VK_F3">
-<!ENTITY findPrevCmd.label "Leita til baka">
-<!ENTITY findPrevCmd.accesskey "b">
-<!ENTITY findPrevCmd.key "G">
-<!ENTITY findPrevCmd.key2 "VK_F3">
 <!ENTITY enableInlineSpellChecker.label "Athuga stafsetningu í innslætti">
 <!ENTITY enableInlineSpellChecker.accesskey "s">
 <!ENTITY checkSpellingCmd2.label "Yfirfara stafsetningu">
@@ -135,23 +121,6 @@
 <!ENTITY createLinkCmd.accesskey "B">
 <!ENTITY editLinkCmd.label "Breyta tengli í nýjum ritli">
 <!ENTITY editLinkCmd.accesskey "i">
-<!-- (Toplevel Edit menu uses utilityOverlay) -->
-<!ENTITY undoCmd.label "Afturkalla">
-<!ENTITY undoCmd.accesskey "u">
-<!ENTITY redoCmd.label "Endurtaka">
-<!ENTITY redoCmd.accesskey "r">
-<!ENTITY cutCmd.label "Klippa">
-<!ENTITY cutCmd.accesskey "K">
-<!ENTITY copyCmd.label "Afrita">
-<!ENTITY copyCmd.accesskey "A">
-<!ENTITY pasteCmd.label "Líma">
-<!ENTITY pasteCmd.accesskey "L">
-<!ENTITY deleteCmd.label "Eyða">
-<!ENTITY deleteCmd.accesskey "E">
-<!ENTITY clearCmd.label "Hreinsa">
-<!ENTITY clearCmd.accesskey "H">
-<!ENTITY selectAllCmd.label "Velja allt">
-<!ENTITY selectAllCmd.accesskey "a">
 <!-- Font Face SubMenu -->
 <!ENTITY FontFaceSelect.tooltip "Veldu leturgerð">
 <!ENTITY fontfaceMenu.label "Leturgerð">
@@ -376,6 +345,9 @@
 <!ENTITY openToolbarCmd.tooltip "Opna staðbundna skrá">
 <!ENTITY saveToolbarCmd.tooltip "Vista skrá á staðbundna staðsetningu">
 <!ENTITY publishToolbarCmd.tooltip "Uphala skrá á fjartengda staðsetningu">
+<!ENTITY cutToolbarCmd.tooltip "Klippa">
+<!ENTITY copyToolbarCmd.tooltip "Afrita">
+<!ENTITY pasteToolbarCmd.tooltip "Líma">
 <!ENTITY printToolbarCmd.label "Prenta">
 <!ENTITY printToolbarCmd.tooltip "Prenta síðu">
 <!ENTITY findToolbarCmd.label "Leita">
