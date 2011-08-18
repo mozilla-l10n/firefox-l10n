@@ -198,6 +198,8 @@
 <!ENTITY bodySanitized.accesskey "s">
 <!ENTITY bodyAsPlaintext.label "Testo semplice">
 <!ENTITY bodyAsPlaintext.accesskey "T">
+<!ENTITY bodyAllParts.label "All Body Parts">
+<!ENTITY bodyAllParts.accesskey "A">
 <!ENTITY bodyMenuFeed.label "Corpo del messaggio come">
 <!ENTITY bodyMenuFeed.accesskey "d">
 <!ENTITY viewFeedWebPage.label "Pagina web">
@@ -216,16 +218,6 @@
 <!ENTITY pageSourceCmd.accesskey "n">
 <!ENTITY pageSourceCmd.key "u">
 <!ENTITY findCmd.label "Trova nel messaggio…">
-<!ENTITY findCmd.accesskey "v">
-<!ENTITY findCmd.key "f">
-<!ENTITY findAgainCmd.label "Trova successivo">
-<!ENTITY findAgainCmd.accesskey "u">
-<!ENTITY findAgainCmd.key "g">
-<!ENTITY findAgainCmd.key2 "VK_F3">
-<!ENTITY findPrevCmd.label "Trova precedente">
-<!ENTITY findPrevCmd.accesskey "d">
-<!ENTITY findPrevCmd.key "g">
-<!ENTITY findPrevCmd.key2 "VK_F3">
 <!ENTITY goMenu.label "Vai">
 <!ENTITY goMenu.accesskey "a">
 <!ENTITY nextMenu.label "Prossimo">
