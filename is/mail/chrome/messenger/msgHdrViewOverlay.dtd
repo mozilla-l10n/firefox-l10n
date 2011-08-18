@@ -57,6 +57,7 @@
 <!ENTITY editMessageButton.label "Breyta…">
 <!ENTITY hdrArchiveButton.label "skjalasafn">
 <!ENTITY hdrArchiveButton.tooltip "setja póst í skjalasafn">
+<!ENTITY hdrSmartReplyButton.label "snjallsvar">
 <!ENTITY hdrReplyButton.label "svara">
 <!ENTITY hdrReplyButton.tooltip "svara pósti">
 <!ENTITY hdrReplyAllButton.label "svara öllum">

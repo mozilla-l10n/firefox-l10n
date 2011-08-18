@@ -89,8 +89,3 @@
 <!ENTITY webConsoleCmd.label "Vefgluggi">
 <!ENTITY webConsoleCmd.accesskey "e">
 <!ENTITY webConsoleCmd.commandkey "k">
-<!-- LOCALIZATION NOTE (textbox.placeholder1): This is some placeholder text
-  -  that appears when the Scratchpad's text area is empty and unfocused.
-  -  It should be a one-line JavaScript comment, i.e., preceded by '//'
-  -->
-<!ENTITY textbox.placeholder1 "// Sláðu inn JavaScript, veldu það, hægri smelltu og veldu keyra, skoða eða sýna.">

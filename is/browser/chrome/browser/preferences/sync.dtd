@@ -11,9 +11,9 @@
 <!ENTITY manageAccount.label "Sýsla með aðgang">
 <!ENTITY manageAccount.accesskey "a">
 <!ENTITY viewQuota.label "Skoða kvóta">
-<!ENTITY changePassword.label "Breyta lykilorði">
+<!ENTITY changePassword2.label "Breyta lykilorði…">
 <!ENTITY mySyncKey.label "Sync lykillinn minn">
-<!ENTITY resetSync.label "Endurstilla Sync">
+<!ENTITY resetSync2.label "Endurstilla Sync…">
 <!ENTITY addDevice.label "Bæta við tölvu">
 <!ENTITY syncMy.label "Samstilla">
 <!ENTITY engine.bookmarks.label "Bókamerki">
@@ -29,7 +29,7 @@
 <!-- Device Settings -->
 <!ENTITY syncComputerName.label "Tölvuheiti:">
 <!ENTITY syncComputerName.accesskey "T">
-<!ENTITY deactivateDevice.label "Gera þetta tæki óvirkt">
+<!ENTITY unlinkDevice.label "Aftengja þetta tæki">
 <!-- Footer stuff -->
 <!ENTITY prefs.tosLink.label "Skilmálar þjónustu">
 <!ENTITY prefs.ppLink.label "Meðferð persónuupplýsinga">

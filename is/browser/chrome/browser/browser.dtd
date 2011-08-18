@@ -100,6 +100,8 @@ can reach it easily. -->
 <!ENTITY forwardCmd.label "Áfram">
 <!ENTITY forwardCmd.accesskey "f">
 <!ENTITY forwardButton.tooltip "Áfram um eina síðu">
+<!ENTITY backForwardButtonMenu.tooltip "Hægri smelltu eða flettu niður til að sýna feril">
+<!ENTITY backForwardButtonMenuMac.tooltip "Flettu niður til að sýna feril">
 <!ENTITY reloadCmd.label "Endurnýja">
 <!ENTITY reloadCmd.accesskey "r">
 <!ENTITY reloadButton.tooltip "Endurnýja síðu">
@@ -303,6 +305,7 @@ can reach it easily. -->
   Mac:  Cmd+K (cross platform binding)
         Cmd+Opt+F (platform convention)
   Win:  Ctrl+K (cross platform binding)
+        Ctrl+E (IE compat)
 
   We support Ctrl+K on all platforms now and advertise it in the menu since it is
   our standard - it is a "safe" choice since it is near no harmful keys like "W" as
@@ -313,6 +316,7 @@ can reach it easily. -->
 
  -->
 <!ENTITY searchFocus.commandkey "k">
+<!ENTITY searchFocus.commandkey2 "e">
 <!ENTITY searchFocusUnix.commandkey "j">
 <!ENTITY tabView.commandkey "e">
 <!ENTITY openLinkCmdInTab.label "Opna tengil í nýjum flipa">

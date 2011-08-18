@@ -216,6 +216,8 @@
 <!ENTITY bodySanitized.accesskey "E">
 <!ENTITY bodyAsPlaintext.label "Ósniðinn texti">
 <!ENTITY bodyAsPlaintext.accesskey "s">
+<!ENTITY bodyAllParts.label "Allir meginmálshlutir">
+<!ENTITY bodyAllParts.accesskey "A">
 <!ENTITY bodyMenuFeed.label "Meginmál straums sem">
 <!ENTITY bodyMenuFeed.accesskey "M">
 <!ENTITY viewFeedWebPage.label "Vefsíða">

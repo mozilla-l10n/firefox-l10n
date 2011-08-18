@@ -14,3 +14,6 @@
 <!ENTITY sending_crash_report "Sendi hrunskýrslu\u2026">
 <!ENTITY exit_label "Hætta">
 <!ENTITY continue_label "Halda áfram">
+<!ENTITY launcher_shortcuts_title "&brandShortName; Vefþjónustur">
+<!ENTITY launcher_shortcuts_empty "Engar vefþjónustur fundust">
+<!ENTITY choose_file "Velja skrá">

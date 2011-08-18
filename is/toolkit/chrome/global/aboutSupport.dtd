@@ -17,6 +17,7 @@
 <!ENTITY aboutSupport.appBasicsEnabledPlugins "Virk tengiforrit">
 <!ENTITY aboutSupport.appBasicsBuildConfig "Smíð stillingar">
 <!ENTITY aboutSupport.appBasicsUserAgent "Auðkenni forrits">
+<!ENTITY aboutSupport.appBasicsCrashIDs "Hrunskýrslur">
 <!ENTITY aboutSupport.show.label "Opna möppu">
 <!-- LOCALIZATION NOTE (aboutSupport.showMac.label): This is the Mac-specific
 variant of aboutSupport.show.label.  This allows us to use the preferred
