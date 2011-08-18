@@ -55,15 +55,15 @@
 <!ENTITY preferencesCmd.key "E">
 <!ENTITY preferencesCmd.accesskey "P">
 <!ENTITY findCmd.key "F">
-<!ENTITY findCmd.accesskey "F">
-<!ENTITY findAgainCmd.label "Find Again">
+<!ENTITY findCmd.accesskey "v">
+<!ENTITY findAgainCmd.label "Trova successivo">
 <!ENTITY findAgainCmd.key "G">
-<!ENTITY findAgainCmd.accesskey "g">
+<!ENTITY findAgainCmd.accesskey "u">
 <!ENTITY findAgainCmd.key2 "VK_F3">
-<!ENTITY findPrevCmd.label "Find Previous">
+<!ENTITY findPrevCmd.label "Trova precedente">
 <!ENTITY findPrevCmd.key "G">
 <!ENTITY findPrevCmd.key2 "VK_F3">
-<!ENTITY findPrevCmd.accesskey "v">
+<!ENTITY findPrevCmd.accesskey "d">
 <!ENTITY findTypeTextCmd.label "Trova testo digitato">
 <!ENTITY findTypeTextCmd.accesskey "g">
 <!ENTITY findTypeLinksCmd.label "Trova testo digitato nei collegamenti">
