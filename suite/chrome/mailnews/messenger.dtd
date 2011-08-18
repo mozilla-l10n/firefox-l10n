@@ -198,8 +198,8 @@
 <!ENTITY bodySanitized.accesskey "s">
 <!ENTITY bodyAsPlaintext.label "Testo semplice">
 <!ENTITY bodyAsPlaintext.accesskey "T">
-<!ENTITY bodyAllParts.label "All Body Parts">
-<!ENTITY bodyAllParts.accesskey "A">
+<!ENTITY bodyAllParts.label "Tutte le parti del corpo">
+<!ENTITY bodyAllParts.accesskey "u">
 <!ENTITY bodyMenuFeed.label "Corpo del messaggio come">
 <!ENTITY bodyMenuFeed.accesskey "d">
 <!ENTITY viewFeedWebPage.label "Pagina web">
