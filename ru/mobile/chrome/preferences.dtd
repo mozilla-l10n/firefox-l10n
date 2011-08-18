@@ -20,4 +20,4 @@
 <!ENTITY homepage.none "Пустой страницы">
 <!ENTITY homepage.default "Страницы &brandShortName;">
 <!ENTITY homepage.currentpage "Текущей страницы">
-<!ENTITY showCharset.title "Меню выбора кодировки">
+<!ENTITY showCharset.title "Показывать выбор кодировки">
