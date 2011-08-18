@@ -46,8 +46,8 @@
 <!ENTITY reset.value "Pulsante di ripristino">
 <!ENTITY file.value "Scelta file">
 <!ENTITY hidden.value "Nascosto">
-<!ENTITY image.value "immagine">
-<!ENTITY button.value "pulsante">
+<!ENTITY image.value "Immagine">
+<!ENTITY button.value "Pulsante">
 <!ENTITY InputSettings.label "Impostazioni campo">
 <!ENTITY InputName.label "Nome campo:">
 <!ENTITY InputName.accesskey "N">
@@ -72,8 +72,8 @@
 <!ENTITY TextLength.label "Lunghezza massima:">
 <!ENTITY TextLength.accesskey "L">
 <!ENTITY AccessKey.label "Scorciatoia tastiera:">
-<!ENTITY AccessKey.accesskey "S">
+<!ENTITY AccessKey.accesskey "o">
 <!ENTITY Accept.label "Tipi accettati:">
-<!ENTITY Accept.accesskey "T">
+<!ENTITY Accept.accesskey "a">
 <!ENTITY ImageProperties.label "Proprietà immagine…">
-<!ENTITY ImageProperties.accesskey "P">
+<!ENTITY ImageProperties.accesskey "m">
