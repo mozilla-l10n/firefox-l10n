@@ -1,7 +1,4 @@
 <!ENTITY pref.advanced.title "Avanzate">
-<!ENTITY prefEnableJava.caption "Funzioni che aiutano nell'interpretazione delle pagine web">
-<!ENTITY enbJavaCheck.label "Attiva Java">
-<!ENTITY enbJavaCheck.accesskey "A">
 <!ENTITY systemPref.caption "Preferenze di sistema">
 <!ENTITY systemPrefCheck.label "Utilizza preferenze del sistema">
 <!ENTITY systemPrefCheck.accesskey "U">

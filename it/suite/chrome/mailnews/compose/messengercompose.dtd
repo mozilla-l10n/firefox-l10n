@@ -41,16 +41,6 @@
 <!ENTITY editRewrapCmd.key "R">
 <!ENTITY editRewrapCmd.accesskey "m">
 <!ENTITY findCmd.label "Trova e sostituisci…">
-<!ENTITY findCmd.key "F">
-<!ENTITY findCmd.accesskey "v">
-<!ENTITY findAgainCmd.label "Trova successivo">
-<!ENTITY findAgainCmd.key "G">
-<!ENTITY findAgainCmd.accesskey "u">
-<!ENTITY findAgainCmd.key2 "VK_F3">
-<!ENTITY findPrevCmd.label "Trova precedente">
-<!ENTITY findPrevCmd.key "G">
-<!ENTITY findPrevCmd.key2 "VK_F3">
-<!ENTITY findPrevCmd.accesskey "d">
 <!ENTITY accountManagerCmd.label "Configurazione account…">
 <!ENTITY accountManagerCmd.accesskey "n">
 <!ENTITY showComposeToolbarCmd.label "Barra degli strumenti">

@@ -38,32 +38,32 @@
 <!ENTITY windowTitle.label "Controllo ortografico">
 <!ENTITY misspelledWord.label "Parola errata:">
 <!ENTITY wordEditField.label "Sostituisci con:">
-<!ENTITY wordEditField.accessKey "S">
+<!ENTITY wordEditField.accessKey "o">
 <!ENTITY checkwordButton.label "Controlla vocabolo">
-<!ENTITY checkwordButton.accessKey "C">
+<!ENTITY checkwordButton.accessKey "n">
 <!ENTITY suggestions.label "Suggerimenti:">
-<!ENTITY suggestions.accessKey "S">
+<!ENTITY suggestions.accessKey "u">
 <!ENTITY ignoreButton.label "Ignora">
 <!ENTITY ignoreButton.accessKey "I">
 <!ENTITY ignoreAllButton.label "Ignora tutti">
-<!ENTITY ignoreAllButton.accessKey "I">
+<!ENTITY ignoreAllButton.accessKey "g">
 <!ENTITY replaceButton.label "Sostituisci">
 <!ENTITY replaceButton.accessKey "S">
 <!ENTITY replaceAllButton.label "Sostituisci tutti">
-<!ENTITY replaceAllButton.accessKey "S">
+<!ENTITY replaceAllButton.accessKey "t">
 <!ENTITY stopButton.label "Interrompi">
-<!ENTITY stopButton.accessKey "I">
+<!ENTITY stopButton.accessKey "e">
 <!ENTITY userDictionary.label "Dizionario personale:">
 <!ENTITY moreDictionaries.label "Scarica altri dizionari…">
 <!ENTITY addToUserDictionaryButton.label "Aggiungi vocabolo">
 <!ENTITY addToUserDictionaryButton.accessKey "A">
-<!ENTITY editUserDictionaryButton.label "Modifica">
+<!ENTITY editUserDictionaryButton.label "Modifica…">
 <!ENTITY editUserDictionaryButton.accessKey "M">
 <!ENTITY recheckButton.label "Ricontrolla pagina">
 <!ENTITY recheckButton.accessKey "R">
 <!ENTITY closeButton.label "Chiudi">
 <!ENTITY closeButton.accessKey "C">
 <!ENTITY sendButton.label "Invia">
-<!ENTITY sendButton.accessKey "I">
+<!ENTITY sendButton.accessKey "v">
 <!ENTITY languagePopup.label "Lingua:">
 <!ENTITY languagePopup.accessKey "L">

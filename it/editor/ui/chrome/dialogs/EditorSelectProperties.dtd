@@ -35,27 +35,27 @@
    -
    - ***** END LICENSE BLOCK ***** -->
 <!ENTITY windowTitle.label "Proprietà lista di selezione">
-<!ENTITY Select.label "lista di selezione">
+<!ENTITY Select.label "Lista di selezione">
 <!ENTITY SelectName.label "Nome lista:">
 <!ENTITY SelectName.accesskey "N">
 <!ENTITY SelectSize.label "Altezza:">
-<!ENTITY SelectSize.accesskey "A">
+<!ENTITY SelectSize.accesskey "z">
 <!ENTITY SelectMultiple.label "Selezione multipla">
-<!ENTITY SelectMultiple.accesskey "S">
+<!ENTITY SelectMultiple.accesskey "m">
 <!ENTITY SelectDisabled.label "Disattivato">
 <!ENTITY SelectDisabled.accesskey "D">
 <!ENTITY SelectTabIndex.label "Indice tabulazione:">
 <!ENTITY SelectTabIndex.accesskey "I">
 <!ENTITY OptGroup.label "Gruppo opzioni">
 <!ENTITY OptGroupLabel.label "Etichetta:">
-<!ENTITY OptGroupLabel.accesskey "E">
+<!ENTITY OptGroupLabel.accesskey "t">
 <!ENTITY OptGroupDisabled.label "Disattivato">
 <!ENTITY OptGroupDisabled.accesskey "D">
 <!ENTITY Option.label "Opzione">
 <!ENTITY OptionText.label "Testo:">
 <!ENTITY OptionText.accesskey "T">
 <!ENTITY OptionValue.label "Valore:">
-<!ENTITY OptionValue.accesskey "V">
+<!ENTITY OptionValue.accesskey "o">
 <!ENTITY OptionSelected.label "Selezionato">
 <!ENTITY OptionSelected.accesskey "S">
 <!ENTITY OptionDisabled.label "Disattivato">
@@ -66,10 +66,10 @@
 <!ENTITY AddOption.label "Aggiungi opzione">
 <!ENTITY AddOption.accesskey "A">
 <!ENTITY AddOptGroup.label "Aggiungi gruppo">
-<!ENTITY AddOptGroup.accesskey "A">
+<!ENTITY AddOptGroup.accesskey "u">
 <!ENTITY RemoveElement.label "Elimina">
 <!ENTITY RemoveElement.accesskey "E">
 <!ENTITY MoveElementUp.label "Muovi su">
-<!ENTITY MoveElementUp.accesskey "M">
+<!ENTITY MoveElementUp.accesskey "s">
 <!ENTITY MoveElementDown.label "Muovi giù">
-<!ENTITY MoveElementDown.accesskey "M">
+<!ENTITY MoveElementDown.accesskey "g">
