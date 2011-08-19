@@ -1,4 +1,4 @@
-﻿<!ENTITY messengerWindow.title "Correio e Grupos de discussão">
+<!ENTITY messengerWindow.title "Correio e Grupos de discussão">
 <!ENTITY titledefault.label "&brandFullName;">
 <!ENTITY titleSeparator.label " - ">
 
@@ -9,9 +9,6 @@
 <!ENTITY closeTabCmd2.accesskey "e">
 <!ENTITY closeOtherTabsCmd2.label "Fechar outros separadoress">
 <!ENTITY closeOtherTabsCmd2.accesskey "h">
-<!-- LOCALIZATION NOTE (undoCloseTabCmd.label):
-     Menu option to attempt to re-open a recently closed tab.
-     -->
 <!ENTITY recentlyClosedTabsCmd.label "Separadores fechados recentemente">
 <!ENTITY recentlyClosedTabsCmd.accesskey "r">
 
@@ -227,6 +224,8 @@
 <!ENTITY bodySanitized.accesskey "L">
 <!ENTITY bodyAsPlaintext.label "Sem formatação">
 <!ENTITY bodyAsPlaintext.accesskey "S">
+<!ENTITY bodyAllParts.label "Todas as partes do corpo">
+<!ENTITY bodyAllParts.accesskey "A">
 
 <!ENTITY bodyMenuFeed.label "Corpo da mensagem de fonte como">
 <!ENTITY bodyMenuFeed.accesskey "n">
