@@ -58,16 +58,16 @@
 <!ENTITY editmodeToolbarCmd.accesskey    "e">
 
 <!-- Format menu items -->
-<!ENTITY formatMenu.label     "Format">
-<!ENTITY formatMenu.accesskey "F">
+<!ENTITY formatMenu.label         "Format">
+<!ENTITY formatMenu.accesskey     "F">
 <!ENTITY grid.label               "Siatka">
 <!ENTITY grid.accesskey           "t">
 <!ENTITY pageProperties.label     "Właściwości i tytuł strony…">
 <!ENTITY pageProperties.accesskey "o">
 
 <!-- Tools menu items -->
-<!ENTITY validateCmd.label     "Weryfikuj poprawność kodu HTML">
-<!ENTITY validateCmd.accesskey "W">
+<!ENTITY validateCmd.label         "Weryfikuj poprawność kodu HTML">
+<!ENTITY validateCmd.accesskey     "W">
 <!ENTITY previewToolbarCmd.label   "Podgląd">
 <!ENTITY previewToolbarCmd.tooltip "Otwórz bieżącą stronę w nowym oknie przeglądarki">
 

@@ -25,31 +25,31 @@
 <!ENTITY selectAllCmd.label     "Zaznacz wszystko">
 <!ENTITY selectAllCmd.accesskey "a">
 <!ENTITY selectAllCmd.key       "A">
-<!ENTITY preferencesCmd.label             "Opcje…">
-<!ENTITY preferencesCmd.accesskey         "O">
-<!ENTITY preferencesCmdUnix.label         "Preferencje">
-<!ENTITY preferencesCmdUnix.accesskey     "f">
+<!ENTITY preferencesCmd.label         "Opcje…">
+<!ENTITY preferencesCmd.accesskey     "O">
+<!ENTITY preferencesCmdUnix.label     "Preferencje">
+<!ENTITY preferencesCmdUnix.accesskey "f">
 
-<!ENTITY viewMenu.label                   "Widok">
-<!ENTITY viewMenu.accesskey               "W">
-<!ENTITY viewToolbarsMenu.label           "Paski narzędzi">
-<!ENTITY viewToolbarsMenu.accesskey       "n">
-<!ENTITY showTaskbarCmd.label             "Pasek stanu">
-<!ENTITY showTaskbarCmd.accesskey         "e">
+<!ENTITY viewMenu.label             "Widok">
+<!ENTITY viewMenu.accesskey         "W">
+<!ENTITY viewToolbarsMenu.label     "Paski narzędzi">
+<!ENTITY viewToolbarsMenu.accesskey "n">
+<!ENTITY showTaskbarCmd.label       "Pasek stanu">
+<!ENTITY showTaskbarCmd.accesskey   "e">
 
-<!ENTITY proxy.label                      "Konfiguracja Proxy…">
-<!ENTITY proxy.accesskey                  "c">
+<!ENTITY proxy.label     "Konfiguracja Proxy…">
+<!ENTITY proxy.accesskey "c">
 
-<!ENTITY closeCmd.label                   "Zamknij">
-<!ENTITY closeCmd.accesskey               "Z">
-<!ENTITY closeCmd.key                     "W">
+<!ENTITY closeCmd.label     "Zamknij">
+<!ENTITY closeCmd.accesskey "Z">
+<!ENTITY closeCmd.key       "W">
 
-<!ENTITY quitApplicationCmd.label         "Zakończ">
-<!ENTITY quitApplicationCmd.accesskey     "k">
-<!ENTITY quitApplicationCmd.key           "Q">
+<!ENTITY quitApplicationCmd.label     "Zakończ">
+<!ENTITY quitApplicationCmd.accesskey "k">
+<!ENTITY quitApplicationCmd.key       "Q">
 
 <!ENTITY quitApplicationCmdUnix.label     "Zakończ">
 <!ENTITY quitApplicationCmdUnix.accesskey "k">
 
-<!ENTITY quitApplicationCmdMac.label      "Zakończ program &brandShortName;">
-<!ENTITY quitApplicationCmdMac.accesskey  "k">
+<!ENTITY quitApplicationCmdMac.label     "Zakończ program &brandShortName;">
+<!ENTITY quitApplicationCmdMac.accesskey "k">

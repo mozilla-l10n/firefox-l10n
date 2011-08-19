@@ -1,14 +1,14 @@
-<!ENTITY addressing.label              "Tworzenie i adresowanie wiadomości">
+<!ENTITY addressing.label "Tworzenie i adresowanie wiadomości">
 
-<!ENTITY addressingGroupTitle.label    "Adresowanie">
-<!ENTITY addressingText.label          "Podczas poszukiwania adresów:">
-<!ENTITY useGlobal.label               "Użyj globalnych ustawień serwera LDAP dla tego konta">
-<!ENTITY useGlobal.accesskey           "U">
-<!ENTITY editDirectories.label         "Edytuj katalogi…">
-<!ENTITY editDirectories.accesskey     "E">
-<!ENTITY directories.label             "Użyj innego serwera LDAP:">
-<!ENTITY directories.accesskey         "L">
-<!ENTITY directoriesNone.label         "brak">
+<!ENTITY addressingGroupTitle.label "Adresowanie">
+<!ENTITY addressingText.label       "Podczas poszukiwania adresów:">
+<!ENTITY useGlobal.label            "Użyj globalnych ustawień serwera LDAP dla tego konta">
+<!ENTITY useGlobal.accesskey        "U">
+<!ENTITY editDirectories.label      "Edytuj katalogi…">
+<!ENTITY editDirectories.accesskey  "E">
+<!ENTITY directories.label          "Użyj innego serwera LDAP:">
+<!ENTITY directories.accesskey      "L">
+<!ENTITY directoriesNone.label      "brak">
 
 <!ENTITY compositionGroupTitle.label   "Tworzenie wiadomości">
 <!ENTITY useHtml.label                 "Twórz wiadomości w formacie HTML">

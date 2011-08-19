@@ -18,23 +18,23 @@
 <!ENTITY emailLabel.accesskey        "E">
 
 <!-- Entities for Server page -->
-<!ENTITY serverTitle.label              "Informacje o serwerze">
-<!ENTITY incomingServerTypeDesc.label   "Wybierz typ serwera poczty przychodzącej:">
-<!ENTITY incomingServerNameDesc.label   "Wprowadź nazwę serwera poczty przychodzącej (na przykład: „pop.netscape.net”):">
-<!ENTITY incomingServerLabel.label      "Serwer poczty przychodzącej:">
-<!ENTITY incomingServerLabel.accesskey  "S">
-<!ENTITY newsServerNameDesc.label       "Podaj adres serwera grup dyskusyjnych (NNTP) (na przykład: „news.netscape.net”):">
-<!ENTITY smtpServerDesc.label           "Wprowadź nazwę serwera poczty wychodzącej (na przykład: „smtp.netscape.net”):">
-<!ENTITY smtpServerLabel.label          "Serwer poczty wychodzącej (SMTP):">
-<!ENTITY smtpServerLabel.accesskey      "o">
-<!ENTITY newsServerLabel.label          "Serwer grup dyskusyjnych:">
-<!ENTITY newsServerLabel.accesskey      "n">
-<!ENTITY imapType.label                 "Serwer IMAP">
-<!ENTITY imapType.accesskey             "I">
-<!ENTITY popType.label                  "Serwer POP">
-<!ENTITY popType.accesskey              "P">
-<!ENTITY leaveMsgsOnSrvr.label          "Zostawiaj wiadomości na serwerze">
-<!ENTITY leaveMsgsOnSrvr.accesskey      "Z">
+<!ENTITY serverTitle.label             "Informacje o serwerze">
+<!ENTITY incomingServerTypeDesc.label  "Wybierz typ serwera poczty przychodzącej:">
+<!ENTITY incomingServerNameDesc.label  "Wprowadź nazwę serwera poczty przychodzącej (na przykład: „pop.netscape.net”):">
+<!ENTITY incomingServerLabel.label     "Serwer poczty przychodzącej:">
+<!ENTITY incomingServerLabel.accesskey "S">
+<!ENTITY newsServerNameDesc.label      "Podaj adres serwera grup dyskusyjnych (NNTP) (na przykład: „news.netscape.net”):">
+<!ENTITY smtpServerDesc.label          "Wprowadź nazwę serwera poczty wychodzącej (na przykład: „smtp.netscape.net”):">
+<!ENTITY smtpServerLabel.label         "Serwer poczty wychodzącej (SMTP):">
+<!ENTITY smtpServerLabel.accesskey     "o">
+<!ENTITY newsServerLabel.label         "Serwer grup dyskusyjnych:">
+<!ENTITY newsServerLabel.accesskey     "n">
+<!ENTITY imapType.label                "Serwer IMAP">
+<!ENTITY imapType.accesskey            "I">
+<!ENTITY popType.label                 "Serwer POP">
+<!ENTITY popType.accesskey             "P">
+<!ENTITY leaveMsgsOnSrvr.label         "Zostawiaj wiadomości na serwerze">
+<!ENTITY leaveMsgsOnSrvr.accesskey     "Z">
 
 <!ENTITY haveSmtp1.prefix            "Zostanie użyty domyślny serwer poczty wychodzącej (SMTP) - „">
 <!ENTITY haveSmtp1.suffix2           "”. Ustawienia serwera poczty wychodzącej można zmieniać za pomocą opcji dostępnych w oknie konfiguracji kont.">

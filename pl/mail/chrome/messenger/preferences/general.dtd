@@ -17,16 +17,16 @@
 <!ENTITY customizeMailAlert.label     "Dostosuj…">
 <!ENTITY customizeMailAlert.accesskey "s">
 
-<!ENTITY play.label                "Odtwórz">
-<!ENTITY play.accesskey            "r">
-<!ENTITY systemsound.label         "domyślny systemowy dźwięk powiadomienia o nowej poczcie">
-<!ENTITY systemsoundMac.label      "systemowy dźwięk powiadomienia">
-<!ENTITY systemsoundMac.accesskey  "m">
-<!ENTITY systemsound.accesskey     "m">
-<!ENTITY customsound.label         "użyj pliku">
-<!ENTITY customsound.accesskey     "u">
-<!ENTITY browse.label              "Przeglądaj…">
-<!ENTITY browse.accesskey          "e">
+<!ENTITY play.label               "Odtwórz">
+<!ENTITY play.accesskey           "r">
+<!ENTITY systemsound.label        "domyślny systemowy dźwięk powiadomienia o nowej poczcie">
+<!ENTITY systemsoundMac.label     "systemowy dźwięk powiadomienia">
+<!ENTITY systemsoundMac.accesskey "m">
+<!ENTITY systemsound.accesskey    "m">
+<!ENTITY customsound.label        "użyj pliku">
+<!ENTITY customsound.accesskey    "u">
+<!ENTITY browse.label             "Przeglądaj…">
+<!ENTITY browse.accesskey         "e">
 
 <!ENTITY addonsMgr.label             "Dodatki">
 <!ENTITY manageAddonsDescWin.label   "Zmień opcje zainstalowanych dodatków">

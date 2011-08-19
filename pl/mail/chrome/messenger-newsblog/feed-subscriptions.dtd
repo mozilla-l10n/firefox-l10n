@@ -1,8 +1,7 @@
-<!-- Subscription Dialog -->
-<!ENTITY feedSubscriptions.label     "Subskrypcje">
-<!ENTITY subscriptionDesc.label      "Uwaga: Usunięcie lub zmiana folderu dla kanału nie będą miały wpływu na pobrane wcześniej artykuły.">
-<!ENTITY feedTitle.label             "Tytuł:">
-<!ENTITY location.label              "Adres:">
+<!ENTITY feedSubscriptions.label "Subskrypcje">
+<!ENTITY subscriptionDesc.label  "Uwaga: Usunięcie lub zmiana folderu dla kanału nie będą miały wpływu na pobrane wcześniej artykuły.">
+<!ENTITY feedTitle.label         "Tytuł:">
+<!ENTITY location.label          "Adres:">
 
 <!ENTITY button.addFeed.label        "Dodaj">
 <!ENTITY button.addFeed.accesskey    "D">

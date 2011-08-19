@@ -4,10 +4,10 @@
 <!ENTITY authorName.accesskey "a">
 <!ENTITY pageColorHeader      "Domyślny wygląd strony">
 
-<!ENTITY defaultColors.label       "Nie ustawiaj kolorów strony. Zostaną użyte domyślne ustawienia przeglądarki czytelnika">
-<!ENTITY defaultColors.accesskey   "d">
-<!ENTITY customColors.label        "Użyj poniższych kolorów:">
-<!ENTITY customColors.accesskey    "p">
+<!ENTITY defaultColors.label     "Nie ustawiaj kolorów strony. Zostaną użyte domyślne ustawienia przeglądarki czytelnika">
+<!ENTITY defaultColors.accesskey "d">
+<!ENTITY customColors.label      "Użyj poniższych kolorów:">
+<!ENTITY customColors.accesskey  "p">
 
 <!ENTITY normalText.label          "Zwykły tekst">
 <!ENTITY normalText.accesskey      "e">

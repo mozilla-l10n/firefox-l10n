@@ -18,33 +18,33 @@
 <!ENTITY attachFileCmd.accesskey "l">
 <!ENTITY attachPageCmd.label     "Stronę WWW…">
 <!ENTITY attachPageCmd.accesskey "W">
-<!ENTITY attachVCardCmd.label           "Wizytówkę">
-<!ENTITY attachVCardCmd.accesskey       "t">
-<!ENTITY closeCmd.label                 "Zamknij">
-<!ENTITY closeCmd.accesskey             "Z">
-<!ENTITY closeCmd.key                   "W">
-<!ENTITY saveCmd.label                  "Zapisz">
-<!ENTITY saveCmd.accesskey              "s">
-<!ENTITY saveCmd.key                    "S">
-<!ENTITY saveAsCmd.label                "Zapisz jako">
-<!ENTITY saveAsCmd.accesskey            "a">
-<!ENTITY saveAsFileCmd.label            "Plik…">
-<!ENTITY saveAsFileCmd.accesskey        "P">
-<!ENTITY saveAsDraftCmd.label           "Szkic">
-<!ENTITY saveAsDraftCmd.accesskey       "c">
-<!ENTITY saveAsTemplateCmd.label        "Szablon">
-<!ENTITY saveAsTemplateCmd.accesskey    "b">
-<!ENTITY sendNowCmd.label               "Wyślij teraz">
-<!ENTITY sendNowCmd.accesskey           "t">
-<!ENTITY sendCmd.keycode                "VK_RETURN">
-<!ENTITY sendLaterCmd.label             "Wyślij później">
-<!ENTITY sendLaterCmd.accesskey         "W">
-<!ENTITY sendLaterCmd.keycode           "VK_RETURN">
-<!ENTITY printSetupCmd.label            "Ustawienia strony…">
-<!ENTITY printSetupCmd.accesskey        "e">
-<!ENTITY printCmd.label                 "Drukuj…">
-<!ENTITY printCmd.accesskey             "D">
-<!ENTITY printCmd.key                   "P">
+<!ENTITY attachVCardCmd.label        "Wizytówkę">
+<!ENTITY attachVCardCmd.accesskey    "t">
+<!ENTITY closeCmd.label              "Zamknij">
+<!ENTITY closeCmd.accesskey          "Z">
+<!ENTITY closeCmd.key                "W">
+<!ENTITY saveCmd.label               "Zapisz">
+<!ENTITY saveCmd.accesskey           "s">
+<!ENTITY saveCmd.key                 "S">
+<!ENTITY saveAsCmd.label             "Zapisz jako">
+<!ENTITY saveAsCmd.accesskey         "a">
+<!ENTITY saveAsFileCmd.label         "Plik…">
+<!ENTITY saveAsFileCmd.accesskey     "P">
+<!ENTITY saveAsDraftCmd.label        "Szkic">
+<!ENTITY saveAsDraftCmd.accesskey    "c">
+<!ENTITY saveAsTemplateCmd.label     "Szablon">
+<!ENTITY saveAsTemplateCmd.accesskey "b">
+<!ENTITY sendNowCmd.label            "Wyślij teraz">
+<!ENTITY sendNowCmd.accesskey        "t">
+<!ENTITY sendCmd.keycode             "VK_RETURN">
+<!ENTITY sendLaterCmd.label          "Wyślij później">
+<!ENTITY sendLaterCmd.accesskey      "W">
+<!ENTITY sendLaterCmd.keycode        "VK_RETURN">
+<!ENTITY printSetupCmd.label         "Ustawienia strony…">
+<!ENTITY printSetupCmd.accesskey     "e">
+<!ENTITY printCmd.label              "Drukuj…">
+<!ENTITY printCmd.accesskey          "D">
+<!ENTITY printCmd.key                "P">
 
 <!-- Edit Menu -->
 <!ENTITY editMenu.label           "Edycja">
@@ -126,29 +126,29 @@
 <!ENTITY dsnMenu.accesskey                  "n">
 <!ENTITY outputFormatMenu.label             "Wyślij wiadomość jako">
 <!ENTITY outputFormatMenu.accesskey         "W">
-<!ENTITY autoFormatCmd.label                  "Wybierz automatycznie">
-<!ENTITY autoFormatCmd.accesskey              "a">
-<!ENTITY plainTextFormatCmd.label             "Tylko tekst">
-<!ENTITY plainTextFormatCmd.accesskey         "T">
-<!ENTITY htmlFormatCmd.label                  "Tylko HTML">
-<!ENTITY htmlFormatCmd.accesskey              "H">
-<!ENTITY bothFormatCmd.label                  "Tekst oraz HTML">
-<!ENTITY bothFormatCmd.accesskey              "z">
+<!ENTITY autoFormatCmd.label                "Wybierz automatycznie">
+<!ENTITY autoFormatCmd.accesskey            "a">
+<!ENTITY plainTextFormatCmd.label           "Tylko tekst">
+<!ENTITY plainTextFormatCmd.accesskey       "T">
+<!ENTITY htmlFormatCmd.label                "Tylko HTML">
+<!ENTITY htmlFormatCmd.accesskey            "H">
+<!ENTITY bothFormatCmd.label                "Tekst oraz HTML">
+<!ENTITY bothFormatCmd.accesskey            "z">
 <!ENTITY priorityMenu.label                 "Priorytet">
 <!ENTITY priorityMenu.accesskey             "e">
-<!ENTITY highestPriorityCmd.label             "Najwyższy">
-<!ENTITY highestPriorityCmd.accesskey         "N">
-<!ENTITY highPriorityCmd.label                "Wysoki">
-<!ENTITY highPriorityCmd.accesskey            "W">
-<!ENTITY normalPriorityCmd.label              "Normalny">
-<!ENTITY normalPriorityCmd.accesskey          "o">
-<!ENTITY lowPriorityCmd.label                 "Niski">
-<!ENTITY lowPriorityCmd.accesskey             "s">
-<!ENTITY lowestPriorityCmd.label              "Najniższy">
-<!ENTITY lowestPriorityCmd.accesskey          "a">
+<!ENTITY highestPriorityCmd.label           "Najwyższy">
+<!ENTITY highestPriorityCmd.accesskey       "N">
+<!ENTITY highPriorityCmd.label              "Wysoki">
+<!ENTITY highPriorityCmd.accesskey          "W">
+<!ENTITY normalPriorityCmd.label            "Normalny">
+<!ENTITY normalPriorityCmd.accesskey        "o">
+<!ENTITY lowPriorityCmd.label               "Niski">
+<!ENTITY lowPriorityCmd.accesskey           "s">
+<!ENTITY lowestPriorityCmd.label            "Najniższy">
+<!ENTITY lowestPriorityCmd.accesskey        "a">
 <!ENTITY fileCarbonCopyCmd.label            "Zachowaj kopię wiadomości w folderze">
 <!ENTITY fileCarbonCopyCmd.accesskey        "a">
-<!ENTITY fileHereMenu.label                   "Zachowaj tutaj">
+<!ENTITY fileHereMenu.label                 "Zachowaj tutaj">
 
 <!ENTITY priorityButton.label "Priorytet:">
 

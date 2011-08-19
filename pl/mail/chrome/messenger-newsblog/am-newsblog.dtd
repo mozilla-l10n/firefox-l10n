@@ -1,17 +1,17 @@
-<!ENTITY accountTitle.label            "Ustawienia konta">
+<!ENTITY accountTitle.label "Ustawienia konta">
 
-<!ENTITY biffStart.label               "Sprawdzaj, czy są nowe artykuły co ">
-<!ENTITY biffStart.accesskey           "k">
-<!ENTITY biffEnd.label                 "minut">
+<!ENTITY biffStart.label     "Sprawdzaj, czy są nowe artykuły co ">
+<!ENTITY biffStart.accesskey "k">
+<!ENTITY biffEnd.label       "minut">
 
-<!ENTITY loginAtStartup.label          "Sprawdzaj podczas uruchamiania, czy są nowe artykuły">
-<!ENTITY loginAtStartup.accesskey      "c">
+<!ENTITY loginAtStartup.label     "Sprawdzaj podczas uruchamiania, czy są nowe artykuły">
+<!ENTITY loginAtStartup.accesskey "c">
 
-<!ENTITY useQuickMode.label            "Domyślnie pokazuj podsumowanie artykułu, zamiast wczytywać stronę internetową">
-<!ENTITY useQuickMode.accesskey        "D">
+<!ENTITY useQuickMode.label     "Domyślnie pokazuj podsumowanie artykułu, zamiast wczytywać stronę internetową">
+<!ENTITY useQuickMode.accesskey "D">
 
-<!ENTITY manageSubscriptions.label      "Menedżer źródeł aktualności…">
-<!ENTITY manageSubscriptions.accesskey  "r">
+<!ENTITY manageSubscriptions.label     "Menedżer źródeł aktualności…">
+<!ENTITY manageSubscriptions.accesskey "r">
 
 <!-- entities from rss.rdf -->
 <!ENTITY feeds.accountName              "Aktualności i blogi">

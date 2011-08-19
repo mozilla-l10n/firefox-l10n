@@ -1,7 +1,7 @@
 <!-- UI for showing various views on a folder -->
 
-<!ENTITY viewPicker.label            "Wyświetlaj:">
-<!ENTITY viewPicker.accesskey        "i">
+<!ENTITY viewPicker.label     "Wyświetlaj:">
+<!ENTITY viewPicker.accesskey "i">
 
 <!ENTITY viewAll.label               "Wszystkie">
 <!ENTITY viewAll.accesskey           "W">

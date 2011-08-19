@@ -83,21 +83,21 @@
 <!ENTITY editImageMapButton.tooltip     "Utwórz aktywne obszary dla tego obrazka">
 
 <!-- These are the options for image alignment -->
-<!ENTITY alignment.label        "Wyrównaj tekst względem obrazka">
-<!ENTITY bottomPopup.value      "Na dole">
-<!ENTITY topPopup.value         "U góry">
-<!ENTITY centerPopup.value      "Na środku">
-<!ENTITY wrapRightPopup.value   "Opływanie z prawej">
-<!ENTITY wrapLeftPopup.value    "Opływanie z lewej">
+<!ENTITY alignment.label      "Wyrównaj tekst względem obrazka">
+<!ENTITY bottomPopup.value    "Na dole">
+<!ENTITY topPopup.value       "U góry">
+<!ENTITY centerPopup.value    "Na środku">
+<!ENTITY wrapRightPopup.value "Opływanie z prawej">
+<!ENTITY wrapLeftPopup.value  "Opływanie z lewej">
 
 <!-- These controls are in the Spacing Box -->
-<!ENTITY spacingBox.label               "Odstępy">
-<!ENTITY leftRightEditField.label       "Z lewej i prawej:">
-<!ENTITY leftRightEditField.accessKey   "l">
-<!ENTITY topBottomEditField.label       "Z góry i dołu:">
-<!ENTITY topBottomEditField.accessKey   "g">
-<!ENTITY borderEditField.label          "Szerokość obramowania:">
-<!ENTITY borderEditField.accessKey      "b">
+<!ENTITY spacingBox.label             "Odstępy">
+<!ENTITY leftRightEditField.label     "Z lewej i prawej:">
+<!ENTITY leftRightEditField.accessKey "l">
+<!ENTITY topBottomEditField.label     "Z góry i dołu:">
+<!ENTITY topBottomEditField.accessKey "g">
+<!ENTITY borderEditField.label        "Szerokość obramowania:">
+<!ENTITY borderEditField.accessKey    "b">
 
 <!-- These controls are in the Link Box -->
 <!ENTITY showImageLinkBorder.label     "Pokaż ramkę wokół obrazka z odnośnikiem">

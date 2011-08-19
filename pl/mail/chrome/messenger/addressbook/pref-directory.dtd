@@ -39,7 +39,7 @@
 
  ***** END LICENSE BLOCK ***** -->
 
-<!ENTITY pref.ldap.window.title    "Serwery usług katalogowych LDAP">
+<!ENTITY pref.ldap.window.title "Serwery usług katalogowych LDAP">
 
 <!ENTITY directories.label         "Serwer usług katalogowych LDAP:">
 <!ENTITY directoriesText.label     "Wybierz serwer usług katalogowych LDAP:">

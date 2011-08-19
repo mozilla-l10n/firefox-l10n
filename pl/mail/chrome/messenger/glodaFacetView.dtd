@@ -1,5 +1,5 @@
 <!ENTITY glodaFacetView.filters.label  "Filtry">
 <!ENTITY glodaFacetView.pageMore.label "Więcej &#187;">
 
-<!ENTITY glodaFacetView.loading.label  "Wyszukiwanie…">
-<!ENTITY glodaFacetView.empty.label    "Nie znaleziono żadnych wiadomości">
+<!ENTITY glodaFacetView.loading.label "Wyszukiwanie…">
+<!ENTITY glodaFacetView.empty.label   "Nie znaleziono żadnych wiadomości">

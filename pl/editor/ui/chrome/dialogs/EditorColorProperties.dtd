@@ -38,13 +38,13 @@
    - ***** END LICENSE BLOCK ***** -->
 
 <!ENTITY windowTitle.label "Kolory strony i tło">
-<!ENTITY pageColors.label "Kolory strony">
-<!ENTITY defaultColorsRadio.label "Domyślne kolory czytelnika (nie definiuj kolorów strony)">
+<!ENTITY pageColors.label  "Kolory strony">
+<!ENTITY defaultColorsRadio.label     "Domyślne kolory czytelnika (nie definiuj kolorów strony)">
 <!ENTITY defaultColorsRadio.accessKey "D">
-<!ENTITY defaultColorsRadio.tooltip "Użyj ustawień kolorów odbiorcy">
+<!ENTITY defaultColorsRadio.tooltip   "Użyj ustawień kolorów odbiorcy">
 <!ENTITY customColorsRadio.label      "Używaj wybranych kolorów">
-<!ENTITY customColorsRadio.accessKey "U">
-<!ENTITY customColorsRadio.tooltip "Te ustawienia kolorów zastępują ustawienia odbiorcy">
+<!ENTITY customColorsRadio.accessKey  "U">
+<!ENTITY customColorsRadio.tooltip    "Te ustawienia kolorów zastępują ustawienia odbiorcy">
 <!ENTITY normalText.label "Zwykły tekst">
 <!ENTITY normalText.accessKey "Z">
 <!ENTITY linkText.label "Odnośnik">

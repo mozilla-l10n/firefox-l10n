@@ -46,18 +46,18 @@
 <!ENTITY organizationField2.label "organizacja ">
 <!ENTITY replyToField2.label      "odp. do ">
 
-<!ENTITY subjectField2.label      "temat ">
-<!ENTITY ccField2.label           "kopia ">
-<!ENTITY bccField2.label          "ukryta kopia ">
-<!ENTITY newsgroupsField2.label   "grupy ">
-<!ENTITY followupToField2.label   "kontynuacja na ">
-<!ENTITY tagsHdr2.label           "etykiety ">
-<!ENTITY dateField2.label         "data ">
-<!ENTITY userAgentField2.label    "program ">
-<!ENTITY referencesField2.label   "odniesienia ">
-<!ENTITY messageIdField2.label    "identyfikator ">
-<!ENTITY inReplyToField2.label    "odpowiedź na ">
-<!ENTITY originalWebsite2.label   "strona www ">
+<!ENTITY subjectField2.label    "temat ">
+<!ENTITY ccField2.label         "kopia ">
+<!ENTITY bccField2.label        "ukryta kopia ">
+<!ENTITY newsgroupsField2.label "grupy ">
+<!ENTITY followupToField2.label "kontynuacja na ">
+<!ENTITY tagsHdr2.label         "etykiety ">
+<!ENTITY dateField2.label       "data ">
+<!ENTITY userAgentField2.label  "program ">
+<!ENTITY referencesField2.label "odniesienia ">
+<!ENTITY messageIdField2.label  "identyfikator ">
+<!ENTITY inReplyToField2.label  "odpowiedź na ">
+<!ENTITY originalWebsite2.label "strona www ">
 
 <!ENTITY editMessageDescription.label "Wyświetlana wiadomość jest szkicem">
 <!ENTITY editMessageButton.label      "Edytuj…">
@@ -105,22 +105,22 @@
 <!ENTITY otherActionsPrint.accesskey            "D">
 
 <!-- Attachment context menu items -->
-<!ENTITY openAttachmentCmd.label                "Otwórz">
-<!ENTITY openAttachmentCmd.accesskey            "O">
-<!ENTITY saveAsAttachmentCmd.label              "Zapisz jako…">
-<!ENTITY saveAsAttachmentCmd.accesskey          "a">
-<!ENTITY detachAttachmentCmd.label              "Odłącz…">
-<!ENTITY detachAttachmentCmd.accesskey          "c">
-<!ENTITY deleteAttachmentCmd.label              "Usuń">
-<!ENTITY deleteAttachmentCmd.accesskey          "s">
-<!ENTITY openAllAttachmentsCmd.label            "Otwórz wszystkie…">
-<!ENTITY openAllAttachmentsCmd.accesskey        "O">
-<!ENTITY saveAllAttachmentsCmd.label            "Zapisz wszystkie…">
-<!ENTITY saveAllAttachmentsCmd.accesskey        "Z">
-<!ENTITY detachAllAttachmentsCmd.label          "Odłącz wszystkie…">
-<!ENTITY detachAllAttachmentsCmd.accesskey      "w">
-<!ENTITY deleteAllAttachmentsCmd.label          "Usuń wszystkie…">
-<!ENTITY deleteAllAttachmentsCmd.accesskey      "U">
+<!ENTITY openAttachmentCmd.label           "Otwórz">
+<!ENTITY openAttachmentCmd.accesskey       "O">
+<!ENTITY saveAsAttachmentCmd.label         "Zapisz jako…">
+<!ENTITY saveAsAttachmentCmd.accesskey     "a">
+<!ENTITY detachAttachmentCmd.label         "Odłącz…">
+<!ENTITY detachAttachmentCmd.accesskey     "c">
+<!ENTITY deleteAttachmentCmd.label         "Usuń">
+<!ENTITY deleteAttachmentCmd.accesskey     "s">
+<!ENTITY openAllAttachmentsCmd.label       "Otwórz wszystkie…">
+<!ENTITY openAllAttachmentsCmd.accesskey   "O">
+<!ENTITY saveAllAttachmentsCmd.label       "Zapisz wszystkie…">
+<!ENTITY saveAllAttachmentsCmd.accesskey   "Z">
+<!ENTITY detachAllAttachmentsCmd.label     "Odłącz wszystkie…">
+<!ENTITY detachAllAttachmentsCmd.accesskey "w">
+<!ENTITY deleteAllAttachmentsCmd.label     "Usuń wszystkie…">
+<!ENTITY deleteAllAttachmentsCmd.accesskey "U">
 
 <!-- Attachment toolbar items -->
 <!ENTITY saveAttachmentButton.label             "Zapisz">

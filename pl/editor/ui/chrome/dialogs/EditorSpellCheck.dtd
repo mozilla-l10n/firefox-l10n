@@ -60,8 +60,8 @@
 <!ENTITY moreDictionaries.label "Pobierz więcej">
 <!ENTITY addToUserDictionaryButton.label "Dodaj słowo">
 <!ENTITY addToUserDictionaryButton.accessKey "D">
-<!ENTITY editUserDictionaryButton.label 	"Edytuj…">
-<!ENTITY editUserDictionaryButton.accessKey "E">
+<!ENTITY editUserDictionaryButton.label      "Edytuj…">
+<!ENTITY editUserDictionaryButton.accessKey  "E">
 <!ENTITY recheckButton.label "Sprawdź ponownie">
 <!ENTITY recheckButton.accessKey "p">
 <!ENTITY closeButton.label "Zamknij">

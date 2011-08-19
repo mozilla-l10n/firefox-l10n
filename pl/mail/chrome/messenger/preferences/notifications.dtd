@@ -1,10 +1,10 @@
 <!ENTITY notificationsDialog2.title "Dostosowywanie powiadomień o nowej poczcie">
 <!ENTITY window.width               "30em">
 
-<!ENTITY alertCustomization.intro   "Zaznacz pola, które mają być wyświetlane w oknach powiadomienia:">
-<!ENTITY previewText.label          "Podgląd treści wiadomości">
-<!ENTITY previewText.accesskey      "P">
-<!ENTITY subject.label              "Temat">
-<!ENTITY subject.accesskey          "T">
-<!ENTITY sender.label               "Nadawca">
-<!ENTITY sender.accesskey           "N">
+<!ENTITY alertCustomization.intro "Zaznacz pola, które mają być wyświetlane w oknach powiadomienia:">
+<!ENTITY previewText.label        "Podgląd treści wiadomości">
+<!ENTITY previewText.accesskey    "P">
+<!ENTITY subject.label            "Temat">
+<!ENTITY subject.accesskey        "T">
+<!ENTITY sender.label             "Nadawca">
+<!ENTITY sender.accesskey         "N">

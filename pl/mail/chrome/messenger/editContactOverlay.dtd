@@ -1,10 +1,10 @@
 <!ENTITY editContactPanelDeleteContact.label     "Usuń">
 <!ENTITY editContactPanelDeleteContact.accesskey "U">
 
-<!ENTITY editContactName.label            "Wyświetlaj jako:">
-<!ENTITY editContactName.accesskey        "W">
-<!ENTITY editContactEmail.label           "E-mail:">
-<!ENTITY editContactEmail.accesskey       "E">
+<!ENTITY editContactName.label      "Wyświetlaj jako:">
+<!ENTITY editContactName.accesskey  "W">
+<!ENTITY editContactEmail.label     "E-mail:">
+<!ENTITY editContactEmail.accesskey "E">
 
 <!ENTITY editContactAddressBook.label     "Książka adresowa:">
 <!ENTITY editContactAddressBook.accesskey "K">

@@ -1,11 +1,11 @@
-<!ENTITY windowTitle.label "Właściwości etykiety" >
-<!ENTITY Settings.label "Ustawienia" >
-<!ENTITY Settings.accesskey "s" >
-<!ENTITY EditLabelText.label "Edytuj tekst:" >
-<!ENTITY EditLabelText.accesskey 		"t">
-<!ENTITY LabelFor.label "Dla kontrolki:" >
-<!ENTITY LabelFor.accesskey "D" >
-<!ENTITY AccessKey.label "Klawisz dostępu:" >
-<!ENTITY AccessKey.accesskey "K" >
-<!ENTITY RemoveLabel.label "Usuń etykietę" >
-<!ENTITY RemoveLabel.accesskey "U" >
+<!ENTITY windowTitle.label "Właściwości etykiety">
+<!ENTITY Settings.label "Ustawienia">
+<!ENTITY Settings.accesskey "s">
+<!ENTITY EditLabelText.label "Edytuj tekst:">
+<!ENTITY EditLabelText.accesskey "t">
+<!ENTITY LabelFor.label "Dla kontrolki:">
+<!ENTITY LabelFor.accesskey "D">
+<!ENTITY AccessKey.label "Klawisz dostępu:">
+<!ENTITY AccessKey.accesskey "K">
+<!ENTITY RemoveLabel.label "Usuń etykietę">
+<!ENTITY RemoveLabel.accesskey "U">

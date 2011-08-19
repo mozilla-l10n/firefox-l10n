@@ -1,4 +1,4 @@
-<!ENTITY offlineDialog.title              "Ustawienia trybu offline">
+<!ENTITY offlineDialog.title "Ustawienia trybu offline">
 
 <!ENTITY textStartUp                      "Przy uruchamianiu:">
 <!ENTITY radioRememberPrevState.label     "Powracaj do poprzedniego stanu online">
@@ -8,17 +8,17 @@
 <!ENTITY radioAlwaysOnline.label          "Zawsze zaczynaj w trybie online">
 <!ENTITY radioAlwaysOnline.accesskey      "Z">
 
-<!ENTITY textGoingOnline                  "Czy wysyłać niewysłane wiadomości przy przechodzeniu do trybu online?">
-<!ENTITY radioAutoSend.label              "Tak">
-<!ENTITY radioAutoSend.accesskey          "T">
-<!ENTITY radioNotSend.label               "Nie">
-<!ENTITY radioNotSend.accesskey           "N">
-<!ENTITY radioAskUnsent.label             "Zapytaj">
-<!ENTITY radioAskUnsent.accesskey         "a">
-<!ENTITY textGoingOffline                 "Czy pobierać wiadomości do wykorzystania w trybie offline przed przechodzeniem do niego?">
-<!ENTITY radioAutoDownload.label          "Tak">
-<!ENTITY radioAutoDownload.accesskey      "k">
-<!ENTITY radioNotDownload.label           "Nie">
-<!ENTITY radioNotDownload.accesskey       "e">
-<!ENTITY radioAskDownload.label           "Zapytaj">
-<!ENTITY radioAskDownload.accesskey       "j">
+<!ENTITY textGoingOnline             "Czy wysyłać niewysłane wiadomości przy przechodzeniu do trybu online?">
+<!ENTITY radioAutoSend.label         "Tak">
+<!ENTITY radioAutoSend.accesskey     "T">
+<!ENTITY radioNotSend.label          "Nie">
+<!ENTITY radioNotSend.accesskey      "N">
+<!ENTITY radioAskUnsent.label        "Zapytaj">
+<!ENTITY radioAskUnsent.accesskey    "a">
+<!ENTITY textGoingOffline            "Czy pobierać wiadomości do wykorzystania w trybie offline przed przechodzeniem do niego?">
+<!ENTITY radioAutoDownload.label     "Tak">
+<!ENTITY radioAutoDownload.accesskey "k">
+<!ENTITY radioNotDownload.label      "Nie">
+<!ENTITY radioNotDownload.accesskey  "e">
+<!ENTITY radioAskDownload.label      "Zapytaj">
+<!ENTITY radioAskDownload.accesskey  "j">

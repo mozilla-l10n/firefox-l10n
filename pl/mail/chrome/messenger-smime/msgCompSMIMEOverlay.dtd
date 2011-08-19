@@ -1,4 +1,3 @@
-<!-- s/mime hooks in message composition -->
 <!ENTITY menu_securityEncryptRequire.label     "Zaszyfruj tę wiadomość">
 <!ENTITY menu_securityEncryptRequire.accesskey "Z">
 <!ENTITY menu_securitySign.label               "Podpisz cyfrowo tę wiadomość">

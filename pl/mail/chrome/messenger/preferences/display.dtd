@@ -1,5 +1,5 @@
-<!ENTITY itemFormatting.label       "Formatowanie">
-<!ENTITY itemTags.label             "Etykiety">
+<!ENTITY itemFormatting.label "Formatowanie">
+<!ENTITY itemTags.label       "Etykiety">
 
 <!ENTITY style.label                "Styl:">
 <!ENTITY style.accesskey            "S">

@@ -5,8 +5,7 @@
 <!ENTITY matchAllMsgs.label     "Brak warunków, wszystkie wiadomości">
 <!ENTITY matchAllMsgs.accesskey "B">
 
-<!-- LOCALIZATION NOTE: values below are used to control the widths of the search widgets -->
-<!ENTITY searchTermListAttributesFlexValue "6"><!-- en-US: 5 -->
-<!ENTITY searchTermListOperatorsFlexValue  "6"><!-- en-US: 5 -->
-<!ENTITY searchTermListValueFlexValue      "4"><!-- en-US: 5 -->
-<!ENTITY searchTermListButtonsFlexValue    "1"><!-- en-US: 2 -->
+<!ENTITY searchTermListAttributesFlexValue "6">
+<!ENTITY searchTermListOperatorsFlexValue  "6">
+<!ENTITY searchTermListValueFlexValue      "4">
+<!ENTITY searchTermListButtonsFlexValue    "1">

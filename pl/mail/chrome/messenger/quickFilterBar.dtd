@@ -20,8 +20,8 @@
 <!ENTITY quickFilterBar.resultsLabel.none              "Nie znaleziono wiadomości">
 <!ENTITY quickFilterBar.resultsLabel.minWidth          "175">
 
-<!ENTITY quickFilterBar.textbox.emptyText.base            "Filtrowanie wiadomości... #1">
-<!ENTITY quickFilterBar.show.key2                         "k">
+<!ENTITY quickFilterBar.textbox.emptyText.base             "Filtrowanie wiadomości... #1">
+<!ENTITY quickFilterBar.show.key2                          "k">
 <!ENTITY quickFilterBar.textbox.emptyText.keyLabel2.nonmac "&lt;Ctrl+Shift+K&gt;">
 <!ENTITY quickFilterBar.textbox.emptyText.keyLabel2.mac    "&lt;&#x21E7;&#x2318;K&gt;">
 
@@ -34,6 +34,6 @@
 <!ENTITY quickFilterBar.textFilter.subject.label     "Temat">
 <!ENTITY quickFilterBar.textFilter.body.label        "Treść">
 
-<!ENTITY quickFilterBar.glodaUpsell.continueSearch  "Kontynuuj wyszukiwanie w pozostałych folderach">
+<!ENTITY quickFilterBar.glodaUpsell.continueSearch "Kontynuuj wyszukiwanie w pozostałych folderach">
 
 <!ENTITY quickFilterBar.glodaUpsell.pressEnterAndCurrent "Aby kontynuować wyszukiwanie dla: „#1” należy ponownie wcisnąć Enter">

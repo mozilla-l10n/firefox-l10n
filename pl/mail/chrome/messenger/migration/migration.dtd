@@ -14,12 +14,12 @@
 <!ENTITY importFromEudora.label         "Eudora">
 <!ENTITY importFromEudora.accesskey     "E">
 
-<!ENTITY importSource.title  "Importuj ustawienia i foldery pocztowe">
-<!ENTITY importItems.title   "Elementy do zaimportowania">
-<!ENTITY importItems.label   "Wybierz elementy do zaimportowania:">
+<!ENTITY importSource.title "Importuj ustawienia i foldery pocztowe">
+<!ENTITY importItems.title  "Elementy do zaimportowania">
+<!ENTITY importItems.label  "Wybierz elementy do zaimportowania:">
 
-<!ENTITY migrating.title     "Importowanie…">
-<!ENTITY migrating.label     "Poniższe elementy są właśnie importowane…">
+<!ENTITY migrating.title "Importowanie…">
+<!ENTITY migrating.label "Poniższe elementy są właśnie importowane…">
 
 <!ENTITY selectProfile.title "Wybierz profil">
 <!ENTITY selectProfile.label "Można zaimportować następujące profile:">

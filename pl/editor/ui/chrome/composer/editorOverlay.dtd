@@ -87,8 +87,8 @@
 <!ENTITY publishSettings.accesskey   "b">
 <!ENTITY pasteAsQuotationCmd.label     "Wklej jako cytat">
 <!ENTITY pasteAsQuotationCmd.accesskey "y">
-<!ENTITY pasteAsQuotationCmd.key  "o">
-<!ENTITY findCmd.label            "Znajdź i zamień…">
+<!ENTITY pasteAsQuotationCmd.key     "o">
+<!ENTITY findCmd.label               "Znajdź i zamień…">
 <!ENTITY enableInlineSpellChecker.label     "Sprawdzaj pisownię podczas wprowadzania tekstu">
 <!ENTITY enableInlineSpellChecker.accesskey "S">
 <!ENTITY checkSpellingCmd2.label            "Sprawdź pisownię">
@@ -113,8 +113,8 @@
 <!ENTITY insertHTMLCmd.accesskey  "H">
 <!ENTITY insertCharsCmd.label     "Znaki i symbole…">
 <!ENTITY insertCharsCmd.accesskey "Z">
-<!ENTITY insertBreakAllCmd.label       "Linię podziału poniżej obrazka">
-<!ENTITY insertBreakAllCmd.accesskey   "u">
+<!ENTITY insertBreakAllCmd.label     "Linię podziału poniżej obrazka">
+<!ENTITY insertBreakAllCmd.accesskey "u">
 
 <!-- Used just in context popup. -->
 <!ENTITY spellCheckNoSuggestions.label       "(brak podpowiedzi)">
@@ -128,47 +128,47 @@
 <!ENTITY editLinkCmd.accesskey               "E">
 
 <!-- Font Face SubMenu -->
-<!ENTITY FontFaceSelect.tooltip       "Wybierz czcionkę">
-<!ENTITY fontfaceMenu.label           "Czcionka">
-<!ENTITY fontfaceMenu.accesskey       "C">
-<!ENTITY fontVarWidth.label           "Zmienna szerokość">
-<!ENTITY fontVarWidth.accesskey       "Z">
-<!ENTITY fontFixedWidth.label         "Stała szerokość">
-<!ENTITY fontFixedWidth.accesskey     "S">
-<!ENTITY fontFixedWidth.key           "T">
-<!ENTITY fontHelvetica.label          "Helvetica, Arial">
-<!ENTITY fontHelvetica.accesskey      "H">
-<!ENTITY fontTimes.label              "Times">
-<!ENTITY fontTimes.accesskey          "T">
-<!ENTITY fontCourier.label            "Courier">
-<!ENTITY fontCourier.accesskey        "C">
+<!ENTITY FontFaceSelect.tooltip   "Wybierz czcionkę">
+<!ENTITY fontfaceMenu.label       "Czcionka">
+<!ENTITY fontfaceMenu.accesskey   "C">
+<!ENTITY fontVarWidth.label       "Zmienna szerokość">
+<!ENTITY fontVarWidth.accesskey   "Z">
+<!ENTITY fontFixedWidth.label     "Stała szerokość">
+<!ENTITY fontFixedWidth.accesskey "S">
+<!ENTITY fontFixedWidth.key       "T">
+<!ENTITY fontHelvetica.label      "Helvetica, Arial">
+<!ENTITY fontHelvetica.accesskey  "H">
+<!ENTITY fontTimes.label          "Times">
+<!ENTITY fontTimes.accesskey      "T">
+<!ENTITY fontCourier.label        "Courier">
+<!ENTITY fontCourier.accesskey    "C">
 
 <!-- Font Size SubMenu -->
-<!ENTITY FontSizeSelect.tooltip      "Wybierz rozmiar czcionki">
-<!ENTITY decreaseFontSize.label      "Mniejszy">
-<!ENTITY decreaseFontSize.accesskey  "n">
-<!ENTITY decreaseFontSize.key        "-">
-<!ENTITY increaseFontSize.label      "Większy">
-<!ENTITY increaseFontSize.accesskey  "W">
-<!ENTITY increaseFontSize.key        "+">
-<!ENTITY increaseFontSize.key2       "="><!-- + is above this key on many keyboards -->
+<!ENTITY FontSizeSelect.tooltip     "Wybierz rozmiar czcionki">
+<!ENTITY decreaseFontSize.label     "Mniejszy">
+<!ENTITY decreaseFontSize.accesskey "n">
+<!ENTITY decreaseFontSize.key       "-">
+<!ENTITY increaseFontSize.label     "Większy">
+<!ENTITY increaseFontSize.accesskey "W">
+<!ENTITY increaseFontSize.key       "+">
+<!ENTITY increaseFontSize.key2      "="><!-- + is above this key on many keyboards -->
 
-<!ENTITY fontSizeMenu.label          "Rozmiar czcionki">
-<!ENTITY fontSizeMenu.accesskey      "R">
-<!ENTITY size-xx-smallCmd.label      "Malutki">
-<!ENTITY size-xx-smallCmd.accesskey  "l">
-<!ENTITY size-x-smallCmd.label       "Bardzo mały">
-<!ENTITY size-x-smallCmd.accesskey   "a">
-<!ENTITY size-smallCmd.label         "Mały">
-<!ENTITY size-smallCmd.accesskey     "M">
-<!ENTITY size-mediumCmd.label        "Średni">
-<!ENTITY size-mediumCmd.accesskey    "r">
-<!ENTITY size-largeCmd.label         "Duży">
-<!ENTITY size-largeCmd.accesskey     "D">
-<!ENTITY size-x-largeCmd.label       "Bardzo duży">
-<!ENTITY size-x-largeCmd.accesskey   "B">
-<!ENTITY size-xx-largeCmd.label      "Wielki">
-<!ENTITY size-xx-largeCmd.accesskey  "e">
+<!ENTITY fontSizeMenu.label         "Rozmiar czcionki">
+<!ENTITY fontSizeMenu.accesskey     "R">
+<!ENTITY size-xx-smallCmd.label     "Malutki">
+<!ENTITY size-xx-smallCmd.accesskey "l">
+<!ENTITY size-x-smallCmd.label      "Bardzo mały">
+<!ENTITY size-x-smallCmd.accesskey  "a">
+<!ENTITY size-smallCmd.label        "Mały">
+<!ENTITY size-smallCmd.accesskey    "M">
+<!ENTITY size-mediumCmd.label       "Średni">
+<!ENTITY size-mediumCmd.accesskey   "r">
+<!ENTITY size-largeCmd.label        "Duży">
+<!ENTITY size-largeCmd.accesskey    "D">
+<!ENTITY size-x-largeCmd.label      "Bardzo duży">
+<!ENTITY size-x-largeCmd.accesskey  "B">
+<!ENTITY size-xx-largeCmd.label     "Wielki">
+<!ENTITY size-xx-largeCmd.accesskey "e">
 
 <!-- Font Style SubMenu -->
 <!ENTITY fontStyleMenu.label           "Styl tekstu">
@@ -190,22 +190,22 @@
 <!ENTITY styleSubscriptCmd.accesskey   "l">
 <!ENTITY styleNonbreakingCmd.label     "Element niełamiący">
 <!ENTITY styleNonbreakingCmd.accesskey "n">
-<!ENTITY styleEm.label            "Wyróżnienie">
-<!ENTITY styleEm.accesskey        "W">
-<!ENTITY styleStrong.label        "Mocniejsze wyróżnienie">
-<!ENTITY styleStrong.accesskey    "j">
-<!ENTITY styleCite.label          "Cytowanie">
-<!ENTITY styleCite.accesskey      "C">
-<!ENTITY styleAbbr.label          "Skrót">
-<!ENTITY styleAbbr.accesskey      "t">
-<!ENTITY styleAcronym.label       "Akronim">
-<!ENTITY styleAcronym.accesskey   "r">
-<!ENTITY styleCode.label          "Kod">
-<!ENTITY styleCode.accesskey      "o">
-<!ENTITY styleSamp.label          "Przykład">
-<!ENTITY styleSamp.accesskey      "y">
-<!ENTITY styleVar.label           "Zmienna">
-<!ENTITY styleVar.accesskey       "Z">
+<!ENTITY styleEm.label          "Wyróżnienie">
+<!ENTITY styleEm.accesskey      "W">
+<!ENTITY styleStrong.label      "Mocniejsze wyróżnienie">
+<!ENTITY styleStrong.accesskey  "j">
+<!ENTITY styleCite.label        "Cytowanie">
+<!ENTITY styleCite.accesskey    "C">
+<!ENTITY styleAbbr.label        "Skrót">
+<!ENTITY styleAbbr.accesskey    "t">
+<!ENTITY styleAcronym.label     "Akronim">
+<!ENTITY styleAcronym.accesskey "r">
+<!ENTITY styleCode.label        "Kod">
+<!ENTITY styleCode.accesskey    "o">
+<!ENTITY styleSamp.label        "Przykład">
+<!ENTITY styleSamp.accesskey    "y">
+<!ENTITY styleVar.label         "Zmienna">
+<!ENTITY styleVar.accesskey     "Z">
 
 <!ENTITY formatFontColor.label      "Kolor tekstu…">
 <!ENTITY formatFontColor.accesskey  "K">
@@ -218,26 +218,26 @@
 <!ENTITY formatRemoveNamedAnchors.accesskey "U">
 <!ENTITY formatRemoveNamedAnchors.key       "A">
 
-<!ENTITY paragraphMenu.label                "Akapit">
-<!ENTITY paragraphMenu.accesskey            "p">
-<!ENTITY paragraphParagraphCmd.label        "Akapit">
-<!ENTITY paragraphParagraphCmd.accesskey    "A">
-<!ENTITY heading1Cmd.label                  "Nagłówek 1">
-<!ENTITY heading1Cmd.accesskey              "1">
-<!ENTITY heading2Cmd.label                  "Nagłówek 2">
-<!ENTITY heading2Cmd.accesskey              "2">
-<!ENTITY heading3Cmd.label                  "Nagłówek 3">
-<!ENTITY heading3Cmd.accesskey              "3">
-<!ENTITY heading4Cmd.label                  "Nagłówek 4">
-<!ENTITY heading4Cmd.accesskey              "4">
-<!ENTITY heading5Cmd.label                  "Nagłówek 5">
-<!ENTITY heading5Cmd.accesskey              "5">
-<!ENTITY heading6Cmd.label                  "Nagłówek 6">
-<!ENTITY heading6Cmd.accesskey              "6">
-<!ENTITY paragraphAddressCmd.label          "Adres">
-<!ENTITY paragraphAddressCmd.accesskey      "d">
-<!ENTITY paragraphPreformatCmd.label        "Wstępnie sformatuj">
-<!ENTITY paragraphPreformatCmd.accesskey    "W">
+<!ENTITY paragraphMenu.label             "Akapit">
+<!ENTITY paragraphMenu.accesskey         "p">
+<!ENTITY paragraphParagraphCmd.label     "Akapit">
+<!ENTITY paragraphParagraphCmd.accesskey "A">
+<!ENTITY heading1Cmd.label               "Nagłówek 1">
+<!ENTITY heading1Cmd.accesskey           "1">
+<!ENTITY heading2Cmd.label               "Nagłówek 2">
+<!ENTITY heading2Cmd.accesskey           "2">
+<!ENTITY heading3Cmd.label               "Nagłówek 3">
+<!ENTITY heading3Cmd.accesskey           "3">
+<!ENTITY heading4Cmd.label               "Nagłówek 4">
+<!ENTITY heading4Cmd.accesskey           "4">
+<!ENTITY heading5Cmd.label               "Nagłówek 5">
+<!ENTITY heading5Cmd.accesskey           "5">
+<!ENTITY heading6Cmd.label               "Nagłówek 6">
+<!ENTITY heading6Cmd.accesskey           "6">
+<!ENTITY paragraphAddressCmd.label       "Adres">
+<!ENTITY paragraphAddressCmd.accesskey   "d">
+<!ENTITY paragraphPreformatCmd.label     "Wstępnie sformatuj">
+<!ENTITY paragraphPreformatCmd.accesskey "W">
 
 <!-- List menu items -->
 <!ENTITY formatlistMenu.label        "Lista">
@@ -264,43 +264,43 @@
 <!ENTITY advancedPropertiesCmd.accesskey "Z">
 
 <!-- Align menu items -->
-<!ENTITY alignMenu.label          "Wyrównaj">
-<!ENTITY alignMenu.accesskey      "a">
-<!ENTITY alignLeft.label          "Do lewej">
-<!ENTITY alignLeft.accesskey      "l">
-<!ENTITY alignLeft.tooltip        "Wyrównaj do lewej">
-<!ENTITY alignCenter.label        "Do środka">
-<!ENTITY alignCenter.accesskey    "r">
-<!ENTITY alignCenter.tooltip      "Wyrównaj do środka">
-<!ENTITY alignRight.label         "Do prawej">
-<!ENTITY alignRight.accesskey     "p">
-<!ENTITY alignRight.tooltip       "Wyrównaj do prawej">
-<!ENTITY alignJustify.label       "Wyjustuj">
-<!ENTITY alignJustify.accesskey   "j">
-<!ENTITY alignJustify.tooltip     "Wyjustuj">
+<!ENTITY alignMenu.label        "Wyrównaj">
+<!ENTITY alignMenu.accesskey    "a">
+<!ENTITY alignLeft.label        "Do lewej">
+<!ENTITY alignLeft.accesskey    "l">
+<!ENTITY alignLeft.tooltip      "Wyrównaj do lewej">
+<!ENTITY alignCenter.label      "Do środka">
+<!ENTITY alignCenter.accesskey  "r">
+<!ENTITY alignCenter.tooltip    "Wyrównaj do środka">
+<!ENTITY alignRight.label       "Do prawej">
+<!ENTITY alignRight.accesskey   "p">
+<!ENTITY alignRight.tooltip     "Wyrównaj do prawej">
+<!ENTITY alignJustify.label     "Wyjustuj">
+<!ENTITY alignJustify.accesskey "j">
+<!ENTITY alignJustify.tooltip   "Wyjustuj">
 
 <!-- Layer toolbar items -->
 <!ENTITY layer.tooltip             "Warstwa">
 <!ENTITY layerSendToBack.tooltip   "Przenieś pod spód">
 <!ENTITY layerBringToFront.tooltip "Przenieś na wierzch">
 
-<!ENTITY increaseIndent.label      "Zwiększ wcięcie">
-<!ENTITY increaseIndent.accesskey  "w">
-<!ENTITY increaseIndent.key        "]">
-<!ENTITY decreaseIndent.label      "Zmniejsz wcięcie">
-<!ENTITY decreaseIndent.accesskey  "m">
-<!ENTITY decreaseIndent.key        "[">
+<!ENTITY increaseIndent.label     "Zwiększ wcięcie">
+<!ENTITY increaseIndent.accesskey "w">
+<!ENTITY increaseIndent.key       "]">
+<!ENTITY decreaseIndent.label     "Zmniejsz wcięcie">
+<!ENTITY decreaseIndent.accesskey "m">
+<!ENTITY decreaseIndent.key       "[">
 
 <!ENTITY colorsAndBackground.label     "Kolory strony i tło…">
 <!ENTITY colorsAndBackground.accesskey "y">
 
 <!-- Table Menu -->
-<!ENTITY tableMenu.label            "Tabela">
-<!ENTITY tableMenu.accesskey        "b">
+<!ENTITY tableMenu.label     "Tabela">
+<!ENTITY tableMenu.accesskey "b">
 
 <!-- Select Submenu -->
-<!ENTITY tableSelectMenu.label      "Zaznacz">
-<!ENTITY tableSelectMenu.accesskey  "Z">
+<!ENTITY tableSelectMenu.label     "Zaznacz">
+<!ENTITY tableSelectMenu.accesskey "Z">
 
 <!ENTITY tableSelectMenu2.label     "Zaznacz">
 <!ENTITY tableSelectMenu2.accesskey "a">
@@ -412,11 +412,11 @@
 <!ENTITY structChangeTag.accesskey "Z">
 
 <!-- TOC manipulation -->
-<!ENTITY insertTOC.label           "Wstaw">
-<!ENTITY insertTOC.accesskey       "W">
-<!ENTITY updateTOC.label           "Aktualizuj">
-<!ENTITY updateTOC.accesskey       "k">
-<!ENTITY removeTOC.label           "Usuń">
-<!ENTITY removeTOC.accesskey       "U">
-<!ENTITY tocMenu.label             "Spis treści…">
-<!ENTITY tocMenu.accesskey         "S">
+<!ENTITY insertTOC.label     "Wstaw">
+<!ENTITY insertTOC.accesskey "W">
+<!ENTITY updateTOC.label     "Aktualizuj">
+<!ENTITY updateTOC.accesskey "k">
+<!ENTITY removeTOC.label     "Usuń">
+<!ENTITY removeTOC.accesskey "U">
+<!ENTITY tocMenu.label       "Spis treści…">
+<!ENTITY tocMenu.accesskey   "S">

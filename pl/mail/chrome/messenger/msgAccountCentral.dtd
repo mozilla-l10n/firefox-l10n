@@ -1,15 +1,15 @@
-<!ENTITY emailSectionHdr.label       "E-mail">
-<!ENTITY readMsgsLink.label          "Przeczytaj wiadomości">
-<!ENTITY composeMsgLink.label        "Napisz nową wiadomość">
+<!ENTITY emailSectionHdr.label "E-mail">
+<!ENTITY readMsgsLink.label    "Przeczytaj wiadomości">
+<!ENTITY composeMsgLink.label  "Napisz nową wiadomość">
 
-<!ENTITY newsSectionHdr.label        "Grupy dyskusyjne">
-<!ENTITY subscribeNewsLink.label     "Subskrybuj grupę dyskusyjną">
+<!ENTITY newsSectionHdr.label    "Grupy dyskusyjne">
+<!ENTITY subscribeNewsLink.label "Subskrybuj grupę dyskusyjną">
 
-<!ENTITY accountsSectionHdr.label    "Konta">
+<!ENTITY accountsSectionHdr.label "Konta">
 
-<!ENTITY subscribeImapFolders.label  "Subskrybuj foldery">
-<!ENTITY settingsLink.label          "Wyświetl ustawienia dla tego konta">
-<!ENTITY newAcctLink.label           "Utwórz nowe konto">
+<!ENTITY subscribeImapFolders.label "Subskrybuj foldery">
+<!ENTITY settingsLink.label         "Wyświetl ustawienia dla tego konta">
+<!ENTITY newAcctLink.label          "Utwórz nowe konto">
 
 <!ENTITY advFeaturesSectionHdr.label "Funkcje zaawansowane">
 <!ENTITY searchMsgsLink.label        "Wyszukaj wiadomości">

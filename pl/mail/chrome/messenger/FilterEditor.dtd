@@ -1,11 +1,11 @@
-<!ENTITY filterEditorDialog.dimensions "width: 100ch;"><!-- en-US: 100ch -->
+<!ENTITY filterEditorDialog.dimensions "width: 100ch;">
 
-<!ENTITY window.title             "Edycja filtru">
-<!ENTITY filterName.label         "Nazwa filtru:">
-<!ENTITY filterName.accesskey     "N">
+<!ENTITY window.title         "Edycja filtru">
+<!ENTITY filterName.label     "Nazwa filtru:">
+<!ENTITY filterName.accesskey "N">
 
-<!ENTITY junk.label               "Niechciana">
-<!ENTITY notJunk.label            "Pożądana">
+<!ENTITY junk.label    "Niechciana">
+<!ENTITY notJunk.label "Pożądana">
 
 <!ENTITY lowestPriorityCmd.label  "Najniższy">
 <!ENTITY lowPriorityCmd.label     "Niski">

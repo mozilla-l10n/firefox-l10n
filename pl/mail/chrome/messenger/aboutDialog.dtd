@@ -1,36 +1,36 @@
 <!ENTITY aboutDialog.title "O programie &brandFullName;">
 
-<!ENTITY community.start2              "">
-<!ENTITY community.mozillaLink         "&vendorShortName;">
-<!ENTITY community.middle2             ", ">
-<!ENTITY community.creditsLink         "globalna społeczność">
-<!ENTITY community.end2                ", chcąca uczynić Internet lepszym, stworzyła program &brandShortName;. Wierzymy, że Internet powinien być otwarty, publiczny i dostępny dla wszystkich bez żadnych ograniczeń.">
+<!ENTITY community.start2      "">
+<!ENTITY community.mozillaLink "&vendorShortName;">
+<!ENTITY community.middle2     ", ">
+<!ENTITY community.creditsLink "globalna społeczność">
+<!ENTITY community.end2        ", chcąca uczynić Internet lepszym, stworzyła program &brandShortName;. Wierzymy, że Internet powinien być otwarty, publiczny i dostępny dla wszystkich bez żadnych ograniczeń.">
 
-<!ENTITY contribute.start              "Brzmi ciekawie? ">
-<!ENTITY contribute.getInvolvedLink    "Dołącz do nas!">
-<!ENTITY contribute.end                "">
+<!ENTITY contribute.start           "Brzmi ciekawie? ">
+<!ENTITY contribute.getInvolvedLink "Dołącz do nas!">
+<!ENTITY contribute.end             "">
 
-<!ENTITY bottomLinks.license           "Informacje licencyjne">
-<!ENTITY bottomLinks.rights            "Prawa użytkownika">
-<!ENTITY bottomLinks.privacy           "Polityka prywatności">
+<!ENTITY bottomLinks.license "Informacje licencyjne">
+<!ENTITY bottomLinks.rights  "Prawa użytkownika">
+<!ENTITY bottomLinks.privacy "Polityka prywatności">
 
-<!ENTITY update.checkingForUpdates     "Poszukiwanie aktualizacji…">
-<!ENTITY update.checkingAddonCompat    "Sprawdzanie zgodności dodatków…">
-<!ENTITY update.noUpdatesFound         "Program &brandShortName; jest aktualny">
-<!ENTITY update.adminDisabled          "Aktualizacje zablokowane przez administratora">
+<!ENTITY update.checkingForUpdates  "Poszukiwanie aktualizacji…">
+<!ENTITY update.checkingAddonCompat "Sprawdzanie zgodności dodatków…">
+<!ENTITY update.noUpdatesFound      "Program &brandShortName; jest aktualny">
+<!ENTITY update.adminDisabled       "Aktualizacje zablokowane przez administratora">
 
-<!ENTITY update.failed.start           "Aktualizacja się nie powiodła. ">
-<!ENTITY update.failed.linkText        "Pobierz najnowszą wersję">
-<!ENTITY update.failed.end             "">
+<!ENTITY update.failed.start    "Aktualizacja się nie powiodła. ">
+<!ENTITY update.failed.linkText "Pobierz najnowszą wersję">
+<!ENTITY update.failed.end      "">
 
-<!ENTITY update.manual.start           "">
-<!ENTITY update.manual.linkText        "Pobierz najnowszą wersję">
-<!ENTITY update.manual.end             "">
+<!ENTITY update.manual.start    "">
+<!ENTITY update.manual.linkText "Pobierz najnowszą wersję">
+<!ENTITY update.manual.end      "">
 
-<!ENTITY update.downloading.start      "Pobieranie aktualizacji — ">
-<!ENTITY update.downloading.end        "">
+<!ENTITY update.downloading.start "Pobieranie aktualizacji — ">
+<!ENTITY update.downloading.end   "">
 
-<!ENTITY channel.description.start     "Obecnie korzystasz z kanału aktualizacji ">
-<!ENTITY channel.description.end       ". ">
+<!ENTITY channel.description.start "Obecnie korzystasz z kanału aktualizacji ">
+<!ENTITY channel.description.end   ". ">
 
 <!ENTITY cmdCloseMac.commandKey "w">
