@@ -5,6 +5,9 @@
 <!ENTITY startupHomePage.label     "Ay šintin moɲoo cebe">
 <!ENTITY startupBlankPage.label    "Moo koonu cebe">
 <!ENTITY startupLastSession.label  "Ay zanfuney nda cee koraa nor-lokey cebe">
+<!ENTITY restoreOnDemand.label     "Ma ši nor lokey zumandi hal'i ma suubandi">
+<!ENTITY restoreOnDemand.accesskey "z">
+
 <!ENTITY homepage.label            "Šintin moo:">
 <!ENTITY homepage.accesskey        "m">
 <!ENTITY useCurrentPage.label      "Sohõ moɲoo goyandi">

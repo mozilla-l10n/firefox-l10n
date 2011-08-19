@@ -13,9 +13,10 @@
 <!ENTITY manageAccount.label          "Kontu juwal">
 <!ENTITY manageAccount.accesskey      "K">
 <!ENTITY viewQuota.label              "Baa guna">
-<!ENTITY changePassword.label         "Šennikufal barmay">
+<!ENTITY changePassword2.label         "Šennikufal barmay...">
 <!ENTITY mySyncKey.label              "My Sync kufal">
-<!ENTITY resetSync.label              "Sync yeeti">
+<!ENTITY resetSync2.label              "Sync yeeti...">
+
 <!ENTITY addDevice.label              "Jinay foo tonton">
 
 <!ENTITY syncMy.label               "Sync My">
@@ -33,7 +34,7 @@
 
 <!ENTITY syncComputerName.label       "Ordinater maa:">
 <!ENTITY syncComputerName.accesskey   "O">
-<!ENTITY deactivateDevice.label       "Goyjinaa woo kaa goy">
+<!ENTITY unlinkDevice.label           "Dobu kaa jinaa woo ga">
 <!-- Footer stuff -->
 
 <!ENTITY prefs.tosLink.label        "Goy kalima-izey">

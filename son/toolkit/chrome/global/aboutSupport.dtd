@@ -17,6 +17,7 @@ ceeci ka fatta šenday ra. Nda war ga zaabiyaŋ ceeci war zaarikul hãayaney se 
 <!ENTITY aboutSupport.appBasicsEnabledPlugins "Sukari tunantey">
 <!ENTITY aboutSupport.appBasicsBuildConfig "Cinari hanseyan">
 <!ENTITY aboutSupport.appBasicsUserAgent "Goyteeri">
+<!ENTITY aboutSupport.appBasicsCrashIDs "Kaŋyan bayrandiyaney">
 
 <!ENTITY aboutSupport.show.label "Feeriyan foolo kunahere">
 <!-- LOCALIZATION NOTE (aboutSupport.showMac.label): This is the Mac-specific

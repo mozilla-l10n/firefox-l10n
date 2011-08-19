@@ -65,7 +65,7 @@
 <!ENTITY enableAddonsUpdate2.label       "Tontoney">
 <!ENTITY enableAddonsUpdate2.accesskey   "T">
 <!ENTITY enableSearchUpdate.label        "Ceeci maršiney">
-<!ENTITY enableSearchUpdate.accesskey    "i">
+<!ENTITY enableSearchUpdate.accesskey    "e">
 <!ENTITY whenUpdatesFound.label          "Waati kaŋ taagandi ga duwandi &brandShortName; se:">
 <!ENTITY askMe.label                     "Ay hãa woo kaŋ ay ga baa ka tee">
 <!ENTITY askMe.accesskey                 "h">

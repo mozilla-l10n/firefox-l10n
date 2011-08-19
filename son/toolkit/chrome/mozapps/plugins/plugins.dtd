@@ -15,9 +15,9 @@
 <!ENTITY pluginWizard.installPluginsPage.title               "Sukarey goo ma sinja">
 <!ENTITY pluginWizard.installPluginsPage.description.label   "&brandShortName; goo ma sukarey sinji…">
 
-<!ENTITY pluginWizard.finalPage.description.label            "&brandShortName; na sukari jeccantey sinji ka ben:">
+<!ENTITY pluginWizard.finalPage.description.label            "&brandShortName; na sukari kumantey sinji ka ben:">
 
-<!ENTITY pluginWizard.finalPage.moreInfo.label               "Bay ka tonton sukarey ga wala wa sukari jeccantey ceeci.">
+<!ENTITY pluginWizard.finalPage.moreInfo.label               "Bay ka tonton sukarey ga wala wa sukari kumantey ceeci.">
 <!ENTITY pluginWizard.finalPage.restart.label                "&brandShortName; ga hima ka tunandi taaga hala sukarey ma duu ka goy.">
 
 <!ENTITY missingPlugin                                       "Sukari ga waažibi ka gundekunaa woo cebe.">
