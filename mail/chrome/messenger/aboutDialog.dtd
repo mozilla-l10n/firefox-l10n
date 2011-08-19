@@ -62,22 +62,4 @@
 <!ENTITY channel.description.start "Şu anda ">
 <!ENTITY channel.description.end " güncelleme kanalındasınız.">
 
-<!ENTITY channel.change "Değiştir">
-
-<!ENTITY channel.release.description "Dünya çapında yüz milyonlarca kişi tarafından kullanılan, denenmiş ve test edilmiş final sürümünün keyfini sürün. Süper hız, kolay kişiselleştirme ve son Web teknolojileri ile internet deneyiminizi elinizde tutun.">
-<!ENTITY channel.beta.description "En yeni özellikleri daha kararlı bir ortamda test edin. Final sürümünde yer alacakları düzenlememiz ve güzelleştirmemiz için geri bildirimde bulunun.">
-<!ENTITY channel.aurora.description "Sadece cesur kullanıcılara yönelik kararsız bir ortamda en güncel yeniliklerin tadına bakın. Final sürümüne aktarılacakları belirlemek için özellikler ve performansla ilgili geri bildirimde bulunun.">
-<!-- LOCALIZATION NOTE (channel.selector.start,channel.selector.end): channel.selector.start and
-     channel.selector.end create one sentence, with a channel selection menulist instered in between.
-     This is all in one line, so try to make the localized text short.
-     example: Switch to the [Stable] update channel. -->
-
-<!ENTITY channel.selector.start "Güncelleme">
-<!ENTITY channel.selector.end "kanalını seç.">
-<!-- LOCALIZATION NOTE (channel.selector.applyButton): This button applies the user's choice to switch
-     to a new update channel and starts the application update process. -->
-
-<!ENTITY channel.selector.applyButton "Uygula ve Güncelle">
-<!ENTITY channel.selector.cancelButton "Vazgeç">
-
 <!ENTITY cmdCloseMac.commandKey "w">

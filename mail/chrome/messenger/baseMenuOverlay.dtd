@@ -5,12 +5,12 @@
                        for the help button in the menubar but Gnome does not.   -->
 <!ENTITY helpMenuWin.label "Yardım">
 <!ENTITY helpMenuWin.accesskey "Y">
-<!ENTITY helpTroubleshootingInfo.label "Troubleshooting Information">
-<!ENTITY helpTroubleshootingInfo.accesskey "T">
-<!ENTITY helpSafeMode.label "Restart with Add-ons Disabled…">
-<!ENTITY helpSafeMode.accesskey "R">
-<!ENTITY releaseCmd2.label "Release Notes">
-<!ENTITY releaseCmd2.accesskey "N">
+<!ENTITY helpTroubleshootingInfo.label "Sorun giderme bilgileri">
+<!ENTITY helpTroubleshootingInfo.accesskey "S">
+<!ENTITY helpSafeMode.label "Eklentileri devre dışı bırakıp başlat...">
+<!ENTITY helpSafeMode.accesskey "E">
+<!ENTITY releaseCmd2.label "Sürüm notları">
+<!ENTITY releaseCmd2.accesskey "S">
 <!ENTITY whatsNewCmd.label "Yenilikler">
 <!ENTITY whatsNewCmd.accesskey "Y">
 <!ENTITY featureConfiguratorCmd.label "Geçiş yardımcısı">

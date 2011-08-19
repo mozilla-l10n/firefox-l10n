@@ -16,3 +16,8 @@
 <!ENTITY sending_crash_report "Çökme raporu gönderiliyor\u2026">
 <!ENTITY exit_label "Çık">
 <!ENTITY continue_label "Devam">
+
+<!ENTITY launcher_shortcuts_title "&brandShortName; Web Apps">
+<!ENTITY launcher_shortcuts_empty "No web apps were found">
+
+<!ENTITY choose_file "Dosya Seç">

@@ -45,7 +45,7 @@
 <!ENTITY folderCharsetTab.accesskey "e">
 <!ENTITY folderCharsetOverride.label "Öntanımlamayı bu dizindeki postalara uyumla.">
 <!ENTITY folderCharsetOverride.accesskey "a">
-<!ENTITY folderRebuildSummaryFileTip2.label "Rebuild Summary File Index">
+<!ENTITY folderRebuildSummaryFileTip2.label "Özet dosyası indeksini yeniden oluştur">
 <!ENTITY folderRebuildSummaryFile2.label "Repair Folder">
 <!ENTITY folderRebuildSummaryFile2.accesskey "R">
 <!ENTITY folderRebuildSummaryFile.explanation "Sometimes the folder index (.msf) file becomes damaged and messages may appear missing or deleted messages continue showing; repairing the folder may fix these issues.">

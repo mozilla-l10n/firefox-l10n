@@ -5,10 +5,10 @@
 <!ENTITY reflowZoom.title "Yakınlaştırmada metni yeniden biçimlendir">
 <!ENTITY showImages.title "Resimleri göster">
 <!ENTITY enableJavaScript.title "JavaScript'i etkinleştir">
-<!ENTITY enablePlugins.title "Yan uygulamaları etkinleştir">
 <!ENTITY privacy.title "Kişisel gizlilik ve güvenlik">
 <!ENTITY allowCookies.title "Çerezlere izin ver">
 <!ENTITY doNotTrack.title "Siteler beni takip etmesin">
+<!ENTITY masterPassword.title "Use master password">
 <!ENTITY clearPrivateData2.title "Özel bilgileri sil">
 <!ENTITY clearPrivateData.button "Temizle">
 <!ENTITY rememberPasswords.title "Parolaları hatırla">
@@ -20,4 +20,4 @@
 <!ENTITY homepage.none "Boş Sayfa">
 <!ENTITY homepage.default "&brandShortName; Start">
 <!ENTITY homepage.currentpage "Güncel sayfayı kullan">
-<!ENTITY showCharset.title "Karakter kodlamasını göster">
+<!ENTITY showCharsetEncoding.title "Show character encoding">

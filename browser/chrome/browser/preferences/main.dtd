@@ -5,6 +5,9 @@
 <!ENTITY startupHomePage.label "Giriş sayfamı göster">
 <!ENTITY startupBlankPage.label "Boş bir sayfa göster">
 <!ENTITY startupLastSession.label "Son oturumdaki pencereleri ve sekmeleri göster">
+<!ENTITY restoreOnDemand.label "Don’t load tabs until selected">
+<!ENTITY restoreOnDemand.accesskey "l">
+
 <!ENTITY homepage.label "Giriş sayfası:">
 <!ENTITY homepage.accesskey "G">
 <!ENTITY useCurrentPage.label "Güncel sayfayı kullan">
