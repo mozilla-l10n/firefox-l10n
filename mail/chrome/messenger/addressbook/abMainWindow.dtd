@@ -79,6 +79,8 @@
 <!ENTITY viewMenu.accesskey "Z">
 <!ENTITY viewToolbarsMenu.label "Nástrojové lišty">
 <!ENTITY viewToolbarsMenu.accesskey "r">
+<!ENTITY menubarCmd.label "Lišta nabídky">
+<!ENTITY menubarCmd.accesskey "n">
 <!ENTITY showAbToolbarCmd.label "Lišta adresáře">
 <!ENTITY showAbToolbarCmd.accesskey "d">
 <!ENTITY showTaskbarCmd.label "Stavový řádek">
@@ -181,7 +183,7 @@
 <!ENTITY _PhoneticName.label "Jméno foneticky">
 <!ENTITY _PhoneticName.accesskey "f">
 
-<!-- Contact Summary Pane -->
+<!-- Card Summary Pane -->
 <!-- Box Headings -->
 <!ENTITY contact.heading "Kontakt">
 <!ENTITY home.heading "Bydliště">
