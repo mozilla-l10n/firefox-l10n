@@ -73,9 +73,6 @@
 <!ENTITY printCmd.label "Yazdır…">
 <!ENTITY printCmd.accesskey "Y">
 <!ENTITY printCmd.key "P">
-<!ENTITY closeCmd.label "Kapat">
-<!ENTITY closeCmd.accesskey "K">
-<!ENTITY closeCmd.key "W">
 <!-- Edit menu items -->
 
 <!ENTITY editMenu.label "Düzenle">
@@ -90,18 +87,7 @@
 <!ENTITY pasteAsQuotationCmd.label "Alıntı olarak yapıştır">
 <!ENTITY pasteAsQuotationCmd.accesskey "o">
 <!ENTITY pasteAsQuotationCmd.key "o">
-<!ENTITY findCmd.label "Bul ve değiştir…">
-<!ENTITY findCmd.accesskey "u">
-<!ENTITY findCmd.key "F">
-<!ENTITY findCmd.key2 "VK_F19">
-<!ENTITY findAgainCmd.label "Sonrakini bul">
-<!ENTITY findAgainCmd.accesskey "b">
-<!ENTITY findAgainCmd.key "G">
-<!ENTITY findAgainCmd.key2 "VK_F3">
-<!ENTITY findPrevCmd.label "Öncekini bul">
-<!ENTITY findPrevCmd.accesskey "k">
-<!ENTITY findPrevCmd.key "G">
-<!ENTITY findPrevCmd.key2 "VK_F3">
+<!ENTITY findCmd.label "Find and Replace…">
 <!ENTITY enableInlineSpellChecker.label "Yazarken yazım denetimini gerçekleştir">
 <!ENTITY enableInlineSpellChecker.accesskey "Y">
 <!ENTITY checkSpellingCmd2.label "Yazımı Denetle">
@@ -139,23 +125,6 @@
 <!ENTITY createLinkCmd.accesskey "B">
 <!ENTITY editLinkCmd.label "Bağlantıyı Yeni Düzenleyicide Aç">
 <!ENTITY editLinkCmd.accesskey "i">
-<!-- (Toplevel Edit menu uses utilityOverlay) -->
-<!ENTITY undoCmd.label "Geri al">
-<!ENTITY undoCmd.accesskey "G">
-<!ENTITY redoCmd.label "Yinele">
-<!ENTITY redoCmd.accesskey "Y">
-<!ENTITY cutCmd.label "Kes">
-<!ENTITY cutCmd.accesskey "K">
-<!ENTITY copyCmd.label "Kopyala">
-<!ENTITY copyCmd.accesskey "K">
-<!ENTITY pasteCmd.label "Yapıştır">
-<!ENTITY pasteCmd.accesskey "Y">
-<!ENTITY deleteCmd.label "Sil">
-<!ENTITY deleteCmd.accesskey "S">
-<!ENTITY clearCmd.label "Temizle">
-<!ENTITY clearCmd.accesskey "l">
-<!ENTITY selectAllCmd.label "Tamamını seç">
-<!ENTITY selectAllCmd.accesskey "a">
 <!-- Font Face SubMenu -->
 
 <!ENTITY FontFaceSelect.tooltip "Bir yazıtipi seçin">
@@ -371,8 +340,8 @@
 <!ENTITY tableCellAfter.label "Hücreden sonra">
 <!ENTITY tableCellAfter.accesskey "ü">
 <!-- Delete SubMenu -->
-<!ENTITY tableDeleteMenu.label "Sil">
-<!ENTITY tableDeleteMenu.accesskey "S">
+<!ENTITY tableDeleteMenu.label "Delete">
+<!ENTITY tableDeleteMenu.accesskey "D">
 <!-- text for "Join Cells" is in editor.properties 
      ("JoinSelectedCells" and "JoinCellToRight")
      the access key must exist in both of those strings
@@ -397,6 +366,9 @@
 <!ENTITY openToolbarCmd.tooltip "Yerel bir dosya aç">
 <!ENTITY saveToolbarCmd.tooltip "Yerel bir konuma dosya kaydet">
 <!ENTITY publishToolbarCmd.tooltip "Dosyayı uzak konuma gönder">
+<!ENTITY cutToolbarCmd.tooltip "Cut">
+<!ENTITY copyToolbarCmd.tooltip "Copy">
+<!ENTITY pasteToolbarCmd.tooltip "Paste">
 <!ENTITY printToolbarCmd.label "Yazdır">
 <!ENTITY printToolbarCmd.tooltip "Bu sayfayı yazdır">
 <!ENTITY findToolbarCmd.label "Bul">

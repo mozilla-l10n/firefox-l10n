@@ -59,6 +59,7 @@
 <!ENTITY editMessageButton.label "Düzenle…">
 <!ENTITY hdrArchiveButton.label "Arşivle">
 <!ENTITY hdrArchiveButton.tooltip "Bu iletiyi arşivle">
+<!ENTITY hdrSmartReplyButton.label "smart reply">
 <!ENTITY hdrReplyButton.label "Yanıtla">
 <!ENTITY hdrReplyButton.tooltip "İletiyi yanıtla">
 <!ENTITY hdrReplyAllButton.label "Hepsini yanıtla">

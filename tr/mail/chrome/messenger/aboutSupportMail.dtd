@@ -1,15 +1,15 @@
-<!ENTITY aboutSupport.appBasicsAppBuildID "Application Build ID">
+<!ENTITY aboutSupport.appBasicsAppBuildID "Uygulama Yapı No">
 
-<!ENTITY aboutSupport.accountsTitle "Mail and News Accounts">
-<!ENTITY aboutSupport.showPrivateData.mainText "Include account names">
-<!ENTITY aboutSupport.showPrivateData.explanationText "(possibly identifying information)">
+<!ENTITY aboutSupport.accountsTitle "Posta ve Haber Hesapları">
+<!ENTITY aboutSupport.showPrivateData.mainText "Hesap isimlerini dâhil et">
+<!ENTITY aboutSupport.showPrivateData.explanationText "(bu bilgiler kimliğinizi ortaya çıkarabilir)">
 <!ENTITY aboutSupport.accountsID "Kimlik">
-<!ENTITY aboutSupport.accountsName "Name">
-<!ENTITY aboutSupport.accountsIncomingServer "Incoming server">
-<!ENTITY aboutSupport.accountsOutgoingServers "Outgoing servers">
-<!ENTITY aboutSupport.accountsServerName "Name">
-<!ENTITY aboutSupport.accountsConnSecurity "Connection security">
-<!ENTITY aboutSupport.accountsAuthMethod "Authentication method">
-<!ENTITY aboutSupport.accountsDefault "Default?">
+<!ENTITY aboutSupport.accountsName "İsim">
+<!ENTITY aboutSupport.accountsIncomingServer "Gelen sunucusu">
+<!ENTITY aboutSupport.accountsOutgoingServers "Giden sunucuları">
+<!ENTITY aboutSupport.accountsServerName "İsim">
+<!ENTITY aboutSupport.accountsConnSecurity "Bağlantı güvenliği">
+<!ENTITY aboutSupport.accountsAuthMethod "Yetkilendirme yöntemi">
+<!ENTITY aboutSupport.accountsDefault "Varsayılan?">
 
-<!ENTITY aboutSupport.sendViaEmail.label "Send via email">
+<!ENTITY aboutSupport.sendViaEmail.label "E-posta ile gönder">

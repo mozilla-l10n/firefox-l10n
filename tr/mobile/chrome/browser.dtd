@@ -7,6 +7,7 @@
 <!ENTITY go.label "Git">
 <!ENTITY star.label "Yıldız">
 
+<!ENTITY showTabs.label "Show Tabs">
 <!ENTITY newtab.label "Yeni sekme">
 <!ENTITY closetab.label "Sekmeyi kapat">
 
@@ -15,6 +16,7 @@
 <!ENTITY copyAll.label "Tümünü kopyala">
 <!ENTITY copylink.label "Bağlantı konumunu kopyala">
 <!ENTITY paste.label "Yapıştır">
+<!ENTITY pasteAndGo.label "Paste &amp; Go">
 <!ENTITY delete.label "Sil">
 <!ENTITY selectAll.label "Tümünü seç">
 <!ENTITY noSuggestions.label "(Öneri yok)">
@@ -67,6 +69,7 @@
 <!ENTITY bookmarkPopup.label "Sayfa imlendi">
 <!ENTITY bookmarkRemove.label "Kaldır">
 <!ENTITY bookmarkEdit.label "Düzenle">
+<!ENTITY bookmarkShortcut.label "Add to Home Screen">
 
 <!ENTITY identity.unverifiedsite2 "Bu site kimlik bilgisi vermiyor.">
 <!ENTITY identity.connectedTo2 "Bağlanılan">
@@ -92,6 +95,7 @@
 <!ENTITY contextOpenInNewTab.label "Bağlantıyı yeni sekmede aç">
 <!ENTITY contextSaveLink.label "Bağlantıyı kaydet">
 <!ENTITY contextSaveImage.label "Resmi kaydet">
+<!ENTITY contextCopyLink.label "Copy Link">
 <!ENTITY contextShareLink.label "Bağlantıyı paylaş">
 <!ENTITY contextShareImage.label "Resmi paylaş">
 <!ENTITY contextBookmarkLink.label "Bağlantıyı yer imlerine ekle">
@@ -102,6 +106,7 @@
 <!ENTITY contextFullScreen.label "Tam ekran">
 <!ENTITY contextEditBookmark.label "Düzenle">
 <!ENTITY contextRemoveBookmark.label "Kaldır">
+<!ENTITY contextShortcutBookmark.label "Add to Home Screen">
 
 <!ENTITY pageactions.saveas.pdf "PDF olarak kaydet">
 <!ENTITY pageactions.share.page "Sayfayı paylaş">
@@ -111,5 +116,6 @@
 <!ENTITY pageactions.findInPage "Sayfada bul">
 <!ENTITY pageactions.search.addNew "Arama motoru ekleme">
 <!ENTITY pageactions.charEncoding "Karakter kodlaması">
+<!ENTITY pageactions.webapps.install "Install as App">
 
 <!ENTITY appMenu.siteOptions "Site özellikleri">
