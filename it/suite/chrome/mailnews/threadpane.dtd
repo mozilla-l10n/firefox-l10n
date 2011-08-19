@@ -1,6 +1,6 @@
 <!--null-->
 <!ENTITY threadColumn.label "Argomento">
-<!ENTITY fromColumn.label "Da">
+<!ENTITY fromColumn.label "Mittente">
 <!ENTITY recipientColumn.label "Destinatario">
 <!ENTITY attachmentColumn.label "Allegati">
 <!ENTITY subjectColumn.label "Oggetto">
