@@ -12,7 +12,7 @@
 <!ENTITY useSmoothScrolling.label "Usar desplazamiento suave">
 <!ENTITY useSmoothScrolling.accesskey "s">
 <!ENTITY allowHWAccel.label "Usa aceleración de hardware cuando esté disponible">
-<!ENTITY allowHWAccel.accesskey "h">
+<!ENTITY allowHWAccel.accesskey "r">
 <!ENTITY checkSpelling.label "Comprobar la ortografía mientras se escribe">
 <!ENTITY checkSpelling.accesskey "o">
 <!ENTITY systemDefaults.label "Por defecto">
@@ -44,7 +44,7 @@
 <!ENTITY enableAddonsUpdate2.label "Complementos">
 <!ENTITY enableAddonsUpdate2.accesskey "C">
 <!ENTITY enableSearchUpdate.label "Motores de búsqueda">
-<!ENTITY enableSearchUpdate.accesskey "M">
+<!ENTITY enableSearchUpdate.accesskey "E">
 <!ENTITY whenUpdatesFound.label "Cuando se encuentren actualizaciones para &brandShortName;:">
 <!ENTITY askMe.label "Preguntarme qué hacer">
 <!ENTITY askMe.accesskey "q">

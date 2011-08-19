@@ -62,4 +62,3 @@
 <!ENTITY webConsoleCmd.label "Consola web">
 <!ENTITY webConsoleCmd.accesskey "W">
 <!ENTITY webConsoleCmd.commandkey "k">
-<!ENTITY textbox.placeholder1 "// Escribe algo de JavaScript, selecciónalo, haz clic derecho sobre él y elige Ejecutar, Inspeccionar o Mostrar.">
