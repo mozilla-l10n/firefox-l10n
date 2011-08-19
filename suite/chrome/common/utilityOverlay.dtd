@@ -18,13 +18,6 @@
 <!ENTITY newNavigatorCmd.label "Ventana del navegador">
 <!ENTITY newNavigatorCmd.key "N">
 <!ENTITY newNavigatorCmd.accesskey "V">
-<!ENTITY printSetupCmd.label "Configurar página…">
-<!ENTITY printSetupCmd.accesskey "u">
-<!ENTITY printPreviewCmd.label "Vista previa">
-<!ENTITY printPreviewCmd.accesskey "V">
-<!ENTITY printCmd.label "Imprimir…">
-<!ENTITY printCmd.accesskey "p">
-<!ENTITY printCmd.key "p">
 
 <!ENTITY editMenu.label					"Editar"> 
 <!ENTITY editMenu.accesskey				"E"> 
