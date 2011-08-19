@@ -18,7 +18,6 @@
 <!ENTITY printPreviewCmd.accesskey "z">
 <!ENTITY printCmd.label "Yazdır…">
 <!ENTITY printCmd.accesskey "r">
-<!ENTITY printCmd.commandkey "p">
 
 <!ENTITY navbarCmd.label "Gezinti araç çubuğu">
 <!ENTITY navbarCmd.accesskey "t">

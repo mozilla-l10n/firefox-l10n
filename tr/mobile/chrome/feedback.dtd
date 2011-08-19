@@ -5,10 +5,7 @@
 <!ENTITY feedback.feedback.good "İyi">
 <!ENTITY feedback.feedback.bad "Kötü">
 
-<!ENTITY feedback.information.title "Daha fazla bilgi">
-<!ENTITY feedback.about.title "Bu Beta hakkında">
-<!ENTITY feedback.about.button "Sayfaya git">
-
 <!ENTITY feedback.tools.title "Araçlar">
+<!ENTITY feedback.allowTelemetry.title "Send performance data">
 <!ENTITY feedback.forceCompat.title "Eklenti uyumluluğunu zorla">
 <!ENTITY feedback.errorConsole.title "Hata Konsolu'nu etkinleştir">

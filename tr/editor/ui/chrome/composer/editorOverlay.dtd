@@ -68,14 +68,8 @@
 <!ENTITY publishAsCmd.accesskey "F">
 <!ENTITY saveAsChangeEncodingCmd.label "Karakter kodlamasını kaydet ve değiştir">
 <!ENTITY saveAsChangeEncodingCmd.accesskey "t">
-<!ENTITY printSetupCmd.label "Sayfa ayarları…">
-<!ENTITY printSetupCmd.accesskey "a">
 <!ENTITY printCmd.label "Yazdır…">
 <!ENTITY printCmd.accesskey "Y">
-<!ENTITY printCmd.key "P">
-<!ENTITY closeCmd.label "Kapat">
-<!ENTITY closeCmd.accesskey "K">
-<!ENTITY closeCmd.key "W">
 <!-- Edit menu items -->
 
 <!ENTITY editMenu.label "Düzenle">
@@ -90,18 +84,7 @@
 <!ENTITY pasteAsQuotationCmd.label "Alıntı olarak yapıştır">
 <!ENTITY pasteAsQuotationCmd.accesskey "o">
 <!ENTITY pasteAsQuotationCmd.key "o">
-<!ENTITY findCmd.label "Bul ve değiştir…">
-<!ENTITY findCmd.accesskey "u">
-<!ENTITY findCmd.key "F">
-<!ENTITY findCmd.key2 "VK_F19">
-<!ENTITY findAgainCmd.label "Sonrakini bul">
-<!ENTITY findAgainCmd.accesskey "b">
-<!ENTITY findAgainCmd.key "G">
-<!ENTITY findAgainCmd.key2 "VK_F3">
-<!ENTITY findPrevCmd.label "Öncekini bul">
-<!ENTITY findPrevCmd.accesskey "k">
-<!ENTITY findPrevCmd.key "G">
-<!ENTITY findPrevCmd.key2 "VK_F3">
+<!ENTITY findCmd.label "Find and Replace…">
 <!ENTITY enableInlineSpellChecker.label "Yazarken yazım denetimini gerçekleştir">
 <!ENTITY enableInlineSpellChecker.accesskey "Y">
 <!ENTITY checkSpellingCmd2.label "Yazımı Denetle">
