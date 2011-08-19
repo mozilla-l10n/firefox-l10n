@@ -62,8 +62,6 @@
 <!ENTITY printAddressBook.accesskey "A">
 <!ENTITY printPreviewAddressBook.label "Adres defteri yazdırma önizleme">
 <!ENTITY printPreviewAddressBook.accesskey "r">
-<!ENTITY printSetupCmd.label "Sayfa düzeni…">
-<!ENTITY printSetupCmd.accesskey "y">
 <!-- Edit Menu -->
 
 <!ENTITY deleteAbCmd.label "Adres defteri sil">

@@ -7,6 +7,7 @@
 <!ENTITY go.label "Git">
 <!ENTITY star.label "Yıldız">
 
+<!ENTITY showTabs.label "Show Tabs">
 <!ENTITY newtab.label "Yeni sekme">
 <!ENTITY closetab.label "Sekmeyi kapat">
 
@@ -15,6 +16,7 @@
 <!ENTITY copyAll.label "Tümünü kopyala">
 <!ENTITY copylink.label "Bağlantı konumunu kopyala">
 <!ENTITY paste.label "Yapıştır">
+<!ENTITY pasteAndGo.label "Paste &amp; Go">
 <!ENTITY delete.label "Sil">
 <!ENTITY selectAll.label "Tümünü seç">
 <!ENTITY noSuggestions.label "(Öneri yok)">
@@ -67,6 +69,7 @@
 <!ENTITY bookmarkPopup.label "Sayfa imlendi">
 <!ENTITY bookmarkRemove.label "Kaldır">
 <!ENTITY bookmarkEdit.label "Düzenle">
+<!ENTITY bookmarkShortcut.label "Add to Home Screen">
 
 <!ENTITY identity.unverifiedsite2 "Bu site kimlik bilgisi vermiyor.">
 <!ENTITY identity.connectedTo2 "Bağlanılan">
@@ -103,6 +106,7 @@
 <!ENTITY contextFullScreen.label "Tam ekran">
 <!ENTITY contextEditBookmark.label "Düzenle">
 <!ENTITY contextRemoveBookmark.label "Kaldır">
+<!ENTITY contextShortcutBookmark.label "Add to Home Screen">
 
 <!ENTITY pageactions.saveas.pdf "PDF olarak kaydet">
 <!ENTITY pageactions.share.page "Sayfayı paylaş">
