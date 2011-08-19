@@ -4,20 +4,20 @@
 
 <!-- LOCALIZATION NOTE : FILE This file contains the global menu items --> 
 
-<!ENTITY fileMenu.label "Ficheiro">
-<!ENTITY fileMenu.accesskey "f">
-<!ENTITY newMenu.label "Novo">
-<!ENTITY newMenu.accesskey "N">
-<!ENTITY newBlankPageCmd.label "Página do compositor">
-<!ENTITY newBlankPageCmd.accesskey "P" >
-<!ENTITY newBlankPageCmd.key "n" >
-<!ENTITY newPageFromTemplateCmd.label "Página usando modelo">
+<!ENTITY fileMenu.label                   "Ficheiro">
+<!ENTITY fileMenu.accesskey               "F">
+<!ENTITY newMenu.label                    "Novo">
+<!ENTITY newMenu.accesskey                "N">
+<!ENTITY newBlankPageCmd.label            "Página do compositor">
+<!ENTITY newBlankPageCmd.accesskey        "P">
+<!ENTITY newBlankPageCmd.key              "n">
+<!ENTITY newPageFromTemplateCmd.label     "Página usando modelo">
 <!ENTITY newPageFromTemplateCmd.accesskey "m">
-<!ENTITY newPageFromDraftCmd.label "Página usando rascunho">
-<!ENTITY newPageFromDraftCmd.accesskey "d">
-<!ENTITY newNavigatorCmd.label "Janela do Navegador">
-<!ENTITY newNavigatorCmd.key "N">
-<!ENTITY newNavigatorCmd.accesskey "N">
+<!ENTITY newPageFromDraftCmd.label        "Página usando rascunho">
+<!ENTITY newPageFromDraftCmd.accesskey    "d">
+<!ENTITY newNavigatorCmd.label            "Janela do Navegador">
+<!ENTITY newNavigatorCmd.key              "N">
+<!ENTITY newNavigatorCmd.accesskey        "N">
 
 <!ENTITY editMenu.label "Editar">
 <!ENTITY editMenu.accesskey "e">
@@ -54,48 +54,61 @@
 <!ENTITY showSuggestionsCmd.accesskey		"s"> 
 <!ENTITY preferencesCmd.label "Opções...">
 <!ENTITY preferencesCmd.key					"e"> 
-<!ENTITY preferencesCmd.accesskey			"e"> 
+<!ENTITY preferencesCmd.accesskey			"e">
+<!ENTITY findCmd.key "F">
+<!-- LOCALIZATION NOTE (findCmd.accesskey): This accesskey should be within
+     findCmd.label found in messengercompose.dtd, messenger.dtd and
+     editorOverlay.dtd and findOnCmd.label found in navigatorOverlay.dtd -->
+<!ENTITY findCmd.accesskey "r">
+<!ENTITY findAgainCmd.label "Procurar de novo">
+<!ENTITY findAgainCmd.key "g">
+<!ENTITY findAgainCmd.accesskey "n">
+<!ENTITY findAgainCmd.key2 "VK_F3">
+<!ENTITY findPrevCmd.label "Procura anterior">
+<!ENTITY findPrevCmd.key "G">
+<!ENTITY findPrevCmd.key2 "VK_F3">
+<!ENTITY findPrevCmd.accesskey "o">
 <!ENTITY findTypeTextCmd.label "Localizar texto ao escrever">
 <!ENTITY findTypeTextCmd.accesskey "e">
 <!ENTITY findTypeLinksCmd.label "Localizar ligações ao escrever">
 <!ENTITY findTypeLinksCmd.accesskey "g">
 
-<!ENTITY viewMenu.label "Ver">
+<!ENTITY viewMenu.label					"Ver">
 <!ENTITY viewMenu.accesskey "v">
 <!ENTITY viewToolbarsMenu.label "Mostrar/Ocultar">
-<!ENTITY viewToolbarsMenu.accesskey "M">
-<!ENTITY showTaskbarCmd.label "Barra de Estado">
-<!ENTITY showTaskbarCmd.accesskey "S">
+<!ENTITY viewToolbarsMenu.accesskey          "M">
+<!ENTITY showTaskbarCmd.label                     "Barra de Estado">
+<!ENTITY showTaskbarCmd.accesskey                 "S">
 
 <!ENTITY helpMenu.label					"Ajuda"> 
 <!ENTITY helpMenu.accesskey				"A"> 
 
 <!ENTITY helpTroubleshootingInfo.label      "Informação sobre erros">
 <!ENTITY helpTroubleshootingInfo.accesskey  "ç">
-<!ENTITY releaseCmd.label				"Notas de lançamento">
-<!ENTITY releaseCmd.accesskey                   "N">
+<!ENTITY releaseCmd.label                   "Notas de lançamento">
+<!ENTITY releaseCmd.accesskey               "N">
 <!ENTITY helpSafeMode.label                 "Reiniciar com extras desactivados">
 <!ENTITY helpSafeMode.accesskey             "R">
-<!ENTITY updateCmd.label                        "Procurar por actualizações…">
-<!ENTITY updateCmd.accesskey                    "p">
+<!ENTITY updateCmd.label                    "Procurar por actualizações…">
+<!ENTITY updateCmd.accesskey                "p">
 <!ENTITY aboutCmd.label					"Sobre o &brandShortName;">
 <!ENTITY aboutCmd.accesskey				"S">
 <!ENTITY aboutCommPluginsCmd.label			"Sobre os Plugins">
 <!ENTITY aboutCommPluginsCmd.accesskey			"p">
 
-<!ENTITY direct.label "Ligado (proxy: nenhum)">
-<!ENTITY direct.accesskey "n">
-<!ENTITY manual.label "Ligado (proxy: manual)">
-<!ENTITY manual.accesskey "m">
-<!ENTITY pac.label "Ligado (proxy: auto)">
-<!ENTITY pac.accesskey "a">
+<!ENTITY direct.label                                   "Ligado (proxy: nenhum)">
+<!ENTITY direct.accesskey                               "n">
+<!ENTITY manual.label                                   "Ligado (proxy: manual)">
+<!ENTITY manual.accesskey                               "m">
+<!ENTITY pac.label                                      "Ligado (proxy: auto)">
+<!ENTITY pac.accesskey                                  "a">
 <!ENTITY wpad.label                                     "Ligado (Proxy: Auto Descobrir)">
 <!ENTITY wpad.accesskey                                 "D">
 <!ENTITY system.label                                   "Ligado (Proxy: Sistema Proxy)">
 <!ENTITY system.accesskey                               "S">
 
-<!ENTITY proxy.label "Configuração de proxy...">
-<!ENTITY proxy.accesskey "X">
+<!ENTITY proxy.label                                    "Configuração de proxy...">
+<!ENTITY proxy.accesskey                                "C">
 
 <!ENTITY bidiSwitchTextDirectionItem.label        "Mudar direcção do texto">
 <!ENTITY bidiSwitchTextDirectionItem.accesskey    "d">
