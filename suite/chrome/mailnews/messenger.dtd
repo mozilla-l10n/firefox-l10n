@@ -385,7 +385,7 @@
 <!ENTITY unreadColumn.label "Non letti">
 <!ENTITY totalColumn.label "Totale">
 <!ENTITY getMsgButton.label "Scarica posta">
-<!ENTITY newMsgButton.label "Componi">
+<!ENTITY newMsgButton.label "Scrivi">
 <!ENTITY newHTMLMessageCmd.label "Scrivi in HTML">
 <!ENTITY newHTMLMessageCmd.accesskey "H">
 <!ENTITY newPlainTextMessageCmd.label "Scrivi in testo semplice">

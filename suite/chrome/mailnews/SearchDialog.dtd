@@ -24,6 +24,6 @@
 <!ENTITY abSearchHeading.accesskey "n">
 <!ENTITY propertiesButton.label "Proprietà">
 <!ENTITY propertiesButton.accesskey "P">
-<!ENTITY composeButton.label "Componi">
+<!ENTITY composeButton.label "Scrivi">
 <!ENTITY composeButton.accesskey "o">
 <!ENTITY abSearchDialogTitle.label "Ricerca avanzata Rubrica">
