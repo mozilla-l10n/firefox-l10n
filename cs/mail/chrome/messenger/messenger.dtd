@@ -119,6 +119,8 @@
 <!ENTITY redoDefaultCmd.accesskey "o">
 
 <!-- View Menu -->
+<!ENTITY menubarCmd.label "Lišta nabídky">
+<!ENTITY menubarCmd.accesskey "n">
 <!ENTITY showMessengerToolbarCmd.label "Lišta pošty">
 <!ENTITY showMessengerToolbarCmd.accesskey "p">
 <!ENTITY customizeToolbar.label "Vlastní…">

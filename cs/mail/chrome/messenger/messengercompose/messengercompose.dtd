@@ -92,6 +92,8 @@
 <!ENTITY viewMenu.accesskey "Z">
 <!ENTITY viewToolbarsMenuNew.label "Nástrojové lišty">
 <!ENTITY viewToolbarsMenuNew.accesskey "N">
+<!ENTITY menubarCmd.label "Lišta nabídky">
+<!ENTITY menubarCmd.accesskey "n">
 <!ENTITY showCompositionToolbarCmd.label "Lišta pošty">
 <!ENTITY showCompositionToolbarCmd.accesskey "p">
 <!ENTITY showFormattingBarCmd.label "Lišta stylů">
