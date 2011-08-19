@@ -53,7 +53,7 @@
 <!ENTITY newlistButton.accesskey "N">
 <!ENTITY editItemButton.label "Proprietà">
 <!ENTITY editItemButton.accesskey "P">
-<!ENTITY newmsgButton.label "Componi">
+<!ENTITY newmsgButton.label "Scrivi">
 <!ENTITY newmsgButton.accesskey "C">
 <!ENTITY deleteItemButton.label "Elimina">
 <!ENTITY deleteItemButton.accesskey "E">
