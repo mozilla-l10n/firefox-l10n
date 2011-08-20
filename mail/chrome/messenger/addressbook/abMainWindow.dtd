@@ -79,6 +79,8 @@
 <!ENTITY viewMenu.accesskey "v">
 <!ENTITY viewToolbarsMenu.label "Barras de Ferramentas">
 <!ENTITY viewToolbarsMenu.accesskey "B">
+<!ENTITY menubarCmd.label                               "Barra de menu">
+<!ENTITY menubarCmd.accesskey                           "m">
 <!ENTITY showAbToolbarCmd.label "Barra de Ferramentas do Livro de Endereços">
 <!ENTITY showAbToolbarCmd.accesskey "a">
 <!ENTITY showTaskbarCmd.label "Barra de Estado">

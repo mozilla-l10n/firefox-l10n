@@ -119,6 +119,8 @@
 <!ENTITY redoDefaultCmd.accesskey "R">
 
 <!-- View Menu -->
+<!ENTITY menubarCmd.label "Barra de menu">
+<!ENTITY menubarCmd.accesskey "m">
 <!ENTITY showMessengerToolbarCmd.label "Barra de ferramentas do correio">
 <!ENTITY showMessengerToolbarCmd.accesskey "a">
 <!ENTITY customizeToolbar.label "Personalizar...">
