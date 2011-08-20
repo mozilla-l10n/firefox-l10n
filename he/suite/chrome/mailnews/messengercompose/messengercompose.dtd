@@ -136,7 +136,7 @@
 <!ENTITY testSelectionCmd.label "בחן בחירה">
 <!ENTITY testTableLayoutCmd.label "בחן עימוד טבלה">
 <!ENTITY testDocumentCmd.label "בחן מסמך">
-<!ENTITY showEmbeddedCmd.label "הצג אוביקטים מוטבעים">
+<!ENTITY showEmbeddedCmd.label "הצג אובייקטים מוטבעים">
 <!ENTITY dumpContentCmd.label "השלך עץ תכולה">
 <!ENTITY runUnitTestsCmd.label "הרץ בדיקות יחידה">
 <!ENTITY startLogCmd.label "התחל יומן">
@@ -178,7 +178,7 @@
 <!ENTITY pasteQuote.accesskey "כ">
 <!ENTITY delete.label "מחק">
 <!ENTITY delete.accesskey "מ">
-<!ENTITY selectAll.label "בחר הכל">
+<!ENTITY selectAll.label "בחר הכול">
 <!ENTITY selectAll.accesskey "ב">
 <!ENTITY attachFile.label "ספח קובץ (קבצים)...">
 <!ENTITY attachFile.accesskey "ס">

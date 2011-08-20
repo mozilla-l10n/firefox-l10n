@@ -6,7 +6,7 @@
 <!ENTITY scaryWarningCheckbox.label "הראה אזהרה זו בפעם הבאה">
 <!ENTITY filterPrefs.label "מסנן:">
 <!ENTITY filterPrefs.accesskey "מ">
-<!ENTITY showAll.label "הצג הכל">
+<!ENTITY showAll.label "הצג הכול">
 <!ENTITY showAll.accesskey "ה">
 <!ENTITY prefColumn.label "שם העדפה">
 <!ENTITY lockColumn.label "מצב">

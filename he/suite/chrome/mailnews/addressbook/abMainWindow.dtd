@@ -10,7 +10,7 @@
 <!ENTITY renameAddressBookCmd.accesskey "ש">
 <!ENTITY newLDAPDirectoryCmd.label "מדריך LDAP...">
 <!ENTITY newLDAPDirectoryCmd.accesskey "מ">
-<!ENTITY newIM.label "הודעה מיידית">
+<!ENTITY newIM.label "הודעה מידית">
 <!ENTITY printCardViewCmd.label "הדפס כרטיס...">
 <!ENTITY printCardViewCmd.accesskey "ד">
 <!ENTITY printPreviewCardViewCmd.label "הצג לפני הדפסה את הכרטיס">
@@ -62,7 +62,7 @@
 <!ENTITY newmsgButton.accesskey "ח">
 <!ENTITY deleteButton.label "מחק">
 <!ENTITY deleteButton.accesskey "מ">
-<!ENTITY newimButton.label "הודעה מיידית">
+<!ENTITY newimButton.label "הודעה מידית">
 <!ENTITY newimButton.accesskey "ה">
 <!ENTITY stopButton.label ".עצור">
 <!ENTITY searchButton.label ".חפש">
@@ -72,7 +72,7 @@
 <!ENTITY newlistButton.tooltip "צור רשימה חדשה">
 <!ENTITY editButton.tooltip "ערוך את הכרטיס הנבחר">
 <!ENTITY newmsgButton.tooltip "שלח הודעת דואר">
-<!ENTITY newIM.tooltip "שלח הודעה מיידית או צ׳אט">
+<!ENTITY newIM.tooltip "שלח הודעה מידית או צ׳אט">
 <!ENTITY deleteButton.tooltip "מחק כרטיס או פנקס כתובות נבחרים">
 <!ENTITY stopButton.tooltip "הפסק העברה נוכחית">
 <!ENTITY searchButton.tooltip "חפש בפנקס הכתובות הנבחר">

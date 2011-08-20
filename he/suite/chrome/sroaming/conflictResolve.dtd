@@ -35,8 +35,8 @@
    - the terms of any one of the MPL, the GPL or the LGPL.
    -
    - ***** END LICENSE BLOCK ***** -->
-<!ENTITY windowtitle.label "התנגשויות בקבצי נדידה">
-<!ENTITY subheader.label "בחר איזו גרסה של קבצי הפרופיל שלך לשמור">
+<!ENTITY windowtitle.label "התנגשויות בקובצי נדידה">
+<!ENTITY subheader.label "בחר איזו גרסה של קובצי הפרופיל שלך לשמור">
 <!ENTITY intro-download.label "הורדה: מספר קבצים בפרופיל המשתמש המקומי שלך השתנו מאז שהקבצים המתאימים בשרת הועלו לאחרונה. דבר זה מרמז על כך שהקבצים בשרת אינם מעודכנים. איזו גרסה של הקבצים ברצונך לשמור?">
 <!ENTITY intro-upload.label "העלאה: מספר קבצים השתנו הן על השרת והן בפרופיל המשתמש המקומי שלך מאז שהקבצים הורדו לאחרונה. איזו גרסה של הקבצים ברצונך לשמור?">
 <!ENTITY filedescr.label "קובץ">

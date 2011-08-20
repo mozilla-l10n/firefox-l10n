@@ -7,7 +7,7 @@
 <!ENTITY reportForm.label "מלא דוח">
 <!ENTITY reportForm.description "ספר לנו קצת על הבעיה שנתקלת בה (באנגלית, אם אפשר):">
 <!ENTITY reportForm.url.title "כתובת אתר:">
-<!ENTITY reportForm.behind_login.title "אתר מוגן בסיסמה">
+<!ENTITY reportForm.behind_login.title "אתר מוגן בססמה">
 <!ENTITY reportForm.behind_login.accesskey "א">
 <!ENTITY reportForm.problem_type.title "סוג בעיה:">
 <!ENTITY reportForm.problem_type.accesskey "ס">

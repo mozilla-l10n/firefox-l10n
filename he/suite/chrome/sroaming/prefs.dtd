@@ -49,9 +49,9 @@
 <!ENTITY streamURL.accesskey "ס">
 <!ENTITY streamUsername.label "שם משתמש:">
 <!ENTITY streamUsername.accesskey "ת">
-<!ENTITY streamSavePW.label "שמור סיסמה">
+<!ENTITY streamSavePW.label "שמור ססמה">
 <!ENTITY streamSavePW.accesskey "ש">
-<!ENTITY streamPassword.label "סיסמה:">
+<!ENTITY streamPassword.label "ססמה:">
 <!ENTITY streamPassword.accesskey "מ">
 <!ENTITY copyDir.label "העתק מתיקייה או אל תיקייה:">
 <!ENTITY browse.label "עיין...">

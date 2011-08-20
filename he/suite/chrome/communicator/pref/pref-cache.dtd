@@ -9,7 +9,7 @@
 <!ENTITY clearDiskCache.accesskey "נ">
 <!ENTITY chooseDiskCacheFolder.label "בחר תיקייה...">
 <!ENTITY chooseDiskCacheFolder.accesskey "ח">
-<!ENTITY diskCacheFolderExplanation "קבצי מטמון יאוחסנו בתת‏־תיקייה של התיקייה שתציין בשם &quot;Cache&quot;. אתחל את &brandShortName; כדי שהשינויים יכנסו לתוקף.">
+<!ENTITY diskCacheFolderExplanation "קובצי מטמון יאוחסנו בתת‏־תיקייה של התיקייה שתציין בשם &quot;Cache&quot;. אתחל את &brandShortName; כדי שהשינויים יכנסו לתוקף.">
 <!ENTITY docCache "השווה את הדף במטמון לדף ברשת:">
 <!ENTITY oncePsessionRadio.label "פעם אחת בהפעלה">
 <!ENTITY oncePsessionRadio.accesskey "א">

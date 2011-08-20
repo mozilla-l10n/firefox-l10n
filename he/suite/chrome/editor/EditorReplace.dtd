@@ -53,7 +53,7 @@
 <!ENTITY replaceButton.accesskey "ח">
 <!ENTITY replaceAndFindButton.label "החלף ומצא">
 <!ENTITY replaceAndFindButton.accesskey "ל">
-<!ENTITY replaceAllButton.label "החלף הכל">
+<!ENTITY replaceAllButton.label "החלף הכול">
 <!ENTITY replaceAllButton.accesskey "כ">
 <!ENTITY closeButton.label "סגור">
 <!ENTITY notFoundWarning.label "הטקסט שהכנסת לא נמצא.">

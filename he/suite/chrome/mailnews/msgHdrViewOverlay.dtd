@@ -27,9 +27,9 @@
 <!ENTITY detachAttachmentCmd.accesskey "ס">
 <!ENTITY deleteAttachmentCmd.label "מחק">
 <!ENTITY deleteAttachmentCmd.accesskey "ק">
-<!ENTITY saveAllAttachmentsCmd.label "שמור הכל...">
+<!ENTITY saveAllAttachmentsCmd.label "שמור הכול...">
 <!ENTITY saveAllAttachmentsCmd.accesskey "מ">
-<!ENTITY detachAllAttachmentsCmd.label "הסר הכל...">
+<!ENTITY detachAllAttachmentsCmd.label "הסר הכול...">
 <!ENTITY detachAllAttachmentsCmd.accesskey "ה">
-<!ENTITY deleteAllAttachmentsCmd.label "מחק הכל...">
+<!ENTITY deleteAllAttachmentsCmd.label "מחק הכול...">
 <!ENTITY deleteAllAttachmentsCmd.accesskey "ח">
