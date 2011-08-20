@@ -70,12 +70,6 @@
 <!ENTITY saveAsChangeEncodingCmd.accesskey "G">
 <!ENTITY printSetupCmd.label "Configurar Página...">
 <!ENTITY printSetupCmd.accesskey "u">
-<!ENTITY printCmd.label "Imprimir...">
-<!ENTITY printCmd.accesskey "p">
-<!ENTITY printCmd.key "p">
-<!ENTITY closeCmd.label "Fechar">
-<!ENTITY closeCmd.accesskey "c">
-<!ENTITY closeCmd.key "w">
 
 <!-- Edit menu items -->
 <!ENTITY editMenu.label "Editar">
