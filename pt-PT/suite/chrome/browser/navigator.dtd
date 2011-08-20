@@ -18,6 +18,7 @@
 <!ENTITY printPreviewCmd.accesskey "v">
 <!ENTITY printCmd.label "Imprimir…">
 <!ENTITY printCmd.accesskey "I">
+<!ENTITY printCmd.commandkey "p">
 
 <!ENTITY navbarCmd.label "Barra de ferramentas de navegação">
 <!ENTITY navbarCmd.accesskey "n">
