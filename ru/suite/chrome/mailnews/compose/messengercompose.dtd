@@ -8,7 +8,6 @@
 <!ENTITY newMessage.label "Сообщение">
 <!ENTITY newMessage.accesskey "б">
 <!ENTITY saveCmd.label "Сохранить">
-<!ENTITY saveCmd.key "S">
 <!ENTITY saveCmd.accesskey "о">
 <!ENTITY saveAsCmd.label "Сохранить как">
 <!ENTITY saveAsCmd.accesskey "к">
@@ -52,7 +51,6 @@
 <!ENTITY selectAddressCmd.key "">
 <!ENTITY selectAddressCmd.accesskey "в">
 <!ENTITY checkSpellingCmd2.label "Проверить орфографию…">
-<!ENTITY checkSpellingCmd2.key "p">
 <!ENTITY checkSpellingCmd2.accesskey "в">
 <!ENTITY enableInlineSpellChecker.label "Проверка орфографии при наборе текста">
 <!ENTITY enableInlineSpellChecker.accesskey "о">
