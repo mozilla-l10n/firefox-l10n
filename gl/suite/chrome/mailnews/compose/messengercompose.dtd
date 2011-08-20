@@ -14,7 +14,6 @@
 <!ENTITY newMessage.label "Mensaxe">  
 <!ENTITY newMessage.accesskey "M">  
 <!ENTITY saveCmd.label "Gardar">
-<!ENTITY saveCmd.key "S">
 <!ENTITY saveCmd.accesskey "G">
 <!ENTITY saveAsCmd.label "Gardar como">
 <!ENTITY saveAsCmd.accesskey "a">
@@ -69,7 +68,6 @@
 <!ENTITY selectAddressCmd.accesskey "a">
 
 <!ENTITY checkSpellingCmd2.label "Verificación ortográfica…">
-<!ENTITY checkSpellingCmd2.key "p">
 <!ENTITY checkSpellingCmd2.accesskey "V">
 <!ENTITY enableInlineSpellChecker.label "Revisar a ortografía mentres escribe">
 <!ENTITY enableInlineSpellChecker.accesskey "s">
