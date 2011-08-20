@@ -169,7 +169,7 @@
 <!ENTITY msgsMenu.accesskey "ה">
 <!ENTITY threads.label "נושאי דיון">
 <!ENTITY threads.accesskey "ש">
-<!ENTITY allMsgsCmd.label "הכל">
+<!ENTITY allMsgsCmd.label "הכול">
 <!ENTITY allMsgsCmd.accesskey "כ">
 <!ENTITY expandOrCollapseMenu.label "הרחב/צמצם">
 <!ENTITY expandOrCollapseMenu.accesskey "ה">
@@ -189,7 +189,7 @@
 <!ENTITY ignoredThreadsCmd.accesskey "ד">
 <!ENTITY headersMenu.label "כותרות">
 <!ENTITY headersMenu.accesskey "כ">
-<!ENTITY headersAllCmd.label "הכל">
+<!ENTITY headersAllCmd.label "הכול">
 <!ENTITY headersAllCmd.accesskey "ה">
 <!ENTITY headersNormalCmd.label "רגיל">
 <!ENTITY headersNormalCmd.accesskey "ר">
@@ -350,7 +350,7 @@
 <!ENTITY markReadByDateCmd.label "כנקרא מתאריך...">
 <!ENTITY markReadByDateCmd.accesskey "ר">
 <!ENTITY markReadByDateCmd.key "c">
-<!ENTITY markAllReadCmd.label "הכל כנקרא">
+<!ENTITY markAllReadCmd.label "הכול כנקרא">
 <!ENTITY markAllReadCmd.accesskey "ה">
 <!ENTITY markAllReadCmd.key "c">
 <!ENTITY markAllReadCmdUnix.key "m">
@@ -456,9 +456,9 @@
 <!ENTITY folderContextSendUnsentMessages.accesskey "ש">
 <!ENTITY folderContextUnsubscribe.label "בטל מנוי">
 <!ENTITY folderContextUnsubscribe.accesskey "ב">
-<!ENTITY folderContextMarkNewsgroupRead.label "סמן קבוצת דיון כנקראה">
+<!ENTITY folderContextMarkNewsgroupRead.label "סמן קבוצת דיון כנקראת">
 <!ENTITY folderContextMarkNewsgroupRead.accesskey "ס">
-<!ENTITY folderContextMarkMailFolderRead.label "סמן תיקייה כנקראה">
+<!ENTITY folderContextMarkMailFolderRead.label "סמן תיקייה כנקראת">
 <!ENTITY folderContextMarkMailFolderRead.accesskey "ס">
 <!ENTITY folderContextNew.label "תת־תיקייה חדשה...">
 <!ENTITY folderContextNew.accesskey "ת">
@@ -478,7 +478,7 @@
 <!ENTITY advancedButton.accesskey "מ">
 <!ENTITY clearButton.label "נקה">
 <!ENTITY clearButton.accesskey "נ">
-<!ENTITY all.label "הכל">
+<!ENTITY all.label "הכול">
 <!ENTITY all.accesskey "כ">
 <!ENTITY searchAddressesCmd.label "חפש בכתובות...">
 <!ENTITY searchAddressesCmd.accesskey "ש">

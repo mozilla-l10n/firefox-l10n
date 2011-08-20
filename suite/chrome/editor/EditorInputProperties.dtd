@@ -39,7 +39,7 @@
 <!ENTITY InputType.label "סוג שדה">
 <!ENTITY InputType.accesskey "ס">
 <!ENTITY text.value "טקסט">
-<!ENTITY password.value "סיסמה">
+<!ENTITY password.value "ססמה">
 <!ENTITY checkbox.value "תיבת סימון">
 <!ENTITY radio.value "כפתור רדיו">
 <!ENTITY submit.value "כפתור שלח">

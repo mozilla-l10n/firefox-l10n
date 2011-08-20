@@ -69,7 +69,7 @@
 <!ENTITY saveImageCmd.accesskey "ש">
 <!ENTITY copyCmd.label "העתק">
 <!ENTITY copyCmd.accesskey "ה">
-<!ENTITY selectAllCmd.label "בחר הכל">
+<!ENTITY selectAllCmd.label "בחר הכול">
 <!ENTITY selectAllCmd.accesskey "ב">
 <!ENTITY copyLinkCmd.label "העתק מיקום קישור">
 <!ENTITY copyLinkCmd.accesskey "ע">

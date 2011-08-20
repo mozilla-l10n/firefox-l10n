@@ -34,7 +34,7 @@
 <!ENTITY deleteCmd.label "מחק">
 <!ENTITY deleteCmd.key "D">
 <!ENTITY deleteCmd.accesskey "מ">
-<!ENTITY selectAllCmd.label "בחר הכל">
+<!ENTITY selectAllCmd.label "בחר הכול">
 <!ENTITY selectAllCmd.key "A">
 <!ENTITY selectAllCmd.accesskey "ב">
 <!ENTITY preferencesCmd.label "העדפות...">

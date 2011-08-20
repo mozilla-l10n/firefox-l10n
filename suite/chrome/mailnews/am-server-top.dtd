@@ -12,7 +12,7 @@
 <!ENTITY port.label "שער:">
 <!ENTITY port.accesskey "ש">
 <!ENTITY serverPortDefault.label "ברירת מחדל:">
-<!ENTITY savePassword.label "שמור סיסמה">
+<!ENTITY savePassword.label "שמור ססמה">
 <!ENTITY biffStart.label "בדוק אם קיימות הודעות חדשות כל ">
 <!ENTITY biffStart.accesskey "ד">
 <!ENTITY biffEnd.label "דקות">

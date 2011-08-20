@@ -43,7 +43,7 @@
 <!ENTITY manualMarkModeMove.accesskey "ה">
 <!ENTITY manualMarkModeDelete.label "מחק אותן">
 <!ENTITY manualMarkModeDelete.accesskey "מ">
-<!ENTITY markAsReadOnSpam.label "סמן הודעות שנקבע שהן זבל כנקראו">
+<!ENTITY markAsReadOnSpam.label "סמן הודעות שנקבע שהן זבל כנקראות">
 <!ENTITY markAsReadOnSpam.accesskey "ס">
 <!ENTITY enableJunkLogging.label "אפשר רישום יומן מסנן זבל">
 <!ENTITY enableJunkLogging.accesskey "א">

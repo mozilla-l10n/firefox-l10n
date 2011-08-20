@@ -201,7 +201,7 @@
 <!ENTITY delete.accesskey "מ">
 <!ENTITY clearCmd.label "נקה">
 <!ENTITY clear.accesskey "נ">
-<!ENTITY selectAllCmd.label "בחר הכל">
+<!ENTITY selectAllCmd.label "בחר הכול">
 <!ENTITY selectall.accesskey "ב">
 <!ENTITY FontFaceSelect.tooltip "בחר גופן">
 <!ENTITY fontfaceMenu.label "גופן">
@@ -430,7 +430,7 @@
 <!ENTITY testSelectionCmd.label "בחן קטע נבחר">
 <!ENTITY testTableLayoutCmd.label "בחן עימוד טבלה">
 <!ENTITY testDocumentCmd.label "בחן מסמך">
-<!ENTITY showEmbeddedCmd.label "הצג אוביקטים מוטבעים">
+<!ENTITY showEmbeddedCmd.label "הצג אובייקטים מוטבעים">
 <!ENTITY dumpContentCmd.label "השלך עץ תכולה">
 <!ENTITY runUnitTestsCmd.label "הרץ בדיקות יחידה">
 <!ENTITY dumpUndoStack.label 'רוקן מחסנית "ביטול פעולה"'>

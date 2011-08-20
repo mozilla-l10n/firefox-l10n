@@ -74,7 +74,7 @@
 <!ENTITY browseUrl.tooltip "כתובת ה־//:HTTP של ספריית הבית שלך (אל תכלול שם קובץ)">
 <!ENTITY username.label "שם משתמש:">
 <!ENTITY username.tooltip "שם המשתמש המשמש אותך להתחברות אל ספק הגישה שלך או שירות אחסון האתרים">
-<!ENTITY password.label "סיסמה:">
-<!ENTITY password.tooltip "הסיסמה המקושרת אל שם המשתמש שלך">
-<!ENTITY savePassword.label "שמור סיסמה">
-<!ENTITY savePassword.tooltip "בחר זאת כדי לשמור את סיסמתך באופן מאובטח על־ידי מנהל הסיסמאות">
+<!ENTITY password.label "ססמה:">
+<!ENTITY password.tooltip "הססמה המקושרת אל שם המשתמש שלך">
+<!ENTITY savePassword.label "שמור ססמה">
+<!ENTITY savePassword.tooltip "בחר זאת כדי לשמור את ססמתך באופן מאובטח על־ידי מנהל הססמאות">

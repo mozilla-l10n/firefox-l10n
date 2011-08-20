@@ -42,7 +42,7 @@
 <!ENTITY copy.label "העתק">
 <!ENTITY copy.accesskey "ה">
 <!ENTITY selectall.key "A">
-<!ENTITY selectall.label "בחר הכל">
+<!ENTITY selectall.label "בחר הכול">
 <!ENTITY selectall.accesskey "ב">
 <!ENTITY closeWindow.key "w">
 <!ENTITY generalTab "כללי">
@@ -96,8 +96,8 @@
 <!ENTITY mediaCount "מספר">
 <!ENTITY mediaPlugin "תוסף:">
 <!ENTITY mediaCharset "קידוד:">
-<!ENTITY mediaDimensions "מימדים שצוינו:">
-<!ENTITY mediaPhysDimensions "מימדים אמיתיים:">
+<!ENTITY mediaDimensions "ממדים שצוינו:">
+<!ENTITY mediaPhysDimensions "ממדים אמיתיים:">
 <!ENTITY mediaEncryption "הצפנה:">
 <!ENTITY mediaTitle "תכונת כותרת:">
 <!ENTITY mediaLongdesc "תיאור ארוך:">

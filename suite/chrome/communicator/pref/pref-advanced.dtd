@@ -5,7 +5,7 @@
 <!ENTITY prefTurbo.caption "הפעלה מהירה">
 <!ENTITY enableTurbo.label "השאר את &brandShortName; בזיכרון כדי לשפר את ביצועי האיתחול">
 <!ENTITY enableTurboCheck.accesskey "ה">
-<!ENTITY prefTurbo.desc "אם תסמן פריט זה, חלק מ־&brandShortName; ישאר בזיכרון כאשר אינו בשימוש, על מנת לאפשר לו להיטען מהר יותר.">
+<!ENTITY prefTurbo.desc "אם תסמן פריט זה, חלק מ־&brandShortName; יישאר בזיכרון כאשר אינו בשימוש, כדי לאפשר לו להיטען מהר יותר.">
 <!ENTITY prefJvmConf.caption "בחר גרסת Java (שינוי דורש איתחול)">
 <!ENTITY jvm.name "גרסה">
 <!ENTITY jvm.home "נתיב">

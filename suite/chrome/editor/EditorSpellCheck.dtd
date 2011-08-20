@@ -45,11 +45,11 @@
 <!ENTITY suggestions.accessKey "צ">
 <!ENTITY ignoreButton.label "התעלם">
 <!ENTITY ignoreButton.accessKey "ת">
-<!ENTITY ignoreAllButton.label "התעלם מהכל">
+<!ENTITY ignoreAllButton.label "התעלם מהכול">
 <!ENTITY ignoreAllButton.accessKey "ע">
 <!ENTITY replaceButton.label "החלף">
 <!ENTITY replaceButton.accessKey "ח">
-<!ENTITY replaceAllButton.label "החלף הכל">
+<!ENTITY replaceAllButton.label "החלף הכול">
 <!ENTITY replaceAllButton.accessKey "ל">
 <!ENTITY stopButton.label "עצור">
 <!ENTITY stopButton.accessKey "ר">

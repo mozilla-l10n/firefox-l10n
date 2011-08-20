@@ -28,7 +28,7 @@
 <!ENTITY generalMessageDisplay.caption "כללי">
 <!ENTITY markMessagesRead.label "המתן">
 <!ENTITY markMessagesRead.accesskey "ה">
-<!ENTITY seconds.label "שניות לפני סימון הודעה כנקראה">
+<!ENTITY seconds.label "שניות לפני סימון הודעה כנקראת">
 <!ENTITY openingMessages.label "בעת פתיחת הודעות, הצג אותן:">
 <!ENTITY newWindowRadio.label "בחלון הודעה חדש">
 <!ENTITY newWindowRadio.accesskey "ב">

@@ -10,7 +10,7 @@
 <!ENTITY deleteCmd.label "מחק">
 <!ENTITY deleteHostnameCmd.accesskey "ט">
 <!ENTITY deleteDomainCmd.accesskey "ס">
-<!ENTITY selAllCmd.label "בחר הכל">
+<!ENTITY selAllCmd.label "בחר הכול">
 <!ENTITY findHisCmd.label "חפש בהיסטוריה...">
 <!ENTITY findHisCmd.commandkey "f">
 <!ENTITY findHisCmd.accesskey "ח">

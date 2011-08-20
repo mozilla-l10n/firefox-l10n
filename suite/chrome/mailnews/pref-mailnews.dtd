@@ -5,7 +5,7 @@
 <!ENTITY confirmMove.accesskey "א">
 <!ENTITY useMessenger.label "השתמש בדואר מיישומים מבוססי MAPI">
 <!ENTITY useMessenger.accesskey "ר">
-<!ENTITY autounzip.label "פרוס אוטומטית קבצי zip בעת שמירת נספחים">
+<!ENTITY autounzip.label "פרוס אוטומטית קובצי zip בעת שמירת נספחים">
 <!ENTITY autounzip.accesskey "פ">
 <!ENTITY preserveThreading.label "שמור על נושאי דיון בעת סידור הודעות">
 <!ENTITY preserveThreading.accesskey "ש">

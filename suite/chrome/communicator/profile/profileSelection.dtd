@@ -3,7 +3,7 @@
 <!ENTITY welcome.label "ברוכים הבאים אל &brandShortName;">
 <!ENTITY profilemanager.label "מנהל הפרופילים של &brandShortName;">
 <!ENTITY profilename.label "שם פרופיל:">
-<!ENTITY password.label "סיסמה:">
+<!ENTITY password.label "ססמה:">
 <!ENTITY start.label "הפעל את &vendorShortName;">
 <!ENTITY exit.label "יציאה">
 <!ENTITY manage.label "נהל פרופילים...">

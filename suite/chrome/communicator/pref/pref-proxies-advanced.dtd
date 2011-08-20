@@ -1,5 +1,5 @@
 <!ENTITY pref.proxies.advanced.title "העדפות שרת מתווך מתקדמות">
-<!ENTITY protocols.caption "שרתים מתווכים יחודיים לפרוטוקול">
+<!ENTITY protocols.caption "שרתים מתווכים ייחודיים לפרוטוקול">
 <!ENTITY protocols.description "בדרך כלל אותו שרת מתווך יכול לטפל בכל הפרוטוקולים הרשומים כאן.">
 <!ENTITY ftp.label "שרת מתווך FTP:">
 <!ENTITY ftp.accesskey "ש">

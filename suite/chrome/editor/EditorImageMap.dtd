@@ -52,7 +52,7 @@
 <!ENTITY mapeditcopy.accesskey "ה">
 <!ENTITY pasteCmd.label "הדבק">
 <!ENTITY mapeditpaste.accesskey "ד">
-<!ENTITY selectallCmd.label "בחר הכל">
+<!ENTITY selectallCmd.label "בחר הכול">
 <!ENTITY mapselectall.accesskey "ב">
 <!ENTITY propsCmd.label "מאפייני נקודות חמות">
 <!ENTITY mapeditprops.accesskey "א">

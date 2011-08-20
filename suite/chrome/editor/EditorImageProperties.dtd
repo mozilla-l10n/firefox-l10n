@@ -92,6 +92,6 @@
 <!ENTITY editImageButton.tooltip "ערוך קובץ תמונה בתוכנה אחרת">
 <!ENTITY imageInputTab.label "טופס">
 <!ENTITY imageLocationTab.label "מיקום">
-<!ENTITY imageDimensionsTab.label "מימדים">
+<!ENTITY imageDimensionsTab.label "ממדים">
 <!ENTITY imageAppearanceTab.label "הופעה">
 <!ENTITY imageLinkTab.label "קישור">

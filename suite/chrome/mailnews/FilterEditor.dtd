@@ -32,7 +32,7 @@
 <!ENTITY copyMessage.label "העתק הודעה אל">
 <!ENTITY forwardTo.label "העבר הודעה אל">
 <!ENTITY replyWithTemplate.label "השב עם תבנית">
-<!ENTITY markMessageRead.label "סמן כנקראה">
+<!ENTITY markMessageRead.label "סמן כנקראת">
 <!ENTITY markMessageStarred.label "סמן כמסומנת בדגל">
 <!ENTITY labelMessage.label "הוסף להודעה תווית">
 <!ENTITY setPriority.label "שנה עדיפות ל...">
