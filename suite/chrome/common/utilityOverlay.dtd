@@ -18,6 +18,13 @@
 <!ENTITY newNavigatorCmd.label            "Janela do Navegador">
 <!ENTITY newNavigatorCmd.key              "N">
 <!ENTITY newNavigatorCmd.accesskey        "N">
+<!ENTITY printSetupCmd.label "Configurar página…">
+<!ENTITY printSetupCmd.accesskey "u">
+<!ENTITY printPreviewCmd.label "Pré-visualizar impressão">
+<!ENTITY printPreviewCmd.accesskey "v">
+<!ENTITY printCmd.label "Imprimir…">
+<!ENTITY printCmd.accesskey "p">
+<!ENTITY printCmd.key "P">
 
 <!ENTITY editMenu.label "Editar">
 <!ENTITY editMenu.accesskey "e">
