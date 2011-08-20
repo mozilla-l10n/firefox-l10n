@@ -13,10 +13,11 @@
 <!-- Manage Account -->
 <!ENTITY manageAccount.label          "Διαχείριση λογαριασμού">
 <!ENTITY manageAccount.accesskey      "χ">
-<!ENTITY changePassword.label         "Αλλαγή κωδικού">
 
-<!ENTITY resetSync.label              "Εκκαθάριση συγχρονισμού">
 
+<!ENTITY changePassword2.label         "Αλλαγή κωδικού…">
+<!ENTITY resetSync2.label              "Επαναφορά Sync…">
+<!ENTITY unlinkDevice.label           "Αποσύνδεση αυτής της συσκευής">
 
 <!-- Sync Settings -->
 <!ENTITY syncComputerName.label       "Όνομα υπολογιστή:">
@@ -45,7 +46,7 @@
 
 <!ENTITY mySyncKey.label              "Το κλειδί συγχρονισμού μου">
 <!ENTITY syncMy.label               "Συγχρονισμός σε">
-<!ENTITY deactivateDevice.label       "Απενεργοποίηση αυτής της συσκευής">
+
 
 
 

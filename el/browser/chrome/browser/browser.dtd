@@ -117,7 +117,8 @@
 <!ENTITY inspectButton.label          "Έλεγχος">
 <!ENTITY inspectButton.accesskey      "λ">
 
-
+<!ENTITY backForwardButtonMenu.tooltip "Δεξί κλικ ή κλικ στο αναδιπλούμενο μενού για προβολή ιστορικού">
+<!ENTITY backForwardButtonMenuMac.tooltip "Κλικ στο αναδιπλούμενο μενού για προβολή ιστορικού">
 
 
 <!ENTITY goOfflineCmd.accesskey "χ">
@@ -139,7 +140,7 @@
 <!ENTITY webConsoleCmd.label          "Web Console">
 <!ENTITY webConsoleCmd.accesskey      "W">
 <!ENTITY webConsoleCmd.commandkey     "k">
-
+<!ENTITY searchFocus.commandkey2      "e">
 
 
 

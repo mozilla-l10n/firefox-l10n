@@ -42,3 +42,6 @@
 <!ENTITY manageAddonsDescWin.label     "Αλλαγή επιλογών για τα πρόσθετα σας">
 <!ENTITY manageAddonsDescUnix2.label   "Αλλαγή προτιμήσεων για τα πρόσθετα σας">
 
+<!ENTITY restoreOnDemand.label     "Να μην φορτώνονται καρτέλες μέχρι να επιλεχθεί">
+<!ENTITY restoreOnDemand.accesskey "μ">
+

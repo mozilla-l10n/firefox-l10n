@@ -41,4 +41,5 @@ variant of aboutSupport.show.label.  This allows us to use the preferred
 
 <!ENTITY aboutSupport.graphicsTitle "Γραφικά">
 
+<!ENTITY aboutSupport.appBasicsCrashIDs "Αναφορές καταρρεύσεων">
 
