@@ -249,6 +249,8 @@
 <!ENTITY bodySanitized.accesskey "S">
 <!ENTITY bodyAsPlaintext.label "Sem formatação">
 <!ENTITY bodyAsPlaintext.accesskey "f">
+<!ENTITY bodyAllParts.label "Todas as partes do corpo">
+<!ENTITY bodyAllParts.accesskey "a">
 
 <!ENTITY bodyMenuFeed.label "Corpo da mensagem de fonte como">
 <!ENTITY bodyMenuFeed.accesskey "n">
