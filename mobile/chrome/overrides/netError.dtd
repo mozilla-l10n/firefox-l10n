@@ -7,21 +7,18 @@
 <!-- Specific error messages -->
 
 <!ENTITY connectionFailure.title "Impossível ligar">
-<!ENTITY connectionFailure.longDesc "&sharedLongDesc;">
+<!ENTITY connectionFailure.longDesc "&sharedLongDesc2;">
 
 <!ENTITY deniedPortAccess.title "Este endereço é restrito">
 <!ENTITY deniedPortAccess.longDesc "">
 
 <!ENTITY dnsNotFound.title "Servidor não encontrado">
-<!ENTITY dnsNotFound.longDesc "
+<!ENTITY dnsNotFound.longDesc2 "
 <ul>
   <li>Verifique se o endereço não tem erros tipo
       <strong>ww</strong>.exemplo.com em vez de
     <strong>www</strong>.exemplo.com</li>
-  <li>Se não conseguir carregar nenhuma página, verifique a ligação de rede do
-    seu computador.</li>
-  <li>Se o seu computador ou rede estiver protegido por uma firewall ou proxy, verifique
-    se o &brandShortName; tem permissão para aceder à Web.</li>
+  <li>Se não conseguir carregar nenhuma página, verifique os dados do dispositivo ou a ligação Wi-Fi.</li>
 </ul>
 ">
 
@@ -50,7 +47,7 @@
 ">
 
 <!ENTITY netInterrupt.title "A ligação foi interrompida">
-<!ENTITY netInterrupt.longDesc "&sharedLongDesc;">
+<!ENTITY netInterrupt.longDesc "&sharedLongDesc2;">
 
 <!ENTITY netOffline.title "Modo desligado">
 <!ENTITY netOffline.longDesc2 "
@@ -74,10 +71,10 @@
 ">
 
 <!ENTITY netReset.title "A ligação foi reiniciada">
-<!ENTITY netReset.longDesc "&sharedLongDesc;">
+<!ENTITY netReset.longDesc "&sharedLongDesc2;">
 
 <!ENTITY netTimeout.title "A ligação expirou">
-<!ENTITY netTimeout.longDesc "&sharedLongDesc;">
+<!ENTITY netTimeout.longDesc "&sharedLongDesc2;">
 
 <!ENTITY protocolNotFound.title "O endereço não foi compreendido">
 <!ENTITY protocolNotFound.longDesc "
@@ -96,12 +93,10 @@
 ">
 
 <!ENTITY proxyResolveFailure.title "Não é possível encontrar o servidor proxy">
-<!ENTITY proxyResolveFailure.longDesc "
+<!ENTITY proxyResolveFailure.longDesc2 "
 <ul>
   <li>Verifique as definições de proxy para confirmar que estão correctas.</li>
-  <li>Verifique se o seu computador tem uma ligação de rede funcional.</li>
-  <li>Se o seu computador ou rede estiver protegido por uma firewall ou proxy, verifique
-    se o &brandShortName; tem permissão para aceder à Web.</li>
+  <li>Verifique se o seu computador tem uma ligação de rede de dados ou Wi-Fi funcional.</li>
 </ul>
 ">
 
@@ -140,27 +135,11 @@ ser temporário, voltando a tentar mais tarde.</li>
 </ul>
 ">
 
-<!ENTITY sharedLongDesc "
+<!ENTITY sharedLongDesc2 "
 <ul>
-  <li>O sítio pode estar temporariamente indisponível ou muito ocupado. Volte a tentar dentro de alguns
-    momentos.</li>
-  <li>If you are unable to load any pages, check your computer's network
-    connection.</li>
-  <li>Se o seu computador ou rede estiver protegido por uma firewall ou proxy, verifique
-    se o &brandShortName; tem permissão para aceder à Web.</li>
+  <li>O sítio pode estar temporariamente indisponível ou muito ocupado. Volte a tentar dentro de alguns momentos.</li>
+  <li>Se não conseguir carregar nenhuma página, verifique os dados do dispositivo ou a ligação Wi-Fi.</li>
 </ul>
-">
-
-<!ENTITY malwareBlocked.title "Suspeito de ser um Sítio de ataque!">
-<!ENTITY malwareBlocked.longDesc "
-<p>Sítios de ataque tentam instalar programas que roubam informação pessoal, usam o seu computador para atacar outros, ou danificam o seu sistema.</p>
-<p>Donos de sítios web que pensam que o seu sítio web foi reportado como um sítio de ataque por erro podem <a href='http://www.stopbadware.org/home/reviewinfo' >pedir uma revisão</a>.</p>
-">
-
-<!ENTITY phishingBlocked.title "Suspeito de ser uma Fraude Web!">
-<!ENTITY phishingBlocked.longDesc "
-<p>Introduzir informação pessoal nesta página pode resultar em roubo de identidade ou outro tipo fraude.</p>
-<p>Estes tipos de fraudes web são utilizadas en engodos conhecidos como ataques de phishing, nos quais páginas web e correio electrónico fraudulentos tentam fazer-se passar por sítios em que confia.</p>
 ">
 
 <!ENTITY cspFrameAncestorBlocked.title "Bloqueado pela política de segurança de conteúdos">
@@ -173,7 +152,7 @@ ser temporário, voltando a tentar mais tarde.</li>
 <!ENTITY securityOverride.getMeOutOfHereButton "Tirem-me daqui!">
 <!ENTITY securityOverride.exceptionButtonLabel "Adicionar excepção…">
 
-<!-- LOCALIZATION NOTE (securityOverride.warningText) - Do not translate the
+<!-- LOCALIZATION NOTE (securityOverride.warningContent) - Do not translate the
 contents of the <xul:button> tags.  The only language content is the label= field,
 which uses strings already defined above. The button is included here (instead of
 netError.xhtml) because it exposes functionality specific to firefox. -->
