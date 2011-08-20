@@ -68,7 +68,6 @@
 <!ENTITY selectAddressCmd.accesskey "E">
 
 <!ENTITY checkSpellingCmd2.label "Verificar ortografia...">
-<!ENTITY checkSpellingCmd2.key "K">
 <!ENTITY checkSpellingCmd2.accesskey "o">
 <!ENTITY enableInlineSpellChecker.label "Verificar ortografia ao escrever">
 <!ENTITY enableInlineSpellChecker.accesskey "e">
