@@ -14,7 +14,6 @@
 <!ENTITY newMessage.label "Mensagem">  
 <!ENTITY newMessage.accesskey "M">  
 <!ENTITY saveCmd.label "Guardar">
-<!ENTITY saveCmd.key "S">
 <!ENTITY saveCmd.accesskey "G">
 <!ENTITY saveAsCmd.label "Guardar como">
 <!ENTITY saveAsCmd.accesskey "u">
@@ -39,11 +38,6 @@
 <!ENTITY sendLaterCmd.label "Enviar depois">
 <!ENTITY sendLaterCmd.keycode "VK_RETURN">
 <!ENTITY sendLaterCmd.accesskey "d">
-<!ENTITY printSetupCmd.label "Configurar página...">
-<!ENTITY printSetupCmd.accesskey "C">
-<!ENTITY printCmd.label "Imprimir...">
-<!ENTITY printCmd.key "P">
-<!ENTITY printCmd.accesskey "I">
 
 <!-- Edit menu items -->
 <!ENTITY editRewrapCmd.label "Rewrap">
