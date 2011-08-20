@@ -108,6 +108,8 @@
 <!ENTITY undoDefaultCmd.accesskey "О">
 <!ENTITY redoDefaultCmd.label "Повторить">
 <!ENTITY redoDefaultCmd.accesskey "П">
+<!ENTITY menubarCmd.label "Панель меню">
+<!ENTITY menubarCmd.accesskey "е">
 <!ENTITY showMessengerToolbarCmd.label "Панель инструментов почты">
 <!ENTITY showMessengerToolbarCmd.accesskey "П">
 <!ENTITY customizeToolbar.label "Настроить…">
