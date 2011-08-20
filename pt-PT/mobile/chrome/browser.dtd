@@ -7,12 +7,13 @@
 <!ENTITY go.label              "Ir">
 <!ENTITY star.label            "Estrela">
 
+<!ENTITY showTabs.label        "Mostrar separadores">
 <!ENTITY newtab.label          "Novo Separador">
 <!ENTITY closetab.label        "Fechar separador">
 
 <!ENTITY cut.label             "Cortar">
 <!ENTITY copy.label            "Copiar">
-<!ENTITY copyAll.label         "Copy tudo">
+<!ENTITY copyAll.label         "Copiar tudo">
 <!ENTITY copylink.label        "Copiar localização da ligação">
 <!ENTITY paste.label           "Colar">
 <!ENTITY delete.label          "Eliminar">
@@ -67,6 +68,7 @@
 <!ENTITY bookmarkPopup.label       "Página adicionada aos marcadores">
 <!ENTITY bookmarkRemove.label      "Remover">
 <!ENTITY bookmarkEdit.label        "Editar">
+<!ENTITY bookmarkShortcut.label    "Adicionar ao ecrã inicial">
 
 <!ENTITY identity.unverifiedsite2 "Este sítio web não fornece informação da identidade.">
 <!ENTITY identity.connectedTo2 "Está ligado a">
@@ -92,6 +94,7 @@
 <!ENTITY contextOpenInNewTab.label    "Abrir ligação em novo separador">
 <!ENTITY contextSaveLink.label        "Guardar ligação">
 <!ENTITY contextSaveImage.label       "Guardar imagem">
+<!ENTITY contextCopyLink.label        "Copiar ligação">
 <!ENTITY contextShareLink.label       "Partilhar ligação">
 <!ENTITY contextShareImage.label      "Partilhar imagem">
 <!ENTITY contextBookmarkLink.label    "Adicionar ligação aos marcadores">
@@ -102,6 +105,7 @@
 <!ENTITY contextFullScreen.label      "Ecrã inteiro">
 <!ENTITY contextEditBookmark.label    "Editar">
 <!ENTITY contextRemoveBookmark.label  "Remover">
+<!ENTITY contextShortcutBookmark.label "Adicionar ao ecrã inicial">
 
 <!ENTITY pageactions.saveas.pdf      "Guardar como PDF">
 <!ENTITY pageactions.share.page      "Partilhar página">
@@ -111,5 +115,6 @@
 <!ENTITY pageactions.findInPage      "Procurar na página">
 <!ENTITY pageactions.search.addNew   "Adicionar motor de pesquisa">
 <!ENTITY pageactions.charEncoding    "Codificação de Caracteres">
+<!ENTITY pageactions.webapps.install "Instalar como App">
 
 <!ENTITY appMenu.siteOptions         "Opções do sítio">
