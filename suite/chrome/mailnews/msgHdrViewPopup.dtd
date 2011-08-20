@@ -47,5 +47,8 @@
 <!ENTITY copyLinkCmd.label                 "Copiar localização da ligação">
 <!ENTITY copyLinkCmd.accesskey             "C">
 <!ENTITY CopyMessageId.label               "Copiar o ID da Mensagem">
+<!ENTITY CopyMessageId.accesskey           "C">
 <!ENTITY OpenMessageForMsgId.label         "Abrir Mensagem para o ID">
+<!ENTITY OpenMessageForMsgId.accesskey     "o">
 <!ENTITY OpenBrowserWithMsgId.label        "Abrir o Navegador com o ID da Mensagem">
+<!ENTITY OpenBrowserWithMsgId.accesskey    "b">
