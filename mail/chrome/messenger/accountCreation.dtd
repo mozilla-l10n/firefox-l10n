@@ -10,7 +10,7 @@
 <!ENTITY password.accesskey              "ס">
 <!ENTITY password.placeholder            "ססמה">
 <!ENTITY password.text                   "רשות, ישמש לאימות שם המשתמש בלבד">
-<!ENTITY rememberPassword.label          "זכור סיסמה">
+<!ENTITY rememberPassword.label          "זכור ססמה">
 <!ENTITY rememberPassword.accesskey      "ז">
 
 <!ENTITY imapLong.label                  "IMAP (תיקיות מרוחקות)">
@@ -77,6 +77,6 @@
 <!ENTITY insecureServer.tooltip.title    "זהירות! זהו שרת לא מאובטח.">
 <!ENTITY insecureServer.tooltip.details  "לחץ על העיגול לפרטים נוספים.">
 
-<!ENTITY insecureUnencrypted.description "הדואר האלקטרוני וההזדהות שלך נשלחים באופן לא מוצפן, כך שהסיסמה שלך (וגם ההודעות) יכולות להיקרא בקלות על־ידי אנשים אחרים. brandShortName; יאפשר לך לקבל את הדואר שלך, אבל רצוי ליצור קשר עם ספק הדוא״ל שלך כדי שיגדיר חיבור מאובטח לשרת.">
+<!ENTITY insecureUnencrypted.description "הדואר האלקטרוני וההזדהות שלך נשלחים באופן לא מוצפן, כך שהססמה שלך (וגם ההודעות) יכולות להיקרא בקלות על־ידי אנשים אחרים. brandShortName; יאפשר לך לקבל את הדואר שלך, אבל רצוי ליצור קשר עם ספק הדוא״ל שלך כדי שיגדיר חיבור מאובטח לשרת.">
 <!ENTITY insecureSelfSigned.description  "השרת משתמש באישור שאינו נסמך, ואיננו יכולים להיות בטוחים שאף־אחד לא מיירט את התעבורה בין &brandShortName; והשרת שלך. &brandShortName; יאפשר לך לקבל את הדואר שלך, אבל מומלץ שתפנה לספק הדואל שלך ותבקש ממנו להגדיר את השרת עם אישור אבטחה נסמך.">
 <!ENTITY secureServer.description        "איחולים! זהו שרת מאובטח.">

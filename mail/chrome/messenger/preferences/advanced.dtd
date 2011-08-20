@@ -28,7 +28,7 @@
 <!ENTITY showCondensedAddresses.label  "הצג רק שמות תצוגה לאנשים שבפנקס הכתובות שלי">
 <!ENTITY showCondensedAddresses.accesskey "צ">
 
-<!ENTITY autoMarkAsRead.label          "סמן אוטומטית הודעות כנקראו">
+<!ENTITY autoMarkAsRead.label          "סמן אוטומטית הודעות כנקראות">
 <!ENTITY autoMarkAsRead.accesskey      "א">
 <!ENTITY markAsReadNoDelay.label       "מיד עם הצגתה">
 <!ENTITY markAsReadNoDelay.accesskey   "מ">

@@ -92,7 +92,7 @@
 <!ENTITY  event.menu.edit.copy.accesskey                  "ע">
 <!ENTITY  event.menu.edit.paste.label                     "הדבק">
 <!ENTITY  event.menu.edit.paste.accesskey                 "ד">
-<!ENTITY  event.menu.edit.select.all.label                "בחר הכל">
+<!ENTITY  event.menu.edit.select.all.label                "בחר הכול">
 <!ENTITY  event.menu.edit.select.all.accesskey            "ב">
 
 <!ENTITY  event.menu.view.label                           "תצוגה">
@@ -204,7 +204,7 @@
 <!ENTITY event.attachments.popup.remove.accesskey         "ס" >
 <!ENTITY event.attachments.popup.open.label               "פתח" >
 <!ENTITY event.attachments.popup.open.accesskey           "פ" >
-<!ENTITY event.attachments.popup.removeAll.label          "הסר הכל" >
+<!ENTITY event.attachments.popup.removeAll.label          "הסר הכול" >
 <!ENTITY event.attachments.popup.removeAll.accesskey      "כ" >
 <!ENTITY event.attachments.popup.attachPage.label         "צרף דף…" >
 <!ENTITY event.attachments.popup.attachPage.accesskey     "ד" >

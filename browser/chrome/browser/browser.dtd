@@ -240,7 +240,7 @@ can reach it easily. -->
 <!ENTITY deleteCmd.label          "מחק">  
 <!ENTITY deleteCmd.key            "D">  
 <!ENTITY deleteCmd.accesskey        "ח"> 
-<!ENTITY selectAllCmd.label         "בחר הכל">  
+<!ENTITY selectAllCmd.label         "בחר הכול">  
 <!ENTITY selectAllCmd.key         "A">  
 <!ENTITY selectAllCmd.accesskey       "ב"> 
 <!ENTITY preferencesCmd2.label       "אפשרויות">

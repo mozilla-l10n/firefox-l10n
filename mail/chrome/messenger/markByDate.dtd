@@ -35,8 +35,8 @@
    -
    - ***** END LICENSE BLOCK ***** -->
 
-<!ENTITY messageMarkByDate.label "סמן הודעות כנקראו לפי תאריך">
-<!ENTITY markByDateLower.label "סמן הודעות כנקראו מתאריך:">
+<!ENTITY messageMarkByDate.label "סמן הודעות כנקראות לפי תאריך">
+<!ENTITY markByDateLower.label "סמן הודעות כנקראות מתאריך:">
 <!ENTITY markByDateLower.accesskey "F">
 <!ENTITY markByDateUpper.label "עד תאריך:">
 <!ENTITY markByDateUpper.accesskey "T">

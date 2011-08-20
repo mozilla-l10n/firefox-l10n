@@ -60,7 +60,7 @@
 <!ENTITY copyCmd.accesskey "ע">
 <!ENTITY pasteCmd.label "הדבק">
 <!ENTITY pasteCmd.accesskey "ד">
-<!ENTITY selectallCmd.label "בחר הכל">
+<!ENTITY selectallCmd.label "בחר הכול">
 <!ENTITY selectallCmd.accesskey "ה">
 <!ENTITY propsCmd.label "מאפייני נקודות חמות">
 <!ENTITY propsCmd.accesskey "מ">

@@ -64,9 +64,9 @@
 
 <!ENTITY channel.change             "שינוי">
 
-<!ENTITY channel.release.description       "להנות מגרסה סופית ובדוקה שבשימוש בידי מאות מליוני משתמשים מסביב לעולם. הישארו בשליטה על החוויה המקוונת שלכם עם מהירות שיא, התאמה אישית פשוטה וטכנולוגיות הרשת החדשות ביותר.">
+<!ENTITY channel.release.description       "ליהנות מגרסה סופית ובדוקה שבשימוש בידי מאות מיליוני משתמשים מסביב לעולם. הישארו בשליטה על החוויה המקוונת שלכם עם מהירות שיא, התאמה אישית פשוטה וטכנולוגיות הרשת החדשות ביותר.">
 <!ENTITY channel.beta.description          "חוו תכונות מתקדמות עם יציבות רבה יותר. ספקו משוב כדי לשפר ולהבריק את מה שיהיה בגרסה הסופית.">
-<!ENTITY channel.aurora.description        "להנות מהמיזמים החדשים ביותר בסביבה לא יציבה שאינה מיועדת לבעלי לב חלש. ספקו משוב על תכונות וביצועים כדי לעזור לקבוע מה יכנס לגרסה הסופית.">
+<!ENTITY channel.aurora.description        "ליהנות מהמיזמים החדשים ביותר בסביבה לא יציבה שאינה מיועדת לבעלי לב חלש. ספקו משוב על תכונות וביצועים כדי לעזור לקבוע מה יכנס לגרסה הסופית.">
 
 <!-- LOCALIZATION NOTE (channel.selector.start,channel.selector.end): channel.selector.start and
      channel.selector.end create one sentence, with a channel selection menulist instered in between.

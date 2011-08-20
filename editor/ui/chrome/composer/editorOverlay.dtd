@@ -154,7 +154,7 @@
 <!ENTITY deleteCmd.accesskey "d">
 <!ENTITY clearCmd.label "ניקוי">
 <!ENTITY clearCmd.accesskey "l">
-<!ENTITY selectAllCmd.label "בחר הכל">
+<!ENTITY selectAllCmd.label "בחר הכול">
 <!ENTITY selectAllCmd.accesskey "a">
 
 <!-- Font Face SubMenu -->

@@ -13,7 +13,7 @@
 <!ENTITY clearTimeDuration.last2Hours     "שעתיים אחרונות">
 <!ENTITY clearTimeDuration.last4Hours     "4 שעות אחרונות">
 <!ENTITY clearTimeDuration.today          "היום">
-<!ENTITY clearTimeDuration.everything     "הכל">
+<!ENTITY clearTimeDuration.everything     "הכול">
 <!-- Localization note (clearTimeDuration.suffix) - trailing entity for languages
 that require it.  -->
 <!ENTITY clearTimeDuration.suffix         "">
@@ -38,7 +38,7 @@ that require it.  -->
 <!ENTITY itemBrowsingHistory.accesskey     "ה">
 <!ENTITY itemFormSearchHistory.label       "היסטורית טפסים וחיפוש">
 <!ENTITY itemFormSearchHistory.accesskey   "ט">
-<!ENTITY itemPasswords.label               "סיסמאות שמורות">
+<!ENTITY itemPasswords.label               "ססמאות שמורות">
 <!ENTITY itemPasswords.accesskey           "ס">
 <!ENTITY itemCookies.label                 "עוגיות">
 <!ENTITY itemCookies.accesskey             "ע">

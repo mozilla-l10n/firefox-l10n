@@ -61,7 +61,7 @@
 <!ENTITY deleteListCmd.label                            "מחק רשימה">
 <!ENTITY deleteListsCmd.label                           "מחק רשימות">
 <!ENTITY deleteItemsCmd.label                           "מחק פרטים">
-<!ENTITY selectAllCmd.label                             "בחר הכל">
+<!ENTITY selectAllCmd.label                             "בחר הכול">
 <!ENTITY selectAllCmd.key                               "A">
 <!ENTITY searchAddressesCmd.key                         "f">
 <!ENTITY selectAllCmd.accesskey                         "a">
@@ -124,7 +124,7 @@
 <!ENTITY editButton2.accesskey                          "א">
 <!ENTITY newmsgButton.label                             "כתיבה">
 <!ENTITY newmsgButton.accesskey                         "כ">
-<!ENTITY newIM.label                                    "הודעה מיידית">
+<!ENTITY newIM.label                                    "הודעה מידית">
 <!ENTITY newIM.accesskey                                "מ">
 <!ENTITY deleteButton2.label                            "מחיקה">
 <!ENTITY deleteButton2.accesskey                        "מ">
@@ -134,7 +134,7 @@
 <!ENTITY newlistButton.tooltip                          "צור רשימה חדשה">
 <!ENTITY editButton2.tooltip                            "עריכת הפריט הנבחר">
 <!ENTITY newmsgButton.tooltip                           "שלח הודעת דואר">
-<!ENTITY newIM.tooltip                                  "שלח הודעה מיידית או צ׳אט">
+<!ENTITY newIM.tooltip                                  "שלח הודעה מידית או צ׳אט">
 <!ENTITY deleteButton2.tooltip                           "מחיקת פריטים נבחרים">
 
 <!-- Dir Tree header -->
@@ -202,5 +202,5 @@
 <!ENTITY windowMenu.label "חלון">
 <!ENTITY minimizeWindow.label "מזער חלון">
 <!ENTITY minimizeWindow.key "m">
-<!ENTITY bringAllToFront.label "הבא הכל לקידמה">
+<!ENTITY bringAllToFront.label "הבא הכול לקידמה">
 <!ENTITY zoomWindow.label "הגדל חלון">

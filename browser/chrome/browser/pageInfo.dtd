@@ -44,7 +44,7 @@
 <!ENTITY  copy.label            "העתק">
 <!ENTITY  copy.accesskey        "ה">
 <!ENTITY  selectall.key         "A">
-<!ENTITY  selectall.label       "בחר הכל">
+<!ENTITY  selectall.label       "בחר הכול">
 <!ENTITY  selectall.accesskey   "ב">
 <!ENTITY  closeWindow.key       "w">
 
@@ -121,8 +121,8 @@
 <!ENTITY  securityView.privacy.cookies                  "האם אתר זה שומר מידע (עוגיות) על המחשב שלי?">
 <!ENTITY  securityView.privacy.viewCookies              "הצג עוגיות">
 <!ENTITY  securityView.privacy.viewCookies.accessKey    "ע">
-<!ENTITY  securityView.privacy.passwords                "האם שמרתי סיסמאות עבור אתר זה?">
-<!ENTITY  securityView.privacy.viewPasswords            "הצג סיסמאות שמורות">
+<!ENTITY  securityView.privacy.passwords                "האם שמרתי ססמאות עבור אתר זה?">
+<!ENTITY  securityView.privacy.viewPasswords            "הצג ססמאות שמורות">
 <!ENTITY  securityView.privacy.viewPasswords.accessKey  "ס">
 
 <!ENTITY  securityView.technical.header                 "פירוט טכני">

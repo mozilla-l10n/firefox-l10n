@@ -21,7 +21,7 @@
 <!ENTITY retentionKeepMsg.accesskey "ל">
 <!ENTITY retentionKeepAll.label "אל תמחק שום הודעה">
 <!ENTITY retentionKeepAll.accesskey "ש">
-<!ENTITY retentionKeepRecent.label "מחק הכל מלבד">
+<!ENTITY retentionKeepRecent.label "מחק הכול מלבד">
 <!ENTITY retentionKeepRecent.accesskey "מ">
 <!-- LOCALIZATION NOTE: Unhide with .keepUnreadOnly { display: -moz-box; } -->
 <!ENTITY retentionKeepUnreadHidden.label "מחק תמיד הודעות שנקראו (עוקף הגדרות גיל)">
