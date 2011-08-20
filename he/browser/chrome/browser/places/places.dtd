@@ -55,7 +55,7 @@
 <!ENTITY cmd.open_window.accesskey       "ח">
 <!ENTITY cmd.open_tab.label              "פתח בלשונית חדשה">
 <!ENTITY cmd.open_tab.accesskey          "ל">
-<!ENTITY cmd.open_all_in_tabs.label      "פתח הכל בלשוניות">
+<!ENTITY cmd.open_all_in_tabs.label      "פתח הכול בלשוניות">
 <!ENTITY cmd.open_all_in_tabs.accesskey  "פ">
 
 <!ENTITY cmd.properties.label      "מאפיינים">

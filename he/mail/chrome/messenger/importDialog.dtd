@@ -45,7 +45,7 @@ LOCALIZATION NOTE : Do not translate any of the occurrences of the word
 -->
 
 <!ENTITY importDialog.windowTitle "יבוא">
-<!ENTITY importAll.label          "יבא הכל">
+<!ENTITY importAll.label          "יבא הכול">
 <!ENTITY importAll.accesskey      "כ">
 <!ENTITY importMail.label         "דואר">
 <!ENTITY importMail.accesskey     "ד">

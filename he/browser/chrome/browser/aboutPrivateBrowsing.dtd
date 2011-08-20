@@ -4,7 +4,7 @@
 <!ENTITY privatebrowsingpage.issueDesc                 "&brandShortName; לא יזכור היסטוריה כלשהי בהפעלה זו.">
 <!ENTITY privatebrowsingpage.issueDesc.normal          "&brandShortName; לא נמצא כעת במצב גלישה פרטית.">
 
-<!ENTITY privatebrowsingpage.description               "בהפעלה במצב גלישה פרטית, &brandShortName; לא ישמור את היסטורית דפדפן כלשהי, היסטורית חיפוש, היסטורית הורדות, היסטורית טפסים, עוגיות, או קבצי אינטרנט זמניים. למרות זאת, קבצים שתוריד וסימניות שתיצור ישמרו.">
+<!ENTITY privatebrowsingpage.description               "בהפעלה במצב גלישה פרטית, &brandShortName; לא ישמור את היסטורית דפדפן כלשהי, היסטורית חיפוש, היסטורית הורדות, היסטורית טפסים, עוגיות, או קובצי אינטרנט זמניים. למרות זאת, קבצים שתוריד וסימניות שתיצור ישמרו.">
 
 <!-- LOCALIZATION NOTE (privatebrowsingpage.clearRecentHistoryBefore): include a trailing space as needed -->
 <!-- LOCALIZATION NOTE (privatebrowsingpage.clearRecentHistoryAfter): include a starting space as needed -->

@@ -17,13 +17,13 @@
 
 <!ENTITY importSource.title             "יבא הגדרות ותיקיות דואר:">
 <!ENTITY importItems.title              "פריטים ליבוא">
-<!ENTITY importItems.label              "בחר אלו פריטים ליבא:">
+<!ENTITY importItems.label              "בחר אילו פריטים לייבא:">
 
 <!ENTITY migrating.title                "מייבא…">
 <!ENTITY migrating.label                "הפריטים הבאים מיובאים כעת…">
 
 <!ENTITY selectProfile.title            "בחר פרופיל">
-<!ENTITY selectProfile.label            "ניתן ליבא מהפרופילים הבאים:">
+<!ENTITY selectProfile.label            "ניתן לייבא מהפרופילים הבאים:">
 
 <!ENTITY done.title                     "היבוא הושלם">
 <!ENTITY done.label                     "הפריטים הבאים יובאו בהצלחה:">

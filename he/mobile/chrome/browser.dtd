@@ -14,7 +14,7 @@
 <!ENTITY copylink.label        "העתק מיקום קישור">
 <!ENTITY paste.label           "הדבק">
 <!ENTITY delete.label          "מחק">
-<!ENTITY selectAll.label       "בחר הכל">
+<!ENTITY selectAll.label       "בחר הכול">
 <!ENTITY noSuggestions.label   "(אין המלצות)">
 <!ENTITY addToDictionary.label "הוסף למילון">
 
@@ -82,7 +82,7 @@
 <!ENTITY identity.runBy2 "אתר זה מופעל על־ידי">
 
 <!ENTITY consoleHeader.label       "מסוף שגיאות">
-<!ENTITY consoleAll.label          "הכל">
+<!ENTITY consoleAll.label          "הכול">
 <!ENTITY consoleErrors.label       "שגיאות">
 <!ENTITY consoleWarnings.label     "הזהרות">
 <!ENTITY consoleMessages.label     "הודעות">

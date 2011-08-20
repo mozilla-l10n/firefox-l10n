@@ -6,7 +6,7 @@
 <!ENTITY pasteCmd.accesskey "ה">
 <!ENTITY undoCmd.label "בטל">
 <!ENTITY undoCmd.accesskey "ט">
-<!ENTITY selectAllCmd.label "בחר הכל">
+<!ENTITY selectAllCmd.label "בחר הכול">
 <!ENTITY selectAllCmd.accesskey "ב">
 <!ENTITY deleteCmd.label "מחק">
 <!ENTITY deleteCmd.accesskey "ח">

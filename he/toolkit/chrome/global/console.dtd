@@ -41,7 +41,7 @@
 <!ENTITY errLine.label   "שורה:">
 <!ENTITY errColumn.label "עמודה:">
 
-<!ENTITY all.label          "הכל">
+<!ENTITY all.label          "הכול">
 <!ENTITY all.accesskey      "ה">
 <!ENTITY errors.label       "שגיאות">
 <!ENTITY errors.accesskey   "ש">

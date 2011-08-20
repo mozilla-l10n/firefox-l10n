@@ -25,7 +25,7 @@
 <!ENTITY calendar.context.publish.accesskey "פ">
 <!ENTITY calendar.context.publish.label "פרסם את היומן כולו">
 <!ENTITY calendar.context.selectall.accesskey "ב">
-<!ENTITY calendar.context.selectall.label "בחר הכל">
+<!ENTITY calendar.context.selectall.label "בחר הכול">
 <!ENTITY calendar.displaytodos.checkbox.accesskey "ת">
 <!ENTITY calendar.displaytodos.checkbox.label "מטלות בתצוגה">
 
@@ -95,7 +95,7 @@
 <!ENTITY calendar.alarm.snoozefor.label             "תנומה למשך">
 <!ENTITY calendar.alarm.snoozeallfor.label          "תנומה לכולם למשך">
 <!ENTITY calendar.alarm.dismiss.label               "לשחרר">
-<!ENTITY calendar.alarm.dismissall.label            "לשחרר הכל">
+<!ENTITY calendar.alarm.dismissall.label            "לשחרר הכול">
 
 <!ENTITY calendar.alarm.snooze.5minutes.label       "5 דקות" >
 <!ENTITY calendar.alarm.snooze.10minutes.label      "10 דקות" >
@@ -202,7 +202,7 @@
 <!ENTITY calendar.task.complete.button.tooltip  "סמן שהמשימות שנבחרו הושלמו">
 
 <!ENTITY calendar.task.filter.all.accesskey         "כ">
-<!ENTITY calendar.task.filter.all.label             "הכל">
+<!ENTITY calendar.task.filter.all.label             "הכול">
 <!ENTITY calendar.task.filter.completed.accesskey   "ל">
 <!ENTITY calendar.task.filter.completed.label       "משימות שהושלמו">
 <!ENTITY calendar.task.filter.next7days.accesskey   "ש">

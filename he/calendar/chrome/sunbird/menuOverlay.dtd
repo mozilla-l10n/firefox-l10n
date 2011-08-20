@@ -99,7 +99,7 @@
 <!ENTITY calendar.paste.key                                "V">
 <!ENTITY calendar.paste.accesskey                          "ד">
 
-<!ENTITY calendar.selectall.label                          "בחר הכל">
+<!ENTITY calendar.selectall.label                          "בחר הכול">
 <!ENTITY calendar.selectall.key                            "A">
 <!ENTITY calendar.selectall.accesskey                      "ה">
 
@@ -169,7 +169,7 @@
 <!ENTITY minimizeWindow.label                              "מזער">
 <!ENTITY zoomWindow.label                                  "הגדל חלון">
 <!ENTITY minimizeWindow.key                                "מ">
-<!ENTITY bringAllToFront.label                             "העבר הכל לחזית">
+<!ENTITY bringAllToFront.label                             "העבר הכול לחזית">
 
 <!-- Mac OS X Application menu items -->
 <!ENTITY servicesMenuMac.label                             "שירותים">
@@ -179,4 +179,4 @@
 <!ENTITY hideOtherAppsCmdMac.label                         "הסתר אחרים">
 <!ENTITY hideOtherAppsCmdMac.commandkey                    "H">
 <!ENTITY hideOtherAppsCmdMac.modifiers                     "accel,alt">
-<!ENTITY showAllAppsCmdMac.label                           "הצג הכל">
+<!ENTITY showAllAppsCmdMac.label                           "הצג הכול">

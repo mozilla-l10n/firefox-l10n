@@ -12,7 +12,7 @@
 <!ENTITY forwardButton.tooltip          "התקדם דף אחד קדימה">
 <!ENTITY copyCmd.label                  "העתק">
 <!ENTITY copyCmd.accesskey              "ת">
-<!ENTITY selectAllCmd.label             "בחר הכל">
+<!ENTITY selectAllCmd.label             "בחר הכול">
 <!ENTITY selectAllCmd.accesskey         "ב">
 <!ENTITY goBackCmd.commandkey           "[">
 <!ENTITY goForwardCmd.commandkey        "]">

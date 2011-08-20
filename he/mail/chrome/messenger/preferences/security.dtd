@@ -5,7 +5,7 @@
 <!ENTITY itemCookies.label       "תוכן רשת">
 
 <!-- Junk Mail Controls -->
-<!ENTITY junkMail.intro "קבע את הגדרות ברירת המחדל שלך לדואר זבל. הגדרות דואר זבל יחודיות לכל חשבון ניתנות להגדרה בהגדרות החשבון.">
+<!ENTITY junkMail.intro "קבע את הגדרות ברירת המחדל שלך לדואר זבל. הגדרות דואר זבל ייחודיות לכל חשבון ניתנות להגדרה בהגדרות החשבון.">
 <!ENTITY manualMark.label "כאשר אני מסמן הודעות כזבל:">
 <!ENTITY manualMark.accesskey "ז">
 <!ENTITY manualMarkModeMove.label "העבר לתיקיית &quot;דואר זבל&quot; של החשבון">
@@ -29,10 +29,10 @@
 <!ENTITY useDownloadedList.accesskey "ה">
 
 <!-- Passwords -->
-<!ENTITY savedPasswords.intro           "&brandShortName; יכול לזכור מידע סיסמאות עבור כל החשבונות שלך כדי שלא תצטרך להכניס שוב את מידע ההתחברות.">
+<!ENTITY savedPasswords.intro           "&brandShortName; יכול לזכור מידע ססמאות עבור כל החשבונות שלך כדי שלא תצטרך להכניס שוב את מידע ההתחברות.">
 <!ENTITY useMasterPassword.label        "השתמש בססמה ראשית">
 <!ENTITY useMasterPassword.accesskey    "ר">
-<!ENTITY masterPassword.intro           "כאשר נקבעה, הסיסמה הראשית מגינה על כל סיסמאותיך - אולם תצטרך להקליד אותה פעם אחת בכל הפעלה.">
+<!ENTITY masterPassword.intro           "כאשר נקבעה, הססמה הראשית מגינה על כל ססמאותיך - אולם תצטרך להקליד אותה פעם אחת בכל הפעלה.">
 <!ENTITY changeMasterPassword.label     "שנה ססמה ראשית…">
 <!ENTITY changeMasterPassword.accesskey "ש">
 <!ENTITY savedPasswords.label           "ססמאות שמורות…">

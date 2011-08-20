@@ -35,4 +35,4 @@ variant of aboutSupport.show.label.  This allows us to use the preferred
 <!ENTITY aboutSupport.installationHistoryTitle "היסטוריית התקנות">
 <!ENTITY aboutSupport.updateHistoryTitle "היסטוריית עדכונים">
 
-<!ENTITY aboutSupport.copyToClipboard.label "העתק הכל ללוח">
+<!ENTITY aboutSupport.copyToClipboard.label "העתק הכול ללוח">

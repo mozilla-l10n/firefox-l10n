@@ -49,5 +49,5 @@
 <!--LOCALIZATION NOTE (headers.label): see note for download.label -->
 <!ENTITY headers.label      "כותרות">
 <!ENTITY headers.accesskey  "h">
-<!ENTITY mark.label         "סמן את הכותרות הנותרות כנקראו">
+<!ENTITY mark.label         "סמן את הכותרות הנותרות כנקראות">
 <!ENTITY mark.accesskey     "M">

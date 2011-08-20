@@ -55,7 +55,7 @@
 <!ENTITY inReplyToField2.label "תגובה של ">
 <!ENTITY originalWebsite2.label "אתר ">
 
-<!ENTITY editMessageDescription.label "זוהי הודעת טיוטא">
+<!ENTITY editMessageDescription.label "זוהי הודעת טיוטה">
 <!ENTITY editMessageButton.label "עריכה…">
 <!ENTITY hdrArchiveButton.label "העבר לארכיון">
 <!ENTITY hdrArchiveButton.tooltip "העברת הודעה זו לארכיון">
@@ -108,13 +108,13 @@
 <!ENTITY detachAttachmentCmd.accesskey    "נ">
 <!ENTITY deleteAttachmentCmd.label    "מחק">
 <!ENTITY deleteAttachmentCmd.accesskey    "l">
-<!ENTITY openAllAttachmentsCmd.label    "פתיחת הכל…">
+<!ENTITY openAllAttachmentsCmd.label    "פתיחת הכול…">
 <!ENTITY openAllAttachmentsCmd.accesskey    "O">
-<!ENTITY saveAllAttachmentsCmd.label    "שמור הכל…">
+<!ENTITY saveAllAttachmentsCmd.label    "שמור הכול…">
 <!ENTITY saveAllAttachmentsCmd.accesskey    "מ">
-<!ENTITY detachAllAttachmentsCmd.label    "נתק הכל…">
+<!ENTITY detachAllAttachmentsCmd.label    "נתק הכול…">
 <!ENTITY detachAllAttachmentsCmd.accesskey    "נ">
-<!ENTITY deleteAllAttachmentsCmd.label    "מחק הכל…">
+<!ENTITY deleteAllAttachmentsCmd.label    "מחק הכול…">
 <!ENTITY deleteAllAttachmentsCmd.accesskey    "ח">
 
 <!-- Attachment toolbar items -->
@@ -130,13 +130,13 @@
 <!ENTITY detachAttachmentMenuItem.accesskey    "נ">
 <!ENTITY deleteAttachmentMenuItem.label    "מחיקה">
 <!ENTITY deleteAttachmentMenuItem.accesskey    "מ">
-<!ENTITY openAllAttachmentsMenuItem.label    "פתיחת הכל…">
+<!ENTITY openAllAttachmentsMenuItem.label    "פתיחת הכול…">
 <!ENTITY openAllAttachmentsMenuItem.accesskey    "ת">
-<!ENTITY saveAllAttachmentsMenuItem.label    "שמירת הכל…">
+<!ENTITY saveAllAttachmentsMenuItem.label    "שמירת הכול…">
 <!ENTITY saveAllAttachmentsMenuItem.accesskey    "ר">
-<!ENTITY detachAllAttachmentsMenuItem.label    "ניתוק הכל…">
+<!ENTITY detachAllAttachmentsMenuItem.label    "ניתוק הכול…">
 <!ENTITY detachAllAttachmentsMenuItem.accesskey    "י">
-<!ENTITY deleteAllAttachmentsMenuItem.label    "מחיקת הכל…">
+<!ENTITY deleteAllAttachmentsMenuItem.label    "מחיקת הכול…">
 <!ENTITY deleteAllAttachmentsMenuItem.accesskey    "ח">
 
 <!ENTITY copyLinkCmd.label        "העתק מיקום קישור">

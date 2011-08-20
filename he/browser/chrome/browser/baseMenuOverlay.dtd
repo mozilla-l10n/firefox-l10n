@@ -1,6 +1,6 @@
 <!ENTITY minimizeWindow.key       "m">
 <!ENTITY minimizeWindow.label     "מזער חלון">
-<!ENTITY bringAllToFront.label    "הבא הכל לקידמה">
+<!ENTITY bringAllToFront.label    "הבא הכול לקדמה">
 <!ENTITY zoomWindow.label         "הגדל חלון">
 <!ENTITY windowMenu.label         "חלון">
 
@@ -35,4 +35,4 @@
 <!ENTITY hideOtherAppsCmdMac.label      "הסתר אחרים">
 <!ENTITY hideOtherAppsCmdMac.commandkey "H">
 
-<!ENTITY showAllAppsCmdMac.label        "הראה הכל">
+<!ENTITY showAllAppsCmdMac.label        "הראה הכול">

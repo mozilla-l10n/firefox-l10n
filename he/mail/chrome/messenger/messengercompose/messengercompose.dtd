@@ -72,7 +72,7 @@
 <!ENTITY editRewrapCmd.accesskey "w">
 <!ENTITY deleteCmd.label "מחק">
 <!ENTITY deleteCmd.accesskey "ח">
-<!ENTITY selectAllCmd.label "בחר הכל">
+<!ENTITY selectAllCmd.label "בחר הכול">
 <!ENTITY selectAllCmd.key "A">
 <!ENTITY selectAllCmd.accesskey "ב"> 
 <!ENTITY findCmd.label "מצא והחלף…">
@@ -175,7 +175,7 @@
 <!--  Mac OS X Window Menu -->
 <!ENTITY minimizeWindow.key "m">
 <!ENTITY minimizeWindow.label "מזער">
-<!ENTITY bringAllToFront.label "הבא הכל לקידמה">
+<!ENTITY bringAllToFront.label "הבא הכול לקדמה">
 <!ENTITY zoomWindow.label "הגדל חלון"> 
 <!ENTITY windowMenu.label "חלון">
 
@@ -261,7 +261,7 @@
 <!ENTITY removeAttachment.accesskey "מ">
 <!ENTITY renameAttachment.label "שנה שם…">
 <!ENTITY renameAttachment.accesskey "ש">
-<!ENTITY selectAll.label "בחר הכל">
+<!ENTITY selectAll.label "בחר הכול">
 <!ENTITY selectAll.accesskey "ב">
 <!ENTITY attachFile.label "צירוף קובץ או קבצים)…">
 <!ENTITY attachFile.accesskey "ק">

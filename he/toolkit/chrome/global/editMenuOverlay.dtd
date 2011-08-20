@@ -17,7 +17,7 @@
 <!ENTITY pasteCmd.accesskey        "ה">
 <!ENTITY deleteCmd.label           "מחק">
 <!ENTITY deleteCmd.accesskey       "מ">
-<!ENTITY selectAllCmd.label        "בחר הכל">
+<!ENTITY selectAllCmd.label        "בחר הכול">
 <!ENTITY selectAllCmd.key          "A">
 <!ENTITY selectAllCmd.accesskey    "ב">
 <!ENTITY findCmd.label             "חפש">

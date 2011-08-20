@@ -55,6 +55,6 @@
 <!ENTITY replaceButton.accesskey "ח">
 <!ENTITY replaceAndFindButton.label "החלף ומצא">
 <!ENTITY replaceAndFindButton.accesskey "מ">
-<!ENTITY replaceAllButton.label "החלף הכל">
+<!ENTITY replaceAllButton.label "החלף הכול">
 <!ENTITY replaceAllButton.accesskey "ה">
 <!ENTITY closeButton.label "סגירה">
