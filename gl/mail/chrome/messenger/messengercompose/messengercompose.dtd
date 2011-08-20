@@ -92,6 +92,8 @@
 <!ENTITY viewMenu.accesskey "V">
 <!ENTITY viewToolbarsMenuNew.label "Barras de ferramentas"> 
 <!ENTITY viewToolbarsMenuNew.accesskey "B"> 
+<!ENTITY menubarCmd.label "Barra de menú">
+<!ENTITY menubarCmd.accesskey "m">
 <!ENTITY showCompositionToolbarCmd.label "Barra de ferramentas do Composer">
 <!ENTITY showCompositionToolbarCmd.accesskey "C">
 <!ENTITY showFormattingBarCmd.label "Barra de formatado">
