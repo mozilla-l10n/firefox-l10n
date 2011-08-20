@@ -13,9 +13,10 @@
 <!ENTITY manageAccount.label          "Gerir conta">
 <!ENTITY manageAccount.accesskey      "A">
 <!ENTITY viewQuota.label              "Ver quota">
-<!ENTITY changePassword.label         "Alterar senha">
+<!ENTITY changePassword2.label         "Alterar senha">
 <!ENTITY mySyncKey.label              "Chave do meu Sync">
-<!ENTITY resetSync.label              "Reiniciar o Sync">
+<!ENTITY resetSync2.label              "Reiniciar o Sync">
+
 <!ENTITY addDevice.label              "Adicionar um dispositivo">
 
 <!ENTITY syncMy.label               "Sincronizar os meus">
@@ -33,7 +34,7 @@
 <!-- Device Settings -->
 <!ENTITY syncComputerName.label       "Nome do computador:">
 <!ENTITY syncComputerName.accesskey   "c">
-<!ENTITY deactivateDevice.label       "Desactivar este dispositivo">
+<!ENTITY unlinkDevice.label           "Desligar este dispositivo">
 
 <!-- Footer stuff -->
 <!ENTITY prefs.tosLink.label        "Termos do serviço">

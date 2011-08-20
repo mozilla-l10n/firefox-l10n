@@ -24,9 +24,9 @@ used as a metaphor for expressing the fact that these tabs are "pinned" to the
 left edge of the tabstrip. Really we just want the string to express the idea
 that this is a lightweight and reversible action that keeps your tab where you
 can reach it easily. -->
-<!ENTITY  pinAppTab.label                    "Pin como separador de aplicação">
+<!ENTITY  pinAppTab.label                    "Fixar como separador de aplicação">
 <!ENTITY  pinAppTab.accesskey                "p">
-<!ENTITY  unpinAppTab.label                  "Anular pin do separador">
+<!ENTITY  unpinAppTab.label                  "Anular fixar do separador">
 <!ENTITY  unpinAppTab.accesskey              "r">
 <!ENTITY  moveToGroup.label                  "Mover para grupo">
 <!ENTITY  moveToGroup.accesskey              "M">
@@ -111,13 +111,15 @@ can reach it easily. -->
 <!ENTITY forwardCmd.label "Avançar">
 <!ENTITY forwardCmd.accesskey "A">
 <!ENTITY forwardButton.tooltip "Avançar uma página">
+<!ENTITY backForwardButtonMenu.tooltip "Clique direito ou desloque para mostrar o histórico">
+<!ENTITY backForwardButtonMenuMac.tooltip "Desloque para mostrar o histórico">
 <!ENTITY reloadCmd.label "Recarregar">
 <!ENTITY reloadCmd.accesskey "C">
 <!ENTITY reloadButton.tooltip "Recarrega a página actual">
 <!ENTITY stopCmd.label "Parar">
 <!ENTITY stopCmd.accesskey "P">
 <!ENTITY stopCmd.macCommandKey ".">
-<!ENTITY stopButton.tooltip "Pára de carregar esta página">
+<!ENTITY stopButton.tooltip "Parar de carregar esta página">
 <!ENTITY goEndCap.tooltip             "Ir para o endereço da barra de localização">
 <!ENTITY printButton.label "Imprimir">
 <!ENTITY printButton.tooltip "Imprimir esta página">
@@ -295,19 +297,20 @@ shortcut keys on Linux. -->
 
 <!ENTITY openCmd.commandkey 		  "l">
 <!ENTITY urlbar.placeholder           "Ir para o sítio web">
-<!ENTITY urlbar.accesskey 			  "A">
+<!ENTITY urlbar.accesskey 			  "a">
 <!ENTITY urlbar.switchToTab.label     "Mudar para separador:">
 
 <!-- 
   Comment duplicated from browser-sets.inc:
 
   Search Command Key Logic works like this:
-  
+
   Unix: Ctrl+J (0.8, 0.9 support)
         Ctrl+K (cross platform binding)
   Mac:  Cmd+K (cross platform binding)
         Cmd+Opt+F (platform convention)
   Win:  Ctrl+K (cross platform binding)
+        Ctrl+E (IE compat)
 
   We support Ctrl+K on all platforms now and advertise it in the menu since it is
   our standard - it is a "safe" choice since it is near no harmful keys like "W" as
@@ -318,6 +321,7 @@ shortcut keys on Linux. -->
 
  -->
 <!ENTITY searchFocus.commandkey       "k">
+<!ENTITY searchFocus.commandkey2      "e">
 <!ENTITY searchFocusUnix.commandkey   "j">
 
 <!ENTITY tabView.commandkey           "e">
