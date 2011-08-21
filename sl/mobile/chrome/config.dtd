@@ -5,7 +5,7 @@
 
 <!ENTITY cancel.label           "Prekliči">
 <!ENTITY reset.label            "Ponastavi">
-<!ENTITY done.label             "Končano">
+<!ENTITY done.label             "Shrani">
 
 <!ENTITY integer.label          "Celo število">
 <!ENTITY string.label           "Niz">
