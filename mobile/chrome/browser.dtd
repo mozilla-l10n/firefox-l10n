@@ -88,7 +88,7 @@
 <!ENTITY consoleCodeEval.label     "Code:">
 <!ENTITY consoleClear.label        "Wissen">
 <!ENTITY consoleEvaluate.label     "…">
-<!ENTITY consoleErrFile.lab<!ENTITY pasteAndGo.label      "Paste &amp; Go">el      "Bronbestand:">
+<!ENTITY consoleErrFile.label      "Bronbestand:">
 <!ENTITY consoleErrLine.label      "Regel:">
 <!ENTITY consoleErrColumn.label    "Kolom:">
 
