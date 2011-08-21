@@ -123,6 +123,3 @@
 <!ENTITY webConsoleCmd.label          "Consoil-lìn">
 <!ENTITY webConsoleCmd.accesskey      "W">
 <!ENTITY webConsoleCmd.commandkey     "k">
-
-<!ENTITY textbox.placeholder1         "// Cuir a-steach JavaScript, tagh e, dèan briogadh deas agus tagh \'Cuir an gnìomh\', Sgrùdaich no Clò-bhuail.">
-
