@@ -111,6 +111,8 @@ can reach it easily. -->
 <!ENTITY forwardCmd.label             "Air adhart">
 <!ENTITY forwardCmd.accesskey         "A">
 <!ENTITY forwardButton.tooltip        "Rach duilleag air adhart">
+<!ENTITY backForwardButtonMenu.tooltip "Dèan briogadh deas no tarraing a-nuas gus an eachdraidh a shealltainn">
+<!ENTITY backForwardButtonMenuMac.tooltip "Tarraing a-nuas gus an eachdraidh a shealltainn">
 <!ENTITY reloadCmd.label              "Ath-luchdaich">
 <!ENTITY reloadCmd.accesskey          "A">
 <!ENTITY reloadButton.tooltip         "Ath-luchdaich an duilleag làithreach">
@@ -318,6 +320,7 @@ can reach it easily. -->
 
  -->
 <!ENTITY searchFocus.commandkey       "k">
+<!ENTITY searchFocus.commandkey2      "e">
 <!ENTITY searchFocusUnix.commandkey   "j">
 
 <!ENTITY tabView.commandkey           "e">
