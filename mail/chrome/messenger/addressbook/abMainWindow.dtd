@@ -79,8 +79,6 @@
 <!ENTITY viewMenu.accesskey                             "l">
 <!ENTITY viewToolbarsMenu.label                         "Werkbalken">
 <!ENTITY viewToolbarsMenu.accesskey                     "W">
-<!ENTITY menubarCmd.label                               "Menubalk">
-<!ENTITY menubarCmd.accesskey                           "M">
 <!ENTITY showAbToolbarCmd.label                         "Adresboekwerkbalk">
 <!ENTITY showAbToolbarCmd.accesskey                     "d">
 <!ENTITY showTaskbarCmd.label                           "Statusbalk">
