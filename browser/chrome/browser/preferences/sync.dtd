@@ -11,15 +11,15 @@
 <!ENTITY manageAccount.label          "계정 관리">
 <!ENTITY manageAccount.accesskey      "A">
 <!ENTITY viewQuota.label              "용량 보기">
-<!ENTITY changePassword.label         "암호 변경">
+<!ENTITY changePassword2.label         "암호 변경…">
 <!ENTITY mySyncKey.label              "동기화키 표시">
-<!ENTITY resetSync.label              "동기화 재설정">
+<!ENTITY resetSync2.label              "동기화 재설정…">
 <!ENTITY addDevice.label              "새 기기 추가">
 
 <!-- Sync Settings -->
 <!ENTITY syncComputerName.label       "컴퓨터 이름:">
 <!ENTITY syncComputerName.accesskey   "c">
-<!ENTITY deactivateDevice.label       "기기 사용 중지">
+<!ENTITY unlinkDevice.label           "현재 기기 연결 중단">
 
 <!ENTITY syncMy.label               "동기화 항목">
 <!ENTITY engine.bookmarks.label     "북마크">
