@@ -252,6 +252,8 @@
 <!ENTITY bodySanitized.accesskey "V">
 <!ENTITY bodyAsPlaintext.label "Platte tekst">
 <!ENTITY bodyAsPlaintext.accesskey "P">
+<!ENTITY bodyAllParts.label "Alle opmaakonderdelen">
+<!ENTITY bodyAllParts.accesskey "A">
 
 <!ENTITY bodyMenuFeed.label "Feedberichtopmaak als">
 <!ENTITY bodyMenuFeed.accesskey "b">
@@ -273,16 +275,6 @@
 <!ENTITY pageSourceCmd.key "u">
 
 <!ENTITY findCmd.label "In dit bericht zoeken…">
-<!ENTITY findCmd.accesskey "I">
-<!ENTITY findCmd.key "f">
-<!ENTITY findAgainCmd.label "Opnieuw zoeken">
-<!ENTITY findAgainCmd.accesskey "O">
-<!ENTITY findAgainCmd.key "g">
-<!ENTITY findAgainCmd.key2 "VK_F3">
-<!ENTITY findPrevCmd.label "Vorige zoeken">
-<!ENTITY findPrevCmd.accesskey "r">
-<!ENTITY findPrevCmd.key "g">
-<!ENTITY findPrevCmd.key2 "VK_F3">
 
 <!-- Go Menu -->
 

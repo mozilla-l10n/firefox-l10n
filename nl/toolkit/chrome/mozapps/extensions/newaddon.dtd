@@ -1,0 +1,11 @@
+<!ENTITY title           "Installeer add-on">
+<!ENTITY intro           "Een ander programma op uw computer wil
+                          &brandShortName; aanpassen met de volgende add-on:">
+<!ENTITY warning         "Installeer alleen add-ons van auteurs die u vertrouwt.">
+<!ENTITY allow           "Deze installatie toestaan">
+<!ENTITY later           "U kunt altijd van gedachte veranderen door naar
+                          de add-onbeheerder te gaan.">
+<!ENTITY continue        "Doorgaan">
+<!ENTITY restartMessage  "U moet &brandShortName; opnieuw opstarten om de installatie van deze add-on af te ronden.">
+<!ENTITY restartButton   "Herstart &brandShortName;">
+<!ENTITY cancelButton    "Annuleren">

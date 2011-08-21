@@ -1,11 +1,6 @@
 <!--LOCALIZATION NOTE : FILE 'Advanced' prefs settings -->
 <!ENTITY pref.advanced.title        "Geavanceerd">
 
-<!ENTITY prefEnableJava.caption     "Functies die helpen bij het interpreteren van webpagina’s">
-
-<!ENTITY enbJavaCheck.label         "Java inschakelen">
-<!ENTITY enbJavaCheck.accesskey     "J">
-
 <!ENTITY systemPref.caption         "Systeemvoorkeuren">
 <!ENTITY systemPrefCheck.label      "Voorkeuren van systeem gebruiken">
 <!ENTITY systemPrefCheck.accesskey  "V">

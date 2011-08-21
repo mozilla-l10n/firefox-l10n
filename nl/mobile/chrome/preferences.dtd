@@ -8,6 +8,7 @@
 <!ENTITY privacy.title                             "Privacy &amp; beveiliging">
 <!ENTITY allowCookies.title                        "Cookies toestaan">
 <!ENTITY doNotTrack.title                          "Websites vertellen mij niet te volgen">
+<!ENTITY masterPassword.title                      "Hoofdwachtwoord gebruiken">
 <!ENTITY clearPrivateData2.title                   "Privégegevens wissen">
 <!ENTITY clearPrivateData.button                   "Wissen">
 <!ENTITY rememberPasswords.title                   "Wachtwoorden onthouden">
