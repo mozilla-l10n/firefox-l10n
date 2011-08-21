@@ -227,6 +227,8 @@
 <!ENTITY bodySanitized.accesskey "s">
 <!ENTITY bodyAsPlaintext.label "Teacsa lom">
 <!ENTITY bodyAsPlaintext.accesskey "T">
+<!ENTITY bodyAllParts.label "Gach pàirt dhen bhodhaidg">
+<!ENTITY bodyAllParts.accesskey "G">
 
 <!ENTITY bodyMenuFeed.label "Bodhaig teachdaireachd an inbhir mar">
 <!ENTITY bodyMenuFeed.accesskey "B">
