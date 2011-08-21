@@ -5,10 +5,10 @@
 <!ENTITY reflowZoom.title                          "Ath-fhòrmataich an teacsa an cois sùmaidh">
 <!ENTITY showImages.title                          "Seall dealbhan">
 <!ENTITY enableJavaScript.title                    "Cuir JavaScript an comas">
-<!ENTITY enablePlugins.title                       "Cuir plugain an comas">
 <!ENTITY privacy.title                             "Prìobhaideachd ┐ Tèarainteachd">
 <!ENTITY allowCookies.title                        "Ceadaich briosgaidean">
 <!ENTITY doNotTrack.title                          "Innis do làraichean gun a bhith 'gam lorgadh">
+<!ENTITY masterPassword.title                      "Cleachd facal-faire maighstir">
 <!ENTITY clearPrivateData2.title                   "Falamhaich an dàta prìobhaideach">
 <!ENTITY clearPrivateData.button                   "Falamhaich">
 <!ENTITY rememberPasswords.title                   "Cum faclan-faire an cuimhne">
@@ -20,4 +20,4 @@
 <!ENTITY homepage.none                             "Duilleag bhàn">
 <!ENTITY homepage.default                          "Toisich &brandShortName;">
 <!ENTITY homepage.currentpage                      "Cleachd an duilleag làithreach">
-<!ENTITY showCharset.title                         "Seall còdachadh charactairean">
+<!ENTITY showCharsetEncoding.title                 "Seall còdachadh charactairean">
