@@ -73,9 +73,6 @@
 <!ENTITY printCmd.label "Afdrukken…">
 <!ENTITY printCmd.accesskey "d">
 <!ENTITY printCmd.key "p">
-<!ENTITY closeCmd.label "Sluiten">
-<!ENTITY closeCmd.accesskey "e">
-<!ENTITY closeCmd.key "w">
 
 <!-- Edit menu items -->
 <!ENTITY editMenu.label "Bewerken">
@@ -91,17 +88,6 @@
 <!ENTITY pasteAsQuotationCmd.accesskey "c">
 <!ENTITY pasteAsQuotationCmd.key "o">
 <!ENTITY findCmd.label "Zoeken en vervangen…">
-<!ENTITY findCmd.accesskey "Z">
-<!ENTITY findCmd.key "f">
-<!ENTITY findCmd.key2 "VK_F19">
-<!ENTITY findAgainCmd.label "Opnieuw zoeken">
-<!ENTITY findAgainCmd.accesskey "w">
-<!ENTITY findAgainCmd.key "g">
-<!ENTITY findAgainCmd.key2 "VK_F3">
-<!ENTITY findPrevCmd.label "Vorige zoeken">
-<!ENTITY findPrevCmd.accesskey "i">
-<!ENTITY findPrevCmd.key "g">
-<!ENTITY findPrevCmd.key2 "VK_F3">
 <!ENTITY enableInlineSpellChecker.label "Spelling controleren tijdens typen">
 <!ENTITY enableInlineSpellChecker.accesskey "S">
 <!ENTITY checkSpellingCmd2.label "Spelling controleren">
@@ -139,23 +125,6 @@
 <!ENTITY createLinkCmd.accesskey "l">
 <!ENTITY editLinkCmd.label "Koppeling bewerken in nieuw Composer-venster">
 <!ENTITY editLinkCmd.accesskey "w">
-<!-- (Toplevel Edit menu uses utilityOverlay) -->
-<!ENTITY undoCmd.label "Ongedaan maken">
-<!ENTITY undoCmd.accesskey "O">
-<!ENTITY redoCmd.label "Opnieuw uitvoeren">
-<!ENTITY redoCmd.accesskey "u">
-<!ENTITY cutCmd.label "Knippen">
-<!ENTITY cutCmd.accesskey "n">
-<!ENTITY copyCmd.label "Kopiëren">
-<!ENTITY copyCmd.accesskey "K">
-<!ENTITY pasteCmd.label "Plakken">
-<!ENTITY pasteCmd.accesskey "P">
-<!ENTITY deleteCmd.label "Verwijderen">
-<!ENTITY deleteCmd.accesskey "V">
-<!ENTITY clearCmd.label "Wissen">
-<!ENTITY clearCmd.accesskey "W">
-<!ENTITY selectAllCmd.label "Alles selecteren">
-<!ENTITY selectAllCmd.accesskey "A">
 
 <!-- Font Face SubMenu -->
 <!ENTITY FontFaceSelect.tooltip "Lettertype kiezen">
@@ -396,6 +365,9 @@
 <!ENTITY openToolbarCmd.tooltip "Een lokaal bestand openen">
 <!ENTITY saveToolbarCmd.tooltip "Bestand opslaan op een lokale locatie">
 <!ENTITY publishToolbarCmd.tooltip "Bestand uploaden naar een locatie op afstand">
+<!ENTITY cutToolbarCmd.tooltip "Knippen">
+<!ENTITY copyToolbarCmd.tooltip "Kopiëren">
+<!ENTITY pasteToolbarCmd.tooltip "Plakken">
 <!ENTITY printToolbarCmd.label "Afdrukken">
 <!ENTITY printToolbarCmd.tooltip "Deze pagina afdrukken">
 <!ENTITY findToolbarCmd.label "Zoeken">
