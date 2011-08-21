@@ -10,15 +10,6 @@
 <!-- LOCALIZATION NOTE (mainWindow.titlemodifiermenuseparator): DONT_TRANSLATE -->
 <!ENTITY mainWindow.titlemodifiermenuseparator " - ">
 
-<!ENTITY tabCmd.label "Browsertabblad">
-<!ENTITY tabCmd.accesskey "t">
-<!ENTITY tabCmd.commandkey "T">
-<!ENTITY openCmd.label "Weblocatie openen…">
-<!ENTITY openCmd.accesskey "l">
-<!ENTITY openCmd.commandkey "l">
-<!ENTITY openFileCmd.label "Bestand openen…">
-<!ENTITY openFileCmd.accesskey "o">
-<!ENTITY openFileCmd.commandkey "o">
 <!ENTITY recentTabs.label "Onlangs gesloten tabbladen">
 <!ENTITY recentTabs.accesskey "t">
 <!ENTITY recentTabs.commandkey "t">
@@ -29,100 +20,25 @@
 <!ENTITY editPageCmd.accesskey "w">
 <!ENTITY editPageCmd.commandkey "e">
 
-<!ENTITY uploadFile.label "Bestand publiceren…">
-<!ENTITY uploadFile.accesskey "u">
-
-<!ENTITY printSetupCmd.label "Pagina-instellingen…">
-<!ENTITY printSetupCmd.accesskey "i">
 <!ENTITY printPreviewCmd.label "Afdrukvoorbeeld">
 <!ENTITY printPreviewCmd.accesskey "v">
 <!ENTITY printCmd.label "Afdrukken…">
 <!ENTITY printCmd.accesskey "d">
 <!ENTITY printCmd.commandkey "p">
 
-<!ENTITY toolbarsCmd.label "Tonen/verbergen">
-<!ENTITY toolbarsCmd.accesskey "T">
 <!ENTITY navbarCmd.label "Navigatiewerkbalk">
 <!ENTITY navbarCmd.accesskey "N">
 <!ENTITY personalbarCmd.label "Persoonlijke werkbalk">
 <!ENTITY personalbarCmd.accesskey "P">
-<!ENTITY tabbarCmd.label "Tabbladenbalk">
-<!ENTITY tabbarCmd.accesskey "T">
-<!ENTITY taskbarCmd.label "Statusbalk">
-<!ENTITY taskbarCmd.accesskey "S">
-<!ENTITY componentbarCmd.label "Componentenbalk">
-<!ENTITY componentbarCmd.accesskey "C">
 
-<!ENTITY useStyleSheetMenu.label "Stijl gebruiken">
-<!ENTITY useStyleSheetMenu.accesskey "S">
-<!ENTITY useStyleSheetNone.label "Geen">
-<!ENTITY useStyleSheetNone.accesskey "G">
-<!ENTITY useStyleSheetPersistentOnly.label "Standaard paginastijl">
-<!ENTITY useStyleSheetPersistentOnly.accesskey "t">
-<!ENTITY pageSourceCmd.label "Paginabron">
-<!ENTITY pageSourceCmd.accesskey "b">
-<!ENTITY pageSourceCmd.commandkey "u">
-<!ENTITY pageInfoCmd.label "Pagina-info">
-<!ENTITY pageInfoCmd.accesskey "i">
-<!ENTITY pageInfoCmd.commandkey "i">
-<!ENTITY fullScreenCmd.label "Volledig scherm">
-<!ENTITY fullScreenCmd.accesskey "V">
-<!ENTITY translateMenu.label "Pagina vertalen">
-<!ENTITY translateMenu.accesskey "v">
-
-<!ENTITY closeOtherTabs.label "Overige tabbladen sluiten">
-<!ENTITY closeOtherTabs.accesskey "e">
 <!ENTITY closeWindow.label "Venster sluiten">
 <!ENTITY closeWindow.accesskey "n">
 
 <!ENTITY minimizeButton.tooltip       "Minimaliseren">
 <!ENTITY restoreButton.tooltip        "Herstellen">
 
-<!ENTITY applyTheme.label "Thema toepassen">
-<!ENTITY applyTheme.accesskey "h"> 
-<!ENTITY getNewThemesCmd.label "Nieuwe thema’s verkrijgen">
-<!ENTITY getNewThemesCmd.accesskey "N">
-<!ENTITY findOnCmd.label "Zoeken in deze pagina…">
-<!ENTITY findOnCmd.accesskey "Z">
-<!ENTITY findOnCmd.commandkey "f">
-<!ENTITY findAgainCmd.label "Opnieuw zoeken">
-<!ENTITY findAgainCmd.accesskey "w">
-<!ENTITY findAgainCmd.commandkey "g">
-<!ENTITY findPrevCmd.label "Vorige zoeken">
-<!ENTITY findPrevCmd.accesskey "r">
-<!ENTITY findPrevCmd.commandkey "g">
-<!ENTITY findAgainCmd.commandkey2 "VK_F3">
-<!ENTITY findPrevCmd.commandkey2 "VK_F3">
-
-<!ENTITY searchInternetCmd.label "Zoeken op het web">
-<!ENTITY searchInternetCmd.accesskey "Z">
-<!ENTITY searchInternet.commandKey "s">
-
-<!ENTITY clearPrivateDataCmd.label "Privégegevens wissen">
-<!ENTITY clearPrivateDataCmd.accesskey "P">
-
-<!ENTITY goMenu.label "Ga">
-<!ENTITY goMenu.accesskey "G">
-<!ENTITY goHomeCmd.label "Beginpagina">
-<!ENTITY goHomeCmd.accesskey "B">
-<!ENTITY historyRestoreLastSession.label "Vorige sessie herstellen">
-<!ENTITY historyRestoreLastSession.accesskey "s">
-
-<!ENTITY bookmarksMenu.label "Bladwijzers">
-<!ENTITY bookmarksMenu.accesskey "a">
-<!ENTITY addCurPageCmd.label "Deze pagina toevoegen aan bladwijzers">
-<!ENTITY addCurPageCmd.accesskey "t">
-<!ENTITY addCurPageAsCmd.label "Bladwijzer archiveren…">
-<!ENTITY addCurPageAsCmd.accesskey "a">
-<!ENTITY addCurPageAsCmd.commandkey "d">
-<!ENTITY addCurTabsAsCmd.label "Deze tabbladgroep toevoegen aan bladwijzers…">
-<!ENTITY addCurTabsAsCmd.accesskey "r">
-<!ENTITY manBookmarksCmd.label "Bladwijzers beheren…">
-<!ENTITY manBookmarksCmd.accesskey "b">
-<!ENTITY manBookmarksCmd.commandkey "b">
 <!ENTITY feedsMenu.label "Abonneren op deze pagina">
 <!ENTITY feedsMenu.accesskey "o">
-<!ENTITY emptyItem.label "(Leeg)">
 
 <!ENTITY menuBar.tooltip                  "Menubalk">
 <!ENTITY personalToolbar.tooltip          "Persoonlijke werkbalk">
@@ -163,15 +79,4 @@
 <!-- Statusbar -->
 <!ENTITY  statusText.label            "Klaar">
 
-<!ENTITY historyCmd.label           "Geschiedenis">
-<!ENTITY historyCmd.accesskey       "G">
-<!ENTITY history.commandKey         "h">
-
-<!ENTITY popupIcon.tooltiptext      "Pop-ups van deze website deblokkeren">
-
-<!ENTITY bidiSwitchPageDirectionItem.label        "Paginarichting omkeren">
-<!ENTITY bidiSwitchPageDirectionItem.accesskey    "P">
-
-<!-- LOCALIZATION NOTE (syncTabsMenu.label): This appears in the Go menu -->
-<!ENTITY syncTabsMenu.label         "Tabbladen van andere computers">
-    
+<!ENTITY popupIcon.tooltiptext      "Pop-ups van deze website deblokkeren">    

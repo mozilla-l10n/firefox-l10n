@@ -1,4 +1,100 @@
-<!-- the following is for the task menu overlay -->
+<!-- File Menu -->
+<!ENTITY tabCmd.label "Browsertabblad">
+<!ENTITY tabCmd.accesskey "t">
+<!ENTITY tabCmd.commandkey "T">
+<!ENTITY openCmd.label "Weblocatie openen…">
+<!ENTITY openCmd.accesskey "l">
+<!ENTITY openCmd.commandkey "l">
+<!ENTITY openFileCmd.label "Bestand openen…">
+<!ENTITY openFileCmd.accesskey "o">
+<!ENTITY openFileCmd.commandkey "o">
+
+<!ENTITY closeOtherTabs.label "Overige tabbladen sluiten">
+<!ENTITY closeOtherTabs.accesskey "e">
+
+<!ENTITY uploadFile.label "Bestand publiceren…">
+<!ENTITY uploadFile.accesskey "u">
+
+<!ENTITY printSetupCmd.label "Pagina-instellingen…">
+<!ENTITY printSetupCmd.accesskey "i">
+
+<!-- Edit Menu -->
+<!ENTITY findOnCmd.label "Zoeken in deze pagina…">
+
+<!-- View Menu -->
+<!ENTITY toolbarsCmd.label "Tonen/verbergen">
+<!ENTITY toolbarsCmd.accesskey "T">
+<!ENTITY tabbarCmd.label "Tabbladenbalk">
+<!ENTITY tabbarCmd.accesskey "T">
+<!ENTITY taskbarCmd.label "Statusbalk">
+<!ENTITY taskbarCmd.accesskey "S">
+<!ENTITY componentbarCmd.label "Componentenbalk">
+<!ENTITY componentbarCmd.accesskey "C">
+
+<!ENTITY fullScreenCmd.label "Volledig scherm">
+<!ENTITY fullScreenCmd.accesskey "V">
+
+<!ENTITY useStyleSheetMenu.label "Stijl gebruiken">
+<!ENTITY useStyleSheetMenu.accesskey "S">
+<!ENTITY useStyleSheetNone.label "Geen">
+<!ENTITY useStyleSheetNone.accesskey "G">
+<!ENTITY useStyleSheetPersistentOnly.label "Standaard paginastijl">
+<!ENTITY useStyleSheetPersistentOnly.accesskey "t">
+<!ENTITY bidiSwitchPageDirectionItem.label "Paginarichting omkeren">
+<!ENTITY bidiSwitchPageDirectionItem.accesskey "P">
+<!ENTITY pageSourceCmd.label "Paginabron">
+<!ENTITY pageSourceCmd.accesskey "b">
+<!ENTITY pageSourceCmd.commandkey "u">
+<!ENTITY pageInfoCmd.label "Pagina-info">
+<!ENTITY pageInfoCmd.accesskey "i">
+<!ENTITY pageInfoCmd.commandkey "i">
+
+<!ENTITY applyTheme.label "Thema toepassen">
+<!ENTITY applyTheme.accesskey "h"> 
+<!ENTITY getNewThemesCmd.label "Nieuwe thema’s verkrijgen">
+<!ENTITY getNewThemesCmd.accesskey "N">
+<!ENTITY getPersonasCmd.label "Personas verkrijgen">
+<!ENTITY getPersonasCmd.accesskey "P">
+
+<!-- Go Menu -->
+<!ENTITY goMenu.label "Ga">
+<!ENTITY goMenu.accesskey "G">
+<!ENTITY goHomeCmd.label "Beginpagina">
+<!ENTITY goHomeCmd.accesskey "B">
+<!ENTITY historyCmd.label           "Geschiedenis">
+<!ENTITY historyCmd.accesskey       "G">
+<!ENTITY history.commandKey         "h">
+<!ENTITY recentTabs.label "Onlangs gesloten tabbladen">
+<!ENTITY recentTabs.accesskey "t">
+<!ENTITY recentTabs.commandkey "t">
+<!ENTITY recentWindows.label "Onlangs gesloten vensters">
+<!ENTITY recentWindows.accesskey "s">
+<!ENTITY recentWindows.commandkey "y">
+<!ENTITY historyRestoreLastSession.label "Vorige sessie herstellen">
+<!ENTITY historyRestoreLastSession.accesskey "s">
+<!ENTITY syncTabsMenu.label         "Tabbladen van andere computers">
+<!ENTITY syncTabsMenu.accesskey "c">
+
+<!-- Bookmarks Menu -->
+<!ENTITY bookmarksMenu.label "Bladwijzers">
+<!ENTITY bookmarksMenu.accesskey "a">
+<!ENTITY addCurPageCmd.label "Deze pagina toevoegen aan bladwijzers">
+<!ENTITY addCurPageCmd.accesskey "t">
+<!ENTITY addCurPageAsCmd.label "Bladwijzer archiveren…">
+<!ENTITY addCurPageAsCmd.accesskey "a">
+<!ENTITY addCurPageAsCmd.commandkey "d">
+<!ENTITY addCurTabsAsCmd.label "Deze tabbladgroep toevoegen aan bladwijzers…">
+<!ENTITY addCurTabsAsCmd.accesskey "r">
+<!ENTITY manBookmarksCmd.label "Bladwijzers beheren…">
+<!ENTITY manBookmarksCmd.accesskey "b">
+<!ENTITY manBookmarksCmd.commandkey "b">
+
+<!-- Tools Menu -->
+<!ENTITY searchInternetCmd.label "Search the Web">
+<!ENTITY searchInternetCmd.accesskey "S">
+<!ENTITY searchInternet.commandKey "s">
+<!ENTITY translateMenu.label "Translate Page">
+<!ENTITY translateMenu.accesskey "T">
 
 <!ENTITY cookieMessageTitle.label "Cookietoestemmingen gewijzigd">
 <!ENTITY cookieDisplayCookiesCmd.label "Opgeslagen cookies beheren">
@@ -40,3 +136,6 @@
 <!ENTITY cookieImageManager.accesskey "A">
 <!ENTITY cookiePopupManager.label "Pop-upbeheerder">
 <!ENTITY cookiePopupManager.accesskey "o">
+
+<!ENTITY clearPrivateDataCmd.label "Privégegevens wissen">
+<!ENTITY clearPrivateDataCmd.accesskey "P">
