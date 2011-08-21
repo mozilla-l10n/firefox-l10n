@@ -16,6 +16,7 @@
 <!ENTITY copyAll.label         "Alles kopiëren">
 <!ENTITY copylink.label        "Koppelingslocatie kopiëren">
 <!ENTITY paste.label           "Plakken">
+<!ENTITY pasteAndGo.label      "Plakken &amp; Gaan">
 <!ENTITY delete.label          "Verwijderen">
 <!ENTITY selectAll.label       "Alles selecteren">
 <!ENTITY noSuggestions.label   "(Geen suggesties)">
@@ -87,7 +88,7 @@
 <!ENTITY consoleCodeEval.label     "Code:">
 <!ENTITY consoleClear.label        "Wissen">
 <!ENTITY consoleEvaluate.label     "…">
-<!ENTITY consoleErrFile.label      "Bronbestand:">
+<!ENTITY consoleErrFile.lab<!ENTITY pasteAndGo.label      "Paste &amp; Go">el      "Bronbestand:">
 <!ENTITY consoleErrLine.label      "Regel:">
 <!ENTITY consoleErrColumn.label    "Kolom:">
 
