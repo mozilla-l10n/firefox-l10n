@@ -73,9 +73,6 @@
 <!ENTITY printCmd.label "Afdrukken…">
 <!ENTITY printCmd.accesskey "d">
 <!ENTITY printCmd.key "p">
-<!ENTITY closeCmd.label "Sluiten">
-<!ENTITY closeCmd.accesskey "e">
-<!ENTITY closeCmd.key "w">
 
 <!-- Edit menu items -->
 <!ENTITY editMenu.label "Bewerken">
