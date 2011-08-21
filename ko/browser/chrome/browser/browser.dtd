@@ -71,6 +71,8 @@
 <!ENTITY forwardCmd.label "앞으로">
 <!ENTITY forwardCmd.accesskey "F">
 <!ENTITY forwardButton.tooltip "한 페이지 앞으로 가기">
+<!ENTITY backForwardButtonMenu.tooltip "오른쪽 클릭 혹은 풀다운으로 방문 기록 보기">
+<!ENTITY backForwardButtonMenuMac.tooltip "방문 기록 내려 보기">
 <!ENTITY reloadCmd.label "새로 고침">
 <!ENTITY reloadCmd.accesskey "R">
 <!ENTITY reloadButton.tooltip "현재 페이지 새로 고침">
@@ -221,6 +223,7 @@ can reach it easily. -->
 <!ENTITY urlbar.switchToTab.label "탭 전환:">
 
 <!ENTITY searchFocus.commandkey "k">
+<!ENTITY searchFocus.commandkey2      "e">
 <!ENTITY searchFocusUnix.commandkey "j">
 
 <!ENTITY tabView.commandkey           "e">
