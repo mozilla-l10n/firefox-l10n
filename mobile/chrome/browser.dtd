@@ -68,6 +68,7 @@
 <!ENTITY bookmarkPopup.label       "Bladwijzer gemaakt">
 <!ENTITY bookmarkRemove.label      "Verwijderen">
 <!ENTITY bookmarkEdit.label        "Bewerken">
+<!ENTITY bookmarkShortcut.label    "Toevoegen aan thuisscherm">
 
 <!ENTITY identity.unverifiedsite2 "Deze website verstrekt geen identiteitsinformatie.">
 <!ENTITY identity.connectedTo2 "Verbonden met">
