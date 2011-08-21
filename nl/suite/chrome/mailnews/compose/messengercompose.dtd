@@ -39,11 +39,6 @@
 <!ENTITY sendLaterCmd.label "Later verzenden">
 <!ENTITY sendLaterCmd.keycode "VK_RETURN">
 <!ENTITY sendLaterCmd.accesskey "z">
-<!ENTITY printSetupCmd.label "Pagina-instellingen…">
-<!ENTITY printSetupCmd.accesskey "P">
-<!ENTITY printCmd.label "Afdrukken…">
-<!ENTITY printCmd.key "P">
-<!ENTITY printCmd.accesskey "d">
 
 <!-- Edit menu items -->
 <!ENTITY editRewrapCmd.label "Opnieuw uitlijnen">
