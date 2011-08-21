@@ -72,7 +72,7 @@
 <!ENTITY  mediaType             "סוג">
 <!ENTITY  mediaSize             "גודל">
 <!ENTITY  mediaCount            "כמות">
-<!ENTITY  mediaDimension        "מימדים:">
+<!ENTITY  mediaDimension        "ממדים:">
 <!ENTITY  mediaLongdesc         "תיאור:">
 <!ENTITY  mediaBlockImage.accesskey "ח">
 <!ENTITY  mediaSaveAs           "שמור בשם...">
