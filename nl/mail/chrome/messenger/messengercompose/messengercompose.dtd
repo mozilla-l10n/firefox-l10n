@@ -92,8 +92,6 @@
 <!ENTITY viewMenu.accesskey "l">
 <!ENTITY viewToolbarsMenuNew.label "Werkbalken">
 <!ENTITY viewToolbarsMenuNew.accesskey "W">
-<!ENTITY menubarCmd.label "Menubalk">
-<!ENTITY menubarCmd.accesskey "M">
 <!ENTITY showCompositionToolbarCmd.label "Compositiewerkbalk">
 <!ENTITY showCompositionToolbarCmd.accesskey "C">
 <!ENTITY showFormattingBarCmd.label "Opmaakwerkbalk">
