@@ -252,6 +252,8 @@
 <!ENTITY bodySanitized.accesskey "V">
 <!ENTITY bodyAsPlaintext.label "Platte tekst">
 <!ENTITY bodyAsPlaintext.accesskey "P">
+<!ENTITY bodyAllParts.label "Alle opmaakonderdelen">
+<!ENTITY bodyAllParts.accesskey "A">
 
 <!ENTITY bodyMenuFeed.label "Feedberichtopmaak als">
 <!ENTITY bodyMenuFeed.accesskey "b">
