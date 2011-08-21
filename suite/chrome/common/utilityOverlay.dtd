@@ -18,6 +18,13 @@
 <!ENTITY newNavigatorCmd.label                  "Browservenster">
 <!ENTITY newNavigatorCmd.key                    "N">
 <!ENTITY newNavigatorCmd.accesskey              "v">
+<!ENTITY printSetupCmd.label "Pagina-instellingen…">
+<!ENTITY printSetupCmd.accesskey "P">
+<!ENTITY printPreviewCmd.label "Afdrukvoorbeeld">
+<!ENTITY printPreviewCmd.accesskey "v">
+<!ENTITY printCmd.label "Afdrukken…">
+<!ENTITY printCmd.key "P">
+<!ENTITY printCmd.accesskey "d">
 
 <!ENTITY editMenu.label                         "Bewerken">
 <!ENTITY editMenu.accesskey                     "w">

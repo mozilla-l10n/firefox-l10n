@@ -109,11 +109,8 @@
 <!ENTITY downloadFlaggedCmd.accesskey "G">
 <!ENTITY printCmd.label "Afdrukken…">
 <!ENTITY printCmd.accesskey "d">
-<!ENTITY printCmd.key "p">
 <!ENTITY printPreviewCmd.label "Afdrukvoorbeeld">
 <!ENTITY printPreviewCmd.accesskey "v">
-<!ENTITY printSetupCmd.label "Pagina-instellingen…">
-<!ENTITY printSetupCmd.accesskey "i">
 
 <!-- Edit Menu -->
 <!ENTITY deleteMsgCmd.label "Bericht verwijderen">
