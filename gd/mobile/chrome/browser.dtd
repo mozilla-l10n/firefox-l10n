@@ -7,6 +7,7 @@
 <!ENTITY go.label              "Rach ann">
 <!ENTITY star.label            "Rionnag">
 
+<!ENTITY showTabs.label        "Seall na tabaichean">
 <!ENTITY newtab.label          "Taba ùr">
 <!ENTITY closetab.label        "Dùin an taba">
 
@@ -17,6 +18,7 @@
 <!ENTITY paste.label           "Cuir ann">
 <!ENTITY delete.label          "Sguab às">
 <!ENTITY selectAll.label       "Tagh a h-uile">
+<!ENTITY pasteAndGo.label      "Cuir ann ┐ rach ann">
 <!ENTITY noSuggestions.label   "(Gun mholadh sam bith)">
 <!ENTITY addToDictionary.label "Cuir ris an fhaclair">
 <!ENTITY inputMethod.label     "Tagh dòigh an steach-chuir">
@@ -68,6 +70,7 @@
 <!ENTITY bookmarkPopup.label       "Chaidh comharra-lìn a chruthachadh">
 <!ENTITY bookmarkRemove.label      "Thoir air falbh">
 <!ENTITY bookmarkEdit.label        "Deasaich">
+<!ENTITY bookmarkShortcut.label    "Cuir ris an sgrìn mhòr">
 
 <!ENTITY identity.unverifiedsite2 "Chan eil an làrach seo a' nochdadh fiosrachadh dearbh-aithne.">
 <!ENTITY identity.connectedTo2 "Ceangailte ri">
@@ -93,6 +96,7 @@
 <!ENTITY contextOpenInNewTab.label    "Fosgail an ceangal ann an taba ùr">
 <!ENTITY contextSaveLink.label        "Sàbhail an ceangal">
 <!ENTITY contextSaveImage.label       "Sàbhail an dealbh">
+<!ENTITY contextCopyLink.label        "Dèan lethbhreac dhen cheangal">
 <!ENTITY contextShareLink.label       "Co-roinn an ceangal">
 <!ENTITY contextShareImage.label      "Co-roinn an dealbh">
 <!ENTITY contextBookmarkLink.label    "Dèan comharra-lìn dhen cheangal">
@@ -103,6 +107,7 @@
 <!ENTITY contextFullScreen.label      "Làn-sgrìn">
 <!ENTITY contextEditBookmark.label    "Deasaich">
 <!ENTITY contextRemoveBookmark.label  "Thoir air falbh">
+<!ENTITY contextShortcutBookmark.label "Cuir ris an sgrìn mhòr">
 
 <!ENTITY pageactions.saveas.pdf      "Sàbhail mar PDF">
 <!ENTITY pageactions.share.page      "Co-roinn an duilleag">
@@ -112,5 +117,6 @@
 <!ENTITY pageactions.findInPage      "Lorg san duilleag">
 <!ENTITY pageactions.search.addNew   "Cuir einnsean-luirg ris">
 <!ENTITY pageactions.charEncoding    "Còdachadh charactairean">
+<!ENTITY pageactions.webapps.install "Stàlaich mar aplacaid">
 
 <!ENTITY appMenu.siteOptions         "Roghainnean na làraich">

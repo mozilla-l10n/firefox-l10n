@@ -14,3 +14,8 @@
 <!ENTITY  sending_crash_report "A\' cur aithisg an tuislidh\u2026">
 <!ENTITY  exit_label "Fàg an-seo">
 <!ENTITY  continue_label "Lean air adhart">
+
+<!ENTITY  launcher_shortcuts_title "Aplacaidean-lìn &brandShortName;">
+<!ENTITY  launcher_shortcuts_empty "Cha deach aplacaid-lìn a lorg">
+
+<!ENTITY choose_file "Tagh faidhle">

@@ -13,7 +13,6 @@ by NSS/PSM via netError.xhtml. -->
 be replaced at runtime with the name of the server to which the user
 was trying to connect. -->
 <!ENTITY certerror.introPara1 "Dh'iarr thu air &brandShortName; ceangal tèarainte a dhèanamh ri <b>#1</b> ach chan urrainn dhuinn dearbhadh gu bheil an ceangal seo tèarainte.">
-<!ENTITY certerror.introPara2 "Nuair a dh'iarras tu ceangal tèarainte, nochdaidh làraichean dearbh-aithne earbsach a dhearbhas gu bheil thu a' dol dhan àite cheart a ghnàth. Ge-tà, cha ghabh dearbh-aithne na làraich seo a dhearbhadh.">
 
 <!ENTITY certerror.whatShouldIDo.heading "Dè nì mi?">
 <!ENTITY certerror.whatShouldIDo.content "Ma cheanglaicheas tu ris an làrach seo gun duilgheadas sam bith mar is trice, dh'fhaodadh gun do thachair a' mhearachd seo 's làrach eile a' gabhail air gur esan an làrach seo agus cha bu chòir dhut leantainn air adhart.">
