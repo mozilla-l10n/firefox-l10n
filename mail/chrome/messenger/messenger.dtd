@@ -119,6 +119,8 @@
 <!ENTITY redoDefaultCmd.accesskey "u">
 
 <!-- View Menu -->
+<!ENTITY menubarCmd.label "Menubalk">
+<!ENTITY menubarCmd.accesskey "M">
 <!ENTITY showMessengerToolbarCmd.label "E-mailwerkbalk">
 <!ENTITY showMessengerToolbarCmd.accesskey "E">
 <!ENTITY customizeToolbar.label "Aanpassen…">
