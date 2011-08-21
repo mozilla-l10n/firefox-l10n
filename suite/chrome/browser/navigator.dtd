@@ -10,12 +10,6 @@
 <!-- LOCALIZATION NOTE (mainWindow.titlemodifiermenuseparator): DONT_TRANSLATE -->
 <!ENTITY mainWindow.titlemodifiermenuseparator " - ">
 
-<!ENTITY recentTabs.label "Onlangs gesloten tabbladen">
-<!ENTITY recentTabs.accesskey "t">
-<!ENTITY recentTabs.commandkey "t">
-<!ENTITY recentWindows.label "Onlangs gesloten vensters">
-<!ENTITY recentWindows.accesskey "s">
-<!ENTITY recentWindows.commandkey "y">
 <!ENTITY editPageCmd.label "Pagina bewerken">
 <!ENTITY editPageCmd.accesskey "w">
 <!ENTITY editPageCmd.commandkey "e">
