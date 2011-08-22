@@ -69,7 +69,6 @@
 <!ENTITY selectAddressCmd.accesskey "A">
 
 <!ENTITY checkSpellingCmd2.label "Spelling controleren…">
-<!ENTITY checkSpellingCmd2.key "p">
 <!ENTITY checkSpellingCmd2.accesskey "c">
 <!ENTITY enableInlineSpellChecker.label "Spellingcontrole tijdens typen">
 <!ENTITY enableInlineSpellChecker.accesskey "S">
