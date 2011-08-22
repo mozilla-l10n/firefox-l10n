@@ -18,6 +18,7 @@ about &brandShortName;, check out our <a id='supportLink'>support web site</a>."
 <!ENTITY aboutSupport.appBasicsEnabledPlugins "Enabled Plugins">
 <!ENTITY aboutSupport.appBasicsBuildConfig "Build Configuration">
 <!ENTITY aboutSupport.appBasicsUserAgent "User Agent">
+<!ENTITY aboutSupport.appBasicsCrashIDs "Crash Reports">
 
 <!ENTITY aboutSupport.show.label "Open Containing Folder">
 <!-- LOCALIZATION NOTE (aboutSupport.showMac.label): This is the Mac-specific
