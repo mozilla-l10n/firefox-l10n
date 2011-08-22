@@ -8,7 +8,6 @@
 <!ENTITY newMessage.label "Messaggio">
 <!ENTITY newMessage.accesskey "M">
 <!ENTITY saveCmd.label "Salva">
-<!ENTITY saveCmd.key "S">
 <!ENTITY saveCmd.accesskey "S">
 <!ENTITY saveAsCmd.label "Salva come">
 <!ENTITY saveAsCmd.accesskey "v">
@@ -52,7 +51,6 @@
 <!ENTITY selectAddressCmd.key "">
 <!ENTITY selectAddressCmd.accesskey "z">
 <!ENTITY checkSpellingCmd2.label "Controlla ortografia…">
-<!ENTITY checkSpellingCmd2.key "p">
 <!ENTITY checkSpellingCmd2.accesskey "C">
 <!ENTITY enableInlineSpellChecker.label "Correggi ortografia in scrittura ">
 <!ENTITY enableInlineSpellChecker.accesskey "u">
@@ -102,8 +100,6 @@
 <!ENTITY spellCheckIgnoreWord.accesskey "I">
 <!ENTITY spellCheckAddToDictionary.label "Aggiungi al dizionario">
 <!ENTITY spellCheckAddToDictionary.accesskey "n">
-<!ENTITY pasteQuote.label "Incolla come citazione">
-<!ENTITY pasteQuote.accesskey "z">
 <!ENTITY openAttachment.label "Apri">
 <!ENTITY openAttachment.accesskey "A">
 <!ENTITY renameAttachment.label "Rinomina">
