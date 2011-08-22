@@ -14,7 +14,6 @@
 <!ENTITY newMessage.label "Bericht">  
 <!ENTITY newMessage.accesskey "B">  
 <!ENTITY saveCmd.label "Opslaan">
-<!ENTITY saveCmd.key "S">
 <!ENTITY saveCmd.accesskey "O">
 <!ENTITY saveAsCmd.label "Opslaan als">
 <!ENTITY saveAsCmd.accesskey "l">
