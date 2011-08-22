@@ -128,8 +128,6 @@
 <!ENTITY spellCheckIgnoreWord.accesskey "d">
 <!ENTITY spellCheckAddToDictionary.label "Toevoegen aan woordenboek">
 <!ENTITY spellCheckAddToDictionary.accesskey "T">
-<!ENTITY pasteQuote.label "Plakken als citaat">
-<!ENTITY pasteQuote.accesskey "c">
 
 <!ENTITY openAttachment.label "Openen">
 <!ENTITY openAttachment.accesskey "O">
