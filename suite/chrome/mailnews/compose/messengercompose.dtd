@@ -100,8 +100,6 @@
 <!ENTITY spellCheckIgnoreWord.accesskey "П">
 <!ENTITY spellCheckAddToDictionary.label "Добавить в словарь">
 <!ENTITY spellCheckAddToDictionary.accesskey "с">
-<!ENTITY pasteQuote.label "Вставить как цитату">
-<!ENTITY pasteQuote.accesskey "ц">
 <!ENTITY openAttachment.label "Открыть">
 <!ENTITY openAttachment.accesskey "т">
 <!ENTITY renameAttachment.label "Переименовать…">
