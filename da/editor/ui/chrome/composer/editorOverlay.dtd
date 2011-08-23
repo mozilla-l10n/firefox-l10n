@@ -73,9 +73,6 @@
 <!ENTITY printCmd.label "Udskriv">
 <!ENTITY printCmd.accesskey "U">
 <!ENTITY printCmd.key "P">
-<!ENTITY closeCmd.label "Luk">
-<!ENTITY closeCmd.accesskey "L">
-<!ENTITY closeCmd.key "w">
 
 <!-- Edit menu items -->
 <!ENTITY editMenu.label "Rediger">
@@ -91,17 +88,6 @@
 <!ENTITY pasteAsQuotationCmd.accesskey "C">
 <!ENTITY pasteAsQuotationCmd.key "o">
 <!ENTITY findCmd.label "Find i denne meddelelse…">
-<!ENTITY findCmd.accesskey "F">
-<!ENTITY findCmd.key "F">
-<!ENTITY findCmd.key2 "VK_F19">
-<!ENTITY findAgainCmd.label "Find igen">
-<!ENTITY findAgainCmd.accesskey "g">
-<!ENTITY findAgainCmd.key "G">
-<!ENTITY findAgainCmd.key2 "VK_F3">
-<!ENTITY findPrevCmd.label "Find forrige">
-<!ENTITY findPrevCmd.accesskey "f">
-<!ENTITY findPrevCmd.key "G">
-<!ENTITY findPrevCmd.key2 "VK_F3">
 <!ENTITY enableInlineSpellChecker.label "Løbende stavekontrol">
 <!ENTITY enableInlineSpellChecker.accesskey "S">
 <!ENTITY checkSpellingCmd2.label "Stavekontrol…">
@@ -139,23 +125,6 @@
 <!ENTITY createLinkCmd.accesskey "k">
 <!ENTITY editLinkCmd.label "Rediger linket i vinduet &quot;Ny meddelelse&quot;">
 <!ENTITY editLinkCmd.accesskey "i">
-<!-- (Toplevel Edit menu uses utilityOverlay) -->
-<!ENTITY undoCmd.label "Fortryd">
-<!ENTITY undoCmd.accesskey "F">
-<!ENTITY redoCmd.label "Gendan">
-<!ENTITY redoCmd.accesskey "g">
-<!ENTITY cutCmd.label "Klip">
-<!ENTITY cutCmd.accesskey "k">
-<!ENTITY copyCmd.label "Kopier">
-<!ENTITY copyCmd.accesskey "o">
-<!ENTITY pasteCmd.label "Indsæt">
-<!ENTITY pasteCmd.accesskey "æ">
-<!ENTITY deleteCmd.label "Slet">
-<!ENTITY deleteCmd.accesskey "S">
-<!ENTITY clearCmd.label "Ryd">
-<!ENTITY clearCmd.accesskey "R">
-<!ENTITY selectAllCmd.label "Marker alt">
-<!ENTITY selectAllCmd.accesskey "a">
 
 <!-- Font Face SubMenu -->
 <!ENTITY FontFaceSelect.tooltip "Vælg en skrifttype">
@@ -232,7 +201,7 @@
 <!ENTITY styleAcronym.accesskey "r">
 <!ENTITY styleCode.label "Kode">
 <!ENTITY styleCode.accesskey "k">
-<!ENTITY styleSamp.label "output-eksempel">
+<!ENTITY styleSamp.label "Output-eksempel">
 <!ENTITY styleSamp.accesskey "p">
 <!ENTITY styleVar.label "Variabel">
 <!ENTITY styleVar.accesskey "v">
@@ -396,6 +365,9 @@
 <!ENTITY openToolbarCmd.tooltip "Åbn en lokal fil">
 <!ENTITY saveToolbarCmd.tooltip "Gem filen lokalt">
 <!ENTITY publishToolbarCmd.tooltip "Overfør filen til en anden maskine">
+<!ENTITY cutToolbarCmd.tooltip "Klip">
+<!ENTITY copyToolbarCmd.tooltip "Kopier">
+<!ENTITY pasteToolbarCmd.tooltip "Indsæt">
 <!ENTITY printToolbarCmd.label "Udskriv">
 <!ENTITY printToolbarCmd.tooltip "Udskriv denne side">
 <!ENTITY findToolbarCmd.label "Find">

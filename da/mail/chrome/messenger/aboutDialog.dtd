@@ -63,22 +63,4 @@
 <!ENTITY channel.description.start  "Du benytter i øjeblikket ">
 <!ENTITY channel.description.end    " opdateringskanal ">
 
-<!ENTITY channel.change             "Skift">
-
-<!ENTITY channel.release.description       "Nyd den afprøvede og gennemtestede udgivelse som bruges af mange milloner verdenen over. Bevar kontrollen med din oplevelse på nettet med super hastighed, øget mulighed for tilpasning og de seneste web-teknologier.">
-<!ENTITY channel.beta.description          "Oplev nye tiltag med øget stabilitet. Giv feedback, så vi kan forbedre og finpudse funktioner, som er tiltænk den næste udgivelse.">
-<!ENTITY channel.aurora.description        "Oplev de nyeste tiltag i et ustabilt miljø, som kræver hår på brystet. Giv feedback på funktioner og ydelsen så vi kan afgøre, hvad der kommer med i den næste udgivelse.">
-
-<!-- LOCALIZATION NOTE (channel.selector.start,channel.selector.end): channel.selector.start and
-     channel.selector.end create one sentence, with a channel selection menulist instered in between.
-     This is all in one line, so try to make the localized text short.
-     example: Switch to the [Stable] update channel. -->
-<!ENTITY channel.selector.start          "Skift til">
-<!ENTITY channel.selector.end            "opdateringskanal.">
-
-<!-- LOCALIZATION NOTE (channel.selector.applyButton): This button applies the user's choice to switch
-     to a new update channel and starts the application update process. -->
-<!ENTITY channel.selector.applyButton    "Anvend og opdater">
-<!ENTITY channel.selector.cancelButton   "Fortryd">
-
 <!ENTITY cmdCloseMac.commandKey "w">
