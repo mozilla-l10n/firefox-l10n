@@ -13,7 +13,7 @@
 <!ENTITY sync.setup.manual "Введите данные вашей учётной записи синхронизации">
 <!ENTITY sync.account "Имя учётной записи">
 <!ENTITY sync.password "Пароль">
-<!ENTITY sync.syncKey "Ключ синхронизации">
+<!ENTITY sync.recoveryKey "Ключ восстановления">
 <!ENTITY sync.customServer "Использовать свой сервер">
 <!ENTITY sync.serverURL "URL сервера">
 <!ENTITY sync.setup.connect "Соединиться">

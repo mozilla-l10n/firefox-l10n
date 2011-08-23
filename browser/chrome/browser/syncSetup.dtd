@@ -13,8 +13,8 @@
 <!ENTITY signIn.account2.accesskey "ч">
 <!ENTITY signIn.password.label "Пароль">
 <!ENTITY signIn.password.accesskey "р">
-<!ENTITY signIn.syncKey.label "Ключ синхронизации">
-<!ENTITY signIn.syncKey.accesskey "л">
+<!ENTITY signIn.recoveryKey.label "Ключ восстановления">
+<!ENTITY signIn.recoveryKey.accesskey "л">
 <!ENTITY setup.newAccountDetailsPage.title.label "Данные учётной записи">
 <!ENTITY setup.emailAddress.label "Адрес эл. почты">
 <!ENTITY setup.emailAddress.accesskey "с">
@@ -29,12 +29,12 @@
 <!ENTITY setup.ppLink.label "Политику приватности">
 <!ENTITY setup.tosAgree3.label "">
 <!ENTITY setup.tosAgree2.accesskey "">
-<!ENTITY setup.newSyncKeyPage.title.label "&brandShortName; заботится о вашей приватности">
-<!ENTITY setup.newSyncKeyPage.description.label "Чтобы обеспечить абсолютную приватность, все ваши данные перед их загрузкой шифруются. Ключ синхронизации, необходимый для расшифровки ваших данных, не загружается.">
-<!ENTITY syncKeyEntry.label "Ваш ключ синхронизации">
-<!ENTITY syncKeyEntry.accesskey "к">
+<!ENTITY setup.newRecoveryKeyPage.title.label "&brandShortName; заботится о вашей приватности">
+<!ENTITY setup.newRecoveryKeyPage.description.label "Чтобы обеспечить абсолютную приватность, все ваши данные перед их загрузкой шифруются. Ключ восстановления, необходимый для расшифровки ваших данных, не загружается.">
+<!ENTITY recoveryKeyEntry.label "Ваш ключ восстановления">
+<!ENTITY recoveryKeyEntry.accesskey "к">
 <!ENTITY syncGenerateNewKey.label "Сгенерировать новый ключ">
-<!ENTITY syncKeyBackup.description "Ваш ключ синхронизации требуется для получения доступа к &syncBrand.fullName.label; с других машин. Пожалуйста, создайте его резервную копию. Мы не можем помочь вам восстановить ваш ключ синхронизации.">
+<!ENTITY recoveryKeyBackup.description "Ваш ключ восстановления требуется для получения доступа к &syncBrand.fullName.label; с других машин. Пожалуйста, создайте его резервную копию. Мы не можем помочь вам восстановить ваш ключ восстановления.">
 <!ENTITY button.syncKeyBackup.print.label "Распечатать…">
 <!ENTITY button.syncKeyBackup.print.accesskey "ч">
 <!ENTITY button.syncKeyBackup.save.label "Сохранить…">
@@ -49,10 +49,10 @@
 <!ENTITY addDevice.dialog.enterCode.label "Введите предоставленный устройством код:">
 <!ENTITY addDevice.dialog.tryAgain.label "Пожалуйста, попробуйте снова.">
 <!ENTITY addDevice.dialog.successful.label "Устройство было успешно добавлено. Первоначальная синхронизация может занять несколько минут и завершится в фоновом режиме.">
-<!ENTITY addDevice.dialog.syncKey.label "Чтобы активировать ваше устройство, вам необходимо ввести свой ключ синхронизации. Пожалуйста, распечатайте или сохраните этот ключ и возьмите его с собой.">
+<!ENTITY addDevice.dialog.recoveryKey.label "Чтобы активировать ваше устройство, вам необходимо ввести свой ключ восстановления. Пожалуйста, распечатайте или сохраните этот ключ и возьмите его с собой.">
 <!ENTITY addDevice.dialog.connected.label "Устройство подсоединено">
 <!ENTITY setup.signInPage.title.label "Регистрация">
-<!ENTITY existingSyncKey.description "Вы можете получить копию вашего ключа синхронизации, открыв на другом вашем устройстве настройки &syncBrand.shortName.label; и выбрав в меню «Управление учётной записью» команду «Мой ключ синхронизации».">
+<!ENTITY existingRecoveryKey.description "Вы можете получить копию вашего ключа восстановления, открыв на другом вашем устройстве настройки &syncBrand.shortName.label; и выбрав в меню «Управление учётной записью» команду «Мой ключ восстановления».">
 <!ENTITY verifying.label "Проверка…">
 <!ENTITY resetPassword.label "Сбросить пароль">
 <!ENTITY resetSyncKey.label "Я потерял другое устройство">
