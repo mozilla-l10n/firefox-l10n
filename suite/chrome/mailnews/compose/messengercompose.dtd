@@ -14,7 +14,6 @@
 <!ENTITY newMessage.label "Zpráva">
 <!ENTITY newMessage.accesskey "Z">
 <!ENTITY saveCmd.label "Uložit">
-<!ENTITY saveCmd.key "S">
 <!ENTITY saveCmd.accesskey "u">
 <!ENTITY saveAsCmd.label "Uložit jako">
 <!ENTITY saveAsCmd.accesskey "J">
