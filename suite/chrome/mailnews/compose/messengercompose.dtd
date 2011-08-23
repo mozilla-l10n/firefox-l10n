@@ -128,8 +128,6 @@
 <!ENTITY spellCheckIgnoreWord.accesskey "I">
 <!ENTITY spellCheckAddToDictionary.label "Přidat do slovníku">
 <!ENTITY spellCheckAddToDictionary.accesskey "p">
-<!ENTITY pasteQuote.label "Vložit jako citaci">
-<!ENTITY pasteQuote.accesskey "C">
 
 <!ENTITY openAttachment.label "Otevřít">
 <!ENTITY openAttachment.accesskey "O">
