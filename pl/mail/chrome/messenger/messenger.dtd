@@ -123,6 +123,8 @@
 <!ENTITY redoDefaultCmd.accesskey          "P">
 
 <!-- View Menu -->
+<!ENTITY menubarCmd.label                  "Pasek menu">
+<!ENTITY menubarCmd.accesskey              "m">
 <!ENTITY showMessengerToolbarCmd.label     "Pasek narzędzi poczty">
 <!ENTITY showMessengerToolbarCmd.accesskey "o">
 <!ENTITY customizeToolbar.label            "Dostosuj…">

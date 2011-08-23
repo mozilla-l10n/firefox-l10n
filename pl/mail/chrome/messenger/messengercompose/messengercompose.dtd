@@ -91,6 +91,8 @@
 <!ENTITY viewMenu.accesskey                  "W">
 <!ENTITY viewToolbarsMenuNew.label           "Paski narzędzi">
 <!ENTITY viewToolbarsMenuNew.accesskey       "n">
+<!ENTITY menubarCmd.label                    "Pasek menu">
+<!ENTITY menubarCmd.accesskey                "m">
 <!ENTITY showCompositionToolbarCmd.label     "Pasek narzędzi poczty">
 <!ENTITY showCompositionToolbarCmd.accesskey "P">
 <!ENTITY showFormattingBarCmd.label          "Pasek narzędzi formatowania">
