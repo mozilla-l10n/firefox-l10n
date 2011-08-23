@@ -1,17 +1,17 @@
 <!ENTITY aboutDialog.title "Acerca de &brandFullName;">
-<!ENTITY community.start2 "&brandShortName; está diseñado por ">
+<!ENTITY community.start2 "&brandShortName; es diseñado por ">
 <!ENTITY community.mozillaLink "&vendorShortName;">
 <!ENTITY community.middle2 ", una ">
 <!ENTITY community.creditsLink "comunidad global">
-<!ENTITY community.end2 "trabajando unida para hacer un internet mejor. Creemos que internet debería ser abierto, público y accesible para todos sin restricción alguna.">
+<!ENTITY community.end2 " trabajando unida para hacer un Internet mejor. Creemos que Internet debe ser abierto, público y accesible para todos sin restricción alguna.">
 <!ENTITY contribute.start "¿Suena interesante? ">
 <!ENTITY contribute.getInvolvedLink "¡Participa!">
 <!ENTITY contribute.end "">
 <!ENTITY bottomLinks.license "información de licencia">
 <!ENTITY bottomLinks.rights "Derechos del usuario final">
 <!ENTITY bottomLinks.privacy "Política de privacidad">
-<!ENTITY update.checkingForUpdates "Verificando actualizaciones...">
-<!ENTITY update.checkingAddonCompat "Combrando compatibilidad de complemento">
+<!ENTITY update.checkingForUpdates "Buscando actualizaciones…">
+<!ENTITY update.checkingAddonCompat "Verificando la compatibilidad del complemento…">
 <!ENTITY update.noUpdatesFound "&brandShortName; está actualizado">
 <!ENTITY update.adminDisabled "Actualizaciones deshabilitadas por tu administrador de sistema">
 <!ENTITY update.failed.start "Actualización fallida. ">
@@ -22,4 +22,4 @@
 <!ENTITY update.downloading.start "Descargando actualización — ">
 <!ENTITY update.downloading.end "">
 <!ENTITY channel.description.start "Estás usando el canal ">
-<!ENTITY channel.description.end "actualizar canal. ">
+<!ENTITY channel.description.end " de actualizaciones. ">
