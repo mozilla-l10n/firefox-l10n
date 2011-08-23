@@ -59,6 +59,7 @@
 <!ENTITY editMessageButton.label "Rediger…">
 <!ENTITY hdrArchiveButton.label "Arkiver">
 <!ENTITY hdrArchiveButton.tooltip "Arkiver denne meddelelse">
+<!ENTITY hdrSmartReplyButton.label "Smart svar">
 <!ENTITY hdrReplyButton.label "Svar">
 <!ENTITY hdrReplyButton.tooltip "Svar på denne meddelelse">
 <!ENTITY hdrReplyAllButton.label "Svar til alle">

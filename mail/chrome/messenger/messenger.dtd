@@ -227,6 +227,8 @@
 <!ENTITY bodySanitized.accesskey "S">
 <!ENTITY bodyAsPlaintext.label "Ren tekst">
 <!ENTITY bodyAsPlaintext.accesskey "R">
+<!ENTITY bodyAllParts.label "Al indhold">
+<!ENTITY bodyAllParts.accesskey "l">
 
 <!ENTITY bodyMenuFeed.label "Feed-meddelelsens indhold som">
 <!ENTITY bodyMenuFeed.accesskey "F">
