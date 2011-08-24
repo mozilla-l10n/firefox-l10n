@@ -14,7 +14,7 @@
 <!ENTITY sync.setup.manual          "Ange dina Sync-kontouppgifter">
 <!ENTITY sync.account               "Kontonamn">
 <!ENTITY sync.password              "Lösenord">
-<!ENTITY sync.syncKey               "Sync-nyckel">
+<!ENTITY sync.recoveryKey           "Återställningsnyckel">
 <!ENTITY sync.customServer          "Använd en egen server">
 <!ENTITY sync.serverURL             "Server-URL">
 <!ENTITY sync.setup.connect         "Anslut">
