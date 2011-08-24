@@ -14,7 +14,7 @@
 <!ENTITY sync.setup.manual          "請輸入您的 Sync 帳號資訊">
 <!ENTITY sync.account               "帳號名稱">
 <!ENTITY sync.password              "密碼">
-<!ENTITY sync.syncKey               "同步金鑰">
+<!ENTITY sync.recoveryKey           "救援金鑰">
 <!ENTITY sync.customServer          "使用自訂伺服器">
 <!ENTITY sync.serverURL             "伺服器網址">
 <!ENTITY sync.setup.connect         "連線">

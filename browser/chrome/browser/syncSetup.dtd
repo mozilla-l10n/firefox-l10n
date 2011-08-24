@@ -19,8 +19,8 @@
 <!ENTITY signIn.account2.accesskey  "A">
 <!ENTITY signIn.password.label      "密碼">
 <!ENTITY signIn.password.accesskey  "P">
-<!ENTITY signIn.syncKey.label       "同步金鑰">
-<!ENTITY signIn.syncKey.accesskey   "K">
+<!ENTITY signIn.recoveryKey.label       "救援金鑰">
+<!ENTITY signIn.recoveryKey.accesskey   "K">
 
 <!-- New Account Page 1: Basic Account Info -->
 <!ENTITY setup.newAccountDetailsPage.title.label "帳號資料">
@@ -41,12 +41,12 @@
 <!ENTITY setup.tosAgree2.accesskey  "a">
 
 <!-- New Account Page 2: Sync Key -->
-<!ENTITY setup.newSyncKeyPage.title.label "&brandShortName; 在乎您的隱私">
-<!ENTITY setup.newSyncKeyPage.description.label "為了確保您的隱私，您所有的資料都會在上傳前被加密。同時也需要金鑰來解密還沒有上傳的資料。">
-<!ENTITY syncKeyEntry.label        "您的同步金鑰">
-<!ENTITY syncKeyEntry.accesskey    "K">
+<!ENTITY setup.newRecoveryKeyPage.title.label "&brandShortName; 在乎您的隱私">
+<!ENTITY setup.newRecoveryKeyPage.description.label "為了確保您的隱私，您所有的資料會在上傳前就被加密。您需要救援金鑰才能解密您未上傳的資料。">
+<!ENTITY recoveryKeyEntry.label        "您的救援金鑰">
+<!ENTITY recoveryKeyEntry.accesskey    "K">
 <!ENTITY syncGenerateNewKey.label  "產生新的金鑰">
-<!ENTITY syncKeyBackup.description "您需要同步金鑰以存取其他電腦上的 &syncBrand.fullName.label;。請記得做好備份，我們無法幫您找回同步金鑰。">
+<!ENTITY recoveryKeyBackup.description "您需要救援金鑰才能在其他電腦上存取 &syncBrand.fullName.label;。請記得留下備份，我們無法幫您找回救援金鑰。">
 
 <!ENTITY button.syncKeyBackup.print.label     "列印…">
 <!ENTITY button.syncKeyBackup.print.accesskey "P">
@@ -65,12 +65,12 @@
 <!ENTITY addDevice.dialog.enterCode.label   "在此輸入該裝置所提供的代碼:">
 <!ENTITY addDevice.dialog.tryAgain.label    "請再試一次。">
 <!ENTITY addDevice.dialog.successful.label  "已成功新增此裝置。第一次的同步可能需要幾分鐘，並會在背景中完成。">
-<!ENTITY addDevice.dialog.syncKey.label     "若要啟用您裝置您需要輸入同步金鑰。請把這把金鑰存起來或印出來，並把它帶在身邊。">
+<!ENTITY addDevice.dialog.recoveryKey.label     "您需要輸入您的救援金鑰才能啟用您的裝置。請把這把金鑰印出來或儲存下來保存。">
 <!ENTITY addDevice.dialog.connected.label   "裝置已連線">
 
 <!-- Existing Account Page 2: Manual Login -->
 <!ENTITY setup.signInPage.title.label "登入">
-<!ENTITY existingSyncKey.description "您可以在您其他裝置上的 &syncBrand.shortName.label; 選項 -> 管理帳號 -> 我的同步金鑰 當中找到您的同步金鑰。">
+<!ENTITY existingRecoveryKey.description "您可以在其他裝置上的 &syncBrand.shortName.label; 選項選擇「管理帳號」>「我的救援金鑰」找回您的救援金鑰。">
 <!ENTITY verifying.label              "驗證中…">
 <!ENTITY resetPassword.label          "重設密碼">
 <!ENTITY resetSyncKey.label           "我把我其他的裝置搞丟了。">
