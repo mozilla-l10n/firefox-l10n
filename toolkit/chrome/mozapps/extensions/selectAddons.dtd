@@ -1,4 +1,4 @@
-<!ENTITY upgrade.style "width: 128ch; height: 448px;">
+<!ENTITY upgrade.style "width: 104ch; height: 448px;">
 <!ENTITY checking.heading "Controllo dei componenti aggiuntivi">
 <!ENTITY checking.progress.label "Controllo in corso della compatibilità dei componenti aggiuntivi con questa versione di &brandShortName;.">
 <!ENTITY select.heading "Selezione dei componenti aggiuntivi">
