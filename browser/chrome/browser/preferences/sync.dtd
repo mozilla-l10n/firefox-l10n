@@ -14,7 +14,7 @@
 <!ENTITY manageAccount.accesskey      "k">
 <!ENTITY viewQuota.label              "Visa kvot">
 <!ENTITY changePassword2.label         "Byt lösenord…">
-<!ENTITY mySyncKey.label              "Min Sync-nyckel">
+<!ENTITY mySyncKey.label              "Min återställningsnyckel">
 <!ENTITY resetSync2.label              "Återställ Sync…">
 
 <!ENTITY addDevice.label              "Lägg till enhet">
