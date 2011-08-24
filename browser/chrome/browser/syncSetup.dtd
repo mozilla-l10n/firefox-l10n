@@ -13,8 +13,8 @@
 <!ENTITY signIn.account2.accesskey "A">
 <!ENTITY signIn.password.label "Password">
 <!ENTITY signIn.password.accesskey "P">
-<!ENTITY signIn.syncKey.label "Chiave Sync">
-<!ENTITY signIn.syncKey.accesskey "y">
+<!ENTITY signIn.recoveryKey.label "Chiave di ripristino">
+<!ENTITY signIn.recoveryKey.accesskey "v">
 <!ENTITY setup.newAccountDetailsPage.title.label "Dettagli dell'account">
 <!ENTITY setup.emailAddress.label "Indirizzo e-mail">
 <!ENTITY setup.emailAddress.accesskey "e">
@@ -29,12 +29,12 @@
 <!ENTITY setup.ppLink.label "l'informativa sulla privacy">
 <!ENTITY setup.tosAgree3.label "">
 <!ENTITY setup.tosAgree2.accesskey "">
-<!ENTITY setup.newSyncKeyPage.title.label "&brandShortName; ha a cuore la privacy dei suoi utenti">
-<!ENTITY setup.newSyncKeyPage.description.label "Per garantire la massima privacy, tutti i dati vengono cifrati prima della trasmissione. La Chiave Sync necessaria per decifrarli non viene caricata sul server.">
-<!ENTITY syncKeyEntry.label "Chiave Sync">
-<!ENTITY syncKeyEntry.accesskey "C">
+<!ENTITY setup.newRecoveryKeyPage.title.label "&brandShortName; ha a cuore la privacy dei suoi utenti">
+<!ENTITY setup.newRecoveryKeyPage.description.label "Per garantire la massima privacy, tutti i dati vengono cifrati prima della trasmissione. La chiave di ripristino necessaria per decifrarli non viene caricata sul server.">
+<!ENTITY recoveryKeyEntry.label "Chiave di ripristino">
+<!ENTITY recoveryKeyEntry.accesskey "v">
 <!ENTITY syncGenerateNewKey.label "Genera una nuova chiave">
-<!ENTITY syncKeyBackup.description "La Chiave Sync è indispensabile per accedere a &syncBrand.fullName.label; da altri computer. Si consiglia di crearne una copia di sicurezza in quanto non è possibile recuperarla in caso di smarrimento.">
+<!ENTITY recoveryKeyBackup.description "La chiave di ripristino è indispensabile per accedere a &syncBrand.fullName.label; da altri dispositivi. Si consiglia di crearne una copia di sicurezza in quanto non è possibile recuperarla in caso di smarrimento.">
 <!ENTITY button.syncKeyBackup.print.label "Stampa…">
 <!ENTITY button.syncKeyBackup.print.accesskey "m">
 <!ENTITY button.syncKeyBackup.save.label "Salva…">
@@ -49,10 +49,10 @@
 <!ENTITY addDevice.dialog.enterCode.label "Inserire il codice fornito dal dispositivo:">
 <!ENTITY addDevice.dialog.tryAgain.label "Riprovare">
 <!ENTITY addDevice.dialog.successful.label "Il dispositivo è stato aggiunto correttamente. La sincronizzazione iniziale può richiedere diversi minuti e verrà completata senza ulteriori interventi mentre si prosegue con la navigazione.">
-<!ENTITY addDevice.dialog.syncKey.label "Per attivare il dispositivo è necessario inserire la propria Chiave Sync. Si consiglia di stampare o salvare questa chiave e portarla con sé.">
+<!ENTITY addDevice.dialog.recoveryKey.label "Per attivare il dispositivo è necessario inserire la propria chiave di ripristino. Si consiglia di stampare o salvare questa chiave e portarla con sé.">
 <!ENTITY addDevice.dialog.connected.label "Dispositivo connesso">
 <!ENTITY setup.signInPage.title.label "Accedi">
-<!ENTITY existingSyncKey.description 'È possibile ottenere una copia della Chiave Sync aprendo le Opzioni di &syncBrand.shortName.label; su un altro dispositivo e selezionando "Chiave Sync" in "Gestione account".'>
+<!ENTITY existingRecoveryKey.description 'È possibile ottenere una copia della chiave di ripristino aprendo le Opzioni di &syncBrand.shortName.label; su un altro dispositivo e selezionando "Chiave di ripristino" in "Gestione account".'>
 <!ENTITY verifying.label "Verifica in corso…">
 <!ENTITY resetPassword.label "Ripristina la password">
 <!ENTITY resetSyncKey.label "Ho perso l'altro dispositivo.">
