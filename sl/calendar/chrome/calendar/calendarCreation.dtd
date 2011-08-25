@@ -37,7 +37,7 @@
 <!ENTITY wizard.label             "Ustvari nov koledar">
 <!ENTITY wizard.description       "Poiščite svoj koledar">
 
-<!ENTITY initialpage.description  "Vaš koledar je lahko shranjen na vašem računalniku ali na strežniku, tako da lahko do njega dostopate oddaljeno ali ga delite s prijatelji ali sodelavci.">
+<!ENTITY initialpage.description  "Vaš koledar je lahko shranjen na vašem računalniku ali na strežniku, tako da ga lahko uporabljate oddaljeno ali ga delite s prijatelji ali sodelavci.">
 <!ENTITY initialpage.computer.label  "Na računalniku">
 <!ENTITY initialpage.network.label "V omrežju">
 
