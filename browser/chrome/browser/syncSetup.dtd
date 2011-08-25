@@ -65,7 +65,7 @@
 <!ENTITY addDevice.dialog.enterCode.label   "Ingrese el código que provee el dispositivo:">
 <!ENTITY addDevice.dialog.tryAgain.label    "Intente nuevamente.">
 <!ENTITY addDevice.dialog.successful.label  "El dispositivo fue agregado exitosamente. La sincronización inicial puede tomar varios minutos y terminará en segundo plano.">
-<!ENTITY addDevice.dialog.syncKey.label     "Para activar su dispositivo necesitará ingresar su clave de sincronización. Imprima oguarde esta clave y téngala a mano.">
+<!ENTITY addDevice.dialog.syncKey.label     "Para activar su dispositivo necesitará ingresar su clave de sincronización. Imprima o guarde esta clave y téngala a mano.">
 <!ENTITY addDevice.dialog.connected.label   "Dispositivo conectado">
 
 <!-- Existing Account Page 2: Manual Login -->
