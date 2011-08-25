@@ -30,8 +30,8 @@
 <!ENTITY alwaysAsk.label "Pri vsakem prenosu vprašaj, kam želim shraniti datoteko">
 <!ENTITY alwaysAsk.accesskey "V">
 
-<!ENTITY addonsMgr.label "Razširitve in teme">
-<!ENTITY manageAddonsDescWin.label "Spremeni nastavitve razširitev in tem">
-<!ENTITY manageAddonsDescUnix2.label "Spremeni nastavitve razširitev in tem">
-<!ENTITY manageAddons.label "Razširitve in teme ...">
+<!ENTITY addonsMgr.label "Dodatki">
+<!ENTITY manageAddonsDescWin.label "Spremenite nastavitve svojih dodatkov">
+<!ENTITY manageAddonsDescUnix2.label "Spremenite nastavitve svojih dodatkov">
+<!ENTITY manageAddons.label "Upravljanje dodatkov ...">
 <!ENTITY manageAddons.accesskey "R">

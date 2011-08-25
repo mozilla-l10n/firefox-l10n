@@ -20,5 +20,5 @@
 <!ENTITY privatebrowsingpage.howToStop2                "Zasebno brskanje lahko izključite tudi z izbiro &basePBMenu.label; &gt; &privateBrowsingCmd.stop.label;, ali z zapiranjem &brandShortName;a.">
 <!ENTITY privatebrowsingpage.howToStart2               "Zasebno brskanje lahko vključite tudi z izbiro &basePBMenu.label; &gt; &privateBrowsingCmd.start.label;.">
 
-<!ENTITY privatebrowsingpage.moreInfo                  "Kljub temu da ta računalnik ne bo hranil zgodovine brskanja, lahko vaš ponudnik internetnih storitev še vedno sledi stranem, ki ste jih obsikali.">
+<!ENTITY privatebrowsingpage.moreInfo                  "Kljub temu da ta računalnik ne bo hranil zgodovine brskanja, lahko vaš ponudnik internetnih storitev še vedno sledi stranem, ki ste jih obiskali.">
 <!ENTITY privatebrowsingpage.learnMore                 "Več o tem">

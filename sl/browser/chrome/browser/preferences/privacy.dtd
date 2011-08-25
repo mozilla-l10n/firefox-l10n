@@ -19,7 +19,7 @@
 <!ENTITY  acceptCookies.label "Dovoli stranem, da ustvarijo piškote.">
 <!ENTITY  acceptCookies.accesskey "p">
 
-<!ENTITY  acceptThirdParty.label "Sprejmi piškote tretjih strani">
+<!ENTITY  acceptThirdParty.label "Sprejemaj piškote tretjih strani">
 <!ENTITY  acceptThirdParty.accesskey "p">
 
 <!ENTITY  keepUntil.label "Obdrži jih:">
