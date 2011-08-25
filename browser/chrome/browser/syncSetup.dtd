@@ -1,4 +1,4 @@
-<!ENTITY accountSetupTitle.label    "&syncBrand.fullName.label;: Namestitev">
+<!ENTITY accountSetupTitle.label    "&syncBrand.fullName.label;: namestitev">
 
 <!-- First page of the wizard -->
 
@@ -13,7 +13,7 @@
 
 <!-- New Account AND Existing Account -->
 <!ENTITY server.label               "Strežnik">
-<!ENTITY serverType.main.label      "Strežnik stortive &syncBrand.fullName.label;">
+<!ENTITY serverType.main.label      "Strežnik storitve &syncBrand.fullName.label;">
 <!ENTITY serverType.custom2.label   "Uporabi strežnik po meri …">
 <!ENTITY signIn.account2.label      "Račun">
 <!ENTITY signIn.account2.accesskey  "R">
@@ -63,7 +63,7 @@
 <!ENTITY addDevice.setup.enterCode.label    "Nato vnesite to kodo:">
 <!ENTITY addDevice.dialog.description.label "Za vklop vaše nove naprave v njenih nastavitvah storitve &syncBrand.shortName.label; izberite &#x0022;Poveži.&#x0022;">
 <!ENTITY addDevice.dialog.enterCode.label   "Vnesite kodo, ki jo ponuja naprava:">
-<!ENTITY addDevice.dialog.tryAgain.label    "Poskusite ponovno.">
+<!ENTITY addDevice.dialog.tryAgain.label    "Poskusite znova.">
 <!ENTITY addDevice.dialog.successful.label  "Naprava je bila dodana uspešno. Začetno usklajevanje lahko traja nekaj minut in se bo končala v ozadju.">
 <!ENTITY addDevice.dialog.syncKey.label     "Za vklop vaše naprave boste morali vnesti svoj usklajevalni ključ. Natisnite ga ali shranite in ga imejte pri sebi.">
 <!ENTITY addDevice.dialog.connected.label   "Naprava je povezana">

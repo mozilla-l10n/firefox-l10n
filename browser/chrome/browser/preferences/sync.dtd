@@ -1,7 +1,7 @@
 <!-- The page shown when not logged in... -->
 <!ENTITY setupButton.label          "Nastavi storitev &syncBrand.fullName.label;">
 <!ENTITY setupButton.accesskey      "s">
-<!ENTITY weaveDesc.label            "&syncBrand.fullName.label; omogoča dostop do zgodovine, zaznamkov, gesel in odprtih zavihkov vseh vaših naprav.">
+<!ENTITY weaveDesc.label            "&syncBrand.fullName.label; omogoča dostop do zgodovine, zaznamkov, gesel in odprtih zavihkov na vseh vaših napravah.">
 
 <!-- The page shown when logged in... -->
 

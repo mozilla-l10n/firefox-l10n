@@ -32,4 +32,4 @@
      using the same language used for the permIndexedDB string in browser/pageInfo.dtd -->
 <!ENTITY indexedDB.label                 "Shramba za delo brez povezave">
 
-<!ENTITY popup.label                     "Odpiranje nezahtevanih oken">
+<!ENTITY popup.label                     "Odpiranje neželenih oken">
