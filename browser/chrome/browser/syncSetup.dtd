@@ -19,8 +19,8 @@
 <!ENTITY signIn.account2.accesskey  "e">
 <!ENTITY signIn.password.label "Contraseña">
 <!ENTITY signIn.password.accesskey "C">
-<!ENTITY signIn.syncKey.label       "Clave de sincronización">
-<!ENTITY signIn.syncKey.accesskey   "z">
+<!ENTITY signIn.recoveryKey.label       "Clave de recuperación">
+<!ENTITY signIn.recoveryKey.accesskey   "r">
 
 <!-- New Account Page 1: Basic Account Info -->
 <!ENTITY setup.newAccountDetailsPage.title.label "Detalles de cuenta">
@@ -41,12 +41,12 @@
 <!ENTITY setup.tosAgree2.accesskey "">
 
 <!-- New Account Page 2: Sync Key -->
-<!ENTITY setup.newSyncKeyPage.title.label "&brandShortName; se preocupa por su privacidad">
-<!ENTITY setup.newSyncKeyPage.description.label "Para asegurar su total privacidad, todos sus datos son cifrados antes de ser subidos. La clave para descifrar sus datos no es subida.">
-<!ENTITY syncKeyEntry.label        "Su clave de sincronización">
-<!ENTITY syncKeyEntry.accesskey    "z">
+<!ENTITY setup.newRecoveryKeyPage.title.label "&brandShortName; se preocupa por su privacidad">
+<!ENTITY setup.newRecoveryKeyPage.description.label "Para asegurar su total privacidad, todos sus datos son cifrados antes de ser subidos. La clave de recuperacion necesaria para descifrar sus datos no es subida.">
+<!ENTITY recoveryKeyEntry.label        "Su clave de recuperación">
+<!ENTITY recoveryKeyEntry.accesskey    "r">
 <!ENTITY syncGenerateNewKey.label  "Generar una nueva clave">
-<!ENTITY syncKeyBackup.description "Se requiere su clave de sincronización para acceder a &syncBrand.fullName.label; en otras máquinas. Debe crear una copia de seguridad. No podemos ayudarlo a recuperar su clave de sincronización.">
+<!ENTITY recoveryKeyBackup.description "Se requiere su clave de recuperación para acceder a &syncBrand.fullName.label; en otros dispositivos. Debe crear una copia de seguridad. No podemos ayudarlo a recuperar su clave de recuperación.">
 
 <!ENTITY button.syncKeyBackup.print.label     "Imprimir…">
 <!ENTITY button.syncKeyBackup.print.accesskey "p">
@@ -65,12 +65,12 @@
 <!ENTITY addDevice.dialog.enterCode.label   "Ingrese el código que provee el dispositivo:">
 <!ENTITY addDevice.dialog.tryAgain.label    "Intente nuevamente.">
 <!ENTITY addDevice.dialog.successful.label  "El dispositivo fue agregado exitosamente. La sincronización inicial puede tomar varios minutos y terminará en segundo plano.">
-<!ENTITY addDevice.dialog.syncKey.label     "Para activar su dispositivo necesitará ingresar su clave de sincronización. Imprima oguarde esta clave y téngala a mano.">
+<!ENTITY addDevice.dialog.recoveryKey.label     "Para activar su dispositivo necesitará ingresar su clave de recuperación. Imprima o guarde esta clave y téngala a mano.">
 <!ENTITY addDevice.dialog.connected.label   "Dispositivo conectado">
 
 <!-- Existing Account Page 2: Manual Login -->
 <!ENTITY setup.signInPage.title.label "Ingresar">
-<!ENTITY existingSyncKey.description "Puede obtener una copia de su clave de sincronización yendo a las Opciones de &syncBrand.shortName.label; en su otro dispositivo y seleccionando &#x0022;Mi clave de sincronización&#x0022; en &#x0022;Administrar cuenta&#x0022;.">
+<!ENTITY existingRecoveryKey.description "Puede obtener una copia de su clave de recuperación yendo a las Opciones de &syncBrand.shortName.label; en su otro dispositivo y seleccionando &#x0022;Mi clave de recuperación&#x0022; en &#x0022;Administrar cuenta&#x0022;.">
 <!ENTITY verifying.label              "Verificando…">
 <!ENTITY resetPassword.label          "Restablecer contraseña">
 <!ENTITY resetSyncKey.label           "He perdido mi otro dispositivo.">
