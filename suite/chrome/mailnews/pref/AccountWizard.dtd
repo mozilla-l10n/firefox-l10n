@@ -5,9 +5,9 @@
 
 <!-- Entities for Account Type page -->
 
-<!ENTITY accountSetupInfo.label "Para poder receber mensagens,tem que configurar primeiro uma conta de correio ou de um Grupo de Discussão.">
+<!ENTITY accountSetupInfo2.label "Para poder receber mensagens,tem que configurar primeiro uma conta de correio ou de um Grupo de Discussão.">
 <!ENTITY accountTypeTitle.label "Configurar Nova Conta">
-<!ENTITY accountTypeDesc.label "Este Assistente vai reunir as informações necessárias para configurar uma conta de correio ou de um Grupo de Discussão. Se não souber a informação necessária, contacte o seu administrador de Sistema ou Fornecedor de Serviço Internet.">
+<!ENTITY accountTypeDesc2.label "Este Assistente vai reunir as informações necessárias para configurar uma conta de correio ou de um Grupo de Discussão. Se não souber a informação necessária, contacte o seu administrador de Sistema ou Fornecedor de Serviço Internet.">
 <!ENTITY accountTypeDirections.label "Seleccione o tipo de conta que você deseja configurar:">
 <!ENTITY accountTypeMail.label "Conta de Correio">
 <!ENTITY accountTypeMail.accesskey "C">
