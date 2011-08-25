@@ -500,12 +500,14 @@ you can use these alternative items. Otherwise, their values should be empty.  -
 <!ENTITY previousButton.label "Anterior">
 <!ENTITY backButton1.label "Anterior">
 <!ENTITY goForwardButton1.label "Seguinte">
+<!ENTITY deleteItem.title "Eliminar">
 <!ENTITY deleteButton.label "Eliminar">
 <!ENTITY undeleteButton.label "Não eliminar">
 <!ENTITY markButton.label "Marcar">
 <!ENTITY printButton.label "Imprimir">
 <!ENTITY stopButton.label "Parar">
 <!ENTITY throbberItem.title "Indicador de actividade">
+<!ENTITY junkItem.title "Lixo electrónico">
 <!ENTITY junkButton.label "Lixo electrónico">
 <!ENTITY notJunkButton.label "Não é lixo electrónico">
 <!ENTITY addressBookButton.label "Livro de endereços">
