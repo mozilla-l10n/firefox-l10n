@@ -14,7 +14,7 @@
 <!ENTITY sync.setup.manual          "Voer uw Sync-accountgegevens in">
 <!ENTITY sync.account               "Accountnaam">
 <!ENTITY sync.password              "Wachtwoord">
-<!ENTITY sync.syncKey               "Sync-sleutel">
+<!ENTITY sync.recoveryKey           "Herstelsleutel">
 <!ENTITY sync.customServer          "Eigen server gebruiken">
 <!ENTITY sync.serverURL             "Server-URL">
 <!ENTITY sync.setup.connect         "Verbinden">
