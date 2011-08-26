@@ -5,9 +5,9 @@
 
 <!-- Entities for Account Type page -->
 
-<!ENTITY accountSetupInfo.label "Para poder recibir mensajes, primero tiene que configurar una cuenta de correo o noticias.">
+<!ENTITY accountSetupInfo2.label "Para poder recibir mensajes, primero tiene que configurar una cuenta.">
 <!ENTITY accountTypeTitle.label "Configuración de nueva cuenta">
-<!ENTITY accountTypeDesc.label "Este asistente recogerá la información necesaria para configurar una cuenta de correo o noticias. Si desconoce la información que se le pide, por favor póngase en contacto con el administrador del sistema o su proveedor de Internet.">
+<!ENTITY accountTypeDesc2.label "Este asistente recogerá la información necesaria para configurar su cuenta. Si desconoce la información que se le pide, por favor póngase en contacto con el administrador del sistema o su proveedor de Internet.">
 <!ENTITY accountTypeDirections.label "Seleccione el tipo de cuenta que quiere configurar:">
 <!ENTITY accountTypeMail.label "Cuenta de correo electrónico">
 <!ENTITY accountTypeMail.accesskey "e">
