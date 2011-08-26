@@ -11,10 +11,12 @@
 <!ENTITY manageAccount.label          "ਅਕਾਊਂਟ ਪਰਬੰਧ">
 <!ENTITY manageAccount.accesskey      "A">
 <!ENTITY viewQuota.label              "ਕੋਟਾ ਵੇਖੋ">
-<!ENTITY changePassword.label         "ਪਾਸਵਰਡ ਬਦਲੋ">
+<!ENTITY changePassword2.label         "ਪਾਸਵਰਡ ਬਦਲੋ…">
 <!ENTITY mySyncKey.label              "ਮੇਰੀ ਸਿੰਕ ਕੁੰਜੀ">
-<!ENTITY resetSync.label              "ਸਿੰਕ ਮੁੜ-ਸੈੱਟ">
+<!ENTITY resetSync2.label              "ਸਿੰਕ ਪਾਸਵਰਡ ਮੁੜ-ਸੈੱਟ ਕਰੋ…">
+
 <!ENTITY addDevice.label              "ਜੰਤਰ ਸ਼ਾਮਲ ਕਰੋ">
+
 
 <!-- Sync Settings -->
 
@@ -33,7 +35,8 @@
 <!-- Device Settings -->
 <!ENTITY syncComputerName.label       "ਕੰਪਿਊਟਰ ਨਾਂ:">
 <!ENTITY syncComputerName.accesskey   "c">
-<!ENTITY deactivateDevice.label       "ਇਹ ਜੰਤਰ ਡੀ-ਐਕਟੀਵੇਟ ਕਰੋ">
+<!ENTITY unlinkDevice.label           "ਇਹ ਜੰਤਰ ਲਈ ਸਬੰਧ ਹਟਾਓ">
+
 
 
 <!-- Footer stuff -->
