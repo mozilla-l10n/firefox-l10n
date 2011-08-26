@@ -486,12 +486,14 @@
 <!ENTITY previousButton.label   "Poprzednia">
 <!ENTITY backButton1.label      "Wstecz">
 <!ENTITY goForwardButton1.label "Dalej">
+<!ENTITY deleteItem.title       "Usuń">
 <!ENTITY deleteButton.label     "Usuń">
 <!ENTITY undeleteButton.label   "Przywróć">
 <!ENTITY markButton.label       "Oznacz">
 <!ENTITY printButton.label      "Drukuj">
 <!ENTITY stopButton.label       "Zatrzymaj">
 <!ENTITY throbberItem.title     "Wskaźnik aktywności">
+<!ENTITY junkItem.title         "Niechciana">
 <!ENTITY junkButton.label       "Niechciana">
 <!ENTITY notJunkButton.label    "Pożądana">
 <!ENTITY addressBookButton.label         "Adresy">
