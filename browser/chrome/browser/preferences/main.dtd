@@ -5,6 +5,10 @@
 <!ENTITY startupHomePage.label     "ਮੇਰਾ ਮੇਨ ਪੇਜ਼ ਵੇਖੋ">
 <!ENTITY startupBlankPage.label    "ਇੱਕ ਖਾਲੀ ਪੇਜ਼ ਵੇਖੋ">
 <!ENTITY startupLastSession.label  "ਆਖਰੀ ਸਮੇਂ ਦੇ ਵਿੰਡੋ ਅਤੇ ਟੈਬਾਂ ਵੇਖੋ">
+<!ENTITY restoreOnDemand.label     "ਟੈਬਾਂ ਨੂੰ ਲੋਡ ਨਾ ਕਰੋ, ਜਦੋਂ ਤੱਕ ਇਹ ਚੁਣੀਆਂ ਨਾ ਹੋਣ">
+<!ENTITY restoreOnDemand.accesskey "l">
+
+
 <!ENTITY homepage.label            "ਮੁੱਖ ਪੇਜ਼:">
 <!ENTITY homepage.accesskey        "P">
 <!ENTITY useCurrentPage.label      "ਮੇਰਾ ਮੌਜੂਦਾ ਪੇਜ਼ ਵਰਤੋਂ">

@@ -110,6 +110,8 @@ can reach it easily. -->
 <!ENTITY forwardCmd.label             "ਅੱਗੇ">
 <!ENTITY forwardCmd.accesskey         "F">
 <!ENTITY forwardButton.tooltip        "ਇੱਕ ਪੇਜ਼ ਅੱਗੇ ਜਾਓ">
+<!ENTITY backForwardButtonMenu.tooltip "Right-click or pull down to show history">
+<!ENTITY backForwardButtonMenuMac.tooltip "Pull down to show history">
 <!ENTITY reloadCmd.label              "ਮੁੜ ਲੋਡ">
 <!ENTITY reloadCmd.accesskey          "R">
 <!ENTITY reloadButton.tooltip         "ਮੌਜੂਦਾ ਪੇਜ਼ ਮੁੜ ਲੋਡ ਕਰੋ">
@@ -325,6 +327,7 @@ can reach it easily. -->
   
  -->
 <!ENTITY searchFocus.commandkey       "k">
+<!ENTITY searchFocus.commandkey2      "e">
 <!ENTITY searchFocusUnix.commandkey   "j">
 
 <!ENTITY tabView.commandkey           "e">
