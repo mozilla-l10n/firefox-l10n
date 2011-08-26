@@ -1,11 +1,11 @@
 <!ENTITY aboutDialog.title "&brandFullName;">
-<!ENTITY community.start2 "&brandShortName; è stato progettato da ">
+<!ENTITY community.start2 "&brandShortName; è progettato da ">
 <!ENTITY community.mozillaLink "&vendorShortName;">
 <!ENTITY community.middle2 ", un ">
-<!ENTITY community.creditsLink "comunità globale">
-<!ENTITY community.end2 " lavoriamo insieme per rendere Internet migliore. Noi crediamo che Internet debba essere aperto, pubblico e accessibile a tutti senza alcuna restrizione.">
-<!ENTITY contribute.start "Sembra interessante? ">
-<!ENTITY contribute.getInvolvedLink "Partecipa!">
+<!ENTITY community.creditsLink "comunità mondiale">
+<!ENTITY community.end2 " che lavora insieme per rendere Internet migliore. Noi crediamo che Internet debba essere aperto, pubblico e accessibile a tutti senza alcuna restrizione.">
+<!ENTITY contribute.start "Ti sembra interessante? ">
+<!ENTITY contribute.getInvolvedLink "Collabora con noi">
 <!ENTITY contribute.end "">
 <!ENTITY bottomLinks.license "Informazioni sulla licenza">
 <!ENTITY bottomLinks.rights "Diritti dell'Utente Finale">
@@ -22,14 +22,6 @@
 <!ENTITY update.manual.end "">
 <!ENTITY update.downloading.start "Ricezione aggiornamento — ">
 <!ENTITY update.downloading.end "">
-<!ENTITY channel.description.start "Ci si trova nel ">
-<!ENTITY channel.description.end " canale aggiornato. ">
-<!ENTITY channel.change "Cambia">
-<!ENTITY channel.release.description "Godetevi la collaudata versione finale  utilizzata da centinaia di milioni in tutto il mondo. Controllate la vostra esperienza online con velocità, facilità di personalizzazione e le più recenti tecnologie web.">
-<!ENTITY channel.beta.description "Prova le funzionalità all'avanguardia, con una maggiore stabilità. Fornisci un feedback per affinare e pulire ciò che sarà nella versione finale.">
-<!ENTITY channel.aurora.description "Prova le più recenti innovazioni in un ambiente instabile che non è per i deboli di cuore. Fornisci un feedback sulle funzionalità e le prestazioni per aiutare a creare quella che sarà la versione finale.">
-<!ENTITY channel.selector.start "Passa al ">
-<!ENTITY channel.selector.end "aggiorna canale.">
-<!ENTITY channel.selector.applyButton "Applica e aggiorna">
-<!ENTITY channel.selector.cancelButton "Annulla">
+<!ENTITY channel.description.start "Canale di aggiornamento attuale: ">
+<!ENTITY channel.description.end ". ">
 <!ENTITY cmdCloseMac.commandKey "w">
