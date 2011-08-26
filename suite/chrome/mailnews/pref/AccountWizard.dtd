@@ -1,8 +1,8 @@
 <!ENTITY windowTitle.label "Creazione nuovo account">
 <!ENTITY accountWizard.size "width: 46em; height: 38em;">
-<!ENTITY accountSetupInfo.label "Per poter ricevere i messaggi, è necessario configurare gli account di posta e dei gruppi di discussione.">
+<!ENTITY accountSetupInfo2.label "Per poter ricevere i messaggi, è necessario configurare un account.">
 <!ENTITY accountTypeTitle.label "Configurazione nuovo account">
-<!ENTITY accountTypeDesc.label "Questa creazione guidata raccoglierà le informazioni necessarie alla creazione di un account di posta o per i gruppi di discussione. Se non si fosse a conoscenza di alcune delle informazioni richieste, contattare il proprio amministratore di sistema o fornitore di servizio.">
+<!ENTITY accountTypeDesc2.label "Questa creazione guidata raccoglierà le informazioni per la creazione di un account di posta o gruppi di discussione. Se non si fosse a conoscenza di alcune delle informazioni richieste contattare il proprio amministratore di sistema o il fornitore di servizi.">
 <!ENTITY accountTypeDirections.label "Seleziona il tipo di account da configurare:">
 <!ENTITY accountTypeMail.label "Account di posta">
 <!ENTITY accountTypeMail.accesskey "c">
