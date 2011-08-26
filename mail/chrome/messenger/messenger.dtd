@@ -208,6 +208,8 @@
 <!ENTITY bodySanitized.accesskey "s">
 <!ENTITY bodyAsPlaintext.label "Testo semplice">
 <!ENTITY bodyAsPlaintext.accesskey "T">
+<!ENTITY bodyAllParts.label "Tutte le parti del corpo">
+<!ENTITY bodyAllParts.accesskey "u">
 <!ENTITY bodyMenuFeed.label "Corpo del messaggio come">
 <!ENTITY bodyMenuFeed.accesskey "C">
 <!ENTITY viewFeedWebPage.label "Pagina web">
@@ -231,7 +233,7 @@
 <!ENTITY fullZoomResetCmd.accesskey "R">
 <!ENTITY fullZoomResetCmd.commandkey "0">
 <!ENTITY fullZoomResetCmd.commandkey2 "">
-<!ENTITY fullZoomToggleCmd.label "Ingrandire solo il testo">
+<!ENTITY fullZoomToggleCmd.label "Zoom solo del testo">
 <!ENTITY fullZoomToggleCmd.accesskey "T">
 <!ENTITY fullZoom.label "Zoom">
 <!ENTITY fullZoom.accesskey "Z">
