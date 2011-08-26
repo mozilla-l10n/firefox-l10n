@@ -73,9 +73,7 @@
 <!ENTITY printCmd.label "ਪਰਿੰਟ ਕਰੋ…">
 <!ENTITY printCmd.accesskey "P">
 <!ENTITY printCmd.key "P">
-<!ENTITY closeCmd.label "ਬੰਦ ਕਰੋ">
-<!ENTITY closeCmd.accesskey "C">
-<!ENTITY closeCmd.key "W">
+
 
 <!-- Edit menu items -->
 <!ENTITY editMenu.label "ਸੋਧ">
@@ -90,18 +88,7 @@
 <!ENTITY pasteAsQuotationCmd.label "ਹਵਾਲੇ ਵਜੋਂ ਚੇਪੋ">
 <!ENTITY pasteAsQuotationCmd.accesskey "Q">
 <!ENTITY pasteAsQuotationCmd.key "o">
-<!ENTITY findCmd.label "ਲੱਭੋ ਅਤੇ ਬਦਲੋ…">
-<!ENTITY findCmd.accesskey "F">
-<!ENTITY findCmd.key "F">
-<!ENTITY findCmd.key2 "VK_F19">
-<!ENTITY findAgainCmd.label "ਫੇਰ ਲੱਭੋ">
-<!ENTITY findAgainCmd.accesskey "g">
-<!ENTITY findAgainCmd.key "G">
-<!ENTITY findAgainCmd.key2 "VK_F3">
-<!ENTITY findPrevCmd.label "ਪਿੱਛੇ ਲੱਭੋ">
-<!ENTITY findPrevCmd.accesskey "v">
-<!ENTITY findPrevCmd.key "G">
-<!ENTITY findPrevCmd.key2 "VK_F3">
+
 <!ENTITY enableInlineSpellChecker.label "ਜਿਵੇਂ ਹੀ ਤੁਸੀਂ ਲਿਖੋ, ਉਵੇਂ ਹੀ ਸਪੈਲਚੈੱਕ ਕਰੋ">
 <!ENTITY enableInlineSpellChecker.accesskey "S">
 <!ENTITY checkSpellingCmd2.label "ਸਪੈਲਿੰਗ ਚੈੱਕ ਕਰੋ">
@@ -139,23 +126,7 @@
 <!ENTITY createLinkCmd.accesskey "k">
 <!ENTITY editLinkCmd.label "ਨਵੀਂ ਲਿਖਣ ਵਿੰਡੋ ਵਿੱਚ ਲਿੰਕ ਸੋਧੋ">
 <!ENTITY editLinkCmd.accesskey "i">
-<!-- (Toplevel Edit menu uses utilityOverlay) -->
-<!ENTITY undoCmd.label "ਵਾਪਸ ਲਵੋ">
-<!ENTITY undoCmd.accesskey "U">
-<!ENTITY redoCmd.label "ਵਾਪਸ ਪਰਤਾਓ">
-<!ENTITY redoCmd.accesskey "R">
-<!ENTITY cutCmd.label "ਕੱਟੋ">
-<!ENTITY cutCmd.accesskey "t">
-<!ENTITY copyCmd.label "ਕਾਪੀ ਕਰੋ">
-<!ENTITY copyCmd.accesskey "C">
-<!ENTITY pasteCmd.label "ਚੇਪੋ">
-<!ENTITY pasteCmd.accesskey "P">
-<!ENTITY deleteCmd.label "ਹਟਾਓ">
-<!ENTITY deleteCmd.accesskey "D">
-<!ENTITY clearCmd.label "ਸਾਫ਼ ਕਰੋ">
-<!ENTITY clearCmd.accesskey "l">
-<!ENTITY selectAllCmd.label "ਸਭ ਚੁਣੋ">
-<!ENTITY selectAllCmd.accesskey "A">
+
 
 <!-- Font Face SubMenu -->
 <!ENTITY FontFaceSelect.tooltip "ਫੋਂਟ ਚੁਣੋ">
@@ -181,7 +152,7 @@
 <!ENTITY increaseFontSize.label "ਹੋਰ ਵੱਡੇ">
 <!ENTITY increaseFontSize.accesskey "g">
 <!ENTITY increaseFontSize.key "+">
-<!ENTITY increaseFontSize.key2 "="> <!-- + is above this key on many keyboards -->
+<!ENTITY increaseFontSize.key2 "=">
 
 <!ENTITY fontSizeMenu.label "ਆਕਾਰ">
 <!ENTITY fontSizeMenu.accesskey "z">
@@ -396,6 +367,9 @@
 <!ENTITY openToolbarCmd.tooltip "ਇੱਕ ਲੋਕਲ ਫਾਇਲ ਖੋਲ੍ਹੋ">
 <!ENTITY saveToolbarCmd.tooltip "ਫਾਇਲ ਨੂੰ ਲੋਕਲ ਟਿਕਾਣੇ ਉੱਤੇ ਸੰਭਾਲੋ">
 <!ENTITY publishToolbarCmd.tooltip "ਫਾਇਲ ਰਿਮੋਟ ਟਿਕਾਣੇ ਉੱਤੇ ਅੱਪਲੋਡ ਕਰੋ">
+<!ENTITY cutToolbarCmd.tooltip "ਕੱਟੋ">
+<!ENTITY copyToolbarCmd.tooltip "ਕਾਪੀ ਕਰੋ">
+<!ENTITY pasteToolbarCmd.tooltip "ਚੇਪੋ">
 <!ENTITY printToolbarCmd.label "ਪ੍ਰਿੰਟ ਕਰੋ">
 <!ENTITY printToolbarCmd.tooltip "ਇਹ ਸਫ਼ਾ ਪ੍ਰਿੰਟ ਕਰੋ">
 <!ENTITY findToolbarCmd.label "ਖੋਜ">
@@ -415,7 +389,7 @@
 <!ENTITY TextColorButton.tooltip "ਟੈਕਸਟ ਲਈ ਰੰਗ ਚੁਣੋ">
 <!ENTITY BackgroundColorButton.tooltip "ਬੈਕਗਰਾਊਂਡ ਲਈ ਰੰਗ ਚੁਣੋ">
 <!ENTITY throbber.tooltip "&vendorShortName; ਦੇ ਮੁੱਖ ਸਫ਼ੇ ਉੱਤੇ ਜਾਓ">
-<!ENTITY HighlightColorButton.tooltip "Choose highlight color for text">
+<!ENTITY HighlightColorButton.tooltip "ਟੈਕਸਟ ਲਈ ਹਾਈਲਾਈਟ ਰੰਗ ਚੁਣੋ">
 
 <!-- Editor toolbar -->
 <!ENTITY decreaseFontSizeToolbarCmd.tooltip "ਫੋਂਟ ਆਕਾਰ ਹੋਰ ਛੋਟਾ">
@@ -424,7 +398,7 @@
 <!ENTITY italicToolbarCmd.tooltip "ਤਿਰਛੇ ਬਣਾਓ">
 <!ENTITY underlineToolbarCmd.tooltip "ਹੇਠਾਂ ਲਾਈਨ ਲਗਾਓ">
 <!ENTITY bulletListToolbarCmd.tooltip "ਬਿੰਦੀਆਂ ਵਾਲੀ ਲਿਸਟ ਲਾਗੂ ਕਰੋ ਜਾਂ ਹਟਾਓ">
-<!ENTITY numberListToolbarCmd.tooltip "Apply or remove numbered list">
+<!ENTITY numberListToolbarCmd.tooltip "ਗਿਣਤੀ ਲਿਸਟ ਲਾਗੂ ਕਰੋ ਜਾਂ ਹਟਾਓ">
 <!ENTITY outdentToolbarCmd.tooltip "Outdent text (move left)">
 <!ENTITY indentToolbarCmd.tooltip "Indent text (move right)">
 <!ENTITY AlignPopupButton.tooltip "Choose text alignment">
