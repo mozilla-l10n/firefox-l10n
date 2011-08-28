@@ -47,7 +47,7 @@
 <!ENTITY cmd.open_window.label           "Öppna i nytt fönster">
 <!ENTITY cmd.open_window.accesskey       "N">
 <!ENTITY cmd.open_tab.label              "Öppna i ny flik">
-<!ENTITY cmd.open_tab.accesskey          "w">
+<!ENTITY cmd.open_tab.accesskey          "f">
 <!ENTITY cmd.open_all_in_tabs.label      "Öppna alla i flikar">
 <!ENTITY cmd.open_all_in_tabs.accesskey  "a">
 
@@ -61,7 +61,7 @@
 <!ENTITY cmd.new_bookmark.accesskey        "B">
 <!ENTITY cmd.new_folder.label              "Ny mapp…">
 <!ENTITY cmd.new_folder.accesskey          "m">
-<!ENTITY cmd.context_new_folder.accesskey  "F">
+<!ENTITY cmd.context_new_folder.accesskey  "m">
 <!ENTITY cmd.new_separator.label           "Ny avskiljare">
 <!ENTITY cmd.new_separator.accesskey       "v">
 
