@@ -14,7 +14,7 @@
 <!ENTITY sync.setup.manual "Vložit nastavení účtu Sync">
 <!ENTITY sync.account "Název účtu">
 <!ENTITY sync.password "Heslo">
-<!ENTITY sync.syncKey "Klíč">
+<!ENTITY sync.recoveryKey "Obnovovací klíč">
 <!ENTITY sync.customServer "Použít vlastní server">
 <!ENTITY sync.serverURL "Adresa serveru">
 <!ENTITY sync.setup.connect "Připojit">
