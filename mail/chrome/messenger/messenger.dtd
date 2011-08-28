@@ -500,12 +500,14 @@ you can use these alternative items. Otherwise, their values should be empty.  -
 <!ENTITY previousButton.label "上一封">
 <!ENTITY backButton1.label "上一頁">
 <!ENTITY goForwardButton1.label "下一頁">
+<!ENTITY deleteItem.title "刪除">
 <!ENTITY deleteButton.label "刪除項目">
 <!ENTITY undeleteButton.label "還原">
 <!ENTITY markButton.label "標示">
 <!ENTITY printButton.label "列印">
 <!ENTITY stopButton.label "停止">
 <!ENTITY throbberItem.title "動態瀏覽指示">
+<!ENTITY junkItem.title "垃圾郵件">
 <!ENTITY junkButton.label "垃圾郵件">
 <!ENTITY notJunkButton.label "非垃圾信">
 <!ENTITY addressBookButton.label "通訊錄">
