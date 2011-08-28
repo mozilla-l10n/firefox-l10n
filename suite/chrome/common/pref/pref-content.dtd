@@ -17,3 +17,6 @@
 <!ENTITY textZoomOnly.accesskey                 "Z">
 <!ENTITY blockAutoRefresh.label                 "Varna när webbplatsen försöker skicka vidare eller ladda om sidan">
 <!ENTITY blockAutoRefresh.accesskey             "V">
+<!ENTITY siteSpecific.label                     "Kom ihåg vald zoomnivå för varje webbplats separat">
+<!ENTITY siteSpecific.accesskey                 "m">
+
