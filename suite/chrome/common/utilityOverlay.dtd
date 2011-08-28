@@ -19,6 +19,13 @@
 <!ENTITY newNavigatorCmd.label "Nouvelle fenêtre">
 <!ENTITY newNavigatorCmd.key "n">
 <!ENTITY newNavigatorCmd.accesskey "N">
+<!ENTITY printSetupCmd.label "Mise en page…">
+<!ENTITY printSetupCmd.accesskey "M">
+<!ENTITY printPreviewCmd.label "Aperçu avant impression">
+<!ENTITY printPreviewCmd.accesskey "u">
+<!ENTITY printCmd.label "Imprimer…">
+<!ENTITY printCmd.accesskey "p">
+<!ENTITY printCmd.key "P">
 
 <!ENTITY editMenu.label "Édition">
 <!ENTITY editMenu.accesskey "n">
