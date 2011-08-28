@@ -73,9 +73,6 @@
 <!ENTITY printCmd.label "Imprimer…">
 <!ENTITY printCmd.accesskey "I">
 <!ENTITY printCmd.key "P">
-<!ENTITY closeCmd.label "Fermer">
-<!ENTITY closeCmd.accesskey "F">
-<!ENTITY closeCmd.key "W">
 
 <!-- Edit menu items -->
 <!ENTITY editMenu.label "Édition">
