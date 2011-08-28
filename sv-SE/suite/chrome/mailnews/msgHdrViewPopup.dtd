@@ -48,5 +48,8 @@
 <!ENTITY copyLinkCmd.label                 "Kopiera länkadressen">
 <!ENTITY copyLinkCmd.accesskey             "o">
 <!ENTITY CopyMessageId.label               "Kopiera meddelandeadressen">
+<!ENTITY CopyMessageId.accesskey           "p">
 <!ENTITY OpenMessageForMsgId.label         "Öppna meddelandet på adressen">
+<!ENTITY OpenMessageForMsgId.accesskey     "Ö">
 <!ENTITY OpenBrowserWithMsgId.label        "Öppna webbläsaren med meddelandeadressen">
+<!ENTITY OpenBrowserWithMsgId.accesskey    "w">
