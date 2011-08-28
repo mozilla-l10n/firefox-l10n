@@ -29,7 +29,7 @@
 <!ENTITY checkNow.accesskey              "g">
 <!ENTITY submitCrashes.label             "Enviar relatórios de erro">
 <!ENTITY submitCrashes.accesskey         "v">
-<!ENTITY submitTelemetry.label           "Submeter dados do desempenhp">
+<!ENTITY submitTelemetry.label           "Submeter dados do desempenho">
 <!ENTITY submitTelemetry.accesskey       "P">
 
 <!ENTITY networkTab.label                "Rede">
