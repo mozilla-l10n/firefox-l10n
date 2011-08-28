@@ -12,7 +12,6 @@
 
 <!-- File menu items -->
 <!ENTITY saveCmd.label "Enregistrer">
-<!ENTITY saveCmd.key "S">
 <!ENTITY saveCmd.accesskey "s">
 <!ENTITY saveAsCmd.label "Enregistrer comme">
 <!ENTITY saveAsCmd.accesskey "c">
