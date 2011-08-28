@@ -16,6 +16,7 @@
 <!ENTITY copyAll.label         "Copiar tudo">
 <!ENTITY copylink.label        "Copiar localização da ligação">
 <!ENTITY paste.label           "Colar">
+<!ENTITY pasteAndGo.label      "Colar &amp; Ir">
 <!ENTITY delete.label          "Eliminar">
 <!ENTITY selectAll.label       "Seleccionar tudo">
 <!ENTITY noSuggestions.label   "(Nenhuma sugestão)">
