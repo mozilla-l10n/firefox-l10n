@@ -19,8 +19,8 @@
 <!ENTITY signIn.account2.accesskey "e">
 <!ENTITY signIn.password.label "Heslo">
 <!ENTITY signIn.password.accesskey "H">
-<!ENTITY signIn.syncKey.label "Klíč">
-<!ENTITY signIn.syncKey.accesskey "K">
+<!ENTITY signIn.recoveryKey.label "Obnovovací klíč">
+<!ENTITY signIn.recoveryKey.accesskey "K">
 
 <!-- New Account Page 1: Basic Account Info -->
 <!ENTITY setup.newAccountDetailsPage.title.label "Podrobnosti účtu">
@@ -41,12 +41,12 @@
 <!ENTITY setup.tosAgree2.accesskey "">
 
 <!-- New Account Page 2: Sync Key -->
-<!ENTITY setup.newSyncKeyPage.title.label "&brandShortName; pečuje o vaše soukromí">
-<!ENTITY setup.newSyncKeyPage.description.label "Z důvodu zajištění vašeho soukromí jsou všechna vaše data před nahráváním na server zašifrována. Klíč potřebný k rozšifrování vašich dat nahrán není.">
-<!ENTITY syncKeyEntry.label "Klíč">
-<!ENTITY syncKeyEntry.accesskey "K">
+<!ENTITY setup.newRecoveryKeyPage.title.label "&brandShortName; zachovává vaše soukromí">
+<!ENTITY setup.newRecoveryKeyPage.description.label "Z důvodu zajištění vašeho soukromí jsou všechna vaše data před nahráváním na server zašifrována. Obnovovací klíč potřebný k rozšifrování vašich dat nahrán není.">
+<!ENTITY recoveryKeyEntry.label "Obnovovací klíč">
+<!ENTITY recoveryKeyEntry.accesskey "K">
 <!ENTITY syncGenerateNewKey.label "Vygenerovat nový klíč">
-<!ENTITY syncKeyBackup.description "Tento klíč je vyžadován k přístupu k &syncBrand.fullName.label; z ostatních zařízení. Vytvořte si prosím zálohu, neboť tento klíč není možné obnovit.">
+<!ENTITY recoveryKeyBackup.description "Obnovovací klíč je vyžadován k přístupu k &syncBrand.fullName.label; z ostatních zařízení. Vytvořte si prosím zálohu, neboť obnovovací klíč není možné obnovit.">
 
 <!ENTITY button.syncKeyBackup.print.label "Tisk…">
 <!ENTITY button.syncKeyBackup.print.accesskey "T">
@@ -65,12 +65,12 @@
 <!ENTITY addDevice.dialog.enterCode.label "Zde pak vložte kód, který obdržíte:">
 <!ENTITY addDevice.dialog.tryAgain.label "Prosím zkuste to znovu.">
 <!ENTITY addDevice.dialog.successful.label "Zařízení bylo úspěšně přidáno. Počáteční synchronizace může trvat několik minut a bude probíhat na pozadí.">
-<!ENTITY addDevice.dialog.syncKey.label "Pro aktivaci vzdáleného zařízení budete potřebovat klíč. níže uvedený klíč si prosím vytiskněte nebo uložte a vezměte si ho sebou.">
+<!ENTITY addDevice.dialog.recoveryKey.label "Pro aktivaci vzdáleného zařízení budete potřebovat obnovovací klíč. Níže uvedený obnovovací klíč si prosím vytiskněte nebo uložte a vezměte si ho sebou.">
 <!ENTITY addDevice.dialog.connected.label "Zařízení připojeno">
 
 <!-- Existing Account Page 2: Manual Login -->
 <!ENTITY setup.signInPage.title.label "Přihlásit">
-<!ENTITY existingSyncKey.description "Svůj klíč můžete nalézt v připojeném zařízení v dialogu možností &syncBrand.shortName.label;, pokud klepnete na „Můj klíč“ pod tlačítkem „Správa účtu“.">
+<!ENTITY existingRecoveryKey.description "Svůj obnovovací klíč můžete nalézt v připojeném zařízení v dialogu možností &syncBrand.shortName.label;, pokud klepnete na „Obnovovací klíč“ pod tlačítkem „Správa účtu“.">
 <!ENTITY verifying.label "Ověřování…">
 <!ENTITY resetPassword.label "Vynulovat heslo">
 <!ENTITY resetSyncKey.label "Ztratil jsem své další zařízení.">
