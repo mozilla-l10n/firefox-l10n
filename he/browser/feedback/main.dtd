@@ -27,7 +27,7 @@
 <!-- Firefox 4 beta version UI -->
 <!ENTITY testpilot.enable.label                        "הפעל את מבחני הרגלי השימוש">
 <!ENTITY testpilot.feedbackbutton.label                "משוב">
-<!ENTITY testpilot.happy.label        "Firefox משמח אותי בגלל…">
-<!ENTITY testpilot.sad.label          "Firefox מעציב אותי בגלל…">
+<!ENTITY testpilot.happy.label        "Firefox משמח אותי כי…">
+<!ENTITY testpilot.sad.label          "Firefox מעציב אותי כי…">
 <!ENTITY testpilot.broken.label      "דווח על אתר זה כשבור…">
 <!ENTITY testpilot.idea.label        "תנו לנו הצעות…">
