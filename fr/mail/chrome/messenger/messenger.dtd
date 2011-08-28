@@ -507,12 +507,14 @@ you can use these alternative items. Otherwise, their values should be empty.
 <!ENTITY previousButton.label "Précédent">
 <!ENTITY backButton1.label "Reculer">
 <!ENTITY goForwardButton1.label "Avancer">
+<!ENTITY deleteItem.title "Supprimer">
 <!ENTITY deleteButton.label "Supprimer">
 <!ENTITY undeleteButton.label "Restaurer">
 <!ENTITY markButton.label "Marquer">
 <!ENTITY printButton.label "Imprimer">
 <!ENTITY stopButton.label "Arrêter">
 <!ENTITY throbberItem.title "Indicateur d'activité">
+<!ENTITY junkItem.title "Indésirable">
 <!ENTITY junkButton.label "Indésirable">
 <!ENTITY notJunkButton.label "Acceptable">
 <!ENTITY addressBookButton.label "Adresses">
