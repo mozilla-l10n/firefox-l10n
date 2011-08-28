@@ -5,9 +5,9 @@
 
 <!-- Entities for Account Type page -->
 
-<!ENTITY accountSetupInfo.label "Pokud chcete přijímat zprávy, musíte nejdříve nastavit účet pro poštu nebo diskusní skupiny.">
+<!ENTITY accountSetupInfo2.label "Pokud chcete přijímat zprávy, musíte nejdříve nastavit účet.">
 <!ENTITY accountTypeTitle.label "Vytvoření nového účtu">
-<!ENTITY accountTypeDesc.label "Průvodce vás provede nastavením pro poštu a diskusní skupiny. Pokud nebudete vědět co přesně zadat, kontaktujte prosím svého systémového administrátora nebo poskytovatele internetového připojení.">
+<!ENTITY accountTypeDesc2.label "Tento průvodce vás provede nastavením účtu. Pokud nebudete znát požadované informace, kontaktujte prosím svého systémového administrátora nebo poskytovatele internetového připojení.">
 <!ENTITY accountTypeDirections.label "Vyberte si typ účtu, který chcete nastavit:">
 <!ENTITY accountTypeMail.label "E-mailový účet">
 <!ENTITY accountTypeMail.accesskey "E">
