@@ -6,7 +6,7 @@
 <!ENTITY chooseFile.accesskey "T">
 <!ENTITY newWindow.label "új böngészőablakban">
 <!ENTITY newTab.label "új böngészőlapon">
-<!ENTITY topWindow.label "aktuális böngészőablakban">
+<!ENTITY currentTab.label "aktuális böngészőlapon">
 <!ENTITY editNewWindow.label "új HTML-szerkesztő ablakban">
 <!ENTITY open.label "Megnyitás">
 <!ENTITY caption.label "Weboldal megnyitása">
