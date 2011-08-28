@@ -66,7 +66,6 @@
 <!ENTITY selectAddressCmd.accesskey "S">
 
 <!ENTITY checkSpellingCmd2.label "Vérifier l'orthographe…">
-<!ENTITY checkSpellingCmd2.key "p">
 <!ENTITY checkSpellingCmd2.accesskey "V">
 <!ENTITY enableInlineSpellChecker.label "Vérifier l'orthographe pendant la saisie">
 <!ENTITY enableInlineSpellChecker.accesskey "S">
