@@ -62,8 +62,6 @@
 <!ENTITY printAddressBook.accesskey "a">
 <!ENTITY printPreviewAddressBook.label "Aperçu du carnet d'adresses avant impression">
 <!ENTITY printPreviewAddressBook.accesskey "u">
-<!ENTITY printSetupCmd.label "Mise en page…">
-<!ENTITY printSetupCmd.accesskey "M">
 
 <!-- Edit Menu -->
 <!ENTITY deleteAbCmd.label "Supprimer le carnet d'adresses">
