@@ -82,8 +82,10 @@
 <!ENTITY viewMenu.accesskey                             "A">
 <!ENTITY viewToolbarsMenu.label                         "Barres d'outils">
 <!ENTITY viewToolbarsMenu.accesskey                     "B">
-<!ENTITY showAbToolbarCmd.label				"Barre d'outils carnet d'adresses">
-<!ENTITY showAbToolbarCmd.accesskey			"t">
+<!ENTITY menubarCmd.label                               "Barre de menus">
+<!ENTITY menubarCmd.accesskey                           "m">
+<!ENTITY showAbToolbarCmd.label                         "Barre d'outils carnet d'adresses">
+<!ENTITY showAbToolbarCmd.accesskey                     "t">
 <!ENTITY showTaskbarCmd.label                           "Barre d'état">
 <!ENTITY showTaskbarCmd.accesskey                       "t">
 <!ENTITY customizeToolbar.label                         "Personnaliser…">
