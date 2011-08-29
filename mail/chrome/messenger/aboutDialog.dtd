@@ -1,14 +1,14 @@
 <!ENTITY aboutDialog.title "&brandFullName;">
 <!ENTITY community.start2 "&brandShortName; è progettato da ">
 <!ENTITY community.mozillaLink "&vendorShortName;">
-<!ENTITY community.middle2 ", un ">
+<!ENTITY community.middle2 ", una ">
 <!ENTITY community.creditsLink "comunità mondiale">
 <!ENTITY community.end2 " che lavora insieme per rendere Internet migliore. Noi crediamo che Internet debba essere aperto, pubblico e accessibile a tutti senza alcuna restrizione.">
 <!ENTITY contribute.start "Ti sembra interessante? ">
 <!ENTITY contribute.getInvolvedLink "Collabora con noi">
 <!ENTITY contribute.end "">
 <!ENTITY bottomLinks.license "Informazioni sulla licenza">
-<!ENTITY bottomLinks.rights "Diritti dell'Utente Finale">
+<!ENTITY bottomLinks.rights "Diritti dell'utente finale">
 <!ENTITY bottomLinks.privacy "Informativa sulla privacy">
 <!ENTITY update.checkingForUpdates "Controllo aggiornamenti…">
 <!ENTITY update.checkingAddonCompat "Verifica compatibilità componenti aggiuntivi…">
