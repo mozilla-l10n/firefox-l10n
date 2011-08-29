@@ -40,7 +40,3 @@
 <!ENTITY zoomReduceCmd.commandkey       "-">
 
 <!ENTITY zoomResetCmd.commandkey        "0">
-
-<!-- see zoomOtherLabel in viewZoomOverlay.properties -->
-<!ENTITY zoomMenu.accesskey            "M">
-<!ENTITY zoomOtherCmd.accesskey        "K">

@@ -47,3 +47,5 @@
 <!ENTITY textZoomOnly.accesskey                 "k">
 <!ENTITY blockAutoRefresh.label                 "Įspėti, kai tinklalapis bando peradresuoti naršyklę arba pakartotinai save įkelti">
 <!ENTITY blockAutoRefresh.accesskey             "p">
+<!ENTITY siteSpecific.label                     "Atskirai įsiminti skirtingoms svetainėms taikomus mastelius">
+<!ENTITY siteSpecific.accesskey                 "t">

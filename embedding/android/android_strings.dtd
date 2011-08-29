@@ -14,3 +14,6 @@
 <!ENTITY  sending_crash_report "Išsiunčiamas strigties pranešimas…">
 <!ENTITY  exit_label "Baigti darbą">
 <!ENTITY  continue_label "Tęsti">
+
+<!ENTITY  launcher_shortcuts_title "„&brandShortName;“ saityno programėlės">
+<!ENTITY  launcher_shortcuts_empty "Saityno programėlių nerasta">

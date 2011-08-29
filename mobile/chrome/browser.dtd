@@ -125,6 +125,7 @@
 <!ENTITY contextOpenInNewTab.label        "Atverti saitą naujoje kortelėje">
 <!ENTITY contextSaveLink.label            "Įrašyti saitą">
 <!ENTITY contextSaveImage.label           "Įrašyti paveikslą">
+<!ENTITY contextCopyLink.label            "Kopijuoti saitą">
 <!ENTITY contextShareLink.label           "Dalintis saitu">
 <!ENTITY contextShareImage.label          "Dalintis paveikslu">
 <!ENTITY contextBookmarkLink.label        "Įrašyti saitą į adresyną">
@@ -144,5 +145,6 @@
 <!ENTITY pageactions.findInPage           "Ieškoti tinklalapyje">
 <!ENTITY pageactions.search.addNew        "Pridėti ieškyklę">
 <!ENTITY pageactions.charEncoding         "Koduotė">
+<!ENTITY pageactions.webapps.install      "Įdiegti kaip programėlę">
 
 <!ENTITY appMenu.siteOptions              "Svetainės nuostatos">
