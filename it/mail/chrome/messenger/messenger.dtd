@@ -390,10 +390,10 @@
 <!ENTITY markAsJunkCmd.label "Indesiderato">
 <!ENTITY markAsJunkCmd.accesskey "I">
 <!ENTITY markAsJunkCmd.key "j">
-<!ENTITY markAsNotJunkCmd.label "Rimuovi indesiderato">
+<!ENTITY markAsNotJunkCmd.label "Non indesiderato">
 <!ENTITY markAsNotJunkCmd.accesskey "R">
 <!ENTITY markAsNotJunkCmd.key "j">
-<!ENTITY recalculateJunkScoreCmd.label "Eseguire i controlli di posta indesiderata">
+<!ENTITY recalculateJunkScoreCmd.label "Esegui i controlli di posta indesiderata">
 <!ENTITY recalculateJunkScoreCmd.accesskey "E">
 <!ENTITY openMessageWindowCmd.label "Apri messaggio">
 <!ENTITY openMessageWindowCmd.accesskey "A">
