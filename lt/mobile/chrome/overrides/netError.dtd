@@ -7,20 +7,18 @@
 <!-- Specific error messages -->
 
 <!ENTITY connectionFailure.title "Nepavyko užmegzti ryšio">
-<!ENTITY connectionFailure.longDesc "&sharedLongDesc;">
+<!ENTITY connectionFailure.longDesc "&sharedLongDesc2;">
 
 <!ENTITY deniedPortAccess.title "Prieiga prie šio adreso apribota">
 <!ENTITY deniedPortAccess.longDesc "">
 
 <!ENTITY dnsNotFound.title "Nerastas serveris">
-<!ENTITY dnsNotFound.longDesc "
+<!ENTITY dnsNotFound.longDesc2 "
 <ul>
   <li>Patikrinkite, ar adrese nepadarėte klaidų, pvz.,
     <strong>ww</strong>.pavyzdys.lt vietoje
     <strong>www</strong>.pavyzdys.lt</li>
-  <li>Jei nepavyksta įkelti ir kitų tinklalapių, patikrinkite kompiuterio ryšį su tinklu.</li>
-  <li>Jei Jūsų kompiuteris ar tinklas apsaugotas užkarda arba jungiamasi per įgaliotąjį serverį, įsitikinkite, kad
-    naršyklei „&brandShortName;“ leidžiama pasiekti saityną.</li>
+  <li>Jei nepavyksta įkelti ir kitų tinklalapių, patikrinkite šio įrenginio ryšį su tinklu.</li>
 </ul>
 ">
 
@@ -49,7 +47,7 @@
 ">
 
 <!ENTITY netInterrupt.title "Ryšys buvo nutrauktas">
-<!ENTITY netInterrupt.longDesc "&sharedLongDesc;">
+<!ENTITY netInterrupt.longDesc "&sharedLongDesc2;">
 
 <!ENTITY netOffline.title "Dirbama atsijungus nuo tinklo">
 <!ENTITY netOffline.longDesc2 "
@@ -73,10 +71,10 @@
 ">
 
 <!ENTITY netReset.title "Ryšys nutrūko">
-<!ENTITY netReset.longDesc "&sharedLongDesc;">
+<!ENTITY netReset.longDesc "&sharedLongDesc2;">
 
 <!ENTITY netTimeout.title "Baigėsi prisijungimui skirtas laikas">
-<!ENTITY netTimeout.longDesc "&sharedLongDesc;">
+<!ENTITY netTimeout.longDesc "&sharedLongDesc2;">
 
 <!ENTITY protocolNotFound.title "Neatpažintas adresas">
 <!ENTITY protocolNotFound.longDesc "
@@ -94,12 +92,10 @@
 ">
 
 <!ENTITY proxyResolveFailure.title "Nerastas įgaliotasis serveris">
-<!ENTITY proxyResolveFailure.longDesc "
+<!ENTITY proxyResolveFailure.longDesc2 "
 <ul>
   <li>Patikrinkite, ar naršyklėje nurodytos teisingos įgaliotojo serverio nuostatos.</li>
-  <li>Patikrinkite, ar yra ryšys tarp Jūsų kompiuterio ir tinklo.</li>
-  <li>Jei Jūsų kompiuteris ar tinklas apsaugotas užkarda arba jungiamasi per įgaliotąjį serverį, įsitikinkite, kad
-    naršyklei „&brandShortName;“ leidžiama pasiekti saityną.</li>
+  <li>Patikrinkite, ar šis įrenginys turi veikiantį ryšį su tinklu.</li>
 </ul>
 ">
 
@@ -134,26 +130,12 @@
 </ul>
 ">
 
-<!ENTITY sharedLongDesc "
+<!ENTITY sharedLongDesc2 "
 <ul>
   <li>Ši svetainė laikinai nepasiekiama arba yra per daug apkrauta. Šiek tiek palaukite ir
 bandykite prisijungti iš naujo.</li>
-  <li>Jei nepavyksta įkelti ir kitų tinklalapių, patikrinkite kompiuterio ryšį su tinklu.</li>
-  <li>Jei Jūsų kompiuteris ar tinklas apsaugotas užkarda arba jungiamasi per įgaliotąjį serverį, įsitikinkite, kad
-    naršyklei „&brandShortName;“ leidžiama pasiekti saityną.</li>
+  <li>Jei nepavyksta įkelti ir kitų tinklalapių, patikrinkite šio įrenginio ryšį su tinklu.</li>
 </ul>
-">
-
-<!ENTITY malwareBlocked.title "Svetainė įtariama kenkėjiškumu!">
-<!ENTITY malwareBlocked.longDesc "
-<p>Kenkėjiškos svetainės siekia įdiegti programas, vagiančias asmeninius duomenis, naudojančias kompiuterį kitų atakoms ir kenkiančias pačiai sistemai.</p>
-<p>Svetainių, klaidingai palaikytų kenkėjiškomis, savininkai gali <a href='http://www.stopbadware.org/home/reviewinfo' >paprašyti peržiūros</a>.</p>
-">
-
-<!ENTITY phishingBlocked.title "Svetainė įtariama apgaule!">
-<!ENTITY phishingBlocked.longDesc "
-<p>Bet kokių asmeninių duomenų įvedimas šiame tinklalapyje gali tapti tapatybės duomenų vagystės ar kitos apgaulės priežastimi.</p>
-<p>Tokio tipo apgavystės dažniausiai pasitaiko atakose, kuriose, siekiant sudaryti patikimo šaltinio įvaizdį, pasitelkiami apgaulingi tinklalapiai ir elektroniniai laiškai.</p>
 ">
 
 <!ENTITY cspFrameAncestorBlocked.title "Užblokuota dėl saugumo politikos">

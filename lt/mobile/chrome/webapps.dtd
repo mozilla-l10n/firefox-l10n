@@ -1,0 +1,6 @@
+<!ENTITY webapps.title.placeholder "Įrašykite pavadinimą">
+<!ENTITY webapps.permissions "Leidimai:">
+<!ENTITY webapps.perm.geolocation "Geografinės vietos nustatymas">
+<!ENTITY webapps.perm.offline "Duomenų darbui atsijungus įrašymas">
+<!ENTITY webapps.perm.notifications "Pranešimų posistemė">
+<!ENTITY webapps.perm.requested "prašoma">

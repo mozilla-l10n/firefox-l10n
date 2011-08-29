@@ -31,7 +31,7 @@
    - ***** END LICENSE BLOCK ***** -->
 
 <!ENTITY editBookmarkOverlay.name.label                      "Pavadinimas:">
-<!ENTITY editBookmarkOverlay.name.accesskey                  "P">
+<!ENTITY editBookmarkOverlay.name.accesskey                  "v">
 <!ENTITY editBookmarkOverlay.location.label                  "Adresas:">
 <!ENTITY editBookmarkOverlay.location.accesskey              "A">
 <!ENTITY editBookmarkOverlay.feedLocation.label              "Kanalo adresas:">
@@ -39,6 +39,7 @@
 <!ENTITY editBookmarkOverlay.siteLocation.label              "Svetainės adresas:">
 <!ENTITY editBookmarkOverlay.siteLocation.accesskey          "S">
 <!ENTITY editBookmarkOverlay.folder.label                    "Aplankas:">
+<!ENTITY editBookmarkOverlay.folder.accesskey                "A">
 <!ENTITY editBookmarkOverlay.foldersExpanderDown.tooltip     "Rodyti visus adresyno aplankus">
 <!ENTITY editBookmarkOverlay.expanderUp.tooltip              "Nerodyti">
 <!ENTITY editBookmarkOverlay.tags.label                      "Gairės:">
@@ -50,7 +51,7 @@
 <!ENTITY editBookmarkOverlay.keyword.accesskey               "ž">
 <!ENTITY editBookmarkOverlay.tagsExpanderDown.tooltip        "Rodyti visas gaires">
 <!ENTITY editBookmarkOverlay.loadInSidebar.label             "Atverti šį adresą parankinėje">
-<!ENTITY editBookmarkOverlay.loadInSidebar.accesskey         "v">
+<!ENTITY editBookmarkOverlay.loadInSidebar.accesskey         "p">
 <!ENTITY editBookmarkOverlay.choose.label                    "Parinkti…">
 <!ENTITY editBookmarkOverlay.newFolderButton.label           "Naujas aplankas">
 <!ENTITY editBookmarkOverlay.newFolderButton.accesskey       "N">
