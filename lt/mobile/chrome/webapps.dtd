@@ -3,4 +3,4 @@
 <!ENTITY webapps.perm.geolocation "Geografinės vietos nustatymas">
 <!ENTITY webapps.perm.offline "Duomenų darbui atsijungus įrašymas">
 <!ENTITY webapps.perm.notifications "Pranešimų posistemė">
-<!ENTITY webapps.perm.requested "prašoma">
+<!ENTITY webapps.perm.requestedHint "(prašoma)">

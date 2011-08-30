@@ -35,10 +35,10 @@
 <!ENTITY reflowZoom.title                              "Keičiant mastelį, iš naujo išdėstyti tekstą">
 <!ENTITY showImages.title                              "Įkelti paveikslus">
 <!ENTITY enableJavaScript.title                        "Leisti naudoti „JavaScript“">
-<!ENTITY enablePlugins.title                           "Leisti papildinius">
 <!ENTITY privacy.title                                 "Privatumas ir saugumas">
 <!ENTITY allowCookies.title                            "Leisti įrašyti slapukus">
 <!ENTITY doNotTrack.title                              "Informuoti svetaines, jog nenorite, kad jos Jus sektų">
+<!ENTITY masterPassword.title                          "Naudoti pagrindinį slaptažodį">
 <!ENTITY clearPrivateData2.title                       "Valyti privačius duomenis">
 <!ENTITY clearPrivateData.button                       "Valyti">
 <!ENTITY rememberPasswords.title                       "Įsiminti slaptažodžius">
@@ -50,4 +50,4 @@
 <!ENTITY homepage.none                                 "Tuščias puslapis">
 <!ENTITY homepage.default                              "„&brandShortName;“ numatytasis">
 <!ENTITY homepage.currentpage                          "Naudoti šiuo metu atvertą tinklalapį">
-<!ENTITY showCharset.title                             "Rodyti naudojamą koduotę">
+<!ENTITY showCharsetEncoding.title                     "Rodyti naudojamą koduotę">

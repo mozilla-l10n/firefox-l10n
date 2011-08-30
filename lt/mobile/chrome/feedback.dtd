@@ -35,10 +35,7 @@
 <!ENTITY feedback.feedback.good         "Teigiamą">
 <!ENTITY feedback.feedback.bad          "Neigiamą">
 
-<!ENTITY feedback.information.title     "Išsamesnė informacija">
-<!ENTITY feedback.about.title           "Apie šią betą">
-<!ENTITY feedback.about.button          "Atverti tinklalapį">
-
 <!ENTITY feedback.tools.title           "Priemonės">
+<!ENTITY feedback.allowTelemetry.title  "Siųsti našumo ataskaitas">
 <!ENTITY feedback.forceCompat.title     "Nepaisyti priedų nesuderinamumo">
 <!ENTITY feedback.errorConsole.title    "Įjungti klaidų pultą">
