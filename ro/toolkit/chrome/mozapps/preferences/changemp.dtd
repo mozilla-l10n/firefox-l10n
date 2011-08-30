@@ -1,3 +1,9 @@
+<!--
+# Translator(s):
+#
+# alexxed <alexxed@gmail.com>
+#
+-->
 <!ENTITY setPassword.title                 "Schimbare parolă generală">
 <!ENTITY setPassword.tokenName.label       "Dispozitiv de securitate">
 <!ENTITY setPassword.oldPassword.label     "Parola curentă:">

@@ -1,3 +1,10 @@
+<!--
+# Translator(s):
+#
+# raulmalea <raul.malea@gmail.com>
+# alexxed <alexxed@gmail.com>
+#
+-->
 <!ENTITY quota.dialogTitle.label    "Cotă server">
 <!ENTITY quota.retrievingInfo.label "Se cer informații despre cotă…">
 <!ENTITY quota.typeColumn.label     "Tip">

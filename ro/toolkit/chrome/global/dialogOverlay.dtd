@@ -38,6 +38,12 @@
 # WARNING!!! This file is obsoleted by the dialog.xml widget
 #
 -->
+<!--
+# Translator(s):
+#
+# alexxed <alexxed@gmail.com>
+#
+-->
 
 <!-- OK Cancel Buttons -->
 <!ENTITY okButton.label      "Ok">

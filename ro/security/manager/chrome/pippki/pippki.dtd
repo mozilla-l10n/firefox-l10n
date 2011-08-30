@@ -34,6 +34,13 @@
    - the terms of any one of the MPL, the GPL or the LGPL.
    -
    - ***** END LICENSE BLOCK ***** -->
+<!--
+# Translator(s):
+#
+# alexxed <alexxed@gmail.com>
+# evinteler <emil_vinteler2000@yahoo.com>
+#
+-->
 
 <!-- Values for changepassword.xul -->
 <!ENTITY setPassword.title  "Schimbare parolă generală">

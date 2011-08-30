@@ -35,6 +35,12 @@
    -
 #endif
    - ***** END LICENSE BLOCK ***** -->
+<!--
+# Translator(s):
+#
+# alexxed <alexxed@gmail.com>
+#
+-->
 
 <!ENTITY safeModeDialog.title         "&brandShortName; - Mod de siguranță">
 <!ENTITY window.width                 "40em">

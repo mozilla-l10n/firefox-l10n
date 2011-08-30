@@ -1,3 +1,15 @@
+<!--
+# Translator(s):
+#
+# nicubunu <nicubunu@gmail.com>
+#
+-->
+<!--
+# Reviewer(s):
+#
+# alexxed <alexxed@gmail.com>
+#
+-->
 <!--LOCALIZATION NOTE printProgress.dtd Main UI for Print Progress Dialog -->
 <!ENTITY printWindow.title "Tipărire"> 
 <!ENTITY title    "Titlu:"> 

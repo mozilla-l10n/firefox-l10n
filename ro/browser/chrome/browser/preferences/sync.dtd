@@ -1,3 +1,10 @@
+<!--
+# Translator(s):
+#
+# alexxed <alexxed@gmail.com>
+# raulmalea <raul.malea@gmail.com>
+#
+-->
 <!-- The page shown when not logged in... -->
 <!ENTITY setupButton.label          "Setați &syncBrand.fullName.label;">
 <!ENTITY setupButton.accesskey      "S">

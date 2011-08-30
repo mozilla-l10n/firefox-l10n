@@ -1,5 +1,26 @@
 <!-- LOCALIZATION NOTE : FILE This file contains the browser main menu items -->
 <!-- LOCALIZATION NOTE : FILE Do not translate commandkeys --> 
+<!--
+# Translator(s):
+#
+# Nicu <kneekoo@yahoo.com>
+# alexxed <alexxed@gmail.com>
+# Sergiu Bivol <sbivol87@gmail.com>
+# raulmalea <raul.malea@gmail.com>
+# x10 <x10@mail.com>
+# stelistcristi <stelistcristi@yahoo.com>
+# BuBBaX <mikebubbax@yahoo.com>
+# nicubunu <nicubunu@gmail.com>
+# mazilu59 <mazilu59@gmail.com>
+# turcan <nicturcan@gmail.com>
+#
+-->
+<!--
+# Reviewer(s):
+#
+# alexxed <alexxed@gmail.com>
+#
+-->
 
 <!-- LOCALIZATION NOTE (mainWindow.title): DONT_TRANSLATE -->
 <!ENTITY mainWindow.title "&brandFullName;">
@@ -153,7 +174,7 @@ can reach it easily. -->
 <!-- LOCALIZATION NOTE (bookmarksSidebarGtkCmd.commandkey): This command
   -  key should not contain the letters A-F, since these are reserved
   -  shortcut keys on Linux. -->
-<!ENTITY bookmarksGtkCmd.commandkey "o">
+<!ENTITY bookmarksGtkCmd.commandkey "n">
 <!ENTITY bookmarksWinCmd.commandkey "i">
 
 <!ENTITY historyButton.label            "Istoric">
@@ -436,7 +457,7 @@ you can use these alternative items. Otherwise, their values should be empty.  -
 <!ENTITY fullZoomEnlargeCmd.label       "Mărește">
 <!ENTITY fullZoomEnlargeCmd.accesskey   "r">
 <!ENTITY fullZoomEnlargeCmd.commandkey  "+">
-<!ENTITY fullZoomEnlargeCmd.commandkey2 "="> <!-- + is above this key on many keyboards -->
+<!-- + is above this key on many keyboards --><!ENTITY fullZoomEnlargeCmd.commandkey2 "="> 
 <!ENTITY fullZoomEnlargeCmd.commandkey3 "">
 
 <!ENTITY fullZoomReduceCmd.label        "Micșorează">

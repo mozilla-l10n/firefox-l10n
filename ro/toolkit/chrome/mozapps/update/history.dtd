@@ -1,3 +1,9 @@
+<!--
+# Translator(s):
+#
+# jurk <jurk@linuxcsb.org>
+#
+-->
 
 <!ENTITY  history.title             "Istoric actualizări">
 <!ENTITY  history.intro             "S-au instalat următoarele actualizări:">
@@ -9,4 +15,3 @@
 <!ENTITY  date.header               "Data instalării">
 <!ENTITY  type.header               "Tip">
 <!ENTITY  state.header              "Stare">
-

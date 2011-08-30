@@ -1,5 +1,20 @@
 <!-- LOCALIZATION NOTE : FILE This file contains the Scratchpad window strings -->
 <!-- LOCALIZATION NOTE : FILE Do not translate commandkeys -->
+<!--
+# Translator(s):
+#
+# alexxed <alexxed@gmail.com>
+# stelistcristi <stelistcristi@yahoo.com>
+# raulmalea <raul.malea@gmail.com>
+#
+-->
+<!--
+# Reviewer(s):
+#
+# alexxed <alexxed@gmail.com>
+# raulmalea <raul.malea@gmail.com>
+#
+-->
 
 <!-- LOCALIZATION NOTE (scratchpad.title):
   -  The Scratchpad is intended to provide a simple text editor for creating
@@ -120,4 +135,3 @@
   -  It should be a one-line JavaScript comment, i.e., preceded by '//'
   -->
 <!ENTITY textbox.placeholder1         "// Introduceți niște cod JavaScript, selectați-l, faceți clic dreapta pe el și selectați Rulează, Inspectează sau Afișează.">
-
