@@ -1,4 +1,10 @@
 <!-- extracted from content/openLocation.xul -->
+<!--
+# Translator(s):
+#
+# alexxed <alexxed@gmail.com>
+#
+-->
 
 <!ENTITY enter.label "Introduceți o adresă web (URL), sau specificați fișierul local pe care doriți să îl deschideți:">  
 <!ENTITY chooseFile.label "Alege fișier...">

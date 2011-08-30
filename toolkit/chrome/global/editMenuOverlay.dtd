@@ -1,3 +1,15 @@
+<!--
+# Translator(s):
+#
+# nicubunu <nicubunu@gmail.com>
+#
+-->
+<!--
+# Reviewer(s):
+#
+# alexxed <alexxed@gmail.com>
+#
+-->
 <!ENTITY editMenu.label            "Editare">
 <!ENTITY editMenu.accesskey        "E">
 <!ENTITY undoCmd.label             "Anulează">

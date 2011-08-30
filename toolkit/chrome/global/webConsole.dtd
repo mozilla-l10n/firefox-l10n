@@ -1,3 +1,9 @@
+<!--
+# Translator(s):
+#
+# alexxed <alexxed@gmail.com>
+#
+-->
 <!ENTITY networkPanel.requestURL                  "Adresa cererii">
 <!ENTITY networkPanel.requestMethod               "Metoda cererii">
 <!ENTITY networkPanel.statusCode                  "Cod de stare">

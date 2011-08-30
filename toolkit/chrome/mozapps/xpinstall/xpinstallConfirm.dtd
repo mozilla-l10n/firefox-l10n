@@ -1,4 +1,17 @@
 <!-- extracted from institems.xul -->
+<!--
+# Translator(s):
+#
+# janimo <jani@ubuntu.com>
+# alexxed <alexxed@gmail.com>
+#
+-->
+<!--
+# Reviewer(s):
+#
+# alexxed <alexxed@gmail.com>
+#
+-->
 
 <!ENTITY dialog.title            "Instalare programe">
 <!ENTITY dialog.style            "width: 45em">
@@ -6,4 +19,3 @@
 <!ENTITY warningSecondary.label  "Programele rău-intenționate pot face rău calculatorului dumneavoastră sau pot atenta la confidențialitatea datelor dumneavoastră.">
 
 <!ENTITY from.label "de la:">
-

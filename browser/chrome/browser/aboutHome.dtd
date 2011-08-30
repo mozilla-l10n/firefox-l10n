@@ -1,6 +1,13 @@
 <!ENTITY % brandDTD
     SYSTEM "chrome://branding/locale/brand.dtd">
   %brandDTD;
+<!--
+# Translator(s):
+#
+# alexxed <alexxed@gmail.com>
+# raulmalea <raul.malea@gmail.com>
+#
+-->
 
 <!-- These strings are used in the about:home page -->
 

@@ -34,6 +34,12 @@
    - the terms of any one of the MPL, the GPL or the LGPL.
    -
    - ***** END LICENSE BLOCK ***** -->
+<!--
+# Translator(s):
+#
+# alexxed <alexxed@gmail.com>
+#
+-->
 
 <!ENTITY  validation.crlmanager.label             "Gestionează CRL-uri">
 <!ENTITY  validation.crlmanager.description       "În baza de date cu certificate sunt stocate următoarele liste de revocări de certificate (CRL):">

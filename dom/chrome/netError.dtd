@@ -1,3 +1,18 @@
+<!--
+# Translator(s):
+#
+# raulmalea <raul.malea@gmail.com>
+# stelistcristi <stelistcristi@yahoo.com>
+# alexxed <alexxed@gmail.com>
+#
+-->
+<!--
+# Reviewer(s):
+#
+# raulmalea <raul.malea@gmail.com>
+# alexxed <alexxed@gmail.com>
+#
+-->
 <!ENTITY loadError.label "Eroare la încărcarea paginii">
 <!ENTITY retry.label "Încearcă din nou">
 
@@ -81,10 +96,3 @@
 
 <!ENTITY remoteXUL.title "XUL la distanță">
 <!ENTITY remoteXUL.longDesc "<p><ul><li>Vă rugăm să contactați proprietarii websaitului pentru a-i informa despre această problemă.</li></ul></p>">
-
-<!-- Include app-specific error messages - do not change this in localization!
-     Some applications might override netErrorApp.dtd with their specific version,
-     this inclusion needs to be intact for that approach to work correctly.
-     Please, try to keep this at the end of the file. -->
-<!ENTITY % netErrorAppDTD SYSTEM "chrome://global/locale/netErrorApp.dtd">
-%netErrorAppDTD;

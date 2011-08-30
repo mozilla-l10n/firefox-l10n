@@ -1,3 +1,10 @@
+<!--
+# Translator(s):
+#
+# x10 <x10@mail.com>
+# alexxed <alexxed@gmail.com>
+#
+-->
 <!-- LOCALIZATION NOTE (tabs.otherComputers.label): Keep this in sync with syncTabsMenu.label from browser.dtd -->
 <!ENTITY tabs.otherComputers.label               "File de pe alte calculatoare">
 

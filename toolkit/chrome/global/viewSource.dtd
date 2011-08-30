@@ -1,4 +1,18 @@
 <!-- extracted from content/viewSource.xul -->
+<!--
+# Translator(s):
+#
+# Nicu <kneekoo@yahoo.com>
+# alexxed <alexxed@gmail.com>
+# nicubunu <nicubunu@gmail.com>
+#
+-->
+<!--
+# Reviewer(s):
+#
+# alexxed <alexxed@gmail.com>
+#
+-->
 
 <!-- LOCALIZATION NOTE (mainWindow.title) : DONT_TRANSLATE --> 
 <!ENTITY mainWindow.title "&brandFullName;">

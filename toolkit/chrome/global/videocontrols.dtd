@@ -1,3 +1,9 @@
+<!--
+# Translator(s):
+#
+# alexxed <alexxed@gmail.com>
+#
+-->
 <!ENTITY playButton.playLabel "Redare">
 <!ENTITY playButton.pauseLabel "Pauză">
 <!ENTITY muteButton.muteLabel "Oprește sonorul">

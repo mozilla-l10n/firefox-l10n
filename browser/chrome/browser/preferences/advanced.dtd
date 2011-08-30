@@ -1,4 +1,20 @@
 <!-- Note: each tab panel must contain unique accesskeys -->
+<!--
+# Translator(s):
+#
+# raulmalea <raul.malea@gmail.com>
+# alexxed <alexxed@gmail.com>
+# Laudatti <Laudatti@gmail.com>
+# evinteler <emil_vinteler2000@yahoo.com>
+#
+-->
+<!--
+# Reviewer(s):
+#
+# alexxed <alexxed@gmail.com>
+# raulmalea <raul.malea@gmail.com>
+#
+-->
 
 <!ENTITY generalTab.label                "General">
 
@@ -23,7 +39,7 @@
 <!ENTITY checkSpelling.accesskey         "t">
 
 <!ENTITY systemDefaults.label            "Opțiunile implicite ale sistemului">
-<!ENTITY alwaysCheckDefault.label        "Verifică întotdeauna la pornire dacă &brandShortName; este navigatorul implicit"><!--XXX-->
+<!--XXX--><!ENTITY alwaysCheckDefault.label        "Verifică întotdeauna la pornire dacă &brandShortName; este navigatorul implicit">
 <!ENTITY alwaysCheckDefault.accesskey    "V">
 <!ENTITY checkNow.label                  "Verifică acum">
 <!ENTITY checkNow.accesskey              "a">
@@ -60,7 +76,7 @@
 
 <!ENTITY autoCheck.label                 "Caută automat actualizări pentru:">
 <!ENTITY enableAppUpdate.label           "&brandShortName;">
-<!ENTITY enableAppUpdate.accesskey       "F">
+<!ENTITY enableAppUpdate.accesskey       "&">
 <!ENTITY enableAddonsUpdate2.label       "Suplimente">
 <!ENTITY enableAddonsUpdate2.accesskey   "n">
 <!ENTITY enableSearchUpdate.label        "Motoare de căutare">

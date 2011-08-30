@@ -1,3 +1,15 @@
+<!--
+# Translator(s):
+#
+# alexxed <alexxed@gmail.com>
+#
+-->
+<!--
+# Reviewer(s):
+#
+# alexxed <alexxed@gmail.com>
+#
+-->
 <!ENTITY blocklist.title             "Suplimentele pot cauza probleme">
 <!ENTITY blocklist.style             "width: 45em; height: 30em">
 <!ENTITY blocklist.summary           "&brandShortName; a găsit următoarele suplimente ca fiind cunoscute cauzatoare de probleme de stabilitate sau securitate:">
