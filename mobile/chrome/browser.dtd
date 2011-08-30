@@ -39,6 +39,7 @@
 <!ENTITY go.label                         "Eiti">
 <!ENTITY star.label                       "Žvaigždutė">
 
+<!ENTITY showTabs.label                   "Rodyti korteles">
 <!ENTITY newtab.label                     "Nauja kortelė">
 <!ENTITY closetab.label                   "Užverti kortelę">
 
@@ -47,6 +48,7 @@
 <!ENTITY copyAll.label                    "Kopijuoti viską">
 <!ENTITY copylink.label                   "Kopijuoti saito adresą">
 <!ENTITY paste.label                      "Įdėti">
+<!ENTITY pasteAndGo.label                 "Įdėti ir atverti">
 <!ENTITY delete.label                     "Pašalinti">
 <!ENTITY selectAll.label                  "Pažymėti viską">
 <!ENTITY noSuggestions.label              "(Nėra siūlymų)">
@@ -100,6 +102,7 @@
 <!ENTITY bookmarkPopup.label              "Tinklalapis įrašytas į adresyną">
 <!ENTITY bookmarkRemove.label             "Pašalinti">
 <!ENTITY bookmarkEdit.label               "Taisyti">
+<!ENTITY bookmarkShortcut.label           "Įtraukti į pradžios ekraną">
 
 <!ENTITY identity.unverifiedsite2         "Ši svetainė nepateikia duomenų apie savo tapatumą.">
 <!ENTITY identity.connectedTo2            "Prisijungta prie">
@@ -136,6 +139,7 @@
 <!ENTITY contextFullScreen.label          "Visas ekranas">
 <!ENTITY contextEditBookmark.label        "Taisyti">
 <!ENTITY contextRemoveBookmark.label      "Pašalinti">
+<!ENTITY contextShortcutBookmark.label    "Įtraukti į pradžios ekraną">
 
 <!ENTITY pageactions.saveas.pdf           "Įrašyti PDF formatu">
 <!ENTITY pageactions.share.page           "Dalintis tinklalapiu">
