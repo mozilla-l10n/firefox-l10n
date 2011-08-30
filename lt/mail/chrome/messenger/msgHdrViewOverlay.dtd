@@ -61,6 +61,7 @@
 <!ENTITY editMessageButton.label "Taisyti…">
 <!ENTITY hdrArchiveButton.label "Archyvuoti">
 <!ENTITY hdrArchiveButton.tooltip "Archyvuoti šį laišką">
+<!ENTITY hdrSmartReplyButton.label "Atsakyti parenkant gavėjus">
 <!ENTITY hdrReplyButton.label "Atsakyti">
 <!ENTITY hdrReplyButton.tooltip "Atsakyti į šį laišką">
 <!ENTITY hdrReplyAllButton.label "Atsakyti visiems">
