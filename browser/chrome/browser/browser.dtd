@@ -142,6 +142,8 @@ can reach it easily. -->
 <!ENTITY forwardCmd.label             "Pirmyn">
 <!ENTITY forwardCmd.accesskey         "P">
 <!ENTITY forwardButton.tooltip        "Vienu tinklalapiu pirmyn">
+<!ENTITY backForwardButtonMenu.tooltip "Spustelėję dešiniu pelės mygtuku arba palaikę nuspaustą kairįjį, pamatysite kortelės žurnalą">
+<!ENTITY backForwardButtonMenuMac.tooltip "Palaikę nuspaustą pelės mygtuką, pamatysite kortelės žurnalą">
 <!ENTITY reloadCmd.label              "Atsiųsti iš naujo">
 <!ENTITY reloadCmd.accesskey          "n">
 <!ENTITY reloadButton.tooltip         "Šį tinklalapį atsiųsti iš naujo">
@@ -339,6 +341,7 @@ can reach it easily. -->
   Mac:  Ctrl+K (cross platform binding)
         Cmd+Opt+F (platform convention)
   Win:  Ctrl+K (cross platform binding)
+        Ctrl+E (IE compat)
 
   We support Ctrl+K on all platforms now and advertise it in the menu since it is
   our standard - it is a "safe" choice since it is near no harmful keys like "W" as
@@ -350,6 +353,7 @@ can reach it easily. -->
  -->
 
 <!ENTITY searchFocus.commandkey       "k">
+<!ENTITY searchFocus.commandkey2      "e">
 <!ENTITY searchFocusUnix.commandkey   "j">
 
 <!ENTITY tabView.commandkey           "e">

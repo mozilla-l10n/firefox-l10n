@@ -203,7 +203,7 @@
 <!ENTITY addon.loadingReleaseNotes.label      "Įkeliama…">
 <!ENTITY addon.errorLoadingReleaseNotes.label "Atsiprašome, bet įkeliant laidos apžvalgą, įvyko klaida.">
 
-<!ENTITY addon.createdBy.label                "priedą kūrė ">
+<!ENTITY addon.createdBy.label                "priedą sukūrė ">
 
 <!ENTITY eula.title                           "Licencijos sutartis">
 <!ENTITY eula.width                           "560px">
