@@ -1,10 +1,13 @@
 <!ENTITY startup.label             "Inici">
 
 <!ENTITY startupPage.label         "Quan s'iniciï el &brandShortName;:">
-<!ENTITY startupPage.accesskey     "n">
+<!ENTITY startupPage.accesskey     "Q">
 <!ENTITY startupHomePage.label     "Mostra la meva pàgina d'inici">
 <!ENTITY startupBlankPage.label    "Mostra una pàgina en blanc">
 <!ENTITY startupLastSession.label  "Mostra les finestres i pestanyes de la darrera vegada">
+<!ENTITY restoreOnDemand.label     "No carreguis les pestanyes fins que les seleccioni">
+<!ENTITY restoreOnDemand.accesskey "N">
+
 <!ENTITY homepage.label            "Pàgina d'inici:">
 <!ENTITY homepage.accesskey        "i">
 <!ENTITY useCurrentPage.label      "Utilitza la pàgina actual">

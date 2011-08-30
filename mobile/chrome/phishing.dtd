@@ -20,8 +20,7 @@
 <!ENTITY safeb.blocked.malwarePage.shortDesc "S'ha informat que el lloc web a <span id='malware_sitename'/> seria atacant, i s'ha blocat d'acord amb les vostres preferències de seguretat.">
 <!ENTITY safeb.blocked.malwarePage.longDesc "<p>Els llocs atacants proven d'instaŀlar programari que roba informació privada, utilitzen el vostre ordinador per a atacar-ne d'altres, o fan malbé el vostre sistema.</p><p>Alguns llocs atacants distribueixen de forma intencionada programari maligne, tot i que molts estan compromesos sense el coneixement o permís dels propietaris.</p>">
 
-<!ENTITY safeb.blocked.phishingPage.title "S'ha informat que el lloc web és una falsificació!">
-<!-- Localization note (safeb.blocked.phishing.shortDesc) - Please don't translate the contents of the <span id="phishing_sitename"/> tag. It will be replaced at runtime with a domain name (e.g. www.badsite.com) -->
-<!ENTITY safeb.blocked.phishingPage.shortDesc "S'ha informat que el lloc web a <span id='phishing_sitename'/> seria una falsificació, i s'ha blocat d'acord amb les vostres preferències de seguretat.">
-<!ENTITY safeb.blocked.phishingPage.longDesc "<p>Les falsificacions web estan dissenyades per a enganyar-vos i que així reveleu la vostra informació personal i financera imitant les fonts en què podeu confiar.</p><p>Introduir-hi cap tipus d'informació pot resultar en una suplantació d'identitat o altra mena de fraus.</p>">
+<!ENTITY safeb.blocked.phishingPage.title2 "Se sospita que aquest lloc web és una falsificació!">
+<!ENTITY safeb.blocked.phishingPage.shortDesc2 "Si introduïu dades personals en aquest lloc web podrien suplantar-vos la identitat o cometre un frau.">
+<!ENTITY safeb.blocked.phishingPage.longDesc2 "<p>Aquest tipus de llocs web falsos s'utilitzen per cometre atacs de l'estil pesca electrònica, els quals intenten enganyar-vos amb un correu electrònic o una pàgina web que es fa passar per un lloc web de la vostra confiança.</p>">
 

@@ -7,6 +7,7 @@
 <!ENTITY go.label              "Vés-hi">
 <!ENTITY star.label            "Destaca">
 
+<!ENTITY showTabs.label        "Mostra les pestanyes">
 <!ENTITY newtab.label          "Crea una pestanya">
 <!ENTITY closetab.label        "Tanca la pestanya">
 
@@ -15,6 +16,7 @@
 <!ENTITY copyAll.label         "Copia-ho tot">
 <!ENTITY copylink.label        "Copia l'enllaç">
 <!ENTITY paste.label           "Enganxa">
+<!ENTITY pasteAndGo.label      "Enganxa i vés-hi">
 <!ENTITY delete.label          "Suprimeix">
 <!ENTITY selectAll.label       "Selecciona-ho tot">
 <!ENTITY noSuggestions.label   "(No hi ha suggeriments)">
@@ -69,6 +71,7 @@
 <!ENTITY bookmarkPopup.label       "Pàgina a les adreces d'interès">
 <!ENTITY bookmarkRemove.label      "Suprimeix">
 <!ENTITY bookmarkEdit.label        "Edita">
+<!ENTITY bookmarkShortcut.label    "Afegeix-ho a la pantalla d'inici">
 
 <!ENTITY identity.unverifiedsite2 "El lloc web no proporciona informació d'identitat.">
 <!ENTITY identity.connectedTo2 "Connectat a">
@@ -96,6 +99,7 @@
 <!ENTITY contextOpenInNewTab.label "Obre en una pestanya nova">
 <!ENTITY contextSaveLink.label        "Desa l'enllaç">
 <!ENTITY contextSaveImage.label    "Desa la imatge">
+<!ENTITY contextCopyLink.label        "Copia l'enllaç">
 <!ENTITY contextShareLink.label       "Comparteix l'enllaç">
 <!ENTITY contextShareImage.label      "Comparteix la imatge">
 <!ENTITY contextBookmarkLink.label    "Desa l'enllaç a les adreces d'interès">
@@ -106,8 +110,9 @@
 <!ENTITY contextFullScreen.label      "Pantalla completa">
 <!ENTITY contextEditBookmark.label    "Edita">
 <!ENTITY contextRemoveBookmark.label  "Suprimeix">
-<!ENTITY pageactions.quit            "Surt">
+<!ENTITY contextShortcutBookmark.label "Afegeix-ho a la pantalla d'inici">
 
+<!ENTITY pageactions.quit            "Surt">
 <!ENTITY pageactions.saveas.pdf      "Desa com a PDF">
 <!ENTITY pageactions.share.page      "Comparteix la pàgina">
 <!ENTITY pageactions.password.forget "Oblida la contrasenya">
@@ -115,6 +120,7 @@
 <!ENTITY pageactions.findInPage      "Cerca a la pàgina">
 <!ENTITY pageactions.search.addNew   "Afegeix el motor de cerca">
 <!ENTITY pageactions.charEncoding    "Codificació de caràcters">
+<!ENTITY pageactions.webapps.install "Instaŀla-ho com a aplicació">
 
 <!ENTITY appMenu.siteOptions         "Opcions del lloc">
 
