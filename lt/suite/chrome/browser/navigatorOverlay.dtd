@@ -52,16 +52,6 @@
 
 <!-- Edit Menu -->
 <!ENTITY findOnCmd.label "Ieškoti šiame tinklalapyje…">
-<!ENTITY findOnCmd.accesskey "I">
-<!ENTITY findOnCmd.commandkey "f">
-<!ENTITY findAgainCmd.label "Ieškoti toliau">
-<!ENTITY findAgainCmd.accesskey "e">
-<!ENTITY findAgainCmd.commandkey "g">
-<!ENTITY findPrevCmd.label "Ieškoti ankstesnio">
-<!ENTITY findPrevCmd.accesskey "o">
-<!ENTITY findPrevCmd.commandkey "g">
-<!ENTITY findAgainCmd.commandkey2 "VK_F3">
-<!ENTITY findPrevCmd.commandkey2 "VK_F3">
 
 <!-- View Menu -->
 <!ENTITY toolbarsCmd.label "Priemonių juostos">
