@@ -1,4 +1,4 @@
-<!ENTITY upgrade.style               "largura: 93ch; altura: 448px;">
+<!ENTITY upgrade.style               "width: 93ch; altura: 448px;">
 
 <!ENTITY checking.heading            "A verificar os seus extras">
 <!ENTITY checking.progress.label     "A verificar os seus extras por compatibilidade com esta versão do &brandShortName;.">
@@ -10,17 +10,17 @@
 <!ENTITY select.keep                 "Manter">
 <!-- LOCALIZATION NOTE (select.keep.style): Should be a width wide enough for
      the string in select.keep above. -->
-<!ENTITY select.keep.style           "largura: 6ch;">
+<!ENTITY select.keep.style           "width: 6ch;">
 <!ENTITY select.action               "Ação">
 <!-- LOCALIZATION NOTE (select.action.style): Should be a width wide enough for
      the action strings in selectAddons.properties or brandShortName. -->
-<!ENTITY select.action.style         "largura: 35ch;">
+<!ENTITY select.action.style         "width: 35ch;">
 <!ENTITY select.source               "Instalado por">
 <!ENTITY select.name                 "Nome">
 <!-- LOCALIZATION NOTE (select.name.style): Should be a width small enough so
      the source column still has enough room for the source strings in
      selectAddons.properties. -->
-<!ENTITY select.name.style           "largura: 33ch;">
+<!ENTITY select.name.style           "width: 33ch;">
 
 <!ENTITY confirm.heading             "Selecione os seus extras">
 <!-- LOCALIZATION NOTE (confirm.description): The term used for "third parties"
