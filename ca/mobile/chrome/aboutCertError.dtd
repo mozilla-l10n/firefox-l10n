@@ -14,9 +14,6 @@ be replaced at runtime with the name of the server to which the user
 was trying to connect. -->
 <!ENTITY certerror.introPara1 "Heu demanat al &brandShortName; connectar-se
 de forma segura a <b>#1</b>, però no podem confirmar que la vostra connexió ho sigui.">
-<!ENTITY certerror.introPara2 "Normalment, quan intenteu connectar-vos de forma segura,
-els llocs web us presentaran una identificació pertinent per a demostrar-vos que aneu
-al lloc adequat. No obstant això, la identitat d'aquest lloc no es pot verificar.">
 
 <!ENTITY certerror.whatShouldIDo.heading "Què caldria que fes?">
 <!ENTITY certerror.whatShouldIDo.content "Si normalment us connecteu a

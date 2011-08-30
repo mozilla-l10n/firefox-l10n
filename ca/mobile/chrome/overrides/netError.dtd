@@ -7,21 +7,19 @@
 <!-- Specific error messages -->
 
 <!ENTITY connectionFailure.title "No s'ha pogut connectar">
-<!ENTITY connectionFailure.longDesc "&sharedLongDesc;">
+<!ENTITY connectionFailure.longDesc "&sharedLongDesc2;">
 
 <!ENTITY deniedPortAccess.title "L'adreça està restringida">
 <!ENTITY deniedPortAccess.longDesc "">
 
 <!ENTITY dnsNotFound.title "No s'ha trobat el servidor">
-<!ENTITY dnsNotFound.longDesc "
+<!ENTITY dnsNotFound.longDesc2 "
 <ul>
-  <li>Comproveu que no s'hagin introduït errors en teclejar l'adreça, p. ex.
+  <li>Comproveu que l'adreça és correcta i no hi ha errors com
     <strong>ww</strong>.example.com en comptes de
     <strong>www</strong>.example.com</li>
-  <li>Si no podeu carregar cap pàgina, comproveu la connexió a la xarxa
-    del vostre ordinador.</li>
-  <li>Si el vostre ordinador o la vostra xarxa estan protegits per un tallafocs o per un servidor intermediari, assegureu-vos
-    que el &brandShortName; tingui permís per a accedir al WWW.</li>
+  <li>Si no podeu carregar cap pàgina, comproveu la connexió Wi-Fi o de dades 
+      del vostre dispositiu.</li>
 </ul>
 ">
 
@@ -50,7 +48,7 @@
 ">
 
 <!ENTITY netInterrupt.title "S'ha interromput la connexió">
-<!ENTITY netInterrupt.longDesc "&sharedLongDesc;">
+<!ENTITY netInterrupt.longDesc "&sharedLongDesc2;">
 
 <!-- LOCALIZATION NOTE (netOffline2.longDesc) - Workaround to allow the l10n tools
      to pickup this string change. Please update netOffline.longDesc too -->
@@ -70,7 +68,7 @@
 ">
 
 <!ENTITY netReset.title "S'ha reiniciat la connexió">
-<!ENTITY netReset.longDesc "&sharedLongDesc;">
+<!ENTITY netReset.longDesc "&sharedLongDesc2;">
 
 <!ENTITY unsafeContentType.title "Tipus de fitxer insegur">
 <!ENTITY unsafeContentType.longDesc "
@@ -80,7 +78,7 @@
 ">
 
 <!ENTITY netTimeout.title "S'ha esgotat el temps d'espera de la connexió">
-<!ENTITY netTimeout.longDesc "&sharedLongDesc;">
+<!ENTITY netTimeout.longDesc "&sharedLongDesc2;">
 
 <!ENTITY protocolNotFound.title "No s'ha entès l'adreça">
 <!ENTITY protocolNotFound.longDesc "
@@ -99,12 +97,10 @@
 ">
 
 <!ENTITY proxyResolveFailure.title "No s'ha pogut trobar el servidor intermediari">
-<!ENTITY proxyResolveFailure.longDesc "
+<!ENTITY proxyResolveFailure.longDesc2 "
 <ul>
   <li>Comproveu els paràmetres del servidor intermediari per a assegurar-vos que siguin correctes.</li>
-  <li>Comproveu que el vostre ordinador té una connexió a la xarxa funcional.</li>
-  <li>Si el vostre ordinador o la vostra xarxa estan protegits per un tallafocs o per un servidor intermediari, assegureu-vos
-    que el &brandShortName; tingui permís per a accedir al WWW.</li>
+  <li>Comproveu la connexió Wi-Fi o de dades del vostre dispositiu.</li>
 </ul>
 ">
 
@@ -143,27 +139,14 @@ ser temporal, i podeu provar-ho de nou més tard.</li>
 </ul>
 ">
 
-<!ENTITY sharedLongDesc "
+<!ENTITY sharedLongDesc2 "
 <ul>
   <li>El lloc web podria estar temporalment no disponible o massa ocupat. Torneu-ho a provar
     d'aquí uns moments.</li>
-  <li>Si no podeu carregar cap pàgina, comproveu la connexió a la xarxa del vostre
-    ordinador.</li>
-  <li>Si el vostre ordinador o la vostra xarxa estan protegits per un tallafocs o per un servidor intermediari, assegureu-vos
-    que el &brandShortName; tingui permís per a accedir al WWW.</li>
+  <li>Si no podeu carregar cap pàgina, comproveu la connexió Wi-Fi o de dades del vostre
+    dispositiu.</li>
 </ul>
 ">
-
-<!ENTITY malwareBlocked.title "Lloc sospitós de ser atacant!">
-<!ENTITY malwareBlocked.longDesc "
-<p>Els llocs atacants instaŀlen programari que roba informació privada, utilitzen el vostre ordinador per a atacar-ne d'altres, o fan malbé el vostre sistema.</p>
-<p>Els propietaris que creguin que llurs llocs web s'han informat de forma errònia, poden <a href='http://www.stopbadware.org/home/reviewinfo' >demanar que es revisin</a>.</p>
-">
-
-<!ENTITY phishingBlocked.title "Lloc sospitós de ser una falsificació web!">
-<!ENTITY phishingBlocked.longDesc "
-<p>Introduir informació personal en aquesta pàgina podria resultar en una suplantació d'indentitat o algun altre tipus de frau.</p>
-<p>Aquest tipus de falsificacions web s'utilitzen en enganys coneguts com a pesca electrònica (phishing), amb què webs i adreces electròniques fraudulentes s'utilitzen per a imitar fonts en què podeu confiar-hi.</p>">
 
 <!ENTITY corruptedContentError.title "Error en el contingut">
 <!ENTITY corruptedContentError.longDesc "<p>La pàgina que esteu intentant veure perquè s'ha produït un error en la transmissió.</p><ul><li>Contacteu amb els propietaris del web per informar-los del problema.</li></ul>">

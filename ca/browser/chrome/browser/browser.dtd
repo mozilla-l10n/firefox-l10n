@@ -103,6 +103,8 @@
 <!ENTITY forwardCmd.label "Endavant">
 <!ENTITY forwardCmd.accesskey "t">
 <!ENTITY forwardButton.tooltip "Vés una pàgina endavant">
+<!ENTITY backForwardButtonMenu.tooltip "Feu clic amb el botó secundari o desplegueu-lo per veure l'historial">
+<!ENTITY backForwardButtonMenuMac.tooltip "Desplegueu-lo per veure l'historial">
 <!ENTITY reloadCmd.label "Actualitza">
 <!ENTITY reloadCmd.accesskey "z">
 <!ENTITY reloadButton.tooltip "Actualitza la pàgina actual">
@@ -313,6 +315,7 @@
   
  -->
 <!ENTITY searchFocus.commandkey "k">
+<!ENTITY searchFocus.commandkey2    "e">
 <!ENTITY searchFocusUnix.commandkey "j">
 
 <!ENTITY tabView.commandkey           "e">
