@@ -1,5 +1,5 @@
 <!--LOCALIZATION NOTE shown while obtaining certificates from a directory -->
 
-<!ENTITY title.label "Prenašam potrdila">
+<!ENTITY title.label "Prenašanje potrdil">
 <!ENTITY info.message "Preiskujem imenik za naslovnikova potrdila. To lahko traja nekaj minut.">
 <!ENTITY stop.label "Prekini iskanje">

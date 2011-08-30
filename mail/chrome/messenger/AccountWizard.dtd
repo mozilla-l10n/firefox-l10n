@@ -7,7 +7,7 @@
 
 <!ENTITY accountSetupInfo.label "Da lahko prejemate sporočila, morate najprej odpreti račun za pošto ali novičarsko skupino">
 <!ENTITY accountTypeTitle.label "Nastavitev novega računa">
-<!ENTITY accountTypeDesc.label "Ta čarovnik bo zbiral informacije, ki jih rabi za odprtje računa za pošto ali novičarsko skupino Če zahtevanih podatkov ne veste, se obrnite na skrbnika sistema ali ponudnika internetnih storitev.">
+<!ENTITY accountTypeDesc.label "Ta čarovnik bo zbiral informacije, ki jih rabi za odprtje računa za pošto ali novičarsko skupino. Če zahtevanih podatkov ne veste, se obrnite na skrbnika sistema ali ponudnika internetnih storitev.">
 <!ENTITY accountTypeDirections.label "Izberite vrsto računa, ki ga želite odpreti:">
 <!ENTITY accountTypeMail.label "Račun za e-pošto">
 <!ENTITY accountTypeMail.accesskey "e">
@@ -44,7 +44,7 @@
 <!ENTITY newsServerNameDesc.label "Vnesite ime svojega strežnika za novice (NNTP) (na primer, &quot;novice.naprimer.net&quot;).">
 <!-- LOCALIZATION NOTE (smtpServerDesc.label) : Do not translate "SMTP" and "&quot;smtp.example.net&quot;" in below line -->
 <!ENTITY smtpServerDesc.label "Vnesite ime izhodnega strežnika (SMTP) (na primer, &quot;smtp.naprimer.net&quot;).">
-<!ENTITY smtpServerLabel.label "Izhodni strežnik:">
+<!ENTITY smtpServerLabel.label "Odhodni strežnik:">
 <!ENTITY smtpServerLabel.accesskey "I">
 <!ENTITY newsServerLabel.label "Strežnik za novice:">
 <!ENTITY newsServerLabel.accesskey "N">
@@ -54,14 +54,12 @@
 <!-- LOCALIZATION NOTE (popType.label) : Do not translate "POP" in below line -->
 <!ENTITY popType.label "POP">
 <!ENTITY popType.accesskey "P">
-<!ENTITY leaveMsgsOnSrvr.label "Pusti sporočila na strežniku">
-<!ENTITY leaveMsgsOnSrvr.accesskey "L">
 
 <!-- LOCALIZATION NOTE (haveSmtp1.prefix and haveSmtp1.suffix2) : Do not translate "SMTP" and "&quot;" in
      these variables. Also, translate haveSmtp1.prefix and haveSmtp1.suffix2 as a single sentence, inserting
      text after the "&quot;" entity in haveSmtp1.suffix2, if required grammatically.
 -->
-<!ENTITY haveSmtp1.prefix "Uporabljalo se bo vaš obstoječi izhodni strežnik (SMTP),&quot;">
+<!ENTITY haveSmtp1.prefix "Uporabljalo se bo vaš obstoječi odhodni strežnik (SMTP),&quot;">
 <!ENTITY haveSmtp1.suffix2 "&quot;. Odhodne strežnike lahko spremenite v nastavitvah računa.">
 
 <!-- Entities for Login page -->
