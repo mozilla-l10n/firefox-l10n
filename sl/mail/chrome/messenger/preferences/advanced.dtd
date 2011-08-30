@@ -6,7 +6,7 @@
 
 <!-- General Settings -->
 
-<!ENTITY enableGlodaSearch.label       "Enable Global Search and Indexer">
+<!ENTITY enableGlodaSearch.label       "Omogoči globalno iskanje in indeksiranje">
 <!ENTITY enableGlodaSearch.accesskey   "e">
 <!ENTITY systemIntegration.label       "Sistemska integracija">
 <!ENTITY alwaysCheckDefault.label      "Ob zagonu vedno preveri, ali je &brandShortName; privzeti odjemalec elektronske pošte">
@@ -49,7 +49,7 @@
 <!ENTITY closeMsgOnMoveOrDelete.accesskey "z">
 
 <!-- Update -->
-<!ENTITY autoCheck.label                "Automatically check for updates to:">
+<!ENTITY autoCheck.label                "Samodejno preverjaj za posodobitve:">
 <!ENTITY enableAppUpdate.label          "&brandShortName;">
 <!ENTITY enableAppUpdate.accesskey      "d">
 <!ENTITY enableAddonsUpdate.label       "Nameščene razširitve in teme">
@@ -85,14 +85,14 @@
 
   &useCacheBefore.label  [ textbox for cache size in MB ]   &useCacheAfter.label;
 -->
-<!ENTITY useCacheBefore.label            "Use up to">
+<!ENTITY useCacheBefore.label            "Uporabi do">
 <!ENTITY useCacheBefore.accesskey        "U">
 <!ENTITY useCacheAfter.label             "MB prostora za predpomnjenje.">
 <!ENTITY clearCacheNow.label             "Počisti zdaj">
 <!ENTITY clearCacheNow.accesskey         "z">
 
 <!-- Certificates -->
-<!ENTITY certSelection.description       "When a server requests my personal certificate:">
+<!ENTITY certSelection.description       "Ko strežnik zahteva moj osebni certifikat:">
 <!ENTITY certs.auto                      "Ga izberi samodejno">
 <!ENTITY certs.auto.accesskey            "s">
 <!ENTITY certs.ask                       "Me vsakokrat vprašaj">
