@@ -8,5 +8,5 @@
 <!ENTITY useSmallIcons.label "Usar iconos pequeños">
 <!ENTITY restoreDefaultSet.label "Valores por defecto">
 <!ENTITY addNewToolbar.label "Añadir barra">
-<!ENTITY saveChanges.label "Terminado">
+<!ENTITY saveChanges.label "Hecho">
 <!ENTITY undoChanges.label "Deshacer cambios">

@@ -2,7 +2,7 @@
 <!ENTITY button-back-mac.accesskey "R">
 <!ENTITY button-next-mac.label "Continuar">
 <!ENTITY button-next-mac.accesskey "C">
-<!ENTITY button-finish-mac.label "Terminado">
+<!ENTITY button-finish-mac.label "Hecho">
 <!ENTITY button-cancel-mac.label "Cancelar">
 <!ENTITY button-back-unix.label "Atrás">
 <!ENTITY button-back-unix.accesskey "A">
