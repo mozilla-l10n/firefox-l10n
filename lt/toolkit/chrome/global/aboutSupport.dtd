@@ -51,6 +51,7 @@
 <!ENTITY aboutSupport.appBasicsEnabledPlugins      "Įjungti priedai">
 <!ENTITY aboutSupport.appBasicsBuildConfig         "Darinio konfigūracija">
 <!ENTITY aboutSupport.appBasicsUserAgent           "Naršyklės identifikacinė eilutė">
+<!ENTITY aboutSupport.appBasicsCrashIDs            "Strigčių pranešimai">
 
 <!ENTITY aboutSupport.show.label                   "Atverti aplanką">
 
