@@ -204,14 +204,14 @@
 <!ENTITY fontStyleMenu.label "Slog pisave">
 <!ENTITY fontStyleMenu.accesskey "S">
 <!ENTITY styleBoldCmd.label "Krepko">
-<!ENTITY styleBoldCmd.accesskey "K">
-<!ENTITY styleBoldCmd.key "K">
+<!ENTITY styleBoldCmd.accesskey "B">
+<!ENTITY styleBoldCmd.key "B">
 <!ENTITY styleItalicCmd.label "Ležeče">
-<!ENTITY styleItalicCmd.accesskey "L">
-<!ENTITY styleItalicCmd.key "L">
+<!ENTITY styleItalicCmd.accesskey "I">
+<!ENTITY styleItalicCmd.key "I">
 <!ENTITY styleUnderlineCmd.label "Podčrtano">
-<!ENTITY styleUnderlineCmd.accesskey "P">
-<!ENTITY styleUnderlineCmd.key "P">
+<!ENTITY styleUnderlineCmd.accesskey "U">
+<!ENTITY styleUnderlineCmd.key "U">
 <!ENTITY styleStrikeThruCmd.label "Prečrtano">
 <!ENTITY styleStrikeThruCmd.accesskey "e">
 <!ENTITY styleSuperscriptCmd.label "Nadpisano">
