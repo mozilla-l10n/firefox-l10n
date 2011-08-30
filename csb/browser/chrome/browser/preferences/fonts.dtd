@@ -1,3 +1,15 @@
+<!--
+# Translator(s):
+#
+# https://launchpad.net/~kaszeba <mark@linuxcsb.org>
+#
+-->
+<!--
+# Reviewer(s):
+#
+# jurk <jurk@linuxcsb.org>
+#
+-->
 <!ENTITY  fontsDialog.title                       "Fòntë">
 <!ENTITY  window.width                            "39em">
 <!ENTITY  window.macWidth                         "43em">
@@ -7,7 +19,7 @@
 <!ENTITY  language.accesskey                      "F">
 
 <!ENTITY  size.label                              "Miara:">
-<!ENTITY  sizeProportional.accesskey              "z">
+<!ENTITY  sizeProportional.accesskey              "r">
 <!ENTITY  sizeMonospace.accesskey                 "e">
 
 <!ENTITY  proportional.label                      "Propòrcjonalny:">

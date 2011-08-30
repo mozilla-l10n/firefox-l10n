@@ -1,3 +1,10 @@
+<!--
+# Translator(s):
+#
+# warszk <michol@linuxcsb.org>
+# jurk <jurk@linuxcsb.org>
+#
+-->
 <!-- The page shown when not logged in... -->
 <!ENTITY setupButton.label          "Ùstawi &syncBrand.fullName.label;">
 <!ENTITY setupButton.accesskey      "s">

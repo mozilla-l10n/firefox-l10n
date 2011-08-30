@@ -1,3 +1,9 @@
+<!--
+# Translator(s):
+#
+# https://launchpad.net/~kaszeba <mark@linuxcsb.org>
+#
+-->
 <!ENTITY cutCmd.label "Wëtni">
 <!ENTITY cutCmd.accesskey "W">
 <!ENTITY copyCmd.label "Kòpérëjë">

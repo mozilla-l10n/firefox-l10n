@@ -1,3 +1,21 @@
+<!--
+# Translator(s):
+#
+# warszk <michol@linuxcsb.org>
+# jurk <jurk@linuxcsb.org>
+#
+-->
+<!--
+# Reviewer(s):
+#
+# jurk <jurk@linuxcsb.org>
+#
+-->
+<!ENTITY tracking.label                 "Szlachòwanié">
+
+<!ENTITY doNotTrack.label               "Wëłączë szlachòwanié z ti starnë">
+<!ENTITY doNotTrack.accesskey           "W">
+
 <!ENTITY  history.label                 "Historëjô">
 
 <!ENTITY  locationBar.label             "Listew adresë">
@@ -30,7 +48,6 @@
 <!ENTITY  showCookies.label             "Wëskrzëni kùszczi...">
 <!ENTITY  showCookies.accesskey         "k">
 
-
 <!ENTITY  historyHeader.pre.label          "Programa &brandShortName;:">
 <!ENTITY  historyHeader.pre.accesskey      "m">
 <!ENTITY  historyHeader.remember.label     "Pamiãtôj historëjã">
@@ -57,8 +74,8 @@
 <!ENTITY  dontrememberActions.clearHistory.label "wëczëszczëc całowną aktualną historëjã">
 <!ENTITY  dontrememberActions.post.label         ".">
 
-<!ENTITY  privateBrowsingPermanent.label "Stójny trib priwatnégò przezéraniô séce">
-<!ENTITY  privateBrowsingPermanent.accesskey "p">
+<!ENTITY  privateBrowsingPermanent2.label "Wiedno ùżëwôj tribu priwatnégò przezéraniô séce">
+<!ENTITY  privateBrowsingPermanent2.accesskey "p">
 
 <!ENTITY  rememberHistory.label      "Pamiãtôj historëjã mòjégò przezéraniô">
 <!ENTITY  rememberHistory.accesskey  "P">

@@ -1,3 +1,16 @@
+<!--
+# Translator(s):
+#
+# https://launchpad.net/~kaszeba <mark@linuxcsb.org>
+# jurk <jurk@linuxcsb.org>
+#
+-->
+<!--
+# Reviewer(s):
+#
+# jurk <jurk@linuxcsb.org>
+#
+-->
 <!ENTITY window.title                 "Wëjimczi">
 <!ENTITY window.width                 "36em">
 
@@ -19,4 +32,3 @@
 
 <!ENTITY button.close.label           "Zamkni">
 <!ENTITY button.close.accesskey       "Z">
-

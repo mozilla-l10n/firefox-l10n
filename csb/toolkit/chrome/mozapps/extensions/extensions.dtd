@@ -1,3 +1,11 @@
+<!--
+# Translator(s):
+#
+# jurk <jurk@linuxcsb.org>
+# https://launchpad.net/~kaszeba <mark@linuxcsb.org>
+# warszk <michol@linuxcsb.org>
+#
+-->
 <!ENTITY addons.windowTitle                   "Menadżera przëdôwków">
 <!ENTITY search.placeholder                   "Szëkba we wszëtczich przëdôwkach">
 <!ENTITY loading.label                        "Ladowanié...">
@@ -23,14 +31,13 @@
 <!ENTITY warning.updatesecurity.enable.label       "Włączë">
 <!ENTITY warning.updatesecurity.enable.tooltip     "Włączë sprôwdzanié bezpiekù aktualizacëji pòdôwków">
 
+<!-- global informations -->
+<!ENTITY info.plugincheck.label                 "Check to see if your plugins are up to date">
+<!ENTITY info.plugincheck.tooltip               "Check to see if your plugins are up to date">
+
 <!-- categories / views -->
 <!ENTITY view.search.label                    "Szëkba">
 <!ENTITY view.discover.label                  "Dobëjë przëdôwczi">
-<!ENTITY view.locales.label                   "Jãzëczi">
-<!ENTITY view.searchengines.label             "Szëkôrze">
-<!ENTITY view.features.label                  "Roszerzénia">
-<!ENTITY view.appearance2.label               "Wëzdrzatk">
-<!ENTITY view.plugins.label                   "Wtëkôcze">
 <!ENTITY view.recentUpdates.label             "Slédné zaktualnienia">
 <!ENTITY view.availableUpdates.label          "Przëstãpné aktualizacëje">
 
@@ -201,3 +208,5 @@
 <!ENTITY eula.width                           "560px">
 <!ENTITY eula.height                          "400px">
 <!ENTITY eula.accept                          "Akceptëjã, winstalëjë...">
+
+<!ENTITY settings.path.button.label           "Browse…">

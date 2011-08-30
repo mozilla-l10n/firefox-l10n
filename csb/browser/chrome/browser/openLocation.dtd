@@ -1,4 +1,11 @@
 <!-- extracted from content/openLocation.xul -->
+<!--
+# Translator(s):
+#
+# jurk <jurk@linuxcsb.org>
+# warszk <michol@linuxcsb.org>
+#
+-->
 
 <!ENTITY enter.label "Wpiszë adresã URL, abò pòdôj môlowi lopk chtërny chcesz òtemknąc:">  
 <!ENTITY chooseFile.label "Wëbierzë lopk...">

@@ -1,3 +1,16 @@
+<!--
+# Translator(s):
+#
+# jurk <jurk@linuxcsb.org>
+# warszk <michol@linuxcsb.org>
+#
+-->
+<!--
+# Reviewer(s):
+#
+# jurk <jurk@linuxcsb.org>
+#
+-->
 <!ENTITY loadError.label "Fela czëtaniô starnë">
 <!ENTITY retry.label "Spróbùjë znowa">
 
@@ -25,8 +38,7 @@
 <!ENTITY netInterrupt.longDesc "<p>Przezérnik sparłãczëł sã, równak sparłãczenié òstało przerwóné przë sélaniu wëdowiédzë. Nót je spróbòwac znowa.</p><ul><li>Ni mòżész téż òbzérac jinszëch starnów? Nót je sprôwdzëc sparłãczenié z sécą.</li><li>Jeżlë dali są problemë, nót je sparłãczëc sã ze sprôwnikã sécë abò z dowòznikã internetowich ùsłëżnotów.</li></ul>">
 
 <!ENTITY netOffline.title "Trib offline">
-<!ENTITY netOffline.longDesc "<p>Przezérnik robi w tribie offline ë ni mòże zladowac żądónegò elementu . </p><ul><li>Je kòmpùtr przëłączony do robiący sécë?</li><li>Nót je przełączëc przezérnik na trib online ë spróbòwac znowa.</li></ul>">
-<!ENTITY netOffline.overrideLongDesc "<p>Przezérnik robi w tribie offline ë ni mòże zladowac żądónegò elementu . </p><ul><li>Je kòmpùtr przëłączony do robiący sécë?</li><li>Nót je przełączëc przezérnik na trib online ë spróbòwac znowa.</li></ul>">
+<!ENTITY netOffline.longDesc2 "<p>The browser is operating in its offline mode and cannot connect to the requested item.</p><ul><li>Is the computer connected to an active network?</li><li>Press &quot;Try Again&quot; to switch to online mode and reload the page.</li></ul>">
 
 <!ENTITY contentEncodingError.title "Fela kòdowaniô zamkłoscë">
 <!ENTITY contentEncodingError.longDesc "<p>Starna chtërną chcesz òtemknąc ni mòże bëc wëskrzënionô, dlôte że brëkùje òna lëchich abò niewspierónëch fòrm kòmpresëji.</p><ul><li>Nót je dac wiédzã miéwcë starnë ò problemie.</li></ul>">
@@ -77,8 +89,8 @@
 <!ENTITY cspFrameAncestorBlocked.title "Blokòwóné przez Pòlitikã Bezpiékù Zamkłoscë">
 <!ENTITY cspFrameAncestorBlocked.longDesc "<p>Przezérnik ùniemòżebnił ti starnié zaladowanié na nen ôrt, bò mô òna taką pòlitkiã zamkłoscë chtërnô na to nie pòzwôlô.</p>">
 
-<!-- Include app-specific error messages - do not change this in localization!
-     Some applications might override netErrorApp.dtd with their specific version,
-     this inclusion needs to be intact for that approach to work correctly. -->
-<!ENTITY % netErrorAppDTD SYSTEM "chrome://global/locale/netErrorApp.dtd">
-%netErrorAppDTD;
+<!ENTITY corruptedContentError.title "Corrupted Content Error">
+<!ENTITY corruptedContentError.longDesc "<p>The page you are trying to view cannot be shown because an error in the data transmission was detected.</p><ul><li>Please contact the website owners to inform them of this problem.</li></ul>">
+
+<!ENTITY remoteXUL.title "Zdalné XUL">
+<!ENTITY remoteXUL.longDesc "<p><ul><li>Proszã dac wiédzã miéwcë ti starnë ò tim problemie.</li></ul></p>">

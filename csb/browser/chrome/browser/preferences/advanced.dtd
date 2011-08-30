@@ -1,4 +1,18 @@
 <!-- Note: each tab panel must contain unique accesskeys -->
+<!--
+# Translator(s):
+#
+# warszk <michol@linuxcsb.org>
+# https://launchpad.net/~kaszeba <mark@linuxcsb.org>
+# jurk <jurk@linuxcsb.org>
+#
+-->
+<!--
+# Reviewer(s):
+#
+# jurk <jurk@linuxcsb.org>
+#
+-->
 
 <!ENTITY generalTab.label                "Òglowé">
 
@@ -21,16 +35,16 @@
 <!ENTITY allowHWAccel.accesskey          "B">
 <!ENTITY checkSpelling.label             "Sprôwdzë pisënk przë wpisëwaniu tekstu">
 <!ENTITY checkSpelling.accesskey         "t">
-<!ENTITY doNotTrack.label                "Wëłączë szlachòwanié z ti starnë">
-<!ENTITY doNotTrack.accesskey            "W">
 
 <!ENTITY systemDefaults.label            "Systemòwé nastôwë">
-<!ENTITY alwaysCheckDefault.label        "Sprôwdzôj przë zrëszaniu czë &brandShortName; je domëslnym przezérnikã"><!--XXX-->
+<!--XXX--><!ENTITY alwaysCheckDefault.label        "Sprôwdzôj przë zrëszaniu czë &brandShortName; je domëslnym przezérnikã">
 <!ENTITY alwaysCheckDefault.accesskey    "p">
 <!ENTITY checkNow.label                  "Sprôwdzë terô">
 <!ENTITY checkNow.accesskey              "S">
 <!ENTITY submitCrashes.label             "Sélanié rapòrtów ò awarëjach">
 <!ENTITY submitCrashes.accesskey         "S">
+<!ENTITY submitTelemetry.label           "Wëslë pòdôwczi ò wëdajnoscë">
+<!ENTITY submitTelemetry.accesskey       "p">
 
 <!ENTITY networkTab.label                "Séc">
 

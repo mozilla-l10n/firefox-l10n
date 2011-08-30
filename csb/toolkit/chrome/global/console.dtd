@@ -34,6 +34,12 @@
    - the terms of any one of the MPL, the GPL or the LGPL.
    -
    - ***** END LICENSE BLOCK ***** -->
+<!--
+# Reviewer(s):
+#
+# jurk <jurk@linuxcsb.org>
+#
+-->
 
 <!ENTITY errorConsole.title "Kònsola felów">
 
@@ -58,11 +64,11 @@
 
 <!ENTITY copyCmd.label       "Kòpérëjë">  
 <!ENTITY copyCmd.accesskey   "K"> 
-<!ENTITY copyCmd.commandkey  "C"> 
+<!ENTITY copyCmd.commandkey  "k"> 
 <!ENTITY sortFirst.label     "Zortowanié òd pierszegò do slédnegò">
 <!ENTITY sortFirst.accesskey "Z">
 <!ENTITY sortLast.label      "Zortowanié ò slédnegò do pierszegò">
 <!ENTITY sortLast.accesskey  "o">
-<!ENTITY closeCmd.commandkey "w">  
+<!ENTITY closeCmd.commandkey "Z">  
 <!ENTITY focus1.commandkey   "l">  
 <!ENTITY focus2.commandkey   "d">  

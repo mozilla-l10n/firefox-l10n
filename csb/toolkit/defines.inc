@@ -1,1 +1,1 @@
-#define MOZ_LANG_TITLE Kashubian
+#define MOZ_LANG_TITLE Kashubian (CSB)

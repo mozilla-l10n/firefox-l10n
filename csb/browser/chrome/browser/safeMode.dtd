@@ -35,6 +35,18 @@
    -
 #endif
    - ***** END LICENSE BLOCK ***** -->
+<!--
+# Translator(s):
+#
+# warszk <michol@linuxcsb.org>
+#
+-->
+<!--
+# Reviewer(s):
+#
+# jurk <jurk@linuxcsb.org>
+#
+-->
 
 <!ENTITY safeModeDialog.title         "&brandShortName; -awariowi trib">
 <!ENTITY window.width                 "37em">

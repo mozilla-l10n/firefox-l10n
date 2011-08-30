@@ -1,3 +1,17 @@
+<!--
+# Translator(s):
+#
+# https://launchpad.net/~kaszeba <mark@linuxcsb.org>
+# jurk <jurk@linuxcsb.org>
+# warszk <michol@linuxcsb.org>
+#
+-->
+<!--
+# Reviewer(s):
+#
+# jurk <jurk@linuxcsb.org>
+#
+-->
 
 <!ENTITY  prefWindow.titleWin     "Òptacëje">
 <!ENTITY  prefWindow.titleGNOME   "Preferencëje programë &brandShortName;">

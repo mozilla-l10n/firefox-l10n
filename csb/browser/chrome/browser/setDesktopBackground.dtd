@@ -1,3 +1,9 @@
+<!--
+# Reviewer(s):
+#
+# jurk <jurk@linuxcsb.org>
+#
+-->
 <!ENTITY position.label             "Pòłożenié:">
 <!ENTITY tile.label                 "Sąsôdôjąco">
 <!ENTITY center.label               "Na westrzódkù">
@@ -6,4 +12,4 @@
 <!ENTITY color.label                "Farwa:">
 <!ENTITY setDesktopBackground.title "Nastôwi tapétã">
 <!ENTITY openDesktopPrefs.label     "Òtemkni preferencëje pùltu">
-<!ENTITY closeWindow.key            "w">
+<!ENTITY closeWindow.key            "Z">

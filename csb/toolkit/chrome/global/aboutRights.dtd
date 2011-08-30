@@ -1,3 +1,16 @@
+<!--
+# Translator(s):
+#
+# jurk <jurk@linuxcsb.org>
+# https://launchpad.net/~kaszeba <mark@linuxcsb.org>
+#
+-->
+<!--
+# Reviewer(s):
+#
+# jurk <jurk@linuxcsb.org>
+#
+-->
 <!-- rights.locale-direction instead of the usual local.dir entity, so RTL can skip translating page. -->
 <!ENTITY rights.locale-direction "ltr">
 <!ENTITY rights.pagetitle       "about:rights">
@@ -13,7 +26,7 @@
      Also note the leading/trailing whitespace in strings here, which is
      deliberate for formatting around the embedded links. -->
 <!ENTITY rights.intro-point1a "&brandShortName;je przëstãpny za zgòdã zastrzedżi">
-<!ENTITY rights.intro-point1b "Mozilla Public License">
+<!ENTITY rights.intro-point1b "Mozilla Pùblicznô Licencëja">
 <!ENTITY rights.intro-point1c ". Òznaczô to że mòżesz ùzëwac, kòpérowac ë wespółdzelëc &brandShortName; z jinyma. Mòżesz téż zjinaczac zdrojowi kòd &brandShortName; bë dopasowac gò dlô twòji pòtrzébnotë. Pùblicznô Licencëja Mozilli daje téż mòżnotã distribùcëji néj zmdifikòwóny wersëji.">
 
 <!ENTITY rights.intro-point2-a "Ni môsz praw patentowich do znaków Fùndacëji Mozilla ë zrzeszonich z nią firm, w tim w całoscë do miona ë loga Firefox. Wicy wëdowiédzë ò zastrzéżonich znakach jidze nalezc na ">

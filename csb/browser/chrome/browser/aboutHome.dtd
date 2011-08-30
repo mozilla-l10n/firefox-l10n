@@ -1,6 +1,12 @@
 <!ENTITY % brandDTD
     SYSTEM "chrome://branding/locale/brand.dtd">
   %brandDTD;
+<!--
+# Translator(s):
+#
+# warszk <michol@linuxcsb.org>
+#
+-->
 
 <!-- These strings are used in the about:home page -->
 

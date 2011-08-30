@@ -36,6 +36,19 @@
 #
 # ***** END LICENSE BLOCK *****
 -->
+<!--
+# Translator(s):
+#
+# warszk <michol@linuxcsb.org>
+# jurk <jurk@linuxcsb.org>
+#
+-->
+<!--
+# Reviewer(s):
+#
+# jurk <jurk@linuxcsb.org>
+#
+-->
 
 <!ENTITY  pageInfoWindow.width  "600">
 <!ENTITY  pageInfoWindow.height "500">
@@ -46,7 +59,7 @@
 <!ENTITY  selectall.key         "A">
 <!ENTITY  selectall.label       "Wëbierzë wszëtkò">
 <!ENTITY  selectall.accesskey   "w">
-<!ENTITY  closeWindow.key       "w">
+<!ENTITY  closeWindow.key       "O">
 
 <!ENTITY  generalTab            "Òglowé">
 <!ENTITY  generalTab.accesskey  "g">

@@ -1,3 +1,9 @@
+<!--
+# Translator(s):
+#
+# warszk <michol@linuxcsb.org>
+#
+-->
 <!-- LOCALIZATION NOTE (tabs.otherComputers.label): Keep this in sync with syncTabsMenu.label from browser.dtd -->
 <!ENTITY tabs.otherComputers.label               "Kôrtë z jinëch kòmpùtrów">
 

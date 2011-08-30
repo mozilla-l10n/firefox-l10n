@@ -1,3 +1,10 @@
+<!--
+# Translator(s):
+#
+# jurk <jurk@linuxcsb.org>
+# https://launchpad.net/~kaszeba <mark@linuxcsb.org>
+#
+-->
 <!ENTITY about.version                "wersëjô">
 
 <!-- LOCALIZATION NOTE (about.credits.beforeLink): note that there is no space between this phrase and the linked about.credits.linkTitle phrase, so if your locale needs a space between words, add it at the end of this entity. -->

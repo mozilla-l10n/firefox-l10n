@@ -1,3 +1,15 @@
+<!--
+# Translator(s):
+#
+# https://launchpad.net/~kaszeba <mark@linuxcsb.org>
+#
+-->
+<!--
+# Reviewer(s):
+#
+# jurk <jurk@linuxcsb.org>
+#
+-->
 <!ENTITY window.width                                   "30em">
 
 <!ENTITY languages.customize.Header                     "Jãzëczi">
@@ -12,4 +24,3 @@
 <!ENTITY languages.customize.selectLanguage.label       "Wëbierzë jãzëk do dodaniô...">
 <!ENTITY languages.customize.addButton.label            "Dodôj">
 <!ENTITY languages.customize.addButton.accesskey        "o">
-

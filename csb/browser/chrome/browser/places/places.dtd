@@ -1,3 +1,16 @@
+<!--
+# Translator(s):
+#
+# warszk <michol@linuxcsb.org>
+# jurk <jurk@linuxcsb.org>
+#
+-->
+<!--
+# Reviewer(s):
+#
+# jurk <jurk@linuxcsb.org>
+#
+-->
 <!-- LOCALIZATION NOTE (places.library.title): use "Library", "Archive" or "Repository" -->
 <!ENTITY places.library.title  "Bibloteka">
 <!ENTITY places.library.width  "700">
@@ -6,12 +19,9 @@
 <!ENTITY organize.accesskey    "S">
 <!ENTITY organize.tooltip      "Sprôwiôj swòjima załóżkama">
 
-<!ENTITY file.accesskey                 "F">
 <!ENTITY file.close.label               "Zamkni">
 <!ENTITY file.close.accesskey           "Z">
-<!ENTITY cmd.close.key                  "w">
-<!ENTITY edit.label                     "Edicëjô">
-<!ENTITY edit.accesskey                 "E">
+<!ENTITY cmd.close.key                  "Z">
 <!ENTITY views.label                    "Wëzdrzatczi">
 <!ENTITY views.accesskey                "W">
 <!ENTITY views.tooltip                  "Zmieni wëzdrzatk">
@@ -31,10 +41,12 @@
 <!ENTITY cmd.findCurrent.label          "Nalezë w aktualny kòlejkcëji...">
 <!ENTITY cmd.findCurrent.accesskey      "k">
 
-<!ENTITY cmd.exportHTML.label           "Ekspòrtëjë do lopka HTML…">
-<!ENTITY cmd.exportHTML.accesskey       "E">
-<!ENTITY cmd.importHTML.label           "Impòrtëjë z lopka HTML…">
-<!ENTITY cmd.importHTML.accesskey       "I">
+<!ENTITY importBookmarksFromHTML.label     "Impòrtëjë załóżczi z HMTL…">
+<!ENTITY importBookmarksFromHTML.accesskey "I">
+<!ENTITY exportBookmarksToHTML.label       "Ekspòrtëje załóżczi HTML…">
+<!ENTITY exportBookmarksToHTML.accesskey   "E">
+<!ENTITY importOtherBrowser.label          "Impòrtëjë pòdôwczi z jinégò przezérnika…">
+<!ENTITY importOtherBrowser.accesskey      "a">
 
 <!ENTITY cmd.backup.label               "Zazychrowanié...">
 <!ENTITY cmd.backup.accesskey           "Z">
@@ -76,8 +88,6 @@
 
 <!ENTITY cmd.reloadLivebookmark.label      "Zladëjë dinamiczną załóżkã znowa">
 <!ENTITY cmd.reloadLivebookmark.accesskey  "d">
-<!ENTITY cmd.reloadMicrosummary.label      "Zladëjë dinamiczny titel">
-<!ENTITY cmd.reloadMicrosummary.accesskey  "d">
 
 <!ENTITY cmd.moveBookmarks.label                  "Przeniesë...">
 <!ENTITY cmd.moveBookmarks.accesskey              "P">
@@ -107,23 +117,20 @@
 <!ENTITY saveSearch.label                          "Zapiszë">
 <!ENTITY saveSearch.accesskey                      "Z">
 
-<!ENTITY cmd.find.key  "f">
+<!ENTITY cmd.find.key  "n">
 
 <!ENTITY maintenance.label      "Impòrt ë zazychrowanié pòdôwków">
 <!ENTITY maintenance.accesskey  "I">
 <!ENTITY maintenance.tooltip    "Zaimpòrtëjë ë zrobi dodôwną kòpijã załóżków">
 
-<!ENTITY backCmd.label       "Nazôd">
 <!ENTITY backButton.tooltip  "Biéj jnazôd">
 
-<!ENTITY forwardCmd.label       "Do przódkù">
 <!ENTITY forwardButton.tooltip  "Biéj do przódkù">
 
 <!ENTITY detailsPane.more.label "Wicy">
 <!ENTITY detailsPane.more.accesskey "c">
 <!ENTITY detailsPane.less.label "Mni">
 <!ENTITY detailsPane.less.accesskey "n">
-<!ENTITY detailsPane.noPreviewAvailable.label "Pòdzérk">
 <!ENTITY detailsPane.selectAnItemText.description "Wëbierzë element, abë wëskrzënic ë editowac jegò swòjiznã">
 
 <!ENTITY find.label               "Szëkba:">

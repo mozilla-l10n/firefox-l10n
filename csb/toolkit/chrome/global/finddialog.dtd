@@ -1,4 +1,10 @@
 <!-- extracted from finddialog.xul -->
+<!--
+# Translator(s):
+#
+# jurk <jurk@linuxcsb.org>
+#
+-->
 
 <!ENTITY findDialog.title "Nalezë na ti starnie">
 <!ENTITY findField.label "Nalezë tekst">

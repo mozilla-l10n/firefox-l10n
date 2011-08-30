@@ -1,3 +1,15 @@
+<!--
+# Translator(s):
+#
+# https://launchpad.net/~kaszeba <mark@linuxcsb.org>
+#
+-->
+<!--
+# Reviewer(s):
+#
+# jurk <jurk@linuxcsb.org>
+#
+-->
 <!ENTITY  colorsDialog.title              "Farwë">
 <!ENTITY  window.width                    "38em">
 <!ENTITY  window.macWidth                 "41em">

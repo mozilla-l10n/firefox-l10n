@@ -1,3 +1,16 @@
+<!--
+# Translator(s):
+#
+# jurk <jurk@linuxcsb.org>
+# warszk <michol@linuxcsb.org>
+#
+-->
+<!--
+# Reviewer(s):
+#
+# jurk <jurk@linuxcsb.org>
+#
+-->
 <!ENTITY aboutDialog.title          "Ò &brandFullName;">
 
 <!ENTITY community.start2           "Programa &brandShortName; je zaprojektowónô przez ">
@@ -54,3 +67,9 @@
      example: Downloading update — 111 KB of 13 MB -->
 <!ENTITY update.downloading.start   "Ladowanié aktualizacëji — ">
 <!ENTITY update.downloading.end     "">
+
+<!-- LOCALIZATION NOTE (channel.description.start,channel.description.end): channel.description.start and
+     channel.description.end create one sentence, with the current channel label inserted in between.
+     example: You are currently on the _Stable_ update channel. -->
+<!ENTITY channel.description.start  "Jes terô na ">
+<!ENTITY channel.description.end    " aktualizëje kanał.  ">

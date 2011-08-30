@@ -1,12 +1,26 @@
 <!-- LOCALIZATION NOTE : FILE This file contains the browser main menu items -->
 <!-- LOCALIZATION NOTE : FILE Do not translate commandkeys --> 
+<!--
+# Translator(s):
+#
+# jurk <jurk@linuxcsb.org>
+# warszk <michol@linuxcsb.org>
+# https://launchpad.net/~kaszeba <mark@linuxcsb.org>
+#
+-->
+<!--
+# Reviewer(s):
+#
+# jurk <jurk@linuxcsb.org>
+#
+-->
 
 <!-- LOCALIZATION NOTE (mainWindow.title): DONT_TRANSLATE -->
 <!ENTITY mainWindow.title "&brandFullName;">
 <!-- LOCALIZATION NOTE (mainWindow.titlemodifier) : DONT_TRANSLATE -->
 <!ENTITY mainWindow.titlemodifier "&brandFullName;">
 <!-- LOCALIZATION NOTE (mainWindow.titlemodifiermenuseparator): DONT_TRANSLATE -->
-<!ENTITY mainWindow.titlemodifiermenuseparator "-">
+<!ENTITY mainWindow.titlemodifiermenuseparator " - ">
 <!-- LOCALIZATION NOTE (mainWindow.titlePrivateBrowsingSuffix): This will be appended to the window's title
                                                                 inside the private browsing mode -->
 <!ENTITY mainWindow.titlePrivateBrowsingSuffix "(priwatné przezéranié)">
@@ -56,9 +70,7 @@ can reach it easily. -->
 <!ENTITY printPreviewCmd.accesskey "P">
 <!ENTITY printCmd.label "Drëkùjë...">
 <!ENTITY printCmd.accesskey "D">
-<!ENTITY printCmd.commandkey "p">
-<!ENTITY import.label "Impòrtëjë...">
-<!ENTITY import.accesskey "I">
+<!ENTITY printCmd.commandkey "d">
 
 <!ENTITY goOfflineCmd.label "Robi offline">
 <!ENTITY goOfflineCmd.accesskey "R">
@@ -99,12 +111,12 @@ can reach it easily. -->
 <!ENTITY bookmarksMenu.label "Załóżczi">
 <!ENTITY bookmarksMenu.accesskey "Z">
 <!ENTITY bookmarkThisPageCmd.label "Dodôj do załóżków">
-<!ENTITY bookmarkThisPageCmd.commandkey "d">
+<!ENTITY bookmarkThisPageCmd.commandkey "z">
 <!ENTITY subscribeToPageMenupopup.label "Subskribùjë tã starnã">
 <!ENTITY subscribeToPageMenuitem.label "Subskribùjë tã starnã...">
 <!ENTITY addCurPagesCmd.label "Dodôj wszëtczé kôrtë do załóżków...">
 <!ENTITY showAllBookmarks2.label "Wëskrzëni wszëtczé załóżczi">
-<!ENTITY bookmarkAllCmd.label "Dodôj wszëtczé kôrtë do załóżków...">
+<!ENTITY unsortedBookmarksCmd.label "Niepòzortowóné załóżczi">
 <!ENTITY bookmarksToolbarChevron.tooltip "Wëskrzëni wicy załóżków">
 
 <!ENTITY backCmd.label                "Nazôd">
@@ -177,7 +189,10 @@ can reach it easily. -->
 <!ENTITY downloadsUnix.commandkey     "y">
 <!ENTITY addons.label                 "Przëdôwczi">
 <!ENTITY addons.accesskey             "P">
-<!ENTITY addons.commandkey            "A">
+<!ENTITY addons.commandkey            "p">
+
+<!ENTITY webDeveloperMenu.label       "Deweloper">
+<!ENTITY webDeveloperMenu.accesskey   "w">
 
 <!ENTITY errorConsoleCmd.label        "Kònsola felów">
 <!ENTITY errorConsoleCmd.accesskey    "K">
@@ -191,22 +206,27 @@ can reach it easily. -->
 <!ENTITY inspectMenu.accesskey        "S">
 <!ENTITY inspectMenu.commandkey       "I">
 
+<!-- LOCALIZATION NOTE (scratchpad.label): This menu item label appears
+  -  in the Tools menu. See bug 653093.
+  -  The Scratchpad is intended to provide a simple text editor for creating
+  -  and evaluating bits of JavaScript code for the purposes of function
+  -  prototyping, experimentation and convenient scripting.
+  -
+  -  It's quite possible that you won't have a good analogue for the word
+  -  "Scratchpad" in your locale. You should feel free to find a close
+  -  approximation to it or choose a word (or words) that means
+  -  "simple discardable text editor". -->
+<!ENTITY scratchpad.label             "Brudnopis">
+<!ENTITY scratchpad.accesskey         "B">
+<!ENTITY scratchpad.keycode           "VK_F4">
+<!ENTITY scratchpad.keytext           "F4">
+
 <!ENTITY inspectPanelTitle.label      "HTML">
 <!ENTITY inspectButton.label          "Sprôwdzë">
 <!ENTITY inspectButton.accesskey      "S">
-<!ENTITY inspectNextButton.label      "Nôslédné">
-<!ENTITY inspectNextButton.accesskey  "N">
-<!ENTITY inspectPreviousButton.label  "Pòprzédné">
-<!ENTITY inspectPreviousButton.accesskey "P">
-<!ENTITY inspectStyleButton.label     "Sztéle">
-<!ENTITY inspectStyleButton.accesskey "S">
-<!ENTITY inspectStylePanelTitle.label  "Sztéle">
-<!-- LOCALIZATION NOTE (inspectObjectButton.label): This button label
-  -  appears on the Inspector's toolbar. It is used to open and close the Object
-  -  panel. There is also a label in inspector.properties for the panel
-  -  titlebar: object.objectPanelTitle. -->
-<!ENTITY inspectObjectButton.label       "Òbjekt">
-<!ENTITY inspectObjectButton.accesskey   "Ò">
+
+<!ENTITY getMoreDevtoolsCmd.label        "Nalézë wicy nôrzãdzów">
+<!ENTITY getMoreDevtoolsCmd.accesskey    "N">
 
 <!ENTITY fileMenu.label         "Lopk"> 
 <!ENTITY fileMenu.accesskey       "L">
@@ -232,7 +252,7 @@ can reach it easily. -->
 <!ENTITY pasteCmd.key           "V">  
 <!ENTITY pasteCmd.accesskey         "e"> 
 <!ENTITY deleteCmd.label          "Rëmôj">  
-<!ENTITY deleteCmd.key            "D">  
+<!ENTITY deleteCmd.key            "R">  
 <!ENTITY deleteCmd.accesskey        "R"> 
 <!ENTITY selectAllCmd.label         "Wëbierzë wszëtkò">  
 <!ENTITY selectAllCmd.key         "A">  
@@ -430,7 +450,7 @@ you can use these alternative items. Otherwise, their values should be empty.  -
 <!ENTITY fullZoomEnlargeCmd.label       "Zwikszë">
 <!ENTITY fullZoomEnlargeCmd.accesskey   "w">
 <!ENTITY fullZoomEnlargeCmd.commandkey  "+">
-<!ENTITY fullZoomEnlargeCmd.commandkey2 "="> <!-- + is above this key on many keyboards -->
+<!-- + is above this key on many keyboards --><!ENTITY fullZoomEnlargeCmd.commandkey2 "="> 
 <!ENTITY fullZoomEnlargeCmd.commandkey3 "">
 
 <!ENTITY fullZoomReduceCmd.label        "Zmiészë">
@@ -484,14 +504,14 @@ you can use these alternative items. Otherwise, their values should be empty.  -
 
 <!ENTITY pageReportIcon.tooltip            "Zmieni nastôwë blokadë wëskakùjącëch òknów dlô ti starny">
 
-<!ENTITY allowPopups.accesskey "p">
+<!ENTITY allowPopups.accesskey "w">
 <!-- On Windows we use the term "Options" to describe settings, but
      on Linux and Mac OS X we use "Preferences" - carry that distinction
      over into this string, which is used in the "popup blocked" info bar . -->
 <!ENTITY editPopupSettingsUnix.label "Editëjë preferencëje blokadë wëskakùjącëch òknów...">
 <!ENTITY editPopupSettings.label "Editëjë nastôwë blokadë wëskakùjącëch òknów...">
 <!ENTITY editPopupSettings.accesskey "E">
-<!ENTITY dontShowMessage.accesskey "D">
+<!ENTITY dontShowMessage.accesskey "N">
 
 <!ENTITY bidiSwitchPageDirectionItem.label        "Zmieni czérënk starnë">
 <!ENTITY bidiSwitchPageDirectionItem.accesskey    "s">
@@ -501,10 +521,10 @@ you can use these alternative items. Otherwise, their values should be empty.  -
 
 <!ENTITY findOnCmd.label     "Nalezë na ti starnie...">
 <!ENTITY findOnCmd.accesskey "N">
-<!ENTITY findOnCmd.commandkey "f">
+<!ENTITY findOnCmd.commandkey "n">
 <!ENTITY findAgainCmd.label  "Nalezë znowa">
 <!ENTITY findAgainCmd.accesskey "n">
-<!ENTITY findAgainCmd.commandkey "g">
+<!ENTITY findAgainCmd.commandkey "s">
 <!ENTITY findAgainCmd.commandkey2 "VK_F3">
 
 <!ENTITY spellAddDictionaries.label "Dodôj słowarze">

@@ -34,6 +34,12 @@
    - the terms of any one of the MPL, the GPL or the LGPL.
    -
    - ***** END LICENSE BLOCK ***** -->
+<!--
+# Translator(s):
+#
+# jurk <jurk@linuxcsb.org>
+#
+-->
 
 <!-- Values for changepassword.xul -->
 <!ENTITY setPassword.title  "Zmieni przédną parolã">

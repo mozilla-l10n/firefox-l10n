@@ -1,11 +1,18 @@
 <!-- extracted from content/viewSource.xul -->
+<!--
+# Translator(s):
+#
+# https://launchpad.net/~kaszeba <mark@linuxcsb.org>
+# jurk <jurk@linuxcsb.org>
+#
+-->
 
 <!-- LOCALIZATION NOTE (mainWindow.title) : DONT_TRANSLATE --> 
 <!ENTITY mainWindow.title "&brandFullName;">
 <!-- LOCALIZATION NOTE (mainWindow.titlemodifier) : DONT_TRANSLATE --> 
 <!ENTITY mainWindow.titlemodifier "&brandFullName;">
 <!-- LOCALIZATION NOTE (mainWindow.titlemodifierseparator) : DONT_TRANSLATE -->
-<!ENTITY mainWindow.titlemodifierseparator "-">
+<!ENTITY mainWindow.titlemodifierseparator " - ">
 <!ENTITY mainWindow.preface "Zdrój:">
 
 <!ENTITY fileMenu.label "Lopk">

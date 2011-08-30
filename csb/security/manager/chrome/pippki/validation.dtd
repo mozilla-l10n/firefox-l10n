@@ -34,6 +34,12 @@
    - the terms of any one of the MPL, the GPL or the LGPL.
    -
    - ***** END LICENSE BLOCK ***** -->
+<!--
+# Translator(s):
+#
+# jurk <jurk@linuxcsb.org>
+#
+-->
 
 <!ENTITY  validation.crlmanager.label             "Sprôwiôj lëstë CRL">
 <!ENTITY  validation.crlmanager.description       "Ùniższé lëstë uniewôżnionych certifikatów (CRL)są w twòji baze pòdôwków:">

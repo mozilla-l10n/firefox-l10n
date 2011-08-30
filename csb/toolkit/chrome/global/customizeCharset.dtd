@@ -36,6 +36,12 @@
    - the terms of any one of the MPL, the GPL or the LGPL.
    -
    - ***** END LICENSE BLOCK ***** -->
+<!--
+# Reviewer(s):
+#
+# jurk <jurk@linuxcsb.org>
+#
+-->
 
 <!ENTITY title.label        "Nastôw zestôwkù céchów">
 <!ENTITY current.label      "Brëkòwóné zestôwczi céchów">
@@ -43,8 +49,8 @@
 <!ENTITY remove.accessKey   "R">
 <!ENTITY additional.label   "Przistãpné zestôwczi céchów">
 <!ENTITY add.label          "Dodôj">
-<!ENTITY add.accessKey      "A">
+<!ENTITY add.accessKey      "a">
 <!ENTITY moveUp.label       "W górã">
-<!ENTITY moveUp.accessKey   "U">
+<!ENTITY moveUp.accessKey   "g">
 <!ENTITY moveDown.label     "W dół">
-<!ENTITY moveDown.accessKey "D">
+<!ENTITY moveDown.accessKey "d">

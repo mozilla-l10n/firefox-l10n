@@ -1,3 +1,9 @@
+<!--
+# Translator(s):
+#
+# jurk <jurk@linuxcsb.org>
+#
+-->
 <!ENTITY  button-back-mac.label        "Nazôd">
 <!ENTITY  button-back-mac.accesskey    "N">
 <!ENTITY  button-next-mac.label        "Biéj dali">

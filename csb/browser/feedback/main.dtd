@@ -1,3 +1,16 @@
+<!--
+# Translator(s):
+#
+# warszk <michol@linuxcsb.org>
+# jurk <jurk@linuxcsb.org>
+#
+-->
+<!--
+# Reviewer(s):
+#
+# jurk <jurk@linuxcsb.org>
+#
+-->
 <!ENTITY testpilot.brand.label                      "Test Pilot">
 <!ENTITY testpilot.settings.label                   "Nastôwë">
 <!ENTITY testpilot.settings.dataSubmission.label    "Dodanié pòdôwków">

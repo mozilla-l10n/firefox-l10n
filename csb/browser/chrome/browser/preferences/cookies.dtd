@@ -1,3 +1,16 @@
+<!--
+# Translator(s):
+#
+# https://launchpad.net/~kaszeba <mark@linuxcsb.org>
+# jurk <jurk@linuxcsb.org>
+#
+-->
+<!--
+# Reviewer(s):
+#
+# jurk <jurk@linuxcsb.org>
+#
+-->
 <!ENTITY window.width                       "36em">
 
 <!ENTITY     cookiesonsystem.label          "Na tim kòmpùtrze trzëmóné są nôslédné kùszczi:">

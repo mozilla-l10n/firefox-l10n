@@ -1,3 +1,9 @@
+<!--
+# Translator(s):
+#
+# jurk <jurk@linuxcsb.org>
+#
+-->
 
 <!ENTITY  history.title             "Historëjô aktualizacëji">
 <!ENTITY  history.intro             "Winstalowóno ùniższé aktualizacëje:">
@@ -9,4 +15,3 @@
 <!ENTITY  date.header               "Datum instalacëji">
 <!ENTITY  type.header               "Ôrt">
 <!ENTITY  state.header              "Stón">
-

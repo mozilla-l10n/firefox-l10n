@@ -6,7 +6,6 @@
 <!ENTITY editBookmarkOverlay.feedLocation.accesskey          "p">
 <!ENTITY editBookmarkOverlay.siteLocation.label              "Adresa starnë:">
 <!ENTITY editBookmarkOverlay.siteLocation.accesskey          "s">
-<!ENTITY editBookmarkOverlay.liveTitlesSeparator.label       "Dinamiczné title">
 <!ENTITY editBookmarkOverlay.folder.label                    "Katalog:">
 <!ENTITY editBookmarkOverlay.foldersExpanderDown.tooltip     "Wëskrzëni wszëtczé katalodżi załóżków">
 <!ENTITY editBookmarkOverlay.expanderUp.tooltip              "Zatacë">

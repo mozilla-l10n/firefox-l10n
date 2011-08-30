@@ -38,6 +38,12 @@
 # WARNING!!! This file is obsoleted by the dialog.xml widget
 #
 -->
+<!--
+# Translator(s):
+#
+# jurk <jurk@linuxcsb.org>
+#
+-->
 
 <!-- OK Cancel Buttons -->
 <!ENTITY okButton.label      "JO">

@@ -1,3 +1,16 @@
+<!--
+# Translator(s):
+#
+# warszk <michol@linuxcsb.org>
+# https://launchpad.net/~kaszeba <mark@linuxcsb.org>
+#
+-->
+<!--
+# Reviewer(s):
+#
+# jurk <jurk@linuxcsb.org>
+#
+-->
 
 <!ENTITY  connectionsDialog.title       "Nastôw sparłãczenia">
 <!ENTITY  window.width                  "37em">

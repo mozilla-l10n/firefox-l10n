@@ -1,3 +1,16 @@
+<!--
+# Translator(s):
+#
+# jurk <jurk@linuxcsb.org>
+# warszk <michol@linuxcsb.org>
+#
+-->
+<!--
+# Reviewer(s):
+#
+# jurk <jurk@linuxcsb.org>
+#
+-->
 <!ENTITY minimizeWindow.key       "m">
 <!ENTITY minimizeWindow.label     "Minimalizacëjô">
 <!ENTITY bringAllToFront.label    "Wëskrzëni wszëtkò z przódkù">
@@ -30,9 +43,9 @@
 <!ENTITY servicesMenuMac.label          "Ùsłëżnotë">
 
 <!ENTITY hideThisAppCmdMac.label        "Zatacë &brandShortName;">
-<!ENTITY hideThisAppCmdMac.commandkey   "H">
+<!ENTITY hideThisAppCmdMac.commandkey   "Z">
 
 <!ENTITY hideOtherAppsCmdMac.label      "Zatacë resztã">
-<!ENTITY hideOtherAppsCmdMac.commandkey "H">
+<!ENTITY hideOtherAppsCmdMac.commandkey "Z">
 
 <!ENTITY showAllAppsCmdMac.label        "Wëskrzëni wszëtczé">

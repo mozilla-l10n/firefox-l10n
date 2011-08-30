@@ -1,0 +1,136 @@
+<!-- LOCALIZATION NOTE : FILE This file contains the Scratchpad window strings -->
+<!-- LOCALIZATION NOTE : FILE Do not translate commandkeys -->
+<!--
+# Translator(s):
+#
+# jurk <jurk@linuxcsb.org>
+# https://launchpad.net/~kaszeba <mark@linuxcsb.org>
+# warszk <michol@linuxcsb.org>
+#
+-->
+<!--
+# Reviewer(s):
+#
+# jurk <jurk@linuxcsb.org>
+#
+-->
+
+<!-- LOCALIZATION NOTE (scratchpad.title):
+  -  The Scratchpad is intended to provide a simple text editor for creating
+  -  and evaluating bits of JavaScript code for the purposes of function
+  -  prototyping, experimentation and convenient scripting.
+  -
+  -  It's quite possible that you won't have a good analogue for the word
+  -  "Scratchpad" in your locale. You should feel free to find a close
+  -  approximation to it or choose a word (or words) that means
+  -  "simple discardable text editor". -->
+<!ENTITY window.title                 "Brudnopis">
+
+<!ENTITY fileMenu.label               "Lopk">
+<!ENTITY fileMenu.accesskey           "L">
+
+<!ENTITY newWindowCmd.label           "Nowé òkno">
+<!ENTITY newWindowCmd.accesskey       "N">
+<!ENTITY newWindowCmd.commandkey      "n">
+
+<!ENTITY openFileCmd.label            "Òtemkni lopk...">
+<!ENTITY openFileCmd.accesskey        "o">
+<!ENTITY openFileCmd.commandkey       "o">
+
+<!ENTITY saveFileCmd.label            "Zapiszë">
+<!ENTITY saveFileCmd.accesskey        "s">
+<!ENTITY saveFileCmd.commandkey       "s">
+
+<!ENTITY saveFileAsCmd.label          "Zapiszë jakno…">
+<!ENTITY saveFileAsCmd.accesskey      "a">
+
+<!ENTITY closeCmd.label               "Zamkni">
+<!ENTITY closeCmd.key                 "W">
+<!ENTITY closeCmd.accesskey           "Z">
+
+<!ENTITY editMenu.label               "Edicëjô">
+<!ENTITY editMenu.accesskey           "E">
+
+<!ENTITY undoCmd.label                "Copni">
+<!ENTITY undoCmd.key                  "Z">
+<!ENTITY undoCmd.accesskey            "C">
+
+<!ENTITY redoCmd.label                "Przëwrócë">
+<!ENTITY redoCmd.key                  "Y">
+<!ENTITY redoCmd.accesskey            "r">
+
+<!ENTITY cutCmd.label                 "Wëtni">
+<!ENTITY cutCmd.key                   "X">
+<!ENTITY cutCmd.accesskey             "W">
+
+<!ENTITY copyCmd.label                "Kòpérëjë">
+<!ENTITY copyCmd.key                  "C">
+<!ENTITY copyCmd.accesskey            "K">
+
+<!ENTITY pasteCmd.label               "Wlepi">
+<!ENTITY pasteCmd.key                 "V">
+<!ENTITY pasteCmd.accesskey           "W">
+
+<!ENTITY selectAllCmd.label           "Wëbierzë wszëtkò">
+<!ENTITY selectAllCmd.key             "A">
+<!ENTITY selectAllCmd.accesskey       "W">
+
+<!ENTITY run.label                    "Zrëszë">
+<!ENTITY run.accesskey                "r">
+<!ENTITY run.key                      "r">
+
+<!ENTITY inspect.label                "Sprôwdzë">
+<!ENTITY inspect.accesskey            "S">
+<!ENTITY inspect.key                  "i">
+
+<!ENTITY display.label                "Wëskrzëni">
+<!ENTITY display.accesskey            "W">
+<!ENTITY display.key                  "l">
+
+<!-- LOCALIZATION NOTE (environmentMenu.label, accesskey): This menu item was
+  -  renamed from "Context" to avoid confusion with the right-click context
+  -  menu in the text area. It refers to the JavaScript Environment (or context)
+  -  the user is evaluating against. I.e., Content (current tab) or Chrome
+  -  (browser).
+  -->
+<!ENTITY environmentMenu.label        "Òkrãżé">
+<!ENTITY environmentMenu.accesskey    "Ò">
+
+
+<!ENTITY contentContext.label         "Zamkłosc">
+<!ENTITY contentContext.accesskey     "Z">
+
+<!-- LOCALIZATION NOTE (browserContext.label, accesskey): This menu item is used
+  -  to select an execution environment for the browser window itself as opposed
+  -  to content. This is a feature for browser and addon developers and only
+  -  enabled via the devtools.chrome.enabled preference. Formerly, this label
+  -  was called "Chrome".
+  -->
+<!ENTITY browserContext.label         "Przezérnik">
+<!ENTITY browserContext.accesskey     "P">
+
+<!-- LOCALIZATION NOTE (resetContext.label): This command allows the developer
+  -  to reset/clear the global object of the environment where the code executes.
+  -->
+<!ENTITY resetContext.label           "Resetëjë">
+<!ENTITY resetContext.accesskey       "R">
+
+<!ENTITY executeMenu.label            "Zrëszë">
+<!ENTITY executeMenu.accesskey        "Z">
+
+<!ENTITY toolsMenu.label              "Nôrzãdza">
+<!ENTITY toolsMenu.accesskey          "N">
+
+<!ENTITY errorConsoleCmd.label        "Kònsola felów">
+<!ENTITY errorConsoleCmd.accesskey    "K">
+<!ENTITY errorConsoleCmd.commandkey   "j">
+
+<!ENTITY webConsoleCmd.label          "Kònsola WWW">
+<!ENTITY webConsoleCmd.accesskey      "W">
+<!ENTITY webConsoleCmd.commandkey     "k">
+
+<!-- LOCALIZATION NOTE (textbox.placeholder1): This is some placeholder text
+  -  that appears when the Scratchpad's text area is empty and unfocused.
+  -  It should be a one-line JavaScript comment, i.e., preceded by '//'
+  -->
+<!ENTITY textbox.placeholder1         "//Wpiszë kòd JavaScript, zaznôczë, wcësni prawã knąpã ë wëbierzë Zreszë, Sprôwdzë abò Wëskrzeni.">

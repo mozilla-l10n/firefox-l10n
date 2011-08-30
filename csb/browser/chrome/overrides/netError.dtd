@@ -1,5 +1,18 @@
 <!ENTITY % brandDTD SYSTEM "chrome://branding/locale/brand.dtd">
 %brandDTD;
+<!--
+# Translator(s):
+#
+# warszk <michol@linuxcsb.org>
+# jurk <jurk@linuxcsb.org>
+#
+-->
+<!--
+# Reviewer(s):
+#
+# jurk <jurk@linuxcsb.org>
+#
+-->
 
 <!ENTITY loadError.label "Fela czëtaniô starnë">
 <!ENTITY retry.label "Spróbùjë znowa">
@@ -29,13 +42,9 @@
 <!ENTITY netInterrupt.longDesc "<p>Przezérnik sparłãczëł sã, równak sparłãczenié òstało przerwóné przë sélaniu wëdowiédzë. Nót je spróbòwac znowa.</p><ul><li>Ni mòżész téż òbzérac jinszëch starnów? Nót je sprôwdzëc sparłãczenié z sécą.</li><li>Jeżlë dali są problemë, nót je sparłãczëc sã ze sprôwnikã sécë abò z dowòznikã internetowich ùsłëżnotów.</li></ul>">
 
 <!ENTITY netOffline.title "Trib offline">
-<!-- LOCALIZATION NOTE (netOffline.overrideLongDesc) - This string should
-     indicate that "Work Offline" is a menu item without being too specific,
-     since it could be in either the normal menu (Mac/Linux) or the Firefox button
-     menu (Windows).
--->
-<!ENTITY netOffline.overrideLongDesc "<ul>
- <li>Òdznaczë &quot;Robi offline&quot; i spróbùjë znowa.</li>
+<!ENTITY netOffline.longDesc2 "
+<ul>
+  <li>Press &quot;Try Again&quot; to switch to online mode and reload the page.</li>
 </ul>
 ">
 
@@ -96,6 +105,10 @@
 <!ENTITY cspFrameAncestorBlocked.title "Blokòwóné przez Pòlitikã Bezpiékù Zamkłoscë">
 <!ENTITY cspFrameAncestorBlocked.longDesc "<p>Programa &brandShortName; ùniemòżebniła ti starnié zaladowanié na nen ôrt, bò mô òna taką pòlitkiã zamkłoscë chtërnô na to nie pòzwôlô.</p>">
 
+<!ENTITY corruptedContentError.title "Corrupted Content Error">
+<!ENTITY corruptedContentError.longDesc "<p>The page you are trying to view cannot be shown because an error in the data transmission was detected.</p><ul><li>Please contact the website owners to inform them of this problem.</li></ul>">
+
+
 <!ENTITY securityOverride.linkText "Mòżesz téż dodac wëjimk...">
 <!ENTITY securityOverride.getMeOutOfHereButton "Wez mie stądka precz!">
 <!ENTITY securityOverride.exceptionButtonLabel "Dodôj wëjimk...">
@@ -110,3 +123,6 @@ functionality specific to firefox. -->
 <button id='getMeOutOfHereButton'>&securityOverride.getMeOutOfHereButton;</button>
 <button id='exceptionDialogButton'>&securityOverride.exceptionButtonLabel;</button>
 ">
+
+<!ENTITY remoteXUL.title "Zdalné XUL">
+<!ENTITY remoteXUL.longDesc "<p><ul><li>Proszã dac wiédzã miéwcë ti starnë ò tim problemie.</li></ul></p>">

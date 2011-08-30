@@ -1,3 +1,9 @@
+<!--
+# Translator(s):
+#
+# jurk <jurk@linuxcsb.org>
+#
+-->
 <!--LOCALIZATION NOTE printProgress.dtd Main UI for Print Progress Dialog -->
 <!ENTITY printWindow.title "Drëkòwanié"> 
 <!ENTITY title    "Titel:"> 
