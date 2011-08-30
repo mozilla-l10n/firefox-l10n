@@ -37,6 +37,9 @@
 <!ENTITY startupHomePage.label     "rodyti pradžios tinklalapį">
 <!ENTITY startupBlankPage.label    "rodyti tuščią puslapį">
 <!ENTITY startupLastSession.label  "atverti paskiausio seanso langus ir korteles">
+<!ENTITY restoreOnDemand.label     "Neįkelti kortelių, kol šios nesuaktyvinamos">
+<!ENTITY restoreOnDemand.accesskey "e">
+
 <!ENTITY homepage.label            "Pradžios tinklalapis:">
 <!ENTITY homepage.accesskey        "P">
 <!ENTITY useCurrentPage.label      "Šiuo metu atvertas tinklalapis">
