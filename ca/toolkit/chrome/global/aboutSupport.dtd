@@ -19,6 +19,7 @@
 <!ENTITY aboutSupport.appBasicsEnabledPlugins "Connectors habilitats">
 <!ENTITY aboutSupport.appBasicsBuildConfig "Configuració de la versió">
 <!ENTITY aboutSupport.appBasicsUserAgent "Agent d'usuari">
+<!ENTITY aboutSupport.appBasicsCrashIDs "Informes de petades">
 
 <!ENTITY aboutSupport.show.label "Obre la carpeta on es troba">
 
