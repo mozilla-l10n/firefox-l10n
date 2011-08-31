@@ -815,6 +815,10 @@ you can use these alternative items. Otherwise, their values should be empty.  -
 <!ENTITY reportPhishingURL.label "Prijavi e-poštno prevaro">
 <!ENTITY reportPhishingURL.accesskey "Z">
 
+<!-- Spell checker context menu items -->
+<!ENTITY spellAddDictionaries.label "Dodaj slovarje…">
+<!ENTITY spellAddDictionaries.accesskey "A">
+
 <!-- Content Pane Context Menu -->
 <!ENTITY saveLinkAsCmd.label "Shrani povezavo kot …">
 <!ENTITY saveLinkAsCmd.accesskey "k">

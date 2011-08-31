@@ -52,9 +52,9 @@
 <!ENTITY netInterrupt.longDesc "&sharedLongDesc;">
 
 <!ENTITY netOffline.title "Brez povezave">
-<!ENTITY netOffline.longDesc "
+<!ENTITY netOffline.longDesc2 "
 <ul>
-  <li>Prestavite &brandShortName; v način s povezavo in poskusite potem znova.</li>
+  <li>Pritisnite na &quot;Poskusi znova&quot; za način s povezavo, da stran ponovno naložite.</li>
 </ul>
 ">
 
@@ -161,6 +161,9 @@ nekdo poskuša predstaviti kot strežnik.</li>
 
 <!ENTITY cspFrameAncestorBlocked.title "Blokirano zaradi pravil za varnost vsebin">
 <!ENTITY cspFrameAncestorBlocked.longDesc "<p>&brandShortName; je preprečil, da bi se to stran na ta način naložilo, kajti zanjo veljajo pravila o varnosti vsebin, ki tega ne dovoljujejo.</p>">
+
+<!ENTITY corruptedContentError.title "Napaka zaradi okvarjene vsebine">
+<!ENTITY corruptedContentError.longDesc "<p>Vsebine, ki jo želite videti, ni mogoče prikazati, ker se je pri prenosu podatkov zaznalo napako.</p><ul><li>Obrnite se na lastnike spletne strani, da jih obvestite o problemu.</li></ul>">
 
 <!ENTITY securityOverride.linkText "Lahko pa dodate izjemo…">
 <!ENTITY securityOverride.getMeOutOfHereButton "Spravi me proč od tod!">
