@@ -92,6 +92,8 @@
 <!ENTITY viewMenu.accesskey "A">
 <!ENTITY viewToolbarsMenuNew.label "Symbolleisten">
 <!ENTITY viewToolbarsMenuNew.accesskey "y">
+<!ENTITY menubarCmd.label "Menüleiste">
+<!ENTITY menubarCmd.accesskey "M">
 <!ENTITY showCompositionToolbarCmd.label "Verfassen-Symbolleiste">
 <!ENTITY showCompositionToolbarCmd.accesskey "V">
 <!ENTITY showFormattingBarCmd.label "Formatierungsleiste">
