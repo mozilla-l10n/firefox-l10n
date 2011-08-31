@@ -14,7 +14,7 @@
 <!ENTITY sync.setup.manual          "Įveskite savo „Sync“ paskyros duomenis">
 <!ENTITY sync.account               "Paskyros vardas">
 <!ENTITY sync.password              "Slaptažodis">
-<!ENTITY sync.syncKey               "Sinchronizavimo raktas">
+<!ENTITY sync.recoveryKey           "Atkūrimo raktas">
 <!ENTITY sync.customServer          "Naudoti kitą serverį">
 <!ENTITY sync.serverURL             "Serverio URL">
 <!ENTITY sync.setup.connect         "Prisijungti">

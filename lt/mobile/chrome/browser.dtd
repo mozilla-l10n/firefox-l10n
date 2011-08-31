@@ -126,7 +126,6 @@
 <!ENTITY consoleErrColumn.label           "Stulpelis:">
 
 <!ENTITY contextOpenInNewTab.label        "Atverti saitą naujoje kortelėje">
-<!ENTITY contextSaveLink.label            "Įrašyti saitą">
 <!ENTITY contextSaveImage.label           "Įrašyti paveikslą">
 <!ENTITY contextCopyLink.label            "Kopijuoti saitą">
 <!ENTITY contextShareLink.label           "Dalintis saitu">
