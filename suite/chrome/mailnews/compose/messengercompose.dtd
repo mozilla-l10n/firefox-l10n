@@ -46,7 +46,6 @@
 <!ENTITY newMessage.label "Laiškas">  
 <!ENTITY newMessage.accesskey "L">  
 <!ENTITY saveCmd.label "Įrašyti">
-<!ENTITY saveCmd.key "s">
 <!ENTITY saveCmd.accesskey "r">
 <!ENTITY saveAsCmd.label "Įrašyti kaip">
 <!ENTITY saveAsCmd.accesskey "k">
@@ -71,11 +70,6 @@
 <!ENTITY sendLaterCmd.label "Išsiųsti vėliau">
 <!ENTITY sendLaterCmd.keycode "VK_ENTER">
 <!ENTITY sendLaterCmd.accesskey "v">
-<!ENTITY printSetupCmd.label "Puslapio nuostatos…">
-<!ENTITY printSetupCmd.accesskey "P">
-<!ENTITY printCmd.label "Spausdinti…">
-<!ENTITY printCmd.key "p">
-<!ENTITY printCmd.accesskey "S">
 
 <!-- Edit menu items -->
 <!ENTITY editRewrapCmd.label "Laužyti iš naujo">
@@ -106,7 +100,6 @@
 <!ENTITY selectAddressCmd.accesskey "d">
 
 <!ENTITY checkSpellingCmd2.label "Tikrinti rašybą…">
-<!ENTITY checkSpellingCmd2.key "p">
 <!ENTITY checkSpellingCmd2.accesskey "r">
 <!ENTITY enableInlineSpellChecker.label "Tikrinti rašybą renkant tekstą">
 <!ENTITY enableInlineSpellChecker.accesskey "s">
@@ -166,8 +159,6 @@
 <!ENTITY spellCheckIgnoreWord.accesskey "i">
 <!ENTITY spellCheckAddToDictionary.label "Įtraukti į žodyną">
 <!ENTITY spellCheckAddToDictionary.accesskey "n">
-<!ENTITY pasteQuote.label "Įdėti kaip citatą">
-<!ENTITY pasteQuote.accesskey "c">
 
 <!ENTITY openAttachment.label "Atverti">
 <!ENTITY openAttachment.accesskey "A">

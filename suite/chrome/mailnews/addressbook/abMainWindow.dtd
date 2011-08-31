@@ -65,8 +65,6 @@
 <!ENTITY printAddressBook.accesskey                     "a"> 
 <!ENTITY printPreviewAddressBook.label                  "Spausdinsimos adresų knygos peržiūra"> 
 <!ENTITY printPreviewAddressBook.accesskey              "d">
-<!ENTITY printSetupCmd.label                            "Puslapio nuostatos…">
-<!ENTITY printSetupCmd.accesskey                        "P">
 
 <!-- Edit Menu -->
 <!ENTITY deleteAbCmd.label                              "Pašalinti adresų knygą">  
