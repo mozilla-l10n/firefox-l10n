@@ -121,6 +121,8 @@
 <!ENTITY redoDefaultCmd.accesskey "W">
 
 <!-- View Menu -->
+<!ENTITY menubarCmd.label "Menüleiste">
+<!ENTITY menubarCmd.accesskey "M">
 <!ENTITY showMessengerToolbarCmd.label "Hauptsymbolleiste">
 <!ENTITY showMessengerToolbarCmd.accesskey "H">
 <!ENTITY customizeToolbar.label "Anpassen…">
