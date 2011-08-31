@@ -32,7 +32,7 @@
 <!ENTITY rememberDescription.label "&brandShortName; будет помнить историю посещений, загрузок, поиска, сохранять данные форм и хранить куки, оставленные посещёнными вами веб-сайтами.">
 <!ENTITY rememberActions.pre.label "Возможно, вы захотите ">
 <!ENTITY rememberActions.clearHistory.label "очистить вашу недавнюю историю">
-<!ENTITY rememberActions.middle.label ", или ">
+<!ENTITY rememberActions.middle.label " или ">
 <!ENTITY rememberActions.removeCookies.label "удалить отдельные куки">
 <!ENTITY rememberActions.post.label ".">
 <!ENTITY dontrememberDescription.label "&brandShortName; будет использовать те же настройки, что и при приватном просмотре, и не будет помнить историю вашей работы с веб-сайтами.">
