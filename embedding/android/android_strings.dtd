@@ -15,3 +15,8 @@
 <!ENTITY  sending_crash_report "S\'està enviant un informe de fallada\u2026">
 <!ENTITY  exit_label "Surt">
 <!ENTITY  continue_label "Continua">
+
+<!ENTITY  launcher_shortcuts_title "Aplicacions web del &brandShortName;">
+<!ENTITY  launcher_shortcuts_empty "No s'ha trobat cap aplicació web">
+
+<!ENTITY choose_file "Seleccioneu un fitxer">
