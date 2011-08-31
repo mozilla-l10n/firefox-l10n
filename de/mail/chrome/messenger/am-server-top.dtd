@@ -33,7 +33,7 @@
 <!ENTITY deleteByAgeFromServer.label "Lösche Nachrichten vom Server nach">
 <!ENTITY deleteByAgeFromServer.accesskey "ö">
 <!ENTITY daysEnd.label "Tagen">
-<!ENTITY deleteOnServer2.label "Nachrichten vom Server löschen, wenn sie vom Posteingang gelöscht werden">
+<!ENTITY deleteOnServer2.label "Nachrichten vom Server löschen, wenn sie aus dem Posteingang gelöscht werden">
 <!ENTITY deleteOnServer2.accesskey "g">
 <!ENTITY downloadOnBiff.label "Neue Nachrichten automatisch herunterladen">
 <!ENTITY downloadOnBiff.accesskey "d">
