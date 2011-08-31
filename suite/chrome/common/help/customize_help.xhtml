@@ -1,1406 +1,1592 @@
 <?xml version="1.0" encoding="UTF-8"?>
 
 <!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.1//EN"
-  "http://www.w3.org/TR/xhtml11/DTD/xhtml11.dtd"[
+  "http://www.w3.org/TR/xhtml11/DTD/xhtml11.dtd" [
   <!ENTITY % brandDTD SYSTEM "chrome://branding/locale/brand.dtd" >
   %brandDTD;
 ]>
 
 <html xmlns="http://www.w3.org/1999/xhtml">
 <head>
-<title>Customizing &brandShortName;</title>
-<link rel="stylesheet" href="helpFileLayout.css"
-  type="text/css"/>
+  <title>Personalizar &brandShortName;</title>
+  <link rel="stylesheet" href="helpFileLayout.css" type="text/css"/>
 </head>
+
 <body>
 
-<div class="boilerPlate">This document is provided for your information
-  only. It may help you take certain steps to protect the privacy and security
-  of your personal information on the Internet. This document does not,
-  however, address all online privacy and security issues, nor does it
-  represent a recommendation about what constitutes adequate privacy and
-  security protection on the Internet.</div>
+<div class="boilerplate">
+  Este documento ha sido proporcionado sólo para aportar información. Puede
+  ayudarle a dar ciertos pasos a la hora de decidir la forma de proteger la
+  privacidad y seguridad de su información personal en Internet. Este
+  documento, sin embargo, no trata de todos los aspectos existentes en materia
+  de privacidad y seguridad, ni representa recomendaciones sobre lo que
+  constituye unas medidas de protección adecuadas en materia de privacidad y
+  seguridad en Internet.
+  </div>
 
-<h1 id="customizing_mozilla">Customizing &brandShortName;</h1>
+<h1 id="customizing_mozilla">Personalizar &brandShortName;</h1>
 
-<p>You can customize &brandShortName; to better suit your needs using features
-  like Sidebar, bookmarks, Tabbed Browsing, and Add-ons.</p>
+<p>Es posible personalizar &brandShortName; para ajustarlo mejor a sus
+  necesidades utilizando características como el panel lateral, los
+  marcadores, la navegación con pestañas y los complementos.</p>
 
-<p>This section describes the customizable aspects of &brandShortName;&apos;s
-  browser component.</p>
+<p>Esta sección describe los aspectos personalizables del componente
+  navegador de &brandShortName;.</p>
 
-<div class="contentsBox">In this section:
+<div class="contentsBox">En esta sección:
   <ul>
-    <li><a href="#sidebar">Sidebar</a></li>
-    <li><a href="#tabbed_browsing">Tabbed Browsing</a></li>
-    <li><a href="#changing_fonts_colors_and_themes">Changing Fonts, Colors, and
-      Themes</a></li>
-    <li><a href="#toolbars">Toolbars</a></li>
-    <li><a href="#bookmarks">Bookmarks</a></li>
-    <li><a href="#add-ons">Add-ons</a></li>
-    <li><a href="#specifying_how_mozilla_starts_up">Specifying How
-      &brandShortName; Starts Up</a></li>
-    <li><a href="cs_nav_prefs_appearance.xhtml">Appearance
-      Preferences</a></li>
-    <li><a href="cs_nav_prefs_navigator.xhtml">Browser
-      Preferences</a></li>
-    <li><a href="cs_nav_prefs_advanced.xhtml">Advanced Preferences</a></li>
+    <li><a href="#sidebar">El panel lateral</a></li>
+    <li><a href="#tabbed_browsing">Navegación con pestañas</a></li>
+    <li><a href="#changing_fonts_colors_and_themes">Cambiar los tipos de
+      letra, colores y temas</a></li>
+    <li><a href="#toolbars">Barras de herramientas</a></li>
+    <li><a href="#bookmarks">Marcadores</a></li>
+    <li><a href="#add-ons">Complementos</a></li>
+    <li><a href="#specifying_how_mozilla_starts_up">Especificar cómo
+      arranca &brandShortName;</a></li>
+    <li><a href="cs_nav_prefs_appearance.xhtml">Configuración de
+      apariencia</a></li>
+    <li><a href="cs_nav_prefs_appearance.xhtml#navigator">Configuración del
+      navegador</a></li>
+    <li><a href="cs_nav_prefs_advanced.xhtml">Preferencias avanzadas</a></li>
   </ul>
 </div>
 
-<h2 id="sidebar">Sidebar</h2>
+<h2 id="sidebar">El panel lateral</h2>
 
-<div class="contentsBox">In this section:
+<div class="contentsBox">En esta sección:
   <ul>
-    <li><a href="#what_is_sidebar">What is Sidebar?</a></li>
-    <li><a href="#opening_closing_and_resizing_sidebar">Opening, Closing and
-      Resizing Sidebar</a></li>
-    <li><a href="#viewing_sidebar_tabs">Viewing Sidebar Tabs</a></li>
-    <li><a href="#adding_sidebar_tabs">Adding Sidebar Tabs</a></li>
-    <li><a href="#customizing_individual_sidebar_tabs">Customizing Individual
-      Sidebar Tabs</a></li>
-    <li><a href="#reorganizing_sidebar_tabs">Reorganizing Sidebar Tabs</a></li>
-    <li><a href="#removing_sidebar_tabs">Removing Sidebar Tabs</a></li>
+    <li><a href="#what_is_sidebar">&iquest;Qué es el panel lateral?</a></li>
+    <li><a href="#opening_closing_and_resizing_sidebar">Abrir, cerrar y
+      cambiar el tamaño del panel lateral</a></li>
+    <li><a href="#viewing_sidebar_tabs">Ver pestañas del panel lateral</a></li>
+    <li><a href="#adding_sidebar_tabs">Añadir pestañas al panel
+      lateral</a></li>
+    <li><a href="#customizing_individual_sidebar_tabs">Personalizar las
+      pestañas del panel lateral</a></li>
+    <li><a href="#reorganizing_sidebar_tabs">Reorganizar las pestañas en el
+      panel lateral</a></li>
+    <li><a href="#removing_sidebar_tabs">Eliminar pestañas del panel
+      lateral</a></li>
   </ul>
 </div>
 
-<h3 id="what_is_sidebar">What is Sidebar?</h3>
+<h3 id="what_is_sidebar">&iquest;Qué es el panel lateral?</h3>
 
-<p>Sidebar is a customizable area in your browser where you can keep items
-  that you need to use all the time&mdash;the latest news and weather, your
-  address book, stock quotes, a calendar&mdash;and many other available
-  options. Sidebar presents these items to you in tabs that are continually
-  updated.</p>
+<p>El panel lateral es un marco personalizable en su navegador donde se puede
+  tener lo que necesite ver todo el tiempo &mdash;las últimas noticias,
+  el tiempo, su libreta de direcciones, valores de bolsa, un calendario&mdash;
+  y muchas otras opciones disponibles que puede elegir. El panel lateral le
+  presenta estos elementos en pestañas que son constantemente
+  actualizadas.</p>
 
-<p>&brandShortName; comes with some Sidebar tabs already set up, but you can
-  customize Sidebar by adding, removing, and rearranging tabs.</p>
+<p>De entrada &brandShortName; viene con algunas pestañas instaladas,
+  pero se puede personalizar el panel lateral añadiendo, quitando y
+  reordenando pestañas.</p>
 
-<p>[<a href="#sidebar">Return to beginning of section</a>]</p>
+<p>[<a href="#sidebar">Volver al principio de la sección</a>]</p>
 
-<h3 id="opening_closing_and_resizing_sidebar">Opening, Closing and Resizing
-  Sidebar</h3>
-
-<p>To open Sidebar, <span class="noMac">press <kbd>F9</kbd> or</span> open the
-  View menu in the browser, choose Show/Hide, and then Sidebar from the
-  submenu.</p>
-
-<p>Once Sidebar is opened, you can use its handle to close, open and resize
-  Sidebar&apos;s frame. Move the mouse pointer up and down along the left edge
-  of the &brandShortName; window. The pointer changes to a hand when it touches
-  the <q>handle</q> for Sidebar, as shown in the picture.</p>
-
-<table summary="Image table">
-  <tr>
-    <td colspan="2"></td>
-  </tr>
-  <tr style="vertical-align: top;">
-    <td><img src="images/sidebar.png" alt="image of sidebar with
-      handle"/></td>
-    <td style="vertical-align: middle;">
-      <p><strong>Sidebar<br/>Handle</strong></p>
-    </td>
-  </tr>
-</table>
-
-<ul>
-  <li>Click the handle to close/open Sidebar&apos;s frame</li>
-  <li>Click and drag the handle to resize Sidebar&apos;s frame</li>
-</ul>
-
-<p>To close Sidebar with its handle, do one of the following:</p>
-
-<ul>
-  <li class="noMac">Press <kbd>F9</kbd></li>
-  <li>Click the X in the upper-right corner of Sidebar</li>
-  <li>Open the View menu, choose Show/Hide, and then Sidebar from the
-    submenu</li>
-</ul>
-
-<p>[<a href="#sidebar">Return to beginning of section</a>]</p>
-
-<h3 id="viewing_sidebar_tabs">Viewing Sidebar Tabs</h3>
-
-<p>To view a tab:</p>
-
-<ul>
-  <li>Click a tab&apos;s title; for instance, click the word <q>Search</q>. The
-    Search tab opens, which allows you to search for web pages.</li>
-</ul>
-
-<p><strong>Tip</strong>: To reload a Sidebar tab, right-click on the tab title
-  and choose Reload from the pop-up menu.</p>
-
-<p>[<a href="#sidebar">Return to beginning of section</a>]</p>
-
-<h3 id="adding_sidebar_tabs">Adding Sidebar Tabs</h3>
-
-<p>To add a new tab:</p>
-
-<ol>
-  <li>Click <q>Tabs</q> at the top of Sidebar, and select Customize
-    Sidebar from the menu</li>
-  <li>In the Customize Sidebar dialog box, select a tab from the list on the
-    left. Double-click the folders to open or close folders.</li>
-  <li>Click Add.</li>
-  <li>Continue adding as many tabs as you want.</li>
-  <li>Click OK to finish.</li>
-</ol>
-
-<p><strong>Note</strong>: If you add more than eight tabs to Sidebar,
-  &brandShortName; hides the remaining tabs to reduce clutter. To scroll
-  through the hidden tabs, click the down arrow button at the bottom of Sidebar
-  until you see the desired tab. Click the up arrow button to once again scroll
-  up.</p>
+  <h3 id="opening_closing_and_resizing_sidebar">Abrir, cerrar y cambiar el
+  tamaño al panel lateral</h3>
   
-<p><strong>Tips</strong>:</p>
-
-<ul>
-  <li>To preview a Sidebar tab before adding it, select a tab from the list
-    on the left side of the Customize Sidebar dialog box and click Preview.
-    After a few seconds, the tab displays in the Tab Preview pop-up
-    window.</li>
-  <li>To view an extensive and categorized list of tabs available for Sidebar,
-    click <q>Tabs</q> at the top of Sidebar, and select Sidebar
-    Directory.</li>
-</ul>
-
-<p>You can also turn Sidebar tabs on and off.</p>
-
-<ol>
-  <li>Click <q>Tabs</q> at the top of Sidebar. Current tabs are listed in
-    the lower part of the menu.</li>
-  <li>Select the tabs you want displayed in Sidebar. Remove the checkmark
-    (deselect) to turn a tab off (it will still be available from the
-    menu).</li>
-</ol>
-
-<p><strong>Tip</strong>: To quickly turn off a Sidebar tab, right-click on its
-  name and choose Hide Tab.</p>
+<p>Para abrir el panel lateral, <span class="noMac">pulse <kbd>F9</kbd>
+    o </span>abra el menú Ver en el navegador, elija Barras de
+    herramientas, y luego Panel lateral del submenú.</p>
   
-<p>[<a href="#sidebar">Return to beginning of section</a>]</p>
+<p>Una vez el panel lateral esté abierto puede usar su guía
+  para cerrarlo, abrirlo o redimensionar su tamaño. Mueva el puntero
+  del ratón hacia arriba y hacia abajo sobre el borde izquierdo
+  de la ventana de &brandShortName;. El puntero se convierte en una
+  mano al pasar sobre la <q>guía</q> del panel lateral, como se
+  muestra en la ilustración.</p>
 
-<h3 id="customizing_individual_sidebar_tabs">Customizing Individual Sidebar
-  Tabs</h3>
+  <table summary="Tabla con imagen">
+    <tr>
+      <td colspan="2"></td>
+    </tr>
+    <tr style="vertical-align: top;">
+      <td><img src="images/sidebar.png" alt="imagen del panel
+        lateral con la guía"/></td>
+      <td style="vertical-align: middle;">
+      <p><strong>Guía del<br />
+        panel lateral</strong></p>
+      </td>
+    </tr>
+  </table>
 
-<p><strong>Note</strong>: Not all tabs can be customized.</p>
-
-<ol>
-  <li>Click <q>Tabs</q> at the top of Sidebar and select Customize Sidebar
-    from the menu.</li>
-  <li>Select an available tab from the list on the right.</li>
-  <li>Click Customize Tab if it is enabled. A window appears with information
-    and options for customizing the tab.
-    
-    <p>The instructions vary depending on the source of the tab&mdash;in
-      addition to &brandShortName;, tab providers can be any company,
-      organization, or individual who uses the Internet.</p>
-  </li>
-  <li>After you follow the tab provider&apos;s instructions, close the
-    customization window (or follow the provider&apos;s instructions to close
-    it).</li>
-  <li>Click OK to finish.</li>
-</ol>
-
-<p>[<a href="#sidebar">Return to beginning of section</a>]</p>
-
-<h3 id="reorganizing_sidebar_tabs">Reorganizing Sidebar Tabs</h3>
-
-<ol>
-  <li>Click <q>Tabs</q> at the top of Sidebar and select Customize Sidebar from
-    the menu.</li>
-  <li>Select a tab from the list on the right.</li>
-  <li>Click Up and Down to change the tab&apos;s placement.</li>
-  <li>Repeat steps 1 and 2 to continue reorganizing as many tabs as you
-    like.</li>
-  <li>Click OK to finish.</li>
-</ol>
-
-<p>[<a href="#sidebar">Return to beginning of section</a>]</p>
-
-<h3 id="removing_sidebar_tabs">Removing Sidebar Tabs</h3>
-
-<ol>
-  <li>Click <q>Tabs</q> at the top of Sidebar and select Customize Sidebar from
-    the menu.</li>
-  <li>Select a tab from the list on the right.</li>
-  <li>Click Remove.</li>
-  <li>Continue removing as many tabs as you like.</li>
-  <li>Click OK to finish.</li>
-</ol>
-
-<p>[<a href="#sidebar">Return to beginning of section</a>]</p>
-
-<h2 id="tabbed_browsing">Tabbed Browsing</h2>
-
-<div class="contentsBox">In this section:
   <ul>
-    <li><a href="#what_is_tabbed_browsing">What is Tabbed Browsing?</a></li>
-    <li><a href="#setting_up_tabbed_browsing">Setting up Tabbed Browsing</a></li>
-    <li><a href="#opening_tabs">Opening Tabs</a></li>
-    <li><a href="#moving_tabs">Moving Tabs</a></li>
-    <li><a href="#bookmarking_tabs">Bookmarking Tabs</a></li>
-    <li><a href="#closing_tabs">Closing Tabs</a></li>
+    <li>Haga clic en la guía para abrir y cerrar el panel
+      lateral.</li>
+    <li>Haga clic en la guía y arrastre para cambiar el
+      tamaño del panel lateral.</li>
   </ul>
-</div>
 
-<h3 id="what_is_tabbed_browsing">What is Tabbed Browsing?</h3>
+<p>Para cerrar el panel lateral con su guía, siga uno de
+  estos procedimientos:</p>
 
-<p>Tabbed Browsing lets you open more than one web page in a single window.
-  Each web page has its own tab across the top of a single browser window.
-  Each tab appears on the Tab Bar. For example, you can visit mozilla.org,
-  icq.com, and cnn.com within one window instead of three windows.</p>
-
-<table summary="Image table">
-  <tr> 
-    <td>Click this to open a new tab.</td>
-    <td></td>
-  </tr>
-  <tr> 
-    <td colspan="2">
-      <img src="images/tabbed_browsing_bar.png" alt="tab bar"/>
-    </td>
-  </tr>
-  <tr> 
-    <td style="text-align: left;">Tab being viewed.</td>
-    <td style="text-align: right;">Click this to close the tab being
-      viewed.</td>
-  </tr>
-  <tr> 
-    <td colspan="2" style="text-align: center;"><strong>Tab Bar</strong></td>
-  </tr>
-</table>
-
-<p>You don&apos;t need to have several windows open to visit several web pages;
-  thus, freeing up more space on your desktop. Instead, you can open, close,
-  and reload web pages conveniently in one place without having to switch to
-  another window.</p>
-
-<p>[<a href="#tabbed_browsing">Return to beginning of section</a>]</p>
-
-<h3 id="setting_up_tabbed_browsing">Setting up Tabbed Browsing</h3>
-
-<p>There are several ways to customize Tabbed Browsing. For example, you can
-  change your preferences to open new browser tabs from the Location Bar. You
-  can set up Tabbed Browsing in other ways too, such as loading new browser
-  tabs in the background so the first page is kept on top while the second page
-  is loading. To learn more about setting up Tabbed Browsing in
-  &brandShortName;, see
-  <a href="cs_nav_prefs_navigator.xhtml#tabbed_browsing">Browser Preferences
-  - Tabbed Browsing</a>.</p>
-
-<p>[<a href="#tabbed_browsing">Return to beginning of section</a>]</p>
-
-<h3 id="opening_tabs">Opening Tabs</h3>
-
-<p>You can open a browser tab in the following ways:</p>
-
-<p><strong>Opening a New Blank Browser Tab</strong>:</p>
-
-<ul>
-  <li><strong>From the File menu</strong>: Open the File menu, choose New, and
-    then Browser Tab.</li>
-  <li><strong>From the Tab Bar</strong>: If visible, click the <q>new
-    tab</q> icon
-    <img src="chrome://navigator/skin/icons/tab-new.gif" alt="new tab icon"/>
-    on the left side of the Tab Bar.</li>
-  <li><strong>From a pop-up menu</strong>: If the Tab Bar is visible,
-    right-click on it, and choose New Tab from the pop.</li>
-</ul>
-
-<p><strong>Opening a Web Page Link in a Browser Tab</strong>:</p>
-
-<ul>
-  <li><strong>From a pop-up menu</strong>: Right-click<span class="mac"> or, if
-    you have a one-button mouse, <kbd>Ctrl</kbd>-click</span> on a web page
-    link and choose Open Link in New Tab.</li>
-  <li><strong>From the Location Bar</strong>: Type a web page location in the
-    Location Bar and press <kbd class="mac">Cmd</kbd><kbd class="noMac">
-    Ctrl</kbd>+<kbd class="mac">Return</kbd><kbd class="noMac">Enter</kbd>.
-
-    <p><strong>Note</strong>: You must set your Tabbed Browsing preferences to
-      open a browser tab from the Location Bar. See
-      <a href="cs_nav_prefs_navigator.xhtml#tabbed_browsing">Browser
-      Preferences - Tabbed Browsing</a> for more information.</p>
-  </li>
-</ul>
-
-<p><strong>Tips</strong>:</p>
-
-<ul>
-  <li>To quickly open a new browser tab, press
-    <kbd class="mac">Cmd</kbd>
-    <kbd class="noMac">Ctrl</kbd>+<kbd>T</kbd>.</li>
-  <li>To reload one or all browser tabs, right-click<span class="mac"> or, if
-    you have a one-button mouse, <kbd>Ctrl</kbd>-click</span> anywhere on the
-    Tab Bar and select Reload Tab or Reload All Tabs, respectively.</li>
-</ul>
-
-<p>[<a href="#tabbed_browsing">Return to beginning of section</a>]</p>
-
-<h3 id="moving_tabs">Moving Tabs</h3>
-
-<p>Tabs are displayed in the order you open them, which may not always be what
-  you want. To move a tab to a different location within a &brandShortName;
-  window, simply drag it there using your mouse. While you are dragging the
-  tab, &brandShortName; displays an indicator to show where the tab will be
-  moved. Alternately, you can use
-  <a href="shortcuts_navigator.xhtml#tabbed_browsing_shortcuts">keyboard
-  shortcuts</a> to move tabs within a window if desired.</p>
-
-<p><strong>Note</strong>: The keyboard shortcuts don&apos;t work when a text
-  box has focus.</p>
-
-<p>[<a href="#tabbed_browsing">Return to beginning of section</a>]</p>
-
-<h3 id="bookmarking_tabs">Bookmarking Tabs</h3>
-
-<p>A bookmarked group of tabs is called a Groupmark. To bookmark the group of
-  browser tabs in the current window:</p>
-
-<ol>
-  <li>Open the Bookmarks menu and choose <q>Bookmark This Group of
-    Tabs</q>.</li>
-  <li>Type a name for the bookmark group in the Name field.</li>
-  <li>Choose a folder in which to create your Groupmark, or click New Folder to
-    create a new folder for your Groupmark.</li>
-  <li>Click OK to add the Groupmark.</li>
-</ol>
-
-<p><strong>Tip</strong>: To learn how to use a group of tabs as your home page,
-  see <a href="cs_nav_prefs_navigator.xhtml#navigator">Browser Preferences -
-  Browser</a>.</p>
-
-<p>[<a href="#tabbed_browsing">Return to beginning of section</a>]</p>
-
-<h3 id="closing_tabs">Closing Tabs</h3>
-
-<p>You can close browser tabs in several ways:</p>
-
-<p><strong>Closing the Browser Tab Being Viewed</strong>:</p>
-
-<ul>
-  <li>Open the File menu and choose Close Tab.</li>
-  <li>Click the <q>X</q> button on the right side of the Tab Bar.</li>
-</ul>
-
-<table summary="Image table">
-  <tr>
-    <td> Click this to open a new tab.</td>
-    <td></td>
-  </tr>
-  <tr>
-    <td colspan="2">
-      <img src="images/tabbed_browsing_bar.png" alt="tab bar"/>
-    </td>
-  </tr>
-  <tr>
-    <td style="text-align: left;">Tab being viewed.</td>
-    <td style="text-align: right;">Click this to close the tab being
-      viewed.</td>
-  </tr>
-  <tr>
-    <td colspan="2" style="text-align: center;"><strong>Tab Bar</strong></td>
-  </tr>
-</table>
-
-<p><strong>Tips</strong>:</p>
-
-<ul>
-  <li>To close any browser tab, even if hidden, right-click on the tab and
-    choose Close Tab from the pop-up menu.</li>
-  <li>To keep only one browser tab open, while closing all other tabs,
-    right-click on the browser tab and choose Close Other Tabs.</li>
-</ul>
-
-<p>[<a href="#tabbed_browsing">Return to beginning of section</a>]</p>
-
-<h2 id="changing_fonts_colors_and_themes">Changing Fonts, Colors, and
-  Themes</h2>
-  
-<div class="contentsBox">In this section:
   <ul>
-    <li><a href="#changing_the_default_fonts">Changing the Default Fonts</a></li>
-    <li><a href="#changing_the_default_colors">Changing the Default
-      Colors</a></li>
-    <li><a href="#changing_the_theme">Changing the Theme</a></li>
+    <li class="noMac">Pulse <kbd>F9</kbd>.</li>
+    <li>Haga clic en la X en la esquina superior derecha del panel
+    lateral.</li>
+    <li>Abra el menú Ver, escoja Mostrar/Ocultar y
+    desmarque Panel lateral.</li>
   </ul>
-</div>
 
-<h3 id="changing_the_default_fonts">Changing the Default Fonts</h3>
+<p>[<a href="#sidebar">Volver al principio de la sección</a>]</p>
 
-<p>Normally, web pages are displayed in the default font set by your browser
-  or in a font chosen by the web pages&apos; authors.</p>
-
-<p>To change the default fonts:</p>
-
-<ol>
-  <li>Open the <span class="mac">&brandShortName;</span>
-    <span class="noMac">Edit</span> menu and choose Preferences.</li>
-  <li>Under the Appearance category, choose Fonts. (If no options are visible
-    in this category, double-click Appearance to expand the list.)</li>
-  <li>From the "Fonts for" drop-down list, choose a language group/script.
-    For instance, to set default fonts for West European languages/script
-    (Latin), choose <q>Western</q>.</li>
-  <li>Select whether proportional text should be serif (like Times Roman) or
-    sans-serif (like Arial). Then specify the font size you want for
-    proportional text.</li>
-  <li>If an appropriate font is available for your language/script, select
-    fonts for Serif, Sans-Serif, Cursive, Fantasy, and Monospace. You can also
-    specify what font size you want for monospace text.</li>
-  <li>Specify whether the default font should be serif or sans serif.</li>
-  <li>Select a fixed-width font and size. Certain types of text, such as
-    equations and formulas, are displayed in a fixed-width font.</li>
-</ol>
-
-<p>Many web page authors choose their own fonts and font sizes. To allow fonts
-  other than the ones specified in your preferences, check <q>Allow
-  documents to use other fonts</q>.</p>
-
-<p>[<a href="#changing_fonts_colors_and_themes">Return to beginning of
-  section</a>]</p>
-
-<h3 id="changing_the_default_colors">Changing the Default Colors</h3>
-
-<p>Normally, the background and text colors on web pages are determined by the
-  default colors set by your browser or by the pages&apos; authors.</p>
-
-<p>To change the default colors:</p>
-
-<ol>
-  <li>Open the <span class="mac">&brandShortName;</span>
-    <span class="noMac">Edit</span> menu and choose Preferences.</li>
-  <li>Under the Appearance category, choose Colors. (If no options are visible
-    in this category, click to expand the list.)</li>
-  <li>Click the colored blocks next to Text, Background, Unvisited Links, and
-    Visited Links. Choose a color for each from the color chart. You can also
-    specify that links should be underlined.</li>
-</ol>
-
-<p>Most web page authors choose their own colors. You can override the
-  authors&apos; intentions by selecting <q>Use my chosen colors, ignoring
-  the colors specified</q>.</p>
-
-<p>When viewing the source of a web page, you can see the HTML syntax of the
-  source of a web page highlighted in specific colors by selecting <q>Enable
-  syntax highlighting</q>.</p>
-
-<p>[<a href="#changing_fonts_colors_and_themes">Return to beginning of
-  section</a>]</p>
-
-<h3 id="changing_the_theme">Changing the Theme</h3>
-
-<p>You can change the look and feel of &brandShortName; by using a different
-  theme. Changing the theme can be done either from the View menu or from the
-  Add-on Manager.</p>
-
-<p>From the View menu:</p>
-
-<ol>
-  <li>Open the View menu and choose Apply Theme, and then select a theme from
-    the menu.</li>
-  <li>Quit and restart &brandShortName;.</li>
-</ol>
-
-<p>From the Add-on Manager:</p>
-
-<ol>
-  <li>Open the Tools menu and choose Add-on Manager.</li>
-  <li>Click the Themes button in the toolbar.</li>
-  <li>Select a theme from the list, and then click the Use Theme button.</li>
-  <li>Quit and restart &brandShortName;.</li>
-</ol>
-
-<p>[<a href="#changing_fonts_colors_and_themes">Return to beginning of
-  section</a>]</p>
-
-<h2 id="toolbars">Toolbars</h2>
-
-<div class="contentsBox">In this section:
+  <h3 id="viewing_sidebar_tabs">Ver pestañas del panel lateral</h3>
+  
+<p>Para ver una pestaña:</p>
+  
   <ul>
-    <li><a href="#navigation_toolbar">Navigation Toolbar</a></li>
-    <li><a href="#personal_toolbar">Personal Toolbar</a></li>
-    <li><a href="#status_bar">Status Bar</a></li>
-    <li><a href="#component_bar">Component Bar</a></li>
-    <li><a href="#hiding_a_toolbar">Hiding a Toolbar</a></li>
+    <li>Haga clic en el título de una pestaña; por ejemplo,
+    haga clic en la palabra <q>Buscar</q>. pestaña de
+    búsqueda se abrirá, lo que le permite buscar
+    páginas web.</li>
   </ul>
-</div>
-
-<h3 id="navigation_toolbar">Navigation Toolbar</h3>
-
-<p>The Navigation Toolbar, pictured here, helps you move around the Web.</p>
-
-<table summary="Image table">
-  <tr>
-    <td colspan="4">
-      <img src="images/reload.gif" alt="navigation toolbar"/>
-    </td>
-  </tr>
-  <tr>
-    <td><strong>Back</strong></td>
-    <td><strong>Forward</strong></td>
-    <td><strong>Reload</strong></td>
-    <td><strong>Stop</strong></td>
-  </tr>
-</table>
-
-<p>[<a href="#toolbars">Return to beginning of section</a>]</p>
-
-<h3 id="personal_toolbar">Personal Toolbar</h3>
-
-<p>The Personal Toolbar is completely customizable&mdash;you decide what you
-  want to keep there.</p>
-
-<table summary="Image table">
-  <tr> 
-    <td><img src="images/personalbar.png" alt="Personal Toolbar"/></td>
-  </tr>
-  <tr>
-    <td style="text-align: center;"><strong>Personal Toolbar</strong></td>
-  </tr>
-</table>
-
-<p>You can easily add, delete, and rearrange items in the Personal Toolbar.</p>
-
-<h4 id="adding_personal_toolbar_bookmarks">Adding Personal Toolbar
-  Bookmarks</h4>
-
-<p>You can add buttons for your favorite bookmarks, or folders containing
-  groups of bookmarks. To create a new bookmark to add to the Personal
-  Toolbar:</p>
   
-<ol>
-  <li>Open a web page you want to bookmark.</li>
-  <li>Drag the bookmark icon
-    <img src="chrome://communicator/skin/bookmarks/bookmark-item.png"
-    alt="image of bookmark icon"/>(located to the left of URL in the
-    Location Bar) to a desired place on the Personal Toolbar. You can drag the
-    icon directly to the Personal Toolbar, or to a folder on the Personal
-    Toolbar. For more information, see
-    <a href="#adding_bookmark_folders_to_the_personal_toolbar">Adding Bookmark
-    Folders to the Personal Toolbar</a>.</li>
-</ol>
+<p><strong>Consejo</strong>: para recargar una pestaña del panel
+  lateral, haga clic con el botón derecho en el título de la
+  pestaña y escoja Recargar del menú emergente.</p>
 
-<p><strong>Note</strong>: The bookmark icon
-  <img src="chrome://communicator/skin/bookmarks/bookmark-item.png" alt="image
-  of bookmark icon"/> may appear as another page-specific icon if you have
-  checked Show Website Icons in preferences. See
-  <a href="cs_nav_prefs_appearance.xhtml#appearance">Appearance Preferences -
-  Appearance</a> for more information on changing this preferences.</p>
+<p>[<a href="#sidebar">Volver al principio de la sección</a>]</p>
 
-<p>Each item in the Personal Toolbar folder appears as a toolbar button. You
-  may need to enlarge the browser window to see them all.</p>
+  <h3 id="adding_sidebar_tabs">Añadir pestañas al panel
+  lateral</h3>
 
-<p id="adding_bookmark_folders_to_the_personal_toolbar"><strong>Adding
-  Bookmark Folders to the Personal Toolbar</strong></p>
+<p>Para agregar una nueva pestaña:</p>
 
-<p>You can add bookmark folders to the Personal Toolbar to sort your favorite
-  bookmarks into categories. For example, you can have one folder on the
-  Personal Toolbar for hobby-related bookmarks and another folder for
-  work-related bookmarks. To add a new bookmark to the Personal Toolbar:</p>
+  <ol>
+    <li>Se ha de pulsar en <q>Pestañas</q>, en la parte de arriba
+    del panel lateral, y seleccionar <q>Personalizar el panel lateral</q>
+    del menú.</li>
+    <li>En el cuadro de diálogo <q>Personalizar el panel
+    lateral</q> se ha de seleccionar una pestaña de la lista de la
+    izquierda. Haga doble clic en las carpetas para abrir o cerrar
+    carpetas.</li>
+    <li>Haga clic en Añadir.</li>
+    <li>Continúe añadiendo tantas pestañas como se
+    desee.</li>
+    <li>Haga clic en Aceptar para finalizar.</li>
+  </ol>
 
-<ol>
-  <li>Open the Bookmarks menu and choose Manage Bookmarks.</li>
-  <li>Select your designated <q>Personal Toolbar Folder</q>.</li>
-  <li>Click New Folder on the toolbar.</li>
-  <li> Type a name for your new bookmark folder. By default, the name is
-    <q>New Folder</q>.</li>
-  <li>Click OK to confirm your new bookmark folder name.</li>
-</ol>
+<p><strong>Nota</strong>: si añade más de ocho pestañas
+  al panel lateral, &brandShortName; oculta las pestañas restantes para
+  evitar sobrecargar la interfaz. Para desplazarse a través de las
+  pestañas ocultas, haga clic en el botón con la flecha hacia
+  abajo que hay en la parte inferior del panel lateral hasta que vea la
+  pestaña deseada. Pulsando el botón con la flecha hacia arriba
+  se desplazará de nuevo hacia las pestañas superiores.</p>
 
-<p>The new bookmark folder will appear at the end of the Personal Toolbar.</p>
+<p><strong>Consejos</strong>:</p>
 
-<h4>Designating a Bookmark Folder as Your Personal Toolbar Folder</h4>
+  <ul>
+    <li>Para previsualizar una pestaña del panel lateral antes de
+    añadirla, se selecciona una pestaña de la lista de la
+    izquierda del cuadro de diálogo <q>Personalizar el panel
+    lateral</q> y se pulsa en <q>Vista preliminar</q>. Tras unos pocos
+    segundos, la pestaña se muestra en la ventana emergente de
+    previsualización de pestaña.</li>
 
-<ol>
-  <li>Open the Bookmarks menu and choose Manage Bookmarks.</li>
-  <li>Select the bookmark folder whose items you want to appear on the
-    toolbar.</li>
-  <li>From the View menu, choose Set as Personal Toolbar Folder.</li>
-</ol>
+    <li>Para ver una lista amplia y catalogada de pestañas disponibles
+    para el panel lateral, haga clic en <q>Pestañas</q> arriba del
+    panel lateral y seleccione el directorio de paneles laterales.</li>
+  </ul>
 
-<p>The buttons in your Personal Toolbar now correspond to the bookmarks in the
-  folder you designated.</p>
+<p>También se pueden activar y desactivar las pestañas del
+  panel lateral.</p>
 
-<h4>Removing Bookmarks from the Personal Toolbar</h4>
+  <ol>
+    <li>Haga clic en <q>Pestañas</q> en la parte de arriba del
+    panel lateral. Las pestañas actuales están listadas en la
+    parte inferior del menú.</li>
 
-<ol>
-  <li>Open the Bookmarks menu and choose Manage Bookmarks.</li>
-  <li>Click the Personal Toolbar Folder.</li>
-  <li>Select the bookmark or folder you want to delete.</li>
-  <li>Press Delete on your keyboard.</li>
-  <li>Close the Manage Bookmarks window.</li>
-</ol>
+    <li>Seleccione las pestañas que quiera mostrar en el panel lateral.
+    Desactive las casillas de verificación de las pestañas que no
+    quiera que aparezcan (puede volver a activarlas desde el menú).</li>
+  </ol>
 
-<p><strong>Tip</strong>: To quickly remove a bookmark placed on the Personal
-  Toolbar (not in a folder), right-click on the bookmark and select Delete.</p>
+<p><strong>Consejo</strong>: para desactivar rápidamente una
+  pestaña del panel lateral, se puede hacer clic con el botón
+  derecho en el nombre y escoger <q>Esconder pestaña</q>.</p>
 
-<h4>Rearranging the Personal Toolbar</h4>
+<p>[<a href="#sidebar">Volver al principio de la sección</a>]</p>
 
-<ol>
-  <li>Open the Bookmarks menu and choose Manage Bookmarks.</li>
-  <li>In your Bookmarks window, click the Personal Toolbar Folder.</li>
-  <li>Select a bookmark or folder and drag it to a new location.</li>
-  <li>When you are finished rearranging items, close your Bookmarks
-    window.</li>
-</ol>
+  <h3 id="customizing_individual_sidebar_tabs">Personalizar las
+  pestañas del panel lateral</h3>
 
-<p><strong>Tip</strong>: To move a bookmark placed on the Personal Toolbar
-  quickly, click and drag the bookmark to another location on the Personal
-  Toolbar or to a folder.</p>
+<p><strong>Nota</strong>: No todas las pestañas pueden ser
+  personalizadas.</p>
+
+  <ol>
+    <li>Pulse <q>Pestañas</q> en la parte de arriba del panel
+    lateral, y seleccione <q>Personalizar el panel lateral</q>.</li>
+    <li>Seleccione una pestaña disponible de la lista de la
+    derecha.</li>
+    <li>Haga clic en <q>Personalizar pestaña</q> si está
+    habilitado. Una ventana aparece con información y opciones para
+    personalizar la pestaña.
+
+  <p>Las instrucciones pueden depender del autor de la pestaña
+    (además de &brandShortName;, los autores de la pestaña
+    pueden ser cualquier empresa, organización o individuo que usa
+    Internet).</p></li>
+    <li>Tras finalizar las intrucciones de los autores de la pestaña,
+    se ha de cerrar la ventana de personalización (o seguir las
+    instrucciones de los autores para cerrarla).</li>
+    <li>Haga clic en Aceptar para finalizar.</li>
+  </ol>
+
+<p>[<a href="#sidebar">Volver al principio de la sección</a>]</p>
+
+  <h3 id="reorganizing_sidebar_tabs">Reorganizar las pestañas en el
+  panel lateral</h3>
+
+  <ol>
+    <li>Se ha de hacer clic en <q>Pestañas</q> en la parte de
+    arriba del panel lateral, y seleccionar <q>Personalizar el panel
+    lateral</q> del menú.</li>
+    <li>Seleccione una pestaña del menú de la derecha.</li>
+    <li>Pulse en Arriba y Abajo para cambiar la posición de la
+    pestaña.</li>
+    <li>Repita los pasos 1 y 2 para continuar reorganizando tantas
+    pestañas como prefiera.</li>
+    <li>Pulse en Aceptar para finalizar.</li>
+  </ol>
+
+<p>[<a href="#sidebar">Volver al principio de la sección</a>]</p>
+
+  <h3 id="removing_sidebar_tabs">Eliminar pestañas del panel
+  lateral</h3>
+
+  <ol>
+    <li>Haga clic en <q>Pestañas</q> en la parte de arriba del
+    panel lateral, y seleccione Personalizar el panel lateral del
+    menú.</li>
+    <li>Seleccione una pestaña de la lista de la derecha.</li>
+    <li>Haga clic en Eliminar.</li>
+    <li>Continúe quitando tantas pestañas como prefiera.</li>
+    <li>Haga clic en Aceptar para finalizar.</li>
+  </ol>
+
+<p>[<a href="#sidebar">Volver al principio de la sección</a>]</p>
+
+  <h2 id="tabbed_browsing">Navegación con pestañas</h2>
+
+  <div class="contentsBox">En esta sección:
+    <ul>
+      <li><a href="#what_is_tabbed_browsing">&iquest;Qué es la
+        navegación con pestañas?</a></li>
+      <li><a href="#setting_up_tabbed_browsing">Configurar la
+        navegación con pestañas</a></li>
+      <li><a href="#opening_tabs">Abrir una pestaña</a></li>
+      <li><a href="#moving_tabs">Mover una pestaña</a></li>
+      <li><a href="#bookmarking_tabs">Añadir pestañas a marcadores</a></li>
+      <li><a href="#closing_tabs">Cerrar una pestaña</a></li>
+    </ul>
+  </div>
+
+  <h3 id="what_is_tabbed_browsing">&iquest;Qué es la navegación con
+    pestañas?</h3>
+
+<p>La navegación con pestañas le permite abrir más de una página web en una
+    única ventana. Cada página web tiene su propia pestaña a lo largo de la
+    parte superior de una sola ventana del navegador. Cada pestaña aparece en
+    la barra de pestañas. Por ejemplo, puede visitar mozilla.org, icq.com y
+    cnn.com en una sola ventana en lugar de en tres ventanas.</p>
+
+  <table summary="Tabla con imagen">
+    <tr>
+      <td>Pulse aquí para abrir una nueva pestaña.</td>
+      <td></td>
+    </tr>
+    <tr>
+      <td colspan="2">
+        <img src="images/tabbed_browsing_bar.png" alt="barra de
+        pestañas"/></td>
+    </tr>
+    <tr>
+      <td style="text-align: left;">Pestaña visualizada.</td>
+      <td style="text-align: right;">Pulse aquí para cerrar la
+        pestaña visualizada.</td>
+    </tr>
+    <tr>
+      <td colspan="2" style="text-align: center;">
+        <strong>Barra de pestañas</strong>
+      </td>
+    </tr>
+  </table>
+
+<p>No necesita tener varias ventanas abiertas para visitar varias
+  páginas web, por lo que libera espacio en su escritorio. En su lugar,
+  puede abrir, cerrar y recargar páginas cómodamente en un solo
+  lugar sin tener que pasar a otra ventana.</p>
+
+<p>[<a href="#tabbed_browsing">Volver al principio de la
+  sección</a>]</p>
+
+  <h3 id="setting_up_tabbed_browsing">Configurar la navegación con
+  pestañas</h3>
+
+<p>Hay varias maneras de personalizar la navegación con pestañas. Por
+    ejemplo, puede cambiar sus preferencias para abrir nuevas pestañas del
+    navegador desde la barra de direcciones. Puede configurar la navegación
+    con pestañas también de otros modos, tales como cargar nuevas pestañas del
+    navegador en segundo plano de manera que la primera página permanezca
+    visible mientras la segunda se carga. Para aprender más sobre la
+    configuración de la navegación con pestañas en &brandShortName;, vea
+    <a href="cs_nav_prefs_navigator.xhtml#tabbed_browsing">Preferencias del
+    navegador - Navegación con pestañas</a>.</p>
+
+<p>[<a href="#tabbed_browsing">Volver al principio de la
+  sección</a>]</p>
+
+  <h3 id="opening_tabs">Abrir una pestaña</h3>
+
+<p>Puede abrir una pestaña del navegador de cualquiera de las
+    siguientes formas:</p>
+
+<p><strong>Abrir una nueva pestaña del navegador
+    vacía</strong>:</p>
+
+  <ul>
+    <li><strong>Desde el menú Archivo</strong>: abra el menú
+      Archivo, escoja Nuevo, y a continuación Nueva pestaña del
+      navegador.</li>
+    <li><strong>Desde la barra de pestañas</strong>: si está
+      visible, haga clic en el icono <q>nueva pestaña</q> <img
+      src="chrome://navigator/skin/icons/tab-new.gif" alt="icono nueva
+      pestaña"/> en el lado izquierdo de la barra de pestañas.</li>
+    <li><strong>Desde un menú emergente</strong>: si la barra de tareas
+    está visible, haga clic con el botón derecho sobre ella y
+    escoja Nueva pestaña del menú emergente.</li>
+  </ul>
+
+<p><strong>Abrir un enlace de página web en una ventana del
+    navegador</strong>:</p>
+
+  <ul>
+    <li><strong>Desde un menú emergente</strong>: haga clic con el
+    botón derecho <span class="mac"> o, si tiene un ratón con
+    un solo botón, <kbd>Ctrl</kbd>-clic</span> en un enlace a
+    página web y escoja Abrir enlace en una nueva pestaña.</li>
+    <li><strong>Desde la barra de direcciones</strong>: escriba una
+    dirección de página en la barra de direcciones y pulse
+    <kbd class="mac">Cmd</kbd><kbd class="noMac">Ctrl</kbd>+<kbd>Enter</kbd>.
+  <p><strong>Nota</strong>: debe establecer sus preferencias de navegación
+    con pestañas para abrir una pestaña del navegador desde la barra de
+    direcciones. Vea
+    <a href="cs_nav_prefs_navigator.xhtml#tabbed_browsing">Preferencias del
+    navegador - Navegación con pestañas</a> para más información.</p></li>
+  </ul>
+
+<p><strong>Consejos</strong>:</p>
+
+  <ul>
+    <li>Para abrir rápidamente una nueva pestaña vacía del navegador, pulse
+      <kbd class="mac">Cmd</kbd><kbd class="noMac">Ctrl</kbd>+<kbd>T</kbd>.</li>
+    <li>Para recargar una o todas las pestañas abiertas del navegador,
+      haga clic con el botón derecho <span class="mac"> o, si tiene un
+      ratón con un solo botón, <kbd>Ctrl</kbd>-clic</span> en cualquier punto
+      de la barra de pestañas y seleccione Recargar pestaña o Recargar todas
+      las pestañas, respectivamente.</li>
+  </ul>
+
+<p>[<a href="#tabbed_browsing">Volver al principio de la
+  sección</a>]</p>
+
+  <h3 id="moving_tabs">Mover una pestaña</h3>
+
+<p>Las pestañas se muestran en el orden en el que son abiertas, lo cual
+    puede no ser siempre lo que se de desea. Para mover una pestaña a una
+    ubicación diferente dentro de una ventana de &brandShortName;, simplemente
+    arrástrela usando su ratón. Mientras esté arrastrando la
+    pestaña, &brandShortName; muestra un indicador para mostrar dónde
+    se moverá la ventana. Alternativamente, puede usar si lo desea
+    <a href="shortcuts_navigator.xhtml#tabbed_browsing_shortcuts">atajos
+    de teclado</a> para mover pestañas dentro de una ventana.</p>
+
+<p><strong>Nota</strong>: los atajos de teclado no funcionan cuando
+    una caja de texto tiene el foco (cursor).</p>
+
+<p>[<a href="#tabbed_browsing">Volver al principio de la
+  sección</a>]</p>
+
+  <h3 id="bookmarking_tabs">Añadir pestañas a marcadores</h3>
+
+<p>Un marcador correspondiente a un grupo de pestañas recibe el nombre de
+    marcador de grupo. Para añadir el grupo de pestañas del navegador abierto
+    en la ventana actual a los marcadores:</p>
+
+  <ol>
+    <li>Abra el menú Marcadores y escoja <q>Añadir este grupo
+    de pestañas</q>.</li>
+    <li>Escriba un nombre para el grupo de pestañas en el campo
+    nombre.</li>
+    <li>Escoja una carpeta en la que crear su grupo de pestañas, o
+    pulse en Nueva carpeta para crear una nueva carpeta para su grupo de
+    pestañas.</li>
+    <li>Pulse Aceptar para añadir el marcador de grupo.</li>
+  </ol>
+
+<p><strong>Consejo</strong>: para aprender cómo usar un grupo de pestañas
+    como su página de inicio, vea
+    <a href="cs_nav_prefs_navigator.xhtml#navigator">Preferencias del navegador
+    - Navegador</a>.</p>
+
+<p>[<a href="#tabbed_browsing">Volver al principio de la
+  sección</a>]</p>
+
+  <h3 id="closing_tabs">Cerrar una pestaña</h3>
+
+<p>Puede cerrar pestañas del navegador de distintas formas:</p>
+
+<p><strong>Cerrar la pestaña del navegador visualizada</strong>:</p>
+
+  <ul>
+    <li>Abra el menú Archivo y escoja Cerrar pestaña.</li>
+    <li>Pulse el botón <q>X</q> en la esquina superior derecha de
+      la barra de pestañas.</li>
+  </ul>
+
+  <table summary="Tabla con imagen">
+    <tr>
+      <td>Pulse aquí para abrir una nueva pestaña.</td>
+      <td></td>
+    </tr>
+    <tr>
+      <td colspan="2">
+        <img src="images/tabbed_browsing_bar.png" alt="barra de
+        pestañas"/>
+      </td>
+    </tr>
+    <tr>
+      <td style="text-align: left;">Pestaña visualizada.</td>
+      <td style="text-align: right;">Pulse aquí para cerrar la
+        pestaña visualizada.</td>
+    </tr>
+    <tr>
+      <td colspan="2" style="text-align: center;">
+        <strong>Barra de pestañas</strong>
+      </td>
+    </tr>
+  </table>
+
+<p><strong>Consejos</strong>:</p>
+
+  <ul>
+    <li>Para cerrar cualquier pestaña del navegador, incluso si no es la
+      pestaña visible, haga clic con el botón derecho en la pestaña y escoja
+      Cerrar pestaña del menú emergente.</li>
+    <li>Para mantener sólo una pestaña abierta y cerrar todas las demás haga
+      doble clic en la pestaña del navegador y escoja Cerrar las demás
+      pestañas.</li>
+  </ul>
+
+<p>[<a href="#tabbed_browsing">Volver al principio de la
+  sección</a>]</p>
+
+  <h2 id="changing_fonts_colors_and_themes">Cambiar los tipos de letra,
+  colores y temas</h2>
+
+  <div class="contentsBox">En esta sección:
+    <ul>
+      <li><a href="#changing_the_default_fonts">Cambiar los tipos de letra
+        predeterminados</a></li>
+      <li><a href="#changing_the_default_colors">Cambiar los colores
+        predeterminados</a></li>
+      <li><a href="#changing_the_theme">Cambiar de tema</a></li>
+    </ul>
+  </div>
+
+  <h3 id="changing_the_default_fonts">Cambiar los tipos de letra
+  predeterminados</h3>
+
+<p>Habitualmente, las páginas web se muestran con un tipo de letra
+  predeterminado definido por el navegador o escogido por el autor de la
+  página.</p>
+
+<p>Para cambiar los tipos de letra predeterminados:</p>
+
+  <ol>
+    <li>Abra el menú <span class="mac">&brandShortName;</span>
+    <span class="noMac">Editar</span> y elija <q>Preferencias</q>.</li>
+    <li>En la categoría Apariencia, elija Tipos de letra (si no aparece
+    ninguna opción en esta categoría, haga doble clic en
+    Apariencia para expandir la lista).</li>
+    <li>En la lista desplegable <q>Tipos de letra para</q>, seleccione una
+    codificación de caracteres. Por ejemplo, para definir tipos de
+    letra predeterminados para el grupo de idiomas/método de escritura
+    occidental (alfabeto latino), elija <q>Occidental</q>.</li>
+    <li>Seleccione si el texto proporcional debe ser serif (como Times Roman)
+    o sans-serif (como Arial). A continuación, especifique el
+    tamaño de letra que desea para el texto proporcional.</li>
+    <li>Si hay disponible un tipo de letra para la codificacio de caracteres
+    de su idioma, seleccione el tipo de letra para Serif, Sans-Serif, Cursiva,
+    Fantasía y Monoespaciada. También puede especificar
+    qué tamaño de letra desea para el texto monoespaciado (donde
+    una letra tiene siempre el mismo ancho que otra).</li>
+    <li>Indique si el tipo de letra predeterminado debe ser serif o
+    sans-serif.</li>
+    <li>Seleccione un tipo y tamaño de letra para la anchura fija.
+    Algunos tipos de texto, como ecuaciones y fórmulas, se muestran con
+    un tipo de letra de ancho fijo.</li>
+  </ol>
+
+<p>Muchos autores de páginas web eligen sus propios tamaños y
+  tipos de letra. Para permitir el uso de tipos de letra distintos de los
+  indicados en las preferencias, marque la casilla <q>Permitir a los
+  documentos usar otros tipos de letra</q>.</p>
+
+<p>[<a href="#changing_fonts_colors_and_themes">Volver al principio de la
+  sección</a>]</p>
+
+  <h3 id="changing_the_default_colors">Cambiar los colores
+  predeterminados</h3>
+
+<p>Normalmente, los colores del fondo y del texto de las páginas web
+  están definidos por los colores predeterminados de su navegador o por
+  el autor de la página.</p>
+
+<p>Para cambiar los colores predeterminados:</p>
+
+  <ol>
+    <li>Abra el menú <span class="mac">&brandShortName;</span>
+    <span class="noMac">Editar</span> y elija <q>Preferencias</q>.</li>
+    <li>En la categoría Apariencia, elija Colores (si no aparece
+    ninguna opción en esta categoría, haga clic para expandir la
+    lista).</li>
+    <li>Haga clic en los bloques de colores junto a Texto, Fondo, Enlaces sin
+    visitar y Enlaces visitados. Elija un color para cada uno del panel de
+    colores. También puede especificar si desea que se subrayen los
+    enlaces.</li>
+  </ol>
+
+<p>La mayoría de los autores de páginas web eligen sus propios
+  colores. Puede sustituir estos valores seleccionando <q>Usar mis colores,
+  ignorando los colores y la imagen de fondo especificados por la
+  página</q>.</p>
   
-<p>[<a href="#toolbars">Return to beginning of section</a>]</p>
+<p>Cuando se visualiza el código fuente de una página web,
+  puede ver la sintaxis HTML resaltada con colores específicos si
+  selecciona <q>Activar resaltado de sintaxis</q>.</p>
 
-<h3 id="status_bar">Status Bar</h3>
+<p>[<a href="#changing_fonts_colors_and_themes">Volver al principio de la
+  sección</a>]</p>
 
-<p>The Status Bar is located at the bottom of any &brandShortName; window. It
-  includes the following:</p>
+  <h3 id="changing_the_theme">Cambiar de tema</h3>
 
-<ul>
-  <li>Component Bar: Allows you to switch between components. For more
-    information, see <a href="#component_bar">Component Bar</a>.</li>
-  <li>Status information: Displays information like the web-page URL and load
-    status information.</li>
-  <li>Cookie notification icon
-    <img src="chrome://communicator/skin/permissions/taskbar-cookie.gif"
-    alt="cookie notification icon"/>: 
-    Appears when a website has used a cookie in a way that requires you to be
-    notified. For more information, see
-    <a href="using_priv_help.xhtml#cookie_notification">Cookie
-    Notification</a>.</li>
-  <li>Work Offline
-    <img src="chrome://communicator/skin/icons/offline.png"
-    alt="work offline icon"/> or Work Online
+<p>Puede cambiar la apariencia y textura de &brandShortName; usando un tema
+    diferente. Puede cambiar el tema desde el menú Ver o desde el administrador
+    de complementos.</p>
+  
+<p>Desde el menú Ver:</p>
+
+  
+  <ol>
+    <li>Abra el menú Ver y escoja Aplicar tema, y luego seleccione un tema del
+      menú.</li>
+    <li>Cierre y reinicie &brandShortName;.</li>
+  </ol>
+  
+<p>Desde el administrador de complementos:</p>
+ 
+  <ol>
+    <li>Abra el menú Herramientas y escoja Administrador de complementos.</li>
+    <li>Pulse el botón Temas en la barra de herramientas.</li>
+    <li>Seleccione un tema de la lista, y luego pulse el botón Usar tema.</li>
+    <li>Cierre y reinicie &brandShortName;.</li>
+  </ol>
+ 
+<p><strong>Atajo</strong>: también puede cambiar los temas con
+    sólo abrir el menú Ver, elegir Aplicar tema y, a
+    continuación, seleccionar el tema que desea utilizar.</p>
+
+<p>[<a href="#changing_fonts_colors_and_themes">Volver al principio de la
+    sección</a>]</p>
+
+  <h2 id="toolbars">Barras de herramientas</h2>
+
+  <div class="contentsBox">En esta sección:
+    <ul>
+      <li><a href="#navigation_toolbar">Barra de herramientas de
+        navegación</a></li>
+      <li><a href="#personal_toolbar">Barra de herramientas personal</a></li>
+      <li><a href="#status_bar">Barra de estado</a></li>
+      <li><a href="#component_bar">Barra de componentes</a></li>
+      <li><a href="#hiding_a_toolbar">Ocultar una barra de
+      herramientas</a></li>
+    </ul>
+  </div>
+
+  <h3 id="navigation_toolbar">Barra de herramientas de navegación</h3>
+
+<p>La barra de navegación, ilustrada aquí, le ayuda a moverse
+  por la Web.</p>
+
+  <table summary="Tabla con imagen">
+    <tr>
+      <td colspan="4">
+        <img src="images/reload.gif" alt="barra de herramientas de
+        navegación"/>
+      </td>
+    </tr>
+    <tr>
+      <td><strong>Anterior</strong></td>
+      <td><strong>Siguiente</strong></td>
+      <td><strong>Recargar</strong></td>
+      <td><strong>Parar</strong></td>
+    </tr>
+  </table>
+
+<p>[<a href="#toolbars">Volver al principio de la sección</a>]</p>
+
+  <h3 id="personal_toolbar">Barra de herramientas personal</h3>
+
+<p>La barra personal es totalmente configurable: usted decide lo que desea
+  tener en ella.</p>
+
+  <table summary="Tabla con imagen">
+    <tr>
+      <td><img src="images/personalbar.png"
+        alt="barra de herramientas personal"/>
+      </td>
+    </tr>
+    <tr>
+      <td style="text-align: center;">
+        <strong>Barra de herramientas personal</strong>
+      </td>
+    </tr>
+  </table>
+
+<p>Puede añadir, borrar y reorganizar elementos fácilmente en
+  la barra de herramientas personal.</p>
+
+<h4 id="adding_personal_toolbar_bookmarks">Agregar marcadores a la barra
+  personal</h4>
+
+<p>Puede agregar botones para sus marcadores preferidos o para carpetas que
+  contengan grupos de marcadores. Para crear un marcador nuevo y agregarlo a
+  la barra personal:</p>
+
+  <ol>
+    <li>Abra una página web que desee añadir a marcadores.</li>
+    <li>Arrastre el icono del marcador <img
+    src="chrome://communicator/skin/bookmarks/bookmark-item.png"
+    alt="imagen del icono marcador"/> (situado a la izquierda de la URL
+    en la barra de direcciones) al lugar que prefiera en la barra personal.
+    Puede arrastrar el icono directamente a la barra personal o a una de sus
+    carpetas. Para más información, vea <a
+    href="#adding_bookmark_folders_to_the_personal_toolbar">Agregar carpetas
+    de marcadores a la barra personal</a>.</li>
+  </ol>
+
+<p><strong>Nota</strong>: el icono marcador <img src=
+  "chrome://communicator/skin/bookmarks/bookmark-item.png"
+  alt="imagen del icono marcador"/> puede aparecer como otro icono
+  específico de la página si tiene marcado Mostrar iconos de
+  sitios web en sus preferencias. Vea <a href=
+  "cs_nav_prefs_appearance.xhtml#appearance">Preferencias de Apariencia -
+  Apariencia</a> para más información sobre cómo cambiar
+  esta opción.</p>
+
+<p>Cada elemento de la carpeta <q>Barra personal</q> aparece como un
+  botón de la barra de herramientas. Es posible que necesite aumentar
+  el tamaño de la ventana del navegador para verlos todos.</p>
+  
+  <p id="adding_bookmark_folders_to_the_personal_toolbar"><strong>Agregar
+  carpetas de marcadores a la barra personal</strong></p>
+
+<p>Puede añadir carpetas de marcadores a la barra personal para
+  clasificar sus marcadores preferidos en categorías. Puede, por
+  ejemplo, tener en su barra personal una carpeta para los marcadores
+  relacionados con sus aficiones y otra para los relacionados con su trabajo.
+  Para agregar un marcador nuevo a la barra personal:</p>
+
+  <ol>
+    <li>Abra el menú Marcadores y elija Administrar marcadores.</li>
+    <li>Seleccione la carpeta que haya designado como carpeta <q>Barra
+    personal</q>.</li>
+    <li>Haga clic en Carpeta nueva en la barra de herramientas.</li>
+    <li>Escriba un nombre para su nueva carpeta de marcadores. El nombre por
+    defecto es <q>Carpeta nueva</q>.</li>
+    <li>Haga clic en Aceptar para confirmar el nombre de la nueva carpeta de
+    marcadores.</li>
+  </ol>
+
+<p>La nueva carpeta de marcadores aparecerá al final de la barra
+  personal.</p>
+
+  <h4>Designar una carpeta de marcadores como carpeta de la barra
+  personal</h4>
+
+  <ol>
+    <li>Abra el menú Marcadores y elija Administrar marcadores.</li>
+    <li>Seleccione la carpeta de marcadores cuyos elementos desee que
+    aparezcan en la barra de herramientas.</li>
+    <li>En el menú Ver, seleccione <q>Definir como carpeta de la
+    barra de herramientas personal</q>.</li>
+  </ol>
+
+<p>Los botones de su barra personal corresponden ahora a los marcadores de
+  la carpeta que haya designado.</p>
+
+  <h4>Eliminar los marcadores de la barra personal</h4>
+
+  <ol>
+    <li>Abra el menú Marcadores y elija Administrar marcadores.</li>
+    <li>Abra la carpeta Barra personal.</li>
+    <li>Seleccione el marcador o la carpeta que desea suprimir.</li>
+    <li>Pulse la tecla Suprimir.</li>
+    <li>Cierre la ventana Administrar marcadores.</li>
+  </ol>
+
+<p><strong>Consejo</strong>: para eliminar rápidamente un marcador
+  situado en la barra personal (no en una carpeta), haga clic con el
+  botón derecho del ratón en el marcador y seleccione
+  Eliminar.</p>
+
+  <h4>Reorganizar la barra personal</h4>
+
+  <ol>
+    <li>Abra el menú Marcadores y elija Administrar marcadores.</li>
+    <li>En la ventana Marcadores, haga clic en la carpeta Barra personal.</li>
+    <li>Seleccione un marcador o una carpeta y arrástrelo hasta una
+    nueva ubicación.</li>
+    <li>Cuando haya terminado de reorganizar los elementos, cierre la ventana
+    Marcadores.</li>
+  </ol>
+
+<p><strong>Consejo</strong>: para mover rápidamente un marcador
+  ubicado en la barra personal, haga clic sobre él y arrástrelo
+  a otra ubicación de esa misma barra o a una carpeta.</p>
+
+<p>[<a href="#toolbars">Volver al principio de la sección</a>]</p>
+
+  <h3 id="status_bar">Barra de estado</h3>
+
+<p>La barra de estado está situada en la parte inferior de cualquier
+  ventana de &brandShortName;. Incluye lo siguiente:</p>
+
+  <ul>
+    <li>Barra de componentes: le permite alternar entre distintos componentes.
+    Para más información, vea <a href="#component_bar">Barra de
+    componentes</a>.</li>
+    <li>Información de estado: muestra información como la URL
+    de la página web y el estado de carga de la misma.</li>
+    <li>Icono de modo sin conexión <img
+    src="chrome://communicator/skin/icons/offline.png"
+    alt="icono de modo sin conexión"/> o con conexión
     <img src="chrome://communicator/skin/icons/online.png"
-    alt="work online icon"/> icon: Click the icon to toggle working
-    offline or online. Working offline prevents &brandShortName; from
-    attempting to connect to the Internet, for example to load images on web
-    pages or automatically check email.</li>
-  <li>Lock icon (Example:
-    <img src="chrome://communicator/skin/icons/lock-insecure.png"
-    alt="lock icon"/>): Indicates whether the entire contents of the page
-    was encrypted while it was being received by your computer. For more
-    information, see
-    <a href="using_certs_help.xhtml#checking_security_for_a_web_page">Checking
-    Security for a Web Page</a>.</li>
-</ul>
+    alt="icono de modo con conexión"/>: haga clic en el icono para
+    alternar entre el modo de trabajo con conexión y sin
+    conexión. Trabajar sin conexión evita que &brandShortName;
+    intente conectar con Internet, por ejemplo para cargar imágenes en
+    páginas web o comprobar automáticamente el correo
+    electrónico.</li>
+    <li>Icono de candado (ejemplo: <img
+    src="chrome://communicator/skin/icons/lock-insecure.png"
+    alt="icono de candado"/>): indica si el contenido completo de la
+    página fue cifrado mientras se recibía por su ordenador.
+    Para más información, vea <a
+    href="using_certs_help.xhtml#checking_security_for_a_web_page">Comprobar
+    la seguridad de una página web</a>.</li>
+  </ul>
 
-<p>[<a href="#toolbars">Return to beginning of section</a>]</p>
+<p>[<a href="#toolbars">Volver al principio de la sección</a>]</p>
 
-<h3 id="component_bar">Component Bar</h3>
+  <h3 id="component_bar">Barra de componentes</h3>
 
-<p>Use the Component Bar at the bottom left of any &brandShortName; window to
-  switch between tasks (such as browsing or mail).</p>
+<p>Utilice la barra de componentes situada en la parte inferior izquierda de
+  cualquier ventana de &brandShortName; para pasar de una tarea a otra (como
+  navegación o correo electrónico).</p>
   
-<p><img src="images/taskbar.png" alt="component bar"/></p>
+<p><img src="images/taskbar.png" alt="barra de componentes"/></p>
 
-<p>[<a href="#toolbars">Return to beginning of section</a>]</p>
+<p>[<a href="#toolbars">Volver al principio de la sección</a>]</p>
 
-<h3 id="hiding_a_toolbar">Hiding a Toolbar</h3>
+  <h3 id="hiding_a_toolbar">Ocultar una barra de herramientas</h3>
 
-<p>There are two ways to hide the toolbars.</p>
+<p>Existen dos maneras de ocultar las barras de herramientas.</p>
 
-<p>To minimize a toolbar:</p>
+<p>Para minimizar una barra de herramientas:</p>
 
-<ul>
-  <li>Click the small triangle at the left of the toolbar. To show the toolbar,
-    click the triangle again. (Note: You cannot hide the Component Bar using
-    this method.)</li>
-</ul>
-
-<p>To completely hide a toolbar, including its triangle:</p>
-
-<ol>
-  <li>Open the View menu.</li>
-  <li>Choose Show/Hide and uncheck the toolbars you want to hide.</li>
-</ol>
-
-<p>To reverse this action, open the View menu, choose Show, and then select
-  the toolbars you want to show.</p>
-  
-<p>[<a href="#toolbars">Return to beginning of section</a>]</p>
-
-<h2 id="bookmarks">Bookmarks</h2>
-
-<div class="contentsBox">In this section:
   <ul>
-    <li><a href="#what_are_bookmarks">What Are Bookmarks?</a></li>
-    <li><a href="#using_bookmarks">Using Bookmarks</a></li>
-    <li><a href="#creating_new_bookmarks">Creating New Bookmarks</a></li>
-    <li><a href="#organizing_your_bookmarks">Organizing Your Bookmarks</a></li>
-    <li><a href="#changing_individual_bookmarks">Changing Individual
-      Bookmarks</a></li>
-    <li><a href="#searching_your_bookmarks">Searching Your Bookmarks</a></li>
-    <li><a href="#exporting_or_importing_a_bookmark_list">Exporting or
-      Importing a Bookmark List</a></li>
+    <li>Haga clic en el pequeño triángulo situado a la izquierda
+    de la barra de herramientas. Para mostrar la barra de herramientas, vuelva
+    a hacer clic sobre el triángulo (nota: no puede ocultar la barra de
+    componentes utilizando este método).</li>
+  </ul>
+
+<p>Para ocultar totalmente una barra de herramientas, incluido el
+  triángulo:</p>
+
+  <ol>
+    <li>Abra el menú Ver.</li>
+    <li>Seleccione Mostrar/Ocultar y quite la marca de
+    verificación de las barras de herramientas que desee ocultar.</li>
+  </ol>
+
+<p>Para invertir esta acción, abra el menú Ver, elija Barras
+  de herramientas y seleccione las barras que desea que se visualicen.</p>
+
+<p>[<a href="#toolbars">Volver al principio de la sección</a>]</p>
+
+  <h2 id="bookmarks">Marcadores</h2>
+
+  <div class="contentsBox">En esta sección:
+    <ul>
+      <li><a href="#what_are_bookmarks">Qué son los marcadores</a></li>
+      <li><a href="#using_bookmarks">Usar los marcadores</a></li>
+      <li><a href="#creating_new_bookmarks">Crear un marcador</a></li>
+      <li><a href="#organizing_your_bookmarks">Organizar los
+        marcadores</a></li>
+      <li><a href="changing_individual_bookmarks">Modificar un
+        marcador</a></li>
+      <li><a href="#searching_your_bookmarks">Buscar en los
+        marcadores</a></li>
+      <li><a href="#exporting_or_importing_a_bookmark_list">Exportar o
+        importar una lista de marcadores</a></li>
+    </ul>
+  </div>
+
+  <h3 id="what_are_bookmarks">Qué son los marcadores</h3>
+
+<p>Los marcadores son atajos para llegar a sus páginas web preferidas
+  y más visitadas. Para no tener que escribir las largas URL
+  (direcciones Web), puede crear marcadores que le lleven directamente a las
+  páginas que desee visitar.</p>
+
+<p>Para acceder a sus marcadores, seleccione el menú Marcadores, la
+  pestaña Marcadores del panel lateral y la ventana Administrar
+  marcadores. Puede controlar lo que aparece en la lista del menú
+  Marcadores, añadiendo marcadores para sus páginas web
+  preferidas y organizando la lista de los marcadores de la forma que
+  más le convenga.</p>
+
+<p>[<a href="#bookmarks">Volver al principio de la sección</a>]</p>
+
+  <h3 id="using_bookmarks">Usar los marcadores</h3>
+
+<p>En &brandShortName; ya vienen definidos algunos marcadores. Para utilizar
+  un marcador:</p>
+
+  <ol>
+    <li>Abra el menú Marcadores.</li>
+    <li>Seleccione un marcador de la lista o de una carpeta de la lista.</li>
+  </ol>
+
+<p>[<a href="#bookmarks">Volver al principio de la sección</a>]</p>
+
+  <h3 id="creating_new_bookmarks">Crear un marcador</h3>
+
+<p>Puede marcar sus sitios web preferidos para que le resulte fácil
+  volver a ellos.</p>
+
+<p>Para marcar la página actual, realice una de las siguientes
+  acciones:</p>
+
+  <ul>
+    <li>Para agregar un marcador al menú Marcadores, abra el
+    menú Marcadores y seleccione Añadir a marcadores.</li>
+    <li>Para agregar un marcador a una carpeta concreta del menú
+    Marcadores, o asignarle un nombre o una URL:
+      <ol>
+        <li>Abra el menú Marcadores y elija Archivar marcador. Elija
+        una de estas opciones:
+          <ul>
+            <li><strong>Nombre</strong>: introduzca un nombre para el marcador si
+            desea un nombre distinto.</li>
+            <li><strong>Dirección</strong>: introduzca una URL para el
+            marcador si desea una URL distinta.</li>
+            <li><strong>Palabra clave</strong>: introduzca una palabra clave para
+            el marcador si quiere poder abrir la página referenciada por
+            éste desde la barra de direcciones (vea
+            <a href="nav_help.xhtml#custom_keywords">Usar palabras claves
+            personalizadas en los marcadores</a>).</li>
+            <li><strong>Destino</strong>: seleccione la carpeta en la que
+            desea crear el marcador.</li>
+            <li><strong>Carpeta nueva</strong>: haga clic aquí para
+            crear la carpeta nueva en la que desea crear el marcador.</li>
+          </ul>
+        </li>
+        <li>Haga clic en Aceptar para agregar el marcador.</li>
+      </ol>
+    <p><strong>Sugerencia</strong>: si tiene abiertas varias pestañas del
+        navegador en una ventana, puede seleccionar la opción <q>Añadir este
+        grupo de pestañas a marcadores</q> para agregar un único marcador que
+        abra todas las pestañas en la ventana activa.</p>
+    </li>
+    <li>Para agregar un marcador a la barra personal, arrastre el icono del
+    marcador <img src="chrome://communicator/skin/bookmarks/bookmark-item.png"
+    alt="imagen del icono marcador"/> que hay a la izquierda de la
+    barra de direcciones, a algún lugar de la barra personal.
+    Puede arrastrar marcadores a los siguientes sitios:
+      <ul>
+        <li>A la carpeta Marcadores de la barra personal.</li>
+        <li>A una carpeta de marcadores que haya creado en la barra
+        personal.</li>
+        <li>A la propia barra personal, a la derecha de todas las carpetas de
+        marcadores.</li>
+      </ul>
+    <p>Si desea más información sobre cómo agregar
+      marcadores a la barra personal, consulte
+      <a href="#adding_personal_toolbar_bookmarks">Agregar marcadores a
+      la barra personal</a>.</p>
+    </li>
+  </ul>
+
+  <table summary="tabla con imagen">
+    <tr>
+      <td><img src="images/personalbar.png"
+        alt="Barra de herramientas personal"/></td>
+    </tr>
+    <tr>
+      <td><strong>Barra de herramientas personal</strong></td>
+    </tr>
+  </table>
+
+  <ul>
+    <li>Para agregar un marcador a la pestaña Marcadores de la barra
+    lateral, abra la barra lateral, seleccione la pestaña Marcadores y
+    arrastre el icono del marcador <img
+    src="chrome://communicator/skin/bookmarks/bookmark-item.png"
+    alt="imagen del icono marcador"/> que hay a la izquierda de la barra
+    de direcciones a algún lugar de la lista de marcadores de la
+    pestaña Marcadores.</li>
+  </ul>
+
+<p><strong>Notas</strong>:</p>
+
+  <ul>
+    <li>El icono del marcador <img
+    src="chrome://communicator/skin/bookmarks/bookmark-item.png"
+    alt="imagen del icono marcador"/> puede aparecer como otro icono
+    específico de la página si tiene marcado Mostrar iconos de
+    sitios web en las preferencias. Vea
+    <a href="cs_nav_prefs_appearance.xhtml#appearance">Preferencias de
+    Apariencia - Apariencia</a> para más información sobre
+    cómo cambiar las preferencias.</li>
+    <li>Después de agregar un marcador utilizando cualquiera de los
+    métodos enumerados anteriormente, puede acceder a él
+    mediante la pestaña Marcadores de la barra lateral, la ventana
+    Administrar marcadores y el menú Marcadores.</li>
+  </ul>
+
+<p>[<a href="#bookmarks">Volver al principio de la sección</a>]</p>
+
+  <h3 id="organizing_your_bookmarks">Organizar los marcadores</h3>
+
+<p>Para organizar sus marcadores, abra el menú Marcadores y elija
+  Administrar marcadores. Realice cualquiera de las siguientes tareas en la
+  ventana Marcadores.</p>
+
+<p><strong>Consejo</strong>: puede abrir la ventana Marcadores desde la
+  pestaña Marcadores de la barra lateral. Haga clic en Administrar, en
+  la parte superior de la pestaña Marcadores.</p>
+
+<p>Para ver los marcadores guardados en las carpetas:</p>
+
+  <ul>
+    <li>Haga doble clic en una carpeta para ver su contenido.</li>
+  </ul>
+
+<p>Para mover un marcador o una carpeta a otro sitio de la lista:</p>
+
+  <ul>
+    <li>Arrastre el marcador o la carpeta que desee mover a la nueva
+    ubicación. Para guardar un marcador en una carpeta,
+    arrástrelo hasta esa carpeta.</li>
+  </ul>
+
+<p>Para crear una carpeta o un separador nuevos:</p>
+
+  <ul>
+    <li>Haga clic en Carpeta nueva o Nuevo separador, en la parte superior de
+    la ventana Marcadores. La carpeta o el separador nuevos aparecerán
+    bajo la selección activa.</li>
+  </ul>
+
+<p>Para eliminar un marcador o una carpeta de la lista:</p>
+
+  <ol>
+    <li>Haga clic para seleccionar el marcador o la carpeta que desea
+    eliminar.</li>
+    <li>Pulse la tecla Suprimir o haga clic en la opción Borrar de la
+    ventana Marcadores.</li>
+  </ol>
+
+<p>Para ordenar sus marcadores en la ventana Administrar marcadores:</p>
+
+  <ul>
+    <li>Seleccione la carpeta que quiere ordenar.</li>
+    <li>Para ordenar los marcadores por nombre, abra el menú Editar y seleccione
+      Ordenar carpeta por nombre.</li>
+    <li>Para ordenar los marcadores con otros criterios, abra el menú Editar y
+      seleccione Ordenar carpeta... En el diálogo, elija cómo quiere ordenar la
+      lista.
+      
+    <p><strong>Consejo</strong>: para añadir más columnas, abra el menú Ver,
+        abra <q>Mostrar columnas</q> y seleccione una cabecera de columna en la
+        lista.</p>
+    </li>
+  </ul>
+
+  <h4>Designar una nueva carpeta de marcadores</h4>
+
+<p>Cuando se crea un nuevo marcador, &brandShortName; normalmente lo
+  añade al final de la lista de marcadores. Si prefiere que los
+  marcadores vayan agregándose a una carpeta determinada, puede
+  configurarla como la carpeta de nuevos marcadores.</p>
+
+  <ol>
+    <li>En el menú Marcadores escoja Administrar marcadores.</li>
+    <li>En la ventana de marcadores, seleccione una carpeta para que
+    allí se guarden los nuevos marcadores.</li>
+    <li>Abra el menú Ver y seleccione Definir como nueva carpeta de
+    marcadores.</li>
+  </ol>
+
+<p>[<a href="#bookmarks">Volver al principio de la sección</a>]</p>
+
+  <h3 id="changing_individual_bookmarks">Modificar un marcador</h3>
+
+<p>Puede cambiar la información de cualquier marcador individual.</p>
+
+  <ol>
+    <li>Abra el menú Marcadores y elija Administrar marcadores.</li>
+    <li>En la ventana Marcadores, haga clic en un marcador.</li>
+    <li>Haga clic en Propiedades.</li>
+    <li>En el cuadro de diálogo Propiedades para el marcador, haga clic
+    en la pestaña Información general.</li>
+  </ol>
+
+<p>Puede cambiar el nombre del marcador (que aparece en la lista de
+  marcadores), agregar información descriptiva
+  o asignarle una <a href="nav_help.xhtml#custom_keywords">palabra
+  clave</a>.</p>
+
+<p>También puede hacer que &brandShortName; compruebe los sitios web
+  marcados para ver si hay cambios en ellos.</p>
+
+  <ul>
+    <li>Abra el menú Marcadores y elija Administrar marcadores.</li>
+    <li>En la ventana Marcadores, haga clic en un marcador.</li>
+    <li>Haga clic en Propiedades.</li>
+    <li>Use las listas desplegables y el campo de texto bajo <q>Comprobar si
+      esta dirección se ha actualizado</q> para especificar con qué frecuencia
+      quiere que &brandShortName; compruebe si ha habido cambios en la página
+      de ese marcador.</li>
+    <li>Para que se le notifique cuando la página de ese marcador cambie, elija
+      de entre las opciones en la sección <q>Notificación</q>.</li>
+  </ul>
+
+<p>[<a href="#bookmarks">Volver al principio de la sección</a>]</p>
+
+  <h3 id="searching_your_bookmarks">Buscar en los marcadores</h3>
+
+<p>Para buscar en la lista de marcadores:</p>
+
+  <ol>
+    <li>Abra el menú Marcadores y elija Administrar marcadores.</li>
+    <li>En la ventana Marcadores, abra el menú Tareas y elija Buscar
+    marcadores. Aparecerá el cuadro de diálogo Buscar
+    marcadores.</li>
+    <li>En las listas desplegables, elija las opciones para definir su
+    búsqueda y haga clic en Buscar. Se mostrarán aquellos
+    marcadores que coincidan con los criterios de búsqueda. Elija entre
+    las siguientes opciones de búsqueda:
+      <ul>
+        <li>Elija <q>contiene</q>, <q>comienza con</q> o <q>termina en</q> si
+        sabe sólo parte de la palabra o frase que desea buscar.</li>
+        <li>Elija <q>es</q> si sabe el nombre exacto de lo que busca.</li>
+        <li>Elija <q>no es</q> o <q>no contiene</q> para excluir
+        páginas.</li>
+        <li>Haga clic en el campo en blanco y escriba el nombre o la URL
+        (dirección web) completos, o parte de ellos, para los marcadores
+        o historiales que desea encontrar o excluir.</li>
+        <li>Seleccione <q>Guardar búsqueda en marcadores</q> para
+        guardar esta búsqueda y utilizarla más adelante.</li>
+      </ul>
+    </li>
+    <li>Haga doble clic en un marcador de la lista para ir a esa
+    página.</li>
+  </ol>
+
+<p><strong>Sugerencia</strong>: si la lista resulta difícil de leer,
+  intente expandir la ventana de resultados de búsqueda.</p>
+
+<p>[<a href="#bookmarks">Volver al principio de la sección</a>]</p>
+
+  <h3 id="exporting_or_importing_a_bookmark_list">Exportar o importar una
+  lista de marcadores</h3>
+
+<p>Los marcadores se almacenan en un archivo denominado bookmarks.html.
+  Puede exportar una copia de este archivo y guardarla en la carpeta que
+  elija. A continuación, puede editarla y manejarla como si fuera un
+  archivo HTML.</p>
+
+  <ol>
+    <li>Abra el menú Marcadores y elija Administrar marcadores.</li>
+    <li>En la ventana Marcadores, abra el menú Tareas y seleccione
+      Exportar.</li>
+    <li>En el cuadro de diálogo <q>Exportar archivo de marcadores</q>,
+      seleccione una carpeta. El archivo bookmarks.html se copiará en la
+      carpeta que designe.</li>
+    <li>Haga clic en Guardar.</li>
+  </ol>
+
+<p>Este procedimiento no supone ningún cambio para los marcadores de
+  &brandShortName;.</p>
+
+<p>También puede importar marcadores desde otras fuentes. Puede hacerlo,
+    por ejemplo, desde versiones anteriores de &brandShortName;, desde otros
+    navegadores o desde archivos de marcadores que le envíen sus amigos.</p>
+
+<p>Antes de comenzar, asegúrese de que el archivo de marcadores que
+  desea importar es un archivo HTML.</p>
+
+  <ol>
+    <li>Abra el menú Marcadores y elija Administrar marcadores.</li>
+    <li>En la ventana Marcadores, abra el menú Herramientas y seleccione
+      Importar.</li>
+    <li>En el diálogo que aparece, elija si quiere importar marcadores de
+      versiones anterioes de &brandShortName; o de un archivo de marcadores en
+      su ordenador.</li>
+    <li>Pulse Continuar.</li>
+    <li>Si ha elegido importar marcadores de una versión anterior de
+      &brandShortName;, seleccione el perfil del que quiere importar marcadores
+      y luego pulse Continuar. Si ha elegido importar marcadores de un archivo,
+      navegue hasta él y selecciónelo, y luego pulse Abrir.</li>
+  </ol>
+
+<p>Los marcadores importados se manejan como un grupo de marcadores nuevos y
+    se agregan a la parte inferior de su lista de marcadores. Si ha designado
+    una carpeta de nuevos marcadores, los marcadores importados se agregarán a
+    esa carpeta.</p>
+
+<p><strong>Nota</strong>: al importar un archivo de marcadores, se importan
+  los marcadores y las carpetas de ese archivo. No se crean dos archivos de
+  marcadores.</p>
+
+<p>[<a href="#bookmarks">Volver al principio de la sección</a>]</p>
+
+<h2 id="add-ons">Complementos</h2>
+
+<p>Una de las maneras más apasionantes de personalizar &brandShortName; es
+  mediante la adición de complementos. En esta sección descubrirá qué son los
+  complementos, cómo instalarlos y cómo usar el administrador de
+  complementos.</p>
+
+<div class="contentsBox">En esta sección:
+  <ul>
+    <li><a href="#about_add-ons">Sobre los complementos</a></li>
+    <li><a href="#installing_add-ons">Instalar complementos</a></li>
+    <li><a href="#using_the_add-on_manager">Usar el administrador de
+      complementos</a></li>
   </ul>
 </div>
 
-<h3 id="what_are_bookmarks">What Are Bookmarks?</h3>
+<h3 id="about_add-ons">Sobre los complementos</h3>
 
-<p>Bookmarks are shortcuts to your favorite and most-visited web pages. Rather
-  than typing in long URLs (web addresses), you can create bookmarks that take
-  you directly to the pages you want to see.</p>
-
-<p>You access your bookmarks through the Bookmarks menu, the Bookmarks tab on
-  Sidebar, and the Manage Bookmarks window. You can control what&apos;s listed
-  in the Bookmarks menu by adding bookmarks for your favorite web pages and
-  organizing your list of bookmarks any way you want.</p>
-
-<h3 id="using_bookmarks">Using Bookmarks</h3>
-
-<p>&brandShortName; comes with some bookmarks already available. To use a
-  bookmark:</p>
-
-<ol>
-  <li>Open the Bookmarks menu.</li>
-  <li>Choose a bookmark from the list or from a folder in the list.</li>
-</ol>
-
-<p>[<a href="#bookmarks">Return to beginning of section</a>]</p>
-
-<h3 id="creating_new_bookmarks">Creating New Bookmarks</h3>
-
-<p>You can bookmark your favorite websites to make it easy to return to
-  them.</p>
-
-<p>To bookmark the current page, perform one of these steps:</p>
+<p>Un complemento es una pieza de software que puede añadirse a
+  &brandShortName; para cambiar su apariencia, comportamiento, o para añadir
+  nuevas funcionalidades. También puede cambiar el idioma mostrado en la
+  interfaz de usuario. Los complementos pueden clasificarse en cuatro
+  tipos:</p>
 
 <ul>
-  <li>To add a bookmark to the Bookmarks menu, open the Bookmarks menu and
-    choose Bookmark This Page.</li>
-  <li>To add a bookmark to a specific folder on the Bookmarks menu, or to
-    provide a specific name or URL for your bookmark:
-    <ol>
-      <li>Open the Bookmarks menu and choose File Bookmark. Choose from any of
-        these options: 
-        <ul>
-          <li><strong>Name</strong>: Enter a name for the bookmark if you want
-            a different name.</li>
-          <li><strong>Location</strong>: Enter a URL for the bookmark if you
-            want a different URL.</li>
-          <li><strong>Keyword</strong>: Enter a keyword for the bookmark if you
-            want to be able to open the bookmarked page from the Location
-            Bar (see
-            <a href="nav_help.xhtml#custom_keywords">Using Custom Bookmark
-            Keywords</a>).</li>
-          <li><strong>Destination</strong>: Choose a folder in which to create
-            your bookmark.</li>
-          <li><strong>New Folder</strong>: Click this to create a new folder in
-            which to create your bookmark.</li>
-        </ul>
-      </li>
-      <li>Click OK to add the bookmark.</li>
-    </ol>
-  
-    <p><strong>Tip</strong>: If you have multiple browser tabs open in a
-      window, you can select <q>Bookmark this groups of tabs</q> to add a
-      single bookmark that will open all of the open tabs in the current
-      window.</p>
+  <li><strong>Extensiones</strong>: este tipo de complemento cambia la manera
+    en que se comporta &brandShortName; o bien le añade nuevas funcionalidades.
+    Por ejemplo, hay extensiones que le proporcionan previsiones
+    meteorológicas, que añaden un cliente FTP con múltiples características, o
+    que bloquean anuncios en páginas web. Algunas extensiones están diseñadas
+    para trabajar sólo con sitios web específicos.</li>
+  <li><strong>Temas</strong>: los temas cambian la apariencia y diseño de
+    &brandShortName;, pero no añaden o cambian funcionalidades. Actúan como
+    <em>una piel</em>. &brandShortName; viene de serie con dos temas, el tema
+    <em>predeterminado</em> y el tema <em>moderno</em>, pero pueduen añadirse
+    más para ajustarse a su estilo.</li>
+  <li><strong>Idiomas</strong>: aunque puede descargar &brandShortName; en su
+    idioma preferido de entre una amplia lista, puede añadirle idiomas
+    adicionales en forma de paquetes de idioma. De esta manera, distintos
+    usuario pueden usar &brandShortName; en su propio idioma sin tener que
+    instalar el programa una vez para cada uno. Esto es especialmente útil si
+    va a instalar &brandShortName; en un ordenador que está compartido por
+    diferentes usuarios en, por ejemplo, un laboratorio de informática.
+
+    <p><strong>Nota</strong>: los paquetes de idioma sólo cambian el idioma de
+      la interfaz de usuario. Las páginas web, los mensajes de correo y grupos
+      de noticias y los artículos de noticias y blos continuarán mostrándose
+      en el idioma original en el que fueron escritos.</p>
   </li>
-  <li>To add a bookmark to the Personal Toolbar, drag the bookmark icon
-    <img src="chrome://communicator/skin/bookmarks/bookmark-item.png"
-    alt="image of bookmark icon"/> next to the Location Bar to a place on
-    the Personal Toolbar. You can drag a bookmark to the following places:
-    <ul>
-      <li>In the Bookmarks folder on the Personal Toolbar.</li>
-      <li>In a bookmarks folder you&apos;ve created on the Personal
-        Toolbar.</li>
-      <li>To the Personal Toolbar itself, on the right side of all bookmarks
-        folders.
-        <p>For more information about adding bookmarks to the Personal Toolbar,
-          see <a href="#adding_personal_toolbar_bookmarks">Adding Personal
-          Toolbar bookmarks</a>.</p>
-      </li>
-    </ul>
-  </li>
+  <li><strong>Plugins</strong>: los plugins actúan como conectores entre
+    &brandShortName; y otros programas. Le permiten ver contenido especial
+    (como animaciones en Flash, o documentos PDF de Adobe) directamente dentro
+    la ventana del navegador de &brandShortName;, en lugar de abrir el programa
+    de destino en una ventana separada.</li>
 </ul>
 
-<table summary="Image table">
-  <tr>
-    <td><img src="images/personalbar.png" alt="Personal Toolbar"/></td>
-  </tr>
-  <tr>
-    <td><strong>Personal Toolbar</strong></td>
-  </tr>
-</table>
+<p>Los complementos siempre vienen en paquetes. Cada complemento es un único
+  archivo con la extensión XPI, excepto en el caso de los plugins, que
+  normalmente son binarios específicos del sistema operativo de destino.</p>
+
+<p>[<a href="#add-ons">Volver al principio de la sección</a>]</p>
+
+<h3 id="installing_add-ons">Instalar complementos</h3>
+
+<p>Hay varias maneras de instalar complementos:</p>
 
 <ul>
-  <li>To add a bookmark to the Bookmarks tab in Sidebar, open Sidebar, select
-    the Bookmarks tab, and drag the bookmark icon
-    <img src="chrome://communicator/skin/bookmarks/bookmark-item.png"
-    alt="image of bookmark icon"/> next to the Location Bar to a place on
-    the bookmark list in the Bookmarks tab.
-  </li>
-</ul>
-
-<p><strong>Notes</strong>:</p>
-<ul>
-  <li>The bookmark icon
-    <img src="chrome://communicator/skin/bookmarks/bookmark-item.png"
-    alt="image of bookmark icon"/> may appear as another page-specific
-    icon if you have checked Show Website Icons in preferences. See
-    <a href="cs_nav_prefs_appearance.xhtml#appearance">Appearance Preferences -
-    Appearance</a> for more information on changing this preferences.</li>
-  <li>After adding a bookmark using any of the methods listed above, it can be
-    accessed using the Sidebar Bookmarks tab, the Manage Bookmarks window, and
-    the Bookmarks menu.</li>
-</ul>
-
-<p>[<a href="#bookmarks">Return to beginning of section</a>]</p>
-
-<h3 id="organizing_your_bookmarks">Organizing Your Bookmarks</h3>
-
-<p>To organize your bookmarks, open the Bookmarks menu and choose Manage
-  Bookmarks. Perform any of the following tasks in your Manage Bookmarks
-  window.</p>
-
-<p><strong>Tip</strong>: You can open the Manage Bookmarks window from the
-  Bookmarks tab in Sidebar. Click on Manage at the top of the Bookmarks
-  tab.</p>
-
-<p>To view bookmarks inside of folders:</p>
-
-<ul>
-  <li>Double-click a folder to view its contents.</li>
-</ul>
-
-<p>To move a bookmark or a folder to another location in the list:</p>
-
-<ul>
-  <li>Drag the bookmark or folder that you want to move to the new location. To
-    put a bookmark in a folder, drag it to the folder.</li>
-</ul>
-
-<p>To create a new folder or separator:</p>
-
-<ul>
-  <li>Click New Folder or New Separator at the top of the Bookmarks window. The
-    new folder or separator appears below the current selection.</li>
-</ul>
-
-<p>To remove a bookmark or a folder from the list:</p>
-
-<ol>
-  <li>Click to highlight the bookmark or folder that you want to remove.</li>
-  <li>Press the Delete key on your keyboard, or click Delete in the Bookmarks
-    window.</li>
-</ol>
-
-<p>To sort your bookmarks in the Manage Bookmarks window:</p>
-
-<ul>
-  <li>Select the folder you want to sort.</li>
-  <li>To sort bookmarks by Name, open the Edit menu and select Sort Folder by
-    Name.</li>
-  <li>To sort bookmarks in other ways, open the Edit menu and select Sort
-    Folder. In the dialog, choose how you want the list sorted.
-
-    <p><strong>Tip</strong>: To add more columns, open the View menu, open
-      <q>Show columns</q>, and select a column header in the list.</p></li>
-</ul>
-
-<h4>Designating a New Bookmark Folder</h4>
-
-<p>When you create a new bookmark, &brandShortName; normally adds it to the
-  bottom of your bookmarks list. If you prefer to file your bookmarks in a
-  folder, you can designate a new bookmarks folder.</p>
-
-<ol>
-  <li>Open the Bookmarks menu and choose Manage Bookmarks.</li>
-  <li>In your Bookmarks window, select a folder to hold new bookmarks.</li>
-  <li>Open the View menu and choose Set as New Bookmark Folder.</li>
-</ol>
-
-<p> [<a href="#bookmarks">Return to beginning of section</a>]</p>
-
-<h3 id="changing_individual_bookmarks">Changing Individual Bookmarks</h3>
-
-<p>You can change the information for any individual bookmark.</p>
-
-<ol>
-  <li>Open the Bookmarks menu and choose Manage Bookmarks.</li>
-  <li>In your Bookmarks window, click a bookmark.</li>
-  <li>Click Properties.</li>
-  <li>In the bookmark Properties dialog box window, click the Info tab.</li>
-</ol>
-
-<p>You can rename the bookmark (the name appears in your bookmark list),
-  add descriptive information, or set a 
-  <a href="nav_help.xhtml#custom_keywords">keyword</a>.</p>
-
-<p>You can also set &brandShortName; to check bookmarked websites for
-  changes.</p>
-
-<ol>
-  <li>Open the Bookmarks menu and choose Manage Bookmarks.</li>
-  <li>In your Bookmarks window, click a bookmark.</li>
-  <li>Click Properties.</li>
-  <li>Use the pull down lists and the textfield under <q>Check this location
-    for updates</q> to specify how often you want &brandShortName; to check the
-    bookmarked page for changes.</li>
-  <li>To be notified when the bookmarked page changes, choose from the options
-    in the <q>Notification</q> section.</li>
-</ol>
-
-<p> [<a href="#bookmarks">Return to beginning of section</a>]</p>
-
-<h3 id="searching_your_bookmarks">Searching Your Bookmarks</h3>
-
-<p>To search the bookmarks list:</p>
-
-<ol>
-  <li>Open the Bookmarks menu and choose Manage Bookmarks.</li>
-  <li>In your Bookmarks window, open the Tools menu and choose Search
-    Bookmarks. You see the Find Bookmarks dialog box.</li>
-  <li>In the drop-down lists, choose options to define your search, and then
-    click Find. Bookmarks that match your search criteria are displayed. Choose
-    from the following Search options:
-    <ul>
-      <li>Choose "contains," "starts with," or "ends with" if you know only
-        part of the word or phrase for which you&apos;re searching.</li>
-      <li>Choose "is" if you know exactly what you&apos;re searching for.</li>
-      <li>Choose "is not" or "doesn&apos;t contain" to exclude pages.</li>
-      <li>Click the fill-in field and type all or part of name or URL
-        (web address) for the bookmarks or history listings that you want to
-        find or exclude.</li>
-      <li>Select <q>Save query in bookmarks</q> to save this search for
-        later use.</li>
-    </ul>
-  </li>
-  <li>Double-click a bookmark in the list to go to that page.</li>
-</ol>
-
-<p><strong>Tip</strong>: If the list is hard to read, try expanding the search
-  results window.</p>
-
-<p>[<a href="#bookmarks">Return to beginning of section</a>]</p>
-
-<h3 id="exporting_or_importing_a_bookmark_list">Exporting or Importing a
-  Bookmark List</h3>
-
-<p>Your bookmarks are stored in a file named bookmarks.html. You can export a
-  copy of this file and save it in a folder of your choosing. You can then edit
-  it and treat it as you would any HTML file.</p>
-  
-<ol>
-  <li>Open the Bookmarks menu and choose Manage Bookmarks.</li>
-  <li>In your Bookmarks window, open the Tools menu, and choose Export.</li>
-  <li>In the <q>Export Bookmarks File</q> dialog box, choose a folder.
-    Your bookmarks.html file will be copied into the folder you designate.</li>
-  <li>Click Save.</li>
-</ol>
-
-<p>Your &brandShortName; bookmarks are not altered by this procedure.</p>
-
-<p>You can also import bookmarks from other sources. For example, you can
-  import bookmarks from earlier &brandShortName; versions, other browsers, or
-  from bookmarks files that your friends send you.</p>
-
-<p>Before you start, make sure that the bookmarks file you want to import is an
-  HTML file.</p>
-
-<ol>
-  <li>Open the Bookmarks menu and choose Manage Bookmarks.</li>
-  <li>In your Bookmarks window, open the Tools menu and choose Import.</li>
-  <li>In the dialog that appears, choose whether you want to import bookmarks
-    from earlier versions of &brandShortName;, or from a bookmarks file on your
-    computer.</li>
-  <li>Click Continue.</li>
-  <li>If you have chosen to import bookmarks from an earlier version of
-    &brandShortName;, select the profile you want to import bookmarks from,
-    then click Continue. If you have chosen to import bookmarks from a
-    file, navigate to and select the bookmarks file you want to import, then
-    click Open.</li>
-</ol>
-
-<p>The imported bookmarks are treated as a group of new bookmarks and added to
-  the bottom of your bookmarks list. If you have designated a new bookmark
-  folder, the imported bookmarks are added to that folder.</p>
-
-<p><strong>Note</strong>: Importing a bookmarks file imports the bookmarks and
-  folders from that file. It does not create two bookmarks files.</p>
-
-<p>[<a href="#bookmarks">Return to beginning of section</a>]</p>
-
-<h2 id="add-ons">Add-ons</h2>
-
-<p>One of the most exciting ways to customize &brandShortName; is through the
-  addition of Add-ons. In this section, you will learn what Add-ons are, how
-  to install them, and how to use the Add-on Manager.</p>
-
-<div class="contentsBox">In this section:
-  <ul>
-    <li><a href="#about_add-ons">About Add-ons</a></li>
-    <li><a href="#installing_add-ons">Installing Add-ons</a></li>
-    <li><a href="#using_the_add-on_manager">Using the Add-on Manager</a></li>
-  </ul>
-</div>
-
-<h3 id="about_add-ons">About Add-ons</h3>
-
-<p>An Add-on is a piece of software that can be added to &brandShortName; to
-  change its appearance, behavior, or to add new features. It can also change
-  the language shown in the user interface. Add-ons can be classified in four
-  types:</p>
-
-<ul>
-  <li><strong>Extensions</strong>: This type of Add-on either changes the way
-    &brandShortName; behaves or adds new features to it. For instance, there
-    are extensions that provide you with weather forecasts, that add a
-    full-featured FTP client, or that block advertisements in web pages. Some
-    extensions are designed to work only with specific websites.</li>
-  <li><strong>Themes</strong>: Themes change the appearance and design of
-    &brandShortName;, but don&apos;t add or change features. They act as a
-    skin. &brandShortName; ships with two themes, Default Theme and Modern
-    Theme, but you can add more to fit your style.</li>
-  <li><strong>Languages</strong>: While you can download &brandShortName; in
-    a number of languages, you may add additional languages to it in the form
-    of language packs. This way, different users may use &brandShortName; in
-    their own language without having to install the program for everyone.
-    This is specially useful if you are going to install &brandShortName; on a
-    computer that is shared by different users in, for example, a computer lab.
-
-    <p><strong>Note</strong>: Language packs only change the user interface
-      language. Web pages, messages, newsgroup and news &amp; blog posts will
-      still be shown in the original language in which they were written.</p>
-  </li>
-  <li><strong>Plugins</strong>: Plugins act as connectors between
-    &brandShortName; and other programs. They enable you to see special content
-    (like Flash movies, or Adobe PDF documents) directly inside the
-    &brandShortName; browser window, instead of opening the target program in a
-    separate window.</li>
-</ul>
-
-<p>Add-ons always come as packages. Each Add-on is a single file with the XPI
-  extension, except in the case of plugins which usually are binaries specific
-  to the target operating system.</p>
-
-<p>[<a href="#add-ons">Return to beginning of section</a>]</p>
-
-<h3 id="installing_add-ons">Installing Add-ons</h3>
-
-<p>There are a number of ways to install Add-ons:</p>
-
-<ul>
-  <li>By clicking a link for an Add-on on a web page. This will trigger
-    a &brandShortName; dialog asking you to confirm or cancel the
-    installation, with the Install button disabled for some seconds in
-    order to avoid accidentally clicking it just as the dialog shows up.
+  <li>Haciendo clic en un enlace a un complemento en una página web. Esto hará
+    que se muestre un diálogo de &brandShortName; pidiéndole que confieme o
+    cancele la instalación, con el botón Instalar desactivado durante algunos
+    segundos para evitar que haga clic en él accidentalmente justo al mostrarse
+    el diálogo.
     
-    <p><strong>Note</strong>: As an additonal security measure,
-      &brandShortName; only allows installing Add-ons from a list of permitted
-      websites in the <a
-      href="cs_nav_prefs_advanced.xhtml#software_installation">Software
-      Installation preferences panel</a>.</p>
+    <p><strong>Nota</strong>: como medida de seguridad adicional,
+      &brandShortName; sólo permite instalar complementos de una lista de sitios
+      web permitidos en el <a
+      href="cs_nav_prefs_advanced.xhtml#software_installation">panel de
+      preferencias de instalación de software</a>.</p>
   </li>
-  <li>By opening a previously saved Add-on package, just like you open a
-    regular file that you previously saved on your hard drive: Select Open file
-    from the File menu, or press <span class="mac"><kbd>Cmd</kbd></span><span
+  <li>Abriendo un paquete de complemento previamente guardado, exactamente
+    igual que cuando abre un archivo normal guardado anteriormente en su dico
+    duro: seleccione Abrir archivo del menú Archivo, o pulse <span
+    class="mac"><kbd>Cmd</kbd></span><span
     class="noMac"><kbd>Ctrl</kbd></span>+<kbd>O</kbd>.</li>
-  <li>By using the Get Add-ons panel in the Add-on Manager or clicking the
-    Install button in any of the panels in the Add-on Manager.</li>
+  <li>Usando el panel Obtener complementos del administrador de complementos o
+    haciendo clic en el botón Instalar de cualquiera de sus paneles.</li>
 </ul>
 
-<p><strong>Note</strong>: Plugins are usually installed as a separate program
-  while &brandShortName; is closed so both the external program and the
-  corresponding plugin for &brandShortName; get installed correctly.</p>
+<p><strong>Nota</strong>: los plugins se instalan normalmente como un programa
+  separado mientras &brandShortName; está cerrado para que tanto el programa
+  externo como el plugin correspondiente para &brandShortName; se instalen
+  correctamente.</p>
 
-<p>[<a href="#add-ons">Return to beginning of section</a>]</p>
+<p>[<a href="#add-ons">Volver al principio de la sección</a>]</p>
 
-<h3 id="using_the_add-on_manager">Using the Add-on Manager</h3>
+<h3 id="using_the_add-on_manager">Usar el administrador de complementos</h3>
 
-<p>The Add-on Manager enables you to install and uninstall Add-ons, enable and
-  disable them and, in some cases, set preferences for them.</p>
+<p>El administrador de complementos le permite instalar y desinstalar
+  complementos, activarlos y desactivarlos y, en algunos casos, configurar
+  sus preferencias.</p>
   
-<p id="accessing_the_add-on_manager">To access the Add-on Manager, follow any
-  of these steps:</p>
+<p id="accessing_the_add-on_manager">Para acceder al administrador de
+  complementos, siga cualquiera de estos pasos:</p>
 
 <ul>
-  <li>Open the Tools menu, then select Add-on Manager.</li>
-  <li>Open the <span class="mac">&brandShortName;</span><span
-    class="noMac">Edit</span> menu and choose Preferences, expand the Advanced
-    category and click Software Installation.</li>
+  <li>Abra el menú Herramientas, luego elija Administrador de
+    complementos.</li>
+  <li>Abra el menú <span class="mac">&brandShortName;</span><span
+    class="noMac">Editar</span> y elija Preferencias, expanda la categoría
+    Avanzadas y haga clic en Instalación de software.</li>
 </ul>
 
-<div class="contentsBox">In this section:
+<div class="contentsBox">En esta sección:
   <ul>
-    <li><a href="#the_get_add-ons_panel">The Get Add-ons panel</a></li>
-    <li><a href="#the_extensions_panel">The Extensions panel</a></li>
-    <li><a href="#the_themes_panel">The Themes panel</a></li>
-    <li><a href="#the_languages_panel">The Languages panel</a></li>
-    <li><a href="#the_plugins_panel">The Plugins panel</a></li>
+    <li><a href="#the_get_add-ons_panel">El panel Obtener complementos</a></li>
+    <li><a href="#the_extensions_panel">El panel Extensiones</a></li>
+    <li><a href="#the_themes_panel">El panel Temas</a></li>
+    <li><a href="#the_languages_panel">El panel Idiomas</a></li>
+    <li><a href="#the_plugins_panel">El panel Plugins</a></li>
   </ul>
 </div>
 
-<h4 id="the_get_add-ons_panel">The Get Add-ons panel</h4>
+<h4 id="the_get_add-ons_panel">El panel Obtener complementos</h4>
 
-<p>The Get Add-ons panel in the Add-on Manager uses web services provided by
-  the Mozilla Add-ons website to present a list of recommended Add-ons, as
-  well as giving you the option to search all available Mozilla Add-ons
-  directly from the Add-on Manager. After
-  <a href="#accessing_the_add-on_manager">accessing the Add-on Manager</a>,
-  click the Get Add-ons button to show the Get Add-ons panel. There, you can
-  perform the following actions:</p>
+<p>El panel Obtener complementos en el administrador de complementos usa
+  servicios web proporcionados por el sitio web Mozilla Add-ons para presentar
+  una lista de complementos recomendados, así como para darle la opción de
+  buscar todos los complementos Mozilla disponibles directamente desde el
+  administrador de complementos. Tras <a
+  href="#accessing_the_add-on_manager">acceder al administrador de
+  complementos</a>, pulse el botón Obtener complementos para mostrar el panel
+  del mismo nombre. Allí puede llevar a cabo las siguientes acciones:</p>
 
 <ul>
-  <li>To search for Add-ons based on name, description or tags, use the
-    Search box. Type a word or phrase and press <span
+  <li>Para buscar complementos basándose en su nombre, descripción o etiquetas,
+    use la caja de búsqueda. Escriba una palabra o frase y pulse <span
     class="mac"><kbd>Return</kbd></span><span
-    class="noMac"><kbd>Enter</kbd></span>. You will get a list of matching
-    Add-ons. To clear the search box terms and the result list, click the
-    icon inside the search box.
+    class="noMac"><kbd>Enter</kbd></span>. Obtendrá una lista de complementos
+    coincidentes. Para limpiar los términos de la caja de búsqueda y la lista
+    de resultados, haga clic en el icono que hay dentro de la caja de búsqueda.
 
-    <p><strong>Note</strong>: Add-ons that are already installed or
-      incompatible with your current version of &brandShortName; will not be
-      displayed in the list of search results.</p>
+    <p><strong>Nota</strong>: los complementos que ya están instalados o son
+      incompatibles con su versión actual de &brandShortName; no se mostrarán
+      en la lista de resultados de búsquedas.</p>
   </li>
-  <li>To open the Mozilla Add-ons website in a new browser window (or a new
-    browser tab, depending on your preferences), click Browse All Add-ons.</li>
-  <li>To get more information about one of the recommended Add-ons in the list
-    displayed by default, click the entry. The entry will expand, displaying
-    a larger image, a full description of the Add-on, and an indication of the
-    Add-on type (extension, theme, etc.). You will also be able to install the
-    Add-on by clicking the Add to &brandShortName; button inside the
-    expanded entry.</li>
-  <li>To display the full list of recommended Add-ons for &brandShortName; in a
-    new browser window (or a new browser tab, depending on your preferences),
-    scroll down the recommended Add-ons list until you see the See All
-    Recommended Add-ons link.</li>
+  <li>Para abrir el sitio web Mozilla Add-ons en una nueva ventana del
+    navegador (o una nueva pestaña del navegador, dependiendo de sus
+    preferencias), pulse en Examinar todos los complementos.</li>
+  <li>Para obtener más información sobre uno de los complementos recomendados
+    en la lista mostrada por defecto, pulse en la entrada. La entrada se
+    expandirá, mostrando una imagen mayor, una descripción completa del
+    complemento y una indicación del tipo de complemento (extensión, tema,
+    etc.). También podrá instalar el complemento haciendo clic en el botón
+    Añadir a SeaMonkey que hay dentro de la entrada expandida.</li>
+  <li>Para mostrar la lista completa de complementos recomendados para
+    &brandShortName; en una nueva ventana del navegador (o una nueva pestaña
+    del navegador, dependiendo de sus preferencias), desplace la lista de
+    complementos recomendados hacia abajo hasta que vea el enlace Ver todos
+    los complementos recomendados.</li>
 </ul>
 
-<p>[<a href="#using_the_add-on_manager">Return to beginning of section</a>]</p>
+<p>[<a href="#using_the_add-on_manager">Volver al principio de la sección</a>]</p>
 
-<h4 id="the_extensions_panel">The Extensions panel</h4>
+<h4 id="the_extensions_panel">El panel Extensiones</h4>
 
-<p>The Extensions panel in the Add-on Manager lists the installed extensions.
-  After <a href="#accessing_the_add-on_manager">accessing the Add-on
-  Manager</a>, click the Extensions button to show the Extensions panel. There,
-  you can perform the following actions:</p>
+<p>El panel Extensiones en el administrador de complementos lista las
+  extensiones instaladas. Tras <a href="#accessing_the_add-on_manager">acceder
+  al administrador de complementos</a>, pulse el botón Extensiones para mostrar
+  el panel del mismo nombre. Allí puede llevar a cabo las siguientes
+  acciones:</p>
 
 <ul>
-  <li>To get more information about any of the installed extensions, click the
-    entry in the list. The entry will expand and show the full description of
-    the extension.
+  <li>Para obtener más información sobre cualquiera de las extensiones
+    instaladas, haga clic en su entrada en la lista. La entrada se expandirá y
+    mostrará la descripción completa de la extensión.
 
-    <p><strong>Note</strong>: Disabled extensions will appear greyed out.
-      Incompatible extensions will appear greyed out, since they are also
-      disabled, and with a forbidden sign over the extension icon (incompatible
-      extensions are those which define themselves as not compatible for the
-      version of &brandShortName; you are using).</p>
+    <p><strong>Nota</strong>: las extensiones desactivadas aparecerán
+      difuminadas. Las extensiones incompatibles aparecerán difuminadas, ya que
+      también están desactivadas, y con un signo <q>prohibido</q> sobre el
+      icono de la extensión (las extensiones incompatibles son aquéllas que se
+      definen a sí mismas como no compatibles con la versión de
+      &brandShortName; que se está usando).</p>
   </li>
-  <li>To access preferences of an extension (if the extension features a
-    preferences panel), click the entry corresponding to the desired extension,
-    then click the Preferences button.
+  <li>Para acceder a las preferencias de una extensión (si la extensión incluye
+    un panel de preferencias), pulse en la entrada correspondiente a la
+    extensión deseada y luego haga clic en el botón Preferencias.
 
-    <p><strong>Note</strong>: If the extension does not feature a preferences
-      panel, the Preferences button will be disabled. You can&apos;t access
-      preferences of disabled or incompatible extensions.</p>
+    <p><strong>Nota</strong>: si la extensión no incluye un panel de
+      preferencias, el botón Preferencias estará desactivado. No puede acceder
+      a las preferencias de extensiones desactivadas o incompatibles.</p>
   </li>
-  <li>To disable an extension, click the entry corresponding to the desired
-    extension, then click the Disable button. An info bar will appear to remind
-    you that changes will apply once you restart &brandShortName;. The info bar
-    features a Restart &brandShortName; button.</li>
-  <li>To enable an extension, click the entry corresponding to the desired
-    extension, then click the Enable button. An info bar will appear to remind
-    you that changes will apply once you restart &brandShortName;. The info bar
-    features a Restart &brandShortName; button.</li>
-  <li>To uninstall an extension, click the entry corresponding to the
-    desired extension, then click the Uninstall button. An info bar will
-    appear to remind you that changes will apply once you restart
-    &brandShortName;. The info bar features a Restart &brandShortName;
-    button.</li>
-  <li>To find updates for any extension in the list (including those marked as
-    incompatible), click the Find Updates button at the bottom of the
-    Add-on Manager.
+  <li>Para desactivar una extensión, haga clic en la entrada correspondiente a
+    la extensión deseada, y luego haga clic en el botón Desactivar. Aparecerá
+    una barra de información para recordarle que los cambios sólo se aplicarán
+    tras reiniciar &brandShortName;. La barra de información incluye un botón
+    Reiniciar &brandShortName;.</li>
+  <li>Para activar una extensión, haga clic en la entrada correspondiente a
+    la extensión deseada, y luego haga clic en el botón Activar. Aparecerá una
+    barra de información para recordarle que los cambios sólo se aplicarán
+    tras reiniciar &brandShortName;. La barra de información incluye un botón
+    Reiniciar &brandShortName;.</li>
+  <li>Para desinstalar una extensión, haga clic en la entrada correspondiente a
+    la extensión deseada, y luego haga clic en el botón Desinstalar. Aparecerá
+    una barra de información para recordarle que los cambios sólo se aplicarán
+    tras reiniciar &brandShortName;. La barra de información incluye un botón
+    Reiniciar &brandShortName;.</li>
+  <li>Para encontrar actualizaciones para cualquier extensión en la lista
+    (incluyendo las marcadas como incompatibles), pulse el botón Buscar
+    actualizaciones en la parte inferior del administrador de complementos.
 
-    <p>If updates are found, they will be displayed in a new panel. In the
-      panel, you can choose what extensions you want to update and then use the
-      Install Updates button to retrieve updated Add-ons. Once downloaded, you
-      will need to restart &brandShortName; to apply the updates.</p>
+    <p>Si se encuentran actualizaciones, se mostrarán en un nuevo panel. En el
+      panel, puede elegir qué extensiones quiere actualizar y luego usar el
+      botón Instalar actualizaciones para recuperar los complementos
+      actualizados. Una vez descargados, necesitará reiniciar &brandShortName;
+      para aplicar las actualizaciones.</p>
   </li>
 </ul>
 
-<p>[<a href="#using_the_add-on_manager">Return to beginning of section</a>]</p>
+<p>[<a href="#using_the_add-on_manager">Volver al principio de la sección</a>]</p>
 
-<h4 id="the_themes_panel">The Themes panel</h4>
+<h4 id="the_themes_panel">El panel Temas</h4>
 
-<p>The Themes panel in the Add-on Manager lists the installed themes. After
-  <a href="#accessing_the_add-on_manager">accessing the Add-on Manager</a>,
-  click the Themes button to show the Themes panel. There, you can perform the
-  following actions:</p>
+<p>El panel Temas en el administrador de complementos lista los temas
+  instalados. Tras <a href="#accessing_the_add-on_manager">acceder al
+  administrador de complementos</a>, pulse el botón Temas para mostrar el panel
+  del mismo nombre. Allí puede llevar a cabo las siguientes acciones:</p>
 
 <ul>
-  <li>To get more information and a preview on any of the installed themes,
-    click an entry in the list. The entry will expand and show the full
-    description of the theme, along with a preview in the right side of the
-    Add-on Manager dialog (you may need to resize the dialog to properly see
-    the preview pane).</li>
-  <li>To use a theme, click the entry corresponding to the desired theme, then
-    click the Use Theme button. An info bar will appear to remind you that
-    changes will apply once you restart &brandShortName;. The info bar features
-    a Restart &brandShortName; button.
+  <li>Para obtener más información y una vista preliminar de cualquiera de los
+    temas instalados, haga clic en una entrada de la lista. La entrada se
+    expandirá y mostrará la descripción completa del tema, junto con una vista
+    preliminar en el lado derecho del diálogo del administrador de complementos
+    (puede que necesite redimensionar el diálogo para ver adecuadamente el
+    panel de vista preliminar).</li>
+  <li>Para usar un tema, haga clic en la entrada correspondiente al tema
+    deseado y luego en el botón Usar tema. Aparecerá una barra de información
+    para recordarle que los cambios sólo se aplicarán tras reiniciar
+    &brandShortName;. La barra de información incluye un botón Reiniciar
+    &brandShortName;.
     
-    <p><strong>Note</strong>: Contrary to extensions, you only can use one
-    theme at a time.</p>
+    <p><strong>Nota</strong>: al contrario que con las extensiones, sólo puede
+      usar un tema a la vez.</p>
   </li>
-  <li>To uninstall a theme, click the entry corresponding to the desired theme,
-    then click the Uninstall button. An info bar will appear to remind
-    you that changes will apply once you restart &brandShortName;. The info bar
-    features a Restart &brandShortName; button.</li>
-</ul>
-
-<p>[<a href="#using_the_add-on_manager">Return to beginning of section</a>]</p>
-
-<h4 id="the_languages_panel">The Languages panel</h4>
-
-<p>The Languages panel in the Add-on Manager lists the installed Language
-  Packs. This panel only appears if you have installed a Language Pack.</p>
-
-<p>After <a href="#accessing_the_add-on_manager">accessing the Add-on
-  Manager</a>, click the Languages button to show the Languages panel. There,
-  you can perform the following actions:</p>
-
-<ul>
-  <li>To disable a language pack, click the entry corresponding to the desired
-    language pack, then click the Disable button. An info bar will appear to
-    remind you that changes will apply once you restart &brandShortName;. The
-    info bar features a Restart &brandShortName; button.</li>
-  <li>To enable a language pack, click the entry corresponding to the desired
-    language pack, then click the Enable button. An info bar will appear to
-    remind you that changes will apply once you restart &brandShortName;. The
-    info bar features a Restart &brandShortName; button.</li>
-  <li>To uninstall a language pack, click the entry corresponding to the
-    desired language pack, then click the Uninstall button. An info bar will
-    appear to remind you that changes will apply once you restart
-    &brandShortName;. The info bar features a Restart &brandShortName;
-    button.</li>
-</ul>
-
-<p><strong>Note</strong>: Enabling a language pack in the Language panel
-  doesn&apos;t change the language shown in &brandShortName;&apos;s user
-  interface, it only makes the language available for selection in the
-  <a href="cs_nav_prefs_appearance.xhtml#appearance">Appearance Preferences
-  panel</a>.</p>
-
-<p>[<a href="#using_the_add-on_manager">Return to beginning of section</a>]</p>
-
-<h4 id="the_plugins_panel">The Plugins panel</h4>
-
-<p>The Plugins panel in the Add-on Manager lists the installed Add-ons of type
-  Plugin. After <a href="#accessing_the_add-on_manager">accessing the Add-on
-  Manager</a>, click the Plugins button to show the Plugins panel. There, you
-  can perform the following actions:</p>
-
-<ul>
-  <li>To disable a plugin, click the entry corresponding to the desired plugin,
-    then click the Disable button.</li>
-  <li>To enable a plugin, click the entry corresponding to the desired plugin,
-    then click the Enable button.</li>
-</ul>
-
-<p><strong>Note</strong>: Contrary to other types of Add-ons, enabling and
-  disabling plugins doesn&apos;t require restarting &brandShortName;.</p>
-
-<p>[<a href="#using_the_add-on_manager">Return to beginning of section</a>]</p>
-
-<h2 id="specifying_how_mozilla_starts_up">Specifying How &brandShortName;
-  Starts Up</h2>
-
-<div class="contentsBox">In this section:
-  <ul>
-    <li><a href="#specifying_a_starting_page">Specifying a Starting Page</a></li>
-    <li><a href="#session_restore">Session Restore</a></li>
-    <li><a href="#changing_your_home_page">Changing Your Home Page</a></li>
-    <li><a href="#specifying_which_components_open_at_launch">Specifying Which
-      Components Open at Launch</a></li>
-  </ul>
-</div>
-
-<h3 id="specifying_a_starting_page">Specifying a Starting Page</h3>
-
-<p>You can specify the page that loads when the browser starts:</p>
-
-<ol>
-  <li>Open the <span class="mac">&brandShortName;</span>
-    <span class="noMac">Edit</span> menu and choose Preferences.</li>
-  <li>Under "Display on Browser Startup" choose whether you want a
-    blank page, your home page, or the last web page visited to open
-    automatically when you launch your browser. Alternatively you can
-    tell &brandShortName; to restore the previous session, i.e. the
-    windows and tabs you had open when you last exited &brandShortName;.
-  <p><strong>Note</strong>: If you selected Home Page, type the URL in the
-    Location Bar.</p></li>
-</ol>
-
-<p>[<a href="#specifying_how_mozilla_starts_up">Return to beginning of
-  section</a>]</p>
-
-<h3 id="session_restore">Session Restore</h3>
-
-<p>&brandShortName; periodically saves your browsing session (open windows
-  and tabs, including form data) to disk. When you start &brandShortName; with
-  Session Restore enabled, the windows and tabs from your previous session
-  will be restored. This is especially useful if your previous browsing session
-  ended unexpectedly (e.g. your computer crashed or a website you visited forced
-  &brandShortName; to terminate). &brandShortName; will automatically restore
-  the previous session if "Restore Previous Session" under "Display on Browser
-  Startup" has been selected. If you chose to not be warned when you close a
-  browser window with multiple tabs open (see <a href="#tabbed_browsing">Tabbed
-  Browsing</a> preference panel), &brandShortName; will open a page from
-  where you can choose which windows/tabs from the previous session you want to
-  restore. The same will happen if &brandShortName; crashes repeatedly.</p>
-
-<p>[<a href="#specifying_how_mozilla_starts_up">Return to beginning of
-  section</a>]</p>
-
-<h3 id="changing_your_home_page">Changing Your Home Page</h3>
-
-<p>Your home page is the page that opens when you click the Home button in the
-  Personal Toolbar. Depending on how your preferences are set, it may also be
-  the page that opens automatically when you launch &brandShortName;.</p>
-
-<p>To specify your home page:</p>
-
-<ol>
-  <li>Open the <span class="mac">&brandShortName;</span>
-    <span class="noMac">Edit</span> menu and choose Preferences.</li>
-  <li>Click the Browser category.</li>
-  <li>In the Home page section, perform one of the following:
-    <ul>
-      <li>Type your home page&apos;s URL (web address) in the Location
-        field.</li>
-      <li>Click Use Current Page to make the page currently displayed in the
-        browser window your home page.</li>
-      <li>Click Choose File to select a file from your computer&apos;s hard
-        drive.</li>
-   </ul>
- </li>
-</ol>
-
-<p><strong>Tip</strong>: To specify your home page quickly, drag the bookmark
-  icon <img src="chrome://communicator/skin/bookmarks/bookmark-item.png"
-  alt="image of bookmark icon"/> from the Location Bar to the Home Page
-  button on the Personal Toolbar.</p>
-
-<p>[<a href="#specifying_how_mozilla_starts_up">Return to beginning of
-  section</a>]</p>
-
-<h3 id="specifying_which_components_open_at_launch">Specifying Which Components
-  Open at Launch</h3>
-
-<p>You can choose components (such as Mail &amp; Newsgroups and Composer) to
-  launch when you start &brandShortName;:</p>
-
-<ol>
-  <li>Open the <span class="mac">&brandShortName;</span>
-    <span class="noMac">Edit</span> menu and choose Preferences.</li>
-  <li>Click the Appearance category.</li>
-  <li>Select the components you want opened automatically each time you start
+  <li>Para desinstalar un tema, haga clic en la entrada correspondiente al tema
+    deseado y luego en el botón Desinstalar. Aparecerá una barra de información
+    para recordarle que los cambios sólo se aplicarán tras reiniciar
+    &brandShortName;. La barra de información incluye un botón Reiniciar
     &brandShortName;.</li>
-</ol>
+</ul>
 
-<p>[<a href="#specifying_how_mozilla_starts_up">Return to beginning of
-  section</a>]</p>
+<p>[<a href="#using_the_add-on_manager">Volver al principio de la sección</a>]</p>
 
+<h4 id="the_languages_panel">El panel Idiomas</h4>
+
+<p>El panel Idiomas en el administrador de complementos lista los paquetes de
+  idioma instalados. Este panel sólo aparece si ha instalado un paquete de
+  idioma.</p>
+  
+<p>Tras <a href="#accessing_the_add-on_manager">acceder
+  al administrador de complementos</a>, pulse el botón Idiomas para mostrar
+  el panel del mismo nombre. Allí puede llevar a cabo las siguientes acciones:</p>
+
+<ul>
+  <li>Para desactivar un paquete de idioma, haga clic en la entrada
+    correspondiente al paquete de idioma deseado, y luego haga clic en el botón
+    Desactivar. Aparecerá una barra de información para recordarle que los
+    cambios sólo se aplicarán tras reiniciar &brandShortName;. La barra de
+    información incluye un botón Reiniciar &brandShortName;.</li>
+  <li>Para activar un paquete de idioma, haga clic en la entrada
+    correspondiente al paquete de idioma deseado, y luego haga clic en el botón
+    Activar. Aparecerá una barra de información para recordarle que los
+    cambios sólo se aplicarán tras reiniciar &brandShortName;. La barra de
+    información incluye un botón Reiniciar &brandShortName;.</li>
+  <li>Para desinstalar un paquete de idioma, haga clic en la entrada
+    correspondiente al paquete de idioma deseado, y luego haga clic en el botón
+    Desinstalar. Aparecerá una barra de información para recordarle que los
+    cambios sólo se aplicarán tras reiniciar &brandShortName;. La barra de
+    información incluye un botón Reiniciar &brandShortName;.</li>
+</ul>
+
+<p><strong>Nota</strong>: activar un paquete de idioma en el panel Idiomas no
+  cambia el idioma mostrado en la interfaz de usuario de &brandShortName;, sólo
+  hace que el idioma esté disponible para su selección en el
+  <a href="cs_nav_prefs_appearance.xhtml#appearance">panel de preferencias de
+  apariencia</a>.</p>
+
+<p>[<a href="#using_the_add-on_manager">Volver al principio de la sección</a>]</p>
+
+<h4 id="the_plugins_panel">El panel Plugins</h4>
+
+<p>El panel Plugins en el administrador de complementos lista los plugins
+  instalados. Tras <a href="#accessing_the_add-on_manager">acceder al
+  administrador de complementos</a>, pulse el botón Plugins para mostrar el
+  panel del mismo nombre. Allí puede llevar a cabo las siguientes acciones:</p>
+
+<ul>
+  <li>Para desactivar un plugin, haga clic en la entrada correspondiente al
+    plugin deseado y luego en el botón Desactivar.</li>
+  <li>Para activar un plugin, haga clic en la entrada correspondiente al plugin
+    deseado y luego en el botón Activar.</li>
+</ul>
+
+<p><strong>Nota</strong>: Al contrario que con otros tipos de complementos,
+  activar y desactivar plugins no requiere reiniciar &brandShortName;.</p>
+
+<p>[<a href="#using_the_add-on_manager">Volver al principio de la sección</a>]</p>
+
+<h2 id="specifying_how_mozilla_starts_up">Configuración del modo de
+  inicio de &brandShortName;</h2>
+
+  <div class="contentsBox">En esta sección:
+    <ul>
+      <li><a href="#specifying_a_starting_page">Especificar una página
+        inicial</a></li>
+      <li><a href="#session_restore">Restauración de sesión</a></li>
+      <li><a href="#changing_your_home_page">Modificar la página
+        de inicio</a></li>
+      <li><a href="#specifying_which_components_open_at_launch">Especificar
+        qué se abrirá al iniciar &brandShortName;</a></li>
+    </ul>
+  </div>
+
+  <h3 id="specifying_a_starting_page">Especificar una página
+  inicial</h3>
+
+<p>Puede especificar la página que desea que se cargue al iniciar el
+  navegador.</p>
+
+  <ol>
+    <li>Abra el menú <span class="mac">&brandShortName;</span>
+      <span class="noMac">Editar</span> y elija <q>Preferencias</q>.</li>
+    <li>Bajo la opción <q>Mostrar en el inicio del navegador</q>, especifique
+      si desea que al iniciar el navegador se abra automáticamente una
+      página en blanco, la página inicial o la última página visitada.
+      Alternativamente, puede pedir a &brandShortName; que restaure la sesión
+      anterior, es decir, las ventanas y pestañas que tenía abiertas la última
+      vez que salió de &brandShortName;.
+    <p><strong>Nota</strong>: Si selecciona Página inicial, escriba la
+        URL en el campo Dirección.</p>
+    </li>
+  </ol>
+
+<p>[<a href="#specifying_how_mozilla_starts_up">Volver al principio de la
+  sección</a>]</p>
+
+  <h3 id="session_restore">Restauración de sesión</h3>
+  
+<p>&brandShortName; guarda periódicamente su sesión de navegación (ventanas y
+    pestañas abiertas, incluyendo datos de formularios) en el disco. Cuando
+    inicia &brandShortName; con la restauración de sesión activada, se
+    restaurarán las ventanas y pestañas de su sesión anterior. Esto es
+    especialmente útil si su sesión de navegación anterior terminó
+    inesperadamente (p.e. su ordenador se cerró o un sitio web que visitó
+    provocó el cierre de &brandShortName;). &brandShortName; restaurará
+    automáticamente la sesión anterior si se ha seleccionado "Restaurar sesión
+    anterior" en "Mostrar en el inicio del navegador". Si elige que no se le
+    advierta cuando cierra una ventana de navegador con múltiples pestañas
+    abiertas (vea el panel de preferencias
+    <a href="#tabbed_browsing">Navegación con pestañas</a>), &brandShortName;
+    abrirá una página desde donde puede elegir qué ventanas/pestañas de la
+    sesión anterior quiere restaurar. Lo mismo sucederá si &brandShortName; se
+    cierra repetidamente.</p>
+
+<p>[<a href="#specifying_how_mozilla_starts_up">Volver al principio de la
+  sección</a>]</p>
+
+  <h3 id="changing_your_home_page">Modificar la página de inicio</h3>
+
+<p>Su página inicial es la página que se abre cuando hace clic
+  en el botón Inicio de la barra personal. Según sus
+  preferencias, también puede ser la página que se abra
+  automáticamente al iniciar &brandShortName;.</p>
+
+<p>Para especificar una página inicial:</p>
+
+  <ol>
+    <li>Abra el menú <span class="mac">&brandShortName;</span>
+    <span class="noMac">Editar</span> y elija <q>Preferencias</q>.</li>
+    <li>Haga clic en la categoría Navegador.</li>
+    <li>Bajo la opción <q>Página de inicio</q>, realice una de
+    las acciones siguientes:
+      <ul>
+        <li>Escriba la URL de su página inicial en el campo
+        Dirección.</li>
+        <li>Haga clic en Usar página actual para convertir la
+        página que está viendo en la página inicial.</li>
+        <li>Haga clic en Escoger archivo para seleccionar un archivo del disco
+        duro de su equipo.</li>
+      </ul>
+    </li>
+  </ol>
+
+<p><strong>Sugerencia</strong>: para especificar rápidamente la
+  página inicial, arrastre el icono del marcador <img
+  src="chrome://communicator/skin/bookmarks/bookmark-item.png"
+  alt="imagen del marcador de icono" /> desde la barra de direcciones hasta el
+  botón de página inicial de la barra personal.</p>
+
+<p>[<a href="#specifying_how_mozilla_starts_up">Volver al principio de la
+  sección</a>]</p>
+
+  <h3 id="specifying_which_components_open_at_launch">Especificar qué
+  se abrirá al iniciar &brandShortName;</h3>
+
+<p>Puede elegir qué componentes (como Correo y Noticias y Composer) se
+  lanzan cuando inicia &brandShortName;:</p>
+
+  <ol>
+    <li>Abra el menú <span class="mac">&brandShortName;</span>
+    <span class="noMac">Editar</span> y elija <q>Preferencias</q>.</li>
+    <li>Haga clic en la categoría Apariencia.</li>
+    <li>Seleccione los componentes que desea que se abran
+    automáticamente cada vez que inicie &brandShortName;.</li>
+  </ol>
+
+<p>[<a href="#specifying_how_mozilla_starts_up">Volver al principio de la
+  sección</a>]</p>
 </body>
 </html>
