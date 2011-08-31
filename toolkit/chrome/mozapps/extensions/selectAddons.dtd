@@ -6,7 +6,7 @@
 <!ENTITY select.keep "Оставить">
 <!ENTITY select.keep.style "width: 10ch;">
 <!ENTITY select.action "Действие">
-<!ENTITY select.action.style "width: 45ch;">
+<!ENTITY select.action.style "width: 40ch;">
 <!ENTITY select.source "Установлено">
 <!ENTITY select.name "Название">
 <!ENTITY select.name.style "width: 33ch;">
