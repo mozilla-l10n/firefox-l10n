@@ -46,7 +46,7 @@
 <!ENTITY ListDescription.label          "Beschreibung:">
 <!-- See bug 58485, when we implement drag and drop, add 'or drag addresses' back in -->
 <!ENTITY AddressTitle.label             "Geben Sie E-Mail-Adressen ein, um sie in die Verteiler-Liste einzufügen:">
-<!ENTITY UpButton.label                 "nach oben">
+<!ENTITY UpButton.label                 "Nach oben">
 <!ENTITY DownButton.label               "Nach unten">
 
 <!-- Access Keys -->
