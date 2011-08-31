@@ -1,7 +1,7 @@
 <!ENTITY upgrade.style               "width: 93ch; height: 448px;">
 
-<!ENTITY checking.heading            "Kontrollera dina tillägg">
-<!ENTITY checking.progress.label     "Kontrollerar dina tillägg för kompatibilitet med den här versionen av &brandShortName;.">
+<!ENTITY checking.heading            "Kontrollerar dina tillägg">
+<!ENTITY checking.progress.label     "Kontrollerar om dina tillägg är kompatibla med den här versionen av &brandShortName;.">
 
 <!ENTITY select.heading              "Välj dina tillägg">
 <!-- LOCALIZATION NOTE (select.description): The term used for "third parties"
