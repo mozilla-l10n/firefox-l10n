@@ -6,7 +6,7 @@
 <!ENTITY usingSubscription.accesskey "N">
 <!ENTITY dualUseFolders.label "Server unterstützt Ordner, die Unterordner und Nachrichten enthalten">
 <!ENTITY dualUseFolders.accesskey "u">
-<!ENTITY useIdle.label "IDLE-Kommando nutzen, wenn es der Server unterstützt">
+<!ENTITY useIdle.label "IDLE-Kommando verwenden, wenn der Server es unterstützt">
 <!ENTITY useIdle.accesskey "K">
 <!ENTITY maximumConnectionsNumber.label "Maximale Anzahl der aufrecht erhaltenen Serververbindungen">
 <!ENTITY maximumConnectionsNumber.accesskey "M">
@@ -18,7 +18,7 @@
 <!ENTITY publicNamespace.accesskey "Ö">
 <!ENTITY otherUsersNamespace.label "Andere Benutzer">
 <!ENTITY otherUsersNamespace.accesskey "A">
-<!ENTITY overrideNamespaces.label "Server erlauben diese Namensräume zu übergehen">
+<!ENTITY overrideNamespaces.label "Server erlauben, diese Namensräume zu übergehen">
 <!ENTITY overrideNamespaces.accesskey "e">
 <!ENTITY pop3Desc.label "Wo soll der Posteingang dieses Kontos gespeichert werden?">
 <!ENTITY globalInbox.label "Globaler Posteingang (Lokale Ordner)">
