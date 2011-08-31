@@ -23,8 +23,8 @@
 <!ENTITY warning.updatesecurity.enable.tooltip     "Habilita la comprovació de seguretat dels complements">
 
 <!-- global informations -->
-<!ENTITY info.plugincheck.label                 "Marqueu-ho per comprovar si els vostres connectors estan al dia">
-<!ENTITY info.plugincheck.tooltip               "Marqueu-ho per comprovar si els vostres connectors estan al dia">
+<!ENTITY info.plugincheck.label                 "Feu clic aquí per comprovar si els vostres connectors estan al dia">
+<!ENTITY info.plugincheck.tooltip               "Feu clic aquí per comprovar si els vostres connectors estan al dia">
 
 <!-- categories / views -->
 <!-- LOCALIZATION NOTE: These should match the header-* entries in extensions.properties -->
