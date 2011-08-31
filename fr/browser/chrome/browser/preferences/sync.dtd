@@ -14,7 +14,7 @@
 <!ENTITY manageAccount.accesskey      "c">
 <!ENTITY viewQuota.label              "Afficher le quota">
 <!ENTITY changePassword2.label        "Modifier le mot de passe…">
-<!ENTITY mySyncKey.label              "Ma clé de synchronisation">
+<!ENTITY myRecoveryKey.label          "Ma clé de récupération">
 <!ENTITY resetSync2.label             "Réinitialiser la synchronisation…">
 <!ENTITY addDevice.label              "Ajouter un appareil">
 
