@@ -19,8 +19,8 @@
 <!ENTITY signIn.account2.accesskey  "Т">
 <!ENTITY signIn.password.label      "Пароль">
 <!ENTITY signIn.password.accesskey  "П">
-<!ENTITY signIn.syncKey.label       "Синхрондау кілті">
-<!ENTITY signIn.syncKey.accesskey   "С">
+<!ENTITY signIn.recoveryKey.label       "Қалпына келтіру кілті">
+<!ENTITY signIn.recoveryKey.accesskey   "к">
 
 <!-- New Account Page 1: Basic Account Info -->
 <!ENTITY setup.newAccountDetailsPage.title.label "Тіркелгі ақпараты">
@@ -41,12 +41,12 @@
 <!ENTITY setup.tosAgree2.accesskey  "">
 
 <!-- New Account Page 2: Sync Key -->
-<!ENTITY setup.newSyncKeyPage.title.label "&brandShortName; сіздің жекелігіңізді қолдайды">
-<!ENTITY setup.newSyncKeyPage.description.label "Жекелігіңізді сақтау үшін жүктелу алдында барлық ақпарат шифрленеді. Ақпаратты дешифрлеу үшін керек Синхрондау кілті жүктелмейді.">
-<!ENTITY syncKeyEntry.label        "Сіздің синхрондау кілтіңіз">
-<!ENTITY syncKeyEntry.accesskey    "к">
+<!ENTITY setup.newRecoveryKeyPage.title.label "&brandShortName; сіздің жекелігіңізді қолдайды">
+<!ENTITY setup.newRecoveryKeyPage.description.label "Жекелігіңізді сақтау үшін жүктелу алдында барлық ақпарат шифрленеді. Ақпаратты дешифрлеу үшін керек Қалпына келтіру кілті жүктелмейді.">
+<!ENTITY recoveryKeyEntry.label        "Сіздің қалпына келтіру кілтіңіз">
+<!ENTITY recoveryKeyEntry.accesskey    "к">
 <!ENTITY syncGenerateNewKey.label  "Жана кілтті жасау">
-<!ENTITY syncKeyBackup.description "Сіздің Синхрондау кілтіңіз &syncBrand.fullName.label; басқа компьютерлерде қатынау үшін керек. Қор көшірмесін жасаңыз. Жоғалған Синхрондау кілтін біз қалпына келтіре алмаймыз.">
+<!ENTITY recoveryKeyBackup.description "Сіздің Қалпына келтіру кілтіңіз &syncBrand.fullName.label; басқа компьютерлерде қатынау үшін керек. Қор көшірмесін жасаңыз. Жоғалған Қалпына келтіру кілтін біз қалпына келтіре алмаймыз.">
 
 <!ENTITY button.syncKeyBackup.print.label     "Баспаға шығару…">
 <!ENTITY button.syncKeyBackup.print.accesskey "Б">
@@ -65,12 +65,12 @@
 <!ENTITY addDevice.dialog.enterCode.label   "Құрылғы ұсынып тұрған кодты енгізіңіз:">
 <!ENTITY addDevice.dialog.tryAgain.label    "Қайталап көріңіз.">
 <!ENTITY addDevice.dialog.successful.label  "Құрылғы сәтті қосылды. Алғашқы синхрондау бірнеше минутты алуы мүмкін, ол фонда орындалатын болады.">
-<!ENTITY addDevice.dialog.syncKey.label     "Құрылғыңызды белсендіру үшін өзіңіздің Синхрондау кілтін енгізуіңіз керек. Бұл кілтті баспаға шығарып, не сақтап, өзіңізбен бірге ұстаңыз.">
+<!ENTITY addDevice.dialog.recoveryKey.label     "Құрылғыңызды белсендіру үшін өзіңіздің Қалпына келтіру кілтін енгізуіңіз керек. Бұл кілтті баспаға шығарып, не сақтап, өзіңізбен бірге ұстаңыз.">
 <!ENTITY addDevice.dialog.connected.label   "Құрылғы байланысқан">
 
 <!-- Existing Account Page 2: Manual Login -->
 <!ENTITY setup.signInPage.title.label "Кіру">
-<!ENTITY existingSyncKey.description "Өзіңіздің Синхрондау кілтінің көшірмесін алу үшін, басқа құрылғыдағы &syncBrand.shortName.label; опцияларына барып, &#x0022;Тіркелгіні басқару&#x0022; ішінен &#x0022;Менің Синхрондау кілтім&#x0022; таңдаңыз.">
+<!ENTITY existingRecoveryKey.description "Өзіңіздің Қалпына келтіру кілтінің көшірмесін алу үшін, басқа құрылғыдағы &syncBrand.shortName.label; опцияларына барып, &#x0022;Тіркелгіні басқару&#x0022; ішінен &#x0022;Менің Қалпына келтіру кілтім&#x0022; таңдаңыз.">
 <!ENTITY verifying.label              "Растау…">
 <!ENTITY resetPassword.label          "Парольді тастау">
 
