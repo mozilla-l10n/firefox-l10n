@@ -123,11 +123,13 @@
 <!ENTITY viewMenu.accesskey "R">
 <!ENTITY viewToolbarsMenuNew.label "Priemonių juostos"> 
 <!ENTITY viewToolbarsMenuNew.accesskey "j"> 
+<!ENTITY menubarCmd.label "Meniu juosta">
+<!ENTITY menubarCmd.accesskey "M">
 <!ENTITY showCompositionToolbarCmd.label "Laiško kūrimo juosta">
 <!ENTITY showCompositionToolbarCmd.accesskey "k">
 <!ENTITY showFormattingBarCmd.label "Formatavimo juosta">
 <!ENTITY showFormattingBarCmd.accesskey "F">
-<!ENTITY showTaskbarCmd.label "Būsenos">
+<!ENTITY showTaskbarCmd.label "Būsenos juosta">
 <!ENTITY showTaskbarCmd.accesskey "B">
 <!ENTITY customizeToolbar.label "Tvarkyti…">
 <!ENTITY customizeToolbar.accesskey "T">

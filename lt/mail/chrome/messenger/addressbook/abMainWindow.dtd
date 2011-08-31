@@ -110,6 +110,8 @@
 <!ENTITY viewMenu.accesskey                             "R">
 <!ENTITY viewToolbarsMenu.label                         "Priemonių juostos">
 <!ENTITY viewToolbarsMenu.accesskey                     "j"> 
+<!ENTITY menubarCmd.label                               "Meniu juosta">
+<!ENTITY menubarCmd.accesskey                           "M">
 <!ENTITY showAbToolbarCmd.label                         "Adresų knygos">
 <!ENTITY showAbToolbarCmd.accesskey                     "A">
 <!ENTITY showTaskbarCmd.label                           "Būsenos">
