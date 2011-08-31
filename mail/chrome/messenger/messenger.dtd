@@ -156,8 +156,10 @@
 <!ENTITY redoDefaultCmd.accesskey "t">
 
 <!-- View Menu -->
-<!ENTITY showMessengerToolbarCmd.label		"Pašto">
-<!ENTITY showMessengerToolbarCmd.accesskey	"P">
+<!ENTITY menubarCmd.label "Meniu juosta">
+<!ENTITY menubarCmd.accesskey "M">
+<!ENTITY showMessengerToolbarCmd.label "Pašto priemonių juosta">
+<!ENTITY showMessengerToolbarCmd.accesskey "P">
 <!ENTITY customizeToolbar.label "Tvarkyti…">
 <!ENTITY customizeToolbar.accesskey "T">
 
@@ -526,12 +528,14 @@ you can use these alternative items. Otherwise, their values should be empty.  -
 <!ENTITY previousButton.label "Ankstesnis">
 <!ENTITY backButton1.label "Atgal">
 <!ENTITY goForwardButton1.label "Pirmyn">
+<!ENTITY deleteItem.title "Pašalinti">
 <!ENTITY deleteButton.label "Pašalinti">
 <!ENTITY undeleteButton.label "Grąžinti">
 <!ENTITY markButton.label "Pažymėti">
 <!ENTITY printButton.label "Spausdinti">
 <!ENTITY stopButton.label "Stabdyti">
 <!ENTITY throbberItem.title "Aktyvumo rodiklis">
+<!ENTITY junkItem.title "Brukalas">
 <!ENTITY junkButton.label "Brukalas">
 <!ENTITY notJunkButton.label "Ne brukalas">
 <!ENTITY addressBookButton.label "Adresai">

@@ -37,9 +37,9 @@
 
 <!-- Entities for Account Type page -->
 
-<!ENTITY accountSetupInfo.label "Tam, kad galėtumėte gauti elektroninius laiškus, turite užsiregistruoti pašto programoje.">
+<!ENTITY accountSetupInfo2.label "Tam, kad galėtumėte gauti elektroninius laiškus, turite programoje sukurti paskyrą.">
 <!ENTITY accountTypeTitle.label "Naujos paskyros sąranka">
-<!ENTITY accountTypeDesc.label "Paskyros vediklis prašys pateikti informaciją, reikalingą susijungimui su pašto arba naujienų serveriu. Jeigu tokios informacijos neturite, prašom kreiptis į sistemos administratorių arba interneto paslaugų teikėją.">
+<!ENTITY accountTypeDesc2.label "Paskyros vediklis prašys pateikti paskyrai sukurti reikalingą informaciją. Jeigu tokios informacijos neturite, prašom kreiptis į sistemos administratorių arba interneto paslaugos teikėją.">
 <!ENTITY accountTypeDirections.label "Pasirinkite, ką registruoti:">
 <!ENTITY accountTypeMail.label "elektroninį paštą">
 <!ENTITY accountTypeMail.accesskey "e">
