@@ -20,7 +20,6 @@
 <!ENTITY editMessageButton.label "Modifica…">
 <!ENTITY hdrArchiveButton.label "Archivia">
 <!ENTITY hdrArchiveButton.tooltip "Archivia questo messaggio">
-<!ENTITY hdrSmartReplyButton.label "risposta veloce">
 <!ENTITY hdrReplyButton.label "Rispondi">
 <!ENTITY hdrReplyButton.tooltip "Rispondi a questo messaggio">
 <!ENTITY hdrReplyAllButton.label "Rispondi a tutti">
