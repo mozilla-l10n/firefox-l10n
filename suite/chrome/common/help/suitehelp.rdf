@@ -11,7 +11,7 @@
 
     <!-- SEAMONKEY MASTER HELP DOCUMENT -->
     <Description rdf:about="urn:root"
-            nc:title="&brandFullName; Help"
+            nc:title="Ayuda de &brandFullName;"
             nc:defaulttopic="welcome"
             nc:base="chrome://communicator/locale/help/">
         <nc:panellist>
@@ -30,7 +30,7 @@
                     <Description nc:panelid="search"
                         nc:datasources="rdf:null"
                         nc:platform="win mac os2 unix"
-                        nc:emptysearchtext="[No matching items found.]"
+                        nc:emptysearchtext="[No se han encontrado coincidencias]"
                         nc:emptysearchlink="help_help.xhtml#search_tips"/>
                 </li>
                 <li>
