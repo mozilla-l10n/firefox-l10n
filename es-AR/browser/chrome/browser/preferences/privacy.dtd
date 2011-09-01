@@ -52,7 +52,7 @@
 <!ENTITY  rememberActions.removeCookies.label "eliminar determinadas cookies">
 <!ENTITY  rememberActions.post.label          ".">
 
-<!ENTITY  dontrememberDescription.label  "&brandShortName; utilizará la misma configuración que para las búsquedas privadas y no recordará el historial mientras navegue por la Web.">
+<!ENTITY  dontrememberDescription.label  "&brandShortName; utilizará la misma configuración que para las búsquedas privadas y no recordará el historial mientras navegue por la web.">
 
 <!-- LOCALIZATION NOTE (dontrememberActions.pre.label): include a trailing space as needed -->
 <!-- LOCALIZATION NOTE (dontrememberActions.post.label): include a starting space as needed -->
