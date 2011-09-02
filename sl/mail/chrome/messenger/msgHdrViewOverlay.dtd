@@ -60,6 +60,7 @@
 <!ENTITY hdrArchiveButton.label "arhiviraj">
 <!ENTITY hdrArchiveButton.tooltip "arhiviraj to sporočilo">
 <!ENTITY hdrReplyButton.label "odgovori">
+<!ENTITY hdrSmartReplyButton.label "pameten odgovor">
 <!ENTITY hdrReplyButton.tooltip "odgovori na to sporočilo">
 <!ENTITY hdrReplyAllButton.label "odgovori vsem">
 <!ENTITY hdrReplyAllButton.tooltip "odgovori pošiljatelju in vsem prejemnikom">

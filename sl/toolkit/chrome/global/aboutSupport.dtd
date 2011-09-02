@@ -17,9 +17,10 @@
 <!ENTITY aboutSupport.appBasicsName "Ime">
 <!ENTITY aboutSupport.appBasicsVersion "Različica">
 <!ENTITY aboutSupport.appBasicsProfileDir "Mapa profila">
-<!ENTITY aboutSupport.appBasicsEnabledPlugins "Vključeni vstavki">
-<!ENTITY aboutSupport.appBasicsBuildConfig "Nastavitve gradnje">
+<!ENTITY aboutSupport.appBasicsEnabledPlugins "Omogočeni vstavki">
+<!ENTITY aboutSupport.appBasicsBuildConfig "Nastavitev gradnje">
 <!ENTITY aboutSupport.appBasicsUserAgent "Uporabniški agent">
+<!ENTITY aboutSupport.appBasicsCrashIDs "Poročila o sesutju">
 
 <!ENTITY aboutSupport.show.label "Odpri nadrejeno mapo">
 
