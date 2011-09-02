@@ -6,16 +6,16 @@
 <!-- The page shown when logged in... -->
 
 <!-- Login error feedback -->
-<!ENTITY updatePass.label             "Actualizar">
+<!ENTITY updatePass.label             "Atualizar">
 <!ENTITY resetPass.label              "Reiniciar">
 
 <!-- Manage Account -->
 <!ENTITY manageAccount.label          "Gerir conta">
 <!ENTITY manageAccount.accesskey      "A">
 <!ENTITY viewQuota.label              "Ver quota">
-<!ENTITY changePassword2.label         "Alterar senha">
-<!ENTITY mySyncKey.label              "Chave do meu Sync">
-<!ENTITY resetSync2.label              "Reiniciar o Sync">
+<!ENTITY changePassword2.label        "Alterar senha">
+<!ENTITY myRecoveryKey.label          "A minha chave de recuperação">
+<!ENTITY resetSync2.label             "Reiniciar o Sync">
 
 <!ENTITY addDevice.label              "Adicionar um dispositivo">
 
