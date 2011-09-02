@@ -59,10 +59,10 @@
 
 <!-- These controls are in the Dimensions tab panel -->
 <!-- actualSize.label should be same as actualSizeRadio.label + ":" -->
-<!ENTITY actualSize.label "Tamanho Actual:">
-<!ENTITY actualSizeRadio.label "Tamanho Actual">
+<!ENTITY actualSize.label "Tamanho Atual:">
+<!ENTITY actualSizeRadio.label "Tamanho Atual">
 <!ENTITY actualSizeRadio.accessKey "A">
-<!ENTITY actualSizeRadio.tooltip "Reverter a imagem para o tamanho actual">
+<!ENTITY actualSizeRadio.tooltip "Reverter a imagem para o tamanho atual">
 <!ENTITY customSizeRadio.label "Tamanho Personalizado">
 <!ENTITY customSizeRadio.accessKey "P">
 <!ENTITY customSizeRadio.tooltip "Alterar o tamanho da imagem como apresentado na página">
