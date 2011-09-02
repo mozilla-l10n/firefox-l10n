@@ -17,7 +17,7 @@
 <!ENTITY serif.accesskey "S">
 <!ENTITY sans-serif.label "Sans-serif:">
 <!ENTITY sans-serif.accesskey "n">
-<!ENTITY monospace.label "Enokoračna pisava:">
+<!ENTITY monospace.label "Enoširinska pisava:">
 <!ENTITY monospace.accesskey "E">
 
 <!ENTITY font.langGroup.latin1 "zahodno">
