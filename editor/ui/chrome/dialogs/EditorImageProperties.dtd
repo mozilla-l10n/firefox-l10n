@@ -83,6 +83,9 @@
 <!ENTITY borderEditField.accessKey "B">
 <!ENTITY showImageLinkBorder.label "Visualizza un bordo attorno all'immagine per indicare la presenza del collegamento">
 <!ENTITY showImageLinkBorder.accessKey "V">
+<!ENTITY LinkAdvancedEditButton.label "Modifica avanzata collegamento…">
+<!ENTITY LinkAdvancedEditButton.accessKey "M">
+<!ENTITY LinkAdvancedEditButton.tooltip "Aggiunge o modifica attributi HTML, stili e JavaScript">
 <!ENTITY imageInputTab.label "Modulo">
 <!ENTITY imageLocationTab.label "Indirizzo">
 <!ENTITY imageDimensionsTab.label "Dimensioni">
