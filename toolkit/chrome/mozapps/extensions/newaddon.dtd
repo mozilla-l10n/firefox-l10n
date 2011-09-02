@@ -1,0 +1,11 @@
+<!ENTITY title           "Namesti dodatek">
+<!ENTITY intro           "Nek drug program na vašem računalniku hoče prilagoditi
+                          &brandShortName; z naslednjim dodatkom:">
+<!ENTITY warning         "Nameščajte samo dodatke iz rok avtorjev, ki jim zaupate.">
+<!ENTITY allow           "Dovoli to namestitev">
+<!ENTITY later           "Lahko se vedno premislite in v ta namen obiščete
+                          Upravitelja dodatkov.">
+<!ENTITY continue        "Nadaljuj">
+<!ENTITY restartMessage  "Da končate z nameščanjem tega dodatka, morate ponovno zagnati &brandShortName;.">
+<!ENTITY restartButton   "Zaženi znova &brandShortName;">
+<!ENTITY cancelButton    "Prekliči">
