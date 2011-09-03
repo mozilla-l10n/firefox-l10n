@@ -150,15 +150,6 @@
 <!ENTITY quickFilterBar.textbox.emptyText.base
          "ਇਹ ਸੁਨੇਹੇ ਫਿਲਟਰ ਕਰੋ... #1">
 
-<!-- LOCALIZATION NOTE (quickFilterBar.textbox.emptyText.keyLabel.nonmac):
-     The description of the key-binding to get into the box on windows and
-     linux (which use the control key).  We use the keybinding for cmd_find
-     used by the find-in-message mechanism, so that's the letter to indicate
-     if you don't use 'f' for your localization.
-     -->
-<!ENTITY quickFilterBar.textbox.emptyText.keyLabel.nonmac
-         "&lt;Ctrl+F&gt;">
-
 
 <!-- LOCALIZATION NOTE (quickFilterBar.show.key2):
      This is the key used to show the quick filter bar. -->

@@ -62,7 +62,5 @@
 <!ENTITY channel.description.start  "ਇਸ ਸਮੇਂ ਤੁਸੀਂ ਵਰਤ ਰਹੇ ਹੋ">
 <!ENTITY channel.description.end    " ਅੱਪਡੇਟ ਚੈਨਲ ">
 
-<!ENTITY channel.change             "ਬਦਲੋ">
-
 <!ENTITY cmdCloseMac.commandKey "w">
 
