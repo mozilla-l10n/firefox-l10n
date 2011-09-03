@@ -13,7 +13,6 @@ by NSS/PSM via netError.xhtml. -->
 be replaced at runtime with the name of the server to which the user
 was trying to connect. -->
 <!ENTITY certerror.introPara1 "ਤੁਸੀਂ &brandShortName; ਨੂੰ  <b>#1</b> ਨਾਲ ਸੁਰੱਖਿਅਤ ਢੰਗ ਨਾਲ ਕੁਨੈਕਟ ਕਰਨ ਲਈ ਕਿਹਾ ਸੀ, ਪਰ ਅਸੀਂ ਇਕ ਪੁਸ਼ਟੀ ਨਹੀਂ ਕਰ ਸਕਦੇ ਹਾਂ  ਕਿ ਤੁਹਾਡਾ ਕੁਨੈਕਸ਼ਨ ਸੁਰੱਖਿਅਤ ਹੈ।">
-<!ENTITY certerror.introPara2 "ਆਮ ਤੌਰ ਉੱਤੇ, ਜਦੋਂ ਤੁਸੀਂ ਸੁਰੱਖਿਅਤ ਢੰਗ ਨਾਲ ਕੁਨੈਕਟ ਹੋਣ ਦੀ ਕੋਸ਼ਿਸ਼ ਕਰਦੇ ਹੋ ਤਾਂ ਸਾਈਟ ਤੁਹਾਨੂੰ ਇਹ ਸਿੱਧ ਕਰਨ ਲਈ ਕਿ ਤੁਸੀਂ ਠੀਕ ਥਾਂ ਉੱਤੇ ਜਾ ਰਹੇ, ਇੱਕ ਭਰੋਸੇਯੋਗ ਪਛਾਣ ਦਿੰਦੀ ਹੈ। ਪਰ, ਇਹ ਸਾਈਟ ਦੀ ਪਛਾਣ ਜਾਂਚੀ ਨਹੀਂ ਜਾ ਸਕਦੀ ਹੈ।">
 
 <!ENTITY certerror.whatShouldIDo.heading "ਮੈਨੂੰ ਕੀ ਕਰਨਾ ਚਾਹੀਦਾ ਹੈ?">
 <!ENTITY certerror.whatShouldIDo.content "ਜੇ ਤੁਸੀਂ ਇਸ ਸਾਈਟ ਨਾਲ ਅਕਸਰ ਬਿਨਾਂ ਕਿਸੇ ਸਮੱਸਿਆ ਦੇ ਕੁਨੈਕਟ ਹੁੰਦੇ ਰਹੇ ਹੋ, ਤਾਂ ਇਹ ਗਲਤੀ ਦਾ ਅਰਥ ਹੈ ਕਿ ਕੋਈ ਤੁਹਾਨੂੰ ਸਾਈਟ ਦਾ ਝਾਂਸਾ ਦੇ ਰਿਹਾ ਹੈ ਅਤੇ ਤੁਹਾਨੂੰ ਜਾਰੀ ਨਹੀਂ ਰੱਖਣਾ ਚਾਹੀਦਾ ਹੈ।">

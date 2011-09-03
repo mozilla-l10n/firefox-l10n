@@ -1,7 +1,7 @@
 <!ENTITY  splash_screen_loading "ਲੋਡ ਕੀਤਾ ਜਾ ਰਿਹਾ ਹੈ">
 
-<!ENTITY  splash_screen_installing_libs "Installing libraries\u2026">
-<!ENTITY  splash_firstrun "Setting up &brandShortName;\u2026">
+<!ENTITY  splash_screen_installing_libs "ਲਾਇਬਰੇਰੀਆਂ ਇੰਸਟਾਲ ਕੀਤੀਆਂ ਜਾ ਰਹੀਆਂ ਹਨ\u2026">
+<!ENTITY  splash_firstrun "&brandShortName; ਸੈਟ ਅੱਪ ਕੀਤਾ ਜਾ ਰਿਹਾ ਹੈ\u2026">
 <!ENTITY  no_space_to_start_error "&brandShortName; ਨੂੰ ਸ਼ੁਰੂ ਕਰਨ ਲਈ ਘੱਟੋ-ਘੱਟ ਥਾਂ ਉਪਲੱਬਧ ਨਹੀਂ ਹੈ।">
 <!ENTITY  error_loading_file "&brandShortName; ਨੂੰ ਚਲਾਉਣ ਲਈ ਲੋੜੀਦੀਆਂ ਫਾਇਲਾਂ ਲੋਡ ਕਰਨ ਦੇ ਦੌਰਾਨ ਗਲਤੀ ਆਈ ਹੈ।">
 
@@ -15,4 +15,10 @@
 <!ENTITY  sending_crash_report "ਕਰੈਸ਼ ਰਿਪੋਰਟ ਭੇਜੀ ਜਾ ਰਹੀ ਹੈ\u2026">
 <!ENTITY  exit_label "ਬੰਦ ਕਰੋ">
 <!ENTITY  continue_label "ਜਾਰੀ ਰੱਖੋ">
+
+
+<!ENTITY  launcher_shortcuts_title "&brandShortName; ਵੈੱਬ ਐਪਸ">
+<!ENTITY  launcher_shortcuts_empty "ਕੋਈ ਵੈੱਬ ਐਪਸ ਨਹੀਂ ਲੱਭੀ">
+
+<!ENTITY choose_file "Choose File">
 
