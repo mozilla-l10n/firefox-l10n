@@ -20,7 +20,7 @@
 <!ENTITY safeb.blocked.malwarePage.shortDesc "This web page at <span id='malware_sitename'/> has been reported as an attack page and has been blocked based on your security preferences.">
 <!ENTITY safeb.blocked.malwarePage.longDesc "<p>Attack pages try to install programs that steal private information, use your computer to attack others, or damage your system.</p><p>Some attack pages intentionally distribute harmful software, but many are compromised without the knowledge or permission of their owners.</p>">
 
-<!ENTITY safeb.blocked.phishingPage.title "ਰਿਪੋਰਟ ਕੀਤੀ ਗਈ ਵੈੱਬ ਧੋਖਾਧੜੀ!">
-<!-- Localization note (safeb.blocked.phishing.shortDesc) - Please don't translate the contents of the <span id="phishing_sitename"/> tag. It will be replaced at runtime with a domain name (e.g. www.badsite.com) -->
-<!ENTITY safeb.blocked.phishingPage.shortDesc "This web page at <span id='phishing_sitename'/> has been reported as a web forgery and has been blocked based on your security preferences.">
-<!ENTITY safeb.blocked.phishingPage.longDesc "<p>Web forgeries are designed to trick you into revealing personal or financial information by imitating sources you may trust.</p><p>Entering any information on this web page may result in identity theft or other fraud.</p>">
+
+<!ENTITY safeb.blocked.phishingPage.title2 "ਸ਼ੱਕੀ ਵੈੱਬ ਧੋਖਾਧੜੀ!">
+<!ENTITY safeb.blocked.phishingPage.shortDesc2 "ਇਸ ਸਫ਼ੇ ਉੱਤੇ ਦੇਣ ਨਾਲ ਕੋਈ ਵੀ ਨਿੱਜੀ ਜਾਣਕਾਰੀ ਦੇ ਨਤੀਜੇ ਵਜੋਂ ਪਛਾਣ ਚੋਰੀ ਹੋਣ ਜਾਂ ਹੋਰ ਕੋਈ ਗੜਬੜ ਹੋਣ ਦਾ ਖਤਰਾ ਹੈ।">
+<!ENTITY safeb.blocked.phishingPage.longDesc2 "<p>These types of web forgeries are used in scams known as phishing attacks, in which fraudulent web pages and emails are used to imitate sources you may trust.</p>">

@@ -7,6 +7,7 @@
 <!ENTITY go.label              "ਜਾਓ">
 <!ENTITY star.label            "ਤਾਰਾ">
 
+<!ENTITY showTabs.label        "ਟੈਬ ਵੇਖਾਓ">
 <!ENTITY newtab.label          "ਨਵੀਂ ਟੈਬ">
 <!ENTITY closetab.label        "ਟੈਬ ਬੰਦ ਕਰੋ">
 
@@ -15,13 +16,14 @@
 <!ENTITY copyAll.label         "ਸਭ ਕਾਪੀ ਕਰੋ">
 <!ENTITY copylink.label        "ਲਿੰਕ ਟਿਕਾਣਾ ਕਾਪੀ ਕਰੋ">
 <!ENTITY paste.label           "ਚੇਪੋ">
+<!ENTITY pasteAndGo.label      "ਚੇਪੋ &amp; ਜਾਓ">
 <!ENTITY delete.label          "ਹਟਾਓ">
 <!ENTITY selectAll.label       "ਸਭ ਚੁਣੋ">
 <!ENTITY noSuggestions.label   "(ਕੋਈ ਸੁਝਾਅ ਨਹੀਂ)">
 <!ENTITY addToDictionary.label "ਡਿਕਸ਼ਨਰੀ 'ਚ ਸ਼ਾਮਲ">
 <!ENTITY inputMethod.label     "ਇੰਪੁੱਟ ਢੰਗ ਚੁਣੋ">
 
-<!ENTITY allPagesHeader.label      "ਸਭ ਸਫ਼ੇ">
+<!ENTITY allPagesHeader.label      "ਸਭ ਪੇਜ਼">
 <!ENTITY bookmarksHeader.label     "ਬੁੱਕਮਾਰਕ">
 <!ENTITY historyHeader.label       "ਅਤੀਤ">
 <!ENTITY desktopHeader.label       "ਡੈਸਕਟਾਪ">
@@ -68,9 +70,11 @@
 <!ENTITY bookmarkPopup.label       "ਬੁੱਕਮਾਰਕ ਕੀਤੇ ਸਫ਼ੇ">
 <!ENTITY bookmarkRemove.label      "ਹਟਾਓ">
 <!ENTITY bookmarkEdit.label        "ਸੋਧ">
+<!ENTITY bookmarkShortcut.label    "ਘਰ ਸਕਰੀਨ ਵਿੱਚ ਜੋੜੋ">
 
-<!ENTITY identity.unverifiedsite2 "This web site does not supply identity information.">
-<!ENTITY identity.connectedTo2 "Connected to">
+
+<!ENTITY identity.unverifiedsite2 "ਇਹ ਵੈੱਬ ਸਾਇਟ ਪਛਾਣ ਜਾਣਕਾਰੀ ਨਹੀਂ ਦਿੰਦੀ ਹੈ।">
+<!ENTITY identity.connectedTo2 "ਕੁਨੈਕਟ ਹੈ">
 <!-- Localization note (identity.runBy2)
  The layout of the identity dialog prevents combining this into a single string with
  substitution variables.  If it is difficult to translate the sense of the string
@@ -93,6 +97,7 @@
 <!ENTITY contextOpenInNewTab.label    "ਲਿੰਕ ਨਵੀਂ ਟੈਬ 'ਚ ਖੋਲ੍ਹੋ">
 <!ENTITY contextSaveLink.label        "ਲਿੰਕ ਸੰਭਾਲੋ">
 <!ENTITY contextSaveImage.label       "ਚਿੱਤਰ ਸੰਭਾਲੋ">
+<!ENTITY contextCopyLink.label        "ਲਿੰਕ ਕਾਪੀ ਕਰੋ">
 <!ENTITY contextShareLink.label       "ਲਿੰਕ ਸਾਂਝਾ ਕਰੋ">
 <!ENTITY contextBookmarkLink.label    "ਲਿੰਕ ਬੁੱਕਮਾਰਕ ਕਰੋ">
 <!ENTITY contextShareImage.label      "ਚਿੱਤਰ ਸਾਂਝਾ ਕਰੋ">
@@ -103,6 +108,8 @@
 <!ENTITY contextFullScreen.label      "ਪੂਰੀ ਸਕਰੀਨ">
 <!ENTITY contextEditBookmark.label    "ਸੋਧ">
 <!ENTITY contextRemoveBookmark.label  "ਹਟਾਓ">
+<!ENTITY contextShortcutBookmark.label "ਘਰ ਸਕਰੀਨ ਵਿੱਚ ਸ਼ਾਮਲ">
+
 
 <!ENTITY pageactions.saveas.pdf      "PDF ਵਜੋਂ ਸੰਭਾਲੋ">
 <!ENTITY pageactions.share.page      "ਸਫ਼ਾ ਸਾਂਝਾ ਕਰੋ">
@@ -112,5 +119,6 @@
 <!ENTITY pageactions.findInPage      "ਸਫ਼ੇ 'ਚ ਲੱਭੋ">
 <!ENTITY pageactions.search.addNew   "ਖੋਜ ਇੰਜਣ ਸ਼ਾਮਲ">
 <!ENTITY pageactions.charEncoding    "ਅੱਖਰ ਇੰਕੋਡਿੰਗ">
+<!ENTITY pageactions.webapps.install "App ਵਜੋਂ ਇੰਸਟਾਲ ਕਰੋ">
 
 <!ENTITY appMenu.siteOptions         "ਸਾਈਟ ਚੋਣਾਂ">
