@@ -15,3 +15,5 @@
 <!ENTITY textZoomOnly.accesskey "в">
 <!ENTITY blockAutoRefresh.label "Папярэджваць мяне, калі пляцоўкі сеціва спрабуюць перанакіраваць ці абнавіць старонку">
 <!ENTITY blockAutoRefresh.accesskey "П">
+<!ENTITY siteSpecific.label "Памятаць узроўні павялічэння для пляцовак">
+<!ENTITY siteSpecific.accesskey "у">

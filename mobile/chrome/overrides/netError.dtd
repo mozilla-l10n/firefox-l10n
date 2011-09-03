@@ -3,20 +3,18 @@
 <!ENTITY loadError.label "Памылка загрузкі старонкі">
 <!ENTITY retry.label "Паспрабуйце зноў">
 <!ENTITY connectionFailure.title "Нельга злучыцца">
-<!ENTITY connectionFailure.longDesc "&sharedLongDesc;">
+<!ENTITY connectionFailure.longDesc "&sharedLongDesc2;">
 <!ENTITY deniedPortAccess.title "Гэты адрас абмежаваны">
 <!ENTITY deniedPortAccess.longDesc "">
 <!ENTITY dnsNotFound.title "Паслугач не знойдзены">
-<!ENTITY dnsNotFound.longDesc "
+<!ENTITY dnsNotFound.longDesc2 "
 <ul>
-  <li>Праверце адрас. Магчыма, вы зрабілі памылку падчас набору, як
+  <li>Праверце адрас на існаванне памылак, такіх як
     <strong>ww</strong>.example.com замест
     <strong>www</strong>.example.com</li>
-  <li>Праверце злучэнне вашага кампутара з сеткаю, калі вы не 
-     здольны загрузіць ніводную старонку.</li>
-  <li>Упэўніцеся, калі ваш кампутар або сетка абараняюцца сетказаслонаю ці 
-    пасярэднікам,  што &brandShortName; дазволена мець доступ у Сеціва.</li>
-</ul>">
+  <li>Калі вы не можаце загрузіць ніякую старонку, праверце здаткі вашай здудовы ці злучэнне Wi-Fi.</li>
+</ul>
+">
 <!ENTITY fileNotFound.title "Файл не знойдзены">
 <!ENTITY fileNotFound.longDesc "
 <ul>
@@ -37,7 +35,7 @@
 </ul>
 ">
 <!ENTITY netInterrupt.title "Злучэнне перарвана">
-<!ENTITY netInterrupt.longDesc "&sharedLongDesc;">
+<!ENTITY netInterrupt.longDesc "&sharedLongDesc2;">
 <!ENTITY netOffline.title "Пазасеткавы рэжым">
 <!ENTITY netOffline.longDesc2 "
 <ul>
@@ -57,9 +55,9 @@
 </ul>
 ">
 <!ENTITY netReset.title "Злучэнне скінута">
-<!ENTITY netReset.longDesc "&sharedLongDesc;">
+<!ENTITY netReset.longDesc "&sharedLongDesc2;">
 <!ENTITY netTimeout.title "Злучэнне па-за часам">
-<!ENTITY netTimeout.longDesc "&sharedLongDesc;">
+<!ENTITY netTimeout.longDesc "&sharedLongDesc2;">
 <!ENTITY protocolNotFound.title "Незразумелы адрас">
 <!ENTITY protocolNotFound.longDesc "
 <ul>
@@ -74,13 +72,12 @@
     паслугач-пасярэднік працуе.</li>
 </ul>">
 <!ENTITY proxyResolveFailure.title "Немагчыма знайсці паслугач-пасярэднік">
-<!ENTITY proxyResolveFailure.longDesc "
+<!ENTITY proxyResolveFailure.longDesc2 "
 <ul>
-  <li>Упэўніцеся, што наладжванні пасярэдніка правільныя.</li>
-  <li>Упэўніцеся, што злучэнне вашага кампутара з сеткаю працуе.</li>
-  <li>Упэўніцеся, калі ваш кампутар або сетка абараняюцца сетказаслонаю ці 
-    пасярэднікам,  што &brandShortName; дазволена мець доступ у Сеціва.</li>
-</ul>">
+  <li>Праверце наладжванні пасярэдніка, каб упэўніцца, што яны правільныя.</li>
+  <li>Праверце, што працуюць здаткі вашай збудовы і злучэнне Wi-Fi.</li>
+</ul>
+">
 <!ENTITY redirectLoop.title "Старонка няправільна перанакіроўваецца">
 <!ENTITY redirectLoop.longDesc "
 <ul>
@@ -112,25 +109,11 @@
 быць часовай, таму вы можаце паспрабаваць ізноў пасля.</li>
 </ul>
 ">
-<!ENTITY sharedLongDesc "
+<!ENTITY sharedLongDesc2 "
 <ul>
-  <li>Магчыма, пляцоўка часова недаступна або перагружана. Паспрабуйце
-    зноў трохі пазней.</li>
-  <li>Праверце злучэнне вашага кампутара з сеткаю, калі вы не здольны
-    загрузіць ніякую старонку.</li>
-  <li>Упэўніцеся, калі ваш кампутар або сетка абараняюцца сетказаслонаю ці 
-    пасярэднікам,  што &brandShortName; дазволена мець доступ у Сеціва.</li>
+  <li>Пляцоўка можа быць часова недаступнай ці занадта занятой. Паспрабуйце зноў праз некалькі хвілінаў.</li>
+  <li>Калі вы не можаце загрузіць ніякую старонку, праверце здаткі вашай здудовы ці злучэнне Wi-Fi.</li>
 </ul>
-">
-<!ENTITY malwareBlocked.title "Падазраецца як нападная пляцоўка!">
-<!ENTITY malwareBlocked.longDesc "
-<p>Нападныя пляцоўкі спрабуюць усталёўваць праграмы, якія крадуць асабістыя звесткі, скарыстоўваюць ваш кампутар, каб нападаць на іншыя, або псуюць вашу сістэму.</p>
-<p>Уладальнікі пляцовак сеціва, якія ўпэўнены, што іх пляцоўка была пазначана як нападная памылкова, могуць <a href='http://www.stopbadware.org/home/reviewinfo' >запрасіць перагляд</a>.</p>
-">
-<!ENTITY phishingBlocked.title "Падазроная, як сеціўная падробка!">
-<!ENTITY phishingBlocked.longDesc "
-<p>Увод усякіх асабістых звестак на гэтай старонцы прывядзе, магчыма, да крадзяжу адметы або іншага ашуканства.</p>
-<p>Гэтыя тыпы сеціўных падробак ужываюцца ў ашуках, вядомых як лоўлявыя напады, у якіх круцельскія старонкі сеціва і адрасы э-пошты выкарыстоўваюцца для імітавання крыніцаў, якім вы давяраеце.</p>
 ">
 <!ENTITY cspFrameAncestorBlocked.title "Затрымана палітыкай бяспекі змесціва">
 <!ENTITY cspFrameAncestorBlocked.longDesc "<p>&brandShortName; прадухіліў загрузку гэтай старонкі такім спосабам, бо палітыка бяспекі старонкі забараняе яго выкарыстанне.</p>">

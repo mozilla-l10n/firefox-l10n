@@ -3,9 +3,7 @@
 <!ENTITY feedback.feedback.title "Даць водгук">
 <!ENTITY feedback.feedback.good "Добра">
 <!ENTITY feedback.feedback.bad "Дрэнна">
-<!ENTITY feedback.information.title "Падрабязней">
-<!ENTITY feedback.about.title "Пра гэтую Бета">
-<!ENTITY feedback.about.button "Перайсці на старонку">
 <!ENTITY feedback.tools.title "Прылады">
+<!ENTITY feedback.allowTelemetry.title "Дасыланне здаткаў працавыніковасці">
 <!ENTITY feedback.forceCompat.title "Прымусовая сумяшчальнасць дадаткаў">
 <!ENTITY feedback.errorConsole.title "Дазволіць кансоль памылак">

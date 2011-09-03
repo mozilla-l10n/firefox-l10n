@@ -5,6 +5,7 @@
 <!ENTITY stop.label "Прыпыніць">
 <!ENTITY go.label "Пайсці">
 <!ENTITY star.label "Зорка">
+<!ENTITY showTabs.label "Паказаць устаўкі">
 <!ENTITY newtab.label "Новая ўстаўка">
 <!ENTITY closetab.label "Зачыніць устаўку">
 <!ENTITY cut.label "Выразаць">
@@ -12,6 +13,7 @@
 <!ENTITY copyAll.label "Скапіяваць усё">
 <!ENTITY copylink.label "Капіяваць месцазнаходжанне спасылкі">
 <!ENTITY paste.label "Уставіць">
+<!ENTITY pasteAndGo.label "Уставіць і пайсці">
 <!ENTITY delete.label "Выдаліць">
 <!ENTITY selectAll.label "Вылучыць усё">
 <!ENTITY noSuggestions.label "(няма прапановаў)">
@@ -56,6 +58,7 @@
 <!ENTITY bookmarkPopup.label "Закладзеная старонка">
 <!ENTITY bookmarkRemove.label "Выдаліць">
 <!ENTITY bookmarkEdit.label "Праўка">
+<!ENTITY bookmarkShortcut.label "Дадаць на хатні экран">
 <!ENTITY identity.unverifiedsite2 "Гэтая пляцоўка сеціва не мае звестак пра адмету.">
 <!ENTITY identity.connectedTo2 "Злучаны з">
 <!ENTITY identity.runBy2 "выконваецца">
@@ -73,6 +76,7 @@
 <!ENTITY contextOpenInNewTab.label "Адкрыць спасылку ў новай устаўцы">
 <!ENTITY contextSaveLink.label "Захаваць спасылку">
 <!ENTITY contextSaveImage.label "Захаванне выявы">
+<!ENTITY contextCopyLink.label "Скапіяваць спасылку">
 <!ENTITY contextShareLink.label "Падзяліцца спасылкай">
 <!ENTITY contextShareImage.label "Падзяліцца выявай">
 <!ENTITY contextBookmarkLink.label "Закласці спасылку">
@@ -83,6 +87,7 @@
 <!ENTITY contextFullScreen.label "Увесь экран">
 <!ENTITY contextEditBookmark.label "Правіць">
 <!ENTITY contextRemoveBookmark.label "Выдаліць">
+<!ENTITY contextShortcutBookmark.label "Дадаць на хатні экран">
 <!ENTITY pageactions.saveas.pdf "Захаваць як PDF">
 <!ENTITY pageactions.share.page "Падзяліцца старонкай">
 <!ENTITY pageactions.password.forget "Забыць пароль">
@@ -91,4 +96,5 @@
 <!ENTITY pageactions.findInPage "Знайсці на старонцы">
 <!ENTITY pageactions.search.addNew "Дадаць машыну пошуку">
 <!ENTITY pageactions.charEncoding "Кадоўка знакаў">
+<!ENTITY pageactions.webapps.install "Усталяваць як прыстасаванне">
 <!ENTITY appMenu.siteOptions "Наладжванні пляцоўкі">

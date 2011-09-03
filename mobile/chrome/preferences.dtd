@@ -5,10 +5,10 @@
 <!ENTITY reflowZoom.title "Перафарматаваць тэкст пасля павялічэння">
 <!ENTITY showImages.title "Паказваць выявы">
 <!ENTITY enableJavaScript.title "Дазволіць JavaScript">
-<!ENTITY enablePlugins.title "Дазволіць убудовы">
 <!ENTITY privacy.title "Адасабленне і бяспека">
 <!ENTITY allowCookies.title "Дазволіць біркі">
 <!ENTITY doNotTrack.title "Забараняць сеціўным пляцоўкам сачыць за мною">
+<!ENTITY masterPassword.title "Ужываць галоўны пароль">
 <!ENTITY clearPrivateData2.title "Ачысціць асабістыя звесткі">
 <!ENTITY clearPrivateData.button "Ачысціць">
 <!ENTITY rememberPasswords.title "Памятаць паролі">
@@ -20,4 +20,4 @@
 <!ENTITY homepage.none "Пустая старонка">
 <!ENTITY homepage.default "&brandShortName;: У пачатку">
 <!ENTITY homepage.currentpage "Цяперашняя старонка">
-<!ENTITY showCharset.title "Паказаць кадоўку знакаў">
+<!ENTITY showCharsetEncoding.title "Паказаць кадоўку знакаў">

@@ -5,8 +5,9 @@
 <!ENTITY editBookmarkOverlay.feedLocation.label "Месцазнаходжанне жывільніка:">
 <!ENTITY editBookmarkOverlay.feedLocation.accesskey "ж">
 <!ENTITY editBookmarkOverlay.siteLocation.label "Месцазнаходжанне пляцоўкі:">
-<!ENTITY editBookmarkOverlay.siteLocation.accesskey "п">
+<!ENTITY editBookmarkOverlay.siteLocation.accesskey "ц">
 <!ENTITY editBookmarkOverlay.folder.label "Папка:">
+<!ENTITY editBookmarkOverlay.folder.accesskey "П">
 <!ENTITY editBookmarkOverlay.foldersExpanderDown.tooltip "Паказаць усе папкі закладак">
 <!ENTITY editBookmarkOverlay.expanderUp.tooltip "Схаваць">
 <!ENTITY editBookmarkOverlay.tags.label "Тэгі:">

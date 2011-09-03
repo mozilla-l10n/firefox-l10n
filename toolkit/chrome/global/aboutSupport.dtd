@@ -16,6 +16,7 @@
 <!ENTITY aboutSupport.appBasicsEnabledPlugins "Дазволеныя ўбудовы">
 <!ENTITY aboutSupport.appBasicsBuildConfig "Наладкі пабудовы">
 <!ENTITY aboutSupport.appBasicsUserAgent "Дзеяч карыстальніка">
+<!ENTITY aboutSupport.appBasicsCrashIDs "Справаздачы пра крахі">
 <!ENTITY aboutSupport.show.label "Адкрыць змяшчальную папку">
 <!ENTITY aboutSupport.showMac.label "Паказаць у шукальніку">
 <!ENTITY aboutSupport.modifiedPrefsTitle "Змененыя перавагі">
