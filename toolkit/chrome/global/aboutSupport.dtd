@@ -20,6 +20,7 @@
 <!ENTITY aboutSupport.appBasicsEnabledPlugins "Aktive plugins">
 <!ENTITY aboutSupport.appBasicsBuildConfig "Byggekonfiguration">
 <!ENTITY aboutSupport.appBasicsUserAgent "User Agent">
+<!ENTITY aboutSupport.appBasicsCrashIDs "Fejlrapporter">
 
 <!ENTITY aboutSupport.show.label "Åbn mappe">
 
