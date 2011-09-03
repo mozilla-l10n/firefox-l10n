@@ -20,6 +20,7 @@
 <!ENTITY editMessageButton.label "Праўка…">
 <!ENTITY hdrArchiveButton.label "архіў">
 <!ENTITY hdrArchiveButton.tooltip "архіваваць гэты ліст">
+<!ENTITY hdrSmartReplyButton.label "кемны адказ">
 <!ENTITY hdrReplyButton.label "адказаць">
 <!ENTITY hdrReplyButton.tooltip "адказаць на гэты ліст">
 <!ENTITY hdrReplyAllButton.label "адказаць усім">

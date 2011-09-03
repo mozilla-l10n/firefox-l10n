@@ -6,9 +6,9 @@
 <!ENTITY manageAccount.label "Кіраваць рахункам">
 <!ENTITY manageAccount.accesskey "р">
 <!ENTITY viewQuota.label "Прагледзець абмежаванне">
-<!ENTITY changePassword.label "Змяніць пароль">
+<!ENTITY changePassword2.label "Змяніць пароль…">
 <!ENTITY mySyncKey.label "Мой ключ Sync">
-<!ENTITY resetSync.label "Узнавіць сінхранізацыю">
+<!ENTITY resetSync2.label "Узнавіць сінхранізацыю…">
 <!ENTITY addDevice.label "Дадаць збудову">
 <!ENTITY syncMy.label "Сінхранізаваць мае">
 <!ENTITY engine.bookmarks.label "Закладкі">
@@ -23,6 +23,6 @@
 <!ENTITY engine.prefs.accesskey "в">
 <!ENTITY syncComputerName.label "Назва кампутара:">
 <!ENTITY syncComputerName.accesskey "к">
-<!ENTITY deactivateDevice.label "Абяздзейніць гэтую збудову">
+<!ENTITY unlinkDevice.label "Разлучыцца з гэтай збудовай">
 <!ENTITY prefs.tosLink.label "Умовы абслугоўвання">
 <!ENTITY prefs.ppLink.label "Палітыка адасаблення">

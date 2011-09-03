@@ -6,5 +6,3 @@
 <!ENTITY zoomReduceCmd.accesskey "М">
 <!ENTITY zoomReduceCmd.commandkey "-">
 <!ENTITY zoomResetCmd.commandkey "0">
-<!ENTITY zoomMenu.accesskey "п">
-<!ENTITY zoomOtherCmd.accesskey "І">

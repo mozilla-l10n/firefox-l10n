@@ -208,6 +208,8 @@
 <!ENTITY bodySanitized.accesskey "П">
 <!ENTITY bodyAsPlaintext.label "Просты тэкст">
 <!ENTITY bodyAsPlaintext.accesskey "Т">
+<!ENTITY bodyAllParts.label "Усе часткі цела">
+<!ENTITY bodyAllParts.accesskey "У">
 <!ENTITY bodyMenuFeed.label "Жывіць цела ліста як">
 <!ENTITY bodyMenuFeed.accesskey "я">
 <!ENTITY viewFeedWebPage.label "Старонку Сеціва">

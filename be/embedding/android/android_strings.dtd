@@ -13,3 +13,6 @@
 <!ENTITY sending_crash_report "Дасыланне справаздачы пра крах\u2026">
 <!ENTITY exit_label "Выйсці">
 <!ENTITY continue_label "Працягнуць">
+<!ENTITY launcher_shortcuts_title "Сеціўныя прыстасаванні &brandShortName;">
+<!ENTITY launcher_shortcuts_empty "Сеціўныя прыстасаванні не знойдзены">
+<!ENTITY choose_file "Выбар файла">

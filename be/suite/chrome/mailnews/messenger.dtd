@@ -198,6 +198,8 @@
 <!ENTITY bodySanitized.accesskey "П">
 <!ENTITY bodyAsPlaintext.label "Просты тэкст">
 <!ENTITY bodyAsPlaintext.accesskey "Т">
+<!ENTITY bodyAllParts.label "Усе часткі цела">
+<!ENTITY bodyAllParts.accesskey "У">
 <!ENTITY bodyMenuFeed.label "Жывіць цела ліста як">
 <!ENTITY bodyMenuFeed.accesskey "я">
 <!ENTITY viewFeedWebPage.label "Старонку Сеціва">
@@ -216,16 +218,6 @@
 <!ENTITY pageSourceCmd.accesskey "ы">
 <!ENTITY pageSourceCmd.key "u">
 <!ENTITY findCmd.label "Знайсці ў гэтым лісце…">
-<!ENTITY findCmd.accesskey "З">
-<!ENTITY findCmd.key "f">
-<!ENTITY findAgainCmd.label "Знайсці зноў">
-<!ENTITY findAgainCmd.accesskey "ў">
-<!ENTITY findAgainCmd.key "g">
-<!ENTITY findAgainCmd.key2 "VK_F3">
-<!ENTITY findPrevCmd.label "Знайсці папярэдні">
-<!ENTITY findPrevCmd.accesskey "я">
-<!ENTITY findPrevCmd.key "g">
-<!ENTITY findPrevCmd.key2 "VK_F3">
 <!ENTITY goMenu.label "Рух">
 <!ENTITY goMenu.accesskey "р">
 <!ENTITY nextMenu.label "Наступны">

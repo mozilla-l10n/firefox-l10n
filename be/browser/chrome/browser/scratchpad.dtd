@@ -62,4 +62,3 @@
 <!ENTITY webConsoleCmd.label "Кансоль Сеціва">
 <!ENTITY webConsoleCmd.accesskey "С">
 <!ENTITY webConsoleCmd.commandkey "k">
-<!ENTITY textbox.placeholder1 "// Увядзіце які JavaScript, вылучыце яго, правы пстрык і выберыце Выканаць, Даследаваць або Адлюстраваць.">

@@ -17,8 +17,9 @@
 <!ENTITY quickFilterBar.resultsLabel.none "Няма вынікаў">
 <!ENTITY quickFilterBar.resultsLabel.minWidth "110">
 <!ENTITY quickFilterBar.textbox.emptyText.base "Сітаванне гэтых лістоў... #1">
-<!ENTITY quickFilterBar.textbox.emptyText.keyLabel.nonmac "&lt;Ctrl+F&gt;">
-<!ENTITY quickFilterBar.textbox.emptyText.keyLabel1.mac "&lt;⌘F&gt;">
+<!ENTITY quickFilterBar.show.key2 "k">
+<!ENTITY quickFilterBar.textbox.emptyText.keyLabel2.nonmac "&lt;Ctrl+Shift+K&gt;">
+<!ENTITY quickFilterBar.textbox.emptyText.keyLabel2.mac "&lt;⇧⌘K&gt;">
 <!ENTITY quickFilterBar.textbox.idealWidth "340">
 <!ENTITY quickFilterBar.textbox.minWidth "300">
 <!ENTITY quickFilterBar.textFilter.explanation.label "Сітаваць лісты па:">

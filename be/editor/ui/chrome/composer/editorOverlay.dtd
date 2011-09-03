@@ -69,9 +69,6 @@
 <!ENTITY printCmd.label "Друкаваць…">
 <!ENTITY printCmd.accesskey "Д">
 <!ENTITY printCmd.key "P">
-<!ENTITY closeCmd.label "Зачыніць">
-<!ENTITY closeCmd.accesskey "ч">
-<!ENTITY closeCmd.key "W">
 <!ENTITY editMenu.label "Праўка">
 <!ENTITY editMenu.accesskey "П">
 <!ENTITY pasteNoFormatting.label "Уставіць без фарматавання">
@@ -85,17 +82,6 @@
 <!ENTITY pasteAsQuotationCmd.accesskey "в">
 <!ENTITY pasteAsQuotationCmd.key "o">
 <!ENTITY findCmd.label "Знайсці і замяніць…">
-<!ENTITY findCmd.accesskey "З">
-<!ENTITY findCmd.key "F">
-<!ENTITY findCmd.key2 "VK_F19">
-<!ENTITY findAgainCmd.label "Знайсці зноў">
-<!ENTITY findAgainCmd.accesskey "ў">
-<!ENTITY findAgainCmd.key "G">
-<!ENTITY findAgainCmd.key2 "VK_F3">
-<!ENTITY findPrevCmd.label "Знайсці папярэдні">
-<!ENTITY findPrevCmd.accesskey "я">
-<!ENTITY findPrevCmd.key "G">
-<!ENTITY findPrevCmd.key2 "VK_F3">
 <!ENTITY enableInlineSpellChecker.label "Праверка правапісу падчас набору">
 <!ENTITY enableInlineSpellChecker.accesskey "П">
 <!ENTITY checkSpellingCmd2.label "Праверыць правапіс">
@@ -129,22 +115,6 @@
 <!ENTITY createLinkCmd.accesskey "ы">
 <!ENTITY editLinkCmd.label "Рэдагаваць спасылку ў новым Укладальніку.">
 <!ENTITY editLinkCmd.accesskey "ў">
-<!ENTITY undoCmd.label "Адмяніць">
-<!ENTITY undoCmd.accesskey "А">
-<!ENTITY redoCmd.label "Вярнуць">
-<!ENTITY redoCmd.accesskey "В">
-<!ENTITY cutCmd.label "Выразаць">
-<!ENTITY cutCmd.accesskey "р">
-<!ENTITY copyCmd.label "Капіяваць">
-<!ENTITY copyCmd.accesskey "К">
-<!ENTITY pasteCmd.label "Уставіць">
-<!ENTITY pasteCmd.accesskey "У">
-<!ENTITY deleteCmd.label "Выдаліць">
-<!ENTITY deleteCmd.accesskey "д">
-<!ENTITY clearCmd.label "Ачысціць">
-<!ENTITY clearCmd.accesskey "ч">
-<!ENTITY selectAllCmd.label "Вылучыць усё">
-<!ENTITY selectAllCmd.accesskey "у">
 <!ENTITY FontFaceSelect.tooltip "Выбраць шрыфт">
 <!ENTITY fontfaceMenu.label "Шрыфт">
 <!ENTITY fontfaceMenu.accesskey "Ш">
@@ -348,6 +318,9 @@
 <!ENTITY openToolbarCmd.tooltip "Адчыніць мясцовы файл">
 <!ENTITY saveToolbarCmd.tooltip "Захаваць файл мясцова">
 <!ENTITY publishToolbarCmd.tooltip "Перадаць файл у адлеглае месца">
+<!ENTITY cutToolbarCmd.tooltip "Выразаць">
+<!ENTITY copyToolbarCmd.tooltip "Капіяваць">
+<!ENTITY pasteToolbarCmd.tooltip "Уставіць">
 <!ENTITY printToolbarCmd.label "Друкаваць">
 <!ENTITY printToolbarCmd.tooltip "Надрукаваць гэтую старонку">
 <!ENTITY findToolbarCmd.label "Знайсці">
