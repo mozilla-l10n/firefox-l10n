@@ -14,7 +14,7 @@
 <!ENTITY manageAccount.accesskey "S">
 <!ENTITY viewQuota.label "Zobrazit kvótu">
 <!ENTITY changePassword2.label "Změnit heslo…">
-<!ENTITY mySyncKey.label "Můj klíč">
+<!ENTITY myRecoveryKey.label "Obnovovací klíč">
 <!ENTITY resetSync2.label "Změnit typ synchronizace…">
 
 <!ENTITY addDevice.label "Přidat zařízení">
