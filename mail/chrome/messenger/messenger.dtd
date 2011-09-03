@@ -405,9 +405,9 @@ you can use these alternative items. Otherwise, their values should be empty.  -
 <!ENTITY tagCmd9.key "9">
 <!ENTITY markMenu.label "Označi">
 <!ENTITY markMenu.accesskey "O">
+<!ENTITY toggleReadCmd.key "č">
 <!ENTITY markAsReadCmd.label "Kot prebrano">
-<!ENTITY markMenu.accesskey "k">
-<!ENTITY toggleReadCmd.key "p">
+<!ENTITY markAsReadCmd.accesskey "p">
 <!ENTITY markAsUnreadCmd.label "Kot neprebrano">
 <!ENTITY markAsUnreadCmd.accesskey "n">
 <!ENTITY markThreadAsReadCmd.label "Nit kot prebrano">

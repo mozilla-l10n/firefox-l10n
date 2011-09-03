@@ -15,7 +15,7 @@
 <!-- LOCALIZATION NOTE (select.action.style): Should be a width wide enough for
      the action strings in selectAddons.properties or brandShortName. -->
 <!ENTITY select.action.style         "width: 35ch;">
-<!ENTITY select.source               "Namestil"
+<!ENTITY select.source               "Namestil">
 <!ENTITY select.name                 "Ime">
 <!-- LOCALIZATION NOTE (select.name.style): Should be a width small enough so
      the source column still has enough room for the source strings in
@@ -25,7 +25,7 @@
 <!ENTITY confirm.heading             "Izberite svoje dodatke">
 <!-- LOCALIZATION NOTE (confirm.description): The term used for "third parties"
      here should match the string source.other in selectAddons.properties. -->
-<!ENTITY confirm.description         "brandShortName; lahko še pospešite, če onemogočite dodatke, ki jih ne rabite več. Že nameščene Dodatke iz tretje roke se bo samodejno onesposobilo, če jih spodaj ne izberete."
+<!ENTITY confirm.description         "brandShortName; lahko še pospešite, če onemogočite dodatke, ki jih ne rabite več. Že nameščene Dodatke iz tretje roke se bo samodejno onesposobilo, če jih spodaj ne izberete.">
 <!ENTITY action.disable.heading      "Naslednje dodatke se bo onemogočilo:">
 <!ENTITY action.incompatible.heading "Naslednje dodatke se bo onemogočilo, vedar bodo znova omogočeni, ko bo na razpolago skladna različica:">
 <!ENTITY action.update.heading       "Naslednje dodatke se bo posodobilo:">
