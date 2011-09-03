@@ -87,6 +87,9 @@
 <!-- These controls are in the Link Box -->
 <!ENTITY showImageLinkBorder.label "Mettre un cadre autour de l'image (lien)">
 <!ENTITY showImageLinkBorder.accessKey "c">
+<!ENTITY LinkAdvancedEditButton.label "Propriétés avancées de lien…">
+<!ENTITY LinkAdvancedEditButton.accessKey "P">
+<!ENTITY LinkAdvancedEditButton.tooltip "Ajouter ou modifier des attributs HTML, des attributs de style et du JavaScript">
 
 <!-- These tabs are currently used in the image input dialog -->
 <!ENTITY imageInputTab.label "Formulaire">
