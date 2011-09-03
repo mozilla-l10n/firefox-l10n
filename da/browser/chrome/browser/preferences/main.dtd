@@ -5,6 +5,9 @@
 <!ENTITY startupHomePage.label     "Vis min startside">
 <!ENTITY startupBlankPage.label    "Vis en blank side">
 <!ENTITY startupLastSession.label  "Vis mine vinduer og faneblade fra sidste gang">
+<!ENTITY restoreOnDemand.label     "Indlæs ikke faneblade før de vælges">
+<!ENTITY restoreOnDemand.accesskey "I">
+
 <!ENTITY homepage.label            "Startside:">
 <!ENTITY homepage.accesskey        "S">
 <!ENTITY useCurrentPage.label      "Anvend nuværende side">
