@@ -555,9 +555,9 @@ just addresses the organization to follow, e.g. "This site is run by " -->
 <!ENTITY syncBrand.shortName.label  "Usklajevanje">
 
 <!ENTITY syncSetup.label              "&syncBrand.shortName.label; …">
-<!ENTITY syncSetup.accesskey          "i">
+<!ENTITY syncSetup.accesskey          "u">
 <!ENTITY syncSyncNowItem.label        "Uskladi zdaj">
-<!ENTITY syncSyncNowItem.accesskey    "j">
+<!ENTITY syncSyncNowItem.accesskey    "u">
 <!ENTITY syncToolbarButton.label      "Uskladi">
 
 <!ENTITY addonBarCloseButton.tooltip  "Zapri vrstico dodatkov">
