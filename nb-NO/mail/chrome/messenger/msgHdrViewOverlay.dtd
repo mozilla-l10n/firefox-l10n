@@ -42,7 +42,7 @@
 <!ENTITY replyToField2.label "svar-til ">
 
 <!ENTITY subjectField2.label "emne ">
-<!--# LOCALIZATION NOTE (ccField.label): DONT_TRANSLATE -->
+<!--# LOCALIZATION NOTE (ccField2.label): DONT_TRANSLATE -->
 <!ENTITY ccField2.label "kopi ">
 <!ENTITY bccField2.label "blind kopi ">
 <!ENTITY newsgroupsField2.label "gruppe ">
@@ -59,6 +59,7 @@
 <!ENTITY editMessageButton.label "Rediger …">
 <!ENTITY hdrArchiveButton.label "arkiver">
 <!ENTITY hdrArchiveButton.tooltip "arkiver denne meldingen">
+<!ENTITY hdrSmartReplyButton.label "smart-svar">
 <!ENTITY hdrReplyButton.label "svar">
 <!ENTITY hdrReplyButton.tooltip "svar på denne meldingen">
 <!ENTITY hdrReplyAllButton.label "svar til alle">
