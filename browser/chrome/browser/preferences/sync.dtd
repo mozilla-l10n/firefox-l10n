@@ -14,7 +14,7 @@
 <!ENTITY manageAccount.accesskey      "e">
 <!ENTITY viewQuota.label              "Vis plasskvote">
 <!ENTITY changePassword.label         "Endre passord">
-<!ENTITY mySyncKey.label              "Endre Sync-nøkkel">
+<!ENTITY mySyncKey.label              "Min Sync-nøkkel">
 <!ENTITY resetSync.label              "Tilbakestill Sync">
 <!ENTITY addDevice.label              "Legg til en enhet">
 

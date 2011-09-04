@@ -25,7 +25,7 @@
 <!ENTITY  found.enableXPInstall.accesskey "T">
 
 <!ENTITY  installing.wizard.title         "Installerer oppdateringer">
-<!ENTITY  installing.top.label            "Laster ned og installerer nå oppdateringene …">
+<!ENTITY  installing.top.label            "Laster ned og installerer oppdateringer for utvidelser …">
 
 <!ENTITY  noupdates.wizard.title          "Ingen oppdateringer funnet">
 <!ENTITY  noupdates.intro.desc            "&brandShortName; klarte ikke å finne 
