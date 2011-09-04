@@ -9,9 +9,6 @@
 <!ENTITY closeTabCmd2.accesskey "L">
 <!ENTITY closeOtherTabsCmd2.label "Lukk andre faner">
 <!ENTITY closeOtherTabsCmd2.accesskey "u">
-<!-- LOCALIZATION NOTE (undoCloseTabCmd.label):
-     Menu option to attempt to re-open a recently closed tab.
-     -->
 <!ENTITY recentlyClosedTabsCmd.label "Nylig lukkede faner">
 <!ENTITY recentlyClosedTabsCmd.accesskey "N">
 
@@ -227,6 +224,8 @@
 <!ENTITY bodySanitized.accesskey "E">
 <!ENTITY bodyAsPlaintext.label "Ren tekst">
 <!ENTITY bodyAsPlaintext.accesskey "R">
+<!ENTITY bodyAllParts.label "Alle body-deler">
+<!ENTITY bodyAllParts.accesskey "A">
 
 <!ENTITY bodyMenuFeed.label "Vis nyhetskilde-meldingskroppen som">
 <!ENTITY bodyMenuFeed.accesskey "s">
@@ -349,7 +348,7 @@ you can use these alternative items. Otherwise, their values should be empty.  -
 <!ENTITY replyNewsgroupCmd.label "Svar til nyhetsgruppe">
 <!ENTITY replyNewsgroupCmd.accesskey  "y">
 <!ENTITY replyToAllMsgCmd.label "Svar til alle">
-<!ENTITY replyToAllMsgCmd.accesskey "t">
+<!ENTITY replyToAllMsgCmd.accesskey  "t">
 <!ENTITY replyToAllMsgCmd.key  "r">
 <!ENTITY replyToListMsgCmd.label "Svar til liste">
 <!ENTITY replyToListMsgCmd.accesskey  "l">
