@@ -12,7 +12,7 @@
 <!ENTITY manageAccount.accesskey      "r">
 <!ENTITY viewQuota.label              "Wyświetl limity">
 <!ENTITY changePassword2.label        "Zmień hasło…">
-<!ENTITY mySyncKey.label              "Mój klucz Sync">
+<!ENTITY myRecoveryKey.label          "Mój klucz odzyskiwania">
 <!ENTITY resetSync2.label             "Resetuj synchronizację…">
 <!ENTITY addDevice.label              "Dodaj urządzenie">
 
