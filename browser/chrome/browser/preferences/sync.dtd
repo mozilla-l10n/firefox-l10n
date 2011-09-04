@@ -34,7 +34,7 @@
 <!-- Device Settings -->
 <!ENTITY syncComputerName.label       "Ime računalnika:">
 <!ENTITY syncComputerName.accesskey   "r">
-<!ENTITY unlinkDevice.label           "Odstrani napravo">
+<!ENTITY unlinkDevice.label           "Odklopi napravo">
 
 <!-- Footer stuff -->
 <!ENTITY prefs.tosLink.label        "Pogoji uporabe">
