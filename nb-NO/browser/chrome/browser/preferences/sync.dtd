@@ -13,9 +13,10 @@
 <!ENTITY manageAccount.label          "Behandle konto">
 <!ENTITY manageAccount.accesskey      "e">
 <!ENTITY viewQuota.label              "Vis plasskvote">
-<!ENTITY changePassword.label         "Endre passord">
+<!ENTITY changePassword2.label         "Endre passord …">
 <!ENTITY mySyncKey.label              "Min Sync-nøkkel">
-<!ENTITY resetSync.label              "Tilbakestill Sync">
+<!ENTITY resetSync2.label              "Tilbakestill Sync …">
+
 <!ENTITY addDevice.label              "Legg til en enhet">
 
 <!ENTITY syncMy.label               "Synkroniser">
@@ -33,7 +34,7 @@
 <!-- Device Settings -->
 <!ENTITY syncComputerName.label       "Datamaskinnavn:">
 <!ENTITY syncComputerName.accesskey   "D">
-<!ENTITY deactivateDevice.label       "Deaktiver denne enheten">
+<!ENTITY unlinkDevice.label           "Fjern tilknytning til enheten">
 
 <!-- Footer stuff -->
 <!ENTITY prefs.tosLink.label        "Tjenestevilkår">
