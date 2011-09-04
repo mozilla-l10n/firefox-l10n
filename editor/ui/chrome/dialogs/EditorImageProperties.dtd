@@ -44,7 +44,7 @@
 
 <!-- These are in the Location tab panel -->
 <!ENTITY locationEditField.label "圖片位址 (URL):">
-<!ENTITY locationEditField.accessKey "g">
+<!ENTITY locationEditField.accessKey "L">
 <!ENTITY locationEditField.tooltip "輸入圖片檔的檔名路徑或網址">
 <!ENTITY title.label "提示文字:">
 <!ENTITY title.accessKey "T">
@@ -75,7 +75,7 @@
 <!ENTITY constrainCheckbox.tooltip "維護此圖片的長寬比">
 
 <!-- These controls are in the Image Map box of the expanded area -->
-<!ENTITY imagemapBox.label "圖片對應 Map">
+<!ENTITY imagemapBox.label "影像地圖">
 <!ENTITY removeImageMapButton.label "移除">
 <!ENTITY removeImageMapButton.accessKey "R">
 <!ENTITY editImageMapButton.label "編輯…">
@@ -101,6 +101,9 @@
 <!-- These controls are in the Link Box -->
 <!ENTITY showImageLinkBorder.label "在鏈結圖片外加框">
 <!ENTITY showImageLinkBorder.accessKey "B">
+<!ENTITY LinkAdvancedEditButton.label "進階編輯鏈結…">
+<!ENTITY LinkAdvancedEditButton.accessKey "L">
+<!ENTITY LinkAdvancedEditButton.tooltip "新增或編輯這個物件的 HTML 屬性、樣式資料，以及 JavaScript">
 
 <!-- These tabs are currently used in the image input dialog -->
 <!ENTITY imageInputTab.label "表單">
