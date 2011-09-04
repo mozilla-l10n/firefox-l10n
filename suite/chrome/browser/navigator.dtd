@@ -10,119 +10,29 @@
 <!-- LOCALIZATION NOTE (mainWindow.titlemodifiermenuseparator): DONT_TRANSLATE -->
 <!ENTITY mainWindow.titlemodifiermenuseparator " - ">
 
-<!ENTITY tabCmd.label "Fane">
-<!ENTITY tabCmd.accesskey "F">
-<!ENTITY tabCmd.commandkey "t">
-<!ENTITY openCmd.label "Åpne adresse …">
-<!ENTITY openCmd.accesskey "Å">
-<!ENTITY openCmd.commandkey "l">
-<!ENTITY openFileCmd.label "Åpne fil …">
-<!ENTITY openFileCmd.accesskey "p">
-<!ENTITY openFileCmd.commandkey "o">
-<!ENTITY recentTabs.label "Nylig lukkede faner">
-<!ENTITY recentTabs.accesskey "N">
-<!ENTITY recentTabs.commandkey "t">
-<!ENTITY recentWindows.label "Nylig lukkede vinduer">
-<!ENTITY recentWindows.accesskey "u">
-<!ENTITY recentWindows.commandkey "y">
 <!ENTITY editPageCmd.label "Rediger side">
 <!ENTITY editPageCmd.accesskey "R">
 <!ENTITY editPageCmd.commandkey "e">
 
-<!ENTITY uploadFile.label "Last opp fil …">
-<!ENTITY uploadFile.accesskey "L">
-
-<!ENTITY printSetupCmd.label "Utskriftsformat …">
-<!ENTITY printSetupCmd.accesskey "o">
 <!ENTITY printPreviewCmd.label "Forhåndsvis side">
 <!ENTITY printPreviewCmd.accesskey "v">
 <!ENTITY printCmd.label "Skriv ut …">
 <!ENTITY printCmd.accesskey "u">
 <!ENTITY printCmd.commandkey "p">
 
-<!ENTITY toolbarsCmd.label "Vis/skjul">
-<!ENTITY toolbarsCmd.accesskey "V">
 <!ENTITY navbarCmd.label "Navigasjonslinje">
 <!ENTITY navbarCmd.accesskey "N">
 <!ENTITY personalbarCmd.label "Personlig verktøylinje">
 <!ENTITY personalbarCmd.accesskey "P">
-<!ENTITY tabbarCmd.label "Fanelinje">
-<!ENTITY tabbarCmd.accesskey "F">
-<!ENTITY taskbarCmd.label "Statuslinje">
-<!ENTITY taskbarCmd.accesskey "S">
-<!ENTITY componentbarCmd.label "Komponentlinje">
-<!ENTITY componentbarCmd.accesskey "K">
 
-<!ENTITY useStyleSheetMenu.label "Bruk stilark">
-<!ENTITY useStyleSheetMenu.accesskey "B">
-<!ENTITY useStyleSheetNone.label "Ingen">
-<!ENTITY useStyleSheetNone.accesskey "I">
-<!ENTITY useStyleSheetPersistentOnly.label "Standard">
-<!ENTITY useStyleSheetPersistentOnly.accesskey "S">
-<!ENTITY pageSourceCmd.label "Kildekode">
-<!ENTITY pageSourceCmd.accesskey "K">
-<!ENTITY pageSourceCmd.commandkey "u">
-<!ENTITY pageInfoCmd.label "Sideinformasjon">
-<!ENTITY pageInfoCmd.accesskey "i">
-<!ENTITY pageInfoCmd.commandkey "i">
-<!ENTITY fullScreenCmd.label "Fullskjerm">
-<!ENTITY fullScreenCmd.accesskey "F">
-<!ENTITY translateMenu.label "Oversett siden">
-<!ENTITY translateMenu.accesskey "O">
-
-<!ENTITY closeOtherTabs.label "Lukk andre faner">
-<!ENTITY closeOtherTabs.accesskey "a">
 <!ENTITY closeWindow.label "Lukk vindu">
 <!ENTITY closeWindow.accesskey "V">
 
 <!ENTITY minimizeButton.tooltip       "Minimer">
 <!ENTITY restoreButton.tooltip        "Gjenopprett">
 
-<!ENTITY applyTheme.label	"Bruk tema"> 
-<!ENTITY applyTheme.accesskey	"r"> 
-<!ENTITY getNewThemesCmd.label "Hent flere temaer">
-<!ENTITY getNewThemesCmd.accesskey "H">
-<!ENTITY findOnCmd.label "Søk etter tekst …">
-<!ENTITY findOnCmd.accesskey "S">
-<!ENTITY findOnCmd.commandkey "f">
-<!ENTITY findAgainCmd.label "Søk etter neste">
-<!ENTITY findAgainCmd.accesskey "n">
-<!ENTITY findAgainCmd.commandkey "g">
-<!ENTITY findPrevCmd.label "Søk etter forrige">
-<!ENTITY findPrevCmd.accesskey "f">
-<!ENTITY findPrevCmd.commandkey "g">
-<!ENTITY findAgainCmd.commandkey2 "VK_F3">
-<!ENTITY findPrevCmd.commandkey2 "VK_F3">
-
-<!ENTITY searchInternetCmd.label "Søk på nettet">
-<!ENTITY searchInternetCmd.accesskey "ø">
-<!ENTITY searchInternet.commandKey "s">
-
-<!ENTITY clearPrivateDataCmd.label "Slett private data …">
-<!ENTITY clearPrivateDataCmd.accesskey "e">
-
-<!ENTITY goMenu.label "Gå">
-<!ENTITY goMenu.accesskey "G">
-<!ENTITY goHomeCmd.label "Hjem">
-<!ENTITY goHomeCmd.accesskey "H">
-<!ENTITY historyRestoreLastSession.label "Gjenopprett forrige programøkt">
-<!ENTITY historyRestoreLastSession.accesskey "G">
-
-<!ENTITY bookmarksMenu.label "Bokmerker">
-<!ENTITY bookmarksMenu.accesskey "B">
-<!ENTITY addCurPageCmd.label "Legg inn siden">
-<!ENTITY addCurPageCmd.accesskey "L">
-<!ENTITY addCurPageAsCmd.label "Arkiver …">
-<!ENTITY addCurPageAsCmd.accesskey "A">
-<!ENTITY addCurPageAsCmd.commandkey "d">
-<!ENTITY addCurTabsAsCmd.label "Arkiver fanegruppe …">
-<!ENTITY addCurTabsAsCmd.accesskey "f">
-<!ENTITY manBookmarksCmd.label "Behandle …">
-<!ENTITY manBookmarksCmd.accesskey "B">
-<!ENTITY manBookmarksCmd.commandkey "b">
 <!ENTITY feedsMenu.label "Abonner på denne siden">
 <!ENTITY feedsMenu.accesskey "o">
-<!ENTITY emptyItem.label "(Tom)">
 
 <!ENTITY menuBar.tooltip                  "Menylinje">
 <!ENTITY personalToolbar.tooltip          "Personlig verktøylinje">
@@ -162,14 +72,4 @@
 <!-- Statusbar -->
 <!ENTITY  statusText.label            "Fullført">
 
-<!ENTITY historyCmd.label           "Historikk">  
-<!ENTITY historyCmd.accesskey       "s">
-<!ENTITY history.commandKey         "h">
-
 <!ENTITY popupIcon.tooltiptext      "Opphev blokkering av denne nettsidens sprettoppvinduer">
-
-<!ENTITY bidiSwitchPageDirectionItem.label        "Bytt sideretning">
-<!ENTITY bidiSwitchPageDirectionItem.accesskey    "B">
-
-<!-- LOCALIZATION NOTE (syncTabsMenu.label): This appears in the Go menu -->
-<!ENTITY syncTabsMenu.label         "Faner fra andre datamaskiner">
