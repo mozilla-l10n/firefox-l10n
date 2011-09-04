@@ -54,8 +54,6 @@
 <!-- LOCALIZATION NOTE (popType.label) : Do not translate "POP" in below line -->
 <!ENTITY popType.label "POP">
 <!ENTITY popType.accesskey "P">
-<!ENTITY leaveMsgsOnSrvr.label "La meldinger forbli på tjeneren">
-<!ENTITY leaveMsgsOnSrvr.accesskey "L">
 
 <!-- LOCALIZATION NOTE (haveSmtp1.prefix and haveSmtp1.suffix2) : Do not translate "SMTP" and "&quot;" in
      these variables. Also, translate haveSmtp1.prefix and haveSmtp1.suffix2 as a single sentence, inserting
@@ -67,7 +65,7 @@
 <!-- Entities for Login page -->
 
 <!ENTITY loginTitle.label "Brukernavn">
-<!ENTITY usernameDesc.label "Skriv inn brukernavnet du har fått av e-posttilbyderen din for å hente e-post">
+<!ENTITY usernameDesc.label "Skriv inn brukernavnet du har fått av e-posttilbyderen din for å hente e-post ">
 <!-- LOCALIZATION NOTE (usernameExample.label) : do not translate "&quot;jsmith&quot;" in below line -->
 <!ENTITY usernameExample.label "(for eksempel «onordmann»)">
 <!ENTITY usernameLabel.label "Innkommende brukernavn:">
