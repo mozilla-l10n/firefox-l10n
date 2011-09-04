@@ -53,9 +53,9 @@
 <!ENTITY netInterrupt.longDesc "&sharedLongDesc;">
 
 <!ENTITY netOffline.title "Frakoblet modus">
-<!ENTITY netOffline.longDesc2 "
+<!ENTITY netOffline.overrideLongDesc "
 <ul>
-  <li>Prøv igjen. &brandShortName; vil forsøke åpne en tilkobling og laste inn siden på nytt.</li>
+  <li>Prøv igjen. &brandShortName; vil forsøke åpne en tilkobling og laste siden på nytt.</li>
 </ul>
 ">
 
@@ -165,9 +165,6 @@ midlertidig, og du kan prøve igjen senere.</li>
 
 <!ENTITY cspFrameAncestorBlocked.title "Blokkert av sikkerhetsregel på innholdet">
 <!ENTITY cspFrameAncestorBlocked.longDesc "<p>&brandShortName; forhindret dette nettstedet fra å lastes inn på denne måten fordi siden har en sikkerhetsbegrensing som forhindrer det.</p>">
-
-<!ENTITY corruptedContentError.title "Ødelagt innhold">
-<!ENTITY corruptedContentError.longDesc "<p>Siden du forsøker å vise kan ikke åpnes på grunn av en feil i dataoverføringen.</p><ul><li>Kontakt eierne av nettstedet og informer dem om problemet.</li></ul>">
 
 <!ENTITY securityOverride.linkText "Eller du kan lage en unntaksregel…">
 <!ENTITY securityOverride.getMeOutOfHereButton "Få meg bort herfra">
