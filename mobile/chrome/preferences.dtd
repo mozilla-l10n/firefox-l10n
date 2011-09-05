@@ -5,10 +5,10 @@
 <!ENTITY reflowZoom.title                          "Besedilo preoblikuj za povečanje">
 <!ENTITY showImages.title                          "Prikaži slike">
 <!ENTITY enableJavaScript.title                    "Omogoči JavaScript">
-<!ENTITY enablePlugins.title                       "Omogoči vstavke">
 <!ENTITY privacy.title                             "Zasebnost in varnost">
 <!ENTITY allowCookies.title                        "Omogoči piškote">
 <!ENTITY doNotTrack.title                          "Povej stranem, naj mi ne sledijo">
+<!ENTITY masterPassword.title                      "Uporabi glavno geslo">
 <!ENTITY clearPrivateData2.title                   "Počisti zasebne podatke">
 <!ENTITY clearPrivateData.button                   "Pobriši">
 <!ENTITY rememberPasswords.title                   "Zapomni si gesla">
@@ -20,4 +20,4 @@
 <!ENTITY homepage.none                             "Prazna stran">
 <!ENTITY homepage.default                          "brandShortName; začetek">
 <!ENTITY homepage.currentpage                      "Uporabi trenutno stran">
-<!ENTITY showCharset.title                         "Pokaži nabor znakov">
+<!ENTITY showCharsetEncoding.title                 "Pokaži nabor znakov">

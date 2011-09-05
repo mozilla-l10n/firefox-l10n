@@ -17,10 +17,10 @@
 
 <!ENTITY safeb.blocked.malwarePage.title "Sporočena napadalna stran!">
 <!-- Localization note (safeb.blocked.malware.shortDesc) - Please don't translate the contents of the <span id="malware_sitename"/> tag.  It will be replaced at runtime with a domain name (e.g. www.badsite.com) -->
-<!ENTITY safeb.blocked.malwarePage.shortDesc "This web page at <span id='malware_sitename'/> has been reported as an attack page and has been blocked based on your security preferences.">
+<!ENTITY safeb.blocked.malwarePage.shortDesc "Za spletno stran na <span id='malware_sitename'/> se poroča, da je napadalna, zato se jo je na osnovi vaših varnostnih nastavitev blokiralo.">
 <!ENTITY safeb.blocked.malwarePage.longDesc "<p>Napadalne strani poskušajo namestiti programe za krajo osebnih podatkov, uporabijo vaš računalnik za napad na druge ali poškodujejo vaš sistem.</p><p>Nekatere napadalne strani namenoma razširjajo škodljivo programsko opremo, mnoge med njimi pa so omadeževane brez vednosti njihovih lastnikov.</p>">
 
-<!ENTITY safeb.blocked.phishingPage.title "Že znana spletna prevara!">
+<!ENTITY safeb.blocked.phishingPage.title2 "Že znana spletna prevara!">
 <!-- Localization note (safeb.blocked.phishing.shortDesc) - Please don't translate the contents of the <span id="phishing_sitename"/> tag. It will be replaced at runtime with a domain name (e.g. www.badsite.com) -->
-<!ENTITY safeb.blocked.phishingPage.shortDesc "This web page at <span id='phishing_sitename'/> has been reported as a web forgery and has been blocked based on your security preferences.">
-<!ENTITY safeb.blocked.phishingPage.longDesc "<p>Spletne prevare vas želijo prelisičiti v objavo osebnih ali finančnih podatkov, tako da oponašajo vire, ki jim običajno zaupate.</p><p>Vnašanje osebnih podatkov na tej strani lahko pripelje do kraje identitete ali druge zlorabe.</p>">
+<!ENTITY safeb.blocked.phishingPage.shortDesc2 "Za spletno stran na <span id='phishing_sitename'/> se poroča, da gre za prevaro, zato se jo je na osnovi vaših varnostnih nastavitev blokiral.">
+<!ENTITY safeb.blocked.phishingPage.longDesc2 "<p>Spletne prevare vas želijo prelisičiti v objavo osebnih ali finančnih podatkov, tako da oponašajo vire, ki jim običajno zaupate.</p><p>Vnašanje osebnih podatkov na tej strani lahko pripelje do kraje identitete ali drugih vrst zlorabe.</p>">
