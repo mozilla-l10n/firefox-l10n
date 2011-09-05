@@ -11,17 +11,9 @@
 # title for the folder that will contains the default bookmarks
 #define bookmarks_title Mobilni zaznamki
 
-# LOCALIZATION NOTE (bookmarks_welcome):
-# link title for about:firstrun
-#define bookmarks_welcome Firefox: Pozdravljeni
-
 # LOCALIZATION NOTE (bookmarks_aboutBrowser):
 # link title for about:fennec
 #define bookmarks_aboutBrowser Firefox: Predstavitev
-
-# LOCALIZATION NOTE (bookmarks_weave):
-# link title for https://www.mozilla.com/en-US/mobile/sync
-#define bookmarks_sync Firefox: Usklajevanje s Firefox Sync
 
 # LOCALIZATION NOTE (bookmarks_addons):
 # link title for https://addons.mozilla.org/en-US/mobile

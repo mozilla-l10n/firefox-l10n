@@ -7,6 +7,7 @@
 <!ENTITY go.label              "Pojdi">
 <!ENTITY star.label            "Zvezdica">
 
+<!ENTITY showTabs.label        "Pokaži zavihke">
 <!ENTITY newtab.label          "Nov zavihek">
 <!ENTITY closetab.label        "Zapri zavihek">
 
@@ -15,6 +16,7 @@
 <!ENTITY copyAll.label         "Prekopiraj vse">
 <!ENTITY copylink.label        "Kopiraj mesto povezave">
 <!ENTITY paste.label           "Prilepi">
+<!ENTITY pasteAndGo.label      "Prilepi in začni">
 <!ENTITY delete.label          "Izbriši">
 <!ENTITY selectAll.label       "Izberi vse">
 <!ENTITY noSuggestions.label   "(brez predlogov)">
@@ -47,7 +49,7 @@
 <!ENTITY addonInstall2.label       "Dodaj k brandShortName;">
 <!ENTITY addonUninstall.label      "Odstrani">
 <!ENTITY addonCancel.label         "Prekliči">
-<!ENTITY addonShowPage.label       "Pojdi">
+<!ENTITY addonShowPage.label       "Pojdi na stran">
 
 <!ENTITY downloadsHeader.label     "Prenosi">
 <!ENTITY downloadShowPage.label    "Pojdi">
@@ -66,7 +68,8 @@
 
 <!ENTITY bookmarkPopup.label       "Dodaj med zaznamke">
 <!ENTITY bookmarkRemove.label      "Odstrani">
-<!ENTITY bookmarkEdit.label        "Urejanje">
+<!ENTITY bookmarkEdit.label        "Uredi">
+<!ENTITY bookmarkShortcut.label    "Dodaj na domači zaslon">
 
 <!ENTITY identity.unverifiedsite2 "Ta spletna stran ne nudi podatkov o identiteti.">
 <!ENTITY identity.connectedTo2 "Povezan z">
@@ -92,16 +95,18 @@
 <!ENTITY contextOpenInNewTab.label    "Odpri povezavo v novem zavihku">
 <!ENTITY contextSaveLink.label        "Shrani povezavo">
 <!ENTITY contextSaveImage.label       "Shrani sliko">
+<!ENTITY contextCopyLink.label        "Kopiraj povezavo">
 <!ENTITY contextShareLink.label       "Daj povezavo na razpolago">
 <!ENTITY contextShareImage.label      "Daj sliko na razpolago">
-<!ENTITY contextBookmarkLink.label    "Dodaj povezavo med zaznamke">
-<!ENTITY contextSaveVideo.label       "Shranjevanje videa">
+<!ENTITY contextBookmarkLink.label    "Zaznamuj povezavo">
+<!ENTITY contextSaveVideo.label       "Shrani video">
 <!ENTITY contextShareVideo.label      "Daj video na razpolago">
 <!ENTITY contextPlayMedia.label       "Predvajaj">
 <!ENTITY contextPauseMedia.label      "Premor">
 <!ENTITY contextFullScreen.label      "Celozaslonski način">
-<!ENTITY contextEditBookmark.label    "Urejanje">
+<!ENTITY contextEditBookmark.label    "Uredi">
 <!ENTITY contextRemoveBookmark.label  "Odstrani">
+!ENTITY contextShortcutBookmark.label "Dodaj na domačo stran"
 
 <!ENTITY pageactions.saveas.pdf      "Shrani kot PDF">
 <!ENTITY pageactions.share.page      "Daj stran na razpolago">
@@ -111,5 +116,6 @@
 <!ENTITY pageactions.findInPage      "Najdi na strani">
 <!ENTITY pageactions.search.addNew   "Dodaj iskalnik">
 <!ENTITY pageactions.charEncoding    "Nabor znakov">
+<!ENTITY pageactions.webapps.install "Namesti kot Ap">
 
 <!ENTITY appMenu.siteOptions         "Možnosti na strani">
