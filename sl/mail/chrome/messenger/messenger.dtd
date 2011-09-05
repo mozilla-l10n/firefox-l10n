@@ -62,13 +62,13 @@
 <!ENTITY offlineGoOfflineCmd.label "Delaj brez povezave">
 <!ENTITY offlineGoOfflineCmd.accesskey "B">
 <!ENTITY synchronizeOfflineCmd.label "Prenesi/uskladi zdaj …">
-<!ENTITY synchronizeOfflineCmd.accesskey "z">
+<!ENTITY synchronizeOfflineCmd.accesskey "u">
 <!ENTITY settingsOfflineCmd.label "Nastavitve za nepovezan način …">
 <!ENTITY settingsOfflineCmd.accesskey "n">
 <!ENTITY downloadSelectedCmd.label "Prenesi izbrana sporočila">
 <!ENTITY downloadSelectedCmd.accesskey "s">
 <!ENTITY downloadStarredCmd.label "Prejmi sporočila z zvezdico">
-<!ENTITY downloadStarredCmd.accesskey "z">
+<!ENTITY downloadStarredCmd.accesskey "v">
 <!ENTITY printCmd.label "Natisni …">
 <!ENTITY printCmd.accesskey "t">
 <!ENTITY printCmd.key "P">
@@ -98,7 +98,7 @@
 <!ENTITY selectThreadCmd.accesskey "t">
 <!ENTITY selectThreadCmd.key "t">
 <!ENTITY selectFlaggedCmd.label "Sporočila z zvezdico">
-<!ENTITY selectFlaggedCmd.accesskey "z">
+<!ENTITY selectFlaggedCmd.accesskey "v">
 <!ENTITY menuFavoriteFolder.label "Priljubljena mapa">
 <!ENTITY menuFavoriteFolder.accesskey "l">
 <!ENTITY folderPropsCmd.label "Lastnosti …">
@@ -156,7 +156,7 @@
 <!ENTITY sortByReceivedCmd.label "Prejeto">
 <!ENTITY sortByReceivedCmd.accesskey "p">
 <!ENTITY sortByStarCmd.label "Zvezdica">
-<!ENTITY sortByStarCmd.accesskey "Z">
+<!ENTITY sortByStarCmd.accesskey "v">
 <!ENTITY sortByAttachmentsCmd.label "Priponke">
 <!ENTITY sortByAttachmentsCmd.accesskey "K">
 <!ENTITY sortByPriorityCmd.label "Prioriteta">
@@ -300,7 +300,7 @@ you can use these alternative items. Otherwise, their values should be empty.  -
 <!ENTITY nextUnreadMsgCmd.accesskey "E">
 <!ENTITY nextUnreadMsgCmd.key "E">
 <!ENTITY nextStarredMsgCmd.label "Sporočilo z zvezdico">
-<!ENTITY nextStarredMsgCmd.accesskey "z">
+<!ENTITY nextStarredMsgCmd.accesskey "v">
 <!ENTITY nextUnreadThread.label "Neprebrana nit">
 <!ENTITY nextUnreadThread.accesskey "R">
 <!ENTITY nextUnreadThread.key "R">
@@ -319,7 +319,7 @@ you can use these alternative items. Otherwise, their values should be empty.  -
 <!ENTITY goBackCmd.accesskey "N">
 <!ENTITY goBackCmd.commandKey "[">
 <!ENTITY prevStarredMsgCmd.label "Sporočilo z zvezdico">
-<!ENTITY prevStarredMsgCmd.accesskey "z">
+<!ENTITY prevStarredMsgCmd.accesskey "v">
 <!ENTITY folderMenu.label "Mapa">
 <!ENTITY folderMenu.accesskey "M">
 <!ENTITY thisFolder.label "Ta mapa">
@@ -385,8 +385,8 @@ you can use these alternative items. Otherwise, their values should be empty.  -
 <!ENTITY killSubthreadMenu.accesskey "r">
 <!ENTITY killSubthreadMenu.key "r">
 <!ENTITY watchThreadMenu.label "Opazuj nit">
-<!ENTITY watchThreadMenu.accesskey "z">
-<!ENTITY watchThreadMenu.key "z">
+<!ENTITY watchThreadMenu.accesskey "n">
+<!ENTITY watchThreadMenu.key "n">
 <!ENTITY fileHereMenu.label "Uvrsti sem">
 <!ENTITY fileHereMenu.accesskey "U">
 <!ENTITY copyHereMenu.label "Kopiraj sem">
@@ -420,7 +420,7 @@ you can use these alternative items. Otherwise, their values should be empty.  -
 <!ENTITY markAllReadCmd.accesskey "V">
 <!ENTITY markAllReadCmd.key "v">
 <!ENTITY markStarredCmd.label "Dodaj zvezdico">
-<!ENTITY markStarredCmd.accesskey "z">
+<!ENTITY markStarredCmd.accesskey "v">
 <!ENTITY markStarredCmd.key "z">
 <!ENTITY markAsJunkCmd.label "Kot neželeno">
 <!ENTITY markAsJunkCmd.accesskey "ž">
@@ -472,7 +472,7 @@ you can use these alternative items. Otherwise, their values should be empty.  -
 <!ENTITY filtersApplyToMessage.label "Poženi filtre za sporočilo">
 <!ENTITY filtersApplyToMessage.accesskey "s">
 <!ENTITY runJunkControls.label "Poženi nadzor za neželeno pošto v mapi">
-<!ENTITY runJunkControls.accesskey "z">
+<!ENTITY runJunkControls.accesskey "ž">
 <!ENTITY deleteJunk.label "Izbriši v mapi pošto, Ki je označena kot neželena">
 <!ENTITY deleteJunk.accesskey "B">
 <!ENTITY importCmd.label "Uvozi …">
