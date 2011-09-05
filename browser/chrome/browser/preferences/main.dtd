@@ -5,6 +5,9 @@
 <!ENTITY startupHomePage.label     "Erakutsi nire hasiera-orria">
 <!ENTITY startupBlankPage.label    "Erakutsi orri hutsa">
 <!ENTITY startupLastSession.label  "Berreskuratu azken saioko fitxa eta leihoak">
+<!ENTITY restoreOnDemand.label     "Ez kargatu fitxak hautatzen diren arte">
+<!ENTITY restoreOnDemand.accesskey "k">
+
 <!ENTITY homepage.label            "Hasiera-orria:">
 <!ENTITY homepage.accesskey        "H">
 <!ENTITY useCurrentPage.label      "Erabili uneko orria">

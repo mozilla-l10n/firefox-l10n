@@ -59,6 +59,7 @@
 <!ENTITY editMessageButton.label "Editatu…">
 <!ENTITY hdrArchiveButton.label "artxibatu">
 <!ENTITY hdrArchiveButton.tooltip "artxibatu mezua">
+<!ENTITY hdrSmartReplyButton.label "erantzun bizkorra">
 <!ENTITY hdrReplyButton.label "erantzun">
 <!ENTITY hdrReplyButton.tooltip "erantzun mezuari">
 <!ENTITY hdrReplyAllButton.label "erantzun denei">

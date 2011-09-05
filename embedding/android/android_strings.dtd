@@ -16,3 +16,8 @@
 <!ENTITY  sending_crash_report "Hutsegite-txostena bidaltzen\u2026">
 <!ENTITY  exit_label "Irten">
 <!ENTITY  continue_label "Jarraitu">
+
+<!ENTITY  launcher_shortcuts_title "&brandShortName;(r)en web aplikazioak">
+<!ENTITY  launcher_shortcuts_empty "Ez da web aplikaziorik aurkitu">
+
+<!ENTITY choose_file "Aukeratu fitxategia">

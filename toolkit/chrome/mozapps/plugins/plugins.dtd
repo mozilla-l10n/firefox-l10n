@@ -5,7 +5,7 @@
 
 <!ENTITY pluginWizard.availablePluginsPage.title             "Plugin erabilgarrien deskargak">
 <!ENTITY pluginWizard.availablePluginsPage.description.label "Ondorengo pluginak daude erabilgarri:">
-<!ENTITY pluginWizard.availablePluginsPage.continueMsg.label "Egin klik Hurrengoa botoian plugin hauek instalatzeko.">
+<!ENTITY pluginWizard.availablePluginsPage.continueMsg.label "Egin klik 'Hurrengoa' botoian plugin hauek instalatzeko.">
 <!ENTITY pluginWizard.availablePluginsPage.installerUI       "Plugin batzuk informazio gehigarria eska dezakete instalatzerakoan.">
 
 <!ENTITY pluginWizard.licensePage.title                      "Pluginen lizentziak">
@@ -37,6 +37,6 @@
 <!ENTITY report.please                                       "Bidali hutsegite-txostena">
 <!ENTITY report.submitting                                   "Txostena bidaltzen…">
 <!ENTITY report.submitted                                    "Hutsegite-txostena bidali da.">
-<!ENTITY report.disabled                                     "Hutsegiteen berriematea ezgaitua.">
+<!ENTITY report.disabled                                     "Hutsegiteen berriematea desgaituta.">
 <!ENTITY report.failed                                       "Bidalketak huts egin du.">
 <!ENTITY report.unavailable                                  "Ez dago txostenik eskura.">

@@ -224,6 +224,8 @@
 <!ENTITY bodySanitized.accesskey "s">
 <!ENTITY bodyAsPlaintext.label "Testu arrunta">
 <!ENTITY bodyAsPlaintext.accesskey "T">
+<!ENTITY bodyAllParts.label "Gorputzaren zati guztiak">
+<!ENTITY bodyAllParts.accesskey "a">
 
 <!ENTITY bodyMenuFeed.label "Jarioko mezuaren gorputza honela">
 <!ENTITY bodyMenuFeed.accesskey "o">

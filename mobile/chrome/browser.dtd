@@ -7,6 +7,7 @@
 <!ENTITY go.label              "Joan">
 <!ENTITY star.label            "Izarra">
 
+<!ENTITY showTabs.label        "Erakutsi fitxak">
 <!ENTITY newtab.label          "Fitxa berria">
 <!ENTITY closetab.label        "Itxi fitxa">
 
@@ -15,6 +16,7 @@
 <!ENTITY copyAll.label         "Kopiatu dena">
 <!ENTITY copylink.label        "Kopiatu loturaren helbidea">
 <!ENTITY paste.label           "Itsatsi">
+<!ENTITY pasteAndGo.label      "Itsatsi eta joan">
 <!ENTITY delete.label          "Ezabatu">
 <!ENTITY selectAll.label       "Hautatu dena">
 <!ENTITY noSuggestions.label   "(Iradokizunik ez)">
@@ -67,6 +69,7 @@
 <!ENTITY bookmarkPopup.label       "Orriaren laster-marka eginda">
 <!ENTITY bookmarkRemove.label      "Kendu">
 <!ENTITY bookmarkEdit.label        "Editatu">
+<!ENTITY bookmarkShortcut.label    "Gehitu hasierako pantailara">
 
 <!ENTITY identity.unverifiedsite2 "Webgune honek ez du identitate informaziorik eskaintzen.">
 <!ENTITY identity.connectedTo2 "Konektatuta: ">
@@ -92,6 +95,7 @@
 <!ENTITY contextOpenInNewTab.label    "Ireki lotura fitxa berrian">
 <!ENTITY contextSaveLink.label        "Gorde lotura">
 <!ENTITY contextSaveImage.label       "Gorde irudia">
+<!ENTITY contextCopyLink.label        "Kopiatu lotura">
 <!ENTITY contextShareLink.label       "Partekatu lotura">
 <!ENTITY contextShareImage.label      "Partekatu irudia">
 <!ENTITY contextBookmarkLink.label    "Loturaren laster-marka…">
@@ -102,6 +106,7 @@
 <!ENTITY contextFullScreen.label      "Pantaila osoa">
 <!ENTITY contextEditBookmark.label    "Editatu">
 <!ENTITY contextRemoveBookmark.label  "Kendu">
+<!ENTITY contextShortcutBookmark.label "Gehitu hasierako pantailara">
 
 <!ENTITY pageactions.saveas.pdf      "Gorde PDF gisa">
 <!ENTITY pageactions.share.page      "Partekatu orria">
@@ -111,5 +116,6 @@
 <!ENTITY pageactions.findInPage      "Bilatu orrian">
 <!ENTITY pageactions.search.addNew   "Gehitu bilaketa-motorra">
 <!ENTITY pageactions.charEncoding    "Karaktere-kodeketa">
+<!ENTITY pageactions.webapps.install "Instalatu aplikazio gisa">
 
 <!ENTITY appMenu.siteOptions         "Gunearen aukerak">

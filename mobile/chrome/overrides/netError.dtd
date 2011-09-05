@@ -13,10 +13,11 @@
 <!ENTITY deniedPortAccess.longDesc "">
 
 <!ENTITY dnsNotFound.title "Zerbitzaria ez da aurkitu">
-<!ENTITY dnsNotFound.longDesc "<ul> 
-<li>Webgunea une batez eskuraezin egon daiteke edo kargatuegia. Saiatu hemendik denbora batera.</li> 
-<li>Ezin baduzu orri bat bera ere ikusi, egiaztatu zure sareko konexioa.</li> 
-<li>Zure ordenagailu edo sarea suebaki edo proxy baten bitartez babestuta badago, egiaztatu &brandShortName;ek Web-era sarbidea duela.</li> 
+<!ENTITY dnsNotFound.longDesc2 "<ul>
+<li>Egiaztatu helbideak idazketa-erroreak dituen, adibidez:
+<strong>ww</strong>.adibidea.com
+<strong>www</strong>.adibidea.com ordez</li>
+<li>Ezin badituzu orriak kargatu, egiaztatu zure gailuaren datuen edo WiFi-aren konexioa.</li>
 </ul>">
 
 <!ENTITY fileNotFound.title "Ez da fitxategia aurkitu">
@@ -73,10 +74,9 @@
 </ul>">
 
 <!ENTITY proxyResolveFailure.title "Proxy zerbitzaria ezin da aurkitu">
-<!ENTITY proxyResolveFailure.longDesc "<ul> 
-<li>Egiaztatu proxyaren ezarpenak zuzenak diren ziurtatzeko.</li> 
-<li>Egiaztatu zure ordenagailuak dabilen sarera konexio bat duela.</li> 
-<li>Zure ordenagailu edo sarea suebaki edo proxy baten bitartez babestuta badago, egiaztatu &brandShortName;ek Web-era sarbidea duela.</li> 
+<!ENTITY proxyResolveFailure.longDesc2 "<ul>
+<li>Egiaztatu proxyaren ezarpenak zuzenak direla ziurtatzeko.</li>
+<li>Egiaztatu zure gailuak datuen edo WiFi-aren konexioa daukala.</li>
 </ul>">
 
 <!ENTITY redirectLoop.title "Orriak ez du birbidalketa ondo egiten">
@@ -102,19 +102,10 @@
 <li>Zerbitzari honetara arazorik gabe konektatu bazara iraganean, errorea unekoa izan daiteke eta beranduago saia zaitezke.</li> 
 </ul>">
 
-<!ENTITY sharedLongDesc "<ul> 
-<li>Webgunea une batez eskuraezin egon daiteke edo kargatuegia. Saiatu hemendik denbora batera.</li> 
-<li>Ezin baduzu orri bat bera ere ikusi, egiaztatu zure sareko konexioa.</li> 
-<li>Zure ordenagailu edo sarea suebaki edo proxy baten bitartez babestuta badago, egiaztatu &brandShortName;ek Web-era sarbidea duela.</li> 
+<!ENTITY sharedLongDesc2 "<ul>
+<li>Gunea une batez desgaituta edo oso lanpetuta egon daiteke. Saiatu berriz minutu batzuen buruan.</li>
+<li>Ezin badituzu orriak kargatu, egiaztatu zure gailu mugikorraren datuen edo WiFi-aren konexioa.</li>
 </ul>">
-
-<!ENTITY malwareBlocked.title "Ustezko gune erasotzailea!">
-<!ENTITY malwareBlocked.longDesc "<p>Gune erasotzaileek informazio pertsonala lapurtu, zure ordenagailua besteak erasotzeko erabili, edo zure sistema kaltetzen duten programak instalatzen saiatzen dira</p> 
-<p>Bere gunea erasotzailetzat jotzea hanka-sartzea dela uste duten webgune jabeek<a href='http://www.stopbadware.org/home/reviewinfo' >berrikuspena eskatu</a> dezakete.</p>">
-
-<!ENTITY phishingBlocked.title "Ustezko web iruzurra!">
-<!ENTITY phishingBlocked.longDesc "<p>Gune honetan edozelako informazio pertsonala sartzeak identitate lapurreta edo bestelako iruzurren bat ekar lezake.</p> 
-<p>Mota honetako web iruzurrak phishing deritzoten erasoetan erabiltzen dira, hauetan web orri eta e-posta faltsuak erabiltzen dira zure konfiantzazkoak izan zitekeen iturriak imitatuz.</p>">
 
 <!ENTITY cspFrameAncestorBlocked.title "Edukien segurtasun-politikak blokeatuta">
 <!ENTITY cspFrameAncestorBlocked.longDesc "<p>&brandShortName;(e)k orri hau modu honetan kargatzea eragotzi du onartzen ez den edukien-segurtasun politika duelako.</p>">

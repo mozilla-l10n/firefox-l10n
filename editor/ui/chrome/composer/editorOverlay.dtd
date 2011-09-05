@@ -73,9 +73,6 @@
 <!ENTITY printCmd.label "Inprimatu…">
 <!ENTITY printCmd.accesskey "p">
 <!ENTITY printCmd.key "P">
-<!ENTITY closeCmd.label "Itxi">
-<!ENTITY closeCmd.accesskey "t">
-<!ENTITY closeCmd.key "W">
 <!-- Edit menu items -->
 
 <!ENTITY editMenu.label "Editatu">
@@ -91,17 +88,6 @@
 <!ENTITY pasteAsQuotationCmd.accesskey "p">
 <!ENTITY pasteAsQuotationCmd.key "o">
 <!ENTITY findCmd.label "Bilatu eta ordeztu…">
-<!ENTITY findCmd.accesskey "B">
-<!ENTITY findCmd.key "F">
-<!ENTITY findCmd.key2 "VK_F19">
-<!ENTITY findAgainCmd.label "Bilatu berriro">
-<!ENTITY findAgainCmd.accesskey "B">
-<!ENTITY findAgainCmd.key "G">
-<!ENTITY findAgainCmd.key2 "VK_F3">
-<!ENTITY findPrevCmd.label "Bilatu aurrekoa">
-<!ENTITY findPrevCmd.accesskey "e">
-<!ENTITY findPrevCmd.key "G">
-<!ENTITY findPrevCmd.key2 "VK_F3">
 <!ENTITY enableInlineSpellChecker.label "Egiaztatu idatzi ahala">
 <!ENTITY enableInlineSpellChecker.accesskey "z">
 <!ENTITY checkSpellingCmd2.label "Egiaztatu ortografia">
@@ -139,23 +125,6 @@
 <!ENTITY createLinkCmd.accesskey "u">
 <!ENTITY editLinkCmd.label "Editatu lotura mezu-prestatzailearen leiho berrian">
 <!ENTITY editLinkCmd.accesskey "i">
-<!-- (Toplevel Edit menu uses utilityOverlay) -->
-<!ENTITY undoCmd.label "Desegin">
-<!ENTITY undoCmd.accesskey "D">
-<!ENTITY redoCmd.label "Berregin">
-<!ENTITY redoCmd.accesskey "r">
-<!ENTITY cutCmd.label "Ebaki">
-<!ENTITY cutCmd.accesskey "E">
-<!ENTITY copyCmd.label "Kopiatu">
-<!ENTITY copyCmd.accesskey "K">
-<!ENTITY pasteCmd.label "Itsatsi">
-<!ENTITY pasteCmd.accesskey "s">
-<!ENTITY deleteCmd.label "Ezabatu">
-<!ENTITY deleteCmd.accesskey "z">
-<!ENTITY clearCmd.label "Garbitu">
-<!ENTITY clearCmd.accesskey "G">
-<!ENTITY selectAllCmd.label "Hautatu dena">
-<!ENTITY selectAllCmd.accesskey "a">
 <!-- Font Face SubMenu -->
 
 <!ENTITY FontFaceSelect.tooltip "Aukeratu letra-tipoa">
@@ -397,6 +366,9 @@
 <!ENTITY openToolbarCmd.tooltip "Ireki fitxategi lokala">
 <!ENTITY saveToolbarCmd.tooltip "Gorde fitxategia kokaleku lokalean">
 <!ENTITY publishToolbarCmd.tooltip "Igo fitxategia urruneko kokaleku batera">
+<!ENTITY cutToolbarCmd.tooltip "Ebaki">
+<!ENTITY copyToolbarCmd.tooltip "Kopiatu">
+<!ENTITY pasteToolbarCmd.tooltip "Itsatsi">
 <!ENTITY printToolbarCmd.label "Inprimatu">
 <!ENTITY printToolbarCmd.tooltip "Inprimatu orri hau">
 <!ENTITY findToolbarCmd.label "Bilatu">

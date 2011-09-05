@@ -18,6 +18,7 @@ bazabiltza, bisitatu gure <a id='supportLink'>laguntzaren webgunea</a>.">
 <!ENTITY aboutSupport.appBasicsEnabledPlugins "Gaitutako pluginak">
 <!ENTITY aboutSupport.appBasicsBuildConfig "Eraikitze-konfigurazioa">
 <!ENTITY aboutSupport.appBasicsUserAgent "Erabiltzaile-agentea">
+<!ENTITY aboutSupport.appBasicsCrashIDs "Hutsegiteen txostenak">
 
 <!ENTITY aboutSupport.show.label "Ireki karpeta">
 <!-- LOCALIZATION NOTE (aboutSupport.showMac.label): This is the Mac-specific
