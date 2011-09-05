@@ -37,9 +37,8 @@
 <!ENTITY netInterrupt.longDesc "&sharedLongDesc;">
 
 <!ENTITY netOffline.title "Lineaz kanpo">
-<!ENTITY netOffline.longDesc2 "<ul>
-<li>Sakatu &quot;Saiatu berriz&quot; linean jarri eta orria berritzeko.</li>
-</ul>">
+<!ENTITY netOffline.longDesc2 "<ul> 
+<li>Sakatu &quot;Saiatu berriz&quot; linean jarri eta orria berritzeko.</li> </ul>">
 
 <!ENTITY contentEncodingError.title "Edukiaren kodeketa-errorea">
 <!ENTITY contentEncodingError.longDesc "<ul> 

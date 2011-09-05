@@ -12,7 +12,6 @@ be replaced at runtime with the name of the server to which the user
 was trying to connect. -->
 
 <!ENTITY certerror.introPara1 "&brandShortName; <b>#1</b> helbidera modu ziurrean konektatzea eskatu duzu, baina ezin dugu baieztatu konexioa ziurra denik.">
-<!ENTITY certerror.introPara2 "Orokorrean, modu ziurrean konektatzean, webguneek identifikazio fidagarria aurkezten dute leku zuzenera zoazela frogatzeko. Hemen ordea, ez dago gune honen identitatea egiaztatzerik.">
 
 <!ENTITY certerror.whatShouldIDo.heading "Zer egin?">
 <!ENTITY certerror.whatShouldIDo.content "Normalean gune honetara konektatzen bazara arazorik gabe, errore hau norbait gunea ordezten saiatzen ari dela esan lezake, eta ez zenuke aurrera egin behar.">

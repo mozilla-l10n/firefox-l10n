@@ -13,9 +13,10 @@
 <!ENTITY manageAccount.label          "Kudeatu kontua">
 <!ENTITY manageAccount.accesskey      "K">
 <!ENTITY viewQuota.label              "Ikusi kuota">
-<!ENTITY changePassword.label         "Aldatu pasahitza">
+<!ENTITY changePassword2.label         "Aldatu pasahitza…">
 <!ENTITY mySyncKey.label              "Nire Sync gakoa">
-<!ENTITY resetSync.label              "Berrezarri Sync">
+<!ENTITY resetSync2.label              "Berrezarri Sync…">
+
 <!ENTITY addDevice.label              "Gehitu gailua">
 
 <!ENTITY syncMy.label               "Sinkronizatu nire">
@@ -33,7 +34,7 @@
 
 <!ENTITY syncComputerName.label       "Ordenagailuaren izena:">
 <!ENTITY syncComputerName.accesskey   "O">
-<!ENTITY deactivateDevice.label       "Desaktibatu gailu hau">
+<!ENTITY unlinkDevice.label           "Deslotu gailu hau">
 <!-- Footer stuff -->
 
 <!ENTITY prefs.tosLink.label        "Zerbitzuaren baldintzak">
