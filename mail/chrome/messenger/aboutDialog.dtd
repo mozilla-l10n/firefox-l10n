@@ -59,24 +59,4 @@ example : You are currently on the _Stable_ update channel. -->
 <!ENTITY channel.description.start "사용 중인 채널은">
 <!ENTITY channel.description.end "입니다.">
 
-<!ENTITY channel.change "변경하기">
-
-<!ENTITY channel.release.description       "전 세계 수 억명의 일반 사용자들에게 새로운 기
-능을 안정적으로 제공하는 정식 버전입니다. 더 빠르고 안전한 최신 웹 기술을 지원하는 나만의 맞춤 기능으로 더 멋진 인터넷 경험을 누리시기 바랍니다.">
-<!ENTITY channel.beta.description          "최신의 주요 기능들을 좀 더 안정성을 가지고 제 공하는 베터 버전입니다. 여러분의 의견을 받아서 계속적인 기능향상으로 정식 버전을 위해 준비하고 있습니다.">
-<!ENTITY channel.aurora.description        "최신의 혁신 기술 위주로 미리 체험하고 테스트>해 볼 수 있습니다. 기능과 성능에 대한 의견을 주시면, 좀 더 안정적인 베타 버전을 만드는 데 도움이 됩니다.">
-
-
-<!-- LOCALIZATION NOTE (channel.selector.start, channel.selector.end) : channel.selector.start and
-channel.selector.end create one sentence, with a channel selection menulist instered in between.
-This is all in one line, so try to make the localized text short.
-example : Switch to the [Stable] update channel. -->
-<!ENTITY channel.selector.start "업데이트 채널 변경:">
-<!ENTITY channel.selector.end "채널">
-
-<!-- LOCALIZATION NOTE (channel.selector.applyButton) : This button applies the user 's choice to switch
-to a new update channel and starts the application update process. -->
-<!ENTITY channel.selector.applyButton "확인 후 업데이트">
-<!ENTITY channel.selector.cancelButton "취소">
-
 <!ENTITY cmdCloseMac.commandKey		"w">
