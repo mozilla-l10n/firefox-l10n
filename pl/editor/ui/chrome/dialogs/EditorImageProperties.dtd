@@ -102,6 +102,9 @@
 <!-- These controls are in the Link Box -->
 <!ENTITY showImageLinkBorder.label     "Pokaż ramkę wokół obrazka z odnośnikiem">
 <!ENTITY showImageLinkBorder.accessKey "m">
+<!ENTITY LinkAdvancedEditButton.label     "Zaawansowana edycja odnośnika…">
+<!ENTITY LinkAdvancedEditButton.accessKey "Z">
+<!ENTITY LinkAdvancedEditButton.tooltip   "Dodaj lub zmień atrybuty HTML, styl lub kod JavaScript">
 
 <!-- These tabs are currently used in the image input dialog -->
 <!ENTITY imageInputTab.label      "Formularz">
