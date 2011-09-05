@@ -13,9 +13,10 @@
 <!ENTITY manageAccount.label          "Ardeiñ ar gont">
 <!ENTITY manageAccount.accesskey      "A">
 <!ENTITY viewQuota.label              "Gwelout ar feurbarzh">
-<!ENTITY changePassword.label         "Kemm ar ger-tremen">
+<!ENTITY changePassword2.label         "Kemmañ ar ger-tremen…">
 <!ENTITY mySyncKey.label              "Ma alc'hwez goubredañ">
-<!ENTITY resetSync.label              "Adderaouekaat ar goubredañ">
+<!ENTITY resetSync2.label              "Adderaouekaat Sync…">
+
 <!ENTITY addDevice.label              "Ouzhpennañ un trevnad">
 
 <!ENTITY syncMy.label               "Goubredañ ma">
@@ -33,7 +34,7 @@
 <!-- Device Settings -->
 <!ENTITY syncComputerName.label       "Anv an urzhiataer :">
 <!ENTITY syncComputerName.accesskey   "A">
-<!ENTITY deactivateDevice.label       "Diweredekaat an trevnad-mañ">
+<!ENTITY unlinkDevice.label           "Lemel an drobarzhell-mañ">
 
 <!-- Footer stuff -->
 <!ENTITY prefs.tosLink.label        "Divizoù arver">

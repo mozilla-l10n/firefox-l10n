@@ -10,7 +10,7 @@
 <!ENTITY aboutSupport.extensionName "Anv">
 <!ENTITY aboutSupport.extensionEnabled "Gweredekaet">
 <!ENTITY aboutSupport.extensionVersion "Handelv">
-<!ENTITY aboutSupport.extensionId "ID">
+<!ENTITY aboutSupport.extensionId "Naoudi">
 
 <!ENTITY aboutSupport.appBasicsTitle "Arventennoù diazez an arload">
 <!ENTITY aboutSupport.appBasicsName "Anv">
@@ -19,6 +19,7 @@
 <!ENTITY aboutSupport.appBasicsEnabledPlugins "Enlugelladoù gweredekaet">
 <!ENTITY aboutSupport.appBasicsBuildConfig "Kefluniad kempunadur">
 <!ENTITY aboutSupport.appBasicsUserAgent "Gwazour arveriad">
+<!ENTITY aboutSupport.appBasicsCrashIDs "Danevelloù sac'hadenn">
 
 <!ENTITY aboutSupport.show.label "Digeriñ teuliad an arload">
 
