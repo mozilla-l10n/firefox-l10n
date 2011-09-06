@@ -5,8 +5,6 @@
 <!ENTITY subject.accesskey "Т">
 <!ENTITY attachments.label "Вложения:">
 <!ENTITY attachments.accesskey "В">
-<!ENTITY newMessage.label "Сообщение">
-<!ENTITY newMessage.accesskey "б">
 <!ENTITY saveCmd.label "Сохранить">
 <!ENTITY saveCmd.accesskey "о">
 <!ENTITY saveAsCmd.label "Сохранить как">
