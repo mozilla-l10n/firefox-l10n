@@ -3,4 +3,4 @@
      with the current channel label inserted in between.
      example: You are currently on the _Stable_ update channel. -->
 <!ENTITY channel.description.start  "Vous utilisez actuellement le canal de mise à jour ">
-<!ENTITY channel.description.end    " .">
+<!ENTITY channel.description.end    ".">

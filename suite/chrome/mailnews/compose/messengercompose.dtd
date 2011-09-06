@@ -11,8 +11,6 @@
 <!-- menu items:  the . means that the menu item isn't implemented yet -->
 
 <!-- File menu items -->
-<!ENTITY newMessage.label "Nouveau Message ">
-<!ENTITY newMessage.accesskey "n">
 <!ENTITY saveCmd.label "Enregistrer">
 <!ENTITY saveCmd.key "S">
 <!ENTITY saveCmd.accesskey "s">
