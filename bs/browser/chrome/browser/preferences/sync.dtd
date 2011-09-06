@@ -35,7 +35,6 @@
 <!ENTITY syncComputerName.label       "Naziv računara:">
 <!ENTITY syncComputerName.accesskey   "N">
 <!ENTITY unlinkDevice.label           "Raskini vezu sa ovim uređajem">
-<!ENTITY deactivateDevice.label       "Deaktiviraj ovaj uređaj">
 
 <!-- Footer stuff -->
 <!ENTITY prefs.tosLink.label        "Uslovi korištenja">
