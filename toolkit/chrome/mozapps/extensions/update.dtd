@@ -69,7 +69,7 @@
 <!ENTITY  finished.checkDisabled.desc     "Programa „&brandShortName;“ gali periodiškai tikrinti, ar yra papildinių naujinimų ir jų radusi informuoti.">
 <!ENTITY  finished.checkEnabled.desc      "Programa „&brandShortName;“ periodiškai tikrins, ar yra papildinių naujinimų ir jų radusi informuos.">
 
-<!ENTITY  adminDisabled.wizard.title      "Unable to Check for Updates">
+<!ENTITY  adminDisabled.wizard.title      "Atnaujinimų ieškoti neleidžiama">
 <!ENTITY  adminDisabled.warning.label     "Nėra galimybės patikrinti, ar yra naujinimų nebetinkamiems priedams,
                                            nes programos „&brandShortName;“ priedų diegimo funkcija išjungta.
                                            Prašom kreiptis į sistemos administratorių, kad įjungtų.">
