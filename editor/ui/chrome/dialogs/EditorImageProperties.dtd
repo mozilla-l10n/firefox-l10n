@@ -106,6 +106,9 @@
 <!-- These controls are in the Link Box -->
 <!ENTITY showImageLinkBorder.label "Aplink paveikslą su saitu rodyti rėmelį">
 <!ENTITY showImageLinkBorder.accessKey "ė">
+<!ENTITY LinkAdvancedEditButton.label "Saito papildoma taisa…">
+<!ENTITY LinkAdvancedEditButton.accessKey "p">
+<!ENTITY LinkAdvancedEditButton.tooltip "Pridėti ar keisti HTML požymius, stilių ir „JavaScript“ įvykius">
 
 <!-- These tabs are currently used in the image input dialog -->
 <!ENTITY imageInputTab.label "Forma">
