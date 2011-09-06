@@ -37,16 +37,14 @@
    -
    - ***** END LICENSE BLOCK ***** -->
 
-<!-- Catalan Translation: Projecte Mozilla en català - Softcatalà - http://www.softcatala.org/projectes/mozilla/ -->
-
-<!ENTITY title.label "Personalitza la codificació de caràcters">
-<!ENTITY current.label "Codificació de caràcters activa:">
-<!ENTITY remove.label "Suprimeix">
-<!ENTITY remove.accessKey "p">
-<!ENTITY additional.label "Codificacions de caràcter disponibles:">
-<!ENTITY add.label "Afegeix">
-<!ENTITY add.accessKey    "A">
-<!ENTITY moveUp.label     "Mou amunt">
-<!ENTITY moveUp.accessKey "u">
-<!ENTITY moveDown.label   "Mou avall">
+<!ENTITY title.label        "Personalitza la codificació de caràcters">
+<!ENTITY current.label      "Codificació de caràcters activa:">
+<!ENTITY remove.label       "Suprimeix">
+<!ENTITY remove.accessKey   "p">
+<!ENTITY additional.label   "Codificacions de caràcter disponibles:">
+<!ENTITY add.label          "Afegeix">
+<!ENTITY add.accessKey      "A">
+<!ENTITY moveUp.label       "Mou amunt">
+<!ENTITY moveUp.accessKey   "u">
+<!ENTITY moveDown.label     "Mou avall">
 <!ENTITY moveDown.accessKey "v">

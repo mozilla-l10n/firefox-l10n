@@ -1,8 +1,8 @@
 <!--LOCALIZATION NOTE msgCompSecurityInfo.dtd UI for viewing security status when composing a message -->
 
 <!ENTITY title.label "Seguretat del missatge">
-<!ENTITY subject.plaintextWarning "Si us plau, recordeu que les línies de l'assumpte dels missatges del correu electrònic mai es xifraran.">
-<!ENTITY status.heading "Els continguts del vostre missatge s'enviaran com segueix:">
+<!ENTITY subject.plaintextWarning "Tingueu en compte que les línies de l'assumpte dels missatges del correu electrònic mai es xifraran.">
+<!ENTITY status.heading "El contingut del vostre missatge s'enviarà com segueix:">
 <!ENTITY status.signed "Signat digitalment:">
 <!ENTITY status.encrypted "Xifrat:">
 <!ENTITY status.certificates "Certificats:">

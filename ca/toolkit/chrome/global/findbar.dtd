@@ -1,7 +1,7 @@
 <!-- LOCALIZATION NOTE : FILE This file contains the entities needed to -->
 <!-- LOCALIZATION NOTE : FILE use the Find Bar. --> 
-
 <!-- entities split out from browser.dtd -->
+
 <!ENTITY next.label "Següent">
 <!ENTITY next.accesskey "n">
 <!ENTITY next.tooltip "Cerca la següent coincidència de l'expressió">

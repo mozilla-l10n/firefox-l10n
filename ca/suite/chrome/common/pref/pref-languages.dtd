@@ -3,7 +3,7 @@
 <!ENTITY languages.customize.prefLangDescript           "De vegades, les pàgines web estan disponibles en diverses llengües. Trieu, per ordre de preferència, les llengües que voleu visualitzar les pàgines web.">
 <!ENTITY languages.customize.title                      "Llengües">
 <!ENTITY langtitle.label                                "Llengües per a les pàgines web">
-<!ENTITY languages.customize.prefAddLangDescript        "Seleccioneu la(es) llengua(gües) que voleu afegir.">
+<!ENTITY languages.customize.prefAddLangDescript        "Seleccioneu les llengües que voleu afegir.">
 <!ENTITY languages.customize.addButton.label            "Afegeix...">
 <!ENTITY languages.customize.addButton.accesskey        "A">
 <!ENTITY languages.customize.deleteButton.label         "Suprimeix">

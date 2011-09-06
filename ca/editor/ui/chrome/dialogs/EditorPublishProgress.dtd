@@ -35,19 +35,16 @@
    - the terms of any one of the MPL, the GPL or the LGPL.
    -
    - ***** END LICENSE BLOCK ***** -->
-
-<!-- Catalan Translation: Projecte Mozilla en català - Softcatalà - http://www.softcatala.org/projectes/mozilla/ -->
-
-
 <!-- Window title -->
-<!ENTITY siteUrl.label "URL del lloc:">
-<!ENTITY docSubdir.label "Subdirectori de la pàgina:">
-<!ENTITY otherSubdir.label "Imatge del subdirectori:">
 
-<!ENTITY status.label "S'està publicant…">
-<!ENTITY fileList.label "Estat de la publicació">
-<!ENTITY succeeded.label "Ha finalitzat">
-<!ENTITY failed.label "Ha fallat">
+<!ENTITY siteUrl.label         "URL del lloc:">
+<!ENTITY docSubdir.label       "Subdirectori de la pàgina:">
+<!ENTITY otherSubdir.label     "Imatge del subdirectori:">
 
-<!ENTITY keepOpen "Conserva aquesta finestra oberta una vegada la publicació hagi acabat.">
+<!ENTITY status.label          "S'està publicant…">
+<!ENTITY fileList.label        "Estat de la publicació">
+<!ENTITY succeeded.label       "Ha finalitzat">
+<!ENTITY failed.label          "Ha fallat">
+
+<!ENTITY keepOpen              "Conserva aquesta finestra oberta una vegada la publicació hagi acabat.">
 <!ENTITY closeButton.label     "Tanca">

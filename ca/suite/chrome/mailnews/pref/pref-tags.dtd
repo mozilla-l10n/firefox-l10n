@@ -38,7 +38,7 @@
 
 <!ENTITY pref.tags.title            "Etiquetes">
 <!ENTITY pref.tags.caption          "Personalització de les etiquetes">
-<!ENTITY pref.tags.description      "Les etiquetes poden utilitzar-se per a categoritzar i prioritzar els vostres missatges. Modifiqueu l'aparença i importància de les etiquetes amb els paràmetres a continuació. Les etiquetes superiors són de major importància que aquelles inferiors.">
+<!ENTITY pref.tags.description      "Les etiquetes poden utilitzar-se per categoritzar i prioritzar els vostres missatges. Modifiqueu l'aparença i importància de les etiquetes amb els paràmetres a continuació. Les etiquetes superiors són de major importància que aquelles inferiors.">
 <!ENTITY tagColumn.label            "Etiqueta">
 <!ENTITY colorColumn.label          "Color">
 <!ENTITY defaultTagName.label       "Etiqueta sense títol">

@@ -33,46 +33,46 @@
    - the terms of any one of the MPL, the GPL or the LGPL.
    -
    - ***** END LICENSE BLOCK ***** -->
-
 <!-- WARNING! This file contains UTF-8 encoded characters!
    - If this ==> … <== doesn't look like an ellipsis (three dots in a row),
    - your editor isn't using UTF-8 encoding and may munge up the document!
   -->
 
+
 <!ENTITY  connectionsDialog.title       "Paràmetres de connexió">
 <!ENTITY  window.width                  "42em">
 <!ENTITY  window.macWidth               "44em">
 
-<!ENTITY proxyTitle.label "Configura els servidors intermediaris per a accedir a Internet">
-<!ENTITY directTypeRadio.label "Connexió directa a Internet">
-<!ENTITY directTypeRadio.accesskey "d">
-<!ENTITY WPADTypeRadio.label "Detecta automàticament els paràmetres del servidor intermediari per a aquesta xarxa">
-<!ENTITY WPADTypeRadio.accesskey "i">
-<!ENTITY manualTypeRadio.label "Configuració manual del servidor intermediari:">
-<!ENTITY manualTypeRadio.accesskey "m">
-<!ENTITY autoTypeRadio.label "URL de configuració automàtica del servidor intermediari:">
-<!ENTITY autoTypeRadio.accesskey "a">
-<!ENTITY reload.label "Actualitza">
+<!ENTITY  proxyTitle.label              "Configura els servidors intermediaris per accedir a Internet">
+<!ENTITY  directTypeRadio.label         "Connexió directa a Internet">
+<!ENTITY  directTypeRadio.accesskey     "d">
+<!ENTITY  WPADTypeRadio.label           "Detecta automàticament els paràmetres del servidor intermediari per a aquesta xarxa">
+<!ENTITY  WPADTypeRadio.accesskey       "i">
+<!ENTITY  manualTypeRadio.label         "Configuració manual del servidor intermediari:">
+<!ENTITY  manualTypeRadio.accesskey     "m">
+<!ENTITY  autoTypeRadio.label           "URL de configuració automàtica del servidor intermediari:">
+<!ENTITY  autoTypeRadio.accesskey       "a">
+<!ENTITY  reload.label                  "Actualitza">
 <!ENTITY  reload.accesskey              "z">
-<!ENTITY ftp.label                     "Servidor intermediari d'FTP:">
+<!ENTITY  ftp.label                     "Servidor intermediari d'FTP:">
 <!ENTITY  ftp.accesskey                 "F">
-<!ENTITY http.label "Servidor intermediari d'HTTP:">
+<!ENTITY  http.label                    "Servidor intermediari d'HTTP:">
 <!ENTITY  http.accesskey                "H">
-<!ENTITY ssl.label "Servidor intermediari d'SSL:">
+<!ENTITY  ssl.label                     "Servidor intermediari d'SSL:">
 <!ENTITY  ssl.accesskey                 "S">
-<!ENTITY socks.label "Ordinador central SOCKS:">
+<!ENTITY  socks.label                   "Ordinador central SOCKS:">
 <!ENTITY  socks.accesskey               "C">
-<!ENTITY socks4.label "SOCKS v4">
+<!ENTITY  socks4.label                  "SOCKS v4">
 <!ENTITY  socks4.accesskey              "K">
-<!ENTITY socks5.label "SOCKS v5">
-<!ENTITY socks5.accesskey "v">
-<!ENTITY port.label "Port:">
+<!ENTITY  socks5.label                  "SOCKS v5">
+<!ENTITY  socks5.accesskey              "v">
+<!ENTITY  port.label                    "Port:">
 <!ENTITY  HTTPport.accesskey            "P">
-<!ENTITY SSLport.accesskey "o">
-<!ENTITY FTPport.accesskey "r">
-<!ENTITY SOCKSport.accesskey "t">
-<!ENTITY noproxy.label "Sense servidor intermediari per a:">
-<!ENTITY noproxy.accesskey "n">
-<!ENTITY noproxyExplain.label "Exemple: .mozilla.org, .net.nz, 192.168.1.0/24">
-<!ENTITY shareproxy.label "Utilitza aquest servidor intermediari per a tots els protocols">
-<!ENTITY shareproxy.accesskey "l">
+<!ENTITY  SSLport.accesskey             "o">
+<!ENTITY  FTPport.accesskey             "r">
+<!ENTITY  SOCKSport.accesskey           "t">
+<!ENTITY  noproxy.label                 "Sense servidor intermediari per a:">
+<!ENTITY  noproxy.accesskey             "n">
+<!ENTITY  noproxyExplain.label          "Exemple: .mozilla.org, .net.nz, 192.168.1.0/24">
+<!ENTITY  shareproxy.label              "Utilitza aquest servidor intermediari per a tots els protocols">
+<!ENTITY  shareproxy.accesskey          "l">

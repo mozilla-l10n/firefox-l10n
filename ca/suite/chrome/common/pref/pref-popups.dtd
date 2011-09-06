@@ -2,7 +2,7 @@
 
 <!ENTITY pref.popups.caption            "Finestres emergents">
 
-<!ENTITY popupBlock.label               "Bloca les finestres emergents no soŀlicitades">
+<!ENTITY popupBlock.label               "Bloca les finestres emergents no sol·licitades">
 <!ENTITY popupBlock.accesskey           "B">
 
 <!ENTITY viewPermissions.label          "Gestiona els permisos">
@@ -24,8 +24,8 @@
 <!ENTITY displayIcon.label              "Mostra una icona en la barra d'estat del navegador">
 <!ENTITY displayIcon.accesskey          "M">
 
-<!ENTITY displayNotification.label      "Mostra una barra de notíficació a la part superior de l'àrea de contingut">
+<!ENTITY displayNotification.label      "Mostra una barra de notificació a la part superior de l'àrea de contingut">
 <!ENTITY displayNotification.accesskey  "n">
 
-<!ENTITY popupNote.description          "Nota: Blocar totes les finestres emergents pot impedir que característiques importants d'alguns llocs web funcionin, com ara les finestres d'inici de sessió de llocs de compra o dels bancs. Per a més detalls de com permetre que uns llocs específics utilitzin emergents, mentre es bloca uns altres, feu clic a Ajuda. Fins i tot una vegada blocats, alguns llocs poden utilitzar altres mètodes per a mostrar emergents.">
+<!ENTITY popupNote.description          "Nota: Blocar totes les finestres emergents pot impedir que característiques importants d'alguns llocs web funcionin, com ara les finestres d'inici de sessió de llocs de compra o dels bancs. Per a més detalls de com permetre que uns llocs específics utilitzin emergents, mentre es bloca uns altres, feu clic a Ajuda. Fins i tot una vegada blocats, alguns llocs poden utilitzar altres mètodes per mostrar emergents.">
 

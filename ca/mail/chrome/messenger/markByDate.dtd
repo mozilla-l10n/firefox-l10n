@@ -35,11 +35,8 @@
    -
    - ***** END LICENSE BLOCK ***** -->
 
-<!-- Catalan Translation: Projecte Mozilla en català - Softcatalà - http://www.softcatala.org/projectes/mozilla/ -->
-
-
 <!ENTITY messageMarkByDate.label "Marca els missatges com a llegits per data">
 <!ENTITY markByDateLower.label "Marca els missatges com a llegits des del:">
 <!ENTITY markByDateLower.accesskey "d">
-<!ENTITY markByDateUpper.accesskey "F">
 <!ENTITY markByDateUpper.label "Fins al:">
+<!ENTITY markByDateUpper.accesskey "F">

@@ -10,119 +10,29 @@
 <!-- LOCALIZATION NOTE (mainWindow.titlemodifiermenuseparator): DONT_TRANSLATE -->
 <!ENTITY mainWindow.titlemodifiermenuseparator " - ">
 
-<!ENTITY tabCmd.label "Pestanya del Navegador">
-<!ENTITY tabCmd.accesskey "t">
-<!ENTITY tabCmd.commandkey "t">
-<!ENTITY openCmd.label "Obre una ubicació web...">
-<!ENTITY openCmd.accesskey "w">
-<!ENTITY openCmd.commandkey "l">
-<!ENTITY openFileCmd.label "Obre un fitxer...">
-<!ENTITY openFileCmd.accesskey "O">
-<!ENTITY openFileCmd.commandkey "o">
-<!ENTITY recentTabs.label "Pestanyes tancades recentment">
-<!ENTITY recentTabs.accesskey "r">
-<!ENTITY recentTabs.commandkey "t">
-<!ENTITY recentWindows.label "Finestres tancades recentment">
-<!ENTITY recentWindows.accesskey "n">
-<!ENTITY recentWindows.commandkey "y">
 <!ENTITY editPageCmd.label "Edita la pàgina">
 <!ENTITY editPageCmd.accesskey "d">
 <!ENTITY editPageCmd.commandkey "e">
 
-<!ENTITY uploadFile.label "Fitxer carregat...">
-<!ENTITY uploadFile.accesskey "F">
-
-<!ENTITY printSetupCmd.label "Configuració de la pàgina...">
-<!ENTITY printSetupCmd.accesskey "u">
 <!ENTITY printPreviewCmd.label "Exemple d'impressió">
 <!ENTITY printPreviewCmd.accesskey "l">
 <!ENTITY printCmd.label "Imprimeix...">
 <!ENTITY printCmd.accesskey "p">
 <!ENTITY printCmd.commandkey "p">
 
-<!ENTITY toolbarsCmd.label "Mostra/Amaga">
-<!ENTITY toolbarsCmd.accesskey "M">
 <!ENTITY navbarCmd.label "Barra de navegació">
 <!ENTITY navbarCmd.accesskey "n">
 <!ENTITY personalbarCmd.label "Barra de les adreces d'interès">
 <!ENTITY personalbarCmd.accesskey "d">
-<!ENTITY tabbarCmd.label "Barra de pestanyes">
-<!ENTITY tabbarCmd.accesskey "p">
-<!ENTITY taskbarCmd.label "Barra d'estat">
-<!ENTITY taskbarCmd.accesskey "s">
-<!ENTITY componentbarCmd.label "Barra de components">
-<!ENTITY componentbarCmd.accesskey "c">
 
-<!ENTITY useStyleSheetMenu.label "Utilitza el full d'estil">
-<!ENTITY useStyleSheetMenu.accesskey "U">
-<!ENTITY useStyleSheetNone.label "Cap">
-<!ENTITY useStyleSheetNone.accesskey "C">
-<!ENTITY useStyleSheetPersistentOnly.label "Estil de pàgina bàsic">
-<!ENTITY useStyleSheetPersistentOnly.accesskey "b">
-<!ENTITY pageSourceCmd.label "Font de la pàgina">
-<!ENTITY pageSourceCmd.accesskey "o">
-<!ENTITY pageSourceCmd.commandkey "u">
-<!ENTITY pageInfoCmd.label "Informació de la pàgina">
-<!ENTITY pageInfoCmd.accesskey "I">
-<!ENTITY pageInfoCmd.commandkey "i">
-<!ENTITY fullScreenCmd.label "Pantalla completa">
-<!ENTITY fullScreenCmd.accesskey "P">
-<!ENTITY translateMenu.label "Tradueix">
-<!ENTITY translateMenu.accesskey "T">
-
-<!ENTITY closeOtherTabs.label "Tanca les altres pestanyes">
-<!ENTITY closeOtherTabs.accesskey "T">
 <!ENTITY closeWindow.label "Tanca la finestra">
 <!ENTITY closeWindow.accesskey "f">
 
 <!ENTITY minimizeButton.tooltip       "Minimitza">
 <!ENTITY restoreButton.tooltip        "Restaura">
 
-<!ENTITY applyTheme.label "Aplica un tema">
-<!ENTITY applyTheme.accesskey "A">
-<!ENTITY getNewThemesCmd.label "Aconsegueix nous temes">
-<!ENTITY getNewThemesCmd.accesskey "g">
-<!ENTITY findOnCmd.label "Cerca en aquesta pàgina...">
-<!ENTITY findOnCmd.accesskey "r">
-<!ENTITY findOnCmd.commandkey "f">
-<!ENTITY findAgainCmd.label "Torna a cercar">
-<!ENTITY findAgainCmd.accesskey "T">
-<!ENTITY findAgainCmd.commandkey "g">
-<!ENTITY findPrevCmd.label "Cerca l'anterior">
-<!ENTITY findPrevCmd.accesskey "o">
-<!ENTITY findPrevCmd.commandkey "g">
-<!ENTITY findAgainCmd.commandkey2 "VK_F3">
-<!ENTITY findPrevCmd.commandkey2 "VK_F3">
-
-<!ENTITY searchInternetCmd.label "Cerca a Internet">
-<!ENTITY searchInternetCmd.accesskey "I">
-<!ENTITY searchInternet.commandKey "s">
-
-<!ENTITY clearPrivateDataCmd.label "Neteja les dades privades…">
-<!ENTITY clearPrivateDataCmd.accesskey "e">
-
-<!ENTITY goMenu.label "Vés">
-<!ENTITY goMenu.accesskey "s">
-<!ENTITY goHomeCmd.label "Inici">
-<!ENTITY goHomeCmd.accesskey "n">
-<!ENTITY historyRestoreLastSession.label "Restaura la sessió anterior">
-<!ENTITY historyRestoreLastSession.accesskey "R">
-
-<!ENTITY bookmarksMenu.label "Adreces d'interès">
-<!ENTITY bookmarksMenu.accesskey "r">
-<!ENTITY addCurPageCmd.label "Afegeix una adreça d'interès">
-<!ENTITY addCurPageCmd.accesskey "f">
-<!ENTITY addCurPageAsCmd.label "Arxiva una adreça d'interès">
-<!ENTITY addCurPageAsCmd.accesskey "x">
-<!ENTITY addCurPageAsCmd.commandkey "d">
-<!ENTITY addCurTabsAsCmd.label "Arxiva aquest grup de pestanyes...">
-<!ENTITY addCurTabsAsCmd.accesskey "y">
-<!ENTITY manBookmarksCmd.label "Gestiona les adreces d'interès...">
-<!ENTITY manBookmarksCmd.accesskey "G">
-<!ENTITY manBookmarksCmd.commandkey "b">
 <!ENTITY feedsMenu.label "Subscriu-me a la pàgina">
 <!ENTITY feedsMenu.accesskey "S">
-<!ENTITY emptyItem.label "(Buit)">
 
 <!ENTITY menuBar.tooltip                  "Barra de menús">
 <!ENTITY personalToolbar.tooltip          "Barra de les adreces d'interès">
@@ -162,14 +72,4 @@
 
 <!ENTITY  statusText.label            "Document: fet">
 
-<!ENTITY historyCmd.label           "Historial">
-<!ENTITY historyCmd.accesskey       "H">
-<!ENTITY history.commandKey         "h">
-
 <!ENTITY popupIcon.tooltiptext      "Desbloca les finestres emergents d'aquest lloc">
-
-<!ENTITY bidiSwitchPageDirectionItem.label        "Commuta la direcció de la pàgina">
-<!ENTITY bidiSwitchPageDirectionItem.accesskey    "g">
-<!-- LOCALIZATION NOTE (syncTabsMenu.label): This appears in the Go menu -->
-
-<!ENTITY syncTabsMenu.label         "Pestanyes d'altres ordinadors">

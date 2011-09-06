@@ -35,19 +35,16 @@
    - the terms of any one of the MPL, the GPL or the LGPL.
    -
    - ***** END LICENSE BLOCK ***** -->
-
-<!-- Catalan Translation: Projecte Mozilla en català - Softcatalà - http://www.softcatala.org/projectes/mozilla/ -->
-
-   
 <!-- Labels -->
-<!ENTITY newFolderDialog.title "Carpeta nova">
-<!ENTITY name.label "Nom:">
-<!ENTITY name.accesskey "N">
-<!ENTITY description.label "Crea-la com a subcarpeta de:">
-<!ENTITY description.accesskey "c">
-<!ENTITY folderRestriction1.label "Aquest servidor limita les carpetes a dos tipus especials.">
-<!ENTITY folderRestriction2.label "Permet que la carpeta nova contingui:">
-<!ENTITY foldersOnly.label "Només carpetes">
-<!ENTITY messagesOnly.label "Només missatges">
+   
+<!ENTITY newFolderDialog.title      "Carpeta nova">
+<!ENTITY name.label                 "Nom:">
+<!ENTITY name.accesskey             "N">
+<!ENTITY description.label          "Crea-la com a subcarpeta de:">
+<!ENTITY description.accesskey      "C">
+<!ENTITY folderRestriction1.label   "Aquest servidor limita les carpetes a dos tipus especials.">
+<!ENTITY folderRestriction2.label   "Permet que la carpeta nova contingui:">
+<!ENTITY foldersOnly.label          "Només carpetes">
+<!ENTITY messagesOnly.label         "Només missatges">
 <!ENTITY accept.label               "Crea la carpeta">
 <!ENTITY accept.accesskey           "r">

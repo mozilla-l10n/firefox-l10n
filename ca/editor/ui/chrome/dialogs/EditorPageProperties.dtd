@@ -34,11 +34,8 @@
    - the terms of any one of the MPL, the GPL or the LGPL.
    -
    - ***** END LICENSE BLOCK ***** -->
-
-<!-- Catalan Translation: Projecte Mozilla en català - Softcatalà - http://www.softcatala.org/projectes/mozilla/ -->
-
-
 <!-- Window title -->
+
 <!ENTITY windowTitle.label "Propietats de la pàgina">
 <!ENTITY location.label "Ubicació:">
 <!ENTITY lastModified.label "Modificat per darrer cop:">
@@ -46,8 +43,8 @@
 <!ENTITY titleInput.accessKey "T">
 <!ENTITY authorInput.label "Autor:">
 <!ENTITY authorInput.accessKey "A">
-<!ENTITY descriptionInput.label "Descripció">
+<!ENTITY descriptionInput.label "Descripció:">
 <!ENTITY descriptionInput.accessKey "D">
 <!ENTITY locationNewPage.label "[Pàgina nova, no s'ha desat encara]">
-<!ENTITY EditHEADSource1.label "Usuaris avançats">
+<!ENTITY EditHEADSource1.label "Usuaris avançats:">
 <!ENTITY EditHEADSource2.label "Per editar altres continguts de la secció &lt;head&gt;, utilitzeu &quot;Font HTML&quot; al menú Visualitza o a la barra d'eines del mode d'edició.">

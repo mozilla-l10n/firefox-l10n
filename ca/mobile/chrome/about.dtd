@@ -9,9 +9,10 @@
 <!ENTITY aboutPage.checkForUpdates.checking     "Comprovació d'actualitzacions…">
 <!ENTITY aboutPage.checkForUpdates.none         "No hi ha cap actualització">
 <!ENTITY aboutPage.checkForUpdates.found        "Hi ha una actualització">
-
 <!-- LOCALIZATION NOTE:
      These strings are concatenated in order. Unneeded strings may be left blank.
-  -->
+-->
+
+
 <!ENTITY aboutPage.licenseLink                  "Informació de llicència">
 <!ENTITY aboutPage.licenseLinkSuffix            ".">

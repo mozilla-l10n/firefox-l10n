@@ -7,7 +7,7 @@
 <!ENTITY neverEncrypt.accesskey "M">
 <!ENTITY alwaysEncryptMessage.label "Obligatori (no es pot enviar cap missatge llevat que tots els destinataris tinguin certificats)">
 <!ENTITY alwaysEncryptMessage.accesskey "u">
-<!ENTITY encryptionCert.message "Utilitzeu aquest certificat per a xifrar i desxifrar els missatges que se us envien:">
+<!ENTITY encryptionCert.message "Utilitzeu aquest certificat per xifrar i desxifrar els missatges que se us envien:">
 <!ENTITY digitalSign.certificate.button "Seleccioneu…">
 <!ENTITY digitalSign.certificate.accesskey "S">
 <!ENTITY digitalSign.certificate_clear.button "Neteja">
@@ -19,10 +19,10 @@
 <!ENTITY signingGroupTitle.label "Signatura digital">
 <!ENTITY signMessage.label "Signa els missatges digitalment">
 <!ENTITY signMessage.accesskey "d">
-<!ENTITY signingCert.message "Utilitzeu aquest certificat per a signar digitalment els missatges que envieu:">
+<!ENTITY signingCert.message "Utilitzeu aquest certificat per signar digitalment els missatges que envieu:">
 
-<!ENTITY certificates.label     "Certificats">
-<!ENTITY manageCerts.label      "Visualitza els certificats">
+<!ENTITY certificates.label "Certificats">
+<!ENTITY manageCerts.label "Visualitza els certificats">
 <!ENTITY manageCerts.accesskey "t">
-<!ENTITY manageDevices.label    "Dispositius de seguretat">
+<!ENTITY manageDevices.label "Dispositius de seguretat">
 <!ENTITY manageDevices.accesskey "s">

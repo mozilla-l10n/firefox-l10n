@@ -1,3 +1,2 @@
-
-<!ENTITY sendPage.label "Envia la pàgina…">
-<!ENTITY sendPage.accesskey "g">
+<!ENTITY sendPage.label                   "Envia la pàgina…">
+<!ENTITY sendPage.accesskey               "g">

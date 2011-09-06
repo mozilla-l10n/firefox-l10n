@@ -1,6 +1,6 @@
-<!ENTITY doNotDownloadPop3Movemail.label "Per a estalviar espai, no baixis:">
-<!ENTITY doNotDownloadNntp.label "Per a estalviar espai, no baixis per a treballar-hi fora de línia:">
-<!ENTITY doNotDownloadImap.label "Per a estalviar espai, es poden restringir els missatges que es baixen com a còpia local per a treballar-hi fora de línia segons la seva antiguitat o la seva mida.">
+<!ENTITY doNotDownloadPop3Movemail.label "Per estalviar espai, no baixis:">
+<!ENTITY doNotDownloadNntp.label "Per estalviar espai, no baixis per treballar-hi fora de línia:">
+<!ENTITY doNotDownloadImap.label "Per estalviar espai, es poden restringir els missatges que es baixen com a còpia local per treballar-hi fora de línia segons la seva antiguitat o la seva mida.">
 <!ENTITY allFoldersOffline.label "Conserva els missatges d'aquest compte a l'ordinador">
 <!ENTITY allFoldersOffline.accesskey "o">
 <!ENTITY offlineNotDownload.label "Missatges més grans de">
@@ -14,18 +14,17 @@
 <!ENTITY nntpNotDownloadRead.accesskey "l">
 <!ENTITY nntpDownloadMsg.label "Missatges de fa més de">
 <!ENTITY nntpDownloadMsg.accesskey "g">
-<!ENTITY retentionCleanupImap.label "Per a recuperar espai de disc, es poden suprimir permanentment els missatges antics, tant les còpies locals com els originals del servidor remot.">
-<!ENTITY retentionCleanupPop.label "Per a recuperar espai de disc, es poden suprimir permanentment els missatges antics, inclosos els originals del servidor remot.">
-<!ENTITY retentionCleanup.label "Per a recuperar espai de disc, es poden suprimir permanentment els missatges antics">
-<!ENTITY retentionKeepMsg.accesskey "m">
+<!ENTITY retentionCleanup.label "Per recuperar espai de disc, es poden suprimir permanentment els missatges antics">
+<!ENTITY retentionCleanupImap.label "Per recuperar espai de disc, es poden suprimir permanentment els missatges antics, tant les còpies locals com els originals del servidor remot.">
+<!ENTITY retentionCleanupPop.label "Per recuperar espai de disc, es poden suprimir permanentment els missatges antics, inclosos els originals del servidor remot.">
 <!ENTITY retentionKeepMsg.label "Suprimeix els missatges de més de">
+<!ENTITY retentionKeepMsg.accesskey "m">
 <!ENTITY retentionKeepAll.label "No suprimeixis cap missatge">
 <!ENTITY retentionKeepAll.accesskey "a">
 <!ENTITY retentionKeepRecent.label "Suprimeix-ho tot excepte els últims">
 <!ENTITY retentionKeepRecent.accesskey "x">
 <!-- LOCALIZATION NOTE: Unhide with .keepUnreadOnly { display: -moz-box; } -->
 <!ENTITY retentionKeepUnreadHidden.label "Suprimeix sempre els missatges llegits (sobreescriu les opcions segons l'antiguitat)">
-
 <!ENTITY retentionApplyToFlagged.label "Conserva sempre els missatges destacats">
 <!ENTITY retentionApplyToFlagged.accesskey "e">
 <!ENTITY nntpRemoveMsgBody.label "Suprimeix el cos dels missatges de més de">
@@ -36,13 +35,13 @@
 <!ENTITY offlineImapAdvancedOffline.accesskey "A">
 <!ENTITY syncGroupTitle.label "Sincronització de missatges">
 <!ENTITY diskspaceGroupTitle.label "Espai de disc">
+<!-- LOCALIZATION NOTE: (ageAutosyncBefore.label, ageAutosyncMiddle.label, ageAutosyncAfter.label):
+  The entities ageAutosyncBefore.label, ageAutosyncMiddle.label, and ageAutosyncAfter.label appear
+  on a single line within the scope of useAutosync.ByAge as follows:
 
-<!-- LOCALIZATION NOTE: (useAutosyncBefore.label, useAutosyncMiddle.label, useAutosyncAfter.label):
-  The entities useAutosyncBefore.label, useAutosyncMiddle.label, and
-  useAutosyncAfter.label appear on a single line in preferences as follows:
-
-  &useAutosyncBefore.label [textbox for autosync value] &useAutosyncMiddle.label; [dropdown for autosync interval] &useAutosyncAfter.label;
+  &ageAutosyncBefore.label [textbox for autosync value] &ageAutosyncMiddle.label; [dropdown for autosync interval] &ageAutosyncAfter.label;
 -->
+
 <!ENTITY allAutosync.label               "Sincronitza localment tots els missatges tot i la seva antiguitat">
 <!ENTITY allAutosync.accesskey           "c">
 <!ENTITY ageAutosyncBefore.label         "Sincronitza els més recents">
@@ -53,5 +52,3 @@
 <!ENTITY monthAgeInterval.label          "Mesos">
 <!ENTITY yearAgeInterval.label           "Anys">
 <!ENTITY ageAutosyncAfter.label          "">
-
-

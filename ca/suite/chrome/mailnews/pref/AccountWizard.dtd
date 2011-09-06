@@ -5,9 +5,9 @@
 <!-- Entities for Account Type page -->
 
 
-<!ENTITY accountSetupInfo.label "Per a poder rebre missatges, primer heu de configurar un compte de correu o de grups de discussió.">
+<!ENTITY accountSetupInfo.label "Per poder rebre missatges, primer heu de configurar un compte de correu o de grups de discussió.">
 <!ENTITY accountTypeTitle.label "Configuració d'un compte nou">
-<!ENTITY accountTypeDesc.label "Aquest auxiliar recollirà la informació necessària per configurar un compte de correu o un grup de discussió. Si no sabeu la informació sol·licitada, si us plau, contacteu amb l'administrador del sistema o proveïdor d'Internet.">
+<!ENTITY accountTypeDesc.label "Aquest auxiliar recollirà la informació necessària per configurar un compte de correu o un grup de discussió. Si no sabeu la informació sol·licitada, contacteu amb l'administrador del sistema o proveïdor d'Internet.">
 <!ENTITY accountTypeDirections.label "Seleccioneu el tipus de compte que voleu configurar:">
 <!ENTITY accountTypeMail.label "Compte de correu">
 <!ENTITY accountTypeMail.accesskey "e">
@@ -37,13 +37,13 @@
 <!ENTITY serverTitle.label "Informació del servidor">
 <!ENTITY incomingServerTypeDesc.label "Seleccioneu el tipus de servidor d'entrada que utilitzeu.">
 <!-- LOCALIZATION NOTE (incomingServerNameDesc.label) : Do not translate "&quot;pop.example.net&quot;" in below line -->
-<!ENTITY incomingServerNameDesc.label "Introduïu el nom del servidor d'entrada (per exemple, &quot;pop.example.net&quot;).">
+<!ENTITY incomingServerNameDesc.label "Introduïu el nom del servidor d'entrada (per exemple, &quot;pop.exemple.net&quot;).">
 <!ENTITY incomingServerLabel.label "Servidor d'entrada:">
 <!ENTITY incomingServerLabel.accesskey "S">
 <!-- LOCALIZATION NOTE (newsServerNameDesc.label) : Do not translate "NNTP" or the "&quot;" entities in below line -->
-<!ENTITY newsServerNameDesc.label "Introduïu el nom del servidor de grups de discussió (NNTP) (per exemple, &quot;news.example.net&quot;).">
+<!ENTITY newsServerNameDesc.label "Introduïu el nom del servidor de grups de discussió (NNTP) (per exemple, &quot;news.exemple.net&quot;).">
 <!-- LOCALIZATION NOTE (smtpServerDesc.label) : Do not translate "SMTP" and "&quot;smtp.example.net&quot;" in below line -->
-<!ENTITY smtpServerDesc.label "Introduïu el nom del vostre servidor de sortida (SMTP) (per exemple, &quot;smtp.example.net&quot;).">
+<!ENTITY smtpServerDesc.label "Introduïu el nom del vostre servidor de sortida (SMTP) (per exemple, &quot;smtp.exemple.net&quot;).">
 <!ENTITY smtpServerLabel.label "Servidor de sortida:">
 <!ENTITY smtpServerLabel.accesskey "o">
 <!ENTITY newsServerLabel.label "Servidor de grup de missatges:">
@@ -55,7 +55,7 @@
 <!ENTITY popType.label "POP">
 <!ENTITY popType.accesskey "P">
 <!ENTITY leaveMsgsOnSrvr.label "Desa els missatges al servidor">
-<!ENTITY leaveMsgsOnSrvr.accesskey "L">
+<!ENTITY leaveMsgsOnSrvr.accesskey "l">
 <!-- LOCALIZATION NOTE (haveSmtp1.prefix and haveSmtp1.suffix2) : Do not translate "SMTP" and "&quot;" in
      these variables. Also, translate haveSmtp1.prefix and haveSmtp1.suffix2 as a single sentence, inserting
      text after the "&quot;" entity in haveSmtp1.suffix2, if required grammatically.
@@ -99,15 +99,15 @@
 
 
 <!ENTITY completionTitle.label "Felicitats!">
-<!ENTITY completionText.label "Si us plau, comproveu que la informació de sota és correcta.">
+<!ENTITY completionText.label "Comproveu que la informació de sota és correcta.">
 <!ENTITY serverTypePrefix.label "Tipus del servidor d'entrada:">
 <!ENTITY serverNamePrefix.label "Nom del servidor d'entrada:">
 <!ENTITY smtpServerNamePrefix.label "Nom del servidor de sortida (SMTP):">
 <!ENTITY newsServerNamePrefix.label "Nom del servidor de grups de discussió (NNTP):">
 <!ENTITY downloadOnLogin.label "Baixa els missatges ara">
 <!ENTITY downloadOnLogin.accesskey "B">
-<!ENTITY deferStorageDesc.label "Marqueu aquesta casella de selecció per a emmagatzemar el correu d'aquest compte en la safata d'entrada global de les carpetes locals. Altrament, el compte apareixerà com un de nivell superior i el seu correu s'emmagatzemarà en el seu propi directori.">
+<!ENTITY deferStorageDesc.label "Marqueu aquesta casella de selecció per emmagatzemar el correu d'aquest compte en la safata d'entrada global de les carpetes locals. Altrament, el compte apareixerà com un de nivell superior i el seu correu s'emmagatzemarà en el seu propi directori.">
 <!ENTITY deferStorage.label "Utilitza la safata d'entrada global (emmagatzema el correu a les carpetes locals)">
 <!ENTITY deferStorage.accesskey "g">
-<!ENTITY clickFinish.label "Feu un clic a Finalitza per a desar aquests paràmetres i sortir de l'auxiliar de comptes.">
-<!ENTITY clickFinish.labelMac "Feu un clic a Fet per a desar aquests paràmetres i sortir de l'auxiliar de comptes.">
+<!ENTITY clickFinish.label "Feu un clic a Finalitza per desar aquests paràmetres i sortir de l'auxiliar de comptes.">
+<!ENTITY clickFinish.labelMac "Feu un clic a Fet per desar aquests paràmetres i sortir de l'auxiliar de comptes.">

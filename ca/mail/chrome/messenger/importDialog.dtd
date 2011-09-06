@@ -20,6 +20,7 @@
  the Initial Developer. All Rights Reserved.
 
  Contributor(s):
+     Jeff Beckley <beckley@qualcomm.com>
 
  Alternatively, the contents of this file may be used under the terms of
  either the GNU General Public License Version 2 or later (the "GPL"), or
@@ -34,20 +35,17 @@
  the terms of any one of the MPL, the GPL or the LGPL.
 
  ***** END LICENSE BLOCK ***** -->
-
-<!-- Catalan Translation: Projecte Mozilla en català - Softcatalà - http://www.softcatala.org/projectes/mozilla/ -->
-
-
 <!--
 LOCALIZATION NOTE : 'Communicator 4.x' is the used for previous versions of 
 Netscape Communicator, Please translate using the brandname in respective 
 languages for Netscape Communicator 4 releases.
-LOCALIZATION NOTE : Do not translate any of the occurances of the word 
+LOCALIZATION NOTE : Do not translate any of the occurrences of the word 
 "&brandShortName;" below.
 -->
 
+
 <!ENTITY importDialog.windowTitle "Importa">
-<!ENTITY importAll.label    	  "Importa-ho tot">
+<!ENTITY importAll.label          "Importa-ho tot">
 <!ENTITY importAll.accesskey      "t">
 <!ENTITY importMail.label         "Correu">
 <!ENTITY importMail.accesskey     "C">
@@ -61,23 +59,21 @@ LOCALIZATION NOTE : Do not translate any of the occurances of the word
 <!ENTITY  window.width            "45em">
 <!ENTITY  window.macWidth         "50em">
 
-<!ENTITY importTitle.label "Auxiliar d'importació de correu del &brandShortName;">
-<!ENTITY importShortDesc.label "Importa el correu i les llibretes d'adreces d'altres programes">
+<!ENTITY importTitle.label        "Auxiliar d'importació del &brandShortName;">
+<!ENTITY importShortDesc.label    "Importa correu, llibretes d'adreces, paràmetres i filtres d'altres programes">
 
-<!ENTITY importDescription1.label "Amb aquest assistent podreu importar missatges de correu, entrades de llibreta d'adreces i/o preferències d'altres programes de correu i formats habituals de llibretes d'adreces cap a la Missatgeria del &brandShortName;.">
-<!ENTITY importDescription2.label "Una vegada s'hagin importat, hi podreu accedir des de la Missatgeria i/o la llibreta d'adreces del &brandShortName;">
+<!ENTITY importDescription1.label "Aquest auxiliar importarà missatges de correu, entrades de llibreta d'adreces, preferències i/o filtres d'altres programes de correu i formats habituals de llibretes d'adreces cap a la Missatgeria del &brandShortName;.">
+<!ENTITY importDescription2.label "Una vegada s'hagin importat, hi podreu accedir des del &brandShortName;">
 
-<!ENTITY selectDescription.label "Seleccioneu el tipus de fitxer que voldríeu importar:">
+<!ENTITY selectDescription.label  "Seleccioneu el tipus de fitxer que voleu importar:">
 <!ENTITY selectDescription.accesskey "S">
 
-<!ENTITY back.label "&lt; Enrere">
-<!ENTITY forward.label "Endavant &gt;">
-<!ENTITY finish.label "Finalitza">
-<!ENTITY cancel.label "Canceŀla">
+<!ENTITY back.label               "&lt; Enrere">
+<!ENTITY forward.label            "Endavant &gt;">
+<!ENTITY finish.label             "Finalitza">
+<!ENTITY cancel.label             "Cancel·la">
 
-<!ENTITY select.label "Seleccioneu el tipus de material a importar:">
+<!ENTITY select.label             "O bé, seleccioneu quin tipus d'informació voleu importar:">
 
-<!ENTITY title.label "Títol">
-<!ENTITY processing.label "S'està important…">
-
-
+<!ENTITY title.label              "Títol">
+<!ENTITY processing.label         "S'està important…">

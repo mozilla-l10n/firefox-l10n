@@ -60,7 +60,7 @@
 <!ENTITY maxMessagesStart.accesskey "m">
 <!-- LOCALIZATION NOTE (maxMessagesEnd.label) : see note for maxMessagesStart.label -->
 <!ENTITY maxMessagesEnd.label "missatges">
-<!ENTITY alwaysAuthenticate.label "Soŀlicita sempre autenticació en connectar amb aquest servidor">
+<!ENTITY alwaysAuthenticate.label "Sol·licita sempre autenticació en connectar amb aquest servidor">
 <!ENTITY alwaysAuthenticate.accesskey "l">
 <!ENTITY newsrcFilePath.label "Fitxer newsrc:">
 <!ENTITY localPath.label "Directori local:">

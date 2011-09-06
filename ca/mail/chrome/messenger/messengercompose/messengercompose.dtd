@@ -1,7 +1,7 @@
 <!--LOCALIZATION NOTE messengercompose.dtd Main UI for message composition -->
 <!ENTITY msgComposeWindow.title "Redacta: (sense assumpte)">
-
 <!-- File Menu -->
+
 <!ENTITY fileMenu.label "Fitxer">
 <!ENTITY fileMenu.accesskey "F">
 <!ENTITY newMenu.label "Nou">
@@ -28,7 +28,7 @@
 <!ENTITY saveCmd.key "S">
 <!ENTITY saveCmd.accesskey "s">
 <!ENTITY saveAsCmd.label "Anomena i desa">
-<!ENTITY saveAsCmd.accesskey "a">
+<!ENTITY saveAsCmd.accesskey "A">
 <!ENTITY saveAsFileCmd.label "Fitxer…">
 <!ENTITY saveAsFileCmd.accesskey "F">
 <!ENTITY saveAsDraftCmd.label "Esborrany">
@@ -46,8 +46,8 @@
 <!ENTITY printCmd.label "Imprimeix…">
 <!ENTITY printCmd.key "P">
 <!ENTITY printCmd.accesskey "p">
-
 <!-- Edit Menu -->
+
 <!ENTITY editMenu.label "Edita">
 <!ENTITY editMenu.accesskey "E">
 <!ENTITY undoCmd.label "Desfés">
@@ -86,8 +86,8 @@
 <!ENTITY findPrevCmd.key "G">
 <!ENTITY findPrevCmd.key2 "VK_F3">
 <!ENTITY findPrevCmd.accesskey "n">
-
 <!-- View Menu -->
+
 <!ENTITY viewMenu.label "Visualitza">
 <!ENTITY viewMenu.accesskey "V">
 <!ENTITY viewToolbarsMenuNew.label "Barres d'eines">
@@ -103,12 +103,12 @@
 
 <!ENTITY addressSidebar.label "Barra lateral de contactes">
 <!ENTITY addressSidebar.accesskey "o">
-
 <!-- Format Menu -->
+
 <!ENTITY formatMenu.label "Format">
 <!ENTITY formatMenu.accesskey "o">
-
 <!-- Options Menu -->
+
 <!ENTITY optionsMenu.label "Opcions">
 <!ENTITY optionsMenu.accesskey "p">
 <!ENTITY checkSpellingCmd2.label "Comprova l'ortografia">
@@ -119,9 +119,9 @@
 <!ENTITY enableInlineSpellChecker.accesskey "v">
 <!ENTITY quoteCmd.label "Cita el missatge">
 <!ENTITY quoteCmd.accesskey "m">
-
 <!--LOCALIZATION NOTE attachVCard.label Don't translate the term 'vCard' -->
-<!ENTITY attachVCard.label "Adjunta una tarjeta personal (vCard)">
+
+<!ENTITY attachVCard.label "Adjunta una targeta personal (vCard)">
 <!ENTITY attachVCard.accesskey "v">
 
 <!ENTITY returnReceiptMenu.label "Confirmació de recepció">
@@ -137,7 +137,7 @@
 <!ENTITY htmlFormatCmd.label "Només text enriquit (HTML)">
 <!ENTITY htmlFormatCmd.accesskey "r">
 <!ENTITY bothFormatCmd.label "Text senzill i enriquit (HTML)">
-<!ENTITY bothFormatCmd.accesskey "l">
+<!ENTITY bothFormatCmd.accesskey "L">
 <!ENTITY priorityMenu.label "Prioritat">
 <!ENTITY priorityMenu.accesskey "P">
 <!ENTITY priorityButton.label "Prioritat:">
@@ -154,8 +154,8 @@
 <!ENTITY fileCarbonCopyCmd.label "Envia una còpia a">
 <!ENTITY fileCarbonCopyCmd.accesskey "i">
 <!ENTITY fileHereMenu.label "Arxiva'l aquí">
-
 <!-- Tools Menu -->
+
 <!ENTITY tasksMenu.label "Eines">
 <!ENTITY tasksMenu.accesskey "n">
 <!ENTITY messengerCmd.label "Missatgeria">
@@ -169,25 +169,25 @@
 <!ENTITY accountManagerCmdUnix.accesskey "s">
 <!ENTITY preferencesCmd.label "Opcions…">
 <!ENTITY preferencesCmd.accesskey "O">
-<!ENTITY preferencesCmdUnix.label "Preferències">
-<!ENTITY preferencesCmdUnix.accesskey "n">
-
+<!ENTITY preferencesCmdUnix.label       "Preferències">
+<!ENTITY preferencesCmdUnix.accesskey   "n">
 <!--  Mac OS X Window Menu -->
+
 <!ENTITY minimizeWindow.key "m">
 <!ENTITY minimizeWindow.label "Minimitza la finestra">
 <!ENTITY bringAllToFront.label "Porta-ho tot al davant">
 <!ENTITY zoomWindow.label "Finestra del zoom">
 <!ENTITY windowMenu.label "Finestra">
-
 <!-- Mail Toolbar -->
+
 <!ENTITY sendButton.label "Envia">
 <!ENTITY quoteButton.label "Cita">
 <!ENTITY addressButton.label "Adreça">
 <!ENTITY attachButton.label "Adjunta">
 <!ENTITY spellingButton.label "Ortografia">
 <!ENTITY saveButton.label "Desa">
-
 <!-- Mail Toolbar Tooltips -->
+
 <!ENTITY sendButton.tooltip "Envia ara aquest missatge">
 <!ENTITY sendlaterButton.tooltip "Envia aquest missatge més tard">
 <!ENTITY quoteButton.tooltip "Cita el missatge anterior">
@@ -195,16 +195,16 @@
 <!ENTITY attachButton.tooltip "Adjunta un fitxer a aquest missatge">
 <!ENTITY spellingButton.tooltip "Comprova l'ortografia de la selecció o del missatge sencer">
 <!ENTITY saveButton.tooltip "Desa aquest missatge">
-<!ENTITY cutButton.tooltip "Retalla">
-<!ENTITY copyButton.tooltip "Copia">
-<!ENTITY pasteButton.tooltip "Enganxa">
-
+<!ENTITY cutButton.tooltip              "Retalla">
+<!ENTITY copyButton.tooltip             "Copia">
+<!ENTITY pasteButton.tooltip            "Enganxa">
 <!-- Headers -->
 <!--LOCALIZATION NOTE headersSpace.style is for aligning  the From:, To: and
     Subject: rows. It should be larger than the largest Header label  -->
+
 <!ENTITY headersSpace.style "width: 9em;">
 <!ENTITY fromAddr.label "De:">
-<!ENTITY fromAddr.accesskey "d">
+<!ENTITY fromAddr.accesskey "D">
 <!ENTITY toAddr.label "A:">
 <!ENTITY ccAddr.label "Cc:">
 <!ENTITY bccAddr.label "Cco:">
@@ -213,10 +213,11 @@
 <!ENTITY followupAddr.label "Seguiment-A:">
 <!ENTITY subject.label "Assumpte:">
 <!ENTITY subject.accesskey "s">
+<!-- LOCALIZATION NOTE attachments.accesskey This access key should correspond
+     to the strings in attachmentCount in composeMsgs.properties -->
 <!ENTITY attachments.accesskey "j">
-
 <!-- Format Toolbar, imported from editorAppShell.xul -->
-<!--LOCALIZATION NOTE formatToolbar. Don't change any of these Style Characters -->
+
 <!ENTITY SmileButton.tooltip "Insereix una cara somrient">
 <!ENTITY smiley1Cmd.label "Somriure">
 <!ENTITY smiley2Cmd.label "Enfadat">
@@ -234,8 +235,8 @@
 <!ENTITY smiley14Cmd.label "Innocent">
 <!ENTITY smiley15Cmd.label "Plor">
 <!ENTITY smiley16Cmd.label "Llavis segellats">
-
 <!-- Message Pane Context Menu -->
+
 <!ENTITY spellCheckNoSuggestions.label "No s'ha trobat cap suggeriment">
 <!ENTITY spellCheckIgnoreWord.label "Ignora la paraula">
 <!ENTITY spellCheckIgnoreWord.accesskey "I">
@@ -266,11 +267,11 @@
 <!ENTITY attachFile.accesskey "f">
 <!ENTITY attachPage.label "Adjunta una pàgina web…">
 <!ENTITY attachPage.accesskey "w">
-
 <!-- Spell checker context menu items -->
+
 <!ENTITY spellAddDictionaries.label "Afegeix diccionaris…">
 <!ENTITY spellAddDictionaries.accesskey "A">
-
 <!-- Title for the address picker panel -->
+
 <!ENTITY addressesSidebarTitle.label "Contactes">
 

@@ -16,7 +16,7 @@
 <!ENTITY restoreSessionRadio.accesskey  "p">
 
 <!ENTITY header2.label                  "Pàgina d'inici">
-<!ENTITY homePageIntro.label            "En prémer el botó Inici anireu a aquesta pàgina.">
+<!ENTITY homePageIntro.label            "En prémer el botó Inici, anireu a aquest grup de pàgines:">
 <!ENTITY useCurrent.label               "Utilitza la pàgina actual">
 <!ENTITY useCurrent.accesskey           "U">
 <!ENTITY useCurrentGroup.label          "Utilitza el grup actual">

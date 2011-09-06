@@ -2,7 +2,7 @@
 
 <!ENTITY     cookiesonsystem.label          "Hi ha les galetes següents emmagatzemades al vostre ordinador:">
 <!ENTITY     cookiename.label               "Nom de la galeta">
-<!ENTITY     cookiedomain.label             "Lloc"> 
+<!ENTITY     cookiedomain.label             "Lloc">
 <!ENTITY     button.removecookies.label     "Suprimeix les galetes">
 <!ENTITY     button.removecookie.label      "Suprimeix la galeta">
 <!ENTITY     button.removecookie.accesskey  "r">
@@ -26,4 +26,3 @@
 
 <!ENTITY     button.close.label             "Tanca">
 <!ENTITY     button.close.accesskey         "c">
-

@@ -1,9 +1,9 @@
 <!ENTITY restorepage.tabtitle       "Restauració de la sessió">
-
 <!-- LOCALIZATION NOTE: The title is intended to be apologetic and disarming, expressing dismay
      and regret that we are unable to restore the session for the user -->
+
 <!ENTITY restorepage.errorTitle     "Bé, és lamentable.">
-<!ENTITY restorepage.problemDesc    "El &brandShortName; té problemes per a recuperar les vostres finestres i pestanyes. Normalment és a causa d'una pàgina web oberta recentment.">
+<!ENTITY restorepage.problemDesc    "El &brandShortName; té problemes per recuperar les vostres finestres i pestanyes. Normalment és a causa d'una pàgina web oberta recentment.">
 <!ENTITY restorepage.tryThis        "Podeu provar el següent:">
 <!ENTITY restorepage.restoreSome    "Descartar una o més pestanyes que creieu que poden estar causant el problema">
 <!ENTITY restorepage.startNew       "Iniciar una sessió de navegació completament nova">

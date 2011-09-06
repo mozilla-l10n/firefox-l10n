@@ -21,6 +21,7 @@
 <!ENTITY contextPostPluginBoth.label "Es comprovi el correu (després de classificar) o s'executi manualment">
 <!ENTITY filterActionDesc.label "Realitza les següents accions:">
 <!ENTITY filterActionDesc.accesskey "z">
+<!-- New Style Filter Rule Actions -->
 
 <!ENTITY moveMessage.label "Mou el missatge a">
 <!ENTITY copyMessage.label "Copia el missatge a">
@@ -38,4 +39,3 @@
 <!ENTITY ignoreSubthread.label "Ignora la subconversa">
 <!ENTITY watchThread.label "Vigila la conversa">
 <!ENTITY stopExecution.label "Atura l'execució del filtre">
-

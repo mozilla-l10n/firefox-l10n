@@ -35,11 +35,8 @@
    - the terms of any one of the MPL, the GPL or the LGPL.
    -
    - ***** END LICENSE BLOCK ***** -->
-
-<!-- Catalan Translation: Projecte Mozilla en català - Softcatalà - http://www.softcatala.org/projectes/mozilla/ -->
-
-
 <!-- extracted from EdReplace.xul -->
+
 
 <!ENTITY replaceDialog.title "Cerca i reemplaça">
 <!ENTITY findField.label "Cerca el text:">
@@ -51,7 +48,7 @@
 <!ENTITY wrapCheckbox.label "Cerca a tot el text">
 <!ENTITY wrapCheckbox.accesskey "C">
 <!ENTITY backwardsCheckbox.label "Cerca cap enrere">
-<!ENTITY backwardsCheckbox.accesskey "c">
+<!ENTITY backwardsCheckbox.accesskey "C">
 <!ENTITY findNextButton.label "Cerca el següent">
 <!ENTITY findNextButton.accesskey "C">
 <!ENTITY replaceButton.label "Reemplaça">

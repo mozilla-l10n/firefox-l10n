@@ -20,7 +20,7 @@
    - the Initial Developer. All Rights Reserved.
    -
    - Contributor(s):
-   -   Charles Manxke (cmanske@netscape.com)
+   -   Charles Manske (cmanske@netscape.com)
    -
    - Alternatively, the contents of this file may be used under the terms of
    - either of the GNU General Public License Version 2 or later (the "GPL"),
@@ -35,12 +35,9 @@
    - the terms of any one of the MPL, the GPL or the LGPL.
    -
    - ***** END LICENSE BLOCK ***** -->
-
-<!-- Catalan Translation: Projecte Mozilla en català - Softcatalà - http://www.softcatala.org/projectes/mozilla/ -->
-
-
 <!-- Window title -->
-<!ENTITY windowTitle.label "Comprova les ubicacions de la imatge i l'enllaç">
-<!ENTITY succeeded.label "Amb èxit">
-<!ENTITY failed.label "Ha fallat">
+
+<!ENTITY windowTitle.label     "Comprova les ubicacions de la imatge i l'enllaç">
+<!ENTITY succeeded.label       "Amb èxit">
+<!ENTITY failed.label          "Ha fallat">
 <!ENTITY closeButton.label     "Tanca">

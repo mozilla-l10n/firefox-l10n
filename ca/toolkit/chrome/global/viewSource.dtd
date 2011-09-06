@@ -1,6 +1,6 @@
 <!-- extracted from content/viewSource.xul -->
-
 <!-- LOCALIZATION NOTE (mainWindow.title) : DONT_TRANSLATE --> 
+
 <!ENTITY mainWindow.title "&brandFullName;">
 <!-- LOCALIZATION NOTE (mainWindow.titlemodifier) : DONT_TRANSLATE --> 
 <!ENTITY mainWindow.titlemodifier "&brandFullName;">
@@ -23,12 +23,12 @@
 <!ENTITY closeCmd.label "Tanca">
 <!ENTITY closeCmd.accesskey "c">
 <!ENTITY closeCmd.commandkey "W">
-
 <!-- LOCALIZATION NOTE :
 textEnlarge.commandkey3, textReduce.commandkey2 and
 textReset.commandkey2 are alternative acceleration keys for zoom.
 If shift key is needed with your locale popular keyboard for them,
 you can use these alternative items. Otherwise, their values should be empty.  -->
+
 
 <!ENTITY textEnlarge.commandkey "+">
 <!ENTITY textEnlarge.commandkey2 "=">
@@ -42,8 +42,8 @@ you can use these alternative items. Otherwise, their values should be empty.  -
 <!ENTITY goToLineCmd.accesskey "l">
 <!ENTITY goToLineCmd.commandkey "l">
 
-<!ENTITY viewMenu.label "Visualitza">
-<!ENTITY viewMenu.accesskey "V">
+<!ENTITY viewMenu.label           "Visualitza">
+<!ENTITY viewMenu.accesskey       "V">
 <!ENTITY reloadCmd.label "Actualitza">
 <!ENTITY reloadCmd.accesskey "z">
 <!ENTITY reloadCmd.commandkey "r">

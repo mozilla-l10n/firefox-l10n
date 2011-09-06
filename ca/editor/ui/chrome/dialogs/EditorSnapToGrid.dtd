@@ -34,18 +34,15 @@
    - the terms of any one of the MPL, the GPL or the LGPL.
    -
    - ***** END LICENSE BLOCK ***** -->
-
-<!-- Catalan Translation: Projecte Mozilla en català - Softcatalà - http://www.softcatala.org/projectes/mozilla/ -->
-
-
-
 <!-- Window title -->
-<!ENTITY windowTitle.label "Ajusta la graella">
 
-<!ENTITY enableSnapToGrid.label "habilita ajusta la graella">
+
+<!ENTITY windowTitle.label "Ajusta a la graella">
+
+<!ENTITY enableSnapToGrid.label "habilita ajusta a la graella">
 <!ENTITY enableSnapToGrid.accessKey "e">
 
-<!ENTITY sizeEditField.label "Mida">
+<!ENTITY sizeEditField.label "Mida:">
 <!ENTITY sizeEditField.accessKey "M">
 
 <!ENTITY pixelsLabel.value "píxels">

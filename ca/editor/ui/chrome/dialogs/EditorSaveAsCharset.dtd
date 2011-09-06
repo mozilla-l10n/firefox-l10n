@@ -34,20 +34,15 @@
    - the terms of any one of the MPL, the GPL or the LGPL.
    -
    - ***** END LICENSE BLOCK ***** -->
-
-<!-- Catalan Translation: Projecte Mozilla en català - Softcatalà - http://www.softcatala.org/projectes/mozilla/ -->
-
-
 <!-- These strings are generic to all or most of the editor's dialogs. -->
-
 <!-- This button is for the progressive disclosure of additional editing functionality -->
-
 <!-- These strings are for use specifically in the editor's link dialog. -->
+
+
+
 <!ENTITY windowTitle.label "Desa i canvia el joc de caràcters">
 <!ENTITY documentTitleTitle.label "Títol de la pàgina">
 <!ENTITY documentCharsetTitle.label "Joc de caràcters">
 <!ENTITY documentCharsetDesc.label "Seleccioneu el joc de caràcters amb què voleu desar un document:">
 <!ENTITY documentExportToText.label "Exporta a text">
-
-
 

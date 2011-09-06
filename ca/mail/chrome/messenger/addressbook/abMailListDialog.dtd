@@ -35,26 +35,23 @@
  the terms of any one of the MPL, the GPL or the LGPL.
 
  ***** END LICENSE BLOCK ***** -->
-
-<!-- Catalan Translation: Projecte Mozilla en català - Softcatalà - http://www.softcatala.org/projectes/mozilla/ -->
-
-
 <!-- Title -->
-<!ENTITY mailListWindow.title "Llista de correu">
+
+<!ENTITY mailListWindow.title           "Llista de correu">
 <!-- Labels -->
-<!ENTITY addToAddressBook.label "Afegeix a:">
+<!ENTITY addToAddressBook.label         "Afegeix a:">
 
-<!ENTITY ListName.label "Nom de la llista:">
-<!ENTITY ListNickName.label "Sobrenom de la llista:">
-<!ENTITY ListDescription.label "Descripció:">
+<!ENTITY ListName.label                 "Nom de la llista:">
+<!ENTITY ListNickName.label             "Sobrenom de la llista:">
+<!ENTITY ListDescription.label          "Descripció:">
 <!-- See bug 58485, when we implement drag and drop, add 'or drag addresses' back in -->
-<!ENTITY AddressTitle.label "Escriu noms o arrossega adreces a la llista de correu inferior:">
-<!ENTITY UpButton.label "Mou cap amunt">
-<!ENTITY DownButton.label "Mou cap avall">
-
+<!ENTITY AddressTitle.label             "Escriu noms o arrossega adreces a la llista de correu inferior:">
+<!ENTITY UpButton.label                 "Mou cap amunt">
+<!ENTITY DownButton.label               "Mou cap avall">
 <!-- Access Keys -->
-<!ENTITY addToAddressBook.accesskey "A">
-<!ENTITY ListName.accesskey "l">
-<!ENTITY ListNickName.accesskey "S">
-<!ENTITY ListDescription.accesskey "e">
+
+<!ENTITY addToAddressBook.accesskey     "A">
+<!ENTITY ListName.accesskey             "l">
+<!ENTITY ListNickName.accesskey         "S">
+<!ENTITY ListDescription.accesskey      "e">
 

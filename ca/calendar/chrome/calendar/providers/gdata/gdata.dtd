@@ -14,7 +14,7 @@
    - The Original Code is Google Calendar Provider code.
    -
    - The Initial Developer of the Original Code is
-   -   Philipp Kewisch (mozilla@kewis.ch)
+   -   Philipp Kewisch <mozilla@kewis.ch>
    - Portions created by the Initial Developer are Copyright (C) 2006
    - the Initial Developer. All Rights Reserved.
    -
@@ -37,7 +37,7 @@
 <!ENTITY gdata-provider.label "Google Calendar">
 
 <!ENTITY gdata.privacy.default.label "Google per defecte">
-<!ENTITY gdata.privacy.default.accesskey "D">
+<!ENTITY gdata.privacy.default.accesskey "d">
 
 <!ENTITY gdata.migration.title "Migració de calendaris de només lectura">
 <!ENTITY gdata.migration.description "El proveïdor del Google Calendar ha detectat que teniu calendaris que només poden accedir al Google Calendar en mode de només lectura. Si voleu actualitzar cap d'aquests calendaris, seleccioneu-los més avall">

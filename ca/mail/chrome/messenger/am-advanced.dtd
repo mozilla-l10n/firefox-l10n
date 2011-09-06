@@ -1,9 +1,9 @@
 <!-- extracted from am-advanced.xul -->
-
 <!-- LOCALIZATION NOTE (smtpServer.label): do not translate "SMTP" in below line -->
-<!ENTITY smtpServer.label "Paràmetres del servidor de sortida (SMTP)">
 
+<!ENTITY smtpServer.label "Paràmetres del servidor de sortida (SMTP)">
 <!-- LOCALIZATION NOTE (smtpDesc.label): do not translate "SMTP" in below line -->
+
 <!ENTITY smtpDesc.label "Només cal indicar un servidor de sortida (SMTP), encara que tingueu diversos comptes de correu. Introduïu el nom del servidor per als missatges de sortida.">
 
 <!ENTITY smtpListAdd.label  "Afegeix…">
@@ -21,4 +21,3 @@
 <!ENTITY userName.label   "Nom d'usuari: ">
 <!ENTITY connectionSecurity.label "Connexió segura: ">
 <!ENTITY authMethod.label   "Mètode d'autenticació: ">
-

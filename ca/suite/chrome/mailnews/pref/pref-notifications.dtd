@@ -44,7 +44,7 @@
 <!ENTITY showAnimatedAlert.accesskey      "M">
 <!ENTITY showTrayIcon.label               "Mostra una icona de safata">
 <!ENTITY showTrayIcon.accesskey           "t">
-<!ENTITY bounceSystemDockIcon.label       "Anima la icona acoblada">
+<!ENTITY bounceSystemDockIcon.label       "Anima la icona de l'acoblador">
 <!ENTITY bounceSystemDockIcon.accesskey   "A">
 <!ENTITY playButton.label                 "Reprodueix">
 <!ENTITY playButton.accesskey             "R">

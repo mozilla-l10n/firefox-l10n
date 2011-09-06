@@ -59,7 +59,7 @@
 <!ENTITY  generalSource         "Origen:">
 <!ENTITY  generalModified       "Modificat:">
 <!ENTITY  generalEncoding       "Codificació:">
-<!ENTITY  generalMetaName       "Nom:">
+<!ENTITY  generalMetaName       "Nom">
 <!ENTITY  generalMetaContent    "Contingut">
 <!ENTITY  generalSecurityDetails           "Detalls">
 <!ENTITY  generalSecurityDetails.accesskey "D">
@@ -112,16 +112,16 @@
 
 <!ENTITY  permTab               "Permisos">
 <!ENTITY  permTab.accesskey     "P">
-<!ENTITY  permUseDefault        "Utiliza els predeterminats">
+<!ENTITY  permUseDefault        "Utilitza els per defecte">
 <!ENTITY  permAskAlways         "Demana-m'ho sempre">
 <!ENTITY  permAllow             "Permet">
 <!ENTITY  permAllowSession      "Permet per aquesta sessió">
 <!ENTITY  permBlock             "Bloca">
-<!ENTITY  permissionsFor        "Permisos per a:">
+<!ENTITY  permissionsFor        "Permisos per:">
 <!ENTITY  permImage             "Carregar imatges">
 <!ENTITY  permPopup             "Obrir finestres emergents">
 <!ENTITY  permCookie            "Definir galetes">
-<!ENTITY  permInstall           "Instaŀlar extensions o temes">
+<!ENTITY  permInstall           "Instal·lar extensions o temes">
 <!ENTITY  permGeo               "Compartir la ubicació">
 
 <!ENTITY  securityTab           "Seguretat">
@@ -133,7 +133,7 @@
 
 
 <!ENTITY  securityView.identity.header   "Identitat del lloc web">
-<!ENTITY  securityView.identity.owner    "Propietari: ">
+<!ENTITY  securityView.identity.owner    "Propietari:">
 <!ENTITY  securityView.identity.domain   "Lloc web: ">
 <!ENTITY  securityView.identity.verifier "Verificat per: ">
 
@@ -144,6 +144,6 @@
 <!ENTITY  securityView.privacy.viewCookies.accessKey    "g">
 <!ENTITY  securityView.privacy.passwords                "He desat cap contrasenya d'aquest lloc web?">
 <!ENTITY  securityView.privacy.viewPasswords            "Visualitza les contrasenyes desades">
-<!ENTITY  securityView.privacy.viewPasswords.accessKey  "z">
+<!ENTITY  securityView.privacy.viewPasswords.accessKey  "y">
 
 <!ENTITY  securityView.technical.header                 "Detalls tècnics">

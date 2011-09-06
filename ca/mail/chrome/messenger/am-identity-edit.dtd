@@ -1,7 +1,7 @@
 <!ENTITY identityDialog.style "width: 67ch;">
 <!ENTITY identityTitle.label "Paràmetres de la identitat">
-<!ENTITY identityListDesc.label "Configureu els paràmetres per a aquesta identitat">
+<!ENTITY identityListDesc.label "Configureu els paràmetres per a aquesta identitat:">
 
-<!ENTITY settingsTab.label "Configuració">
+<!ENTITY settingsTab.label       "Configuració">
 <!ENTITY copiesFoldersTab.label "Còpies i carpetes">
-<!ENTITY addressingTab.label "Redacció i adreçament">
+<!ENTITY addressingTab.label    "Redacció i adreçament">

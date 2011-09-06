@@ -35,12 +35,9 @@
    - the terms of any one of the MPL, the GPL or the LGPL.
    -
    - ***** END LICENSE BLOCK ***** -->
-
-<!-- Catalan Translation: Projecte Mozilla en català - Softcatalà - http://www.softcatala.org/projectes/mozilla/ -->
-
    
-<!ENTITY renameFolderDialog.title "Reanomena la carpeta">
-<!ENTITY rename.label "Introduïu el nou nom de la carpeta:">
-<!ENTITY rename.accesskey "e">
+<!ENTITY renameFolderDialog.title          "Reanomena la carpeta">
+<!ENTITY rename.label                      "Introduïu el nou nom de la carpeta:">
+<!ENTITY rename.accesskey                  "e">
 <!ENTITY accept.label                      "Reanomena">
 <!ENTITY accept.accesskey                  "R">

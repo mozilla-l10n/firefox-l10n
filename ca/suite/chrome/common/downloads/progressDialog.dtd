@@ -36,7 +36,7 @@
    -
    - ***** END LICENSE BLOCK ***** -->
 
-<!ENTITY progress.title                  "Baixada en progrés…">
+<!ENTITY progress.title                  "Baixada en curs…">
 <!ENTITY closeWindow.key                 "w">
 <!ENTITY cmd.pause.tooltip               "Pausa">
 <!ENTITY cmd.resume.tooltip              "Reprèn">

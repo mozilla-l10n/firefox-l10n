@@ -17,3 +17,5 @@
 <!ENTITY textZoomOnly.accesskey                 "x">
 <!ENTITY blockAutoRefresh.label                 "Avisa'm quan els llocs web provin de redirigir o actualitzar la pàgina">
 <!ENTITY blockAutoRefresh.accesskey             "v">
+<!ENTITY siteSpecific.label                     "Recorda els nivells de zoom de cada lloc web">
+<!ENTITY siteSpecific.accesskey                 "m">

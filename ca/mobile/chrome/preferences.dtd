@@ -4,7 +4,7 @@
 <!ENTITY content.title                             "Contingut">
 <!ENTITY reflowZoom.title                          "Canvia el format del text en fer zoom">
 <!ENTITY showImages.title                          "Mostra les imatges">
-<!ENTITY enableJavaScript.title  	           "Habilita el JavaScript">
+<!ENTITY enableJavaScript.title                    "Habilita el JavaScript">
 <!ENTITY privacy.title                             "Privadesa i seguretat">
 <!ENTITY allowCookies.title                        "Permet les galetes">
 <!ENTITY doNotTrack.title                          "Digues als llocs que no em segueixin">
@@ -20,4 +20,4 @@
 <!ENTITY homepage.none                             "Pàgina en blanc">
 <!ENTITY homepage.default                          "Inici del &brandShortName;">
 <!ENTITY homepage.currentpage                      "Utilitza la pàgina actual">
-<!ENTITY showCharsetEncoding.title                 "Mostra la codificació de caràcters">
+<!ENTITY showCharsetEncoding.title                 "Mostra els caràcters de codificació">

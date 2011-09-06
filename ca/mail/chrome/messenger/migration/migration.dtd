@@ -1,29 +1,29 @@
 
-<!ENTITY migrationWizard.title "Auxiliar d'importació">
+<!ENTITY migrationWizard.title          "Auxiliar d'importació">
 
-<!ENTITY importFromWin.label "Importa les opcions, paràmetres de compte, llibreta d'adreces i altres dades des de:">
-<!ENTITY importFromNonWin.label "Importa les preferències, paràmetres dels comptes, llibreta d'adreces i altres dades des de:">
+<!ENTITY importFromWin.label            "Importa les opcions, paràmetres de compte, llibreta d'adreces i altres dades des de:">
+<!ENTITY importFromNonWin.label         "Importa les preferències, paràmetres dels comptes, llibreta d'adreces i altres dades des de:">
 
-<!ENTITY importFromNothing.label "No importis res">
-<!ENTITY importFromNothing.accesskey "r">
-<!ENTITY importFromSeamonkey2.label "Netscape 6, 7, Mozilla 1.x o SeaMonkey">
+<!ENTITY importFromNothing.label        "No importis res">
+<!ENTITY importFromNothing.accesskey    "r">
+<!ENTITY importFromSeamonkey2.label     "Netscape 6, 7, Mozilla 1.x o SeaMonkey">
 <!ENTITY importFromSeamonkey2.accesskey "N">
-<!ENTITY importFromOExpress.label "Outlook Express">
-<!ENTITY importFromOExpress.accesskey "u">
-<!ENTITY importFromOutlook.label "Outlook">
-<!ENTITY importFromOutlook.accesskey "O">
-<!ENTITY importFromEudora.label "Eudora">
-<!ENTITY importFromEudora.accesskey "E">
+<!ENTITY importFromOExpress.label       "Outlook Express">
+<!ENTITY importFromOExpress.accesskey   "u">
+<!ENTITY importFromOutlook.label        "Outlook">
+<!ENTITY importFromOutlook.accesskey    "O">
+<!ENTITY importFromEudora.label         "Eudora">
+<!ENTITY importFromEudora.accesskey     "E">
 
-<!ENTITY importSource.title "Importació de la configuració i les carpetes de correu">
-<!ENTITY importItems.title "Elements per importar">
-<!ENTITY importItems.label "Seleccioneu quins elements voleu importar:">
+<!ENTITY importSource.title             "Importació de la configuració i les carpetes de correu">
+<!ENTITY importItems.title              "Elements per importar">
+<!ENTITY importItems.label              "Seleccioneu quins elements voleu importar:">
 
-<!ENTITY migrating.title "S'està important…">
-<!ENTITY migrating.label "Els següents elements s'estan important en aquests moments…">
+<!ENTITY migrating.title                "S'està important…">
+<!ENTITY migrating.label                "Els següents elements s'estan important en aquests moments…">
 
-<!ENTITY selectProfile.title "Seleccioneu un perfil">
-<!ENTITY selectProfile.label "Els següents perfils estan disponibles per importar-se des de:">
+<!ENTITY selectProfile.title            "Seleccioneu un perfil">
+<!ENTITY selectProfile.label            "Els següents perfils estan disponibles per importar-se des de:">
 
-<!ENTITY done.title "Fi de la importació">
-<!ENTITY done.label "Els següents elements s'han importat amb èxit:">
+<!ENTITY done.title                     "Fi de la importació">
+<!ENTITY done.label                     "Els següents elements s'han importat amb èxit:">

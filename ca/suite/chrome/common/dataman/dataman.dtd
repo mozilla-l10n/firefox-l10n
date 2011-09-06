@@ -89,7 +89,7 @@
 <!ENTITY cookies.button.remove.label "Suprimeix">
 <!ENTITY cookies.button.remove.accesskey "r">
 
-<!ENTITY cookies.blockOnRemove.label "En suprimir, impideix als llocs web llistats deixar galetes en un futur">
+<!ENTITY cookies.blockOnRemove.label "En suprimir, impedeix als llocs web llistats deixar galetes en un futur">
 <!ENTITY cookies.blockOnRemove.accesskey "w">
 <!-- permissions -->
 
@@ -120,7 +120,7 @@
 <!ENTITY prefs.button.remove.accesskey "r">
 <!-- passwords -->
 
-<!ENTITY pwd.description "You have the following passwords stored for this domain:">
+<!ENTITY pwd.description "Hi ha emmagatzemades les contrasenyes següents per a aquest domini:">
 
 <!ENTITY pwd.tree.host.label "Lloc web">
 <!ENTITY pwd.tree.username.label "Nom d'usuari">

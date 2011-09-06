@@ -18,7 +18,7 @@
 <!ENTITY signatureHtml.label "Utilitza HTML (ex., &lt;b&gt;bold&lt;/b&gt;)">
 <!ENTITY signatureHtml.accesskey "H">
 <!ENTITY signatureFile.label "Adjunta la signatura des d'un fitxer (text, HTML, o imatges):">
-<!ENTITY signatureFile.accesskey "t">
+<!ENTITY signatureFile.accesskey "T">
 <!ENTITY edit.label "Edita…">
 <!ENTITY choose.label "Trieu…">
 <!ENTITY choose.accesskey "T">
@@ -30,8 +30,8 @@
 
 <!ENTITY manageIdentities.label "Gestiona les identitats…">
 <!ENTITY manageIdentities.accesskey "G">
-
 <!-- LOCALIZATION NOTE (smtpName.label) : do not translate "SMTP" in below line -->
+
 <!ENTITY smtpName.label "Servidor de sortida (SMTP):">
 <!ENTITY smtpName.accesskey "i">
-<!ENTITY smtpDefaultServer.label "Utilitzeu el servidor per defecte">
+<!ENTITY smtpDefaultServer.label "Utilitza el servidor per defecte">

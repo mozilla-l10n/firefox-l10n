@@ -52,15 +52,15 @@
 <!ENTITY emptyTrashOnExit.accesskey "B">
 <!ENTITY loginAtStartup.label "En iniciar, comprova si hi ha correu nou">
 <!ENTITY loginAtStartup.accesskey "c">
-<!-- LOCALIZATION NOTE (maxMessagesStart.label) : translate below 2 lines with grammar dependency 
+<!-- LOCALIZATION NOTE (maxMessagesStart.label) : translate below 2 lines with grammar dependency
     maxMessengerStart.label will be followed by maxMessagesEnd.label with the number
-	 of messages between them
+   of messages between them
 -->
 <!ENTITY maxMessagesStart.label "Demana-m'ho abans de baixar més de">
 <!ENTITY maxMessagesStart.accesskey "m">
 <!-- LOCALIZATION NOTE (maxMessagesEnd.label) : see note for maxMessagesStart.label -->
 <!ENTITY maxMessagesEnd.label "missatges">
-<!ENTITY alwaysAuthenticate.label "Soŀlicita sempre autenticació en connectar amb aquest servidor">
+<!ENTITY alwaysAuthenticate.label "Sol·licita sempre autenticació en connectar amb aquest servidor">
 <!ENTITY alwaysAuthenticate.accesskey "l">
 <!ENTITY newsrcFilePath.label "Fitxer newsrc:">
 <!ENTITY localPath.label "Directori local:">
@@ -68,8 +68,8 @@
 <!ENTITY abbreviateOn.label "Noms sencers (per exemple, «netscape.public.mozilla.mail-news»)">
 <!ENTITY abbreviateOff.label "Noms abreujats (per exemple, «n.p.m.mail-news»)">
 <!ENTITY advancedButton.label "Avançat…">
-<!ENTITY serverDefaultCharset.label "Codificació de caràcters per defecte:">
 <!ENTITY advancedButton.accesskey "v">
+<!ENTITY serverDefaultCharset.label "Codificació de caràcters per defecte:">
 <!ENTITY localFolderPicker.label "Seleccioneu el directori local">
 <!ENTITY browseFolder.label "Navega…">
 <!ENTITY browseFolder.accesskey "N">

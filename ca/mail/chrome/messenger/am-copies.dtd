@@ -18,7 +18,7 @@
 <!ENTITY saveMessageDlg.accesskey "s">
 <!-- LOCALIZATION NOTE (sentFolderOn.label): OK to translate this, bug #57440 -->
 <!ENTITY sentFolderOn.label "Carpeta &quot;Enviat&quot;:">
-<!ENTITY sentFolderOn.accesskey "e">
+<!ENTITY sentFolderOn.accesskey "E">
 <!ENTITY sentInOtherFolder.label "Altres:">
 <!ENTITY sentInOtherFolder.accesskey "A">
 <!-- LOCALIZATION NOTE (archivesFolderOn.label): OK to translate this, bug #57440 -->
@@ -28,7 +28,7 @@
 <!ENTITY archiveHierarchyButton.label "Opcions de l'arxiu…">
 <!ENTITY archiveHierarchyButton.accesskey "O">
 <!ENTITY archivesFolderOn.label "Carpeta &quot;Arxiu&quot; a:">
-<!ENTITY archivesFolderOn.accesskey "a">
+<!ENTITY archivesFolderOn.accesskey "A">
 <!ENTITY archiveInOtherFolder.label "Altres:">
 <!ENTITY archiveInOtherFolder.accesskey "r">
 <!ENTITY specialFolders.label "Esborranys i plantilles">
@@ -44,4 +44,3 @@
 <!ENTITY templatesFolderOn.accesskey "P">
 <!ENTITY templateInOtherFolder.label "Altres:">
 <!ENTITY templateInOtherFolder.accesskey "r">
-

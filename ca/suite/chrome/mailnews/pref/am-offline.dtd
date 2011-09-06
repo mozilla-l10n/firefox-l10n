@@ -1,6 +1,6 @@
-<!ENTITY doNotDownloadPop3Movemail.label "Per a estalviar espai, no baixis:">
-<!ENTITY doNotDownloadNntp.label "Per a estalviar espai, no baixis per a treballar-hi fora de línia:">
-<!ENTITY doNotDownloadImap.label "Per a estalviar espai, es poden restringir els missatges que es baixen com a còpia local per a treballar-hi fora de línia segons la seva antiguitat o la seva mida.">
+<!ENTITY doNotDownloadPop3Movemail.label "Per estalviar espai, no baixis:">
+<!ENTITY doNotDownloadNntp.label "Per estalviar espai, no baixis per treballar-hi fora de línia:">
+<!ENTITY doNotDownloadImap.label "Per estalviar espai, es poden restringir els missatges que es baixen com a còpia local per treballar-hi fora de línia segons la seva antiguitat o la seva mida.">
 <!ENTITY allFoldersOffline.label "Conserva els missatges d'aquest compte a l'ordinador">
 <!ENTITY allFoldersOffline.accesskey "o">
 <!ENTITY offlineNotDownload.label "Missatges més grans de">
@@ -14,9 +14,9 @@
 <!ENTITY nntpNotDownloadRead.accesskey "l">
 <!ENTITY nntpDownloadMsg.label "Missatges de fa més de">
 <!ENTITY nntpDownloadMsg.accesskey "g">
-<!ENTITY retentionCleanup.label "Per a recuperar espai de disc, es poden suprimir permanentment els missatges antics">
-<!ENTITY retentionCleanupImap.label "Per a recuperar espai de disc, es poden suprimir permanentment els missatges antics, tant les còpies locals com els originals del servidor remot.">
-<!ENTITY retentionCleanupPop.label "Per a recuperar espai de disc, es poden suprimir permanentment els missatges antics, inclosos els originals del servidor remot.">
+<!ENTITY retentionCleanup.label "Per recuperar espai de disc, es poden suprimir permanentment els missatges antics">
+<!ENTITY retentionCleanupImap.label "Per recuperar espai de disc, es poden suprimir permanentment els missatges antics, tant les còpies locals com els originals del servidor remot.">
+<!ENTITY retentionCleanupPop.label "Per recuperar espai de disc, es poden suprimir permanentment els missatges antics, inclosos els originals del servidor remot.">
 <!ENTITY retentionKeepMsg.label "Suprimeix els missatges de més de">
 <!ENTITY retentionKeepMsg.accesskey "m">
 <!ENTITY retentionKeepAll.label "No suprimeixis cap missatge">

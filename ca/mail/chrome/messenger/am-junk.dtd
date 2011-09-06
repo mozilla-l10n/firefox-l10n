@@ -1,5 +1,5 @@
 <!ENTITY junkSettings.label "Paràmetres del correu brossa">
-<!ENTITY trainingWarning.label "Si s'habilita, primer haureu d'entrenar el &brandShortName; a identificar el correu brossa utilitzant la barra del correu brossa per a marcar els missatges com a brossa o no. Necessitareu identificar tant els missatges brossa com els que no ho són.">
+<!ENTITY trainingWarning.label "Si s'habilita, primer haureu d'entrenar el &brandShortName; a identificar el correu brossa utilitzant la barra del correu brossa per marcar els missatges com a brossa o no. Necessitareu identificar tant els missatges brossa com els que no ho són.">
 <!ENTITY level.label "Habilita els controls adaptatius de correu brossa per a aquest compte">
 <!ENTITY level.accesskey "e">
 
@@ -18,5 +18,3 @@
 
 <!ENTITY ispHeaders.label "Confia en les capçaleres de missatge brossa definides per: ">
 <!ENTITY ispHeaders.accesskey "f">
-
-

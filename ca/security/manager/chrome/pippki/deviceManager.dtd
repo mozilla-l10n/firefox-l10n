@@ -35,38 +35,35 @@
    -
    - ***** END LICENSE BLOCK ***** -->
 
-<!-- Catalan Translation: Projecte Mozilla en català - Softcatalà - http://www.softcatala.org/projectes/mozilla/ -->
+<!ENTITY devmgr.title                           "Gestor de dispositius">
 
+<!ENTITY devmgr.devlist.label                   "Mòduls i dispositius de seguretat">
+<!ENTITY devmgr.details.title                   "Detalls">
+<!ENTITY devmgr.details.title2                  "Valor">
+<!ENTITY devmgr.status.label                    "Estat">
+<!ENTITY devmgr.version.label                   "Versió">
 
-<!ENTITY devmgr.title "Gestor de dispositius">
-
-<!ENTITY devmgr.devlist.label "Mòduls i dispositius de seguretat">
-<!ENTITY devmgr.details.title "Detalls">
-<!ENTITY devmgr.details.title2 "Valor">
-<!ENTITY devmgr.status.label "Estat">
-<!ENTITY devmgr.version.label "Versió">
-
-<!ENTITY devmgr.button.changeslotname.label "Reanomena la ranura">
+<!ENTITY devmgr.button.changeslotname.label     "Reanomena la ranura">
 <!ENTITY devmgr.button.changeslotname.accesskey "R">
-<!ENTITY devmgr.button.login.label "Inicia una sessió">
+<!ENTITY devmgr.button.login.label              "Inicia una sessió">
 <!ENTITY devmgr.button.login.accesskey          "n">
-<!ENTITY devmgr.button.logout.label "Finalitza la sessió">
+<!ENTITY devmgr.button.logout.label             "Finalitza la sessió">
 <!ENTITY devmgr.button.logout.accesskey         "z">
-<!ENTITY devmgr.button.changepw.label "Canvia la contrasenya">
+<!ENTITY devmgr.button.changepw.label           "Canvia la contrasenya">
 <!ENTITY devmgr.button.changepw.accesskey       "y">
-<!ENTITY devmgr.button.load.label "Carrega">
+<!ENTITY devmgr.button.load.label               "Carrega">
 <!ENTITY devmgr.button.load.accesskey           "g">
-<!ENTITY devmgr.button.unload.label "Descarrega">
+<!ENTITY devmgr.button.unload.label             "Descarrega">
 <!ENTITY devmgr.button.unload.accesskey         "D">
 <!ENTITY devmgr.button.fips.accesskey           "F">
 
-<!ENTITY loaddevice.info "Introduïu la informació del mòdul que voleu afegir.">
-<!ENTITY loaddevice.modname "Nom del mòdul:">
+<!ENTITY loaddevice.info                        "Introduïu la informació del mòdul que voleu afegir.">
+<!ENTITY loaddevice.modname                     "Nom del mòdul:">
 <!ENTITY loaddevice.modname.accesskey           "m">
-<!ENTITY loaddevice.modname.default "Nou mòdul PKCS#11">
-<!ENTITY loaddevice.filename "Nom de fitxer del mòdul:">
+<!ENTITY loaddevice.modname.default             "Nou mòdul PKCS#11">
+<!ENTITY loaddevice.filename                    "Nom de fitxer del mòdul:">
 <!ENTITY loaddevice.filename.accesskey          "f">
-<!ENTITY loaddevice.browse "Navega…">
+<!ENTITY loaddevice.browse                      "Navega…">
 <!ENTITY loaddevice.browse.accesskey            "N">
 
-<!ENTITY loaddevice.title "Carrega el dispositiu PKCS#11">
+<!ENTITY loaddevice.title                       "Carrega el dispositiu PKCS#11">

@@ -35,9 +35,6 @@
 
  ***** END LICENSE BLOCK ***** -->
 
-<!-- Catalan Translation: Projecte Mozilla en català - Softcatalà - http://www.softcatala.org/projectes/mozilla/ -->
-
-
 <!ENTITY fieldMapImport.title "Importa la llibreta d'adreces">
 <!ENTITY fieldMapImport.size "width: 45em; height: 35em;">
 <!ENTITY fieldMapImport.recordNumber "Registre:">
@@ -51,6 +48,6 @@
 <!ENTITY fieldMapImport.down.label "Mou cap avall">
 <!ENTITY fieldMapImport.down.accesskey "v">
 <!ENTITY fieldMapImport.fieldListTitle "Camps de la llibreta d'adreces:">
-<!ENTITY fieldMapImport.dataTitle "Registres de dades per a importar:">
+<!ENTITY fieldMapImport.dataTitle "Registres de dades per importar:">
 <!ENTITY fieldMapImport.skipFirstRecord.label "La primera entrada conté els noms dels camps">
 <!ENTITY fieldMapImport.skipFirstRecord.accessKey "L">

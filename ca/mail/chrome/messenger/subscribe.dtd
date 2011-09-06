@@ -35,24 +35,21 @@
 
  ***** END LICENSE BLOCK ***** -->
 
-<!-- Catalan Translation: Projecte Mozilla en català - Softcatalà - http://www.softcatala.org/projectes/mozilla/ -->
-
-
-<!ENTITY subscribeDialog.title "Subscripció a un grup de discussió">
-<!ENTITY subscribeButton.label "Subscriu-t'hi">
-<!ENTITY subscribeButton.accesskey "S">
-<!ENTITY unsubscribeButton.label "Canceŀla la subscripció">
-<!ENTITY unsubscribeButton.accesskey "u">
+<!ENTITY subscribeDialog.title        "Subscripció a un grup de discussió">
+<!ENTITY subscribeButton.label        "Subscriu-t'hi">
+<!ENTITY subscribeButton.accesskey    "S">
+<!ENTITY unsubscribeButton.label      "Cancel·la la subscripció">
+<!ENTITY unsubscribeButton.accesskey  "u">
 <!ENTITY newGroupsTab.label           "Nous grups">
 <!ENTITY newGroupsTab.accesskey       "N">
-<!ENTITY refreshButton.label "Refresca">
-<!ENTITY refreshButton.accesskey "R">
-<!ENTITY stopButton.label "Atura">
-<!ENTITY stopButton.accesskey "t">
-<!ENTITY server.label "Compte:">
-<!ENTITY server.accesskey "o">
-<!ENTITY subscribedHeader.label "Subscriu-t'hi">
+<!ENTITY refreshButton.label          "Refresca">
+<!ENTITY refreshButton.accesskey      "R">
+<!ENTITY stopButton.label             "Atura">
+<!ENTITY stopButton.accesskey         "t">
+<!ENTITY server.label                 "Compte:">
+<!ENTITY server.accesskey             "o">
+<!ENTITY subscribedHeader.label       "Subscriu-t'hi">
 <!-- commenting out until bug 38906 is fixed 
 <!ENTITY messagesHeader.label         "Messages"> -->
-<!ENTITY namefield.label "Mostra els elements que continguin:">
-<!ENTITY namefield.accesskey "o">
+<!ENTITY namefield.label              "Mostra els elements que continguin:">
+<!ENTITY namefield.accesskey          "o">

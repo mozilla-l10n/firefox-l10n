@@ -35,12 +35,8 @@
    -
    - ***** END LICENSE BLOCK ***** -->
 
-<!-- Catalan Translation: Projecte Mozilla en català - Softcatalà - http://www.softcatala.org/projectes/mozilla/ -->
-
-
 <!ENTITY windowTitle.label "Propietats de l'objectiu amb nom">
 <!ENTITY anchorNameEditField.label "Nom de l'objectiu:">
 <!ENTITY anchorNameEditField.accessKey "N">
 <!ENTITY nameInput.tooltip "Introduïu un nom únic per a aquest objectiu amb nom">
-
 

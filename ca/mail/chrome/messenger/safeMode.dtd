@@ -39,7 +39,7 @@
 <!ENTITY safeModeDialog.title             "Mode segur del &brandShortName;">
 <!ENTITY window.width                     "37em">
 
-<!ENTITY safeModeDescription.label        "El &brandShortName; s'està executant en Mode segur, que inhabilita termporalment la vostra configuració, els vostres temes i extensions.">
+<!ENTITY safeModeDescription.label        "El &brandShortName; s'està executant en Mode segur, que inhabilita temporalment la vostra configuració, els vostres temes i extensions.">
 <!ENTITY safeModeDescription2.label       "Si ho voleu podeu fer que siguin permanents els canvis següents:">
 
 <!ENTITY disableAddons.label              "Inhabilita tots els complements">

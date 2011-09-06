@@ -36,26 +36,23 @@
    - the terms of any one of the MPL, the GPL or the LGPL.
    -
    - ***** END LICENSE BLOCK ***** -->
-
-<!-- Catalan Translation: Projecte Mozilla en català - Softcatalà - http://www.softcatala.org/projectes/mozilla/ -->
-
-
 <!-- Window title -->
+
 
 <!ENTITY windowTitle.label "Propietats del focus">
 
-<!ENTITY link.label "Enllaç del «hotspot»">
-<!ENTITY urlFieldset.label "URL del «hotspot»:">
-<!ENTITY altFieldset.label "Text alternatiu del «hotspot»:">
-<!ENTITY browseButton.label "Navega…">
+<!ENTITY link.label    "Enllaç del «hotspot»">
+<!ENTITY urlFieldset.label  "URL del «hotspot»:">
+<!ENTITY altFieldset.label  "Text alternatiu del «hotspot»:">
+<!ENTITY browseButton.label  "Navega…">
 <!ENTITY targetFieldset.label "Paràmetre de l'objectiu">
-<!ENTITY target.label "Objectiu del «hotspot»">
-
+<!ENTITY target.label   "Objectiu del «hotspot»">
 <!-- Targets -->
+
 <!ENTITY commonFieldset.label "Objectis comuns:">
-<!ENTITY none.value "(cap)">
-<!ENTITY same.value "El mateix marc">
-<!ENTITY whole.value "Tota la pàgina">
-<!ENTITY new.value "Una finestra nova">
-<!ENTITY parent.value "Marc pare">
+<!ENTITY none.value    "(cap)">
+<!ENTITY same.value    "El mateix marc">
+<!ENTITY whole.value   "Tota la pàgina">
+<!ENTITY new.value    "Una finestra nova">
+<!ENTITY parent.value   "Marc pare">
 

@@ -43,7 +43,7 @@
 <!ENTITY viewDefaultCharset.accesskey    "d">
 
 <!ENTITY composingMessages.caption       "Redacció de missatges">
-<!ENTITY useMIME.label                   "Per a aquells missatges que continguin caràcters de 8-bit, utilitzeu la codificació MIME 'quoted printable'. Desmarqueu-ho per a enviar els missatges tal com són.">
+<!ENTITY useMIME.label                   "Per a aquells missatges que continguin caràcters de 8-bit, utilitzeu la codificació MIME 'quoted printable'. Desmarqueu-ho per enviar els missatges tal com són.">
 <!ENTITY useMIME.accesskey               "P">
 <!ENTITY sendDefaultCharset.label        "Codificació de caràcters per defecte:">
 <!ENTITY sendDefaultCharset.accesskey    "C">

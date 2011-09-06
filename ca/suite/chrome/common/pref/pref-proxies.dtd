@@ -6,9 +6,9 @@
 <!ENTITY  proxyTitle.label              "Configura els servidors intermediaris per accedir a Internet">
 <!ENTITY  directTypeRadio.label         "Connexió directa a Internet">
 <!ENTITY  directTypeRadio.accesskey     "d">
-<!ENTITY  systemTypeRadio.label         "Utitlitza els paràmetres de servidor intermediari del sistema">
+<!ENTITY  systemTypeRadio.label         "Utilitza els paràmetres de servidor intermediari del sistema">
 <!ENTITY  systemTypeRadio.accesskey     "U">
-<!ENTITY  manualTypeRadio.label         "Configuració manual del servidor intermediari">
+<!ENTITY  manualTypeRadio.label         "Configuració manual del servidor intermediari:">
 <!ENTITY  manualTypeRadio.accesskey     "m">
 <!ENTITY  wpadTypeRadio.label           "Descobreix automàticament la configuració del servidor intermediari">
 <!ENTITY  wpadTypeRadio.accesskey       "a">
@@ -22,6 +22,6 @@
 <!ENTITY  HTTPPort.accesskey            "o">
 <!ENTITY  advanced.label                "Avançat...">
 <!ENTITY  advanced.accesskey            "v">
-<!ENTITY  noproxy.label                 "Cap servidor per a:">
-<!ENTITY  noproxy.accesskey             "p">
-<!ENTITY  noproxyExplain.label          "Exemple: .empresa.com, .empresa.co.cat">
+<!ENTITY  noproxy.label                 "Sense servidor intermediari per a:">
+<!ENTITY  noproxy.accesskey             "n">
+<!ENTITY  noproxyExplain.label          "Exemple: .mozilla.org, .net.nz, 192.168.1.0/24">

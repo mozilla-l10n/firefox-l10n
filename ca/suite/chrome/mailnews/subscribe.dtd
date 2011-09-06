@@ -38,7 +38,7 @@
 <!ENTITY subscribeDialog.title        "Subscripció a un grup de discussió">
 <!ENTITY subscribeButton.label        "Subscriu-m'hi">
 <!ENTITY subscribeButton.accesskey    "S">
-<!ENTITY unsubscribeButton.label      "Canceŀla la subscripció">
+<!ENTITY unsubscribeButton.label      "Cancel·la la subscripció">
 <!ENTITY unsubscribeButton.accesskey  "u">
 <!ENTITY newGroupsTab.label           "Nous grups">
 <!ENTITY newGroupsTab.accesskey       "N">

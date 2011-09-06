@@ -17,7 +17,7 @@
 <!ENTITY radioNotSend.accesskey           "N">
 <!ENTITY radioAskUnsent                   "Demana'm si els vull enviar">
 <!ENTITY radioAskUnsent.accesskey         "s">
-<!ENTITY textGoingOffline                 "En desconnectar-me, amb els missatges per a llegir-los fora de línia:">
+<!ENTITY textGoingOffline                 "En desconnectar-me, amb els missatges per llegir-los fora de línia:">
 <!ENTITY radioAutoDownload                "Baixa'ls automàticament">
 <!ENTITY radioAutoDownload.accesskey      "B">
 <!ENTITY radioNotDownload                 "No els baixis">

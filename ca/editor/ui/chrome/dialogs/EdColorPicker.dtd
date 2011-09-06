@@ -35,9 +35,6 @@
    -
    - ***** END LICENSE BLOCK ***** -->
 
-<!-- Catalan Translation: Projecte Mozilla en català - Softcatalà - http://www.softcatala.org/projectes/mozilla/ -->
-
-
 <!ENTITY windowTitle.label "Color">
 <!ENTITY lastPickedColor.label "Darrer color triat">
 <!ENTITY lastPickedColor.accessKey "l">
@@ -54,5 +51,5 @@
 <!ENTITY background.accessKey "o">
 <!ENTITY table.label "Taula">
 <!ENTITY table.accessKey "T">
-<!ENTITY cell.label "Ceŀles">
+<!ENTITY cell.label "Cel·les">
 <!ENTITY cell.accessKey "C">

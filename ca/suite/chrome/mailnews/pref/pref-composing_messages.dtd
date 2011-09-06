@@ -46,7 +46,7 @@
 
 <!ENTITY replyQuoteInline.label               "Cita els missatges vists a l'interior en les respostes">
 <!ENTITY replyQuoteInline.accesskey           "C">
-<!ENTITY warnOnSendAccelKey.label             "Confirma quan s'utilitzi una drecera de teclat per a enviar el missatge">
+<!ENTITY warnOnSendAccelKey.label             "Confirma quan s'utilitzi una drecera de teclat per enviar el missatge">
 <!ENTITY warnOnSendAccelKey.accesskey         "C">
 <!-- LOCALIZATION NOTE (autoSave.label): This will concatenate with
      "xxx minutes", using a number and (autoSaveEnd.label). -->
@@ -59,8 +59,8 @@
 <!ENTITY char.label                           "caràcters">
 
 <!ENTITY spellingHeader.label                 "Ortografia">
-<!ENTITY spellCheck.label                     "Verfifica l'ortografia abans de l'enviament">
-<!ENTITY spellCheck.accesskey                 "r">
+<!ENTITY spellCheck.label                     "Comprova l'ortografia abans d'enviar">
+<!ENTITY spellCheck.accesskey                 "C">
 <!ENTITY spellCheckInline.label               "Verifica l'ortografia mentre escriviu">
 <!ENTITY spellCheckInline.accesskey           "e">
 <!ENTITY languagePopup.label                  "Llengua:">

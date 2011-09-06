@@ -5,8 +5,8 @@
     Place &brandShortName; in the phrase where the name of the application should appear
 -->
 <!ENTITY onStartLegend.label                    "En iniciar el &brandShortName;, obre">
-<!ENTITY navCheck.label                         "n">
-<!ENTITY navCheck.accesskey                     "B">
+<!ENTITY navCheck.label                         "Navegador">
+<!ENTITY navCheck.accesskey                     "v">
 <!ENTITY showToolsLegend.label                  "Mostra les barres d'eines com a">
 <!ENTITY picsNtextRadio.label                   "Imatges i text">
 <!ENTITY picsNtextRadio.accesskey               "g">

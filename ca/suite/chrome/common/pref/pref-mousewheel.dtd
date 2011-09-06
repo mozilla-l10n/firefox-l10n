@@ -11,8 +11,8 @@
 <!ENTITY scroll.label                    "Desplaça el document">
 <!ENTITY scroll.accesskey                "s">
 <!ENTITY scrollHoriz.accesskey           "ç">
-<!ENTITY scrollLines.label               " línies.">
-<!ENTITY scrollChars.label               " caracters. ">
+<!ENTITY scrollLines.label               " línies">
+<!ENTITY scrollChars.label               " caràcters">
 <!ENTITY useSystemDefault.label          "Per defecte al sistema">
 <!ENTITY useSystemDefault.accesskey      "i">
 <!ENTITY useSystemDefaultHoriz.accesskey "d">

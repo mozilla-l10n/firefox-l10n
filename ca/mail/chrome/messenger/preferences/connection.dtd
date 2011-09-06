@@ -1,38 +1,37 @@
+<!ENTITY  connectionsDialog.title       "Paràmetres de la connexió">
+<!ENTITY  window.width                   "55em">
 
-<!ENTITY connectionsDialog.title       "Paràmetres de la connexió">
-<!ENTITY window.width                   "55em">
-
-<!ENTITY proxyTitle.label "Configura els servidors intermediaris per a accedir a Internet">
-<!ENTITY noProxyTypeRadio.label        "Sense cap servidor intermediari">
-<!ENTITY noProxyTypeRadio.accesskey    "d">
+<!ENTITY  proxyTitle.label              "Configura els servidors intermediaris per accedir a Internet">
+<!ENTITY  noProxyTypeRadio.label        "Sense cap servidor intermediari">
+<!ENTITY  noProxyTypeRadio.accesskey    "d">
 <!ENTITY  systemTypeRadio.label         "Utilitza els paràmetres de servidor intermediari del sistema">
 <!ENTITY  systemTypeRadio.accesskey     "U">
-<!ENTITY WPADTypeRadio.label "Detecta automàticament els paràmetres del servidor intermediari per a aquesta xarxa">
-<!ENTITY WPADTypeRadio.accesskey "i">
-<!ENTITY manualTypeRadio.label "Configuració manual del servidor intermediari:">
-<!ENTITY manualTypeRadio.accesskey "m">
-<!ENTITY autoTypeRadio.label "URL de configuració automàtica del servidor intermediari:">
-<!ENTITY autoTypeRadio.accesskey "a">
-<!ENTITY reload.label "Actualitza">
-<!ENTITY reload.accesskey "l">
-<!ENTITY http.label "Servidor intermediari d'HTTP:">
-<!ENTITY http.accesskey "H">
-<!ENTITY ssl.label "Servidor intermediari d'SSL:">
-<!ENTITY ssl.accesskey "S">
-<!ENTITY socks.label "Ordinador central SOCKS:">
-<!ENTITY socks.accesskey "C">
-<!ENTITY socks4.label "SOCKS v4">
-<!ENTITY socks4.accesskey "K">
-<!ENTITY socks5.label "SOCKS v5">
-<!ENTITY socks5.accesskey "v">
-<!ENTITY HTTPport.label "Port:">
-<!ENTITY HTTPport.accesskey "P">
-<!ENTITY SSLport.label      "Port:">
-<!ENTITY SSLport.accesskey  "o">
-<!ENTITY SOCKSport.label   "Port:">
-<!ENTITY SOCKSport.accesskey "t">
-<!ENTITY noproxy.label "Sense cap servidor intermediari per a:">
-<!ENTITY noproxy.accesskey "n">
-<!ENTITY noproxyExplain.label "Exemple: .mozilla.org, .net.nz, 192.168.1.0/24">
-<!ENTITY shareproxy.label "Utilitza aquest servidor intermediari per a tots els protocols">
-<!ENTITY shareproxy.accesskey "l">
+<!ENTITY  WPADTypeRadio.label           "Detecta automàticament els paràmetres del servidor intermediari per a aquesta xarxa">
+<!ENTITY  WPADTypeRadio.accesskey       "i">
+<!ENTITY  manualTypeRadio.label         "Configuració manual del servidor intermediari:">
+<!ENTITY  manualTypeRadio.accesskey     "m">
+<!ENTITY  autoTypeRadio.label           "URL de configuració automàtica del servidor intermediari:">
+<!ENTITY  autoTypeRadio.accesskey       "a">
+<!ENTITY  reload.label                  "Actualitza">
+<!ENTITY  reload.accesskey              "l">
+<!ENTITY  http.label                    "Servidor intermediari d'HTTP:">
+<!ENTITY  http.accesskey                "H">
+<!ENTITY  ssl.label                     "Servidor intermediari d'SSL:">
+<!ENTITY  ssl.accesskey                 "S">
+<!ENTITY  socks.label                   "Ordinador central SOCKS:">
+<!ENTITY  socks.accesskey               "C">
+<!ENTITY  socks4.label                  "SOCKS v4">
+<!ENTITY  socks4.accesskey              "K">
+<!ENTITY  socks5.label                  "SOCKS v5">
+<!ENTITY  socks5.accesskey              "v">
+<!ENTITY  HTTPport.label                "Port:">
+<!ENTITY  HTTPport.accesskey            "P">
+<!ENTITY  SSLport.label                 "Port:">
+<!ENTITY  SSLport.accesskey             "o">
+<!ENTITY  SOCKSport.label               "Port:">
+<!ENTITY  SOCKSport.accesskey           "t">
+<!ENTITY  noproxy.label                 "Sense servidor intermediari per a:">
+<!ENTITY  noproxy.accesskey             "n">
+<!ENTITY  noproxyExplain.label          "Exemple: .mozilla.org, .net.nz, 192.168.1.0/24">
+<!ENTITY  shareproxy.label              "Utilitza aquest servidor intermediari per a tots els protocols">
+<!ENTITY  shareproxy.accesskey          "l">

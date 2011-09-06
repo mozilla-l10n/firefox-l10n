@@ -36,46 +36,43 @@
    - the terms of any one of the MPL, the GPL or the LGPL.
    -
    - ***** END LICENSE BLOCK ***** -->
-
-<!-- Catalan Translation: Projecte Mozilla en català - Softcatalà - http://www.softcatala.org/projectes/mozilla/ -->
-
-
 <!-- These strings are for use specifically in the editor's image map dialog. -->
-
 <!-- Window title -->
-<!ENTITY windowTitle.label "Editor del mapa de la imatge">
 
+
+<!ENTITY windowTitle.label "Editor del mapa de la imatge">
 <!-- Menu Items -->
 <!-- File menu -->
+
 <!ENTITY mapfileMenu.label "Fitxer">
 <!ENTITY mapfileMenu.accesskey "F">
 <!ENTITY clearCmd.label "Esborra">
 <!ENTITY clearCmd.accesskey "a">
 <!ENTITY closeCmd.label "Tanca">
 <!ENTITY closeCmd.accesskey "c">
-
 <!-- Edit menu -->
+
 <!ENTITY mapeditMenu.label "Edita">
 <!ENTITY mapeditMenu.accesskey "E">
 <!ENTITY cutCmd.label "Retalla">
 <!ENTITY cutCmd.accesskey "t">
 <!ENTITY copyCmd.label "Copia">
-<!ENTITY copyCmd.accesskey "c">
+<!ENTITY copyCmd.accesskey "C">
 <!ENTITY pasteCmd.label "Enganxa">
 <!ENTITY pasteCmd.accesskey "x">
 <!ENTITY selectallCmd.label "Selecciona-ho tot">
 <!ENTITY selectallCmd.accesskey "a">
 <!ENTITY propsCmd.label "Propietats del focus">
 <!ENTITY propsCmd.accesskey "f">
-
 <!-- View menu -->
+
 <!ENTITY mapviewMenu.label "Visualitza">
 <!ENTITY mapviewMenu.accesskey "V">
 <!ENTITY showhideTbarCmd.label "Amaga la barra d'eines">
 <!ENTITY showhideTbarCmd.accesskey "g">
 <!-- Scaling -->
 <!ENTITY mapviewScale.label "Escala">
-<!ENTITY mapviewScale.accesskey "S">
+<!ENTITY mapviewScale.accesskey "s">
 <!ENTITY apercentCmd.label "100">
 <!ENTITY apercentCmd.accesskey "1">
 <!ENTITY bpercentCmd.label "200">
@@ -85,11 +82,8 @@
 
 <!ENTITY zoominCmd.label "Amplia el zoom">
 <!ENTITY zoomoutCmd.label "Redueix el zoom">
-
-<!ENTITY zoominCmd.label "Amplia el zoom">
-<!ENTITY zoomoutCmd.label "Redueix el zoom">
-
 <!-- Keys -->
+
 <!ENTITY clear.key "d">
 <!ENTITY selectall.key "a">
 <!ENTITY close.key "l">

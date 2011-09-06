@@ -38,30 +38,27 @@
 
  ***** END LICENSE BLOCK ***** -->
 
-<!-- Catalan Translation: Projecte Mozilla en català - Softcatalà - http://www.softcatala.org/projectes/mozilla/ -->
+<!ENTITY            windowtitle.label      "&brandShortName; - Trieu un perfil d'usuari">
 
+<!ENTITY            profilename.label      "Nom del perfil:">
 
-<!ENTITY windowtitle.label "&brandShortName; - Trieu un perfil d'usuari">
+<!ENTITY            start.label            "Inicia el &brandShortName;">
+<!ENTITY            exit.label             "Surt">
 
-<!ENTITY profilename.label "Nom del perfil:">
+<!ENTITY            availprofiles.label    "Perfils disponibles">
 
-<!ENTITY start.label "Inicia el &brandShortName;">
-<!ENTITY exit.label "Surt">
-
-<!ENTITY availprofiles.label "Perfils disponibles">
-
-<!ENTITY newButton.label "Crea un perfil…">
-<!ENTITY newButton.accesskey "C">
-<!ENTITY renameButton.label "Reanomena el perfil…">
-<!ENTITY renameButton.accesskey "r">
-<!ENTITY deleteButton.label "Suprimeix el perfil…">
-<!ENTITY deleteButton.accesskey "p">
-
+<!ENTITY            newButton.label        "Crea un perfil…">
+<!ENTITY            newButton.accesskey    "C">
+<!ENTITY            renameButton.label     "Reanomena el perfil…">
+<!ENTITY            renameButton.accesskey "R">
+<!ENTITY            deleteButton.label     "Suprimeix el perfil…">
+<!ENTITY            deleteButton.accesskey "p">
 <!-- manager entities -->
-<!ENTITY pmDescription.label "El &brandShortName; emmagatzema informació sobre la vostra configuració, preferències, i altres elements d'usuari al vostre perfil d'usuari.">
 
-<!ENTITY offlineState.label "Treballa fora de línia">
-<!ENTITY offlineState.accesskey "f">
+<!ENTITY            pmDescription.label    "El &brandShortName; emmagatzema informació sobre la vostra configuració, preferències, i altres elements d'usuari al vostre perfil d'usuari.">
 
-<!ENTITY autoSelect.label "No ho demanis a l'inici">
-<!ENTITY autoSelect.accesskey "s">
+<!ENTITY            offlineState.label    "Treballa fora de línia">
+<!ENTITY            offlineState.accesskey "f">
+
+<!ENTITY            autoSelect.label       "No ho demanis a l'inici">
+<!ENTITY            autoSelect.accesskey   "s">
