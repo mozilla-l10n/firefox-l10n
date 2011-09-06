@@ -5,7 +5,7 @@
 <!ENTITY encryptionChoiceLabel.label "Standaard versleutelingsinstelling bij verzenden van berichten:">
 <!ENTITY neverEncrypt.label "Nooit (geen versleuteling gebruiken)">
 <!ENTITY neverEncrypt.accesskey "N">
-<!ENTITY alwaysEncryptMessage.label "Vereist (kan bericht niet verzenden, tenzij alle geadresseerden een certificaat hebben)">
+<!ENTITY alwaysEncryptMessage.label "Vereist (kan bericht niet verzenden, tenzij alle ontvangers een certificaat hebben)">
 <!ENTITY alwaysEncryptMessage.accesskey "V">
 <!ENTITY encryptionCert.message "Dit certificaat gebruiken voor het versleutelen en ontcijferen van naar u verzonden berichten:">
 <!ENTITY digitalSign.certificate.button "Selecteren…">
