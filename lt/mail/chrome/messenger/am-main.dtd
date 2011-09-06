@@ -43,6 +43,7 @@
 <!ENTITY email.accesskey "E">
 <!ENTITY replyTo.label "Atgalinis adresas:">
 <!ENTITY replyTo.accesskey "d">
+<!ENTITY replyTo.placeholder "Jeigu norite atsakymą gauti kitu adresu, jį įveskite čia">
 <!ENTITY organization.label "Organizacija:">
 <!ENTITY organization.accesskey "O">
 <!ENTITY signatureText.label "Prierašas:">
