@@ -1,402 +1,261 @@
-<?xml version="1.0" encoding="utf-8"?>
+<?xml version="1.0" encoding="UTF-8"?>
+
 <!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.1//EN"
   "http://www.w3.org/TR/xhtml11/DTD/xhtml11.dtd"[
   <!ENTITY % brandDTD SYSTEM "chrome://branding/locale/brand.dtd" >
   %brandDTD;
-  <!ENTITY % validationDTD SYSTEM "chrome://pippki/locale/validation.dtd" >
-  %validationDTD;
-  <!ENTITY % pref-validationDTD SYSTEM "chrome://pippki/locale/pref-validation.dtd" >
-  %pref-validationDTD;
-  <!ENTITY % pippkiDTD SYSTEM "chrome://pippki/locale/pippki.dtd" >
-  %pippkiDTD;
-  <!ENTITY % utilityOverlayDTD SYSTEM "chrome://communicator/locale/utilityOverlay.dtd" >
-  %utilityOverlayDTD;
-  <!ENTITY % preferencesDTD SYSTEM "chrome://communicator/locale/pref/preferences.dtd" >
-  %preferencesDTD;
-  <!ENTITY % certManagerDTD SYSTEM "chrome://pippki/locale/certManager.dtd" >
-  %certManagerDTD;
-
 ]>
 
-<html xmlns="http://www.w3.org/1999/xhtml" lang="fr" xml:lang="fr">
+<html xmlns="http://www.w3.org/1999/xhtml">
 <head>
-  <title>Préférences de sécurité -
-  Validation</title>
-  <meta http-equiv="Content-Type" content="application/xhtml; charset=utf-8" />
-  <!--<link rel="stylesheet" href="content_style.css" type="text/css" />-->
-  <link rel="stylesheet" type="text/css" href="helpFileLayout.css" />
+<title>Validation Settings</title>
+<link rel="stylesheet" href="helpFileLayout.css"
+  type="text/css"/>
 </head>
-
 <body>
 
-  <h1 id="validation_settings">Préférences de validation</h1>
+<h1 id="validation_settings">Validation Settings</h1>
 
-  <p>Cette section décrit comment définir vos
-  préférences de validation et comment contr&ocirc;ler les
-  préférences des listes de certificats révoqués
-  (LCR).</p>
+<p>This section describes how to set Validation preferences and how to control
+  Certificate Revocation List (CRL) settings.</p>
 
-  <p>Pour des instructions pas à pas des différentes tâches
-  à propos de la validation et des LCR, voir <a href=
-  "using_certs_help.xhtml#controlling_validation">comment fonctionne
-  la validation des certificats</a>.</p>
+<p>For step-by-step descriptions of various tasks related to validation and
+  CRLs, see <a href="using_certs_help.xhtml#controlling_validation">How
+  Certificate Validation Works</a>.</p>
 
-  <div class="contentsBox">
-    <p>Dans cette section&#160;:</p>
+<div class="contentsBox">In this section:
+  <ul>
+    <li><a href="#privacy_and_security_preferences_validation">Privacy &amp;
+      Security Preferences - Validation</a></li>
+    <li><a href="#manage_crls">Manage CRLs</a></li>
+    <li><a href="#crl_import_status">CRL Import Status</a></li>
+    <li><a href="#automatic_crl_update_preferences">Automatic CRL Update
+      Preferences</a></li>
+  </ul>
+</div>
 
+<h2 id="privacy_and_security_preferences_validation">Privacy &amp; Security
+  Preferences - Validation</h2>
+
+<p>This section describes how to use the Validation Settings panel. If you are
+  not already viewing the panel, follow these steps:</p>
+
+<ol>
+  <li>Open the <span class="mac">&brandShortName;</span>
+    <span class="noMac">Edit</span> menu and choose Preferences.</li>
+  <li>Under the Privacy &amp; Security category, click Validation. (If no
+    subcategories are visible, double-click Privacy &amp; Security to expand
+    the list.)</li>
+</ol>
+
+<p>For background information on certificate validation, see
+  <a href="using_certs_help.xhtml#controlling_validation">How Certificate
+  Validation Works</a>.</p>
+
+<h3 id="crl">CRL</h3>
+
+<p>A certificate revocation list (CRL) is a list of revoked certificates that
+  is generated and signed by a
+  <a href="glossary.xhtml#certificate_authority">certificate authority
+  (CA)</a>. It&apos;s possible to download a CRL to your browser, which can
+  check it to ensure that certificates are still valid before permitting their
+  use for authentication.</p>
+
+<p>Click Manage CRLs to see a list of the CRLs available to Certificate
+  Manager.</p>
+
+<p>For more information about managing CRLs, see
+  <a href="using_certs_help.xhtml#managing_crls">Managing CRLs</a>.</p>
+
+<h3 id="ocsp">OCSP</h3>
+
+<p>The Online Certificate Status Protocol (OCSP) makes it possible for
+  Certificate Manager to perform an online check of a certificate&apos;s
+  validity each time the certificate is viewed or used. This process involves
+  checking the certificate against a certificate revocation list (CRL)
+  maintained at a specified server. Your computer must be online for OCSP to
+  work.</p>
+
+<p>To specify how Certificate Manager uses OCSP, choose one of these settings
+  in the OCSP section of Validation Settings:</p>
+
+<ul>
+  <li><strong>Use the Online Certificate Status Protocol (OCSP) to confirm the
+    current validity of certificates</strong>: Select this setting if you want
+    Certificate Manager to perform an online status check each time it verifies
+    a certificate. If this setting is off, Certificate Manager will only
+    confirm the certificate&apos;s validity period and that it is correctly
+    signed by a CA whose own CA certificate is both listed under the CA
+    Certificates tab (in the main Certificate Manager window) and marked as
+    trusted for issuing that kind of certificate.</li>
+  <li><strong>Validate a certificate if it specifies a OCSP server</strong>:
+    Select this setting for online validation of certificates that provides a
+    validation service address (Service URL). Certificate Manager makes sure
+    that the certificate is listed as valid at the URL and checks validity
+    period and trust settings.</li>
+  <li><strong>Validate all certificates using the following OSCP
+    server</strong>: Select this setting if you want to specify a OCSP server
+    for the validation of all certificates. If you select this setting, you
+    should also choose the certificate from the Response Signer pop-up menu
+    that identifies the signer of the OCSP responses. With this setting, the
+    only certificates Certificate Manager recognizes are those that can be
+    verified by an OCSP response signed with the Response Signer certificate
+    (or signed using a certificate that chains to it).
+
+    <p>When you choose a Response Signer certificate from the pop-up menu,
+      Certificate Manager fills in the Service URL (if available) for that
+      signer automatically. If the Service URL is not filled in automatically,
+      you must provide it yourself; ask your system administrator for
+      details.</p>
+  </li>
+  <li><strong>When an OCSP server connection fails, treat the certificate as
+    invalid</strong>: Select this if you want the validation to fail if a
+    connection to the OCSP server can&apos;t be established.</li>
+</ul>
+
+<h2 id="manage_crls">Manage CRLs</h2>
+
+<p>This section describes how to use the Manage CRLs dialog box. To view it,
+  follow these steps:</p>
+
+<ol>
+  <li>Open the <span class="mac">&brandShortName;</span>
+    <span class="noMac">Edit</span> menu and choose Preferences.</li>
+  <li>Under the Privacy &amp; Security category, click Validation. (If no
+    subcategories are visible, double-click Privacy &amp; Security to expand
+    the list.)</li>
+  <li>Click Manage CRLs.</li>
+</ol>
+
+<p>This dialog box displays a list of the
+  <a href="glossary.xhtml#crl">CRLs</a> that you have
+  downloaded for use by your browser. Typically, you download a CRL by
+  clicking a URL. For information about how CRLs work, see
+  <a href="using_certs_help.xhtml#managing_crls">Managing CRLs</a>.</p>
+
+<p>To select a CRL, click it. You can then perform any of these actions:</p>
+
+<ul>
+  <li><strong>Delete</strong>: Deletes the CRL permanently from your hard disk.
+    Don&apos;t do this unless you&apos;re sure you no longer need the CRL for
+    validating certificates. If in doubt, consult your system
+    administrator.</li>
+  <li><strong>Settings</strong>: Opens the
+    <a href="#automatic_crl_update_preferences">Automatic CRL Update
+    Preferences</a> dialog box, which allows you to activate automatic CRL
+    updates for the selected CRL and specify how frequently they should be
+    performed.</li>
+  <li><strong>Update</strong>: Immediately updates the selected CRL
+  (if possible).</li>
+</ul>
+
+<p>The Manage CRLs dialog box provides the following information about each
+  CRL:</p>
+
+<ul>
+  <li><strong>Organization (O)</strong>: The name of the organization that
+    issued the CRL.</li>
+  <li><strong>Organizational Unit (OU)</strong>: The name of the organizational
+    unit that issued the CRL (such as the root CA for a particular kind of
+    certificate).</li>
+  <li><strong>Last Update</strong>: The date on which the browser&apos;s copy
+    of this CRL was last updated.</li>
+  <li><strong>Next Update</strong>: The next date on which an updated version
+    of this CRL will be published by the CRL issuer.</li>
+  <li><strong>Auto Update</strong>: Indicates whether Auto Update has been
+    enabled for this CRL. To view the settings that control auto updating,
+    select the CRL and click Settings.</li>
+  <li><strong>Auto Update Status</strong>:
     <ul>
-      <li><a href="#privacy_and_security_preferences_validatio">Préférences de
-      confidentialité et de sécurité - &pref.validation.title;</a></li>
-
-      <li><a href="#manage_crls">&validation.crlmanager.label;</a></li>
-
-      <li><a href="#crl_import_status">Statut de l'importation des LCR</a></li>
-
-      <li><a href="#automatic_crl_update_preferences">Préférences de mise
-      à jour automatique des LCR</a></li>
+      <li>If Auto Update has not been enabled, or if it has been enabled but
+        the next scheduled update has not yet occurrred, this field will be
+        blank.</li>
+      <li>After at least one auto update has occurred, this field shows
+        <q>failed</q> if the most recent auto update failed, or
+        <q>OK</q> if the most recent auto update was successful.</li>
     </ul>
-  </div>
+  </li>
+</ul>
 
+<h2 id="crl_import_status">CRL Import Status</h2>
 
-  <h2 id="privacy_and_security_preferences_validation">Préférences de confidentialité
-  et de sécurité - Validation</h2>
+<p>This section describes how to use the CRL Import Status dialog box, which
+  appears when you first attempt to import a CRL or when you successfully
+  update it manually.</p>
 
-  <p>Cette section décrit comment utiliser le panneau de configuration
-  de <q>&pref.validation.title;</q>. S'il n'est pas déjà ouvert, faites ce qui
-  suit&#160;:</p>
+<p>This dialog box informs you</p>
 
-  <ol>
-    <li>Ouvrez le menu <q><span class="mac">&brandShortName;</span><span
-    class="noMac">&editMenu.label;</span></q> et choisissez
-    <q>&preferencesCmd.label;</q>.</li>
+<ul>
+  <li>whether your attempt to import or update the CRL was successful</li>
+  <li>what organization issued the CRL</li>
+  <li>when the next update of this CRL will be published</li>
+  <li>whether Automatic Update is enabled for this CRL</li>
+</ul>
 
-    <li>Dans la catégorie <q>&security.label;</q>, choisissez
-    <q>&pref.validation.title;</q>. Si aucune sous-catégorie n'est visible,
-    double-cliquez sur <q>&security.label;</q> pour développer la liste.</li>
-  </ol>
+<p>If Automatic Update is not enabled, you can turn it on from here:</p>
 
-  <p>Pour de plus amples informations sur la validation des certificats, voir
-  <a href="using_certs_help.xhtml#how_certificate_validation_works">comment
-  fonctionne la validation des certificats</a>.</p>
+<ul>
+  <li><strong>Yes</strong>: Click Yes to enable automatic updating of this CRL.
+    If you click this button, the Automatic CRL Update Preferences dialog box
+    appears next. The next section describes how to set these preferences.</li>
+  <li><strong>No</strong>: Click No if you wish to leave Automatic Update
+    disabled.</li>
+</ul>
 
-  <h3 id="crl">LCR</h3>
+<h2 id="automatic_crl_update_preferences">Automatic CRL Update Preferences</h2>
 
-  <p>Une liste de certificats révoqués (en anglais&#160;:
-  <acronym>CRL</acronym> ou <em lang="en" xml:lang="en">Certificate Revocation
-  List</em>) est une liste de certificats qui ne sont plus valides
-  générée et signée par une <a href=
-  "glossary.xhtml#certificate_authority" class="glossary">autorité de
-  certification (AC)</a>. Il est possible de télécharger une LCR
-  dans votre navigateur, qui peut la vérifier pour s'assurer que les
-  certificats sont encore valides avant de les autoriser à être
-  utilisés pour authentification.</p>
+<p>This section describes how to use the Automatic CRL Update Preferences
+  dialog box. If you are not already viewing it, follow these steps:</p>
 
-  <ul>
-    <li>Cliquez sur <q>&validation.managecrls.button;</q> pour voir la liste des LCR
-    disponibles pour le gestionnaire de certificats.</li>
-  </ul>
+<ol>
+  <li>Open the <span class="mac">&brandShortName;</span>
+    <span class="noMac">Edit</span> menu and choose Preferences.</li>
+  <li>Under the Privacy &amp; Security category, click Validation. (If no
+    subcategories are visible, double-click Privacy &amp; Security to expand
+    the list.)</li>
+  <li>Click Manage CRLs, then select the CRL whose auto update preferences you
+    want to view or change.</li>
+  <li>Click Settings.</li>
+</ol>
 
-  <p>Pour plus d'informations sur la gestion des LCR, voir <a href=
-  "using_certs_help.xhtml#managing_crls">&validation.crlmanager.label;</a>.</p>
+<p>This dialog box displays the following options and information:</p>
 
-  <h3 id="ocsp">PLSC</h3>
+<ul>
+  <li><strong>Enable Automatic Update for this CRL</strong>: Select this option
+    if you want the CRL you selected to be updated automatically according to
+    the schedule you set here. (Note that you can&apos;t select this option if
+    the CRL doesn&apos;t specify a Next Update date.)
 
-  <p>Le protocole en ligne de statuts de certificats (<acronym>PLSC</acronym>,
-  en anglais&#160;: <acronym>OCSP</acronym> ou <em lang="en" xml:lang=
-  "en">Online Certificate Status Protocol</em>) permet au gestionnaire de
-  certificats de vérifier en ligne la validité d'un certificat
-  à chaque fois que la sécurité de la navigation en
-  dépend. Cette vérification s'appuie sur une LCR fixée
-  par un serveur spécifié. Votre ordinateur doit être
-  connecté à Internet pour que le PLSC puisse fonctionner.</p>
-
-  <p>Pour spécifier comment le gestionnaire de certificats doit utiliser
-  le PLSC, choisissez une des r&egrave;gles suivantes dans la section PLSC des
-  préférences de validation&#160;:</p>
-
-  <dl>
-  
-	<dt>&enableOCSP.label;</dt>
-	
-	<dd>Sélectionnez cettre option pour que le gestionnaire de certificat effectue une vérification
-	en ligne chaque fois qu'il vérifie un certificat. Si cette option est désactivée, le
-	gestionnaire de certificats ne confirmera que la période de validité du certificat et qu'il est
-	correctement signé par une AC dont le propre certificat est listé dans le liste de l'onglet
-	<q>Cwhoseertificats d'AC</q> (dans le fenêtre principale du gestionnaire de certificat) et
-	marqué comme étant de confiance pour l'émission d'un tel certificat.</dd>
-
-    <dt>&certOCSP2.label;&#160;:</dt>Valider un certificat s'il spécifie un serveur OCSP
-	
-    <dd>Sélectionnez cette option pour effectuer à chaque fois une
-    vérification en ligne d'un certificat précisant une URL de service de validation.Le
-	gestionnaire de certificats s'assure de la validité du certificat et vérifie sa
-    période de validité ainsi que les param&egrave;tres de confiance.</dd>
-
-    <dt>&proxyOCSP2.label;&#160;:</dt>Valider tous les certificats utilisant le serveur OCSP suivant
-:
-
-    <dd>
-      Sélectionnez cette option si vous voulez que le gestionnaire
-      de certificats vérifie systématiquement chaque certificat.
-      Si vous choisissez cette r&egrave;gle, vous devriez aussi choisir le
-      certificat de la liste déroulante <q>&signingCA.label;</q> qui
-      identifie le signataire des réponses du
-      PLSC. Avec ce réglage, les seuls certificats reconnus par le
-      gestionnaire de certificats seront ceux vérifiés par une
-      réponse du PLSC signée avec le certificat de signature de
-      réponse (ou signée à l'aide d'un certificat
-      lié à ce certificat).
-
-      <p>Quand vous choisissez un certificat de signature de réponse
-      à partir de la liste déroulante, le gestionnaire de
-      certificats précise automatiquement l'URL de service (si celle-ci
-      est disponible) pour ce signataire. Si l'URL de service n'est pas
-      automatiquement remplie, vous devrez la fournir vous-même&#160;;
-      demandez à votre administrateur syst&egrave;me pour plus de
-      détails.</p>
-    </dd>
-	
-	<dt>&validation.requireOCSP.description;</dt>
-
-	<dd>Sélectionnez cette option si vous voulez l'échec de la connexion si une connexion à un
-	serveur OSCP ne peut pas être établie.</dd>
-
-  </dl>
-
-
-  <h2 id="manage_crls">Gestion des LCR</h2>
-
-  <p>Cette section explique comment utiliser la bo&icirc;te de dialogue du
-  gestionnaire des <acronym title=
-  "Liste de certificats révoqués">LCR</acronym>. Pour la faire
-  appara&icirc;tre, faites comme ceci&#160;:</p>
-
-  <ol>
-    <li>Ouvrez le menu <q><span class="mac">&brandShortName;</span><span
-    class="noMac">&editMenu.label;</span></q>
-    et choisissez <q>&preferencesCmd.label;</q>.</li>
-
-    <li>Dans la catégorie <q>&security.label;</q>, cliquez sur
-    <q>&pref.validation.title;</q>. Si aucune sous-catégorie n'est visible,
-    double-cliquez sur <q>&security.label;</q> pour développer la
-    liste.</li>
-
-    <li>Cliquez sur <q>Gestion des LCR&hellip;</q>.</li>
-  </ol>
-
-  <p>Cette bo&icirc;te de dialogue affiche la liste des <a href=
-  "glossary.xhtml#crl" class="glossary">LCR</a> que vous
-  avez téléchargées dans votre navigateur. Typiquement,
-  vous téléchargez une LCR en cliquant sur une URL. Pour plus
-  d'informations sur le fonctionnement des LCR, voir la section <a href=
-  "using_certs_help.xhtml#managing_crls">Gestion des LCR</a>.</p>
-
-  <p>Pour sélectionner une LCR, cliquez sur celle-ci. Vous pouvez
-  alors effectuer l'une des actions suivantes&#160;:</p>
-
-  <dl>
-    <dt>&validation.deletecrl.label;&#160;:</dt>
-
-    <dd>Efface définitivement la LCR de votre disque dur. Ne choisissez
-    cette option que si vous êtes s&ucirc;r de ne plus avoir besoin de la
-    LCR pour valider vos certificats. En cas de doute, contactez votre
-    administrateur.</dd>
-
-    <dt>&validation.advanced.label;&#160;:</dt>
-
-    <dd>Ouvre la bo&icirc;te de dialogue des <a href=
-    "#automatic_crl_update_preferences">&validation.crl.autoupdate.title;</a>,
-    qui vous permet d'activer la mise à jour automatique des LCR
-    sélectionnées et de choisir la fréquence de cette
-    action.</dd>
-
-    <dt>&validation.updatecrl.label;&#160;:</dt>
-
-    <dd>Met à jour immédiatement la LCR
-    sélectionnée (si c'est possible).</dd>
-  </dl>
-
-  <p>La bo&icirc;te de dialogue <q>&validation.crlname.label;</q> affiche les
-  informations suivantes sur chaque LCR&#160;:</p>
-
-  <dl>
-    <dt>&crl.issuer.org.label;</dt>
-
-    <dd>Nom de l'organisation qui a émis la LCR.</dd>
-
-    <dt>&crl.issuer.orgunit.label;</dt>
-
-    <dd>Nom de l'unité d'organisation qui a émis la LCR (un peu
-    comme une AC racine pour un certain type de certificats).</dd>
-
-    <dt>&validation.crllastupdate.label;&#160;:</dt>
-
-    <dd>Date de la derni&egrave;re mise à jour de la copie du navigateur
-    de cette LCR.</dd>
-
-    <dt>&validation.crlnextupdate.label;&#160;:</dt>
-
-    <dd>Prochaine date à laquelle une nouvelle mise à jour de
-    cette LCR sera publiée par l'émetteur de la LCR.</dd>
-
-    <dt>&validation.crlautoupdateenabled.label;&#160;:</dt>
-
-    <dd>Indique si la mise à jour automatique a été
-    activée pour cette LCR. Pour voir les param&egrave;tres qui
-    contr&ocirc;lent cette mise à jour automatique, sélectionnez
-    la LCR et cliquez sur <q>&edit.button;</q>.</dd>
-
-    <dt>&validation.crlautoupdatestatus.label;&#160;:</dt>
-
-    <dd>
+    <p>If you enable Automatic Update, you must select one of these radio
+      buttons:</p>
       <ul>
-        <li>Ce champ est vide si la mise à jour automatique n'est pas
-        activée ou, si elle est activée, lorsque la mise à
-        jour n'a pas encore eu lieu.</li>
-
-        <li>Ce champ indique le statut de la mise à jour&#160;:
-        <q>échec</q> si la mise à jour automatique a
-        échoué et <q>OK</q> si elle a réussi.</li>
+        <li><strong>Update X days before Next Update date</strong>: Select this
+          option if you want to base the update frequency on the frequency with
+          which the CRL publisher publishes a new version of the CRL.</li>
+        <li><strong>Update every X days</strong>: Select this option if you
+          want to specify an update interval unrelated to the CRL&apos;s Next
+          Update date.</li>
       </ul>
-    </dd>
-  </dl>
+  </li>
+  <li><strong>CRL would be imported from</strong>: Indicates the URL from which
+    the browser originally imported the CRL. This setting cannot be changed. To
+    specify a different location, delete the CRL and re-import it from the new
+    location.</li>
+  <li><strong>Previous Consecutive Update Failures</strong>: Indicates how
+    many times update attempts for this CRL have failed consecutively,
+    including the most recent failure:
+    <ul>
+      <li>If the most recent attempt was successful, this reads
+        <q>None</q> even if there were previous unsuccessful
+        attempts.</li>
+      <li>If the most recent attempt failed, this indicates the number of
+        consecutive failures and the error message for the most recent
+        failure.</li>
+    </ul>
+  </li>
+</ul>
 
+<p>Click OK to confirm your choices.</p>
 
-  <h2 id="crl_import_status">Statut de l'importation des LCR</h2>
-
-  <p>Cette section décrit comment utiliser la bo&icirc;te de dialogue du
-  <q>Importer une liste de certificats révoqués</q>, qui
-  appara&icirc;t la premi&egrave;re fois que vous souhaitez importer une LCR ou
-  que vous avez réussi à la mettre à jour
-  manuellement.</p>
-
-  <p>Cette bo&icirc;te de dialogue vous indique&#160;:</p>
-
-  <ul>
-    <li>Si votre demande d'importation ou de mise à jour a
-    réussi.</li>
-
-    <li>Quelle organisation a émis la LCR.</li>
-
-    <li>Quand la prochaine mise à jour de cette LCR sera
-    publiée.</li>
-
-    <li>Si la mise à jour automatique est activée pour cette
-    LCR.</li>
-  </ul>
-
-  <p>Si la mise à jour automatique n'est pas activée, vous pouvez
-  le faire ici&#160;:</p>
-
-  <dl>
-    <dt>Oui&#160;:</dt>
-
-    <dd>Cliquez sur <q>Oui</q> pour activer la mise à jour automatique
-    de cette LCR. Si vous cliquez sur ce bouton, la bo&icirc;te de dialogue des
-    préférences de mise à jour automatique des LCR
-    appara&icirc;tra. La section suivante explique comment l'utiliser.</dd>
-
-    <dt>Non&#160;:</dt>
-
-    <dd>Cliquez sur <q>Non</q> si vous ne souhaitez pas activer la mise
-    à jour automatique.</dd>
-  </dl>
-
-
-  <h2 id="automatic_crl_update_preferences">Préférences de mise
-  à jour automatique des LCR</h2>
-
-  <p>Cette section décrit comment utiliser la bo&icirc;te de dialogue
-  <q>&validation.crl.autoupdate.title;</q>. Si elle n'est pas affichée,
-  faites comme ceci&#160;:</p>
-
-  <ol>
-    <li>Ouvrez le menu <q><span class="mac">&brandShortName;</span><span
-    class="noMac">&editMenu.label;</span></q>
-    et choisissez <q>&preferencesCmd.label;</q>.</li>
-
-    <li>Dans la catégorie <q>&security.label;</q>, cliquez sur <q>&pref.validation.title;</q>. Si aucune
-    sous-catégorie n'est visible, double-cliquez sur
-    <q>&security.label;</q> pour développer la liste.</li>
-
-    <li>Cliquez sur <q>&validation.managecrls.button;</q>, puis choisissez la
-    LCR pour laquelle vous voulez voir ou changer les préférences
-    de mise à jour automatique.</li>
-
-    <li>Cliquez sur <q>&edit.button;</q>.</li>
-  </ol>
-
-  <p>La bo&icirc;te de dialogue affiche les informations suivantes&#160;:</p>
-
-  <dl>
-    <dt>&validation.crl.autoupdate.enable.label;&#160;:</dt>
-
-    <dd>
-      Choisissez cette option si vous souhaitez que la LCR
-      sélectionnée soit mise à jour automatiquement
-      conformément à la date que vous avez définie. Notez
-      que vous ne pouvez pas sélectionner cette option si la LCR ne
-      donne pas une date de prochaine mise à jour.
-
-      <p>Si vous activez la mise à jour automatique, vous devez choisir
-      un des boutons suivants&#160;:</p>
-
-      <dl>
-        <dt>&validation.crl.autoupdate.time.label1; __
-        &validation.crl.autoupdate.time.label2;&#160;:</dt>
-
-        <dd>Choisissez cette option si vous souhaitez baser la fréquence
-        de mise à jour sur la fréquence à laquelle
-        l'organisation qui publie la LCR prévoit de publier une nouvelle
-        LCR.</dd>
-
-        <dt>&validation.crl.autoupdate.freq.label1; __
-        &validation.crl.autoupdate.freq.label2;&#160;:</dt>
-
-        <dd>Choisissez cette option si vous souhaitez définir un
-        intervalle spécifique de mise à jour indépendant
-        de la prochaine mise à jour donnée par la LCR.</dd>
-      </dl>
-    </dd>
-
-    <dt>&validation.crl.autoupdate.url.label;&#160;:</dt>
-
-    <dd>Indique l'URL d'importation de la LCR. Ce choix ne peut être
-    modifié. Pour choisir une URL différente, supprimez la LCR et
-    réimportez-la depuis la nouvelle URL.</dd>
-
-    <dt>&crl.autoupdate.fail.cnt.label;&#160;:</dt>
-
-    <dd>
-      Indique combien de fois la demande de mise à jour pour cette LCR a
-      échoué consécutivement, incluant l'échec le
-      plus récent&#160;:
-
-      <ul>
-        <li>Si la demande la plus récente a réussi, on peut lire
-        <q>Rien</q>, même s'il y a eu des échecs
-        précédemment.</li>
-
-        <li>Si la demande la plus récente a échoué, cela
-        indique le nombre d'échecs consécutifs et le message
-        d'erreur de l'échec le plus récent.</li>
-      </ul>
-    </dd>
-  </dl>
-
-  <p>Cliquez sur <q>OK</q> pour confirmer vos choix.</p>
-
-  <div id="footer">
-    <!--begin frenchmozilla signature-->
-
-    <p><em>Derni&egrave;re traduction&#160;: 13 janvier 2005</em></p>
-
-    <p>Ce texte a été traduit et adapté par une
-    équipe internationale de bénévoles francophones.<br />
-    Pour plus d'informations, visitez notre site&#160;: <a href=
-    "http://frenchmozilla.sf.net"
-    hreflang="fr">http://frenchmozilla.sf.net</a>.</p>
-    <!--end frenchmozilla signature-->
-  </div>
 </body>
 </html>
