@@ -33,329 +33,63 @@
  * the terms of any one of the MPL, the GPL or the LGPL.
  *
  * ***** END LICENSE BLOCK ***** */
-
-/*  Importation des regles specifiques a chaque plateforme  */
 @import url("chrome://help/content/platformClasses.css");
 
-
-/*  Styles generaux pour les pages  */
 body {
-        margin: 2ex;
-        font-family: sans-serif;
-        font-size: 0.8em;
-        max-width: 120ex;
-        }
+	margin: 2ex;
+	font-family: sans-serif;
+	font-size: 0.75em;
+	max-width: 120ex;
+}
 
-/*  Definitions des liens */
-a {
-        text-decoration: none;
-        }
-a:hover {
-        color: #f00;
-        text-decoration: underline;
-        }
-/*a:visited {
-        text-decoration: none;
-        }*/
-:link:hover, :visited:hover {
-        color: -moz-activehyperlinktext;
-        }
-/* en-US use after instead of before, but, we use before to be able to use hreflang after the link */
-a[href^="http://"]:before ,a[href^="https://"]:before, a[href^="x-moz-url-link:"]:before {
-        content: url("chrome://help/locale/images/web-links.png");
-        text-decoration: none;
-        }
-a[href^="http://"]:after {
-        content: "\00a0[" attr(hreflang) "]";
-        }
+dd { -moz-margin-start: 0px; margin-bottom: 1em; }
+dt { font-size: 10pt; font-weight: bold; }
+tt { font-size: 10pt; }
 
-/*  Definitions des titres  */
-h1 {
-        text-align: left;
-        font-size: 2em;
-        margin: 0;
-        }
-h2 {
-        border-top: 1px solid black;
-        font-size: 1.5em;
-        padding-top: 0.2em;
-        margin: 0;
-        }
-h3 {
-        font-style: normal;
-        color: #009;
-        font-size: 1.2em;
-        margin-bottom: 0;
-        margin-top: 2em;
-        padding-top: 1em;
-        }
-h4, h6 {
-        margin: 0;
-        }
-h5 {
-        margin-top: 0;
-        font-style: normal;
-        }
+:link:hover,
+:visited:hover { color: -moz-activehyperlinktext; }
 
-p:first-child {
-        padding-top: 0;
-        margin-top: 0;
-        }
+h1 { font-size: 20pt; }
+h2 { border-top: 1px solid black; font-size: 16pt; padding-top: 0.2em; }
+h3 { color: #009; font-size: 10pt; margin-bottom: 0px; margin-top: 35px; }
 
-img {
-        border: 0;
-        background-color: transparent;
-        }
-img[alt] {
-        color: #f00;
-        font-weight: bold;
-        }
+kbd { font-family: sans-serif; }
 
-i, cite, em, var, address {
-        font-style: italic;
-        }
+.defaultTable { border-collapse: collapse; border: 1px solid grey;
+  width: 100%; }
 
-pre, code, samp {
-        font-family: monospace;
-        }
-tt, kbd {
-        /*font-family: sans-serif;*/
-        font-size: 1em;
-        }
-/*  Essai de style pour les touches du clavier */
-/*kbd {
-        background-color: #eee;
-        font-family: sans-serif;
-        -moz-border-radius: 6px;
-        border-top: 0px solid #e1e1e1;
-        border-right: 4px solid #d1d1d1;
-        border-bottom: 4px solid #e1e1e1;
-        border-left: 4px solid #e1e1e1;
-        padding: 0.1em;
-        margin: 1em 0 1em 0;
-        }*/
-pre {
-        white-space: pre;
-        }
+.defaultTable td { border: 1px solid grey; padding: 4px; }
 
-address {
-        margin-left: 0;
-        }
+.defaultTable th { background-color: #99ccff;
+  border: 1px solid grey; font-size: 10pt; padding: 4px; text-align: left; }
 
-blockquote {
-        margin-left: 0;
-        margin-right: 0;
-        }
+.tbody-default > tr:nth-child(2n) {
+  background-color: #eeeeee;
+}
 
-dir { list-style: disc }
+.boilerPlate { font-size: 7pt; }
 
+.commandColumn { width: 40%; }
+.osFirstColumn { width: 20%; }
+.osSecondColumn { width: 20%; }
+.osThirdColumn { width: 20%; }
 
-ul {
-        list-style: disc;
-        margin-left: -1em;
-        margin-top: 0;
-        margin-bottom: 5px;
-        }
-li {
-        margin-left: 0;
-        margin-top: 0;
-        margin-bottom: 5px;
-        }
-
-menu { margin: 0 }              /* tight formatting */
-
-ol {
-        list-style: decimal;
-        margin-left: -1em;
-        margin-top: 0;
-        margin-bottom: 5px;
-        }
-
-dt {
-        font-weight: bold;
-        }
-dd {
-        margin-left: 2em;
-        margin-bottom: 1em;
-        }
-dd dl {
-        margin-left: 1em;
-        }
-
-acronym {
-        /*cursor: help;*/
-        /*text-decoration: underline;*/
-        }
+p:first-child { padding-top: 0; margin-top: 0; }
 
 .separate > li { margin-bottom: 0.5em; }
 
-/* Termes de l'interface graphique */
-.ui {
-        background-color: #B7F5C7;
-        }
-/* Disclaimer Mozilla Foundation */
-.boilerPlate {
-        font-size: 0.7em;
-        }
-/* Table des matieres des chapîtres   */
-
 .contentsBox {
-        margin: 1em 0;
-        color: #000;
-        background-color: #ccc;
-        border: 1px solid black;
-        width: 375px;
-        padding: 1em;
-        margin: 1em 0 1em 0;
-        }
+	margin-top: 12px;
+	background-color: #cccccc;
+	border: 1px solid black;
+	width: 300px;
+	padding: 1em;
+}
+
 .contentsBox > ul {
-        list-style-type: square;
-        }
-/*.contentsBox li {
+	list-style-type: none;
+}
 
-        }*/
-.contentsBox li:hover {
-        color: #3c0;
-        }
-
-
-.makeLeftMargin {
-        margin-left: 2em;
-        }
-
-/*  Tableau */
-table {
-        background-color: #fff;
-        border: 1px solid #000;
-        text-align: center;
-        }
-caption {
-        font-weight: bold;
-        background-color: #eee;
-        border: 1px solid #000;
-        border-bottom: 0;
-        }
-tr {
-        }
-td {
-        }
-thead th {
-        background-color: #ccc;
-        color: #000;
-        text-align: center;
-        }
-tboby th {
-        font-weight: bold;
-        }
-
-.even {
-        background-color: #eee;
-        color: #000;
-        }
-.defaultTable {
-        border-collapse: collapse;
-        border: 1px solid grey;
-        width: 100%;
-        }
-.defaultTable td {
-        border: 1px solid grey;
-        padding: 4px;
-        }
-.defaultTable thead th {
-        background-color: #9cf;
-        border: 1px solid grey;
-        font-size: 0.8em;
-        padding: 4px;
-        text-align: center;
-        }
-.defaultTable tbody th {
-        background-color: #fc9;
-        border: 1px solid grey;
-        text-align: left;
-        }
-
-.defaultTable tbody > tr.even {
-        background-color: #eee;
-        }
-
-/* Colonne des tableaux de raccourcis claviers*/
-.commandColumn {
-        width: 40%;
-        }
-.osFirstColumn, .osSecondColumn, .osThirdColumn {
-        width: 20%;
-        }
-
-/* Pied de page : info de localisation  */
-#footer {
-        border-top: 1px solid black;
-        color: gray;
-        background-color: transparent;
-        margin-top: 2em;
-        }
-/* Definitions des styles pour les erreurs de publication  */
-.errors {
-        background-color: #ebebeb;
-        color: #000;
-        width: 35em;
-        padding: 0.5em;
-        }
-
-/* Definition des liens vers le glossaire      */
-.glossary {
-        color: green;
-        background-color: transparent;
-        cursor: help;
-        }
-
-
-/*      Guillemets francais avec espaces insecables : balise <q>texte</q>     */
-/* Specifie des paires de guillemets sur deux niveaux et pour deux langues*/
-q:lang(en) { quotes: '"' '"' "'" "'"; }
-q:lang(fr) { quotes: "\00ab\00a0" "\00a0\00bb" '\201c\00a0' '\00a0\201d'; }
-
-/*Insere des guillemets avant et apres le contenu d'un element Q*/
-q:before { content: open-quote; }
-q:after  { content: close-quote; }
-
-
-/* D�initions de style pour les images */
-dl.gallery {
-        border: 1px solid #000;
-        background-color: #eee;
-        text-align: center;
-        float: left;
-        padding: 10px;
-        margin: 0.5em 0.5em 1em 0;
-        }
-.gallery dt {
-        font-weight: bold;
-        margin: 0;
-        padding: 0;
-        }
-.gallery dt img {
-        border: 1px solid #000;
-        }
-.gallery dd {
-        font-weight: bold;
-        margin: 0;
-        padding: 0;
-        }
-
-/*   Aide a la traduction    */
-/*   Commenter ces regles pour les versions officielles    */
-/*.traduire {
-        margin: 0;
-        padding: 1em;
-        border: 3px solid #f00;
-        color: #000;
-        background-color: #dfd;
-        }
-.rediger {
-        margin: 0;
-        padding: 1em;
-        border: 2px solid #f00;
-        color: #000;
-        background-color: #ffd;
-        }
-q {background-color: #ccf; }*/
+a[href^="http://"]:after, a[href^="https://"]:after, a[href^="x-moz-url-link:"]:after {
+	content: url("images/web-links.png");
+}

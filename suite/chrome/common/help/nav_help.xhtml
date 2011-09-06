@@ -1,2348 +1,1521 @@
-<?xml version="1.0" encoding="utf-8"?>
+<?xml version="1.0" encoding="UTF-8"?>
+
 <!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.1//EN"
   "http://www.w3.org/TR/xhtml11/DTD/xhtml11.dtd"[
   <!ENTITY % brandDTD SYSTEM "chrome://branding/locale/brand.dtd" >
   %brandDTD;
-  <!ENTITY % pref-historyDTD SYSTEM "chrome://communicator/locale/pref/pref-history.dtd" >
-  %pref-historyDTD;
-  <!ENTITY % printPreviewDTD SYSTEM "chrome://communicator/locale/printPreview.dtd" >
-  %printPreviewDTD;
-  <!ENTITY % finddialogDTD SYSTEM "chrome://global/locale/finddialog.dtd" >
-  %finddialogDTD;
 ]>
 
-<html xmlns="http://www.w3.org/1999/xhtml" lang="fr" xml:lang="fr">
+<html xmlns="http://www.w3.org/1999/xhtml">
 <head>
-  <title>Aide du navigateur</title>
-  <meta http-equiv="Content-Type" content="application/xhtml; charset=utf-8" />
-  <!--<link rel="stylesheet" href="content_style.css" type="text/css" />-->
-  <link rel="stylesheet" type="text/css" href="helpFileLayout.css" />
+<title>Browsing the Web</title>
+<link rel="stylesheet" href="helpFileLayout.css"
+  type="text/css"/>
 </head>
-
 <body>
 
-  <h1 id="browsing_the_web">Navigation sur le Web</h1>
+<h1 id="browsing_the_web">Browsing the Web</h1>
 
-  <p>Bienvenue sur &brandShortName;&#160;!</p>
+<p>Welcome to &brandShortName;! One of the most popular ways people use
+  &brandShortName; is to browse the Web. The &brandShortName; browser
+  component that lets you visit web pages, offers many ways to visit web pages
+  and search the Web.</p>
 
-  <p>Cette page d'aide vous apprendra à utiliser le navigateur de
-  &brandShortName;, comment naviguer sur Internet, les différentes fa&ccedil;ons
-  de faire une recherche, la mani&egrave;re d'enregistrer des pages Web et bien
-  d'autres fonctionnalités que vous découvrirez au fil de cette
-  page.</p>
+<p>This section introduces you to the browser, and how you can use it to
+  navigate, search, and save web pages.</p>
 
-  <div class="contentsBox">
-    <p>Dans cette section&#160;:</p>
-
-    <ul>
-      <li><a href="#navigating_web_pages">Naviguer sur le Web</a></li>
-
-      <li><a href="#searching_the_web">Rechercher sur le Web</a></li>
-
-      <li><a href="#copying_saving_and_printing_pages">Copier, enregistrer et imprimer des pages
-      Web</a></li>
-
-      <li><a href="#using_languages_and_international_content">Langues et services de traduction</a></li>
-
-      <li><a href="#plugins_and_downloads">Plugins et téléchargements</a></li>
-
-      <li><a href="#improving_speed_and_efficiency">Améliorer les performances de
-      &brandShortName;</a></li>
-
-      <li><a href="#proxies">Serveurs proxies</a></li>
-
-      <li><a href="page_info_help.xhtml">Afficher les informations d'une
-      page</a></li>
-    </ul>
-  </div>
-
-  <h1 id="navigating_web_pages">Naviguer sur le Web</h1>
-
-  <div class="contentsBox">
-    <p>Dans cette section&#160;:</p>
-
-    <ul>
-      <li><a href="#viewing_your_home_page">Afficher votre page d'accueil</a></li>
-
-      <li><a href="#moving_to_another_page">Se déplacer vers une autre page</a></li>
-
-      <li><a href="#clicking_a_link">Suivre un lien</a></li>
-
-      <li><a href="#retracing_your_steps">Revenir aux pages
-      précédentes</a></li>
-
-      <li><a href="#about_history_lists">Utiliser l'historique</a></li>
-
-      <li><a href="#stopping_and_reloading">Arrêter et relancer le chargement d'une
-      page</a></li>
-
-      <li><a href="#visiting_bookmarked_pages">Utiliser les marque-pages</a></li>
-
-      <li><a href="#using_tabbed_browsing">Utiliser la navigation par
-      onglets</a></li>
-
-      <li><a href="#using_sidebar">Utiliser la barre latérale</a></li>
-    </ul>
-  </div>
-
-  <h2 id="viewing_your_home_page">Afficher votre page d'accueil</h2>
-
-<!--  <p>Lors du démarrage de &brandShortName;, vous pouvez voir s'afficher votre
-  navigateur. Une page s'intitulant <q>What's New</q> appara&icirc;t
-  automatiquement dans la fenêtre du navigateur lorsque &brandShortName; est
-  lancé pour la premi&egrave;re fois.</p>  -->
-
-  <p>Apr&egrave;s le premier lancement, vous verrez normalement votre page
-  d'accueil à chaque lancement de &brandShortName;. Sauf si vous avez choisi
-  votre page d'accueil vous-même, celle-ci est choisie par votre
-  <acronym title="Fournisseur d'Acc&egrave;s Internet">FAI</acronym>. Par
-  défaut il s'agira de la page d'accueil de &brandShortName;.</p>
-
-  <p>Pour choisir vous-même votre page d'accueil, consultez la section
-  <a href="customize_help.xhtml#specifying_how_mozilla_starts_up">Démarrage
-  de &brandShortName;</a>.</p>
-
-  <p><strong>Astuces</strong>&#160;:</p>
-
+<div class="contentsBox">In this section:
   <ul>
-    <li class="noMac" id="full_screen_mode">Vous pouvez utiliser le mode plein
-    écran pour augmenter
-    la surface d'affichage des pages Web. Dans le navigateur, ouvrez le menu
-    <q>Affichage</q> et sélectionnez <q>Plein écran</q>. Vous
-    pouvez également utiliser la touche <kbd>F11</kbd> du clavier.</li>
-
-    <li>Pour vous rendre rapidement sur votre page d'accueil, appuyez sur les
-    touches <kbd class="mac">Cmd</kbd><kbd
-    class="noMac">Alt</kbd>+<kbd>Début</kbd>.</li>
+    <li><a href="#navigating_web_pages">Navigating Web Pages</a></li>
+    <li><a href="#searching_the_web">Searching the Web</a></li>
+    <li><a href="#copying_saving_and_printing_pages">Copying, Saving, and
+      Printing Pages</a></li>
+    <li><a href="#using_languages_and_international_content">Using Languages
+      and International Content</a></li>
+    <li><a href="#plugins_and_downloads">Plugins and Downloads</a></li>
+    <li><a href="#improving_speed_and_efficiency">Improving Speed and
+      Efficiency</a></li>
+    <li><a href="#proxies">Proxies</a></li>
+    <li><a href="page_info_help.xhtml">Viewing Page Info</a></li>
   </ul>
+</div>
 
-  <p>[&#160;<a href="#navigating_web_pages">Retour au début de la
-  section</a>&#160;]</p>
+<h1 id="navigating_web_pages">Navigating Web Pages</h1>
 
-  <h2 id="moving_to_another_page">Se déplacer vers une autre page</h2>
-
-  <p>Pour accéder à une autre page, saisissez son URL,
-  c'est-à-dire son adresse sur le Web. Une <a href="glossary.xhtml#url"
-  class="glossary">URL</a> commence généralement par
-  <code>http://</code>, suivie d'un ou plusieurs mots identifiant l'adresse.
-  Par exemple, <code>http://www.mozilla.org</code></p>
-
-  <ol>
-    <li>Double-cliquez dans la barre d'adresse afin de sélectionner
-    l'URL qui s'y trouve.</li>
-
-    <li>Saisissez l'URL de la page que vous désirez visiter. L'URL que vous
-    saisissez remplacera le texte présent dans la barre.</li>
-
-    <li>Appuyez sur la touche <kbd class="mac">Retour</kbd><kbd
-    class="noMac">Entrée</kbd>.</li>
-  </ol>
-
-  <p>Cliquer sur l'ic&ocirc;ne cadenas dans le coin en bas à droite de
-  la fenêtre du navigateur vous permet de vérifier à tout
-  moment l'état de la sécurité de la page Web en cours
-  d'affichage. Pour plus d'informations, voir la section <a href=
-  "using_certs_help.xhtml#checking_security_for_a_web_page">Vérifier la
-  sécurité d'une page Web</a>.</p>
-
-  <p><strong>Astuce</strong>&#160;: appuyez sur les touches
-  <kbd class="mac">Cmd</kbd><kbd class="noMac">Ctrl</kbd>+<kbd>L</kbd> pour
-  sélectionner rapidement l'URL de la barre d'adresse.</p>
-
-  <table summary="table for images">
-    <caption>
-      Barre d'adresse
-    </caption>
-
-    <tr>
-      <td><img src="images/locationbar.png" alt="Barre d'adresse" /></td>
-    </tr>
-  </table>
-
-  <p><strong>Vous ne connaissez pas l'adresse exacte&#160;?</strong> Vous
-  pouvez saisir une partie d'URL, comme <q>cnn</q> (pour www.cnn.com); ou
-  saisir un mot plus général, comme <q>cadeaux</q> ou
-  <q>fleurs</q>. Le navigateur devinera la page que vous souhaitez visiter, ou
-  affichera la page d'un moteur de recherche contenant des liens en rapport avec
-  le mot saisi.</p>
-
-  <p>Si vous découvrez Internet, cliquez sur ce lien pour voir un bref
-  cours pour débutants&#160;: <a href=
-  "http://www.learnthenet.com/french/index.html" hreflang=
-  "fr">Learn the Internet</a>.</p>
-
-  <p>[&#160;<a href="#navigating_web_pages">Retour au début de la
-  section</a>&#160;]</p>
-
-  <h2 id="clicking_a_link">Suivre un lien</h2>
-
-  <p>La plupart des pages contiennent des liens sur lesquels vous pouvez
-  cliquer pour vous déplacer vers d'autres pages.</p>
-
-  <ol>
-    <li>Déplacez le pointeur jusqu'à ce qu'il se transforme en
-    main avec l'index tendu. Cela signifie que vous vous trouvez au-dessus d'un
-    lien. La plupart des liens sont représentés par du texte
-    souligné, mais des boutons ou des images peuvent également
-    être des liens.</li>
-
-    <li>Cliquez une fois sur le lien. Pendant que le réseau recherche la
-    page vers laquelle pointe le lien, des messages d'état s'affichent
-    dans la barre d'état du navigateur.</li>
-  </ol>
-
-  <p>[&#160;<a href="#navigating_web_pages">Retour au début de la
-  section</a>&#160;]</p>
-
-  <h2 id="retracing_your_steps">Revenir aux pages précédentes</h2>
-
-  <p>Il y a plusieurs mani&egrave;res de revenir sur des pages
-  précédemment consultées&#160;:</p>
-
+<div class="contentsBox">In this section:
   <ul>
-    <li>Pour revenir une page en arri&egrave;re (ou en avant), cliquez sur le
-    bouton <q>Précédent</q> (ou <q>Suivant</q>).</li>
-
-    <li>Pour revenir plusieurs pages en arri&egrave;re (ou en avant), cliquez
-    sur le petit triangle accompagnant le bouton <q>Précédent</q>
-    (ou <q>Suivant</q>). Vous verrez alors une liste des pages que vous avez
-    visitées&#160;; pour retourner vers l'une d'entre elles,
-    choisissez-la dans la liste.</li>
+    <li><a href="#viewing_your_home_page">Viewing Your Home Page</a></li>
+    <li><a href="#moving_to_another_page">Moving to Another Page</a></li>
+    <li><a href="#clicking_a_link">Clicking a Link</a></li>
+    <li><a href="#retracing_your_steps">Retracing Your Steps</a></li>
+    <li><a href="#reopening_closed_tabs_windows">Reopening Closed Tabs or Windows</a></li>
+    <li><a href="#stopping_and_reloading">Stopping and Reloading</a></li>
+    <li><a href="#visiting_bookmarked_pages">Visiting Bookmarked Pages</a></li>
+    <li><a href="#using_tabbed_browsing">Using Tabbed Browsing</a></li>
+    <li><a href="#using_sidebar">Using Sidebar</a></li>
   </ul>
+</div>
 
-  <table summary="table for images">
-    <tr>
-      <td colspan="4"><img src="images/reload.gif" width="179" height="44" alt=
-      "Boutons de navigation" /></td>
-    </tr>
+<h2 id="viewing_your_home_page">Viewing Your Home Page</h2>
 
-    <tr>
-      <td><strong>&#160;&#160;&#160;Précédent
-      &#160;&#160;Suivant</strong></td>
-    </tr>
-  </table>
+<p>After the first launch, you will normally see your home page when you launch
+  &brandShortName;. Unless you choose a home page yourself, your home page is
+  chosen by your network or Internet service provider, or you see
+  &brandShortName;&apos;s home page.</p>
 
-  <ul>
-    <li>Pour voir une liste d'URL entrées précédemment
-    dans la barre d'adresse, cliquez sur le triangle à la droite de la
-    barre d'adresse <img src="chrome://navigator/skin/toolbar/ubhist-arrow.png"
-    alt="Triangle de la barre d'adresse" />. Pour revoir une de ces pages,
-    sélectionnez-la dans la liste.</li>
-  </ul>
+<p>To choose your own home page, see
+  <a href="customize_help.xhtml#specifying_how_mozilla_starts_up">Specifying
+  How &brandShortName; Starts Up</a>.</p>
 
-  <table summary="table for images" width="329">
-    <caption>
-      Barre d'adresse
-    </caption>
+<p><strong>Tips</strong>:</p>
 
-    <tr>
-      <td><img src="images/locationbar.png" alt="Barre d'adresse" /></td>
-    </tr>
-  </table>
+<ul>
+  <li class="noMac" id="full_screen_mode">To streamline the &brandShortName;
+    interface, you can use Full Screen mode to display web pages using almost
+    all of your screen. In the browser, open the View menu and choose Full
+    Screen. You can also press <kbd>F11</kbd>.</li>
+  <li>To go to your home page quickly, press <kbd class="mac">Cmd</kbd><kbd
+    class="noMac">Alt</kbd>+<kbd>Home</kbd>.</li>
+</ul>
 
-  <ul>
-    <li>Pour choisir une des pages visitées lors de la session courante,
-    ouvrez le menu <q>Aller à</q> et utilisez la liste dans la section
-    inférieure du menu. Cette liste est fonction de l'onglet actif.</li>
+<p>[<a href="#navigating_web_pages">Return to beginning of section</a>]</p>
 
-    <li>Pour choisir une des pages visitées lors d'une session
-    précédente, ouvrez le menu <q>Aller à</q>, puis
-    choisissez <q>Historique</q>. La liste de l'historique affiche une liste de
-    répertoires. Double-cliquez sur un dossier pour afficher les
-    sous-répertoires ou les marque-pages qui pointent vers les pages Web
-    que vous avez visitées. Vous pouvez double-cliquer sur l'URL
-    à c&ocirc;té de l'ic&ocirc;ne d'un marque-page pour ouvrir
-    cette page.</li>
-  </ul>
+<h2 id="moving_to_another_page">Moving to Another Page</h2>
 
-  <p><strong>Astuce</strong>&#160;: Le panneau <q>Historique</q> de la barre
-  latérale vous permet de sélectionner une des pages que vous
-  avez visitées dans les derni&egrave;res sessions. Pour plus
-  d'informations, voir la section <a href=
-  "customize_help.xhtml#adding_sidebar_tabs">Ajouter des panneaux dans la barre
-  latérale</a>.</p>
+<p>You move to a new page by typing its URL&mdash;its location (address) on the
+  Web. URLs normally begin with <q>http://</q>, followed by one or more
+  names that identify the address. For instance,
+  <q>http://www.mozilla.org</q>.</p>
 
-  <p>[&#160;<a href="#navigating_web_pages">Retour au début de la
-  section</a>&#160;]</p>
+<ol>
+  <li>Click the Location Bar to select the URL that is already there.</li>
+  <li>Type the URL of the page you want to visit. The URL you type replaces any
+    text already in the Location Bar.</li>
+  <li>Press <kbd class="mac">Return</kbd><kbd class="noMac">Enter</kbd>.</li>
+</ol>
 
-  <h2 id="about_history_lists">Utiliser l'historique</h2>
+<p>Using the lock icon near the lower-right corner of the window, you can check
+  a web page&apos;s security status at any time. For details, see
+  <a href="using_certs_help.xhtml#checking_security_for_a_web_page">Checking
+  Security for a Web Page</a>.</p>
 
-  <p>L'historique liste les pages que vous avez visitées
-  récemment. La barre d'adresse liste les URL des pages que vous avez
-  entrées dans la barre d'adresse et que vous avez visitées.</p>
+<p><strong>Tip</strong>: To quickly select the URL in the Location Bar, press
+  <kbd class="mac">Cmd</kbd><kbd class="noMac">Ctrl</kbd>+<kbd>L</kbd>.</p>
 
-  <p>Pour accéder à l'historique du navigateur, ouvrez le menu
-  <q>Aller à</q>, puis choisissez <q>Historique</q>. Pour accéder
-  à la liste de la barre d'adresse, cliquez sur le petit triangle
-  à la droite de la barre d'adresse <img src=
-  "chrome://navigator/skin/toolbar/ubhist-arrow.gif" alt=
-  "Triangle de la barre d'adresse" />.</p>
+<table summary="table for images">
+  <tr>
+    <td><img src="images/locationbar.png"
+      alt="Location Bar"/></td>
+  </tr>
+  <tr>
+    <td style="text-align: center;"><strong>Location Bar</strong></td>
+  </tr>
+</table>
 
-  <p><strong>Astuce</strong>&#160;: Appuyez sur les touches
+<p><strong>Don&apos;t know a URL?</strong> You can type part of a URL, such as
+  <q>cnn</q> (for www.cnn.com); or you can type a general word, such as
+  <q>gifts</q> or <q>flowers</q>. The browser guesses what page you
+  want to view, or displays a page with a choice of links related to the word
+  you typed.</p>
+
+<p>If you are new to the Internet, see the
+  <a href="http://www.internet-guide.co.uk/help.html">Internet Guide</a>.</p>
+
+<p>[<a href="#navigating_web_pages">Return to beginning of section</a>]</p>
+
+<h2 id="clicking_a_link">Clicking a Link</h2>
+
+<p>Most web pages contain links you can click to move to other pages.</p>
+
+<ol>
+  <li>Move the pointer until it changes to a pointing finger. This happens
+    whenever the pointer is over a link. Most links are underlined text, but
+    buttons and images can also be links.</li>
+  <li>Click the link once. While the network locates the page that the link
+    points to, status messages appear at the bottom of the window.</li>
+</ol>
+
+<p>[<a href="#navigating_web_pages">Return to beginning of section</a>]</p>
+
+<h2 id="retracing_your_steps">Retracing Your Steps</h2>
+
+<p>There are several ways to re-visit pages:</p>
+
+<ul>
+  <li>To go back or forward one page, click the Back or Forward arrow.</li>
+  <li>To go back or forward more than one page, click the small triangles on
+    the Back and Forward buttons. You&apos;ll see a list of pages you&apos;ve
+    visited; to return to a page, choose it from the list.</li>
+</ul>
+
+<table summary="table for images">
+  <tr>
+    <td colspan="4"><img src="images/reload.gif"
+      alt="Navigation Buttons"/></td>
+  </tr>
+  <tr>
+    <td style="width: 8px;"></td>
+    <td style="width: 34px;"><strong>Back</strong></td>
+    <td style="width: 45px;"><strong>Forward</strong></td>
+    <td></td>
+  </tr>
+</table>
+
+<ul>
+  <li>To see a list of any URLs you&apos;ve typed into the Location Bar, click
+    the arrow at the right end of the Location Bar. To view a page, choose it
+    from the list.</li>
+</ul>
+
+<table summary="table for images">
+  <tr>
+    <td><img src="images/locationbar.png" alt="Location Bar"/></td>
+  </tr>
+  <tr>
+    <td style="text-align: center;"><strong>Location Bar</strong> </td>
+  </tr>
+</table>
+
+<ul>
+  <li>To choose from pages you&apos;ve visited during the current session, open
+    the Go menu and use the list in the bottom section of the menu.</li>
+
+  <li>To choose from pages you&apos;ve visited during the past several
+    sessions, open the Go menu and choose History. You see the history list.
+    The history list displays a list of folders. Double clicking the folders
+    displays subfolders or bookmarks to web pages. You can double-click the URL
+    next to the Bookmark icon to view that page.</li>
+</ul>
+
+<p><strong>Tip</strong>: The Sidebar History tab also allows you to choose from
+  pages you&apos;ve visited during the past several sessions. For
+  information, see
+  <a href="customize_help.xhtml#adding_sidebar_tabs">Adding Sidebar Tabs</a>.
+</p>
+
+<h3 id="about_history_lists">About History Lists</h3>
+
+<p>The history list contains links to recently visited pages. The Location Bar
+  list contains links to pages you&apos;ve typed into the Location Bar and then
+  visited.</p>
+
+<p>To access the history list from the browser, open the Go menu and choose
+  History. To access the Location Bar list, click the arrow at the right end of
+  the Location Bar.</p>
+
+<p><strong>Tip</strong>: To quickly open the history list, press
   <span class="mac"><kbd>Cmd</kbd>+<kbd>Shift</kbd></span><kbd
-  class="noMac">Ctrl</kbd>+<kbd>H</kbd> pour ouvrir rapidement l'historique.</p>
+  class="noMac">Ctrl</kbd>+<kbd>H</kbd>.</p>
 
-  <p>Si vous ne désirez pas que la barre d'adresse ou la fenêtre
-  d'historique affichent les pages que vous avez visitées, vous pouvez
-  effacer l'historique du navigateur ainsi que l'historique de la barre
-  d'adresse&#160;:</p>
+<p>If you don&apos;t want the Location Bar or history list to display the pages
+  you&apos;ve been visiting, you can clear the history list and Location Bar
+  history entirely or selectively.</p>
 
-  <ol>
-    <li>Ouvrez le menu <q><span class="mac">SeaMonkey</span><span
-    class="noMac">édition</span></q> et choisissez
-    <q>Préférences…</q>.</li>
+<p>To delete all pages from the Location Bar or history list, begin from the
+  browser window:</p>
 
-    <li>Dans la catégorie <q>Navigateur</q>, choisissez
-    <q>Historique</q>. Si aucune option n'est visible, double-cliquez sur la
-    catégorie <q>Navigateur</q> pour dérouler la liste.</li>
+<ol>
+  <li>Open the
+    <span class="mac">&brandShortName;</span><span class="noMac">Edit</span>
+    menu and choose Preferences.</li>
+  <li>Under the Browser category, click History. (If no subcategories are
+    visible, double-click Browser to expand the list.)</li>
+  <li>Click Clear History and Clear Location Bar to remove all previously
+    visited web pages from the lists.</li>
+</ol>
 
-    <li>Cliquez sur <q>Effacer l'historique</q> et/ou <q>Effacer le contenu de
-    la barre d'adresse</q> pour vider les listes de toutes les pages
-    précédemment visitées.</li>
-  </ol>
+<p>To selectively delete pages from the history list, do any of the
+  following:</p>
 
-  <p>Pour sélectionner les pages à éliminer de
-  l'historique, suivez une de ces méthodes&#160;:</p>
+<ul>
+  <li>To delete all pages from a domain, select a page within that domain
+    (folder) in the History list, open the Edit menu, and select <q>Delete
+    History for <em>*.[domain name]</em></q>. For example, use this command
+    if you want to delete all pages that end in <q>mozilla.org</q>.</li>
+  <li>To delete pages from a subdomain, select a page within that subdomain in
+    the History list, open the Edit menu, and select <q>Delete History for
+    <em>[subdomain]</em></q>. For example, use this command if you want to
+    delete all pages from <q>bugzilla.mozilla.org</q> but not
+    <q>mozilla.org</q>.</li>
+  <li>To delete a single page or folder, select it in the history list and
+    press Delete.</li>
+</ul>
 
-  <ol>
-    <li>Pour éliminer toutes les pages d'un domaine spécifique,
-    sélectionnez une page de ce domaine (répertoire) dans
-    l'historique, ouvrez le menu <q>édition</q>, et cliquez sur
-    <q>Supprimer l'historique pour ce domaine</q>. Par exemple,
-    utilisez cette commande si vous voulez éliminer toutes les pages
-    dont l'adresse se termine par <q>mozilla.org</q>.</li>
+<p><strong>Tip</strong>: To sort the history list, click one of the categories
+  (Title, Location, or Last Visited). Click the title again to reverse the
+  order.</p>
 
-    <li>Pour éliminer les pages d'un sous-domaine, sélectionnez
-    une page de ce sous-domaine dans l'historique, ouvrez le menu
-    <q>édition</q>, et cliquez sur <q>Supprimer l'historique pour ce site</q>. Par exemple, utilisez cette commande si vous
-    voulez éliminer toutes les pages de <q>health.netscape.com</q> mais
-    pas celles de <q>netscape.com</q>.</li>
+<p>[<a href="#navigating_web_pages">Return to beginning of section</a>]</p>
 
-    <li>Pour effacer une page spécifique, sélectionnez-la dans
-    l'historique puis pressez la touche <kbd>Supprimer</kbd>.</li>
-  </ol>
+<h2 id="reopening_closed_tabs_windows">Reopening Closed Tabs or Windows</h2>
 
-  <p><strong>Astuce</strong>&#160;: Pour trier l'historique, cliquez sur une
-  des catégories (<q>Titre</q>, <q>Adresse</q>, ou <q>Derni&egrave;re
-  visite</q>). Cliquez une nouvelle fois pour inverser l'ordre.</p>
+<p>&brandShortName; keeps track of your most recently closed tabs and 
+  windows and allows you to get back to them easily.</p>
 
-  <p>[&#160;<a href="#navigating_web_pages">Retour au début de la
-  section</a>&#160;]</p>
+<p>To reopen closed tabs:</p>
 
-  <h2 id="stopping_and_reloading">Arrêter et relancer le chargement d'une page</h2>
+<ul>
+  <li>Open the Go menu and expand the Recently Closed Tabs menu.</li>
+  <li>Select any of the previously closed tabs from the list.
+    Once selected, it will be restored and removed from the list.</li>
+</ul>
 
-  <p>Si une page est trop longue à s'afficher, ou que vous changez
-  d'avis et ne désirez plus voir cette page, cliquez sur le bouton
-  <q>Arrêter</q>.</p>
+<p>Similarly, to reopen closed windows:</p>
 
-  <p>Pour rafra&icirc;chir la page courante, ou obtenir la version la plus
-  à jour de celle-ci, cliquez sur <q>Recharger</q> ou appuyez sur les
-  touches <kbd class="mac">Cmd</kbd><kbd
-  class="noMac">Ctrl</kbd>+<kbd>Maj</kbd>+<kbd>R</kbd>.</p>
+<ul>
+   <li>Open the Go Menu and expand the Recently Closed Windows menu.</li>
+   <li>Select any of the previously closed windows. Once selected,
+     it will be restored and removed from the list.</li>
+</ul>
 
-  <table summary="table for images">
-    <tr>
-      <td colspan="4"><img src="images/reload.gif" alt=
-      "Boutons de navigation" /></td>
-    </tr>
+<p>[<a href="#navigating_web_pages">Return to beginning of section</a>]</p>
 
-    <tr style="text-align: right;font-weight: bold;">
-      <td style="width: 70px;">&#160;</td>
+<h2 id="stopping_and_reloading">Stopping and Reloading</h2>
 
-      <td>Recharger</td>
+<p>If a page is taking too long to appear, or you change your mind and
+  don&apos;t want to view it, click the Stop button.</p>
 
-      <td style="width: 36px;">Arrêter</td>
-    </tr>
-  </table>
+<p>To refresh the current page, or get the most up-to-date version, click the
+  Reload button, or press
+  <kbd class="mac">Cmd</kbd><kbd class="noMac">Ctrl</kbd>+<kbd>R</kbd>.</p>
 
-  <p>[&#160;<a href="#navigating_web_pages">Retour au début de la
-  section</a>&#160;]</p>
+<table summary="table for images">
+  <tr>
+    <td colspan="3"><img src="images/reload.gif"
+      alt="Navigation Buttons"/></td>
+  </tr>
+  <tr>
+    <td style="width: 87px;"></td>
+    <td style="width: 45px;"><strong>Reload</strong></td>
+    <td style="width: 47px;"><strong>Stop</strong></td>
+  </tr>
+</table>
 
-  <h2 id="visiting_bookmarked_pages">Utiliser les marque-pages</h2>
+<p>To refresh the current page and reset all changes made (if the page contains
+  a form), hold down the <kbd>Shift</kbd> key and click the Reload button, or
+  press <kbd class="mac">Cmd</kbd><kbd
+  class="noMac">Ctrl</kbd>+<kbd>Shift</kbd>+<kbd>R</kbd>.</p>
 
-  <p>Les adresses ou URLs des pages Web peuvent être difficiles à
-  mémoriser. Heureusement, il n'est pas nécessaire de retenir
-  toutes ces URLs pour naviguer sur le Web. En effet, votre navigateur peut
-  garder en mémoire une liste de pages que vous trouvez
-  intéressantes. Il vous suffit pour cela d'utiliser les
-  marque-pages.</p>
+<p>[<a href="#navigating_web_pages">Return to beginning of section</a>]</p>
 
-  <p>Pour vous rendre sur une page marquée&#160;:</p>
+<h2 id="visiting_bookmarked_pages">Visiting Bookmarked Pages</h2>
 
-  <ol>
-    <li>Ouvrez le menu <q>Marque-pages</q>. Le menu contient des marque-pages,
-    représentés par une ic&ocirc;ne de marque-page <img src=
-    "chrome://communicator/skin/bookmarks/bookmark-item.gif" alt=
-    "ic&ocirc;ne de marque-pages" />, ainsi que des dossiers contenant d'autres
-    marque-pages.</li>
+<p>The addresses, or URLs, of web pages can be quite long and difficult to
+  remember. Fortunately, it&apos;s not necessary to memorize URLs in order to
+  browse the Web. Your browser has a list of bookmarks, which are pointers to
+  interesting web pages.</p>
 
-    <li>Pour visiter une de ces pages, choisissez l'un des marque-pages dans le
-    menu, ou dans un des sous-dossiers.</li>
-  </ol>
+<p>To go to a bookmarked page, begin from the Browser window:</p>
 
-  <p>N'oubliez pas&#160;: pour revenir en arri&egrave;re, vous pouvez toujours
-  utiliser la fl&egrave;che <q>Précédent</q>.</p>
+<ol>
+  <li>Open the Bookmarks menu. The menu contains bookmarks represented by a
+    bookmark icon, and folders that contain more bookmarks.</li>
+  <li>To visit a bookmarked page, choose a bookmark from the menu, or open a
+    folder and choose a bookmark.</li>
+</ol>
 
-  <p>Vous pouvez créer vous-même vos propres marque-pages qui
-  pointeront vers les pages que vous visitez fréquemment, ainsi que vers
-  d'autres endroits intéressants sur le Web. Pour plus d'informations
-  sur les marque-pages, voir la section <a href=
-  "customize_help.xhtml#creating_new_bookmarks">Créer de nouveaux
-  marque-pages</a>.</p>
+<p><strong>Tip</strong>: To retrace your steps, click the Back arrow.</p>
 
-  <p>[&#160;<a href="#navigating_web_pages">Retour au début de la
-  section</a>&#160;]</p>
+<p>You can save your own bookmarks to point to pages you frequently visit, or
+  to other interesting places on the Web. See
+  <a href="customize_help.xhtml#creating_new_bookmarks">Creating New
+  Bookmarks</a> for more information.</p>
 
-  <h2 id="using_tabbed_browsing">Utiliser la navigation par onglets</h2>
+<p>[<a href="#navigating_web_pages">Return to beginning of section</a>]</p>
 
-  <p>Si vous avez l'habitude de visiter plusieurs pages Web à la fois,
-  vous pouvez utiliser la navigation par onglets pour surfez plus rapidement et
-  plus facilement.</p>
+<h2 id="using_tabbed_browsing">Using Tabbed Browsing</h2>
 
-  <p>La navigation par onglet vous permet d'ouvrir plusieurs onglets, chacun
-  affichant une page Web différente et ce dans une seule et même
-  fenêtre du navigateur. Vous n'avez plus besoin de jongler avec de
-  multiples fenêtres de votre navigateur. Vous libérez ainsi de
-  l'espace sur votre bureau. Vous pouvez commodément ouvrir, fermer, ou
-  recharger les pages Web sans avoir à changer de fenêtre.</p>
+<p>When you visit more then one web page at a time, you can use Tabbed Browsing
+  to navigate the Web faster and easier.</p>
 
-  <p>Vous pouvez gérer et contr&ocirc;ler facilement le comportement des
-  onglets de navigation (ouverture automatique, en arri&egrave;re-plan, etc.).
-  Pour plus d'informations sur les param&egrave;tres de la navigation par
-  onglets, voir la section <a href=
-  "cs_nav_prefs_navigator.xhtml#tabbed_browsing">Préférences du navigateur
-  - Onglets</a>.</p>
+<p>Tabbed Browsing lets you open tabs, each displaying a web page, within a
+  single browser window. You don&apos;t have to have several windows open to
+  visit several different web pages. This frees up space on your desktop. You
+  can open, close, and reload web pages conveniently in one place without
+  having to switch to another window.</p>
 
-  <p>Pour en apprendre plus sur la navigation par onglets, voir la section
-  <a href="customize_help.xhtml#tabbed_browsing">Navigation par onglets</a>.</p>
+<p>You can manage your navigation tabs easily and control when tabs are opened
+  automatically. For more information about setting Tabbed Browsing
+  preferences, see
+  <a href="cs_nav_prefs_navigator.xhtml#tabbed_browsing">Browser Preferences
+  - Tabbed Browsing</a>.</p>
 
-  <p>[&#160;<a href="#navigating_web_pages">Retour au début de la
-  section</a>&#160;]</p>
+<p>To learn more about using Tabbed Browsing, see
+  <a href="customize_help.xhtml#tabbed_browsing">Tabbed Browsing</a>.</p>
 
-  <h2 id="using_sidebar">Utiliser la barre latérale</h2>
+<p>[<a href="#navigating_web_pages">Return to beginning of section</a>]</p>
 
-  <p>En complément de la navigation sur le Web avec le navigateur, vous
-  pouvez laisser le Web venir à vous grâce à la barre
-  latérale.</p>
+<h2 id="using_sidebar">Using Sidebar</h2>
 
-  <p>La barre latérale est un cadre personnalisable dans votre
-  navigateur o&ugrave; vous pouvez garder des éléments que vous
-  utilisez souvent &ndash; les derni&egrave;res informations et la
-  météo , votre carnet d'adresses ou votre liste de contacts, des
-  cotations en bourse, un calendrier &ndash; et beaucoup d'autres options que
-  vous pouvez choisir. La barre latérale vous présente ces
-  éléments en panneaux mis à jour constamment.</p>
+<p>In addition to navigating the Web with the browser, you can let the Web come
+  to you by using Sidebar.</p>
 
-  <p>&brandShortName; vous fournit certains panneaux préconfigurés, mais
-  vous pouvez configurer la barre latérale en ajoutant, retirant, et en
-  réorganisant les panneaux. Pour plus de détails, consultez la
-  section <a href="customize_help.xhtml#sidebar">Qu'est ce que la barre
-  latérale&#160;?</a>.</p>
+<p>Sidebar is a customizable frame in your browser where you can keep items
+  that you need to use all the time&mdash;the latest news and weather, your
+  address book, stock quotes, a calendar&mdash;and many other available
+  options. Sidebar presents these items to you in tabs that it continually
+  updates.</p>
 
-  <p>Pour voir un élément de la barre latérale, cliquez
-  sur le panneau correspondant.</p>
+<p>&brandShortName; comes with some Sidebar tabs already set up, but you can
+  customize Sidebar by adding, removing, and rearranging tabs. For details,
+  see <a href="customize_help.xhtml#sidebar">Sidebar</a>.</p>
 
-  <table summary="table for images">
-    <tr>
-      <td rowspan="2" style="vertical-align:middle; -moz-padding-end: 20px;"><img
-src="images/sidebarclosed_small.gif" alt=
-      "Barre latérale fermée" /></td>
+<p>To view an item in Sidebar, click its tab.</p>
 
-      <td><strong>Barre latérale</strong></td>
-    </tr>
+<table summary="table for images">
+  <tr>
+    <td><img src="images/sidebar.png"
+      alt="Sidebar Handle"/></td>
+    <td style="vertical-align:
+      middle; -moz-padding-end: 20px;"><strong>Sidebar<br/>Handle</strong></td>
+    <td style="vertical-align: middle;">If it is not already open, open Sidebar
+      by clicking its handle. If the handle is missing, open the View menu in
+      the browser, choose Show/Hide, and then Sidebar from the submenu.</td>
+  </tr>
+</table>
 
-    <tr>
-      <td>
-        <p>Ouvrez la barre latérale en cliquant sur sa poignée.
-        Si la poignée n'est pas visible, ouvrez le menu
-        <q>Affichage</q>, choisissez <q>Barres d'outils</q> puis
-        sélectionnez <q>Barre latérale</q> ou, plus rapidement,
-        appuyez sur la touche <kbd>F9</kbd>.</p>
-      </td>
-    </tr>
-  </table>
+<p class="noMac"><strong>Tip</strong>: To quickly open or close the Sidebar,
+  press <kbd>F9</kbd>.</p>
 
-  <p class="noMac"><strong>Astuces</strong>&#160;: Pour ouvrir rapidement la barre
-  latérale, pressez la touche <kbd>F9</kbd>.</p>
+<p>[<a href="#navigating_web_pages">Return to beginning of section</a>]</p>
 
-  <p>[&#160;<a href="#navigating_web_pages">Retour au début de la
-  section</a>&#160;]</p>
+<h1 id="searching_the_web">Searching the Web</h1>
 
-  <h1 id="searching_the_web">Rechercher sur le Web</h1>
+<div class="contentsBox">In this section:
+  <ul>
+    <li><a href="#fast_searches">Fast Searches</a></li>
+    <li><a href="#sidebar_advanced_search_mode">Sidebar Advanced Search
+      Mode</a></li>
+    <li><a href="#setting_search_preferences">Setting Search
+      Preferences</a></li>
+    <li><a href="#searching_within_a_page">Searching Within a Page</a></li>
+    <li><a href="#using_find_as_you_type">Using Find-as-you-type</a></li>
+    <li><a href="#searching_the_bookmarks_or_history_list">Searching the
+      Bookmarks or History List</a></li>
+  </ul>
+</div>
 
-  <div class="contentsBox">
-    <p>Dans cette section&#160;:</p>
+<h2 id="fast_searches">Fast Searches</h2>
 
+<p>There are four ways to search quickly: from the Location Bar, from Sidebar,
+  from the Net Search page, and by selecting words in a web page.</p>
+
+<h3 id="searching_from_the_location_bar">Searching from the Location Bar</h3>
+
+<p>Searching for web pages on a particular topic is as easy as typing a
+  question, or just a word or two, into the browser&apos;s Location Bar, as
+  shown below.</p>
+
+<p><img src="images/search.png" width="305" height="40" alt=
+  "Location Bar with Search Term"/></p>
+
+<p>For example, if you want to find information about baby dolls:</p>
+
+<ol>
+  <li>Double-click in the Location Bar to select the current text.</li>
+  <li>Type the word <q>baby doll</q>. Your typing replaces the current
+    text.</li>
+  <li>Perform one of these steps:
     <ul>
-      <li><a href="#fast_searches">Recherche rapide</a></li>
+      <li>Click the Search button.</li>
+      <li>Click <q>Search Google for <q>baby doll</q></q> at the bottom of the
+        drop-down list in the Location Bar. (Your default search engine may be
+        different.)
 
-      <li><a href="#sidebar_advanced_search_mode">Mode de recherche avancé</a></li>
-
-      <li><a href="#setting_search_preferences">Modifier les options de recherche</a></li>
-
-      <li><a href="#searching_within_a_page">Rechercher dans une page Web</a></li>
-
-      <li><a href="#using_find_as_you_type">Utiliser la recherche à la
-      saisie</a></li>
-
-      <li><a href="#searching_the_bookmarks_or_history_list">Rechercher dans les marque-pages ou
-      l'historique</a></li>
+        <p>The default search engine you choose in the
+          <a href="cs_nav_prefs_navigator.xhtml#internet_search">Internet
+          Search Preferences</a> is used. Search results for <q>baby doll</q>
+          appear in both the browser window and in Sidebar. Click the links to
+          visit web pages about baby dolls.</p>
+      </li>
     </ul>
-  </div>
-
-  <h2 id="fast_searches">Recherche rapide</h2>
-
-  <p>Il y a quatre fa&ccedil;ons de faire une recherche rapidement&#160;: depuis
-  la barre d'adresse, depuis la barre latérale, depuis la page de
-  recherche sur Internet et en sélectionnant des mots dans une page Web.</p>
-
-  <h3 id="searching_from_the_location_bar">Rechercher depuis la barre d'adresse</h3>
-
-  <p>La recherche de pages Web relatives à un sujet particulier est
-  tr&egrave;s simple. Il suffit de rentrer une question ou simplement un ou
-  deux mots dans la barre d'adresse du navigateur, comme le montre l'image
-  ci-dessous.</p>
-
-  <p><img src="images/search.png" width="334" height="33" alt="" /></p>
-
-  <p>Par exemple, si vous voulez trouver des informations à propos de
-  <q>poupée</q>&#160;:</p>
-
-  <ol>
-    <li>Double-cliquez dans la barre d'adresse afin de sélectionner le
-    texte qui s'y trouve actuellement.</li>
-
-    <li>Saisissez <q>poupée</q>. La saisie remplace le texte
-    sélectionné.</li>
-
-    <li>Plusieurs options s'offrent à vous&#160;:
-
-      <ul>
-        <li>Cliquez sur le bouton <q>Rechercher</q>.</li>
-
-        <li>Sélectionnez ou cliquez sur <q>Rechercher avec <em>moteur de
-        recherche par défaut</em></q> dans le menu déroulant qui
-        appara&icirc;t sous la barre d'adresse.
-
-		  <p>Le moteur de recherche par
-		  défaut peut être configuré dans les <a
-		  href="cs_nav_prefs_navigator.xhtml#internet_search">
-		  préférences de recherche sur Internet</a> (menu
-		  <span class="mac">SeaMonkey</span><span class="noMac">édition</span>
-		  &gt; Préférences &gt; Navigateur &gt;
-		  Recherche sur Internet).</p>
-
-          <p>Les résultats de la recherche de <q>poupée</q>
-          apparaissent dans la fenêtre du navigateur ainsi que dans le
-          panneau <q>Rechercher</q> de la barre latérale. Cliquez sur
-          les liens pour visiter les pages trouvées parlant de
-          poupées.</p>
-        </li>
-      </ul>
-    </li>
-  </ol>
-
-  <p>Lorsqu'une recherche a été effectuée, les
-  résultats restent disponibles dans le panneau <q>Rechercher</q> de la
-  barre latérale jusqu'à la prochaine recherche. Il n'est donc
-  pas nécessaire d'utiliser le bouton <q>Précédent</q>
-  pour retrouver les autres résultats de la recherche.</p>
-
-  <p><strong>Remarque</strong>&#160;: Dans la section <q>Adresse inconnue</q>
-  des <a href="cs_nav_prefs_navigator.xhtml#location_bar">préférences de la
-  barre d'adress</a>, vous pouvez paramétrer la barre d'adresse pour effectuer
-  automatiquement une recherche si le texte saisi n'est pas une adresse Web.
-  Saisir un mot dans la barre d'adresse et appuyer sur <kbd
-  class="noMac">Entrée</kbd><kbd class="mac">Retour</kbd> lancera la recherche.
-  Pour une description plus complète de cette fonctionnalité, voir le document
-  en ligne <a href="http://www.mozilla.org/docs/end-user/internet-keywords.html"
-  hreflang="en">Internet Keywords</a>.</p>
-
-  <h3 id="searching_from_sidebar">Rechercher depuis la barre latérale</h3>
-
-  <p>Le panneau <q>Rechercher</q> de la barre latérale vous permet
-  d'effectuer et d'enregistrer facilement vos recherches. Par exemple, si vous
-  désirez obtenir des informations sur <q>mod&egrave;le
-  réduit</q>&#160;:</p>
-
-  <ol>
-    <li>Si elle n'est pas déjà ouverte, ouvrez la barre
-    latérale en cliquant sur sa poignée. Si vous ne voyez pas la
-    poignée de la barre latérale, ouvrez le menu
-    <q>Affichage</q>, choisissez <q>Barre d'outils</q> puis sélectionnez
-    <q>Barre latérale</q>.</li>
-
-    <li>Cliquez sur le panneau <q>Rechercher</q>.</li>
-
-    <li>Ouvrez la liste déroulante des moteurs de recherche, et
-    choisissez un outil de recherche.</li>
-
-    <li>Saisissez <q>mod&egrave;le réduit</q> dans le champ de
-    recherche.</li>
-
-    <li>Cliquez sur <q>Rechercher</q>. Les résultats de la recherche sur
-    <q>mod&egrave;le réduit</q> apparaissent simultanément dans
-    la fenêtre du navigateur et dans la barre latérale. Cliquez
-    sur les liens pour visiter les pages Web parlant de mod&egrave;les
-    réduits.</li>
-  </ol>
-
-  <p><strong>Remarque</strong>&#160;: Si le panneau <q>Rechercher</q> de la
-  barre latérale contient une liste vous permettant de choisir parmi
-  plusieurs moteurs de recherche, il est en mode de recherche avancé.
-  Vous pouvez le laisser tel quel, ou le mettre en mode simple via les
-  préférences de <a href=
-  "#sidebar_advanced_search_mode">recherche sur Internet</a>.</p>
-
-  <p><strong>Astuce</strong>&#160;: Pour afficher rapidement la page
-  précédente ou la page suivante des résultats de
-  recherche, cliquez sur les boutons <q>Suivant</q> et
-  <q>Précédent</q> qui se trouvent en bas de l'onglet
-  <q>Rechercher</q> de la barre latérale.</p>
-
-
-  <h3 id="searching_from_the_net_search_page">Rechercher depuis la page de
-  <q>Recherche sur Internet</q></h3>
-
-  <p>La page <q>Recherche sur Internet</q> vous permet d'effectuer une
-  recherche sur un terme ou une phrase, ou d'explorer différentes
-  catégories (comme Arts, Commerce &amp; économie, et bien
-  d'autres) qui peuvent vous intéresser. Cette page est en fait, celle
-  du moteur de recherche par défaut défini dans les
-  préférences de <a href=
-  "cs_nav_prefs_navigator.xhtml#internet_search">recherche sur Internet</a>. Pour
-  visiter la page de <q>Recherche sur Internet</q>, plusieurs méthodes
-  sont possibles&#160;:</p>
-
-  <ul>
-    <li>Cliquez sur le bouton <q>Rechercher</q> <img src=
-    "images/search_personal_toolbar.gif" width="66" height="20" alt=
-    "Bouton de recherche" /> de la barre de navigation.</li>
-
-    <li>Ouvrez le menu <q>Outils</q> et choisir <q>Rechercher sur
-    Internet</q>.</li>
-  </ul>
-
-  <h3 id="searching_on_selected_words_in_a_web_page">Rechercher des mots
-  sélectionnés dans une page Web</h3>
-
-  <p>&brandShortName; vous permet d'effectuer une recherche sur des mots que vous avez
-  sélectionnés directement dans une page Web&#160;:</p>
-
-  <ol>
-    <li>Sélectionnez (mettez en surbrillance) un mot d'un page
-    Web.</li>
-
-    <li><span class="noMac">Cliquez-droit et sélectionnez <q>Recherche
-    de <q><em>mot_sélectionné</em></q></q> dans le menu
-    contextuel qui appara&icirc;t.</span><span class="mac">Appuyez sur la
-    touche <kbd>Option</kbd> et cliquez sur le bouton de la souris.</span></li>
-  </ol>
-
-  <p>&brandShortName; ouvre alors, selon vos paramètres, une nouvelle
-  fenêtre ou un nouvel onglet du navigateur sur la page du moteur de
-  recherche par défaut. Pour changer le moteur de recherche par
-  défaut et les param&egrave;tres d'affichages des résultats,
-  voir la section <a
-  href="cs_nav_prefs_navigator.xhtml#internet_search">Préférences
-  du navigateur - Recherche sur Internet</a>.</p>
-
-  <p>[&#160;<a href="#searching_the_web">Retour au début de la
-  section</a>&#160;]</p>
-
-  <h2 id="sidebar_advanced_search_mode">Mode de recherche avancé</h2>
-
-  <p>Vous pouvez afficher le panneau de recherche de la barre latérale
-  en mode avancé, ce qui vous permet de limiter la recherche ou
-  de choisir un ou plusieurs moteurs de recherche différents.</p>
-
-  <ol>
-    <li>Ouvrez le menu <q><span class="mac">SeaMonkey</span><span
-    class="noMac">édition</span></q> et choisissez
-    <q>Préférences…</q>.</li>
-
-    <li>Choisissez la catégorie <q>Navigateur</q>, et
-    sélectionnez <q>Recherche Internet</q>. Si aucune
-    sous-catégorie n'est affichée, double-cliquez sur la
-    catégorie <q>Navigateur</q> pour développer la liste.</li>
-
-    <li>Sélectionnez <q>Avancé</q> dans les options du panneau
-    de recherche de la barre latérale puis cliquez sur <q>OK</q>.</li>
-
-    <li>Si elle n'est pas déjà ouverte, ouvrez la barre
-    latérale en cliquant sur sa poignée. Si vous ne voyez pas la
-    poignée de la barre latérale, ouvrez le menu
-    <q>Affichage</q>, choisissez <q>Barre d'outils</q> puis sélectionnez
-    <q>Barre latérale</q>.</li>
-
-    <li>Cliquez sur le panneau <q>Rechercher</q> dans la barre
-    latérale.</li>
-
-    <li>Ouvrez le menu déroulant <q>parmi</q> et choisissez une
-    catégorie.</li>
-
-    <li>Choisissez un ou plusieurs moteurs de recherche pour la
-    catégorie sélectionnée.</li>
-
-    <li>Dans le champ de recherche, entrez l'expression que vous désirez
-    rechercher.</li>
-
-    <li>Cliquez sur <q>Rechercher</q>.</li>
-  </ol>
-
-  <p><img src="images/sidebar-advanced.png" alt=
-  "Recherche dans la barre latérale" /></p>
-
-  <h3 id="customizing_search_categories">Personnaliser les catégories de
-  recherche</h3>
-
-  <p>Vous pouvez spécifier les moteurs de recherche à utiliser
-  pour les différentes catégories de recherche. Par exemple, vous
-  pouvez choisir un groupe de moteurs de recherche pour trouver des forfaits
-  voyage, et choisir un autre groupe de moteurs de recherche pour trouver des
-  logiciels.</p>
-
-  <ol>
-    <li>Ouvrez le menu <q><span class="mac">SeaMonkey</span><span
-    class="noMac">édition</span></q>,
-    choisissez <q>Préférences…</q>, choisissez la catégorie
-    <q>Navigateur</q>, et sélectionnez <q>Recherche sur Internet</q>.
-    Sélectionnez <q>Avancé</q> dans les options du panneau de
-    recherche de la barre latérale.</li>
-
-    <li>Si elle n'est pas déjà ouverte, ouvrez la barre en
-    cliquant sur sa poignée. Si vous ne voyez pas la poignée de
-    la barre latérale, ouvrez le menu <q>Affichage</q>, choisissez
-    <q>Barre d'outils</q> puis sélectionnez <q>Barre
-    latérale</q>.</li>
-
-    <li>Cliquez sur le panneau <q>Rechercher</q> de la barre.</li>
-
-    <li>Ouvrez le menu déroulant <q>parmi</q>, cliquez sur <q>Modifier
-    les catégories</q>. La fenêtre de modification des
-    catégories appara&icirc;t.</li>
-
-    <li>Dans la liste déroulante des catégories, choisissez celle
-    que vous désirez personnaliser.<br />
-    Ou<br />
-    Pour créer une nouvelle catégorie, cliquez sur <q>Nouveau</q>
-    et entrez un nom pour la catégorie. La liste déroulante
-    affiche maintenant le nom de la catégorie.</li>
-
-    <li>Effectuez une des man&oelig;uvres suivantes&#160;:
-
-      <ul>
-        <li>Pour ajouter un moteur de recherche pour la catégorie
-        sélectionnée, sélectionnez-en un dans la liste de
-        gauche, et cliquez sur <q>Ajouter</q>.</li>
-
-        <li>Pour enlever un moteur de recherche pour la catégorie
-        sélectionnée, sélectionnez-le dans la liste de
-        droite, et cliquez sur <q>Effacer</q>.</li>
-
-        <li>Pour renommer la catégorie sélectionnée,
-        cliquez sur <q>Renommer</q> et entrez un nouveau nom.</li>
-
-        <li>Pour supprimer la catégorie sélectionnée,
-        cliquez sur <q>Effacer</q>.</li>
-      </ul>
-    </li>
-
-    <li>Cliquez sur <q>OK</q> quand vous avez terminé votre
-    personnalisation.</li>
-  </ol>
-
-  <p>[&#160;<a href="#searching_the_web">Retour au début de la
-  section</a>&#160;]</p>
-
-  <h2 id="setting_search_preferences">Modifier les options de recherche</h2>
-
-  <p>Lorsque vous cliquez sur <q>Rechercher</q>, c'est le moteur de recherche
-  <a href="http://www.google.fr" hreflang="fr" title=
-  "Moteur de recherche sur Internet">Google</a> qui est utilisé. Vous
-  pouvez choisir un autre moteur de recherche par défaut. Vous pouvez
-  également paramétrer l'affichage des résultats dans la
-  barre latérale.</p>
-
-  <ol>
-    <li>Ouvrez le menu <q><span class="mac">SeaMonkey</span><span
-    class="noMac">édition</span></q>
-    et choisissez <q>Préférences…</q>.</li>
-
-    <li>Dans la catégorie <q>Navigateur</q>, cliquez sur <q>Recherche
-    sur Internet</q>. Si aucune option n'est visible dans cette
-    catégorie, double-cliquez sur la catégorie <q>Navigateur</q>
-    pour développer la liste.</li>
-
-    <li>Dans la liste déroulante <q>Rechercher en utilisant</q>,
-    choisissez le moteur de recherche que vous voulez définir par
-    défaut.</li>
-
-    <li>Dans la catégorie <q>Résultats de recherche</q>,
-    sélectionnez <q>Ouvrir le panneau "Rechercher" de la barre
-    latérale quand les résultats sont disponibles</q> si vous
-    désirez afficher les résultats de la recherche dans le
-    panneau <q>Rechercher</q> de la barre latérale.</li>
-
-    <li>Dans la catégorie <q>Préférences du panneau de
-    recherche de la barre latérale</q>, sélectionnez
-    <q>Basique</q> si vous ne désirez utiliser qu'un seul moteur de
-    recherche. Pour utiliser de multiples moteurs de recherche
-    sélectionnez <q>Avancé</q>.</li>
-  </ol>
-
-  <p>[&#160;<a href="#searching_the_web">Retour au début de la
-  section</a>&#160;]</p>
-
-
-  <h2 id="searching_within_a_page">Rechercher dans une page Web</h2>
-
-  <p>Pour rechercher du texte dans la page qui est actuellement
-  affichée&#160;:</p>
-
-  <ol>
-    <li>Dans le menu <q>édition</q> choisissez <q>&findDialog.title;</q>. Si la page que
-	vous visitez contient des cadres (frames), il peut être nécessaire de cliquer dans
-	le cadre avant de commencer votre recherche.</li>
-
-    <li>Entrez le texte que vous voulez rechercher.</li>
-
-    <li>Choisissez parmi les options suivantes&#160;:
-
-      <dl>
-        <dt>&caseSensitiveCheckbox.label;&#160;:</dt>
-
-        <dd>Cochez cette case pour rechercher un mot ou une phrase
-        correspondant exactement à ce que vous avez tapé (y
-        compris les lettres en majuscule et minuscule).</dd>
-
-        <dt>&direction.label;&#160;:</dt>
-
-        <dd>
-          Cochez cette case pour permettre au navigateur de commencer depuis le
-          curseur d'insertion jusqu'en bas et de continuer ensuite à
-          chercher depuis le haut de la page.
-
-          <p>Remarque&#160;: normalement, la recherche se fait uniquement
-          depuis l'endroit du dernier clic de la souris jusqu'au bas de la
-          page.</p>
-        </dd>
-
-        <dt>&up.label; et &down.label;&#160;:</dt>
-
-        <dd>Sélectionnez une de ces deux cases pour indiquer la direction de recherche dans la page.</dd>
-      </dl>
-    </li>
-
-    <li>Cliquez sur <q>&findButton.label;</q> pour commencer la recherche.</li>
-  </ol>
-
-  <p>Pour trouver l'occurrence suivante du mot ou de la phrase&#160;:</p>
-
-  <ul>
-    <li>Ouvrez le menu <q>édition</q> et choisissez <q>Rechercher
-    suivant</q>.</li>
-  </ul>
-
-  <p>[&#160;<a href="#searching_the_web">Retour au début de la
-  section</a>&#160;]</p>
-
-  <h2 id="using_find_as_you_type">Utiliser la recherche à la saisie</h2>
-
-  <p>Plut&ocirc;t que de chercher un texte à l'aide de la fonction
-  <q>Rechercher</q> du menu <q>édition</q>, vous pouvez chercher
-  directement une cha&icirc;ne de caract&egrave;re dans une page Web en la
-  saisissant au clavier.</p>
-
-  <ol>
-    <li>Pour rechercher un lien, saisissez plusieurs caract&egrave;res dans la
-    fenêtre active du navigateur pour vous déplacer parmi tous les
-    liens contenant cette cha&icirc;ne.
-
-      <p>Si vous saisissez plusieurs fois de suite le même
-      caract&egrave;re, le navigateur commencera une recherche cyclique parmi
-      tous les liens de la page Web commen&ccedil;ant par ce caract&egrave;re.
-      évidemment, s'il trouve un texte correspondant exactement
-      à votre saisie, telle que <q><tt>oo</tt></q> dans
-      <q><tt>woods</tt></q>, il s'y positionnera directement.</p>
-    </li>
-
-    <li>Pour rechercher parmi tout le texte (texte normal et lien), saisissez
-    <kbd>/</kbd> avant votre cha&icirc;ne de caract&egrave;res. Par exemple,
-    saisissez <q>/bonjour</q> pour rechercher n'importe quel texte contenant la
-    cha&icirc;ne <q>bonjour</q>.</li>
-
-    <li>La barre d'état (en bas de la fenêtre du navigateur)
-    indique la cha&icirc;ne de caract&egrave;re que vous avez saisie et le
-    résultat de la recherche.</li>
-
-    <li>Appuyez sur la touche de retour chariot pour annuler le dernier
-    caract&egrave;re saisi.</li>
-
-    <li>Pour annuler une recherche et continuer à naviguer, appuyez sur
-    la touche <kbd>échap</kbd> et attendez que la fonction de recherche
-    à la saisie se désactive.</li>
-
-    <li>Appuyez sur <kbd class="mac">Cmd</kbd><kbd
-    class="noMac">Ctrl</kbd>+<kbd>G</kbd> ou <kbd>F3</kbd> pour
-    rechercher l'occurrence suivante du texte à rechercher. Appuyez sur
-    <kbd class="mac">Cmd</kbd><kbd class="noMac">Ctrl</kbd>+<kbd>Maj</kbd>+<kbd>G</kbd>
-    ou <kbd>Maj</kbd>+<kbd>F3</kbd> pour trouver l'occurrence
-    précédente.</li>
-  </ol>
-
-  <p>La recherche à la saisie fonctionne dans toutes les fenêtres,
-  telle que les pages de l'aide en ligne (Essayez-la&#160;!).</p>
-
-  <p>Elle fonctionne également avec des caract&egrave;res internationaux
-  comme le chinois ou le japonais.</p>
-
-  <p>[&#160;<a href="#searching_the_web">Retour au début de la
-  section</a>&#160;]</p>
-
-  <h2 id="searching_the_bookmarks_or_history_list">Rechercher dans les marque-pages ou
-  l'historique</h2>
-
-  <p>Pour effectuer une recherche dans les marque-pages&#160;:</p>
-
-  <ol>
-    <li>Ouvrez le menu <q>Marque-pages</q> et choisissez <q>Gérer les
-    marque-pages</q>. Vous verrez s'afficher la fenêtre de gestion des
-    marque-pages.</li>
-
-    <li>Ouvrez le menu <q>Outils</q> et choisissez <q>Rechercher dans les
-    marque-pages…</q>. La bo&icirc;te de dialogue <q>Rechercher des
-    marque-pages</q> s'affiche.</li>
-
-    <li>Dans les listes déroulantes, choisissez parmi les options pour
-    définir votre recherche&#160;:
-
-      <ul>
-        <li>Choisissez entre <q>adresse</q>, <q>nom</q>, <q>description</q> ou
-        <q>mot clé</q> pour déterminer o&ugrave; vous voulez
-        chercher.</li>
-
-        <li>Choisissez parmi <q>contient</q>, <q>commence par</q> ou <q>finit
-        par</q>, si vous connaissez seulement une partie du mot ou de la phrase
-        que vous recherchez.</li>
-
-        <li>Choisissez <q>est</q> si vous savez exactement ce que vous
-        cherchez.</li>
-
-        <li>Choisissez <q>n'est pas</q> ou <q>ne contient pas</q> pour exclure
-        des marque-pages.</li>
-      </ul>
-    </li>
-
-    <li>Cochez la case <q>Enregistrer la requête dans les
-    marque-pages</q> pour sauvegarder la liste dans les marque-pages trouvés. Cela
-    créera un groupe de marque-pages.</li>
-
-    <li>Cliquez sur <q>Rechercher</q>. Les marque-pages correspondant à
-    votre recherche s'afficheront.</li>
-  </ol>
-
-  <p>Pour utiliser les résultats de la recherche&#160;:</p>
-
-  <ul>
-    <li>Double-cliquez sur un marque-page de la liste pour vous y rendre.</li>
-  </ul>
-
-  <p><strong>Astuce</strong>&#160;: Appuyez sur <kbd
-  class="mac">Cmd</kbd><kbd class="noMac">Ctrl</kbd>+<kbd>B</kbd> pour ouvrir
-  rapidement le gestionnaire des marque-pages</p>
-
-  <p>Pour effectuer une recherche dans l'historique&#160;:</p>
-
-  <ol>
-    <li>Ouvrez le menu <q>Aller à</q>, puis choisissez
-    <q>Historique</q>. Vous verrez s'afficher la fenêtre de
-    l'historique.</li>
-
-    <li>Ouvrez le menu <q>Outils</q> et choisissez <q>Rechercher dans
-    l'historique…</q>. La bo&icirc;te de dialogue <q>Rechercher dans
-    l'historique</q> s'ouvre.</li>
-
-    <li>Dans les listes déroulantes, choisissez parmi les options pour
-    définir votre recherche&#160;:
-
-      <ul>
-        <li>Choisissez <q>adresse</q> ou <q>nom</q> pour déterminer
-        o&ugrave; vous voulez chercher. L'historique permet la recherche
-        seulement dans le titre et l'adresse.</li>
-
-        <li>Choisissez parmi <q>contient</q>, <q>commence par</q> ou <q>se
-        termine par</q> si vous connaissez seulement une partie du mot ou de la
-        phrase que vous recherchez.</li>
-
-        <li>Choisissez <q>est</q> si vous savez exactement ce que vous
-        cherchez.</li>
-
-        <li>Choisissez <q>n'est pas</q> ou <q>ne contient pas</q> pour exclure
-        des pages.</li>
-      </ul>
-    </li>
-
-    <li>Cliquez sur le champ de recherche et entrez l'URL (adresse Web) ou une
-    partie de celle-ci que vous voulez trouver ou exclure de votre recherche
-    dans les marque-pages ou l'historique.</li>
-  </ol>
-
-  <p><strong>Astuces</strong>&#160;:</p>
-
-  <ul>
-    <li>Appuyez sur <kbd class="mac">Cmd</kbd><kbd class="noMac">Ctrl</kbd>+<kbd>H</kbd>
-    pour ouvrir rapidement l'historique.</li>
-
-    <li>Si la liste est difficile à lire, essayez d'agrandir la
-    fenêtre de recherche.</li>
-  </ul>
-
-  <p>[&#160;<a href="#searching_the_web">Retour au début de la
-  section</a>&#160;]</p>
-
-  <h1 id="copying_saving_and_printing_pages">Copier, enregistrer et imprimer
-  des pages Web</h1>
-
-  <div class="contentsBox">
-    <p>Dans cette section&#160;:</p>
-
+  </li>
+</ol>
+
+<p>After you perform a search, the results are saved in Sidebar&apos;s Search
+  tab until you do a new search. You don&apos;t have to click the Back button
+  to retrieve the search results.</p>
+
+<p><strong>Note</strong>: In the <q>Unknown Locations</q> section of the
+  <a href="cs_nav_prefs_navigator.xhtml#location_bar">Location Bar
+  Preferences</a>, you can set up the Location Bar so a search is automatically
+  performed if the text you have typed is not a web location. Typing a word in
+  the Location Bar and pressing <kbd class="noMac">Enter</kbd><kbd class="mac">
+  Return</kbd> will then perform a search.</p>
+
+<h3 id="searching_from_sidebar">Searching from Sidebar</h3>
+
+<p>The Sidebar Search tab lets you quickly search and bookmark your search
+  results. For example, if you want to find information about toy cars:</p>
+
+<ol>
+  <li>If it is not already open, open Sidebar by clicking its handle. If the
+    handle is missing, <span class="noMac">press <kbd>F9</kbd> or </span>open
+    the View menu in the browser, choose Show/Hide, and then Sidebar from the
+    submenu.</li>
+  <li>Click the Search tab in Sidebar.</li>
+  <li>Open the <q>using</q> drop-down list, and choose a search
+    engine.</li>
+  <li>Type <q>toy car</q> in the search field.</li>
+  <li>Click Search. Search results for &apos;toy car&apos; appear in both the
+    browser window and in Sidebar. Click the links to visit web pages about toy
+    cars.</li>
+</ol>
+
+<p><strong>Note</strong>: If the Sidebar Search tab contains a list of search
+  engines from which to choose, then it is set to search in
+  <a href ="#sidebar_advanced_search_mode">Advanced mode</a> and you will have
+  to choose one or more search engines before clicking Search. You can keep it
+  that way or change to a basic setting in Preferences.</p>
+
+<p><strong>Tip</strong>: To display the next or previous page of search results
+  quickly, click the Next and Previous buttons at the bottom of the Sidebar
+  Search tab.</p>
+
+<p>See <a href="customize_help.xhtml#sidebar">Sidebar</a> for more information
+  on how to use Sidebar.</p>
+
+<h3 id="searching_from_the_net_search_page">Searching from the Net
+  Search page</h3>
+
+<p>The Net Search page lets you type in a Search term or phrase, or explore
+  several categories (such as Arts &amp; Entertainment, Business, and many
+  more) that may interest you. To visit the Net Search page, perform one of
+  these steps:</p>
+
+<ul>
+  <li>Click on the Search button <img src="images/search_personal_toolbar.gif"
+    width="66" height="20" alt="search button"/> on the Navigation Toolbar.</li>
+  <li>Open the Tools menu and choose Search the Web.</li>
+</ul>
+
+<h3 id="searching_on_selected_words_in_a_web_page">Searching on Selected Words
+  in a Web Page</h3>
+
+<p>&brandShortName; allows you to search for words you select within a web
+  page:</p>
+
+<ol>
+  <li>Select (highlight) any words in a web page.</li>
+  <li>Right-click<span class="mac"> or, if you have a one-button mouse,
+    <kbd>Ctrl</kbd>-click</span> and choose <q>Search Web for
+    [your selected words]</q> for the menu.</li>
+</ol>
+
+<p>&brandShortName; opens a new window or tab (depending on your preferences)
+  and uses your default search engine to search for your selected words. To
+  learn how to change the search engine used to search for your selected words
+  and the way your search results are displayed, see
+  <a href="cs_nav_prefs_navigator.xhtml#internet_search">Browser Preferences
+  - Internet Search</a>.</p>
+
+<p>[<a href="#searching_the_web">Return to beginning of section</a>]</p>
+
+<h2 id="sidebar_advanced_search_mode">Sidebar Advanced Search Mode</h2>
+
+<p>You can set the Sidebar Search tab to Advanced mode, which lets you narrow a
+  search or choose one or more search engines.</p>
+
+<ol>
+  <li>Open the
+    <span class="mac">&brandShortName;</span> <span class="noMac">Edit</span>
+    menu and choose Preferences.</li>
+  <li>Under the Browser category, click Internet Search. (If no subcategories
+    are visible, double-click Browser to expand the list.)</li>
+  <li>Under Sidebar Search Tab Preferences, click Advanced, and then OK.</li>
+  <li>If it is not already open, open Sidebar by clicking its handle. If the
+    handle is missing, <span class="noMac">press <kbd>F9</kbd> or</span>open
+    the View menu in the browser, choose Show/Hide, and then Sidebar from the
+    submenu.</li>
+  <li>Click the Search tab in Sidebar.</li>
+  <li>Open the <q>within</q> drop-down list, and choose a category.</li>
+  <li>Choose one or more search engines for the selected category (if
+    available).</li>
+  <li>In the search field, type the word for which you want to search.</li>
+  <li>Click Search.</li>
+</ol>
+
+<p><img src="images/sidebar-advanced.png" alt="Sidebar Search"/></p>
+
+<h3 id="customizing_search_categories">Customizing Search Categories</h3>
+
+<p>You can specify which search engines should be used for different categories
+  of searches. For example, you can select one set of search engines to search
+  for travel, and select another set of search engines to search for
+  software.</p>
+
+<ol>
+  <li>Set Sidebar Search to Advanced Search Mode. See
+    <a href="#sidebar_advanced_search_mode">Sidebar Advanced Search Mode</a>
+    for details.</li>
+  <li>If it is not already open, open Sidebar by clicking its handle. If the
+    handle is missing, open the View menu in the browser, choose Show/Hide, and
+    then Sidebar from the submenu.</li>
+  <li>Click the Search tab in Sidebar.</li>
+  <li>Open the <q>within</q> drop-down list, click <q>Edit
+    Categories</q>. You see the Edit Categories dialog box.</li>
+  <li>From the Categories drop-down list, choose the category you want to
+    customize.<br/>
+    Or<br/>
+    To create a new category, click New and type a name for the category in the
+    dialog box. The drop-down list now displays the name of the selected
+    category.</li>
+  <li>Do one of the following:
     <ul>
-      <li><a href="#copying_part_of_a_page">Copier une partie de page</a></li>
-
-      <li><a href="#saving_all_or_part_of_a_page">Enregistrer une page en entier ou en
-      partie</a></li>
-
-      <li><a href="#printing_a_page">Imprimer une page</a></li>
+      <li>To add a search engine for the selected category, highlight the
+        search engine in the list on the left, and click Add.</li>
+      <li>To remove a search engine for the selected category, highlight the
+        engine in the list on the right, and click Remove.</li>
+      <li>To rename the selected category, click Rename and type a new
+        name.</li>
+      <li>To delete the selected category, click Delete.</li>
     </ul>
-  </div>
+  </li>
+  <li>Click OK when you are finished customizing.</li>
+</ol>
+
+<p>[<a href="#searching_the_web">Return to beginning of section</a>]</p>
+
+<h2 id="setting_search_preferences">Setting Search Preferences</h2>
+
+<p>You can choose a different search engine as the default. You can also
+  specify how you want search results displayed in Sidebar.</p>
+
+<ol>
+  <li>Open the
+    <span class="mac">&brandShortName;</span> <span class="noMac">Edit</span>
+    menu and choose Preferences.</li>
+  <li>Under the Browser category, click Internet Search. (If no subcategories
+    are visible, double-click the Browser to expand the list.)</li>
+  <li>Under Default Search Engine, choose a search engine you want to use for
+    web searching.</li>
+  <li>Under Search Results, select <q>Open the Search tab in the Sidebar
+    when search results are available</q> if you want the Sidebar search tab
+    to open and show your search results.</li>
+  <li>Under Sidebar Search Tab Preference, select Basic if you want to search
+    using a single search engine, or select Advanced to be able to search using
+    multiple search engines.</li>
+</ol>
+
+<p>[<a href="#searching_the_web">Return to beginning of section</a>]</p>
+
+<h2 id="searching_within_a_page">Searching Within a Page</h2>
+
+<p>To find text within the page you are currently viewing in the browser:</p>
+
+<ol>
+  <li>Open the Edit menu and choose <q>Find in This Page</q>. If the page
+    you are viewing contains frames, you may need to click within a frame
+    before you begin your search. You see the <q>Find bar</q>.</li>
+  <li>Type the text you want to find.</li>
+  <li>Click Next to begin the search from where the cursor is forwards
+    to the bottom of the page.</li>
+  <li>Click Previous to begin the search from the cursor backwards to
+    the top of the page.</li>
+  <li>With <strong>Highlight all</strong>, all words or phrases that
+    matched are highlighted on the page.</li>
+  <li>Use <strong>Match case</strong> to limit the search to words or
+    phrases that exactly match what you typed (taking case into
+    account).</li>
+</ol>
+
+<p>If the search hits the bottom (or top) of the page, it will continue
+  from the other end and indicate on the Find bar that it wrapped.</p>
+
+<p>To find the same word or phrase again, keep pressing Enter while the
+  focus is on the search field, or use the Find Again shortcuts (see
+  the <q>Using Find-as-you-type</q> section below) when the focus
+  is on the page. In both cases, a forward search will be invoked,
+  no matter whether the Previous button was used the last time.</p>
+
+<ul>
+  <li>Open the Edit menu and choose Find Again.</li>
+</ul>
+
+<p>[<a href="#searching_the_web">Return to beginning of section</a>]</p>
+
+<h2 id="using_find_as_you_type">Using Find-as-you-type</h2>
+
+<p>Other than searching text through the Find bar, you can also search by
+  typing directly into a Web page.</p>
+
+<ol>
+  <li>To search for a link, type several characters into the active browser
+      window to navigate to any link with that text in it.
+      
+      <p>If you repeat the same character, it will start to cycle through all
+        the links that begin with that character. However, if it can find a
+        match with the exact string you&apos;ve typed, such as
+        <q><tt>oo</tt></q> in <q><tt>woods</tt></q>, it will go there
+        first.</p>
+  </li>
+  <li>To search for all text (normal text and linked text), type <kbd>/</kbd>
+    before your search string. For example, type <q><kbd>/hello</kbd></q> to
+    search any text containing the string <q>hello</q>.</li>
+  <li>The status bar (at the bottom of your browser window) displays your
+    search string and whether or not the search was successful. Please note
+    that this happens only if the <q>Show the find toolbar during find as you
+    type</q> checkbox on the <a href="cs_nav_prefs_advanced.xhtml#fayt">Find
+    As You Type preferences panel</a> is not selected. If the checkbox is
+    selected, then the <q>Find bar</q> is used instead of changing the status
+    bar.</li>
+  <li>Use the backspace key to undo the last character typed.</li>
+  <li>To cancel a find, change focus or scroll, press Escape, or wait for the
+    timeout.</li>
+  <li>Press
+    <kbd class="mac">Cmd</kbd><kbd class="noMac">Ctrl</kbd>+<kbd>G</kbd> or
+    <kbd>F3</kbd> to find the same search text again. Press
+    <kbd class="mac">Cmd</kbd><kbd
+    class="noMac">Ctrl</kbd>+<kbd>Shift</kbd>+<kbd>G</kbd> or
+    <kbd>Shift</kbd>+<kbd>F3</kbd> to find previous occurence of the search
+    text.</li>
+</ol>
+
+<p>Type Ahead Find works with any window, such as this help file (try it!).</p>
 
-  <h2 id="copying_part_of_a_page">Copier une partie de page</h2>
+<p>This feature also works with international characters such as Chinese and
+  Japanese.</p>
 
-  <p>Pour copier une partie du texte d'une page&#160;:</p>
+<p>[<a href="#searching_the_web">Return to beginning of section</a>]</p>
 
-  <ol>
-    <li>Sélectionnez le texte à l'aide de la souris.</li>
+<h2 id="searching_the_bookmarks_or_history_list">Searching the Bookmarks or
+  History List</h2>
 
-    <li>Choisissez <q>Copier</q> dans le menu <q>édition</q>.</li>
-  </ol>
+<p>To search the bookmarks list, begin from the browser window:</p>
 
-  <p>Vous pouvez ensuite coller le texte dans d'autres documents.</p>
-
-  <p>Pour copier un lien (URL) ou une image depuis une page&#160;:</p>
-
-  <ol>
-    <li>Positionnez le pointeur au dessus d'un lien ou d'une image.</li>
-
-    <li>Cliquez sur le bouton de droite de la souris pour afficher un menu
-    contextuel. Sous Mac OS, appuyez sur la touche <kbd>Commande</kbd> et
-    cliquez sur le bouton de la souris.</li>
-
-    <li>Choisissez <q>Copier l'adresse du lien</q> ou <q>Copier l'adresse de
-    l'image</q>. Si l'image est également un lien, vous avez le choix
-    entre les deux options.</li>
-  </ol>
-
-  <p>Vous pouvez coller le lien dans d'autres documents ou dans la barre
-  d'adresse du navigateur.</p>
-
-  <p>[&#160;<a href="#copying_saving_and_printing_pages">Retour au début
-  de la section</a>&#160;]</p>
-
-   <h2 id="saving_all_or_part_of_a_page">Enregistrer une page en entier ou en
-   partie</h2>
-
-  <p>Pour enregistrer une page enti&egrave;re&#160;:</p>
-
-  <ol>
-    <li>Ouvrez le menu <q>Fichier</q> et choisir <q>Enregistrer sous…</q>.</li>
-
-    <li>Dans la bo&icirc;te de dialogue <q>Enregistrer sous…</q>, choisissez le
-    dossier dans lequel sera enregistré ce fichier.</li>
-
-    <li>Choisissez un format d'enregistrement&#160;:
-
-      <dl>
-        <dt>Page Web, compl&egrave;te&#160;:</dt>
-
-        <dd>Enregistre la page enti&egrave;re, accompagnée des images et
-        des autres fichiers. Cette option vous permet d'afficher la copie
-        locale de la page, telle qu'elle s'afficherait depuis le serveur.
-        &brandShortName; crée un nouveau répertoire, au même endroit
-        que la sauvegarde de la page, qui contient tous les fichiers images,
-        JavaScript, etc.</dd>
-
-        <dt>Page Web, HTML uniquement&#160;:</dt>
-
-        <dd>Enregistre la page telle quelle mais sans les fichiers images.
-        Cette option préserve la structure originale des liens.</dd>
-
-        <dt>Fichiers textes&#160;:</dt>
-
-        <dd>Enregistre la page dans un fichier texte. Cette option ne
-        préserve pas la structure HTML de la page mais elle vous permet
-        de consulter la page depuis n'importe quel éditeur de
-        texte.</dd>
-      </dl>
-    </li>
-
-    <li>Entrez un nom pour le fichier et cliquez sur <q>Enregistrer</q>.</li>
-  </ol>
-
-  <p>Lorsque vous voyez une page contenant des cadres (frames) et qu'un cadre
-  est sélectionné, l'option <q>Enregistrer le cadre sous…</q> est
-  également disponible dans le menu contextuel. Ceci vous permet
-  d'enregistrer uniquement la page se trouvant dans le cadre
-  sélectionné.</p>
-
-  <p>Une page enregistrée sur votre disque dur pourra être lue (ou
-  son code HTML) hors connexion.</p>
-
-  <p>Pour enregistrer une image&#160;:</p>
-
-  <ol>
-    <li>Positionnez le pointeur de la souris sur l'image.</li>
-
-    <li>Cliquez avec le bouton de droite sur l'image (sous Mac OS, appuyez sur
-    la touche <kbd>Commande</kbd> et cliquez sur le bouton de la souris) pour
-    afficher un menu contextuel.</li>
-
-    <li>Choisissez <q>Enregistrer l'image sous…</q>.</li>
-
-    <li>Dans la bo&icirc;te de dialogue <q>Enregistrer l'image</q>, choisissez
-    le dossier dans lequel sera enregistrée l'image. Les boutons en haut
-    à droite de la bo&icirc;te de dialogue vous permettent de remonter
-    dans l'arborescence <img src=
-    "chrome://global/skin/filepicker/folder-up.gif" alt="" />, de revenir
-    rapidement à votre dossier personnel <img src=
-    "chrome://global/skin/filepicker/folder-home.gif" alt="" /> et de
-    créer un nouveau dossier <img src=
-    "chrome://global/skin/filepicker/folder-new.gif" alt="" />.</li>
-
-    <li>Entrez un nom pour l'image et cliquez sur <q>Enregistrer</q>.</li>
-  </ol>
-
-  <p>Pour enregistrer une page sans devoir l'afficher (ce qui peut être
-  utile pour enregistrer une page non formatée, comme un fichier de
-  données, qui n'est pas visible dans le navigateur)&#160;:</p>
-
-  <ol>
-    <li>Positionnez le pointeur de la souris sur le lien.</li>
-
-    <li>Cliquez avec le bouton de droite sur le lien (sous Mac OS, appuyez sur
-    la touche <kbd>Commande</kbd> et cliquez sur le bouton de la souris) pour
-    afficher un menu contextuel.</li>
-
-    <li>Choisissez <q>Enregistrer le lien sous…</q>.</li>
-
-    <li>Dans la bo&icirc;te de dialogue <q>Enregistrer sous…</q>, choisissez le
-    dossier dans lequel sera enregistré le fichier.</li>
-
-    <li>Entrez un nom pour le fichier et cliquez sur <q>Enregistrer</q>.</li>
-  </ol>
-
-  <p><strong>Important</strong>&#160;: Certains liens conduisent directement au
-  téléchargement et à l'enregistrement d'un fichier sur
-  votre disque dur lorsque vous cliquez dessus. Les URLs de ces liens
-  commencent souvent par <tt><acronym title=
-  "File Transfert Protocol">FTP</acronym></tt> ou se terminent par une
-  extension de fichier telle que <tt>.zip</tt> ou <tt>.exe</tt>. Il peut s'agir
-  de programmes, de sons, ou de fichiers vidéos. Des applications
-  auxiliaires peuvent être lancées pour visualiser ces
-  fichiers.</p>
-
-  <p id="setting_image_as_wallpaper" class="win"><strong>Astuce</strong>&#160;:
-  pour définir une image d'une page Web comme fond d'écran de
-  votre bureau, cliquez-droit sur l'image pour faire appara&icirc;tre le menu
-  contextuel, puis choisissez <q>Définir fond d'écran</q>. Une
-  bo&icirc;te de dialogue vous demande alors de confirmer cette action.</p>
-
-  <p>[&#160;<a href="#copying_saving_and_printing_pages">Retour au début de la
-  section</a>&#160;]</p>
-
-  <h2 id="printing_a_page">Imprimer une page</h2>
-
-  <p>Pour imprimer la page courante&#160;:</p>
-
-  <ol>
-    <li>Ouvrir le menu <q>Fichier</q> et choisir <q>Imprimer</q>.</li>
-  </ol>
-
-  <p>Pour imprimer un texte sélectionné, suivez ces étapes
-  depuis une fenêtre du navigateur&#160;:</p>
-
-  <ul>
-    <li>Sélectionnez le texte à imprimer dans la page en
-    cours.</li>
-
-    <li>Ouvrez le menu <q>Fichier</q> et choisissez <q>Imprimer</q>. La
-    bo&icirc;te de dialogue <q>Impression</q> s'affiche.</li>
-
-    <li>Dans le cadre <q>Pages</q>, sélectionnez
-    <q>Sélection</q>.</li>
-
-    <li>Cliquez sur <q>Imprimer</q>.</li>
-  </ul>
-
-  <p>Si la page contient des cadres, vous verrez appara&icirc;tre les options
-  suivantes dans la bo&icirc;te de dialogue <q>Impression</q>&#160;:</p>
-
-  <dl>
-    <dt>Tels qu'ils sont à l'écran&#160;:</dt>
-
-    <dd>Sélectionnez cette option si vous désirez imprimer la
-    page Web intégralement.</dd>
-
-    <dt>Le cadre sélectionné&#160;:</dt>
-
-    <dd>Si la page Web contient des cadres, cette option vous permet de
-    n'imprimer que le cadre actuellement sélectionné.</dd>
-
-    <dt>Chaque cadre séparément&#160;:</dt>
-
-    <dd>Si le page Web contient des cadres, cette option vous permet de tous
-    les imprimer séparément comme autant de pages Web
-    isolées.</dd>
-  </dl>
-
-  <p>C'est le format de la feuille et non la taille de la fenêtre
-  à l'écran qui sera pris en compte pour déterminer le
-  placement du contenu sur la feuille. Le texte est formaté et les
-  images sont repositionnées de mani&egrave;re à s'adapter
-  à la taille du papier.</p>
-
-  <h3 id="print_preview">Aper&ccedil;u avant impression</h3>
-
-  <p>Avant l'impression du document, vous pouvez voir à quoi il
-  ressemblera à l'aide de la fonction <q>Aper&ccedil;u avant
-  impression</q>. Suivez ces étapes depuis une fenêtre du
-  navigateur&#160;:</p>
-
-  <ul>
-    <li>Ouvrez le menu <q>Fichier</q> et sélectionnez <q>Aper&ccedil;u
-    avant impression</q>.</li>
-  </ul>
-
-  <p>Dans l'aper&ccedil;u du document, vous pouvez effectuer ces actions avant
-  de lancer l'impression&#160;:</p>
-
-  <dl>
-    <!--<dt>Aper&ccedil;u de chaque page&#160;:</dt>-->
-
-    <dt class="win">&print.label;</dt>
-    <dd class="win">Cliquez pour imprimer les pages.</dd>
-
-    <dt class="win">&pageSetup.label;</dt>
-
-    <dd class="win">Cliquez pour modifier la mise en page.</dd>
-
-    <dt>Page [__] de <tt>x</tt></dt>
-
-    <dd>Saisissez un numéro de page (inférieur à
-    <tt>x</tt>) pour aller à son aperçu. Cliquez sur les boutons
-    <q>Suivant</q> <img src=
-    "chrome://navigator/skin/btn1/first.png" alt="first button" />,
-    <q>Précédent</q> <img src=
-    "chrome://navigator/skin/btn1/previous.png" alt="previous button" />,
-    <q>Début</q> <img src="chrome://navigator/skin/btn1/next.png" alt=
-    "next bouton" />, ou <q>Fin</q> <img src=
-    "chrome://navigator/skin/btn1/last.png" alt="dernier bouton" /> pour
-    visualiser les différentes pages.</dd>
-
-    <dt class="win">&scale.label;</dt>
-    <dd class="win">Changer l'échelle d'impression (taille) des pages,
-    en utilisant la liste déroulante. Vous pouvez choisir un pourcentage
-    fixe de la page originale et deux options spécifiques&#160;:
-      <dl>
-        <dt>&ShrinkToFit.label;</dt>
-        <dd>Sélectionnez ceci pour automatiquement redimensionner la page à la largeur du papier.</dd>
-
-        <dt>&Custom.label;</dt>
-        <dd>Saisissez un pourcentage par rapport à la taille originale,
-        et appuyez sur <kbd>Entrée</kbd>. Par exemple,
-        saisissez <q>50</q> et pressez <kbd>Entrée</kbd> pour que
-        l'impression de chaque page soit égale à la moitié
-        de sa taille originale.</dd>
-      </dl>
-    </dd>
-
-    <dt class="win">&portrait.label;</dt>
-    <dd class="win">Cliquez pour positionner la page en hauteur, avec le plus
-    petit côté en haut.</dd>
-
-    <dt class="win">&landscape.label;</dt>
-    <dd class="win">Cliquez pour positionner la page en longueur, avec le plus
-    grand côté en haut.</dd>
-
-    <dt class="win">&close.label;</dt>
-    <dd class="win">Cliquez pour fermer la fenêtre d'aperçu avant
-    impression.</dd>
-
-  </dl>
-
-  <p><strong>Remarque</strong>&#160;: Certaines options de l'aper&ccedil;u
-  peuvent être différentes, voire absentes sous Mac OS, Linux ou
-  Unix.</p>
-
-  <h3 id="using_page_setup">Configurer l'impression</h3>
-
-  <p><strong>Remarque</strong>&#160;: Certaines options de configuration
-  peuvent être différentes, voire absentes sous Mac OS, Linux et
-  Unix.</p>
-
-  <p>Pour personnaliser l'impression des pages dans &brandShortName;, vous pouvez
-  utiliser la configuration avant impression&#160;:</p>
-
-  <ul>
-    <li>Ouvrez le menu <q>Fichier</q> et sélectionnez <q>Configurer
-    l'impression</q>.</li>
-  </ul>
-
-  <p>Dans la fenêtre <q>Mise en page</q>, vous pouvez modifier les
-  param&egrave;tres suivants pour les pages que vous voulez imprimer&#160;:</p>
-
-  <ol>
-    <li>Onglet <q>Format &amp; Options</q>&#160;:
-
-      <dl>
-        <dt>Orientation&#160;:</dt>
-
-        <dd>
-          <dl>
-            <dt>Portrait&#160;:</dt>
-
-            <dd>Choisissez <q>Portrait</q> <img src=
-            "chrome://global/skin/icons/Portrait.png" alt=
-            "portrait button" /> pour orienter normalement la page, avec le
-            petit c&ocirc;té vers le haut.</dd>
-
-            <dt>Paysage&#160;:</dt>
-
-            <dd>Choisissez <q>Paysage</q> <img src=
-            "chrome://global/skin/icons/Landscape.png" alt=
-            "landscape button" /> pour positionner la page sur le flanc, avec
-            le grand c&ocirc;té vers le haut.</dd>
-          </dl>
-        </dd>
-
-        <dt>échelle&#160;:</dt>
-
-        <dd>
-          Saisissez un pourcentage par rapport à la taille originale et
-          appuyez sur <kbd class="mac">Retour</kbd><kbd class="noMac">Entrée</kbd>.
-          Par exemple, entrez <kbd>50</kbd> et appuyez sur <kbd
-          class="mac">Retour</kbd><kbd class="noMac">Entrée</kbd>
-          pour réduire toutes les pages à 50% de leur taille
-          normale.
-
-          <dl>
-            <dt>Réduire à la largeur de la page&#160;:</dt>
-
-            <dd>Sélectionnez ceci pour ajuster automatiquement
-            l'échelle de la page à la largeur du format de
-            feuille choisi.</dd>
-          </dl>
-        </dd>
-
-        <dt>Options&#160;:</dt>
-
-        <dd>
-          <dl>
-            <dt>Imprimer le fond d'écran (couleurs et
-            images)&#160;:</dt>
-
-            <dd>Sélectionnez cette option pour imprimer les images et
-            les couleurs d'arri&egrave;re-plan. Si cette case est
-            décochée, seules les images et les couleurs
-            d'avant-plan seront imprimées.</dd>
-          </dl>
-        </dd>
-      </dl>
-    </li>
-
-    <li>Onglet <q>Marges &amp; En-tête/Pied de page</q>&#160;:
-
-      <dl>
-        <dt>Marges&#160;:</dt>
-
-        <dd>
-          <dl>
-            <dt>Haut, bas, gauche, droite&#160;:</dt>
-
-            <dd>Entrez un nombre en millim&egrave;tres pour définir la
-            largeur des marges de chaque c&ocirc;té de la feuille. Selon
-            votre syst&egrave;me d'exploitation, les unités peuvent
-            être des millim&egrave;tres ou des pouces</dd>
-          </dl>
-        </dd>
-
-        <dt>En-têtes &amp; pieds de page&#160;:</dt>
-
-        <dd>
-          Le rang supérieur de listes déroulantes
-          représente les champs gauche, milieu et droit de
-          l'en-tête. Le rang inférieur de listes
-          déroulantes représente les champs gauche, milieu et
-          droit du pied de page. Pour chaque liste déroulante vous
-          pouvez choisir entre les options suivantes&#160;:
-
-          <dl>
-            <dt>&ndash;vide&ndash;&#160;:</dt>
-
-            <dd>N'imprime rien dans ce champ.</dd>
-
-            <dt>Titre&#160;:</dt>
-
-            <dd>Imprime le titre de la page.</dd>
-
-            <dt>URL&#160;:</dt>
-
-            <dd>Imprime l'URL de la page Web (les URLs commencent par
-            <code>http://</code>, mais si vous imprimez un fichier
-            présent sur votre disque dur, elle commencera par
-            <code>file://</code>).</dd>
-
-            <dt>Date/Heure&#160;:</dt>
-
-            <dd>Imprime la date et l'heure d'impression de la page Web.</dd>
-
-            <dt>N&deg; de page&#160;:</dt>
-
-            <dd>Imprime le numéro de la page.</dd>
-
-            <dt>Page # sur #&#160;:</dt>
-
-            <dd>Imprime le numéro de la page sur le nombre total de pages
-            que comporte le document. Par exemple si vous imprimez un document
-            de 5 pages, <q>3 sur 5</q> sera imprimé dans ce champ.</dd>
-
-            <dt>Personnaliser&#160;:</dt>
-
-            <dd>
-              Saisissez votre propre texte. Vous pouvez inclure les codes
-              suivants&#160;:
-
-              <dl>
-                <dt>&amp;PT&#160;:</dt>
-
-                <dd>Numéro de la page sur le total de pages (exemple: <q>3 sur
-                5</q>)</dd>
-
-                <dt>&amp;P&#160;:</dt>
-
-                <dd>Nombre de pages</dd>
-
-                <dt>&amp;D&#160;:</dt>
-
-                <dd>Date</dd>
-
-                <dt>&amp;U&#160;:</dt>
-
-                <dd>URL</dd>
-
-                <dt>&amp;T&#160;:</dt>
-
-                <dd>Titre de la page</dd>
-              </dl>
-            </dd>
-          </dl>
-        </dd>
-      </dl>
-    </li>
-  </ol>
-
-  <p class="noMac"><strong>Astuce</strong>&#160;: Pour visualiser le rendu des changements
-  effectués lors de la configuration de l'impression, utilisez <a href=
-  "#print_preview">Aper&ccedil;u avant impression</a>.</p>
-
-  <p>[&#160;<a href="#copying_saving_and_printing_pages">Retour au début
-  de la section</a>&#160;]</p>
-
-  <h1 id="using_languages_and_international_content">Langues et services de
-  traduction</h1>
-
-  <div class="contentsBox">
-    <p>Dans cette section&#160;:</p>
-
+<ol>
+  <li>Open the Bookmarks menu and choose Manage Bookmarks. You see your
+    Bookmarks window.</li>
+  <li>In the Bookmarks window, open the Tools menu and choose Search Bookmarks.
+    You see the Find Bookmarks dialog box.</li>
+  <li>Use the drop-down lists to select options to define your search. Choose
+    from the following search options:
     <ul>
-      <!--<li><a href="#nav_translate">Traduire une page Web</a></li>-->
-
-      <li><a href="#selecting_character_encodings_and_fonts">Sélectionner
-      un encodage de caract&egrave;res et des polices</a></li>
-
-      <li><a href="#setting_language_preferences">Modifier les param&egrave;tres
-      de langue</a></li>
-
-      <li><a href="#finding_localized_version">Trouver des versions
-      localisées de &brandShortName;</a></li>
+      <li>Choose <q>name</q>, <q>location</q>, <q>description</q>, or
+        <q>keyword</q> to choose where you would like to search.</li>
+      <li>Choose <q>contains</q>, <q>starts with</q>, or <q>ends
+        with</q> if you know only part of the word or phrase for which
+        you&apos;re searching.</li>
+      <li>Choose <q>is</q> if you know exactly what you&apos;re searching
+        for.</li>
+      <li>Choose <q>is not</q> or <q>doesn&apos;t contain</q> to
+        exclude pages.</li>
+      <li>Click in the field and type all or part of search word or URL (web
+        address) for the bookmarks that you want to find or exclude.</li>
     </ul>
-  </div>
+  </li>
+  <li>Click Find. Bookmarks that match your search criteria are displayed in
+    the Search Results-Bookmarks window.</li>
+</ol>
 
-<!--  <h2 id="nav_translate">Traduire une page Web</h2>
+<p><strong>Tip</strong>: To quickly open the Bookmark Manager, press
+  <kbd class="mac">Cmd</kbd><kbd class="noMac">Ctrl</kbd>+<kbd>B</kbd>.</p>
 
-  <p>Vous pouvez obtenir la traduction rapide d'une page Web qui vous permet de
-  comprendre l'essentiel de son contenu dans la langue de votre choix.</p>
+<p>To search the History list:</p>
 
-  <ol>
-    <li>Rendez vous à la page que vous désirez traduire.</li>
+<ol>
+  <li>Open the Go menu and choose History. You see the history list.</li>
+  <li>Above the actual list, you see a textbox titled <q>Search History</q>.</li>
+  <li>Click into this textbox and type parts of the URL or page title you are
+    searching for.</li>
+  <li>The History list is filtered for those search terms as you type them.</li>
+</ol>
 
-    <li>Ouvrez le menu <q>Affichage</q> et choisissez <q>Traduire</q>.
+<p>To use the search results:</p>
 
-      <p>Ceci vous am&egrave;nera à la page Web Gist-In-Time. L'adresse
-      (URL) de la page à traduire sera déjà inscrite.</p>
-    </li>
+<ul>
+  <li>Double-click a bookmark in the Search Results window to go to that web
+    page.</li>
+</ul>
 
-    <li>Sélectionnez la langue de votre choix, et cliquez sur
-    <q>Gist!</q></li>
-  </ol>
+<p><strong>Tips</strong>:</p>
 
-  <p>La traduction peut prendre un certain temps.</p>
+<ul>
+  <li>To open the History list quickly, press <kbd class="mac">Cmd</kbd>
+    <kbd class="noMac">Ctrl</kbd>+<kbd>H</kbd>.</li>
+</ul>
 
-  <p>[&#160;<a href="#using_languages_and_international_content">Retour au début de la
-  section</a>&#160;]</p>-->
+<p>[<a href="#searching_the_web">Return to beginning of section</a>]</p>
 
-  <h2 id="selecting_character_encodings_and_fonts">Sélectionner un
-  encodage de caract&egrave;res et des polices</h2>
+<h1 id="copying_saving_and_printing_pages">Copying, Saving, and Printing
+  Pages</h1>
 
-  <p>Si vous naviguez, composez, ou envoyez et recevez du courrier
-  électronique dans plus d'une langue, vous devrez choisir les encodages
-  de caract&egrave;res et les polices appropriés.</p>
+<div class="contentsBox">In this section:
+  <ul>
+    <li><a href="#copying_part_of_a_page">Copying Part of a Page</a></li>
+    <li><a href="#saving_all_or_part_of_a_page">Saving All or Part of a
+      Page</a></li>
+    <li><a href="#printing_a_page">Printing a Page</a></li>
+  </ul>
+</div>
 
-  <p>Une méthode d'encodage des caract&egrave;res est la fa&ccedil;on
-  dont un document ou message a été converti en données
-  utilisables par votre ordinateur. Tous les documents Web et messages
-  électroniques utilisent une méthode d'encodage de
-  caract&egrave;res.</p>
+<h2 id="copying_part_of_a_page">Copying Part of a Page</h2>
 
-  <p>La méthode d'encodage des caract&egrave;res d'un document
-  dépend de sa langue. Certaines langues &ndash; comme la plupart des
-  langues occidentales &ndash; utilisent la même méthode.
-  D'autres, comme le chinois, le japonais et le russe, utilisent des
-  méthodes différentes. à l'opposé, Unicode fournit
-  des méthodes d'encodage des caract&egrave;res indépendantes de
-  la langue utilisée. UTF-8, par exemple, peut être utilisé
-  pour des documents en n'importe quelle langue.</p>
+<p>To copy some text from a page, begin from the browser window:</p>
 
-  <p>Votre version de &brandShortName; utilise probablement les encodages de
-  caract&egrave;res par défaut appropriés pour votre région.
-  Toutefois, si vous utilisez plus d'une langue il peut être
-  nécessaire de sélectionner l'encodage approprié et de
-  choisir les polices que vous désirez utiliser pour ces encodages de
-  caract&egrave;res.</p>
+<ol>
+  <li>Select the text.</li>
+  <li>Open the Edit menu and choose Copy.</li>
+</ol>
 
-  <p>Pour sélectionner un encodage de caract&egrave;res (l'encodage de
-  caract&egrave;res actif est marqué d'une puce)&#160;:</p>
+<p>You can paste the text into other programs.</p>
 
-  <ol>
-    <li>Ouvrez le menu <q>Affichage</q>, choisissez <q>Encodage des
-    caract&egrave;res</q>.</li>
+<p>To copy a link (URL) or an image link from a page:</p>
 
-    <li>Choisissez un encodage de caract&egrave;res dans le sous-menu
-    <q>Plus</q>. Dans ce sous-menu, les encodages de caract&egrave;res sont
-    organisés par région&#160;: Europe de l'ouest,
-    Extrême-Orient, Moyen-Orient, etc.</li>
-  </ol>
+<ol>
+  <li>Position the pointer over the link or image.</li>
+  <li>Right-click<span class="mac"> or, if you have a one-button mouse,
+    <kbd>Ctrl</kbd>-click,</span> the link or image to display a pop-up
+    menu.</li>
+  <li>Choose Copy Link Location or Copy Image Location. If an image is also a
+    link, you are offered both options.</li>
+</ol>
 
-  <p class="traduire">If the page, which you are viewing, shows wrong character glyphs with all
+<p>You can paste the link into other programs or into browser&apos;s Location
+  Bar.</p>
+
+<p>[<a href="#copying_saving_and_printing_pages">Return to beginning of
+  section</a>]</p>
+
+<h2 id="saving_all_or_part_of_a_page">Saving All or Part of a Page</h2>
+
+<p>To save an entire page, begin from the browser window:</p>
+
+<ol>
+  <li>Open the File menu and choose Save Page As. You see the Save As dialog
+    box.</li>
+  <li>Choose a folder in which to save this file.</li>
+  <li>Choose a format for the page you want to save:
+    <ul>
+      <li><strong>Web Page, Complete</strong>: Save the whole web page, along
+        with images and other supporting files. This option allows you to view
+        it as originally displayed with images. &brandShortName; creates a new
+        directory (where the page is saved) to save images and other files
+        necessary to show the whole web page.</li>
+      <li><strong>Web Page, HTML Only</strong>: Save the original page as-is
+        without images.</li>
+      <li><strong>Text file</strong>: Save the original page as a text file.
+        This option will not preserve the original HTML link structure, but
+        will allow you to see a text version of the web page in any text
+        editor.</li>
+    </ul>
+  </li>
+  <li>Type a file name for the page and click Save.</li>
+</ol>
+
+<p>When you view a page containing frames and a frame is currently selected,
+  the Save Frame As option is offered in the drop-down list in addition to Save
+  Page As. This lets you save only the page within the selected frame.</p>
+
+<p>Saving a file onto your hard drive lets you view the page (or its HTML code)
+  when you&apos;re not connected to the Internet.</p>
+
+<p>To save an image from a page:</p>
+
+<ol>
+  <li>Position the mouse pointer over the image.</li>
+  <li>Right-click<span class="mac"> or, if you have a one-button mouse,
+    <kbd>Ctrl</kbd>-click</span> the image to display a pop-up menu.</li>
+  <li>Choose Save Image As. You see the Save File dialog box.</li>
+  <li>Choose a folder in which to save this image.</li>
+  <li>Type a file name for the image and click Save.</li>
+</ol>
+
+<p>To save a page without displaying it (which is useful for retrieving a
+  non-formatted page, like a data file, that&apos;s not intended for
+  viewing):</p>
+
+<ol>
+  <li>Position the mouse pointer over the page&apos;s link.</li>
+  <li>Right-click<span class="mac"> or, if you have a one-button mouse,
+    <kbd>Ctrl</kbd>-click</span> the hyperlink on the page to display a pop-up
+    menu.</li>
+  <li>Choose Save Link Target As. You see the Save File dialog box.</li>
+  <li>Choose a folder in which to save this file.</li>
+  <li>Type a file name for the page and click Save.</li>
+</ol>
+
+<p><strong>Important</strong>: Some links automatically download and save files
+  to your hard drive after you click them. The URLs for these links often begin
+  with <q>ftp</q> or end with a file-type extension such as <q>au</q>
+  or <q>mpeg</q>. These links might transmit software, sound, or movie
+  files, and can launch helper applications that support the files.</p>
+
+<p id="setting_image_as_wallpaper"><strong>Tip</strong>: To set an image as
+  your desktop wallpaper on Windows, right-click on an image and choose Set As
+  Wallpaper from the pop-up menu.</p>
+
+<p>[<a href="#copying_saving_and_printing_pages">Return to beginning of
+  section</a>]</p>
+
+<h2 id="printing_a_page">Printing a Page</h2>
+
+<p>To print the current page, begin from the browser window:</p>
+
+<ul>
+  <li>Open the File menu and choose Print.</li>
+</ul>
+
+<p>To print selected text, begin from the browser window:</p>
+
+<ul>
+  <li>Select the text in the current page.</li>
+  <li>Open the File menu and choose Print. The print dialog box appears.</li>
+  <li>Under Print Range, click Selection.</li>
+</ul>
+
+<p>The size of the printed page, not the size of the onscreen window,
+  determines placement of content on the printed page. Text is wrapped and
+  graphics are repositioned to accommodate paper size.</p>
+
+<div class="noMac">
+
+<h3 id="print_preview">Using Print Preview</h3>
+
+<p>To have an early look at how a page will look before it is
+  printed, you can use Print Preview. Begin from the browser window:</p>
+
+<ul>
+  <li>Open the File menu and choose Print Preview.</li>
+</ul>
+
+<p>In Print Preview, you have the following options:</p>
+
+<ul>
+  <li class="win"><strong>Print</strong>: Click this to print pages.</li>
+  <li class="win"><strong>Page Setup</strong>: Click to further customize pages
+    you want to print.</li>
+  <li><strong>Page [__] of X</strong>: Enter a page number (less than X) to
+    jump to its preview. Click the First
+    <img src="chrome://navigator/skin/btn1/first.gif" alt="first button"/>,
+    Previous <img src="chrome://navigator/skin/btn1/previous.gif"
+    alt="previous button"/>, Next
+    <img src="chrome://navigator/skin/btn1/next.gif" alt="next button"/>,
+    or Last
+    <img src="chrome://navigator/skin/btn1/last.gif" alt="last button"/> button
+    to move between pages.</li>
+  <li class="win"><strong>Scale</strong>: Changes the scale (size) of pages,
+    using the dropdown list. You can choose between a fixed percentage of the
+    original page and two special options:
+    <ul>
+      <li><strong>Shrink To Fit Page Width</strong>: Select this to
+        automatically resize the page to the width of the paper.</li>
+      <li><strong>Custom</strong>: Type in the percentage of the original size
+        and press Enter. For example, type <q>50</q> and press Enter to make
+        each page half the size of the original page.</li>
+    </ul>
+  </li>
+  <li class="win"><strong>Portrait</strong>: Click on this to position the page
+    normally, with the shorter side facing up.</li>
+  <li class="win"><strong>Landscape</strong>: Click on this to position the
+    page sideways, with the longer side facing up.</li>
+  <li><strong>Close</strong>: Click on this to close the Print Preview
+    dialog.</li>
+</ul>
+
+</div>
+
+<h3 id="using_page_setup">Using Page Setup</h3>
+
+<p><strong>Note</strong>: Some Page Setup functions are different or
+  unavailable on Mac OS, Linux or Unix.</p>
+
+<p>To customize how pages are printed in &brandShortName;, you can use Page
+  Setup. From the browser, open the File menu and choose Page Setup.</p>
+
+<p>In Page Setup, you can change the following settings for pages you want to
+  print:</p>
+
+<ul>
+  <li><strong>Format &amp; Options</strong>: Choose the orientation, scale, and
+    other options:
+    <ul>
+      <li><strong>Orientation</strong>: 
+        <ul>
+          <li><strong>Portrait</strong>: Choose this
+            <img src="chrome://global/skin/icons/Portrait.png"
+            alt="portrait button"/> to position the page normally, with the
+            shorter side facing up.</li>
+          <li><strong>Landscape</strong>: Choose this
+            <img src="chrome://global/skin/icons/Landscape.png"
+            alt="landscape button"/> to position the page sideways, with the
+            longer side facing up.</li>
+        </ul>
+      </li>
+      <li><strong>Scale</strong>: Type in a percentage of the original size.
+        For example, type <kbd>50</kbd> and to make each page half the size of
+        the original page.
+        <ul>
+          <li><strong>Shrink To Fit Page Width</strong>: Select this to
+            automatically resize the page to the width of the paper.</li>
+        </ul>
+      </li>
+      <li><strong>Options</strong>: 
+        <ul>
+          <li><strong>Print Background (colors and images)</strong>: Select
+            this to print background images and colors. If unselected, only
+            images and color in the foreground (in front) are printed.</li>
+        </ul>
+      </li>
+    </ul>
+  </li>
+  <li><strong>Margins &amp; Header/Footer</strong>: Click this tab to set up
+    margins, headers, and footers:
+    <ul>
+      <li><strong>Margins</strong>: 
+        <ul>
+          <li><strong>Top, Bottom, Left, Right</strong>: Type a margin in
+            inches for the top, bottom, left, and right margin.</li>
+        </ul>
+      </li>
+      <li><strong>Headers &amp; Footers</strong>: Each drop-down list
+        represents either a header or a footer area. The top row of drop-down
+        lists are for the left, center, and right header areas. The bottom row
+        are for the left, center, and right footer areas. In each drop-dop
+        list, choose one of the following options:
+        <ul>
+          <li><strong>--blank--</strong>: Show nothing in this area.</li>
+          <li><strong>Title</strong>: Show the web page title.</li>
+          <li><strong>URL</strong>: Show the web page URL (URL&apos;s usually
+            start with <q>http://</q>).</li>
+          <li><strong>Date/Time</strong>: Show the date and time when the web
+            page is printed.</li>
+          <li><strong>Page #</strong>: Show the page number of each page.</li>
+          <li><strong>Page # of #</strong>: Show the page number along with the
+            total number of pages. For example, if you print a five page web
+            page, <q>3 of 5</q> would be shown on the third page.</li>
+          <li><strong>Custom</strong>: Type your own text. You can include any
+            of the following codes to print specific information: 
+            <ul>
+              <li><strong>&amp;PT</strong>: Page Number with Total (Example:
+                <q>3 of 5</q>)</li>
+              <li><strong>&amp;P</strong>: Page Number</li>
+              <li><strong>&amp;D</strong>: Date</li>
+              <li><strong>&amp;U</strong>: URL</li>
+              <li><strong>&amp;T</strong>: Page Title</li>
+            </ul>
+          </li>
+        </ul>
+      </li>
+    </ul>
+  </li>
+</ul>
+
+<p class="noMac"><strong>Tip</strong>: To see a preview of changes made to Page
+  Setup, use <a href="#print_preview">Print Preview</a>.</p>
+
+<p>[<a href="#copying_saving_and_printing_pages">Return to beginning of
+  section</a>]</p>
+
+<h1 id="using_languages_and_international_content">Using Languages and
+  International Content</h1>
+
+<div class="contentsBox">In this section:
+  <ul>
+    <li><a href="#selecting_character_encodings_and_fonts">Selecting Character
+      Encodings and Fonts</a></li>
+    <li><a href="#setting_language_preferences">Setting Language
+      Preferences</a></li>
+    <li><a href="#finding_localized_version">Finding a &brandShortName; version
+      in your own language</a></li>
+  </ul>
+</div>
+
+<h2 id="selecting_character_encodings_and_fonts">Selecting Character Encodings
+  and Fonts</h2>
+
+<p>If you browse, compose, or send and receive email in more than one language,
+  you need to select the appropriate character encodings and fonts.</p>
+
+<p>A character encoding method is the way a document or message has been
+  converted to data to be used by your computer. All web documents and mail and
+  news messages use a character encoding method (also known as a character set,
+  character coding, or charset).</p>
+
+<p>The character encoding method for a document may depend on its language.
+  Some languages e.g. most West European languages, share the same encoding
+  method. Others such as Chinese, Japanese, and Russian use different methods.
+  In contrast, Unicode provides language-independent encoding methods. UTF-8,
+  for example, can be used for any language document.</p>
+
+<p>Your version of &brandShortName; is set to a default character encoding
+  appropriate for your region. However, if you use more than one language, you
+  may need to select appropriate character encoding methods and designate the
+  fonts you wish to use for your language/script.</p>
+
+<p>To select character encodings, begin from the browser window:</p>
+
+<ol>
+  <li>Open the View menu, choose Character Encoding, and then choose More
+    Encodings.</li>
+  <li>Choose a region from the top section of the submenu.</li>
+  <li>Choose a character encoding within the region submenu. Repeat steps
+    1-3 for each character encoding method you want.</li>
+</ol>
+
+<p>The character encoding methods you select are added to the Character
+  Encoding menu. If you have more than one encoding method selected, the active
+  one has a bullet (dot) next to it.</p>
+
+<p>If the page, which you are viewing, shows wrong character glyphs with all
   predefined character encodings, there is a chance that it requires special
-  fonts. Such sites should contain instructions on which fonts to download
+  fonts. Such websites should contain instructions on which fonts to download
   and/or use in order to view the page correctly. When you have the necessary
   fonts installed on your system, you can choose User Defined from the More
   Encodings submenu. &brandShortName; will then use the fonts defined in the <a
   href="cs_nav_prefs_appearance.xhtml#fonts">Fonts preferences</a> (Fonts for:
   User Defined).</p>
-  
-  <p>&brandShortName; peut détecter l'encodage utilisé par un document, et
-  l'afficher correctement à l'écran. Pour
-  bénéficier de cette fonctionnalité (l'encodage de
-  caract&egrave;res actif est marqué d'une puce)&#160;:</p>
 
-  <ol>
-    <li>Ouvrez le menu <q>Affichage</q>, choisissez <q>Encodage de
-    caract&egrave;res</q>, et choisissez ensuite <q>Détection
-    automatique</q>.</li>
+<p>&brandShortName; can detect which character encoding a document uses, and
+  can display it correctly on your screen. To take advantage of this
+  capability, begin from the browser window:</p>
 
-    <li>Choisissez parmi les options d'auto-détection, ou
-    désactivez l'auto-détection (option <q>off</q>).</li>
-  </ol>
+<ol>
+  <li>Open the View menu, choose Character Encoding, and then choose
+    Auto-Detect.</li>
+  <li>Choose one of the Auto-Detect options, or choose (Off) from the
+    submenu.</li>
+</ol>
 
-  <p>Pour modifier votre liste d'encodages de caract&egrave;res
-  actifs&#160;:</p>
+<p>To make changes to your list of active character encodings:</p>
 
-  <ol>
-    <li>Ouvrez le menu <q>Affichage</q>, sélectionnez <q>Encodage de
-    caract&egrave;res</q>, et choisissez ensuite <q>Personnaliser</q>.</li>
-
-    <li>Vous pouvez effectuer les actions suivantes&#160;:
-
-      <ul>
-        <li>Pour ajouter un encodage de caract&egrave;res à la liste des
-        encodages de caract&egrave;res actifs, choisissez-le dans la liste de
-        gauche et cliquez sur <q>Ajouter</q>.</li>
-
-        <li>Pour retirer un encodage de caract&egrave;res de la liste des
-        encodages de caract&egrave;res actifs, choisissez-le dans la liste de
-        droite et cliquez sur <q>Retirer</q>.</li>
-
-        <li>Pour changer l'ordre dans lequel le navigateur traite un encodage
-        de caract&egrave;res, sélectionnez-le dans la liste de droite,
-        et utilisez les fl&egrave;ches pour le monter ou le descendre dans la
-        liste.</li>
-      </ul>
-    </li>
-  </ol>
-
-  <p>Les méthodes de codage des caract&egrave;res que vous choisissez
-  seront ajoutées en bas du menu de codage des caract&egrave;res.</p>
-
-  <p>Pour changer les polices par défaut&#160;:</p>
-
-  <ol>
-    <li>Ouvrez le menu <q><span class="mac">SeaMonkey</span><span
-    class="noMac">édition</span></q>
-    et choisissez <q>Préférences…</q>.</li>
-
-    <li>Dans la catégorie <q>Apparence</q>, choisissez <q>Polices de
-    caract&egrave;res</q>. Si aucune sous-catégorie n'est visible,
-    double-cliquez sur la catégorie <q>Apparence</q> pour
-    développer la liste.</li>
-
-    <li>Choisissez l'encodage de caract&egrave;res dans la liste
-    déroulante. Par exemple, pour changer les polices par défaut
-    pour l'encodage de caract&egrave;res occidental, choisissez
-    <q>Occidental</q>.</li>
-
-    <li>Choisissez si le texte proportionnel doit être de type
-    <q>serif</q> (comme Times Roman) ou <q>sans-serif</q> (comme Arial). Vous
-    pouvez également spécifier la taille de la police pour le
-    texte proportionnel. Le texte proportionnel est de largeur variable.</li>
-
-    <li>Choisissez une police pour les styles <q>Serif</q>, <q>Sans-Serif</q>,
-    <q>Cursive</q> et <q>Fantaisie</q>.</li>
-
-    <li>Choisissez la police à taille fixe (comme Courrier) qui sera
-    utilisée pour les pages Web. Les polices à taille fixe ont
-    une largeur constante, car tous les caract&egrave;res et lettres occupent
-    la même place.</li>
-  </ol>
-
-  <p>Beaucoup d'auteurs de pages Web choisissent leurs propres polices et
-  tailles de caract&egrave;res. Vous pouvez permettre l'utilisation des polices
-  choisies par l'auteur en cochant <q>Autoriser les documents à utiliser
-  d'autres polices</q>.</p>
-
-  <p>[&#160;<a href="#using_languages_and_international_content">Retour au
-  début de la section</a>&#160;]</p>
-
-  <h2 id="setting_language_preferences">Modifier les param&egrave;tres de langue</h2>
-
-  <p>Le texte des boutons, les bo&icirc;tes de dialogue, les menus, les outils
-  et d'autres éléments de &brandShortName; sont modifiés en
-  fonction de la langue que vous utilisez. Les fonctionnalités des
-  éléments restent toutefois les mêmes.</p>
-
-  <p>Les pages Web sont parfois disponibles en plusieurs langues. &brandShortName; peut
-  afficher ces pages dans <a href="cs_nav_prefs_navigator.xhtml#languages">votre langue
-  préférée</a>, si celle-ci est disponible. Vous pouvez spécifier les
-  langues que vous désirez utiliser, dans votre ordre de préférence.</p>
-
-  <p>Pour modifier les param&egrave;tres de la langue&#160;:</p>
-
-  <ol>
-    <li>Ouvrez le menu <q><span class="mac">SeaMonkey</span><span
-    class="noMac">édition</span></q>
-    et choisissez <q>Préférences…</q>.</li>
-
-    <li>Dans la catégorie <q>Navigateur</q>, choisissez <q>Langues</q>.
-    Si aucune sous-catégorie n'est visible, double-cliquez sur la
-    catégorie <q>Navigateur</q> pour développer la liste.</li>
-
-    <li>Cliquez sur <q>Ajouter</q>.</li>
-
-    <li>Choisissez une langue et son code. Si le code que vous désirez
-    ajouter ne se trouve pas dans la liste, saisissez le nom de la langue et
-    son code dans le champ <q>Autres</q> (voir note ci-dessous). Si vous voulez
-    réorganiser l'ordre des langues dans la liste, sélectionnez
-    une langue et cliquez sur <q>Monter</q> ou <q>Descendre</q>.</li>
-
-    <li>Cliquez sur <q>OK</q>.</li>
-  </ol>
-
-  <p><strong>Remarque</strong>&#160;: Des codes de deux lettres entre crochets
-  sont mentionnés à c&ocirc;té de chaque langue de la
-  liste. Ce sont les abréviations standard de ces langues. Pour une
-  liste compl&egrave;te de ces codes, consultez le site ISO <a href=
-  "http://www.iso.org/iso/fr/prods-services/iso3166ma/02iso-3166-code-lists/list-fr1.html"
-  hreflang="fr">Noms de pays et codes</a>.</p>
-
-  <p>[&#160;<a href="#using_languages_and_international_content">Retour au
-  début de la section</a>&#160;]</p>
-
-  <div class="rediger">
-  <h2 id="finding_localized_version">Trouver des versions localisées de
-  &brandShortName;</h2>
-
-  <p>Si vous désirez utiliser une version de &brandShortName; dans une
-  autre langue que l'anglais ou le fran&ccedil;ais, vous trouverez d'autres
-  paquets de localisation sur <a
-  href="http://www.seamonkey-project.org/releases/" hreflang="en">SeaMonkey
-  Project Releases</a>.</p>
-  </div>
-
-  <p>[&#160;<a href="#using_languages_and_international_content">Retour au
-  début de la section</a>&#160;]</p>
-
-  <h1 id="plugins_and_downloads">Gérer les différents types de
-  fichiers</h1>
-
-  <div class="contentsBox">
-
-    <p>Dans cette section&#160;:</p>
-
+<ol>
+  <li>Open the View menu, choose Character Encoding, and then choose Customize
+    List. You can see the Customize Character Encoding dialog box.</li>
+  <li>Choose from the following procedures:
     <ul>
-      <li><a href="#plug-ins">Plugins</a></li>
-      <li><a href="#helper_applications">Applications auxiliaires</a></li>
-      <li><a href="#download_manager">Gestionnaire de
-      téléchargement</a></li>
+      <li>To add to the list of active character encodings, choose a character
+        encoding from the list on the left and click Add.</li>
+      <li>To remove a character encoding from the active list, choose a
+        character encoding from the list on the right and click Remove.</li>
+      <li>To change the order in which active encodings appear in the Character
+        Encoding menu, highlight character encodings in the list on the right,
+        and use the Move Up and Move Down buttons to move the character
+        encodings up or down in the list.</li>
     </ul>
+  </li>
+</ol>
 
-  </div>
+<p>To change the default fonts within a language group:</p>
 
+<ol>
+  <li>Open the
+    <span class="mac">&brandShortName;</span> <span class="noMac">Edit</span>
+    menu and choose Preferences.</li>
+  <li>Under the Appearance category, click Fonts. (If no subcategories are
+    visible, double-click Appearance to expand the list.)</li>
+  <li>From the <q>Fonts for</q> drop-down list, choose a language
+    group/script. For instance, to set default fonts for West European
+    languages/script, choose <q>Western</q>.</li>
+  <li>Select whether proportional text should be serif (like Times Roman) or
+    sans serif (like Arial). You can also specify what font size you want for
+    proportional text. Proportional text varies in width.</li>
+  <li>(If available) Select a font for Serif, Sans-Serif, Cursive, and
+    Fantasy.</li>
+  <li>Select the monospace font (like Courier) that you want to use for web
+    pages. Monospace text is fixed in width, so each character or letter takes
+    the same amount of space.</li>
+</ol>
 
-  <p>Le navigateur peut gérer de nombreux types de fichiers. Toutefois,
-  pour certains fichiers, comme des animations multimédia, le navigateur
-  a besoin d'une application auxiliaire pour les traiter. Si ces applications
-  auxiliaires ou plugins ne sont pas disponibles, &brandShortName; peut enregistrer ces
-  fichier sur votre disque dur. Il en garde alors la trace dans le gestionnaire
-  de téléchargement.</p>
+<p>Many web page authors choose their own fonts and font sizes. You can use the
+  author&apos;s font settings by selecting <q>Allow documents to use other
+  fonts</q>.</p>
 
-  <h2 id="plug-ins">Plugins</h2>
+<p>[<a href="#using_languages_and_international_content">Return to beginning of
+  section</a>]</p>
 
-  <p>Les plugins sont des applications auxiliaires qui étendent les
-  fonctionnalités du navigateur et qui se lancent grâce à
-  &brandShortName;. Des plugins comme Sun Java, Macromedia Flash et RealNetworks
-  RealPlayer permettent à &brandShortName; de pouvoir exécuter des
-  fichiers multimédias et de lancer des applications telles que des
-  films, des animations flash et des jeux.</p>
+<h2 id="setting_language_preferences">Setting Language Preferences</h2>
 
-  <p>&brandShortName; est fourni sans plugin. Il vous faudra les installer
-  séparément.</p>
+<p>The language you use for &brandShortName; affects the user
+  interface&mdash;text of buttons, dialog boxes, menus, tools, and other items.
+  You can download and install language packages from the
+  <a href="http://www.seamonkey-project.org/releases/">SeaMonkey Project
+  Releases</a> page and then use the
+  <a href="cs_nav_prefs_appearance.xhtml#appearance">Appearance Preferences
+  panel</a> to switch user interface language.</p>
 
-  <p>Si vous désirez installer plus de plugins pour &brandShortName;, visitez la
-  page <a href="http://plugindoc.mozdev.org/fr-FR/"
-  hreflang="fr">PluginDoc</a>.</p>
+<p>A web page can sometimes be available in several languages. In the
+  <a href="cs_nav_prefs_navigator.xhtml#languages">Languages Preferences
+  panel</a>, you can configure &brandShortName; so the page is shown in the
+  language you prefer. You can have multiple languages and list them in order
+  of preference.</p>
 
-  <p class="rediger">Pour savoir quels plugins sont installés, procédez comme
-  ci-dessous&#160;:</p>
+<p>[<a href="#using_languages_and_international_content">Return to beginning
+  of section</a>]</p>
 
-  <ul class="rediger">
-    <li>Ouvrez le menu <q>Aide</q> et sélectionnez <q>à propos des plugins</q>.</li>
-	
-	<li>Ouvrez le menu <q>Outils</q>, choisissez <q>Modules complémentaires</q> et sélectionnez l'onglet <q>Plugins</q>.
+<h2 id="finding_localized_version">Finding a &brandShortName; version in your
+  own language</h2>
 
-    <p><strong>Astuce</strong>&#160;: Pour plus d'informations sur le gestionnaire des modules complémentaires et ses fonctionnalités, voir la section <a href="customize_help.xhtml#using_the_add-on_manager">Utiliser le gestionnaire de modules</a>.</p>
-    </li>
+<p>If you&apos;re looking for a version of &brandShortName; in a language other
+  than American English, you can download it from the
+  <a href="http://www.seamonkey-project.org/releases/">SeaMonkey
+  Project Releases</a> page.</p>
 
-	<li>Dans la barre d'adresse, saisissez <kbd>about:plugins</kbd> et validez
-    en appuyant sur <kbd class="mac">Retour</kbd><kbd class="noMac">Entrée</kbd>.</li>
-  </ul>
+<p>[<a href="#using_languages_and_international_content">Return to beginning of
+  section</a>]</p>
 
+<h1 id="plugins_and_downloads">Plugins and Downloads</h1>
 
-  <p>[&#160;<a href="#plugins_and_downloads">Retour au début de la
-  section</a>&#160;]</p>
-
-  <h2 id="helper_applications">Applications auxiliaires</h2>
-
-  <p>Lorsqu'un fichier ne peut pas être utilisé directement par
-  &brandShortName;, vous pouvez définir une application pour le faire hors du
-  navigateur. Par exemple, pour jouer un fichier son (ogg, mp3, etc.) &brandShortName;
-  peut lancer un programme tel que Winamp ou xmms.</p>
-
-  <p>Les applications auxiliaires à utiliser sur votre ordinateur sont
-  définies dans le panneau <q>Applications</q> des
-  préférences. Normalement, ces applications sont
-  configurées, vous n'aurez donc pas besoin de le faire. Cependant, si
-  le navigateur ne sait pas laquelle utiliser, il vous permet de chercher une
-  application auxiliaire depuis la fenêtre de
-  téléchargement.</p>
-
-  <p>La bo&icirc;te de dialogue <q>Téléchargement</q> vous permet
-  de choisir entre ces options&#160;:</p>
-
-  <dl>
-    <dt>Ouvrir le fichier avec l'application par défaut (nom de
-    l'application)&#160;:</dt>
-
-    <dd>&brandShortName; ouvrira le fichier en utilisant le programme par défaut
-    ou un programme de votre choix.
-
-    <p><strong>Remarque&#160;:</strong> Vous ne verrez cette option que s'il
-    existe une application associée au type de fichier concerné
-    dans les param&egrave;tres de votre syst&egrave;me.</p>
-
-    </dd>
-
-    <dt>Ouvrir avec&#160;:</dt>
-
-    <dd>&brandShortName; ouvrira le fichier en utilisant le programme par défaut
-    ou un programme de votre choix. Cliquez sur <q>Choisir</q> pour
-    sélectionner l'application que vous voulez utiliser.</dd>
-
-    <dt>Enregistrer le fichier sur le disque&#160;:</dt>
-
-    <dd>Enregistre le fichier sur votre disque dur à l'emplacement que
-    vous lui indiquez.</dd>
-
-    <dt>Toujours demander avant d'ouvrir ce type de fichier&#160;:</dt>
-
-    <dd>Quand cette option est choisie, &brandShortName; ouvre la bo&icirc;te de
-    dialogue <q>Télécharger</q> lors du
-    téléchargement de fichiers d'un type particulier.</dd>
-
-    <dt>Avancé&#160;:</dt>
-
-    <dd>&brandShortName; vous permet de définir comment les fichiers doivent
-    être gérés.</dd>
-  </dl>
-
-  <p>Les utilisateurs expérimentés peuvent ajuster les
-  préférences d'utilisation des applications
-  auxiliaires&#160;:</p>
-
-  <ol>
-    <li>Ouvrez le menu <q><span class="mac">SeaMonkey</span><span
-    class="noMac">édition</span></q>
-    et choisissez <q>Préférences…</q>.</li>
-
-    <li>Dans la catégorie <q>Navigateur</q>, choisissez
-    <q>Applications</q>. Si aucune sous-catégorie option n'est visible,
-    double-cliquez sur la catégorie <q>Navigateur</q> pour
-    développer la liste.</li>
-
-    <li>Suivez une de ces procédures&#160;:</li>
-  </ol>
-
-  <p id="adding_a_new_helper_application">Pour ajouter une nouvelle application
-  auxiliaire à la liste&#160;:</p>
-
-  <ol>
-    <li>Cliquez sur <q>Nouveau type</q>.</li>
-
-    <li>Entrez une description du type de fichiers gérés par
-    l'application, par exemple <q>films</q> ou <q>fichiers audio</q>.</li>
-
-    <li>Entrez le type MIME. Un type MIME est constitué de deux mots
-    séparés par une barre oblique. Par exemple, un fichier image
-    TIFF aura pour type MIME <q>image/tiff</q>. Si vous ne connaissez pas le
-    type MIME, ne complétez pas ce champ.
-
-      <p><strong>Remarque</strong>&#160;: lorsque vous
-      téléchargez un fichier, &brandShortName; vous affiche son type MIME
-      dans la bo&icirc;te de dialogue de téléchargement.</p>
-    </li>
-
-    <li>Entrez l'extension de fichiers (suffixe) utilisée par ce type de
-    fichier. S'il y en a plusieurs, entrez toutes ces extensions
-    séparées par des espaces.</li>
-
-    <li>Cliquez sur <q>Choisir</q>, ensuite choisissez une application qui
-    g&egrave;re ce type de fichiers.</li>
-
-    <li>Cliquez sur <q>OK</q>.</li>
-  </ol>
-
-  <p>Pour spécifier comment le navigateur doit traiter les fichiers
-  téléchargés&#160;:</p>
-
-  <ol>
-    <li>Sélectionnez un type de fichier dans la liste et cliquez sur
-    <q>édition</q>.</li>
-
-    <li>Entrez le type MIME que vous voulez utiliser pour ce fichier.</li>
-
-    <li>Choisissez dans l'option <q>Géré par</q> si les fichiers
-    de ce type seront sauvés sur le disque ou ouverts par l'application
-    de votre choix. Cliquez sur <q>Choisir</q> pour spécifier par quelle
-    application.</li>
-
-    <li>Sélectionnez <q>Demander avant d'ouvrir des fichiers
-    téléchargés de ce type</q> si vous voulez être
-    averti lors du téléchargement de fichiers gérés
-    par d'autres applications que le navigateur.</li>
-
-    <li>Cliquez sur <q>OK</q>.</li>
-  </ol>
-
-  <p>Pour enlever un type de la liste&#160;:</p>
-
-  <ol>
-    <li>Sélectionnez-le dans la liste et cliquez sur
-    <q>Effacer</q>.</li>
-
-    <li>Cliquez sur <q>OK</q> ou <q>Annuler</q> dans le dialogue
-    d'avertissement.</li>
-  </ol>
-
-  <p>Pour plus d'informations sur les préférences des
-  applications auxiliaires, voir la section <a href=
-  "cs_nav_prefs_navigator.xhtml#helper_applications">Préférences
-  du navigateur - Applications</a>.</p>
-
-  <p>[&#160;<a href="#plugins_and_downloads">Retour au début de la
-  section</a>&#160;]</p>
-
-  <h2 id="download_manager">Gestionnaire de téléchargement</h2>
-
-  <p>Vous pouvez utiliser le gestionnaire de téléchargement pour
-  garder une trace de tous les fichiers que vous téléchargez
-  depuis Internet. Le gestionnaire de téléchargement donne les
-  informations suivantes&#160;:</p>
-
+<div class="contentsBox">In this section:
   <ul>
-    <li>nom du fichier&#160;;</li>
-
-    <li>temps restant avant la fin du téléchargement&#160;;</li>
-
-    <li>vitesse de transfert&#160;;</li>
-
-    <li>pourcentage de téléchargement effectué&#160;;</li>
-
-    <li>temps écoulé&#160;;</li>
-
-    <li>adresse de téléchargement (source).</li>
+    <li><a href="#plugins">Plugins</a></li>
+    <li><a href="#helper_applications">Helper Applications</a></li>
+    <li><a href="#download_manager">Download Manager</a></li>
   </ul>
-
-  <p>Pour ouvrir le gestionnaire de téléchargement&#160;:</p>
-
-  <ul>
-    <li>Ouvrez le menu <q>Outils</q> et choisissez <q>Gestionnaire de
-    téléchargement</q>.</li>
-  </ul>
-
-  <p>Les options de menu suivantes sont disponibles depuis le gestionnaire de
-  téléchargement&#160;:</p>
-
-  <dl>
-    <dt>Propriétés&#160;:</dt>
-
-    <dd>Sélectionnez un fichier en cours de téléchargement
-    et cliquez sur <q>Propriétés</q> pour afficher la
-    fenêtre de progression.</dd>
-
-    <dt>Annuler&#160;:</dt>
-
-    <dd>Sélectionnez un fichier en cours de téléchargement
-    et cliquez sur <q>Annuler</q> pour arrêter le
-    téléchargement.</dd>
-
-    <dt>Retirer de la liste&#160;:</dt>
-
-    <dd>Sélectionnez un fichier et cliquez sur <q>Retirer de la
-    liste</q> pour effacer toutes traces de ce fichier. Cela n'efface pas le
-    fichier de votre disque dur.</dd>
-
-    <dt>Localiser le fichier&#160;:</dt>
-
-    <dd>Si vous avez oublié dossier dans lequel vous avez
-    enregistré un fichier, cette option, vous permet de le retrouver en
-    ouvrant un fenêtre du navigateur, positionnée à
-    l'endroit de l'enregistrement.</dd>
-
-    <dt>Lancer le fichier&#160;:</dt>
-
-    <dd>Choisissez cette option pour ouvrir le fichier
-    sélectionné.</dd>
-
-    <dt>Voir avec <span class="win">Explorer</span><span
-    class="unix">Browser</span><span class="mac">Finder</span>&#160;:</dt>
-
-    <dd>Choisissez cette option pour voir le fichier avec le navigateur.
-
-  </dd>
-
-  </dl>
-
-  <p>[&#160;<a href="#plugins_and_downloads">Retour au début de la
-  section</a>&#160;]</p>
-
-
-  <h1 id="improving_speed_and_efficiency">Améliorer les performances de
-  &brandShortName;</h1>
-
-  <div class="contentsBox">
-
-    <p>Dans cette section&#160;:</p>
-
-    <ul>
-      <li><a href="#automatic_loading">Chargement automatique</a></li>
-
-      <li><a href="#custom_keywords">Utiliser des mots clés
-      personnalisés</a></li>
-
-      <li><a href="#changing_cache_settings">Modifier les param&egrave;tres
-      de cache</a></li>
-
-      <li><a href="#getting_the_latest_software_automatically">Téléchargement
-      automatique de mises à jour de programmes</a></li>
-
-      <li><a href="#using_a_mouse_wheel">Utiliser une souris à
-      molette</a></li>
-
-      <li class="win"><a href="#making_mozilla_your_default_browser">Définir
-      &brandShortName; comme navigateur par défaut</a></li>
-
-     </ul>
-   </div>
-
-  <h2 id="automatic_loading">Chargement automatique</h2>
-
-  <p>Lorsqu'une nouvelle page est affichée à l'écran,
-  &brandShortName; charge (démarre) automatiquement plusieurs
-  éléments permettant l'interprétation des pages Web. Ces
-  éléments, Java et JavaScript, rendent les pages Web plus
-  vivantes, mais elles prennent plus de temps à se charger.</p>
-
-  <p>Pour savoir comment activer/désactiver Java, voir la section
-  <a href="cs_nav_prefs_advanced.xhtml#advanced">Préférences
-  avancées - Avancé</a>.</p>
-
-  <p>Pour savoir comment activer/désactiver JavaScript, voir la section
-  <a href="cs_nav_prefs_advanced.xhtml#Scripts">Préférences
-  avancées - Scripts et fenêtres</a>.</p>
-
-  <p>[&#160;<a href="#improving_speed_and_efficiency">Retour au début de
-  la section</a>&#160;]</p>
-
-<div class="rediger">
-  <h2 id="custom_keywords">Utiliser des mots clés
-  personnalisés</h2>
-
-  <p>Les mots clés associés aux marque-pages vous permettent de
-  créer des alias pour vos pages favorites et/ou des recherches Internet.
-  Par exemple, si vous associez le mot clé <q>m.o.</q> à
-  <tt>http://www.mozilla.org</tt>, alors le navigateur ouvrira simplement et
-  directement ce site lorsque vous saisirez <kbd>m.o.</kbd> dans la barre
-  d'adresse.</p>
-
-  <p>Pour définir un mot clé, vous devez commencer par
-  créer un marque-page si il n'existe pas encore. Suivez alors ces
-  instructions&#160;:</p>
-
-  <ol>
-    <li>Ouvrez le menu <q>Marque-pages</q> et sélectionnez
-    <q>Gérer les marque-pages…</q>.</li>
-
-    <li>Dans la fenêtre des marque-pages, cliquez sur le marque-page que
-    vous venez de créer.</li>
-
-    <li>Cliquez sur <q>Propriétés</q>.</li>
-
-    <li>Dans la bo&icirc;te de dialogue <q>Propriétés du
-    marque-page</q>, saisissez le mot clé que vous voulez utiliser dans
-    le champ <q>Mot clé</q> et fermer la fenêtre.</li>
-  </ol>
-
-  <p>Maintenant, vous pouvez saisir le mot clé dans la barre d'adresse
-  et &brandShortName; chargera cette <a href="glossary.xhtml#url"
-  class="glossary">URL</a>.</p>
-
-  <h3 id="search_with_keywords">Rechercher à partir des
-  mots clés</h3>
-
-  <p>Les mots clés peuvent être utilisés pour créer
-  des raccourcis pour votre moteur de recherche préféré.
-  Par exemple, vous pouvez définir un mot clé <kbd>Le seigneur
-  des anneaux</kbd> qui lancera directement une recherche Google sur
-  l'&oelig;uvre de Tolkien.</p>
-
-  <p>Pour créer des mots clés personnalisés que vous
-  pourrez utiliser pour des recherches sur Internet, suivez les
-  instructions&#160;:</p>
-
-  <ol>
-    <li>Allez sur le site de votre moteur de recherche favori (par exemple&#160;:
-    <tt>www.google.fr</tt>).</li>
-
-    <li>Saisissez une cha&icirc;ne de terme à rechercher (par exemple
-    <tt>ILoveMozilla</tt>).</li>
-
-    <li>Soumettez votre requête.</li>
-
-    <li>Apr&egrave;s le chargement de la page de résultats, ouvrez le
-    menu <q>Marque-pages</q> et sélectionnez <q>Classer cette
-    page</q>.</li>
-
-    <li>Dans la fenêtre de dialogue, placez votre curseur dans le champ
-    adresse et remplacez cette même cha&icirc;ne (<tt>ILoveMozilla</tt>)
-    par <kbd>%s</kbd>. Vous devriez avoir une adresse ressemblant
-    à &ccedil;a&#160;:
-    <kbd>http://www.google.com/search?q=<strong>%s</strong>&amp;btnI=I&apos;mFeelingLucky</kbd>.</li>
-
-    <li>Saisissez un mot clé dans le champ <q>Mot clé</q>.</li>
-
-    <li>Donnez un nom au marque-page et choisissez son emplacement.</li>
-
-    <li>Fermez la bo&icirc;te de dialogue.</li>
-  </ol>
-
-  <p>Vos pouvez maintenant effectuer des recherches sans aller sur la page de
-  votre moteur de recherche, en saisissant
-  <kbd><var>mot(s)_à_chercher</var></kbd> dans la barre d'adresse.</p>
-
-  <p>Pour plus de détails et d'exemples, voir <a
-  href="http://www.mozilla.org/docs/end-user/keywords.html" hreflang="en">How
-  Cool are Custom Keywords?</a></p>
 </div>
 
-  <p>[&#160;<a href="#improving_speed_and_efficiency">Retour au début de
-  la section</a>&#160;]</p>
+<p>The browser can handle many types of files. However, for some files, such as
+  movies or music, &brandShortName; needs plugins or <q>helper</q> applications
+  that can handle those files. If the browser doesn&apos;t have the needed
+  helper application or plugin, it can still save the file to your hard disk.
+  When saving files, you can keep track of them using Download Manager.</p>
 
+<h2 id="plugins">Plugins</h2>
 
-  <h2 id="changing_cache_settings">Modifier les param&egrave;tres de cache</h2>
+<p>Plugins are helper applications that extend the functionality within the
+  browser and run within &brandShortName;. Plugins like Sun Java, Macromedia
+  Flash, and RealNetworks RealPlayer allow &brandShortName; to show multimedia
+  files and run small applications, such as movies, animations, and games.</p>
 
-  <p>Votre ordinateur stocke des copies des pages fréquemment
-  visitées dans le cache. De cette fa&ccedil;on, ces pages n'ont pas
-  à être rechargées depuis le réseau chaque fois
-  qu'elles sont affichées à l'écran.</p>
-  <!--<p>Pour choisir la taille du cache mémoire ou effacer son contenu
-    (ms-windows et Unix-like uniquement)&#160;:</p>
+<p>&brandShortName; comes with no additional plugins installed, so you have
+  to add them separately.</p>
 
-  <ol>
-    <li>Ouvrez le menu <q><span class="mac">SeaMonkey</span><span
-      class="noMac">édition</span></q> et choisissez
-      <q>Préférences…</q>.</li>
-    <li>Dans la catégorie <q>Avancée</q>, choisissez
-      <q>Cache</q>. Si aucune sous-catégorie n'est visible,
-      double-cliquez sur la catégorie <q>Avancée</q> pour
-      développer la liste.</li>
-    <li>Entrez un nombre dans le champ <q>Cache mémoire</q> pour
-      spécifier la taille du cache en mémoire. Une taille
-      raisonnable se situe entre 1024 ko et 2000 ko. Pour effacer le contenu du
-      cache mémoire, cliquez sur <q>Vider le cache
-      mémoire</q>.</li>
-  </ol>
+<p>To see a full list of &brandShortName; plugins you can install, see the
+  <a href="http://plugindoc.mozdev.org/">PluginDoc</a> page on MozDev.org.</p>
 
-  <p><strong>Important</strong>&#160;: un cache en mémoire plus
-  important permet de récupérer rapidement plus de
-  données. Mais à moins que vous n'ayez beaucoup de
-  mémoire supplémentaire sur votre ordinateur, 1024 ko est une
-  taille suffisante.</p>-->
+<p>To see what plugins you currently have installed, do any of the following:
+</p>
 
+<ul>
+  <li>Open the Help menu and choose About Plugins.</li>
+  <li>Open the Tools menu, choose Add-on Manager, and select the Plugins
+    panel.
+    
+    <p><strong>Tip</strong>: To learn more about the Add-on Manager and its
+      features, see the section
+      <a href="customize_help.xhtml#using_the_add-on_manager">Using the Add-on
+      Manager</a>.</p>
+  </li>
+  <li>Click in the Location Bar, type <kbd>about:plugins</kbd> and press
+    <kbd class="mac">Return</kbd><kbd class="noMac">Enter</kbd>.</li>
+</ul>
 
-  <p>Pour changer la taille du cache ou effacer son contenu&#160;:</p>
+<p>[<a href="#plugins_and_downloads">Return to beginning of
+  section</a>]</p>
 
-  <ol>
-    <li>Dans le menu <q><span class="mac">SeaMonkey</span><span
-    class="noMac">édition</span></q> et
-    choisissez <q>Préférences…</q>.</li>
+<h2 id="helper_applications">Helper Applications</h2>
 
-    <li>Ouvrez la catégorie <q>Avancé</q>, cliquez ensuite sur
-    <q>Cache</q>. Si aucune sous-catégorie n'est visible, double-cliquez
-    sur la catégorie <q>Avancé</q> pour développer la
-    liste.</li>
-
-    <li>Entrez un nombre dans le champ <q>Cache</q> pour spécifier la
-    taille du cache. 8 Mo (5 Mo sous Linux ou Unix) est une taille raisonnable.
-    Pour effacer le contenu du cache, cliquez sur <q>Vider le cache</q>.</li>
-  </ol>
-
-  <p><strong>Important</strong>&#160;: un cache disque plus important permet de
-  récupérer rapidement plus de pages, mais utilise une partie
-  plus importante de votre disque dur.</p>
-
-  <p>Lorsque vous quittez &brandShortName;, des opérations de maintenance du
-  cache sont effectuées. Si cette maintenance prend trop longtemps
-  à votre go&ucirc;t, essayez de réduire la taille du cache.</p>
-
-  <p>Pour spécifier le délai apr&egrave;s lequel le navigateur
-  vérifie s'il existe une version plus récente de la page sur le
-  réseau (de fa&ccedil;on à ce que vous ne gardiez pas trop
-  longtemps des pages <q>périmées</q> dans le cache)&#160;:</p>
-
-  <ol>
-    <li>Ouvrez le menu <q><span class="mac">SeaMonkey</span><span
-    class="noMac">édition</span></q>
-    et choisissez <q>Préférences…</q>.</li>
-
-    <li>Dans la catégorie <q>Avancé</q>, choisissez
-    <q>Cache</q>. Si aucune sous-catégorie n'est visible, double-cliquez
-    sur la catégorie <q>Avancé</q> pour dérouler la
-    liste.</li>
-
-    <li>Choisissez l'une de ces options&#160;:
-
-      <dl>
-        <dt>à chaque fois que je consulte la page&#160;:</dt>
-
-        <dd>Sélectionnez cette option si vous voulez que &brandShortName; compare
-        la page Web avec le cache chaque fois que vous la voyez.</dd>
-
-        <dt>Quand la page est obsol&egrave;te&#160;:</dt>
-
-        <dd>Sélectionnez cette option si vous voulez que &brandShortName; compare
-        la page Web avec le cache lorsque que le serveur indique qu'elle a
-        expirée.</dd>
-
-        <dt>Une fois par session&#160;:</dt>
-
-        <dd>Sélectionnez cette option si vous voulez que &brandShortName; compare
-        la page Web avec le cache une seule fois pour chaque démarrage
-        de &brandShortName;.</dd>
-
-        <dt>Jamais&#160;:</dt>
-
-        <dd>Sélectionnez cette option si vous ne voulez pas que &brandShortName;
-        compare les informations du cache avec celles du réseau.</dd>
-      </dl>
-    </li>
-  </ol>
-
-  <p>Si des pages qui devraient être dans le cache sont affichées
-  moins vite qu'elles ne le devraient, vérifiez que les
-  préférences n'indiquent pas <q>à chaque fois que je
-  consulte la page</q>, car la vérification utilise une connexion
-  réseau qui prend du temps.</p>
-
-  <p>Pour recharger une page quand bon vous semble&#160;:</p>
-
-  <ul>
-    <li>Cliquez sur le bouton <q>Recharger</q> de la barre de navigation.
-    &brandShortName; vérifie sur le réseau que vous avez bien la version
-    la plus récente de la page.</li>
-  </ul>
-
-  <p>[&#160;<a href="#improving_speed_and_efficiency">Retour au début de
-  la section</a>&#160;]</p>
-
-  <h2 id="getting_the_latest_software_automatically">Téléchargement
-  automatique de mises à jour de programmes</h2>
-
-  <p>&brandShortName; peut vous avertir lorsque des versions plus récentes de vos
-  modules complémentaires sont disponibles, et peut installer les mises à jour
-  automatiquement.</p>
-
-  <p>Pour plus d'informations sur les param&egrave;tres d'installation de
-  logiciels, voir la section <a href=
-  "cs_nav_prefs_advanced.xhtml#software_installation">Préférences
-  avancées - Installation des logiciels</a>.</p>
-
-  <p>[&#160;<a href="#improving_speed_and_efficiency">Retour au début de
-  la section</a>&#160;]</p>
-
-   <h2 id="using_a_mouse_wheel">Utiliser une souris à molette</h2>
-
-  <p>Si votre souris comporte une roulette (ou molette) de défilement,
-  vous pouvez spécifier la mani&egrave;re dont ce bouton fonctionne dans
+<p>When files can not be used within &brandShortName;, you have the option to
+  launch helper applications that open outside of &brandShortName;. For
+  example, to play MP3 files, programs like Winamp can be opened outside of
   &brandShortName;.</p>
 
-  <p>Pour plus d'informations sur le paramétrage des molettes de
-  souris, voir la section <a href=
-  "cs_nav_prefs_advanced.xhtml#mouse_wheel">Préférences
-  avancées - Souris</a>.</p>
+<p>The settings for this are explained in detail in
+  <a href="cs_nav_prefs_navigator.xhtml#helper_applications">Preferences
+  - Helper Applications</a>.</p>
 
-  <p>[&#160;<a href="#improving_speed_and_efficiency">Retour au début de
-  la section</a>&#160;]</p>
+<p>[<a href="#plugins_and_downloads">Return to beginning of
+  section</a>]</p>
 
-  <div class="win">
+<h2 id="download_manager">Download Manager</h2>
 
-  <h2 id="making_mozilla_your_default_browser">Définir &brandShortName; comme
-  navigateur par défaut</h2>
+<p>You can use Download Manager to keep track of files you download. Download
+  Manager shows the following information:</p>
 
-  <!--<p><strong>Remarque</strong>: Les informations contenues dans cette section
-  ne concerne que les utilisateurs de la version MS-Windows de &brandShortName;.</p>-->
+<ul>
+  <li>filename</li>
+  <li>time remaining before download is complete</li>
+  <li>transfer speed</li>
+  <li>percent complete</li>
+  <li>time elapsed</li>
+  <li>web location (source)</li>
+</ul>
 
-  <p>&brandShortName; est un navigateur de pages Web. Pour facilement ouvrir des pages
-  Web, vous pouvez définir &brandShortName; comme votre navigateur par
-  défaut.</p>
+<p>To open Download Manager, do the following:</p>
 
-  <h3 id="common_internet_files_and_protocols">Fichiers et protocoles Internet
-  courants</h3>
+<ul>
+  <li>Open the Tools menu and choose Download Manager.</li>
+</ul>
 
-  <p>Définir &brandShortName; comme navigateur par défaut lui permet
-  d'ouvrir automatiquement les fichiers et les protocoles couramment
-  utilisés sur l'Internet. Ces formats de fichiers et protocoles
-  sont&#160;:</p>
+<p>The following menu options are available in Download Manager:</p>
 
-  <dl>
-    <dt>Fichiers image&#160;:</dt>
+<ul>
+  <li><strong>Properties</strong>: Select a file being downloaded and click
+    Properties to show the progress dialog box.</li>
+  <li><strong>Cancel</strong>: Select a file being downloaded and click Cancel
+    to stop the download.</li>
+  <li><strong>Remove from List</strong>: Select a file and click Remove from
+    List to remove a canceled or finished download. This will not delete the
+    file from your hard disk.</li>
+  <li><strong>Launch File</strong>: Click this to open a selected file.</li>
+  <li><strong>Show in<span class="win"> Explorer</span><span class="unix">
+    Browser</span><span class="mac"> Finder</span></strong>: Click this to show
+    the location of a selected file.</li>
+</ul>
 
-    <dd>JPEG, GIF, PNG, BMP et ICO&#160;;</dd>
+<p>[<a href="#plugins_and_downloads">Return to beginning of
+  section</a>]</p>
 
-    <dt>Document et langages Internet&#160;:</dt>
+<h1 id="improving_speed_and_efficiency">Improving Speed and Efficiency</h1>
 
-    <dd><a class="glossary" href="glossary.xhtml#html">HTML</a>, <a
-    class="glossary" href="glossary.xhtml#xml">XML</a>, XHTML, et <a
-    class="glossary" href="glossary.xhtml#xul">XUL</a>&#160;;</dd>
+<div class="contentsBox">In this section:
+  <ul>
+    <li><a href="#automatic_loading">Automatic Loading</a></li>
+    <li><a href="#custom_keywords">Using Custom Bookmark Keywords</a></li>
+    <li><a href="#changing_cache_settings">Changing Cache Settings</a></li>
+    <li><a href="#getting_the_latest_software_automatically">Getting the Latest
+      Software Automatically</a></li>
+    <li><a href="#using_a_mouse_wheel">Using a Mouse Wheel</a></li>
+    <li class="win"><a href="#making_mozilla_your_default_browser">Making
+      &brandShortName; Your Default Browser</a></li>
+  </ul>
+</div>
 
-    <dt>Protocoles Internet&#160;:</dt>
+<h2 id="automatic_loading">Automatic Loading</h2>
 
-    <dd><a class="glossary" href="glossary.xhtml#http">HTTP</a>, <a
-    class="glossary" href="glossary.xhtml#https">HTTPS</a>, <a class="glossary"
-    href="glossary.xhtml#ftp">FTP</a>, Chrome.</dd>
-  </dl>
+<p>When you bring a web page to your screen, &brandShortName; automatically
+  loads (starts up) several features that help interpret web pages. These
+  features, Java and JavaScript, can make web pages more lively, but they take
+  time to load.</p>
 
-  <h3 id="default_automatic">Changer automatiquement les param&egrave;tres de
-  navigateur par défaut</h3>
+<p>To learn how to turn off Java, see
+  <a href="cs_nav_prefs_advanced.xhtml#advanced">Advanced Preferences -
+  Advanced</a>.</p>
 
-  <p>Une fois l'installation finie, &brandShortName; vérifie s'il est le
-  navigateur par défaut. Si ce n'est pas le cas, il vous demande
-  <q>&brandShortName; n'est actuellement pas votre navigateur par défaut. Voulez
-  vous le définir comme navigateur par défaut&#160;?</q></p>
+<p>To learn how to turn off JavaScript, see
+  <a href="cs_nav_prefs_advanced.xhtml#scripts_and_plugins">Advanced
+  Preferences - Scripts &amp; Plugins</a>.</p>
 
-  <p>Cliquez sur <q>Oui</q> pour définir &brandShortName; comme votre navigateur
-  par défaut. Si vous choisissez <q>Non</q>, la question vous sera
-  posée à chaque démarrage de &brandShortName;, sauf si vous
-  désélectionnez l'option <q>Vérifier à chaque
-  démarrage</q>.</p>
+<p>[<a href="#improving_speed_and_efficiency">Return to beginning of
+  section</a>]</p>
 
-  <p>Si vous désélectionnez l'option <q>Vérifier à
-  chaque démarrage</q>, vous pourrez toujours revenir sur votre
-  décision et faire de &brandShortName; votre navigateur par défaut en
-  modifiant ces param&egrave;tres dans les préférences. Pour plus
-  d'informations sur la méthode pour faire de &brandShortName; votre navigateur
-  par défaut depuis le panneau des préférences, voir la
-  section <a href=
-  "cs_nav_prefs_navigator.xhtml#navigator">Préférences du
-  navigateur - Navigateur</a>.</p>
+<h2 id="custom_keywords">Using Custom Bookmark Keywords</h2>
 
-  <p>[&#160;<a href="#improving_speed_and_efficiency">Retour au début de
-  la section</a>&#160;]</p>
+<p>Bookmark keywords allow you to create shorthand aliases for bookmarks and
+  Web searches. For example, if you give the bookmark to http://www.mozilla.org
+  the keyword <q>m.o</q>, you can enter <kbd>m.o</kbd> in the Location Bar and
+  the browser will load http://www.mozilla.org.</p>
 
-  </div>
+<p>To set a keyword, you must first create a bookmark for the URL. Then,</p>
 
-  <h1 id="proxies">Serveurs proxies</h1>
+<ol>
+  <li>Open the Bookmarks menu and choose Manage Bookmarks.</li>
+  <li>In the Bookmarks window, click on the bookmark that you created.</li>
+  <li>Click Properties.</li>
+  <li>In the bookmark Properties dialog box window, enter a short string into 
+    the Keyword field and close that dialog.</li>
+</ol>
 
-  <p>De nombreuses organisations ou entreprises bloquent les acc&egrave;s
-  à leurs réseaux depuis Internet. Ceci empêche des parties
-  extérieures d'avoir acc&egrave;s à des informations sensibles.
-  Cette protection est appelée un pare-feu (firewall).</p>
+<p>Now, you can enter the keyword in the Location Bar, and &brandShortName;
+  will load that URL.</p>
 
-  <p>Si votre organisation poss&egrave;de un pare-feu, il peut être
-  nécessaire au navigateur de passer par un serveur proxy avant de vous
-  connecter à Internet. Le serveur proxy empêche les
-  étrangers de pénétrer dans le réseau privé
-  de votre organisation.</p>
+<h3 id="search_with_keywords">Search with Keywords</h3>
 
-  <p>Pour plus d'informations sur la modification des préférences
-  des proxies, voir la section <a href=
-  "cs_nav_prefs_advanced.xhtml#proxies">Préférences
-  avancées - Proxies</a>.</p>
+<p>Custom keywords can be used to create shortcuts for your favorite search
+  engines, too. For example, you can create a keyword so that entering
+  <kbd>g Lord of the Rings</kbd> will perform a Google I-Feel-Lucky search
+  on Lord of the Rings.</p>
 
-  <p>[&#160;<a href="#proxies">Retour au début de la
-  section</a>&#160;]</p>
+<p>To create a custom keyword for use with a Web search:</p>
 
-  <div id="footer">
-    <!--begin frenchmozilla signature-->
+<ol>
+  <li>Go to your search form (e.g. <kbd>www.google.com</kbd>).</li>
+  <li>Enter a dummy search string (e.g. <kbd>ILoveMozilla</kbd>).</li>
+  <li>Submit the search query.</li>
+  <li>After the results have loaded, open the Bookmarks menu and choose File
+    Bookmark.</li>
+  <li>In the File Bookmark dialog, look the Location field. Replace the
+    dummy string (e.g. <tt>ILoveMozilla</tt>) with <kbd>%s</kbd>.
+    For example, the location might become
+    <kbd>http://www.google.com/search?q=<strong>%s</strong>&amp;btnI=I&apos;mFeelingLucky</kbd>.</li>
+  <li>Enter a keyword in the Keyword field.</li>
+  <li>Give the bookmark a name and choose the location for the bookmark.</li>
+  <li>Close the dialog.</li>
+</ol>
 
-    <p><em>Derni&egrave;re révision&#160;: 14 juillet 2006</em></p>
-    <!-- <p><em>Derni&egrave;re vérification&#160; 22 juillet 2003</em></p>  -->
+<p>Now you can search without going to the search page first by entering
+  <kbd><var>keyword</var> <var>search_words</var></kbd> in the Location Bar.
+</p>
 
-    <p>Ce texte a été traduit et adapté par une
-    équipe internationale de bénévoles francophones.<br />
-    Pour plus d'informations, visitez notre site&#160;: <a href=
-    "http://frenchmozilla.sf.net"
-    hreflang="fr">http://frenchmozilla.sourceforge.net</a>.</p>
-    <!--end frenchmozilla signature-->
-  </div>
+<p>For more details and examples, see
+<a href="http://www.mozilla.org/docs/end-user/keywords.html">How Cool are Custom Keywords?</a></p>
+
+<p>[<a href="#improving_speed_and_efficiency">Return to beginning of
+  section</a>]</p>
+
+<h2 id="changing_cache_settings">Changing Cache Settings</h2>
+
+<p>Your computer stores copies of frequently accessed pages in the cache. This
+  way, the computer doesn&apos;t have to retrieve the page from the network
+  each time you view it.</p>
+
+<p>To set the size of the cache or to clear it:</p>
+
+<ol>
+  <li>Open the
+    <span class="mac">&brandShortName;</span> <span class="noMac">Edit</span>
+    menu and choose Preferences.</li>
+  <li>Under the Advanced category, click Cache. (If no subcategories are
+    visible, double-click Advanced to expand the list.)</li>
+  <li>Enter a number in the Size field to specify the size of the cache. 50 MB
+    is sufficient. To clear the cache immediately, click Clear Cache.</li>
+</ol>
+
+<p><strong>Important</strong>: A larger disk cache allows more pages to be
+  quickly retrieved, but more of your hard disk space is used.</p>
+
+<p>When you quit &brandShortName;, it performs cache maintenance. If
+  maintenance takes longer than you wish, try reducing the size of the disk
+  cache.</p>
+
+<p>To specify how often the browser checks the network for page revisions (so
+  that you don&apos;t keep <q>stale</q> pages in the cache too long):</p>
+
+<ol>
+  <li>Open the
+    <span class="mac">&brandShortName;</span> <span class="noMac">Edit</span>
+    menu and choose Preferences.</li>
+  <li>Under the Advanced category, click Cache. (If no subcategories are
+    visible, double-click Advanced to expand the list.)</li>
+  <li>Choose from the following options:
+    <ul>
+      <li><strong>Every time I view the page</strong>: Select this if you want
+        &brandShortName; to compare a web page to the cache every time you view
+        it.</li>
+      <li><strong>When the page is out of date</strong>: Select this if you
+        want &brandShortName; to compare a web page to the cache when the page
+        is determined by the server to have expired.</li>
+      <li><strong>Once per session</strong>: Select this if you want
+        &brandShortName; to compare a web page to the cache once for each time
+        you start &brandShortName;.</li>
+      <li><strong>Never</strong>: Select this if you do not want
+        &brandShortName; to compare cached information to the network.</li>
+    </ul>
+  </li>
+</ol>
+
+<p>If pages that should be in the cache are taking longer to appear than they
+  should, make sure the preference is not set to <q>Every time I view the
+  page</q>, because the verification requires a network connection that takes
+  time.</p>
+
+<p>To refresh a page at any time:</p>
+
+<ul>
+  <li>Click the Reload button in the browser&apos;s Navigation Toolbar. The
+    computer checks the network to make sure you have the latest version of the
+    page.</li>
+</ul>
+
+<p>[<a href="#improving_speed_and_efficiency">Return to beginning of
+  section</a>]</p>
+
+<h2 id="getting_the_latest_software_automatically">Getting the Latest Software
+  Automatically</h2>
+
+<p>&brandShortName; can notify you when updates for your software are
+  available, and it can install the updates automatically. &brandShortName; can
+  also inform you when new versions of &brandShortName; and installed add-ons
+  are available.</p>
+
+<p>To learn about setting up automatic software installation, see
+  <a href="cs_nav_prefs_advanced.xhtml#software_installation">Advanced
+  Preferences - Software Installation</a>.</p>
+
+<p>[<a href="#improving_speed_and_efficiency">Return to beginning of
+  section</a>]</p>
+
+<h2 id="using_a_mouse_wheel">Using a Mouse Wheel</h2>
+
+<p>If your mouse has a mouse wheel, you can control how the mouse wheel
+  functions in &brandShortName;.</p>
+
+<p>To learn more about setting up a mouse wheel, see
+  <a href="cs_nav_prefs_advanced.xhtml#mouse_wheel">Advanced Preferences -
+  Mouse Wheel</a>.</p>
+
+<p>[<a href="#improving_speed_and_efficiency">Return to beginning of
+  section</a>]</p>
+
+
+<div class="win">
+
+  <h2 id="making_mozilla_your_default_browser">Making &brandShortName; Your
+    Default Browser</h2>
+
+    <p>&brandShortName; is best known for displaying web pages, both on the
+      Internet and on your computer. To easily open web pages, you can make
+      &brandShortName; your default browser.</p>
+
+    <h3 id="common_internet_files_and_protocols">Common Internet Files and
+      Protocols</h3>
+
+    <p>Making &brandShortName; your default browser allows it to automatically
+      open common file formats and protocols used on the Internet. Common
+      Internet file formats and protocols include the following:</p>
+
+    <ul>
+      <li><strong>Image Files</strong>:
+        <ul>
+          <li>JPEG, GIF, PNG, BMP and ICO</li>
+        </ul>
+      </li>
+      <li><strong>Internet Document and Language Files</strong>:
+        <ul>
+          <li><a href="glossary.xhtml#html">HTML</a>, XHTML,
+            <a href="glossary.xhtml#xml">XML</a>, and
+            <a href="glossary.xhtml#xul">XUL</a></li>
+        </ul>
+      </li>
+      <li><strong>Internet Protocols</strong>:
+        <ul>
+          <li><a href="glossary.xhtml#http">HTTP</a>,
+            <a href="glossary.xhtml#https">HTTPS</a>,
+            <a href="glossary.xhtml#ftp">FTP</a>, Chrome</li>
+        </ul>
+      </li>
+    </ul>
+
+    <h3 id="changing_default_browser_settings_automatically">Changing Default
+      Browser Settings Automatically</h3>
+
+    <p>After installation is finished, &brandShortName; checks to see if it is
+      the default browser for any of the common Internet file formats or
+      protocols. If it isn&apos;t, you are asked, <q>&brandShortName; is not
+      currently set as your default browser. Would you like to make it your
+      default browser?</q></p>
+
+    <p>Click Yes to make &brandShortName; the default browser. If you click No,
+      you will be prompted with this question each time &brandShortName;
+      starts, unless you deselect the checkbox <q>Check at startup next time,
+      too</q>.</p>
+
+    <p>If you deselect the checkbox, <q>Check at startup next time, too</q>,
+      you can still make &brandShortName; the default browser by changing your
+      settings in Preferences. To learn how to set &brandShortName; as the
+      default browser through &brandShortName; preferences, see
+      <a href="cs_nav_prefs_navigator.xhtml#navigator">Browser Preferences -
+      Browser</a>.</p>
+
+    <p>[<a href="#improving_speed_and_efficiency">Return to beginning of
+      section</a>]</p>
+</div>
+
+<h1 id="proxies">Proxies</h1>
+
+<p>Many organizations block access from the Internet to their networks. This
+  prevents outside parties from gaining access to sensitive information. The
+  protection is called a firewall.</p>
+
+<p>If your organization has a firewall, the browser may need to go through a
+  proxy server before connecting you to the Internet. The proxy server prevents
+  outsiders from breaking into your organization&apos;s private network.</p>
+
+<p>For information on setting your proxy preferences, see
+  <a href="cs_nav_prefs_advanced.xhtml#proxies">Advanced Preferences -
+  Proxies</a>.</p>
+
+<p>[<a href="#proxies">Return to beginning of section</a>]</p>
+
 </body>
 </html>

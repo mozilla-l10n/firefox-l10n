@@ -1,334 +1,199 @@
-<?xml version="1.0" encoding="utf-8"?>
+<?xml version="1.0" encoding="UTF-8"?>
+
 <!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.1//EN"
   "http://www.w3.org/TR/xhtml11/DTD/xhtml11.dtd"[
   <!ENTITY % brandDTD SYSTEM "chrome://branding/locale/brand.dtd" >
   %brandDTD;
-  <!ENTITY % utilityOverlayDTD SYSTEM "chrome://communicator/locale/utilityOverlay.dtd" >
-  %utilityOverlayDTD;
-  <!ENTITY % tasksOverlayDTD SYSTEM "chrome://communicator/locale/tasksOverlay.dtd" >
-  %tasksOverlayDTD;
-  <!ENTITY % preferencesDTD SYSTEM "chrome://communicator/locale/pref/preferences.dtd" >
-  %preferencesDTD;
-  <!ENTITY % messengerDTD SYSTEM "chrome://messenger/locale/messenger.dtd" >
-  %messengerDTD;
-  <!ENTITY % mailPrefsOverlayDTD SYSTEM "chrome://messenger/locale/mailPrefsOverlay.dtd" >
-  %mailPrefsOverlayDTD;
-  <!ENTITY % AccountManagerDTD SYSTEM "chrome://messenger/locale/AccountManager.dtd" >
-  %AccountManagerDTD;
-  <!ENTITY % AccountWizardDTD SYSTEM "chrome://messenger/locale/AccountWizard.dtd" >
-  %AccountWizardDTD;
-  <!ENTITY % am-mainDTD SYSTEM "chrome://messenger/locale/am-main.dtd" >
-  %am-mainDTD;
-  <!ENTITY % am-addressingDTD SYSTEM "chrome://messenger/locale/am-addressing.dtd" >
-  %am-addressingDTD;
-  <!ENTITY % am-copiesDTD SYSTEM "chrome://messenger/locale/am-copies.dtd" >
-  %am-copiesDTD;
-  <!ENTITY % am-junkDTD SYSTEM "chrome://messenger/locale/am-junk.dtd" >
-  %am-junkDTD;
-  <!ENTITY % am-offlineDTD SYSTEM "chrome://messenger/locale/am-offline.dtd" >
-  %am-offlineDTD;
-  <!ENTITY % am-server-topDTD SYSTEM "chrome://messenger/locale/am-server-top.dtd" >
-  %am-server-topDTD;
-  <!ENTITY % am-server-advancedDTD SYSTEM "chrome://messenger/locale/am-server-advanced.dtd" >
-  %am-server-advancedDTD;
-  <!ENTITY % am-smimeDTD SYSTEM "chrome://messenger/locale/am-smime.dtd" >
-  %am-smimeDTD;
-  <!ENTITY % am-serverwithnoidentitiesDTD SYSTEM "chrome://messenger/locale/am-serverwithnoidentities.dtd" >
-  %am-serverwithnoidentitiesDTD;
-  <!ENTITY % am-advancedDTD SYSTEM "chrome://messenger/locale/am-advanced.dtd" >
-  %am-advancedDTD;
-  <!ENTITY % am-mdnDTD SYSTEM "chrome://messenger/locale/am-mdn.dtd" >
-  %am-mdnDTD;
-  <!ENTITY % folderPropsDTD SYSTEM "chrome://messenger/locale/folderProps.dtd" >
-  %folderPropsDTD;
-  <!ENTITY % pref-addressingDTD SYSTEM "chrome://messenger/locale/addressbook/pref-addressing.dtd" >
-  %pref-addressingDTD;
-  <!ENTITY % pref-tagsDTD SYSTEM "chrome://messenger/locale/pref-tags.dtd" >
-  %pref-tagsDTD;
-  <!ENTITY % pref-formattingDTD SYSTEM "chrome://messenger/locale/messengercompose/pref-formatting.dtd" >
-  %pref-formattingDTD;
-  <!ENTITY % pref-composing_messagesDTD SYSTEM "chrome://messenger/locale/messengercompose/pref-composing_messages.dtd" >
-  %pref-composing_messagesDTD;
-  <!ENTITY % pref-mailnewsDTD SYSTEM "chrome://messenger/locale/pref-mailnews.dtd" >
-  %pref-mailnewsDTD;
-  <!ENTITY % pref-notificationsDTD SYSTEM "chrome://messenger/locale/pref-notifications.dtd" >
-  %pref-notificationsDTD;
-  <!ENTITY % pref-junkDTD SYSTEM "chrome://messenger/locale/pref-junk.dtd" >
-  %pref-junkDTD;
-  <!ENTITY % pref-directoryDTD SYSTEM "chrome://messenger/locale/addressbook/pref-directory.dtd" >
-  %pref-directoryDTD;
-  <!ENTITY % pref-directory-addDTD SYSTEM "chrome://messenger/locale/addressbook/pref-directory-add.dtd" >
-  %pref-directory-addDTD;
-  <!ENTITY % pref-receiptsDTD SYSTEM "chrome://messenger/locale/pref-receipts.dtd" >
-  %pref-receiptsDTD;
-  <!ENTITY % pref-offlineDTD SYSTEM "chrome://messenger/locale/pref-offline.dtd" >
-  %pref-offlineDTD;
-  <!ENTITY % pref-viewing_messagesDTD SYSTEM "chrome://messenger/locale/pref-viewing_messages.dtd" >
-  %pref-viewing_messagesDTD;
-  <!ENTITY % pref-character_encodingDTD SYSTEM "chrome://messenger/locale/pref-character_encoding.dtd" >
-  %pref-character_encodingDTD;
-  <!ENTITY % smtpEditOverlayDTD SYSTEM "chrome://messenger/locale/smtpEditOverlay.dtd" >
-  %smtpEditOverlayDTD;
-  <!ENTITY % msgHdrViewOverlayDTD SYSTEM "chrome://messenger/locale/msgHdrViewOverlay.dtd" >
-  %msgHdrViewOverlayDTD;
-  <!ENTITY % msgViewPickerOverlayDTD SYSTEM "chrome://messenger/locale/msgViewPickerOverlay.dtd" >
-  %msgViewPickerOverlayDTD;
-  <!ENTITY % msgCompSMIMEOverlayDTD SYSTEM "chrome://messenger-smime/locale/msgCompSMIMEOverlay.dtd"
->
-  %msgCompSMIMEOverlayDTD;
-  <!ENTITY % abNewCardDialogDTD SYSTEM "chrome://messenger/locale/addressbook/abNewCardDialog.dtd" >
-  %abNewCardDialogDTD;
-  <!ENTITY % abCardOverlayDTD SYSTEM "chrome://messenger/locale/addressbook/abCardOverlay.dtd" >
-  %abCardOverlayDTD;
-  <!ENTITY % abCardViewOverlayDTD SYSTEM "chrome://messenger/locale/addressbook/abCardViewOverlay.dtd" >
-  %abCardViewOverlayDTD;
-  <!ENTITY % abMainWindowDTD SYSTEM "chrome://messenger/locale/addressbook/abMainWindow.dtd" >
-  %abMainWindowDTD;
-  <!ENTITY % am-newsblogDTD SYSTEM "chrome://messenger-newsblog/locale/am-newsblog.dtd" >
-  %am-newsblogDTD;
 ]>
 
-<html xmlns="http://www.w3.org/1999/xhtml" lang="fr" xml:lang="fr">
+<html xmlns="http://www.w3.org/1999/xhtml">
 <head>
-  <title>Utiliser &brandShortName; Courrier et Groupes</title>
-  <meta http-equiv="Content-Type" content="application/xhtml; charset=utf-8" />
-  <!--<link rel="stylesheet" href="content_style.css" type="text/css" />-->
-  <link rel="stylesheet" type="text/css" href="helpFileLayout.css" />
-  <link rel="stylesheet" type="text/css" href="chrome://communicator/skin/smileys.css"/>
+<title>Getting Started With Newsgroups</title>
+<link rel="stylesheet" href="helpFileLayout.css" type="text/css"/>
+<link rel="stylesheet" href="chrome://communicator/skin/smileys.css"
+      type="text/css"/>
 </head>
-
 <body>
+<h1 id="getting_started_with_newsgroups">Getting Started With Newsgroups</h1>
 
-  <h1 id="getting_started_with_newsgroups">Premiers pas dans les groupes</h1>
-
-  <div class="contentsBox">
-    <p>Dans cette section&#160;:</p>
-
-    <ul>
-      <li><a href="#subscribing_to_newsgroups">S'abonner à des
-      groupes</a></li>
-
-      <li><a href="#reading_newsgroup_messages">Lire les messages de
-      groupes</a></li>
-
-      <li><a href="#posting_newsgroup_messages">Envoyer un message sur un
-      groupe</a></li>
-
-      <li><a href="#contributing_to_ongoing_discussions">Contribuer à
-      des discussions en cours</a></li>
-
-      <li><a href="#monitoring_threads">Surveiller un fil de
-      discussion</a></li>
-
-      <li><a href="#removing_a_newsgroup">Supprimer un groupe</a></li>
-
-      <!--<li><a href="#subscribing_to_newsgroups">Ajouter un serveur de
-      groupes</a></li>-->
-    </ul>
-  </div>
-
-  <h2 id="adding_a_newsgroup_server">S'abonner à des groupes</h2>
-
-  <p>Si vous avez configuré un <a href=
-  "#subscribing_to_newsgroups">compte</a> sur un serveur de groupes, vous pouvez
-  vous abonner à des groupes (également appelés groupes de
-  discussion).</p>
-
-  <p>Pour vous abonner à un groupe&#160;:</p>
-
-  <ol>
-    <li>Ouvrez une fenêtre <q>Courrier</q>.</li>
-
-    <li>Ouvrez le menu <q>&fileMenu.label;</q> et choisissez <q>&subscribeCmd.label;</q>.
-    La boîte de dialogue <q>Abonnement</q> s'affiche.</li>
-
-    <li>Au besoin, cliquez sur la liste déroulante <q>Serveur</q> pour
-    faire le choix d'un serveur.</li>
-
-    <li>Cochez les cases à droite des groupes auxquels vous
-    désirez vous abonner.</li>
-
-    <li>Cliquez sur le bouton <q>S'abonner</q>. Une marque s'affiche à
-    côté de chaque groupe auquel vous voulez vous abonnez. Cliquez
-    sur <q>&unsubscribeNewsgroupCmd.label;</q> pour annuler un abonnement.</li>
-
-    <li>Cliquez sur <q>OK</q>. La liste des groupes auxquels vous êtes
-    abonné s'affiche dans la fenêtre <q>Courrier</q>.</li>
-  </ol>
-
-  <p>Si vous utilisez un serveur de messagerie IMAP, vous pouvez
-  également vous abonner à des dossiers de messagerie
-  situés sur un serveur IMAP. Votre dossier <q>Courrier entrant</q> est
-  un type de dossier de messagerie. Respectez les instructions qui
-  précèdent pour vous abonner, mais sélectionnez un
-  serveur de messagerie IMAP dans la liste déroulante <q>Serveur</q>.
-  Pour plus d'informations, voir la section <a href=
-  "mailnews_organizing.xhtml#sharing_folders_with_other_users">Partage de dossier avec d'autres
-  utilisateurs (IMAP seulement)</a>.</p>
-
-  <p>[&#160;<a href="#getting_started_with_newsgroups">Retour au début
-  de la section</a>&#160;]</p>
-
-  <h2 id="reading_newsgroup_messages">Lire des messages de groupes</h2>
-
-  <p>Lorsque vous ouvrez votre serveur de groupes, la liste des groupes auxquels
-  vous êtes abonné s'affiche. &brandShortName; télécharge les
-  <em>en-têtes</em> des nouveaux messages de chaque groupe.</p>
-
-  <p>Pour lire les messages des groupes&#160;:</p>
-
-  <ol>
-    <li>Ouvrez une fenêtre <q>Courrier</q>.</li>
-
-    <li>Double-cliquez sur l'icône d'un serveur pour afficher ses groupes.
-    Si la liste est vide, c'est que vous n'êtes abonné à
-    aucun groupe.</li>
-
-    <li>Cliquez sur le nom d'un groupe pour voir ses messages.</li>
-
-    <li>Cliquez sur un message pour le lire. Cliquez sur l'icône
-    <q>Discussion</q> <img src=
-    "chrome://messenger/skin/icons/thread-closed.gif" alt=
-    "icône de discussion" /> pour afficher toutes les réponses au
-    message d'origine. Vous pouvez cliquer sur un en-tête pour afficher
-    le message correspondant. Vous pouvez <a href=
-    "#posting_newsgroup_messages">lancer une nouvelle discussion</a> ou
-    <a href="#contributing_to_ongoing_discussions">répondre à un
-    message</a> d'une discussion existante.</li>
-  </ol>
-
-  <p>[&#160;<a href="#getting_started_with_newsgroups">Retour au début
-  de la section</a>&#160;]</p>
-
-  <h2 id="posting_newsgroup_messages">Envoyer un message sur un groupe</h2>
-
-  <p>Pour lancer un nouveau fil de discussion&#160;:</p>
-
-  <ol>
-    <li>Dans la fenêtre <q>Courrier</q>, sélectionnez un groupe
-    dans la liste des groupes auxquels vous êtes abonné.</li>
-
-    <li>Cliquez sur l'icône <q>Rédiger</q>.</li>
-
-    <li><a href="mailnews_using_mail.xhtml#composing_mail_and_newsgroup_messages">Rédigez</a> le
-    message et cliquez sur <q>Envoyer</q> pour le poster.</li>
-
-    <li>Cliquez sur <q>Relever</q> pour voir votre message sur le groupe.</li>
-  </ol>
-
-  <p>[&#160;<a href="#getting_started_with_newsgroups">Retour au début
-  de la section</a>&#160;]</p>
-
-  <h2 id="contributing_to_ongoing_discussions">Contribuer à des
-  discussions en cours</h2>
-
-  <p>Pour envoyer une réponse au groupe&#160;:</p>
-
-  <ol>
-    <li>Dans la liste des messages, sélectionnez celui auquel vous
-    souhaitez répondre.</li>
-
-    <li>Cliquez sur <q>&replyMsgCmd.label;</q>.</li>
-
-    <li><a href="mailnews_using_mail.xhtml#composing_mail_and_newsgroup_messages">Rédigez</a> le
-    message et cliquez sur <q>Envoyer</q> pour le poster.</li>
-  </ol>
-
-  <p>Pour répondre à une personne ainsi qu'à l'ensemble du
-  groupe&#160;:</p>
-
-  <ol>
-    <li>Dans la liste des messages, sélectionnez celui auquel vous
-    souhaitez répondre.</li>
-
-    <li>Cliquez sur <q>&replyToAllMsgCmd.label;</q>.</li>
-
-    <li>Composez le message et cliquez sur <q>Envoyer</q> pour le poster.</li>
-  </ol>
-
-  <p>Pour faire suivre les réponses d'un message sur un autre
-  groupe&#160;:</p>
-
+<div class="contentsBox">In this section:
   <ul>
-    <li>Cliquez sur <q>&replyMsgCmd.label;</q> et sélectionnez <q>Faire
-    suivre à</q> dans la liste déroulante des types de
-    destinataires. Les réponses ultérieures seront
-    envoyées au groupe spécifié.</li>
+    <li><a href="#subscribing_to_newsgroups">Subscribing to Newsgroups</a></li>
+    <li><a href="#reading_newsgroup_messages">Reading Newsgroup
+      Messages</a></li>
+    <li><a href="#posting_newsgroup_messages">Posting Newsgroup
+      Messages</a></li>
+    <li><a href="#contributing_to_ongoing_discussions">Contributing to Ongoing
+      Discussions</a></li>
+    <li><a href="#monitoring_threads">Monitoring Threads</a></li>
+    <li><a href="#removing_a_newsgroup">Removing a Newsgroup</a></li>
+    <li><a href="#adding_a_newsgroup_server">Adding a Newsgroup Server</a></li>
   </ul>
+</div>
 
-  <p>[&#160;<a href="#getting_started_with_newsgroups">Retour au début
-  de la section</a>&#160;]</p>
+<h2 id="subscribing_to_newsgroups">Subscribing to Newsgroups</h2>
 
-  <h2 id="monitoring_threads">Surveiller un fil de discussion</h2>
+<p>If you have set up an <a href="#adding_a_newsgroup_server">account</a> on a
+  newsgroup server, you can join (subscribe) to newsgroups (also called
+  discussion groups).</p>
 
-  <p>Pour surveiller les messages non lus dans les fils qui vous
-  intéressent&#160;:</p>
+<p>To subscribe to a newsgroup, begin from the Mail window:</p>
 
-  <ol>
-    <li>Sélectionnez un message dans une discussion.</li>
+<ol>
+  <li>Open the File menu and choose Subscribe. You see the Subscribe dialog
+    box.</li>
+  <li>If necessary, click the Account drop-down list to choose another
+    newsgroup account.</li>
+  <li>Select a newsgroup. To select more than one newsgroup,
+    <kbd class="mac">Cmd</kbd><kbd class="noMac">Ctrl</kbd>-click additional
+    newsgroup.</li>
+  <li>Click Subscribe or click in the Subscribe column next to the newsgroup.
+    You see a checkmark next to each newsgroup to which you subscribe. Click
+    Unsubscribe to cancel a selection.</li>
+  <li>Click OK. The list of your subscribed newsgroups appears in the Mail
+    window.</li>
+</ol>
 
-    <li>Ouvrez le menu <q>&msgsMenu.label;</q> et choisissez <q>Surveiller la
-    discussion</q>. Une icône s'affiche à gauche de la ligne du
-    message.</li>
+<p>If you are an IMAP mail user, you can also subscribe to message folders
+  located on an IMAP server. (Your Inbox is a type of message folder.) Follow
+  the instructions above for subscribing, but select an IMAP account from the
+  Account drop-down list. For more information on sharing folders and
+  subscribing to folders, see
+  <a href="mailnews_organizing.xhtml#sharing_folders_with_other_users">Sharing
+  Folders With Other Users (IMAP Only)</a>.</p>
 
-    <li>Pour surveiller d'autres fils, répétez les étapes
-    1 et 2 pour les messages d'autres fils.</li>
+<p>[<a href="#getting_started_with_newsgroups">Return to beginning of
+  section</a>]</p>
 
-    <li>Lorsque vous êtes prêt à observer les messages de
-    ces fils, ouvrez le menu <q>&viewMenu.label;</q>, sélectionnez
-    <q>&threads.label;</q>, puis <q>&watchedThreadsWithUnreadCmd.label;</q>. &brandShortName; Courrier &amp; Groupes n'affichera que les fils
-    surveillés contenant des messages non lus.</li>
+<h2 id="reading_newsgroup_messages">Reading Newsgroup Messages</h2>
 
-    <li>Pour réafficher tous les messages du groupe, ouvrez le menu
-    <q>&viewMenu.label;</q>, choisissez <q>&selectThreadCmd.label;</q>, puis <q>Tous</q>.</li>
-  </ol>
+<p>When you open your newsgroup server, you see the list of newsgroups to which
+  you subscribe. The server downloads the <em>headers</em> of new messages in
+  each newsgroup.</p>
 
-  <p>Pour ignorer un fil de discussion&#160;:</p>
+<p>To read newsgroup messages, begin from the Mail window:</p>
 
-  <ol>
-    <li>Sélectionnez un message dans un fil de discussion.</li>
+<ol>
+  <li>Double-click a newsgroup server icon to see its newsgroups. (If there are
+    no newsgroups, you may need to subscribe to one.)</li>
+  <li>Click a newsgroup name to see its messages.</li>
+  <li>Click a message to read it. Click the thread button to display all the
+    responses below the original message. You can click any header to display
+    its message. You can <a href="#posting_newsgroup_messages">start a new
+    thread</a> or <a href="#contributing_to_ongoing_discussions">post a
+    message</a> in response.</li>
+</ol>
 
-    <li>Ouvrez le menu <q>&msgsMenu.label;</q> et choisissez <q>Ignorer la
-    discussion</q>. &brandShortName; Courrier &amp; Groupes marque tous les messages du
-    fil comme lus, ainsi que les nouvelles réponses correspondant
-    à ce fil de discussion.</li>
+<p>[<a href="#getting_started_with_newsgroups">Return to beginning of
+  section</a>]</p>
 
-    <li>Pour afficher les fils ignorés, dans le menu <q>Afficher</q>,
-    choisissez <q>Messages</q>, puis <q>&ignoredThreadsCmd.label;</q>.</li>
-  </ol>
+<h2 id="posting_newsgroup_messages">Posting Newsgroup Messages</h2>
 
-  <p>[&#160;<a href="#getting_started_with_newsgroups">Retour au début
-  de la section</a>&#160;]</p>
+<p>To start new threads (discussions):</p>
 
-  <h2 id="removing_a_newsgroup">Supprimer un groupe</h2>
+<ol>
+  <li>From the list of your subscribed newsgroups in the Mail window, select a
+    newsgroup.</li>
+  <li>Click Compose.</li>
+  <li><a href="mailnews_using_mail.xhtml#composing_mail_and_newsgroup_messages">Compose</a>
+    your message, and click Send to post it.</li>
+  <li>Click Get Msgs to see your posting on the newsgroup.</li>
+</ol>
 
-  <p>Pour supprimer un groupe de la liste, vous pouvez effectuer l'une des
-  actions suivantes&#160;:</p>
+<p>[<a href="#getting_started_with_newsgroups">Return to beginning of
+  section</a>]</p>
 
-  <ul>
-    <li>Cliquez avec le bouton droit de la souris sur le groupe correspondant et
-    sélectionner <q>&folderContextUnsubscribe.label;</q> dans
-    le menu contextuel qui apparaît.</li>
+<h2 id="contributing_to_ongoing_discussions">Contributing to Ongoing
+  Discussions</h2>
 
-    <li>Sélectionnez le groupe que vous désirez supprimer puis
-    appuyez sur la touche <kbd>Supprimer</kbd>.</li>
-  </ul>
+<p>To post a response to the newsgroup:</p>
 
-  <p>[&#160;<a href="#getting_started_with_newsgroups">Retour au début
-  de la section</a>&#160;]</p>
+<ol>
+  <li>In the message list, select a message to reply to.</li>
+  <li>Click Reply.</li>
+  <li><a href="mailnews_using_mail.xhtml#composing_mail_and_newsgroup_messages">Compose</a>
+    your message, and click Send to post it.</li>
+</ol>
 
-  <div id="footer">
-    <!--begin frenchmozilla signature-->
+<p>To reply to an individual as well as post a response to the group:</p>
 
-    <p><em>Dernière traduction&#160;: 29 janvier 2006</em></p>
-    <!-- | vérification&#160;: le 13 décembre 2003</em></p>-->
+<ol>
+  <li>In the message list, select a message to reply to.</li>
+  <li>Click Reply All.</li>
+  <li>Compose your message, and click Send to post it.</li>
+</ol>
 
-    <p>Ce texte a été traduit et adapté par une
-    équipe internationale de bénévoles francophones.<br />
-    Pour plus d'informations, visitez notre site&#160;: <a href=
-    "http://frenchmozilla.sf.net"
-    hreflang="fr">http://frenchmozilla.sourceforge.net</a>.</p>
-    <!--end frenchmozilla signature-->
-  </div>
+<p>To redirect a posting to another newsgroup:</p>
+
+<ul>
+  <li>Click Reply and choose <q>Followup-To</q> from the <q>Newsgroup</q>
+    drop-down list. Subsequent responses will be posted to the newsgroup you
+    enter.</li>
+</ul>
+
+<p>[<a href="#getting_started_with_newsgroups">Return to beginning of
+  section</a>]</p>
+
+<h2 id="monitoring_threads">Monitoring Threads</h2>
+
+<p>To monitor unread messages in threads that are of interest to you:</p>
+
+<ol>
+  <li>Select a message in a thread.</li>
+  <li>Open the Message menu, and choose Watch Thread.</li>
+  <li>If you want to monitor additional threads, repeat steps 1 and 2 for
+    messages in additional threads.</li>
+  <li>When you&apos;re ready to monitor messages in these threads, open the
+    View menu, choose Messages, and then choose Watched Threads with Unread.
+    &brandShortName; Mail &amp; Newsgroups only displays the watched threads
+    that contain unread messages.</li>
+  <li>Open the View menu, choose Messages, and then choose All to return to
+    viewing all messages in the newsgroup.</li>
+</ol>
+
+<p>To ignore a message thread:</p>
+
+<ol>
+  <li>Select a message in the thread.</li>
+  <li>Open the Message menu, and choose Ignore Thread. &brandShortName; Mail
+    &amp; Newsgroups marks all messages in the thread as read, and new replies
+    posted to the thread will appear as read.</li>
+  <li>To view ignored threads, open the View menu, choose Messages, and then
+    choose Ignored Threads.</li>
+</ol>
+
+<p>[<a href="#getting_started_with_newsgroups">Return to beginning of
+  section</a>]</p>
+
+<h2 id="removing_a_newsgroup">Removing a Newsgroup</h2>
+
+<p>To remove a newsgroup from your list:</p>
+
+<ul>
+  <li>Select the newsgroup icon and press Delete.</li>
+</ul>
+
+<p>[<a href="#getting_started_with_newsgroups">Return to beginning of
+  section</a>]</p>
+
+<h2 id="adding_a_newsgroup_server">Adding a Newsgroup Server</h2>
+
+<p>If the newsgroup you want to subscribe to is on a different server, you must
+  first set up access to that server.</p>
+
+<p>To set up an additional newsgroup server, open the File menu in the Mail
+  window and choose New, then Account.</p>
+
+<ul>
+  <li>Using the Account Wizard, indicate that the new account you want to set
+    up is a newsgroup account.</li>
+</ul>
+
+<p>Once you&apos;ve set up access to the new server, you can
+  <a href="#subscribing_to_newsgroups">subscribe</a> to newsgroups on that
+  server. In the Mail window, open the File menu, and choose Subscribe.</p>
+
+<p>[<a href="#getting_started_with_newsgroups">Return to beginning of
+  section</a>]</p>
 </body>
 </html>
