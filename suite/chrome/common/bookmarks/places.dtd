@@ -20,7 +20,7 @@
 
 <!ENTITY cmd.findInBookmarks.label      "Cerca a les adreces d'interès i a l'historial…">
 <!ENTITY cmd.findInBookmarks.accesskey  "r">
-<!ENTITY cmd.findCurrent.label          "Cerca a la coŀlecció actual…">
+<!ENTITY cmd.findCurrent.label          "Cerca a la col·lecció actual…">
 <!ENTITY cmd.findCurrent.accesskey      "i">
 
 <!ENTITY cmd.exportHTML.label           "Exporta en HTML…">
@@ -101,7 +101,7 @@
 <!ENTITY detailsPane.more.accesskey "M">
 <!ENTITY detailsPane.fewer.label "Menys">
 <!ENTITY detailsPane.fewer.accesskey "y">
-<!ENTITY detailsPane.selectAnItemText.description "Seleccioneu un element per a visualitzar-ne i editar-ne les propietats">
+<!ENTITY detailsPane.selectAnItemText.description "Seleccioneu un element per visualitzar-ne i editar-ne les propietats">
 
 <!ENTITY editBookmark.done.label "Fet">
 <!ENTITY editBookmark.cancel.label "Cancel·la">

@@ -80,7 +80,7 @@
 <!ENTITY copyLinkCmd.accesskey        "n">
 <!ENTITY copyImageCmd.label           "Copia la ubicació de la imatge">
 <!ENTITY copyImageCmd.accesskey       "m">
-<!ENTITY copyVideoURLCmd.label        "Copia la ubiació del vídeo">
+<!ENTITY copyVideoURLCmd.label        "Copia la ubicació del vídeo">
 <!ENTITY copyVideoURLCmd.accesskey    "o">
 <!ENTITY copyAudioURLCmd.label        "Copia la ubicació de l'àudio">
 <!ENTITY copyAudioURLCmd.accesskey    "o">

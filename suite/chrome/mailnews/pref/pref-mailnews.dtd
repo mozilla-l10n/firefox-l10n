@@ -37,7 +37,7 @@
 
 <!ENTITY pref.mailnews.title              "Missatgeria">
 <!ENTITY generalSettings.caption          "Paràmetres generals">
-<!ENTITY confirmMove.label                "Demana confirmació per a moure carpetes a la paperera">
+<!ENTITY confirmMove.label                "Demana confirmació per moure carpetes a la paperera">
 <!ENTITY confirmMove.accesskey            "c">
 <!ENTITY preserveThreading.label          "Conserva la conversa en ordenar els missatges">
 <!ENTITY preserveThreading.accesskey      "t">

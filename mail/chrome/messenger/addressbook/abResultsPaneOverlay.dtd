@@ -34,39 +34,35 @@
    -
    - ***** END LICENSE BLOCK ***** -->
 
-<!-- Catalan Translation: Projecte Mozilla en català - Softcatalà - http://www.softcatala.org/projectes/mozilla/ -->
-
-
-<!ENTITY GeneratedName.label "Nom">
-<!ENTITY GeneratedName.accesskey "N">
-<!ENTITY PrimaryEmail.label "Adreça electrònica">
-<!ENTITY PrimaryEmail.accesskey "e">
-<!ENTITY Company.label "Empresa">
-<!ENTITY Company.accesskey "m">
-<!ENTITY _PhoneticName.label "Nom fonètic">
-<!ENTITY _PhoneticName.accesskey "o">
-<!ENTITY NickName.label "Sobrenom">
-<!ENTITY NickName.accesskey "S">
-<!ENTITY SecondEmail.label "Adreça electrònica alternativa">
-<!ENTITY SecondEmail.accesskey "l">
-<!ENTITY Department.label "Departament">
-<!ENTITY Department.accesskey "r">
-<!ENTITY JobTitle.label "Títol">
-<!ENTITY JobTitle.accesskey "T">
-<!ENTITY CellularNumber.label "Mòbil">
-<!ENTITY CellularNumber.accesskey "b">
-<!ENTITY PagerNumber.label "Buscapersones">
-<!ENTITY PagerNumber.accesskey "p">
-<!ENTITY FaxNumber.label "Fax">
-<!ENTITY FaxNumber.accesskey "F">
-<!ENTITY HomePhone.label "Telèfon particular">
-<!ENTITY HomePhone.accesskey "u">
-<!ENTITY WorkPhone.label "Telèfon de la feina">
-<!ENTITY WorkPhone.accesskey "f">
-<!ENTITY ScreenName.label "Nom en pantalla">
-<!ENTITY ScreenName.accesskey "p">
-<!ENTITY sortAscending.label "Ascendent">
-<!ENTITY sortAscending.accesskey "A">
-<!ENTITY sortDescending.label "Descendent">
-<!ENTITY sortDescending.accesskey "D">
-
+<!ENTITY GeneratedName.label                   "Nom">
+<!ENTITY GeneratedName.accesskey               "N">
+<!ENTITY PrimaryEmail.label                    "Adreça electrònica">
+<!ENTITY PrimaryEmail.accesskey                "e">
+<!ENTITY Company.label                         "Empresa">
+<!ENTITY Company.accesskey                     "m">
+<!ENTITY _PhoneticName.label                   "Nom fonètic">
+<!ENTITY _PhoneticName.accesskey               "o">
+<!ENTITY NickName.label                        "Sobrenom">
+<!ENTITY NickName.accesskey                    "S">
+<!ENTITY SecondEmail.label                     "Adreça electrònica alternativa">
+<!ENTITY SecondEmail.accesskey                 "l">
+<!ENTITY Department.label                      "Departament">
+<!ENTITY Department.accesskey                  "r">
+<!ENTITY JobTitle.label                        "Títol">
+<!ENTITY JobTitle.accesskey                    "T">
+<!ENTITY CellularNumber.label                  "Mòbil">
+<!ENTITY CellularNumber.accesskey              "b">
+<!ENTITY PagerNumber.label                     "Buscapersones">
+<!ENTITY PagerNumber.accesskey                 "p">
+<!ENTITY FaxNumber.label                       "Fax">
+<!ENTITY FaxNumber.accesskey                   "F">
+<!ENTITY HomePhone.label                       "Telèfon particular">
+<!ENTITY HomePhone.accesskey                   "u">
+<!ENTITY WorkPhone.label                       "Telèfon de la feina">
+<!ENTITY WorkPhone.accesskey                   "f">
+<!ENTITY ScreenName.label                      "Nom en pantalla">
+<!ENTITY ScreenName.accesskey                  "p">
+<!ENTITY sortAscending.label                   "Ascendent">
+<!ENTITY sortAscending.accesskey               "A">
+<!ENTITY sortDescending.label                  "Descendent">
+<!ENTITY sortDescending.accesskey              "D">

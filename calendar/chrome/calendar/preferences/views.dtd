@@ -23,6 +23,7 @@
    -   ArentJan Banck <ajbanck@planet.nl>
    -   Eric Belhaire <belhaire@ief.u-psud.fr>
    -   Matthew Willis <mattwillis@gmail.com>
+   -   Cédric Corazza <cedric.corazza@wanadoo.fr>
    -
    - Alternatively, the contents of this file may be used under the terms of
    - either the GNU General Public License Version 2 or later (the "GPL"), or
@@ -37,11 +38,11 @@
    - the terms of any one of the MPL, the GPL or the LGPL.
    -
    - ***** END LICENSE BLOCK ***** -->
-
 <!-- WARNING! This file contains UTF-8 encoded characters!
    - If this ==> … <== doesn't look like an ellipsis (three dots in a row),
    - your editor isn't using UTF-8 encoding and may munge up the document!
   -->
+
 
 <!ENTITY pref.calendar.view.allview.caption "General">
 <!ENTITY pref.calendar.view.dayandweekviews.caption "Vistes diàries i setmanals">
@@ -60,7 +61,7 @@
 <!ENTITY pref.calendar.view.visiblehours.accesskey "o">
 <!ENTITY pref.calendar.view.visiblehoursend.label "hores de cop">
 
-<!ENTITY pref.numberofweeks.label "Setmanes que es mostraran per defecte (inloent-hi les setmanes anteriors):">
+<!ENTITY pref.numberofweeks.label "Setmanes que es mostraran per defecte (incloent-hi les setmanes anteriors):">
 <!ENTITY pref.numberofweeks.accesskey "e">
 <!ENTITY pref.numberofpreviousweeks.label "Setmanes anteriors que es mostraran:">
 <!ENTITY pref.numberofpreviousweeks.accesskey "a">

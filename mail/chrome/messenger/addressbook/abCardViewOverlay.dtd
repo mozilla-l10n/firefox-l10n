@@ -34,20 +34,17 @@
  the terms of any one of the MPL, the GPL or the LGPL.
 
  ***** END LICENSE BLOCK ***** -->
-
-<!-- Catalan Translation: Projecte Mozilla en català - Softcatalà - http://www.softcatala.org/projectes/mozilla/ -->
-
-
 <!-- Box Headings -->
-<!ENTITY contact.heading "Contacte">
-<!ENTITY home.heading "Particular">
-<!ENTITY other.heading "Altres">
-<!ENTITY phone.heading "Telèfon">
-<!ENTITY work.heading "Feina">
+
+<!ENTITY contact.heading             "Contacte">
+<!ENTITY home.heading                "Particular">
+<!ENTITY other.heading               "Altres">
+<!ENTITY phone.heading               "Telèfon">
+<!ENTITY work.heading                "Feina">
 <!-- Special Box Headings, for mailing lists -->
-<!ENTITY description.heading "Descripció">
-<!ENTITY addresses.heading "Adreces">
+<!ENTITY description.heading         "Descripció">
+<!ENTITY addresses.heading           "Adreces">
 <!-- For Map It! -->
-<!ENTITY mapItButton.label "Obtingues el mapa">
-<!ENTITY mapIt.tooltip "Mostra un mapa d'aquesta adreça del Web">
+<!ENTITY mapItButton.label           "Obtingues el mapa">
+<!ENTITY mapIt.tooltip               "Mostra un mapa d'aquesta adreça del Web">
 

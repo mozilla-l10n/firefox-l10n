@@ -6,7 +6,7 @@
 <!ENTITY image-desc.label      "Descripció:">
 <!ENTITY image-alt.label       "Text alternatiu:">
 <!ENTITY image-width.label     "Amplada:">
-<!ENTITY image-height.label    "alçada">
+<!ENTITY image-height.label    "Alçada:">
 <!ENTITY image-filesize.label  "Mida del fitxer:">
 <!ENTITY insdel-sec.label      "Insereix/Suprimeix les propietats">
 <!ENTITY insdel-cite.label     "Informació:">
@@ -20,7 +20,7 @@
 <!ENTITY link-rev.label        "Relació inversa:">
 <!ENTITY misc-sec.label        "Propietats diverses">
 <!ENTITY misc-lang.label       "Llengua del text:">
-<!ENTITY misc-title.label      "Títol del text:">
+<!ENTITY misc-title.label      "Títol:">
 <!ENTITY misc-tblsummary.label "Resum de la taula:">
 <!ENTITY quote-sec.label       "Propietats de la cita">
 <!ENTITY quote-cite.label      "Informació:">

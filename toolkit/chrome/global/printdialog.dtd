@@ -18,11 +18,11 @@
 <!ENTITY printrangeGroup.label "Àrea d'impressió">
 <!ENTITY allpagesRadio.label "Totes les pàgines">
 <!ENTITY allpagesRadio.accesskey "o">
-<!ENTITY rangeRadio.label "Pàgines">
+<!ENTITY rangeRadio.label  "Pàgines">
 <!ENTITY rangeRadio.accesskey  "P">
-<!ENTITY frompageInput.label "de">
+<!ENTITY frompageInput.label  "de">
 <!ENTITY frompageInput.accesskey  "d">
-<!ENTITY topageInput.label "a ">
+<!ENTITY topageInput.label  "a ">
 <!ENTITY topageInput.accesskey  "a">
 <!ENTITY selectionRadio.label "Selecció">
 <!ENTITY selectionRadio.accesskey "S">
@@ -34,7 +34,7 @@
 <!ENTITY printframeGroup.label "Imprimeix els marcs">
 <!ENTITY aslaidoutRadio.label "Tal com es veuen a la pantalla">
 <!ENTITY aslaidoutRadio.accesskey "u">
-<!ENTITY selectedframeRadio.label "El marc seleccionat">
+<!ENTITY selectedframeRadio.label  "El marc seleccionat">
 <!ENTITY selectedframeRadio.accesskey  "m">
-<!ENTITY eachframesepRadio.label "Cada marc per separat">
+<!ENTITY eachframesepRadio.label  "Cada marc per separat">
 <!ENTITY eachframesepRadio.accesskey  "e">

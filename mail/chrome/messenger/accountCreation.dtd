@@ -1,15 +1,15 @@
 <!ENTITY autoconfigWizard.title          "Configuració del compte de correu">
 <!ENTITY name.label                      "El vostre nom:">
 <!ENTITY name.accesskey                  "n">
-<!ENTITY name.placeholder                  "Nom i cognoms">
+<!ENTITY name.placeholder                "Nom i cognoms">
 <!ENTITY name.text                       "El vostre nom, com voleu que es vegi">
 <!ENTITY email.label                     "Adreça electrònica:">
 <!ENTITY email.accesskey                 "A">
-<!ENTITY email.placeholder                 "email@exemple.com">
+<!ENTITY email.placeholder               "email@exemple.com">
 <!ENTITY password.label                  "Contrasenya:">
 <!ENTITY password.accesskey              "C">
-<!ENTITY password.placeholder              "Contrasenya">
-<!ENTITY password.text                   "Opcional, només es farà servir per a validar el vostre usuari">
+<!ENTITY password.placeholder            "Contrasenya">
+<!ENTITY password.text                   "Opcional, només es farà servir per validar el vostre usuari">
 <!ENTITY rememberPassword.label          "Recorda la contrasenya">
 <!ENTITY rememberPassword.accesskey      "R">
 
@@ -35,7 +35,7 @@
 
 <!ENTITY advancedSetup.label             "Configuració avançada">
 <!ENTITY advancedSetup.accesskey         "g">
-<!ENTITY cancel.label                    "Canceŀla">
+<!ENTITY cancel.label                    "Cancel·la">
 <!ENTITY cancel.accesskey                "n">
 <!ENTITY continue.label                  "Continua">
 <!ENTITY continue.accesskey              "C">
@@ -60,7 +60,6 @@
      checkbox beside this text before continuing. -->
 <!ENTITY confirmWarning.label            "Comprenc els riscs.">
 <!ENTITY confirmWarning.accesskey        "r">
-
 <!-- LOCALIZATION NOTE (createAccount.label): If there is a security warning
      on the incoming or outgoing servers, then the page that pops up will
      have this text in a button to continue by creating the account. -->
@@ -78,6 +77,6 @@
 <!ENTITY insecureServer.tooltip.title    "Atenció! Això és un servidor insegur.">
 <!ENTITY insecureServer.tooltip.details  "Per a més informació feu un clic al cercle.">
 
-<!ENTITY insecureUnencrypted.description   "El correu s'envia desencriptat, per tant la vostra contrasenya (i el vostre missatge) es poden llegir fàcilment. El &brandShortName; us deixarà que utilitzeu el vostre correu, però hauríeu de contactar amb el vostre proveïdor perquè configuri una connexió segura al servidor.">
+<!ENTITY insecureUnencrypted.description "El correu s'envia desencriptat, per tant la vostra contrasenya (i el vostre missatge) es poden llegir fàcilment. El &brandShortName; us deixarà que utilitzeu el vostre correu, però hauríeu de contactar amb el vostre proveïdor perquè configuri una connexió segura al servidor.">
 <!ENTITY insecureSelfSigned.description  "El servidor utilitza un certificat que no és de confiança, per tant no ens podem estar segurs que ningú estigui interceptant les comunicacions entre el &brandShortName; i el vostre servidor. El &brandShortName; us permetrà accedir al vostre correu, però hauríeu de comentar al vostre proveïdor que configuri el servidor amb un certificat que sigui de confiança.">
 <!ENTITY secureServer.description        "Felicitats! Aquest servidor és segur.">

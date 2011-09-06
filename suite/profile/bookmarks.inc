@@ -77,7 +77,7 @@
 
 # link title for https://addons.mozilla.org/en-US/seamonkey/dictionaries
 
-#define seamonkey_dictionaries Diccionaris per a revisar l'ortografia
+#define seamonkey_dictionaries Diccionaris per revisar l'ortografia
 
 
 # LOCALIZATION NOTE (seamonkey_plugins):

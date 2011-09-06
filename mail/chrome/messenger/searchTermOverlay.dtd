@@ -1,15 +1,15 @@
-<!ENTITY matchAll.label "Tots els següents">
+<!ENTITY matchAll.label     "Tots els següents">
 <!ENTITY matchAll.accesskey "T">
-<!ENTITY matchAny.label "Qualsevol dels següents">
+<!ENTITY matchAny.label     "Qualsevol dels següents">
 <!ENTITY matchAny.accesskey "Q">
 <!ENTITY matchAllMsgs.label     "Tots els missatges">
 <!ENTITY matchAllMsgs.accesskey "m">
-
 <!-- LOCALIZATION NOTE  
   The values below are used to control the widths of the search widgets.
   Change the values only when the localized strings in the popup menus
   are truncated in the widgets.
  -->
+
 <!ENTITY searchTermListAttributesFlexValue "9">
 <!ENTITY searchTermListOperatorsFlexValue "3">
 <!ENTITY searchTermListValueFlexValue "3">

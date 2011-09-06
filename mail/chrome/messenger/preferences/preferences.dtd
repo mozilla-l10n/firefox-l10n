@@ -1,4 +1,3 @@
-
 <!ENTITY  prefWindow.titleWin     "Opcions">
 <!ENTITY  prefWindow.titleGNOME   "Preferències del &brandShortName;">
 <!ENTITY  prefWindow.styleWindows "width: 50em; min-height: 38.5em;">
@@ -9,7 +8,5 @@
 <!ENTITY paneDisplay.title        "Visualització">
 <!ENTITY paneComposition.title    "Redacció">
 <!ENTITY paneAttachments.title    "Adjuncions">
-<!ENTITY paneSecurity.title        "Seguretat">
+<!ENTITY paneSecurity.title       "Seguretat">
 <!ENTITY paneAdvanced.title       "Avançat">
-
-

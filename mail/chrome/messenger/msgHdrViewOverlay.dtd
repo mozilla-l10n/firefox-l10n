@@ -35,9 +35,6 @@
 
  ***** END LICENSE BLOCK ***** -->
 
-<!-- Catalan Translation: Projecte Mozilla en català - Softcatalà - http://www.softcatala.org/projectes/mozilla/ -->
-
-
 <!ENTITY toField2.label "a ">
 <!ENTITY fromField2.label "de ">
 <!ENTITY senderField2.label "remitent ">
@@ -45,7 +42,7 @@
 <!ENTITY replyToField2.label "respon-a ">
 
 <!ENTITY subjectField2.label "assumpte">
-<!--# LOCALIZATION NOTE (ccField.label): DONT_TRANSLATE -->
+<!--# LOCALIZATION NOTE (ccField2.label): DONT_TRANSLATE -->
 <!ENTITY ccField2.label "cc ">
 <!ENTITY bccField2.label "cco ">
 <!ENTITY newsgroupsField2.label "grups de discussió ">
@@ -62,6 +59,7 @@
 <!ENTITY editMessageButton.label "Edita…">
 <!ENTITY hdrArchiveButton.label "arxiva">
 <!ENTITY hdrArchiveButton.tooltip "arxiva aquest missatge">
+<!ENTITY hdrSmartReplyButton.label "resposta intel·ligent">
 <!ENTITY hdrReplyButton.label "respon">
 <!ENTITY hdrReplyButton.tooltip "respon aquest missatge">
 <!ENTITY hdrReplyAllButton.label "respon a tots">
@@ -101,30 +99,28 @@
 <!ENTITY viewSourceMenuItem.accesskey "c">
 <!ENTITY otherActionsPrint.label "imprimeix…">
 <!ENTITY otherActionsPrint.accesskey "i">
+<!-- Attachment context menu items -->
 
-<!ENTITY openAttachmentCmd.label "Obre">
-<!ENTITY openAttachmentCmd.accesskey "O">
-<!ENTITY saveAsAttachmentCmd.label "Anomena i desa…">
-<!ENTITY saveAsAttachmentCmd.accesskey "A">
-<!ENTITY detachAttachmentCmd.label    "Separa…">  
+<!ENTITY openAttachmentCmd.label    "Obre">
+<!ENTITY openAttachmentCmd.accesskey    "O">
+<!ENTITY saveAsAttachmentCmd.label    "Anomena i desa…">
+<!ENTITY saveAsAttachmentCmd.accesskey    "A">
+<!ENTITY detachAttachmentCmd.label    "Separa…">
 <!ENTITY detachAttachmentCmd.accesskey    "p">
-<!ENTITY deleteAttachmentCmd.label    "Suprimeix">  
+<!ENTITY deleteAttachmentCmd.label    "Suprimeix">
 <!ENTITY deleteAttachmentCmd.accesskey    "x">
 <!ENTITY openAllAttachmentsCmd.label    "Obre-ho tot…">
 <!ENTITY openAllAttachmentsCmd.accesskey    "O">
-<!ENTITY saveAllAttachmentsCmd.label "Desa-ho tot…">
-<!ENTITY saveAllAttachmentsCmd.accesskey "D">
-<!ENTITY detachAllAttachmentsCmd.label    "Separa-ho tot…">  
-<!ENTITY detachAllAttachmentsCmd.accesskey    "S">  
-<!ENTITY deleteAllAttachmentsCmd.label    "Suprimeix-ho tot…">  
-<!ENTITY deleteAllAttachmentsCmd.accesskey    "u">  
-
-
+<!ENTITY saveAllAttachmentsCmd.label    "Desa-ho tot…">
+<!ENTITY saveAllAttachmentsCmd.accesskey    "D">
+<!ENTITY detachAllAttachmentsCmd.label    "Separa-ho tot…">
+<!ENTITY detachAllAttachmentsCmd.accesskey    "S">
+<!ENTITY deleteAllAttachmentsCmd.label    "Suprimeix-ho tot…">
+<!ENTITY deleteAllAttachmentsCmd.accesskey    "u">
 <!-- Attachment toolbar items -->
+
 <!ENTITY saveAttachmentButton.label       "desa">
 <!ENTITY saveAttachmentButton.tooltip     "desa el fitxer adjunt">
-<!ENTITY openAllAttachmentsMenuItem.label    "obre-ho tot…">
-<!ENTITY openAllAttachmentsMenuItem.accesskey    "o">
 <!ENTITY saveAllAttachmentsButton.label   "desa-ho tot">
 <!ENTITY saveAllAttachmentsButton.tooltip "desa tots els fitxers adjunts">
 <!ENTITY openAttachmentMenuItem.label     "obre">
@@ -135,6 +131,8 @@
 <!ENTITY detachAttachmentMenuItem.accesskey    "p">
 <!ENTITY deleteAttachmentMenuItem.label    "suprimeix">
 <!ENTITY deleteAttachmentMenuItem.accesskey    "x">
+<!ENTITY openAllAttachmentsMenuItem.label    "obre-ho tot…">
+<!ENTITY openAllAttachmentsMenuItem.accesskey    "o">
 <!ENTITY saveAllAttachmentsMenuItem.label    "desa-ho tot…">
 <!ENTITY saveAllAttachmentsMenuItem.accesskey    "s">
 <!ENTITY detachAllAttachmentsMenuItem.label    "separa-ho tot…">
@@ -142,10 +140,9 @@
 <!ENTITY deleteAllAttachmentsMenuItem.label    "suprimeix-ho tot…">
 <!ENTITY deleteAllAttachmentsMenuItem.accesskey    "e">
 
-<!ENTITY copyLinkCmd.label "Copia l'enllaç">
-<!ENTITY copyLinkCmd.accesskey "C">
+<!ENTITY copyLinkCmd.label        "Copia l'enllaç">
+<!ENTITY copyLinkCmd.accesskey    "C">
 
 <!ENTITY CopyMessageId.label "Copia l'ID-missatge">
 <!ENTITY OpenMessageForMsgId.label "Obre el missatge per ID">
 <!ENTITY OpenBrowserWithMsgId.label "Obre el navegador amb l'ID-missatge">
-

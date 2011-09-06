@@ -52,4 +52,4 @@ pref("calendar.week.d6saturdaysoff", true);
 pref("general.useragent.locale", "ca");
 
 # categories
-pref("calendar.categories.names", "Aniversari,Negocis,Trucades,Clients,Competència,Consumidors,Preferits,Seguiments,Regals,Vacances,Idees,Assumptes,Misceŀlània,Personal,Projectes,Dia de festa,Estat,Proveïdors,Viatge,Descans");
+pref("calendar.categories.names", "Aniversari,Negocis,Trucades,Clients,Competència,Consumidors,Preferits,Seguiments,Regals,Vacances,Idees,Assumptes,Miscel·lània,Personal,Projectes,Dia de festa,Estat,Proveïdors,Viatge,Descans");

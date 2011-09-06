@@ -6,7 +6,7 @@
 <!ENTITY question.label "Voleu convertir el missatge a text net igualment?">
 
 <!ENTITY plainTextAndHtml.label "Envia'l en text net i en HTML">
-<!ENTITY plainTextAndHtml.accesskey "e">
+<!ENTITY plainTextAndHtml.accesskey "E">
 <!ENTITY plainTextOnly.label "Envia'l només en text net">
 <!ENTITY plainTextOnly.accesskey "x">
 <!ENTITY htmlOnly.label "Envia'l només en HTML">
@@ -14,4 +14,3 @@
 
 <!ENTITY send.label "Envia">
 <!ENTITY send.accesskey "v">
-

@@ -1,14 +1,10 @@
-<!-- Note: due to bug 143065, the only remainaing accesskeys available to be
-      used in this file are: "j" and "q" -->
+<!-- Note: each tab panel must contain unique accesskeys -->
 
-<!ENTITY generalTab.label               "General">
+<!ENTITY generalTab.label                "General">
 
-<!ENTITY accessibility.label "Accessibilitat">
+<!ENTITY accessibility.label             "Accessibilitat">
 
-<!-- Note: due to bug 143065, the only remaining accesskeys available to be used
-     in the Advanced pane are: "b", "j", "o", "q", "z" -->
-
-<!ENTITY useCursorNavigation.label       "Utilitza sempre les tecles de cursor per a navegar en les pàgines">
+<!ENTITY useCursorNavigation.label       "Utilitza sempre les tecles de cursor per navegar en les pàgines">
 <!ENTITY useCursorNavigation.accesskey   "c">
 <!ENTITY searchStartTyping.label         "Cerca un text quan comenci a teclejar">
 <!ENTITY searchStartTyping.accesskey     "r">
@@ -26,13 +22,12 @@
 <!ENTITY checkSpelling.label             "Comprova l'ortografia mentre escric">
 <!ENTITY checkSpelling.accesskey         "v">
 
-<!ENTITY systemDefaults.label  "Paràmetres predeterminats del sistema">
-
-<!ENTITY alwaysCheckDefault.label      "A l'inici comprova sempre si el &brandShortName; és el navegador per defecte"><!--XXX-->
-<!ENTITY alwaysCheckDefault.accesskey  "t">
-
-<!ENTITY checkNow.label             "Comprova-ho ara">
-<!ENTITY checkNow.accesskey         "h">
+<!ENTITY systemDefaults.label            "Paràmetres predeterminats del sistema">
+<!--XXX-->
+<!ENTITY alwaysCheckDefault.label        "A l'inici, comprova sempre si el &brandShortName; és el navegador per defecte">
+<!ENTITY alwaysCheckDefault.accesskey    "t">
+<!ENTITY checkNow.label                  "Comprova-ho ara">
+<!ENTITY checkNow.accesskey              "h">
 <!ENTITY submitCrashes.label             "Tramet informes d'error">
 <!ENTITY submitCrashes.accesskey         "s">
 <!ENTITY submitTelemetry.label           "Tramet informació del rendiment">
@@ -46,14 +41,14 @@
 <!ENTITY connectionSettings.label        "Paràmetres…">
 <!ENTITY connectionSettings.accesskey    "e">
 
-<!ENTITY offlineStorage.label            "Emmagatzemament fora de línia">
-
+<!ENTITY offlineStorage.label            "Emmagatzematge fora de línia">
 <!-- LOCALIZATION NOTE:
   The entities limitCacheSizeBefore.label and limitCacheSizeAfter.label appear on a single
   line in preferences as follows:
 
   &limitCacheSizeBefore.label [textbox for cache size in MB] &limitCacheSizeAfter.label;
 -->
+
 <!ENTITY limitCacheSizeBefore.label      "Limita la memòria cau a">
 <!ENTITY limitCacheSizeBefore.accesskey  "L">
 <!ENTITY limitCacheSizeAfter.label       "MB d'espai">
@@ -74,7 +69,7 @@
 <!ENTITY whenUpdatesFound.label          "Quan es trobin actualitzacions del &brandShortName;:">
 <!ENTITY askMe.label                     "Demana'm què vull fer">
 <!ENTITY askMe.accesskey                 "D">
-<!ENTITY modeAutomatic.label             "Baixa-les automàticament i instaŀla-les">
+<!ENTITY modeAutomatic.label             "Baixa-les automàticament i instal·la-les">
 <!ENTITY modeAutomatic.accesskey         "B">
 <!ENTITY modeAutoAddonWarn.label         "Avisa'm si s'inhabilitaran alguns dels meus complements">
 <!ENTITY modeAutoAddonWarn.accesskey     "v">
@@ -113,4 +108,3 @@
 <!ENTITY verify2.accesskey               "i">
 <!ENTITY viewSecurityDevices.label       "Dispositius de seguretat">
 <!ENTITY viewSecurityDevices.accesskey   "D">
-

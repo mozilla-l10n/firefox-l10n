@@ -2,10 +2,10 @@
 
 <!ENTITY sites.search                    "Cerca llocs">
 <!ENTITY sites.allSites                  "Tots els llocs">
-
 <!-- LOCALIZATION NOTE (permissions.header.start, permissions.header.end): These strings
      surround the host name of the site to make the header for the permissions page.
      example: "Permissions for mozilla.org" -->
+
 <!ENTITY header.site.start               "Permisos de">
 <!ENTITY header.site.end                 "">
 
@@ -22,14 +22,14 @@
 <!ENTITY password.manage                 "Gestiona les contrasenyes…">
 
 <!ENTITY cookie.label                    "Defineix les galetes">
-<!ENTITY cookie.remove                    "Suprimeix les galetes">
+<!ENTITY cookie.remove                   "Suprimeix les galetes">
 <!ENTITY cookie.manage                   "Gestiona les galetes…">
-<!ENTITY cookie.removeAll                 "Suprimeix totes les galetes">
+<!ENTITY cookie.removeAll                "Suprimeix totes les galetes">
 
 <!ENTITY geo.label                       "Comparteix la ubicació">
-
 <!-- LOCALIZATION NOTE (indexedDB.label): This is describing indexedDB storage
      using the same language used for the permIndexedDB string in browser/pageInfo.dtd -->
-<!ENTITY indexedDB.label                 "Mantén emmagatzemament fora de línia">
+
+<!ENTITY indexedDB.label                 "Mantén emmagatzematge fora de línia">
 
 <!ENTITY popup.label                     "Obre finestres emergents">

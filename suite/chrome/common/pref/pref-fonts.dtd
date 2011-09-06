@@ -31,7 +31,7 @@
 <!ENTITY  font.langGroup.simpl-chinese            "Xinès simplificat">
 <!ENTITY  font.langGroup.trad-chinese-hk          "Xinès tradicional (Hong Kong)">
 <!ENTITY  font.langGroup.korean                   "Coreà">
-<!ENTITY  font.langGroup.cyrillic                 "Ciríŀlic">
+<!ENTITY  font.langGroup.cyrillic                 "Ciríl·lic">
 <!ENTITY  font.langGroup.baltic                   "Bàltic">
 <!ENTITY  font.langGroup.el                       "Grec">
 <!ENTITY  font.langGroup.turkish                  "Turc">

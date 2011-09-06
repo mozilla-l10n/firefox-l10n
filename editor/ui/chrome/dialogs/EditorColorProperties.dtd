@@ -34,11 +34,8 @@
    - the terms of any one of the MPL, the GPL or the LGPL.
    -
    - ***** END LICENSE BLOCK ***** -->
-
-<!-- Catalan Translation: Projecte Mozilla en català - Softcatalà - http://www.softcatala.org/projectes/mozilla/ -->
-
-
 <!-- Window title -->
+
 <!ENTITY windowTitle.label "Colors i fons de la pàgina">
 <!ENTITY pageColors.label "Colors de la pàgina">
 <!ENTITY defaultColorsRadio.label "Colors per defecte del lector (no defineixis els colors de la pàgina)">

@@ -16,7 +16,7 @@
 <!ENTITY copyAll.label         "Copia-ho tot">
 <!ENTITY copylink.label        "Copia l'enllaç">
 <!ENTITY paste.label           "Enganxa">
-<!ENTITY pasteAndGo.label      "Enganxa i vés-hi">
+<!ENTITY pasteAndGo.label      "Enganxa &amp; Vés">
 <!ENTITY delete.label          "Suprimeix">
 <!ENTITY selectAll.label       "Selecciona-ho tot">
 <!ENTITY noSuggestions.label   "(No hi ha suggeriments)">
@@ -47,16 +47,15 @@
 <!ENTITY addonEnable.label         "Habilita">
 <!ENTITY addonDisable.label        "Inhabilita">
 <!ENTITY addonInstall2.label       "Afegeix al &brandShortName;">
-<!ENTITY addonUninstall.label      "Desinstaŀla">
-<!ENTITY addonCancel.label         "Canceŀla">
+<!ENTITY addonUninstall.label      "Desinstal·la">
+<!ENTITY addonCancel.label         "Cancel·la">
 <!ENTITY addonShowPage.label       "Vés a la pàgina">
 
 <!ENTITY downloadsHeader.label     "Baixades">
-
 <!ENTITY downloadShowPage.label    "Vés a la pàgina">
 <!ENTITY downloadShow2.label       "Cerca">
 <!ENTITY downloadOpen2.label       "Obre">
-<!ENTITY downloadCancel.label      "Canceŀla">
+<!ENTITY downloadCancel.label      "Cancel·la">
 <!ENTITY downloadPause.label       "Posa en pausa">
 <!ENTITY downloadResume.label      "Reprèn">
 <!ENTITY downloadRetry.label       "Reintenta">
@@ -65,23 +64,20 @@
 <!ENTITY downloadFailed.label      "Ha fallat">
 
 <!ENTITY noResults.label           "No hi ha cap resultat">
-
 <!ENTITY allBookmarks.label        "Consulta totes les adreces d'interès">
 
 <!ENTITY bookmarkPopup.label       "Pàgina a les adreces d'interès">
 <!ENTITY bookmarkRemove.label      "Suprimeix">
 <!ENTITY bookmarkEdit.label        "Edita">
-<!ENTITY bookmarkShortcut.label    "Afegeix-ho a la pantalla d'inici">
+<!ENTITY bookmarkShortcut.label    "Afegeix a la finestra principal">
 
 <!ENTITY identity.unverifiedsite2 "El lloc web no proporciona informació d'identitat.">
 <!ENTITY identity.connectedTo2 "Connectat a">
-
 <!-- Localization note (identity.runBy2)
  The layout of the identity dialog prevents combining this into a single string with
  substitution variables.  If it is difficult to translate the sense of the string
  with that structure, consider a translation which ignores the preceding domain and
  just addresses the organization to follow, e.g. "This site is run by " -->
-
 <!ENTITY identity.runBy2 "funciona amb">
 
 <!ENTITY consoleHeader.label       "Consola d'errors">
@@ -91,14 +87,14 @@
 <!ENTITY consoleMessages.label     "Missatges">
 <!ENTITY consoleCodeEval.label     "Codi:">
 <!ENTITY consoleClear.label        "Esborra">
-<!ENTITY consoleEvaluate.label     "Avalua">
+<!ENTITY consoleEvaluate.label     "…">
 <!ENTITY consoleErrFile.label      "Fitxer font:">
 <!ENTITY consoleErrLine.label      "Línia:">
 <!ENTITY consoleErrColumn.label    "Columna:">
 
-<!ENTITY contextOpenInNewTab.label "Obre en una pestanya nova">
+<!ENTITY contextOpenInNewTab.label    "Obre en una pestanya nova">
 <!ENTITY contextSaveLink.label        "Desa l'enllaç">
-<!ENTITY contextSaveImage.label    "Desa la imatge">
+<!ENTITY contextSaveImage.label       "Desa la imatge">
 <!ENTITY contextCopyLink.label        "Copia l'enllaç">
 <!ENTITY contextShareLink.label       "Comparteix l'enllaç">
 <!ENTITY contextShareImage.label      "Comparteix la imatge">
@@ -110,17 +106,16 @@
 <!ENTITY contextFullScreen.label      "Pantalla completa">
 <!ENTITY contextEditBookmark.label    "Edita">
 <!ENTITY contextRemoveBookmark.label  "Suprimeix">
-<!ENTITY contextShortcutBookmark.label "Afegeix-ho a la pantalla d'inici">
+<!ENTITY contextShortcutBookmark.label "Afegeix a la finestra principal">
 
-<!ENTITY pageactions.quit            "Surt">
 <!ENTITY pageactions.saveas.pdf      "Desa com a PDF">
 <!ENTITY pageactions.share.page      "Comparteix la pàgina">
 <!ENTITY pageactions.password.forget "Oblida la contrasenya">
+<!ENTITY pageactions.quit            "Surt">
 <!ENTITY pageactions.reset           "Neteja les preferències del lloc">
 <!ENTITY pageactions.findInPage      "Cerca a la pàgina">
 <!ENTITY pageactions.search.addNew   "Afegeix el motor de cerca">
 <!ENTITY pageactions.charEncoding    "Codificació de caràcters">
-<!ENTITY pageactions.webapps.install "Instaŀla-ho com a aplicació">
+<!ENTITY pageactions.webapps.install "Instal·la com a aplicació">
 
 <!ENTITY appMenu.siteOptions         "Opcions del lloc">
-

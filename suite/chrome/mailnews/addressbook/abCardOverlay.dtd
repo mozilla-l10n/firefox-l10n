@@ -155,7 +155,7 @@ de contingut incrustat en els missatges HTML d'aquest contacte.">
 <!ENTITY Custom3.accesskey              "3">
 <!ENTITY Custom4.label                  "Personalitzat 4:">
 <!ENTITY Custom4.accesskey              "4">
-<!ENTITY Notes.label                    "Anotacions">
+<!ENTITY Notes.label                    "Anotacions:">
 <!ENTITY Notes.accesskey                "n">
 
 <!ENTITY Photo.tab                      "Fotografia">

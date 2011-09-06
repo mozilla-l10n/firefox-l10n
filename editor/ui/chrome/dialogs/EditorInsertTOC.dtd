@@ -35,18 +35,15 @@
    -
    - ***** END LICENSE BLOCK ***** -->
 
-<!-- Catalan Translation: Projecte Mozilla en català - Softcatalà - http://www.softcatala.org/projectes/mozilla/ -->
-
-
-<!ENTITY Window.title "Taula de continguts">
-<!ENTITY buildToc.label "Construeix la taula de continguts a partir de:">
-<!ENTITY tag.label "Etiqueta:">
-<!ENTITY class.label "Classe:">
-<!ENTITY header1.label "Nivell 1">
-<!ENTITY header2.label "Nivell 2">
-<!ENTITY header3.label "Nivell 3">
-<!ENTITY header4.label "Nivell 4">
-<!ENTITY header5.label "Nivell 5">
-<!ENTITY header6.label "Nivell 6">
-<!ENTITY makeReadOnly.label "Fes que la taula de continguts sigui només de lectura">
-<!ENTITY orderedList.label "Numera totes les entrades de la taula de continguts">
+<!ENTITY Window.title        "Taula de continguts">
+<!ENTITY buildToc.label      "Construeix la taula de continguts a partir de:">
+<!ENTITY tag.label           "Etiqueta:">
+<!ENTITY class.label         "Classe:">
+<!ENTITY header1.label       "Nivell 1">
+<!ENTITY header2.label       "Nivell 2">
+<!ENTITY header3.label       "Nivell 3">
+<!ENTITY header4.label       "Nivell 4">
+<!ENTITY header5.label       "Nivell 5">
+<!ENTITY header6.label       "Nivell 6">
+<!ENTITY makeReadOnly.label  "Fes que la taula de continguts sigui només de lectura">
+<!ENTITY orderedList.label   "Numera totes les entrades de la taula de continguts">

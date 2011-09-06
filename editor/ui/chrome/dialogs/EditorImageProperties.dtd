@@ -34,18 +34,15 @@
    - the terms of any one of the MPL, the GPL or the LGPL.
    -
    - ***** END LICENSE BLOCK ***** -->
-
-<!-- Catalan Translation: Projecte Mozilla en català - Softcatalà - http://www.softcatala.org/projectes/mozilla/ -->
-
-
 <!-- These strings are for use specifically in the editor's image and form image dialogs. -->
-
 <!-- Window title -->
+
+
 <!ENTITY windowTitle.label "Propietats de la imatge">
 
 <!ENTITY pixelsPopup.value "píxels">
-
 <!-- These are in the Location tab panel -->
+
 <!ENTITY locationEditField.label "URL de la imatge:">
 <!ENTITY locationEditField.accessKey "U">
 <!ENTITY locationEditField.tooltip "Escriviu el nom o la ubicació de la imatge">
@@ -59,9 +56,9 @@
 <!ENTITY noAltText.accessKey "u">
 
 <!ENTITY previewBox.label "Previsualització de la imatge">
-
 <!-- These controls are in the Dimensions tab panel -->
 <!-- actualSize.label should be same as actualSizeRadio.label + ":" -->
+
 <!ENTITY actualSize.label "Mida real:">
 <!ENTITY actualSizeRadio.label "Mida real">
 <!ENTITY actualSizeRadio.accessKey "M">
@@ -76,23 +73,23 @@
 <!ENTITY constrainCheckbox.label "Restringeix">
 <!ENTITY constrainCheckbox.accessKey "g">
 <!ENTITY constrainCheckbox.tooltip "Conserva la ràtio d'aspecte de la imatge">
-
 <!-- These controls are in the Image Map box of the expanded area -->
+
 <!ENTITY imagemapBox.label "Mapa de la imatge">
 <!ENTITY removeImageMapButton.label "Suprimeix">
 <!ENTITY removeImageMapButton.accessKey "r">
 <!ENTITY editImageMapButton.label "Edita…">
 <!ENTITY editImageMapButton.tooltip "Crea punts clicables en aquesta imatge">
-
 <!-- These are the options for image alignment -->
+
 <!ENTITY alignment.label "Alinea el text a la imatge">
 <!ENTITY bottomPopup.value "A la part inferior">
 <!ENTITY topPopup.value "A la part superior">
 <!ENTITY centerPopup.value "Al centre">
 <!ENTITY wrapRightPopup.value "Ajusta a la dreta">
 <!ENTITY wrapLeftPopup.value "Ajusta a l'esquerra">
-
 <!-- These controls are in the Spacing Box -->
+
 <!ENTITY spacingBox.label "Espaiat">
 <!ENTITY leftRightEditField.label "Esquerra i dreta:">
 <!ENTITY leftRightEditField.accessKey "r">
@@ -100,12 +97,12 @@
 <!ENTITY topBottomEditField.accessKey "s">
 <!ENTITY borderEditField.label "Contorn sòlid:">
 <!ENTITY borderEditField.accessKey "o">
-
 <!-- These controls are in the Link Box -->
+
 <!ENTITY showImageLinkBorder.label "Mostra el contorn al voltant de la imatge enllaçada">
 <!ENTITY showImageLinkBorder.accessKey "c">
-
 <!-- These tabs are currently used in the image input dialog -->
+
 <!ENTITY imageInputTab.label "Formulari">
 <!ENTITY imageLocationTab.label "Ubicació">
 <!ENTITY imageDimensionsTab.label "Dimensions">

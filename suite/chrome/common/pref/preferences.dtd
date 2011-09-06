@@ -28,7 +28,7 @@
 <!ENTITY cache.label "Memòria cau">
 <!ENTITY proxies.label "Servidors intermediaris">
 <!ENTITY httpnetworking.label "Xarxa HTTP">
-<!ENTITY smart.label "Instaŀlació de programari">
+<!ENTITY smart.label "Instal·lació de programari">
 <!ENTITY download.label "Baixades">
 <!ENTITY keynav.label "Navegació amb teclat">
 <!ENTITY findAsYouType.label "Cerca a mesura que s'escriu">

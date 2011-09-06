@@ -1,6 +1,6 @@
 <!ENTITY identitiesListDesc.label "Suport per a múltiples identitats">
-<!ENTITY identitiesListAdd.label "Afegeix…">
-<!ENTITY identitiesListAdd.accesskey "A">
+<!ENTITY identitiesListAdd.label  "Afegeix…">
+<!ENTITY identitiesListAdd.accesskey  "A">
 <!ENTITY identitiesListEdit.label "Edita…">
 <!ENTITY identitiesListEdit.accesskey "E">
 <!ENTITY identitiesListDelete.label "Suprimeix">

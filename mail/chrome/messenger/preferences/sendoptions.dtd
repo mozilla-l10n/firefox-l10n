@@ -8,7 +8,7 @@
 <!ENTITY sendHTML.label               "Envia el missatge en HTML igualment">
 <!ENTITY sendHTML.accesskey           "H">
 <!ENTITY sendBoth.label               "Envia el missatge tant en text net com en HTML">
-<!ENTITY sendBoth.accesskey           "e">
+<!ENTITY sendBoth.accesskey           "E">
 <!ENTITY override.label               "Nota: Utilitzeu la llibreta d'adreces per especificar els formats de text preferits dels destinataris.">
 
 <!ENTITY domaindesc.label             "Quan envieu un missatge a una adreça amb un dels dominis indicats més avall, el &brandShortName; enviarà el missatge automàticament en el format correcte.">
@@ -16,17 +16,16 @@
 <!ENTITY HTMLTab.accesskey            "H">
 <!ENTITY PlainTextTab.label           "Dominis de text net">
 <!ENTITY PlainTextTab.accesskey       "t">
-<!ENTITY AddHtmlDomain.label              "Afegeix…">
+<!ENTITY AddHtmlDomain.label          "Afegeix…">
 <!ENTITY AddHtmlDomain.accesskey      "A">
 <!ENTITY AddPlainText.label           "Afegeix…">
 <!ENTITY AddPlainText.accesskey       "A">
-<!ENTITY DeleteHtmlDomain.label           "Suprimeix">
+<!ENTITY DeleteHtmlDomain.label       "Suprimeix">
 <!ENTITY DeleteHtmlDomain.accesskey   "u">
-<!ENTITY DeletePlainText.label           "Suprimeix">
+<!ENTITY DeletePlainText.label        "Suprimeix">
 <!ENTITY DeletePlainText.accesskey    "u">
 
 <!ENTITY add.htmltitle                "Afegeix un nom de domini d'HTML">
 <!ENTITY add.htmldomain               "Nom del domini d'HTML:">
 <!ENTITY add.plaintexttitle           "Afegeix un nom de domini de text net">
 <!ENTITY add.plaintextdomain          "Nom del domini de text net:">
-

@@ -58,7 +58,7 @@
 <!ENTITY warn.viewmixed                     "Visualitzar una pàgina que conté tant contingut xifrat com sense xifrar">
 <!ENTITY warn.viewmixed.accesskey           "V">
 
-<!ENTITY certselect.description             "Decideix com el &brandShortName; selecciona un certificat de seguretat per a presentar als llocs web que en requereixin:">
+<!ENTITY certselect.description             "Decideix com el &brandShortName; selecciona un certificat de seguretat per presentar als llocs web que en requereixin:">
 <!ENTITY certselect.auto                    "Seleccioneu-ho automàticament">
 <!ENTITY certselect.auto.accesskey          "a">
 <!ENTITY certselect.ask                     "Demana-m'ho cada vegada">

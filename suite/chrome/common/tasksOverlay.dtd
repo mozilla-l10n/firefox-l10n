@@ -1,6 +1,6 @@
 <!-- extracted from tasksOverlay.xul -->
-<!ENTITY navigatorCmd.label "n">
-<!ENTITY navigatorCmd.accesskey "B">
+<!ENTITY navigatorCmd.label "Navegador">
+<!ENTITY navigatorCmd.accesskey "v">
 <!ENTITY navigatorCmd.commandkey "1">
 <!-- LOCALIZATION NOTE (editorCmd.label): DONT_TRANSLATE -->
 <!ENTITY editorCmd.label     "Composer">

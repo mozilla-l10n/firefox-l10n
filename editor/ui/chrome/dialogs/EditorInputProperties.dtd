@@ -34,9 +34,6 @@
    -
    - ***** END LICENSE BLOCK ***** -->
 
-<!-- Catalan Translation: Projecte Mozilla en català - Softcatalà - http://www.softcatala.org/projectes/mozilla/ -->
-
-
 <!ENTITY windowTitle.label "Propietats del camp del formulari">
 <!ENTITY windowTitleImage.label "Propietats de la imatge del formulari">
 
@@ -44,8 +41,8 @@
 <!ENTITY InputType.accesskey "T">
 <!ENTITY text.value "Text">
 <!ENTITY password.value "Contrasenya:">
-<!ENTITY checkbox.value "Quadre de verificació">
-<!ENTITY radio.value "Botó de ràdio">
+<!ENTITY checkbox.value "Casella de selecció">
+<!ENTITY radio.value "Botó d'opció">
 <!ENTITY submit.value "Botó de tramesa">
 <!ENTITY reset.value "Botó Reinicia">
 <!ENTITY file.value "Fitxer">

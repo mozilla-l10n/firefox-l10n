@@ -1,7 +1,5 @@
-<!ENTITY creator.label "Creat per:">
+<!ENTITY  creator.label               "Creat per:">
 <!ENTITY  developers.label            "Desenvolupadors:">
 <!ENTITY  translators.label           "Traductors:">
-<!ENTITY contributors.label "Coŀlaboradors:">
-<!ENTITY homepage.label "Visiteu la pàgina d'inici">
-
-
+<!ENTITY  contributors.label          "Col·laboradors:">
+<!ENTITY  homepage.label              "Visiteu la pàgina d'inici">

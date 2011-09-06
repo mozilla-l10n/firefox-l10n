@@ -3,20 +3,29 @@
 <!ENTITY itemUpdate.label        "Actualització">
 <!ENTITY itemNetworking.label    "Xarxa i espai de disc">
 <!ENTITY itemCertificates.label  "Certificats">
-
 <!-- General Settings -->
+
 
 <!ENTITY enableGlodaSearch.label       "Habilita el cercador i indexador de missatges">
 <!ENTITY enableGlodaSearch.accesskey   "i">
 <!ENTITY systemIntegration.label       "Integració amb el sistema">
-<!ENTITY alwaysCheckDefault.label          "Comprova si el &brandShortName; és el client de correu per defecte">
-<!ENTITY alwaysCheckDefault.accesskey      "l">
+<!ENTITY alwaysCheckDefault.label      "A l'inici, comprova sempre si el &brandShortName; és el client de correu per defecte">
+<!ENTITY alwaysCheckDefault.accesskey  "l">
 <!ENTITY searchIntegration.label       "Permet al &searchIntegration.engineName; que cerqui missatges">
 <!ENTITY searchIntegration.accesskey   "c">
-<!ENTITY checkNow.label             "Comprova-ho ara">
-<!ENTITY checkNow.accesskey         "h">
+<!ENTITY checkNow.label                "Comprova-ho ara">
+<!ENTITY checkNow.accesskey            "h">
+<!ENTITY configEditDesc.label          "Configuració avançada">
+<!ENTITY configEdit.label              "Editor de la configuració…">
+<!ENTITY configEdit.accesskey          "c">
+<!ENTITY returnReceiptsInfo.label      "Determina com el &brandShortName; gestiona les confirmacions de recepció">
+<!ENTITY showReturnReceipts.label      "Confirmacions de recepció…">
+<!ENTITY showReturnReceipts.accesskey  "r">
+<!-- Display and Reading Settings -->
 
-<!ENTITY showCondensedAddresses.label "Ensenya només el nom a mostrar de la gent que estigui a la meva llibreta d'adreces">
+<!ENTITY reading.caption               "Lectura">
+<!ENTITY display.caption               "Visualització">
+<!ENTITY showCondensedAddresses.label  "Ensenya només el nom a mostrar de la gent que estigui a la meva llibreta d'adreces">
 <!ENTITY showCondensedAddresses.accesskey "n">
 
 <!ENTITY autoMarkAsRead.label          "Marca els missatges com a llegits automàticament">
@@ -38,36 +47,24 @@
 <!ENTITY reuseExpRadio1.accesskey      "j">
 <!ENTITY closeMsgOnMoveOrDelete.label  "Tanca la finestra o la pestanya de missatges quan es suprimeixi o es mogui">
 <!ENTITY closeMsgOnMoveOrDelete.accesskey "T">
-
-
-<!ENTITY configEditDesc.label          "Configuració avançada">
-<!ENTITY configEdit.label              "Editor de la configuració…">
-<!ENTITY configEdit.accesskey          "c">
-<!ENTITY returnReceiptsInfo.label      "Determina com el &brandShortName; gestiona les confirmacions de recepció">
-<!ENTITY showReturnReceipts.label      "Confirmacions de recepció…">
-<!ENTITY showReturnReceipts.accesskey  "r">
-
-<!-- Display and Reading Settings -->
-<!ENTITY reading.caption                "Lectura">
-<!ENTITY display.caption                "Visualització">
-
 <!-- Update -->
+
 <!ENTITY autoCheck.label                "Comprova automàticament si hi ha actualitzacions del:">
 <!ENTITY enableAppUpdate.label          "&brandShortName;">
 <!ENTITY enableAppUpdate.accesskey      "T">
-<!ENTITY enableAddonsUpdate.label       "Complements instaŀlats">
+<!ENTITY enableAddonsUpdate.label       "Complements instal·lats">
 <!ENTITY enableAddonsUpdate.accesskey   "m">
 <!ENTITY whenUpdatesFound.label         "Quan es trobin actualitzacions del &brandShortName;,">
 <!ENTITY modeAskMe.label                "Demana'm què vull fer">
 <!ENTITY modeAskMe.accesskey            "D">
-<!ENTITY modeAutomatic.label            "Baixa i instaŀla automàticament l'actualització">
+<!ENTITY modeAutomatic.label            "Baixa i instal·la automàticament l'actualització">
 <!ENTITY modeAutomatic.accesskey        "B">
 <!ENTITY modeAutoAddonWarn.label        "Avisa'm si s'inhabilitaran alguns dels meus complements">
 <!ENTITY modeAutoAddonWarn.accesskey    "v">
 <!ENTITY showUpdates.label              "Mostra l'historial d'actualització">
 <!ENTITY showUpdates.accesskey          "u">
-
 <!-- Networking and Disk Space -->
+
 <!ENTITY showSettings.label            "Paràmetres…">
 <!ENTITY showSettings.accesskey        "m">
 <!ENTITY proxiesConfigure.label        "Configura com es connecta el &brandShortName; a Internet">
@@ -81,20 +78,20 @@
 <!ENTITY offlineCompact.label "Compacta les carpetes quan l'estalvi sigui superior a">
 <!ENTITY offlineCompact.accesskey "C">
 <!ENTITY mb.label "Mb">
-
 <!-- LOCALIZATION NOTE:
   The entities useCacheBefore.label and useCacheAfter.label appear on a single
   line in preferences as follows:
 
   &useCacheBefore.label  [ textbox for cache size in MB ]   &useCacheAfter.label;
 -->
+
 <!ENTITY useCacheBefore.label            "Utilitza fins a">
 <!ENTITY useCacheBefore.accesskey        "U">
 <!ENTITY useCacheAfter.label             "MB d'espai de disc per a la memòria cau">
 <!ENTITY clearCacheNow.label             "Neteja-la ara">
 <!ENTITY clearCacheNow.accesskey         "N">
-
 <!-- Certificates -->
+
 <!ENTITY certSelection.description       "Quan un servidor demani el meu certificat personal:">
 <!ENTITY certs.auto                      "Selecciona'n un automàticament">
 <!ENTITY certs.auto.accesskey            "a">
@@ -109,4 +106,3 @@
 <!ENTITY validation.accesskey           "d">
 <!ENTITY viewSecurityDevices.label      "Dispositius de seguretat">
 <!ENTITY viewSecurityDevices.accesskey  "u">
-

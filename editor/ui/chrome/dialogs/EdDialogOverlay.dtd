@@ -35,20 +35,17 @@
    -
    - ***** END LICENSE BLOCK ***** -->
 
-<!-- Catalan Translation: Projecte Mozilla en català - Softcatalà - http://www.softcatala.org/projectes/mozilla/ -->
-
-
 <!ENTITY AdvancedEditButton.label "Edició avançada…">
 <!ENTITY AdvancedEditButton.accessKey "E">
 <!ENTITY AdvancedEditButton.tooltip "Afegeix o modifica els atributs HTML, els atributs d'estil i el JavaScript">
 <!ENTITY chooseFileButton.label "Trieu un fitxer…">
-<!ENTITY chooseFileButton.accessKey "F">
+<!ENTITY chooseFileButton.accessKey "f">
 <!ENTITY chooseFileLinkButton.label "Trieu un fitxer…">
 <!ENTITY chooseFileLinkButton.accessKey "r">
 <!ENTITY makeUrlRelative.label "L'URL és relatiu a la ubicació de la pàgina">
-<!ENTITY makeUrlRelative.accessKey "r">
+<!ENTITY makeUrlRelative.accessKey "R">
 <!ENTITY makeUrlRelative.tooltip "Canvia entre URL relatiu i absolut. Per canviar-ho, cal que deseu primer la pàgina.">
-
 <!-- Shared by Link and Image dialogs -->
+
 <!ENTITY LinkURLEditField.label "Introduïu la ubicació d'una pàgina web, un fitxer local, o seleccioneu un objectiu amb nom o capçalera de la llista emergent:">
 <!ENTITY LinkURLEditField.accessKey "u">

@@ -34,11 +34,8 @@
    - the terms of any one of the MPL, the GPL or the LGPL.
    -
    - ***** END LICENSE BLOCK ***** -->
-
-<!-- Catalan Translation: Projecte Mozilla en català - Softcatalà - http://www.softcatala.org/projectes/mozilla/ -->
-
-
 <!-- Window title -->
+
 <!ENTITY windowTitle.label "Insereix HTML">
 <!ENTITY sourceEditField.label "Introduïu etiquetes HTML i text:">
 <!ENTITY example.label "Exemple:">

@@ -34,7 +34,4 @@
  the terms of any one of the MPL, the GPL or the LGPL.
 
  ***** END LICENSE BLOCK ***** -->
-
-<!-- Catalan Translation: Projecte Mozilla en català - Softcatalà - http://www.softcatala.org/projectes/mozilla/ -->
-
-<!ENTITY dirTreeHeader.label "Llibretes d'adreces">
+<!ENTITY dirTreeHeader.label               "Llibretes d'adreces">

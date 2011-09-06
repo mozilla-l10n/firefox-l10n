@@ -51,21 +51,21 @@
 <!ENTITY  window.width            "45em">
 <!ENTITY  window.macWidth         "50em">
 
-<!ENTITY importTitle.label        "Auxiliar d'importació de correu del &brandShortName;">
-<!ENTITY importShortDesc.label    "Importa el correu i les llibretes d'adreces d'altres programes">
+<!ENTITY importTitle.label        "Auxiliar d'importació del &brandShortName;">
+<!ENTITY importShortDesc.label    "Importa correu, llibretes d'adreces, paràmetres i filtres d'altres programes">
 
-<!ENTITY importDescription1.label "Amb aquest assistent podreu importar missatges de correu, entrades de llibreta d'adreces i/o preferències d'altres programes de correu i formats habituals de llibretes d'adreces cap a la Missatgeria del &brandShortName;.">
-<!ENTITY importDescription2.label "Una vegada s'hagin importat, hi podreu accedir des de la Missatgeria i/o la llibreta d'adreces del &brandShortName;">
+<!ENTITY importDescription1.label "Aquest auxiliar importarà missatges de correu, entrades de llibreta d'adreces, preferències i/o filtres d'altres programes de correu i formats habituals de llibretes d'adreces cap al &brandShortName;.">
+<!ENTITY importDescription2.label "Una vegada s'hagin importat, hi podreu accedir des del &brandShortName;">
 
-<!ENTITY selectDescription.label  "Seleccioneu el tipus de fitxer que voldríeu importar:">
+<!ENTITY selectDescription.label  "Seleccioneu el tipus de fitxer que voleu importar:">
 <!ENTITY selectDescription.accesskey "S">
 
 <!ENTITY back.label               "&lt; Enrere">
 <!ENTITY forward.label            "Endavant &gt;">
 <!ENTITY finish.label             "Finalitza">
-<!ENTITY cancel.label             "Canceŀla">
+<!ENTITY cancel.label             "Cancel·la">
 
-<!ENTITY select.label             "Seleccioneu el tipus de material a importar:">
+<!ENTITY select.label             "O bé, seleccioneu quin tipus d'informació voleu importar:">
 
 <!ENTITY title.label              "Títol">
 <!ENTITY processing.label         "S'està important…">

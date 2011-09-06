@@ -6,6 +6,6 @@
 <!ENTITY feedback.feedback.bad          "Dolenta">
 
 <!ENTITY feedback.tools.title           "Eines">
-<!ENTITY feedback.allowTelemetry.title  "Envia informació del rendiment">
+<!ENTITY feedback.allowTelemetry.title  "Envia les dades de rendiment">
 <!ENTITY feedback.forceCompat.title     "Força la compatibilitat de complements">
 <!ENTITY feedback.errorConsole.title    "Habilita la consola d'errors">

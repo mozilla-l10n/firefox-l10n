@@ -39,13 +39,10 @@
    - the terms of any one of the MPL, the GPL or the LGPL.
    -
    - ***** END LICENSE BLOCK ***** -->
-
-<!-- Catalan Translation: Projecte Mozilla en català - Softcatalà - http://www.softcatala.org/projectes/mozilla/ -->
-
-
 <!-- Attn: Localization - some of the menus in this dialog directly affect mail also. -->
-
 <!-- File menu items -->
+
+
 <!ENTITY fileMenu.label "Fitxer">
 <!ENTITY fileMenu.accesskey "F">
 <!ENTITY openFileCmd.label "Obre el fitxer…">
@@ -62,7 +59,7 @@
 <!ENTITY saveCmd.accesskey "s">
 <!ENTITY saveCmd.key "s">
 <!ENTITY saveAsCmd.label "Anomena i desa…">
-<!ENTITY saveAsCmd.accesskey "a">
+<!ENTITY saveAsCmd.accesskey "A">
 
 <!ENTITY publishCmd.label "Publica">
 <!ENTITY publishCmd.accesskey "P">
@@ -76,11 +73,8 @@
 <!ENTITY printCmd.label "Imprimeix…">
 <!ENTITY printCmd.accesskey "p">
 <!ENTITY printCmd.key "p">
-<!ENTITY closeCmd.label "Tanca">
-<!ENTITY closeCmd.accesskey "c">
-<!ENTITY closeCmd.key "W">
-
 <!-- Edit menu items -->
+
 <!ENTITY editMenu.label "Edita">
 <!ENTITY editMenu.accesskey "E">
 <!ENTITY pasteNoFormatting.label "Enganxa sense formatar">
@@ -94,24 +88,13 @@
 <!ENTITY pasteAsQuotationCmd.accesskey "g">
 <!ENTITY pasteAsQuotationCmd.key "o">
 <!ENTITY findCmd.label "Cerca i reemplaça…">
-<!ENTITY findCmd.accesskey "r">
-<!ENTITY findCmd.key "F">
-<!ENTITY findCmd.key2 "VK_F19">
-<!ENTITY findAgainCmd.label "Torna a cercar">
-<!ENTITY findAgainCmd.accesskey "o">
-<!ENTITY findAgainCmd.key "G">
-<!ENTITY findAgainCmd.key2 "VK_F3">
-<!ENTITY findPrevCmd.label "Cerca l'anterior">
-<!ENTITY findPrevCmd.accesskey "n">
-<!ENTITY findPrevCmd.key "G">
-<!ENTITY findPrevCmd.key2 "VK_F3">
 <!ENTITY enableInlineSpellChecker.label "Revisa l'ortografia mentre s'escriu">
 <!ENTITY enableInlineSpellChecker.accesskey "s">
 <!ENTITY checkSpellingCmd2.label "Revisa l'ortografia">
 <!ENTITY checkSpellingCmd2.accesskey "o">
 <!ENTITY checkSpellingCmd2.key "K">
-
 <!-- Insert menu items -->
+
 <!ENTITY insertMenu.label "Insereix">
 <!ENTITY insertMenu.accesskey "I">
 <!ENTITY insertLinkCmd.label "Enllaç…">
@@ -131,8 +114,8 @@
 <!ENTITY insertCharsCmd.accesskey "C">
 <!ENTITY insertBreakAllCmd.label "Salt sota les imatges">
 <!ENTITY insertBreakAllCmd.accesskey "g">
-
 <!-- Used just in context popup. -->
+
 <!ENTITY spellCheckNoSuggestions.label "(No s'ha trobat cap suggeriment)">
 <!ENTITY spellCheckIgnoreWord.label "Ignora el mot">
 <!ENTITY spellCheckIgnoreWord.accesskey "I">
@@ -140,27 +123,10 @@
 <!ENTITY spellCheckAddToDictionary.accesskey "n">
 <!ENTITY createLinkCmd.label "Crea un enllaç…">
 <!ENTITY createLinkCmd.accesskey "l">
-<!ENTITY editLinkCmd.label "Edita l'enllaç en el Redactor nou">
+<!ENTITY editLinkCmd.label "Edita l'enllaç en una pàgina del redactor">
 <!ENTITY editLinkCmd.accesskey "i">
-<!-- (Toplevel Edit menu uses utilityOverlay) -->
-<!ENTITY undoCmd.label "Desfés">
-<!ENTITY undoCmd.accesskey "D">
-<!ENTITY redoCmd.label "Refés">
-<!ENTITY redoCmd.accesskey "R">
-<!ENTITY cutCmd.label "Retalla">
-<!ENTITY cutCmd.accesskey "t">
-<!ENTITY copyCmd.label "Copia">
-<!ENTITY copyCmd.accesskey "C">
-<!ENTITY pasteCmd.label "Enganxa">
-<!ENTITY pasteCmd.accesskey "x">
-<!ENTITY deleteCmd.label "Suprimeix">
-<!ENTITY deleteCmd.accesskey "u">
-<!ENTITY clearCmd.label "Neteja">
-<!ENTITY clearCmd.accesskey "j">
-<!ENTITY selectAllCmd.label "Selecciona-ho tot">
-<!ENTITY selectAllCmd.accesskey "a">
-
 <!-- Font Face SubMenu -->
+
 <!ENTITY FontFaceSelect.tooltip "Trieu un tipus de lletra">
 <!ENTITY fontfaceMenu.label "Tipus de lletra">
 <!ENTITY fontfaceMenu.accesskey "T">
@@ -175,8 +141,8 @@
 <!ENTITY fontTimes.accesskey "T">
 <!ENTITY fontCourier.label "Courier">
 <!ENTITY fontCourier.accesskey "C">
-
 <!-- Font Size SubMenu -->
+
 <!ENTITY FontSizeSelect.tooltip "Trieu una mida de lletra">
 <!ENTITY decreaseFontSize.label "Més petita">
 <!ENTITY decreaseFontSize.accesskey "p">
@@ -184,6 +150,7 @@
 <!ENTITY increaseFontSize.label "Més gran">
 <!ENTITY increaseFontSize.accesskey "g">
 <!ENTITY increaseFontSize.key "+">
+<!-- + is above this key on many keyboards -->
 <!ENTITY increaseFontSize.key2 "=">
 
 <!ENTITY fontSizeMenu.label "Mida">
@@ -202,8 +169,8 @@
 <!ENTITY size-x-largeCmd.accesskey "r">
 <!ENTITY size-xx-largeCmd.label "xx-gran">
 <!ENTITY size-xx-largeCmd.accesskey "a">
-
 <!-- Font Style SubMenu -->
+
 <!ENTITY fontStyleMenu.label "Estil del text">
 <!ENTITY fontStyleMenu.accesskey "s">
 <!ENTITY styleBoldCmd.label "Negreta">
@@ -220,7 +187,7 @@
 <!ENTITY styleSuperscriptCmd.label "Superíndex">
 <!ENTITY styleSuperscriptCmd.accesskey "p">
 <!ENTITY styleSubscriptCmd.label "Subíndex">
-<!ENTITY styleSubscriptCmd.accesskey "s">
+<!ENTITY styleSubscriptCmd.accesskey "S">
 <!ENTITY styleNonbreakingCmd.label "Sense salt de línia">
 <!ENTITY styleNonbreakingCmd.accesskey "n">
 <!ENTITY styleEm.label "Èmfasi">
@@ -228,9 +195,9 @@
 <!ENTITY styleStrong.label "Èmfasi més fort">
 <!ENTITY styleStrong.accesskey "t">
 <!ENTITY styleCite.label "Citació">
-<!ENTITY styleCite.accesskey "c">
+<!ENTITY styleCite.accesskey "C">
 <!ENTITY styleAbbr.label "Abreviació">
-<!ENTITY styleAbbr.accesskey "a">
+<!ENTITY styleAbbr.accesskey "A">
 <!ENTITY styleAcronym.label "Acrònim">
 <!ENTITY styleAcronym.accesskey "r">
 <!ENTITY styleCode.label "Codi">
@@ -242,7 +209,7 @@
 
 <!ENTITY formatFontColor.label "Color del text…">
 <!ENTITY formatFontColor.accesskey "C">
-<!ENTITY tableOrCellColor.label "Color de fons de la taula o ceŀla…">
+<!ENTITY tableOrCellColor.label "Color de fons de la taula o cel·la…">
 <!ENTITY tableOrCellColor.accesskey "f">
 
 <!ENTITY formatRemoveStyles.key "Y">
@@ -268,13 +235,13 @@
 <!ENTITY heading6Cmd.label "Encapçalament 6">
 <!ENTITY heading6Cmd.accesskey "6">
 <!ENTITY paragraphAddressCmd.label "Adreça">
-<!ENTITY paragraphAddressCmd.accesskey "a">
-<!ENTITY paragraphPreformatCmd.label "Pre-format">
+<!ENTITY paragraphAddressCmd.accesskey "A">
+<!ENTITY paragraphPreformatCmd.label "Preformat">
 <!ENTITY paragraphPreformatCmd.accesskey "f">
-
 <!-- List menu items -->
+
 <!ENTITY formatlistMenu.label "Llista">
-<!ENTITY formatlistMenu.accesskey "l">
+<!ENTITY formatlistMenu.accesskey "L">
 <!ENTITY noneCmd.label "Cap">
 <!ENTITY noneCmd.accesskey "C">
 <!ENTITY listBulletCmd.label "Amb pics">
@@ -282,37 +249,37 @@
 <!ENTITY listNumberedCmd.label "Numerada">
 <!ENTITY listNumberedCmd.accesskey "m">
 <!ENTITY listTermCmd.label "Terme">
-<!ENTITY listTermCmd.accesskey "t">
+<!ENTITY listTermCmd.accesskey "T">
 <!ENTITY listDefinitionCmd.label "Definició">
-<!ENTITY listDefinitionCmd.accesskey "d">
+<!ENTITY listDefinitionCmd.accesskey "D">
 <!ENTITY listPropsCmd.label "Propietats de la llista…">
 <!ENTITY listPropsCmd.accesskey "l">
 
 <!ENTITY ParagraphSelect.tooltip "Trieu un format de paràgraf">
 <!-- Shared in Paragraph, and Toolbar menulist -->
 <!ENTITY bodyTextCmd.label "Text del cos">
-<!ENTITY bodyTextCmd.accesskey "t">
+<!ENTITY bodyTextCmd.accesskey "T">
 <!-- isn't used in menu now, but may be added in future -->
 <!ENTITY advancedPropertiesCmd.label "Propietats avançades">
 <!ENTITY advancedPropertiesCmd.accesskey "r">
-
 <!-- Align menu items -->
+
 <!ENTITY alignMenu.label "Alinea">
-<!ENTITY alignMenu.accesskey "a">
+<!ENTITY alignMenu.accesskey "A">
 <!ENTITY alignLeft.label "Esquerra">
 <!ENTITY alignLeft.accesskey "E">
 <!ENTITY alignLeft.tooltip "Alineació esquerra">
 <!ENTITY alignCenter.label "Centre">
-<!ENTITY alignCenter.accesskey "c">
+<!ENTITY alignCenter.accesskey "C">
 <!ENTITY alignCenter.tooltip "Alineació centrada">
 <!ENTITY alignRight.label "Dreta">
 <!ENTITY alignRight.accesskey "r">
 <!ENTITY alignRight.tooltip "Alineació dreta">
 <!ENTITY alignJustify.label "Justifica">
-<!ENTITY alignJustify.accesskey "j">
+<!ENTITY alignJustify.accesskey "J">
 <!ENTITY alignJustify.tooltip "Alineació justificada">
-
 <!-- Layer toolbar items -->
+
 <!ENTITY layer.tooltip "Capa">
 <!ENTITY layerSendToBack.tooltip "Torna enrere">
 <!ENTITY layerBringToFront.tooltip "Porta endavant">
@@ -326,13 +293,14 @@
 
 <!ENTITY colorsAndBackground.label "Colors i fons de la pàgina…">
 <!ENTITY colorsAndBackground.accesskey "o">
-
 <!-- Table Menu -->
+
 <!ENTITY tableMenu.label "Taula">
 <!ENTITY tableMenu.accesskey "u">
 <!-- Select Submenu -->
+
 <!ENTITY tableSelectMenu.label "Selecciona">
-<!ENTITY tableSelectMenu.accesskey "s">
+<!ENTITY tableSelectMenu.accesskey "S">
 
 <!ENTITY tableSelectMenu2.label "Selecció de la taula">
 <!ENTITY tableSelectMenu2.accesskey "S">
@@ -340,18 +308,17 @@
 <!ENTITY tableInsertMenu2.accesskey "I">
 <!ENTITY tableDeleteMenu2.label "Supressió de la taula">
 <!ENTITY tableDeleteMenu2.accesskey "u">
-
 <!-- Insert SubMenu -->
+
 <!ENTITY tableInsertMenu.label "Insereix">
-<!ENTITY tableInsertMenu.accesskey "i">
+<!ENTITY tableInsertMenu.accesskey "I">
 <!ENTITY tableTable.label "Taula">
-<!ENTITY tableTable.accesskey "t">
+<!ENTITY tableTable.accesskey "T">
 <!ENTITY tableRow.label "Fila">
 <!ENTITY tableRows.label "Files">
 <!ENTITY tableRow.accesskey "l">
 <!ENTITY tableRowAbove.label "Fila superior">
 <!ENTITY tableRowAbove.accesskey "s">
-<!-- uses tablerow.accesskey -->
 <!ENTITY tableRowBelow.label "Fila inferior">
 <!ENTITY tableRowBelow.accesskey "i">
 <!ENTITY tableColumn.label "Columna">
@@ -359,48 +326,49 @@
 <!ENTITY tableColumn.accesskey "o">
 <!ENTITY tableColumnBefore.label "Columna anterior">
 <!ENTITY tableColumnBefore.accesskey "o">
-<!-- uses tablecolumn.accesskey -->
 <!ENTITY tableColumnAfter.label "Columna posterior">
 <!ENTITY tableColumnAfter.accesskey "a">
-<!ENTITY tableCell.label "Ceŀla">
-<!ENTITY tableCells.label "Ceŀles">
-<!ENTITY tableCell.accesskey "c">
-<!ENTITY tableCellContents.label "Contingut de la ceŀla">
+<!ENTITY tableCell.label "Cel·la">
+<!ENTITY tableCells.label "Cel·les">
+<!ENTITY tableCell.accesskey "C">
+<!ENTITY tableCellContents.label "Contingut de la cel·la">
 <!ENTITY tableCellContents.accesskey "n">
-<!ENTITY tableAllCells.label "Totes les ceŀles">
+<!ENTITY tableAllCells.label "Totes les cel·les">
 <!ENTITY tableAllCells.accesskey "T">
-<!ENTITY tableCellBefore.label "Ceŀla anterior">
+<!ENTITY tableCellBefore.label "Cel·la anterior">
 <!ENTITY tableCellBefore.accesskey "C">
-<!-- uses tablecell.accesskey -->
-<!ENTITY tableCellAfter.label "Ceŀla posterior">
+<!ENTITY tableCellAfter.label "Cel·la posterior">
 <!ENTITY tableCellAfter.accesskey "t">
 <!-- Delete SubMenu -->
 <!ENTITY tableDeleteMenu.label "Suprimeix">
 <!ENTITY tableDeleteMenu.accesskey "u">
-
 <!-- text for "Join Cells" is in editor.properties 
      ("JoinSelectedCells" and "JoinCellToRight")
      the access key must exist in both of those strings
      But value must be set here for accesskey to draw properly
 -->
+
 <!ENTITY tableJoinCells.label "j">
 <!ENTITY tableJoinCells.accesskey "j">
-<!ENTITY tableSplitCell.label "Divideix la ceŀla">
+<!ENTITY tableSplitCell.label "Divideix la cel·la">
 <!ENTITY tableSplitCell.accesskey "c">
 <!ENTITY convertToTable.label "Crea una taula a partir de la selecció">
 <!ENTITY convertToTable.accesskey "r">
 <!ENTITY tableProperties.label "Propietats de la taula…">
 <!ENTITY tableProperties.accesskey "o">
-
 <!-- Toolbar-only items -->
+
 <!ENTITY menuBar.tooltip "Barra de menús">
 <!ENTITY formatToolbar.tooltip "S'està formatant la barra d'eines">
 <!ENTITY newToolbarCmd.label "Nou">
-<!ENTITY newToolbarCmd.tooltip "Crea una nova pàgina del Redactor">
+<!ENTITY newToolbarCmd.tooltip "Crea una pàgina nova del redactor">
 <!ENTITY openToolbarCmd.label "Obre">
 <!ENTITY openToolbarCmd.tooltip "Obre un fitxer local">
 <!ENTITY saveToolbarCmd.tooltip "Desa el fitxer localment">
 <!ENTITY publishToolbarCmd.tooltip "Carrega el fitxer en una ubicació remota">
+<!ENTITY cutToolbarCmd.tooltip "Retalla">
+<!ENTITY copyToolbarCmd.tooltip "Copia">
+<!ENTITY pasteToolbarCmd.tooltip "Enganxa">
 <!ENTITY printToolbarCmd.label "Imprimeix">
 <!ENTITY printToolbarCmd.tooltip "Imprimeix aquesta pàgina">
 <!ENTITY findToolbarCmd.label "Cerca">
@@ -421,8 +389,8 @@
 <!ENTITY BackgroundColorButton.tooltip "Trieu un color per al fons">
 <!ENTITY throbber.tooltip "Vés a la pàgina del &vendorShortName;">
 <!ENTITY HighlightColorButton.tooltip "Trieu el color del ressaltat del text">
-
 <!-- Editor toolbar -->
+
 <!ENTITY decreaseFontSizeToolbarCmd.tooltip "Mida de lletra més petita">
 <!ENTITY increaseFontSizeToolbarCmd.tooltip "Mida de lletra més gran">
 <!ENTITY boldToolbarCmd.tooltip "Negreta">
@@ -438,21 +406,21 @@
 <!ENTITY alignCenterButton.tooltip "Centra el text">
 <!ENTITY alignRightButton.tooltip "Alinea el text al marge dret">
 <!ENTITY alignJustifyButton.tooltip "Alinea el text als marges dret i esquerra">
-
 <!-- Structure Toolbar Context Menu items -->
-<!ENTITY structSelect.label "Selecciona">
-<!ENTITY structSelect.accesskey "S">
-<!ENTITY structRemoveTag.label "Elimina l'etiqueta">
-<!ENTITY structRemoveTag.accesskey "E">
-<!ENTITY structChangeTag.label "Canvia l'etiqueta">
-<!ENTITY structChangeTag.accesskey "C">
 
+<!ENTITY structSelect.label         "Selecciona">
+<!ENTITY structSelect.accesskey     "S">
+<!ENTITY structRemoveTag.label      "Elimina l'etiqueta">
+<!ENTITY structRemoveTag.accesskey  "E">
+<!ENTITY structChangeTag.label      "Canvia l'etiqueta">
+<!ENTITY structChangeTag.accesskey  "C">
 <!-- TOC manipulation -->
-<!ENTITY insertTOC.label "Insereix">
-<!ENTITY insertTOC.accesskey "I">
-<!ENTITY updateTOC.label "Actualitza">
-<!ENTITY updateTOC.accesskey "A">
-<!ENTITY removeTOC.label "Suprimeix">
-<!ENTITY removeTOC.accesskey "S">
-<!ENTITY tocMenu.label "Taula de continguts…">
-<!ENTITY tocMenu.accesskey "u">
+
+<!ENTITY insertTOC.label          "Insereix">
+<!ENTITY insertTOC.accesskey      "I">
+<!ENTITY updateTOC.label          "Actualitza">
+<!ENTITY updateTOC.accesskey      "A">
+<!ENTITY removeTOC.label          "Suprimeix">
+<!ENTITY removeTOC.accesskey      "S">
+<!ENTITY tocMenu.label            "Taula de continguts…">
+<!ENTITY tocMenu.accesskey        "u">

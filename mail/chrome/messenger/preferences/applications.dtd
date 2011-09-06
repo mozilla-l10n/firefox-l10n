@@ -7,7 +7,7 @@
 <!ENTITY  focusSearch1.key            "f">
 <!ENTITY  focusSearch2.key            "k">
 
-<!ENTITY  filter.placeholder            "Cerca">
+<!ENTITY  filter.placeholder          "Cerca">
 
 <!ENTITY saveTo.label                 "Desa els fitxers a">
 <!ENTITY saveTo.accesskey             "s">

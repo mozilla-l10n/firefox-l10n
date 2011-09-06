@@ -47,5 +47,8 @@
 <!ENTITY copyLinkCmd.label                 "Copia l'enllaç">
 <!ENTITY copyLinkCmd.accesskey             "C">
 <!ENTITY CopyMessageId.label               "Copia l'identificador del missatge">
+<!ENTITY CopyMessageId.accesskey           "C">
 <!ENTITY OpenMessageForMsgId.label         "Obre el missatge per identificador">
+<!ENTITY OpenMessageForMsgId.accesskey     "O">
 <!ENTITY OpenBrowserWithMsgId.label        "Obre el navegador amb l'identificador del missatge">
+<!ENTITY OpenBrowserWithMsgId.accesskey    "B">

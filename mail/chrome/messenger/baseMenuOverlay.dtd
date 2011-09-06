@@ -3,8 +3,8 @@
 <!ENTITY helpMenu.accesskey "j">
 <!-- LOCALIZATION NOTE some localizations of Windows use "?"
                        for the help button in the menubar but Gnome does not.   -->
-<!ENTITY helpMenuWin.label        "Ajuda"> 
-<!ENTITY helpMenuWin.accesskey    "j">
+<!ENTITY helpMenuWin.label "Ajuda">
+<!ENTITY helpMenuWin.accesskey "j">
 <!ENTITY helpTroubleshootingInfo.label     "Informació de problemes">
 <!ENTITY helpTroubleshootingInfo.accesskey "p">
 <!ENTITY helpSafeMode.label     "Reinicia amb els complements inhabilitats…">
@@ -19,12 +19,8 @@
 <!ENTITY openHelp.accesskey "C">
 <!ENTITY openHelp.commandkey "VK_F1">
 <!ENTITY openHelpMac.label "Ajuda del &brandShortName;">
-<!-- LOCALIZATION NOTE openHelpMac.commandkey and openHelpMac.modifiers
-                       are all the necessary keys to hit OS X's open-help
-                       keyboard (visible) shortcut (that's Cmd+? for most locales) -->
-<!ENTITY openHelpMac2.commandkey           "?">
-<!ENTITY openHelpMac2.modifiers            "accel">
+<!ENTITY openHelpMac2.commandkey   "?">
+<!ENTITY openHelpMac2.modifiers    "accel">
 
 <!ENTITY aboutMenuCmd.label "Quant al &brandShortName;">
 <!ENTITY aboutMenuCmd.accesskey "Q">
-

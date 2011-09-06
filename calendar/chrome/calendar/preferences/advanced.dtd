@@ -20,6 +20,7 @@
    -
    - Contributor(s):
    -   Matthew Willis <lilmatt@mozilla.com>
+   -   Philipp Kewisch <mozilla@kewis.ch>
    -
    - Alternatively, the contents of this file may be used under the terms of
    - either the GNU General Public License Version 2 or later (the "GPL"), or
@@ -34,53 +35,52 @@
    - the terms of any one of the MPL, the GPL or the LGPL.
    -
    - ***** END LICENSE BLOCK ***** -->
-
 <!-- WARNING! This file contains UTF-8 encoded characters!
    - If this ==> … <== doesn't look like an ellipsis (three dots in a row),
    - your editor isn't using UTF-8 encoding and may munge up the document!
   -->
 
+
 <!ENTITY pref.calendar.advanced.generalTab.label "General">
 <!ENTITY pref.calendar.advanced.passwordsTab.label "Contrasenyes">
 <!ENTITY pref.calendar.advanced.updateTab.label "Actualització">
-
-<!-- General -->
 <!ENTITY pref.calendar.advanced.encryptionTab.label "Encriptació">
+<!-- General -->
+
 <!ENTITY pref.calendar.advanced.showConnections.label     "Paràmetres de connexió…">
 <!ENTITY pref.calendar.advanced.showConnections.accesskey "o">
 <!ENTITY pref.calendar.advanced.proxiesInfo.label         "Determina com el &brandShortName; es connecta a Internet.">
 <!ENTITY pref.calendar.advanced.configEdit.caption "Configuració avançada">
 <!ENTITY pref.calendar.advanced.configEdit.button "Editor de la configuració…">
 <!ENTITY pref.calendar.advanced.configEdit.accesskey "g">
-
 <!-- Passwords -->
+
 <!ENTITY pref.calendar.advanced.savedPasswords.intro "El &brandShortName; pot recordar la informació de les contrasenyes per a tots els vostres calendaris perquè així no calgui que torneu a introduir els vostres detalls d'inici de sessió.">
-<!ENTITY pref.calendar.advanced.useMasterPassword.label "Utilitza una contrasenya mestra per a xifrar les contrasenyes emmagatzemades">
+<!ENTITY pref.calendar.advanced.useMasterPassword.label "Utilitza una contrasenya mestra per xifrar les contrasenyes emmagatzemades">
 <!ENTITY pref.calendar.advanced.useMasterPassword.accesskey "p">
 <!ENTITY pref.calendar.advanced.masterPassword.intro "Una vegada definida, la contrasenya mestra protegirà totes les vostres contrasenyes; però caldrà que la introduïu una vegada per cada sessió.">
 <!ENTITY pref.calendar.advanced.changeMasterPassword.label "Canvia la contrasenya mestra…">
 <!ENTITY pref.calendar.advanced.changeMasterPassword.accesskey "m">
 <!ENTITY pref.calendar.advanced.viewPasswords.label "Visualitza les contrasenyes desades…">
 <!ENTITY pref.calendar.advanced.viewPasswords.accesskey "V">
-
 <!-- Update -->
+
 <!ENTITY pref.calendar.advanced.update.autoCheck.label "Comprova automàticament les actualitzacions de:">
 <!ENTITY pref.calendar.advanced.update.enableAppUpdate.label "&brandShortName;">
 <!ENTITY pref.calendar.advanced.update.enableAppUpdate.accesskey "r">
-<!ENTITY pref.calendar.advanced.update.enableAddonsUpdate.label "Complements instaŀlats">
+<!ENTITY pref.calendar.advanced.update.enableAddonsUpdate.label "Complements instal·lats">
 <!ENTITY pref.calendar.advanced.update.enableAddonsUpdate.accesskey "n">
 <!ENTITY pref.calendar.advanced.update.whenUpdatesFound.label "Quan es trobin actualitzacions del &brandShortName;:">
 <!ENTITY pref.calendar.advanced.update.modeAskMe.label "Demana'm què vull fer">
 <!ENTITY pref.calendar.advanced.update.modeAskMe.accesskey "m">
-<!ENTITY pref.calendar.advanced.update.modeAuto.label "Baixa i instaŀla automàticament l'actualització">
+<!ENTITY pref.calendar.advanced.update.modeAuto.label "Baixa i instal·la automàticament l'actualització">
 <!ENTITY pref.calendar.advanced.update.modeAuto.accesskey "B">
 <!ENTITY pref.calendar.advanced.update.modeAutoWarn.label "Avisa'm si s'inhabilitarà cap dels meus complements">
 <!ENTITY pref.calendar.advanced.update.modeAutoWarn.accesskey "v">
 <!ENTITY pref.calendar.advanced.update.showHistory.label "Mostra l'historial d'actualització…">
 <!ENTITY pref.calendar.advanced.update.showHistory.accesskey "u">
-
-
 <!-- Encryption -->
+
 <!ENTITY pref.calendar.advanced.encryption.protocols.label "Protocols">
 <!ENTITY pref.calendar.advanced.encryption.useSSL3.label "Utilitza SSL 3.0">
 <!ENTITY pref.calendar.advanced.encryption.useSSL3.accesskey "3">
@@ -100,4 +100,3 @@
 <!ENTITY pref.calendar.advanced.encryption.verify2.accesskey "V">
 <!ENTITY pref.calendar.advanced.encryption.viewSecurityDevices.label "Dispositius de seguretat">
 <!ENTITY pref.calendar.advanced.encryption.viewSecurityDevices.accesskey "D">
-

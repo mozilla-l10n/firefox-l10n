@@ -34,41 +34,38 @@
    -
    - ***** END LICENSE BLOCK ***** -->
 
-<!-- Catalan Translation: Projecte Mozilla en català - Softcatalà - http://www.softcatala.org/projectes/mozilla/ -->
+<!ENTITY pref.toolbars.title    "Barres d'eines">
 
+<!ENTITY composition.caption    "Mostra aquests botons a la barra d'eines de redacció:">
 
-<!ENTITY pref.toolbars.title "Barres d'eines">
+<!ENTITY new.label              "Nou">
+<!ENTITY open.label             "Obre">
+<!ENTITY save.label             "Desa">
+<!ENTITY publish.label          "Publica">
+<!ENTITY preview.label          "Navega">
+<!ENTITY cut.label              "Retalla">
+<!ENTITY copy.label             "Copia">
+<!ENTITY paste.label            "Enganxa">
+<!ENTITY print.label            "Imprimeix">
+<!ENTITY find.label             "Cerca">
+<!ENTITY image.label            "Imatge">
+<!ENTITY hline.label            "Línia Horitz.">
+<!ENTITY table.label            "Taula">
+<!ENTITY link.label             "Enllaç">
+<!ENTITY anchor.label           "Àncora">
 
-<!ENTITY composition.caption "Mostra aquests botons a la barra d'eines de redacció:">
+<!ENTITY formatting.caption     "Mostra aquests botons a la barra d'eines de format:">
 
-<!ENTITY new.label "Nou">
-<!ENTITY open.label "Obre">
-<!ENTITY save.label "Desa">
-<!ENTITY publish.label "Publica">
-<!ENTITY preview.label "Navega">
-<!ENTITY cut.label "Retalla">
-<!ENTITY copy.label "Copia">
-<!ENTITY paste.label "Enganxa">
-<!ENTITY print.label "Imprimeix">
-<!ENTITY find.label "Cerca">
-<!ENTITY image.label "Imatge">
-<!ENTITY hline.label "Línia Horitz.">
-<!ENTITY table.label "Taula">
-<!ENTITY link.label "Enllaç">
-<!ENTITY anchor.label "Àncora">
-
-<!ENTITY formatting.caption "Mostra aquests botons a la barra d'eines de format:">
-
-<!ENTITY smaller.label "Més petit">
-<!ENTITY larger.label "Més gran">
-<!ENTITY bold.label "Negreta">
-<!ENTITY bullets.label "Pics">
-<!ENTITY numbers.label "Números">
-<!ENTITY italic.label "Cursiva">
-<!ENTITY outdent.label "Sagna a la inversa">
-<!ENTITY indent.label "Sagna">
-<!ENTITY underline.label "Subratlla">
+<!ENTITY smaller.label          "Més petit">
+<!ENTITY larger.label           "Més gran">
+<!ENTITY bold.label             "Negreta">
+<!ENTITY bullets.label          "Pics">
+<!ENTITY numbers.label          "Números">
+<!ENTITY italic.label           "Cursiva">
+<!ENTITY outdent.label          "Sagna a la inversa">
+<!ENTITY indent.label           "Sagna">
+<!ENTITY underline.label        "Subratlla">
 
 <!ENTITY absolutePosition.label "Posicionament absolut">
-<!ENTITY decreaseZIndex.label "Torna enrere">
-<!ENTITY increaseZIndex.label "Porta endavant">
+<!ENTITY decreaseZIndex.label   "Torna enrere">
+<!ENTITY increaseZIndex.label   "Porta endavant">

@@ -1,9 +1,9 @@
 <!ENTITY linksHeader.label "Comportament dels enllaços">
 <!ENTITY newWindow.label "Comportament en obrir enllaços">
-<!ENTITY newWindowDescription.label "Obrir enllaços vol dir obrir-los en una nova finestra en">
+<!ENTITY newWindowDescription.label "Obrir enllaços vol dir obrir-los en una nova finestra en:">
 <!ENTITY newWindowRestriction.label "Quan els scripts vulguin obrir una finestra nova:">
 <!ENTITY external.label "Enllaços d'altres aplicacions">
-<!ENTITY externalDescription.label "Obre els enllaços d'altres aplicacions en">
+<!ENTITY externalDescription.label "Obre els enllaços d'altres aplicacions en:">
 
 <!ENTITY openCurrent.label "La pestanya/finestra actual">
 <!ENTITY newWindowGroupCurrent.accesskey "c">

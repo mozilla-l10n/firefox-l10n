@@ -13,14 +13,18 @@
    -
    - The Original Code is calendar views.
    -
-   - The Initial Developer of the Original Code is Oracle Corporation
+   - The Initial Developer of the Original Code is
+   - Oracle Corporation.
    - Portions created by the Initial Developer are Copyright (C) 2005
    - the Initial Developer. All Rights Reserved.
    -
    - Contributor(s):
-   -   Mike Shaver       <shaver@mozilla.org>
-   -   Simon Paquet      <bugzilla@babylonsounds.com>
-   -   Matthew Willis    <mattwillis@mac.com>
+   -   Mike Shaver <shaver@mozilla.org>
+   -   Simon Paquet <bugzilla@babylonsounds.com>
+   -   Matthew Willis <mattwillis@mac.com>
+   -   Philipp Kewisch <mozilla@kewis.ch>
+   -   Martin Schroeder <mschroeder@mozilla.x-home.org>
+   -   Berend Cornelius <berend.cornelius@sun.com>
    -
    - Alternatively, the contents of this file may be used under the terms of
    - either the GNU General Public License Version 2 or later (the "GPL"), or
@@ -30,89 +34,86 @@
    - under the terms of either the GPL or the LGPL, and not to allow others to
    - use your version of this file under the terms of the MPL, indicate your
    - decision by deleting the provisions above and replace them with the notice
-   - and other provisions required by the GPL or the LGPL. If you do not delete
+   - and other provisions required by the LGPL or the GPL. If you do not delete
    - the provisions above, a recipient may use your version of this file under
    - the terms of any one of the MPL, the GPL or the LGPL.
    -
-   - ***** END LICENSE BLOCK *****
--->
-   
+   - ***** END LICENSE BLOCK ***** -->
 <!-- WARNING! This file contains UTF-8 encoded characters!
    - If this ==> … <== doesn't look like an ellipsis (three dots in a row),
    - your editor isn't using UTF-8 encoding and may munge up the document!
   -->
-
-
 <!-- Tools menu -->
-<!ENTITY lightning.taskLabel "Lightning">
 
+
+<!ENTITY lightning.taskLabel "Lightning">
 <!-- New menu popup in File menu -->
+
 <!ENTITY lightning.menupopup.new.event.label    "Cita…">
 <!ENTITY lightning.menupopup.new.event.accesskey "C">
 <!ENTITY lightning.menupopup.new.task.label     "Tasca…">
 <!ENTITY lightning.menupopup.new.task.accesskey "T">
 <!ENTITY lightning.menupopup.new.calendar.label "Calendari…">
 <!ENTITY lightning.menupopup.new.calendar.accesskey "n">
-
 <!-- Open menu popup in File menu -->
+
 <!ENTITY lightning.menupopup.open.label               "Obre">
 <!ENTITY lightning.menupopup.open.accesskey           "O">
 <!ENTITY lightning.menupopup.open.message.label       "Desa el missatge…">
 <!ENTITY lightning.menupopup.open.message.accesskey   "m">
 <!ENTITY lightning.menupopup.open.calendar.label      "Fitxer calendari…">
 <!ENTITY lightning.menupopup.open.calendar.accesskey  "c">
-
 <!-- View Menu -->
+
 <!ENTITY lightning.menu.view.calendar.label            "Calendari">
 <!ENTITY lightning.menu.view.calendar.accesskey        "C">
 <!ENTITY lightning.menu.view.tasks.label               "Tasques">
 <!ENTITY lightning.menu.view.tasks.accesskey           "T">
-
 <!-- Events and Tasks menu -->
+
 <!ENTITY lightning.menu.eventtask.label                "Cites i tasques">
 <!ENTITY lightning.menu.eventtask.accesskey            "i">
-
 <!-- Mode Toolbar -->
-<!ENTITY lightning.toolbar.mail.label      "Correu">
-<!ENTITY lightning.toolbar.mail.accesskey     "o">
-<!ENTITY lightning.toolbar.calendar.label  "Calendari">
-<!ENTITY lightning.toolbar.calendar.accesskey "C">
-<!ENTITY lightning.toolbar.task.label      "Tasques">
-<!ENTITY lightning.toolbar.task.accesskey     "T">
 
+<!ENTITY lightning.toolbar.mail.label         "Correu">
+<!ENTITY lightning.toolbar.mail.accesskey     "o">
+<!ENTITY lightning.toolbar.calendar.label     "Calendari">
+<!ENTITY lightning.toolbar.calendar.accesskey "C">
+<!ENTITY lightning.toolbar.task.label         "Tasques">
+<!ENTITY lightning.toolbar.task.accesskey     "T">
 <!-- Toolbar write button -->
+
 <!ENTITY lightning.toolbar.newevent.label     "Cita">
 <!ENTITY lightning.toolbar.newtask.label      "Tasca">
-
 <!-- Messenger Toolbar -->
-<!ENTITY lightning.toolbar.day.label     "Vista diària">
-<!ENTITY lightning.toolbar.day.accesskey "d">
-<!ENTITY lightning.toolbar.week.label    "Vista setmanal">
-<!ENTITY lightning.toolbar.week.accesskey "s">
-<!ENTITY lightning.toolbar.multiweek.label           "Multiweek">
-<!ENTITY lightning.toolbar.multiweek.accesskey       "u">
-<!ENTITY lightning.toolbar.month.label   "Vista mensual">
-<!ENTITY lightning.toolbar.month.accesskey "m">
 
+<!ENTITY lightning.toolbar.day.label                 "Vista diària">
+<!ENTITY lightning.toolbar.day.accesskey             "d">
+<!ENTITY lightning.toolbar.week.label                "Vista setmanal">
+<!ENTITY lightning.toolbar.week.accesskey            "s">
+<!ENTITY lightning.toolbar.multiweek.label           "Vista multisetmanal">
+<!ENTITY lightning.toolbar.multiweek.accesskey       "u">
+<!ENTITY lightning.toolbar.month.label               "Vista mensual">
+<!ENTITY lightning.toolbar.month.accesskey           "m">
 <!-- properties dialog, calendar creation wizard -->
+
 <!ENTITY lightning.calendarproperties.showevents.inagenda.label "Mostra les cites en el Plafó d'avui">
 <!ENTITY lightning.calendarproperties.showtasks.label           "Mostra les tasques en el Plafó d'avui en mode Tasques">
-
-<!ENTITY lightning.calendarproperties.email.label "Correu electrònic:">
-
+<!ENTITY lightning.calendarproperties.email.label               "Correu electrònic:">
 <!-- iMIP Bar (meeting support) -->
-<!ENTITY lightning.imipbar.description "Aquest missatge conté una invitació a una cita.">
 
+<!ENTITY lightning.imipbar.description "Aquest missatge conté una invitació a una cita.">
 <!-- Lightning specific keybindings -->
+
 <!ENTITY lightning.keys.event.showCalendar.key "C">
 <!ENTITY lightning.keys.event.showTasks.key "D">
 <!ENTITY lightning.keys.event.new "I">
 <!ENTITY lightning.keys.todo.new "D">
-
 <!-- Account Central page -->
-<!ENTITY lightning.acctCentral.newCalendar.label "Crea un nou calendari">
 
+<!ENTITY lightning.acctCentral.newCalendar.label "Crea un nou calendari">
 <!-- today-pane-specific -->
+
 <!ENTITY todaypane.showMinimonth.label "Mostra el Mini-mes">
 <!ENTITY todaypane.showMinimonth.accesskey "M">
 <!ENTITY todaypane.showMiniday.label "Mostra el Mini-dia">
@@ -122,4 +123,3 @@
 <!ENTITY todaypane.showTodayPane.label "Mostra el Plafó d'avui">
 <!ENTITY todaypane.showTodayPane.accesskey "a">
 <!ENTITY todaypane.statusButton.label "Plafó d'avui">
-

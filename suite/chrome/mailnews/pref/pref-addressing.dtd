@@ -48,7 +48,7 @@
 <!ENTITY addressingEnable.label                "Llibretes d'adreces locals">
 <!ENTITY addressingEnable.accesskey            "L">
 <!ENTITY autocompleteText.label                "En adreçar missatges, cerca entrades coincidents a:">
-<!ENTITY directories.label                     "Servidor de directori">
+<!ENTITY directories.label                     "Servidor de directori:">
 <!ENTITY directories.accesskey                 "S">
 <!ENTITY directoriesNone.label                 "Cap">
 <!ENTITY editDirectories.label                 "Edita els directoris…">

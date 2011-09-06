@@ -1,12 +1,12 @@
 <!ENTITY startup.label             "Inici">
 
 <!ENTITY startupPage.label         "Quan s'iniciï el &brandShortName;:">
-<!ENTITY startupPage.accesskey     "Q">
+<!ENTITY startupPage.accesskey     "n">
 <!ENTITY startupHomePage.label     "Mostra la meva pàgina d'inici">
 <!ENTITY startupBlankPage.label    "Mostra una pàgina en blanc">
 <!ENTITY startupLastSession.label  "Mostra les finestres i pestanyes de la darrera vegada">
-<!ENTITY restoreOnDemand.label     "No carreguis les pestanyes fins que les seleccioni">
-<!ENTITY restoreOnDemand.accesskey "N">
+<!ENTITY restoreOnDemand.label     "No carreguis mai les pestanyes fins no siguin seleccionades ">
+<!ENTITY restoreOnDemand.accesskey "l">
 
 <!ENTITY homepage.label            "Pàgina d'inici:">
 <!ENTITY homepage.accesskey        "i">
@@ -33,9 +33,8 @@
 <!ENTITY alwaysAsk.label "Demana'm sempre on desar els fitxers">
 <!ENTITY alwaysAsk.accesskey "a">
 
-<!ENTITY addonsMgr.label            "Complements">
+<!ENTITY addonsMgr.label               "Complements">
 <!ENTITY manageAddonsDescWin.label     "Canvia les opcions dels vostres complements">
-<!ENTITY manageAddonsDescUnix2.label "Canvia les preferències dels vostres complements">
-<!ENTITY manageAddons.label         "Gestiona els complements…">
-<!ENTITY manageAddons.accesskey     "G">
-
+<!ENTITY manageAddonsDescUnix2.label   "Canvia les preferències dels vostres complements">
+<!ENTITY manageAddons.label            "Gestiona els complements…">
+<!ENTITY manageAddons.accesskey        "G">

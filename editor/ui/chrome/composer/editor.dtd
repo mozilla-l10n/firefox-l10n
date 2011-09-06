@@ -34,51 +34,48 @@
    - the terms of any one of the MPL, the GPL or the LGPL.
    -
    - ***** END LICENSE BLOCK ***** -->
-
-<!-- Catalan Translation: Projecte Mozilla en català - Softcatalà - http://www.softcatala.org/projectes/mozilla/ -->
-
-
 <!-- Window title -->
 <!-- LOCALIZATION NOTE  (editorWindow.titlemodifier): DONT_TRANSLATE -->
-<!ENTITY editorWindow.titlemodifier "Redactor">
+
+<!ENTITY editorWindow.titlemodifier "Composer">
 <!ENTITY editorWindow.titlemodifiermenuseparator " - ">
-
 <!-- Menu items:  the . means that the menu item isn't implemented yet -->
-
 <!-- Toolbar-only items -->
+
+
 <!ENTITY compositionToolbar.tooltip "Barra de redacció">
 <!ENTITY previewToolbarCmd.label "Navega">
 <!ENTITY previewToolbarCmd.tooltip "Carrega aquesta pàgina al navegador">
-
 <!-- File menu items -->
+
 <!ENTITY exportToTextCmd.label "Exporta a text…">
 <!ENTITY exportToTextCmd.accesskey "t">
 <!ENTITY previewCmd.label "Mostra la pàgina">
-<!ENTITY previewCmd.accesskey "N">
+<!ENTITY previewCmd.accesskey "n">
 <!ENTITY sendPageCmd.label "Envia la pàgina…">
 <!ENTITY sendPageCmd.accesskey "v">
-
 <!-- View menu items -->
+
 <!ENTITY compositionToolbarCmd.label "Barra de redacció">
 <!ENTITY compositionToolbarCmd.accesskey "c">
 <!ENTITY formattingToolbarCmd.label "Barra d'eines de format">
 <!ENTITY formattingToolbarCmd.accesskey "f">
 <!ENTITY editmodeToolbarCmd.label "Barra d'eines del mode d'edició">
 <!ENTITY editmodeToolbarCmd.accesskey "e">
-
 <!-- Format menu items -->
+
 <!ENTITY formatMenu.label "Format">
 <!ENTITY formatMenu.accesskey "o">
 <!ENTITY grid.label "Graella de posició">
 <!ENTITY grid.accesskey "G">
 <!ENTITY pageProperties.label "Títol de la pàgina i propietats…">
 <!ENTITY pageProperties.accesskey "T">
-
 <!-- Tools menu items -->
+
 <!ENTITY validateCmd.label "Valida l'HTML">
 <!ENTITY validateCmd.accesskey "V">
-
 <!-- Display Mode toolbar and View menu items -->
+
 <!ENTITY NormalModeTab.label "Normal">
 <!ENTITY NormalMode.label "Mode d'edició normal">
 <!ENTITY NormalMode.accesskey "n">
@@ -101,5 +98,3 @@
 <!ENTITY PreviewMode.label "Previsualitza">
 <!ENTITY PreviewMode.accesskey "P">
 <!ENTITY PreviewMode.tooltip "Mostra-ho WYSIWYG (com es veu al navegador)">
-
-

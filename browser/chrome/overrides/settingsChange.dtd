@@ -38,5 +38,5 @@
 # ***** END LICENSE BLOCK *****
 -->
 
-<!ENTITY  settingsChangePreferences.label  "Els paramètres de configuració poden canviar-se des de la pestanya Aplicacions de les preferències del &brandShortName;.">
-<!ENTITY  settingsChangeOptions.label      "Els paramètres de configuració poden canviar-se des de la pestanya Aplicacions de les opcions del &brandShortName;.">
+<!ENTITY  settingsChangePreferences.label  "Els paràmetres de configuració poden canviar-se des de la pestanya Aplicacions de les preferències del &brandShortName;.">
+<!ENTITY  settingsChangeOptions.label      "Els paràmetres de configuració poden canviar-se des de la pestanya Aplicacions de les opcions del &brandShortName;.">

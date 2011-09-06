@@ -34,18 +34,15 @@
    - the terms of any one of the MPL, the GPL or the LGPL.
    -
    - ***** END LICENSE BLOCK ***** -->
-
-<!-- Catalan Translation: Projecte Mozilla en català - Softcatalà - http://www.softcatala.org/projectes/mozilla/ -->
-
-
-
 <!-- Window title -->
+
+
 <!ENTITY windowTitle.label "Converteix en taula">
-<!ENTITY instructions1.label "El Redactor crea una nova fila de taula per a cada paràgraf de la selecció.">
-<!ENTITY instructions2.label "Trieu el caràcter utilitzat per separar la selecció en columnes:">
-<!ENTITY commaRadio.label "Coma">
-<!ENTITY spaceRadio.label "Espai">
-<!ENTITY otherRadio.label "Un altre caràcter:">
+<!ENTITY instructions1.label   "El redactor crea una nova fila de taula per a cada paràgraf de la selecció.">
+<!ENTITY instructions2.label   "Trieu el caràcter utilitzat per separar la selecció en columnes:">
+<!ENTITY commaRadio.label      "Coma">
+<!ENTITY spaceRadio.label      "Espai">
+<!ENTITY otherRadio.label      "Un altre caràcter:">
 <!ENTITY deleteCharCheck.label "Suprimeix el caràcter separador">
-<!ENTITY collapseSpaces.label "Ignora els espais addicionals">
+<!ENTITY collapseSpaces.label  "Ignora els espais addicionals">
 <!ENTITY collapseSpaces.tooltip "Converteix els espais adjacents en un separador">

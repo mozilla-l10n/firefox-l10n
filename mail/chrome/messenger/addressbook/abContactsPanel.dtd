@@ -1,20 +1,18 @@
-
-<!ENTITY addressbookPicker.label "Llibreta d'adreces:">
+<!ENTITY addressbookPicker.label            "Llibreta d'adreces:">
 <!ENTITY addressbookPicker.accesskey        "b">
-<!ENTITY searchInput.label "Cerca:">
+<!ENTITY searchInput.label                  "Cerca:">
 <!ENTITY searchInput.accesskey              "r">
-<!ENTITY SearchNameOrEmail.label "El nom o l'adreça electrònica">
+<!ENTITY SearchNameOrEmail.label            "El nom o l'adreça electrònica">
 
 <!ENTITY deleteAddrBookCard.label           "Suprimeix">
 <!ENTITY addrBookCardProperties.label       "Propietats">
-<!ENTITY addtoToFieldMenu.label "Afegeix al camp A">
-<!ENTITY addtoCcFieldMenu.label "Afegeix al camp Cc">
-<!ENTITY addtoBccFieldMenu.label "Afegeix al camp Cco">
+<!ENTITY addtoToFieldMenu.label             "Afegeix al camp A">
+<!ENTITY addtoCcFieldMenu.label             "Afegeix al camp Cc">
+<!ENTITY addtoBccFieldMenu.label            "Afegeix al camp Cco">
 
-<!ENTITY toButton.label "Afegeix a A:">
+<!ENTITY toButton.label                     "Afegeix a A:">
 <!ENTITY toButton.accesskey                 "A">
-<!ENTITY ccButton.label "Afegeix a Cc:">
+<!ENTITY ccButton.label                     "Afegeix a Cc:">
 <!ENTITY ccButton.accesskey                 "C">
 <!ENTITY bccButton.label                    "Afegeix a Cco:">
 <!ENTITY bccButton.accesskey                "o">
-

@@ -29,7 +29,7 @@
 <!ENTITY languagePopup.accessKey              "L">
 <!ENTITY downloadDictionaries.label           "Baixa més diccionaris">
 
-<!ENTITY warnOnSendAccelKey.label             "Confirma quan s'utilitzi dreceres del teclat per a enviar missatges">
+<!ENTITY warnOnSendAccelKey.label             "Confirma quan s'utilitzi dreceres del teclat per enviar missatges">
 <!ENTITY warnOnSendAccelKey.accesskey         "i">
 <!ENTITY autoSave.label                       "Desa automàticament cada">
 <!ENTITY autoSave.accesskey                   "u">

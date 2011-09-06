@@ -1,38 +1,38 @@
 <!-- for SearchDialog.xul -->
-<!ENTITY searchHeading.label "Cerca elements a:">
-<!ENTITY searchHeading.accesskey "r">
-<!ENTITY searchSubfolders.label "Cerca subcarpetes">
-<!ENTITY searchSubfolders.accesskey "s">
+<!ENTITY searchHeading.label         "Cerca elements a:">
+<!ENTITY searchHeading.accesskey     "r">
+<!ENTITY searchSubfolders.label      "Cerca subcarpetes">
+<!ENTITY searchSubfolders.accesskey  "s">
 <!ENTITY searchOnServer.label        "Executa la cerca al servidor">
 <!ENTITY searchOnServer.accesskey    "s">
-<!ENTITY resetButton.label "Buida">
-<!ENTITY resetButton.accesskey "B">
-<!ENTITY openButton.label "Obre">
-<!ENTITY openButton.accesskey "O">
-<!ENTITY deleteButton.label "Suprimeix">
-<!ENTITY deleteButton.accesskey "u">
-<!ENTITY searchDialogTitle.label "Cerca missatges">
-<!ENTITY results.label "Resultats">
-<!ENTITY fileHereMenu.label "Arxiva'l aquí">
-<!ENTITY fileHereMenu.accesskey "A">
-<!ENTITY fileButton.label "Arxiva">
-<!ENTITY fileButton.accesskey "A">
-<!ENTITY closeCmd.key "W">
+<!ENTITY resetButton.label           "Buida">
+<!ENTITY resetButton.accesskey       "B">
+<!ENTITY openButton.label            "Obre">
+<!ENTITY openButton.accesskey        "O">
+<!ENTITY deleteButton.label          "Suprimeix">
+<!ENTITY deleteButton.accesskey      "u">
+<!ENTITY searchDialogTitle.label     "Cerca missatges">
+<!ENTITY results.label               "Resultats">
+<!ENTITY fileHereMenu.label          "Arxiva'l aquí">
+<!ENTITY fileHereMenu.accesskey      "A">
+<!ENTITY fileButton.label            "Arxiva">
+<!ENTITY fileButton.accesskey        "A">
+<!ENTITY closeCmd.key                "W">
 <!ENTITY openInFolder.label          "Obre a la carpeta">
 <!ENTITY openInFolder.accesskey      "r">
-<!ENTITY saveAsVFButton.label "Desa com una carpeta de cerca">
-<!ENTITY saveAsVFButton.accesskey "D">
-
+<!ENTITY saveAsVFButton.label        "Desa com una carpeta de cerca">
+<!ENTITY saveAsVFButton.accesskey    "D">
 <!-- for ABSearchDialog.xul -->
-<!ENTITY abSearchHeading.label "Cerca a:">
-<!ENTITY abSearchHeading.accesskey   "e">
-<!ENTITY propertiesButton.label "Propietats…">
-<!ENTITY propertiesButton.accesskey "P">
-<!ENTITY composeButton.label "Redacta">
-<!ENTITY composeButton.accesskey "d">
-<!ENTITY abSearchDialogTitle.label "Cerca avançada de la llibreta d'adreces">
 
+<!ENTITY abSearchHeading.label       "Cerca a:">
+<!ENTITY abSearchHeading.accesskey   "e">
+<!ENTITY propertiesButton.label      "Propietats…">
+<!ENTITY propertiesButton.accesskey  "P">
+<!ENTITY composeButton.label         "Redacta">
+<!ENTITY composeButton.accesskey     "d">
+<!ENTITY abSearchDialogTitle.label   "Cerca avançada de la llibreta d'adreces">
 <!-- Thread Pane -->
+
 <!ENTITY threadColumn.label "Conversa">
 <!ENTITY fromColumn.label "Remitent">
 <!ENTITY recipientColumn.label "Destinatari">
@@ -51,24 +51,24 @@
 <!ENTITY starredColumn.label "Destaca">
 <!ENTITY locationColumn.label "Ubicació">
 <!ENTITY idColumn.label "Ordre de recepció">
-
 <!-- Thread Pane Tooltips -->
-<!ENTITY columnChooser.tooltip "Feu un clic per a seleccionar les columnes a visualitzar">
-<!ENTITY threadColumn.tooltip "Feu un clic per a visualitzar les cadenes de missatges">
-<!ENTITY fromColumn.tooltip "Feu un clic per a ordenar per remitent">
-<!ENTITY recipientColumn.tooltip "Feu un clic per a ordenar per destinatari">
-<!ENTITY subjectColumn.tooltip "Feu un clic per a ordenar per assumpte">
-<!ENTITY dateColumn.tooltip "Feu un clic per a ordenar per data">
-<!ENTITY priorityColumn.tooltip "Feu un clic per a ordenar per prioritat">
-<!ENTITY tagsColumn.tooltip "Feu un clic per a ordenar per etiquetes">
-<!ENTITY accountColumn.tooltip "Feu un clic per a ordenar per compte">
-<!ENTITY statusColumn.tooltip "Feu un clic per a ordenar per estat">
-<!ENTITY sizeColumn.tooltip "Feu un clic per a ordenar per mida">
-<!ENTITY junkStatusColumn.tooltip "Feu un clic per a ordenar per l'estat de brossa">
+
+<!ENTITY columnChooser.tooltip "Feu un clic per seleccionar les columnes a visualitzar">
+<!ENTITY threadColumn.tooltip "Feu un clic per visualitzar les cadenes de missatges">
+<!ENTITY fromColumn.tooltip "Feu un clic per ordenar per remitent">
+<!ENTITY recipientColumn.tooltip "Feu un clic per ordenar per destinatari">
+<!ENTITY subjectColumn.tooltip "Feu un clic per ordenar per assumpte">
+<!ENTITY dateColumn.tooltip "Feu un clic per ordenar per data">
+<!ENTITY priorityColumn.tooltip "Feu un clic per ordenar per prioritat">
+<!ENTITY tagsColumn.tooltip "Feu un clic per ordenar per etiquetes">
+<!ENTITY accountColumn.tooltip "Feu un clic per ordenar per compte">
+<!ENTITY statusColumn.tooltip "Feu un clic per ordenar per estat">
+<!ENTITY sizeColumn.tooltip "Feu un clic per ordenar per mida">
+<!ENTITY junkStatusColumn.tooltip "Feu un clic per ordenar per l'estat de brossa">
 <!ENTITY unreadColumn.tooltip "Nombre de missatges per llegir a la conversa">
 <!ENTITY totalColumn.tooltip "Nombre total de missatges en la conversa">
-<!ENTITY readColumn.tooltip "Feu un clic per a ordenar per llegit">
-<!ENTITY receivedColumn.tooltip "Feu un clic per a ordenar per data de recepció">
-<!ENTITY starredColumn.tooltip "Feu un clic per a ordenar per destacat">
-<!ENTITY locationColumn.tooltip "Feu un clic per a ordenar per ubicació">
-<!ENTITY idColumn.tooltip "Feu un clic per a ordenar per ordre de recepció">
+<!ENTITY readColumn.tooltip "Feu un clic per ordenar per llegit">
+<!ENTITY receivedColumn.tooltip "Feu un clic per ordenar per data de recepció">
+<!ENTITY starredColumn.tooltip "Feu un clic per ordenar per destacat">
+<!ENTITY locationColumn.tooltip "Feu un clic per ordenar per ubicació">
+<!ENTITY idColumn.tooltip "Feu un clic per ordenar per ordre de recepció">

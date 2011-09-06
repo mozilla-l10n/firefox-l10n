@@ -36,7 +36,7 @@
 
 <!ENTITY pref.junk.title "Correu brossa">
 <!ENTITY junkSettings.caption "Paràmetres globals del correu brossa">
-<!ENTITY junkMail.intro "Aneu als paràmetres dels comptes per a configurar els paràmetres de correu brossa específics de cada compte.">
+<!ENTITY junkMail.intro "Aneu als paràmetres dels comptes per configurar els paràmetres de correu brossa específics de cada compte.">
 <!-- Junk Mail Controls -->
 
 <!ENTITY manualMark.label               "En marcar els missatges com a correu brossa:">

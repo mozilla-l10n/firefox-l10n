@@ -49,7 +49,7 @@
 <!ENTITY feat_labels.label "Etiquetes i vistes de missatge personalitzables">
 <!ENTITY feat_integration.label "Estreta integració amb el conjunt d'aplicacions del &brandShortName;">
 <!ENTITY dict.title "Diccionaris">
-<!ENTITY dict_intro.label "Els diccionaris serveixen per a comprovar l'ortografia dels vostres missatges.">
+<!ENTITY dict_intro.label "Els diccionaris serveixen per comprovar l'ortografia dels vostres missatges.">
 <!--# LOCALIZATION NOTE (dict_info.label): the URL for <a id="dictURL"> is fetched from brand.properties -->
 <!ENTITY dict_info.label 'Es poden instal·lar llengües addicionals de la secció de 
 <a id="dictURL" href="">diccionaris</a> del 
