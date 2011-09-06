@@ -331,7 +331,7 @@
 <!ENTITY replyToAllMsgCmd.key "r">
 <!ENTITY replyToSenderAndNewsgroupCmd.label "Afzender en nieuwsgroep beantwoorden">
 <!ENTITY replyToSenderAndNewsgroupCmd.accesskey "p">
-<!ENTITY replyToAllRecipientsCmd.label "Alle geadresseerden beantwoorden">
+<!ENTITY replyToAllRecipientsCmd.label "Alle ontvangers beantwoorden">
 <!ENTITY replyToAllRecipientsCmd.accesskey "a">
 <!ENTITY forwardMsgCmd.label "Doorsturen">
 <!ENTITY forwardMsgCmd.accesskey "s">
@@ -485,7 +485,7 @@
 <!ENTITY getMsgButton.tooltip "Nieuwe berichten ophalen">
 <!ENTITY newMsgButton.tooltip "Een nieuw bericht aanmaken">
 <!ENTITY replyButton.tooltip "Het bericht beantwoorden">
-<!ENTITY replyAllButton.tooltip "Afzender en alle geadresseerden beantwoorden">
+<!ENTITY replyAllButton.tooltip "Afzender en alle ontvangers beantwoorden">
 <!ENTITY replyAllButtonNews.tooltip "Afzender en nieuwsgroep beantwoorden">
 <!ENTITY forwardButton.tooltip "Geselecteerde bericht doorsturen">
 <!ENTITY fileButton.tooltip "Geselecteerde bericht archiveren">

@@ -521,7 +521,7 @@ you can use these alternative items. Otherwise, their values should be empty.  -
 <!ENTITY getAllNewMsgCmd.accesskey "A">
 <!ENTITY newMsgButton.tooltip "Een nieuw bericht aanmaken">
 <!ENTITY replyButton.tooltip "Het geselecteerde bericht beantwoorden">
-<!ENTITY replyAllButton.tooltip "Afzender en alle geadresseerden beantwoorden">
+<!ENTITY replyAllButton.tooltip "Afzender en alle ontvangers beantwoorden">
 <!ENTITY replyListButton.tooltip "E-maillijst beantwoorden">
 <!ENTITY forwardButton.tooltip "Geselecteerde bericht doorsturen">
 <!ENTITY fileButton.tooltip "Geselecteerde bericht bewaren">
