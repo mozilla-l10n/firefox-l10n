@@ -13,9 +13,10 @@
 <!ENTITY manageAccount.label          "Upravljanje računom">
 <!ENTITY manageAccount.accesskey      "a">
 <!ENTITY viewQuota.label              "Prikaži ograničenje">
-<!ENTITY changePassword.label         "Promijeni lozinku">
+<!ENTITY changePassword2.label         "Promijeni lozinku…">
+<!ENTITY resetSync2.label              "Resetuj Sync…">
+
 <!ENTITY mySyncKey.label              "Moj Sync ključ">
-<!ENTITY resetSync.label              "Resetuj Sync">
 <!ENTITY addDevice.label              "Dodaj uređaj">
 
 <!ENTITY syncMy.label               "Sinhronizuj moje">
@@ -33,6 +34,7 @@
 <!-- Device Settings -->
 <!ENTITY syncComputerName.label       "Naziv računara:">
 <!ENTITY syncComputerName.accesskey   "N">
+<!ENTITY unlinkDevice.label           "Raskini vezu sa ovim uređajem">
 <!ENTITY deactivateDevice.label       "Deaktiviraj ovaj uređaj">
 
 <!-- Footer stuff -->

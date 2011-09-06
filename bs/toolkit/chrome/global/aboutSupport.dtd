@@ -20,6 +20,7 @@
 <!ENTITY aboutSupport.appBasicsEnabledPlugins "Omogućeni plugini">
 <!ENTITY aboutSupport.appBasicsBuildConfig "Konfiguracija verzije">
 <!ENTITY aboutSupport.appBasicsUserAgent "Korisnički agent">
+<!ENTITY aboutSupport.appBasicsCrashIDs "Izvještaji o rušenju">
 
 <!ENTITY aboutSupport.show.label "Otvori sadržajni direktorij">
 

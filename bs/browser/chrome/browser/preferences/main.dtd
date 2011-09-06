@@ -5,6 +5,9 @@
 <!ENTITY startupHomePage.label     "Prikaži moju početnu stranicu">
 <!ENTITY startupBlankPage.label    "Prikaži praznu stranicu">
 <!ENTITY startupLastSession.label  "Prikaži moje prozore i tabove od zadnjeg puta">
+<!ENTITY restoreOnDemand.label     "Ne učitavaj tabove dok ne budu izabrani">
+<!ENTITY restoreOnDemand.accesskey "l">
+
 <!ENTITY homepage.label            "Početna stranica:">
 <!ENTITY homepage.accesskey        "P">
 <!ENTITY useCurrentPage.label      "Koristi trenutnu stranicu">
