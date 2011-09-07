@@ -62,8 +62,6 @@
 <!ENTITY printAddressBook.accesskey                     "D"> 
 <!ENTITY printPreviewAddressBook.label                  "Druckvorschau: Adressbuch"> 
 <!ENTITY printPreviewAddressBook.accesskey              "u">
-<!ENTITY printSetupCmd.label                            "Seite einrichten…">
-<!ENTITY printSetupCmd.accesskey                        "S">
 
 <!-- Edit Menu -->
 <!ENTITY deleteAbCmd.label                              "Adressbuch löschen">  

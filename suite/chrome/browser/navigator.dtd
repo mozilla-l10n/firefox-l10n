@@ -18,7 +18,6 @@
 <!ENTITY printPreviewCmd.accesskey "v">
 <!ENTITY printCmd.label "Drucken…">
 <!ENTITY printCmd.accesskey "D">
-<!ENTITY printCmd.commandkey "p">
 
 <!ENTITY navbarCmd.label "Navigations-Symbolleiste">
 <!ENTITY navbarCmd.accesskey "N">
