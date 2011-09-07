@@ -18,6 +18,6 @@
 <!ENTITY  continue_label "Continua">
 
 <!ENTITY  launcher_shortcuts_title "&brandShortName; Aplicacions web">
-<!ENTITY  launcher_shortcuts_empty "No s'ha trobat cap aplicació Web">
+<!ENTITY  launcher_shortcuts_empty "No s\'ha trobat cap aplicació Web">
 
 <!ENTITY choose_file "Trieu un fitxer">
