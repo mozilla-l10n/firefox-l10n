@@ -5,6 +5,12 @@
 # raulmalea <raul.malea@gmail.com>
 #
 -->
+<!--
+# Reviewer(s):
+#
+# alexxed <alexxed@gmail.com>
+#
+-->
 <!-- The page shown when not logged in... -->
 <!ENTITY setupButton.label          "Setați &syncBrand.fullName.label;">
 <!ENTITY setupButton.accesskey      "S">
@@ -20,9 +26,10 @@
 <!ENTITY manageAccount.label          "Gestionează contul">
 <!ENTITY manageAccount.accesskey      "a">
 <!ENTITY viewQuota.label              "Arată cota">
-<!ENTITY changePassword.label         "Schimbare parolă">
+<!ENTITY changePassword2.label         "Schimbă parola...">
 <!ENTITY mySyncKey.label              "Cheia mea de sincronizare">
-<!ENTITY resetSync.label              "Resetează sincronizarea">
+<!ENTITY resetSync2.label              "Resetează sincronizarea…">
+
 <!ENTITY addDevice.label              "Adaugă un dispozitiv">
 
 <!ENTITY syncMy.label               "Sincronizează">
@@ -40,7 +47,7 @@
 <!-- Device Settings -->
 <!ENTITY syncComputerName.label       "Nume calculator:">
 <!ENTITY syncComputerName.accesskey   "c">
-<!ENTITY deactivateDevice.label       "Dezactivează dispozitivul">
+<!ENTITY unlinkDevice.label           "Dezasociază acest dispozitiv">
 
 <!-- Footer stuff -->
 <!ENTITY prefs.tosLink.label        "Termeni ai serviciului">
