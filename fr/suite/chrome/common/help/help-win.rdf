@@ -6,32 +6,32 @@
          xmlns:nc="http://home.netscape.com/NC-rdf#">
 
 <rdf:Description about="suite-toc.rdf#ieusers"
-  nc:name="Utilisateurs d'Internet Explorer"
+  nc:name="For Internet Explorer Users"
   nc:link="forieusers.xhtml">
   <nc:subheadings>
     <rdf:Seq><rdf:li>
       <rdf:Description ID="terms"
-        nc:name="Différences de vocabulaire"
+        nc:name="Terminology Differences"
         nc:link="forieusers.xhtml#mozilla_and_internet_explorer_terminology_differences"/>
     </rdf:li>
     <rdf:li>
       <rdf:Description ID="favorites"
-        nc:name="À propos de vos favoris IE"
+        nc:name="About Your IE Favorites"
         nc:link="forieusers.xhtml#about_your_ie_favorites"/>
     </rdf:li>
     <rdf:li>
       <rdf:Description ID="key-features"
-        nc:name="Fonctions du navigateur"
+        nc:name="Browser Features"
         nc:link="forieusers.xhtml#browser_features"/>
     </rdf:li>
     <rdf:li>
       <rdf:Description ID="more-features"
-        nc:name="Autres fonctions"
+        nc:name="Other Features"
         nc:link="forieusers.xhtml#other_features"/>
     </rdf:li>
     <rdf:li>
       <rdf:Description ID="keyboard-shortcuts"
-        nc:name="Raccourcis clavier"
+        nc:name="Keyboard Shortcuts"
         nc:link="forieusers.xhtml#keyboard_shortcuts"/>
     </rdf:li></rdf:Seq>
   </nc:subheadings>
@@ -41,7 +41,7 @@
   <nc:subheadings>
     <rdf:Seq><rdf:li>
       <rdf:Description ID="nav-doc-default"
-        nc:name="Navigateur par défaut"
+        nc:name="Making &brandShortName; Your Default Browser"
         nc:link="nav_help.xhtml#making_mozilla_your_default_browser"/>
     </rdf:li></rdf:Seq>
   </nc:subheadings>
@@ -51,7 +51,7 @@
   <nc:subheadings>
      <rdf:Seq><rdf:li>
        <rdf:Description ID="browser:default"
-         nc:name="Navigateur par défaut"
+         nc:name="default browser"
          nc:link="nav_help.xhtml#making_mozilla_your_default_browser"/>
        </rdf:li></rdf:Seq>
    </nc:subheadings>
@@ -61,7 +61,7 @@
    <nc:subheadings>
      <rdf:Seq><rdf:li>
        <rdf:Description ID="default_browser_preferences"
-         nc:name="Préférences du navigateur par défaut"
+         nc:name="default browser preferences"
 	 nc:link="cs_nav_prefs_navigator.xhtml#navigator"/>
      </rdf:li></rdf:Seq>
    </nc:subheadings>
@@ -71,7 +71,7 @@
    <nc:subheadings>
      <rdf:Seq><rdf:li>
        <rdf:Description ID="ieusers"
-         nc:name="Pour les utilisateur d'Internet Explorer"
+         nc:name="Internet Explorer User Help"
 	 nc:link="forieusers.xhtml"/>
      </rdf:li></rdf:Seq>
    </nc:subheadings>
@@ -81,22 +81,22 @@
    <nc:subheadings>
      <rdf:Seq><rdf:li>
        <rdf:Description ID="ieusers:terminology-differences"
-         nc:name="Différences de vocabulaire"
+         nc:name="Terminology Differences"
          nc:link="forieusers.xhtml#mozilla_and_internet_explorer_terminology_differences"/>
      </rdf:li>
      <rdf:li>
        <rdf:Description ID="ieusers:your-favorites"
-         nc:name="À propos de vos favoris IE"
+         nc:name="About Your IE Favorites"
          nc:link="forieusers.xhtml#about_your_ie_favorites"/>
      </rdf:li>
      <rdf:li>
        <rdf:Description ID="ieusers:additional-software"
-         nc:name="Autres fonctions"
+         nc:name="Other Features"
          nc:link="forieusers.xhtml#other_features"/>
      </rdf:li>
      <rdf:li>
        <rdf:Description ID="ieusers:keyboard-shortcuts"
-         nc:name="Raccourcis clavier"
+         nc:name="Keyboard Shortcuts"
          nc:link="forieusers.xhtml#keyboard_shortcuts"/>
      </rdf:li></rdf:Seq>
    </nc:subheadings>
@@ -106,7 +106,7 @@
    <nc:subheadings>
      <rdf:Seq><rdf:li>
        <rdf:Description ID="preferences:default_browser"
-         nc:name="Préférences du navigateur par défaut"
+         nc:name="default browser preferences"
 	 nc:link="cs_nav_prefs_navigator.xhtml#navigator"/>
      </rdf:li></rdf:Seq>
    </nc:subheadings>

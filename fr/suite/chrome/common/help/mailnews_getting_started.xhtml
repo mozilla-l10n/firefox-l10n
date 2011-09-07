@@ -1,593 +1,384 @@
-<?xml version="1.0" encoding="utf-8"?>
+<?xml version="1.0" encoding="UTF-8"?>
+
 <!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.1//EN"
   "http://www.w3.org/TR/xhtml11/DTD/xhtml11.dtd"[
   <!ENTITY % brandDTD SYSTEM "chrome://branding/locale/brand.dtd" >
   %brandDTD;
-  <!ENTITY % utilityOverlayDTD SYSTEM "chrome://communicator/locale/utilityOverlay.dtd" >
-  %utilityOverlayDTD;
-  <!ENTITY % tasksOverlayDTD SYSTEM "chrome://communicator/locale/tasksOverlay.dtd" >
-  %tasksOverlayDTD;
-  <!ENTITY % preferencesDTD SYSTEM "chrome://communicator/locale/pref/preferences.dtd" >
-  %preferencesDTD;
-  <!ENTITY % messengerDTD SYSTEM "chrome://messenger/locale/messenger.dtd" >
-  %messengerDTD;
-  <!ENTITY % mailPrefsOverlayDTD SYSTEM "chrome://messenger/locale/mailPrefsOverlay.dtd" >
-  %mailPrefsOverlayDTD;
-  <!ENTITY % AccountManagerDTD SYSTEM "chrome://messenger/locale/AccountManager.dtd" >
-  %AccountManagerDTD;
-  <!ENTITY % AccountWizardDTD SYSTEM "chrome://messenger/locale/AccountWizard.dtd" >
-  %AccountWizardDTD;
-  <!ENTITY % am-mainDTD SYSTEM "chrome://messenger/locale/am-main.dtd" >
-  %am-mainDTD;
-  <!ENTITY % am-addressingDTD SYSTEM "chrome://messenger/locale/am-addressing.dtd" >
-  %am-addressingDTD;
-  <!ENTITY % am-copiesDTD SYSTEM "chrome://messenger/locale/am-copies.dtd" >
-  %am-copiesDTD;
-  <!ENTITY % am-junkDTD SYSTEM "chrome://messenger/locale/am-junk.dtd" >
-  %am-junkDTD;
-  <!ENTITY % am-offlineDTD SYSTEM "chrome://messenger/locale/am-offline.dtd" >
-  %am-offlineDTD;
-  <!ENTITY % am-server-topDTD SYSTEM "chrome://messenger/locale/am-server-top.dtd" >
-  %am-server-topDTD;
-  <!ENTITY % am-server-advancedDTD SYSTEM "chrome://messenger/locale/am-server-advanced.dtd" >
-  %am-server-advancedDTD;
-  <!ENTITY % am-smimeDTD SYSTEM "chrome://messenger/locale/am-smime.dtd" >
-  %am-smimeDTD;
-  <!ENTITY % am-serverwithnoidentitiesDTD SYSTEM "chrome://messenger/locale/am-serverwithnoidentities.dtd" >
-  %am-serverwithnoidentitiesDTD;
-  <!ENTITY % am-advancedDTD SYSTEM "chrome://messenger/locale/am-advanced.dtd" >
-  %am-advancedDTD;
-  <!ENTITY % am-mdnDTD SYSTEM "chrome://messenger/locale/am-mdn.dtd" >
-  %am-mdnDTD;
-  <!ENTITY % folderPropsDTD SYSTEM "chrome://messenger/locale/folderProps.dtd" >
-  %folderPropsDTD;
-  <!ENTITY % pref-addressingDTD SYSTEM "chrome://messenger/locale/addressbook/pref-addressing.dtd" >
-  %pref-addressingDTD;
-  <!ENTITY % pref-tagsDTD SYSTEM "chrome://messenger/locale/pref-tags.dtd" >
-  %pref-tagsDTD;
-  <!ENTITY % pref-formattingDTD SYSTEM "chrome://messenger/locale/messengercompose/pref-formatting.dtd" >
-  %pref-formattingDTD;
-  <!ENTITY % pref-composing_messagesDTD SYSTEM "chrome://messenger/locale/messengercompose/pref-composing_messages.dtd" >
-  %pref-composing_messagesDTD;
-  <!ENTITY % pref-mailnewsDTD SYSTEM "chrome://messenger/locale/pref-mailnews.dtd" >
-  %pref-mailnewsDTD;
-  <!ENTITY % pref-notificationsDTD SYSTEM "chrome://messenger/locale/pref-notifications.dtd" >
-  %pref-notificationsDTD;
-  <!ENTITY % pref-junkDTD SYSTEM "chrome://messenger/locale/pref-junk.dtd" >
-  %pref-junkDTD;
-  <!ENTITY % pref-directoryDTD SYSTEM "chrome://messenger/locale/addressbook/pref-directory.dtd" >
-  %pref-directoryDTD;
-  <!ENTITY % pref-directory-addDTD SYSTEM "chrome://messenger/locale/addressbook/pref-directory-add.dtd" >
-  %pref-directory-addDTD;
-  <!ENTITY % pref-receiptsDTD SYSTEM "chrome://messenger/locale/pref-receipts.dtd" >
-  %pref-receiptsDTD;
-  <!ENTITY % pref-offlineDTD SYSTEM "chrome://messenger/locale/pref-offline.dtd" >
-  %pref-offlineDTD;
-  <!ENTITY % pref-viewing_messagesDTD SYSTEM "chrome://messenger/locale/pref-viewing_messages.dtd" >
-  %pref-viewing_messagesDTD;
-  <!ENTITY % pref-character_encodingDTD SYSTEM "chrome://messenger/locale/pref-character_encoding.dtd" >
-  %pref-character_encodingDTD;
-  <!ENTITY % smtpEditOverlayDTD SYSTEM "chrome://messenger/locale/smtpEditOverlay.dtd" >
-  %smtpEditOverlayDTD;
-  <!ENTITY % msgHdrViewOverlayDTD SYSTEM "chrome://messenger/locale/msgHdrViewOverlay.dtd" >
-  %msgHdrViewOverlayDTD;
-  <!ENTITY % msgViewPickerOverlayDTD SYSTEM "chrome://messenger/locale/msgViewPickerOverlay.dtd" >
-  %msgViewPickerOverlayDTD;
-  <!ENTITY % msgCompSMIMEOverlayDTD SYSTEM "chrome://messenger-smime/locale/msgCompSMIMEOverlay.dtd"
->
-  %msgCompSMIMEOverlayDTD;
-  <!ENTITY % abNewCardDialogDTD SYSTEM "chrome://messenger/locale/addressbook/abNewCardDialog.dtd" >
-  %abNewCardDialogDTD;
-  <!ENTITY % abCardOverlayDTD SYSTEM "chrome://messenger/locale/addressbook/abCardOverlay.dtd" >
-  %abCardOverlayDTD;
-  <!ENTITY % abCardViewOverlayDTD SYSTEM "chrome://messenger/locale/addressbook/abCardViewOverlay.dtd" >
-  %abCardViewOverlayDTD;
-  <!ENTITY % abMainWindowDTD SYSTEM "chrome://messenger/locale/addressbook/abMainWindow.dtd" >
-  %abMainWindowDTD;
-  <!ENTITY % am-newsblogDTD SYSTEM "chrome://messenger-newsblog/locale/am-newsblog.dtd" >
-  %am-newsblogDTD;
 ]>
 
-<html xmlns="http://www.w3.org/1999/xhtml" lang="fr" xml:lang="fr">
+<html xmlns="http://www.w3.org/1999/xhtml">
 <head>
-  <title>Utiliser &brandShortName; Courrier et Groupes</title>
-  <meta http-equiv="Content-Type" content="application/xhtml; charset=utf-8" />
-  <!--<link rel="stylesheet" href="content_style.css" type="text/css" />-->
-  <link rel="stylesheet" type="text/css" href="helpFileLayout.css" />
-  <link rel="stylesheet" type="text/css" href="chrome://communicator/skin/smileys.css"/>
+<title>Using &brandShortName; Mail &amp; Newsgroups</title>
+<link rel="stylesheet" href="helpFileLayout.css" type="text/css"/>
+<link rel="stylesheet" href="chrome://communicator/skin/smileys.css"
+      type="text/css"/>
 </head>
-
 <body>
-  <div class="boilerPlate">
-    Ce document est uniquement pour votre information. Il
-    peut vous aider à prendre quelques précautions pour
-    protéger la confidentialité et la sécurité de
-    vos informations personnelles sur Internet. Ce document n'est en aucun cas
-    une documentation exhaustive de toutes les préférences de
-    sécurité en ligne, ni une recommandation à
-    propos de ce qui constitue une bonne sécurité sur Internet.
-  </div>
 
-  <h1 id="using_mozilla_mail_and_newsgroups">Utiliser &brandShortName; Courrier et
-  Groupes</h1>
+<div class="boilerPlate">This document is provided for your information only.
+  It may help you take certain steps to protect the privacy and security of
+  your personal information on the Internet. This document does not, however,
+  address all online privacy and security issues, nor does it represent a
+  recommendation about what constitutes adequate privacy and security
+  protection on the Internet.</div>
 
-  <p>&brandShortName; Courrier et Groupes vous permet de gérer simplement vos
-  messages à partir d'un endroit unique. Vous pouvez configurer et
-  administrer plusieurs comptes professionnels et personnels de messagerie et de
-  groupe, le tout à partir d'une seule fenêtre &mdash; la
-  fenêtre Courrier et Groupes.</p>
+<h1 id="using_mozilla_mail_and_newsgroups">Using &brandShortName; Mail &amp;
+  Newsgroups</h1>
 
-  <p>Pour commencer à utiliser &brandShortName; Courrier et Groupes&#160;:</p>
+<p>&brandShortName; Mail &amp; Newsgroups lets you conveniently manage all your
+  Internet communications from one place. You can set up and maintain multiple
+  business and personal mail accounts and Internet newsgroups, all from one
+  window &mdash; the Mail &amp; Newsgroups window.</p>
 
+<p>To start using &brandShortName; Mail &amp; Newsgroups:</p>
+
+<ul>
+  <li>Click the Mail &amp; Newsgroups icon in the lower-left corner of the
+    &brandShortName; browser window.</li>
+</ul>
+
+<table>
+  <tr>
+    <td colspan="2"><img src="images/task_mail.png" alt=""/></td>
+  </tr>
+  <tr>
+    <td style="width: 20px;"></td>
+    <td><strong>Mail &amp; Newsgroups icon</strong></td>
+  </tr>
+</table>
+
+<div class="contentsBox">In this section:
   <ul>
-    <li>Cliquez sur l'icône <q>Courrier</q> en bas à gauche de la
-    fenêtre du navigateur.</li>
+    <li><a href="#getting_started_with_mozilla_mail_and_newsgroups">Getting
+      Started with &brandShortName; Mail &amp; Newsgroups</a></li>
+    <li><a href="#importing_mail_from_other_programs">Importing Mail from Other
+      Programs</a></li>
+    <li><a href="mailnews_using_mail.xhtml#reading_messages">Reading
+      Messages</a></li>
+    <li><a href="mailnews_using_mail.xhtml#sending_messages">Sending
+      Messages</a></li>
+    <li><a href="mailnews_using_mail.xhtml#creating_html_mail_messages">Creating
+      HTML Mail Messages</a></li>
+    <li><a href="mailnews_using_mail.xhtml#using_attachments">Using
+      Attachments</a></li>
+    <li><a href="mailnews_using_mail.xhtml#deleting_messages">Deleting
+      Messages</a></li>
+    <li><a href="mailnews_addressbooks.xhtml">Using Address Books</a></li>
+    <li><a href="mailnews_organizing.xhtml">Organizing Your Messages</a></li>
+    <li><a href="mailnews_organizing.xhtml#controlling_junk_mail">Controlling
+      Junk Mail</a></li>
+    <li><a href="mailnews_newsgroups.xhtml">Getting Started with
+      Newsgroups</a></li>
+    <li><a href="mailnews_blogs_and_feeds.xhtml">Getting Started
+      with Blogs &amp; News Feeds</a></li>
+    <li><a href="mailnews_offline.xhtml">Working Offline</a></li>
+    <li><a href="mailnews_security.xhtml">Signing &amp; Encrypting
+      Messages</a></li>
+    <li><a href="mailnews_account_settings.xhtml">Mail &amp; Newsgroups
+      Account Settings</a></li>
+    <li><a href="mailnews_preferences.xhtml">Mail &amp; Newsgroups
+      Preferences</a></li>
   </ul>
+</div>
 
-      <dl class="gallery">
-        <dt><img src="images/task_mail.png" alt="icône de courrier" /></dt>
+<h1 id="getting_started_with_mozilla_mail_and_newsgroups">Getting Started with
+  &brandShortName; Mail &amp; Newsgroups</h1>
 
-        <dd>Icône Courrier</dd>
-      </dl>
+<div class="contentsBox">In this section:
+  <ul>
+    <li><a href="#using_the_mail_account_setup_wizard">Using the Mail Account
+      Setup Wizard</a></li>
+    <li><a href="#setting_up_additional_mail_and_news_accounts">Setting Up
+      Additional Mail and News Accounts</a></li>
+    <li><a href="#changing_the_settings_for_an_account">Changing the Settings
+      for an Account</a></li>
+  </ul>
+</div>
 
-  <div class="contentsBox">
-    <p>Dans cette section&#160;:</p>
+<h2 id="using_the_mail_account_setup_wizard">Using the Mail Account Setup
+  Wizard</h2>
 
+<p>To set up a mail, newsgroup or blogs &amp; news feeds account, first open
+  the Window menu and choose Mail &amp; Newsgroups. If you haven&apos;t
+  already set up an account, the Account Wizard appears automatically, enabling
+  you to set up an account.</p>
+
+<p>The Account Wizard guides you through the process of creating a new account.
+  If you don&apos;t know a setting, click Cancel and ask your Internet service
+  provider (ISP) or help desk.</p>
+
+<p>If an account already exists, the Account Wizard doesn&apos;t appear
+  automatically when the Mail window opens. Instead, after opening the Mail
+  window, open the File menu and choose New, then Account. For more details,
+  see <a href="#setting_up_additional_mail_and_news_accounts">Setting Up
+  Additional Mail, News &amp; Blogs &amp; News Feeds Accounts</a>.</p>
+
+<h3 id="setting_up_mail_accounts_with_an_isp_or_email_provider">Setting Up Mail
+  Accounts with an ISP or Email Provider</h3>
+
+<p>Before you set up a mail account, your ISP or email provider should give you
+  the following information:</p>
+
+<ul>
+  <li>your user name</li>
+  <li>your email address</li>
+  <li>the incoming and outgoing mail server names</li>
+  <li>the incoming server type (<a href="glossary.xhtml#imap">IMAP</a> or
+    <a href="glossary.xhtml#pop">POP</a>)</li>
+</ul>
+
+<p>Before you set up a newsgroup account, your ISP or email provider should
+  give you the following information:</p>
+
+<ul>
+  <li>your email address</li>
+  <li>newsgroup server name</li>
+  <li>account name</li>
+</ul>
+
+<p>To set up a new mail, newsgroup or blogs &amp; news feeds account, begin
+  from the Mail window:</p>
+
+<ol>
+  <li>Open the Edit menu and choose Mail &amp; Newsgroups Account Settings. You
+    see the Mail &amp; Newsgroups Account Settings dialog box.</li>
+  <li>Click Add Account to start the Account Wizard.
+
+    <p>The information requested by the Account Wizard depends on the type of
+      new account you specify in its first window. The boldface headings that
+      follow correspond to the windows you&apos;ll see when you&apos;re setting
+      up an ISP or email provider account.</p>
+  </li>
+  <li><strong>New Account Setup</strong>: Choose the type of account you want
+    to set up, then click the right arrow.</li>
+  <li><strong>Identity</strong>: Enter the name and email address appropriate
+    for this account, then click the right arrow. This window is not available
+    for the Blogs &amp; News Feeds account type.</li>
+  <li><strong>Server Information</strong>: This window is not available for
+    for the Blogs &amp; News Feeds account type.
     <ul>
-      <li><a href=
-      "#getting_started_with_mozilla_mail_and_newsgroups">Débuter avec
-      &brandShortName; Courrier et Groupes</a></li>
+      <li>Indicate whether you want a POP account or an IMAP account. Not all
+        service providers can support both options. For more information, see
+        <a href="mailnews_account_settings.xhtml#server_settings">Mail &amp;
+        Newsgroups Account Settings - Server Settings</a>.</li>
+      <li>Enter the name of your incoming mail server.</li>
+      <li>If you want this account to be a part of the Local Folders Global
+        Inbox account, check the <q>Use Global Inbox</q> box. Mail for
+        this account will then be stored in your Local Folders. Otherwise, if
+        the checkbox is unchecked, mail will be stored in its own
+        directory.</li>
+      <li>Enter the name of your outgoing mail server (SMTP).
 
-      <li><a href="#importing_mail_from_other_programs">Importer des messages
-      provenant d'autres programmes</a></li>
-
-      <li><a href="mailnews_using_mail.xhtml#reading_messages">Lire les messages</a></li>
-
-      <li><a href="mailnews_using_mail.xhtml#sending_messages">Envoyer des messages</a></li>
-
-      <li><a href="mailnews_using_mail.xhtml#creating_html_mail_messages">Créer des messages au
-      format HTML</a></li>
-
-      <li><a href="mailnews_using_mail.xhtml#using_attachments">Utiliser les pièces jointes</a></li>
-
-      <li><a href="mailnews_using_mail.xhtml#deleting_messages">Supprimer des messages</a></li>
-
-      <li><a href="mailnews_addressbooks.xhtml#using_address_books">Utiliser des carnets d'adresses</a></li>
-
-      <li><a href="mailnews_organizing.xhtml#organizing_your_messages">Organiser vos messages</a></li>
-
-      <li><a href="mailnews_organizing.xhtml#controlling_junk_mail">Contrôler les courriers
-      indésirables</a></li>
-
-      <li><a href="mailnews_newsgroups.xhtml">Premier pas dans les groupes</a></li>
-
-	  <li><a href="mail_newsblogs_help.xhtml">Lire les flux de blogs et de nouvelles</a></li>
-
-      <li><a href="mailnews_offline.xhtml">Travailler hors connexion</a></li>
-
-      <li><a href="mailnews_security.xhtml">Signer et chiffrer des messages</a></li>
-
-      <li><a href="mailnews_account_settings.xhtml">Paramètres des
-      comptes courrier et groupes</a></li>
-
-      <li><a href="mailnews_preferences.xhtml">Préférences
-      de Courrier et Groupes</a></li>
+        <p><strong>Note</strong>: You need to specify only one outgoing mail
+          server (SMTP), even if you have several mail accounts. The name of
+          your <a href="glossary.xhtml#smtp">SMTP</a> host may not have been
+          explicitly listed in the account setup information provided to you.
+          For example, your SMTP host may be the same as your POP or IMAP host.
+          If in doubt, contact your ISP or system administrator.</p>
+      </li>
+      <li>Click the right arrow to continue.</li>
     </ul>
-  </div>
+  </li>
+  <li><strong>User Names</strong>: Enter the incoming and outgoing user names
+    provided by your ISP or email provider, then click the right arrow. This
+    window is not available for the Blogs &amp; News Feeds account type.</li>
+  <li><strong>Account Name</strong>: Enter whatever name you want to use to
+    refer to this account, then click the right arrow.</li>
+  <li><strong>Congratulations!</strong> Verify that the information you entered
+    is correct. If necessary, verify the information you entered with your ISP
+    or system administrator. When you are sure that it&apos;s correct, click
+    Finish to set up your account.</li>
+  <li>You see your new account listed in the left side of the Mail &amp;
+    Newsgroups Account Settings dialog box. Click OK to start using your new
+    account.</li>
+</ol>
 
-  <h1 id="getting_started_with_mozilla_mail_and_newsgroups">Débuter avec
-  &brandShortName; Courrier et Groupes</h1>
+<p>You are now ready to get messages from your account. &brandShortName; Mail
+  &amp; Newsgroups will prompt you for your password when you retrieve mail for
+  the first time every session. For detailed instructions on how to retrieve
+  mail, see <a href="mailnews_using_mail.xhtml#getting_new_messages">Getting
+  New Messages</a>.</p>
 
-  <div class="contentsBox">
-    <p>Dans cette section&#160;:</p>
+<p>[<a href="#getting_started_with_mozilla_mail_and_newsgroups">Return to
+  beginning of section</a>]</p>
 
+<h2 id="setting_up_additional_mail_and_news_accounts">Setting Up Additional
+  Mail and News Accounts</h2>
+
+<p>You use the Account Settings dialog box to add a new account or to change
+  information for an existing account, including:</p>
+
+<ul>
+  <li>mail and newsgroup server settings (for example, message deletion and
+    download preferences)</li>
+  <li>storage settings for message copies and folders</li>
+  <li>your reply-to address, organization name, and signature</li>
+</ul>
+
+<p>To add a new account or change settings for an existing account, begin from
+  the Mail window:</p>
+
+<ol>
+  <li>Open the Edit menu and choose Mail &amp; Newsgroups Account Settings. You
+    see the Mail &amp; Newsgroups Account Settings dialog box. You can perform
+    these tasks:
     <ul>
-      <li><a href="#using_the_mail_account_setup_wizard">Utiliser l'assistant
-      de configuration du courrier</a></li>
+      <li><strong>Add Account</strong>: Click this button to set up a new mail,
+        news or blogs &amp; news feeds account. Be sure to type the account
+        information exactly as it is given to you. Move through the screens
+        with the arrows, or click Cancel to stop account creation.</li>
+      <li id="set_as_default"><strong>Set as Default</strong>: Select an
+        account, then click this button to make the selected account the
+        default one. The default account will appear at the top of your list
+        of accounts in the Mail window. The change takes effect the next time
+        you open Mail &amp; Newsgroups.
 
-      <li><a href="#setting_up_additional_mail_and_news_accounts">Configurer
-      des comptes de messagerie ou groupes supplémentaires</a></li>
-
-      <li><a href="#changing_the_settings_for_an_account">Modifier les
-      paramètres d'un compte</a></li>
+        <p>The default account determines which address is filled into the
+          From: field when you compose a new mail with either no other mail or
+          news account active (i.e. Local Folders or a blogs &amp; news feeds
+          account is selected), through an external application request, or by
+          following a mailto: link.</p>
+        
+        <p><strong>Note:</strong> You can&apos;t set a blogs &amp; news feeds
+          account as default.</p>
+      </li>
+      <li><strong>Remove Account</strong>: Select an account, then click this
+        button to remove it completely from your Mail window.</li>
+      <li><strong>Outgoing Server (SMTP)</strong>: Click this (at the bottom of
+        the list of accounts) to modify information about the outgoing mail
+        server. See
+        <a href="mailnews_account_settings.xhtml#outgoing_server">Mail &amp;
+        Newsgroups Account Settings - Outgoing Server (SMTP)</a> for more
+        information.</li>
     </ul>
-  </div>
-
-  <h2 id="using_the_mail_account_setup_wizard">Utiliser l'assistant de
-  configuration du courrier</h2>
-
-  <p>Pour configurer un compte de courrier, de groupes ou de flux, ouvrez d'abord le menu
-  <q>&windowMenu.label;</q> et choisissez <q>Courrier</q>. Si vous n'avez pas encore
-  configuré de compte, l'assistant de création de compte s'ouvre
-  automatiquement, pour vous permettre de le faire.</p>
-
-  <p>Cet assistant vous guide dans le processus de création d'un nouveau
-  compte. Si vous ne connaissez pas un paramètre, cliquez sur
-  <q>&undoDefaultCmd.label;</q> et demandez à votre fournisseur d'accès à
-  internet (FAI) ou à votre service d'assistance.</p>
-
-  <p>Si un compte est déjà configuré, l'assistant de création de compte
-  n'apparaîtra pas. Dans ce cas, après avoir ouvert la fenêtre <q>Courrier</q>,
-  ouvrez le menu <q>&fileMenu.label;</q> et choisissez <q>&newMenu.label;</q>,
-  puis <q>&newAccountCmd.label;</q>. Pour plus d'informations, voir la section
-  <a href="#setting_up_additional_mail_and_news_accounts">Configurer des comptes
-  de courrier, de groupes ou de flux supplémentaires</a>.</p>
-
-  <h3 id="setting_up_mail_accounts_with_an_isp_or_email_provider">Configurer
-  des comptes de messagerie d'un FAI ou d'un fournisseur d'adresse
-  électronique</h3>
-
-  <p>Avant de configurer un compte de messagerie, votre FAI ou votre
-  fournisseur d'adresse électronique devra vous fournir les informations
-  suivantes&#160;:</p>
-
-  <ul>
-    <li>votre nom d'utilisateur&#160;;</li>
-
-    <li>votre adresse électronique&#160;;</li>
-
-    <li>les noms des serveurs de messagerie entrant et sortant (par
-    exemple&#160;: pop.laposte.net et smtp.laposte.net)&#160;;</li>
-
-    <li>le type de serveur de messagerie entrant (<a href=
-    "glossary.xhtml#imap" class="glossary">IMAP</a> ou <a href=
-    "glossary.xhtml#pop" class="glossary">POP</a>).</li>
-  </ul>
-
-  <p>Pour configurer un compte de groupes, votre FAI ou votre fournisseur
-  d'adresse électronique devra vous fournir les informations
-  suivantes&#160;:</p>
-
-  <ul>
-    <li>votre adresse électronique&#160;;</li>
-
-    <li>le nom du serveur de groupes&#160;;</li>
-
-    <li>le nom du compte.</li>
-  </ul>
-
-  <p>Pour configurer un nouveau compte de messagerie, de groupes ou de flux, ouvrez la
-  fenêtre <q>Courrier</q>&#160;:</p>
-
-  <ol>
-    <li>Ouvrez le menu <q><span class="mac">SeaMonkey</span> <span
-    class="noMac">&editMenu.label;</span></q> et choisissez <q>&accountManagerCmd.label;</q>. La fenêtre <q>Paramètres
-    des comptes courrier et groupes</q> s'ouvre.</li>
-
-    <li>Cliquez sur <q>&addAccountButton.label;</q> pour démarrer l'assistant
-    de création de compte.
-
-      <p>Ce que l'assistant vous demande de fournir dépend du type de
-      compte que vous allez créer. Dans les lignes qui suivent, le titre
-      en gras correspond à la fenêtre que vous verrez lorsque vous
-      configurerez un compte de messagerie de votre FAI ou d'un fournisseur
-      d'adresses électroniques.</p>
-    </li>
-
-    <li>Remplissez les différents champs comme indiqué ci-dessous&#160;:
-
-      <dl>
-        <dt>&accountTypeTitle.label;</dt>
-
-        <dd>Choisissez le type de compte que vous voulez, puis cliquez sur
-        <q>Suivant</q>.</dd>
-
-        <dt>&identityTitle.label;</dt>
-
-        <dd>Entrez le nom et l'adresse électronique correspondants
-        à ce compte, puis cliquez sur <q>Suivant</q>. Cette fenêtre ne s'affiche pas pour les compte de flux.</dd>
-
-        <dt>&serverTitle.label;</dt>
-
-        <dd>
-          Précisez si vous voulez un compte POP ou IMAP. Tous les prestataires
-          ne fournissent pas les deux options. Pour plus d'informations, voir la
-          section <a href="mailnews_account_settings.xhtml#server_settings">&accountManagerTitle.label; -
-          Paramètres serveur</a>. Cette fenêtre ne s'affiche pas pour les compte de flux.
-
-          <p>Vous devez aussi fournir ici les noms de vos serveurs de
-          messagerie entrant et sortant (SMTP). Il s'agit du nom du serveur de
-          messagerie qui expédie vos messages (serveur SMTP). Cliquez
-          sur <q>Suivant</q> pour continuer.</p>
-
-          <p><strong>Remarque</strong>&#160;: vous n'avez besoin de fournir
-          qu'un seul serveur de messagerie sortant <a href="glossary.xhtml#smtp"
-          class="glossary">SMTP</a>, même si vous avez plusieurs comptes de
-          messagerie. Vous n'avez pas nécessairement fourni le nom de votre
-          serveur SMTP de manière explicite lors de la configuration du compte.
-          Par exemple, votre serveur SMTP peut-être le même que votre serveur
-          POP ou IMAP. En cas de doute, contactez votre FAI ou votre
-          administrateur système.</p>
-        </dd>
-
-        <dt>&fullnameLabel.label;</dt>
-
-        <dd>Saisissez le nom par lequel vous voulez appeler ce compte, puis
-        cliquez sur <q>Suivant</q>.</dd>
-
-        <dt>&emailLabel.label;</dt>
-
-        <dd>Saisissez le nom d'utilisateur fourni par votre FAI ou votre
-        fournisseur d'adresse électronique, puis cliquez sur
-        <q>Suivant</q>. Cette fenêtre ne s'affiche pas pour les compte de flux.</dd>
-      </dl>
-    </li>
-
-    <li><strong>&completionTitle.label;</strong> Vérifiez les
-    informations que vous avez entrées avec votre FAI ou administrateur
-    système. Lorsque vous êtes sûr qu'elles sont correctes,
-    cliquez sur <q>Terminer</q> pour créer votre compte.</li>
-
-    <li>Vous pouvez voir votre nouveau compte dans la liste à gauche de la boîte
-    de dialogue <q>&accountManagerTitle.label;</q>. Cliquez sur <q>OK</q> pour
-    commencer à utiliser votre nouveau compte.</li>
-  </ol>
-
-  <p>Vous êtes maintenant prêt à récupérer les messages de votre compte.
-  &brandShortName; Courrier et groupes vous demandera votre mot de passe quand
-  vous récupérez votre courrier à la première connexion de chaque session. Pour
-  des instructions détaillées, voir la section <a
-  href="#mailnews_using_mail.xhtmlgetting_new_messages">Recevoir de nouveaux messages</a>.</p>
-
-  <p>[&#160;<a href="#getting_started_with_mozilla_mail_and_newsgroups">Retour
-  au début de la section</a>&#160;]</p>
-
-  <h2 id="setting_up_additional_mail_and_news_accounts">Configurer des comptes
-  de messagerie ou groupes supplémentaires</h2>
-
-  <p>Pour changer les paramètres d'un compte ou en ajouter un nouveau,
-  utilisez la fenêtre <q>&accountManagerTitle.label;</q>. Vous pouvez
-  alors changer&#160;:</p>
-
-  <ul>
-    <li>les paramètres des serveurs de courrier et groupes (par exemple, les
-    paramètres de suppression ou de téléchargement des messages)&#160;;</li>
-
-    <li>les paramètres de stockage des copies de messages et des
-    dossiers&#160;;</li>
-
-    <li>l'adresse à laquelle vous voulez qu'on réponde, le nom de
-    votre organisation et votre signature.</li>
-  </ul>
-
-  <p>Pour ajouter un nouveau compte ou changer les paramètres d'un compte
-  existant, à partir de la fenêtre <q>Courrier</q>&#160;:</p>
-
-  <ol>
-    <li>Choisissez <q>&accountManagerCmd.label;</q> dans le menu
-    <q>&editMenu.label;</q>. La fenêtre <q>&accountManagerTitle.label;</q>
-    s'ouvre. Vous pouvez alors effectuer ces actions&#160;:
-
-      <dl>
-        <dt>&addAccountButton.label;</dt>
-
-        <dd>Cliquez sur ce bouton pour configurer un nouveau compte de
-        messagerie, de groupes ou de flux. Assurez-vous de spécifier les
-        informations du compte exactement comme on vous les a données.
-        Cliquez sur <q>Suivant</q> et <q>Précédent</q> pour vous
-        déplacer entre les écrans. Pour annuler la
-        création du compte, cliquez sur <q>&undoDefaultCmd.label;</q>.</dd>
-
-        <dt>&setDefaultButton.label;&#160;:</dt>
-
-        <dd>
-          Sélectionnez un compte et cliquez sur ce bouton pour faire
-          apparaître le compte sélectionné en tête de
-          la liste des comptes dans la fenêtre Courrier. Les changements
-          ne prendront effet qu'une fois que vous aurez redémarré
-          &brandShortName; Courrier &amp; Groupes.
-
-          <p>Le compte par défaut est celui auquel vous voulez vous connecter pour le relever
-		  (seulement avec les comptes IMAP) que vous voulez vérifier
-          automatiquement quand vous démarrez &brandShortName; Courrier &amp;
-          Groupes. Pour les comptes POP, vous devez toujours cliquer sur le
-          bouton <q>Relever</q> pour recevoir les nouveaux messages.</p>
-
-		  <p><strong>Remarque&#160;:</strong> Un compte de flux ne peut pas être le compte pas défaut.</p>
-
-        </dd>
-
-        <dt>&removeButton.label;&#160;:</dt>
-
-        <dd>Sélectionnez un compte, puis cliquez sur ce bouton pour le
-        supprimer totalement.</dd>
-
-        <dt>&smtpServer.label;</dt>
-
-        <dd>Sélectionnez <q>&smtpServer.label;</q> (au bas de la
-        liste des comptes) pour modifier des informations sur le serveur de
-        courrier sortant. Pour plus d'informations, voir la section <a href=
-        "mailnews_account_settings.xhtml#outgoing_server">Paramètres des comptes - Serveur sortant
-        (SMTP)</a>.</dd>
-      </dl>
-    </li>
-
-    <li>Cliquez sur les éléments de la liste sous les noms des
-    comptes pour modifier les paramètres correspondants sur le panneau
-    de droite.</li>
-
-    <li>Cliquez sur <q>OK</q> pour enregistrer vos changements.</li>
-  </ol>
-
-  <p>[&#160;<a href="#getting_started_with_mozilla_mail_and_newsgroups">Retour
-  au début de la section</a>&#160;]</p>
-
-  <h2 id="changing_the_settings_for_an_account">Modifier les paramètres
-  d'un compte</h2>
-
-  <p>Pour voir ou modifier les informations d'un compte courrier ou groupes
-  existant, ouvrez la fenêtre <q>Courrier</q>&#160;:</p>
-
-  <ol>
-    <li>Ouvrez le menu <q>&editMenu.label;</q> et choisissez <q>&accountManagerCmd.label;</q>. La fenêtre
-    <q>&accountManagerTitle.label;</q> s'ouvre.</li>
-
-    <li>Cliquez sur le nom du compte dans la partie gauche de la fenêtre.
-    Les paramètres des comptes, comme votre adresse électronique
-    ou votre signature s'affichent dans la partie droite de la
-    fenêtre.</li>
-
-    <li>Cliquez sur l'une des entrées sous le nom d'un compte pour voir
-    les paramètres correspondants&#160;:
-
-      <dl>
-        <dt>Paramètres serveur&#160;:</dt>
-
-        <dd>
-          Les paramètres accessibles dépendent du type de serveur
-          (IMAP, POP, ou serveur de groupes). Pour plus d'informations, voir la
-          section <a href="mailnews_account_settings.xhtml#server_settings">Paramètres des comptes
-          courrier &amp; groupes - Paramètres serveur</a>.
-
-          <p><strong>Important</strong>&#160;: si vous avez besoin de changer
-          le type de votre serveur (par exemple, passer de POP à IMAP)
-          vous devez commencer par supprimer le compte existant. Quittez
-          ensuite &brandShortName; et redémarrez-le. Vous pouvez alors rouvrir la
-          fenêtre <q>&accountManagerTitle.label;</q> et recréer le compte avec un nouveau type de
-          serveur en cliquant sur <q>&addAccountButton.label;</q>.</p>
-        </dd>
-
-        <dt>Copies et Dossiers&#160;:</dt>
-
-        <dd>Ces paramètres déterminent s'il faut envoyer des
-        messages automatiques (copie carbone invisible) et le dossier où
-        vous souhaitez conserver des copies des messages sortants, des
-        brouillons et des modèles de messages. Pour plus d'informations,
-        voir la section <a href="mailnews_account_settings.xhtml#copies_and_folders">Paramètres des
-        comptes courrier &amp; groupes - Copies et dossiers</a>.</dd>
-
-        <dt>&addressing.label;</dt>
-
-        <dd>Ces paramètres vous permettent de définir le format
-        d'envoi d'un nouveau message ainsi que les préférences
-        d'affichage des citations. Vous pouvez également choisir
-        d'ignorer les paramètres globaux de serveur d'annuaire
-        spécifiés pour tous les carnets d'adresses dans les
-        préférences. Pour plus d'informations, voir la section
-        <a href="mailnews_account_settings.xhtml#addressing">Paramètres des comptes courrier &amp;
-        groupes - &addressing.label;</a>.</dd>
-
-        <dt>Synchronisation &amp; espace disque (comptes IMAP et de groupes
-        seulement)&#160;:</dt>
-
-        <dd>Ces paramètres s'appliquent lorsque vous êtes hors
-        ligne (déconnecté d'Internet) ou que vous avez besoin
-        d'économiser du temps de téléchargement et de
-        l'espace disque. Pour plus d'informations, voir la section <a href=
-        "mailnews_account_settings.xhtml#synchronization_and_storage_settings_imap">Synchronisation et espace disque
-        (IMAP)</a> ou <a href="mailnews_account_settings.xhtml#synchronization_and_storage_settings_nntp">Synchronisation et espace disque
-		(Groupes)</a>.</dd>
-
-        <dt>&diskspaceGroupTitle.label; (comptes POP et de flux seuls)&#160;:</dt>
-
-        <dd>Ce paramètre permet de gérer l'espace disque alloué aux messages téléchargés sur votre disque
-        dur. Pour plus d'informations, voir la section <a href="mailnews_account_settings.xhtml#disk_space_settings">Espace disque (POP)</a> ou
-		<a href="mailnews_account_settings.xhtml#disk_space_settings_blog">Espace disque (Flux)</a>.</dd>
-
-        <dt>&pref.receipts.title;</dt>
-        <dd>Ces paramètres déterminent le comportement de
-        &brandShortName; lors de la réception d'un message demandant un
-        accusé de  réception ou lors de l'envoi d'un message,
-        s'il doit en réclamer un.</dd>
-
-        <dt>Sécurité&#160;:</dt>
-
-        <dd>Ces paramètres déterminent quels <a href=
-        "glossary.xhtml#certificate" class="glossary">certificats</a> sont
-        utilisés pour signer numériquement et chiffrer les
-        messages que vous expédiez. Les signatures numériques
-        permettent à vos correspondants d'être sûr que vous
-        êtes bien l'auteur du message. Le chiffrement permet d'être
-        sûr que vos messages resteront privés durant leur transit.
-        Pour plus d'informations, voir la section <a href=
-        "#security">Paramètres des comptes courrier &amp; groupes -
-        Sécurité</a>.</dd>
-      </dl>
-    </li>
-
-    <li>Cliquez sur <q>OK</q> pour valider vos modifications.</li>
-  </ol>
-
-  <p>[&#160;<a href="#getting_started_with_mozilla_mail_and_newsgroups">Retour
-  au début de la section</a>&#160;]</p>
-
-  <h1 id="importing_mail_from_other_programs">Importer des messages provenant
-  d'autres programmes</h1>
-
-  <p>Cette partie décrit comment importer des messages
-  électroniques et des paramètres provenant de Netscape
-  Communicator, Outlook, Outlook Express et Eudora. Pour importer des carnets
-  d'adresses à partir de ces programmes, voir la section <a href=
-  "mailnews_addressbooks.xhtml#importing_address_books">Importer des carnets d'adresses</a>.</p>
-
-  <div class="contentsBox">
-    <p>Dans cette section&#160;:</p>
-
+  </li>
+  <li>Click headings under any account&apos;s name and modify the corresponding
+    settings in the panel on the right.</li>
+  <li>Click OK to save your changes.</li>
+</ol>
+
+<p>[<a href="#getting_started_with_mozilla_mail_and_newsgroups">Return to
+  beginning of section</a>]</p>
+
+<h2 id="changing_the_settings_for_an_account">Changing the Settings for an
+  Account</h2>
+
+<p>To view or change information for an existing mail or newsgroup account,
+  begin from the Mail window:</p>
+
+<ol>
+  <li>Open the Edit menu and choose Mail &amp; Newsgroups Account Settings. You
+    see the Mail &amp; Newsgroups Account Settings dialog box.</li>
+  <li>Click the account name in the left-hand side of the Account Settings
+    dialog box. You see information about the account, such as your email
+    address and signature, in the right side of the dialog box.</li>
+  <li>Click any of these items beneath the name of an account to see the
+    corresponding settings:
     <ul>
-      <li><a href="#importing_mail_messages">Importer des messages
-      électroniques</a></li>
+      <li><strong>Server Settings</strong>: The settings available depend on
+        the type of server (IMAP, POP, or newsgroup server). For more
+        information, see
+        <a href="mailnews_account_settings.xhtml#server_settings">Mail &amp;
+        Newsgroups Account Settings - Server Settings</a>.
 
-      <li><a href="#importing_mail_settings">Importer des paramètres de
-      messagerie</a></li>
+        <p><strong>Important</strong>: If you need to change the server type
+          (for example, from POP to IMAP) you must first remove the existing
+          account. Next, you must exit &brandShortName; and restart it. You can
+          then reopen the Mail &amp; Newsgroups Account Settings dialog box and
+          recreate an account with the new server type by clicking Add
+          Account.</p>
+      </li>
+      <li><strong>Copies &amp; Folders</strong>: These settings determine
+        whether to send automatic messages (blind carbon copies) and where you
+        want to store copies of outgoing messages, message drafts, and message
+        templates. For more information, see
+        <a href="mailnews_account_settings.xhtml#copies_and_folders">Mail
+        &amp; Newsgroups Account Settings - Copies &amp; Folders</a>.</li>
+      <li><strong>Composition &amp; Addressing</strong>: These settings allow
+        you to choose your default format and quoting behavior when composing a
+        message. You can also override the global directory server settings
+        specified for all address books in the Preferences dialog box. For more
+        information, see
+        <a href="mailnews_account_settings.xhtml#addressing">Mail &amp;
+        Newsgroups Account Settings - Composition &amp; Addressing</a>.</li>
+      <li><strong>Synchronization &amp; Storage (IMAP and News accounts
+        only)</strong>: These settings apply when you are working offline
+        (disconnected from the Internet) or need to save download time and
+        conserve disk space. For more information, see
+        <a href="mailnews_account_settings.xhtml#synchronization_and_storage_settings_imap">Synchronization
+        &amp; Storage Settings (IMAP)</a> or
+        <a href="mailnews_account_settings.xhtml#synchronization_and_storage_settings_nntp">Synchronization
+        &amp; Storage Settings (News)</a>.</li>
+      <li><strong>Disk Space (POP and blogs &amp; news feeds accounts
+        only)</strong>: This setting helps you manage the amount of disk
+        space that downloaded messages take up on your hard disk. For more
+        information, see
+        <a href="mailnews_account_settings.xhtml#disk_space_settings_pop">Disk
+        Space Settings (POP)</a> or
+        <a href="mailnews_account_settings.xhtml#disk_space_settings_blogs">Disk
+        Space Settings (Blogs)</a>.</li>
+      <li><strong>Security</strong>: These settings determine which
+        <a href="glossary.xhtml#certificate">certificates</a> are used to
+        digitally sign and encrypt mail messages that you send. Digital
+        signatures allow you to identify yourself reliably to others in
+        mail messages that you send. Encryption helps ensure that your
+        messages remain private while they are in transit over the
+        Internet. For more information, see
+        <a href="mailnews_account_settings.xhtml#security">Mail &amp;
+        Newsgroups Account Settings - Security</a>.</li>
     </ul>
-  </div>
+  </li>
+  <li>Click OK to save your changes.</li>
+</ol>
 
-  <h2 id="importing_mail_messages">Importer des messages
-  électroniques</h2>
+<p>[<a href="#getting_started_with_mozilla_mail_and_newsgroups">Return to
+  beginning of section</a>]</p>
 
-  <p>Pour importer des messages électroniques provenant de Netscape
-  Communicator, Outlook, Outlook Express ou Eudora&#160;:</p>
+<h1 id="importing_mail_from_other_programs">Importing Mail from Other
+  Programs</h1>
 
-  <ol>
-    <li>Ouvrez une fenêtre <q>Courrier</q>.</li>
+<p>This section describes how to import mail messages and settings from
+  Netscape Communicator, Outlook, Outlook Express, and Eudora. To import
+  address books from these programs, see
+  <a href="mailnews_addressbooks.xhtml#importing_address_books">Importing
+  Address Books</a>.</p>
 
-    <li>Ouvrez le menu <q>&tasksMenu.label;</q>, et choisissez <q>Importer</q>.
-    L'assistant d'importation de messages de &brandShortName; s'affiche.</li>
+<div class="contentsBox">In this section:
+  <ul>
+    <li><a href="#importing_mail_messages">Importing Mail Messages</a></li>
+    <li><a href="#importing_mail_settings">Importing Mail Settings</a></li>
+  </ul>
+</div>
 
-    <li>Suivez les instructions pour importer des messages.</li>
-  </ol>
+<h2 id="importing_mail_messages">Importing Mail Messages</h2>
 
-  <p>Pour Netscape Communicator, l'assistant importe tous les dossiers de
-  messagerie inclus dans les dossiers locaux. Les messages importés sont
-  ajoutés comme un nouveau dossier dans les dossiers locaux dans le
-  fenêtre &brandShortName; Courrier &amp; Groupes. Les dossiers de Communicator
-  demeurent inchangés à leur emplacement d'origine.</p>
+<p>To import mail messages from Netscape Communicator, Outlook, Outlook
+  Express, or Eudora, begin from the Mail window:</p>
 
-  <p>[&#160;<a href="#importing_mail_from_other_programs">Retour au
-  début de la section</a>&#160;]</p>
+<ol>
+  <li>Open the Tools menu, and choose Import. You see the Import Wizard.</li>
+  <li>Follow the instructions to import mail messages.</li>
+</ol>
 
-  <h2 id="importing_mail_settings">Importer des paramètres de
-  messagerie</h2>
+<p>For Netscape Communicator, the wizard imports a copy of all Communicator
+  mail folders included under Local Folders. Imported mail is added as a new
+  folder under Local Folders in the Mail window. (The Communicator mail
+  folders still remain in their original location).</p>
 
-  <p>Pour importer des paramètres de messageries provenant d'Outlook,
-  d'Outlook Express ou d'Eudora&#160;:</p>
+<p>[<a href="#importing_mail_from_other_programs">Return to beginning of
+  section</a>]</p>
 
-  <ol>
-    <li>Ouvrez une fenêtre <q>Courrier</q>.</li>
+<h2 id="importing_mail_settings">Importing Mail Settings</h2>
 
-    <li>Ouvrez le menu <q>&tasksMenu.label;</q> et choisissez <q>Importer</q>. L'assistant
-    d'importation de messages de &brandShortName; s'affiche.</li>
+<p>To import mail settings from Outlook, Outlook Express, or Eudora, begin from
+  the Mail window:</p>
 
-    <li>Suivez les instructions pour importer des paramètres de
-    messagerie.</li>
-  </ol>
+<ol>
+  <li>Open the Tools menu, and choose Import. You see the Import Wizard.</li>
+  <li>Follow the instructions to import mail settings.</li>
+</ol>
 
-  <p>[&#160;<a href="#importing_mail_from_other_programs">Retour au
-  début de la section</a>&#160;]</p>
-
- 
-  <div id="footer">
-    <!--begin frenchmozilla signature-->
-
-    <p><em>Dernière traduction&#160;: 29 janvier 2006</em></p>
-    <!-- | vérification&#160;: le 13 décembre 2003</em></p>-->
-
-    <p>Ce texte a été traduit et adapté par une
-    équipe internationale de bénévoles francophones.<br />
-    Pour plus d'informations, visitez notre site&#160;: <a href=
-    "http://frenchmozilla.sf.net"
-    hreflang="fr">http://frenchmozilla.sourceforge.net</a>.</p>
-    <!--end frenchmozilla signature-->
-  </div>
+<p>[<a href="#importing_mail_from_other_programs">Return to beginning of
+  section</a>]</p>
 </body>
 </html>

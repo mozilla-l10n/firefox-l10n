@@ -1,1105 +1,651 @@
-<?xml version="1.0" encoding="utf-8"?>
+<?xml version="1.0" encoding="UTF-8"?>
+
 <!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.1//EN"
   "http://www.w3.org/TR/xhtml11/DTD/xhtml11.dtd"[
   <!ENTITY % brandDTD SYSTEM "chrome://branding/locale/brand.dtd" >
   %brandDTD;
-  <!ENTITY % utilityOverlayDTD SYSTEM "chrome://communicator/locale/utilityOverlay.dtd" >
-  %utilityOverlayDTD;
-  <!ENTITY % tasksOverlayDTD SYSTEM "chrome://communicator/locale/tasksOverlay.dtd" >
-  %tasksOverlayDTD;
-  <!ENTITY % preferencesDTD SYSTEM "chrome://communicator/locale/pref/preferences.dtd" >
-  %preferencesDTD;
-  <!ENTITY % messengerDTD SYSTEM "chrome://messenger/locale/messenger.dtd" >
-  %messengerDTD;
-  <!ENTITY % mailPrefsOverlayDTD SYSTEM "chrome://messenger/locale/mailPrefsOverlay.dtd" >
-  %mailPrefsOverlayDTD;
-  <!ENTITY % AccountManagerDTD SYSTEM "chrome://messenger/locale/AccountManager.dtd" >
-  %AccountManagerDTD;
-  <!ENTITY % AccountWizardDTD SYSTEM "chrome://messenger/locale/AccountWizard.dtd" >
-  %AccountWizardDTD;
-  <!ENTITY % am-mainDTD SYSTEM "chrome://messenger/locale/am-main.dtd" >
-  %am-mainDTD;
-  <!ENTITY % am-addressingDTD SYSTEM "chrome://messenger/locale/am-addressing.dtd" >
-  %am-addressingDTD;
-  <!ENTITY % am-copiesDTD SYSTEM "chrome://messenger/locale/am-copies.dtd" >
-  %am-copiesDTD;
-  <!ENTITY % am-junkDTD SYSTEM "chrome://messenger/locale/am-junk.dtd" >
-  %am-junkDTD;
-  <!ENTITY % am-offlineDTD SYSTEM "chrome://messenger/locale/am-offline.dtd" >
-  %am-offlineDTD;
-  <!ENTITY % am-server-topDTD SYSTEM "chrome://messenger/locale/am-server-top.dtd" >
-  %am-server-topDTD;
-  <!ENTITY % am-server-advancedDTD SYSTEM "chrome://messenger/locale/am-server-advanced.dtd" >
-  %am-server-advancedDTD;
-  <!ENTITY % am-smimeDTD SYSTEM "chrome://messenger/locale/am-smime.dtd" >
-  %am-smimeDTD;
-  <!ENTITY % am-serverwithnoidentitiesDTD SYSTEM "chrome://messenger/locale/am-serverwithnoidentities.dtd" >
-  %am-serverwithnoidentitiesDTD;
-  <!ENTITY % am-advancedDTD SYSTEM "chrome://messenger/locale/am-advanced.dtd" >
-  %am-advancedDTD;
-  <!ENTITY % am-mdnDTD SYSTEM "chrome://messenger/locale/am-mdn.dtd" >
-  %am-mdnDTD;
-  <!ENTITY % folderPropsDTD SYSTEM "chrome://messenger/locale/folderProps.dtd" >
-  %folderPropsDTD;
-  <!ENTITY % pref-addressingDTD SYSTEM "chrome://messenger/locale/addressbook/pref-addressing.dtd" >
-  %pref-addressingDTD;
-  <!ENTITY % pref-tagsDTD SYSTEM "chrome://messenger/locale/pref-tags.dtd" >
-  %pref-tagsDTD;
-  <!ENTITY % pref-formattingDTD SYSTEM "chrome://messenger/locale/messengercompose/pref-formatting.dtd" >
-  %pref-formattingDTD;
-  <!ENTITY % pref-composing_messagesDTD SYSTEM "chrome://messenger/locale/messengercompose/pref-composing_messages.dtd" >
-  %pref-composing_messagesDTD;
-  <!ENTITY % pref-mailnewsDTD SYSTEM "chrome://messenger/locale/pref-mailnews.dtd" >
-  %pref-mailnewsDTD;
-  <!ENTITY % pref-notificationsDTD SYSTEM "chrome://messenger/locale/pref-notifications.dtd" >
-  %pref-notificationsDTD;
-  <!ENTITY % pref-junkDTD SYSTEM "chrome://messenger/locale/pref-junk.dtd" >
-  %pref-junkDTD;
-  <!ENTITY % pref-directoryDTD SYSTEM "chrome://messenger/locale/addressbook/pref-directory.dtd" >
-  %pref-directoryDTD;
-  <!ENTITY % pref-directory-addDTD SYSTEM "chrome://messenger/locale/addressbook/pref-directory-add.dtd" >
-  %pref-directory-addDTD;
-  <!ENTITY % pref-receiptsDTD SYSTEM "chrome://messenger/locale/pref-receipts.dtd" >
-  %pref-receiptsDTD;
-  <!ENTITY % pref-offlineDTD SYSTEM "chrome://messenger/locale/pref-offline.dtd" >
-  %pref-offlineDTD;
-  <!ENTITY % pref-viewing_messagesDTD SYSTEM "chrome://messenger/locale/pref-viewing_messages.dtd" >
-  %pref-viewing_messagesDTD;
-  <!ENTITY % pref-character_encodingDTD SYSTEM "chrome://messenger/locale/pref-character_encoding.dtd" >
-  %pref-character_encodingDTD;
-  <!ENTITY % smtpEditOverlayDTD SYSTEM "chrome://messenger/locale/smtpEditOverlay.dtd" >
-  %smtpEditOverlayDTD;
-  <!ENTITY % msgHdrViewOverlayDTD SYSTEM "chrome://messenger/locale/msgHdrViewOverlay.dtd" >
-  %msgHdrViewOverlayDTD;
-  <!ENTITY % msgViewPickerOverlayDTD SYSTEM "chrome://messenger/locale/msgViewPickerOverlay.dtd" >
-  %msgViewPickerOverlayDTD;
-  <!ENTITY % msgCompSMIMEOverlayDTD SYSTEM "chrome://messenger-smime/locale/msgCompSMIMEOverlay.dtd"
->
-  %msgCompSMIMEOverlayDTD;
-  <!ENTITY % abNewCardDialogDTD SYSTEM "chrome://messenger/locale/addressbook/abNewCardDialog.dtd" >
-  %abNewCardDialogDTD;
-  <!ENTITY % abCardOverlayDTD SYSTEM "chrome://messenger/locale/addressbook/abCardOverlay.dtd" >
-  %abCardOverlayDTD;
-  <!ENTITY % abCardViewOverlayDTD SYSTEM "chrome://messenger/locale/addressbook/abCardViewOverlay.dtd" >
-  %abCardViewOverlayDTD;
-  <!ENTITY % abMainWindowDTD SYSTEM "chrome://messenger/locale/addressbook/abMainWindow.dtd" >
-  %abMainWindowDTD;
 ]>
 
-<html xmlns="http://www.w3.org/1999/xhtml" lang="fr" xml:lang="fr">
+<html xmlns="http://www.w3.org/1999/xhtml">
 <head>
-  <title>Préférences de Courrier &amp; Groupes</title>
-  <meta http-equiv="Content-Type" content="application/xhtml; charset=utf-8" />
-  <!--<link rel="stylesheet" href="content_style.css" type="text/css" />-->
-  <link rel="stylesheet" type="text/css" href="helpFileLayout.css" />
-  <link rel="stylesheet" type="text/css" href="chrome://communicator/skin/smileys.css"/>
+<title>Mail &amp; Newsgroups Preferences</title>
+<link rel="stylesheet" href="helpFileLayout.css" type="text/css"/>
+<link rel="stylesheet" href="chrome://communicator/skin/smileys.css"
+      type="text/css"/>
 </head>
-
 <body>
 
-  <h1 id="mail_and_newsgroup_preferences">Préférences de Courrier
-  &amp; Groupes</h1>
+<h1 id="mail_and_newsgroup_preferences">Mail &amp; Newsgroup Preferences</h1>
 
-  <p>Les sections énumérées ci-dessous décrivent
-  comment utiliser les préférences de Courrier &amp; Groupes. Si
-  ce volet n'est pas actuellement affiché, suivez ces
-  étapes&#160;:</p>
+<p>The sections listed below describe the Mail &amp; Newsgroups preferences
+  that apply to all your mail and newsgroup accounts. To see these
+  preferences:</p>
 
-  <ol>
-    <li>Ouvrez le menu <q><span class="mac">SeaMonkey</span><span
-    class="noMac">&editMenu.label;</span></q>
-    et choisissez <q>&preferencesCmd.label;</q>.</li>
+<ol>
+  <li>Open the <span class="mac">&brandShortName;</span>
+    <span class="noMac">Edit</span> menu and choose Preferences.</li>
+  <li>Double-click Mail &amp; Newsgroups to expand the list.</li>
+</ol>
 
-    <li>Double-cliquez sur <q>Courrier et groupes de discussion</q> pour
-    développer la liste.</li>
-  </ol>
+<div class="contentsBox">In this section:
+  <ul>
+    <li><a href="#mail_and_newsgroups">Mail &amp; Newsgroups</a></li>
+    <li><a href="#message_display">Message Display</a></li>
+    <li><a href="#notifications">Notifications</a></li>
+    <li><a href="#composition">Composition</a></li>
+    <li><a href="#send_format">Send Format</a></li>
+    <li><a href="#addressing_preferences">Addressing</a></li>
+    <li><a href="#junk_and_suspect_preferences">Junk &amp; Suspect Mail</a></li>
+    <li><a href="#tags">Tags</a></li>
+    <li><a href="#return_receipts_preferences">Return Receipts</a></li>
+    <li><a href="#character_encoding">Character Encoding</a></li>
+    <li><a href="#network_and_storage_preferences">Network &amp; Storage
+      Preferences</a></li>
+  </ul>
+</div>
 
-  <div class="contentsBox">
-    <p>Dans cette section&#160;:</p>
+<h2 id="mail_and_newsgroups">Mail &amp; Newsgroups Preferences - Mail &amp;
+  Newsgroups</h2>
 
+<p>This section describes the main Mail &amp; Newsgroups preferences. If you
+  are not already viewing the Mail &amp; Newsgroups main preferences, follow
+  these steps:</p>
+
+<ol>
+  <li>Open the <span class="mac">&brandShortName;</span>
+    <span class="noMac">Edit</span> menu and choose Preferences. You see the
+    Preferences dialog box.</li>
+  <li>Click the Mail &amp; Newsgroups category.</li>
+</ol>
+
+<ul>
+  <li><strong>Confirm when moving folders to the Trash</strong>: Choose to
+    allow Mail &amp; Newsgroups to prompt you before deleting folders.</li>
+  <li><strong>Remember the last selected message</strong>: Choose this option
+    if you want &brandShortName; to select the message you had selected last
+    before leaving a folder when you reenter a folder.</li>
+  <li><strong>Preserve threading when sorting messages</strong>: Select this
+    option if you want &brandShortName; to preserve the threaded message
+    grouping
+    <a href="mailnews_using_mail.xhtml#sorting_and_threading_messages">when
+    sorting messages</a>. If it is not selected, &brandShortName; automatically
+    displays the messages unthreaded when you sort them by clicking on the
+    column headers.</li>
+  <li><strong>Only check for new mail after opening Mail &amp;
+    Newsgroups</strong>: By default, &brandShortName; checks for new messages
+    even if only a browser window is open. Choose this option if you want to
+    delay checking for new messages until after the Mail &amp; Newsgroups window
+    has been opened at least once (be it automatically <a
+    href="cs_nav_prefs_appearance.xhtml#appearance">on startup</a> or
+    manually).</li>
+  <li class="win"><strong>Make &brandShortName; the default application
+    for</strong>: Select &brandShortName; as the default mail, news or feeds
+    application for Windows and from within other applications such as Microsoft
+    Word.
+
+    <p><strong>Note</strong>: Setting &brandShortName; as the default
+      mail, news or feeds application may remove the connection that other
+      applications had with these tasks. Refer to the documentation of the
+      respective applications in order to find how to restore the defaults.</p>
+  </li>
+  <li><strong>When Mail launches, show the Start Page in the message
+    area</strong>: Select this to enable the Start Page. The Start Page
+    appears in the message area when you first open &brandShortName; Mail &amp;
+    Newsgroups. This page is the default page, but you can enter a different
+    web page or URL of your choice. To disable the Start Page, deselect this
+    option. Click Restore Default to return to the original page provided by
+    &brandShortName;.</li>
+</ul>
+
+<p>[<a href="#mail_and_newsgroup_preferences">Return to beginning of
+  section</a>]</p>
+
+<h2 id="message_display">Mail &amp; Newsgroups Preferences - Message
+  Display</h2>
+
+<p>Message Display preferences allow you to choose how messages are
+  displayed (for example, font style and color) in all accounts. If you are not
+  already viewing the Message Display settings, follow these steps:</p>
+
+<ol>
+  <li>Open the <span class="mac">&brandShortName;</span>
+    <span class="noMac">Edit</span> menu and choose Preferences. You see the
+    Preferences dialog box.</li>
+  <li>Under the Mail &amp; Newsgroups category, click Message Display. (If no
+    subcategories are visible, double-click Mail &amp; Newsgroups to expand
+    the list.)</li>
+</ol>
+
+<ul>
+  <li><strong>When opening messages, display them in</strong>: Here you can
+    choose if you want to reuse a message window for the next mail or if you
+    want to open a new one for each.</li>
+  <li><strong>Block images and other content from remote sources</strong>:
+    Select this checkbox if you do not want to display remote images and other
+    content in received messages, except from senders in your address books
+    whom you have allowed. (This checkbox is selected by default.)</li>
+  <li><strong>Wait [__] seconds before marking a message as read</strong>:
+    Choose this option if you do not want a message to be marked as read when
+    you are only taking a brief look at it. Enter the number of seconds you
+    want a message to be displayed before it gets marked as read automatically.
+
+    <p><strong>Tip</strong>: If you do not want Mail &amp; Newsgroups to mark
+      your messages as read automatically at all, you can select this option
+      and enter a very large number of seconds.</p>
+  </li>
+  <li><strong>Plain Text Messages</strong>: Select the font you prefer for
+    viewing plain-text messages: fixed width or variable width. Choosing a font
+    style, size, and color for quoted plain-text messages can help you more
+    easily distinguish quoted text (usually a message that&apos;s been
+    forwarded to you or by you).
     <ul>
-      <li><a href="#mail_and_newsgroups">Préférences de Courrier
-      et Groupes de discussion</a></li>
-
-      <!--<li><a href="#windows">Fenêtres</a></li>-->
-
-      <li><a href="#message_display">&pref.viewing.messages.title;</a></li>
-
-      <li><a href="#notifications">&pref.notifications.title;</a></li>
-
-      <li><a href="#composition">&pref.composing.messages.title;</a></li>
-
-      <li><a href="#send_format">&pref.formatting.title;</a></li>
-
-      <li><a href="#addressing_preferences">&pref.addressing.title;</a></li>
-
-      <li><a href="#junk_and_suspect_preferences">&pref.junk.title;</a></li>
-
-      <li><a href="#tags">&pref.tags.title;</a></li>
-
-      <li><a href="#return_receipts_preferences">&pref.receipts.title;</a></li>
-
-      <li><a href="#character_encoding">&pref.character.encoding.title;</a></li>
-
-      <li><a href="#network_and_storage_preferences">&pref.network.title;</a></li>
+      <li><strong>Wrap text to fit window width</strong>: Select this so that
+        incoming messages are word-wrapped to fit the width of your Mail
+        window.</li>
+      <li><strong>Display emoticons as graphics</strong>: Select this so that
+        when you receive messages that contain emoticons (also called smiley
+        faces) Mail &amp; Newsgroups can convert them to graphics, for example:
+        <table border="1">
+          <tr align="center">
+            <td><strong>This</strong>:</td>
+            <td><strong>Converts to</strong>:</td>
+          </tr>
+          <tr align="center">
+            <td>:-)</td>
+            <td><span class="smiley moz-smiley-s1"/></td>
+          </tr>
+          <tr align="center">
+            <td>:)</td>
+            <td><span class="smiley moz-smiley-s1"/></td>
+          </tr>
+          <tr align="center">
+            <td>:-(</td>
+            <td><span class="smiley moz-smiley-s2"/></td>
+          </tr>
+          <tr align="center">
+            <td>:(</td>
+            <td><span class="smiley moz-smiley-s2"/></td>
+          </tr>
+          <tr align="center">
+            <td>;-)</td>
+            <td><span class="smiley moz-smiley-s3"/></td>
+          </tr>
+          <tr align="center">
+            <td>;-p</td>
+            <td><span class="smiley moz-smiley-s4"/></td>
+          </tr>
+        </table>
+      </li>
     </ul>
-  </div>
+  </li>
+</ul>
 
-  <h2 id="mail_and_newsgroups">Préférences de Courrier &amp;
-  Groupes - Courrier et Groupes de discussion</h2>
+<p>[<a href="#mail_and_newsgroup_preferences">Return to beginning of
+  section</a>]</p>
 
-  <p>Cette section définit les préférences
-  générales de &brandShortName; Courrier &amp; Groupes. Si les
-  préférences de Courrier et Groupes ne sont actuellement pas
-  affichées, suivez les étapes suivantes&#160;:</p>
+<h2 id="notifications">Mail &amp; Newsgroups Preferences - Notifications</h2>
 
-  <ol>
-    <li>Ouvrez le menu <q><span class="mac">&brandShortName;</span><span
-    class="noMac">&editMenu.label;</span></q>
-    et choisissez <q>&preferencesCmd.label;</q>.</li>
+<p>Notification preferences allow you to select different methods for informing
+  you on arrival of a new message. So you don&apos;t have to always look in the
+  folders.</p>
 
-    <li>Cliquez sur la catégorie <q>Courrier et Groupes</q>.</li>
-  </ol>
+<ol>
+  <li>Open the <span class="mac">&brandShortName;</span>
+    <span class="noMac">Edit</span> menu and choose Preferences.</li>
+  <li>Under the Mail &amp; Newsgroups category, click Notifications. (If no
+    subcategories are visible, double-click Mail &amp; Newsgroups to expand
+    the list.)</li>
+</ol>
 
-  <dl id="windowsettings">
-    <dt>&confirmMove.label;</dt>
-
-    <dd>Cochez cette case pour que &brandShortName; Courrier &amp; Groupes vous demande
-    confirmation avant d'effacer un dossier.</dd>
-
-    <dt class="win">Utiliser &brandShortName; Courrier comme application de messagerie par
-    défaut&#160;:</dt>
-
-    <dd class="win">
-      Cochez cette case sélectionne &brandShortName; Courrier &amp; Groupes comme
-      votre logiciel de messagerie par défaut pour le système
-      MS-Windows.
-
-      <p><strong>Remarque</strong>&#160;: choisir &brandShortName; Courrier &amp; Groupes
-      par défaut indiquera au système d'exploitation qu'il est
-      désormais votre logiciel de courrier électronique en toute
-      circonstance et désactive l'ancienne application par
-      défaut. Pour restaurer l'ancienne sélection,
-      désélectionnez l'option.</p>
-    </dd>
-
-    <dt>&rememberLastMsg.label;</dt>
-
-    <dd>Choisissez cette option pour que &brandShortName; Courrier &amp; Groupes se
-    positionne automatiquement sur le dernier message sélectionné
-    lorsque vous entrez à nouveau dans un dossier.</dd>
-
-    <dt class="rediger">&preserveThreading.label;</dt>
-    <dd class="rediger">Sélectionnez cette option si vous voulez que &brandShortName; conserve
-    les messages groupés par fil <a href="mailnews_using_mail.xhtml#sorting_and_threading_messages">lorsque vous
-    triez les messages</a>. Si ce n'est pas activé, &brandShortName; affiche automatiquement les
-    messages non groupés par fil de discussion lorsque vous les triez en cliquant sur un titre
-    de colonne.</dd>
-
-    <dt>&messengerStartPage.caption;</dt>
-
-    <dd>Sélectionnez cette option pour paramétrer la page de
-    démarrage. La page de démarrage apparaît dans votre
-    boîte de réception lorsque vous démarrez &brandShortName;
-    Courrier &amp; Groupes. Cette page est la page par défaut mais vous
-    pouvez entrer une page Web différente ou une URL de votre choix.
-    Pour désactiver la page de démarrage, décochez la
-    case. Cliquez sur <q>&useDefault.label;</q> pour afficher la page
-    originale fournie par défaut.</dd>
-
-  </dl>
-
-  <p>[&#160;<a href="#mail_and_newsgroup_preferences">Retour au début de
-  la section</a>&#160;]</p>
-
-
-  <h2 id="message_display">Préférences de Courrier &amp; Groupes -
-  &pref.viewing.messages.title;</h2>
-
-  <p>Cette section décrit comment définir les
-  préférences d'affichage des messages (par exemple, style de
-  police et couleur) pour tous les comptes. Si les paramètres
-  d'affichage des messages ne sont pas encore affichés, procédez
-  comme suit&#160;:</p>
-
-  <ol>
-    <li>Ouvrez le menu <q><span class="mac">SeaMonkey</span><span
-    class="noMac">&editMenu.label;</span></q>
-    et choisissez <q>&preferencesCmd.label;</q>. Le panneau des
-    <q>&prefWindow.title;</q> s'affiche.</li>
-
-    <li>Dans la catégorie <q>Courrier et Groupes</q>, cliquez sur
-    <q>&viewingMessages.label;</q>. Si aucune sous-catégorie n'est
-    visible, double-cliquez sur <q>Courrier et Groupes</q> pour
-    développer la liste.</li>
-  </ol>
-
-  <dl>
-
-    <dt>&openingMessages.label;</dt>
-
-    <dd>Choisissez si, lorsque vous ouvrez un message, &brandShortName; Courrier &amp;
-    Groupes l'affiche dans une nouvelle fenêtre ou dans une fenêtre
-    existante.</dd>
-
-    <dt>&disableContent.label;</dt>
-	
-    <dd>Sélectionnez cette case si vous ne voulez pas
-    télécharger les images et les autres contenus
-    intégrés dans des pages Web envoyés en pièces
-    jointes, excepté pour les expéditeurs autorisés dans
-    votre carnet d'adresses. Cette case est cochée par défaut.</dd>
-
-    <dt>&autoMarkAsRead.label;</dt>
-	
-    <dd>Choisissez cette option si vous ne voulez pas que le message soit
-    marqué comme lu quand vous ne voulez y jeter qu'un coup d'œil
-    rapide. Saisissez le nombre de secondes pendant lesquelles vous voulez
-    qu'un message soit affiché avant d'être marqué comme lu
-    automatiquement.
-
-      <p><strong>Astuce</strong>&#160;: Si vous ne voulez pas que votre client
-      de messagerie marque vos messages comme lus automatiquement, vous
-      pouvez sélectionner cette option et saisir un très grand
-      nombre de secondes.</p>
-
-    </dd>
-
-  </dl>
-
-  <h3>&displayPlainText.caption;</h3>
-
-  <dl>
-    <dt>&fontPlainText.label;</dt>
-
-    <dd>Choisissez la police de votre choix pour l'affichage des messages en
-    texte simple, à largeur fixe ou variable.</dd>
-
-    <dt>&displayQuoted.label;</dt>
-
-    <dd>Choisissez un style de police pour les messages en texte simple
-    recopiés (cités) peut vous aider à distinguer le texte
-    cité (généralement un message
-    transféré).</dd>
-
-    <dt>Lors de l'affichage d'une message en texte simple&#160;:</dt>
-
-    <dd>
-      <dl>
-        <dt>&wrapInMsg.label;</dt>
-
-        <dd>Les messages entrants sont reformatés en fonction de la
-        largeur de votre fenêtre <q>Courrier</q>.</dd>
-
-        <dt>&convertEmoticons.label;</dt>
-
-        <dd>Les smileys contenus dans les messages reçus sont
-        automatiquement transformés en images par &brandShortName; Courrier &amp;
-        Groupes, par exemple.</dd>
-      </dl>
-    </dd>
-  </dl>
-
-  <table cellpadding="5" cellspacing="0" border="1" style="text-align:center;">
-    <caption>
-      Conversion des smileys en images
-    </caption>
-
-    <thead>
+<ul>
+  <li class="win"><strong>Show an alert</strong>: Select this if you want 
+    &brandShortName; Mail &amp; Newsgroups to display a sliding alert above 
+    your system tray in the lower right corner of your screen when new 
+    messages arrive. The sliding alert only appears once when new messages
+    arrive, and won&apos;t appear again until you bring the Mail &amp;
+    Newsgroups window to the front.
+    <table>
       <tr>
-        <th>Ces chaînes</th>
-
-        <th>sont converties en</th>
+        <td colspan="2"><img src="images/mail_newmail_alert.png" alt=""/></td>
       </tr>
-    </thead>
-
-    <tbody>
       <tr>
-        <td>:-)</td>
-
-        <td><span class="smiley moz-smiley-s1"/></td>
+        <td style="width: 20px;"></td>
+        <td><strong>Sliding new mail alert</strong></td>
       </tr>
+    </table>
+
+    <p>When the alert appears, clicking the link displayed in the alert will
+      take you to the first folder that has new mail.
+    </p>
+
+    <p>The new message alert will continue to work even after you close the
+      Mail window (as long as another &brandShortName; application is running).
+    </p>
+  </li>
+
+  <li class="win"><strong>Show a tray icon</strong>: Select this if you want
+    &brandShortName; Mail &amp; Newsgroups to display an icon in your system
+    tray (which is usually found in the lower right corner of your screen) when
+    new messages arrive. This icon will stay in the system tray until you have
+    visited one of your folders with new mail or checked for new messages
+    manually.
+    <p style="text-indent: 20px"><img src="images/mail_newmail_trayicon.png"
+      alt=""/>&nbsp;&nbsp;<strong>New mail tray icon</strong></p>
+    <p>When the icon appears, double-clicking it will open the &brandShortName;
+      Mail &amp; Newsgroups main window.</p>
+  </li>
+
+  <li class="mac"><strong>Animate the Dock icon</strong>: Select this if you
+    want Mail &amp; Newsgroups to bounce the &brandShortName; Dock icon when
+    new messages arrive.</li>
+  <li><strong>Play a sound</strong>: Select this if you want &brandShortName; 
+    Mail &amp; Newsgroups to play a sound when new messages arrive. You can
+    choose between the default system sound and a custom sound in WAV format.
+    If you choose the latter, use the Browse button to select the sound file in
+    the file locator. Click on the Play button to listen to the chosen sound
+    file.
+
+    <p>Once &brandShortName; Mail has been started, the new messages sound will
+      continue to work even after you close the Mail window (as long as another
+      &brandShortName; application is running).</p>
+  </li>
+</ul>
+
+<p>[<a href="#mail_and_newsgroup_preferences">Return to beginning of
+  section</a>]</p>
+
+<h2 id="composition">Mail &amp; Newsgroups Preferences - Composition</h2>
+
+<p>Composition preferences affect how you create messages (for example,
+  forwarding options and address autocompletion) in all accounts. If you are
+  not already viewing the Composition settings, follow these steps:</p>
+
+<ol>
+  <li>Open the <span class="mac">&brandShortName;</span>
+    <span class="noMac">Edit</span> menu and choose Preferences.</li>
+  <li>Under the Mail &amp; Newsgroups category, click Composition. (If no
+    subcategories are visible, double-click Mail &amp; Newsgroups to expand
+    the list.)</li>
+</ol>
+
+<ul>
+  <li><strong>Forward Messages</strong>: Choose how you want forwarded
+    message text to appear: as an attachment or inline (in the body of your
+    message).</li>
+  <li><strong>Quote attachments viewed inline in replies</strong>: If this
+    option is checked, then attachments (such as images, text, or messages)
+    viewed inline are included in the quote when replying to an email.</li>
+  <li><strong>Automatically save the message every [__] minutes</strong>:
+    Choose this option if you want Mail &amp; Newsgroups to save the message
+    you are currently composing automatically at the given interval. After a
+    computer crash or program failure you can find the latest saved version of
+    the message in your Drafts folder.</li>
+  <li><strong>Confirm when using keyboard shortcut to send message</strong>:
+    Check this option if want to be asked if you&apos;re sure to be ready to
+    send the message when you&apos;re pressing Ctrl+Return in message editor.
+    This may help you avoid accidentally sending the message if you enter the
+    keyboard shortcut by mistake when composing a message.</li>
+  <li><strong>Wrap plain text messages at [__] characters</strong>: Enter a
+    number to set the right margin for text in the message area.</li>
+  <li><strong>Check spelling before sending</strong>: Select this option to
+    have Mail &amp; Newsgroups always check the spelling of your message before
+    you send it.</li>
+  <li><strong>Check spelling as you type</strong>: Select this option to have
+    Mail &amp; Newsgroups always check the spelling of your message as you type
+    it.</li>
+  <li><strong>Language</strong>: Use the drop-down list to select the language
+    you want to use to check the spelling in your messages or to download more
+    dictionaries.</li>
+  <li><strong>Defaults for HTML Messages</strong>: Here you can define what the
+    defaults are for font, size, text and background color if you choose to
+    send mails in HTML format.</li>
+</ul>
+
+<p>[<a href="#mail_and_newsgroup_preferences">Return to beginning of
+  section</a>]</p>
+
+<h2 id="send_format">Mail &amp; Newsgroups Preferences - Send Format</h2>
+
+<p>Send Format preferences allow you to specify how you want to format your
+  outgoing messages. If you are not already viewing the Send Format settings,
+  follow these steps:</p>
+
+<ol>
+  <li>Open the <span class="mac">&brandShortName;</span>
+    <span class="noMac">Edit</span> menu and choose Preferences. You see the
+    Preferences dialog box.</li>
+  <li>Under the Mail &amp; Newsgroups category, click Send Format. (If no
+    subcategories are visible, double-click Mail &amp; Newsgroups to expand
+    the list.)</li>
+</ol>
+
+<ul>
+  <li><strong>Ask me what to do</strong>: This option requires Mail &amp;
+    Newsgroups to prompt you to choose a format before you send the
+    message.</li>
+  <li><strong>Convert the message to plain text</strong>: This option may
+    cause your message to lose formatting such as bold text.</li>
+  <li><strong>Send the message in HTML anyway</strong>: If you select this
+    option, keep in mind that some mail programs may have trouble displaying
+    the message.</li>
+  <li><strong>Send the message in both plain text and HTML</strong>: This
+    option uses more disk space.
+
+    <p>You can always override these preferences for an individual message by
+      using the Options menu in the Mail Compose window.</p>
+  </li>
+  <li><strong>HTML and Plain Text Domains</strong>: Use the Add button to add
+    the domain names that you typically send mail to, if you know which domains
+    can display HTML-formatted mail messages, and which domains can only
+    display plain text.</li>
+</ul>
+
+<p>For example, if you typically send mail to multiple recipients that have the
+  same domain name (for example, your colleagues all have email addresses that
+  end in <q>netscape.net</q>), and you know that this domain name is capable of
+  displaying HTML messages, then you can add the netscape.net domain to the
+  list of HTML Domains so that Mail &amp; Newsgroups will automatically send
+  messages in HTML format to these recipients.</p>
+
+<p>Similarly, if you typically send mail to recipients at a domain that you
+  know can only receive Plain Text messages, you can add that domain name to
+  the list of Plain Text domains, so that Mail &amp; Newsgroups automatically
+  sends messages to that domain in plain-text format.</p>
+
+<p><strong>Note</strong>: If you regularly compose HTML (formatted) mail
+  messages, keep in mind that sometimes not all recipients use mail programs
+  that can display HTML formatting properly. Send Format preferences allow you
+  to specify how you want to format messages that go to recipients who cannot
+  display HTML-formatted mail. You can convert messages to plain text, format
+  them only as HTML, or format them as both HTML and plain text. These
+  preferences apply to all your mail accounts, but only to mail messages and
+  not to newsgroup messages.</p>
+
+<p>Whenever you add a person or address card to your address book, you can
+  specify whether that addressee can receive HTML-formatted messages. However,
+  when this information is unknown, you can set Send Format preferences for how
+  Mail &amp; Newsgroups formats these messages.</p>
+
+<p>[<a href="#mail_and_newsgroup_preferences">Return to beginning of
+  section</a>]</p>
+
+<h2 id="addressing_preferences">Mail &amp; Newsgroups Preferences -
+  Addressing</h2>
+
+<p>Addressing preferences allow you to control the settings for
+  &brandShortName; Mail &amp; Newsgroups address books (for example, email
+  address collection and address autocompletion). If you are not already
+  viewing the Addressing settings, follow these steps:</p>
+
+<ol>
+  <li>Open the <span class="mac">&brandShortName;</span>
+    <span class="noMac">Edit</span> menu and choose Preferences. You see the
+    Preferences dialog box.</li>
+  <li>Under the Mail &amp; Newsgroups category, select Addressing. (If no
+    subcategories are visible, double-click Mail &amp; Newsgroups to expand
+    the list.)</li>
+</ol>
+
+<ul>
+  <li><strong>Email Address Collection</strong>: Select this if you want Mail
+    &amp; Newsgroups to automatically collect recipients&apos; email addresses.
+    Use the drop-down list to choose between having the addresses added to your
+    Collected Addresses or your Personal Address Book.</li>
+  <li id="address_autocompletion"><strong>Address Autocompletion</strong>:
+    Address autocompletion allows you to quickly address mail without having to
+    search for names or type names completely. Select from which location Mail
+    &amp; Newsgroups will search for matching addresses: <q>Local Address
+    Books</q> (Personal Address Book, Collected Addresses, or any other local
+    address book) or <q>Directory Server</q> (an available LDAP directory
+    server) or both. If you want Mail &amp; Newsgroups to highlight addresses
+    that do not autocomplete, then select that option.
+
+    <p><strong>Note</strong>: If while addressing mail, multiple email address
+      matches are found, Mail &amp; Newsgroups displays a list of all possible
+      choices.</p>
+
+    <p>If you select Directory Server, choose a directory server from the list.
+      A directory server lets you look up addresses that are not stored in one
+      of your local address books. The directory you select will also be
+      searched for matching certificates when you attempt to send an encrypted
+      message to one or more recipients for whom you don&apos;t have
+      certificates on file.</p>
+
+    <p>See <a
+      href="mailnews_addressbooks.xhtml#adding_and_removing_ldap_directories">Adding
+      and Removing LDAP Directories</a> for information on setting LDAP
+      directory server settings.</p>
+
+    <p><strong>Note</strong>: Directory server settings you enter from the
+      Preferences dialog box apply to all your mail accounts. You can override
+      these settings for individual accounts by specifying different LDAP
+      directory servers or server settings using the Addressing settings for an
+      account in the Mail &amp; Newsgroups Account Settings dialog box. To set
+      different addressing options for a specific account, open the Edit menu
+      and choose Mail &amp; Newsgroups Account Settings.</p>
+  </li>
+</ul>
+
+<p>[<a href="#mail_and_newsgroup_preferences">Return to beginning of
+  section</a>]</p>
+
+<h2 id="junk_and_suspect_preferences">Mail &amp; Newsgroups Preferences -
+  Junk &amp; Suspect Mail</h2>
+
+<p>This section describes how to use the Junk &amp; Suspect Mail preferences
+  panel. If you are not currently viewing the Junk &amp; Suspect Mail panel,
+  follow these steps:</p>
+
+<ol>
+  <li>Open the <span class="mac">&brandShortName;</span>
+    <span class="noMac">Edit</span> menu and choose Preferences.</li>
+  <li>Under the Mail &amp; Newsgroups category, select Junk &amp; Suspect Mail.
+    (If no subcategories are visible, double-click Mail &amp; Newsgroups to
+    expand the list.)</li>
+</ol>
+
+<ul>
+  <li><strong>When I mark messages as junk</strong>: Choose this to
+    set what you want &brandShortName; to do when you manually mark messages
+    as Junk.
+    <ul>
+      <li><strong>Move them to the account's <q>Junk</q> folder</strong>:
+        Choose this to move manually-marked Junk messages to the Junk folder.
+      </li>
+      <li><strong>Delete them</strong>: Choose this to move manually-marked 
+        Junk messages to the trash folder.</li>
+    </ul>
+  </li>
+  <li><strong>Mark messages as read</strong>:
+    <ul>
+      <li><strong>When &brandShortName; determines that they are junk</strong>:
+        Select this option to mark junk messages as read, so they will not show
+        up as new.</li>
+      <li><strong>When I manually mark them as junk</strong>: Select this
+        option to mark messages as read when you manually mark them as junk.
+      </li>
+    </ul>
+  </li>
+  <li><strong>Enable junk filter logging</strong>: Select this option to allow
+    logging the history of Junk mail detections. Click the <strong>Show log
+    </strong> button to open a dialog showing this log.</li>
+  <li><strong>Reset training data</strong>: Click this button to clear the
+    training data of the adaptive junk filter. Since this will effectively
+    destroy your personal junk profile, you will be asked for confirmation.
+  </li>
+  <li><strong>Tell me if the message I'm reading is a suspected email
+    scam</strong>: Choose this to make &brandShortName; analyze messages for
+    suspected email scams by looking for common techniques used to deceive
+    people.</li>
+  <li><strong>Allow anti-virus clients to scan incoming messages more
+    easily</strong>: Choose this to let &brandShortName; make it easier for
+    anti-virus software to analyze incoming mail messages for viruses before
+    they are stored locally.</li>
+</ul>
+
+<p>[<a href="#mail_and_newsgroup_preferences">Return to beginning of
+  section</a>]</p>
+
+
+<h2 id="tags">Mail &amp; Newsgroups Preferences - Tags</h2>
+
+<p>This section describes how to use the Tags preferences panel. You use the
+  Tags preferences to define the tag text, colors and order for message tags.
+  If you are not currently viewing the panel, follow these steps:</p>
+
+<ol>
+  <li>Open the <span class="mac">&brandShortName;</span>
+    <span class="noMac">Edit</span> menu and choose Preferences.</li>
+  <li>Under the Mail &amp; Newsgroups category, select Tags. (If no options
+    are visible, double-click the Mail &amp; Newsgroups category to expand the
+    list.)</li>
+</ol>
+
+<ul>
+  <li><strong>Customize Tags</strong>: Specifies the tag text and the color
+    for each tag. You can edit or replace the default tag text with your
+    own text (up to 32 characters). To change the tag color, click the color
+    chip next to that tag and select a new color. Use the Move Up and Move Down
+    buttons to order your tags by descending importance. Messages with
+    multiple tags will be colored according to their most important tag.</li>
+  <li><strong>Restore Defaults</strong>: Removes all customized tags and
+    restores just the default tags&apos; text and colors.</li>
+</ul>
+
+<p>[<a href="#mail_and_newsgroup_preferences">Return to beginning of
+  section</a>]</p>
+
+<h2 id="return_receipts_preferences">Mail &amp; Newsgroups Preferences - Return
+  Receipts</h2>
+
+<p>This section describes how to use the Return Receipts preferences panel. If
+  you are not currently viewing the Return Receipts panel, follow these
+  steps:</p>
+
+<ol>
+  <li>Open the <span class="mac">&brandShortName;</span>
+    <span class="noMac">Edit</span> menu and choose Preferences.</li>
+  <li>Under the Mail &amp; Newsgroups category, select Return Receipts. (If no
+    subcategories are visible, double-click Mail &amp; Newsgroups to expand the
+    list.)</li>
+</ol>
+
+<p>You use the Return Receipts preferences to define return receipt settings
+  for outgoing messages from all your mail accounts. You also use the Return
+  Receipt preferences to specify how to manage requests you receive for return
+  receipts.</p>
+
+<ul>
+  <li><strong>When sending messages, always request a return receipt</strong>:
+    Enables automatic return receipt requests for all outgoing messages in all
+    your mail accounts.</li>
+  <li><strong>Leave it in my Inbox</strong>: Return receipt confirmation
+    messages are delivered to your Inbox.
+
+    <p><strong>Tip</strong>: Choose this option if you want to use a filter
+      that automatically moves return receipt confirmation messages to a folder
+      you specify. For information on creating and using filters, see
+      <a href="mailnews_organizing.xhtml#creating_message_filters">Creating
+      Message Filters</a>.</p>
+  </li>
+  <li><strong>Move it to my Sent Mail folder</strong>: Incoming return receipt
+    confirmation messages are moved to your Sent mail folder.</li>
+  <li><strong>Never send a return receipt</strong>: Choose this option if you
+    do not want to send a return receipt in response to requests for return
+    receipts from others.</li>
+  <li><strong>Allow return receipts for some messages</strong>: Choose how you
+    want to respond to requests you receive for return receipts.</li>
+</ul>
+
+<p>To override these global preferences for individual accounts, see
+  <a href="mailnews_account_settings.xhtml#return_receipts">Mail &amp;
+  Newsgroups Account Settings - Return Receipts</a>.</p>
+
+<p>[<a href="#mail_and_newsgroup_preferences">Return to beginning of
+  section</a>]</p>
+
+<h2 id="character_encoding">Mail &amp; Newsgroups Preferences - Character
+  Encoding</h2>
+
+<p>Character encoding preferences allow you to choose how messages are encoded
+  when being displayed or created in all accounts. If you are not already
+  viewing the Character Encoding settings, follow these steps:</p>
+
+<ol>
+  <li>Open the <span class="mac">&brandShortName;</span>
+    <span class="noMac">Edit</span> menu and choose Preferences. You see the
+    Preferences dialog box.</li>
+  <li>Under the Mail &amp; Newsgroups category, click Character Encoding. (If
+    no subcategories are visible, double-click Mail &amp; Newsgroups to expand
+    the list.)</li>
+</ol>
+
+<ul>
+  <li><strong>Default Character Encoding</strong>: Click this drop-down list to
+    select the character encoding you want Mail &amp; Newsgroups to use as the
+    default for incoming mail and newsgroup messages. This is recommended if
+    it&apos;s likely you might receive messages in which the character encoding
+    (MIME charset) is not indicated, such as when reading messages in
+    international newsgroups.</li>
+  <li><strong>Always use this default character encoding when messages are
+    displayed</strong>: Select this to apply the default character encoding to
+    all messages.
+
+    <p><strong>Tip</strong>: You can later view or change the character
+      encoding for a specific folder. In the Mail window, select a folder from
+      the list of Mail folders. Open the View menu, and choose Character
+      Encoding.</p>
+  </li>
+  <li><strong>For messages that contain 8-bit characters, use &apos;quoted
+    printable&apos; MIME encoding</strong>: Choose to have Mail &amp;
+    Newsgroups use <q>quoted printable</q> MIME encoding when sending regular
+    messages that use an 8-bit character encoding (for example, Latin
+    ISO-8859-3).</li>
+  <li><strong>Default Character Encoding</strong>: Select the character
+    encoding you want Mail &amp; Newsgroups to use as the default for outgoing
+    mail and newsgroup messages. Note that this character encoding is
+    <strong>not</strong> used when replying to a message. Instead, the
+    character encoding of the message being replied to is used by default.
+    Choose <strong>Always use this default character encoding in
+    replies</strong> to use the default character encoding for outgoing
+    messages even when replying.</li>
+</ul>
+
+<p>[<a href="#mail_and_newsgroup_preferences">Return to beginning of
+  section</a>]</p>
+
+<h2 id="network_and_storage_preferences">Mail &amp; Newsgroups Preferences -
+  Network &amp; Storage</h2>
+
+<p>This section describes how to use the Network &amp; Storage preferences
+  panel. If you are not currently viewing the panel, follow these steps:</p>
+
+<ol>
+  <li>Open the <span class="mac">&brandShortName;</span>
+    <span class="noMac">Edit</span> menu and choose Preferences.</li>
+  <li>Under the Mail &amp; Newsgroups category, select Network &amp; Storage.
+    (If no subcategories are visible, double-click Mail &amp; Newsgroups to
+    expand the list.)</li>
+</ol>
+
+<p>The Network &amp; Storage preferences allow you to set preferences for
+  working offline, going online, mail connections and disk space.</p>
+
+<ul>
+  <li><strong>Offline</strong>: Select how you want Mail &amp; Newsgroups to
+    handle messages when going online or offline.</li>
+  <li><strong>Mail Connections</strong>: Choose how long you want Mail &amp;
+    Newsgroups to keep trying to contact the server before timing out.</li>
+  <li><strong>Disk Space</strong>: Select this to conserve disk space by 
+    automatically compacting message folders when it will save the amount 
+    of disk space you enter.</li>
+</ul>
+
+<p>See <a href="mailnews_offline.xhtml#working_offline">Working Offline</a> for
+  information on working offline.</p>
+
+<p>[<a href="#mail_and_newsgroup_preferences">Return to beginning of
+  section</a>]</p>
 
-      <tr>
-        <td>:)</td>
-
-        <td><span class="smiley moz-smiley-s1"/></td>
-      </tr>
-
-      <tr>
-        <td>:-(</td>
-
-        <td><span class="smiley moz-smiley-s2"/></td>
-      </tr>
-
-      <tr>
-        <td>:(</td>
-
-        <td><span class="smiley moz-smiley-s2"/></td>
-      </tr>
-
-      <tr>
-        <td>;-)</td>
-
-        <td><span class="smiley moz-smiley-s3"/></td>
-      </tr>
-
-      <tr>
-        <td>;-p</td>
-
-        <td><span class="smiley moz-smiley-s4"/></td>
-      </tr>
-    </tbody>
-  </table>
-
-
-  <p>[&#160;<a href="#mail_and_newsgroup_preferences">Retour au début de
-  la section</a>&#160;]</p>
-
-  <h2 id="notifications">Préférences de Courrier &amp; Groupes -
-  &pref.notifications.title;</h2>
-
-  <p>Les préférences de notifications, vous permettent de choisir
-  le type d'avertissement à utiliser lors de l'arrivée de
-  nouveaux messages. Vous n'aurez plus besoin de regarder constamment dans
-  &brandShortName; Courrier &amp; Groupes. Pour définir les
-  préférences des avertissements&#160;:</p>
-
-  <ol>
-    <li>Ouvrez le menu <q><span class="mac">SeaMonkey</span><span
-    class="noMac">&editMenu.label;</span></q>
-    et choisissez <q>&preferencesCmd.label;</q>.</li>
-
-    <li>Dans la catégorie <q>Courriers et Groupes</q>, cliquez sur
-    <q>&pref.notifications.title;</q>. Si aucune sous-catégorie n'est visible,
-    double-cliquez sur <q>Courrier et Groupes</q> pour développer la
-    liste.</li>
-  </ol>
-
-  <p><strong>&newMessagesArrive.label;</strong></p>
-
-  <dl>
-    <dt>&showAnimatedAlert.label;</dt>
-
-    <dd>
-      Cochez cette case si vous voulez que &brandShortName; Courrier &amp; Groupes
-      affiche un avertissement visuel dans la zone de notification en bas
-      à droite de votre écran lorsque de nouveaux messages arrivent.
-      L'avertissement n'apparaît qu'au premier message arrivé, et n'apparaîtra
-      plus jusqu'à ce que la fenêtre de Courrier &amp; Groupes ait été affichée.
-
-      <dl class="gallery">
-        <dt><img src="images/mail_newmail_alert.png" alt=
-        "Avertissement de nouveau message" /></dt>
-
-        <dd>Avertissement de nouveau message</dd>
-      </dl>
-
-      <p>Lorsque l'avertissement apparaît, cliquez sur le lien
-      affiché sur l'alerte vous amènera au premier dossier
-      comportant un nouveau message.</p>
-
-      <p>Une fois que &brandShortName; Courrier a été
-      démarré, l'avertissement visuel continuera de fonctionner
-      même après la fermeture de la fenêtre Courrier (tant
-      qu'une autre application &brandShortName; fonctionne).</p>
-
-    </dd>
-
-    <dt class="win">&showTrayIcon.label;</dt>
-
-    <dd class="win">Choisissez cette option si vous voulez que &brandShortName;
-    Courrier et groupes affiche une icône dans la zone de notification de votre
-    système (habituellement placée dans le coin bas à droite de votre écran)
-    quand de nouveaux messages arrivent. Cette icône restera dans la zone de
-    notification tant que vous n'aurez pas été voir l'un de vos dossiers avec
-    des nouveaux messages, ou vérifier les nouveaux messages à la main.
-
-      <dl class="gallery">
-        <dt><img src="images/mail_newmail_trayicon.png" alt=
-        "New mail tray icon" /></dt>
-
-        <dd>New mail tray icon</dd>
-      </dl>
-
-      <p>Quand l'icône apparaît, double-cliquer dessus ouvrira la fenêtre
-      principale de &brandShortName; Courrier et groupes.</p>
-
-    </dd>
-
-    <dt class="mac">&bounceSystemDockIcon.label;</dt>
-
-    <dd class="mac">Sélectionnez ceci si vous voulez que Courrier et groupes
-    fasse rebondir l'icône de &brandShortName; dans le Dock quand de nouveaux
-    messages arrivent.</dd>
-
-    <dt>&playSound.label;</dt>
-
-    <dd>
-      Cochez cette case si vous souhaitez que &brandShortName; Courrier &amp; Groupes
-      fasse entendre un son lorsque de nouveaux messages arrivent. Par
-      défaut, &brandShortName; Courrier &amp; Groupes fera entendre le son
-      système <q>Nouveau message</q>, mais vous pouvez aussi bien
-      choisir un son enregistré dans un fichier <code>.WAV</code> de votre choix.
-
-      <p>Une fois que &brandShortName; Courrier &amp; Groupes a été
-      lancé, l'avertissement sonore continuera de fonctionner même
-      après la fermeture de la fenêtre du courrier (tant qu'une
-      autre application &brandShortName; est ouverte).</p>
-    </dd>
-  </dl>
-
-  <p>[&#160;<a href="#mail_and_newsgroup_preferences">Retour au début de
-  la section</a>&#160;]</p>
-
-  <h2 id="composition">Préférences de Courrier &amp; Groupes -
-  &composingMessages.label;</h2>
-
-  <p>Cette section décrit comment définir les
-  préférences relatives à la rédaction de messages
-  (par exemple, les options de transfert et l'auto-complétion
-  d'adresses). Pour définir les préférences de composition
-  de message&#160;:</p>
-
-  <ol>
-    <li>Ouvrez le menu <q><span class="mac">SeaMonkey</span><span
-    class="noMac">&editMenu.label;</span></q>
-    et choisissez <q>&preferencesCmd.label;</q>.</li>
-
-    <li>Dans la catégorie <q>Courriers et Groupes</q>, cliquez sur
-    <q>&composingMessages.label;</q>. Si aucune sous-catégorie n'est
-    visible, double-cliquez sur <q>Courrier et Groupes</q> pour
-    développer la liste.</li>
-  </ol>
-
-  <dl>
-    <dt>Réexpédition des messages&#160;:</dt>
-
-    <dd>À l'aide de la liste déroulante, choisissez comment le
-    texte du message transféré doit apparaître, en tant que
-    <em>pièce jointe</em> ou <em>intégré</em> (dans le corps
-    du message).</dd>
-    <!--  <dt>Insérer le message original dans la réponse&#160;:</dt>
-<dd>Sélectionnez cette option pour inclure le message original dans la réponse. Définissez ensuite la position d'insertion de la réponse dans la zone de message grace à la liste déroulante.</dd> -->
-	<dt>Marquer comme citation dans les réponses les pièces jointes attachées dans le corps du
-	courriel</dt>
-
-	<dd>Si cette option est cochée, alors les pièces jointes (telles que les images, les fichiers
-	texte ou les messages) seront affichées dans les citations lorsque vous répondrez à un
-	message.</dd>
-
-    <dt class="rediger">Enregistrer automatiquement le message toutes les [__] minutes</dt>
-
-    <dd class="rediger">Choisissez cette option si vous voulez que votre client de messagerie
-enregistre le
-    message que vous êtes en train de rédiger automatiquement à intervalles donnés.
-    Après un plantage de l'ordinateur ou du programme, vous pouvez alors retrouver la dernière version
-    du message dans le dossier <q>Brouillons</q>.</dd>
-
-
-<!--    <dt>Utiliser l'encodage MIME <q>quoted printable</q> pour les messages qui
-    contiennent des caractères 8 bits. Ne pas cocher pour envoyer les
-    messages tels quels&#160;:</dt>-->
-
-    <dd>&brandShortName; Courrier &amp; Groupes emploiera un encodage MIME <q>quoted
-    printable</q> lors de l'envoi de message utilisant un encodage de
-    caractères 8 bits (par exemple Latin ISO-8859-15).</dd>
-
-    <dt>Confirmer lors de l'utilisation d'un raccourci clavier pour envoyer un
-    message&#160;:</dt>
-
-    <dd>Cochez cette case si vous voulez cette confirmation lorsque vous
-    pressez les touches <kbd class="mac">Cmd</kbd><kbd
-    class="nomac">Ctrl</kbd>+<kbd>Entrée</kbd>. Cette option
-    vous évitera d'envoyer accidentellement un message si vous commettez
-    une erreur avec les raccourcis clavier.</dd>
-
-    <dt>Reformater les messages textes en lignes de [__]
-    caractères&#160;:</dt>
-
-    <dd>Entrez un nombre pour définir la marge droite du texte dans la
-    zone de message.</dd>
-
-    <dt class="rediger">Vérifier automatiquement l'orthographe avant d'envoyer</dt>
-	
-    <dd class="rediger">Sélectionnez cette option pour que l'orthographe soit vérifiée avant d'envoyer
-    un message.</dd>
-
-    <dt class="rediger">Vérifier l'orthographe à la saisie</dt>
-	
-    <dd class="rediger">Sélectionnez cette option si vous voulez que l'orthographe soit vérifiée
-    pendant la rédaction du message.</dd>
-
-	<dt class="rediger">Langage&#160;:</dt>
-	
-	<dd class="rediger">Utilisez la liste déroulante por choisir la langue à utiliser pour vérifier
-	l'orthographe dans vos messages, ou pour installer d'autres dictionnaires.</dd>
-
-    <dt>Paramètres pas défaut pour les messages en HTML&#160;:</dt>
-
-    <dd>Vous pouvez choisir ici l'apparence de vos messages au format HTML
-    &ndash; le type de la police, sa couleur et sa taille, et enfin la couleur
-    de fond du message.</dd>
-  </dl>
-
-  <p>[&#160;<a href="#mail_and_newsgroup_preferences">Retour au début de
-  la section</a>&#160;]</p>
-
-  <h2 id="send_format">Préférences de Courrier &amp; Groupes -
-  &pref.formatting.title;</h2>
-
-  <p>Les préférences de format d'expédition vous
-  permettent de préciser comment vous souhaitez formater vos messages
-  sortants. Pour définir les préférences de format des
-  messages, procédez comme suit&#160;:</p>
-
-  <ol>
-    <li>Ouvrez le menu <span class="noMac"><q>&editMenu.label;</q></span><span
-    class="mac"><q>SeaMonkey</q></span> et choisissez
-    <q>&preferencesCmd.label;</q>. La boîte de dialogue
-    <q>&prefWindow.title;</q> s'affiche.</li>
-
-    <li>Dans la catégorie <q>Courrier et Groupes</q>, cliquez sur
-    <q>&pref.formatting.title;</q>. Si aucune sous-catégorie n'est
-    visible, double-cliquez sur <q>Courrier et Groupes</q> pour
-    développer la liste.</li>
-  </ol>
-
-  <dl>
-
-    <dt>&sendMaildesc.label;</dt>
-
-    <dd>
-
-      <dl>
-        <dt>&askMe.label;</dt>
-
-        <dd>&brandShortName; Courrier &amp; Groupes vous invite à choisir un format
-        avant d'envoyer le message.</dd>
-
-        <dt>&convertPlain.label;</dt>
-
-        <dd>Cette option vous fait perdre le formatage réservée au
-        mode HTML, tel que le corps gras, l'italique, les couleurs et les tailles
-        différenciées des caractères.</dd>
-
-        <dt>&sendHTML.label;</dt>
-
-        <dd>Certains programmes de messagerie peuvent avoir des difficultés
-        à afficher votre message.</dd>
-
-        <dt>&sendBoth.label;</dt>
-
-        <dd>Cette option utilise davantage d'espace disque.
-
-          <p>Il est toujours possible d'ignorer occasionnellement ces
-          paramètres pour un message en s'aidant du menu <q>Options</q> de
-          la fenêtre de rédaction.</p>
-        </dd>
-      </dl>
-
-    </dd>
-    <dt>&domain.title;</dt>
-
-    <dd>Utilisez le bouton <q>Ajouter</q> afin de préciser quels sont les
-    noms de domaine connus pour être en mesure d'afficher des messages
-    au format HTML, et ceux qui ne peuvent qu'afficher du texte simple.
-
-      <p>Par exemple, si vous envoyez fréquemment des messages à
-      plusieurs destinataires qui ont le même nom de domaine (par
-      exemple, l'adresse électronique de tous vos collègues se
-      termine par <q>netscape.net</q>) et si vous savez que ce nom de domaine
-      peut afficher des messages HTML, vous pouvez ajouter le nom de domaine
-      netscape.net à la liste des <q>domaines HTML</q> pour que &brandShortName;
-      Courrier &amp; Groupes envoie automatiquement les messages au format HTML
-      à ces destinataires.</p>
-
-      <p>De même, si vous envoyez fréquemment des messages
-      à des destinataires dont le domaine ne peut recevoir que des
-      messages en texte simple, vous pouvez ajouter ce nom de domaine à
-      la liste des domaines <q>texte simple</q>, afin que Courrier &amp; Groupes
-      leur envoie automatiquement les messages au format texte simple.</p>
-    </dd>
-  </dl>
-
-  <p><strong>Remarque</strong>&#160;: si vous composez
-  régulièrement des messages au format HTML, n'oubliez pas que
-  tous les destinataires n'utilisent pas un programme de messagerie affichant
-  correctement le format HTML. &brandShortName; Courrier &amp; Groupes permet de
-  préciser comment formater les messages destinés à ces
-  personnes&#160;: convertir le message en texte simple, envoyer le message en
-  HTML malgré tout ou envoyer le message en texte simple et en HTML. Ces
-  préférences s'appliquent à tous les comptes de
-  messagerie, mais uniquement aux messages électroniques et pas aux
-  contributions postées dans des groupes de discussion.</p>
-
-  <p>À chaque fois que vous ajoutez une personne ou une adresse à
-  l'un de vos carnets d'adresses, vous pouvez mentionner si ce correspondant
-  peut recevoir des messages au format HTML. Cependant, lorsque cette
-  information est inconnue, vous pouvez configurer un format d'envoi de
-  messages par défaut.</p>
-
-  <p>[ <a href="#mail_and_newsgroup_preferences">Retour au début de la
-  section</a> ]</p>
-
-  <h2 id="addressing_preferences">Préférences de Courrier &amp; Groupes -
-  &pref.addressing.title;</h2>
-
-  <p>Cette section décrit comment définir les préférences d'adressage de
-  &brandShortName; Courrier &amp; Groupes (par exemple la collecte d'adresses
-  électroniques et l'auto-complétion d'adresses). Si les paramètres d'adressage
-  ne sont pas déjà affichés, procédez comme suit&#160;:</p>
-
-  <ol>
-    <li>Ouvrez le menu <q><span class="mac">SeaMonkey</span><span
-    class="noMac">&editMenu.label;</span></q>
-    et choisissez <q>&preferencesCmd.label;</q>. La boîte de dialogue
-    <q>&prefWindow.title;</q> s'affiche.</li>
-
-    <li>Dans la catégorie <q>Courrier et Groupes</q>, cliquez sur
-    <q>&pref.addressing.title;</q>. Si aucune sous-catégorie n'est visible,
-    double-cliquez sur <q>Courrier et Groupes</q> pour développer la
-    liste.</li>
-  </ol>
-
-  <dl>
-    <dt>&emailCollectiontitle.label;</dt>
-
-    <dd>Sélectionnez ceci si vous voulez que &brandShortName; collecte
-    automatiquement les adresses électroniques. Utilisez la liste déroulante
-    pour choisir si ces adresses seront ajoutées à vos <q>Adresses
-    personnelles</q> ou aux <q>Adresses collectées</q>.
-
-    </dd>
-
-    <dt id="address_autocompletion">&addressingTitle.label;</dt>
-
-    <dd>
-      Cette fonction vous permet de remplir rapidement les champs d'adressage du
-      courrier sans devoir rechercher les noms, ou sans avoir à les
-      saisir complètement. Précisez à partir de quels
-      emplacements Courrier &amp; Groupes cherchera les adresses&#160;: <q>&addressingEnable.label;</q> (carnet d'adresses personnelles, carnet
-      d'adresses collectés et n'importe quel autre carnet d'adresses)
-      et/ou <q>Le serveur d'annuaires</q> (un annuaire LDAP disponible). Si vous
-      voulez que Courrier &amp; Groupes mette en évidence les adresses qui ne
-      sont pas complétées automatiquement, sélectionnez alors cette option.
-
-      <p><strong>Remarque</strong>&#160;: si plusieurs entrées sont
-      trouvées, Courrier &amp; Groupes affiche une liste des choix
-      possibles.</p>
-
-      <p>Si vous sélectionnez <q>&directories.label;</q>,
-      choisissez-en un dans la liste. Un serveur d'annuaire vous permet de
-      chercher des adresses qui ne sont pas stockées dans un de vos
-      carnets d'adresses locaux. L'annuaire que vous spécifiez ici sera
-      aussi interrogé pour obtenir des certificats lorsque vous tenterez
-      d'envoyer des messages chiffrés à des destinataires pour
-      lesquels vous n'en avez pas.</p>
-
-      <p>Voir <a href="mailnews_addressbooks.xhtml#adding_and_removing_ldap_directories">Ajouter et
-      retirer des annuaires LDAP</a> pour plus d'informations sur la
-      configuration d'un annuaire LDAP.</p>
-
-      <p><strong>Remarque</strong>&#160;: les préférences
-      d'annuaire LDAP entré s'appliquent à tous les comptes de
-      messagerie. Vous pouvez néanmoins passer outre ces
-      paramètres en spécifiant un annuaire LDAP ou des
-      paramètres de serveur différents en utilisant les
-      paramètres d'adressage pour un compte dans les
-      <q>&accountManagerTitle.label;</q>. Pour ce faire,
-      ouvrez le menu <q>&editMenu.label;</q> et choisissez <q>&accountManagerCmd.label;</q>.</p>
-    </dd>
-  </dl>
-
-  <p>[&#160;<a href="#mail_and_newsgroup_preferences">Retour au début de
-  la section</a>&#160;]</p>
-
-
-<div class="rediger">
-  <h2 id="junk_and_suspect_preferences">Courrier et groupes - &pref.junk.title;</h2>
-
-    <p>Cette section décrit comment utiliser le panneau de préférences des
-    courriers indésirables et suspects. Si vous ne voyez pas actuellement le panneau de
-    préférences des courriers indésirables et suspects, suivez ces étapes&#160;:</p>
-
-    <ol>
-      <li>Ouvrez le menu <span class="mac">&brandShortName;</span>
-      <span class="noMac">&editMenu.label;</span> et choisissez
-      <q>&preferencesCmd.label;</q>.</li>
-
-      <li>Sous la catégorie <q>Courriers et groupes</q>, choisissez
-      <q>&pref.junk.title;</q>. Si aucune sous-catégorie n'est visible,
-      double-cliquez sur <q>Courriers et groupes</q> pour déplier la liste.</li>
-    </ol>
-
-    <dl class="traduire">
-
-      <dt>&manualMark.label;</dt>
-
-      <dd>Choisissez ce que vous voulez que &brandShortName; fasse quand vous
-      marquez manuellement un message comme indésirable.
-
-        <dl>
-
-          <dt>&manualMarkModeMove.label;</dt>
-
-          <dd>Choisissez ceci pour déplacer les messages indésirables marqués à
-          la main vers le dossier   <q>Indésirables</q>.</dd>
-
-          <dt>&manualMarkModeDelete.label;</dt>
-
-          <dd>Choisissez ceci pour déplacer les messages indésirables marqués à
-          la main dans le dossier Corbeille.</dd>
-
-        </dl>
-
-      </dd>
-
-      <dt>markAsRead.intro</dt>
-
-      <dd>Choisissez une de ces deux options pour marquer les messages
-      indésirables comme lus, de telle manière qu'ils ne soient pas affichés
-      comme étant nouveaux&#160;
-        <dl>
-
-          <dt>&autoMarkAsRead.label;</dt>
-
-          <dd>Chaque fois que &brandShortName; identifiera un message
-          indésirable, il le marquera automatiquement comme non lu.</dd>
-
-          <dt>&manualMarkAsRead.label;</dt>
-          <dd>Les messages indésirables seront marqués comme non lus que si vous
-          les marquez comme tel manuellement.</dd>
-
-        </dl>
-
-      </dd>
-
-      <dt>&enableJunkLogging.label;</dt>
-
-      <dd>Choisissez cette option pour autoriser l'enregistrement de l'historique de la détection des messages indésirables. Cliquez sur le bouton <strong>&openJunkLog.label;</strong> pour ouvrir une boîte de dialogue affichant ce journal.</dd>
-
-      <dt>&resetTrainingData.label;</dt>
-
-      <dd>Cliquez sur ce bouton pour effacer les données d'entraînement du filtre adaptatif des indésirables. Étant donné que ceci va détruire votre profil personnel des indésirables, vous devrez le confirmer.
-      </dd>
-
-	  <dt>&enablePhishingDetector.label;</dt>
-
-	  <dd>Choose this to make &brandShortName; analyze messages for suspected email scams by looking for common techniques used to deceive people.</dd>
-
-	  <dt>&antiVirus.label;</dt>
-
-	  <dd>Choose this to let &brandShortName; make it easier for anti-virus software to analyze incoming mail messages for viruses before they are stored locally.</dd>
-
-    </dl>
-
-  <p>[&#160;<a href="#mail_and_newsgroup_preferences">Retour au début de
-  la section</a>&#160;]</p>
-
-</div>
-
-  <h2 id="tags">Préférences de Courrier &amp; Groupes - &pref.tags.title;</h2>
-
-  <p>Cette section décrit l'utilisation du panneau <q>&pref.tags.title;</q> des
-  préférences de Courrier &amp; Groupes. Vous pouvez utiliser les préférences
-  d'étiquetage pour définir les textes et couleurs d'étiquettes pour les
-  étiquettes de messages. Si ce panneau n'est pas actuellement affiché, suivez
-  ces instructions&#160;:</p>
-
-  <ol>
-    <li>Ouvrez le menu <q><span class="mac">SeaMonkey</span><span
-    class="noMac">&editMenu.label;</span></q>
-    et choisissez <q>&preferencesCmd.label;</q>.</li>
-
-    <li>Sous la catégorie <q>Courrier et Groupes</q>, sélectionnez
-    <q>&pref.tags.title;</q>. Si aucune sous-catégorie n'est visible,
-    double-cliquez sur <q>Courrier et Groupes</q> pour développer la
-    liste.</li>
-  </ol>
-
-  <dl>
-    <dt>&pref.tags.caption;</dt>
-
-    <dd class="rediger">Spécifie le nom, la couleur et l'importance de chaque
-    étiquette. Vous pouvez modifier les noms des étiquettes (32 caractères au
-    maximum), mais il ne doit pas y avoir de doublon. Pour changer la couleur de
-    l'étiquette, cliquez sur la couleur à côté de chaque étiquette et
-    sélectionnez une nouvelle couleur. Utilisez les boutons
-    <q>&raiseTagButton.label;</q> et <q>&lowerTagButton.label;</q> pour ordonner
-    vos étiquettes par ordre d'importance décroissante. Les messages avec de
-    multiples étiquettes seront colorés suivant la plus importante.</dd>
-
-    <dt>&restoreButton.label;</dt>
-
-    <dd>Restaure les noms et couleurs par défaut des étiquettes.</dd>
-  </dl>
-
-  <p>[&#160;<a href="#mail_and_newsgroup_preferences">Retour au début de
-  la section</a>&#160;]</p>
-
-  <h2 id="return_receipts_preferences">Préférences de Courrier
-  &amp; Groupes - &pref.receipts.title;</h2>
-
-  <p>Cette section décrit le volet des préférences
-  d'accusés de réception. S'il n'est pas actuellement
-  affiché, procédez comme suit&#160;:</p>
-
-  <ol>
-    <li>Ouvrez le menu <q><span class="mac">SeaMonkey</span><span
-    class="noMac">&editMenu.label;</span></q>
-    et choisissez <q>&preferencesCmd.label;</q>.</li>
-
-    <li>Sous la catégorie <q>Courrier et Groupes</q>, sélectionnez
-    <q>&pref.receipts.title;</q>. Si aucune sous-catégorie
-    n'est visible, double-cliquez sur <q>Courrier et Groupes</q> pour
-    développer la liste.</li>
-  </ol>
-
-  <p>Vous pouvez utiliser les préférences d'accusés de
-  réception pour définir les paramètres d'accusés
-  de réception pour les messages sortants de tous vos comptes. Vous
-  pouvez aussi les utiliser pour préciser comment gérer les
-  demandes d'accusés de réception que vous recevez.</p>
-
-  <dl>
-    <dt>&requestReceipt.label;</dt>
-
-    <dd>Active la demande d'accusé de réception automatique pour
-    tous les messages sortants de tous vos comptes.</dd>
-
-    <dt>&receiptArrive.label;</dt>
-
-    <dd>
-      <dl>
-        <dt>&leaveIt.label;</dt>
-
-        <dd>
-          Les accusés de réception sont déposés
-          dans votre dossier <q>Courrier</q> entrant.
-
-          <p><strong>Astuce</strong>&#160;: choisissez cette option si vous
-          voulez utiliser un filtre qui déplacera automatiquement les
-          accusés de réception dans un autre dossier. Pour plus
-          d'information sur la création et l'utilisation de filtres,
-          voir la section <a href="mailnews_organizing.xhtml#creating_message_filters">Création
-          de filtres de messages</a>.</p>
-        </dd>
-
-        <dt>&moveToSent.label;</dt>
-
-        <dd>Les retours d'accusés de réception sont
-        déplacés dans votre dossier <q>Envoyés</q> du
-        compte avec lequel le message a été envoyé.</dd>
-      </dl>
-    </dd>
-
-    <dt>&requestMDN.label;</dt>
-
-    <dd>
-      <dl>
-        <dt>&never.label;</dt>
-
-        <dd>Choisissez cette option si vous ne souhaitez par renvoyer
-        d'accusé de réception en réponse à une
-        demande de quelqu'un d'autre.</dd>
-
-        <dt>&returnSome.label;</dt>
-
-        <dd>Choisissez comment vous souhaiter répondre à des demandes d'accusés
-        de réception que vous recevez. Dans les trois listes déroulantes, vous
-        avez le choix entre&#160;: <q>&neverSend.label;</q>,
-        <q>&alwaysSend.label;</q> et <q>&askMe.label;</q>.</dd>
-      </dl>
-    </dd>
-  </dl>
-
-  <p>Pour passer outre ces préférences globales pour certains
-  comptes, voir la section <a href="mailnews_account_settings.xhtml#return_receipts">Paramètres des
-  comptes courrier &amp; groupes - &pref.receipts.title;</a>.</p>
-
-  <p>[&#160;<a href="#mail_and_newsgroup_preferences">Retour au début de
-  la section</a>&#160;]</p>
-
-<div class="rediger">
-
-  <h2 id="character_encoding">Préférences Courriers et groupes - &pref.character.encoding.title;</h2>
-
-  <p>Les préférences de l'encodage des caractères vous permettent de choisir
-  comment les messages sont encodés quand ils sont affichés ou créés, dans tous
-  les comptes. Si vous n'êtes pas déjà en train de voir les paramètres de
-  l'encodage des caractères, suivez ces étapes&#160;:</p>
-
-  <ol>
-    <li>Ouvrez le menu <span class="mac">&brandShortName;</span>
-      <span class="noMac">&editMenu.label;</span> et choisissez <q>&preferencesCmd.label;</q>. Vous voyez la boîte de dialogue des <q>&prefWindow.title;</q>.</li>
-    <li>Dans la catégorie Courriers et groupes, cliquez <q>&pref.character.encoding.title;</q>. Si aucune sous-catégorie n'est visible, double-cliquez sur <q>Courriers et groupes</q> pour déplier la liste.</li>
-  </ol>
-
-  <dl>
-
-    <dt>&viewDefaultCharset.label;</dt>
-
-    <dd>Cliquez sur cette liste déroulante pour choisir l'encodage que vous voulez que Courrier et groupes utilise comme encodage par défaut pour les courriers et messages de groupes arrivant. Ceci est recommandé si vous recevez généralement des messages dont l'encodage (charset MIME) n'est pas spécifié, par exemple si vous lisez des groupes internationaux.</dd>
-
-    <dt>&replyInDefaultCharset2.label;</dt>
-
-    <dd>Sélectionnez ceci pour appliquer l'encodage par défaut à tous les messages.
-
-      <p><strong>Astuce</strong>&#160;: Vous pouvez, plus tard, voir ou changer l'encodage pour un dossier en particulier. Dans la fenêtre Courrier, choisissez un dossier dans la liste des dossiers de courriers. Ouvrez le menu Affichage, et choisir Encodage des caractères.</p>
-    </dd>
-
-    <dt>&useMIME.label;</dt>
-
-    <dd>Choisi d'utiliser pour Courriers et groupes l'encodage MIME <q>Quoted-Printable</q> lors de l'envoi de messages qui utilisent des caractères encodés sur 8 bits (par exemple, Latin ISO-8859-3).</dd>
-
-    <dt>&sendDefaultCharset.label;</dt>
-
-    <dd>Sélectionnez l'encodage des caractères que vous voulez que <q>Courriers
-    et groupes</q> utilise par défaut pour les courriers et messages de groupes
-    sortant. Notez que cet encodage n'est <strong>pas</strong> utilisé pour
-    répondre à un message. Dans ce cas, c'est l'encodage des caractères du
-    message auquel vous répondez qui sera utilisé par défaut. Choisissez
-    <strong>Toujours utiliser cet encodage de caractères par défaut dans les
-    réponses</strong> pour utiliser l'encodage par défaut pour les messages
-    sortant, même lorsque vous répondez.</dd>
-  </dl>
-
-</div>
-  <p>[&#160;<a href="#mail_and_newsgroup_preferences">Retour au début de
-  la section</a>&#160;]</p>
-
-
-  <h2 id="network_and_storage_preferences">Préférences de
-  Courrier &amp; Groupes - &pref.network.title;</h2>
-
-  <p>Cette section décrit comment utiliser le panneau de
-  préférences <q>&networkStorage.label;</q>. Si ce panneau n'est
-  pas affiché actuellement, procédez comme suit&#160;:</p>
-
-  <ol>
-    <li>Ouvrez le menu <q><span class="mac">SeaMonkey</span><span
-    class="noMac">&editMenu.label;</span></q>
-    et choisissez <q>&preferencesCmd.label;</q>. La boîte de dialogue
-    <q>&prefWindow.title;</q> s'affiche.</li>
-
-    <li>Sous la catégorie <q>Courrier et Groupes</q>, sélectionnez
-    <q>&pref.network.title;</q>. Si aucune sous-catégorie n'est
-    visible, double-cliquez sur <q>Courrier et Groupes</q> pour
-    développer la liste.</li>
-  </ol>
-
-  <p>Les préférences &networkStorage.label; vous permettent
-  de régler les préférences le travail en mode hors connexion,
-  le passage en mode en ligne, et l'espace disque.</p>
-
-  <dl>
-    <dt>&pref.offline.caption;</dt>
-
-    <dd>
-      Sélectionnez la manière dont vous souhaitez que Courrier
-      &amp; Groupes gère les messages lors des passages en mode en ligne
-      ou hors connexion.
-
-      <p>&textStartUp;</p>
-
-      <dl>
-        <dt>&menuitemRememberPrevState;</dt>
-
-        <dd>Cette option vous permet de lancer &brandShortName; dans l'état de
-        connexion qu'il avait lors de sa fermeture. Si &brandShortName; était
-        connecté, il se lancera avec l'état connecté, et
-        vice-versa.</dd>
-
-        <dt>&menuitemAskMe;</dt>
-
-        <dd>Si vous sélectionnez cette option, &brandShortName; vous demandera
-        à chaque lancement l'état de connexion avec lequel vous
-        désirez travailler, quel que soit l'état de connexion
-        précédent.</dd>
-      </dl>
-
-      <p>&textGoingOnline;</p>
-
-      <dl>
-        <dt>&radioAskUnsent;</dt>
-
-        <dd>Une confirmation d'envoi vous sera demandée avant la
-        fermeture de &brandShortName; si vous avez des messages en cours de
-        rédaction ou dans le dossier <q>Brouillon</q>.</dd>
-
-        <dt>&radioAutoSend;</dt>
-
-        <dd>Tous les messages en cours de rédaction ou dans le dossier
-        <q>Brouillon</q> seront envoyés sans qu'il vous soit
-        demandé quoi que se soit.</dd>
-
-        <dt>&radioNotSend;</dt>
-
-        <dd>Aucun message ne sera envoyé si vous n'appuyez pas sur le
-        bouton <q>Envoyer</q> de la fenêtre de rédaction des
-        messages.</dd>
-      </dl>
-
-      <p>&textGoingOffline;</p>
-
-      <dl>
-        <dt>&radioAskDownload;</dt>
-
-        <dd>Une confirmation de téléchargement vous sera
-        demandée avant la fermeture de &brandShortName;.</dd>
-
-        <dt>&radioAutoDownload;</dt>
-
-        <dd>Tous les messages seront téléchargés sans qu'il
-        vous soit demandé quoi que se soit.</dd>
-
-        <dt>&radioNotDownload;</dt>
-
-        <dd>Aucun message ne sera téléchargé.</dd>
-      </dl>
-    </dd>
-
-	<dt>Connexions messagerie</dt>
-
-	<dd>Choisissez la durée pendant laquelle &brandShortName; Courrier &amp; Groupes essayera de
-	rester en contact avec le serveur avant un dépassement du délai de connexion.</dd>
-
-    <dt>&Diskspace;</dt>
-
-    <dd>
-      Économisez l'espace de votre disque dur en compactant
-      automatiquement vos dossiers de messages lorsque qu'une certaine
-      quantité (que vous spécifiez) d'espace disque sera
-      récupérée&#160;:
-
-      <ol>
-        <li>Cochez la case <q>&offlineCompact.label;</q>.</li>
-
-        <li>Spécifiez la taille minimale de l'espace disque pouvant être gagné
-        qui déclenchera le compactage des dossiers.</li>
-      </ol>
-    </dd>
-  </dl>
-
-  <p>Voir la section <a href="mailnews_offline.xhtml#working_offline">Travail hors connexion</a> pour
-  plus d'informations sur le travail hors connexion.</p>
-
-  <p>[&#160;<a href="#mail_and_newsgroup_preferences">Retour au début de
-  la section</a>&#160;]</p>
-
-  <div id="footer">
-    <!--begin frenchmozilla signature-->
-
-    <p><em>Dernière traduction&#160;: 29 janvier 2006</em></p>
-    <!-- | vérification&#160;: le 13 décembre 2003</em></p>-->
-
-    <p>Ce texte a été traduit et adapté par une
-    équipe internationale de bénévoles francophones.<br />
-    Pour plus d'informations, visitez notre site&#160;: <a href=
-    "http://frenchmozilla.sf.net"
-    hreflang="fr">http://frenchmozilla.sourceforge.net</a>.</p>
-    <!--end frenchmozilla signature-->
-  </div>
 </body>
 </html>
