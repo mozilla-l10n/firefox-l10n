@@ -111,8 +111,8 @@ can reach it easily. -->
 <!ENTITY forwardCmd.label             "War-lerc'h">
 <!ENTITY forwardCmd.accesskey         "W">
 <!ENTITY forwardButton.tooltip        "Mont d'ar bajennad war-lerc'h">
-<!ENTITY backForwardButtonMenu.tooltip "Grit ur c'hlik dehou pe dennit etrezek an traoñ evit diskouez ar roll istor">
-<!ENTITY backForwardButtonMenuMac.tooltip "Tennit etrezek an traoñ evit diskouez ar roll istor">
+<!ENTITY backForwardButtonMenu.tooltip "Grit ur c'hlik dehou pe sachit etrezek an traoñ evit diskouez ar roll istor">
+<!ENTITY backForwardButtonMenuMac.tooltip "Sachit etrezek an traoñ evit diskouez ar roll istor">
 <!ENTITY reloadCmd.label              "Adkargañ">
 <!ENTITY reloadCmd.accesskey          "r">
 <!ENTITY reloadButton.tooltip         "Adkargañ ar bajennad vremanel">
