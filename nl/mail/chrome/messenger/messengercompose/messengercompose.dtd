@@ -191,7 +191,7 @@
 <!ENTITY sendButton.tooltip "Dit bericht nu verzenden">
 <!ENTITY sendlaterButton.tooltip "Dit bericht later verzenden">
 <!ENTITY quoteButton.tooltip "Het vorige bericht citeren">
-<!ENTITY addressButton.tooltip "Een geadresseerde uit een adresboek selecteren">
+<!ENTITY addressButton.tooltip "Een ontvanger uit een adresboek selecteren">
 <!ENTITY attachButton.tooltip "Een bijlage koppelen">
 <!ENTITY spellingButton.tooltip "Spelling van selectie of hele bericht controleren">
 <!ENTITY saveButton.tooltip "Dit bericht opslaan">
