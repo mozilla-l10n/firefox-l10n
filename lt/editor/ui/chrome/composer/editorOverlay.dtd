@@ -189,8 +189,8 @@
 <!ENTITY styleSuperscriptCmd.accesskey "V">
 <!ENTITY styleSubscriptCmd.label       "Apatinis indeksas">
 <!ENTITY styleSubscriptCmd.accesskey   "A">
-<!ENTITY styleNonbreakingCmd.label     "Jungiamasis tarpas">
-<!ENTITY styleNonbreakingCmd.accesskey "J">
+<!ENTITY styleNonbreakingCmd.label     "Nelaužomas">
+<!ENTITY styleNonbreakingCmd.accesskey "N">
 <!ENTITY styleEm.label                 "Akcentas">
 <!ENTITY styleEm.accesskey             "e">
 <!ENTITY styleStrong.label             "Stipresnis akcentas">
@@ -237,8 +237,8 @@
 <!ENTITY heading6Cmd.accesskey         "6">
 <!ENTITY paragraphAddressCmd.label     "Adresas">
 <!ENTITY paragraphAddressCmd.accesskey "A">
-<!ENTITY paragraphPreformatCmd.label   "Tekstas be HTML formatų">
-<!ENTITY paragraphPreformatCmd.accesskey "T">
+<!ENTITY paragraphPreformatCmd.label   "Formatuotas tekstas">
+<!ENTITY paragraphPreformatCmd.accesskey "F">
 
 <!-- List menu items -->
 <!ENTITY formatlistMenu.label          "Sąrašas">
@@ -258,8 +258,8 @@
 
 <!ENTITY ParagraphSelect.tooltip       "Pasirinkti pastraipos formatą">
 <!-- Shared in Paragraph, and Toolbar menulist -->
-<!ENTITY bodyTextCmd.label             "Tik eilučių laužymas">
-<!ENTITY bodyTextCmd.accesskey         "ž">
+<!ENTITY bodyTextCmd.label             "Paprastas tekstas">
+<!ENTITY bodyTextCmd.accesskey         "t">
 <!-- isn't used in menu now, but may be added in future -->
 <!ENTITY advancedPropertiesCmd.label   "Papildoma taisa">
 <!ENTITY advancedPropertiesCmd.accesskey "P">
