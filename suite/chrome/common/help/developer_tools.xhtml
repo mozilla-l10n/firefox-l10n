@@ -1,139 +1,75 @@
-<?xml version="1.0" encoding="utf-8"?>
+<?xml version="1.0" encoding="UTF-8"?>
+
 <!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.1//EN"
   "http://www.w3.org/TR/xhtml11/DTD/xhtml11.dtd"[
   <!ENTITY % brandDTD SYSTEM "chrome://branding/locale/brand.dtd" >
   %brandDTD;
-  <!ENTITY % venkman-overlayDTD SYSTEM "chrome://venkman/locale/venkman-overlay.dtd" >
-  %venkman-overlayDTD;
-  <!ENTITY % tasksOverlayDTD SYSTEM "chrome://communicator/locale/tasksOverlay.dtd" >
-  %tasksOverlayDTD;
-  <!ENTITY % inspectorDTD SYSTEM "chrome://inspector/locale/inspector.dtd" >
-  %inspectorDTD;
 ]>
 
-<html xmlns="http://www.w3.org/1999/xhtml" lang="fr" xml:lang="fr">
+<html xmlns="http://www.w3.org/1999/xhtml">
 <head>
-  <title>Outils et développement de &brandShortName;</title>
-  <meta http-equiv="Content-Type" content="application/xhtml; charset=utf-8" />
-  <!--<link rel="stylesheet" href="content_style.css" type="text/css" />-->
-  <link rel="stylesheet" type="text/css" href="helpFileLayout.css"/>
+<title>&brandShortName; Tools and Development</title>
+<link rel="stylesheet" href="helpFileLayout.css"
+  type="text/css"/>
 </head>
-
 <body>
-  <h1 id="web_development_tools">Outils de développement Web</h1>
 
-  <p>&brandShortName; offre aux développeurs Web un certain nombre d'outils
-  utiles lors du développement et du débogage d'un projet Web.
-  Leur installation peut être optionnelle. Pour accéder à
-  ces outils, ouvrez le menu <q>Outils</q> et choisissez
-  <q>Développement Web</q>.</p>
+<h1 id="web_development_tools">Web Development Tools</h1>
 
-  <ul class="separate">
-    <li id="js_console">
-      <strong>&errorConsoleCmd.label;</strong>&#160;: La console affiche les
-      alertes, erreurs et autres messages concernant le code <a href="glossary.xhtml#javascript">JavaScript</a> et les feuilles de style
-      CSS des pages ou applications Web, ainsi que sur &brandShortName; lui-même.
-      Par défaut, les erreurs d'interprétation CSS et les erreurs JavaScript sont
-      affichées. La console peut également être utilisée pour afficher des
-      messages concernant les codes <a href="glossary.xhtml#xul"
-      class="glossary"> XUL</a> et JavaScript.
+<p>For web developers, &brandShortName; provides several tools to aid in
+  developing and debugging Web applications. Some of these are optional
+  installs. To access these tools, open the Tools menu and choose Web
+  Development.</p>
 
-      <p>Ressources Web&#160;:</p>
+<ul class="separate">
+  <li id="js_console">
+    <strong>Error Console</strong>: a console window that reports problems
+    with <a href="glossary.xhtml#javascript">JavaScript</a> and CSS code in
+    Web applications and the &brandShortName; application itself. By default, 
+    CSS parsing errors and JavaScript errors are displayed. The console can 
+    also be used to display logged messages from <a href="glossary.xhtml#xul">
+    XUL</a> and JavaScript code.
+  </li>
+  <li id="inspector">
+    <strong>DOM Inspector</strong>: a tool that can be
+    used to inspect and edit the DOM of any web document or XUL
+    application.
 
-      <ul>
-        <li><a href="http://mozinet.free.fr/moz/fcn/tester_deboguer.html"
-        hreflang="fr">Utiliser &brandShortName; pour tester et déboguer les
-        sites Web</a>, par <a href="http://mozinet.free.fr">Mozinet</a>.</li>
-      </ul>
-    </li>
+    <p>Online resources:</p>
+    
+    <ul>
+      <li><a href="http://www.brownhen.com/DI/">Introduction to the DOM
+        Inspector</a> (Ian Oeschger)</li>
+      <li><a href="http://www.mozilla.org/projects/inspector/faq.html">DOM
+        Inspector FAQ</a> (mozilla.org)</li>
+      <!-- 2006-01-27: Removed link (404).
+      <li><a href="http://gr.ayre.st/moz/evangelism/tutorials/dominspectortutorial.shtml">grayrest&apos;s
+        Guide to the DOM Inspector</a></li>
+      -->
+      <li>Creating Applications with Mozilla - Appendix B3:
+        <a href="http://books.mozdev.org/html/mozilla-app-b-sect-3.html">The
+        DOM Inspector</a></li>
+    </ul>
+  </li>
+  <li id="venkman">
+    <strong>JavaScript Debugger</strong>: also known as Venkman, this utility
+    allows you to debug JavaScript in &brandShortName;. It supports stepping,
+    breakpoints and many other features.
 
-    <li id="inspector">
-      <strong>&Inspector.title;</strong>&#160;: Cet outil sert
-      à vérifier et à éditer le <acronym title=
-      "Document Object Model">DOM</acronym> des documents Web ainsi que des
-      applications <acronym title="XML User Interface Language">XUL</acronym>.
+    <p>Online resources:</p>
 
-      <p>Ressources Web&#160;:</p>
+    <ul>
+      <li><a href="http://www.mozilla.org/projects/venkman/">Venkman JavaScript
+        Debugger Homepage</a></li>
+      <li><a href="http://www.svendtofte.com/code/learning_venkman/">Learning
+        the JavaScript debugger Venkman</a> (Svend Tofte)</li>
+      <li><a href="http://www.webreference.com/programming/javascript/venkman/">Debugging
+        JavaScript Using Venkman</a> (webreference.com, article series)</li>
+      <li><a href="http://www.hacksrus.com/~ginda/venkman/">Venkman Development
+        Homepage</a></li>
+    </ul>
+  </li>
+</ul>
 
-      <ul>
-        <li><a href="http://www.brownhen.com/DI/" hreflang=
-        "en">Introduction to the DOM Inspector</a> (Ian Oeschger)&#160;;</li>
-
-        <li><a href="http://www.mozilla.org/projects/inspector/faq.html"
-        hreflang="en">DOM Inspector FAQ</a> (<a href="http://mozilla.org"
-        hreflang="en">mozilla.org</a>)&#160;;</li>
-
-        <li><a href="http://mozfr.mozdev.org/docs/startpage-1.0/dom-guide.html"
-        hreflang="fr">Petit guide d'initiation à l'Inspecteur
-        DOM</a>&#160;;</li>
-
-        <li>Creating Applications with Mozilla - Appendix B3&#160;: <a href=
-        "http://books.mozdev.org/html/mozilla-app-b-sect-3.html" hreflang=
-        "en">The DOM Inspector</a>.</li>
-      </ul>
-    </li>
-
-    <li id="venkman">
-      <strong>&venkmanCmd.label;</strong>&#160;: également
-      connu sous le nom de <q>Venkman</q>, cet utilitaire vous permet de
-      déboguer le JavaScript de vos projets Web depuis &brandShortName;. Il
-      permet l'exécution pas à pas, les points d'arrêt et
-      fournit de nombreuses autres fonctionnalités.
-
-      <p>Ressources Web&#160;:</p>
-
-      <ul>
-        <li><a href="http://www.mozilla.org/projects/venkman/" hreflang="en">Page
-        du projet Venkman, débogueur de JavaScript</a></li>
-
-        <li><a href="http://www.svendtofte.com/code/learning_venkman/"
-        hreflang="en">Learning the JavaScript debugger Venkman</a> (Svend
-        Tofte)</li>
-
-        <li><a href=
-        "http://www.webreference.com/programming/javascript/venkman/" hreflang=
-        "en">Debugging JavaScript Using Venkman</a> (<a href=
-        "http://www.webreference.com" hreflang="en">webreference.com</a>,
-        articles)</li>
-
-        <li><a href="http://www.hacksrus.com/~ginda/venkman/"
-        hreflang="en">Venkman Development Homepage</a></li>
-      </ul>
-    </li>
-
-    <li id="xul">
-      <strong>Développement <acronym title="XML User Interface Language">XUL</acronym></strong>&#160;:
-      XUL est language dans lequel sont codés les logiciels de la fondation
-      Mozilla ainsi que toutes les extensions disponibles.
-
-      <p>Ressources Web&#160;:</p>
-
-      <ul>
-        <li><a href="http://www.xulplanet.com" hreflang="en">XULPlanet</a>, regroupe les réféences aux fonctions XUL et tout un ensemble de didacticiels.</li>
-
-        <li><a href="http://developer.mozilla.org/fr/docs/Accueil" hreflang="fr">Mozilla Developer Center</a>, XUL, XSL, CSS, XPCOM, JavaScript, documentation sur la compilation, sur les extensions, sur les th&egrave;mes, etc. Tous ce que vous avez toujours voulu savoir sur les technologies Mozilla sans jamais oser le demander.</li>
-
-        <li><a href="http://www.xulfr.org" hreflang="fr">XULfr.org</a>, le site de référence francophone. XULfr regroupe l'ensemble des traductions du site anglais XULPlanet.</li>
-
-        <li><a href="http://www.xulfr.org/forums/" hreflang="fr">Les forums
-        XULfr.org</a>, pour poser vos questions à propos du
-        développement d'extensions ou d'applications XUL.</li>
-
-      </ul>
-    </li>
-  </ul>
-
-  <div id="footer">
-    <!--begin frenchmozilla signature-->
-
-    <p><em>Derni&egrave;re révision&#160;: 1er novembre 2007</em></p>
-
-    <p>Ce texte a été traduit et adapté par une
-    équipe internationale de bénévoles francophones.<br />
-    Pour plus d'informations, visitez notre site&#160;: <a href=
-    "http://frenchmozilla.sf.net"
-    hreflang="fr">http://frenchmozilla.sf.net</a>.</p>
-    <!--end frenchmozilla signature-->
-  </div>
 </body>
 </html>

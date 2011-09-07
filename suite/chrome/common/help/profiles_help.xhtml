@@ -1,219 +1,109 @@
-<?xml version="1.0" encoding="utf-8"?>
+<?xml version="1.0" encoding="UTF-8"?>
+
 <!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.1//EN"
-  "http://www.w3.org/TR/xhtml11/DTD/xhtml11.dtd"[
+  "http://www.w3.org/TR/xhtml11/DTD/xhtml11.dtd" [
   <!ENTITY % brandDTD SYSTEM "chrome://branding/locale/brand.dtd" >
   %brandDTD;
-  <!ENTITY % tasksOverlayDTD SYSTEM "chrome://communicator/locale/tasksOverlay.dtd" >
-  %tasksOverlayDTD;
-  <!ENTITY % profileSelectionDTD SYSTEM "chrome://communicator/locale/profile/profileSelection.dtd" >
-  %profileSelectionDTD;
-  <!ENTITY % contentAreaCommandsDTD SYSTEM "chrome://communicator/locale/contentAreaCommands.dtd" >
-  %contentAreaCommandsDTD;
-  <!ENTITY % createProfileWizardDTD SYSTEM "chrome://mozapps/locale/profile/createProfileWizard.dtd" >
-  %createProfileWizardDTD;
-  <!ENTITY % preftreeDTD SYSTEM "chrome://communicator/locale/pref/preftree.dtd" >
-  %preftreeDTD;
-  <!ENTITY % utilityOverlayDTD SYSTEM "chrome://communicator/locale/utilityOverlay.dtd" >
-  %utilityOverlayDTD;
-  ]>
+]>
 
-<html xmlns="http://www.w3.org/1999/xhtml" lang="fr" xml:lang="fr">
+<html xmlns="http://www.w3.org/1999/xhtml">
 <head>
-  <meta http-equiv="Content-Type" content="application/xhtml; charset=utf-8" />
-
-  <title>Gestion des profils</title>
-  <!--<link rel="stylesheet" href="content_style.css" type="text/css" />-->
-  <link rel="stylesheet" type="text/css" href="helpFileLayout.css" />
+<title>Managing Profiles</title>
+<link rel="stylesheet" href="helpFileLayout.css"
+  type="text/css"/>
 </head>
-
 <body>
 
-  <h1 id="managing_profiles">Gestion des profils</h1>
+<h1 id="managing_profiles">Managing Profiles</h1>
 
-  <p>Si vous utilisez Internet chez vous et au travail, vous souhaiterez
-  peut-être accéder à différents jeux de
-  marque-pages, préférences, carnets d'adresses, comptes de
-  messagerie, configuration de barre latérale, etc. De même, les
-  différents membres de votre famille peuvent vouloir partager une copie
-  du même navigateur, mais conserver leurs identités Internet
-  séparées.</p>
+<p>If you use the Internet at home and at work, you may want to have access to
+  a different set of bookmarks, preferences, address books, email accounts,
+  Sidebar setup, and so on. Similarly, family members may want to share a copy
+  of the same browser software but keep their Internet identities separate.</p>
 
-  <p>Le gestionnaire de profils permet de créer différents
-  profils, chacun avec ses propres marque-pages, préférences,
-  paramètres de messagerie, etc. Un profil par défaut est
-  créé automatiquement lors de la première installation de
-  votre logiciel de navigation. Après la création d'un ou de
-  plusieurs profils supplémentaires, on vous invitera à
-  préciser celui que vous souhaitez utiliser à chaque
-  démarrage du navigateur.</p>
+<p>The Profile Manager lets you create different profiles, each with its own
+  bookmarks, preferences, email settings, and so on. You automatically create a
+  default profile when you first install your browser software. After you
+  create one or more additional profiles, you will be asked which you want to
+  use each time you launch the browser.</p>
 
-  <div class="contentsBox">
-    <p>Dans cette section&#160;:</p>
+<div class="contentsBox">In this section:
+ <ul>
+    <li><a href="#creating_a_new_profile">Creating a New Profile</a></li>
+    <li><a href="#deleting_or_renaming_a_profile">Deleting or Renaming a
+      Profile</a></li>
+  </ul>
+</div>
 
+<h2 id="creating_a_new_profile">Creating a New Profile</h2>
+
+<p>To create a profile:</p>
+
+<ol>
+  <li>Open the Profile Manager:
     <ul>
-      <li><a href="#creating_a_new_profile">Créer un nouveau profil</a></li>
-
-      <li><a href="#deleting_or_renaming_a_profile">Supprimer ou renommer un
-      profil</a></li>
+      <li><strong>If &brandShortName; is running</strong>: Open the Tools menu
+        and select Switch Profile.</li>
+      <li><strong>If &brandShortName; is closed</strong>:<span class="win">
+        Open the Start menu and choose Programs, then &brandShortName;, then
+        Profile Manager.</span><span class="mac"> Hold down the
+        <kbd>Option</kbd> key while you&apos;re starting &brandShortName; from
+        the Finder or the Dock.</span><span class="unix"> Type the following at
+        the command line: <kbd>./mozilla -profilemanager</kbd></span></li>
     </ul>
-  </div>
+  </li>
+  <li>Click Create Profile, read the Profile description, and then click
+    Next.</li>
+  <li>Enter a profile name. This can be anything you like, such as your real
+    name or a name that&apos;s related to what you use the profile for, such as
+    <q>School</q>.</li>
+  <li>Accept the default location for the new profile, or click the Choose
+    Folder button and navigate to the location you want.</li>
+  <li>If you have additional Language Packs installed, click
+    Select Language and choose the language you want.</li>
+  <li>Click Finish.</li>
+</ol>
 
-  <h2 id="creating_a_new_profile">Créer un nouveau profil</h2>
+<p>[<a href="#managing_profiles">Return to beginning of section</a>]</p>
 
-  <p>Pour créer un profil&#160;:</p>
+<h2 id="deleting_or_renaming_a_profile">Deleting or Renaming a Profile</h2>
 
-  <ol>
-    <li>Ouvrez le gestionnaire de profils&#160;:
+<p>You may want to delete profiles that you don&apos;t normally use. To delete
+  or rename an existing profile:</p>
 
-      <dl>
-        <dt>Si &brandShortName; est ouvert</dt>
+<ol>
+  <li>Open the Profile Manager:
+    <ul>
+      <li><strong>If &brandShortName; is running</strong>: Open the Tools menu
+        and select Switch Profile. <strong>Note</strong>: You can&apos;t delete
+        the profile that is in use.</li>
+      <li><strong>If &brandShortName; is closed</strong>:
+        <span class="win"> Open the Start menu and choose Programs, then
+        &brandShortName;, then Profile Manager.</span><span class="mac"> Hold
+        down the <kbd>Option</kbd> key while you&apos;re starting
+        &brandShortName; from the Finder or the Dock.</span><span class="unix">
+        Type the following at the command line:
+        <kbd>./mozilla -profilemanager</kbd></span></li>
+    </ul>
+  </li>
+  <li>To delete a profile, select its name and click Delete Profile. In the
+    confirmation box, choose one of the following options:
+    <ul>
+      <li><strong>Delete files</strong>: Deletes the whole profile folder
+        with its stored data (bookmarks, preferences, email
+        accounts, and so on). <em>Make sure that you won&apos;t need anything
+        from the profile in the future before you choose this option.</em></li>
+      <li><strong>Don&apos;t delete files</strong>: Removes the profile from
+        the list of available profiles, but keeps the profile folder. By
+        choosing this option none of your profile&apos;s stored data will be
+        deleted.</li>
+    </ul>
+  </li>
+  <li>To rename a profile, select its name, click Rename Profile, and follow the
+    instructions.</li>
+</ol>
 
-        <dd>Ouvrez le menu <q>&tasksMenu.label;</q> puis sélectionnez
-        <q>&switchProfileCmd.label;</q>.</dd>
+<p>[<a href="#managing_profiles">Return to beginning of section</a>]</p>
 
-        <dt>Si &brandShortName; n'est pas lancé</dt>
-
-        <dd>
-          <p class="win">Sous Microsoft® Windows, ouvrez le menu <q>Démarrer</q>,
-          choisissez <q>Programmes</q>, puis <q>&brandShortName;</q> et
-          sélectionnez <q>Gestionnaire de profils</q>.</p>
-
-          <p class="mac">Sous Mac OS, ouvrez le dossier de &brandShortName;, puis
-          double-cliquez sur <q>Gestionnaire de profils</q>.</p>
-          <p class="mac">Maintenez la touche <kbd>Option</kbd>
-          enfoncée lorsque vous démarrez &brandShortName;
-          à partir du Finder ou du Dock.</p>
-          <p class="unix">Saisissez ce qui suit
-          en ligne de commande&#160;: <code>./&brandShortName; -ProfileManager</code></p>
-
-          <p class="unix">Sous Linux ou Unix, dans le répertoire
-          d'installation de &brandShortName;, entrez la commande suivante dans un
-          terminal&#160;: <code>./&brandShortName; -ProfileManager</code>.</p>
-        </dd>
-      </dl>
-    </li>
-
-    <li>Cliquez sur <q>&manage.label;</q></li>
-
-    <li>Cliquez sur <q>Créer un profil…</q>, lisez sa description, puis
-    cliquez sur <q>&goForwardCmd.label;</q>.</li>
-
-    <li>Entrez un nom de profil. Il peut s'agir de votre véritable nom,
-    d'un surnom ou d'un nom associé à l'usage du profil, comme
-    <q>École</q>.</li>
-
-    <li>Acceptez le répertoire par défaut pour le nouveau profil,
-    ou cliquez sur le bouton <q>&button.choosefolder.label;</q> pour choisir un autre
-    répertoire.</li>
-
-<!--    <li>Si des modules linguistiques sont
-    installés, cliquez sur <q>button.langSelection.label</q>
-    et choisissez la langue désiré.</li> -->
-
-    <li>Cliquez sur <q>Terminer</q>.</li>
-  </ol><!--
-<p>Vous revenez alors à l'écran principal du gestionnaire de profils, avec le nouveau profil en surbrillance dans la liste des profils.</p>
--->
-
-  <p>[&#160;<a href="#managing_profiles">Retour au début de la section</a>&#160;]</p>
-
-  <h2 id="deleting_or_renaming_a_profile">Supprimer ou renommer un profil</h2>
-
-  <p>Vous souhaitez supprimer des profils que vous n'utilisez plus. Pour
-  supprimer ou renommer un profil&#160;:</p>
-
-  <ol>
-    <li>Ouvrez le gestionnaire de profils&#160;:
-
-      <dl>
-        <dt>Si &brandShortName; est ouvert</dt>
-
-        <dd>Ouvrez le menu <q>&tasksMenu.label;</q> puis sélectionnez
-        <q>&switchProfileCmd.label;</q>.</dd>
-
-        <dt>Si &brandShortName; n'est pas lancé</dt>
-
-        <dd>
-          <p class="win">Sous Windows, ouvrez le menu <q>Démarrer</q>,
-          choisissez <q>Programmes</q>, puis <q>&brandShortName;</q> et
-          sélectionnez <q>Gestionnaire de profils</q>.</p>
-
-          <p class="mac">Sous Mac OS, ouvrez le dossier de &brandShortName;, puis
-          double-cliquez sur <q>Gestionnaire de profils</q>.</p>
-          <p class="mac">Maintenez la touche <kbd>Option</kbd>
-          enfoncée lorsque vous démarrez &brandShortName;
-          à partir du Finder ou du Dock.</p>
-          <p class="unix">Saisissez ce qui suit
-          en ligne de commande&#160;: <code>./&brandShortName; -profilemanager</code></p>
-
-          <p class="unix">Sous Linux ou Unix, dans le répertoire
-          d'installation de &brandShortName;, entrez la commande suivante dans un
-          terminal&#160;: <code>./&brandShortName; -profilemanager</code>.</p>
-        </dd>
-      </dl>
-    </li>
-
-    <li>Cliquez sur <q>&manage.label;</q></li>
-
-    <li>Pour supprimer un profil, sélectionnez son nom, puis cliquez sur
-    <q>Supprimer un profil…</q>. Dans la boîte de confirmation, choisissez
-    l'une des options suivantes&#160;:
-
-      <dl>
-
-        <dt>Supprimer les fichiers&#160;:</dt>
-        <dd>Supprime tout le dossier de profil avec ses données stockées
-        (marque-pages, préférences, comptes de courrier, etc.
-        <em>Assurez-vous de ne plus avoir besoin de quoi que ce soit dans le
-        profil avant de choisir cette option.</em></dd>
-
-        <dt>Ne pas supprimer les fichiers&#160;:</dt>
-        <dd>Supprime le profil de la liste des profils disponibles mais conserve
-        le répertoire du profil. En choisissant cette option, aucune des
-        données stockées du profil ne sera effacée.</dd>
-      </dl>
-    </li>
-
-    <li>Pour renommer un profil, sélectionnez son nom, cliquez sur
-    <q>Renommer un profil…</q> et suivez les instructions.</li>
-  </ol>
-
-  <p>[&#160;<a href="#managing_profiles">Retour au début de la section</a>&#160;]</p>
-
-  <h2 id="switching_profiles">Changer de profil</h2>
-
-  <p>Si vous désirez changer de profil, vous pouvez le faire de deux
-  façons différentes.</p>
-
-  <p>La première consiste à fermer &brandShortName;, à le relancer
-  et à sélectionner un autre profil.</p>
-
-  <p>La seconde ne nécessite pas la fermeture de &brandShortName;.</p>
-
-  <ol>
-    <li>Ouvrez le menu <q>&tasksMenu.label;</q> puis sélectionnez
-    <q>&switchProfileCmd.label;</q>.</li>
-
-    <li>Choisissez le nouveau profil à utiliser.</li>
-
-    <li>Cliquez sur <q>&select.label;</q>. &brandShortName; bascule directement
-    vers le nouveau profil.</li>
-  </ol>
-
-  <p>[&#160;<a href="#managing_profiles">Retour au début de la
-  section</a>&#160;]</p>
-
-  <div id="footer">
-    <!--begin frenchmozilla signature-->
-
-    <p><em>Dernière révision&#160;: 14 juillet 2006</em></p>
-
-    <p>Ce texte a été traduit et adapté par une
-    équipe internationale de bénévoles francophones.<br />
-    Pour plus d'informations, visitez notre site&#160;: <a href=
-    "http://frenchmozilla.sf.net"
-    hreflang="fr">http://frenchmozilla.sf.net</a>.</p>
-    <!--end frenchmozilla signature-->
-  </div>
 </body>
 </html>

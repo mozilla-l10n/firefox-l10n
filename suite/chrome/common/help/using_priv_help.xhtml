@@ -1,1183 +1,793 @@
 <?xml version="1.0" encoding="utf-8"?>
+
 <!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.1//EN"
   "http://www.w3.org/TR/xhtml11/DTD/xhtml11.dtd"[
   <!ENTITY % brandDTD SYSTEM "chrome://branding/locale/brand.dtd" >
   %brandDTD;
 ]>
 
-<html xmlns="http://www.w3.org/1999/xhtml" lang="fr" xml:lang="fr">
+<html xmlns="http://www.w3.org/1999/xhtml">
 <head>
-  <meta http-equiv="Content-Type" content="application/xhtml; charset=utf-8" />
-
-  <title>Utilisation des fonctionnalités de
-  confidentialité</title>
-  <!--<link rel="stylesheet" href="content_style.css" type="text/css" />-->
-  <link rel="stylesheet" type="text/css" href="helpFileLayout.css" />
+<title>Using Privacy Features</title>
+<link rel="stylesheet" href="helpFileLayout.css"
+  type="text/css"/>
 </head>
-
 <body>
 
-  <h1 id="using_the_cookie_manager">Utiliser le gestionnaire de cookies</h1>
-
-  <p>Un cookie est un petit bloc d'informations stockées sur votre
-  ordinateur par certains sites Web. Pour une explication de ce que sont les
-  cookies, voir la section <a
-  href="privacy_help.xhtml#what_are_cookies_and_how_do_they_work">Que sont
-  les cookies, et comment fonctionnent-ils&#160;?</a></p>
-
-  <p>Avant le chargement d'une page Web utilisant des cookies, votre navigateur
-  fait deux choses&#160;:</p>
-
-  <ul>
-    <li>Il accepte ou rejette toutes les demandes du site pour
-    <strong>stocker</strong> un ou plusieurs cookies sur votre ordinateur.</li>
-
-    <li>Il accepte ou rejette toutes les demandes du site pour
-    <strong>lire</strong> des cookies qu'il a précédemment
-    enregistrés sur votre ordinateur. Il est impossible pour un site Web
-    de lire des cookies ou d'autres données sur votre ordinateur &ndash;
-    en fait, c'est votre navigateur qui récup&egrave;re et renvoie
-    lui-même les cookies au site Web.</li>
-  </ul>
-
-  <div class="contentsBox">
-    <p>Dans cette section&#160;:</p>
-
-    <ul>
-      <li><a href="#enabling_and_disabling_cookies">Activer ou
-      désactiver les cookies</a></li>
-
-      <li><a href="#managing_cookies_site-by-site">Gérer les cookies
-      site par site</a></li>
-
-      <li><a href="#viewing_cookies">Voir les cookies</a></li>
-
-      <li><a href="#removing_cookies">Supprimer les cookies</a></li>
-
-      <li><a href="#cookie_manager_settings">Préférences du
-      gestionnaire de cookie</a></li>
-    </ul>
-  </div>
-
-  <h2 id="enabling_and_disabling_cookies">Activer ou désactiver les
-  cookies</h2>
-
-  <p>Vous pouvez préciser comment les cookies doivent être
-  gérés en réglant vos préférences de
-  cookies. La configuration par défaut est <q>Activer tous les
-  cookies</q>.</p>
-
-  <p>Pour changer vos préférences pour les cookies&#160;:</p>
-
-  <ol>
-    <li>Ouvrez le menu <q><span class="mac">SeaMonkey</span><span
-    class="noMac">édition</span></q>
-    et sélectionnez <q>Préférences&hellip;</q>.</li>
-
-    <li>Dans la catégorie <q>Confidentialité et
-    sécurité</q>, choisissez <q>Cookies</q>. Si aucune
-    sous-catégorie n'est visible, double-cliquez sur la catégorie
-    <q>Confidentialité et sécurité</q>.</li>
-
-    <li>Configurez vos préférences des Cookies.</li>
-  </ol>
-
-  <p>Pour plus d'informations sur l'effet de chaque configuration, voir la
-  section <a href="#cookies">Préférences de
-  Confidentialité et sécurité - Cookies</a>.</p>
-
-  <p>[&#160;<a href="#using_the_cookie_manager">Retour au début de la
-  section</a>&#160;]</p>
-
-  <h2 id="managing_cookies_site-by-site">Gérer les cookies site par
-  site</h2>
-
-  <p>Pour définir les cookies pour le site en cours&#160;:</p>
-
-  <ol>
-  <li>Ouvrez le menu <q>Outils</q> et sélectionnez <q>Gestionnaire de
-  cookies</q>.</li>
-
-  <li>Choisissez un des éléments suivants&#160;:
-    <dl>
-      <dt>Interdire les cookies de ce site&#160;:</dt>
-      <dd>Empêche le site en cours de définir des cookies.</dd>
-
-      <dt>Utiliser les permissions des cookies par défaut&#160;:</dt>
-      <dd>Redéfinit les permissions pour les cookies du site en cours et
-      utilise les <a href="#cookie_manager_settings">param&egrave;tres par
-      défaut</a>.</dd>
-
-      <dt>Autoriser les cookies de session de ce site&#160;:</dt>
-      <dd>Autorise le site en cours à définir des cookies de
-      session. Les cookies persistants de ce site seront modifiés en
-      cookies de session.</dd>
-
-      <dt>Autoriser les cookies de ce site&#160;:</dt>
-      <dd>Autorise le site en cours à définir des cookies.</dd>
-    </dl>
-  </li>
-  </ol>
-
-  <p>Pour <a href="#add_cookie_sites">définir les permissions de
-  cookies</a> pour plusieurs sites ou un site que vous n'êtes pas en
-  train de consulter, utilisez le gestionnaire de cookies.</p>
-
-  <p>Si vous avez sélectionné <q>Demander pour chaque cookie</q>
-  dans <a href="#cookie_manager_settings">Préférences
-  de Confidentialité et sécurité - Cookies</a>, vous serez
-  averti (pendant la navigation) qu'un site Web veut créer un cookie.
-  Quand vous voyez un tel avertissement, vous pouvez choisir <q>Autoriser</q>,
-  <q>Autoriser durant la session</q> ou <q>Interdire</q> le cookie.</p>
-
-  <p>Autres options de dialogue&#160;:</p>
-
-  <dl>
-    <dt>Appliquer ce choix pour tous les cookies de ce site&#160;:</dt>
-    <dd>Si vous cochez cette case, vous ne serez pas averti la prochaine fois
-    que le site essaiera de créer ou de modifier un cookie et votre
-    choix <q>Autoriser</q> ou <q>Interdire</q> continuera d'être
-    appliqué automatiquement chaque fois que vous visiterez le
-    site.</dd>
-
-    <dt><q>Afficher les détails</q>/<q>Masquer les
-    détails</q>&#160;:</dt>
-    <dd>Cliquez sur le bouton pour afficher ou masquer les
-    <a href="#viewing_cookies">détails</a> du cookie.</dd>
-  </dl>
-
-  <p>Pour changer une réponse mémorisée, utilisez le
-  gestionnaire de cookies pour modifier les <a href="#stored_cookies">cookies
-  stockés</a> et <a href="#cookie_sites">ajouter ou enlever des sites
-  contenant des cookies</a>.</p>
-
-  <!--<p>En choisissant <q>Se rappeler de cette décision</q>, la
-  décision prise sera appliquée automatiquement chaque fois que
-  vous visiterez le site. Vous ne serez plus prévenu la prochaine fois
-  que ce site essayera de créer ou modifier un cookie.</p>
-
-  <p>Pour changer une réponse mémorisée, il faut passer
-  par le gestionnaire de cookies pour éditer votre ordonnance.</p>-->
-
-  <p>Pour modifier la politique de rétention des cookies d'un
-  site&#160;:</p>
-
-  <ol>
-    <li>Ouvrez le menu <q>Outils</q>, et sélectionnez <q>Gestionnaire de
-    cookies</q>.</li>
-
-    <li>Cliquez sur <q>Gérer les cookies stockés</q> dans le
-    sous-menu. La fenêtre du gestionnaire de cookies s'ouvre avec la
-    liste de tous les cookies stockés sur votre ordinateur.</li>
-
-    <li>Cliquez sur l'onglet <q>Sites avec cookies</q>. Les sites Web pour
-    lesquels vous acceptez ou refusez explicitement les cookies sont
-    listés.</li>
-
-    <li>Cliquez sur le site dont vous voulez modifier la politique
-    d'acceptation des cookies, cliquez alors sur <q>Supprimer le site</q>.</li>
-  </ol>
-
-  <p>[&#160;<a href="#using_the_cookie_manager">Retour au début de la
-  section</a>&#160;]</p>
-
-  <h2 id="viewing_cookies">Voir les cookies</h2>
-
-  <p>Pour voir des informations détaillées sur vos cookies:</p>
-
-  <ol>
-    <li>Ouvrez le menu <q>Outils</q>, et sélectionnez <q>Gestionnaire de
-    cookies</q>.</li>
-
-    <li>Choisissez <q>Gérer les cookies stockés</q> dans le
-    sous-menu. La fenêtre du gestionnaire de cookies s'ouvre avec la
-    liste de tous les cookies stockés sur votre ordinateur.</li>
-
-    <li>Cliquez sur l'onglet <q>Cookies stockés</q>. Tous les cookies
-    stockés sur votre ordinateur sont listés.</li>
-
-    <li>Pour voir des détails sur un cookie particulier, cliquez
-    dessus.</li>
-  </ol>
-
-  <p>Pour plus d'informations sur les informations qui sont affichées,
-  voir <a href="#stored_cookies">Cookies Stockés</a>.</p>
-
-  <p>[&#160;<a href="#using_the_cookie_manager">Retour au début de la
-  section</a>&#160;]</p>
-
-  <h2 id="removing_cookies">Supprimer les cookies</h2>
-
-  <p><strong>Important</strong>&#160;: pour effacer les cookies, suivez les
-  instructions de cette section. N'essayez pas d'éditer le fichier des
-  cookies de votre ordinateur.</p>
-
-  <p>Pour effacer un ou plusieurs cookies de votre ordinateur&#160;:</p>
-
-  <ol>
-    <li>Ouvrez le menu <q>Outils</q>, et choisissez <q>Gestionnaire de
-    cookies</q>.</li>
-
-    <li>Choisissez <q>Gérer les cookies stockés</q> dans le
-    sous-menu. La fenêtre du gestionnaire de cookies s'ouvre avec la
-    liste de tous les cookies stockés sur votre ordinateur.</li>
-
-    <li>Choisissez un ou plusieurs cookies et cliquez sur <q>Supprimer le
-    cookie</q>, ou sur <q>Supprimer tous les cookies</q>.</li>
-  </ol>
-
-  <p>Si vous effacez le cookie maintenant, vous récupérerez le
-  même cookie à votre prochaine visite du site.</p>
-
-  <p>Pour empêcher cela, sélectionnez la case <q>Interdire les
-  futurs cookies des sites associés aux cookies
-  supprimés</q>. Quand cette case est cochée, les sites Web pour
-  les cookies que vous effacez sont placés dans la liste des cookies
-  à rejeter automatiquement.</p>
-
-  <!--<p>Vous devez cliquer sur <q>OK</q> pour accepter les modifications.</p>-->
-
-  <p>[&#160;<a href="#using_the_cookie_manager">Retour au début de la
-  section</a>&#160;]</p>
-
-  <h2 id="cookie_manager_settings">Préférences du gestionnaire de
-  cookies</h2>
-
-  <p>Cette section explique comment définir vos
-  préférences de cookies et contr&ocirc;ler d'autres aspects de
-  la manipulation des cookies.</p>
-
-  <p>Pour une description pas&ndash;à&ndash;pas des différentes
-  tâches liées aux cookies, voir la section <a href=
-  "using_priv_help.xhtml#using_the_cookie_manager">Utiliser le gestionnaire de
-  cookies</a>.</p>
-
-  <div class="contentsBox">
-    <p>Dans cette section&#160;:</p>
-
-    <ul>
-      <li><a href="#cookies">Préférences de
-      Confidentialité et sécurité - Cookies</a></li>
-
-      <li><a href="#stored_cookies">Cookies stockés</a></li>
-
-      <li><a href="#cookie_sites">Sites avec cookies</a></li>
-
-      <li><a href="#cookie_notification">Notification de cookies</a></li>
-    </ul>
-  </div>
-
-  <h3 id="cookies">Préférences de Confidentialité et
-  sécurité - Cookies</h3>
-
-  <p>Votre navigateur est configuré par défaut pour accepter tous
-  les cookies. Cette section explique comment modifier les
-  préférences des cookies. Si vous ne voyez pas
-  déjà le panneau, faites comme ceci&#160;:</p>
-
-  <ol>
-    <li>Ouvrez le menu<q><span class="mac">SeaMonkey</span><span
-    class="noMac">édition</span></q>
-    et sélectionnez <q>Préférences&hellip;</q>.</li>
-
-    <li>Dans la catégorie <q>Confidentialité et
-    sécurité</q>, choisissez <q>Cookies</q>. Si aucune
-    sous-catégorie n'est visible, double-cliquez sur
-    <q>Confidentialité et sécurité</q> pour
-    développer la liste.</li>
-  </ol>
-
-  <p>Les cookies permettent aux sites Web de conserver des informations sur
-  vous, comme le contenu de votre panier d'achats, ou de quelle ville vous
-  voulez voir la météo. Pour une explication br&egrave;ve, voir
-  la section <a href="privacy_help.xhtml#what_are_cookies_and_how_do_they_work">Que
-  sont les cookies, et comment fonctionnent-ils&#160;?</a></p>
-
-  <p>Vous pouvez choisir une de ces options&#160;:</p>
-
-  <dl>
-    <dt>Bloquer les cookies&#160;:</dt>
-
-    <dd>Sélectionnez cette option pour refuser tous les cookies.</dd>
-
-    <dt>Autoriser les cookies du serveur initial seulement&#160;:</dt>
-
-    <dd>Sélectionnez cette option si vous ne voulez pas accepter les
-    <a href="privacy_help.xhtml#what_are_third-party_cookies">cookies
-    étrangers</a>.</dd>
-
-    <dt>Autoriser tous les cookies&#160;:</dt>
-
-    <dd>
-      C'est l'option par défaut. Sélectionnez cette option pour
-      permettre à n'importe quel site qui n'est pas bloqué de
-      créer des cookies sur votre ordinateur.
-
-      <p><strong>Remarque</strong>&#160;: bloquer les cookies ne supprime pas
-      les anciens cookies. En bloquant les cookies, vous empêchez
-      seulement les sites de créer de nouveaux cookies mais les anciens
-      cookies continueront d'être envoyés vers les sites. Pour
-      empêcher compl&egrave;tement un site de recevoir d'anciens cookies,
-      vous devez <a href="#removing_cookies">supprimer ses cookies</a>.</p>
-
-      <p><strong>Remarque</strong>&#160;: les <a href="#cookie_sites">permissions
-      de cookies par site</a> supplantent les param&egrave;tres par
-      défaut des cookies. Par exemple, si vous autorisez un site
-      à créer des cookies, le site peut créer des cookies
-      même si vous avez choisi <q>Bloquer les cookies</q>.</p>
-    </dd>
-  </dl>
-
-  <p>Si vous autorisez les cookies ou ne modifiez pas vos
-  préférences par défaut, vous pouvez aussi
-  sélectionner les préférences suivantes&#160;:</p>
-
-  <dl>
-    <dt>Accepter les cookies normalement&#160;:</dt>
-
-    <dd class="rediger">Sélectionnez cette option si vous souhaitez que
-    les sites visités vous envoient des cookies et les modifient sans
-    restriction.</dd>
-
-    <dt>Accepter pour la session en cours seulement&#160;:</dt>
-
-    <dd>Sélectionnez cette option pour supprimer le cookie lors de la
-    fermeture du navigateur.</dd>
-
-    <dt>Accepter les cookies pour __ jours&#160;:</dt>
-
-    <dd>Sélectionnez cette option si vous voulez limiter la durée
-    de vie des cookies sur votre ordinateur; saisissez ensuite un nombre de
-    jours.</dd>
-
-    <dt>Demander pour chaque cookie&#160;:</dt>
-
-    <dd>Sélectionnez cette option si vous voulez que le gestionnaire de
-    cookies vous avertisse chaque fois qu'un site va stocker un cookie.
-    De plus, vous pouvez choisir <q>à l'exception des cookies de
-    session</q> pour que &brandShortName; ne vous prévienne pas si le
-    site crée des cookies qui seront supprimés quand vous fermerez
-    votre navigateur.</dd>
-</dl>
-
-  <p>Vous pouvez aussi obtenir plus d'informations sur les cookies
-  stockés&#160;:</p>
-
-  <dl>
-    <dt>Gestionnaire de cookies&#160;:</dt>
-
-    <dd>Cliquez sur ce bouton pour voir des informations sur les cookies
-    actuellement stockés sur votre ordinateur et quels sites ont le
-    droit d'en créer.</dd>
-  </dl>
-
-  <p>[&#160;<a href="#cookie_manager_settings">Retour au début de la
-  section</a>&#160;]</p>
-
-  <h3 id="stored_cookies">Cookies stockés</h3>
-
-  <p>Cette section explique comment utiliser l'onglet <q>Cookies
-  stockés</q> du gestionnaire de cookies. Si vous ne le voyez pas
-  déjà, faites comme ceci&#160;:</p>
-
-  <ol>
-    <li>Ouvrez le menu <q><span class="mac">SeaMonkey</span><span
-    class="noMac">édition</span></q>
-    et sélectionnez <q>Préférences&hellip;</q>.</li>
-
-    <li>Dans la catégorie <q>Confidentialité et
-    sécurité</q>, choisissez <q>Cookies</q>. Si aucune
-    sous-catégorie n'est visible, double-cliquez sur
-    <q>Confidentialité et sécurité</q> pour
-    développer la liste.</li>
-
-    <li>Cliquez sur <q>Gestionnaire de cookies</q>.</li>
-  </ol>
-
-  <p>L'onglet <q>Cookies stockés</q> liste tous les cookies
-  stockés sur votre ordinateur, les sites correspondants, et leur statut
-  actuel.</p>
-
-  <p>Quand vous sélectionnez un cookie de la liste, les informations
-  suivantes apparaissent dans la deuxi&egrave;me partie de l'onglet&#160;:</p>
-
-  <table summary="list of fields" cellpadding="3" cellspacing="3" border="1">
-    <caption>
-      Informations sur un cookie
-    </caption>
-
-    <thead>
-      <tr>
-        <th>Entrée</th>
-
-        <th>Explication</th>
-      </tr>
-    </thead>
-
-    <tbody class="tbody-default">
-      <tr class="even">
-        <th>Nom du cookie</th>
-
-        <td>Nom attribué au cookie par son créateur.</td>
-      </tr>
-
-      <tr>
-        <th>Contenu</th>
-
-        <td>Représente les informations que le site Web a
-        stockées dans le cookie. Ce champ peut contenir une clé
-        (ou un nom d'utilisateur) vous identifiant sur le site Web, mais aussi
-        votre parcours de navigation et, par recoupement, vos centres
-        d'intérêt ou d'autres informations.</td>
-      </tr>
-
-      <tr class="even">
-        <th>H&ocirc;te ou domaine</th>
-
-        <td>
-          Contient le nom du domaine ou de l'h&ocirc;te du cookie.
-
-          <p>Un cookie d'<q>h&ocirc;te</q> est récupérable,
-          pendant la visite, uniquement par le <a href="glossary.xhtml#server"
-          class="glossary">serveur</a> qui l'a créé.</p>
-
-          <p>Un cookie de <q>domaine</q> est récupérable par
-          n'importe quel site appartenant au même domaine que le site qui
-          l'a créé. Le domaine d'un site fait partie de son URL,
-          et représente le nom d'une organisation, d'une entreprise, ou
-          d'une école &mdash; comme <tt>mozilla.org</tt> ou
-          <tt>service-public.fr</tt>.</p>
-        </td>
-      </tr>
-
-      <tr>
-        <th>Chemin</th>
-
-        <td>Contient le chemin d'origine du cookie. Donné uniquement si
-        le cookie peut être récupéré par toutes les
-        URLs du chemin courant ou en-dessous. Par exemple,
-        <tt>http://a.b/x/y/z.html</tt> signifie que le cookie peut aussi
-        être crée par le chemin <tt>x/</tt>.</td>
-      </tr>
-
-      <tr class="even">
-        <th>Envoyé pour</th>
-
-        <td>Quand ce champ indique <q>Uniquement pour les connexions
-        chiffrées</q> cela signifie que votre navigateur
-        vérifiera la connexion lorsqu'un serveur voudra
-        récupérer le cookie, et ne l'enverra que si la connexion
-        est sécurisée (HTTPS).</td>
-      </tr>
-
-      <tr>
-        <th>Ce cookie expirera le</th>
-
-        <td>Contient la date à laquelle le cookie sera
-        désactivé. Le navigateur supprime
-        réguli&egrave;rement les cookies obsol&egrave;tes de votre
-        ordinateur.</td>
-      </tr>
-
-    </tbody>
-  </table>
-
-  <p>Pour supprimer des cookies, cliquez sur un de ces boutons&#160;:</p>
-
-  <dl>
-    <dt>Supprimer le cookie&#160;:</dt>
-
-    <dd>Supprimer le(s) cookie(s) sélectionné(s) dans la
-    liste.</dd>
-
-    <dt>Supprimer tous les cookies&#160;:</dt>
-
-    <dd>Supprimer tous les cookies de la liste.</dd>
-  </dl>
-
-  <p>Sélectionnez cette case pour interdire l'acceptation des cookies
-  que vous effacez&#160;:</p>
-
-  <ul>
-    <li><strong>Interdire les futurs cookies des sites propriétaires de
-    cookies supprimés</strong></li>
-  </ul>
-
-  <p>Même si vous supprimez un cookie maintenant, vous
-  récupérerez ces mêmes cookies à la prochaine
-  visite du site Web. Pour empêcher cela, cochez cette case. Quand cette
-  case est sélectionnée, les sites Web des cookies que vous
-  supprimez sont ajoutés dans la liste des sites dont les cookies sont
-  automatiquement rejetés.</p>
-
-  <!--<p>Vous devez cliquer sur <q>OK</q> pour valider les modifications.</p>-->
-
-  <p>[&#160;<a href="#cookie_manager_settings">Retour au début de la
-  section</a>&#160;]</p>
-
-  <h3 id="cookie_sites">Sites avec cookies</h3>
-
-  <p>Cette section explique comment utiliser l'onglet <q>Sites avec cookies</q>
-  du gestionnaire de cookies. Si vous ne le voyez pas déjà,
-  faites comme ceci&#160;:</p>
-
-  <ol>
-    <li>Ouvrez le menu <q>Outils</q> et sélectionnez <q>Gestionnaire
-    de cookies</q>.</li>
-
-    <li>Dans le sous-menu, sélectionnez <q>Gérer les cookies
-    stockés</q>. Le gestionnaire de cookies s'ouvrira et affichera la
-    liste de tous les cookies stockés sur votre ordinateur.</li>
-
-    <li>Cliquez sur l'onglet <q>Sites avec cookies</q>.</li>
-  </ol>
-
-<!--  <p>Si l'option <q>Me prévenir avant de stocker un cookie</q> est
-  sélectionnée dans les <a href=
-  "#cookies">préférences de confidentialité et
-  sécurité - Cookies</a>, vous serez averti (pendant la
-  navigation) chaque fois qu'un site Web demandera la création d'un
-  cookie. L'alerte vous permet d'accepter ou de refuser un cookie. Elle vous
-  permet aussi de sélectionner l'option <q>Appliquer ce choix pour tous
-  les cookies de ce site</q> pour définir une permission globale.</p> -->
-
-  <p>L'onglet <q>Sites avec cookies</q> du gestionnaire des cookies liste les
-  permissions définies site par site. Il permet aussi d'ajouter ou
-  supprimer des sites de la liste.</p>
-
-  <h3 id="add_cookie_sites">Ajouter des sites</h3>
-
-  <p>Pour ajouter des sites manuellement&#160;:</p>
-
-  <ul>
-  <li>Entrez l'adresse du site, par ex. <tt>www.mozilla.org</tt></li>
-  <li>Définissez les permissions de cookies pour le site&#160;:
-    <dl>
-      <dt>Interdire&#160;:</dt>
-      <dd>Cliquez sur ce bouton pour ajouter le site à la liste des
-      sites non autorisés.</dd>
-
-      <dt>Session&#160;:</dt>
-      <dd>Cliquez sur ce bouton pour ajouter le site à la liste des
-      sites autorisés à créer des cookies de session.
-      Les cookies persistants de ce site seront modifiés en cookies de
-      session.</dd>
-
-      <dt>Autoriser&#160;:</dt>
-      <dd>Cliquez sur ce bouton pour ajouter le site à la liste des
-      sites autorisés à créer des cookies.</dd>
-    </dl>
-  </li>
-  <li>Répétez les étapes pour ajouter des sites
-  supplémentaires.</li>
+<h1 id="using_the_cookie_manager">Using the Cookie Manager</h1>
+
+<p>A cookie is a small amount of information on your computer that is used by
+  some websites. For a brief overview, see
+  <a href="privacy_help.xhtml#what_are_cookies_and_how_do_they_work">What Are
+  Cookies and How Do They Work?</a></p>
+
+<p>Before loading a web page that uses cookies, your browser handles the
+  page&apos;s cookies by doing two things:</p>
+
+<ul>
+  <li>Accepts or rejects any requests by the website to <strong>set</strong>
+    (store) one or more cookies on your computer.</li>
+  <li>Accepts or rejects any requests by the website to <strong>read</strong>
+    cookies it previously stored on your computer. A website can&apos;t
+    actually read cookies or any other data on your computer&mdash;instead,
+    your browser gets the cookies and sends them back to the website.</li>
 </ul>
 
-<h3 id="remove_cookie_sites">Supprimer des sites</h3>
-
-<p>Pour supprimer un site&#160;:</p>
-
-  <dl>
-    <dt>Supprimer le site&#160;:</dt>
-
-    <dd>Efface le(s) site(s) sélectionné(s) dans la liste.</dd>
-
-    <dt>Supprimer tous les Sites&#160;:</dt>
-
-    <dd>Efface tous les sites de la liste.</dd>
-  </dl>
-
-  <p>Apr&egrave;s avoir effacé un site de la liste, le gestionnaire de
-  cookies n'aura plus aucune donnée sur lui. Si l'option <q>Demander
-  pour chaque cookie</q> est sélectionnée dans le panneau des
-  préférences des cookies, vous serez à nouveau
-  averti lors de la prochaine visite de ce site.</p>
-
-  <p>[&#160;<a href="#cookie_manager_settings">Retour au début de la
-  section</a>&#160;]</p>
-
-  <h1 id="using_the_password_manager">Utiliser le gestionnaire de mots de
-  passe</h1>
-
-  <p>Beaucoup de sites Web nécessitent que vous entriez un nom
-  d'utilisateur et un mot de passe avant de pouvoir y accéder. Par
-  exemple, les pages personnelles et les sites Web contenant des informations
-  personnelles (banques, etc). nécessitent que vous vous identifiez.</p>
-
-  <p>Le nom d'utilisateur et le mot de passe que vous utilisez sur un site
-  particulier peuvent être lus par son administrateur. Si cela vous
-  gêne, vous pouvez utiliser un mot de passe différent pour chaque
-  site. Malheureusement, il est tr&egrave;s difficile de se souvenir de tous
-  les mots de passe que vous utilisez.</p>
-
-  <p>Le gestionnaire de mots de passe peut vous aider en enregistrant vos noms
-  d'utilisateur et vos mots de passe sur le disque dur de votre ordinateur et
-  les entrer pour vous automatiquement quand vous visitez les sites les
-  nécessitant.</p>
-
-  <div class="contentsBox">
-    <p>Dans cette section&#160;:</p>
-
-    <ul>
-      <li><a href="#using_password_manager_to_remember_user_names_and_passwords">Utiliser
-      le gestionnaire de mots de passe pour se souvenir des noms d'utilisateur
-      et des mots de passe</a></li>
-
-      <li><a href="#entering_user_names_and_passwords_automatically">Entrer
-      automatiquement les noms d'utilisateur et les mots de passe</a></li>
-
-      <li><a href="#turning_password_manager_on_and_off">Activer ou
-      désactiver le gestionnaire de mots de passe</a></li>
-
-      <li><a href="#viewing_and_managing_stored_passwords">Gérer les
-      mots de passe enregistrés</a></li>
-
-      <li><a href="passwords_help.xhtml">Préférences du
-      gestionnaire de mots de passe</a></li>
-    </ul>
-  </div>
-
-  <h2 id="using_password_manager_to_remember_user_names_and_passwords">Utiliser
-  le gestionnaire de mots de passe pour se souvenir des noms d'utilisateur et
-  des mots de passe</h2>
-
-  <p>Quand le gestionnaire de mots de passe est activé (option par
-  défaut), il vous permet d'enregistrer vos noms d'utilisateurs et vos
-  mots de passe sur votre disque dur, lorsque vous les entrez sur Internet.</p>
-
-  <p>Par exemple, quand vous entrez votre nom d'utilisateur et votre mot de
-  passe dans un site Web, une bo&icirc;te de dialogue appara&icirc;t et vous
-  demande&#160;: <q>Voulez-vous que le gestionnaire de mots de passe se
-  souvienne de ces param&egrave;tres de connexion&#160;?</q>. Vous pouvez
-  choisir une des options suivantes&#160;:</p>
-
-  <dl>
-    <dt>Oui&#160;:</dt>
-
-    <dd>La prochaine fois que vous retournerez sur le site Web, votre nom
-    d'utilisateur et votre mot de passe seront entrés automatiquement
-    dans les champs correspondants. Il vous suffira de cliquer sur le bouton
-    <q>Envoyer</q> (ou un équivalent) pour les envoyer au serveur.</dd>
-
-    <dt>Jamais pour ce site&#160;:</dt>
-
-    <dd>Il ne vous sera plus jamais demandé si vous voulez que le
-    navigateur se souvienne de vos param&egrave;tres de connexion pour ce
-    site.</dd>
-
-    <dt>Non&#160;:</dt>
-
-    <dd>Le gestionnaire de mots de passe ne se souviendra pas de votre nom
-    d'utilisateur et de votre mot de passe, mais vous reposera la question la
-    prochaine fois que vous visiterez le site.</dd>
-  </dl>
-
-  <p>De même, quand vous entrez vos identificateurs pour un compte
-  courrier ou un site FTP, ou n'importe quelle autre action nécessitant
-  que le navigateur affiche une bo&icirc;te de dialogue pour vos
-  param&egrave;tres de connexion, vous pouvez choisir le bouton <q>Utiliser le
-  gestionnaire de mots de passe pour garder ce mot de passe</q>.</p>
-
-  <p>La prochaine fois que vous vous connecterez à votre serveur de
-  courrier ou que vous effectuerez une tâche ne nécessitant qu'un
-  mot de passe, celui-ci sera automatiquement envoyé sans autre action
-  de votre part. Pour les tâches nécessitant un nom d'utilisateur
-  et un mot de passe, vous devrez cliquer sur un bouton <q>Envoyer</q> ou un
-  équivalent apr&egrave;s que le gestionnaire de mots de passe les ait
-  entrés.</p>
-
-  <p>Le gestionnaire de mots de passe enregistre vos noms d'utilisateur et vos
-  mots de passe sur votre ordinateur dans un fichier qui est difficile &ndash;
-  mais pas impossible &ndash; à lire par un intrus. Lisez <a href=
-  "#encrypting_stored_sensitive_information">Chiffrer les informations
-  sensibles stockées</a> pour de plus amples informations sur la
-  protection de vos identificateurs grâce à au chiffrement.</p>
-
-  <p>Si la bo&icirc;te de dialogue du gestionnaire de mots de passe
-  décrit plus haut n'appara&icirc;t pas lorsque vous cliquez sur
-  <q>Envoyer</q> apr&egrave;s avoir entré votre nom d'utilisateur et mot
-  de passe, le gestionnaire de mots de passe est s&ucirc;rement
-  désactivé ou le site Web ne permet pas son utilisation.</p>
-
-  <p>Pour vérifier si le gestionnaire de mots de passe est
-  activé, voir <a href="#turning_password_manager_on_and_off">Activer et
-  désactiver le gestionnaire de mots de passe</a>.</p>
-
-  <p>[&#160;<a href="#using_the_password_manager">Retour au début de la
-  section</a>&#160;]</p>
-
-  <h2 id="entering_user_names_and_passwords_automatically">Entrer
-  automatiquement les noms d'utilisateur et les mots de passe</h2>
-
-  <p>Il y a deux raisons pour que le gestionnaire de mots de passe remplisse le
-  nom d'utilisateur et le mot de passe à votre place&#160;:</p>
-
+<div class="contentsBox">In this section:
   <ul>
-    <li>Vous utilisez le gestionnaire de mots de passe pour se souvenir du nom
-    d'utilisateur et du mot de passe pour un site Web (utiliser le
-    troisi&egrave;me bouton de la bo&icirc;te de dialogue décrit dans
-    <a href="#using_password_manager_to_remember_user_names_and_passwords">Utiliser
-    le gestionnaire de mots de passe pour se souvenir du nom d'utilisateur et
-    des mots de passe</a>).
-
-      <p>La prochaine fois que vous visiterez le site, le gestionnaire de mots
-      de passe entrera automatiquement votre nom d'utilisateur et votre mot de
-      passe sur la page de connexion du site. Il vous suffit alors de cliquer
-      sur le bouton <q>Envoyer</q>, ou un équivalent, pour envoyer les
-      informations au serveur.</p>
-    </li>
-
-    <li>Vous utilisez le gestionnaire de mots de passe pour se souvenir de
-    votre nom d'utilisateur et mot de passe pour un compte courrier, un site
-    FTP, ou n'importe quelle autre situation o&ugrave; vous devez saisir vos
-    identificateurs dans une bo&icirc;te de dialogue possédant une case
-    à cocher nommée <q>Utiliser le gestionnaire de mots de passe
-    pour garder ce mot de passe</q>.
-
-      <p>Dans la plupart des cas, la prochaine fois que voudrez accéder
-      à ce serveur, le gestionnaire de mots de passe remplira
-      automatiquement vos nom d'utilisateur et mot de passe dans la même
-      bo&icirc;te de dialogue. Vous pouvez ensuite cliquer sur <q>OK</q> pour
-      envoyer les informations sur le serveur.</p>
-
-      <p>Dans certains cas, comme avec les comptes courrier, &brandShortName; a
-      seulement besoin d'envoyer le mot de passe au serveur, et le fait
-      immédiatement sans afficher la bo&icirc;te de dialogue ou sans que
-      vous n'ayez rien à faire.</p>
-    </li>
+    <li><a href="#enabling_and_disabling_cookies">Enabling &amp; Disabling
+      Cookies</a></li>
+    <li><a href="#managing_cookies_site-by-site">Managing Cookies
+      Website-By-Website</a></li>
+    <li><a href="#viewing_cookies">Viewing Cookies</a></li>
+    <li><a href="#removing_cookies">Removing Cookies</a></li>
+    <li><a href="#cookie_manager_settings">Cookie Manager Settings</a></li>
   </ul>
+</div>
 
-  <p>[&#160;<a href="#using_the_password_manager">Retour au début de la
-  section</a>&#160;]</p>
+<h2 id="enabling_and_disabling_cookies">Enabling &amp; Disabling Cookies</h2>
 
-  <h2 id="turning_password_manager_on_and_off">Activer ou désactiver le
-  gestionnaire de mots de passe</h2>
+<p>You can specify how cookies should be handled by setting your Cookies
+  preferences. The default setting is <q>Allow all cookies</q>.</p>
 
-  <p>Le gestionnaire de mots de passe est activé par défaut. Pour
-  le désactiver, suivez ces étapes&#160;:</p>
+<p>To change your Cookies preferences:</p>
 
-  <ol>
-    <li>Ouvrez le menu <q><span class="mac">SeaMonkey</span><span
-    class="noMac">édition</span></q>
-    et sélectionnez <q>Préférences&hellip;</q>.</li>
+<ol>
+  <li>Open the <span class="mac">&brandShortName;</span>
+    <span class="noMac">Edit</span> menu and choose Preferences.</li>
+  <li>Under the Privacy &amp; Security category, click Cookies. (If no
+    subcategories are visible, double-click Privacy &amp; Security to expand
+    the list.)</li>
+  <li>Set your Cookies preferences.</li>
+</ol>
 
-    <li>Dans la catégorie <q>Confidentialité et
-    sécurité</q>, cliquez sur <q>Mots de passe</q>. Si aucune
-    sous-catégorie n'est visible, double-cliquez sur
-    <q>Confidentialité et sécurité</q> pour
-    développer la liste.</li>
+<p>For more information about the effect of each setting, see
+  <a href="#cookies">Privacy &amp; Security Preferences - Cookies</a>.</p>
 
-    <li>Dans la section <q>Gestionnaire des mots de passe</q>,
-    désélectionnez <q>Enregistrer les mots de passe</q> pour 
-    désactiver le gestionnaire de mots de passe.</li>
-  </ol>
+<p>[<a href="#using_the_cookie_manager">Return to beginning of
+  section</a>]</p>
 
-  <p>Pour activer le gestionnaire de mots de passe, suivez les étapes 1
-  et 2 précédentes, mais sélectionnez la case de
-  l'étape 3 plut&ocirc;t que de la désélectionner.</p>
+<h2 id="managing_cookies_site-by-site">Managing Cookies Website-By-Website</h2>
 
-  <p>[&#160;<a href="#using_the_password_manager">Retour au début de la
-  section</a>&#160;]</p>
+<p>To set cookie permissions for the current website:</p>
 
-  <h2 id="viewing_and_managing_stored_passwords">Gérer les mots de passe
-  enregistrés</h2>
-
-  <p>Pour voir une liste des noms d'utilisateur et des mots de passe que vous
-  avez enregistrés&#160;:</p>
-
-  <ol>
-    <li>Ouvrez le menu <q>Outils</q>, choisissez <q>Gestionnaire de mots de
-    passe</q>, puis <q>Voir les mots de passe stockés</q> dans le
-    sous-menu. Vous voyez appara&icirc;tre la fenêtre du gestionnaire de
-    mots de passe.</li>
-
-    <li>Cliquez sur l'onglet <q>Mots de passe enregistrés</q>. Vous
-    voyez une liste de tous les sites et noms d'utilisateurs
-    enregistrés. Les mots de passe ne sont évidemment pas
-    affichés.
-
-      <ul>
-        <li class="rediger">Pour voir les mots de passe stockés, cliquez
-        sur <q>Afficher les mots de passe</q> et confirmez votre choix.
-        &brandShortName; vous demande de saisir votre mot de passe
-        principal.</li>
-
-        <li class="rediger">Pour masquer les mots de passe stockés,
-        cliquez sur <q>Masquer les mots de passe</q>.</li>
-
-        <li>Pour effacer un nom d'utilisateur, cliquez dessus pour le
-        sélectionner puis cliquez sur <q>Supprimer</q>. La prochaine fois
-        que vous visiterez le site Web, vous devrez entrer un mot de
-        passe.</li>
-
-        <li>Cliquez sur l'onglet <q>Mots de passe jamais enregistrés</q>
-        pour voir une liste des sites Web pour lesquels vous avez explicitement
-        demandé au gestionnaire de mots de passe de ne jamais se
-        souvenir de vos identifiants. Pour effacer un site Web de cette liste,
-        cliquez dessus pour le sélectionner puis cliquez sur
-        <q>Supprimer</q>. La prochaine fois que vous visiterez ce site, vous
-        pourrez utiliser le nom d'utilisateur et le mot de passe
-        enregistré (si possible), ou indiquer au gestionnaire de mots de
-        passe de se souvenir de vos identificateurs pour ce site.</li>
-      </ul>
-    </li>
-
-    <!--<li>Cliquez sur <q>OK</q> pour accepter les modifications.</li>-->
-  </ol>
-
-  <p>[&#160;<a href="#using_the_password_manager">Retour au début de la
-  section.</a>&#160;]</p>
-
-  <h1 id="encrypting_stored_sensitive_information">Chiffrer les informations
-  sensibles enregistrées sur le disque dur</h1>
-
-  <p>Si vous utilisez le gestionnaire de mots de passe pour enregistrer vos identifiants
-  alors ces informations sont stockées sur votre ordinateur dans un
-  fichier qui est difficile &ndash; mais pas impossible &ndash; à lire
-  par un intrus.</p>
-
-  <p>Par exemple, si votre ordinateur est situé à un endroit
-  o&ugrave; des personnes indiscr&egrave;tes ou mal intentionnées
-  peuvent avoir acc&egrave;s, il est possible pour une personne de lire le
-  fichier contenant vos données sensibles.</p>
-
-  <p>Pour protéger vos données sensibles, vous devriez chiffrer
-  le fichier. Le chiffrement rend la lecture de vos informations sensibles
-  beaucoup plus difficile pour des personnes non autorisées.</p>
-
-  <p>La décision d'utiliser le chiffrement est un compromis entre
-  sécurité et performance.</p>
-
-  <p>Si vous utilisez le chiffrement, vous devrez entrer un mot de passe
-  principal périodiquement, ce qui peut être gênant. Si vous
-  ne l'utilisez pas, il sera plus facile à toute personne ayant
-  acc&egrave;s à votre ordinateur de voler vos mots de passe.</p>
-
-  <div class="contentsBox">
-    <p>Dans cette section&#160;:</p>
-
+<ol>
+  <li>Open the Tools menu and choose Cookie Manager.</li>
+  <li>Choose one of the following items:
     <ul>
-
-      <li><a href="#setting_a_master_password">Définir un mot de passe
-      principal</a></li>
-
-      <li><a href="#changing_your_master_password">Modifier votre mot de passe
-      principal</a></li>
-
-      <li><a href="#logging_out_of_your_master_password">Se déconnecter
-      du gestionnaire de mots de passe</a></li>
-
-      <li><a href="#what_to_do_if_you_forget_your_master_password">Que faire en
-      cas d'oubli du mot de passe principal&#160;?</a></li>
+      <li><strong>Block Cookies from this Website</strong>: Block the
+          current website from setting cookies.</li>
+      <li><strong>Use Default Cookie Permissions</strong>: Reset
+          cookie permission for the current website and use the
+          <a href="#cookie_manager_settings">default settings</a>.</li>
+      <li><strong>Allow Session Cookies from this Website</strong>: Allow
+          the current website to set session cookies. Persistent cookies from
+          this website will be downgraded to session cookies.</li>
+      <li><strong>Allow Cookies from this Website</strong>: Allow the
+          current website to set cookies.</li>
     </ul>
-  </div>
+  </li>
+</ol>
 
-  <h2 id="setting_a_master_password">Définir un mot de passe principal</h2>
+<p>To <a href="#add_cookie_sites">set cookie permission</a> for several websites
+  or a website you are not viewing, use the Cookie Manager.</p>
 
-  <p>Pour activer le chiffrement, vous devez définir un
-  mot de passe principal. Si votre mot de passe principal n'a pas encore été
-  défini, vous pouvez le faire comme ceci&#160;:</p>
+<p>If you have selected <q>Ask for each cookie</q> in
+  <a href="#cookie_manager_settings">Privacy &amp; Security Preferences -
+  Cookies</a>, you will be warned (while browsing) that a website is asking to
+  set a cookie. When you see such a warning, you can choose to
+  Allow, Allow for Session, or Deny the cookie.</p>
 
-  <ol>
-    <li>Ouvrez le menu <q><span class="mac">SeaMonkey</span><span
-    class="noMac">édition</span></q>
-    et choisissez <q>Préférences&hellip;</q>.</li>
+<p>Other dialog options:</p>
 
-    <li>Dans la catégorie <q>Confidentialité et
-    sécurité</q>, cliquez sur <q>Mot de passe principal</q>. Si
-    aucune sous-catégorie n'est visible, double-cliquez sur
-    <q>Confidentialité et sécurité</q> pour
-    développer la liste.</li>
+<ul>
+  <li><strong>Use my choice for all cookies from this website</strong>:
+    If you check this option, you will not be warned the next time
+    that website tries to set or modify a cookie, and your <q>allow</q> or
+    <q>deny</q> response will still be in effect.</li>
+  <li><strong>Show Details</strong>/<strong>Hide Details</strong>:
+    Click the button to show or hide <a href="#viewing_cookies">detailed
+    information</a> of the cookie.</li>
+</ul>
 
-    <li>Cliquez alors sur le bouton <q>Changer le mot de passe principal</q>.
+<p>If you want to change a remembered response later, use the Cookie Manager
+  to edit <a href="#stored_cookies">stored cookies</a> and
+  <a href="#cookie_sites">add or remove cookie websites</a>.</p>
 
-      <p>Appara&icirc;t alors la bo&icirc;te de dialogue <q>Définir le
-      mot de passe principal</q>.</p>
-    </li>
+<p>To stop automatically accepting or rejecting cookies from a website:</p>
 
-    <li>Entrez votre nouveau mot de passe principal, entrez-le à nouveau
-    pour éviter toute faute de frappe.</li>
+<ol>
+  <li>Open the Tools menu and choose Cookie Manager.</li>
+  <li>Choose Manage Stored Cookies from the submenu. The Cookie Manager window
+    opens with a list of all the cookies stored on your computer.</li>
+  <li>Click the Cookie Websites tab. The sites for which you have allowed or
+    denied cookies are listed.</li>
+  <li>Click to select the website from which you no longer want to automatically
+    accept cookies, and then click Remove Cookie.</li>
+</ol>
 
-    <li>Cliquez sur <q>OK</q>.</li>
-  </ol>
+<p>[<a href="#using_the_cookie_manager">Return to beginning of section</a>]</p>
 
-  <p>Faites en sorte que votre nouveau mot de passe soit difficile à
-  deviner. Vous pouvez utiliser des caract&egrave;res spéciaux
-  (é, #, %, etc.) et faire varier la casse des caract&egrave;res. Pour
-  quelques exemples, lisez la documentation en ligne <a href=
-  "passwords_help.xhtml#choosing_a_good_password">Choisir un bon mot de
-  passe</a>.</p>
+<h2 id="viewing_cookies">Viewing Cookies</h2>
 
-  <p>[&#160;<a href="#encrypting_stored_sensitive_information">Retourner au
-  début de la section</a>&#160;]</p>
+<p>To view detailed information about cookies:</p>
 
-  <h2 id="changing_your_master_password">Modifier votre mot de passe
-  principal</h2>
+<ol>
+  <li>Open the Tools menu and choose Cookie Manager.</li>
+  <li>Choose Manage Stored Cookies from the submenu. The Cookie Manager window
+    opens with a list of all the cookies stored on your computer.</li>
+  <li>Select a cookie to see its details.</li>
+</ol>
 
-  <p>Pour modifier votre mot de passe principal&#160;:</p>
+<p>For more information about the information displayed, see
+  <a href="#stored_cookies">Stored Cookies</a>.</p>
 
-  <ol>
-    <li>Ouvrez le menu <q><span class="mac">SeaMonkey</span><span
-    class="noMac">édition</span></q>
-    et choisissez <q>Préférences&hellip;</q>.</li>
+<p>[<a href="#using_the_cookie_manager">Return to beginning of section</a>]</p>
 
-    <li>Dans la catégorie <q>Confidentialité et
-    sécurité</q>, cliquez sur <q>Mot de passe principal</q>. Si
-    aucune sous-catégorie n'est visible, double-cliquez sur
-    <q>Confidentialité et sécurité</q> pour
-    développer la liste.</li>
+<h2 id="removing_cookies">Removing Cookies</h2>
 
-    <li>Cliquez alors sur le bouton <q>Changer le mot de passe principal</q>.
+<p><strong>Important</strong>: To remove cookies, follow the steps in this
+  section. Do not try to edit the cookies file on your computer.</p>
 
-      <p>Appara&icirc;t alors la bo&icirc;te de dialogue <q>Définir le
-      mot de passe principal</q>.</p>
-    </li>
+<p>To remove one or more cookies from your computer:</p>
 
-    <li>Entrez votre mot de passe principal actuel (s'il est déjà
-    défini).</li>
+<ol>
+  <li>Open the Tools menu and choose Cookie Manager.</li>
+  <li>Choose Manage Stored Cookies from the submenu. The Cookie Manager window
+    opens with a list of all the cookies stored on your computer.</li>
+  <li>Select one or more cookies and click Remove Cookie, or click Remove All
+    Cookies.</li>
+</ol>
 
-    <li>Entrez votre nouveau mot de passe principal, entrez-le à nouveau
-    pour éviter toute faute de frappe.</li>
+<p>Even though you&apos;ve removed the cookies now, you will reacquire those
+  same cookies the next time you return to the website.</p>
 
-    <li>Cliquez sur <q>OK</q>.</li>
-  </ol>
+<p>To prevent that from happening, select the checkbox labeled <q>Don&apos;t
+  allow websites that set removed cookies to set future cookies</q>. When this
+  checkbox is selected, websites for the cookies that you are removing are
+  added to the list of websites whose cookies will automatically be rejected.</p>
 
-  <p>[&#160;<a href="#encrypting_stored_sensitive_information">Retour au
-  début de la section</a>&#160;]</p>
+<p>You must click OK for your changes to take effect.</p>
 
-  <h2 id="logging_out_of_your_master_password">Se déconnecter du
-  gestionnaire de mots de passe</h2>
+<p>[<a href="#using_the_cookie_manager">Return to beginning of section</a>]</p>
 
-  <p>Habituellement, &brandShortName; ne vous demande votre mot de passe
-  principal qu'une fois par session, lui permettant ainsi d'accéder
-  à vos informations sensibles.</p>
+<h1 id="cookie_manager_settings">Cookie Manager Settings</h1>
 
-  <p>Il est aussi possible de choisir que votre mot de passe principal vous
-  soit demandé chaque fois que c'est nécessaire, ou apr&egrave;s
-  un certain laps de temps. Pour plus d'informations, voir la section <a href=
-  "passwords_help.xhtml#master_password_timeout">échéance du mot
-  de passe principal</a>.</p>
+<p>This section describes how to set your Cookies preferences and control other
+  aspects of cookie handling.</p>
 
-  <p>Vous pouvez aussi vous déconnecter volontairement du gestionnaire
-  de mots de passe pour obliger à entrer le mot de passe principal
-  à nouveau lors d'un acc&egrave;s à vos informations sensibles.
-  Cela peut être utile si vous quittez votre ordinateur pour une certaine
-  période.</p>
+<p>For step-by-step descriptions of various tasks related to cookies, see
+  <a href="#using_the_cookie_manager">Using the Cookie Manager</a>.</p>
 
-  <p>Pour vous déconnecter du gestionnaire de mots de passe&#160;:</p>
+<div class="contentsBox">In this section:
+  <ul>
+    <li><a href="#cookies">Privacy &amp; Security Preferences -
+      Cookies</a></li>
+    <li><a href="#stored_cookies">Stored Cookies</a></li>
+    <li><a href="#cookie_sites">Cookie Websites</a></li>
+    <li><a href="#cookie_notification">Cookie Notification</a></li>
+  </ul>
+</div>
 
-  <ol>
-    <li>Ouvrez le menu <q>Outils</q> et choisissez <q>Gestionnaire de mots de
-    passe</q>.</li>
+<h2 id="cookies">Privacy &amp; Security Preferences - Cookies</h2>
 
-    <li>Sélectionnez <q>Déconnexion</q> dans le sous-menu.</li>
-  </ol>
+<p>Your browser is set by default to accept all cookies. This section describes
+  how to use the Cookies preferences panel to change that setting. If
+  you&apos;re not already viewing it, follow these steps:</p>
 
-  <p>[&#160;<a href="#encrypting_stored_sensitive_information">Retour au
-  début de la section</a>&#160;]</p>
+<ol>
+  <li>Open the <span class="mac">&brandShortName;</span>
+    <span class="noMac">Edit</span> menu and choose Preferences.</li>
+  <li>Under the Privacy &amp; Security category, click Cookies. (If no
+    subcategories are visible, double-click Privacy &amp; Security to expand
+    the list.)</li>
+</ol>
 
-  <h2 id="what_to_do_if_you_forget_your_master_password">Que faire en cas
-  d'oubli du mot de passe principal&#160;?</h2>
+<p>Cookies help websites keep track of information for you, such as the
+  contents of your on-line shopping cart or which cities&apos; weather you want
+  to know about. For a brief overview, see
+  <a href="privacy_help.xhtml#what_are_cookies_and_how_do_they_work">What Are
+  Cookies and How Do They Work?</a></p>
 
-  <p>Si vous oubliez votre mot de passe principal, vous ne pourrez plus accéder
-  à vos mots de passe ou données stockées qui seraient protégées (si vous
-  avez activé le chiffrement). Votre mot de passe principal est votre
-  mot de passe le plus important. Assurez-vous de ne jamais le perdre.</p>
+<p>You can select one of these options:</p>
 
-  <p>En dernier recours, il est possible de réinitialiser votre mot de
-  passe principal si vous êtes s&ucirc;r de ne plus pouvoir vous en
-  souvenir. Néanmoins, réinitialiser votre mot de passe principal
-  a pour effet d'effacer aussi tous les mots de passe Web, les mots de passe
-  des serveurs de courrier, enregistrées sur votre ordinateur par le gestionnaire de mots
-  de passe. Vous perdrez aussi tous vos certificats personnels associés au <a href=
-  "glossary.xhtml#software_security_device" class="glossary">périphérique logiciel de
-  sécurité</a>.</p>
+<ul>
+  <li><strong>Block cookies</strong>: Select this option to refuse all
+    cookies.</li>
+  <li><strong>Allow cookies for the originating website only</strong>: Select
+    this option if you don&apos;t want to accept or return
+    <a href="privacy_help.xhtml#what_are_third-party_cookies">foreign
+    cookies</a>.</li>
+  <li><strong>Allow all cookies</strong>: This is the default option. Select
+    this option to permit all websites not explicitly blocked to set cookies on
+    your computer.</li>
+</ul>
 
-  <p>Avant d'en arriver là, lisez la section <a href=
-  "passwords_help.xhtml#reset_master_password">Effacer le mot de passe
-  principal</a>.</p>
+<p><strong>Note</strong>: Blocking cookies does not remove old cookies. By
+  blocking cookies you only block websites from setting new cookies, and old
+  cookies will still be sent to websites. To completely block a website from
+  receiving old cookies, you need to <a href="#removing_cookies">remove its
+  cookies</a>.
+</p>
 
-  <p>Si vous êtes s&ucirc;r de ne plus pouvoir vous souvenir de votre mot
-  de passe principal, suivez ces instructions pour le
-  réinitialiser&#160;:</p>
+<p><strong>Note</strong>: <a href="#cookie_sites">Per-website cookie permission</a>
+  supersedes default cookie setting. For example, if you allow a website to set
+  cookies, the website can set cookies even if you choose <q>Block cookies</q>.
+</p>
 
-  <ol>
-    <li>Ouvrez le menu <q><span class="mac">SeaMonkey</span><span
-    class="noMac">édition</span></q>
-    et choisissez <q>Préférences&hellip;</q>.</li>
+<p>If you allow cookies or do not change the default setting, you can also
+  select the following preferences:</p>
 
-    <li>Dans la catégorie <q>Confidentialité et
-    sécurité</q>, cliquez sur <q>Mot de passe principal</q>. Si
-    aucune sous-catégorie n'est visible, double-cliquez sur
-    <q>Confidentialité et sécurité</q> pour
-    développer la liste.</li>
+<ul>
+  <li><strong>Accept cookies normally</strong>: Select this
+    if you want websites to set or modify cookies without restrictions.</li>
+  <li><strong>Accept for current session only</strong>: Select this to delete
+    the cookie the next time you exit your browser.</li>
+  <li><strong>Accept cookies for [__] days</strong>: Select this if you
+    want to limit the length of time any cookie can remain on your computer,
+    then type the number of days.</li>
+  <li><strong>Ask for each cookie</strong>: Select this if you want
+    Cookie Manager to warn you each time a website is about to store a cookie.
+    In addition, you can choose <strong>except for session cookies</strong>: so
+    that &brandShortName; will not warn you if the website is setting cookies
+    which will be deleted when you exit your browser.</li>
+</ul>
 
-    <li>Cliquez alors sur le bouton <q>Effacer le mot de passe
-    principal</q>.</li>
+<p>You can also get more information about your stored cookies:</p>
 
-    <li>Dans la bo&icirc;te de dialogue <q>Effacer le mot de passe
-    principal</q>, cliquez sur <q>Effacer</q>.</li>
-  </ol>
+<ul>
+  <li><strong>Cookie Manager</strong>: Click this button to view
+    information about the cookies currently stored on your computer and which
+    websites are allowed to set them.</li>
+</ul>
 
-  <p>[&#160;<a href="#encrypting_stored_sensitive_information">Retour au
-  début de la section</a>&#160;]</p>
+<h2 id="stored_cookies">Stored Cookies</h2>
 
-  <h1 id="managing_images">Gérer les images</h1>
+<p>This section describes how to use the Stored Cookies tab of the Cookie
+  Manager. If you&apos;re not already viewing it, follow these steps:</p>
 
-  <p>Si vous le souhaitez, vous pouvez décider de ne pas
-  télécharger les images pendant la navigation sur le Web. Cette
-  option restreint ce que vous pourrez voir sur les pages Web, mais peut
-  être tr&egrave;s utile si vous avez une connexion à faible
-  débit et voulez diminuer le temps de chargement d'une page.</p>
+<ol>
+  <li>Open the Tools menu and choose Cookie Manager.</li>
+  <li>Choose Manage Stored Cookies from the submenu. The Cookie Manager window
+    opens with a list of all the cookies stored on your computer.</li>
+</ol>
 
-  <p>Vous pouvez aussi contr&ocirc;ler la fréquence de
-  répétition des animations des images animées, ou tout
-  simplement désactiver les animations.</p>
+<p>The Stored Cookies tab lists all the cookies stored on your computer, the
+  websites they belong to, and their current status.</p>
 
-  <p>La section suivante décrit comment contr&ocirc;ler ces
-  préférences pour les images. Les préférences par
-  défaut permettent à toutes les images d'être
-  téléchargées et permettent la répétition
-  des animations.</p>
+<p>When you select a cookie in this list, the following information about that
+  cookie appears in the bottom portion of the tab:</p>
 
-  <div class="contentsBox">
-    <p>Dans cette section&#160;:</p>
+<table class="defaultTable">
+  <thead>
+    <tr>
+      <th>Item</th>
+      <th>Explanation</th>
+    </tr>
+  </thead>
+  <tbody class="tbody-default">
+    <tr>
+      <td>Name</td>
+      <td>The name assigned to the cookie by its originator.</td>
+    </tr>
+    <tr>
+      <td>Information</td>
+      <td>A string of characters containing the information a website tracks
+        for you. It might contain a user key or name by which you are
+        identified to the website, information about your interests, and so
+        forth.</td>
+    </tr>
+    <tr>
+      <td>Host or domain</td>
+      <td>Provides the name of the cookie&apos;s host or domain.
 
+        <p>A <strong>host</strong> cookie is sent back, during subsequent
+          visits, only to the <a href="glossary.xhtml#server">server</a> that
+          set it.</p>
+
+        <p>A <strong>domain</strong> cookie is sent back to any website
+          that&apos;s in the same domain as the website that set it. A
+          website&apos;s domain is the part of its URL that contains the name of
+          an organization, business, or school&mdash;such as netscape.com or
+          washington.org.</p>
+      </td>
+    </tr>
+    <tr>
+      <td>Path</td>
+      <td>The file pathway. This is provided only if the cookie should be sent
+        back to all URLs that are on that path or lower. For example,
+        <tt>http://a.b/x/y/z.html</tt> means that the cookie can also be set
+        for path <tt>x/</tt>.</td>
+    </tr>
+    <tr>
+      <td>Send For</td>
+      <td>When this field is <q>For encrypted connections only</q> it means
+        that the browser checks the connection whenever the server asks for a
+        cookie and will not send it unless the connection is encrypted
+        (HTTPS).</td>
+    </tr>
+    <tr>
+      <td>Expires</td>
+      <td>The date and time at which the cookie will be deactivated. The
+        browser regularly removes expired cookies from your computer.</td>
+    </tr>
+  </tbody>
+</table>
+
+<p>To remove cookies, click one of these buttons:</p>
+
+<ul>
+  <li><strong>Remove Cookie</strong>: Removes the selected cookie or cookies
+    from the list.</li>
+  <li><strong>Remove All Cookies</strong>: Removes all cookies from the
+    list.</li>
+</ul>
+
+<p>Select this checkbox to prevent the cookies you remove from being added back
+  into the list later:</p>
+
+<ul>
+  <li><strong>Don&apos;t allow websites that set removed cookies to set future
+    cookies</strong></li>
+</ul>
+
+<p>Even if you remove cookies now, you will reacquire those same cookies the
+  next time you return to the website. To prevent that from happening, select
+  this checkbox. When this checkbox is selected, websites for the cookies that
+  you are removing are added to the list of websites whose cookies will
+  automatically be rejected.</p>
+
+<p>You must click Close for your changes to take effect.</p>
+
+<h2 id="cookie_sites">Cookie Websites</h2>
+
+<p>This section describes how to use the Cookie Websites tab of the Cookie
+  Manager. If you&apos;re not already viewing it, follow these steps:</p>
+
+<ol>
+  <li>Open the Tools menu and choose Cookie Manager.</li>
+  <li>Choose Manage Stored Cookies from the submenu. The Cookie Manager window
+    opens with a list of all the cookies stored on your computer.</li>
+  <li>Click the Cookie Websites tab.</li>
+</ol>
+
+<p>The Cookie Websites tab of the Cookie Manager lists the websites for which
+  your decisions have been remembered, and what your decisions were. It also
+  allows you to add and remove websites from the list.</p>
+
+<h3 id="add_cookie_sites">Adding Cookie Websites</h3>
+
+<p>To add cookies websites manually:</p>
+
+<ul>
+  <li>Enter the website address, e.g. <tt>www.mozilla.org</tt></li>
+  <li>Set the website cookie permission:
     <ul>
-      <li><a href="#using_images">Préférences de
-      confidentialité et sécurité - Images</a></li>
-
-      <li><a href="#image_manager">Gestionnaire d'images</a></li>
+      <li><strong>Block</strong>: Click this button to add the website as a
+        website blocked from setting cookies.</li>
+      <li><strong>Session</strong>: Click this button to add the website as a
+        website that can set session cookies. Persistent cookies from this
+        website will be downgraded to session cookies.</li>
+      <li><strong>Allow</strong>: Click this button to add the website as a
+        website that can set cookies.</li>
     </ul>
-  </div>
+  </li>
+  <li>Repeat the steps to add additional websites.</li>
+</ul>
 
-  <p><a id="preferences:imagesIDX"></a> <a id="images:preferencesIDX"></a></p>
+<h3 id="remove_cookie_sites">Removing Cookie Websites</h3>
 
-  <h2 id="using_images">Préférences de confidentialité et
-  sécurité - Images</h2>
+<p>To remove a cookie website:</p>
 
-  <p>Cette section explique comment définir les
-  préférences pour les images. Pour voir les
-  préférences pour la gestion des images&#160;:</p>
+<ul>
+  <li><strong>Remove Website</strong>: Removes the selected website or websites
+    from the list.</li>
+  <li><strong>Remove All Websites</strong>: Removes all websites from the list.</li>
+</ul>
 
-  <ol>
-    <li>Ouvrez le menu <q><span class="mac">SeaMonkey</span><span
-    class="noMac">édition</span></q>
-    et choisissez <q>Préférences&hellip;</q>.</li>
+<p>Once you&apos;ve removed a website from this list, Cookie Manager remembers
+  nothing about it. If the <q>Ask for each cookie</q> option is selected in
+  the Cookies preferences panel, you will be warned when any website not in this
+  list requests permission to set a cookie.</p>
 
-    <li>Dans la catégorie <q>Confidentialité et
-    sécurité</q>, cliquez sur <q>Images</q>. Si aucune
-    sous-catégorie n'est visible, double-cliquez sur
-    <q>Confidentialité et sécurité</q> pour
-    développer la liste.</li>
-  </ol>
+<h1 id="using_the_password_manager">Using the Password Manager</h1>
 
-  <h3 id="image_acceptance_policy">Permissions sur les images</h3>
+<p>Many websites require you to type a user name and password before you can
+  enter the website. For instance, personalized pages and websites containing
+  your financial information usually require you to log in.</p>
 
-  <p>La préférence de bloquer les images vous permet de
-  contr&ocirc;ler o&ugrave; et quand le navigateur &brandShortName; affichera les
-  images&#160;:</p>
+<p>The user name and password you use at a particular website can be read by the
+  site&apos;s administrator. Potentially, that person could then attempt to log
+  into other websites where you may have used the same user name and password.
+  If this concerns you, you may wish to use a different password at every
+  website with which you register.</p>
 
-  <dl>
-    <dt>Ne pas charger les images&#160;:</dt>
+<p>Password Manager can help you remember some or all of your names and
+  passwords by storing them on your computer&apos;s hard disk, and entering
+  them for you automatically when you visit such websites.</p>
 
-    <dd>Sélectionnez cette option si vous ne voulez pas que le
-    navigateur affiche les images.</dd>
+<div class="contentsBox">In this section:
+  <ul>
+    <li><a href=
+      "#using_password_manager_to_remember_user_names_and_passwords">Using
+      Password Manager to Remember User Names and Passwords</a></li>
+    <li><a href="#entering_user_names_and_passwords_automatically">Entering
+      User Names and Passwords Automatically</a></li>
+    <li><a href="#turning_password_manager_on_and_off">Turning Password Manager
+      On and Off</a></li>
+    <li><a href="#viewing_and_managing_stored_passwords">Viewing and Managing
+      Stored Passwords</a></li>
+    <li><a href="passwords_help.xhtml">Password Settings</a></li>
+  </ul>
+</div>
 
-    <dt>Accepter les images provenant du serveur initial seulement&#160;:</dt>
+<h2 id="using_password_manager_to_remember_user_names_and_passwords">Using
+  Password Manager to Remember User Names and Passwords</h2>
 
-    <dd>Sélectionnez cette option pour n'afficher que les images du site
-    que vous visitez. Seront exclues toutes les images provenant d'un autre
-    site.</dd>
+<p>When Password Manager is active (as it is by default), it gives you an
+  opportunity to save user names and passwords on your hard drive that you
+  enter while using the Internet.</p>
 
-    <dt>Accepter toutes les images&#160;:</dt>
+<p>For example, after you log onto a website from a page that requests a user
+  name and password, a dialog box appears asking, <q>Do you want Password
+  Manager to remember this logon?</q> When you see this dialog box, you can
+  click one of the following buttons:</p>
 
-    <dd>Sélectionnez cette option si vous voulez afficher toutes les 
-    images (option par défaut).</dd>
+<ul>
+  <li><strong>Yes</strong>: The next time you return to the website you&apos;ll
+    see that your user name and password are already filled in. All you have to
+    do is click the Login button (or equivalent) to send them to the
+    server.</li>
+  <li><strong>Never for this site</strong>: Password Manager will not ask in
+    the future if you want to save your user name and password for that
+    website.</li>
+  <li><strong>No</strong>: Password Manager won&apos;t remember the user name
+    and password, but will ask again the next time you visit the website.</li>
+</ul>
 
-    <!--<dt>Ne pas charger des images distantes dans les messages du Courrier et
-    Groupes&#160;:</dt>
+<p>Similarly, when you log onto an email account or an FTP site, or perform any
+  other action that requires the browser itself to display a special dialog box
+  for your login information, you can select this option in the dialog box:</p>
 
-    <dd>Sélectionnez cette option si vous voulez interdire le
-    téléchargement des images dans les pages Web envoyées
-    en pi&egrave;ces jointes (option par défaut).</dd>-->
-  </dl>
+<ul>
+  <li><strong>Use Password Manager to remember these values</strong></li>
+</ul>
 
-  <h3 id="images_loop">Les images animées doivent boucler</h3>
+<p>The next time you check your email or perform other tasks that require a
+  password only, the password will be submitted directly without any further
+  action on your part. For tasks that require you to enter both a user name and
+  password, you need to click a Login button or equivalent after Password
+  Manager fills in the information.</p>
 
-  <p>Ces options contr&ocirc;lent combien de fois les images animées
-  rép&egrave;tent leur animation&#160;:</p>
+<p>Password Manager saves your user names and passwords on your own computer in
+  a file that&apos;s difficult, but not impossible, for an intruder to read.
+  See <a href="#encrypting_stored_sensitive_information">Encrypting Stored
+  Sensitive Information</a> for information on protecting your stored user
+  names and passwords with encryption technology.</p>
 
-  <dl>
-    <dt>Autant de fois que spécifié par l'image&#160;:</dt>
+<p>If the Password Manager dialog box described above does not appear when you
+  click Submit after typing your user name and password, Password Manager may
+  be turned off or the website may disallow its use.</p>
 
-    <dd>Sélectionnez cette option si vous voulez que l'animation des
-    images se rép&egrave;te autant de fois que l'image animée le
-    spécifie (option par défaut).</dd>
+<p>To check whether Password Manager is currently active, see
+  <a href="#turning_password_manager_on_and_off">Turning Password Manager On
+  and Off</a>.</p>
 
-    <dt>Une fois&#160;:</dt>
+<p>[<a href="#using_the_password_manager">Return to beginning of
+  section</a>]</p>
 
-    <dd>Sélectionnez cette option si vous voulez que l'animation de
-    l'image n'apparaisse qu'une seule fois, sans tenir compte de la
-    spécification de l'image.</dd>
+<h2 id="entering_user_names_and_passwords_automatically">Entering User Names
+  and Passwords Automatically</h2>
 
-    <dt>Jamais&#160;:</dt>
+<p>There are two different ways that Password Manager can fill in user names
+  and passwords on your behalf:</p>
 
-    <dd>Sélectionnez cette option si vous ne voulez pas d'image
-    animée.</dd>
-  </dl>
+<ul>
+  <li>You use Password Manager to remember your user name and password for a
+    website (using the three-button dialog box described in
+    <a href=
+    "#using_password_manager_to_remember_user_names_and_passwords">Using
+    Password Manager to Remember User Names and Passwords</a>).
 
-  <p>[&#160;<a href="#managing_images">Retour au début de la
-  section</a>&#160;]</p>
+    <p>The next time you visit the website, Password Manager automatically fills
+      in your user name and password on the website&apos;s log in page. You can
+      then click the Login button, or equivalent, to send the information to
+      the server.</p>
+  </li>
+  <li>You use Password Manager to remember your user name and password for an
+    email account, an FTP site, or in any other situation where you type login
+    information in a dialog box that displays a checkbox labeled <q>Use
+    Password Manager to remember these values</q>.
 
-  <h2 id="image_manager">Gestionnaire d'image</h2>
+    <p>In most cases, the next time you attempt to access that server, Password
+      Manager automatically fills in your user name and password in the same
+      dialog box. You can then click OK to send the information to the
+      server.</p>
 
-  <p>Cette section explique comment utiliser le gestionnaire d'images. Pour
-  afficher le gestionnaire d'images suivez ces étapes&#160;:</p>
+    <p>In some cases, such as when you open your email account,
+      &brandShortName; needs to send only the password to the server, and does
+      so immediately without displaying the dialog box or requiring any further
+      action on your part.</p>
+  </li>
+</ul>
 
-  <ol>
-    <li>Ouvrez le menu <q><span class="mac">SeaMonkey</span><span
-    class="noMac">édition</span></q>
-    et choisissez <q>Préférences&hellip;</q>.</li>
+<p>[<a href="#using_the_password_manager">Return to beginning of
+  section</a>]</p>
 
-    <li>Dans la catégorie <q>Confidentialité et
-    sécurité</q>, cliquez sur <q>Images</q>. Si aucune
-    sous-catégorie n'est visible, double-cliquez sur
-    <q>Confidentialité et sécurité</q> pour
-    développer la liste.</li>
+<h2 id="turning_password_manager_on_and_off">Turning Password Manager On and
+  Off</h2>
 
-    <li>Cliquez sur le bouton <q>Voir les permissions sur les images</q>.</li>
-  </ol>
+<p>Password Manager is on by default. To turn it off:</p>
 
-  <p>La fenêtre du gestionnaire d'images indique les sites
-  gérés et leur statut. La colonne <q>Statut</q> indique si les
-  images du domaine concerné sont bloquées ou
-  acceptées.</p>
+<ol>
+  <li>Open the <span class="mac">&brandShortName;</span>
+    <span class="noMac">Edit</span> menu and choose Preferences.</li>
+  <li>Under the Privacy &amp; Security category, click Passwords. (If no
+    subcategories are visible, double-click Privacy &amp; Security to expand
+    the list.)</li>
+  <li>In the Password Manager section, deselect <q>Remember passwords</q>
+    to turn Password Manager off.</li>
+</ol>
 
-  <p>Si vous désirez effacer un site de la liste, cliquez sur le site
-  pour le sélectionner puis cliquez sur le bouton <q>Supprimer le
-  site</q>.</p>
+<p>To turn Password Manager on, follow steps 1 and 2 above, but select the
+  checkbox in step 3 rather than deselecting it.</p>
 
-  <p><strong>Astuce</strong>&#160;: Pour bloquer ou débloquer facilement
-  et rapidement les images d'un site Web, ouvrez le menu <q>Outils</q> et
-  sélectionnez <q>Gestionnaire d'images</q>. Dans ce sous-menu,
-  choisissez de bloquer ou de débloquer les images du site. En fonction
-  du statut de ce site dans le gestionnaire d'images, l'une des deux options
-  sera inaccessible (grisée).</p>
+<p>[<a href="#using_the_password_manager">Return to beginning of
+  section</a>]</p>
 
-  <p>[&#160;<a href="#managing_images">Retour au début de la
-  section</a>&#160;]</p>
+<h2 id="viewing_and_managing_stored_passwords">Viewing and Managing Stored
+  Passwords</h2>
 
-  <div id="footer">
-    <!--begin frenchmozilla signature-->
+<p>To see the user names and passwords you have stored and to display a list of
+  websites from which logon information never is saved:</p>
 
-    <p><em>Derni&egrave;re traduction&#160;: 18 janvier 2006</em></p>
+<ul>
+  <li>Open the Tools menu, choose Password Manager, and then choose Manage
+    Stored Passwords from the submenu. You see the Password Manager window with
+    the Passwords Saved tab opened.
+    <ul>
+      <li>To see your saved passwords, click Show Passwords and confirm your
+        choice.</li>
+      <li>To hide your passwords, click Hide Passwords.</li>
+      <li>To remove an entry from the list, click it and then click Remove. The
+        next time you visit the website, you will need to enter your user name
+        and password again, since Password Manager will no longer have the
+        information.</li>
+    </ul>
+    Click the Passwords Never Saved tab to see a list of the websites for which
+    you instructed Password Manager never to store user names and passwords. To
+    remove a website from this list, click it and then click Remove. The next
+    time you log into the website, you can use the stored user name and
+    password (if available) or indicate that you want Password Manager to save
+    the information for that website.</li>
+</ul>
 
-    <p>Ce texte a été traduit et adapté par une
-    équipe internationale de bénévoles francophones.<br />
-    Pour plus d'informations, visitez notre site&#160;: <a href=
-    "http://frenchmozilla.sourceforge.net"
-    hreflang="fr">http://frenchmozilla.sourceforge.net</a>.</p>
-    <!--end frenchmozilla signature-->
-  </div>
+<p>[<a href="#using_the_password_manager">Return to beginning of
+  section</a>]</p>
+
+<h1 id="encrypting_stored_sensitive_information">Encrypting Stored Sensitive
+  Information</h1>
+
+<p>If you use Password Manager to save passwords, then this sensitive
+  information is stored on your computer in a file that&apos;s difficult, but
+  not impossible, for an intruder to read.</p>
+
+<p>For example, if your computer is in an area where unauthorized people have
+  access to it, it&apos;s possible for a determined person to read the file
+  containing your sensitive information.</p>
+
+<p>For a greater degree of security, you may want to protect the file with
+  encryption. Encryption makes it much harder for an unauthorized person to
+  view your stored sensitive information.</p>
+
+<p>Your decision about whether to use encryption for stored sensitive data is a
+  tradeoff between improved security and convenience.</p>
+
+<p>If you use encryption, you will need to enter a master password
+  periodically, which can be inconvenient. If you don&apos;t, it may be easier
+  for a stranger who has access to your computer to steal your passwords.</p>
+
+<div class="contentsBox">In this section:
+  <ul>
+    <li><a href="#setting_a_master_password">Setting a Master Password</a></li>
+    <li><a href="#changing_your_master_password">Changing Your Master
+      Password</a></li>
+    <li><a href="#logging_out_of_your_master_password">Logging Out of Your
+      Master Password</a></li>
+    <li><a href="#what_to_do_if_you_forget_your_master_password">What to Do If
+      You Forget Your Master Password</a></li>
+  </ul>
+</div>
+
+<h2 id="setting_a_master_password">Setting a Master Password</h2>
+
+<p>To enable encryption of passwords you need to set a master password. If
+  your master password has not previously been set, you can set it at this
+  time:</p>
+
+<ol>
+  <li>Open the <span class="mac">&brandShortName;</span>
+    <span class="noMac">Edit</span> menu and choose Preferences.</li>
+  <li>Under the Privacy &amp; Security category, click Master Passwords. (If no
+    subcategories are visible, double-click Privacy &amp; Security to expand
+    the list.)</li>
+  <li>In the Change Master Password section, click Change Password to open the
+    Change Master Password dialog box.</li>
+  <li>Enter your desired master password, and retype it to confirm the
+    spelling.</li>
+  <li>Click OK.</li>
+</ol>
+
+<p>Make sure your new password is difficult to guess. For some suggestions on
+  how to improve password security, see 
+  <a href="passwords_help.xhtml#choosing_a_good_password">Choosing a Good
+  Password</a>.</p>
+
+<p>[<a href="#encrypting_stored_sensitive_information">Return to beginning of
+  section</a>]</p>
+
+<h2 id="changing_your_master_password">Changing Your Master Password</h2>
+
+<p>To change your master password:</p>
+
+<ol>
+  <li>Open the <span class="mac">&brandShortName;</span>
+    <span class="noMac">Edit</span> menu and choose Preferences.</li> 
+  <li>Under the Privacy &amp; Security category, click Master Passwords. (If no
+    subcategories are visible, double-click Privacy &amp; Security to expand
+    the list.)</li>
+  <li>In the Change Master Password section, click Change Password to open the
+    Change Master Password dialog box.</li>
+  <li>Enter your current master password.</li>
+  <li>Enter your new master password, and retype it to confirm the
+    spelling.</li>
+  <li>Click OK.</li>
+</ol>
+
+<p>Make sure your new password is difficult to guess. For some guidelines, see
+  <a href="passwords_help.xhtml#choosing_a_good_password">Choosing a Good
+  Password</a>.</p>
+
+<p>[<a href="#encrypting_stored_sensitive_information">Return to beginning of
+  section</a>]</p>
+
+<h2 id="logging_out_of_your_master_password">Logging Out of Your Master
+  Password</h2>
+
+<p>Normally, you are asked for your master password once during each
+  &brandShortName; session during which you access any of your stored sensitive
+  information.</p>
+
+<p>It&apos;s also possible to require that your master password be requested
+  each time it is needed, or after a certain amount of time has passed. For
+  details, see <a href="passwords_help.xhtml#master_password_timeout">Master
+  Password Timeout</a>.</p>
+
+<p>You can log out of your master password so that it must be entered again
+  before any sensitive information can be stored or retrieved. This is useful
+  if you are going to leave your computer unattended for a period of time.</p>
+
+<p>To log out of your master password:</p>
+
+<ol>
+  <li>Open the Tools menu and choose Password Manager.</li>
+  <li>Select Log Out from the submenu.</li>
+</ol>
+
+<p>[<a href="#encrypting_stored_sensitive_information">Return to beginning of
+  section</a>]</p>
+
+<h2 id="what_to_do_if_you_forget_your_master_password">What to Do If You Forget
+  Your Master Password</h2>
+
+<p>If you forget your master password, you won&apos;t be able to access any of
+  the stored password it protects. Your master password is your most important
+  password. Make sure you remember it or record it in a safe place.</p>
+
+<p>As a last resort, it&apos;s possible to reset your master password if you
+  are sure you can&apos;t remember it. However, resetting your master password
+  permanently erases all the web and email passwords, saved on your behalf by
+  Password Manager. You will also lose all your personal certificates
+  associated with the
+  <a href="glossary.xhtml#software_security_device">Software Security
+  Device</a>.</p>
+
+<p>Before taking this drastic step, read
+  <a href="passwords_help.xhtml#reset_master_password">Reset Master
+  Password</a>.</p>
+
+<p>If you are sure you can&apos;t remember or retrieve your master password,
+  follow these instructions to reset it:</p>
+
+<ol>
+  <li>Open the <span class="mac">&brandShortName;</span>
+    <span class="noMac">Edit</span> menu and choose Preferences.</li>
+  <li>Under the Privacy &amp; Security category, click Master Passwords. (If no
+    subcategories are visible, double-click Privacy &amp; Security to expand
+    the list.)</li>
+  <li>Click Reset Master Password.</li>
+  <li>In the Reset Master Password dialog box, click Reset.</li>
+</ol>
+
+<p>[<a href="#encrypting_stored_sensitive_information">Return to beginning of
+  section</a>]</p>
+
+<h1 id="managing_images">Managing Images</h1>
+
+<p>If you wish, you can choose not to download any images when you browse the
+  web. This greatly restricts what you can view online, but may be helpful if
+  you have a slow connection and wish to shorten the time it takes web pages to
+  load.</p>
+
+<p>You can also control how frequently animated images repeat their animation,
+  or turn off animation completely.</p>
+
+<p>The next section describes how to control these image settings. The default
+  settings allow all images to be accepted and allow them to repeat their
+  animation.</p>
+
+<h2 id="images">Privacy &amp; Security Preferences - Images</h2>
+
+<p>This section describes how to set preferences for images. To view the
+  preference settings for images:</p>
+
+<ol>
+  <li>Open the <span class="mac">&brandShortName;</span>
+    <span class="noMac">Edit</span> menu and choose Preferences.</li>
+  <li>Under the Privacy &amp; Security category, click Images. (If no
+    subcategories are visible, double-click Privacy &amp; Security to expand
+    the list.)</li>
+</ol>
+
+<h3 id="image_acceptance_policy">Image Acceptance Policy</h3>
+
+<p>Image Acceptance preferences allow you to control whether or under what
+  conditions the &brandShortName; browser should display images:</p>
+
+<ul>
+  <li><strong>Do not load any images</strong>: Select this option if you do not
+    want the &brandShortName; browser to display images.</li>
+  <li><strong>Only load images that come from the originating
+    server</strong>: Select this option if you do not want to load images from
+    third-party websites.</li>
+  <li><strong>Load all images</strong>: Select this option if you want to
+    display all images. (This option is selected by default.)</li>
+</ul>
+
+<h3>Animated images should loop</h3>
+
+<p>These settings control how many times animated images repeat their
+  animation:</p>
+
+<ul>
+  <li><strong>As many times as the image specifies</strong>: Select this if you
+    want image animation to repeat as many times as specified within each
+    image. (This option is selected by default.)</li>
+  <li><strong>Once</strong>: Select this if you want image animation to occur
+    once, overriding the number of times specified within each image.</li>
+  <li><strong>Never</strong>: Select this if you do not want image
+    animation.</li>
+</ul>
+
 </body>
 </html>
