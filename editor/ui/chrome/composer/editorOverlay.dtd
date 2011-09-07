@@ -370,5 +370,5 @@
 <!ENTITY copyToolbarCmd.tooltip "Αντιγραφή">
 <!ENTITY cutToolbarCmd.tooltip "Αποκοπή">
 <!ENTITY pasteToolbarCmd.tooltip "Επικόλληση">
-
+<!ENTITY findCmd.label "Εύρεση και αντικατάσταση…">
 
