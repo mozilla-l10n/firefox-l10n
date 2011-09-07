@@ -19,6 +19,7 @@
 # Reviewer(s):
 #
 # alexxed <alexxed@gmail.com>
+# raulmalea <raul.malea@gmail.com>
 #
 -->
 
@@ -132,6 +133,8 @@ can reach it easily. -->
 <!ENTITY forwardCmd.label             "Înainte">
 <!ENTITY forwardCmd.accesskey         "n">
 <!ENTITY forwardButton.tooltip        "Mergi cu o pagină înainte">
+<!ENTITY backForwardButtonMenu.tooltip "Clic dreapta sau trageți în jos pentru a vedea istoricul">
+<!ENTITY backForwardButtonMenuMac.tooltip "Trageți în jos pentru a vedea istoricul">
 <!ENTITY reloadCmd.label              "Reîncarcă">
 <!ENTITY reloadCmd.accesskey          "R">
 <!ENTITY reloadButton.tooltip         "Reîncarcă pagina curentă">
@@ -329,6 +332,7 @@ can reach it easily. -->
   Mac:  Cmd+K (cross platform binding)
         Cmd+Opt+F (platform convention)
   Win:  Ctrl+K (cross platform binding)
+        Ctrl+E (IE compat)
 
   We support Ctrl+K on all platforms now and advertise it in the menu since it is
   our standard - it is a "safe" choice since it is near no harmful keys like "W" as
@@ -339,6 +343,7 @@ can reach it easily. -->
 
  -->
 <!ENTITY searchFocus.commandkey       "k">
+<!ENTITY searchFocus.commandkey2      "e">
 <!ENTITY searchFocusUnix.commandkey   "j">
 
 <!ENTITY tabView.commandkey           "e">

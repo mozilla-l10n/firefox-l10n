@@ -1,3 +1,15 @@
+<!--
+# Translator(s):
+#
+# alexxed <alexxed@gmail.com>
+#
+-->
+<!--
+# Reviewer(s):
+#
+# alexxed <alexxed@gmail.com>
+#
+-->
 <!ENTITY startup.label             "Pornire">
 
 <!ENTITY startupPage.label         "Când &brandShortName; pornește:">
@@ -5,6 +17,9 @@
 <!ENTITY startupHomePage.label     "Arată pagina mea de start">
 <!ENTITY startupBlankPage.label    "Arată o pagină goală">
 <!ENTITY startupLastSession.label  "Arată ferestrele și filele de ultima dată">
+<!ENTITY restoreOnDemand.label     "Nu încărca filele până nu sunt selectate">
+<!ENTITY restoreOnDemand.accesskey "l">
+
 <!ENTITY homepage.label            "Pagina de start:">
 <!ENTITY homepage.accesskey        "P">
 <!ENTITY useCurrentPage.label      "Folosește pagina curentă">

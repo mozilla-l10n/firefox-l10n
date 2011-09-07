@@ -23,6 +23,19 @@
 # alexxed <alexxed@gmail.com>
 #
 -->
+<!--
+# Translator(s):
+#
+# alexxed <alexxed@gmail.com>
+# raulmalea <raul.malea@gmail.com>
+#
+-->
+<!--
+# Reviewer(s):
+#
+# alexxed <alexxed@gmail.com>
+#
+-->
 
 <!ENTITY  splash_screen_loading "Se încarcă">
 <!ENTITY  splash_screen_installing_libs "Se instalează biblioteci\u2026">
@@ -41,3 +54,8 @@
 <!ENTITY  sending_crash_report "Se trimite raportul de defect\u2026">
 <!ENTITY  exit_label "Ieșire">
 <!ENTITY  continue_label "Continuă">
+
+<!ENTITY  launcher_shortcuts_title "Aplicații web &brandShortName;">
+<!ENTITY  launcher_shortcuts_empty "Nicio aplicație web găsită">
+
+<!ENTITY choose_file "Alegere fișier">
