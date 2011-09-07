@@ -126,6 +126,9 @@
 <!ENTITY throbber.tooltip                               "&vendorShortName;-Homepage aufrufen">
 <!ENTITY advancedButton.tooltip                         "Erweiterte Adressensuche">
 
+<!-- Dir Tree header -->
+<!ENTITY dirTreeHeader.label                            "Adressbücher">
+
 <!-- Status Bar -->  
 <!ENTITY statusText.label                               "">
 
