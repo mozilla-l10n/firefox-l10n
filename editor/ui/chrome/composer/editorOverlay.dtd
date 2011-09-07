@@ -68,14 +68,8 @@
 <!ENTITY publishAsCmd.accesskey "b">
 <!ENTITY saveAsChangeEncodingCmd.label "Zeichensatz speichern und ändern">
 <!ENTITY saveAsChangeEncodingCmd.accesskey "h">
-<!ENTITY printSetupCmd.label "Seite einrichten…">
-<!ENTITY printSetupCmd.accesskey "t">
 <!ENTITY printCmd.label "Drucken…">
 <!ENTITY printCmd.accesskey "D">
-<!ENTITY printCmd.key "P">
-<!ENTITY closeCmd.label "Schließen">
-<!ENTITY closeCmd.accesskey "c">
-<!ENTITY closeCmd.key "W">
 
 <!-- Edit menu items -->
 <!ENTITY editMenu.label "Bearbeiten">
@@ -91,17 +85,6 @@
 <!ENTITY pasteAsQuotationCmd.accesskey "Z">
 <!ENTITY pasteAsQuotationCmd.key "Z">
 <!ENTITY findCmd.label "Suchen und ersetzen…">
-<!ENTITY findCmd.accesskey "S">
-<!ENTITY findCmd.key "F">
-<!ENTITY findCmd.key2 "VK_F19">
-<!ENTITY findAgainCmd.label "Weitersuchen">
-<!ENTITY findAgainCmd.accesskey "n">
-<!ENTITY findAgainCmd.key "G">
-<!ENTITY findAgainCmd.key2 "VK_F3">
-<!ENTITY findPrevCmd.label "Vorheriges suchen">
-<!ENTITY findPrevCmd.accesskey "V">
-<!ENTITY findPrevCmd.key "G">
-<!ENTITY findPrevCmd.key2 "VK_F3">
 <!ENTITY enableInlineSpellChecker.label "Sofort-Rechtschreibprüfung">
 <!ENTITY enableInlineSpellChecker.accesskey "S">
 <!ENTITY checkSpellingCmd2.label "Rechtschreibprüfung">
