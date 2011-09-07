@@ -17,8 +17,8 @@
 <!ENTITY signIn.password.label      "Parole">
 <!ENTITY signIn.password.accesskey  "P">
 <!ENTITY server.label               "Serveris">
-<!ENTITY signIn.syncKey.label       "Atgūšanas atslēga">
-<!ENTITY signIn.syncKey.accesskey   "S">
+<!ENTITY signIn.recoveryKey.label       "Atgūšanas atslēga">
+<!ENTITY signIn.recoveryKey.accesskey   "S">
 
 <!ENTITY button.syncKeyBackup.print.label     "Izdrukā…">
 <!ENTITY button.syncKeyBackup.print.accesskey "I">
@@ -43,8 +43,8 @@
 <!ENTITY setup.tosAgree2.accesskey  "">
 
 <!-- New Account Page 2: Passphrase Entry -->
-<!ENTITY setup.newsyncKeyPage.title.label "&brandShortName; rūpējas par jūsu privāto datu drošību">
-<!ENTITY setup.newsyncKeyPage.description.label "Lai nodrošinātu absolūtu privāto datu drošību, visi jūsu dati tiek nošifrēti pirms sūtīšanas uz Atgūšanas serveri. Atšifrēšanai nepieciešamā Atgūšanas atslēga netek sūtīta.">
+<!ENTITY setup.newRecoveryKeyPage.title.label "&brandShortName; rūpējas par jūsu privāto datu drošību">
+<!ENTITY setup.newRecoveryKeyPage.description.label "Lai nodrošinātu absolūtu privāto datu drošību, visi jūsu dati tiek nošifrēti pirms sūtīšanas uz Atgūšanas serveri. Atšifrēšanai nepieciešamā Atgūšanas atslēga netek sūtīta.">
 <!ENTITY recoveryKeyEntry.label        "Jūsu atgūšanas atslēga">
 <!ENTITY recoveryKeyEntry.accesskey    "t">
 <!ENTITY syncGenerateNewKey.label  "Ģenerēt jaunu atslēgu">
@@ -82,7 +82,7 @@
 <!ENTITY addDevice.dialog.connected.label   "Ierīce pieslēgta">
 
 
-<!ENTITY resetsyncKey.label           "Man ir pazudusi otra ierīce.">
+<!ENTITY resetSyncKey.label           "Man ir pazudusi otra ierīce.">
 
 <!-- New Account Page 4: Captcha -->
 <!ENTITY setup.captchaPage2.title.label     "Lūdzu aplieciniet, ka neesat robots">
@@ -94,7 +94,7 @@
 <!-- Existing Account Page 2: Passphrase -->
 <!ENTITY setup.haveAccount.label "Man jau ir &syncBrand.fullName.label;s konts.">
 <!ENTITY verifying.label              "Notiek pārbaude…">
-<!ENTITY existingsyncKey.description "Savas Atgūšanas atslēgas kopiju, jūs varat iegūt, ejot uz &syncBrand.shortName.label;s iestatījumiem savā otrā ierīcē un izvēloties &#x0022;Mana Atgūšanas atslēga&#x0022; no &#x0022;Konta pārvaldība&#x0022; izvēlnes.">
+<!ENTITY existingRecoveryKey.description "Savas Atgūšanas atslēgas kopiju, jūs varat iegūt, ejot uz &syncBrand.shortName.label;s iestatījumiem savā otrā ierīcē un izvēloties &#x0022;Mana Atgūšanas atslēga&#x0022; no &#x0022;Konta pārvaldība&#x0022; izvēlnes.">
 <!ENTITY setup.signInPage.title.label "Pieslēgties">
 
 <!-- New & Existing Account: Merge Options -->
