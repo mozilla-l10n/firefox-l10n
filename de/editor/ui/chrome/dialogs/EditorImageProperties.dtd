@@ -101,6 +101,9 @@
 <!-- These controls are in the Link Box -->
 <!ENTITY showImageLinkBorder.label "Rand um verlinkte Grafik anzeigen">
 <!ENTITY showImageLinkBorder.accessKey "v">
+<!ENTITY LinkAdvancedEditButton.label "Erweitertes Link-Editieren…">
+<!ENTITY LinkAdvancedEditButton.accessKey "L">
+<!ENTITY LinkAdvancedEditButton.tooltip "Hinzufügen oder ändern von HTML-Attributen, Style-Attributen und JavaScript">
 
 <!-- These tabs are currently used in the image input dialog -->
 <!ENTITY imageInputTab.label "Formular">
