@@ -34,7 +34,7 @@
    -
    - ***** END LICENSE BLOCK ***** -->
 
-<!ENTITY windowTitle.label "Laukų rinkinio savybės">
+<!ENTITY windowTitle.label "Laukų grupės savybės">
 
 <!ENTITY Legend.label "Užrašas">
 <!ENTITY Legend.accesskey "U">
@@ -48,5 +48,5 @@
 <!ENTITY AlignCenter.label "Centrinta">
 <!ENTITY AlignRight.label "Pagal dešinįjį kraštą">
 
-<!ENTITY RemoveFieldSet.label "Pašalinti laukų rinkinį">
+<!ENTITY RemoveFieldSet.label "Pašalinti grupę rinkinį">
 <!ENTITY RemoveFieldSet.accesskey "š">
