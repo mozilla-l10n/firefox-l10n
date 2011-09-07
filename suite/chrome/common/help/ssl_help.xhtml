@@ -1,185 +1,125 @@
 <?xml version="1.0" encoding="utf-8"?>
+
 <!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.1//EN"
   "http://www.w3.org/TR/xhtml11/DTD/xhtml11.dtd"[
   <!ENTITY % brandDTD SYSTEM "chrome://branding/locale/brand.dtd" >
   %brandDTD;
-  <!ENTITY % utilityOverlayDTD SYSTEM "chrome://communicator/locale/utilityOverlay.dtd" >
-  %utilityOverlayDTD;
-  <!ENTITY % preferencesDTD SYSTEM "chrome://communicator/locale/pref/preferences.dtd" >
-  %preferencesDTD;
-  <!ENTITY % pref-sslDTD SYSTEM "chrome://pippki/locale/pref-ssl.dtd" >
-  %pref-sslDTD;
-  <!ENTITY % PrefOverlayDTD SYSTEM "chrome://pippki/locale/PrefOverlay.dtd" >
-  %PrefOverlayDTD;
-  ]>
+]>
 
-<html xmlns="http://www.w3.org/1999/xhtml" lang="fr" xml:lang="fr">
+<html xmlns="http://www.w3.org/1999/xhtml">
 <head>
-  <meta http-equiv="Content-Type" content="application/xhtml; charset=utf-8" />
-
-  <title>Préférences de &ssl.label;</title>
-  <!--<link rel="stylesheet" href="content_style.css" type="text/css" />-->
-  <link rel="stylesheet" type="text/css" href="helpFileLayout.css" />
+<title>SSL Settings</title>
+<link rel="stylesheet" href="helpFileLayout.css"
+  type="text/css"/>
 </head>
-
 <body>
-  <h1 id="ssl_settings">Préférences de SSL</h1>
 
-  <p>Cette section décrit comment modifier vos préférences
-  SSL.</p>
+<h1 id="ssl_settings">SSL Settings</h1>
 
-  <div class="contentsBox">
-    <p>Dans cette section&#160;:</p>
+<p>This section describes how to set your SSL preferences.</p>
 
-    <ul>
-      <li><a href=
-      "#privacy_and_security_preferences_ssl">Préférences de
-      confidentialité et de sécurité - &ssl.label;</a></li>
-    </ul>
-
-  </div>
-
-  <h2 id="privacy_and_security_preferences_ssl">Préférences de
-  confidentialité et de sécurité - &ssl.label;</h2>
-
-  <p>Cette section décrit comment utiliser le panneau de configuration
-  <a href="glossary.xhtml#secure_sockets_layer" class="glossary">SSL</a>. S'il
-  n'est pas déjà ouvert, faites ce qui suit&#160;:</p>
-
-  <ol>
-    <li>Ouvrez le menu <q><span class="mac">&brandShortName;</span>
-	<span class="noMac">&editMenu.label;</span></q>
-    et sélectionnez <q>&preferencesCmd.label;</q>.</li>
-
-    <li>Dans la catégorie <q>&security.label;</q>, cliquez sur
-    <q>&ssl.label;</q>. Si aucune sous-catégorie n'est visible,
-    double-cliquez sur <q>&security.label;</q> pour développer la
-    liste.</li>
-  </ol>
-
-  <h3 id="ssl_protocol_versions">&SSLProtocolVersions.caption;</h3>
-
-  <p>La couche sécurisée <acronym title=
-  "Secure Sockets Layer en anglais">SSL</acronym> définit des
-  règles gérant l'authentification mutuelle entre un site Web et
-  un navigateur ainsi que le chiffrement des informations transitant entre eux.
-  La couche <acronym title="Transport Layer Security en anglais">TLS</acronym>
-  est un standard de l'<acronym title=
-  "Internet Engineering Task Force">IETF</acronym> basé sur SSL. On peut
-  penser à TLS 1.0 comme étant SSL 3.1.</p>
-
-  <p>Normalement, vous devez laisser les trois cases SSL et TLS cochées
-  pour vous assurer que les serveurs plus anciens ou plus récents
-  puissent fonctionner avec le navigateur&#160;:</p>
-
-  <dl>
-
-    <dt>&enable.ssl3;&#160;:</dt>
-
-    <dd>Permet aux serveurs plus récents de fonctionner avec le
-    navigateur.</dd>
-
-    <dt>&enable.tls;&#160;:</dt>
-
-    <dd>Permet aux serveurs qui supportent TLS d'en prendre avantage.</dd>
-  </dl>
-
-  <p><strong>Note importante à propos de TLS</strong>&#160;: certains
-  serveurs qui n'implémentent pas correctement SSL ne peuvent pas
-  négocier la connexion avec le client (tel que le navigateur)
-  supportant TLS. De tels serveurs sont reconnus comme étant
-  <q>intolérant à TLS</q>.</p>
-
-  <p>Quand l'option <q>&enable.tls;</q> du panneau de configuration SSL est
-  sélectionnée, le navigateur essaie d'utiliser la couche TLS au
-  moment d'établir une connexion sécurisée avec un
-  serveur. Si cette connexion échoue parce que le serveur est
-  intolérant à TLS, le navigateur utilisera SSL 3.0.</p>
-
-  <h3 id="ssl_warnings">&SSLWarnings.caption;</h3>
-
-  <p>Il est facile de savoir si le site que vous visitez utilise le chiffrement
-  ou non. Si la connexion est chiffrée, une icône en bas à
-  droite du navigateur montre un cadenas verrouillé <img src=
-  "chrome://communicator/skin/icons/lock-secure.png" alt=
-  "connexion sécurisée" />. Si la connexion n'est pas
-  chiffrée, l'icône est un cadenas non verrouillé <img src=
-  "chrome://communicator/skin/icons/lock-insecure.png" alt=
-  "connexion non sécurisée" />.</p>
-
-  <p>Si vous souhaitez plus d'alertes, vous pouvez sélectionner une ou
-  plusieurs options dans le panneau de configuration SSL. Certaines personnes
-  trouvent ces informations intéressantes.</p>
-
-  <p>Pour activer les différentes alertes du navigateur,
-  sélectionnez la case à cocher correspondante&#160;:</p>
-
-  <dl>
-    <dt>&warn.enteringsecure;&#160;:</dt>
-
-    <dd>Choisissez cette alerte pour être averti lorsque vous chargez un
-    site Web qui supporte le chiffrement.</dd>
-
-    <dt>&warn.enteringweak;&#160;:</dt>
-
-    <dd>Choisissez cette alerte pour être averti lorsque vous chargez un
-    site Web qui supporte un chiffrement de bas niveau (un chiffrement de bas
-    niveau est le chiffrement le plus faible disponible, utilisant des
-    clés de 40 bits).</dd>
-
-    <dt>&warn.leavingsecure;&#160;:</dt>
-
-    <dd>Choisissez cette alerte pour être averti lorsque vous quittez une
-    page Web qui supporte le chiffrement pour une autre qui ne le supporte
-    pas.</dd>
-
-    <dt>&warn.insecurepost;&#160;:</dt>
-
-    <dd>Choisissez cette alerte pour être averti à chaque fois que
-    vous envoyez des informations sous forme non chiffrée. Si vous
-    envoyez des données non chiffrées sur Internet, elles peuvent
-    être facilement interceptées par d'autres personnes.</dd>
-
-    <dt>&warn.viewmixed;&#160;:</dt>
-
-    <dd>Choisissez cette alerte pour être averti lorsque vous visualisez
-    une page contenant des informations non chiffrées.</dd>
-  </dl>
-
-  <p>Pour de courtes définitions, cliquez sur les termes <a href=
-  "glossary.xhtml#authentication" class="glossary">authentification</a>,
-  <a href="glossary.xhtml#encryption" class="glossary">chiffrement</a>, ou
-  <a href="glossary.xhtml#certificate" class="glossary">certificat</a>.</p>
-
-  <p>Pour plus d'informations à propos des codes et du chiffrement, voir
-  les documents en ligne suivants&#160;:</p>
-
+<div class="contentsBox">In this section:
   <ul>
-    <li><a href=
-    "https://developer.mozilla.org/fr/Introduction_à_la_cryptographie_à_clef_publique"
-    hreflang="fr">Introduction à la cryptographie
-    à clé publique</a>&#160;;</li>
-
-    <li><a href=
-    "https://developer.mozilla.org/fr/Introduction_à_SSL"
-    hreflang="fr">Introduction à SSL</a>&#160;;</li>
-
-    <li><a href=
-    "http://www.mozilla.org/projects/security/pki/nss/nss-3.11/nss-3.11-algorithms.html"
-    hreflang="en">Technologies de chiffrement dans NSS 3.11</a>.</li>
+    <li><a href="#privacy_and_security_preferences_ssl">Privacy &amp; Security
+      Preferences - SSL</a></li>
   </ul>
+</div>
 
-  <div id="footer">
-    <!--begin frenchmozilla signature-->
+<h2 id="privacy_and_security_preferences_ssl">Privacy &amp; Security
+  Preferences - SSL</h2>
 
-    <p><em>Dernière révision&#160;: 24 juin 2006</em></p>
+<p>This section describes how to use the SSL preferences panel. If you are not
+  already viewing the panel, follow these steps:</p>
 
-    <p>Ce texte a été traduit et adapté par une
-    équipe internationale de bénévoles francophones.<br />
-    Pour plus d'informations, visitez notre site&#160;: <a href=
-    "http://frenchmozilla.sf.net"
-    hreflang="fr">http://frenchmozilla.sf.net</a>.</p>
-    <!--end frenchmozilla signature-->
-  </div>
+<ol>
+  <li>Open the <span class="mac">&brandShortName;</span>
+    <span class="noMac">Edit</span> menu and choose Preferences.</li>
+  <li>Under the Privacy &amp; Security category, click SSL. (If no
+    subcategories are visible, double-click Privacy &amp; Security to expand
+    the list.)</li>
+</ol>
+
+<h3 id="ssl_protocol_versions">SSL Protocol Versions</h3>
+
+<p>The Secure Sockets Layer (SSL) protocol defines rules governing mutual
+  authentication between a web site and browser software and the encryption of
+  information that flows between them. The Transport Layer Security (TLS)
+  protocol is an IETF standard based on SSL. TLS 1.0 can be thought of as SSL
+  3.1.</p>
+
+<p>You should normally leave these three checkboxes selected to ensure that
+  both older and newer web servers can work with the browser:</p>
+
+<ul>
+  <li><strong>Enable SSL version 3</strong>: Allows newer web servers to work
+    with the browser.</li>
+  <li><strong>Enable TLS</strong>: Allows web servers that support TLS to take
+    advantage of it.</li>
+</ul>
+
+<p><strong>Important note regarding TLS</strong>: Some servers that do not
+  implement SSL correctly cannot negotiate the SSL handshake with client
+  software (such as the browser) that supports TLS. Such servers are known as
+  <q>TLS intolerant</q>.</p>
+
+<p>When the Enable TLS option in the SSL preferences panel is selected, the
+  browser attempts to use the TLS protocol when making secure connections with
+  a server. If that connection fails because the server is TLS intolerant, the
+  browser will fall back to using SSL 3.0.</p>
+
+<h3 id="ssl_warnings">SSL Warnings</h3>
+
+<p>It&apos;s easy to tell when the web site you are viewing is using an encrypted
+  connection. If the connection is encrypted, the lock icon in the lower-right
+  corner of the browser window is locked. If the connection is not encrypted,
+  the lock icon is unlocked.</p>
+
+<p>If you want additional warnings, you can select one or more of the warning
+  checkboxes in the SSL preferences panel. Some people find these warnings
+  annoying.</p>
+
+<p>To activate any of these warnings, select the corresponding checkbox:</p>
+
+<ul>
+  <li><strong>Loading a page that supports encryption</strong>: Select this
+    warning if you want to be reminded whenever you are loading a page that
+    supports encryption.</li>
+  <li><strong>Loading a page that uses low-grade encryption</strong>: Select
+    this warning if you want to be reminded whenever you are loading a page
+    that supports low-grade encryption. (Low-grade encryption is the weakest
+    encryption available, using 40-bit keys.)</li>
+  <li><strong>Leaving a page that supports encryption</strong>: Select this
+    warning if you want to be reminded whenever you are leaving a page that
+    supports encryption for one that does not.</li>
+  <li><strong>Sending form data from an unencrypted page to an unencrypted
+    page</strong>: Select this warning if you want to be reminded whenever you
+    are submitting data over an unencrypted connection. If you send unencrypted
+    information over the Internet, it can easily be intercepted by other
+    people.</li>
+  <li><strong>Viewing a page with an encrypted/unencrypted mix</strong>:
+    Select this warning if you want to be alerted whenever you are viewing a
+    page that includes any information that&apos;s not encrypted.</li>
+</ul>
+
+<p>For short definitions, click
+  <a href="glossary.xhtml#authentication">authentication</a>,
+  <a href="glossary.xhtml#encryption">encryption</a>, or
+  <a href="glossary.xhtml#certificate">certificate</a>.</p>
+
+<p>For more information about ciphers and encryption, see the following online
+  documents:</p>
+
+<ul>
+  <li>
+    <a href="http://developer.mozilla.org/en/Introduction_to_Public-Key_Cryptography">Introduction
+    to Public-Key Cryptography</a></li>
+  <li>
+    <a href="http://developer.mozilla.org/en/Introduction_to_SSL">Introduction
+    to SSL</a></li>
+  <li>
+    <a href="http://www.mozilla.org/projects/security/pki/nss/nss-3.11/nss-3.11-algorithms.html">Encryption
+    Technologies Available in NSS 3.11</a>.</li>
+</ul>
+
 </body>
 </html>

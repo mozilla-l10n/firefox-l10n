@@ -1,754 +1,500 @@
-<?xml version="1.0" encoding="utf-8"?>
+<?xml version="1.0" encoding="UTF-8"?>
+
 <!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.1//EN"
   "http://www.w3.org/TR/xhtml11/DTD/xhtml11.dtd"[
   <!ENTITY % brandDTD SYSTEM "chrome://branding/locale/brand.dtd" >
   %brandDTD;
-  <!ENTITY % utilityOverlayDTD SYSTEM "chrome://communicator/locale/utilityOverlay.dtd" >
-  %utilityOverlayDTD;
-  <!ENTITY % tasksOverlayDTD SYSTEM "chrome://communicator/locale/tasksOverlay.dtd" >
-  %tasksOverlayDTD;
-  <!ENTITY % preferencesDTD SYSTEM "chrome://communicator/locale/pref/preferences.dtd" >
-  %preferencesDTD;
-  <!ENTITY % messengerDTD SYSTEM "chrome://messenger/locale/messenger.dtd" >
-  %messengerDTD;
-  <!ENTITY % mailPrefsOverlayDTD SYSTEM "chrome://messenger/locale/mailPrefsOverlay.dtd" >
-  %mailPrefsOverlayDTD;
-  <!ENTITY % AccountManagerDTD SYSTEM "chrome://messenger/locale/AccountManager.dtd" >
-  %AccountManagerDTD;
-  <!ENTITY % AccountWizardDTD SYSTEM "chrome://messenger/locale/AccountWizard.dtd" >
-  %AccountWizardDTD;
-  <!ENTITY % am-mainDTD SYSTEM "chrome://messenger/locale/am-main.dtd" >
-  %am-mainDTD;
-  <!ENTITY % am-addressingDTD SYSTEM "chrome://messenger/locale/am-addressing.dtd" >
-  %am-addressingDTD;
-  <!ENTITY % am-copiesDTD SYSTEM "chrome://messenger/locale/am-copies.dtd" >
-  %am-copiesDTD;
-  <!ENTITY % am-junkDTD SYSTEM "chrome://messenger/locale/am-junk.dtd" >
-  %am-junkDTD;
-  <!ENTITY % am-offlineDTD SYSTEM "chrome://messenger/locale/am-offline.dtd" >
-  %am-offlineDTD;
-  <!ENTITY % am-server-topDTD SYSTEM "chrome://messenger/locale/am-server-top.dtd" >
-  %am-server-topDTD;
-  <!ENTITY % am-server-advancedDTD SYSTEM "chrome://messenger/locale/am-server-advanced.dtd" >
-  %am-server-advancedDTD;
-  <!ENTITY % am-smimeDTD SYSTEM "chrome://messenger/locale/am-smime.dtd" >
-  %am-smimeDTD;
-  <!ENTITY % am-serverwithnoidentitiesDTD SYSTEM "chrome://messenger/locale/am-serverwithnoidentities.dtd" >
-  %am-serverwithnoidentitiesDTD;
-  <!ENTITY % am-advancedDTD SYSTEM "chrome://messenger/locale/am-advanced.dtd" >
-  %am-advancedDTD;
-  <!ENTITY % am-mdnDTD SYSTEM "chrome://messenger/locale/am-mdn.dtd" >
-  %am-mdnDTD;
-  <!ENTITY % folderPropsDTD SYSTEM "chrome://messenger/locale/folderProps.dtd" >
-  %folderPropsDTD;
-  <!ENTITY % pref-addressingDTD SYSTEM "chrome://messenger/locale/addressbook/pref-addressing.dtd" >
-  %pref-addressingDTD;
-  <!ENTITY % pref-tagsDTD SYSTEM "chrome://messenger/locale/pref-tags.dtd" >
-  %pref-tagsDTD;
-  <!ENTITY % pref-formattingDTD SYSTEM "chrome://messenger/locale/messengercompose/pref-formatting.dtd" >
-  %pref-formattingDTD;
-  <!ENTITY % pref-composing_messagesDTD SYSTEM "chrome://messenger/locale/messengercompose/pref-composing_messages.dtd" >
-  %pref-composing_messagesDTD;
-  <!ENTITY % pref-mailnewsDTD SYSTEM "chrome://messenger/locale/pref-mailnews.dtd" >
-  %pref-mailnewsDTD;
-  <!ENTITY % pref-notificationsDTD SYSTEM "chrome://messenger/locale/pref-notifications.dtd" >
-  %pref-notificationsDTD;
-  <!ENTITY % pref-junkDTD SYSTEM "chrome://messenger/locale/pref-junk.dtd" >
-  %pref-junkDTD;
-  <!ENTITY % pref-directoryDTD SYSTEM "chrome://messenger/locale/addressbook/pref-directory.dtd" >
-  %pref-directoryDTD;
-  <!ENTITY % pref-directory-addDTD SYSTEM "chrome://messenger/locale/addressbook/pref-directory-add.dtd" >
-  %pref-directory-addDTD;
-  <!ENTITY % pref-receiptsDTD SYSTEM "chrome://messenger/locale/pref-receipts.dtd" >
-  %pref-receiptsDTD;
-  <!ENTITY % pref-offlineDTD SYSTEM "chrome://messenger/locale/pref-offline.dtd" >
-  %pref-offlineDTD;
-  <!ENTITY % pref-viewing_messagesDTD SYSTEM "chrome://messenger/locale/pref-viewing_messages.dtd" >
-  %pref-viewing_messagesDTD;
-  <!ENTITY % pref-character_encodingDTD SYSTEM "chrome://messenger/locale/pref-character_encoding.dtd" >
-  %pref-character_encodingDTD;
-  <!ENTITY % smtpEditOverlayDTD SYSTEM "chrome://messenger/locale/smtpEditOverlay.dtd" >
-  %smtpEditOverlayDTD;
-  <!ENTITY % msgHdrViewOverlayDTD SYSTEM "chrome://messenger/locale/msgHdrViewOverlay.dtd" >
-  %msgHdrViewOverlayDTD;
-  <!ENTITY % msgViewPickerOverlayDTD SYSTEM "chrome://messenger/locale/msgViewPickerOverlay.dtd" >
-  %msgViewPickerOverlayDTD;
-  <!ENTITY % msgCompSMIMEOverlayDTD SYSTEM "chrome://messenger-smime/locale/msgCompSMIMEOverlay.dtd"
->
-  %msgCompSMIMEOverlayDTD;
-  <!ENTITY % abNewCardDialogDTD SYSTEM "chrome://messenger/locale/addressbook/abNewCardDialog.dtd" >
-  %abNewCardDialogDTD;
-  <!ENTITY % abCardOverlayDTD SYSTEM "chrome://messenger/locale/addressbook/abCardOverlay.dtd" >
-  %abCardOverlayDTD;
-  <!ENTITY % abCardViewOverlayDTD SYSTEM "chrome://messenger/locale/addressbook/abCardViewOverlay.dtd" >
-  %abCardViewOverlayDTD;
-  <!ENTITY % abMainWindowDTD SYSTEM "chrome://messenger/locale/addressbook/abMainWindow.dtd" >
-  %abMainWindowDTD;
 ]>
 
-<html xmlns="http://www.w3.org/1999/xhtml" lang="fr" xml:lang="fr">
+<html xmlns="http://www.w3.org/1999/xhtml">
 <head>
-  <title>Travailler hors connexion</title>
-  <meta http-equiv="Content-Type" content="application/xhtml; charset=utf-8" />
-  <!--<link rel="stylesheet" href="content_style.css" type="text/css" />-->
-  <link rel="stylesheet" type="text/css" href="helpFileLayout.css" />
-  <link rel="stylesheet" type="text/css" href="chrome://communicator/skin/smileys.css"/>
+<title>Working Offline</title>
+<link rel="stylesheet" href="helpFileLayout.css" type="text/css"/>
+<link rel="stylesheet" href="chrome://communicator/skin/smileys.css"
+      type="text/css"/>
 </head>
-
 <body>
 
-  <h1 id="working_offline">Travailler hors connexion</h1>
+<h1 id="working_offline">Working Offline</h1>
 
-  <div class="contentsBox">
-    <p>Dans cette section&#160;:</p>
+<p>&brandShortName; Mail &amp; Newsgroups includes advanced features to help
+  you manage your messaging needs when you are not connected to the Internet.
+  You can download mail and news messages before going offline for later
+  reading, and you can defer sending mail messages and newsgroup posts until
+  you get back online. All of these features are explained in this
+  document.</p>
 
+<div class="contentsBox">In this section:
+  <ul>
+    <li><a href="#setting_up_mozilla_mail_and_newsgroups_to_work_offline">Setting
+      Up &brandShortName; Mail &amp; Newsgroups to Work Offline</a></li>
+    <li><a href="#downloading_all_messages_for_offline_use">Downloading All
+      Messages for Offline Use</a></li>
+    <li><a href="#downloading_an_individual_folder_for_offline_use">Downloading
+      an Individual Folder for Offline Use</a></li>
+    <li><a href="#downloading_selected_or_flagged_messages_for_offline_use">Downloading
+      Selected or Flagged Messages for Offline Use</a></li>
+    <li><a href="#downloading_directory_entries_for_offline_use">Downloading
+      Directory Entries for Offline Use</a></li>
+    <li><a href="#setting_up_your_accounts_for_working_offline">Setting Up Your
+      Accounts for Working Offline</a></li>
+    <li><a href="#selecting_items_for_offline_viewing">Selecting Items for
+      Offline Viewing</a></li>
+    <li><a href="#downloading_and_synchronizing_your_messages">Downloading and
+      Synchronizing Your Messages</a></li>
+    <li><a href="#working_offline_and_reconnecting_later">Working Offline and
+      Reconnecting Later</a></li>
+  </ul>
+</div>
+
+<h2 id="setting_up_mozilla_mail_and_newsgroups_to_work_offline">Setting Up
+  &brandShortName; Mail &amp; Newsgroups to Work Offline</h2>
+
+<p>&brandShortName; Mail &amp; Newsgroups&apos; offline feature lets you
+  download your mail and read it offline (while disconnected from the
+  Internet). If you use a dial-up (modem) connection to access your mail and
+  you want to reduce the time you are connected, or, if you need to temporarily
+  disconnect from your company&apos;s network while traveling or switching
+  locations, you can download your mail so that you can read it offline. The
+  offline feature can automatically download incoming messages and then later
+  send all your outgoing messages when you reconnect.</p>
+
+<p>Note that for POP accounts your mail is already downloaded by default, so
+  most of these offline features aren&apos;t relevant for POP accounts.</p>
+
+<p>If you occasionally want to work offline, &brandShortName; Mail &amp;
+  Newsgroups lets you easily:</p>
+
+<ul>
+  <li>Download your Inbox for offline use.</li>
+  <li>Download an individual folder for offline use.</li>
+  <li>Download only selected or flagged messages for offline use.</li>
+  <li>Download directory entries in your address book for offline use.</li>
+</ul>
+
+<p>If you frequently work offline, &brandShortName; Mail &amp; Newsgroups also
+  lets you:</p>
+
+<ul>
+  <li>Set up one or more of your accounts for offline use.</li>
+  <li>Set offline and disk space preferences for each account.</li>
+  <li>Select the folders and newsgroups that you want to view offline.</li>
+</ul>
+
+<p>[<a href="#working_offline">Return to beginning of section</a>]</p>
+
+<h2 id="downloading_all_messages_for_offline_use">Downloading All Messages for
+  Offline Use</h2>
+
+<p>You can tell &brandShortName; Mail &amp; Newsgroups to automatically
+  download your messages for offline use. Later, when you go back online,
+  &brandShortName; Mail &amp; Newsgroups automatically synchronizes your
+  messages with the server.</p>
+
+<p>Note that the Inbox for POP accounts is downloaded by default, so this
+  section does not apply for POP accounts.</p>
+
+<p>To automatically download your messages for offline use, begin from the Mail
+  window:</p>
+
+<ol>
+  <li>Open the Edit menu and choose Mail &amp; Newsgroups Account Settings. You
+    see the Mail &amp; Newsgroups Account Settings dialog box.</li>
+  <li>In the left side of the dialog box, under the name of the account you
+    want to use offline, select Synchronization &amp; Storage. (This category
+    is not available for POP accounts.)</li>
+  <li>Check the box labeled <q>Keep messages for this account on this
+    computer</q>.</li>
+  <li>Click OK.</li>
+  <li>Click the Online/Offline indicator <img src="images/online.png" alt=""/>
+    in the lower right corner of the Mail window (to the left of the Cookie
+    icon) to go offline. You will be asked to download messages for them to be
+    available while offline. Click on <q>Download</q> to proceed.</li>
+</ol>
+
+<p><strong>Note</strong>: This setting also applies to any new folders
+  created. While the per-account setting can be overridden for an
+  <a href="#downloading_an_individual_folder_for_offline_use">individual
+  folder</a>, those per-folder settings are <em>removed</em> when the
+  <q>Keep messages</q> box is toggled.</p>
+
+<p>&brandShortName; Mail &amp; Newsgroups automatically downloads all messages
+  in your Inbox so you can read and respond to them while working offline.
+  After disconnecting, &brandShortName; Mail &amp; Newsgroups remains open so
+  you can continue to work with your messages.</p>
+
+<p>To reconnect to the Internet so you can work online:</p>
+
+<ul>
+  <li>Click the Online/Offline indicator <img src="images/offline.png"
+    alt=""/> in the lower right corner of the Mail window (to the left of the
+    Cookie icon) to go back online.</li>
+</ul>
+
+<p>When you go back online, &brandShortName; Mail &amp; Newsgroups
+  automatically synchronizes your Inbox messages with the server, by
+  replicating any changes you made while working offline.</p>
+
+<p><strong>Tip</strong>: &brandShortName; Mail &amp; Newsgroups saves any
+  messages that you send while working offline in the Unsent Messages folder
+  under Local Folders. To have &brandShortName; Mail &amp; Newsgroups
+  automatically send your unsent messages when you reconnect, use the
+  Preferences command on the <span class="mac">&brandShortName;</span>
+  <span class="noMac">Edit</span> menu to change the
+  <a href="mailnews_preferences.xhtml#network_and_storage_preferences">offline
+  preferences</a> for all your accounts.</p>
+
+<p>[<a href="#working_offline">Return to beginning of section</a>]</p>
+
+<h2 id="downloading_an_individual_folder_for_offline_use">Downloading an
+  Individual Folder for Offline Use</h2>
+
+<p>Note that POP accounts don&apos;t allow you to manage folders on the POP
+  server, so this section does not apply to POP accounts.</p>
+
+<p>To download a specific folder for offline use, begin from the Mail
+  window:</p>
+
+<ol>
+  <li>In the left side of the Mail window, select the folder that you want to
+    download for offline use.</li>
+  <li>Open the Edit menu, and choose Folder Properties. You see the Properties
+    dialog box.</li>
+  <li>Click the Synchronization tab.</li>
+  <li>Check <q>Select this folder for offline use</q>.</li>
+  <li>Click Download Now if you want to immediately begin downloading the
+    folder&apos;s messages. Alternatively, you can continue working, and when
+    you are ready to go offline, proceed to the next step.</li>
+  <li>Click the Online/Offline indicator <img src="images/online.png" alt=""/>
+    in the lower right corner of the Mail window to go offline.</li>
+  <li>In the Work Offline dialog box, click Download.</li>
+</ol>
+
+<p>&brandShortName; Mail &amp; Newsgroups automatically downloads all messages
+  in the selected folder so you can read and respond to them while working
+  offline. After disconnecting, &brandShortName; Mail &amp; Newsgroups remains
+  open so you can continue to work with your messages.</p>
+
+<p><strong>Note</strong>: Message headers that have been downloaded for reading
+  offline display a darker gray envelope or newsgroup icon.</p>
+
+<p>To reconnect to the Internet so you can work online:</p>
+
+<ul>
+  <li>Click the Online/Offline indicator <img src="images/offline.png"
+    alt=""/> in the lower right corner of the Mail window (to the left of the
+    Cookie icon) to go back online.</li>
+</ul>
+
+<p>&brandShortName; Mail &amp; Newsgroups automatically synchronizes the
+  offline folders with the server, by replicating any changes you made while
+  working offline.</p>
+
+<p><strong>Tip</strong>: &brandShortName; Mail &amp; Newsgroups saves any
+  messages that you sent while working offline in the Unsent Messages folder
+  under Local Folders. When you reconnect, choose Send Unsent Messages from the
+  File menu to send all your saved messages at once. To have &brandShortName;
+  Mail &amp; Newsgroups automatically send your unsent messages when you
+  reconnect, use the Preferences command on the
+  <span class="mac">&brandShortName;</span> <span class="noMac">Edit</span>
+  menu to change your <a
+  href="mailnews_preferences.xhtml#network_and_storage_preferences">offline
+  preferences</a>.</p>
+
+<p>[<a href="#working_offline">Return to beginning of section</a>]</p>
+
+<h2 id="downloading_selected_or_flagged_messages_for_offline_use">Downloading
+  Selected or Flagged Messages for Offline Use</h2>
+
+<p>Note that messages are downloaded by default for POP accounts. However, if
+  you have enabled the <q>Fetch headers only</q> setting in the POP account
+  settings, then only the headers will be downloaded, and you will need to use
+  the commands in this section to download the complete messages.</p>
+
+<p>To download selected messages for offline use, begin from the Mail
+  window:</p>
+
+<ol>
+  <li>Select a Mail or Newsgroup folder to display its messages.</li>
+  <li>Select the messages you want to download, as follows:
     <ul>
-      <li><a href=
-      "#setting_up_mozilla_mail_and_newsgroups_to_work_offline">Configurer
-      &brandShortName; Courrier &amp; Groupes pour travailler hors connexion</a></li>
-
-      <li><a href=
-      "#downloading_all_messages_for_offline_use">Télécharger tous les messages
-	  pour une utilisation hors connexion</a></li>
-
-      <li><a href="#downloading_an_individual_folder_for_offline_use">Mettre
-      à jour un dossier pour une utilisation hors connexion</a></li>
-
-      <li><a href=
-      "#downloading_selected_or_flagged_messages_for_offline_use">Télécharger
-      des messages sélectionnés ou cochés pour une
-      utilisation hors connexion</a></li>
-
-      <li><a href=
-      "#downloading_directory_entries_for_offline_use">Télécharger
-      des entrées d'annuaire pour une utilisation hors connexion</a></li>
-
-      <li><a href="#setting_up_your_accounts_for_working_offline">Configurer
-      des comptes pour travailler hors connexion</a></li>
-
-      <li><a href="#selecting_items_for_offline_viewing">Sélectionner
-      des comptes, dossiers et groupes pour un affichage hors connexion</a></li>
-
-      <li><a href=
-      "#downloading_and_synchronizing_your_messages">Télécharger
-      et synchroniser des messages</a></li>
-
-      <li><a href="#working_offline_and_reconnecting_later">Travail hors connexion
-      et reconnexion ultérieure</a></li>
+      <li>To select a group of adjacent messages, click the first message, and
+        then Shift-click to select the last message in the group.</li>
+      <li>To select messages anywhere in the message list, hold down the
+        <kbd class="mac">Cmd</kbd><kbd class="noMac">Ctrl</kbd> key and click
+        each message.</li>
     </ul>
-  </div>
+  </li>
+  <li>Open the File menu, choose Offline, and then choose Get Selected Messages
+    from the submenu. &brandShortName; Mail &amp; Newsgroups downloads the
+    selected messages.</li>
+</ol>
 
-  <h2 id="setting_up_mozilla_mail_and_newsgroups_to_work_offline">Configurer
-  &brandShortName; Courrier &amp; Groupes pour travailler hors connexion</h2>
+<p>To download flagged messages for offline use, begin from the Mail
+  window:</p>
 
-  <p>La fonction hors connexion de &brandShortName; Courrier &amp; Groupes permet de
-  télécharger le courrier et de le consulter hors connexion
-  (déconnecté d'Internet). Si vous utilisez une connexion par
-  modem pour accéder au courrier et souhaitez réduire votre temps
-  de connexion ou si vous devez vous déconnecter momentanément du
-  réseau de votre entreprise, si vous êtes en voyage ou en
-  déplacement, vous pouvez télécharger le courrier pour le
-  consulter hors connexion. La fonction hors connexion de &brandShortName; Courrier &amp; Groupes
-  peut télécharger automatiquement les messages entrants et
-  envoyer tous les messages sortants lors de la prochaine reconnexion.</p>
+<ol>
+  <li>Select a Mail or Newsgroup folder to display its messages.</li>
+  <li>Click in the flag column of each message you want to download. A flag
+    appears where you clicked to indicate that the message has been marked. If
+    the flag column is not visible, click the Show/Hide Columns icon
+    <img src="images/columns.png" alt=""/> and select Flag from the list.</li>
+  <li>Open the File menu, choose Offline, and then choose Get Flagged Messages.
+    &brandShortName; Mail &amp; Newsgroups downloads the flagged messages.</li>
+</ol>
 
-  <p>Si vous souhaitez travailler occasionnellement hors connexion, &brandShortName;
-  Courrier &amp; Groupes permet d'effectuer aisément les
-  opérations suivantes&#160;:</p>
+<p>Once downloading is complete, click the Online/Offline indicator in the
+  lower right corner of the Mail window (to the left of the Cookie icon) to go
+  offline. After you disconnect, &brandShortName; Mail &amp; Newsgroups remains
+  open so you can continue to work with your messages.</p>
 
-  <ul>
-    <li>télécharger du courrier entrant pour une utilisation hors
-    connexion&#160;;</li>
+<p>Note that the <q>Get Selected Messages</q> and <q>Get Flagged Messages</q>
+  menu items are also available in the pop-up thread context menu, for faster
+  access.</p>
 
-    <li>télécharger un dossier pour une utilisation hors
-    connexion&#160;;</li>
+<p><strong>Note</strong>: Message headers that have been downloaded for reading
+  offline display a darker gray envelope or newsgroup icon.</p>
 
-    <li>télécharger les seuls messages sélectionnés
-    ou cochés pour une utilisation hors connexion&#160;;</li>
+<p>To reconnect to the Internet so you can work online:</p>
 
-    <li>télécharger les entrées d'annuaire dans votre
-    carnet d'adresses pour une utilisation hors connexion.</li>
-  </ul>
+<ul>
+  <li>Click the Online/Offline indicator <img src="images/offline.png"
+    alt=""/> in the lower right corner of the Mail window to go online.</li>
+</ul>
 
-  <p>Si vous travaillez fréquemment hors connexion, &brandShortName; Courrier &amp;
-  Groupes permet également d'effectuer les opérations
-  suivantes&#160;:</p>
+<p><strong>Tip</strong>: &brandShortName; Mail &amp; Newsgroups saves any
+  messages that you sent while working offline in the Unsent Messages folder
+  under Local Folders. When you reconnect, choose Send Unsent Messages from the
+  File menu to send all your saved messages at once. To have &brandShortName;
+  Mail &amp; Newsgroups automatically send your unsent messages when you
+  reconnect, use the Preferences command on the
+  <span class="mac">&brandShortName;</span> <span class="noMac">Edit</span>
+  menu to change your <a
+  href="mailnews_preferences.xhtml#network_and_storage_preferences">offline
+  preferences</a>.</p>
 
-  <ul>
-    <li>configurer un ou plusieurs comptes pour une utilisation hors
-    ligne&#160;;</li>
+<p>[<a href="#working_offline">Return to beginning of section</a>]</p>
 
-    <li>définir les préférences &networkStorage.label; pour chaque compte&#160;;</li>
+<h2 id="downloading_directory_entries_for_offline_use">Downloading
+  Directory Entries for Offline Use</h2>
 
-    <li>sélectionner les éléments (comptes, dossiers et
-    groupes) à consulter hors connexion.</li>
-  </ul>
+<p>You can download (replicate) the entries in a directory server to your
+  computer so that they are available when you work offline. Once you&apos;ve
+  downloaded directory entries, you can use the same procedure to update your
+  local copy of the entries with the latest entries on the directory
+  server.</p>
 
-  <p>[&#160;<a href="#working_offline">Retour au début de la
-  section</a>&#160;]</p>
+<p>To download or update an address book LDAP directory for offline use:</p>
 
-  <h2 id="downloading_all_messages_for_offline_use">Télécharger tous les messages
-	  pour une utilisation hors connexion</h2>
+<ol>
+  <li>Make sure you&apos;re online.</li>
+  <li>Open the Window menu, and choose Address Book.</li>
+  <li>In the Address Book window, select the directory that you want to
+    download (replicate).</li>
+  <li>Click Properties in the Address Book toolbar. The Directory Server
+    Properties dialog box appears.</li>
+  <li>Click the Offline tab.</li>
+  <li>Click Download Now to start copying the entries to your computer.</li>
+  <li>If prompted, enter your network user name and password, and click OK to
+    start the download.
 
-  <p>&brandShortName; Courrier &amp; Groupes peut télécharger
-  automatiquement vos messages entrants pour une utilisation hors connexion. Plus
-  tard, lorsque vous vous reconnectez, &brandShortName; Courrier &amp; Groupes
-  synchronise automatiquement les messages du courrier entrant avec le
-  serveur.</p>
+    <p>Depending on the number of directory entries, the download process may
+      take a while, so please be patient.</p>
+  </li>
+</ol>
 
-  <p>Pour télécharger automatiquement vos messages pour
-  une utilisation hors connexion, ouvrez une fenêtre <q>Courrier</q>.</p>
+<p>After the download finishes, you can work offline and search the directory
+  or use it for address autocompletion when composing messages. After
+  you&apos;ve been using your local copy of the directory for a while, you may
+  wish to update it to get the latest entries from the directory server. To
+  update your local copy, use the procedure described above.</p>
 
-  <ol>
-    <li>Ouvrez le menu <q>&editMenu.label;</q> et sélectionnez
-    <q>&accountManagerCmd.label;</q>. La
-    boîte de dialogue <q>&accountManagerTitle.label;</q> s'affiche.</li>
+<p>[<a href="#working_offline">Return to beginning of section</a>]</p>
 
-    <li>À gauche de la boîte de dialogue, choisissez le compte
-    à utiliser hors connexion et sélectionnez <q>Synchronisation et espace
-    disque</q>.
+<h2 id="setting_up_your_accounts_for_working_offline">Setting Up Your Accounts
+  for Working Offline</h2>
 
-      <p><strong>Remarque</strong>&#160;: cette catégorie n'est pas
-      disponible pour les comptes POP.</p>
-    </li>
+<p>To set up one or more accounts for working offline, you use the Offline and
+  Disk Space preferences in the Mail &amp; Newsgroups Account Settings dialog
+  box. Once set, you don&apos;t need to change these preferences each time you
+  want to work offline. The offline and disk space preferences you can set for
+  an account depend on the type of account (IMAP, POP, or Newsgroup).</p>
 
-    <li>Cochez la case <q>&allFoldersOffline.label;</q>.</li>
+<p>Here&apos;s a summary of the steps you will follow to set up your accounts
+  for offline use:</p>
 
-    <li>Cliquez sur <q>OK</q>.</li>
+<ol>
+  <li>For each account that you want to work with while offline, use the Mail
+    &amp; Newsgroups Account Settings dialog box to set the Synchronization
+    &amp; Storage preferences for that account. You must select the items
+    (folders and newsgroups) that you want to download for offline use. See
+    <a href="#selecting_items_for_offline_viewing">Selecting Items for Offline
+    Viewing</a> for more information.
 
-	<li class="rediger">Cliquez sur l'icône en ligne/hors connexion <img src=
-    "chrome://communicator/skin/icons/online.gif" alt="Icône en ligne" /> dans le coin en bas à
-	droite de la fenêtre <q>Courrier</q> pour passer en mode hors connexion. &brandShortName; vous
-	demandera si vous désirer télécharger les messages pour les rendre disponibles hors connexion.
-	Cliquez sur <q>Téléchargez</q> pour terminer la procédure.</li>
+    <p>Once set, you don&apos;t need to change these settings. See the sections
+      below for information on setting offline and disk space preferences for
+      <a href="mailnews_account_settings.xhtml#synchronization_and_storage_settings_imap">IMAP</a>,
+      <a href="mailnews_account_settings.xhtml#disk_space_settings_pop">POP</a>,
+      <a href="mailnews_account_settings.xhtml#disk_space_settings_blogs">Blogs</a>, and
+      <a href="mailnews_account_settings.xhtml#synchronization_and_storage_settings_nntp">Newsgroup</a>
+      accounts.</p>
 
-  </ol>
+    <p><strong>Tip</strong>: To set the Synchronization &amp; Storage
+      preferences for the current account, open the File menu, choose Offline,
+      and then choose Offline Settings.</p>
+  </li>
+  <li>Open the File menu, choose Offline, and then choose Download/Sync Now
+    from the submenu.</li>
+  <li>Select the type of messages (mail or newsgroup or both) that you want to
+    download.
 
-  <p class="traduire"><strong>Remarque&#160;:</strong> This setting also applies to any new folders created. While the per-account setting can be overridden for an <a href="#downloading_an_individual_folder_for_offline_use">individual folder</a>, those per-folder settings are <em>removed</em> when the <q>Keep messages</q> box is toggled.</p>
+    <p><strong>Important</strong>: You must select at least one category (mail
+      messages or newsgroup messages) in order for the download to work.</p>
+  </li>
+  <li>Select <q>Work offline once download and/or sync is complete</q>.</li>
+  <li>Click OK to download the selected items and then go offline. See
+    <a href="#downloading_and_synchronizing_your_messages">Downloading and
+    Synchronizing Your Messages</a> for more information.</li>
+</ol>
 
-  <p>&brandShortName; Courrier &amp; Groupes télécharge automatiquement
-  tous les messages de la boîte de réception pour pouvoir les lire
-  et y répondre hors connexion. Après la déconnexion, &brandShortName;
-  Courrier &amp; Groupes reste ouvert pour vous permettre de continuer à
-  travailler avec les messages.</p>
+<p>For subsequent offline sessions, you can skip step 1.</p>
 
-  <p>Pour vous reconnecter à Internet et travailler en ligne&#160;:</p>
+<p>[<a href="#working_offline">Return to beginning of section</a>]</p>
 
-  <ul>
-    <li>cliquez sur l'icône en ligne/hors connexion <img src=
-    "chrome://communicator/skin/icons/offline.gif" alt=
-    "icône hors connexion" /> dans le coin en bas à droite de la
-    fenêtre <q>Courrier</q> pour passer en mode en ligne.</li>
-  </ul>
+<h2 id="selecting_items_for_offline_viewing">Selecting Items for Offline
+  Viewing</h2>
 
-  <p>Lorsque vous vous reconnectez, &brandShortName; Courrier &amp; Groupes synchronise
-  automatiquement les messages avec le serveur, en répliquant les
-  modifications apportées hors connexion.</p>
+<p>Before you can read mail and newsgroup messages while offline, you must
+  first select them for downloading. You can set up an entire account for
+  offline use. You can also choose which folders and newsgroups that you
+  want to use offline.</p>
 
-  <p><strong>Astuce</strong>&#160;: lors du travail hors connexion, &brandShortName;
-  Courrier &amp; Groupes enregistre les messages à envoyer dans le
-  sous-dossier <q>Messages en attente</q> des <q>Dossiers locaux</q>. Pour que
-  &brandShortName; Courrier &amp; Groupes envoie automatiquement les messages en attente
-  à la reconnexion, voir la section <a href=
-  "mailnews_preferences.xhtml#network_and_storage_preferences">Préférences de Courrier
-  et Groupes - &networkStorage.label;</a> pour tous vos comptes.</p>
+<p><strong>Note</strong>: Keep in mind that selecting more items may increase
+  download time and disk space used.</p>
 
-  <p>[&#160;<a href="#working_offline">Retour au début de la
-  section</a>&#160;]</p>
+<p>To select accounts, folders, and newsgroups for offline viewing, begin from
+  the Mail window:</p>
 
-  <h2 id="downloading_an_individual_folder_for_offline_use">Mettre à
-  jour un dossier pour une utilisation hors connexion</h2>
+<ol>
+  <li>Open the Edit menu, choose Mail &amp; Newsgroups Account Settings. You
+    see the Mail &amp; Newsgroups Account Settings dialog box.</li>
+  <li>Choose the Synchronization &amp; Storage category for the account you
+    want to change.</li>
+  <li>Click <q>Advanced</q> to see your IMAP folders, or <q>Select newsgroups
+    for offline use</q> for your subscribed newsgroups.
 
-  <p class="regdiger">Les comptes POP ne permettent pas de gérer les
-  dossiers sur les serveurs POP, cette section ne s'applique donc pas à
-  ce type de compte.</p>
+    <p><strong>Note</strong>: You see only the newsgroups and folders that
+      you&apos;ve already <a
+      href="mailnews_newsgroups.xhtml#subscribing_to_newsgroups">subscribed</a>
+      to. POP accounts and local mail folders don&apos;t appear in the
+      list.</p>
+  </li>
+  <li>Select the items (folders, newsgroups) that you want to make available
+    for offline use.</li>
+  <li>Click OK.</li>
+</ol>
 
-  <p>Pour mettre à jour un dossier précis pour une utilisation
-  hors connexion, ouvrez une fenêtre <q>Courrier</q>&#160;:</p>
+<p>Once set, you don&apos;t need to change these settings each time you want to
+  go offline. However, if you do want to change them, you can easily do so
+  before going offline, since the same Select button is available when using
+  the <a href="#downloading_and_synchronizing_your_messages">Download and
+  Sync</a> command.</p>
 
-  <ol>
-    <li>À gauche de la fenêtre <q>Courrier</q>,
-    sélectionnez le dossier concerné pour une utilisation hors
-    ligne.</li>
+<p>[<a href="#working_offline">Return to beginning of section</a>]</p>
 
-    <li>Dans le menu <q>&editMenu.label;</q>, choisissez
-    <q>&folderPropsFolderCmd.label;</q>.</li>
+<h2 id="downloading_and_synchronizing_your_messages">Downloading and
+  Synchronizing Your Messages</h2>
 
-    <li>Cliquez sur l'onglet <q>&folderSynchronizationTab.label;</q> de la boîte de dialogue
-    <q>Propriétés</q>.</li>
+<p>If you have already selected mail folders and newsgroups for offline use,
+  you are now ready to download and synchronize them. If you haven&apos;t yet
+  selected items to download, you can choose them before you go offline.</p>
 
-    <li>Cochez la case <q>Sélectionnez ce dossier pour une utilisation
-    hors connexion</q>.</li>
+<p>If you are not already viewing the Download/Sync Now dialog box, follow
+  these steps:</p>
 
-    <li>Cliquez sur <q>Télécharger maintenant</q> pour
-    télécharger immédiatement les messages du dossier.
-    Vous pouvez également continuer à travailler et passer
-    à l'étape suivante lorsque vous voulez vous
-    déconnecter.</li>
+<p>To download and synchronize your messages, begin from the Mail
+ window:</p>
 
-    <li>Cliquez sur l'icône En ligne/Hors connexion <img src=
-    "chrome://communicator/skin/icons/online.gif" alt="icône en ligne" />
-    en bas à droite de la fenêtre <q>Courrier</q> pour passer en
-    mode hors connexion.</li>
+<ol>
+  <li>Open the File menu, choose Offline, and then choose Download/Sync
+    Now.</li>
+  <li>Select the categories (mail messages or newsgroup messages) that you want
+    to download.
 
-    <li>Dans la boîte de dialogue <q>Travailler hors connexion</q>, cliquez
-    sur <q>Télécharger</q>.</li>
-  </ol>
+    <p><strong>Important</strong>: You must select at least one category (Mail
+      messages, Newsgroup messages) in order for the download to work. If the
+      checkboxes are disabled, it means that you haven&apos;t yet selected
+      items to download. Use the Select button to select items to download.</p>
+  </li>
+  <li>To send messages in your Unsent Messages folder before going offline,
+    check <q>Send Unsent Messages</q>.</li>
+  <li>To go offline immediately after &brandShortName; Mail &amp; Newsgroups
+    finishes downloading, select <q>Work offline once download and/or sync is
+    complete</q>.</li>
+  <li>To set or change the items to download, click Select. See
+    <a href="#selecting_items_for_offline_viewing">Selecting Items for Offline
+    Viewing</a> for more information. You can skip this step if you&apos;ve
+    already selected items for download.</li>
+  <li>Click OK. &brandShortName; Mail &amp; Newsgroups begins downloading the
+    selected items.</li>
+</ol>
 
-  <p>&brandShortName; Courrier &amp; Groupes télécharge automatiquement
-  tous les messages du dossier sélectionné pour pouvoir les lire
-  et y répondre hors connexion. Après la déconnexion, &brandShortName;
-  Courrier &amp; Groupes reste ouvert pour vous permettre de continuer à
-  travailler avec les messages.</p>
+<p>If you chose to work offline once the download completes, then
+  &brandShortName; Mail &amp; Newsgroups immediately switches to offline mode.
+  Otherwise, when you are ready to go offline, click the Online/Offline
+  indicator <img src="images/online.png" alt=""/> in the lower right corner of
+  the Mail window to go offline.</p>
 
-  <p><strong>Remarque</strong>&#160;: les en-têtes de message
-  téléchargés pour la lecture hors connexion affichent une
-  enveloppe ou une icône de groupe de couleur gris foncé.</p>
+<p>[<a href="#working_offline">Return to beginning of section</a>]</p>
 
-  <p>Pour vous reconnecter à Internet et travailler en ligne&#160;:</p>
+<h2 id="working_offline_and_reconnecting_later">Working Offline and
+  Reconnecting Later</h2>
 
-  <ul>
-    <li>Cliquez sur l'icône En ligne/Hors connexion <img src=
-    "chrome://communicator/skin/icons/offline.gif" alt=
-    "icône hors connexion" /> en bas à droite de la fenêtre
-    <q>Courrier</q> pour passer en mode en ligne.</li>
-  </ul>
+<p>To work offline and reconnect later, begin from the Mail window.</p>
 
-  <p>&brandShortName; Courrier &amp; Groupes synchronise automatiquement les dossiers
-  hors connexion avec le serveur, en répliquant les changements
-  apportés lors du travail hors connexion.</p>
+<p>When you are ready to work offline:</p>
 
-  <p><strong>Astuce</strong>&#160;: &brandShortName; Courrier &amp; Groupes enregistre
-  les messages envoyés lors du travail hors connexion dans le sous-dossier
-  <q>Messages en attente</q> situés dans les <q>Dossiers locaux</q>.
-  À la reconnexion, sélectionnez <q>&folderContextSendUnsentMessages.label;</q> dans le menu <q>&fileMenu.label;</q> pour envoyer simultanément
-  tous les messages enregistrés. Pour que &brandShortName; Courrier &amp; Groupes
-  envoie automatiquement les messages non envoyés à la
-  reconnexion, voir la section <a href=
-  "mailnews_preferences.xhtml#network_and_storage_preferences">Préférences de Courrier
-  et Groupes - &networkStorage.label;</a>.</p>
+<ol>
+  <li>Click the online/offline indicator <img src="images/online.png" alt=""/>
+    in the lower-right corner of the Mail window. Mail &amp; Newsgroups prompts
+    you to download messages, if you want, before going offline.</li>
+  <li>Click Download to download messages before going offline. If you want to
+    work offline without downloading messages, click Don&apos;t Download.</li>
+</ol>
 
-  <p>[&#160;<a href="#working_offline">Retour au début de la
-  section</a>&#160;]</p>
+<p><strong>Note</strong>: Message headers that have been downloaded for reading
+  offline display a darker gray envelope or newsgroup icon.</p>
 
-  <h2 id="downloading_selected_or_flagged_messages_for_offline_use">
-  Télécharger des messages sélectionnés ou
-  cochés pour une utilisation hors connexion</h2>
-
-  <p class="rediger">Veuillez noter que les messages sont téléchargés par défaut pour les
-  comptes POP. Toutefois, si vous avez activé le paramètre <q>Télécharger uniquement
-  les en-têtes</q> dans le paramétrage du compte POP, alors seuls les en-têtes seront
-  téléchargés et vous devrez utiliser les commandes dans cette section pour télécharger
-  les messages complets.</p>
-
-  <p>Pour télécharger des messages sélectionnés
-  pour une utilisation hors connexion, ouvrez une fenêtre Courrier.</p>
-
-  <ol>
-    <li>Sélectionnez un dossier de messagerie ou de groupe pour afficher
-    ses messages.</li>
-
-    <li>Sélectionnez les messages à télécharger,
-    comme suit&#160;:
-
-      <ul>
-        <li>Pour sélectionner un groupe de messages adjacents, cliquez
-        sur le premier puis cliquez en pressant la touche <kbd>Majuscule</kbd>
-        pour sélectionner le dernier du groupe.</li>
-
-        <li>Pour sélectionner des messages non consécutifs dans
-        la liste, maintenez la touche <kbd class="mac">Commande</kbd><kbd
-        lass="noMac">Ctrl</kbd> enfoncée et cliquez sur
-        chaque message.</li>
-      </ul>
-    </li>
-
-    <li>Ouvrez le menu <q>&fileMenu.label;</q>, sélectionnez
-    <q>&offlineMenu.label;</q> puis <q>&downloadSelectedCmd.label;</q>.
-    &brandShortName; Courrier &amp; Groupes télécharge alors les messages
-    sélectionnés.</li>
-
-    <li>Lorsque le téléchargement est terminé, cliquez sur
-    l'icône En ligne/Hors connexion <img src=
-    "chrome://communicator/skin/icons/online.gif" alt="Icône en ligne" />
-    en bas à droite de la fenêtre <q>Courrier</q> pour passer en
-    mode hors connexion.</li>
-  </ol>
-
-  <p>Pour télécharger des messages cochés en vue d'une
-  utilisation hors connexion, ouvrez une fenêtre Courrier.</p>
-
-  <ol>
-    <li>Sélectionnez un dossier de messagerie ou de groupe pour afficher
-    ses messages.</li>
-
-    <li>Cliquez dans la colonne <q>Coché</q> de chaque message à
-    télécharger. Un drapeau s'affiche où vous avez
-    cliqué pour indiquer que le message a été
-    coché. Si la colonne <q>Coché</q> n'est pas visible, cliquez
-    sur l'icône <q>Afficher/Masquer</q> les colonnes et
-    sélectionnez <img src="images/columns.png" alt="drapeau" />
-    <q>Coché</q> dans la liste.</li>
-
-    <li>Ouvrez le menu <q>&fileMenu.label;</q>, choisissez <q>&offlineMenu.label;</q>,
-    puis <q>&downloadFlaggedCmd.label;</q>. &brandShortName; Courrier &amp;
-    Groupes télécharge les messages cochés.</li>
-
-  </ol>
-
-  <p>Lorsque le téléchargement est terminé, cliquez sur
-  l'icône En ligne/Hors connexion <img src=
-  "chrome://communicator/skin/icons/online.gif" alt="Icône en ligne" />
-  en bas à droite de la fenêtre <q>Courrier</q> pour passer en
-  mode hors connexion.</p>
-
-  <p class="rediger">Veuillez noter que les éléments de menu
-  <q>&downloadSelectedCmd.label;</q> et <q>&downloadFlaggedCmd.label;</q> sont
-  aussi disponibles dans le menu contextuel pour un accès plus rapide.</p>
-
-  <p>Après la déconnexion, &brandShortName; Courrier &amp; Groupes reste
-  ouvert pour vous permettre de continuer à travailler avec les
+<p><strong>Tip</strong>: To set &brandShortName; Mail &amp; Newsgroups&apos;
+  download behavior when going offline, open the
+  <span class="mac">&brandShortName;</span> <span class="noMac">Edit</span>
+  menu, choose Preferences, and then under the Mail &amp; Newsgroups category,
+  select Network &amp; Storage (if no subcategories are visible, double-click
+  Mail &amp; Newsgroups to expand the list). You can choose to have
+  &brandShortName; Mail &amp; Newsgroups prompt you to download messages when
+  going offline, to automatically download messages, or to not download any
   messages.</p>
 
-  <p><strong>Remarque</strong>&#160;: les en-têtes de message
-  téléchargés pour la lecture hors connexion affichent une
-  enveloppe <img src="chrome://messenger/skin/icons/message-mail-new-offl.gif"
-  alt="Icône d'utilisation hors connexion&#160;: message de messagerie" /> ou
-  une icône de groupe <img src=
-  "chrome://messenger/skin/icons/message-news-new-offl.gif" alt=
-  "Icône d'utilisation hors connexion&#160;: nouveau message de groupe" />, de
-  couleur gris foncé.</p>
-
-  <p>Pour vous reconnecter à Internet et travailler en ligne&#160;:</p>
-
-  <ul>
-    <li>Cliquez sur l'icône En ligne/Hors connexion <img src=
-    "chrome://communicator/skin/icons/offline.gif" alt=
-    "Icône en ligne" /> en bas à droite de la fenêtre
-    <q>Courrier</q> pour passer en mode en ligne.</li>
-  </ul>
-
-  <p><strong>Astuce</strong>&#160;: &brandShortName; Courrier &amp; Groupes enregistre
-  les messages envoyés lors du travail hors connexion dans le sous-dossier
-  <q>Messages en attente</q> situés dans les <q>Dossiers locaux</q>.
-  À la reconnexion, sélectionnez <q>&folderContextSendUnsentMessages.label;</q> dans le menu <q>&fileMenu.label;</q> pour envoyer simultanément
-  tous les messages enregistrés. Pour que &brandShortName; Courrier &amp; Groupes
-  envoie automatiquement les messages non envoyés à la
-  reconnexion, voir la section <a href=
-  "mailnews_preferences.xhtml#network_and_storage_preferences">Préférences de Courrier
-  et Groupes - &networkStorage.label;</a>.</p>
-
-  <p>[&#160;<a href="#working_offline">Retour au début de la
-  section</a>&#160;]</p>
-
-  <h2 id="downloading_directory_entries_for_offline_use">
-  Télécharger des entrées d'annuaire pour une utilisation
-  hors connexion</h2>
-
-  <p>Vous pouvez télécharger (répliquer) les
-  entrées d'un serveur d'annuaire sur votre ordinateur pour que ces
-  données soient disponibles hors connexion. Une fois que vous avez
-  téléchargé les entrées de l'annuaire, vous pouvez
-  utiliser la même procédure pour mettre à jour votre copie
-  locale des entrées avec les versions les plus récentes
-  disponibles sur le serveur d'annuaire.</p>
-
-  <p>Pour télécharger ou mettre à jour un carnet
-  d'adresses de type annuaire LDAP pour une utilisation hors connexion&#160;:</p>
-
-  <ol>
-    <li>Assurez-vous d'être connecté.</li>
-
-    <li>Ouvrez le menu <q>&windowMenu.label;</q> et choisissez <q>&addressbook.label;</q>.</li>
-
-    <li>Dans la fenêtre <q>Carnet d'adresses</q>, sélectionnez
-    l'annuaire que vous voulez télécharger
-    (répliquer).</li>
-
-    <li>Cliquez sur <q>Modifier</q> dans la barre d'outils. La boîte de
-    dialogue <q>Propriétés</q> du serveur d'annuaire
-    apparaît.</li>
-
-    <li>Cliquez sur l'onglet <q>&folderSynchronizationTab.label;</q>.</li>
-
-    <li>Cliquez <q>Télécharger maintenant</q> pour commencer
-    à copier les entrées sur votre ordinateur.</li>
-
-    <li>En cas de besoin, saisissez vos nom d'utilisateur et mot de passe
-    réseau, puis cliquez sur <q>OK</q> pour démarrer le
-    téléchargement.
-
-      <p>Selon le nombre d'entrées de l'annuaire, le
-      téléchargement peut prendre du temps. Soyez patient.</p>
-    </li>
-  </ol>
-
-  <p>Après la fin du téléchargement, vous pouvez
-  travailler hors connexion et effectuer des recherches dans l'annuaire ou
-  l'utiliser pour l'auto-complétion d'adresses lors de la
-  rédaction de messages. Après avoir utilisé votre copie
-  locale de l'annuaire pendant un certain temps, vous pouvez avoir besoin de la
-  mettre à jour pour obtenir les dernières entrées du
-  serveur d'annuaire. Pour mettre à jour votre copie,
-  répétez la procédure décrite ci-dessus.</p>
-
-  <p>[&#160;<a href="#working_offline">Retour au début de la
-  section</a>&#160;]</p>
-
-  <h2 id="setting_up_your_accounts_for_working_offline">Configurer des comptes
-  pour travailler hors connexion</h2>
-
-  <p>Pour configurer un ou plusieurs comptes pour travailler hors connexion,
-  utilisez les préférences <q>&networkStorage.label;</q> de
-  la boîte de dialogue <q>&accountManagerTitle.label;</q>. Une fois définies, il n'est plus nécessaire de
-  modifier ces préférences chaque fois que vous travaillez hors
-  ligne. Les préférences <q>&networkStorage.label;</q>
-  disponibles dépendent du type de compte (IMAP, POP ou groupe).</p>
-
-  <p>Pour configurer des comptes pour une utilisation hors connexion, suivez ces
-  étapes&#160;:</p>
-
-  <ol>
-    <li>Pour chaque compte avec lequel vous voulez travailler hors connexion,
-    utilisez la boîte de dialogue <q>&accountManagerTitle.label;</q> pour définir les préférences
-    <q>&networkStorage.label;</q> correspondantes. Vous devez
-    sélectionner les éléments (comptes, dossiers, groupes)
-    à télécharger pour une utilisation hors connexion. Voir la
-    section <a href="#selecting_items_for_offline_viewing">Sélection de
-    comptes, dossiers et groupes pour un affichage hors connexion</a> pour plus
-    d'informations.
-
-      <p>Une fois définies, vous n'aurez plus à modifier ces
-      préférences. Consultez les sections suivantes pour plus
-      d'informations sur la définition des préférences
-      &networkStorage.label; pour des comptes
-	  <a href="mailnews_account_settings.xhtml#synchronization_and_storage_settings_imap">IMAP</a>,
-	  <a href="mailnews_account_settings.xhtml#disk_space_settings_pop">POP</a>,
-	  <a href="mailnews_account_settings.xhtml#disk_space_settings_blogs">Flux</a> et
-	  <a href="mailnews_account_settings.xhtml#synchronization_and_storage_settings_nntp">groupe</a>.</p>
-
-      <p><strong>Astuce</strong>&#160;: pour définir les
-      préférences <q>&networkStorage.label;</q> du compte en
-      cours, dans le menu <q>&fileMenu.label;</q>, choisissez <q>&offlineMenu.label;</q>,
-      puis <q>&settingsOfflineCmd.label;</q>.</p>
-    </li>
-
-    <li>Ouvrez le menu <q>&fileMenu.label;</q>, sélectionnez
-    <q>&offlineMenu.label;</q> puis <q>&synchronizeOfflineCmd.label;</q>.</li>
-
-    <li>Sélectionnez le type de messages (Courrier, Message des groupes
-    ou les deux) à télécharger.
-
-      <p><strong>Important</strong>&#160;: vous devez sélectionner au
-      moins une catégorie (Courrier ou Message des groupes) pour que le
-      téléchargement fonctionne.</p>
-    </li>
-
-    <li>Sélectionnez <q>Se déconnecter à la fin du
-    téléchargement et/ou de la synchronisation</q>.</li>
-
-    <li>cliquez sur <q>OK</q> pour télécharger les
-    éléments sélectionnés et se déconnecter.
-    Voir la section <a href=
-    "#downloading_and_synchronizing_your_messages">Téléchargement
-    et synchronisation des messages</a> pour plus d'informations.</li>
-  </ol>
-
-  <p>Pour les sessions hors connexion suivantes, vous pouvez passer l'étape
-  1.</p>
-
-  <p>[&#160;<a href="#working_offline">Retour au début de la
-  section</a>&#160;]</p>
-
-  <h2 id="selecting_items_for_offline_viewing">Sélectionner des comptes,
-  dossiers et groupes pour un affichage hors connexion</h2>
-
-  <p>Pour pouvoir lire les messages électroniques et de groupes hors
-  ligne, vous devez d'abord les sélectionner en vue d'un
-  téléchargement. Vous pouvez définir un compte complet
-  pour l'utilisation hors connexion. Vous pouvez également
-  sélectionner les dossiers et groupes à utiliser hors connexion.</p>
-
-  <p><strong>Remarque</strong>&#160;: n'oubliez pas que plus vous
-  sélectionnez d'éléments, plus le temps de
-  téléchargement et l'espace disque utilisé
-  s'accroissent.</p>
-
-  <p>Pour sélectionner des comptes, dossiers et groupes pour un affichage
-  hors connexion, ouvrez une fenêtre <q>Courrier</q>&#160;:</p>
-
-  <ol>
-    <li>Dans le menu <q>&editMenu.label;</q>, choisissez <q>&accountManagerCmd.label;</q>. La boîte de dialogue
-    <q>&accountManagerTitle.label;</q> s'affiche.</li>
-
-    <li>Sélectionnez la catégorie <q>&networkStorage.label;</q> du compte à modifier.</li>
-
-    <li>Cliquez sur <q>Sélectionner les dossiers pour le travail hors
-    ligne…</q>. Vous pouvez voir vos comptes IMAP, dossiers de courrier
-    et groupes auxquels vous êtes abonné.
-
-      <p><strong>Remarque</strong>&#160;: seuls les dossiers et groupes auxquels
-      vous êtes déjà <a href=
-      "mailnews_newsgroups.xhtml#subscribing_to_newsgroups">abonné</a> apparaissent.</p>
-    </li>
-
-    <li>Sélectionnez les éléments (dossiers, groupes)
-    à rendre disponibles pour une utilisation hors connexion.</li>
-
-    <li>Cliquez sur <q>OK</q>.</li>
-  </ol>
-
-  <p>Une fois définies, il n'est plus nécessaire de modifier ces
-  préférences chaque fois que vous travaillez hors connexion.
-  Toutefois, pour les modifier, il suffit de le faire avant de vous
-  déconnecter, car le même bouton <q>Sélectionner les
-  dossiers pour le travail hors connexion…</q> est disponible à
-  l'aide de la commande <a href=
-  "#downloading_and_synchronizing_your_messages">Télécharger/synchroniser</a>.</p>
-
-  <p>[&#160;<a href="#working_offline">Retour au début de la
-  section</a>&#160;]</p>
-
-  <h2 id="downloading_and_synchronizing_your_messages">
-  Télécharger et synchroniser des messages</h2>
-
-  <p>Si vous avez déjà sélectionné des dossiers de
-  courrier et groupes pour une utilisation hors connexion, vous êtes
-  prêt à les mettre à jour et à les synchroniser. Si
-  vous ne les avez pas encore sélectionnés, vous pouvez le faire
-  avant de vous déconnecter.</p>
-
-  <p>Si vous n'avez pas encore affiché la boîte de dialogue
-  <q>Télécharger et synchroniser les messages</q>, ouvrez une
-  fenêtre <q>Courrier</q>&#160;:</p>
-
-  <ol>
-    <li>Ouvrez le menu <q>&fileMenu.label;</q>, sélectionnez
-    <q>&offlineMenu.label;</q> puis <q>&synchronizeOfflineCmd.label;</q>.</li>
-
-    <li>Sélectionnez les catégories (Courrier ou Messages des
-    groupes) à télécharger.
-
-      <p><strong>Important</strong>&#160;: vous devez sélectionner au
-      moins une catégorie (Courrier ou Messages des groupes) pour que le
-      téléchargement fonctionne. Si les cases ne sont pas
-      cochées, cela signifie que vous n'avez pas encore
-      sélectionné d'éléments à
-      télécharger. Pour ce faire, utilisez le bouton
-      <q>Sélectionner les dossiers pour le travail hors
-      ligne…</q>.</p>
-    </li>
-
-    <li>Pour envoyer les messages dans votre dossier <q>Messages en attente</q>
-    avant de vous déconnecter, cochez la case <q>&folderContextSendUnsentMessages.label;</q>.</li>
-
-    <li>Pour vous déconnecter immédiatement après la fin
-    du téléchargement par &brandShortName; Courrier &amp; Groupes, cochez
-    la case <q>Se déconnecter à la fin du
-    téléchargement et/ou de la synchronisation</q>.</li>
-
-    <li>Pour définir ou modifier les éléments à
-    télécharger, cliquez sur <q>Sélectionner…</q>.
-    Voir <a href="#selecting_items_for_offline_viewing">Sélection de
-    comptes, dossiers et groupes pour un affichage hors connexion</a> pour plus
-    d'informations. Vous pouvez ignorer cette étape si vous avez
-    déjà sélectionné des éléments
-    à télécharger.</li>
-
-    <li>Cliquez sur <q>OK</q>. &brandShortName; Courrier &amp; Groupes commence à
-    télécharger les éléments
-    sélectionnés.</li>
-  </ol>
-
-  <p>Si vous avez choisi de travailler hors connexion une fois le
-  téléchargement terminé &brandShortName; Courrier &amp; Groupes se
-  déconnecte immédiatement. Dans le cas contraire, lorsque vous
-  êtes prêt à vous déconnecter, cliquez sur
-  l'icône en ligne/hors connexion <img src=
-  "chrome://communicator/skin/icons/online.gif" alt="icône en ligne" />
-  dans le coin en bas à droite de la fenêtre <q>Courrier</q>.</p>
-
-  <p>[&#160;<a href="#working_offline">Retour au début de la
-  section</a>&#160;]</p>
-
-  <h2 id="working_offline_and_reconnecting_later">Travail hors connexion et
-  reconnexion ultérieure</h2>
-
-  <p>Pour travailler hors connexion et vous reconnecter ultérieurement,
-  ouvrez la fenêtre <q>Courrier</q>.</p>
-
-  <p>Lorsque vous êtes prêt à vous
-  déconnecter&#160;:</p>
-
-  <ol>
-    <li>Cliquez sur l'icône en ligne/hors connexion <img src=
-    "chrome://communicator/skin/icons/online.gif" alt="icône en ligne" />
-    dans le coin en bas à droite de la fenêtre <q>Courrier</q>.
-    &brandShortName; Courrier &amp; Groupes vous invite à
-    télécharger les messages avant de vous
-    déconnecter.</li>
-
-    <li>Pour ce faire, cliquez sur <q>Télécharger</q>. Dans le
-    cas contraire, cliquez sur <q>Ne pas télécharger</q>.</li>
-  </ol>
-
-  <p><strong>Remarque</strong>&#160;: les en-têtes de message
-  téléchargés pour la lecture hors connexion affichent une
-  enveloppe <img src="chrome://messenger/skin/icons/message-mail-new-offl.gif"
-  alt="Icône d'utilisation hors connexion&#160;: message de messagerie" /> ou
-  une icône de groupe <img src=
-  "chrome://messenger/skin/icons/message-news-new-offl.gif" alt=
-  "Icône d'utilisation hors connexion&#160;: nouveau message de groupe" />, de
-  couleur gris foncé.</p>
-
-  <p><strong>Astuce</strong>&#160;: pour définir le comportement de téléchargement de
-  &brandShortName; Courrier &amp; Groupes lors de la déconnexion, ouvrez le menu <q><span
-  class="mac">&brandShortName;</span><span class="noMac">&editMenu.label;</span></q>, sélectionnez
-  <q>&preferencesCmd.label;</q> et sélectionnez la catégorie <q>&networkStorage.label;</q>. Vous
-  pouvez configurer &brandShortName; Courrier &amp; Groupes afin qu'il vous invite à télécharger
-  des messages lors de la déconnexion et qu'il télécharge automatiquement les messages ou au
-  contraire, qu'il ne les télécharge pas.</p>
-
-  <p>Pour vous reconnecter et synchroniser les messages&#160;:</p>
-
-  <ol>
-    <li>Cliquez sur l'icône en ligne/hors connexion <img src=
-    "chrome://communicator/skin/icons/offline.gif" alt=
-    "icône hors connexion" /> dans le coin en bas à droite de la
-    fenêtre <q>Courrier</q>.</li>
-
-    <li>Ouvrez le menu <q>&fileMenu.label;</q>, sélectionnez
-    <q>&offlineMenu.label;</q> puis <q>&synchronizeOfflineCmd.label;</q>.</li>
-  </ol>
-
-  <p>&brandShortName; Courrier &amp; Groupes synchronise les messages avec le serveur, en
-  répliquant les changements apportés lors du travail hors
-  ligne.</p>
-
-  <p><strong>Astuce</strong>&#160;: pour définir le comportement de
-  &brandShortName; Courrier &amp; Groupes lors de la connexion, ouvrez le menu
-  <q><span class="mac">SeaMonkey</span><span
-    class="noMac">&editMenu.label;</span></q>, sélectionnez
-  <q>&preferencesCmd.label;</q> et sélectionnez la
-  catégorie <q>&networkStorage.label;</q>. Vous pouvez configurer
-  &brandShortName; Courrier &amp; Groupes pour qu'il vous invite à envoyer les
-  messages en attente, qu'il le fasse automatiquement ou reste inactif.</p>
-
-  <p>[&#160;<a href="#working_offline">Retour au début de la
-  section</a>&#160;]</p>
-
-  <div id="footer">
-    <!--begin frenchmozilla signature-->
-
-    <p><em>Dernière traduction&#160;: 29 janvier 2006</em></p>
-    <!-- | vérification&#160;: le 13 décembre 2003</em></p>-->
-
-    <p>Ce texte a été traduit et adapté par une
-    équipe internationale de bénévoles francophones.<br />
-    Pour plus d'informations, visitez notre site&#160;: <a href=
-    "http://frenchmozilla.sf.net"
-    hreflang="fr">http://frenchmozilla.sourceforge.net</a>.</p>
-    <!--end frenchmozilla signature-->
-  </div>
+<p>To reconnect and synchronize your messages:</p>
+
+<ol>
+  <li>Click the online/offline indicator <img src="images/offline.png"
+    alt=""/> in the lower-right corner of any &brandShortName; window.</li>
+  <li>Open the File menu, choose Offline, and then choose Download/Sync
+    Now.</li>
+</ol>
+
+<p>&brandShortName; Mail &amp; Newsgroups synchronizes your messages with the
+  server by replicating any changes you made while working offline.</p>
+
+<p><strong>Tip</strong>: To set &brandShortName; Mail &amp; Newsgroups&apos;
+  behavior when going online, open the
+  <span class="mac">&brandShortName;</span> <span class="noMac">Edit</span>
+  menu, choose Preferences, and then choose the Synchronization &amp; Storage
+  category. You can choose to have &brandShortName; Mail &amp; Newsgroups
+  prompt you to send unsent messages, to automatically send unsent messages,
+  or to not send unsent messages.</p>
+
+<p>[<a href="#working_offline">Return to beginning of section</a>]</p>
 </body>
 </html>
