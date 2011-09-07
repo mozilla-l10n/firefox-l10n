@@ -704,3 +704,5 @@
 <!ENTITY hideOtherAppsCmdMac.commandkey "H">
 <!ENTITY hideOtherAppsCmdMac.modifiers "accel,alt">
 <!ENTITY showAllAppsCmdMac.label "Προβολή όλων">
+<!ENTITY bodyAllParts.label "Όλα τα ήμερη του κυρίως κειμένου">
+<!ENTITY bodyAllParts.accesskey "λ">
