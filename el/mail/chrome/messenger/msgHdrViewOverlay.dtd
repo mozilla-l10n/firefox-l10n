@@ -98,3 +98,4 @@
 <!ENTITY CopyMessageId.label "Αντιγραφή Message-ID">
 <!ENTITY OpenMessageForMsgId.label "Άνοιγμα Message για ID">
 <!ENTITY OpenBrowserWithMsgId.label "Άνοιγμα Browser με Message-ID">
+<!ENTITY hdrSmartReplyButton.label "έξυπνη απάντηση">
