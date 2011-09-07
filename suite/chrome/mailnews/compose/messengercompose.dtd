@@ -124,7 +124,7 @@
 <!ENTITY formatToolbar.tooltip "Opmaakwerkbalk">
 <!ENTITY sendButton.tooltip "Dit bericht nu verzenden">
 <!ENTITY sendlaterButton.tooltip "Dit bericht later verzenden">
-<!ENTITY addressButton.tooltip "Een geadresseerde uit een adresboek selecteren">
+<!ENTITY addressButton.tooltip "Een ontvanger uit een adresboek selecteren">
 <!ENTITY attachButton.tooltip "Een bijlage koppelen">
 <!ENTITY saveButton.tooltip "Dit bericht opslaan">
 <!ENTITY stopButton.tooltip "De huidige overdracht stoppen"> 
