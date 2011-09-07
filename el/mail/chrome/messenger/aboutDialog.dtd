@@ -24,6 +24,5 @@
 <!ENTITY update.downloading.end "">
 <!ENTITY channel.description.start "Βρίσκεστε στο κανάλι ενημερώσεων της έκδοσης ">
 <!ENTITY channel.description.end " .">
-<!ENTITY channel.change "Αλλαγή">
 <!ENTITY cmdCloseMac.commandKey "w">
 
