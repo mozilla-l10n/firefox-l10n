@@ -5,9 +5,9 @@
 
 <!-- Entities for Account Type page -->
 
-<!ENTITY accountSetupInfo.label "Um Nachrichten empfangen zu können, müssen Sie zuerst einen Mail- oder Newsgroup-Account anlegen.">
+<!ENTITY accountSetupInfo2.label "Um Nachrichten empfangen zu können, müssen Sie zuerst einen Account anlegen.">
 <!ENTITY accountTypeTitle.label "Neuen Account einrichten">
-<!ENTITY accountTypeDesc.label "Dieser Assistent sammelt die Informationen, die notwendig sind, um einen neuen Mail- oder Newsgroup-Account einzurichten. Wenn Sie die abgefragten Daten nicht kennen, kontaktieren Sie bitte Ihren Systemadministrator oder Internet Service Provider.">
+<!ENTITY accountTypeDesc2.label "Dieser Assistent sammelt die Informationen, die notwendig sind, um einen Account einzurichten. Wenn Sie die verlangten Daten nicht kennen, kontaktieren Sie bitte Ihren Systemadministrator oder Internet Service Provider.">
 <!ENTITY accountTypeDirections.label "Wählen Sie den Typ des Accounts, der eingerichtet werden soll:">
 <!ENTITY accountTypeMail.label "E-Mail-Account">
 <!ENTITY accountTypeMail.accesskey "E">
