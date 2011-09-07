@@ -1,137 +1,84 @@
-<?xml version="1.0" encoding="utf-8"?>
+<?xml version="1.0" encoding="UTF-8"?>
+
 <!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.1//EN"
   "http://www.w3.org/TR/xhtml11/DTD/xhtml11.dtd"[
   <!ENTITY % brandDTD SYSTEM "chrome://branding/locale/brand.dtd" >
   %brandDTD;
-  <!ENTITY % pref-composerDTD SYSTEM "chrome://communicator/locale/utilityOverlay.dtd" >
-  %pref-composerDTD;
-  <!ENTITY % pref-certsDTD SYSTEM "chrome://pippki/locale/pref-certs.dtd" >
-  %pref-certsDTD;
-  <!ENTITY % pref-sslDTD SYSTEM "chrome://pippki/locale/pref-ssl.dtd" >
-  %pref-sslDTD;
-  <!ENTITY % pref-securityDTD SYSTEM "chrome://pippki/locale/pref-security.dtd" >
-  %pref-securityDTD;
-  ]>
+]>
 
-<html xmlns="http://www.w3.org/1999/xhtml" lang="fr" xml:lang="fr">
+<html xmlns="http://www.w3.org/1999/xhtml">
 <head>
-  <meta http-equiv="Content-Type" content="application/xhtml; charset=utf-8" />
-
-  <title>Préférences de sécurité et de
-  confidentialité - Les certificats</title>
-  <!-- <link rel="stylesheet" href="content_style.css" type="text/css" /> -->
-  <link rel="stylesheet" type="text/css" href="helpFileLayout.css"/>
+<title>Privacy &amp; Security Preferences - Certificates</title>
+<link rel="stylesheet" href="helpFileLayout.css"
+  type="text/css"/>
 </head>
-
 <body>
-  <h1 id="certificate_settings">Préférences des Certificats</h1>
 
-  <p>Cette section décrit comment modifier vos préférences
-  de certificats et comment utiliser le gestionnaire de certificats, le
-  gestionnaire de périphériques, et les autres fenêtres
-  apparentées aux certificats.</p>
+<h1 id="certificate_settings">Certificate Settings</h1>
 
-  <p>Pour une description pas à pas des différentes tâches
-  apparentées aux certificats, voir la section <a href=
-  "using_certs_help.xhtml">Utiliser les certificats</a>.</p>
-  <!-- <div class="contentsBox"> -->
+<p>This section describes how to set your certificate preferences and how to
+  use the Certificate Manager, Device Manager, and other dialog boxes related
+  to certificates.</p>
 
-  <div class="contentsBox">
-    <p>Dans cette section&#160;:</p>
+<p>For step-by-step descriptions of various tasks related to certificates, see
+  <a href="using_certs_help.xhtml">Using Certificates</a>.</p>
 
-    <ul>
-      <li><a href=
-      "#privacy_and_security_preferences_certificates">Préférences
-      de confidentialité et de sécurité - Les
-      certificats</a></li>
+<div class="contentsBox">In this section:
+  <ul>
+    <li><a href="#privacy_and_security_preferences_certificates">Certificate 
+      Preferences</a></li>
+    <li><a href="certs_help.xhtml">Certificate Manager</a></li>
+    <li><a href="certs_help.xhtml#device_manager">Device Manager</a></li>
+    <li><a href="cert_dialog_help.xhtml">Certificate Information and
+      Decisions</a></li>
+  </ul>
+</div>
 
-      <li><a href="certs_help.xhtml">Gestionnaire de certificats</a></li>
+<h1 id="privacy_and_security_preferences_certificates">Privacy &amp; Security
+  Preferences - Certificates</h1>
 
-      <li><a href="certs_help.xhtml#device_manager">Gestionnaire de
-      périphériques</a></li>
+<p>This section describes use the Certificates preferences panel. To view
+  Certificates preferences, follow these steps:</p>
 
-      <li><a href="cert_dialog_help.xhtml">Informations et décisions
-      concernant les certificats</a></li>
-    </ul>
-  </div>
+<ol>
+  <li>Open the <span class="mac">&brandShortName;</span>
+    <span class="noMac">Edit</span> menu and choose Preferences.</li>
+  <li>Under the Privacy &amp; Security category, click Certificates. (If no
+    subcategories are visible, double-click Privacy &amp; Security to expand
+    the list.)</li>
+</ol>
 
-  <h2 id="privacy_and_security_preferences_certificates">
-  Préférences de confidentialité et de
-  sécurité - Les certificats</h2>
+<h3 id="client_certificate_selection">Client Certificate Selection</h3>
 
-  <p>Cette section décrit l'utilisation du panneau des
-  préférences pour les certificats. Pour visualiser les
-  préférences en lien avec les certificats, suivez ces
-  étapes&#160;:</p>
+<p>Some websites require you to identify yourself with a certificate. The
+  option you select here determines how the browser identifies the certificate
+  to present among those you may have on file:</p>
 
-  <ol>
-    <li>Ouvrez le menu <q><span class="mac">&brandShortName;</span><span
-    class="noMac">&editMenu.label;</span></q>
-    et sélectionnez <q>&preferencesCmd.label;</q>.</li>
+<ul>
+  <li><strong>Select Automatically:</strong> Click this option if you want
+    the browser to select a certificate without asking you.</li>
+  <li><strong>Ask Every Time:</strong> Click this option if you want the browser
+    to ask you which certificate to use each time a website requests one.</li>
+</ul>
 
-    <li>Dans la catégorie <q>Confidentialité &amp; Sécurité</q>,
-    choisissez <q>&certs.label;</q>. Si
-    aucune sous-catégorie n'est visible, double-cliquez sur
-    <q>Confidentialité &amp; Sécurité</q> pour
-    développer la liste.</li>
-  </ol>
+<h3 id="manage_certificates">Manage Certificates</h3>
 
-  <h3 id="client_certificate_selection">&SSLClientAuthMethod.caption;</h3>
+<p>Certificates are the digital equivalent of ID cards&mdash;they help other
+  people identify you, and they help you identify other people, websites, and
+  organizations.</p>
 
-  <p>Certains sites Web requièrent que vous vous identifiez à
-  l'aide d'un certificat. La sélection que vous faites ici
-  détermine comment le navigateur choisit le certificat à
-  présenter parmi ceux qui sont disponibles sur votre disque
-  local&#160;:</p>
+<p>To examine or configure the certificates you have on file, click Manage
+  Certificates.</p>
 
-  <dl>
-    <dt>&certselect.auto;&#160;:</dt>
+<h3 id="manage_security_devices">Manage Security Devices</h3>
 
-    <dd>Sélectionnez cette option si vous souhaitez que le navigateur
-    choisisse un certificat sans vous le demander.</dd>
+<p>A security device is a hardware or software device that stores your
+  certificates and keys. For example, a smart card is a security device. Your
+  browser has its own built-in software security device, and you can use
+  additional security devices, such as smart cards, at the same time.</p>
 
-    <dt>&certselect.ask;&#160;:</dt>
+<p>To examine or configure your security devices, click Manage Security
+  Devices.</p>
 
-    <dd>Sélectionnez cette option si vous souhaitez que le navigateur
-    vous demande de choisir un certificat à chaque fois qu'un site Web
-    en demande un.</dd>
-  </dl>
-
-  <h3 id="manage_certificates">&managecerts.caption;</h3>
-
-  <p>Les certificats sont l'équivalent numérique des cartes
-  d'identité &#8211; ils aident les autres personnes à vous
-  identifier et vous aident à identifier les autres personnes, sites Web
-  et organisations.</p>
-
-  <p>Pour voir ou configurer les certificats dont vous disposez sur le disque
-  local, cliquez sur <q>&managecerts.button;</q>.</p>
-
-  <h3 id="manage_security_devices">&managedevices.caption;</h3>
-
-  <p>Un périphérique de sécurité est un
-  système matériel ou logiciel qui conserve vos certificats ainsi
-  que vos clés de chiffrement. Par exemple, une carte à puce est
-  un périphérique de sécurité. &brandShortName; dispose de
-  son propre périphérique de sécurité logiciel en
-  interne, mais vous pouvez utiliser en même temps des
-  périphériques additionnels telles que des cartes à
-  puce.</p>
-
-  <p>Pour voir ou configurer vos périphériques de
-  sécurité, cliquez sur <q>&managedevices.button;</q>.</p>
-
-  <div id="footer">
-    <!--begin frenchmozilla signature-->
-
-    <p><em>Dernière révision&#160;: 9 juillet 2006</em></p>
-
-    <p>Ce texte a été traduit et adapté par une
-    équipe internationale de bénévoles francophones.<br />
-    Pour plus d'informations, visitez notre site&#160;: <a href=
-    "http://frenchmozilla.sf.net"
-    hreflang="fr">http://frenchmozilla.sf.net</a>.</p>
-    <!--end frenchmozilla signature-->
-  </div>
 </body>
 </html>
