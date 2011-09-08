@@ -25,7 +25,7 @@
 <!ENTITY closeCmd.key "W">
 <!ENTITY closeCmd.accesskey "h">
 <!ENTITY saveCmd.label "Shrani">
-<!ENTITY saveCmd.key "b">
+<!ENTITY saveCmd.key "s">
 <!ENTITY saveCmd.accesskey "s">
 <!ENTITY saveAsCmd.label "Shrani kot">
 <!ENTITY saveAsCmd.accesskey "N">
