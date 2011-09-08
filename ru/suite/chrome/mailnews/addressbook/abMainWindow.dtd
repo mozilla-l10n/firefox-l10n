@@ -68,5 +68,6 @@
 <!ENTITY deleteItemButton.tooltip "Удаление выбранного элемента">
 <!ENTITY throbber.tooltip "Перейти на домашнюю страницу &vendorShortName;">
 <!ENTITY advancedButton.tooltip "Расширенный режим поиска адресов">
+<!ENTITY dirTreeHeader.label "Адресные книги">
 <!ENTITY statusText.label "">
 <!ENTITY hideSwapFnLnUI "true">
