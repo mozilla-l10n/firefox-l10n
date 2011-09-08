@@ -106,7 +106,7 @@
 <!ENTITY contextFullScreen.label      "Celozaslonski način">
 <!ENTITY contextEditBookmark.label    "Uredi">
 <!ENTITY contextRemoveBookmark.label  "Odstrani">
-!ENTITY contextShortcutBookmark.label "Dodaj na domač zaslon">
+<!ENTITY contextShortcutBookmark.label "Dodaj na domač zaslon">
 
 <!ENTITY pageactions.saveas.pdf      "Shrani kot PDF">
 <!ENTITY pageactions.share.page      "Daj stran na razpolago">
