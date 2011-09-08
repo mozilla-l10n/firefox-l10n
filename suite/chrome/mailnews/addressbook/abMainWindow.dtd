@@ -126,6 +126,9 @@
 <!ENTITY throbber.tooltip                               "Naar de &vendorShortName;-startpagina">
 <!ENTITY advancedButton.tooltip                         "Uitgebreid adres zoeken">
 
+<!-- Dir Tree header -->
+<!ENTITY dirTreeHeader.label                            "Adresboeken">
+
 <!-- Status Bar -->  
 <!ENTITY statusText.label                               "">
 
