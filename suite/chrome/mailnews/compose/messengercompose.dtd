@@ -5,8 +5,6 @@
 <!ENTITY subject.accesskey "O">
 <!ENTITY attachments.label "Allegati:">
 <!ENTITY attachments.accesskey "A">
-<!ENTITY newMessage.label "Messaggio">
-<!ENTITY newMessage.accesskey "M">
 <!ENTITY saveCmd.label "Salva">
 <!ENTITY saveCmd.accesskey "S">
 <!ENTITY saveAsCmd.label "Salva come">

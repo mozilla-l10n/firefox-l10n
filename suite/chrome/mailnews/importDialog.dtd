@@ -13,7 +13,7 @@
 <!ENTITY window.width "45em">
 <!ENTITY window.macWidth "50em">
 <!ENTITY importTitle.label "Importazione guidata di &brandShortName;">
-<!ENTITY importShortDesc.label "Importa posta, impostazioni, rubrica e filtri da altri programmi">
+<!ENTITY importShortDesc.label "Importa posta, impostazioni, rubriche e filtri da altri programmi">
 <!ENTITY importDescription1.label "Questo processo importerà in &brandShortName; messaggi di posta, voci di rubrica, preferenze e/o filtri da altri programmi di posta e rubriche comuni.">
 <!ENTITY importDescription2.label "Una volta importate, vi si potrà accedere da &brandShortName;.">
 <!ENTITY selectDescription.label "Selezionare il programma dal quale eseguire l'importazione:">

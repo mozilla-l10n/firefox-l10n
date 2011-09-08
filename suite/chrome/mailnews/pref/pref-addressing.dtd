@@ -7,7 +7,7 @@
 <!ENTITY addressingTitle.label "Auto completamento indirizzi">
 <!ENTITY highlightNonMatches.label "Evidenziare gli indirizzi che non hanno completamento automatico">
 <!ENTITY highlightNonMatches.accesskey "E">
-<!ENTITY addressingEnable.label "Rubrica locale">
+<!ENTITY addressingEnable.label "Rubriche locali">
 <!ENTITY addressingEnable.accesskey "R">
 <!ENTITY autocompleteText.label "Durante l'immissione dei destinatari, cerca indirizzi corrispondenti in:">
 <!ENTITY directories.label "Rubrica remota:">
