@@ -127,6 +127,9 @@
 <!ENTITY throbber.tooltip                               "Ir a la página web de &vendorShortName;">
 <!ENTITY advancedButton.tooltip                         "Búsqueda avanzada de direcciones">
 
+<!-- Dir Tree header -->
+<!ENTITY dirTreeHeader.label                            "Libretas de direcciones">
+
 <!-- Status Bar -->  
 <!ENTITY statusText.label                               "">
 
