@@ -59,7 +59,7 @@
 <!-- LOCALIZATION NOTE (channel.description.start,channel.description.end): channel.description.start and
      channel.description.end create one sentence, with the current channel label inserted in between.
      example: You are currently on the _Stable_ update channel. -->
-<!ENTITY channel.description.start  "Actualmente está usando o canal de actualización ">
+<!ENTITY channel.description.start  "Actualmente está usando a canle de actualización ">
 <!ENTITY channel.description.end    ".">
 
 <!ENTITY channel.change             "Cambiar">
@@ -72,7 +72,7 @@
      channel.selector.end create one sentence, with a channel selection menulist instered in between.
      This is all in one line, so try to make the localized text short.
      example: Switch to the [Stable] update channel. -->
-<!ENTITY channel.selector.start          "Cambiar ao canal de actualización ">
+<!ENTITY channel.selector.start          "Cambiar á canle de actualización ">
 <!ENTITY channel.selector.end            ".">
 
 <!-- LOCALIZATION NOTE (channel.selector.applyButton): This button applies the user's choice to switch
