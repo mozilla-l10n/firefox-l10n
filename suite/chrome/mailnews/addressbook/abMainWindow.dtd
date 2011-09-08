@@ -126,6 +126,9 @@
 <!ENTITY throbber.tooltip                   "Visiter le site Web de &vendorShortName;">
 <!ENTITY advancedButton.tooltip "Recherche avancée d'adresses">
 
+<!-- Dir Tree header -->
+<!ENTITY dirTreeHeader.label "Carnets d'adresses">
+
 <!-- Status Bar -->  
 <!ENTITY statusText.label "">
 
