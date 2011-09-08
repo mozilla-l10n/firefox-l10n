@@ -84,6 +84,8 @@
 <!ENTITY viewMenu.accesskey "v">
 <!ENTITY viewToolbarsMenuNew.label "Barras de herramientas">
 <!ENTITY viewToolbarsMenuNew.accesskey "h">
+<!ENTITY menubarCmd.label "Barra de menú">
+<!ENTITY menubarCmd.accesskey "M">
 <!ENTITY showCompositionToolbarCmd.label "Barra de herramientas de redacción">
 <!ENTITY showCompositionToolbarCmd.accesskey "r">
 <!ENTITY showFormattingBarCmd.label "Barra de formato">
