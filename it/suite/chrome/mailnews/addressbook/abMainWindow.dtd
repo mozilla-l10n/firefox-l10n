@@ -68,5 +68,6 @@
 <!ENTITY deleteItemButton.tooltip "Rimuovi elemento selezionato">
 <!ENTITY throbber.tooltip "Vai alla pagina home di &vendorShortName;">
 <!ENTITY advancedButton.tooltip "Apre la finestra di dialogo per la ricerca indirizzi">
+<!ENTITY dirTreeHeader.label "Rubriche">
 <!ENTITY statusText.label "">
 <!ENTITY hideSwapFnLnUI "true">
