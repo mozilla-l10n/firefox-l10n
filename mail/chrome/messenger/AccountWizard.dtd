@@ -1,8 +1,8 @@
 <!ENTITY windowTitle.label "Asistente para cuentas">
 <!ENTITY accountWizard.size "width: 45em; height: 42em;">
-<!ENTITY accountSetupInfo.label "Para poder recibir mensajes, primero tiene que configurar una cuenta de correo o noticias.">
+<!ENTITY accountSetupInfo2.label "Para poder recibir mensajes, primero necesita configurar una cuenta.">
 <!ENTITY accountTypeTitle.label "Configuración de nueva cuenta">
-<!ENTITY accountTypeDesc.label "Este asistente recogerá la información necesaria para configurar una cuenta de correo o noticias. Si desconoce la información que se le pide, por favor póngase en contacto con el administrador del sistema o su proveedor de Internet.">
+<!ENTITY accountTypeDesc2.label "Este asistente recopilará la información necesaria para configurar una cuenta. Si no conoce la información solicitada, por favor, contacte con el administrador de su sistema o el proveedor de servicios de internet.">
 <!ENTITY accountTypeDirections.label "Seleccione el tipo de cuenta que quiere configurar:">
 <!ENTITY accountTypeMail.label "Cuenta de correo electrónico">
 <!ENTITY accountTypeMail.accesskey "c">

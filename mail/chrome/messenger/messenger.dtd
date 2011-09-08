@@ -108,6 +108,8 @@
 <!ENTITY undoDefaultCmd.accesskey "d">
 <!ENTITY redoDefaultCmd.label "Rehacer">
 <!ENTITY redoDefaultCmd.accesskey "R">
+<!ENTITY menubarCmd.label "Barra de menú">
+<!ENTITY menubarCmd.accesskey "M">
 <!ENTITY showMessengerToolbarCmd.label "Barra de herramientas de correo">
 <!ENTITY showMessengerToolbarCmd.accesskey "c">
 <!ENTITY customizeToolbar.label "Personalizar…">
@@ -455,12 +457,14 @@
 <!ENTITY previousButton.label "Anterior">
 <!ENTITY backButton1.label "Retroceder">
 <!ENTITY goForwardButton1.label "Avanzar">
+<!ENTITY deleteItem.title "Eliminar">
 <!ENTITY deleteButton.label "Eliminar">
 <!ENTITY undeleteButton.label "Recuperar">
 <!ENTITY markButton.label "Marcar">
 <!ENTITY printButton.label "Imprimir">
 <!ENTITY stopButton.label "Detener">
 <!ENTITY throbberItem.title "Indicador de actividad">
+<!ENTITY junkItem.title "Basura">
 <!ENTITY junkButton.label "No deseado">
 <!ENTITY notJunkButton.label "Legítimo">
 <!ENTITY addressBookButton.label "Direcciones">
