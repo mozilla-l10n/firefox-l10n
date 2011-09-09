@@ -35,43 +35,42 @@
 
  ***** END LICENSE BLOCK ***** -->
 
-<!ENTITY toField2.label "到 (to) ">
-<!ENTITY fromField2.label "從 (from) ">
-<!ENTITY senderField2.label "寄件者 (sender) ">
-<!ENTITY organizationField2.label "組織 (organization) ">
-<!ENTITY replyToField2.label "回覆至 (reply-to) ">
+<!ENTITY toField3.label "到 ">
+<!ENTITY fromField3.label "從 ">
+<!ENTITY senderField3.label "寄件者 ">
+<!ENTITY organizationField3.label "組織 ">
+<!ENTITY replyToField3.label "回覆至 ">
 
-<!ENTITY subjectField2.label "主旨 (subject) ">
-<!--# LOCALIZATION NOTE (ccField2.label): DONT_TRANSLATE -->
-<!ENTITY ccField2.label "副本 (cc) ">
-<!ENTITY bccField2.label "密件副本 (bcc) ">
-<!ENTITY newsgroupsField2.label "新聞群組 (newsgroups) ">
-<!ENTITY followupToField2.label "接續回覆至 (followup-to) ">
-<!ENTITY tagsHdr2.label "標籤 (tags) ">
-<!ENTITY dateField2.label "日期 (date) ">
-<!ENTITY userAgentField2.label "使用者代理 (user-agent) ">
-<!ENTITY referencesField2.label "參考 (references) ">
-<!ENTITY messageIdField2.label "郵件 ID (message-id) ">
-<!ENTITY inReplyToField2.label "回覆給 (in-reply-to) ">
-<!ENTITY originalWebsite2.label "網站 (website) ">
+<!ENTITY subjectField3.label "主旨 ">
+<!ENTITY ccField3.label "副本 ">
+<!ENTITY bccField3.label "密件副本 ">
+<!ENTITY newsgroupsField3.label "新聞群組 ">
+<!ENTITY followupToField3.label "原文參見 ">
+<!ENTITY tagsHdr3.label "標籤 ">
+<!ENTITY dateField3.label "日期 ">
+<!ENTITY userAgentField3.label "使用者代理字串 ">
+<!ENTITY referencesField3.label "參考資料 ">
+<!ENTITY messageIdField3.label "訊息 ID ">
+<!ENTITY inReplyToField3.label "回覆給 ">
+<!ENTITY originalWebsite3.label "網站 ">
 
 <!ENTITY editMessageDescription.label "這是一封草稿">
 <!ENTITY editMessageButton.label "編輯…">
-<!ENTITY hdrArchiveButton.label "備存">
-<!ENTITY hdrArchiveButton.tooltip "備存此郵件">
-<!ENTITY hdrSmartReplyButton.label "智慧回覆">
-<!ENTITY hdrReplyButton.label "回覆">
-<!ENTITY hdrReplyButton.tooltip "回覆此郵件">
-<!ENTITY hdrReplyAllButton.label "全部回覆">
-<!ENTITY hdrReplyAllButton.tooltip "回覆給寄件者與所有收件者">
-<!ENTITY hdrReplyListButton.label "回覆清單">
-<!ENTITY hdrReplyListButton.tooltip "回覆到郵件清單">
-<!ENTITY hdrForwardButton.label "轉寄">
-<!ENTITY hdrForwardButton.tooltip "轉寄此郵件">
-<!ENTITY hdrJunkButton.label "垃圾信">
-<!ENTITY hdrJunkButton.tooltip "標示此郵件為垃圾郵件">
-<!ENTITY hdrTrashButton.label "刪除">
-<!ENTITY hdrTrashButton.tooltip "刪除此郵件">
+<!ENTITY hdrArchiveButton1.label "備存">
+<!ENTITY hdrArchiveButton1.tooltip "備存此訊息">
+<!ENTITY hdrSmartReplyButton1.label "智慧回覆">
+<!ENTITY hdrReplyButton1.label "回覆">
+<!ENTITY hdrReplyButton1.tooltip "回覆此訊息">
+<!ENTITY hdrReplyAllButton1.label "全部回覆">
+<!ENTITY hdrReplyAllButton1.tooltip "回信給寄件者及所有收件者">
+<!ENTITY hdrReplyListButton1.label "回覆清單">
+<!ENTITY hdrReplyListButton1.tooltip "回覆到郵件論壇">
+<!ENTITY hdrForwardButton1.label "轉寄">
+<!ENTITY hdrForwardButton1.tooltip "轉寄此訊息">
+<!ENTITY hdrJunkButton1.label "垃圾郵件">
+<!ENTITY hdrJunkButton1.tooltip "將此訊息標示為垃圾郵件">
+<!ENTITY hdrTrashButton1.label "刪除">
+<!ENTITY hdrTrashButton1.tooltip "刪除此訊息">
 
 <!ENTITY hdrViewToolbarShowFull.label "顯示圖示與文字">
 <!ENTITY hdrViewToolbarShowFull.accesskey "a">
@@ -82,33 +81,33 @@
 <!ENTITY hdrViewToolbarAlwaysReplySender.label "總是顯示回覆給寄件者">
 <!ENTITY hdrViewToolbarAlwaysReplySender.accesskey "R">
 
-<!ENTITY otherActionsButton.label "其他動作">
-<!ENTITY otherActionsOpenConversation.label "以討論串檢視模式開啟">
-<!ENTITY otherActionsOpenConversation.accesskey "c">
-<!ENTITY otherActionsOpenInNewWindow.label "在新視窗中開啟">
-<!ENTITY otherActionsOpenInNewWindow.accesskey "w">
-<!ENTITY otherActionsOpenInNewTab.label "在新分頁中開啟">
-<!ENTITY otherActionsOpenInNewTab.accesskey "t">
-<!ENTITY markAsReadMenuItem.label "標為已讀">
-<!ENTITY markAsReadMenuItem.accesskey "r">
-<!ENTITY markAsUnreadMenuItem.label "標示為未讀">
-<!ENTITY markAsUnreadMenuItem.accesskey "r">
-<!ENTITY saveAsMenuItem.label "另存新檔…">
-<!ENTITY saveAsMenuItem.accesskey "s">
-<!ENTITY viewSourceMenuItem.label "檢視原始碼">
-<!ENTITY viewSourceMenuItem.accesskey "v">
-<!ENTITY otherActionsPrint.label "列印…">
-<!ENTITY otherActionsPrint.accesskey "p">
+<!ENTITY otherActionsButton1.label "其他動作">
+<!ENTITY otherActionsOpenConversation1.label "以討論串檢視模式開啟">
+<!ENTITY otherActionsOpenConversation1.accesskey "C">
+<!ENTITY otherActionsOpenInNewWindow1.label "開啟至新視窗">
+<!ENTITY otherActionsOpenInNewWindow1.accesskey "w">
+<!ENTITY otherActionsOpenInNewTab1.label "以新分頁開啟">
+<!ENTITY otherActionsOpenInNewTab1.accesskey "T">
+<!ENTITY markAsReadMenuItem1.label "標示為已閱讀">
+<!ENTITY markAsReadMenuItem1.accesskey "r">
+<!ENTITY markAsUnreadMenuItem1.label "標示為未閱讀">
+<!ENTITY markAsUnreadMenuItem1.accesskey "r">
+<!ENTITY saveAsMenuItem1.label "另存為…">
+<!ENTITY saveAsMenuItem1.accesskey "S">
+<!ENTITY viewSourceMenuItem1.label "檢視原始碼">
+<!ENTITY viewSourceMenuItem1.accesskey "V">
+<!ENTITY otherActionsPrint1.label "列印…">
+<!ENTITY otherActionsPrint1.accesskey "P">
 
 <!-- Attachment context menu items -->
 <!ENTITY openAttachmentCmd.label    "開啟">
 <!ENTITY openAttachmentCmd.accesskey    "O">
 <!ENTITY saveAsAttachmentCmd.label    "另存新檔…">
-<!ENTITY saveAsAttachmentCmd.accesskey    "a">
+<!ENTITY saveAsAttachmentCmd.accesskey    "S">
 <!ENTITY detachAttachmentCmd.label    "取出…">
-<!ENTITY detachAttachmentCmd.accesskey    "t">
+<!ENTITY detachAttachmentCmd.accesskey    "D">
 <!ENTITY deleteAttachmentCmd.label    "刪除">
-<!ENTITY deleteAttachmentCmd.accesskey    "l">
+<!ENTITY deleteAttachmentCmd.accesskey    "e">
 <!ENTITY openAllAttachmentsCmd.label    "開啟全部…">
 <!ENTITY openAllAttachmentsCmd.accesskey    "O">
 <!ENTITY saveAllAttachmentsCmd.label    "全部儲存…">
@@ -119,26 +118,10 @@
 <!ENTITY deleteAllAttachmentsCmd.accesskey    "e">
 
 <!-- Attachment toolbar items -->
-<!ENTITY saveAttachmentButton.label       "儲存">
-<!ENTITY saveAttachmentButton.tooltip     "儲存附加檔案">
-<!ENTITY saveAllAttachmentsButton.label   "全部儲存">
-<!ENTITY saveAllAttachmentsButton.tooltip "儲存所有附加檔案">
-<!ENTITY openAttachmentMenuItem.label     "開啟">
-<!ENTITY openAttachmentMenuItem.accesskey    "o">
-<!ENTITY saveAsAttachmentMenuItem.label    "另存新檔…">
-<!ENTITY saveAsAttachmentMenuItem.accesskey    "s">
-<!ENTITY detachAttachmentMenuItem.label    "取出…">
-<!ENTITY detachAttachmentMenuItem.accesskey    "d">
-<!ENTITY deleteAttachmentMenuItem.label    "刪除">
-<!ENTITY deleteAttachmentMenuItem.accesskey    "e">
-<!ENTITY openAllAttachmentsMenuItem.label    "全部開啟…">
-<!ENTITY openAllAttachmentsMenuItem.accesskey    "o">
-<!ENTITY saveAllAttachmentsMenuItem.label    "全部儲存…">
-<!ENTITY saveAllAttachmentsMenuItem.accesskey    "s">
-<!ENTITY detachAllAttachmentsMenuItem.label    "全部取出…">
-<!ENTITY detachAllAttachmentsMenuItem.accesskey    "d">
-<!ENTITY deleteAllAttachmentsMenuItem.label    "全部刪除…">
-<!ENTITY deleteAllAttachmentsMenuItem.accesskey    "e">
+<!ENTITY saveAttachmentButton1.label       "儲存">
+<!ENTITY saveAttachmentButton1.tooltip     "儲存附加檔案">
+<!ENTITY saveAllAttachmentsButton1.label   "儲存所有附件">
+<!ENTITY saveAllAttachmentsButton1.tooltip "儲存所有附加檔案">
 
 <!ENTITY copyLinkCmd.label        "複製鏈結網址">
 <!ENTITY copyLinkCmd.accesskey    "C">
