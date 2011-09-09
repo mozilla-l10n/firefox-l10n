@@ -30,5 +30,5 @@
 
 <!ENTITY window.title             "Laiškų santrauka">
 <!ENTITY selectedmessages.label   "Pažymėti laiškai">
-<!ENTITY archive.label            "archyvuoti">
-<!ENTITY delete.label             "pašalinti">
+<!ENTITY archiveButton.label      "Archyvuoti">
+<!ENTITY deleteButton.label       "Pašalinti">
