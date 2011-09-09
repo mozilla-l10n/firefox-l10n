@@ -45,7 +45,7 @@
 
 <!ENTITY subjectField3.label "Tema ">
 <!ENTITY ccField3.label "Kopija ">
-<!ENTITY bccField3.label "Slaptoji kopija ">
+<!ENTITY bccField3.label "Nematomoji kopija ">
 <!ENTITY newsgroupsField3.label "Naujienų grupės ">
 <!ENTITY followupToField3.label "Atsakyti į grupę ">
 <!ENTITY tagsHdr3.label "Gairės ">
