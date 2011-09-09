@@ -129,6 +129,9 @@
 <!ENTITY throbber.tooltip                               "Atverti &vendorShortName; pradžios tinklalapį">
 <!ENTITY advancedButton.tooltip                         "Papildoma adresų paieška">
 
+<!-- Dir Tree header -->
+<!ENTITY dirTreeHeader.label                            "Adresų knygos">  
+
 <!-- Status Bar -->  
 <!ENTITY statusText.label                               "">
 
