@@ -1,10 +1,8 @@
-<!-- LOCALIZATION NOTE : FILE This file contains the browser main menu items -->
-<!-- LOCALIZATION NOTE : FILE Do not translate commandkeys --> 
 <!--
 # Translator(s):
 #
 # Nicu <kneekoo@yahoo.com>
-# alexxed <alexxed@gmail.com>
+# Alexandru Szasz <alexxed@gmail.com>
 # Sergiu Bivol <sbivol87@gmail.com>
 # raulmalea <raul.malea@gmail.com>
 # x10 <x10@mail.com>
@@ -18,10 +16,12 @@
 <!--
 # Reviewer(s):
 #
-# alexxed <alexxed@gmail.com>
+# Alexandru Szasz <alexxed@gmail.com>
 # raulmalea <raul.malea@gmail.com>
 #
 -->
+<!-- LOCALIZATION NOTE : FILE This file contains the browser main menu items -->
+<!-- LOCALIZATION NOTE : FILE Do not translate commandkeys --> 
 
 <!-- LOCALIZATION NOTE (mainWindow.title): DONT_TRANSLATE -->
 <!ENTITY mainWindow.title "&brandFullName;">

@@ -1,10 +1,10 @@
-<!-- extracted from printjoboptions.xul -->
 <!--
 # Translator(s):
 #
-# alexxed <alexxed@gmail.com>
+# Alexandru Szasz <alexxed@gmail.com>
 #
 -->
+<!-- extracted from printjoboptions.xul -->
 
 <!ENTITY printJobOptions.title "Proprietăți imprimantă">
 
