@@ -1,12 +1,28 @@
-<!ENTITY firstrun.title                "Welcome to &brandShortName;">
-<!ENTITY firstrun.heading2             "Welcome to &brandShortName;">
-<!ENTITY firstrun.sync2.title          "Sync Up">
-<!ENTITY firstrun.sync2.description    "Login with your Sync account info and share your history, passwords, bookmarks &amp; tabs between your desktop and mobile">
-<!ENTITY firstrun.addons2.title        "Customize">
-<!ENTITY firstrun.addons2.description  "Discover and install add-ons to add new functionality to your &brandShortName;">
-<!ENTITY firstrun.home2.title          "Browse">
-<!ENTITY firstrun.home2.description    "Skip all this and go to your personalized Start page to start browsing the web">
-<!ENTITY firstrun.features             "See More Features">
-<!ENTITY firstrun.faq                  "FAQ">
-<!ENTITY firstrun.privacy              "Privacy Policy">
-<!ENTITY firstrun.follow               "Follow us on:">
+<!--
+# Translator(s):
+#
+# alexxed <alexxed@gmail.com>
+# raulmalea <raul.malea@gmail.com>
+# Irina Sandu <irina.sandu@mozilla.ro>
+#
+-->
+<!--
+# Reviewer(s):
+#
+# alexxed <alexxed@gmail.com>
+#
+-->
+<!ENTITY firstrun.title                "Bun venit la &brandShortName;">
+<!ENTITY firstrun.heading2             "Bun venit la &brandShortName;">
+<!ENTITY firstrun.sync2.title          "Sincronizare">
+<!ENTITY firstrun.sync2.description    "Autentificați-vă cu datele Firefox Sync și sincronizați istoricul, parolele, semnele de carte &amp;filele între calculatorul și mobilul dumneavoastră">
+<!ENTITY firstrun.addons2.title        "Personalizează...">
+<!ENTITY firstrun.addons2.description  "Descoperiți și instalați suplimente pentru a adăuga noi funcționalități la &brandShortName;">
+<!ENTITY firstrun.home2.title          "Răsfoiește">
+<!ENTITY firstrun.home2.description    "Săriți peste toate acestea și mergeți la pagina de pornire personalizată pentru a începe navigarea pe web">
+<!ENTITY firstrun.features             "Vedeți mai multe caracteristici">
+<!ENTITY firstrun.faq                  "Întrebări frecvente">
+<!ENTITY firstrun.privacy              "Politică de confidențialite">
+<!ENTITY firstrun.follow               "Urmăreşte-ne pe:">
+
+

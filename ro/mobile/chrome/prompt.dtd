@@ -1,2 +1,10 @@
-<!ENTITY ok.label      "OK">
-<!ENTITY cancel.label  "Cancel">
+<!--
+# Reviewer(s):
+#
+# alexxed <alexxed@gmail.com>
+#
+-->
+<!ENTITY ok.label      "Acceptă">
+<!ENTITY cancel.label  "Renunță">
+
+

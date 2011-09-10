@@ -1,12 +1,30 @@
-<!ENTITY empty.label            "Search">
-<!ENTITY newpref.label          "Add a New Preference">
-<!ENTITY addpref.name           "Name">
-<!ENTITY addpref.value          "Value">
+<!--
+# Translator(s):
+#
+# anonymous <anonymous@n.a>
+# alexxed <alexxed@gmail.com>
+# raulmalea <raul.malea@gmail.com>
+# danniel <receivefor-ubunturo@yahoo.de>
+#
+-->
+<!--
+# Reviewer(s):
+#
+# raulmalea <raul.malea@gmail.com>
+# alexxed <alexxed@gmail.com>
+#
+-->
+<!ENTITY empty.label            "Cauta">
+<!ENTITY newpref.label          "Adaugă o preferință nouă">
+<!ENTITY addpref.name           "Nume">
+<!ENTITY addpref.value          "Valoare">
 
-<!ENTITY cancel.label           "Cancel">
-<!ENTITY reset.label            "Reset">
-<!ENTITY done.label             "Done">
+<!ENTITY cancel.label           "Renunță">
+<!ENTITY reset.label            "Reinițializare">
+<!ENTITY done.label             "Pregătit">
 
-<!ENTITY integer.label          "Integer">
-<!ENTITY string.label           "String">
-<!ENTITY boolean.label          "Boolean">
+<!ENTITY integer.label          "Număr întreg">
+<!ENTITY string.label           "Text">
+<!ENTITY boolean.label          "Adevărat/fals">
+
+
