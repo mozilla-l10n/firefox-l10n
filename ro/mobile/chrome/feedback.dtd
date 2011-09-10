@@ -1,7 +1,7 @@
 <!--
 # Translator(s):
 #
-# alexxed <alexxed@gmail.com>
+# Alexandru Szasz <alexxed@gmail.com>
 # raulmalea <raul.malea@gmail.com>
 # Irina Sandu <irina.sandu@mozilla.ro>
 # xdaiana <xdaiana@yahoo.com>
@@ -10,7 +10,7 @@
 <!--
 # Reviewer(s):
 #
-# alexxed <alexxed@gmail.com>
+# Alexandru Szasz <alexxed@gmail.com>
 #
 -->
 <!ENTITY feedbackHeader2.label          "Unelte de feedback">
@@ -20,11 +20,8 @@
 <!ENTITY feedback.feedback.good         "Bun">
 <!ENTITY feedback.feedback.bad          "Rău">
 
-<!ENTITY feedback.information.title     "Mai multe informații">
-<!ENTITY feedback.about.title           "Despre acest beta">
-<!ENTITY feedback.about.button          "Mergi la pagina">
-
 <!ENTITY feedback.tools.title           "Utilitare">
+<!ENTITY feedback.allowTelemetry.title  "Trimiteți date despre performanță">
 <!ENTITY feedback.forceCompat.title     "Forțează compatibilitatea suplimentelor">
 <!ENTITY feedback.errorConsole.title    "Activează consola de eroare">
 

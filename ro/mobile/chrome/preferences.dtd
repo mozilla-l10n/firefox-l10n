@@ -1,7 +1,7 @@
 <!--
 # Translator(s):
 #
-# alexxed <alexxed@gmail.com>
+# Alexandru Szasz <alexxed@gmail.com>
 # raulmalea <raul.malea@gmail.com>
 #
 -->
@@ -9,7 +9,7 @@
 # Reviewer(s):
 #
 # raulmalea <raul.malea@gmail.com>
-# alexxed <alexxed@gmail.com>
+# Alexandru Szasz <alexxed@gmail.com>
 #
 -->
 <!ENTITY prefsHeader.label                         "Preferinţe">
@@ -19,10 +19,10 @@
 <!ENTITY reflowZoom.title                          "Reformatează textul la zoom">
 <!ENTITY showImages.title                          "Arată imaginile">
 <!ENTITY enableJavaScript.title                    "Activează Javascript">
-<!ENTITY enablePlugins.title                       "Activează modulele">
 <!ENTITY privacy.title                             "Intimitate și securitate">
 <!ENTITY allowCookies.title                        "Permite cookie-uri">
 <!ENTITY doNotTrack.title                          "Spune saiturilor să nu mă urmărească">
+<!ENTITY masterPassword.title                      "Folosește parola principală">
 <!ENTITY clearPrivateData2.title                   "Curăță datele private">
 <!ENTITY clearPrivateData.button                   "Curăţire">
 <!ENTITY rememberPasswords.title                   "Memorează parolele">
@@ -34,6 +34,6 @@
 <!ENTITY homepage.none                             "Pagină goală">
 <!ENTITY homepage.default                          "&brandShortName; Pornire">
 <!ENTITY homepage.currentpage                      "Folosește pagina curentă">
-<!ENTITY showCharset.title                         "Arată codarea caracterelor">
+<!ENTITY showCharsetEncoding.title                 "Arată codarea caracterelor">
 
 

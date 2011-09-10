@@ -1,7 +1,13 @@
 <!--
 # Translator(s):
 #
-# alexxed <alexxed@gmail.com>
+# Alexandru Szasz <alexxed@gmail.com>
+#
+-->
+<!--
+# Reviewer(s):
+#
+# Alexandru Szasz <alexxed@gmail.com>
 #
 -->
 <!ENTITY safeb.palm.warning.title "Suspiciune de contrafacere web">
@@ -26,9 +32,8 @@
 <!ENTITY safeb.blocked.malwarePage.shortDesc "Această pagină de la <span id='malware_sitename'/> a fost raportată ca fiind o pagină de atac și a fost blocată pe baza preferințelor dumneavoastră de securitate.">
 <!ENTITY safeb.blocked.malwarePage.longDesc "<p>Paginile de atac încearcă să instaleze programe care fură informații private, vă folosesc calculatorul pentru a ataca altele sau pentru a-i produce pagube.</p><p>Unele pagini de atac distribuie intenționat programe rău intenționate, dar unele sunt compromise fără știrea sau permisiunea proprietarului lor.</p>">
 
-<!ENTITY safeb.blocked.phishingPage.title "Fals web raportat!">
-<!-- Localization note (safeb.blocked.phishing.shortDesc) - Please don't translate the contents of the <span id="phishing_sitename"/> tag. It will be replaced at runtime with a domain name (e.g. www.badsite.com) -->
-<!ENTITY safeb.blocked.phishingPage.shortDesc "Această pagină de la <span id='phishing_sitename'/> a fost raportată ca fiind un fals web și a fost blocată pe baza preferințelor dumneavoastră de securitate.">
-<!ENTITY safeb.blocked.phishingPage.longDesc "<p>Falsurile web sunt create pentru a vă determina să furnizați informații personale sau financiare imitând saituri web în care aveți încredere.</p><p>Introducerea de informații pe această pagină web ar putea rezulta în furt de identitate sau altă fraudă.</p>">
+<!ENTITY safeb.blocked.phishingPage.title2 "Sait suspectat de fals!">
+<!ENTITY safeb.blocked.phishingPage.shortDesc2 "Introducerea oricărei informații personale pe această pagină ar putea rezulta în furt de identitate sau fraudă.">
+<!ENTITY safeb.blocked.phishingPage.longDesc2 "<p>These types of web forgeries are used in scams known as phishing attacks, in which fraudulent web pages and emails are used to imitate sources you may trust.</p>">
 
 
