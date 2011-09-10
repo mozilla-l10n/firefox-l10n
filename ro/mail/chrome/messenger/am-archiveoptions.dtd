@@ -1,17 +1,17 @@
-<!-- extracted from am-archiveoptions.xul -->
 <!--
 # Translator(s):
 #
-# alexxed <alexxed@gmail.com>
+# Alexandru Szasz <alexxed@gmail.com>
 # rsandu <razvan.sandu@zando.ro>
 #
 -->
 <!--
 # Reviewer(s):
 #
-# alexxed <alexxed@gmail.com>
+# Alexandru Szasz <alexxed@gmail.com>
 #
 -->
+<!-- extracted from am-archiveoptions.xul -->
 
 <!ENTITY dialogTitle.label "Opțiuni de arhivare">
 <!ENTITY archiveGranularityPrefix.label "Când se arhivează mesaje, plasează-le în:">

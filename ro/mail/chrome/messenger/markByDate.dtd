@@ -1,3 +1,9 @@
+<!--
+# Translator(s):
+#
+# stas <stas@nerd.ro>
+#
+-->
 <!-- ***** BEGIN LICENSE BLOCK *****
    - Version: MPL 1.1/GPL 2.0/LGPL 2.1
    -
@@ -34,12 +40,6 @@
    - the terms of any one of the MPL, the GPL or the LGPL.
    -
    - ***** END LICENSE BLOCK ***** -->
-<!--
-# Translator(s):
-#
-# stas <stas@nerd.ro>
-#
--->
 
 <!ENTITY messageMarkByDate.label "Marcare mesaje citite după dată">
 <!ENTITY markByDateLower.label "Marchează ca citite mesajele de la:">

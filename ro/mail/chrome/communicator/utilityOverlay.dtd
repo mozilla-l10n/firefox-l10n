@@ -1,8 +1,7 @@
-<!-- these things need to move into utilityOverlay.xul -->
 <!--
 # Translator(s):
 #
-# alexxed <alexxed@gmail.com>
+# Alexandru Szasz <alexxed@gmail.com>
 # janimo <jani@ubuntu.com>
 # Lucian Oprea <oprea.luci@gmail.com>
 #
@@ -10,9 +9,10 @@
 <!--
 # Reviewer(s):
 #
-# alexxed <alexxed@gmail.com>
+# Alexandru Szasz <alexxed@gmail.com>
 #
 -->
+<!-- these things need to move into utilityOverlay.xul -->
 
 <!-- LOCALIZATION NOTE : FILE This file contains the global menu items -->
 

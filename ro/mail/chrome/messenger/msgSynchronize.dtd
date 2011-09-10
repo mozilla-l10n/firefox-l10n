@@ -1,10 +1,10 @@
-<!-- extracted from MsgSynchronize.xul and msgSelectOffline.xul-->
 <!--
 # Translator(s):
 #
-# alexxed <alexxed@gmail.com>
+# Alexandru Szasz <alexxed@gmail.com>
 #
 -->
+<!-- extracted from MsgSynchronize.xul and msgSelectOffline.xul-->
 
 <!ENTITY MsgSynchronize.label "Descărcare și sincronizare mesaje">
 <!ENTITY MsgSelect.label "Ce se utilizează în modul offline">

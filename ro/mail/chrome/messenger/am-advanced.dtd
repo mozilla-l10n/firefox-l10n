@@ -1,18 +1,18 @@
-<!-- extracted from am-advanced.xul -->
 <!--
 # Translator(s):
 #
 # Laudatti <Laudatti@gmail.com>
 # janimo <jani@ubuntu.com>
-# alexxed <alexxed@gmail.com>
+# Alexandru Szasz <alexxed@gmail.com>
 #
 -->
 <!--
 # Reviewer(s):
 #
-# alexxed <alexxed@gmail.com>
+# Alexandru Szasz <alexxed@gmail.com>
 #
 -->
+<!-- extracted from am-advanced.xul -->
 
 <!-- LOCALIZATION NOTE (smtpServer.label): do not translate "SMTP" in below line -->
 <!ENTITY smtpServer.label "Setările serverului de trimitere (SMTP)">

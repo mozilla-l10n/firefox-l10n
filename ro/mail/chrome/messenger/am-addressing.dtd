@@ -1,11 +1,11 @@
-<!-- extracted from am-addressing.xul -->
 <!--
 # Translator(s):
 #
 # nicubunu <nicubunu@gmail.com>
-# alexxed <alexxed@gmail.com>
+# Alexandru Szasz <alexxed@gmail.com>
 #
 -->
+<!-- extracted from am-addressing.xul -->
 
 <!ENTITY addressing.label          "Redactare și adrese">
 <!ENTITY addressingGroupTitle.label "Adrese">

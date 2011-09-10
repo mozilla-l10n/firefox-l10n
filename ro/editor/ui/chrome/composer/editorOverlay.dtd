@@ -1,3 +1,22 @@
+<!--
+# Translator(s):
+#
+# Alexandru Szasz <alexxed@gmail.com>
+# nicubunu <nicubunu@gmail.com>
+# turcan <nicturcan@gmail.com>
+# stas <stas@nerd.ro>
+# janimo <jani@ubuntu.com>
+# secarica <orice@secarica.ro>
+# toffee <daniel@toffee.ro>
+# alexef <alex@eftimie.ro>
+#
+-->
+<!--
+# Reviewer(s):
+#
+# Alexandru Szasz <alexxed@gmail.com>
+#
+-->
 <!-- ***** BEGIN LICENSE BLOCK *****
    - Version: MPL 1.1/GPL 2.0/LGPL 2.1
    -
@@ -39,25 +58,6 @@
    - the terms of any one of the MPL, the GPL or the LGPL.
    -
    - ***** END LICENSE BLOCK ***** -->
-<!--
-# Translator(s):
-#
-# alexxed <alexxed@gmail.com>
-# nicubunu <nicubunu@gmail.com>
-# turcan <nicturcan@gmail.com>
-# stas <stas@nerd.ro>
-# janimo <jani@ubuntu.com>
-# secarica <orice@secarica.ro>
-# toffee <daniel@toffee.ro>
-# alexef <alex@eftimie.ro>
-#
--->
-<!--
-# Reviewer(s):
-#
-# alexxed <alexxed@gmail.com>
-#
--->
 
 <!-- Attn: Localization - some of the menus in this dialog directly affect mail also. -->
 

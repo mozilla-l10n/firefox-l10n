@@ -1,11 +1,9 @@
-<!-- ***** BEGIN LICENSE BLOCK *****
- Version: MPL 1.1/GPL 2.0/LGPL 2.1
 <!--
 # Translator(s):
 #
 # xdaiana <xdaiana@yahoo.com>
 # janimo <jani@ubuntu.com>
-# alexxed <alexxed@gmail.com>
+# Alexandru Szasz <alexxed@gmail.com>
 # anonymous <anonymous@n.a>
 #
 -->
@@ -13,9 +11,11 @@
 # Reviewer(s):
 #
 # raulmalea <raul.malea@gmail.com>
-# alexxed <alexxed@gmail.com>
+# Alexandru Szasz <alexxed@gmail.com>
 #
 -->
+<!-- ***** BEGIN LICENSE BLOCK *****
+ Version: MPL 1.1/GPL 2.0/LGPL 2.1
 
  The contents of this file are subject to the Mozilla Public License Version
  1.1 (the "License"); you may not use this file except in compliance with

@@ -1,3 +1,17 @@
+<!--
+# Translator(s):
+#
+# Alexandru Szasz <alexxed@gmail.com>
+# Laudatti <Laudatti@gmail.com>
+#
+-->
+<!--
+# Reviewer(s):
+#
+# Alexandru Szasz <alexxed@gmail.com>
+# raulmalea <raul.malea@gmail.com>
+#
+-->
 <!-- ***** BEGIN LICENSE BLOCK *****
 #if 0
    - Version: MPL 1.1/GPL 2.0/LGPL 2.1
@@ -35,20 +49,6 @@
    -
 #endif
    - ***** END LICENSE BLOCK ***** -->
-<!--
-# Translator(s):
-#
-# alexxed <alexxed@gmail.com>
-# Laudatti <Laudatti@gmail.com>
-#
--->
-<!--
-# Reviewer(s):
-#
-# alexxed <alexxed@gmail.com>
-# raulmalea <raul.malea@gmail.com>
-#
--->
 
 <!ENTITY safeModeDialog.title             "&brandShortName; - Modul sigur">
 <!ENTITY window.width                     "37em">

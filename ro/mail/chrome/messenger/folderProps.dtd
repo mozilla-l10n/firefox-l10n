@@ -1,3 +1,19 @@
+<!--
+# Translator(s):
+#
+# rz <rz@r2dev.ro>
+# Alexandru Szasz <alexxed@gmail.com>
+# Laudatti <Laudatti@gmail.com>
+# manuelciosici <manuelrciosici@gmail.com>
+#
+-->
+<!--
+# Reviewer(s):
+#
+# Alexandru Szasz <alexxed@gmail.com>
+# raulmalea <raul.malea@gmail.com>
+#
+-->
 <!-- ***** BEGIN LICENSE BLOCK *****
    - Version: MPL 1.1/GPL 2.0/LGPL 2.1
    -
@@ -37,22 +53,6 @@
    - the terms of any one of the MPL, the GPL or the LGPL.
    -
    - ***** END LICENSE BLOCK ***** -->
-<!--
-# Translator(s):
-#
-# rz <rz@r2dev.ro>
-# alexxed <alexxed@gmail.com>
-# Laudatti <Laudatti@gmail.com>
-# manuelciosici <manuelrciosici@gmail.com>
-#
--->
-<!--
-# Reviewer(s):
-#
-# alexxed <alexxed@gmail.com>
-# raulmalea <raul.malea@gmail.com>
-#
--->
 
 <!ENTITY folderProps.windowtitle.label           "Proprietăți">
 

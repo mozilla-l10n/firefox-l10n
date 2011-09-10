@@ -1,12 +1,12 @@
-<!-- extracted from am-main.xul -->
 <!--
 # Translator(s):
 #
-# alexxed <alexxed@gmail.com>
+# Alexandru Szasz <alexxed@gmail.com>
 # janimo <jani@ubuntu.com>
 # Laudatti <Laudatti@gmail.com>
 #
 -->
+<!-- extracted from am-main.xul -->
 
 <!ENTITY accountTitle.label "Setările contului">
 <!ENTITY accountName.label "Nume cont:">

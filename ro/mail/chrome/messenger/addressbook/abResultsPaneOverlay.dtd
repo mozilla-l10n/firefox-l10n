@@ -1,3 +1,18 @@
+<!--
+# Translator(s):
+#
+# Alexandru Szasz <alexxed@gmail.com>
+# Sergiu Bivol <sbivol87@gmail.com>
+# raulmalea <raul.malea@gmail.com>
+#
+-->
+<!--
+# Reviewer(s):
+#
+# raulmalea <raul.malea@gmail.com>
+# Alexandru Szasz <alexxed@gmail.com>
+#
+-->
 <!-- ***** BEGIN LICENSE BLOCK *****
    - Version: MPL 1.1/GPL 2.0/LGPL 2.1
    -
@@ -33,21 +48,6 @@
    - the terms of any one of the MPL, the GPL or the LGPL.
    -
    - ***** END LICENSE BLOCK ***** -->
-<!--
-# Translator(s):
-#
-# alexxed <alexxed@gmail.com>
-# Sergiu Bivol <sbivol87@gmail.com>
-# raulmalea <raul.malea@gmail.com>
-#
--->
-<!--
-# Reviewer(s):
-#
-# raulmalea <raul.malea@gmail.com>
-# alexxed <alexxed@gmail.com>
-#
--->
 
 <!ENTITY GeneratedName.label                   "Denumire">
 <!ENTITY GeneratedName.accesskey               "n">

@@ -1,17 +1,17 @@
-<!-- Entities for AccountWizard -->
 <!--
 # Translator(s):
 #
 # janimo <jani@ubuntu.com>
-# alexxed <alexxed@gmail.com>
+# Alexandru Szasz <alexxed@gmail.com>
 #
 -->
 <!--
 # Reviewer(s):
 #
-# alexxed <alexxed@gmail.com>
+# Alexandru Szasz <alexxed@gmail.com>
 #
 -->
+<!-- Entities for AccountWizard -->
 
 <!ENTITY windowTitle.label "Asistent de creat conturi">
 <!ENTITY accountWizard.size "width: 45em; height: 38em;">

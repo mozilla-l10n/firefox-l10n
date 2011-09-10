@@ -1,9 +1,8 @@
-<!-- extracted from am-server-top.xul -->
 <!--
 # Translator(s):
 #
 # nicubunu <nicubunu@gmail.com>
-# alexxed <alexxed@gmail.com>
+# Alexandru Szasz <alexxed@gmail.com>
 # janimo <jani@ubuntu.com>
 # Laudatti <Laudatti@gmail.com>
 # rz <rz@r2dev.ro>
@@ -12,9 +11,10 @@
 <!--
 # Reviewer(s):
 #
-# alexxed <alexxed@gmail.com>
+# Alexandru Szasz <alexxed@gmail.com>
 #
 -->
+<!-- extracted from am-server-top.xul -->
 
 <!ENTITY securitySettings.label "Setări de securitate">
 <!ENTITY serverSettings.label "Setările serverului">

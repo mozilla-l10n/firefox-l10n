@@ -1,3 +1,17 @@
+<!--
+# Translator(s):
+#
+# mirceade <mirceade@yahoo.com>
+# Alexandru Szasz <alexxed@gmail.com>
+# alexef <alex@eftimie.ro>
+#
+-->
+<!--
+# Reviewer(s):
+#
+# Alexandru Szasz <alexxed@gmail.com>
+#
+-->
 <!-- ***** BEGIN LICENSE BLOCK *****
    - Version: MPL 1.1/GPL 2.0/LGPL 2.1
    -
@@ -33,20 +47,6 @@
    - the terms of any one of the MPL, the GPL or the LGPL.
    -
    - ***** END LICENSE BLOCK ***** -->
-<!--
-# Translator(s):
-#
-# mirceade <mirceade@yahoo.com>
-# alexxed <alexxed@gmail.com>
-# alexef <alex@eftimie.ro>
-#
--->
-<!--
-# Reviewer(s):
-#
-# alexxed <alexxed@gmail.com>
-#
--->
 
 <!ENTITY windowTitle.label "Proprietăți câmp formular">
 <!ENTITY windowTitleImage.label "Proprietăți imagine formular">
