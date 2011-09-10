@@ -36,7 +36,7 @@
 <!ENTITY copyAll.label         "Copiază tot">
 <!ENTITY copylink.label        "Copiază adresa legăturii">
 <!ENTITY paste.label           "Lipește">
-<!ENTITY delete.label          "&Ștergere">
+<!ENTITY delete.label          "Șterge">
 <!ENTITY selectAll.label       "Selectați tot">
 <!ENTITY noSuggestions.label   "(Nicio sugestie)">
 <!ENTITY addToDictionary.label "Adaugă la dicționar">
@@ -78,15 +78,15 @@
 <!ENTITY downloadPause.label       "Pauză">
 <!ENTITY downloadResume.label      "Continuă">
 <!ENTITY downloadRetry.label       "Încearcă din nou">
-<!ENTITY downloadRemove.label      "Şte&rge">
-<!ENTITY downloadDelete.label      "&Ștergere">
+<!ENTITY downloadRemove.label      "Elimină">
+<!ENTITY downloadDelete.label      "Șterge">
 <!ENTITY downloadFailed.label      "Eșec">
 
 <!ENTITY noResults.label           "Niciun rezultat">
 <!ENTITY allBookmarks.label        "Vezi toate semnele de carte">
 
 <!ENTITY bookmarkPopup.label       "S-a pus semn la pagină">
-<!ENTITY bookmarkRemove.label      "Şte&rge">
+<!ENTITY bookmarkRemove.label      "Șterge">
 <!ENTITY bookmarkEdit.label        "Editeazăare">
 
 <!ENTITY identity.unverifiedsite2 "Acest sait nu furnizează informații despre identitatea sa.">
@@ -122,7 +122,7 @@
 <!ENTITY contextPauseMedia.label      "Pauză">
 <!ENTITY contextFullScreen.label      "Ecran complet">
 <!ENTITY contextEditBookmark.label    "Editeazăare">
-<!ENTITY contextRemoveBookmark.label  "Şte&rge">
+<!ENTITY contextRemoveBookmark.label  "Șterge">
 
 <!ENTITY pageactions.saveas.pdf      "Salvează ca PDF">
 <!ENTITY pageactions.share.page      "Trimite pagina">
