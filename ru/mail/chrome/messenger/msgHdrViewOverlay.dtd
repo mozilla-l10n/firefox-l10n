@@ -1,21 +1,21 @@
 <!--null-->
-<!ENTITY toField2.label "кому">
-<!ENTITY fromField2.label "от">
-<!ENTITY senderField2.label "отправитель">
-<!ENTITY organizationField2.label "организация">
-<!ENTITY replyToField2.label "обратный адрес">
-<!ENTITY subjectField2.label "тема">
-<!ENTITY ccField2.label "cc ">
-<!ENTITY bccField2.label "скрытая копия">
-<!ENTITY newsgroupsField2.label "группы новостей">
-<!ENTITY followupToField2.label "ответ в группу новостей">
-<!ENTITY tagsHdr2.label "метки">
-<!ENTITY dateField2.label "дата">
-<!ENTITY userAgentField2.label "программа">
-<!ENTITY referencesField2.label "ссылки">
-<!ENTITY messageIdField2.label "идентификатор">
-<!ENTITY inReplyToField2.label "в ответ на">
-<!ENTITY originalWebsite2.label "сайт">
+<!ENTITY toField2.label "кому ">
+<!ENTITY fromField2.label "от ">
+<!ENTITY senderField2.label "отправитель ">
+<!ENTITY organizationField2.label "организация ">
+<!ENTITY replyToField2.label "обратный адрес ">
+<!ENTITY subjectField2.label "тема ">
+<!ENTITY ccField2.label "копия ">
+<!ENTITY bccField2.label "скрытая копия ">
+<!ENTITY newsgroupsField2.label "группы новостей ">
+<!ENTITY followupToField2.label "ответ в группу новостей ">
+<!ENTITY tagsHdr2.label "метки ">
+<!ENTITY dateField2.label "дата ">
+<!ENTITY userAgentField2.label "программа ">
+<!ENTITY referencesField2.label "ссылки ">
+<!ENTITY messageIdField2.label "идентификатор ">
+<!ENTITY inReplyToField2.label "в ответ на ">
+<!ENTITY originalWebsite2.label "веб-сайт ">
 <!ENTITY editMessageDescription.label "Это черновик">
 <!ENTITY editMessageButton.label "Изменить…">
 <!ENTITY hdrArchiveButton.label "архивировать">
