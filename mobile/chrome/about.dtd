@@ -1,18 +1,28 @@
-<!ENTITY aboutPage.title                        "About &brandShortName;">
-<!ENTITY aboutPage.faq.label                    "FAQ">
-<!ENTITY aboutPage.support.label                "Support">
-<!ENTITY aboutPage.privacyPolicy.label          "Privacy Policy">
-<!ENTITY aboutPage.rights.label                 "Know Your Rights">
-<!ENTITY aboutPage.relNotes.label               "Release Notes">
-<!ENTITY aboutPage.credits.label                "Credits">
-<!ENTITY aboutPage.checkForUpdates.button       "Check for Updates">
-<!ENTITY aboutPage.checkForUpdates.checking     "Looking for updates…">
-<!ENTITY aboutPage.checkForUpdates.none         "No updates available">
-<!ENTITY aboutPage.checkForUpdates.found        "Update available">
+<!--
+# Translator(s):
+#
+# alexxed <alexxed@gmail.com>
+# janimo <jani@ubuntu.com>
+# raulmalea <raul.malea@gmail.com>
+#
+-->
+<!ENTITY aboutPage.title                        "Despre &brandShortName;">
+<!ENTITY aboutPage.faq.label                    "Întrebări frecvente">
+<!ENTITY aboutPage.support.label                "Asistenţă">
+<!ENTITY aboutPage.privacyPolicy.label          "Politică de confidențialite">
+<!ENTITY aboutPage.rights.label                 "Cunoaște-ți drepturile">
+<!ENTITY aboutPage.relNotes.label               "Note de lansare">
+<!ENTITY aboutPage.credits.label                "Echipa">
+<!ENTITY aboutPage.checkForUpdates.button       "Verifică pentru actualizări">
+<!ENTITY aboutPage.checkForUpdates.checking     "Se caută actualizări...">
+<!ENTITY aboutPage.checkForUpdates.none         "Nicio actualizare disponibilă">
+<!ENTITY aboutPage.checkForUpdates.found        "Actualizare disponibilă">
 
 
 <!-- LOCALIZATION NOTE:
      These strings are concatenated in order. Unneeded strings may be left blank.
 -->
-<!ENTITY aboutPage.licenseLink                  "Licensing information">
+<!ENTITY aboutPage.licenseLink                  "Informații de licențiere">
 <!ENTITY aboutPage.licenseLinkSuffix            ".">
+
+
