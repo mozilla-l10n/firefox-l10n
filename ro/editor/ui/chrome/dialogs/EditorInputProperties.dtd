@@ -33,6 +33,20 @@
    - the terms of any one of the MPL, the GPL or the LGPL.
    -
    - ***** END LICENSE BLOCK ***** -->
+<!--
+# Translator(s):
+#
+# mirceade <mirceade@yahoo.com>
+# alexxed <alexxed@gmail.com>
+# alexef <alex@eftimie.ro>
+#
+-->
+<!--
+# Reviewer(s):
+#
+# alexxed <alexxed@gmail.com>
+#
+-->
 
 <!ENTITY windowTitle.label "Proprietăți câmp formular">
 <!ENTITY windowTitleImage.label "Proprietăți imagine formular">
@@ -53,7 +67,7 @@
 <!ENTITY InputSettings.label "Setările câmpului">
 <!ENTITY InputName.label "Nume câmp:">
 <!ENTITY InputName.accesskey "N">
-<!ENTITY GroupName.label "Nume grup:">
+<!ENTITY GroupName.label "Numele grupului:">
 <!ENTITY GroupName.accesskey "N">
 <!ENTITY InputValue.label "Valoare câmp:">
 <!ENTITY InputValue.accesskey "V">
@@ -61,11 +75,11 @@
 <!ENTITY InitialValue.accesskey "V">
 <!ENTITY InputChecked.label "Inițial bifat">
 <!ENTITY InputChecked.accesskey "b">
-<!ENTITY InputSelected.label "Inițial selectat">
+<!ENTITY InputSelected.label "Inițial selectată">
 <!ENTITY InputSelected.accesskey "s">
-<!ENTITY InputReadOnly.label "Doar-citire">
+<!ENTITY InputReadOnly.label "Doar _citire">
 <!ENTITY InputReadOnly.accesskey "D">
-<!ENTITY InputDisabled.label "Inactiv">
+<!ENTITY InputDisabled.label "Inactivat">
 <!ENTITY InputDisabled.accesskey "I">
 <!ENTITY tabIndex.label "Index tab:">
 <!ENTITY tabIndex.accesskey "t">
@@ -80,3 +94,5 @@
 
 <!ENTITY ImageProperties.label "Proprietăți imagine…">
 <!ENTITY ImageProperties.accesskey "e">
+
+

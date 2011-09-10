@@ -1,3 +1,17 @@
+<!--
+# Translator(s):
+#
+# alexxed <alexxed@gmail.com>
+# Laudatti <Laudatti@gmail.com>
+# nicubunu <nicubunu@gmail.com>
+#
+-->
+<!--
+# Reviewer(s):
+#
+# alexxed <alexxed@gmail.com>
+#
+-->
 
 <!ENTITY migrationWizard.title          "Asistent de import">
 
@@ -27,3 +41,5 @@
 
 <!ENTITY done.title                     "Import încheiat">
 <!ENTITY done.label                     "Următoarele elemente au fost importate cu succes:">
+
+

@@ -1,4 +1,12 @@
 <!-- extracted from am-main.xul -->
+<!--
+# Translator(s):
+#
+# alexxed <alexxed@gmail.com>
+# janimo <jani@ubuntu.com>
+# Laudatti <Laudatti@gmail.com>
+#
+-->
 
 <!ENTITY accountTitle.label "Setările contului">
 <!ENTITY accountName.label "Nume cont:">
@@ -11,7 +19,7 @@
 <!ENTITY email.accesskey "d">
 <!ENTITY replyTo.label "Adresă pentru răspuns:">
 <!ENTITY replyTo.accesskey "s">
-<!ENTITY organization.label "Organizație:">
+<!ENTITY organization.label "Organizaţie:">
 <!ENTITY organization.accesskey "O">
 <!ENTITY signatureText.label "Textul semnăturii:">
 <!ENTITY signatureText.accesskey "x">
@@ -35,3 +43,5 @@
 <!ENTITY smtpName.label "Server de trimitere (SMTP):">
 <!ENTITY smtpName.accesskey "t">
 <!ENTITY smtpDefaultServer.label "Folosește serverul implicit">
+
+

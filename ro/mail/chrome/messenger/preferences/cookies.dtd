@@ -1,3 +1,9 @@
+<!--
+# Translator(s):
+#
+# alexxed <alexxed@gmail.com>
+#
+-->
 <!ENTITY window.width                      "38em">
 
 <!ENTITY cookiesonsystem.label             "Pe acest calculator sunt stocate următoarele cookie-uri:">
@@ -20,9 +26,11 @@
 <!ENTITY focusSearch1.key                  "f">
 <!ENTITY focusSearch2.key                  "k">
 
-<!ENTITY filter.label                      "Caută:">
+<!ENTITY filter.label                      "Căutare">
 <!ENTITY filter.accesskey                  "C">
 
-<!ENTITY button.close.label                "Închide">
+<!ENTITY button.close.label                "Î&nchide">
 <!ENTITY button.close.accesskey            "c">
+
+
 

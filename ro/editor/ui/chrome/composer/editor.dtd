@@ -34,10 +34,23 @@
    - the terms of any one of the MPL, the GPL or the LGPL.
    -
    - ***** END LICENSE BLOCK ***** -->
+<!--
+# Translator(s):
+#
+# rsandu <razvan.sandu@zando.ro>
+# alexxed <alexxed@gmail.com>
+#
+-->
+<!--
+# Reviewer(s):
+#
+# alexxed <alexxed@gmail.com>
+#
+-->
 
 <!-- Window title -->
 <!-- LOCALIZATION NOTE  (editorWindow.titlemodifier): DONT_TRANSLATE -->
-<!ENTITY editorWindow.titlemodifier "Editor"> 
+<!ENTITY editorWindow.titlemodifier "Composer"> 
 <!ENTITY editorWindow.titlemodifiermenuseparator " - ">
 
 <!-- Menu items:  the . means that the menu item isn't implemented yet -->
@@ -50,8 +63,8 @@
 <!-- File menu items -->
 <!ENTITY exportToTextCmd.label "Exportă ca text…">
 <!ENTITY exportToTextCmd.accesskey "t">
-<!ENTITY previewCmd.label "Afișează în browser">
-<!ENTITY previewCmd.accesskey "w">
+<!ENTITY previewCmd.label "Răsfoiește pagina">
+<!ENTITY previewCmd.accesskey "R">
 <!ENTITY sendPageCmd.label "Trimite pagina…">
 <!ENTITY sendPageCmd.accesskey "T">
 
@@ -60,11 +73,11 @@
 <!ENTITY compositionToolbarCmd.accesskey "B">
 <!ENTITY formattingToolbarCmd.label "Bară de formatare">
 <!ENTITY formattingToolbarCmd.accesskey "B">
-<!ENTITY editmodeToolbarCmd.label "Bară de editare">
+<!ENTITY editmodeToolbarCmd.label "Bară editare">
 <!ENTITY editmodeToolbarCmd.accesskey "B">
 
 <!-- Format menu items -->
-<!ENTITY formatMenu.label "Formatare">
+<!ENTITY formatMenu.label "Format trimitere">
 <!ENTITY formatMenu.accesskey "F">
 <!ENTITY grid.label "Grilă de poziționare">
 <!ENTITY grid.accesskey "G">
@@ -76,7 +89,7 @@
 <!ENTITY validateCmd.accesskey "V">
 
 <!-- Display Mode toolbar and View menu items -->
-<!ENTITY NormalModeTab.label "Normal">
+<!ENTITY NormalModeTab.label "Normală">
 <!ENTITY NormalMode.label "Mod de editare normal">
 <!ENTITY NormalMode.accesskey "n">
 <!ENTITY NormalMode.tooltip "Afișează bordurile tabelelor și ancorele cu nume">
@@ -91,10 +104,12 @@
      not need to include HTML in the label 'HTMLSourceModeTab.label' -->
 <!ENTITY HTMLSourceModeTab.dir "ltr">
 <!ENTITY HTMLSourceModeTab.label "Sursă">
-<!ENTITY HTMLSourceMode.label "Sursă HTML">
+<!ENTITY HTMLSourceMode.label "Sursa HTML">
 <!ENTITY HTMLSourceMode.accesskey "H">
 <!ENTITY HTMLSourceMode.tooltip "Editează sursa HTML">
 <!ENTITY PreviewModeTab.label "Previzualizează">
 <!ENTITY PreviewMode.label "Previzualizare">
 <!ENTITY PreviewMode.accesskey "P">
 <!ENTITY PreviewMode.tooltip "Afișează ca în navigator">
+
+

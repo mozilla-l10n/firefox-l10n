@@ -1,5 +1,17 @@
 <!-- ***** BEGIN LICENSE BLOCK *****
  Version: MPL 1.1/GPL 2.0/LGPL 2.1
+<!--
+# Translator(s):
+#
+# nicubunu <nicubunu@gmail.com>
+#
+-->
+<!--
+# Reviewer(s):
+#
+# alexxed <alexxed@gmail.com>
+#
+-->
 
  The contents of this file are subject to the Mozilla Public License Version
  1.1 (the "License"); you may not use this file except in compliance with
@@ -47,4 +59,6 @@
 <!-- For Map It! -->
 <!ENTITY mapItButton.label           "Hartă">
 <!ENTITY mapIt.tooltip               "Afișează o hartă de pe web cu această adresă">
+
+
 

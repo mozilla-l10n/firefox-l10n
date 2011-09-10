@@ -1,4 +1,18 @@
 <!-- extracted from am-advanced.xul -->
+<!--
+# Translator(s):
+#
+# Laudatti <Laudatti@gmail.com>
+# janimo <jani@ubuntu.com>
+# alexxed <alexxed@gmail.com>
+#
+-->
+<!--
+# Reviewer(s):
+#
+# alexxed <alexxed@gmail.com>
+#
+-->
 
 <!-- LOCALIZATION NOTE (smtpServer.label): do not translate "SMTP" in below line -->
 <!ENTITY smtpServer.label "Setările serverului de trimitere (SMTP)">
@@ -8,12 +22,12 @@
 
 <!ENTITY smtpListAdd.label  "Adaugă…">
 <!ENTITY smtpListAdd.accesskey  "A">
-<!ENTITY smtpListEdit.label "Editează…">
+<!ENTITY smtpListEdit.label "Editează">
 <!ENTITY smtpListEdit.accesskey "E">
-<!ENTITY smtpListDelete.label "Șterge">
-<!ENTITY smtpListDelete.accesskey "g">
-<!ENTITY smtpListSetDefault.label "Implicit">
-<!ENTITY smtpListSetDefault.accesskey "I">
+<!ENTITY smtpListDelete.label "Elimină">
+<!ENTITY smtpListDelete.accesskey "n">
+<!ENTITY smtpListSetDefault.label "Stabilește ca implicită">
+<!ENTITY smtpListSetDefault.accesskey "i">
 
 <!ENTITY serverDescription.label "Descriere:">
 <!ENTITY serverName.label "Nume server:">
@@ -21,3 +35,5 @@
 <!ENTITY userName.label   "Nume utilizator:">
 <!ENTITY connectionSecurity.label "Securitatea conexiunii: ">
 <!ENTITY authMethod.label   "Metodă de autentificare: ">
+
+

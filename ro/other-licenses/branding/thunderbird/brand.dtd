@@ -1,4 +1,20 @@
+<!--
+# Translator(s):
+#
+# turcan <nicturcan@gmail.com>
+# rsandu <razvan.sandu@zando.ro>
+# alexxed <alexxed@gmail.com>
+#
+-->
+<!--
+# Reviewer(s):
+#
+# alexxed <alexxed@gmail.com>
+#
+-->
 <!ENTITY  brandShortName        "Thunderbird">
 <!ENTITY  brandFullName         "Mozilla Thunderbird">
 <!ENTITY  vendorShortName       "Mozilla">
 <!ENTITY  trademarkInfo.part1   "Mozilla Thunderbird și siglele Thunderbird sunt mărci înregistrate ale fundației Mozilla.">
+
+

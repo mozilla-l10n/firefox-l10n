@@ -1,5 +1,18 @@
 <!-- ***** BEGIN LICENSE BLOCK *****
  Version: MPL 1.1/GPL 2.0/LGPL 2.1
+<!--
+# Translator(s):
+#
+# alexxed <alexxed@gmail.com>
+# janimo <jani@ubuntu.com>
+#
+-->
+<!--
+# Reviewer(s):
+#
+# alexxed <alexxed@gmail.com>
+#
+-->
 
  The contents of this file are subject to the Mozilla Public License Version
  1.1 (the "License"); you may not use this file except in compliance with
@@ -38,16 +51,18 @@
 <!ENTITY fieldMapImport.title "Importare agendă de contacte">
 <!ENTITY fieldMapImport.size "width: 40em; height: 30em;">
 <!ENTITY fieldMapImport.recordNumber "Date importate pentru înregistrarea:">
-<!ENTITY fieldMapImport.next.label "Înainte">
+<!ENTITY fieldMapImport.next.label "Î_nainte">
 <!ENTITY fieldMapImport.next.accesskey "n">
-<!ENTITY fieldMapImport.previous.label "Înapoi">
-<!ENTITY fieldMapImport.previous.accesskey "p">
+<!ENTITY fieldMapImport.previous.label "Precedent">
+<!ENTITY fieldMapImport.previous.accesskey "P">
 <!ENTITY fieldMapImport.text "Folosiți Mută sus și Mută jos pentru a potrivi câmpurile agendei de contacte (din stânga) cu datele corecte de importat (din dreapta). Nu bifați elementele pe care nu doriți să le importați.">
-<!ENTITY fieldMapImport.up.label "Mută în sus">
+<!ENTITY fieldMapImport.up.label "Mută în s_us">
 <!ENTITY fieldMapImport.up.accesskey "u">
-<!ENTITY fieldMapImport.down.label "Mută în jos">
+<!ENTITY fieldMapImport.down.label "Mută în j_os">
 <!ENTITY fieldMapImport.down.accesskey "M">
 <!ENTITY fieldMapImport.fieldListTitle "Câmpuri din agenda de contacte">
 <!ENTITY fieldMapImport.dataTitle "Date de importat">
 <!ENTITY fieldMapImport.skipFirstRecord.label "Primul rând conține numele câmpurilor">
 <!ENTITY fieldMapImport.skipFirstRecord.accessKey "P">
+
+

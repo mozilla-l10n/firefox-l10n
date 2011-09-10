@@ -34,6 +34,12 @@
    - the terms of any one of the MPL, the GPL or the LGPL.
    -
    - ***** END LICENSE BLOCK ***** -->
+<!--
+# Reviewer(s):
+#
+# raulmalea <raul.malea@gmail.com>
+#
+-->
 
 
 <!-- Window title -->
@@ -46,3 +52,5 @@
 <!ENTITY deleteCharCheck.label "Șterge caracterul de separare">
 <!ENTITY collapseSpaces.label  "Ignoră spațiile în plus">
 <!ENTITY collapseSpaces.tooltip "Transformă spațiile adiacente într-un singur separator">
+
+

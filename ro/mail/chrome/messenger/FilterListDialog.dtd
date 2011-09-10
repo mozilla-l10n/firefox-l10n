@@ -1,15 +1,28 @@
+<!--
+# Translator(s):
+#
+# Laudatti <Laudatti@gmail.com>
+# alexxed <alexxed@gmail.com>
+#
+-->
+<!--
+# Reviewer(s):
+#
+# alexxed <alexxed@gmail.com>
+#
+-->
 <!ENTITY window.title "Filtre mesaje">
 <!ENTITY nameColumn.label "Nume filtru">
 <!ENTITY activeColumn.label "Activ">
 <!ENTITY newButton.label "Nou…">
 <!ENTITY newButton.accesskey "N">
-<!ENTITY editButton.label "Editează…">
+<!ENTITY editButton.label "Editează">
 <!ENTITY editButton.accesskey "E">
 <!ENTITY deleteButton.label "Șterge">
 <!ENTITY deleteButton.accesskey "t">
-<!ENTITY reorderUpButton.label "Mută sus">
+<!ENTITY reorderUpButton.label "Mută în s_us">
 <!ENTITY reorderUpButton.accesskey "s">
-<!ENTITY reorderDownButton.label "Mută jos">
+<!ENTITY reorderDownButton.label "Mută în j_os">
 <!ENTITY reorderDownButton.accesskey "j">
 <!ENTITY filterHeader.label "Filtrele active vor fi rulate automat în ordinea de mai jos.">
 <!ENTITY filtersForPrefix.label "Filtre pentru:">
@@ -18,7 +31,7 @@
 <!ENTITY viewLogButton.accesskey "J">
 <!ENTITY runFilters.label "Rulează acum">
 <!ENTITY runFilters.accesskey "R">
-<!ENTITY stopFilters.label "Oprire">
+<!ENTITY stopFilters.label "Opreşte">
 <!ENTITY stopFilters.accesskey "O">
 <!ENTITY folderPickerPrefix.label "Rulează filtrul(ele) selectate pe:">
 <!ENTITY folderPickerPrefix.accesskey "a">
@@ -27,3 +40,5 @@
 <!ENTITY helpButton.label "Ajutor">
 <!ENTITY helpButton.accesskey "A">
 <!ENTITY closeCmd.key "w"> 
+
+

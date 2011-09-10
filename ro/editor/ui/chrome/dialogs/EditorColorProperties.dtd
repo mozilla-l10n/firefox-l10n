@@ -34,6 +34,12 @@
    - the terms of any one of the MPL, the GPL or the LGPL.
    -
    - ***** END LICENSE BLOCK ***** -->
+<!--
+# Translator(s):
+#
+# alexxed <alexxed@gmail.com>
+#
+-->
 
 <!-- Window title -->
 <!ENTITY windowTitle.label "Culori și fundal pagină">
@@ -59,3 +65,5 @@
 <!ENTITY backgroundImage.label "Imagine fundal:">
 <!ENTITY backgroundImage.accessKey "i">
 <!ENTITY backgroundImage.tooltip "Folosește o imagine ca fundal pentru pagină">
+
+

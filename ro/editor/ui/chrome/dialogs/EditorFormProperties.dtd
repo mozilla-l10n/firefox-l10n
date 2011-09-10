@@ -33,6 +33,18 @@
    - the terms of any one of the MPL, the GPL or the LGPL.
    -
    - ***** END LICENSE BLOCK ***** -->
+<!--
+# Translator(s):
+#
+# secarica <orice@secarica.ro>
+#
+-->
+<!--
+# Reviewer(s):
+#
+# raulmalea <raul.malea@gmail.com>
+#
+-->
 
 <!ENTITY windowTitle.label "Proprietăți formular">
 
@@ -46,8 +58,10 @@
 <!ENTITY FormMethod.accesskey "M">
 <!ENTITY FormEncType.label "Codare:">
 <!ENTITY FormEncType.accesskey "C">
-<!ENTITY FormTarget.label "Frame destinație:">
-<!ENTITY FormTarget.accesskey "F">
+<!ENTITY FormTarget.label "Cadru de destinație:">
+<!ENTITY FormTarget.accesskey "C">
 
 <!ENTITY RemoveForm.label "Elimină formular">
 <!ENTITY RemoveForm.accesskey "E">
+
+

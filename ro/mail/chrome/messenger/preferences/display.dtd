@@ -1,3 +1,21 @@
+<!--
+# Translator(s):
+#
+# alexxed <alexxed@gmail.com>
+# evinteler <emil_vinteler2000@yahoo.com>
+# janimo <jani@ubuntu.com>
+# nicubunu <nicubunu@gmail.com>
+# Laudatti <Laudatti@gmail.com>
+# secarica <orice@secarica.ro>
+# anonymous <anonymous@n.a>
+#
+-->
+<!--
+# Reviewer(s):
+#
+# alexxed <alexxed@gmail.com>
+#
+-->
 <!ENTITY itemFormatting.label             "Formatare">
 <!ENTITY itemTags.label                   "Etichete">
 
@@ -7,13 +25,13 @@
 <!ENTITY bold.label                       "Îngroșat">
 <!ENTITY italic.label                     "Înclinat">
 <!ENTITY boldItalic.label                 "Îngroșat și înclinat">
-<!ENTITY size.label                       "Mărime:">
+<!ENTITY size.label                       "Mărime">
 <!ENTITY size.accesskey                   "M">
 <!ENTITY regularSize.label                "Normal">
 <!ENTITY bigger.label                     "Mai mare">
 <!ENTITY smaller.label                    "Mai mic">
-<!ENTITY color.label                      "Culoare:">
-<!ENTITY color.accesskey                  "C">
+<!ENTITY color.label                      "Stabilire culori">
+<!ENTITY color.accesskey                  "c">
 <!ENTITY displayWidth.label               "Mesaje text">
 <!ENTITY displayText.label                "Pentru afișarea mesajelor text citate:">
 <!ENTITY colors.label                     "Culori">
@@ -29,10 +47,10 @@
 
 <!-- labels -->
 <!ENTITY displayTagsText.label     "Etichetele pot fi folosite pentru a organiza mesajele dumneavoastră pe categorii și după priorități. ">
-<!ENTITY addTagButton.label        "Adaugă">
+<!ENTITY addTagButton.label        "Adauga">
 <!ENTITY addTagButton.accesskey    "A">
-<!ENTITY editTagButton.label       "Modifică">
-<!ENTITY editTagButton.accesskey   "M">
+<!ENTITY editTagButton.label       "Editeazăare">
+<!ENTITY editTagButton.accesskey   "E">
 <!ENTITY removeTagButton.label     "Șterge">
 <!ENTITY removeTagButton.accesskey "t">
 
@@ -40,7 +58,9 @@
 <!ENTITY fontsAndColors.label    "Fonturi ">
 <!ENTITY defaultFont.label       "Font implicit:">
 <!ENTITY defaultFont.accesskey   "F">
-<!ENTITY defaultSize.label       "Mărime:">
+<!ENTITY defaultSize.label       "Mărime">
 <!ENTITY defaultSize.accesskey   "M">
 <!ENTITY fontOptions.accesskey   "F">
 <!ENTITY fontOptions.label       "Fonturi…">
+
+

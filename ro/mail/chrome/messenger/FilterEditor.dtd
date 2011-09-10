@@ -1,3 +1,17 @@
+<!--
+# Translator(s):
+#
+# iulianv <iulianv@email.com>
+# alexxed <alexxed@gmail.com>
+# janimo <jani@ubuntu.com>
+#
+-->
+<!--
+# Reviewer(s):
+#
+# alexxed <alexxed@gmail.com>
+#
+-->
 <!ENTITY window.title "Reguli filtrare">
 <!ENTITY filterEditorDialog.dimensions "width: 100ch;">
 <!ENTITY filterName.label "Nume filtru:">
@@ -39,3 +53,5 @@
 <!ENTITY ignoreSubthread.label "Ignoră conversația din interior">
 <!ENTITY watchThread.label "Urmărește conversația">
 <!ENTITY stopExecution.label "Oprește executarea filtrului">
+
+

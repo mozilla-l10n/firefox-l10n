@@ -1,3 +1,10 @@
+<!--
+# Translator(s):
+#
+# anonymous <anonymous@n.a>
+# rz <rz@r2dev.ro>
+#
+-->
 <!-- ***** BEGIN LICENSE BLOCK *****
    - Version: MPL 1.1/GPL 2.0/LGPL 2.1
    -
@@ -37,8 +44,8 @@
    - ***** END LICENSE BLOCK ***** -->
    
 <!-- Labels -->
-<!ENTITY newFolderDialog.title      "Dosar nou">
-<!ENTITY name.label                 "Nume:">
+<!ENTITY newFolderDialog.title      "Folder Nou">
+<!ENTITY name.label                 "Numele:">
 <!ENTITY name.accesskey             "N">
 <!ENTITY description.label          "Creează ca dosar sub:">
 <!ENTITY description.accesskey      "C">
@@ -46,5 +53,7 @@
 <!ENTITY folderRestriction2.label   "Noul dosar va conține:">
 <!ENTITY foldersOnly.label          "Doar dosare">
 <!ENTITY messagesOnly.label         "Doar mesaje">
-<!ENTITY accept.label               "Create Folder">
+<!ENTITY accept.label               "Creează dosar">
 <!ENTITY accept.accesskey           "r">
+
+

@@ -1,3 +1,19 @@
+<!--
+# Translator(s):
+#
+# raulmalea <raul.malea@gmail.com>
+# alexxed <alexxed@gmail.com>
+# rsandu <razvan.sandu@zando.ro>
+# Irina Sandu <irina.sandu@mozilla.ro>
+#
+-->
+<!--
+# Reviewer(s):
+#
+# alexxed <alexxed@gmail.com>
+# raulmalea <raul.malea@gmail.com>
+#
+-->
 <!ENTITY aboutDialog.title          "Despre &brandFullName;">
 
 <!ENTITY community.start2           "&brandShortName; este proiectat de ">
@@ -6,7 +22,7 @@
 <!ENTITY community.middle2          ", o ">
 <!-- LOCALIZATION NOTE (community.creditsLink): This is a link title that links to about:credits. -->
 <!ENTITY community.creditsLink      "comunitate globală">
-<!ENTITY community.end2             " working together to make the Internet better. We believe that the Internet should be open, public, and accessible to everyone without any restrictions.">
+<!ENTITY community.end2             " care lucrează împreună pentru a face internetul mai bun. Noi credem că internetul ar trebui să fie deschis, public și accesibil tuturor fără nici o restricție.">
 
 <!ENTITY contribute.start           "Sună interesant? ">
 <!-- LOCALIZATION NOTE (contribute.getInvolvedLink): This is a link title that links to http://www.mozilla.org/contribute/. -->
@@ -20,16 +36,16 @@
 <!ENTITY bottomLinks.rights         "Drepturile utilizatorului final">
 
 <!-- LOCALIZATION NOTE (bottomLinks.privacy): This is a link title that links to http://www.mozilla.com/legal/privacy/. -->
-<!ENTITY bottomLinks.privacy        "Politică de confidențialitate">
+<!ENTITY bottomLinks.privacy        "Politică de confidențialite">
 
 <!-- LOCALIZATION NOTE (update.checkingForUpdates): try to make the localized text short (see bug 596813 for screenshots). -->
 <!ENTITY update.checkingForUpdates  "Se caută actualizări…">
 <!-- LOCALIZATION NOTE (update.checkingAddonCompat): try to make the localized text short (see bug 596813 for screenshots). -->
-<!ENTITY update.checkingAddonCompat "Checking Add-on compatibility…">
+<!ENTITY update.checkingAddonCompat "Se verifică compatibilitatea suplimentului…">
 <!-- LOCALIZATION NOTE (update.noUpdatesFound): try to make the localized text short (see bug 596813 for screenshots). -->
-<!ENTITY update.noUpdatesFound      "&brandShortName; is up to date">
+<!ENTITY update.noUpdatesFound      "&brandShortName; este actualizat">
 <!-- LOCALIZATION NOTE (update.adminDisabled): try to make the localized text short (see bug 596813 for screenshots). -->
-<!ENTITY update.adminDisabled       "Updates disabled by your system administrator">
+<!ENTITY update.adminDisabled       "Actualizările sunt dezactivate de către administratorul de sistem">
 
 <!-- LOCALIZATION NOTE (update.failed.start,update.failed.linkText,update.failed.end):
      update.failed.start, update.failed.linkText, and update.failed.end all go into
@@ -37,14 +53,14 @@
      the latest version of Firefox (e.g. http://www.firefox.com). As this is all in
      one line, try to make the localized text short (see bug 596813 for screenshots). -->
 <!ENTITY update.failed.start        "Actualizare eşuată. ">
-<!ENTITY update.failed.linkText     "Download the latest version">
+<!ENTITY update.failed.linkText     "Descărcați cea mai recentă versiune">
 <!ENTITY update.failed.end          "">
 
 <!-- LOCALIZATION NOTE (update.manual.start,update.manual.end): update.manual.start and update.manual.end
      all go into one line and have an anchor in between with text that is the same as the link to a site
      to download the latest version of Firefox (e.g. http://www.firefox.com). As this is all in one line,
      try to make the localized text short (see bug 596813 for screenshots). -->
-<!ENTITY update.manual.start        "Download the ">
+<!ENTITY update.manual.start        "Descarcă">
 <!ENTITY update.manual.linkText     "ultima versiune">
 <!ENTITY update.manual.end          "">
 
@@ -59,25 +75,9 @@
 <!-- LOCALIZATION NOTE (channel.description.start,channel.description.end): channel.description.start and
      channel.description.end create one sentence, with the current channel label inserted in between.
      example: You are currently on the _Stable_ update channel. -->
-<!ENTITY channel.description.start  "Folosiți în prezent ">
+<!ENTITY channel.description.start  "Sunteți în prezent pe ">
 <!ENTITY channel.description.end    " ca sursă de actualizare. ">
 
-<!ENTITY channel.change             "Schimbare">
-
-<!ENTITY channel.release.description       "Enjoy the tried and tested final release being used by hundreds of millions around the world. Stay in control of your online experience with super speed, easy customization and the latest Web technologies.">
-<!ENTITY channel.beta.description          "Experience cutting edge features with more stability. Provide feedback to help refine and polish what will be in the final release.">
-<!ENTITY channel.aurora.description        "Experience the newest innovations in an unstable environment that's not for the faint of heart. Provide feedback on features and performance to help determine what makes the final release.">
-
-<!-- LOCALIZATION NOTE (channel.selector.start,channel.selector.end): channel.selector.start and
-     channel.selector.end create one sentence, with a channel selection menulist instered in between.
-     This is all in one line, so try to make the localized text short.
-     example: Switch to the [Stable] update channel. -->
-<!ENTITY channel.selector.start          "Schimbă la">
-<!ENTITY channel.selector.end            "ca și sursă de actualizare.">
-
-<!-- LOCALIZATION NOTE (channel.selector.applyButton): This button applies the user's choice to switch
-     to a new update channel and starts the application update process. -->
-<!ENTITY channel.selector.applyButton    "Aplică și actualizează">
-<!ENTITY channel.selector.cancelButton   "Renunță">
-
 <!ENTITY cmdCloseMac.commandKey "w">
+
+

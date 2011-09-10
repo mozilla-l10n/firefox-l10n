@@ -36,6 +36,19 @@
    - the terms of any one of the MPL, the GPL or the LGPL.
    -
    - ***** END LICENSE BLOCK ***** -->
+<!--
+# Translator(s):
+#
+# alexxed <alexxed@gmail.com>
+# turcan <nicturcan@gmail.com>
+#
+-->
+<!--
+# Reviewer(s):
+#
+# alexxed <alexxed@gmail.com>
+#
+-->
 
 <!-- These strings are for use specifically in the editor's image map dialog. -->
 
@@ -44,34 +57,34 @@
 
 <!-- Menu Items -->
 <!-- File menu -->
-<!ENTITY mapfileMenu.label "Fișier">
+<!ENTITY mapfileMenu.label "Fişier">
 <!ENTITY mapfileMenu.accesskey "F">
-<!ENTITY clearCmd.label "Golește">
-<!ENTITY clearCmd.accesskey "G">
-<!ENTITY closeCmd.label "Închide">
+<!ENTITY clearCmd.label "Curăţire">
+<!ENTITY clearCmd.accesskey "C">
+<!ENTITY closeCmd.label "Î&nchide">
 <!ENTITY closeCmd.accesskey "n">
 
 <!-- Edit menu -->
-<!ENTITY mapeditMenu.label "Editare">
+<!ENTITY mapeditMenu.label "Editeazăare">
 <!ENTITY mapeditMenu.accesskey "E">
-<!ENTITY cutCmd.label "Taie">
+<!ENTITY cutCmd.label "Tăiere">
 <!ENTITY cutCmd.accesskey "T">
-<!ENTITY copyCmd.label "Copiază">
+<!ENTITY copyCmd.label "Copiați">
 <!ENTITY copyCmd.accesskey "C">
-<!ENTITY pasteCmd.label "Lipește">
+<!ENTITY pasteCmd.label "Lipeşte">
 <!ENTITY pasteCmd.accesskey "L">
-<!ENTITY selectallCmd.label "Selectează tot">
+<!ENTITY selectallCmd.label "Selectează _tot">
 <!ENTITY selectallCmd.accesskey "S">
 <!ENTITY propsCmd.label "Proprietăți zonă sensibilă">
 <!ENTITY propsCmd.accesskey "P">
 
 <!-- View menu -->
-<!ENTITY mapviewMenu.label "Vizualizare">
+<!ENTITY mapviewMenu.label "Vizualizați">
 <!ENTITY mapviewMenu.accesskey "V">
 <!ENTITY showhideTbarCmd.label "Ascunde bara de unelte">
 <!ENTITY showhideTbarCmd.accesskey "A">
 <!-- Scaling -->
-<!ENTITY mapviewScale.label "Scală">
+<!ENTITY mapviewScale.label "Scară">
 <!ENTITY mapviewScale.accesskey "S">
 <!ENTITY apercentCmd.label "100">
 <!ENTITY apercentCmd.accesskey "1">
@@ -84,7 +97,7 @@
 <!ENTITY zoomoutCmd.label "Depărtează">
 
 <!-- Keys -->
-<!ENTITY clear.key "C">
+<!ENTITY clear.key "d">
 <!ENTITY selectall.key "o">
 <!ENTITY close.key "l">
 <!ENTITY cut.key "T">
@@ -92,3 +105,5 @@
 <!ENTITY paste.key "p">
 <!ENTITY props.key "P">
 <!ENTITY tbar.key "t">
+
+

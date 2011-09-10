@@ -1,4 +1,17 @@
 <!-- Entities for AccountWizard -->
+<!--
+# Translator(s):
+#
+# janimo <jani@ubuntu.com>
+# alexxed <alexxed@gmail.com>
+#
+-->
+<!--
+# Reviewer(s):
+#
+# alexxed <alexxed@gmail.com>
+#
+-->
 
 <!ENTITY windowTitle.label "Asistent de creat conturi">
 <!ENTITY accountWizard.size "width: 45em; height: 38em;">
@@ -54,8 +67,8 @@
 <!-- LOCALIZATION NOTE (popType.label) : Do not translate "POP" in below line -->
 <!ENTITY popType.label "POP">
 <!ENTITY popType.accesskey "P">
-<!ENTITY leaveMsgsOnSrvr.label "Leave messages on server">
-<!ENTITY leaveMsgsOnSrvr.accesskey "L">
+<!ENTITY leaveMsgsOnSrvr.label "Păstrează mesajele pe server">
+<!ENTITY leaveMsgsOnSrvr.accesskey "l">
 
 
 <!-- LOCALIZATION NOTE (haveSmtp1.prefix and haveSmtp1.suffix2) : Do not translate "SMTP" and "&quot;" in
@@ -108,7 +121,9 @@
 <!ENTITY downloadOnLogin.label "Descarcă mesajele acum">
 <!ENTITY downloadOnLogin.accesskey "D">
 <!ENTITY deferStorageDesc.label "Nu bifați aici pentru a stoca mesajele contului în directorul său, făcând astfel acest cont să apară pe nivelul cel mai de sus. În caz contrar mesajele vor fi în căsuța poștală globală din dosarele locale.">
-<!ENTITY deferStorage.label "Folosește căsuța poștală globală (stochează mesajele în dosarele locale)">
+<!ENTITY deferStorage.label "Folosește căsuța de intrare globală (stochează mesajele în Dosare locale)">
 <!ENTITY deferStorage.accesskey "F">
 <!ENTITY clickFinish.label "Apăsați Încheiere pentru a salva setările și a părăsi asistentul de creat conturi.">
 <!ENTITY clickFinish.labelMac "Clic pe „Încheiere” pentru a salva acești parametri și a părăsi asistentul de creat conturi.">
+
+

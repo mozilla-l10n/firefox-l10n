@@ -34,6 +34,14 @@
    - the terms of any one of the MPL, the GPL or the LGPL.
    -
    - ***** END LICENSE BLOCK ***** -->
+<!--
+# Translator(s):
+#
+# janimo <jani@ubuntu.com>
+# Laudatti <Laudatti@gmail.com>
+# alexxed <alexxed@gmail.com>
+#
+-->
 
 <!-- These strings are for use specifically in the editor's image and form image dialogs. -->
 
@@ -103,8 +111,10 @@
 <!ENTITY showImageLinkBorder.accessKey "A">
 
 <!-- These tabs are currently used in the image input dialog -->
-<!ENTITY imageInputTab.label "formular">
+<!ENTITY imageInputTab.label "Formular ">
 <!ENTITY imageLocationTab.label "Locație">
 <!ENTITY imageDimensionsTab.label "Dimensiuni">
 <!ENTITY imageAppearanceTab.label "Aspect">
 <!ENTITY imageLinkTab.label "Legătură">
+
+

@@ -34,9 +34,15 @@
    - the terms of any one of the MPL, the GPL or the LGPL.
    -
    - ***** END LICENSE BLOCK ***** -->
+<!--
+# Translator(s):
+#
+# secarica <orice@secarica.ro>
+#
+-->
 
 <!-- Window title -->
-<!ENTITY windowTitle.label "Inserare tabel">
+<!ENTITY windowTitle.label "Inserează un tabel">
 
 <!ENTITY size.label "Mărime">
 <!ENTITY numRowsEditField.label "Rânduri:">
@@ -49,3 +55,5 @@
 <!ENTITY borderEditField.accessKey "B">
 <!ENTITY borderEditField.tooltip "Tastați un număr pentru grosimea bordurii tabelului, sau zero (0) pentru tabel fără bordură">
 <!ENTITY pixels.label "pixeli">
+
+

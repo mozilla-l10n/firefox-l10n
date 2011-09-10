@@ -1,3 +1,11 @@
+<!--
+# Translator(s):
+#
+# turcan <nicturcan@gmail.com>
+# alexxed <alexxed@gmail.com>
+# Laudatti <Laudatti@gmail.com>
+#
+-->
 <!ENTITY notificationsDialog2.title       "Personalizează alerta de mesaj nou">
 <!ENTITY window.width                     "32em">
 
@@ -8,4 +16,6 @@
 <!ENTITY subject.accesskey                "S">
 <!ENTITY sender.label                     "Expeditorul">
 <!ENTITY sender.accesskey                 "E">
+
+
 

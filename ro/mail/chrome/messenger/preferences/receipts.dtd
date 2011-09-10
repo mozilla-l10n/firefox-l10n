@@ -1,3 +1,9 @@
+<!--
+# Translator(s):
+#
+# janimo <jani@ubuntu.com>
+#
+-->
 <!ENTITY dialog.title                  "Confirmări de primire">
 <!ENTITY requestReceipt.label          "La trimiterea unui mesaj, solicită întotdeauna confirmare de primire">
 <!ENTITY requestReceipt.accesskey      "L">
@@ -20,3 +26,5 @@
 <!ENTITY askMe.label                   "Întreabă-mă">
 <!ENTITY alwaysSend.label              "Trimite">
 <!ENTITY neverSend.label               "Nu trimite">
+
+

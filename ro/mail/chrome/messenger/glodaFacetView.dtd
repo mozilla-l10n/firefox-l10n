@@ -1,3 +1,9 @@
+<!--
+# Translator(s):
+#
+# alexxed <alexxed@gmail.com>
+#
+-->
 <!-- LOCALIZATION NOTE (glodaFacetView.filters.label): Label at the top of the
      faceting sidebar.  Serves as a header both for the checkboxes under it as
      well for labeled facets with multiple options. -->
@@ -14,3 +20,5 @@
 <!-- LOCALIZATION NOTE (glodaFacetView.pageMore.label): Label at the bottom
      of the results list to show more hits. -->
 <!ENTITY glodaFacetView.pageMore.label "Mai mult &#187;">
+
+

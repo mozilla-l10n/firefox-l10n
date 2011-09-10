@@ -34,6 +34,12 @@
    - the terms of any one of the MPL, the GPL or the LGPL.
    -
    - ***** END LICENSE BLOCK ***** -->
+<!--
+# Translator(s):
+#
+# alexxed <alexxed@gmail.com>
+#
+-->
 
 
 <!-- Window title -->
@@ -58,3 +64,5 @@
 <!ENTITY saveSettings.label "Folosește ca implicit">
 <!ENTITY saveSettings.accessKey "I">
 <!ENTITY saveSettings.tooltip "Salvează aceste setări pentru a fi folosite când introduceți linii orizontale">
+
+

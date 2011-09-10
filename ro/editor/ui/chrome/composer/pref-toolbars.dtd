@@ -33,6 +33,12 @@
    - the terms of any one of the MPL, the GPL or the LGPL.
    -
    - ***** END LICENSE BLOCK ***** -->
+<!--
+# Translator(s):
+#
+# alexxed <alexxed@gmail.com>
+#
+-->
 
 <!ENTITY pref.toolbars.title    "Bare de unelte">
 
@@ -69,3 +75,5 @@
 <!ENTITY absolutePosition.label "Poziționare absolută">
 <!ENTITY decreaseZIndex.label   "Trimite în fundal">
 <!ENTITY increaseZIndex.label   "Adu în prim-plan">
+
+

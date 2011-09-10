@@ -1,3 +1,20 @@
+<!--
+# Translator(s):
+#
+# alexxed <alexxed@gmail.com>
+# raulmalea <raul.malea@gmail.com>
+# strainu <crangasi2001@yahoo.com>
+# Nicu <kneekoo@yahoo.com>
+# janimo <jani@ubuntu.com>
+# Laudatti <Laudatti@gmail.com>
+#
+-->
+<!--
+# Reviewer(s):
+#
+# alexxed <alexxed@gmail.com>
+#
+-->
 <!-- Help Menu -->
 <!ENTITY helpMenu.label "Ajutor">
 <!ENTITY helpMenu.accesskey "A">
@@ -9,14 +26,14 @@
 <!ENTITY helpTroubleshootingInfo.accesskey "I">
 <!ENTITY helpSafeMode.label     "Repornește cu suplimentele dezactivate…">
 <!ENTITY helpSafeMode.accesskey "R">
-<!ENTITY releaseCmd2.label "Note asupra ediției">
+<!ENTITY releaseCmd2.label "Note de lansare">
 <!ENTITY releaseCmd2.accesskey "N">
 <!ENTITY whatsNewCmd.label "Ce e nou">
 <!ENTITY whatsNewCmd.accesskey "C">
 <!ENTITY featureConfiguratorCmd.label "Asistent de migrare">
 <!ENTITY featureConfiguratorCmd.accesskey "m">
-<!ENTITY openHelp.label "Manual de utilizare">
-<!ENTITY openHelp.accesskey "M">
+<!ENTITY openHelp.label "Ajutor conținut">
+<!ENTITY openHelp.accesskey "A">
 <!ENTITY openHelp.commandkey "VK_F1">
 <!ENTITY openHelpMac.label "Ajutor pentru &brandShortName;">
 <!ENTITY openHelpMac2.commandkey   "?">
@@ -24,3 +41,5 @@
 
 <!ENTITY aboutMenuCmd.label "Despre &brandShortName;">
 <!ENTITY aboutMenuCmd.accesskey "D">
+
+

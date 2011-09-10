@@ -1,3 +1,19 @@
+<!--
+# Translator(s):
+#
+# alexxed <alexxed@gmail.com>
+# Laudatti <Laudatti@gmail.com>
+# janimo <jani@ubuntu.com>
+# eddyp <eddy.petrisor@gmail.com>
+# evinteler <emil_vinteler2000@yahoo.com>
+#
+-->
+<!--
+# Reviewer(s):
+#
+# alexxed <alexxed@gmail.com>
+#
+-->
 <!ENTITY itemGeneral.label                   "Generale">
 <!ENTITY itemAutoComplete.label              "Adrese">
 <!ENTITY itemSpellCheck.label                "Ortografie">
@@ -12,7 +28,7 @@
 <!ENTITY htmlComposeHeader.label              "HTML">
 <!ENTITY font.label                           "Font:">
 <!ENTITY font.accesskey                       "n">
-<!ENTITY size.label                           "Mărime:">
+<!ENTITY size.label                           "Mărime">
 <!ENTITY size.accesskey                       "M">
 <!ENTITY fontColor.label                      "Culoare text:">
 <!ENTITY fontColor.accesskey                  "x">
@@ -44,7 +60,7 @@
 <!ENTITY directories.label                     "Server de directoare:">
 <!ENTITY directories.accesskey                 "d">
 <!ENTITY directoriesNone.label                 "Niciunul">
-<!ENTITY editDirectories.label                 "Editează directoarele…">
+<!ENTITY editDirectories.label                 "Editează repertoare…">
 <!ENTITY editDirectories.accesskey             "E">
 
 <!ENTITY sendOptionsDescription.label          "Configurează aspectul textului">
@@ -55,3 +71,5 @@
 <!ENTITY attachmentReminder.accesskey          "V">
 <!ENTITY attachmentReminderOptions.label       "Cuvinte cheie…">
 <!ENTITY attachmentReminderOptions.accesskey   "C">
+
+

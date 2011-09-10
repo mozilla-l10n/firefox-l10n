@@ -1,5 +1,21 @@
 <!-- ***** BEGIN LICENSE BLOCK *****
  Version: MPL 1.1/GPL 2.0/LGPL 2.1
+<!--
+# Translator(s):
+#
+# alexxed <alexxed@gmail.com>
+# Laudatti <Laudatti@gmail.com>
+# rz <rz@r2dev.ro>
+# rsandu <razvan.sandu@zando.ro>
+#
+-->
+<!--
+# Reviewer(s):
+#
+# alexxed <alexxed@gmail.com>
+# raulmalea <raul.malea@gmail.com>
+#
+-->
 
  The contents of this file are subject to the Mozilla Public License Version
  1.1 (the "License"); you may not use this file except in compliance with
@@ -43,7 +59,7 @@
 
 <!ENTITY subjectField2.label "subiect ">
 <!--# LOCALIZATION NOTE (ccField2.label): DONT_TRANSLATE -->
-<!ENTITY ccField2.label "copie către ">
+<!ENTITY ccField2.label "cc ">
 <!ENTITY bccField2.label "copie ascunsă către ">
 <!ENTITY newsgroupsField2.label "grupuri de discuții ">
 <!ENTITY followupToField2.label "continuare la ">
@@ -59,6 +75,7 @@
 <!ENTITY editMessageButton.label "Editează…">
 <!ENTITY hdrArchiveButton.label "arhivează">
 <!ENTITY hdrArchiveButton.tooltip "arhivează acest mesaj">
+<!ENTITY hdrSmartReplyButton.label "răspuns isteț">
 <!ENTITY hdrReplyButton.label "răspunde">
 <!ENTITY hdrReplyButton.tooltip "răspunde la acest mesaj">
 <!ENTITY hdrReplyAllButton.label "răspunde tuturor">
@@ -100,7 +117,7 @@
 <!ENTITY otherActionsPrint.accesskey "p">
 
 <!-- Attachment context menu items -->
-<!ENTITY openAttachmentCmd.label    "Deschide">
+<!ENTITY openAttachmentCmd.label    "Deschis">
 <!ENTITY openAttachmentCmd.accesskey    "D">
 <!ENTITY saveAsAttachmentCmd.label    "Salvează ca…">
 <!ENTITY saveAsAttachmentCmd.accesskey    "a">
@@ -108,8 +125,8 @@
 <!ENTITY detachAttachmentCmd.accesskey    "E">
 <!ENTITY deleteAttachmentCmd.label    "Șterge">
 <!ENTITY deleteAttachmentCmd.accesskey    "t">
-<!ENTITY openAllAttachmentsCmd.label    "Open All…">
-<!ENTITY openAllAttachmentsCmd.accesskey    "O">
+<!ENTITY openAllAttachmentsCmd.label    "Deschide toate...">
+<!ENTITY openAllAttachmentsCmd.accesskey    "o">
 <!ENTITY saveAllAttachmentsCmd.label    "Salvează toate…">
 <!ENTITY saveAllAttachmentsCmd.accesskey    "S">
 <!ENTITY detachAllAttachmentsCmd.label    "Elimină toate anexele…">
@@ -119,24 +136,24 @@
 
 <!-- Attachment toolbar items -->
 <!ENTITY saveAttachmentButton.label       "salvează">
-<!ENTITY saveAttachmentButton.tooltip     "save the attached file">
-<!ENTITY saveAllAttachmentsButton.label   "save all">
-<!ENTITY saveAllAttachmentsButton.tooltip "save all the attached files">
-<!ENTITY openAttachmentMenuItem.label     "open">
-<!ENTITY openAttachmentMenuItem.accesskey    "o">
-<!ENTITY saveAsAttachmentMenuItem.label    "save as…">
+<!ENTITY saveAttachmentButton.tooltip     "salvează fișierul atașat">
+<!ENTITY saveAllAttachmentsButton.label   "salvează toate">
+<!ENTITY saveAllAttachmentsButton.tooltip "salvează toate fișierele atașate">
+<!ENTITY openAttachmentMenuItem.label     "deschide">
+<!ENTITY openAttachmentMenuItem.accesskey    "d">
+<!ENTITY saveAsAttachmentMenuItem.label    "salvează ca…">
 <!ENTITY saveAsAttachmentMenuItem.accesskey    "s">
-<!ENTITY detachAttachmentMenuItem.label    "detach…">
+<!ENTITY detachAttachmentMenuItem.label    "detașează...">
 <!ENTITY detachAttachmentMenuItem.accesskey    "d">
-<!ENTITY deleteAttachmentMenuItem.label    "delete">
+<!ENTITY deleteAttachmentMenuItem.label    "șterge">
 <!ENTITY deleteAttachmentMenuItem.accesskey    "e">
-<!ENTITY openAllAttachmentsMenuItem.label    "open all…">
+<!ENTITY openAllAttachmentsMenuItem.label    "deschide toate...">
 <!ENTITY openAllAttachmentsMenuItem.accesskey    "o">
-<!ENTITY saveAllAttachmentsMenuItem.label    "save all…">
+<!ENTITY saveAllAttachmentsMenuItem.label    "salvează toate...">
 <!ENTITY saveAllAttachmentsMenuItem.accesskey    "s">
-<!ENTITY detachAllAttachmentsMenuItem.label    "detach all…">
+<!ENTITY detachAllAttachmentsMenuItem.label    "detașează toate...">
 <!ENTITY detachAllAttachmentsMenuItem.accesskey    "d">
-<!ENTITY deleteAllAttachmentsMenuItem.label    "delete all…">
+<!ENTITY deleteAllAttachmentsMenuItem.label    "șterge toate...">
 <!ENTITY deleteAllAttachmentsMenuItem.accesskey    "e">
 
 <!ENTITY copyLinkCmd.label        "Copiază adresa legăturii">
@@ -145,3 +162,5 @@
 <!ENTITY CopyMessageId.label "Copiază Message-ID">
 <!ENTITY OpenMessageForMsgId.label "Deschide mesajul pentru ID">
 <!ENTITY OpenBrowserWithMsgId.label "Deschide navigatorul cu Message-ID">
+
+

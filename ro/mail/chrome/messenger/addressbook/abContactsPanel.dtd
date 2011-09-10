@@ -1,3 +1,11 @@
+<!--
+# Translator(s):
+#
+# alexxed <alexxed@gmail.com>
+# janimo <jani@ubuntu.com>
+# nicubunu <nicubunu@gmail.com>
+#
+-->
 <!ENTITY addressbookPicker.label            "Agendă de contacte:">
 <!ENTITY addressbookPicker.accesskey        "A">
 <!ENTITY searchInput.label                  "Căutare după:">
@@ -16,3 +24,5 @@
 <!ENTITY ccButton.accesskey                 "A">
 <!ENTITY bccButton.label                    "Adaugă la Bcc:">
 <!ENTITY bccButton.accesskey                "B">
+
+

@@ -1,3 +1,10 @@
+<!--
+# Translator(s):
+#
+# alexxed <alexxed@gmail.com>
+# strainu <crangasi2001@yahoo.com>
+#
+-->
 <!ENTITY systemIntegration.title  "Integrare cu sistemul">
 <!ENTITY defaultClient.intro  "Folosește &brandShortName; ca și client implicit pentru:">
 
@@ -10,3 +17,5 @@
 
 <!ENTITY searchIntegration.label "Permite &searchIntegration.engineName; căutarea în mesaje">
 <!ENTITY searchIntegration.accesskey "P">
+
+

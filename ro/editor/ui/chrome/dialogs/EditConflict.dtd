@@ -34,6 +34,12 @@
    - the terms of any one of the MPL, the GPL or the LGPL.
    -
    - ***** END LICENSE BLOCK ***** -->
+<!--
+# Translator(s):
+#
+# janimo <jani@ubuntu.com>
+#
+-->
 
 <!-- Window title -->
 <!ENTITY windowTitle.label "Modificări">
@@ -41,3 +47,5 @@
 <!ENTITY conflictResolve.label "Alegeți ce doriți să păstrați:">
 <!ENTITY keepCurrentPageButton.label "Păstrează modificările mele">
 <!ENTITY useOtherPageButton.label "Înlocuiește cu celelalte modificări">
+
+

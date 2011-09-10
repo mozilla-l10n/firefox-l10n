@@ -34,9 +34,21 @@
    - the terms of any one of the MPL, the GPL or the LGPL.
    -
    - ***** END LICENSE BLOCK ***** -->
+<!--
+# Translator(s):
+#
+# alexxed <alexxed@gmail.com>
+#
+-->
+<!--
+# Reviewer(s):
+#
+# raulmalea <raul.malea@gmail.com>
+#
+-->
 
 <!ENTITY tableWindow.title                "Proprietăți tabel">
-<!ENTITY applyButton.label                "Aplică">
+<!ENTITY applyButton.label                "Aplicați">
 <!ENTITY applyButton.accesskey            "A">
 <!ENTITY closeButton.label                "Închide">
 <!ENTITY tableTab.label                   "Tabel">
@@ -99,10 +111,12 @@
 <!ENTITY cellUseCheckboxHelp.label        "Folosiți bifele pentru a indica ce proprietăți se aplică celulelor selectate">
 
 <!-- Used in both Table and Cell panels  -->
-<!ENTITY size.label                       "Mărime">
+<!ENTITY size.label                       "Mărimea">
 <!ENTITY pixels.label                     "pixeli">
 <!ENTITY backgroundColor.label            "Culoare fundal:">
 <!ENTITY backgroundColor.accessKey        "F">
 <!ENTITY AlignLeft.label                  "Stânga">
 <!ENTITY AlignCenter.label                "Centru">
 <!ENTITY AlignRight.label                 "Dreapta">
+
+

@@ -34,6 +34,18 @@
    - the terms of any one of the MPL, the GPL or the LGPL.
    -
    - ***** END LICENSE BLOCK ***** -->
+<!--
+# Translator(s):
+#
+# alexxed <alexxed@gmail.com>
+#
+-->
+<!--
+# Reviewer(s):
+#
+# raulmalea <raul.malea@gmail.com>
+#
+-->
 
 <!-- Window title -->
 <!ENTITY windowTitle.label "Proprietăți pagină">
@@ -48,3 +60,5 @@
 <!ENTITY locationNewPage.label "[Pagină nouă, nesalvată încă]">
 <!ENTITY EditHEADSource1.label "Utilizatori avansați:">
 <!ENTITY EditHEADSource2.label "Pentru a edita conținutul regiunii &lt;head&gt;, alegeți „Sursă HTML” din meniul Vizualizare sau din bara de moduri de editare.">
+
+

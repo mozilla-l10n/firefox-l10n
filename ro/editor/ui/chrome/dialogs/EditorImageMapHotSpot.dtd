@@ -36,6 +36,13 @@
    - the terms of any one of the MPL, the GPL or the LGPL.
    -
    - ***** END LICENSE BLOCK ***** -->
+<!--
+# Translator(s):
+#
+# Laudatti <Laudatti@gmail.com>
+# alexxed <alexxed@gmail.com>
+#
+-->
 
 <!-- Window title -->
 
@@ -55,4 +62,6 @@
 <!ENTITY whole.value			"Toată pagina">
 <!ENTITY new.value				"Fereastră nouă">
 <!ENTITY parent.value			"Frame părinte">
+
+
 

@@ -1,4 +1,19 @@
 <!-- extracted from am-copies.xul -->
+<!--
+# Translator(s):
+#
+# janimo <jani@ubuntu.com>
+# rz <rz@r2dev.ro>
+# rsandu <razvan.sandu@zando.ro>
+# alexxed <alexxed@gmail.com>
+#
+-->
+<!--
+# Reviewer(s):
+#
+# alexxed <alexxed@gmail.com>
+#
+-->
 
 <!ENTITY copyAndFolderTitle.label "Copii și dosare">
 <!ENTITY sendingPrefix.label "La trimiterea unui mesaj:">
@@ -7,8 +22,8 @@
 <!ENTITY fccReplyFollowsParent.label "Pune răspunsurile în dosarul cu mesajul la care se răspunde">
 <!ENTITY fccReplyFollowsParent.accesskey "c">
 <!-- LOCALIZATION NOTE (ccAddress.label): do not translate "Cc" in below line -->
-<!ENTITY ccAddress.label "Cc these email addresses:">
-<!ENTITY ccAddress.accesskey "C">
+<!ENTITY ccAddress.label "Trimite copie către aceste adrese e-mail:">
+<!ENTITY ccAddress.accesskey "c">
 <!ENTITY ccAddressList.placeholder "Separați adresele prin virgulă">
 <!-- LOCALIZATION NOTE (bccAddress.label): do not translate "Bcc" in below line -->
 <!ENTITY bccAddress.label "Bcc la următoarele adrese:">
@@ -25,8 +40,8 @@
 <!ENTITY archivesTitle.label "Arhive de mesaje">
 <!ENTITY keepArchives.label "Păstrează mesajele arhivate în:">
 <!ENTITY keepArchives.accesskey "P">
-<!ENTITY archiveHierarchyButton.label "Archive options…">
-<!ENTITY archiveHierarchyButton.accesskey "A">
+<!ENTITY archiveHierarchyButton.label "Opțiuni ale arhivelor...">
+<!ENTITY archiveHierarchyButton.accesskey "a">
 <!ENTITY archivesFolderOn.label "Dosarul „Arhive” din:">
 <!ENTITY archivesFolderOn.accesskey "a">
 <!ENTITY archiveInOtherFolder.label "Altul:">
@@ -44,3 +59,5 @@
 <!ENTITY templatesFolderOn.accesskey "D">
 <!ENTITY templateInOtherFolder.label "Altul:">
 <!ENTITY templateInOtherFolder.accesskey "t">
+
+
