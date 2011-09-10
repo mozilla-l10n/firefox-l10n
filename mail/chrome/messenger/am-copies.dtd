@@ -1,19 +1,19 @@
-<!-- extracted from am-copies.xul -->
 <!--
 # Translator(s):
 #
 # janimo <jani@ubuntu.com>
 # rz <rz@r2dev.ro>
 # rsandu <razvan.sandu@zando.ro>
-# alexxed <alexxed@gmail.com>
+# Alexandru Szasz <alexxed@gmail.com>
 #
 -->
 <!--
 # Reviewer(s):
 #
-# alexxed <alexxed@gmail.com>
+# Alexandru Szasz <alexxed@gmail.com>
 #
 -->
+<!-- extracted from am-copies.xul -->
 
 <!ENTITY copyAndFolderTitle.label "Copii și dosare">
 <!ENTITY sendingPrefix.label "La trimiterea unui mesaj:">

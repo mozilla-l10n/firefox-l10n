@@ -1,3 +1,10 @@
+<!--
+# Reviewer(s):
+#
+# Alexandru Szasz <alexxed@gmail.com>
+# raulmalea <raul.malea@gmail.com>
+#
+-->
 <!-- ***** BEGIN LICENSE BLOCK *****
    - Version: MPL 1.1/GPL 2.0/LGPL 2.1
    -
@@ -34,13 +41,6 @@
    - the terms of any one of the MPL, the GPL or the LGPL.
    -
    - ***** END LICENSE BLOCK ***** -->
-<!--
-# Reviewer(s):
-#
-# alexxed <alexxed@gmail.com>
-# raulmalea <raul.malea@gmail.com>
-#
--->
 
 <!-- These strings are generic to all or most of the editor's dialogs. -->
 
