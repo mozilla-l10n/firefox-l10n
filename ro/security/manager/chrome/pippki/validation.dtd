@@ -71,3 +71,5 @@
 <!ENTITY  crl.autoupdate.fail.cnt.label           "Eșecuri consecutive anterioare la actualizare: ">
 <!ENTITY  crl.autoupdate.fail.reason.label        "Detaiile ultimului eșec la actualizare: ">
 <!ENTITY  edit.button                             "Setări">
+
+
