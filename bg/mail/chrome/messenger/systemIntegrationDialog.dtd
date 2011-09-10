@@ -1,0 +1,12 @@
+<!ENTITY systemIntegration.title "Системна интеграция">
+<!ENTITY defaultClient.intro "Използване на &brandShortName; като клиент по подразбиране за:">
+
+<!ENTITY email.label "Електронна поща">
+<!ENTITY newsgroups.label "Новинарски групи">
+<!ENTITY feeds.label "Емисии">
+
+<!ENTITY checkOnStartup.label "Винаги се прави тази проверка при стартиране на &brandShortName;">
+<!ENTITY checkOnStartup.accesskey "В">
+
+<!ENTITY searchIntegration.label "Нека &searchIntegration.engineName; да търси съобщения">
+<!ENTITY searchIntegration.accesskey "т">

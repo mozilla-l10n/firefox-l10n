@@ -10,7 +10,7 @@
   -  approximation to it or choose a word (or words) that means
   -  "simple discardable text editor". -->
 
-<!ENTITY window.title "Бяла дъска">
+<!ENTITY window.title "Scratchpad">
 
 <!ENTITY fileMenu.label "Файл">
 <!ENTITY fileMenu.accesskey "Ф">
@@ -37,13 +37,13 @@
 <!ENTITY editMenu.label "Редактиране">
 <!ENTITY editMenu.accesskey "Р">
 
-<!ENTITY undoCmd.label "Отмяна">
+<!ENTITY undoCmd.label "Възстановяване">
 <!ENTITY undoCmd.key "Z">
-<!ENTITY undoCmd.accesskey "О">
+<!ENTITY undoCmd.accesskey "В">
 
-<!ENTITY redoCmd.label "Наново">
+<!ENTITY redoCmd.label "Повтаряне">
 <!ENTITY redoCmd.key "Y">
-<!ENTITY redoCmd.accesskey "Н">
+<!ENTITY redoCmd.accesskey "П">
 
 <!ENTITY cutCmd.label "Изрязване">
 <!ENTITY cutCmd.key "X">
@@ -66,7 +66,7 @@
 <!ENTITY run.key "r">
 
 <!ENTITY inspect.label "Изследване">
-<!ENTITY inspect.accesskey "с">
+<!ENTITY inspect.accesskey "И">
 <!ENTITY inspect.key "i">
 
 <!ENTITY display.label "Показване">
@@ -98,20 +98,20 @@
   -  to reset/clear the global object of the environment where the code executes.
   -->
 
-<!ENTITY resetContext.label "Нулиране">
-<!ENTITY resetContext.accesskey "Н">
+<!ENTITY resetContext.label "Анулиране">
+<!ENTITY resetContext.accesskey "А">
 
 <!ENTITY executeMenu.label "Изпълнение">
-<!ENTITY executeMenu.accesskey "п">
+<!ENTITY executeMenu.accesskey "И">
 
 <!ENTITY toolsMenu.label "Инструменти">
 <!ENTITY toolsMenu.accesskey "И">
 
-<!ENTITY errorConsoleCmd.label "Конзола на грешките">
+<!ENTITY errorConsoleCmd.label "Конзола за грешки">
 <!ENTITY errorConsoleCmd.accesskey "г">
 <!ENTITY errorConsoleCmd.commandkey "j">
 
-<!ENTITY webConsoleCmd.label "Уеб-конзола">
+<!ENTITY webConsoleCmd.label "Уеб конзола">
 <!ENTITY webConsoleCmd.accesskey "У">
 <!ENTITY webConsoleCmd.commandkey "k">
 <!-- LOCALIZATION NOTE (textbox.placeholder1): This is some placeholder text
@@ -119,5 +119,5 @@
   -  It should be a one-line JavaScript comment, i.e., preceded by '//'
   -->
 
-<!ENTITY textbox.placeholder1 "// Въведете малко JavaScript, маркирайте го, щракнете с десния бутон на мишката и изберете Пускане, Изследване или Показване.">
+<!ENTITY textbox.placeholder1 "// Въведете малко JavaScript, маркирайте го, щракнете с десния бутон и изберете Пускане, Изследване или Показване.">
 

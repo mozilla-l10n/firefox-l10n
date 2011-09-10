@@ -1,7 +1,9 @@
 <!--LOCALIZATION NOTE msgReadSecurityInfo.dtd UI for viewing security status when reading a received message -->
+
 <!ENTITY status.label "Защита на писмо">
 <!ENTITY signatureCert.label "Преглед на сертификат за подпис">
 <!ENTITY encryptionCert.label "Преглед на сертификат за шифроване">
+
 <!ENTITY signer.name "Подписан от:">
 <!ENTITY recipient.name "Шифрован за:">
 <!ENTITY email.address "Електронен адрес:">

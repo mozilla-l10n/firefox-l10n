@@ -1,7 +1,7 @@
-<!ENTITY tracking.label "Проследяване">
+<!ENTITY tracking.label "Следене">
 
-<!ENTITY doNotTrack.label "Казване на сайтовете, че не искам да бъда проследяван">
-<!ENTITY doNotTrack.accesskey "п">
+<!ENTITY doNotTrack.label "Казване на сайтовете, че не искам да бъда следен.">
+<!ENTITY doNotTrack.accesskey "л">
 
 <!ENTITY history.label "История">
 
@@ -61,8 +61,8 @@
 <!ENTITY dontrememberActions.clearHistory.label "изчистите цялата настояща история">
 <!ENTITY dontrememberActions.post.label ".">
 
-<!ENTITY privateBrowsingPermanent.label "Постоянен режим на поверително сърфиране">
-<!ENTITY privateBrowsingPermanent.accesskey "П">
+<!ENTITY privateBrowsingPermanent2.label "Винаги да се използва поверително сърфиране">
+<!ENTITY privateBrowsingPermanent2.accesskey "п">
 
 <!ENTITY rememberHistory.label "Запомняне на моята история на сърфиране">
 <!ENTITY rememberHistory.accesskey "З">

@@ -4,5 +4,6 @@
 <!ENTITY ccAddr.label "Копие:">
 <!ENTITY bccAddr.label "Скрито:">
 <!ENTITY replyAddr.label "Отговор до:">
-<!ENTITY newsgroupsAddr.label "Форум:">
+<!ENTITY newsgroupsAddr.label "Дискусионна група:">
 <!ENTITY followupAddr.label "Продължение в:">
+

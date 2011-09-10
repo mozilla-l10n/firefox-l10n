@@ -36,6 +36,7 @@
    -
    - ***** END LICENSE BLOCK ***** -->
 <!-- Labels -->
+   
 <!ENTITY newFolderDialog.title "Нова папка">
 <!ENTITY name.label "Име:">
 <!ENTITY name.accesskey "И">
@@ -45,3 +46,5 @@
 <!ENTITY folderRestriction2.label "Вашата нова папка може да съдържа:">
 <!ENTITY foldersOnly.label "Само папки">
 <!ENTITY messagesOnly.label "Само писма">
+<!ENTITY accept.label "Създаване на папка">
+<!ENTITY accept.accesskey "з">

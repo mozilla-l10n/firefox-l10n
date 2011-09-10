@@ -35,7 +35,9 @@
    -
    - ***** END LICENSE BLOCK ***** -->
 <!-- Window title -->
+
 <!ENTITY windowTitle.label "Вмъкване на таблица">
+
 <!ENTITY size.label "Размер">
 <!ENTITY numRowsEditField.label "Редове:">
 <!ENTITY numRowsEditField.accessKey "Р">

@@ -1,8 +1,9 @@
 <!-- Subscription Dialog -->
-<!ENTITY newsBlogSubscriptions.label "RSS абонаменти">
+<!ENTITY feedSubscriptions.label "Абонаменти за емисии">
 <!ENTITY subscriptionDesc.label "Забележка: Премахването или промяната на папката за извличане няма да повлияе на изтеглените по-рано статии.">
 <!ENTITY feedTitle.label "Заглавие:">
-<!ENTITY location.label "Адрес:">
+<!ENTITY location.label "Местоположение:">
+
 <!ENTITY button.addFeed.label "Добавяне">
 <!ENTITY button.addFeed.accesskey "Д">
 <!ENTITY button.editFeed.label "Редактиране">
@@ -13,4 +14,5 @@
 <!ENTITY button.importOPML.accesskey "В">
 <!ENTITY button.exportOPML.label "Изнасяне">
 <!ENTITY button.exportOPML.accesskey "з">
+
 <!ENTITY cmd.close.commandKey "w">

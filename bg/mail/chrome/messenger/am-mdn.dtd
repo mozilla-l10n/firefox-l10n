@@ -1,7 +1,7 @@
 <!ENTITY pane.title "Обратни разписки">
 <!ENTITY useGlobalPrefs.label "Използват се общите правила за обратни разписки">
 <!ENTITY useGlobalPrefs.accesskey "И">
-<!ENTITY useCustomPrefs.label "Използват се тези правила за обратни разписки">
+<!ENTITY useCustomPrefs.label "Използват се следните правила за обратни разписки">
 <!ENTITY useCustomPrefs.accesskey "т">
 <!ENTITY requestReceipt.label "При изпращане на писмо, винаги се изисква обратна разписка">
 <!ENTITY requestReceipt.accesskey "р">
@@ -23,5 +23,5 @@
 <!ENTITY otherCases.label "Във всички други случаи:">
 <!ENTITY otherCases.accesskey "В">
 <!ENTITY askMe.label "Запитване">
-<!ENTITY alwaysSend.label "Изпращане">
-<!ENTITY neverSend.label "Не изпраща">
+<!ENTITY alwaysSend.label "Винаги изпраща">
+<!ENTITY neverSend.label "Никога не изпраща">

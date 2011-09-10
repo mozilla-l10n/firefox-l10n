@@ -1,12 +1,11 @@
 <!ENTITY accountTitle.label "Настройки на регистрация">
 <!ENTITY accountSettingsDesc.label "Това е специална регистрация. Към нея няма асоциирана самоличност.">
-<!ENTITY accountName.label "Име на пощата:">
+<!ENTITY accountName.label "Име на регистрацията:">
 <!ENTITY accountName.accesskey "И">
 <!ENTITY messageStorage.label "Хранилище на писма">
 <!ENTITY emptyTrashOnExit.label "Изпразване на кошчето при изход">
 <!ENTITY emptyTrashOnExit.accesskey "х">
 <!ENTITY localPath.label "Местна директория:">
-<!ENTITY localPath.accesskey "М">
 <!ENTITY localFolderPicker.label "Изберете директория">
-<!ENTITY browseFolder.label "Избор...">
+<!ENTITY browseFolder.label "Избор…">
 <!ENTITY browseFolder.accesskey "б">

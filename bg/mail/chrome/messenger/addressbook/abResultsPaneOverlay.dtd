@@ -33,6 +33,7 @@
    - the terms of any one of the MPL, the GPL or the LGPL.
    -
    - ***** END LICENSE BLOCK ***** -->
+
 <!ENTITY GeneratedName.label "Име">
 <!ENTITY GeneratedName.accesskey "И">
 <!ENTITY PrimaryEmail.label "Е-поща">
@@ -65,14 +66,3 @@
 <!ENTITY sortAscending.accesskey "ъ">
 <!ENTITY sortDescending.label "Низходящ">
 <!ENTITY sortDescending.accesskey "Н">
-<!-- context menu -->
-<!ENTITY composeEmail.label "Писане на писмо до">
-<!ENTITY composeEmail.accesskey "с">
-<!ENTITY deleteAddrBookCard.label "Изтриване">
-<!ENTITY deleteAddrBookCard.accesskey "т">
-<!ENTITY newAddrBookCard.label "Нова визитка...">
-<!ENTITY newAddrBookCard.accesskey "в">
-<!ENTITY newAddrBookMailingList.label "Нов пощенски списък...">
-<!ENTITY newAddrBookMailingList.accesskey "щ">
-<!ENTITY addrBookCardProperties.label "Свойства">
-<!ENTITY addrBookCardProperties.accesskey "й">

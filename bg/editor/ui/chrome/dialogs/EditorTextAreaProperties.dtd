@@ -33,8 +33,11 @@
    - the terms of any one of the MPL, the GPL or the LGPL.
    -
    - ***** END LICENSE BLOCK ***** -->
+
 <!ENTITY windowTitle.label "Свойства на текстово поле">
+
 <!ENTITY Settings.label "Настройки">
+
 <!ENTITY TextAreaName.label "Име на поле:">
 <!ENTITY TextAreaName.accessKey "И">
 <!ENTITY TextAreaRows.label "Редове:">
@@ -45,14 +48,15 @@
 <!ENTITY TextAreaReadOnly.accessKey "ч">
 <!ENTITY TextAreaDisabled.label "Неактивен">
 <!ENTITY TextAreaDisabled.accessKey "Н">
-<!ENTITY TextAreaTabIndex.label "Tab Index:">
-<!ENTITY TextAreaTabIndex.accessKey "I">
+<!ENTITY TextAreaTabIndex.label "Индекс на табулатор:">
+<!ENTITY TextAreaTabIndex.accessKey "И">
 <!ENTITY TextAreaAccessKey.label "Клавиш за достъп:">
 <!ENTITY TextAreaAccessKey.accessKey "д">
 <!ENTITY InitialText.label "Първоначален текст">
 <!ENTITY InitialText.accessKey "т">
-<!ENTITY TextAreaWrap.label "Режим обтичане:">
-<!ENTITY TextAreaWrap.accessKey "о">
+
+<!ENTITY TextAreaWrap.label "Режим пренасяне:">
+<!ENTITY TextAreaWrap.accessKey "п">
 <!ENTITY WrapDefault.value "По подразбиране">
 <!ENTITY WrapOff.value "Изкл">
 <!ENTITY WrapHard.value "Твърдо">

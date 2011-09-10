@@ -30,6 +30,8 @@
 <!ENTITY checkNow.accesskey "с">
 <!ENTITY submitCrashes.label "Изпращане на доклади за срив">
 <!ENTITY submitCrashes.accesskey "И">
+<!ENTITY submitTelemetry.label "Изпращане на данни за производителността">
+<!ENTITY submitTelemetry.accesskey "п">
 
 <!ENTITY networkTab.label "Мрежа">
 

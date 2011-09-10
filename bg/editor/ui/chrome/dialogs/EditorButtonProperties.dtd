@@ -33,22 +33,27 @@
    - the terms of any one of the MPL, the GPL or the LGPL.
    -
    - ***** END LICENSE BLOCK ***** -->
+
 <!ENTITY windowTitle.label "Свойства на бутона">
+
 <!ENTITY Settings.label "Настройки">
+
 <!ENTITY ButtonType.label "Тип">
 <!ENTITY ButtonType.accesskey "Т">
 <!ENTITY submit.value "Изпращане">
 <!ENTITY reset.value "Анулиране">
 <!ENTITY button.value "Бутон">
+
 <!ENTITY ButtonName.label "Име:">
 <!ENTITY ButtonName.accesskey "И">
-<!ENTITY ButtonValue.label "Стройност:">
+<!ENTITY ButtonValue.label "Стойност:">
 <!ENTITY ButtonValue.accesskey "С">
-<!ENTITY tabIndex.label "Tab Index:">
-<!ENTITY tabIndex.accesskey "I">
+<!ENTITY tabIndex.label "Индекс на табулатора:">
+<!ENTITY tabIndex.accesskey "И">
 <!ENTITY ButtonDisabled.label "Неактивен">
 <!ENTITY ButtonDisabled.accesskey "Н">
 <!ENTITY AccessKey.label "Клавиш за достъп:">
 <!ENTITY AccessKey.accesskey "К">
+
 <!ENTITY RemoveButton.label "Премахване на бутон">
 <!ENTITY RemoveButton.accesskey "П">

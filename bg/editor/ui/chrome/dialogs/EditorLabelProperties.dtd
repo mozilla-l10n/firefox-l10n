@@ -33,14 +33,18 @@
    - the terms of any one of the MPL, the GPL or the LGPL.
    -
    - ***** END LICENSE BLOCK ***** -->
+
 <!ENTITY windowTitle.label "Свойства на етикет">
+
 <!ENTITY Settings.label "Настройки">
 <!ENTITY Settings.accesskey "Н">
+
 <!ENTITY EditLabelText.label "Редактиране на текст:">
 <!ENTITY EditLabelText.accesskey "т">
 <!ENTITY LabelFor.label "За контрол:">
 <!ENTITY LabelFor.accesskey "к">
 <!ENTITY AccessKey.label "Клавиш за достъп:">
 <!ENTITY AccessKey.accesskey "д">
+
 <!ENTITY RemoveLabel.label "Премахване на етикет">
 <!ENTITY RemoveLabel.accesskey "П">

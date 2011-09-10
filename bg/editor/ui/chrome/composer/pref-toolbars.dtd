@@ -33,8 +33,11 @@
    - the terms of any one of the MPL, the GPL or the LGPL.
    -
    - ***** END LICENSE BLOCK ***** -->
-<!ENTITY header.title "Ленти с инструменти">
+
+<!ENTITY pref.toolbars.title "Ленти с инструменти">
+
 <!ENTITY composition.caption "Тези бутони ще се покажат в лентата с инструменти за композиране:">
+
 <!ENTITY new.label "Нови">
 <!ENTITY open.label "Отваряне">
 <!ENTITY save.label "Запис">
@@ -46,11 +49,13 @@
 <!ENTITY print.label "Печат">
 <!ENTITY find.label "Търсене">
 <!ENTITY image.label "Изображение">
-<!ENTITY hline.label "Х. линия">
+<!ENTITY hline.label "Хор. линия">
 <!ENTITY table.label "Таблица">
-<!ENTITY link.label "Препратка">
+<!ENTITY link.label "Връзка">
 <!ENTITY anchor.label "Котва">
+
 <!ENTITY formatting.caption "Тези бутони ще се покажат в лентата с инструменти за форматиране:">
+
 <!ENTITY smaller.label "Намаляване">
 <!ENTITY larger.label "Увеличаване">
 <!ENTITY bold.label "Удебелен">
@@ -60,6 +65,7 @@
 <!ENTITY outdent.label "Без отстъп">
 <!ENTITY indent.label "Отстъп">
 <!ENTITY underline.label "Подчертан">
+
 <!ENTITY absolutePosition.label "Абсолютно позициониране">
-<!ENTITY decreaseZIndex.label "Изпращане във фон">
+<!ENTITY decreaseZIndex.label "Изпращане на заден план">
 <!ENTITY increaseZIndex.label "Извеждане на преден план">

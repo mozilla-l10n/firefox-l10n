@@ -1,6 +1,7 @@
 <!-- extracted from MsgSynchronize.xul and msgSelectOffline.xul-->
+
 <!ENTITY MsgSynchronize.label "Изтегляне и синхронизиране на писма">
-<!ENTITY MsgSelect.label "Елементи за употреба без връзка">
+<!ENTITY MsgSelect.label "Позиции за употреба без връзка">
 <!ENTITY MsgSyncDesc.label "Ако вече имате избрани пощенски папки или форуми за употреба без връзка, можете да ги изтеглите и/или синхронизирате сега. В противен случай, използвайте бутона &quot;Избор&quot; за да изберете пощенски папки и форуми за употреба без връзка.">
 <!ENTITY MsgSyncDirections.label "Изтегляне и/или синхронизиране на:">
 <!ENTITY syncTypeMail.label "Писма">
@@ -11,8 +12,8 @@
 <!ENTITY sendMessage.accesskey "И">
 <!ENTITY workOffline.label "Работа без връзка след като изтеглянето и/или синхронизирането приключи">
 <!ENTITY workOffline.accesskey "Р">
-<!ENTITY selectButton.label "Избор...">
+<!ENTITY selectButton.label "Избор…">
 <!ENTITY selectButton.accesskey "б">
-<!ENTITY MsgSelectDesc.label "Изберете пощенски папки и форуми за употреба без връзка.">
+<!ENTITY MsgSelectDesc.label "Изберете пощенски папки и дискусионни групи за употреба без връзка.">
 <!ENTITY MsgSelectInd.label "Изтегляне">
-<!ENTITY MsgSelectItems.label "Папки и форуми">
+<!ENTITY MsgSelectItems.label "Папки и дискусионни групи">

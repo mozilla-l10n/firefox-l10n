@@ -49,6 +49,3 @@
 <!ENTITY pref.defaultlength.accesskey "с">
 <!ENTITY pref.defaultsnoozelength.label "Подразбираща се дължина за отлагане">
 <!ENTITY pref.defaultsnoozelength.accesskey "о">
-<!ENTITY pref.refreshbox.label "Обновяване на настройките">
-<!ENTITY pref.autorefresh.label "Обновяване на календарите на всеки">
-<!ENTITY pref.autorefresh.accesskey "О">

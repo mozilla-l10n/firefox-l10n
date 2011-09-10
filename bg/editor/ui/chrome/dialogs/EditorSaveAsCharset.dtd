@@ -37,8 +37,12 @@
 <!-- These strings are generic to all or most of the editor's dialogs. -->
 <!-- This button is for the progressive disclosure of additional editing functionality -->
 <!-- These strings are for use specifically in the editor's link dialog. -->
+
+
+
 <!ENTITY windowTitle.label "Запис и промяна на кодирането">
 <!ENTITY documentTitleTitle.label "Заглавие на страница">
 <!ENTITY documentCharsetTitle.label "Кодиране на знаците">
 <!ENTITY documentCharsetDesc.label "Изберете кодирането, в което искате да запишете документа:">
 <!ENTITY documentExportToText.label "Изнасяне в текстов формат">
+
