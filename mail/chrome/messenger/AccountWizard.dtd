@@ -5,9 +5,9 @@
 
 <!-- Entities for Account Type page -->
 
-<!ENTITY accountSetupInfo.label "Ak chcete prijímať správy, musíte najskôr nastaviť poštový alebo diskusný účet. ">
+<!ENTITY accountSetupInfo2.label "Ak chcete prijímať správy, musíte najskôr nastaviť účet. ">
 <!ENTITY accountTypeTitle.label "Nastavenie nového účtu">
-<!ENTITY accountTypeDesc.label "Tento sprievodca zozbiera informácie potrebné pre nastavenie poštového alebo diskusného účtu. Ak nepoznáte požadované informácie, kontaktujte vášho správcu systému alebo poskytovateľa pripojenia na internet.">
+<!ENTITY accountTypeDesc2.label "Tento sprievodca zozbiera informácie potrebné pre nastavenie nového účtu. Ak nepoznáte požadované informácie, kontaktujte vášho správcu systému alebo poskytovateľa pripojenia na internet.">
 <!ENTITY accountTypeDirections.label "Vyberte typ účtu, ktorý chcete vytvoriť:">
 <!ENTITY accountTypeMail.label "Poštový účet">
 <!ENTITY accountTypeMail.accesskey "P">

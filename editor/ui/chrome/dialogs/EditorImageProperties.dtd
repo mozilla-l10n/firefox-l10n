@@ -101,6 +101,9 @@
 <!-- These controls are in the Link Box -->
 <!ENTITY showImageLinkBorder.label "Zobraziť rám okolo obrázka z odkazom">
 <!ENTITY showImageLinkBorder.accessKey "b">
+<!ENTITY LinkAdvancedEditButton.label "Rozšírené nastavenie odkazu…">
+<!ENTITY LinkAdvancedEditButton.accessKey "R">
+<!ENTITY LinkAdvancedEditButton.tooltip "Pridať alebo upraviť atribúty HTML, štýlov a JavaScriptu">
 
 <!-- These tabs are currently used in the image input dialog -->
 <!ENTITY imageInputTab.label "Formulár">

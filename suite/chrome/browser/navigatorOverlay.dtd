@@ -20,16 +20,6 @@
 
 <!-- Edit Menu -->
 <!ENTITY findOnCmd.label "Hľadať na tejto stránke…">
-<!ENTITY findOnCmd.accesskey "H">
-<!ENTITY findOnCmd.commandkey "f">
-<!ENTITY findAgainCmd.label "Hľadať ďalej">
-<!ENTITY findAgainCmd.accesskey "d">
-<!ENTITY findAgainCmd.commandkey "g">
-<!ENTITY findPrevCmd.label "Hľadať naspäť">
-<!ENTITY findPrevCmd.accesskey "n">
-<!ENTITY findPrevCmd.commandkey "g">
-<!ENTITY findAgainCmd.commandkey2 "VK_F3">
-<!ENTITY findPrevCmd.commandkey2 "VK_F3">
 
 <!-- View Menu -->
 <!ENTITY toolbarsCmd.label "Zobraziť/Skryť">

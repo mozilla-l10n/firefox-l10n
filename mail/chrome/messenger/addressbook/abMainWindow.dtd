@@ -79,6 +79,8 @@
 <!ENTITY viewMenu.accesskey                             "Z">
 <!ENTITY viewToolbarsMenu.label                         "Panely s nástrojmi">
 <!ENTITY viewToolbarsMenu.accesskey                     "P">
+<!ENTITY menubarCmd.label                               "Hlavná ponuka">
+<!ENTITY menubarCmd.accesskey                           "H">
 <!ENTITY showAbToolbarCmd.label                         "Panel nástrojov Adresár">
 <!ENTITY showAbToolbarCmd.accesskey                     "A">
 <!ENTITY showTaskbarCmd.label                           "Stavový riadok">

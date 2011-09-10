@@ -11,10 +11,7 @@
 <!-- menu items:  the . means that the menu item isn't implemented yet -->
 
 <!-- File menu items -->
-<!ENTITY newMessage.label "Správa">
-<!ENTITY newMessage.accesskey "S">
 <!ENTITY saveCmd.label "Uložiť">
-<!ENTITY saveCmd.key "S">
 <!ENTITY saveCmd.accesskey "U">
 <!ENTITY saveAsCmd.label "Uložiť ako">
 <!ENTITY saveAsCmd.accesskey "k">
@@ -39,27 +36,12 @@
 <!ENTITY sendLaterCmd.label "Odoslať neskôr">
 <!ENTITY sendLaterCmd.keycode "VK_RETURN">
 <!ENTITY sendLaterCmd.accesskey "d">
-<!ENTITY printSetupCmd.label "Nastavenie tlače…">
-<!ENTITY printSetupCmd.accesskey "a">
-<!ENTITY printCmd.label "Tlačiť…">
-<!ENTITY printCmd.key "P">
-<!ENTITY printCmd.accesskey "T">
 
 <!-- Edit menu items -->
 <!ENTITY editRewrapCmd.label "Zalomiť znovu">
 <!ENTITY editRewrapCmd.key "R">
 <!ENTITY editRewrapCmd.accesskey  "m">
 <!ENTITY findCmd.label "Hľadať a nahradiť…">
-<!ENTITY findCmd.key "F">
-<!ENTITY findCmd.accesskey "H">
-<!ENTITY findAgainCmd.label "Hľadať ďalej">
-<!ENTITY findAgainCmd.key "G">
-<!ENTITY findAgainCmd.accesskey "d">
-<!ENTITY findAgainCmd.key2 "VK_F3">
-<!ENTITY findPrevCmd.label "Hľadať predchádzajúce">
-<!ENTITY findPrevCmd.key "G">
-<!ENTITY findPrevCmd.key2 "VK_F3">
-<!ENTITY findPrevCmd.accesskey "r">
 <!ENTITY accountManagerCmd.label "Nastavenia účtov pre Poštu a diskusné skupiny…">
 <!ENTITY accountManagerCmd.accesskey "N">
 
@@ -84,7 +66,6 @@
 <!ENTITY selectAddressCmd.accesskey "r">
 
 <!ENTITY checkSpellingCmd2.label "Kontrola pravopisu…">
-<!ENTITY checkSpellingCmd2.key "P">
 <!ENTITY checkSpellingCmd2.accesskey "K">
 <!ENTITY enableInlineSpellChecker.label "Automatická kontrola pravopisu">
 <!ENTITY enableInlineSpellChecker.accesskey "A">
@@ -145,8 +126,6 @@
 <!ENTITY spellCheckIgnoreWord.accesskey "I">
 <!ENTITY spellCheckAddToDictionary.label "Pridať do slovníka">
 <!ENTITY spellCheckAddToDictionary.accesskey "n">
-<!ENTITY pasteQuote.label "Prilepiť ako citát">
-<!ENTITY pasteQuote.accesskey "c">
 
 <!ENTITY openAttachment.label "Otvoriť">
 <!ENTITY openAttachment.accesskey "O">
