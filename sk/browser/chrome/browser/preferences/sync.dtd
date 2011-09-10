@@ -13,9 +13,10 @@
 <!ENTITY manageAccount.label          "Správa účtu">
 <!ENTITY manageAccount.accesskey      "S">
 <!ENTITY viewQuota.label              "Zobraziť kvótu">
-<!ENTITY changePassword.label         "Zmeniť heslo">
+<!ENTITY changePassword2.label        "Zmeniť heslo…">
 <!ENTITY mySyncKey.label              "Môj Synchronizačný kľúč">
-<!ENTITY resetSync.label              "Nová synchronizácia">
+<!ENTITY resetSync2.label             "Nová synchronizácia…">
+
 <!ENTITY addDevice.label              "Pridať zariadenie">
 
 <!ENTITY syncMy.label               "Synchronizovať">
@@ -33,7 +34,7 @@
 <!-- Device Settings -->
 <!ENTITY syncComputerName.label       "Názov počítača:">
 <!ENTITY syncComputerName.accesskey   "a">
-<!ENTITY deactivateDevice.label       "Deaktivovať toto zariadenie">
+<!ENTITY unlinkDevice.label           "Zrušiť prepojenie s týmto zariadením">
 
 <!-- Footer stuff -->
 <!ENTITY prefs.tosLink.label        "Podmienky používania služby">

@@ -14,3 +14,8 @@
 <!ENTITY  sending_crash_report "Odosiela sa správa o zlyhaní\u2026">
 <!ENTITY  exit_label "Koniec">
 <!ENTITY  continue_label "Pokračovať">
+
+<!ENTITY  launcher_shortcuts_title "Webové aplikácie prehliadača &brandShortName;">
+<!ENTITY  launcher_shortcuts_empty "Neboli nájdené žiadne webové aplikácie">
+
+<!ENTITY choose_file "Zvoľte súbor">

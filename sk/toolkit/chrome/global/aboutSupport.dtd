@@ -20,6 +20,7 @@
 <!ENTITY aboutSupport.appBasicsEnabledPlugins "Povolené zásuvné moduly">
 <!ENTITY aboutSupport.appBasicsBuildConfig "Konfigurácia zostavenia">
 <!ENTITY aboutSupport.appBasicsUserAgent "Reťazec User Agent">
+<!ENTITY aboutSupport.appBasicsCrashIDs "Správy o zlyhaní">
 
 <!ENTITY aboutSupport.show.label "Otvoriť priečinok">
 
