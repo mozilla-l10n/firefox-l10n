@@ -22,7 +22,7 @@
 <!-- Specific error messages -->
 
 <!ENTITY connectionFailure.title "Conectare imposibilă">
-<!ENTITY connectionFailure.longDesc "&sharedLongDesc;">
+<!ENTITY connectionFailure.longDesc "&sharedLongDesc2;">
 
 <!ENTITY deniedPortAccess.title "Această adresă este restricționată">
 <!ENTITY deniedPortAccess.longDesc "">
@@ -48,7 +48,7 @@
 <!ENTITY malformedURI.longDesc "<ul> <li>Adresele web se scriu de obicei așa: <strong>http://www.exemplu.ro/</strong></li> <li>Asigurați-vă că folosiți slash-uri corecte (adică <strong>/</strong>).</li> </ul>">
 
 <!ENTITY netInterrupt.title "Conexiunea a fost întreruptă">
-<!ENTITY netInterrupt.longDesc "&sharedLongDesc;">
+<!ENTITY netInterrupt.longDesc "&sharedLongDesc2;">
 
 <!ENTITY netOffline.title "Mod offline">
 <!ENTITY netOffline.longDesc2 "<ul>
@@ -63,10 +63,10 @@
 <!ENTITY unsafeContentType.longDesc "<ul>   <li>Vă rugăm să contactați proprietarii site-ului pentru a-i informa despre această problemă.</li> </ul>">
 
 <!ENTITY netReset.title "Conexiunea a fost reinițializată">
-<!ENTITY netReset.longDesc "&sharedLongDesc;">
+<!ENTITY netReset.longDesc "&sharedLongDesc2;">
 
 <!ENTITY netTimeout.title "Timpul conexiunii a expirat">
-<!ENTITY netTimeout.longDesc "&sharedLongDesc;">
+<!ENTITY netTimeout.longDesc "&sharedLongDesc2;">
 
 <!ENTITY protocolNotFound.title "Adresa nu a fost înțeleasă">
 <!ENTITY protocolNotFound.longDesc "<ul> <li>Este posibil să trebuiască să instalați alte programe pentru a deschide această adresă.</li> </ul>">
