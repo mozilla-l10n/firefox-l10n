@@ -1,7 +1,7 @@
-google
-wikipedia-bs
-yahoo
-pik
-tajpi
+amazondotcom
+answers
 creativecommons
-market
+eBay
+google
+wikipedia
+yahoo
