@@ -20,3 +20,5 @@
 <!ENTITY networkPanel.responseNoBody              "Răspuns fără conținut">
 <!ENTITY networkPanel.responseImage               "Imagine primită">
 <!ENTITY networkPanel.responseImageCached         "Imagine în cache">
+
+

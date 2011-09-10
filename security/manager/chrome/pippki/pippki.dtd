@@ -140,3 +140,5 @@
 <!ENTITY certErrorDlg.title "Conexiunea sigură a eșuat">
 <!ENTITY certErrorDlg.info1 "Aceasta ar putea fi o problemă în configurația serverului sau ar putea fi cineva care încearcă să pretindă că este acest server.">
 <!ENTITY certErrorDlg.info2 "Dacă v-ați mai conectat la acest server cu succes în trecut, eroarea ar putea fi temporară și puteți încerca din nou mai târziu.">
+
+

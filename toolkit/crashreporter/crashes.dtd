@@ -10,3 +10,6 @@
 <!ENTITY noReports.label            "Nu s-au trimis rapoarte de defecte.">
 <!ENTITY noConfig.label             "Această aplicație nu a fost configurată să afișeze rapoartele de defecte. Trebuie setată preferința <code>breakpad.reportURL</code>.">
 <!ENTITY clearAllReports.label      "Elimină toate rapoartele">
+
+
+

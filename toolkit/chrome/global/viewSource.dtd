@@ -88,3 +88,5 @@ you can use these alternative items. Otherwise, their values should be empty.  -
 <!ENTITY forwardCmd.accesskey "n">
 <!ENTITY goBackCmd.commandKey "[">
 <!ENTITY goForwardCmd.commandKey "]">
+
+
