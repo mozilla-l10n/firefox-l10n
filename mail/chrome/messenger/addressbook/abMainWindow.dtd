@@ -41,7 +41,7 @@
 <!-- LOCALIZATION NOTE (osxAddressBook) : These entities are only used on Mac -->
 <!ENTITY osxAddressBook.label                           "Folosește agenda de contacte Mac OS X">
 <!ENTITY osxAddressBook.accesskey                       "o">
-<!ENTITY closeCmd.label                                 "Î&nchide">
+<!ENTITY closeCmd.label                                 "Închide">
 <!ENTITY closeCmd.key                                   "w">
 <!ENTITY closeCmd.accesskey                             "h">
 <!ENTITY printSetupCmd.label                            "Aranjare în pagină...">

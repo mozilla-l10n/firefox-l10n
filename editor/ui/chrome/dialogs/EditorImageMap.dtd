@@ -61,7 +61,7 @@
 <!ENTITY mapfileMenu.accesskey "F">
 <!ENTITY clearCmd.label "Curăţire">
 <!ENTITY clearCmd.accesskey "C">
-<!ENTITY closeCmd.label "Î&nchide">
+<!ENTITY closeCmd.label "Închide">
 <!ENTITY closeCmd.accesskey "n">
 
 <!-- Edit menu -->

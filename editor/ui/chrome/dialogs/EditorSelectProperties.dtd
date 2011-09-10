@@ -87,7 +87,7 @@
 <!ENTITY AddOptGroup.label "Adaugă un grup">
 <!ENTITY AddOptGroup.accesskey "g">
 <!ENTITY RemoveElement.label "Elimină">
-<!ENTITY RemoveElement.accesskey "r">
+<!ENTITY RemoveElement.accesskey "E">
 <!ENTITY MoveElementUp.label "Mută în s_us">
 <!ENTITY MoveElementUp.accesskey "s">
 <!ENTITY MoveElementDown.label "Mută în j_os">
