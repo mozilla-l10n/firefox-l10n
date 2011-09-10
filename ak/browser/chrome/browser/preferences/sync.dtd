@@ -13,9 +13,10 @@
 <!ENTITY manageAccount.label          "Hwɛ akawnt so">
 <!ENTITY manageAccount.accesskey      "a">
 <!ENTITY viewQuota.label              "Hwɛ dodoɔ bi">
-<!ENTITY changePassword.label         "Sesa ehintasɛmfua">
+<!ENTITY changePassword2.label         "Sesa ehintasɛmfua…">
 <!ENTITY mySyncKey.label              "Me Sync kii">
-<!ENTITY resetSync.label              "San-hyehyɛɛ Sync">
+<!ENTITY resetSync2.label              "San-hyehyɛɛ Sync…">
+
 <!ENTITY addDevice.label              "Fa efidie ka ho">
 
 <!ENTITY syncMy.label               "Sync Mediɛ">
@@ -33,7 +34,7 @@
 
 <!ENTITY syncComputerName.label       "Kɔmputa Din:">
 <!ENTITY syncComputerName.accesskey   "m">
-<!ENTITY deactivateDevice.label       "Ɛma Efidie no Nyɛadwuma">
+<!ENTITY unlinkDevice.label           "Yi Saa Efidie yi Lenke">
 <!-- Footer stuff -->
 
 <!ENTITY prefs.tosLink.label        "Ɛfene a yɛde som wo">

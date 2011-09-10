@@ -35,94 +35,94 @@
    -
    - ***** END LICENSE BLOCK ***** -->
 
-<!ENTITY certmgr.title                       "Santifikati Efunga">
+<!ENTITY certmgr.title                       "Abodin krata Sohwɛfo">
 
-<!ENTITY certmgr.tab.mine                     "Zasantifikati zo">
-<!ENTITY certmgr.tab.others2                  "Wantu">
-<!ENTITY certmgr.tab.websites3                "Kompyuta zifuuga zinazo">
-<!ENTITY certmgr.tab.ca                       "Obunyiza">
-<!ENTITY certmgr.tab.orphan2                  "Awalala">
+<!ENTITY certmgr.tab.mine                     "W'abodin Nkrataa">
+<!ENTITY certmgr.tab.others2                  "Nnipa">
+<!ENTITY certmgr.tab.websites3                "Somfo mfidie">
+<!ENTITY certmgr.tab.ca                       "Aban">
+<!ENTITY certmgr.tab.orphan2                  "Afoforonom">
 
-<!ENTITY certmgr.ca.builtins                  "Built-in CAs">
-<!ENTITY certmgr.ca.mycas                     "CAs Efungwa Nawe">
+<!ENTITY certmgr.ca.builtins                  "CA a wɔasi wom">
+<!ENTITY certmgr.ca.mycas                     "CA a Woara Wohwɛ So">
 
-<!ENTITY certmgr.mine                         "Oyina santifikati kuva mu bitigole ebikugambawo:">
-<!ENTITY certmgr.others                       "Orina santifikati kufailo ezogelaku bantu bano:">
-<!ENTITY certmgr.websites2                    "Oyina santifikates ku failo eziranga kompyuta ezifuunga zinazo:">
-<!ENTITY certmgr.cas                          "Orina santifikati kufailo ezogela ku bunyiza bwasantifikati zino:">
-<!ENTITY certmgr.orphans                      "Oyina santifakate ku failo ezitanyiza kutukamu mu gero zzona:">
+<!ENTITY certmgr.mine                         "Wowɔ abodin nkrata efi adwumakuw yi nom hɔ a wɔhyɛ wo nso:">
+<!ENTITY certmgr.others                       "Wowɔ abodin nkrataa wɔ fael so a wɔhyɛ nnipa yi nom nso:">
+<!ENTITY certmgr.websites2                    "Wowɔ abodin nkrataa wɔ fael so a wɔhyɛ somfo fidie yi nom nso:">
+<!ENTITY certmgr.cas                          "Wowɔ abodin nkrataa wɔ fael so a wɔhyɛ saa abodin nkrataa nkuw yi nom nso:">
+<!ENTITY certmgr.orphans                      "Wowɔ abodin nkrataa wɔ fael so a wɔn ne nkyekyɛmu no mu biara nsi so:">
 
-<!ENTITY certmgr.detail.general_tab.title     "Byonaa">
-<!ENTITY certmgr.detail.general_tab.accesskey "B">
-<!ENTITY certmgr.detail.prettyprint_tab.title "Details">
-<!ENTITY certmgr.detail.prettyprint_tab.accesskey "D">
+<!ENTITY certmgr.detail.general_tab.title     "Gyɛnɛral">
+<!ENTITY certmgr.detail.general_tab.accesskey "G">
+<!ENTITY certmgr.detail.prettyprint_tab.title "Nhunumu">
+<!ENTITY certmgr.detail.prettyprint_tab.accesskey "h">
 
-<!ENTITY certmgr.pending.label                "Kakano ttegezza santifikate…">
-<!ENTITY certmgr.subjectinfo.label            "Kiwerwa Ku">
-<!ENTITY certmgr.issuerinfo.label             "Kiwerwa Na">
-<!ENTITY certmgr.validity.label               "Validity" >
-<!ENTITY certmgr.fingerprints.label           "Obulabe">
-<!ENTITY certmgr.certdetail.title             "Obukakafuu bwa Santifikati">
-<!ENTITY certmgr.certdetail.cn                "Erinya eri Wona (CN)">
-<!ENTITY certmgr.certdetail.o                 "Ekitogole (O)">
-<!ENTITY certmgr.certdetail.ou                "Uniti ye Ekitogole (OU)">
-<!ENTITY certmgr.certdetail.serialnumber      "Serial Number">
-<!ENTITY certmgr.certdetail.sha1fingerprint   "SHA1 Obulabe">
-<!ENTITY certmgr.certdetail.md5fingerprint    "MD5 Obulabe">
+<!ENTITY certmgr.pending.label                "Ɛregye abodin krataa no ato mu…">
+<!ENTITY certmgr.subjectinfo.label            "Yi Maa">
+<!ENTITY certmgr.issuerinfo.label             "Ne Oyii yɛ">
+<!ENTITY certmgr.validity.label               "Nokware" >
+<!ENTITY certmgr.fingerprints.label           "Nsateatim">
+<!ENTITY certmgr.certdetail.title             "Abodin krataa Nhunumu">
+<!ENTITY certmgr.certdetail.cn                "Din Hunu (DH)">
+<!ENTITY certmgr.certdetail.o                 "Adwumakuw (A)">
+<!ENTITY certmgr.certdetail.ou                "Adwumakuw Yunit (AY)">
+<!ENTITY certmgr.certdetail.serialnumber      "Mma Nnidisoɔ">
+<!ENTITY certmgr.certdetail.sha1fingerprint   "SHA1 Nsateatim">
+<!ENTITY certmgr.certdetail.md5fingerprint    "MD5 Nsateatim">
 
-<!ENTITY certmgr.editcert.title               "Longosa santifikati ye`byokwerida eteegeka">
-<!ENTITY certmgr.editcacert.title             "Longosa CA santifikati ekakase eteegeka">
-<!ENTITY certmgr.editsslcert.title            "Longosa omutimba santafikati ekakase eteegeka">
-<!ENTITY certmgr.editcert.edittrust           "Longosa ekakasee eteegeka:">
-<!ENTITY certmgr.editcert.trustssl            "Santifikati eno enyiza kwogere ku omutimba.">
-<!ENTITY certmgr.editcert.trustemail          "Santifikati eno enyiza kwogera ku mukozesa wa mayiru.">
-<!ENTITY certmgr.editcert.trustobjsign        "Santifikati eno enyiza kutegeza bananyini ba kompyuta pulogulamu.">
-<!ENTITY certmgr.editsslcert.edittrust        "Edit certificate trust settings:">
-<!ENTITY certmgr.editsslcert.dotrust          "Trust the authenticity of this certificate.">
-<!ENTITY certmgr.editsslcert.donttrust        "Do not trust the authenticity of this certificate.">
-<!ENTITY certmgr.editemailcert.title          "Longosa imayiru ya santifikati ekakasee eteegeka">
-<!ENTITY certmgr.editemailcert.edittrust      "Edit certificate trust settings:">
-<!ENTITY certmgr.editemailcert.dotrust        "Trust the authenticity of this certificate.">
-<!ENTITY certmgr.editemailcert.donttrust      "Do not trust the authenticity of this certificate.">
+<!ENTITY certmgr.editcert.title               "Sesa Bambɔ Abodin krataa Nhyehyɛe">
+<!ENTITY certmgr.editcacert.title             "Sesa CA abodin krataa agyedi nhyehyɛe">
+<!ENTITY certmgr.editsslcert.title            "Sesa wɛbsaet abodin krataa agyedi nhyehyɛe">
+<!ENTITY certmgr.editcert.edittrust           "Sesa agyedi nhyehyɛe:">
+<!ENTITY certmgr.editcert.trustssl            "Saa abodin krataa yi betumi akyerɛ wɛb nsaet.">
+<!ENTITY certmgr.editcert.trustemail          "Saa abodin krataa yi betumi akyerɛ emel dwumadifo.">
+<!ENTITY certmgr.editcert.trustobjsign        "Saa abodin krataa yi betumi akyerɛ sɔftwɛɛ yɛfo.">
+<!ENTITY certmgr.editsslcert.edittrust        "Sesa abodin krataa agyedi nhyehyɛe:">
+<!ENTITY certmgr.editsslcert.dotrust          "Gye abodin krataa yi papayɛ di.">
+<!ENTITY certmgr.editsslcert.donttrust        "Ngye abodin krataa yi papayɛ ndi.">
+<!ENTITY certmgr.editemailcert.title          "Sesa abodin krataa yi emel agyedi nhyehyɛe">
+<!ENTITY certmgr.editemailcert.edittrust      "Sesa abodin krataa agyedi nhyehyɛe:">
+<!ENTITY certmgr.editemailcert.dotrust        "Gye abodin krataa yi papayɛ di.">
+<!ENTITY certmgr.editemailcert.donttrust      "Ngye abodin krataa yi papayɛ ndi.">
 
-<!ENTITY certmgr.deletecert.title             "Sagula santifikati">
-<!ENTITY certmgr.deletecert.beforename        "Osabye kusagula santifikati eno:">
-<!ENTITY certmgr.deletecert.aftername         "Wekakasa oyagala ku sagula santifikati eno?">
-<!ENTITY certmgr.deleteusercert.title         "Sagula Santifikati yo">
-<!ENTITY certmgr.deleteusercert.beforename    "Osabye ku sagula santifikati:">
-<!ENTITY certmgr.deleteusercert.aftername     "Kale bwosagula santifikati eno, toyiza ku somaa mayiru ekyakalanyi.">
+<!ENTITY certmgr.deletecert.title             "Diliite Abodin krataa">
+<!ENTITY certmgr.deletecert.beforename        "Woebisa sɛ wobɛ diliite saa abodin krataa yi:">
+<!ENTITY certmgr.deletecert.aftername         "Wo gye to mu sɛ wopɛ sɛ wo diliite saa abodin krataa yi?">
+<!ENTITY certmgr.deleteusercert.title         "Diliiti W'abɔdin krataa">
+<!ENTITY certmgr.deleteusercert.beforename    "Woebisa sɛ wobɛ diliite abodin krataa no:">
+<!ENTITY certmgr.deleteusercert.aftername     "Bere a wobediliiti abodin krataa yi no, wo ntumi nkan mel a wɔde a ɛnkrepte aka ho.">
 
-<!ENTITY certmgr.certname                     "Erinya rya Santifikati">
-<!ENTITY certmgr.certserver                   "Server">
-<!ENTITY certmgr.override_lifetime            "Embbagga dyo budde">
-<!ENTITY certmgr.tokenname                    "Security Device">
+<!ENTITY certmgr.certname                     "Abodin krataa Din">
+<!ENTITY certmgr.certserver                   "Somfofidie">
+<!ENTITY certmgr.override_lifetime            "Nkwa Nda">
+<!ENTITY certmgr.tokenname                    "Bambɔ Efidie">
 <!ENTITY certmgr.issued                       "Issued On">
 <!ENTITY certmgr.expires                      "Expires On">
-<!ENTITY certmgr.email                        "E-Mail Address">
+<!ENTITY certmgr.email                        "Emel adrɛs">
 <!ENTITY certmgr.serial                       "Serial Number">
 
-<!ENTITY certmgr.close.label                  "Close">
-<!ENTITY certmgr.close.accesskey              "C">
-<!ENTITY certmgr.view2.label                  "Legera…">
-<!ENTITY certmgr.view2.accesskey              "L">
+<!ENTITY certmgr.close.label                  "To-mu">
+<!ENTITY certmgr.close.accesskey              "T">
+<!ENTITY certmgr.view2.label                  "Hwɛ…">
+<!ENTITY certmgr.view2.accesskey              "H">
 <!ENTITY certmgr.edit3.label                  "Edit Trust…">
 <!ENTITY certmgr.edit3.accesskey              "E">
 <!ENTITY certmgr.editca.label                 "Longosa CA obwesigwa">
 <!ENTITY certmgr.editca.accesskey             "o">
-<!ENTITY certmgr.add.label                    "Add">
-<!ENTITY certmgr.add.accesskey                "A">
-<!ENTITY certmgr.export.label                 "Okuwerezza ebweru…">
-<!ENTITY certmgr.export.accesskey             "k">
-<!ENTITY certmgr.delete2.label                "Saggula…">
-<!ENTITY certmgr.delete2.accesskey            "S">
+<!ENTITY certmgr.add.label                    "Fa-ka-ho">
+<!ENTITY certmgr.add.accesskey                "F">
+<!ENTITY certmgr.export.label                 "Export…">
+<!ENTITY certmgr.export.accesskey             "x">
+<!ENTITY certmgr.delete2.label                "Pepa…">
+<!ENTITY certmgr.delete2.accesskey            "P">
 <!ENTITY certmgr.delete_builtin.label         "Delete or Distrust…">
 <!ENTITY certmgr.delete_builtin.accesskey     "D">
 <!ENTITY certmgr.backup2.label                "Backup…">
 <!ENTITY certmgr.backup2.accesskey            "B">
 <!ENTITY certmgr.backupall2.label             "Jjamu copi otteereke ya zona…">
 <!ENTITY certmgr.backupall2.accesskey         "m">
-<!ENTITY certmgr.restore2.label               "Okujja ebweru…">
-<!ENTITY certmgr.restore2.accesskey           "k">
+<!ENTITY certmgr.restore2.label               "Impɔɔt…">
+<!ENTITY certmgr.restore2.accesskey           "I">
 <!ENTITY certmgr.details.label                "Ebbifuu bye santifikate">
 <!ENTITY certmgr.details.accesskey            "E">
 <!ENTITY certmgr.fields.label                 "Omuweddo gwe kifuu">

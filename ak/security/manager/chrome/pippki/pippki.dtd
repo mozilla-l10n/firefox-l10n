@@ -36,7 +36,7 @@
    - ***** END LICENSE BLOCK ***** -->
 <!-- Values for changepassword.xul -->
 
-<!ENTITY setPassword.title  "Change Master Password">
+<!ENTITY setPassword.title  "Sesa Ehintasɛmfua Panin">
 <!ENTITY setPassword.tokenName.label "Security Device">
 <!ENTITY setPassword.oldPassword.label "Current password:">
 <!ENTITY setPassword.newPassword.label "Akasumulizo akapya:">

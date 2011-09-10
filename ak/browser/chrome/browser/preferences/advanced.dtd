@@ -17,7 +17,7 @@
 <!ENTITY useAutoScroll.accesskey         "o">
 <!ENTITY useSmoothScrolling.label        "Yɛ apia tɔtee">
 <!ENTITY useSmoothScrolling.accesskey    "p">
-<!ENTITY allowHWAccel.label              "Fa hardware aksɛlɛrehyɛn di dwuma sɛ ɛda hɔ a">
+<!ENTITY allowHWAccel.label              "Fa hardware aksɛlɛrehyɛn di dwuma bere a ɛda hɔ biara">
 <!ENTITY allowHWAccel.accesskey          "h">
 <!ENTITY checkSpelling.label             "Feefee me spɛllen mu wɔ bere a meretaepe">
 <!ENTITY checkSpelling.accesskey         "t">
@@ -64,8 +64,8 @@
 <!ENTITY enableAppUpdate.accesskey       "F">
 <!ENTITY enableAddonsUpdate2.label       "Nkaho">
 <!ENTITY enableAddonsUpdate2.accesskey   "h">
-<!ENTITY enableSearchUpdate.label        "Ahwehwɛfidie">
-<!ENTITY enableSearchUpdate.accesskey    "f">
+<!ENTITY enableSearchUpdate.label        "Ahwehwɛmfidie">
+<!ENTITY enableSearchUpdate.accesskey    "m">
 <!ENTITY whenUpdatesFound.label          "Bere a wɔehu &brandShortName; ntoso:">
 <!ENTITY askMe.label                     "Bisa me nea mepɛsɛ meyɛ">
 <!ENTITY askMe.accesskey                 "i">

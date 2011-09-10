@@ -18,6 +18,7 @@ a ɛfa &brandShortName; ho a, hwɛ yɛ mmoa seat yi <a id='supportLink'> </a>.">
 <!ENTITY aboutSupport.appBasicsEnabledPlugins "Mplagin a wɔasɔ">
 <!ENTITY aboutSupport.appBasicsBuildConfig "esi nhyehyɛe">
 <!ENTITY aboutSupport.appBasicsUserAgent "Odi dwuma Gyinamusini">
+<!ENTITY aboutSupport.appBasicsCrashIDs "Egyae-yɛ amaneɛbɔ">
 
 <!ENTITY aboutSupport.show.label "Bue folda a ɛwɔ mu">
 <!-- LOCALIZATION NOTE (aboutSupport.showMac.label): This is the Mac-specific

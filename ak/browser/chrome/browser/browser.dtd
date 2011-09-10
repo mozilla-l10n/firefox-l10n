@@ -111,6 +111,8 @@ can reach it easily. -->
 <!ENTITY forwardCmd.label             "Enim">
 <!ENTITY forwardCmd.accesskey         "E">
 <!ENTITY forwardButton.tooltip        "Kɔ enim krataafa baako">
+<!ENTITY backForwardButtonMenu.tooltip "Kleke nifa anaa twe bra fam de kyerɛ abakɔsɛm">
+<!ENTITY backForwardButtonMenuMac.tooltip "Twe bra fam de kyerɛ abakɔsɛm">
 <!ENTITY reloadCmd.label              "Bue-bio">
 <!ENTITY reloadCmd.accesskey          "B">
 <!ENTITY reloadButton.tooltip         "Bue krataafa a wo wɔ so yi bio">
@@ -307,6 +309,7 @@ can reach it easily. -->
   Mac:  Cmd+K (cross platform binding)
         Cmd+Opt+F (platform convention)
   Win:  Ctrl+K (cross platform binding)
+        Ctrl+E (IE compat)
 
   We support Ctrl+K on all platforms now and advertise it in the menu since it is
   our standard - it is a "safe" choice since it is near no harmful keys like "W" as
@@ -318,6 +321,7 @@ can reach it easily. -->
  -->
 
 <!ENTITY searchFocus.commandkey       "k">
+<!ENTITY searchFocus.commandkey2      "e">
 <!ENTITY searchFocusUnix.commandkey   "j">
 
 <!ENTITY tabView.commandkey           "e">

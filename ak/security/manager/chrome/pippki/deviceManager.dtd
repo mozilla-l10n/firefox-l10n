@@ -35,35 +35,35 @@
    -
    - ***** END LICENSE BLOCK ***** -->
 
-<!ENTITY devmgr.title                           "Device Manager">
+<!ENTITY devmgr.title                           "Efidie Sohwɛfo">
 
-<!ENTITY devmgr.devlist.label                   "Security Modules and Devices">
-<!ENTITY devmgr.details.title                   "nhunumu">
-<!ENTITY devmgr.details.title2                  "Value">
-<!ENTITY devmgr.status.label                    "Status">
+<!ENTITY devmgr.devlist.label                   "Bambɔ Mɔdul ne Mfidie">
+<!ENTITY devmgr.details.title                   "Nhunumu">
+<!ENTITY devmgr.details.title2                  "Bo">
+<!ENTITY devmgr.status.label                    "Tebea">
 <!ENTITY devmgr.version.label                   "Vɛɛhyen">
 
-<!ENTITY devmgr.button.changeslotname.label     "Kyusa erinya dya poti">
-<!ENTITY devmgr.button.changeslotname.accesskey "K">
-<!ENTITY devmgr.button.login.label              "Nyingiza mu">
-<!ENTITY devmgr.button.login.accesskey          "m">
-<!ENTITY devmgr.button.logout.label             "Fuluma">
-<!ENTITY devmgr.button.logout.accesskey         "F">
-<!ENTITY devmgr.button.changepw.label           "Akasuumulizo ka kyuse">
-<!ENTITY devmgr.button.changepw.accesskey       "A">
-<!ENTITY devmgr.button.load.label               "Ttikaa">
-<!ENTITY devmgr.button.load.accesskey           "T">
-<!ENTITY devmgr.button.unload.label             "Ttikululaa">
-<!ENTITY devmgr.button.unload.accesskey         "T">
+<!ENTITY devmgr.button.changeslotname.label     "Sesa Tokuro Din">
+<!ENTITY devmgr.button.changeslotname.accesskey "S">
+<!ENTITY devmgr.button.login.label              "Lɔɔgo kɔ so">
+<!ENTITY devmgr.button.login.accesskey          "k">
+<!ENTITY devmgr.button.logout.label             "Lɔɔgo firi so">
+<!ENTITY devmgr.button.logout.accesskey         "L">
+<!ENTITY devmgr.button.changepw.label           "Sesa Ehintasɛmfua">
+<!ENTITY devmgr.button.changepw.accesskey       "h">
+<!ENTITY devmgr.button.load.label               "Hyehyɛ gu so">
+<!ENTITY devmgr.button.load.accesskey           "g">
+<!ENTITY devmgr.button.unload.label             "Yi nhehyɛe no">
+<!ENTITY devmgr.button.unload.accesskey         "n">
 <!ENTITY devmgr.button.fips.accesskey           "F">
 
-<!ENTITY loaddevice.info                        "Enter the information for the module you want to add.">
-<!ENTITY loaddevice.modname                     "Module Name:">
+<!ENTITY loaddevice.info                        "Kyerɛw infɔmehyɛn a ɛfa mɔdul a wopɛ sɛ wode bata ho.">
+<!ENTITY loaddevice.modname                     "Mɔdul Din:">
 <!ENTITY loaddevice.modname.accesskey           "M">
-<!ENTITY loaddevice.modname.default             "New PKCS#11 Module">
-<!ENTITY loaddevice.filename                    "Module filename:">
+<!ENTITY loaddevice.modname.default             "PKCS#11 Mɔdul Foforo">
+<!ENTITY loaddevice.filename                    "Mɔdul fael din:">
 <!ENTITY loaddevice.filename.accesskey          "f">
-<!ENTITY loaddevice.browse                      "Browse…">
+<!ENTITY loaddevice.browse                      "Brawse…">
 <!ENTITY loaddevice.browse.accesskey            "B">
 
-<!ENTITY loaddevice.title                       "Load PKCS#11 Device">
+<!ENTITY loaddevice.title                       "Hyehyɛ PKCS#11 Efidie">
