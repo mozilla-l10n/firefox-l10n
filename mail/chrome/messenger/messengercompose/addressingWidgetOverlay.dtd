@@ -1,9 +1,18 @@
+<!--
+# Translator(s):
+#
+# alexxed <alexxed@gmail.com>
+# stas <stas@nerd.ro>
+#
+-->
 <!-- address labels -->
 <!--LOCALIZATION NOTE addressingWidgetOverlay.dtd The basic mail/news composition headers as they are seen in UI -->
-<!ENTITY toAddr.label   "Către:"> 
+<!ENTITY toAddr.label   "Pentru:"> 
 <!ENTITY ccAddr.label   "Copie:"> 
 <!ENTITY bccAddr.label  "Copie ascunsă:"> 
 <!ENTITY replyAddr.label   "Răspuns către:"> 
 <!ENTITY newsgroupsAddr.label   "Grup news:"> 
 <!ENTITY followupAddr.label   "Urmare la:"> 
+
+
 

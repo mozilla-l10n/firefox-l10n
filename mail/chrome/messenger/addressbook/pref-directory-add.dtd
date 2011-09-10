@@ -1,5 +1,21 @@
 <!-- ***** BEGIN LICENSE BLOCK *****
  Version: MPL 1.1/GPL 2.0/LGPL 2.1
+<!--
+# Translator(s):
+#
+# xdaiana <xdaiana@yahoo.com>
+# janimo <jani@ubuntu.com>
+# alexxed <alexxed@gmail.com>
+# anonymous <anonymous@n.a>
+#
+-->
+<!--
+# Reviewer(s):
+#
+# raulmalea <raul.malea@gmail.com>
+# alexxed <alexxed@gmail.com>
+#
+-->
 
  The contents of this file are subject to the Mozilla Public License Version
  1.1 (the "License"); you may not use this file except in compliance with
@@ -36,13 +52,13 @@
  ***** END LICENSE BLOCK ***** -->
 
 <!ENTITY newDirectoryTitle.label           "Proprietăți server LDAP">
-<!ENTITY directoryName.label               "Nume:">
+<!ENTITY directoryName.label               "Nume: ">
 <!ENTITY directoryName.accesskey           "N">
 <!ENTITY directoryHostname.label           "Nume host:">
 <!ENTITY directoryHostname.accesskey       "h">
 <!ENTITY directoryBaseDN.label             "DN bază:">
 <!ENTITY directoryBaseDN.accesskey         "b">
-<!ENTITY findButton.label                  "Caută">
+<!ENTITY findButton.label                  "Cauta">
 <!ENTITY findButton.accesskey              "C">
 <!ENTITY directorySecure.label             "Folosește conexiune securizată (SSL)">
 <!ENTITY directorySecure.accesskey         "u">
@@ -77,3 +93,5 @@
      to vary somewhat with the language.
 -->
 <!ENTITY newDirectoryWidth                 "38em">
+
+

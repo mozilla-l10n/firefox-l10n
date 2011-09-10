@@ -1,5 +1,11 @@
 <!-- ***** BEGIN LICENSE BLOCK *****
  Version: MPL 1.1/GPL 2.0/LGPL 2.1
+<!--
+# Translator(s):
+#
+# janimo <jani@ubuntu.com>
+#
+-->
 
  The contents of this file are subject to the Mozilla Public License Version
  1.1 (the "License"); you may not use this file except in compliance with
@@ -44,10 +50,12 @@
    Either label could be set to null ("") if required grammatically.
 -->
 
-<!ENTITY download.label     "Descarcă">
+<!ENTITY download.label     "Descărcaţi">
 <!ENTITY download.accesskey "D">
 <!--LOCALIZATION NOTE (headers.label): see note for download.label -->
 <!ENTITY headers.label      "antete">
 <!ENTITY headers.accesskey  "a">
 <!ENTITY mark.label         "Marchează antetele rămase ca citite">
 <!ENTITY mark.accesskey     "M">
+
+

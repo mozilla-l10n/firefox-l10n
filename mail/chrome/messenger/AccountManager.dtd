@@ -1,4 +1,10 @@
 <!-- extracted from AccountManager.xul -->
+<!--
+# Translator(s):
+#
+# alexxed <alexxed@gmail.com>
+#
+-->
 
 <!ENTITY accountManagerTitle.label "Setările contului">
 
@@ -8,8 +14,8 @@
 <!ENTITY addMailAccountButton.accesskey "A">
 <!ENTITY addOtherAccountButton.label "Adaugă un alt cont…">
 <!ENTITY addOtherAccountButton.accesskey "o">
-<!ENTITY setDefaultButton.label "Marchează ca implicit">
-<!ENTITY setDefaultButton.accesskey "M">
+<!ENTITY setDefaultButton.label "Setează ca implicit">
+<!ENTITY setDefaultButton.accesskey "m">
 <!ENTITY removeButton.label "Șterge cont">
 <!ENTITY removeButton.accesskey "t">
 
@@ -24,3 +30,5 @@
      this window for en-US. -->
 <!ENTITY accountManager.size "width: 67em; height: 50em;">
 <!ENTITY accountTree.width "width: 17em;">
+
+

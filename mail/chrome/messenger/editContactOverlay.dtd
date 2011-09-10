@@ -1,7 +1,21 @@
+<!--
+# Translator(s):
+#
+# janimo <jani@ubuntu.com>
+# alexxed <alexxed@gmail.com>
+# raulmalea <raul.malea@gmail.com>
+#
+-->
+<!--
+# Reviewer(s):
+#
+# alexxed <alexxed@gmail.com>
+#
+-->
 <!ENTITY editContactPanelDeleteContact.label "Șterge">
 <!ENTITY editContactPanelDeleteContact.accesskey "t">
 
-<!ENTITY editContactName.label "Nume:">
+<!ENTITY editContactName.label "Numele:">
 <!ENTITY editContactName.accesskey "N">
 
 <!ENTITY editContactEmail.label "Email:">
@@ -10,10 +24,12 @@
 <!ENTITY editContactAddressBook.label "Agendă de contacte:">
 <!ENTITY editContactAddressBook.accesskey "A">
 
-<!ENTITY editContactPanelCancel.label "Renunță">
-<!ENTITY editContactPanelCancel.accesskey "R">
+<!ENTITY editContactPanelCancel.label "Anuleaz">
+<!ENTITY editContactPanelCancel.accesskey "A">
 
-<!ENTITY editContactPanelDone.label "Gata">
-<!ENTITY editContactPanelDone.accesskey "G">
+<!ENTITY editContactPanelDone.label "Pregătit">
+<!ENTITY editContactPanelDone.accesskey "g">
 
 <!ENTITY contactMoveDisabledWarning.description "Nu puteți schimba agenda de contacte fiindcă contactul e într-o listă de discuții prin email.">
+
+

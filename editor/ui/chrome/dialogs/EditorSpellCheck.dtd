@@ -34,9 +34,16 @@
    - the terms of any one of the MPL, the GPL or the LGPL.
    -
    - ***** END LICENSE BLOCK ***** -->
+<!--
+# Translator(s):
+#
+# Laudatti <Laudatti@gmail.com>
+# alexxed <alexxed@gmail.com>
+#
+-->
 
 <!-- Window title -->
-<!ENTITY windowTitle.label "Verificare ortografică">
+<!ENTITY windowTitle.label "Verificați ortografie">
 
 <!ENTITY misspelledWord.label "Cuvânt greșit:">
 <!ENTITY wordEditField.label "Înlocuiește cu:">
@@ -69,3 +76,5 @@
 <!ENTITY sendButton.accessKey "M">
 <!ENTITY languagePopup.label "Limbă:">
 <!ENTITY languagePopup.accessKey "L">
+
+

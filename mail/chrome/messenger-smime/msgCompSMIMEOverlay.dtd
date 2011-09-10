@@ -1,4 +1,10 @@
 <!--LOCALIZATION NOTE msgCompSMIMEOverlay.dtd UI for s/mime hooks in message composition -->
+<!--
+# Translator(s):
+#
+# alexxed <alexxed@gmail.com>
+#
+-->
 
 <!ENTITY menu_securityEncryptRequire.label "Criptează mesajul">
 <!ENTITY menu_securityEncryptRequire.accesskey "C">
@@ -14,3 +20,5 @@
 
 <!ENTITY menu_viewSecurityStatus.label "Informații securitate mesaj">
 <!ENTITY menu_viewSecurityStatus.accesskey "I">
+
+

@@ -1,5 +1,11 @@
 <!-- ***** BEGIN LICENSE BLOCK *****
  Version: MPL 1.1/GPL 2.0/LGPL 2.1
+<!--
+# Translator(s):
+#
+# anonymous <anonymous@n.a>
+#
+-->
 
  The contents of this file are subject to the Mozilla Public License Version
  1.1 (the "License"); you may not use this file except in compliance with
@@ -37,9 +43,9 @@
  ***** END LICENSE BLOCK ***** -->
 
 <!-- Title -->
-<!ENTITY mailListWindow.title           "Listă de expediție">
+<!ENTITY mailListWindow.title           "Lista de Corespondenta">
 <!-- Labels -->
-<!ENTITY addToAddressBook.label         "Adaugă la:">
+<!ENTITY addToAddressBook.label         "Adaugă în:">
 
 <!ENTITY ListName.label                 "Numele listei:">
 <!ENTITY ListNickName.label             "Nume scurt:">
@@ -54,4 +60,6 @@
 <!ENTITY ListName.accesskey             "l">
 <!ENTITY ListNickName.accesskey         "N">
 <!ENTITY ListDescription.accesskey      "e">
+
+
 

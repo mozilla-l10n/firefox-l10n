@@ -36,7 +36,7 @@
 
 <!ENTITY windowTitle.label "Proprietăți etichetă">
 
-<!ENTITY Settings.label "Setări">
+<!ENTITY Settings.label "Setari">
 <!ENTITY Settings.accesskey "S">
 
 <!ENTITY EditLabelText.label "Editare text:">
@@ -48,3 +48,5 @@
 
 <!ENTITY RemoveLabel.label "Elimină etichetă">
 <!ENTITY RemoveLabel.accesskey "E">
+
+

@@ -1,5 +1,26 @@
 <!-- ***** BEGIN LICENSE BLOCK *****
  Version: MPL 1.1/GPL 2.0/LGPL 2.1
+<!--
+# Translator(s):
+#
+# nicubunu <nicubunu@gmail.com>
+# alexxed <alexxed@gmail.com>
+# janimo <jani@ubuntu.com>
+# iulianv <iulianv@email.com>
+# manuelciosici <manuelrciosici@gmail.com>
+# turcan <nicturcan@gmail.com>
+# strainu <crangasi2001@yahoo.com>
+# rsandu <razvan.sandu@zando.ro>
+# secarica <orice@secarica.ro>
+#
+-->
+<!--
+# Reviewer(s):
+#
+# alexxed <alexxed@gmail.com>
+# raulmalea <raul.malea@gmail.com>
+#
+-->
 
  The contents of this file are subject to the Mozilla Public License Version
  1.1 (the "License"); you may not use this file except in compliance with
@@ -58,14 +79,14 @@
 
 <!ENTITY NameField1.label               "Prenume:">
 <!ENTITY NameField1.accesskey           "P">
-<!ENTITY NameField2.label               "Nume de familie:">
-<!ENTITY NameField2.accesskey           "f">
+<!ENTITY NameField2.label               "Nume:">
+<!ENTITY NameField2.accesskey           "N">
 <!ENTITY PhoneticField1.label           "Fonetic:">
 <!ENTITY PhoneticField2.label           "Fonetic:">
-<!ENTITY DisplayName.label              "Afișat ca:">
-<!ENTITY DisplayName.accesskey          "A">
-<!ENTITY preferDisplayName.label        "Always prefer display name over message header">
-<!ENTITY preferDisplayName.accesskey    "y">
+<!ENTITY DisplayName.label              "Ecran:">
+<!ENTITY DisplayName.accesskey          "a">
+<!ENTITY preferDisplayName.label        "Preferă afișarea numelui față de antetul mesajului">
+<!ENTITY preferDisplayName.accesskey    "P">
 <!ENTITY NickName.label                 "Pseudonim:">
 <!ENTITY NickName.accesskey             "n">
 
@@ -78,15 +99,15 @@
 <!ENTITY PlainText.label                "Text">
 <!ENTITY HTML.label                     "HTML">
 <!ENTITY Unknown.label                  "Necunoscut">
-<!ENTITY ScreenName.label               "Nume pt. mesagerie:">
-<!ENTITY ScreenName.accesskey           "g">
+<!ENTITY ScreenName.label               "_Nume afișat:">
+<!ENTITY ScreenName.accesskey           "N">
 
 <!ENTITY allowRemoteContent1.label      "Permite conținutul aflat la distanță.">
 <!ENTITY allowRemoteContent1.accesskey  "r">
 <!ENTITY allowRemoteContent1.tooltip    "În mesajele HTML se poate include conținut aflat pe internet. Deschiderea unor astfel de mesaje va deschide o conexiune la sursa acestui conținut. Acest lucru poate fi folosit pentru a detecta dacă mesajul a fost citit. Bifând această opțiune veți permite încărcarea conținutului de pe internet în mesajele de la această persoană.">
 
-<!ENTITY WorkPhone.label                "Serviciu:">
-<!ENTITY WorkPhone.accesskey            "S">
+<!ENTITY WorkPhone.label                "Lucru:">
+<!ENTITY WorkPhone.accesskey            "L">
 <!ENTITY HomePhone.label                "Acasă:">
 <!ENTITY HomePhone.accesskey            "c">
 <!ENTITY FaxNumber.label                "Fax:">
@@ -102,13 +123,13 @@
 <!ENTITY HomeAddress.accesskey          "A">
 <!ENTITY HomeAddress2.label             "">
 <!ENTITY HomeAddress2.accesskey         "">
-<!ENTITY HomeCity.label                 "Localitate:">
-<!ENTITY HomeCity.accesskey             "L">
-<!ENTITY HomeState.label                "Județ/provincie:">
+<!ENTITY HomeCity.label                 "Oraș:">
+<!ENTITY HomeCity.accesskey             "O">
+<!ENTITY HomeState.label                "Județ:">
 <!ENTITY HomeState.accesskey            "J">
 <!ENTITY HomeZipCode.label              "Cod poștal:">
 <!ENTITY HomeZipCode.accesskey          "C">
-<!ENTITY HomeCountry.label              "Țară:">
+<!ENTITY HomeCountry.label              "Ţara:">
 <!ENTITY HomeCountry.accesskey          "a">
 <!ENTITY HomeWebPage.label              "Pagină web:">
 <!ENTITY HomeWebPage.accesskey          "P">
@@ -126,30 +147,30 @@
 <!ENTITY JobTitle.accesskey             "T">
 <!ENTITY Department.label               "Departament:">
 <!ENTITY Department.accesskey           "D">
-<!ENTITY Company.label                  "Organizație:">
+<!ENTITY Company.label                  "Organizaţie:">
 <!ENTITY Company.accesskey              "O">
 <!ENTITY WorkAddress.label              "Adresă:">
 <!ENTITY WorkAddress.accesskey          "A">
 <!ENTITY WorkAddress2.label             "">
 <!ENTITY WorkAddress2.accesskey         "">
-<!ENTITY WorkCity.label                 "Localitate:">
-<!ENTITY WorkCity.accesskey             "L">
-<!ENTITY WorkState.label                "Județ/provincie:">
+<!ENTITY WorkCity.label                 "Oraș:">
+<!ENTITY WorkCity.accesskey             "O">
+<!ENTITY WorkState.label                "Județ:">
 <!ENTITY WorkState.accesskey            "J">
 <!ENTITY WorkZipCode.label              "Cod poștal:">
 <!ENTITY WorkZipCode.accesskey          "C">
-<!ENTITY WorkCountry.label              "Țară:">
+<!ENTITY WorkCountry.label              "Ţara:">
 <!ENTITY WorkCountry.accesskey          "a">
 <!ENTITY WorkWebPage.label              "Pagină web:">
 <!ENTITY WorkWebPage.accesskey          "P">
 
 <!ENTITY Other.tab                      "Altele">
 <!ENTITY Other.accesskey                "A">
-<!ENTITY Custom1.label                  "Diverse 1:">
+<!ENTITY Custom1.label                  "Personalizat 1:">
 <!ENTITY Custom1.accesskey              "1">
-<!ENTITY Custom2.label                  "Diverse 2:">
+<!ENTITY Custom2.label                  "Personalizat 2:">
 <!ENTITY Custom2.accesskey              "2">
-<!ENTITY Custom3.label                  "Diverse 3:">
+<!ENTITY Custom3.label                  "Personalizat 3:">
 <!ENTITY Custom3.accesskey              "3">
 <!ENTITY Custom4.label                  "Diverse 4:">
 <!ENTITY Custom4.accesskey              "4">
@@ -164,10 +185,12 @@
 <!ENTITY DefaultPhoto.label             "Implicit">
 <!ENTITY PhotoFile.label                "Pe acest calculator">
 <!ENTITY PhotoFile.accesskey            "P">
-<!ENTITY BrowsePhoto.label              "Răsfoiește">
+<!ENTITY BrowsePhoto.label              "Răsfoieşte">
 <!ENTITY BrowsePhoto.accesskey          "R">
 <!ENTITY PhotoURL.label                 "Pe web">
 <!ENTITY PhotoURL.accesskey             "b">
 <!ENTITY PhotoURL.placeholder           "Inserați sau tastați adresa web a pozei">
-<!ENTITY UpdatePhoto.label              "Actualizează">
-<!ENTITY UpdatePhoto.accesskey          "u">
+<!ENTITY UpdatePhoto.label              "Împrospătare">
+<!ENTITY UpdatePhoto.accesskey          "m">
+
+

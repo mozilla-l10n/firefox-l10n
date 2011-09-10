@@ -34,6 +34,12 @@
    - the terms of any one of the MPL, the GPL or the LGPL.
    -
    - ***** END LICENSE BLOCK ***** -->
+<!--
+# Reviewer(s):
+#
+# alexxed <alexxed@gmail.com>
+#
+-->
 
 <!ENTITY windowTitle.label "Culoare">
 <!ENTITY lastPickedColor.label "Ultima culoare aleasă">
@@ -53,3 +59,5 @@
 <!ENTITY table.accessKey "T">
 <!ENTITY cell.label "Celule">
 <!ENTITY cell.accessKey "C">
+
+

@@ -1,3 +1,18 @@
+<!--
+# Translator(s):
+#
+# eddyp <eddy.petrisor@gmail.com>
+# alexxed <alexxed@gmail.com>
+# evinteler <emil_vinteler2000@yahoo.com>
+# turcan <nicturcan@gmail.com>
+#
+-->
+<!--
+# Reviewer(s):
+#
+# alexxed <alexxed@gmail.com>
+#
+-->
 <!ENTITY  fontsAndEncodingsDialog.title           "Fonturi și codări">
 <!ENTITY  window.width                            "40em">
 <!ENTITY  window.macWidth                         "47em">
@@ -74,3 +89,5 @@
 <!ENTITY viewDefaultCharsetList.accesskey  "i">
 <!ENTITY replyInDefaultCharset2.label     "Când e posibil, folosește în răspunsuri codarea de caractere implicită">
 <!ENTITY replyInDefaultCharset2.accesskey "C">
+
+

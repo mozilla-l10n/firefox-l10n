@@ -34,9 +34,17 @@
    - the terms of any one of the MPL, the GPL or the LGPL.
    -
    - ***** END LICENSE BLOCK ***** -->
+<!--
+# Translator(s):
+#
+# stas <stas@nerd.ro>
+#
+-->
 
 <!ENTITY messageMarkByDate.label "Marcare mesaje citite după dată">
 <!ENTITY markByDateLower.label "Marchează ca citite mesajele de la:">
 <!ENTITY markByDateLower.accesskey "d">
-<!ENTITY markByDateUpper.label "Până la:">
+<!ENTITY markByDateUpper.label "Pentru:">
 <!ENTITY markByDateUpper.accesskey "P">
+
+

@@ -1,9 +1,18 @@
+<!--
+# Translator(s):
+#
+# rsandu <razvan.sandu@zando.ro>
+# alexxed <alexxed@gmail.com>
+#
+-->
 
 <!--LOCALIZATION NOTE (editorCheck.label): DONT_TRANSLATE -->
-<!ENTITY editorCheck.label "Editor">
-<!ENTITY editorCheck.accesskey "E">
+<!ENTITY editorCheck.label "Composer">
+<!ENTITY editorCheck.accesskey "C">
 
 <!ENTITY compose.label "Editor">
 <!ENTITY editing.label "Setări pentru pagini noi">
 <!ENTITY toolbars.label "Bare de unelte">
 <!ENTITY publish.label "Publicare">
+
+

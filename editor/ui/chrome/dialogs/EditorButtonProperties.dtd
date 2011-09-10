@@ -44,16 +44,18 @@
 <!ENTITY reset.value "Resetează">
 <!ENTITY button.value "buton">
 
-<!ENTITY ButtonName.label "Nume:">
+<!ENTITY ButtonName.label "Numele:">
 <!ENTITY ButtonName.accesskey "N">
 <!ENTITY ButtonValue.label "Valoare:">
 <!ENTITY ButtonValue.accesskey "V">
 <!ENTITY tabIndex.label "Index tab:">
 <!ENTITY tabIndex.accesskey "I">
-<!ENTITY ButtonDisabled.label "Dezactivat">
-<!ENTITY ButtonDisabled.accesskey "D">
+<!ENTITY ButtonDisabled.label "Inactivat">
+<!ENTITY ButtonDisabled.accesskey "I">
 <!ENTITY AccessKey.label "Tastă acces:">
 <!ENTITY AccessKey.accesskey "a">
 
 <!ENTITY RemoveButton.label "Elimină buton">
 <!ENTITY RemoveButton.accesskey "E">
+
+

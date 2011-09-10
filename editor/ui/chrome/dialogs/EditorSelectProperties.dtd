@@ -33,6 +33,20 @@
    - the terms of any one of the MPL, the GPL or the LGPL.
    -
    - ***** END LICENSE BLOCK ***** -->
+<!--
+# Translator(s):
+#
+# alexxed <alexxed@gmail.com>
+# mirceade <mirceade@yahoo.com>
+#
+-->
+<!--
+# Reviewer(s):
+#
+# alexxed <alexxed@gmail.com>
+# raulmalea <raul.malea@gmail.com>
+#
+-->
 
 <!ENTITY windowTitle.label "Proprietăți listă selecție">
 
@@ -43,16 +57,16 @@
 <!ENTITY SelectSize.accesskey "l">
 <!ENTITY SelectMultiple.label "Selecție multiplă">
 <!ENTITY SelectMultiple.accesskey "m">
-<!ENTITY SelectDisabled.label "Dezactivat">
-<!ENTITY SelectDisabled.accesskey "D">
+<!ENTITY SelectDisabled.label "Inactivat">
+<!ENTITY SelectDisabled.accesskey "I">
 <!ENTITY SelectTabIndex.label "Index tab:">
 <!ENTITY SelectTabIndex.accesskey "t">
 
 <!ENTITY OptGroup.label "Grup opțiuni">
 <!ENTITY OptGroupLabel.label "Etichetă:">
 <!ENTITY OptGroupLabel.accesskey "E">
-<!ENTITY OptGroupDisabled.label "Dezactivat">
-<!ENTITY OptGroupDisabled.accesskey "D">
+<!ENTITY OptGroupDisabled.label "Inactivat">
+<!ENTITY OptGroupDisabled.accesskey "I">
 
 <!ENTITY Option.label "Opțiune">
 <!ENTITY OptionText.label "Text:">
@@ -61,8 +75,8 @@
 <!ENTITY OptionValue.accesskey "V">
 <!ENTITY OptionSelected.label "Inițial selectată">
 <!ENTITY OptionSelected.accesskey "s">
-<!ENTITY OptionDisabled.label "Dezactivat">
-<!ENTITY OptionDisabled.accesskey "D">
+<!ENTITY OptionDisabled.label "Inactivat">
+<!ENTITY OptionDisabled.accesskey "I">
 
 <!ENTITY TextHeader.label "Text">
 <!ENTITY ValueHeader.label "Valoare">
@@ -70,11 +84,13 @@
 
 <!ENTITY AddOption.label "Adaugă opțiune">
 <!ENTITY AddOption.accesskey "o">
-<!ENTITY AddOptGroup.label "Adaugă grup">
+<!ENTITY AddOptGroup.label "Adaugă un grup">
 <!ENTITY AddOptGroup.accesskey "g">
-<!ENTITY RemoveElement.label "Șterge">
+<!ENTITY RemoveElement.label "Elimină">
 <!ENTITY RemoveElement.accesskey "r">
-<!ENTITY MoveElementUp.label "Mută sus">
+<!ENTITY MoveElementUp.label "Mută în s_us">
 <!ENTITY MoveElementUp.accesskey "s">
-<!ENTITY MoveElementDown.label "Mută jos">
+<!ENTITY MoveElementDown.label "Mută în j_os">
 <!ENTITY MoveElementDown.accesskey "j">
+
+

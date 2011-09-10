@@ -1,5 +1,13 @@
 <!-- ***** BEGIN LICENSE BLOCK *****
  Version: MPL 1.1/GPL 2.0/LGPL 2.1
+<!--
+# Translator(s):
+#
+# Laudatti <Laudatti@gmail.com>
+# alexxed <alexxed@gmail.com>
+# stas <stas@nerd.ro>
+#
+-->
 
  The contents of this file are subject to the Mozilla Public License Version
  1.1 (the "License"); you may not use this file except in compliance with
@@ -36,20 +44,22 @@
  ***** END LICENSE BLOCK ***** -->
 
 <!ENTITY subscribeDialog.title        "Abonare">
-<!ENTITY subscribeButton.label        "Abonează">
-<!ENTITY subscribeButton.accesskey    "A">
-<!ENTITY unsubscribeButton.label      "Dezabonează">
-<!ENTITY unsubscribeButton.accesskey  "D">
+<!ENTITY subscribeButton.label        "Subscrie">
+<!ENTITY subscribeButton.accesskey    "S">
+<!ENTITY unsubscribeButton.label      "Anulează subscrierea">
+<!ENTITY unsubscribeButton.accesskey  "A">
 <!ENTITY newGroupsTab.label           "Grupuri noi">
 <!ENTITY newGroupsTab.accesskey       "n">
-<!ENTITY refreshButton.label          "Actualizează">
+<!ENTITY refreshButton.label          "Actualizare">
 <!ENTITY refreshButton.accesskey      "u">
-<!ENTITY stopButton.label             "Oprește">
+<!ENTITY stopButton.label             "Opreşte">
 <!ENTITY stopButton.accesskey         "t">
 <!ENTITY server.label                 "Cont:">
 <!ENTITY server.accesskey             "C">
 <!ENTITY subscribedHeader.label       "Abonare">
 <!-- commenting out until bug 38906 is fixed 
-<!ENTITY messagesHeader.label         "Mesaje"> -->
+--><!ENTITY messagesHeader.label         "Mesaje"> 
 <!ENTITY namefield.label              "Arată grupurile care conțin:">
 <!ENTITY namefield.accesskey          "r">
+
+

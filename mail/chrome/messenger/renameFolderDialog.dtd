@@ -39,5 +39,7 @@
 <!ENTITY renameFolderDialog.title          "Redenumire dosar">
 <!ENTITY rename.label                      "Introduceți noul nume pentru dosar:">
 <!ENTITY rename.accesskey                  "e">
-<!ENTITY accept.label                      "Redenumește">
+<!ENTITY accept.label                      "Redenumeşte">
 <!ENTITY accept.accesskey                  "R">
+
+

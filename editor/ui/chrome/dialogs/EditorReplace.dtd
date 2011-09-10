@@ -35,6 +35,13 @@
    - the terms of any one of the MPL, the GPL or the LGPL.
    -
    - ***** END LICENSE BLOCK ***** -->
+<!--
+# Translator(s):
+#
+# alexxed <alexxed@gmail.com>
+# alexef <alex@eftimie.ro>
+#
+-->
 
 <!-- extracted from EdReplace.xul -->
 
@@ -45,16 +52,18 @@
 <!ENTITY replaceField.accesskey "n">
 <!ENTITY caseSensitiveCheckbox.label "Ține cont de majuscule">
 <!ENTITY caseSensitiveCheckbox.accesskey "c">
-<!ENTITY wrapCheckbox.label "Împrejur">
+<!ENTITY wrapCheckbox.label "Continuă căutarea de la început">
 <!ENTITY wrapCheckbox.accesskey "p">
-<!ENTITY backwardsCheckbox.label "Caută înapoi">
+<!ENTITY backwardsCheckbox.label "Căutare în direcție opusă">
 <!ENTITY backwardsCheckbox.accesskey "a">
-<!ENTITY findNextButton.label "Caută următorul">
-<!ENTITY findNextButton.accesskey "C">
-<!ENTITY replaceButton.label "Înlocuiește">
+<!ENTITY findNextButton.label "Găsește Următor">
+<!ENTITY findNextButton.accesskey "G">
+<!ENTITY replaceButton.label "~Înlocuiește">
 <!ENTITY replaceButton.accesskey "o">
 <!ENTITY replaceAndFindButton.label "Înlocuiește și caută">
 <!ENTITY replaceAndFindButton.accesskey "i">
-<!ENTITY replaceAllButton.label "Înlocuiește toate">
+<!ENTITY replaceAllButton.label "Înlocuie_ște peste tot">
 <!ENTITY replaceAllButton.accesskey "t">
 <!ENTITY closeButton.label "Închide">
+
+

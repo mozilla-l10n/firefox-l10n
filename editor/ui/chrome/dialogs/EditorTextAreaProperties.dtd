@@ -33,6 +33,18 @@
    - the terms of any one of the MPL, the GPL or the LGPL.
    -
    - ***** END LICENSE BLOCK ***** -->
+<!--
+# Translator(s):
+#
+# nicubunu <nicubunu@gmail.com>
+#
+-->
+<!--
+# Reviewer(s):
+#
+# alexxed <alexxed@gmail.com>
+#
+-->
 
 <!ENTITY windowTitle.label "Proprietăți zonă text">
 
@@ -63,3 +75,5 @@
 <!ENTITY WrapSoft.value "'Soft'">
 <!ENTITY WrapPhysical.value "Fizic">
 <!ENTITY WrapVirtual.value "Virtual">
+
+

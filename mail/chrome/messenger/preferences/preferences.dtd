@@ -1,3 +1,16 @@
+<!--
+# Translator(s):
+#
+# alexxed <alexxed@gmail.com>
+# nicubunu <nicubunu@gmail.com>
+#
+-->
+<!--
+# Reviewer(s):
+#
+# alexxed <alexxed@gmail.com>
+#
+-->
 <!ENTITY  prefWindow.titleWin     "Opțiuni">
 <!ENTITY  prefWindow.titleGNOME   "Preferințe &brandShortName;">
 <!ENTITY  prefWindow.styleWindows "width: 53em; min-height: 38.5em;">
@@ -10,3 +23,5 @@
 <!ENTITY paneAttachments.title    "Anexe">
 <!ENTITY paneSecurity.title       "Securitate">
 <!ENTITY paneAdvanced.title       "Avansat">
+
+

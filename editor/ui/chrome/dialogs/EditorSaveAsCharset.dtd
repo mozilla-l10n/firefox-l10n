@@ -34,6 +34,13 @@
    - the terms of any one of the MPL, the GPL or the LGPL.
    -
    - ***** END LICENSE BLOCK ***** -->
+<!--
+# Reviewer(s):
+#
+# alexxed <alexxed@gmail.com>
+# raulmalea <raul.malea@gmail.com>
+#
+-->
 
 <!-- These strings are generic to all or most of the editor's dialogs. -->
 
@@ -45,6 +52,8 @@
 <!ENTITY documentCharsetTitle.label "Codare caractere">
 <!ENTITY documentCharsetDesc.label "Alegeți codarea de caractere în care doriți să salvați documentul:">
 <!ENTITY documentExportToText.label "Exportă ca text">
+
+
 
 
 

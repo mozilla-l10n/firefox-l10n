@@ -1,5 +1,19 @@
 <!-- ***** BEGIN LICENSE BLOCK *****
  Version: MPL 1.1/GPL 2.0/LGPL 2.1
+<!--
+# Translator(s):
+#
+# alexxed <alexxed@gmail.com>
+# nicubunu <nicubunu@gmail.com>
+# Laudatti <Laudatti@gmail.com>
+#
+-->
+<!--
+# Reviewer(s):
+#
+# alexxed <alexxed@gmail.com>
+#
+-->
 
  The contents of this file are subject to the Mozilla Public License Version
  1.1 (the "License"); you may not use this file except in compliance with
@@ -44,16 +58,16 @@ LOCALIZATION NOTE : Do not translate any of the occurrences of the word
 "&brandShortName;" below.
 -->
 
-<!ENTITY importDialog.windowTitle "Import">
+<!ENTITY importDialog.windowTitle "Importează">
 <!ENTITY importAll.label          "Importă totul">
 <!ENTITY importAll.accesskey      "I">
-<!ENTITY importMail.label         "Corespondență">
-<!ENTITY importMail.accesskey     "C">
+<!ENTITY importMail.label         "Poştă">
+<!ENTITY importMail.accesskey     "P">
 <!ENTITY importAddressbook.label  "Agende de contacte">
 <!ENTITY importAddressbook.accesskey "A">
-<!ENTITY importSettings.label     "Setări">
+<!ENTITY importSettings.label     "Setari">
 <!ENTITY importSettings.accesskey "S">
-<!ENTITY importFilters.label      "Filtre">
+<!ENTITY importFilters.label      "Filtrează după:">
 <!ENTITY importFilters.accesskey  "F">
 
 <!ENTITY  window.width            "40em">
@@ -77,3 +91,5 @@ LOCALIZATION NOTE : Do not translate any of the occurrences of the word
 
 <!ENTITY title.label              "Titlu">
 <!ENTITY processing.label         "Import…">
+
+

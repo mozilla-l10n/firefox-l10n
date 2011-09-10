@@ -1,11 +1,27 @@
 <!-- extracted from am-server-top.xul -->
+<!--
+# Translator(s):
+#
+# nicubunu <nicubunu@gmail.com>
+# alexxed <alexxed@gmail.com>
+# janimo <jani@ubuntu.com>
+# Laudatti <Laudatti@gmail.com>
+# rz <rz@r2dev.ro>
+#
+-->
+<!--
+# Reviewer(s):
+#
+# alexxed <alexxed@gmail.com>
+#
+-->
 
 <!ENTITY securitySettings.label "Setări de securitate">
 <!ENTITY serverSettings.label "Setările serverului">
 <!ENTITY serverType.label "Tip server:">
-<!ENTITY serverName.label "Nume server:">
+<!ENTITY serverName.label "Nume &&&&&&&&&server:">
 <!ENTITY serverName.accesskey "s">
-<!ENTITY userName.label "Nume utilizator:">
+<!ENTITY userName.label "Nume Utilizator:">
 <!ENTITY userName.accesskey "u">
 <!ENTITY port.label "Port:">
 <!ENTITY port.accesskey "P">
@@ -24,7 +40,7 @@
 <!ENTITY connectionSecurityType-1.label "STARTTLS, dacă e disponibil">
 <!ENTITY connectionSecurityType-2.label "STARTTLS">
 <!ENTITY connectionSecurityType-3.label "SSL/TLS">
-<!ENTITY authMethod.label "Authentication method:">
+<!ENTITY authMethod.label "Metoda de autentificare:">
 <!ENTITY authMethod.accesskey "i">
 <!ENTITY leaveOnServer.label "Păstrează mesajele pe server">
 <!ENTITY leaveOnServer.accesskey "z">
@@ -59,7 +75,7 @@
 <!ENTITY maxMessagesStart.label "Întreabă-mă înainte de a descărca mai mult de">
 <!ENTITY maxMessagesStart.accesskey "m">
 <!-- LOCALIZATION NOTE (maxMessagesEnd.label) : see note for maxMessagesStart.label -->
-<!ENTITY maxMessagesEnd.label "mesaje">
+<!ENTITY maxMessagesEnd.label "mesaj">
 <!ENTITY alwaysAuthenticate.label "Solicită întotdeauna autentificare la conectarea la acest server">
 <!ENTITY alwaysAuthenticate.accesskey "a">
 <!ENTITY newsrcFilePath.label "Fișier newsrc:">
@@ -67,12 +83,14 @@
 <!ENTITY abbreviate.label "Arată numele grupurilor de discuții în panoul cu dosare ca:">
 <!ENTITY abbreviateOn.label "Nume complete (ex: „netscape.public.mozilla.mail-news”)">
 <!ENTITY abbreviateOff.label "Nume abreviate (ex: „n.p.m.mail-news”)">
-<!ENTITY advancedButton.label "Avansat…">
-<!ENTITY advancedButton.accesskey "v">
+<!ENTITY advancedButton.label "Fonturi…">
+<!ENTITY advancedButton.accesskey "F">
 <!ENTITY serverDefaultCharset.label "Codare caractere implicită:">
 <!ENTITY localFolderPicker.label "Alegeți directorul local">
-<!ENTITY browseFolder.label "Răsfoiește…">
+<!ENTITY browseFolder.label "Răsfoiește...">
 <!ENTITY browseFolder.accesskey "R">
 <!ENTITY newsrcPicker.label "Selectați fișierul newsrc">
-<!ENTITY browseNewsrc.label "Răsfoiește…">
+<!ENTITY browseNewsrc.label "Răsfoiește...">
 <!ENTITY browseNewsrc.accesskey "e">
+
+

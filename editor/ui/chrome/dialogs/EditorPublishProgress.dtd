@@ -35,6 +35,12 @@
    - the terms of any one of the MPL, the GPL or the LGPL.
    -
    - ***** END LICENSE BLOCK ***** -->
+<!--
+# Translator(s):
+#
+# alexxed <alexxed@gmail.com>
+#
+-->
 
 <!-- Window title -->
 <!ENTITY siteUrl.label         "Adresă sait:">
@@ -48,3 +54,5 @@
 
 <!ENTITY keepOpen              "Păstrează deschisă fereastra după terminarea publicării.">
 <!ENTITY closeButton.label     "Închide">
+
+

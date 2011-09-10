@@ -37,6 +37,22 @@
    - the terms of any one of the MPL, the GPL or the LGPL.
    -
    - ***** END LICENSE BLOCK ***** -->
+<!--
+# Translator(s):
+#
+# rz <rz@r2dev.ro>
+# alexxed <alexxed@gmail.com>
+# Laudatti <Laudatti@gmail.com>
+# manuelciosici <manuelrciosici@gmail.com>
+#
+-->
+<!--
+# Reviewer(s):
+#
+# alexxed <alexxed@gmail.com>
+# raulmalea <raul.malea@gmail.com>
+#
+-->
 
 <!ENTITY folderProps.windowtitle.label           "Proprietăți">
 
@@ -46,11 +62,11 @@
 <!ENTITY folderCharsetOverride.label             "Aplică această codare implicit tuturor mesajelor din dosar (se vor ignora setările din mesaje precum și detecția automată)">
 <!ENTITY folderCharsetOverride.accesskey         "A">
 <!ENTITY folderRebuildSummaryFileTip2.label      "Reconstruiește indecșii fișierului de sumar">
-<!ENTITY folderRebuildSummaryFile2.label         "Repair Folder">
+<!ENTITY folderRebuildSummaryFile2.label         "Repară dosar">
 <!ENTITY folderRebuildSummaryFile2.accesskey     "R">
-<!ENTITY folderRebuildSummaryFile.explanation    "Sometimes the folder index (.msf) file becomes damaged and messages may appear missing or deleted messages continue showing; repairing the folder may fix these issues.">
-<!ENTITY folderIncludeInGlobalSearch.label       "Include messages in this folder in Global Search results">
-<!ENTITY folderIncludeInGlobalSearch.accesskey   "G">
+<!ENTITY folderRebuildSummaryFile.explanation    "Uneori fișierul index de dosar (.msf) se deteriorează și aparent lipsesc mesaje sau apar mesaje care au fost șterse; aceste probleme pot fi rezolvate prin repararea dosarului.">
+<!ENTITY folderIncludeInGlobalSearch.label       "Include mesajele din acest dosar în rezultatele căutării globale">
+<!ENTITY folderIncludeInGlobalSearch.accesskey   "g">
      
 <!ENTITY retention.label "Politica de păstrare">
 <!ENTITY retentionUseAccount.label  "Folosește setările contului meu">
@@ -62,7 +78,7 @@
 <!ENTITY retentionCleanupPop.label "Pentru a câștiga spațiu pe disc, mesajele vechi pot fi șterse pentru totdeauna, inclusiv originalele de pe server.">
 <!ENTITY retentionDeleteMsg.label "Șterge mesajele mai vechi de">
 <!ENTITY retentionDeleteMsg.accesskey "m">
-<!ENTITY retentionKeepAll.label "Nu șterge nici un mesaj">
+<!ENTITY retentionKeepAll.label "Nu șterge niciun mesaj">
 <!ENTITY retentionKeepAll.accesskey "a">
 <!ENTITY retentionKeepRecent.label "Șterge tot cu excepția celor mai recente">
 <!ENTITY retentionKeepRecent.accesskey "l">
@@ -72,7 +88,7 @@
 <!ENTITY retentionApplyToFlagged.accesskey "e">
 
 <!ENTITY folderSynchronizationTab.label          "Sincronizare">
-<!ENTITY folderCheckForNewMessages2.label         "When getting new messages for this account, always check this folder">
+<!ENTITY folderCheckForNewMessages2.label         "La descărcarea mesajelor pentru acest cont, verificați întotdeauna acest dosar">
 <!ENTITY folderCheckForNewMessages2.accesskey     "c">
 
 <!ENTITY offlineFolder.check.label               "Selectează acest dosar pentru utilizare în mod deconectat">
@@ -85,10 +101,10 @@
 <!ENTITY offlineNewsgroup.button.label           "Descarcă acum">
 <!ENTITY offlineNewsgroup.button.accesskey       "D">
 
-<!ENTITY folderProps.name.label                  "Nume:">
+<!ENTITY folderProps.name.label                  "Numele:">
 <!ENTITY folderProps.name.accesskey              "N">
-<!ENTITY folderProps.location.label              "Amplasare:">
-<!ENTITY folderProps.location.accesskey          "l">
+<!ENTITY folderProps.location.label              "Locația:">
+<!ENTITY folderProps.location.accesskey          "L">
 
 <!ENTITY folderSharingTab.label                  "Partajare">
 <!ENTITY privileges.button.label                 "Privilegii…">
@@ -100,3 +116,5 @@
 <!ENTITY folderQuotaRoot.label                   "Rădăcină cotă:">
 <!ENTITY folderQuotaUsage.label                  "Utilizare:">
 <!ENTITY folderQuotaStatus.label                 "Stare:">
+
+

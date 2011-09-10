@@ -34,6 +34,12 @@
    - the terms of any one of the MPL, the GPL or the LGPL.
    -
    - ***** END LICENSE BLOCK ***** -->
+<!--
+# Translator(s):
+#
+# janimo <jani@ubuntu.com>
+#
+-->
 
 <!ENTITY AdvancedEditButton.label "Editare avansată…">
 <!ENTITY AdvancedEditButton.accessKey "E">
@@ -49,3 +55,5 @@
 <!-- Shared by Link and Image dialogs -->
 <!ENTITY LinkURLEditField.label "Introduceți o locație de pagină web, un fișier local sau alegeți o ancoră cu nume sau un subtitlu din următoarea listă:">
 <!ENTITY LinkURLEditField.accessKey "L">
+
+

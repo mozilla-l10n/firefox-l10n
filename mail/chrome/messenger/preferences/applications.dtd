@@ -1,7 +1,13 @@
+<!--
+# Reviewer(s):
+#
+# alexxed <alexxed@gmail.com>
+#
+-->
 <!ENTITY  typeColumn.label            "Tip de conținut">
 <!ENTITY  typeColumn.accesskey        "T">
 
-<!ENTITY  actionColumn2.label         "Acțiune">
+<!ENTITY  actionColumn2.label         "Acţiune">
 <!ENTITY  actionColumn2.accesskey     "A">
 
 <!ENTITY  focusSearch1.key            "f">
@@ -17,3 +23,5 @@
 <!ENTITY chooseFolderWin.accesskey    "R">
 <!ENTITY chooseFolderMac.label        "Alege…">
 <!ENTITY chooseFolderMac.accesskey    "A">
+
+

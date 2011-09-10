@@ -1,4 +1,10 @@
 <!--LOCALIZATION NOTE msgCompSecurityInfo.dtd UI for viewing security status when composing a message -->
+<!--
+# Translator(s):
+#
+# alexxed <alexxed@gmail.com>
+#
+-->
 
 <!ENTITY title.label "Securitate mesaj">
 <!ENTITY subject.plaintextWarning "Atenție: Subiectele mesajelor nu sunt niciodată criptate.">
@@ -6,9 +12,11 @@
 <!ENTITY status.signed "Semnat electronic:">
 <!ENTITY status.encrypted "Criptat:">
 <!ENTITY status.certificates "Certificate:">
-<!ENTITY view.label "Vezi">
+<!ENTITY view.label "Vizualizați">
 <!ENTITY view.accesskey "V">
 <!ENTITY tree.recipient "Destinatar">
 <!ENTITY tree.status "Stare">
 <!ENTITY tree.issuedDate "Emis la:">
 <!ENTITY tree.expiresDate "Expiră la:">
+
+
