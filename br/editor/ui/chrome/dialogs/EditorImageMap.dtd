@@ -53,13 +53,13 @@
 
 <!-- Edit menu -->
 <!ENTITY mapeditMenu.label "Embann">
-<!ENTITY mapeditMenu.accesskey "e">
+<!ENTITY mapeditMenu.accesskey "E">
 <!ENTITY cutCmd.label "Troc'hañ">
-<!ENTITY cutCmd.accesskey "t">
+<!ENTITY cutCmd.accesskey "T">
 <!ENTITY copyCmd.label "Eilañ">
 <!ENTITY copyCmd.accesskey "i">
 <!ENTITY pasteCmd.label "Pegañ">
-<!ENTITY pasteCmd.accesskey "p">
+<!ENTITY pasteCmd.accesskey "P">
 <!ENTITY selectallCmd.label "Diuz pep tra">
 <!ENTITY selectallCmd.accesskey "u">
 <!ENTITY propsCmd.label "Perzhioù ar poent oberiant">

@@ -1,4 +1,7 @@
+<!--LOCALIZATION NOTE msgViewPickerOverlay.dtd UI for showing various views on a folder -->
+
 <!ENTITY mailViewSetupTitle.label "Kefluniañ skrammañ ar c'hemennadennoù">
 <!ENTITY mailViewHeading.label "Anv ar wel gemennadennoù :">
 <!ENTITY mailViewHeading.accesskey "e">
 <!ENTITY searchTermCaption.label "Pa vez diuzet ar wel-mañ, nemet diskouez ar c'hemennadennoù :">
+

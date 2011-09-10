@@ -1,15 +1,17 @@
+<!-- extracted from MsgSynchronize.xul and msgSelectOffline.xul-->
+
 <!ENTITY MsgSynchronize.label " Pellgargañ ha goubredañ kemennadennoù">
 <!ENTITY MsgSelect.label "Ergorenn evit un arver ezlinenn">
 <!ENTITY MsgSyncDesc.label "Mard hoc'h eus diuzet teuliadoù ar posteloù pe strolladoù keleier evit un arver ezlinenn e vez pellgarget ha/pe goubredet anezho bremañ. A-hend-all, arverit an afell &quot;Diuzañ&quot; evit diuzañ teuliadoù ar posteloù ha strolladoù keleier evit un arver ezlinenn.">
 <!ENTITY MsgSyncDirections.label "Pellgargañ ha/pe goubredañ an hini da heul :">
 <!ENTITY syncTypeMail.label "Kemennadennoù dre bosteloù">
-<!ENTITY syncTypeMail.accesskey "M">
+<!ENTITY syncTypeMail.accesskey "m">
 <!ENTITY syncTypeNews.label "Kemennadennoù ar strolladoù-keleier">
-<!ENTITY syncTypeNews.accesskey "N">
+<!ENTITY syncTypeNews.accesskey "n">
 <!ENTITY sendMessage.label "Kas ar c'hemennadennoù o c'hortoz">
-<!ENTITY sendMessage.accesskey "S">
+<!ENTITY sendMessage.accesskey "s">
 <!ENTITY workOffline.label "Labourat ezlinenn ur wech bet pellgarget ha/pe ar goubredañ peurechu">
-<!ENTITY workOffline.accesskey "W">
+<!ENTITY workOffline.accesskey "w">
 <!ENTITY selectButton.label "Diuzañ…">
 <!ENTITY selectButton.accesskey "D">
 <!ENTITY MsgSelectDesc.label "Dibab teuliadoù ar posteloù hag ar strolladoù-keleier evit un arver ezlinenn.">

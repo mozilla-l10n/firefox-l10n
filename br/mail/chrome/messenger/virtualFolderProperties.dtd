@@ -1,8 +1,8 @@
 <!ENTITY virtualFolderProperties.title "Teuliad klask nevez enrollet">
-<!ENTITY name.label "Anv :">
-<!ENTITY name.accesskey "A">
-<!ENTITY description.label "Krouiñ evel isteuliad unan all :">
-<!ENTITY description.accesskey "S">
+<!ENTITY name.label                 "Anv :">
+<!ENTITY name.accesskey             "A">
+<!ENTITY description.label          "Krouiñ evel isteuliad unan all :">
+<!ENTITY description.accesskey      "s">
 
 <!ENTITY searchTermCaption.label "Kefluniañ an dezverkoù enklask implijet evit an teuliad enklask enrollet-se :">
 

@@ -34,7 +34,7 @@
 <!-- Device Settings -->
 <!ENTITY syncComputerName.label       "Anv an urzhiataer :">
 <!ENTITY syncComputerName.accesskey   "A">
-<!ENTITY unlinkDevice.label           "Lemel an drobarzhell-mañ">
+<!ENTITY unlinkDevice.label           "Lemel an trevnad-mañ">
 
 <!-- Footer stuff -->
 <!ENTITY prefs.tosLink.label        "Divizoù arver">

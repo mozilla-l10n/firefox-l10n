@@ -1,7 +1,7 @@
-<!ENTITY  connectionsDialog.title "Arventennoù kennaskañ">
-<!ENTITY  window.width "37em">
+<!ENTITY  connectionsDialog.title       "Arventennoù kennaskañ">
+<!ENTITY  window.width                   "37em">
 
-<!ENTITY  proxyTitle.label "Kefluniañ proksioù evit mont war Internet">
+<!ENTITY  proxyTitle.label              "Kefluniañ proksioù evit mont war Internet">
 <!ENTITY  noProxyTypeRadio.label        "Proksi ebet">
 <!ENTITY  noProxyTypeRadio.accesskey    "e">
 <!ENTITY  systemTypeRadio.label         "Arverañ arventennoù proksi ar reizhiad">
@@ -12,26 +12,26 @@
 <!ENTITY  manualTypeRadio.accesskey     "z">
 <!ENTITY  autoTypeRadio.label           "URL kefluniañ emgefreek ar proksi:">
 <!ENTITY  autoTypeRadio.accesskey       "U">
-<!ENTITY  reload.label "Adkargañ">
-<!ENTITY  reload.accesskey "A">
-<!ENTITY  http.label "Proksi HTTP :">
-<!ENTITY  http.accesskey "h">
-<!ENTITY  ssl.label "Proksi SSL :">
-<!ENTITY  ssl.accesskey "s">
-<!ENTITY  socks.label "Ostiz SOCKS :">
-<!ENTITY  socks.accesskey "c">
-<!ENTITY  socks4.label "SOCKS v4">
-<!ENTITY  socks4.accesskey "k">
-<!ENTITY  socks5.label "SOCKS v5">
-<!ENTITY  socks5.accesskey "v">
+<!ENTITY  reload.label                  "Adkargañ">
+<!ENTITY  reload.accesskey              "A">
+<!ENTITY  http.label                    "Proksi HTTP :">
+<!ENTITY  http.accesskey                "H">
+<!ENTITY  ssl.label                     "Proksi SSL :">
+<!ENTITY  ssl.accesskey                 "s">
+<!ENTITY  socks.label                   "Ostiz SOCKS :">
+<!ENTITY  socks.accesskey               "C">
+<!ENTITY  socks4.label                  "SOCKS v4">
+<!ENTITY  socks4.accesskey              "K">
+<!ENTITY  socks5.label                  "SOCKS v5">
+<!ENTITY  socks5.accesskey              "v">
 <!ENTITY  HTTPport.label                "Porzh:">
-<!ENTITY  HTTPport.accesskey            "p">
+<!ENTITY  HTTPport.accesskey            "P">
 <!ENTITY  SSLport.label                 "Porzh:">
 <!ENTITY  SSLport.accesskey             "o">
 <!ENTITY  SOCKSport.label               "Porzh:">
 <!ENTITY  SOCKSport.accesskey           "h">
-<!ENTITY  noproxy.label "Proksi ebet evit :">
-<!ENTITY  noproxy.accesskey "b">
-<!ENTITY  noproxyExplain.label "Skouer : .mozilla.org, .net.nz, 192.168.1.0/24">
-<!ENTITY  shareproxy.label "Ober gant an dafariad proksi-mañ evit an holl gomenadoù">
-<!ENTITY  shareproxy.accesskey "g">
+<!ENTITY  noproxy.label                 "Proksi ebet evit :">
+<!ENTITY  noproxy.accesskey             "b">
+<!ENTITY  noproxyExplain.label          "Skouer : .mozilla.org, .net.nz, 192.168.1.0/24">
+<!ENTITY  shareproxy.label              "Ober gant an dafariad proksi-mañ evit an holl gomenadoù">
+<!ENTITY  shareproxy.accesskey          "g">

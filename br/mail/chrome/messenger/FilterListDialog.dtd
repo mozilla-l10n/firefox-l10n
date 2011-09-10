@@ -13,9 +13,9 @@
 <!ENTITY reorderDownButton.accesskey "i">
 <!ENTITY filterHeader.label "Lañset eo ar siloù gweredekaet ent-emgefre diouzh an urzh da heul.">
 <!ENTITY filtersForPrefix.label "Siloù evit :">
-<!ENTITY filtersForPrefix.accesskey "s">
+<!ENTITY filtersForPrefix.accesskey "S">
 <!ENTITY viewLogButton.label "Logaritm silañ">
-<!ENTITY viewLogButton.accesskey "T">
+<!ENTITY viewLogButton.accesskey "t">
 <!ENTITY runFilters.label "Lañsañ diouzhtu">
 <!ENTITY runFilters.accesskey "d">
 <!ENTITY stopFilters.label "Paouez">
@@ -26,4 +26,4 @@
 <!ENTITY choosethisnewsserver.label "diuz dafariad ar strolladoù-keleier-mañ">
 <!ENTITY helpButton.label "Skoazell">
 <!ENTITY helpButton.accesskey "S">
-<!ENTITY closeCmd.key "W">
+<!ENTITY closeCmd.key "W"> 

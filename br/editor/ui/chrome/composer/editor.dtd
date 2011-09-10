@@ -49,11 +49,11 @@
 
 <!-- File menu items -->
 <!ENTITY exportToTextCmd.label "Ezporzhiañ e testenn…">
-<!ENTITY exportToTextCmd.accesskey "T">
+<!ENTITY exportToTextCmd.accesskey "t">
 <!ENTITY previewCmd.label "Gwelout ar bajenn">
 <!ENTITY previewCmd.accesskey "w">
 <!ENTITY sendPageCmd.label "Kas ar bajenn…">
-<!ENTITY sendPageCmd.accesskey "g">
+<!ENTITY sendPageCmd.accesskey "K">
 
 <!-- View menu items -->
 <!ENTITY compositionToolbarCmd.label "Barren ostilhoù Sevel">
@@ -82,7 +82,7 @@
 <!ENTITY NormalMode.tooltip "Diskouez riblennoù an taolenn hag an eorioù anvet">
 <!ENTITY AllTagsModeTab.label "Klavioù HTML">
 <!ENTITY AllTagsMode.label "Klavioù HTML">
-<!ENTITY AllTagsMode.accesskey "h">
+<!ENTITY AllTagsMode.accesskey "H">
 <!ENTITY AllTagsMode.tooltip "Skrammañ arlunioù evit an holl glavioù HTML">
 <!-- LOCALIZATION NOTE: (HTMLSourceModeTab.dir, HTMLSourceModeTab.label)
      Do NOT translate text for 'HTMLSourceModeTab.dir', use latin "ltr" if

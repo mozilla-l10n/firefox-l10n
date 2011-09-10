@@ -1,2 +1,4 @@
+<!--LOCALIZATION NOTE msgReadSMIMEOverlay.dtd UI for s/mime hooks in message reading -->
+
 <!ENTITY menu_securityStatus.label "Titouroù diogelroez ar gemennadenn">
 <!ENTITY menu_securityStatus.accesskey "t">

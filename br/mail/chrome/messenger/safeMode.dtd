@@ -40,7 +40,6 @@
 <!ENTITY window.width                     "37em">
 
 <!ENTITY safeModeDescription.label        "Emañ &brandShortName; o labourat e mod diogelroez hag a ziweredeka hoc'h arventennoù, neuzioù hag askouezhioù personel gant un doare padennek.">
-
 <!ENTITY safeModeDescription2.label       "An holl pe un darn eus ar c'hemmoù-mañ a c'hall bezañ padel :">
 
 <!ENTITY disableAddons.label              "Diweredekaat an holl askouezhioù">
@@ -50,7 +49,7 @@
 <!ENTITY resetToolbars.accesskey          "A">
 
 <!ENTITY changeAndRestartButton.label     "Seveniñ ar c'hemmoù hag adloc'hañ">
-<!ENTITY changeAndRestartButton.accesskey "M">
+<!ENTITY changeAndRestartButton.accesskey "m">
 
 <!ENTITY continueButton.label             "Kenderc'hel e mod diogelroez">
 <!ENTITY continueButton.accesskey         "K">

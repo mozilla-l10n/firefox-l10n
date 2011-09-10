@@ -35,9 +35,9 @@
 
  ***** END LICENSE BLOCK ***** -->
 
-<!ENTITY Contact.tab "Darempred">
+<!ENTITY Contact.tab                     "Darempred">
 <!ENTITY Contact.accesskey               "D">
-<!ENTITY Name.box "Anv">
+<!ENTITY Name.box                        "Anv">
 
 <!-- LOCALIZATION NOTE:
  NameField1, NameField2, PhoneticField1, PhoneticField2
@@ -56,61 +56,61 @@
 <!-- LOCALIZATION NOTE (PhoneticField2.id) : DONT_TRANSLATE -->
 <!ENTITY PhoneticField2.id              "PhoneticLastName">
 
-<!ENTITY NameField1.label "Kentanv :">
-<!ENTITY NameField1.accesskey "K">
-<!ENTITY NameField2.label "Anv familh :">
-<!ENTITY NameField2.accesskey "n">
-<!ENTITY PhoneticField1.label "Soniadel :">
-<!ENTITY PhoneticField2.label "Soniadel :">
-<!ENTITY DisplayName.label "Skrammañ :">
-<!ENTITY DisplayName.accesskey "r">
+<!ENTITY NameField1.label               "Kentanv :">
+<!ENTITY NameField1.accesskey           "K">
+<!ENTITY NameField2.label               "Anv familh :">
+<!ENTITY NameField2.accesskey           "n">
+<!ENTITY PhoneticField1.label           "Soniadel :">
+<!ENTITY PhoneticField2.label           "Soniadel :">
+<!ENTITY DisplayName.label              "Skrammañ :">
+<!ENTITY DisplayName.accesskey          "r">
 <!ENTITY preferDisplayName.label        "Kentoc'h skrammañ an anvioù eget talbenn ar gemennadenn">
-<!ENTITY preferDisplayName.accesskey    "y">
-<!ENTITY NickName.label "Moranv :">
-<!ENTITY NickName.accesskey "M">
+<!ENTITY preferDisplayName.accesskey    "K">
+<!ENTITY NickName.label                 "Moranv :">
+<!ENTITY NickName.accesskey             "M">
 
-<!ENTITY PrimaryEmail.label "Postel :">
-<!ENTITY PrimaryEmail.accesskey "P">
-<!ENTITY SecondEmail.label "Postel ouzhpenn :">
-<!ENTITY SecondEmail.accesskey "o">
-<!ENTITY PreferMailFormat.label "Gwell eo gantañ resev kemennadennoù gant ar mentrezh :">
-<!ENTITY PreferMailFormat.accesskey "r">
-<!ENTITY PlainText.label "Testenn eeun">
-<!ENTITY HTML.label "HTML">
-<!ENTITY Unknown.label "Dianav">
-<!ENTITY ScreenName.label "Anv skramm :">
-<!ENTITY ScreenName.accesskey "S">
+<!ENTITY PrimaryEmail.label             "Postel :">
+<!ENTITY PrimaryEmail.accesskey         "P">
+<!ENTITY SecondEmail.label              "Postel ouzhpenn :">
+<!ENTITY SecondEmail.accesskey          "o">
+<!ENTITY PreferMailFormat.label         "Gwell eo gantañ resev kemennadennoù gant ar mentrezh :">
+<!ENTITY PreferMailFormat.accesskey     "r">
+<!ENTITY PlainText.label                "Testenn eeun">
+<!ENTITY HTML.label                     "HTML">
+<!ENTITY Unknown.label                  "Dianav">
+<!ENTITY ScreenName.label               "Anv skramm :">
+<!ENTITY ScreenName.accesskey           "s">
 
 <!ENTITY allowRemoteContent1.label      "Aotren an endalc'hadoù a-bell.">
 <!ENTITY allowRemoteContent1.accesskey  "r">
 <!ENTITY allowRemoteContent1.tooltip    "Er c'hemennadoù mod HTML ez eo posubl enframmañ endalc'had eus tarzhoù a-bell. An digor eus un hevelep kemennadenn a zigero ur c'hennask ouzh an tarzh a-bell-mañ. An dra-se a ro tro da gaout ur roud eus lennadenn ur gemennadenn. Mar kevaskit a log-mañ, e vo aotreet un hevelep endalc'had diavaez er c'hemennadoù mod HTML evit an darempred-mañ.">
 
-<!ENTITY WorkPhone.label "Labour :">
-<!ENTITY WorkPhone.accesskey "L">
-<!ENTITY HomePhone.label "Er gêr :">
-<!ENTITY HomePhone.accesskey "g">
-<!ENTITY FaxNumber.label "Pelleiler :">
-<!ENTITY FaxNumber.accesskey "l">
-<!ENTITY PagerNumber.label "Pajenner:">
-<!ENTITY PagerNumber.accesskey "P">
-<!ENTITY CellularNumber.label "Hezoug :">
-<!ENTITY CellularNumber.accesskey "H">
+<!ENTITY WorkPhone.label                "Labour :">
+<!ENTITY WorkPhone.accesskey            "L">
+<!ENTITY HomePhone.label                "Er gêr :">
+<!ENTITY HomePhone.accesskey            "g">
+<!ENTITY FaxNumber.label                "Pelleiler :">
+<!ENTITY FaxNumber.accesskey            "l">
+<!ENTITY PagerNumber.label              "Pajenner:">
+<!ENTITY PagerNumber.accesskey          "P">
+<!ENTITY CellularNumber.label           "Hezoug :">
+<!ENTITY CellularNumber.accesskey       "H">
 
-<!ENTITY Home.tab "D'ar gêr">
+<!ENTITY Home.tab                       "D'ar gêr">
 <!ENTITY Home.accesskey                 "g">
-<!ENTITY HomeAddress.label "Chomlec'h :">
+<!ENTITY HomeAddress.label              "Chomlec'h :">
 <!ENTITY HomeAddress.accesskey          "C">
-<!ENTITY HomeAddress2.label "">
+<!ENTITY HomeAddress2.label             "">
 <!ENTITY HomeAddress2.accesskey         "">
-<!ENTITY HomeCity.label "Kêr :">
+<!ENTITY HomeCity.label                 "Kêr :">
 <!ENTITY HomeCity.accesskey             "K">
-<!ENTITY HomeState.label "Stad/Rannvro :">
+<!ENTITY HomeState.label                "Stad/Rannvro :">
 <!ENTITY HomeState.accesskey            "S">
-<!ENTITY HomeZipCode.label "Boneg Post/ZIP :">
+<!ENTITY HomeZipCode.label              "Boneg Post/ZIP :">
 <!ENTITY HomeZipCode.accesskey          "Z">
-<!ENTITY HomeCountry.label "Bro:">
-<!ENTITY HomeCountry.accesskey          "u">
-<!ENTITY HomeWebPage.label "Lec'hienn :">
+<!ENTITY HomeCountry.label              "Bro:">
+<!ENTITY HomeCountry.accesskey          "B">
+<!ENTITY HomeWebPage.label              "Lec'hienn :">
 <!ENTITY HomeWebPage.accesskey          "e">
 <!ENTITY Birthday.label                 "Deiz-ha-bloaz:">
 <!ENTITY Birthday.accesskey             "D">
@@ -120,40 +120,40 @@
 <!ENTITY Age.placeholder                "Oad">
 <!ENTITY YearsOld.label                 "">
 
-<!ENTITY Work.tab "Labour">
+<!ENTITY Work.tab                       "Labour">
 <!ENTITY Work.accesskey                 "L">
-<!ENTITY JobTitle.label "Titl :">
+<!ENTITY JobTitle.label                 "Titl :">
 <!ENTITY JobTitle.accesskey             "i">
-<!ENTITY Department.label "Departamant :">
+<!ENTITY Department.label               "Departamant :">
 <!ENTITY Department.accesskey           "m">
-<!ENTITY Company.label "Aozadur :">
+<!ENTITY Company.label                  "Aozadur :">
 <!ENTITY Company.accesskey              "A">
-<!ENTITY WorkAddress.label "Chomlec'h :">
+<!ENTITY WorkAddress.label              "Chomlec'h :">
 <!ENTITY WorkAddress.accesskey          "C">
-<!ENTITY WorkAddress2.label "">
+<!ENTITY WorkAddress2.label             "">
 <!ENTITY WorkAddress2.accesskey         "">
-<!ENTITY WorkCity.label "Kêr :">
+<!ENTITY WorkCity.label                 "Kêr :">
 <!ENTITY WorkCity.accesskey             "r">
-<!ENTITY WorkState.label "Stad/Rannvro :">
+<!ENTITY WorkState.label                "Stad/Rannvro :">
 <!ENTITY WorkState.accesskey            "S">
-<!ENTITY WorkZipCode.label "Boneg Post/ZIP :">
+<!ENTITY WorkZipCode.label              "Boneg Post/ZIP :">
 <!ENTITY WorkZipCode.accesskey          "Z">
-<!ENTITY WorkCountry.label "Bro :">
+<!ENTITY WorkCountry.label              "Bro :">
 <!ENTITY WorkCountry.accesskey          "o">
-<!ENTITY WorkWebPage.label "Lec'hienn :">
+<!ENTITY WorkWebPage.label              "Lec'hienn :">
 <!ENTITY WorkWebPage.accesskey          "e">
 
-<!ENTITY Other.tab "All">
+<!ENTITY Other.tab                      "All">
 <!ENTITY Other.accesskey                "l">
-<!ENTITY Custom1.label "Personelaet 1:">
-<!ENTITY Custom1.accesskey "1">
-<!ENTITY Custom2.label "Personelaet 2:">
-<!ENTITY Custom2.accesskey "2">
-<!ENTITY Custom3.label "Personelaet 3:">
-<!ENTITY Custom3.accesskey "3">
-<!ENTITY Custom4.label "Personelaet 4:">
-<!ENTITY Custom4.accesskey "4">
-<!ENTITY Notes.label "Notennoù">
+<!ENTITY Custom1.label                  "Personelaet 1:">
+<!ENTITY Custom1.accesskey              "1">
+<!ENTITY Custom2.label                  "Personelaet 2:">
+<!ENTITY Custom2.accesskey              "2">
+<!ENTITY Custom3.label                  "Personelaet 3:">
+<!ENTITY Custom3.accesskey              "3">
+<!ENTITY Custom4.label                  "Personelaet 4:">
+<!ENTITY Custom4.accesskey              "4">
+<!ENTITY Notes.label                    "Notennoù">
 <!ENTITY Notes.accesskey                "N">
 
 <!ENTITY Photo.tab                      "Luc'hskeudenn">

@@ -4,7 +4,7 @@
 <!ENTITY allFoldersOffline.label "Mirout ar c'hemennadennoù evit ar gont-mañ war an urzhiataer-mañ">
 <!ENTITY allFoldersOffline.accesskey "o">
 <!ENTITY offlineNotDownload.label "Kemennadennoù brasoc'h eget">
-<!ENTITY offlineNotDownload.accesskey "M">
+<!ENTITY offlineNotDownload.accesskey "m">
 <!ENTITY autosyncNotDownload.label "Na bellgargañ kemennadennoù brasoc'h eget">
 <!ENTITY autosyncNotDownload.accesskey "m">
 <!ENTITY kb.label "KE">
@@ -14,7 +14,6 @@
 <!ENTITY nntpNotDownloadRead.accesskey "L">
 <!ENTITY nntpDownloadMsg.label "Kemennadennoù a zo muioc'h a">
 <!ENTITY nntpDownloadMsg.accesskey "e">
-
 <!ENTITY retentionCleanup.label "Evit adkavout egor kantenn ez eo posupl diverkañ kemennadennoù kozh da vat">
 <!ENTITY retentionCleanupImap.label "Evit adkavout egor kantenn ez eo posupl diverkañ kemennadennoù kozh da vat, an eiladoù lec'hel hag ar c'hemennadennoù a orin war an dafariad.">
 <!ENTITY retentionCleanupPop.label "Evit adkavout egor kantenn ez eo posupl diverkañ kemennadennoù kozh da vat, hag ar c'hemennadennoù a orin war an dafariad ivez.">
@@ -53,4 +52,3 @@
 <!ENTITY monthAgeInterval.label          "Mizioù">
 <!ENTITY yearAgeInterval.label           "Bloavezhioù">
 <!ENTITY ageAutosyncAfter.label          "">
-

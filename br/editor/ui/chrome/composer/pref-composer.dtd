@@ -14,7 +14,7 @@
 <!ENTITY  saveAssociatedFiles.label     "Enrollañ ar skeudennoù hag ar restroù kevredet all pa vez enrollet ar pajennoù">
 <!ENTITY  saveAssociatedFiles.accesskey "s">
 <!ENTITY  showPublishDialog.label       "Bepred diskwel ar prenestr Brudañ pa vez brudet pajennadoù">
-<!ENTITY  showPublishDialog.accesskey   "D">
+<!ENTITY  showPublishDialog.accesskey   "d">
 <!ENTITY  composerEditing.label         "Brudañ">
 <!ENTITY  maintainStructure.label       "Gwarezañ tresad an taolenn pa vez enlakaet pe dilamet kelligoù">
 <!ENTITY  maintainStructure.tooltip     "Gwarezañ stumm hirgarrezek an taolenn gant ouzhpennañ kelligoù ent emgefreek goude enlakaat pe dilemel kelligoù">

@@ -1,5 +1,48 @@
+<!-- ***** BEGIN LICENSE BLOCK *****
+   - Version: MPL 1.1/GPL 2.0/LGPL 2.1
+   -
+   - The contents of this file are subject to the Mozilla Public License Version
+   - 1.1 (the "License"); you may not use this file except in compliance with
+   - the License. You may obtain a copy of the License at
+   - http://www.mozilla.org/MPL/
+   -
+   - Software distributed under the License is distributed on an "AS IS" basis,
+   - WITHOUT WARRANTY OF ANY KIND, either express or implied. See the License
+   - for the specific language governing rights and limitations under the
+   - License.
+   -
+   - The Original Code is Mozilla Communicator client code, released
+   - March 31, 1998.
+   -
+   - The Initial Developer of the Original Code is
+   - Netscape Communications Corporation.
+   - Portions created by the Initial Developer are Copyright (C) 1998-2000
+   - the Initial Developer. All Rights Reserved.
+   -
+   - Contributor(s):
+   -
+   - Alternatively, the contents of this file may be used under the terms of
+   - either of the GNU General Public License Version 2 or later (the "GPL"),
+   - or the GNU Lesser General Public License Version 2.1 or later (the "LGPL"),
+   - in which case the provisions of the GPL or the LGPL are applicable instead
+   - of those above. If you wish to allow use of your version of this file only
+   - under the terms of either the GPL or the LGPL, and not to allow others to
+   - use your version of this file under the terms of the MPL, indicate your
+   - decision by deleting the provisions above and replace them with the notice
+   - and other provisions required by the GPL or the LGPL. If you do not delete
+   - the provisions above, a recipient may use your version of this file under
+   - the terms of any one of the MPL, the GPL or the LGPL.
+   -
+   - ***** END LICENSE BLOCK ***** -->
+
+<!-- These strings are for use specifically in the editor's image and form image dialogs. -->
+
+<!-- Window title -->
 <!ENTITY windowTitle.label "Perzhioù ar skeudenn">
+
 <!ENTITY pixelsPopup.value "a bikselioù">
+
+<!-- These are in the Location tab panel -->
 <!ENTITY locationEditField.label "Lec'hiadur ar skeudenn :">
 <!ENTITY locationEditField.accessKey "L">
 <!ENTITY locationEditField.tooltip "Biziata anv restr ar skeudenn pe he lec'hiadur">
@@ -11,7 +54,11 @@
 <!ENTITY altTextEditField.tooltip "Biziata an destenn da skrammañ e lec'h ar skeudenn">
 <!ENTITY noAltText.label "Na arverañ un destenn all">
 <!ENTITY noAltText.accessKey "D">
+
 <!ENTITY previewBox.label "Alberz ar skeudenn">
+
+<!-- These controls are in the Dimensions tab panel -->
+<!-- actualSize.label should be same as actualSizeRadio.label + ":" -->
 <!ENTITY actualSize.label "Ment vremanel :">
 <!ENTITY actualSizeRadio.label "Ment vremanel">
 <!ENTITY actualSizeRadio.accessKey "A">
@@ -26,17 +73,23 @@
 <!ENTITY constrainCheckbox.label "Destrizhañ">
 <!ENTITY constrainCheckbox.accessKey "r">
 <!ENTITY constrainCheckbox.tooltip "Mirout kenfeur neuz ar skeudenn">
+
+<!-- These controls are in the Image Map box of the expanded area -->
 <!ENTITY imagemapBox.label "Kartenn skeudenn">
 <!ENTITY removeImageMapButton.label "Dilemel">
 <!ENTITY removeImageMapButton.accessKey "D">
 <!ENTITY editImageMapButton.label "Embann…">
 <!ENTITY editImageMapButton.tooltip "Krouiñ strolladoù ditouroù klikadus evit ar skeudenn-mañ">
+
+<!-- These are the options for image alignment -->
 <!ENTITY alignment.label "Desteudañ an destenn ouzh ar skeudenn">
 <!ENTITY bottomPopup.value "En diaz">
 <!ENTITY topPopup.value "Betek al lein">
 <!ENTITY centerPopup.value "Er c'hreiz">
 <!ENTITY wrapRightPopup.value "Ambakañ d'an tu dehou">
 <!ENTITY wrapLeftPopup.value "Ambakañ d'an tu kleiz">
+
+<!-- These controls are in the Spacing Box -->
 <!ENTITY spacingBox.label "Oc'h esaouiñ">
 <!ENTITY leftRightEditField.label "Kleiz ha dehou :">
 <!ENTITY leftRightEditField.accessKey "L">
@@ -44,8 +97,12 @@
 <!ENTITY topBottomEditField.accessKey "r">
 <!ENTITY borderEditField.label "Riblenn plaen :">
 <!ENTITY borderEditField.accessKey "B">
+
+<!-- These controls are in the Link Box -->
 <!ENTITY showImageLinkBorder.label "Diskouez ar riblenn tro dro d'ar skeudenn ereet">
 <!ENTITY showImageLinkBorder.accessKey "B">
+
+<!-- These tabs are currently used in the image input dialog -->
 <!ENTITY imageInputTab.label "Furmskrid">
 <!ENTITY imageLocationTab.label "Lec'hiadur">
 <!ENTITY imageDimensionsTab.label "Mentoù">

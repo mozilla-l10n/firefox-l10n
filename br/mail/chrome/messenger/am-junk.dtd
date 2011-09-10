@@ -1,7 +1,7 @@
 <!ENTITY junkSettings.label "Arventennoù al lastez">
 <!ENTITY trainingWarning.label "Mar gweredekaet e rankit, da gentañ, lakaat &brandShortName; da bleustriñ war hennadiñ ar posteloù lastez dre arverañ an afell war barrenn ar spamoù da verkañ ar posteloù evel lastez pe get. Ret eo deoc'h hennadiñ ar posteloù lastez hag ar re nad int ket.">
 <!ENTITY level.label "Gweredekaat reolerezhioù azasaus ar posteloù lastez evit ar gont-mañ">
-<!ENTITY level.accesskey "E">
+<!ENTITY level.accesskey "e">
 
 <!ENTITY move.label "Dilec'hiañ ar posteloù lastez da :">
 <!ENTITY move.accesskey "i">
@@ -12,7 +12,9 @@
 <!ENTITY purge1.label "Dilemel ent emgefreek ar posteloù lastez koshoc'h eget">
 <!ENTITY purge1.accesskey "g">
 <!ENTITY purge2.label "a zeizioù">
+
 <!ENTITY whitelist.label "Na verkañ evel lastez mard emañ ar c'haser war :">
-<!ENTITY whitelist.accesskey "D">
+<!ENTITY whitelist.accesskey "d">
+
 <!ENTITY ispHeaders.label "Fiziout talbennoù ar posteloù lastez arventennet gant :">
-<!ENTITY ispHeaders.accesskey "T">
+<!ENTITY ispHeaders.accesskey "t">

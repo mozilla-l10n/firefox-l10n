@@ -1,9 +1,11 @@
-<!ENTITY notificationsDialog2.title "Personelaat galv evezhiañ ar posteloù nevez">
-<!ENTITY window.width "30em">
-<!ENTITY alertCustomization.intro "Dibab ar maeziennoù da ziskouez er c'hemenn evezhiañ :">
-<!ENTITY previewText.label "Testenn alberz ar postel">
-<!ENTITY previewText.accesskey "t">
-<!ENTITY subject.label "Danvez">
-<!ENTITY subject.accesskey "D">
-<!ENTITY sender.label "Kaser">
-<!ENTITY sender.accesskey "K">
+<!ENTITY notificationsDialog2.title       "Personelaat galv evezhiañ ar posteloù nevez">
+<!ENTITY window.width                     "30em">
+
+<!ENTITY alertCustomization.intro         "Dibab ar maeziennoù da ziskouez er c'hemenn evezhiañ :">
+<!ENTITY previewText.label                "Testenn alberz ar postel">
+<!ENTITY previewText.accesskey            "t">
+<!ENTITY subject.label                    "Danvez">
+<!ENTITY subject.accesskey                "D">
+<!ENTITY sender.label                     "Kaser">
+<!ENTITY sender.accesskey                 "K">
+

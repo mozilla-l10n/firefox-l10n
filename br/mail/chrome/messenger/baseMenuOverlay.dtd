@@ -8,13 +8,13 @@
 <!ENTITY helpTroubleshootingInfo.label     "Titouroù disac'hañ">
 <!ENTITY helpTroubleshootingInfo.accesskey "t">
 <!ENTITY helpSafeMode.label     "Adloc'hañ gant an askouezhioù diweredekaet…">
-<!ENTITY helpSafeMode.accesskey "R">
+<!ENTITY helpSafeMode.accesskey "r">
 <!ENTITY releaseCmd2.label "Notennoù handelv">
 <!ENTITY releaseCmd2.accesskey "N">
 <!ENTITY whatsNewCmd.label "Petra zo nevez">
 <!ENTITY whatsNewCmd.accesskey "P">
-<!ENTITY featureConfiguratorCmd.label "Skoazeller enporzhiañ">
-<!ENTITY featureConfiguratorCmd.accesskey "e">
+<!ENTITY featureConfiguratorCmd.label "Skoazeller emdizhañ">
+<!ENTITY featureConfiguratorCmd.accesskey "m">
 <!ENTITY openHelp.label "Endalc'hadoù ar skoazell">
 <!ENTITY openHelp.accesskey "d">
 <!ENTITY openHelp.commandkey "VK_F1">

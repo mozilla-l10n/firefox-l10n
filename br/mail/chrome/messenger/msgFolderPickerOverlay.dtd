@@ -36,6 +36,5 @@
  ***** END LICENSE BLOCK ***** -->
 
 <!-- Labels -->
-<!ENTITY newfolderchoosethis.label "dibab an dra-se evit ar restr kar">
-<!ENTITY filemessageschoosethis.label "diuzañ an teuliad-se">
-
+<!ENTITY newfolderchoosethis.label      "dibab an dra-se evit ar restr kar">
+<!ENTITY filemessageschoosethis.label   "diuzañ an teuliad-se">

@@ -24,9 +24,9 @@
 <!-- Phishing Detector -->
 <!ENTITY phishingDetector1.intro  "Barrek eo &brandShortName; da zezrannañ kemennadennoù da gavout posteloù c'hwibañ dre glask an doareoù boutin arveret evit ho kwallbakañ.">
 <!ENTITY enablePhishingDetector1.label    "Lavar din hag-eñ emaon o lenn ur postel gant c'hwezh ar c'hwiberezh warnañ">
-<!ENTITY enablePhishingDetector1.accesskey "e">
+<!ENTITY enablePhishingDetector1.accesskey  "e">
 <!ENTITY useDownloadedList.label "Arverañ ur roll bet pellgarget eus posteloù stumm c'hwiberezh warno">
-<!ENTITY useDownloadedList.accesskey "U">
+<!ENTITY useDownloadedList.accesskey "u">
 
 <!-- Passwords -->
 <!ENTITY savedPasswords.intro           "Gallout a ra &brandShortName; derc'hel soñj eus ho kerioù-tremen evit holl ho kontoù.">
@@ -53,7 +53,7 @@
 <!ENTITY close.label                    "ma serrin &brandShortName;">
 <!ENTITY askEachTime.label              "goulenn ganin bewech">
 <!ENTITY cookieExceptions.label         "Nemedennoù…">
-<!ENTITY cookieExceptions.accesskey     "E">
+<!ENTITY cookieExceptions.accesskey     "e">
 <!ENTITY showCookies.label              "Diskwel an toupinoù…">
-<!ENTITY showCookies.accesskey          "S">
+<!ENTITY showCookies.accesskey          "s">
 

@@ -1,10 +1,12 @@
+<!-- extracted from am-server-top.xul -->
+
 <!ENTITY securitySettings.label "Arventennoù diogelroez">
 <!ENTITY serverSettings.label "Arventennoù an dafariad">
 <!ENTITY serverType.label "Rizh an dafariad :">
 <!ENTITY serverName.label "Anv dafariad :">
 <!ENTITY serverName.accesskey "d">
 <!ENTITY userName.label "Anv arveriad :">
-<!ENTITY userName.accesskey "N">
+<!ENTITY userName.accesskey "n">
 <!ENTITY port.label "Porzh:">
 <!ENTITY port.accesskey "P">
 <!ENTITY serverPortDefault.label "Diouer:">
@@ -14,14 +16,14 @@
                 biffEnd.label   "minutes for new messages Check"
 -->
 <!ENTITY biffStart.label "Gwiriañ ar c'hemennadennoù nevez bep">
-<!ENTITY biffStart.accesskey "g">
+<!ENTITY biffStart.accesskey "G">
 <!ENTITY biffEnd.label "a vunutennoù">
 <!ENTITY connectionSecurity.label "Diogelroez ar c'hennask:">
 <!ENTITY connectionSecurity.accesskey "n">
 <!ENTITY connectionSecurityType-0.label "Tra ebet">
 <!ENTITY connectionSecurityType-1.label "STARTTLS, mar hegerz">
 <!ENTITY connectionSecurityType-2.label "STARTTLS">
-<!ENTITY connectionSecurityType-3.label "SSL/TLS">
+<!ENTITY connectionSecurityType-3.label "SSL">
 <!ENTITY authMethod.label "Hentenn dilesa:">
 <!ENTITY authMethod.accesskey "H">
 <!ENTITY leaveOnServer.label "Leuskel ar c'hemennadennoù war an dafariad">
@@ -45,13 +47,18 @@
 <!ENTITY modelDeleteImmediately.accesskey "d">
 <!-- LOCALIZATION NOTE (expungeOnExit.label) : do not translate two of "&quot;" in below line -->
 <!ENTITY expungeOnExit.label "Naetaat (&quot;Goullonderiñ&quot;) ar Voestad-degemer en ur guitaat">
-<!ENTITY expungeOnExit.accesskey "E">
+<!ENTITY expungeOnExit.accesskey "e">
 <!ENTITY emptyTrashOnExit.label "Goullonderiñ ar gest en ur guitaat">
 <!ENTITY emptyTrashOnExit.accesskey "l">
 <!ENTITY loginAtStartup.label "Gwiriañ ar c'hemennadennoù nevez pa loc'h ar goulev">
-<!ENTITY loginAtStartup.accesskey "C">
+<!ENTITY loginAtStartup.accesskey "c">
+<!-- LOCALIZATION NOTE (maxMessagesStart.label) : translate below 2 lines with grammar dependency
+    maxMessengerStart.label will be followed by maxMessagesEnd.label with the number
+   of messages between them
+-->
 <!ENTITY maxMessagesStart.label "Goulenn ganin a-raok pellgargañ muioc'h eget">
 <!ENTITY maxMessagesStart.accesskey "m">
+<!-- LOCALIZATION NOTE (maxMessagesEnd.label) : see note for maxMessagesStart.label -->
 <!ENTITY maxMessagesEnd.label "a gemennadennoù">
 <!ENTITY alwaysAuthenticate.label "Azgoulenn atav an dilesa pa vez kennasket ouzh an dafariad">
 <!ENTITY alwaysAuthenticate.accesskey "t">
@@ -61,8 +68,8 @@
 <!ENTITY abbreviateOn.label "Anvioù klok ('netscape.public.mozilla.mail-news', da skouer)">
 <!ENTITY abbreviateOff.label "Anvioù berraet ('n.p.m.mail-news', da skouer)">
 <!ENTITY advancedButton.label "Kempleshoc'h …">
-<!ENTITY serverDefaultCharset.label "Bonegañ an arouezennoù dre ziouer :">
 <!ENTITY advancedButton.accesskey "K">
+<!ENTITY serverDefaultCharset.label "Bonegañ an arouezennoù dre ziouer :">
 <!ENTITY localFolderPicker.label "Diuzañ ar c'havlec'hiadoù lec'hel :">
 <!ENTITY browseFolder.label "Furchal…">
 <!ENTITY browseFolder.accesskey "F">

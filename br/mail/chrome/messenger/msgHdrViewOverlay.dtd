@@ -59,6 +59,7 @@
 <!ENTITY editMessageButton.label "Embann…">
 <!ENTITY hdrArchiveButton.label "diellaouiñ">
 <!ENTITY hdrArchiveButton.tooltip "diellaouiñ ar gemennadenn-mañ">
+<!ENTITY hdrSmartReplyButton.label "respont speredek">
 <!ENTITY hdrReplyButton.label "respont">
 <!ENTITY hdrReplyButton.tooltip "respont d'ar gemennadenn-mañ">
 <!ENTITY hdrReplyAllButton.label "respont d'an holl">
@@ -100,22 +101,22 @@
 <!ENTITY otherActionsPrint.accesskey "m">
 
 <!-- Attachment context menu items -->
-<!ENTITY openAttachmentCmd.label "Digeriñ">
-<!ENTITY openAttachmentCmd.accesskey "d">
-<!ENTITY saveAsAttachmentCmd.label "Enrollañ evel…">
-<!ENTITY saveAsAttachmentCmd.accesskey "n">
-<!ENTITY detachAttachmentCmd.label "Distagañ …">
+<!ENTITY openAttachmentCmd.label    "Digeriñ">
+<!ENTITY openAttachmentCmd.accesskey    "D">
+<!ENTITY saveAsAttachmentCmd.label    "Enrollañ evel…">
+<!ENTITY saveAsAttachmentCmd.accesskey    "n">
+<!ENTITY detachAttachmentCmd.label    "Distagañ …">
 <!ENTITY detachAttachmentCmd.accesskey    "s">
-<!ENTITY deleteAttachmentCmd.label "Dilemel">
+<!ENTITY deleteAttachmentCmd.label    "Dilemel">
 <!ENTITY deleteAttachmentCmd.accesskey    "l">
 <!ENTITY openAllAttachmentsCmd.label    "Digeriñ pep tra…">
 <!ENTITY openAllAttachmentsCmd.accesskey    "g">
-<!ENTITY saveAllAttachmentsCmd.label "Enrollañ pep tra…">
-<!ENTITY saveAllAttachmentsCmd.accesskey "t">
-<!ENTITY detachAllAttachmentsCmd.label "Distagañ pep tra…">
-<!ENTITY detachAllAttachmentsCmd.accesskey "D">
-<!ENTITY deleteAllAttachmentsCmd.label "Dilemel pep tra…">
-<!ENTITY deleteAllAttachmentsCmd.accesskey "m">
+<!ENTITY saveAllAttachmentsCmd.label    "Enrollañ pep tra…">
+<!ENTITY saveAllAttachmentsCmd.accesskey    "t">
+<!ENTITY detachAllAttachmentsCmd.label    "Distagañ pep tra…">
+<!ENTITY detachAllAttachmentsCmd.accesskey    "D">
+<!ENTITY deleteAllAttachmentsCmd.label    "Dilemel pep tra…">
+<!ENTITY deleteAllAttachmentsCmd.accesskey    "m">
 
 <!-- Attachment toolbar items -->
 <!ENTITY saveAttachmentButton.label       "enrollañ">
@@ -137,10 +138,10 @@
 <!ENTITY detachAllAttachmentsMenuItem.label    "distagañ pep tra…">
 <!ENTITY detachAllAttachmentsMenuItem.accesskey    "a">
 <!ENTITY deleteAllAttachmentsMenuItem.label    "dilemel pep tra…">
-<!ENTITY deleteAllAttachmentsMenuItem.accesskey    "o">
+<!ENTITY deleteAllAttachmentsMenuItem.accesskey    "d">
 
-<!ENTITY copyLinkCmd.label "Eilañ lec'hiadur an ere">
-<!ENTITY copyLinkCmd.accesskey "c">
+<!ENTITY copyLinkCmd.label        "Eilañ lec'hiadur an ere">
+<!ENTITY copyLinkCmd.accesskey    "c">
 
 <!ENTITY CopyMessageId.label "Eilañ an hennad kemennadenn">
 <!ENTITY OpenMessageForMsgId.label "Digeriñ kemennadenn an hennad">

@@ -1,5 +1,10 @@
+<!-- Entities for AccountWizard -->
+
 <!ENTITY windowTitle.label "Skoazeller kontoù">
 <!ENTITY accountWizard.size "width: 50em; height: 40em;">
+
+<!-- Entities for Account Type page -->
+
 <!ENTITY accountSetupInfo.label "Ret eo deoc'h krouiñ ha kefluniañ kontoù posteloù ha kontoù strolladoù-keleier evit bezañ gouest da gas ha da resev kemennadennoù.">
 <!ENTITY accountTypeTitle.label "Aozañ kontoù nevez">
 <!ENTITY accountTypeDesc.label "Dastum a ra an arload-mañ titouroù evit sevel hag aozañ ur gont bostel pe ur gont strolladoù-keleier. Ma n'anavezit ket an titouroù-mañ, kit e darempred gant ho merer-reizhiad pe gant ho pourchaser Internet.">
@@ -8,27 +13,45 @@
 <!ENTITY accountTypeMail.accesskey "p">
 <!ENTITY accountTypeNews.label "Kont ar strolladoù-keleier">
 <!ENTITY accountTypeNews.accesskey "s">
+
+<!-- Entities for Identity page -->
+
 <!ENTITY identityTitle.label "Titouroù ar gont">
 <!ENTITY identityDesc.label "Pep kont he deus titouroù arbennik a servijo d'ober an diforc'h etrezoc'h-c'hwi hag ar re all pa resevot kemennadennoù.">
+
+<!-- LOCALIZATION NOTE (fullnameDesc.label) : do not translate two of "&quot;" in below line -->
 <!ENTITY fullnameDesc.label "Roit pe anv a fell deoc'h gwelout e-barzh ar vaezienn &quot;A-berzh&quot; pa vez kaset kemennadennoù ganeoc'h.">
+<!-- LOCALIZATION NOTE (fullnameExample.label) : use following directions for below line
+  1, do not translate two of "&quot;"
+  2, Use localized full name instead of "John Smith"
+-->
 <!ENTITY fullnameExample.label "(da skouer, &quot;Yann Seitek&quot;).">
 <!ENTITY fullnameLabel.label "Hoc'h anv :">
 <!ENTITY fullnameLabel.accesskey "a">
+
 <!ENTITY emailLabel.label "Chomlec'h postel :">
-<!ENTITY emailLabel.accesskey "E">
+<!ENTITY emailLabel.accesskey "e">
+
+<!-- Entities for Server page -->
+
 <!ENTITY serverTitle.label "Titouroù an dafariadoù">
 <!ENTITY incomingServerTypeDesc.label "Diuzit rizh an dafariad degemer a vo implijet ganeoc'h.">
+<!-- LOCALIZATION NOTE (incomingServerNameDesc.label) : Do not translate "&quot;pop.example.net&quot;" in below line -->
 <!ENTITY incomingServerNameDesc.label "Roit anv ho tafariad degemer (da skouer, &quot;pop.breizh.com&quot;).">
 <!ENTITY incomingServerLabel.label "Dafariad degemer :">
 <!ENTITY incomingServerLabel.accesskey "D">
+<!-- LOCALIZATION NOTE (newsServerNameDesc.label) : Do not translate "NNTP" or the "&quot;" entities in below line -->
 <!ENTITY newsServerNameDesc.label "Roit anv ho tafariad strolladoù-keleier (NNTP) (&quot;news.breizh.bzh&quot; da skouer).">
+<!-- LOCALIZATION NOTE (smtpServerDesc.label) : Do not translate "SMTP" and "&quot;smtp.example.net&quot;" in below line -->
 <!ENTITY smtpServerDesc.label "Roit anv ho tafariad kas (SMTP) (da skouer, &quot;smtp.breizh.com&quot;).">
 <!ENTITY smtpServerLabel.label "Dafariad kas :">
-<!ENTITY smtpServerLabel.accesskey "K">
+<!ENTITY smtpServerLabel.accesskey "k">
 <!ENTITY newsServerLabel.label "Dafariad strolladoù-keleier :">
 <!ENTITY newsServerLabel.accesskey "d">
+<!-- LOCALIZATION NOTE (imapType.label) : Do not translate "IMAP" in below line -->
 <!ENTITY imapType.label "IMAP">
 <!ENTITY imapType.accesskey "I">
+<!-- LOCALIZATION NOTE (popType.label) : Do not translate "POP" in below line -->
 <!ENTITY popType.label "POP">
 <!ENTITY popType.accesskey "P">
 <!ENTITY leaveMsgsOnSrvr.label "Leuskel ar c'hemennadennoù war an dafariad">
@@ -46,12 +69,13 @@
 
 <!ENTITY loginTitle.label "Anvioù arveriaded">
 <!ENTITY usernameDesc.label "Lakait anv an arveriad roet gant ho pourchaser Internet a-benn degemer posteloù">
+<!-- LOCALIZATION NOTE (usernameExample.label) : do not translate "&quot;jsmith&quot;" in below line -->
 <!ENTITY usernameExample.label "(da skouer, &quot;jsmith&quot;).">
 <!ENTITY usernameLabel.label "Anv arveriad degemer :">
-<!ENTITY usernameLabel.accesskey "I">
+<!ENTITY usernameLabel.accesskey "i">
 <!ENTITY usernameSmtpDesc.label "Lakait anv an arveriad-kas roet gant ho pourchaser Internet (ar memes anv hag hoc'h anv degemer eo da gustum)">
 <!ENTITY usernameSmtpLabel.label "Anv arveriad kas :">
-<!ENTITY usernameSmtpLabel.accesskey "K">
+<!ENTITY usernameSmtpLabel.accesskey "k">
 <!-- LOCALIZATION NOTE (haveSmtp2.prefix and haveSmtp2.suffix2) : Do not translate "SMTP" and "&quot;" in
      these variables. Also, translate haveSmtp2.prefix and haveSmtp2.suffix2 as a single sentence, inserting
      text after the "&quot;" entity in haveSmtp2.suffix2, if required grammatically.
@@ -68,6 +92,7 @@
 <!-- Entities for Account name page -->
 
 <!ENTITY accnameTitle.label "Anv kont">
+<!-- LOCALIZATION NOTE (accnameDesc.label) : do not translate any "&quot;" in below line -->
 <!ENTITY accnameDesc.label "Lakait anv ar gont-mañ a servijo da zaveiñ anezhañ (da skouer, &quot;Kont Labour&quot;, &quot;Kont Ger&quot; pe &quot;Kont Strollad-Keleier&quot;).">
 <!ENTITY accnameLabel.label "Anv ar gont :">
 <!ENTITY accnameLabel.accesskey "A">

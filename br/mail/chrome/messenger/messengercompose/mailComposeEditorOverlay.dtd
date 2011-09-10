@@ -1,4 +1,5 @@
-<!ENTITY attachImageSource.label "Kenstagañ ar skeudenn-mañ ouzh ar gemennadenn">
-<!ENTITY attachImageSource.accesskey "s">
-<!ENTITY attachLinkSource.label "Kenstagañ tarzh an ere-mañ ouzh ar gemennadenn">
-<!ENTITY attachLinkSource.accesskey "s">
+<!ENTITY attachImageSource.label         "Kenstagañ ar skeudenn-mañ ouzh ar gemennadenn">
+<!ENTITY attachImageSource.accesskey     "s">
+
+<!ENTITY attachLinkSource.label          "Kenstagañ tarzh an ere-mañ ouzh ar gemennadenn">
+<!ENTITY attachLinkSource.accesskey      "s">

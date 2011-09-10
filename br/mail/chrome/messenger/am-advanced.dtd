@@ -6,8 +6,8 @@
 <!-- LOCALIZATION NOTE (smtpDesc.label): do not translate "SMTP" in below line -->
 <!ENTITY smtpDesc.label "Daoust ma vez tu reiñ meur a zafariad kas (SMTP) ez eo erbedet an dra-se d'an arveriaded ampart hepken. Gallout a rafec'h resev fazioù en ur gas kemennadennoù, mar spisafec'h meur a zafariad SMTP.">
 
-<!ENTITY smtpListAdd.label "Ouzhpennañ …">
-<!ENTITY smtpListAdd.accesskey "O">
+<!ENTITY smtpListAdd.label  "Ouzhpennañ …">
+<!ENTITY smtpListAdd.accesskey  "O">
 <!ENTITY smtpListEdit.label "Embann…">
 <!ENTITY smtpListEdit.accesskey "E">
 <!ENTITY smtpListDelete.label "Dilemel">
@@ -18,7 +18,6 @@
 <!ENTITY serverDescription.label "Deskrivadenn :">
 <!ENTITY serverName.label "Anv dafariad :">
 <!ENTITY serverPort.label "Porzh :">
-<!ENTITY userName.label "Anv arveriad :">
+<!ENTITY userName.label   "Anv arveriad :">
 <!ENTITY connectionSecurity.label "Diogelroez ar c'hennask: ">
 <!ENTITY authMethod.label   "Hentenn dilesa: ">
-

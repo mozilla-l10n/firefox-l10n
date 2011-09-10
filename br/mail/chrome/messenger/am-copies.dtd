@@ -15,12 +15,12 @@
 <!ENTITY bccAddress.accesskey "B">
 <!ENTITY bccAddressList.placeholder "Chomlec'hioù disrannet gant virgulennoù">
 <!ENTITY saveMessageDlg.label "Diskouez ar voestad kendiviz kadarnaat pa vez enrollet ar c'hemennadennoù">
-<!ENTITY saveMessageDlg.accesskey "S">
+<!ENTITY saveMessageDlg.accesskey "s">
 <!-- LOCALIZATION NOTE (sentFolderOn.label): OK to translate this, bug #57440 -->
 <!ENTITY sentFolderOn.label "Teuliad «&#x00A0;Kaset&#x00A0;» e-barzh :">
 <!ENTITY sentFolderOn.accesskey "e">
 <!ENTITY sentInOtherFolder.label "All :">
-<!ENTITY sentInOtherFolder.accesskey "a">
+<!ENTITY sentInOtherFolder.accesskey "A">
 <!-- LOCALIZATION NOTE (archivesFolderOn.label): OK to translate this, bug #57440 -->
 <!ENTITY archivesTitle.label "Dielloù ar c'hemennadennoù">
 <!ENTITY keepArchives.label "Mirout dielloù ar c'hemennadennoù e-barzh :">
@@ -35,7 +35,7 @@
 <!ENTITY keepDrafts.label "Mirout brouilhedoù ar c'hemennadennoù e-barzh :">
 <!-- LOCALIZATION NOTE (draftsFolderOn.label): OK to translate this, bug #57440 -->
 <!ENTITY draftsFolderOn.label "Teuliad ar «&#x00A0;Brouilhedoù&#x00A0;» e-barzh :">
-<!ENTITY draftsFolderOn.accesskey "D">
+<!ENTITY draftsFolderOn.accesskey "d">
 <!ENTITY draftInOtherFolder.label "All :">
 <!ENTITY draftInOtherFolder.accesskey "A">
 <!ENTITY keepTemplates.label "Mirout patromoù ar c'hemennadennoù e-barzh :">
@@ -44,4 +44,3 @@
 <!ENTITY templatesFolderOn.accesskey "m">
 <!ENTITY templateInOtherFolder.label "All :">
 <!ENTITY templateInOtherFolder.accesskey "A">
-

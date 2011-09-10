@@ -1,3 +1,5 @@
+<!--LOCALIZATION NOTE msgCompSecurityInfo.dtd UI for viewing security status when composing a message -->
+
 <!ENTITY title.label "Kemennadenn a-fet diogelroez">
 <!ENTITY subject.plaintextWarning "Notennit, mar plij : testennoù danvez ar posteloù ne vezont ket enrineget.">
 <!ENTITY status.heading "Endalc'hadoù ho kemennadennoù a vo kaset evel-se :">

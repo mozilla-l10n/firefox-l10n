@@ -19,7 +19,6 @@
 <!ENTITY contextBoth.label "Degemeret posteloù pe Lañset dre zorn">
 <!ENTITY contextPostPlugin.label "Degemeret posteloù (goude rummadur)">
 <!ENTITY contextPostPluginBoth.label "Degemeret posteloù (goude rummadur) pe Lañset dre zorn">
-
 <!ENTITY filterActionDesc.label "Lañsañ ar gwezhioù da-heul :">
 <!ENTITY filterActionDesc.accesskey "o">
 
@@ -32,7 +31,7 @@
 <!ENTITY markMessageStarred.label "Ouzhpennañ ur steredenn">
 <!ENTITY setPriority.label "Lakaat tevet da">
 <!ENTITY addTag.label "Kemennadenn gant ur merk">
-<!ENTITY setJunkScore.label 'Lakaat ar stad "Lastez" war :'>
+<!ENTITY setJunkScore.label "Lakaat ar stad « Lastez » war">
 <!ENTITY deleteMessage.label "Dilemel ar gemennadenn">
 <!ENTITY deleteFromPOP.label "Lemel kuit diouzh an dafariad POP">
 <!ENTITY fetchFromPOP.label "Kerc'hat adalek an dafariad POP">

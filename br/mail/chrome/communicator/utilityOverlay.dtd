@@ -1,50 +1,59 @@
-<!ENTITY fileMenu.label "Restr">
-<!ENTITY fileMenu.accesskey "r">
-<!ENTITY newMenu.label "Nevez">
-<!ENTITY newMenu.accesskey "N">
-<!ENTITY editMenu.label "Embann">
-<!ENTITY editMenu.accesskey "e">
-<!ENTITY undoCmd.label "Dizober">
-<!ENTITY undoCmd.key "Z">
-<!ENTITY undoCmd.accesskey "z">
-<!ENTITY redoCmd.label "Adober">
-<!ENTITY redoCmd.key "Y">
-<!ENTITY redoCmd.accesskey "r">
-<!ENTITY cutCmd.label "Troc'hañ">
-<!ENTITY cutCmd.key "X">
-<!ENTITY cutCmd.accesskey "t">
-<!ENTITY copyCmd.label "Eilañ">
-<!ENTITY copyCmd.key "C">
-<!ENTITY copyCmd.accesskey "e">
-<!ENTITY pasteCmd.label "Pegañ">
-<!ENTITY pasteCmd.key "V">
-<!ENTITY pasteCmd.accesskey "p">
-<!ENTITY deleteCmd.label "Dilemel">
-<!ENTITY deleteCmd.accesskey "d">
-<!ENTITY selectAllCmd.label "Diuzañ pep tra">
-<!ENTITY selectAllCmd.key "A">
-<!ENTITY selectAllCmd.accesskey "a">
-<!ENTITY preferencesCmd.label "Dibarzhioù…">
-<!ENTITY preferencesCmd.accesskey "O">
-<!ENTITY preferencesCmdUnix.label "Gwellvezioù">
-<!ENTITY preferencesCmdUnix.accesskey "w">
-<!ENTITY viewMenu.label "Gwelout">
-<!ENTITY viewMenu.accesskey "g">
-<!ENTITY viewToolbarsMenu.label "Barrennoù ostilhoù">
-<!ENTITY viewToolbarsMenu.accesskey "B">
-<!ENTITY showTaskbarCmd.label "Barrenn stad">
-<!ENTITY showTaskbarCmd.accesskey "S">
-<!ENTITY proxy.label "Kefluniadur ar proksi…">
-<!ENTITY proxy.accesskey "f">
-<!ENTITY closeCmd.label "Serriñ">
-<!ENTITY closeCmd.key "W">
-<!ENTITY closeCmd.accesskey "S">
-<!ENTITY quitApplicationCmd.label "Kuitaat">
-<!ENTITY quitApplicationCmd.key "Q">
-<!ENTITY quitApplicationCmd.accesskey "K">
-<!ENTITY quitApplicationCmdUnix.label "Kuitaat">
-<!ENTITY quitApplicationCmdUnix.accesskey "K">
+<!-- these things need to move into utilityOverlay.xul -->
 
-<!ENTITY quitApplicationCmdMac.label  "Quit &brandShortName;">
-<!ENTITY quitApplicationCmdMac.accesskey  "q">
+<!-- LOCALIZATION NOTE : FILE This file contains the global menu items -->
 
+<!ENTITY fileMenu.label          "Restr">
+<!ENTITY fileMenu.accesskey        "r">
+<!ENTITY newMenu.label            "Nevez">
+<!ENTITY newMenu.accesskey          "N">
+
+<!ENTITY editMenu.label          "Embann">
+<!ENTITY editMenu.accesskey        "E">
+<!ENTITY undoCmd.label            "Dizober">
+<!ENTITY undoCmd.key            "Z">
+<!ENTITY undoCmd.accesskey          "z">
+<!ENTITY redoCmd.label            "Adober">
+<!ENTITY redoCmd.key            "Y">
+<!ENTITY redoCmd.accesskey          "r">
+<!ENTITY cutCmd.label            "Troc'hañ">
+<!ENTITY cutCmd.key              "X">
+<!ENTITY cutCmd.accesskey          "T">
+<!ENTITY copyCmd.label            "Eilañ">
+<!ENTITY copyCmd.key            "C">
+<!ENTITY copyCmd.accesskey          "E">
+<!ENTITY pasteCmd.label            "Pegañ">
+<!ENTITY pasteCmd.key            "V">
+<!ENTITY pasteCmd.accesskey          "P">
+<!ENTITY deleteCmd.label          "Dilemel">
+<!ENTITY deleteCmd.accesskey        "D">
+<!ENTITY selectAllCmd.label          "Diuzañ pep tra">
+<!ENTITY selectAllCmd.key          "A">
+<!ENTITY selectAllCmd.accesskey        "a">
+<!ENTITY preferencesCmd.label        "Dibarzhioù…">
+<!ENTITY preferencesCmd.accesskey      "o">
+<!ENTITY preferencesCmdUnix.label       "Gwellvezioù">
+<!ENTITY preferencesCmdUnix.accesskey     "w">
+
+<!ENTITY viewMenu.label          "Gwelout">
+<!ENTITY viewMenu.accesskey        "G">
+<!ENTITY viewToolbarsMenu.label        "Barrennoù ostilhoù">
+<!ENTITY viewToolbarsMenu.accesskey      "B">
+<!ENTITY showTaskbarCmd.label          "Barrenn stad">
+<!ENTITY showTaskbarCmd.accesskey        "s">
+
+<!ENTITY proxy.label                                    "Kefluniadur ar proksi…">
+<!ENTITY proxy.accesskey                                "f">
+
+<!ENTITY closeCmd.label      "Serriñ">
+<!ENTITY closeCmd.key      "W">
+<!ENTITY closeCmd.accesskey    "S">
+
+<!ENTITY quitApplicationCmd.label  "Kuitaat">
+<!ENTITY quitApplicationCmd.key    "Q">
+<!ENTITY quitApplicationCmd.accesskey  "K">
+
+<!ENTITY quitApplicationCmdUnix.label  "Kuitaat">
+<!ENTITY quitApplicationCmdUnix.accesskey  "K">
+
+<!ENTITY quitApplicationCmdMac.label  "Kuitaat &brandShortName;">
+<!ENTITY quitApplicationCmdMac.accesskey  "K">

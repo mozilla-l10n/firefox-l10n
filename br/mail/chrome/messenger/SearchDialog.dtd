@@ -1,36 +1,36 @@
 <!-- for SearchDialog.xul -->
-<!ENTITY searchHeading.label "Klask kemennadennoù e-barzh :">
-<!ENTITY searchHeading.accesskey "k">
-<!ENTITY searchSubfolders.label "Klask isteuliadoù">
-<!ENTITY searchSubfolders.accesskey "i">
+<!ENTITY searchHeading.label         "Klask kemennadennoù e-barzh :">
+<!ENTITY searchHeading.accesskey     "k">
+<!ENTITY searchSubfolders.label      "Klask isteuliadoù">
+<!ENTITY searchSubfolders.accesskey  "i">
 <!ENTITY searchOnServer.label        "Loc'hañ an enklask war an dafariad">
-<!ENTITY searchOnServer.accesskey    "u">
-<!ENTITY resetButton.label "Skarzhañ">
-<!ENTITY resetButton.accesskey "k">
-<!ENTITY openButton.label "Digeriñ">
-<!ENTITY openButton.accesskey "d">
-<!ENTITY deleteButton.label "Dilemel">
-<!ENTITY deleteButton.accesskey "D">
-<!ENTITY searchDialogTitle.label "Klask er c'hemennadennoù">
-<!ENTITY results.label "Disoc'hoù">
-<!ENTITY fileHereMenu.label "Restr amañ">
-<!ENTITY fileHereMenu.accesskey "m">
-<!ENTITY fileButton.label "Restr">
-<!ENTITY fileButton.accesskey "s">
-<!ENTITY closeCmd.key "W">
+<!ENTITY searchOnServer.accesskey    "L">
+<!ENTITY resetButton.label           "Skarzhañ">
+<!ENTITY resetButton.accesskey       "k">
+<!ENTITY openButton.label            "Digeriñ">
+<!ENTITY openButton.accesskey        "D">
+<!ENTITY deleteButton.label          "Dilemel">
+<!ENTITY deleteButton.accesskey      "D">
+<!ENTITY searchDialogTitle.label     "Klask er c'hemennadennoù">
+<!ENTITY results.label               "Disoc'hoù">
+<!ENTITY fileHereMenu.label          "Restr amañ">
+<!ENTITY fileHereMenu.accesskey      "m">
+<!ENTITY fileButton.label            "Restr">
+<!ENTITY fileButton.accesskey        "s">
+<!ENTITY closeCmd.key                "W"> 
 <!ENTITY openInFolder.label          "Digeriñ en teuliad">
 <!ENTITY openInFolder.accesskey      "r">
-<!ENTITY saveAsVFButton.label "Enrollañ evel teuliad-klask">
-<!ENTITY saveAsVFButton.accesskey "a">
+<!ENTITY saveAsVFButton.label        "Enrollañ evel teuliad-klask">
+<!ENTITY saveAsVFButton.accesskey    "a">
 
 <!-- for ABSearchDialog.xul -->
-<!ENTITY abSearchHeading.label "Klask e-barzh :">
-<!ENTITY abSearchHeading.accesskey "S">
-<!ENTITY propertiesButton.label "Perzhioù">
-<!ENTITY propertiesButton.accesskey "P">
-<!ENTITY composeButton.label "Skrivañ">
-<!ENTITY composeButton.accesskey "s">
-<!ENTITY abSearchDialogTitle.label "Klask kempleshoc'h er c'harned posteloù">
+<!ENTITY abSearchHeading.label       "Klask e-barzh :">
+<!ENTITY abSearchHeading.accesskey   "s">
+<!ENTITY propertiesButton.label      "Perzhioù">
+<!ENTITY propertiesButton.accesskey  "P">
+<!ENTITY composeButton.label         "Skrivañ">
+<!ENTITY composeButton.accesskey     "S">
+<!ENTITY abSearchDialogTitle.label   "Klask kempleshoc'h er c'harned posteloù">
 
 <!-- Thread Pane -->
 <!ENTITY threadColumn.label "Neudennad">
@@ -54,7 +54,7 @@
 
 <!-- Thread Pane Tooltips -->
 <!ENTITY columnChooser.tooltip "Klikit evit diuzañ ar bannoù da ziskouez">
-<!ENTITY threadColumn.tooltip "Klikit evit diskouez neudennadoù kemennadennoù">
+<!ENTITY threadColumn.tooltip "Klikit evit diskouez neudennadoù kemennadennoù"> 
 <!ENTITY fromColumn.tooltip "Klikit evit rummañ dre ar c'haser">
 <!ENTITY recipientColumn.tooltip "Klikañ evit rummañ dre an degemerer">
 <!ENTITY subjectColumn.tooltip "Klikit evit rummañ dre an danvez">

@@ -38,19 +38,20 @@
    -
    - ***** END LICENSE BLOCK ***** -->
 
-<!ENTITY folderProps.windowtitle.label "Perzhioù">
-<!ENTITY generalInfo.label "Titouroù hollek">
-<!ENTITY folderCharsetTab.label "Bonegañ an arouezennoù dre ziouer :">
-<!ENTITY folderCharsetTab.accesskey "E">
-<!ENTITY folderCharsetOverride.label "Seveniñ an arventennoù dre ziouer da bep kemennadennoù en teuliad-mañ (laosket e vo a-gostez ar c'hemennadennoù gant ur bonegañ arouezennoù personelaet pe gant an dinoiñ emgefre)">
-<!ENTITY folderCharsetOverride.accesskey "A">
+<!ENTITY folderProps.windowtitle.label           "Perzhioù">
+
+<!ENTITY generalInfo.label                       "Titouroù hollek">
+<!ENTITY folderCharsetTab.label                  "Bonegañ an arouezennoù dre ziouer :">
+<!ENTITY folderCharsetTab.accesskey              "e">
+<!ENTITY folderCharsetOverride.label             "Seveniñ an arventennoù dre ziouer da bep kemennadennoù en teuliad-mañ (laosket e vo a-gostez ar c'hemennadennoù gant ur bonegañ arouezennoù personelaet pe gant an dinoiñ emgefre)">
+<!ENTITY folderCharsetOverride.accesskey         "a">
 <!ENTITY folderRebuildSummaryFileTip2.label      "Adsevel menegva ar restr krenn">
 <!ENTITY folderRebuildSummaryFile2.label         "Dresañ an teuliad">
 <!ENTITY folderRebuildSummaryFile2.accesskey     "D">
 <!ENTITY folderRebuildSummaryFile.explanation    "A-wechoù ar restr menegva an teuliad (.msf) a c'hell bezañ gwallet ha kemennadennoù a ya diwar wel pe kemennadennoù dilamet zo skrammet c'hoazh; dresañ an teuliad a c'hell reizhañ ar c'hudennoù-mañ.">
 <!ENTITY folderIncludeInGlobalSearch.label       "Enderc'hel ar c'hemennadennoù eus an teuliad-mañ e-barzh disoc'hoù ar c'hlask hollek">
 <!ENTITY folderIncludeInGlobalSearch.accesskey   "n">
-
+     
 <!ENTITY retention.label "Pennaennoù derc'hel">
 <!ENTITY retentionUseAccount.label  "Ober gant arventennoù ma c'hont">
 <!ENTITY retentionUseAccount.accesskey "O">
@@ -62,7 +63,7 @@
 <!ENTITY retentionDeleteMsg.label "Dilemel ar c'hemennadennoù koshoc'h eget">
 <!ENTITY retentionDeleteMsg.accesskey "m">
 <!ENTITY retentionKeepAll.label "Chom hep dilemel kemennadennoù">
-<!ENTITY retentionKeepAll.accesskey "A">
+<!ENTITY retentionKeepAll.accesskey "a">
 <!ENTITY retentionKeepRecent.label "Dilemel an holl anezho nemet an nevesañ">
 <!ENTITY retentionKeepRecent.accesskey "l">
 <!-- LOCALIZATION NOTE: Unhide with .keepUnreadOnly { display: -moz-box; } -->
@@ -74,27 +75,28 @@
 <!ENTITY folderCheckForNewMessages2.label         "Atav gwiriañ an teuliad-mañ pa vez degemeret kemennadennoù nevez">
 <!ENTITY folderCheckForNewMessages2.accesskey     "A">
 
-<!ENTITY offlineFolder.check.label "Diuzañ an teuliad-mañ evit un arver ezlinenn">
-<!ENTITY offlineFolder.check.accesskey "t">
-<!ENTITY offlineFolder.button.label "Pellgargañ diouzhtu">
-<!ENTITY offlineFolder.button.accesskey "D">
+<!ENTITY offlineFolder.check.label               "Diuzañ an teuliad-mañ evit un arver ezlinenn">
+<!ENTITY offlineFolder.check.accesskey           "t">
+<!ENTITY offlineFolder.button.label              "Pellgargañ diouzhtu">
+<!ENTITY offlineFolder.button.accesskey          "d">
 
-<!ENTITY selectofflineNewsgroup.check.label "Diuzañ ar strollad-keleier-mañ evit un arver ezlinenn">
-<!ENTITY selectofflineNewsgroup.check.accesskey "o">
-<!ENTITY offlineNewsgroup.button.label "Pellgargañ diouzhtu">
-<!ENTITY offlineNewsgroup.button.accesskey "D">
+<!ENTITY selectofflineNewsgroup.check.label      "Diuzañ ar strollad-keleier-mañ evit un arver ezlinenn">
+<!ENTITY selectofflineNewsgroup.check.accesskey  "o">
+<!ENTITY offlineNewsgroup.button.label           "Pellgargañ diouzhtu">
+<!ENTITY offlineNewsgroup.button.accesskey       "d">
 
-<!ENTITY folderProps.name.label "Anv :">
-<!ENTITY folderProps.name.accesskey "N">
+<!ENTITY folderProps.name.label                  "Anv :">
+<!ENTITY folderProps.name.accesskey              "n">
 <!ENTITY folderProps.location.label              "Lec'hiadur :">
 <!ENTITY folderProps.location.accesskey          "L">
 
-<!ENTITY folderSharingTab.label "Eskemm">
-<!ENTITY privileges.button.label "Brientoù…">
-<!ENTITY privileges.button.accesskey "r">
-<!ENTITY permissionsDesc.label "An aotreoù da-heul ho peus :">
-<!ENTITY folderType.label "Rizh an teuliad :">
-<!ENTITY folderQuotaTab.label "Feur">
-<!ENTITY folderQuotaRoot.label "Gwrizhienn ar feur :">
-<!ENTITY folderQuotaUsage.label "En arver :">
-<!ENTITY folderQuotaStatus.label "Stad :">
+<!ENTITY folderSharingTab.label                  "Eskemm">
+<!ENTITY privileges.button.label                 "Brientoù…">
+<!ENTITY privileges.button.accesskey             "r">
+<!ENTITY permissionsDesc.label                   "An aotreoù da-heul ho peus :">
+<!ENTITY folderType.label                        "Rizh an teuliad :">
+
+<!ENTITY folderQuotaTab.label                    "Feur">
+<!ENTITY folderQuotaRoot.label                   "Gwrizhienn ar feur :">
+<!ENTITY folderQuotaUsage.label                  "En arver :">
+<!ENTITY folderQuotaStatus.label                 "Stad :">

@@ -1,12 +1,12 @@
-<!ENTITY  prefWindow.titleWin "Dibarzhioù">
-<!ENTITY  prefWindow.titleGNOME "Gwellvezioù &brandShortName; ">
+<!ENTITY  prefWindow.titleWin     "Dibarzhioù">
+<!ENTITY  prefWindow.titleGNOME   "Gwellvezioù &brandShortName; ">
 <!ENTITY  prefWindow.styleWindows "width: 59em; min-height: 38.5em;">
 <!ENTITY  prefWindow.styleMac     "width: 58em;">
 <!ENTITY  prefWindow.styleGNOME   "width: 58em; min-height: 38em;">
 
-<!ENTITY paneGeneral.title "Hollek">
-<!ENTITY paneDisplay.title "Skrammañ">
-<!ENTITY paneComposition.title "Aozañ">
-<!ENTITY paneAttachments.title "Kenstagadurioù">
-<!ENTITY paneSecurity.title "Diogelroez">
-<!ENTITY paneAdvanced.title "Kempleshoc'h">
+<!ENTITY paneGeneral.title        "Hollek">
+<!ENTITY paneDisplay.title        "Skrammañ">
+<!ENTITY paneComposition.title    "Aozañ">
+<!ENTITY paneAttachments.title    "Kenstagadurioù">
+<!ENTITY paneSecurity.title       "Diogelroez">
+<!ENTITY paneAdvanced.title       "Kempleshoc'h">

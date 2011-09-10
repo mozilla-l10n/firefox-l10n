@@ -1,17 +1,14 @@
 <!ENTITY messengerWindow.title "Posteloù &amp; strolladoù-keleier">
-<!ENTITY titledefault.label "&brandFullName;">
+<!ENTITY titledefault.label    "&brandFullName;">
 <!ENTITY titleSeparator.label " - ">
 
 <!-- File Menu -->
 <!ENTITY newFolderCmd.label "Teuliad…">
-<!ENTITY newFolderCmd.accesskey "t">
+<!ENTITY newFolderCmd.accesskey "T">
 <!ENTITY closeTabCmd2.label "Serriñ an ivinell">
 <!ENTITY closeTabCmd2.accesskey "S">
 <!ENTITY closeOtherTabsCmd2.label "Serriñ an ivinelloù all">
 <!ENTITY closeOtherTabsCmd2.accesskey "e">
-<!-- LOCALIZATION NOTE (undoCloseTabCmd.label):
-     Menu option to attempt to re-open a recently closed tab.
-     -->
 <!ENTITY recentlyClosedTabsCmd.label "Ivinelloù serret a-nevez zo">
 <!ENTITY recentlyClosedTabsCmd.accesskey "I">
 
@@ -23,22 +20,22 @@
 <!ENTITY moveToNewWindow.label "Dilec'hiañ etrezek ur prenestr nevez">
 <!ENTITY moveToNewWindow.accesskey "D">
 <!ENTITY newVirtualFolderCmd.label "Enrollañ disoc'h ar c'hlask">
-<!ENTITY newVirtualFolderCmd.accesskey "S">
+<!ENTITY newVirtualFolderCmd.accesskey "s">
 <!ENTITY newOtherAccountsCmd.label "Kontoù all…">
 <!ENTITY newOtherAccountsCmd.accesskey "o">
 <!ENTITY newEmailAccountCmd.label "Kont postel…">
 <!ENTITY newEmailAccountCmd.accesskey "K">
 <!ENTITY openMessageFileCmd.label "Digeriñ ar gemennadenn enrollet …">
-<!ENTITY openMessageFileCmd.accesskey "O">
+<!ENTITY openMessageFileCmd.accesskey "o">
 <!ENTITY openAttachmentCmd.label "Teulioù kenstag">
-<!ENTITY openAttachmentCmd.accesskey "A">
+<!ENTITY openAttachmentCmd.accesskey "a">
 <!ENTITY saveAsMenu.label "Enrollañ evel">
 <!ENTITY saveAsMenu.accesskey "e">
 <!ENTITY saveAsFileCmd.label "Restr">
 <!ENTITY saveAsFileCmd.accesskey "R">
 <!ENTITY saveAsFileCmd.key "s">
 <!ENTITY saveAsTemplateCmd.label "Patrom">
-<!ENTITY saveAsTemplateCmd.accesskey "p">
+<!ENTITY saveAsTemplateCmd.accesskey "P">
 <!ENTITY getNewMsgForCmd.label "Kerc'hat ar c'hemennadennoù nevez evit">
 <!ENTITY getNewMsgForCmd.accesskey "t">
 <!ENTITY getAllNewMsgCmdPopupMenu.label "An holl gontoù">
@@ -57,9 +54,9 @@
 <!ENTITY renameFolder.accesskey "e">
 <!ENTITY renameFolder.key "VK_F2">
 <!ENTITY compactFolders.label "Koazhañ an teuliadoù">
-<!ENTITY compactFolders.accesskey "z">
+<!ENTITY compactFolders.accesskey    "z">
 <!ENTITY emptyTrashCmd.label "Goullonderiñ ar gest">
-<!ENTITY emptyTrashCmd.accesskey "g">
+<!ENTITY emptyTrashCmd.accesskey    "g">
 <!ENTITY offlineMenu.label "Ezlinenn">
 <!ENTITY offlineMenu.accesskey "E">
 <!ENTITY offlineGoOfflineCmd.label "Labourat ezlinenn">
@@ -69,11 +66,11 @@
 <!ENTITY settingsOfflineCmd.label "Arventennoù ez-linenn…">
 <!ENTITY settingsOfflineCmd.accesskey "e">
 <!ENTITY downloadSelectedCmd.label "Kerc'hat ar c'hemennadennoù diuzet">
-<!ENTITY downloadSelectedCmd.accesskey "M">
+<!ENTITY downloadSelectedCmd.accesskey "m">
 <!ENTITY downloadStarredCmd.label "Tapout ar c'hemennadennoù gant steredennoù">
 <!ENTITY downloadStarredCmd.accesskey "a">
 <!ENTITY printCmd.label "Moullañ…">
-<!ENTITY printCmd.accesskey "m">
+<!ENTITY printCmd.accesskey "M">
 <!ENTITY printCmd.key "p">
 <!ENTITY printPreviewCmd.label "Alberz moullañ">
 <!ENTITY printPreviewCmd.accesskey "A">
@@ -94,14 +91,14 @@
 <!ENTITY unsubscribeNewsgroupCmd.label "Digoumanantiñ">
 <!ENTITY unsubscribeNewsgroupCmd.accesskey "n">
 <!ENTITY selectMenu.label "Diuzañ">
-<!ENTITY selectMenu.accesskey "d">
+<!ENTITY selectMenu.accesskey "D">
 <!ENTITY all.label "Pep tra">
-<!ENTITY all.accesskey "A">
+<!ENTITY all.accesskey "a">
 <!ENTITY selectThreadCmd.label "Neudennad">
 <!ENTITY selectThreadCmd.accesskey "n">
 <!ENTITY selectThreadCmd.key "a">
 <!ENTITY selectFlaggedCmd.label "Kemennadennoù steredennet">
-<!ENTITY selectFlaggedCmd.accesskey "S">
+<!ENTITY selectFlaggedCmd.accesskey "s">
 <!ENTITY menuFavoriteFolder.label "Teuliad gwell ganin">
 <!ENTITY menuFavoriteFolder.accesskey "a">
 <!ENTITY folderPropsCmd.label "Perzhioù…">
@@ -119,13 +116,13 @@
 <!ENTITY undoDefaultCmd.label "Dizober">
 <!ENTITY undoDefaultCmd.accesskey "z">
 <!ENTITY redoDefaultCmd.label "Adober">
-<!ENTITY redoDefaultCmd.accesskey "R">
+<!ENTITY redoDefaultCmd.accesskey "r">
 
 <!-- View Menu -->
 <!ENTITY showMessengerToolbarCmd.label "Barrenn ostilhoù posteloù">
 <!ENTITY showMessengerToolbarCmd.accesskey "o">
 <!ENTITY customizeToolbar.label "Personelaat…">
-<!ENTITY customizeToolbar.accesskey "p">
+<!ENTITY customizeToolbar.accesskey "P">
 
 <!ENTITY messagePaneLayoutStyle.label "Aozadur">
 <!ENTITY messagePaneLayoutStyle.accesskey "z">
@@ -136,7 +133,7 @@
 <!ENTITY messagePaneVertical.label "Gwel a-serzh">
 <!ENTITY messagePaneVertical.accesskey "s">
 <!ENTITY showMessageCmd.label "Penel ar c'hemennadennoù">
-<!ENTITY showMessageCmd.accesskey "M">
+<!ENTITY showMessageCmd.accesskey "m">
 
 <!ENTITY folderView.label "Teuliadoù">
 <!ENTITY folderView.accesskey "u">
@@ -145,7 +142,7 @@
 <!ENTITY allFolders.label "Pep tra">
 <!ENTITY allFolders.accesskey "P">
 <!ENTITY unreadFolders.label "Ket lennet">
-<!ENTITY unreadFolders.accesskey "N">
+<!ENTITY unreadFolders.accesskey "n">
 <!ENTITY favoriteFolders.label "Gwell ganin">
 <!ENTITY favoriteFolders.accesskey "w">
 <!ENTITY recentFolders.label "Nevesañ">
@@ -161,27 +158,27 @@
 <!ENTITY sortByStarCmd.label "Steredenn">
 <!ENTITY sortByStarCmd.accesskey "S">
 <!ENTITY sortByAttachmentsCmd.label "Kenstagadurioù">
-<!ENTITY sortByAttachmentsCmd.accesskey "A">
+<!ENTITY sortByAttachmentsCmd.accesskey "a">
 <!ENTITY sortByPriorityCmd.label "Tevet">
 <!ENTITY sortByPriorityCmd.accesskey "T">
 <!ENTITY sortBySizeCmd.label "Ment">
-<!ENTITY sortBySizeCmd.accesskey "m">
+<!ENTITY sortBySizeCmd.accesskey "M">
 <!ENTITY sortByStatusCmd.label "Stad">
-<!ENTITY sortByStatusCmd.accesskey "s">
+<!ENTITY sortByStatusCmd.accesskey "S">
 <!ENTITY sortByTagsCmd.label "Gerioù Alc'hwez">
 <!ENTITY sortByTagsCmd.accesskey "G">
 <!ENTITY sortByJunkStatusCmd.label "Stad lastez">
 <!ENTITY sortByJunkStatusCmd.accesskey "s">
 <!ENTITY sortBySubjectCmd.label "Danvez">
-<!ENTITY sortBySubjectCmd.accesskey "d">
+<!ENTITY sortBySubjectCmd.accesskey "D">
 <!ENTITY sortByFromCmd.label "Kaser">
-<!ENTITY sortByFromCmd.accesskey "k">
+<!ENTITY sortByFromCmd.accesskey "K">
 <!ENTITY sortByRecipientCmd.label "Degemerer">
 <!ENTITY sortByRecipientCmd.accesskey "g">
 <!ENTITY sortByUnreadCmd.label "Lennet">
-<!ENTITY sortByUnreadCmd.accesskey "l">
+<!ENTITY sortByUnreadCmd.accesskey "L">
 <!ENTITY sortByOrderReceivedCmd.label "Urzh degemer">
-<!ENTITY sortByOrderReceivedCmd.accesskey "u">
+<!ENTITY sortByOrderReceivedCmd.accesskey "U">
 <!ENTITY sortAscending.label "War-gresk">
 <!ENTITY sortAscending.accesskey "g">
 <!ENTITY sortDescending.label "War-zigresk">
@@ -193,40 +190,42 @@
 <!ENTITY groupBySort.label "A-stroll diouzh ar rummañ">
 <!ENTITY groupBySort.accesskey "r">
 <!ENTITY msgsMenu.label "Kemennadennoù">
-<!ENTITY msgsMenu.accesskey "M">
+<!ENTITY msgsMenu.accesskey "m">
 <!ENTITY threads.label "Neudennadoù">
 <!ENTITY threads.accesskey "e">
 <!ENTITY allMsgsCmd.label "Pep tra">
-<!ENTITY allMsgsCmd.accesskey "A">
+<!ENTITY allMsgsCmd.accesskey "a">
 <!ENTITY expandAllThreadsCmd.label "Astennañ an holl neudennadoù">
-<!ENTITY expandAllThreadsCmd.accesskey "E">
+<!ENTITY expandAllThreadsCmd.accesskey "e">
 <!ENTITY expandAllThreadsCmd.key "*">
 <!ENTITY collapseAllThreadsCmd.label "Adklozañ an holl neudennadoù">
 <!ENTITY collapseAllThreadsCmd.accesskey "k">
 <!ENTITY collapseAllThreadsCmd.key "\">
 <!ENTITY unreadMsgsCmd.label "Ket lennet">
-<!ENTITY unreadMsgsCmd.accesskey "N">
+<!ENTITY unreadMsgsCmd.accesskey "n">
 <!ENTITY threadsWithUnreadCmd.label "Neudennadoù gant Ket lennet">
 <!ENTITY threadsWithUnreadCmd.accesskey "n">
 <!ENTITY watchedThreadsWithUnreadCmd.label "Neudennadoù gwelet gant ar re ket lennet">
-<!ENTITY watchedThreadsWithUnreadCmd.accesskey "W">
+<!ENTITY watchedThreadsWithUnreadCmd.accesskey "w">
 <!ENTITY ignoredThreadsCmd.label "Leuskel an neudennadoù a-gostez">
 <!ENTITY ignoredThreadsCmd.accesskey "l">
 
 <!ENTITY headersMenu.label "Talbennoù">
 <!ENTITY headersMenu.accesskey "T">
 <!ENTITY headersAllCmd.label "Pep tra">
-<!ENTITY headersAllCmd.accesskey "A">
+<!ENTITY headersAllCmd.accesskey "a">
 <!ENTITY headersNormalCmd.label "Reizh">
-<!ENTITY headersNormalCmd.accesskey "r">
+<!ENTITY headersNormalCmd.accesskey "R">
 <!ENTITY bodyMenu.label "Korf ar gemennadenn dindan">
-<!ENTITY bodyMenu.accesskey "k">
+<!ENTITY bodyMenu.accesskey "K">
 <!ENTITY bodyAllowHTML.label "HTML Orinel">
 <!ENTITY bodyAllowHTML.accesskey "H">
 <!ENTITY bodySanitized.label "HTML Eeun">
 <!ENTITY bodySanitized.accesskey "e">
 <!ENTITY bodyAsPlaintext.label "Testenn eeun">
 <!ENTITY bodyAsPlaintext.accesskey "T">
+<!ENTITY bodyAllParts.label "Holl rannoù ar c'horf">
+<!ENTITY bodyAllParts.accesskey "a">
 
 <!ENTITY bodyMenuFeed.label "Korf testenn al lanv">
 <!ENTITY bodyMenuFeed.accesskey "f">
@@ -235,10 +234,10 @@
 <!ENTITY viewFeedSummary.label "Krennadur">
 <!ENTITY viewFeedSummary.accesskey "K">
 <!ENTITY viewFeedSummaryFeedPropsPref.label "Mentrezh dre ziouer">
-<!ENTITY viewFeedSummaryFeedPropsPref.accesskey "D">
+<!ENTITY viewFeedSummaryFeedPropsPref.accesskey "d">
 
 <!ENTITY viewAttachmentsInlineCmd.label "Skrammañ ar c'henstagadurioù a-steud">
-<!ENTITY viewAttachmentsInlineCmd.accesskey "A">
+<!ENTITY viewAttachmentsInlineCmd.accesskey "a">
 
 <!-- LOCALIZATION NOTE :
 fullZoomEnlargeCmd.commandkey3, fullZoomReduceCmd.commandkey2 and
@@ -258,7 +257,7 @@ you can use these alternative items. Otherwise, their values should be empty.  -
 <!ENTITY fullZoomReduceCmd.commandkey2  "">
 
 <!ENTITY fullZoomResetCmd.label         "Adderaouekaat">
-<!ENTITY fullZoomResetCmd.accesskey     "R">
+<!ENTITY fullZoomResetCmd.accesskey     "r">
 <!ENTITY fullZoomResetCmd.commandkey    "0">
 <!ENTITY fullZoomResetCmd.commandkey2   "">
 
@@ -268,14 +267,14 @@ you can use these alternative items. Otherwise, their values should be empty.  -
 <!ENTITY fullZoom.accesskey             "Z">
 
 <!ENTITY pageSourceCmd.label "Tarzh ar gemennadenn">
-<!ENTITY pageSourceCmd.accesskey "t">
+<!ENTITY pageSourceCmd.accesskey "T">
 <!ENTITY pageSourceCmd.key "u">
 
 <!-- Search Menu -->
 <!ENTITY findMenu.label "Kavout">
 <!ENTITY findMenu.accesskey "K">
 <!ENTITY findCmd.label "Kavout er gemennadenn-mañ …">
-<!ENTITY findCmd.accesskey "k">
+<!ENTITY findCmd.accesskey "K">
 <!ENTITY findCmd.key "f">
 <!ENTITY findAgainCmd.label "Kavout c'hoazh">
 <!ENTITY findAgainCmd.accesskey "a">
@@ -284,85 +283,85 @@ you can use these alternative items. Otherwise, their values should be empty.  -
 <!ENTITY findPrevCmd.key "g">
 <!ENTITY findPrevCmd.key2 "VK_F3">
 <!ENTITY searchMailCmd.label "Klask er c'hemennadennoù…">
-<!ENTITY searchMailCmd.accesskey "M">
+<!ENTITY searchMailCmd.accesskey "m">
 <!ENTITY searchMailCmd.key "f">
 <!ENTITY searchAddressesCmd.label "Klask chomlec'hioù…">
-<!ENTITY searchAddressesCmd.accesskey "S">
+<!ENTITY searchAddressesCmd.accesskey "s">
 
 <!-- Go Menu -->
 <!ENTITY goMenu.label "Mont">
-<!ENTITY goMenu.accesskey "m">
+<!ENTITY goMenu.accesskey "M">
 <!ENTITY nextMenu.label "War-lerc'h">
-<!ENTITY nextMenu.accesskey "w">
+<!ENTITY nextMenu.accesskey "W">
 <!ENTITY nextMsgCmd.label "Kemennadenn">
-<!ENTITY nextMsgCmd.accesskey "M">
+<!ENTITY nextMsgCmd.accesskey "m">
 <!ENTITY nextMsgCmd.key "f">
 <!ENTITY nextUnreadMsgCmd.label "Kemennadenn ket lennet">
 <!ENTITY nextUnreadMsgCmd.accesskey "n">
 <!ENTITY nextUnreadMsgCmd.key "n">
 <!ENTITY nextStarredMsgCmd.label "Kemennadenn gant ur steredenn">
-<!ENTITY nextStarredMsgCmd.accesskey "S">
+<!ENTITY nextStarredMsgCmd.accesskey "s">
 <!ENTITY nextUnreadThread.label "Adlakaat an neudennad evel Nevez">
 <!ENTITY nextUnreadThread.accesskey "d">
 <!ENTITY nextUnreadThread.key "t">
 <!ENTITY prevMenu.label "Kent">
 <!ENTITY prevMenu.accesskey "n">
 <!ENTITY prevMsgCmd.label "Kemennadenn">
-<!ENTITY prevMsgCmd.accesskey "M">
+<!ENTITY prevMsgCmd.accesskey "m">
 <!ENTITY prevMsgCmd.key "b">
 <!ENTITY prevUnreadMsgCmd.label "Kemennadenn ket lennet">
 <!ENTITY prevUnreadMsgCmd.accesskey "l">
 <!ENTITY prevUnreadMsgCmd.key "p">
 <!ENTITY goForwardCmd.label "Lakaat da dremen">
-<!ENTITY goForwardCmd.accesskey "K">
+<!ENTITY goForwardCmd.accesskey "k">
 <!ENTITY goForwardCmd.commandKey "]">
 <!ENTITY goBackCmd.label "Kent">
 <!ENTITY goBackCmd.accesskey "K">
 <!ENTITY goBackCmd.commandKey "[">
 <!ENTITY prevStarredMsgCmd.label "Kemennadenn gant ur steredenn">
-<!ENTITY prevStarredMsgCmd.accesskey "S">
+<!ENTITY prevStarredMsgCmd.accesskey "s">
 <!ENTITY folderMenu.label "Teuliad">
 <!ENTITY folderMenu.accesskey "T">
 <!ENTITY thisFolder.label "An teuliad-mañ">
 <!ENTITY thisFolder.accesskey "m">
 <!ENTITY goRecentlyClosedTabs.label "Ivinelloù serret a-nevez zo">
 <!ENTITY startPageCmd.label "Pajennad deroù ar posteloù">
-<!ENTITY startPageCmd.accesskey "S">
+<!ENTITY startPageCmd.accesskey "s">
 
 <!-- Message Menu -->
 <!ENTITY msgMenu.label "Kemennadenn">
-<!ENTITY msgMenu.accesskey "M">
+<!ENTITY msgMenu.accesskey "m">
 <!ENTITY newMsgCmd.label "Kemennadenn nevez">
-<!ENTITY newMsgCmd.accesskey "N">
+<!ENTITY newMsgCmd.accesskey "n">
 <!ENTITY newNewMsgCmd.label "Kemennadenn">
-<!ENTITY newNewMsgCmd.accesskey "M">
+<!ENTITY newNewMsgCmd.accesskey "m">
 <!ENTITY archiveMsgCmd.label "Diellouañ">
 <!ENTITY archiveMsgCmd.accesskey "a">
 <!ENTITY archiveMsgCmd.key  "a">
 <!ENTITY cancelNewsMsgCmd.label "Dilezel ar gemennadenn">
-<!ENTITY cancelNewsMsgCmd.accesskey "C">
+<!ENTITY cancelNewsMsgCmd.accesskey "D">
 <!ENTITY replyMsgCmd.label "Respont">
 <!ENTITY replyMsgCmd.accesskey "R">
 <!ENTITY replyMsgCmd.key  "r">
 <!ENTITY replySenderCmd.label "Respont d'ar c'haser hepken">
 <!ENTITY replySenderCmd.accesskey "R">
 <!ENTITY replyNewsgroupCmd.label "Respont d'ar strollad-keleier">
-<!ENTITY replyNewsgroupCmd.accesskey "s">
+<!ENTITY replyNewsgroupCmd.accesskey  "s">
 <!ENTITY replyToAllMsgCmd.label "Respont d'an holl">
-<!ENTITY replyToAllMsgCmd.accesskey "a">
+<!ENTITY replyToAllMsgCmd.accesskey  "a">
 <!ENTITY replyToAllMsgCmd.key  "r">
 <!ENTITY replyToListMsgCmd.label "Respont d'ar roll">
 <!ENTITY replyToListMsgCmd.accesskey  "l">
 <!ENTITY replyToListMsgCmd.key  "l">
 <!ENTITY forwardMsgCmd.label "Lakaat da dremen">
 <!ENTITY forwardMsgCmd.accesskey "n">
-<!ENTITY forwardMsgCmd.key "l">
+<!ENTITY forwardMsgCmd.key  "l">
 <!ENTITY forwardAsMenu.label "Lakaat da dremen dindan">
 <!ENTITY forwardAsMenu.accesskey "d">
 <!ENTITY forwardAsInline.label "A-steud">
 <!ENTITY forwardAsInline.accesskey "s">
 <!ENTITY forwardAsAttachmentCmd.label "Kenstagadurioù">
-<!ENTITY forwardAsAttachmentCmd.accesskey "A">
+<!ENTITY forwardAsAttachmentCmd.accesskey "a">
 <!ENTITY editMsgAsNewCmd.label "Embann ar gemennadenn evel unan nevez">
 <!ENTITY editMsgAsNewCmd.accesskey "E">
 <!ENTITY editMsgAsNewCmd.key "e">
@@ -373,7 +372,7 @@ you can use these alternative items. Otherwise, their values should be empty.  -
 <!ENTITY moveCopyMsgRecentMenu.label "Nevesañ">
 <!ENTITY moveCopyMsgRecentMenu.accesskey "v">
 <!ENTITY copyMessageLocation.label "Eilañ lec'hiadur ar gemennadenn">
-<!ENTITY copyMessageLocation.accesskey "M">
+<!ENTITY copyMessageLocation.accesskey "m">
 <!ENTITY copyMsgToMenu.label "Eilañ etrezek">
 <!ENTITY copyMsgToMenu.accesskey "i">
 <!ENTITY moveToFolderAgain.label "Dilec'hiañ c'hoazh">
@@ -386,14 +385,14 @@ you can use these alternative items. Otherwise, their values should be empty.  -
 <!ENTITY killSubthreadMenu.accesskey "s">
 <!ENTITY killSubthreadMenu.key "k">
 <!ENTITY watchThreadMenu.label "Sellout ouzh an neudennad">
-<!ENTITY watchThreadMenu.accesskey "s">
+<!ENTITY watchThreadMenu.accesskey "S">
 <!ENTITY watchThreadMenu.key "w">
 <!ENTITY fileHereMenu.label "Kargañ amañ">
 <!ENTITY fileHereMenu.accesskey "a">
 <!ENTITY copyHereMenu.label "Eilañ amañ">
 <!ENTITY copyHereMenu.accesskey "m">
 <!ENTITY tagMenu.label "Merk">
-<!ENTITY tagMenu.accesskey "m">
+<!ENTITY tagMenu.accesskey "M">
 <!ENTITY tagCmd0.key "0">
 <!ENTITY tagCmd1.key "1">
 <!ENTITY tagCmd2.key "2">
@@ -415,13 +414,13 @@ you can use these alternative items. Otherwise, their values should be empty.  -
 <!ENTITY markThreadAsReadCmd.accesskey "n">
 <!ENTITY markThreadAsReadCmd.key "r">
 <!ENTITY markReadByDateCmd.label "Evel lennet diouzh an deiziad…">
-<!ENTITY markReadByDateCmd.accesskey "D">
+<!ENTITY markReadByDateCmd.accesskey "d">
 <!ENTITY markReadByDateCmd.key "c">
 <!ENTITY markAllReadCmd.label "Pep tra lennet">
 <!ENTITY markAllReadCmd.accesskey "p">
 <!ENTITY markAllReadCmd.key "c">
 <!ENTITY markStarredCmd.label "Ouzhpennañ ur steredenn">
-<!ENTITY markStarredCmd.accesskey "S">
+<!ENTITY markStarredCmd.accesskey "s">
 <!ENTITY markStarredCmd.key "S">
 <!ENTITY markAsJunkCmd.label "Evel lastez">
 <!ENTITY markAsJunkCmd.accesskey "s">
@@ -430,21 +429,21 @@ you can use these alternative items. Otherwise, their values should be empty.  -
 <!ENTITY markAsNotJunkCmd.accesskey "p">
 <!ENTITY markAsNotJunkCmd.key "j">
 <!ENTITY recalculateJunkScoreCmd.label "Lañsañ reolerezhioù ar posteloù lastez">
-<!ENTITY recalculateJunkScoreCmd.accesskey "S">
+<!ENTITY recalculateJunkScoreCmd.accesskey "s">
 <!ENTITY openMessageWindowCmd.label "Digeriñ ar gemennadenn">
 <!ENTITY openMessageWindowCmd.accesskey "i">
 <!ENTITY openMessageWindowCmd.key "o">
 <!ENTITY openConversationCmd.label "Digeriñ e-barzh ar gaozeadenn">
-<!ENTITY openConversationCmd.accesskey "s">
+<!ENTITY openConversationCmd.accesskey "D">
 <!ENTITY openConversationCmd.key "o">
 <!ENTITY openFeedMessage.label "Digeriñ kemennadenn al lanv">
-<!ENTITY openFeedMessage.accesskey "O">
+<!ENTITY openFeedMessage.accesskey "D">
 <!ENTITY openFeedWebPageInWindow.label "Pajennad web e-barzh ur prenestr nevez">
 <!ENTITY openFeedWebPageInWindow.accesskey "w">
 <!ENTITY openFeedSummaryInWindow.label "Krennadur e-barzh ur prenestr nevez">
 <!ENTITY openFeedSummaryInWindow.accesskey "K">
 <!ENTITY openFeedWebPageInMP.label "Dazeilañ etre ar bajennad web hag ar c'hrennadur er penel kemennadenn">
-<!ENTITY openFeedWebPageInMP.accesskey "T">
+<!ENTITY openFeedWebPageInMP.accesskey "t">
 
 <!-- Windows Menu -->
 <!ENTITY windowMenu.label "Prenestr">
@@ -467,7 +466,7 @@ you can use these alternative items. Otherwise, their values should be empty.  -
 <!ENTITY filtersCmd.label "Siloù ar c'hemennadennoù…">
 <!ENTITY filtersCmd.accesskey "S">
 <!ENTITY filtersApply.label "Lañsañ ar siloù war an teuliad">
-<!ENTITY filtersApply.accesskey "R">
+<!ENTITY filtersApply.accesskey "r">
 <!ENTITY filtersApplyToSelection.label "Lañsañ ar siloù war ar c'hemennadennoù diuzet">
 <!ENTITY filtersApplyToSelection.accesskey "c">
 <!ENTITY filtersApplyToMessage.label "Lañsañ ar siloù war ar gemennadenn">
@@ -544,7 +543,7 @@ you can use these alternative items. Otherwise, their values should be empty.  -
 
 <!-- Tags Menu Popup -->
 <!ENTITY addNewTag.label "Merk nevez…">
-<!ENTITY addNewTag.accesskey "N">
+<!ENTITY addNewTag.accesskey "n">
 
 <!-- Folder Pane -->
 <!ENTITY folderColumn.label "Anv">
@@ -554,17 +553,17 @@ you can use these alternative items. Otherwise, their values should be empty.  -
 <!ENTITY folderContextGetMessages.label "Kerc'hat ar posteloù">
 <!ENTITY folderContextGetMessages.accesskey "K">
 <!ENTITY folderContextOpenNewWindow.label "Digeriñ e-barzh ur prenestr posteloù nevez">
-<!ENTITY folderContextOpenNewWindow.accesskey "d">
+<!ENTITY folderContextOpenNewWindow.accesskey "D">
 <!ENTITY folderContextOpenNewTab.label "Digeriñ e-barzh un ivinell nevez">
 <!ENTITY folderContextOpenNewTab.accesskey "v">
 <!ENTITY folderContextNew.label "Isteuliad nevez…">
-<!ENTITY folderContextNew.accesskey "N">
+<!ENTITY folderContextNew.accesskey "n">
 <!ENTITY folderContextRename.label "Adenvel">
 <!ENTITY folderContextRename.accesskey "d">
 <!ENTITY folderContextRemove.label "Dilemel">
 <!ENTITY folderContextRemove.accesskey "D">
 <!ENTITY folderContextCompact.label "Koazhañ">
-<!ENTITY folderContextCompact.accesskey "k">
+<!ENTITY folderContextCompact.accesskey "K">
 <!ENTITY folderContextEmptyTrash.label "Goullonderiñ ar gest">
 <!ENTITY folderContextEmptyTrash.accesskey "G">
 <!ENTITY folderContextEmptyJunk.label "Goullonderiñ al lastez">
@@ -572,7 +571,7 @@ you can use these alternative items. Otherwise, their values should be empty.  -
 <!ENTITY folderContextSendUnsentMessages.label "Kas ar c'hemennadennoù o chom…">
 <!ENTITY folderContextSendUnsentMessages.accesskey "d">
 <!ENTITY folderContextUnsubscribe.label "Digoumanantiñ">
-<!ENTITY folderContextUnsubscribe.accesskey "U">
+<!ENTITY folderContextUnsubscribe.accesskey "u">
 <!ENTITY folderContextMarkNewsgroupRead.label "Merkañ ar strollad-keleier evel Lennet">
 <!ENTITY folderContextMarkNewsgroupRead.accesskey "s">
 <!ENTITY folderContextMarkMailFolderRead.label "Merkañ an teuliad evel Lennet">
@@ -590,7 +589,7 @@ you can use these alternative items. Otherwise, their values should be empty.  -
 
 <!-- Search Bar -->
 <!ENTITY SearchNameOrEmail.label "Enderc'hel a ra Anv pe Postel :">
-<!ENTITY SearchNameOrEmail.accesskey "N">
+<!ENTITY SearchNameOrEmail.accesskey "n">
 
 <!-- Gloda Search Bar -->
 <!ENTITY glodaSearchBar.placeholder "Klask er c'hemennadennoù…">
@@ -667,15 +666,15 @@ you can use these alternative items. Otherwise, their values should be empty.  -
 <!ENTITY contextReplyNewsgroup.label "Respont d'ar strollad-keleier">
 <!ENTITY contextReplyNewsgroup.accesskey "s">
 <!ENTITY contextReplyAll.label "Respont d'an holl">
-<!ENTITY contextReplyAll.accesskey "r">
+<!ENTITY contextReplyAll.accesskey "R">
 <!ENTITY contextReplyList.label "Respont d'ar roll">
-<!ENTITY contextReplyList.accesskey "L">
+<!ENTITY contextReplyList.accesskey "l">
 <!ENTITY contextForward.label "Lakaat da dremen">
 <!ENTITY contextForward.accesskey "e">
 <!ENTITY contextForwardAsAttachment.label "Kas en-dro evel kenstagadurioù">
 <!ENTITY contextForwardAsAttachment.accesskey "k">
 <!ENTITY contextMoveMsgMenu.label "Dilec'hiañ etrezek">
-<!ENTITY contextMoveMsgMenu.accesskey "d">
+<!ENTITY contextMoveMsgMenu.accesskey "D">
 <!ENTITY contextMoveCopyMsgRecentMenu.label "Nevesañ">
 <!ENTITY contextMoveCopyMsgRecentMenu.accesskey "v">
 <!ENTITY contextCopyMsgMenu.label "Eilañ etrezek">
@@ -683,7 +682,7 @@ you can use these alternative items. Otherwise, their values should be empty.  -
 <!ENTITY contextSaveAs.label "Enrollañ evel…">
 <!ENTITY contextSaveAs.accesskey "e">
 <!ENTITY contextPrint.label "Moullañ…">
-<!ENTITY contextPrint.accesskey "m">
+<!ENTITY contextPrint.accesskey "M">
 <!ENTITY contextPrintPreview.label "Alberz moullañ">
 <!ENTITY contextPrintPreview.accesskey "u">
 
@@ -761,9 +760,9 @@ you can use these alternative items. Otherwise, their values should be empty.  -
 
 <!-- MDN Bar -->
 <!ENTITY mdnBarIgnoreButton2.label "Na zerc'hel kont">
-<!ENTITY mdnBarIgnoreButton2.accesskey "I">
+<!ENTITY mdnBarIgnoreButton2.accesskey "N">
 <!ENTITY mdnBarSendButton2.label "Kas ar gemenn degemer">
-<!ENTITY mdnBarSendButton2.accesskey "S">
+<!ENTITY mdnBarSendButton2.accesskey "s">
 
 <!-- Quick Search Bar -->
 <!-- LOCALIZATION NOTE (quickSearchCmd.key):
@@ -802,11 +801,11 @@ you can use these alternative items. Otherwise, their values should be empty.  -
 <!ENTITY EditContact.label "Embann an darempred…">
 <!ENTITY EditContact.accesskey "E">
 <!ENTITY ViewContact.label "Gwelout an darempred">
-<!ENTITY ViewContact.accesskey "g">
+<!ENTITY ViewContact.accesskey "G">
 <!ENTITY SubscribeToNewsgroup.label "Koumanantiñ d'ur strollad-keleier">
 <!ENTITY SubscribeToNewsgroup.accesskey "K">
 <!ENTITY SendMessageTo.label "Skridaozañ ur gemennadenn da…">
-<!ENTITY SendMessageTo.accesskey "s">
+<!ENTITY SendMessageTo.accesskey "S">
 <!ENTITY CopyEmailAddress.label "Eilañ ar chomlec'h postel">
 <!ENTITY CopyEmailAddress.accesskey "i">
 <!ENTITY CopyNewsgroupName.label "Eilañ anv ar strollad-keleier">
@@ -846,8 +845,8 @@ you can use these alternative items. Otherwise, their values should be empty.  -
 <!ENTITY statusText.label "Graet eo">
 
 <!--  Mac OS X Window Menu -->
-<!ENTITY minimizeWindow.key "m">
 <!ENTITY minimizeWindow.label "Bihanaat ar prenestr">
+<!ENTITY minimizeWindow.key "m">
 <!ENTITY bringAllToFront.label "Kas pep tra war ar rakleur">
 <!ENTITY zoomWindow.label "Zoum">
 
@@ -863,4 +862,3 @@ you can use these alternative items. Otherwise, their values should be empty.  -
 <!ENTITY hideOtherAppsCmdMac.commandkey "K">
 <!ENTITY hideOtherAppsCmdMac.modifiers  "accel,alt">
 <!ENTITY showAllAppsCmdMac.label        "Diskwel an holl">
-

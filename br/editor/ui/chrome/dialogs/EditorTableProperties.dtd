@@ -1,71 +1,108 @@
-<!ENTITY tableWindow.title "Perzhioù an daolenn">
-<!ENTITY applyButton.label "Arloañ">
-<!ENTITY applyButton.accesskey "A">
-<!ENTITY closeButton.label "Serriñ">
-<!ENTITY tableTab.label "Taolenn">
-<!ENTITY cellTab.label "Kelligoù">
-<!ENTITY tableRows.label "Renkadoù :">
-<!ENTITY tableRows.accessKey "r">
-<!ENTITY tableColumns.label "Bannoù :">
-<!ENTITY tableColumns.accessKey "B">
-<!ENTITY tableHeight.label "Sav :">
-<!ENTITY tableHeight.accessKey "s">
-<!ENTITY tableWidth.label "Led :">
-<!ENTITY tableWidth.accessKey "D">
-<!ENTITY tableBorderSpacing.label "Riblenn hag esaouiñ">
-<!ENTITY tableBorderWidth.label "Riblenn :">
-<!ENTITY tableBorderWidth.accessKey "R">
-<!ENTITY tableSpacing.label "Esaouiñ :">
-<!ENTITY tableSpacing.accessKey "S">
-<!ENTITY tablePadding.label "Leuniadur :">
-<!ENTITY tablePadding.accessKey "u">
-<!ENTITY tablePxBetwCells.label "a bikselioù etre ar c'helligoù">
-<!ENTITY tablePxBetwBrdrCellContent.label "a bikselioù etre riblenn ar gellig hag hec'h endalc'had">
-<!ENTITY tableAlignment.label "Desteudadur an daolenn :">
-<!ENTITY tableAlignment.accessKey "T">
-<!ENTITY tableCaption.label "Pakadur :">
-<!ENTITY tableCaption.accessKey "p">
-<!ENTITY tableCaptionAbove.label "A-us d'an daolenn">
-<!ENTITY tableCaptionBelow.label "Dindan an daolenn">
-<!ENTITY tableCaptionLeft.label "Tu kleiz eus an daolenn">
-<!ENTITY tableCaptionRight.label "Tu dehou an daolenn">
-<!ENTITY tableCaptionNone.label "tra ebet">
-<!ENTITY tableInheritColor.label "(Leuskel liv ar bajenn treuzwelus)">
+<!-- ***** BEGIN LICENSE BLOCK *****
+   - Version: MPL 1.1/GPL 2.0/LGPL 2.1
+   -
+   - The contents of this file are subject to the Mozilla Public License Version
+   - 1.1 (the "License"); you may not use this file except in compliance with
+   - the License. You may obtain a copy of the License at
+   - http://www.mozilla.org/MPL/
+   -
+   - Software distributed under the License is distributed on an "AS IS" basis,
+   - WITHOUT WARRANTY OF ANY KIND, either express or implied. See the License
+   - for the specific language governing rights and limitations under the
+   - License.
+   -
+   - The Original Code is Mozilla Communicator client code, released
+   - March 31, 1998.
+   -
+   - The Initial Developer of the Original Code is
+   - Netscape Communications Corporation.
+   - Portions created by the Initial Developer are Copyright (C) 1998-1999
+   - the Initial Developer. All Rights Reserved.
+   -
+   - Contributor(s):
+   -
+   - Alternatively, the contents of this file may be used under the terms of
+   - either of the GNU General Public License Version 2 or later (the "GPL"),
+   - or the GNU Lesser General Public License Version 2.1 or later (the "LGPL"),
+   - in which case the provisions of the GPL or the LGPL are applicable instead
+   - of those above. If you wish to allow use of your version of this file only
+   - under the terms of either the GPL or the LGPL, and not to allow others to
+   - use your version of this file under the terms of the MPL, indicate your
+   - decision by deleting the provisions above and replace them with the notice
+   - and other provisions required by the GPL or the LGPL. If you do not delete
+   - the provisions above, a recipient may use your version of this file under
+   - the terms of any one of the MPL, the GPL or the LGPL.
+   -
+   - ***** END LICENSE BLOCK ***** -->
 
-<!ENTITY cellSelection.label "Diuzad">
-<!ENTITY cellSelectCell.label "Kellig">
-<!ENTITY cellSelectRow.label "Renkad">
-<!ENTITY cellSelectColumn.label "Bann">
-<!ENTITY cellSelectNext.label "War-lerc'h">
-<!ENTITY cellSelectNext.accessKey "W">
-<!ENTITY cellSelectPrevious.label "Kent">
-<!ENTITY cellSelectPrevious.accessKey "K">
+<!ENTITY tableWindow.title                "Perzhioù an daolenn">
+<!ENTITY applyButton.label                "Arloañ">
+<!ENTITY applyButton.accesskey            "A">
+<!ENTITY closeButton.label                "Serriñ">
+<!ENTITY tableTab.label                   "Taolenn">
+<!ENTITY cellTab.label                    "Kelligoù">
+<!ENTITY tableRows.label                  "Renkadoù :">
+<!ENTITY tableRows.accessKey              "r">
+<!ENTITY tableColumns.label               "Bannoù :">
+<!ENTITY tableColumns.accessKey           "B">
+<!ENTITY tableHeight.label                "Sav :">
+<!ENTITY tableHeight.accessKey            "s">
+<!ENTITY tableWidth.label                 "Led :">
+<!ENTITY tableWidth.accessKey             "D">
+<!ENTITY tableBorderSpacing.label         "Riblenn hag esaouiñ">
+<!ENTITY tableBorderWidth.label           "Riblenn :">
+<!ENTITY tableBorderWidth.accessKey       "R">
+<!ENTITY tableSpacing.label               "Esaouiñ :">
+<!ENTITY tableSpacing.accessKey           "S">
+<!ENTITY tablePadding.label               "Leuniadur :">
+<!ENTITY tablePadding.accessKey           "u">
+<!ENTITY tablePxBetwCells.label           "a bikselioù etre ar c'helligoù">
+<!ENTITY tablePxBetwBrdrCellContent.label "a bikselioù etre riblenn ar gellig hag hec'h endalc'had">
+<!ENTITY tableAlignment.label             "Desteudadur an daolenn :">
+<!ENTITY tableAlignment.accessKey         "T">
+<!ENTITY tableCaption.label               "Pakadur :">
+<!ENTITY tableCaption.accessKey           "p">
+<!ENTITY tableCaptionAbove.label          "A-us d'an daolenn">
+<!ENTITY tableCaptionBelow.label          "Dindan an daolenn">
+<!ENTITY tableCaptionLeft.label           "Tu kleiz eus an daolenn">
+<!ENTITY tableCaptionRight.label          "Tu dehou an daolenn">
+<!ENTITY tableCaptionNone.label           "tra ebet">
+<!ENTITY tableInheritColor.label           "(Leuskel liv ar bajenn treuzwelus)">
+
+<!ENTITY cellSelection.label              "Diuzad">
+<!ENTITY cellSelectCell.label             "Kellig">
+<!ENTITY cellSelectRow.label              "Renkad">
+<!ENTITY cellSelectColumn.label           "Bann">
+<!ENTITY cellSelectNext.label             "War-lerc'h">
+<!ENTITY cellSelectNext.accessKey         "W">
+<!ENTITY cellSelectPrevious.label         "Kent">
+<!ENTITY cellSelectPrevious.accessKey     "K">
 <!ENTITY applyBeforeChange.label          "Sevenet e vo ar c'hemmoù bremanel kent kemmañ an diuzad.">
-<!ENTITY cellContentAlignment.label "Desteudadur an endalc'had">
-<!ENTITY cellHorizontal.label "A-zremm :">
-<!ENTITY cellHorizontal.accessKey "Z">
-<!ENTITY cellVertical.label "A-serzh :">
-<!ENTITY cellVertical.accessKey "s">
-<!ENTITY cellStyle.label "Rizh ar c'helligoù :">
-<!ENTITY cellStyle.accessKey "C">
-<!ENTITY cellNormal.label "Reizh">
-<!ENTITY cellHeader.label "Talbenn">
-<!ENTITY cellTextWrap.label "Ambakañ an destenn :">
-<!ENTITY cellTextWrap.accessKey "T">
-<!ENTITY cellWrap.label "Ambakañ">
-<!ENTITY cellNoWrap.label "Na ambakañ">
-<!ENTITY cellAlignTop.label "Krec'h">
-<!ENTITY cellAlignMiddle.label "Kreiz">
-<!ENTITY cellAlignBottom.label "Diaz">
-<!ENTITY cellAlignJustify.label "Marzekaat">
-<!ENTITY cellInheritColor.label "(Leuskel taolennad al livioù treuzwelus)">
-<!ENTITY cellUseCheckboxHelp.label "Arverañ ar boestadoù kevaskañ evit despizañ peseurt perzhioù a vo arloet d'an holl gelligoù bet diuzet">
+<!ENTITY cellContentAlignment.label       "Desteudadur an endalc'had">
+<!ENTITY cellHorizontal.label             "A-zremm :">
+<!ENTITY cellHorizontal.accessKey         "Z">
+<!ENTITY cellVertical.label               "A-serzh :">
+<!ENTITY cellVertical.accessKey           "s">
+<!ENTITY cellStyle.label                  "Rizh ar c'helligoù :">
+<!ENTITY cellStyle.accessKey              "C">
+<!ENTITY cellNormal.label                 "Reizh">
+<!ENTITY cellHeader.label                 "Talbenn">
+<!ENTITY cellTextWrap.label               "Ambakañ an destenn :">
+<!ENTITY cellTextWrap.accessKey           "T">
+<!ENTITY cellWrap.label                   "Ambakañ">
+<!ENTITY cellNoWrap.label                 "Na ambakañ">
+<!ENTITY cellAlignTop.label               "Krec'h">
+<!ENTITY cellAlignMiddle.label            "Kreiz">
+<!ENTITY cellAlignBottom.label            "Diaz">
+<!ENTITY cellAlignJustify.label           "Marzekaat">
+<!ENTITY cellInheritColor.label           "(Leuskel taolennad al livioù treuzwelus)">
+<!ENTITY cellUseCheckboxHelp.label        "Arverañ ar boestadoù kevaskañ evit despizañ peseurt perzhioù a vo arloet d'an holl gelligoù bet diuzet">
 
 <!-- Used in both Table and Cell panels  -->
-<!ENTITY size.label "Ment">
-<!ENTITY pixels.label "a bikselioù">
-<!ENTITY backgroundColor.label "Liv an drekleur :">
-<!ENTITY backgroundColor.accessKey "L">
-<!ENTITY AlignLeft.label "Kleiz">
-<!ENTITY AlignCenter.label "Kreiz">
-<!ENTITY AlignRight.label "Dehou">
+<!ENTITY size.label                       "Ment">
+<!ENTITY pixels.label                     "a bikselioù">
+<!ENTITY backgroundColor.label            "Liv an drekleur :">
+<!ENTITY backgroundColor.accessKey        "L">
+<!ENTITY AlignLeft.label                  "Kleiz">
+<!ENTITY AlignCenter.label                "Kreiz">
+<!ENTITY AlignRight.label                 "Dehou">

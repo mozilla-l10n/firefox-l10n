@@ -1,22 +1,22 @@
-<!ENTITY dialog.title "Testenioù-degemer">
-<!ENTITY requestReceipt.label "Azgoulenn un testeni-degemer bepred pa gasan kemennadennoù">
-<!ENTITY requestReceipt.accesskey "A">
-<!ENTITY receiptArrive.label "P'en em gav un testeni-degemer :">
-<!ENTITY leaveIt.label "Leuskel anezhañ em boest-lizheroù">
-<!ENTITY leaveIt.accesskey "L">
-<!ENTITY moveToSent.label "Dilec'hiañ anezhañ em zeuliad &quot;Kaset&quot;">
-<!ENTITY moveToSent.accesskey "D">
-<!ENTITY requestMDN.label "Pa resevan un azgoulenn evit un testeni-degemer :">
-<!ENTITY never.label "Chom hep kas testeni-degemer atav">
-<!ENTITY never.accesskey "C">
-<!ENTITY returnSome.label "Aotren testenioù-degemer evit kemennadennoù zo">
-<!ENTITY returnSome.accesskey "A">
-<!ENTITY notInToCc.label "N'emaon ket e maezienn Da pe Cc ar gemennadenn :">
-<!ENTITY notInToCc.accesskey "N">
-<!ENTITY outsideDomain.label "Mard emañ ar c'hasour a-ziavaez ma zomani :">
-<!ENTITY outsideDomain.accesskey "M">
-<!ENTITY otherCases.label "A-hend-all :">
-<!ENTITY otherCases.accesskey "A">
-<!ENTITY askMe.label "Goulenn ganin">
-<!ENTITY alwaysSend.label "Kas bepred">
-<!ENTITY neverSend.label "Chom hep kas atav">
+<!ENTITY dialog.title                  "Testenioù-degemer">
+<!ENTITY requestReceipt.label          "Azgoulenn un testeni-degemer bepred pa gasan kemennadennoù">
+<!ENTITY requestReceipt.accesskey      "A">
+<!ENTITY receiptArrive.label           "P'en em gav un testeni-degemer :">
+<!ENTITY leaveIt.label                 "Leuskel anezhañ em boest-lizheroù">
+<!ENTITY leaveIt.accesskey             "L">
+<!ENTITY moveToSent.label              "Dilec'hiañ anezhañ em zeuliad &quot;Kaset&quot;">
+<!ENTITY moveToSent.accesskey          "D">
+<!ENTITY requestMDN.label              "Pa resevan un azgoulenn evit un testeni-degemer :">
+<!ENTITY never.label                   "Chom hep kas testeni-degemer atav">
+<!ENTITY never.accesskey               "C">
+<!ENTITY returnSome.label              "Aotren testenioù-degemer evit kemennadennoù zo">
+<!ENTITY returnSome.accesskey          "A">
+<!ENTITY notInToCc.label               "N'emaon ket e maezienn Da pe Cc ar gemennadenn :">
+<!ENTITY notInToCc.accesskey           "N">
+<!ENTITY outsideDomain.label           "Mard emañ ar c'hasour a-ziavaez ma zomani :">
+<!ENTITY outsideDomain.accesskey       "M">
+<!ENTITY otherCases.label              "A-hend-all :">
+<!ENTITY otherCases.accesskey          "A">
+<!ENTITY askMe.label                   "Goulenn ganin">
+<!ENTITY alwaysSend.label              "Kas bepred">
+<!ENTITY neverSend.label               "Chom hep kas atav">

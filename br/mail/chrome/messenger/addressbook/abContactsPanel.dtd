@@ -1,19 +1,18 @@
-<!ENTITY addressbookPicker.label "Karned chomlec'hioù:">
+<!ENTITY addressbookPicker.label            "Karned chomlec'hioù:">
 <!ENTITY addressbookPicker.accesskey        "K">
-<!ENTITY searchInput.label "Klask :">
+<!ENTITY searchInput.label                  "Klask :">
 <!ENTITY searchInput.accesskey              "l">
-<!ENTITY SearchNameOrEmail.label "Enderc'hel a ra an anv pe ar postel :">
+<!ENTITY SearchNameOrEmail.label            "Enderc'hel a ra an anv pe ar postel :">
 
 <!ENTITY deleteAddrBookCard.label           "Dilemel">
 <!ENTITY addrBookCardProperties.label       "Perzhioù">
-<!ENTITY addtoToFieldMenu.label "Ouzhpennañ d'ar vaezienn Da">
-<!ENTITY addtoCcFieldMenu.label "Ouzhpennañ d'ar vaezienn Cc">
-<!ENTITY addtoBccFieldMenu.label "Ouzhpennañ d'ar vaezienn Bcc">
+<!ENTITY addtoToFieldMenu.label             "Ouzhpennañ d'ar vaezienn Da">
+<!ENTITY addtoCcFieldMenu.label             "Ouzhpennañ d'ar vaezienn Cc">
+<!ENTITY addtoBccFieldMenu.label            "Ouzhpennañ d'ar vaezienn Bcc">
 
-<!ENTITY toButton.label "Ouzhpennañ Da:">
+<!ENTITY toButton.label                     "Ouzhpennañ Da:">
 <!ENTITY toButton.accesskey                 "D">
-<!ENTITY ccButton.label "Ouzhpennañ Cc:">
+<!ENTITY ccButton.label                     "Ouzhpennañ Cc:">
 <!ENTITY ccButton.accesskey                 "C">
 <!ENTITY bccButton.label                    "Ouzhpennañ Bcc:">
 <!ENTITY bccButton.accesskey                "B">
-

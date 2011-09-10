@@ -58,7 +58,7 @@
 <!ENTITY TextAreaWrap.label "Mod kenglotañ:">
 <!ENTITY TextAreaWrap.accessKey "o">
 <!ENTITY WrapDefault.value "Dre ziouer">
-<!ENTITY WrapOff.value "Off">
+<!ENTITY WrapOff.value "Diweredekaet">
 <!ENTITY WrapHard.value "Kalet">
 <!ENTITY WrapSoft.value "Flour">
 <!ENTITY WrapPhysical.value "Alvezel">

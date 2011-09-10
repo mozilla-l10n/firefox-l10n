@@ -22,7 +22,6 @@
 
 <!-- point 3 text for official branded builds -->
 <!ENTITY rights.intro-point3a "Reolennoù kenderc'hadoù &vendorShortName; a-fet buhez prevez e vez kavet ">
-
 <!ENTITY rights.intro-point3b "amañ">
 <!ENTITY rights.intro-point3c ".">
 
@@ -47,7 +46,6 @@
      updated.  -->
 <!-- intro paragraph for branded builds -->
 <!ENTITY rights.webservices-a "&brandFullName; a ginnig gwazerezhioù diret (&quot;Gwazerezhioù&quot;), evel gwazerezh hizivaat an askouezhioù, hag a zo hegerz evit hoc'h arver gant an handelv daouredel-mañ eus &brandShortName; dre an termenoù deskrivet amañ dindan. Ma ne fell ket deoc'h ober gant ar gwazerezhioù pe ma ne fell ket deoc'h degemer an termenoù e c'hallit diweredekaat gwazerezh hizivaat an askouezhioù en ur zigeriñ gwellvezioù an arload hag en ur zibab ar gevrenn ">
-
 <!ENTITY rights.webservices-b "Kempleshoc'h">
 <!ENTITY rights.webservices-c ", hag an ivinell ">
 <!ENTITY rights.webservices-d "Hizivaat">
