@@ -117,7 +117,7 @@
 <!-- Strings for the CreateCertInfo dialog  -->
 
 <!ENTITY createCertInfo.title "Kukolawo akasumulizo kekyama">
-<!ENTITY createCertInfo.msg1 "Okukolawo Akasumulizo kugenda mumaso… Kyino kyiyiza kumalawo obundakika butini….">
+<!ENTITY createCertInfo.msg1 "Okutondawo Akasumulizo kugenda mumaso… Kyino kyiyiza okutwala obudakika butono….">
 <!ENTITY createCertInfo.msg2 "Kale kumirirawo…">
 <!-- Form Signing confirmation prompt -->
 

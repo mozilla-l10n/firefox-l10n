@@ -18,7 +18,7 @@
 <!ENTITY useSmoothScrolling.label        "Kozesa aketwala akaguu">
 <!ENTITY useSmoothScrolling.accesskey    "k">
 <!ENTITY allowHWAccel.label              "Kozesa enyanguya ye ebyuma webanga weri">
-<!ENTITY allowHWAccel.accesskey          "e">
+<!ENTITY allowHWAccel.accesskey          "b">
 <!ENTITY checkSpelling.label             "Kebera epandika yange nga wandiika">
 <!ENTITY checkSpelling.accesskey         "w">
 
@@ -65,7 +65,7 @@
 <!ENTITY enableAddonsUpdate2.label       "Ebigattibwako">
 <!ENTITY enableAddonsUpdate2.accesskey   "a">
 <!ENTITY enableSearchUpdate.label        "Yingini Ezinoonya">
-<!ENTITY enableSearchUpdate.accesskey    "a">
+<!ENTITY enableSearchUpdate.accesskey    "n">
 <!ENTITY whenUpdatesFound.label          "Mu kulongosa ku &brandShortName; bizuunse:">
 <!ENTITY askMe.label                     "Bunza kiki kye njjangala ku kola">
 <!ENTITY askMe.accesskey                 "a">

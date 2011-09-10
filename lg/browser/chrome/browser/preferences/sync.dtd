@@ -13,9 +13,10 @@
 <!ENTITY manageAccount.label          "Fuga Akawunta">
 <!ENTITY manageAccount.accesskey      "A">
 <!ENTITY viewQuota.label              "Laba essalira">
-<!ENTITY changePassword.label         "Kyusa Akasuumulizo">
+<!ENTITY changePassword2.label         "Kyusa Akasuumuluzo…">
 <!ENTITY mySyncKey.label              "Akasumuluzo kange Akakwanaganya">
-<!ENTITY resetSync.label              "Ddamu okwanaganye">
+<!ENTITY resetSync2.label              "Ddamu Okwanaganye…">
+
 <!ENTITY addDevice.label              "Gatta ko Ekikozesebwa">
 
 <!ENTITY syncMy.label               "Kwanaganya">
@@ -33,7 +34,7 @@
 
 <!ENTITY syncComputerName.label       "Elinnya lya Kompuuta:">
 <!ENTITY syncComputerName.accesskey   "E">
-<!ENTITY deactivateDevice.label       "Yimiriza Ekikozesebwa Kino">
+<!ENTITY unlinkDevice.label           "Jja Enkwaso Kukuma Kano">
 <!-- Footer stuff -->
 
 <!ENTITY prefs.tosLink.label        "Amateeka g'empeereza">
