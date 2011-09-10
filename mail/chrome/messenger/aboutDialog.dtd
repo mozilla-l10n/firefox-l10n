@@ -59,25 +59,7 @@
 <!-- LOCALIZATION NOTE (channel.description.start,channel.description.end): channel.description.start and
      channel.description.end create one sentence, with the current channel label inserted in between.
      example: You are currently on the _Stable_ update channel. -->
-<!ENTITY channel.description.start  "Práve používate aktualizačný kanál ">
+<!ENTITY channel.description.start  "Používate aktualizačný kanál ">
 <!ENTITY channel.description.end    ". ">
-
-<!ENTITY channel.change             "Zmeniť">
-
-<!ENTITY channel.release.description       "Vyskúšajte overené a otestované finálne vydania používané stovkami miliónov používateľov po celom svete. Majte kontrolu nad svojimi zážitkami zo sveta online vďaka super rýchlosti, veľkej prispôsobiteľnosti a najnovším technológiám.">
-<!ENTITY channel.beta.description          "Užite si najnovšie funkcie v stabilnom prostredí. Poskytnite nám spätnú väzbu a pomôžte nám doladiť finálnu verziu programu.">
-<!ENTITY channel.aurora.description        "Užite si najnovšie inovácie v nestabilnom prostredí, ktoré nie je pre slabé povahy. Odošlite nám spätnú väzbu na funkcie a výkon aplikácie, aby sme vedeli, čo máme do sprístupnenia finálnej verzie zlepšiť.">
-
-<!-- LOCALIZATION NOTE (channel.selector.start,channel.selector.end): channel.selector.start and
-     channel.selector.end create one sentence, with a channel selection menulist instered in between.
-     This is all in one line, so try to make the localized text short.
-     example: Switch to the [Stable] update channel. -->
-<!ENTITY channel.selector.start          "Prepnúť na aktualizačný kanál">
-<!ENTITY channel.selector.end            ".">
-
-<!-- LOCALIZATION NOTE (channel.selector.applyButton): This button applies the user's choice to switch
-     to a new update channel and starts the application update process. -->
-<!ENTITY channel.selector.applyButton    "Použiť a aktualizovať">
-<!ENTITY channel.selector.cancelButton   "Zrušiť">
 
 <!ENTITY cmdCloseMac.commandKey "w">
