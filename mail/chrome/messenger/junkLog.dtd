@@ -1,8 +1,0 @@
-<!ENTITY junkLog.title "Журнал на нежеланата поща">
-<!ENTITY junkLogInfo.text "Журналът на нежеланата поща документира активността на контрола върху нежеланата поща за този адрес. Отметнете настройката, за да го активирате.">
-<!ENTITY clearLog.label "Изчистване">
-<!ENTITY clearLog.accesskey "И">
-<!ENTITY enableLog.label "Включване на отчитането на нежеланата поща">
-<!ENTITY enableLog.accesskey "В">
-<!ENTITY closeLog.label "Затваряне">
-<!ENTITY closeLog.accesskey "З">
