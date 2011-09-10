@@ -1,3 +1,9 @@
+<!--
+# Reviewer(s):
+#
+# Alexandru Szasz <alexxed@gmail.com>
+#
+-->
 <!ENTITY window.title                 "Excepții">
 <!ENTITY window.width                 "38em">
 
@@ -17,7 +23,7 @@
 <!ENTITY allow.accesskey              "P">
 <!ENTITY windowClose.key              "w">
 
-<!ENTITY button.close.label           "Close">
+<!ENTITY button.close.label           "Închide">
 <!ENTITY button.close.accesskey       "c">
 
 
