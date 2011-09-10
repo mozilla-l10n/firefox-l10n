@@ -42,7 +42,7 @@
      is a checkbox that toggles the default global behavior for add-on update
      checking. -->
 <!ENTITY updates.updateAddonsAutomatically.label     "Werk byvoegings outomaties by">
-<!ENTITY updates.updateAddonsAutomatically.accesskey "b">
+<!ENTITY updates.updateAddonsAutomatically.accesskey "W">
 <!-- LOCALIZATION NOTE (updates.resetUpdatesToAutomatic.label, updates.resetUpdatesToManual.label):
      Specific addons can have custom update checking behaviors ("Manually",
      "Automatically", "Use default global behavior"). These menu items reset the
@@ -53,9 +53,9 @@
 <!ENTITY updates.resetUpdatesToAutomatic.accesskey   "L">
 <!ENTITY updates.resetUpdatesToManual.label          "Laai alle byvoegings terug om handmatig by te werk">
 <!ENTITY updates.resetUpdatesToManual.accesskey      "L">
-<!ENTITY updates.updating.label               "Byvoegings bywerk">
-<!ENTITY updates.installed.label              "Jou byvoegings is bygewerk.">
-<!ENTITY updates.downloaded.label             "Jou byvoeging-bywerkings is afgelaai.">
+<!ENTITY updates.updating.label               "Byvoegings word bygewerk">
+<!ENTITY updates.installed.label              "Die byvoegings is bygewerk.">
+<!ENTITY updates.downloaded.label             "Die byvoeging-bywerkings is afgelaai.">
 <!ENTITY updates.restart.label                "Herbegin nou vir volledige installering">
 <!ENTITY updates.noneFound.label              "Geen bywerkings gevind nie">
 <!ENTITY updates.manualUpdatesFound.label     "Bekyk beskikbare bywerkings">
