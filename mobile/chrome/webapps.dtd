@@ -3,4 +3,4 @@
 <!ENTITY webapps.perm.geolocation "Prezradenie polohy">
 <!ENTITY webapps.perm.offline "Úložisko pre režim offline">
 <!ENTITY webapps.perm.notifications "Desktopové notifikácie">
-<!ENTITY webapps.perm.requested "vyžadované">
+<!ENTITY webapps.perm.requestedHint "(vyžadované)">

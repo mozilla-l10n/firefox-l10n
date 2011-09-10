@@ -5,10 +5,10 @@
 <!ENTITY reflowZoom.title                          "Pri použití lupy preformátovať text">
 <!ENTITY showImages.title                          "Zobrazovať obrázky">
 <!ENTITY enableJavaScript.title                    "Povoliť JavaScript">
-<!ENTITY enablePlugins.title                       "Povoliť zásuvné moduly">
 <!ENTITY privacy.title                             "Súkromie a bezpečnosť">
 <!ENTITY allowCookies.title                        "Povoliť cookies">
 <!ENTITY doNotTrack.title                          "Upozorniť stránky, že nechcem byť sledovaný">
+<!ENTITY masterPassword.title                      "Použiť hlavné heslo">
 <!ENTITY clearPrivateData2.title                   "Vymazanie súkromných údajov">
 <!ENTITY clearPrivateData.button                   "Vymazať">
 <!ENTITY rememberPasswords.title                   "Pamätať si heslá">
@@ -20,4 +20,4 @@
 <!ENTITY homepage.none                             "Prázdna stránka">
 <!ENTITY homepage.default                          "Úvodná stránka prehliadača &brandShortName;">
 <!ENTITY homepage.currentpage                      "Použiť aktuálnu stránku">
-<!ENTITY showCharset.title                         "Zobraziť ponuku Kódovanie">
+<!ENTITY showCharsetEncoding.title                 "Zobraziť ponuku Kódovanie">

@@ -17,3 +17,5 @@
 
 <!ENTITY  launcher_shortcuts_title "Webové aplikácie prehliadača &brandShortName;">
 <!ENTITY  launcher_shortcuts_empty "Neboli nájdené žiadne webové aplikácie">
+
+<!ENTITY choose_file "Zvoľte súbor">

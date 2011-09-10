@@ -7,6 +7,7 @@
 <!ENTITY go.label              "Prejsť">
 <!ENTITY star.label            "Hviezda">
 
+<!ENTITY showTabs.label        "Zobraziť karty">
 <!ENTITY newtab.label          "Nová karta">
 <!ENTITY closetab.label        "Zavrieť kartu">
 
@@ -15,6 +16,7 @@
 <!ENTITY copyAll.label         "Kopírovať všetko">
 <!ENTITY copylink.label        "Kopírovať adresu odkazu">
 <!ENTITY paste.label           "Prilepiť">
+<!ENTITY pasteAndGo.label      "Prilepiť a prejsť">
 <!ENTITY delete.label          "Odstrániť">
 <!ENTITY selectAll.label       "Vybrať všetko">
 <!ENTITY noSuggestions.label   "(Žiadne návrhy)">
@@ -67,6 +69,7 @@
 <!ENTITY bookmarkPopup.label       "Stránka pridaná medzi záložky">
 <!ENTITY bookmarkRemove.label      "Odstrániť">
 <!ENTITY bookmarkEdit.label        "Upraviť">
+<!ENTITY bookmarkShortcut.label    "Pridať na Úvodnú stránku">
 
 <!ENTITY identity.unverifiedsite2  "Táto webová stránka neposkytuje informácie o svojej identite.">
 <!ENTITY identity.connectedTo2     "Pripojené k">
@@ -90,7 +93,6 @@
 <!ENTITY consoleErrColumn.label    "Stĺpec:">
 
 <!ENTITY contextOpenInNewTab.label    "Otvoriť odkaz na novej karte">
-<!ENTITY contextSaveLink.label        "Uložiť odkaz">
 <!ENTITY contextSaveImage.label       "Uložiť obrázok">
 <!ENTITY contextCopyLink.label        "Kopírovať odkaz">
 <!ENTITY contextShareLink.label       "Zdieľať odkaz">
@@ -103,6 +105,7 @@
 <!ENTITY contextFullScreen.label      "Na celú obrazovku">
 <!ENTITY contextEditBookmark.label    "Upraviť">
 <!ENTITY contextRemoveBookmark.label  "Odstrániť">
+<!ENTITY contextShortcutBookmark.label "Pridať na Úvodnú stránku">
 
 <!ENTITY pageactions.saveas.pdf      "Uložiť ako PDF">
 <!ENTITY pageactions.share.page      "Zdieľať stránku">
