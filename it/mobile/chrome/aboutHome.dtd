@@ -9,3 +9,7 @@
 <!ENTITY aboutHome.noTabs "Nessuna scheda dall'ultima esecuzione">
 <!ENTITY aboutHome.noAddons "Nessun componente aggiuntivo consigliato">
 <!ENTITY aboutHome.getLocale "Cambia lingua">
+<!ENTITY aboutHome.getInBeforeBeta "Prima della beta.">
+<!ENTITY aboutHome.tryAurora "Prova Firefox Aurora e aiutaci a disegnare il futuro di Firefox.">
+<!ENTITY aboutHome.downloadAurora "Installa Aurora">
+<!ENTITY aboutHome.forAndroid "per Android">
