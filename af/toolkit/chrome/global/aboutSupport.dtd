@@ -18,6 +18,7 @@ probleem probeer oplos. Indien u soek vir antwoorde op algemene vrae oor
 <!ENTITY aboutSupport.appBasicsEnabledPlugins "Aktiveer inproppe">
 <!ENTITY aboutSupport.appBasicsBuildConfig "Boukonfigurasie">
 <!ENTITY aboutSupport.appBasicsUserAgent "Gebruikeragent">
+<!ENTITY aboutSupport.appBasicsCrashIDs "Omvalverslae">
 
 <!ENTITY aboutSupport.show.label "Open houervouer">
 <!-- LOCALIZATION NOTE (aboutSupport.showMac.label): This is the Mac-specific

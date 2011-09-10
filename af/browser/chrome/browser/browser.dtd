@@ -84,7 +84,7 @@ can reach it easily. -->
 <!ENTITY showAllTabsCmd.accesskey "a">
 
 <!ENTITY fullScreenMinimize.tooltip "Minimeer">
-<!ENTITY fullScreenRestore.tooltip "Terugkopieer">
+<!ENTITY fullScreenRestore.tooltip "Stel terug">
 <!ENTITY fullScreenClose.tooltip "Sluit">
 <!ENTITY fullScreenAutohide.label "Verskuil nutsbalke">
 <!ENTITY fullScreenAutohide.accesskey "V">
@@ -111,6 +111,8 @@ can reach it easily. -->
 <!ENTITY forwardCmd.label             "Vorentoe">
 <!ENTITY forwardCmd.accesskey         "V">
 <!ENTITY forwardButton.tooltip        "Gaan een bladsy vorentoe">
+<!ENTITY backForwardButtonMenu.tooltip "Klik regs of trek of om geskiedenis te wys">
+<!ENTITY backForwardButtonMenuMac.tooltip "Trek af om geskiedenis te wys">
 <!ENTITY reloadCmd.label              "Herlaai">
 <!ENTITY reloadCmd.accesskey          "H">
 <!ENTITY reloadButton.tooltip         "Herlaai huidige bladsy">
@@ -307,6 +309,7 @@ can reach it easily. -->
   Mac:  Cmd+K (cross platform binding)
         Cmd+Opt+F (platform convention)
   Win:  Ctrl+K (cross platform binding)
+        Ctrl+E (IE compat)
 
   We support Ctrl+K on all platforms now and advertise it in the menu since it is
   our standard - it is a "safe" choice since it is near no harmful keys like "W" as
@@ -318,6 +321,7 @@ can reach it easily. -->
  -->
 
 <!ENTITY searchFocus.commandkey       "k">
+<!ENTITY searchFocus.commandkey2      "e">
 <!ENTITY searchFocusUnix.commandkey   "j">
 
 <!ENTITY tabView.commandkey           "e">
