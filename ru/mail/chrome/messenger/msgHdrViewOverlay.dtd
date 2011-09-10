@@ -5,7 +5,7 @@
 <!ENTITY organizationField3.label "Организация ">
 <!ENTITY replyToField3.label "Обратный адрес ">
 <!ENTITY subjectField3.label "Тема ">
-<!ENTITY ccField3.label "Cc ">
+<!ENTITY ccField3.label "Копия ">
 <!ENTITY bccField3.label "Скрытая копия ">
 <!ENTITY newsgroupsField3.label "Группы новостей ">
 <!ENTITY followupToField3.label "Ответ в группу новостей ">

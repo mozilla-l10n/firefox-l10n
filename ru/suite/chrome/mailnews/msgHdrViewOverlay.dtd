@@ -5,7 +5,7 @@
 <!ENTITY organizationField.label "Организация:">
 <!ENTITY replyToField.label "Обратный адрес:">
 <!ENTITY subjectField.label "Тема:">
-<!ENTITY ccField.label "Cc: ">
+<!ENTITY ccField.label "Копия:">
 <!ENTITY bccField.label "Скрытая копия:">
 <!ENTITY newsgroupsField.label "Группы новостей:">
 <!ENTITY followupToField.label "Ответ в группу новостей:">
@@ -15,14 +15,14 @@
 <!ENTITY referencesField.label "Ссылки:">
 <!ENTITY messageIdField.label "Идентификатор:">
 <!ENTITY inReplyToField.label "В ответ на:">
-<!ENTITY originalWebsite.label "Сайт:">
+<!ENTITY originalWebsite.label "Веб-сайт:">
 <!ENTITY editMessage.label "Изменить черновик…">
 <!ENTITY editMessage.accesskey "з">
 <!ENTITY attachmentsTree.label "Вложения:">
 <!ENTITY attachmentsTree.accesskey "ж">
 <!ENTITY openAttachmentCmd.label "Открыть">
 <!ENTITY openAttachmentCmd.accesskey "т">
-<!ENTITY viewAttachmentCmd.label "Просмотр исходного кода">
+<!ENTITY viewAttachmentCmd.label "Показать исходник">
 <!ENTITY viewAttachmentCmd.accesskey "м">
 <!ENTITY saveAsAttachmentCmd.label "Сохранить как…">
 <!ENTITY saveAsAttachmentCmd.accesskey "к">
