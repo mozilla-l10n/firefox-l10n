@@ -252,7 +252,7 @@
 <!ENTITY bodyAsPlaintext.label "Text">
 <!ENTITY bodyAsPlaintext.accesskey "T">
 <!ENTITY bodyAllParts.label "Toate părțile mesajului">
-<!ENTITY bodyAllParts.accesskey "A">
+<!ENTITY bodyAllParts.accesskey "a">
 
 <!ENTITY bodyMenuFeed.label "Alimentează corpul mesajului ca">
 <!ENTITY bodyMenuFeed.accesskey "A">
@@ -342,7 +342,7 @@ you can use these alternative items. Otherwise, their values should be empty.  -
 <!ENTITY goForwardCmd.label "Î_nainte">
 <!ENTITY goForwardCmd.accesskey "a">
 <!ENTITY goForwardCmd.commandKey "]">
-<!ENTITY goBackCmd.label "Î&napoi">
+<!ENTITY goBackCmd.label "Înapoi">
 <!ENTITY goBackCmd.accesskey "p">
 <!ENTITY goBackCmd.commandKey "[">
 <!ENTITY prevStarredMsgCmd.label "Mesaj cu steluță">

@@ -44,7 +44,7 @@
 <!--LOCALIZATION NOTE attachVCardCmd.label Don't translate the term 'vCard' -->
 <!ENTITY attachVCardCmd.label "Fișă personală (vCard)">
 <!ENTITY attachVCardCmd.accesskey "F">
-<!ENTITY closeCmd.label "Î&nchide">
+<!ENTITY closeCmd.label "Închide">
 <!ENTITY closeCmd.key "w">
 <!ENTITY closeCmd.accesskey "c">
 <!ENTITY saveCmd.label "Salvare">

@@ -29,7 +29,7 @@
 <!ENTITY filter.label                      "Căutare">
 <!ENTITY filter.accesskey                  "C">
 
-<!ENTITY button.close.label                "Î&nchide">
+<!ENTITY button.close.label                "Close">
 <!ENTITY button.close.accesskey            "c">
 
 

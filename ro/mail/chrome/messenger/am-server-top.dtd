@@ -19,7 +19,7 @@
 <!ENTITY securitySettings.label "Setări de securitate">
 <!ENTITY serverSettings.label "Setările serverului">
 <!ENTITY serverType.label "Tip server:">
-<!ENTITY serverName.label "Nume &&&&&&&&&server:">
+<!ENTITY serverName.label "Nume server:">
 <!ENTITY serverName.accesskey "s">
 <!ENTITY userName.label "Nume Utilizator:">
 <!ENTITY userName.accesskey "u">

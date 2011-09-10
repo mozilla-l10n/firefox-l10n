@@ -58,7 +58,7 @@
 <!ENTITY proxy.label                                    "Configurare proxy…">
 <!ENTITY proxy.accesskey                                "C">
 
-<!ENTITY closeCmd.label      "Î&nchide">
+<!ENTITY closeCmd.label      "Închide">
 <!ENTITY closeCmd.key      "w">
 <!ENTITY closeCmd.accesskey    "c">
 

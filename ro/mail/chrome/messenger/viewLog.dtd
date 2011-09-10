@@ -4,7 +4,7 @@
 <!ENTITY clearLog.accesskey "G">
 <!ENTITY enableLog.label "Activează jurnalul filtrelor">
 <!ENTITY enableLog.accesskey "A">
-<!ENTITY closeLog.label "Î&nchide">
+<!ENTITY closeLog.label "Close">
 <!ENTITY closeLog.accesskey "c">
 
 
