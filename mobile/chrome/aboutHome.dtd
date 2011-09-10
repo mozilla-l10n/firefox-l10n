@@ -9,3 +9,7 @@
 <!ENTITY aboutHome.noTabs "Нет вкладок с прошлого раза">
 <!ENTITY aboutHome.noAddons "Нет рекомендуемых дополнений">
 <!ENTITY aboutHome.getLocale "Сменить язык">
+<!ENTITY aboutHome.getInBeforeBeta "Не ждите Бета.">
+<!ENTITY aboutHome.tryAurora "Попробуйте Firefox Aurora и помогите сформировать будущее Firefox.">
+<!ENTITY aboutHome.downloadAurora "Загрузить Aurora">
+<!ENTITY aboutHome.forAndroid "для Android">
