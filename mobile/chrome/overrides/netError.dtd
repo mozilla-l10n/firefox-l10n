@@ -1,20 +1,20 @@
-<!ENTITY % brandDTD SYSTEM "chrome://branding/locale/brand.dtd">
-%brandDTD;
 <!--
 # Translator(s):
 #
 # janimo <jani@ubuntu.com>
 # raulmalea <raul.malea@gmail.com>
-# alexxed <alexxed@gmail.com>
+# Alexandru Szasz <alexxed@gmail.com>
 # stelistcristi <stelistcristi@yahoo.com>
 #
 -->
 <!--
 # Reviewer(s):
 #
-# alexxed <alexxed@gmail.com>
+# Alexandru Szasz <alexxed@gmail.com>
 #
 -->
+<!ENTITY % brandDTD SYSTEM "chrome://branding/locale/brand.dtd">
+%brandDTD;
 
 <!ENTITY loadError.label "Problemă la încărcarea paginii">
 <!ENTITY retry.label "Încearcă din nou">
@@ -28,7 +28,14 @@
 <!ENTITY deniedPortAccess.longDesc "">
 
 <!ENTITY dnsNotFound.title "Serverul nu a fost găsit">
-<!ENTITY dnsNotFound.longDesc "<ul> <li>Verificați adresa de erori de tastare cum ar fi <strong>ww</strong>.exemplu.ro în loc de <strong>www</strong>.exemplu.ro</li> <li>Dacă nu puteți încărca nicio pagină, verificați conexiunea la rețea a calculatorului dumneavoastră.</li> <li>Dacă sistemul dumneavoastră este protejat de un paravan (firewall) sau proxy, asigurați-vă că &brandShortName; are permisiunea de a accesa internetul.</li> </ul>">
+<!ENTITY dnsNotFound.longDesc2 "
+<ul>
+  <li>Check the address for typing errors such as
+    <strong>ww</strong>.example.com instead of
+    <strong>www</strong>.example.com</li>
+  <li>If you are unable to load any pages, check your device's data or Wi-Fi connection.</li>
+</ul>
+">
 
 <!ENTITY fileNotFound.title "Fișier negăsit">
 <!ENTITY fileNotFound.longDesc "<ul> <li>Verificați ca numele fișierului să nu aibă erori de majuscule/minuscule sau alte erori de tastare.</li> <li>Verificați ca fișierul să nu fi fost mutat, redenumit sau șters.</li> </ul>">
@@ -68,7 +75,12 @@
 <!ENTITY proxyConnectFailure.longDesc "<ul> <li>Asigurați-vă că parametrii proxy-ului sunt corecți.</li> <li>Luați legătura cu administratorul rețelei pentru a vă asigura că serverul proxy funcționează.</li> </ul>">
 
 <!ENTITY proxyResolveFailure.title "Nu se poate găsi serverul proxy">
-<!ENTITY proxyResolveFailure.longDesc "<ul> <li>Asigurați-vă că parametrii proxy-ului sunt corecți.</li> <li>Asigurați-vă că sistemul dumneavoastră are o conexiune funcțională la rețea.</li> <li>Dacă sistemul dumneavoastră este protejat de un paravan (firewall) sau proxy, asigurați-vă că &brandShortName; are permisiunea de a folosi web-ul.</li> </ul>">
+<!ENTITY proxyResolveFailure.longDesc2 "
+<ul>
+  <li>Check the proxy settings to make sure that they are correct.</li>
+  <li>Check to make sure your device has a working data or Wi-Fi connection.</li>
+</ul>
+">
 
 <!ENTITY redirectLoop.title "Pagina nu redirecționează corect">
 <!ENTITY redirectLoop.longDesc "<ul> <li>Problema poate apărea dacă dezactivați sau refuzați să acceptați cookie-uri.</li> </ul>">
@@ -90,22 +102,12 @@ putea ca cineva să încerce să pretindă că este acest server.</li>
 temporară și puteți încerca din nou mai târziu.</li>
 </ul>">
 
-<!ENTITY sharedLongDesc "<ul>
-  <li>Acest sait poate fi indisponibil temporar sau prea ocupat. Încercați din nou în câteva
-    momente.</li>
-  <li>Dacă nu puteți încărca nicio pagină, verificați legătura la rețea a calculatorului
-    dumneavoastră.</li>
-  <li>Dacă calculatorul dumneavoastră este protejat de un paravan de protecție sau un proxy, asigurați-vă că
-    &brandShortName; are permisiunea de a accesa internetul.</li>
-</ul>">
-
-<!ENTITY malwareBlocked.title "Sait suspect de atacuri!">
-<!ENTITY malwareBlocked.longDesc "<p>Saiturile de atac încearcă să instaleze programe sau să fure informații private, folosind calculatorul dumneavoastră pentru a ataca altele sau provocând pagube calculatorului dumneavoastră.</p>
-<p>Proprietarii saiturilor web care cred că saitul lor a fost raportat ca unul de atac dintr-o greșeală pot <a href='http://www.stopbadware.org/home/reviewinfo' >cere o recenzie</a>.</p>">
-
-<!ENTITY phishingBlocked.title "Sait suspectat de fals!">
-<!ENTITY phishingBlocked.longDesc "<p>Introducerea de informații personale pe această pagină ar putea rezulta în furt de identitate sau altă fraudă.</p>
-<p>Aceste tipuri de falsuri web sunt folosite în păcăleli numite și „phishing”, în care pagini și adrese de email sunt folosite pentru a imita unele în care aveți încredere.</p>">
+<!ENTITY sharedLongDesc2 "
+<ul>
+  <li>The site could be temporarily unavailable or too busy. Try again in a few moments.</li>
+  <li>If you are unable to load any pages, check your mobile device's data or Wi-Fi connection.</li>
+</ul>
+">
 
 <!ENTITY cspFrameAncestorBlocked.title "Blocat de politica de securitate asupra conținutului">
 <!ENTITY cspFrameAncestorBlocked.longDesc "<p>&brandShortName; a împiedicat această pagină să se încarce în acest mod deoarece pagina are o politică de securitate asupra conținutului ce nu permite asta.</p>">
