@@ -14,12 +14,12 @@
 <!ENTITY manageAccount.accesskey      "K">
 <!ENTITY viewQuota.label              "Baa guna">
 <!ENTITY changePassword2.label         "Šennikufal barmay...">
-<!ENTITY mySyncKey.label              "My Sync kufal">
+<!ENTITY mySyncKey.label              "Ay hangandiyan kufaloo">
 <!ENTITY resetSync2.label              "Sync yeeti...">
 
 <!ENTITY addDevice.label              "Jinay foo tonton">
 
-<!ENTITY syncMy.label               "Sync My">
+<!ENTITY syncMy.label               "Hangandi cere">
 <!ENTITY engine.bookmarks.label     "Doo-šilbawey">
 <!ENTITY engine.bookmarks.accesskey "D">
 <!ENTITY engine.tabs.label          "Nor lokey">

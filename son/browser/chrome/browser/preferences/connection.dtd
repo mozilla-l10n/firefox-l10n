@@ -8,7 +8,7 @@
 <!ENTITY  noProxyTypeRadio.accesskey    "k">
 <!ENTITY  systemTypeRadio.label         "Dabariɲaa tokore kayandiyaney goyandi">
 <!ENTITY  systemTypeRadio.accesskey     "g">
-<!ENTITY  WPADTypeRadio.label           "Tokore kayandiyaney boŋ honnay sankaa woo se">
+<!ENTITY  WPADTypeRadio.label           "Tokore kayandiyaney boŋ honnay sankaa woo še">
 <!ENTITY  WPADTypeRadio.accesskey       "k">
 <!ENTITY  manualTypeRadio.label         "Kanbe tokore hanseyan:">
 <!ENTITY  manualTypeRadio.accesskey     "K">
@@ -33,8 +33,8 @@
 <!ENTITY  SSLport.accesskey             "o">
 <!ENTITY  FTPport.accesskey             "r">
 <!ENTITY  SOCKSport.accesskey           "t">
-<!ENTITY  noproxy.label                 "Tokore kul ši woo se:">
+<!ENTITY  noproxy.label                 "Tokore kul ši woo še:">
 <!ENTITY  noproxy.accesskey             "i">
-<!ENTITY  noproxyExplain.label          "Himakašine: .mozilla.org, .net.nz, 192.168.1.0/24">
-<!ENTITY  shareproxy.label              "Feršikaw tokoraa woo goyandi berehawey kul se">
+<!ENTITY  noproxyExplain.label          "Sanda: .mozilla.org, .net.nz, 192.168.1.0/24">
+<!ENTITY  shareproxy.label              "Feršikaw tokoraa woo goyandi berehawey kul še">
 <!ENTITY  shareproxy.accesskey          "g">

@@ -59,14 +59,14 @@
 
 <!ENTITY updateTab.label                 "Taagandiri">
 
-<!ENTITY autoCheck.label                 "Taagandirey ceeci ngi boŋse hala:">
+<!ENTITY autoCheck.label                 "Taagandirey ceeci ngi boŋše hala:">
 <!ENTITY enableAppUpdate.label           "&brandShortName;">
 <!ENTITY enableAppUpdate.accesskey       "F">
 <!ENTITY enableAddonsUpdate2.label       "Tontoney">
 <!ENTITY enableAddonsUpdate2.accesskey   "T">
 <!ENTITY enableSearchUpdate.label        "Ceeci maršiney">
 <!ENTITY enableSearchUpdate.accesskey    "e">
-<!ENTITY whenUpdatesFound.label          "Waati kaŋ taagandi ga duwandi &brandShortName; se:">
+<!ENTITY whenUpdatesFound.label          "Waati kaŋ taagandi ga duwandi &brandShortName; še:">
 <!ENTITY askMe.label                     "Ay hãa woo kaŋ ay ga baa ka tee">
 <!ENTITY askMe.accesskey                 "h">
 <!ENTITY modeAutomatic.label             "Bonše zumandi nda taagandiroo sinjandi">
@@ -76,12 +76,12 @@
 <!ENTITY updateHistory.label             "Taagandiri taariku cebe">
 <!ENTITY updateHistory.accesskey         "a">
 
-<!ENTITY offlineNotify.label             "Har yane waati kaŋ tataataru nungu hãa ka bayhayey jiši bila-nda-ciyari goyyan se">
+<!ENTITY offlineNotify.label             "Har yane waati kaŋ tataataru nungu hãa ka bayhayey jiši bila-nda-ciyari goyyan še">
 <!ENTITY offlineNotify.accesskey         "H">
 <!ENTITY offlineNotifyExceptions.label   "Hasarawey…">
 <!ENTITY offlineNotifyExceptions.accesskey "a">
 
-<!ENTITY offlineAppsList.label           "Tataaru nungey wey na bayhayey jiši bila-nda-ciyari goyyan se:">
+<!ENTITY offlineAppsList.label           "Tataaru nungey wey na bayhayey jiši bila-nda-ciyari goyyan še:">
 <!ENTITY offlineAppsList.height          "7em">
 <!ENTITY offlineAppsListRemove.label     "Kaa…">
 <!ENTITY offlineAppsListRemove.accesskey "K">
