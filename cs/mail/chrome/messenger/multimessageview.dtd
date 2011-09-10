@@ -1,4 +1,4 @@
 <!ENTITY window.title "Přehled zpráv">
 <!ENTITY selectedmessages.label "Vybrané zprávy">
-<!ENTITY archive.label "archivovat">
-<!ENTITY delete.label "smazat">
+<!ENTITY archiveButton.label "Archivovat">
+<!ENTITY deleteButton.label "Smazat">

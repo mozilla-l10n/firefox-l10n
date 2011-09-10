@@ -35,43 +35,42 @@
 
  ***** END LICENSE BLOCK ***** -->
 
-<!ENTITY toField2.label "komu ">
-<!ENTITY fromField2.label "od ">
-<!ENTITY senderField2.label "odesílatel ">
-<!ENTITY organizationField2.label "organizace ">
-<!ENTITY replyToField2.label "odpověď ">
+<!ENTITY toField3.label "Komu ">
+<!ENTITY fromField3.label "Od ">
+<!ENTITY senderField3.label "Odesílatel ">
+<!ENTITY organizationField3.label "Organizace ">
+<!ENTITY replyToField3.label "Odpověď ">
 
-<!ENTITY subjectField2.label "předmět ">
-<!--# LOCALIZATION NOTE (ccField2.label): DONT_TRANSLATE -->
-<!ENTITY ccField2.label "kopie ">
-<!ENTITY bccField2.label "skrytá kopie ">
-<!ENTITY newsgroupsField2.label "diskusní skupiny ">
-<!ENTITY followupToField2.label "pokračování v ">
-<!ENTITY tagsHdr2.label "štítky ">
-<!ENTITY dateField2.label "datum ">
-<!ENTITY userAgentField2.label "poštovní klient ">
-<!ENTITY referencesField2.label "reference ">
-<!ENTITY messageIdField2.label "id zprávy ">
-<!ENTITY inReplyToField2.label "v odpovědi na ">
-<!ENTITY originalWebsite2.label "webový server ">
+<!ENTITY subjectField3.label "Předmět ">
+<!ENTITY ccField3.label "Kopie ">
+<!ENTITY bccField3.label "Skrytá kopie ">
+<!ENTITY newsgroupsField3.label "Diskusní skupiny ">
+<!ENTITY followupToField3.label "Pokračování v ">
+<!ENTITY tagsHdr3.label "Štítky ">
+<!ENTITY dateField3.label "Datum ">
+<!ENTITY userAgentField3.label "Poštovní klient ">
+<!ENTITY referencesField3.label "Reference ">
+<!ENTITY messageIdField3.label "Id zprávy ">
+<!ENTITY inReplyToField3.label "V odpovědi na ">
+<!ENTITY originalWebsite3.label "Webový server ">
 
 <!ENTITY editMessageDescription.label "Tato zpráva je koncept">
 <!ENTITY editMessageButton.label "Upravit…">
-<!ENTITY hdrArchiveButton.label "archivovat">
-<!ENTITY hdrArchiveButton.tooltip "archivuje tuto zprávu">
-<!ENTITY hdrSmartReplyButton.label "odpovědět chytře">
-<!ENTITY hdrReplyButton.label "odpovědět">
-<!ENTITY hdrReplyButton.tooltip "odpoví na tuto zprávu">
-<!ENTITY hdrReplyAllButton.label "odpovědět všem">
-<!ENTITY hdrReplyAllButton.tooltip "odpoví odesílateli a všem příjemcům">
-<!ENTITY hdrReplyListButton.label "odpovědět do konference">
-<!ENTITY hdrReplyListButton.tooltip "odpoví do e-mailové konference">
-<!ENTITY hdrForwardButton.label "přeposlat">
-<!ENTITY hdrForwardButton.tooltip "přepošle tuto zprávu">
-<!ENTITY hdrJunkButton.label "nevyžádaná pošta">
-<!ENTITY hdrJunkButton.tooltip "označí tuto zprávu jako nevyžádaná">
-<!ENTITY hdrTrashButton.label "smazat">
-<!ENTITY hdrTrashButton.tooltip "smaže tuto zprávu">
+<!ENTITY hdrArchiveButton1.label "Archivovat">
+<!ENTITY hdrArchiveButton1.tooltip "Archivuje tuto zprávu">
+<!ENTITY hdrSmartReplyButton1.label "Odpovědět chytře">
+<!ENTITY hdrReplyButton1.label "Odpovědět">
+<!ENTITY hdrReplyButton1.tooltip "Odpoví na tuto zprávu">
+<!ENTITY hdrReplyAllButton1.label "Odpovědět všem">
+<!ENTITY hdrReplyAllButton1.tooltip "Odpoví odesílateli a všem příjemcům">
+<!ENTITY hdrReplyListButton1.label "Odpovědět do konference">
+<!ENTITY hdrReplyListButton1.tooltip "Odpoví do e-mailové konference">
+<!ENTITY hdrForwardButton1.label "Přeposlat">
+<!ENTITY hdrForwardButton1.tooltip "Přepošle tuto zprávu">
+<!ENTITY hdrJunkButton1.label "Nevyžádaná pošta">
+<!ENTITY hdrJunkButton1.tooltip "Označí tuto zprávu jako nevyžádaná">
+<!ENTITY hdrTrashButton1.label "Smazat">
+<!ENTITY hdrTrashButton1.tooltip "Smaže tuto zprávu">
 
 <!ENTITY hdrViewToolbarShowFull.label "Zobrazit ikony a text">
 <!ENTITY hdrViewToolbarShowFull.accesskey "Z">
@@ -82,23 +81,23 @@
 <!ENTITY hdrViewToolbarAlwaysReplySender.label "Vždy zobrazit Odpovědět odesílateli">
 <!ENTITY hdrViewToolbarAlwaysReplySender.accesskey "V">
 
-<!ENTITY otherActionsButton.label "další akce">
-<!ENTITY otherActionsOpenConversation.label "otevřít jako konverzaci">
-<!ENTITY otherActionsOpenConversation.accesskey "k">
-<!ENTITY otherActionsOpenInNewWindow.label "otevřít v novém okně">
-<!ENTITY otherActionsOpenInNewWindow.accesskey "o">
-<!ENTITY otherActionsOpenInNewTab.label "otevřít v panelu">
-<!ENTITY otherActionsOpenInNewTab.accesskey "p">
-<!ENTITY markAsReadMenuItem.label "označit jako přečtená">
-<!ENTITY markAsReadMenuItem.accesskey "z">
-<!ENTITY markAsUnreadMenuItem.label "označit jako nepřečtená">
-<!ENTITY markAsUnreadMenuItem.accesskey "z">
-<!ENTITY saveAsMenuItem.label "uložit jako…">
-<!ENTITY saveAsMenuItem.accesskey "u">
-<!ENTITY viewSourceMenuItem.label "zobrazit zdrojový kód…">
-<!ENTITY viewSourceMenuItem.accesskey "k">
-<!ENTITY otherActionsPrint.label "tisknout">
-<!ENTITY otherActionsPrint.accesskey "t">
+<!ENTITY otherActionsButton1.label "Další akce">
+<!ENTITY otherActionsOpenConversation1.label "Otevřít jako konverzaci">
+<!ENTITY otherActionsOpenConversation1.accesskey "k">
+<!ENTITY otherActionsOpenInNewWindow1.label "Otevřít v novém okně">
+<!ENTITY otherActionsOpenInNewWindow1.accesskey "O">
+<!ENTITY otherActionsOpenInNewTab1.label "Otevřít v panelu">
+<!ENTITY otherActionsOpenInNewTab1.accesskey "p">
+<!ENTITY markAsReadMenuItem1.label "Označit jako přečtená">
+<!ENTITY markAsReadMenuItem1.accesskey "z">
+<!ENTITY markAsUnreadMenuItem1.label "Označit jako nepřečtená">
+<!ENTITY markAsUnreadMenuItem1.accesskey "z">
+<!ENTITY saveAsMenuItem1.label "Uložit jako…">
+<!ENTITY saveAsMenuItem1.accesskey "U">
+<!ENTITY viewSourceMenuItem1.label "Zobrazit zdrojový kód…">
+<!ENTITY viewSourceMenuItem1.accesskey "k">
+<!ENTITY otherActionsPrint1.label "Tisknout">
+<!ENTITY otherActionsPrint1.accesskey "T">
 
 <!-- Attachment context menu items -->
 <!ENTITY openAttachmentCmd.label "Otevřít">
@@ -119,26 +118,10 @@
 <!ENTITY deleteAllAttachmentsCmd.accesskey "S">
 
 <!-- Attachment toolbar items -->
-<!ENTITY saveAttachmentButton.label "uložit">
-<!ENTITY saveAttachmentButton.tooltip "uloží soubor přílohy">
-<!ENTITY saveAllAttachmentsButton.label "uložit vše">
-<!ENTITY saveAllAttachmentsButton.tooltip "uloží všechny soubory přílohy">
-<!ENTITY openAttachmentMenuItem.label "otevřít">
-<!ENTITY openAttachmentMenuItem.accesskey "o">
-<!ENTITY saveAsAttachmentMenuItem.label "uložit jako…">
-<!ENTITY saveAsAttachmentMenuItem.accesskey "u">
-<!ENTITY detachAttachmentMenuItem.label "vyčlenit…">
-<!ENTITY detachAttachmentMenuItem.accesskey "v">
-<!ENTITY deleteAttachmentMenuItem.label "smazat">
-<!ENTITY deleteAttachmentMenuItem.accesskey "m">
-<!ENTITY openAllAttachmentsMenuItem.label "otevřít vše…">
-<!ENTITY openAllAttachmentsMenuItem.accesskey "o">
-<!ENTITY saveAllAttachmentsMenuItem.label "uložit vše…">
-<!ENTITY saveAllAttachmentsMenuItem.accesskey "l">
-<!ENTITY detachAllAttachmentsMenuItem.label "vyčlenit vše…">
-<!ENTITY detachAllAttachmentsMenuItem.accesskey "y">
-<!ENTITY deleteAllAttachmentsMenuItem.label "smazat vše…">
-<!ENTITY deleteAllAttachmentsMenuItem.accesskey "s">
+<!ENTITY saveAttachmentButton1.label "Uložit">
+<!ENTITY saveAttachmentButton1.tooltip "Uloží soubor přílohy">
+<!ENTITY saveAllAttachmentsButton1.label "Uložit vše">
+<!ENTITY saveAllAttachmentsButton1.tooltip "Uloží všechny soubory přílohy">
 
 <!ENTITY copyLinkCmd.label "Kopírovat adresu odkazu">
 <!ENTITY copyLinkCmd.accesskey "K">
