@@ -59,6 +59,7 @@
 <!ENTITY editMessageButton.label "Upraviť…">
 <!ENTITY hdrArchiveButton.label "archivovať">
 <!ENTITY hdrArchiveButton.tooltip "archivovať túto správu">
+<!ENTITY hdrSmartReplyButton.label "odpovedať">
 <!ENTITY hdrReplyButton.label "odpovedať">
 <!ENTITY hdrReplyButton.tooltip "odpovedať na túto správu">
 <!ENTITY hdrReplyAllButton.label "odpovedať všetkým">
@@ -71,7 +72,6 @@
 <!ENTITY hdrJunkButton.tooltip "označiť túto správu ako nevyžiadanú">
 <!ENTITY hdrTrashButton.label "odstrániť">
 <!ENTITY hdrTrashButton.tooltip "odstrániť túto správu">
-
 <!ENTITY hdrViewToolbarShowFull.label "Zobraziť ikony a text">
 <!ENTITY hdrViewToolbarShowFull.accesskey "Z">
 <!ENTITY hdrViewToolbarShowIcons.label "Zobraziť len ikony">

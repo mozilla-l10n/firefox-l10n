@@ -10,119 +10,29 @@
 <!-- LOCALIZATION NOTE (mainWindow.titlemodifiermenuseparator): DONT_TRANSLATE -->
 <!ENTITY mainWindow.titlemodifiermenuseparator " - ">
 
-<!ENTITY tabCmd.label "Karta prehliadača">
-<!ENTITY tabCmd.accesskey "T">
-<!ENTITY tabCmd.commandkey "t">
-<!ENTITY openCmd.label "Otvoriť webovú adresu…">
-<!ENTITY openCmd.accesskey "w">
-<!ENTITY openCmd.commandkey "l">
-<!ENTITY openFileCmd.label "Otvoriť súbor…">
-<!ENTITY openFileCmd.accesskey "O">
-<!ENTITY openFileCmd.commandkey "o">
-<!ENTITY recentTabs.label "Nedávno zatvorené karty">
-<!ENTITY recentTabs.accesskey "y">
-<!ENTITY recentTabs.commandkey "t">
-<!ENTITY recentWindows.label "Nedávno zatvorené okná">
-<!ENTITY recentWindows.accesskey "d">
-<!ENTITY recentWindows.commandkey "y">
 <!ENTITY editPageCmd.label "Upraviť stránku">
 <!ENTITY editPageCmd.accesskey "i">
 <!ENTITY editPageCmd.commandkey "e">
 
-<!ENTITY uploadFile.label "Odoslať súbor…">
-<!ENTITY uploadFile.accesskey "s">
-
-<!ENTITY printSetupCmd.label "Nastavenie tlače…">
-<!ENTITY printSetupCmd.accesskey "N">
 <!ENTITY printPreviewCmd.label "Ukážka pred tlačou">
 <!ENTITY printPreviewCmd.accesskey "e">
 <!ENTITY printCmd.label "Tlačiť…">
 <!ENTITY printCmd.accesskey "T">
 <!ENTITY printCmd.commandkey "p">
 
-<!ENTITY toolbarsCmd.label "Zobraziť/Skryť">
-<!ENTITY toolbarsCmd.accesskey "Z">
 <!ENTITY navbarCmd.label "Navigačný panel">
 <!ENTITY navbarCmd.accesskey "N">
 <!ENTITY personalbarCmd.label "Osobný panel">
 <!ENTITY personalbarCmd.accesskey "O">
-<!ENTITY tabbarCmd.label "Panel kariet">
-<!ENTITY tabbarCmd.accesskey "e">
-<!ENTITY taskbarCmd.label "Stavový riadok">
-<!ENTITY taskbarCmd.accesskey "S">
-<!ENTITY componentbarCmd.label "Panel komponentov">
-<!ENTITY componentbarCmd.accesskey "k">
 
-<!ENTITY useStyleSheetMenu.label "Použiť štýl">
-<!ENTITY useStyleSheetMenu.accesskey "u">
-<!ENTITY useStyleSheetNone.label "Žiadny">
-<!ENTITY useStyleSheetNone.accesskey "n">
-<!ENTITY useStyleSheetPersistentOnly.label "Predvolený štýl">
-<!ENTITY useStyleSheetPersistentOnly.accesskey "d">
-<!ENTITY pageSourceCmd.label "Zdrojový kód stránky">
-<!ENTITY pageSourceCmd.accesskey "o">
-<!ENTITY pageSourceCmd.commandkey "u">
-<!ENTITY pageInfoCmd.label "Informácie o stránke">
-<!ENTITY pageInfoCmd.accesskey "I">
-<!ENTITY pageInfoCmd.commandkey "i">
-<!ENTITY fullScreenCmd.label "Na celú obrazovku">
-<!ENTITY fullScreenCmd.accesskey "c">
-<!ENTITY translateMenu.label "Preložiť stránku">
-<!ENTITY translateMenu.accesskey "t">
-
-<!ENTITY closeOtherTabs.label "Zavrieť ostatné karty">
-<!ENTITY closeOtherTabs.accesskey "a">
 <!ENTITY closeWindow.label "Zavrieť okno">
 <!ENTITY closeWindow.accesskey "v">
 
 <!ENTITY minimizeButton.tooltip       "Minimalizovať">
 <!ENTITY restoreButton.tooltip        "Obnoviť">
 
-<!ENTITY applyTheme.label	"Použiť tému">
-<!ENTITY applyTheme.accesskey	"t">
-<!ENTITY getNewThemesCmd.label "Získať nové témy">
-<!ENTITY getNewThemesCmd.accesskey "Z">
-<!ENTITY findOnCmd.label "Hľadať na tejto stránke…">
-<!ENTITY findOnCmd.accesskey "H">
-<!ENTITY findOnCmd.commandkey "f">
-<!ENTITY findAgainCmd.label "Hľadať ďalej">
-<!ENTITY findAgainCmd.accesskey "d">
-<!ENTITY findAgainCmd.commandkey "g">
-<!ENTITY findPrevCmd.label "Hľadať naspäť">
-<!ENTITY findPrevCmd.accesskey "n">
-<!ENTITY findPrevCmd.commandkey "g">
-<!ENTITY findAgainCmd.commandkey2 "VK_F3">
-<!ENTITY findPrevCmd.commandkey2 "VK_F3">
-
-<!ENTITY searchInternetCmd.label "Vyhľadávanie na webe">
-<!ENTITY searchInternetCmd.accesskey "V">
-<!ENTITY searchInternet.commandKey "s">
-
-<!ENTITY clearPrivateDataCmd.label "Odstrániť súkromné údaje…">
-<!ENTITY clearPrivateDataCmd.accesskey "O">
-
-<!ENTITY goMenu.label "Prejsť">
-<!ENTITY goMenu.accesskey "r">
-<!ENTITY goHomeCmd.label "Domov">
-<!ENTITY goHomeCmd.accesskey "m">
-<!ENTITY historyRestoreLastSession.label "Obnoviť predchádzajúcu reláciu">
-<!ENTITY historyRestoreLastSession.accesskey "b">
-
-<!ENTITY bookmarksMenu.label "Záložky">
-<!ENTITY bookmarksMenu.accesskey "o">
-<!ENTITY addCurPageCmd.label "Pridať k záložkám">
-<!ENTITY addCurPageCmd.accesskey "P">
-<!ENTITY addCurPageAsCmd.label "Pridať k záložkám ako…">
-<!ENTITY addCurPageAsCmd.accesskey "a">
-<!ENTITY addCurPageAsCmd.commandkey "d">
-<!ENTITY addCurTabsAsCmd.label "Pridať túto skupinu kariet k záložkám…">
-<!ENTITY addCurTabsAsCmd.accesskey "s">
-<!ENTITY manBookmarksCmd.label "Správa záložiek…">
-<!ENTITY manBookmarksCmd.accesskey "z">
-<!ENTITY manBookmarksCmd.commandkey "b">
 <!ENTITY feedsMenu.label "Odoberať kanál tejto stránky">
 <!ENTITY feedsMenu.accesskey "O">
-<!ENTITY emptyItem.label "(prázdne)">
 
 <!ENTITY menuBar.tooltip                  "Panel Ponuka">
 <!ENTITY personalToolbar.tooltip          "Osobný panel">
@@ -162,14 +72,4 @@
 <!-- Statusbar -->
 <!ENTITY  statusText.label            "Hotovo">
 
-<!ENTITY historyCmd.label           "História">
-<!ENTITY historyCmd.accesskey       "H">
-<!ENTITY history.commandKey         "H">
-
 <!ENTITY popupIcon.tooltiptext      "Zrušiť blokovanie vyskakovacích okien tejto stránky">
-
-<!ENTITY bidiSwitchPageDirectionItem.label        "Prepnúť smer textu stránky">
-<!ENTITY bidiSwitchPageDirectionItem.accesskey    "x">
-
-<!-- LOCALIZATION NOTE (syncTabsMenu.label): This appears in the Go menu -->
-<!ENTITY syncTabsMenu.label         "Karty z ďalších počítačov">

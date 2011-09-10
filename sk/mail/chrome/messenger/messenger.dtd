@@ -224,6 +224,8 @@
 <!ENTITY bodySanitized.accesskey "H">
 <!ENTITY bodyAsPlaintext.label "Iba text">
 <!ENTITY bodyAsPlaintext.accesskey "b">
+<!ENTITY bodyAllParts.label "Celá správa">
+<!ENTITY bodyAllParts.accesskey "C">
 
 <!ENTITY bodyMenuFeed.label "Správu informačného kanála ako">
 <!ENTITY bodyMenuFeed.accesskey "n">

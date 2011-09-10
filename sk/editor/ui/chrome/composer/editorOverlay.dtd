@@ -73,9 +73,6 @@
 <!ENTITY printCmd.label "Tlačiť…">
 <!ENTITY printCmd.accesskey "T">
 <!ENTITY printCmd.key "P">
-<!ENTITY closeCmd.label "Zavrieť">
-<!ENTITY closeCmd.accesskey "Z">
-<!ENTITY closeCmd.key "W">
 
 <!-- Edit menu items -->
 <!ENTITY editMenu.label "Upraviť">
@@ -92,17 +89,6 @@
 <!ENTITY pasteAsQuotationCmd.accesskey "c">
 <!ENTITY pasteAsQuotationCmd.key "o">
 <!ENTITY findCmd.label "Hľadať a nahradiť…">
-<!ENTITY findCmd.accesskey "H">
-<!ENTITY findCmd.key "F">
-<!ENTITY findCmd.key2 "VK_F19">
-<!ENTITY findAgainCmd.label "Hľadať ďalšie">
-<!ENTITY findAgainCmd.accesskey "d">
-<!ENTITY findAgainCmd.key "G">
-<!ENTITY findAgainCmd.key2 "VK_F3">
-<!ENTITY findPrevCmd.label "Hľadať predchádzajúce">
-<!ENTITY findPrevCmd.accesskey "r">
-<!ENTITY findPrevCmd.key "G">
-<!ENTITY findPrevCmd.key2 "VK_F3">
 <!ENTITY enableInlineSpellChecker.label "Kontrolovať pravopis počas písania">
 <!ENTITY enableInlineSpellChecker.accesskey "K">
 <!ENTITY checkSpellingCmd2.label "Kontrola pravopisu">
@@ -140,23 +126,6 @@
 <!ENTITY createLinkCmd.accesskey "d">
 <!ENTITY editLinkCmd.label "Upraviť odkaz v novom okne">
 <!ENTITY editLinkCmd.accesskey "i">
-<!-- (Toplevel Edit menu uses utilityOverlay) -->
-<!ENTITY undoCmd.label "Späť">
-<!ENTITY undoCmd.accesskey "S">
-<!ENTITY redoCmd.label "Znovu">
-<!ENTITY redoCmd.accesskey "Z">
-<!ENTITY cutCmd.label "Vystrihnúť">
-<!ENTITY cutCmd.accesskey "t">
-<!ENTITY copyCmd.label "Kopírovať">
-<!ENTITY copyCmd.accesskey "K">
-<!ENTITY pasteCmd.label "Prilepiť">
-<!ENTITY pasteCmd.accesskey "P">
-<!ENTITY deleteCmd.label "Odstrániť">
-<!ENTITY deleteCmd.accesskey "O">
-<!ENTITY clearCmd.label "Vymazať">
-<!ENTITY clearCmd.accesskey "m">
-<!ENTITY selectAllCmd.label "Vybrať všetko">
-<!ENTITY selectAllCmd.accesskey "a">
 
 <!-- Font Face SubMenu -->
 <!ENTITY FontFaceSelect.tooltip "Vyberte písmo zo zoznamu">
@@ -396,6 +365,9 @@
 <!ENTITY openToolbarCmd.tooltip "Otvoriť lokálnu stránku">
 <!ENTITY saveToolbarCmd.tooltip "Uložiť stránku lokálne">
 <!ENTITY publishToolbarCmd.tooltip "Odoslať súbor na vzdialený server">
+<!ENTITY cutToolbarCmd.tooltip "Vystrihnúť">
+<!ENTITY copyToolbarCmd.tooltip "Kopírovať">
+<!ENTITY pasteToolbarCmd.tooltip "Prilepiť">
 <!ENTITY printToolbarCmd.label "Tlačiť">
 <!ENTITY printToolbarCmd.tooltip "Tlačiť stránku">
 <!ENTITY findToolbarCmd.label "Hľadať">

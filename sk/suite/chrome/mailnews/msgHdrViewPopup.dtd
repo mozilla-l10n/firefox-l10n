@@ -47,5 +47,8 @@
 <!ENTITY copyLinkCmd.label                 "Kopírovať adresu odkazu">
 <!ENTITY copyLinkCmd.accesskey             "a">
 <!ENTITY CopyMessageId.label               "Kopírovať ID správy">
+<!ENTITY CopyMessageId.accesskey           "K">
 <!ENTITY OpenMessageForMsgId.label         "Otvoriť správu s ID">
+<!ENTITY OpenMessageForMsgId.accesskey     "O">
 <!ENTITY OpenBrowserWithMsgId.label        "Otvoriť prehliadač s ID správy">
+<!ENTITY OpenBrowserWithMsgId.accesskey    "h">
