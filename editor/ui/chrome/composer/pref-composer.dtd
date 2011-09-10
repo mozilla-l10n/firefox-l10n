@@ -1,16 +1,9 @@
 <!-- extracted from content/pref-composer.xul -->
 <!--LOCALIZATION NOTE : FILE 'Composer' prefs dialog. Similar to Communcator 4.x Document Properties/Colors and Background -->
-<!--LOCALIZATION NOTE (title.label): DONT_TRANSLATE -->
-<!ENTITY title.label "Composer">
-<!ENTITY lHeader "Композитор">
-<!ENTITY rHeader "Настройки за създаване на нови уеб-страници">
-<!ENTITY saving "Записване">
-<!ENTITY AutoSaveCheck "Автоматично съхраняване на всеки">
-<!ENTITY minText "минути">
-<!ENTITY exterLegend.label "Външни редактори">
-<!ENTITY htmlSource "HTML изходен текст:">
-<!ENTITY imageeditor "Изображения:">
-<!ENTITY chooseButton.label "Избор">
+<!--LOCALIZATION NOTE (pref.composer.title): DONT_TRANSLATE -->
+
+
+<!ENTITY pref.composer.title "Composer">
 <!ENTITY recentFiles.title "Меню последни страници">
 <!ENTITY documentsInMenu.label "Максимален брой на изброените страници:">
 <!ENTITY documentsInMenu.accesskey "М">

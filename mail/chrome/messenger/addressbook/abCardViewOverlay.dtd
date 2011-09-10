@@ -35,6 +35,7 @@
 
  ***** END LICENSE BLOCK ***** -->
 <!-- Box Headings -->
+
 <!ENTITY contact.heading "Контакт">
 <!ENTITY home.heading "Домашен">
 <!ENTITY other.heading "Други">
@@ -46,3 +47,4 @@
 <!-- For Map It! -->
 <!ENTITY mapItButton.label "Карта">
 <!ENTITY mapIt.tooltip "Изобразяване на географска карта на адреса от Интернет">
+

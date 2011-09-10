@@ -35,7 +35,10 @@
    -
    - ***** END LICENSE BLOCK ***** -->
 <!-- Window title -->
+
+
 <!ENTITY windowTitle.label "Свойства на хоризонталната линия">
+
 <!ENTITY dimensionsBox.label "Размери">
 <!ENTITY heightEditField.label "Височина:">
 <!ENTITY heightEditField.accessKey "В">
@@ -43,13 +46,14 @@
 <!ENTITY widthEditField.accessKey "Ш">
 <!ENTITY pixelsPopup.value "пиксели">
 <!ENTITY alignmentBox.label "Подравняване">
-<!ENTITY leftRadio.value "Ляво">
+<!ENTITY leftRadio.label "Ляво">
 <!ENTITY leftRadio.accessKey "Л">
-<!ENTITY centerRadio.value "Центриране">
+<!ENTITY centerRadio.label "Центриране">
 <!ENTITY centerRadio.accessKey "Ц">
-<!ENTITY rightRadio.value "Дясно">
+<!ENTITY rightRadio.label "Дясно">
 <!ENTITY rightRadio.accessKey "Д">
-<!ENTITY threeDShading.label "3D сенки">
+
+<!ENTITY threeDShading.label "3-D сенки">
 <!ENTITY threeDShading.accessKey "3">
 <!ENTITY saveSettings.label "По подразбиране">
 <!ENTITY saveSettings.accessKey "з">

@@ -1,5 +1,7 @@
 <!--LOCALIZATION NOTE msgViewPickerOverlay.dtd UI for showing various views on a folder -->
+
 <!ENTITY mailViewSetupTitle.label "Настройка на изглед">
-<!ENTITY mailViewHeading.label "Име на изглед">
+<!ENTITY mailViewHeading.label "Име на изглед:">
 <!ENTITY mailViewHeading.accesskey "И">
 <!ENTITY searchTermCaption.label "Когато този изглед е избран, показват се само писмата, които:">
+

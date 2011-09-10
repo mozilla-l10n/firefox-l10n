@@ -1,3 +1,4 @@
 <!--LOCALIZATION NOTE msgReadSMIMEOverlay.dtd UI for s/mime hooks in message reading -->
+
 <!ENTITY menu_securityStatus.label "Подробности за защитата на писмото">
 <!ENTITY menu_securityStatus.accesskey "щ">

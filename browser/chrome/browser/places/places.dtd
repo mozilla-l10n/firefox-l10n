@@ -28,10 +28,12 @@
 <!ENTITY cmd.findCurrent.label "Търсене в текущата колекция…">
 <!ENTITY cmd.findCurrent.accesskey "т">
 
-<!ENTITY cmd.exportHTML.label "Изнасяне като HTML…">
-<!ENTITY cmd.exportHTML.accesskey "И">
-<!ENTITY cmd.importHTML.label "Внасяне от HTML…">
-<!ENTITY cmd.importHTML.accesskey "В">
+<!ENTITY importBookmarksFromHTML.label "Внасяне на отметки от HTML…">
+<!ENTITY importBookmarksFromHTML.accesskey "В">
+<!ENTITY exportBookmarksToHTML.label "Изнасяне на отметки в HTML…">
+<!ENTITY exportBookmarksToHTML.accesskey "И">
+<!ENTITY importOtherBrowser.label "Внасяне на данни от друг браузър…">
+<!ENTITY importOtherBrowser.accesskey "б">
 
 <!ENTITY cmd.backup.label "Резервно копие…">
 <!ENTITY cmd.backup.accesskey "Р">
@@ -65,9 +67,9 @@
 
 <!ENTITY cmd.new_bookmark.label "Нова отметка…">
 <!ENTITY cmd.new_bookmark.accesskey "о">
-<!ENTITY cmd.new_folder.label "New Folder…">
-<!ENTITY cmd.new_folder.accesskey "o">
-<!ENTITY cmd.context_new_folder.accesskey "F">
+<!ENTITY cmd.new_folder.label "Нова папка…">
+<!ENTITY cmd.new_folder.accesskey "п">
+<!ENTITY cmd.context_new_folder.accesskey "п">
 <!ENTITY cmd.new_separator.label "Нов разделител">
 <!ENTITY cmd.new_separator.accesskey "р">
 

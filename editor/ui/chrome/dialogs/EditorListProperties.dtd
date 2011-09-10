@@ -35,16 +35,18 @@
    -
    - ***** END LICENSE BLOCK ***** -->
 <!-- Window title -->
+
+
 <!ENTITY windowTitle.label "Свойства на списъка">
+
 <!ENTITY ListType.label "Тип на списъка">
 <!ENTITY bulletStyle.label "Вид на водача:">
 <!ENTITY startingNumber.label "Начало от:">
 <!ENTITY startingNumber.accessKey "Н">
 <!ENTITY none.value "Без">
-<!ENTITY bulletList.value "Списък с водачи (неномериран)">
+<!ENTITY bulletList.value "Списък с водачи (не номериран)">
 <!ENTITY numberList.value "Номериран списък">
 <!ENTITY definitionList.value "Списък с определения">
-<!ENTITY changeListMsg.label "Когато смените типа на списъка:">
 <!ENTITY changeEntireListRadio.label "Смяна на целия списък">
 <!ENTITY changeEntireListRadio.accessKey "С">
 <!ENTITY changeSelectedRadio.label "Смяна само на избраните елементи">

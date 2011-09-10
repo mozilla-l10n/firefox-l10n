@@ -33,7 +33,9 @@
    - the terms of any one of the MPL, the GPL or the LGPL.
    -
    - ***** END LICENSE BLOCK ***** -->
+
 <!ENTITY windowTitle.label "Свойства на списъка със селекции">
+
 <!ENTITY Select.label "Списък със селекции">
 <!ENTITY SelectName.label "Име на списък:">
 <!ENTITY SelectName.accesskey "И">
@@ -43,14 +45,16 @@
 <!ENTITY SelectMultiple.accesskey "М">
 <!ENTITY SelectDisabled.label "Неактивен">
 <!ENTITY SelectDisabled.accesskey "Н">
-<!ENTITY SelectTabIndex.label "Tab Index:">
-<!ENTITY SelectTabIndex.accesskey "I">
-<!ENTITY OptGroup.label "Option Group">
+<!ENTITY SelectTabIndex.label "Индекс на табулатора:">
+<!ENTITY SelectTabIndex.accesskey "И">
+
+<!ENTITY OptGroup.label "Група опции">
 <!ENTITY OptGroupLabel.label "Етикет:">
 <!ENTITY OptGroupLabel.accesskey "Е">
 <!ENTITY OptGroupDisabled.label "Неактивен">
 <!ENTITY OptGroupDisabled.accesskey "Н">
-<!ENTITY Option.label "Option">
+
+<!ENTITY Option.label "Опция">
 <!ENTITY OptionText.label "Текст:">
 <!ENTITY OptionText.accesskey "Т">
 <!ENTITY OptionValue.label "Стойност:">
@@ -59,13 +63,15 @@
 <!ENTITY OptionSelected.accesskey "б">
 <!ENTITY OptionDisabled.label "Неактивен">
 <!ENTITY OptionDisabled.accesskey "Н">
+
 <!ENTITY TextHeader.label "Текст">
 <!ENTITY ValueHeader.label "Стойност">
 <!ENTITY SelectedHeader.label "Избран">
-<!ENTITY AddOption.label "Add Option">
-<!ENTITY AddOption.accesskey "O">
-<!ENTITY AddOptGroup.label "Add Group">
-<!ENTITY AddOptGroup.accesskey "G">
+
+<!ENTITY AddOption.label "Добавяне на опция">
+<!ENTITY AddOption.accesskey "о">
+<!ENTITY AddOptGroup.label "Добавяне на група">
+<!ENTITY AddOptGroup.accesskey "г">
 <!ENTITY RemoveElement.label "Премахване">
 <!ENTITY RemoveElement.accesskey "х">
 <!ENTITY MoveElementUp.label "Премества нагоре">

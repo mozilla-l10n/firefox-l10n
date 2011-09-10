@@ -34,5 +34,6 @@
    - the terms of any one of the MPL, the GPL or the LGPL.
    -
    - ***** END LICENSE BLOCK ***** -->
-<!ENTITY windowTitle.label "Свойства на препратката">
-<!ENTITY LinkURLBox.label "Адрес на препратката">
+
+<!ENTITY windowTitle.label "Свойства на връзката">
+<!ENTITY LinkURLBox.label "Местоположение на връзката">

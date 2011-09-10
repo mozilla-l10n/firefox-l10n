@@ -34,6 +34,7 @@
    - the terms of any one of the MPL, the GPL or the LGPL.
    -
    - ***** END LICENSE BLOCK ***** -->
+
 <!ENTITY tableWindow.title "Свойства на таблицата">
 <!ENTITY applyButton.label "Прилагане">
 <!ENTITY applyButton.accesskey "П">
@@ -59,15 +60,15 @@
 <!ENTITY tablePxBetwBrdrCellContent.label "пиксела между контура на клетката и съдържанието">
 <!ENTITY tableAlignment.label "Подравняване на таблицата:">
 <!ENTITY tableAlignment.accessKey "д">
-<!ENTITY tableCaption.label "Caption:">
-<!ENTITY tableCaption.accessKey "n">
+<!ENTITY tableCaption.label "Надпис:">
+<!ENTITY tableCaption.accessKey "а">
 <!ENTITY tableCaptionAbove.label "Над таблицата">
 <!ENTITY tableCaptionBelow.label "Под таблицата">
 <!ENTITY tableCaptionLeft.label "Отляво">
 <!ENTITY tableCaptionRight.label "Отдясно">
 <!ENTITY tableCaptionNone.label "Без">
 <!ENTITY tableInheritColor.label "(Нека цвета на таблицата прозира)">
-<!ENTITY cellPercent.label "процент от таблицата">
+
 <!ENTITY cellSelection.label "Селекция">
 <!ENTITY cellSelectCell.label "Клетка">
 <!ENTITY cellSelectRow.label "Ред">
@@ -76,13 +77,7 @@
 <!ENTITY cellSelectNext.accessKey "п">
 <!ENTITY cellSelectPrevious.label "Назад">
 <!ENTITY cellSelectPrevious.accessKey "з">
-<!ENTITY cellApplyBeforeMove.label "Прилагане на промени преди смяната на селекцията">
-<!ENTITY cellKeepCurrentData.label "Запазване текущите настройки">
-<!-- LOCALIZATION NOTE Next 2 form 1 sentence (we don't want to use HTML tag to wrap) -->
-<!ENTITY applyBeforeChange1.label "Текущите промени ще бъдат приложени">
-<!ENTITY applyBeforeChange2.label "преди смяна на селекцията">
-<!ENTITY cellRowSpan.label "Row Span:">
-<!ENTITY cellColSpan.label "Column Span:">
+<!ENTITY applyBeforeChange.label "Текущите промени ще бъдат приложени преди смяна на селекцията.">
 <!ENTITY cellContentAlignment.label "Подравняване съдържание">
 <!ENTITY cellHorizontal.label "Хоризонтално:">
 <!ENTITY cellHorizontal.accessKey "Х">
@@ -100,10 +95,10 @@
 <!ENTITY cellAlignMiddle.label "В средата">
 <!ENTITY cellAlignBottom.label "Долу">
 <!ENTITY cellAlignJustify.label "Двустранно">
-<!ENTITY cellAlignAtChar.label "At Character:">
 <!ENTITY cellInheritColor.label "(Нека цвета на таблицата прозира)">
 <!ENTITY cellUseCheckboxHelp.label "Използвайте кутийките за отмятане, за да определите кои свойства да се прилагат към избраните клетки">
 <!-- Used in both Table and Cell panels  -->
+
 <!ENTITY size.label "Размер">
 <!ENTITY pixels.label "пиксели">
 <!ENTITY backgroundColor.label "Фонов цвят:">

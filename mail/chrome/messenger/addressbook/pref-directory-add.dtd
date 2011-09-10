@@ -34,6 +34,7 @@
  the terms of any one of the MPL, the GPL or the LGPL.
 
  ***** END LICENSE BLOCK ***** -->
+
 <!ENTITY newDirectoryTitle.label "Свойства на сървъра директория">
 <!ENTITY directoryName.label "Име:">
 <!ENTITY directoryName.accesskey "И">
@@ -47,12 +48,9 @@
 <!ENTITY directorySecure.accesskey "з">
 <!ENTITY directoryLogin.label "Bind DN: ">
 <!ENTITY directoryLogin.accesskey "i">
-<!ENTITY advancedOptionsButton.label "Разширени настройки">
-<!ENTITY advancedOptionsButton.accesskey "ш">
 <!ENTITY General.tab "Основни">
 <!ENTITY Offline.tab "Без връзка">
 <!ENTITY Advanced.tab "Разширени">
-<!ENTITY advancedOptionsTitle.label "Разширени настройки">
 <!ENTITY portNumber.label "Порт:">
 <!ENTITY portNumber.accesskey "П">
 <!ENTITY searchFilter.label "Филтър за търсене:">
@@ -67,10 +65,15 @@
 <!ENTITY return.accesskey "в">
 <!ENTITY results.label "резултата">
 <!ENTITY offlineText.label "Можете да си изтеглите копие на тази директория, за да е достъпна при работа без връзка с мрежата.">
-<!ENTITY downloadNowButton.label "Изтегляне сега">
-<!ENTITY downloadNowButton.accesskey "г">
+<!ENTITY saslMechanism.label "Метод на включване:">
+<!ENTITY saslMechanism.accesskey "М">
+<!ENTITY saslOff.label "Прост">
+<!ENTITY saslOff.accesskey "р">
+<!ENTITY saslGSSAPI.label "Kerberos (GSSAPI)">
+<!ENTITY saslGSSAPI.accesskey "K">
 <!-- Localization note: this is here because the width of the dialog 
      is determined by the width of the base DN box; and that is likely
      to vary somewhat with the language.
 -->
+
 <!ENTITY newDirectoryWidth "36em">

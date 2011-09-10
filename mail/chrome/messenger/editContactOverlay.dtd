@@ -1,0 +1,19 @@
+<!ENTITY editContactPanelDeleteContact.label "Изтриване">
+<!ENTITY editContactPanelDeleteContact.accesskey "з">
+
+<!ENTITY editContactName.label "Име:">
+<!ENTITY editContactName.accesskey "И">
+
+<!ENTITY editContactEmail.label "Е-поща:">
+<!ENTITY editContactEmail.accesskey "Е">
+
+<!ENTITY editContactAddressBook.label "Адресник:">
+<!ENTITY editContactAddressBook.accesskey "А">
+
+<!ENTITY editContactPanelCancel.label "Отказ">
+<!ENTITY editContactPanelCancel.accesskey "О">
+
+<!ENTITY editContactPanelDone.label "Готово">
+<!ENTITY editContactPanelDone.accesskey "Г">
+
+<!ENTITY contactMoveDisabledWarning.description "Не можете да промените адресника, защото контактът е от пощенския списък.">

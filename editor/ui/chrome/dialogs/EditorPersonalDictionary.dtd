@@ -35,7 +35,9 @@
    -
    - ***** END LICENSE BLOCK ***** -->
 <!-- Window title -->
+
 <!ENTITY windowTitle.label "Личен речник">
+
 <!ENTITY wordEditField.label "Нова дума:">
 <!ENTITY wordEditField.accessKey "Н">
 <!ENTITY AddButton.label "Добавяне">
@@ -46,5 +48,6 @@
 <!ENTITY ReplaceButton.accessKey "а">
 <!ENTITY RemoveButton.label "Премахване">
 <!ENTITY RemoveButton.accessKey "П">
+
 <!ENTITY CloseButton.label "Затваряне">
 <!ENTITY CloseButton.accessKey "З">

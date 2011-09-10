@@ -38,59 +38,57 @@
    - ***** END LICENSE BLOCK ***** -->
 <!-- These strings are for use specifically in the editor's image map dialog. -->
 <!-- Window title -->
+
+
 <!ENTITY windowTitle.label "Редактор на изображение">
 <!-- Menu Items -->
 <!-- File menu -->
+
 <!ENTITY mapfileMenu.label "Файл">
-<!ENTITY mapfilemenu.accesskey "Ф">
+<!ENTITY mapfileMenu.accesskey "Ф">
 <!ENTITY clearCmd.label "Изчистване">
-<!ENTITY mapfileclear.accesskey "ч">
+<!ENTITY clearCmd.accesskey "ч">
 <!ENTITY closeCmd.label "Затваряне">
-<!ENTITY mapfileclose.accesskey "з">
+<!ENTITY closeCmd.accesskey "З">
 <!-- Edit menu -->
+
 <!ENTITY mapeditMenu.label "Редактиране">
-<!ENTITY mapeditmenu.accesskey "Р">
+<!ENTITY mapeditMenu.accesskey "Р">
 <!ENTITY cutCmd.label "Изрязване">
-<!ENTITY mapeditcut.accesskey "я">
+<!ENTITY cutCmd.accesskey "я">
 <!ENTITY copyCmd.label "Копиране">
-<!ENTITY mapeditcopy.accesskey "к">
+<!ENTITY copyCmd.accesskey "К">
 <!ENTITY pasteCmd.label "Поставяне">
-<!ENTITY mapeditpaste.accesskey "в">
+<!ENTITY pasteCmd.accesskey "П">
 <!ENTITY selectallCmd.label "Избор на всичко">
-<!ENTITY mapselectall.accesskey "и">
+<!ENTITY selectallCmd.accesskey "И">
 <!ENTITY propsCmd.label "Свойства на чувствителна зона">
-<!ENTITY mapeditprops.accesskey "у">
+<!ENTITY propsCmd.accesskey "у">
 <!-- View menu -->
+
 <!ENTITY mapviewMenu.label "Изглед">
-<!ENTITY mapviewmenu.accesskey "г">
-<!ENTITY showhideTbarCmd.label "Скриване лентата с инструменти">
-<!ENTITY mapviewtbar.accesskey "у">
+<!ENTITY mapviewMenu.accesskey "г">
+<!ENTITY showhideTbarCmd.label "Скриване на лентата с инструменти">
+<!ENTITY showhideTbarCmd.accesskey "л">
 <!-- Scaling -->
 <!ENTITY mapviewScale.label "Мащаб">
-<!ENTITY mapviewscale.accesskey "щ">
+<!ENTITY mapviewScale.accesskey "М">
 <!ENTITY apercentCmd.label "100">
-<!ENTITY zoomone.accesskey "1">
+<!ENTITY apercentCmd.accesskey "1">
 <!ENTITY bpercentCmd.label "200">
-<!ENTITY zoomtwo.accesskey "2">
+<!ENTITY bpercentCmd.accesskey "2">
 <!ENTITY cpercentCmd.label "400">
-<!ENTITY zoomthree.accesskey "4">
-<!-- end scaling-->
-<!ENTITY contrastCmd.label "Контраст">
-<!ENTITY contrast.accesskey "о">
-<!-- Help menu -->
-<!ENTITY maphelpMenu.label "Помощ">
-<!ENTITY maphelpmenu.accesskey "П">
-<!ENTITY aboutCmd.label "Относно">
-<!ENTITY about.accesskey "о">
+<!ENTITY cpercentCmd.accesskey "4">
+
 <!ENTITY zoominCmd.label "Увеличаване">
 <!ENTITY zoomoutCmd.label "Намаляване">
-<!ENTITY delSpotCmd.label "Изтриване на точка">
 <!-- Keys -->
-<!ENTITY clear.accesskey "d">
-<!ENTITY selectall.accesskey "и">
-<!ENTITY close.accesskey "т">
-<!ENTITY cut.accesskey "я">
-<!ENTITY copy.accesskey "к">
-<!ENTITY paste.accesskey "в">
-<!ENTITY props.accesskey "й">
-<!ENTITY tbar.accesskey "t">
+
+<!ENTITY clear.key "d">
+<!ENTITY selectall.key "a">
+<!ENTITY close.key "l">
+<!ENTITY cut.key "x">
+<!ENTITY copy.key "c">
+<!ENTITY paste.key "v">
+<!ENTITY props.key "p">
+<!ENTITY tbar.key "t">
