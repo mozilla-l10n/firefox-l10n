@@ -1,9 +1,8 @@
-<!-- Note: each tab panel must contain unique accesskeys -->
 <!--
 # Translator(s):
 #
 # raulmalea <raul.malea@gmail.com>
-# alexxed <alexxed@gmail.com>
+# Alexandru Szasz <alexxed@gmail.com>
 # Laudatti <Laudatti@gmail.com>
 # evinteler <emil_vinteler2000@yahoo.com>
 #
@@ -11,10 +10,11 @@
 <!--
 # Reviewer(s):
 #
-# alexxed <alexxed@gmail.com>
+# Alexandru Szasz <alexxed@gmail.com>
 # raulmalea <raul.malea@gmail.com>
 #
 -->
+<!-- Note: each tab panel must contain unique accesskeys -->
 
 <!ENTITY generalTab.label                "General">
 

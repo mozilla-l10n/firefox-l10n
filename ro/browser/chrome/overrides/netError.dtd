@@ -1,21 +1,21 @@
-<!ENTITY % brandDTD SYSTEM "chrome://branding/locale/brand.dtd">
-%brandDTD;
 <!--
 # Translator(s):
 #
 # janimo <jani@ubuntu.com>
 # raulmalea <raul.malea@gmail.com>
 # stelistcristi <stelistcristi@yahoo.com>
-# alexxed <alexxed@gmail.com>
+# Alexandru Szasz <alexxed@gmail.com>
 #
 -->
 <!--
 # Reviewer(s):
 #
 # raulmalea <raul.malea@gmail.com>
-# alexxed <alexxed@gmail.com>
+# Alexandru Szasz <alexxed@gmail.com>
 #
 -->
+<!ENTITY % brandDTD SYSTEM "chrome://branding/locale/brand.dtd">
+%brandDTD;
 
 <!ENTITY loadError.label "Problemă la încărcarea paginii">
 <!ENTITY retry.label "Încearcă din nou">

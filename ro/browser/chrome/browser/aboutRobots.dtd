@@ -1,9 +1,3 @@
-<!-- These strings are used in the about:robots page, which ties in with the
-     robots theme used in the Firefox 3 Beta 2/3 first run pages...
-         https://www.mozilla.com/en-US/firefox/3.0b2/firstrun/
-         https://www.mozilla.com/en-US/firefox/3.0b3/firstrun/
-     They're just meant to be fun and whimsical, with references to some geeky
-     but well-known robots in movies and books. Be creative with translations! -->
 <!--
 # Translator(s):
 #
@@ -13,9 +7,15 @@
 <!--
 # Reviewer(s):
 #
-# alexxed <alexxed@gmail.com>
+# Alexandru Szasz <alexxed@gmail.com>
 #
 -->
+<!-- These strings are used in the about:robots page, which ties in with the
+     robots theme used in the Firefox 3 Beta 2/3 first run pages...
+         https://www.mozilla.com/en-US/firefox/3.0b2/firstrun/
+         https://www.mozilla.com/en-US/firefox/3.0b3/firstrun/
+     They're just meant to be fun and whimsical, with references to some geeky
+     but well-known robots in movies and books. Be creative with translations! -->
 
 <!-- Nonsense line from the movie "The Day The Earth Stood Still". No translation needed. -->
 <!ENTITY robots.pagetitle  "Gort! Klaatu barada nikto!">
