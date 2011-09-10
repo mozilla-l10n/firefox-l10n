@@ -23,7 +23,7 @@
 <!ENTITY openAttachmentCmd.label "Открыть">
 <!ENTITY openAttachmentCmd.accesskey "т">
 <!ENTITY viewAttachmentCmd.label "Показать исходник">
-<!ENTITY viewAttachmentCmd.accesskey "м">
+<!ENTITY viewAttachmentCmd.accesskey "д">
 <!ENTITY saveAsAttachmentCmd.label "Сохранить как…">
 <!ENTITY saveAsAttachmentCmd.accesskey "к">
 <!ENTITY detachAttachmentCmd.label "Отделить…">
