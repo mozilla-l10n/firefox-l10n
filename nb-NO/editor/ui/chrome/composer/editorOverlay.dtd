@@ -73,9 +73,6 @@
 <!ENTITY printCmd.label "Skriv ut …">
 <!ENTITY printCmd.accesskey "S">
 <!ENTITY printCmd.key "P">
-<!ENTITY closeCmd.label "Lukk">
-<!ENTITY closeCmd.accesskey "L">
-<!ENTITY closeCmd.key "W">
 
 <!-- Edit menu items -->
 <!ENTITY editMenu.label "Rediger">
@@ -91,17 +88,6 @@
 <!ENTITY pasteAsQuotationCmd.accesskey "L">
 <!ENTITY pasteAsQuotationCmd.key "o">
 <!ENTITY findCmd.label "Søk og erstatt …">
-<!ENTITY findCmd.accesskey "S">
-<!ENTITY findCmd.key "F">
-<!ENTITY findCmd.key2 "VK_F19">
-<!ENTITY findAgainCmd.label "Søk etter neste">
-<!ENTITY findAgainCmd.accesskey "n">
-<!ENTITY findAgainCmd.key "G">
-<!ENTITY findAgainCmd.key2 "VK_F3">
-<!ENTITY findPrevCmd.label "Søk etter forrige">
-<!ENTITY findPrevCmd.accesskey "f">
-<!ENTITY findPrevCmd.key "G">
-<!ENTITY findPrevCmd.key2 "VK_F3">
 <!ENTITY enableInlineSpellChecker.label "Stavekontroller mens du skriver">
 <!ENTITY enableInlineSpellChecker.accesskey "S">
 <!ENTITY checkSpellingCmd2.label "Kontroller staving">
@@ -139,23 +125,6 @@
 <!ENTITY createLinkCmd.accesskey "l">
 <!ENTITY editLinkCmd.label "Rediger lenke i nytt nettsideutvikler-vindu">
 <!ENTITY editLinkCmd.accesskey "i">
-<!-- (Toplevel Edit menu uses utilityOverlay) -->
-<!ENTITY undoCmd.label "Angre">
-<!ENTITY undoCmd.accesskey "A">
-<!ENTITY redoCmd.label "Gjenta">
-<!ENTITY redoCmd.accesskey "G">
-<!ENTITY cutCmd.label "Klipp ut">
-<!ENTITY cutCmd.accesskey "u">
-<!ENTITY copyCmd.label "Kopier">
-<!ENTITY copyCmd.accesskey "K">
-<!ENTITY pasteCmd.label "Lim inn">
-<!ENTITY pasteCmd.accesskey "L">
-<!ENTITY deleteCmd.label "Slett">
-<!ENTITY deleteCmd.accesskey "S">
-<!ENTITY clearCmd.label "Tøm">
-<!ENTITY clearCmd.accesskey "T">
-<!ENTITY selectAllCmd.label "Merk alt">
-<!ENTITY selectAllCmd.accesskey "a">
 
 <!-- Font Face SubMenu -->
 <!ENTITY FontFaceSelect.tooltip "Velg skrifttype">
@@ -250,7 +219,7 @@
 
 <!ENTITY paragraphMenu.label "Avsnitt">
 <!ENTITY paragraphMenu.accesskey "A">
-<!ENTITY paragraphParagraphCmd.label "Avsnitt">
+<!ENTITY paragraphParagraphCmd.label "Avsnitt">  
 <!ENTITY paragraphParagraphCmd.accesskey "A">
 <!ENTITY heading1Cmd.label "Overskrift 1">
 <!ENTITY heading1Cmd.accesskey "1">
@@ -373,7 +342,7 @@
 <!ENTITY tableDeleteMenu.label "Slett">
 <!ENTITY tableDeleteMenu.accesskey "S">
 
-<!-- text for "Join Cells" is in editor.properties
+<!-- text for "Join Cells" is in editor.properties 
      ("JoinSelectedCells" and "JoinCellToRight")
      the access key must exist in both of those strings
      But value must be set here for accesskey to draw properly
@@ -396,6 +365,9 @@
 <!ENTITY openToolbarCmd.tooltip "Åpne en lokal fil">
 <!ENTITY saveToolbarCmd.tooltip "Lagre fil lokalt">
 <!ENTITY publishToolbarCmd.tooltip "Last opp fil til eksternt område">
+<!ENTITY cutToolbarCmd.tooltip "Klipp ut">
+<!ENTITY copyToolbarCmd.tooltip "Kopier">
+<!ENTITY pasteToolbarCmd.tooltip "Lim inn">
 <!ENTITY printToolbarCmd.label "Skriv ut">
 <!ENTITY printToolbarCmd.tooltip "Skriv ut denne siden">
 <!ENTITY findToolbarCmd.label "Søk">
