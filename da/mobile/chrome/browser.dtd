@@ -7,6 +7,7 @@
 <!ENTITY go.label              "Gå">
 <!ENTITY star.label            "Stjerne">
 
+<!ENTITY showTabs.label        "Vis faneblade">
 <!ENTITY newtab.label          "Nyt faneblad">
 <!ENTITY closetab.label        "Luk faneblad">
 
@@ -15,6 +16,7 @@
 <!ENTITY copyAll.label         "Kopier alt">
 <!ENTITY copylink.label        "Kopier link-placering">
 <!ENTITY paste.label           "Indsæt">
+<!ENTITY pasteAndGo.label      "Indsæt &amp; hent">
 <!ENTITY delete.label          "Slet">
 <!ENTITY selectAll.label       "Marker alt">
 <!ENTITY noSuggestions.label   "(ingen forslag)">
@@ -50,7 +52,6 @@
 <!ENTITY addonShowPage.label       "Gå til hjemmeside">
 
 <!ENTITY downloadsHeader.label     "Filhentninger">
-
 <!ENTITY downloadShowPage.label    "Gå til side">
 <!ENTITY downloadShow2.label       "Find">
 <!ENTITY downloadOpen2.label       "Åbn">
@@ -68,6 +69,7 @@
 <!ENTITY bookmarkPopup.label       "Side bogmærket">
 <!ENTITY bookmarkRemove.label      "Fjern">
 <!ENTITY bookmarkEdit.label        "Rediger">
+<!ENTITY bookmarkShortcut.label    "Tilføj til startskærm">
 
 <!ENTITY identity.unverifiedsite2 "Dette websted leverer ingen information om dets identitet.">
 <!ENTITY identity.connectedTo2    "Forbundet til">
@@ -93,6 +95,7 @@
 <!ENTITY contextOpenInNewTab.label "Åbn link i nyt faneblad">
 <!ENTITY contextSaveLink.label        "Gem henvisning">
 <!ENTITY contextSaveImage.label       "Gem billede">
+<!ENTITY contextCopyLink.label        "Kopier henvisning">
 <!ENTITY contextShareLink.label       "Del henvisning">
 <!ENTITY contextShareImage.label      "Del billede">
 <!ENTITY contextBookmarkLink.label    "Bogmærk link">
@@ -103,6 +106,7 @@
 <!ENTITY contextFullScreen.label      "Fuldskærm">
 <!ENTITY contextEditBookmark.label    "Rediger">
 <!ENTITY contextRemoveBookmark.label  "Fjern">
+<!ENTITY contextShortcutBookmark.label "Tilføj til startskærm">
 
 <!ENTITY pageactions.saveas.pdf      "Gem som PDF">
 <!ENTITY pageactions.share.page      "Del side">
@@ -112,5 +116,6 @@
 <!ENTITY pageactions.findInPage      "Find på siden">
 <!ENTITY pageactions.search.addNew   "Tilføj søgetjeneste">
 <!ENTITY pageactions.charEncoding    "Tegnkodning">
+<!ENTITY pageactions.webapps.install "Installer som app">
 
 <!ENTITY appMenu.siteOptions         "Webstedsindstillinger">

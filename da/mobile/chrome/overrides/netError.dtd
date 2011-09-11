@@ -7,19 +7,18 @@
 <!-- Specific error messages -->
 
 <!ENTITY connectionFailure.title "Ude af stand til at oprette forbindelse">
-<!ENTITY connectionFailure.longDesc "&sharedLongDesc;">
+<!ENTITY connectionFailure.longDesc "&sharedLongDesc2;">
 
 <!ENTITY deniedPortAccess.title "Adgang til denne adresse er underlagt begrænsninger">
 <!ENTITY deniedPortAccess.longDesc "">
 
 <!ENTITY dnsNotFound.title "Serveren blev ikke fundet">
-<!ENTITY dnsNotFound.longDesc "
+<!ENTITY dnsNotFound.longDesc2 "
 <ul>
   <li>Undersøg adressen for tastefejl, såsom
     <strong>ww</strong>.eksempel.dk i stedet for
     <strong>www</strong>.eksempel.dk</li>
-  <li>Hvis du ikke kan indlæse nogen sider overhovedet, undersøg da din computers netværksforbindelse.</li>
-  <li>Hvis din computer eller netværk er beskyttet af en firewall eller proxy, sørg da for at &brandShortName; har tilladelse til at tilgå nettet.</li>
+  <li>Hvis du ikke kan indlæse nogen sider overhovedet, undersøg da din enheds data- eller Wi-Fi-forbindelse.</li>
 </ul>
 ">
 
@@ -48,7 +47,7 @@
 ">
 
 <!ENTITY netInterrupt.title "Forbindelsen blev afbrudt">
-<!ENTITY netInterrupt.longDesc "&sharedLongDesc;">
+<!ENTITY netInterrupt.longDesc "&sharedLongDesc2;">
 
 <!ENTITY netOffline.title "Offline mode">
 <!ENTITY netOffline.longDesc2 "
@@ -72,10 +71,10 @@
 ">
 
 <!ENTITY netReset.title "Forbindelsen blev nulstillet">
-<!ENTITY netReset.longDesc "&sharedLongDesc;">
+<!ENTITY netReset.longDesc "&sharedLongDesc2;">
 
 <!ENTITY netTimeout.title "Forbindelsens tidsfrist udløb">
-<!ENTITY netTimeout.longDesc "&sharedLongDesc;">
+<!ENTITY netTimeout.longDesc "&sharedLongDesc2;">
 
 <!ENTITY protocolNotFound.title "Adressen kunne ikke forstås">
 <!ENTITY protocolNotFound.longDesc "
@@ -88,30 +87,32 @@
 <!ENTITY proxyConnectFailure.longDesc "
 <ul>
   <li>Undersøg proxy-indstillingerne og vær sikker på at de er korrekte.</li>
-  <li>Kontakt din netværks-administrator for at sikre dig at proxyserveren fungerer.</li>
+  <li>Kontakt din netværks-administrator for at sikre dig at proxyserveren 
+    fungerer.</li>
 </ul>
 ">
 
 <!ENTITY proxyResolveFailure.title "Kunne ikke finde proxyserveren">
-<!ENTITY proxyResolveFailure.longDesc "
+<!ENTITY proxyResolveFailure.longDesc2 "
 <ul>
   <li>Undersøg proxy-indstillingerne og vær sikker på at de er korrekte.</li>
   <li>Undersøg om din computer har en fungerende netværksforbindelse.</li>
-  <li>Hvis din computer eller netværk er beskyttet af en firewall eller proxy, sørg da for at &brandShortName; har tilladelse til at tilgå nettet.</li>
 </ul>
 ">
 
 <!ENTITY redirectLoop.title "Denne side viderefører ikke forespørgslen korrekt">
 <!ENTITY redirectLoop.longDesc "
 <ul>
-  <li>Dette problem kan nogle gange skyldes, at cookies er slået fra, eller modtagelse af cookies er blevet nægtet.</li>
+  <li>Dette problem kan nogle gange skyldes, at cookies er slået fra, eller modtagelse 
+    af cookies er blevet nægtet.</li>
 </ul>
 ">
 
 <!ENTITY unknownSocketType.title "Uventet svar fra server">
 <!ENTITY unknownSocketType.longDesc "
 <ul>
-  <li>Undersøg om dit system har den personlige sikkerhedsmanager installeret.</li>
+  <li>Undersøg om dit system har den personlige sikkerhedsmanager 
+    installeret.</li>
   <li>Dette kan skyldes en ikke-standard opsætning af serveren.</li>
 </ul>
 ">
@@ -127,29 +128,18 @@
 <!ENTITY nssBadCert.title "Sikker forbindelse mislykkedes">
 <!ENTITY nssBadCert.longDesc2 "
 <ul>
-  <li>Dette kan være et problem med serverens konfiguration eller det kan betyde at nogen forsøger at give sig ud for at være serveren.</li>
-  <li>Hvis du har kunnet tilgå serveren tidligere kan dette problem være midlertidligt og du anbefales at prøve igen senere.</li>
+  <li>Dette kan være et problem med serverens konfiguration eller det kan betyde 
+    at nogen forsøger at give sig ud for at være serveren.</li>
+  <li>Hvis du har kunnet tilgå serveren tidligere kan dette problem være 
+    midlertidligt og du anbefales at prøve igen senere.</li>
 </ul>
 ">
 
-<!ENTITY sharedLongDesc "
+<!ENTITY sharedLongDesc2 "
 <ul>
   <li>Siden kan være midlertidigt utilgængelig eller travlt optaget. Forsøg igen om et øjeblik.</li>
   <li>Hvis du er ude af stand til at indlæse nogen sider overhovedet, undersøg da din computers netværksforbindelse.</li>
-  <li>Hvis din computer eller dit netværk er beskyttet af en firewall eller proxy, sørg da for at &brandShortName; har tilladelse til at tilgå nettet.</li>
 </ul>
-">
-
-<!ENTITY malwareBlocked.title "Websted mistænkt for at sprede skadelige programmer!">
-<!ENTITY malwareBlocked.longDesc "
-<p>Nogle websteder forsøger at installere programmer som stjæler private data, bruge din computer til at angribe andre, eller at skade dit system.</p>
-<p>Ejere af websteder som tror deres websted fejlagtigt er blevet registereret som værende et der spreder skadelige programmer kan <a href='http://www.stopbadware.org/home/reviewinfo'>forespørge om et review</a>.</p>
-">
-
-<!ENTITY phishingBlocked.title "Mistænkt netsvindel!">
-<!ENTITY phishingBlocked.longDesc "
-<p>Indtastning af personlige informationer på denne side kan resultere i identitetstyveri eller anden forfalskning.</p>
-<p>Disse typer webforfalskninger bruges i svindelsager kendt som phishing-angreb, hvor falske websteder og emails bruges til at imitere kilder du normalt stoler på.</p>
 ">
 
 <!ENTITY cspFrameAncestorBlocked.title "Blokeret grundet Content Security Policy">
@@ -163,9 +153,9 @@
 <!ENTITY securityOverride.exceptionButtonLabel "Tilføj undtagelse…">
 
 <!-- LOCALIZATION NOTE (securityOverride.warningContent) - Do not translate the
-contents of the <button> tags. It uses strings already defined above. The
-button is included here (instead of netError.xhtml) because it exposes
-functionality specific to firefox. -->
+contents of the <xul:button> tags.  The only language content is the label= field,
+which uses strings already defined above. The button is included here (instead of
+netError.xhtml) because it exposes functionality specific to firefox. -->
 
 <!ENTITY securityOverride.warningContent "
 <p>Du bør ikke tilføje en undtagelse, hvis du ikke bruger en internetforbindelse du stoler fuldt og fast på, eller hvis du ikke er vant til at se advarsler fra denne server.</p>
@@ -176,3 +166,4 @@ functionality specific to firefox. -->
 
 <!ENTITY remoteXUL.title "Remote XUL">
 <!ENTITY remoteXUL.longDesc "<p><ul><li>Kontakt venligst ejerne af webstedet omkring dette problem.</li></ul></p>">
+
