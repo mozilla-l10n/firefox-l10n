@@ -11,8 +11,6 @@
 <!-- menu items:  the . means that the menu item isn't implemented yet -->
 
 <!-- File menu items -->
-<!ENTITY newMessage.label "Zpráva">
-<!ENTITY newMessage.accesskey "Z">
 <!ENTITY saveCmd.label "Uložit">
 <!ENTITY saveCmd.accesskey "u">
 <!ENTITY saveAsCmd.label "Uložit jako">
