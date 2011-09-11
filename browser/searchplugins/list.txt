@@ -1,3 +1,4 @@
+amazon-it
 bing
 eBay-it
 google
