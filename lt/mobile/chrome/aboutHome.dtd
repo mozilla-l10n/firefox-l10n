@@ -39,3 +39,13 @@
 <!ENTITY aboutHome.noTabs                       "Nėra išsaugotų kortelių">
 <!ENTITY aboutHome.noAddons                     "Rekomenduojamų priedų nėra">
 <!ENTITY aboutHome.getLocale                    "Keisti programos kalbą">
+<!ENTITY aboutHome.getInBeforeBeta              "Išbandykite dar prieš betą.">
+<!ENTITY aboutHome.tryAurora                    "Išbandykite „Firefox Aurora“ ir padėkite kurti ateities „Firefox“.">
+<!-- LOCALIZATION NOTE:
+     (aboutHome.downloadAurora): First line of a multi-line button. Treat as a title.
+-->
+<!ENTITY aboutHome.downloadAurora               "Parsisiųsti „Aurorą“">
+<!-- LOCALIZATION NOTE:
+     (aboutHome.forAndroid): Second line of a multi-line button. Treat as a subtitle.
+-->
+<!ENTITY aboutHome.forAndroid                   "„Android“ įrenginiams">
