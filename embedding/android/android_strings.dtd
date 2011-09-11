@@ -15,3 +15,8 @@
 <!ENTITY  sending_crash_report "Sender fejlrapport\u2026">
 <!ENTITY  exit_label "Afslut">
 <!ENTITY  continue_label "Fortsæt">
+
+<!ENTITY  launcher_shortcuts_title "&brandShortName; webapplikationer">
+<!ENTITY  launcher_shortcuts_empty "Ingen webapplikationer fundet">
+
+<!ENTITY choose_file "Vælg fil">
