@@ -11,8 +11,8 @@
 <!ENTITY useCurrentPage.label "Использовать текущую страницу">
 <!ENTITY useCurrentPage.accesskey "т">
 <!ENTITY useMultiple.label "Использовать текущие страницы">
-<!ENTITY useBookmark.label "Использовать закладку">
-<!ENTITY useBookmark.accesskey "л">
+<!ENTITY chooseBookmark.label "Использовать закладку…">
+<!ENTITY chooseBookmark.accesskey "л">
 <!ENTITY restoreDefault.label "Восстановить по умолчанию">
 <!ENTITY restoreDefault.accesskey "о">
 <!ENTITY downloads.label "Загрузки">
