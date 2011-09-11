@@ -54,6 +54,9 @@
 <!-- LOCALIZATION NOTE (popType.label) : Do not translate "POP" in below line -->
 <!ENTITY popType.label "POP">
 <!ENTITY popType.accesskey "P">
+<!ENTITY leaveMsgsOnSrvr.label "Behald meldingane på ternaren">
+<!ENTITY leaveMsgsOnSrvr.accesskey "B">
+
 
 <!-- LOCALIZATION NOTE (haveSmtp1.prefix and haveSmtp1.suffix2) : Do not translate "SMTP" and "&quot;" in
      these variables. Also, translate haveSmtp1.prefix and haveSmtp1.suffix2 as a single sentence, inserting
@@ -65,7 +68,7 @@
 <!-- Entities for Login page -->
 
 <!ENTITY loginTitle.label "Brukarnamn">
-<!ENTITY usernameDesc.label "Skriv inn brukarnamnet du har fått frå e-posttilbydaren din for å hente e-post">
+<!ENTITY usernameDesc.label "Skriv inn brukarnamnet du har fått frå e-posttilbydaren din for å hente e-post ">
 <!-- LOCALIZATION NOTE (usernameExample.label) : do not translate "&quot;jsmith&quot;" in below line -->
 <!ENTITY usernameExample.label "(til dømes «onordmann»)">
 <!ENTITY usernameLabel.label "Innkomande brukarnamn:">
@@ -104,7 +107,7 @@
 <!ENTITY newsServerNamePrefix.label "Nyhendegruppetenar (NNTP):">
 <!ENTITY downloadOnLogin.label "Last ned meldingar no">
 <!ENTITY downloadOnLogin.accesskey "L">
-<!ENTITY deferStorageDesc.label "Fjern krysset frå denne boksen for å lagre e-post i eiga mappe. Det vil gjere at kontoen vert synleg i mappelista. Dersom det er kryssa av vil kontoen verte ein del av «Lokale mapper».">
+<!ENTITY deferStorageDesc.label "Fjern krysset frå denne boksen for å lagre e-post i eiga mappe. Det vil gjere at kontoen vert synleg i mappelista. Dersom det er kryssa av i boksen vil kontoen verte ein del av «Lokale mapper».">
 <!ENTITY deferStorage.label "Bruk global innboks (lagre e-post i kontoen «Lokale mapper»)">
 <!ENTITY deferStorage.accesskey "B">
 <!ENTITY clickFinish.label "Trykk Fullfør for å opprette kontoen og late att vegvisaren.">
