@@ -126,7 +126,7 @@
 
 <!ENTITY  securityTab           "Sikkerhet">
 <!ENTITY  securityTab.accesskey "S">
-<!ENTITY  securityHeader        "Sikkerhetsinformasjon for denne siden">
+<!ENTITY  securityHeader        "Sikkerhetsinfo">
 <!ENTITY  securityView.certView "Vis sertifikat">
 <!ENTITY  securityView.accesskey "V">
 <!ENTITY  securityView.unknown   "Ukjent">
