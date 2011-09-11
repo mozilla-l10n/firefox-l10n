@@ -59,4 +59,4 @@
      channel.description.end create one sentence, with the current channel label inserted in between.
      example: You are currently on the _Stable_ update channel. -->
 <!ENTITY channel.description.start "Nyní používáte aktualizační kanál ">
-<!ENTITY channel.description.end " .">
+<!ENTITY channel.description.end ".">
