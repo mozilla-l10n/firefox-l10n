@@ -34,10 +34,14 @@
    - the terms of any one of the MPL, the GPL or the LGPL.
    -
    - ***** END LICENSE BLOCK ***** -->
+
 <!-- These strings are for use specifically in the editor's image and form image dialogs. -->
+
 <!-- Window title -->
 <!ENTITY windowTitle.label "Vlastnosti obrázku">
+
 <!ENTITY pixelsPopup.value "bodů">
+
 <!-- These are in the Location tab panel -->
 <!ENTITY locationEditField.label "Adresa obrázku:">
 <!ENTITY locationEditField.accessKey "d">
@@ -50,7 +54,9 @@
 <!ENTITY altTextEditField.tooltip "Vytvořte popis zobrazující se v místě obrázku">
 <!ENTITY noAltText.label "Nepoužít alternativní text">
 <!ENTITY noAltText.accessKey "N">
+
 <!ENTITY previewBox.label "Náhled obrázku">
+
 <!-- These controls are in the Dimensions tab panel -->
 <!-- actualSize.label should be same as actualSizeRadio.label + ":" -->
 <!ENTITY actualSize.label "Současná velikost:">
@@ -67,12 +73,14 @@
 <!ENTITY constrainCheckbox.label "Zachovat">
 <!ENTITY constrainCheckbox.accessKey "Z">
 <!ENTITY constrainCheckbox.tooltip "Zachová poměr stran">
+
 <!-- These controls are in the Image Map box of the expanded area -->
 <!ENTITY imagemapBox.label "Obrazová mapa">
 <!ENTITY removeImageMapButton.label "Odebrat">
 <!ENTITY removeImageMapButton.accessKey "O">
 <!ENTITY editImageMapButton.label "Upravit…">
 <!ENTITY editImageMapButton.tooltip "Vytvoří obrazovou mapu pro tento obrázek">
+
 <!-- These are the options for image alignment -->
 <!ENTITY alignment.label "Zarovnání textu kolem obrázku">
 <!ENTITY bottomPopup.value "Naspod">
@@ -80,6 +88,7 @@
 <!ENTITY centerPopup.value "Na střed">
 <!ENTITY wrapRightPopup.value "Zalomení vpravo">
 <!ENTITY wrapLeftPopup.value "Zalomení vlevo">
+
 <!-- These controls are in the Spacing Box -->
 <!ENTITY spacingBox.label "Odstup">
 <!ENTITY leftRightEditField.label "Levý a pravý:">
@@ -88,9 +97,14 @@
 <!ENTITY topBottomEditField.accessKey "H">
 <!ENTITY borderEditField.label "Plný okraj:">
 <!ENTITY borderEditField.accessKey "l">
+
 <!-- These controls are in the Link Box -->
 <!ENTITY showImageLinkBorder.label "Zobrazit okraje okolo obrázku">
 <!ENTITY showImageLinkBorder.accessKey "o">
+<!ENTITY LinkAdvancedEditButton.label "Rozšířené úpravy odkazu…">
+<!ENTITY LinkAdvancedEditButton.accessKey "L">
+<!ENTITY LinkAdvancedEditButton.tooltip "Umožní přidat nebo upravit HTML atributy, styly a JavaScript">
+
 <!-- These tabs are currently used in the image input dialog -->
 <!ENTITY imageInputTab.label "Formulář">
 <!ENTITY imageLocationTab.label "Adresa">
