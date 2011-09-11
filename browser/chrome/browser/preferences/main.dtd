@@ -13,8 +13,8 @@
 <!ENTITY useCurrentPage.label "Použít aktuální stránku">
 <!ENTITY useCurrentPage.accesskey "a">
 <!ENTITY useMultiple.label "Použít aktuální stránky">
-<!ENTITY useBookmark.label "Použít záložku">
-<!ENTITY useBookmark.accesskey "P">
+<!ENTITY chooseBookmark.label "Použít záložku…">
+<!ENTITY chooseBookmark.accesskey "P">
 <!ENTITY restoreDefault.label "Obnovit výchozí">
 <!ENTITY restoreDefault.accesskey "O">
 
