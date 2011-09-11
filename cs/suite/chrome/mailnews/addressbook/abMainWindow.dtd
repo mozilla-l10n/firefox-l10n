@@ -126,6 +126,9 @@
 <!ENTITY throbber.tooltip "Přejde na domovskou stránku aplikace &vendorShortName;">
 <!ENTITY advancedButton.tooltip "Rozšířené hledání adres">
 
+<!-- Dir Tree header -->
+<!ENTITY dirTreeHeader.label "Kontakty"> 
+
 <!-- Status Bar -->
 <!ENTITY statusText.label "">
 
