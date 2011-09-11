@@ -45,8 +45,8 @@
 <!ENTITY useCurrentPage.label      "Šiuo metu atvertas tinklalapis">
 <!ENTITY useCurrentPage.accesskey  "Š">
 <!ENTITY useMultiple.label         "Šiuo metu atverti tinklalapiai">
-<!ENTITY useBookmark.label         "Tinklalapis iš adresyno">
-<!ENTITY useBookmark.accesskey     "a">
+<!ENTITY chooseBookmark.label      "Tinklalapis iš adresyno…">
+<!ENTITY chooseBookmark.accesskey  "a">
 <!ENTITY restoreDefault.label      "Atstatyti numatytąjį">
 <!ENTITY restoreDefault.accesskey  "n">
 
