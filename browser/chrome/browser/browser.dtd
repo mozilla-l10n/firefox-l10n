@@ -1,5 +1,5 @@
 <!-- LOCALIZATION NOTE : FILE This file contains the browser main menu items -->
-<!-- LOCALIZATION NOTE : FILE Do not translate commandkeys -->
+<!-- LOCALIZATION NOTE : FILE Do not translate commandkeys --> 
 
 <!-- LOCALIZATION NOTE (mainWindow.title): DONT_TRANSLATE -->
 <!ENTITY mainWindow.title "&brandFullName;">
@@ -128,7 +128,7 @@ can reach it easily. -->
 <!ENTITY throbberItem.title           "Fremdriftsindikator">
 <!ENTITY bookmarksItem.title          "Bokmerker">
 
-<!-- Toolbar items -->
+<!-- Toolbar items --> 
 <!ENTITY appMenuButton.label          "Meny">
 <!ENTITY appMenuButton.tooltip        "Åpne &brandShortName;-menyen">
 <!ENTITY homeButton.label             "Startside">
@@ -162,7 +162,7 @@ can reach it easily. -->
 <!ENTITY historySidebarCmd.commandKey   "h">
 
 <!ENTITY toolsMenu.label              "Verktøy">
-<!ENTITY toolsMenu.accesskey          "e">
+<!ENTITY toolsMenu.accesskey          "e"> 
 
 <!ENTITY keywordfield.label           "Lag nøkkelord for dette søket …">
 <!ENTITY keywordfield.accesskey       "n">
@@ -214,39 +214,39 @@ can reach it easily. -->
 <!ENTITY getMoreDevtoolsCmd.label        "Hent flere verktøy">
 <!ENTITY getMoreDevtoolsCmd.accesskey    "H">
 
-<!ENTITY fileMenu.label         "Fil">
+<!ENTITY fileMenu.label         "Fil"> 
 <!ENTITY fileMenu.accesskey       "F">
 <!ENTITY newNavigatorCmd.label        "Nytt vindu">
 <!ENTITY newNavigatorCmd.key        "N">
 <!ENTITY newNavigatorCmd.accesskey      "N">
 
-<!ENTITY editMenu.label         "Rediger">
-<!ENTITY editMenu.accesskey       "R">
-<!ENTITY undoCmd.label            "Angre">
-<!ENTITY undoCmd.key            "Z">
-<!ENTITY undoCmd.accesskey          "A">
-<!ENTITY redoCmd.label            "Gjenta">
-<!ENTITY redoCmd.key            "Y">
-<!ENTITY redoCmd.accesskey          "G">
-<!ENTITY cutCmd.label           "Klipp ut">
-<!ENTITY cutCmd.key             "X">
-<!ENTITY cutCmd.accesskey         "u">
-<!ENTITY copyCmd.label            "Kopier">
-<!ENTITY copyCmd.key            "C">
-<!ENTITY copyCmd.accesskey          "K">
-<!ENTITY pasteCmd.label           "Lim inn">
-<!ENTITY pasteCmd.key           "V">
-<!ENTITY pasteCmd.accesskey         "L">
-<!ENTITY deleteCmd.label          "Slett">
-<!ENTITY deleteCmd.key            "D">
-<!ENTITY deleteCmd.accesskey        "t">
-<!ENTITY selectAllCmd.label         "Merk alt">
-<!ENTITY selectAllCmd.key         "A">
-<!ENTITY selectAllCmd.accesskey       "M">
+<!ENTITY editMenu.label         "Rediger"> 
+<!ENTITY editMenu.accesskey       "R"> 
+<!ENTITY undoCmd.label            "Angre">  
+<!ENTITY undoCmd.key            "Z">  
+<!ENTITY undoCmd.accesskey          "A"> 
+<!ENTITY redoCmd.label            "Gjenta">  
+<!ENTITY redoCmd.key            "Y">  
+<!ENTITY redoCmd.accesskey          "G"> 
+<!ENTITY cutCmd.label           "Klipp ut">  
+<!ENTITY cutCmd.key             "X">  
+<!ENTITY cutCmd.accesskey         "u"> 
+<!ENTITY copyCmd.label            "Kopier">  
+<!ENTITY copyCmd.key            "C">  
+<!ENTITY copyCmd.accesskey          "K"> 
+<!ENTITY pasteCmd.label           "Lim inn">  
+<!ENTITY pasteCmd.key           "V">  
+<!ENTITY pasteCmd.accesskey         "L"> 
+<!ENTITY deleteCmd.label          "Slett">  
+<!ENTITY deleteCmd.key            "D">  
+<!ENTITY deleteCmd.accesskey        "t"> 
+<!ENTITY selectAllCmd.label         "Merk alt">  
+<!ENTITY selectAllCmd.key         "A">  
+<!ENTITY selectAllCmd.accesskey       "M"> 
 <!ENTITY preferencesCmd2.label       "Innstillinger">
 <!ENTITY preferencesCmd2.accesskey     "I">
 <!ENTITY preferencesCmdUnix.label       "Innstillinger">
-<!ENTITY preferencesCmdUnix.accesskey     "I">
+<!ENTITY preferencesCmdUnix.accesskey     "I"> 
 
 <!ENTITY clearRecentHistory.label               "Slett nylig historikk …">
 <!ENTITY clearRecentHistory.accesskey           "e">
@@ -258,15 +258,15 @@ can reach it easily. -->
 <!ENTITY privateBrowsingCmd.stop.accesskey      "A">
 <!ENTITY privateBrowsingCmd.commandkey          "P">
 
-<!ENTITY viewMenu.label         "Vis">
-<!ENTITY viewMenu.accesskey       "V">
+<!ENTITY viewMenu.label         "Vis"> 
+<!ENTITY viewMenu.accesskey       "V"> 
 <!ENTITY viewTabGroups.label            "Fanegrupper">
 <!ENTITY viewTabGroups.accesskey        "F">
-<!ENTITY viewToolbarsMenu.label       "Verktøylinjer">
-<!ENTITY viewToolbarsMenu.accesskey     "V">
+<!ENTITY viewToolbarsMenu.label       "Verktøylinjer"> 
+<!ENTITY viewToolbarsMenu.accesskey     "V"> 
 <!ENTITY viewSidebarMenu.label "Sidestolpe">
 <!ENTITY viewSidebarMenu.accesskey "d">
-<!ENTITY viewCustomizeToolbar.label       "Tilpass …">
+<!ENTITY viewCustomizeToolbar.label       "Tilpass …"> 
 <!ENTITY viewCustomizeToolbar.accesskey     "T">
 <!ENTITY viewTabsOnTop.label            "Faner øverst">
 <!ENTITY viewTabsOnTop.accesskey        "F">
@@ -346,9 +346,9 @@ can reach it easily. -->
 <!ENTITY viewPageSourceCmd.accesskey  "k">
 <!ENTITY viewFrameSourceCmd.label     "Vis kildekode for rammen">
 <!ENTITY viewFrameSourceCmd.accesskey "k">
-<!ENTITY viewPageInfoCmd.label        "Vis informasjon om siden">
+<!ENTITY viewPageInfoCmd.label        "Vis sideinfo">
 <!ENTITY viewPageInfoCmd.accesskey    "V">
-<!ENTITY viewFrameInfoCmd.label       "Vis informasjon om rammen">
+<!ENTITY viewFrameInfoCmd.label       "Vis rammeinfo">
 <!ENTITY viewFrameInfoCmd.accesskey   "V">
 <!ENTITY reloadImageCmd.label         "Oppdater bilde">
 <!ENTITY reloadImageCmd.accesskey     "l">
@@ -381,7 +381,7 @@ can reach it easily. -->
 <!ENTITY printFrameCmd.accesskey      "k">
 <!ENTITY saveLinkCmd.label            "Lagre lenke som …">
 <!ENTITY saveLinkCmd.accesskey        "a">
-<!ENTITY sendLinkCmd.label            "Send lenkeadresse …">
+<!ENTITY sendLinkCmd.label            "Send lenkeadresse …"> 
 <!ENTITY sendLinkCmd.accesskey        "S">
 <!ENTITY saveImageCmd.label           "Lagre bilde som …">
 <!ENTITY saveImageCmd.accesskey       "d">
@@ -400,7 +400,7 @@ can reach it easily. -->
 <!ENTITY copyImageCmd.label           "Kopier bildeadresse">
 <!ENTITY copyImageCmd.accesskey       "o">
 <!ENTITY copyImageContentsCmd.label   "Kopier bilde">
-<!ENTITY copyImageContentsCmd.accesskey  "l">
+<!ENTITY copyImageContentsCmd.accesskey  "l"> 
 <!ENTITY copyVideoURLCmd.label        "Kopier videoadresse">
 <!ENTITY copyVideoURLCmd.accesskey    "o">
 <!ENTITY copyAudioURLCmd.label        "Kopier lydadresse">
@@ -468,17 +468,17 @@ you can use these alternative items. Otherwise, their values should be empty.  -
 <!ENTITY zoomInButton.tooltip           "Større skrift">
 <!ENTITY zoomControls.label             "Skalering">
 
-<!ENTITY quitApplicationCmdWin.label       "Avslutt">
+<!ENTITY quitApplicationCmdWin.label       "Avslutt"> 
 <!ENTITY quitApplicationCmdWin.accesskey   "t">
 <!ENTITY goBackCmd.commandKey "[">
 <!ENTITY goForwardCmd.commandKey "]">
-<!ENTITY quitApplicationCmd.label       "Avslutt">
+<!ENTITY quitApplicationCmd.label       "Avslutt"> 
 <!ENTITY quitApplicationCmd.accesskey   "t">
 <!ENTITY quitApplicationCmdMac.label    "Avslutt &brandShortName;">
 <!ENTITY quitApplicationCmdMac.key      "Q">
 
-<!ENTITY closeCmd.label                 "Lukk">
-<!ENTITY closeCmd.key                   "W">
+<!ENTITY closeCmd.label                 "Lukk">  
+<!ENTITY closeCmd.key                   "W">  
 <!ENTITY closeCmd.accesskey             "L">
 
 <!ENTITY pageStyleMenu.label "Sidestil">
