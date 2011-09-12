@@ -64,7 +64,7 @@
 <!ENTITY return.label                      "Не повертати більш ніж">
 <!ENTITY return.accesskey                  "в">
 <!ENTITY results.label                     "результатів">
-<!ENTITY offlineText.label                 "Ви можете завантажити копію цього каталога для використання в автономному режимі роботи.">
+<!ENTITY offlineText.label                 "Ви можете завантажити копію цього каталогу для використання в автономному режимі.">
 <!ENTITY saslMechanism.label               "Спосіб входу: ">
 <!ENTITY saslMechanism.accesskey           "с">
 <!ENTITY saslOff.label                     "Простий">
