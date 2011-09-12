@@ -7,8 +7,8 @@
 <!ENTITY newMenu.label            "Створити">
 <!ENTITY newMenu.accesskey          "т">
 
-<!ENTITY editMenu.label          "Правка">
-<!ENTITY editMenu.accesskey        "п">
+<!ENTITY editMenu.label          "Редагування">
+<!ENTITY editMenu.accesskey        "Р">
 <!ENTITY undoCmd.label            "Скасувати">
 <!ENTITY undoCmd.key            "Z">
 <!ENTITY undoCmd.accesskey          "с">

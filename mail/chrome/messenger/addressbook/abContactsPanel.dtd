@@ -4,7 +4,7 @@
 <!ENTITY searchInput.accesskey              "о">
 <!ENTITY SearchNameOrEmail.label            "Ім’я або адреса електронної пошти">
 
-<!ENTITY deleteAddrBookCard.label           "Знищити">
+<!ENTITY deleteAddrBookCard.label           "Видалити">
 <!ENTITY addrBookCardProperties.label       "Властивості">
 <!ENTITY addtoToFieldMenu.label             "Кому">
 <!ENTITY addtoCcFieldMenu.label             "Копія">
@@ -14,5 +14,5 @@
 <!ENTITY toButton.accesskey                 "м">
 <!ENTITY ccButton.label                     "Копія:">
 <!ENTITY ccButton.accesskey                 "і">
-<!ENTITY bccButton.label                    "Потайна копія:">
+<!ENTITY bccButton.label                    "Прихована копія:">
 <!ENTITY bccButton.accesskey                "П">

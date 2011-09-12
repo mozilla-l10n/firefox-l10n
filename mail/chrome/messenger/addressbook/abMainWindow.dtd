@@ -3,14 +3,14 @@
 <!-- File Menu -->
 <!ENTITY fileMenu.label                                 "Файл">
 <!ENTITY fileMenu.accesskey                             "Ф">
-<!ENTITY newMenu.label                                  "Створити">
+<!ENTITY newMenu.label                                  "Новий">
 <!ENTITY newMenu.accesskey                              "С">
 <!ENTITY newContact.label                               "Запис в адресній книзі…">
 <!ENTITY newContact.accesskey                           "п">
 <!ENTITY newContact.key                                 "N">
 <!ENTITY newListCmd.label                               "Список розсилки…">
 <!ENTITY newListCmd.accesskey                           "С">
-<!ENTITY newAddressBookCmd.label                        "Адресну книгу…">
+<!ENTITY newAddressBookCmd.label                        "Адресна книга…">
 <!ENTITY newAddressBookCmd.accesskey                    "А">
 <!ENTITY newLDAPDirectoryCmd.label                      "Каталог LDAP…">
 <!ENTITY newLDAPDirectoryCmd.accesskey                  "л">
@@ -36,9 +36,9 @@
 <!ENTITY printAddressBook.accesskey                     "е">
 
 <!-- Edit Menu -->
-<!ENTITY editMenu.label                                 "Правка">
-<!ENTITY editMenu.accesskey                             "П">
-<!ENTITY undoCmd.label                                  "Повернути">
+<!ENTITY editMenu.label                                 "Редагування">
+<!ENTITY editMenu.accesskey                             "Р">
+<!ENTITY undoCmd.label                                  "Скасувати">
 <!ENTITY undoCmd.key                                    "Z">
 <!ENTITY undoCmd.accesskey                              "н">
 <!ENTITY redoCmd.label                                  "Повторити">
@@ -58,9 +58,9 @@
 <!ENTITY deleteAbCmd.label                              "Вилучити адресну книгу">
 <!ENTITY deleteContactCmd.label                         "Вилучити картку">
 <!ENTITY deleteContactsCmd.label                        "Вилучити кілька карток">
-<!ENTITY deleteListCmd.label                            "Знищити список">
-<!ENTITY deleteListsCmd.label                           "Знищити списки">
-<!ENTITY deleteItemsCmd.label                           "Знищити елементи">
+<!ENTITY deleteListCmd.label                            "Видалити список">
+<!ENTITY deleteListsCmd.label                           "Видалити списки">
+<!ENTITY deleteItemsCmd.label                           "Видалитичити елементи">
 <!ENTITY selectAllCmd.label                             "Виділити все">
 <!ENTITY selectAllCmd.key                               "A">
 <!ENTITY searchAddressesCmd.key                         "f">
@@ -78,7 +78,7 @@
 <!ENTITY viewMenu.label                                 "Вигляд">
 <!ENTITY viewMenu.accesskey                             "В">
 <!ENTITY viewToolbarsMenu.label                         "Панелі інструментів">
-<!ENTITY viewToolbarsMenu.accesskey                     "П"> 
+<!ENTITY viewToolbarsMenu.accesskey                     "П">
 <!ENTITY showAbToolbarCmd.label                         "Панель адресної книги">
 <!ENTITY showAbToolbarCmd.accesskey                     "а">
 <!ENTITY showTaskbarCmd.label                           "Рядок стану">
@@ -88,12 +88,12 @@
 <!ENTITY showContactPane.label                          "Зведення за карткою">
 <!ENTITY showContactPane.accesskey                      "З">
 <!ENTITY menu_ShowNameAs.label                          "Показувати ім’я як">
-<!ENTITY menu_ShowNameAs.accesskey                      "П"> 
-<!ENTITY firstLastCmd.label                             "Ім’я, Прізвище">
-<!ENTITY firstLastCmd.accesskey                         "І"> 
-<!ENTITY lastFirstCmd.label                             "Прізвище, Ім’я">
+<!ENTITY menu_ShowNameAs.accesskey                      "П">
+<!ENTITY firstLastCmd.label                             "Ім’я, прізвище">
+<!ENTITY firstLastCmd.accesskey                         "І">
+<!ENTITY lastFirstCmd.label                             "Прізвище, ім’я">
 <!ENTITY lastFirstCmd.accesskey                         "П">
-<!ENTITY displayNameCmd.label                           "Ім’я, що відображається">
+<!ENTITY displayNameCmd.label                           "Відображуване ім’я">
 <!ENTITY displayNameCmd.accesskey                       "і">
 <!ENTITY sortMenu.label                                 "Сортування">
 <!ENTITY sortMenu.accesskey                             "р">
@@ -115,7 +115,7 @@
 <!ENTITY preferencesCmdUnix.label                       "Налаштування">
 <!ENTITY preferencesCmdUnix.accesskey                   "Н">
 
-<!-- Address Book Toolbar and Context Menus -->  
+<!-- Address Book Toolbar and Context Menus -->
 <!ENTITY newContactButton.label                         "Створити картку">
 <!ENTITY newContactButton.accesskey                     "С">
 <!ENTITY newlistButton.label                            "Створити список">
@@ -131,7 +131,7 @@
 
 <!-- Address Book Toolbar Tooltips -->
 <!ENTITY newContactButton.tooltip                       "Створити нову картку в адресній книзі">
-<!ENTITY newlistButton.tooltip                          "Створенити новий список розсилки">
+<!ENTITY newlistButton.tooltip                          "Створити новий список розсилки">
 <!ENTITY editButton2.tooltip                            "Змінити властивості виділеного елемента">
 <!ENTITY newmsgButton.tooltip                           "Написати листа">
 <!ENTITY newIM.tooltip                                  "Відіслати звісточку чи почати бесіду">
@@ -178,7 +178,7 @@
 <!ENTITY sortAscending.accesskey                        "з">
 <!ENTITY sortDescending.label                           "За спаданням">
 <!ENTITY sortDescending.accesskey                       "м">
-<!ENTITY _PhoneticName.label                            "Вимовляється як">
+<!ENTITY _PhoneticName.label                            "Фонетичне ім’я">
 <!ENTITY _PhoneticName.accesskey                        "в">
 
 <!-- Card Summary Pane -->
@@ -203,4 +203,4 @@
 <!ENTITY minimizeWindow.label "Згорнути вікно">
 <!ENTITY minimizeWindow.key "m">
 <!ENTITY bringAllToFront.label "Помістити все на передній план">
-<!ENTITY zoomWindow.label "Розвернути вікно">
+<!ENTITY zoomWindow.label "Розгонути вікно">
