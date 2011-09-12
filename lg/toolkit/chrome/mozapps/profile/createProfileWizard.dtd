@@ -1,5 +1,5 @@
 <!ENTITY newprofile.title             "Kola ebikukwatako ne pulogulamu ebikolako">
-<!ENTITY window.size                  "obugazze: 45em; obuwavu: 32em;">
+<!ENTITY window.size                  "width: 45em; height: 32em;">
 <!-- First wizard page -->
 
 <!ENTITY profileCreationExplanation_1.text  "&brandShortName; etereka ebikwata ku ntereza yo, ebyokweroboza, obulamba na mabaluwa mu pulofailo.">

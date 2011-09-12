@@ -1,7 +1,7 @@
 <!-- extracted from institems.xul -->
 
 <!ENTITY dialog.title            "Okuteekamu Pulogulaamu ya kompyuta">
-<!ENTITY dialog.style            "obugazi: 45em">
+<!ENTITY dialog.style            "width: 45em">
 <!ENTITY warningPrimary.label    "Teekamu ebigattibwako ebiva mubawandisi bewesiga.">
 <!ENTITY warningSecondary.label  "Pulogulamu eziddukanya kompyuuta enkyamu zisobola okwonona kompyuutayo oba okuyingirira ebyama byo.">
 
