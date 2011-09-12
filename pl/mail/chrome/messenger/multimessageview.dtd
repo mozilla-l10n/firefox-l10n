@@ -1,4 +1,4 @@
 <!ENTITY window.title           "Podsumowanie zaznaczonych wiadomości">
 <!ENTITY selectedmessages.label "Zaznaczone wiadomości">
-<!ENTITY archive.label          "Archiwizuj">
-<!ENTITY delete.label           "Usuń">
+<!ENTITY archiveButton.label    "Archiwizuj">
+<!ENTITY deleteButton.label     "Usuń">
