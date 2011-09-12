@@ -13,8 +13,8 @@
 <!ENTITY useCurrentPage.label      "Page courante">
 <!ENTITY useCurrentPage.accesskey  "U">
 <!ENTITY useMultiple.label         "Pages courantes">
-<!ENTITY useBookmark.label         "Marque-page…">
-<!ENTITY useBookmark.accesskey     "m">
+<!ENTITY chooseBookmark.label      "Marque-page…">
+<!ENTITY chooseBookmark.accesskey  "m">
 <!ENTITY restoreDefault.label      "Restaurer la configuration par défaut">
 <!ENTITY restoreDefault.accesskey  "R">
 
