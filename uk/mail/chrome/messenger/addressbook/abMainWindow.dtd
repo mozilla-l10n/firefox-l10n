@@ -78,7 +78,7 @@
 <!ENTITY viewMenu.label                                 "Вигляд">
 <!ENTITY viewMenu.accesskey                             "В">
 <!ENTITY viewToolbarsMenu.label                         "Панелі інструментів">
-<!ENTITY viewToolbarsMenu.accesskey                     "П">
+<!ENTITY viewToolbarsMenu.accesskey                     "П"> 
 <!ENTITY showAbToolbarCmd.label                         "Панель адресної книги">
 <!ENTITY showAbToolbarCmd.accesskey                     "а">
 <!ENTITY showTaskbarCmd.label                           "Рядок стану">
@@ -88,9 +88,9 @@
 <!ENTITY showContactPane.label                          "Зведення за карткою">
 <!ENTITY showContactPane.accesskey                      "З">
 <!ENTITY menu_ShowNameAs.label                          "Показувати ім’я як">
-<!ENTITY menu_ShowNameAs.accesskey                      "П">
+<!ENTITY menu_ShowNameAs.accesskey                      "П"> 
 <!ENTITY firstLastCmd.label                             "Ім’я, прізвище">
-<!ENTITY firstLastCmd.accesskey                         "І">
+<!ENTITY firstLastCmd.accesskey                         "І"> 
 <!ENTITY lastFirstCmd.label                             "Прізвище, ім’я">
 <!ENTITY lastFirstCmd.accesskey                         "П">
 <!ENTITY displayNameCmd.label                           "Відображуване ім’я">
@@ -115,7 +115,7 @@
 <!ENTITY preferencesCmdUnix.label                       "Налаштування">
 <!ENTITY preferencesCmdUnix.accesskey                   "Н">
 
-<!-- Address Book Toolbar and Context Menus -->
+<!-- Address Book Toolbar and Context Menus -->  
 <!ENTITY newContactButton.label                         "Створити картку">
 <!ENTITY newContactButton.accesskey                     "С">
 <!ENTITY newlistButton.label                            "Створити список">
