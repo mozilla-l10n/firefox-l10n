@@ -13,8 +13,8 @@
 <!ENTITY useCurrentPage.label      "Använd aktuell sida">
 <!ENTITY useCurrentPage.accesskey  "u">
 <!ENTITY useMultiple.label         "Använd aktuella sidor">
-<!ENTITY useBookmark.label         "Använd bokmärke">
-<!ENTITY useBookmark.accesskey     "ä">
+<!ENTITY chooseBookmark.label      "Använd bokmärke…">
+<!ENTITY chooseBookmark.accesskey  "ä">
 <!ENTITY restoreDefault.label      "Återställ standard">
 <!ENTITY restoreDefault.accesskey  "Å">
 
