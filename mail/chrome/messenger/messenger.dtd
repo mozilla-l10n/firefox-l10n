@@ -224,6 +224,8 @@
 <!ENTITY bodySanitized.accesskey "с">
 <!ENTITY bodyAsPlaintext.label "У вигляді звичайного тексту">
 <!ENTITY bodyAsPlaintext.accesskey "т">
+<!ENTITY bodyAllParts.label "All Body Parts">
+<!ENTITY bodyAllParts.accesskey "A">
 
 <!ENTITY bodyMenuFeed.label "Feed Message Body As">
 <!ENTITY bodyMenuFeed.accesskey "B">
