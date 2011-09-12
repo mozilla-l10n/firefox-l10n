@@ -17,29 +17,29 @@ versão.">
 
 <!ENTITY found.wizard.title "Encontrados extras compatíveis">
 <!ENTITY found.top.label "Escolha os extras que deseja instalar:">
-<!ENTITY found.disabledXPinstall.label "Estas actualizações não podem ser instaladas agora porque a instalação de software está desactivada. Pode mudar esta configuração abaixo.">
+<!ENTITY found.disabledXPinstall.label "Estas atualizações não podem ser instaladas agora porque a instalação de software está desativada. Pode mudar esta configuração abaixo.">
 <!ENTITY found.enableXPInstall.label "Permitir que sítios web instalem software">
 <!ENTITY found.enableXPInstall.accesskey "P">
 
 <!ENTITY installing.wizard.title "A Instalar extras compatíveis">
-<!ENTITY installing.top.label "A transferir e instalar actualizações para os seus extras...">
+<!ENTITY installing.top.label "A transferir e instalar atualizações para os seus extras...">
 
 <!ENTITY noupdates.wizard.title "Não foram encontrados extras compatíveis">
-<!ENTITY noupdates.intro.desc "&brandShortName; não encontrou actualizações para os seus 
+<!ENTITY noupdates.intro.desc "&brandShortName; não encontrou atualizações para os seus 
 extras incompatíveis.">
-<!ENTITY noupdates.error.desc "Alguns problemas foram encontrados durante a procura de actualizações.">
+<!ENTITY noupdates.error.desc "Alguns problemas foram encontrados durante a procura de atualizações.">
 <!ENTITY noupdates.checkEnabled.desc "&brandShortName; irá verificar regularmente e informá-lo-á 
 quando houver actualizações para estes extras.">
 
 <!ENTITY finished.wizard.title "Extras Compatíveis Instalados">
 <!ENTITY finished.top.label "&brandShortName; instalou actualizações dos seus extras.">
 <!ENTITY finished.checkDisabled.desc "&brandShortName; pode verificar periodicamente e informá-lo quando são 
-são encontradas actualizações para os seus extras.">
+são encontradas atualizações para os seus extras.">
 <!ENTITY finished.checkEnabled.desc "&brandShortName; irá verificar regularmente e informá-lo-á quando forem 
-encontradas actualizações para os seus extras.">
+encontradas atualizações para os seus extras.">
 
-<!ENTITY adminDisabled.wizard.title "Incapaz de verificar a existência de actualizações">
-<!ENTITY adminDisabled.warning.label "Não é possível verificar a existência de actualizações para os extras 
+<!ENTITY adminDisabled.wizard.title "Incapaz de verificar a existência de atualizações">
+<!ENTITY adminDisabled.warning.label "Não é possível verificar a existência de atualizações para os extras 
 incompatíveis porque foi desligada a instalação de software para o 
 &brandShortName;. Por favor contacte o seu administrador de sistema.">
 
@@ -48,11 +48,11 @@ incompatíveis porque foi desligada a instalação de software para o
 versão do &brandShortName;.">
 <!ENTITY versioninfo.waiting "Isto pode demorar alguns minutos...">
 
-<!ENTITY installerrors.wizard.title "Problemas na instalação de actualizações">
-<!ENTITY installerrors.intro.label "&brandShortName; encontrou problemas ao actualizar alguns dos seus extras.">
+<!ENTITY installerrors.wizard.title "Problemas na instalação de atualizações">
+<!ENTITY installerrors.intro.label "&brandShortName; encontrou problemas ao atualizar alguns dos seus extras.">
 <!-- general strings used by several of the finish pages -->
 
 <!ENTITY clickFinish.label "Pressione concluir para iniciar o  &brandShortName;.">
 <!ENTITY clickFinish.labelMac "Pressione concluído para iniciar o &brandShortName;.">
-<!ENTITY enableChecking.label "Permitir ao &brandShortName; verificar se existem actualizações.">
+<!ENTITY enableChecking.label "Permitir ao &brandShortName; verificar se existem atualizações.">
 
