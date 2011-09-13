@@ -239,6 +239,7 @@
   
  -->
 <!ENTITY searchFocus.commandkey       "k">
+<!ENTITY searchFocus.commandkey2      "e">
 <!ENTITY searchFocusUnix.commandkey   "j">
 
 <!ENTITY openLinkCmd.label            "අළුත් කවුළුවක විවෘත කරන්න">
@@ -508,3 +509,5 @@ Entities below were automatically added by compare-locales,
 
 <!ENTITY webDeveloperMenu.label       "වෙබ් සංවර්ධකයා">
 <!ENTITY webDeveloperMenu.accesskey   "W">
+<!ENTITY backForwardButtonMenu.tooltip "Right-click or pull down to show history">
+<!ENTITY backForwardButtonMenuMac.tooltip "Pull down to show history">

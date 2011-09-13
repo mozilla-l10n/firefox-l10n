@@ -32,3 +32,4 @@ Entities below were automatically added by compare-locales,
 <!ENTITY aboutSupport.showMac.label "සෙවීම්තීරය තුළ පෙන්වන්න">
 <!ENTITY aboutSupport.pageTitle "දොස් සෙවීම් තොරතුරු">
 <!ENTITY aboutSupport.modifiedPrefsTitle "වෙනස්කළ මනාපයන්">
+<!ENTITY aboutSupport.appBasicsCrashIDs "බිඳවැටුම් වාර්තා">

@@ -115,9 +115,3 @@
 <!ENTITY webConsoleCmd.accesskey      "W">
 <!ENTITY webConsoleCmd.commandkey     "k">
 
-<!-- LOCALIZATION NOTE (textbox.placeholder1): This is some placeholder text
-  -  that appears when the Scratchpad's text area is empty and unfocused.
-  -  It should be a one-line JavaScript comment, i.e., preceded by '//'
-  -->
-<!ENTITY textbox.placeholder1         "// JavaScript ය ඇතුළත් කරන්න, එය තෝරන්න, එය මත දකඅණත්-ක්ලික් කර Run තෝරන්න, පරීක්ෂා කරන්න හෝ පෙන්වන්න තෝරන්න.">
-
