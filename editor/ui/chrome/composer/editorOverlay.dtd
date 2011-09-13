@@ -73,9 +73,6 @@
 <!ENTITY printCmd.label "මුද්‍රණය...">
 <!ENTITY printCmd.accesskey "P">
 <!ENTITY printCmd.key "P">
-<!ENTITY closeCmd.label "වසන්න">
-<!ENTITY closeCmd.accesskey "C">
-<!ENTITY closeCmd.key "W">
 
 <!-- Edit menu items -->
 <!ENTITY editMenu.label "සැකසුම්">
