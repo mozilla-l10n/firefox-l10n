@@ -59,6 +59,7 @@
 <!ENTITY editMessageButton.label "සැකසීම…">
 <!ENTITY hdrArchiveButton.label "සංරක්ෂණය">
 <!ENTITY hdrArchiveButton.tooltip "මෙම ලිපි සංරක්ෂණය කරන්න">
+<!ENTITY hdrSmartReplyButton.label "smart reply">
 <!ENTITY hdrReplyButton.label "පිළිතුරු">
 <!ENTITY hdrReplyButton.tooltip "මෙම ලිපියට පිළිතුරු යවන්න">
 <!ENTITY hdrReplyAllButton.label "සැමට පිළිතුරු">

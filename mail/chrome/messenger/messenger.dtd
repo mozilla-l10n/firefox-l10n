@@ -216,6 +216,8 @@
 <!ENTITY bodySanitized.accesskey "S">
 <!ENTITY bodyAsPlaintext.label "සාමාන්‍ය පාඨ (Plain Text)">
 <!ENTITY bodyAsPlaintext.accesskey "P">
+<!ENTITY bodyAllParts.label "ලිපියේ බඳේ සියළු කොටස්">
+<!ENTITY bodyAllParts.accesskey "A">
 
 <!ENTITY bodyMenuFeed.label "Feed Message Body As">
 <!ENTITY bodyMenuFeed.accesskey "B">
