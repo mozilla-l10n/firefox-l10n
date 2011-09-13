@@ -44,7 +44,7 @@
 </ul>
 ">
 
-<!ENTITY netInterrupt.title "සම්බන්ධය බාදා සහිත විය">
+<!ENTITY netInterrupt.title "සම්බන්ධය බාධා සහිත විය">
 <!ENTITY netInterrupt.longDesc "&sharedLongDesc;">
 
 <!ENTITY netOffline.title "නොබැඳි ආකාරය">
@@ -82,7 +82,7 @@
 </ul>
 ">
 
-<!ENTITY proxyResolveFailure.title "ප්‍රොක්සි සේවාදායකය සොයාගත නොකැක">
+<!ENTITY proxyResolveFailure.title "ප්‍රොක්සි සේවාදායකය සොයාගත නොහැක">
 <!ENTITY proxyResolveFailure.longDesc "
 <ul>
   <li>ප්‍රොක්සි සේවාදායකයේ සැකසුම් නිවැරදි දැයි පරික්‍ෂා කරන්න.</li>
@@ -91,7 +91,7 @@
 </ul>
 ">
 
-<!ENTITY redirectLoop.title "මෙම පිටුව නිසියාකාරව ප්‍රථිමාර්‍ගගත වන්නේ නැත">
+<!ENTITY redirectLoop.title "මෙම පිටුව නිසියාකාරව ප්‍රථිමාර්ගගත වන්නේ නැත">
 <!ENTITY redirectLoop.longDesc "
 <ul>
   <li>මෙම ගැටලුව සමහර විට කුකී අක්‍රීය වීම හෝ අනුමත කිරීම ප්‍රතික්‍ෂේප කිරීම නිසා විය හැක.</li>

@@ -95,17 +95,6 @@
 <!ENTITY pasteAsQuotationCmd.accesskey "Q">
 <!ENTITY pasteAsQuotationCmd.key "o">
 <!ENTITY findCmd.label "සෙවීම සහ ප්‍රතිස්ථාපනය කිරීම...">
-<!ENTITY findCmd.accesskey "F">
-<!ENTITY findCmd.key "F">
-<!ENTITY findCmd.key2 "VK_F19">
-<!ENTITY findAgainCmd.label "නැවත සොයන්න">
-<!ENTITY findAgainCmd.accesskey "g">
-<!ENTITY findAgainCmd.key "G">
-<!ENTITY findAgainCmd.key2 "VK_F3">
-<!ENTITY findPrevCmd.label "පෙර ගැලපුම සොයන්න">
-<!ENTITY findPrevCmd.accesskey "v">
-<!ENTITY findPrevCmd.key "G">
-<!ENTITY findPrevCmd.key2 "VK_F3">
 <!ENTITY enableInlineSpellChecker.label "ලියන විටදීම අක්ෂර වින්‍යාස පරීක්ෂා කරන්න">
 <!ENTITY enableInlineSpellChecker.accesskey "S">
 <!ENTITY checkSpellingCmd2.label "අක්ෂර වින්‍යාස පරීක්ෂා කරන්න">
@@ -143,23 +132,6 @@
 <!ENTITY createLinkCmd.accesskey "k">
 <!ENTITY editLinkCmd.label "නව සකසනය තුළ සබැඳිය සකසන්න">
 <!ENTITY editLinkCmd.accesskey "i">
-<!-- (Toplevel Edit menu uses utilityOverlay) -->
-<!ENTITY undoCmd.label "අහෝසි.">
-<!ENTITY undoCmd.accesskey "U">
-<!ENTITY redoCmd.label "යළි කරන්න">       
-<!ENTITY redoCmd.accesskey "R">
-<!ENTITY cutCmd.label "කපන්න">
-<!ENTITY cutCmd.accesskey "t">
-<!ENTITY copyCmd.label "කොපි කරන්න">
-<!ENTITY copyCmd.accesskey "C">
-<!ENTITY pasteCmd.label "අලවන්න">
-<!ENTITY pasteCmd.accesskey "P">
-<!ENTITY deleteCmd.label "මකන්න">
-<!ENTITY deleteCmd.accesskey "D">
-<!ENTITY clearCmd.label "හිස් කරන්න">
-<!ENTITY clearCmd.accesskey "l">
-<!ENTITY selectAllCmd.label "සියල්ල තෝරන්න">
-<!ENTITY selectAllCmd.accesskey "A">
 
 <!-- Font Face SubMenu -->
 <!ENTITY FontFaceSelect.tooltip "අකුරු හැඩයක් තෝරන්න">
@@ -400,6 +372,9 @@
 <!ENTITY openToolbarCmd.tooltip "පෙදෙසි (local) ගොනුවක් විවෘත කිරීම">
 <!ENTITY saveToolbarCmd.tooltip "ගොනුව පෙදෙසි (local) ස්ථානයකට සුරැකීම">
 <!ENTITY publishToolbarCmd.tooltip "ගොනුව දුරස්ථ ස්ථානයකට උඩුගත කිරීම">
+<!ENTITY cutToolbarCmd.tooltip "කපන්න">
+<!ENTITY copyToolbarCmd.tooltip "පිටපත් කරන්න">
+<!ENTITY pasteToolbarCmd.tooltip "අලවන්න">
 <!ENTITY printToolbarCmd.label "මුද්‍රණය">
 <!ENTITY printToolbarCmd.tooltip "මෙම පිටුව මුද්‍රණය කිරීම">
 <!ENTITY findToolbarCmd.label "සෙයෙන්න">
