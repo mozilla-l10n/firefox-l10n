@@ -11,8 +11,8 @@
 <!ENTITY useCurrentPage.label "Usar página actual">
 <!ENTITY useCurrentPage.accesskey "C">
 <!ENTITY useMultiple.label "Usar páginas actuales">
-<!ENTITY useBookmark.label "Usar marcador">
-<!ENTITY useBookmark.accesskey "m">
+<!ENTITY chooseBookmark.label "Usar marcador…">
+<!ENTITY chooseBookmark.accesskey "m">
 <!ENTITY restoreDefault.label "Restaurar al valor por omisión">
 <!ENTITY restoreDefault.accesskey "v">
 <!ENTITY downloads.label "Descargas">
