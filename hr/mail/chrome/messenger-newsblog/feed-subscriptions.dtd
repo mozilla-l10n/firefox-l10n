@@ -1,18 +1,18 @@
 <!-- Subscription Dialog -->
-<!ENTITY feedSubscriptions.label "Feed Subscriptions">
-<!ENTITY subscriptionDesc.label "Note: Removing or changing the folder for a feed will not affect previously downloaded articles.">
-<!ENTITY feedTitle.label "Title:">
-<!ENTITY location.label  "Location:">
+<!ENTITY feedSubscriptions.label "Pretplate kanala">
+<!ENTITY subscriptionDesc.label "Napomena: uklanjanje ili promjena direktorija kanala neće utjecati na već preuzete članke.">
+<!ENTITY feedTitle.label "Naslov:">
+<!ENTITY location.label  "Lokacija:">
 
-<!ENTITY button.addFeed.label       "Add">
-<!ENTITY button.addFeed.accesskey   "A">
-<!ENTITY button.editFeed.label      "Edit">
-<!ENTITY button.editFeed.accesskey  "E">
-<!ENTITY button.removeFeed.label "Remove">
-<!ENTITY button.removeFeed.accesskey   "R">
-<!ENTITY button.importOPML.label "Import">
-<!ENTITY button.importOPML.accesskey   "I">
-<!ENTITY button.exportOPML.label "Export">
-<!ENTITY button.exportOPML.accesskey   "X">
+<!ENTITY button.addFeed.label       "Dodaj">
+<!ENTITY button.addFeed.accesskey   "a">
+<!ENTITY button.editFeed.label      "Uredi">
+<!ENTITY button.editFeed.accesskey  "e">
+<!ENTITY button.removeFeed.label "Ukloni">
+<!ENTITY button.removeFeed.accesskey   "U">
+<!ENTITY button.importOPML.label "Uvezi">
+<!ENTITY button.importOPML.accesskey   "i">
+<!ENTITY button.exportOPML.label "Izvezi">
+<!ENTITY button.exportOPML.accesskey   "z">
 
 <!ENTITY cmd.close.commandKey             "w">
