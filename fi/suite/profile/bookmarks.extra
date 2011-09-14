@@ -13,6 +13,6 @@
         <DT><A HREF="http://groups.google.com/">Google-ryhmät</A>
         <DT><A HREF="http://news.google.com/">Google News</A>
     </DL><p>
-    <DT><A FEEDURL="http://yle.fi/uutiset/rss/uutiset.rss" HREF="http://www.yle.fi/uutiset/">KaiRo</A>
+    <DT><A FEEDURL="http://yle.fi/uutiset/rss/uutiset.rss" HREF="http://www.yle.fi/uutiset/">Uutisotsikot</A>
 
 #unfilter emptyLines
