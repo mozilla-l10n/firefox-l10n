@@ -11,7 +11,7 @@
 <!ENTITY newtab.label          "Nov zavihek">
 <!ENTITY closetab.label        "Zapri zavihek">
 
-<!ENTITY cut.label             "Izreži">
+<!ENTITY cut.label             "O">
 <!ENTITY copy.label            "Kopiraj">
 <!ENTITY copyAll.label         "Prekopiraj vse">
 <!ENTITY copylink.label        "Kopiraj mesto povezave">
@@ -38,20 +38,20 @@
 <!ENTITY addonsLocal.label         "Vaši dodatki">
 <!ENTITY addonsUpdate.label        "Posodobitev">
 <!ENTITY addonsRepo.label          "Prenesi dodatke">
-<!ENTITY addonsRecommended.label   "Priporočeno">
+<!ENTITY addonsRecommended.label   "Priporočeno:">
 <!ENTITY addonsSearch.label        "Iskanje">
 <!ENTITY addonsSearch2.emptytext   "Iskanje po zbirki">
-<!ENTITY addonsSearch.recommended  "Priporočeno">
+<!ENTITY addonsSearch.recommended  "Priporočeno:">
 
-<!ENTITY addonOptions.label        "Možnosti">
+<!ENTITY addonOptions.label        "v">
 <!ENTITY addonEnable.label         "Omogoči">
 <!ENTITY addonDisable.label        "Onemogoči">
-<!ENTITY addonInstall2.label       "Dodaj k brandShortName;">
+<!ENTITY addonInstall2.label       "Dodaj k &brandShortName;">
 <!ENTITY addonUninstall.label      "Odstrani">
 <!ENTITY addonCancel.label         "Prekliči">
 <!ENTITY addonShowPage.label       "Pojdi na stran">
 
-<!ENTITY downloadsHeader.label     "Prenosi">
+<!ENTITY downloadsHeader.label     "O">
 <!ENTITY downloadShowPage.label    "Pojdi">
 <!ENTITY downloadShow2.label       "Poišči">
 <!ENTITY downloadOpen2.label       "Odpri">
@@ -71,7 +71,7 @@
 <!ENTITY bookmarkEdit.label        "Uredi">
 <!ENTITY bookmarkShortcut.label    "Dodaj na domači zaslon">
 
-<!ENTITY identity.unverifiedsite2 "Ta spletna stran ne nudi podatkov o identiteti.">
+<!ENTITY identity.unverifiedsite2 "Ta spletna stran ne vsebuje podatkov o identiteti.">
 <!ENTITY identity.connectedTo2 "Povezan z">
 <!-- Localization note (identity.runBy2)
  The layout of the identity dialog prevents combining this into a single string with
@@ -90,7 +90,7 @@
 <!ENTITY consoleEvaluate.label     "…">
 <!ENTITY consoleErrFile.label      "Datoteka:">
 <!ENTITY consoleErrLine.label      "Vrstica:">
-<!ENTITY consoleErrColumn.label    "Stolpec:">
+<!ENTITY consoleErrColumn.label    "Stolpec">
 
 <!ENTITY contextOpenInNewTab.label    "Odpri povezavo v novem zavihku">
 <!ENTITY contextSaveLink.label        "Shrani povezavo">
@@ -101,7 +101,7 @@
 <!ENTITY contextBookmarkLink.label    "Zaznamuj povezavo">
 <!ENTITY contextSaveVideo.label       "Shrani video">
 <!ENTITY contextShareVideo.label      "Daj video na razpolago">
-<!ENTITY contextPlayMedia.label       "Predvajaj">
+<!ENTITY contextPlayMedia.label       "A">
 <!ENTITY contextPauseMedia.label      "Premor">
 <!ENTITY contextFullScreen.label      "Celozaslonski način">
 <!ENTITY contextEditBookmark.label    "Uredi">

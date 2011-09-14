@@ -6,7 +6,7 @@
 <!ENTITY sync.synchronize           "Omogoči Sync">
 <!ENTITY sync.deviceName            "Ta naprava">
 <!ENTITY sync.disconnect            "Odklopi">
-<!ENTITY sync.syncNow               "Sinkroniziraj zdaj">
+<!ENTITY sync.syncNow               "Sinhroniziraj zdaj">
 
 <!ENTITY sync.setup.title           "Poveži se z Sync">
 <!ENTITY sync.setup.jpake           "Na računalniku s Firefoxom, ki je povezan s Sync, izberite Možnosti, pojdite na Možnosti za Sync in &#x0022;Dodaj napravo&#x0022;">

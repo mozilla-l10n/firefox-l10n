@@ -1,5 +1,5 @@
 <!ENTITY prefsHeader.label                         "Nastavitve">
-<!ENTITY about.title                               "O brandShortName;">
+<!ENTITY about.title                               "O &brandShortName;">
 <!ENTITY about.button                              "Pojdi">
 <!ENTITY content.title                             "Vsebina">
 <!ENTITY reflowZoom.title                          "Besedilo preoblikuj za povečanje">
@@ -15,7 +15,7 @@
 <!ENTITY language.title                            "Jezik">
 <!ENTITY language.auto                             "Samodejno zaznaj">
 <!ENTITY defaultBrowser.title                      "Privzeti brskalnik">
-<!ENTITY defaultBrowser.description                "Nastavi brandShortName; kot privzet brskalnik">
+<!ENTITY defaultBrowser.description                "Nastavi &brandShortName; kot privzet brskalnik">
 <!ENTITY homepage.title                            "Domača stran">
 <!ENTITY homepage.none                             "Prazna stran">
 <!ENTITY homepage.default                          "brandShortName; začetek">
