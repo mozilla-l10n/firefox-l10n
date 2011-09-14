@@ -13,9 +13,10 @@
 <!ENTITY manageAccount.label          "Laola akhaonto">
 <!ENTITY manageAccount.accesskey      "a">
 <!ENTITY viewQuota.label              "Lebelela khuota">
-<!ENTITY changePassword.label         "Fetoša lentšuphetišo">
+<!ENTITY changePassword2.label         "Fetoša lentšuphetišo...">
 <!ENTITY mySyncKey.label              "Fetoša mobolelwana wa sephiri">
-<!ENTITY resetSync.label              "Beakanya nyalantšho ka leswa">
+<!ENTITY resetSync2.label              "Beakanya nyalantšho ka leswa...">
+
 <!ENTITY addDevice.label              "Tsenya sedirišwa">
 
 <!ENTITY syncMy.label               "Nyalantšha yaka">
@@ -33,7 +34,7 @@
 
 <!ENTITY syncComputerName.label       "Leina la khomphutha:">
 <!ENTITY syncComputerName.accesskey   "k">
-<!ENTITY deactivateDevice.label       "Dira gore sedirišwa se seke sa šoma">
+<!ENTITY unlinkDevice.label           "Lomaganyolla sešomišwa se">
 <!-- Footer stuff -->
 
 <!ENTITY prefs.tosLink.label        "Melawana ya tirelo">
