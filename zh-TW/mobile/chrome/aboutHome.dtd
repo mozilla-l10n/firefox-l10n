@@ -9,3 +9,13 @@
 <!ENTITY aboutHome.noTabs                       "沒有上一次開啟的分頁">
 <!ENTITY aboutHome.noAddons                     "沒有推薦的附加元件">
 <!ENTITY aboutHome.getLocale                    "切換語言">
+<!ENTITY aboutHome.getInBeforeBeta              "在 Beta 版推出前加入我們。">
+<!ENTITY aboutHome.tryAurora                    "試試看 Firefox Aurora 並幫助我們打造 Firefox 的未來。">
+<!-- LOCALIZATION NOTE:
+     (aboutHome.downloadAurora): First line of a multi-line button. Treat as a title.
+-->
+<!ENTITY aboutHome.downloadAurora		"下載 Aurora">
+<!-- LOCALIZATION NOTE:
+     (aboutHome.forAndroid): Second line of a multi-line button. Treat as a subtitle.
+-->
+<!ENTITY aboutHome.forAndroid			"Android 版本">

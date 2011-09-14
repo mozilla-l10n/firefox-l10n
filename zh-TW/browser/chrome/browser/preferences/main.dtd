@@ -13,8 +13,8 @@
 <!ENTITY useCurrentPage.label      "使用目前頁面">
 <!ENTITY useCurrentPage.accesskey  "C">
 <!ENTITY useMultiple.label         "使用目前所有頁面">
-<!ENTITY useBookmark.label         "使用書籤項目">
-<!ENTITY useBookmark.accesskey     "B">
+<!ENTITY chooseBookmark.label      "使用書籤…">
+<!ENTITY chooseBookmark.accesskey  "B">
 <!ENTITY restoreDefault.label      "回復為預設值">
 <!ENTITY restoreDefault.accesskey  "R">
 
