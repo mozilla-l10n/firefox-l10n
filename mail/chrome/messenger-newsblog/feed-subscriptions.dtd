@@ -22,7 +22,7 @@
 
 <!ENTITY button.addFeed.label       "Adauga">
 <!ENTITY button.addFeed.accesskey   "A">
-<!ENTITY button.editFeed.label      "Editeazăare">
+<!ENTITY button.editFeed.label      "Editare">
 <!ENTITY button.editFeed.accesskey  "E">
 <!ENTITY button.removeFeed.label "Elimină">
 <!ENTITY button.removeFeed.accesskey   "n">

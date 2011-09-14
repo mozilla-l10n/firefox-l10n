@@ -29,7 +29,7 @@
 <!ENTITY fileMenu.accesskey "F">
 <!ENTITY newMenu.label "Adaugă">
 <!ENTITY newMenu.accesskey "A">
-<!ENTITY newMessage.label "un mesaj nou">
+<!ENTITY newMessage.label "Mesaj">
 <!ENTITY newMessage.key "M">
 <!ENTITY newMessageCmd2.key "N">
 <!ENTITY newMessage.accesskey "m">
@@ -71,7 +71,7 @@
 <!ENTITY printCmd.accesskey "p">
 
 <!-- Edit Menu -->
-<!ENTITY editMenu.label "Editeazăare"> 
+<!ENTITY editMenu.label "Editare"> 
 <!ENTITY editMenu.accesskey "E">
 <!ENTITY undoCmd.label "Înapoi">
 <!ENTITY undoCmd.key "Z">

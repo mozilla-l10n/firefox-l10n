@@ -298,7 +298,7 @@ you can use these alternative items. Otherwise, their values should be empty.  -
 <!ENTITY pageSourceCmd.key "U">
 
 <!-- Search Menu -->
-<!ENTITY findMenu.label "Cauta">
+<!ENTITY findMenu.label "Caută">
 <!ENTITY findMenu.accesskey "C">
 <!ENTITY findCmd.label "Caută în acest mesaj…">
 <!ENTITY findCmd.accesskey "C">
@@ -317,10 +317,10 @@ you can use these alternative items. Otherwise, their values should be empty.  -
 
 <!-- Go Menu -->
 <!ENTITY goMenu.label "OK">
-<!ENTITY goMenu.accesskey "O">
+<!ENTITY goMenu.accesskey "M">
 <!ENTITY nextMenu.label "Î_nainte">
 <!ENTITY nextMenu.accesskey "n">
-<!ENTITY nextMsgCmd.label "un mesaj nou">
+<!ENTITY nextMsgCmd.label "Mesaj">
 <!ENTITY nextMsgCmd.accesskey "m">
 <!ENTITY nextMsgCmd.key "F">
 <!ENTITY nextUnreadMsgCmd.label "Mesaj necitit">
@@ -333,7 +333,7 @@ you can use these alternative items. Otherwise, their values should be empty.  -
 <!ENTITY nextUnreadThread.key "t">
 <!ENTITY prevMenu.label "Precedent">
 <!ENTITY prevMenu.accesskey "P">
-<!ENTITY prevMsgCmd.label "un mesaj nou">
+<!ENTITY prevMsgCmd.label "Mesaj">
 <!ENTITY prevMsgCmd.accesskey "m">
 <!ENTITY prevMsgCmd.key "b">
 <!ENTITY prevUnreadMsgCmd.label "Mesaj necitit">
@@ -356,11 +356,11 @@ you can use these alternative items. Otherwise, their values should be empty.  -
 <!ENTITY startPageCmd.accesskey "s">
 
 <!-- Message Menu -->
-<!ENTITY msgMenu.label "un mesaj nou">
+<!ENTITY msgMenu.label "Mesaj">
 <!ENTITY msgMenu.accesskey "m">
 <!ENTITY newMsgCmd.label "Mesaj nou">
 <!ENTITY newMsgCmd.accesskey "n">
-<!ENTITY newNewMsgCmd.label "un mesaj nou">
+<!ENTITY newNewMsgCmd.label "Mesaj">
 <!ENTITY newNewMsgCmd.accesskey "m">
 <!ENTITY archiveMsgCmd.label "Arhiveaza">
 <!ENTITY archiveMsgCmd.accesskey "A">

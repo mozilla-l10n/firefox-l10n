@@ -94,7 +94,7 @@
 <!ENTITY printCmd.key "P">
 
 <!-- Edit menu items -->
-<!ENTITY editMenu.label "Editeazăare">
+<!ENTITY editMenu.label "Editare">
 <!ENTITY editMenu.accesskey "E">
 <!ENTITY pasteNoFormatting.label "Lipește fără formatare">
 <!ENTITY pasteNoFormatting.accesskey "i">

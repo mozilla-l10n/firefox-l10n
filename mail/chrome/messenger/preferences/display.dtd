@@ -49,7 +49,7 @@
 <!ENTITY displayTagsText.label     "Etichetele pot fi folosite pentru a organiza mesajele dumneavoastră pe categorii și după priorități. ">
 <!ENTITY addTagButton.label        "Adauga">
 <!ENTITY addTagButton.accesskey    "A">
-<!ENTITY editTagButton.label       "Editeazăare">
+<!ENTITY editTagButton.label       "Editare">
 <!ENTITY editTagButton.accesskey   "E">
 <!ENTITY removeTagButton.label     "Șterge">
 <!ENTITY removeTagButton.accesskey "t">

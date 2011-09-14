@@ -35,7 +35,7 @@
 <!ENTITY newAddressBookCmd.accesskey                    "c">
 <!ENTITY newLDAPDirectoryCmd.label                      "un nou director LDAP…">
 <!ENTITY newLDAPDirectoryCmd.accesskey                  "d">
-<!ENTITY newMessageCmd.label                            "un mesaj nou">
+<!ENTITY newMessageCmd.label                            "Mesaj">
 <!ENTITY newMessageCmd.key                              "M">
 <!ENTITY newMessageCmd.accesskey                        "m">
 <!-- LOCALIZATION NOTE (osxAddressBook) : These entities are only used on Mac -->
@@ -57,7 +57,7 @@
 <!ENTITY printAddressBook.accesskey                     "a">
 
 <!-- Edit Menu -->
-<!ENTITY editMenu.label                                 "Editeazăare">
+<!ENTITY editMenu.label                                 "Editare">
 <!ENTITY editMenu.accesskey                             "E">
 <!ENTITY undoCmd.label                                  "Înapoi">
 <!ENTITY undoCmd.key                                    "Z">

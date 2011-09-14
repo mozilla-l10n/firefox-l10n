@@ -4,7 +4,6 @@
 # xdaiana <xdaiana@yahoo.com>
 # janimo <jani@ubuntu.com>
 # Alexandru Szasz <alexxed@gmail.com>
-# anonymous <anonymous@n.a>
 #
 -->
 <!--
@@ -58,7 +57,7 @@
 <!ENTITY directoryHostname.accesskey       "h">
 <!ENTITY directoryBaseDN.label             "DN bază:">
 <!ENTITY directoryBaseDN.accesskey         "b">
-<!ENTITY findButton.label                  "Cauta">
+<!ENTITY findButton.label                  "Caută">
 <!ENTITY findButton.accesskey              "C">
 <!ENTITY directorySecure.label             "Folosește conexiune securizată (SSL)">
 <!ENTITY directorySecure.accesskey         "u">
