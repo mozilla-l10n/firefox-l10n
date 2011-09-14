@@ -45,7 +45,7 @@
 <!ENTITY  prefWindow.styleGNOME   "width: 47em; height: 34.5em;">
 
 <!ENTITY  paneGeneral.title       "Allgemein">
-<!ENTITY  paneAlarms.title        "Alarme">
+<!ENTITY  paneAlarms.title        "Erinnerungen">
 <!ENTITY  paneCategories.title    "Kategorien">
 <!ENTITY  paneViews.title         "Ansichten">
 <!ENTITY  paneTimezones.title     "Zeitzonen">
