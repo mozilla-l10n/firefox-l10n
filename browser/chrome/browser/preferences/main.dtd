@@ -12,8 +12,8 @@
 <!ENTITY useCurrentPage.label      "Ағымдағы бетті қолдану">
 <!ENTITY useCurrentPage.accesskey  "А">
 <!ENTITY useMultiple.label         "Ағымдағы беттерді қолдану">
-<!ENTITY useBookmark.label         "Бетбелгіні қолдану">
-<!ENTITY useBookmark.accesskey     "Б">
+<!ENTITY chooseBookmark.label      "Бетбелгіні қолдану…">
+<!ENTITY chooseBookmark.accesskey  "Б">
 <!ENTITY restoreDefault.label      "Бастапқы күйге келтіру">
 <!ENTITY restoreDefault.accesskey  "с">
 
@@ -27,7 +27,7 @@
 <!ENTITY saveTo.accesskey "д">
 <!ENTITY chooseFolderWin.label        "Қарап шығу…">
 <!ENTITY chooseFolderWin.accesskey    "ш">
-<!ENTITY chooseFolderMac.label        "Таңдау...">
+<!ENTITY chooseFolderMac.label        "Таңдау…">
 <!ENTITY chooseFolderMac.accesskey    "Т">
 <!ENTITY alwaysAsk.label "Файлдар сақталатын жері туралы әрқашан мені сұрау">
 <!ENTITY alwaysAsk.accesskey "ж">
