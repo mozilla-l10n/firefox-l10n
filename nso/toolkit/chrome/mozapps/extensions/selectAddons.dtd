@@ -35,7 +35,7 @@
 <!ENTITY update.heading              "Go mpshafatša ditlaleletši tša gago">
 <!ENTITY update.progress.label       "Go laolla le go lokela dikaonafatšo go ditlaleletši tša gago tše kgethilwego.">
 
-<!ENTITY errors.heading              "&bransShortName; e ka se mpshafatše tše dingwe tša ditlaleletši tša gago.">
+<!ENTITY errors.heading              "&brandShortName; e ka se mpshafatše tše dingwe tša ditlaleletši tša gago.">
 <!ENTITY errors.description          "Go lokela dimpshafatšo tša ditlaleletši tše dingwe tša gago go padile. &brandShortName; e tla leka go di mpshafatša ka maitirišo ka moragonyana.">
 
 <!ENTITY footer.label                "O ka dula o fetoša ditlaleletši tša gago ka go ya go Molaodi wa ditlaleletši.">
