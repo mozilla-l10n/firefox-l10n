@@ -281,7 +281,7 @@
 
 <!ENTITY calendar.alarm.snoozefor.label             "Erneut erinnern in">
 <!ENTITY calendar.alarm.snoozeallfor.label          "An alle erneut erinnern in">
-<!ENTITY calendar.alarm.title.label                 "Kalenderalarm">
+<!ENTITY calendar.alarm.title.label                 "Kalendererinnerungen">
 <!ENTITY calendar.alarm.dismiss.label               "Schließen">
 <!ENTITY calendar.alarm.dismissall.label            "Alle schließen">
 
