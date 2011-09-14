@@ -13,8 +13,8 @@
 <!ENTITY useCurrentPage.label "Lietot pašreizējo lapu">
 <!ENTITY useCurrentPage.accesskey "L">
 <!ENTITY useMultiple.label "Lietot pašreizējās lapas">
-<!ENTITY useBookmark.label "Lietot grāmatzīmi">
-<!ENTITY useBookmark.accesskey "G">
+<!ENTITY chooseBookmark.label "Lietot grāmatzīmi…">
+<!ENTITY chooseBookmark.accesskey "G">
 <!ENTITY restoreDefault.label "Atjaunot uz noklusēto">
 <!ENTITY restoreDefault.accesskey "A">
 
