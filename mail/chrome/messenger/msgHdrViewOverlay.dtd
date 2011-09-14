@@ -81,23 +81,23 @@
 <!ENTITY hdrViewToolbarAlwaysReplySender.label "Siempre mostrar responder al remitente">
 <!ENTITY hdrViewToolbarAlwaysReplySender.accesskey "r">
 
-<!ENTITY otherActionsButton.label "otras acciones">
-<!ENTITY otherActionsOpenConversation.label "abrir en conversación">
-<!ENTITY otherActionsOpenConversation.accesskey "c">
-<!ENTITY otherActionsOpenInNewWindow.label "abrir en una ventana nueva">
-<!ENTITY otherActionsOpenInNewWindow.accesskey "n">
-<!ENTITY otherActionsOpenInNewTab.label "abrir en una pestaña nueva">
-<!ENTITY otherActionsOpenInNewTab.accesskey "t">
-<!ENTITY markAsReadMenuItem.label "marcar como leído">
-<!ENTITY markAsReadMenuItem.accesskey "r">
-<!ENTITY markAsUnreadMenuItem.label "marcar como no leído">
-<!ENTITY markAsUnreadMenuItem.accesskey "r">
-<!ENTITY saveAsMenuItem.label "guardar como…">
-<!ENTITY saveAsMenuItem.accesskey "g">
-<!ENTITY viewSourceMenuItem.label "ver fuente…">
-<!ENTITY viewSourceMenuItem.accesskey "V">
-<!ENTITY otherActionsPrint.label "imprimir">
-<!ENTITY otherActionsPrint.accesskey "p">
+<!ENTITY otherActionsButton1.label "Otras acciones">
+<!ENTITY otherActionsOpenConversation1.label "Abrir en conversación">
+<!ENTITY otherActionsOpenConversation1.accesskey "c">
+<!ENTITY otherActionsOpenInNewWindow1.label "Abrir en una ventana nueva">
+<!ENTITY otherActionsOpenInNewWindow1.accesskey "n">
+<!ENTITY otherActionsOpenInNewTab1.label "Abrir en una pestaña nueva">
+<!ENTITY otherActionsOpenInNewTab1.accesskey "t">
+<!ENTITY markAsReadMenuItem1.label "Marcar como leído">
+<!ENTITY markAsReadMenuItem1.accesskey "r">
+<!ENTITY markAsUnreadMenuItem1.label "Marcar como no leído">
+<!ENTITY markAsUnreadMenuItem1.accesskey "r">
+<!ENTITY saveAsMenuItem1.label "Guardar como…">
+<!ENTITY saveAsMenuItem1.accesskey "g">
+<!ENTITY viewSourceMenuItem1.label "Ver fuente">
+<!ENTITY viewSourceMenuItem1.accesskey "V">
+<!ENTITY otherActionsPrint1.label "Imprimir…">
+<!ENTITY otherActionsPrint1.accesskey "p">
 
 <!-- Attachment context menu items -->
 <!ENTITY openAttachmentCmd.label "Abrir">
