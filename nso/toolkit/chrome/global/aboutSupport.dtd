@@ -18,6 +18,7 @@ ka ga &brandShortName;, lebelela wepesaete ya rena ya  <a id='supportLink'> ya t
 <!ENTITY aboutSupport.appBasicsEnabledPlugins "Ditsebišo-koketšo tšeo di kgontšhitšwego">
 <!ENTITY aboutSupport.appBasicsBuildConfig "Peakanyo ya go aga">
 <!ENTITY aboutSupport.appBasicsUserAgent "Moemedi wa modiriši">
+<!ENTITY aboutSupport.appBasicsCrashIDs "Dipego tša go pšhatlega">
 
 <!ENTITY aboutSupport.show.label "Bula foltara ya go swara">
 <!-- LOCALIZATION NOTE (aboutSupport.showMac.label): This is the Mac-specific
