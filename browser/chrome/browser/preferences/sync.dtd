@@ -14,7 +14,7 @@
 <!ENTITY manageAccount.accesskey      "к">
 <!ENTITY viewQuota.label              "Квотаны қарау">
 <!ENTITY changePassword2.label        "Парольді өзгерту…">
-<!ENTITY mySyncKey.label              "Менің синхрондау кілтім">
+<!ENTITY myRecoveryKey.label              "Менің қалпына келтіру кілтім">
 <!ENTITY resetSync2.label             "Синхрондауды тастау…">
 
 <!ENTITY addDevice.label              "Құрылғыны қосу">
