@@ -302,6 +302,7 @@ can reach it easily. -->
   
  -->
 <!ENTITY searchFocus.commandkey       "k">
+<!ENTITY searchFocus.commandkey2      "e">
 <!ENTITY tabView.commandkey      "e">
 <!ENTITY searchFocusUnix.commandkey   "j">
 
@@ -447,6 +448,9 @@ you can use these alternative items. Otherwise, their values should be empty.  -
 <!ENTITY cutButton.tooltip              "Қию">
 <!ENTITY copyButton.tooltip             "Көшіру">
 <!ENTITY pasteButton.tooltip            "Қірістіру">
+
+<!ENTITY backForwardButtonMenu.tooltip    "Тарихы үшін оң жақпен шертіңіз не төмен тартыңыз">
+<!ENTITY backForwardButtonMenuMac.tooltip "Тарихы үшін төмен тартыңыз">
 
 <!ENTITY quitApplicationCmdWin.label       "Шығу"> 
 <!ENTITY quitApplicationCmdWin.accesskey   "ы">

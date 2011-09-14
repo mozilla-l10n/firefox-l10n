@@ -18,6 +18,7 @@
 <!ENTITY resetSync2.label             "Синхрондауды тастау…">
 
 <!ENTITY addDevice.label              "Құрылғыны қосу">
+<!ENTITY unlinkDevice.label           "Бұл құрылғыны өшіру">
 
 <!-- Sync Settings -->
 <!ENTITY syncComputerName.label       "Компьютер аты:">
