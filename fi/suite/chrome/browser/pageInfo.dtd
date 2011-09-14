@@ -118,11 +118,11 @@
 <!ENTITY  permAllowSession      "Salli istunnon ajaksi">
 <!ENTITY  permBlock             "Estä">
 <!ENTITY  permissionsFor        "Sivuston oikeudet:">
-<!ENTITY  permImage             "Oikeus ladata kuvia">
-<!ENTITY  permPopup             "Oikeus avata ponnahdusikkunoita">
-<!ENTITY  permCookie            "Oikeus tallentaa evästeitä">
-<!ENTITY  permInstall           "Oikeus asentaa laajennuksia ja teemoja">
-<!ENTITY  permGeo               "Salli">
+<!ENTITY  permImage             "Lataa kuvat">
+<!ENTITY  permPopup             "Avaa ponnahdusikkunat">
+<!ENTITY  permCookie            "Tallenna evästeet">
+<!ENTITY  permInstall           "Asenna lisäosat ja teemat">
+<!ENTITY  permGeo               "Kerro sijaintini">
 
 <!ENTITY  securityTab           "Suojaus">
 <!ENTITY  securityTab.accesskey "u">
