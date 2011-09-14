@@ -83,7 +83,7 @@
 </ul>
 ">
 
-<!ENTITY proxyConnectFailure.title "Proksi strežnik zavrača povezave">
+<!ENTITY proxyConnectFailure.title "Posrednik zavrača povezave">
 <!ENTITY proxyConnectFailure.longDesc "
 <ul>
   <li>Preverite nastavitve posrednika in se prepričajte, da so pravilne.</li>
@@ -164,6 +164,6 @@ netError.xhtml) because it exposes functionality specific to firefox. -->
 <button id='exceptionDialogButton'>&securityOverride.exceptionButtonLabel;</button>
 ">
 
-<!ENTITY remoteXUL.title "Oddaljeni XUL">
+<!ENTITY remoteXUL.title "Dodaj izjemo …">
 <!ENTITY remoteXUL.longDesc "<p><ul><li>Obrnite se na lastnike spletne strani in jih obvestite o težavi.</li></ul></p>">
 

@@ -1,4 +1,4 @@
-<!ENTITY aboutPage.title                        "O brandShortName;">
+<!ENTITY aboutPage.title                        "O &brandShortName;">
 <!ENTITY aboutPage.faq.label                    "Pogosta vprašanja">
 <!ENTITY aboutPage.support.label                "Podpora">
 <!ENTITY aboutPage.privacyPolicy.label          "Izjava o zasebnosti">
