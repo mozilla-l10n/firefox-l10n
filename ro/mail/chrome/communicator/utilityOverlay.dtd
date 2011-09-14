@@ -21,7 +21,7 @@
 <!ENTITY newMenu.label            "Adaugă">
 <!ENTITY newMenu.accesskey          "A">
 
-<!ENTITY editMenu.label          "Editeazăare">
+<!ENTITY editMenu.label          "Editare">
 <!ENTITY editMenu.accesskey        "E">
 <!ENTITY undoCmd.label            "Înapoi">
 <!ENTITY undoCmd.key            "Z">

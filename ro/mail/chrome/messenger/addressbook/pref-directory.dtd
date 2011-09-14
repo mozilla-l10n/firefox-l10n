@@ -56,7 +56,7 @@
 <!ENTITY directoriesText.accesskey "A">
 <!ENTITY addDirectory.label        "Adauga">
 <!ENTITY addDirectory.accesskey    "A">
-<!ENTITY editDirectory.label       "Editeazăare">
+<!ENTITY editDirectory.label       "Editare">
 <!ENTITY editDirectory.accesskey   "E">
 <!ENTITY deleteDirectory.label     "Șterge">
 <!ENTITY deleteDirectory.accesskey "t">
