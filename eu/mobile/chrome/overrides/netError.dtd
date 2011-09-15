@@ -7,7 +7,7 @@
 
 
 <!ENTITY connectionFailure.title "Ezin da konektatu">
-<!ENTITY connectionFailure.longDesc "&sharedLongDesc;">
+<!ENTITY connectionFailure.longDesc "&sharedLongDesc2;">
 
 <!ENTITY deniedPortAccess.title "Helbide hau murriztuta dago">
 <!ENTITY deniedPortAccess.longDesc "">
@@ -39,7 +39,7 @@
 </ul>">
 
 <!ENTITY netInterrupt.title "Konexioa eten egin da">
-<!ENTITY netInterrupt.longDesc "&sharedLongDesc;">
+<!ENTITY netInterrupt.longDesc "&sharedLongDesc2;">
 
 <!ENTITY netOffline.title "Lineaz kanpo">
 <!ENTITY netOffline.longDesc2 "<ul> 
@@ -57,10 +57,10 @@
 </ul>">
 
 <!ENTITY netReset.title "Konexioa berrezarri egin da">
-<!ENTITY netReset.longDesc "&sharedLongDesc;">
+<!ENTITY netReset.longDesc "&sharedLongDesc2;">
 
 <!ENTITY netTimeout.title "Konexioa denboraz kanpo gelditu da">
-<!ENTITY netTimeout.longDesc "&sharedLongDesc;">
+<!ENTITY netTimeout.longDesc "&sharedLongDesc2;">
 
 <!ENTITY protocolNotFound.title "Helbidea ez da ulertzen">
 <!ENTITY protocolNotFound.longDesc "<ul> 
