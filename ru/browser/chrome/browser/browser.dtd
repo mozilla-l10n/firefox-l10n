@@ -378,7 +378,7 @@
 <!ENTITY pageStyleNoStyle.accesskey "е">
 <!ENTITY pageStylePersistentOnly.label "Основной стиль страницы">
 <!ENTITY pageStylePersistentOnly.accesskey "О">
-<!ENTITY pageReportIcon.tooltip "Изменить параметры блокировки всплывающих окон для этого сайта">
+<!ENTITY pageReportIcon.tooltip "Изменить параметры блокировки всплывающих окон для этого веб-сайта">
 <!ENTITY allowPopups.accesskey "Р">
 <!ENTITY editPopupSettingsUnix.label "Изменить настройки блокировки всплывающих окон…">
 <!ENTITY editPopupSettings.label "Изменить настройки блокировки всплывающих окон…">
