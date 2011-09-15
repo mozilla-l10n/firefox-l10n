@@ -58,7 +58,7 @@
 <!ENTITY editMessageButton.label "Upraviť…">
 <!ENTITY hdrArchiveButton1.label "Archivovať">
 <!ENTITY hdrArchiveButton1.tooltip "Archivovať túto správu">
-<!ENTITY hdrSmartReplyButton1.label "Odpovedať">
+<!ENTITY hdrSmartReplyButton1.label "Zoskupené tlačidlo Odpovedať">
 <!ENTITY hdrReplyButton1.label "Odpovedať">
 <!ENTITY hdrReplyButton1.tooltip "Odpovedať na túto správu">
 <!ENTITY hdrReplyAllButton1.label "Odpovedať všetkým">
