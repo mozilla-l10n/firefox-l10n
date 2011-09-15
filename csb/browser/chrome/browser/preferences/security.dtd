@@ -12,7 +12,7 @@
 <!ENTITY  blockAttackSites.accesskey "B">
 
 <!ENTITY  blockWebForgeries.label     "Blokùjë zgłoszoné próbë internetowegò szachrajstwa">
-<!ENTITY  blockWebForgeries.accesskey "o">
+<!ENTITY  blockWebForgeries.accesskey "p">
 
 <!ENTITY  addonExceptions.label         "Wëjimczi...">
 <!ENTITY  addonExceptions.accesskey     "W">
@@ -23,7 +23,7 @@
 <!ENTITY  rememberPasswords.label       "Spamiãtôj parole dlô starnów">
 <!ENTITY  rememberPasswords.accesskey   "S">
 <!ENTITY  passwordExceptions.label      "Wëjimczi...">
-<!ENTITY  passwordExceptions.accesskey  "j">
+<!ENTITY  passwordExceptions.accesskey  "W">
 
 <!ENTITY  useMasterPassword.label        "Brëkùjë przédny parolë">
 <!ENTITY  useMasterPassword.accesskey    "B">

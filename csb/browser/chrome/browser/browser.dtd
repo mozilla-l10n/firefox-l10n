@@ -198,10 +198,6 @@ can reach it easily. -->
 <!ENTITY errorConsoleCmd.accesskey    "K">
 <!ENTITY errorConsoleCmd.commandkey   "j">
 
-<!ENTITY webConsoleCmd.label          "Kònsola felów">
-<!ENTITY webConsoleCmd.accesskey      "w">
-<!ENTITY webConsoleCmd.commandkey     "k">
-
 <!ENTITY inspectMenu.label            "Sprôwdzë">
 <!ENTITY inspectMenu.accesskey        "S">
 <!ENTITY inspectMenu.commandkey       "I">
@@ -385,7 +381,7 @@ can reach it easily. -->
 <!ENTITY sendPageCmd.label            "Sélôj lënk...">
 <!ENTITY sendPageCmd.accesskey        "S">
 <!ENTITY savePageCmd.label            "Zapiszë starnã jakno...">
-<!ENTITY savePageCmd.accesskey        "a">
+<!ENTITY savePageCmd.accesskey        "j">
 <!-- alternate for content area context menu -->
 <!ENTITY savePageCmd.accesskey2       "P">
 <!ENTITY savePageCmd.commandkey       "s">

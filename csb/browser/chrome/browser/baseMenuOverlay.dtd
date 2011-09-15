@@ -24,12 +24,12 @@
 <!ENTITY helpMenuWin.label        "Pòmòc"> 
 <!ENTITY helpMenuWin.accesskey    "P">
 <!ENTITY aboutProduct.label       "Ò programie &brandShortName;">
-<!ENTITY aboutProduct.accesskey   "a">
+<!ENTITY aboutProduct.accesskey   "p">
 <!ENTITY productHelp.label        "&brandShortName; Pòmòc">
 <!ENTITY productHelp.accesskey    "P">
 <!ENTITY helpMac.commandkey       "?">
 <!ENTITY helpSafeMode.label       "Zrëszë znowa z wëłączonéma dodôwkama…">
-<!ENTITY helpSafeMode.accesskey   "r">
+<!ENTITY helpSafeMode.accesskey   "w">
 
 <!ENTITY helpTroubleshootingInfo.label      "Wëdowiédzô ò felach">
 <!ENTITY helpTroubleshootingInfo.accesskey  "W">
