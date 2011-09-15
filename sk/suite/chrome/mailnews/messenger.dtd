@@ -139,7 +139,7 @@
 <!ENTITY folderPropsNewsgroupCmd.label "Vlastnosti diskusnej skupiny…">
 <!ENTITY folderPropsCmd.accesskey "l">
 <!ENTITY accountManagerCmd.label "Nastavenie účtov…">
-<!ENTITY accountManagerCmd.accesskey "N">
+<!ENTITY accountManagerCmd.accesskey "a">
 <!ENTITY undoDeleteMsgCmd.label "Obnoviť odstránenú správu">
 <!ENTITY redoDeleteMsgCmd.label "Znovu odstrániť správu">
 <!ENTITY undoMoveMsgCmd.label "Späť presunúť správu">
