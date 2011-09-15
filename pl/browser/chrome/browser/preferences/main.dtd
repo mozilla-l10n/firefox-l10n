@@ -15,8 +15,8 @@
 <!ENTITY useCurrentPage.label      "Użyj bieżącej strony">
 <!ENTITY useCurrentPage.accesskey  "b">
 <!ENTITY useMultiple.label         "Użyj bieżących stron">
-<!ENTITY useBookmark.label         "Użyj zakładki">
-<!ENTITY useBookmark.accesskey     "z">
+<!ENTITY chooseBookmark.label      "Użyj zakładki…">
+<!ENTITY chooseBookmark.accesskey  "z">
 <!ENTITY restoreDefault.label      "Przywróć domyślną">
 <!ENTITY restoreDefault.accesskey  "d">
 
