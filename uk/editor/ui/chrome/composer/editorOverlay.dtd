@@ -73,9 +73,6 @@
 <!ENTITY printCmd.label "Друк…">
 <!ENTITY printCmd.accesskey "Д">
 <!ENTITY printCmd.key "P">
-<!ENTITY closeCmd.label "Закрити">
-<!ENTITY closeCmd.accesskey "З">
-<!ENTITY closeCmd.key "W">
 
 <!-- Edit menu items -->
 <!ENTITY editMenu.label "Правка">
@@ -91,17 +88,6 @@
 <!ENTITY pasteAsQuotationCmd.accesskey "ц">
 <!ENTITY pasteAsQuotationCmd.key "o">
 <!ENTITY findCmd.label "Знайти і замінити…">
-<!ENTITY findCmd.accesskey "з">
-<!ENTITY findCmd.key "F">
-<!ENTITY findCmd.key2 "VK_F19">
-<!ENTITY findAgainCmd.label "Знайти наступне">
-<!ENTITY findAgainCmd.accesskey "т">
-<!ENTITY findAgainCmd.key "G">
-<!ENTITY findAgainCmd.key2 "VK_F3">
-<!ENTITY findPrevCmd.label "Знайти попередній збіг">
-<!ENTITY findPrevCmd.accesskey "п">
-<!ENTITY findPrevCmd.key "G">
-<!ENTITY findPrevCmd.key2 "VK_F3">
 <!ENTITY enableInlineSpellChecker.label "Перевірка орфографії під час набору">
 <!ENTITY enableInlineSpellChecker.accesskey "ч">
 <!ENTITY checkSpellingCmd2.label "Перевірити правопис">
@@ -139,23 +125,6 @@
 <!ENTITY createLinkCmd.accesskey "С">
 <!ENTITY editLinkCmd.label "Редагувати об’єкт в новому вікні Компонувальника">
 <!ENTITY editLinkCmd.accesskey "Р">
-<!-- (Toplevel Edit menu uses utilityOverlay) -->
-<!ENTITY undoCmd.label "Повернути">
-<!ENTITY undoCmd.accesskey "н">
-<!ENTITY redoCmd.label "Повторити">
-<!ENTITY redoCmd.accesskey "в">
-<!ENTITY cutCmd.label "Вирізати">
-<!ENTITY cutCmd.accesskey "и">
-<!ENTITY copyCmd.label "Копіювати">
-<!ENTITY copyCmd.accesskey "К">
-<!ENTITY pasteCmd.label "Вставити">
-<!ENTITY pasteCmd.accesskey "с">
-<!ENTITY deleteCmd.label "Стерти">
-<!ENTITY deleteCmd.accesskey "т">
-<!ENTITY clearCmd.label "Очистити">
-<!ENTITY clearCmd.accesskey "ч">
-<!ENTITY selectAllCmd.label "Виділити все">
-<!ENTITY selectAllCmd.accesskey "с">
 
 <!-- Font Face SubMenu -->
 <!ENTITY FontFaceSelect.tooltip "Вибір шрифту">
@@ -397,6 +366,9 @@
 <!ENTITY openToolbarCmd.tooltip "Відкрити локальний файл">
 <!ENTITY saveToolbarCmd.tooltip "Зберегти файл локально">
 <!ENTITY publishToolbarCmd.tooltip "Завантажити файл на віддалений сервер">
+<!ENTITY cutToolbarCmd.tooltip "Вирізати">
+<!ENTITY copyToolbarCmd.tooltip "Копіювати">
+<!ENTITY pasteToolbarCmd.tooltip "Вставити">
 <!ENTITY printToolbarCmd.label "Друк">
 <!ENTITY printToolbarCmd.tooltip "Надрукувати цю сторінку">
 <!ENTITY findToolbarCmd.label "Знайти">
