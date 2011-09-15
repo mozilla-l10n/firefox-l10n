@@ -351,11 +351,11 @@ you can use these alternative items. Otherwise, their values should be empty.  -
 <!ENTITY replyToAllMsgCmd.label "Erantzun denei">
 <!ENTITY replyToAllMsgCmd.accesskey  "E">
 <!ENTITY replyToAllMsgCmd.key  "r">
-<!ENTITY replyToListMsgCmd.label "Erantzun zerrendara">
+<!ENTITY replyToListMsgCmd.label "Erantzun zerrendari">
 <!ENTITY replyToListMsgCmd.accesskey  "z">
 <!ENTITY replyToListMsgCmd.key  "l">
-<!ENTITY forwardMsgCmd.label "Aurrera">
-<!ENTITY forwardMsgCmd.accesskey "A">
+<!ENTITY forwardMsgCmd.label "Birbidali">
+<!ENTITY forwardMsgCmd.accesskey "B">
 <!ENTITY forwardMsgCmd.key  "l">
 <!ENTITY forwardAsMenu.label "Birbidali honela">
 <!ENTITY forwardAsMenu.accesskey "i">
@@ -670,8 +670,8 @@ you can use these alternative items. Otherwise, their values should be empty.  -
 <!ENTITY contextReplyAll.accesskey "a">
 <!ENTITY contextReplyList.label "Erantzun zerrendari">
 <!ENTITY contextReplyList.accesskey "z">
-<!ENTITY contextForward.label "Aurrera">
-<!ENTITY contextForward.accesskey "A">
+<!ENTITY contextForward.label "Birbidali">
+<!ENTITY contextForward.accesskey "B">
 <!ENTITY contextForwardAsAttachment.label "Birbidali eranskin gisa">
 <!ENTITY contextForwardAsAttachment.accesskey "i">
 <!ENTITY contextMoveMsgMenu.label "Eraman hona">
