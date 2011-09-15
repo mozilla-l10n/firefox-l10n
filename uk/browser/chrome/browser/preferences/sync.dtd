@@ -13,9 +13,10 @@
 <!ENTITY manageAccount.label          "Керувати обліковим записом">
 <!ENTITY manageAccount.accesskey      "К">
 <!ENTITY viewQuota.label              "Подивитись квоту">
-<!ENTITY changePassword.label         "Змінити пароль">
+<!ENTITY changePassword2.label         "Змінити пароль…">
 <!ENTITY mySyncKey.label              "Мій ключ синхронізації">
-<!ENTITY resetSync.label              "Скинути синхронізацію">
+<!ENTITY resetSync2.label              "Скинути синхронізацію…">
+
 <!ENTITY addDevice.label              "Додати пристрій">
 
 <!ENTITY syncMy.label               "Синхронізувати мої">
@@ -33,7 +34,7 @@
 <!-- Device Settings -->
 <!ENTITY syncComputerName.label       "Назва комп’ютера:">
 <!ENTITY syncComputerName.accesskey   "к">
-<!ENTITY deactivateDevice.label       "Деактивувати цей пристрій">
+<!ENTITY unlinkDevice.label           "Відв’язати цей пристрій">
 
 <!-- Footer stuff -->
 <!ENTITY prefs.tosLink.label        "Умови надання послуги">
