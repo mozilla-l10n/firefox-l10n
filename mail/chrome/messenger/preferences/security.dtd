@@ -44,7 +44,7 @@
 <!ENTITY antiVirus.accesskey  "A">
 
 <!-- Cookies -->
-<!ENTITY cookies.intro                  "U kunt in &brandShortName; opgeven welke blogs, nieuwsfeeds en andere webpagina’s toestemming hebben om cookies in te stellen.">
+<!ENTITY cookies.intro                  "U kunt in &brandShortName; opgeven welke blogs, nieuwsfeeds en andere websites toestemming hebben om cookies in te stellen.">
 <!ENTITY acceptCookies.label            "Cookies van websites accepteren">
 <!ENTITY acceptCookies.accesskey        "C">
 <!ENTITY keepUntil.label                "Bewaren totdat:">
