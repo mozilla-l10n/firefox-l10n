@@ -54,11 +54,11 @@
 <!ENTITY  autoTypeRadio.accesskey       "A">
 <!ENTITY  reload.label                  "重新載入">
 <!ENTITY  reload.accesskey              "e">
-<!ENTITY  ftp.label                     "FTP 代理伺服器：">
+<!ENTITY  ftp.label                     "FTP Proxy:">
 <!ENTITY  ftp.accesskey                 "F">
-<!ENTITY  http.label                    "HTTP 代理伺服器：">
+<!ENTITY  http.label                    "HTTP Proxy:">
 <!ENTITY  http.accesskey                "y">
-<!ENTITY  ssl.label                     "SSL 代理伺服器：">
+<!ENTITY  ssl.label                     "SSL Proxy:">
 <!ENTITY  ssl.accesskey                 "S">
 <!ENTITY  socks.label                   "SOCKS 主機:">
 <!ENTITY  socks.accesskey               "C">
