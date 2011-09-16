@@ -44,7 +44,7 @@
 
 <!-- These are in the Location tab panel -->
 <!ENTITY locationEditField.label "圖片位址 (URL):">
-<!ENTITY locationEditField.accessKey "g">
+<!ENTITY locationEditField.accessKey "L">
 <!ENTITY locationEditField.tooltip "輸入圖片檔的檔名路徑或網址">
 <!ENTITY title.label "提示文字:">
 <!ENTITY title.accessKey "T">
@@ -75,7 +75,7 @@
 <!ENTITY constrainCheckbox.tooltip "維護此圖片的長寬比">
 
 <!-- These controls are in the Image Map box of the expanded area -->
-<!ENTITY imagemapBox.label "圖片對應 Map">
+<!ENTITY imagemapBox.label "影像地圖">
 <!ENTITY removeImageMapButton.label "移除">
 <!ENTITY removeImageMapButton.accessKey "R">
 <!ENTITY editImageMapButton.label "編輯…">
