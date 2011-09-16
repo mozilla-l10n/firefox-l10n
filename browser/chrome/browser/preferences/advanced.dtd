@@ -57,12 +57,12 @@
 <!ENTITY useSmoothScrolling.label        "Օգտագործել կոկիկ սահքաթերթումը">
 <!ENTITY useSmoothScrolling.accesskey    "m">
 <!ENTITY allowHWAccel.label              "Use hardware acceleration when available">
-<!ENTITY allowHWAccel.accesskey          "h">
+<!ENTITY allowHWAccel.accesskey          "r">
 <!ENTITY checkSpelling.label             "Տեքստ մուտքագրելու ընթացքում ստուգիր ուղղագրությունը">
 <!ENTITY checkSpelling.accesskey         "Տ">
 
 <!ENTITY systemDefaults.label            "Սկզբնական Վիճակ">
-<!ENTITY alwaysCheckDefault.label        "Միանալուց միշտ ստուգիր, աևդյոք &brandShortName; -ը հիմնական բռաուզեր է:"><!--XXX-->
+<!--XXX--><!ENTITY alwaysCheckDefault.label        "Միանալուց միշտ ստուգիր, աևդյոք &brandShortName; -ը հիմնական բռաուզեր է:">
 <!ENTITY alwaysCheckDefault.accesskey    "Մ">
 <!ENTITY checkNow.label                  "Հիմա Ստուգել">
 <!ENTITY checkNow.accesskey              "N">
@@ -99,7 +99,7 @@
 
 <!ENTITY autoCheck.label                 "Ինքնաբար ստուգել թարմացումներ.">
 <!ENTITY enableAppUpdate.label           "&brandShortName;">
-<!ENTITY enableAppUpdate.accesskey       "b">
+<!ENTITY enableAppUpdate.accesskey       "F">
 <!ENTITY enableAddonsUpdate2.label       "Հավելումներ">
 <!ENTITY enableAddonsUpdate2.accesskey   "n">
 <!ENTITY enableSearchUpdate.label        "Փնտրամեքենաներ">

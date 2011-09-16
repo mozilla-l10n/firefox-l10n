@@ -59,6 +59,7 @@
 <!ENTITY aboutSupport.appBasicsEnabledPlugins "Միացված պլագիններ">
 <!ENTITY aboutSupport.appBasicsBuildConfig "Հավաքման ձևաչափ">
 <!ENTITY aboutSupport.appBasicsUserAgent "Օգտագործողի զննարկիչը">
+<!ENTITY aboutSupport.appBasicsCrashIDs "Crash Reports">
 
 <!ENTITY aboutSupport.show.label "Բացել նրա պահոցը">
 
