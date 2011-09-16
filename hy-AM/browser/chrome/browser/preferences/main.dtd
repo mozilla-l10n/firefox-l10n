@@ -44,6 +44,9 @@
 <!ENTITY startupHomePage.label     "Ցույց տալ սկզբնական էջը">
 <!ENTITY startupBlankPage.label    "Ցույց տալ դատարկ էջ">
 <!ENTITY startupLastSession.label  "Ցուցադրել նախորդ պատուհանները և ներդիրները">
+<!ENTITY restoreOnDemand.label     "Don’t load tabs until selected">
+<!ENTITY restoreOnDemand.accesskey "l">
+
 <!ENTITY homepage.label            "Սկզբնական էջ`">
 <!ENTITY homepage.accesskey        "Ս">
 <!ENTITY useCurrentPage.label      "Օգտագործել ընթացիկ էջը">

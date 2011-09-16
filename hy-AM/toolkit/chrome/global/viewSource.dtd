@@ -44,7 +44,7 @@
 <!-- LOCALIZATION NOTE (mainWindow.titlemodifier) : DONT_TRANSLATE --> 
 <!ENTITY mainWindow.titlemodifier "&brandFullName;">
 <!-- LOCALIZATION NOTE (mainWindow.titlemodifierseparator) : DONT_TRANSLATE -->
-<!ENTITY mainWindow.titlemodifierseparator " -  ">
+<!ENTITY mainWindow.titlemodifierseparator " - ">
 <!ENTITY mainWindow.preface "Ակնագիրն ի.">
 
 <!ENTITY fileMenu.label "Ֆայլ">

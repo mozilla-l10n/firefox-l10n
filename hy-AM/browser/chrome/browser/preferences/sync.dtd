@@ -52,9 +52,10 @@
 <!ENTITY manageAccount.label          "Կարգավորեք հաշիվը">
 <!ENTITY manageAccount.accesskey      "Կ">
 <!ENTITY viewQuota.label              "Դիտել քվոտան">
-<!ENTITY changePassword.label         "Փոխել Գաղտնաբառը">
+<!ENTITY changePassword2.label         "Change Password…">
 <!ENTITY mySyncKey.label              "Իմ Sync բանալին">
-<!ENTITY resetSync.label              "Զրոյացնել Sync-ը">
+<!ENTITY resetSync2.label              "Reset Sync…">
+
 <!ENTITY addDevice.label              "Ավելացրեք սարք">
 
 <!ENTITY syncMy.label               "Իմ Sync">
@@ -72,7 +73,7 @@
 <!-- Device Settings -->
 <!ENTITY syncComputerName.label       "Համակարգչի անունը՝">
 <!ENTITY syncComputerName.accesskey   "Հ">
-<!ENTITY deactivateDevice.label       "Ապաակտիվացնել այս սարքը">
+<!ENTITY unlinkDevice.label           "Unlink This Device">
 
 <!-- Footer stuff -->
 <!ENTITY prefs.tosLink.label        "Ծառայության պայմաններին">
