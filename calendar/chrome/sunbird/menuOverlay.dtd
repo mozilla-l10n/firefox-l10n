@@ -83,7 +83,7 @@
 <!ENTITY calendar.undo.key                                 "Z">
 <!ENTITY calendar.undo.accesskey                           "U">
 
-<!ENTITY calendar.redo.label                               "重作">
+<!ENTITY calendar.redo.label                               "取消「復原」">
 <!ENTITY calendar.redo.key                                 "Y">
 <!ENTITY calendar.redo.accesskey                           "R">
 
