@@ -44,7 +44,7 @@
 <!ENTITY pref.dateformat.label "日期文字格式:" >
 <!ENTITY pref.dateformat.accesskey "D">
 <!ENTITY pref.dateformat.long "長" >
-<!ENTITY pref.dateformat.short "Short"  >
+<!ENTITY pref.dateformat.short "短"  >
 <!ENTITY pref.defaultlength.label "預設事件長度:" >
 <!ENTITY pref.defaultlength.accesskey "E">
 <!ENTITY pref.defaultsnoozelength.label "預設稍後提醒長度:" >

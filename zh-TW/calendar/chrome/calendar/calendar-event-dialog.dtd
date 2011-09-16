@@ -160,7 +160,7 @@
 <!ENTITY  event.menu.options.priority.normal.accesskey        "N">
 <!ENTITY  event.menu.options.priority.high.label              "高">
 <!ENTITY  event.menu.options.priority.high.accesskey          "H">
-<!ENTITY  event.menu.options.privacy.label                    "個人隱私">
+<!ENTITY  event.menu.options.privacy.label                    "隱私">
 <!ENTITY  event.menu.options.privacy.accesskey                "P">
 <!ENTITY  event.menu.options.privacy.public.label             "公開事件">
 <!ENTITY  event.menu.options.privacy.public.accesskey         "u">
@@ -187,7 +187,7 @@
 <!ENTITY  event.toolbar.delete.label                      "刪除">
 <!ENTITY  event.toolbar.attendees.label                   "邀請參與者">
 <!ENTITY  event.toolbar.spellcheck.label                  "拼字檢查">
-<!ENTITY  event.toolbar.privacy.label                     "個人隱私">
+<!ENTITY  event.toolbar.privacy.label                     "隱私">
 <!ENTITY  event.toolbar.attachments.label                 "附件">
 
 <!-- Main page -->
@@ -232,7 +232,7 @@
 <!ENTITY event.url.label                                  "相關鏈結:" >
 <!ENTITY event.priority2.label                            "重要性:">
 
-<!ENTITY event.reminder.none.label                        "沒有提醒 " >
+<!ENTITY event.reminder.none.label                        "不提醒" >
 <!ENTITY event.reminder.0minutes.before.label             "0 分鐘前" >
 <!ENTITY event.reminder.5minutes.before.label             "在 5 分鐘之前" >
 <!ENTITY event.reminder.15minutes.before.label            "在 15 分鐘之前" >
@@ -254,7 +254,7 @@
 <!ENTITY event.repeat.daily.label                       "每天">
 <!ENTITY event.repeat.weekly.label                      "每星期">
 <!ENTITY event.repeat.every.weekday.label               "每個工作天">
-<!ENTITY event.repeat.bi.weekly.label                   "雙週">
+<!ENTITY event.repeat.bi.weekly.label                   "每雙週">
 <!ENTITY event.repeat.monthly.label                     "每個月">
 <!ENTITY event.repeat.yearly.label                      "每年">
 <!ENTITY event.repeat.custom.label                      "自訂…">
