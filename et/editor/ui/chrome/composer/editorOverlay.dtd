@@ -73,9 +73,6 @@
 <!ENTITY printCmd.label                      "Prindi...">
 <!ENTITY printCmd.accesskey                  "P">
 <!ENTITY printCmd.key                        "p">
-<!ENTITY closeCmd.label                      "Sulge">
-<!ENTITY closeCmd.accesskey                  "S">
-<!ENTITY closeCmd.key                        "w">
 
 <!-- Edit menu items -->
 <!ENTITY editMenu.label                      "Redigeerimine">
@@ -91,17 +88,6 @@
 <!ENTITY pasteAsQuotationCmd.accesskey       "t">
 <!ENTITY pasteAsQuotationCmd.key             "o">
 <!ENTITY findCmd.label                       "Otsi ja asenda...">
-<!ENTITY findCmd.accesskey                   "e">
-<!ENTITY findCmd.key                         "f">
-<!ENTITY findCmd.key2                        "VK_F19">
-<!ENTITY findAgainCmd.label                  "Otsi uuesti">
-<!ENTITY findAgainCmd.accesskey              "e">
-<!ENTITY findAgainCmd.key                    "g">
-<!ENTITY findAgainCmd.key2                   "VK_F3">
-<!ENTITY findPrevCmd.label                   "Otsi eelmine">
-<!ENTITY findPrevCmd.accesskey               "l">
-<!ENTITY findPrevCmd.key                     "g">
-<!ENTITY findPrevCmd.key2                    "VK_F3">
 <!ENTITY enableInlineSpellChecker.label      "Õigekirja kontroll kirjutamise ajal">
 <!ENTITY enableInlineSpellChecker.accesskey  "j">
 <!ENTITY checkSpellingCmd2.label             "Kontrolli õigekirja">
@@ -139,23 +125,6 @@
 <!ENTITY createLinkCmd.accesskey             "i">
 <!ENTITY editLinkCmd.label                   "Redigeeri linki uues koostajas">
 <!ENTITY editLinkCmd.accesskey               "u">
-<!-- (Toplevel Edit menu uses utilityOverlay) -->
-<!ENTITY undoCmd.label                       "Võta tagasi">
-<!ENTITY undoCmd.accesskey                   "V">
-<!ENTITY redoCmd.label                       "Tee uuesti">
-<!ENTITY redoCmd.accesskey                   "T">
-<!ENTITY cutCmd.label                        "Lõika">
-<!ENTITY cutCmd.accesskey                    "L">
-<!ENTITY copyCmd.label                       "Kopeeri">
-<!ENTITY copyCmd.accesskey                   "K">
-<!ENTITY pasteCmd.label                      "Aseta">
-<!ENTITY pasteCmd.accesskey                  "A">
-<!ENTITY deleteCmd.label                     "Kustuta">
-<!ENTITY deleteCmd.accesskey                 "u">
-<!ENTITY clearCmd.label                      "Puhasta">
-<!ENTITY clearCmd.accesskey                  "P">
-<!ENTITY selectAllCmd.label                  "Vali kõik">
-<!ENTITY selectAllCmd.accesskey              "l">
 
 <!-- Font Face SubMenu -->
 <!ENTITY FontFaceSelect.tooltip              "Vali font">
@@ -396,6 +365,9 @@
 <!ENTITY openToolbarCmd.tooltip              "Ava kohalik fail">
 <!ENTITY saveToolbarCmd.tooltip              "Salvesta fail kettale">
 <!ENTITY publishToolbarCmd.tooltip           "Laadi fail võrku üles">
+<!ENTITY cutToolbarCmd.tooltip               "Lõika">
+<!ENTITY copyToolbarCmd.tooltip              "Kopeeri">
+<!ENTITY pasteToolbarCmd.tooltip             "Aseta">
 <!ENTITY printToolbarCmd.label               "Prindi">
 <!ENTITY printToolbarCmd.tooltip             "Prindi see lehekülg">
 <!ENTITY findToolbarCmd.label                "Otsi">

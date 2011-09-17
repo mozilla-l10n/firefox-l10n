@@ -59,6 +59,7 @@
 <!ENTITY editMessageButton.label                   "Redigeeri...">
 <!ENTITY hdrArchiveButton.label                    "arhiveeri">
 <!ENTITY hdrArchiveButton.tooltip                  "arhiveeri see kiri">
+<!ENTITY hdrSmartReplyButton.label                 "tark vastamine">
 <!ENTITY hdrReplyButton.label                      "vasta">
 <!ENTITY hdrReplyButton.tooltip                    "vasta sellele kirjale">
 <!ENTITY hdrReplyAllButton.label                   "vasta kõigile">
