@@ -13,9 +13,10 @@
 <!ENTITY manageAccount.label             "Konto haldamine">
 <!ENTITY manageAccount.accesskey         "K">
 <!ENTITY viewQuota.label                 "Vaata kvooti">
-<!ENTITY changePassword.label            "Muuda parooli">
+<!ENTITY changePassword2.label           "Muuda parooli…">
 <!ENTITY mySyncKey.label                 "Synci võti">
-<!ENTITY resetSync.label                 "Lähtesta Sync">
+<!ENTITY resetSync2.label                "Lähtesta Sync…">
+
 <!ENTITY addDevice.label                 "Lisa seade">
 
 <!ENTITY syncMy.label                    "Sünkroniseeritakse">
@@ -33,7 +34,7 @@
 <!-- Device Settings -->
 <!ENTITY syncComputerName.label          "Arvuti nimi:">
 <!ENTITY syncComputerName.accesskey      "r">
-<!ENTITY deactivateDevice.label          "Deaktiveeri see seade">
+<!ENTITY unlinkDevice.label              "Ühenda see seade lahti">
 
 <!-- Footer stuff -->
 <!ENTITY prefs.tosLink.label             "Teenuse tingimused">
