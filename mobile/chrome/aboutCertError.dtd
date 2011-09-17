@@ -15,7 +15,7 @@ was trying to connect. -->
 <!ENTITY certerror.introPara1                  "Oled soovinud, et &brandShortName; ühenduks
                                                 turvaliselt masinaga aadressil <b>#1</b>, aga me ei saa sinu ühenduse turvalisust kinnitada.">
 
-<!ENTITY certerror.whatShouldIDo.heading       "Mida sa peaks tegema?">
+<!ENTITY certerror.whatShouldIDo.heading       "Mida sa peaksid tegema?">
 <!ENTITY certerror.whatShouldIDo.content       "Kui tavaliselt sul selle veebilehega
                                                 ühendumine õnnestub, siis praegune viga võib tähendada, et keegi üritab näida antud veebilehena.
                                                 Sellisel juhul ei peaks sa jätkama.">
