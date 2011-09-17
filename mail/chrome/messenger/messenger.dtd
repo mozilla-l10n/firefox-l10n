@@ -9,9 +9,6 @@
 <!ENTITY closeTabCmd2.accesskey                        "e">
 <!ENTITY closeOtherTabsCmd2.label                      "Sulge teised kaardid">
 <!ENTITY closeOtherTabsCmd2.accesskey                  "d">
-<!-- LOCALIZATION NOTE (undoCloseTabCmd.label):
-     Menu option to attempt to re-open a recently closed tab.
-     -->
 <!ENTITY recentlyClosedTabsCmd.label                   "Hiljuti suletud kaardid">
 <!ENTITY recentlyClosedTabsCmd.accesskey               "H">
 
@@ -227,6 +224,8 @@
 <!ENTITY bodySanitized.accesskey                       "i">
 <!ENTITY bodyAsPlaintext.label                         "Lihttekst">
 <!ENTITY bodyAsPlaintext.accesskey                     "L">
+<!ENTITY bodyAllParts.label                            "Kõik sisu osad">
+<!ENTITY bodyAllParts.accesskey                        "s">
 
 <!ENTITY bodyMenuFeed.label                            "Uudisvoo sisuks on">
 <!ENTITY bodyMenuFeed.accesskey                        "U">

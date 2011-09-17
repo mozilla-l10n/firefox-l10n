@@ -62,22 +62,4 @@
 <!ENTITY channel.description.start  "Kasutusel on uuendustekanal ">
 <!ENTITY channel.description.end    ". ">
 
-<!ENTITY channel.change             "Muuda">
-
-<!ENTITY channel.release.description "Naudi proovitud ja testitud lõppversiooni, mida kasutavad miljonid üle maailma. Ole oma veebikogemuse peremees ning naudi superkiirust, lihtsaid kohandamisvõimalusi ja uusimaid veebitehnoloogiaid.">
-<!ENTITY channel.beta.description   "Kasuta värskeimaid võimalusi stabiilsust ohverdamata. Anna tagasisidet, et viimistleda ja lihvida seda, millest saab lõppversioon.">
-<!ENTITY channel.aurora.description "Koge uusimaid innovatsioone ja ebastabiilset keskkonda, mis ei sobi nõrganärvilistele. Anna tagasisidet võimaluste ja kiiruse osas, et aidata määrata, mis pääseb lõppversiooni.">
-
-<!-- LOCALIZATION NOTE (channel.selector.start,channel.selector.end): channel.selector.start and
-     channel.selector.end create one sentence, with a channel selection menulist instered in between.
-     This is all in one line, so try to make the localized text short.
-     example: Switch to the [Stable] update channel. -->
-<!ENTITY channel.selector.start     "Lülitu uuenduskanalile">
-<!ENTITY channel.selector.end       ".">
-
-<!-- LOCALIZATION NOTE (channel.selector.applyButton): This button applies the user's choice to switch
-     to a new update channel and starts the application update process. -->
-<!ENTITY channel.selector.applyButton "Rakenda ja uuenda">
-<!ENTITY channel.selector.cancelButton "Loobu">
-
 <!ENTITY cmdCloseMac.commandKey      "w">
