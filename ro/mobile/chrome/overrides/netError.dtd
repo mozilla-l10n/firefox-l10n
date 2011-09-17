@@ -11,6 +11,7 @@
 # Reviewer(s):
 #
 # Alexandru Szasz <alexxed@gmail.com>
+# raulmalea <raul.malea@gmail.com>
 #
 -->
 <!ENTITY % brandDTD SYSTEM "chrome://branding/locale/brand.dtd">
@@ -102,12 +103,7 @@ putea ca cineva să încerce să pretindă că este acest server.</li>
 temporară și puteți încerca din nou mai târziu.</li>
 </ul>">
 
-<!ENTITY sharedLongDesc2 "
-<ul>
-  <li>The site could be temporarily unavailable or too busy. Try again in a few moments.</li>
-  <li>If you are unable to load any pages, check your mobile device's data or Wi-Fi connection.</li>
-</ul>
-">
+<!ENTITY sharedLongDesc2 "<ul><li>Saitul ar putea fi temporar indisponibil sau foarte încărcat. Încercați din nou în câteva momente.</li><li>Dacă nu puteți să încărcați nicio pagină, verificați datele de conectare de pe dispozitivul mobil sau conexiunea Wi-Fi.</li></ul>">
 
 <!ENTITY cspFrameAncestorBlocked.title "Blocat de politica de securitate asupra conținutului">
 <!ENTITY cspFrameAncestorBlocked.longDesc "<p>&brandShortName; a împiedicat această pagină să se încarce în acest mod deoarece pagina are o politică de securitate asupra conținutului ce nu permite asta.</p>">
