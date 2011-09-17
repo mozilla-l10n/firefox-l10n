@@ -15,11 +15,11 @@
 <!--
 # Reviewer(s):
 #
-# raulmalea <raul.malea@gmail.com>
 # Alexandru Szasz <alexxed@gmail.com>
+# raulmalea <raul.malea@gmail.com>
 #
 -->
-<!ENTITY urlbar.emptytext      "Introduceți o adresă sau ceva de căutat">
+<!ENTITY urlbar.emptytext      "Adresă sau căutare">
 
 <!ENTITY back.label            "Îna_poi">
 <!ENTITY forward.label         "Î_nainte">
@@ -58,7 +58,7 @@
 <!ENTITY addonsHeader.label        "Suplimente">
 <!ENTITY addonsLocal.label         "Suplimentele tale">
 <!ENTITY addonsUpdate.label        "Împrospătare">
-<!ENTITY addonsRepo.label          "Obțineți suplimente">
+<!ENTITY addonsRepo.label          "Ia-ți suplimente">
 <!ENTITY addonsRecommended.label   "Recomandate">
 <!ENTITY addonsSearch.label        "Cauta">
 <!ENTITY addonsSearch2.emptytext   "Caută în catalog">
@@ -89,7 +89,7 @@
 
 <!ENTITY bookmarkPopup.label       "S-a pus semn la pagină">
 <!ENTITY bookmarkRemove.label      "Șterge">
-<!ENTITY bookmarkEdit.label        "Editeazăare">
+<!ENTITY bookmarkEdit.label        "Modifică">
 <!ENTITY bookmarkShortcut.label    "Adaugă la ecranul principal">
 
 <!ENTITY identity.unverifiedsite2 "Acest sait nu furnizează informații despre identitatea sa.">
@@ -107,7 +107,7 @@
 <!ENTITY consoleWarnings.label     "Avertismente">
 <!ENTITY consoleMessages.label     "Mesaje">
 <!ENTITY consoleCodeEval.label     "Cod:">
-<!ENTITY consoleClear.label        "Curăţire">
+<!ENTITY consoleClear.label        "Curăță">
 <!ENTITY consoleEvaluate.label     "…">
 <!ENTITY consoleErrFile.label      "Fișier sursă:">
 <!ENTITY consoleErrLine.label      "Rândul:">
@@ -125,7 +125,7 @@
 <!ENTITY contextPlayMedia.label       "Redare">
 <!ENTITY contextPauseMedia.label      "Pauză">
 <!ENTITY contextFullScreen.label      "Ecran complet">
-<!ENTITY contextEditBookmark.label    "Editeazăare">
+<!ENTITY contextEditBookmark.label    "Modifică">
 <!ENTITY contextRemoveBookmark.label  "Șterge">
 <!ENTITY contextShortcutBookmark.label "Adaugă la ecranul principal">
 

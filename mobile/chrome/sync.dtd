@@ -26,7 +26,7 @@
 <!ENTITY sync.syncNow               "Sincronizează acum">
 
 <!ENTITY sync.setup.title           "Conectarea la sincronizare">
-<!ENTITY sync.setup.jpake           "La un calculator conectat la sincronizare Firefox, mergeți la opțiunile de sincronizare și selectați &#x0022;Adaugă un dispozitiv&#x0022;">
+<!ENTITY sync.setup.jpake           "De la un calculator conectat la sincronizare Firefox, mergi la opțiunile de sincronizare și selectează &#x0022;Adaugă un dispozitiv&#x0022;">
 <!ENTITY sync.fallback              "Nu sunt aproape de calculatorul meu…">
 <!ENTITY sync.setup.manual          "Introduceți informațiile contului dumneavoastră de sincronizare">
 <!ENTITY sync.account               "Nume cont">

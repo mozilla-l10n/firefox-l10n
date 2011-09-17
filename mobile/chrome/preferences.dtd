@@ -19,12 +19,12 @@
 <!ENTITY reflowZoom.title                          "Reformatează textul la zoom">
 <!ENTITY showImages.title                          "Arată imaginile">
 <!ENTITY enableJavaScript.title                    "Activează Javascript">
-<!ENTITY privacy.title                             "Intimitate și securitate">
+<!ENTITY privacy.title                             "Confidențialitate și securitate">
 <!ENTITY allowCookies.title                        "Permite cookie-uri">
-<!ENTITY doNotTrack.title                          "Spune saiturilor să nu mă urmărească">
+<!ENTITY doNotTrack.title                          "Refuză stocarea parcursului meu">
 <!ENTITY masterPassword.title                      "Folosește parola principală">
 <!ENTITY clearPrivateData2.title                   "Curăță datele private">
-<!ENTITY clearPrivateData.button                   "Curăţire">
+<!ENTITY clearPrivateData.button                   "Curăță">
 <!ENTITY rememberPasswords.title                   "Memorează parolele">
 <!ENTITY language.title                            "Limbaj">
 <!ENTITY language.auto                             "Detecție automată">
@@ -32,7 +32,7 @@
 <!ENTITY defaultBrowser.description                "Stabiliți &brandShortName; ca navigator implicit">
 <!ENTITY homepage.title                            "Pagina de început">
 <!ENTITY homepage.none                             "Pagină goală">
-<!ENTITY homepage.default                          "&brandShortName; Pornire">
+<!ENTITY homepage.default                          "&brandShortName; la început">
 <!ENTITY homepage.currentpage                      "Folosește pagina curentă">
 <!ENTITY showCharsetEncoding.title                 "Arată codarea caracterelor">
 
