@@ -5,10 +5,7 @@
 <!ENTITY feedback.feedback.good         "Hea">
 <!ENTITY feedback.feedback.bad          "Halb">
 
-<!ENTITY feedback.information.title     "Rohkem teavet">
-<!ENTITY feedback.about.title           "Sellest beetast">
-<!ENTITY feedback.about.button          "Mine lehele">
-
 <!ENTITY feedback.tools.title           "Tööriistad">
+<!ENTITY feedback.allowTelemetry.title  "Jõudluse andmete saatmine">
 <!ENTITY feedback.forceCompat.title     "Ühilduvuse eiramine">
 <!ENTITY feedback.errorConsole.title    "Vigade konsooli lubamine">

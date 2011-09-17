@@ -5,10 +5,10 @@
 <!ENTITY reflowZoom.title                          "Suurendamisel tekst vormindatakse">
 <!ENTITY showImages.title                          "Pildid laaditakse automaatselt">
 <!ENTITY enableJavaScript.title                    "JavaScript lubatakse">
-<!ENTITY enablePlugins.title                       "Pluginad lubatakse">
 <!ENTITY privacy.title                             "Privaatsus ja turvalisus">
 <!ENTITY allowCookies.title                        "Küpsised lubatakse">
 <!ENTITY doNotTrack.title                          "Veebilehtedele antakse teada, et jälitamist ei soovita">
+<!ENTITY masterPassword.title                      "Kasutatakse ülemparooli">
 <!ENTITY clearPrivateData2.title                   "Privaatsete andmete kustutamine">
 <!ENTITY clearPrivateData.button                   "Kustuta">
 <!ENTITY rememberPasswords.title                   "Paroolid salvestatakse">
@@ -20,4 +20,4 @@
 <!ENTITY homepage.none                             "Tühi leht">
 <!ENTITY homepage.default                          "&brandShortName; Start">
 <!ENTITY homepage.currentpage                      "Aktiivne leht">
-<!ENTITY showCharset.title                         "Kodeeringu kuvamine">
+<!ENTITY showCharsetEncoding.title                 "Kodeeringu kuvamine">

@@ -20,7 +20,6 @@
 <!ENTITY safeb.blocked.malwarePage.shortDesc  "Veebileht aadressil <span id='malware_sitename'/> raporteeriti kui ründav leht ja see blokeeriti arvestades sinu turvalisuse seadeid.">
 <!ENTITY safeb.blocked.malwarePage.longDesc   "<p>Ründavad lehed üritavad paigaldada rakendusi, mis varastavad privaatset infot; kasutavad sinu arvutit, et rünnata teisi; või kahjustavad sinu arvutit.</p><p>Mõned ründavad lehed jagavad tahtlikult kahjulikku tarkvara, teised teevad seda aga omaniku teadmata või omanikult luba küsimata.</p>">
 
-<!ENTITY safeb.blocked.phishingPage.title     "Teavitati veebivõltsingust!">
-<!-- Localization note (safeb.blocked.phishing.shortDesc) - Please don't translate the contents of the <span id="phishing_sitename"/> tag. It will be replaced at runtime with a domain name (e.g. www.badsite.com) -->
-<!ENTITY safeb.blocked.phishingPage.shortDesc "Veebileht aadressil <span id='phishing_sitename'/> raporteeriti kui veebivõltsingut sisaldav leht ja see blokeeriti arvestades sinu turvalisuse seadeid.">
-<!ENTITY safeb.blocked.phishingPage.longDesc  "<p>Veebivõltsingud on loodud sinu ülekavaldamiseks ning privaatse või finantsilise info hankimiseks, jäljendades lehte, mida sa võid usaldada.</p><p>Sisestades infot sellistele lehtedele, võib see välja viia identiteedivarguse või muu pettuseni.</p>">
+<!ENTITY safeb.blocked.phishingPage.title2    "Veebivõltsingu kahtlus!">
+<!ENTITY safeb.blocked.phishingPage.shortDesc2 "Isikliku info sisestamine sellel lehel võib viia identiteedivarguse või muu pettuseni.">
+<!ENTITY safeb.blocked.phishingPage.longDesc2 "<p>Seda tüüpi veebivõltsinguid kasutatakse kelmustes, millega üritatakse varastada sinu andmeid, kasutades veebilehti või e-posti, mille allikat võiksid usaldada.</p>">
