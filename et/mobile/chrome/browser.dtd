@@ -7,6 +7,7 @@
 <!ENTITY go.label                  "Mine">
 <!ENTITY star.label                "Tähista">
 
+<!ENTITY showTabs.label            "Näita kaarte">
 <!ENTITY newtab.label              "Uus kaart">
 <!ENTITY closetab.label            "Sulge kaart">
 
@@ -15,6 +16,7 @@
 <!ENTITY copyAll.label             "Kopeeri kõik">
 <!ENTITY copylink.label            "Kopeeri lingi asukoht">
 <!ENTITY paste.label               "Aseta">
+<!ENTITY pasteAndGo.label          "Aseta ja mine">
 <!ENTITY delete.label              "Kustuta">
 <!ENTITY selectAll.label           "Vali kõik">
 <!ENTITY noSuggestions.label       "(soovitusi ei leitud)">
@@ -50,7 +52,6 @@
 <!ENTITY addonShowPage.label       "Külasta kodulehte">
 
 <!ENTITY downloadsHeader.label     "Allalaadimised">
-
 <!ENTITY downloadShowPage.label    "Mine allalaadimise lehele">
 <!ENTITY downloadShow2.label       "Otsi">
 <!ENTITY downloadOpen2.label       "Ava">
@@ -68,6 +69,7 @@
 <!ENTITY bookmarkPopup.label       "Leht järjehoidjatesse lisatud">
 <!ENTITY bookmarkRemove.label      "Eemalda">
 <!ENTITY bookmarkEdit.label        "Redigeeri">
+<!ENTITY bookmarkShortcut.label    "Lisa avalehele">
 
 <!ENTITY identity.unverifiedsite2  "Sellel leheküljel puudub identifitseeriv info.">
 <!ENTITY identity.connectedTo2     "Sa oled ühendatud aadressiga">
@@ -93,6 +95,7 @@
 <!ENTITY contextOpenInNewTab.label "Ava link uuel kaardil">
 <!ENTITY contextSaveLink.label     "Salvesta link">
 <!ENTITY contextSaveImage.label    "Salvesta pilt">
+<!ENTITY contextCopyLink.label     "Kopeeri link">
 <!ENTITY contextShareLink.label    "Jaga linki">
 <!ENTITY contextShareImage.label   "Jaga pilti">
 <!ENTITY contextBookmarkLink.label "Lisa link järjehoidjatesse">
@@ -103,6 +106,7 @@
 <!ENTITY contextFullScreen.label   "Täisekraanirežiim">
 <!ENTITY contextEditBookmark.label "Muuda">
 <!ENTITY contextRemoveBookmark.label "Eemalda">
+<!ENTITY contextShortcutBookmark.label "Lisa avalehele">
 
 <!ENTITY pageactions.saveas.pdf    "Salvesta PDFina">
 <!ENTITY pageactions.share.page    "Jaga lehte">
@@ -112,5 +116,6 @@
 <!ENTITY pageactions.findInPage    "Otsi lehelt">
 <!ENTITY pageactions.search.addNew "Lisa otsingumootor">
 <!ENTITY pageactions.charEncoding  "Kodeering">
+<!ENTITY pageactions.webapps.install "Paigalda rakendusena">
 
 <!ENTITY appMenu.siteOptions       "Saidi sätted">

@@ -7,21 +7,18 @@
 <!-- Specific error messages -->
 
 <!ENTITY connectionFailure.title               "Viga ühendumisel">
-<!ENTITY connectionFailure.longDesc            "&sharedLongDesc;">
+<!ENTITY connectionFailure.longDesc            "&sharedLongDesc2;">
 
 <!ENTITY deniedPortAccess.title                "See aadress on keelatud">
 <!ENTITY deniedPortAccess.longDesc             "">
 
 <!ENTITY dnsNotFound.title                     "Serverit ei leitud">
-<!ENTITY dnsNotFound.longDesc                  "
+<!ENTITY dnsNotFound.longDesc2                 "
 <ul>
   <li>Kontrolli, kas aadressis pole trükkimise vigu nagu
     <strong>www</strong>.eesti.ee asemel hoopis
     <strong>ww</strong>.eesti.ee.</li>
-  <li>Kui sa ei saa avada ühtegi lehte, siis kontrolli oma arvuti
-    võrguühendust.</li>
-  <li>Kui sinu arvuti või võrk on kaitstud tulemüüri või puhverserveri poolt, siis tee kindlaks,
-    et &brandShortName;il on lubatud ligipääs internetile.</li>
+  <li>Kui sa ei saa avada ühtegi lehte, siis kontrolli oma seadme andmeside või Wi-Fi ühendust.</li>
 </ul>
 ">
 
@@ -49,7 +46,7 @@
 ">
 
 <!ENTITY netInterrupt.title                    "Ühendus katkes">
-<!ENTITY netInterrupt.longDesc                 "&sharedLongDesc;">
+<!ENTITY netInterrupt.longDesc                 "&sharedLongDesc2;">
 
 <!ENTITY netOffline.title                      "Võrguta režiim">
 <!ENTITY netOffline.longDesc2                  "
@@ -73,10 +70,10 @@
 ">
 
 <!ENTITY netReset.title                        "Ühendus katkestati">
-<!ENTITY netReset.longDesc                     "&sharedLongDesc;">
+<!ENTITY netReset.longDesc                     "&sharedLongDesc2;">
 
 <!ENTITY netTimeout.title                      "Ühendus aegus">
-<!ENTITY netTimeout.longDesc                   "&sharedLongDesc;">
+<!ENTITY netTimeout.longDesc                   "&sharedLongDesc2;">
 
 <!ENTITY protocolNotFound.title                "Aadress jäi arusaamatuks">
 <!ENTITY protocolNotFound.longDesc             "
@@ -95,12 +92,10 @@
 ">
 
 <!ENTITY proxyResolveFailure.title             "Ei leitud puhverserverit">
-<!ENTITY proxyResolveFailure.longDesc          "
+<!ENTITY proxyResolveFailure.longDesc2         "
 <ul>
   <li>Kontrolli puhverserveri sätteid, et teha kindlaks, kas need on õiged.</li>
-  <li>Tee kindlaks, kas sinu arvuti võrguühendus töötab korrektselt.</li>
-  <li>Kui sinu arvuti või võrk on kaitstud tulemüüri või puhverserveri poolt, siis tee kindlaks,
-    et &brandShortName;il on lubatud ligipääs internetile.</li>
+  <li>Tee kindlaks, kas sinu seadme andmeside või Wi-Fi ühendus töötab korrektselt.</li>
 </ul>
 ">
 
@@ -139,27 +134,11 @@ ja sa võid hiljem uuesti proovida.</li>
 </ul>
 ">
 
-<!ENTITY sharedLongDesc                        "
+<!ENTITY sharedLongDesc2                       "
 <ul>
-  <li>Veebileht võib olla ajutiselt kättesaamatu või liialt hõivatud. Proovi mõne hetke
-    pärast uuesti.</li>
-  <li>Kui sa ei saa avada ühtegi lehte, siis kontrolli oma arvuti
-    võrguühendust.</li>
-  <li>Kui sinu arvuti või võrk on kaitstud tulemüüri või puhverserveri poolt, siis tee kindlaks,
-    et &brandShortName;il on lubatud ligipääs internetile.</li>
+  <li>Veebileht võib olla ajutiselt kättesaamatu või liialt hõivatud. Proovi mõne hetke pärast uuesti.</li>
+  <li>Kui sa ei saa avada ühtegi lehte, siis kontrolli oma seadme andmeside või Wi-Fi ühendust.</li>
 </ul>
-">
-
-<!ENTITY malwareBlocked.title                  "Ründava veebilehe kahtlus!">
-<!ENTITY malwareBlocked.longDesc               "
-<p>Ründavad lehed üritavad paigaldada rakendusi, mis varastavad privaatset infot; kasutavad sinu arvutit, et rünnata teisi; või kahjustavad sinu arvutit.</p>
-<p>Veebilehe omanikud, kes usuvad, et nende leht on raporteeritud  ilma põhjuseta, võivad <a href='http://www.stopbadware.org/home/reviewinfo' >nõuda teistkordset ülevaatust</a>.</p>
-">
-
-<!ENTITY phishingBlocked.title                 "Veebivõltsingu kahtlus!">
-<!ENTITY phishingBlocked.longDesc              "
-<p>Sisestades infot sellistele lehtedele, võib see välja viia identiteedivarguse või muu pettuseni.</p>
-<p>Seda tüüpi veebivõltsinguid kasutatakse pettustes, mis on tuntud ka kui veebikelmused, kus pettust sisaldavad lehed või e-kirjad jäljendavad allikaid, mida sa võid usaldada.</p>
 ">
 
 <!ENTITY cspFrameAncestorBlocked.title "Blokeeritud sisu turvalisuse reegliga">

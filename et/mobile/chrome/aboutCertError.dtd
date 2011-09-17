@@ -14,9 +14,6 @@ be replaced at runtime with the name of the server to which the user
 was trying to connect. -->
 <!ENTITY certerror.introPara1                  "Oled soovinud, et &brandShortName; ühenduks
                                                 turvaliselt masinaga aadressil <b>#1</b>, aga me ei saa sinu ühenduse turvalisust kinnitada.">
-<!ENTITY certerror.introPara2                  "Tavaliselt esitavad veebilehed turvalise ühendumise korral
-                                                lehe usaldusväärsuse tõenduseks identifitseerimistunnused. Nende tunnuste alusel on võimalik kindlaks
-                                                teha, et sa oled õigel veebilehel. Kahjuks pole selle veebilehe identiteeti võimalik kontrollida.">
 
 <!ENTITY certerror.whatShouldIDo.heading       "Mida sa peaks tegema?">
 <!ENTITY certerror.whatShouldIDo.content       "Kui tavaliselt sul selle veebilehega
