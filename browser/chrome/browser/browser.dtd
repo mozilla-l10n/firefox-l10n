@@ -110,6 +110,8 @@ can reach it easily. -->
 <!ENTITY forwardCmd.label                        "Edasi">
 <!ENTITY forwardCmd.accesskey                    "E">
 <!ENTITY forwardButton.tooltip                   "Edasi üks lehekülg">
+<!ENTITY backForwardButtonMenu.tooltip           "Ajaloo kuvamiseks paremklõpsa või hoia all">
+<!ENTITY backForwardButtonMenuMac.tooltip        "Ajaloo kuvamiseks hoia all">
 <!ENTITY reloadCmd.label                         "Laadi uuesti">
 <!ENTITY reloadCmd.accesskey                     "L">
 <!ENTITY reloadButton.tooltip                    "Laadi uuesti">
@@ -308,6 +310,7 @@ can reach it easily. -->
   Mac:  Cmd+K (cross platform binding)
         Cmd+Opt+F (platform convention)
   Win:  Ctrl+K (cross platform binding)
+        Ctrl+E (IE compat)
 
   We support Ctrl+K on all platforms now and advertise it in the menu since it is
   our standard - it is a "safe" choice since it is near no harmful keys like "W" as
@@ -319,6 +322,7 @@ can reach it easily. -->
  -->
 
 <!ENTITY searchFocus.commandkey                  "k">
+<!ENTITY searchFocus.commandkey2                 "e">
 <!ENTITY searchFocusUnix.commandkey              "j">
 
 <!ENTITY tabView.commandkey                      "e">
