@@ -15,7 +15,7 @@
 <!ENTITY dnsNotFound.title                     "Serverit ei leitud">
 <!ENTITY dnsNotFound.longDesc2                 "
 <ul>
-  <li>Kontrolli, kas aadressis pole trükkimise vigu nagu
+  <li>Kontrolli, kas aadressis pole kirjavigu nagu
     <strong>www</strong>.eesti.ee asemel hoopis
     <strong>ww</strong>.eesti.ee.</li>
   <li>Kui sa ei saa avada ühtegi lehte, siis kontrolli oma seadme andmeside või Wi-Fi ühendust.</li>
@@ -25,7 +25,7 @@
 <!ENTITY fileNotFound.title                    "Faili ei leitud">
 <!ENTITY fileNotFound.longDesc                 "
 <ul>
-  <li>Kontrolli faili nimes olevaid suurtähti või muid trükkimise vigu.</li>
+  <li>Kontrolli faili nimes olevaid suurtähti või muid kirjavigu.</li>
   <li>Kontrolli, kas faili on liigutatud, ümber nimetatud või on see kustutatud.</li>
 </ul>
 ">
@@ -78,7 +78,7 @@
 <!ENTITY protocolNotFound.title                "Aadress jäi arusaamatuks">
 <!ENTITY protocolNotFound.longDesc             "
 <ul>
-  <li>Sa peaksid võib-olla paigaldama lisa tarkvara, et avada see aadress.</li>
+  <li>Sa peaksid võib-olla paigaldama lisatarkvara, et avada see aadress.</li>
 </ul>
 ">
 
@@ -102,8 +102,8 @@
 <!ENTITY redirectLoop.title                    "Veebileht pole korralikult ümber suunatud">
 <!ENTITY redirectLoop.longDesc                 "
 <ul>
-  <li>Probleem võib mõnikord olla põhjustatud küpsistest keeldumisest või nende üldisest
-    keelamisest.</li>
+  <li>Probleemi võib mõnikord põhjustada küpsistest keeldumine või nende üldine
+    keelamine.</li>
 </ul>
 ">
 
