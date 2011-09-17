@@ -110,7 +110,7 @@ can reach it easily. -->
 <!ENTITY forwardCmd.label                        "Edasi">
 <!ENTITY forwardCmd.accesskey                    "E">
 <!ENTITY forwardButton.tooltip                   "Edasi üks lehekülg">
-<!ENTITY backForwardButtonMenu.tooltip           "Ajaloo kuvamiseks paremklõpsa või hoia all">
+<!ENTITY backForwardButtonMenu.tooltip           "Ajaloo kuvamiseks tee paremklõps või hoia all">
 <!ENTITY backForwardButtonMenuMac.tooltip        "Ajaloo kuvamiseks hoia all">
 <!ENTITY reloadCmd.label                         "Laadi uuesti">
 <!ENTITY reloadCmd.accesskey                     "L">
