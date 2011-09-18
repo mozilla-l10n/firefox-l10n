@@ -25,7 +25,7 @@
 <!ENTITY helpMenuWin.accesskey    "P">
 <!ENTITY aboutProduct.label       "Ò programie &brandShortName;">
 <!ENTITY aboutProduct.accesskey   "p">
-<!ENTITY productHelp.label        "&brandShortName; Pòmòc">
+<!ENTITY productHelp.label        "Pòmòc dlô programë &brandShortName;">
 <!ENTITY productHelp.accesskey    "P">
 <!ENTITY helpMac.commandkey       "?">
 <!ENTITY helpSafeMode.label       "Zrëszë znowa z wëłączonéma dodôwkama…">
