@@ -5,10 +5,10 @@
 <!ENTITY reflowZoom.title                          "Rivitä teksti suurennettaessa">
 <!ENTITY showImages.title                          "Lataa kuvat">
 <!ENTITY enableJavaScript.title                    "Salli JavaScript-komentosarjat">
-<!ENTITY enablePlugins.title                       "Salli liitännäiset">
 <!ENTITY privacy.title                             "Tietosuoja ja turvallisuus">
 <!ENTITY allowCookies.title                        "Salli evästeet">
 <!ENTITY doNotTrack.title                          "Ilmoita sivustoille, etten halua niiden seuraavan minua">
+<!ENTITY masterPassword.title                      "Käytä pääsalasanaa">
 <!ENTITY clearPrivateData2.title                   "Poista sivuhistoriatiedot">
 <!ENTITY clearPrivateData.button                   "Poista tiedot">
 <!ENTITY rememberPasswords.title                   "Tallenna salasanat">
@@ -20,4 +20,4 @@
 <!ENTITY homepage.none                             "Tyhjä sivu">
 <!ENTITY homepage.default                          "&brandShortName;in aloitus">
 <!ENTITY homepage.currentpage                      "Käytä avointa sivua">
-<!ENTITY showCharset.title                         "Näytä merkistökoodausvalikko">
+<!ENTITY showCharsetEncoding.title                 "Näytä merkistökoodaus">
