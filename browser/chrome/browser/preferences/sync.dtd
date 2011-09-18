@@ -13,9 +13,10 @@
 <!ENTITY manageAccount.label          "Hallinnoi tiliä">
 <!ENTITY manageAccount.accesskey      "H">
 <!ENTITY viewQuota.label              "Näytä tilavaraus">
-<!ENTITY changePassword.label         "Vaihda salasana">
+<!ENTITY changePassword2.label         "Vaihda salasana…">
 <!ENTITY mySyncKey.label              "Synkronointiavaimesi">
-<!ENTITY resetSync.label              "Aloita synkronointi alusta">
+<!ENTITY resetSync2.label              "Aloita synkronointi alusta…">
+
 <!ENTITY addDevice.label              "Liitä laite">
 
 <!ENTITY syncMy.label               "Synkronoi">
@@ -33,7 +34,7 @@
 <!-- Device Settings -->
 <!ENTITY syncComputerName.label       "Laitteen nimi:">
 <!ENTITY syncComputerName.accesskey   "L">
-<!ENTITY deactivateDevice.label       "Irrota laite palvelusta">
+<!ENTITY unlinkDevice.label           "Irrota laite palvelusta">
 
 <!-- Footer stuff -->
 <!ENTITY prefs.tosLink.label        "Käyttöehdot">

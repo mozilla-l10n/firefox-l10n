@@ -16,3 +16,8 @@
 <!ENTITY  sending_crash_report "Lähetään ilmoitusta\u2026">
 <!ENTITY  exit_label "Lopeta">
 <!ENTITY  continue_label "Jatka">
+
+<!ENTITY  launcher_shortcuts_title "&brandShortName;in verkkosovellukset">
+<!ENTITY  launcher_shortcuts_empty "Ei löydetty verkkosovelluksia">
+
+<!ENTITY choose_file "Valitse tiedosto">
