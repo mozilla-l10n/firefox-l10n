@@ -93,7 +93,7 @@
 ">
 
 <!ENTITY proxyResolveFailure.title "Välityspalvelinta ei löytynyt">
-<!ENTITY proxyResolveFailure.longDesc "
+<!ENTITY proxyResolveFailure.longDesc2 "
 <ul>
   <li>Tarkista, että välityspalvelinasetukset ovat oikein.</li>
   <li>Varmista, että laitteen datayhteys tai langaton verkkoyhteys on toimintakunnossa.</li>
