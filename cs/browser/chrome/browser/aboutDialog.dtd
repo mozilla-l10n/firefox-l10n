@@ -5,7 +5,7 @@
 <!ENTITY community.mozillaLink "&vendorShortName;">
 <!ENTITY community.middle2 ". Jsme">
 <!-- LOCALIZATION NOTE (community.creditsLink): This is a link title that links to about:credits. -->
-<!ENTITY community.creditsLink "globalní komunita">
+<!ENTITY community.creditsLink "globální komunita">
 <!ENTITY community.end2 ", která se společně snaží zlepšit Internet. Věříme, že by Internet měl být veřejně dostupný, otevřený a přístupný pro všechny bez jakýchkoliv omezení.">
 
 <!ENTITY contribute.start "Zní to zajímavě? ">
