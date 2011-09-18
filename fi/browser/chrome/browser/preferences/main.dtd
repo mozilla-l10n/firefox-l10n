@@ -5,6 +5,9 @@
 <!ENTITY startupHomePage.label     "Avaa aloitussivu">
 <!ENTITY startupBlankPage.label    "Avaa tyhjä sivu">
 <!ENTITY startupLastSession.label  "Avaa viimeisen istunnon ikkunat ja välilehdet">
+<!ENTITY restoreOnDemand.label     "Lataa välilehdet vasta valittaessa">
+<!ENTITY restoreOnDemand.accesskey "t">
+
 <!ENTITY homepage.label            "Aloitussivu:">
 <!ENTITY homepage.accesskey        "A">
 <!ENTITY useCurrentPage.label      "Käytä avointa sivua">

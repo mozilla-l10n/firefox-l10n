@@ -73,9 +73,6 @@
 <!ENTITY printCmd.label "Tulosta…">
 <!ENTITY printCmd.accesskey "o">
 <!ENTITY printCmd.key "P">
-<!ENTITY closeCmd.label "Sulje">
-<!ENTITY closeCmd.accesskey "S">
-<!ENTITY closeCmd.key "W">
 
 <!-- Edit menu items -->
 <!ENTITY editMenu.label "Muokkaa">
@@ -91,17 +88,6 @@
 <!ENTITY pasteAsQuotationCmd.accesskey "n">
 <!ENTITY pasteAsQuotationCmd.key "o">
 <!ENTITY findCmd.label "Etsi ja korvaa…">
-<!ENTITY findCmd.accesskey "E">
-<!ENTITY findCmd.key "F">
-<!ENTITY findCmd.key2 "VK_F19">
-<!ENTITY findAgainCmd.label "Etsi seuraava">
-<!ENTITY findAgainCmd.accesskey "s">
-<!ENTITY findAgainCmd.key "G">
-<!ENTITY findAgainCmd.key2 "VK_F3">
-<!ENTITY findPrevCmd.label "Etsi edellinen">
-<!ENTITY findPrevCmd.accesskey "d">
-<!ENTITY findPrevCmd.key "G">
-<!ENTITY findPrevCmd.key2 "VK_F3">
 <!ENTITY enableInlineSpellChecker.label "Oikolue kirjoitettaessa">
 <!ENTITY enableInlineSpellChecker.accesskey "k">
 <!ENTITY checkSpellingCmd2.label "Oikolue">
@@ -139,23 +125,6 @@
 <!ENTITY createLinkCmd.accesskey "n">
 <!ENTITY editLinkCmd.label "Muokkaa linkkiä uudessa Composer-ikkunassa">
 <!ENTITY editLinkCmd.accesskey "u">
-<!-- (Toplevel Edit menu uses utilityOverlay) -->
-<!ENTITY undoCmd.label "Kumoa">
-<!ENTITY undoCmd.accesskey "m">
-<!ENTITY redoCmd.label "Tee uudelleen">
-<!ENTITY redoCmd.accesskey "T">
-<!ENTITY cutCmd.label "Leikkaa">
-<!ENTITY cutCmd.accesskey "L">
-<!ENTITY copyCmd.label "Kopioi">
-<!ENTITY copyCmd.accesskey "K">
-<!ENTITY pasteCmd.label "Liitä">
-<!ENTITY pasteCmd.accesskey "i">
-<!ENTITY deleteCmd.label "Poista">
-<!ENTITY deleteCmd.accesskey "o">
-<!ENTITY clearCmd.label "Tyhjennä">
-<!ENTITY clearCmd.accesskey "T">
-<!ENTITY selectAllCmd.label "Valitse kaikki">
-<!ENTITY selectAllCmd.accesskey "V">
 
 <!-- Font Face SubMenu -->
 <!ENTITY FontFaceSelect.tooltip "Valitse kirjasinlaji">
@@ -396,6 +365,9 @@
 <!ENTITY openToolbarCmd.tooltip "Avaa paikallinen tiedosto">
 <!ENTITY saveToolbarCmd.tooltip "Tallenna tiedosto paikalliselle levylle">
 <!ENTITY publishToolbarCmd.tooltip "Siirrä tiedosto palvelimelle">
+<!ENTITY cutToolbarCmd.tooltip "Leikkaa">
+<!ENTITY copyToolbarCmd.tooltip "Kopioi">
+<!ENTITY pasteToolbarCmd.tooltip "Liitä">
 <!ENTITY printToolbarCmd.label "Tulosta">
 <!ENTITY printToolbarCmd.tooltip "Tulosta sivu">
 <!ENTITY findToolbarCmd.label "Etsi">
