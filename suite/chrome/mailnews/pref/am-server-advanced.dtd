@@ -1,30 +1,31 @@
 <!ENTITY serverAdvanced.label "Rozšířené nastavení účtu">
-<!ENTITY serverDirectory.label "Adresář na IMAP serveru:">
-<!ENTITY serverDirectory.accesskey "i">
+<!-- LOCALIZATION NOTE (serverDirectory.label): DONT_TRANSLATE "IMAP" -->
+<!ENTITY serverDirectory.label "Adresář serveru IMAP:">
+<!ENTITY serverDirectory.accesskey "A">
 <!ENTITY usingSubscription.label "Zobrazit pouze odebírané složky">
-<!ENTITY usingSubscription.accesskey "p">
+<!ENTITY usingSubscription.accesskey "b">
 <!ENTITY dualUseFolders.label "Server podporuje složky, které obsahují podsložky se zprávami">
-<!ENTITY dualUseFolders.accesskey "l">
-<!ENTITY useIdle.label "Použít příkaz IDLE pokud jej server podporuje">
+<!ENTITY dualUseFolders.accesskey "S">
+<!ENTITY useIdle.label "Použít příkaz IDLE, pokud jej server podporuje">
 <!ENTITY useIdle.accesskey "I">
 <!ENTITY maximumConnectionsNumber.label "Maximální počet spojení serveru do mezipaměti">
 <!ENTITY maximumConnectionsNumber.accesskey "M">
 <!-- LOCALIZATION NOTE (namespaceDesc.label): DONT_TRANSLATE "IMAP" -->
-<!ENTITY namespaceDesc.label "Tyto předvolby určují jmenný prostor na vašem IMAP serveru">
-<!ENTITY personalNamespace.label "Osobní jmenný prostor:">
+<!ENTITY namespaceDesc.label "Tyto předvolby určují jmenné prostory na serveru IMAP">
+<!ENTITY personalNamespace.label "Osobní prostor:">
 <!ENTITY personalNamespace.accesskey "O">
-<!ENTITY publicNamespace.label "Veřejné (sdílené):">
-<!ENTITY publicNamespace.accesskey "v">
-<!ENTITY otherUsersNamespace.label "Další uživatelé:">
-<!ENTITY otherUsersNamespace.accesskey "D">
+<!ENTITY publicNamespace.label "Veřejný (sdílený):">
+<!ENTITY publicNamespace.accesskey "e">
+<!ENTITY otherUsersNamespace.label "Ostatní uživatelé:">
+<!ENTITY otherUsersNamespace.accesskey "u">
 <!ENTITY overrideNamespaces.label "Povolit serveru přepsat tyto jmenné prostory">
-<!ENTITY overrideNamespaces.accesskey "T">
-<!ENTITY pop3Desc.label "Při stažení nové pošty z tohoto POP serveru použít pro její uložení následující složku:">
+<!ENTITY overrideNamespaces.accesskey "P">
+<!ENTITY pop3Desc.label "Staženou poštu ze serveru POP uložit v následující složce:">
 <!ENTITY globalInbox.label "Globální doručená pošta">
 <!ENTITY globalInbox.accesskey "G">
-<!ENTITY accountDirectory.label "Doručená pošta pro tento účet">
+<!ENTITY accountDirectory.label "Doručená pošta v tomto účtu">
 <!ENTITY accountDirectory.accesskey "D">
-<!ENTITY deferToServer.label "Doručená pošta pro jiný účet">
-<!ENTITY deferToServer.accesskey "P">
-<!ENTITY deferGetNewMail.label "Zahrnout tento server při stahování nové pošty">
-<!ENTITY deferGetNewMail.accesskey "I">
+<!ENTITY deferToServer.label "Doručená pošta v jiném účtu">
+<!ENTITY deferToServer.accesskey "r">
+<!ENTITY deferGetNewMail.label "Při stahování nové pošty stahovat i z tohoto serveru">
+<!ENTITY deferGetNewMail.accesskey "t">
