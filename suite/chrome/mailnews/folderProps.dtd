@@ -48,7 +48,7 @@
 <!ENTITY folderRebuildSummaryFileTip2.label "Obnoví indexový soubor">
 <!ENTITY folderRebuildSummaryFile2.label "Opravit složku">
 <!ENTITY folderRebuildSummaryFile2.accesskey "O">
-<!ENTITY folderRebuildSummaryFile.explanation "Pokud se ve složce nezobrazují existující zprávy či se objevují zprávy smazané, je pravděpodobně poškozen soubor s indexem. Oprava tohoto souboru často tyto problémy vyřeší.">
+<!ENTITY folderRebuildSummaryFile.explanation "Pokud se ve složce nezobrazují existující zprávy či se objevují zprávy smazané, je pravděpodobně poškozen soubor s indexem. Oprava složky může tyto problémy vyřešit.">
 <!ENTITY folderIncludeInGlobalSearch.label "Zahrnout zprávy v této složce do výsledků globálního hledání">
 <!ENTITY folderIncludeInGlobalSearch.accesskey "Z">
 
