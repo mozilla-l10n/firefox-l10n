@@ -20,6 +20,7 @@
 <!ENTITY aboutSupport.appBasicsEnabledPlugins "Käytössä olevat liitännäiset">
 <!ENTITY aboutSupport.appBasicsBuildConfig "Koostamisasetukset">
 <!ENTITY aboutSupport.appBasicsUserAgent "Selaintunniste">
+<!ENTITY aboutSupport.appBasicsCrashIDs "Kaatumisilmoitukset">
 
 <!ENTITY aboutSupport.show.label "Avaa kansio">
 
