@@ -7,21 +7,18 @@
 <!-- Specific error messages -->
 
 <!ENTITY connectionFailure.title "Yhteyden muodostus epäonnistui">
-<!ENTITY connectionFailure.longDesc "&sharedLongDesc;">
+<!ENTITY connectionFailure.longDesc "&sharedLongDesc2;">
 
 <!ENTITY deniedPortAccess.title "Osoitteen käyttö on rajoitettu">
 <!ENTITY deniedPortAccess.longDesc "">
 
 <!ENTITY dnsNotFound.title "Palvelinta ei löytynyt">
-<!ENTITY dnsNotFound.longDesc "
+<!ENTITY dnsNotFound.longDesc2 "
 <ul>
   <li>Tarkista osoite kirjoitusvirheiden varalta: esim. 
     <strong>ww</strong>.mozilla.org oikean muodon,
     <strong>www</strong>.mozilla.org, sijaan</li>
-  <li>Jos muutkaan sivustot eivät toimi, tarkista 
-    tietokoneen verkkoasetukset.</li>
-  <li>Jos tietokone tai verkko on suojattu palomuurilla tai välityspalvelin on 
-    käytössä, tarkista että &brandShortName;in verkkoyhteyttä ei estetä.</li>
+  <li>Jos muutkaan sivustot eivät toimi, tarkista laitteen datayhteyden tai langattoman verkon tila.</li>
 </ul>
 ">
 
@@ -50,7 +47,7 @@
 ">
 
 <!ENTITY netInterrupt.title "Tiedonsiirto keskeytyi">
-<!ENTITY netInterrupt.longDesc "&sharedLongDesc;">
+<!ENTITY netInterrupt.longDesc "&sharedLongDesc2;">
 
 <!ENTITY netOffline.title "Yhteydettömässä tilassa">
 <!ENTITY netOffline.longDesc2 "
@@ -74,10 +71,10 @@
 ">
 
 <!ENTITY netReset.title "Yhteys keskeytyi">
-<!ENTITY netReset.longDesc "&sharedLongDesc;">
+<!ENTITY netReset.longDesc "&sharedLongDesc2;">
 
 <!ENTITY netTimeout.title "Yhteyden aikakatkaisu">
-<!ENTITY netTimeout.longDesc "&sharedLongDesc;">
+<!ENTITY netTimeout.longDesc "&sharedLongDesc2;">
 
 <!ENTITY protocolNotFound.title "Osoitetta ei ymmärretty">
 <!ENTITY protocolNotFound.longDesc "
@@ -99,9 +96,7 @@
 <!ENTITY proxyResolveFailure.longDesc "
 <ul>
   <li>Tarkista, että välityspalvelinasetukset ovat oikein.</li>
-  <li>Varmista, että tietokoneesi verkkoyhteys on toimintakunnossa.</li>
-  <li>Jos tietokone tai verkko on suojattu palomuurilla tai välityspalvelin on 
-    käytössä, tarkista että &brandShortName;in verkkoyhteyttä ei estetä.</li>
+  <li>Varmista, että laitteen datayhteys tai langaton verkkoyhteys on toimintakunnossa.</li>
 </ul>
 ">
 
@@ -140,27 +135,11 @@
 </ul>
 ">
 
-<!ENTITY sharedLongDesc "
+<!ENTITY sharedLongDesc2 "
 <ul>
-  <li>Sivusto voi olla väliaikaisesti saavuttamattomissa tai kovan rasituksen 
-    alaisena. Yritä hetken kuluttua uudestaan.</li>
-  <li>Jos mitkään sivustot eivät toimi, tarkista tietokoneen 
-    verkkoasetukset.</li>
-  <li>Jos tietokone tai verkko on suojattu palomuurilla tai välityspalvelin on 
-    käytössä, tarkista että &brandShortName;in verkkoyhteyttä ei estetä.</li>
+  <li>Sivusto voi olla väliaikaisesti saavuttamattomissa tai kovan rasituksen alaisena. Yritä hetken kuluttua uudestaan.</li>
+  <li>Jos mitkään sivustot eivät toimi, tarkista laitteen datayhteyden tai langattoman verkkoyhteyden tila.</li>
 </ul>
-">
-
-<!ENTITY malwareBlocked.title "Epäilty hyökkäyssivusto!">
-<!ENTITY malwareBlocked.longDesc "
-<p>Hyökkäyssivustot yrittävät asentaa tietokoneellesi ohjelmia, jotka keräävät henkilötietoja, käyttävät tietokonettasi toisiin tietokoneisiin kohdistuviin hyökkäyksiin tai muuten vahingoittavat tietokonettasi.</p>
-<p>Sivuston omistajat, joiden sivusto on virheellisesti ilmoitettu hyökkäyssivustoksi, voivat <a href='http://www.stopbadware.org/home/reviewinfo' >anoa sivuston tilan tarkistamista</a>.</p>
-">
-
-<!ENTITY phishingBlocked.title "Epäilty huijaussivusto!">
-<!ENTITY phishingBlocked.longDesc "
-<p>Henkilötietojen kirjoittaminen tälle sivulle voi johtaa identiteettivarkauteen tai johonkin muuhun petokseen.</p>
-<p>Tämän tyyppiset verkkohuijaukset ovat osa phishing- tai khalastushuijauksia, joissa sivuilla tai sähköposteilla yritetään jäljitellä mahdollisesti luottamiesi toimijoiden viestintää.</p>
 ">
 
 <!ENTITY cspFrameAncestorBlocked.title "Sisällön turvallisuuskäytännön estämä">

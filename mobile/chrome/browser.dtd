@@ -7,6 +7,7 @@
 <!ENTITY go.label              "Siirry">
 <!ENTITY star.label            "Merkitse tähdellä">
 
+<!ENTITY showTabs.label        "Listaa välilehdet">
 <!ENTITY newtab.label          "Uusi välilehti">
 <!ENTITY closetab.label        "Sulje välilehti">
 
@@ -15,6 +16,7 @@
 <!ENTITY copyAll.label         "Kopioi kaikki">
 <!ENTITY copylink.label        "Kopioi linkin osoite">
 <!ENTITY paste.label           "Liitä">
+<!ENTITY pasteAndGo.label      "Liitä ja avaa">
 <!ENTITY delete.label          "Poista">
 <!ENTITY selectAll.label       "Valitse kaikki">
 <!ENTITY noSuggestions.label   "(Ei ehdotuksia)">
@@ -67,6 +69,7 @@
 <!ENTITY bookmarkPopup.label       "Sivu lisättiin kirjanmerkkeihin">
 <!ENTITY bookmarkRemove.label      "Poista">
 <!ENTITY bookmarkEdit.label        "Muokkaa">
+<!ENTITY bookmarkShortcut.label    "Lisää aloitusnäkymään">
 
 <!ENTITY identity.unverifiedsite2 "Tähän verkkosivustoon ei liity identiteettitietoja.">
 <!ENTITY identity.connectedTo2 "Yhteys muodostettu sivustoon">
@@ -92,6 +95,7 @@
 <!ENTITY contextOpenInNewTab.label    "Avaa linkki välilehteen">
 <!ENTITY contextSaveLink.label        "Tallenna linkki">
 <!ENTITY contextSaveImage.label       "Tallenna kuva">
+<!ENTITY contextCopyLink.label        "Kopioi linkki">
 <!ENTITY contextShareLink.label       "Jaa linkki">
 <!ENTITY contextShareImage.label      "Jaa kuva">
 <!ENTITY contextBookmarkLink.label    "Lisää kirjanmerkki linkistä">
@@ -102,6 +106,7 @@
 <!ENTITY contextFullScreen.label      "Kokoruutu">
 <!ENTITY contextEditBookmark.label    "Muokkaa">
 <!ENTITY contextRemoveBookmark.label  "Poista">
+<!ENTITY contextShortcutBookmark.label "Lisää aloitusnäkymään">
 
 <!ENTITY pageactions.saveas.pdf      "Tallenna PDF-tiedostona">
 <!ENTITY pageactions.share.page      "Jaa sivu">
@@ -111,5 +116,6 @@
 <!ENTITY pageactions.findInPage      "Etsi sivulta">
 <!ENTITY pageactions.search.addNew   "Lisää hakukone">
 <!ENTITY pageactions.charEncoding    "Merkistökoodaus">
+<!ENTITY pageactions.webapps.install "Asenna sovelluksena">
 
 <!ENTITY appMenu.siteOptions         "Sivuston valinnat">
