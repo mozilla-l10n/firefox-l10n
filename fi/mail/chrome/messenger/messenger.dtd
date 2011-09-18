@@ -224,6 +224,8 @@
 <!ENTITY bodySanitized.accesskey  "Y">
 <!ENTITY bodyAsPlaintext.label  "Pelkkä teksti">
 <!ENTITY bodyAsPlaintext.accesskey  "P">
+<!ENTITY bodyAllParts.label "Kaikki viestirungon osat">
+<!ENTITY bodyAllParts.accesskey "K">
 
 <!ENTITY bodyMenuFeed.label "Syötteen viesti muodossa">
 <!ENTITY bodyMenuFeed.accesskey "S">

@@ -59,6 +59,7 @@
 <!ENTITY editMessageButton.label "Muokkaa…">
 <!ENTITY hdrArchiveButton.label "arkistoi">
 <!ENTITY hdrArchiveButton.tooltip "arkistoi viesti">
+<!ENTITY hdrSmartReplyButton.label "älyvastaa">
 <!ENTITY hdrReplyButton.label "vastaa">
 <!ENTITY hdrReplyButton.tooltip "vastaa viestiin">
 <!ENTITY hdrReplyAllButton.label "vastaa kaikille">
