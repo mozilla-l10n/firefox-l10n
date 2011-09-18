@@ -10,8 +10,8 @@
 <!ENTITY useCurrentPage.label      "Použiť aktuálnu stránku">
 <!ENTITY useCurrentPage.accesskey  "s">
 <!ENTITY useMultiple.label         "Použiť aktuálne stránky">
-<!ENTITY useBookmark.label         "Použiť záložku">
-<!ENTITY useBookmark.accesskey     "z">
+<!ENTITY chooseBookmark.label      "Použiť záložku…">
+<!ENTITY chooseBookmark.accesskey  "z">
 <!ENTITY restoreDefault.label      "Obnoviť predvolené">
 <!ENTITY restoreDefault.accesskey  "O">
 <!ENTITY restoreOnDemand.label     "Nenačítavať obsah karty, kým nie je aktívna">
