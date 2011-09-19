@@ -69,7 +69,7 @@
 <!ENTITY hdrForwardButton.label "Videresend">
 <!ENTITY hdrForwardButton.tooltip "Videresend denne meddelelse">
 <!ENTITY hdrJunkButton.label "Spam">
-<!ENTITY hdrJunkButton.tooltip "Marker denne meddelelse">
+<!ENTITY hdrJunkButton.tooltip "Marker denne meddelelse som spam">
 <!ENTITY hdrTrashButton.label "Slet">
 <!ENTITY hdrTrashButton.tooltip "Slet denne meddelelse">
 
