@@ -51,7 +51,7 @@
 
 <!ENTITY pref.weekstarts.label "Første ugedag:">
 <!ENTITY pref.weekstarts.accesskey "u">
-<!ENTITY pref.daysoff.label "Fridag(e) i hver uge:">
+<!ENTITY pref.daysoff.label "Arbejdsdage i hver uge:">
 
 <!ENTITY pref.calendar.view.daystart.label "Dagen starter kl.:">
 <!ENTITY pref.calendar.view.daystart.accesskey "s">

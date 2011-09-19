@@ -253,7 +253,7 @@
 <!ENTITY event.repeat.does.not.repeat.label "Gentages ikke">
 <!ENTITY event.repeat.daily.label "Dagligt">
 <!ENTITY event.repeat.weekly.label "Ugentligt">
-<!ENTITY event.repeat.every.weekday.label "Hver ugedag">
+<!ENTITY event.repeat.every.weekday.label "Hver hverdag">
 <!ENTITY event.repeat.bi.weekly.label "Hver 14. dag">
 <!ENTITY event.repeat.monthly.label "Månedligt">
 <!ENTITY event.repeat.yearly.label "Årligt">
@@ -268,7 +268,7 @@
 
 <!ENTITY event.recurrence.pattern.every.label "Hver">
 <!ENTITY repeat.units.days.both "dag">
-<!ENTITY event.recurrence.pattern.every.weekday.label "Hver ugedag">
+<!ENTITY event.recurrence.pattern.every.weekday.label "Hver hverdag">
 
 <!ENTITY event.recurrence.pattern.weekly.every.label "Hver">
 <!ENTITY repeat.units.weeks.both "uge">
